@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 2 years after the transition date, the Corporation shall prepare a strategic plan for transferring ownership of the Corporation to private investors. The Corporation shall revise the plan as needed.
+Within 2 years after the transition date, the Corporation shall prepare a strategic plan fortransferring ownership of the Corporation to private investors. The Corporation shall revise the plan as needed.
 
 #### (b) Consideration of alternative means of transferring ownership
 

@@ -1,6 +1,6 @@
 ### §112. Letting of contracts
 
-(a) In all cases where the construction is to be performed by the State highway department or under its supervision, a request for submission of bids shall be made by advertisement unless some other method is approved by the Secretary. The Secretary shall require such plans and specifications and such methods of bidding as shall be effective in securing competition.
+(a) In all cases where the construction is to be performed by the State highway department or under its supervision, a request for submission of bids shall be made by advertisement unlesssome other method is approved by the Secretary. The Secretary shall require such plans and specifications and such methods of bidding as shall be effective in securing competition.
 
 (b)
 
@@ -30,6 +30,26 @@ In a complying state.—If, on the date of the enactment of this paragraph, the 
 
 In a noncomplying state.—In the case of any other State, subparagraph (A) shall apply in such State beginning on the earlier of (I) August 1, 1989, or (II) the 10th day following the close of the 1st regular session of the legislature of a State which begins after the date of the enactment of this paragraph, except to the extent that such State adopts or has adopted by statute a formal procedure for the procurement of the services described in subparagraph (A).
 
+&emsp;&emsp;(C)
+
+Performance and audits.—Any contract or subcontract awarded in accordance with subparagraph (A), whether funded in whole or in part with Federal-aid highway funds, shall be performed and audited in compliance with cost principles contained in the Federal Acquisition Regulations of part 31 of title 48, Code of Federal Regulations.
+
+&emsp;&emsp;(D)
+
+Indirect cost rates.—Instead of performing its own audits, a recipient of funds under a contract or subcontract awarded in accordance with subparagraph (A) shall accept indirect cost rates established in accordance with the Federal Acquisition Regulations for 1-year applicable accounting periods by a cognizant Federal or State government agency, if such rates are not currently under dispute.
+
+&emsp;&emsp;(E)
+
+Application of rates.—Once a firm's indirect cost rates are accepted under this paragraph, the recipient of the funds shall apply such rates for the purposes of contract estimation, negotiation, administration, reporting, and contract payment and shall not be limited by administrative or de facto ceilings of any kind.
+
+&emsp;&emsp;(F)
+
+Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+
+&emsp;&emsp;(G)
+
+State option.—Subparagraphs (C), (D), (E), and (F) shall take effect 1 year after the date of the enactment of this subparagraph; except that if a State, during such 1-year period, adopts by statute an alternative process intended to promote engineering and design quality and ensure maximum competition by professional companies of all sizes providing engineering and design services, such subparagraphs shall not apply with respect to the State. If the Secretary determines that the legislature of the State did not convene and adjourn a full regular session during such 1-year period, the Secretary may extend such 1-year period until the adjournment of the next regular session of the legislature.
+
 (c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
 (d) No contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, shall be entered into by any State highway department or local subdivision of the State without compliance with the provisions of this section, and without the prior concurrence of the Secretary in the award thereof.
@@ -56,7 +76,7 @@ Limitation on applicability.—Paragraph (1) shall apply in a State except to th
 
 (f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581.)
 
 #### References in Text
 
@@ -64,7 +84,11 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
+The date of the enactment of this subparagraph, referred to in subsec. (b)(2)(G), is the date of enactment of Pub. L. 104–59, which was approved Nov. 28, 1995.
+
 #### Amendments
+
+1995—Subsec. (b)(2)(C) to (G). Pub. L. 104–59 added subpars. (C) to (G).
 
 1987—Subsec. (b). Pub. L. 100–17, §111(a), (b), (d), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted “Subject to paragraph (2), construction” for “Construction” and inserted “or that an emergency exists”, added par. (2), and realigned margins.
 
@@ -120,23 +144,11 @@ Engineering and Design Services Defined.—The term ‘engineering and design se
 
 “(f)
 
-Regulations.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall issue regulations to carry out this section.”
+Regulations.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], theSecretary shall issue regulations to carry out this section.”
 
 #### Pilot Program for Uniform Audit Procedures
 
-Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, provided that:
-
-“(a)
-
-Establishment.—The Secretary shall establish a pilot program under which any contract or subcontract awarded in accordance with section 112(b)(2)(A) of title 23, United States Code, shall be performed and audited in compliance with cost principles contained in the Federal acquisition regulations of part 31 of title 48 of the Code of Federal Regulations. The pilot program under this section shall include participation of not more than 10 States.
-
-“(b)
-
-Indirect Cost Rates.—In lieu of performing their own audits, the States participating in the pilot program shall accept indirect cost rates established in accordance with the Federal acquisition regulations for 1-year applicable accounting periods by a cognizant government agency or audited by an independent certified public accountant, if such rates are not currently under dispute. Once a firm's indirect cost rates are accepted, all the recipients of such funds shall apply such rates for the purposes of contract estimation, negotiation, administration, reporting, and contract payment and shall not be limited by administrative or defacto ceilings in accordance with section 15.901(c) of such title 48. A recipient of such funds requesting or using the cost and rate data described in this subsection shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to any other firm or to any government agency which is not part of the group of agencies sharing cost data under this subsection, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
-
-“(c)
-
-Report.—Each State participating in the pilot program shall report to the Secretary not later than 3 years after the date of the enactment of this Act \[Dec. 18, 1991\] on the results of the program.”
+Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, directed Secretary to establish pilot program to include no more than 10 States under which any contract or subcontract awarded in accordance with subsec. (b)(2)(A) of this section was to be performed and audited in compliance with cost principles contained in Federal acquisition regulations of part 41 of title 48 of Code of Federal Regulations, provided for indirect cost rates in lieu of performing audits, and required each State participating in pilot program to report to Secretary not later than 3 years after Dec. 18, 1991, on results of program, prior to repeal by Pub. L. 104–59, title III, §307(b), Nov. 28, 1995, 109 Stat. 582. See subsec. (b)(2)(C) to (F) of this section.
 
 #### Evaluation of State Procurement Practices
 

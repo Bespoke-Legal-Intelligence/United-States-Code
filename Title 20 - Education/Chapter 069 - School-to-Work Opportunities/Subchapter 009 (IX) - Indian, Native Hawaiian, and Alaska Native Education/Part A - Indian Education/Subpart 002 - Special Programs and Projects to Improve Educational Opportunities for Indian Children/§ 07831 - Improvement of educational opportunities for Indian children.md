@@ -26,7 +26,7 @@ For the purpose of this section, the term “eligible entity” means a State ed
 
 &emsp;&emsp;(A) innovative programs related to the educational needs of educationally deprived children;
 
-&emsp;&emsp;(B) educational services that are not available to such children in sufficient quantityor quality, including remedial instruction, to raise the achievement of Indian children in one or more of the core academic subjects of English, mathematics, science, foreign languages, art, history, and geography;
+&emsp;&emsp;(B) educational services that are not available to such children in sufficient quantity or quality, including remedial instruction, to raise the achievement of Indian children in one or more of the core academic subjects of English, mathematics, science, foreign languages, art, history, and geography;
 
 &emsp;&emsp;(C) bilingual and bicultural programs and projects;
 
@@ -80,5 +80,5 @@ For the purpose of this section, the term “eligible entity” means a State ed
 
 &emsp;&emsp;(iii) such other assurances and information as the Secretary may reasonably require.
 
-(Pub. L. 89 10, title IX, §9121, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3782.)
+(Pub. L. 89–10, title IX, §9121, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3782.)
 

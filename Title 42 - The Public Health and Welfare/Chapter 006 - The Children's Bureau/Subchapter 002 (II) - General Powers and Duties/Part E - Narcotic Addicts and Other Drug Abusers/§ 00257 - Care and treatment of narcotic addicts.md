@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 92–255, §402(b), added subsec. (c).
 
 Subsec. (b). Pub. L. 89–793 designated existing third sentence as subsec. (b).
 
-1956—Act July 24, 1956, required the Surgeon General to furnish to the Commissioners or their designated agent, the name, address, and any other useful information relating to persons who voluntarily submit themselves for treatment and who, at the time of submission, are residents of the District of Columbia.
+1956—Act July 24, 1956, required the Surgeon General to furnish to the Commissioners or their designatedagent, the name, address, and any other useful information relating to persons who voluntarily submit themselves for treatment and who, at the time of submission, are residents of the District of Columbia.
 
 1954—Act May 8, 1954, inserted in first sentence reference to addicts who are committed to the Service or to a hospital thereof pursuant to section 260a of this title.
 

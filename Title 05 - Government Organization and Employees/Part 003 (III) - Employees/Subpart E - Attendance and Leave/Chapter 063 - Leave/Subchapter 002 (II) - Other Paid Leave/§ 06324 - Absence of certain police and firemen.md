@@ -32,9 +32,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1975—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
-1968—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
 
 #### Effective Date of 1968 Amendment
 

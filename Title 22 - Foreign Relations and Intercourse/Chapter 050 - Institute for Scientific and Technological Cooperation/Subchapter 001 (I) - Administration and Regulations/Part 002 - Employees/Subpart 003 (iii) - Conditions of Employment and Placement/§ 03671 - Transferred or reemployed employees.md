@@ -56,7 +56,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 #### (c) Applicability of sections 903(c) and 904(a)(2) of title 20; sabbaticals
 
-(1) Section 903(c) of title 20 shall not apply with respect to any teacher who was employedby the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under section 903(c) of title 20 equal or exceed the rates of basic compensation then in effect for teachers who were so transferred.
+(1) Section 903(c) of title 20 shall not apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under section 903(c) of title 20 equal or exceed the rates of basic compensation then in effect for teachers who were so transferred.
 
 (2) Section 904(a)(2) of title 20 shall not apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama.
 

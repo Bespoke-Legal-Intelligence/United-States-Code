@@ -6,7 +6,7 @@
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
-&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or suchcontinuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
+&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods,of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
 
 (2) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made—
 
@@ -50,7 +50,7 @@
 
 &emsp;(ii) Subject to paragraph (2)(B) of this subsection, the rate 2 per centum ad valorem below the rate existing on July 1, 1958.
 
-&emsp;(iii) The rate 50 per centum ad valorem or, in the case of any article subject to a specificrate of duty or to a combination of rates including a specific rate, any rate (or combination of rates), however stated, the ad valorem equivalent of which has been determined as 50 per centum ad valorem.
+&emsp;(iii) The rate 50 per centum ad valorem or, in the case of any article subject to a specific rate of duty or to a combination of rates including a specific rate, any rate (or combination of rates), however stated, the ad valorem equivalent of which has been determined as 50 per centum ad valorem.
 
 > The provisions of clauses (ii) and (iii) of this subparagraph and of subparagraph (B)(ii) of this paragraph shall, in the case of any article, subject to a combination of ad valorem rates of duty, apply to the aggregate of such rates; and, in the case of any article, subject to a specific rate of duty or to a combination of rates including a specific rate, such provisions shall apply on the basis of the ad valorem equivalent of such rate or rates, during a representative period (whether or not such period includes July 1, 1958), determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purpose of paragraph (2)(D)(ii) of this subsection.
 
@@ -82,7 +82,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 (2) For purposes of this section—
 
-&emsp;(A) Except as provided in subsection (d) of this section, the terms “existing on July 1, 1934”, “existing on January 1, 1945”, “existing on January 1, 1955”, and “existing on July 1, 1958” refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
+&emsp;(A) Except as provided in subsection (d) of this section, the terms “existing on July 1,1934”, “existing on January 1, 1945”, “existing on January 1, 1955”, and “existing on July 1, 1958” refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
 
 &emsp;(B) The term “existing” without the specification of any date, when used with respect to any matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
 
@@ -144,7 +144,7 @@ Subsec. (e)(1). Pub. L. 85–686, §3(d), provided for the inclusion in the repo
 
 Subsec. (f). Pub. L. 85–686, §3(e), added subsec. (f).
 
-1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
+1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariffrates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
 
 Subsec. (b). Act June 21, 1955, §3(b), made applicable to Cuban products the new limits of authority to reduce tariffs.
 
@@ -226,7 +226,7 @@ Ex. Ord. No. 10082, Oct. 5, 1949, 14 F.R. 6105, as amended by Ex. Ord. No. 10170
 
 #### Executive Order No. 10741
 
-Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Policy Committee, was revoked by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
+Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Policy Committee, was revoked byEx. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
 
 #### Cross References
 

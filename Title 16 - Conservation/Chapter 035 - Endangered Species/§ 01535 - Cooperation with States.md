@@ -46,7 +46,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 #### (d) Allocation of funds
 
-(1) The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species or to assist in monitoring the status of candidate species pursuant to subparagraph (C) of section 1533(b)(3) of this title and recovered species pursuant to section 1533(g) of this title. The Secretary shall allocate each annual appropriation made in accordance with the provisions of subsection (i) of this section to such States based on consideration of—
+(1) The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into acooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species or to assist in monitoring the status of candidate species pursuant to subparagraph (C) of section 1533(b)(3) of this title and recovered species pursuant to section 1533(g) of this title. The Secretary shall allocate each annual appropriation made in accordance with the provisions of subsection (i) of this section to such States based on consideration of—
 
 &emsp;(A) the international commitments of the United States to protect endangered species or threatened species;
 
@@ -70,7 +70,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(ii) the Federal share may be increased to 90 percent whenever two or more States having a common interest in one or more endangered or threatened species, the conservation of which may be enhanced by cooperation of such States, enter jointly into an agreement with the Secretary.
 
-> The Secretary may, in his discretion, and under such rules and regulations as he may prescribe, advance funds to the State for financing the United States pro rata share agreed upon in the cooperative agreement. For the purposes of this section, the non-Federal share may, in the discretion of the Secretary, be in the form ofmoney or real property, the value of which will be determined by the Secretary, whose decision shall be final.
+> The Secretary may, in his discretion, and under such rules and regulations as he may prescribe, advance funds to the State for financing the United States pro rata share agreed upon in the cooperative agreement. For the purposes of this section, the non-Federal share may, in the discretion of the Secretary, be in the form of money or real property, the value of which will be determined by the Secretary, whose decision shall be final.
 
 #### (e) Review of State programs
 
@@ -124,7 +124,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 &emsp;“(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
 
-> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be madeavailable for expenditure by the Secretary in conducting programs under this section.”
+> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section.”
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 

@@ -1,4 +1,4 @@
-### §3579 . Command: commissioned officers of Army Medical Department
+### §3579. Command: commissioned officers of Army Medical Department
 
 (a) Except as provided in subsection (b), a commissioned officer of the Army Medical Department is not entitled to exercise command because of his rank, except within the Army Medical Department.
 

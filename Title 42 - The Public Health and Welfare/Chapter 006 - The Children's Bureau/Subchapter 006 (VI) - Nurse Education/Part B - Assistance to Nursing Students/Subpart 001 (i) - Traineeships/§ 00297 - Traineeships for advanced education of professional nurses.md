@@ -32,13 +32,13 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this section, there is authorized to be appropriated $20,000,000 for each of the fiscal years 1993 and 1994.
+&emsp;For the purpose of carrying out this section, there is authorized to be appropriated$20,000,000 for each of the fiscal years 1993 and 1994.
 
 #### (2) Limitation regarding certain traineeships
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may not obligate more than 10 percent for providing traineeships under subsection (a) of this section for individuals in doctoral degree programs.
 
-(July 1, 1944, ch. 373, title VIII, §830, formerly §821, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 913; amended Aug. 16, 1968, Pub. L. 90–490, title II, §221, 82 Stat. 783; July 9, 1971, Pub. L. 92–52, §5, 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §§5, 13, 85 Stat. 475, 480; renumbered §830 and amended July 29, 1975, Pub. L. 94–63, title IX, §§935, 941(g)(2), 89 Stat. 362, 365; Oct. 12, 1976,Pub. L. 94–484, title IX, §901, 90 Stat. 2323; Aug. 1, 1977, Pub. L. 95–83, title III, §307(<i>o</i>)(5)(B), 91 Stat. 394; Sept. 29, 1979, Pub. L. 96–76, title I, §108, 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2756, 95 Stat. 931; Aug. 16, 1985, Pub. L. 99–92, §6, 99 Stat. 395; Nov. 4, 1988, Pub. L. 100–607, title VII, §711, 102 Stat. 3159; Oct. 13, 1992, Pub. L. 102–408, title II, §206, 106 Stat. 2073; June 10, 1993, Pub. L. 103–43, title XX, §2014(f), 107 Stat. 217.)
+(July 1, 1944, ch. 373, title VIII, §830, formerly §821, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 913; amended Aug. 16, 1968, Pub. L. 90–490, title II, §221, 82 Stat. 783; July 9, 1971, Pub. L. 92–52, §5, 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §§5, 13, 85 Stat. 475, 480; renumbered §830 and amended July 29, 1975, Pub. L. 94–63, title IX, §§935, 941(g)(2), 89 Stat. 362, 365; Oct. 12, 1976, Pub. L. 94–484, title IX, §901, 90 Stat. 2323; Aug. 1, 1977, Pub. L. 95–83, title III, §307(<i>o</i>)(5)(B), 91 Stat. 394; Sept. 29, 1979, Pub. L. 96–76, title I, §108, 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2756, 95 Stat. 931; Aug. 16, 1985, Pub. L. 99–92, §6, 99 Stat. 395; Nov. 4, 1988, Pub. L. 100–607, title VII, §711, 102 Stat. 3159; Oct. 13, 1992, Pub. L. 102–408, title II, §206, 106 Stat. 2073; June 10, 1993, Pub. L. 103–43, title XX, §2014(f), 107 Stat. 217.)
 
 #### Amendments
 

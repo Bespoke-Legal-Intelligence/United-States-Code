@@ -1,4 +1,4 @@
-### §1330 . Collection of penalties and expenses
+### §1330. Collection of penalties and expenses
 
 (a) Notwithstanding any other provisions of this subchapter, the withholding or denial of clearance of or a lien upon any vessel or aircraft provided for in section 1221, 1227, 1229, 1253, 1281, 1283, 1284, 1285, 1286, 1321, 1322, or 1323 of this title shall not be regarded as the sole and exclusive means or remedy for the enforcement of payments of any fine, penalty or expenses imposed or incurred under such sections, but, in the discretion of the Attorney General, the amount thereof may be recovered by civil suit, in the name of the United States, from any person made liable under any of such sections.
 

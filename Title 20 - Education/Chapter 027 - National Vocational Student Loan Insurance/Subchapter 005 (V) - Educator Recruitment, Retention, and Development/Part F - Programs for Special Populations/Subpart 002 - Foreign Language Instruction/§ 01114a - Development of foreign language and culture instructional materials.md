@@ -16,9 +16,9 @@ In developing materials and technologies under this section, the Secretary shall
 
 There are authorized to be appropriated $4,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out the provisions of this section.
 
-(Pub. L. 89 329, title V, §587, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 714.)
+(Pub. L. 89–329, title V, §587, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 714.)
 
 #### References in Text
 
-The Star Schools Program Assistance Act, referred to in subsec. (b), is title IX of Pub. L. 98 377, as added by Pub. L. 100 297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, which was classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title, prior to repeal by Pub. L. 103 382, title III, §364, Oct. 20, 1994, 108 Stat. 3975. For complete classification of this Act to the Code, see Tables. For provisions relating to the Star Schools Program, see section 6891 et seq. of this title.
+The Star Schools Program Assistance Act, referred to in subsec. (b), is title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, which was classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title, prior to repeal by Pub. L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975. For complete classification of this Act to the Code, see Tables. For provisions relating to the Star Schools Program, see section 6891 et seq. of this title.
 

@@ -14,7 +14,7 @@ There are authorized to be appropriated to the Secretary to carry out this chapt
 
 #### Amendments
 
-1992—Pub. L. 102–587 amended section generally, substituting provisions relating to authorization of appropriations for fiscal years 1993 to 1996 to carry out this chapter for provisions relating to authorization of appropriations for fiscal years 1989 to 1992 to carry outgeneral administration, management of national marine sanctuaries and site review and analysis of national marine sanctuaries of this chapter.
+1992—Pub. L. 102–587 amended section generally, substituting provisions relating to authorization of appropriations for fiscal years 1993 to 1996 to carry out this chapter for provisions relating to authorization of appropriations for fiscal years 1989 to 1992 to carry out general administration, management of national marine sanctuaries and site review and analysis of national marine sanctuaries of this chapter.
 
 1990—Par. (2)(C). Pub. L. 101–605 substituted “$4,000,000” for “$3,000,000”.
 

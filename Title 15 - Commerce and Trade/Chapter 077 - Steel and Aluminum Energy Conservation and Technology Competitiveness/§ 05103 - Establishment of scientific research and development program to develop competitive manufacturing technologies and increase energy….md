@@ -22,7 +22,7 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 > &emsp;may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
 
-&emsp;(5) The plan shall assure basic research support, for the research carried out under the research plan, from independent laboratories, universities, and nonprofit organizations, by coordinating activities under the research plan with the basic research efforts of the Department of Energy, such as the Energy Conversion and Utilization Technologies Program and the Materials Processing and Sensor andControls programs within the Office of Industrial Technologies.
+&emsp;(5) The plan shall assure basic research support, for the research carried out under the research plan, from independent laboratories, universities, and nonprofit organizations, by coordinating activities under the research plan with the basic research efforts of the Department of Energy, such as the Energy Conversion and Utilization Technologies Program and the Materials Processing and Sensor and Controls programs within the Office of Industrial Technologies.
 
 #### (c) Priorities
 
@@ -70,13 +70,13 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 The Secretary shall arrange for participation and review by representatives of each affected industry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
 
-(Pub. L. 100 680, §4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102 486, title XXI, §2106(a)(1), Oct. 24, 1992, 106 Stat. 3070.)
+(Pub. L. 100–680, §4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102–486, title XXI, §2106(a)(1), Oct. 24, 1992, 106 Stat. 3070.)
 
 #### References in Text
 
-The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93 577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 #### Amendments
 
-1992—Subsec. (b)(5). Pub. L. 102 486 substituted “Industrial Technologies” for “Industrial Programs”.
+1992—Subsec. (b)(5). Pub. L. 102–486 substituted “Industrial Technologies” for “Industrial Programs”.
 

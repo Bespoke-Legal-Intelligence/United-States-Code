@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title37",
- "package": "USCODE-1994-title37",
+ "package": "USCODE-1995-title37",
  "pieces": [
   {
    "id": "37_",
@@ -170,7 +170,7 @@
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 13]",
      true
     ],
@@ -472,18 +472,14 @@
      ]
     ],
     [
-     "I",
+     "L",
      142,
-     [
-      [
-       105,
-       "[Page 37]"
-      ]
-     ]
+     "[Page 37]",
+     true
     ],
     [
      "L",
-     208,
+     206,
      "[Page 38]",
      true
     ]
@@ -502,7 +498,7 @@
      14,
      [
       [
-       312,
+       269,
        "[Page 39]"
       ]
      ]
@@ -512,7 +508,7 @@
      114,
      [
       [
-       200,
+       144,
        "[Page 40]"
       ]
      ]
@@ -1561,27 +1557,27 @@
     ],
     [
      "I",
-     356,
+     354,
      [
       [
-       486,
+       591,
        "[Page 108]"
       ]
      ]
     ],
     [
      "I",
-     414,
+     412,
      [
       [
-       105,
+       163,
        "[Page 109]"
       ]
      ]
     ],
     [
      "I",
-     498,
+     496,
      [
       [
        104,
@@ -2101,30 +2097,30 @@
   },
   {
    "id": "37_432",
-   "marks": [],
-   "path": "Chapter 007 - Allowances/§ 00432 - Travel and transportation members escorting certain dependents.md",
-   "printed_pages": [
-    130,
-    130
-   ]
-  },
-  {
-   "id": "37_433",
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       231,
+       108,
        "[Page 131]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 007 - Allowances/§ 00433 - Allowance for muster duty.md",
+   "path": "Chapter 007 - Allowances/§ 00432 - Travel and transportation members escorting certain dependents.md",
    "printed_pages": [
     130,
+    131
+   ]
+  },
+  {
+   "id": "37_433",
+   "marks": [],
+   "path": "Chapter 007 - Allowances/§ 00433 - Allowance for muster duty.md",
+   "printed_pages": [
+    131,
     131
    ]
   },
@@ -2150,26 +2146,34 @@
    "id": "37_501",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 132]",
-     true
+     "I",
+     14,
+     [
+      [
+       93,
+       "[Page 132]"
+      ]
+     ]
     ],
     [
      "I",
-     106,
+     64,
      [
       [
-       167,
+       112,
        "[Page 133]"
       ]
      ]
     ],
     [
-     "L",
-     184,
-     "[Page 134]",
-     true
+     "I",
+     170,
+     [
+      [
+       218,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Leave/§ 00501 - Payments for unused accrued leave.md",
@@ -2182,10 +2186,14 @@
    "id": "37_502",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 135]",
-     true
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 135]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Leave/§ 00502 - Absences due to sickness, wounds, and certain other causes.md",
@@ -2205,26 +2213,26 @@
   },
   {
    "id": "37_504",
-   "marks": [],
-   "path": "Chapter 009 - Leave/§ 00504 - Cadets and midshipmen chapter does not apply to.md",
-   "printed_pages": [
-    135,
-    135
-   ]
-  },
-  {
-   "id": "37_-ch10",
    "marks": [
     [
      "L",
-     26,
+     20,
      "[Page 136]",
      true
     ]
    ],
-   "path": "Chapter 010 - Payments to Missing Persons/README.md",
+   "path": "Chapter 009 - Leave/§ 00504 - Cadets and midshipmen chapter does not apply to.md",
    "printed_pages": [
     135,
+    136
+   ]
+  },
+  {
+   "id": "37_-ch10",
+   "marks": [],
+   "path": "Chapter 010 - Payments to Missing Persons/README.md",
+   "printed_pages": [
+    136,
     136
    ]
   },
@@ -2241,20 +2249,22 @@
    "id": "37_552",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       138,
-       "[Page 137]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 137]",
+     true
+    ],
+    [
+     "L",
+     88,
+     "[Page 138]",
+     true
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00552 - Pay and allowances; continuance while in a missing status; limitations.md",
    "printed_pages": [
     136,
-    137
+    138
    ]
   },
   {
@@ -2262,24 +2272,18 @@
    "marks": [
     [
      "I",
-     4,
+     88,
      [
       [
-       142,
-       "[Page 138]"
+       375,
+       "[Page 139]"
       ]
      ]
-    ],
-    [
-     "L",
-     96,
-     "[Page 139]",
-     true
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00553 - Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations.md",
    "printed_pages": [
-    137,
+    138,
     139
    ]
   },
@@ -2288,17 +2292,17 @@
    "marks": [
     [
      "I",
-     36,
+     34,
      [
       [
-       609,
+       323,
        "[Page 140]"
       ]
      ]
     ],
     [
      "L",
-     142,
+     126,
      "[Page 141]",
      true
     ]
@@ -2311,11 +2315,22 @@
   },
   {
    "id": "37_555",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     62,
+     [
+      [
+       324,
+       "[Page 142]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00555 - Secretarial review.md",
    "printed_pages": [
     141,
-    141
+    142
    ]
   },
   {
@@ -2323,53 +2338,39 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 142]",
+     92,
+     "[Page 143]",
      true
-    ],
-    [
-     "I",
-     94,
-     [
-      [
-       534,
-       "[Page 143]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00556 - Secretarial determinations.md",
    "printed_pages": [
-    141,
+    142,
     143
    ]
   },
   {
    "id": "37_557",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 144]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00557 - Settlement of accounts.md",
    "printed_pages": [
     143,
-    143
+    144
    ]
   },
   {
    "id": "37_558",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       344,
-       "[Page 144]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00558 - Income tax deferment.md",
    "printed_pages": [
-    143,
+    144,
     144
    ]
   },
@@ -2378,7 +2379,7 @@
    "marks": [
     [
      "I",
-     46,
+     28,
      [
       [
        91,
@@ -2404,44 +2405,31 @@
   },
   {
    "id": "37_601",
-   "marks": [],
-   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00601 - Applicability.md",
-   "printed_pages": [
-    145,
-    145
-   ]
-  },
-  {
-   "id": "37_602",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       281,
-       "[Page 146]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 146]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00602 - Payments designation of person to receive amounts due.md",
+   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00601 - Applicability.md",
    "printed_pages": [
     145,
     146
    ]
   },
   {
-   "id": "37_603",
+   "id": "37_602",
    "marks": [],
-   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00603 - Regulations.md",
+   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00602 - Payments designation of person to receive amounts due.md",
    "printed_pages": [
     146,
     146
    ]
   },
   {
-   "id": "37_604",
+   "id": "37_603",
    "marks": [
     [
      "L",
@@ -2450,9 +2438,18 @@
      true
     ]
    ],
-   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00604 - Determination of Secretary final.md",
+   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00603 - Regulations.md",
    "printed_pages": [
     146,
+    147
+   ]
+  },
+  {
+   "id": "37_604",
+   "marks": [],
+   "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00604 - Determination of Secretary final.md",
+   "printed_pages": [
+    147,
     147
    ]
   },
@@ -2467,30 +2464,30 @@
   },
   {
    "id": "37_701",
-   "marks": [],
-   "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00701 - Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons.md",
-   "printed_pages": [
-    147,
-    147
-   ]
-  },
-  {
-   "id": "37_[702",
    "marks": [
     [
      "I",
-     2,
+     80,
      [
       [
-       161,
+       209,
        "[Page 148]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00702 - Repealed. Pub. L. 99–145, title VI, §683(b)(1), Nov. 8, 1985, 99 Stat. 665.md",
+   "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00701 - Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons.md",
    "printed_pages": [
     147,
+    148
+   ]
+  },
+  {
+   "id": "37_[702",
+   "marks": [],
+   "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00702 - Repealed. Pub. L. 99–145, title VI, §683(b)(1), Nov. 8, 1985, 99 Stat. 665.md",
+   "printed_pages": [
+    148,
     148
    ]
   },
@@ -2523,30 +2520,26 @@
   },
   {
    "id": "37_706",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 149]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00706 - Allotments commissioned officers of the National Oceanic and Atmospheric Administration.md",
    "printed_pages": [
     148,
-    148
+    149
    ]
   },
   {
    "id": "37_707",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       91,
-       "[Page 149]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00707 - Allotments members of the National Guard.md",
    "printed_pages": [
-    148,
+    149,
     149
    ]
   },
@@ -2570,11 +2563,18 @@
   },
   {
    "id": "37_802",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 150]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00802 - Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs.md",
    "printed_pages": [
     149,
-    149
+    150
    ]
   },
   {
@@ -2582,23 +2582,16 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00803 - Commissioned officers of Army or Air Force forfeiture of pay when dropped from rolls.md",
    "printed_pages": [
-    149,
-    149
+    150,
+    150
    ]
   },
   {
    "id": "37_804",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 150]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00804 - Enlisted members of Army or Air Force pay and allowances not to accrue during suspended sentence of dishonorable discharge.md",
    "printed_pages": [
-    149,
+    150,
     150
    ]
   },
@@ -2631,30 +2624,26 @@
   },
   {
    "id": "37_902",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 151]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00902 - Pay of crews of wrecked or lost naval vessels.md",
    "printed_pages": [
     150,
-    150
+    151
    ]
   },
   {
    "id": "37_903",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       422,
-       "[Page 151]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00903 - Retired members recalled to active duty; former members.md",
    "printed_pages": [
-    150,
+    151,
     151
    ]
   },
@@ -2669,30 +2658,26 @@
   },
   {
    "id": "37_905",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     98,
+     "[Page 152]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00905 - Reserve officers of the Navy or Marine Corps not on the active-duty list effective date of pay and allowances.md",
    "printed_pages": [
     151,
-    151
+    152
    ]
   },
   {
    "id": "37_906",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       102,
-       "[Page 152]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00906 - Extension of enlistment effect on pay and allowances.md",
    "printed_pages": [
-    151,
+    152,
     152
    ]
   },
@@ -2710,7 +2695,7 @@
    "marks": [
     [
      "L",
-     36,
+     12,
      "[Page 153]",
      true
     ]
@@ -2735,7 +2720,7 @@
    "marks": [
     [
      "L",
-     58,
+     42,
      "[Page 154]",
      true
     ]
@@ -2775,11 +2760,18 @@
   },
   {
    "id": "37_1005",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 155]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Administration/§ 01005 - Army and Air Force prompt payments required.md",
    "printed_pages": [
     154,
-    154
+    155
    ]
   },
   {
@@ -2787,25 +2779,29 @@
    "marks": [
     [
      "I",
-     10,
+     68,
      [
       [
-       132,
-       "[Page 155]"
+       156,
+       "[Page 156]"
       ]
      ]
     ],
     [
-     "L",
-     76,
-     "[Page 156]",
-     true
+     "I",
+     152,
+     [
+      [
+       166,
+       "[Page 157]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01006 - Advance payments.md",
    "printed_pages": [
-    154,
-    156
+    155,
+    157
    ]
   },
   {
@@ -2813,97 +2809,92 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 157]",
-     true
-    ],
-    [
-     "L",
-     148,
+     128,
      "[Page 158]",
      true
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01007 - Deductions from pay.md",
    "printed_pages": [
-    156,
+    157,
     158
    ]
   },
   {
    "id": "37_1008",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 159]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Administration/§ 01008 - Presidential recommendations concerning adjustments and changes in pay and allowances.md",
    "printed_pages": [
     158,
-    158
+    159
    ]
   },
   {
    "id": "37_1009",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 159]",
-     true
-    ],
-    [
      "I",
-     68,
+     50,
      [
       [
-       110,
+       388,
        "[Page 160]"
       ]
      ]
     ],
     [
-     "L",
-     201,
-     "[Page 161]",
-     true
+     "I",
+     175,
+     [
+      [
+       113,
+       "[Page 161]"
+      ]
+     ]
     ],
     [
      "I",
-     299,
+     289,
      [
       [
-       214,
+       496,
        "[Page 162]"
       ]
      ]
     ],
     [
-     "I",
-     545,
-     [
-      [
-       8,
-       "[Page 163]"
-      ]
-     ]
+     "L",
+     339,
+     "[Page 163]",
+     true
     ],
     [
      "I",
-     813,
+     829,
      [
       [
-       60,
+       68,
        "[Page 164]"
       ]
      ]
     ],
     [
      "L",
-     1160,
+     1176,
      "[Page 165]",
      true
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01009 - Adjustments of compensation.md",
    "printed_pages": [
-    158,
+    159,
     165
    ]
   },
@@ -2921,10 +2912,10 @@
    "marks": [
     [
      "I",
-     4,
+     12,
      [
       [
-       522,
+       107,
        "[Page 166]"
       ]
      ]
@@ -2956,25 +2947,14 @@
   },
   {
    "id": "37_1014",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       115,
-       "[Page 167]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Administration/§ 01014 - Payment date for pay and allowances.md",
    "printed_pages": [
     166,
-    167
+    166
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1994-title37 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1995-title37 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 37 - Pay and Allowances of the Uniformed Services"
 }

@@ -12,7 +12,7 @@ This chapter may be cited as the “Federal Credit Union Act”.
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508 of Title 20, Education.
 
-Transfer of functions of Farm Credit Administration and Governor thereof to Bureau of Farm Credit Unions and Director thereof under jurisdiction of Federal Security Agency by act June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091, and abolishment of Agency and transfer of its functions to Department of Health, Education, and Welfare by Reorg. Plan No. 1 of 1953, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 632, see section 1752a of this title, and notes thereunder.
+Transfer of functions of Farm Credit Administration and Governor thereof to Bureau of Farm Credit Unions and Director thereof under jurisdiction of Federal Security Agency by act June 29, 1948, ch. 711, §§1, 2, 62Stat. 1091, and abolishment of Agency and transfer of its functions to Department of Health, Education, and Welfare by Reorg. Plan No. 1 of 1953, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 632, see section 1752a of this title, and notes thereunder.
 
 Functions of Farm Credit Administration and Governor thereof under this chapter, together with functions of Secretary of Agriculture with respect thereto, transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees. A similar transfer of functions for duration of World War II was effected by Ex. Ord. No. 9148, Apr. 27, 1942, 7 F.R. 3145.
 

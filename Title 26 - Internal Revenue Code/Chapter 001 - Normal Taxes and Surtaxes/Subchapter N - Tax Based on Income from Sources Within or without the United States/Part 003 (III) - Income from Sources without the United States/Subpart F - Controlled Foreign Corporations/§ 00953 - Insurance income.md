@@ -6,7 +6,7 @@ For purposes of section 952(a)(1), the term “insurance income” means any inc
 
 &emsp;(1) is attributable to the issuing (or reinsuring) of any insurance or annuity contract—
 
-&emsp;&emsp;(A) in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, a country other than the country under the laws of which the controlled foreign corporation is created or organized, or
+&emsp;&emsp;(A) in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of,a country other than the country under the laws of which the controlled foreign corporation is created or organized, or
 
 &emsp;&emsp;(B) in connection with risks not described in subparagraph (A) as the result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect of issuing (or reinsuring) a contract described in subparagraph (A), and
 
@@ -90,7 +90,7 @@ For purposes of subsection (a)—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), any election under subparagraph (C) shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), any election under subparagraph (C)shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (II) Termination
 
@@ -172,7 +172,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) such foreign corporation would qualify under part I or II of subchapter L for the taxable year if it were a domestic corporation,
 
-&emsp;&emsp;(C) such foreign corporation meets such requirements as the Secretary shall prescribe to ensure that the taxes imposed by this chapter on such foreign corporation are paid, and
+&emsp;&emsp;(C) such foreign corporation meets such requirements as the Secretary shall prescribe to ensure that the taxes imposed by thischapter on such foreign corporation are paid, and
 
 &emsp;&emsp;(D) such foreign corporation makes an election to have this paragraph apply and waives all benefits to such corporation granted by the United States under any treaty,
 
@@ -202,7 +202,7 @@ For purposes of subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not beincluded in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
+&emsp;&emsp;&emsp;Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not be included in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
 
 #### (ii) Treatment of distributions
 
@@ -252,7 +252,7 @@ For purposes of subsection (a)—
 
 1989—Subsec. (d)(3). Pub. L. 101–239 substituted “for purposes of section 1503(d) without regard to paragraph (2)(B) thereof” for “(as defined in section 1503(d))”.
 
-1988—Subsec. (b)(1). Pub. L. 100–647, §1012(i)(7)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “A corporation which would, if it were a domestic insurance corporation, be taxable under part II of subchapter L shall apply subsection (a) as if it were taxable under part III of subchapter L.”
+1988—Subsec. (b)(1). Pub. L. 100–647, §1012(i)(7)(A), redesignated par. (2) as (1) and struck out former par. (1)which read as follows: “A corporation which would, if it were a domestic insurance corporation, be taxable under part II of subchapter L shall apply subsection (a) as if it were taxable under part III of subchapter L.”
 
 Subsec. (b)(1)(A). Pub. L. 100–647, §1012(i)(7)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “The special life insurance company deduction and the small life insurance company deduction.”
 
@@ -278,7 +278,7 @@ Subsec. (c)(6). Pub. L. 100–647, §1012(i)(4)(A), added par. (6) and redesigna
 
 Pub. L. 100–647, §1012(i)(2)(B), redesignated former par. (5) as (6).
 
-Subsec. (c)(7). Pub. L. 100–647, §1012(i)(21), added par. (7) and struck out former par. (7) “Regulations”, whichread as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing the avoidance of this subsection through cross insurance arrangements or otherwise.”
+Subsec. (c)(7). Pub. L. 100–647, §1012(i)(21), added par. (7) and struck out former par. (7) “Regulations”, which read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing the avoidance of this subsection through cross insurance arrangements or otherwise.”
 
 Pub. L. 100–647, §1012(i)(4)(A), redesignated former par. (6) as (7).
 
@@ -354,7 +354,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 ofPub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1966 Amendment
 

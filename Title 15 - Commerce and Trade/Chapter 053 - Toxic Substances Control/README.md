@@ -124,7 +124,6 @@
 | [2626\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002626%20-%20Development%20and%20evaluation%20of%20test%20methods.md) | Development and evaluation of test methods. |
 | (a) | In general. |
 | (b) | Approval by Secretary. |
-| (c) | Annual reports. |
 | [2627\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002627%20-%20State%20programs.md) | State programs. |
 | (a) | In general. |
 | (b) | Approval by Administrator. |
@@ -229,9 +228,8 @@
 | (a) | Required activities. |
 | (b) | Discretionary assistance. |
 | (c) | Information provided to professional organizations. |
-| (d) | Plan. |
-| (e) | Proficiency rating program and training seminar. |
-| (f) | Authorization. |
+| (d) | Proficiency rating program and training seminar. |
+| (e) | Authorization. |
 | [2666\.](Subchapter%20003%20%28III%29%20-%20Indoor%20Radon%20Abatement/%C2%A7%2002666%20-%20Grant%20assistance%20to%20States%20for%20radon%20programs.md) | Grant assistance to States for radon programs. |
 | (a) | In general. |
 | (b) | Application. |

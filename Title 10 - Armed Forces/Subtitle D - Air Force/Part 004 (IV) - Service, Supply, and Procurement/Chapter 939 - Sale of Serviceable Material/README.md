@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 9621\. | Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices. |
+| [9621\.](%C2%A7%2009621%20-%20Subsistence%20and%20other%20supplies%20members%20of%20armed%20forces%3B%20veterans%3B%20executive%20or%20military%20departments%20and%20employees%3B%20prices.md) | Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices. |
 | [9622\.](%C2%A7%2009622%20-%20Rations%20commissioned%20officers%20in%20field.md) | Rations: commissioned officers in field. |
 | [9623\.](%C2%A7%2009623%20-%20Tobacco%20enlisted%20members%20of%20Air%20Force.md) | Tobacco: enlisted members of Air Force. |
 | [9624\.](%C2%A7%2009624%20-%20Medical%20supplies%20civilian%20employees%20of%20the%20Air%20Force%3B%20American%20National%20Red%20Cross%3B%20Armed%20Forces%20Retirement%20Home.md) | Medical supplies: civilian employees of the Air Force; American National Red Cross; Armed Forces Retirement Home. |

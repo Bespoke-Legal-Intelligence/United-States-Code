@@ -28,7 +28,7 @@
 
 (d)(1) The Secretary of the Treasury shall invest the portion of the Guaranty and Indemnity Fund that is not required to meet current payments made from such Fund, as determined by the Secretary of Veterans Affairs, in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
 
-(2) In making investments under paragraph (1) of this subsection, the Secretary of the Treasury shall select obligations having maturities suitable to the needs of the Guaranty and Indemnity Fund, as determined by the Secretary of Veterans Affairs, and bearing interest at suitable rates, as determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+(2) In making investments under paragraph (1) of this subsection, the Secretary of the Treasury shall select obligations having maturities suitable to the needs of the Guaranty and Indemnity Fund, as determined by the Secretary of Veterans Affairs, and bearing interest at suitablerates, as determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 (e)(1) Notwithstanding subsection (b) of this section, the Guaranty and Indemnity Fund shall be available to the Secretary, to such extent as is, or in such amounts as are, provided for in appropriation Acts and subject to paragraph (2) of this subsection, for—
 

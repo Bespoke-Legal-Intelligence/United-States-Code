@@ -8,7 +8,7 @@ Establishment of Offset Policy.—The President shall establish, consistent with
 
 &emsp;(2) Application of offset arrangements, including cases in which United States funds are used to finance the purchase by a foreign government.
 
-&emsp;(3) Effects of offset arrangements on specific subsectors of the industrial base of the UnitedStates and for preventing or ameliorating any serious adverse effects on such subsectors.
+&emsp;(3) Effects of offset arrangements on specific subsectors of the industrial base of the United States and for preventing or ameliorating any serious adverse effects on such subsectors.
 
 (b)
 
@@ -74,7 +74,7 @@ Section 825(c) of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, ti
 
 Section 825(d) of Pub. L. 100–456 provided that:
 
-“(1) Not later than November 15, 1988, the President shall submit to Congress a comprehensive report oncontractual offset arrangements required of United States firms for the supply of weapon systems or defense-related items to foreign countries or foreign firms. Such report shall include, at a minimum, the following:
+“(1) Not later than November 15, 1988, the President shall submit to Congress a comprehensive report on contractual offset arrangements required of United States firms for the supply of weapon systems or defense-related items to foreign countries or foreign firms. Such report shall include, at a minimum, the following:
 
 &emsp;“(A) An analysis of the amount and type of contractual offsets required of United States firms by the governments of foreign countries or by foreign firms.
 

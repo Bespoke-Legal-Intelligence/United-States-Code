@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is created by the taxpayer.
 
-> &emsp;This paragraph shall not apply if the intangible is created in connection with a transaction (or series of related transactions) involving the acquisition of assets constituting a trade or business or substantial portion thereof.
+> &emsp;This paragraph shall not apply if the intangible is created in connection with a transaction (or series of related transactions) involvingthe acquisition of assets constituting a trade or business or substantial portion thereof.
 
 #### (3) Anti-churning rules
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (7) Mortgage servicing
 
-&emsp;Any right to service indebtedness which is secured by residential real property unless such right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
+&emsp;Any right to service indebtedness which is secured by residential real property unlesssuch right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
 
 #### (8) Certain transaction costs
 
@@ -314,7 +314,7 @@ In general.—If an election under this paragraph applies to the taxpayer—
 
 &emsp;&emsp;“(i) the amendments made by this section shall apply to property acquired by the taxpayer after July 25, 1991,
 
-&emsp;&emsp;“(ii) subsection (c)(1)(A) of section 197 of the Internal Revenue Code of 1986 (as added by this section) (and so much of subsection (f)(9)(A) of such section 197 as precedes clause (i) thereof) shall beapplied with respect to the taxpayer by treating July 25, 1991, as the date of the enactment of such section, and
+&emsp;&emsp;“(ii) subsection (c)(1)(A) of section 197 of the Internal Revenue Code of 1986 (as added by this section) (and so much of subsection (f)(9)(A) of such section 197 as precedes clause (i) thereof) shall be applied with respect to the taxpayer by treating July 25, 1991, as the date of the enactment of such section, and
 
 &emsp;&emsp;“(iii) in applying subsection (f)(9) of such section, with respect to any property acquired by the taxpayer on or before the date of the enactment of this Act, only holding or use on July 25, 1991, shall be taken into account.
 
@@ -324,7 +324,7 @@ Election.—An election under this paragraph shall be made at such time and in s
 
 &emsp;&emsp;“(i) may be revoked only with the consent of the Secretary, and
 
-&emsp;&emsp;“(ii) shall apply to the taxpayer making such election and any other taxpayer under common control with the taxpayer (within the meaning of subparagraphs (A) and (B) of section 41(f)(1) of such Code) at any time after August 2, 1993, and on or before the date on which such election is made.
+&emsp;&emsp;“(ii) shall apply to the taxpayer making such election and any other taxpayer under common control with the taxpayer (within the meaning ofsubparagraphs (A) and (B) of section 41(f)(1) of such Code) at any time after August 2, 1993, and on or before the date on which such election is made.
 
 “(3)
 

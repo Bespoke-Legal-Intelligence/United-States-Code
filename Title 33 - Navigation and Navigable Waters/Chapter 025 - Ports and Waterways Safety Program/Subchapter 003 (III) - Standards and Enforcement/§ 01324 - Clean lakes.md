@@ -54,7 +54,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;(D) demonstrate environmentally preferred techniques for the removal and disposal of contaminated lake sediments;
 
-&emsp;&emsp;(E) develop improved methods for the removal of silt, stumps, aquatic growth, and other obstructions which impair the quality of lakes;
+&emsp;&emsp;(E) develop improved methods for the removal of silt, stumps, aquatic growth, andother obstructions which impair the quality of lakes;
 
 &emsp;&emsp;(F) construct and evaluate silt traps and other devices or equipment to prevent or abate the deposit of sediment in lakes; and
 
@@ -66,7 +66,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (3) Reports
 
-&emsp;The Administrator shall report annually to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
+&emsp;By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
 
 #### (4) Authorization of appropriations
 
@@ -88,9 +88,11 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;&emsp;The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
 
-(June 30, 1948, ch. 758, title III, §314, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 875; amended Dec. 27, 1977, Pub. L. 95–217, §§4(f), 62(a), 91 Stat. 1567, 1598; Oct. 21, 1980, Pub. L. 96–483, §1(f), 94 Stat. 2360; Feb. 4, 1987, Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), 101 Stat. 9, 49, 50, 52; Nov. 16, 1990, Pub. L. 101–596, title III, §302, 104 Stat. 3006.)
+(June 30, 1948, ch. 758, title III, §314, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 875; amended Dec. 27, 1977, Pub. L. 95–217, §§4(f), 62(a), 91 Stat. 1567, 1598; Oct. 21, 1980, Pub. L. 96–483, §1(f), 94 Stat. 2360; Feb. 4, 1987, Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), 101 Stat. 9, 49, 50, 52; Nov. 16, 1990, Pub. L. 101–596, title III, §302, 104 Stat. 3006; Dec. 21, 1995, Pub. L. 104–66, title II, §2021(c), 109 Stat. 727.)
 
 #### Amendments
+
+1995—Subsec. (d)(3). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure” for “The Administrator shall report annually to the Committee on Public Works and Transportation”.
 
 1990—Subsec. (d)(2). Pub. L. 101–596 inserted “Lake Champlain, New York and Vermont;” before “Lake Houston, Texas”.
 
@@ -118,7 +120,7 @@ Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fi
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

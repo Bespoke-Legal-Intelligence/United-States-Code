@@ -1,12 +1,12 @@
 ### §1201. Appointment of members of the Merit Systems Protection Board
 
-The Merit Systems Protection Board is composed of 3 members appointed by the President, by and with the advice and consent of the Senate, not more than 2 of whom may be adherents of the same political party. The members of the Board shall be individuals who, by demonstrated ability, background, training, or experience are especially qualified to carry out the functions of the Board. No member of the Board may hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President. TheBoard shall have an official seal which shall be judicially noticed. The Board shall have its principal office in the District of Columbia and may have field offices in other appropriate locations.
+The Merit Systems Protection Board is composed of 3 members appointed by the President, by and with the advice and consent of the Senate, not more than 2 of whom may be adherents of the same political party. The members of the Board shall be individuals who, by demonstrated ability, background, training, or experience are especially qualified to carry out the functions of the Board. No member of the Board may hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President. The Board shall have an official seal which shall be judicially noticed. The Board shall have its principal office in the District of Columbia and may have field offices in other appropriate locations.
 
 (Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1121; amended Pub. L. 101–12, §3(a)(1), Apr. 10, 1989, 103 Stat. 16.)
 
 #### Amendments
 
-1989—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
+<b>1989</b>—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
 
 #### Effective Date of 1989 Amendment
 

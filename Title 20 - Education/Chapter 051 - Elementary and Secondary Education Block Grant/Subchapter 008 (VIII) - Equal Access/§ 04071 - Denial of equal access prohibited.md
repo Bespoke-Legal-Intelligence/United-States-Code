@@ -48,9 +48,9 @@ Notwithstanding the availability of any other remedy under the Constitution or t
 
 Nothing in this subchapter shall be construed to limit the authority of the school, its agents or employees, to maintain order and discipline on school premises, to protect the well-being of students and faculty, and to assure that attendance of students at meetings is voluntary.
 
-(Pub. L. 98 377, title VIII, §802, Aug. 11, 1984, 98 Stat. 1302.)
+(Pub. L. 98–377, title VIII, §802, Aug. 11, 1984, 98 Stat. 1302.)
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 98 377 provided that: “This title \[enacting this subchapter\] may be cited as ‘The Equal Access Act’.”
+Section 801 of title VIII of Pub. L. 98–377 provided that: “This title \[enacting this subchapter\] may be cited as ‘The Equal Access Act’.”
 

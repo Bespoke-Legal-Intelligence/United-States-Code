@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The basis of partnership property shall not be adjusted as the result of a transfer of an interestin a partnership by sale or exchange or on the death of a partner unless the election provided by section 754 (relating to optional adjustment to basis of partnership property) is in effect with respect to such partnership.
+The basis of partnership property shall not be adjusted as the result of a transfer of an interest in a partnership by sale or exchange or on the death of a partner unless the election provided by section 754 (relating to optional adjustment to basis of partnership property) is in effect with respect to such partnership.
 
 #### (b) Adjustment to basis of partnership property
 

@@ -84,7 +84,7 @@ In this subtitle—
 
 &emsp;(16) “motor vessel” means a vessel propelled by machinery other than steam.
 
-&emsp;(17) “nautical school vessel” means a vessel operated by or in connection with a nauticalschool or an educational institution under section 13 of the Coast Guard Authorization Act of 1986.
+&emsp;(17) “nautical school vessel” means a vessel operated by or in connection with a nautical school or an educational institution under section 13 of the Coast Guard Authorization Act of 1986.
 
 &emsp;(17a) “numbered vessel” means a vessel for which a number has been issued under chapter 123 of this title.
 
@@ -174,9 +174,9 @@ In this subtitle—
 
 &emsp;(27) “sailing instruction” means teaching, research, and practical experience in operating vessels propelled primarily by sail and may include—
 
-&emsp;&emsp;(A) any subject related to that operation and to the sea, including seamanship, navigation, oceanography, other nautical andmarine sciences, and maritime history and literature; and
+&emsp;&emsp;(A) any subject related to that operation and to the sea, including seamanship, navigation, oceanography, other nautical and marine sciences, and maritime history and literature; and
 
-&emsp;&emsp;(B) only when in conjunction with a subject referred to in subclause (A) of this clause, instruction in mathematics and language arts skills to sailing school students having learning disabilities.
+&emsp;&emsp;(B) only when in conjunction with a subject referred to in subclause (A) of thisclause, instruction in mathematics and language arts skills to sailing school students having learning disabilities.
 
 &emsp;(28) “sailing school instructor” means an individual who is on board a sailing school vessel to provide sailing instruction, but does not include an operator or crewmember who is among those required to be on board the vessel to meet a requirement established under part F of this subtitle.
 
@@ -262,7 +262,7 @@ In this subtitle—
 
 &emsp;&emsp;(D) staffed by a crew under regular armed forces discipline.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445;Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375.)
 
 #### Historical and Revision Notes
 
@@ -595,7 +595,7 @@ Section 5209 of Pub. L. 102–587 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2102, 2113, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 section 1383a; title 33 sections 1225, 1321, 2602, 2732; title 42 section 7511b; title 49 section 5117.
+This section is referred to in sections 2102, 2113, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 section 1383a; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2732; title 42 section 7511b; title 49 section 5117.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,4 +1,4 @@
-### §8111 . Additional compensation for services of attendants or vocational rehabilitation
+### §8111. Additional compensation for services of attendants or vocational rehabilitation
 
 (a) The Secretary of Labor may pay an employee who has been awarded compensation anadditional sum of not more than $1,500 a month, as the Secretary considers necessary, when the Secretary finds that the service of an attendant is necessary constantly because the employee is totally blind, or has lost the use of both hands or both feet, or is paralyzed and unable to walk, or because of other disability resulting from the injury making him so helpless as to require constant attendance.
 
@@ -50,9 +50,9 @@ July 4, 1966, Pub. L. 89–488, §4(a), 80 Stat. 253.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–534 substituted “$1,500” for “$500”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–534 substituted “$1,500” for “$500”.
 
-1974—Subsec. (a). Pub. L. 93–416, §7(a), substituted “$500” for “$300”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §7(a), substituted “$500” for “$300”.
 
 Subsec. (b). Pub. L. 93–416, §7(b), substituted “$200” for “$100”.
 

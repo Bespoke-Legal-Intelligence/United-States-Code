@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-&emsp;(1) three-fourths of high school students in the United States enter the workforce withoutbaccalaureate degrees, and many do not possess the academic and entry-level occupational skills necessary to succeed in the changing United States workplace;
+&emsp;(1) three-fourths of high school students in the United States enter the workforce without baccalaureate degrees, and many do not possess the academic and entry-level occupational skills necessary to succeed in the changing United States workplace;
 
 &emsp;(2) a substantial number of youths in the United States, especially disadvantaged students, students of diverse racial, ethnic, and cultural backgrounds, and students with disabilities, do not complete high school;
 
@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) the workplace in the United States is changing in response to heightened international competition and new technologies, and such forces, which are ultimately beneficial to the Nation, are shrinking the demand for and undermining the earning power of unskilled labor;
 
-&emsp;(5) the United States lacks a comprehensive and coherent system to help its youths acquire the knowledge, skills, abilities, and information about and access to the labor market necessary to make an effective transition from school to career-oriented work or to further education and training;
+&emsp;(5) the United States lacks a comprehensive and coherent system to help its youths acquire the knowledge, skills, abilities, and information about and access to the labor market necessary to make an effective transition fromschool to career-oriented work or to further education and training;
 
 &emsp;(6) students in the United States can achieve high academic and occupational standards, and many learn better and retain more when the students learn in context, rather than in the abstract;
 
@@ -26,13 +26,13 @@ Congress finds that—
 
 &emsp;(10) in 1992 approximately 3,400,000 individuals in the United States age 16 through 24 had not completed high school and were not currently enrolled in school, a number representing approximately 11 percent of all individuals in this age group, which indicates that these young persons are particularly unprepared for the demands of a 21st century workforce.
 
-(Pub. L. 103 239, §2, May 4, 1994, 108 Stat. 569.)
+(Pub. L. 103–239, §2, May 4, 1994, 108 Stat. 569.)
 
 #### Effective Date
 
-Section 801 of Pub. L. 103 239 provided that: “This Act \[see Short Title note below\] shall take effect on the date of enactment of this Act \[May 4, 1994\].”
+Section 801 of Pub. L. 103–239 provided that: “This Act \[see Short Title note below\] shall take effect on the date of enactment of this Act \[May 4, 1994\].”
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103 239 provided that: “This Act \[enacting this chapter, amending sections 2394b, 2394c, and 4441 of this title, section 1699 of Title 29, Labor, and sections 11449 and 11450 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 4401 of this title\] may be cited as the ‘School-to-Work Opportunities Act of 1994’.”
+Section 1(a) of Pub. L. 103–239 provided that: “This Act \[enacting this chapter, amending sections 2394b, 2394c, and 4441 of this title, section 1699 of Title 29, Labor, and sections 11449 and 11450 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 4401 of this title\] may be cited as the ‘School-to-Work Opportunities Act of 1994’.”
 

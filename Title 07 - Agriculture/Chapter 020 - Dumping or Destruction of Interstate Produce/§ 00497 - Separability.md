@@ -1,0 +1,10 @@
+### §497. Separability
+
+If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of the chapter and the applicability of such provisions to other persons and circumstances shall not be affected thereby.
+
+(Mar. 3, 1927, ch. 309, §4, 44 Stat. 1356.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 499c, 499d, 499n of this title.
+

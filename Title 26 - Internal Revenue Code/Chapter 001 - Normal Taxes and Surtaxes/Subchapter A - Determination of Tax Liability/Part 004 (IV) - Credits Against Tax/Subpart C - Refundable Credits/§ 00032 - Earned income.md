@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such individual's principal place of abode is in the United States for more than one-half of such taxable year,
 
-&emsp;&emsp;&emsp;&emsp;(II) such individual (or, if the individual is married, either the individual or the individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and
+&emsp;&emsp;&emsp;&emsp;(II) such individual (or, if the individual is married, either the individual or the individual's spouse) has attained age25 but not attained age 65 before the close of the taxable year, and
 
 &emsp;&emsp;&emsp;&emsp;(III) such individual is not a dependent for whom a deduction is allowable under section 151 to another taxpayer for any taxable year beginning in the same calendar year as such taxable year.
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) no amount to which section 871(a) applies (relating to income of nonresident alien individuals not connected with United States business) shall be taken into account, and
 
-&emsp;&emsp;(iv) no amount received for services provided by an individual while the individualis an inmate at a penal institution shall be taken into account.
+&emsp;&emsp;(iv) no amount received for services provided by an individual while the individual is an inmate at a penal institution shall be taken into account.
 
 #### (3) Qualifying child
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the taxpayer includes the name, age, and TIN of each qualifying child (without regard to this subparagraph) on the return of tax for the taxable year.
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the taxpayer includes the name,age, and TIN of each qualifying child (without regard to this subparagraph) on the return of tax for the taxable year.
 
 #### (ii) Other methods
 
@@ -242,13 +242,37 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 
 #### (2) Reconciliation of payments advanced and credit allowed
 
-&emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapterfor purposes of determining the amount of any credit (other than the credit allowed by subsection (a)) allowable under this subpart.
+&emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit (other than the credit allowed by subsection (a)) allowable under this subpart.
 
 #### (h) Reduction of credit to taxpayers subject to alternative minimum tax
 
 The credit allowed under this section for the taxable year shall be reduced by the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year.
 
-#### (i) Inflation adjustments
+#### (i) Denial of credit for individuals having excessive investment income
+
+#### (1) In general
+
+&emsp;No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,350.
+
+#### (2) Disqualified income
+
+&emsp;For purposes of paragraph (1), the term “disqualified income” means—
+
+&emsp;&emsp;(A) interest or dividends to the extent includible in gross income for the taxable year,
+
+&emsp;&emsp;(B) interest received or accrued during the taxable year which is exempt from tax imposed by this chapter, and
+
+&emsp;&emsp;(C) the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) gross income from rents or royalties not derived in the ordinary course of a trade or business, over
+
+&emsp;&emsp;&emsp;(ii) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the deductions (other than interest) which are clearly and directly allocable to such gross income, plus
+
+&emsp;&emsp;&emsp;&emsp;(II) interest deductions properly allocable to such gross income.
+
+#### (j) Inflation adjustments
 
 #### (1) In general
 
@@ -262,7 +286,7 @@ The credit allowed under this section for the taxable year shall be reduced by t
 
 &emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10 (or, if such dollar amount is a multiple of $5, such dollar amount shall be increased to the next higher multiple of $10).
 
-#### (j) Coordination with certain means-tested programs
+#### (k) Coordination with certain means-tested programs
 
 For purposes of—
 
@@ -278,29 +302,31 @@ For purposes of—
 
 > any refund made to an individual (or the spouse of an individual) by reason of this section, and any payment made to such individual (or such spouse) by an employer under section 3507, shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010.)
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95.)
 
-#### Earned Income Credit Adjustment for Tax Years Beginning in 1995
+#### Earned Income Credit Adjustment for Tax Years Beginning in 1996
 
-<i>For adjustment of earned income credit under this section for tax years beginning in 1995, see section 3.03 of Revenue Procedure 94–72, set out as a note under section 1 of this title.</i>
+<i>For adjustment of earned income credit under this section for tax years beginning in 1996, see section 3.03 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsec. (j)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (k)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
 
-The Housing Act of 1949, referred to in subsec. (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (k)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (j)(3), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of Title 42.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (k)(3), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of Title 42.
 
-Sections 221(d)(3), 235, and 236 of the National Housing Act, referred to in subsec. (j)(4), are classified to sections 1715<i>l</i>(d)(3), 1715z, and 1715z–1, respectively, of Title 12.
+Sections 221(d)(3), 235, and 236 of the National Housing Act, referred to in subsec. (k)(4), are classified to sections 1715<i>l</i>(d)(3), 1715z, and 1715z–1, respectively, of Title 12.
 
-The Food Stamp Act of 1977, referred to in subsec. (j)(5), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (k)(5), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Prior Provisions
 
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments
+
+1995—Subsecs. (i) to (k). Pub. L. 104–7 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
 1994—Subsec. (c)(1)(E). Pub. L. 103–465, §722(a), added subpar. (E).
 
@@ -336,7 +362,7 @@ Subsec. (i)(2), (3). Pub. L. 103–66, §13131(c), redesignated par. (3) as (2) 
 
 1990—Subsec. (a). Pub. L. 101–508, §11111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of an eligible individual, there is allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 14 percent of so much of the earned income for the taxable year as does not exceed $5,714.”
 
-Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read “Limitation” and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
+Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read “Limitation” and amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: “The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
 
 &emsp;“(1) the maximum credit allowable under subsection (a) to any taxpayer, over
 
@@ -442,6 +468,10 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 1995 Amendment
+
+Section 4(b) of Pub. L. 104–7 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+
 #### Effective Date of 1994 Amendment
 
 Section 721(d)(1) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
@@ -504,7 +534,7 @@ Amendment by Pub. L. 97–34 applicable with respect to taxable years beginning 
 
 Section 101(b)(1)(A) of Pub. L. 96–222 provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1977.”
 
-Section 201 of Pub. L. 96–222 provided that: “Except as otherwise provided in title I, any amendment made bytitle I \[see Tables for classification\] shall take effect as if it had been included in the provision of the Revenue Act of 1978 \[Pub. L. 95–600, see Tables for classification\] to which such amendment relates.”
+Section 201 of Pub. L. 96–222 provided that: “Except as otherwise provided in title I, any amendment made by title I \[see Tables for classification\] shall take effect as if it had been included in the provision of the Revenue Act of 1978 \[Pub. L. 95–600, see Tables for classification\] to which such amendment relates.”
 
 #### Effective Date of 1978 Amendment
 
@@ -542,5 +572,5 @@ Section 2(d) of Pub. L. 94–164, as amended by Pub. L. 94–455, title IV, §40
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 86, 129, 995, 3507, 6051, 6211 of this title; title 2 section 905; title 42 sections 502, 602, 1382a, 1382b, 1383.
+This section is referred to in sections 86, 129, 995, 3507, 6051, 6211 of this title; title 2 section 905; title 42 sections 502, 602, 1382a, 1382b.
 

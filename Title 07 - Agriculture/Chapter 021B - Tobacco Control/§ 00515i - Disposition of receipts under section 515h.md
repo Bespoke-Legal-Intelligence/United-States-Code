@@ -1,0 +1,6 @@
+### §515i. Disposition of receipts under section 515h
+
+Any receipts by the Secretary under section 515h of this title shall be held in a separate fund and used by the Secretary for the purpose of paying administrative expenses and expenditures incurred or made in connection with said section.
+
+(Apr. 25, 1936, ch. 249, §10, 49 Stat. 1242.)
+

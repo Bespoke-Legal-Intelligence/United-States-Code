@@ -30,7 +30,7 @@ As used in this part:
 
 #### (5) Lead agency
 
-&emsp;The term “lead agency” means an existing State agency, or other public or nonprofit private entity designated by the chief executiveofficer of the State as the agency responsible for the development and implementation of local family resource and support programs. Such agency shall have demonstrated ability to work with other State and community based agencies, to provide training and technical assistance, and shall also have a commitment to parental participation in the design and administration of family resource and support programs.
+&emsp;The term “lead agency” means an existing State agency, or other public or nonprofit private entity designated by the chief executive officer of the State as the agency responsible for the development and implementation of local family resource and support programs. Such agency shall have demonstrated ability to work with other State and community based agencies, to provide training and technical assistance, and shall also have a commitment to parental participation in the design and administration of family resource and support programs.
 
 #### (6) Other services
 

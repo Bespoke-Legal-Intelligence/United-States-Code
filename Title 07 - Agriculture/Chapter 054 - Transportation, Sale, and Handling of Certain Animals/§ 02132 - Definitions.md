@@ -1,0 +1,84 @@
+### §2132. Definitions
+
+When used in this chapter—
+
+(a) The term “person” includes any individual, partnership, firm, joint stock company, corporation, association, trust, estate, or other legal entity;
+
+(b) The term “Secretary” means the Secretary of Agriculture of the United States or his representative who shall be an employee of the United States Department of Agriculture;
+
+(c) The term “commerce” means trade, traffic, transportation, or other commerce—
+
+&emsp;(1) between a place in a State and any place outside of such State, or between points within the same State but through any place outside thereof, or within any territory, possession, or the District of Columbia;
+
+&emsp;(2) which affects trade, traffic, transportation, or other commerce described in paragraph (1).
+
+(d) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States;
+
+(e) The term “research facility” means any school (except an elementary or secondary school), institution, or organization, or person that uses or intends to use live animals in research, tests, or experiments, and that (1) purchases or transports live animals in commerce, or (2) receives funds under a grant, award, loan, or contract from a department, agency, or instrumentality of the United States for the purpose of carrying out research, tests, or experiments: <i>Provided</i>, That the Secretary may exempt, by regulation, any such school, institution, organization, or person that does not use or intend to use live dogs or cats, except those schools, institutions, organizations, or persons, which use substantial numbers (as determined by the Secretary) of live animals the principal function of which schools, institutions, organizations, or persons, is biomedical research or testing, when in the judgment of the Secretary, any such exemption does not vitiate the purpose of this chapter;
+
+(f) The term “dealer” means any person who, in commerce, for compensation or profit, delivers for transportation, or transports, except as a carrier, buys, or sells, or negotiates the purchase or sale of, (1) any dog or other animal whether alive or dead for research, teaching, exhibition, or use as a pet, or (2) any dog for hunting, security, or breeding purposes, except that this term does not include—
+
+&emsp;(i) a retail pet store except such store which sells any animals to a research facility, an exhibitor, or a dealer; or
+
+&emsp;(ii) any person who does not sell, or negotiate the purchase or sale of any wild animal, dog, or cat, and who derives no more than $500 gross income from the sale of other animals during any calendar year;
+
+(g) The term “animal” means any live or dead dog, cat, monkey (nonhuman primate mammal), guinea pig, hamster, rabbit, or such other warmblooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes horses not used for research purposes and other farm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes;
+
+(h) The term “exhibitor” means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
+
+(i) The term “intermediate handler” means any person including a department, agency, or instrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier) who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce;
+
+(j) The term “carrier” means the operator of any airline, railroad, motor carrier, shipping line, or other enterprise, which is engaged in the business of transporting any animals for hire;
+
+(k) The term “Federal agency” means an Executive agency as such term is defined in section 105 of title 5, and with respect to any research facility means the agency from which the research facility receives a Federal award for the conduct of research, experimentation, or testing, involving the use of animals;
+
+(<i>l</i>) The term “Federal award for the conduct of research, experimentation, or testing, involving the use of animals” means any mechanism (including a grant, award, loan, contract, or cooperative agreement) under which Federal funds are provided to support the conduct of such research.<sup>1</sup>
+
+(m) The term “quorum” means a majority of the Committee members;
+
+(n) The term “Committee” means the Institutional Animal Committee established under section 2143(b) of this title; and
+
+(<i>o</i>) The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
+
+(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650.)
+
+#### Amendments
+
+1985—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o).</i>
+
+1976—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
+
+Subsec. (d). Pub. L. 94–279, §3(1), substituted definition of “State” for definition of “affecting commerce”.
+
+Subsec. (e). Pub. L. 94–279, §3(2), substituted “in commerce” for “affecting commerce”.
+
+Subsec. (f). Pub. L. 94–279, §3(2), (3), made changes in phraseology, restructured subsection and expanded definition of “dealer” to include persons who negotiate the purchase or sale of protected animals.
+
+Subsec. (g). Pub. L. 94–279, §3(4), expanded definition of “animal” to include dogs used for hunting, security, or breeding purposes.
+
+Subsecs. (i), (j). Pub. L. 94–279, §4, added subsecs. (i) and (j).
+
+1970—Subsec. (b). Pub. L. 91–579, §3(1), inserted “of the United States or his representative who shall be an employee of the United States Department of Agriculture” after “Secretary of Agriculture”.
+
+Subsec. (c). Pub. L. 91–579, §3(2), substituted “trade, traffic, commerce, transportation among the several States, or between any State” for “commerce between any State”.
+
+Subsec. (d). Pub. L. 91–579, §3(3), substituted definition of “affecting commerce” for definition of “dog”.
+
+Subsec. (e). Pub. L. 91–579, §3(3), struck out definition of “cat” and substituted for it a definition of “research facility” formerly set out in subsec. (f), and, in such definition as transferred from former subsec. (f), extended the term's meaning to include those using “animals” rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
+
+Subsec. (f). Pub. L. 91–579, §3(3), substituted definition of “dealer” formerly contained in subsec. (g) for definition of “research facility” and in such definition of “dealer” as thus transferred inserted provisions extending meaning to include live or dead animals rather than only dogs and cats, adding teaching and exhibition purposes or uses as pets, and exempting retail pet stores unless such stores sell animals to a research facility, an exhibitor, or a dealer. Definition of “research facility” transferred to subsec. (e) and amended.
+
+Subsec. (g). Pub. L. 91–579, §3(3), substituted definition of “animal” formerly contained in subsec. (h) for definition of “dealer” and in such definition of “animal” as thus transferred inserted stipulation “live or dead” to the species already covered, and inserted provisions to include such warm-blooded animals as may be determined by the Secretary but to exclude specific animals used for research, food and fiber, and the improvement of animal breeding, nutrition, management, or production efficiency. Definition of “dealer” transferred to subsec. (f) and amended.
+
+Subsec. (h). Pub. L. 91–579, §3(3), substituted definition of “exhibitor” for definition of “animal”. Definition of “animal” transferred to subsec. (g) and amended.
+
+#### Effective Date of 1985 Amendment
+
+Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see section 1759 of Pub. L. 99–198, set out as a note under section 2131 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+

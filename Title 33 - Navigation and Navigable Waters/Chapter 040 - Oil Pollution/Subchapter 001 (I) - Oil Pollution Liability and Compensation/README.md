@@ -29,3 +29,4 @@ This subchapter is referred to in section 1321 of this title.
 - [&sect; 02717 - Litigation, jurisdiction, and venue](%C2%A7%2002717%20-%20Litigation%2C%20jurisdiction%2C%20and%20venue.md)
 - [&sect; 02718 - Relationship to other law](%C2%A7%2002718%20-%20Relationship%20to%20other%20law.md)
 - [&sect; 02719 - State financial responsibility](%C2%A7%2002719%20-%20State%20financial%20responsibility.md)
+- [&sect; 02720 - Differentiation among fats, oils, and greases](%C2%A7%2002720%20-%20Differentiation%20among%20fats%2C%20oils%2C%20and%20greases.md)

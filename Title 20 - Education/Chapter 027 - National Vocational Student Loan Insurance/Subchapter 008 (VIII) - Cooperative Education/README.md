@@ -2,7 +2,7 @@
 
 #### Codification
 
-Title VIII of the Higher Education Act of 1965, comprising this subchapter, was originally enacted by Pub. L. 89 329, title VIII, as added Pub. L. 90 575, title II, §251, Oct. 16, 1968, 82 Stat. 1042; amended Pub. L. 92 318, June 23, 1972, 86 Stat. 235; Pub. L. 94 482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 96 374, Oct. 3, 1980, 94 Stat. 1367. Such title is shown herein, however, as having been added by Pub. L. 99 498, title VIII, §801, Oct. 17, 1986, 100 Stat. 1546, without reference to such intervening amendments because of the extensive revision of title VIII by Pub. L. 99 498.
+Title VIII of the Higher Education Act of 1965, comprising this subchapter, was originally enacted by Pub. L. 89–329, title VIII, as added Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042; amended Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367. Such title is shown herein, however, as having been added by Pub. L. 99–498, title VIII, §801, Oct. 17, 1986, 100 Stat. 1546, without reference to such intervening amendments because of the extensive revision of title VIII by Pub. L. 99–498.
 
 #### Subchapter Referred to in Other Sections
 

@@ -36,15 +36,15 @@ The Secretary shall give priority to applications that propose to conduct joint 
 
 The Secretary shall, by regulation, develop a formal procedure for the submission of applications under this part and shall publish in the Federal Register an announcement of that procedure and the availability of funds under this part.
 
-(Pub. L. 89 329, title XI, §1103, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 785.)
+(Pub. L. 89–329, title XI, §1103, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785.)
 
 #### Prior Provisions
 
-A prior section 1136b, Pub. L. 89 329, title XI, §1103, as added Pub. L. 99 498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1569, related to requirements for economic development grant applications, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1569, related to requirements for economic development grant applications, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 1136b, Pub. L. 89 329, title XI, §1103, as added Pub. L. 96 374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, authorized grants to urban universities, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, authorized grants to urban universities, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1136b, Pub. L. 89 329, title XI, §1103, as added Pub. L. 90 575, title II, §281, Oct. 16, 1968, 82 Stat. 1049; amended Pub. L. 92 318, title I, §191(c), June 23, 1972, 86 Stat. 323; Pub. L. 94 482, title I, §172, Oct. 12, 1976, 90 Stat. 2164; Pub. L. 96 49, §11, Aug. 13, 1979, 93 Stat. 354, authorized appropriations for the law school clinical experiences program, prior to the general revision of this subchapter by Pub. L. 96 374.
+Another prior section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1049; amended Pub. L. 92–318, title I, §191(c), June 23, 1972, 86 Stat. 323; Pub. L. 94–482, title I, §172, Oct. 12, 1976, 90 Stat. 2164; Pub. L. 96–49, §11, Aug. 13, 1979, 93 Stat. 354, authorized appropriations for the law school clinical experiences program, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Section Referred to in Other Sections
 

@@ -44,7 +44,7 @@
 
 #### (c) Land and other property
 
-This section shall not apply to any expenditure for the acquisition or improvement of land,or for the acquisition or improvement of property to be used in connection with the research or experimentation and of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion); but for purposes of this section allowances under section 167, and allowances under section 611, shall be considered as expenditures.
+This section shall not apply to any expenditure for the acquisition or improvement of land, or for the acquisition or improvement of property to be used in connection with the research or experimentation and of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion); but for purposes of this section allowances under section 167, and allowances under section 611, shall be considered as expenditures.
 
 #### (d) Exploration expenditures
 
@@ -52,7 +52,7 @@ This section shall not apply to any expenditure paid or incurred for the purpose
 
 #### (e) Only reasonable research expenditures eligible
 
-This section shall apply to a research or experimental expenditure only to the extent that the amount thereof is reasonable under the circumstances.
+This section shall apply to a research or experimental expenditure only to the extentthat the amount thereof is reasonable under the circumstances.
 
 #### (f) Cross references
 

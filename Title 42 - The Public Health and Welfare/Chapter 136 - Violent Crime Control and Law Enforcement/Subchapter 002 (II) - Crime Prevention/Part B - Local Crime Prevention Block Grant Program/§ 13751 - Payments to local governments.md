@@ -60,7 +60,7 @@
 
 #### (b) Timing of payments
 
-The Attorney General shall pay each amount allocated under this part to a unit of general local government for a payment period by the later of 90 days after the date the amount isavailable or the first day of the payment period if the unit of general local government has provided the Attorney General with the assurances required by section 13753(d) of this title.
+The Attorney General shall pay each amount allocated under this part to a unit of general local government for a payment period by the later of 90 days after the date the amount is available or the first day of the payment period if the unit of general local government has provided the Attorney General with the assurances required by section 13753(d) of this title.
 
 #### (c) Adjustments
 

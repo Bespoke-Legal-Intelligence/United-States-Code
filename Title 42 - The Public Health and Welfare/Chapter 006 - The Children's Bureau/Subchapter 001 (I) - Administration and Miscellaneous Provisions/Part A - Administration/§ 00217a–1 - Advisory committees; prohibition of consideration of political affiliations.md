@@ -6,7 +6,7 @@ All appointments to advisory committees established to assist in implementing th
 
 #### References in Text
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, whichis classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, referred to in text, is Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 284, as amended, which is classified principally to chapter 75 (§6000 et seq.) of this title. Title II of that Act, which was also known as the Community Mental Health Centers Act and was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title, was repealed by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
 

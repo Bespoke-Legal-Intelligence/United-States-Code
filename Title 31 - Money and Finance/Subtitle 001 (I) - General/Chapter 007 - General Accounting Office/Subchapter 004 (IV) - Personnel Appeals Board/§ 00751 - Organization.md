@@ -38,7 +38,7 @@
 
 (d) A member may be removed by a majority of the Board (except the member subject to removal) only for inefficiency, neglect of duty, or malfeasance in office. A member subject to removal shall be given notice and an opportunity for a hearing before the Board unless the member waives the opportunity in writing.
 
-(e) While carrying out a member's duties (including travel), a member who is not an officeror employee of the United States Government is entitled to basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under section 5703 of title 5.
+(e) While carrying out a member's duties (including travel), a member who is not an officer or employee of the United States Government is entitled to basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under section 5703 of title 5.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 900; Pub. L. 100–426, title I, §§101, 102(b), Sept. 9, 1988, 102 Stat. 1598, 1599; Pub. L. 103–283, title III, §312(e)(4)(A), July 22, 1994, 108 Stat. 1446.)
 
@@ -80,7 +80,7 @@ In subsection (c), the words “Except as provided in paragraph (2)” are omitt
 
 In subsection (d), the words “of the Board . . . from the Board”, “the members of”, and “proposed action of” are omitted as surplus. The words “prior to any vote of the members of the Board under paragraph (1)(A)” are omitted as surplus. The words “unless the member waives the opportunity in writing” are substituted for 31:52–3(c)(2)(last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words “While carrying out a member's duties” are substituted for “for each day such member is engaged in the actual performance of duties as a member of the Board” to eliminate unnecessary words. The words “an officer or employee of” are substituted for “otherwise employed by” for consistency in the revised title and with other titles of the United States Code. The words “payable . . . under the General Schedule under section 5332 of title 5, United States Code” and 31:52–3(d)(2d sentence) are omitted as surplus.
+In subsection (e), the words “While carrying out a member's duties” are substituted for “for each day such member is engaged in the actual performance of duties as a member of the Board” to eliminate unnecessary words. The words “an officer or employee of” are substituted for “otherwise employed by” for consistency in the revised title and with other titles of the United States Code. The words “payable . . . under theGeneral Schedule under section 5332 of title 5, United States Code” and 31:52–3(d)(2d sentence) are omitted as surplus.
 
 #### References in Text
 
@@ -88,7 +88,7 @@ The date of the enactment of the General Accounting Office Personnel Amendments 
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–283 inserted “or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,” after “Office”.
+1994—Subsec. (a)(1). Pub. L. 103–283 inserted “or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,” after “Office”. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
 1988—Subsec. (a). Pub. L. 100–426, §101(a), struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
 
@@ -99,6 +99,10 @@ Subsec. (c)(1). Pub. L. 100–426, §101(c)(1), (2), designated existing provisi
 Subsec. (c)(2). Pub. L. 100–426, §101(c)(3), added par. (2).
 
 Subsec. (e). Pub. L. 100–426, §102(b), substituted “basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule” for “pay at a rate equal to the daily rate for GS–18”.
+
+#### Application of Provisions Amended by Pub. L. 103–283
+
+Pub. L. 104–1, title V, §504(c)(2), Jan. 23, 1995, 109 Stat. 41, provided that: “The provisions of sections 751, 753, and 755 of title 31, United States Code, amended by section 312(e) of the Architect of the Capitol Human Resources Act \[Pub. L. 103–283\], shall be applied and administered as if such section 312(e) \[amending this section and sections 753 and 755 of this title and section 166b–7 of Title 40, Public Buildings, Property, and Works\] (and the amendments made by such section) had not been enacted.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

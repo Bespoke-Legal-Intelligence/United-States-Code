@@ -4,7 +4,7 @@
 
 (b) The United States is not liable for loss or damage suffered by a person as a result of an error made by an officer or employee of the United States in carrying out the allotment program under subsection (a).
 
-(Added Pub. L. 93–289, §11(a), May 24, 1974, 88 Stat. 172; amended Pub. L. 96–513, title V,§516(19), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 97–295, §3(5), Oct. 12, 1982, 96 Stat. 1304; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Added Pub. L. 93–289, §11(a), May 24, 1974, 88 Stat. 172; amended Pub. L. 96–513, title V, §516(19), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 97–295, §3(5), Oct. 12, 1982, 96 Stat. 1304; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
 
 Historical and Revision Notes<br>1982
 

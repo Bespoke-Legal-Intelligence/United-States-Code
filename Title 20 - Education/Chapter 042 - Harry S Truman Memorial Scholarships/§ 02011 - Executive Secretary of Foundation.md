@@ -8,9 +8,9 @@ There shall be an Executive Secretary of the Foundation who shall be appointed b
 
 The Executive Secretary of the Foundation shall be compensated at the rate specified for employees placed in grade 18 of the General Schedule set forth in section 5332 of title 5.
 
-(Pub. L. 93 642, §12, Jan. 4, 1975, 88 Stat. 2280.)
+(Pub. L. 93–642, §12, Jan. 4, 1975, 88 Stat. 2280.)
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

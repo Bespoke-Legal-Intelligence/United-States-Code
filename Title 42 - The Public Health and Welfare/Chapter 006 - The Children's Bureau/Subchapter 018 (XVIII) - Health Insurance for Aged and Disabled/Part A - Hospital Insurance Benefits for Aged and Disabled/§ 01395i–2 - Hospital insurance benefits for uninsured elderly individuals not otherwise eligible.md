@@ -8,7 +8,7 @@ Every individual who—
 
 &emsp;(2) is enrolled under part B of this subchapter,
 
-&emsp;(3) is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously during the 5 years immediately preceding the month in which he applies for enrollment under this section, and
+&emsp;(3) is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously duringthe 5 years immediately preceding the month in which he applies for enrollment under this section, and
 
 &emsp;(4) is not otherwise entitled to benefits under this part,
 
@@ -36,7 +36,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 > &emsp;whichever is the latest;
 
-&emsp;(4) an individual's entitlement under this section shall terminate with the month beforethe first month in which he becomes eligible for hospital insurance benefits under section 426 of this title or section 426a of this title; and upon such termination, such individual shall be deemed, solely for purposes of hospital insurance entitlement, to have filed in such first month the application required to establish such entitlement;
+&emsp;(4) an individual's entitlement under this section shall terminate with the month before the first month in which he becomes eligible for hospital insurance benefits under section 426 of this title or section 426a of this title; and upon such termination, such individual shall be deemed, solely for purposes of hospital insurance entitlement, to have filed in such first month the application required to establish such entitlement;
 
 &emsp;(5) termination of coverage for supplementary medical insurance shall result in simultaneous termination of hospital insurance benefits for uninsured individuals who are not otherwise entitled to benefits under this chapter;
 
@@ -58,7 +58,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (2) The Secretary shall, during September of each year <sup>1</sup> determine and promulgate the dollar amount which shall be applicable for premiums for months occurring in the following year. Subject to paragraph (4), the amount of an individual's monthly premium under this section shall be equal to the monthly actuarial rate determined under paragraph (1) for that following year. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1 (or, if it is a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1).
 
-(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
+(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him inarriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
 
 (4)(A) In the case of an individual described in subparagraph (B), the monthly premium for a month shall be reduced by the applicable reduction percent specified in the following table:
 
@@ -152,7 +152,7 @@ Subsec. (d). Pub. L. 100–360, §103, amended subsec. (d) generally. Prior to a
 
 Subsec. (d)(1). Pub. L. 100–485 substituted “during that year” for “during that entire year”.
 
-1987—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
+1987—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignatedpars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
 
 1986—Subsec. (c)(7). Pub. L. 99–272 added par. (7).
 
@@ -184,7 +184,7 @@ Section 6013(c) of Pub. L. 101–239 provided that: “The amendments made by th
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or afterJan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(8)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -226,7 +226,7 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 
 “(2) The coverage period under the respective program of an individual described in subsection (a) who enrolled in the respective program before the enrollment period described in that subsection shall be retroactively extended to October 1, 1981, if the individual files a request before January 1, 1983, for such retroactive extension and pays the monthly premiums for the months so covered.
 
-“(c)(1) For purposes of section 1839(d) of the Social Security Act \[section 1395r(d) of this title\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of title XVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
+“(c)(1) For purposes of section 1839(d) of the Social Security Act \[section 1395r(d) of this title\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of titleXVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
 
 “(2) Paragraph (1) shall not apply to an individual—
 

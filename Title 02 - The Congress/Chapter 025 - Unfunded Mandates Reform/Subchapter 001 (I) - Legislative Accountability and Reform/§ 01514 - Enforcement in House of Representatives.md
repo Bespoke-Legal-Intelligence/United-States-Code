@@ -1,0 +1,18 @@
+### §1514. Enforcement in House of Representatives
+
+#### (a) Omitted
+
+#### (b) Committee on Rules reports on waived points of order
+
+The Committee on Rules shall include in the report required by clause 1(d) of rule XI (relating to its activities during the Congress) of the Rules of the House of Representatives a separate item identifying all waivers of points of order relating to Federal mandates, listed by bill or joint resolution number and the subject matter of that measure.
+
+(Pub. L. 104–4, title I, §107, Mar. 22, 1995, 109 Stat. 63.)
+
+#### Codification
+
+Section is comprised of section 107 of Pub. L. 104–4. Subsec. (a) of section 107 of Pub. L. 104–4 amended the Rules of the House of Representatives, which are not classified to the Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1515 of this title.
+

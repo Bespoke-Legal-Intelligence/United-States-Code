@@ -50,7 +50,7 @@ Par. (4)(A). Pub. L. 99–509 substituted “(4), or (6)” for “or (4)”.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989,regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
+Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989, regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
 
 Amendment by section 7891(d)(1)(A) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(1)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 

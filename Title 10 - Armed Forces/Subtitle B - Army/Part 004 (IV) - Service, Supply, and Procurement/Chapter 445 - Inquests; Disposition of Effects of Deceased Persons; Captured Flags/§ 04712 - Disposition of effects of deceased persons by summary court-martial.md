@@ -78,7 +78,7 @@ In subsections (a), (b), and (d), the words “surviving spouse” are substitut
 
 In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as \* \* \* will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
 
-In subsection (d), the words “through the Quartermaster Corps” are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words “if such be found by said court” are omitted as surplusage. The words “United States” are substituted for the word “Government”. 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
+In subsection (d), the words “through the Quartermaster Corps” are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words “if such be found by said court” are omitted as surplusage. The words “United States” are substituted for theword “Government”. 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
 
 In subsection (e), the first 37 words are substituted for 5:150j (33 words after 3d semicolon of 1st par.). The word “may” is substituted for the words “shall have the authority”.
 
@@ -121,6 +121,10 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Cross References
 

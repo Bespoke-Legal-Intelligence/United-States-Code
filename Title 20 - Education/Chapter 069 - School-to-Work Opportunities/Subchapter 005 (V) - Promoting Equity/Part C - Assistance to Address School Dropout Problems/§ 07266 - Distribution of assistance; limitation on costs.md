@@ -16,5 +16,5 @@ The Secretary shall ensure that, to the extent practicable, in approving grant a
 
 Not more than five percent of any grant made under this part may be used for administrative costs.
 
-(Pub. L. 89 10, title V, §5306, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3706.)
+(Pub. L. 89–10, title V, §5306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3706.)
 

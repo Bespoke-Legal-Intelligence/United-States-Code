@@ -16,7 +16,7 @@ The Secretary shall make grants to public and private entities (and combinations
 
 #### (c) Street-based services
 
-(1) If for a fiscal year the amount appropriated under section 5751(a)(1) of this title exceeds $50,000,000, the Secretary may make grants under this subsection for that fiscal year to entities that receive grants under subsection (a) of this section to establish and operate street-based service projects for runaway and homeless youth.
+(1) If for a fiscal year the amount appropriated under section 5751(a)(1) of this title exceeds$50,000,000, the Secretary may make grants under this subsection for that fiscal year to entities that receive grants under subsection (a) of this section to establish and operate street-based service projects for runaway and homeless youth.
 
 (2) For purposes of this part, the term “street-based services” includes—
 

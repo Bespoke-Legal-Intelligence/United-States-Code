@@ -18,7 +18,7 @@ The term of office of each member of the Board shall be six years; except that a
 
 #### (e) Meetings; quorum; notice
 
-The Board shall meet annually on the third Monday in May unless, prior to May 10 in any year, the Chairman has set the annual meeting for a day in May other than the third Monday, and at such other times as the Chairman may determine, but he shall also call a meeting whenever one-third of the members so request in writing. A majority of the members of the Board shall constitute a quorum. Each member shallbe given notice, not less than fifteen days prior to any meeting, of the call of such meeting.
+The Board shall meet annually on the third Monday in May unless, prior to May 10 in any year, the Chairman has set the annual meeting for a day in May other than the third Monday, and at such other times as the Chairman may determine, but he shall also call a meeting whenever one-third of the members so request in writing. A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.
 
 #### (f) Election of Chairman and Vice Chairman; vacancy
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairma
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, suchcommittee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

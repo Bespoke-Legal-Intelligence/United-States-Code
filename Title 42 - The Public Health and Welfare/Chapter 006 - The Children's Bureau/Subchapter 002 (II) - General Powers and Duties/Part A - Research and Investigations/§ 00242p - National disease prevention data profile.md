@@ -20,7 +20,7 @@ This Act, referred to in subsec. (a), is Pub. L. 95–626, Nov. 10, 1978, 92 Sta
 
 #### Codification
 
-Section was enacted as part of the Health Services and Centers Amendments of 1978, and not as part of thePublic Health Service Act which comprises this chapter.
+Section was enacted as part of the Health Services and Centers Amendments of 1978, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 

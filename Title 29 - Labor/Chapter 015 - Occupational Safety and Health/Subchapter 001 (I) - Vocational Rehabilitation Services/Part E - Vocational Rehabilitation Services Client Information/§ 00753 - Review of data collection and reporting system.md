@@ -2,7 +2,7 @@
 
 #### (a) Review
 
-The Commissioner shall conduct a comprehensive review of the current system for collecting and reporting data on clients of programs carried out under this chapter, particularly data on clients of the programs carried out under this subchapter.
+The Commissioner shall conduct a comprehensive review of the current system for collectingand reporting data on clients of programs carried out under this chapter, particularly data on clients of the programs carried out under this subchapter.
 
 #### (b) Considerations
 

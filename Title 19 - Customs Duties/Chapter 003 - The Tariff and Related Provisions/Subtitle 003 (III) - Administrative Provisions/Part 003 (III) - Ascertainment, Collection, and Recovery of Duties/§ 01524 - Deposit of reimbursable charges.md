@@ -6,7 +6,7 @@ Receipts for any reimbursable charges or expenses which have been paid for out o
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §524, 42 Stat. 975. That section was superseded by section 524 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §524, 42 Stat. 975. That section was superseded by section 524 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

@@ -44,5 +44,5 @@
 
 &emsp;The Secretary may reserve not more than 5 percent of funds appropriated under section 7516 of this title to evaluate the efficacy of programs under this part.
 
-(Pub. L. 89 10, title VII, §7203, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3737.)
+(Pub. L. 89–10, title VII, §7203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3737.)
 

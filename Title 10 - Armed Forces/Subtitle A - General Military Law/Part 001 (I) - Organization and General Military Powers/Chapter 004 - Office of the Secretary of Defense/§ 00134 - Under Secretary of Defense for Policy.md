@@ -1,4 +1,4 @@
-### §134 . Under Secretary of Defense for Policy
+### §134. Under Secretary of Defense for Policy
 
 (a) There is an Under Secretary of Defense for Policy, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Under Secretary within 10 years after relief from active duty as a commissioned officer of a regular component of an armed force.
 

@@ -14,7 +14,7 @@ Upon receipt of applications filed pursuant to this section, the Commissioner sh
 
 &emsp;(B) Applicants who are not at least 50 per centum disabled shall be ranked in order of their age with oldest listed first and the youngest listed last: <i>Provided</i>, That, if any applicant physically resides in quarter quad Nos. 78 NW, 77 NE, 77 NW, 55 SW, or 54 SE as designated on the Mediator's partition map, such applicant shall be given priority over another applicant of equal age.
 
-&emsp;(C) Applicants who did not, as of December 22, 1974, and continuously thereafter, maintain a separate place of abode and actually remaindomiciled on Hopi partitioned lands, and who, but for this subsection would be required to relocate, shall be rejected by the Commissioner.
+&emsp;(C) Applicants who did not, as of December 22, 1974, and continuously thereafter, maintain a separate place of abode and actually remain domiciled on Hopi partitioned lands, and who, but for this subsection would be required to relocate, shall be rejected by the Commissioner.
 
 &emsp;(D) Applicants who were not at least forty-nine years of age on December 22, 1974, or are not at least 50 per centum disabled, shall also be rejected by the Commissioner.
 

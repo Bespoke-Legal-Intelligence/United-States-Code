@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) whether the assistance was furnished on a grant basis, on an advance payment basis, or on some other basis.
 
-> Each report shall also describe the ways in which the provision of such assistance has furthered the objective of enhancing the ability of foreign law enforcement authorities to deter acts of terrorism.
+> Each report shall also describe the ways in which the provision of such assistance has furthered the objective of enhancing the ability offoreign law enforcement authorities to deter acts of terrorism.
 
 (Pub. L. 87–195, pt. II, §574, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972.)
 
@@ -34,7 +34,7 @@ Section 574 of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Delegation of Functions
 

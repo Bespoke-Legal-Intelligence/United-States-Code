@@ -1,4 +1,4 @@
-### §4009 . Administrative enforcement
+### §4009. Administrative enforcement
 
 #### (a) Administrative enforcement
 

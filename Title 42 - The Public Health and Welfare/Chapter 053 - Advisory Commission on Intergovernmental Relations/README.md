@@ -28,6 +28,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Appropriations; Unfunded Mandates; Termination of Advisory Commission on Intergovernmental Relations
+
+Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 480, provided in part that: “For necessary expenses of the Advisory Commission on Intergovernmental Relations, $784,000, of which $334,000 is to carry out the provisions of Public Law 104–4 \[see Short Title note set out under section 1501 of Title 2, The Congress\], and of which $450,000 shall be available only for the purposes of the prompt and orderly termination of the Advisory Commission on Intergovernmental Relations.”
+
 
 ---
 

@@ -17,7 +17,7 @@
 
 1994—Pub. L. 103–355, title III, §§3005(b), 3006(b), 3007(b), Oct. 13, 1994, 108 Stat. 3331, substituted “Baseline description” for “Enhanced program stability” in item 2435 and struck out items 2438 “Major programs: competitive phototyping” and 2439 “Major programs: competitive alternative sources”.
 
-1993—Pub. L. 103–160, div. A, title VIII, §828(a)(4), Nov. 30, 1993, 107 Stat. 1713, struck out items 2436 “Defenseenterprise programs” and 2437 “Defense enterprise programs: milestone authorization”.
+1993—Pub. L. 103–160, div. A, title VIII, §828(a)(4), Nov. 30, 1993, 107 Stat. 1713, struck out items 2436 “Defense enterprise programs” and 2437 “Defense enterprise programs: milestone authorization”.
 
 1992—Pub. L. 102–484, div. A, title VIII, §821(a)(2), div. D, title XLII, §4216(b)(2), Oct. 23, 1992, 106 Stat. 2460, 2670, added items 2438 and 2440 and redesignated former item 2438 as 2439.
 

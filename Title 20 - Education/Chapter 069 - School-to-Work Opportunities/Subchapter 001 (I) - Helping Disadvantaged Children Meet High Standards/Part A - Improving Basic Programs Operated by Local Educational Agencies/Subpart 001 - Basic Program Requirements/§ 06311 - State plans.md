@@ -56,7 +56,7 @@
 
 #### (3) Assessments
 
-&emsp;Each State plan shall demonstrate that the State has developed or adopted a set of high-quality, yearly student assessments, including assessments in at least mathematics and reading or language arts, that will be used as the primary means of determining the yearly performance of each local educational agency and school served under this part in enabling all children served under this part to meet the State's student performance standards. Such assessments shall—
+&emsp;Each State plan shall demonstrate that the State has developed or adopted a set of high-quality, yearly student assessments, including assessments in at least mathematics and reading or language arts, that will be used as the primary means of determining the yearly performance of each local educational agency andschool served under this part in enabling all children served under this part to meet the State's student performance standards. Such assessments shall—
 
 &emsp;&emsp;(A) be the same assessments used to measure the performance of all children, if the State measures the performance of all children;
 
@@ -110,7 +110,7 @@
 
 #### (7) Transitional assessments
 
-&emsp;(A) If a State does not have assessments that meet the requirements of paragraph (3) and proposes to develop such assessments under paragraph (6)(B), the State may propose to use a transitional set of yearly statewide assessments that will assess the performance of complex skills and challenging subject matter.
+&emsp;(A) If a State does not have assessments that meet the requirements of paragraph (3) and proposes to develop such assessments underparagraph (6)(B), the State may propose to use a transitional set of yearly statewide assessments that will assess the performance of complex skills and challenging subject matter.
 
 &emsp;(B) For any year in which a State uses transitional assessments, the State shall devise a procedure for identifying local educational agencies under paragraphs (3) and (7) of section 6317(d) of this title, and schools under paragraphs (1) and (7) of section 6317(c) of this title, that rely on accurate information about the academic progress of each such local educational agency and school.
 
@@ -198,11 +198,11 @@ Nothing in this chapter shall be construed to require any State educational agen
 
 If the aggregate State expenditure by a State educational agency for the operation of elementary and secondary education programs in the State is less than such agency's aggregate Federal expenditure for the State operation of all Federal elementary and secondary education programs, then the State plan shall include assurances and specific provisions that such State will provide State expenditures for the operation of elementary and secondary education programs equal to or exceeding the level of Federal expenditures for such operation by October 1, 1998.
 
-(Pub. L. 89 10, title I, §1111, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3523.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3523.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1), (b)(1)(B), (8)(B), and (g), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1), (b)(1)(B), (8)(B), and (g), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

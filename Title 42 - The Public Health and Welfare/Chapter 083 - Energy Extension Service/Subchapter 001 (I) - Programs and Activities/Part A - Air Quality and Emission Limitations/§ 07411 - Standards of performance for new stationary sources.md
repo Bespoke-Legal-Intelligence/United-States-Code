@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (c) State implementation and enforcement of standards of performance
 
-(1) Each State may develop and submit to the Administrator a procedure for implementingand enforcing standards of performance for new sources located in such State. If the Administrator finds the State procedure is adequate, he shall delegate to such State any authority he has under this chapter to implement and enforce such standards.
+(1) Each State may develop and submit to the Administrator a procedure for implementing and enforcing standards of performance for new sources located in such State. If the Administrator finds the State procedure is adequate, he shall delegate to such State any authority he has under this chapter to implement and enforce such standards.
 
 (2) Nothing in this subsection shall prohibit the Administrator from enforcing any applicable standard of performance under this section.
 
@@ -86,7 +86,7 @@ After the effective date of standards of performance promulgated under this sect
 
 (1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
-(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
+(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributessignificantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
 (3) Upon application of the Governor of a State showing that the Administrator has failed to apply properly the criteria required to be considered under subsection (f)(2) of this section, the Administrator shall revise the list under subsection (b)(1)(A) of this section to apply properly such criteria.
 
@@ -134,7 +134,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(iv) the granting of such waiver is consistent with the requirements of subparagraph (C).
 
-> In making any determination under clause (ii), the Administrator shall take into account any previous failure of such system or systems to operate effectively or to meet any requirement of the new source performance standards. In determining whether an unreasonable risk exists under clause (iii), the Administrator shall consider, among other factors, whether and to what extent the use of the proposed technological system will cause, increase, reduce, or eliminate emissions of any unregulated pollutants; available methods for reducing or eliminating any risk to public health, welfare, or safety which may be associated with the use of such system; and the availability of other technological systems which may be used to conform to standards under this section without causing or contributing to such unreasonable risk. The Administrator may conduct such tests and may require the owner or operator of the proposed source to conduct such tests and provide such information as is necessary to carry out clause (iii) of this subparagraph. Such requirements shall include arequirement for prompt reporting of the emission of any unregulated pollutant from a system if such pollutant was not emitted, or was emitted in significantly lesser amounts without use of such system.
+> In making any determination under clause (ii), the Administrator shall take into account any previous failure of such system or systems to operate effectively or to meet any requirement of the new source performance standards. In determining whether an unreasonable risk exists under clause (iii), the Administrator shall consider, among other factors, whether and to what extent the use of the proposed technological system will cause, increase, reduce, or eliminate emissions of any unregulated pollutants; available methods for reducing or eliminating any risk to public health, welfare, or safety which may be associated with the use of such system; and the availability of other technological systems which may be used to conform to standards under this section without causing or contributing to such unreasonable risk. The Administrator may conduct such tests and may require the owner or operator of the proposed source to conduct such tests and provide such information as is necessary to carry out clause (iii) of this subparagraph. Such requirements shall include a requirement for prompt reporting of the emission of any unregulated pollutant from a system if such pollutant was not emitted, or was emitted in significantly lesser amounts without use of such system.
 
 (B) A waiver under this paragraph shall be granted on such terms and conditions as the Administrator determines to be necessary to assure—
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as ineffect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
@@ -262,7 +262,7 @@ Section 403(b), (c) of Pub. L. 101–549 provided that:
 
 “(b)
 
-Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section\[amending sections 7411 and 7479 of this title\] prior to such revision.
+Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
 
 “(c)
 

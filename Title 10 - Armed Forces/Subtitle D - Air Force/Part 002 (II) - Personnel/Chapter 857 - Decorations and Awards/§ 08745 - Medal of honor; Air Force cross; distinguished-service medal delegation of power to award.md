@@ -1,4 +1,4 @@
-### §8745 . Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award
+### §8745. Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award
 
 The President may delegate his authority to award the medal of honor, Air Force cross, and distinguished-service medal, to a commanding general of a separate air force or higher unit in the field.
 

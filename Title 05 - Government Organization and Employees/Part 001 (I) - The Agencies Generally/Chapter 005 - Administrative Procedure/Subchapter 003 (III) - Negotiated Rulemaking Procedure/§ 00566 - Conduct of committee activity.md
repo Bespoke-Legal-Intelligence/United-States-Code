@@ -28,7 +28,7 @@ Committee Procedures.—A negotiated rulemaking committee established under this
 
 (f)
 
-Report of Committee.—If a committee reaches a consensus on a proposed rule, at the conclusion of negotiations the committee shalltransmit to the agency that established the committee a report containing the proposed rule. If the committee does not reach a consensus on a proposed rule, the committee may transmit to the agency a report specifying any areas in which the committee reached a consensus. The committee may include in a report any other information, recommendations, or materials that the committee considers appropriate. Any committee member may include as an addendum to the report additional information, recommendations, or materials.
+Report of Committee.—If a committee reaches a consensus on a proposed rule, at the conclusion of negotiations the committee shall transmit to the agency that established the committee a report containing the proposed rule. If the committee does not reach a consensus on a proposed rule, the committee may transmit to the agency a report specifying any areas in which the committee reached a consensus. The committee may include in a report any other information, recommendations, or materials that the committee considers appropriate. Any committee member may include as an addendum to the report additional information, recommendations, or materials.
 
 (g)
 
@@ -46,7 +46,7 @@ Section 10 of the Federal Advisory Committee Act, referred to in subsecs. (c), (
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 586 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 586 of this title as this section.
 
 #### Section Referred to in Other Sections
 

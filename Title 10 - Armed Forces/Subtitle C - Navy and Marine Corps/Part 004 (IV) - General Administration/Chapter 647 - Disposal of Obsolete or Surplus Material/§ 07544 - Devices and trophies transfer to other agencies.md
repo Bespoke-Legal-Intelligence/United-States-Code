@@ -1,4 +1,4 @@
-### §7544 . Devices and trophies: transfer to other agencies
+### §7544. Devices and trophies: transfer to other agencies
 
 (a) The Secretary of the Navy may, without reimbursement, transfer to the Secretary of the Treasury devices and trophies for the promotion of the sale of war bonds or victory bonds. The Secretary of the Treasury may sell or donate the devices and trophies for the promotion of the sale of such bonds.
 

@@ -50,7 +50,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 &emsp;&emsp;(B) submit the plan to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives not later than 12 months after July 22, 1994; and
 
-&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of theSenate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
+&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
 
 #### (2) Evaluation and reporting
 
@@ -60,59 +60,21 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 &emsp;Nothing in this section shall be construed to alter or supersede any other provision of law otherwise applicable to the Architect of the Capitol or its employees, unless expressly provided in this section.
 
-#### (e) Discrimination complaint processing
-
-#### (1) Definitions
-
-&emsp;For purposes of this subsection:
-
-&emsp;&emsp;(A) The term “employee of the Architect of the Capitol” or “employee” means—
-
-&emsp;&emsp;&emsp;(i) any employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants;
-
-&emsp;&emsp;&emsp;(ii) any applicant for a position that is to be occupied by an individual described in clause (i); or
-
-&emsp;&emsp;&emsp;(iii) within 180 days after the termination of employment with the Architect of the Capitol, any individual who was formerly an employee described in clause (i) and whose claim of a violation arises out of the individual's employment with the Architect of the Capitol.
-
-&emsp;&emsp;(B) The term “violation” means a practice that violates paragraph (2) of this subsection.
-
-&emsp;&emsp;(C) Notwithstanding subparagraph (A), the terms “employee of the Architect of the Capitol” and “employee” do not include any individual referred to in clause (i), (ii), or (iii) of such subparagraph who is a House of Representatives garage or parking lot attendant (including the Superintendent), with respect to whom supervision and all other employee-related matters are transferred to the Sergeant at Arms of the House of Representatives pursuant to direction of the Committee on Appropriations of the House of Representatives in House Report 103–517 of the One Hundred Third Congress.
-
-#### (2) Discriminatory practices prohibited
-
-#### (A) In general
-
-&emsp;&emsp;All personnel actions affecting employees of the Architect of the Capitol shall be made free from any discrimination based on—
-
-&emsp;&emsp;&emsp;(i) race, color, religion, sex, or national origin, within the meaning of section 2000e–16 of title 42;
-
-&emsp;&emsp;&emsp;(ii) age, within the meaning of section 633a of title 29; or
-
-&emsp;&emsp;&emsp;(iii) handicap or disability, within the meaning of section 791 of title 29 and sections 12112 through 12114 of title 42.
-
-#### (B) Intimidation prohibited
-
-&emsp;&emsp;Any intimidation of, or reprisal against, any employee by the Architect of the Capitol, or by any employee of the Architect of the Capitol, because of the exercise of a right under this section constitutes an unlawful employment practice, which may be remedied in the same manner as are other violations described in subparagraph (A).
-
-#### (3) Procedure for consideration of alleged violations
-
-&emsp;(A) Any employee of the Architect of the Capitol alleging a violation of paragraph (2) may file a charge with the General Accounting Office Personnel Appeals Board in accordance with the General Accounting Office Personnel Act of 1980 (31 U.S.C. 751–55). Such a charge may be filed only after the employee has filed a complaint with the Architect of the Capitol in accordance with requirements prescribed by the Architect of the Capitol and has exhausted all remedies pursuant to such requirements.
-
-&emsp;(B) The Architect of the Capitol shall carry out any action within its authority that the Board orders under section 4 of the General Accounting Office Personnel Act of 1980 (31 U.S.C. 753).
-
-&emsp;(C) The Architect of the Capitol shall reimburse the General Accounting Office for costs incurred by the Board in considering charges filed under this subsection.
-
-(Pub. L. 103–283, title III, §312, July 22, 1994, 108 Stat. 1443.)
-
-#### References in Text
-
-The General Accounting Office Personnel Act of 1980, referred to in subsec. (e)(3)(A), (B), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance. Provisions of the Act relating to General Accounting Office Personnel Appeals Board are contained in subchapter IV (§751 et seq.) of chapter 7 of Title 31.
+(Pub. L. 103–283, title III, §312, July 22, 1994, 108 Stat. 1443; Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41.)
 
 #### Codification
 
-Section is comprised of section 312 of Pub. L. 103–283. Subsec. (e)(4) of section 312 of Pub. L. 103–283 amended sections 751, 753, and 755 of Title 31, Money and Finance, and subsec. (f) of section 312 of Pub. L. 103–283 amended sections 60m, 1201, 1205, and 1212 of Title 2, The Congress.
+Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section 312 of Pub. L. 103–283 amended sections 60m, 1201, 1205, and 1212 of Title 2, The Congress.
+
+#### Amendments
+
+1995—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
+
+#### Savings Provision
+
+Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this section is repealed, except as provided in section 1435 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 31 sections 753, 755.
+This section is referred to in title 2 section 1435; title 31 sections 753, 755.
 

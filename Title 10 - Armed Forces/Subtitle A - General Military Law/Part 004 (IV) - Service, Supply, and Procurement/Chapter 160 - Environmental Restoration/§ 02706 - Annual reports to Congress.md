@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) means an entity (other than an entity referred to in subparagraph (B)) that is one of the top 100 entities receiving the largest dollar volume of prime contract awards by the Department of Defense during the fiscal year covered by the report; and
 
-&emsp;&emsp;(B) does not include small business concerns, commercial companies (or segments of commercial companies) providing commercial items to the Department of Defense.
+&emsp;&emsp;(B) does not include small business concerns, commercial companies (or segmentsof commercial companies) providing commercial items to the Department of Defense.
 
 &emsp;(2) The term “military installation” has the meaning given such term in section 2687(e) of this title, except that such term does not include a homeport facility for any ship and includes—
 

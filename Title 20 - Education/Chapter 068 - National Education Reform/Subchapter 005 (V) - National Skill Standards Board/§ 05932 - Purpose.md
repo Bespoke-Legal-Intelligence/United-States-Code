@@ -36,7 +36,7 @@ It is the purpose of this subchapter to establish a National Skill Standards Boa
 
 &emsp;&emsp;(K) to facilitate linkages between other components of the national strategy to enhance workforce skills, including school-to-work transition, secondary and postsecondary vocational-technical education, and job training programs.
 
-(Pub. L. 103 227, title V, §502, Mar. 31, 1994, 108 Stat. 191.)
+(Pub. L. 103–227, title V, §502, Mar. 31, 1994, 108 Stat. 191.)
 
 #### References in Text
 

@@ -56,7 +56,7 @@
 
 &emsp;(12) a vessel of the working fleet of the Panama Canal Commission not on a foreign voyage.
 
-(c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its loadline certificate and the removal of its load line marks.
+(c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
@@ -68,7 +68,7 @@
 
 Source: Section (U.S. Code) 46 App. U.S.C. 86b, 86c, 88.
 
-The delineation of the vessels that will be subject to load line requirements is made in section 5102 as follows: subsection (a) is an all-inclusive list of vessels subject to load line requirements, followed by subsection (b) which specifically exempts those vessels to which the requirements do not apply.
+The delineation of the vessels that will be subject to load line requirements is made in section 5102 as follows: subsection (a) is an all-inclusive list of vesselssubject to load line requirements, followed by subsection (b) which specifically exempts those vessels to which the requirements do not apply.
 
 Section 5102(a) lists five categories of vessels which are subject to load line requirements. They are as follows:
 

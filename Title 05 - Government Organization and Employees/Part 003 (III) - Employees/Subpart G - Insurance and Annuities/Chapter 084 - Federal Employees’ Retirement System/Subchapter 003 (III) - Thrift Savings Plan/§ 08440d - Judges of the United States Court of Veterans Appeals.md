@@ -24,15 +24,15 @@ Section 8351(b)(7) of this title, referred to in subsec. (b)(6), was redesignate
 
 #### Amendments
 
-1994—Subsec. (b)(5). Pub. L. 103–226 substituted “Section 8433(b) of this title applies” for “A transfer shall be made as provided in section 8433(d) of this title”.
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–226 substituted “Section 8433(b) of this title applies” for “A transfer shall be made as provided in section 8433(d) of this title”.
 
-1992—Pub. L. 102–378 amended Pub. L. 102–198. See 1991 Amendment note below.
+<b>1992</b>—Pub. L. 102–378 amended Pub. L. 102–198. See 1991 Amendment note below.
 
-1991—Pub. L. 102–198, as amended by Pub. L. 102–378, renumbered section 8440c of this title as this section.
+<b>1991</b>—Pub. L. 102–198, as amended by Pub. L. 102–378, renumbered section 8440c of this title as this section.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -45,4 +45,6 @@ Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, §7(c)(4)(C),
 #### Section Referred to in Other Sections
 
 This section is referred to in title 38 sections 7296, 7297.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

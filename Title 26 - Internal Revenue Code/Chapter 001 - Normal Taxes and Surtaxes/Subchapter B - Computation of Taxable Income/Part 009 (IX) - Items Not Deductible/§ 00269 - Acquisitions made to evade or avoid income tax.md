@@ -34,7 +34,7 @@ If—
 
 In any case to which subsection (a) or (b) applies the Secretary is authorized—
 
-&emsp;(1) to allow as a deduction, credit, or allowance any part of any amount disallowed by such subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
+&emsp;(1) to allow as a deduction, credit, or allowance any part of any amount disallowed bysuch subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
 
 &emsp;(2) to distribute, apportion, or allocate gross income, and distribute, apportion, or allocate the deductions, credits, or allowances the benefit of which was sought to be secured, between or among the corporations, or properties, or parts thereof, involved, and to allow such deductions, credits, or allowances so distributed, apportioned, or allocated, but to give effect to such allowance only to such extent as he determines will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
 

@@ -2,7 +2,7 @@
 
 #### (a) Project reports; outdoor recreation views; conformity to State comprehensive plan
 
-The views of the Secretary of the Interior developed in accordance with section 460<i>l</i>–2 of thistitle, with respect to the outdoor recreation aspects shall be set forth in any report of any project or appropriate unit thereof within the purview of this part. Such views shall include a report on the extent to which the proposed recreation and fish and wildlife development conforms to and is in accord with the State comprehensive plan developed pursuant to section 460<i>l</i>–8(d) of this title.
+The views of the Secretary of the Interior developed in accordance with section 460<i>l</i>–2 of this title, with respect to the outdoor recreation aspects shall be set forth in any report of any project or appropriate unit thereof within the purview of this part. Such views shall include a report on the extent to which the proposed recreation and fish and wildlife development conforms to and is in accord with the State comprehensive plan developed pursuant to section 460<i>l</i>–8(d) of this title.
 
 #### (b) Omitted
 

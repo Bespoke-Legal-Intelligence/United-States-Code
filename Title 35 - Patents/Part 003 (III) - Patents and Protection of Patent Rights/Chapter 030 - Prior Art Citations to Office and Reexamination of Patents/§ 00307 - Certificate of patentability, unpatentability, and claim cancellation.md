@@ -2,13 +2,13 @@
 
 (a) In a reexamination proceeding under this chapter, when the time for appeal has expired or any appeal proceeding has terminated, the Commissioner will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any proposed amended or new claim determined to be patentable.
 
-(b) Any proposed amended or new claim determined to be patentable and incorporated into a patent following a reexamination proceeding will have the same effect as that specified in section 252 of this title for reissued patents on the right of any person who made, purchased, or used anything patented by such proposed amended or new claim, or who made substantial preparation for the same, prior to issuance of a certificate under the provisions of subsection (a) of this section.
+(b) Any proposed amended or new claim determined to be patentable and incorporated into a patent following a reexamination proceeding will have the same effect as that specified in section 252 of this title for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation for the same, prior to issuance of a certificate under the provisions of subsection (a) of this section.
 
 (Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 103–465, title V, §533(b)(8), Dec. 8, 1994, 108 Stat. 4990.)
 
-#### Amendment of Subsection (b)
+#### Amendments
 
-<i>Pub. L. 103–465, title V, §§533(b)(8), 534(a), (b)(3), Dec. 8, 1994, 108 Stat. 4990, provided that, effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, subsection (b) of this section is amended by striking “used anything” and inserting “used within the United States, or imported into the United States, anything”.</i>
+1994—Subsec. (b). Pub. L. 103–465 substituted “used within the United States, or imported into the United States, anything” for “used anything”.
 
 #### Effective Date of 1994 Amendment
 

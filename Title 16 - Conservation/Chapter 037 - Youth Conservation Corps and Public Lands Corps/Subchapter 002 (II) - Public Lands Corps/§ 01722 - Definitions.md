@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 #### (4) Hawaiian home lands
 
-&emsp;The term “Hawaiian home lands” means all lands given the status of Hawaiian home landsunder section 204 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 110), or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (Public Law 86–3; 73 Stat. 5).
+&emsp;The term “Hawaiian home lands” means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 110), or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (Public Law 86–3; 73 Stat. 5).
 
 #### (5) Indian
 

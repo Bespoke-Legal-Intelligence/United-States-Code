@@ -10,5 +10,5 @@ The purpose of this subpart is to assist local educational agencies, institution
 
 &emsp;&emsp;(B) meet the same challenging State content standards and challenging State student performance standards expected for all children and youth as required by section 6311(b) of this title.
 
-(Pub. L. 89 10, title VII, §7111, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3719.)
+(Pub. L. 89–10, title VII, §7111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719.)
 

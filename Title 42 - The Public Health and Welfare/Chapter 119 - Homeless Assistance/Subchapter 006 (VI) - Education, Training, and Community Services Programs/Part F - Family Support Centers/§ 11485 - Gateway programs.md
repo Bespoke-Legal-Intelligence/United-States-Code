@@ -8,13 +8,13 @@ The Secretary shall use amounts made available in accordance with section 11482(
 
 The Secretary of Health and Human Services, in consultation with the Secretary of Education, shall select a local education agency to receive a grant under subsection (a) of this section if such agency has cooperated with the local public housing authority in order to meet the following requirements:
 
-&emsp;(1) The local education agency shall demonstrate to the Secretary that training and ancillary support services will be accessed through existing program providers to the extent that they are located in the immediate vicinity of the public housing development, or will contract with such providers for on-site service delivery, and that funds provided under this section will be utilized to purchase such services only to the extent that no other funds can be obtained to fulfill the purpose.
+&emsp;(1) The local education agency shall demonstrate to the Secretary that training and ancillary support services will be accessed through existing program providers to the extent that they are located in the immediate vicinity of the public housing development, or will contract with such providers for on-site service delivery, and that funds providedunder this section will be utilized to purchase such services only to the extent that no other funds can be obtained to fulfill the purpose.
 
 &emsp;(2) The public housing agency shall agree to make available suitable facilities in the public housing development for the provision of education, training and support services under this section.
 
 &emsp;(3) The local education agency shall demonstrate that the recipients of service have been recruited with the assistance of the public housing authority and are eligible individuals in accordance with the priorities established in subsection (c) of this section.
 
-&emsp;(4) The local education agency shall demonstrate the ability to coordinate the servicesprovided in this section with other services provided, with the public housing development and private industry council as well as with other public and private agencies and community-based organizations of demonstrated effectiveness providing similar and ancillary services to the target population.
+&emsp;(4) The local education agency shall demonstrate the ability to coordinate the services provided in this section with other services provided, with the public housing development and private industry council as well as with other public and private agencies and community-based organizations of demonstrated effectiveness providing similar and ancillary services to the target population.
 
 &emsp;(5) The local education agency shall demonstrate that they have, to the fullest extent practicable, attempted to employ residents of the public housing development to carry out the purposes of this section whenever qualified residents are available.
 

@@ -22,7 +22,7 @@
 
 (2)(A) In the case of an organization making an agreement under paragraph (1)(C)(ii) regarding the provision of health services under subsection (a) of this section, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
-(B) A determination by the Secretary of whether an organization referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regardto whether the organization accepts voluntary donations regarding the provision of services to the public.
+(B) A determination by the Secretary of whether an organization referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
 #### (c) Preferences in making grants
 
@@ -50,7 +50,7 @@ The Secretary shall, in making grants under subsection (a) of this section, give
 
 &emsp;(F) subsection (<i>l</i>) of this section, relating to a limitation on administrative expenses.
 
-(2) An application required in paragraph (1) shall, with respect to agreements required to be contained in the application, provide assurances of compliance satisfactory to the Secretary and shall otherwise be in such form, be made in such manner, and contain such information in addition to information required in paragraph (1) as the Secretary determines to be necessary to carry out this section.
+(2) An application required in paragraph (1) shall, with respect to agreements required to be contained in the application, provide assurances of compliance satisfactory to the Secretary andshall otherwise be in such form, be made in such manner, and contain such information in addition to information required in paragraph (1) as the Secretary determines to be necessary to carry out this section.
 
 #### (e) Requirement of provision of matching funds
 
@@ -258,7 +258,7 @@ For purposes of this section:
 
 #### (5) Application for grant
 
-&emsp;The Secretary may make a grant under paragraph (1) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this subsection.
+&emsp;The Secretary may make a grant under paragraph (1) only if an application for thegrant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this subsection.
 
 #### (6) Authorization of appropriations
 
@@ -306,7 +306,7 @@ Another prior section 256, act July 1, 1944, ch. 373, title III, §340, formerly
 
 &emsp;&emsp;&emsp;“(ii) the organization is qualified to receive payments under the appropriate State plan.”
 
-Subsec. (q)(1). Pub. L. 101–645, §502, substituted “$70,000,000 for fiscal year 1991, $80,000,000 for fiscal year 1992, and such sums as may be necessary for each of thefiscal years 1993 and 1994” for “$61,200,000 for fiscal year 1989, $63,600,000 for fiscal year 1990, and $66,200,000 for fiscal year 1991”.
+Subsec. (q)(1). Pub. L. 101–645, §502, substituted “$70,000,000 for fiscal year 1991, $80,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994” for “$61,200,000 for fiscal year 1989, $63,600,000 for fiscal year 1990, and $66,200,000 for fiscal year 1991”.
 
 Subsec. (s). Pub. L. 101–645, §503, added subsec. (s).
 

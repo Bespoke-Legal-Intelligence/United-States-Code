@@ -62,9 +62,15 @@ Upon application of the Commission, the district courts of the United States and
 
 In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title if the person's conduct demonstrates substantial unfitness to serve as an officer or director of any such issuer.
 
-(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Dec. 4, 1987, Pub. L. 100–181, title II, §208, 101 Stat. 1253; Oct. 15, 1990, Pub. L. 101–429, title I, §101, 104 Stat. 932.)
+#### (f) Prohibition of attorneys’ fees paid from Commission disgorgement funds
+
+Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
+
+(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Dec. 4, 1987, Pub. L. 100–181, title II, §208, 101 Stat. 1253; Oct. 15, 1990, Pub. L. 101–429, title I, §101, 104 Stat. 932; Dec. 22, 1995, Pub. L. 104–67, title I, §103(b)(1), 109 Stat. 756.)
 
 #### Amendments
+
+1995—Subsec. (f). Pub. L. 104–67 added subsec. (f).
 
 1990—Subsecs. (d), (e). Pub. L. 101–429 added subsecs. (d) and (e).
 
@@ -72,9 +78,17 @@ In any proceeding under subsection (b) of this section, the court may prohibit, 
 
 Subsec. (c). Pub. L. 100–181, §208(b), amended subsec. (c) generally.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77<i>l</i> of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1) and (2) of Pub. L. 101–429, set out in a note under section 77g of this title.
+
+#### Construction of 1995 Amendment
+
+Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
 
 #### Transfer of Functions
 

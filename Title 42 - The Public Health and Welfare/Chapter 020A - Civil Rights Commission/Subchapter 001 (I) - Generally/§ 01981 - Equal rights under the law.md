@@ -10,7 +10,7 @@ For purposes of this section, the term “make and enforce contracts” includes
 
 #### (c) Protection against impairment
 
-The rights protected by this section are protected against impairment by nongovernmentaldiscrimination and impairment under color of State law.
+The rights protected by this section are protected against impairment by nongovernmental discrimination and impairment under color of State law.
 
 (R.S. §1977; Pub. L. 102–166, title I, §101, Nov. 21, 1991, 105 Stat. 1071.)
 
@@ -80,9 +80,9 @@ Section 116 of title I of Pub. L. 102–166 provided that: “Nothing in the ame
 
 #### Alternative Means of Dispute Resolution
 
-Section 118 of title I of Pub. L. 102–166 provided that: “Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\].”
+Section 118 of title I of Pub. L. 102–166 provided that: “Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting section 1981a of this title and amendingthis section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 1988 of this title; title 2 section 1207.
+This section is referred to in sections 1981a, 1988 of this title; title 2 sections 1202, 1311.
 

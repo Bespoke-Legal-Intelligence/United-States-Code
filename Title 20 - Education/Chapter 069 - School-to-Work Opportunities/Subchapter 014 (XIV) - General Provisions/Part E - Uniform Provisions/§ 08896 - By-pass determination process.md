@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall not take any final action under section 8894 of this title until the State educational agency, local educational agency, educational service agency, or consortium of such agencies affected by such action has had an opportunity, for not less than 45 days after receiving written notice thereof, tosubmit written objections and to appear before the Secretary to show cause why that action should not be taken.
+&emsp;(A) The Secretary shall not take any final action under section 8894 of this title until the State educational agency, local educational agency, educational service agency, or consortium of such agencies affected by such action has had an opportunity, for not less than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary to show cause why that action should not be taken.
 
 &emsp;(B) Pending final resolution of any investigation or complaint that could result in a determination under this section, the Secretary may withhold from the allocation of the affected State or local educational agency the amount estimated by the Secretary to be necessary to pay the cost of those services.
 
@@ -40,11 +40,11 @@ When the Secretary arranges for services pursuant to this section, the Secretary
 
 Any by-pass determination by the Secretary under this Act as in effect on the day preceding October 20, 1994, shall remain in effect to the extent the Secretary determines that such determination is consistent with the purpose of this section.
 
-(Pub. L. 89 10, title XIV, §14506, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3904.)
+(Pub. L. 89–10, title XIV, §14506, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3904.)
 
 #### References in Text
 
-This Act, as in effect on the day preceding October 20, 1994, referred to in subsec. (d), is Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, as amended, known as the Elementary and Secondary Education Act of 1965, which was classified generally to chapter 47 (§2701 et seq.) of this title prior to the general amendment of that Act by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+This Act, as in effect on the day preceding October 20, 1994, referred to in subsec. (d), is Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, as amended, known as the Elementary and Secondary Education Act of 1965, which was classified generally to chapter 47 (§2701 et seq.) of this title prior to the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 

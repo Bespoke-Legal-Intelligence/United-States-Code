@@ -72,7 +72,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(i) to accept provision of such a scholarship to the individual;
 
-&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
+&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) ofthis section until the individual completes the course of study;
 
 &emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study); and
 
@@ -166,7 +166,7 @@ Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health
 
 Pub. L. 101–597, §201(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Scholarship Program to approve (and which contracts to accept), the Secretary shall give priority—
 
-&emsp;“(1) first, to applications made (and contracts submitted) by individuals who have previously receivedscholarships under the Scholarship Program or under section 294z of this title; and
+&emsp;“(1) first, to applications made (and contracts submitted) by individuals who have previously received scholarships under the Scholarship Program or under section 294z of this title; and
 
 &emsp;“(2) second, to applications made (and contracts submitted)—
 
@@ -198,7 +198,7 @@ Pub. L. 101–597, §201(d)(2)(C), added par. (6).
 
 Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted “254<i>o</i>” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
 
-Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254<i>o</i>” for “294w”.
+Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapterII of this chapter, and in par. (3) substituted “254<i>o</i>” for “294w”.
 
 Subsec. (j). Pub. L. 97–35, §2709(b)(7), struck out subsec. (j) which related to consultation and participation of schools.
 
@@ -248,7 +248,7 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 
 “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 234(f)(1) of this title\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
-“(C) If an individual received a scholarship under the Public Health and National Health Service CorpsScholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
 
 #### Section Referred to in Other Sections
 

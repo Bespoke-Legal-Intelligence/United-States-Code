@@ -96,7 +96,7 @@
 
 #### (2) Revocation of designation
 
-&emsp;The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
+&emsp;The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation ofan area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
 
 #### (c) Area and eligibility requirements
 
@@ -172,7 +172,7 @@
 
 #### (3) Recognition of past efforts
 
-&emsp;In evaluating courses of action agreed to by any State or local government, the Secretary shall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
+&emsp;In evaluating courses of action agreed to by any State or local government, the Secretaryshall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
 
 #### (4) Prohibition of assistance for business relocations
 
@@ -186,7 +186,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The limitations established in subparagraph (A) shall not be construed to prohibitassistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary if the Secretary—
+&emsp;&emsp;The limitations established in subparagraph (A) shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary if the Secretary—
 
 &emsp;&emsp;&emsp;(i) finds that the establishment of the new branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where the existing business entity conducts business operations; and
 

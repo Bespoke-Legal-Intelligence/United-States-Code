@@ -12,7 +12,7 @@
 
 (3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall, if the conservation plan established under this subchapter for such land requires structures to be constructed, have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
-(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchaptershall apply to the acreage that was the subject of such contract.
+(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
 #### (b) Persons eligible for program benefits in connection with production of certain planted crops or production of crops on highly erodible land
 
@@ -66,7 +66,7 @@ If a tenant is determined to be ineligible for payments and other benefits under
 
 (3) Any person whose benefits are reduced in any crop year under this subsection shall continue to be eligible for all of the benefits described in section 3811 of this title for any subsequent crop year if, prior to the beginning of such subsequent crop year, the Secretary determines that such person is actively applying a conservation plan prepared under subsection (a) of this section according to the schedule set forth in such plan.
 
-(4) Notwithstanding any other provision of this subchapter, no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as a result of the failure of such person to actively apply a conservation plan that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatmentmeasures and schedules prepared under subsection (a) of this section, if the Secretary—
+(4) Notwithstanding any other provision of this subchapter, no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as a result of the failure of such person to actively apply a conservation plan that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section, if the Secretary—
 
 &emsp;(A) determines that such failure results in a violation of section 3811 of this title that is technical and minor in nature and that such violation has a minimal effect on the erosion control purposes of the conservation plan applicable to the land on which such violation has occurred;
 

@@ -22,9 +22,9 @@ Federal agencies, including the National Aeronautics and Space Administration an
 
 (2) The amount of any payment received by the United States for use of facilities under this subsection shall be credited to the appropriation from which the cost of providing such facilities was paid.
 
-(Pub. L. 102 588, title V, §508, Nov. 4, 1992, 106 Stat. 5128.)
+(Pub. L. 102–588, title V, §508, Nov. 4, 1992, 106 Stat. 5128.)
 
 #### “Administrator” Defined
 
-Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102 588, 106 Stat. 5110.
+Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102–588, 106 Stat. 5110.
 

@@ -6,9 +6,9 @@ The Secretary shall review Federal programs to determine the extent to which suc
 
 #### (b) Demonstration and innovation projects
 
-The Secretary shall make grants or enter into contracts for projects of national significance to support the development of national and Statepolicies and practices related to the development and implementation, or expansion and enhancement, of family-centered and family-directed systems of family support for families of children with disabilities.
+The Secretary shall make grants or enter into contracts for projects of national significance tosupport the development of national and State policies and practices related to the development and implementation, or expansion and enhancement, of family-centered and family-directed systems of family support for families of children with disabilities.
 
-(Pub. L. 91 230, title VI, §714, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3955.)
+(Pub. L. 91–230, title VI, §714, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955.)
 
 #### Section Referred to in Other Sections
 

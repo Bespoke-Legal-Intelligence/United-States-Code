@@ -8,7 +8,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (1) Distributions in qualified years
 
-&emsp;A shareholder of a DISC shall be treated as having received a distribution taxable as a dividend with respect to his stock in anamount which is equal to his pro rata share of the sum (or, if smaller, the earnings and profits for the taxable year) of—
+&emsp;A shareholder of a DISC shall be treated as having received a distribution taxable as a dividend with respect to his stock in an amount which is equal to his pro rata share of the sum (or, if smaller, the earnings and profits for the taxable year) of—
 
 &emsp;&emsp;(A) the gross interest derived during the taxable year from producer's loans,
 
@@ -206,7 +206,7 @@ If—
 
 #### (B) Computation year
 
-&emsp;&emsp;For purposes of applying subparagraph (A) with respect to any taxable year of a shareholder, the computation year is the taxable year of the DISC which ends with (or within) the taxable year of the shareholder which precedes the taxable year of the shareholder for which the amount of deferred DISC income is being determined.
+&emsp;&emsp;For purposes of applying subparagraph (A) with respect to any taxable year of a shareholder, the computation year is the taxable year of the DISC which ends with (or within) the taxable year of the shareholder which precedes the taxable year of the shareholderfor which the amount of deferred DISC income is being determined.
 
 #### (C) Distributions-in-excess-of-income
 
@@ -316,7 +316,7 @@ Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as other
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

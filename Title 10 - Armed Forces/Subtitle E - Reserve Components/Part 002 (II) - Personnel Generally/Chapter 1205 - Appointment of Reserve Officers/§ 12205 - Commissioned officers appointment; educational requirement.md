@@ -1,4 +1,4 @@
-### §12205 . Commissioned officers: appointment; educational requirement
+### §12205. Commissioned officers: appointment; educational requirement
 
 (a)
 

@@ -6,7 +6,7 @@ The board is authorized to adopt an official seal which shall be judicially noti
 
 #### (b) Annual report
 
-The Smithsonian Institution shall include in its annual report of its operations to Congress astatement of the operations of said national air and space museum, including all public and private moneys received and disbursed.
+The Smithsonian Institution shall include in its annual report of its operations to Congress a statement of the operations of said national air and space museum, including all public and private moneys received and disbursed.
 
 (Aug. 12, 1946, ch. 955, §4, 60 Stat. 998; July 19, 1966, Pub. L. 89–509, pt. I, §§6, 7, 80 Stat. 310, 311.)
 

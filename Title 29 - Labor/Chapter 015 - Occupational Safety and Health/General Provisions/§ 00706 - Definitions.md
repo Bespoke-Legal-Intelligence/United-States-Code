@@ -8,7 +8,7 @@ For the purposes of this chapter:
 
 (3)(A) The term “designated State agency” means an agency designated under section 721(a)(1)(A) of this title.
 
-(B) The term “designated State unit” means (i) any State agency unit required under section 721(a)(2)(A) of this title, or (ii) in cases in which no such unit is so required, the State agency described in section 721(a)(1)(B)(i) of this title.
+(B) The term “designated State unit” means (i) any State agency unit required under section721(a)(2)(A) of this title, or (ii) in cases in which no such unit is so required, the State agency described in section 721(a)(1)(B)(i) of this title.
 
 (4)(A) The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
 
@@ -32,7 +32,7 @@ For the purposes of this chapter:
 
 (ii) Nothing in clause (i) shall be construed to exclude as an individual with a disability an individual who—
 
-&emsp;(I) has successfully completed a supervised drug rehabilitation program and is no longerengaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
+&emsp;(I) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
 
 &emsp;(II) is participating in a supervised rehabilitation program and is no longer engaging in such use; or
 
@@ -94,7 +94,7 @@ For the purposes of this chapter:
 
 (C) For purposes of section 712 of this title and subchapter II of this chapter, the term “individual with a severe disability” includes an individual described in subparagraph (A) or (B).
 
-(16) The term “State” includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau (until the Compact of Free Association with Palau takes effect).
+(16) The term “State” includes, in addition to each of the several States of the United States,the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau (until the Compact of Free Association with Palau takes effect).
 
 (17) The term “vocational rehabilitation services” means those services identified in section 723 of this title which are provided to individuals with disabilities under this chapter.
 
@@ -392,7 +392,7 @@ Par. (13). Pub. L. 102–569, §102(h)(1), (2), (i), (p)(3)(A), redesignated par
 
 Par. (15)(A). Pub. L. 102–569, §102(j)(1), (p)(3)(B), in introductory provisions, substituted “subparagraph (B) or (C)” for “subparagraph (B)”, “a severe disability” for “severe handicaps”, and “a disability” for “handicaps (as defined in paragraph (8))”, in cl. (i), substituted “impairment” for “disability” and “an employment outcome” for “employability”, and in cl. (iii), substituted “assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (C) of paragraph (22)” for “evaluation of rehabilitation potential”.
 
-Par. (15)(B), (C). Pub. L. 102–569, §102(j)(2), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “For purposes of subchapter VII of this chapter the term ‘individual with severe handicaps’ means an individual whose ability to function independently in family or community or whose ability to engage or continue in employment is so limited by the severity of his or her physical or mental disability that independent living rehabilitation services are required in order to achieve a greater level of independence in functioning in family or community or engaging or continuing in employment.”
+Par. (15)(B), (C). Pub. L. 102–569, §102(j)(2), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “For purposes of subchapter VII of this chapter the term ‘individual with severe handicaps’ means an individual whose ability to function independently in family or community or whose abilityto engage or continue in employment is so limited by the severity of his or her physical or mental disability that independent living rehabilitation services are required in order to achieve a greater level of independence in functioning in family or community or engaging or continuing in employment.”
 
 Par. (16). Pub. L. 102–569, §102(k), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “The term ‘State’ includes the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, and the Trust Territory of the Pacific Islands, and for the purposes of American Samoa and the Trust Territory of the Pacific Islands, the appropriate State agency designated as provided in section 721(a)(1) of this title shall be the Governor of American Samoa or the High Commissioner of the Trust Territory of the Pacific Islands, as the case may be.”
 
@@ -446,7 +446,7 @@ Par. (5)(H). Pub. L. 99–506, §103(a)(3)–(5), added subpar. (H).
 
 Par. (6). Pub. L. 99–506, §103(b), added par. (6) and redesignated former par. (6) as (7).
 
-Par. (7). Pub. L. 99–506, §103(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘Federal share’ means 80 per centum, except that it shall mean 90 per centum for the purposes of part C of subchapter I of this chapter and as specifically set forth in section 771(b)(3) of this title: <i>Provided</i>, That with respect to payments pursuant to part B of subchapter I of this chapter to any State which areused to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 771(b)(3) of this title applicable with respect to that State and that, for the purpose of determining the non-Federal share with respect to any State, expenditures by a political subdivision thereof or by a local agency shall, subject to such limitations and conditions as the Secretary shall by regulation prescribe, be regarded as expenditures by such State.”
+Par. (7). Pub. L. 99–506, §103(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘Federal share’ means 80 per centum, except that it shall mean 90 per centum for the purposes of part C of subchapter I of this chapter and as specifically set forth in section 771(b)(3) of this title: <i>Provided</i>, That with respect to payments pursuant to part B of subchapter I of this chapter to any State which are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 771(b)(3) of this title applicable with respect to that State and that, for the purpose of determining the non-Federal share with respect to any State, expenditures by a political subdivision thereof or by a local agency shall, subject to such limitations and conditions as the Secretary shall by regulation prescribe, be regarded as expenditures by such State.”
 
 Pub. L. 99–506, §103(b), redesignated former par. (6) as (7). Former par. (7) redesignated (8).
 

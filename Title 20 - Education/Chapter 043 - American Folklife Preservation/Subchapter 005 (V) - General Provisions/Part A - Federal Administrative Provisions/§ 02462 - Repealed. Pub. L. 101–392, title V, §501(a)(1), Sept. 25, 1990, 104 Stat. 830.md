@@ -1,0 +1,8 @@
+### §2462. Repealed. Pub. L. 101–392, title V, §501(a)(1), Sept. 25, 1990, 104 Stat. 830
+
+Section, Pub. L. 88–210, title V, §502, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 99–159, title VII, §711, Nov. 22, 1985, 99 Stat. 907, related to Federal share of, and non-Federal contributions for, costs of vocational education programs.
+
+#### Effective Date of Repeal
+
+Repeal effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+

@@ -50,7 +50,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsec. (a)(1)(C). Pub. L. 95–454 added cl. (C).
+<b>1978</b>—Subsec. (a)(1)(C). Pub. L. 95–454 added cl. (C).
 
 #### Effective Date of 1978 Amendment
 
@@ -62,5 +62,5 @@ Employment of reading assistants for blind employees without regard to provision
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3132 of this title; title 10 section 1744; title 16 section 3198; title 22 section 3641; title 28 section 569; title 36 section 121; title 42 section 2000e; title 49 section 44506.
+This section is referred to in sections 3132, 3304 of this title; title 10 section 1744; title 16 section 3198; title 22 section 3641; title 28 section 569; title 36 section 121; title 42 section 2000e; title 49 section 44506.
 

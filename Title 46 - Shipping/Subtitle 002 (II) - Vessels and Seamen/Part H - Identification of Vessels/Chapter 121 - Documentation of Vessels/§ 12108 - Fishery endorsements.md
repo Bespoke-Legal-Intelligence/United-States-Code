@@ -114,5 +114,5 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12102, 12103, 14305 of this title.
+This section is referred to in sections 12102, 12103, 14305 of this title; title 16 section 973g.
 

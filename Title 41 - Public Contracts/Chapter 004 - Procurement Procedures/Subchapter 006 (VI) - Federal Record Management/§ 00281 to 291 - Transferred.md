@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 281, acts June 30, 1949, ch. 288, title V, §502; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related tocustody and control of property, was transferred to section 392 of former Title 44, Public Printing and Documents.
+Section 281, acts June 30, 1949, ch. 288, title V, §502; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related to custody and control of property, was transferred to section 392 of former Title 44, Public Printing and Documents.
 
 Section 282, acts June 30, 1949, ch. 288, title V, §503; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related to National Historical Publications Commission, was transferred to section 393 of former Title 44.
 

@@ -2,7 +2,7 @@
 
 #### (a) Penalty
 
-Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a publichousing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, is (except as provided in subsection (b) of this section) subject to (1) twice the maximum punishment authorized by section 841(b) of this title; and (2) at least twice any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.
+Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, is (except as provided in subsection (b) of this section) subject to (1) twice the maximum punishment authorized by section 841(b) of this title; and (2) at least twice any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to anyterm of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.
 
 #### (b) Second offenders
 
@@ -50,13 +50,13 @@ Subsecs. (c) to (e). Pub. L. 103–322, §140006, added subsec. (c) and redesign
 
 1990—Subsec. (a). Pub. L. 101–647, §1502(1), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
 
-Pub. L. 101–647, §1214(1)(C), substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term ofimprisonment under this subsection shall be not less than one year”.
+Pub. L. 101–647, §1214(1)(C), substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term of imprisonment under this subsection shall be not less than one year”.
 
 Pub. L. 101–647, §1214(1)(B), inserted “A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection.”
 
 Pub. L. 101–647, §1214(1)(A), which directed the amendment of par. (1) by striking out “, or a fine, or both,” could not be executed because those words did not appear. See note below.
 
-Pub. L. 101–647, §1003(b)(1), which directed the substitution of “subject to (1) twice the maximum punishment authorized by section 841(b) of this title” for “punishable (1) by a term of imprisonment, or a fine, or both, up to twice that authorized by section 841(b) of this title”, was executed by making the substitution for “punishable (1) by a term of imprisonment, or fine, or both, up to twice that authorized by section 841(b) of this title” to reflect the probable intent of Congress.
+Pub. L. 101–647, §1003(b)(1), which directed the substitution of “subject to (1) twice the maximum punishment authorized by section 841(b) of this title” for“punishable (1) by a term of imprisonment, or a fine, or both, up to twice that authorized by section 841(b) of this title”, was executed by making the substitution for “punishable (1) by a term of imprisonment, or fine, or both, up to twice that authorized by section 841(b) of this title” to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 101–647, §3599L, substituted “has become final” for “have become final”.
 
@@ -96,5 +96,5 @@ Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking eff
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 841, 859 of this title; title 18 section 3592.
+This section is referred to in sections 841, 859 of this title; title 18 section 3592; title 42 section 14051.
 

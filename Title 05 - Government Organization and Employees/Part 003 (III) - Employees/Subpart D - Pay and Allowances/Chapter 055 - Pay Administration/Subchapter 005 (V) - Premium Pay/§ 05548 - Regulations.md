@@ -48,15 +48,15 @@ Oct. 28, 1949, ch. 782, §1101 (as applicable to §804, added July 19, 1966, Pub
 
 July 19, 1966, Pub. L. 89–512, §1 “Sec. 804(4) (6th through 9th words)”, 80 Stat. 318.
 
-This section consolidates into 5 U.S.C. 5548(b) general regulatory authority granted to the Civil Service Commission by section 1101 of the Classification Act of 1949 (as applicable to sec. 804 of that act, added by PublicLaw 89–512) and the specific requirement in section 804 (4) of that act that the Commission prescribe regulations.
+This section consolidates into 5 U.S.C. 5548(b) general regulatory authority granted to the Civil Service Commission by section 1101 of the Classification Act of 1949 (as applicable to sec. 804 of that act, added by Public Law 89–512) and the specific requirement in section 804 (4) of that act that the Commission prescribe regulations.
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–378 substituted “section 5545(d)” for “sections 5545(d) and 5550 of this title”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “section 5545(d)” for “sections 5545(d) and 5550 of this title”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
-1972—Subsec. (a). Pub. L. 92–392, §12(a), struck out reference to section 5544 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–392, §12(a), struck out reference to section 5544 of this title.
 
 Subsec. (b). Pub. L. 92–392, §12(b), inserted reference to section 5550 of this title.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Delegation of Functions
 
@@ -74,5 +74,5 @@ Function vested in Office of Personnel Management under this section to be perfo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 241.
+This section is referred to in title 2 section 1371.
 

@@ -20,11 +20,19 @@ June 10, 1921, ch. 18, §207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of 19
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–576, title I, §101, Nov. 15, 1990, 104 Stat. 2838, provided that: “This Act \[enacting sections 503, 504, 901 to 903, and 3515 of this title, amending sections 502, 1105, 3512, 3521, 9105, and 9106 of this title, sections 5313 to 5315 of Title 5, Government Organization and Employees, and section 3533 of Title 42, The Public Health and Welfare, renumbering sections 503 and 504 ofthis title as 505 and 506 of this title, respectively, enacting provisions set out as notes under this section and sections 901, 3511, 3515, and 3521 of this title, and amending provisions set out as a note under section 301 of Title 38, Veterans’ Benefits\] may be cited as the ‘Chief Financial Officers Act of 1990’.”
+Pub. L. 101–576, title I, §101, Nov. 15, 1990, 104 Stat. 2838, provided that: “This Act \[enacting sections 503, 504, 901 to 903, and 3515 of this title, amending sections 502, 1105, 3512, 3521, 9105, and 9106 of this title, sections 5313 to 5315 of Title 5, Government Organization and Employees, and section 3533 of Title 42, The Public Health and Welfare, renumbering sections 503 and 504 of this title as 505 and 506 of this title, respectively, enacting provisions set out as notes under this section and sections 901, 3511, 3515, and 3521 of this title, and amending provisions set out as a note under section 301 of Title 38, Veterans’ Benefits\] may be cited as the ‘Chief Financial Officers Act of 1990’.”
+
+#### Transfer of Functions
+
+Pub. L. 104–53, title II, §211, Nov. 19, 1995, 109 Stat. 535, provided that:
+
+“(a) Effective June 30, 1996, the functions of the Comptroller General identified in subsection (b) are transferred to the Director of the Office of Management and Budget, contingent upon the additional transfer to the Office of Management and Budget of such personnel, budget authority, records, and property of the General Accounting Office relating to such functions as the Comptroller General and the Director jointly determine to be necessary. The Director may delegate any such function, in whole or in part, to any other agency or agencies if the Director determines that such delegation would be cost-effective or otherwise in the public interest, and may transfer to such agency or agencies any personnel, budget authority, records, and property received by the Director pursuant to the preceding sentence that relate to the delegated functions. Personnel transferred pursuant to this provision shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.
+
+“(b) The following provisions of the United States Code contain the functions to be transferred pursuant to subsection (a): sections 5564 and 5583 of title 5; sections 2312, 2575, 2733, 2734, 2771, 4712, and 9712 of title 10; sections 1626 and 4195 of title 22; section 420 of title 24; sections 2414 and 2517 of title 28; sections 1304, 3702, 3726, and 3728 of title 31; sections 714 and 715 of title 32; section 554 of title 37; section 5122 of title 38; and section 256a of title 41.”
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Franchise Fund Pilot Programs
 
@@ -186,7 +194,7 @@ The Council shall perform such functions as the President may from time to time 
 
 #### Sec. 203. Executive Director
 
-The staff of the Council shall be headed by an Executive Director who shall be an assistant to the President designated by the President. The Executive Director shall perform such functions as the President may from time to time direct.
+The staff of the Council shall be headed by an Executive Director who shall be an assistant to the Presidentdesignated by the President. The Executive Director shall perform such functions as the President may from time to time direct.
 
 #### PART III. TAKING EFFECT
 
@@ -210,7 +218,7 @@ Last April, I created a President's Advisory Council on Executive Organization a
 
 The past 30 years have seen enormous changes in the size, structure and functions of the Federal Government. The budget has grown from less than $10 billion to $200 billion. The number of civilian employees has risen from one million to more than two and a half million. Four new Cabinet departments have been created, along with more than a score of independent agencies. Domestic policy issues have become increasingly complex. The interrelationships among Government programs have become more intricate. Yet the organization of the President's policy and management arms has not kept pace.
 
-Over three decades, the Executive Office of the President has mushroomed but not by conscious design. Inmany areas it does not provide the kind of staff assistance and support the President needs in order to deal with the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
+Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to deal with the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
 
 One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, the President's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and management institutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
 
@@ -268,7 +276,7 @@ Under the reorganization plan, the technical and formal means by which the Offic
 
 As soon as the reorganization plan takes effect, I intend to delegate those statutory functions to the Director of the new Office of Management and Budget, including those under section 212 of the Budget and Accounting Act, 1921 \[31 U.S.C. 1113\].
 
-However, creation of the Office of Management and Budget represents far more than a mere change ofname for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting the broader management needs of the Office of the President.
+However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting the broader management needs of the Office of the President.
 
 The new Office will still perform the key function of assisting the President in the preparation of the annual Federal budget and overseeing its execution. It will draw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
 
@@ -404,7 +412,7 @@ Section 1. The following functions which heretofore have been performed by the D
 
 (b) Studying and reporting on issues relating to position classification and the compensation of Federal civilian employees, including linkages among pay systems, and providing reports on average grade levels, work-years and personnel costs of Federal civilian employees.
 
-(c) Providing primary Executive Branch leadership in (1) developing and reviewing a program of policy guidance to departments and agencies for the organization of management's responsibility under the Federal Labor Relations program; and (2) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
+(c) Providing primary Executive Branch leadership in (1) developing and reviewing a program of policy guidance to departments and agencies for the organizationof management's responsibility under the Federal Labor Relations program; and (2) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
 
 Sec. 2. Section 1 of Executive Order No. 11541, as amended \[set out above\], is further amended by adding thereto the following new subsection:
 
@@ -420,7 +428,7 @@ Sec. 3. Executive Order No. 11491, as amended \[5 U.S.C. 7101 note\], is further
 
 “The Office of Personnel Management, in conjunction with the Director of the Office of Management and Budget, shall establish and maintain a program for the policy guidance of agencies on labor-management relations in the Federal service and shall periodically review the implementation of these policies. The Office of Personnel Management shall be responsible for the day-to-day policy guidance under that program. The Office of Personnel Management also shall continuously review the operation of the Federal labor-management relations program to assist in assuring adherence to its provisions and merit system requirements; implement technical advice and information programs for the agencies; assist in the development of programs for training agency personnel and management officials in labor-management relations; and, from time to time, report to the Council on the state of the program with any recommendations for its improvement.”.
 
-Sec. 4. Section 5(a) of Executive Order No. 11636 of December 17, 1971 \[formerly set out as a note under 22 U.S.C. 801\], establishing an Employee-Management Relations Commission as a committee of the Board of theForeign Service, is amended by deleting: “The representative of the Office of Management and Budget shall be the Chairman of the Commission” and substituting therefor “The representative of the Office of Personnel Management shall be the Chairman of the Commission”.
+Sec. 4. Section 5(a) of Executive Order No. 11636 of December 17, 1971 \[formerly set out as a note under 22 U.S.C. 801\], establishing an Employee-Management Relations Commission as a committee of the Board of the Foreign Service, is amended by deleting: “The representative of the Office of Management and Budget shall be the Chairman of the Commission” and substituting therefor “The representative of the Office of Personnel Management shall be the Chairman of the Commission”.
 
 Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned by this Order from the Office of Management and Budget to the Office of Personnel Management, are hereby transferred to the Office of Personnel Management.
 
@@ -568,7 +576,7 @@ Sec. 2. As used in this Order, the term:
 
 Sec. 3. The head of each Executive department and agency shall:
 
-(a) Develop a complete inventory of all appropriate functions to be included in the productivity program, use the agency's planning process to review currentfunctions, and develop agency goals and objectives for improvement in services to the public.
+(a) Develop a complete inventory of all appropriate functions to be included in the productivity program, use the agency's planning process to review current functions, and develop agency goals and objectives for improvement in services to the public.
 
 (b) Develop and submit annually to the Office of Management and Budget a productivity plan. Each plan shall conform to the policy guidance issued by the Director of the Office of Management and Budget, pursuant to Section 5 of this Order, and shall:
 
@@ -630,7 +638,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (a) “Privatization” means the disposition or transfer of an infrastructure asset, such as by sale or by long-term lease, from a State or local government to a private party.
 
-(b) “Infrastructure asset” means any asset financed in whole or in part by the Federal Government and needed for the functioning of the economy. Examples of such assets include, but are not limited to: roads, tunnels, bridges, electricity supply facilities, mass transit, rail transportation, airports, ports, waterways, water supply facilities, recycling and wastewater treatment facilities, solid waste disposal facilities, housing, schools, prisons, and hospitals.
+(b) “Infrastructure asset” means any asset financed in whole or in part by the Federal Government andneeded for the functioning of the economy. Examples of such assets include, but are not limited to: roads, tunnels, bridges, electricity supply facilities, mass transit, rail transportation, airports, ports, waterways, water supply facilities, recycling and wastewater treatment facilities, solid waste disposal facilities, housing, schools, prisons, and hospitals.
 
 (c) “Originally authorized purposes” means the general objectives of the original grant program; however, the term is not intended to include every condition required for a grantee to have obtained the original grant.
 
@@ -728,7 +736,7 @@ Sec. 2. <i>Establishment of the Executive Council on Integrity and Efficiency.</
 
 Sec. 3. <i>Functions of the PCIE and the ECIE.</i>
 
-(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, andabuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste that exceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
+(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, and abuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste that exceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
 
 (b) The Councils shall develop policies that will aid in the establishment of a corps of well-trained and highly skilled Office of Inspector General staff members.
 
@@ -862,7 +870,7 @@ Sec. 2. <i>Functions of the Council.</i>
 
 &emsp;(2) identify specific department and agency management solutions that may have Governmentwide application and assist in the dissemination of this information and the implementation of these solutions;
 
-&emsp;(3) serve as a resource to assist in an advisory capacity in the development, review, revision, and implementation of Governmentwide policies in support of the central management agencies of the Federal Government, including the Office of Management andBudget, the Office of Personnel Management, and the General Services Administration; and
+&emsp;(3) serve as a resource to assist in an advisory capacity in the development, review, revision, and implementation of Governmentwide policies in support of the central management agencies of the Federal Government, including the Office of Management and Budget, the Office of Personnel Management, and the General Services Administration; and
 
 &emsp;(4) serve as a forum to recommend solutions to interagency management problems.
 
@@ -1052,7 +1060,7 @@ The functions of the Council shall include, among others:
 
 The Council shall be provided with appropriate staff support and other resources as may be necessary to carry out its duties. In addition, the Federal Quality Institute shall serve as a resource to the Council.
 
-The Council shall seek advice and information as appropriate from nonmember Federal agencies, particularly smaller agencies. The Council shall also consider the management reform experience of corporations,nonprofit organizations, State and local governments, government employees, public sector unions, and customers of government services.
+The Council shall seek advice and information as appropriate from nonmember Federal agencies, particularly smaller agencies. The Council shall also consider the management reform experience of corporations, nonprofit organizations, State and local governments, government employees, public sector unions, and customers of government services.
 
 Agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 
@@ -1104,7 +1112,7 @@ Each executive department and agency with infrastructure responsibilities (herei
 
 &emsp;(3) Agencies also should use these reviews to identify the demand for different levels of infrastructure services. Since efficient levels of service can often best be achieved by properly pricing infrastructure, the Federal Government—through its direct investments, grants, and regulations—should promote consideration of market-based mechanisms for managing infrastructure.
 
-(c) <i>Private Sector Participation</i>. Agencies shall seek private sector participation in infrastructure investment and management. Innovative public-private initiatives can bring about greater private sector participation in the ownership, financing, construction, and operation of the infrastructure programs referred to in section 1 of this order. Consistent with the public interest, agencies should work with State and local entities to minimize legal and regulatory barriers to private sector participation in the provision of infrastructure facilities and services.
+(c) <i>Private Sector Participation</i>. Agencies shall seek private sector participation in infrastructure investment and management. Innovative public-private initiatives can bring about greater private sector participation in the ownership, financing, construction, and operation of the infrastructure programs referred to in section 1 of this order. Consistent with the public interest, agencies should work with State and local entitiesto minimize legal and regulatory barriers to private sector participation in the provision of infrastructure facilities and services.
 
 (d) <i>Encouragement of More Effective State and Local Programs</i>. To promote the efficient use of Federal infrastructure funds, agencies should encourage the State and local recipients of Federal grants to implement planning and information management systems that support the principles set forth in section 2(a) through (c) of this order. In turn, the Federal Government should use the information from the State and local recipients’ management systems to conduct the system-level reviews of the Federal Government's infrastructure programs that are required by this order.
 

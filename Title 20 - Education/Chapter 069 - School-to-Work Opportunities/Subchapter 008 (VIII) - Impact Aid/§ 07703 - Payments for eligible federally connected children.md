@@ -48,7 +48,7 @@
 
 #### (3) Special rule
 
-&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 2,000 and such number equals or exceeds 15 percent of the total number of students in average daily attendance in the schools of such agency.
+&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) ofparagraph (1) if the number of such children equals or exceeds 2,000 and such number equals or exceeds 15 percent of the total number of students in average daily attendance in the schools of such agency.
 
 #### (b) Basic support payments and payments with respect to fiscal years in which insufficient funds are appropriated
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;The maximum amount that a local educational agency is eligible to receive under this subsection for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section, multiplied by the greater of—
 
-&emsp;&emsp;&emsp;(i) one-half of the average per-pupil expenditure of the State in which the localeducational agency is located for the third fiscal year preceding the fiscal year for which the determination is made;
+&emsp;&emsp;&emsp;(i) one-half of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made;
 
 &emsp;&emsp;&emsp;(ii) one-half of the average per-pupil expenditure of all of the States for the third fiscal year preceding the fiscal year for which the determination is made;
 
@@ -224,11 +224,11 @@
 
 #### (1) In general
 
-&emsp;If any local educational agency receives Federal funds from sources other than this subchapter to carry out the purposes of this subchapter for any fiscal year due to the enrollment of children described under subsection (a) of this section, then the Secretary shall consider such funds as a payment to such agency under this subchapter<sup>1</sup> for such fiscal year.
+&emsp;If any local educational agency receives Federal funds from sources other than this subchapter to carry out the purposes of this subchapter for any fiscal year due to the enrollment of children described under subsection (a) of this section, then the Secretary shall consider such funds as a payment to such agency under this subchapter <sup>1</sup> for such fiscal year.
 
 #### (2) Special rule
 
-&emsp;Notwithstanding any other provision of law, if funds appropriated pursuant to section 7714(b) of this title for payments under subsection (b) of this section to such agency for a fiscal year which, when added to the funds described in paragraph (1) received by such agency for such fiscal year, exceed the maximum amount described under subsection (b)(1)(C) of this section, then the Secretary shall make available from the funds appropriated under section 7714(b) of this title for such fiscal year such excess amounts to any local educational agency serving two or more children described under subparagraph (B) or (D) of subsection (a)(1) of this section who have a severe disability and a parent serving in the uniformed services (as defined by section 101 of title 37) who is assigned to a particular permanent duty station for compassionate reasons (compassionate post assignment) for the total costs associated with such children who are provided an educational program provided outside the schools of such agency.
+&emsp;Notwithstanding any other provision of law, if funds appropriated pursuant to section 7714(b) of this title for payments under subsection (b) of this section to such agency for a fiscal year which, when added to the funds described in paragraph (1) received by such agency for such fiscal year, exceed the maximum amount described under subsection (b)(1)(C) of this section, then the Secretary shall make available from the funds appropriated under section 7714(b) of this title for such fiscal yearsuch excess amounts to any local educational agency serving two or more children described under subparagraph (B) or (D) of subsection (a)(1) of this section who have a severe disability and a parent serving in the uniformed services (as defined by section 101 of title 37) who is assigned to a particular permanent duty station for compassionate reasons (compassionate post assignment) for the total costs associated with such children who are provided an educational program provided outside the schools of such agency.
 
 #### (3) Remaining funds
 
@@ -244,25 +244,25 @@ Notwithstanding any other provision of law, a local educational agency receiving
 
 #### (i) Maintenance of effort
 
-A local educational agency may receive funds under subsection (b) of this section and section 7702 of this title for any fiscal year only if theState educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of that agency and the State with respect to the provision of free public education by that agency for the preceding fiscal year was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second preceding fiscal year.
+A local educational agency may receive funds under subsection (b) of this section and section 7702 of this title for any fiscal year only if the State educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of that agency and the State with respect to the provision of free public education by that agency for the preceding fiscal year was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second preceding fiscal year.
 
-(Pub. L. 89 10, title VIII, §8003, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3752.)
+(Pub. L. 89–10, title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752.)
 
 #### References in Text
 
-Act of September 30, 1950, referred to in subsecs. (b)(1)(C)(iii), (e)(1), (3), and (h), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Sections 3 and 6 of the Act (as such Act was in effect on the day preceding October 20, 1994) were classified to sections 238 and 241, respectively, of this title. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in subsecs. (b)(1)(C)(iii), (e)(1), (3), and (h), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Sections 3 and 6 of the Act (as such Act was in effect on the day preceding October 20, 1994) were classified to sections 238 and 241, respectively, of this title. For complete classification of this Act to the Code, see Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-This subchapter, the third time appearing in subsec. (g)(1), was in the original “this part” which was translated as reading “this title” to reflect the probable intent of Congress because title VIII of Pub. L. 89 10, which comprises this subchapter, does not contain parts.
+This subchapter, the third time appearing in subsec. (g)(1), was in the original “this part” which was translated as reading “this title” to reflect the probable intent of Congress because title VIII of Pub. L. 89–10, which comprises this subchapter, does not contain parts.
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 238 of this title prior to repeal by Pub. L. 103 382, §331(b).
+Provisions similar to those in this section were contained in section 238 of this title prior to repeal by Pub. L. 103–382, §331(b).
 
 #### Assistance to Local Educational Agencies That Benefit Dependents of Members of Armed Forces and Department of Defense Civilian Employees
 
-Pub. L. 102 484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as amended by Pub. L. 103 160, div. A, title III, §373(a), (b), Nov. 30, 1993, 107 Stat. 1635, 1636; Pub. L. 103 382, title III, §391(d), Oct. 20, 1994, 108 Stat. 4022, provided that:
+Pub. L. 102–484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as amended by Pub. L. 103–160, div. A, title III, §373(a), (b), Nov. 30, 1993, 107 Stat. 1635, 1636; Pub. L. 103–382, title III, §391(d), Oct. 20, 1994, 108 Stat. 4022, provided that:
 
 “(a)
 
@@ -292,7 +292,7 @@ Adjustment Payments Related to Base Closures and Realignments.—Subject to subs
 
 “(e)
 
-Report on Impact of Base Closures on Educational Agencies.—(1) Not later than February 15 of each of 1993, 1994, and 1995, the Secretary of Defense, in consultation with the Secretary of Education, shall submit to Congress a report on the local educational agencies affected by the closures and realignment of military installations and by redeployments of members of the Armed Forces.
+Report on Impact of Base Closures on Educational Agencies.—(1) Not later than February 15 of each of 1993, 1994, and 1995, the Secretary of Defense, in consultation with the Secretary of Education, shallsubmit to Congress a report on the local educational agencies affected by the closures and realignment of military installations and by redeployments of members of the Armed Forces.
 
 “(2) Each report shall contain the following:
 
@@ -340,15 +340,15 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘State’ has the meaning given that term in section 3(d)(3)(D)(i) of the Act of September 30, 1950 (Public Law 874, Eighty-first Congress; \[former\] 20 U.S.C. 238(d)(3)(D)(i)).”
 
-\[Section 373(c) of Pub. L. 103 160 provided that: “The amendments made by subsections (a) and (b) \[amending section 386 of Pub. L. 102 484 set out above\] shall take effect as of October 23, 1992, as if section 386 of Public Law 102 484 had been enacted as amended by such subsections.”\]
+\[Section 373(c) of Pub. L. 103–160 provided that: “The amendments made by subsections (a) and (b) \[amending section 386 of Pub. L. 102–484 set out above\] shall take effect as of October 23, 1992, as if section 386 of Public Law 102–484 had been enacted as amended by such subsections.”\]
 
 #### Notice to Local and State Educational Agencies of Enrollment Changes Due to Base Closures and Realignments
 
-For provisions requiring Secretary of Defense to identify local educational agencies that will experience at least a 5-percent increase or 10-percent reduction in enrollment in number of dependent children of members of Armed Forces and of civilian employees of Department of Defense enrolled in schools under jurisdiction of such agencies during next academic year as a result of closure or realignment of a military installation, and to transmit notice of schedule of such closure or realignment to affected local and State educational agencies, see section 2833 of Pub. L. 101 189, set out as a note under section 2687 of Title 10, Armed Forces.
+For provisions requiring Secretary of Defense to identify local educational agencies that will experience at least a 5-percent increase or 10-percent reduction in enrollment in number of dependent children of members of Armed Forces and of civilian employees of Department of Defense enrolled in schools under jurisdiction of such agencies during next academic year as a result of closure or realignment of a military installation, and to transmit notice of schedule of such closure or realignment to affected local and State educational agencies, see section 2833 of Pub. L. 101–189, set out as a note under section 2687 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1228, 7702, 7704, 7705, 7707, 7709, 7710, 7714 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -43,7 +43,7 @@
 | (a) | Implementation by Secretary of the Interior. |
 | (b) | Expeditious investigation, planning, and implementation of salinity control program. |
 | (c) | Cooperation with other Federal agencies. |
-| [1592\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001592%20-%20Authorization%20to%20construct%2C%20operate%2C%20and%20maintain%20salinity%20control%20units.md) | Authorization to construct, operate, and maintain salinity control units. |
+| [1592\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001592%20-%20Authorization%20to%20construct%2C%20operate%2C%20and%20maintain%20salinity%20control%20units%20and%20salinity%20control%20program.md) | Authorization to construct, operate, and maintain salinity control units and salinity control program. |
 | (a) | Authority of Secretary. |
 | (b) | Implementation of authorized units. |
 | (c) | Voluntary cooperative salinity control program; establishment; improvement of on-farm water management; functions; Secretary; reports; Congressional committees; use of agencies; Commodity Credit Corporation. |
@@ -57,7 +57,10 @@
 | (e) | Upward adjustment of rates for electrical energy. |
 | [1596\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001596%20-%20Biennial%20report%20to%20President%2C%20Congress%2C%20and%20Advisory%20Council.md) | Biennial report to President, Congress, and Advisory Council. |
 | [1597\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001597%20-%20Construction%20of%20provisions%20of%20subchapter.md) | Construction of provisions of subchapter. |
-| [1598\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001598%20-%20Modification%20of%20projects%3B%20contract%20authority%3B%20authorization%20of%20appropriations.md) | Modification of projects; contract authority; authorization of appropriations. |
+| [1598\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001598%20-%20Achieving%20project%20objectives.md) | Achieving project objectives. |
+| (a) | Modification of projects. |
+| (b) | Contract authority; authorization of appropriations. |
+| (c) | Implementation of basinwide salinity control program. |
 | [1599\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001599%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

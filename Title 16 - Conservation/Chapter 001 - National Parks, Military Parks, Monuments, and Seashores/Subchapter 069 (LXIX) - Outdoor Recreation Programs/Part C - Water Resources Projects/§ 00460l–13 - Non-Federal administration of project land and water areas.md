@@ -10,7 +10,7 @@ If, before authorization of a project, non-Federal public bodies indicate their 
 
 &emsp;(3) not more than one-half the separable costs of the project allocated to recreation and exactly three-quarters of such costs allocated to fish and wildlife enhancement and all the joint costs of the project allocated to recreation and fish and wildlife enhancement shall be borne by the United States and be nonreimbursable.
 
-> Projects authorized during the calendar year 1965 may include recreation and fish and wildlife enhancement on the foregoing basis without the required indication of intent. Execution of an agreement as aforesaid shall be a prerequisite tocommencement of construction of any project to which this subsection is applicable.
+> Projects authorized during the calendar year 1965 may include recreation and fish and wildlife enhancement on the foregoing basis without the required indication of intent. Execution of an agreement as aforesaid shall be a prerequisite to commencement of construction of any project to which this subsection is applicable.
 
 #### (b) Non-Federal share of costs
 

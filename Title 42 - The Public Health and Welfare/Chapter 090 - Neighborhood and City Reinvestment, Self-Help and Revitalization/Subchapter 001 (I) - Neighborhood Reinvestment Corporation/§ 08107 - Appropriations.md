@@ -74,7 +74,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(4) the national neighborhood housing services network has had more than 10 years of experience in revitalizing declining neighborhoods, creating housing for low- and moderate-income families, and equipping residents with skills and resources required to maintain safe and healthy communities; and
 
-&emsp;“(5) expanding upon the existing capabilities, resources, and potential of the national neighborhood housing services network is a cost-effective responseto the affordable housing and neighborhood revitalization needs confronting the Nation, and is a strong preventive measure in addressing the national tragedy of homelessness.
+&emsp;“(5) expanding upon the existing capabilities, resources, and potential of the national neighborhood housing services network is a cost-effective response to the affordable housing and neighborhood revitalization needs confronting the Nation, and is a strong preventive measure in addressing the national tragedy of homelessness.
 
 “(b)
 
@@ -88,7 +88,7 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 
 &emsp;“(4) to expand the loan purchase capacity of the national neighborhood housing services secondary market, operated by Neighborhood Housing Services of America, for loans made by neighborhood housing services to residents who are unable to meet conventional lending standards, and other loans for community development purposes;
 
-&emsp;“(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- and moderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
+&emsp;“(5) to provide increased capacity development and matching grants to preserve existing privately heldunsubsidized rental housing affordable to low- and moderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
 
 &emsp;“(6) to make grants to provide incentives to extend low-income housing use in connection with properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership \[Homeownership\] Act of 1990 \[12 U.S.C. 4101 et seq.\];
 

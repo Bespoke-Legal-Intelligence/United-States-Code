@@ -40,7 +40,7 @@
 | (p) | Joint use of rights-of-way. |
 | (q) | Statutes. |
 | (r) | Common carriers. |
-| (s) | Omitted. |
+| (s) | Exports of Alaskan North Slope oil. |
 | (t) | Existing rights-of-way. |
 | (u) | Limitations on export. |
 | (v) | State standards. |
@@ -124,8 +124,7 @@
 | (f) | Publication of geological and geophysical maps and reports of lands offered for lease. |
 | (g) | Implementation plan for coal lands exploration program; development and transmittal to Congress; contents. |
 | (h) | Stratigraphic drilling; scope; statement of results. |
-| 208–2. | Report to Congress on leasing and production of coal lands; contents; recommendations; report by Attorney General on competition in coal industry and effectiveness of antitrust laws. |
-| [208a.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000208a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93468%2C%20title%20VI%2C%20%C2%A7615%28a%29%283%29%2C%20Jan.%2014%2C%201983%2C%2096%20Stat.%202578.md) | Repealed. |
+| 208–2, 208a. Repealed. |  |
 | [209\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000209%20-%20Suspension%2C%20waiver%2C%20or%20reduction%20of%20rents%20or%20royalties%20to%20promote%20development%20or%20operation%3B%20extension%20of%20lease%20on%20suspension%20of%20operations%E2%80%A6.md) | Suspension, waiver, or reduction of rents or royalties to promote development or operation; extension of lease on suspension of operations and production. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -163,7 +162,7 @@
 | (g) | Regulation of surface-disturbing activities; approval of plan of operations; bond or surety; failure to comply with reclamation requirements as barring lease; opportunity to comply with requirements. |
 | (h) | National Forest System Lands. |
 | (i) | Termination. |
-| (j) | Drainage agreements; primary term of lease, extension; report to Congress. |
+| (j) | Drainage agreements; primary term of lease, extension. |
 | (k) | Mining claims; suspension of running time of lease. |
 | (<i>l)</i> | Exchange of leases; conditions. |
 | (m) | Cooperative or unit plan; authority of Secretary of the Interior to alter or modify; communitization or drilling agreements; term of lease, conditions; Secretary to approve operating, drilling or development contracts, and subsurface storage. |

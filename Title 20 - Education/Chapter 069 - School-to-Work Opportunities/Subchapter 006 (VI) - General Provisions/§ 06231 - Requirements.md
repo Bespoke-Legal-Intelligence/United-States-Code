@@ -8,7 +8,7 @@ The following requirements shall apply to programs under this chapter:
 
 #### (2) Prohibition on impairment of contracts
 
-&emsp;No such program shall impair existing contracts for services or collective bargaining agreements, and no such program that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
+&emsp;No such program shall impair existing contracts for services or collective bargainingagreements, and no such program that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
 
 #### (3) Prohibition on replacement
 
@@ -34,9 +34,9 @@ The following requirements shall apply to programs under this chapter:
 
 &emsp;The Secretaries shall establish such other requirements as the Secretaries may determine to be appropriate, in order to ensure that participants in programs under this chapter are afforded adequate supervision by skilled adult workers, or to otherwise further the purposes of this chapter.
 
-(Pub. L. 103 239, title VI, §601, May 4, 1994, 108 Stat. 603.)
+(Pub. L. 103–239, title VI, §601, May 4, 1994, 108 Stat. 603.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103 239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

@@ -8,7 +8,7 @@ The Secretary may designate an officer of the Department to sign minor routine o
 
 Assistant Secretary changed to Assistant Secretaries by act July 15, 1947, which provided for an additional Assistant Secretary. See section 1505 of this title.
 
-Section was formerly classified to section 593a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 593a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 

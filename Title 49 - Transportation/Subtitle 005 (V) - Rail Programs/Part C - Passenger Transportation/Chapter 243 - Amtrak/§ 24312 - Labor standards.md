@@ -42,11 +42,7 @@ In subsection (b)(1), the words “Except as provided in paragraph (2) of this s
 
 #### References in Text
 
-Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known asthe Davis-Bacon Act, which is classified generally to section 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to section 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 The Railway Labor Act, referred to in subsec. (a)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11347 of this title.
 

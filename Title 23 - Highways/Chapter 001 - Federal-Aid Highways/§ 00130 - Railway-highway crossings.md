@@ -8,7 +8,7 @@
 
 (d)
 
-Survey and Schedule of Projects.—Each State shall conduct and systematically maintain a survey of all highways to identify those railroad crossings which may require separation, relocation, or protective devices, and establish and implement a schedule of projects for this purpose. At a minimum, such a scheduleshall provide signs for all railway-highway crossings.
+Survey and Schedule of Projects.—Each State shall conduct and systematically maintain a survey of all highways to identify those railroad crossings which may require separation, relocation, or protective devices, and establish and implement a schedule of projects for this purpose. At a minimum, such a schedule shall provide signs for all railway-highway crossings.
 
 (e)
 
@@ -20,13 +20,13 @@ Apportionment.—Twenty-five percent of the funds authorized to be appropriated 
 
 (g)
 
-Annual Report.—Each State shall report to the Secretary not later than December 30 of each year on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements. Each State report shall contain an assessment of the costs of the various treatments employed and subsequent accident experience at improved locations. The Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives not later than April 1 of each year, on the progress being made by the State in implementing projects to improve railway-highway crossings. The report shall include, but not be limited to, the number of projects undertaken, their distribution by cost range, road system, nature of treatment, and subsequent accident experience at improved locations. In addition, the Secretary's report shall analyze and evaluate each State program, identify any State found not to be in compliance with the schedule of improvements required by subsection (d) and include recommendations for future implementation of the railroad highway <sup>2</sup> crossings program.
+Annual Report.—Each State shall report to the Secretary not later than December 30 of each year on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements. Each State report shall contain an assessment of the costs of the various treatments employed and subsequent accident experience at improved locations. The Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives not later than April 1 of each year, on the progress being made by the State in implementing projects to improve railway-highway crossings. The report shall include, but not be limited to, the number of projects undertaken, their distribution by cost range, road system, nature of treatment, and subsequent accident experience at improved locations. In addition, the Secretary's report shall analyze and evaluate each State program, identify any State found not to be in compliance with the schedule of improvements required by subsection (d) and include recommendations for future implementation of the railroad highway <sup>2</sup> crossings program.
 
 (h)
 
 Use of Funds for Matching.—Funds authorized to be appropriated to carry out this section may be used to provide a local government with funds to be used on a matching basis when State funds are available which may only be spent when the local government produces matching funds for the improvement of railway-highway crossings.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591.)
 
 #### References in Text
 
@@ -34,11 +34,57 @@ Subsection (d) of section 120 of this title, referred to in subsec. (a), was str
 
 #### Amendments
 
+1995—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation” in third sentence.
+
 1987—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
 
-#### Change of Name
+#### Federal-State Cooperation
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Section 351(b), (c) of Pub. L. 104–59 provided that:
+
+“(b)
+
+Safety Enforcement.—
+
+&emsp;“(1)
+
+Cooperation between federal and state agencies.—The National Highway Traffic Safety Administration and the Office of Motor Carriers within the Federal Highway Administration shall cooperate and work, on a continuing basis, with the National Association of Governors’ Highway Safety Representatives, the Commercial Vehicle Safety Alliance, and Operation Lifesaver, Inc., to improve compliance with and enforcement of laws and regulations pertaining to railroad-highway grade crossings.
+
+&emsp;“(2)
+
+Report.—Not later than June 1, 1998, the Secretary shall submit to Congress a report indicating—
+
+&emsp;&emsp;“(A) how the Department of Transportation worked with the entities referred to in paragraph (1) to improve the awareness of the highway and commercial vehicle safety and law enforcement communities of regulations and safety challenges at railroad-highway grade crossings; and
+
+&emsp;&emsp;“(B) how resources are being allocated to better address these challenges and enforce such regulations.
+
+“(c)
+
+Federal-State Partnership.—
+
+&emsp;“(1)
+
+Statement of policy.—
+
+&emsp;&emsp;“(A)
+
+Hazards to safety.—Certain railroad-highway grade crossings present inherent hazards to the safety of railroad operations and to the safety of persons using those crossings. It is in the public interest—
+
+&emsp;&emsp;&emsp;“(i) to promote grade crossing safety and reduce risk at high risk railroad-highway grade crossings; and
+
+&emsp;&emsp;&emsp;“(ii) to reduce the number of grade crossings while maintaining the reasonable mobility of the American people and their property, including emergency access.
+
+&emsp;&emsp;“(B)
+
+Effective programs.—Effective programs to reduce the number of unneeded and unsafe railroad-highway grade crossings require the partnership of Federal, State, and local officials and agencies, and affected railroads.
+
+&emsp;&emsp;“(C)
+
+Highway planning.—Promotion of a balanced national transportation system requires that highway planning specifically take into consideration grade crossing safety.
+
+&emsp;“(2)
+
+Partnership and oversight.—The Secretary shall encourage each State to make progress toward achievement of the purposes of this subsection.”
 
 #### Vehicle Proximity Alert System
 
@@ -62,7 +108,7 @@ Pub. L. 95–599, title I, §162, Nov. 6, 1978, 92 Stat. 2720, authorized Secret
 
 #### Demonstration Project, Railroad-Highway Crossings; Reports to President and Congress; Appropriations Authorization; Highway Safety Study, Report to Congress
 
-Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90 Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978,92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987, provided that:
+Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90 Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
 
 “(a)(1) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Lincoln, Nebraska, Wheeling, West Virginia, and Elko, Nevada, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the respective cities. The cities shall (1) have a local agency with legal authority to relocate railroad facilities, levy taxes for such purpose, and a record of prior accomplishment; and (2) have a current relocation plan for such lines which has a favorable benefit-cost ratio involving and having the unanimous approval of three or more class 1 railroads in Lincoln, Nebraska, and the two class 1 railroads in Wheeling, West Virginia, and Elko, Nevada, and multicivic, local, and State agencies, and which provides for the elimination of a substantial number of the existing railway-road conflict points within the city.
 
@@ -94,13 +140,11 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
 
-“(<i>o</i>)
-
-Reports.—The Secretary of Transportation shall make biennial reports and a final report to the President, the Committee on Environment and Public Works of the Senate, and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives with respect to activities pursuant to this section.
+“\[(<i>o</i>) Repealed. Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724.\]
 
 “(p) There is authorized to be appropriated to carry out this section (other than subsection (<i>l</i>)), not to exceed $15,000,000 for the fiscal year ending June 30, 1974, $25,000,000 for the fiscal year ending June 30, 1975, and $50,000,000 for the fiscal year ending June 30, 1976, $6,250,000, for the period beginning July 1, 1976, and ending September 30, 1976, $26,400,000 for the fiscal year ending September 30, 1977, and $51,400,000 for the fiscal year ending September 30, 1978, $70,000,000 for the fiscal year ending September 30, 1979, and $90,000,000 for the fiscal year ending September 30, 1980, $100,000,000 for the fiscal year ending September 30, 1981, and $100,000,000 for the fiscal year ending September 30, 1982, and $50,000,000 for the fiscal year ending September 30, 1983, and $50,000,000 for the fiscal year ending September 30, 1984, and $50,000,000 for the fiscal year ending September 30, 1985, and $50,000,000 for the fiscal year ending September 30, 1986, and $15,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, except that not more than two-thirds of all funds authorized and expended under authority of this section in any fiscal year shall be appropriated out of the Highway Trust fund. Notwithstanding any other provision of this section, any project which is not under construction, according to the Secretary of Transportation, by September 30, 1985, shall not be eligible for additional funds under this authorization.
 
-“(q) The Secretary, in cooperation with State highway departments and local officials, shall conduct a full and complete investigation and study of the problem of providing increased highway safety by the relocation of railroad lines from the central area of cities on a nationwide basis, and report to the Congress his recommendations resulting from such investigationand study not later than July 1, 1975, including an estimate of the cost of such a program. Funds authorized to carry out section 307 of title 23, United States Code, are authorized to be used to carry out the investigation and study required by this subsection.”
+“(q) The Secretary, in cooperation with State highway departments and local officials, shall conduct a full and complete investigation and study of the problem of providing increased highway safety by the relocation of railroad lines from the central area of cities on a nationwide basis, and report to the Congress his recommendations resulting from such investigation and study not later than July 1, 1975, including an estimate of the cost of such a program. Funds authorized to carry out section 307 of title 23, United States Code, are authorized to be used to carry out the investigation and study required by this subsection.”
 
 #### Demonstration Project, Railroad-Highway Crossings; Inclusion of Projects at Terre Haute, Indiana
 

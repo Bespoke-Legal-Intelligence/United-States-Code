@@ -2,5 +2,5 @@
 
 This chapter shall supersede any provision of State law (or the law of any political subdivision of a State) that is inconsistent with this chapter.
 
-(Pub. L. 103 55, §4, July 28, 1993, 107 Stat. 277.)
+(Pub. L. 103–55, §4, July 28, 1993, 107 Stat. 277.)
 

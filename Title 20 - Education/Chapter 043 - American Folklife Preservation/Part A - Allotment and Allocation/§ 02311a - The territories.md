@@ -22,19 +22,19 @@ Subject to the provisions of subsection (a) of this section, the Secretary shall
 
 The Pacific Region Educational Laboratory may use not more than 5 percent of the funds received pursuant to subsection (b) of this section for administrative costs.
 
-(Pub. L. 88 210, title I, §101A, as added Pub. L. 101 392, title I, §101(b), Sept. 25, 1990, 104 Stat. 760; amended Pub. L. 103 208, §3, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103 382, title III, §369, Oct. 20, 1994, 108 Stat. 3976.)
+(Pub. L. 88–210, title I, §101A, as added Pub. L. 101–392, title I, §101(b), Sept. 25, 1990, 104 Stat. 760; amended Pub. L. 103–208, §3, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §369, Oct. 20, 1994, 108 Stat. 3976.)
 
 #### Amendments
 
-1994—Pub. L. 103 382 amended section generally, restating provisions of section but without including authority to make a specific grant in amount of $190,000 to Palau.
+1994—Pub. L. 103–382 amended section generally, restating provisions of section but without including authority to make a specific grant in amount of $190,000 to Palau.
 
-1993—Subsec. (b). Pub. L. 103 208, §3(1), in introductory provisions, substituted “Pacific Regional Educational Laboratory, Honolulu, Hawaii” for “Center for the Advancement of Pacific Education, Honolulu, Hawaii, or its successor entity as the Pacific regional educational laboratory” and inserted “or provide direct services regarding” after “grants for”.
+1993—Subsec. (b). Pub. L. 103–208, §3(1), in introductory provisions, substituted “Pacific Regional Educational Laboratory, Honolulu, Hawaii” for “Center for the Advancement of Pacific Education, Honolulu, Hawaii, or its successor entity as the Pacific regional educational laboratory” and inserted “or provide direct services regarding” after “grants for”.
 
-Subsec. (c). Pub. L. 103 208, §3(2), substituted “Pacific Regional Educational Laboratory, Honolulu, Hawaii,” for “Center for the Advancement of Pacific Education”.
+Subsec. (c). Pub. L. 103–208, §3(2), substituted “Pacific Regional Educational Laboratory, Honolulu, Hawaii,” for “Center for the Advancement of Pacific Education”.
 
 #### Effective Date
 
-Section effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Section effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ A contract for property or services entered into by an executive agency which pr
 
 &emsp;(1) a contractor or subcontractor at any tier shall be prepared to furnish to the contracting officer a written justification for any restriction asserted by the contractor or subcontractor on the right of the United States to use such technical data; and
 
-&emsp;(2) the contracting officer may review the validity of any restriction asserted by the contractor or by a subcontractor under the contract on the right of the United States to use technical data furnished to the United States under the contract if the contracting officer determines that reasonable grounds exist toquestion the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the United States would make it impracticable to procure the item competitively at a later time.
+&emsp;(2) the contracting officer may review the validity of any restriction asserted by the contractor or by a subcontractor under the contract on the right of the United States to use technical data furnished to the United States under the contract if the contracting officer determines that reasonable grounds exist to question the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the United States would make it impracticable to procure the item competitively at a later time.
 
 #### (b) Review; challenge; notice
 

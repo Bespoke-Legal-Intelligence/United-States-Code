@@ -46,7 +46,7 @@
 
 (e) Loans made under this section shall be repaid in monthly installments.
 
-(f) In connection with any loan under this section, the Secretary may make advances in cash to provide for repairs, alterations, and improvements and to meet incidental expenses of the loan transaction. The Secretary shall determine the amount of any expenses incident to theorigination of loans made under this section, which expenses, or a reasonable flat allowance in lieu thereof, shall be paid by the veteran in addition to the loan closing costs.
+(f) In connection with any loan under this section, the Secretary may make advances in cash to provide for repairs, alterations, and improvements and to meet incidental expenses of the loan transaction. The Secretary shall determine the amount of any expenses incident to the origination of loans made under this section, which expenses, or a reasonable flat allowance in lieu thereof, shall be paid by the veteran in addition to the loan closing costs.
 
 (g) Without regard to any provision of this chapter (other than a provision of this section), the Secretary may—
 

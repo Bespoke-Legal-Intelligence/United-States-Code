@@ -154,15 +154,7 @@ In subsection (f), the word “modify” is omitted as surplus and for consisten
 
 #### Study of Hazardous Materials Transportation by Motor Carriers Near Federal Prisons
 
-Pub. L. 103–311, title I, §121, Aug. 26, 1994, 108 Stat. 1681, provided that:
-
-“(a)
-
-Study.—The Secretary of Transportation shall conduct a study to determine the safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners. Such study shall include an evaluation of the ability of such facilities and the designated local planning agencies to safely evacuate such prisoners in the event of an emergency and any special training, equipment, or personnel that would be required by such facility and the designated local emergency planning agencies to carry out such evacuation. Such study shall not apply to or address issues concerning rail transportation of hazardous materials.
-
-“(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Aug. 26, 1994\], the Secretary of Transportation shall transmit to Congress a report on the results of the study conducted under this section, along with the Secretary's recommendations for any legislative or regulatory changes to enhance the safety regarding the transportation of hazardous materials by motor carriers near Federal prisons.”
+Pub. L. 103–311, title I, §121, Aug. 26, 1994, 108 Stat. 1681, directed Secretary of Transportation to submit to Congress, not later than 1 year after Aug. 26, 1994, report on results of study to determine safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners, which was to include evaluation of ability of such facilities and designated local planning agencies to safely evacuate such prisoners in the event of an emergency and any special training, equipment, or personnel that would be required by such facility and the designated local emergency planning agencies to carry out such evacuation.
 
 #### Section Referred to in Other Sections
 

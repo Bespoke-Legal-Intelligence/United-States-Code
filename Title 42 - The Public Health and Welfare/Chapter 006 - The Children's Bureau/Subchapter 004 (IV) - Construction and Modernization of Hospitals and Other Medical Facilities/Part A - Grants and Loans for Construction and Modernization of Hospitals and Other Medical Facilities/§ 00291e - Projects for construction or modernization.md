@@ -42,7 +42,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(5), is set o
 
 #### Prior Provisions
 
-A prior section 291e, act July 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, authorized Surgeon General to prescribe general regulations, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291c of this title.
+A prior section 291e, act July 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041;amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, authorized Surgeon General to prescribe general regulations, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291c of this title.
 
 A prior section 291h(a), (c), act July 1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §8, 63 Stat. 901, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -72,7 +72,7 @@ Section 3(b)(1) of Pub. L. 88–443, providing that applications approved, and a
 
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 
-Section 3(b)(5) of Pub. L. 88–443 provided that no application with respect to a modernization project maybe approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under section 291 of this title.
+Section 3(b)(5) of Pub. L. 88–443 provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under section 291 of this title.
 
 #### Cross References
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least three years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental conditionthat was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy;
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect tothe Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;(2) who, except as provided in subsection (e) of this section, completed the requirements of a secondary school diploma (or equivalency certificate) not later than—
 
@@ -66,7 +66,7 @@
 
 (g) Notwithstanding section 3002(6)(A) of this title, a period during which an individual is assigned full time by the Armed Forces to a civilian institution for a course of education as described in such section 3002(6)(A) shall not be considered a break in service or a break in a continuous period of active duty of the individual for the purposes of this chapter.
 
-(h)(1) Notwithstanding section 3002(6)(B) of this title, a member referred to in paragraph (2)of this subsection who serves the periods of active duty referred to in subparagraphs (A) and (C) of that paragraph shall be deemed to have served a continuous period of active duty whose length is the aggregate length of the periods of active duty referred to in such subparagraphs.
+(h)(1) Notwithstanding section 3002(6)(B) of this title, a member referred to in paragraph (2) of this subsection who serves the periods of active duty referred to in subparagraphs (A) and (C) of that paragraph shall be deemed to have served a continuous period of active duty whose length is the aggregate length of the periods of active duty referred to in such subparagraphs.
 
 (2) This subsection applies to a member who—
 
@@ -152,7 +152,7 @@ Subsec. (a)(1)(B). Pub. L. 99–576, §307(a)(1), inserted “and was on active 
 
 Subsec. (a)(1)(B)(ii)(II). Pub. L. 99–576, §321(1)(B), inserted “continuous” after “months of”.
 
-Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to bewithin the control of such individual” for “Amounts withheld from basic pay under this subsection shall revert to the Treasury”.
+Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual” for “Amounts withheld from basic pay under this subsection shall revert to the Treasury”.
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
@@ -160,7 +160,7 @@ Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which t
 
 Section 302(b) of Pub. L. 102–568 provided that: “The amendments made by this section \[amending this section and sections 3012 and 3031 of this title\] shall take effect as of October 28, 1986.”
 
-Section 304(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after October 1, 1993.”
+Section 304(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on June 30, 1985,and apply to the payment of educational assistance for education or training pursued on or after October 1, 1993.”
 
 Section 305(b) of Pub. L. 102–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted on October 19, 1984.”
 

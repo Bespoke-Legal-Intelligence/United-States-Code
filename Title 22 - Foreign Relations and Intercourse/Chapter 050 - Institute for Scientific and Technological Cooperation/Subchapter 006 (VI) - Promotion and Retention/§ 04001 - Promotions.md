@@ -26,7 +26,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 &emsp;(C) a regular, predictable flow of talent upward through the ranks and into the Senior Foreign Service.
 
-(3) The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to any class in the Senior Foreign Service without a break in service.
+(3) The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to anyclass in the Senior Foreign Service without a break in service.
 
 (4) Not later than March 1 of each year, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall—
 
@@ -47,6 +47,10 @@ Except as provided in section 4006(a) of this title, promotions of—
 1994—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking “and” the last place it appears and by inserting “and other members of the Service” after “categories of career candidates,”, was executed by striking “and” after “categories of career members,” and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
 
 1987—Subsec. (c)(4). Pub. L. 100–204 added par. (4).
+
+#### Reports Eliminated
+
+Pub. L. 104–66, title II, §2241, Dec. 21, 1995, 109 Stat. 733, provided that: “Notwithstanding section 601(c)(4) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)(4)), the reports otherwise required under such section shall not cover the activities of the United States Information Agency.”
 
 #### Language Training in Foreign Service
 

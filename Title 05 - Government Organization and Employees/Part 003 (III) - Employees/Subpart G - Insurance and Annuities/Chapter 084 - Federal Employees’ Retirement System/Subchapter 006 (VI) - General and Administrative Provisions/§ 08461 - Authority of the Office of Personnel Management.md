@@ -1,4 +1,4 @@
-### §8461 . Authority of the Office of Personnel Management
+### §8461. Authority of the Office of Personnel Management
 
 (a) The Office shall pay all benefits that are payable under subchapter II, IV, V, or VI of this chapter from the Fund.
 
@@ -18,7 +18,7 @@
 
 (h)(1) Each Government agency shall furnish the Director with such information as the Director determines necessary in order to administer this chapter.
 
-(2) The Director, in consultation with the officials from whom such information is requested,shall establish (by regulation or otherwise) such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
+(2) The Director, in consultation with the officials from whom such information is requested, shall establish (by regulation or otherwise) such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
 
 (i) In making a determination of “actuarial equivalence” under this chapter, the economic assumptions used shall be the same as the economic assumptions most recently used by the Office (before the determination of actuarial equivalence involved) in determining the normal-cost percentage of the System.
 
@@ -34,7 +34,7 @@
 
 &emsp;(E) authorize and direct disbursements from the Fund to the extent based on service of such employees; and
 
-&emsp;(F) perform such other functions under this chapter (other than under subchapters III and VII of this chapter) with respect to employees of the Central Intelligence Agency as the Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management, determines to be appropriate.
+&emsp;(F) perform such other functions under this chapter (other than under subchapters III andVII of this chapter) with respect to employees of the Central Intelligence Agency as the Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management, determines to be appropriate.
 
 (2) The Director of the Office of Personnel Management shall furnish such information and, on a reimbursable basis, such services to the Director of Central Intelligence as the Director of Central Intelligence requests to carry out paragraph (1).
 
@@ -86,13 +86,13 @@
 
 #### Amendments
 
-1992—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, §2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+<b>1992</b>—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, §2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
 Subsec. (n)(2)(D). Pub. L. 102–378, §2(71)(B), substituted “8347(q)” for “8347(p)”.
 
-1990—Subsec. (n). Pub. L. 101–508 added subsec. (n).
+<b>1990</b>—Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
-1986—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
+<b>1986</b>—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
 
 #### Effective Date of 1992 Amendment
 

@@ -4,11 +4,9 @@
 
 (1) From the sums appropriated therefor, the Secretary shall pay to each State for each quarter an amount—
 
-&emsp;(A) equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title,
+&emsp;(A) equal to 90 percent of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity; and
 
-&emsp;(B) equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and
-
-&emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity;
+&emsp;(B) equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title;
 
 > except that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title. In determining the total amounts expended by any State during a quarter, for purposes of this subsection, there shall be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
@@ -24,7 +22,7 @@
 
 (1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
-(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
+(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarterand with respect to which adjustment has not already been made under this subsection.
 
 (3) Upon the making of any estimate by the Secretary under this subsection, any appropriations available for payments under this section shall be deemed obligated.
 
@@ -48,31 +46,19 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 (Aug. 14, 1935, ch. 531, title IV, §455, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2355; amended Aug. 9, 1975, Pub. L. 94–88, title II, §§201(c), 205, 89 Stat. 433, 435; July 14, 1976, Pub. L. 94–365, §3, 90 Stat. 990; June 30, 1977, Pub. L. 95–59, §4, 91 Stat. 255; Jan. 2, 1980, Pub. L. 96–178, §2(a), 93 Stat. 1295; June 9, 1980, Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), 94 Stat. 463, 467; Dec. 28, 1980, Pub. L. 96–611, §§9(c), 11(c), 94 Stat. 3573, 3574; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2333(c), 95 Stat. 863; Sept. 3, 1982, Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), 96 Stat. 401, 403; Aug. 16, 1984, Pub. L. 98–378, §§4(a), 6(b), 8, 98 Stat. 1311, 1314, 1315; Oct. 13, 1988, Pub. L. 100–485, title I, §§112(a), 123(c), 102 Stat. 2350, 2352.)
 
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 100–485, title I, §123(c), Oct. 13, 1988, 102 Stat. 2352, provided that, effective Sept. 30, 1995, subsec. (a)(1) of this section is amended—</i>
-
-<i>(1) by striking subparagraphs (A) and (B);</i>
-
-<i>(2) by redesignating subparagraph (C) as subparagraph (A);</i>
-
-<i>(3) in subparagraph (A) (as so redesignated)—</i>
-
-<i>(A) by striking “(rather than the percentage specified in subparagraph (A))”; and</i>
-
-<i>(B) by inserting “and” after the semicolon; and</i>
-
-<i>(4) by inserting after subparagraph (A) (as so redesignated) the following new subparagraph:</i>
-
-&emsp;“(B) equal to the percent specified in paragraph (2) of the total amounts expended by such Stateduring such quarter for the operation of the plan approved under section 654 of this title;”.
-
 #### References in Text
 
 Section 5(a) of the Child Support Enforcement Amendments of 1984, referred to in subsec. (e)(4), is section 5(a) of Pub. L. 98–378, which amended section 658 of this title.
 
 #### Amendments
 
-1988—Subsec. (a)(1)(C). Pub. L. 100–485, §112(a), added subpar. (C).
+1988—Subsec. (a)(1). Pub. L. 100–485, §123(c), redesignated subpar. (C) as (A), struck out “(rather than the percentage specified in subparagraph (A))” after “90 percent”, inserted “and” at end, added subpar. (B), and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title,
+
+“(B) equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
+
+Subsec. (a)(1)(C). Pub. L. 100–485, §112(a), added subpar. (C).
 
 1984—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out “, beginning with the quarter commencing July 1, 1975,” after “for each quarter”, substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the total amounts expended by the State during the quarter for the operation of the plan approved under section 654 of this title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted “subparagraph (A)” for “clause (1) or (2)”, and inserted “(including in such sums the full cost of the hardware components of such system)” and “, or meets such requirements without regard to clause (D) thereof”.
 
@@ -84,7 +70,7 @@ Subsec. (e). Pub. L. 98–378, §8, added subsec. (e).
 
 1982—Subsec. (a)(1). Pub. L. 97–248, §174(a), substituted “70 percent” for “75 percent”.
 
-Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of such plan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
+Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of aState or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of such plan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
 
 1981—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
@@ -150,5 +136,5 @@ Section 206 of Pub. L. 94–88 provided that amounts expended in good faith by a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 603a, 652, 658, 1315 of this title; title 2 section 906.
+This section is referred to in sections 603a, 658, 1315 of this title; title 2 section 906.
 

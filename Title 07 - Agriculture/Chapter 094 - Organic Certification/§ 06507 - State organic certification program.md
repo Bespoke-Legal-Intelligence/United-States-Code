@@ -1,0 +1,44 @@
+### §6507. State organic certification program
+
+#### (a) In general
+
+The governing State official may prepare and submit a plan for the establishment of a State organic certification program to the Secretary for approval. A State organic certification program must meet the requirements of this chapter to be approved by the Secretary.
+
+#### (b) Additional requirements
+
+#### (1) Authority
+
+&emsp;A State organic certification program established under subsection (a) of this section maycontain more restrictive requirements governing the organic certification of farms and handling operations and the production and handling of agricultural products that are to be sold or labeled as organically produced under this chapter than are contained in the program established by the Secretary.
+
+#### (2) Content
+
+&emsp;Any additional requirements established under paragraph (1) shall—
+
+&emsp;&emsp;(A) further the purposes of this chapter;
+
+&emsp;&emsp;(B) not be inconsistent with this chapter;
+
+&emsp;&emsp;(C) not be discriminatory towards agricultural commodities organically produced in other States in accordance with this chapter; and
+
+&emsp;&emsp;(D) not become effective until approved by the Secretary.
+
+#### (c) Review and other determinations
+
+#### (1) Subsequent review
+
+&emsp;The Secretary shall review State organic certification programs not less than once during each 5-year period following the date of the approval of such programs.
+
+#### (2) Changes in program
+
+&emsp;The governing State official, prior to implementing any substantive change to programs approved under this subsection, shall submit such change to the Secretary for approval.
+
+#### (3) Time for determination
+
+&emsp;The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not later than 6 months after receipt of such plan, such proposed change, or the initiation of such review.
+
+(Pub. L. 101–624, title XXI, §2108, Nov. 28, 1990, 104 Stat. 3939.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6506 of this title.
+

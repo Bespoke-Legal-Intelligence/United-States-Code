@@ -1,0 +1,14 @@
+### §1658. Time limitations on the commencement of civil actions arising under Acts of Congress
+
+Except as otherwise provided by law, a civil action arising under an Act of Congress enacted after the date of the enactment of this section may not be commenced later than 4 years after the cause of action accrues.
+
+(Added Pub. L. 101–650, title III, §313(a), Dec. 1, 1990, 104 Stat. 5114.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in text, is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
+
+#### Effective Date
+
+Section 313(c) of Pub. L. 101–650 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to causes of action accruing on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
+

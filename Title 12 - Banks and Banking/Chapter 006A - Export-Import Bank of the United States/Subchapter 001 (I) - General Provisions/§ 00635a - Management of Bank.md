@@ -10,7 +10,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 #### (c) Board of Directors; composition; oath; terms; duties; quorum; bylaws
 
-(1) There shall be a Board of Directors of the Bank consisting of the President of the Export-Import Bank of the United States, who shallserve as Chairman, the First Vice President who shall serve as Vice Chairman, and three additional persons appointed by the President of the United States by and with the advice and consent of the Senate.
+(1) There shall be a Board of Directors of the Bank consisting of the President of the Export-Import Bank of the United States, who shall serve as Chairman, the First Vice President who shall serve as Vice Chairman, and three additional persons appointed by the President of the United States by and with the advice and consent of the Senate.
 
 (2) Of the five members of the Board, not more than three shall be members of any one political party.
 
@@ -76,13 +76,13 @@ Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annu
 
 1983—Subsec. (c). Pub. L. 98–81, §614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
 
-Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule\(5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
+Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
 
 Subsec. (e). Pub. L. 98–181, §620(b), substituted “such individual's” for “his” and “such individual” for “he”.
 
 1968—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
+Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, atrates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 1954—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
@@ -158,7 +158,7 @@ There is hereby established the office of Deputy Director of the Export-Import B
 
 #### Sec. 3. Assistant Director
 
-There is hereby established the office of Assistant Director of the Export-Import Bank of Washington. The Assistant Director shall be appointed by the Managing Director under the classified civil service, shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51and subchapter III of chapter 53 of Title 5\], and shall perform such functions as the Managing Director may from time to time prescribe.
+There is hereby established the office of Assistant Director of the Export-Import Bank of Washington. The Assistant Director shall be appointed by the Managing Director under the classified civil service, shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5\], and shall perform such functions as the Managing Director may from time to time prescribe.
 
 #### Sec. 4. Functions Transferred to the Managing Director
 

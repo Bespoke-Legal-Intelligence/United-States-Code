@@ -14,7 +14,7 @@ For purposes of applying sections 2135, 2136(a), and 2137 of this title—
 
 (2) If the President determines under paragraph (1) that a major industrial country has not made concessions under trade agreements entered into under section 2902(a) and (b) of this title which provide substantially equivalent competitive opportunities for the commerce of the United States, the President shall, either generally with respect to such country or by article produced by such country, in order to restore equivalence of competitive opportunities, recommend to the Congress—
 
-&emsp;(A) legislation providing for the termination or denial of the benefits of concessions of trade agreements entered into under section 2902(a) and (b) of this title that have been made with respect to rates of duty or other import restrictions imposed by the United States, and
+&emsp;(A) legislation providing for the termination or denial of the benefits of concessions oftrade agreements entered into under section 2902(a) and (b) of this title that have been made with respect to rates of duty or other import restrictions imposed by the United States, and
 
 &emsp;(B) legislation providing that any law necessary to carry out any trade agreement under section 2902(a) or (b) of this title not apply to such country.
 

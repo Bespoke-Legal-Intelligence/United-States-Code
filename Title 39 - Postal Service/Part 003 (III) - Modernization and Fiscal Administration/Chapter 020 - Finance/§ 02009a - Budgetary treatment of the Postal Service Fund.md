@@ -1,0 +1,32 @@
+### §2009a. Budgetary treatment of the Postal Service Fund
+
+Notwithstanding any other provision of law, the receipts and disbursements of the Postal Service Fund, including disbursements for administrative expenses incurred in connection with the Fund—
+
+&emsp;(1) shall not be included in the totals of—
+
+&emsp;&emsp;(A) the budget of the United States Government as submitted by the President, or
+
+&emsp;&emsp;(B) the congressional budget (including allocations of budget authority and outlays provided therein);
+
+&emsp;(2) shall be exempt from any general budget limitation imposed by statute on expenditures and net lending (budget outlays) of the United States Government; and
+
+&emsp;(3) shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the Balanced Budget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985, for any fiscal year.
+
+(Added Pub. L. 101–239, title IV, §4001(a)(1), Dec. 19, 1989, 103 Stat. 2133.)
+
+#### References in Text
+
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in par. (3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. Sections 251and 252 of the Act are classified to sections 901 and 902, respectively, of Title 2, and were amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–577, 1388–581. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+
+Section 3(6) of the Congressional Budget and Impoundment Control Act of 1974, referred to in par. (3), is classified to section 622(6) of Title 2.
+
+#### Effective Date
+
+Section 4001(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to budgets for fiscal years beginning after September 30, 1989.”
+
+#### Construction
+
+Section 4001(b) of Pub. L. 101–239 provided that: “Nothing in any amendment made by subsection (a) \[enacting this section\] shall be considered to diminish the oversight responsibilities or authority of the Congress under law, rule, or regulation with respect to the budget and operations of the United States Postal Service.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

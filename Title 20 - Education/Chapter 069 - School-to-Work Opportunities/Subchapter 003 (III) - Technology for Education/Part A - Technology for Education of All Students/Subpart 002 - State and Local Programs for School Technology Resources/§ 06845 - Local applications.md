@@ -1,6 +1,6 @@
 ### §6845. Local applications
 
-#### (a) Application requirements<sup>1</sup>
+#### (a) Application requirements <sup>1</sup>
 
 Each local educational agency desiring assistance from a State educational agency under section 6842(a)(2) of this title shall submit an application, consistent with the objectives of the systemic statewide plan, to the State educational agency at such time, in such manner and accompanied by such information as the State educational agency may reasonably require. Such application, at a minimum, shall—
 
@@ -38,25 +38,25 @@ Each local educational agency desiring assistance from a State educational agenc
 
 &emsp;&emsp;(B) will affect student achievement and progress toward meeting the National Education Goals and any challenging State content standards and State student performance standards that may be developed.
 
-#### (d)<sup>2</sup> Formation of consortia
+#### (d) <sup>2</sup> Formation of consortia
 
 A local educational agency for any fiscal year may apply for financial assistance as part of a consortium with other local educational agencies, institutions of higher education, intermediate educational units, libraries, or other educational entities appropriate to provide local programs. The State educational agency may assist in the formation of consortia among local educational agencies, providers of educational services for adults and families, institutions of higher education, intermediate educational units, libraries, or other appropriate educational entities to provide services for the teachers and students in a local educational agency at the request of such local educational agency.
 
-#### (e)<sup>3</sup> Coordination of application requirements
+#### (e) <sup>3</sup> Coordination of application requirements
 
-If a local educational agency submitting an application for assistance under this section has developed a comprehensive education improvement plan, in conjunction with requirements under this chapter or the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\], the State educational agency may approve such plan, or a component of such plan, notwithstanding the requirements of subsection (e)<sup>4</sup> if the State educational agency determines that such approval would further the purposes of this subpart.
+If a local educational agency submitting an application for assistance under this section has developed a comprehensive education improvement plan, in conjunction with requirements under this chapter or the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\], the State educational agency may approve such plan, or a component of such plan, notwithstanding the requirements of subsection (e) <sup>4</sup> if the State educational agency determines that such approval would further the purposes of this subpart.
 
-(Pub. L. 89 10, title III, §3135, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3647.)
+(Pub. L. 89–10, title III, §3135, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3647.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (e), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (e), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-<i><sup>1</sup></i><i>Designation “(a)” and heading editorially supplied.</i>
+<i><sup>1</sup></i><i> Designation “(a)” and heading editorially supplied.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “(b)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “(b)”.</i>
 
-<i><sup>3</sup></i><i>So in original. Probably should be “(c)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “(c)”.</i>
 
-<i><sup>4</sup></i><i>So in original. Probably should be subsection “(a)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection “(a)”.</i>
 

@@ -22,7 +22,7 @@ Notwithstanding any other provision of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in regulations, in the case of any amount treated as ordinary income or loss under paragraph (1) (without regard to paragraph (1)(B)), the source of such amount shall be determined by reference to the residence of the taxpayer or the qualified business unit of the taxpayer on whose books the asset, liability, or item of income or expense is properly reflected.
+&emsp;&emsp;Except as otherwise provided in regulations, in the case of any amount treated asordinary income or loss under paragraph (1) (without regard to paragraph (1)(B)), the source of such amount shall be determined by reference to the residence of the taxpayer or the qualified business unit of the taxpayer on whose books the asset, liability, or item of income or expense is properly reflected.
 
 #### (B) Residence
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of this chapter—
 
 #### (C) Special rule for certain related party loans
 
-&emsp;&emsp;Except to the extent provided in regulations, in the case of a loan by a UnitedStates person or a related person to a 10-percent owned foreign corporation which is denominated in a currency other than the dollar and bears interest at a rate at least 10 percentage points higher than the Federal mid-term rate (determined under section 1274(d)) at the time such loan is entered into, the following rules shall apply:
+&emsp;&emsp;Except to the extent provided in regulations, in the case of a loan by a United States person or a related person to a 10-percent owned foreign corporation which is denominated in a currency other than the dollar and bears interest at a rate at least 10 percentage points higher than the Federal mid-term rate (determined under section 1274(d)) at the time such loan is entered into, the following rules shall apply:
 
 &emsp;&emsp;&emsp;(i) For purposes of section 904 only, such loan shall be marked to market on an annual basis.
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (IV) Look-thru rule
 
-&emsp;&emsp;&emsp;&emsp;In determining whether the requirements of clause (iii)(I) are met with respect to any partnership, except to the extent provided in regulations, any interest in such partnership held by another partnership shall be treated asheld proportionately by the partners in such other partnership.
+&emsp;&emsp;&emsp;&emsp;In determining whether the requirements of clause (iii)(I) are met with respect to any partnership, except to the extent provided in regulations, any interest in such partnership held by another partnership shall be treated as held proportionately by the partners in such other partnership.
 
 #### (vi) Other special rules
 

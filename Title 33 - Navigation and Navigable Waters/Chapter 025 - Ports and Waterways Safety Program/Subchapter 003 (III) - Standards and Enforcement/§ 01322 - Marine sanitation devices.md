@@ -38,7 +38,7 @@ For the purpose of this section, the term—
 
 (B) The Administrator shall, with respect to commercial vessels on the Great Lakes, establish standards which require at a minimum the equivalent of secondary treatment as defined under section 1314(d) of this title. Such standards and regulations shall take effect for existing vessels after such time as the Administrator determines to be reasonable for the upgrading of marine sanitation devices to attain such standard.
 
-(2) The Secretary of the department in which the Coast Guard is operating with regard to his regulatory authority established by this section, after consultation with the Administrator, may distinguish among classes, type, and sizes of vessels as well as between new and existing vessels, and may waive applicability of standards and regulations as necessary or appropriate for such classes, types, and sizes of vessels (including existing vessels equipped with marine sanitation devices on the date of promulgation of the initial standards required by this section), and, upon application, for individual vessels.
+(2) The Secretary of the department in which the Coast Guard is operating with regard to his regulatory authority established by this section,after consultation with the Administrator, may distinguish among classes, type, and sizes of vessels as well as between new and existing vessels, and may waive applicability of standards and regulations as necessary or appropriate for such classes, types, and sizes of vessels (including existing vessels equipped with marine sanitation devices on the date of promulgation of the initial standards required by this section), and, upon application, for individual vessels.
 
 #### (d) Vessels owned and operated by the United States
 
@@ -68,7 +68,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
 
-(3) Every manufacturer shall establish and maintain such records, make such reports, and provide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
+(3) Every manufacturer shall establish and maintain such records, make such reports, andprovide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
 
 #### (h) Sale and resale of properly equipped vessels; operability of certified marine sanitation devices
 
@@ -236,7 +236,7 @@ Grant Program.—
 
 &emsp;“(1)
 
-Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
+Matching grants.—The Secretary of the Interior may obligate an amount not to exceed theamount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
 
 &emsp;&emsp;“(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 
@@ -338,7 +338,7 @@ Notification.—Not later than one month after the guidance issued under subsect
 
 &emsp;&emsp;“(B) leased, rented, or chartered to another for the latter's pleasure; and
 
-&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
+&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portabletoilets carried on vessels, and does not include lavatories.”
 
 #### Section Referred to in Other Sections
 

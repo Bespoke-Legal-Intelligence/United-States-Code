@@ -52,37 +52,37 @@ For the purposes of this section—
 
 &emsp;(3) the term “Pell Grant recipient” means a recipient of financial aid under subpart 1 of part A of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070a et seq.\].
 
-(Pub. L. 88 210, title II, §232, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103 208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103 382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966.)
+(Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (b)(2)(E), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2)(E), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-Section 427(b)(2) of the Higher Education Amendments of 1992, referred to in subsec. (d)(2), is section 427(b)(2) of Pub. L. 102 325 which is set out as a note under section 1085 of this title.
+Section 427(b)(2) of the Higher Education Amendments of 1992, referred to in subsec. (d)(2), is section 427(b)(2) of Pub. L. 102–325 which is set out as a note under section 1085 of this title.
 
-Section 435(b) of the Higher Education Act of 1965 as such section was in effect on July 22, 1992, referred to in subsec. (d)(2), means section 435(b) of Pub. L. 89 329 which was classified to section 1085(b) of this title prior to repeal by Pub. L. 102 325, title IV, §427(b)(1), July 23, 1992, 106 Stat. 549.
+Section 435(b) of the Higher Education Act of 1965 as such section was in effect on July 22, 1992, referred to in subsec. (d)(2), means section 435(b) of Pub. L. 89–329 which was classified to section 1085(b) of this title prior to repeal by Pub. L. 102–325, title IV, §427(b)(1), July 23, 1992, 106 Stat. 549.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(3), is Pub. L. 89 329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (d)(2). Pub. L. 103 382 inserted “, notwithstanding section 427(b)(2) of the Higher Education Amendments of 1992,” before “has” and “as such section was in effect on July 22, 1992” before the semicolon.
+1994—Subsec. (d)(2). Pub. L. 103–382 inserted “, notwithstanding section 427(b)(2) of the Higher Education Amendments of 1992,” before “has” and “as such section was in effect on July 22, 1992” before the semicolon.
 
-1993—Subsec. (a). Pub. L. 103 208, §4(1), designated existing provisions as par. (1), inserted “or consortia thereof” before “within the State” in first sentence, inserted “or consortium” before “shall receive an amount” and before “in the preceding fiscal year” in second sentence, and added par. (2).
+1993—Subsec. (a). Pub. L. 103–208, §4(1), designated existing provisions as par. (1), inserted “or consortia thereof” before “within the State” in first sentence, inserted “or consortium” before “shall receive an amount” and before “in the preceding fiscal year” in second sentence, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 103 208, §4(2)(A), inserted “or consortia” after “institutions”.
+Subsec. (b)(1). Pub. L. 103–208, §4(2)(A), inserted “or consortia” after “institutions”.
 
-Subsec. (b)(2). Pub. L. 103 208, §4(2)(B), inserted “or consortia” after “institutions” in introductory provisions.
+Subsec. (b)(2). Pub. L. 103–208, §4(2)(B), inserted “or consortia” after “institutions” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 103 208, §4(3)(A), inserted “or consortium” after “institution”.
+Subsec. (c)(1). Pub. L. 103–208, §4(3)(A), inserted “or consortium” after “institution”.
 
-Subsec. (c)(2). Pub. L. 103 208, §4(3)(B), inserted “or consortia” after “institutions”.
+Subsec. (c)(2). Pub. L. 103–208, §4(3)(B), inserted “or consortia” after “institutions”.
 
 #### Effective Date of 1994 Amendment
 
-Section 351(b) of Pub. L. 103 382 provided that: “Subsection (a) \[amending this section and section 2404 of this title\] and the amendments made by subsection (a) shall take effect on the date of enactment of this Act \[Oct. 20, 1994\], except that a State that, prior to such date, distributed funds under section 232 of the Carl D. Perkins Vocational and Applied Technology Education Act \[this section\] from funds appropriated for fiscal year 1994 for such program to proprietary institutions of higher education, as such term is defined in section 481(b) of the Higher Education Act of 1965 \[20 U.S.C. 1088(b)\], may continue to distribute such funds to such institutions until July 1, 1995.”
+Section 351(b) of Pub. L. 103–382 provided that: “Subsection (a) \[amending this section and section 2404 of this title\] and the amendments made by subsection (a) shall take effect on the date of enactment of this Act \[Oct. 20, 1994\], except that a State that, prior to such date, distributed funds under section 232 of the Carl D. Perkins Vocational and Applied Technology Education Act \[this section\] from funds appropriated for fiscal year 1994 for such program to proprietary institutions of higher education, as such term is defined in section 481(b) of the Higher Education Act of 1965 \[20 U.S.C. 1088(b)\], may continue to distribute such funds to such institutions until July 1, 1995.”
 
 #### Section Referred to in Other Sections
 

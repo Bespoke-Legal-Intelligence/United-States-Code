@@ -72,17 +72,17 @@
 
 (2) The results of the study required by paragraph (1) shall be reported to the appropriate committees of the Congress not later than September 30, 1994.
 
-(Pub. L. 88 210, title IV, §423, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2474; amended Pub. L. 101 392, title IV, §409, Sept. 25, 1990, 104 Stat. 827.)
+(Pub. L. 88–210, title IV, §423, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2474; amended Pub. L. 101–392, title IV, §409, Sept. 25, 1990, 104 Stat. 827.)
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Amendments of 1990, referred to in subsec. (a)(3)(A), (B)(i), is Pub. L. 101 392, Sept. 25, 1990, 104 Stat. 753. Title II of the Act amended generally subchapter II (§2331 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Amendments of 1990, referred to in subsec. (a)(3)(A), (B)(i), is Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753. Title II of the Act amended generally subchapter II (§2331 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2301 of this title and Tables.
 
 #### Amendments
 
-1990—Pub. L. 101 392 amended section generally. Prior to amendment, section read as follows: “The Secretary shall assure that adequate information on the access to vocational education programs by handicapped secondary school students be included in the national vocational education data system, required by section 161 of the Vocational Education Act of 1963 and by this part, for the biennial survey. The information base for the biennial survey for the handicapped shall be in 4-digit detail as defined in A Classification of Instructional Programs published by the National Center for Educational Statistics. The survey shall include information with respect to total handicapped enrollment by program, by type of instructional setting, and by type of handicapping condition.”
+1990—Pub. L. 101–392 amended section generally. Prior to amendment, section read as follows: “The Secretary shall assure that adequate information on the access to vocational education programs by handicapped secondary school students be included in the national vocational education data system, required by section 161 of the Vocational Education Act of 1963 and by this part, for the biennial survey. The information base for the biennial survey for the handicapped shall be in 4-digit detail as defined in A Classification of Instructional Programs published by the National Center for Educational Statistics. The survey shall include information with respect to total handicapped enrollment by program, by type of instructional setting, and by type of handicapping condition.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 

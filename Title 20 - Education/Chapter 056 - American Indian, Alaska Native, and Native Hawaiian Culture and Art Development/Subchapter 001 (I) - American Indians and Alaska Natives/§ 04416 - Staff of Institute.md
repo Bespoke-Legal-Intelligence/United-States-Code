@@ -80,7 +80,7 @@ The Institute shall be considered an agency for the purpose of chapter 71 of tit
 
 Employees of the Institute shall receive compensation for work injuries and illnesses in accordance with chapter 81 of title 5.
 
-(Pub. L. 99 498, title XV, §1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100 297, title V, §5406(a), Apr. 28, 1988, 102 Stat. 417; Pub. L. 102 325, title XIII, §1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103 382, title III, §386(a), Oct. 20, 1994, 108 Stat. 4020.)
+(Pub. L. 99–498, title XV, §1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100–297, title V, §5406(a), Apr. 28, 1988, 102 Stat. 417; Pub. L. 102–325, title XIII, §1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103–382, title III, §386(a), Oct. 20, 1994, 108 Stat. 4020.)
 
 #### References in Text
 
@@ -88,23 +88,23 @@ The General Schedule, referred to in subsec. (b)(2), is set out under section 53
 
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103 382 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
+1994—Subsec. (f). Pub. L. 103–382 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
 
 &emsp;“(1) the continued employment of any individual employed immediately before October 17, 1986, or
 
 &emsp;“(2) such individual's right to receive the compensation attached to such position.”
 
-1992—Subsec. (b)(2). Pub. L. 102 325 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies.”
+1992—Subsec. (b)(2). Pub. L. 102–325 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies.”
 
-1988—Subsec. (g)(1). Pub. L. 100 297 substituted “On June 30, 1989” for “At the end of the 2-year period beginning on the date referred to in section 4421(f) of this title”.
+1988—Subsec. (g)(1). Pub. L. 100–297 substituted “On June 30, 1989” for “At the end of the 2-year period beginning on the date referred to in section 4421(f) of this title”.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100 297, see section 6303 of Pub. L. 100 297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
 
 #### Section Referred to in Other Sections
 

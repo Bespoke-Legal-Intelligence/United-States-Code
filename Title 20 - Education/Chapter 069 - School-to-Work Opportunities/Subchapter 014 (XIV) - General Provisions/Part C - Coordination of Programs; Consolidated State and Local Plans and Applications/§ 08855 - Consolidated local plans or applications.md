@@ -16,5 +16,5 @@ A State educational agency shall collaborate with local educational agencies in 
 
 The State educational agency shall require only descriptions, information, assurances, and other material that are absolutely necessary for the consideration of the local educational agency plan or application.
 
-(Pub. L. 89 10, title XIV, §14305, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3896.)
+(Pub. L. 89–10, title XIV, §14305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3896.)
 

@@ -4,7 +4,7 @@
 
 #### (1) 3-year carryback and 15-year carryforward
 
-&emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), suchexcess (to the extent attributable to the amount of the current year business credit) shall be—
+&emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
 
 &emsp;&emsp;(A) a business credit carryback to each of the 3 taxable years preceding the unused credit year, and
 
@@ -24,7 +24,7 @@
 
 #### (b) Limitation on carrybacks
 
-The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of—
+The amount of the unused credit which may be taken into account under section 38(a)(3) for anypreceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of—
 
 &emsp;(1) the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus
 
@@ -108,7 +108,7 @@ Amendment by section 13443(b)(2) of Pub. L. 103–66 applicable with respect to 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) of Pub. L. 102–486, set out as a note under section 38 of this title.
+Amendment by Pub. L. 102–486 applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) ofPub. L. 102–486, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 

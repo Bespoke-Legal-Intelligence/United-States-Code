@@ -2,7 +2,7 @@
 
 #### (a) Use of appropriated funds for busing
 
-No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except on the express written voluntary request of appropriate local school officials. No such funds shall be made available for transportation when the time or distance of travel is so great as to risk the health of the children or significantly impinge on the educational process of such children, or where the educational opportunities available at the school to which it is proposed that any such student be transported will be substantially inferior to those opportunities offered at the school to which such student would otherwise be assigned under a nondiscriminatory system of school assignments based on geographic zones established without discrimination on account of race, religion, color, or national origin.
+No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except on the express written voluntary request of appropriate local school officials. No such funds shall be made available for transportation when the time or distance of travel is so great as to risk the health of the children or significantly impinge on the educational process of such children, or where the educational opportunitiesavailable at the school to which it is proposed that any such student be transported will be substantially inferior to those opportunities offered at the school to which such student would otherwise be assigned under a nondiscriminatory system of school assignments based on geographic zones established without discrimination on account of race, religion, color, or national origin.
 
 #### (b) Rules, regulations, orders, etc., for busing
 
@@ -12,13 +12,13 @@ No officer, agent, or employee of the Department of Education, the Department of
 
 An applicable program means a program to which the General Education Provisions Act \[20 U.S.C. 1221 et seq.\] applies.
 
-(Pub. L. 92 318, title VIII, §802, June 23, 1972, 86 Stat. 371; Pub. L. 96 88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 92–318, title VIII, §802, June 23, 1972, 86 Stat. 371; Pub. L. 96–88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (c), is title IV of Pub. L. 90 247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (c), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 #### Transfer of Functions
 
-“Department of Education” substituted for “Department of Health, Education, and Welfare (including the Office of Education)” in subsec. (b) pursuant to sections 301 and 507 of Pub. L. 96 88, which are classified to sections 3441 and 3507 of this title and which transferred functions and offices (relating to education) of Department of Health, Education, and Welfare, including Office of Education, to Department of Education.
+“Department of Education” substituted for “Department of Health, Education, and Welfare (including the Office of Education)” in subsec. (b) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of this title and which transferred functions and offices (relating to education) of Department of Health, Education, and Welfare, including Office of Education, to Department of Education.
 

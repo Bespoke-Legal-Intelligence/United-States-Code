@@ -14,7 +14,7 @@
 | [4110\.](%C2%A7%2004110%20-%20Expenses%20of%20attendance%20at%20meetings.md) | Expenses of attendance at meetings. |
 | [4111\.](%C2%A7%2004111%20-%20Acceptance%20of%20contributions%2C%20awards%2C%20and%20other%20payments.md) | Acceptance of contributions, awards, and other payments. |
 | [4112\.](%C2%A7%2004112%20-%20Absorption%20of%20costs%20within%20funds%20available.md) | Absorption of costs within funds available. |
-| [4113\.](%C2%A7%2004113%20-%20Agency%20review%20of%20training%20needs%3B%20annual%20program%20reports.md) | Agency review of training needs; annual program reports. |
+| \[4113. | Repealed.\] |
 | \[4114. | Repealed.\] |
 | [4115\.](%C2%A7%2004115%20-%20Collection%20of%20training%20information.md) | Collection of training information. |
 | [4116\.](%C2%A7%2004116%20-%20Training%20program%20assistance.md) | Training program assistance. |
@@ -26,9 +26,11 @@
 
 #### Amendments
 
-1994—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
+<b>1995</b>—Pub. L. 104–66, title II, §2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 “Agency review of training needs; annual program reports”.
 
-1982—Pub. L. 97–346, §1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.
+<b>1994</b>—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
+
+<b>1982</b>—Pub. L. 97–346, §1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.
 
 #### Chapter Referred to in Other Sections
 
@@ -51,7 +53,7 @@ This chapter is referred to in section 3381 of this title; title 18 section 209;
 - [&sect; 04110 - Expenses of attendance at meetings](%C2%A7%2004110%20-%20Expenses%20of%20attendance%20at%20meetings.md)
 - [&sect; 04111 - Acceptance of contributions, awards, and other payments](%C2%A7%2004111%20-%20Acceptance%20of%20contributions%2C%20awards%2C%20and%20other%20payments.md)
 - [&sect; 04112 - Absorption of costs within funds available](%C2%A7%2004112%20-%20Absorption%20of%20costs%20within%20funds%20available.md)
-- [&sect; 04113 - Agency review of training needs; annual program reports](%C2%A7%2004113%20-%20Agency%20review%20of%20training%20needs%3B%20annual%20program%20reports.md)
+- [&sect; 04113 - Repealed. Pub. L. 104&#8211;66, title II, &sect;2181(c)(1), Dec. 21, 1995, 109 Stat. 732](%C2%A7%2004113%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72181%28c%29%281%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20732.md)
 - [&sect; 04114 - Repealed. Pub. L. 103&#8211;226, &sect;2(a)(8), Mar. 30, 1994, 108 Stat. 112](%C2%A7%2004114%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93226%2C%20%C2%A72%28a%29%288%29%2C%20Mar.%2030%2C%201994%2C%20108%20Stat.%20112.md)
 - [&sect; 04115 - Collection of training information](%C2%A7%2004115%20-%20Collection%20of%20training%20information.md)
 - [&sect; 04116 - Training program assistance](%C2%A7%2004116%20-%20Training%20program%20assistance.md)

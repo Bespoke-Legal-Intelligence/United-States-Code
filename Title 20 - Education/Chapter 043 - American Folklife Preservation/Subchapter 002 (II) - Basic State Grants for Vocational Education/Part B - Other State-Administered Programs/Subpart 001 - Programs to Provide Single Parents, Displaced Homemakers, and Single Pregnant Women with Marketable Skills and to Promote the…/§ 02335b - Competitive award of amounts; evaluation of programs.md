@@ -6,7 +6,7 @@ The administrator appointed under section 2321(b)(1) of this title—
 
 &emsp;(2) shall develop procedures for the collection from eligible recipients, including community-based organizations, that receive funds under this subpart of data appropriate to the individuals served in order to permit evaluation of the effectiveness of such programs as required by section 2321(b)(1)(L) of this title.
 
-(Pub. L. 88 210, title II, §223, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 778.)
+(Pub. L. 88–210, title II, §223, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778.)
 
 #### Section Referred to in Other Sections
 

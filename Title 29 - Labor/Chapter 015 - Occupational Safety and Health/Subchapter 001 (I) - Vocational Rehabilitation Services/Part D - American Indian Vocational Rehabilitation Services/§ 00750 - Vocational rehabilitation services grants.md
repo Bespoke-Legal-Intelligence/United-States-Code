@@ -14,7 +14,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(C) contains assurances that the application was developed in consultation with the designated State unit of the State.
 
-(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
+(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education orto the Secretary of the Interior shall be considered to be a reference to the Commissioner.
 
 (3) Any application approved under this part shall be effective for not less than twelve months or more than 36 months, except as determined otherwise by the Commissioner pursuant to prescribed regulations. The State shall continue to provide vocational rehabilitation services under its State plan to American Indians residing on a reservation whenever such State includes any such American Indians in its State population under section 730(a)(1) of this title.
 
@@ -26,7 +26,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 The term “reservation” includes Indian reservations, public domain Indian allotments, former Indian reservations in Oklahoma, and land held by incorporated Native groups, regional corporations, and village corporations under the provisions of the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\].
 
-(Pub. L. 93–112, title I, §130, Sept. 26, 1973, 87 Stat. 374; Pub. L. 93–516, title I, §111(g), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(g),Nov. 21, 1974, 89 Stat. 2–6; Pub. L. 95–602, title I, §106, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §211, title X, §1002(b)(1), Oct. 21, 1986, 100 Stat. 1810, 1819, 1844; Pub. L. 100–630, title II, §202(i), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, §102(p)(11), Oct. 29, 1992, 106 Stat. 4357.)
+(Pub. L. 93–112, title I, §130, Sept. 26, 1973, 87 Stat. 374; Pub. L. 93–516, title I, §111(g), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(g), Nov. 21, 1974, 89 Stat. 2–6; Pub. L. 95–602, title I, §106, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §211, title X, §1002(b)(1), Oct. 21, 1986, 100 Stat. 1810, 1819, 1844; Pub. L. 100–630, title II, §202(i), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, §102(p)(11), Oct. 29, 1992, 106 Stat. 4357.)
 
 #### References in Text
 

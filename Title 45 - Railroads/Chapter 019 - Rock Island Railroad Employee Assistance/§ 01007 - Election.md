@@ -2,7 +2,7 @@
 
 #### (a) Assistance received under employee protection agreement; waiver of other employee protection benefits; exception
 
-Any employee who receives any assistance under an employee protection agreement entered into or benefit schedule prescribed under section 1005 of this title or any new career training assistance under section 1014 of this title shall be deemed to waive any employee protection benefits otherwise available to such employee under the Bankruptcy Act, subtitle IV of title 49 or any applicable contract or agreement (other than as provided in the agreement entered into in Washington, District of Columbia, on March 4, 1980, entitled “Labor Protective Agreement Between Railroads Parties Hereto Involved in Midwest Rail Restructuring and Employees of Such Railroads Represented by the Rail Labor Organizations Operating Through the Railway Labor Executives’ Association).
+Any employee who receives any assistance under an employee protection agreement entered into or benefit schedule prescribed under section 1005 of this title or any new career training assistance under section 1014 of this title shall be deemed to waive any employee protection benefits otherwise available to such employee under the Bankruptcy Act, subtitle IV of title 49 or any applicable contract or agreement\(other than as provided in the agreement entered into in Washington, District of Columbia, on March 4, 1980, entitled “Labor Protective Agreement Between Railroads Parties Hereto Involved in Midwest Rail Restructuring and Employees of Such Railroads Represented by the Rail Labor Organizations Operating Through the Railway Labor Executives’ Association).
 
 #### (b) Filing of statement
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 97–468, §232(1), substituted “entered into or benefit 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Section Referred to in Other Sections
 

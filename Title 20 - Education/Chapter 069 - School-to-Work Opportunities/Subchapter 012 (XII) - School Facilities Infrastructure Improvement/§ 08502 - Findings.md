@@ -14,5 +14,5 @@ The Congress finds the following:
 
 &emsp;(6) The challenges facing our Nation's public elementary and secondary schools require the concerted and collaborative efforts of all levels of government and all sectors of the community.
 
-(Pub. L. 89 10, title XII, §12002, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3870.)
+(Pub. L. 89–10, title XII, §12002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3870.)
 

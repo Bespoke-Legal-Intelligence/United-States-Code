@@ -8,11 +8,11 @@ Within two years from November 10, 1978, the Secretary shall submit, in writing,
 
 &emsp;(iii) the annual acquisition program (including the level of funding) which he recommends for the ensuing four fiscal years; and
 
-&emsp;(iv) the feasibility and suitability of including within the boundaries of the national river, the section of the New River from Fayetteville to Gauley Bridge, and reasons therefor.
+&emsp;(iv) the feasibility and suitability of including within the boundaries of the nationalriver, the section of the New River from Fayetteville to Gauley Bridge, and reasons therefor.
 
 (Pub. L. 95–625, title XI, §1103, Nov. 10, 1978, 92 Stat. 3546.)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

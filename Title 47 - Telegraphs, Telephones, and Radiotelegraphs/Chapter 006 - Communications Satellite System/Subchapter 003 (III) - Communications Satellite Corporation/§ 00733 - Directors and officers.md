@@ -27,7 +27,7 @@ The corporation shall have a president, and such other officers as may be named 
 
 1994—Subsec. (a). Pub. L. 103–414 substituted “section 327(d)” for “section 27(d)”, “sec. 29–327(d)” for “sec. 29–911(d)”, “section 336” for “section 36”, and “section 29–336(d)” for “sec. 29–916d”.
 
-1969—Subsec. (a). Pub. L. 91–3 specified number of directors on the board at fifteen, substituted provisions that three members appointed by the President servefor a term of three years each for provisions that such appointees serve terms of one, two, and three years, respectively, set forth formula authorizing election of directors by carriers and noncarriers to be based upon their respective percentage of ownership of the outstanding capital stock, provided a method for amending, altering, changing, or repealing the articles of incorporation, and authorized board to adopt bylaws permitting the corporation to transact business in future national emergencies.
+1969—Subsec. (a). Pub. L. 91–3 specified number of directors on the board at fifteen, substituted provisions that three members appointed by the President serve for a term of three years each for provisions that such appointees serve terms of one, two, and three years, respectively, set forth formula authorizing election of directors by carriers and noncarriers to be based upon their respective percentage of ownership of the outstanding capital stock, provided a method for amending, altering, changing, or repealing the articles of incorporation, and authorized board to adopt bylaws permitting the corporation to transact business in future national emergencies.
 
 #### Meeting of Board Subsequent to March 12, 1969, for Election of Directors; Term of Office
 

@@ -66,7 +66,7 @@ The Chairman of the Council shall enter into an agreement with the National Rese
 
 In developing the Plan, the Committee shall consult with academic, State, industry, and environmental groups and representatives. Not later than 90 days before the Chairman of the Council submits the Plan, or any revision thereof, to the Congress, a summary of the proposed Plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
-(Pub. L. 101 606, title I, §104, Nov. 16, 1990, 104 Stat. 3099.)
+(Pub. L. 101–606, title I, §104, Nov. 16, 1990, 104 Stat. 3099.)
 
 #### Section Referred to in Other Sections
 

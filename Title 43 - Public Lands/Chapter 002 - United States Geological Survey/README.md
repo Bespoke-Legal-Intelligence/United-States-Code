@@ -5,7 +5,6 @@
 | [31\.](%C2%A7%2000031%20-%20Director%20of%20United%20States%20Geological%20Survey.md) | Director of United States Geological Survey. |
 | (a) | Establishment of office; appointment and duties; examination of geological structure, mineral resources, and products of national domain; prohibitions in respect to lands and surveys. |
 | (b) | Examination of geological structure, mineral resources, and products outside national domain. |
-| (c) | Annual report to Congress. |
 | [31a.](%C2%A7%2000031a%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | (a) | Findings. |
 | (b) | Purpose. |

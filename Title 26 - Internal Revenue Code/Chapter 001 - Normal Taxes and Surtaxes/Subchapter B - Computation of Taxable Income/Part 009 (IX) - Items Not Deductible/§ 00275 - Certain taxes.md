@@ -40,7 +40,7 @@ The Federal Insurance Contributions Act, referred to in subsec. (a)(1)(A), is ac
 
 #### Codification
 
-Pub. L. 95–600, §701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, §701(t)(5), set out as an Effective Date of1978 Amendment note under section 859 of this title) repealed §1605(b)(1) of Pub. L. 94–455, cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by §1307(d)(2)(A) of Pub. L. 94–455.
+Pub. L. 95–600, §701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, §701(t)(5), set out as an Effective Date of 1978 Amendment note under section 859 of this title) repealed §1605(b)(1) of Pub. L. 94–455, cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by §1307(d)(2)(A) of Pub. L. 94–455.
 
 #### Amendments
 

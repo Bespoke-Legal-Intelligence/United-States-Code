@@ -4,8 +4,6 @@
 
 This subchapter is referred to in section 8148 of this title; title 16 section 742<i>l</i>; title 18 section 1920; title 25 section 2804.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(33 U.S.C. 902(2)),”.</i>
-
 
 ---
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) a joint resolution of the two Houses of Congress, the matter after the resolving clause of which is as follows: “That the Congress does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.”, with the first blank space being filled in accordance with paragraph (2), and the second blank space being filled with the appropriate date.
 
-(2) The first blank space referred to in paragraph (1)(B) shall be filled as follows: in the caseof a resolution referred to in section 2437(c)(2) of this title, with the phrase “the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_” (with the first blank space being filled with “402(b)” or “409(b)”, as appropriate, and the second blank space being filled with the name of the country involved).
+(2) The first blank space referred to in paragraph (1)(B) shall be filled as follows: in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase “the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_” (with the first blank space being filled with “402(b)” or “409(b)”, as appropriate, and the second blank space being filled with the name of the country involved).
 
 #### (b) Reference to committees
 

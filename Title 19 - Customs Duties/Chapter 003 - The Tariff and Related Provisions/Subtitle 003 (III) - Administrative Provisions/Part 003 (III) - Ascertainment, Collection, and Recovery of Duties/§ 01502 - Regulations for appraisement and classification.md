@@ -12,13 +12,13 @@ It shall be the duty of all officers of the customs to execute and carry into ef
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42 Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42 Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. §2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to the next session of Congress, were contained in R.S. §2949. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-Provisions similar to those of subsec. (b) of this section, except that reversal or modification was permitted in concurrence with a judicial decision of a circuit or district court, instead of a final decision of the Board of General Appraisers, were contained in act Mar. 3, 1875, ch. 136, §2, 18 Stat. 469, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Provisions similar to those in subsec. (b) of this section, except that reversal or modification was permitted in concurrence with a judicial decision of a circuit or district court, instead of a final decision of the Board of General Appraisers, were contained in act Mar. 3, 1875, ch. 136, §2, 18 Stat. 469, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-Provisions almost identical with those of subsec. (c) of this section were contained in R.S. §2652, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provisions almost identical with those in subsec. (c) of this section were contained in R.S. §2652, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ It shall be unlawful for any person, directly or indirectly, by the use of the m
 
 &emsp;(3) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any one or more persons conducted for the purpose of raising or depressing the prices of such security.
 
-&emsp;(4) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to make, regarding any security registered on a national securities exchange, for the purpose of inducing the purchase or sale of such security, anystatement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which he knew or had reasonable ground to believe was so false or misleading.
+&emsp;(4) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to make, regarding any security registered on a national securities exchange, for the purpose of inducing the purchase or sale of such security, any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which he knew or had reasonable ground to believe was so false or misleading.
 
 &emsp;(5) For a consideration, received directly or indirectly from a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.
 
@@ -54,7 +54,7 @@ It shall be unlawful for any person, by the use of the mails or any means or ins
 
 &emsp;(2) to prohibit or constrain, during periods of extraordinary market volatility, any trading practice in connection with the purchase or sale of equity securities that the Commission determines (A) has previously contributed significantly to extraordinary levels of volatility that have threatened the maintenance of fair and orderly markets; and (B) is reasonably certain to engender such levels of volatility if not prohibited or constrained.
 
-> In adopting rules under paragraph (2), the Commission shall, consistent with the purposes ofthis subsection, minimize the impact on the normal operations of the market and a natural person's freedom to buy or sell any equity security.
+> In adopting rules under paragraph (2), the Commission shall, consistent with the purposes of this subsection, minimize the impact on the normal operations of the market and a natural person's freedom to buy or sell any equity security.
 
 (June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Oct. 13, 1982, Pub. L. 97–303, §3, 96 Stat. 1409; Oct. 16, 1990, Pub. L. 101–432, §6(a), 104 Stat. 975.)
 

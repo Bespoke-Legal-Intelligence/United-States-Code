@@ -1,0 +1,28 @@
+### §6993. Transfer of functions
+
+There are transferred to the Division all functions exercised and all administrative appeals pending before the effective date of this subchapter (including all related functions of any officer or employee) of or relating to—
+
+&emsp;(1) the National Appeals Division established by section 1433e(c) <sup>1</sup> of this title (as in effect on the day before October 13, 1994);
+
+&emsp;(2) the National Appeals Division established by subsections (d) through (g) of section 1983b <sup>1</sup> of this title (as in effect on the day before October 13, 1994);
+
+&emsp;(3) appeals of decisions made by the Federal Crop Insurance Corporation; and
+
+&emsp;(4) appeals of decisions made by the Soil Conservation Service (as in effect on the day before October 13, 1994).
+
+(Pub. L. 103–354, title II, §273, Oct. 13, 1994, 108 Stat. 3230.)
+
+#### References in Text
+
+The effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 103–354, which was approved Oct. 13, 1994.
+
+Section 1433e of this title, referred to in par. (1), was repealed by Pub. L. 103–354, title II, §281(b), Oct. 13, 1994, 108 Stat. 3233.
+
+Section 1983b of this title, referred to in par. (2), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6912 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

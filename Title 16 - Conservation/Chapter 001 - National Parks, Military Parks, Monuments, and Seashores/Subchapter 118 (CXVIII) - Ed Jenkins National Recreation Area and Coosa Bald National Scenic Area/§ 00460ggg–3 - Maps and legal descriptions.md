@@ -1,4 +1,4 @@
-### §460ggg–3 . Maps and legal descriptions
+### §460ggg–3. Maps and legal descriptions
 
 As soon as practicable after December 11, 1991, the Secretary of Agriculture shall file a map and a legal description of each area designated by this subchapter with the Committee on Natural Resources and the Committee on Agriculture of the House of Representatives and with the Committee on Agriculture, Nutrition, and Forestry of the Senate. Each such map and description shall have the same force and effect as if included in this subchapter, except that correction of clerical and typographical errors in each such map and description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
@@ -10,5 +10,5 @@ As soon as practicable after December 11, 1991, the Secretary of Agriculture sha
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -18,9 +18,9 @@ When required by regulations prescribed by the Secretary:
 
 #### (4) Furnishing identifying number of income tax return preparer
 
-&emsp;Any return or claim for refund prepared by an income tax return preparer shall bear such identifying number for securing proper identification of such preparer, his employer, or both, as may be prescribed. For purposes of this paragraph, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e).
+&emsp;Any return or claim for refund prepared by an income tax return preparer shall bear suchidentifying number for securing proper identification of such preparer, his employer, or both, as may be prescribed. For purposes of this paragraph, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e).
 
-> For purposes of this subsection, the identifying number of an individual (or his estate) shall besuch individual's social security account number.
+> For purposes of this subsection, the identifying number of an individual (or his estate) shall be such individual's social security account number.
 
 #### (b) Limitation
 
@@ -102,7 +102,7 @@ Any taxpayer who claims an exemption under section 151 for any dependent on a re
 
 Section 205 of the Social Security Act, referred to in subsec. (d), is classified to section 405 of Title 42, The Public Health and Welfare.
 
-The Food Stamp Act of 1977, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification ofthis Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (f), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of Title 7. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 

@@ -16,7 +16,7 @@ As used in this chapter, the term—
 
 &emsp;(7) “environmentally sound” methods, efforts, actions or programs means methods, efforts, actions or programs to prevent introductions or control infestations of aquatic nuisance species that minimize adverse impacts to the structure and function of an ecosystem and adverse effects on non-target organisms and ecosystems and emphasize integrated pest management techniques and nonchemical measures;
 
-&emsp;(8) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canandian <sup>1</sup> Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
+&emsp;(8) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St.Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canandian <sup>1</sup> Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
 
 &emsp;(9) “nonindigenous species” means any species or other viable biological material that enters an ecosystem beyond its historic range, including any such organism transferred from one country into another;
 
@@ -48,9 +48,9 @@ Presidential Proclamation Number 5928, referred to in par. (12), is set out unde
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives in case of provisions relating to matters other than inspection of seafood and seafood products, interoceanic canals, Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine, fisheries, wildlife, international fishing agreements, marine affairs or oceanography, and marine research, by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -24,7 +24,7 @@ Encoding of Information on Digital Musical Recordings.—
 
 &emsp;(1)
 
-Prohibition on encoding inaccurate information.—No person shall encode a digital musical recording of a sound recording withinaccurate information relating to the category code, copyright status, or generation status of the source material for the recording.
+Prohibition on encoding inaccurate information.—No person shall encode a digital musical recording of a sound recording with inaccurate information relating to the category code, copyright status, or generation status of the source material for the recording.
 
 &emsp;(2)
 
@@ -38,5 +38,5 @@ Information Accompanying Transmissions in Digital Format.—Any person who trans
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1009, 1010 of this title.
+This section is referred to in sections 114, 115, 1009, 1010 of this title.
 

@@ -40,7 +40,7 @@ If an individual, who received services for which payment may be made to such in
 
 &emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
-&emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under thissubchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
+&emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
 
 &emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Secretary to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
@@ -62,7 +62,7 @@ If an individual who received medical and other health services for which paymen
 
 If an individual, who is enrolled under section 1395i–2(c) of this title or under section 1395p of this title, dies, and premiums with respect to such enrollment have been received with respect to such individual for any month after the month of his death, such premiums shall be refunded to the person or persons determined by the Secretary under regulations to have paid such premiums or if payment for such premiums was made by the deceased individual before his death, to the legal representative of the estate of such deceased individual, if any. If there is no person who meets the requirements of the preceding sentence such premiums shall be refunded to the person or persons in the priorities specified in paragraphs (2) through (7) of subsection (e) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1870, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 331; amended Jan. 2, 1968, Pub. L. 90–248, title I, §154(b), (c), 81 Stat. 862; Oct. 30, 1972, Pub. L. 92–603, title II, §§261(a), 266, 281(a), (b), 86 Stat. 1448, 1450, 1454, 1455; Oct. 16, 1974, Pub. L. 93–445, title III, §309, 88 Stat. 1358; Dec. 5, 1980, Pub. L. 96–499, title IX, §954(a), 94 Stat. 2647; Sept. 3, 1982, Pub. L. 97–248, title I, §128(d)(1), 96 Stat. 367; Dec, 22, 1987, Pub. L. 100–203, title IV, §§4039(h)(7), 4096(a)(2), 101 Stat. 1330–139, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), 102 Stat. 776; July 1, 1988, Pub. L. 100–360, title IV, §411(j)(4)(B), 102 Stat. 791.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1870, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 331; amended Jan. 2, 1968, Pub. L. 90–248, title I, §154(b), (c), 81 Stat. 862; Oct. 30, 1972, Pub. L. 92–603, title II, §§261(a), 266, 281(a), (b), 86 Stat. 1448, 1450, 1454, 1455; Oct. 16, 1974, Pub. L. 93–445, title III, §309, 88 Stat. 1358; Dec. 5, 1980, Pub. L.96–499, title IX, §954(a), 94 Stat. 2647; Sept. 3, 1982, Pub. L. 97–248, title I, §128(d)(1), 96 Stat. 367; Dec, 22, 1987, Pub. L. 100–203, title IV, §§4039(h)(7), 4096(a)(2), 101 Stat. 1330–139, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), 102 Stat. 776; July 1, 1988, Pub. L. 100–360, title IV, §411(j)(4)(B), 102 Stat. 791.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Subsecs. (e), (f). Pub. L. 90–248, §154(c), added subsecs. (e) and (f).
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

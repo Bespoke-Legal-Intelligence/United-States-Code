@@ -6,7 +6,39 @@
 
 (c) For purposes of section 6103(j)(1) of the Internal Revenue Code of 1986, the conducting of the quarterly financial report program under this section shall be considered as the conducting of a related statistical activity authorized by law.
 
-(Added Pub. L. 97–454, §1(a)(2), Jan. 12, 1983, 96 Stat. 2494; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(d)(1) The Secretary shall not select an organization or entity for participation in a survey, if—
+
+&emsp;(A) the organization or entity—
+
+&emsp;&emsp;(i) has assets of less than $50,000,000;
+
+&emsp;&emsp;(ii) completed participation in a prior survey in the preceding 10-year period, as determined by the Secretary; and
+
+&emsp;&emsp;(iii) was selected for that prior survey participation after September 30, 1990; or
+
+&emsp;(B) the organization or entity—
+
+&emsp;&emsp;(i) has assets of more than $50,000,000 and less than $100,000,000;
+
+&emsp;&emsp;(ii) completed participation in a prior survey in the preceding 2-year period, as determined by the Secretary; and
+
+&emsp;&emsp;(iii) was selected for that prior survey participation after September 30, 1995.
+
+(2)(A) The Secretary shall furnish advice and similar assistance to ease the burden of a small business concern which is attempting to compile and furnish the business information required of organizations and entities participating in the survey.
+
+(B) To facilitate the provision of the assistance under subparagraph (A), the Secretary shall establish a toll-free telephone number.
+
+(C) The Secretary shall expand the use of statistical sampling techniques to select organizations and entities having assets less than $100,000,000 to participate in the survey.
+
+(3) The Secretary may undertake such additional paperwork burden reduction initiatives with respect to the conduct of the survey as may be deemed appropriate by the Secretary.
+
+(4) For purposes of this subsection:
+
+&emsp;(A) The term “small business concern” means a business concern that meets the requirements of section 3(a) of the Small Business Act and the regulations promulgated pursuant thereto.
+
+&emsp;(B) The term “survey” means the collection of information by the Secretary pursuant to this section for the purpose of preparing the publication entitled “Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations”.
+
+(Added Pub. L. 97–454, §1(a)(2), Jan. 12, 1983, 96 Stat. 2494; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–13, §3, May 22, 1995, 109 Stat. 184.)
 
 #### Termination of Section
 
@@ -20,15 +52,23 @@ Section 6(b) of the Federal Trade Commission Act, referred to in subsec. (b), is
 
 Section 6103(j)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 6103(j)(1) of Title 26, Internal Revenue Code.
 
+Section 3(a) of the Small Business Act, referred to in subsec. (d)(4)(A), is classified to section 632(a) of Title 15, Commerce and Trade.
+
 #### Amendments
 
+1995—Subsec. (d). Pub. L. 104–13 added subsec. (d).
+
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–13 effective Oct. 1, 1995, see section 4(a) of Pub. L. 104–13, set out as an Effective Date note under section 3501 of Title 44, Public Printing and Documents.
 
 #### Effective and Termination Date; Report to Congress
 
 Section 4 of Pub. L. 97–454, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030, provided that:
 
-“(a) This Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
+“(a) This Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 ofthis title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
 
 “(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 1998.
 

@@ -96,6 +96,8 @@ July 31, 1953, ch. 302, title I, 67 Stat. 299.
 
 July 5, 1952, ch. 578, title I, 66 Stat. 395.
 
+Aug. 31, 1951, ch. 376, title I, 65 Stat. 269.
+
 #### Cross References
 
 Travel and transportation allowances to officers of the Army, see section 401 et seq. of Title 37, Pay and Allowances of the Uniformed Services.

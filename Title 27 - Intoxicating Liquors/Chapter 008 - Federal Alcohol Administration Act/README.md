@@ -40,7 +40,7 @@
 | (b) | Conditions of lawfully taking office. |
 | (c) | “Company” defined. |
 | (d) | Penalty. |
-| 209, 210. Omitted. |  |
+| 209, 210. | Omitted. |
 | [211\.](Subchapter%20001%20%28I%29%20-%20Federal%20Alcohol%20Administration/%C2%A7%2000211%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
 | (a) | Definitions. |
 | (b) | Right to amend or repeal. |

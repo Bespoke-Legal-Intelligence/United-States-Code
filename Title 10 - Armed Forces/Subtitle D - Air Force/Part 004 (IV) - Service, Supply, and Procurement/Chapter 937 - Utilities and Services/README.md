@@ -2,9 +2,9 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 9591\. | Utilities: proceeds from overseas operations. |
-| 9592\. | Radiograms and telegrams: forwarding charges due connecting commercial facilities. |
-| 9593\. | Quarters: heat and light. |
+| [9591\.](%C2%A7%2009591%20-%20Utilities%20proceeds%20from%20overseas%20operations.md) | Utilities: proceeds from overseas operations. |
+| [9592\.](%C2%A7%2009592%20-%20Radiograms%20and%20telegrams%20forwarding%20charges%20due%20connecting%20commercial%20facilities.md) | Radiograms and telegrams: forwarding charges due connecting commercial facilities. |
+| [9593\.](%C2%A7%2009593%20-%20Quarters%20heat%20and%20light.md) | Quarters: heat and light. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 ### §151. Issue of patent
 
-If it appears that applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum,constituting the issue fee or a portion thereof, which shall be paid within three months thereafter.
+If it appears that applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee or a portion thereof, which shall be paid within three months thereafter.
 
 Upon payment of this sum the patent shall issue, but if payment is not timely made, the application shall be regarded as abandoned.
 

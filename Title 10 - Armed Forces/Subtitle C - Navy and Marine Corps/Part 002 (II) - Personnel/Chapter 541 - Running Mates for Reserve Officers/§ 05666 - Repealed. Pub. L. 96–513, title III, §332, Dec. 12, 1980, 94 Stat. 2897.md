@@ -1,4 +1,4 @@
-### \[§5666 . Repealed. Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897\]
+### \[§5666. Repealed. Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 336, provided that appointments for limited duration would not be considered for purposes of the chapter.
 

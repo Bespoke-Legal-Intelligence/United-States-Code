@@ -6,7 +6,7 @@ The United States Governor of the Bank is hereby authorized to vote in favor of 
 
 #### (b) Authorization of appropriations
 
-There is hereby authorized to be appropriated without fiscal year limitation, for the UnitedStates share in the increase in the resources of the Fund for Special Operations of the Bank, the sum of $900,000,000.
+There is hereby authorized to be appropriated without fiscal year limitation, for the United States share in the increase in the resources of the Fund for Special Operations of the Bank, the sum of $900,000,000.
 
 #### (c) Loan disapproval by the United States
 

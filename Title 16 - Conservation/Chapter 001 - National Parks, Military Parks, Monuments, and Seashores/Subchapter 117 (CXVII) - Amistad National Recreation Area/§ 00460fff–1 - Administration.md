@@ -1,4 +1,4 @@
-### §460fff–1 . Administration
+### §460fff–1. Administration
 
 #### (a) In general
 
@@ -36,11 +36,11 @@ For purposes of administering the recreation area, the Secretary may enter into 
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4469, which enacted this subchapter, subchapters CXV (§460ddd) and CXVI (§460eee et seq.) of this chapter, chapter 65 (§4601 et seq.) of this title, and sections 1a–9 to 1a–13 of this title, amended sections 410ee, 463, 1274, and 1276 of this title, enacted provisions set out as notes under sections 1a–5, 1132, and 1271 of this title and section 1522 of Title 43, Public Lands, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4469, which enacted this subchapter, subchapters CXV (§460ddd) and CXVI (§460eee et seq.) of this chapter, chapter 65 (§4601 et seq.) of this title, and sections 1a–9 to 1a–13 of this title, amended sections 410ee, 463, 1274, and 1276 of this title, enactedprovisions set out as notes under sections 1a–5, 1132, and 1271 of this title and section 1522 of Title 43, Public Lands, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

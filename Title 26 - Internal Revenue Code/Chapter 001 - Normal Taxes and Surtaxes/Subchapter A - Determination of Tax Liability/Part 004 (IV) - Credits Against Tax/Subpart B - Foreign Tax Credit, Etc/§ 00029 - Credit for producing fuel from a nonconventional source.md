@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979.The term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
+&emsp;&emsp;The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
 
 #### (C) Reference price
 
@@ -206,7 +206,7 @@ This section shall apply with respect to qualified fuels—
 
 #### References in Text
 
-The Natural Gas Policy Act of 1978, referred to in subsecs. (c)(2)(A), (B)(i) and (e), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of Title 15, Commerce and Trade. Subtitle B of title I of the Act, which was classified generally to part B of subchapter I (§3331 et seq.) of chapter 60 of Title 15, was repealed by Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158, effective Jan. 1,1993. Section 2(18) of the Act is classified to section 3301(18) of Title 15. Sections 107 and 503 of the Act, which were classified to sections 3317 and 3413 of Title 15, respectively, were repealed by Pub. L. 101–60, §§2(b), 3(b)(5), July 26, 1989, 103 Stat. 158, 159, effective Jan. 1, 1993. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 15 and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsecs. (c)(2)(A), (B)(i) and (e), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of Title 15, Commerce and Trade. Subtitle B of title I of the Act, which was classified generally to part B of subchapter I (§3331 et seq.) of chapter 60 of Title 15, was repealed by Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158, effective Jan. 1, 1993. Section 2(18) of the Act is classified to section 3301(18) of Title 15. Sections 107 and 503 of the Act, which were classified to sections 3317 and 3413 of Title 15, respectively, were repealed by Pub. L. 101–60, §§2(b), 3(b)(5), July 26, 1989, 103 Stat. 158, 159, effective Jan. 1, 1993. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 15 and Tables.
 
 The date of the enactment of this clause, and such date of enactment, referred to in subsec. (c)(2)(B), probably mean the date of enactment of Pub. L. 101–508, which amended subsec. (c)(2)(B) of this section generally, and which was approved Nov. 5, 1990.
 
@@ -246,7 +246,7 @@ Election.—A taxpayer shall elect, at such time and in such manner as the Secre
 
 Subsec. (c)(5). Pub. L. 101–508, §11816(b)(1), struck out par. (5) “Agricultural byproduct steam” which read as follows: “Steam produced from solid agricultural byproducts which is used by the taxpayer in his trade or business shall be treated as having been sold by the taxpayer to an unrelated person on the date on which it is used.”
 
-Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out “Special rules applicable to” before “Gas” in heading, redesignating former subpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
+Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out “Special rules applicable to” before “Gas” in heading, redesignating formersubpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
 
 Subsec. (d)(5), (6). Pub. L. 101–508, §11816(b)(3), (4), redesignated par. (6) as (5), substituted “subparagraph (C)” for “subparagraph (C), (D), or (E)”, and struck out former par. (5) which read as follows: “In the case of a facility for the production of—
 
@@ -286,7 +286,7 @@ Pub. L. 98–369, §474(h), amended par. (5) generally, substituting “shall no
 
 1982—Subsec. (d)(9). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
-1981—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Actof 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
+1981—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
 
 #### Effective Date of 1990 Amendment
 
@@ -328,7 +328,7 @@ Section 722(d)(3) of Pub. L. 98–369 provided that: “The amendments made by t
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223 to which such amendment relates, see section 203(a) of Pub. L. 97–448, set out as a note under section 6652 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223 to which such amendment relates,see section 203(a) of Pub. L. 97–448, set out as a note under section 6652 of this title.
 
 #### Effective Date of 1982 Amendment
 

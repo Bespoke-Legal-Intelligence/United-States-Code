@@ -10,7 +10,7 @@ The accounts of the corporation shall be audited annually. Such audits shall be 
 
 #### (c) Additional audits by General Accounting Office
 
-In addition to the annual audit, the financial transactions of the corporation for any fiscal year during which Federal funds are available to finance any portion of its operations may be audited by the General Accounting Office in accordance with such rules and regulations as may be prescribed by the Comptroller General of the United States. The financial transactions of the corporation shall be audited by the General Accounting Office at least once during each three years.
+In addition to the annual audit, the financial transactions of the corporation for any fiscal year during which Federal funds are available to finance any portion of its operations may be audited by the General Accounting Office in accordance with such rules and regulations as may be prescribed by the Comptroller General of the United States.
 
 #### (d) Audit of grantees and contractors of corporation
 
@@ -20,17 +20,13 @@ For any fiscal year during which Federal funds are available to finance any port
 
 The corporation shall conduct or require each grantee or contractor to provide for an annual financial audit. The report of each such audit shall be maintained for a period of at least five years at the principal office of the corporation.
 
-(Pub. L. 95–557, title VI, §607, Oct. 31, 1978, 92 Stat. 2118.)
+(Pub. L. 95–557, title VI, §607, Oct. 31, 1978, 92 Stat. 2118; Pub. L. 104–66, title II, §2161, Dec. 21, 1995, 109 Stat. 731.)
+
+#### Amendments
+
+1995—Subsec. (c). Pub. L. 104–66 struck out at end “The financial transactions of the corporation shall be audited by the General Accounting Office at least once during each three years.”
 
 #### National Demonstration Program of Mutual Housing Associations; Report to Congress
 
-Pub. L. 96–399, title III, §316, Oct. 8, 1980, 94 Stat. 1645, provided that:
-
-“(a) The Congress—
-
-&emsp;“(1) recognizes the significant potential of mutual housing associations for helping make multifamily housing in the United States more affordable; and
-
-&emsp;“(2) commends and encourages the efforts being made in connection with the national demonstration program of mutual housing associations being undertaken by the Neighborhood Reinvestment Corporation and the National Consumer Cooperative Bank with the cooperation of the Department of Housing and Urban Development.
-
-“(b) The Neighborhood Reinvestment Corporation, in conjunction with the National Consumer Cooperative Bank and the Secretary of Housing and Urban Development, shall transmit a report to the Congress on the findings and conclusions reached as a result of the demonstration program described in subsection (a)(2), together with legislative recommendations, not later than September 30, 1981.”
+Pub. L. 96–399, title III, §316, Oct. 8, 1980, 94 Stat. 1645, directed submission to Congress, not later than Sept. 30, 1981, of report by Neighborhood Reinvestment Corporation, in conjunction with the National Consumer Cooperative Bank and the Secretary of Housing and Urban Development, on the findings, conclusions, and legislative recommendations reached as a result of the national demonstration program of mutual housing associations.
 

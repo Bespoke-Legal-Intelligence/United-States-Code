@@ -12,9 +12,9 @@ To promote greater certainty regarding the application of the antitrust laws to 
 
 Section 553 of title 5 shall not apply to the issuance of guidelines under subsection (a) of this section.
 
-(Pub. L. 97 290, title III, §307, Oct. 8, 1982, 96 Stat. 1244.)
+(Pub. L. 97–290, title III, §307, Oct. 8, 1982, 96 Stat. 1244.)
 
 #### Effective Date
 
-Section effective Oct. 8, 1982, see section 312 of Pub. L. 97 290, set out as a note under section 4011 of this title.
+Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 

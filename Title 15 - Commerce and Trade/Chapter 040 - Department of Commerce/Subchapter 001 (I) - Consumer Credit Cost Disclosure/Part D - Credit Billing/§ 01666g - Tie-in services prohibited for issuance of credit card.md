@@ -2,5 +2,5 @@
 
 Notwithstanding any agreement to the contrary, a card issuer may not require a seller, as a condition to participating in a credit card plan, to open an account with or procure any other service from the card issuer or its subsidiary or agent.
 
-(Pub. L. 90 321, title I, §168, as added Pub. L. 93 495, title III, §306, Oct. 28, 1974, 88 Stat. 1515.)
+(Pub. L. 90–321, title I, §168, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1515.)
 

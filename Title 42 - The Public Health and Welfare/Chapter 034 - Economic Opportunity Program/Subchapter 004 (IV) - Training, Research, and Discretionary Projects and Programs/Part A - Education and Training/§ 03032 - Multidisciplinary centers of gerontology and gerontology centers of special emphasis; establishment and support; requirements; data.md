@@ -12,7 +12,7 @@
 
 &emsp;(5) serve as a repository of information and knowledge on aging;
 
-&emsp;(6) provide consultation and information to public and voluntary organizations, includingState agencies and area agencies on aging, which serve the needs of older individuals in planning and developing services provided under other provisions of this chapter; and
+&emsp;(6) provide consultation and information to public and voluntary organizations, including State agencies and area agencies on aging, which serve the needs of older individuals in planning and developing services provided under other provisions of this chapter; and
 
 &emsp;(7) if appropriate, provide information relating to assistive technology.
 

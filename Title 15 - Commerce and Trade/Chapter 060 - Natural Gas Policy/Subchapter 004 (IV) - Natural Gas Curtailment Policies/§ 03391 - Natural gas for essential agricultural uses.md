@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) uses natural gas in any other use the curtailment of which the Secretary of Energy determines would endanger life, health, or maintenance of physical property.
 
-(Pub. L. 95 621, title IV, §401, Nov. 9, 1978, 92 Stat. 3394.)
+(Pub. L. 95–621, title IV, §401, Nov. 9, 1978, 92 Stat. 3394.)
 
 #### Section Referred to in Other Sections
 

@@ -108,7 +108,7 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 (I) The Commission may establish rules of conduct and other regulations governing the service of individuals under this paragraph.
 
-(J) With respect to the acceptance of voluntary uncompensated services for the preparation, processing, or administration of examinations for amateur station operator licenses pursuant to subparagraph (A) or (B) of this paragraph, individuals, or organizations which provide or coordinate such authorized volunteer services may recover from examinees reimbursement for out-of-pocket costs. The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index. Such individuals and organizations shall maintain records of out-of-pocket expenditures and shall certify annually to the Commission that all costs for which reimbursement was obtained were necessarily and prudently incurred.
+(J) With respect to the acceptance of voluntary uncompensated services for the preparation, processing, or administration of examinations for amateur station operator licenses pursuant to subparagraph (A) or (B) of this paragraph, individuals, or organizations which provide or coordinate such authorized volunteer services may recover from examinees reimbursement for out-of-pocket costs. The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index.
 
 (5)(A) The Commission, for purposes of preparing and administering any examination for a commercial radio operator license or endorsement, may accept and employ the services of persons that the Commission determines to be qualified. Any person so employed may not receive compensation for such services, but may recover from examinees such fees as the Commission permits, considering such factors as public service and cost estimates submitted by such person.
 
@@ -186,7 +186,7 @@ Rates of compensation of persons appointed under this section shall be subject t
 
 For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
 
-(June 19, 1934, ch. 652, title I, §4, 48 Stat. 1066; Jan. 22, 1936, ch. 25, 49 Stat. 1098; May 20, 1937, ch. 229, §§3, 4, 50 Stat. 190; Mar. 23, 1941, ch. 24, 55 Stat. 46; July 16, 1952, ch. 879, §3, 66 Stat. 711; Aug. 13, 1954, ch. 735, §2, 68 Stat. 729; June 29, 1960, Pub. L. 86–533, §1(24), 74 Stat. 249; July 12, 1960, Pub. L. 86–619, §2, 74 Stat. 407; Sept. 13, 1960, Pub. L. 86–752, §2, 74 Stat. 889; Aug. 13, 1981, Pub. L. 97–35, title XII, §1251(b), 95 Stat. 738; Sept. 8, 1982, Pub. L. 97–253, title V, §501(b)(1)–(3), 96 Stat. 805, 806; Sept. 13, 1982, Pub. L. 97–259, title I, §§102–104, 96 Stat. 1087–1089; Dec. 8, 1983, Pub. L. 98–214, §§10, 11, 97 Stat. 1471; Apr. 7, 1986, Pub. L. 99–272, title V, §5002(b), 100 Stat. 118; June 6, 1986, Pub. L. 99–334, §1(a), 100 Stat. 513; Nov. 3, 1988, Pub. L. 100–594, §3, 102 Stat. 3021; Sept. 28, 1990, Pub. L. 101–396, §§3, 4, 104 Stat. 848, 849; Oct. 27, 1992, Pub. L. 102–538, title II, §§201, 208, 106 Stat. 3542, 3543; Oct. 25, 1994, Pub. L. 103–414, title III, §303(a)(1), 108 Stat. 4294.)
+(June 19, 1934, ch. 652, title I, §4, 48 Stat. 1066; Jan. 22, 1936, ch. 25, 49 Stat. 1098; May 20, 1937, ch. 229, §§3, 4, 50 Stat. 190; Mar. 23, 1941, ch. 24, 55 Stat. 46; July 16, 1952, ch. 879, §3, 66 Stat. 711; Aug. 13, 1954, ch. 735, §2, 68 Stat. 729; June 29, 1960, Pub. L. 86–533, §1(24), 74 Stat. 249; July 12, 1960, Pub. L. 86–619, §2, 74 Stat. 407; Sept. 13, 1960, Pub. L. 86–752, §2, 74 Stat. 889; Aug. 13, 1981, Pub. L. 97–35, title XII, §1251(b), 95 Stat. 738; Sept. 8, 1982, Pub. L. 97–253, title V, §501(b)(1)–(3), 96 Stat. 805, 806; Sept. 13, 1982, Pub. L. 97–259, title I, §§102–104, 96 Stat. 1087–1089; Dec. 8, 1983, Pub. L. 98–214, §§10, 11, 97 Stat. 1471; Apr. 7, 1986, Pub. L. 99–272, title V, §5002(b), 100 Stat. 118; June 6, 1986, Pub. L. 99–334, §1(a), 100 Stat. 513; Nov. 3, 1988, Pub. L. 100–594, §3, 102 Stat. 3021; Sept. 28, 1990, Pub. L. 101–396, §§3, 4, 104 Stat. 848, 849; Oct. 27, 1992, Pub. L. 102–538, title II, §§201, 208, 106 Stat. 3542, 3543; Oct. 25, 1994, Pub. L. 103–414, title III, §303(a)(1), 108 Stat. 4294; Dec. 21, 1995, Pub. L. 104–66, title II, §2051(b), 109 Stat. 729.)
 
 #### References in Text
 
@@ -196,7 +196,7 @@ The civil-service laws, referred to in subsec. (f)(1), (2), are set forth in Tit
 
 Part II of subchapter III of this chapter, referred to in subsec. (f)(3), is classified to section 351 et seq. of this title.
 
-For definition of Great Lakes Agreement, referred to in subsec. (f)(3), see section 153(ff) of this title andGreat Lakes Agreement note set out under that section.
+For definition of Great Lakes Agreement, referred to in subsec. (f)(3), see section 153(ff) of this title and Great Lakes Agreement note set out under that section.
 
 Provisions of part III of title 5, referred to in subsec. (f)(4)(F), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
 
@@ -209,6 +209,8 @@ In subsec. (f)(1), (2) “chapter 51 and subchapter III of chapter 53 of title 5
 In subsec. (f)(4)(F), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1995—Subsec. (f)(4)(J). Pub. L. 104–66 struck out at end “Such individuals and organizations shall maintain records of out-of-pocket expenditures and shall certify annually to the Commission that all costs for which reimbursement was obtained were necessarily and prudently incurred.”
 
 1994—Subsec. (f)(3). Pub. L. 103–414 substituted “overtime extends beyond” for “overtime exceeds beyond”.
 
@@ -276,7 +278,7 @@ Subsec. (k). Act July 16, 1952, §3(d), required Commission to make more detaile
 
 1941—Subsec. (f). Act Mar. 23, 1941, designated existing provisions as par. (1) and added par. (2).
 
-1937—Subsec. (k). Act May 20, 1937, inserted provisions that the Commission report to Congress annually at the beginning session of the Congress whether new wire or radio communication legislation is necessary and make specific recommendations thereof to Congress.
+1937—Subsec. (k). Act May 20, 1937, inserted provisions that the Commission report to Congress annually at the beginning session of the Congress whether new wire or radio communication legislation is necessaryand make specific recommendations thereof to Congress.
 
 Subsec. (<i>o</i>). Act May 20, 1937, added subsec. (<i>o).</i>
 

@@ -12,7 +12,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved—
 
-&emsp;(1) will expend not less than 20 percent for programs for individuals who do not require treatment for substance abuse, which programs—
+&emsp;(1) will expend not less than 20 percent for programs for individuals who do not requiretreatment for substance abuse, which programs—
 
 &emsp;&emsp;(A) educate and counsel the individuals on such abuse; and
 

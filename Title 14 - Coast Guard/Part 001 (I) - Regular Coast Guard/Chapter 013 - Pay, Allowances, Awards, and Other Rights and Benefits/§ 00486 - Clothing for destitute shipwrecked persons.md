@@ -1,6 +1,6 @@
 ### §486. Clothing for destitute shipwrecked persons
 
-The Coast Guard may furnish clothing and subsistence to destitute shipwrecked persons,and the Coast Guard may reimburse, in cash or in kind, Coast Guard personnel who furnish clothing and subsistence to destitute ship- wrecked persons.
+The Coast Guard may furnish clothing and subsistence to destitute shipwrecked persons, and the Coast Guard may reimburse, in cash or in kind, Coast Guard personnel who furnish clothing and subsistence to destitute ship- wrecked persons.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 534.)
 

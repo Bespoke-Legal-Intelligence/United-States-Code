@@ -80,7 +80,7 @@ Par. (5)(D). Pub. L. 103–432, §265(c), realigned margins.
 
 Par. (5)(D). Pub. L. 101–239, §8007(b), added subpar. (D).
 
-1988—Par. (5)(C). Pub. L. 100–647 inserted “and, in the case of a child who has attained age 16, the servicesneeded to assist the child to make the transition from foster care to independent living” after “long-term basis)”.
+1988—Par. (5)(C). Pub. L. 100–647 inserted “and, in the case of a child who has attained age 16, the services needed to assist the child to make the transition from foster care to independent living” after “long-term basis)”.
 
 1987—Par. (4). Pub. L. 100–203 designated existing provisions as subpar. (A) and added subpar. (B).
 

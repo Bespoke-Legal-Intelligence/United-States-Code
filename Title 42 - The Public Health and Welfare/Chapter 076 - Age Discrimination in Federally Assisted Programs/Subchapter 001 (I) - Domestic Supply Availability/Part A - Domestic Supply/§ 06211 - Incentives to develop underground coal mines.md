@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;(3) The term “low sulfur coal” means coal which, in a quantity necessary to produce one million British thermal units, does not contain sulfur or sulfur compounds the elemental sulfur content of which exceeds 0.6 pound. Sulfur content shall be determined after the application of any coal preparation process which takes place before sale of the coal by the producer.
 
-&emsp;(4) The term “developing new underground coal mine” includes expansion of any existing underground coal mine in a manner designed to increase the rate of production of such mine, and the reopening of any underground coal mine which had previously been closed. Such term also includes construction of a coalpreparation plant which is designed to reduce the sulfur content of coal produced from any coal mine.
+&emsp;(4) The term “developing new underground coal mine” includes expansion of any existing underground coal mine in a manner designed to increase the rate of production of such mine, and the reopening of any underground coal mine which had previously been closed. Such term also includes construction of a coal preparation plant which is designed to reduce the sulfur content of coal produced from any coal mine.
 
 #### (d) Rules and regulations
 

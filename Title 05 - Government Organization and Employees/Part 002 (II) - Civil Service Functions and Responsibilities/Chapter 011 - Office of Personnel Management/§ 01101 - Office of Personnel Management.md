@@ -22,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Appointment of Commissioners” in section catchline, and in text provisions relating to the establishment, etc., of the Office of Personnel Management for provisions relating to the appointment of members to the United States Civil Service Commission.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Appointment of Commissioners” in section catchline, and in text provisions relating to the establishment, etc., of the Office of Personnel Management for provisions relating to the appointment of members to the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(C) Notwithstanding any requirement referred to in subparagraph (A) or (B), for purposes of any Combined Federal Campaign—
 
-&emsp;“(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
+&emsp;“(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court forthe District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
 
 &emsp;“(ii) The Federal Employee Education and Assistance Fund,
 
@@ -142,7 +142,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributor indicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
 
-“(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combined Federal campaign organization code numbers corresponding to each such agency and group.
+“(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combinedFederal campaign organization code numbers corresponding to each such agency and group.
 
 “(B) The requirement under subparagraph (A) relating to the inclusion of program descriptions may, at the discretion of a local Federal coordinating committee, be waived for a local campaign in any year if, in the immediately preceding campaign year, contributions received through the local campaign totalled less than $100,000.
 
@@ -156,7 +156,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(12) The Office may bar from participation in the Combined Federal Campaign, for a period not to exceed 1 campaign year, any voluntary agency which the Office determines, in writing, and after notice and opportunity to submit written comments, did not comply with a reasonable request by the Office to furnish it with information relating to such agency's campaign accounting and auditing practices.
 
-“(c) For purposes of this section, a voluntary agency or federated group having ‘national eligibility’ is onewhich is eligible to participate in each local domestic combined Federal campaign.”
+“(c) For purposes of this section, a voluntary agency or federated group having ‘national eligibility’ is one which is eligible to participate in each local domestic combined Federal campaign.”
 
 #### Civil Service Reform Act of 1978 Findings and Statement of Purpose
 
@@ -220,7 +220,7 @@ There is hereby established as an independent establishment in the Executive Bra
 
 #### Sec. 102. Transfer of Functions
 
-Except as otherwise specified in this Plan, all functions vested by statute in the United States Civil Service Commission, or the Chairman of said Commission, or the Boards of Examiners established by 5 U.S.C. 1105are hereby transferred to the Director of the Office of Personnel Management.
+Except as otherwise specified in this Plan, all functions vested by statute in the United States Civil Service Commission, or the Chairman of said Commission, or the Boards of Examiners established by 5 U.S.C. 1105 are hereby transferred to the Director of the Office of Personnel Management.
 
 #### Sec. 103. Deputy Director and Associate Directors
 
@@ -286,7 +286,7 @@ The Board shall accept appeals from agency actions effected prior to the effecti
 
 #### Sec. 204. The Special Counsel
 
-(a) There shall be a Special Counsel to the Board appointed for a term of four years by the President by andwith the advice and consent of the Senate, who shall be compensated as now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
+(a) There shall be a Special Counsel to the Board appointed for a term of four years by the President by and with the advice and consent of the Senate, who shall be compensated as now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 
 (b) There are hereby transferred to the Special Counsel all functions with respect to investigations relating to violations of 5 U.S.C. Chapter 15; 5 U.S.C. Subchapter III of Chapter 73 (Political Activities); and 5 U.S.C. 552(a)(4)(F) (public information).
 
@@ -348,7 +348,7 @@ Unless and until modified, revised, or revoked, all policies, regulations, and p
 
 #### Sec. 307. Savings Provision
 
-All matters which relate to the functions transferred by Section 304 of this Plan, and which are pending on the effective date of the establishment of the Authority before the Federal Labor Relations Council, the Vice Chairman of the Civil Service Commission, or the Assistant Secretary of Labor for Labor-Management Relations shall continue before the Authority under such rules and procedures as the Authority shall prescribe. All such matters pending on the effective date of the establishment of the Authority before the Panel, shall continue before the Panel under such rules and procedures as the Panel shall prescribe.
+All matters which relate to the functions transferred by Section 304 of this Plan, and which are pending onthe effective date of the establishment of the Authority before the Federal Labor Relations Council, the Vice Chairman of the Civil Service Commission, or the Assistant Secretary of Labor for Labor-Management Relations shall continue before the Authority under such rules and procedures as the Authority shall prescribe. All such matters pending on the effective date of the establishment of the Authority before the Panel, shall continue before the Panel under such rules and procedures as the Panel shall prescribe.
 
 #### PART IV. GENERAL PROVISIONS
 
@@ -358,7 +358,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 #### Sec. 402. Interim Officers
 
-(a) The President may authorize any persons who, immediately prior to the effective date of this Plan,held positions in the Executive Branch of the Government, to act as Director of the Office of Personnel Management, the Deputy Director of the Office of Personnel Management, the Special Counsel, the Chairman and other members of the Federal Labor Relations Authority, the Chairman and other members of the Federal Service Impasses Panel, or the General Counsel of the Authority, until those offices are for the first time filled pursuant to the provisions of this Reorganization Plan or by recess appointment, as the case may be.
+(a) The President may authorize any persons who, immediately prior to the effective date of this Plan, held positions in the Executive Branch of the Government, to act as Director of the Office of Personnel Management, the Deputy Director of the Office of Personnel Management, the Special Counsel, the Chairman and other members of the Federal Labor Relations Authority, the Chairman and other members of the Federal Service Impasses Panel, or the General Counsel of the Authority, until those offices are for the first time filled pursuant to the provisions of this Reorganization Plan or by recess appointment, as the case may be.
 
 (b) The President may authorize any such person to receive the compensation attached to the Office in respect of which that person so serves, in lieu of other compensation from the United States.
 
@@ -398,7 +398,7 @@ The cost of replacing the Civil Service Commission can be paid by our present re
 
 Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
-I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
+I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed,more productive and more efficient Federal Government.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -666,7 +666,7 @@ by substituting for Rule V—Regulations, Investigations, and Enforcement, a new
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability,the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutional jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 

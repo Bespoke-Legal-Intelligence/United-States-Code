@@ -4,5 +4,5 @@
 
 (b) Any new spending authority (within the meaning of section 651 of title 2) which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as may be provided in appropriation Acts.
 
-(Pub. L. 98 373, title I, §111, July 31, 1984, 98 Stat. 1248.)
+(Pub. L. 98–373, title I, §111, July 31, 1984, 98 Stat. 1248.)
 

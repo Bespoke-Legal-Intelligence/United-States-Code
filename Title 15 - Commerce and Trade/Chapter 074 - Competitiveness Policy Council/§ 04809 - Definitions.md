@@ -10,5 +10,5 @@ For purposes of this chapter—
 
 &emsp;(4) the term “agent of a foreign principal” is defined as such term is defined under subsection (d) of section 611 of title 22 subject to the provisions of section 613 of title 22.
 
-(Pub. L. 100 418, title V, §5210, Aug. 23, 1988, 102 Stat. 1461.)
+(Pub. L. 100–418, title V, §5210, Aug. 23, 1988, 102 Stat. 1461.)
 

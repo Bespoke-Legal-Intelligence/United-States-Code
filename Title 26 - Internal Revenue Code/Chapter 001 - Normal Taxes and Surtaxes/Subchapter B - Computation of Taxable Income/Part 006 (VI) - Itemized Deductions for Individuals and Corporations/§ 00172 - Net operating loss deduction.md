@@ -28,7 +28,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (iii) REIT year
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “REIT year” means any taxable yearfor which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “REIT year” means any taxable year for which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
 
 #### (C) Specified liability losses
 
@@ -122,7 +122,7 @@ The modifications referred to in this section are as follows:
 
 &emsp;&emsp;(C) any deduction allowable under section 165(c)(3) (relating to casualty losses) shall not be taken into account; and
 
-&emsp;&emsp;(D) any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
+&emsp;&emsp;(D) any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaningof section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
 
 #### (5) Computation of deduction for dividends received, etc.
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (i) Plans to acquire stock
 
-&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation) with respect to another corporation shall be treated as 1 plan.
+&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation)with respect to another corporation shall be treated as 1 plan.
 
 #### (ii) Acquisitions during 24-month period
 
@@ -528,7 +528,7 @@ Subsec. (b)(3)(C)(ii), (iii). Pub. L. 94–455, §1906(b)(13)(A), struck out “
 
 Subsec. (b)(3)(E). Pub. L. 94–455, §§806(c), 1901(a)(29)(A)(ii), added subpar. (E). Former subpar. (E), which related to applicability of special rules in computing taxpayer's net operating loss deduction, was struck out.
 
-Subsec. (b)(3)(F). Pub. L. 94–455, §1901(a)(29)(A)(ii), struck out subpar. (F) which defined “class of products” and provided for the use of information compiled or published by Secretary of Commerce or manufacturers as prima facie evidence of the total number of units of such class of products manufactured and produced in the United States in a calendar year.
+Subsec. (b)(3)(F). Pub. L. 94–455, §1901(a)(29)(A)(ii), struck out subpar. (F) which defined “class of products” and provided for the use of information compiled or published by Secretary of Commerce or manufacturers as prima facie evidence of the total number of unitsof such class of products manufactured and produced in the United States in a calendar year.
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(29)(B), struck out “(for any taxable year ending after December 31, 1953)” after “means”.
 
@@ -606,7 +606,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 Binding contract exception.—The amendment made by subsection (a) shall not apply to any acquisition pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such acquisition.”
 
-Amendment by section 11701(d) of Pub. L. 101–508 effective, except as otherwise provided, as if included inthe provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11701(d) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 Section 11811(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to net operating losses for taxable years beginning after December 31, 1990.”
 
@@ -624,7 +624,7 @@ Exceptions.—In determining whether a corporate equity reduction transaction ha
 
 &emsp;“(A) acquisitions or redemptions of stock, or distributions with respect to stock, occurring on or before August 2, 1989,
 
-&emsp;“(B) acquisitions or redemptions of stock after August 2, 1989, pursuant to a binding written contract (or tender offer filed with the Securities and Exchange Commission) in effect on August 2, 1989, and at all times thereafter before such acquisition or redemption, or
+&emsp;“(B) acquisitions or redemptions of stock after August 2, 1989, pursuant to a binding written contract\(or tender offer filed with the Securities and Exchange Commission) in effect on August 2, 1989, and at all times thereafter before such acquisition or redemption, or
 
 &emsp;“(C) any distribution with respect to stock after August 2, 1989, which was declared on or before August 2, 1989.
 
@@ -790,7 +790,7 @@ Section 3(c) of Pub. L. 90–225 provided that: “The amendments made by subsec
 
 Section 210(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply in respect of foreign expropriation losses (as defined in section 172(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a)(5) of this section), sustained in taxable years ending after December 31, 1958.”
 
-Amendment by section 234(b)(5) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963,see section 234(c) of Pub. L. 88–272, set out as a note under section 1503 of this title.
+Amendment by section 234(b)(5) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 234(c) of Pub. L. 88–272, set out as a note under section 1503 of this title.
 
 #### Effective Date of 1962 Amendments
 

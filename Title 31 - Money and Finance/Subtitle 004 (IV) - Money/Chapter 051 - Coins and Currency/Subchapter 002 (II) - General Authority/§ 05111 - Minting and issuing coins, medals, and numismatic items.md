@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforceforfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -160,9 +160,13 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 1988—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
 
+#### Termination of Coinage Profit Fund and Coinage Metal Fund
+
+All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
+
 #### Award of Gold Medal to Rabbi Menachem Mendel Schneerson
 
-Pub. L. 103–457, Nov. 2, 1994, 108 Stat. 4799, authorized President to present on behalf of Congress, a goldmedal to the Lubavitcher rebbe, Rabbi Menachem Mendel Schneerson, in recognition of his outstanding and enduring contributions toward world education, morality, and acts of charity, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, provided that gifts or donations but not appropriations were to be used for this purpose, authorized Secretary to have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
+Pub. L. 103–457, Nov. 2, 1994, 108 Stat. 4799, authorized President to present on behalf of Congress, a gold medal to the Lubavitcher rebbe, Rabbi Menachem Mendel Schneerson, in recognition of his outstanding and enduring contributions toward world education, morality, and acts of charity, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, provided that gifts or donations but not appropriations were to be used for this purpose, authorized Secretary to have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
 
 #### Thomas Jefferson Medals
 
@@ -198,11 +202,11 @@ Pub. L. 101–510, div. A, title XIV, §1493, Nov. 5, 1990, 104 Stat. 1722, dire
 
 #### Designation of Medals Issued Under Sections 1491 to 1493 of Pub. L. 101–510 as National Medals
 
-Pub. L. 101–510, div. A, title XIV, §1494, Nov. 5, 1990, 104 Stat. 1722, provided that: “The medals authorized by sections 1491, 1492, and 1493 \[Pub. L. 101–510, set out as notes above\] are national medals for purposes of chapter 51 of title 31, United States Code.”
+Pub. L. 101–510, div. A, title XIV, §1494, Nov. 5, 1990, 104 Stat. 1722, provided that: “The medals authorized by sections 1491, 1492, and 1493 \[Pub. L. 101–510, set outabove\] are national medals for purposes of chapter 51 of title 31, United States Code.”
 
 #### Award of Gold Medal to Laurance Spelman Rockefeller
 
-Pub. L. 101–296, May 17, 1990, 104 Stat. 197, authorized President to present, on behalf of Congress, a gold medal to Laurance Spelman Rockefeller in recognition of his leadership on behalf of natural resource conservation and historic preservation, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions for purposes of presentation by President, provided that Secretary could have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the goldand bronze medals are national medals for purposes of chapter 51 of this title.
+Pub. L. 101–296, May 17, 1990, 104 Stat. 197, authorized President to present, on behalf of Congress, a gold medal to Laurance Spelman Rockefeller in recognition of his leadership on behalf of natural resource conservation and historic preservation, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions for purposes of presentation by President, provided that Secretary could have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the gold and bronze medals are national medals for purposes of chapter 51 of this title.
 
 #### United States Coast Guard Bicentennial Medals
 

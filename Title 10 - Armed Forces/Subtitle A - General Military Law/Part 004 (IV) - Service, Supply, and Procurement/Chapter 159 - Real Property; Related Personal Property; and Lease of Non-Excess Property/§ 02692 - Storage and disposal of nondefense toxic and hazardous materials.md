@@ -8,7 +8,7 @@
 
 &emsp;(1) the storage of strategic and critical materials in the National Defense Stockpile under an agreement for such storage with the Administrator of General Services;
 
-&emsp;(2) the temporary storage or disposal of explosives in order to protect the public or to assist agencies responsible for Federal law enforcement in storing or disposing of explosives when no alternative solution is available, if such storage or disposal is made in accordancewith an agreement between the Secretary of Defense and the head of the Federal agency concerned;
+&emsp;(2) the temporary storage or disposal of explosives in order to protect the public or to assist agencies responsible for Federal law enforcement in storing or disposing of explosives when no alternative solution is available, if such storage or disposal is made in accordance with an agreement between the Secretary of Defense and the head of the Federal agency concerned;
 
 &emsp;(3) the temporary storage or disposal of explosives in order to provide emergency lifesaving assistance to civil authorities;
 

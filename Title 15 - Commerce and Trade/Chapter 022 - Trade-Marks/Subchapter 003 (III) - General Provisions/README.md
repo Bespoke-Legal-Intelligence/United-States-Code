@@ -20,6 +20,6 @@
 - [&sect; 01122 - Liability of States, instrumentalities of States, and State officials](%C2%A7%2001122%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials.md)
 - [&sect; 01123 - Rules and regulations for conduct of proceedings in Patent and Trademark Office](%C2%A7%2001123%20-%20Rules%20and%20regulations%20for%20conduct%20of%20proceedings%20in%20Patent%20and%20Trademark%20Office.md)
 - [&sect; 01124 - Importation of goods bearing infringing marks or names forbidden](%C2%A7%2001124%20-%20Importation%20of%20goods%20bearing%20infringing%20marks%20or%20names%20forbidden.md)
-- [&sect; 01125 - False designations of origin and false descriptions forbidden](%C2%A7%2001125%20-%20False%20designations%20of%20origin%20and%20false%20descriptions%20forbidden.md)
+- [&sect; 01125 - False designations of origin, false descriptions, and dilution forbidden](%C2%A7%2001125%20-%20False%20designations%20of%20origin%2C%20false%20descriptions%2C%20and%20dilution%20forbidden.md)
 - [&sect; 01126 - International conventions](%C2%A7%2001126%20-%20International%20conventions.md)
 - [&sect; 01127 - Construction and definitions; intent of chapter](%C2%A7%2001127%20-%20Construction%20and%20definitions%3B%20intent%20of%20chapter.md)

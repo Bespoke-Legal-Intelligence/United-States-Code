@@ -22,4 +22,4 @@ This part is referred to in sections 12870, 12899c, 12899d of this title; title 
 - [&sect; 12877 - Exemption](%C2%A7%2012877%20-%20Exemption.md)
 - [&sect; 12878 - Limitation on selection criteria](%C2%A7%2012878%20-%20Limitation%20on%20selection%20criteria.md)
 - [&sect; 12879 - Implementation](%C2%A7%2012879%20-%20Implementation.md)
-- [&sect; 12880 - Annual report](%C2%A7%2012880%20-%20Annual%20report.md)
+- [&sect; 12880 - Report](%C2%A7%2012880%20-%20Report.md)

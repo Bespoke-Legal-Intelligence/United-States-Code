@@ -1,4 +1,4 @@
-### §3375 . Travel expenses
+### §3375. Travel expenses
 
 (a) Appropriations of a Federal agency are available to pay, or reimburse, a Federal or State or local government employee in accordance with—
 
@@ -20,7 +20,7 @@
 
 &emsp;(6) section 5726(c) of this title, for the expenses of nontemporary storage of household goods and personal effects in connection with assignment at an isolated location.
 
-(b) Expenses specified in subsection (a) of this section, other than those in paragraph (1)(C),may not be allowed in connection with the assignment of a Federal or State or local government employee under this subchapter, unless and until the employee agrees in writing to complete the entire period of his assignment or one year, whichever is shorter, unless separated or reassigned for reasons beyond his control that are acceptable to the Federal agency concerned. If the employee violates the agreement, the money spent by the United States for these expenses is recoverable from the employee as a debt due the United States. The head of the Federal agency concerned may waive in whole or in part a right of recovery under this subsection with respect to a State or local government employee on assignment with the agency.
+(b) Expenses specified in subsection (a) of this section, other than those in paragraph (1)(C), may not be allowed in connection with the assignment of a Federal or State or local government employee under this subchapter, unless and until the employee agrees in writing to complete the entire period of his assignment or one year, whichever is shorter, unless separated or reassigned for reasons beyond his control that are acceptable to the Federal agency concerned. If the employee violates the agreement, the money spent by the United States for these expenses is recoverable from the employee as a debt due the United States. The head of the Federal agency concerned may waive in whole or in part a right of recovery under this subsection with respect to a State or local government employee on assignment with the agency.
 
 (c) Appropriations of a Federal agency are available to pay expenses under section 5742 of this title with respect to a Federal or State or local government employee assigned under this subchapter.
 
@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–454, §603(b), (e), substituted “a Federal agency” for “an executive agency” in introductory text, substituted “Federal” for “executive” in cl. (1), added cl. (5), and redesignated former cl. (5) as (6).
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §603(b), (e), substituted “a Federal agency” for “an executive agency” in introductory text, substituted “Federal” for “executive” in cl. (1), added cl. (5), and redesignated former cl. (5) as (6).
 
 Subsec. (b). Pub. L. 95–454, §603(b), substituted “the Federal” for “the executive”.
 

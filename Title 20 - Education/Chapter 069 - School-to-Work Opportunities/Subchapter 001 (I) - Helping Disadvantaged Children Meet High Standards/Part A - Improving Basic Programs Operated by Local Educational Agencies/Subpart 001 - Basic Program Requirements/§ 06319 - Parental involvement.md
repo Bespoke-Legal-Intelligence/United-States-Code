@@ -56,7 +56,7 @@ Each school served under this part shall—
 
 &emsp;(1) convene an annual meeting, at a convenient time, to which all parents of participating children shall be invited and encouraged to attend, to inform parents of their school's participation under this part and to explain this part, its requirements, and their right to be involved;
 
-&emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, and may provide, with funds provided under thispart, transportation, child care, or home visits, as such services relate to parental involvement;
+&emsp;(2) offer a flexible number of meetings, such as meetings in the morning or evening, and may provide, with funds provided under this part, transportation, child care, or home visits, as such services relate to parental involvement;
 
 &emsp;(3) involve parents, in an organized, ongoing, and timely way, in the planning, review, and improvement of programs under this part, including the school parental involvement policy and the joint development of the schoolwide program plan under section 6314(b) of this title, except that if a school has in place a process for involving parents in the joint planning and design of its programs, the school may use that process, if such process includes an adequate representation of parents of participating children;
 
@@ -134,7 +134,7 @@ In carrying out the parental involvement requirements of this part, local educat
 
 In States where parental information and resource centers have been established pursuant to section 5911 of this title (to provide training, information, and support to parents and individuals who work with parents), local educational agencies and schools receiving assistance under this part shall assist parents and parent organizations by informing such parents and organizations of the existence and purpose of such centers, providing such parents and organizations with a description of the services and programs provided by such centers, advising parents on how to use such centers, and helping parents to contact such centers.
 
-(Pub. L. 89 10, title I, §1118, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3550.)
+(Pub. L. 89–10, title I, §1118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3550.)
 
 #### Section Referred to in Other Sections
 

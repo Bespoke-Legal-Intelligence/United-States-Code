@@ -18,7 +18,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 &emsp;&emsp;&emsp;(i)(I) more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and are limited-English proficient;
 
-&emsp;&emsp;&emsp;(II) more than 10,000 of the citizens of voting age of such political subdivision are members of a single language minority and are limited-English proficient; or
+&emsp;&emsp;&emsp;(II) more than 10,000 of the citizens of voting age of such political subdivision aremembers of a single language minority and are limited-English proficient; or
 
 &emsp;&emsp;&emsp;(III) in the case of a political subdivision that contains all or any part of an Indian reservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
 

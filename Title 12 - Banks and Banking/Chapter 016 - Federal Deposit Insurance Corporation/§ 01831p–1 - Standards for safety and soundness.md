@@ -88,7 +88,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (B) Contents of plan
 
-&emsp;&emsp;Any plan required under subparagraph (A) shall specify the steps that the institutionwill take to correct the deficiency. If the institution is undercapitalized, the plan may be part of a capital restoration plan.
+&emsp;&emsp;Any plan required under subparagraph (A) shall specify the steps that the institution will take to correct the deficiency. If the institution is undercapitalized, the plan may be part of a capital restoration plan.
 
 #### (C) Deadlines for submission and review of plans
 
@@ -180,7 +180,7 @@ Subsec. (e)(2). Pub. L. 103–325, §318(c)(2)(B), struck out “or depository i
 
 Subsec. (e)(2)(A), (B). Pub. L. 103–325, §318(c)(2)(A), struck out “or company” after “institution” wherever appearing.
 
-1992—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read asfollows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
+1992—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
 
 Subsec. (e)(1)(A). Pub. L. 102–550, §956(2), substituted “(a) or (b)” for “(a), (b), or (c)”.
 
@@ -192,7 +192,7 @@ Section 318(d) of Pub. L. 103–325 provided that: “The amendments made by thi
 
 Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
 
-&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set out below\] become effective \[Proposed rules were published Nov. 18, 1993, 58 F.R. 60802.\]; or
+&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set out below\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
 
 &emsp;“(2) December 1, 1993.”
 

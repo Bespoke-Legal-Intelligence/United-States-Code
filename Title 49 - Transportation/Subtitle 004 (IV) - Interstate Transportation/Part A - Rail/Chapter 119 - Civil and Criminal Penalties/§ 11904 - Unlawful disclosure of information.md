@@ -1,0 +1,38 @@
+### §11904. Unlawful disclosure of information
+
+(a) A—
+
+&emsp;(1) rail carrier providing transportation subject to the jurisdiction of the Board under this part, or an officer, agent, or employee of that rail carrier, or another person authorized to receive information from that rail carrier, that knowingly discloses to another person, except the shipper or consignee; or
+
+&emsp;(2) a <sup>1</sup> person who solicits or knowingly receives,
+
+> information described in subsection (b) without the consent of the shipper or consignee shall be fined not more than $1,000.
+
+(b) The information referred to in subsection (a) is information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that rail carrier for transportation provided under this part, or information about the contents of a contract authorized under section 10709 of this title, that may be used to the detriment of the shipper or consignee or may disclose improperly, to a competitor, the business transactions of the shipper or consignee.
+
+(c) This part does not prevent a rail carrier providing transportation subject to the jurisdiction of the Board under this part from giving information—
+
+&emsp;(1) in response to legal process issued under authority of a court of the United States or a State;
+
+&emsp;(2) to an officer, employee, or agent of the United States Government, a State, or a territory or possession of the United States; or
+
+&emsp;(3) to another rail carrier or its agent to adjust mutual traffic accounts in the ordinary course of business.
+
+(d) An employee of the Board delegated to make an inspection or examination under section 11144 of this title who knowingly discloses information acquired during that inspection or examination, except as directed by the Board, a court, or a judge of that court, shall be fined not more than $500, imprisoned for not more than 6 months, or both.
+
+(e) A person that knowingly discloses confidential data made available to such person under section 11163 of this title by a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall be fined not more than $50,000.
+
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 851.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 11910 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+A prior section 11904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457; Pub. L. 99–521, §13(a), Oct. 22, 1986, 100 Stat. 2998, related to additional rate and discrimination violations, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 14904 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 333 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
+

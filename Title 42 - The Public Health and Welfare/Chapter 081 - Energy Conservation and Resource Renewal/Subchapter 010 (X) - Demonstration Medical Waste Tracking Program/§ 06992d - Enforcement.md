@@ -4,7 +4,7 @@
 
 #### (1) Violations
 
-&emsp;Whenever on the basis of any information the Administrator determines that any person has violated, or is in violation of, any requirement or prohibition in effect under this subchapter (including any requirement or prohibition in effect under regulations under this subchapter) (A) the Administrator may issue an order (i) assessing a civil penalty for any past or current violation, (ii) requiring compliance immediately or within a specified time period, or (iii) both, or (B) the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction. Any order issued pursuant to this subsection shall state with reasonable specificity the nature of the violation.
+&emsp;Whenever on the basis of any information the Administrator determines that any personhas violated, or is in violation of, any requirement or prohibition in effect under this subchapter (including any requirement or prohibition in effect under regulations under this subchapter) (A) the Administrator may issue an order (i) assessing a civil penalty for any past or current violation, (ii) requiring compliance immediately or within a specified time period, or (iii) both, or (B) the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction. Any order issued pursuant to this subsection shall state with reasonable specificity the nature of the violation.
 
 #### (2) Orders assessing penalties
 
@@ -28,7 +28,7 @@ Any person who—
 
 &emsp;(3) knowingly generates, stores, treats, transports, disposes of, or otherwise handles any medical waste (whether such activity took place before or takes place after November 1, 1988) and who knowingly destroys, alters, conceals, or fails to file any record, report, or other document required to be maintained or filed for purposes of compliance with this subchapter or regulations thereunder
 
-> shall, upon conviction, be subject to a fine of not more than $50,000 for each day of violation, or imprisonment not to exceed 2 years (5 yearsin the case of a violation of paragraph (1)). If the conviction is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment under the respective paragraph shall be doubled with respect to both fine and imprisonment.
+> shall, upon conviction, be subject to a fine of not more than $50,000 for each day of violation, or imprisonment not to exceed 2 years (5 years in the case of a violation of paragraph (1)). If the conviction is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment under the respective paragraph shall be doubled with respect to both fine and imprisonment.
 
 #### (c) Knowing endangerment
 

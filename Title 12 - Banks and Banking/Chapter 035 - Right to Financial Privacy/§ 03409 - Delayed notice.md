@@ -56,7 +56,7 @@ In subsec. (a), “magistrate judge” substituted for “magistrate” pursuant
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3404, 3406, 3412, 3413, 3414, 3421 of this title; title 15 section 78u.
+This section is referred to in sections 3404, 3406, 3412, 3413, 3414 of this title; title 15 section 78u.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “preceding”.</i>
 

@@ -96,7 +96,7 @@ In subsection (d), 50:882(a) (1st 28 words) is omitted as covered by section 223
 
 #### Codification
 
-Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above)was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, §414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, §2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 \[now 18233 and 18236 to 18238\] of this title by Pub. L. 85–685, title VI, §602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
+Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, §414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, §2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 \[now 18233 and 18236 to 18238\] of this title by Pub. L. 85–685, title VI, §602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
 
 #### Amendments
 

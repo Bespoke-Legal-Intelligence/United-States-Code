@@ -4,13 +4,13 @@
 
 &emsp;(1) the availability of materials is essential for national security, economic well-being, and industrial production;
 
-&emsp;(2) the availability of materials is affected by the stability of foreign sources of essential industrial materials, instability of materialsmarkets, international competition and demand for materials, the need for energy and materials conservation, and the enhancement of environmental quality;
+&emsp;(2) the availability of materials is affected by the stability of foreign sources of essential industrial materials, instability of materials markets, international competition and demand for materials, the need for energy and materials conservation, and the enhancement of environmental quality;
 
 &emsp;(3) extraction, production, processing, use, recycling, and disposal of materials are closely linked with national concerns for energy and the environment;
 
 &emsp;(4) the United States is strongly interdependent with other nations through international trade in materials and other products;
 
-&emsp;(5) technological innovation and research and development are important factors which contribute to the availability and use of materials;
+&emsp;(5) technological innovation and research and development are important factors whichcontribute to the availability and use of materials;
 
 &emsp;(6) the United States lacks a coherent national materials policy and a coordinated program to assure the availability of materials critical for national economic well-being, national defense, and industrial production, including interstate commerce and foreign trade; and
 

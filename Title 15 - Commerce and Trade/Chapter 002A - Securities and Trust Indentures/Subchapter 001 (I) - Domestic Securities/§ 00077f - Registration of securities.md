@@ -26,7 +26,7 @@ The information contained in or filed with any registration statement shall be m
 
 #### Effective Date of 1965 Amendment
 
-Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect January 1, 1966.”
+Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act\[amending this section\] shall take effect January 1, 1966.”
 
 #### Transfer of Functions
 

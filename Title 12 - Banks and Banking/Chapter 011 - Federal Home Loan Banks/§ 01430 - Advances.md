@@ -16,7 +16,7 @@ Each Federal Home Loan Bank is authorized to make secured advances to its member
 
 #### (b) Appraisals and other investigations; acceptance of home mortgages as collateral security only by formal Board resolution
 
-For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals andother investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Board has specifically approved by formal resolution such acceptance.
+For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals and other investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Board has specifically approved by formal resolution such acceptance.
 
 #### (c) Notes of borrowing members; interest rate; limitations on loans; lien on stock
 
@@ -158,7 +158,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 &emsp;&emsp;(A) In 1990, 1991, 1992, and 1993, 5 percent of the preceding year's net income, or such prorated sums as may be required to assure that the aggregate contribution of all the Banks shall not be less than $50,000,000 for each such year.
 
-&emsp;&emsp;(B) In 1994, 6 percent of the preceding year's net income, or such prorated sum as may be required to assure that the aggregatecontribution of the Banks shall not be less than $75,000,000 for such year.
+&emsp;&emsp;(B) In 1994, 6 percent of the preceding year's net income, or such prorated sum as may be required to assure that the aggregate contribution of the Banks shall not be less than $75,000,000 for such year.
 
 &emsp;&emsp;(C) In 1995, and subsequent years, 10 percent of the preceding year's net income, or such prorated sums as may be required to assure that the aggregate contribution of the Banks shall not be less than $100,000,000 for each such year.
 
@@ -186,7 +186,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (F) Congressional notification and action
 
-&emsp;&emsp;The Federal Housing Finance Board shall notify the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
+&emsp;&emsp;The Federal Housing Finance Board shall notify the Committee on Banking, Financeand Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
 
 #### (7) Failure to use amounts for affordable housing
 
@@ -334,7 +334,7 @@ Subsec. (b). Act Apr. 27, 1934, inserted “unless the amount,” etc. to end of
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1958 Amendment
 
@@ -358,7 +358,7 @@ National Housing Act, applicability to, see section 1733 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1426, 1430b, 1431, 1733, 2705 of this title; title 42 sections 1591a.
+This section is referred to in sections 1426, 1430b, 1431, 1733, 2705 of this title; title 42 section 1591a.
 
 <i><sup>1</sup></i><i> So in original. The text following “it” probably should not appear. See 1989 Amendment note below.</i>
 

@@ -1,0 +1,12 @@
+### §1738<i>l</i>. Encouraging multilateral debt donations
+
+#### (a) Encouraging donations from official creditors
+
+The President should actively encourage other official creditors of an eligible country to provide debt reduction to such eligible country.
+
+#### (b) Encouraging donations from other sources
+
+The President shall make every effort to insure that programs established through Environmental Funds are able to receive donations from private and public entities, and private creditors of the eligible country.
+
+(July 10, 1954, ch. 469, title VI, §613, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3662.)
+

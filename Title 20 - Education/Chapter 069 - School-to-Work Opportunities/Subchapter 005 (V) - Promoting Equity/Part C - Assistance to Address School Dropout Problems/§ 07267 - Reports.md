@@ -12,5 +12,5 @@ The Secretary shall submit to the Congress a report by January 1 of each year, b
 
 The report under subsection (a) of this section shall also contain recommendations on ways in which the Federal Government, States and localities can further support the implementation of an effective methodology to accurately measure school dropout and retention rates on the national, State, and local levels.
 
-(Pub. L. 89 10, title V, §5307, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3706.)
+(Pub. L. 89–10, title V, §5307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3706.)
 

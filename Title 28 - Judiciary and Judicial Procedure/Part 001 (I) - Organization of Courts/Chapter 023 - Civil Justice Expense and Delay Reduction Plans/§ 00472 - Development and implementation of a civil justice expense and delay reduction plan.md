@@ -1,0 +1,42 @@
+### §472. Development and implementation of a civil justice expense and delay reduction plan
+
+(a) The civil justice expense and delay reduction plan implemented by a district court shall be developed or selected, as the case may be, after consideration of the recommendations of an advisory group appointed in accordance with section 478 of this title.
+
+(b) The advisory group of a United States district court shall submit to the court a report, which shall be made available to the public and which shall include—
+
+&emsp;(1) an assessment of the matters referred to in subsection (c)(1);
+
+&emsp;(2) the basis for its recommendation that the district court develop a plan or select a model plan;
+
+&emsp;(3) recommended measures, rules and programs; and
+
+&emsp;(4) an explanation of the manner in which the recommended plan complies with section 473 of this title.
+
+(c)(1) In developing its recommendations, the advisory group of a district court shall promptly complete a thorough assessment of the state of the court's civil and criminal dockets. In performing the assessment for a district court, the advisory group shall—
+
+&emsp;(A) determine the condition of the civil and criminal dockets;
+
+&emsp;(B) identify trends in case filings and in the demands being placed on the court's resources;
+
+&emsp;(C) identify the principal causes of cost and delay in civil litigation, giving consideration to such potential causes as court procedures and the ways in which litigants and their attorneys approach and conduct litigation; and
+
+&emsp;(D) examine the extent to which costs and delays could be reduced by a better assessment of the impact of new legislation on the courts.
+
+(2) In developing its recommendations, the advisory group of a district court shall take into account the particular needs and circumstances of the district court, litigants in such court, and the litigants’ attorneys.
+
+(3) The advisory group of a district court shall ensure that its recommended actions include significant contributions to be made by the court, the litigants, and the litigants’ attorneys toward reducing cost and delay and thereby facilitating access to the courts.
+
+(d) The chief judge of the district court shall transmit a copy of the plan implemented in accordance with subsection (a) and the report prepared in accordance with subsection (b) of this section to—
+
+&emsp;(1) the Director of the Administrative Office of the United States Courts;
+
+&emsp;(2) the judicial council of the circuit in which the district court is located; and
+
+&emsp;(3) the chief judge of each of the other United States district courts located in such circuit.
+
+(Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 473, 474, 478, 479 of this title.
+

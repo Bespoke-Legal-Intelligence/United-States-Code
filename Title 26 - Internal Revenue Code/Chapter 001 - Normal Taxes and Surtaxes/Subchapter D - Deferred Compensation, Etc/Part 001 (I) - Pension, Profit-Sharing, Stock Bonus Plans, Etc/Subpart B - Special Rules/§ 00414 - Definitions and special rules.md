@@ -1156,5 +1156,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41, 72, 79, 105, 108, 117, 120, 125, 127, 129, 132, 133, 170, 274, 401, 402, 403, 404, 404A, 406, 407, 408, 410, 411, 412, 415, 416, 419A, 423, 448, 501, 505, 818, 3121, 3306, 3405, 4971, 4975, 4977, 4980, 4980A, 4980B, 5000, 6047, 6057, 6058, 6059, 6692, 7702 of this title; title 11 section 101; title 15 sections 77c, 78c; title 29 sections 623, 1002, 1054, 1082, 1083, 1108, 1167, 1301, 1307, 1321, 1344, 1453; title 42 sections 409, 1395y.
+This section is referred to in sections 41, 72, 79, 105, 108, 117, 120, 125, 127, 129, 132, 133, 170, 274, 401, 402, 403, 404, 404A, 406, 407, 408, 410, 411, 412, 415, 416, 419A, 423, 448, 501, 505, 818, 3121, 3306, 3405, 4971, 4975, 4977, 4980, 4980A, 4980B, 5000, 6047, 6057, 6058, 6059, 6692, 7702 of this title; title 4 section 114; title 11 section 101; title 15 sections 77c, 78c; title 29 sections 623, 1002, 1054, 1082, 1083, 1108, 1167, 1301, 1307, 1321, 1344, 1453; title 42 sections 409, 1395y.
 

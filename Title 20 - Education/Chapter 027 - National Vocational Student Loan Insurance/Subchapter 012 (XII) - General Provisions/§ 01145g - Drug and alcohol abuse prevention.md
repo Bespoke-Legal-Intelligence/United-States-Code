@@ -40,11 +40,11 @@ Each institution of higher education that provides the certification required by
 
 Upon determination by the Secretary to terminate financial assistance to any institution of higher education under this section, the institution may file an appeal with an administrative law judge before the expiration of the 30-day period beginning on the date such institution is notified of the decision to terminate financial assistance under this section. Such judge shall hold a hearing with respect to such termination of assistance before the expiration of the 45-day period beginning on the date that such appeal is filed. Such judge may extend such 45-day period upon a motion by the institution concerned. The decision of the judge with respect to such termination shall be considered to be a final agency action.
 
-(Pub. L. 89 329, title XII, §1213, as added Pub. L. 101 226, §22(a)(1), Dec. 12, 1989, 103 Stat. 1938.)
+(Pub. L. 89–329, title XII, §1213, as added Pub. L. 101–226, §22(a)(1), Dec. 12, 1989, 103 Stat. 1938.)
 
 #### Effective Date
 
-Section 22(a)(2) of Pub. L. 101 226 provided that:
+Section 22(a)(2) of Pub. L. 101–226 provided that:
 
 “(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[enacting this section\] shall take effect on October 1, 1990.
 

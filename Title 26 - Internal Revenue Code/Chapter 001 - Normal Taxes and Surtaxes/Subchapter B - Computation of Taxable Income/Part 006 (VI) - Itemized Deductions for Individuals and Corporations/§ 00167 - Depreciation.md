@@ -34,7 +34,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (1) In general
 
-&emsp;No depreciation deduction shall be allowed under this section (and no depreciation or amortization deduction shall be allowed underany other provision of this subtitle) to the taxpayer for any term interest in property for any period during which the remainder interest in such property is held (directly or indirectly) by a related person.
+&emsp;No depreciation deduction shall be allowed under this section (and no depreciation or amortization deduction shall be allowed under any other provision of this subtitle) to the taxpayer for any term interest in property for any period during which the remainder interest in such property is held (directly or indirectly) by a related person.
 
 #### (2) Coordination with other provisions
 
@@ -110,7 +110,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Sept. 2, 1958, Pub. L. 85–866, title I, §89(b), 72 Stat. 1665; Oct. 16, 1962, Pub. L. 87–834, §13(b), (c)(1), 76 Stat. 1034; Nov. 8, 1966, Pub. L. 89–800, §2, 80 Stat. 1513; June 13, 1967, Pub. L. 90–26, §§1, 2(b), 81 Stat. 57, 58; Dec. 30, 1969, Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), 83 Stat. 625, 649, 653; Dec. 10, 1971, Pub. L. 92–178, title I, §109(a), 85 Stat. 508; Jan. 3, 1975, Pub. L. 93–625, §3(c), 88 Stat. 2109; Oct. 4, 1976, Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), 90 Stat. 1530, 1768, 1834, 1918; Nov. 12, 1977, Pub. L. 95–171, §4(a), 91 Stat. 1355; Nov. 6, 1978, Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), 92 Stat. 2826, 2857, 2901, 2902; Nov. 8, 1978, Pub. L. 95–615, §7(a), 92 Stat. 3098; Nov. 9, 1978, Pub. L. 95–618, title III, §301(d)(3), (e)(1), 92 Stat. 3200, 3201; Dec. 17, 1980, Pub. L. 96–541, §§2(c), (d), 3, 94 Stat. 3204, 3205; Dec. 28, 1980, Pub. L. 96–613, §2(a), 94 Stat. 3579; Aug. 13, 1981, Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), 95 Stat. 221, 222, 227, 239, 264; Jan. 6, 1983, Pub. L. 97–424, title V, §541(a)(2), 96 Stat. 2192; July 18, 1984, Pub. L. 98–369, div. A, title X, §1064, 98 Stat. 1047; Oct. 22, 1986, Pub. L. 99–514, title II,§201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), 100 Stat. 2139, 2745, 2821; Nov. 10, 1988, Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), 102 Stat. 3356, 3357, 3370; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), 103 Stat. 2378, 2381; Nov. 5, 1990, Pub. L. 101–508, title XI, §11812(a), (b)(1), 104 Stat. 1388–534; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), 107 Stat. 466, 538, 539.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Sept. 2, 1958, Pub. L. 85–866, title I, §89(b), 72 Stat. 1665; Oct. 16, 1962, Pub. L. 87–834, §13(b), (c)(1), 76 Stat. 1034; Nov. 8, 1966, Pub. L. 89–800, §2, 80 Stat. 1513; June 13, 1967, Pub. L. 90–26, §§1, 2(b), 81 Stat. 57, 58; Dec. 30, 1969, Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), 83 Stat. 625, 649, 653; Dec. 10, 1971, Pub. L. 92–178, title I, §109(a), 85 Stat. 508; Jan. 3, 1975, Pub. L. 93–625, §3(c), 88 Stat. 2109; Oct. 4, 1976, Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), 90 Stat. 1530, 1768, 1834, 1918; Nov. 12, 1977, Pub. L. 95–171, §4(a), 91 Stat. 1355; Nov. 6, 1978, Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), 92 Stat. 2826, 2857, 2901, 2902; Nov. 8, 1978, Pub. L. 95–615, §7(a), 92 Stat. 3098; Nov. 9, 1978, Pub. L. 95–618, title III, §301(d)(3), (e)(1), 92 Stat. 3200, 3201; Dec. 17, 1980, Pub. L. 96–541, §§2(c), (d), 3, 94 Stat. 3204, 3205; Dec. 28, 1980, Pub. L. 96–613, §2(a), 94 Stat. 3579; Aug. 13, 1981, Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), 95 Stat. 221, 222, 227, 239, 264; Jan. 6, 1983, Pub. L. 97–424, title V, §541(a)(2), 96 Stat. 2192; July 18, 1984, Pub. L. 98–369, div. A, title X, §1064, 98 Stat. 1047; Oct. 22, 1986, Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), 100 Stat. 2139, 2745, 2821; Nov. 10, 1988, Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), 102 Stat. 3356, 3357, 3370; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), 103 Stat. 2378, 2381; Nov. 5, 1990, Pub. L. 101–508, title XI, §11812(a), (b)(1), 104 Stat. 1388–534; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), 107 Stat. 466, 538, 539.)
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Subsec. (g). Pub. L. 103–66, §13261(b)(1), (f)(1), redesignated subsec. (f) a
 
 &emsp;“(1) the straight line method,
 
-&emsp;“(2) the declining balance method, using a rate not exceeding twice the rate which would have been used had the annual allowance been computed under the method described in paragraph (1),
+&emsp;“(2) the declining balance method, using a rate not exceeding twice the rate which would have been usedhad the annual allowance been computed under the method described in paragraph (1),
 
 &emsp;“(3) the sum of the years-digits method, and
 
@@ -308,7 +308,7 @@ Amendment by section 13261(b) and (f)(1) of Pub. L. 103–66 applicable, except 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures describedin section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -480,5 +480,5 @@ Taxable year deductions to be taken, see section 461 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 56, 62, 132, 142, 168, 169, 172, 174, 175, 179A, 197, 216, 312, 381, 453, 514, 542, 543, 545, 556, 611, 616, 617, 642, 818, 832, 834, 936, 1016, 1071, 1082, 1221, 1231, 1239, 1245, 1250, 4940, 7518, 7701 of this title; title 33 sections 1316, 1326; title 46 App. section 1177.
+This section is referred to in sections 42, 56, 62, 132, 142, 168, 169, 172, 174, 175, 179A, 197, 216, 312, 381, 453, 514, 542, 543, 545, 556, 611, 616, 617, 642, 818, 832, 834, 936, 1016, 1082, 1221, 1231, 1239, 1245, 1250, 4940, 7518, 7701 of this title; title 33 sections 1316, 1326; title 46 App. section 1177.
 

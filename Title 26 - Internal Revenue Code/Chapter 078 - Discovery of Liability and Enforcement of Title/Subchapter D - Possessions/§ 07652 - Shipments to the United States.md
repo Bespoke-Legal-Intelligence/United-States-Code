@@ -8,7 +8,7 @@
 
 #### (2) Payment of tax
 
-&emsp;The Secretary shall by regulations prescribe the mode and time for payment and collection of the tax described in paragraph (1), including any discretionary method described in section 6302(b) and (c). Such regulations shall authorize the payment of such tax before shipmentfrom Puerto Rico, and the provisions of section 7651(2)(B) shall be applicable to the payment and collection of such tax in Puerto Rico.
+&emsp;The Secretary shall by regulations prescribe the mode and time for payment and collectionof the tax described in paragraph (1), including any discretionary method described in section 6302(b) and (c). Such regulations shall authorize the payment of such tax before shipment from Puerto Rico, and the provisions of section 7651(2)(B) shall be applicable to the payment and collection of such tax in Puerto Rico.
 
 #### (3) Deposit of internal revenue collections
 
@@ -76,11 +76,11 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 #### (1) Excise taxes on rum covered into treasuries of Puerto Rico and Virgin Islands
 
-&emsp;All taxes collected under section 5001(a)(1) on rum imported into the United States (less the estimated amount necessary for payment of refunds and drawbacks) shall be covered into the treasuries of Puerto Rico and the Virgin Islands.
+&emsp;All taxes collected under section 5001(a)(1) on rum imported into the United States (less the estimated amount necessary for paymentof refunds and drawbacks) shall be covered into the treasuries of Puerto Rico and the Virgin Islands.
 
 #### (2) Secretary prescribes formula
 
-&emsp;The Secretary shall, from time to time, prescribe by regulation a formula for the divisionof such tax collections between Puerto Rico and the Virgin Islands and the timing and methods for transferring such tax collections.
+&emsp;The Secretary shall, from time to time, prescribe by regulation a formula for the division of such tax collections between Puerto Rico and the Virgin Islands and the timing and methods for transferring such tax collections.
 
 #### (3) Rum defined
 
@@ -280,7 +280,7 @@ Section 1879(i)(3) of Pub. L. 99–514 provided that:
 
 “(A) Section 7652 of the Internal Revenue Code of 1954 \[now 1986\] (other than subsection (f) thereof) shall not prevent the payment to Puerto Rico or the Virgin Islands of amounts with respect to medicines, medicinal preparations, food products, flavors, or flavoring extracts containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands on or before the date of the enactment of this Act \[Oct. 22, 1986\].
 
-“(B) With respect to articles brought into the United States after September 27, 1985, subparagraph (A) shall apply only if the Secretary of the Treasury or his delegate is satisfied that the amounts paid to Puerto Rico or the Virgin Islands under subparagraph (A) are beingrepaid to the proper persons who used the distilled spirits in such articles.”
+“(B) With respect to articles brought into the United States after September 27, 1985, subparagraph (A) shall apply only if the Secretary of the Treasury or his delegate is satisfied that the amounts paid to Puerto Rico or the Virgin Islands under subparagraph (A) are being repaid to the proper persons who used the distilled spirits in such articles.”
 
 #### Ex. Ord. No. 10602. Secretary of the Interior as Representative of President
 

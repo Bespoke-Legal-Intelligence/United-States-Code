@@ -80,7 +80,7 @@
 
 &emsp;(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432 (f) and (g) of title 14;
 
-&emsp;(7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
+&emsp;(7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions havingtrade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
 
 &emsp;(8) officers and members of crews of vessels;
 
@@ -134,7 +134,7 @@
 
 (d) This chapter does not apply to an employee of the Office of the Architect of the Capitol whose pay is fixed by other statute. Subsection (c) of this section, except paragraph (7), does not apply to the Office of the Architect of the Capitol.
 
-(Pub. L 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689.)
+(Pub. L 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17,1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689.)
 
 Historical and Revision Notes<br>1966
 
@@ -183,8 +183,6 @@ Oct. 28, 1949, ch. 782, §201(b), 63 Stat. 954.
 5 U.S.C. 1082(1)–(6), (7) (less provisos), (8) (less last 31 words), (9)–(11), (21)–(31), (33)–(35).
 
 Oct. 28, 1949, ch. 782, §202 (1)–(6), (7) (less last 25 words), (8) (less last 31 words), (9)–(11), (21)– (31), 63 Stat. 954.
-
-&nbsp;
 
 Sept. 1, 1954, ch. 1208, §105(a) “(7) (less provisos)”, 68 Stat. 1106.
 
@@ -292,15 +290,15 @@ Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), 
 
 #### Amendments
 
-1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end whichcould not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
+<b>1994</b>—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end which could not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
 
 Subsec. (c)(3). Pub. L. 103–446 struck out comma after “Department of Veterans Affairs”.
 
-1993—Subsec. (c)(10). Pub. L. 103–160, §923(b), inserted “(and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director)” after “professional military education school”.
+<b>1993</b>—Subsec. (c)(10). Pub. L. 103–160, §923(b), inserted “(and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director)” after “professional military education school”.
 
 Pub. L. 103–160, §533(c), substituted “at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10” for “at the Naval Academy whose pay is fixed under section 6952 of title 10”.
 
-1991—Subsec. (c)(3). Pub. L. 102–54, §13(b)(2), substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+<b>1991</b>—Subsec. (c)(3). Pub. L. 102–54, §13(b)(2), substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
 Subsec. (c)(14). Pub. L. 102–54, §13(b)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -308,7 +306,7 @@ Pub. L. 102–40, §403(c)(1)(A), substituted “section 7802 of title 38” for
 
 Subsec. (c)(16). Pub. L. 102–40, §403(c)(1)(B), substituted “sections 7405 and 7406” for “section 4114”.
 
-1990—Subsec. (a)(1). Pub. L. 101–474 redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–474 redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
 
 Subsec. (c)(5). Pub. L. 101–509, §529 \[title I, §109(a)(2)\], substituted “members” for “and members” after “Protective Service;” and inserted at end “and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;”.
 
@@ -318,49 +316,49 @@ Subsec. (c)(25). Pub. L. 101–509, §529 \[title I, §101(b)(9)(F)\], substitut
 
 Subsec. (c)(29), (30). Pub. L. 101–509, §529 \[title I, §104(d)(1)\], added pars. (29) and (30).
 
-1989—Subsec. (c)(10). Pub. L. 101–189 inserted “civilian professors, instructors, and lecturers at a professional military education school whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10;”, struck out “the Naval War College and” after “instructors at”, and substituted “section 6952” for “sections 6952 and 7478”.
+<b>1989</b>—Subsec. (c)(10). Pub. L. 101–189 inserted “civilian professors, instructors, and lecturers at a professional military education school whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10;”, struck out “the Naval War College and” after “instructors at”, and substituted “section 6952” for “sections 6952 and 7478”.
 
-1987—Subsec. (c)(27). Pub. L. 100–135 substituted “police” for “special police force”.
+<b>1987</b>—Subsec. (c)(27). Pub. L. 100–135 substituted “police” for “special police force”.
 
-1986—Subsec. (c)(14). Pub. L. 99–335 inserted “(other than employees of the Federal Retirement Thrift Investment System appointed under section 8474(c)(2) of this title)”.
+<b>1986</b>—Subsec. (c)(14). Pub. L. 99–335 inserted “(other than employees of the Federal Retirement Thrift Investment System appointed under section 8474(c)(2) of this title)”.
 
-1985—Subsec. (c)(28). Pub. L. 99–145 added par. (28).
+<b>1985</b>—Subsec. (c)(28). Pub. L. 99–145 added par. (28).
 
-1984—Subsec. (a)(1)(viii) to (x). Pub. L. 98–618 struck out “or” at end of cl. (viii), inserted “or” at end of cl. (ix), and added cl. (x).
+<b>1984</b>—Subsec. (a)(1)(viii) to (x). Pub. L. 98–618 struck out “or” at end of cl. (viii), inserted “or” at end of cl. (ix), and added cl. (x).
 
-1983—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the Alaska Railroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
+<b>1983</b>—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the Alaska Railroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
 
-1980—Subsec. (a)(1)(ix). Pub. L. 96–191 added cl. (ix).
+<b>1980</b>—Subsec. (a)(1)(ix). Pub. L. 96–191 added cl. (ix).
 
 Subsec. (c)(2). Pub. L. 96–465 substituted “members of the Foreign Service whose pay is fixed under the Foreign Service Act of 1980” for “employees in the Foreign Service of the United States whose pay is fixed under chapter 14 of title 22”.
 
-1979—Subsec. (a)(1)(vii). Pub. L. 96–70, §3302(e)(1), substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (a)(1)(vii). Pub. L. 96–70, §3302(e)(1), substituted “Commission” for “Company”.
 
 Subsec. (c)(12). Pub. L. 96–70, §3302(e)(6), substituted provisions relating to any Executive agency to the extent of any election under section 1212(b)(2) of the Panama Canal Act of 1979 for provisions relating to employees of an agency who are stationed in the Canal Zone or in the Republic of Panama.
 
 Subsec. (c)(23). Pub. L. 96–54 inserted “and Trademark” after “Patent”.
 
-1978—Subsec. (c)(5). Pub. L. 95–454, §801(a)(3)(D), substituted “5375” for “5365”.
+<b>1978</b>—Subsec. (c)(5). Pub. L. 95–454, §801(a)(3)(D), substituted “5375” for “5365”.
 
 Subsec. (c)(12)(B). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1975—Subsec. (c)(5). Pub. L. 94–183, §2(12), substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Subsec. (c)(5). Pub. L. 94–183, §2(12), substituted “Executive Protective Service” for “White House Police”.
 
 Subsec. (c)(9). Pub. L. 94–183, §2(13), substituted “305” for “40”.
 
-1973—Subsec. (b). Pub. L. 93–176 extended this chapter to include positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
+<b>1973</b>—Subsec. (b). Pub. L. 93–176 extended this chapter to include positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
 
-1970—Subsec. (c)(1). Pub. L. 91–375 repealed provision declaring this chapter inapplicable to employees in the postal field service whose pay is fixed under chapter 45 of title 39.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–375 repealed provision declaring this chapter inapplicable to employees in the postal field service whose pay is fixed under chapter 45 of title 39.
 
 Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia, and provided that chapter not apply to nonjudicial employees of the District of Columbia court system whose pay is fixed under title 11 of the District of Columbia Code.
 
-1969—Subsec. (c)(5). Pub. L. 91–34 extended provisions to include members of the National Zoological Park police force whose pay is fixed under section 5365 of this title.
+<b>1969</b>—Subsec. (c)(5). Pub. L. 91–34 extended provisions to include members of the National Zoological Park police force whose pay is fixed under section 5365 of this title.
 
-1968—Subsec. (c). Pub. L. 90–610 inserted par. (27).
+<b>1968</b>—Subsec. (c). Pub. L. 90–610 inserted par. (27).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 529 \[title I, §§101(b)(9)(F), 104(d)(1)\] of Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by section 529 \[title I, §§101(b)(9)(F), 104(d)(1)\] of Pub. L. 101–509 effective on such date as thePresident shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective on first day of first applicable pay period beginning on or after the 30th day following Nov. 5, 1990, see section 529 \[title I, §109(c)\] of Pub. L. 101–509, set out as an Effective Date note under section 5378 of this title.
 
@@ -378,7 +376,7 @@ Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad t
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. L. 96–191.
 

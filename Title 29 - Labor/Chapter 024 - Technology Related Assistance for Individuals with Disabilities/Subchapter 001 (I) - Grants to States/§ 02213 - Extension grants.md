@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(i) the States (other than the States described in subparagraph (A)(ii)) that have the largest populations, based on the most recent census data; and
 
-&emsp;&emsp;&emsp;(ii) the States (other than the States described in subparagraph (A)(ii)) that aresparsely populated, with a wide geographic spread,
+&emsp;&emsp;&emsp;(ii) the States (other than the States described in subparagraph (A)(ii)) that are sparsely populated, with a wide geographic spread,
 
 > &emsp;&emsp;where such characteristics have impeded the development of a consumer-responsive, comprehensive statewide program of technology-related assistance.
 
@@ -134,7 +134,7 @@ A State that desires to receive an extension grant under this section shall subm
 
 &emsp;&emsp;(A) the specific systems change and advocacy activities described in section 2211(b) of this title (including the activities described in section 2212(e)(7) <sup>1</sup> of this title) carried out under the development grant received by the State under section 2212 of this title, or, in the case of an application for a grant under subsection (a)(2) of this section, under an initial extension grant received by the State under this section, including—
 
-&emsp;&emsp;&emsp;(i) a description of systems change and advocacy activities that were undertaken to produce change on a permanent basis for individuals with disabilities of all ages;
+&emsp;&emsp;&emsp;(i) a description of systems change and advocacy activities that were undertakento produce change on a permanent basis for individuals with disabilities of all ages;
 
 &emsp;&emsp;&emsp;(ii) a description of activities undertaken to improve the involvement of individuals with disabilities in the program, including training and technical assistance efforts to improve individual access to assistive technology devices and assistive technology services as mandated under other laws and regulations as in effect on the date of the application, and including actions undertaken to improve the participation of underrepresented populations and rural populations, such as outreach efforts; and
 
@@ -202,7 +202,7 @@ Section 2212(e)(7) of this title, referred to in subsec. (d)(3)(A), was in the o
 
 #### Amendments
 
-1994—Pub. L. 103–218 amended section generally, substituting subsecs. (a) to (e) which set up a two-tiered extension grant system and set out standards of eligibility, calculation of amounts of grants, application procedure, and public hearing requirement for former subsecs. (a) to (c) which authorized an extension grant and set out calculations of amounts of such grant, priority for States which received grants in preceding year, application and comment procedure, and directed compatibility and accessibility of electronic equipment.
+1994—Pub. L. 103–218 amended section generally, substituting subsecs. (a) to (e) which set up a two-tiered extension grant system and set out standards of eligibility, calculation of amounts of grants, application procedure, and public hearing requirement for former subsecs. (a) to (c) which authorized an extension grant and set out calculations of amounts of such grant, priority for States which received grants in preceding year, application and comment procedure, and directedcompatibility and accessibility of electronic equipment.
 
 #### Section Referred to in Other Sections
 

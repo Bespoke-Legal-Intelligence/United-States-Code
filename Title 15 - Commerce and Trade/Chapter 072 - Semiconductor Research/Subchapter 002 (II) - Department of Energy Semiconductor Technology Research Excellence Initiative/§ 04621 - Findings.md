@@ -24,5 +24,5 @@ Congress makes the following findings:
 
 &emsp;(11) The national laboratories of the Department of Energy are a major national research resource, and the extensive involvement of such laboratories in the semiconductor research initiatives of the Federal Government and private industry would be an effective use of such laboratories and would help insure the success of such initiatives.
 
-(Pub. L. 100 180, div. C, title I, §3141, Dec. 4, 1987, 101 Stat. 1241.)
+(Pub. L. 100–180, div. C, title I, §3141, Dec. 4, 1987, 101 Stat. 1241.)
 

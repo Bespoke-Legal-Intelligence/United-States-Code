@@ -1,6 +1,6 @@
 ### §144. Unlawful receiving of imported milk or cream
 
-It shall be unlawful for any person in the United States to receive milk or cream imported into the United States unless the importation is in accordance with the provisions of this subchapter.
+It shall be unlawful for any person in the United States to receive milk or cream importedinto the United States unless the importation is in accordance with the provisions of this subchapter.
 
 (Feb. 15, 1927, ch. 155, §4, 44 Stat. 1103.)
 

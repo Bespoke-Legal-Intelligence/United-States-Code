@@ -1,4 +1,4 @@
-### §831f . Control of plants and property vested in Corporation; transfer of other property to Corporation
+### §831f. Control of plants and property vested in Corporation; transfer of other property to Corporation
 
 In order to enable the Corporation to exercise the powers and duties vested in it by this chapter—
 

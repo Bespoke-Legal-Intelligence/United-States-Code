@@ -82,17 +82,17 @@ As used in this subchapter:
 
 (19) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-(Pub. L. 95 297, title I, §101, June 19, 1978, 92 Stat. 322; Pub. L. 103 371, §6, Oct. 19, 1994, 108 Stat. 3486.)
+(Pub. L. 95–297, title I, §101, June 19, 1978, 92 Stat. 322; Pub. L. 103–371, §6, Oct. 19, 1994, 108 Stat. 3486.)
 
 #### Amendments
 
-1994—Par. (13)(C). Pub. L. 103 371 added subpar. (C).
+1994—Par. (13)(C). Pub. L. 103–371 added subpar. (C).
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103 371 provided that: “This Act \[amending this section and sections 2802, 2805, and 2806 of this title\] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
+Section 1 of Pub. L. 103–371 provided that: “This Act \[amending this section and sections 2802, 2805, and 2806 of this title\] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95 297 provided: “That this Act \[enacting this chapter and provisions set out as a note under section 2822 of this title\] may be cited as the ‘Petroleum Marketing Practices Act’.”
+Section 1 of Pub. L. 95–297 provided: “That this Act \[enacting this chapter and provisions set out as a note under section 2822 of this title\] may be cited as the ‘Petroleum Marketing Practices Act’.”
 

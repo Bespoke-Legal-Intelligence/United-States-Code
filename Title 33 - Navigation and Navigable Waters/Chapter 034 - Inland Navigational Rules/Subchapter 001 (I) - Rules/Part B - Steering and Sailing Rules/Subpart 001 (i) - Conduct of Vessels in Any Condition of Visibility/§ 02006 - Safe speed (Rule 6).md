@@ -30,7 +30,7 @@ In determining a safe speed the following factors shall be among those taken int
 
 &emsp;(v) the number, location, and movement of vessels detected by radar; and
 
-&emsp;(vi) the more exact assessment of the visibility that may be possible when radar is used to determine the range of vessels or other objects in the vicinity.
+&emsp;(vi) the more exact assessment of the visibility that may be possible when radar is usedto determine the range of vessels or other objects in the vicinity.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3418.)
 

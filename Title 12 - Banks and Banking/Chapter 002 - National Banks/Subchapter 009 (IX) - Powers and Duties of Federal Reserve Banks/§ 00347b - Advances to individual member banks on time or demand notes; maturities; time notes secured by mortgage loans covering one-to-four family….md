@@ -30,7 +30,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 #### (C) Authority to issue a certificate of viability may not be delegated
 
-&emsp;&emsp;The authority of the head of any agency to issue a written certification of viability under this paragraph may not be delegated to any other person.
+&emsp;&emsp;The authority of the head of any agency to issue a written certification of viabilityunder this paragraph may not be delegated to any other person.
 
 #### (D) Extended advances subject to paragraph (3)
 
@@ -120,7 +120,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 1935—Act Aug. 23, 1935, struck out provision prescribing termination date of section.
 
-1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934.
+1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless oftheir capital, and empowered President to extend termination date one year beyond March 3, 1934.
 
 Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March 3, 1934”.
 

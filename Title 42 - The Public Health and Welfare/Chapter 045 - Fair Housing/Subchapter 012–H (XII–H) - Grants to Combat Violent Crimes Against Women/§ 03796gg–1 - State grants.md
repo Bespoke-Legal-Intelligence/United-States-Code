@@ -100,7 +100,7 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 This subchapter, referred to in subsecs. (c)(4), the second place it appears, and (f), was in the original “this subtitle”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
-Section 3763 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 3763 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, §1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
+Section 3763 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and wastranslated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 3763 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, §1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

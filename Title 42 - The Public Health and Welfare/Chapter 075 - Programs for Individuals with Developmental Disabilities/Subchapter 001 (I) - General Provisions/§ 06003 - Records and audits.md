@@ -22,7 +22,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### Prior Provisions
 
-A prior section 6003, Pub. L. 88–164, title I, §104, as added Pub. L. 94–103, title I, §125, Oct. 4, 1975, 89 Stat.498, set forth provisions relating to State control of operations, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6005 of this title.
+A prior section 6003, Pub. L. 88–164, title I, §104, as added Pub. L. 94–103, title I, §125, Oct. 4, 1975, 89 Stat. 498, set forth provisions relating to State control of operations, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6005 of this title.
 
 #### Amendments
 

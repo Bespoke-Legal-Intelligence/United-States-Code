@@ -54,7 +54,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(3) the amount of sales load deducted from any one of the first twelve monthly payments, the thirteenth through twenty-fourth monthly payments, the twenty-fifth through thirty-sixth monthly payments, or the thirty-seventh through forty-eighth monthly payments, or their equivalents, respectively, exceeds proportionately the amount deducted from any other such payment, or the amount deducted from any subsequent payment exceeds proportionately the amount deducted from any other subsequent payment;
 
-&emsp;(4) the deduction for sales load on the excess of the payment or payments in any month over the minimum monthly payment, or its equivalent, to be made on the certificate exceeds the sales load applicable to payments subsequent to the first forty-eight monthly payments or their equivalent;
+&emsp;(4) the deduction for sales load on the excess of the payment or payments in any month over the minimum monthly payment, or itsequivalent, to be made on the certificate exceeds the sales load applicable to payments subsequent to the first forty-eight monthly payments or their equivalent;
 
 &emsp;(5) the first payment on such certificate is less than $20, or any subsequent payment is less than $10;
 

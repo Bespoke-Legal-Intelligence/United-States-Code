@@ -2,7 +2,7 @@
 
 #### (a) Federal Energy Administration Regions in which Reserve may be established and maintained
 
-(1) The Strategic Petroleum Reserve Plan shall provide for the establishment and maintenance of a Regional Petroleum Reserve in, or readily accessible to, each Federal Energy Administration Region, as defined in title 10, Code of Federal Regulations in effect on November 1, 1975, in which imports of residual fuel oil or any refined petroleum product, during the 24-month period preceding the date of computation, equal more than 20 percent of demand for such oil or product in such regions during such period, as determined by the Secretary. Such volume shall be computed annually.
+(1) The Strategic Petroleum Reserve Plan shall provide for the establishment and maintenance of a Regional Petroleum Reserve in, or readily accessible to, each Federal Energy Administration Region, as defined in title 10, Code of Federal Regulations in effect on November 1, 1975, in which imports of residual fuel oil or any refined petroleum product, during the 24-monthperiod preceding the date of computation, equal more than 20 percent of demand for such oil or product in such regions during such period, as determined by the Secretary. Such volume shall be computed annually.
 
 (2) For the purpose of carrying out this section—
 

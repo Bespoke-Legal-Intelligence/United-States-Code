@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) by the establishment (with respect to any class of activities) of a mixed straddle account for which gains and losses would be recognized (and offset) on a periodic basis,
 
-&emsp;&emsp;&emsp;(ii) such offsetting will occur before the application of section 1256, and section 1256(a)(3) will only apply to net gain or net loss attributable to section 1256 contracts, and
+&emsp;&emsp;&emsp;(ii) such offsetting will occur before the application of section 1256, and section1256(a)(3) will only apply to net gain or net loss attributable to section 1256 contracts, and
 
 &emsp;&emsp;&emsp;(iii) the principles of section 1233(d) shall not apply with respect to any straddle identified under clause (i)(I) or part of an account established under clause (i)(II).
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(v) the aggregate margin requirement for such positions is lower than the sum of the margin requirements for each such position (if held separately), or
 
-&emsp;&emsp;&emsp;(vi) there are such other factors (or satisfaction of subjective or objective tests)as the Secretary may by regulations prescribe as indicating that such positions are offsetting.
+&emsp;&emsp;&emsp;(vi) there are such other factors (or satisfaction of subjective or objective tests) as the Secretary may by regulations prescribe as indicating that such positions are offsetting.
 
 > &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as described in clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the closing price of such stock on the most recent day on which such stock was traded before the date on which such option was granted, or
 
-&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted,but only if such price is greater than 110 percent of the price determined under clause (i).
+&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110 percent of the price determined under clause (i).
 
 #### (H) Regulations
 
@@ -348,7 +348,7 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 #### (2) Suspension of holding period
 
-&emsp;Except for purposes of section 851(b)(3), the holding period of such stock shall not includeany period during which the taxpayer is the grantor of such option.
+&emsp;Except for purposes of section 851(b)(3), the holding period of such stock shall not include any period during which the taxpayer is the grantor of such option.
 
 #### (g) Cross reference
 
@@ -462,7 +462,7 @@ Section 508 of title V of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, 
 
 “(a)
 
-In General.—Except as otherwise provided in this section, the amendments made by this title \[enacting this section and sections 1234A and 1256 of this title, amending sections 263, 341, 1212, 1221, 1231, 1232, 1233, 1236, and 6653 of this title, and enacting provisions set out as a note under section 1256 of this title\] shall apply to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date.
+In General.—Except as otherwise provided in this section, the amendments made by this title \[enacting this section and sections 1234A and 1256 of this title,amending sections 263, 341, 1212, 1221, 1231, 1232, 1233, 1236, and 6653 of this title, and enacting provisions set out as a note under section 1256 of this title\] shall apply to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date.
 
 “(b)
 
@@ -534,7 +534,7 @@ Regulated Futures Contracts.—For purposes of this section, the term ‘regulat
 
 “(h)
 
-Syndicates.—For purposes of this section, any loss incurred by a person (other than a commoditiesdealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business.”
+Syndicates.—For purposes of this section, any loss incurred by a person (other than a commodities dealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business.”
 
 #### Section Referred to in Other Sections
 

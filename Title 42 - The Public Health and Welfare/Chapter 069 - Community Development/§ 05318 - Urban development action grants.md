@@ -10,7 +10,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 (2) A city or urban county which fails to meet the minimum standards established pursuant to paragraph (1) shall be eligible for assistance under this section if it meets the requirements of the first sentence of such paragraph and—
 
-&emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas,or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
+&emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
 
 &emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
 
@@ -70,7 +70,7 @@ Applications for assistance under this section shall—
 
 > &emsp;If a city or urban county has submitted and has pending more than one application, the additional consideration provided by subparagraph (D) of the preceding sentence shall be available only to the project in such city or urban county which received the highest number of points under subparagraph (C) of such sentence.
 
-(2) For the purpose of making grants with respect to areas described in subsection (b)(2) of this section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
+(2) For the purpose of making grants with respect to areas described in subsection (b)(2) ofthis section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
 
 (3) The Secretary shall award points to each application as follows:
 
@@ -108,7 +108,7 @@ Applications for assistance under this section shall—
 
 The Secretary may not approve any grant to a city or urban county eligible under subsection (b)(2) of this section unless—
 
-&emsp;(1) the grant will be used in connection with a project located in an area described in subsection (b)(2) of this section, except that the Secretary may waive this requirement where the Secretary determines (A) that there is nosuitable site for the project within that area, (B) the project will be located directly adjacent to that area, and (C) the project will contribute substantially to the economic development of that area;
+&emsp;(1) the grant will be used in connection with a project located in an area described in subsection (b)(2) of this section, except that the Secretary may waive this requirement where the Secretary determines (A) that there is no suitable site for the project within that area, (B) the project will be located directly adjacent to that area, and (C) the project will contribute substantially to the economic development of that area;
 
 &emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) of this section are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics and which have median incomes above the median income for the city or urban county;
 
@@ -122,7 +122,7 @@ Activities assisted under this section may include such activities, in addition 
 
 #### (g) Annual review and audit; adjustments, withdrawals and reduction permitted
 
-The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust, reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
+The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust,reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
 
 #### (h) Limitations on grants for industrial or commercial relocations or expansions; appeal of denial or cancellation of assistance; grants to adversely affected individuals
 
@@ -152,7 +152,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (5) Assistance for individuals adversely affected by prohibited relocations
 
-&emsp;(A) Any amount withdrawn by, recaptured by, or paid to the Secretary due to a violation (or a settlement of an alleged violation) of this subsection (or of any regulation issued or contractual provision entered into to carry outthis subsection) by a project with identified intended occupants shall be made available by the Secretary as a grant to the city, county, or community described in subsection (p) of this section, from which the operation of an industrial or commercial plant or facility or other business establishment relocated or in which the operation was reduced.
+&emsp;(A) Any amount withdrawn by, recaptured by, or paid to the Secretary due to a violation (or a settlement of an alleged violation) of this subsection (or of any regulation issued or contractual provision entered into to carry out this subsection) by a project with identified intended occupants shall be made available by the Secretary as a grant to the city, county, or community described in subsection (p) of this section, from which the operation of an industrial or commercial plant or facility or other business establishment relocated or in which the operation was reduced.
 
 &emsp;(B)(i) Any amount made available under this paragraph shall be used by the grantee to assist individuals who were employed by the operation involved prior to the relocation or reduction and whose employment or terms of employment were adversely affected by the relocation or reduction. The assistance shall include job training, job retraining, and job placement.
 
@@ -172,7 +172,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (i) Minimum percentage of funds to be allocated to certain noncentral cities; application by consortia of cities of less than 50,000 population
 
-Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to such consortia shall be administered in compliance with eligibility requirements applicable to individual cities.
+Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to suchconsortia shall be administered in compliance with eligibility requirements applicable to individual cities.
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
@@ -202,7 +202,7 @@ If no amounts are set aside under, or amounts are precluded from being appropria
 
 #### (p) Unincorporated portions of urban counties
 
-An unincorporated portion of an urban county that is approved by the Secretary as an identifiable community for purposes of this section is eligible for a grant under subsection (b)(2) ofthis section if such portion meets the eligibility requirements contained in the first sentence of subsection (b)(1) of this section and the requirements of subsection (b)(2)(B) of this section (applied to the population of the portion of the urban county) and if it otherwise complies with the provisions of this section.
+An unincorporated portion of an urban county that is approved by the Secretary as an identifiable community for purposes of this section is eligible for a grant under subsection (b)(2) of this section if such portion meets the eligibility requirements contained in the first sentence of subsection (b)(1) of this section and the requirements of subsection (b)(2)(B) of this section (applied to the population of the portion of the urban county) and if it otherwise complies with the provisions of this section.
 
 #### (q) Technical assistance grants
 
@@ -254,7 +254,7 @@ Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisi
 
 Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
-1988—Subsec. (a). Pub. L. 100–242, §501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
+1988—Subsec. (a). Pub. L. 100–242, §501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
 
 Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
 
@@ -326,7 +326,7 @@ Subsec. (e). Pub. L. 95–557, §103(h), inserted “impact of the proposed urba
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) of chapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remainuncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out subchapter II (§12721 et seq.) of chapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -416,7 +416,7 @@ Governing board.—A description of the members and purposes of the governing bo
 
 &emsp;“(2)
 
-New town demonstration area.—A definition and description of the new town demonstration areafor the new town development demonstration to be assisted under this title.
+New town demonstration area.—A definition and description of the new town demonstration area for the new town development demonstration to be assisted under this title.
 
 &emsp;“(3)
 
@@ -472,7 +472,7 @@ Submission.—Not later than the expiration of the 6-month period beginning on t
 
 &emsp;“(2)
 
-Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approval any plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
+Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government towhom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approval any plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
 
 &emsp;“(3)
 
@@ -556,7 +556,7 @@ Board Approval.—The Secretary may provide insurance under this section for a m
 
 “(d)
 
-Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under this title. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
+Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under this title. Mortgages insured under this section shall not beconsidered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
 
 #### “SEC. 1105. SECONDARY SOFT MORTGAGE FINANCING FOR HOUSING.
 
@@ -650,7 +650,7 @@ Contents.—The residential antidisplacement and relocation assistance plan refe
 
 &emsp;&emsp;&emsp;“(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
 
-&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
+&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, creditchecks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 

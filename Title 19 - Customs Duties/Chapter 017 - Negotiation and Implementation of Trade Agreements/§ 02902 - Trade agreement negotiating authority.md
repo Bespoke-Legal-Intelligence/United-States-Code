@@ -32,7 +32,7 @@
 
 &emsp;(B) one-half of 1 percent ad valorem.
 
-(5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) ofthis section on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
+(5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) of this section on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
 
 (6) A rate of duty reduction or increase that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction or increase is included within an implementing bill provided for under section 2903 of this title and that bill is enacted into law.
 
@@ -106,7 +106,7 @@
 
 &emsp;Section 2903 of this title applies to any trade agreement negotiated under subsection (b) of this section pursuant to paragraph (1), except that—
 
-&emsp;&emsp;(A) in applying subsection (a)(1)(A) of section 2903 of this title to any such agreement,the phrase “at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993),” shall be substituted for the phrase “at least 90 calendar days before the day on which he enters into the trade agreement,”; and
+&emsp;&emsp;(A) in applying subsection (a)(1)(A) of section 2903 of this title to any such agreement, the phrase “at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993),” shall be substituted for the phrase “at least 90 calendar days before the day on which he enters into the trade agreement,”; and
 
 &emsp;&emsp;(B) no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and in applying such paragraph, “April 16, 1994;” shall be substituted for “June 1, 1991;”.
 

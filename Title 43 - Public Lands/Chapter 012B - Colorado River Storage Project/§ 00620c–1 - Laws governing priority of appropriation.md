@@ -14,5 +14,5 @@ The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 195
 
 Section consists of subsec. (e) of section 501 of Pub. L. 90–537. Subsecs. (a), (b), and (d) of section 501 are classified to sections 620, 620 note, 620a, 620a–1, 620a–2, and 620k note of this title. Subsecs. (c) and (f) of section 501 are not classified to the Code.
 
-Section was enacted as part of the Colorado River Basin Project Act, and not as part of act Apr. 11, 1956, popularly known as the Colorado River Storage Project Act, which comprises this chapter.
+Section was enacted as part of the Colorado River Basin Project Act, and not as part of act Apr. 11, 1956,popularly known as the Colorado River Storage Project Act, which comprises this chapter.
 

@@ -48,7 +48,7 @@ Investment of Money.—(1) Upon request by the Secretary of Defense, the Secreta
 
 (h)
 
-Notification of Conditions.—The Secretary of Defense shall notify Congress of any condition imposed by the donor on the use of any contribution accepted by the Secretary under the authority of this section.
+Notification of Conditions.—The Secretary of Defense shall notify Congress of anycondition imposed by the donor on the use of any contribution accepted by the Secretary under the authority of this section.
 
 (i)
 

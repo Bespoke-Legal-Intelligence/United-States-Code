@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 96–92, §7(2), substituted “December 31, 1978” for �
 
 1978—Subsec. (b)(1). Pub. L. 95–384, §9(a), substituted “fiscal year 1979” for “fiscal year 1978” and “Turkey, Indonesia, Thailand” for “Brazil”.
 
-Subsec. (d). Pub. L. 95–384, §9(b), substituted “, including any such members serving on a reimbursablebasis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
+Subsec. (d). Pub. L. 95–384, §9(b), substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
 
 Subsec. (f). Pub. L. 95–384, §9(c), substituted “December 31, 1977, except that the President may assign an aggregate total of not to exceed eight additional defense attache�AE1s to such countries in order to perform overseas management functions under this subsection” for “December 31, 1976”.
 
@@ -110,7 +110,7 @@ Subsecs. (b) to (d). Pub. L. 94–329, §104(2), added subsecs. (b) to (d).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

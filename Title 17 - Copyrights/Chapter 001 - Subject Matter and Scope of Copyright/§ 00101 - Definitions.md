@@ -64,6 +64,8 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A “device”, “machine”, or “process” is one now known or later developed.
 
+&emsp;A “digital transmission” is a transmission in whole or in part in a digital or other non-analog format.
+
 &emsp;To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially.
 
 &emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
@@ -138,7 +140,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348.)
 
 #### Historical and Revision Notes
 
@@ -148,23 +150,29 @@ The significant definitions in this section will be mentioned or summarized in c
 
 #### Amendments
 
+1995—Pub. L. 104–39 inserted definition of “digital transmission”.
+
 1992—Pub. L. 102–563 substituted “Except as otherwise provided in this title, as used” for “As used” in introductory provisions.
 
-Pub. L. 102–307 inserted definition of term “registration”.
+Pub. L. 102–307 inserted definition of “registration”.
 
-1990—Pub. L. 101–650, §702(a), inserted definition of term “architectural work”.
+1990—Pub. L. 101–650, §702(a), inserted definition of “architectural work”.
 
-Pub. L. 101–650, §702(b), in definition of term “Berne Convention work” added par. (5).
+Pub. L. 101–650, §702(b), in definition of “Berne Convention work” added par. (5).
 
-Pub. L. 101–650, §602, inserted definition of term “work of visual art”.
+Pub. L. 101–650, §602, inserted definition of “work of visual art”.
 
-1988—Pub. L. 100–568, §4(a)(1)(B), inserted definitions of terms “The Berne Convention” and “Berne Convention work”.
+1988—Pub. L. 100–568, §4(a)(1)(B), inserted definitions of “The Berne Convention” and “Berne Convention work”.
 
-Pub. L. 100–568, §4(a)(1)(C), inserted definition of term “country of origin”.
+Pub. L. 100–568, §4(a)(1)(C), inserted definition of “country of origin”.
 
-Pub. L. 100–568, §4(a)(1)(A), in definition of term “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
+Pub. L. 100–568, §4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
 
-1980—Pub. L. 96–517 inserted definition of term “computer program”.
+1980—Pub. L. 96–517 inserted definition of “computer program”.
+
+#### Effective Date of 1995 Amendment
+
+Section 6 of Pub. L. 104–39 provided that: “This Act \[see Short Title of 1995 Amendment note below\] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act \[Nov. 1, 1995\], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act.”
 
 #### Effective Date of 1992 Amendment
 
@@ -198,6 +206,10 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 1995 Amendment
+
+Section 1 of Pub. L. 104–39 provided that: “This Act \[amending this section and sections 106, 111, 114, 115, 119, and 801 to 803 of this title and enacting provisions set out as a note above\] may be cited as the ‘Digital Performance Right in Sound Recordings Act of 1995’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–369, §1, Oct. 18, 1994, 108 Stat. 3477, provided that: “This Act \[amending sections 111 and 119 of this title and enacting and repealing provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1994’.”
@@ -228,7 +240,7 @@ Pub. L. 101–318, §1, July 3, 1990, 104 Stat. 287, provided that: “This Act 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 of this title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
+Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 ofthis title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
 
 Section 1(a) of Pub. L. 100–568 provided that: “This Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
 
@@ -284,5 +296,5 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 106A of this title; title 2 section 179i; title 18 sections 2318, 2319.
+This section is referred to in sections 106A, 114 of this title; title 2 section 179i; title 18 sections 2318, 2319.
 

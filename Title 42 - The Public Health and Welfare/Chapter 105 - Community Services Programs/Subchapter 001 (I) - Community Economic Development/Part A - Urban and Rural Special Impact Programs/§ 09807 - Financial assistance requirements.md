@@ -26,7 +26,7 @@ The Secretary, under such regulations as the Secretary may establish, shall not 
 
 &emsp;(11) the rates of pay for time spent in work training and education, and other conditions of employment, will be appropriate and reasonable in the light of such factors as the type of work, geographical region, and proficiency of the participant;
 
-&emsp;(12) the program will, to the maximum extent feasible, contribute to the occupationaldevelopment or upward mobility of individual participants;
+&emsp;(12) the program will, to the maximum extent feasible, contribute to the occupational development or upward mobility of individual participants;
 
 &emsp;(13) preference will be given to low-income or economically disadvantaged residents of the areas served in filling jobs and training opportunities; and
 

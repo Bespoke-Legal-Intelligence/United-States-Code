@@ -26,7 +26,7 @@ For assignment of certain emergency preparedness functions to Secretary of Labor
 
 #### History of Department
 
-A Department of Labor under the charge of a Commissioner of Labor was first established by act June 13, 1888, ch. 389, 25 Stat. 182. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 827. The name Department of Labor was changed to Bureau of Labor by act Mar. 18, 1904, ch. 716, 33 Stat. 136. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
+A Department of Labor under the charge of a Commissioner of Labor was first established by act June 13, 1888, ch. 389, 25 Stat. 182. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor,by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 827. The name Department of Labor was changed to Bureau of Labor by act Mar. 18, 1904, ch. 716, 33 Stat. 136. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
 
 #### Order of Succession
 

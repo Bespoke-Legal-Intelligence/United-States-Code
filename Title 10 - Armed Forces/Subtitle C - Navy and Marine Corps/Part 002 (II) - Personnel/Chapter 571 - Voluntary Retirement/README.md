@@ -8,15 +8,15 @@
 | [6324\.](%C2%A7%2006324%20-%20Officers%20creditable%20service.md) | Officers: creditable service. |
 | [6325\.](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md) | Officers: retired grade and pay. |
 | [6326\.](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md) | Enlisted members: 30 years. |
-| 6327\. | Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay. |
+| [6327\.](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md) | Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay. |
 | \[6328. | Repealed.\] |
-| 6329\. | Officers not to be retired for misconduct. |
-| 6330\. | Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay. |
-| 6331\. | Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay. |
-| 6332\. | Conclusiveness of transfers. |
-| 6333\. | Computation of retired and retainer pay. |
-| 6334\. | Higher grade after 30 years of service: warrant officers and enlisted members. |
-| 6335\. | Restoration to former grade: warrant officers and enlisted members. |
+| [6329\.](%C2%A7%2006329%20-%20Officers%20not%20to%20be%20retired%20for%20misconduct.md) | Officers not to be retired for misconduct. |
+| [6330\.](%C2%A7%2006330%20-%20Enlisted%20members%20transfer%20to%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%3B%20retainer%20pay.md) | Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay. |
+| [6331\.](%C2%A7%2006331%20-%20Members%20of%20the%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%20transfer%20to%20the%20retired%20list%3B%20retired%20pay.md) | Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay. |
+| [6332\.](%C2%A7%2006332%20-%20Conclusiveness%20of%20transfers.md) | Conclusiveness of transfers. |
+| [6333\.](%C2%A7%2006333%20-%20Computation%20of%20retired%20and%20retainer%20pay.md) | Computation of retired and retainer pay. |
+| [6334\.](%C2%A7%2006334%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md) | Higher grade after 30 years of service: warrant officers and enlisted members. |
+| [6335\.](%C2%A7%2006335%20-%20Restoration%20to%20former%20grade%20warrant%20officers%20and%20enlisted%20members.md) | Restoration to former grade: warrant officers and enlisted members. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

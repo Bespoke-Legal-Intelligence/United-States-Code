@@ -6,5 +6,5 @@ Nothing in this chapter shall affect any rights acquired by any lessee of lands 
 
 #### Outer Continental Shelf; Jurisdiction of United States; Validation of Prior Leases
 
-Jurisdiction of United States over outer Continental Shelf, grant of leases on submerged lands thereof, andvalidation of prior leases, see section 1331 et seq. of Title 43, Public Lands.
+Jurisdiction of United States over outer Continental Shelf, grant of leases on submerged lands thereof, and validation of prior leases, see section 1331 et seq. of Title 43, Public Lands.
 

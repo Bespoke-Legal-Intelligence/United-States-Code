@@ -1,4 +1,4 @@
-### §3806 . Adjustable rate mortgage caps
+### §3806. Adjustable rate mortgage caps
 
 #### (a) In general
 

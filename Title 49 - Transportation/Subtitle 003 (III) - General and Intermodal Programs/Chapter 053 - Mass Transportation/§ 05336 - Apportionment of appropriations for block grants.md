@@ -46,7 +46,7 @@ Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportio
 
 &emsp;&emsp;&emsp;(i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus revenue vehicle-miles operated in or directly serving the urbanized area divided by the total bus revenue vehicle-miles attributable to all areas;
 
-&emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the latest Government census; and
+&emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of allareas, as shown by the latest Government census; and
 
 &emsp;&emsp;&emsp;(iii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile.
 
@@ -100,7 +100,7 @@ Transfers of Apportionments.—(1) The chief executive officer of a State may tr
 
 (4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
 
-(5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
+(5) Capital and operating assistance limitations applicable to the original apportionmentapply to amounts transferred under this subsection.
 
 (h)
 

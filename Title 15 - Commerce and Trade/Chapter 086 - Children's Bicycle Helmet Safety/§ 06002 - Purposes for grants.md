@@ -12,7 +12,7 @@ A grant made under section 6001 of this title may be used by a grantee to—
 
 > The Administrator shall review grant applications for compliance with this section prior to awarding grants.
 
-(Pub. L. 103 267, title II, §203, June 16, 1994, 108 Stat. 727.)
+(Pub. L. 103–267, title II, §203, June 16, 1994, 108 Stat. 727.)
 
 #### Section Referred to in Other Sections
 

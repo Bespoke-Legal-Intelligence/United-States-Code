@@ -10,7 +10,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 &emsp;(C) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d–5(3)),<sup>1</sup> which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1)).<sup>1</sup>
 
-(2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges and universities in the program provided for by this section.
+(2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges anduniversities in the program provided for by this section.
 
 (3) The Federal Acquisition Regulation (issued under section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)) <sup>1</sup> shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
 
@@ -74,7 +74,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;&emsp;(ii) exercise his utmost authority, resourcefulness, and diligence;
 
-&emsp;&emsp;(iii) in the case of the Department of Defense, actively monitor and assess the progress of the military departments, Defense Agencies, and prime contractors of the Department of Defense in attaining such goal; and
+&emsp;&emsp;(iii) in the case of the Department of Defense, actively monitor and assess the progress of the military departments, Defense Agencies, and prime contractors of theDepartment of Defense in attaining such goal; and
 
 &emsp;&emsp;(iv) in the case of the Coast Guard and the National Aeronautics and Space Administration, actively monitor and assess the progress of the prime contractors of the agency in attaining such goal.
 
@@ -124,7 +124,7 @@ Industry Categories.—(1) To the maximum extent practicable, the head of the ag
 
 &emsp;(B) ensure that contracts awarded to attain the goal established by subsection (a) are made across the broadest possible range of industry categories.
 
-(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
+(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limitthe contracting activity's use of set asides in awarding contracts in that particular industry category.
 
 (h)
 
@@ -248,7 +248,7 @@ Section 811(d) of Pub. L. 103–160 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304, 2304a, 2323a of this title; title 15 section 644.
+This section is referred to in sections 2304, 2304a, 2323a of this title; title 15 section 644; title 41 section 428.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 

@@ -4,7 +4,7 @@ Part C—Vocational Education and Occupational Information Data Systems
 
 This part is referred to in section 2451 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “part”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “part”.</i>
 
 
 ---

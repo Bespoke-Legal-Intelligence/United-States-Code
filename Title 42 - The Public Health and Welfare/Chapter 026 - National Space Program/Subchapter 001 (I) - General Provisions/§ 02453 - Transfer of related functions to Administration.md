@@ -22,11 +22,11 @@ Section 1. All functions (including powers, duties, activities, and parts of fun
 
 (a) The United States scientific satellite project (Project VANGUARD).
 
-(b) Specific projects of the Advanced Research Projects Agency and of the Department of the Air Force which relate to space activities (including lunar probes, scientific satellites and superthrust boosters) within the scope of the functions developing upon theNational Aeronautics and Space Administration under the provisions of the National Aeronautics and Space Act of 1958 \[this chapter\], and which shall be more particularly described in one or more supplementary Executive orders hereafter issued.
+(b) Specific projects of the Advanced Research Projects Agency and of the Department of the Air Force which relate to space activities (including lunar probes, scientific satellites and superthrust boosters) within the scope of the functions developing upon the National Aeronautics and Space Administration under the provisions of the National Aeronautics and Space Act of 1958 \[this chapter\], and which shall be more particularly described in one or more supplementary Executive orders hereafter issued.
 
 Sec. 2. (a) The Secretary of the Treasury shall immediately transfer to the appropriation of the National Aeronautics and Space Administration for “Research and Development”, from such appropriations of the Department of Defense as the Secretary of Defense shall designate, the following amounts:
 
-(1) In connection with the transfer of functions provided for in section 1(a) hereof, such amounts as shall be determined by the Director of the Bureau of the Budget \[now Office of Management and Budget\] pursuant to section 202(b) of the Budget and Accounting Procedures Act of 1950 \[see 31 U.S.C. 1531\] and section 1(k) of Executive Order No. 10530 of May 1, 1954 \[set out as a note under section 301 of Title 3, The President\]
+(1) In connection with the transfer of functions provided for in section 1(a) hereof, such amounts as shall be determined by the Director of the Bureau of the Budget \[now Office of Management and Budget\] pursuant to section 202(b) of the Budget and Accounting Procedures Act of 1950 \[see 31 U.S.C. 1531\] and section 1(k) of Executive Order No. 10530 of May 1, 1954 \[set out as a note under section 301 of Title 3, The President\].
 
 (2) In connection with the transfer of functions of the Advanced Research Projects Agency provided for in section 1(b) hereof, $59,200,000.
 

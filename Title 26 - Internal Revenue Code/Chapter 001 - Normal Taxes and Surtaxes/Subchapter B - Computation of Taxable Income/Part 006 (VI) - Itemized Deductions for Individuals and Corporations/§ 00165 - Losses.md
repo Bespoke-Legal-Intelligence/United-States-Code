@@ -162,7 +162,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (k) Treatment as disaster loss where taxpayer ordered to demolish or relocate residence in disaster area because of disaster
 
-In the case of a taxpayer whose residence is located in an area which has been determined by the President of the United States to warrantassistance by the Federal Government under the Disaster Relief and Emergency Assistance Act, if—
+In the case of a taxpayer whose residence is located in an area which has been determined by the President of the United States to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act, if—
 
 &emsp;(1) not later than the 120th day after the date of such determination, the taxpayer is ordered, by the government of the State or any political subdivision thereof in which such residence is located, to demolish or relocate such residence, and
 
@@ -250,7 +250,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Sept. 2, 1958, Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), 72 Stat. 1608, 1646, 1676; Mar. 31, 1962, Pub. L. 87–426, §2(a), 76 Stat. 51; Feb. 26, 1964, Pub. L. 88–272, title II, §§208(a), 238, 78 Stat. 43, 128; June 30, 1964, Pub. L. 88–348, §3(a), 78 Stat. 237; Dec. 31, 1970, Pub. L. 91–606, title III, §301(h), 84 Stat. 1759; Jan. 12, 1971, Pub. L. 91–677, §1(a), 84 Stat. 2061; Jan. 12, 1971, Pub. L. 91–687, §1, 84 Stat. 2071; July 1, 1972, Pub. L. 92–336, §2(a), 86 Stat. 406; Aug. 29, 1972, Pub. L. 92–418, §2(a), 86 Stat. 656, 657; May 22, 1974, Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), 88 Stat. 164, renumbered title VII, §702(h), Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), 108 Stat. 3100; Oct. 4, 1976, Pub. L. 94–455,title XIX, §1901(a)(26), 90 Stat. 1767; Sept. 3, 1982, Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), 96 Stat. 422, 598; July 18, 1984, Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), 98 Stat. 556, 943, 1044; Oct. 22, 1986, Pub. L. 99–514, title IX, §905(a), title X, §1004(a), 100 Stat. 2385, 2388; Nov. 10, 1988, Pub. L. 100–647, title I, §1009(d)(1), 102 Stat. 3449; Nov. 23, 1988, Pub. L. 100–707, title I, §109(<i>l</i>), 102 Stat. 4709.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Sept. 2, 1958, Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), 72 Stat. 1608, 1646, 1676; Mar. 31, 1962, Pub. L. 87–426, §2(a), 76 Stat. 51; Feb. 26, 1964, Pub. L. 88–272, title II, §§208(a), 238, 78 Stat. 43, 128; June 30, 1964, Pub. L. 88–348, §3(a), 78 Stat. 237; Dec. 31, 1970, Pub. L. 91–606, title III, §301(h), 84 Stat. 1759; Jan. 12, 1971, Pub. L. 91–677, §1(a), 84 Stat. 2061; Jan. 12, 1971, Pub. L. 91–687, §1, 84 Stat. 2071; July 1, 1972, Pub. L. 92–336, §2(a), 86 Stat. 406; Aug. 29, 1972, Pub. L. 92–418, §2(a), 86 Stat. 656, 657; May 22, 1974, Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), 88 Stat. 164, renumbered title VII, §702(h), Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), 108 Stat. 3100; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(26), 90 Stat. 1767; Sept. 3, 1982, Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), 96 Stat. 422, 598; July 18, 1984, Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), 98 Stat. 556, 943, 1044; Oct. 22, 1986, Pub. L. 99–514, title IX, §905(a), title X, §1004(a), 100 Stat. 2385, 2388; Nov. 10, 1988, Pub. L. 100–647, title I, §1009(d)(1), 102 Stat. 3449; Nov. 23, 1988, Pub. L. 100–707, title I, §109(<i>l</i>), 102 Stat. 4709.)
 
 #### References in Text
 
@@ -398,7 +398,7 @@ Section 1(c) of title I of Pub. L. 85–866, as amended by Pub. L. 99–514, §2
 
 &emsp;“(2) amendments made by this title to subtitle F of such Code (relating to procedure and administration) \[enacting sections 7513 and 7514 of this title and amending sections 6013, 6015, 6212, 6325, 6338, 6339, 6501, 6504, 6511, 6601, 6652, 6653, 6851, 6871, 7213, 7324, 7325, and 7422 of this title\] shall take effect as of August 17, 1954, and such subtitle, as so amended, shall apply as provided in section 7851 of the Internal Revenue Code of 1986”.
 
-Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to taxable years beginning after Sept. 2, 1958, see section 57(d) of Pub. L. 85–866, set out as a note under section 243 of this title.
+Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to taxable years beginning afterSept. 2, 1958, see section 57(d) of Pub. L. 85–866, set out as a note under section 243 of this title.
 
 #### Transitional Rule for 1984 Amendment
 
@@ -458,7 +458,7 @@ Bus Operating Authority.—
 
 &emsp;“(1)
 
-In general.—Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[section 266 of Pub. L. 97–34, set out as a note below\] shall be applied as if the term ‘motor carrier operating authority’ included a bus operating authority.
+In general.—Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[section 266 of Pub. L. 97–34, set out below\] shall be applied as if the term ‘motor carrier operating authority’ included a bus operating authority.
 
 &emsp;“(2)
 
@@ -482,7 +482,7 @@ Freight Forwarder Operating Authority.—
 
 &emsp;“(1)
 
-In general.—Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[section 266 of Pub. L. 97–34, set out as a note below\] shall be applied as if subsection (b) thereof contained ‘or a freight forwarder’ after ‘contract carrier of property’.
+In general.—Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[section 266 of Pub. L. 97–34, set out below\] shall be applied as if subsection (b) thereof contained ‘or a freight forwarder’ after ‘contract carrier of property’.
 
 &emsp;“(2)
 
@@ -506,7 +506,7 @@ Adjusted basis not to exceed adjusted basis at beginning of 60-month period.—T
 
 &emsp;“(3)
 
-Deregulation month.—For purposes of this section, the term ‘deregulation month’ means the month in which the Secretary of the Treasury or his delegate determines that a Federal law has been enacted which deregulates the freight forwarding industry.
+Deregulation month.—For purposes of this section, the term ‘deregulation month’ means the month in which the Secretary of the Treasury or hisdelegate determines that a Federal law has been enacted which deregulates the freight forwarding industry.
 
 “(c)
 
@@ -514,7 +514,7 @@ Special Rule for Motor Carrier Operating Authority.—In the case of a corporati
 
 “(d)
 
-Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section 334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out as a note below\] shall be a reference to such section as in effect before its repeal.
+Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section 334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
 
 “(e)
 
@@ -608,7 +608,7 @@ Application of Section.—This section shall apply to any individual—
 
 &emsp;&emsp;“(A) received income in the form of cancellation of a disaster loan under section 7 of the Small Business Act \[section 636 of Title 15, Commerce and Trade\] or an emergency loan under subtitle C of the Consolidated Farm and Rural Development Act \[section 1961 et seq. of Title 7, Agriculture\], or
 
-&emsp;&emsp;“(B) received income in the form of compensation (not taken into account in computing the amount of the deduction) for such loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster, and
+&emsp;&emsp;“(B) received income in the form of compensation (not taken into account in computing the amount of the deduction) for such loss in settlement of anyclaim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster, and
 
 &emsp;“(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to take the benefits of this section.
 

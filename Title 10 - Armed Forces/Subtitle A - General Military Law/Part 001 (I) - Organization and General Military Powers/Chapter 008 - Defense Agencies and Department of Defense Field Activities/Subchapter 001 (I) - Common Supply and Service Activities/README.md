@@ -5,7 +5,7 @@
 | [191\.](%C2%A7%2000191%20-%20Secretary%20of%20Defense%20authority%20to%20provide%20for%20common%20performance%20of%20supply%20or%20service%20activities.md) | Secretary of Defense: authority to provide for common performance of supply or service activities. |
 | [192\.](%C2%A7%2000192%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities%20oversight%20by%20the%20Secretary%20of%20Defense.md) | Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense. |
 | [193\.](%C2%A7%2000193%20-%20Combat%20support%20agencies%20oversight.md) | Combat support agencies: oversight. |
-| 194\. | Limitations on personnel. |
+| [194\.](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md) | Limitations on personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

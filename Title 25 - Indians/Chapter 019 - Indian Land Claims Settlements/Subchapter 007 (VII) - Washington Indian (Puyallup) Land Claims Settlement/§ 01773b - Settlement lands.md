@@ -22,7 +22,7 @@ The lands referred to in subsection (a) of this section, and more particularly d
 
 &emsp;(4) The Upper Hylebos property, comprised of approximately 5.9 acres.
 
-&emsp;(5) The Union Pacific property (Fife), comprised of a parcel of approximately 57 acres, and an adjoining 22-acre parcel if the option relating to the Union Pacific property (Fife) (as described in document 1 of the Technical Documents) is exercised.
+&emsp;(5) The Union Pacific property (Fife), comprised of a parcel of approximately 57 acres, and an adjoining 22-acre parcel if the optionrelating to the Union Pacific property (Fife) (as described in document 1 of the Technical Documents) is exercised.
 
 &emsp;(6) The Torre property (Fife), comprised of approximately 27.4 acres, unless the Port elects to provide the cash value of such property.
 
@@ -34,7 +34,7 @@ The lands referred to in subsection (a) of this section, and more particularly d
 
 #### (d) Reservation status
 
-Nothing in this subchapter is intended to affect the boundaries of the Puyallup Reservation, except that the lands described in subsection (c)of this section above in paragraphs (1) through (8), and the Outer Hylebos tidelands property referred to in section VIII of the Settlement Agreement, shall have on-reservation status.
+Nothing in this subchapter is intended to affect the boundaries of the Puyallup Reservation, except that the lands described in subsection (c) of this section above in paragraphs (1) through (8), and the Outer Hylebos tidelands property referred to in section VIII of the Settlement Agreement, shall have on-reservation status.
 
 #### (e) Authorization of appropriations
 

@@ -22,3 +22,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section effective July 26, 1990, see section 205(b) of Pub. L. 101–336, set out as a note under section 12131 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12209 of this title; title 2 section 1331.
+

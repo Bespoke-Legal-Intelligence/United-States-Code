@@ -6,5 +6,5 @@ The President shall transmit to the Congress annually beginning July 1, 1970, an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4344, 5910 of this title.
+This section is referred to in section 4344 of this title.
 

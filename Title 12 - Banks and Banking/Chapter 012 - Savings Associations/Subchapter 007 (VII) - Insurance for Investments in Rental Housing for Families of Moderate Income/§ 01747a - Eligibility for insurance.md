@@ -2,7 +2,7 @@
 
 (a) To be eligible for insurance under this subchapter, a project shall meet the following conditions:
 
-&emsp;(1) The Secretary shall be satisfied that there is, in the locality or metropolitan area of such project, a need for new rental dwellings at rents comparable to the rents proposed to be charged for the dwellings in such project.
+&emsp;(1) The Secretary shall be satisfied that there is, in the locality or metropolitan areaof such project, a need for new rental dwellings at rents comparable to the rents proposed to be charged for the dwellings in such project.
 
 &emsp;(2) Such project shall be economically sound, and the dwellings in such project shall be acceptable to the Secretary as to quality, design, size, and type.
 

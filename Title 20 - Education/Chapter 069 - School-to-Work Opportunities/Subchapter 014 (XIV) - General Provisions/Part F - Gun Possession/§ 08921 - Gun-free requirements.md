@@ -50,13 +50,13 @@ Each State shall report the information described in subsection (c) of this sect
 
 Two years after October 20, 1994, the Secretary shall report to Congress if any State is not in compliance with the requirements of this subchapter.
 
-(Pub. L. 89 10, title XIV, §14601, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3907.)
+(Pub. L. 89–10, title XIV, §14601, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3907.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Applicability of Individuals With Disabilities Education Act
 
-Section 314(b) of Pub. L. 103 382 provided that: “Nothing in the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\] shall supersede the provisions of section 14601 of the Elementary and Secondary Education Act \[of 1965\] \[20 U.S.C. 8921\] if a child's behavior is unrelated to such child's disability, except that this section \[amending section 1415 of this title and enacting provisions set out as a note under section 1415 of this title\] shall be interpreted in a manner that is consistent with the Department's final guidance concerning State and local responsibilities under the Gun-Free Schools Act of 1994 \[20 U.S.C. 8921\].”
+Section 314(b) of Pub. L. 103–382 provided that: “Nothing in the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\] shall supersede the provisions of section 14601 of the Elementary and Secondary Education Act \[of 1965\] \[20 U.S.C. 8921\] if a child's behavior is unrelated to such child's disability, except that this section \[amending section 1415 of this title and enacting provisions set out as a note under section 1415 of this title\] shall be interpreted in a manner that is consistent with the Department's final guidance concerning State and local responsibilities under the Gun-Free Schools Act of 1994 \[20 U.S.C. 8921\].”
 

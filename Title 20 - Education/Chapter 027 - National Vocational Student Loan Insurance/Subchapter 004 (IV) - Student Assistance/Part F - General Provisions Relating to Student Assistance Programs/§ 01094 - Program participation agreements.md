@@ -8,7 +8,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(2) The institution shall not charge any student a fee for processing or handling any application, form, or data required to determine the student's eligibility for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or the amount of such assistance.
 
-&emsp;(3) The institution will establish and maintain such administrative and fiscal procedures and records as may be necessary to ensure proper and efficient administration of funds received from the Secretary or from students under this subchapter and part C of subchapter I of chapter 34 of title 42, together with assurances that the institution will provide, upon request and in a timely fashion, information relating to the administrative capability and financial responsibility of the institution to—
+&emsp;(3) The institution will establish and maintain such administrative and fiscal procedures and records as may be necessary to ensure proper and efficient administration of funds received from the Secretary or from students under this subchapter and part C of subchapterI of chapter 34 of title 42, together with assurances that the institution will provide, upon request and in a timely fashion, information relating to the administrative capability and financial responsibility of the institution to—
 
 &emsp;&emsp;(A) the Secretary;
 
@@ -18,7 +18,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;(D) the appropriate accrediting agency or association.
 
-&emsp;(4) The institution will comply with the provisions of subsection (b) of this section and theregulations prescribed under that subsection, relating to fiscal eligibility.
+&emsp;(4) The institution will comply with the provisions of subsection (b) of this section and the regulations prescribed under that subsection, relating to fiscal eligibility.
 
 &emsp;(5) The institution will submit reports to the Secretary and, in the case of an institution participating in a program under part B or part D of this subchapter, to holders of loans made to the institution's students under such parts at such times and containing such information as the Secretary may reasonably require to carry out the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -124,7 +124,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(H) the limitation, suspension, or termination of the eligibility of a third party servicer to contract with any institution to administer any aspect of an institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, or the imposition of a civil penalty under paragraph (2)(B), whenever the Secretary has determined, after reasonable notice and opportunity for a hearing, that such organization, acting on behalf of an institution, has violated or failed to carry out any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this subparagraph shall exceed 60 days unless the organization and the Secretary agree to an extension, or unless limitation or termination proceedings are initiated by the Secretary against the individual or organization within that period of time; and
 
-&emsp;(I) an emergency action against a third party servicer that has contracted with an institution to administer any aspect of the institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, under which the Secretaryshall, effective on the date on which a notice and statement of the basis of the action is mailed to such individual or organization (by registered mail, return receipt requested), withhold funds from the individual or organization and withdraw the individual or organization's authority to act on behalf of an institution under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
+&emsp;(I) an emergency action against a third party servicer that has contracted with an institution to administer any aspect of the institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to such individual or organization (by registered mail, return receipt requested), withhold funds from the individual or organization and withdraw the individual or organization's authority to act on behalf of an institution under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
 
 &emsp;&emsp;(i) receives information, determined by the Secretary to be reliable, that the individual or organization, acting on behalf of an institution, is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation,
 
@@ -154,7 +154,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 (6) The Secretary is authorized to provide any information collected as a result of audits conducted under this section, together with audit information collected by guaranty agencies, to any Federal or State agency having responsibilities with respect to student financial assistance, including those referred to in subsection (a)(15) of this section.
 
-(7) Effective with respect to any audit conducted under this subsection after December 31, 1988, if, in the course of conducting any such audit, the personnel of the Department of Education discover, or are informed of, grants or other assistance provided by an institution in accordance with this subchapter and part C of subchapter I of chapter 34 of title 42 for which the institution has not received funds appropriated under this subchapter and part C of subchapter I of chapter 34 of title 42 (in the amount necessary to provide such assistance), including funds for which reimbursement was not requested prior to such discovery or information, such institution shall be permitted to offsetthat amount against any sums determined to be owed by the institution pursuant to such audit, or to receive reimbursement for that amount (if the institution does not owe any such sums).
+(7) Effective with respect to any audit conducted under this subsection after December 31,1988, if, in the course of conducting any such audit, the personnel of the Department of Education discover, or are informed of, grants or other assistance provided by an institution in accordance with this subchapter and part C of subchapter I of chapter 34 of title 42 for which the institution has not received funds appropriated under this subchapter and part C of subchapter I of chapter 34 of title 42 (in the amount necessary to provide such assistance), including funds for which reimbursement was not requested prior to such discovery or information, such institution shall be permitted to offset that amount against any sums determined to be owed by the institution pursuant to such audit, or to receive reimbursement for that amount (if the institution does not owe any such sums).
 
 #### (d) “Eligible institution” defined
 
@@ -164,103 +164,103 @@ For the purpose of this section, the term “eligible institution” means any s
 
 Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording, at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
 
-(Pub. L. 89 329, title IV, §487, as added Pub. L. 99 498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1488; amended Pub. L. 101 239, title II, §§2003(c)(2), 2006(c), Dec. 19, 1989, 103 Stat. 2114, 2118; Pub. L. 101 542, title II, §205, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102 26, §2(c)(3), Apr. 9, 1991, 105 Stat. 124; Pub. L. 102 325, title IV, §490, July 23, 1992, 106 Stat. 625; Pub. L. 103 208, §2(h)(42), (43), Dec. 20, 1993, 107 Stat. 2478.)
+(Pub. L. 89–329, title IV, §487, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1488; amended Pub. L. 101–239, title II, §§2003(c)(2), 2006(c), Dec. 19, 1989, 103 Stat. 2114, 2118; Pub. L. 101–542, title II, §205, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(c)(3), Apr. 9, 1991, 105 Stat. 124; Pub. L. 102–325, title IV, §490, July 23, 1992, 106 Stat. 625; Pub. L. 103–208, §2(h)(42), (43), Dec. 20, 1993, 107 Stat. 2478.)
 
 #### References in Text
 
-The Higher Education Amendments of 1992, referred to in subsec. (e), is Pub. L. 102 325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (e), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1094, Pub. L. 89 329, title IV, §487, as added Pub. L. 96 374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1451; amended Pub. L. 99 272, title XVI, §16034, Apr. 7, 1986, 100 Stat. 356, related to program participation agreements, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1094, Pub. L. 89–329, title IV, §487, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1451; amended Pub. L. 99–272, title XVI, §16034, Apr. 7, 1986, 100 Stat. 356, related to program participation agreements, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103 208, §2(h)(42), struck out “, or for completing or handling the Federal Student Assistance Report” after “amount of such assistance”.
+1993—Subsec. (a)(2). Pub. L. 103–208, §2(h)(42), struck out “, or for completing or handling the Federal Student Assistance Report” after “amount of such assistance”.
 
-Subsec. (c)(1)(F). Pub. L. 103 208, §2(h)(43), substituted “participation in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of an eligible institution,” for “eligibility for any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of any otherwise eligible institution,”.
+Subsec. (c)(1)(F). Pub. L. 103–208, §2(h)(43), substituted “participation in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of an eligible institution,” for “eligibility for any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of any otherwise eligible institution,”.
 
-1992—Subsec. (a). Pub. L. 102 325, §490(f)(1), substituted “subpart 4” for “subpart 3”.
+1992—Subsec. (a). Pub. L. 102–325, §490(f)(1), substituted “subpart 4” for “subpart 3”.
 
-Subsec. (a)(2). Pub. L. 102 325, §490(f)(2), struck out “provided for in section 1090(e) of this title” after “Report”.
+Subsec. (a)(2). Pub. L. 102–325, §490(f)(2), struck out “provided for in section 1090(e) of this title” after “Report”.
 
-Subsec. (a)(3). Pub. L. 102 325, §490(a)(1), inserted before period at end “, together with assurances that the institution will provide, upon request and in a timely fashion, information relating to the administrative capability and financial responsibility of the institution to—” and added subpars. (A) to (D).
+Subsec. (a)(3). Pub. L. 102–325, §490(a)(1), inserted before period at end “, together with assurances that the institution will provide, upon request and in a timely fashion, information relating to the administrative capability and financial responsibility of the institution to—” and added subpars. (A) to (D).
 
-Subsec. (a)(8). Pub. L. 102 325, §490(a)(2), substituted “application (A)” for “application,” inserted “, and” after “advertisements”, and added subpar. (B).
+Subsec. (a)(8). Pub. L. 102–325, §490(a)(2), substituted “application (A)” for “application,” inserted “, and” after “advertisements”, and added subpar. (B).
 
-Subsec. (a)(13) to (22). Pub. L. 102 325, §490(a)(3), added pars. (13) to (22).
+Subsec. (a)(13) to (22). Pub. L. 102–325, §490(a)(3), added pars. (13) to (22).
 
-Subsec. (b)(2). Pub. L. 102 325, §490(b)(1), struck out “on the record” after “for a hearing”.
+Subsec. (b)(2). Pub. L. 102–325, §490(b)(1), struck out “on the record” after “for a hearing”.
 
-Subsec. (c)(1). Pub. L. 102 325, §490(b)(2)(A), substituted “shall” for “is authorized to” in introductory provisions.
+Subsec. (c)(1). Pub. L. 102–325, §490(b)(2)(A), substituted “shall” for “is authorized to” in introductory provisions.
 
-Subsec. (c)(1)(A)(i). Pub. L. 102 325, §490(c), substituted “a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution” for “a financial and compliance audit of an eligible institution,” and “on at least an annual basis” for “at least once every 2 years” and inserted “and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the State review entities referred to in subpart 1 of part G of this subchapter” after “submitted to the Secretary”.
+Subsec. (c)(1)(A)(i). Pub. L. 102–325, §490(c), substituted “a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution” for “a financial and compliance audit of an eligible institution,” and “on at least an annual basis” for “at least once every 2 years” and inserted “and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the State review entities referred to in subpart 1 of part G of this subchapter” after “submitted to the Secretary”.
 
-Subsec. (c)(1)(B). Pub. L. 102 325, §490(d)(1), inserted before semicolon at end “, including any matter the Secretary deems necessary to the sound administration of the financial aid programs, such as the pertinent actions of any owner, shareholder, or person exercising control over an eligible institution”.
+Subsec. (c)(1)(B). Pub. L. 102–325, §490(d)(1), inserted before semicolon at end “, including any matter the Secretary deems necessary to the sound administration of the financial aid programs, such as the pertinent actions of any owner, shareholder, or person exercising control over an eligible institution”.
 
-Subsec. (c)(1)(C). Pub. L. 102 325, §490(d)(3), added subpar. (C). Former subpar. (C) redesignated (E).
+Subsec. (c)(1)(C). Pub. L. 102–325, §490(d)(3), added subpar. (C). Former subpar. (C) redesignated (E).
 
-Subsec. (c)(1)(D). Pub. L. 102 325, §490(d)(3), added subpar. (D). Former subpar. (D) redesignated (F).
+Subsec. (c)(1)(D). Pub. L. 102–325, §490(d)(3), added subpar. (D). Former subpar. (D) redesignated (F).
 
-Pub. L. 102 325, §490(b)(2)(B), struck out “on the record” after “opportunity for hearing”.
+Pub. L. 102–325, §490(b)(2)(B), struck out “on the record” after “opportunity for hearing”.
 
-Subsec. (c)(1)(E). Pub. L. 102 325, §490(d)(2), redesignated subpar. (C) as (E). Former subpar. (E) redesignated (G).
+Subsec. (c)(1)(E). Pub. L. 102–325, §490(d)(2), redesignated subpar. (C) as (E). Former subpar. (E) redesignated (G).
 
-Subsec. (c)(1)(F). Pub. L. 102 325, §490(d)(2), redesignated subpar. (D) as (F). Former subpar. (F) redesignated (H).
+Subsec. (c)(1)(F). Pub. L. 102–325, §490(d)(2), redesignated subpar. (D) as (F). Former subpar. (F) redesignated (H).
 
-Pub. L. 102 325, §490(b)(2)(C), struck out “on the record” after “opportunity for a hearing”.
+Pub. L. 102–325, §490(b)(2)(C), struck out “on the record” after “opportunity for a hearing”.
 
-Subsec. (c)(1)(G). Pub. L. 102 325, §490(d)(2), redesignated subpar. (E) as (G). Former subpar. (G) redesignated (I).
+Subsec. (c)(1)(G). Pub. L. 102–325, §490(d)(2), redesignated subpar. (E) as (G). Former subpar. (G) redesignated (I).
 
-Subsec. (c)(1)(H). Pub. L. 102 325, §490(d)(2), (4), redesignated subpar. (F) as (H) and substituted “a third party servicer” for “an individual or an organization”.
+Subsec. (c)(1)(H). Pub. L. 102–325, §490(d)(2), (4), redesignated subpar. (F) as (H) and substituted “a third party servicer” for “an individual or an organization”.
 
-Subsec. (c)(1)(I). Pub. L. 102 325, §490(d)(2), (5), redesignated subpar. (G) as (I) and substituted “a third party servicer” for “an individual or an organization”.
+Subsec. (c)(1)(I). Pub. L. 102–325, §490(d)(2), (5), redesignated subpar. (G) as (I) and substituted “a third party servicer” for “an individual or an organization”.
 
-Subsec. (c)(2). Pub. L. 102 325, §490(d)(8), added par. (2). Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 102–325, §490(d)(8), added par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 102 325, §490(b)(2)(D), struck out “on the record” after “opportunity for a hearing” in subpars. (A) and (B)(i).
+Pub. L. 102–325, §490(b)(2)(D), struck out “on the record” after “opportunity for a hearing” in subpars. (A) and (B)(i).
 
-Subsec. (c)(3). Pub. L. 102 325, §490(d)(7), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (c)(3). Pub. L. 102–325, §490(d)(7), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Pub. L. 102 325, §490(d)(6), inserted “, after consultation with each State review entity designated under subpart 1 of part G of this subchapter,” after “shall publish”.
+Pub. L. 102–325, §490(d)(6), inserted “, after consultation with each State review entity designated under subpart 1 of part G of this subchapter,” after “shall publish”.
 
-Subsec. (c)(4). Pub. L. 102 325, §490(d)(7), redesignated par. (3) as (4).
+Subsec. (c)(4). Pub. L. 102–325, §490(d)(7), redesignated par. (3) as (4).
 
-Subsec. (c)(5) to (7). Pub. L. 102 325, §490(d)(9), added pars. (5) to (7).
+Subsec. (c)(5) to (7). Pub. L. 102–325, §490(d)(9), added pars. (5) to (7).
 
-Subsec. (d). Pub. L. 102 325, §490(f)(3), substituted “section 1088” for “section 1085(a)”.
+Subsec. (d). Pub. L. 102–325, §490(f)(3), substituted “section 1088” for “section 1085(a)”.
 
-Subsec. (e). Pub. L. 102 325, §490(e), added subsec. (e).
+Subsec. (e). Pub. L. 102–325, §490(e), added subsec. (e).
 
-1991—Subsec. (a)(11). Pub. L. 102 26 substituted “whose students receive financial assistance pursuant to section 1091(d) of this title,” for “which admits students on the basis of their ability to benefit from the education or training provided by such institution (as determined under section 1091(d) of this title),”.
+1991—Subsec. (a)(11). Pub. L. 102–26 substituted “whose students receive financial assistance pursuant to section 1091(d) of this title,” for “which admits students on the basis of their ability to benefit from the education or training provided by such institution (as determined under section 1091(d) of this title),”.
 
-1990—Subsec. (a)(12). Pub. L. 101 542 added par. (12).
+1990—Subsec. (a)(12). Pub. L. 101–542 added par. (12).
 
-1989—Subsec. (a)(11). Pub. L. 101 239, §2003(c)(2), added par. (11).
+1989—Subsec. (a)(11). Pub. L. 101–239, §2003(c)(2), added par. (11).
 
-Subsec. (c)(1)(D). Pub. L. 101 239, §2006(c)(2), substituted “, any regulation” for “or any regulation” and inserted “or any applicable special arrangement, agreement, or limitation,”.
+Subsec. (c)(1)(D). Pub. L. 101–239, §2006(c)(2), substituted “, any regulation” for “or any regulation” and inserted “or any applicable special arrangement, agreement, or limitation,”.
 
-Subsec. (c)(1)(E) to (G). Pub. L. 101 239, §2006(c)(3), added subpars. (E) to (G).
+Subsec. (c)(1)(E) to (G). Pub. L. 101–239, §2006(c)(3), added subpars. (E) to (G).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102 26 applicable to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1991, see section 2(d)(1) of Pub. L. 102 26, set out as a note under section 1085 of this title.
+Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1991, see section 2(d)(1) of Pub. L. 102–26, set out as a note under section 1085 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 2003(c)(3) of Pub. L. 101 239 provided that: “The amendments made by this subsection \[amending this section and section 1078 1 of this title\] shall apply with respect to periods of enrollment beginning on or after January 1, 1990.”
+Section 2003(c)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1078–1 of this title\] shall apply with respect to periods of enrollment beginning on or after January 1, 1990.”
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99 498, set out as a note under section 1001 of this title.
+Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Subsec. (a)(10) of this section applicable only to periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99 498, set out as a note under section 1091 of this title.
+Subsec. (a)(10) of this section applicable only to periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1070a 15, 1070b 2, 1087c, 1087nn, 1087<i>oo</i>, 1087pp, 1087qq, 1091, 1096, 1099a 3, 1099c of this title; title 42 section 12604.
+This section is referred to in sections 1070a–15, 1070b–2, 1087c, 1087nn, 1087<i>oo</i>, 1087pp, 1087qq, 1091, 1096, 1099a–3, 1099c of this title; title 42 section 12604.
 

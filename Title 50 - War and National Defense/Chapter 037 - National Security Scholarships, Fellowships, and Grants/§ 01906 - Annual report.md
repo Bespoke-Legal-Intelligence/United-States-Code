@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-The Secretary shall submit to the President and to the Congress an annual report of the conduct of the program required by this chapter. The report shall be submitted each year at the time that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
+The Secretary shall submit to the President and to the Congress an annual report of the conduct of the program required by this chapter. The report shall be submitted each year at thetime that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
 
 #### (b) Contents of report
 

@@ -42,7 +42,7 @@ Section 301(d) of Pub. L. 95–279 provided that: “The provisions of this sect
 
 #### Exceptions From Transfer of Functions
 
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, seeExceptions From Transfer of Functions note set out under section 712a of this title.
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
 #### Discharge of Indebtedness
 
@@ -54,5 +54,5 @@ Provisions of section as applicable to federally chartered corporation, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 713a–5, 714e of this title; title 7 section 1784.
+This section is referred to in sections 713a–5, 714e of this title.
 

@@ -58,29 +58,29 @@ In awarding grants under subsection (a) of this section, the Secretary shall giv
 
 Students receiving fellowship awards under this part shall be known as “Faculty Development Fellows”.
 
-(Pub. L. 89 329, title IX, §951, as added Pub. L. 99 498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1558; amended Pub. L. 102 325, title IX, §901, July 23, 1992, 106 Stat. 772; Pub. L. 103 208, §2(j)(41), Dec. 20, 1993, 107 Stat. 2484.)
+(Pub. L. 89–329, title IX, §951, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1558; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 772; Pub. L. 103–208, §2(j)(41), Dec. 20, 1993, 107 Stat. 2484.)
 
 #### Prior Provisions
 
-A prior section 1134r, Pub. L. 89 329, title IX, §965, as added Pub. L. 92 318, title I, §181(a), June 23, 1972, 86 Stat. 311, authorized appropriations for program of fellowships other than public service fellowships or fellowships for graduate and professional study, prior to repeal by Pub. L. 96 374, title IX, §902(b), Oct. 3, 1980, 94 Stat. 1484, eff. Oct. 1, 1980.
+A prior section 1134r, Pub. L. 89–329, title IX, §965, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 311, authorized appropriations for program of fellowships other than public service fellowships or fellowships for graduate and professional study, prior to repeal by Pub. L. 96–374, title IX, §902(b), Oct. 3, 1980, 94 Stat. 1484, eff. Oct. 1, 1980.
 
-A prior section 951 of Pub. L. 89 329, title IX, as added Pub. L. 96 374, title IX, §905, Oct. 3, 1980, 94 Stat. 487, provided for program authorization relating to law school clinical experience programs and was classified to section 1134n of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 951 of Pub. L. 89–329, title IX, as added Pub. L. 96–374, title IX, §905, Oct. 3, 1980, 94 Stat. 487, provided for program authorization relating to law school clinical experience programs and was classified to section 1134n of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103 208 inserted “Pacific Islanders,” after “Native Americans,”.
+1993—Subsec. (a). Pub. L. 103–208 inserted “Pacific Islanders,” after “Native Americans,”.
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions authorizing fellowships under faculty development fellowship program for provisions authorizing program for assistance for training in legal profession.
+1992—Pub. L. 102–325 amended section generally, substituting provisions authorizing fellowships under faculty development fellowship program for provisions authorizing program for assistance for training in legal profession.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1134r 3 of this title.
+This section is referred to in section 1134r–3 of this title.
 

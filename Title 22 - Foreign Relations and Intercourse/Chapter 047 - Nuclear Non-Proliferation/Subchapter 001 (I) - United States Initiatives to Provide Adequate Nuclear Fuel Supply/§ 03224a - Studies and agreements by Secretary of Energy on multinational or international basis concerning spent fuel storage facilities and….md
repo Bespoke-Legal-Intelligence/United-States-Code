@@ -20,7 +20,7 @@ Section was enacted as part of the Department of Energy Act of 1978—Civilian A
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 ### SUBCHAPTER II—UNITED STATES INI-
 

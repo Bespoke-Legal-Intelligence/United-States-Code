@@ -10,7 +10,7 @@ There is established in the Department the Advisory Panel on Alzheimer's Disease
 
 &emsp;&emsp;(B) 3 shall be individuals with demonstrated achievements in research relevant to services for the care of individuals with Alzheimer's disease and related dementias;
 
-&emsp;&emsp;(C) 3 shall be individuals who are providers of services, or administrators of organizations which provide services, for individualswith Alzheimer's disease and related dementias and their families;
+&emsp;&emsp;(C) 3 shall be individuals who are providers of services, or administrators of organizations which provide services, for individuals with Alzheimer's disease and related dementias and their families;
 
 &emsp;&emsp;(D) 3 shall be individuals who are experts in the financing of health care services and long-term care services, including one individual who is a representative of private health care services insurers; and
 
@@ -64,7 +64,7 @@ Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

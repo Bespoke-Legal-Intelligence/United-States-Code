@@ -1,4 +1,4 @@
-### §1339 . Trade Remedy Assistance Office
+### §1339. Trade Remedy Assistance Office
 
 #### (a) Establishment; public information
 

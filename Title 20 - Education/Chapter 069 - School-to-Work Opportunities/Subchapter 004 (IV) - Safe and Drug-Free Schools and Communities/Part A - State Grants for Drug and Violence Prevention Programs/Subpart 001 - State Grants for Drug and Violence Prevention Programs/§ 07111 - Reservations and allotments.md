@@ -2,7 +2,7 @@
 
 #### (a) Reservations
 
-From the amount made available under section 7104(a)<sup>1</sup> of this title to carry out this subpart for each fiscal year, the Secretary—
+From the amount made available under section 7104(a) <sup>1</sup> of this title to carry out this subpart for each fiscal year, the Secretary—
 
 &emsp;(1) shall reserve 1 percent of such amount for grants under this subpart to Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, to be allotted in accordance with the Secretary's determination of their respective needs;
 
@@ -20,7 +20,7 @@ From the amount made available under section 7104(a)<sup>1</sup> of this title t
 
 &emsp;&emsp;(A) one-half of the remainder not reserved under subsection (a) of this section according to the ratio between the school-aged population of each State and the school-aged population of all the States; and
 
-&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each State received under part A of subchapter I of this chapter for the preceding year (or, for fiscal year 1995 only, sections 1005<sup>2</sup> and 1006<sup>2</sup> of this Act as such sections were in existence on the day preceding October 20, 1994) and the sum of such amounts received by all the States.
+&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each State received under part A of subchapter I of this chapter for the preceding year (or, for fiscal year 1995 only, sections 1005 <sup>2</sup> and 1006 <sup>2</sup> of this Act as such sections were in existence on the day preceding October 20, 1994) and the sum of such amounts received by all the States.
 
 #### (2) Minimum
 
@@ -38,17 +38,17 @@ From the amount made available under section 7104(a)<sup>1</sup> of this title t
 
 &emsp;&emsp;(B) the term “local educational agency” includes educational service agencies and consortia of such agencies.
 
-(Pub. L. 89 10, title IV, §4011 \[4111\], as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3674.)
+(Pub. L. 89–10, title IV, §4011 \[4111\], as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3674.)
 
 #### References in Text
 
-Sections 1005 and 1006 of this Act as such sections were in existence on the day preceding October 20, 1994, referred to in subsec. (b)(1)(B), means sections 1005 and 1006 of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Sections 1005 and 1006 of this Act as such sections were in existence on the day preceding October 20, 1994, referred to in subsec. (b)(1)(B), means sections 1005 and 1006 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7112, 7113, 7114, 7118 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be section “7104(1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “7104(1)”.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

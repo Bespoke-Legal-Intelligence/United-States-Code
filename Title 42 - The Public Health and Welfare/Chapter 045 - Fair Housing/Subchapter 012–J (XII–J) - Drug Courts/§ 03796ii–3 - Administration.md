@@ -24,7 +24,7 @@ In addition to any other requirements that may be specified by the Attorney Gene
 
 &emsp;(4) identify related governmental or community initiatives which complement or will be coordinated with the proposal;
 
-&emsp;(5) certify that there has been appropriate consultation with all affected agencies andthat there will be appropriate coordination with all affected agencies in the implementation of the program;
+&emsp;(5) certify that there has been appropriate consultation with all affected agencies and that there will be appropriate coordination with all affected agencies in the implementation of the program;
 
 &emsp;(6) certify that participating offenders will be supervised by one or more designated judges with responsibility for the drug court program;
 

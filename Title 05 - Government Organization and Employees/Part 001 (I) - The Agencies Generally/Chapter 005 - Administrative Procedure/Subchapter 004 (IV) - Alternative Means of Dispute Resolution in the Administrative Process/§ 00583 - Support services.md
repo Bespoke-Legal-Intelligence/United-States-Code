@@ -4,10 +4,6 @@ For the purposes of this subchapter, an agency may use (with or without reimburs
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2745, §593; renumbered §583, Pub. L. 102–354, §3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Termination of Section
-
-<i>For termination of section by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note set out under section 571 of this title.</i>
-
 #### Prior Provisions
 
 Prior sections 583 to 590 were renumbered sections 573 to 580 of this title, respectively.
@@ -16,5 +12,9 @@ Other prior sections 583 to 590 were renumbered sections 563 to 570 of this titl
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 593 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 593 of this title as this section.
+
+#### Termination Date; Savings Provision
+
+For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
 

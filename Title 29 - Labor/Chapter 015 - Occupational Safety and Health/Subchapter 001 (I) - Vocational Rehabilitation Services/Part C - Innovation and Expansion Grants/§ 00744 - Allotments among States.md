@@ -24,7 +24,7 @@
 
 #### (3) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1994, in which the total amount appropriated to carry out this part exceeds the total amount appropriated to carry out this part for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index For All Urban Consumers published by the Secretary of Labor under section 720(c)(1) of this title, the Commissioner shall increase the minimum allotment under paragraph (1)(B) by such percentage change in the Consumer Price Index For All Urban Consumers.
+&emsp;For any fiscal year, beginning in fiscal year 1994, in which the total amount appropriatedto carry out this part exceeds the total amount appropriated to carry out this part for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index For All Urban Consumers published by the Secretary of Labor under section 720(c)(1) of this title, the Commissioner shall increase the minimum allotment under paragraph (1)(B) by such percentage change in the Consumer Price Index For All Urban Consumers.
 
 #### (b) Proportional reduction
 
@@ -32,7 +32,7 @@ To provide minimum allotments to States (as increased under subsection (a)(3) of
 
 #### (c) Reallotment
 
-Whenever the Commissioner determines that any amount of an allotment to a State for anyfiscal year will not be expended by such State for carrying out the provisions of this part, the Commissioner shall make such amount available for carrying out the purposes of this part to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this part, the Commissioner shall make such amount available for carrying out the purposes of this part to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
 (Pub. L. 93–112, title I, §124, as added Pub. L. 102–569, title I, §134(a), Oct. 29, 1992, 106 Stat. 4395; amended Pub. L. 103–73, title I, §107(h), Aug. 11, 1993, 107 Stat. 723.)
 

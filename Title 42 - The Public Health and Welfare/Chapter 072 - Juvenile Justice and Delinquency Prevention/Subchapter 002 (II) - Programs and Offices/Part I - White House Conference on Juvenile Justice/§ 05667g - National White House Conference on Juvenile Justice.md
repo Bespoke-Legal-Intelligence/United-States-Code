@@ -20,7 +20,7 @@ The purposes of the Conference shall be—
 
 &emsp;(6) to examine the need for improving services for girls in the juvenile justice system;
 
-&emsp;(7) to create a forum in which persons and organizations from diverse regions may share information regarding successes and failures of policy in their juvenile justice and juvenile delinquency prevention programs; and
+&emsp;(7) to create a forum in which persons and organizations from diverse regions may shareinformation regarding successes and failures of policy in their juvenile justice and juvenile delinquency prevention programs; and
 
 &emsp;(8) to develop such specific and comprehensive recommendations for executive and legislative action as may be appropriate to address the problems of juvenile delinquency and juvenile justice.
 

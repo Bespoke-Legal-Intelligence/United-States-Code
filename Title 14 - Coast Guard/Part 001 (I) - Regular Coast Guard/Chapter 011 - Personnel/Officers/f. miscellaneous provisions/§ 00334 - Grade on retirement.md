@@ -1,4 +1,4 @@
-### §334 . Grade on retirement
+### §334. Grade on retirement
 
 (a) Any commissioned officer, other than a commissioned warrant officer, who is retired under any provision of this title, shall be retired from active service with the highest grade held by him for not less than six months while on active duty in which, as determined by the Secretary, his performance of duty was satisfactory.
 
@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–337 substituted “section 580,” for “section 564 of title 10 (as in effect on the daybefore the effective date of the Warrant Officer Management Act) or”.
+1994—Subsec. (b). Pub. L. 103–337 substituted “section 580,” for “section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or”.
 
 1991—Subsec. (b). Pub. L. 102–190 substituted “section 564 of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act) or 1263, 1293, or 1305 of title 10” for “section 564, 1263, 1293, or 1305 of title 10”.
 

@@ -1,4 +1,4 @@
-### §1552 . Correction of military records: claims incident thereto
+### §1552. Correction of military records: claims incident thereto
 
 (a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Transportation may in the same manner correct any military record of the Coast Guard.
 

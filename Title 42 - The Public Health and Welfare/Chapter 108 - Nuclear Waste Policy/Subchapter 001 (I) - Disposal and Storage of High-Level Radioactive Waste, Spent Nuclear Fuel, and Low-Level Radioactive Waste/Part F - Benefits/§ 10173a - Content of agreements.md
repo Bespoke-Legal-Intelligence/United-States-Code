@@ -40,7 +40,7 @@ A benefits agreement under section 10173 of this title shall provide that—
 
 &emsp;(1) a Review Panel be established in accordance with section 10173b of this title;
 
-&emsp;(2) the State or Indian tribe that is party to such agreement waive its rights under thissubchapter to disapprove the recommendation of a site for a repository;
+&emsp;(2) the State or Indian tribe that is party to such agreement waive its rights under this subchapter to disapprove the recommendation of a site for a repository;
 
 &emsp;(3) the parties to the agreement shall share with one another information relevant to the licensing process for the repository or monitored retrievable storage facility, as it becomes available;
 

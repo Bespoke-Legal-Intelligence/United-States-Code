@@ -40,7 +40,7 @@ A State is eligible to receive a grant under subsection (a)(1) of this section o
 
 &emsp;&emsp;(A) is located in a State receiving a grant under subsection (a)(1) of this section;
 
-&emsp;&emsp;(B) is designated as an essential access community hospital or a rural primary care hospital by the State in which it is located or is a member of a rural health network (as defined in subsection (g) of this section);
+&emsp;&emsp;(B) is designated as an essential access community hospital or a rural primary carehospital by the State in which it is located or is a member of a rural health network (as defined in subsection (g) of this section);
 
 &emsp;&emsp;(C) submits to the State in which it is located and to the Secretary, at such time and in such form as the Secretary may require, an application containing such information and assurances as the Secretary may require; and
 
@@ -66,7 +66,7 @@ A State is eligible to receive a grant under subsection (a)(1) of this section o
 
 #### (2) Grants to hospitals, facilities, and consortia
 
-&emsp;A hospital or facility shall use a grant received under subsection (a)(2) of this sectionto finance the costs it incurs in converting itself to a rural primary care hospital or an essential access community hospital or in becoming part of a rural health network in the State in which it is located, including capital costs, costs incurred in the development of necessary communications systems, and costs incurred in the development of an emergency transportation system. A consortium shall use a grant received under subsection (a)(2) of this section to finance the costs it incurs in converting hospitals or facilities that are part of the consortium into rural primary care hospitals or in developing and implementing a rural health network consisting of its members in the State in which it is located, including capital costs, costs incurred in the development of necessary communications systems, and costs incurred in the development of an emergency transportation system.
+&emsp;A hospital or facility shall use a grant received under subsection (a)(2) of this section to finance the costs it incurs in converting itself to a rural primary care hospital or an essential access community hospital or in becoming part of a rural health network in the State in which it is located, including capital costs, costs incurred in the development of necessary communications systems, and costs incurred in the development of an emergency transportation system. A consortium shall use a grant received under subsection (a)(2) of this section to finance the costs it incurs in converting hospitals or facilities that are part of the consortium into rural primary care hospitals or in developing and implementing a rural health network consisting of its members in the State in which it is located, including capital costs, costs incurred in the development of necessary communications systems, and costs incurred in the development of an emergency transportation system.
 
 #### (e) Designation by State of essential access community hospitals
 
@@ -94,7 +94,7 @@ A State may designate a hospital as an essential access community hospital only 
 
 &emsp;&emsp;(C) has ceased, or agrees (upon the approval of such application) to cease, providing inpatient care (except as required under subparagraph (F));
 
-&emsp;&emsp;(D) in the case of a facility that is a member of a rural health network, has in effect an agreement to participate with other hospitals and facilities in the communications system of such network, including the network's system for the electronic sharing of patient data, including telemetry and medical records, if the network has in operation such a system;
+&emsp;&emsp;(D) in the case of a facility that is a member of a rural health network, has in effect an agreement to participate with other hospitals and facilities in the communications system of such network, including the network's system for the electronic sharing ofpatient data, including telemetry and medical records, if the network has in operation such a system;
 
 &emsp;&emsp;(E) makes available 24-hour emergency care;
 
@@ -224,7 +224,7 @@ Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
-Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this titleunder which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
+Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
 
 Subsec. (f)(4). Pub. L. 103–432, §102(a)(2), added par. (4).
 

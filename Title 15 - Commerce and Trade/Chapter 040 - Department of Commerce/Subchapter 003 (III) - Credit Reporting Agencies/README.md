@@ -29,5 +29,6 @@ This subchapter is referred to in title 18 section 1030; title 20 section 1080a;
 - [&sect; 01681q - Obtaining information under false pretenses](%C2%A7%2001681q%20-%20Obtaining%20information%20under%20false%20pretenses.md)
 - [&sect; 01681r - Unauthorized disclosures by officers or employees](%C2%A7%2001681r%20-%20Unauthorized%20disclosures%20by%20officers%20or%20employees.md)
 - [&sect; 01681s - Administrative enforcement](%C2%A7%2001681s%20-%20Administrative%20enforcement.md)
-- [&sect; 01681s 1 - Information on overdue child support obligations](%C2%A7%2001681s%201%20-%20Information%20on%20overdue%20child%20support%20obligations.md)
+- [&sect; 01681s&#8211;1 - Information on overdue child support obligations](%C2%A7%2001681s%E2%80%931%20-%20Information%20on%20overdue%20child%20support%20obligations.md)
 - [&sect; 01681t - Relation to State laws](%C2%A7%2001681t%20-%20Relation%20to%20State%20laws.md)
+- [&sect; 01681u - Disclosures to FBI for counterintelligence purposes](%C2%A7%2001681u%20-%20Disclosures%20to%20FBI%20for%20counterintelligence%20purposes.md)

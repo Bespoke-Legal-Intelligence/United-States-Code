@@ -32,7 +32,7 @@ For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151
 
 #### (e) Authority of Secretary of the Army to prevent obstruction to navigation
 
-The authority of the Secretary of the Army to prevent obstruction to navigation in the navigable waters of the United States is extended to the artificial islands, installations, and otherdevices referred to in subsection (a) of this section.
+The authority of the Secretary of the Army to prevent obstruction to navigation in the navigable waters of the United States is extended to the artificial islands, installations, and other devices referred to in subsection (a) of this section.
 
 #### (f) Provisions as nonexclusive
 

@@ -82,7 +82,7 @@ Pipeline Facilities Offshore and in Navigable Waters.—(1) In this subsection�
 
 (B) Not later than October 24, 1995, the operator of a pipeline facility abandoned before October 24, 1992, shall report to the Secretary reasonably available information related to the facility, including information that a third party possesses. The information shall include the location, size, date, and method of abandonment, whether the facility has been abandoned properly under applicable law, and other relevant information the Secretary may require. Not later than April 24, 1994, the Secretary shall specify how the information shall be reported. The Secretary shall ensure that the Government maintains the information in a way accessible to appropriate Government agencies and State authorities.
 
-(C) The Secretary shall request that a State authority having information on a collision between a vessel and an underwater pipeline facility report the information to the Secretary in a timely way and make a reasonable effort to specify the location, date, and severity of thecollision. Chapter 35 of title 44 does not apply to this subparagraph.
+(C) The Secretary shall request that a State authority having information on a collision between a vessel and an underwater pipeline facility report the information to the Secretary in a timely way and make a reasonable effort to specify the location, date, and severity of the collision. Chapter 35 of title 44 does not apply to this subparagraph.
 
 (7) The Secretary may not exempt from this chapter an offshore hazardous liquid pipeline facility only because the pipeline facility transfers hazardous liquid in an underwater pipeline between a vessel and an onshore facility.
 
@@ -296,35 +296,7 @@ Section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979,
 
 #### Study of Underwater Abandoned Pipeline Facilities
 
-Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, provided that:
-
-“(a)
-
-Study.—The Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, the fishing and maritime industries, and other affected groups, shall undertake a study of the abandonment of such pipeline facilities. Such study shall include—
-
-&emsp;“(1) a survey of Federal policies and authorities with respect to abandonment of such pipeline facilities;
-
-&emsp;“(2) an analysis of the extent and nature of the problems currently caused by such pipeline facilities;
-
-&emsp;“(3) an analysis of alternative methods and requirements for abandonment as well as the relevant costs and other factors associated with those alternative methods and requirements;
-
-&emsp;“(4) an analysis of the navigational, safety, and environmental impacts and economic costs associated with the disposition of pipeline facilities permanently removed from service;
-
-&emsp;“(5) an analysis of various factors associated with retroactively imposing requirements on previously abandoned pipeline facilities; and
-
-&emsp;“(6) other matters as may contribute to the development of a recommendation for Federal action.
-
-“(b)
-
-Report to Congress.—Not later than 3 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall submit to Congress a report on the results of the study undertaken under this section, together with a recommendation for Federal action.
-
-“(c)
-
-Additional Authority.—Based on the findings of the study undertaken under this section, the Secretary may require, by regulations issued under the Natural Gas Pipeline Safety Act of 1968 \[now this chapter\] or the Hazardous Liquid Pipeline Safety Act of 1979 \[now this chapter\], operators of facilities abandoned before the date of the enactment of this Act \[Oct. 24, 1992\] to take any additional appropriate actions to prevent hazards to navigation in connection with such facilities.
-
-“(d)
-
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $300,000 for fiscal years beginning after September 30, 1992. Such funds shall remain available until expended.”
+Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
 
 #### Section Referred to in Other Sections
 

@@ -62,7 +62,7 @@ Public Law 99–88, referred to in subsec. (f), is Pub. L. 99–88, Aug. 15, 198
 
 The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L. 89–298, Oct. 27, 1965, 79 Stat. 1073. Provisions of that Act authorizing the project for Mississippi Delta Region, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
+The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, asamended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
 #### Amendments
 

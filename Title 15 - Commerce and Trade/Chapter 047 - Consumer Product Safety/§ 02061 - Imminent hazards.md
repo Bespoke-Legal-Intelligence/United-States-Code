@@ -24,21 +24,21 @@ Where appropriate, concurrently with the filing of such action or as soon therea
 
 Notwithstanding any other provision of law, in any action under this section, the Commission may direct attorneys employed by it to appear and represent it.
 
-#### (g)<sup>1</sup> Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required
+#### (g) <sup>1</sup> Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required
 
 Nothing in this section shall be construed to require the Commission, in determining whether to bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
 
-(Pub. L. 92 573, §12, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 97 35, title XII, §1205(a)(2), Aug. 13, 1981, 95 Stat. 716; Pub. L. 101 608, title I, §111(a)(1), Nov. 16, 1990, 104 Stat. 3114.)
+(Pub. L. 92–573, §12, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 97–35, title XII, §1205(a)(2), Aug. 13, 1981, 95 Stat. 716; Pub. L. 101–608, title I, §111(a)(1), Nov. 16, 1990, 104 Stat. 3114.)
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101 608 added subsec. (g).
+1990—Subsec. (g). Pub. L. 101–608 added subsec. (g).
 
-1981—Subsecs. (d) to (f). Pub. L. 97 35 redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which provided for consultation with the Product Safety Advisory Council by the Commission prior to commencing an action, was struck out.
+1981—Subsecs. (d) to (f). Pub. L. 97–35 redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which provided for consultation with the Product Safety Advisory Council by the Commission prior to commencing an action, was struck out.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Federal Rules of Civil Procedure
 
@@ -46,7 +46,7 @@ Admiralty and maritime rules of practice (which included libel procedures) were 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2055, 2064, 2066 of this title; title 42 section 300j 22.
+This section is referred to in sections 2055, 2064, 2066 of this title; title 42 section 300j–22.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “(f)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “(f)”.</i>
 

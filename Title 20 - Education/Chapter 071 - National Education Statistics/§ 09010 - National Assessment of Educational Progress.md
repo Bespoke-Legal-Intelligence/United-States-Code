@@ -104,7 +104,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall provide for continuing review of the National Assessment, State assessments, and student performance levels, by one or more nationally recognized evaluation organizations, such as the National Academy of Education and the National Academy of Sciences.
+&emsp;(A) The Secretary shall provide for continuing review of the National Assessment, Stateassessments, and student performance levels, by one or more nationally recognized evaluation organizations, such as the National Academy of Education and the National Academy of Sciences.
 
 &emsp;(B) Such continuing review shall address—
 
@@ -130,7 +130,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 &emsp;The Secretary and the Secretary of the Interior may enter into an agreement, including such terms as are mutually satisfactory, to include in the National Assessment schools for Indian children operated or supported by the Bureau of Indian Affairs.
 
-(Pub. L. 103 382, title IV, §411, Oct. 20, 1994, 108 Stat. 4036.)
+(Pub. L. 103–382, title IV, §411, Oct. 20, 1994, 108 Stat. 4036.)
 
 #### Section Referred to in Other Sections
 

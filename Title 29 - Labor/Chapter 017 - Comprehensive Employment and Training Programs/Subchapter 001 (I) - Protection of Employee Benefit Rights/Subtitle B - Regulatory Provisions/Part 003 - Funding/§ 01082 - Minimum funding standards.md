@@ -76,7 +76,7 @@ Permissible range.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the <sup>1</sup> weighted average of the rates of interest on 30-year Treasury securities during the4-year period ending on the last day before the beginning of the plan year.
+In general.—Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the <sup>1</sup> weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -130,7 +130,7 @@ Assumptions.—Notwithstanding subsection (c)(3)(A)(i) of this section, the inte
 
 (2)(A) For purposes of this part, the value of the plan's assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary of the Treasury.
 
-(B) For purposes of this part, the value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary of the Treasury. In the case of a plan other than amultiemployer plan, this subparagraph shall not apply, but the Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5) of this section.
+(B) For purposes of this part, the value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary of the Treasury. In the case of a plan other than a multiemployer plan, this subparagraph shall not apply, but the Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5) of this section.
 
 (3) For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods—
 
@@ -210,7 +210,7 @@ Regulatory authority.—The Secretary of the Treasury may by regulations provide
 
 &emsp;&emsp;(ii) alternative methods based on factors other than current liability for the determination of the amount taken into account under subparagraph (A)(i), and
 
-&emsp;&emsp;(iii) for the treatment under this section of contributions which would be required to bemade under the plan but for the provisions of subparagraph (A)(i)(I).
+&emsp;&emsp;(iii) for the treatment under this section of contributions which would be required to be made under the plan but for the provisions of subparagraph (A)(i)(I).
 
 &emsp;(E)
 
@@ -278,7 +278,7 @@ Controlled group.—For purposes of clause (i), the term “controlled group” 
 
 (12)
 
-Anticipation of benefit increases effective in the future.—In determining projected benefits, the funding method of a collectively bargained plan described in section 413(a) of title 26 (other than a multiemployer plan) shall anticipate benefit increases scheduled to take effect during the term of the collective bargaining agreement applicable to the plan.
+Anticipation of benefit increases effective in the future.—In determining projected benefits, the funding method of a collectivelybargained plan described in section 413(a) of title 26 (other than a multiemployer plan) shall anticipate benefit increases scheduled to take effect during the term of the collective bargaining agreement applicable to the plan.
 
 #### (d) Additional funding requirements for plans which are not multiemployer plans
 
@@ -294,7 +294,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;(B) the unpredictable contingent event amount (if any) for such plan year.
 
-> &emsp;Such increase shall not exceed the amount which, after taking into account charges\(other than the additional charge under this subsection) and credits under subsection (b) of this section, is necessary to increase the funded current liability percentage (taking into account the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
+> &emsp;Such increase shall not exceed the amount which, after taking into account charges (other than the additional charge under this subsection) and credits under subsection (b) of this section, is necessary to increase the funded current liability percentage (taking into account the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
 
 #### (2) Deficit reduction contribution
 
@@ -482,7 +482,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (D) Special rule for first year of amortization
 
-&emsp;&emsp;Unless the employer elects otherwise, the amount determined under subparagraph (A) for the plan year in which the event occurs shall be equal to 150 percent of the amount determined under subparagraph (A)(i). The amount under subparagraph (A)(ii) for subsequent plan years in the amortization period shall be adjusted in the manner provided by the Secretary of the Treasury to reflect the application of this subparagraph.
+&emsp;&emsp;Unless the employer elects otherwise, the amount determined under subparagraph (A)for the plan year in which the event occurs shall be equal to 150 percent of the amount determined under subparagraph (A)(i). The amount under subparagraph (A)(ii) for subsequent plan years in the amortization period shall be adjusted in the manner provided by the Secretary of the Treasury to reflect the application of this subparagraph.
 
 #### (E) Limitation
 
@@ -496,7 +496,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (B) Plans with more than 100 but not more than 150 participants
 
-&emsp;&emsp;In the case of a plan to which subparagraph (A) does not apply and which on eachday during the preceding plan year had no more than 150 participants, the amount of the increase under paragraph (1) for such plan year shall be equal to the product of—
+&emsp;&emsp;In the case of a plan to which subparagraph (A) does not apply and which on each day during the preceding plan year had no more than 150 participants, the amount of the increase under paragraph (1) for such plan year shall be equal to the product of—
 
 &emsp;&emsp;&emsp;(i) such increase determined without regard to this subparagraph, multiplied by
 
@@ -594,7 +594,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning after December 31, 1995, the Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under clause (ii)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. Such Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning after December 31, 1995, the Secretary ofthe Treasury shall establish mortality tables which may be used (in lieu of the tables under clause (ii)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. Such Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
 
 #### (II) Special rule for disabilities occurring after 1994
 
@@ -602,7 +602,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (III) Plan years beginning in 1995
 
-&emsp;&emsp;&emsp;&emsp;In the case of any plan year beginning in 1995, a plan may use its own mortalityassumptions for individuals who are entitled to benefits under the plan on account of disability.
+&emsp;&emsp;&emsp;&emsp;In the case of any plan year beginning in 1995, a plan may use its own mortality assumptions for individuals who are entitled to benefits under the plan on account of disability.
 
 #### (D) Certain service disregarded
 
@@ -724,7 +724,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;&emsp;&emsp;(II) The plan had no additional funding requirement under this subsection (or would have had no such requirement if its funded current liability percentage had been determined under subparagraph (C)).
 
-&emsp;&emsp;&emsp;&emsp;(III) The plan's additional funding requirement under this subsection did notexceed the lesser of 0.5 percent of current liability or $5,000,000.
+&emsp;&emsp;&emsp;&emsp;(III) The plan's additional funding requirement under this subsection did not exceed the lesser of 0.5 percent of current liability or $5,000,000.
 
 #### (ii) Special rule for 1995 and 1996
 
@@ -828,7 +828,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (II) Plans initially under clause (i)
 
-&emsp;&emsp;&emsp;&emsp;In the case of a plan which (but for this subclause) has an initial funded current liability percentage of 75 percent or less, clause (ii) (and not clause (i)) shall apply to such plan with respect to applicable plan years beginning after the first applicable plan year for which the sum of the initial funded current liability percentage and the applicable number of percentage points (determined under clause (i)) exceeds 75 percent. For purposes of applying clause (ii) to such a plan, the initial funded current liability percentage of such plan shall be treated as being the sum referred to in the preceding sentence.
+&emsp;&emsp;&emsp;&emsp;In the case of a plan which (but for this subclause) has an initial funded current liability percentage of 75 percent or less,clause (ii) (and not clause (i)) shall apply to such plan with respect to applicable plan years beginning after the first applicable plan year for which the sum of the initial funded current liability percentage and the applicable number of percentage points (determined under clause (i)) exceeds 75 percent. For purposes of applying clause (ii) to such a plan, the initial funded current liability percentage of such plan shall be treated as being the sum referred to in the preceding sentence.
 
 #### (C) Definitions
 
@@ -1035,7 +1035,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (B) Short plan year
 
-&emsp;&emsp;This section shall be applied to plan years of less than 12 months in accordance with regulations prescribed by the Secretary of the Treasury.
+&emsp;&emsp;This section shall be applied to plan years of less than 12 months in accordance withregulations prescribed by the Secretary of the Treasury.
 
 #### (f) Imposition of lien where failure to make required contributions
 
@@ -1051,7 +1051,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (2) Plans to which subsection applies
 
-&emsp;This subsection shall apply to a defined benefit plan (other than a multiemployer plan) forany plan year for which the funded current liability percentage (within the meaning of subsection (d)(8)(B) of this section) of such plan is less than 100 percent.
+&emsp;This subsection shall apply to a defined benefit plan (other than a multiemployer plan) for any plan year for which the funded current liability percentage (within the meaning of subsection (d)(8)(B) of this section) of such plan is less than 100 percent.
 
 #### (3) Amount of lien
 

@@ -40,7 +40,7 @@ Civil Actions To Enforce.—(1) The Attorney General may bring a civil action in
 
 (d)
 
-Jury Trial Demand.—In a trial for criminal contempt for violating an injunction or restraining order issued under subsection (c) of this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be triedas provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
+Jury Trial Demand.—In a trial for criminal contempt for violating an injunction or restraining order issued under subsection (c) of this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 
 (e)
 

@@ -56,7 +56,7 @@ For the purposes of this Act, the term—
 
 &emsp;(27) “person” means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body;
 
-&emsp;(28) “permittee” means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
+&emsp;(28) “permittee” means a person holding an authorization, license, or permit for geologicalexploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
 
 &emsp;(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
 
@@ -72,7 +72,7 @@ Vessels.—In the case of a vessel, any person owning, operating, or demise char
 
 &emsp;&emsp;(B)
 
-Onshore facilities.—In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to usethe property to another person by lease, assignment, or permit.
+Onshore facilities.—In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to use the property to another person by lease, assignment, or permit.
 
 &emsp;&emsp;(C)
 
@@ -124,9 +124,13 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 Section 1020 of title I of Pub. L. 101–380 provided that: “This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\].”
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–55, §1, Nov. 20, 1995, 109 Stat. 546, provided that: “This Act \[enacting section 2720 of this title and amending sections 2704 and 2716 of this title\] may be cited as the ‘Edible Oil Regulatory Reform Act’.”
+
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, §4001, Nov. 29, 1990, 104 Stat. 4788, provided that: “This title \[amending section 2761 of this title\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
+Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, §4001, Nov. 29, 1990,104 Stat. 4788, provided that: “This title \[amending section 2761 of this title\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
 
 #### Short Title
 

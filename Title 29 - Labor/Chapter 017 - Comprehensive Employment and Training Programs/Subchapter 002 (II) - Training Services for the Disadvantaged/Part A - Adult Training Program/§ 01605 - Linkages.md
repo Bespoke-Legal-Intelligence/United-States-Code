@@ -52,7 +52,7 @@ The National Apprenticeship Act, referred to in subsec. (a)(6), is act Aug. 16, 
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 357, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) ofchapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 The Trade Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 

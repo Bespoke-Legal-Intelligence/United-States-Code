@@ -112,7 +112,7 @@ Near-elderly person.—The term “near-elderly person” means a person who is 
 
 When used in reference to public housing:
 
-(1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
+(1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the developmentof such project. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
 (2) The term “operation” means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term “tenant programs and services” includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
@@ -144,7 +144,7 @@ The Family Support Act of 1988, referred to in subsec. (c), is Pub. L. 100–485
 
 #### Prior Provisions
 
-A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, established the United States HousingAuthority and was classified to section 1403 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, established the United States Housing Authority and was classified to section 1403 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 Prior similar provisions were contained in section 2 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, which was classified to section 1402 of this title prior to the general revision of this chapter by Pub. L. 93–383.
 
@@ -164,7 +164,7 @@ Subsec. (b)(4). Pub. L. 102–550, §103(a)(1), inserted “and any amounts whic
 
 Subsec. (b)(5)(B). Pub. L. 102–550, §625(a)(1), inserted “or disabled” after “elderly”.
 
-Subsec. (b)(5)(D). Pub. L. 102–550, §103(a)(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “(i) child care expenses to the extent necessary to enable another member of the family to be employed or to further his or her education; or (ii) excessive travel expenses, not to exceed $25 per family per week, for employment or education related travel, except that this clause shall apply only to families assisted by Indian housing authorities;”.
+Subsec. (b)(5)(D). Pub. L. 102–550, §103(a)(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “(i) child care expenses to the extentnecessary to enable another member of the family to be employed or to further his or her education; or (ii) excessive travel expenses, not to exceed $25 per family per week, for employment or education related travel, except that this clause shall apply only to families assisted by Indian housing authorities;”.
 
 Subsec. (b)(5)(G). Pub. L. 102–550, §103(a)(2)(B)–(D), added subpar. (G).
 
@@ -220,7 +220,7 @@ Subsec. (b)(5)(C). Pub. L. 98–479, §102(b)(3), designated existing provision 
 
 1983—Subsec. (a). Pub. L. 98–181, §206(a), in provisions preceding par. (1), inserted provision requiring annual review of family income, and inserted “(other than a family assisted under section 1437f(<i>o</i>) of this title)”.
 
-Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term “very low-income families” in authorizing the Secretary to establish, where necessary, variations inincome ceilings higher or lower than 50 per centum of the median for the area.
+Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term “very low-income families” in authorizing the Secretary to establish, where necessary, variations in income ceilings higher or lower than 50 per centum of the median for the area.
 
 Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) authorizing increase from 15 to 30 per centum in the single person occupancy limitation for nonoccupancy of the involved dwelling units.
 
@@ -236,7 +236,7 @@ Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substitu
 
 #### Effective Date of 1992 Amendment
 
-Section 103(a)(3) of title I of Pub. L. 102–550 provided that: “To the extent that the amendments made by paragraphs (1) and (2) \[amending this section\] result in additional costs under this title \[see Tables for classification\], such amendments shall be effective only to the extent that amounts to cover such additional costs are provided in advance in appropriation Acts.”
+Section 103(a)(3) of title I of Pub. L. 102–550 provided that: “To the extent that the amendments made by paragraphs (1) and (2) \[amending this section\] result inadditional costs under this title \[see Tables for classification\], such amendments shall be effective only to the extent that amounts to cover such additional costs are provided in advance in appropriation Acts.”
 
 Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
@@ -356,7 +356,7 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(2) Tenants of assisted housing other than those referred to in paragraph (1) shall be subject to immediate rent payment or contribution determinations in accordance with applicable law and without regard to the provisions of paragraph (1), but the Secretary shall provide that the rent or contribution payable by any such tenant who is occupying assisted housing on the effective date of any provision of Federal law or regulation shall not increase, as a result of any such provision of Federal law or regulation, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such law or regulation.
 
-“(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted toassistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
+“(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted to assistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
 
 “(4)(A) Notwithstanding any other provision of law, in the case of the conversion of any assistance under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 236(f)(2) of the National Housing Act \[12 U.S.C. 1715z–1(f)(2)\], or section 23 of the United States Housing Act of 1937 \[section 1421b of this title\] (as in effect before the date of the enactment of the Housing and Community Development Act of 1974 \[Aug. 22, 1974\]) to assistance under section 8 of the United States Housing Act of 1937, any increase in rent payments or contributions resulting from such conversion, and from the amendments made by this section of any tenant benefiting from such assistance who is sixty-two years of age or older may not exceed 10 per centum per annum.
 

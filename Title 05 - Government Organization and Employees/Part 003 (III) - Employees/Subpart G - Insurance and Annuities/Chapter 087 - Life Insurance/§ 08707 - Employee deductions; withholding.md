@@ -1,8 +1,8 @@
-### §8707 . Employee deductions; withholding
+### §8707. Employee deductions; withholding
 
 (a) During each period in which an employee is insured under a policy purchased by the Office of Personnel Management under section 8709 of this title, there shall be withheld from the employee's pay a share of the cost of the group life insurance and accidental death and dismemberment insurance.
 
-(b)(1) Whenever life insurance continues after an employee retires on an immediate annuity orwhile the employee is receiving compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided in section 8706(b) of this title, deductions for insurance shall be withheld from the employee's annuity or compensation, except that, in any case in which the insurance is continued as provided in section 8706(b)(3)(A) of this title, the deductions shall not be made for months after the calendar month in which the employee becomes 65 years of age.
+(b)(1) Whenever life insurance continues after an employee retires on an immediate annuity or while the employee is receiving compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided in section 8706(b) of this title, deductions for insurance shall be withheld from the employee's annuity or compensation, except that, in any case in which the insurance is continued as provided in section 8706(b)(3)(A) of this title, the deductions shall not be made for months after the calendar month in which the employee becomes 65 years of age.
 
 (2) Notwithstanding paragraph (1) of this subsection, insurance shall be so continued without cost (other than as provided under section 8706(b)(3)(B)) to each employee who so retires, or commences receiving compensation, on or before December 31, 1989.
 
@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–427 designated first sentence of existing section as subsec. (a) and substituted “a policy purchased” for “a policy of insurance purchased” and “the employee's pay a share of the cost” for “the pay of the employee his share of the cost”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–427 designated first sentence of existing section as subsec. (a) and substituted “a policy purchased” for “a policy of insurance purchased” and “the employee's pay a share of the cost” for “the pay of the employee his share of the cost”.
 
 Subsec. (b). Pub. L. 96–427 added subsec. (b).
 
@@ -38,9 +38,9 @@ Subsec. (c). Pub. L. 96–427 designated second sentence of existing section as 
 
 Subsec. (d). Pub. L. 96–427 added subsec. (d).
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-1967—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined by the Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
+<b>1967</b>—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined by the Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
 
 #### Effective Date of 1980 Amendment
 

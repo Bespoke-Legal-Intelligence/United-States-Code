@@ -64,5 +64,5 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 303a, 551, 554 of this title.
+This section is referred to in sections 303a, 551, 554 of this title; title 17 section 114.
 

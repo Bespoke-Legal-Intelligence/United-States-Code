@@ -20,7 +20,7 @@ The Joint Committee shall be composed of 10 members as follows:
 
 #### (2) Exception
 
-&emsp;The members chosen by the Committee on Ways and Means who have been reelected to the House of Representatives may continue to serve as members of the Joint Committee notwithstanding the expiration of the Congress.
+&emsp;The members chosen by the Committee on Ways and Means who have been reelected tothe House of Representatives may continue to serve as members of the Joint Committee notwithstanding the expiration of the Congress.
 
 #### (c) Vacancies
 

@@ -40,21 +40,21 @@ The Secretary shall by grant or contract on a biennial basis, with the Council o
 
 &emsp;(6) providing, through the institutions, agencies, and organizations selected under paragraph (4), for not more than 6 months prior to entry of such individuals upon their course of training for the legal profession, or following entry, training designed to assist them to complete successfully such training for the legal profession;
 
-&emsp;(7) paying such stipends (including allowances for participant travel and for their dependents) as the Secretary may determine for such individuals for any such period of preliminary training for the legal profession during which such individuals maintain satisfactory academic progress toward the J.D. or LL.B. degree, as determined by the respective institution; and
+&emsp;(7) paying such stipends (including allowances for participant travel and for their dependents) as the Secretary may determine for such individuals for any such period of preliminary training for the legal profession during which such individuals maintain satisfactory academic progress toward the J.D. orLL.B. degree, as determined by the respective institution; and
 
 &emsp;(8) paying for administrative activities of the institutions of higher education, agencies, or organizations which receive subgrants or contracts under paragraph (6), or with which such contracts are entered into, to the extent that such activities are for the purpose of furthering the activities described in paragraphs (1) through (7).
 
-(Pub. L. 89 329, title IX, §961, as added Pub. L. 99 498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1558; amended Pub. L. 102 325, title IX, §901, July 23, 1992, 106 Stat. 775.)
+(Pub. L. 89–329, title IX, §961, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1558; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 775.)
 
 #### Prior Provisions
 
-A prior section 1134s, Pub. L. 89 329, title IX, §981, as added Pub. L. 92 318, title X, §1001(b), June 23, 1972, 86 Stat. 380, related to a program of general assistance to graduate schools, prior to repeal by Pub. L. 96 374, title IX, §902(b), Oct. 3, 1980, 94 Stat. 1484, eff. Oct. 1, 1980. Subsequent to repeal of this section, subsec. (f) of this section was repealed by Pub. L. 96 470, title I, §106(c), Oct. 19, 1980, 94 Stat. 2238.
+A prior section 1134s, Pub. L. 89–329, title IX, §981, as added Pub. L. 92–318, title X, §1001(b), June 23, 1972, 86 Stat. 380, related to a program of general assistance to graduate schools, prior to repeal by Pub. L. 96–374, title IX, §902(b), Oct. 3, 1980, 94 Stat. 1484, eff. Oct. 1, 1980. Subsequent to repeal of this section, subsec. (f) of this section was repealed by Pub. L. 96–470, title I, §106(c), Oct. 19, 1980, 94 Stat. 2238.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to requirements of assistance for training in legal profession program for provisions authorizing law school clinical experience program.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to requirements of assistance for training in legal profession program for provisions authorizing law school clinical experience program.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

@@ -46,7 +46,7 @@ To the extent necessary or appropriate to perform functions and carry out progra
 
 #### (i) Utilization of technical and management capabilities of other executive agencies; assignment of specific programs or projects in energy research and development
 
-In the exercise of his responsibilities under section 5813 of this title, the Administrator shall utilize, with their consent, to the fullest extent he determines advisable the technical and management capabilities of other executive agencies having facilities, personnel, or other resources which can assist or advantageously be expanded to assist in carrying out such responsibilities. The Administrator shall consult with the head of each agency with respect to such facilities, personnel, or other resources, and may assign, with their consent, specific programs or projects in energy research and development as appropriate. In making such assignments under this subsection, the head of each such agency shall insure that—
+In the exercise of his responsibilities under section 5813 of this title, the Administrator shall utilize, with their consent, to the fullest extent he determines advisable the technical and management capabilities of other executive agencies having facilities, personnel, or other resources which can assist or advantageously be expandedto assist in carrying out such responsibilities. The Administrator shall consult with the head of each agency with respect to such facilities, personnel, or other resources, and may assign, with their consent, specific programs or projects in energy research and development as appropriate. In making such assignments under this subsection, the head of each such agency shall insure that—
 
 &emsp;(1) such assignments shall be in addition to and not detract from the basic mission responsibilities of the agency, and
 
@@ -196,7 +196,7 @@ Subsections 31a; 31c; and 31d. \[42 U.S.C. 2051(a), (c), (d)\] (research assista
 
 Section 51 \[42 U.S.C. 2071\]; provided, that the respective determinations shall be made as indicated in Chapter 2 above.
 
-Subsection 53a \[42 U.S.C. 2073(a)\]; provided, that subdivisions (ii) and (iii) of said subsection (distributing and making available special nuclear material) shallapply only to ERDA, and subsection (i) (licenses) shall apply only to NSLC.
+Subsection 53a \[42 U.S.C. 2073(a)\]; provided, that subdivisions (ii) and (iii) of said subsection (distributing and making available special nuclear material) shall apply only to ERDA, and subsection (i) (licenses) shall apply only to NSLC.
 
 Section 55 \[42 U.S.C. 2075\] (“Acquisition”).
 

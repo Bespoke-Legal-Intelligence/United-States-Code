@@ -24,9 +24,9 @@ In this subchapter:
 
 &emsp;(2) The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
 
-(Pub. L. 100 180, div. A, title II, §271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103 160, div. A, title II, §263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
+(Pub. L. 100–180, div. A, title II, §271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
 
 #### Amendments
 
-1993—Subsec. (c)(1). Pub. L. 103 160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
+1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
 

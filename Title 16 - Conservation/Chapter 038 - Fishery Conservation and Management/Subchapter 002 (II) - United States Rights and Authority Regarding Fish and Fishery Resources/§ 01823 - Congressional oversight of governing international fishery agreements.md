@@ -22,7 +22,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;The provisions of this section are enacted by the Congress—
 
-&emsp;&emsp;(A) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of fishery agreement resolutions described in paragraph (2), and they supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;&emsp;(A) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and they are deemed a part of the rules of each House, respectively, butapplicable only with respect to the procedure to be followed in that House in the case of fishery agreement resolutions described in paragraph (2), and they supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedure of that House) at any time, and in the same manner and to the same extent as in the case of any other rule of that House.
 
@@ -68,17 +68,21 @@ For purposes of subsection (a) of this section—
 
 Subsec. (d)(2)(B). Pub. L. 103–437, §6(x)(2), substituted “Commerce, Science, and Transportation” for “Commerce”.
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–43, title V, §501, Nov. 3, 1995, 109 Stat. 391, provided that: “This title \[amending provisions set out below\] may be cited as the ‘Sea of Okhotsk Fisheries Enforcement Act of 1995’.”
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Governing International Fishery Agreement With Republic of Estonia
 
-Pub. L. 102–587, title I, §1001, Nov. 4, 1992, 106 Stat. 5039, provided that: “Notwithstanding section 203 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, as contained in the message to Congress from the President of the United States dated June 24, 1992, is approved by the Congress as a governing international fishery agreement for the purposes of such Act \[16 U.S.C. 1801 et seq.\] and shall enter into force and effect with respect to the United States on the date of enactment of this title \[Nov. 4, 1992\].”
+Pub. L. 102–587, title I, §1001, Nov. 4, 1992, 106 Stat. 5039, provided that: “Notwithstanding section 203 of theMagnuson Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, as contained in the message to Congress from the President of the United States dated June 24, 1992, is approved by the Congress as a governing international fishery agreement for the purposes of such Act \[16 U.S.C. 1801 et seq.\] and shall enter into force and effect with respect to the United States on the date of enactment of this title \[Nov. 4, 1992\].”
 
-#### Fisheries Enforcement in Central Bering Sea
+#### Fisheries Enforcement in Central Bering Sea and Central Sea of Okhotsk
 
-Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, provided that:
+Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, §502, Nov. 3, 1995, 109 Stat. 391, provided that:
 
 #### “SEC. 301. SHORT TITLE.
 
@@ -88,11 +92,11 @@ Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, provided that:
 
 “(a)
 
-Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
+Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea and the Central Sea of Okhotsk, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
 
 “(b)
 
-Civil Penalties and Permit Sanctions.—A violation of this section shall be subject to civil penaltiesand permit sanctions under section 308 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1858).
+Civil Penalties and Permit Sanctions.—A violation of this section shall be subject to civil penalties and permit sanctions under section 308 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1858).
 
 #### “SEC. 303. PORT PRIVILEGES DENIAL FOR FISHING IN CENTRAL BERING SEA.
 
@@ -158,13 +162,17 @@ Central bering sea.—The term ‘Central Bering Sea’ means the central Bering
 
 &emsp;“(2)
 
+Central sea of okhotsk.—The term ‘Central Sea of Okhotsk’ means the Central Sea of Okhotsk area which is more than two hundred nautical miles seaward of the baseline from which the breadth of the territorial sea of the Russian Federation is measured.
+
+&emsp;“(3)
+
 Fishing vessel.—The term ‘fishing vessel’ means any vessel which is used for—
 
 &emsp;&emsp;“(A) catching, taking, or harvesting fish; or
 
 &emsp;&emsp;“(B) aiding or assisting one or more vessels at sea in the performance of fishing operations, including preparation, supply, storage, refrigeration, transportation, or processing.
 
-&emsp;“(3)
+&emsp;“(4)
 
 Owns or controls.—When used in reference to a vessel or processing facility—
 
@@ -172,15 +180,15 @@ Owns or controls.—When used in reference to a vessel or processing facility—
 
 &emsp;&emsp;“(B) the term ‘controls’ includes an absolute right to direct the business of the person owning the vessel or processing facility, to limit the actions of or replace the chief executive officer (by whatever title), a majority of the board of directors, or any general partner (as applicable) of such person, to direct the transfer or operations of the vessel or processing facility, or otherwise to exercise authority over the business of such person, but the term does not include the right simply to participate in those activities of such person or the right to receive a financial return, such as interest or the equivalent of interest, on a loan or other financing obligation.
 
-&emsp;“(4)
+&emsp;“(5)
 
 Permitted fishing vessel.—The term ‘permitted fishing vessel’ means any fishing vessel that is subject to a permit issued by the Secretary of Commerce under the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-&emsp;“(5)
+&emsp;“(6)
 
 Person.—The term ‘person’ means any individual (whether or not a citizen of the United States), any corporation, partnership, association, cooperative, or other entity (whether or not organized under the laws of any State), and any State, local, or foreign government, or any entity of such government or the Federal Government.
 
-&emsp;“(6)
+&emsp;“(7)
 
 Processing facility.—The term ‘processing facility’ means any fish processing establishment or fish processing vessel that receives unprocessed fish.
 
@@ -242,7 +250,7 @@ Pub. L. 100–350, §1, June 27, 1988, 102 Stat. 660, provided: “That notwiths
 
 Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that: “Notwithstanding any provision of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), the governing international fishery agreement entered into between the Government of the United States and the Government of Japan, as contained in the message to the Congress from the President of the United States dated October 30, 1989, is approved by the Congress and shall enter into force and effect with respect to the United States on the date of enactment of this Act \[Dec. 12, 1989\].”
 
-Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that: “Notwithstanding section 203 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States, dated November 17, 1987—
+Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that: “Notwithstanding section 203 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States, as contained in the message to Congress from thePresident of the United States, dated November 17, 1987—
 
 &emsp;“(1) is approved by Congress as a governing international fishery agreement for the purposes of such Act \[16 U.S.C. 1801 et seq.\]; and
 
@@ -374,7 +382,7 @@ Fishing Statistics.—(1) Any person who—
 
 &emsp;“(B) directly or indirectly receives, or may receive, fish to which the Agreement applies in the course of a commercial activity in quantities determined by the Secretary to be sufficient to assist in the carrying out of this paragraph,
 
-> shall submit to the Secretary such statistics (including, but not limited to, catch data) regarding such fishing or such receipt of fish as are necessary to fulfill the obligations of the United States under article XIII of the Agreement. The Secretary, after consultation with the Secretary of State, shall issue such regulations asare necessary and appropriate to carry out the purposes of this paragraph. Section 303(d) of the Magnuson Fishery Conservation and Management Act \[section 1853(d) of this title\] (relating to the confidentiality of statistics) shall apply with respect to all statistics submitted under this paragraph.
+> shall submit to the Secretary such statistics (including, but not limited to, catch data) regarding such fishing or such receipt of fish as are necessary to fulfill the obligations of the United States under article XIII of the Agreement. The Secretary, after consultation with the Secretary of State, shall issue such regulations as are necessary and appropriate to carry out the purposes of this paragraph. Section 303(d) of the Magnuson Fishery Conservation and Management Act \[section 1853(d) of this title\] (relating to the confidentiality of statistics) shall apply with respect to all statistics submitted under this paragraph.
 
 “(2) Any violation of paragraph (1), or of any regulation issued pursuant to paragraph (1), by any person shall be deemed to be an act prohibited by section 307 of the Magnuson Fishery Conservation and Management Act \[section 1857 of this title\]. Any person who commits any such violation shall be liable to the United States for a civil penalty as provided for in section 308 of such Act \[section 1858 of this title\]. Sections 309 \[section 1859 of this title\] (relating to criminal offenses) and 310 \[section 1860 of this title\] (relating to civil forfeiture) of such Act shall not apply with respect to any such violation.
 

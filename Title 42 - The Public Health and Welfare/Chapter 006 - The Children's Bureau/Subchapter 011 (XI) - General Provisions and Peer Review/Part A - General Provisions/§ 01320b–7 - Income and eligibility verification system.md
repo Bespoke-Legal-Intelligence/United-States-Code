@@ -22,7 +22,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the information exchanged by the State agencies is made available only to the extent necessary to assist in the valid administrative needs of the program receiving such information, and the information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986 is only exchanged with agencies authorized to receive such information under such section 6103(<i>l</i>); and
 
-&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
+&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulationsestablished by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
 
 &emsp;(6) all applicants for and recipients of benefits under any such program shall be notified at the time of application, and periodically thereafter, that information available through the system will be requested and utilized; and
 
@@ -98,7 +98,7 @@ The requirements of this subsection, with respect to an income and eligibility v
 
 &emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity to submit to the State evidence indicating a satisfactory immigration status, and
 
-&emsp;&emsp;&emsp;(ii) may not delay, deny, reduce, or terminate the individual's eligibility for benefits under the program on the basis of the individual's immigration status until sucha reasonable opportunity has been provided; and
+&emsp;&emsp;&emsp;(ii) may not delay, deny, reduce, or terminate the individual's eligibility for benefits under the program on the basis of the individual's immigration status until such a reasonable opportunity has been provided; and
 
 &emsp;&emsp;(B) if there are submitted documents which the State determines constitutes reasonable evidence indicating such status—
 
@@ -258,7 +258,7 @@ Section 2651(<i>l</i>) of Pub. L. 98–369 provided that:
 
 “(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
-“(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
+“(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may bywaiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
 
 #### Immigration and Naturalization Service To Establish Verification System by October 1, 1987
 

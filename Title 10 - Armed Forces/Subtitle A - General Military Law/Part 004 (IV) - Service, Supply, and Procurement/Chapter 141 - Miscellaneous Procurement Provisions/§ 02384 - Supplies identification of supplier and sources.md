@@ -52,7 +52,7 @@ Subsec. (b)(3). Pub. L. 103–355, §4102(d), added par. (3).
 
 1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended subsec. (b) identically, designating existing provision as par. (1), redesignating former pars. (1) to (3) as subpars. (A) to (C), respectively, and inserting in provision preceding subpar. (A) “(other than a contract described in paragraph (2))”, and adding par. (2).
 
-1984—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor's identification number for requirement that each contractor furnishing suppliesto a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
+1984—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor's identification number for requirement that each contractor furnishing supplies to a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
 
 #### Effective Date of 1994 Amendment
 

@@ -10,7 +10,7 @@
 
 #### (b) Needs-related payments and supportive services limitation
 
-Of the funds allocated to a substate grantee or to the Governor under this part for any programyear, not more than 25 percent may be expended to provide needs-related payments and other supportive services.
+Of the funds allocated to a substate grantee or to the Governor under this part for any program year, not more than 25 percent may be expended to provide needs-related payments and other supportive services.
 
 #### (c) Administrative cost limitation
 

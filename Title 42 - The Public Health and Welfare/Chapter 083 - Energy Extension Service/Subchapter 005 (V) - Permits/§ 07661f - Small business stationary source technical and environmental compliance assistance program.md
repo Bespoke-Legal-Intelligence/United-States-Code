@@ -2,7 +2,7 @@
 
 #### (a) Plan revisions
 
-Consistent with sections 7410 and 7412 of this title, each State shall, after reasonable notice and public hearings, adopt and submit to the Administrator as part of the State implementation plan for such State or as a revision to such State implementation plan under section 7410 of this title, plans for establishing a small business stationary source technical and environmental compliance assistance program. Such submission shall be made within 24 months after November 15, 1990. The Administrator shall approve such program if it includes each of the following:
+Consistent with sections 7410 and 7412 of this title, each State shall, after reasonable notice and public hearings, adopt and submit to the Administrator as part of the State implementationplan for such State or as a revision to such State implementation plan under section 7410 of this title, plans for establishing a small business stationary source technical and environmental compliance assistance program. Such submission shall be made within 24 months after November 15, 1990. The Administrator shall approve such program if it includes each of the following:
 
 &emsp;(1) Adequate mechanisms for developing, collecting, and coordinating information concerning compliance methods and technologies for small business stationary sources, and programs to encourage lawful cooperation among such sources and other persons to further compliance with this chapter.
 
@@ -50,17 +50,17 @@ The Administrator shall establish within 9 months after November 15, 1990, a sma
 
 (2) Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs <sup>1</sup> (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
 
-(3)(A) The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the Administrator determines tohave sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
+(3)(A) The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the Administrator determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 
 (B) The State, in consultation with the Administrator and the Administrator of the Small Business Administration and after providing notice and opportunity for public hearing, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the State determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 
 #### (d) Monitoring
 
-The Administrator shall direct the Agency's Office of Small and Disadvantaged Business Utilization through the Small Business Ombudsman (hereinafter in this section referred to as the “Ombudsman”) to monitor the small business stationary source technical and environmental compliance assistance program under this section. In carrying out such monitoring activities, the Ombudsman shall—
+The Administrator shall direct the Agency's Office of Small and Disadvantaged Business Utilization through the Small Business Ombudsman (hereinafter in this section referred to as the “Ombudsman”) to monitor the small business stationary source technical and environmental compliance assistance program underthis section. In carrying out such monitoring activities, the Ombudsman shall—
 
 &emsp;(1) render advisory opinions on the overall effectiveness of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program, difficulties encountered, and degree and severity of enforcement;
 
-&emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\], the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
+&emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>2</sup> the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
 
 &emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
 
@@ -72,7 +72,7 @@ The Administrator shall direct the Agency's Office of Small and Disadvantaged Bu
 
 &emsp;(A) render advisory opinions concerning the effectiveness of the small business stationary source technical and environmental compliance assistance program, difficulties encountered, and degree and severity of enforcement;
 
-&emsp;(B) make periodic reports to the Administrator concerning the compliance of the State Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\], the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
+&emsp;(B) make periodic reports to the Administrator concerning the compliance of the State Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>2</sup> the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
 
 &emsp;(C) review information for small business stationary sources to assure such information is understandable by the layperson; and
 
@@ -106,7 +106,7 @@ The Administrator shall consider, consistent with the requirements of this chapt
 
 The Small Business Act, referred to in subsec. (c)(1)(B), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat.2812, as amended, which is classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 

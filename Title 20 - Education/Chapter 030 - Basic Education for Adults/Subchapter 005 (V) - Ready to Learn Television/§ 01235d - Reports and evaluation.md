@@ -20,21 +20,21 @@ The Secretary shall prepare and submit to the relevant committees of Congress a 
 
 &emsp;(2) a description of the training materials made available under section 1235b(3) of this title, the manner in which outreach has been conducted to inform parents and child care providers of the availability of such materials, and the manner in which such materials have been distributed in accordance with such section.
 
-(Pub. L. 90 247, title IV, §475, formerly Pub. L. 89 10, title IV, §4705, as added Pub. L. 102 545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §475 of Pub. L. 90 247 and amended Pub. L. 103 252, title I, §121(a)(1), (2)(C), May 18, 1994, 108 Stat. 649.)
+(Pub. L. 90–247, title IV, §475, formerly Pub. L. 89–10, title IV, §4705, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §475 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(C), May 18, 1994, 108 Stat. 649.)
 
 #### Codification
 
-Section was formerly classified to section 3161d of this title prior to renumbering by Pub. L. 103 252.
+Section was formerly classified to section 3161d of this title prior to renumbering by Pub. L. 103–252.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103 252, §121(a)(2)(C)(i), substituted “1235” for “3161”.
+1994—Subsec. (a). Pub. L. 103–252, §121(a)(2)(C)(i), substituted “1235” for “3161”.
 
-Subsec. (b)(1). Pub. L. 103 252, §121(a)(2)(C)(ii)(I), substituted “1235a(a)” for “3161a(a)”.
+Subsec. (b)(1). Pub. L. 103–252, §121(a)(2)(C)(ii)(I), substituted “1235a(a)” for “3161a(a)”.
 
-Subsec. (b)(2). Pub. L. 103 252, §121(a)(2)(C)(ii)(II), which directed the substitution of “1235b(3)” for “3161b(3)” in par. (1), was executed by making the substitution in par. (2) to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 103–252, §121(a)(2)(C)(ii)(II), which directed the substitution of “1235b(3)” for “3161b(3)” in par. (1), was executed by making the substitution in par. (2) to reflect the probable intent of Congress.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103 252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103 252, set out as a note under section 9832 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of Title 42, The Public Health and Welfare.
 

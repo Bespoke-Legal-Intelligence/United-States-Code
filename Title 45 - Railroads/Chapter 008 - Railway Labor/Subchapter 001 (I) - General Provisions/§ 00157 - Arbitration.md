@@ -42,7 +42,7 @@ The board of arbitration shall furnish a certified copy of its award to the resp
 
 #### (g) Compensation of assistants to board of arbitration; expenses; quarters
 
-A board of arbitration may, subject to the approval of the Mediation Board, employ and fix the compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees,together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board.
+A board of arbitration may, subject to the approval of the Mediation Board, employ and fixthe compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees, together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board.
 
 Whenever practicable, the board shall be supplied with suitable quarters in any Federal building located at its place of meeting or at any place where the board may conduct its proceedings or deliberations.
 
@@ -67,6 +67,10 @@ In par. Third (f), “subtitle IV of title 49” substituted for “the Intersta
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Work Rules Dispute
 

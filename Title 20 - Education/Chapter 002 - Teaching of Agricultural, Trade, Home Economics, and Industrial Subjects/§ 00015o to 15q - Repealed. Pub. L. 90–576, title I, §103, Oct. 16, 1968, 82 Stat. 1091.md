@@ -1,4 +1,4 @@
-### §§15<i>o</i> to 15q . Repealed. Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091
+### §§15<i>o</i> to 15q. Repealed. Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091
 
 Section 15<i>o</i>, acts June 8, 1936, ch. 541, §7, 49 Stat. 1490; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 777; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925, made the Smith-Hughes Vocational Education Act applicable to the development of vocational education.
 

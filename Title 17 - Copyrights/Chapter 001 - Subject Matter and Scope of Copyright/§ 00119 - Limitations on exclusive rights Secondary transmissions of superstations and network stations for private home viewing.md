@@ -6,7 +6,7 @@ Secondary Transmissions by Satellite Carriers.—
 
 &emsp;(1)
 
-Superstations.—Subject to the provisions of paragraphs (3), (4), and (6) of this subsection, secondary transmissions of a primary transmission made by a superstation and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for each retransmission service to each household receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing.
+Superstations.—Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a primary transmission made by a superstation and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for each retransmission service to each household receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing.
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Network stations.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to the provisions of subparagraphs (B) and (C) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection, secondary transmissions of programming contained in a primary transmission made by a network station and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
+In general.—Subject to the provisions of subparagraphs (B) and (C) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of programming contained in a primary transmission made by a network station and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
 
 &emsp;&emsp;(B)
 
@@ -136,7 +136,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;(2)
 
-Investment of fees.—The Register of Copyrights shall receive all fees deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section (other than the costs deducted under paragraph (4)), shall deposit the balance in the Treasury of the UnitedStates, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing securities of the United States for later distribution with interest by the Librarian of Congress as provided by this title.
+Investment of fees.—The Register of Copyrights shall receive all fees deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section (other than the costs deducted under paragraph (4)), shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing securities of the United States for later distribution with interest by the Librarian of Congress as provided by this title.
 
 &emsp;(3)
 
@@ -196,7 +196,7 @@ Notice of initiation of proceedings.—On or before January 1, 1997, the Librari
 
 &emsp;&emsp;(B) <sup>2</sup>
 
-Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average costto a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission of superstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
+Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission ofsuperstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
 
 &emsp;&emsp;&emsp;(i) To maximize the availability of creative works to the public.
 
@@ -268,7 +268,7 @@ Subscriber.—The term “subscriber” means an individual who receives a secon
 
 &emsp;(9)
 
-Superstation.—The term “superstation” means a television broadcast station, otherthan a network station, licensed by the Federal Communications Commission that is secondarily transmitted by a satellite carrier.
+Superstation.—The term “superstation” means a television broadcast station, other than a network station, licensed by the Federal Communications Commission that is secondarily transmitted by a satellite carrier.
 
 &emsp;(10)
 
@@ -286,7 +286,7 @@ Local market.—The term “local market” means the area encompassed within a 
 
 Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477.)
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348.)
 
 #### Termination of Section
 
@@ -305,6 +305,8 @@ For effective date of the Satellite Home Viewer Act of 1994, referred to in subs
 The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Section 397 of the Act is classified to section 397 of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
+
+1995—Subsec. (a)(1), (2)(A). Pub. L. 104–39 inserted “and section 114(d)” after “of this subsection”.
 
 1994—Subsec. (a)(2)(C). Pub. L. 103–369, §2(1), struck out “90 days after the effective date of the Satellite Home Viewer Act of 1988, or” before “90 days after commencing”, “whichever is later,” before “submit to the network that owns”, and “, on or after the effective date of the Satellite Home Viewer Act of 1988,” after “Register of Copyrights”, and inserted “name and” after “identifying (by” in two places.
 
@@ -350,7 +352,7 @@ Subsec. (d)(11). Pub. L. 103–369, §2(6)(C), added par. (11).
 
 Subsec. (b)(2), (3). Pub. L. 103–198, §5(1)(B), (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Subsec. (b)(4). Pub. L. 103–198, §5(1)(D), in subpar. (A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “claim with the” and for “Tribunal” after “requirements that the”, in subpar. (B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine” and for “Tribunal” wherever else appearing, and substituted “convene a copyright arbitration royalty panel” for “conduct a proceeding”, and in subpar. (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (b)(4). Pub. L. 103–198, §5(1)(D), in subpar. (A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “claim with the” and for “Tribunal” after “requirements that the”, in subpar. (B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine” and for “Tribunal” wherever else appearing, and substituted“convene a copyright arbitration royalty panel” for “conduct a proceeding”, and in subpar. (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
 Subsec. (c). Pub. L. 103–198, §5(2)(A), substituted “Adjustment” for “Determination” in heading.
 
@@ -367,6 +369,10 @@ Subsec. (c)(3)(D). Pub. L. 103–198, §5(2)(C)(vi), redesignated subpar. (H) as
 Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by the Tribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
 
 Subsec. (c)(4). Pub. L. 103–198, §5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section 6 of Pub. L. 104–39, set out as a note under section 101 of this title.
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -404,7 +410,7 @@ Section 5 of Pub. L. 103–369 provided that: “The amendments made by this sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 111, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548, 613.
+This section is referred to in sections 106, 111, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548.
 
 <i><sup>1</sup></i><i> So in original. The word “until” probably should not appear.</i>
 

@@ -12,5 +12,5 @@ The provisions of this chapter shall not apply to—
 
 &emsp;&emsp;(B) which establishes a leasehold interest in, or other rights to use, possess, or gain access to, a condominium or cooperative unit.
 
-(Pub. L. 96 399, title VI, §605, Oct. 8, 1980, 94 Stat. 1675.)
+(Pub. L. 96–399, title VI, §605, Oct. 8, 1980, 94 Stat. 1675.)
 

@@ -28,6 +28,7 @@
 | (e) | Religious, scholastic, or scientific pursuits. |
 | (f) | Defense of foreign government vital to United States defense. |
 | (g) | Persons qualified to practice law. |
+| (h) | Agents of foreign principals. |
 | [614\.](Subchapter%20002%20%28II%29%20-%20Registration%20of%20Foreign%20Propagandists/%C2%A7%2000614%20-%20Filing%20and%20labeling%20of%20political%20propaganda.md) | Filing and labeling of political propaganda. |
 | (a) | Copies to Attorney General; statement as to places, times, and extent of transmission. |
 | (b) | Identification statement. |
@@ -45,7 +46,7 @@
 | (a) | Violations; false statements and willful omissions. |
 | (b) | Proof of identity of foreign principal. |
 | (c) | Deportation. |
-| (d) | Nonmailable matter. |
+| (d) | Repealed. |
 | (e) | Continuing offense. |
 | (f) | Injunctive remedy; jurisdiction of district court. |
 | (g) | Deficient registration statement. |

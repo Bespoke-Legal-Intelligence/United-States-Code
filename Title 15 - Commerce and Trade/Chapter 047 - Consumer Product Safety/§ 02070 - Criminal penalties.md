@@ -4,7 +4,7 @@
 
 (b) Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of section 2068 of this title, and who has knowledge of notice of noncompliance received by the corporation from the Commission, shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a) of this section.
 
-(Pub. L. 92 573, §21, Oct. 27, 1972, 86 Stat. 1225.)
+(Pub. L. 92–573, §21, Oct. 27, 1972, 86 Stat. 1225.)
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §5503 . Navy and Marine Corps: warrant officer grades
+### §5503. Navy and Marine Corps: warrant officer grades
 
 The warrant officer grades in the Navy and the Marine Corps are:
 

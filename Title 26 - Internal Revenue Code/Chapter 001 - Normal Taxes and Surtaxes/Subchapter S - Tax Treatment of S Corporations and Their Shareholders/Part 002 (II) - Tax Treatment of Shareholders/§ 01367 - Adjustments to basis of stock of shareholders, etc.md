@@ -4,7 +4,7 @@
 
 #### (1) Increases in basis
 
-&emsp;The basis of each shareholder's stock in an S corporation shall be increased for any period by the sum of the following items determinedwith respect to that shareholder for such period:
+&emsp;The basis of each shareholder's stock in an S corporation shall be increased for any period by the sum of the following items determined with respect to that shareholder for such period:
 
 &emsp;&emsp;(A) the items of income described in subparagraph (A) of section 1366(a)(1),
 

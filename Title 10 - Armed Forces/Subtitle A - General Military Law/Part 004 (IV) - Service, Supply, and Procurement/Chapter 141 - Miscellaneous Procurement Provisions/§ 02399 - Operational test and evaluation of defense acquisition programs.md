@@ -44,13 +44,13 @@ Impartial Contracted Advisory and Assistance Services.—(1) The Director may no
 
 (2) The Director may waive the limitation under paragraph (1) in any case if the Director determines in writing that sufficient steps have been taken to ensure the impartiality of the contractor in providing the services. The Inspector General of the Department of Defense shall review each such waiver and shall include in the Inspector General's semi-annual report an assessment of those waivers made since the last such report.
 
-(3)(A) A contractor that has participated in (or is participating in) the development, production, or testing of a system for a military department or Defense Agency (or for another contractor of the Department of Defense) may not be involved (in any way) in the establishment of criteria for data collection, performance assessment, or evaluation activities for the operational test and evaluation.
+(3)(A) A contractor that has participated in (or is participating in) the development, production,or testing of a system for a military department or Defense Agency (or for another contractor of the Department of Defense) may not be involved (in any way) in the establishment of criteria for data collection, performance assessment, or evaluation activities for the operational test and evaluation.
 
 (B) The limitation in subparagraph (A) does not apply to a contractor that has participated in such development, production, or testing solely in testing for the Federal Government.
 
 (f)
 
-Source of Funds for Testing.—The costs for all tests required under subsection (a) shallbe paid from funds available for the system being tested.
+Source of Funds for Testing.—The costs for all tests required under subsection (a) shall be paid from funds available for the system being tested.
 
 (g)
 
@@ -92,7 +92,7 @@ Subsec. (h)(1). Pub. L. 103–337, §1070(a)(11)(C), substituted “139(a)(2)(A)
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 

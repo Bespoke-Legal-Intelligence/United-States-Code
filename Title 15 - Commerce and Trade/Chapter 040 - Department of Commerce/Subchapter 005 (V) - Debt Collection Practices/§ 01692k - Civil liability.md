@@ -14,7 +14,7 @@ Except as otherwise provided by this section, any debt collector who fails to co
 
 #### (b) Factors considered by court
 
-In determining the amount of liability in any action under subsection (a) of this section, thecourt shall consider, among other relevant factors—
+In determining the amount of liability in any action under subsection (a) of this section, the court shall consider, among other relevant factors—
 
 &emsp;(1) in any individual action under subsection (a)(2)(A) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, and the extent to which such noncompliance was intentional; or
 
@@ -32,7 +32,7 @@ An action to enforce any liability created by this subchapter may be brought in 
 
 No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Commission, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
-(Pub. L. 90 321, title VIII, §813, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 881.)
+(Pub. L. 90–321, title VIII, §813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881.)
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §459h–9. Gulf Islands National Seashore Advisory Commission; establishment; termination; membership; term; Chairman; compensation and payment of expenses; consultation by Secretary
 
-There is hereby established a Gulf Islands National Seashore Advisory Commission. The Commission shall terminate ten years after the date the seashore is established pursuant to sections 459h to 459h–10 of this title. The Commission shall be composed of three members from eachcounty in which the seashore is located, each appointed for a term of two years by the Secretary as follows:
+There is hereby established a Gulf Islands National Seashore Advisory Commission. The Commission shall terminate ten years after the date the seashore is established pursuant to sections 459h to 459h–10 of this title. The Commission shall be composed of three members from each county in which the seashore is located, each appointed for a term of two years by the Secretary as follows:
 
 &emsp;(1) one member to be appointed from recommendations made by the county commissioners in the respective counties;
 

@@ -2,7 +2,7 @@
 
 #### (a) Applicability of provisions
 
-Except as provided in section 590(h) <sup>1</sup> of this title, the provisions of this section shall apply to any dispute subject to this chapter between apublicly funded and publicly operated carrier providing rail commuter service (including the Amtrak Commuter Services Corporation) and its employees.
+Except as provided in section 590(h) <sup>1</sup> of this title, the provisions of this section shall apply to any dispute subject to this chapter between a publicly funded and publicly operated carrier providing rail commuter service (including the Amtrak Commuter Services Corporation) and its employees.
 
 #### (b) Request for establishment of emergency board
 

@@ -28,11 +28,11 @@ Individuals participating in a National Teacher Academy shall be selected by the
 
 &emsp;&emsp;(B) involve the individuals selected pursuant to subparagraph (A) in the operation of the State academies, if any, or other in-service training activities in the local educational agency in which such individuals teach.
 
-(Pub. L. 89 329, title V, §516, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 676.)
+(Pub. L. 89–329, title V, §516, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 676.)
 
 #### Prior Provisions
 
-A prior section 516 of Pub. L. 89 329, title V, Nov. 8, 1965, 79 Stat. 1258, related to supervision and control of members by local educational agencies and was classified to section 1106 of this title, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+A prior section 516 of Pub. L. 89–329, title V, Nov. 8, 1965, 79 Stat. 1258, related to supervision and control of members by local educational agencies and was classified to section 1106 of this title, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
 #### Section Referred to in Other Sections
 

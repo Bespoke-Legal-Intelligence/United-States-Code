@@ -12,7 +12,7 @@ The forfeitures provided for in this chapter shall be payable into the Treasury 
 
 This subsection <sup>1</sup> shall not apply in the case of any provision of section 824j, 824k, 824<i>l</i>, or 824m of this title or any rule or order issued under any such provision.
 
-(June 10, 1920, ch. 285, pt. III, §315, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 861; amended June 25, 1948, ch. 646, §1, 62 Stat. 909; Oct. 24,1992, Pub. L. 102–486, title VII, §725(a), 106 Stat. 2920.)
+(June 10, 1920, ch. 285, pt. III, §315, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 861; amended June 25, 1948, ch. 646, §1, 62 Stat. 909; Oct. 24, 1992, Pub. L. 102–486, title VII, §725(a), 106 Stat. 2920.)
 
 #### Amendments
 

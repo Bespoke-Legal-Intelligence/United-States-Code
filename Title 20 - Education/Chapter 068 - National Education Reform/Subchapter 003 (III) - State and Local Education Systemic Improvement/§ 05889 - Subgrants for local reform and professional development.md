@@ -12,7 +12,7 @@
 
 #### (2) Application required
 
-&emsp;(A) A local educational agency desiring to receive a subgrant under this subsection for the development of a local improvement plan shall submit an application to the State educational agency. Such application shall contain assurances that the local educational agency intends to develop a local improvement plan that meets the requirements of this section.
+&emsp;(A) A local educational agency desiring to receive a subgrant under this subsection forthe development of a local improvement plan shall submit an application to the State educational agency. Such application shall contain assurances that the local educational agency intends to develop a local improvement plan that meets the requirements of this section.
 
 &emsp;(B) A local educational agency only shall be eligible to receive a subgrant under this subsection to develop a local improvement plan for one fiscal year.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(F) describe how the local educational agency will implement specific programs aimed at ensuring improvements in school readiness and the ability of students to learn effectively at all grade levels by identifying the most pressing needs facing students and their families with regard to social services, health care, nutrition, and child care, and entering into partnerships with public and private nonprofit agencies to increase the access of students and families to coordinated nonsectarian services in a school setting or at a nearby site;
 
-&emsp;&emsp;(G) describe how the subgrant funds will be used by the local educational agency, andthe procedures to be used to make funds available to schools in accordance with paragraph (6)(A);
+&emsp;&emsp;(G) describe how the subgrant funds will be used by the local educational agency, and the procedures to be used to make funds available to schools in accordance with paragraph (6)(A);
 
 &emsp;&emsp;(H) identify, with an explanation, any State or Federal requirements that the local educational agency believes impede educational improvement and that such agency requests be waived in accordance with section 5891 of this title, which requests shall promptly be transmitted to the Secretary by the State educational agency; and
 
@@ -142,11 +142,11 @@
 
 &emsp;The State educational agency may waive the requirement of paragraph (1) if such agency does not receive a sufficient number of applications to comply with such requirement.
 
-(Pub. L. 103 227, title III, §309, Mar. 31, 1994, 108 Stat. 169; Pub. L. 103 382, title III, §361(c), Oct. 20, 1994, 108 Stat. 3975.)
+(Pub. L. 103–227, title III, §309, Mar. 31, 1994, 108 Stat. 169; Pub. L. 103–382, title III, §361(c), Oct. 20, 1994, 108 Stat. 3975.)
 
 #### Amendments
 
-1994—Subsec. (a)(4). Pub. L. 103 382 inserted “made by the local educational agency” after “modifications”.
+1994—Subsec. (a)(4). Pub. L. 103–382 inserted “made by the local educational agency” after “modifications”.
 
 #### Section Referred to in Other Sections
 

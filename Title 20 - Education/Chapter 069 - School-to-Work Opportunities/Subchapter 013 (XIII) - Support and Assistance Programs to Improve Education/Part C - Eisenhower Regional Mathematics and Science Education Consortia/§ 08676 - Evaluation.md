@@ -6,11 +6,11 @@ The Secretary, through the Office of Educational Research and Improvement and in
 
 #### (b) Assessment
 
-The evaluations described in paragraph (1) shall include an assessment of the effectiveness of the regional consortium in meeting the needsof the schools, teachers, administrators and students in the region.
+The evaluations described in paragraph (1) shall include an assessment of the effectiveness of the regional consortium in meeting the needs of the schools, teachers, administrators and students in the region.
 
 #### (c) Report
 
 At the end of each grant or contract period, the Secretary shall submit to the Congress a report on the effectiveness of the programs conducted at each regional consortium.
 
-(Pub. L. 89 10, title XIII, §13306, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3885.)
+(Pub. L. 89–10, title XIII, §13306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885.)
 

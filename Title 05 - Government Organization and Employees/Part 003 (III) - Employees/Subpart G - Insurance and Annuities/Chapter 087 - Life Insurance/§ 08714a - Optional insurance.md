@@ -1,8 +1,8 @@
-### §8714a . Optional insurance
+### §8714a. Optional insurance
 
 (a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
 
-(b) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
+(b) The optional life insurance and accidental death and dismemberment insurance shall bemade available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
 
 (c)(1) Except as otherwise provided in this subsection, the optional insurance on an employee stops on his separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office.
 
@@ -38,19 +38,19 @@
 
 #### Amendments
 
-1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
 
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: “The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-1984—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 Subsec. (c)(3). Pub. L. 98–353, §206, added par. (3).
 
-1980—Subsec. (c)(2)(C). Pub. L. 96–427, §6(a), substituted provisions that the amount of optional life insurance shall be reduced by 2% at the end of each calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury and that the Office shall prescribe minimum amount of life insurance in force before the first reduction to which the insurance may be reduced for provisions that such optional insurance be subject to the same monthly reductions as required for regular life insurance under section 8706(b)(3) of this title.
+<b>1980</b>—Subsec. (c)(2)(C). Pub. L. 96–427, §6(a), substituted provisions that the amount of optional life insurance shall be reduced by 2% at the end of each calendar month after the date the employee becomes 65years of age and is retired or is receiving compensation for disease or injury and that the Office shall prescribe minimum amount of life insurance in force before the first reduction to which the insurance may be reduced for provisions that such optional insurance be subject to the same monthly reductions as required for regular life insurance under section 8706(b)(3) of this title.
 
 Subsec. (d). Pub. L. 96–427, §6(b), designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 95–583, §1(c)(1), substituted reference to section “8706(c)” for “8706(d)”.
 

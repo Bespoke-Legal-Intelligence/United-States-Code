@@ -1,4 +1,4 @@
-### §201a . Revision of boundaries
+### §201a. Revision of boundaries
 
 The boundaries of the Lassen Volcanic National Park are changed to read as follows:
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) does not include personal risk liability and an employer's liability with respect to its employees other than legal liability under the Federal Employers’ Liability Act (45 U.S.C. 51 et seq.);
 
-&emsp;(3) “personal risk liability” means liability for damages because of injury to any person, damage to property, or other loss or damageresulting from any personal, familial, or household responsibilities or activities, rather than from responsibilities or activities referred to in paragraphs (2)(A) and (2)(B);
+&emsp;(3) “personal risk liability” means liability for damages because of injury to any person, damage to property, or other loss or damage resulting from any personal, familial, or household responsibilities or activities, rather than from responsibilities or activities referred to in paragraphs (2)(A) and (2)(B);
 
 &emsp;(4) “risk retention group” means any corporation or other limited liability association—
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(i) liability insurance for assuming and spreading all or any portion of the similar or related liability exposure of its group members; and
 
-&emsp;&emsp;&emsp;(ii) reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group (or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and
+&emsp;&emsp;&emsp;(ii) reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group\(or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and
 
 &emsp;&emsp;(H) the name of which includes the phrase “Risk Retention Group”.<sup>1</sup>
 
@@ -70,7 +70,7 @@
 
 (b) Nothing in this chapter shall be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and the definitions of liability, personal risk liability, and insurance under any State law shall not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups.
 
-(Pub. L. 97 45, §2, Sept. 25, 1981, 95 Stat. 949; Pub. L. 98 193, Dec. 1, 1983, 97 Stat. 1344; Pub. L. 99 563, §§3, 4, 12(b), Oct. 27, 1986, 100 Stat. 3170, 3171, 3177.)
+(Pub. L. 97–45, §2, Sept. 25, 1981, 95 Stat. 949; Pub. L. 98–193, Dec. 1, 1983, 97 Stat. 1344; Pub. L. 99–563, §§3, 4, 12(b), Oct. 27, 1986, 100 Stat. 3170, 3171, 3177.)
 
 #### References in Text
 
@@ -82,27 +82,27 @@ October 27, 1986, referred to in subsec. (a)(4)(C)(ii), was in the original “t
 
 #### Amendments
 
-1986—Subsec. (a)(1) to (3). Pub. L. 99 563, §3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
+1986—Subsec. (a)(1) to (3). Pub. L. 99–563, §3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
 
-Subsec. (a)(4). Pub. L. 99 563, §4(a)(1), struck out “taxable as a corporation, or as an insurance company,formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
+Subsec. (a)(4). Pub. L. 99–563, §4(a)(1), struck out “taxable as a corporation, or as an insurance company, formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 99 563, §4(a)(2), substituted “liability exposure” for “product liability or completed operations liability risk exposure”.
+Subsec. (a)(4)(A). Pub. L. 99–563, §4(a)(2), substituted “liability exposure” for “product liability or completed operations liability risk exposure”.
 
-Subsec. (a)(4)(C). Pub. L. 99 563, §4(a)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;”.
+Subsec. (a)(4)(C). Pub. L. 99–563, §4(a)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;”.
 
-Subsec. (a)(4)(E) to (H). Pub. L. 99 563, §4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
+Subsec. (a)(4)(E) to (H). Pub. L. 99–563, §4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
 
-Subsec. (a)(5). Pub. L. 99 563, §4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
+Subsec. (a)(5). Pub. L. 99–563, §4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
 
-Subsec. (a)(7). Pub. L. 99 563, §3(b), added par. (7).
+Subsec. (a)(7). Pub. L. 99–563, §3(b), added par. (7).
 
-Subsec. (b). Pub. L. 99 563, §12(b), substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
+Subsec. (b). Pub. L. 99–563, §12(b), substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
 
-1983—Subsec. (b). Pub. L. 98 193 substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
+1983—Subsec. (b). Pub. L. 98–193 substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
 
 #### Effective Date of 1986 Amendment; Applicability
 
-Section 11(a), (b), and (c)(2) of Pub. L. 99 563 provided that:
+Section 11(a), (b), and (c)(2) of Pub. L. 99–563 provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ General Rule.—Subject to subsection (b), this Act \[see Short Title of 1986 Am
 
 Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of the Liability Risk Retention Act of 1986 (as added by section 5(b) of this Act) \[15 U.S.C. 3902(d)\], relating to the submission of a feasibility study, shall not apply with respect to any line or classification of liability insurance which—
 
-&emsp;“(1) was defined in the Product Liability Risk Retention Act of 1981 \[Pub. L. 97 45, which enacted this chapter\] before the date of the enactment of this Act \[Oct. 27, 1986\]; and
+&emsp;“(1) was defined in the Product Liability Risk Retention Act of 1981 \[Pub. L. 97–45, which enacted this chapter\] before the date of the enactment of this Act \[Oct. 27, 1986\]; and
 
 &emsp;“(2) was offered before such date of enactment by any risk retention group which has been chartered and operating for not less than 3 years before such date of enactment.
 
@@ -124,15 +124,15 @@ Rule Regarding Pollution Liability.—
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99 563 provided that: “This Act \[enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 9671 of Title 42, and amending provisions set out as a note under this section\] may be cited as the ‘Risk Retention Amendments of 1986’.”
+Section 1 of Pub. L. 99–563 provided that: “This Act \[enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 9671 of Title 42, and amending provisions set out as a note under this section\] may be cited as the ‘Risk Retention Amendments of 1986’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 97 45, as amended by Pub. L. 99 563, §12(a), Oct. 27, 1986, 100 Stat. 3177, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Liability Risk Retention Act of 1986’.”
+Section 1 of Pub. L. 97–45, as amended by Pub. L. 99–563, §12(a), Oct. 27, 1986, 100 Stat. 3177, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Liability Risk Retention Act of 1986’.”
 
 #### Oversight of Implementation; Report to Congress
 
-Section 10 of Pub. L. 99 563 provided that:
+Section 10 of Pub. L. 99–563 provided that:
 
 “(a)
 
@@ -156,9 +156,9 @@ Contents of the Report.—The report shall describe the Secretary's views concer
 
 &emsp;“(4) the causes of any financial difficulties of risk retention groups and purchasing groups;
 
-&emsp;“(5) the extent to which risk retention groups and purchasing groups have been discriminated against under State laws, practices, and procedures contrary to the provisions and underlying policy of this Act and the Product Liability Risk Retention Act (as amended by this Act) \[Pub. L. 97 45, which enacted this chapter\]; and
+&emsp;“(5) the extent to which risk retention groups and purchasing groups have been discriminated against under State laws, practices, and procedures contrary to the provisions and underlying policy of this Act and the Product Liability Risk Retention Act (as amended by this Act) \[Pub. L. 97–45, which enacted this chapter\]; and
 
 &emsp;“(6) such other comments and conclusions as the Secretary deems relevant to assessment of the implementation of this Act.”
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

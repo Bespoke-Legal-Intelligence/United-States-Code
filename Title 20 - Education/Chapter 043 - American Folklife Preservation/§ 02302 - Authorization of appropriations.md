@@ -46,33 +46,33 @@ Of the amounts remaining from amounts made available under subsection (a) of thi
 
 #### (e) National programs
 
-For each fiscal year, of the amounts remaining from amounts available pursuant to subsection (a) of this section after providingamounts for the programs described in subsections (b)(2), (d), and (f) of this section, 2.5 percent of such remainder shall be available to carry out the provisions of subchapter IV of this chapter (other than parts D<sup>1</sup> and E), relating to national programs.
+For each fiscal year, of the amounts remaining from amounts available pursuant to subsection (a) of this section after providing amounts for the programs described in subsections (b)(2), (d), and (f) of this section, 2.5 percent of such remainder shall be available to carry out the provisions of subchapter IV of this chapter (other than parts D <sup>1</sup> and E), relating to national programs.
 
 #### (f) Other national programs
 
-(1) Of amounts made available under subsection (a) of this section for the fiscal year 1991, not more than $350,000 shall be available to carry out the provisions of part D<sup>1</sup> of subchapter IV of this chapter, relating to the National Council on Vocational Education.
+(1) Of amounts made available under subsection (a) of this section for the fiscal year 1991, not more than $350,000 shall be available to carry out the provisions of part D <sup>1</sup> of subchapter IV of this chapter, relating to the National Council on Vocational Education.
 
 (2) Of amounts made available under subsection (a) of this section for the fiscal year 1991, not more than $10,000,000 shall be available to carry out the provisions of part E of subchapter IV of this chapter, relating to bilingual vocational training programs.
 
-(Pub. L. 88 210, §3, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100 418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101 392, §3, Sept. 25, 1990, 104 Stat. 756.)
+(Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756.)
 
 #### References in Text
 
-Part D of subchapter IV of this chapter, referred to in subsecs. (e) and (f)(1), was repealed by Pub. L. 101 392, title IV, §411(a), Sept. 25, 1990, 104 Stat. 829, effective Oct. 1, 1991.
+Part D of subchapter IV of this chapter, referred to in subsecs. (e) and (f)(1), was repealed by Pub. L. 101–392, title IV, §411(a), Sept. 25, 1990, 104 Stat. 829, effective Oct. 1, 1991.
 
 #### Amendments
 
-1990—Pub. L. 101 392 amended section generally, substituting provisions consisting of subsecs. (a) to (f) authorizing appropriations for fiscal years 1991 to 1995 for provisions consisting of subsecs. (a) to (e) authorizing appropriations for fiscal years 1985 to 1989.
+1990—Pub. L. 101–392 amended section generally, substituting provisions consisting of subsecs. (a) to (f) authorizing appropriations for fiscal years 1991 to 1995 for provisions consisting of subsecs. (a) to (e) authorizing appropriations for fiscal years 1985 to 1989.
 
-1988—Subsec. (b)(3)(A). Pub. L. 100 418, §6131(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “There are authorized to be appropriated $35,000,000 for the fiscal year 1985 and such sums as may be necessary for each of the fiscal years 1986 through 1989 to carry out part C of subchapter III of this chapter, relating to adult training, retraining, and employment development.”
+1988—Subsec. (b)(3)(A). Pub. L. 100–418, §6131(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “There are authorized to be appropriated $35,000,000 for the fiscal year 1985 and such sums as may be necessary for each of the fiscal years 1986 through 1989 to carry out part C of subchapter III of this chapter, relating to adult training, retraining, and employment development.”
 
-Subsec. (b)(3)(B). Pub. L. 100 418, §6131(b)(2), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
+Subsec. (b)(3)(B). Pub. L. 100–418, §6131(b)(2), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
 
-Subsec. (b)(5). Pub. L. 100 418, §6134(b), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (b)(5). Pub. L. 100–418, §6134(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2311, 2312, 2322, 2392, 2393, 2394a, 2451, 2466a of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

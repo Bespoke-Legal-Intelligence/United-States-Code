@@ -2,7 +2,7 @@
 
 With respect to any sales transaction where a credit card has been used to obtain credit, where the seller is a person other than the card issuer, and where the seller accepts or allows a return of the goods or forgiveness of a debit for services which were the subject of such sale, the seller shall promptly transmit to the credit card issuer, a credit statement with respect thereto and the credit card issuer shall credit the account of the obligor for the amount of the transaction.
 
-(Pub. L. 90 321, title I, §166, as added Pub. L. 93 495, title III, §306, Oct. 28, 1974, 88 Stat. 1514.)
+(Pub. L. 90–321, title I, §166, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514.)
 
 #### Section Referred to in Other Sections
 

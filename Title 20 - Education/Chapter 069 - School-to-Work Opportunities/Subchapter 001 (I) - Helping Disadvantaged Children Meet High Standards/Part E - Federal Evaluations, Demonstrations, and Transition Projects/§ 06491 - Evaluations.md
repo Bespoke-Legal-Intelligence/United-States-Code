@@ -96,11 +96,11 @@ In conducting the national assessment under subsection (a) of this section and t
 
 &emsp;&emsp;(C) disseminate the findings, relating to the successful local policies and programs which improve parental involvement and the performance of participating children, to local educational agencies.
 
-(Pub. L. 89 10, title I, §1501, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3601.)
+(Pub. L. 89–10, title I, §1501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3601.)
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

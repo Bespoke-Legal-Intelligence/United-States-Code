@@ -104,11 +104,11 @@ The Superintendent is authorized to establish a Committee on Fire Training and E
 
 The Superintendent is authorized to admit to the courses and programs of the Academy individuals who are members of the firefighting, rescue, and civil defense forces of the Nation and such other individuals, including candidates for membership in these forces, as he determines can benefit from attendance. Students shall be admitted from any State, with due regard to adequate representation in the student body of all geographic regions of the Nation. In selecting students, the Superintendent may seek nominations and advice from the fire services and other organizations which wish to send students to the Academy.
 
-(Pub. L. 93 498, §7, Oct. 29, 1974, 88 Stat. 1537.)
+(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537.)
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 
@@ -116,5 +116,5 @@ Functions of National Fire Prevention and Control Administration \[now United St
 
 #### Limitations on Authority of Superintendent of Fire Academy; Exclusive Control and Direction of United States Fire Administrator
 
-Pub. L. 101 507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: “The Superintendent of the Fire Academy, in exercising the powers and authority provided by section 7 of the Federal Fire Prevention Control Act of 1974 \[15 U.S.C. 2206\], shall be subject to the exclusive direction of the Administrator, United States Fire Administration: <i>Provided</i>, That all funds appropriated by this or any other Act, with respect for any fiscal year, or otherwise made available, for the National Fire Academy in Emmitsburg, Maryland, or any Fire Academy field programs, shall be placed under the exclusive control of the United States Fire Administration.”
+Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: “The Superintendent of the Fire Academy, in exercising the powers and authority provided by section 7 of the Federal Fire Prevention Control Act of 1974 \[15 U.S.C. 2206\], shall be subject to the exclusive direction of the Administrator, United States Fire Administration: <i>Provided</i>, That all funds appropriated by this or any other Act, with respect for any fiscal year, or otherwise made available, for the National Fire Academy in Emmitsburg, Maryland, or any Fire Academy field programs, shall be placed under the exclusive control of the United States Fire Administration.”
 

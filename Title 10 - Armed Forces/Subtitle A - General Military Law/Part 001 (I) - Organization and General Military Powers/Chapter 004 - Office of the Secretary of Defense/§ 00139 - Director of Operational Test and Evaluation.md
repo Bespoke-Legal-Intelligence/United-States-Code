@@ -1,4 +1,4 @@
-### §139 . Director of Operational Test and Evaluation
+### §139. Director of Operational Test and Evaluation
 
 (a)(1) There is a Director of Operational Test and Evaluation in the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Director shall be appointed without regard to political affiliation and solely on the basis of fitness to perform the duties of the office of Director. The Director may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.
 
@@ -62,7 +62,7 @@ Another prior section 139 was renumbered section 2431 of this title.
 
 Subsec. (c). Pub. L. 103–355, §3011, inserted “The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.” after “(c)”.
 
-Subsec. (f). Pub. L. 103–355, §§3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” and after second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
+Subsec. (f). Pub. L. 103–355, §§3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” andafter second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
 
 1993—Pub. L. 103–160, §901(a)(1), renumbered section 138 of this title as this section.
 

@@ -10,7 +10,7 @@ The Goals Panel shall be composed of 18 members (hereafter in this part referred
 
 &emsp;(1) 2 members appointed by the President;
 
-&emsp;(2) 8 members who are Governors, 3 of whom shall be from the same political party as the President and 5 of whom shall be from the opposite political party of the President, appointed by the Chairperson and Vice Chairperson of the National Governors’ Association, with the Chairperson and Vice Chairperson each appointing representatives of such Chairperson's or Vice Chairperson's respective political party, in consultation with each other;
+&emsp;(2) 8 members who are Governors, 3 of whom shall be from the same political party as the President and 5 of whom shall be from the opposite political party of the President, appointed by the Chairperson and Vice Chairperson of the National Governors’ Association, with the Chairperson and Vice Chairpersoneach appointing representatives of such Chairperson's or Vice Chairperson's respective political party, in consultation with each other;
 
 &emsp;(3) 4 Members of the Congress, of whom—
 
@@ -92,9 +92,9 @@ A member of the Goals Panel who is an elected official of a State which has deve
 
 If the President has not appointed the Secretary as 1 of the 2 members the President appoints pursuant to subsection (b)(1) of this section, then the Secretary shall serve as a nonvoting ex officio member of the Goals Panel.
 
-(Pub. L. 103 227, title II, §202, Mar. 31, 1994, 108 Stat. 134.)
+(Pub. L. 103–227, title II, §202, Mar. 31, 1994, 108 Stat. 134.)
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 133, which enacted this subchapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
+This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133, which enacted this subchapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
 

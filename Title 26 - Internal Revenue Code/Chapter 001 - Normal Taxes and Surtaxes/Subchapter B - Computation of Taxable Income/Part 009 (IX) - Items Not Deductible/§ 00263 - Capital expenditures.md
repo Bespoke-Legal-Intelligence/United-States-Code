@@ -254,7 +254,7 @@ Amendment by section 502 of Pub. L. 97–34 applicable to property acquired and 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) ofPub. L. 96–223, set out as an Effective Date note under section 193 of this title.
+Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) of Pub. L. 96–223, set out as an Effective Date note under section 193 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -266,7 +266,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
+Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expirationof the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
 
 #### Effective Date of 1976 Amendment
 

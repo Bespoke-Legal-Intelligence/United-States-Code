@@ -18,11 +18,11 @@
 
 (B) The Administrator may, if he determines (i) that any person who is a violator of, or any person who is otherwise not in compliance with, the time requirements under this chapter or in any permit issued under this chapter, has acted in good faith, and has made a commitment (in the form of contracts or other securities) of necessary resources to achieve compliance by the earliest possible date after July 1, 1977, but not later than April 1, 1979; (ii) that any extension under this provision will not result in the imposition of any additional controls on any other point or nonpoint source; (iii) that an application for a permit under section 1342 of this title was filed for such person prior to December 31, 1974; and (iv) that the facilities necessary for compliance with such requirements are under construction, grant an extension of the date referred to in section 1311(b)(1)(A) of this title to a date which will achieve compliance at the earliest time possible but not later than April 1, 1979.
 
-(6) Whenever, on the basis of information available to him, the Administrator finds (A) that any person is in violation of section 1311(b)(1)(A) or (C) of this title, (B) that such person cannot meet the requirements for a time extension under section 1311(i)(2) of this title, and (C) that the most expeditious and appropriate means of compliance with this chapter by such person is to discharge into a publicly owned treatment works, then, upon request of such person, the Administrator may issue an order requiring such person to comply with this chapter at the earliest date practicable, but not later than July 1, 1983, by discharging into a publicly owned treatment works if such works concur with such order. Such order shall include a schedule of compliance.
+(6) Whenever, on the basis of information available to him, the Administrator finds (A) that any person is in violation of section 1311(b)(1)(A) or (C) of this title, (B) that suchperson cannot meet the requirements for a time extension under section 1311(i)(2) of this title, and (C) that the most expeditious and appropriate means of compliance with this chapter by such person is to discharge into a publicly owned treatment works, then, upon request of such person, the Administrator may issue an order requiring such person to comply with this chapter at the earliest date practicable, but not later than July 1, 1983, by discharging into a publicly owned treatment works if such works concur with such order. Such order shall include a schedule of compliance.
 
 #### (b) Civil actions
 
-The Administrator is authorized to commence a civil action for appropriate relief, including apermanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
+The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
 
 #### (c) Criminal penalties
 
@@ -68,7 +68,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;&emsp;&emsp;&emsp;(I) an occupation, a business, or a profession; or
 
-&emsp;&emsp;&emsp;&emsp;(II) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such other person had been made awareof the risks involved prior to giving consent;
+&emsp;&emsp;&emsp;&emsp;(II) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such other person had been made aware of the risks involved prior to giving consent;
 
 &emsp;&emsp;&nbsp;and such defense may be established under this subparagraph by a preponderance of the evidence;
 
@@ -102,7 +102,7 @@ Whenever a municipality is a party to a civil action brought by the United State
 
 #### (f) Wrongful introduction of pollutant into treatment works
 
-Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title, the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrain such violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of anysuch action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.
+Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title, the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrain such violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of any such action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.
 
 #### (g) Administrative penalties
 
@@ -146,7 +146,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (5) Finality of order
 
-&emsp;An order issued under this subsection shall become final 30 days after its issuance unless a petition for judicial review is filed under paragraph (8) or a hearing is requested under paragraph (4)(C). If such a hearing is denied, such order shall become final 30 days after such denial.
+&emsp;An order issued under this subsection shall become final 30 days after its issuance unlessa petition for judicial review is filed under paragraph (8) or a hearing is requested under paragraph (4)(C). If such a hearing is denied, such order shall become final 30 days after such denial.
 
 #### (6) Effect of order
 
@@ -196,11 +196,11 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (10) Subpoenas
 
-&emsp;The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this subsection. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+&emsp;The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this subsection. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiringsuch person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (11) Protection of existing procedures
 
-&emsp;Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of thissection for issuance and enforcement of orders by the Administrator.
+&emsp;Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of this section for issuance and enforcement of orders by the Administrator.
 
 (June 30, 1948, ch. 758, title III, §309, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 859; amended Dec. 27, 1977, Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), 91 Stat. 1591, 1592, 1606; Feb. 4, 1987, Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), 101 Stat. 42, 45, 46; Aug. 18, 1990, Pub. L. 101–380, title IV, §4301(c), 104 Stat. 537.)
 

@@ -54,7 +54,7 @@ Management direction for the recreation area shall be developed in either the fo
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “the Act”, meaning Pub. L. 98–328, June 26, 1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (a), was in the original “the Act”, meaning Pub. L. 98–328, June 26,1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 The mining laws, referred to in subsec. (d)(2), are classified generally to Title 30, Mineral Lands and Mining.
 

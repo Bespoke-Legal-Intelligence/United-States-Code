@@ -40,13 +40,13 @@ The Secretary, acting through the Office, shall—
 
 #### (d) Restriction on use of Federal coal mine health and safety inspectors
 
-The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
+The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
 
 #### (e) Repealed. Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826
 
 #### (f) Conflict of interest; penalties; rules and regulations; report to Congress
 
-No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
+No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 oftitle 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 
@@ -69,6 +69,10 @@ The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b)
 1980—Subsec. (e). Pub. L. 96–511 struck subsec. (e) which provided for consideration of Office of Surface Mining Reclamation and Enforcement as an independent Federal regulatory agency. See section 3502(10) of Title 44, Public Printing and Documents.
 
 1978—Subsec. (b). Pub. L. 95–240 substituted “V” for “IV”.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–511 effective Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as a note under section 2904 of Title 44, Public Printing and Documents.
 
 #### Transfer of Functions
 

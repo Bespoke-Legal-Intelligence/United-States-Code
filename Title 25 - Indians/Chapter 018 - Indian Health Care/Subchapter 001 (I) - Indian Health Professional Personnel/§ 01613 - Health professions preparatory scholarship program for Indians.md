@@ -28,7 +28,7 @@ The Secretary shall not deny scholarship assistance to an eligible applicant und
 
 The Secretary shall not deny scholarship assistance to an eligible applicant under this section solely by reason of such applicant's eligibility for assistance or benefits under any other Federal program.
 
-(Pub. L. 94–437, title I, §103, Sept. 30, 1976, 90 Stat. 1403; Pub. L. 96–537, §3(b), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, §102, Nov. 23, 1988, 102 Stat. 4785; Pub. L. 102–573, title I, §102(b), Oct. 29, 1992, 106 Stat. 4530.)
+(Pub. L. 94–437, title I, §103, Sept. 30, 1976, 90 Stat. 1403; Pub. L. 96–537, §3(b), Dec. 17, 1980, 94Stat. 3174; Pub. L. 100–713, title I, §102, Nov. 23, 1988, 102 Stat. 4785; Pub. L. 102–573, title I, §102(b), Oct. 29, 1992, 106 Stat. 4530.)
 
 #### Amendments
 

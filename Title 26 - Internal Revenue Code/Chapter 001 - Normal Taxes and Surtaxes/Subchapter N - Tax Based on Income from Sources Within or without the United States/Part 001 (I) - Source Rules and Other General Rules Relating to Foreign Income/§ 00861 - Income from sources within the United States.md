@@ -46,7 +46,7 @@ The following items of gross income shall be treated as income from sources with
 
 #### (4) Rentals and royalties
 
-&emsp;Rentals or royalties from property located in the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using in the United States patents, copyrights, secretprocesses and formulas, good will, trade-marks, trade brands, franchises, and other like property.
+&emsp;Rentals or royalties from property located in the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using in the United States patents, copyrights, secret processes and formulas, good will, trade-marks, trade brands, franchises, and other like property.
 
 #### (5) Disposition of United States real property interest
 
@@ -86,7 +86,7 @@ From the items of gross income specified in subsection (a) as being income from 
 
 &emsp;&emsp;&emsp;(ii) is attributable to the active conduct of a trade or business in a foreign country or possession of the United States by the individual or corporation (or by a subsidiary.)
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “subsidiary” means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+> &emsp;&emsp;For purposes of this subparagraph, the term “subsidiary” means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
 
 #### (C) Testing period
 
@@ -142,7 +142,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 #### Amendments
 
-1990—Subsec. (a)(1)(A), (B). Pub. L. 101–508, §11801(a)(29), (c)(14), inserted “and” at end of subpar. (A), substituted a period for a comma at end of subpar. (B), and struck out subpars. (C) and (D) which read as follows:
+1990—Subsec. (a)(1)(A), (B). Pub. L. 101–508, §11801(a)(29), (c)(14), inserted “and” at end of subpar. (A), substituted a period for a comma at end of subpar.\(B), and struck out subpars. (C) and (D) which read as follows:
 
 “(C) interest on a debt obligation which was part of an issue with respect to which an election has been made under subsection (c) of section 4912 (as in effect before July 1, 1974) and which, when issued (or treated as issued under subsection (c)(2) of such section), had a maturity not exceeding 15 years and, when issued, was purchased by one or more underwriters with a view to distribution through resale, but only with respect to interest attributable to periods after the date of such election, and
 
@@ -176,7 +176,7 @@ Subsec. (a)(7). Pub. L. 100–647, §1012(i)(10), amended par. (7) generally. Pr
 
 Subsec. (c)(1)(B). Pub. L. 100–647, §1012(g)(3), inserted “or, in the case of a corporation, is attributable to income so derived by a subsidiary of such corporation” after parenthetical in cl. (i), struck out “or chain of subsidiaries of such corporation” after “by a subsidiary” in cl. (ii), and inserted sentence at end defining “subsidiary”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 100–647, §1012(i)(14)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii)read as follows: “such section shall be applied by substituting ‘10 percent’ for ‘50 percent’ each place it appears.”
+Subsec. (c)(2)(B)(ii). Pub. L. 100–647, §1012(i)(14)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “such section shall be applied by substituting ‘10 percent’ for ‘50 percent’ each place it appears.”
 
 Subsec. (f). Pub. L. 100–647, §1012(g)(9), added subsec. (f).
 
@@ -232,7 +232,7 @@ Subsec. (e). Pub. L. 96–605 substituted provision directing that income from c
 
 Subsec. (f). Pub. L. 95–600, §370(a), added subsec. (f).
 
-1977—Subsec. (b). Pub. L. 95–30 provided that, in the case of an individual who does not itemize deductions, an amount equal to the zero bracket amount shall beconsidered a deduction which cannot definitely be allocated to some item or class of gross income.
+1977—Subsec. (b). Pub. L. 95–30 provided that, in the case of an individual who does not itemize deductions, an amount equal to the zero bracket amount shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
 1976—Subsec. (a)(1). Pub. L. 94–455, §§1901(c)(7), 1904(b)(10)(B), struck out “, any Territory, any political subdivision of a Territory,” after “United States” in provisions preceding subpar. (A) and, in subpar. (G), substituted “subsection (c) of section 4912 (as in effect before July 1, 1974)” for “section 4912(c)” and “subsection (c)(2) of such section” for “section 4912(c)(2)”.
 
@@ -282,7 +282,7 @@ Subsecs. (c), (d). Pub. L. 89–809, §102(a)(1)(B), (3), added subsecs. (c) and
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures werepreviously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -424,7 +424,7 @@ Section 435(a)(1) of Pub. L. 91–172 provided that the amendment made by that s
 
 Section 102(e) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895of this title\] shall apply with respect to taxable years beginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
+“(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895 of this title\] shall apply with respect to taxable years beginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
 
 “(2) The amendments made by subsection (b) \[amending this section\] shall apply with respect to amounts received after December 31, 1966.”
 
@@ -466,7 +466,7 @@ Certain amendments to apply notwithstanding treaties.—The following amendments
 
 “(3)
 
-Certain amendments not to apply to the extent inconsistent with treaties.—The following amendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
+Certain amendments not to apply to the extent inconsistent with treaties.—The following amendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of suchamendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
 
 &emsp;“(A) The amendments made by section 1211 of the Reform Act \[enacting section 865 of this title and amending this section and sections 862 to 864, 871, 881, and 904 of this title\] to the extent—
 
@@ -556,7 +556,7 @@ Affiliated Group.—
 
 &emsp;“(3) The qualified research and experimental expenditures taken into account for purposes of subsection (a) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I) of the 1986 Code).
 
-&emsp;“(4) The Secretary of the Treasury or his delegate may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by paragraph (3).
+&emsp;“(4) The Secretary of the Treasury or his delegate may prescribe such regulations as may be necessaryto carry out the purposes of this subsection, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by paragraph (3).
 
 &emsp;“(5) Paragraph (6) of section 864(e) of the 1986 Code shall not apply to qualified research and experimental expenditures.
 
@@ -612,7 +612,7 @@ Effective Date.—This section shall apply to taxable years beginning after Augu
 
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
-Pub. L. 98–369, div. A, title I, §126, July 18, 1984, 98 Stat. 648, as amended by Pub. L. 99–272, title XIII,§13211, Apr. 7, 1986, 100 Stat. 324; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §126, July 18, 1984, 98 Stat. 648, as amended by Pub. L. 99–272, title XIII, §13211, Apr. 7, 1986, 100 Stat. 324; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 

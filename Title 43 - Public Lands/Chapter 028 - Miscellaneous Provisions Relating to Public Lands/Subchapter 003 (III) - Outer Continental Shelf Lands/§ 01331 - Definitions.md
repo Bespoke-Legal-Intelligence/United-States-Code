@@ -24,7 +24,7 @@ When used in this subchapter—
 
 &emsp;(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities;
 
-(g) The term “marine environment” means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, salt marshes, and wetlands within the coastal zone and on the outer Continental Shelf;
+(g) The term “marine environment” means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, saltmarshes, and wetlands within the coastal zone and on the outer Continental Shelf;
 
 (h) The term “coastal environment” means the physical atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the terrestrial ecosystem from the shoreline inward to the boundaries of the coastal zone;
 
@@ -78,7 +78,7 @@ Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 5
 
 1978—Subsec. (b). Pub. L. 95–372, §201(a), inserted provision that, with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act, “Secretary” means the Secretary of Energy or the Federal Energy Regulatory Commission, as the case may be.
 
-Subsec. (c). Pub. L. 95–372, §201(a), substituted “lease” for “mineral lease” as term defined and in definition of that term substituted “any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;” for “any form of authorization for the exploration for, or development or removal of deposits of, oil, gas, or other minerals; and”.
+Subsec. (c). Pub. L. 95–372, §201(a), substituted “lease” for “mineral lease” as term defined and in definition of that term substituted “any form of authorization which is issued under section 1337 of this title ormaintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;” for “any form of authorization for the exploration for, or development or removal of deposits of, oil, gas, or other minerals; and”.
 
 Subsec. (d). Pub. L. 95–372, §201(b)(1), substituted semicolon for period at end.
 

@@ -6,7 +6,7 @@ The Assistant Secretary shall require entities that provide in-home services und
 
 &emsp;&emsp;(A) to be fully informed in advance about each in-home service provided by such entity under this subchapter and about any change in such service that may affect the well-being of such individual; and
 
-&emsp;&emsp;(B) to participate in planning and changing an in-home service provided under thissubchapter by such entity unless such individual is judicially adjudged incompetent.
+&emsp;&emsp;(B) to participate in planning and changing an in-home service provided under this subchapter by such entity unless such individual is judicially adjudged incompetent.
 
 &emsp;(2) The right to voice a grievance with respect to such service that is or fails to be so provided, without discrimination or reprisal as a result of voicing such grievance.
 

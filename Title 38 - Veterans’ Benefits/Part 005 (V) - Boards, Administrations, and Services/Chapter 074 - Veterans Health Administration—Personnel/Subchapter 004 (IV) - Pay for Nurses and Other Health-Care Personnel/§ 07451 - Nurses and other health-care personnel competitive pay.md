@@ -32,7 +32,7 @@
 
 &emsp;(B) at such additional times as the director of a Department health-care facility, with respect to employees in that grade at that facility, or the Under Secretary for Health, with respect to covered Regional and Central Office employees in that grade, determines.
 
-(2) An adjustment in rates of basic pay under this subsection for a grade shall be carried out by adjusting the amount of the minimum rate ofbasic pay for that grade in accordance with paragraph (3) and then adjusting the other rates for that grade to conform to the requirements of subsection (c). Such an adjustment in the minimum rate of basic pay for a grade shall be made by the director of a Department health-care facility so as to achieve consistency with the beginning rate of compensation for corresponding health-care professionals in the Bureau of Labor Statistics (BLS) labor-market area of that facility.
+(2) An adjustment in rates of basic pay under this subsection for a grade shall be carried out by adjusting the amount of the minimum rate of basic pay for that grade in accordance with paragraph (3) and then adjusting the other rates for that grade to conform to the requirements of subsection (c). Such an adjustment in the minimum rate of basic pay for a grade shall be made by the director of a Department health-care facility so as to achieve consistency with the beginning rate of compensation for corresponding health-care professionals in the Bureau of Labor Statistics (BLS) labor-market area of that facility.
 
 (3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on beginning rates of compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on beginning rates of compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
@@ -56,13 +56,13 @@
 
 (4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection, that it is not necessary to adjust the rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made. Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.
 
-(5) Information collected by the Department in surveys conducted under this subsection is not subject to disclosure under section 552 of title 5.
+(5) Information collected by the Department in surveys conducted under this subsection isnot subject to disclosure under section 552 of title 5.
 
 (6) In this subsection—
 
 &emsp;(A) The term “beginning rate of compensation”, with respect to health-care personnel positions in non-Department health-care facilities corresponding to a grade of a covered position, means the sum of—
 
-&emsp;&emsp;(i) the minimum rate of pay established for personnel in such positions who haveeducation, training, and experience equivalent or similar to the education, training, and experience required for health-care personnel employed in the same category of Department covered positions; and
+&emsp;&emsp;(i) the minimum rate of pay established for personnel in such positions who have education, training, and experience equivalent or similar to the education, training, and experience required for health-care personnel employed in the same category of Department covered positions; and
 
 &emsp;&emsp;(ii) other employee benefits for those positions to the extent that those benefits are reasonably quantifiable.
 
@@ -212,7 +212,7 @@ Review.—The Secretary of Veterans Affairs shall conduct a review of—
 
 “(b)
 
-Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include in the report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\].”
+Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include inthe report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\].”
 
 #### Section Referred to in Other Sections
 

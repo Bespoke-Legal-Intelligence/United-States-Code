@@ -6,7 +6,7 @@ The commission shall in appropriate matters act in conjunction and cooperation w
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 8, 1916, ch. 463, §707, 39 Stat. 797. That section was superseded by section 334 of act June 17, 1930, comprising this section.
+Provisions similar to those in this section were contained in act Sept. 8, 1916, ch. 463, §707, 39 Stat. 797. That section was superseded by section 334 of act June 17, 1930, comprising this section.
 
 #### Transfer of Functions
 

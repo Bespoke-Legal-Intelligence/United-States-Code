@@ -26,5 +26,5 @@
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–163 designated existing provisions as par. (1) and added par. (2).
+<b>1989</b>—Subsec. (c). Pub. L. 101–163 designated existing provisions as par. (1) and added par. (2).
 

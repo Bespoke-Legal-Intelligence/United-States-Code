@@ -2,7 +2,7 @@
 
 As used in this chapter, the term “antitrust law” means the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12 et seq.), and the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
 
-(Pub. L. 96 308, §5, July 9, 1980, 94 Stat. 939.)
+(Pub. L. 96–308, §5, July 9, 1980, 94 Stat. 939.)
 
 #### References in Text
 

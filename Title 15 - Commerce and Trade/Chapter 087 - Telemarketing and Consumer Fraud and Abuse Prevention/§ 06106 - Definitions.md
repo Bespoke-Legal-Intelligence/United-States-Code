@@ -20,5 +20,5 @@ For purposes of this chapter:
 
 > &emsp;where the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders only without further solicitation.
 
-(Pub. L. 103 297, §7, Aug. 16, 1994, 108 Stat. 1550.)
+(Pub. L. 103–297, §7, Aug. 16, 1994, 108 Stat. 1550.)
 

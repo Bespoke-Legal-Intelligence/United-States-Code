@@ -26,5 +26,5 @@ The functions of fishery trade officers appointed under subsection (a) of this s
 
 The Secretary of State and the Secretary shall enter into cooperative arrangements concerning the provision of office space, equipment, facilities, clerical services, and such other administrative support as may be required for fishery trade officers and their families.
 
-(Pub. L. 96 561, title II, §211, Dec. 22, 1980, 94 Stat. 3290.)
+(Pub. L. 96–561, title II, §211, Dec. 22, 1980, 94 Stat. 3290.)
 

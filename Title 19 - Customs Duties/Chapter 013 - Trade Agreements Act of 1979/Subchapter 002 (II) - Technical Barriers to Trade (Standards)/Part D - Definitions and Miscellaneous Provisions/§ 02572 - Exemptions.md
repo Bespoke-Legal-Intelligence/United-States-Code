@@ -1,4 +1,4 @@
-### §2572 . Exemptions
+### §2572. Exemptions
 
 This subchapter does not apply to—
 

@@ -32,7 +32,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 (4)(A) Notwithstanding the other provisions of this subsection, the United States Information Agency is authorized to enter into contracts for periods not to exceed 7 years for circuit capacity to distribute radio and television programs.
 
-(B) The authority of this paragraph may be exercised for a fiscal year only to such extent or insuch amounts as are provided in advance in appropriations Acts.
+(B) The authority of this paragraph may be exercised for a fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 (Jan. 27, 1948, ch. 36, title VIII, §802, 62 Stat. 12; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Aug. 24, 1982, Pub. L. 97–241, title III, §304(b), 96 Stat. 292; Apr. 30, 1994, Pub. L. 103–236, title II, §225, 108 Stat. 423.)
 

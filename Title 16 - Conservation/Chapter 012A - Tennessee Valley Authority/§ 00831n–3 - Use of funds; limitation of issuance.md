@@ -2,11 +2,11 @@
 
 With the approval of the Secretary of the Treasury the Corporation is authorized, after the date of enactment of this section, to issue bonds not to exceed in the aggregate $61,500,000. Such bonds may be sold by the Corporation to obtain funds which may be used for the following purposes only:
 
-(1) Not to exceed $46,000,000 may be used for the purchase of electric utility properties of the Tennessee Electric Power Company and Southern Tennessee Power Company, as contemplated in the contract between the Corporation and theCommonwealth and Southern Corporation and others, dated as of May 12, 1939.
+(1) Not to exceed $46,000,000 may be used for the purchase of electric utility properties of the Tennessee Electric Power Company and Southern Tennessee Power Company, as contemplated in the contract between the Corporation and the Commonwealth and Southern Corporation and others, dated as of May 12, 1939.
 
 (2) Not to exceed $6,500,000 may be used for the purchase and rehabilitation of electric utility properties of the Alabama Power Company and Mississippi Power Company in the following named counties in northern Alabama and northern Mississippi: The counties of Jackson, Madison, Limestone, Lauderdale, Colbert, Lawrence, Morgan, Marshall, De Kalb, Cherokee, Cullman, Winston, Franklin, Marion, and Lamar in northern Alabama, and the counties of Calhoun, Chickasaw, Monroe, Clay, Lowndes, Oktibbeha, Choctaw, Webster, Noxubee, Winston, Neshoba, and Kemper in northern Mississippi.
 
-(3) Not to exceed $3,500,000 may be used for rebuilding, replacing, and repairing electric utility properties purchased by the Corporation in accordance with the foregoing provisions of this section.
+(3) Not to exceed $3,500,000 may be used for rebuilding, replacing, and repairing electric utility properties purchased by the Corporation inaccordance with the foregoing provisions of this section.
 
 (4) Not to exceed $3,500,000 may be used for constructing electric transmission lines, substations, and other electrical facilities necessary to connect the electric utility properties purchased by the Corporation in accordance with the foregoing provisions of this section with the electric power system of the Corporation.
 

@@ -18,7 +18,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 #### (c) Use of funds
 
-(1) Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under theIndian Self-Determination Act \[25 U.S.C. 450f et seq.\]—
+(1) Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]—
 
 &emsp;(A) to which a scholarship recipient under section 1613a of this title or a loan repayment program participant under section 1616a of this title has been assigned to meet the obligated service requirements pursuant to <sup>1</sup> sections; and
 

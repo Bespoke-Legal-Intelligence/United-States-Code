@@ -6,7 +6,7 @@ The Congress reaffirms its support of the initiative of the United States Govern
 
 #### (b) Presidential authorization
 
-The President is authorized to develop a long-term comprehensive development program forthe Sahel and other drought-stricken nations in Africa.
+The President is authorized to develop a long-term comprehensive development program for the Sahel and other drought-stricken nations in Africa.
 
 #### (c) Presidential guidelines
 

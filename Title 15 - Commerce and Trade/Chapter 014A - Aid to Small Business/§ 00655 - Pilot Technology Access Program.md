@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administration, in consultation with the National Institute of Standards and Technology and the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section toSmall Business Development Centers (hereinafter in this section referred to as “Centers”).
+The Administration, in consultation with the National Institute of Standards and Technology and the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section to Small Business Development Centers (hereinafter in this section referred to as “Centers”).
 
 #### (b) Criteria for selection of Centers
 
@@ -48,7 +48,7 @@ There are authorized to be appropriated to the Small Business Administration $5 
 
 #### (i) Funding from other sources; employment of Centers by Federal agencies
 
-Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public and private institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
+Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public and private institutions, the analysis of commercialopportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
 
 (Pub. L. 85–536, §2\[28\], as added Pub. L. 102–140, title VI, §609(d), Oct. 28, 1991, 105 Stat. 825.)
 
@@ -58,7 +58,7 @@ Section 648a of this title, referred to in subsecs. (e) to (g), was repealed by 
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

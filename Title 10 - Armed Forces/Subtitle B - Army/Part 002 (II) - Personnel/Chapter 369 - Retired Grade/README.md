@@ -2,12 +2,12 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 3961\. | General rule. |
-| 3962\. | Higher grade for service in special positions. |
+| [3961\.](%C2%A7%2003961%20-%20General%20rule.md) | General rule. |
+| [3962\.](%C2%A7%2003962%20-%20Higher%20grade%20for%20service%20in%20special%20positions.md) | Higher grade for service in special positions. |
 | \[3963. | Repealed.\] |
-| 3964\. | Higher grade after 30 years of service: warrant officers and enlisted members. |
-| 3965\. | Restoration to former grade: retired warrant officers and enlisted members. |
-| 3966\. | Retired lists. |
+| [3964\.](%C2%A7%2003964%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md) | Higher grade after 30 years of service: warrant officers and enlisted members. |
+| [3965\.](%C2%A7%2003965%20-%20Restoration%20to%20former%20grade%20retired%20warrant%20officers%20and%20enlisted%20members.md) | Restoration to former grade: retired warrant officers and enlisted members. |
+| [3966\.](%C2%A7%2003966%20-%20Retired%20lists.md) | Retired lists. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

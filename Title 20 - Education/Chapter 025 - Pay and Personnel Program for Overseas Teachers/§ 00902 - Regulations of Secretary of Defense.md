@@ -28,19 +28,19 @@ Not later than the ninetieth day following July 17, 1959, the Secretary of Defen
 
 The regulations prescribed and issued by the Secretary of Defense under subsection (a) of this section shall become effective on such date as the Secretary of Defense shall prescribe but not later than the ninetieth day following the date of issuance of such regulations.
 
-(Pub. L. 86 91, §4, July 17, 1959, 73 Stat. 214; Pub. L. 89 391, §1(a), Apr. 14, 1966, 80 Stat. 117.)
+(Pub. L. 86–91, §4, July 17, 1959, 73 Stat. 214; Pub. L. 89–391, §1(a), Apr. 14, 1966, 80 Stat. 117.)
 
 #### Codification
 
-Section was formerly classified to section 2352 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2352 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1966—Subsec. (a)(2). Pub. L. 89 391 substituted provisions for issuance of regulations to fix basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing basic compensation for teaching positions in relation to rates of basic compensation for similar positions in the United States.
+1966—Subsec. (a)(2). Pub. L. 89–391 substituted provisions for issuance of regulations to fix basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing basic compensation for teaching positions in relation to rates of basic compensation for similar positions in the United States.
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89 391 provided that: “The amendments made by the first section of this Act \[amending this section and section 903 of this title\] shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Apr. 14, 1966\].”
+Section 2 of Pub. L. 89–391 provided that: “The amendments made by the first section of this Act \[amending this section and section 903 of this title\] shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Apr. 14, 1966\].”
 
 #### Section Referred to in Other Sections
 

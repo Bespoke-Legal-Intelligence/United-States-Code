@@ -92,21 +92,21 @@ Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), 
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
+<b>1993</b>—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
 
 Subsec. (g)(1)(C) to (L). Pub. L. 103–89 redesignated subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpar. (C) which read as follows: “chapter 54 of this title, relating to the performance management and recognition system;”.
 
 Subsec. (j). Pub. L. 103–114, §2(a), added subsec. (j).
 
-1992—Subsec. (a). Pub. L. 102–378, §2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
 
 Subsec. (g)(1)(D). Pub. L. 102–378, §2(51)(B)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “section 5371 of this title, or similar statutory authority, relating to administratively determined pay for certain specially qualified scientific or professional personnel;”.
 
 Subsec. (g)(1)(J) to (L). Pub. L. 102–378, §2(51)(B)(ii)–(iv), added subpars. (J) to (L).
 
-1990—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992.”
 
-1987—Subsec. (a). Pub. L. 100–140, §1(a)(3), inserted last sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–140, §1(a)(3), inserted last sentence.
 
 Subsec. (a)(1). Pub. L. 100–140, §1(a)(1), substituted “$14,000” for “$7,000”.
 
@@ -114,15 +114,15 @@ Subsec. (a)(2). Pub. L. 100–140, §1(a)(2), substituted “$20,000” for “$
 
 Subsec. (d). Pub. L. 100–140, §1(b), substituted “September 30, 1990” for “September 30, 1987” and “September 30, 1992” for “September 30, 1989”.
 
-1984—Subsec. (g)(1)(C). Pub. L. 98–615 substituted “performance management and recognition system” for “Merit Pay System”.
+<b>1984</b>—Subsec. (g)(1)(C). Pub. L. 98–615 substituted “performance management and recognition system” for “Merit Pay System”.
 
-1983—Subsec. (d). Pub. L. 98–168 substituted “1987” for “1983”, and “1989” for “1985”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–168 substituted “1987” for “1983”, and “1989” for “1985”.
 
-1981—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
 
 Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
 
-1979—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
 
 Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist” after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
 
@@ -148,15 +148,15 @@ Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 197
 
 #### Short Title of 1983 Amendment
 
-Section 101 of title I of Pub. L. 98–168 provided that: “This title \[amending this section, enacting provisions set out as a note below, and amending provisions set out as a note above\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
+Section 101 of title I of Pub. L. 98–168 provided that: “This title \[amending this section, enacting provisions set out below, and amending provisions set out as a note above\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
 
 #### Short Title of 1981 Amendment
 
-Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section and section 8344 of this title and provisions set out as a note below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
+Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
+Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
 
 #### Short Title
 
@@ -164,7 +164,7 @@ Section 1 of Pub. L. 95–603 provided: “That this Act \[enacting this section
 
 #### Construction of 1993 Amendment
 
-Section 1(a)(4) of Pub. L. 103–114 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note above\] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
+Section 1(a)(4) of Pub. L. 103–114 provided that: “The amendments made by this subsection \[amending this section and provisions set out above\] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
 
 Section 1(c) of Pub. L. 103–114 provided that: “For purposes of applying the amendments made by this section \[amending this section and enacting and amending provisions set out as notes above\]—
 
@@ -186,7 +186,7 @@ Section 103 of Pub. L. 98–168 provided that any individual whose aggregate pay
 
 #### Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982
 
-Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L.97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
+Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
 
 #### Service Agreements Entered Into On or After December 29, 1979; Advance Authorization
 
@@ -211,4 +211,6 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5307 of this title; title 24 section 225e; title 42 section 1395ww.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -104,11 +104,11 @@ Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided 
 
 #### GAO Reports
 
-Section 102(b) of Pub. L. 102–242, as amended by Pub. L. 103–325, title III, §327, Sept. 23, 1994, 108 Stat. 2230, provided that:
+Section 102(b) of Pub. L. 102–242, as amended by Pub. L. 103–325, title III, §327, Sept. 23, 1994, 108 Stat. 2230; Pub. L. 104–66, title II, §2061, Dec. 21, 1995, 109 Stat. 729, provided that:
 
 “(1)
 
-Quarterly reporting.—Not later than 90 days after the end of any calendar quarter in which the Federal Deposit Insurance Corporation (hereafter in this section referred to as the ‘Corporation’) has any obligations pursuant to section 14 of the Federal Deposit Insurance Act \[12 U.S.C. 1824\] outstanding, the Comptroller General of the United States shall submit a report on the Corporation's compliance at the end of that quarter with section 15(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1825(c)\] to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs \[now Committee on Banking and Financial Services\] of the House of Representatives. Such report shall be included in the Comptroller General's audit report for that year, as required by section 17 of the Federal Deposit Insurance Act \[12 U.S.C. 1827\].
+Quarterly reporting.—Not later than 90 days after the end of any calendar quarter in which the Federal Deposit Insurance Corporation (hereafter in this section referred to as the ‘Corporation’) has any obligations pursuant to section 14 of the Federal Deposit Insurance Act \[12 U.S.C. 1824\] outstanding, the Comptroller General of the United States shall submit a report on the Corporation's compliance at the end of that quarter with section 15(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1825(c)\] to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives. Such a report shall be included in the Comptroller General's audit report for that year, as required by section 17 of the Federal Deposit Insurance Act \[12 U.S.C. 1827\].
 
 “(2)
 

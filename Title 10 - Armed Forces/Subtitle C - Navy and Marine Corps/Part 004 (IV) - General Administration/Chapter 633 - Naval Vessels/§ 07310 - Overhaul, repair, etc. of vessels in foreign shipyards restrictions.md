@@ -1,4 +1,4 @@
-### §7310 . Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
+### §7310. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
 
 (a)
 

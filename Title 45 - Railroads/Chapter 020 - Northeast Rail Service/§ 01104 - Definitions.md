@@ -30,6 +30,10 @@ The Regional Rail Reorganization Act of 1973, referred to in par. (5), is Pub. L
 
 In par. (1), “chapter 243 of title 49” substituted for “title III of the Rail Passenger Service Act (45 U.S.C. 541 et seq.)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 49 section 24905.

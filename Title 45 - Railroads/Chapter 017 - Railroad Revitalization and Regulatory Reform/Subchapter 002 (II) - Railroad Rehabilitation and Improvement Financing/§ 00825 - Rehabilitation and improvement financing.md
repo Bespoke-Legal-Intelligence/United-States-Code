@@ -6,7 +6,9 @@
 
 (2) An employee or employee-shipper group may apply to the Secretary for financial assistance pursuant to subsection (b)(3) of this section.
 
-(3) A financially responsible person (as defined in section 10910(a)(1) of title 49) may apply to the Secretary for financial assistance from funds made available pursuant to section 829(b)(2) of this title.
+(3)(A) A financially responsible person may apply to the Secretary for financial assistance from funds made available pursuant to section 829(b)(2) <sup>1</sup> of this title.
+
+(B) For purposes of this paragraph, the term “financially responsible person” means a person who (i) is capable of paying the constitutional minimum value of the railroad line proposed to be acquired, and (ii) is able to assure that adequate transportation will be provided over such line for a period of not less than 3 years. Such term includes a governmental authority but does not include a class I or class II rail carrier.
 
 #### (b) Application and determination
 
@@ -18,9 +20,9 @@
 
 &emsp;(C) the track standard under which each such line has been and is being operated and the reasons therefor, and the safety standards and signal requirements necessary under such standard to prevent loss of life and serious accident or injury at grade crossings;
 
-&emsp;(D) the track standard necessary, in the judgment of such railroad, to provide reliable and competitive freight service (and passenger service, where applicable) over each such line, together with such railroad's recommendations as to (i) the most economical method of improving the physical condition of each such line to meet such track standard, (ii) the cost of providing adequate safety standards and signals, and (iii) an economic analysis of thecost of such improvements in condition and in safety standards and signals;
+&emsp;(D) the track standard necessary, in the judgment of such railroad, to provide reliable and competitive freight service (and passenger service, where applicable) over each such line, together with such railroad's recommendations as to (i) the most economical method of improving the physical condition of each such line to meet such track standard, (ii) the cost of providing adequate safety standards and signals, and (iii) an economic analysis of the cost of such improvements in condition and in safety standards and signals;
 
-&emsp;(E) such railroad's estimate as to the cost of labor and materials, and the date of completion, and its opinion as to the priority to be accorded such portions of the proposed project as are reasonably divisible;
+&emsp;(E) such railroad's estimate as to the cost of labor and materials, and the date of completion, and its opinion as to the priority to beaccorded such portions of the proposed project as are reasonably divisible;
 
 &emsp;(F) the amount and kind of Federal financial assistance required by such railroad in order to complete the proposed project; and
 
@@ -40,7 +42,7 @@ Upon the approval of an application for financial assistance under this section,
 
 (2)(A) In the case of a railroad in reorganization under section 77 of the Bankruptcy Act, the Secretary, in order to provide financing pursuant to this section, may agree to purchase redeemable preference shares of such railroad at par as part of a plan of reorganization of such railroad approved by the court having jurisdiction over the reorganization of such railroad. Such shares shall be specifically issued in accordance with the terms and conditions set forth in section 826 of this title.
 
-(B) The Secretary, in order to provide financing pursuant to this section, may also purchase certificates issued under section 77(c)(3) of the Bankruptcy Act by a trustee of a railroad in reorganization and approved by the reorganization court, under such terms and conditions as may be approved by the Secretary and the reorganization court. In purchasing such trustee certificates or at any time thereafter, the Secretary may agree with the trustee of such railroad in reorganization, subject to the approvalof the reorganization court, to exchange such certificates for redeemable preference shares issued, in accordance with the terms and conditions set forth in section 826 of this title, in connection with a plan of reorganization approved by the reorganization court. Except as provided in subparagraph (C) of this paragraph, no certificate shall be purchased under this section unless and until the Secretary makes a finding in writing that—
+(B) The Secretary, in order to provide financing pursuant to this section, may also purchase certificates issued under section 77(c)(3) of the Bankruptcy Act by a trustee of a railroad in reorganization and approved by the reorganization court, under such terms and conditions as may be approved by the Secretary and the reorganization court. In purchasing such trustee certificates or at any time thereafter, the Secretary may agree with the trustee of such railroad in reorganization, subject to the approval of the reorganization court, to exchange such certificates for redeemable preference shares issued, in accordance with the terms and conditions set forth in section 826 of this title, in connection with a plan of reorganization approvedby the reorganization court. Except as provided in subparagraph (C) of this paragraph, no certificate shall be purchased under this section unless and until the Secretary makes a finding in writing that—
 
 &emsp;(i) such certificates cannot otherwise be sold at a reasonable rate of interest;
 
@@ -54,7 +56,7 @@ Upon the approval of an application for financial assistance under this section,
 
 &emsp;(ii) all secured debt incurred before the date of commencement of railroad reorganization proceedings pursuant to section 77 of the Bankruptcy Act and determined by the court to be a proper claim against the estate and an obligation of the debtor corporation.
 
-(3) In the case of a Government authority that applies for financial assistance from funds made available pursuant to section 829(b)(2) of this title for the purchase or rehabilitation of railroad lines purchased under section 10910 of title 49, financing pursuant to this section shall be in the form of purchase by the Secretary of bonds or other debt obligations issued for such purpose by such Government authority.
+(3) In the case of a Government authority that applies for financial assistance from funds made available pursuant to section 829(b)(2)<sup>1</sup> of this title for the purchase or rehabilitation of railroad lines purchased under section 10910 <sup>1</sup> of title 49, financing pursuant to this section shall be in the form of purchase by the Secretary of bonds or other debt obligations issued for such purpose by such Government authority.
 
 (4) The total par value of the redeemable preference shares and the amount of trustee certificates, bonds, and other debt obligations which the Secretary may purchase from the proceeds received from the issuance and sale of Fund anticipation notes shall not exceed $1,400,000,000.
 
@@ -88,9 +90,9 @@ Not more than 50 percent of the funds made available at any time for the purchas
 
 &emsp;(A) purchase, from funds available on May 1, 1980, not less than $38,000,000 in redeemable preference shares, bonds, or trustee certificates convertible to redeemable preference shares under this section as necessary for the purchase, lease, or rehabilitation of properties of the Rock Island Railroad by responsible noncarrier entities to be used for common carrier rail service; and
 
-&emsp;(B) purchase not more than $27,000,000 in redeemable preference shares or trustee certificates convertible to redeemable preference shares under this section as necessary for the purchase of properties of the Milwaukee Railroad by responsible noncarrier entities to be used for common carrier rail service, to theextent that the Secretary determines that funds are available.
+&emsp;(B) purchase not more than $27,000,000 in redeemable preference shares or trustee certificates convertible to redeemable preference shares under this section as necessary for the purchase of properties of the Milwaukee Railroad by responsible noncarrier entities to be used for common carrier rail service, to the extent that the Secretary determines that funds are available.
 
-(2) Preference shares, bonds, and trustee certificates purchased under this subsection shall be purchased under terms and conditions that insure that the applicant will be financially capable of making the requisite dividend or interest and redemption or principal payments without impairing its financial resources, and the Secretary shall insure that all assistance provided under this subsection is likely to be repaid or can be secured.
+(2) Preference shares, bonds, and trustee certificates purchased under this subsection shallbe purchased under terms and conditions that insure that the applicant will be financially capable of making the requisite dividend or interest and redemption or principal payments without impairing its financial resources, and the Secretary shall insure that all assistance provided under this subsection is likely to be repaid or can be secured.
 
 (3)(A)(i) For purposes of this subsection, a responsible noncarrier entity may include an association composed of representatives of national railway labor organizations, employee coalitions, shippers, or any combination thereof, and States or State organizations, which wish to acquire, lease, or rehabilitate properties of the Rock Island Railroad or the Milwaukee Railroad pursuant to a feasible employee, employee-shipper, or State ownership plan. A responsible noncarrier entity may also include any railroad that wishes to contribute any of its properties under common ownership with the property being acquired by the association.
 
@@ -104,15 +106,21 @@ Not more than 50 percent of the funds made available at any time for the purchas
 
 (6) Applications for rail banking shall be treated equally with other applications for transaction assistance.
 
-(Pub. L. 94–210, title V, §505, Feb. 5, 1976, 90 Stat. 71; Pub. L. 94–555, title II, §§212, 216(a), Oct. 19, 1976, 90 Stat. 2624, 2626; Pub. L. 95–565, §5, Nov. 1, 1978, 92 Stat. 2400; Pub. L. 95–607, title III, §§301(a), 302, Nov. 8, 1978, 92 Stat. 3066; Pub. L. 95–620, title VIII, §803(c)(5), (6), Nov. 9, 1978, 92 Stat. 3347, 3348; Pub. L. 96–73, title IV, §401, Sept. 29, 1979, 93 Stat. 557; Pub. L. 96–101, §§16, 24(a), Nov. 4, 1979, 93 Stat. 744, 747; Pub. L. 96–254, title I, §112, May 30, 1980, 94 Stat. 404; Pub. L. 96–448, title IV, §§404, 405(a)(1), (c)(1), (2), (4), (5), 406, title VII, §701(d), Oct. 14, 1980, 94 Stat. 1945–1947, 1961; Pub. L. 97–35, title XI, §1162(a), (c), (d), Aug. 13, 1981, 95 Stat. 683, 684; Pub. L. 97–468, title IV, §§401, 403(b), Jan. 14, 1983, 96 Stat. 2550, 2551; Pub. L. 99–509, title IV, §4033(c)(3), Oct. 21, 1986, 100 Stat. 1908.)
+(Pub. L. 94–210, title V, §505, Feb. 5, 1976, 90 Stat. 71; Pub. L. 94–555, title II, §§212, 216(a), Oct. 19, 1976, 90 Stat. 2624, 2626; Pub. L. 95–565, §5, Nov. 1, 1978, 92 Stat. 2400; Pub. L. 95–607, title III, §§301(a), 302, Nov. 8, 1978, 92 Stat. 3066; Pub. L. 95–620, title VIII, §803(c)(5), (6), Nov. 9, 1978, 92 Stat. 3347, 3348; Pub. L. 96–73, title IV, §401, Sept. 29, 1979, 93 Stat. 557; Pub. L. 96–101, §§16, 24(a), Nov. 4, 1979, 93 Stat. 744, 747; Pub. L. 96–254, title I, §112, May 30, 1980, 94 Stat. 404; Pub. L. 96–448, title IV, §§404, 405(a)(1), (c)(1), (2), (4), (5), 406, title VII, §701(d), Oct. 14, 1980, 94 Stat. 1945–1947, 1961; Pub. L. 97–35, title XI, §1162(a), (c), (d), Aug. 13, 1981, 95 Stat. 683, 684; Pub. L. 97–468, title IV, §§401, 403(b), Jan. 14, 1983, 96 Stat. 2550, 2551; Pub. L. 99–509, title IV, §4033(c)(3), Oct. 21, 1986, 100 Stat. 1908; Pub. L. 104–88, title III, §330(2), Dec. 29, 1995, 109 Stat. 953.)
 
 #### References in Text
+
+Section 829(b)(2) of this title, referred to in subsecs. (a)(3)(A) and (d)(3), was repealed by Pub. L. 104–88, title III, §330(3), Dec. 29, 1995, 109 Stat. 953.
 
 Section 803(a) and (b) of the Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (b)(2), is section 803(a) and (b) of Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3347, which is set out as a note under section 822 of this title.
 
 Section 77 of the Bankruptcy Act, referred to in subsecs. (b)(2) and (d)(1), (2), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
+Section 10910 of title 49, referred to in subsec. (d)(3), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 10910 are contained in section 10907 of Title 49.
+
 #### Amendments
+
+1995—Subsec. (a)(3). Pub. L. 104–88 designated existing provisions as subpar. (A), substituted “A financially responsible person” for “A financially responsible person (as defined in section 10910(a)(1) of title 49)”, and added subpar. (B).
 
 1986—Subsec. (a)(1). Pub. L. 99–509, §4033(c)(3)(A), struck out “(or any financially responsible person, as defined in section 10910(a)(1) of title 49, who acquires from the Corporation for common carrier rail service any rail line owned by the Corporation on August 13, 1981)” after “Any railroad”.
 
@@ -140,7 +148,7 @@ Subsec. (h)(1)(A). Pub. L. 96–448, §701(d)(1), substituted “$38,000,000” 
 
 Subsec. (h)(1)(B). Pub. L. 96–448, §701(d)(2), substituted “$27,000,000” for “$18,000,000”.
 
-Subsec. (h)(4). Pub. L. 96–448, §701(d)(3), inserted provision making this subsection applicable to purchase offers submitted to the Trustee of the Rock Island Railroad Estate and filed with the Commission prior to Sept. 15, 1980, or at such other time as the Secretary considers appropriate, as well as purchase applications filed with the Commission prior to Sept. 15, 1980, or at such other time as the Secretary considers appropriate.
+Subsec. (h)(4). Pub. L. 96–448, §701(d)(3), inserted provision making this subsection applicable to purchaseoffers submitted to the Trustee of the Rock Island Railroad Estate and filed with the Commission prior to Sept. 15, 1980, or at such other time as the Secretary considers appropriate, as well as purchase applications filed with the Commission prior to Sept. 15, 1980, or at such other time as the Secretary considers appropriate.
 
 Subsec. (h)(5), (6). Pub. L. 96–448, §406, added pars. (5) and (6).
 
@@ -170,13 +178,17 @@ Pub. L. 95–565, §5(b), substituted “after September 30, 1979, make commitme
 
 Subsec. (b)(2). Pub. L. 94–555, §216(a), inserted “evaluate and” after “the Secretary shall”, inserted provision in cl. (A) relating to consideration by Secretary in approving application of railroads the rate of return on total capital, including interest on long-term debt and accumulated deferred income tax, and inserted in cl. (C) provision giving priority to projects which, in the determination of Secretary, will provide public benefits by enhancing the ability of carriers to provide essential freight services.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as an Effective Date note under section 1101 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by sections 404 to 406 of Pub. L. 96–448 effective Oct. 1, 1980, and amendment by section 701(d) of Pub. L. 96–448 effective Oct. 14, 1980, see section 710(a), (d) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by sections 404 to 406 of Pub. L. 96–448 effective Oct. 1, 1980, and amendment by section 701(d) of Pub. L. 96–448 effective Oct. 14, 1980, see section 710(a), (d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Effective Date of 1979 Amendment
 
@@ -190,6 +202,10 @@ Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section
 
 Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L. 94–555, set out as a note under section 702 of this title.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Chicago, Milwaukee, and Saint Paul Railroad Roadbed and Track Improvement Loans
 
 Section 303 of Pub. L. 95–607 provided that: “The Federal Railroad Administration shall promptly review the condition of the Chicago, Milwaukee, and Saint Paul Railroad and consider assisting such railroad with loans for roadbed and track improvement.”
@@ -197,4 +213,6 @@ Section 303 of Pub. L. 95–607 provided that: “The Federal Railroad Administr
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 822, 823, 826, 829, 838, 913 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

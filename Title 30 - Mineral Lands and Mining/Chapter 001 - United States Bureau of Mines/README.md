@@ -93,7 +93,7 @@ Indian lands, leases—
 
 &emsp;&emsp;Unallotted mineral lands withdrawn from entry under mining laws, see section 399 of Title 25.
 
-Military service, utilization of mines, see section 468 of Appendix to Title 50, War and National Defense.
+Military service, utilization of mines, see section 468 of Title 50, Appendix, War and National Defense.
 
 National forests, monuments, and parks: mineral lands, deposits, and mining, see generally Title 16, Conservation.
 
@@ -127,13 +127,13 @@ Soil area surveys by Secretary of Agriculture, printing of reports, see section 
 
 Soldiers’ and Sailors’ Civil Relief Act of 1940—
 
-&emsp;&emsp;Mineral permits and leases, suspension of operations and term of permits and leases, see section 566 of Appendix to Title 50, War and National Defense.
+&emsp;&emsp;Mineral permits and leases, suspension of operations and term of permits and leases, see section 566 of to Title 50, Appendix, War and National Defense.
 
-&emsp;&emsp;Mining claims, requirements suspended, see section 565 of Appendix to Title 50.
+&emsp;&emsp;Mining claims, requirements suspended, see section 565 of Title 50, Appendix.
 
-&emsp;&emsp;Nonforfeiture of rights to public lands under mining and mineral leasing laws, see section 561 of Appendix to Title 50.
+&emsp;&emsp;Nonforfeiture of rights to public lands under mining and mineral leasing laws, see section 561 of Title 50, Appendix.
 
-&emsp;&emsp;Public land rights of persons under 21 under mining and mineral leasing laws, see section 571 of Appendix to Title 50.
+&emsp;&emsp;Public land rights of persons under 21 under mining and mineral leasing laws, see section 571 of Title 50, Appendix.
 
 Strategic and Critical Materials Stock Piling Act, see section 98 et seq. of Title 50.
 

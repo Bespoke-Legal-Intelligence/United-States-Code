@@ -60,7 +60,7 @@
 
 #### (c) Evaluation of programs; determination of training needs for qualified personnel; development of long-term manpower plan; report on allocation of training funds
 
-The Commissioner shall evaluate the impact of the training programs conducted under this section, shall determine training needs for qualified personnel necessary to provide services to individuals with disabilities, and shall develop a long-term rehabilitation manpower plan designed to target resources on areas of personnel shortage. The Commissioner shall prepare and submit to the Congress, simultaneously with the budget submission for the succeeding fiscal year for the Rehabilitation Services Administration, a report setting forth and justifying in detail how the training funds for the fiscal year prior to such submission are allocated by professional discipline and other program areas. The report shall also contain findings on personnel shortages, how funds proposed for thesucceeding fiscal year will be allocated under the President's budget proposal, and how the findings of personnel shortages justify the allocations.
+The Commissioner shall evaluate the impact of the training programs conducted under this section, shall determine training needs for qualified personnel necessary to provide services to individuals with disabilities, and shall develop a long-term rehabilitation manpower plan designed to target resources on areas of personnel shortage. The Commissioner shall prepare and submit to the Congress, by September 30 of each fiscal year, a report setting forth and justifying in detail how the training funds for the fiscal year prior to such submission are allocated by professional discipline and other program areas. The report shall also contain findings on personnel shortages, how funds proposed for the succeeding fiscal year will be allocated under the President's budget proposal, and how the findings of personnel shortages justify the allocations.
 
 #### (d) Grants for development of rehabilitation technician programs
 
@@ -98,7 +98,7 @@ In carrying out subsection (a) of this section, the Commissioner shall award two
 
 #### (f) Interpreters for individuals who are deaf; grants; application for grants
 
-(1) For the purpose of training a sufficient number of interpreters to meet the communications needs of individuals who are deaf and individuals who are deaf-blind, the Secretary, through the Office of Deafness and Communicative Disorders, may award grants to any public or private nonprofit agency or organization to establish interpreter training programs or to provide financial assistance for ongoing interpreter training programs. The Secretary shall award grants for programs in such geographic areas throughout the United States as the Secretary considers appropriate to best carry out the purpose of this section. Priority shall be given to public or private nonprofit agencies or organizations with existing programs that have demonstrated their capacity for providing interpreter training services.
+(1) For the purpose of training a sufficient number of interpreters to meet the communications needs of individuals who are deaf and individuals who are deaf-blind, the Secretary, through the Office of Deafness and Communicative Disorders, may award grants to any public or private nonprofit agency or organization to establish interpreter training programs or toprovide financial assistance for ongoing interpreter training programs. The Secretary shall award grants for programs in such geographic areas throughout the United States as the Secretary considers appropriate to best carry out the purpose of this section. Priority shall be given to public or private nonprofit agencies or organizations with existing programs that have demonstrated their capacity for providing interpreter training services.
 
 (2) No grant shall be awarded under paragraph (1) unless the applicant has submitted an application to the Secretary in such form, and in accordance with such procedures, as the Secretary may require. Any such application shall—
 
@@ -106,7 +106,7 @@ In carrying out subsection (a) of this section, the Commissioner shall award two
 
 &emsp;(B) demonstrate the applicant's capacity or potential for providing training for interpreters for individuals who are deaf and individuals who are deaf-blind;
 
-&emsp;(C) provide assurances that any interpreter trained or retrained under such program shall meet such minimum standards of competencyas the Secretary may establish for purposes of this section; and
+&emsp;(C) provide assurances that any interpreter trained or retrained under such program shall meet such minimum standards of competency as the Secretary may establish for purposes of this section; and
 
 &emsp;(D) contain such other information as the Secretary may require.
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (2) If the amount of funds appropriated for a fiscal year to carry out this section exceeds the amount of funds appropriated for the preceding fiscal year to carry out this section, adjusted by the percent by which the average of the estimated gross domestic product fixed-weight price index for that fiscal year differs from that estimated index for the preceding fiscal year, the amount of the excess shall be treated as if the excess were appropriated under subchapter VIII of this chapter.
 
-(Pub. L. 93–112, title III, §302, formerly title II, §203, Sept. 26, 1973, 87 Stat. 376; renumbered title III, §304, and amended Pub. L. 95–602, title I, §§109(2), 114, Nov. 6, 1978, 92 Stat. 2963, 2970; Pub. L. 98–221, title I, §133, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §403, title X, §1002(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1824, 1844; Pub. L. 100–630, title II, §204(c), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, §4(c), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; renumbered §302 and amended Pub. L. 102–569, title I, §102(p)(18), title III, §§301(b)(3), (4), 302, Oct. 29, 1992, 106 Stat. 4358, 4411; Pub. L. 103–73, title I, §110(a), Aug. 11, 1993, 107 Stat. 726; Pub. L. 103–218, title IV, §402(b), Mar. 9, 1994, 108 Stat. 96.)
+(Pub. L. 93–112, title III, §302, formerly title II, §203, Sept. 26, 1973, 87 Stat. 376; renumbered title III, §304, and amended Pub. L. 95–602, title I, §§109(2), 114, Nov. 6, 1978, 92 Stat. 2963, 2970; Pub. L. 98–221, title I, §133, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §403, title X, §1002(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1824, 1844; Pub. L. 100–630, title II, §204(c), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, §4(c), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; renumbered §302 and amended Pub. L. 102–569, title I, §102(p)(18), title III, §§301(b)(3), (4), 302, Oct. 29, 1992, 106 Stat. 4358, 4411; Pub. L. 103–73, title I, §110(a), Aug. 11, 1993, 107 Stat. 726; Pub. L. 103–218, title IV, §402(b), Mar. 9, 1994, 108 Stat. 96; Pub. L. 104–66, title I, §1042(d), Dec. 21, 1995, 109 Stat. 715.)
 
 #### References in Text
 
@@ -157,6 +157,8 @@ Section was formerly classified to section 774 of this title prior to renumberin
 A prior section 302 of Pub. L. 93–112 was renumbered section 303 and is classified to section 772 of this title.
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–66 in second sentence substituted “by September 30 of each fiscal year” for “simultaneously with the budget submission for the succeeding fiscal year for the Rehabilitation Services Administration”.
 
 1994—Subsec. (b)(1)(B)(iv). Pub. L. 103–218 added cl. (iv).
 
@@ -214,7 +216,7 @@ Subsec. (a)(2). Pub. L. 99–506, §1002(d)(2), which directed the substitution 
 
 Subsec. (b). Pub. L. 99–506, §403(c), designated existing first sentence as par. (1) and struck out existing second sentence which read as follows: “No grant shall be made under this section for furnishing to an individual any one course of study extending for a period in excess of four years.”. See par. (2).
 
-Subsec. (b)(1). Pub. L. 99–506, §403(b)(1)–(3), inserted “rehabilitation engineering,” before “rehabilitationmedicine”, “rehabilitation dentistry,” after “rehabilitation psychology,” and “physical education, therapeutic recreation,” after “speech pathology and audiology,”.
+Subsec. (b)(1). Pub. L. 99–506, §403(b)(1)–(3), inserted “rehabilitation engineering,” before “rehabilitation medicine”, “rehabilitation dentistry,” after “rehabilitation psychology,” and “physical education, therapeutic recreation,” after “speech pathology and audiology,”.
 
 Pub. L. 99–506, §403(b)(4), which directed the insertion of “specialized personnel in providing employment training for supported employment, other specialized personnel for those individuals who meet the definition of severely handicapped,” after “job placement services for handicapped individuals,”, was executed by making the insertion after “job placement services for individuals with handicaps,” as the probable intent of Congress because of the prior amendment by section 103(d)(2)(C) of Pub. L. 99–506.
 

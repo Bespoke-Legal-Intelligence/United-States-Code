@@ -1,4 +1,4 @@
-### §8709 . Insurance policies
+### §8709. Insurance policies
 
 (a) The Office of Personnel Management, without regard to section 5 of title 41, may purchase from one or more life insurance companies a policy or policies of group life and accidental death and dismemberment insurance to provide the benefits specified by this chapter. A company must meet the following requirements:
 
@@ -34,9 +34,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–427 added subsec. (d).
+<b>1980</b>—Subsec. (d). Pub. L. 96–427 added subsec. (d).
 
-1978—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1980 Amendment
 

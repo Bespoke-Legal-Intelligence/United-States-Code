@@ -6,7 +6,7 @@
 
 &emsp;(2) An officer in the reserve grade of major.
 
-(b) The years of service computed under sections 8360(e) and 8366(e) of this title, with which a deferred officer is credited shall be reduced, if necessary, so that one year after the date on which he would have been promoted if he had been recommended by a selection board he willnot have more than four years of service computed under section 8360(e) of this title if he is in the reserve grade of first lieutenant, or seven years of that service if he is in the reserve grade of captain or major. For the purpose of this subsection, the date on which a deferred officer would have been promoted had he been recommended is the earlier of the following dates—
+(b) The years of service computed under sections 8360(e) and 8366(e) of this title, with which a deferred officer is credited shall be reduced, if necessary, so that one year after the date on which he would have been promoted if he had been recommended by a selection board he will not have more than four years of service computed under section 8360(e) of this title if he is in the reserve grade of first lieutenant, or seven years of that service if he is in the reserve grade of captain or major. For the purpose of this subsection, the date on which a deferred officer would have been promoted had he been recommended is the earlier of the following dates—
 
 &emsp;(1) the earliest date of appointment in the next higher reserve grade of any officer who, before the deferred officer's loss of seniority, was junior to him; or
 

@@ -14,7 +14,7 @@ The Council shall—
 
 &emsp;&emsp;(A) interpret regulations and assist in the application process for Federal assistance, including grants;
 
-&emsp;&emsp;(B) provide assistance on the ways in which Federal programs, other than thoseauthorized under this chapter, may best be coordinated to complement the objectives of this chapter;
+&emsp;&emsp;(B) provide assistance on the ways in which Federal programs, other than those authorized under this chapter, may best be coordinated to complement the objectives of this chapter;
 
 &emsp;&emsp;(C) develop recommendations and program ideas based on regional specific issues in serving the homeless population; and
 
@@ -72,7 +72,7 @@ Not later than 90 days after November 7, 1988, the head of each Federal agency t
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “this Act”, meaning Pub. L. 100–77,July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 100–628, §203, added subsec. (e).
 
 #### Personnel From Federal Departments and Agencies
 
-Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: “That the Council shall carry out its duties in the 10 standard Federal regions under section203(a)(4) of such Act \[42 U.S.C. 11313(a)(4)\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[42 U.S.C. 11312(a)\].” Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: “That the Council shall carry out its duties in the 10 standard Federal regions under section 203(a)(4) of such Act \[42 U.S.C. 11313(a)(4)\] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act \[42 U.S.C. 11312(a)\].” Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 769.
 

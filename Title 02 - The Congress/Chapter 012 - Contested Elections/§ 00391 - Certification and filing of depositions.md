@@ -1,4 +1,4 @@
-### §391 . Certification and filing of depositions
+### §391. Certification and filing of depositions
 
 #### (a) Sealing of papers; deposit with clerk
 

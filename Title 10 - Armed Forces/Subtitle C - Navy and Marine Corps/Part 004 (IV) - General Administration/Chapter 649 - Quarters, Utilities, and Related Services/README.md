@@ -2,8 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 7571\. | Quarters or other accommodations: to whom furnished. |
-| 7572\. | Quarters: accommodations in place of for members on sea duty. |
+| [7571\.](%C2%A7%2007571%20-%20Quarters%20or%20other%20accommodations%20to%20whom%20furnished.md) | Quarters or other accommodations: to whom furnished. |
+| [7572\.](%C2%A7%2007572%20-%20Quarters%20accommodations%20in%20place%20of%20for%20members%20on%20sea%20duty.md) | Quarters: accommodations in place of for members on sea duty. |
 | [7573\.](%C2%A7%2007573%20-%20Quarters%20temporary%3B%20transient%20members.md) | Quarters: temporary; transient members. |
 | \[7574, 7575. Repealed.\] |  |
 | [7576\.](%C2%A7%2007576%20-%20Quarters%20extension%20telephones.md) | Quarters: extension telephones. |

@@ -1,4 +1,4 @@
-### §460p–2 . Acquisition of lands, etc.
+### §460p–2. Acquisition of lands, etc.
 
 #### (a) Authority of Secretary; manner and place; boundaries of Monongahela National Forest; concurrence of State owner
 

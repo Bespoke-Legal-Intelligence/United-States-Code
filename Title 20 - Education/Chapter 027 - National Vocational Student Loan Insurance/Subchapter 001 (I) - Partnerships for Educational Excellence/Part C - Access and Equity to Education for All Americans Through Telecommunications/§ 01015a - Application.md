@@ -42,11 +42,11 @@ Each application submitted pursuant to paragraph (1) shall—
 
 &emsp;In approving applications under this part the Secretary shall ensure the equitable geographic distribution of grants awarded under this part.
 
-(Pub. L. 89 329, title I, §132, as added Pub. L. 102 325, title I, §101, July 23, 1992, 106 Stat. 465.)
+(Pub. L. 89–329, title I, §132, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 465.)
 
 #### Prior Provisions
 
-A prior section 1015a, Pub. L. 89 329, title I, §132, as added Pub. L. 94 482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2087; set out scope of lifelong learning program, prior to the general revision of this subchapter by Pub. L. 96 374.
+A prior section 1015a, Pub. L. 89–329, title I, §132, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2087, set out scope of lifelong learning program, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Section Referred to in Other Sections
 

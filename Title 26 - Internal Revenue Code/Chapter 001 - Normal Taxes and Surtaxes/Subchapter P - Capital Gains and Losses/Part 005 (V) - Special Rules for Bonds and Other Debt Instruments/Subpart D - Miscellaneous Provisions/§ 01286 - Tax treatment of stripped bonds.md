@@ -156,7 +156,7 @@ Section 1879(s)(2) of Pub. L. 99–514 provided that: “The amendment made by p
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 ofPub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

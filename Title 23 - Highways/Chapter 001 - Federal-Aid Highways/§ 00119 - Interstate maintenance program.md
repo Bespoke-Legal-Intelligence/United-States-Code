@@ -22,7 +22,7 @@ Transfer of Funds for Surface Transportation Program Projects.—
 
 &emsp;(1)
 
-Upon certification acceptance.—If a State certifies to the Secretary that any partof the sums apportioned to the State under section 104(b)(5)(B) of this title are in excess of the needs of the State for resurfacing, restoring, or rehabilitating Interstate System routes and the State is adequately maintaining the Interstate System and the Secretary accepts such certification, the State may transfer such excess part to its apportionment under sections 104(b)(1) and 104(b)(3).
+Upon certification acceptance.—If a State certifies to the Secretary that any part of the sums apportioned to the State under section 104(b)(5)(B) of this title are in excess of the needs of the State for resurfacing, restoring, or rehabilitating Interstate System routes and the State is adequately maintaining the Interstate System and the Secretary accepts such certification, the State may transfer such excess part to its apportionment under sections 104(b)(1) and 104(b)(3).
 
 &emsp;(2)
 

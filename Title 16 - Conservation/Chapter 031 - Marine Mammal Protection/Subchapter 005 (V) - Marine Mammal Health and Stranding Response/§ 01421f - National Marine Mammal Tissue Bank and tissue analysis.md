@@ -16,7 +16,7 @@
 
 #### (3) Source of tissue
 
-&emsp;In addition to tissues taken during marine mammal unusual mortality events, the Tissue Bank shall incorporate tissue samples taken from other sources in the wild, including—
+&emsp;In addition to tissues taken during marine mammal unusual mortality events, the TissueBank shall incorporate tissue samples taken from other sources in the wild, including—
 
 &emsp;&emsp;(A) samples from marine mammals taken incidental to commercial fishing operations;
 

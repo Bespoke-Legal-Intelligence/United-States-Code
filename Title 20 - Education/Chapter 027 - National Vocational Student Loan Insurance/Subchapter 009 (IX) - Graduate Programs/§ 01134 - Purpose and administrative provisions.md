@@ -24,7 +24,7 @@ It is the purpose of this subchapter to—
 
 &emsp;No fellowship shall be awarded under this subchapter for study at a school or department of divinity.
 
-(Pub. L. 89 329, title IX, §901, as added Pub. L. 99 498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1549; amended Pub. L. 102 325, title IX, §901, July 23, 1992, 106 Stat. 760; Pub. L. 103 208, §2(j)(27), Dec. 20, 1993, 107 Stat. 2482.)
+(Pub. L. 89–329, title IX, §901, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1549; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 760; Pub. L. 103–208, §2(j)(27), Dec. 20, 1993, 107 Stat. 2482.)
 
 #### References in Text
 
@@ -32,27 +32,27 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Prior Provisions
 
-A prior section 1134, Pub. L. 89 329, title IX, §901, as added Pub. L. 92 318, title I, §181(a), June 23, 1972, 86 Stat. 304; amended Pub. L. 94 482, title I, §171(a)(1), (2), Oct. 12, 1976, 90 Stat. 2159; Pub. L. 96 49, §9(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96 374, title IX, §901(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1482, 1503, set forth Congressional declaration of purpose and authorized appropriations for grants to institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86Stat. 304; amended Pub. L. 94–482, title I, §171(a)(1), (2), Oct. 12, 1976, 90 Stat. 2159; Pub. L. 96–49, §9(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374, title IX, §901(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1482, 1503, set forth Congressional declaration of purpose and authorized appropriations for grants to institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1134, Pub. L. 89 329, title IX, §901, as added Pub. L. 90 575, title II, §261, Oct. 16, 1968, 82 Stat. 1043, set forth Congressional declaration of purpose respecting education for the public service, prior to repeal by Pub. L. 92 318.
+Another prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1043, set forth Congressional declaration of purpose respecting education for the public service, prior to repeal by Pub. L. 92–318.
 
 #### Amendments
 
-1993—Subsec. (b)(2). Pub. L. 103 208 substituted “such subchapter” for “such part”.
+1993—Subsec. (b)(2). Pub. L. 103–208 substituted “such subchapter” for “such part”.
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to purpose and administration of this subchapter for provisions authorizing programs under former part A of this subchapter.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to purpose and administration of this subchapter for provisions authorizing programs under former part A of this subchapter.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Information on Graduate Education
 
-Section 1408 of Pub. L. 102 325 provided that:
+Section 1408 of Pub. L. 102–325 provided that:
 
 “(a)
 

@@ -6,7 +6,7 @@ The surplus of the proceeds of sales under section 1491 of this title, after the
 
 #### Prior Provisions
 
-Provisions substantially similar in most respects to those of this section, with further provisions concerning the documents to be forwarded by the collector to the Treasury Department, were contained in R.S. §2974, which was superseded and more nearly assimilated to the present section by act Sept. 21, 1922, ch. 356, title IV, §493, 42 Stat. 964, and repealed by section 642 thereof. Section 493 of the 1922 act was superseded by section 493 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially similar in most respects to those in this section, with further provisions concerning the documents to be forwarded by the collector to the Treasury Department, were contained in R.S. §2974, which was superseded and more nearly assimilated to the present section by act Sept. 21, 1922, ch. 356, title IV, §493, 42 Stat. 964, and repealed by section 642 thereof. Section 493 of the 1922 act was superseded by section 493 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

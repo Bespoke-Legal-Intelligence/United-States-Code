@@ -66,11 +66,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Pub. L. 102–378 substituted “employees” for “employee” in section catchline.
+<b>1992</b>—Pub. L. 102–378 substituted “employees” for “employee” in section catchline.
 
-1986—Subsec. (a). Pub. L. 99–234, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–234, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed$50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
 
-Subsec. (b). Pub. L. 99–234, §102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due tohis own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
+Subsec. (b). Pub. L. 99–234, §102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
 
 Subsec. (c). Pub. L. 99–234, §102, redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed under section 5707 of this title, the Administrator of General Services, or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the maximum per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $75 for each day in a travel status within the continental United States when the per diem otherwise allowable is determined to be inadequate (1) due to the unusual circumstances of the travel assignment, or (2) for travel to high rate geographical areas designated as such in regulations prescribed under section 5707 of this title.”
 
@@ -78,15 +78,15 @@ Subsec. (d). Pub. L. 99–234, §102(a), struck out subsec. (d) which read as fo
 
 Subsec. (e). Pub. L. 99–234, §102(b), redesignated subsec. (e) as (c).
 
-1980—Subsec. (a). Pub. L. 96–346, §1(1), increased to $50 from $35 the maximum per diem allowance for travel inside the continental United States.
+<b>1980</b>—Subsec. (a). Pub. L. 96–346, §1(1), increased to $50 from $35 the maximum per diem allowance for travel inside the continental United States.
 
 Subsec. (c). Pub. L. 96–346, §1(2), increased to $75 from $50 the maximum reimbursement for actual and necessary expenses for travel within the continental United States.
 
 Subsec. (d). Pub. L. 96–346, §1(3), increased to $33 from $21 the maximum reimbursement for travel outside the continental United States.
 
-1979—Subsec. (c). Pub. L. 96–54 substituted “(1)” for “(A)” and “(2)” for “(B)”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–54 substituted “(1)” for “(A)” and “(2)” for “(B)”.
 
-1975—Subsec. (a). Pub. L. 94–22 substituted provision relating to determination of per diem allowance under regulations prescribed under section 5707 for provision allowing for such determination by agency concerned, inserted provisions relating to an individual described under section 5703 and to proportionate allocation of rates for travel consuming less than a full day, struck out provision relating to Director of Bureau of Budget or another officer of Government of the United States as persons who may be designees, and raised maximum allowance from $25 to $35.
+<b>1975</b>—Subsec. (a). Pub. L. 94–22 substituted provision relating to determination of per diem allowance under regulations prescribed under section 5707 for provision allowing for such determination by agency concerned, inserted provisions relating to an individual described under section 5703 and to proportionate allocation of rates for travel consuming less than a full day, struck out provision relating to Director of Bureau of Budget or another officer of Government of the United States as persons who may be designees, and raised maximum allowance from $25 to $35.
 
 Subsec. (b). Pub. L. 94–22 inserted provision relating to an individual described under section 5703, inserted “appropriate” before “transportation”, and “or home or regular place of business, as the case may be.” after “expenses to his designated post of duty”.
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 94–22 substituted the Administrator of General Services, 
 
 Subsecs. (d), (e). Pub. L. 94–22 transferred from subsec. (c) to (d) provisions for reimbursement for actual and necessary expenses for travel outside the continental United States and raised from $18 to $21 the maximum reimbursement for such expenses, and redesignated former subsec. (d) as (e).
 
-1969—Subsec. (a). Pub. L. 91–114 increased the per diem allowance for travel inside the continental United States from not to exceed the rate of $16 to not to exceed the rate of $25.
+<b>1969</b>—Subsec. (a). Pub. L. 91–114 increased the per diem allowance for travel inside the continental United States from not to exceed the rate of $16 to not to exceed the rate of $25.
 
 Subsec. (c). Pub. L. 91–114 in cl. (1) increased the amount authorized to be named in the travel authorization for each day in a travel status inside the continental United States from not to exceed $30 to not to exceed $40, and in cl. (2) increased the amount authorized to be named in the travel authorization for each day in a travel status outside the continental United States from not to exceed the maximum per diem allowance plus $10 to not to exceed the maximum per diem allowance plus $18.
 
@@ -126,7 +126,7 @@ Requirement.—Any awards granted under such a frequent traveler program accrued
 
 “(c)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Administrator shall report to Congress on efforts to promote the use of frequent traveler programs by Federal employees.”
+Report.—Not later than one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Administrator shall report to Congress on efforts to promotethe use of frequent traveler programs by Federal employees.”
 
 #### Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979
 
@@ -154,5 +154,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 section 476; title 7 sections 3128, 3194, 3335, 4108, 5843; title 10 section 2837; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641; title 18 section 4285; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 29 section 2215; title 31 section 326; title 33 section 2732; title 36 section 121; title 38 section 111; title 42 sections 1873, 2210, 2477, 10163, 10265, 11221, 13458, 14195.
+This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 section 476; title 7 sections 3128, 3194, 3335, 4108, 5843; title 10 section 2837; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 18 section 4285; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 29 section 2215; title 31 section 326; title 33 section 2732; title 36 section 121; title 38 section 111; title 42 sections 1873, 2210, 2477, 10163, 10265, 11221, 13458, 14195.
 

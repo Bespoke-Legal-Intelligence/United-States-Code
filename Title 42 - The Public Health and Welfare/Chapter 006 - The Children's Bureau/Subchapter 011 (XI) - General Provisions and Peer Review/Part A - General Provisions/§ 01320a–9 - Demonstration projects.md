@@ -54,7 +54,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 #### (g) Cost neutrality
 
-The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project overits approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV of this chapter if the project were not conducted.
+The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project over its approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV of this chapter if the project were not conducted.
 
 (Aug. 14, 1935, ch. 531, title XI, §1130, as added Oct. 31, 1994, Pub. L. 103–432, title II, §208, 108 Stat. 4457.)
 

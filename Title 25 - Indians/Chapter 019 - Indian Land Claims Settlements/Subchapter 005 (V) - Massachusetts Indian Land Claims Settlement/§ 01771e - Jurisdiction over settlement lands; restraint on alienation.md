@@ -32,5 +32,5 @@ Any land held in trust by the Secretary for the benefit of the Wampanoag Tribal 
 
 #### References in Text
 
-Sections 415 to 415d of this title, referred to in subsec. (c)(2), was in the original “the Act entitled ‘An Act to authorize the leasing of restricted Indian lands for public, religious, educational, recreational, residential, business, and other purposes requiring the grant of long-term leases’, approved August 9, 1955 (25 U.S.C. 415 et seq.)”, which enacted sections 415 to 415d of this title and amended section 396 of this title.
+Sections 415 to 415d of this title, referred to in subsec. (c)(2), was in the original “the Act entitled ‘An Act to authorize the leasing of restricted Indian lands for public, religious, educational, recreational, residential, business, and other purposes requiring the grant of long-term leases’, approved August 9, 1955 (25 U.S.C. 415et seq.)”, which enacted sections 415 to 415d of this title and amended section 396 of this title.
 

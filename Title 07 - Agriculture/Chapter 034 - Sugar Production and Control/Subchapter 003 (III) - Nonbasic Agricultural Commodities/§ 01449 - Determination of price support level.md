@@ -1,0 +1,10 @@
+### §1449. Determination of price support level
+
+In determining the level of price support for any nonbasic agricultural commodity under sections 1447 to 1449 of this title, particular consideration shall be given to the levels at which the prices of competing agricultural commodities are being supported.
+
+(Oct. 31, 1949, ch. 792, title III, §303, 63 Stat. 1053.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1446 of this title.
+

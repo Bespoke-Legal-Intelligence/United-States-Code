@@ -20,7 +20,7 @@ If duties, fees, and interest determined to be due or refunded are not paid in f
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §504, 42 Stat. 967. That section was superseded by section 505 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §504, 42 Stat. 967. That section was superseded by section 505 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision that the collector or person acting as such should ascertain, fix, and liquidate the rate and amount of duties, and the dutiable costs and charges, was contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, the provisions of which were substituted for provisions of the same nature contained in the Customs Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99.
 

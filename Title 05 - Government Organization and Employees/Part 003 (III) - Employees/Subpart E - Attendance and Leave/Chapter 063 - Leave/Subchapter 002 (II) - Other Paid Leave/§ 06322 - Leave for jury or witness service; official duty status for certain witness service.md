@@ -34,15 +34,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–70 substituted “the Trust Territory of the Pacific Islands, or the Republic of Panama” for “the Canal Zone, or the Trust Territory of the Pacific Islands”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–70 substituted “the Trust Territory of the Pacific Islands, or the Republic of Panama” for “the Canal Zone, or the Trust Territory of the Pacific Islands”.
 
-1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1976—Subsec. (a)(2). Pub. L. 94–310 substituted “other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–310 substituted “other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
 
-1970—Pub. L. 91–563 included witness service and official duty status for certain witness service in section catchline.
+<b>1970</b>—Pub. L. 91–563 included witness service and official duty status for certain witness service in section catchline.
 
-Subsec. (a). Pub. L. 91–563 designated existing provisions as subsec. (a) and expanded such provisions to authorize leave for jury service in courts in the Districtof Columbia and in territories and possessions of the United States, to permit leave for persons summoned as witnesses in behalf of a party other than the United States, the District of Columbia, or a private party, defined “judicial proceeding”, and excepted individuals whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives.
+Subsec. (a). Pub. L. 91–563 designated existing provisions as subsec. (a) and expanded such provisions to authorize leave for jury service in courts in the District of Columbia and in territories and possessions of the United States, to permit leave for persons summoned as witnesses in behalf of a party other than the United States, the District of Columbia, or a private party, defined “judicial proceeding”, and excepted individuals whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives.
 
 Subsecs. (b), (c). Pub. L. 91–563 added subsecs. (b) and (c).
 

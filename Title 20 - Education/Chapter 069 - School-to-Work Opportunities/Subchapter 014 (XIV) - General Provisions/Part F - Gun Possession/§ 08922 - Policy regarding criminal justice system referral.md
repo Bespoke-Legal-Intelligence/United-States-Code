@@ -8,5 +8,5 @@ No funds shall be made available under this chapter to any local educational age
 
 For the purpose of this section, the terms “firearm” and “school” have the same meaning given to such terms by section 921(a) of title 18.
 
-(Pub. L. 89 10, title XIV, §14602, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3908.)
+(Pub. L. 89–10, title XIV, §14602, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3908.)
 

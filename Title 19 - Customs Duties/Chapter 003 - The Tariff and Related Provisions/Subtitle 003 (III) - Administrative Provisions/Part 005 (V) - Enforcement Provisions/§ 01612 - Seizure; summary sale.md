@@ -12,7 +12,7 @@ The customs laws, referred to in subsec. (a), are classified generally to this t
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §612, 42 Stat. 986. That section was superseded by section 612 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §612, 42 Stat. 986. That section was superseded by section 612 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions concerning the sale of property liable to perish or waste, etc., were contained in R.S. §3080, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

@@ -42,7 +42,7 @@ Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “
 
 #### Short Title of 1973 Amendment
 
-Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of thistitle, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
+Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
 
 #### Short Title of 1970 Amendment
 
@@ -52,41 +52,63 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 
 Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
 
+#### Radio and Microwave Technology for Motor Vehicle Safety Warning System
+
+Pub. L. 104–59, title III, §358(c), Nov. 28, 1995, 109 Stat. 625, provided that:
+
+“(1)
+
+Study.—The Secretary, in consultation with the Federal Communications Commission and the National Telecommunications and Information Administration, shall conduct a study to develop and evaluate radio andmicrowave technology for a motor vehicle safety warning system in furtherance of safety in all types of motor vehicles.
+
+“(2)
+
+Equipment.—Equipment developed under the study shall be directed toward, but not limited to, advance warning to operators of all types of motor vehicles of—
+
+&emsp;“(A) temporary obstructions in a highway;
+
+&emsp;“(B) poor visibility and highway surface conditions caused by adverse weather; and
+
+&emsp;“(C) movement of emergency vehicles.
+
+“(3)
+
+Safety applications.—In conducting the study, the Secretary shall determine whether the technology described in this subsection has other appropriate safety applications.”
+
 #### Work Zone Safety Program
+
+Pub. L. 104–59, title III, §358(b), Nov. 28, 1995, 109 Stat. 625, provided that: “In carrying out the work zone safety program under section 1051 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240\] (23 U.S.C. 401 note; 105 Stat. 2001), the Secretary shall utilize a variety of methods to increase safety at highway construction sites, including each of the following:
+
+&emsp;“(1) Conducting conferences to explore new techniques and stimulate dialogue for improving work zone safety.
+
+&emsp;“(2) Establishing a national clearinghouse to assemble and disseminate, by electronic and other means, information relating to the improvement of work zone safety.
+
+&emsp;“(3) Conducting a national promotional campaign in cooperation with the States to provide timely, site-specific information to motorists when construction workers are actually present.
+
+&emsp;“(4) Encouraging the use of enforceable speed limits in work zones.
+
+&emsp;“(5) Developing training programs for work site designers and construction workers to promote safe work zone practices.
+
+&emsp;“(6) Encouraging the use of unit price bid items in contracts for traffic control devices and implementation of traffic control plans.”
 
 Pub. L. 102–240, title I, §1051, Dec. 18, 1991, 105 Stat. 2001, provided that: “The Secretary shall develop and implement a work zone safety program which will improve work zone safety at highway construction sites by enhancing the quality and effectiveness of traffic control devices, safety appurtenances, traffic control plans, and bidding practices for traffic control devices and services.”
 
-#### Older Driver Study by National Academy of Sciences; Report; Pilot Program
+#### Older Drivers and Other Special Driver Groups
 
-Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, provided that:
+Pub. L. 104–59, title III, §358(a), Nov. 28, 1995, 109 Stat. 625, provided that:
 
-“(a)
+“(1)
 
-Contract.—The Secretary shall undertake to enter into appropriate arrangements with the National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which may inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems.
+Study.—The Secretary shall conduct a study of technologies and practices to improve the driving performance of older drivers and other special driver groups.
 
-“(b)
+“(2)
 
-Report.—In entering into any arrangement with the National Academy of Sciences for conducting such study and investigation, the Secretary shall request the National Academy of Sciences to report to the Secretary and Congress not later than 24 months after the date of the enactment of this Act \[Apr. 2, 1987\] on the results of such study and investigation, together with its recommendations.
+Demonstration activities.—In conducting the study under paragraph (1), the Secretary shall undertake demonstration activities that incorporate and build upon gerontology research related to the study of the normal aging process. The Secretary shall initially implement such activities in those States that have the highest population of aging citizens for whom driving a motor vehicle is their primary mobility mode.
 
-“(c)
+“(3)
 
-Availability of Information.—The Secretary shall furnish to such Academy at its request any information which the Academy deems necessary for the purpose of conducting the investigation and study authorized by this section.
+Cooperative agreement.—The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
-“(d)
-
-Pilot Program.—
-
-&emsp;“(1)
-
-Development of program.—The Secretary shall develop, in conjunction with the study carried out under this section, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers. The program shall be designed to apply known technology at sites in rural and urban areas and on different types of highways and to determine the daytime and nighttime effectiveness of such technology.
-
-&emsp;“(2)
-
-States encouraged to carry out program.—The Secretary shall encourage the States to carry out the pilot program developed under paragraph (1) with funds available for highway safety improvement projects. In particular, the Secretary shall encourage States with a high percentage of older drivers to give high priority to carrying out the pilot program.
-
-&emsp;“(3)
-
-Evaluation and report.—Not later than 3 years after the date of the enactment of this Act \[Apr. 2, 1987\], the Secretary shall evaluate the pilot program under this subsection and shall report to Congress on the effectiveness of such program in improving the safety and mobility of older drivers.”
+Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
@@ -102,13 +124,13 @@ Pub. L. 95–599, title II, §209, Nov. 6, 1978, 92 Stat. 2732, as amended by Pu
 
 “(a) The Secretary of Transportation shall carry out six pilot projects designed, through the use of television and radio, to develop and evaluate techniques, methods, and practices to achieve maximum measurable effectiveness in reducing traffic accidents, injuries, and deaths.
 
-“(b) Each pilot project authorized by this section shall be in operation not later than the one hundred and eightieth day after the date of the first appropriation of funds made under authority of this section, and shall be conducted for a one-year period. Not later than the ninetieth day after the end of each such one-year period, the Secretary of Transportation shall report to Congress the results of such project, including, but not limited to, an evaluation of the effectiveness of such project and a statistical analysis of the traffic accidents and fatalities within the project area during such one-year period.
+“(b) Each pilot project authorized by this section shall be in operation not later than the one hundred and eightieth day after the date of the first appropriation of funds made under authority of this section, and shall be conducted for a one-year period. Not later than the ninetieth day after the end of each such one-year period, the Secretary of Transportation shall report toCongress the results of such project, including, but not limited to, an evaluation of the effectiveness of such project and a statistical analysis of the traffic accidents and fatalities within the project area during such one-year period.
 
 “(c) There is authorized to be appropriated, out of the Highway Trust Fund, to carry out subsections (a) and (b) of this section, $6,000,000, to remain available until expended.
 
 “(d)
 
-National Highway Safety Campaign.—Utilizing those techniques, methods, and practices determined most effective under subsection (b), the Secretary of Transportation shall conduct a national highway safety campaign utilizing the local and national television and radio to educate and inform the public of techniques, methods, and practices to reduce the numberand severity of highway accidents. Not later than the 180th day after the date of submission of the first report to Congress required by subsection (b) of this section, the Secretary shall commence the conduct of such campaign.
+National Highway Safety Campaign.—Utilizing those techniques, methods, and practices determined most effective under subsection (b), the Secretary of Transportation shall conduct a national highway safety campaign utilizing the local and national television and radio to educate and inform the public of techniques, methods, and practices to reduce the number and severity of highway accidents. Not later than the 180th day after the date of submission of the first report to Congress required by subsection (b) of this section, the Secretary shall commence the conduct of such campaign.
 
 “(e) Such campaign is authorized to be conducted in cooperation with interested government and nongovernment authorities, agencies, organizations, institutions, businesses, and individuals, and shall utilize to the extent possible nongovernmental professional organizations equipped and experienced to conduct such campaign.
 
@@ -146,7 +168,7 @@ Section 201 of Pub. L. 89–564, as amended by Pub. L. 89–670, §8(h), Oct. 15
 
 #### Acting Administrator of National Highway Traffic Safety Administration
 
-Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted the President to authorize any person who immediately before Dec. 31, 1970 held the office of Director of the National Highway Safety Bureau, to act as Administrator of the National Highway Traffic Safety Administration until the appointment of the first Administrator.
+Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted President to authorize any person who immediately before Dec. 31, 1970, held the office of Director of the National Highway Safety Bureau, to act as Administrator of the National Highway Traffic Safety Administration until the appointment of the first Administrator.
 
 #### Annual Report to Congress on Administration of Highway Safety Act of 1966
 
@@ -158,7 +180,7 @@ Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224,
 
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
-Section 207 of Pub. L. 89–564 mandated that the Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 (1) There shall be within the Department an Energy Information Administration to be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for in level IV of the Executive Schedule under section 5315 of title 5. The Administrator shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
 
-(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resourcesto meet demands in the near and longer term future for the Nation's economic and social needs.
+(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resources to meet demands in the near and longer term future for the Nation's economic and social needs.
 
 #### (b) Delegation of functions
 
@@ -20,7 +20,7 @@ The Administrator shall not be required to obtain the approval of any other offi
 
 #### (e) Annual audit
 
-The Energy Information Administration shall be subject to an annual professional audit review of performance as described in section 55 of part B of the Federal Energy Administration Act of 1974 \[15 U.S.C. 790d\].
+The Energy Information Administration shall be subject to an annual professional audit review of performance as described in section 55 <sup>1</sup> of part B of the Federal Energy Administration Act of 1974.
 
 #### (f) Furnishing information or analysis to any other administration, commission, or office within Department
 
@@ -52,11 +52,11 @@ Information collected by the Energy Information Administration shall be cataloge
 
 &emsp;(E) such other analyses or evaluations as the Administrator finds is necessary to achieve the purposes of this chapter.
 
-(3) The Administrator shall consult with the Chairman of the Securities and Exchange Commission with respect to the development of accounting practices required by the Energy Policy and Conservation Act \[42 U.S.C. 6201 et seq.\] to be followed by persons engaged in whole or in part in the production of crude oil and natural gas and shall endeavor to assure that the energy-producing company financial report described in paragraph (2) of this subsection, tothe extent practicable and consistent with the purposes and provisions of this chapter, is consistent with such accounting practices where applicable.
+(3) The Administrator shall consult with the Chairman of the Securities and Exchange Commission with respect to the development of accounting practices required by the Energy Policy and Conservation Act \[42 U.S.C. 6201 et seq.\] to be followed by persons engaged in whole or in part in the production of crude oil and natural gas and shall endeavor to assure that the energy-producing company financial report described in paragraph (2) of this subsection, to the extent practicable and consistent with the purposes and provisions of this chapter, is consistent with such accounting practices where applicable.
 
 (4) The Administrator shall require each major energy-producing company to file with the Administrator an energy-producing company financial report on at least an annual basis and may request energy information described in such report on a quarterly basis if he determines that such quarterly report of information will substantially assist in achieving the purposes of this chapter.
 
-(5) A summary of information gathered pursuant to this section, accompanied by such analysis as the Administrator deems appropriate, shall be included in the annual report of the Department required by subsection (a) <sup>1</sup> of section 7267 of this title.
+(5) A summary of information gathered pursuant to this section, accompanied by such analysis as the Administrator deems appropriate, shall be included in the annual report of the Department required by subsection (a) <sup>2</sup> of section 7267 of this title.
 
 (6) As used in this subsection the term—
 
@@ -86,7 +86,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 #### (i) Manufacturers energy consumption survey
 
-(1) The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every two years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
+(1) The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in theUnited States at least once every two years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
 
 &emsp;(A) quantity of fuels consumed;
 
@@ -134,7 +134,9 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 #### References in Text
 
-The Federal Energy Administration Act of 1974, referred to in subsec. (c), is Pub. L. 93–275, May 7, 1974, 88Stat. 96, as amended. Part B of the Federal Energy Administration Act of 1974 is classified generally to subchapter II (§790 et seq.) of chapter 16B of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
+The Federal Energy Administration Act of 1974, referred to in subsec. (c), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended. Part B of the Federal Energy Administration Act of 1974 is classified generally to subchapter II (§790 et seq.) of chapter 16B of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
+
+Section 55 of part B of the Federal Energy Administration Act of 1974, referred to in subsec. (e), was classified to section 790d of Title 15, Commerce and Trade, and was repealed by Pub. L. 104–66, title I, §1051(k), Dec. 21, 1995, 109 Stat. 717.
 
 The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
@@ -148,5 +150,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (
 
 1986—Subsec. (i). Pub. L. 99–509 added subsec. (i).
 
-<i><sup>1</sup></i><i> So in original. Section 7267 of this title was enacted without a subsec. (a).</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Section 7267 of this title was enacted without a subsec. (a).</i>
 

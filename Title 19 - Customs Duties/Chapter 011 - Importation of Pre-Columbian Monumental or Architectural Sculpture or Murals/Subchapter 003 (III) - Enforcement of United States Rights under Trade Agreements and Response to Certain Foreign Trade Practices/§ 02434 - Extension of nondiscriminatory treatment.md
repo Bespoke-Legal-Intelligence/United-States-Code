@@ -16,7 +16,7 @@ The President may at any time suspend or withdraw any extension of nondiscrimina
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Pub. L. 102–182, title I, Dec. 4, 1991, 105 Stat. 1235, provided that:
 
 &emsp;“(2) The Government of the United States entered into agreements extending most-favored-nation treatment with the Government of Estonia on August 1, 1925, the Government of Latvia on April 30, 1926, and the Government of Lithuania on July 10, 1926.
 
-&emsp;“(3) The Union of Soviet Socialist Republics incorporated Estonia, Latvia, and Lithuania involuntarily into the Union as a result of a secret protocol to a German-Soviet agreement in 1939 which assigned those three states to the Soviet sphere of influence; and the Government of the United States has at no time recognized the forcible incorporation of those states into the Union of Soviet Socialist Republics.
+&emsp;“(3) The Union of Soviet Socialist Republics incorporated Estonia, Latvia, and Lithuania involuntarily into the Union as a result of a secret protocol to a German-Soviet agreement in 1939 which assignedthose three states to the Soviet sphere of influence; and the Government of the United States has at no time recognized the forcible incorporation of those states into the Union of Soviet Socialist Republics.
 
 &emsp;“(4) The Trade Agreements Extension Act of 1951 \[see Short Title of 1951 Amendment note set out under section 1654 of this title\] required the President to suspend, withdraw, or prevent the application of trade benefits, including most-favored-nation treatment, to countries under the domination or control of the world Communist movement.
 
@@ -194,7 +194,7 @@ It is provided in section 405(c) of the Trade Act of 1974 (88 Stat. 1978, 2061) 
 
 NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, acting under the authority vested in me by the Constitution and the statutes, including section 404(a) of the Trade Act of 1974 \[subsec. (a) of this section\], do hereby proclaim as follows:
 
-(1) This Proclamation shall become effective and said agreement shall enter into force according to its terms, and nondiscriminatory treatment shall be extended to the products of the Socialist Republic of Romania in accordance with the terms of the said Agreement, on the date of exchange of written notices of acceptance in accordance with Article XII of the said Agreement, all of the foregoing to follow the adoption by the House of Representatives and the Senate, in accordance with the procedures set forth in section 151 of the said Act \[section 2191 of this title\], of a concurrent resolution of approval of the extension of nondiscriminatory treatment to the products of the Socialist Republic of Romania,to the end that the same and every part of the said Agreement may be observed and fulfilled with good faith by the United States of America and the citizens thereof and all other persons subject to the jurisdiction thereof as of the date of its entry into force; and
+(1) This Proclamation shall become effective and said agreement shall enter into force according to its terms, and nondiscriminatory treatment shall be extended to the products of the Socialist Republic of Romania in accordance with the terms of the said Agreement, on the date of exchange of written notices of acceptance in accordance with Article XII of the said Agreement, all of the foregoing to follow the adoption by the House of Representatives and the Senate, in accordance with the procedures set forth in section 151 of the said Act \[section 2191 of this title\], of a concurrent resolution of approval of the extension of nondiscriminatory treatment to the products of the Socialist Republic of Romania, to the end that the same and every part of the said Agreement may be observed and fulfilled with good faith by the United States of America and the citizens thereof and all other persons subject to the jurisdiction thereof as of the date of its entry into force; and
 
 (2) General Headnote 3(e) of the Tariff Schedules of the United States \[section 1202 of this title\] is amended by deleting therefrom “Rumania” as of the effective date of this proclamation and a notice thereof shall be published in the Federal Register promptly thereafter.
 
@@ -334,7 +334,7 @@ NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, actin
 
 (1) This proclamation shall become effective, said Agreement shall enter into force, and nondiscriminatory treatment shall be extended to the products of the Czech and Slovak Federal Republic, in accordance with the terms of said Agreement, on the date of exchange of written notices of acceptance in accordance with Article XVIII of said Agreement. The United States Trade Representative shall publish notice of the effective date in the Federal Register.
 
-(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whose products are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Czechoslovakia”.
+(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whoseproducts are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Czechoslovakia”.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this sixth day of September, in the year of our Lord nineteen hundred and ninety, and of the Independence of the United States of America the two hundred and fifteenth.
 
@@ -406,7 +406,7 @@ Proc. No. 6308, June 24, 1991, 56 F.R. 29834, provided:
 
 6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of a country heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
 
-7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
+7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized TariffSchedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
 
 NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to sections 404, 405, and 604 of the Trade Act of 1974, as amended \[19 U.S.C. 2434, 2435, 2483\], do proclaim that:
 
@@ -538,7 +538,7 @@ Proc. No. 6445, June 15, 1992, 57 F.R. 26921, provided:
 
 6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of a country heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
 
-7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
+7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized TariffSchedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
 
 NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to sections 404, 405, and 604 of the Trade Act of 1974, as amended \[19 U.S.C. 2434, 2435, 2483\], do proclaim that:
 

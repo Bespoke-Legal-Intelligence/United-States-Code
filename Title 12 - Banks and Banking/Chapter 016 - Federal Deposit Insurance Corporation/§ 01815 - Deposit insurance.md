@@ -50,9 +50,9 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (1) Before any branch of a foreign bank becomes an insured branch, the bank shall deliver to the Corporation or as the Corporation may direct a surety bond, a pledge of assets, or both, in such amounts and of such types as the Corporation may require or approve, for the purpose set forth in paragraph (4) of this subsection.
 
-(2) After any branch of a foreign bank becomes an insured branch, the bank shall maintain on deposit with the Corporation, or as the Corporation may direct, surety bonds or assets or both, in such amounts and of such types as shall be determined from time to time in accordance with such regulations as the Board of Directors may prescribe. Such regulations may impose differing requirements on the basis of any factors which in the judgment of the Board of Directors are reasonably related to the purpose set forth in paragraph (4).
+(2) After any branch of a foreign bank becomes an insured branch, the bank shall maintain on deposit with the Corporation, or as the Corporation may direct, surety bonds or assets or both, in such amounts and of such types as shall be determined from time to time in accordance with such regulations as the Board of Directors may prescribe. Such regulations may impose differing requirements on the basis of any factors which in the judgment of the Board of Directorsare reasonably related to the purpose set forth in paragraph (4).
 
-(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would notadequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
+(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the deposit insurance fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
@@ -238,7 +238,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (ii) Extensions of period
 
-&emsp;&emsp;&emsp;The period for approval or disapproval referred to in clause (i) may be extendedfor an additional 30-day period if the Corporation determines that—
+&emsp;&emsp;&emsp;The period for approval or disapproval referred to in clause (i) may be extended for an additional 30-day period if the Corporation determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) an applicant has not furnished all of the information required to be submitted; or
 
@@ -304,7 +304,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(i) on a case-by-case basis, establish the procedures and schedule under which any insured depository institution shall reimburse the Corporation for such institution's liability under paragraph (1) in connection with any commonly controlled insured depository institution; or
 
-&emsp;&emsp;&emsp;(ii) require any insured depository institution to make immediate payment of the amount of such institution's liability under paragraph (1) in connection with any commonly controlled insured depository institution.
+&emsp;&emsp;&emsp;(ii) require any insured depository institution to make immediate payment of theamount of such institution's liability under paragraph (1) in connection with any commonly controlled insured depository institution.
 
 #### (C) Priority
 

@@ -12,7 +12,7 @@ The President shall periodically award the medal, on the basis of recommendation
 
 The presentation of the award shall be made by the President with such ceremonies as he may deem proper.
 
-(Pub. L. 96 480, §16, formerly §12, Oct. 21, 1980, 94 Stat. 2319; renumbered §16, Pub. L. 99 502, §2, Oct. 20, 1986, 100 Stat. 1785; renumbered §15, Pub. L. 99 502, §9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered §16, Pub. L. 100 418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
+(Pub. L. 96–480, §16, formerly §12, Oct. 21, 1980, 94 Stat. 2319; renumbered §16, Pub. L. 99–502, §2, Oct. 20, 1986, 100 Stat. 1785; renumbered §15, Pub. L. 99–502, §9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered §16, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
 
 #### Section Referred to in Other Sections
 

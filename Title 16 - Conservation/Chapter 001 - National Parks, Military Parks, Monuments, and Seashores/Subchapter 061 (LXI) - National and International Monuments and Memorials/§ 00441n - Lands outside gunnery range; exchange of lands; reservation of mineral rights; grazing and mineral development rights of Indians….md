@@ -6,7 +6,7 @@ Title to all Federal lands and interests in land within the boundaries of the Ba
 
 #### (b) Execution of instruments
 
-The Oglala Sioux Tribal Council may authorize the execution of the necessary instruments to effect the exchange on behalf of the tribe, and the Secretary may execute the necessary instruments on behalf of the United States.
+The Oglala Sioux Tribal Council may authorize the execution of the necessary instrumentsto effect the exchange on behalf of the tribe, and the Secretary may execute the necessary instruments on behalf of the United States.
 
 #### (c) Trust title
 

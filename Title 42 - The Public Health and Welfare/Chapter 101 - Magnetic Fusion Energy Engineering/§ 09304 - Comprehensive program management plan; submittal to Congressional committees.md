@@ -12,15 +12,11 @@
 
 &emsp;(5) an analysis of institutional, environmental, and economic considerations which are limiting the national magnetic fusion program.
 
-(b) The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the Houseof Representatives and the Committee on Energy and Natural Resources of the Senate not later than January 1, 1982.
+(b) The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than January 1, 1982.
 
 (Pub. L. 96–386, §5, Oct. 7, 1980, 94 Stat. 1541.)
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9306 of this title.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring toCommittee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

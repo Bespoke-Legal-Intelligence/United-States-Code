@@ -22,7 +22,7 @@ Programs of career guidance and counseling under this part shall encourage the e
 
 &emsp;(1) instructional activities and other services at all educational levels to help students with the skills described in clauses (1) through (6) of subsection (a) of this section; and
 
-&emsp;(2) services and activities designed to ensure the quality and effectiveness of career guidance and counseling programs and projects assisted under this part, such as counselor education (including education of counselors working with individuals with limited English proficiency), training of support personnel, curriculum development, research and demonstration projects, experimental programs, instructional materials development, equipment acquisition, development of career information delivery systems, and State and local leadership and supervision; and
+&emsp;(2) services and activities designed to ensure the quality and effectiveness of career guidance and counseling programs and projects assisted under this part, such as counselor education (including education of counselors working with individuals with limited English proficiency), training of support personnel,curriculum development, research and demonstration projects, experimental programs, instructional materials development, equipment acquisition, development of career information delivery systems, and State and local leadership and supervision; and
 
 &emsp;(3) projects which provide opportunities for counselors to obtain firsthand experience in business and industry, and projects which provide opportunities to acquaint students with business, industry, the labor market, and training opportunities (including secondary educational programs that have at least one characteristic of an apprenticeable occupation as recognized by the Department of Labor or the State Apprenticeship Agency in accordance with the Act of August 16, 1937, known as the National Apprenticeship Act \[29 U.S.C. 50 et seq.\], in concert with local business, industry, labor, and other appropriate apprenticeship training entities, designed to prepare participants for an apprenticeable occupation or provide information concerning apprenticeable occupations and their prerequisites).
 
@@ -30,7 +30,7 @@ Programs of career guidance and counseling under this part shall encourage the e
 
 Not less than 20 percent of the sums made available to a State under this part shall be used for programs designed to eliminate sex, age, and race bias and stereotyping under subsection (b) of this section and for activities to ensure that programs under this part are accessible to all segments of the population, including women, the disadvantaged, the handicapped, individuals with limited English proficiency, and minorities.
 
-(Pub. L. 88 210, title III, §322, formerly §332, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2462; renumbered §322 and amended Pub. L. 101 392, title III, §306(a)(2), (c), Sept. 25, 1990, 104 Stat. 786, 787.)
+(Pub. L. 88–210, title III, §322, formerly §332, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2462; renumbered §322 and amended Pub. L. 101–392, title III, §306(a)(2), (c), Sept. 25, 1990, 104 Stat. 786, 787.)
 
 #### References in Text
 
@@ -38,13 +38,13 @@ Act of August 16, 1937, known as the National Apprenticeship Act, referred to in
 
 #### Prior Provisions
 
-For prior section 322 of Pub. L. 88 210, see note set out preceding section 2381 of this title.
+For prior section 322 of Pub. L. 88–210, see note set out preceding section 2381 of this title.
 
 #### Amendments
 
-1990—Subsec. (b)(2). Pub. L. 101 392, §306(c), inserted “development of career information delivery systems,” after “equipment acquisition,”.
+1990—Subsec. (b)(2). Pub. L. 101–392, §306(c), inserted “development of career information delivery systems,” after “equipment acquisition,”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 

@@ -36,7 +36,7 @@ When used in this chapter—
 
 (j) Except as otherwise expressly provided, the terms “major stationary source” and “major emitting facility” mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
 
-(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design,equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
+(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design, equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
 
 (<i>l</i>) The term “standard of performance” means a requirement of continuous emission reduction, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction.
 
@@ -120,7 +120,7 @@ Subsecs. (i) to (p). Pub. L. 95–95, §301(a), added subsecs. (i) to (p).
 
 1970—Subsec. (a). Pub. L. 91–604, §15(c)(1), substituted definition of “Administrator” as meaning Administrator of the Environmental Protection Agency for definition of “Secretary” as meaning Secretary of Health, Education, and Welfare.
 
-Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate for references to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
+Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate forreferences to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
 
 1967—Pub. L. 90–148 reenacted section without change.
 

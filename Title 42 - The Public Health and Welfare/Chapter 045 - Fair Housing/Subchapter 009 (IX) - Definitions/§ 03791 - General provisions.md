@@ -24,7 +24,7 @@ As used in this chapter—
 
 &emsp;(10) “evaluation” means the administration and conduct of studies and analyses to determine the impact and value of a project or program in accomplishing the statutory objectives of this chapter;
 
-&emsp;(11) “neighborhood or community-based organizations” means organizations which arerepresentative of communities or significant segments of communities;
+&emsp;(11) “neighborhood or community-based organizations” means organizations which are representative of communities or significant segments of communities;
 
 &emsp;(12) “chief executive” means the highest official of a State or local jurisdiction;
 
@@ -74,7 +74,7 @@ A prior section 3791 of this title, Pub. L. 90–351, title I, §651, as added P
 
 A prior section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, was classified as a note under section 921 of Title 18, Crimes and Criminal Procedure.
 
-A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements or entries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
+A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements orentries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
 
 #### Amendments
 

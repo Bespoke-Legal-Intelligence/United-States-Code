@@ -34,7 +34,7 @@
 
 &emsp;(1) an individual assignment of a member under subchapter V of this chapter, other than an assignment alleged to be contrary to law or regulation;
 
-&emsp;(2) the judgment of a selection board established under section 4002 of this title, a tenureboard established under section 3946(b) of this title, or any other equivalent body established by laws or regulations which similarly evaluates the performance of members of the Service on a comparative basis;
+&emsp;(2) the judgment of a selection board established under section 4002 of this title, a tenure board established under section 3946(b) of this title, or any other equivalent body established by laws or regulations which similarly evaluates the performance of members of the Service on a comparative basis;
 
 &emsp;(3) the expiration of a limited appointment, the termination of a limited appointment under section 4011 of this title, or the denial of a limited career extension or of a renewal of a limited career extension under section 4007(b) of this title; or
 
@@ -48,7 +48,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–236, §180(a)(10), inserted “(other than a United States citizen employed under section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
+1994—Subsec. (a)(1). Pub. L. 103–236, §180(a)(10), inserted “(other than a United States citizen employedunder section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 103–236, §181(a)(4), made technical amendment to reference to section 4011 of this title to reflect renumbering of corresponding section of original act.
 

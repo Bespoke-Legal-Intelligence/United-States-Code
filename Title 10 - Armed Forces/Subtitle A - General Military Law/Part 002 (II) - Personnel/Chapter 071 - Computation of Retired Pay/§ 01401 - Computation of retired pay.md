@@ -6,7 +6,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 &nbsp;
 
-| Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
+| Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtrac |
 | --- | :---: | :---: | :---: | :---: | ---: |
 | 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability on date when retired. | &nbsp; | Excess over 75% of retired pay base upon which computation is based. |
 |  |  |  |  |  |  |
@@ -222,7 +222,7 @@ Cross reference.—For the effective date of October 1, 1983, for provisions mak
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, which prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, was repealed by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; publication in Federal Register
 
-Within one year of January 8, 1983, the Secretary shall, after consultation with the Tribe, compile a roll of those members of the Tribe who possess Kickapoo blood and who are also members of the Band. When said roll is complete, the Secretary shall immediately publish notice in the Federal Register stating that the roll has been completed. The Secretary shall ensure that the roll, once completed, is maintained and that it is current.
+Within one year of January 8, 1983, the Secretary shall, after consultation with the Tribe, compile a roll of those members of the Tribe who possess Kickapoo blood and who are alsomembers of the Band. When said roll is complete, the Secretary shall immediately publish notice in the Federal Register stating that the roll has been completed. The Secretary shall ensure that the roll, once completed, is maintained and that it is current.
 
 #### (b) Report to Congress
 

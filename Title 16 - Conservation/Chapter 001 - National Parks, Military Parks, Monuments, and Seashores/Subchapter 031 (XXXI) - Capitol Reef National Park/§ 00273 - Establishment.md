@@ -1,4 +1,4 @@
-### §273 . Establishment
+### §273. Establishment
 
 #### (a) Description of area
 

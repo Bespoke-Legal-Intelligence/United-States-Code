@@ -102,7 +102,7 @@ No member of the new Council shall cast a vote on any matter that would provide 
 
 The new Council may, consistent with State law, use such resources to reimburse members of the new Council for reasonable and necessary expenses of attending the new Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the new Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
 
-(Pub. L. 91 230, title VI, §707, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3946.)
+(Pub. L. 91–230, title VI, §707, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946.)
 
 #### Section Referred to in Other Sections
 

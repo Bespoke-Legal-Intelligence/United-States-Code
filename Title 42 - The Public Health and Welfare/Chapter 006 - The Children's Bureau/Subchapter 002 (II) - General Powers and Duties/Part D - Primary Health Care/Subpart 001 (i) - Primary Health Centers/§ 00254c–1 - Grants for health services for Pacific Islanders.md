@@ -10,7 +10,7 @@ Grants or contracts made or entered into under subsection (a) of this section sh
 
 &emsp;(1) to continue, as a priority, the medical officer training program in Pohnpei, Federated States of Micronesia;
 
-&emsp;(2) to improve the quality and availability of health and mental health services and systems, with an emphasis therein on preventivehealth services and health promotion programs and projects, including improved health data systems;
+&emsp;(2) to improve the quality and availability of health and mental health services and systems, with an emphasis therein on preventive health services and health promotion programs and projects, including improved health data systems;
 
 &emsp;(3) to improve the quality and availability of health manpower, including programs and projects to train new and upgrade the skills of existing health professionals by—
 
@@ -44,7 +44,7 @@ The Secretary of Health and Human Services shall establish a “Pacific Health A
 
 &emsp;(1) the Directors of the Health Departments for the entities identified in subsection (a) of this section; and
 
-&emsp;(2) 6 members, including a representative of the Rehabilitation Hospital of the Pacific, representing organizations in the State of Hawaii actively involved in the provision of health services or technical assistance to the entities identified in subsection (a) of this section. The Secretary shall solicit the advice of the Governor of the State of Hawaii in appointing the 5 Council members in addition to the representative of the Rehabilitation Hospital of the Pacific from the State of Hawaii.
+&emsp;(2) 6 members, including a representative of the Rehabilitation Hospital of the Pacific, representing organizations in the State of Hawaii actively involved in the provision of healthservices or technical assistance to the entities identified in subsection (a) of this section. The Secretary shall solicit the advice of the Governor of the State of Hawaii in appointing the 5 Council members in addition to the representative of the Rehabilitation Hospital of the Pacific from the State of Hawaii.
 
 > The Secretary shall be responsible for providing sufficient staff support to the Council.
 

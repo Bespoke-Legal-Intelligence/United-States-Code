@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Congress declares it to be the policy of the United States to provide to every individual an equal opportunity to receive an education of high quality regardless of race, color, religion, sex, age, disability, national origin, or social class. Although the American educational system has pursued this objective, it has not been attained. Inequalities of opportunity to receive high quality education remain pronounced. To achieve the goal of quality education requires the continued pursuit of knowledge about education through research, development, improvement activities, data collection, synthesis, technical assistance, and information dissemination. While the direction of American education remains primarily the responsibility of State and local governments, the Federal Government has a clear responsibility to provide leadership in the conduct and support of scientific inquiry into the educational process.
+&emsp;The Congress declares it to be the policy of the United States to provide to every individual an equal opportunity to receive an education of high quality regardless of race, color, religion, sex, age, disability, national origin, or social class. Although the American educational system has pursued this objective, it has not been attained. Inequalities of opportunity to receive high quality education remain pronounced. To achieve the goal of quality education requires the continued pursuit of knowledge about education through research, development, improvement activities, data collection, synthesis, technical assistance, and information dissemination. While the direction of American education remains primarily the responsibility of State and localgovernments, the Federal Government has a clear responsibility to provide leadership in the conduct and support of scientific inquiry into the educational process.
 
 #### (2) Mission of Office
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) expanding fundamental knowledge and understanding of education;
 
-&emsp;&emsp;(ii) promoting excellence and equity in education; and the achievement of the National Educational<sup>1</sup> Goals by spurring reform in the school systems of the United States;
+&emsp;&emsp;(ii) promoting excellence and equity in education; and the achievement of the National Educational <sup>1</sup> Goals by spurring reform in the school systems of the United States;
 
 &emsp;&emsp;(iii) promoting the use and application of research and development to improve practice in the classroom; and
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) at least 30 days prior to the appointment of any such employee, public notice is given of the availability of such position and an opportunity is provided for qualified individuals to apply and compete for such position;
 
-&emsp;&emsp;(B) the rate of basic pay for such employees does not exceed the maximum rate of basic pay payable for positions at GS 15, as determined in accordance with section 5376 of title 5;
+&emsp;&emsp;(B) the rate of basic pay for such employees does not exceed the maximum rate of basic pay payable for positions at GS–15, as determined in accordance with section 5376 of title 5;
 
 &emsp;&emsp;(C) the appointment of such employee is necessary to provide the Office with scientific or technical expertise which could not otherwise be obtained by the Office through the competitive service; and
 
@@ -272,7 +272,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (8) National education dissemination system
 
-&emsp;The term “national education dissemination system” means the activities carried out bythe Office of Reform Assistance and Dissemination established by section 6041 of this title.
+&emsp;The term “national education dissemination system” means the activities carried out by the Office of Reform Assistance and Dissemination established by section 6041 of this title.
 
 #### (9) Office
 
@@ -288,7 +288,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (12) United States; State
 
-&emsp;The terms “United States” and “State” means<sup>2</sup> each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia.
+&emsp;The terms “United States” and “State” means <sup>2</sup> each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia.
 
 #### (m) Authorization of appropriations
 
@@ -324,7 +324,7 @@ Coordination and synthesis.—The Assistant Secretary is authorized to reserve n
 
 &emsp;(C) For the purpose of carrying out subsection (j) of section 6041 of this title (relating to the teacher research dissemination demonstration program) there are authorized to be appropriated $20,000,000 for fiscal year 1995, and such sums as are necessary for each of the fiscal years 1996 through 1999.
 
-&emsp;(D) For the purpose of carrying out subsection (i) of section 6041 of this title (relating to the Goals 2000 Community Partnerships program), there are authorized to be appropriated $30,000,000 for fiscal year 1995, $50,000,000 for fiscal year 1996, and such sums as are necessary for each of the fiscal years 1997 and<sup>3</sup> 1999.
+&emsp;(D) For the purpose of carrying out subsection (i) of section 6041 of this title (relating to the Goals 2000 Community Partnerships program), there are authorized to be appropriated $30,000,000 for fiscal year 1995, $50,000,000 for fiscal year 1996, and such sums as are necessary for each of the fiscal years 1997 and <sup>3</sup> 1999.
 
 #### (3) National Educational Research Policy and Priorities Board
 
@@ -342,21 +342,23 @@ Coordination and synthesis.—The Assistant Secretary is authorized to reserve n
 
 #### (A) In general
 
-&emsp;&emsp;From the amounts appropriated pursuant to paragraph (1) for any fiscal year, the Secretary is authorized, in accordance with the provisions of this paragraph, to award a grant of not more than $5,000,000 to a public or private institution, agency or organization for a period not to exceed 5 years for the purpose of conducting a State-by-State poll to determine the perceptions of recent graduates of secondary schools, their instructors in institutions of higher education, parents of recent such graduates, and employers of recent such graduates on how well schools have prepared students for further education or employment.
+&emsp;&emsp;From the amounts appropriated pursuant to paragraph (1) for any fiscal year, the Secretary is authorized, in accordance with the provisions of this paragraph, to award a grant of not more than $5,000,000 to a public or private institution, agency or organization for a period not to exceed 5 years for the purpose of conducting a State-by-State poll to determine the perceptions of recent graduates of secondary schools, their instructors in institutions of higher education, parents of recent such graduates, and employers of recent such graduates on how well schoolshave prepared students for further education or employment.
 
 #### (B) Matching requirement
 
 &emsp;&emsp;The grant described in subparagraph (A) shall be awarded on a competitive basis and shall be matched on a two-to-one basis by the recipient.
 
-(Pub. L. 103 227, title IX, §912, Mar. 31, 1994, 108 Stat. 213; Pub. L. 103 382, title II, §271(a)(3)(B), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 103–227, title IX, §912, Mar. 31, 1994, 108 Stat. 213; Pub. L. 103–382, title II, §271(a)(3)(B), Oct. 20, 1994, 108 Stat. 3929.)
 
 #### References in Text
 
 The provisions of title 5 governing appointment in the competitive service, referred to in subsec. (c)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
+For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in subsec. (<i>l</i>)(12), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+
 #### Amendments
 
-1994—Subsec. (<i>l</i>)(9). Pub. L. 103 382 made technical amendment to reference to section 3419 of this title to reflect renumbering of corresponding section of original act.
+1994—Subsec. (<i>l</i>)(9). Pub. L. 103–382 made technical amendment to reference to section 3419 of this title to reflect renumbering of corresponding section of original act.
 
 #### Section Referred to in Other Sections
 

@@ -10,3 +10,7 @@ The Trade Promotion Coordinating Committee should utilize its interagency workin
 
 (Pub. L. 102–511, title III, §304, Oct. 24, 1992, 106 Stat. 3334.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 15 section 4727.
+

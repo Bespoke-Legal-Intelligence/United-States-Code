@@ -38,7 +38,7 @@ Subject to the authority, direction, and control of the head of the agency conce
 
 &emsp;(1) approve or disapprove all regulations that are, after 60 days after November 17, 1988, proposed for public comment, promulgated in final form, or otherwise made effective by such agency relating to procurement before such regulation may be promulgated in final form, or otherwise made effective, except that such official may grant an interim approval, without review, for not more than 60 days for a procurement regulation in urgent and compelling circumstances;
 
-&emsp;(2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 for each information collection request (as that term is defined in section 3502(11) of title 44) that relates to procurement rules or regulations; and
+&emsp;(2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 for each information collection request (as that term is defined in section 3502(11) <sup>1</sup> of title 44) that relates to procurement rules or regulations; and
 
 &emsp;(3) eliminate or reduce (A) any redundant or unnecessary levels of review and approval, in the procurement system of such agency, and (B) redundant or unnecessary procurement regulations which are unique to that agency.
 
@@ -64,7 +64,7 @@ The Administrator for Federal Procurement Policy shall—
 
 &emsp;&emsp;(B) a description of those regulations which are required by statute;
 
-&emsp;&emsp;(C) a description of the methods by which public comment was sought with regard to each proposed regulation in accordance with section 418b of this title, and to the extent appropriate, sections 3504(h) and 3507 of title 44;
+&emsp;&emsp;(C) a description of the methods by which public comment was sought with regard to each proposed regulation in accordance with section 418b of this title, and to the extent appropriate, sections 3504(h) <sup>1</sup> and 3507 of title 44;
 
 &emsp;&emsp;(D) regulatory activities completed and initiated since the last report;
 
@@ -80,7 +80,7 @@ The Administrator for Federal Procurement Policy shall—
 
 &emsp;&emsp;(A) the extent of the paperwork burden created by the Federal procurement process, and
 
-&emsp;&emsp;(B) the extent to which the Federal procurement system can be streamlined to reduce unnecessary paperwork while at the same time maintaining recordkeeping and reporting requirements necessary to ensure the integrity and accountability of the system.
+&emsp;&emsp;(B) the extent to which the Federal procurement system can be streamlined to reduce unnecessary paperwork while at the same time maintaining recordkeeping and reporting requirements necessary to ensurethe integrity and accountability of the system.
 
 (Pub. L. 93–400, §25, as added Pub. L. 100–679, §4, Nov. 17, 1988, 102 Stat. 4056; amended Pub. L. 101–510, div. A, title VIII, §807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729.)
 
@@ -90,6 +90,10 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 The National Aeronautics and Space Act of 1958, referred to in subsec. (c)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, which is classified generally to chapter 26 (§2451 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 42 and Tables.
 
+Section 3502 of title 44, referred to in subsec. (d)(2), which in par. (11) defined “information collection request”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which does not define “information collection request”.
+
+Section 3504 of title 44, referred to in subsec. (g)(2)(C), which in subsec. (h) related to methods by which public comment was to be sought with regard to proposed regulations, was omitted in the general amendment of chapter 35 of Title 44, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3504 of Title 44 which does not contain provisions relating to methods by which public comment is to be sought with regard to proposed regulations.
+
 #### Amendments
 
 1993—Subsec. (b)(2). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
@@ -98,9 +102,11 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (c)(1), i
 
 #### Status of Director of Defense Procurement
 
-Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office ofthe Under Secretary of Defense for Acquisition and Technology.”
+Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 256, 259, 423 of this title; title 10 sections 2302, 2323; title 15 section 638; title 42 section 8287; title 50 App. section 2154.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §3823. Consultation with Secretary of the Interior
 
-The Secretary shall consult with the Secretary of the Interior on such determinationsand actions as are necessary to carry out this subchapter, including—
+The Secretary shall consult with the Secretary of the Interior on such determinations and actions as are necessary to carry out this subchapter, including—
 
 &emsp;(1) the identification of wetland;
 

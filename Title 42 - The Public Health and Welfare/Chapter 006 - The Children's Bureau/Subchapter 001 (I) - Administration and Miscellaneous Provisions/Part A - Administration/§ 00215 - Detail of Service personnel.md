@@ -2,7 +2,7 @@
 
 #### (a) Other Government departments
 
-The Secretary is authorized, upon the request of the head of an executive department, to detail officers or employees of the Service to such department for duty as agreed upon by the Secretary and the head of such department in order to cooperate in, or conduct work related to, the functions of such department or of the Service. When officers or employees are so detailed their salaries and allowances may be paid from working funds established as provided by law or may be paid by the Service from applicable appropriations and reimbursement may be made as agreed upon by the Secretary and the head of the executive department concerned. Officers detailed for duty with the Army, Air Force, Navy, or Coast Guard shall be subject to the laws for the government of the service to which detailed.
+The Secretary is authorized, upon the request of the head of an executive department, to detail officers or employees of the Service to such department for duty as agreed upon by the Secretary and the head of such department in order to cooperate in, or conduct work related to, the functions of such department or of the Service. When officers or employees are so detailed their salaries and allowances may be paid from working funds established as provided by law or may be paid by the Service from applicable appropriations and reimbursement may be made as agreed upon by the Secretary and the head of the executive department concerned. Officers detailed for duty with the Army, Air Force,Navy, or Coast Guard shall be subject to the laws for the government of the service to which detailed.
 
 #### (b) State health or mental health authorities
 
@@ -60,7 +60,7 @@ Pub. L. 91–604, §15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, prov
 
 &emsp;“(iv) an amount equal to 7 per centum of the sum of the amounts determined under clauses (i) through (iii), inclusive.
 
-“(B) A transferring officer shall in no event receive, pursuant to subparagraph (A), a pay rate in excess ofthe maximum rate applicable under the General Schedule to the class of position, as established under chapter 51 of title 5, United States Code, to which such officer is transferred pursuant to paragraphs (1) and (2).
+“(B) A transferring officer shall in no event receive, pursuant to subparagraph (A), a pay rate in excess of the maximum rate applicable under the General Schedule to the class of position, as established under chapter 51 of title 5, United States Code, to which such officer is transferred pursuant to paragraphs (1) and (2).
 
 “(4)(A) A transferring officer shall be credited, on the day of his transfer pursuant to his election under paragraphs (1) and (2), with one hour of sick leave for each week of active service, as defined by section 211(d) of the Public Health Service Act \[section 212(d) of this title\].
 

@@ -6,5 +6,7 @@ Notwithstanding any other provision of law, the clerk hire allowance and the tra
 
 #### Cross References
 
+Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance into Members’ Representational Allowance, see section 57b of Title 2, The Congress.
+
 Delegate from Guam, see section 1711 et seq. of this title.
 

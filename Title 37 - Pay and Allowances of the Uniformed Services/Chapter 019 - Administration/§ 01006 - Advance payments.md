@@ -66,7 +66,7 @@ Oct. 5, 1949, ch. 600, §2, 63 Stat. 704; redesignated as section 3, Aug. 30, 19
 
 \[None.\]
 
-In subsections (a) and (b), the words “a member of an armed force” are substituted for the words “commissioned and warrant officers, and enlisted men of the armed services.” The words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title.
+In subsections (a) and (b), the words “a member of an armed force” are substituted for the words “commissioned and warrant officers, and enlisted men of thearmed services.” The words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title.
 
 In subsection (b), the words “may be paid in advance” are substituted for the words “may have their pay and emoluments advanced”.
 

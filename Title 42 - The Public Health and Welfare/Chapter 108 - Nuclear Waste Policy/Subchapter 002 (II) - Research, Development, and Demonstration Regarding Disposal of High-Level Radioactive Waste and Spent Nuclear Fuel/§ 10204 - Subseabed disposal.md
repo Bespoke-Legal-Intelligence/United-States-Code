@@ -1,26 +1,12 @@
 ### §10204. Subseabed disposal
 
-#### (a) Study
-
-Within 270 days after December 22, 1987, the Secretary shall report to Congress on subseabed disposal of spent nuclear fuel and high-level radioactive waste. The report under this subsection shall include—
-
-&emsp;(1) an assessment of the current state of knowledge of subseabed disposal as an alternative technology for disposal of spent nuclear fuel and high-level radioactive waste;
-
-&emsp;(2) an estimate of the costs of subseabed disposal;
-
-&emsp;(3) an analysis of institutional factors associated with subseabed disposal, including international aspects of a decision of the United States to proceed with subseabed disposal as an option for nuclear waste management;
-
-&emsp;(4) a full discussion of the environmental and public health and safety aspects of subseabed disposal;
-
-&emsp;(5) recommendations on alternative ways to structure an effort in research, development, and demonstration with respect to subseabed disposal; and
-
-&emsp;(6) the recommendations of the Secretary with respect to research, development and demonstration in subseabed disposal of spent nuclear fuel and high-level radioactive waste.
+#### (a) Repealed. Pub. L. 104–66, title I, §1051(d), Dec. 21, 1995, 109 Stat. 716
 
 #### (b) Office of Subseabed Disposal Research
 
 (1) There is hereby established an Office of Subseabed Disposal Research within the Office of Energy Research of the Department of Energy. The Office shall be headed by the Director, who shall be a member of the Senior Executive Service appointed by the Director of the Office of Energy Research, and compensated at a rate determined by applicable law.
 
-(2) The Director of the Office of Subseabed Disposal Research shall be responsible for carryingout research, development, and demonstration activities on all aspects of subseabed disposal of high-level radioactive waste and spent nuclear fuel, subject to the general supervision of the Secretary. The Director of the Office shall be directly responsible to the Director of the Office of Energy Research, and the first such Director shall be appointed within 30 days of December 22, 1987.
+(2) The Director of the Office of Subseabed Disposal Research shall be responsible for carrying out research, development, and demonstration activities on all aspects of subseabed disposal of high-level radioactive waste and spent nuclear fuel, subject to the general supervision of the Secretary. The Director of the Office shall be directly responsible to the Director of the Office of Energy Research, and the first such Director shall be appointed within 30 days of December 22, 1987.
 
 (3) In carrying out his responsibilities under this chapter, the Secretary may make grants to, or enter into contracts with, the Subseabed Consortium described in subsection (d) of this section, and other persons.
 
@@ -36,11 +22,15 @@ Within 270 days after December 22, 1987, the Secretary shall report to Congress 
 
 (C) In 1990, and again in 1995, the Subseabed Consortium shall report to Congress on the progress being made in achieving the objectives of paragraph (2).
 
-(5) The Director of the Office of Subseabed Disposal Research shall annually prepare and submit a report to the Congress on the activities and expenditures of the Office.
-
-(Pub. L. 97–425, title II, §224, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5063, Dec. 22, 1987, 101 Stat. 1330–253.)
+(Pub. L. 97–425, title II, §224, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5063, Dec. 22, 1987, 101 Stat. 1330–253; Pub. L. 104–66, title I, §1051(d), Dec. 21, 1995, 109 Stat. 716.)
 
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which required Secretary of Energy to report to Congress on subseabed disposal of spent nuclear fuel and high-level radioactive waste.
+
+Subsec. (b)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Director of the Office of Subseabed Disposal Research shall annually prepare and submit a report to the Congress on the activities and expenditures of the Office.”
 

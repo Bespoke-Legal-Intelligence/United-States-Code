@@ -10,5 +10,5 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 #### Amendments
 
-1978—Pub. L. 95–621 inserted provision giving the Commission the same powers and authority as the Secretary under this section for purposes of carrying outits responsibilities under the Natural Gas Policy Act of 1978.
+1978—Pub. L. 95–621 inserted provision giving the Commission the same powers and authority as the Secretary under this section for purposes of carrying out its responsibilities under the Natural Gas Policy Act of 1978.
 

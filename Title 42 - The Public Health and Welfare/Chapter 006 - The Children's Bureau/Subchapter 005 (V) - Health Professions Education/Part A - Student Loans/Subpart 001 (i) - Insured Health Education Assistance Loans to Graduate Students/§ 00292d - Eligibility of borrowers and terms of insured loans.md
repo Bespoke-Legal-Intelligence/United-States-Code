@@ -30,7 +30,7 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 &emsp;(2) evidenced by a note or other written agreement which—
 
-&emsp;&emsp;(A) is made without security and without endorsement, except that if the borrower isa minor and such note or other written agreement executed by him would not, under the applicable law, create a binding obligation, an endorsement may be required;
+&emsp;&emsp;(A) is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by him would not, under the applicable law, create a binding obligation, an endorsement may be required;
 
 &emsp;&emsp;(B) provides for repayment of the principal amount of the loan in installments over a period of not less than 10 years (unless sooner repaid) nor more than 25 years beginning not earlier than 9 months nor later than 12 months after the date of—
 
@@ -60,7 +60,7 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 &emsp;&emsp;(G) provides that the check for the proceeds of the loan shall be made payable jointly to the borrower and the eligible institution in which the borrower is enrolled; and
 
-&emsp;&emsp;(H) contains such other terms and conditions consistent with the provisions of this subpart and with the regulations issued by the Secretary pursuant to this subpart, as may be agreed upon by the parties to suchloan, including, if agreed upon, a provision requiring the borrower to pay to the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan; and
+&emsp;&emsp;(H) contains such other terms and conditions consistent with the provisions of this subpart and with the regulations issued by the Secretary pursuant to this subpart, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay to the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan; and
 
 &emsp;(3) subject to the consent of the student and subject to applicable law, the eligible lender has obtained from the student appropriate demographic information regarding the student, including racial or ethnic background.
 
@@ -102,7 +102,7 @@ For purposes of this section:
 
 The Peace Corps Act, referred to in subsec. (a)(2)(C), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4951 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to theCode, see Short Title note set out under section 4951 of this title and Tables.
 
 #### Prior Provisions
 

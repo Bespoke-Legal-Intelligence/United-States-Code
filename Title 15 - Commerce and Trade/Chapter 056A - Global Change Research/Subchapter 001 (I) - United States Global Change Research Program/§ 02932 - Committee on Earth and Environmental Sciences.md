@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The President, through the Council, shall establish a Committee on Earth and Environmental Sciences. The Committee shall carry out Council functions under section 6651 of title 42relating to global change research, for the purpose of increasing the overall effectiveness and productivity of Federal global change research efforts.
+The President, through the Council, shall establish a Committee on Earth and Environmental Sciences. The Committee shall carry out Council functions under section 6651 of title 42 relating to global change research, for the purpose of increasing the overall effectiveness and productivity of Federal global change research efforts.
 
 #### (b) Membership
 
@@ -38,7 +38,7 @@ The Committee shall consist of at least one representative from—
 
 &emsp;(15) such other agencies and departments of the United States as the President or the Chairman of the Council considers appropriate.
 
-> Such representatives shall be high ranking officials of their agency or department, wherever possible the head of the portion of that agency or department that is most revelant<sup>1</sup> to the purpose of the subchapter described in section 2931(b) of this title.
+> Such representatives shall be high ranking officials of their agency or department, wherever possible the head of the portion of that agency or department that is most revelant <sup>1</sup> to the purpose of the subchapter described in section 2931(b) of this title.
 
 #### (c) Chairperson
 
@@ -70,11 +70,11 @@ The Council, through the Committee, shall be responsible for planning and coordi
 
 &emsp;(7) report at least annually to the President and the Congress, through the Chairman of the Council, on Federal global change research priorities, policies, and programs.
 
-(Pub. L. 101 606, title I, §102, Nov. 16, 1990, 104 Stat. 3097.)
+(Pub. L. 101–606, title I, §102, Nov. 16, 1990, 104 Stat. 3097.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2921 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “relevant”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “relevant”.</i>
 

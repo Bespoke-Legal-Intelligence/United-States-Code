@@ -28,7 +28,7 @@ As used in this part—
 
 &emsp;(5) The term “industrial plant” means any fixed equipment or facility which is used in connection with, or as part of, any process or system for industrial production or output.
 
-&emsp;(6) The term “renewable-resource energy measure” means a measure which modifies any building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to—
+&emsp;(6) The term “renewable-resource energy measure” means a measure which modifiesany building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to—
 
 &emsp;&emsp;(A) involve changing, in whole or in part, the fuel or source of the energy used to meet the requirements of such building or plant from a depletable source of energy to a nondepletable source of energy; and
 

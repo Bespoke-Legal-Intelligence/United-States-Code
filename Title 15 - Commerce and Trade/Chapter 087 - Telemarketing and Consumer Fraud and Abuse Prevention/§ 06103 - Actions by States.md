@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in a pattern or practice of telemarketing which violates anyrule of the Commission under section 6102 of this title, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such telemarketing, to enforce compliance with such rule of the Commission, to obtain damages, restitution, or other compensation on behalf of residents of such State, or to obtain such further and other relief as the court may deem appropriate.
+Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in a pattern or practice of telemarketing which violates any rule of the Commission under section 6102 of this title, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such telemarketing, to enforce compliance with such rule of the Commission, to obtain damages, restitution, or other compensation on behalf of residents of such State, or to obtain such further and other relief as the court may deem appropriate.
 
 #### (b) Notice
 
-The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
+The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting suchaction. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
 
 #### (c) Construction
 
@@ -26,11 +26,11 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 (2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
 
-(Pub. L. 103 297, §4, Aug. 16, 1994, 108 Stat. 1548.)
+(Pub. L. 103–297, §4, Aug. 16, 1994, 108 Stat. 1548.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103 297, Aug. 16, 1994, 108 Stat. 1545, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -2,11 +2,7 @@
 
 #### Codification
 
-Section, act June 13, 1956, ch. 380, title II, §200, 70 Stat. 269, which authorized advance of funds to cooperators, was from the Department of the Interior and Related Agencies Appropriation Act, 1957, and was not repeated in subsequent appropriation acts.
-
-#### Similar Provisions
-
-Similar provisions were carried in following prior appropriation acts:
+Section, act June 13, 1956, ch. 380, title II, §200, 70 Stat. 269, which authorized advance of funds to cooperators, was from the Department of the Interior and Related Agencies Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in following prior appropriation acts:
 
 &emsp;June 16, 1955, ch. 147, title II, §200, 69 Stat. 154.
 

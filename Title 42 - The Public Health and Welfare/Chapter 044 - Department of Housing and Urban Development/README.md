@@ -51,15 +51,7 @@
 | (e) | Definitions. |
 | (f) | Regulations. |
 | (g) | Applicability. |
-| [3537b.](%C2%A7%2003537b%20-%20Registration%20of%20consultants.md) | Registration of consultants. |
-| (a) | Record of expenditures. |
-| (b) | Reports of expenditures filed with Secretary. |
-| (c) | Registration by persons attempting to influence Department decisions. |
-| (d) | Civil money penalties. |
-| (e) | Prohibition on consulting activities. |
-| (f) | Definitions. |
-| (g) | Regulations. |
-| (h) | Effective date. |
+| [3537b.](%C2%A7%2003537b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9365%2C%20%C2%A711%28b%29%281%29%2C%20Dec.%2019%2C%201995%2C%20109%20Stat.%20701.md) | Repealed. |
 | [3537c.](%C2%A7%2003537c%20-%20Prohibition%20of%20lump-sum%20payments.md) | Prohibition of lump-sum payments. |
 | [3538\.](%C2%A7%2003538%20-%20Rescheduling%20and%20refinancing%20of%20Federal%20loans.md) | Rescheduling and refinancing of Federal loans. |
 | [3539\.](%C2%A7%2003539%20-%20Housing%20and%20Urban%20Development%20Disaster%20Assistance%20Fund.md) | Housing and Urban Development Disaster Assistance Fund. |
@@ -119,7 +111,7 @@ This chapter is referred to in title 12 section 1701d–4.
 - [&sect; 03536 - Annual reports](%C2%A7%2003536%20-%20Annual%20reports.md)
 - [&sect; 03537 - Separability](%C2%A7%2003537%20-%20Separability.md)
 - [&sect; 03537a - Prohibition of advance disclosure of funding decisions](%C2%A7%2003537a%20-%20Prohibition%20of%20advance%20disclosure%20of%20funding%20decisions.md)
-- [&sect; 03537b - Registration of consultants](%C2%A7%2003537b%20-%20Registration%20of%20consultants.md)
+- [&sect; 03537b - Repealed. Pub. L. 104&#8211;65, &sect;11(b)(1), Dec. 19, 1995, 109 Stat. 701](%C2%A7%2003537b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9365%2C%20%C2%A711%28b%29%281%29%2C%20Dec.%2019%2C%201995%2C%20109%20Stat.%20701.md)
 - [&sect; 03537c - Prohibition of lump-sum payments](%C2%A7%2003537c%20-%20Prohibition%20of%20lump-sum%20payments.md)
 - [&sect; 03538 - Rescheduling and refinancing of Federal loans](%C2%A7%2003538%20-%20Rescheduling%20and%20refinancing%20of%20Federal%20loans.md)
 - [&sect; 03539 - Housing and Urban Development Disaster Assistance Fund](%C2%A7%2003539%20-%20Housing%20and%20Urban%20Development%20Disaster%20Assistance%20Fund.md)

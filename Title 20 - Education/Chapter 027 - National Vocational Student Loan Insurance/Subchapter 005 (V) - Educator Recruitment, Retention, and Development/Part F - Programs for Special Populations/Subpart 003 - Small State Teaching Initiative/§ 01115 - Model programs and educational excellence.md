@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to provide sufficient funds to small States to enable suchStates to develop model programs for educational excellence, teacher training and educational reform.
+It is the purpose of this section to provide sufficient funds to small States to enable such States to develop model programs for educational excellence, teacher training and educational reform.
 
 #### (b) Program authorized
 
@@ -42,11 +42,11 @@ Any eligible institution which desires to receive a grant under this section sha
 
 For the purposes of this part there are authorized to be appropriated $5,000,000 for fiscal year 1993 and such sums as may be necessary in each of the 4 succeeding fiscal years.
 
-(Pub. L. 89 329, title V, §591, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 714.)
+(Pub. L. 89–329, title V, §591, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 714.)
 
 #### Prior Provisions
 
-A prior section 1115, Pub. L. 89 329, title V, §571, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1512, related to State task forces on teacher training, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1115, Pub. L. 89–329, title V, §571, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1512, related to State task forces on teacher training, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 1115, Pub. L. 89 329, title V, §525, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90 35, §5(f), June 29, 1967, 81 Stat. 91; Pub. L. 90 575, title II, §238, Oct. 16, 1968, 82 Stat. 1040; Pub. L. 92 318, title I, §141(c)(3), June 23, 1972, 86 Stat. 285, authorized Commissioner to pay stipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+Another prior section 1115, Pub. L. 89–329, title V, §525, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(f), June 29, 1967, 81 Stat. 91; Pub. L. 90–575, title II, §238, Oct. 16, 1968, 82 Stat. 1040; Pub. L. 92–318, title I, §141(c)(3), June 23, 1972, 86 Stat. 285, authorized Commissioner to pay stipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 

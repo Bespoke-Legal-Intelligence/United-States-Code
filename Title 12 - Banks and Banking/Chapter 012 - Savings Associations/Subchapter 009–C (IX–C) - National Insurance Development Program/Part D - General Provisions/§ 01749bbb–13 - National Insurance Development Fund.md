@@ -8,7 +8,7 @@ To carry out the programs authorized under this subchapter, the Director is auth
 
 &emsp;(2) to pay such administrative expenses as may be necessary or appropriate to carry out the purposes of this subchapter; and
 
-&emsp;(3) to repay to the Secretary of the Treasury such sums, including interest thereon, as maybe borrowed from him for purposes of such programs under section 1735d(b) of this title.
+&emsp;(3) to repay to the Secretary of the Treasury such sums, including interest thereon, as may be borrowed from him for purposes of such programs under section 1735d(b) of this title.
 
 #### (b) Credits to fund
 
@@ -20,7 +20,7 @@ The fund shall be credited with—
 
 &emsp;(3) such amounts as may be advanced to the fund from appropriations in order to maintain the fund in an operative condition adequate to meet its liabilities;
 
-&emsp;(4) such amounts which are hereby authorized to be appropriated as may be necessary from time to time to reimburse the fund for losses and expenses (including administrative expenses) incurred in carrying out the program authorized under part C;
+&emsp;(4) such amounts which are hereby authorized to be appropriated as may be necessary from time to time to reimburse the fund for losses and expenses (including administrativeexpenses) incurred in carrying out the program authorized under part C;
 
 &emsp;(5) receipts from any other source which may, from time to time, be credited to the fund; and
 

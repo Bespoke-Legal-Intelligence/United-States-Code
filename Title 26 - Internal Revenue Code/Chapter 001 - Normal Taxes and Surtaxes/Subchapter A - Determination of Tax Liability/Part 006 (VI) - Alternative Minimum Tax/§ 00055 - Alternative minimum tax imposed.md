@@ -132,7 +132,7 @@ Subsec. (c)(2). Pub. L. 102–486 substituted “29(b)(6), 30(b)(3),” for “2
 
 Subsec. (c)(1). Pub. L. 101–508, §11813(b)(5), substituted “section 49(b) or 50(a)” for “section 47”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §1007(a)(2), inserted at end “If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposedby this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).”
+1988—Subsec. (b)(2). Pub. L. 100–647, §1007(a)(2), inserted at end “If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).”
 
 Subsec. (c)(1). Pub. L. 100–647, §1007(a)(1), inserted “and the section 936 credit allowable under section 27(b)” before period at end of first sentence.
 
@@ -224,7 +224,7 @@ Certain public utility.—
 
 &emsp;“(B) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,111 and 1,149, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Illinois or Mississippi for which a binding written contract was in effect on December 31, 1980, then any investment tax credit with respect to such unit shall be described in this subparagraph. The aggregate amount of investment tax credits with respect to the unit in Mississippi allowed solely by reason of being described in this subparagraph shall not exceed $141,000,000.
 
-&emsp;“(C) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the rangeof 1,104 and 1,111, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Louisiana for which a binding written contract was in effect on December 31, 1980, then any investment tax credit of such electric utility shall be described in this subparagraph. The aggregate amount of investment tax credits allowed solely by reason of being described by this subparagraph shall not exceed $20,000,000.
+&emsp;“(C) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,104 and 1,111, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Louisiana for which a binding written contract was in effect on December 31, 1980, then any investment tax credit of such electric utility shall be described in this subparagraph. The aggregate amount of investment tax credits allowed solely by reason of being described by this subparagraph shall not exceed $20,000,000.
 
 “(7)
 
@@ -242,7 +242,7 @@ For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101�
 
 #### Transitional Provisions
 
-Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
+Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L.99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
 
 #### Plan Amendments Not Required Until January 1, 1994
 

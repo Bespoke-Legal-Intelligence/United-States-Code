@@ -88,11 +88,11 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 &emsp;Each State educational agency receiving a grant pursuant to this part may reserve not more than 20 percent of the grant amount for the establishment of a revolving loan fund. Such fund may be used to make loans to eligible applicants that have received a subgrant under this part, under such terms as may be determined by the State educational agency, for the initial operation of the charter school grant program of such recipient until such time as the recipient begins receiving ongoing operational support from State or local financing sources.
 
-(Pub. L. 89 10, title X, §10304, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3827.)
+(Pub. L. 89–10, title X, §10304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3827.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8063, 8065 of this title.
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

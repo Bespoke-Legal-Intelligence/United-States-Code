@@ -94,7 +94,7 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 
 &emsp;“(1) racial and ethnic minorities are disproportionately represented among individuals from disadvantaged backgrounds;
 
-&emsp;“(2) the health status of individuals from disadvantaged backgrounds, including racial and ethnic minorities, in the United States is significantly lower than the health status of the general population of the United States;
+&emsp;“(2) the health status of individuals from disadvantaged backgrounds, including racial and ethnic minorities, in the United States is significantly lowerthan the health status of the general population of the United States;
 
 &emsp;“(3) minorities suffer disproportionately high rates of cancer, stroke, heart diseases, diabetes, substance abuse, acquired immune deficiency syndrome, and other diseases and disorders;
 

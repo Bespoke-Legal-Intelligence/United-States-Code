@@ -10,7 +10,7 @@ Each recipient of funds under this subpart shall provide the Secretary with an e
 
 &emsp;(4) such other information as the Secretary may require.
 
-(Pub. L. 89 10, title VII, §7149, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3736.)
+(Pub. L. 89–10, title VII, §7149, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3736.)
 
 #### Section Referred to in Other Sections
 

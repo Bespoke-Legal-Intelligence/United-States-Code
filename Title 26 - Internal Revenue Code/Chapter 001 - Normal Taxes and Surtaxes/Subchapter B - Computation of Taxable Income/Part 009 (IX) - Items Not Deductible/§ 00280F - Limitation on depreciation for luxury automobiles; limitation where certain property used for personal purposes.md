@@ -46,7 +46,7 @@
 
 #### (1) Depreciation
 
-&emsp;If any listed property is not predominantly used in a qualified business use for any taxableyear, the deduction allowed under section 168 with respect to such property for such taxable year and any subsequent taxable year shall be determined under section 168(g) (relating to alternative depreciation system).
+&emsp;If any listed property is not predominantly used in a qualified business use for any taxable year, the deduction allowed under section 168 with respect to such property for such taxable year and any subsequent taxable year shall be determined under section 168(g) (relating to alternative depreciation system).
 
 #### (2) Recapture
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount of the depreciation deductions allowable with respect to the property for taxable years before the 1st taxable year in which the property was not predominantly used in a qualified business use, over
 
-&emsp;&emsp;&emsp;(ii) the amount which would have been so allowable if the property had not been predominantly used in a qualified business use for the taxable year in which it was placed in service.
+&emsp;&emsp;&emsp;(ii) the amount which would have been so allowable if the property had not beenpredominantly used in a qualified business use for the taxable year in which it was placed in service.
 
 #### (3) Property predominantly used in qualified business use
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (B) Exception for certain computers
 
-&emsp;&emsp;The term “listed property” shall not include any computer or peripheral equipment\(as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
+&emsp;&emsp;The term “listed property” shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
 
 #### (C) Exception for property used in business of transporting persons or property
 
@@ -230,7 +230,7 @@ For purposes of this section—
 
 #### (9) All taxpayers holding interests in passenger automobile treated as 1 taxpayer
 
-&emsp;All taxpayers holding interests in any passenger automobile shall be treated as 1 taxpayer for purposes of applying subsection (a)to such automobile, and the limitations of subsection (a) shall be allocated among such taxpayers in proportion to their interests in such automobile.
+&emsp;All taxpayers holding interests in any passenger automobile shall be treated as 1 taxpayer for purposes of applying subsection (a) to such automobile, and the limitations of subsection (a) shall be allocated among such taxpayers in proportion to their interests in such automobile.
 
 #### (10) Special rule for property acquired in nonrecognition transactions
 
@@ -246,7 +246,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 1990—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1)“Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -310,7 +310,7 @@ Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Pr
 
 &emsp;“(B) the amount of the recovery deductions which would have been allowable for taxable years in the recovery period determined after the application of subsection (a) and as if all use during the recovery period were use described in section 168(c)(1).”
 
-Subsec. (d)(10). Pub. L. 99–514, §201(d)(4)(I), struck out “, notwithstanding any regulations prescribed undersection 168(f)(7),” after “For purposes of subsection (a)(2)”.
+Subsec. (d)(10). Pub. L. 99–514, §201(d)(4)(I), struck out “, notwithstanding any regulations prescribed under section 168(f)(7),” after “For purposes of subsection (a)(2)”.
 
 1985—Subsec. (a)(1). Pub. L. 99–44, §4(a)(1), substituted “$675” for “$1,000”.
 

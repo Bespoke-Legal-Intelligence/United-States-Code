@@ -44,9 +44,9 @@ No payment shall be made or become due under a guarantee entered into under this
 
 (2) As used in paragraph (1) of this subsection, the term “collateral” includes all assets pledged under loan agreements and, if appropriate in the opinion of the Board, all sums of the borrower on deposit with the lender and subject to offset under section 68 of the Bankruptcy Act.
 
-(Pub. L. 92 70, §6, Aug. 9, 1971, 85 Stat. 179.)
+(Pub. L. 92–70, §6, Aug. 9, 1971, 85 Stat. 179.)
 
 #### References in Text
 
-Section 68 of the Bankruptcy Act, referred to in subsec. (f)(2), was classified to section 108 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95 598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. See sections 502(b)(3) and 553 of Title 11.
+Section 68 of the Bankruptcy Act, referred to in subsec. (f)(2), was classified to section 108 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. See sections 502(b)(3) and 553 of Title 11.
 

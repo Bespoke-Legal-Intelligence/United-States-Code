@@ -1,4 +1,4 @@
-### §1673c . Termination or suspension of investigation
+### §1673c. Termination or suspension of investigation
 
 #### (a) Termination of investigation upon withdrawal of petition
 

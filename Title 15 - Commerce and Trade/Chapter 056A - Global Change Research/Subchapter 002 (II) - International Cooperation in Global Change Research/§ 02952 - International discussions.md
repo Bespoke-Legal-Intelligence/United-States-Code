@@ -22,7 +22,7 @@ The President should direct the Secretary of State, in cooperation with the Comm
 
 &emsp;&emsp;(B) combine and interpret data from various sources to produce information readily usable by policymakers attempting to formulate effective strategies for preventing, mitigating, and adapting to possible adverse effects of global change.
 
-&emsp;(6) Establishment of international offices to disseminate information useful in identifying, preventing, mitigating, or adapting to the possible effects of global change.
+&emsp;(6) Establishment of international offices to disseminate information useful in identifying,preventing, mitigating, or adapting to the possible effects of global change.
 
 #### (b) Energy research
 
@@ -34,5 +34,5 @@ The President should direct the Secretary of State (in cooperation with the Secr
 
 &emsp;(3) Exchange of information concerning environmentally safe energy technologies and practices, including those described in paragraphs (1) and (2).
 
-(Pub. L. 101 606, title II, §203, Nov. 16, 1990, 104 Stat. 3102.)
+(Pub. L. 101–606, title II, §203, Nov. 16, 1990, 104 Stat. 3102.)
 

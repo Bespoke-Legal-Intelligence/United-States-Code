@@ -20,7 +20,7 @@ Covered Institutions.—This section applies with respect to the following insti
 
 (d)
 
-Application to Faculty Members at NDU.—(1) In the case of the National DefenseUniversity, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
+Application to Faculty Members at NDU.—(1) In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
 (2) For purposes of this section, the National Defense University includes the National War College, the Armed Forces Staff College, the Institute for National Strategic Study, and the Industrial College of the Armed Forces.
 

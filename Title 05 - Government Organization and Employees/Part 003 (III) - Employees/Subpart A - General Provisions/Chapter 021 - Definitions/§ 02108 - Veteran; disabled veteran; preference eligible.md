@@ -114,19 +114,19 @@ Section 511 of title 10, referred to in par. (1)(B), was renumbered section 1210
 
 #### Amendments
 
-1991—Par. (2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Par. (2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Par. (3). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in concluding provisions.
+<b>1988</b>—Par. (3). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in concluding provisions.
 
-1981—Par. (3). Pub. L. 97–89 inserted reference to Defense Intelligence Senior Executive Service and Senior Cryptologic Executive Service in concluding provisions.
+<b>1981</b>—Par. (3). Pub. L. 97–89 inserted reference to Defense Intelligence Senior Executive Service and Senior Cryptologic Executive Service in concluding provisions.
 
-1980—Par. (3). Pub. L. 96–191 inserted reference to General Accounting Office in concluding provisions.
+<b>1980</b>—Par. (3). Pub. L. 96–191 inserted reference to General Accounting Office in concluding provisions.
 
-1979—Par. (3). Pub. L. 96–54, §2(a)(8), inserted provision excepting applicants for, or members of, Senior Executive Service.
+<b>1979</b>—Par. (3). Pub. L. 96–54, §2(a)(8), inserted provision excepting applicants for, or members of, Senior Executive Service.
 
 Par. (5). Pub. L. 96–54, §2(a)(9)(A), struck out provision excepting applicants for, or members of, Senior Executive Service.
 
-1978—Par. (2). Pub. L. 95–454, §307(a)(1), struck out “and” at end.
+<b>1978</b>—Par. (2). Pub. L. 95–454, §307(a)(1), struck out “and” at end.
 
 Par. (3). Pub. L. 95–454, §307(a)(2), (3), inserted “, except as provided in paragraph (4) of this section” after “means”, and substituted a semicolon for the period at end.
 
@@ -134,13 +134,13 @@ Pars. (4), (5). Pub. L. 95–454, §307(a)(4), added pars. (4) and (5) relating 
 
 Par. (5). Pub. L. 95–454, §401(d), inserted “; but does not include applicants for, or members of, the Senior Executive Service” before the period at end.
 
-1976—Par. (1)(B). Pub. L. 94–502 substituted “any part of which occurred after January 31, 1955, and before the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” for “after January 31, 1955,”.
+<b>1976</b>—Par. (1)(B). Pub. L. 94–502 substituted “any part of which occurred after January 31, 1955, and before thedate of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” for “after January 31, 1955,”.
 
-1971—Par. (3)(D). Pub. L. 92–187 inserted “or widower” after “unmarried widow”.
+<b>1971</b>—Par. (3)(D). Pub. L. 92–187 inserted “or widower” after “unmarried widow”.
 
 Par. (3)(E). Pub. L. 92–187 inserted “or husband” after “the wife”.
 
-1968—Par. (3)(D). Pub. L. 90–623 inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
+<b>1968</b>—Par. (3)(D). Pub. L. 90–623 inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
 
 #### Effective Date of 1981 Amendment
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 90–623 effective Sept. 11, 1967, for all purposes, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3305, 3309, 3312, 3318, 3352, 3502, 3504 of this title; title 10 section 943; title 16 section 3198; title 20 section 241; title 22 sections 1438, 3941; title 25 section 2641; title 32 section 709; title 38 sections 106, 5303A, 7281, 7802; title 39 section 1005; title 42 sections 2992a–1, 9839; title 49 section 47112.
+This section is referred to in sections 3305, 3309, 3312, 3318, 3352, 3502, 3504 of this title; title 10 section 943; title 16 section 3198; title 22 sections 1438, 3941; title 32 section 709; title 38 sections 106, 5303A, 7281, 7802; title 39 section 1005; title 42 sections 2992a–1, 9839; title 49 section 47112.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ For purposes of this section, the term “commercial purpose” means any commer
 
 This section shall take effect 90 days after November 29, 1990.
 
-(Pub. L. 101 647, title XXXII, §3202, Nov. 29, 1990, 104 Stat. 4917.)
+(Pub. L. 101–647, title XXXII, §3202, Nov. 29, 1990, 104 Stat. 4917.)
 
 #### References in Text
 

@@ -16,17 +16,17 @@ The Congress finds that—
 
 &emsp;(7) there is a need for improvement in the management and coordination of Federal education programs to support more effectively State, local, and private institutions, students, and parents in carrying out their educational responsibilities;
 
-&emsp;(8) the dispersion of education programs across a large number of Federal agencies hasled to fragmented, duplicative, and often inconsistent Federal policies relating to education;
+&emsp;(8) the dispersion of education programs across a large number of Federal agencies has led to fragmented, duplicative, and often inconsistent Federal policies relating to education;
 
 &emsp;(9) Presidential and public consideration of issues relating to Federal education programs is hindered by the present organizational position of education programs in the executive branch of the Government; and
 
 &emsp;(10) there is no single, full-time, Federal education official directly accountable to the President, the Congress, and the people.
 
-(Pub. L. 96 88, title I, §101, Oct. 17, 1979, 93 Stat. 669.)
+(Pub. L. 96–88, title I, §101, Oct. 17, 1979, 93 Stat. 669.)
 
 #### Effective Date
 
-Section 601 of Pub. L. 96 88 provided that:
+Section 601 of Pub. L. 96–88 provided that:
 
 “(a) The provisions of this Act \[see Short Title note below\] shall take effect one hundred and eighty days after the first Secretary takes office, or on any earlier date on or after October 1, 1979, as the President may prescribe and publish in the Federal Register \[prescribed as May 4, 1980, by Ex. Ord. No. 12212, formerly set out below\], except that at any time on or after October 1, 1979—
 
@@ -34,19 +34,19 @@ Section 601 of Pub. L. 96 88 provided that:
 
 &emsp;“(2) the Secretary may promulgate regulations pursuant to section 505(b)(2) of this Act \[section 3505(b)(2) of this title\].
 
-“(b) Funds available to any department or agency (or any official or component thereof), the functions or offices of which are transferred to the Secretary or the Department by this Act \[see Short Title note below\], may, with the approval of the Director of the Office of Management and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this title \[this section and section 602 of Pub. L. 96 88 set out below\] and other transitional and planning expenses associated with the establishment of the Department or transfer of functions or offices thereto until such time as funds for such purposes are otherwise available.”
+“(b) Funds available to any department or agency (or any official or component thereof), the functions or offices of which are transferred to the Secretary or the Department by this Act \[see Short Title note below\], may, with the approval of the Director of the Office of Management and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this title \[this section and section 602 of Pub. L. 96–88 set out below\] and other transitional and planning expenses associated with the establishment of the Department or transfer of functions or offices thereto until such time as funds for such purposes are otherwise available.”
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101 392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title \[enacting section 3423a of this title, amending section 3424 of this title, repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under section 2403 of this title\] may be cited as the ‘Office of Correctional Education Act of 1990’.”
+Pub. L. 101–392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title \[enacting section 3423a of this title, amending section 3424 of this title, repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under section 2403 of this title\] may be cited as the ‘Office of Correctional Education Act of 1990’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96 88 provided that: “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the ‘Department of Education Organization Act’.”
+Section 1 of Pub. L. 96–88 provided that: “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the ‘Department of Education Organization Act’.”
 
 #### Interim Appointments
 
-Section 602 of Pub. L. 96 88 provided that:
+Section 602 of Pub. L. 96–88 provided that:
 
 “(a) In the event that one or more officers required by this Act \[see Short Title note above\] to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act \[May 4, 1980\] and notwithstanding any other provisions of law, the President may designate an officer in the executive branch to act in such office for one hundred and twenty days or until the office is filled as provided in this Act, whichever occurs first.
 

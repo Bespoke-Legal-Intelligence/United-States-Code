@@ -46,7 +46,7 @@
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–474 redesignated par. (3) as (2) and struck out former par. (2) which provided that this section is applicable to Administrative Office of United States Courts.
+<b>1990</b>—Subsec. (a). Pub. L. 101–474 redesignated par. (3) as (2) and struck out former par. (2) which provided that this section is applicable to Administrative Office of United States Courts.
 
 #### Effective Date
 

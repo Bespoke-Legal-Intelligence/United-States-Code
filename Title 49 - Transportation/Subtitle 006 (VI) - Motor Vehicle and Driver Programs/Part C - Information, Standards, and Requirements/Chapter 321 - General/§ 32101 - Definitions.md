@@ -46,7 +46,7 @@ In this part (except chapter 329 and except as provided in section 33101)—
 
 &emsp;&emsp;(C) a device made or sold for use in towing a passenger motor vehicle.
 
-&emsp;(12) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+&emsp;(12) “State” means a State of the United States, the District of Columbia, Puerto Rico,the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
 &emsp;(13) “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
@@ -124,7 +124,7 @@ In clause (5)(A), the words “manufacturing or assembling” are substituted fo
 
 In clause (8), the words “maintenance or operation” are substituted for “operation, maintenance, or use” to eliminate an unnecessary word.
 
-In clauses (12) and (13), the words “the Northern Mariana Islands” are added because of section 502(a)(2) ofthe Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
+In clauses (12) and (13), the words “the Northern Mariana Islands” are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
 
 In clause (12), the word “means” is substituted for “includes” as being more appropriate. The words “a State of the United States” are substituted for “each of the several States” for consistency in the revised title and with other titles of the United States Code.
 

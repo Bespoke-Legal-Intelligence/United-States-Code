@@ -1,6 +1,6 @@
 ### §611. Interest
 
-Interest on amounts found due contractors on claims shall be paid to the contractor from the date the contracting officer receives the claim pursuant to section 605(a) of this title from the contractor until payment thereof. The interest provided for in this section shall be paid at the rate established by the Secretary of the Treasury pursuant to Public Law 92–41 (85 Stat. 97) for the Renegotiation Board.
+Interest on amounts found due contractors on claims shall be paid to the contractor from the date the contracting officer receives the claim pursuant to section 605(a) of this title from the contractor until payment thereof. The interest provided for in this section shall be paid at therate established by the Secretary of the Treasury pursuant to Public Law 92–41 (85 Stat. 97) for the Renegotiation Board.
 
 (Pub. L. 95–563, §12, Nov. 1, 1978, 92 Stat. 2389.)
 

@@ -32,7 +32,7 @@ The Secretary of the Interior shall commence further petroleum exploration of th
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, andamended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Note set out under section 6501 of this title and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Note set out under section 6501 of this title and Tables.
 
 The antitrust laws, referred to in subsec. (d), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
@@ -44,9 +44,7 @@ The antitrust laws, referred to in subsec. (d), are classified generally to chap
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives and Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

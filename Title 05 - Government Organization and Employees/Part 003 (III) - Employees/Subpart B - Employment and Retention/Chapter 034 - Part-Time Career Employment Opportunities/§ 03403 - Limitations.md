@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1978—Pub. L. 95–454 renumbered section 3393 of this title as this section.
+<b>1978</b>—Pub. L. 95–454 renumbered section 3393 of this title as this section.
 
 #### Section Referred to in Other Sections
 

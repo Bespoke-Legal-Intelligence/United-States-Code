@@ -22,7 +22,7 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 &emsp;(D) permits nonwasteful, environmentally sound development of renewable and nonrenewable resources.
 
-(2) On or before December 31, 1995, the Secretary of Commerce shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate a report containing the results of the workshop under this subsection, proposed regulatory or research actions, and recommended legislative action.
+(2) On or before December 31, 1995, the Secretary of Commerce shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of theSenate a report containing the results of the workshop under this subsection, proposed regulatory or research actions, and recommended legislative action.
 
 #### (d) Bering Sea ecosystem protection
 
@@ -48,5 +48,5 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

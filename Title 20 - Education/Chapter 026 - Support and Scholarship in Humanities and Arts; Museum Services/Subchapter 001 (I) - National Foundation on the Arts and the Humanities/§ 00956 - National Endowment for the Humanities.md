@@ -20,7 +20,7 @@ The Chairperson, with the advice of the National Council on the Humanities (here
 
 &emsp;(3) initiate and support training and workshops in the humanities by making arrangements with institutions or individuals (fellowships awarded to individuals under this authority may be for the purpose of study or research at appropriate nonprofit institutions selected by the recipient of such aid, for stated periods of time);
 
-&emsp;(4) initiate and support programs and research which have substantial scholarly and cultural significance and that reach, or reflect the diversity and richness of our American cultural heritage, including the culture of, aminority, inner city, rural, or tribal community;
+&emsp;(4) initiate and support programs and research which have substantial scholarly and cultural significance and that reach, or reflect the diversity and richness of our American cultural heritage, including the culture of, a minority, inner city, rural, or tribal community;
 
 &emsp;(5) foster international programs and exchanges;
 
@@ -64,7 +64,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(vii) provides—
 
-&emsp;&emsp;(I) assurances that the State agency has held, after reasonable notice, public meetings in the State to allow scholars, interested organizations, and the public topresent views and make recommendations regarding the State plan; and
+&emsp;&emsp;(I) assurances that the State agency has held, after reasonable notice, public meetings in the State to allow scholars, interested organizations, and the public to present views and make recommendations regarding the State plan; and
 
 &emsp;&emsp;(II) a summary of such recommendations and of the response of the State agency to such recommendations; and
 
@@ -88,7 +88,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(A) provides assurances that the grant recipient will comply with the requirements of paragraph (2)(B);
 
-&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programs which carry out the objectives of subsection (c) of this section;
+&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programswhich carry out the objectives of subsection (c) of this section;
 
 &emsp;(C) establishes a membership policy which is designed to assure broad public representation with respect to programs administered by such grant recipient;
 
@@ -120,7 +120,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
-&emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available tothe Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
+&emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
 &emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted in equal amounts among the States and grant recipients which have plans approved by the Chairperson; and
 
@@ -142,7 +142,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (E) For purposes of paragraph (4)(B), the term “State” and the term “grant recipient” include, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
-(6) All amounts allotted or made available under paragraph (4) for a fiscal year which are not granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
+(6) All amounts allotted or made available under paragraph (4) for a fiscal year which arenot granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
 
 (7) Whenever the Chairperson, after reasonable notice and opportunity for hearing, finds that—
 
@@ -158,7 +158,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 #### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
 
-It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.
+It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in  similar  activities;  and  (2)  no  part  of  any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.
 
 #### (h) Program of contracts or grants-in-aid to public agencies and private nonprofit organizations; limitation on payments
 
@@ -166,7 +166,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 &emsp;(A) enabling cultural organizations and institutions to increase the levels of continuing support and to increase the range of contributors to the program of such organizations or institutions;
 
-&emsp;(B) providing administrative and management improvements for cultural organizationsand institutions, particularly in the field of long-range financial planning;
+&emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
 &emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
@@ -210,119 +210,119 @@ The Chairperson, with the advice of the National Council on the Humanities, is a
 
 &emsp;(2) The Charles Frankel Prize to honor individuals who have made outstanding contributions to the public understanding of the humanities. Not more than 5 individuals may receive such prize each year. Each prize shall not exceed $5,000.
 
-(Pub. L. 89 209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90 83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91 346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93 133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94 462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96 496, titleI, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L. 98 306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99 194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101 512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
+(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in subsec. (j), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a 5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+The Davis-Bacon Act, as amended, referred to in subsec. (j), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101 512, §318 \[title I, §107(a)\], substituted “the” for “a” after “Foundation”.
+1990—Subsec. (a). Pub. L. 101–512, §318 \[title I, §107(a)\], substituted “the” for “a” after “Foundation”.
 
-Subsec. (c). Pub. L. 101 512, §318 \[title I, §107(b)(1)\], inserted “enter into arrangements, including contracts, grants, loans, and other forms of assistance, to” after “is authorized to”.
+Subsec. (c). Pub. L. 101–512, §318 \[title I, §107(b)(1)\], inserted “enter into arrangements, including contracts, grants, loans, and other forms of assistance, to” after “is authorized to”.
 
-Subsec. (c)(2). Pub. L. 101 512, §318 \[title I, §107(b)(2)\], struck out “(including contracts, grants, loans, and other forms of assistance)” after “arrangements”.
+Subsec. (c)(2). Pub. L. 101–512, §318 \[title I, §107(b)(2)\], struck out “(including contracts, grants, loans, and other forms of assistance)” after “arrangements”.
 
-Subsec. (c)(3). Pub. L. 101 512, §318 \[title I, §107(b)(3)\], substituted “initiate and support training and workshops in the humanities by making arrangements with institutions or individuals (fellowships” for “award fellowships and grants to institutions or individuals for training and workshops in the humanities. Fellowships”, and inserted closing parenthesis after “periods of time”.
+Subsec. (c)(3). Pub. L. 101–512, §318 \[title I, §107(b)(3)\], substituted “initiate and support training and workshops in the humanities by making arrangements with institutions or individuals (fellowships” for “award fellowships and grants to institutions or individuals for training and workshops in the humanities. Fellowships”, and inserted closing parenthesis after “periods of time”.
 
-Subsec. (c)(7). Pub. L. 101 512, §318 \[title I, §107(b)(4)\], struck out “through grants or other arrangements” after “foster,”.
+Subsec. (c)(7). Pub. L. 101–512, §318 \[title I, §107(b)(4)\], struck out “through grants or other arrangements” after “foster,”.
 
-Subsec. (c)(10). Pub. L. 101 512, §318 \[title I, §107(b)(5) (7)\], added par. (10).
+Subsec. (c)(10). Pub. L. 101–512, §318 \[title I, §107(b)(5)–(7)\], added par. (10).
 
-Subsec. (d). Pub. L. 101 512, §318 \[title I, §107(c)\], substituted “coordinate” for “correlate”.
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §107(c)\], substituted “coordinate” for “correlate”.
 
-Subsec. (f)(2)(A). Pub. L. 101 512, §318 \[title I, §107(d)(1)\], substituted “the date the State agency is established” for “December 20, 1985,”.
+Subsec. (f)(2)(A). Pub. L. 101–512, §318 \[title I, §107(d)(1)\], substituted “the date the State agency is established” for “December 20, 1985,”.
 
-Subsec. (f)(2)(A)(viii)(I). Pub. L. 101 512, §318 \[title I, §107(d)(2)(A)\], substituted “most recent preceding year for which information is available” for “previous two years”.
+Subsec. (f)(2)(A)(viii)(I). Pub. L. 101–512, §318 \[title I, §107(d)(2)(A)\], substituted “most recent preceding year for which information is available” for “previous two years”.
 
-Subsec. (f)(2)(A)(viii)(II). Pub. L. 101 512, §318 \[title I, §107(d)(2)(B)\], inserted “for the most recent preceding year for which information is available,”.
+Subsec. (f)(2)(A)(viii)(II). Pub. L. 101–512, §318 \[title I, §107(d)(2)(B)\], inserted “for the most recent preceding year for which information is available,”.
 
-Subsec. (f)(3)(J)(i). Pub. L. 101 512, §318 \[title I, §107(d)(3)(A)\], substituted “most recent preceding year for which information is available” for “previous two years”.
+Subsec. (f)(3)(J)(i). Pub. L. 101–512, §318 \[title I, §107(d)(3)(A)\], substituted “most recent preceding year for which information is available” for “previous two years”.
 
-Subsec. (f)(3)(J)(ii). Pub. L. 101 512, §318 \[title I, §107(d)(3)(B)\], inserted “for the most recent preceding year for which information is available,”.
+Subsec. (f)(3)(J)(ii). Pub. L. 101–512, §318 \[title I, §107(d)(3)(B)\], inserted “for the most recent preceding year for which information is available,”.
 
-Subsec. (g). Pub. L. 101 512, §318 \[title I, §107(e)\], struck out “not later than 180 days after December 20, 1985” before period at end.
+Subsec. (g). Pub. L. 101–512, §318 \[title I, §107(e)\], struck out “not later than 180 days after December 20, 1985” before period at end.
 
-Subsec. (h)(2)(B). Pub. L. 101 512, §318 \[title I, §107(f)\], substituted “Endowment for” for “Endowment on”.
+Subsec. (h)(2)(B). Pub. L. 101–512, §318 \[title I, §107(f)\], substituted “Endowment for” for “Endowment on”.
 
-Subsec. (k). Pub. L. 101 512, §318 \[title I, §107(g)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “and State levels.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
+Subsec. (k). Pub. L. 101–512, §318 \[title I, §107(g)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “and State levels.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 101 512, §318 \[title I, §107(h)\], added subsecs. (<i>l</i>) and (m) and struck out former subsec. (<i>l</i>) which related to reports and plans required by regulation or directives and the transmittal of such reports and plans to the Equal Employment Opportunity Commission.
+Subsecs. (<i>l</i>), (m). Pub. L. 101–512, §318 \[title I, §107(h)\], added subsecs. (<i>l</i>) and (m) and struck out former subsec. (<i>l</i>) which related to reports and plans required by regulation or directives and the transmittal of such reports and plans to the Equal Employment Opportunity Commission.
 
-1985—Subsec. (b). Pub. L. 99 194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
+1985—Subsec. (b). Pub. L. 99–194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
 
-Subsec. (c). Pub. L. 99 194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
+Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
 
-Subsec. (d). Pub. L. 99 194, §107(5), substituted “Chairperson” for “Chairman”.
+Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
-Subsec. (f). Pub. L. 99 194, §107(3), (5), substituted “Chairperson” for “Chairman” wherever appearing; in par. (2)(A) substituted “December 20, 1985” for “December 4, 1980”, inserted “officer” after “chief executive” wherever appearing in cl. (ii), struck out “and” at end of cl. (v), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (vi), and added cls. (vii) and (viii) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection; in par. (2)(B)(i) substituted “six” and “25” for “four” and “20”, respectively; and in par. (3) struck out “and” at end of cl. (G), substituted “, including a description of the progress made toward achieving the goals of the plan;” for the period at end of cl. (H), and added cls. (I) and (J) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
+Subsec. (f). Pub. L. 99–194, §107(3), (5), substituted “Chairperson” for “Chairman” wherever appearing; in par. (2)(A) substituted “December 20, 1985” for “December 4, 1980”, inserted “officer” after “chief executive” wherever appearing in cl. (ii), struck out “and” at end of cl. (v), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (vi), and added cls. (vii) and (viii) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection; in par. (2)(B)(i) substituted “six” and “25” for “four” and “20”, respectively; and in par. (3) struck out “and” at end of cl. (G), substituted “, including a description of the progress made toward achieving the goals of the plan;” for the period at end of cl. (H), and added cls. (I) and (J) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-Subsec. (g). Pub. L. 99 194, §107(4), substituted “The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection not later than 180 days after December 20, 1985” for “The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as he may deem necessary or appropriate to carry out the provisions of this subsection”.
+Subsec. (g). Pub. L. 99–194, §107(4), substituted “The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection not later than 180 days after December 20, 1985” for “The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as he may deem necessary or appropriate to carry out the provisions of this subsection”.
 
-Subsecs. (h)(1), (2)(B), (3), (i). Pub. L. 99 194, §107(5), substituted “Chairperson” for “Chairman” wherever appearing.
+Subsecs. (h)(1), (2)(B), (3), (i). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 99 194, §107(6), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<i>l).</i>
 
-1980—Subsec. (c). Pub. L. 96 496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
+1980—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
 
-Subsec. (f)(2). Pub. L. 96 496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
+Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
 
-Subsec. (f)(3). Pub. L. 96 496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
+Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
 
-Subsec. (f)(4). Pub. L. 96 496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “suchStates and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
+Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “such States and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
 
-Subsec. (f)(5)(A). Pub. L. 96 496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
+Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
 
-Subsec. (f)(5)(B). Pub. L. 96 496, §104(a)(4)(B), inserted “State agency or”.
+Subsec. (f)(5)(B). Pub. L. 96–496, §104(a)(4)(B), inserted “State agency or”.
 
-Subsec. (f)(5)(E). Pub. L. 96 496, §104(a)(4)(C), added subpar. (E).
+Subsec. (f)(5)(E). Pub. L. 96–496, §104(a)(4)(C), added subpar. (E).
 
-Subsec. (f)(7). Pub. L. 96 496, §104(a)(5), inserted “group or” in subpar. (A), inserted “State agency or” and substituted “State plan or grant recipient application” for “plan” in subpar. (B), inserted “group or State agency or” in subpar. (C), and inserted “group, State agency, or” in three places in provisions following subpar. (C).
+Subsec. (f)(7). Pub. L. 96–496, §104(a)(5), inserted “group or” in subpar. (A), inserted “State agency or” and substituted “State plan or grant recipient application” for “plan” in subpar. (B), inserted “group or State agency or” in subpar. (C), and inserted “group, State agency, or” in three places in provisions following subpar. (C).
 
-Subsec. (f)(8). Pub. L. 96 496, §104(a)(6), substituted “the third sentence of paragraph (4), and paragraphs (5) and (6)” for “paragraphs (4), (5), and (6)”.
+Subsec. (f)(8). Pub. L. 96–496, §104(a)(6), substituted “the third sentence of paragraph (4), and paragraphs (5) and (6)” for “paragraphs (4), (5), and (6)”.
 
-Subsec. (g). Pub. L. 96 496, §104(b), substituted “State agency or” for “State”.
+Subsec. (g). Pub. L. 96–496, §104(b), substituted “State agency or” for “State”.
 
-Subsec. (i). Pub. L. 96 496, §104(c), added subsec. (i).
+Subsec. (i). Pub. L. 96–496, §104(c), added subsec. (i).
 
-1976—Subsecs. (f), (g). Pub. L. 94 462, §§104(a), 105, added subsecs. (f) and (g).
+1976—Subsecs. (f), (g). Pub. L. 94–462, §§104(a), 105, added subsecs. (f) and (g).
 
-Subsec. (h). Pub. L. 94 462, §301(b), added subsec. (h).
+Subsec. (h). Pub. L. 94–462, §301(b), added subsec. (h).
 
-1973—Subsec. (c). Pub. L. 93 133, §2(a)(6), in provisions preceding cl. (1) struck out reference to the Federal Council on the Arts and the Humanities, in cl. (2) inserted proviso that loans made by the Endowment shall be made in accordance with terms and conditions approved by the Secretary of the Treasury, in cl. (6) struck out reference to section 111 of title 44, and added cl. (7) and provisions following cl. (7).
+1973—Subsec. (c). Pub. L. 93–133, §2(a)(6), in provisions preceding cl. (1) struck out reference to the Federal Council on the Arts and the Humanities, in cl. (2) inserted proviso that loans made by the Endowment shall be made in accordance with terms and conditions approved by the Secretary of the Treasury, in cl. (6) struck out reference to section 111 of title 44, and added cl. (7) and provisions following cl. (7).
 
-Subsec. (d). Pub. L. 93 133, §3, required the Chairman to correlate the programs of the National Endowment for the Humanities with designated State humanities agencies.
+Subsec. (d). Pub. L. 93–133, §3, required the Chairman to correlate the programs of the National Endowment for the Humanities with designated State humanities agencies.
 
-1970—Subsec. (b)(2). Pub. L. 91 346, §8(a), provided that upon expiration of his term of office the Chairman shall serve until his successor shall have been appointed and shall have qualified.
+1970—Subsec. (b)(2). Pub. L. 91–346, §8(a), provided that upon expiration of his term of office the Chairman shall serve until his successor shall have been appointed and shall have qualified.
 
-Subsec. (c)(2). Pub. L. 91 346, §8(b), announced intention of the Endowment for the Humanities to strengthen teaching potential as well as research potential and authorized the Endowment to make contracts as well as grants etc., in its efforts to accomplish its goals.
+Subsec. (c)(2). Pub. L. 91–346, §8(b), announced intention of the Endowment for the Humanities to strengthen teaching potential as well as research potential and authorized the Endowment to make contracts as well as grants etc., in its efforts to accomplish its goals.
 
-Subsec. (c)(5). Pub. L. 91 346, §8(c), announced intention to foster education in as well as public understanding and appreciation of the humanities.
+Subsec. (c)(5). Pub. L. 91–346, §8(c), announced intention to foster education in as well as public understanding and appreciation of the humanities.
 
-1967—Subsec. (b)(1). Pub. L. 90 83 struck out provision setting the compensation of the Chairman at the level prescribed by law for the Director of the National Science Foundation.
+1967—Subsec. (b)(1). Pub. L. 90–83 struck out provision setting the compensation of the Chairman at the level prescribed by law for the Director of the National Science Foundation.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
 #### Applicability of 1985 Amendment
 
-Amendment by section 107(3) of Pub. L. 99 194 not applicable with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986, see section 112 of Pub. L. 99 194, set out as a note under section 954 of this title.
+Amendment by section 107(3) of Pub. L. 99–194 not applicable with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986, see section 112 of Pub. L. 99–194, set out as a note under section 954 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Section 104(b) of Pub. L. 94 462 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1977 and succeeding fiscal years.”
+Section 104(b) of Pub. L. 94–462 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1977 and succeeding fiscal years.”
 
 #### Effective Date of 1973 Amendment
 
-Amendment by section 2(a)(6) of Pub. L. 93 133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93 133, set out as a note under section 951 of this title.
+Amendment by section 2(a)(6) of Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out as a note under section 951 of this title.
 
 #### Cross References
 

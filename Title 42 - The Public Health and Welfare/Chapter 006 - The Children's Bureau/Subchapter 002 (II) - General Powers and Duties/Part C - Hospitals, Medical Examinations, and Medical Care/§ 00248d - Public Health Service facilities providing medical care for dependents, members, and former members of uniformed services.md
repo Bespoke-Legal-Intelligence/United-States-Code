@@ -14,7 +14,7 @@ If the Secretary of Defense, the Secretary of Health and Human Services, and the
 
 #### (d) Reports to Congress on study and project results
 
-The Secretary of Defense, in consultation with the Secretary of Health and Human Services and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, shall submit annually to the Committees on Appropriations and on Armed Services of the Senate and the House of Representatives a written report on the results of the studies and projectscarried out under this section. The first such report shall be submitted not later than one year after September 24, 1983. The last such report shall be submitted not later than one year after the completion of all such studies and projects.
+The Secretary of Defense, in consultation with the Secretary of Health and Human Services and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, shall submit annually to the Committees on Appropriations and on Armed Services of the Senate and the House of Representatives a written report on the results of the studies and projects carried out under this section. The first such report shall be submitted not later than one year after September 24, 1983. The last such report shall be submitted not later than one year after the completion of all such studies and projects.
 
 #### (e) Termination of status
 
@@ -24,11 +24,13 @@ The Secretary of Defense, the Secretary of Health and Human Services, and the Se
 
 The total amount of expenditures by the Secretary of Defense to carry out this section and section 248c of this title may not exceed $154,000,000 for fiscal year 1991.
 
-(Pub. L. 98–94, title XII, §1252(a)–(e), Sept. 24, 1983, 97 Stat. 698; Pub. L. 98–557, §17(f)(2), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–661, div. A, title VII, §706, Nov. 14, 1986, 100 Stat. 3905; Pub. L. 100–456, div. A, title VI, §645, Sept. 29, 1988, 102 Stat. 1988; Pub. L. 101–510, div. A, title VII, §718(a), (b)(2), Nov. 5, 1990, 104 Stat. 1586, 1587; Pub. L. 102–25, title VII, §705(h), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–160, div. A, title VII, §717(a), Nov. 30, 1993, 107 Stat. 1693.)
+(Pub. L. 98–94, title XII, §1252, Sept. 24, 1983, 97 Stat. 698; Pub. L. 98–557, §17(f)(2), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–661, div. A, title VII, §706, Nov. 14, 1986, 100 Stat. 3905; Pub. L. 100–456, div. A, title VI, §645, Sept. 29, 1988, 102 Stat. 1988; Pub. L. 101–510, div. A, title VII, §718(a), (b)(2), Nov. 5, 1990, 104 Stat. 1586, 1587; Pub. L. 102–25, title VII, §705(h), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–160, div. A, title VII, §717(a), Nov. 30, 1993, 107 Stat. 1693.)
 
 #### Codification
 
 Section was enacted as part of the Department of Defense Authorization Act, 1984, and not as part of the Public Health Service Act which comprises this chapter.
+
+Section is comprised of section 1252 of Pub. L. 98–94. Subsec. (g) of section 1252 of Pub. L. 98–94 amended section 248c of this title.
 
 #### Amendments
 
@@ -48,7 +50,7 @@ Subsec. (f). Pub. L. 101–510, §718(b)(2), added subsec. (f).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

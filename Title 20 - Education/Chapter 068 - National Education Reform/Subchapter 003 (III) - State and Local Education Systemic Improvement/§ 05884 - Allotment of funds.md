@@ -24,9 +24,9 @@ From funds appropriated under section 5883 of this title, the Secretary—
 
 From the amount appropriated under section 5883 of this title and not reserved under subsection (a) of this section in each fiscal year the Secretary shall make allotments to State educational agencies as follows:
 
-&emsp;(1) 50 percent of such amount shall be allocated in accordance with the relative amounts each State would have received under chapter 1<sup>1</sup> of title I of the Elementary and Secondary Education Act of 1965 for the preceding fiscalyear if funds under such chapter in such preceding fiscal year were not reserved for the outlying areas.
+&emsp;(1) 50 percent of such amount shall be allocated in accordance with the relative amounts each State would have received under chapter 1 <sup>1</sup> of title I of the Elementary and Secondary Education Act of 1965 for the preceding fiscal year if funds under such chapter in such preceding fiscal year were not reserved for the outlying areas.
 
-&emsp;(2) 50 percent of such amount shall be allocated in accordance with the relative amounts each State would have received under part A<sup>1</sup> of chapter 2 of title I of the Elementary and Secondary Education Act of 1965 for the preceding fiscal year if funds under such chapter in such preceding fiscal year were not reserved for the outlying areas.
+&emsp;(2) 50 percent of such amount shall be allocated in accordance with the relative amounts each State would have received under part A <sup>1</sup> of chapter 2 of title I of the Elementary and Secondary Education Act of 1965 for the preceding fiscal year if funds under such chapter in such preceding fiscal year were not reserved for the outlying areas.
 
 #### (c) Reallotments
 
@@ -36,15 +36,15 @@ If the Secretary determines that any amount of a State educational agency's allo
 
 Each recipient of funds under this subchapter, in utilizing the proceeds of an allotment received under this subchapter, shall maintain the expenditures of such recipient for the activities assisted under this subchapter at a level equal to not less than the level of such expenditures maintained by such recipient for the fiscal year preceding the fiscal year for which such allotment is received, except that the Secretary may reduce, temporarily or permanently, the level of expenditures required by this subsection if the Secretary determines that such recipient has justifiable reasons for a reduction in the level of expenditures required by this subsection.
 
-(Pub. L. 103 227, title III, §304, Mar. 31, 1994, 108 Stat. 158.)
+(Pub. L. 103–227, title III, §304, Mar. 31, 1994, 108 Stat. 158.)
 
 #### References in Text
 
-Chapter 1 and part A of chapter 2 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b), are chapter 1 and part A of chapter 2 of title I of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, 204, which were classified generally to division 1 (§2701 et seq.) and part A (§2921 et seq.) of division 2, respectively, of subchapter I of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Chapter 1 and part A of chapter 2 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b), are chapter 1 and part A of chapter 2 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, 204, which were classified generally to division 1 (§2701 et seq.) and part A (§2921 et seq.) of division 2, respectively, of subchapter I of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5851, 5886, 5887, 5893, 5894, 5895, 5897 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,0 +1,80 @@
+### §1701. Trade and development assistance
+
+#### (a) In general
+
+The President shall establish a program under this subchapter to provide for the sale of agricultural commodities to developing countries for dollars on credit terms, or for local currencies (including for local currencies on credit terms) for use under this subchapter. Such program shall be implemented by the Secretary.
+
+#### (b) General authority
+
+To carry out the policies and accomplish the objectives described in section 1691 of this title, the Secretary may negotiate and execute agreements with developing countries to finance the sale and exportation of agricultural commodities to such countries.
+
+(July 10, 1954, ch. 469, title I, §101, 68 Stat. 455; Sept. 6, 1958, Pub. L. 85–931, §1, 72 Stat. 1790; Aug. 8, 1961, Pub. L. 87–128, title II, §201(1), 75 Stat. 306; Dec. 16, 1963, Pub. L. 88–205, pt. IV, §403(a), 77 Stat. 390; Oct. 8, 1964, Pub. L. 88–638, §1(1), (2), 78 Stat. 1035; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1526; Dec. 29, 1981, Pub. L. 97–113, title IV, §401(1), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(c), 99 Stat. 1474; Dec. 22, 1987, Pub. L. 100–202, §8, 101 Stat. 1329–447; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633.)
+
+#### Amendments
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
+
+1987—Subsec. (b)(1). Pub. L. 100–202, §8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
+
+Subsec. (b)(2). Pub. L. 100–202, §8(2), inserted “, or enter into sales agreements not providing for sales for foreign currencies for use under section 1708 of this title,” after “currencies”.
+
+1985—Pub. L. 99–198 in amending section generally, incorporated existing text in provisions designated subsec. (a) and added subsecs. (b) to (d).
+
+1981—Pub. L. 97–113 substituted “, to the extent that sales for dollars under the terms applicable to such sales are not possible, for foreign currencies on credit terms and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement” for “for foreign currencies”.
+
+1966—Pub. L. 89–808 substituted “agreements with friendly countries to provide for the sale of agricultural commodities for dollars on credit terms or for foreign currencies” for “agreements with friendly nations or organizations of friendly nations to provide for the sale of surplus agricultural commodities for foreign currencies” and struck out subsecs. (a) to (d), (f), and (g), relating to safeguarding usual marketings and disruption of world prices and normal patterns of commercial trade with friendly countries, use of private channels to maximum extent practicable, development and expansion of foreign markets, restrictive commitments from participating countries, exchange rates, and currency conversion, now covered by section 1703(c), (e) to (h), and (m)(1) of this title, respectively, and subsec. (e), relating to maximum opportunity for friendly nation to purchase surplus agricultural commodities.
+
+1964—Subsec. (f). Pub. L. 88–638, §1(1), inserted “, and which are not less favorable than the highest of exchange rates obtainable by any other nation”, and struck out “from the government or agencies thereof” before “in the respective countries”.
+
+Subsec. (g). Pub. L. 88–638, §1(2), added subsec. (g).
+
+1963—Subsec. (f). Pub. L. 88–205 substituted “the highest of exchange rates legally obtainable from the Government or agencies thereof” for “the rates at which United States Government agencies can buy currencies from the United States disbursing officers”.
+
+1961—Subsec. (f). Pub. L. 87–128 added subsec. (f).
+
+1958—Subsec. (a). Pub. L. 85–931 required President to take reasonable precautions to assure that sales of surplus commodities would not disrupt normal patterns of commercial trade with friendly countries.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
+
+#### Emergency Food Assistance to India
+
+Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided: “That the Congress approves the participation of the United States in cooperation with other countries and with multilateral organizations, including the International Bank for Reconstruction and Development, the Organization for Economic Cooperation and Development, the Food and Agriculture Organization, and others, in urgent international efforts designed to—
+
+&emsp;“(a) develop a comprehensive self-help approach to the war on hunger based on a fair sharing of the burden among the nations of the world;
+
+&emsp;“(b) encourage and assist the Government of India in achieving food self-sufficiency; and
+
+&emsp;“(c) help meet India's critical food and nutritional needs by making available agricultural commodities or other resources needed for food procurement or production.
+
+“Because uncertainty in connection with Public Law 480 transactions tends to depress market prices, it is the sense of Congress that, in carrying out this Aid to India program, the Administration should, subject to the requirement of section 401 of Public Law 480 \[section 1731 of this title\] with respect to the availability of the commodity at the time of exportation, make announcements of intention, purchases and shipments of commodities on schedules and under circumstances which will protect and strengthen farm market prices to the maximum extent possible.
+
+“The Congress endorses the President's policy of equal participation on the part of the United States with all other nations, under terms and conditions set forth in Public Law 480, as amended \[this chapter\], in assisting the Government of India to meet these needs.
+
+“Further, the Congress recommends, on the basis of estimates now available, that the United States provide an additional amount of food grain not to exceed three million tons at an estimated cost of $190,000,000 as the United States share toward meeting the India food deficit, provided it is appropriately matched, and specifically extends its support to the allocation of approximately $190,000,000 of funds available to the Commodity Credit Corporation in calendar year 1967 which will be required to accomplish this purpose.
+
+“The Congress further recommends that the President provide an additional $25,000,000 of emergency food relief for distribution by CARE and other American voluntary agencies.”
+
+#### Cotton and Cotton Products
+
+Section 8 of Pub. L. 85–931 as amended by Pub. L. 89–808, §3(d), Nov. 11, 1966, 80 Stat. 1538, provided that: “In carrying out the provisions of the Agricultural Trade Development and Assistance Act of 1954, as amended \[this chapter\], extra long staple cotton shall be made available for sale pursuant to the provisions of title I of the Act \[this subchapter\] in the same manner as upland cotton or any other surplus agricultural commodity is made available, and products manufactured entirely from upland or long staple cotton shall be made available for sale pursuant to the provisions of title I of the Act \[this subchapter\] as long as cotton is in surplus supply in the same manner as any other agricultural commodity or product is made available, and no discriminatory or other conditions shall be imposed which will prevent or tend to interfere with their sale or availability for sale under the Act \[this chapter\].”
+
+Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
+
+#### Cargo Preference Law Exemption
+
+Section 3 of act Aug. 3, 1956, ch. 933, 70 Stat. 988, provided that: “Sales of fresh fruit and the products thereof under title I of the Act \[sections 1701 to 1704, 1705 to 1707, 1708 to 1711 of this title\] shall be exempt from the requirements of the cargo preference laws (Public Resolution 17, Seventy-third Congress \[46 App. U.S.C. 1241–1\] and section 901(b) of the Merchant Marine Act, 1936 \[46 App. U.S.C. 1241(b)\]).”
+
+#### Implementation of Program
+
+Program under this subchapter to provide for sale of agricultural commodities to developing countries to be implemented by Secretary of Agriculture, see Ex. Ord. No. 12752, §1(a), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 1922.
+

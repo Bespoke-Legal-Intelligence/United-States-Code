@@ -86,7 +86,7 @@ Par. (6). Pub. L. 93–289, §10(1), substituted “National Oceanic and Atmosph
 
 1972—Par. (1)(D). Pub. L. 92–315, §1(3), added cl. (D).
 
-Par. (5)(A). Pub. L. 92–315, §1(4), expanded definition of “member” to include persons in active duty as a cadet or midshipman at the United States MilitaryAcademy, United States Naval Academy, United States Air Force Academy and the United States Coast Guard Academy.
+Par. (5)(A). Pub. L. 92–315, §1(4), expanded definition of “member” to include persons in active duty as a cadet or midshipman at the United States Military Academy, United States Naval Academy, United States Air Force Academy and the United States Coast Guard Academy.
 
 1971—Pars. (7) to (9). Pub. L. 92–185 added pars. (7) to (9) defining, respectively, “widow” or “widower”, “child”, and “parent”.
 
@@ -102,7 +102,7 @@ Section 12(2) of Pub. L. 93–289 provided that: “The amendments relating to S
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–185 provided that: “The provisions of this Act \[amending this section\] shall apply only to Servicemen's Group Life Insurance in effect on the life of an insured member who dies on or after the date of enactment of this Act \[Dec. 15, 1971\].”
+Section 2 of Pub. L. 92–185 provided that: “The provisions of this Act \[amending this section\] shall applyonly to Servicemen's Group Life Insurance in effect on the life of an insured member who dies on or after the date of enactment of this Act \[Dec. 15, 1971\].”
 
 #### Effective Date of 1970 Amendment
 

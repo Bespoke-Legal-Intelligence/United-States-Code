@@ -90,11 +90,11 @@ Each State educational agency receiving a grant under this section shall submit 
 
 There are authorized to be appropriated $5,000,000 for fiscal year 1994 to carry out this section.
 
-(Pub. L. 103 227, title III, §317, Mar. 31, 1994, 108 Stat. 184; Pub. L. 103 382, title III, §361(d), Oct. 20, 1994, 108 Stat. 3975.)
+(Pub. L. 103–227, title III, §317, Mar. 31, 1994, 108 Stat. 184; Pub. L. 103–382, title III, §361(d), Oct. 20, 1994, 108 Stat. 3975.)
 
 #### Amendments
 
-1994—Subsec. (b)(3). Pub. L. 103 382 added par. (3).
+1994—Subsec. (b)(3). Pub. L. 103–382 added par. (3).
 
 #### Section Referred to in Other Sections
 

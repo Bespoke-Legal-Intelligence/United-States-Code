@@ -8,7 +8,7 @@ In order to maintain existing conformity between the Civil Service Retirement an
 
 &emsp;(2) affects treatment which, immediately prior to the enactment of such law, was substantially identical to the treatment accorded to participants, former participants, annuitants, or survivors under the Foreign Service Retirement and Disability System;
 
-> such law shall be extended in accordance with subsection (b) of this section to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
+> such law shall be extended in accordance with subsection (b) of this section to the ForeignService Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
 
 #### (b) Regulations to implement prescribed by Executive order
 
@@ -70,7 +70,7 @@ Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, provided:
 
 By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
-Section 1. <i>Interest Rates, Deposits, Refunds, and Redeposits</i>. (a) The second sentence of Section 805(d)(3) of the Act (22 U.S.C. 4045(d)(3)), the first sentence of Section 815(h) (22 U.S.C. 4055(h)), and the first sentence of Section 825(a) (22 U.S.C. 4065(a)), are deemed to be amended to provide that interest shall be compounded at at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 819 \[22 U.S.C. 4059\], as determined by the Secretary of the Treasury.
+Section 1. <i>Interest Rates, Deposits, Refunds, and Redeposits</i>. (a) The second sentence of Section 805(d)(3) of the Act (22 U.S.C. 4045(d)(3)), the first sentence of Section 815(h) (22 U.S.C. 4055(h)), and the first sentence of Section 825(a) (22 U.S.C. 4065(a)), are deemed to beamended to provide that interest shall be compounded at at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 819 \[22 U.S.C. 4059\], as determined by the Secretary of the Treasury.
 
 (b) Sections 806(a) and 816(d) of the Act (22 U.S.C. 4046(a) and 4056(d)) are deemed to be amended to exclude from the computation of creditable civilian service under section 816(a) of the Act any period of civilian service for which retirement deductions or contributions have not been made under section 805(d) \[22 U.S.C. 4045\] of the Act unless—
 

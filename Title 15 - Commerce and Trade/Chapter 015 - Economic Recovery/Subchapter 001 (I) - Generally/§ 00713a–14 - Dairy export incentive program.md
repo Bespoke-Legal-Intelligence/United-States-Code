@@ -52,7 +52,7 @@ Subsec. (d)(2), (3). Pub. L. 100–418 amended pars. (2) and (3) generally. Prio
 
 “(2) If payments in commodities are authorized, such payments may be made through the issuance of certificates redeemable in commodities.
 
-“(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shall ensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
+“(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shallensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
 
 #### Effective Date of 1994 Amendment
 

@@ -4,7 +4,7 @@ subpart 2—program for middle and secondary school teachers
 
 This subpart is referred to in section 8202 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “students”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “students”.</i>
 
 
 ---

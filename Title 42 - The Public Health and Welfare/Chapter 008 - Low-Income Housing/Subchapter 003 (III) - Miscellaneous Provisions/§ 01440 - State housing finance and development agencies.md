@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose; participation by private and nonprofit developers in activities assisted
 
-It is the purpose of this section to encourage the formation and effective operation of Statehousing finance agencies and State development agencies which have authority to finance, to assist in carrying out, or to carry out activities designed to (1) provide housing and related facilities through land acquisition, construction, or rehabilitation, for persons and families of low, moderate, and middle income, (2) promote the sound growth and development of neighborhoods through the revitalization of slum and blighted areas, (3) increase and improve employment opportunities for the unemployed and underemployed through the development and redevelopment of industrial, manufacturing, and commercial facilities, or (4) implement the development aspects of State land use and preservation policies, including the advance acquisition of land where it is consistent with such policies. The Secretary of Housing and Urban Development shall encourage maximum participation by private and nonprofit developers in activities assisted under this section.
+It is the purpose of this section to encourage the formation and effective operation of State housing finance agencies and State development agencies which have authority to finance, to assist in carrying out, or to carry out activities designed to (1) provide housing and related facilities through land acquisition, construction, or rehabilitation, for persons and families of low, moderate, and middle income, (2) promote the sound growth and development of neighborhoods through the revitalization of slum and blighted areas, (3) increase and improve employment opportunities for the unemployed and underemployed through the development and redevelopment of industrial, manufacturing, and commercial facilities, or (4) implement the development aspects of State land use and preservation policies, including the advance acquisition of land where it is consistent with such policies. The Secretary of Housing and Urban Development shall encourage maximum participation by private and nonprofit developers in activities assisted under this section.
 
 #### (b) Determination of eligibility for assistance; definitions
 
@@ -10,7 +10,7 @@ It is the purpose of this section to encourage the formation and effective opera
 
 (2) For the purpose of this section—
 
-&emsp;(A) the term “State housing finance or State development agency” means any public body or agency, publicly sponsored corporation, or instrumentality of one or more States which is designated by the Governor (or Governors in the case of an interstate development agency) for purposes of this section;
+&emsp;(A) the term “State housing finance or State development agency” means any public bodyor agency, publicly sponsored corporation, or instrumentality of one or more States which is designated by the Governor (or Governors in the case of an interstate development agency) for purposes of this section;
 
 &emsp;(B) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and
 

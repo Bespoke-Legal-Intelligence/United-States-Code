@@ -20,7 +20,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(H) an individual employed by Gallaudet College;
 
-&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838);
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President undersection 1(b) of the Act of August 25, 1958 (72 Stat. 838);
 
 &emsp;&emsp;(J) an alien (i) who was previously employed by the Government, (ii) who is employed full time by a foreign government for the purpose of protecting or furthering the interests of the United States during an interruption of diplomatic or consular relations, and (iii) for whose services reimbursement is made to the foreign government by the United States;
 
@@ -38,7 +38,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(iv) an individual or group of individuals employed by the government of the District of Columbia excluded by the Office under section 8347(h) of this title;
 
-&emsp;&emsp;(v) an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section610 of title 28, excluded by the Director of the Administrative Office under section 8347(<i>o</i>) of this title;
+&emsp;&emsp;(v) an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, excluded by the Director of the Administrative Office under section 8347(<i>o</i>) of this title;
 
 &emsp;&emsp;(vi) a construction employee or other temporary, part-time, or intermittent employee of the Tennessee Valley Authority;
 
@@ -154,7 +154,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) employees of the Department of Corrections of the District of Columbia, its industries and utilities;
 
-> &emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniformed Code of Military Justice (chapter 47 of title 10) require frequent (as determined by the appropriate administrative authority with the concurrence of the Office) direct contact with these individuals in their detention, direction, supervision, inspection, training, employment, care, transportation, or rehabilitation;
+> &emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniformed Code of Military Justice (chapter 47 of title 10) require frequent (as determined by the appropriate administrative authority with the concurrence of the Office) direct contact withthese individuals in their detention, direction, supervision, inspection, training, employment, care, transportation, or rehabilitation;
 
 &emsp;(21) “firefighter” means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position;
 
@@ -366,11 +366,11 @@ Section 167 of the Federal Courts Improvement Act of 1982, referred to in par. (
 
 #### Amendments
 
-1994—Par. (13). Pub. L. 103–353 inserted before semicolon at end “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
+<b>1994</b>—Par. (13). Pub. L. 103–353 inserted before semicolon at end “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
-1993—Par. (3). Pub. L. 103–66 added subpar. (E), and in closing provisions substituted “subparagraphs (B), (C), (D), and (E) of this paragraph” for “subparagraphs (B), (C), and (D) of this paragraph,”.
+<b>1993</b>—Par. (3). Pub. L. 103–66 added subpar. (E), and in closing provisions substituted “subparagraphs (B), (C), (D), and (E) of this paragraph” for “subparagraphs (B), (C), and (D) of this paragraph,”.
 
-1992—Par. (1)(L). Pub. L. 102–378, §2(57)(A)(i), substituted “section 8347(q)(1)” for “section 8347(p)(1)”.
+<b>1992</b>—Par. (1)(L). Pub. L. 102–378, §2(57)(A)(i), substituted “section 8347(q)(1)” for “section 8347(p)(1)”.
 
 Par. (1)(ii). Pub. L. 102–378, §2(57)(A)(ii), substituted “section 8347(q)(2)” for “section 8347(p)(2)”.
 
@@ -378,7 +378,7 @@ Par. (7). Pub. L. 102–378, §2(57)(B), substituted “University” for “Col
 
 Par. (26). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” and “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Par. (1)(L). Pub. L. 101–508, §7202(j)(1)(A)–(C), added subpar. (L).
+<b>1990</b>—Par. (1)(L). Pub. L. 101–508, §7202(j)(1)(A)–(C), added subpar. (L).
 
 Par. (1)(ii). Pub. L. 101–508, §7202(j)(1)(D), substituted “(besides any employee excluded by clause (x), but including any employee who has made an election under section 8347(p)(2) to remain covered by a retirement system established for employees described in section 2105(c))” for “(other than an employee described in clause (x)”.
 
@@ -388,7 +388,7 @@ Par. (7). Pub. L. 101–508, §7202(j)(1)(E), substituted “Gallaudet College, 
 
 Par. (26). Pub. L. 101–650 added par. (26).
 
-1988—Par. (1)(K). Pub. L. 100–679 added subpar. (K).
+<b>1988</b>—Par. (1)(K). Pub. L. 100–679 added subpar. (K).
 
 Par. (1)(xii). Pub. L. 100–238, §112, added cl. (xii).
 
@@ -398,7 +398,7 @@ Par. (18). Pub. L. 100–238, §123, inserted “but does not include any amount
 
 &emsp;“(ii) contributions made under the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 by or on behalf of any individual who became subject to the Federal Employees’ Retirement System;”.
 
-1987—Par. (22). Pub. L. 100–53, §2(a)(1), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “ ‘bankruptcy judge’ means an individual appointed under section 34 of the Bankruptcy Act (11 U.S.C. 62) or under section 404(d) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)—
+<b>1987</b>—Par. (22). Pub. L. 100–53, §2(a)(1), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “ ‘bankruptcy judge’ means an individual appointed under section 34 of the Bankruptcy Act (11 U.S.C. 62) or under section 404(d) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)—
 
 &emsp;“(A) who is serving as a United States bankruptcy judge on March 31, 1984;
 
@@ -408,7 +408,7 @@ Par. (18). Pub. L. 100–238, §123, inserted “but does not include any amount
 
 Par. (25). Pub. L. 100–53, §2(a)(2)–(4), added par. (25).
 
-1986—Par. (1)(G). Pub. L. 99–335, §207(f)(1), amended subpar. (G) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Par. (1)(G). Pub. L. 99–335, §207(f)(1), amended subpar. (G) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
 Par. (1)(ii). Pub. L. 99–335, §202(a)(1), amended cl. (ii) generally, inserting “(other than an employee described in clause (x)”.
 
@@ -418,7 +418,7 @@ Par. (1)(xi). Pub. L. 99–335, §207(f)(2), added cl. (xi).
 
 Par. (2). Pub. L. 99–335, §202(b), inserted “, but does not include any such Member of Congress who is subject to the Federal Employees’ Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System”.
 
-1984—Par. (22). Pub. L. 98–353, §116(a)(1), substituted “of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)” for “adding this paragraph” in provision preceding subpar. (A).
+<b>1984</b>—Par. (22). Pub. L. 98–353, §116(a)(1), substituted “of November 6, 1978 (Public Law 95–598; 92 Stat. 2549)” for “adding this paragraph” in provision preceding subpar. (A).
 
 Par. (22)(A). Pub. L. 98–531 substituted “who is serving as a United States bankruptcy judge on March 31, 1984;” for “who is serving as a United States bankruptcy judge on the date of enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984, and continues to serve as a bankruptcy judge after such date until either the date on which a successor for such judge is appointed, or October 1, 1986, whichever date is earlier;”.
 
@@ -442,33 +442,33 @@ Par. (22)(C). Pub. L. 98–353, §116(a)(4), added subpar. (C).
 
 Pars. (23), (24). Pub. L. 98–615 added pars. (23) and (24).
 
-1982—Par. (8)(B). Pub. L. 97–253, §306(a), inserted “, including any amounts deposited under section 8334(j) of this title”.
+<b>1982</b>—Par. (8)(B). Pub. L. 97–253, §306(a), inserted “, including any amounts deposited under section 8334(j) of this title”.
 
-1980—Par. (6). Pub. L. 96–499 struck out par. (6) which defined “disabled” and “disability” as meaning totally disabled or total disability for useful and efficient service in the grade or class of position last occupied by the employee or Member because of disease or injury not due to vicious habits, intemperance, or wilful misconduct on his part within 5 years of becoming disabled.
+<b>1980</b>—Par. (6). Pub. L. 96–499 struck out par. (6) which defined “disabled” and “disability” as meaning totally disabled or total disability for useful and efficient service in the grade or class of position last occupied by the employee or Member because of disease or injury not due to vicious habits, intemperance, or wilful misconduct on his part within 5 years of becoming disabled.
 
-1979—Par. (2). Pub. L. 96–54, §2(a)(47)(A), struck out “and a Delegate to Congress,” after “title,”.
+<b>1979</b>—Par. (2). Pub. L. 96–54, §2(a)(47)(A), struck out “and a Delegate to Congress,” after “title,”.
 
 Par. (19)(C). Pub. L. 96–54, §2(a)(47)(B), struck out “and” after “determined;”.
 
-1978—Pars. (1), (17), (20). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Pars. (1), (17), (20). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 Par. (22). Pub. L. 95–598 added par. (22).
 
-1975—Par. (4). Pub. L. 94–183 struck out provision relating to member's option of having average pay computed from averaging rates of basic pay in effect over all periods of member's service after August 2, 1946.
+<b>1975</b>—Par. (4). Pub. L. 94–183 struck out provision relating to member's option of having average pay computed from averaging rates of basic pay in effect over all periods of member's service after August 2, 1946.
 
-1974—Par. (3). Pub. L. 93–350, §2(a), added subpar. (D) and inserted reference to subpar. (D) in closing provisions of par. (3).
+<b>1974</b>—Par. (3). Pub. L. 93–350, §2(a), added subpar. (D) and inserted reference to subpar. (D) in closing provisions of par. (3).
 
 Pars. (20), (21). Pub. L. 93–350, §2(b), added pars. (20) and (21).
 
-1972—Par. (1)(J). Pub. L. 92–352 added par. (1)(J).
+<b>1972</b>—Par. (1)(J). Pub. L. 92–352 added par. (1)(J).
 
-1969—Par. (4)(A). Pub. L. 91–93, §201(a), reduced the number of years of creditable service from 5 to 3 consecutive years and provided for averaging rate of basic pay over the total service in the case of an annuity under subsec. (d) or (e)(1) of section 8341 of this title based on service of less than three years.
+<b>1969</b>—Par. (4)(A). Pub. L. 91–93, §201(a), reduced the number of years of creditable service from 5 to 3 consecutive years and provided for averaging rate of basic pay over the total service in the case of an annuity under subsec. (d) or (e)(1) of section 8341 of this title based on service of less than three years.
 
 Pars. (17) to (19). Pub. L. 91–93, §101, added pars. (17) to (19).
 
-1968—Par. (3)(B)(ii). Pub. L. 90–623 inserted reference to section 60e–14 of title 2.
+<b>1968</b>—Par. (3)(B)(ii). Pub. L. 90–623 inserted reference to section 60e–14 of title 2.
 
-1966—Par. (3). Pub. L. 89–737 added subpar. (C) and, in the exception set out in provisions following subpar. (C), substituted reference to subpars. (B) and (C) for reference to subpar. (B).
+<b>1966</b>—Par. (3). Pub. L. 89–737 added subpar. (C) and, in the exception set out in provisions following subpar. (C), substituted reference to subpars. (B) and (C) for reference to subpar. (B).
 
 #### Change of Name
 
@@ -480,11 +480,11 @@ Commissioned Officer Corps of Environmental Science Services Administration, ref
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1993 Amendment
 
-Section 13812(c)(1) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] take effect on January 1, 1994, and apply only with respect to service performed on or after such date.”
+Section 13812(c)(1) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amendingthis section\] take effect on January 1, 1994, and apply only with respect to service performed on or after such date.”
 
 #### Effective Date of 1992 Amendments
 
@@ -496,7 +496,7 @@ Amendment by section 2(57)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and a
 
 Section 306(f) of Pub. L. 101–650, as amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “This section and the amendments made by this section \[enacting section 8440b \[now 8440c\] of this title and section 178 of Title 28, Judiciary and Judicial Procedure and amending this section, sections 8334, 8336, 8339, and 8402 of this title, and sections 376 and 604 of Title 28\] shall apply to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is notdescribed in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -556,7 +556,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day of first pay period which begins after Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
+Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day offirst pay period which begins after Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
 
 #### Short Title of 1994 Amendment
 
@@ -576,7 +576,7 @@ Pub. L. 99–638, §2(a), Nov. 10, 1986, 100 Stat. 3535, provided that: “This 
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–615 provided: “That this Act \[enacting sections 3595a, 4302a and 5406–5410 of thistitle, amending this section and sections 3135, 3393, 3395, 3593–3595, 4312, 4501, 5332, 5334–5336, 5361, 5362, 5383, 5384, 5401–5405, 5948, 7543, 8334, 8336, 8339, 8341, 8342, 8345, 8348, 8901–8903, 8905, 8907, 8909, and 8913 of this title, section 1602 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 3131, 3135, 5401, and 8341 of this title\] may be cited as the ‘Civil Service Retirement Spouse Equity Act of 1984’.”
+Section 1 of Pub. L. 98–615 provided: “That this Act \[enacting sections 3595a, 4302a and 5406–5410 of this title, amending this section and sections 3135, 3393, 3395, 3593–3595, 4312, 4501, 5332, 5334–5336, 5361, 5362, 5383, 5384, 5401–5405, 5948, 7543, 8334, 8336, 8339, 8341, 8342, 8345, 8348, 8901–8903, 8905, 8907, 8909, and 8913 of this title, section 1602 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 3131, 3135, 5401, and 8341 of this title\] may be cited as the ‘Civil Service Retirement Spouse Equity Act of 1984’.”
 
 #### Short Title of 1969 Amendment
 
@@ -588,19 +588,17 @@ Section 105(c) of Pub. L. 92–352 provided that: “The amendments made by such
 
 #### Additional Agency Contributions to Retirement Fund
 
-Pub. L. 103–226, §4, Mar. 30, 1994, 108 Stat. 114, provided that:
+Pub. L. 103–226, §4, Mar. 30, 1994, 108 Stat. 114, as amended by Pub. L. 104–52, title IV, §3, Nov. 19, 1995, 109 Stat. 490, provided that:
 
 “(a)
 
-Relating to Fiscal Years 1994
-
-and 1995.—
+Relating to Voluntary Separation Incentive Payments.—
 
 &emsp;“(1)
 
 In general.—In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, an agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 9 percent of the final basic pay of each employee of the agency—
 
-&emsp;&emsp;“(A) who, on or after the date of the enactment of this Act \[Mar. 30, 1994\] and before October 1, 1995, retires under section 8336(d)(2) of such title; and
+&emsp;&emsp;“(A) who, on or after the date of the enactment of this Act \[Mar. 30, 1994\] retires under section 8336(d)(2) of such title; and
 
 &emsp;&emsp;“(B) to whom a voluntary separation incentive payment has been or is to be paid by such agency based on that retirement.
 
@@ -644,7 +642,7 @@ Pub. L. 99–556, title V, §505, Oct. 27, 1986, 100 Stat. 3141, provided that: 
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
-Pub. L. 99–335, title II, §207(<i>o</i>), as added by Pub. L. 100–238, title I, §109(a), Jan. 8, 1988, 101 Stat. 1748, provided that: “An employee of Saint Elizabeths Hospital who is appointed to a position in the government of the District of Columbia on October 1, 1987, pursuant to the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (Public Law 98–621; 98 Stat. 3369 and following) \[see Short Title note set out under section 225 of Title 24, Hospitals and Asylums\] shall, for purposes of chapters 83, 87, and 89 of title 5, United States Code, be treated in the same way as an individual first employed by the government of the District of Columbia before October 1, 1987.”
+Pub. L. 99–335, title II, §207(<i>o</i>), as added by Pub. L. 100–238, title I, §109(a), Jan. 8, 1988, 101 Stat. 1748, provided that: “An employee of Saint Elizabeths Hospital who is appointed to a position in the government of the District of Columbia on October 1, 1987, pursuant to the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (Public Law 98–621; 98 Stat.3369 and following) \[see Short Title note set out under section 225 of Title 24, Hospitals and Asylums\] shall, for purposes of chapters 83, 87, and 89 of title 5, United States Code, be treated in the same way as an individual first employed by the government of the District of Columbia before October 1, 1987.”
 
 \[Section 109(b) of Pub. L. 100–238 provided that: “The amendment made by this section \[enacting note above\] shall be effective as of October 1, 1987.”\]
 
@@ -666,7 +664,7 @@ Elections for Individuals Subject to the Civil Service Retirement System.—(1)(
 
 “(3)(A) Except as provided in subparagraph (B), any individual—
 
-&emsp;“(i) who is excluded from the operation of subchapter III of chapter 83 of title 5, United StatesCode, under subsection (g), (i), (j), or (<i>l</i>) of section 8347 of such title, and
+&emsp;“(i) who is excluded from the operation of subchapter III of chapter 83 of title 5, United States Code, under subsection (g), (i), (j), or (<i>l</i>) of section 8347 of such title, and
 
 &emsp;“(ii) with respect to whom chapter 84 of title 5, United States Code, does not apply because of section 8402(b)(2) of such title,
 
@@ -730,7 +728,7 @@ Condition for Making an Election; Extension To Satisfy Condition.—(1) An elect
 
 &emsp;“(B) that, due to exceptional circumstances, requiring the individual to seek the former spouse's consent would otherwise be inappropriate.
 
-“(4)(A) The Office shall, upon application of an individual, grant an extension for such individual to make an election referred to in paragraph (1) if such individual—
+“(4)(A) The Office shall, upon application of an individual, grant an extension for such individual to makean election referred to in paragraph (1) if such individual—
 
 &emsp;“(i) files application for extension before the end of the period during which such individual would otherwise be eligible to make such election; and
 
@@ -934,7 +932,7 @@ Section 117 of Pub. L. 98–353 provided that: “The adjustments in the retirem
 
 Pub. L. 98–369, div. B, title II, §2206, July 18, 1984, 98 Stat. 1059, provided that:
 
-“(a) For the purposes of this section, the term ‘covered retirement system’ shall have the same meaning as provided in section 203(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (Public Law 98–168; 97 Stat. 1107) \[set out below\].
+“(a) For the purposes of this section, the term ‘covered retirement system’ shall have the same meaningas provided in section 203(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (Public Law 98–168; 97 Stat. 1107) \[set out below\].
 
 “(b)(1) Any individual who was entitled to make an election under section 208(a) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (97 Stat. 1111) \[set out below\], but who did not make such an election, may make an election under such section not later than September 15, 1984.
 
@@ -1072,11 +1070,11 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 “(2) Notwithstanding any other provision of law, any annuity which commences under a covered retirement system during the period described in subsection (b)(2)(A)(i) and is based, in any part, on interim covered service shall be reduced by the portion of the amount of any benefits which is payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to the annuitant and is attributable to such service, as determined under subsection (g).
 
-“(3) Notwithstanding any other provision of law, if a new Government retirement system is not established, the interim covered service of such a covered employee who retires or dies after January 1, 1987, shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
+“(3) Notwithstanding any other provision of law, if a new Government retirement system is not established,the interim covered service of such a covered employee who retires or dies after January 1, 1987, shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
 
 “(d) If a covered employee with respect to whom subsection (b)(3) or (c)(3) applies dies without having made a deposit pursuant to such subsection, any individual who is entitled to an annuity under a covered retirement system based on the service of such covered employee or who would be entitled to such an annuity if such deposit had been made by the covered employee before death may make such deposit after the date of death of such covered employee. Service covered by a deposit made pursuant to the first sentence shall be considered in determining, in the case of each individual to whom the first sentence applies, the entitlement to and the amount of an annuity under a covered retirement system based on the service of such covered employee.
 
-“(e) A reduction in annuity under subsection (b)(2)(B) or (c)(2) shall commence on the first day of the first month after the date on which payment of benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] commence and shall be redetermined each time an increase in such benefits takes effect pursuant to section 215(i) of the Social Security Act \[42 U.S.C. 415(i)\]. In the case of an annuity of a participant or former participant in a covered retirement system, of a surviving spouse or child of such participant or former participant, or of any other person designated by such participant or former participant to receive an annuity, under a covered retirement system (other than a former spouse) the reduction in annuity undersubsection (b)(2)(B) or (c)(2) shall be calculated before any reduction in such annuity provided under such system for the purpose of paying an annuity under such system to any former spouse of such participant or former participant based on the service of such participant or former participant.
+“(e) A reduction in annuity under subsection (b)(2)(B) or (c)(2) shall commence on the first day of the first month after the date on which payment of benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] commence and shall be redetermined each time an increase in such benefits takes effect pursuant to section 215(i) of the Social Security Act \[42 U.S.C. 415(i)\]. In the case of an annuity of a participant or former participant in a covered retirement system, of a surviving spouse or child of such participant or former participant, or of any other person designated by such participant or former participant to receive an annuity, under a covered retirement system (other than a former spouse) the reduction in annuity under subsection (b)(2)(B) or (c)(2) shall be calculated before any reduction in such annuity provided under such system for the purpose of paying an annuity under such system to any former spouse of such participant or former participant based on the service of such participant or former participant.
 
 “(f) For the purposes of subsection (b) or (c), the amount of a deposit to the credit of the applicable covered retirement system shall be equal to the excess of—
 
@@ -1136,7 +1134,7 @@ Section 13 of Pub. L. 85–550, July 25, 1958, 72 Stat. 410, as amended by Pub. 
 
 “(a) Effective on and after the first day of the first pay period which begins in the third calendar month following the calendar month in which this Act is enacted \[July 1958\]—
 
-&emsp;“The Act of July 8, 1937 (50 Stat. 478; 68 Stat. 17; Public Numbered 191, Seventy-fifth Congress; Public Law 299, Eighty-third Congress), shall apply only with respect to those individuals within the classes of individuals subject to such Act of July 8, 1937, whose employment shall have been terminated, prior to such first day of such first pay period, in the manner provided by the first section of such Act; and
+&emsp;“The Act of July 8, 1937 (50 Stat. 478; 68 Stat. 17; Public Numbered 191, Seventy-fifth Congress; Public Law 299, Eighty-third Congress), shall apply only with respect to those individuals within the classes of individuals subject to such Act of July 8, 1937, whose employment shall have been terminated, prior tosuch first day of such first pay period, in the manner provided by the first section of such Act; and
 
 “(b) On on before the first day of the first pay period which begins in the third calendar month following the calendar month in which this Act is enacted \[July 1958\], the Panama Canal Company shall pay, as an agency contribution, into the civil service retirement and disability fund created by the Act of May 22, 1920, for each individual—
 
@@ -1156,7 +1154,7 @@ Section 13 of Pub. L. 85–550, July 25, 1958, 72 Stat. 410, as amended by Pub. 
 
 &emsp;“(1) the rights of any individual existing immediately prior to such first day of such first pay period above specified, or
 
-&emsp;“(2) the continuing obligations of the Canal Zone Government and the Panama Canal Company under section 4(a) of the Civil Service Retirement Act (5U.S.C. 2254(a)) \[section 8334(a) of this title\], to reimburse the civil service retirement and disability fund for Government contributions to such fund covering service performed, on or after such first day of such first pay period above specified, by the employees concerned.”
+&emsp;“(2) the continuing obligations of the Canal Zone Government and the Panama Canal Company under section 4(a) of the Civil Service Retirement Act (5 U.S.C. 2254(a)) \[section 8334(a) of this title\], to reimburse the civil service retirement and disability fund for Government contributions to such fund covering service performed, on or after such first day of such first pay period above specified, by the employees concerned.”
 
 #### Members of Civilian Faculties of United States Naval Academy and United States Naval Postgraduate School
 

@@ -14,5 +14,5 @@ The Secretary shall give special consideration to applications describing progra
 
 &emsp;(3) promote the sequential study of a foreign language for students, beginning in elementary schools.
 
-(Pub. L. 89 10, title VII, §7204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3738.)
+(Pub. L. 89–10, title VII, §7204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3738.)
 

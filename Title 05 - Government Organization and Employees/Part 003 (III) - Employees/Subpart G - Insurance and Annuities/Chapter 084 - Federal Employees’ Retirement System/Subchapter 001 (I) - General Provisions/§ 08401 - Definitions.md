@@ -86,7 +86,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
 
-&emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees’ Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters’ Retirement System, as determined by the Secretary of the Interior or the Secretary of the Treasury, as appropriate;
+&emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees’ Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters’ Retirement System, as determined by the Secretary of the Interior orthe Secretary of the Treasury, as appropriate;
 
 &emsp;&emsp;(C) an employee who is transferred directly to a supervisory or administrative position after performing duties described in subparagraph (A) and (B) for at least 3 years; and
 
@@ -188,13 +188,13 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 #### Amendments
 
-1994—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1994</b>—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
 
 Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
-1990—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
+<b>1990</b>—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
 
 Par. (11)(i)(I). Pub. L. 101–474 struck out “(v),” after “(i),”.
 
@@ -204,7 +204,7 @@ Par. (15). Pub. L. 101–508, §7202(k)(1)(B), substituted “, Gallaudet Colle
 
 Par. (32). Pub. L. 101–335 added par. (32).
 
-1988—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
+<b>1988</b>—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
 
 Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
 
@@ -216,7 +216,7 @@ Par. (14)(B). Pub. L. 100–238, §103(c)(2), substituted “for at least 3 year
 
 Par. (17). Pub. L. 100–238, §103(a)(2), (c)(1), in subpar. (A)(ii), substituted “should be” for “are required to be”, added subpar. (B), redesignated former subpar. (B) as (C) and amended it generally, substituting “subparagraph (A) and (B) for at least 3 years” for “subparagraph (A) for at least 10 years”, redesignated former subpar. (C) as (D), and in concluding provisions, substituted “should be” for “are required to be”.
 
-1986—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
+<b>1986</b>—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
 
 Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
 
@@ -224,7 +224,7 @@ Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated f
 
 #### Effective Date of 1994 Amendments
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238, set out as a note under section 3307 of this title.
+Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) ofPub. L. 100–238, set out as a note under section 3307 of this title.
 
 Section 113(b)(2) of Pub. L. 100–238 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
 
@@ -277,6 +277,10 @@ Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478
 #### Short Title
 
 Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+
+#### Service as Law Enforcement Officer
+
+Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, provided that: “Service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title.”
 
 #### Congressional Declaration of Purpose
 

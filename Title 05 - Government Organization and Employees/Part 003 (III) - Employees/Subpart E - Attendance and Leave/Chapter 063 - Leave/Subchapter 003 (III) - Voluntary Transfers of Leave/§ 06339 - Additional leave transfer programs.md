@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(E) with respect to the Central Imagery Office, the Director of the Central Imagery Office; and
 
-&emsp;&emsp;(F) with respect to an Executive agency designated under paragraph (1)(F), the head of such Executive agency, and with respect to a unit of an Executive agency designated under paragraph (1)(F), such individual as the President may determine.
+&emsp;&emsp;(F) with respect to an Executive agency designated under paragraph (1)(F), the head of such Executive agency, and with respectto a unit of an Executive agency designated under paragraph (1)(F), such individual as the President may determine.
 
 (b) Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.
 
@@ -46,7 +46,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1)(E), (F). Pub. L. 103–359, §501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
+<b>1994</b>—Subsec. (a)(1)(E), (F). Pub. L. 103–359, §501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
 
 Subsec. (a)(2)(E), (F). Pub. L. 103–359, §501(i)(2), added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
 

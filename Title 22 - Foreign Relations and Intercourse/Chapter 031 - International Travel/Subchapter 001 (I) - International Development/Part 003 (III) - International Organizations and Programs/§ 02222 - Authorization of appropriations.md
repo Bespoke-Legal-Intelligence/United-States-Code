@@ -62,7 +62,7 @@ In addition to amounts otherwise available under this section, there are authori
 
 #### (j) Authorization of appropriations for multilateral and regional drug abuse control programs
 
-In addition to amounts otherwise available under this section for such purposes, there are authorized to be appropriated to the President $3,000,000 for fiscal year 1989 to be available only for United States contributions to multilateral and regional drug abuse control programs. Of the amount authorized to be appropriated by this subsection—
+In addition to amounts otherwise available under this section for such purposes, there areauthorized to be appropriated to the President $3,000,000 for fiscal year 1989 to be available only for United States contributions to multilateral and regional drug abuse control programs. Of the amount authorized to be appropriated by this subsection—
 
 &emsp;(1) $2,000,000 shall be for a United States contribution to the United Nations Fund for Drug Abuse Control;
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 90–554, §108(b), added subsec. (d).
 
 Subsec. (b). Pub. L. 90–137, §110(b)(2), substituted appropriation authorization of $51,220,000 for fiscal year 1969, for Indus Basin Development for appropriations authorization of $1,000,000 for fiscal year 1967, for contributions to United Nations Children's Fund during calendar year 1967 and for exclusion of such contributions from computation of aggregate amount of United States contributions to the fund during calendar year 1967.
 
-1966—Subsec. (a). Pub. L. 89–583 designated existing provisions as subsec. (a) and (c), substituted in subsec.\(a) “grants” for “use” and authorization of $140,433,000 for fiscal year 1967 for authorization of $144,755,000 for fiscal year 1966, and added subsec. (b).
+1966—Subsec. (a). Pub. L. 89–583 designated existing provisions as subsec. (a) and (c), substituted in subsec. (a) “grants” for “use” and authorization of $140,433,000 for fiscal year 1967 for authorization of $144,755,000 for fiscal year 1966, and added subsec. (b).
 
 1965—Pub. L. 89–171 substituted “1966” and “$144,755,000” for “1965” and “$134,272,400”, respectively.
 

@@ -16,7 +16,7 @@ There is established within the Department of the Interior a Commission to be kn
 
 (B) The Secretary shall publish in the Federal Register the name and other information the Secretary deems pertinent regarding a nominee for membership on the Commission and shall allow a period of not less than thirty days for receipt of public comment.
 
-(3) Not more than two members of the Commission shall be of the same political party. At least two members of the Commission shall be enrolled members of any Indian tribe.
+(3) Not more than two members of the Commission shall be of the same political party. Atleast two members of the Commission shall be enrolled members of any Indian tribe.
 
 (4)(A) Except as provided in subparagraph (B), the term of office of the members of the Commission shall be three years.
 

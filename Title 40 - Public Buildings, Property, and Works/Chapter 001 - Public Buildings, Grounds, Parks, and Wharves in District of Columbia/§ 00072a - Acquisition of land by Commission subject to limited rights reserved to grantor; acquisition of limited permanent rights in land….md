@@ -20,5 +20,5 @@ In opening clause, “National Capital Planning Commission” substituted for �
 
 #### Delegation of Functions
 
-Authority of President under this section to approve contracts for acquisition of land subject to limitedrights reserved to grantor and for acquisition of limited permanent rights in land adjoining park property delegated to Director of Office of Management and Budget, see section 9(5) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under this section to approve contracts for acquisition of land subject to limited rights reserved to grantor and for acquisition of limited permanent rights in land adjoining park property delegated to Director of Office of Management and Budget, see section 9(5) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

@@ -14,5 +14,5 @@ A prior section 1320a–2, act Aug. 14, 1935, ch. 531, title XI, §1123, as adde
 
 #### Effective Date
 
-Section 555(b) of Pub. L. 103–382 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions pending on the date of the enactment of this Act \[Oct. 20, 1994\] and to actions brought on or after such date of enactment.”
+Section 555(b) of Pub. L. 103–382 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions pending on the date of theenactment of this Act \[Oct. 20, 1994\] and to actions brought on or after such date of enactment.”
 

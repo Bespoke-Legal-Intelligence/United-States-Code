@@ -26,7 +26,7 @@
 
 (2) In conducting any investigation under this chapter, the Secretary or the Comptroller General of the United States may not request the compilation of any new information not readily available to such recipient.
 
-(3)(A) In carrying out any audit under this chapter (other than any initial audit survey or any audit investigating possible criminal or fraudulent conduct), either directly or throughgrant or contract, the Secretary, the Inspector General, or the Comptroller General shall furnish to the State, administrative entity, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not fewer than 14 days (or as soon as practicable), prior to the commencement of the audit.
+(3)(A) In carrying out any audit under this chapter (other than any initial audit survey or any audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General, or the Comptroller General shall furnish to the State, administrative entity, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not fewer than 14 days (or as soon as practicable), prior to the commencement of the audit.
 
 (B) If the scope, objectives, or purposes of the audit change substantially during the course of the audit, the entity being audited shall be notified of the change as soon as practicable.
 
@@ -40,7 +40,7 @@ Each State, each administrative entity, and each recipient (other than a subreci
 
 &emsp;(1) make readily accessible reports concerning its operations and expenditures as shall be prescribed by the Secretary;
 
-&emsp;(2) prescribe and maintain comparable management information systems, in accordance with guidelines that shall be prescribed by the Secretary, designed to facilitate the uniform compilation, cross tabulation, and analysis of programmatic, participant, and financial data, on statewide and service delivery area bases, necessary for reporting, monitoring, and evaluating purposes, including data necessary to comply with section 1577 of this title; and
+&emsp;(2) prescribe and maintain comparable management information systems, in accordance with guidelines that shall be prescribed by the Secretary, designed to facilitate the uniformcompilation, cross tabulation, and analysis of programmatic, participant, and financial data, on statewide and service delivery area bases, necessary for reporting, monitoring, and evaluating purposes, including data necessary to comply with section 1577 of this title; and
 
 &emsp;(3) monitor the performance of service providers in complying with the terms of grants, contracts, or other agreements made pursuant to this chapter.
 

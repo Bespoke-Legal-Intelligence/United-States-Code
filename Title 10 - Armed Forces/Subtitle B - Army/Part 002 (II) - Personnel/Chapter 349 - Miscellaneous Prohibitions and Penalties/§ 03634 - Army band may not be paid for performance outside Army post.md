@@ -1,4 +1,4 @@
-### §3634 . Army band: may not be paid for performance outside Army post
+### §3634. Army band: may not be paid for performance outside Army post
 
 (a)
 

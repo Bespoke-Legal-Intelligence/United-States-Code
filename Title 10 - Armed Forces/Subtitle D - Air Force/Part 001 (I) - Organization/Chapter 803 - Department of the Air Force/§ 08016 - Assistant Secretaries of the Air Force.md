@@ -1,4 +1,4 @@
-### §8016 . Assistant Secretaries of the Air Force
+### §8016. Assistant Secretaries of the Air Force
 
 (a) There are four Assistant Secretaries of the Air Force. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 

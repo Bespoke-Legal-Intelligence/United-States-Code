@@ -24,7 +24,7 @@ Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations 
 
 Section 514(e) of Pub. L. 99–145 provided that:
 
-“(1) An officer who on the day before the date of the enactment of this Act \[Nov. 8, 1985\] is serving in or has the grade of commodore shall as of the date of the enactment of this Act be serving in or have the grade of rear admiral (lower half).
+“(1) An officer who on the day before the date of the enactment of this Act \[Nov. 8, 1985\] is serving in or hasthe grade of commodore shall as of the date of the enactment of this Act be serving in or have the grade of rear admiral (lower half).
 
 “(2) An officer who on the day before the date of the enactment of this Act is on a list of officers selected for promotion to the grade of commodore shall as of the date of the enactment of this Act be considered to be on a list of officers selected for promotion to the grade of rear admiral (lower half).”
 
@@ -58,7 +58,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “reserve officers serving in a higher temporary grade below lieutenant general or recommended for promotion to a higher grade
 
-“Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of theArmy or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
+“Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of the Army or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
 
 &emsp;“(A) is serving in a temporary grade below lieutenant general that is higher than his reserve grade; or
 
@@ -120,7 +120,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 “(b)(1) An officer described in subsection (a) who is serving on active duty in a temporary grade higher than his reserve grade on the effective date of this Act \[Sept. 15, 1981\] and who is recommended by the selection board which considers him pursuant to such subsection for promotion to the reserve grade equivalent to the temporary grade in which he is serving on such date shall be considered as having been recommended for promotion to that reserve grade in the report of a selection board convened under section 611(a) of title 10, United States Code, as added by this Act. Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in the preceding sentence who is promoted to the reserve grade equivalent to the temporary grade in which he is serving on such date is the date of his temporary appointment in that grade.
 
-“(2) An officer described in subsection (a) who is serving on active duty in a temporary grade equivalent to or lower than his reserve grade on the effective date of this Act \[Sept. 15, 1981\] and who is recommended by the selection board which considers him pursuant to such subsection for promotion to a reserve grade higher than the temporary grade in which he was serving on such date shall be considered as having been recommended for promotion to that reserve grade in the report of a selection board convened under section 3366, 3367, 8366, or 8367, as appropriate, of such title. If such an officer is not ordered to active duty in his reserve grade, he shall while continuing on active duty retain such temporary grade and shall be considered for promotionunder chapter 36 of title 10, United States Code, as added by this Act, to a grade equal to or lower than his reserve grade as if such temporary grade is a permanent grade. If such officer is recommended for promotion under such chapter to such a grade, his appointment to such grade shall be a temporary appointment to such grade.
+“(2) An officer described in subsection (a) who is serving on active duty in a temporary grade equivalent to or lower than his reserve grade on the effective date of this Act \[Sept. 15, 1981\] and who is recommended by the selection board which considers him pursuant to such subsection for promotion to a reserve grade higher than the temporary grade in which he was serving on such date shall be considered as having been recommended for promotion to that reserve grade in the report of a selection board convened under section 3366, 3367, 8366, or 8367, as appropriate, of such title. If such an officer is not ordered to active duty in his reserve grade, he shall while continuing on active duty retain such temporary grade and shall be considered for promotion under chapter 36 of title 10, United States Code, as added by this Act, to a grade equal to or lower than his reserve grade as if such temporary grade is a permanent grade. If such officer is recommended for promotion under such chapter to such a grade, his appointment to such grade shall be a temporary appointment to such grade.
 
 “(3) An officer described in subsection (a) who is not recommended for promotion by the selection board which considers him pursuant to such subsection shall be governed by section 3846 or 8846, as appropriate, of title 10, United States Code, as a deferred officer.
 
@@ -212,7 +212,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “regular officers whose retirement has been deferred
 
-“Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act\[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
+“Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act \[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
 
 &emsp;“(1) under a provision of such chapter; or
 
@@ -250,7 +250,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 “(b) An officer who during fiscal year 1981—
 
-&emsp;“(1) failed twice of selection for promotion to the grade of either lieutenant or lieutenant commander, in the case of an officer in the Navy, or to either captain or major, in the case of an officer in the Marine Corps; and
+&emsp;“(1) failed twice of selection for promotion to the grade of either lieutenant or lieutenant commander,in the case of an officer in the Navy, or to either captain or major, in the case of an officer in the Marine Corps; and
 
 &emsp;“(2) had not previously failed of selection for promotion to that grade,
 
@@ -352,7 +352,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 > and who retires on or after the effective date of this Act, retires in the grade of rear admiral and is entitled to wear the uniform and insignia of a rear admiral. If such an officer is ordered to active duty after his retirement, he is considered, for the purposes of determining his pay, uniform and insignia, and rank among other commissioned officers, as having held the grade of rear admiral on the retired list on the day before the effective date of this Act.
 
-“(f) A reserve officer of the Navy who on the day before the effective date of this Act \[Sept. 15, 1981\] was in an active status and was serving in the grade of rear admiral or was on a list of reserve officers recommended for promotion to the grade of rear admiral is not subject to subsection (f) of section 6389 of title 10, United States Code, as added by this Act.
+“(f) A reserve officer of the Navy who on the day before the effective date of this Act \[Sept. 15, 1981\] was inan active status and was serving in the grade of rear admiral or was on a list of reserve officers recommended for promotion to the grade of rear admiral is not subject to subsection (f) of section 6389 of title 10, United States Code, as added by this Act.
 
 #### “female officers
 
@@ -410,7 +410,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 “Sec. 616. (a) An officer of the Regular Navy or Regular Marine Corps who on the effective date of this Act \[Sept. 15, 1981\] is an officer who was designated for limited duty before that date under section 5589 of title 10, United States Code, is subject to section 6383 of such title (as in effect on the day before the effective date of this Act), unless promoted to a higher permanent grade under chapter 36 of title 10, United States Code, as added by this Act.
 
-“(b) Any female member of the Navy who on April 2, 1981, was appointed under section 591 or 5590 of title 10, United States Code, in the grade of ensign as an officer designated for limited duty may after September 14, 1981, be reappointed as an officer designated for limited duty under section 5596 of title 10, United States Code, as amended by this Act. A member so reappointed shall have a date of rank as an ensign of April 2, 1981, and shall have the same permanent pay grade and status as that member held on April 1, 1981.
+“(b) Any female member of the Navy who on April 2, 1981, was appointed under section 591 or 5590 of title 10, United States Code, in the grade of ensign as an officer designated for limited duty may after September 14, 1981, be reappointed as an officer designated for limited duty under section 5596 of title 10, United States Code, as amended by this Act. A member so reappointed shall have a date of rank as an ensign of April 2, 1981, andshall have the same permanent pay grade and status as that member held on April 1, 1981.
 
 “(c) An officer of the Navy or Marine Corps who on September 15, 1981, was an officer designated for limited duty under section 5589 of title 10, United States Code, and who on the date of the enactment of this subsection \[Oct. 19, 1984\] is serving in a temporary grade above the grade of lieutenant, in the case of an officer of the Navy, or captain, in the case of an officer of the Marine Corps, may be reappointed under section 5589 of title 10, United States Code (as in effect on or after September 15, 1981), in the same permanent grade and with the same date of rank held by that officer on the active-duty list immediately before such reappointment if he is otherwise eligible for appointment under that section.
 
@@ -450,7 +450,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 I74“establishment of initial active-duty lists
 
-“Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officerplaced on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
+“Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officer placed on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
 
 “(2) Regulations prescribed under section 620 of title 10, United States Code, as added by this Act, shall be applicable to the placement of officers on the active-duty list under paragraph (1).
 
@@ -500,7 +500,7 @@ I74“establishment of initial active-duty lists
 
 “Sec. 626. (a) For the purpose of computing the years of service for pay and allowances of an officer of the Army, Navy, Air Force, or Marine Corps, including retired pay, severance pay, readjustment pay, separation pay, and basic pay, the total years of service of such officer shall be computed by adding to that service so creditable on the day before the effective date of this Act \[Sept. 15, 1981\] all subsequent service as computed under title 10, United States Code, as amended by this Act.
 
-“(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amountequal to not less than 50 percent of the basic pay upon which his retired pay is based.
+“(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amount equal to not less than 50 percent of the basic pay upon which his retired pay is based.
 
 “(c) The service that an officer of the Army, Navy, Air Force, or Marine Corps has in a particular grade is the sum of—
 
@@ -524,7 +524,7 @@ I74“establishment of initial active-duty lists
 
 #### “savings provision for retired grade for officers not subsequently promoted
 
-“Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, ‘two years’ shall be substituted for ‘three years’. The Secretary of the military department concerned may waive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
+“Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, ‘two years’ shall be substituted for ‘three years’. The Secretary of the military department concerned maywaive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
 
 #### “exemption of certain officers from selective early retirement provisions
 
@@ -572,7 +572,7 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 &emsp;“(1) was selected for participation in a postbaccalaureate educational program leading to an appointment as a commissioned officer or had completed a postbaccalaureate program and was selected for appointment as a commissioned officer of the Army, Navy, Air Force, or Marine Corps;
 
-&emsp;“(2) under regulations of the Secretary of the military department concerned in effect on December 12,1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
+&emsp;“(2) under regulations of the Secretary of the military department concerned in effect on December 12, 1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
 
 &emsp;“(3) had not been so appointed and ordered to active duty,
 

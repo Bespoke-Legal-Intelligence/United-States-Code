@@ -52,7 +52,7 @@ Recovery of overpayments under this part may not be made from an individual when
 
 (4) A participant who, at the time of retiring under this part—
 
-&emsp;(A) is married, shall be ineligible to make an election under this section unless a waiver ismade under section 4046(b)(1)(B) of this title; or
+&emsp;(A) is married, shall be ineligible to make an election under this section unless a waiver is made under section 4046(b)(1)(B) of this title; or
 
 &emsp;(B) has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under this part (based on the service of the participant) unless a waiver has been made under section 4046(b)(1)(C) of this title.
 
@@ -70,7 +70,7 @@ Recovery of overpayments under this part may not be made from an individual when
 
 Subsec. (e). Pub. L. 99–335, §408, added subsec. (e).
 
-1983—Subsec. (a). Ex. Ord. No. 12446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as otherwise provided, the annuity of a former participant who has met the eligibility requirements for an annuity shall commence on the day after separation from the Service or on the day after pay ceases. The annuity of a former participant who is entitled to a deferred annuity under this chapter shall become effective on the day he or she attains age 60.”
+1983—Subsec. (a). Ex. Ord. No. 12446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as otherwise provided, the annuity ofa former participant who has met the eligibility requirements for an annuity shall commence on the day after separation from the Service or on the day after pay ceases. The annuity of a former participant who is entitled to a deferred annuity under this chapter shall become effective on the day he or she attains age 60.”
 
 #### Effective Date of 1993 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual submission of multiyear national foreign intelligence program
 
-The Director of Central Intelligence shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the PermanentSelect Committee on Intelligence of the House of Representatives each year a multiyear national foreign intelligence program plan reflecting the estimated expenditures and proposed appropriations required to support that program. Any such multiyear national foreign intelligence program plan shall cover the fiscal year with respect to which the budget is submitted and at least four succeeding fiscal years.
+The Director of Central Intelligence shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year a multiyear national foreign intelligence program plan reflecting the estimated expenditures and proposed appropriations required to support that program. Any such multiyear national foreign intelligence program plan shall cover the fiscal year with respect to which the budget is submitted and at least four succeeding fiscal years.
 
 #### (b) Time of submission
 
@@ -24,7 +24,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -86,7 +86,7 @@ Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 
@@ -102,35 +102,7 @@ Section 1904 of Pub. L. 103–43 directed Secretary of Health and Human Services
 
 #### Research on Lupus Erythematosus
 
-Section 5 of Pub. L. 99–158, as amended by Pub. L. 102–531, title III, §312(f), Oct. 27, 1992, 106 Stat. 3506, provided that:
-
-“(a)
-
-Establishment of Committee.—The Secretary shall establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus.
-
-“(b)
-
-Committee Composition and Meetings.—(1) The Committee shall be composed of—
-
-&emsp;“(A) the Director of the National Institute of Neurological and Communicative Disorders and Stroke (or the designee of such Director);
-
-&emsp;“(B) the Director of the National Institute of Allergy and Infectious Diseases (or the designee of such Director);
-
-&emsp;“(C) the Director of the National Institute of Arthritis and Musculoskeletal and Skin Diseases (or the designee of such Director);
-
-&emsp;“(D) the Director of the National Institute of General Medical Sciences (or the designee of such Director);
-
-&emsp;“(E) the Director of the National Heart, Lung, and Blood Institute (or the designee of such Director);
-
-&emsp;“(F) the Director of the National Institute of Diabetes and Digestive and Kidney Diseases (or the designee of such Director); and
-
-&emsp;“(G) the Director of the Centers for Disease Control and Prevention (or the designee of such Director).
-
-“(2) The Committee shall meet at least four times a year. The Secretary shall designate as chairman of the Committee the Director of the National Institute of Arthritis and Musculoskeletal and Skin Diseases.
-
-“(c)
-
-Report.—The Committee shall prepare a report for Congress on its activities. The report shall include a description of research projects on Lupus Erythematosus conducted or supported by Federal agencies in the fiscal year for which the report is made, the nature and purpose of each such project, the amounts expended for each such project, and an identification of the entity which conducted the research under each such project. Such report shall be submitted not later than 18 months after the date of the date of enactment of this Act \[Nov. 20, 1985\]. The Committee shall terminate one month after the report is submitted.”
+Section 5 of Pub. L. 99–158, as amended by Pub. L. 102–531, title III, §312(f), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
 
 #### Interagency Committee on Learning Disabilities
 

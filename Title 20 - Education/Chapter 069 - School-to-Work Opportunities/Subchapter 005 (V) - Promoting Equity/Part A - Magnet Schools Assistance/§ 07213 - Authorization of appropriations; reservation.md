@@ -8,7 +8,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 In any fiscal year for which the amount appropriated pursuant to subsection (a) of this section exceeds $75,000,000, the Secretary shall give priority to using such amounts in excess of $75,000,000 to award grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
 
-(Pub. L. 89 10, title V, §5113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
+(Pub. L. 89–10, title V, §5113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ The director of each national laboratory of the Department of Energy that is par
 
 (2) No Department of Energy national laboratory may receive more than $10,000,000 of nonappropriated funds under any cooperative research and development agreement entered into under this subsection in connection with the Initiative, except to the extent approved in advance by the Secretary of Energy.
 
-(Pub. L. 100 180, div. C, title I, §3147, Dec. 4, 1987, 101 Stat. 1244.)
+(Pub. L. 100–180, div. C, title I, §3147, Dec. 4, 1987, 101 Stat. 1244.)
 
 #### Section Referred to in Other Sections
 

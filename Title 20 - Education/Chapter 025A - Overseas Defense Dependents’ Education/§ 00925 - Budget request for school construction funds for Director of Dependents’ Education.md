@@ -2,5 +2,5 @@
 
 The President shall include in his budget for each fiscal year a separate request for funds for construction of school facilities by the Director.
 
-(Pub. L. 95 561, title XIV, §1406, Nov. 1, 1978, 92 Stat. 2367.)
+(Pub. L. 95–561, title XIV, §1406, Nov. 1, 1978, 92 Stat. 2367.)
 

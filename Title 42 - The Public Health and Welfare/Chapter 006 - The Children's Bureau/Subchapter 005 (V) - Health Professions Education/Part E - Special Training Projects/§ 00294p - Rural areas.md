@@ -48,7 +48,7 @@ The Secretary may make grants to, or enter into contracts with, any eligible app
 
 #### (c) Eligible applicants
 
-Applicants eligible to obtain funds under subsection (a) of this section shall include local health departments, nonprofit organizations and public or nonprofit colleges, universities, or schools of, or programs that specialize in, nursing, mental health practice, optometry, public health, dentistry, osteopathy, physicians assistants, pharmacy, podiatry, medicine, chiropractic, and allied health professions if such applicants submit applications approved by the Secretary under subsection (d) of this section. Applicants eligible to obtain funds under subsection (a) of this section shall not include for-profit entities, either directly or through a subcontract or subgrant.
+Applicants eligible to obtain funds under subsection (a) of this section shall include local health departments, nonprofit organizations and public or nonprofit colleges, universities, or schools of, or programs that specialize in, nursing, mental health practice, optometry, publichealth, dentistry, osteopathy, physicians assistants, pharmacy, podiatry, medicine, chiropractic, and allied health professions if such applicants submit applications approved by the Secretary under subsection (d) of this section. Applicants eligible to obtain funds under subsection (a) of this section shall not include for-profit entities, either directly or through a subcontract or subgrant.
 
 #### (d) Applications
 
@@ -66,7 +66,7 @@ Applicants eligible to obtain funds under subsection (a) of this section shall i
 
 &emsp;&emsp;(A) be jointly submitted by at least two eligible applicants with the express purpose of assisting individuals in academic institutions in establishing long-term collaborative relationships with health care providers in rural areas;
 
-&emsp;&emsp;(B) designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian HealthService under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]; and
+&emsp;&emsp;(B) designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]; and
 
 &emsp;&emsp;(C) provide any additional information required by the Secretary.
 
@@ -108,7 +108,7 @@ Section 294t, act July 1, 1944, ch. 373, title VII, §751, as added Oct. 12, 197
 
 Section 294u, act July 1, 1944, ch. 373, title VII, §752, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2284; amended Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; Sept. 29, 1979, Pub. L. 96–76, title II, §202(a), (b), 93 Stat. 582, which related to obligated service under contract, was renumbered section 338B of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254m of this title, and subsequently renumbered section 338C of act July 1, 1944, by Pub. L. 100–177.
 
-Section 294v, act July 1, 1944, ch. 373, title VII, §753, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2285; amended Dec. 17, 1980, Pub. L. 96–538, title IV, §403, 94 Stat. 3192, which related to private practice, was renumbered section 338C of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254n of this title, and subsequently renumbered section 338D of act July 1, 1944, by Pub. L. 100–177.
+Section 294v, act July 1, 1944, ch. 373, title VII, §753, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2285; amended Dec. 17, 1980, Pub. L. 96–538, title IV, §403, 94 Stat. 3192, which related to private practice, was renumbered section 338C of act July 1, 1944, by Pub.L. 97–35 and transferred to section 254n of this title, and subsequently renumbered section 338D of act July 1, 1944, by Pub. L. 100–177.
 
 Section 294w, act July 1, 1944, ch. 373, title VII, §754, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2286; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(g), 91 Stat. 391, which related to breach of scholarship contract, was renumbered section 338D of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254<i>o</i> of this title, and subsequently renumbered section 338E of act July 1, 1944, by Pub. L. 100–177.
 
@@ -120,7 +120,7 @@ Section 294y–1, act July 1, 1944, ch. 373, title VII, §757, as added Aug. 1, 
 
 Sections 294z to 294cc were omitted in the general revision of this subchapter by Pub. L. 102–408.
 
-Section 294z, act July 1, 1944, ch. 373, title VII, §758, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(h), 91 Stat. 391; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2737, 95 Stat. 920; Oct. 22, 1985, Pub. L. 99–129, title I, §102, title II, §210(a), 99 Stat. 523, 537; Nov. 4, 1988, Pub. L. 100–607, title VI, §§605, 628(9), 629(b)(2), 102Stat. 3126, 3146, related to scholarships for students of exceptional financial need. See section 293 of this title.
+Section 294z, act July 1, 1944, ch. 373, title VII, §758, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(h), 91 Stat. 391; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2737, 95 Stat. 920; Oct. 22, 1985, Pub. L. 99–129, title I, §102, title II, §210(a), 99 Stat. 523, 537; Nov. 4, 1988, Pub. L. 100–607, title VI, §§605, 628(9), 629(b)(2), 102 Stat. 3126, 3146, related to scholarships for students of exceptional financial need. See section 293 of this title.
 
 Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, established a Lister Hill scholarship program of grants for family practice of medicine.
 

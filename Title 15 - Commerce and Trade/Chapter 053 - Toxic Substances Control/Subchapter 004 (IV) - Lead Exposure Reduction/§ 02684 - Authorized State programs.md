@@ -2,7 +2,7 @@
 
 #### (a) Approval
 
-Any State which seeks to administer and enforce the standards, regulations, or other requirements established under section 2682 or 2686 of this title, or both, may, after notice and opportunity for public hearing, develop and submit to the Administrator an application, in such form as the Administrator shall require, for authorization of such a State program. Any such State may also certify to the Administrator at the time of submitting such program that the State program meets the requirements of paragraphs (1) and (2) of subsection (b) of this section. Upon submission of such certification, the State program shall be deemed to be authorized under this section, and shall apply in such State in lieu of the corresponding Federal program under section 2682 or 2686 of this title, or both, as the case may be, until such time as the Administrator disapproves the program or withdraws the authorization.
+Any State which seeks to administer and enforce the standards, regulations, or other requirements established under section 2682 or 2686 of this title, or both, may, after notice and opportunity for public hearing, develop and submit to the Administrator an application, in such form as the Administrator shall require, for authorization of such a State program. Any such State may also certify to the Administrator atthe time of submitting such program that the State program meets the requirements of paragraphs (1) and (2) of subsection (b) of this section. Upon submission of such certification, the State program shall be deemed to be authorized under this section, and shall apply in such State in lieu of the corresponding Federal program under section 2682 or 2686 of this title, or both, as the case may be, until such time as the Administrator disapproves the program or withdraws the authorization.
 
 #### (b) Approval or disapproval
 
@@ -28,7 +28,7 @@ Nothing in this subchapter shall be construed to prohibit any State or political
 
 #### (f) State and local certification
 
-The regulations under this subchapter shall, to the extent appropriate, encourage States to seek program authorization and to use existing State and local certification and accreditation procedures, except that a State or local government shall not require more than 1 certification under this section for any lead-based paint activities contractor to carry out lead-based paintactivities in the State or political subdivision thereof.
+The regulations under this subchapter shall, to the extent appropriate, encourage States to seek program authorization and to use existing State and local certification and accreditation procedures, except that a State or local government shall not require more than 1 certification under this section for any lead-based paint activities contractor to carry out lead-based paint activities in the State or political subdivision thereof.
 
 #### (g) Grants to States
 
@@ -38,7 +38,7 @@ The Administrator is authorized to make grants to States to develop and carry ou
 
 If a State does not have a State program authorized under this section and in effect by the date which is 2 years after promulgation of the regulations under section 2682 or 2686 of this title, the Administrator shall, by such date, establish a Federal program for section 2682 or 2686 of this title (as the case may be) for such State and administer and enforce such program in such State.
 
-(Pub. L. 94 469, title IV, §404, as added Pub. L. 102 550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3916.)
+(Pub. L. 94–469, title IV, §404, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3916.)
 
 #### Section Referred to in Other Sections
 

@@ -38,9 +38,13 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication as defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5, Government Organization and Employees.
 
+#### Termination of Administrative Conference of United States
+
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
+
 #### Advocacy Study of Paperwork and Tax Impact
 
-Pub. L. 103–403, title VI, §613, Oct. 22, 1994, 108 Stat. 4205, provided that: “The Chief Counsel for Advocacy of the Small Business Administration shall conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to the Congress not later than 1 year after the date of enactment of this Act \[Oct. 22, 1994\].”
+Pub. L. 103–403, title VI, §613, Oct. 22, 1994, 108 Stat. 4205, directed Chief Counsel for Advocacy of the Small Business Administration to conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to Congress not later than 1 year after Oct. 22, 1994.
 
 #### Section Referred to in Other Sections
 

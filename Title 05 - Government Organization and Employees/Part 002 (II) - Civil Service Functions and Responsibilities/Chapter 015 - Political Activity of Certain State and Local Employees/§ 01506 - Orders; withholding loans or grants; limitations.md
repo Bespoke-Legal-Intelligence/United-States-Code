@@ -8,7 +8,7 @@
 
 > the Board shall make and certify to the appropriate Federal agency an order requiring that agency to withhold from its loans or grants to the State or local agency to which notice was given an amount equal to 2 years’ pay at the rate the officer or employee was receiving at the time of the violation. When the State or local agency to which appointment within 18 months after removal has been made is one that receives loans or grants from a Federal agency, the Board order shall direct that the withholding be made from that State or local agency.
 
-(b) Notice of the order shall be sent by registered or certified mail to the State or local agency from which the amount is ordered to be withheld. After the order becomes final, the Federal agency to which the order is certified shall withhold the amount in accordance with the terms of the order. Except as provided bysection 1508 of this title, a determination of order of the Board becomes final at the end of 30 days after mailing the notice of the determination or order.
+(b) Notice of the order shall be sent by registered or certified mail to the State or local agency from which the amount is ordered to be withheld. After the order becomes final, the Federal agency to which the order is certified shall withhold the amount in accordance with the terms of the order. Except as provided by section 1508 of this title, a determination of order of the Board becomes final at the end of 30 days after mailing the notice of the determination or order.
 
 (c) The Board may not require an amount to be withheld from a loan or grant pledged by a State or local agency as security for its bonds or notes if the withholding of that amount would jeopardize the payment of the principal or interest on the bonds or notes.
 
@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” for “Civil Service Commission” and “Board” for “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” for “Civil Service Commission” and “Board” for “Commission”, respectively, wherever appearing.
 
 Subsecs. (b), (c). Pub. L. 95–454 substituted “Board” for “Commission”.
 

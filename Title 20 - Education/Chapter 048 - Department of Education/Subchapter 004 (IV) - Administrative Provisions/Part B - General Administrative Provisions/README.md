@@ -21,6 +21,6 @@ Part B—General Administrative Provisions
 - [&sect; 03484 - Funds transfer](%C2%A7%2003484%20-%20Funds%20transfer.md)
 - [&sect; 03485 - Seal of Department](%C2%A7%2003485%20-%20Seal%20of%20Department.md)
 - [&sect; 03486 - Annual report](%C2%A7%2003486%20-%20Annual%20report.md)
-- [&sect; 03487 - Repealed. Pub. L. 103 382, title II, &sect;271(a)(1), Oct. 20, 1994, 108 Stat. 3929](%C2%A7%2003487%20-%20Repealed.%20Pub.%20L.%20103%20382%2C%20title%20II%2C%20%C2%A7271%28a%29%281%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%203929.md)
+- [&sect; 03487 - Repealed. Pub. L. 103&#8211;382, title II, &sect;271(a)(1), Oct. 20, 1994, 108 Stat. 3929](%C2%A7%2003487%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93382%2C%20title%20II%2C%20%C2%A7271%28a%29%281%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%203929.md)
 - [&sect; 03488 - Authorization of appropriations](%C2%A7%2003488%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03489 - General extension of authorizations](%C2%A7%2003489%20-%20General%20extension%20of%20authorizations.md)

@@ -14,5 +14,5 @@ The duties of the Asbestos Ombudsman are—
 
 &emsp;(3) to make such recommendations to the Administrator as the Ombudsman considers appropriate.
 
-(Pub. L. 94 469, title II, §212, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2987.)
+(Pub. L. 94–469, title II, §212, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2987.)
 

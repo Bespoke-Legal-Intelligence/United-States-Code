@@ -12,7 +12,7 @@ For purposes of determining, under subchapters XVIII and XIX of this chapter, th
 
 > Paragraph (4) shall not apply to the recovery of the appropriate share of depreciation when gains or losses are realized from the disposal of depreciable assets.
 
-(Aug. 14, 1935, ch. 531, title XI, §1134, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §901(a), 94 Stat. 2611; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(c)(6), 95 Stat. 827; Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(5), 96 Stat. 377; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(iii), 103 Stat. 2153.)
+(Aug. 14, 1935, ch. 531, title XI, §1134, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §901(a), 94Stat. 2611; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(c)(6), 95 Stat. 827; Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(5), 96 Stat. 377; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(iii), 103 Stat. 2153.)
 
 #### Amendments
 

@@ -1,4 +1,4 @@
-### §742f . Powers of Secretaries of the Interior and Commerce
+### §742f. Powers of Secretaries of the Interior and Commerce
 
 #### (a) Policies, procedures, and recommendations
 
@@ -6,7 +6,7 @@ The Secretary of the Interior, with such advice and assistance as he may require
 
 &emsp;(1) develop and recommend measures which are appropriate to assure the maximum sustainable production of fish and fishery products and to prevent unnecessary and excessive fluctuations in such production;
 
-&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make such recommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
+&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make suchrecommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
 
 &emsp;(3) develop and recommend special promotional and informational activities with a view to stimulating the consumption of fishery products whenever he determines that there is a prospective or actual surplus of such products; and
 
@@ -38,7 +38,7 @@ The Secretary of the Interior, with such advice and assistance as he may require
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 The tort claim provisions of title 28, referred to in subsec. (c)(4), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and to chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility of Members of Ready Reserve.—(1) A member of the Ready Reserve who satisfactorily completes 50 or more points creditable under section 1332(a)(2) <sup>1</sup> of this title in acalendar year shall be eligible to use commissary stores of the Department of Defense. The Secretary concerned shall authorize the member to have 12 days of eligibility for any calendar year that the member qualifies for eligibility under this subsection.
+Eligibility of Members of Ready Reserve.—(1) A member of the Ready Reserve who satisfactorily completes 50 or more points creditable under section 1332(a)(2) <sup>1</sup> of this title in a calendar year shall be eligible to use commissary stores of the Department of Defense. The Secretary concerned shall authorize the member to have 12 days of eligibility for any calendar year that the member qualifies for eligibility under this subsection.
 
 (2) Paragraph (1) shall apply without regard to whether, during the calendar year, the member receives compensation for the duty or training performed by the member or performs active duty for training.
 

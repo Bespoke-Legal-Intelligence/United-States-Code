@@ -1,4 +1,4 @@
-### §1446 . Investigation of applicants; examination of applications
+### §1446. Investigation of applicants; examination of applications
 
 #### (a) Waiver
 

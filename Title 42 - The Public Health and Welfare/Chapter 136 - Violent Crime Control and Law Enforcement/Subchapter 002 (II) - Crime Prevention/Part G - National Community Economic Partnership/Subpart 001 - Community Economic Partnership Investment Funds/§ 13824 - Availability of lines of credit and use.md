@@ -12,7 +12,7 @@ The Secretary shall provide a community development corporation that has an appl
 
 #### (2) Period of availability
 
-&emsp;A line of credit provided under this subpart shall remain available over a period of time established by the Secretary, but in no event shall any such period of time be in excess of 3years from the date on which such line of credit is made available.
+&emsp;A line of credit provided under this subpart shall remain available over a period of time established by the Secretary, but in no event shall any such period of time be in excess of 3 years from the date on which such line of credit is made available.
 
 #### (3) Exception
 

@@ -2,9 +2,9 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 151\. | Joint Chiefs of Staff: composition; functions. |
-| 152\. | Chairman: appointment; grade and rank. |
-| 153\. | Chairman: functions. |
+| [151\.](%C2%A7%2000151%20-%20Joint%20Chiefs%20of%20Staff%20composition%3B%20functions.md) | Joint Chiefs of Staff: composition; functions. |
+| [152\.](%C2%A7%2000152%20-%20Chairman%20appointment%3B%20grade%20and%20rank.md) | Chairman: appointment; grade and rank. |
+| [153\.](%C2%A7%2000153%20-%20Chairman%20functions.md) | Chairman: functions. |
 | [154\.](%C2%A7%2000154%20-%20Vice%20Chairman.md) | Vice Chairman. |
 | [155\.](%C2%A7%2000155%20-%20Joint%20Staff.md) | Joint Staff. |
 
@@ -16,7 +16,7 @@ A prior chapter 5 related to Joint Chiefs of Staff, prior to the general revisio
 
 Section 141, acts Aug. 10, 1956, ch. 1041, 70A Stat. 6; Aug. 6, 1958, Pub. L. 85–599, §7, 72 Stat. 519; Sept. 7, 1962, Pub. L. 87–651, title II, §204, 76 Stat. 519; Oct. 20, 1978, Pub. L. 95–485, title VIII, §807, 92 Stat. 1622, provided for composition and functions of Joint Chiefs. See section 151 of this title.
 
-Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 87–649, §14c(1), 76 Stat. 501; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(b), 98 Stat. 2611,provided for appointment and duties of Chairman of Joint Chiefs. See sections 152 and 153 of this title.
+Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 87–649, §14c(1), 76 Stat. 501; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(b), 98 Stat. 2611, provided for appointment and duties of Chairman of Joint Chiefs. See sections 152 and 153 of this title.
 
 Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, §5(a), 72 Stat. 517; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
 

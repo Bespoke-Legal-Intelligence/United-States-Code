@@ -8,7 +8,7 @@ Section 982, Pub. L. 93–203, title VII, §702, as added Pub. L. 95–524, §2,
 
 A prior section 982, Pub. L. 93–203, title VII, §702, formerly title VI, §602, Dec. 28, 1973, 87 Stat. 877; renumbered title VII, §702, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845; amended Pub. L. 94–444, §5(c), Oct. 1, 1976, 90 Stat. 1480, related to legal authority of Secretary under this chapter, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 983, Pub. L. 93–203, title VII, §703, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2010; amendedPub. L. 96–583, §2(3), Dec. 23, 1980, 94 Stat. 3375, related to conditions for receipt of financial assistance for increase of private sector opportunities for economically disadvantaged.
+Section 983, Pub. L. 93–203, title VII, §703, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2010; amended Pub. L. 96–583, §2(3), Dec. 23, 1980, 94 Stat. 3375, related to conditions for receipt of financial assistance for increase of private sector opportunities for economically disadvantaged.
 
 A prior section 983, Pub. L. 93–203, title VII, §703, formerly title VI, §603, Dec. 28, 1973, 87 Stat. 878; renumbered title VII, §703, and amended Pub. L. 93–567, title I, §§101, 107(d), Dec. 31, 1974, 88 Stat. 1845, 1849, related to conditions applicable to all programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

@@ -1,4 +1,4 @@
-### §460bb–3 . Administration
+### §460bb–3. Administration
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; provisions applicable to Muir Woods National Monument and Fort Point National Historic Site
 

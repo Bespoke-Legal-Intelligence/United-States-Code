@@ -1,0 +1,56 @@
+### <b>CHAPTER 89—DISTRICT COURTS; REMOVAL OF CASES FROM STATE COURTS</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [1441\.](%C2%A7%2001441%20-%20Actions%20removable%20generally.md) | Actions removable generally. |
+| [1442\.](%C2%A7%2001442%20-%20Federal%20officers%20sued%20or%20prosecuted.md) | Federal officers sued or prosecuted. |
+| [1442a.](%C2%A7%2001442a%20-%20Members%20of%20armed%20forces%20sued%20or%20prosecuted.md) | Members of armed forces sued or prosecuted. |
+| [1443\.](%C2%A7%2001443%20-%20Civil%20rights%20cases.md) | Civil rights cases. |
+| [1444\.](%C2%A7%2001444%20-%20Foreclosure%20action%20against%20United%20States.md) | Foreclosure action against United States. |
+| [1445\.](%C2%A7%2001445%20-%20Nonremovable%20actions.md) | Nonremovable actions. |
+| [1446\.](%C2%A7%2001446%20-%20Procedure%20for%20removal.md) | Procedure for removal. |
+| [1447\.](%C2%A7%2001447%20-%20Procedure%20after%20removal%20generally.md) | Procedure after removal generally. |
+| [1448\.](%C2%A7%2001448%20-%20Process%20after%20removal.md) | Process after removal. |
+| [1449\.](%C2%A7%2001449%20-%20State%20court%20record%20supplied.md) | State court record supplied. |
+| [1450\.](%C2%A7%2001450%20-%20Attachment%20or%20sequestration%3B%20securities.md) | Attachment or sequestration; securities. |
+| [1451\.](%C2%A7%2001451%20-%20Definitions.md) | Definitions. |
+| [1452\.](%C2%A7%2001452%20-%20Removal%20of%20claims%20related%20to%20bankruptcy%20cases.md) | Removal of claims related to bankruptcy cases. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1984—Pub. L. 98–353, title I, §103(b), July 10, 1984, 98 Stat. 335, added item 1452.
+
+1970—Pub. L. 91–358, title I, §172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
+
+1958—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
+
+1956—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
+
+#### Cross References
+
+Puerto Rico, removal of causes to United States District Court of Puerto Rico, see section 864 of Title 48, Territories and Insular Possessions.
+
+#### Chapter Referred to in Other Section
+
+This chapter is referred to in title 33 section 1323; title 39 section 409; title 42 section 7192.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01441 - Actions removable generally](%C2%A7%2001441%20-%20Actions%20removable%20generally.md)
+- [&sect; 01442 - Federal officers sued or prosecuted](%C2%A7%2001442%20-%20Federal%20officers%20sued%20or%20prosecuted.md)
+- [&sect; 01442a - Members of armed forces sued or prosecuted](%C2%A7%2001442a%20-%20Members%20of%20armed%20forces%20sued%20or%20prosecuted.md)
+- [&sect; 01443 - Civil rights cases](%C2%A7%2001443%20-%20Civil%20rights%20cases.md)
+- [&sect; 01444 - Foreclosure action against United States](%C2%A7%2001444%20-%20Foreclosure%20action%20against%20United%20States.md)
+- [&sect; 01445 - Nonremovable actions](%C2%A7%2001445%20-%20Nonremovable%20actions.md)
+- [&sect; 01446 - Procedure for removal](%C2%A7%2001446%20-%20Procedure%20for%20removal.md)
+- [&sect; 01447 - Procedure after removal generally](%C2%A7%2001447%20-%20Procedure%20after%20removal%20generally.md)
+- [&sect; 01448 - Process after removal](%C2%A7%2001448%20-%20Process%20after%20removal.md)
+- [&sect; 01449 - State court record supplied](%C2%A7%2001449%20-%20State%20court%20record%20supplied.md)
+- [&sect; 01450 - Attachment or sequestration; securities](%C2%A7%2001450%20-%20Attachment%20or%20sequestration%3B%20securities.md)
+- [&sect; 01451 - Definitions](%C2%A7%2001451%20-%20Definitions.md)
+- [&sect; 01452 - Removal of claims related to bankruptcy cases](%C2%A7%2001452%20-%20Removal%20of%20claims%20related%20to%20bankruptcy%20cases.md)

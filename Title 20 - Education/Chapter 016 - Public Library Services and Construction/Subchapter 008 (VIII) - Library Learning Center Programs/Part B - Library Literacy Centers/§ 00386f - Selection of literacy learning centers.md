@@ -6,7 +6,7 @@ Each State receiving a grant under this part shall designate the State library a
 
 &emsp;(2) offer innovative approaches to improving library literacy services to adults and approaches which show promise for replication and dissemination.
 
-(June 19, 1956, ch. 407, title VIII, §817, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 112.)
+(June 19, 1956, ch. 407, title VIII, §817, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 112.)
 
 #### Section Referred to in Other Sections
 

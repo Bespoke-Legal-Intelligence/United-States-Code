@@ -1,6 +1,6 @@
 ### §2157. Additional export criterion and procedures
 
-(a)(1) As a condition of continued United States export of source material, special nuclear material, production or utilization facilities, and any sensitive nuclear technology to non-nuclear-weapon states, no such export shall be made unless IAEA safeguards are maintained with respect to all peaceful nuclear activities in, under the jurisdiction of, or carried out under the control of such state at the time of the export.
+(a)(1) As a condition of continued United States export of source material, special nuclear material, production or utilization facilities,and any sensitive nuclear technology to non-nuclear-weapon states, no such export shall be made unless IAEA safeguards are maintained with respect to all peaceful nuclear activities in, under the jurisdiction of, or carried out under the control of such state at the time of the export.
 
 (2) The President shall seek to achieve adherence to the foregoing criterion by recipient non-nuclear-weapon states.
 
@@ -20,7 +20,7 @@
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 
@@ -36,7 +36,7 @@ Secretary of State responsible for performing function vested in President under
 
 #### Performance of Functions Pending Development of Procedures
 
-The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out undersection 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

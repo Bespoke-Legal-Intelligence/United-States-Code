@@ -16,7 +16,7 @@
 | &nbsp; | 2 | 950&nbsp; |
 | E–1 through E–6 | 5 | 1,550&nbsp; |
 | &nbsp; | 4 | 1,350&nbsp; |
-| &nbsp; | 3 | 1,200&nbsp; |
+| &nbsp; | 3 | 1,200  |
 | &nbsp; | 2 | 950&nbsp; |
 
 (b) The applicable maximum net floor area prescribed by subsection (a) may be increased by 10 percent for the housing unit of an officer holding a special command position (as designated by the Secretary of Defense), for the housing unit of the commanding officer of a military installation, and for the senior noncommissioned officer of a military installation.

@@ -26,7 +26,7 @@ The purposes of this chapter, together with the provisions of other laws applica
 
 &emsp;&emsp;(B) that Congress intends that this chapter not be construed to limit or restrict the ability of customers to take actions in accordance with other applicable provisions of Federal or State law, including, but not limited to, actions to plan, develop, and operate resources and to achieve conservation, without regard to this chapter; and
 
-&emsp;(6) to protect, mitigate and enhance the fish and wildlife, including related spawning grounds and habitat, of the Columbia River and its tributaries, particularly anadromous fish which are of significant importance to the social and economic well-being of the PacificNorthwest and the Nation and which are dependent on suitable environmental conditions substantially obtainable from the management and operation of the Federal Columbia River Power System and other power generating facilities on the Columbia River and its tributaries.
+&emsp;(6) to protect, mitigate and enhance the fish and wildlife, including related spawning grounds and habitat, of the Columbia River and its tributaries, particularly anadromous fish which are of significant importance to the social and economic well-being of the Pacific Northwest and the Nation and which are dependent on suitable environmental conditions substantially obtainable from the management and operation of the Federal Columbia River Power System and other power generating facilities on the Columbia River and its tributaries.
 
 (Pub. L. 96–501, §2, Dec. 5, 1980, 94 Stat. 2697.)
 

@@ -16,5 +16,5 @@ The Council shall take all action of the Council by a majority vote of the total
 
 The Council shall ensure public access to its proceedings (other than proceedings, or portions of proceedings, relating to internal personnel and management matters) and make available to the public, at reasonable cost, transcripts of such proceedings.
 
-(Pub. L. 103 227, title II, §217, Mar. 31, 1994, 108 Stat. 148.)
+(Pub. L. 103–227, title II, §217, Mar. 31, 1994, 108 Stat. 148.)
 

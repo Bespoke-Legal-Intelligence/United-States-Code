@@ -126,7 +126,7 @@ The Secretary shall, within 18 months after August 10, 1993, prepare and submit 
 
 #### (A) Required reallocation
 
-&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and thatcan be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
 
 #### (B) Permitted reallocation
 

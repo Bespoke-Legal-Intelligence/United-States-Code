@@ -24,7 +24,7 @@ For the purposes of this chapter:
 
 &emsp;(8) The term “service contract” means a contract in writing to perform, over a fixed period of time or for a specified duration, services relating to the maintenance or repair (or both) of a consumer product.
 
-&emsp;(9) The term “reasonable and necessary maintenance” consists of those operations (A) which the consumer reasonably can be expected to perform or have performed and (B)which are necessary to keep any consumer product performing its intended function and operating at a reasonable level of performance.
+&emsp;(9) The term “reasonable and necessary maintenance” consists of those operations (A) which the consumer reasonably can be expected to perform or have performed and (B) which are necessary to keep any consumer product performing its intended function and operating at a reasonable level of performance.
 
 &emsp;(10) The term “remedy” means whichever of the following actions the warrantor elects:
 
@@ -50,7 +50,7 @@ For the purposes of this chapter:
 
 &emsp;(15) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
 
-(Pub. L. 93 637, title I, §101, Jan. 4, 1975, 88 Stat. 2183.)
+(Pub. L. 93–637, title I, §101, Jan. 4, 1975, 88 Stat. 2183.)
 
 #### References in Text
 
@@ -58,5 +58,5 @@ For definition of Canal Zone, referred to in par. (15), see section 3602(b) of T
 
 #### Short Title
 
-Section 1 of Pub. L. 93 637 provided: “That this act \[enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
+Section 1 of Pub. L. 93–637 provided: “That this act \[enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
 

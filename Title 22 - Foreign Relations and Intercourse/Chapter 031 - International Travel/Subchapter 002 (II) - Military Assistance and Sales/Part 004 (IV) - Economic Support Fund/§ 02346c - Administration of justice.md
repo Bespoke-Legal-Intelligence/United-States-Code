@@ -22,7 +22,7 @@ Assistance under this section may only include—
 
 &emsp;&emsp;(D) programs, conducted through multilateral or regional institutions, to improve penal institutions and the rehabilitation of offenders;
 
-&emsp;(4) strengthening professional organizations in order to promote services to members and the role of the bar in judicial selection, enforcement of ethical standards, and legal reform;
+&emsp;(4) strengthening professional organizations in order to promote services to members andthe role of the bar in judicial selection, enforcement of ethical standards, and legal reform;
 
 &emsp;(5) increasing the availability of legal materials and publications;
 
@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 100–202, §101(e) \[title V, §579(b)\], amended subsec. 
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

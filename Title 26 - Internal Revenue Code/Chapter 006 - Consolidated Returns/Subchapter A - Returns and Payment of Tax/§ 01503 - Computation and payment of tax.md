@@ -110,7 +110,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (B) Group credit item
 
-&emsp;&emsp;The term “group credit item” means any credit allowable under part IV of subchapterA of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
+&emsp;&emsp;The term “group credit item” means any credit allowable under part IV of subchapter A of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
 
 #### (3) Other definitions
 
@@ -186,7 +186,7 @@ Subsec. (c)(1). Pub. L. 98–369, §211(b)(19)(B), struck out provision that for
 
 Subsec. (b). Pub. L. 94–455, §1052(c)(5), struck out subsec. (b) which provided for a special rule for application of foreign tax credit when overall limitation applies.
 
-Subsec. (b)(1). Pub. L. 94–455, §1031(b)(4), struck out “and if for the taxable year an election under section 904(b)(1) (relating to election of overall limitation on foreign tax credit) is in effect” after “section 921)”.
+Subsec. (b)(1). Pub. L. 94–455, §1031(b)(4), struck out “and if for the taxable year an election under section904(b)(1) (relating to election of overall limitation on foreign tax credit) is in effect” after “section 921)”.
 
 Subsec. (b)(3)(C). Pub. L. 94–455, §1901(b)(1)(Y), struck out subpar. (C) which defined “consolidated taxable income”.
 
@@ -194,7 +194,7 @@ Subsec. (c). Pub. L. 94–455, §1507(b)(3), added subsec. (c).
 
 1964—Subsec. (a). Pub. L. 88–272, §234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
 
-Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more WesternHemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
+Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
 
 Subsec. (c). Pub. L. 88–272, §234(b)(1), struck out subsec. (c) which defined regulated public utility. See section 7701(a)(33) of this title.
 
@@ -286,7 +286,7 @@ In general.—If—
 
 &emsp;&emsp;“(II) there is an unrecaptured amount with respect to such disposition,
 
-> &emsp;the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which the amendment made by paragraph (1) applies shall be taken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
+> &emsp;the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which the amendment made by paragraph (1) applies shall betaken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
 
 &emsp;“(ii)
 

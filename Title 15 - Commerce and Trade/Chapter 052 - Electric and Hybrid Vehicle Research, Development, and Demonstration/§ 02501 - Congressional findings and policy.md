@@ -38,9 +38,9 @@
 
 &emsp;(4) promote the substitution of electric and hybrid vehicles for many gasoline- and diesel-powered vehicles currently used in routine short-haul, low-load applications, where such substitution would be beneficial.
 
-(Pub. L. 94 413, §2, Sept. 17, 1976, 90 Stat. 1260.)
+(Pub. L. 94–413, §2, Sept. 17, 1976, 90 Stat. 1260.)
 
 #### Short Title
 
-Section 1 of Pub. L. 94 413 provided: “That this Act \[enacting this chapter and amending sections 2451 and 2473 of Title 42, The Public Health and Welfare\] may be cited as the ‘Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976’.”
+Section 1 of Pub. L. 94–413 provided: “That this Act \[enacting this chapter and amending sections 2451 and 2473 of Title 42, The Public Health and Welfare\] may be cited as the ‘Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976’.”
 

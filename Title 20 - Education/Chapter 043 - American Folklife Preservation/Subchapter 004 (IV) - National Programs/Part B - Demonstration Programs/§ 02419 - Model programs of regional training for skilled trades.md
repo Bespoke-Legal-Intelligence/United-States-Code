@@ -24,5 +24,5 @@ The regional model centers described in subsection (a) of this section shall—
 
 In awarding grants under this section, and to the extent practicable, the Secretary shall ensure an equitable distribution of funds available under this section to the various skilled trades.
 
-(Pub. L. 88 210, title IV, §419, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 819.)
+(Pub. L. 88–210, title IV, §419, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 819.)
 

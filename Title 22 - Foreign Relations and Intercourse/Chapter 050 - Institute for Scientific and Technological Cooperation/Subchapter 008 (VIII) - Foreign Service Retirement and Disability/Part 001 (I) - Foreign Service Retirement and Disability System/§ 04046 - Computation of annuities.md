@@ -10,7 +10,7 @@
 
 &emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(d) of that title.
 
-(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to election the annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
+(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to electionthe annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
 
 (4) All service in a law enforcement position, as defined in section 8331(20) or 8401(17) of that title, as applicable, in any agency or combination of agencies shall be included in the computation of time for purposes of this paragraph.
 
@@ -58,7 +58,7 @@
 
 #### (d) Recomputation for remaining children
 
-On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
+On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse,former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
 
 #### (e) Payment period for child
 
@@ -92,7 +92,7 @@ The Secretary of State shall, on an annual basis—
 
 &emsp;(1) inform each participant of his or her right of election under subsections (g) and (j) of this section; and
 
-&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participants or former participants of their rights under this section and section 4054 of this title.
+&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participantsor former participants of their rights under this section and section 4054 of this title.
 
 #### (<i>l</i>) Repealed. Pub. L. 100–238, title II, §217(c)(1), Jan. 8, 1988, 101 Stat. 1775
 
@@ -142,7 +142,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 #### Amendment of Section
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that</i><i>subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 
@@ -264,7 +264,7 @@ Limitation.—The election authorized in subsection (a) may only be made within 
 
 “(h)
 
-Definitions.—For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\].”
+Definitions.—For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have thesame meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\].”
 
 #### Section Referred to in Other Sections
 

@@ -32,5 +32,5 @@ A prior section 1735, Pub. L. 97–300, title IV, §455, Oct. 13, 1982, 96 Stat.
 
 #### Effective Date
 
-Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992Amendment; Transition Provisions note under section 1501 of this title.
+Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
 

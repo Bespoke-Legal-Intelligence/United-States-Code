@@ -32,7 +32,7 @@ The requirements of subsections (b), (c), and (d) of this section may be waived 
 
 #### (f) Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation
 
-(1) With respect to any rule, regulation, or order described in subsection (a) of this section,the effects of which, except for indirect effects of an inconsequential nature, are confined to—
+(1) With respect to any rule, regulation, or order described in subsection (a) of this section, the effects of which, except for indirect effects of an inconsequential nature, are confined to—
 
 &emsp;(A) a single unit of local government or the residents thereof;
 

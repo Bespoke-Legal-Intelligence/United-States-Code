@@ -186,7 +186,7 @@ Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–
 
 #### Effective Date of 1978 Amendment
 
-Section 702(a)(3) of Pub. L. 95–600, which provided that the amendments made by section 702(a) of Pub. L. 95–600 would apply to the estates of decedents dying after Dec. 31, 1979, was repealed by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299.
+Section 702(a)(3) of Pub. L. 95–600 provided that the amendments made by section 702(a) of Pub. L. 95–600 would apply to the estates of decedents dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299.
 
 #### Effective Date of 1976 Amendment
 

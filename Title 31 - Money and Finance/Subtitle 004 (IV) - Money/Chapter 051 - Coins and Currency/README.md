@@ -41,6 +41,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [5136\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Mint/%C2%A7%2005136%20-%20United%20States%20Mint%20Public%20Enterprise%20Fund.md) | United States Mint Public Enterprise Fund.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING
 
 |  |  |

@@ -1,6 +1,6 @@
 ### §6305. Home leave; leave for Chiefs of Missions; leave for crews of vessels
 
-(a) After 24 months of continuous service outside the United States (or after a shorter periodof such service if the employee's assignment is terminated for the convenience of the Government), an employee may be granted leave of absence, under regulations of the President, at a rate not to exceed 1 week for each 4 months of that service without regard to other leave provided by this subchapter. Leave so granted—
+(a) After 24 months of continuous service outside the United States (or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government), an employee may be granted leave of absence, under regulations of the President, at a rate not to exceed 1 week for each 4 months of that service without regard to other leave provided by this subchapter. Leave so granted—
 
 &emsp;(1) is for use in the United States, or if the employee's place of residence is outside the area of employment, in its territories or possessions including the Commonwealth of Puerto Rico;
 
@@ -50,17 +50,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–465, §2312(c), inserted “(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)” after “outside the United States”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2312(c), inserted “(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)” after “outside the United States”.
 
 Subsec. (b). Pub. L. 96–465, §2314(f)(2), substituted “a chief of mission” for “an officer” after “leave of absence to”.
 
-1979—Subsec. (c)(3). Pub. L. 96–54 substituted “Office” for “Commission”.
+<b>1979</b>—Subsec. (c)(3). Pub. L. 96–54 substituted “Office” for “Commission”.
 
-1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1968—Subsec. (c). Pub. L. 90–623 substituted “2” and “30” for “two” and “thirty”, respectively.
+<b>1968</b>—Subsec. (c). Pub. L. 90–623 substituted “2” and “30” for “two” and “thirty”, respectively.
 
-1966—Pub. L. 89–747 added subsec. (c) and inserted reference to leave for crews of vessels in section catchline.
+<b>1966</b>—Pub. L. 89–747 added subsec. (c) and inserted reference to leave for crews of vessels in section catchline.
 
 #### Effective Date of 1980 Amendment
 

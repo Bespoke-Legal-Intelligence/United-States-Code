@@ -4,5 +4,5 @@ Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 429; Pub. L. 90–491, §2, A
 
 #### Effective Date of Repeal
 
-Repeal effective with respect to reemployments initiated on or after first day after 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date of 1994 Amendment note under section 4301 of Title 38, Veterans’ Benefits.
+Repeal effective with respect to reemployments initiated on or after first day after 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 

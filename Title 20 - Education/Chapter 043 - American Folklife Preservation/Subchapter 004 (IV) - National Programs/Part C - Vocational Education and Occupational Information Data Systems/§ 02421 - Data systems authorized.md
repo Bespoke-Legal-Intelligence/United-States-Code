@@ -96,7 +96,7 @@ The Secretary shall report to the Congress at least biennially with respect to�
 
 (1) As a regular part of its assessments, the National Assessment of Educational Progress shall collect and report information for at least a nationally representative subsample of vocational education students, including students who are members of special populations, which shall allow for fair and accurate assessment and comparison of the educational achievement of vocational education students and other students in the areas assessed. Such assessment may include international comparisons.
 
-(2)(A) Notwithstanding any provision of section 1221e 1<sup>1</sup> of this title, the Commissioner of Education Statistics may authorize a State educational agency or a consortium of such agencies to use items and data from the National Assessment of Educational Progress for the purpose of evaluating a course of study related to vocational education, if the Commissioner has determined, in writing, that such use will not—
+(2)(A) Notwithstanding any provision of section 1221e–1 <sup>1</sup> of this title, the Commissioner of Education Statistics may authorize a State educational agency or a consortium of such agencies to use items and data from the National Assessment of Educational Progress for the purpose of evaluating a course of study related to vocational education, if the Commissioner has determined, in writing, that such use will not—
 
 &emsp;(i) result in the identification of characteristics or performance of individual students or schools;
 
@@ -114,35 +114,35 @@ The Secretary shall report to the Congress at least biennially with respect to�
 
 &emsp;(iii) a description of the details and duration of such authorization.
 
-(C) The Commissioner may not grant more than one such authorization in any fiscal yearand shall ensure that the authorized use of items or data from the National Assessment is evaluated for technical merit and for its affect on the National Assessment of Educational Progress. The results of such evaluations shall be promptly reported to the committees specified in subparagraph (B).
+(C) The Commissioner may not grant more than one such authorization in any fiscal year and shall ensure that the authorized use of items or data from the National Assessment is evaluated for technical merit and for its affect on the National Assessment of Educational Progress. The results of such evaluations shall be promptly reported to the committees specified in subparagraph (B).
 
-(Pub. L. 88 210, title IV, §421, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2472; amended Pub. L. 101 392, title IV, §407, Sept. 25, 1990, 104 Stat. 822; Pub. L. 101 476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103 227, title X, §1021, Mar. 31, 1994, 108 Stat. 269.)
+(Pub. L. 88–210, title IV, §421, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2472; amended Pub. L. 101–392, title IV, §407, Sept. 25, 1990, 104 Stat. 822; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–227, title X, §1021, Mar. 31, 1994, 108 Stat. 269.)
 
 #### References in Text
 
-Section 1221e 1 of this title, referred to in subsec. (h)(1), was repealed by Pub. L. 103 382, title II, §212(a)(1), Oct. 20, 1994, 108 Stat. 3913. See section 9001 et seq. of this title.
+Section 1221e–1 of this title, referred to in subsec. (h)(1), was repealed by Pub. L. 103–382, title II, §212(a)(1), Oct. 20, 1994, 108 Stat. 3913. See section 9001 et seq. of this title.
 
 #### Amendments
 
-1994—Subsec. (h). Pub. L. 103 227 designated existing provisions as par. (1) and added par. (2).
+1994—Subsec. (h). Pub. L. 103–227 designated existing provisions as par. (1) and added par. (2).
 
-1990—Pub. L. 101 392 amended section generally, substituting provisions relating to establishment by Secretary of vocational educational data system, to be developed and implemented by National Center for Education Statistics, functions and contents of data system, assessment of international competitiveness, use of and compatibility with other data collection systems, reports to Congress, and establishment of Vocational Education Advisory Task Force, for provisions which related to development within National Center for Education Statistics of national vocational education data reporting and accounting system, contents of data system, cost containment measures, compatibility with other systems, cooperation by States, updates of system, and special studies on enrollment of disadvantaged students.
+1990—Pub. L. 101–392 amended section generally, substituting provisions relating to establishment by Secretary of vocational educational data system, to be developed and implemented by National Center for Education Statistics, functions and contents of data system, assessment of international competitiveness, use of and compatibility with other data collection systems, reports to Congress, and establishment of Vocational Education Advisory Task Force, for provisions which related to development within National Center for Education Statistics of national vocational education data reporting and accounting system, contents of data system, cost containment measures, compatibility with other systems, cooperation by States, updates of system, and special studies on enrollment of disadvantaged students.
 
-Subsec. (b)(1). Pub. L. 101 476 substituted reference to Individuals with Disabilities Education Act for reference to Education of the Handicapped Act.
+Subsec. (b)(1). Pub. L. 101–476 substituted reference to Individuals with Disabilities Education Act for reference to Education of the Handicapped Act.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1991, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1991, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2402, 2414, 2423, 2451 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

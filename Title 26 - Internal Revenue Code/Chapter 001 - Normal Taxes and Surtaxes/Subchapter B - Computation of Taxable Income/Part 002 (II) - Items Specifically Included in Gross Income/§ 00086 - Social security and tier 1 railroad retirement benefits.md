@@ -144,7 +144,7 @@ For purposes of—
 
 > any social security benefit shall be treated as an amount received as a pension or annuity.
 
-(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(<i>o</i>)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII,§12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523.)
+(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(<i>o</i>)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Amendment by section 2661 of Pub. L. 98–369 effective as though included in th
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–76 applicable to benefits received after Dec. 31, 1983, in taxable years ending aftersuch date, except for portions of lump-sum payments received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 227(b) of Pub. L. 98–76 set out as a note under section 72 of this title.
+Amendment by Pub. L. 98–76 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for portions of lump-sum payments received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 227(b) of Pub. L. 98–76 set out as a note under section 72 of this title.
 
 #### Effective Date
 

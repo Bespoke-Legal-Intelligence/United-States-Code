@@ -10,19 +10,19 @@ The Congress finds that—
 
 &emsp;(4) financial assistance to establish or strengthen the physical plants, financial management, academic resources, and endowments of the historically Black colleges and universities are appropriate methods to enhance these institutions and facilitate a decrease in reliance on governmental financial support and to encourage reliance on endowments and private sources.
 
-(Pub. L. 89 329, title III, §321, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1294.)
+(Pub. L. 89–329, title III, §321, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1294.)
 
 #### References in Text
 
 The Morrill Act of 1862, referred to in par. (2), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, also known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-This chapter, referred to in par. (2), was in the original “this Act”, meaning Pub. L. 89 329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in par. (2), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1060, Pub. L. 89 329, title III, §321, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1393, set out purpose and grant authority for program of aiding institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1060, Pub. L. 89–329, title III, §321, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1393, set out purpose and grant authority for program of aiding institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1060, Pub. L. 90 575, title V, §504, Oct. 16, 1968, 82 Stat. 1062, related to eligibility for student assistance because of conviction of crimes involving force, disruption, or seizure of property of educational institution; refusal to obey regulations or orders and disruption of administration of institution; other misconduct, disciplinary proceedings, and freedom of expression; and description of programs covered by such disqualification, prior to repeal by Pub. L. 92 318, title I, §139B(b), June 23, 1972, 86 Stat. 282.
+Another prior section 1060, Pub. L. 90–575, title V, §504, Oct. 16, 1968, 82 Stat. 1062, related to eligibility for student assistance because of conviction of crimes involving force, disruption, or seizure of property of educational institution; refusal to obey regulations or orders and disruption of administration of institution; other misconduct, disciplinary proceedings, and freedom of expression; and description of programs covered by such disqualification, prior to repeal by Pub. L. 92–318, title I, §139B(b), June 23, 1972, 86 Stat. 282.
 
 #### Executive Order No. 12320
 
@@ -38,7 +38,7 @@ Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to advance the development of human potential, to strengthen the capacity of historically Black colleges and universities to provide quality education, and to increase opportunities to participate in and benefit from Federal programs, it is hereby ordered as follows:
 
-Section 1. There shall be established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities (“Board of Advisors” or “Board”), a Presidential advisory committee. The Board of Advisors shall issue an annual report to the President on participation by historically Black colleges and universities in federally sponsored programs. The Board of Advisors will also provide advice to the Secretary of Education (“Secretary”) and in the annual report to the President on how to increase the private sector role in strengthening historically Black colleges and universities, with particular emphasis on enhancing institutional infrastructure and facilitating planning, development, and the use of new technologies to ensure the goal of long-term viability and enhancement of these institutions. Notwithstanding the provisions of any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), which is applicable to the Board of Advisors, shall be performed by the Secretary, in accordance with the guidelines and procedures established by the Administrator of General Services.
+Section 1. There shall be established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities (“Board of Advisors” or “Board”), a Presidential advisory committee. The Board of Advisors shall issue an annual report to the President on participation by historically Black colleges and universities in federally sponsored programs. The Board of Advisors will also provide advice to the Secretary of Education (“Secretary”) and in the annual report to the President on how to increase the private sector role in strengthening historically Black colleges and universities, with particular emphasis on enhancing institutional infrastructure and facilitating planning, development, and the use of new technologies to ensure the goal of long-term viability and enhancement of these institutions. Notwithstanding the provisions of any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), which isapplicable to the Board of Advisors, shall be performed by the Secretary, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 Sec. 2. The members of the Board of Advisors shall be appointed by the President. The Board shall include representatives of historically Black colleges and universities, other institutions of higher education, business and financial institutions, private foundations, and secondary education.
 
@@ -54,13 +54,13 @@ Sec. 7. Each year the Board of Advisors shall report to the President on the pro
 
 Sec. 8. The Department of Education, along with other Federal departments or agencies, shall work to encourage the private sector to assist historically Black colleges and universities through increased use of such devices and activities as: (1) private sector matching funds to support increased endowments; (2) private sector task forces for institutions in need of assistance; and (3) private sector expertise to facilitate the development of more effective ways to manage finances, improve information management, strengthen facilities, and improve course offerings. These steps will be taken with the goals of enhancing the career prospects of graduates of historically Black colleges and universities and increasing the number of such graduates with degrees in science and technology.
 
-Sec. 9. In all its recommendations, the Board of Advisors shall emphasize ways to support the long-term development plans of each historically Black college anduniversity. The Board of Advisors shall recommend alternative sources of faculty talent, particularly in the fields of science and technology, including faculty exchanges and referrals from other institutions of higher education, private sector retirees, Federal employees and retirees, and emeritus faculty members at other institutions of higher education.
+Sec. 9. In all its recommendations, the Board of Advisors shall emphasize ways to support the long-term development plans of each historically Black college and university. The Board of Advisors shall recommend alternative sources of faculty talent, particularly in the fields of science and technology, including faculty exchanges and referrals from other institutions of higher education, private sector retirees, Federal employees and retirees, and emeritus faculty members at other institutions of higher education.
 
 Sec. 10. The Board of Advisors, through the White House Initiative, shall provide advice on how historically Black colleges and universities can achieve greater financial security. To the maximum extent possible, the Board of Advisors shall consider how such institutions can enlist the resources and experience of the private sector to achieve such security.
 
 Sec. 11. The Director of the Office of Personnel Management, in consultation with the Secretary and the Secretary of Labor, shall develop a program to improve recruitment and participation of graduates and undergraduate students of historically Black colleges and universities in part-time, summer and permanent positions in the Federal Government.
 
-Sec. 12. Administration: (a) Members of the Board of Advisors shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service, (5 U.S.C. 5701 5707).
+Sec. 12. Administration: (a) Members of the Board of Advisors shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service, (5 U.S.C. 5701–5707).
 
 (b) The Board of Advisors and the White House Initiative shall obtain funding for their activities from the Department of Education.
 
@@ -70,13 +70,17 @@ Sec. 13. Executive Order No. 12677 of April 28, 1989, is hereby revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Extension of Term of President's Board of Advisors on Historically Black Colleges and Universities
+
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Determinations Regarding President's Board of Advisors
 
 Memorandum of the President of the United States, Aug. 17, 1990, 55 F.R. 46491, provided:
 
 Memorandum for the Secretary of Education
 
-By virtue of the authority vested in me as President by the Constitution and the laws of the United States of America, including section 208 of title 18 of the United States Code and section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of Education my authority to make determinations under subsection (b) of section 208 of title 18, United States Code, for the members of the President's Board of Advisors on Historically Black Colleges and Universities, established pursuant to Executive Order 12677 of April 28, 1989 \[formerly set out above\].
+By virtue of the authority vested in me as President by the Constitution and the laws of the United Statesof America, including section 208 of title 18 of the United States Code and section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of Education my authority to make determinations under subsection (b) of section 208 of title 18, United States Code, for the members of the President's Board of Advisors on Historically Black Colleges and Universities, established pursuant to Executive Order 12677 of April 28, 1989 \[formerly set out above\].
 
 This memorandum shall be published in the Federal Register.
 

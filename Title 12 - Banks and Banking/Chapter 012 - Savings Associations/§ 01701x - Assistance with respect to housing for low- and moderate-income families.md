@@ -38,7 +38,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and in accordance with the procedures, that the Secretary requires.
+&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and inaccordance with the procedures, that the Secretary requires.
 
 &emsp;(B) The homeownership counseling organizations receiving assistance under this subsection shall use the assistance only to provide homeownership counseling to eligible homeowners.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;The Secretary shall, to the extent of amounts approved in appropriation Acts, enter into an agreement with an appropriate private entity under which the entity will—
 
-&emsp;&emsp;&emsp;(i) operate a toll-free telephone number through which any eligible homeowner can obtain a list of nonprofit organizations, which shall be updated annually, that—
+&emsp;&emsp;&emsp;(i) operate a toll-free telephone number through which any eligible homeowner canobtain a list of nonprofit organizations, which shall be updated annually, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) are approved by the Secretary and experienced in the provision of homeownership counseling; and
 
@@ -508,7 +508,7 @@ Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted “section 1715z of this
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1981 Amendment
 

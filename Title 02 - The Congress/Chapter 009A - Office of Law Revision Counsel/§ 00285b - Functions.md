@@ -8,7 +8,7 @@ The functions of the Office shall be as follows:
 
 &emsp;(3) To prepare and publish periodically a new edition of the United States Code (including those titles which are not yet enacted into positive law as well as those titles which have been so enacted), with annual cumulative supplements reflecting newly enacted laws.
 
-&emsp;(4) To classify newly enacted provisions of law to their proper positions in the Code wherethe titles involved have not yet been enacted into positive law.
+&emsp;(4) To classify newly enacted provisions of law to their proper positions in the Code where the titles involved have not yet been enacted into positive law.
 
 &emsp;(5) To prepare and submit periodically such revisions in the titles of the Code which have been enacted into positive law as may be necessary to keep such titles current.
 
@@ -24,7 +24,7 @@ Section is based on section 205(c) of House Resolution No. 988, Ninety-third Con
 
 #### Amendments
 
-1976—Par. (6). Pub. L. 94–386 substituted “through publication of the fifth annual cumulative supplement to the 1973 edition of such Code” for “until such time as the District of Columbia Self–Government and Governmental Reorganization Act becomes effective”.
+1976—Par. (6). Pub. L. 94–386 substituted “through publication of the fifth annual cumulative supplement to the 1973 edition of such Code” for “until such timeas the District of Columbia Self–Government and Governmental Reorganization Act becomes effective”.
 
 #### Preparation and Publication of New Edition of the District of Columbia Code Under Direction of Council of the District of Columbia
 

@@ -1528,9 +1528,11 @@ Section 522(c)(2) of Pub. L. 103–182 provided that: “Not later than 90 days 
 
 #### Procedures and Policies To Safeguard Confidentiality of Taxpayer Information
 
-Pub. L. 103–329, title I, §108, Sept. 30, 1994, 108 Stat. 2390, provided that: “The Internal Revenue Service shall institute policies and procedures which will safeguard the confidentiality of taxpayer information.”
+Pub. L. 104–52, title I, §105, Nov. 19, 1995, 109 Stat. 476, provided that: “The Internal Revenue Service shall institute policies and procedures which will safeguard the confidentiality of taxpayer information.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–329, title I, §108, Sept. 30, 1994, 108 Stat. 2390.
 
 Pub. L. 103–123, title I, §107, Oct. 28, 1993, 107 Stat. 1234.
 
@@ -1668,7 +1670,7 @@ Unauthorized disclosure, punishment for, see section 7213 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 274, 412, 2204, 3406, 4424, 6104, 6108, 7213, 7431, 7602, 7809, 8021, 9706 of this title; title 5 sections 552a, 3111; title 13 section 91; title 20 section 1087e; title 28 section 594; title 29 sections 753a, 1085a, 1134; title 31 sections 713, 7701; title 38 section 5317; title 42 sections 432, 1320b–7, 1320b–11, 1320b–14, 1383, 1395y, 3544; title 50 App. section 2411.
+This section is referred to in sections 274, 412, 2204, 3406, 4424, 6104, 6108, 7213, 7431, 7602, 7809, 8021, 9706 of this title; title 5 sections 552a, 3111; title 13 section 91; title 20 section 1087e; title 28 section 594; title 29 sections 753a, 1085a, 1134; title 31 sections 713, 7701; title 38 section 5317; title 42 sections 432, 1320b–7, 1320b–11, 1320b–14, 1383, 1395y, 3544; title 50 section 436; title 50 App. section 2411.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection (l)(12),”.</i>
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) does not require a separate location from another Academy or other training program; and
 
-&emsp;&emsp;(B) the term “eligible entity” means a technical assistance center assisted under subpart 2<sup>1</sup> of part C of this subchapter of this chapter as such chapter was in effect on the day before July 23, 1992, a local educational agency, an institution of higher education, a museum, a private nonprofit educational organization of demonstrated effectiveness, or a consortium of any 2 or more such entities.
+&emsp;&emsp;(B) the term “eligible entity” means a technical assistance center assisted under subpart 2 <sup>1</sup> of part C of this subchapter of this chapter as such chapter was in effect on the day before July 23, 1992, a local educational agency, an institution of higher education, a museum, a private nonprofit educational organization of demonstrated effectiveness, or a consortium of any 2 or more such entities.
 
 #### (b) Application required
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) Each eligible entity desiring to operate an Academy under this section shall submit an application to the State educational agency at such time, in such manner and accompanied by such information as the State may reasonably require. Such Academy may be operated in cooperation or consortium with an Academy of another State.
 
-&emsp;(B) A priority for awards shall be given to entities who received funds under subpart 2<sup>1</sup> of part C of this subchapter as in effect on September 30, 1991.
+&emsp;(B) A priority for awards shall be given to entities who received funds under subpart 2 <sup>1</sup> of part C of this subchapter as in effect on September 30, 1991.
 
 #### (2) Contents
 
@@ -88,7 +88,7 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 &emsp;(5) providing intensive training and development programs for current school leaders seeking enhanced and up-to-date knowledge needed to perform their jobs effectively;
 
-&emsp;(6) identifying local educational agencies and schools with principal and other school leader vacancies and working with such agencies and schools to match Academy participants with such vacancies;
+&emsp;(6) identifying local educational agencies and schools with principal and other schoolleader vacancies and working with such agencies and schools to match Academy participants with such vacancies;
 
 &emsp;(7) facilitating internships for graduates of the program for new school leaders, under the guidance and supervision of experienced administrators;
 
@@ -104,15 +104,15 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 Funds received under this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this subpart, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remaining share shall be provided from non-Federal sources, and be in cash or in kind, fairly valued.
 
-(Pub. L. 89 329, title V, §506, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 666.)
+(Pub. L. 89–329, title V, §506, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 666.)
 
 #### References in Text
 
-Subpart 2 of part C of this subchapter of this chapter as such chapter was in effect on the day before July 23, 1992, and subpart 2 of part C of this subchapter as in effect on September 30, 1991, referred to in subsecs. (a)(2)(B) and (b)(1)(B), respectively, were classified to section 1109 et seq. of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+Subpart 2 of part C of this subchapter of this chapter as such chapter was in effect on the day before July 23, 1992, and subpart 2 of part C of this subchapter as in effect on September 30, 1991, referred to in subsecs. (a)(2)(B) and (b)(1)(B), respectively, were classified to section 1109 et seq. of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1102, 1102a, 1102c of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

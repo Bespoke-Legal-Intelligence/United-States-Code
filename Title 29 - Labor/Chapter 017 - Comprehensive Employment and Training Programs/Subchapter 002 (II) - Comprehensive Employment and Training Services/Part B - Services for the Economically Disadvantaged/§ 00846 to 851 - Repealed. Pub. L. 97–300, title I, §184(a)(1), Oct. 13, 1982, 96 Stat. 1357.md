@@ -2,7 +2,7 @@
 
 Section 846, Pub. L. 93–203, title II, §211, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1954, described types of comprehensive employment and training services programs.
 
-A prior section 846, Pub. L. 93–203, title II, §206, Dec. 28, 1973, 87 Stat. 854, related to approval of applicationsfor financial assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 846, Pub. L. 93–203, title II, §206, Dec. 28, 1973, 87 Stat. 854, related to approval of applications for financial assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 A prior section 211 of Pub. L. 93–203, title II, Dec. 28, 1973, 87 Stat. 857; Pub. L. 93–567, title I, §103, Dec. 31, 1974, 88 Stat. 1847, related to a determination of areas of substantial unemployment which was formerly classified to section 851 of this title, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

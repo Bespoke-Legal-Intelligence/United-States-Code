@@ -16,15 +16,15 @@ The Secretary shall report to the Congress on the results of the evaluation cond
 
 The Secretary shall widely disseminate information about the results of the class size demonstration projects assisted under this subpart.
 
-(Pub. L. 89 329, title V, §565, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 702.)
+(Pub. L. 89–329, title V, §565, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 702.)
 
 #### Prior Provisions
 
-A prior section 1109d, Pub. L. 89 329, title V, §545, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1505; amended Pub. L. 100 50, §16(5), June 3, 1987, 101 Stat. 359, defined terms for purposes of leadership in educational administration development program, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1109d, Pub. L. 89–329, title V, §545, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1505; amended Pub. L. 100–50, §16(5), June 3, 1987, 101 Stat. 359, defined terms for purposes of leadership in educational administration development program, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 565 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1511, related to evaluation of applications for Christa McAuliffe fellowships and was classified to section 1113d of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 565 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1511, related to evaluation of applications for Christa McAuliffe fellowships and was classified to section 1113d of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 565 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2896, provided for selection of Carl D. Perkins Scholars and was classified to section 1119d 4 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 565 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2896, provided for selection of Carl D. Perkins Scholars and was classified to section 1119d–4 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Section Referred to in Other Sections
 

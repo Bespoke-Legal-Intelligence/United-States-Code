@@ -50,17 +50,17 @@ The word “performed” is substituted for “rendered” to conform to the sty
 
 #### Amendments
 
-1982—Subsec. (c). Pub. L. 97–258 substituted “section 9101(2)” for “section 856”, and “chapter 91” for “sections 841–869”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–258 substituted “section 9101(2)” for “section 856”, and “chapter 91” for “sections 841–869”.
 
-1976—Subsec. (b). Pub. L. 94–273 inserted “during the first fifteen days of October following the furnishing of the statement” after “its control” and substituted “July 1 through June 30 expense period” for “fiscal year” and “the fiscal year beginning in the next calendar year” for “the next fiscal year”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 inserted “during the first fifteen days of October following the furnishing of the statement” after “its control” and substituted “July 1 through June 30 expense period” for “fiscal year” and “the fiscal year beginning in the next calendar year” for “the next fiscal year”.
 
-1974—Subsec. (a). Pub. L. 93–416, §26, substituted “Office of Management and Budget” for “Bureau of the Budget”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §26, substituted “Office of Management and Budget” for “Bureau of the Budget”.
 
 Subsec. (c). Pub. L. 93–416, §25, inserted reference to the United States Postal Service.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 25 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by section 25 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 Amendment by section 26 of Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any death or injury occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 

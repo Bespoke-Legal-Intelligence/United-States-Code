@@ -22,7 +22,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(2) be executed by the chief executive officer or other officer of the State or unit of general local government who qualifies under regulations of the Secretary;
 
-&emsp;(3) specify that the State or unit of general local government under this section has fullycarried out its responsibilities as described under subsection (a) of this section; and
+&emsp;(3) specify that the State or unit of general local government under this section has fully carried out its responsibilities as described under subsection (a) of this section; and
 
 &emsp;(4) specify that the certifying officer—
 

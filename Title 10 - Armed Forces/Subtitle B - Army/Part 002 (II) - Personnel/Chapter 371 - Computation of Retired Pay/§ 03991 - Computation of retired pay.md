@@ -1,4 +1,4 @@
-### §3991 . Computation of retired pay
+### §3991. Computation of retired pay
 
 (a)
 
@@ -48,31 +48,33 @@ Act
 
 10:316b(b) (7th and 8th words).
 
-10:941a(a)(3) (proviso, less applicability to retired grade).
-
-10:941a(e) (1st proviso of clause (1), less applicability to retired grade).
-
 R.S. 1274.
 
 Mar. 2, 1907, ch. 2515, §1 (less 1st 35 words, and less proviso), 34 Stat. 1217.
 
-June 3, 1916, ch. 134, §4c (24 words before proviso); added June 4, 1920, ch. 227, §4 (last 18 words of 4th sentence of 7th par.); May 12, 1939, ch. 127 (75th through 91st words); Oct. 14, 1940, ch. 858, §1 (last 26 words); restated June 29, 1945, ch. 197 (21 words before proviso); restated Aug. 7, 1947, ch. 512, §513(c) (24 words before proviso), 61 Stat. 902.
-
 3991(A)
 
-10:166g(a) (less 1st 49 words; less 1st proviso; and less 1st 84 words of last proviso).
-
 3991(B)
+
+10:941a(a)(3) (proviso, less applicability to retired grade).
+
+10:941a(e) (1st proviso of clause (1), less applicability to retired grade).
+
+10:166g(a) (less 1st 49 words; less 1st proviso; and less 1st 84 words of last proviso).
 
 10:941a(a)(3) (less 31st through 42d words, and less proviso).
 
 10:941a(e) (clause (1), less 1st 25, and 59th through 113th, words; and less 1st proviso).
+
+June 3, 1916, ch. 134, §4c (24 words before proviso); added June 4, 1920, ch. 227, §4 (last 18 words of 4th sentence of 7th par.); May 12, 1939, ch. 127 (75th through 91st words); Oct. 14, 1940, ch. 858, §1 (last 26 words); restated June 29, 1945, ch. 197 (21 words before proviso); restated Aug. 7, 1947, ch. 512, §513(c) (24 words before proviso), 61 Stat. 902.
 
 3991(C)
 
 3991(D)
 
 3991(E)
+
+3991 Footnote 1
 
 10:971.
 
@@ -82,15 +84,13 @@ June 3, 1916, ch. 134, §4c (24 words before proviso); added June 4, 1920, ch. 2
 
 10:980.
 
-July 31, 1935, ch. 422, §5 (less 1st 101 words, and less 3d proviso); restated June 13, 1940, ch. 344, §3 (less 1st 45 words, and less 2d proviso), 54 Stat. 380; Aug. 7, 1947, ch. 512, §§514(g), 521(a), 61 Stat. 906, 912; June 29, 1948, ch. 708, §202 (less 1st 105 words), 62 Stat. 1084.
-
-3991 Footnote 1.
-
 10:506b(d) (1st proviso).
 
 10:1079a(b) (proviso).
 
-3991 Footnote 2.
+July 31, 1935, ch. 422, §5 (less 1st 101 words, and less 3d proviso); restated June 13, 1940, ch. 344, §3 (less 1st 45 words, and less 2d proviso), 54 Stat. 380; Aug. 7, 1947, ch. 512, §§514(g), 521(a), 61 Stat. 906, 912; June 29, 1948, ch. 708, §202 (less 1st 105 words), 62 Stat. 1084.
+
+3991 Footnote 2
 
 10:156c (less 1st 43, and last 13, words).
 
@@ -110,13 +110,13 @@ Aug. 10, 1946, ch. 952, §6(c), 60 Stat. 996.
 
 Apr. 16, 1947, ch. 38, §108(a) (less 1st 49 words, and less 1st 84 words of last proviso), 61 Stat. 44.
 
-3991 Footnote 3.
+3991 Footnote 3
+
+3991 Footnote 4
+
+3991 Footnote 5
 
 \[No source\].
-
-3991 Footnote 4.
-
-3991 Footnote 5.
 
 10:166g(a) (1st proviso).
 
@@ -216,7 +216,7 @@ Formula D. Pub. L. 85–422, §6(8), substituted “monthly basic pay to which m
 
 Footnote 1. Pub. L. 85–422, §6(1), struck out provisions which related to inapplicability of section 3962(a), and inserted provisions permitting computation at the highest rates of basic pay applicable to an officer who has served as Chief of Staff while he served in that office.
 
-1957—Pub. L. 85–155 redesignated formulas “B” to “E” of the table as formulas “A” to “D”. Former formula “A”, which related to computation of retirement pay for persons retired under former sections 3881, 3882, and 3912 of this title, was repealed by Pub. L. 85–155.
+1957—Pub. L. 85–155 redesignated formulas “B” to “E” of the table as formulas “A” to “D”. Former formula“A”, which related to computation of retirement pay for persons retired under former sections 3881, 3882, and 3912 of this title, was repealed by Pub. L. 85–155.
 
 #### Effective Date of 1994 Amendment
 

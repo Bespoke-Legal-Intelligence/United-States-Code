@@ -6,7 +6,7 @@ The President may appoint a nonpartisan Board on Mobilization of Industries Esse
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in sections 4502(d) and 9502(d) of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
+Provisions similar to those in this section were contained in sections 4502(d) and 9502(d) of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
 
 #### Amendments
 

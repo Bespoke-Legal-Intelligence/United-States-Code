@@ -42,7 +42,7 @@ The words “and foster” in 49 App.:1346 are omitted as surplus. The words “
 
 #### Pub. L. 103–429, §6(47)(A), (B)
 
-This makes conforming amendments to 49:40104, as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1102), because of the restatement of 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
+This makes conforming amendments to 49:40104, as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1102), because of the restatementof 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
 
 Pub. L. 103–429, §6(47)(C)
 

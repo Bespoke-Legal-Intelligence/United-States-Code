@@ -8,7 +8,7 @@
 
 &emsp;(3) Notwithstanding paragraphs (1) and (2) of this subsection for an employee of the Department of Transportation who occupies a nonmanagerial position in GS–14 or under and, as determined by the Secretary of Transportation,
 
-&emsp;&emsp;(A) the duties of which are critical to the immediate daily operation of the air traffic control system, directly affect aviation safety, and involve physical or mental strain or hardship;
+&emsp;&emsp;(A) the duties of which are critical to the immediate daily operation of the air trafficcontrol system, directly affect aviation safety, and involve physical or mental strain or hardship;
 
 &emsp;&emsp;(B) in which overtime work is therefore unusually taxing; and
 
@@ -46,7 +46,9 @@
 
 &emsp;(2) such investigator shall be compensated for all other overtime work under section 5545a.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427.)
+(e) Notwithstanding subsection (d)(1) of this section, all hours of overtime work scheduled in advance of the administrative workweek shall be compensated under subsection (a) if that work involves duties as authorized by section 3056(a) of title 18, United States Code, and if the investigator performs, on that same day, at least 2 hours of overtime work not scheduled in advance of the administrative workweek.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496.)
 
 Historical and Revision Notes<br>1966
 
@@ -106,25 +108,27 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), i
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–329 added subsec. (d).
+<b>1995</b>—Subsec. (e). Pub. L. 104–52 added subsec. (e).
 
-1992—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted “officer,” for “officer (within the meaning of section 8331(20) or 8401(17)),” and realigned margin of closing provision.
+<b>1994</b>—Subsec. (d). Pub. L. 103–329 added subsec. (d).
+
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted “officer,” for “officer (within the meaning of section 8331(20) or 8401(17)),” and realigned margin of closing provision.
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
 
 Subsec. (a)(4). Pub. L. 101–509, §529 \[title IV, §410(a)\], added par. (4).
 
 Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
-1984—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted “, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station”.
+<b>1984</b>—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted “, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station”.
 
-1971—Subsec. (a). Pub. L. 92–194 substituted “For full-time, part-time and intermittent tours of duty, hours” for “Hours”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–194 substituted “For full-time, part-time and intermittent tours of duty, hours” for “Hours”.
 
-1968—Subsec. (a)(3). Pub. L. 90–556 added par. (3).
+<b>1968</b>—Subsec. (a)(3). Pub. L. 90–556 added par. (3).
 
-1967—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
+<b>1967</b>—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
 #### Effective Date of 1994 Amendment
 
@@ -144,11 +148,11 @@ Section 3 of Pub. L. 90–556 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1967 Amendment
 
-Section 220(a)(4) of title II of Pub. L. 90–206 provided that, except as otherwise expressly provided: “Sections 222 \[enacting section 5733 of this title and amending sections 5542 and 5544 of this title and section 3571 of Title 39, The Postal Service\], and 223 \[enacting section 5345 of this title\] shall become effective thirty days after the date of enactment of this title \[Dec. 16, 1967\].”
+Section 220(a)(4) of title II of Pub. L. 90–206 provided that, except as otherwise expressly provided: “Sections 222 \[enacting section 5733 of this title and amending this section, section 5544 of this title, section 3571 of Title 39, The Postal Service\], and 223 \[enacting section 5345 of this title\] shall become effective thirty days after the date of enactment of this title \[Dec. 16, 1967\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5543, 5545, 5545a, 5546, 5547, 6123, 6128 of this title; title 14 section 432; title 15 section 278e; title 20 section 241; title 32 section 709.
+This section is referred to in sections 5543, 5545, 5545a, 5546, 5547, 6123, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

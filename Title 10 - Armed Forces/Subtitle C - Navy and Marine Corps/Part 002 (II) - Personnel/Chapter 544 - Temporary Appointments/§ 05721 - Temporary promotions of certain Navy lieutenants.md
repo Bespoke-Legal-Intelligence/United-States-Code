@@ -1,4 +1,4 @@
-### §5721 . Temporary promotions of certain Navy lieutenants
+### §5721. Temporary promotions of certain Navy lieutenants
 
 (a) An officer in the line of the Navy in the grade of lieutenant who—
 

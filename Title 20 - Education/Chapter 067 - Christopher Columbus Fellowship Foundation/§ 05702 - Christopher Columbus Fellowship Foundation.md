@@ -42,5 +42,5 @@ Each member of the Board of Trustees appointed under subsection (b) of this sect
 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.
 
-(Pub. L. 102 281, title IV, §423, May 13, 1992, 106 Stat. 142.)
+(Pub. L. 102–281, title IV, §423, May 13, 1992, 106 Stat. 142.)
 

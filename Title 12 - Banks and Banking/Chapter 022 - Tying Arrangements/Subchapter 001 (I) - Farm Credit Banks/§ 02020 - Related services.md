@@ -1,4 +1,4 @@
-### §2020 . Related services
+### §2020. Related services
 
 #### (a) In general
 

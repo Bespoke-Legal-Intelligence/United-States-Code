@@ -30,7 +30,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 &emsp;(9) assess the impact, if any, of the increase in police resources on other components of the criminal justice system;
 
-&emsp;(10) explain how the grant will be utilized to reorient the affected law enforcement agency's mission toward community-oriented policingor enhance its involvement in or commitment to community-oriented policing; and
+&emsp;(10) explain how the grant will be utilized to reorient the affected law enforcement agency's mission toward community-oriented policing or enhance its involvement in or commitment to community-oriented policing; and
 
 &emsp;(11) provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increase their ranks within the sworn positions in the law enforcement agency.
 
@@ -38,7 +38,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 #### (1) Small jurisdictions
 
-&emsp;Notwithstanding any other provision of this subchapter, in relation to applications under this subchapter of units of local government or law enforcement agencies having jurisdiction over areas with populations of less than 50,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
+&emsp;Notwithstanding any other provision of this subchapter, in relation to applications underthis subchapter of units of local government or law enforcement agencies having jurisdiction over areas with populations of less than 50,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
 
 #### (2) Small grant amount
 

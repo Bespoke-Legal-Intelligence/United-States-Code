@@ -20,7 +20,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1986—Pub. L. 99–544 substituted “Agriculture and irrigation” for “Agriculture, irrigation, and drainage” insection catchline, and struck out “drainage” after “census of irrigation and” in subsec. (b).
+1986—Pub. L. 99–544 substituted “Agriculture and irrigation” for “Agriculture, irrigation, and drainage” in section catchline, and struck out “drainage” after “census of irrigation and” in subsec. (b).
 
 1976—Subsec. (a). Pub. L. 94–229 substituted reference years of 1979 and 1983 for reference year 1959 and struck out discretionary power of Secretary to take agricultural census in conjunction with population, unemployment and housing census time frame contained in section 141 of this title.
 

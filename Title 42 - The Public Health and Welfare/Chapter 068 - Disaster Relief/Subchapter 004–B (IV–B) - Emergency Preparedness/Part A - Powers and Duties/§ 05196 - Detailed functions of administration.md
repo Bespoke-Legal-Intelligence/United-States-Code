@@ -66,11 +66,9 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 (2) Facilities acquired by purchase, donation, or other means of transfer may be occupied, used, and improved for the purposes of this subchapter before the approval of title by the Attorney General as required by section 255 of title 40.
 
-(3) The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.
+(3) The Director may lease real property required for the purpose of carrying out the provisions of this subsection, but shall not acquire fee title to property unless specifically authorized by law.
 
-(4) The Director may lease real property required for the purpose of carrying out the provisions of this subsection, but shall not acquire fee title to property unless specifically authorized by law.
-
-(5) The Director may procure and maintain under this subsection radiological, chemical, bacteriological, and biological agent monitoring and decontamination devices and distribute such devices by loan or grant to the States for emergency preparedness purposes, under such terms and conditions as the Director shall prescribe.
+(4) The Director may procure and maintain under this subsection radiological, chemical, bacteriological, and biological agent monitoring and decontamination devices and distribute such devices by loan or grant to the States for emergency preparedness purposes, under such terms and conditions as the Director shall prescribe.
 
 #### (j) Financial contributions
 
@@ -94,7 +92,7 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 The Director may arrange for the sale or disposal of materials and facilities found by the Director to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.). Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
 
-(Pub. L. 93–288, title VI, §611, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3102.)
+(Pub. L. 93–288, title VI, §611, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3102; amended Pub. L. 104–66, title II, §2071, Dec. 21, 1995, 109 Stat. 729.)
 
 #### References in Text
 
@@ -107,6 +105,10 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2281 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+
+#### Amendments
+
+1995—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.”
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 

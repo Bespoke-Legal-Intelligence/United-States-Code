@@ -38,7 +38,7 @@ To carry out the purpose of this section there is hereby established the Women's
 
 #### (d) Acquisition of lands and interests
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation. Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation. Within two years of theacquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.
 
 #### (e) Cooperative agreements
 
@@ -50,7 +50,7 @@ The Secretary shall encourage State and local governmental agencies to develop a
 
 #### (g) Administration
 
-The Secretary shall administer the park in accordance with the provisions of this section andthe provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this section and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (h) Women's Rights National Historical Park Advisory Commission; membership; Chair; compensation and expenses; function; consultation; termination
 

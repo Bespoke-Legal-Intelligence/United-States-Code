@@ -10,7 +10,7 @@ As expeditiously as practicable but not later than one year after August 7, 1977
 
 &emsp;(3) the extent to which compliance with the requirements of such plan is dependent upon use of coal or coal derivatives which is not locally or regionally available.
 
-> Each State shall submit the results of its review and its determination under this paragraph tothe Administrator promptly upon completion thereof.
+> Each State shall submit the results of its review and its determination under this paragraph to the Administrator promptly upon completion thereof.
 
 #### (b) Plan revision
 

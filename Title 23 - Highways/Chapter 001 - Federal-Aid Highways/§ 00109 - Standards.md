@@ -1,12 +1,32 @@
 ### §109. Standards
 
-(a) The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.
+(a)
+
+In General.—The Secretary shall ensure that the plans and specifications for each proposed highway project under this chapter provide for a facility that will—
+
+&emsp;(1) adequately serve the existing and planned future traffic of the highway in a manner that is conducive to safety, durability, and economy of maintenance; and
+
+&emsp;(2) be designed and constructed in accordance with criteria best suited to accomplish the objectives described in paragraph (1) and to conform to the particular needs of each locality.
 
 (b) The geometric and construction standards to be adopted for the Interstate System shall be those approved by the Secretary in cooperation with the State highway departments. Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project. Such standards shall in all cases provide for at least four lanes of traffic. The right-of-way width of the Interstate System shall be adequate to permit construction of projects on the Interstate System to such standards. The Secretary shall apply such standards uniformly throughout all the States.
 
 (c)
 
-Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System, for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards.
+Design Criteria for National Highway System.—
+
+&emsp;(1)
+
+In general.—A design for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the National Highway System (other than a highway also on the Interstate System) may take into account, in addition to the criteria described in subsection (a)—
+
+&emsp;&emsp;(A) the constructed and natural environment of the area;
+
+&emsp;&emsp;(B) the environmental, scenic, aesthetic, historic, community, and preservation impacts of the activity; and
+
+&emsp;&emsp;(C) access for other modes of transportation.
+
+&emsp;(2)
+
+Development of criteria.—The Secretary, in cooperation with State highway departments, may develop criteria to implement paragraph (1). In developing criteria under this paragraph, the Secretary shall consider the results of the committee process of the American Association of State Highway and Transportation Officials as used in adopting and publishing “A Policy on Geometric Design of Highways and Streets”, including comments submitted by interested parties as part of such process.
 
 (d) On any highway project in which Federal funds hereafter participate, or on any such project constructed since December 20, 1944, the location, form and character of informational, regulatory and warning signs, curb and pavement or other markings, and traffic signals installed or placed by any public authority or other agency, shall be subject to the approval of the State highway department with the concurrence of the Secretary, who is directed to concur only in such installations as will promote the safe and efficient utilization of the highways.
 
@@ -32,7 +52,11 @@ Design and Construction Standards for NHS.—Design and construction standards t
 
 (i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unless he determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highway noise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary may approve any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
 
-(j) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall develop and promulgate guidelines to assure that highways constructed pursuant to this title are consistent with any approved plan for the implementation of any ambient air quality standard for any air quality control region designated pursuant to the Clean Air Act, as amended.
+(j) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall develop and promulgate guidelines to assure that highways constructed pursuant to this title are consistent with any approved plan for—
+
+&emsp;(1) the implementation of a national ambient air quality standard for each pollutant for which an area is designated as a nonattainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)); or
+
+&emsp;(2) the maintenance of a national ambient air quality standard in an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area for the standard and that is required to develop a maintenance plan under section 175A of the Clean Air Act (42 U.S.C. 7505a).
 
 (k) The Secretary shall not approve any project involving approaches to a bridge under this title, if such project and bridge will significantly affect the traffic volume and the highway system of a contiguous State without first taking into full consideration the views of that State.
 
@@ -62,17 +86,37 @@ Compliance With State Laws for Non-NHS Projects.—Projects (other than highway 
 
 (q)
 
-Historic and Scenic Values.—If a proposed project under sections <sup>1</sup> 103(e)(4), 133, or 144 involves a historic facility or is located in an area of historic or scenic value, the Secretary may approve such project notwithstanding the requirements of subsections (a) and (b) of this section and section 133(c) if such project is designed to standards that allow for the preservation of such historic or scenic value and such project is designed with mitigation measures to allow preservation of such value and ensure safe use of the facility.
+Scenic and Historic Values.—Notwithstanding subsections (b) and (c), the Secretary may approve a project for the National Highway System if the project is designed to—
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946.)
+&emsp;(1) allow for the preservation of environmental, scenic, or historic values;
+
+&emsp;(2) ensure safe use of the facility; and
+
+&emsp;(3) comply with subsection (a).
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580.)
 
 #### References in Text
 
 The day of enactment of the Federal-Aid Highway Act of 1970, referred to in subsec. (g), is Dec. 31, 1970.
 
-The Clean Air Act, referred to in subsec. (j), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
-
 #### Amendments
+
+1995—Subsec. (a). Pub. L. 104–59, §304(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.”
+
+Subsec. (c). Pub. L. 104–59, §304(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
+
+“(c)
+
+Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System, for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards.”
+
+Subsec. (j). Pub. L. 104–59, §305(a), substituted “plan for—” and pars. (1) and (2) for “plan for the implementation of any ambient air quality standard for any air quality control region designated pursuant to the Clean Air Act, as amended.”
+
+Subsec. (q). Pub. L. 104–59, §304(3), added subsec. (q) and struck out former subsec. (q) which read as follows:
+
+“(q)
+
+Historic and Scenic Values.—If a proposed project under sections 103(e)(4), 133, or 144 involves a historic facility or is located in an area of historic or scenic value, the Secretary may approve such project notwithstanding the requirements of subsections (a)and (b) of this section and section 133(c) if such project is designed to standards that allow for the preservation of such historic or scenic value and such project is designed with mitigation measures to allow preservation of such value and ensure safe use of the facility.”
 
 1991—Subsec. (a). Pub. L. 102–240, §1016(f)(1)(A), substituted “highway projects under this chapter” for “projects on any Federal-aid system”.
 
@@ -114,9 +158,57 @@ Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
+#### Metric Requirements
+
+Section 205(c) of Pub. L. 104–59 provided that:
+
+“(1)
+
+Placement and modification of signs.—The Secretary shall not require the States to expend any Federal or State funds to construct, erect, or otherwise place or to modify any sign relating to a speed limit, distance, or other measurement on a highway for the purpose of having such sign establish such speed limit, distance, or other measurement using the metric system.
+
+“(2)
+
+Other actions.—Before September 30, 2000, the Secretary shall not require that any State use or plan to use the metric system with respect to designing or advertising, or preparing plans, specifications, estimates, or other documents, for a Federal-aid highway project eligible for assistance under title 23, United States Code.
+
+“(3)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;“(A)
+
+Highway.—The term ‘highway’ has the meaning such term has under section 101 of title 23, United States Code.
+
+&emsp;“(B)
+
+Metric system.—The term ‘metric system’ has the meaning the term ‘metric system of measurement’ has under section 4 of the Metric Conversion Act of 1975 (15 U.S.C. 205c).”
+
+#### Type II Noise Barriers
+
+Section 339(b) of Pub. L. 104–59 provided that:
+
+“(1)
+
+General rule.—No funds made available out of the Highway Trust Fund may be used to construct Type II noise barriers (as defined by section 772.5(i) of title 23, Code of Federal Regulations) pursuant to subsections (h) and (i) of section 109 of title 23, United States Code, if such barriers were not part of a project approved by the Secretary before the date of the enactment of this Act \[Nov. 28, 1995\].
+
+“(2)
+
+Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway.”
+
+#### Highway Signs for National Highway System
+
+Section 359(b) of Pub. L. 104–59 provided that:
+
+“(1)
+
+Study.—The Secretary shall conduct a study to determine the cost, need, and efficacy of establishing a highway sign for identifying routes on the National Highway System. In conducting the study, the Secretary shall make a determination concerning whether to identify National Highway System route numbers.
+
+“(2)
+
+Report.—Not later than March 1, 1997, the Secretary shall transmit to Congress a report on the results of the study.”
+
 #### Use of Recycled Paving Material
 
-Section 1038 of Pub. L. 102–240 provided that:
+Section 1038 of Pub. L. 102–240, as amended by Pub. L. 104–59, title II, §205(b), title III, §327, Nov. 28, 1995, 109 Stat. 577, 592, provided that:
 
 “(a)
 
@@ -166,61 +258,35 @@ Encouragement of use.—The Secretary should encourage the use of recycled mater
 
 “(d)
 
-Use of Asphalt Pavement Containing Recycled Rubber.—
+Asphalt Pavement Containing Recycled Rubber.—
 
 &emsp;“(1)
 
-State certification.—Beginning on January 1, 1995, and annually thereafter, each State shall certify to the Secretary that such State has satisfied the minimum utilization requirement for asphalt pavement containing recycled rubber established by this section. The minimum utilization requirement for asphalt pavement containing recycled rubber as a percentage of the total tons of asphalt laid in such State and financed in whole or part by any assistance pursuant to title 23, United States Code, shall be—
-
-&emsp;&emsp;“(A) 5 percent for the year 1994;
-
-&emsp;&emsp;“(B) 10 percent for the year 1995;
-
-&emsp;&emsp;“(C) 15 percent for the year 1996; and
-
-&emsp;&emsp;“(D) 20 percent for the year 1997 and each year thereafter.
+Crumb rubber modifier research.—Not later than 180 days after the date of the enactment of the National Highway System Designation Act of 1995 \[Nov. 28, 1995\], the Secretary shall develop testing procedures and conduct research to develop performance grade classifications, in accordance with the strategic highway research program carried out under section 307(d) of title 23, United States Code, for crumb rubber modifier binders. The testing procedures and performance grade classifications should be developed in consultation with representatives of the crumb rubber modifier industry and other interested parties (including the asphalt paving industry) with experience in the development of the procedures and classifications.
 
 &emsp;“(2)
 
-Other materials.—Any recycled material or materials determined to be appropriate by the studies under subsection (b) may be substituted for recycled rubber under the minimum utilization requirement of paragraph (1) up to 5 percent.
+Crumb rubber modifier program development.—
 
-&emsp;“(3)
+&emsp;&emsp;“(A)
 
-Increase.—The Secretary may increase the minimum utilization requirement of paragraph (1) for asphalt pavement containing recycled rubber to be used in federally assisted highway projects to the extent it is technologically and economically feasible to do so and if an increase is appropriate to assure markets for the reuse and recycling of scrap tires. The minimum utilization requirement for asphalt pavement containing recycled rubber may not be met by any use or technique found to be unsuitable for use in highway projects by the studies under subsection (b).
+In general.—The Secretary may make grants to States to develop programs to use crumb rubber from scrap tires to modify asphalt pavements.
 
-&emsp;“(4)
+&emsp;&emsp;“(B)
 
-Penalty.—The Secretary shall withhold from any State that fails to make a certification under paragraph (1) for any fiscal year, a percentage of the apportionments under section 104 (other than subsection (b)(5)(A)) of title 23, United States Code, that would otherwise be apportioned to such State for such fiscal year under such section equal to the percentage utilization requirement established by paragraph (1) for such fiscal year.
+Use of grant funds.—Grant funds made available to States under this paragraph shall be used—
 
-&emsp;“(5)
+&emsp;&emsp;&emsp;“(i) to develop mix designs for crumb rubber modified asphalt pavements;
 
-Secretarial waiver.—The Secretary may set aside the provisions of this subsection for any 3-year period on a determination, made in concurrence with the Administrator of the Environmental Protection Agency with respect to subparagraphs (A) and (B) of this paragraph, that there is reliable evidence indicating—
+&emsp;&emsp;&emsp;“(ii) for the placement and evaluation of crumb rubber modified asphalt pavement field tests; and
 
-&emsp;&emsp;“(A) that manufacture, application, or use of asphalt pavement containing recycled rubber substantially increases the threat to human health or the environment as compared to the threats associated with conventional pavement;
-
-&emsp;&emsp;“(B) that asphalt pavement containing recycled rubber cannot be recycled to substantially the same degree as conventional pavement; or
-
-&emsp;&emsp;“(C) that asphalt pavement containing recycled rubber does not perform adequately as a material for the construction or surfacing of highways and roads.
-
-> &emsp;The Secretary shall consider the results of the study under subsection (b)(1) in determining whether a 3-year set-aside is appropriate.
-
-&emsp;“(6)
-
-Renewal of waiver.—Any determination made to set aside the requirements of this section may be renewed for an additional 3-year period by the Secretary, with the concurrence of the Administrator with respect to the determinations made under paragraphs (5)(A) and (5)(B). Any determination made with respect to paragraph (5)(C) may be made for specific States or regions considering climate, geography, and other factors that may be unique to the State or region and that would prevent the adequate performance of asphalt pavement containing recycled rubber.
-
-&emsp;“(7)
-
-Individual state reduction.—The Secretary shall establish a minimum utilization requirement for asphalt pavement containing recycled rubber less than the minimum utilization requirement otherwise required by paragraph (1) in a particular State, upon the request of such State and if the Secretary, with the concurrence of the Administrator of the Environmental Protection Agency, determines that there is not a sufficient quantity of scrap tires available in the State prior to disposal to meet the minimum utilization requirement established under paragraph (1) as the result of recycling and processing uses (in that State or another State), including retreading or energy recovery.
+&emsp;&emsp;&emsp;“(iii) for the expansion of State crumb rubber modifier programs in existence on the date the grant is made available.
 
 “(e)
 
 Definitions.—For purpose of this section—
 
-&emsp;“(1) the term ‘asphalt pavement containing recycled rubber’ means any hot mix or spray applied binder in asphalt paving mixture that contains rubber from whole scrap tires which is used for asphalt pavement base, surface course or interlayer, or other road and highway related uses and—
-
-&emsp;&emsp;“(A) is a mixture of not less than 20 pounds of recycled rubber per ton of hot mix or 300 pounds of recycled rubber per ton of spray applied binder; or
-
-&emsp;&emsp;“(B) is any mixture of asphalt pavement and recycled rubber that is certified by a State and is approved by the Secretary, provided that the total amount of recycled rubber from whole scrap tires utilized in any year in such State shall be not less than the amount that would be utilized if all asphalt pavement containing recycled rubber laid in such State met the specifications of subparagraph (A) and subsection (d)(1); and
+&emsp;“(1) the term ‘asphalt pavement containing recycled rubber’ means any mixture of asphalt and crumb rubber derived from whole scrap tires, such that the physical properties of the asphalt are modified through the mixture, for use in pavement maintenance, rehabilitation, or construction applications; and
 
 &emsp;“(2) the term ‘recycled rubber’ is any crumb rubber derived from processing whole scrap tires or shredded tire material taken from automobiles, trucks, or other equipment owned and operated in the United States.”
 
@@ -246,11 +312,11 @@ Consistency With Other Programs.—Guidelines developed under subsection (a) sha
 
 #### Roadside Barrier Technology
 
-Section 1058 of Pub. L. 102–240 provided that:
+Section 1058 of Pub. L. 102–240, as amended by Pub. L. 104–59, title III, §328, Nov. 28, 1995, 109 Stat. 593, provided that:
 
 “(a)
 
-Requirement for Innovative Barriers.—Not less than 21/2 percent of the mileage of new or replacement permanent median barriers included in awarded contracts along Federal-aid highways within the boundaries of a State in each calendar year shall be innovative safety barriers.
+Requirement for Innovative Barriers.—Not less than 21/2 percent of the mileage of new or replacement permanent or temporary crashworthy barriers included in awarded contracts along Federal-aid highways within the boundaries of a State in each calendar year shall be innovative crashworthy safety barriers.
 
 “(b)
 
@@ -258,7 +324,7 @@ Certification.—Each State shall annually certify to the Secretary its complian
 
 “(c)
 
-Definition of Innovative Safety Barrier.—For purposes of this section, the term ‘innovative safety barrier’ means a median barrier, other than a guardrail, classified by the Federal Highway Administration as ‘experimental’ or that was classified as ‘operational’ after January 1, 1985.”
+Definition of Innovative Crashworthy Safety Barrier.—For purposes of this section, the term ‘innovative crashworthy safety barrier’ means a barrier, other than a guardrail or guiderail, classified by the Federal Highway Administration as ‘experimental’ or that was classified as ‘operational’ after January 1, 1985, and that meets or surpasses the requirements of the National Cooperative Highway Research Program 350 for longitudinal barriers.”
 
 #### Roadside Barriers and Safety Appurtenances
 
@@ -292,7 +358,5 @@ Authorization to modify projects agreements entered into prior to September 13, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104, 106, 115, 117, 119, 142, 154 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+This section is referred to in sections 104, 106, 115, 117, 119, 142 of this title.
 

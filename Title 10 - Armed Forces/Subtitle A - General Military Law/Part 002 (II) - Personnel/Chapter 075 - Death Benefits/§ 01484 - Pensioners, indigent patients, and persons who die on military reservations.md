@@ -1,4 +1,4 @@
-### §1484 . Pensioners, indigent patients, and persons who die on military reservations
+### §1484. Pensioners, indigent patients, and persons who die on military reservations
 
 If proper disposition of the remains cannot otherwise be made, the Secretary concerned may provide for the care and disposition of the remains of pensioners and indigent patients who die in hospitals operated by his department and of persons who die on the military reservations of that department and, incident thereto, pay the necessary expenses of—
 

@@ -60,7 +60,7 @@ Section 3683 of this title, referred to in subsec. (a), was repealed (subject to
 
 1994—Subsec. (a). Pub. L. 103–337, §635(a)(1)(A), struck out “and of computing his retired pay under section 3991 of this title,” after “3917 of this title,”.
 
-Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 3991 of this title—
+Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining amember's years of service under subsection (a) for the purpose of computing the member's retired pay under section 3991 of this title—
 
 &emsp;“(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
 

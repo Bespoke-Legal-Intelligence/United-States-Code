@@ -1,4 +1,4 @@
-### §460x–1 . Description of area
+### §460x–1. Description of area
 
 #### (a) In general
 

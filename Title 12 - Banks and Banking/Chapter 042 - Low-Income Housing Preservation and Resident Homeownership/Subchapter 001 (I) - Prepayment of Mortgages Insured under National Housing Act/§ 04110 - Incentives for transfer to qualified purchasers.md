@@ -1,4 +1,4 @@
-### §4110 . Incentives for transfer to qualified purchasers
+### §4110. Incentives for transfer to qualified purchasers
 
 #### (a) In general
 
@@ -16,7 +16,7 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (3) Information
 
-&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
+&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretaryshall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
 
 #### (c) Right of refusal for other qualified purchasers
 
@@ -74,7 +74,7 @@ Subsec. (d)(2)(E), (F). Pub. L. 102–550, §307(c), (d), amended subpars. (E) a
 
 “(F) in the case of a priority purchaser, receive an adequate reimbursement for transaction expenses relating to acquisition of the housing, subject to approval by the Secretary; and”.
 
-Subsec. (d)(3)(A). Pub. L. 102–550, §307(e), struck out “any residual receipts for the housing transfered \[sic\] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
+Subsec. (d)(3)(A). Pub. L. 102–550, §307(e), struck out “any residual receipts for the housing transfered \[sic\]to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
 
 #### Section Referred to in Other Sections
 

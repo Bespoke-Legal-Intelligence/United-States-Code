@@ -4,7 +4,7 @@
 
 &emsp;(1) Those brought into Federal service by the Army National Guard of a State may be returned to that State upon the request of its governor.
 
-&emsp;(2) Those that cannot be returned under clause (1) may, upon the request of its governor, be sent to the State that, as determinedby the Secretary, furnished the majority of members of the organization when it was formed.
+&emsp;(2) Those that cannot be returned under clause (1) may, upon the request of its governor, be sent to the State that, as determined by the Secretary, furnished the majority of members of the organization when it was formed.
 
 > Those that cannot be returned or sent under clause (1) or (2) of this subsection shall be delivered to the Secretary for such national use as the Secretary may direct.
 
@@ -40,5 +40,5 @@ In subsection (a), the words “Any which were used during their service by such
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–718 substituted the Secretary of the Army for the Quartermaster General as the officer to accept delivery of colors, standards, and guidons of demobilized organizations of the Army which cannot be disposed of under clauses (1) and (2).
+1966—Subsec. (a). Pub. L. 89–718 substituted the Secretary of the Army for the Quartermaster General asthe officer to accept delivery of colors, standards, and guidons of demobilized organizations of the Army which cannot be disposed of under clauses (1) and (2).
 

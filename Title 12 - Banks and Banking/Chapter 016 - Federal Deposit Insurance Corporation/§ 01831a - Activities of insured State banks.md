@@ -54,7 +54,7 @@ After the end of the 1-year period beginning on December 19, 1991, an insured St
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall require any insured State bank to divest any equity investmentthe retention of which is not permissible under this subsection as quickly as can be prudently done, and in any event before the end of the 5-year period beginning on December 19, 1991.
+&emsp;&emsp;The Corporation shall require any insured State bank to divest any equity investment the retention of which is not permissible under this subsection as quickly as can be prudently done, and in any event before the end of the 5-year period beginning on December 19, 1991.
 
 #### (B) Treatment of noncompliance during divestment
 
@@ -214,7 +214,7 @@ The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I
 
 #### Prior Provisions
 
-A prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Dec. 28, 1979, Pub. L. 96–161, title II, §202, 93 Stat. 1235, provided that if the applicable rate prescribed in subsec. (a) exceeded the rate a State bank would be permitted to charge in absence of that subsection, that State bank could for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve Bank in the district where the bank was located, that the taking or charging of interest at a greater rate than that prescribed by subsec. (a), if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil actioncommenced within two years of such payment, prior to repeal by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, effective at close of Mar. 31, 1980.
+A prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Dec. 28, 1979, Pub. L. 96–161, title II, §202, 93 Stat. 1235, provided that if the applicable rate prescribed in subsec. (a) exceeded the rate a State bank would be permitted to charge in absence of that subsection, that State bank could for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve Bank in the district where the bank was located, that the taking or charging of interest at a greater rate than that prescribed by subsec. (a), if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment, prior to repeal by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, effective at close of Mar. 31, 1980.
 
 Another prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Nov. 5, 1979, Pub. L. 96–104, title I, §102, 93 Stat. 789, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to such repeal.
 

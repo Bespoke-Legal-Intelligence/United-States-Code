@@ -30,7 +30,7 @@
 
 &emsp;(2) not to be represented by a labor organization.
 
-> In any election in which no choice on the ballot receives a majority of the votes cast, a runoff election shall be conducted between the two choices receiving the highest number of votes. A labor organization which receives the majority of the votes cast in an election shall be certifiedby the Authority as the exclusive representative.
+> In any election in which no choice on the ballot receives a majority of the votes cast, a runoff election shall be conducted between the two choices receiving the highest number of votes. A labor organization which receives the majority of the votes cast in an election shall be certified by the Authority as the exclusive representative.
 
 (e) A labor organization seeking exclusive recognition shall submit to the Authority and the agency involved a roster of its officers and representatives, a copy of its constitution and bylaws, and a statement of its objectives.
 
@@ -54,5 +54,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7103, 7105 of this title; title 7 section 7011; title 10 section 2467.
+This section is referred to in sections 7103, 7105 of this title; title 2 section 1351; title 7 section 7011; title 10 section 2467.
 

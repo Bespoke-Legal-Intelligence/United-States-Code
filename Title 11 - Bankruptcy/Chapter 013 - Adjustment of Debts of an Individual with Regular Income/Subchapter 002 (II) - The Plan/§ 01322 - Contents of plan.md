@@ -32,7 +32,7 @@
 
 (c) Notwithstanding subsection (b)(2) and applicable nonbankruptcy law—
 
-&emsp;(1) a default with respect to, or that gave rise to, a lien on the debtor's principal residence may be cured under paragraph (3) or (5) of subsection (b) until such residence is sold at a foreclosure sale that is conducted in accordance with applicable nonbankruptcy law; and
+&emsp;(1) a default with respect to, or that gave rise to, a lien on the debtor's principal residence may be cured under paragraph (3) or (5)of subsection (b) until such residence is sold at a foreclosure sale that is conducted in accordance with applicable nonbankruptcy law; and
 
 &emsp;(2) in a case in which the last payment on the original payment schedule for a claim secured only by a security interest in real property that is the debtor's principal residence is due before the date on which the final payment under the plan is due, the plan may provide for the payment of the claim as modified pursuant to section 1325(a)(5) of this title.
 

@@ -10,7 +10,7 @@ For the purpose of encouraging the care of dependent children in their own homes
 
 1962—Pub. L. 87–543 substituted in second sentence “aid and services to needy families with children” for “aid to dependent children”, and inserted in first sentence “and rehabilitation” after “financial assistance” and “or retain capability for” after “attain”.
 
-1956—Act Aug. 1, 1956, amended first sentence generally, restating purpose to include encouragement of care of dependent children in their own homes or in the homes of relatives and authorizing services to needy dependent children and the parents or relatives to helpmaintain and strengthen family life and to help such parents or relatives to attain the maximum self-support and personal independence consistent with the maintenance of continuing parental care and protection.
+1956—Act Aug. 1, 1956, amended first sentence generally, restating purpose to include encouragement of care of dependent children in their own homes or in the homes of relatives and authorizing services to needy dependent children and the parents or relatives to help maintain and strengthen family life and to help such parents or relatives to attain the maximum self-support and personal independence consistent with the maintenance of continuing parental care and protection.
 
 #### Transfer of Functions
 

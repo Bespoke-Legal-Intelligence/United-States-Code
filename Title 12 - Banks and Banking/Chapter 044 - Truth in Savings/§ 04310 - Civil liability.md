@@ -50,7 +50,7 @@ A depository institution may not be held liable in any action under this section
 
 #### (e) Jurisdiction
 
-Any action under this section may be brought in any United States district court, or in anyother court of competent jurisdiction, within 1 year after the date of the occurrence of the violation involved.
+Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within 1 year after the date of the occurrence of the violation involved.
 
 #### (f) Reliance on Board rulings
 

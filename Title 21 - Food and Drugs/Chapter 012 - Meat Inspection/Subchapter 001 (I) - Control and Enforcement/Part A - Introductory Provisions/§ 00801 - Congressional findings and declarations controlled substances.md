@@ -178,7 +178,7 @@ Pub. L. 99–570, §3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notw
 
 #### Drug Interdiction
 
-Pub. L. 99–570, title III, §§3001–3003, 3301, Oct. 27, 1986, 100 Stat. 3207–73, 3207–74, 3207–98, provided that:
+Pub. L. 99–570, title III, §§3001–3003, 3301, Oct. 27, 1986, 100 Stat. 3207–73, 3207–74, 3207–98, as amended by Pub. L. 104–66, title I, §1091(a), Dec. 21, 1995, 109 Stat. 722, provided that:
 
 #### “SEC. 3001. SHORT TITLE.
 
@@ -238,11 +238,9 @@ Establishment of a united states-bahamas drug interdiction task force.—(A) The
 
 &emsp;“(B) The Secretary of State, the Commandant of the Coast Guard, the Commissioner of Customs, the Attorney General, and the head of the National Narcotics Border Interdiction System (NNBIS), shall upon enactment of this Act \[Oct. 27, 1986\], immediately commence negotiations with the Government of the Bahamas to enter into a detailed agreement for the establishment and operation of a new drug interdiction task force, including plans for (i) the joint operation and maintenance of any drug interdiction assets authorized for the task force in this section and section 3141 \[see 19 U.S.C. 2075\], and (ii) any training and personnel enhancements authorized in this section and section 3141.
 
-&emsp;“(C) The Attorney General shall report to the appropriate committees of Congress on a quarterly basis regarding the progress of the United States- Bahamas Drug Interdiction Task Force.
-
 &emsp;“(2)
 
-Amounts authorized.—There are authorized to be appropriated, in addition to any other amounts authorized to be appropriated in this title \[see section 3001 of Pub. L. 99–570 set out above\], $10,000,000 for the following:
+Amounts authorized.—There are authorized to be appropriated, in addition to any other amounts authorized to be appropriated in this title \[see section3001 of Pub. L. 99–570 set out above\], $10,000,000 for the following:
 
 &emsp;&emsp;“(A) $9,000,000 for 3 drug interdiction pursuit helicopters for use primarily for operations of the United States-Bahamas Drug Interdiction Task Force established under this section; and
 

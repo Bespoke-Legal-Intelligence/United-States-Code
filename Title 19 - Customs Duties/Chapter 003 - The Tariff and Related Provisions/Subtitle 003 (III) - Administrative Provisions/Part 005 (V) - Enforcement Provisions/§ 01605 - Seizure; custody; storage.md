@@ -12,9 +12,9 @@ The customs laws, referred to in text, are classified generally to this title.
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §605, 42 Stat. 985. That section was superseded by section 605 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §605, 42 Stat. 985. That section was superseded by section 605 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions substantially similar to those of this section so far as it relates to merchandise or property seized under the customs laws, were contained in R.S.§3086, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provisions substantially similar to those in this section so far as it relates to merchandise or property seized under the customs laws, were contained in R.S.§3086, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

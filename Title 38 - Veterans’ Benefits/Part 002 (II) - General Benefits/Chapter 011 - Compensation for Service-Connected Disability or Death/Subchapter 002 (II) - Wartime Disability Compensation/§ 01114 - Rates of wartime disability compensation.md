@@ -828,13 +828,13 @@ Section 405 of Pub. L. 97–253 \[amending this section and sections 315, 362, 4
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 
-Pub. L. 103–418, §§2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337, provided that:
+Pub. L. 104–57, §§2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556, provided that:
 
 #### “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
 
 “(a)
 
-Rate Adjustment.—The Secretary of Veterans Affairs shall, effective on December 1, 1994, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in subsection (b)\[.\]
+Rate Adjustment.—The Secretary of Veterans Affairs shall, effective on December 1, 1995, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in subsection (b).
 
 “(b)
 
@@ -862,41 +862,39 @@ Old dic rates.—Each of the dollar amounts in effect under section 1311(a)(3) o
 
 &emsp;“(6)
 
+Additional dic for surviving spouses with minor children.—The dollar amount in effect under section 1311(b) of such title.
+
+&emsp;“(7)
+
 Additional dic for disability.—The dollar amounts in effect under sections 1311(c) and 1311(d) of such title.
 
-&emsp;“(7) DIC
+&emsp;“(8)
 
-for dependent children.—The dollar amounts in effect under sections 1313(a) and 1314 of such title.
+DIC for dependent children.—The dollar amounts in effect under sections 1313(a) and 1314 of such title.
 
 “(c)
 
-Determination of Percentage Increase.—(1) The increase under subsection (a) shall be made in the dollar amounts specified in subsection (b) as in effect on November 30, 1994. Each such amount shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+Determination of Percentage Increase.—(1) The increase under subsection (a) shall be made in the dollar amounts specified in subsection (b) as in effect on November 30, 1995. Each such amount shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1995, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 “(2) In the computation of increased dollar amounts pursuant to paragraph (1), any amount which as so computed is not an even multiple of $1 shall be rounded to the next lower whole dollar amount.
 
 #### “SEC. 3. PUBLICATION OF ADJUSTED RATES.
 
-“At the same time as the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 1994, the Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased pursuant to section 2.”
+“At the same time as the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 1996, the Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased pursuant to section 2.”
 
-Pub. L. 102–510, §2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319, provided that:
+Similar provisions were contained in the following acts:
 
-“(a)
+Pub. L. 103–418, §§2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
 
-In General.—(1) The Secretary of Veterans Affairs shall, as provided in paragraph (2), increase, effective December 1, 1992, the rates of and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation.
-
-“(2)(A) The Secretary shall increase each of the rates and limitations in sections 1114, 1115(1), 1162, 1311, 1313, and 1314 of title 38, United States Code, that were increased by the amendments made by the Veterans’ Compensation Rate Amendments of 1991 (Public Law 102–152; 105 Stat. 985). The increase shall be made in such rates and limitations as in effect on November 30, 1992, and shall be by the same percentage that benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1992, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
-
-“(B) In the computation of increased rates and limitations pursuant to subparagraph (A), amounts of $0.50 or more shall be rounded to the next higher dollar amount and amounts of less than $0.50 shall be rounded to the next lower dollar amount.
-
-“(c)
-
-Publication Requirement.—At the same time as the matters specified in section 214(i)(2)(D) \[probably should be “215(i)(2)(D)”\] of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 1992, the Secretary shall publish in the Federal Register the rates and limitations referred to in subsection (a)(2)(A) as increased under this section.”
+Pub. L. 102–510, §2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
 
-Pub. L. 103–418, §2(d), Oct. 25, 1994, 108 Stat. 4337, provided that: “The Secretary may adjust administratively, consistent with the increases made under subsection (a) \[set out above\], the rates of disability compensation payable to persons within the purview of section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who are not in receipt of compensation payable pursuant to chapter 11 of title 38, United States Code.”
+Pub. L. 104–57, §2(d), Nov. 22, 1995, 109 Stat. 556, provided that: “The Secretary may adjust administratively, consistent with the increases made under subsection (a) \[set out above\], the rates of disability compensation payable to persons within the purview of section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who are not in receipt of compensation payable pursuant to chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 103–418, §2(d), Oct. 25, 1994, 108 Stat. 4337.
 
 Pub. L. 102–510, §2(b), Oct. 24, 1992, 106 Stat. 3318.
 

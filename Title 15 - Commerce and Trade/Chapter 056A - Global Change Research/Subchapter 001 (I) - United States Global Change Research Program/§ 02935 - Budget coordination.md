@@ -22,7 +22,7 @@ The Committee shall each year provide general guidance to each Federal agency or
 
 (2) The President shall identify in each annual budget submitted to the Congress under section 1105 of title 31 those items in each agency's or department's annual budget which are elements of the Program.
 
-(Pub. L. 101 606, title I, §105, Nov. 16, 1990, 104 Stat. 3100.)
+(Pub. L. 101–606, title I, §105, Nov. 16, 1990, 104 Stat. 3100.)
 
 #### Section Referred to in Other Sections
 

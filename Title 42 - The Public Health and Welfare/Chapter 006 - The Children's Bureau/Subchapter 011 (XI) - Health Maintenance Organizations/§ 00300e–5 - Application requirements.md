@@ -28,7 +28,7 @@ The Secretary may not approve an application for a loan or loan guarantee under 
 
 The Secretary shall by regulation establish standards and procedures for health systems agencies to follow in reviewing and commenting on applications for loans and loan guarantees under this subchapter.
 
-(July 1, 1944, ch. 373, title XIII, §1306, as added Dec. 29, 1973, Pub. L. 93–222, §2, 87 Stat. 925; amended Oct. 8, 1976, Pub. L. 94–460, title I, §§105(a)(3), 117(b)(5), (6), 90 Stat. 1948, 1955; Nov. 1, 1978, Pub. L. 95–559, §12(b), (c), 92 Stat. 2140; Nov. 14, 1986, Pub. L. 99–660, title VIII, §§803(b)(1), 805(b), 806, 100 Stat. 3799, 3800.)
+(July 1, 1944, ch. 373, title XIII, §1306, as added Dec. 29, 1973, Pub. L. 93–222, §2, 87 Stat. 925;amended Oct. 8, 1976, Pub. L. 94–460, title I, §§105(a)(3), 117(b)(5), (6), 90 Stat. 1948, 1955; Nov. 1, 1978, Pub. L. 95–559, §12(b), (c), 92 Stat. 2140; Nov. 14, 1986, Pub. L. 99–660, title VIII, §§803(b)(1), 805(b), 806, 100 Stat. 3799, 3800.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Petition for enforcement; venue
 
-Whenever any person fails to comply with any civil investigative demand duly served upon him under section 1312 of this title or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Attorney General, through such officers or attorneys as he may designate, may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of this chapter.
+Whenever any person fails to comply with any civil investigative demand duly served upon him under section 1312 of this title or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Attorney General, through such officers or attorneys as he may designate, may file, in the district court of the United States for any judicial district in whichsuch person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of this chapter.
 
 #### (b) Petition for order modifying or setting aside demand; time for petition; suspension of time allowed for compliance with demand during pendency of petition; grounds for relief
 

@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;(9) The term “person” means any individual, partnership, association, joint stock company, trust, cooperative, or corporation.
 
-&emsp;(10)(A) Except as provided in subparagraph (B), the term “seasonal agricultural worker” means an individual who is employed in agricultural employment of a seasonal or othertemporary nature and is not required to be absent overnight from his permanent place of residence—
+&emsp;(10)(A) Except as provided in subparagraph (B), the term “seasonal agricultural worker” means an individual who is employed in agricultural employment of a seasonal or other temporary nature and is not required to be absent overnight from his permanent place of residence—
 
 &emsp;&emsp;(i) when employed on a farm or ranch performing field work related to planting, cultivating, or harvesting operations; or
 

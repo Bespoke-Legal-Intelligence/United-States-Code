@@ -4,7 +4,7 @@
 
 (a) Payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
 
-&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
+&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or ofchapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
 
 &emsp;(2) to any eligible veteran or person for auditing a course; or
 
@@ -74,7 +74,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(2) to (4). Pub. L. 103–446, §605(a)(2)(B), inserted “or” at end of par. (2), substituted period for “; or” at end of par. (3), and struckout par. (4) which read as follows: “to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under section 3686 of this title or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution.”
+1994—Subsec. (a)(2) to (4). Pub. L. 103–446, §605(a)(2)(B), inserted “or” at end of par. (2), substituted period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under section 3686 of this title or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution.”
 
 Subsec. (a)(C). Pub. L. 103–446, §1201(i)(6), substituted “one full” for “1 full”.
 
@@ -134,7 +134,7 @@ Subsec. (d)(2). Pub. L. 96–466, §601(c)(1), struck out “(other than under s
 
 Subsec. (d)(3). Pub. L. 96–466, §601(c)(2), (3), redesignated par. (4) as (3). Former par. (3), which related to the entitlement of a person eligible for education or training under the provisions of subchapter VI of chapter 34 of this title to a lump-sum educational assistance allowance advance payment, was struck out.
 
-Subsec. (d)(4). Pub. L. 96–466, §601(c)(3), (4), redesignated par. (5) as (4) and substituted “paragraph (2)” for“paragraphs (2) and (3)”. Former par. (4) redesignated (3).
+Subsec. (d)(4). Pub. L. 96–466, §601(c)(3), (4), redesignated par. (5) as (4) and substituted “paragraph (2)” for “paragraphs (2) and (3)”. Former par. (4) redesignated (3).
 
 Subsec. (d)(5), (6). Pub. L. 96–466, §601(c)(4), (5), redesignated par. (6) as (5) and substituted “paragraph (4)” for “paragraph (5)”. Former par. (5) redesignated (4).
 
@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 96–466, §601(d)(2), struck out “(except as provided by
 
 Subsec. (g). Pub. L. 96–466, §341(b), inserted “and define” after “determine”.
 
-1976—Subsec. (a). Pub. L. 94–502, §§505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran's or person's” for “his”, and added cls. (3) to (5).
+1976—Subsec. (a). Pub. L. 94–502, §§505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or persontransfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran's or person's” for “his”, and added cls. (3) to (5).
 
 Subsec. (b). Pub. L. 94–502, §513(a)(5), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing, and “spouse's or surviving spouse's” for “wife's or widow's”.
 
@@ -212,7 +212,7 @@ Ex. Ord. No. 12020, Nov. 8, 1977, 42 F.R. 58509, provided:
 
 By virtue of the authority vested in me by clause (A) of Section 1780(a) \[now 3680(a)\] of Title 38 of the United States Code, and as President of the United States of America, in order to establish a national policy in regard to payment of educational benefits to veterans and their dependents during periods in which schools are closed to conserve energy, it is hereby ordered as follows:
 
-Section 1. Whenever an educational institution submits evidence which satisfies the Administrator of Veterans’ Affairs that energy consumption will be abnormally high during the winter months or that available energy supplies will be inadequate to meet the needs of the school, and that, in the interest of energy conservation, the institution plans to close between semesters or terms for a period not to exceed 45 days, the Administrator may continue to pay monthly educational assistance benefits to veterans and eligible persons enrolled in such schools. Such authority may be exercised only once during any 12-month period with respect to any educational institution.
+Section 1. Whenever an educational institution submits evidence which satisfies the Administrator of Veterans’ Affairs that energy consumption will be abnormally high during the winter months or that available energy supplies will be inadequate to meet the needs of the school, and that, in the interest of energy conservation, the institution plans to close between semestersor terms for a period not to exceed 45 days, the Administrator may continue to pay monthly educational assistance benefits to veterans and eligible persons enrolled in such schools. Such authority may be exercised only once during any 12-month period with respect to any educational institution.
 
 Sec. 2. The Administrator shall advise veterans and other eligible persons of the effect of accepting educational assistance benefits under the provisions of Section 1 of this Order on their period of entitlement.
 

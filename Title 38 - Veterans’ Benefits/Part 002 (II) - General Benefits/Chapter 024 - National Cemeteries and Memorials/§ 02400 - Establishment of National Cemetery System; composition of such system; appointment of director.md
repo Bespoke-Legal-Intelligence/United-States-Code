@@ -54,7 +54,7 @@ Section 414 of Pub. L. 99–576 provided that:
 
 “(a)
 
-Authority.—The authority of the Administrator of Veterans’ Affairs under chapter 24 of title 38, United States Code, to develop and acquire cemeteries as part of the National Cemetery System includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
+Authority.—The authority of the Administrator of Veterans’ Affairs under chapter 24 of title 38, UnitedStates Code, to develop and acquire cemeteries as part of the National Cemetery System includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
 
 &emsp;“(1) San Francisco, California;
 

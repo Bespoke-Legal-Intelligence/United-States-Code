@@ -14,7 +14,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a), is 
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import andExport Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
+1970—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import and Export Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
 
 #### Effective Date of 1970 Amendment
 
@@ -30,5 +30,5 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Marihuana and Health Reporting
 
-Pub. L. 91–296, title V, June 30, 1970, 84 Stat. 352, as amended by Pub. L. 95–461, §3(a), Oct. 14, 1978, 92 Stat. 1268; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, was repealed by Pub. L. 98–24, §2(d), Apr. 26, 1983, 97 Stat. 182.
+Pub. L. 91–296, title V, June 30, 1970, 84 Stat. 352, as amended by Pub. L. 95–461, §3(a), Oct. 14, 1978, 92 Stat. 1268; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, wasrepealed by Pub. L. 98–24, §2(d), Apr. 26, 1983, 97 Stat. 182.
 

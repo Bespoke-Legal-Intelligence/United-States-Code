@@ -86,7 +86,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) such facility is not so owned,
 
-> &emsp;then no deduction shall be allowed under this chapter for interest on such financing whichaccrues during the period beginning on the date such facility is not so owned and ending on the date such facility is so owned.
+> &emsp;then no deduction shall be allowed under this chapter for interest on such financing which accrues during the period beginning on the date such facility is not so owned and ending on the date such facility is so owned.
 
 #### (6) Small issue bonds which exceed capital expenditure limitation
 
@@ -110,7 +110,7 @@ For purposes of subsection (b)—
 
 #### (4) Cessation with respect to portion of facility
 
-&emsp;In the case of any facility where part but not all of the facility is not used for an exempt purpose, only the interest accruing on the financing allocable to such part shall be taken into account.
+&emsp;In the case of any facility where part but not all of the facility is not used for an exemptpurpose, only the interest accruing on the financing allocable to such part shall be taken into account.
 
 #### (5) Regulations
 
@@ -188,7 +188,7 @@ Subsec. (e)(3). Pub. L. 100–647, §1013(a)(24)(A), added par. (3).
 
 Section 1013(a)(24)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after October 21, 1988.”
 
-Amendment by section 1013(a)(23), (30)–(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(23), (30)–(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, seesection 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 6182(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

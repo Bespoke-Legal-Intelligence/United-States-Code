@@ -16,7 +16,7 @@
 
 #### (b) Application
 
-Each State educational agency desiring to receive a grant under this section shall submit to the Secretary of Education an application at such time, in such manner, and containing such information as the Secretary may reasonably require. Each such application shall include an estimate of the number of homeless individuals in the State and the number of such individuals expected to be served.
+Each State educational agency desiring to receive a grant under this section shall submit to the Secretary of Education an application at such time, in such manner, and containing suchinformation as the Secretary may reasonably require. Each such application shall include an estimate of the number of homeless individuals in the State and the number of such individuals expected to be served.
 
 #### (c) Authorization of appropriations
 

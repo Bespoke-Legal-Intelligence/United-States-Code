@@ -42,7 +42,7 @@
 
 (c)(1) The Secretary shall, whenever practicable, consult with the Committee before taking any significant action relating to the safe operation of vessels to which this chapter applies.
 
-(2) The Secretary shall consider the information, advice, and recommendations of the Committee in consulting with other agencies and thepublic or in formulating policy regarding the safe operation of vessels to which this chapter applies.
+(2) The Secretary shall consider the information, advice, and recommendations of the Committee in consulting with other agencies and the public or in formulating policy regarding the safe operation of vessels to which this chapter applies.
 
 (d)(1) A member of the Committee who is not an officer or employee of the United States or a member of the Armed Forces, when attending meetings of the Committee or when otherwise engaged in the business of the Committee, is entitled to receive—
 

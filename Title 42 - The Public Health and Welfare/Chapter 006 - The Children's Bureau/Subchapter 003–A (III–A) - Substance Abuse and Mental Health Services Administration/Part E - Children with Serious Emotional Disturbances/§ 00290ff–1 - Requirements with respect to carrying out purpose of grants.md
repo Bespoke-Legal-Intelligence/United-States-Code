@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that, with respect to children with a serious emotional disturbance, the public entity involved will carry out the purpose described in such section only through establishing and operating 1 or more systems of care for making each of the mental health services specified in subsection (c) of this section available to each child provided access to the system. In providing for such a system, the public entity may make grants to, and enter into contracts with, public and nonprofit private entities.
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that, with respect to children with a serious emotional disturbance, the public entity involved will carry out the purpose described in such section only through establishing and operating 1 or more systems of care for making each of the mental health services specified in subsection (c) of this section available to each child provided access to the system. In providing for such asystem, the public entity may make grants to, and enter into contracts with, public and nonprofit private entities.
 
 #### (2) Structure of system
 

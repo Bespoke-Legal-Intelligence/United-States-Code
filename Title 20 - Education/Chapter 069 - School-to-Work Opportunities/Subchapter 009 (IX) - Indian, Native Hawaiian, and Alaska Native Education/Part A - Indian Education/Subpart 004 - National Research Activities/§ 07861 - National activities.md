@@ -24,5 +24,5 @@ Research activities supported under this section—
 
 &emsp;(2) may include collaborative research activities which are jointly funded and carried out by the Office of Indian Education and the Office of Educational Research and Improvement.
 
-(Pub. L. 89 10, title IX, §9141, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3792.)
+(Pub. L. 89–10, title IX, §9141, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3792.)
 

@@ -1,6 +1,6 @@
 ### §2583. Contracts or expenditures
 
-The President may, in advance, exempt actions of the Director from the provisions of lawrelating to contracts or expenditures of Government funds whenever he determines that such action is essential in the interest of United States arms control and disarmament and security policy.
+The President may, in advance, exempt actions of the Director from the provisions of law relating to contracts or expenditures of Government funds whenever he determines that such action is essential in the interest of United States arms control and disarmament and security policy.
 
 (Pub. L. 87–297, title IV, §43, Sept. 26, 1961, 75 Stat. 636.)
 

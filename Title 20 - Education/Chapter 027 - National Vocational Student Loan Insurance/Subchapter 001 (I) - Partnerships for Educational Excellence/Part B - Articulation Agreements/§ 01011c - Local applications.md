@@ -32,7 +32,7 @@ Any articulation partnership comprised of qualified institutions that desires to
 
 &emsp;&emsp;(D) the subject areas to be included in the articulation agreement.
 
-(Pub. L. 89 329, title I, §124, as added Pub. L. 102 325, title I, §101, July 23, 1992, 106 Stat. 463.)
+(Pub. L. 89–329, title I, §124, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 463.)
 
 #### Section Referred to in Other Sections
 

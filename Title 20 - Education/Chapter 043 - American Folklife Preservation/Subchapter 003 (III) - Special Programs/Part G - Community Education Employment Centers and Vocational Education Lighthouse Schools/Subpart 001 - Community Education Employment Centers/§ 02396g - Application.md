@@ -22,7 +22,7 @@ Each application submitted pursuant to subsection (a) of this section shall—
 
 &emsp;(7) provide such additional assurances as the Secretary may reasonably require.
 
-(Pub. L. 88 210, title III, §369, as added Pub. L. 101 392, title III, §310, Sept. 25, 1990, 104 Stat. 797.)
+(Pub. L. 88–210, title III, §369, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 797.)
 
 #### Section Referred to in Other Sections
 

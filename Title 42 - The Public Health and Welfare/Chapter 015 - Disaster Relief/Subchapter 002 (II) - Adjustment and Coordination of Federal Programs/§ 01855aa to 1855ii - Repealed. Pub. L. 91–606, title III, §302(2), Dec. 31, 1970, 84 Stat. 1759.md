@@ -12,7 +12,7 @@ Section 1855dd, Pub. L. 89–769, §8, Nov. 6, 1966, 80 Stat. 1320, set out orde
 
 Section 1855ee, Pub. L. 89–769, §9, Nov. 6, 1966, 80 Stat. 1320, provided for reimbursement of costs of reconstruction of public facilities, eligible costs, and agencies and parties entitled to reimbursement.
 
-Section 1855ff, Pub. L. 89–769, §10, Nov. 6, 1966, 80 Stat. 1320, directed department heads to administer programscovering major disasters so that there is no duplication of efforts between various programs.
+Section 1855ff, Pub. L. 89–769, §10, Nov. 6, 1966, 80 Stat. 1320, directed department heads to administer programs covering major disasters so that there is no duplication of efforts between various programs.
 
 Section 1855gg, Pub. L. 89–769, §11, Nov. 6, 1966, 80 Stat. 1321, provided for extension of time to leaseholders, etc., of public lands in disaster areas.
 

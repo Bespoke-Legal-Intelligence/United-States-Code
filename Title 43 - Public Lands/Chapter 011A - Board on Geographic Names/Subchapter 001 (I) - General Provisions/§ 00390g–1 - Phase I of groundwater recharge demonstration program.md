@@ -12,11 +12,11 @@ During phase I the Bureau is authorized and directed to recommend demonstration 
 
 Within six months, after the enactment of an appropriation Act to carry out phase I, the Secretary shall make a preliminary selection of projects to receive further planning and development and shall initiate such further planning and development for those selected projects.
 
-#### (d) Report to Congress
+(Pub. L. 98–434, §3, Sept. 28, 1984, 98 Stat. 1675; Pub. L. 104–66, title I, §1081(c), Dec. 21, 1995, 109 Stat. 721.)
 
-Within twenty-four months after the date of enactment of an appropriation Act to carry out phase I, the Secretary shall transmit a report to Congress containing the recommendations made pursuant to subsection (b) of this section and a detailed statement of his findings and conclusions.
+#### Amendments
 
-(Pub. L. 98–434, §3, Sept. 28, 1984, 98 Stat. 1675.)
+1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: “Within twenty-four months after the date of enactment of an appropriation Act to carry out phase I, the Secretary shall transmit a report to Congress containing the recommendations made pursuant to subsection (b) of this section and a detailed statement of his findings and conclusions.”
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@
 
 (2) This subsection applies in the case of the following veterans:
 
-&emsp;(A) Any veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension that would be applicable to the veteran ifthe veteran were eligible for pension under section 1521(d) of this title.
+&emsp;(A) Any veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension that would be applicable to the veteran if the veteran were eligible for pension under section 1521(d) of this title.
 
 &emsp;(B) Any veteran who the Secretary determines has no adequate means of support.
 
@@ -48,7 +48,7 @@
 
 (C) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds may have been exposed while serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War to a toxic substance or environmental hazard is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.
 
-(2) Hospital and nursing home care may not be provided under subsection (a)(1)(G) of this section with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection.
+(2) Hospital and nursing home care may not be provided under subsection (a)(1)(G) of this section with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from acause other than an exposure described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection.
 
 (3) Hospital and nursing home care and medical services may not be provided under or by virtue of subsection (a)(1)(G) of this section after June 30, 1995, or, in the case of care for a veteran described in paragraph (1)(C), after December 31, 1995.
 
@@ -234,7 +234,7 @@ Subsec. (f)(3)(F). Pub. L. 99–576, §237(b)(1), added subpar. (F).
 
 Subsec. (g). Pub. L. 99–272, §19011(a)(2), added subsec. (g).
 
-1985—Subsec. (e)(3). Pub. L. 99–166 substituted “after September 30, 1989” for “after the end of the one-year period beginning on the date the Administrator submits to the appropriate committees of Congress thefirst report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)”.
+1985—Subsec. (e)(3). Pub. L. 99–166 substituted “after September 30, 1989” for “after the end of the one-year period beginning on the date the Administrator submits to the appropriate committees of Congress the first report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)”.
 
 1983—Subsec. (a)(3). Pub. L. 98–160 inserted “(A)” after “a person” and, after “disability compensation”, inserted “or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section”.
 
@@ -280,7 +280,7 @@ Section 1(c)(1) of Pub. L. 103–210 provided that: “The amendments made by su
 
 Pub. L. 102–145, §111, Oct. 28, 1991, 105 Stat. 970, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048\].”
 
-Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
+Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amendingthis section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
 
 Section 8013(d) and (e) of Pub. L. 101–508, as amended by Pub. L. 102–139, title V, §518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, §606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(a), Aug. 10, 1993, 107 Stat. 414, provided that:
 
@@ -376,69 +376,15 @@ Pub. L. 102–585, title I, §108, Nov. 4, 1992, 106 Stat. 4948, provided that: 
 
 #### Population Study of Women Veterans
 
-Pub. L. 102–585, title I, §110, Nov. 4, 1992, 106 Stat. 4948, as amended by Pub. L. 103–452, title I, §102(c), Nov. 2, 1994, 108 Stat. 4786, provided that:
-
-“(a)
-
-Study.—(1) The Secretary, subject to subsection (d), shall conduct a study to determine the needs of veterans who are women for health-care services. The study shall be based on an appropriate sample of veterans who are women.
-
-“(2) Before carrying out the study, the Secretary shall request the advice of the Advisory Committee on Women Veterans on the conduct of the study.
-
-“(3) In carrying out the study, the Secretary shall include in the sample veterans who are women and members of the Armed Forces serving on active duty who are women. If it is feasible to do so within the amounts available for the conduct of the study, the Secretary shall ensure that the sample referred to in paragraph (1) constitutes a representative sampling (as determined by the Secretary) of the ages, the ethnic, social and economic backgrounds, the enlisted and officer grades, and the branches of service of all veterans who are women.
-
-“(b)
-
-Reports.—The Secretary shall submit to the Committees on Veterans Affairs of the Senate and House of Representatives reports relating to the study as follows:
-
-&emsp;“(1) Not later than 9 months after the date of the enactment of this Act \[Nov. 4, 1992\], an interim report describing (A) the information and advice obtained by the Secretary from the Advisory Committee on Women Veterans, and (B) the status of the study.
-
-&emsp;“(2) Not later than December 31, 1995, a final report describing the results of the study.
-
-“(c)
-
-Authorization of Appropriations.—There is authorized to be appropriated to the general operating expenses account of the Department of Veterans Affairs $2,000,000 to carry out the purposes of this section. Amounts appropriated pursuant to this authorization of appropriations shall be available for obligation until expended without fiscal year limitation.
-
-“(d)
-
-Limitation.—No funds may be used to conduct the study described in subsection (a) unless expressly provided for in an appropriation Act.”
+Pub. L. 102–585, title I, §110, Nov. 4, 1992, 106 Stat. 4948, as amended by Pub. L. 103–452, title I, §102(c), Nov. 2, 1994, 108 Stat. 4786, directed Secretary of Veterans Affairs, in consultation with Advisory Committee on Women Veterans, to conduct a study to determine needs of veterans who are women for health-care services, based on an appropriate sample of veterans who are women, and to submit to Congress, not later than 9 months after Nov. 4, 1992, an interim report describing information and advice obtained from Advisory Committee and status of study, and to submit, not later than Dec. 31, 1995, a final report describing results of study.
 
 #### Demonstration Project To Evaluate Installation of Telephones for Patient Use at Department of Veterans Affairs Health-Care Facilities
 
-Pub. L. 102–585, title V, §525, Nov. 4, 1992, 106 Stat. 4960, directed Secretary of Veterans Affairs to carry out a demonstration project to evaluate feasibility and desirability of providing telephone service in patient rooms in Department of Veterans Affairs health-care facilities which do not currently provide such service, use of telephones by patients of such health-care facilities, and relative feasibility and cost-effectiveness of a variety of options for providing such service, and submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the demonstration project not later than Sept. 30, 1994.
+Pub. L. 102–585, title V, §525, Nov. 4, 1992, 106 Stat. 4960, directed Secretary of Veterans Affairs to carry out a demonstration project to evaluate feasibility and desirability of providing telephone service in patient rooms in Department of Veterans Affairs health-care facilities which do not currently provide such service, use of telephones by patients of such health-care facilities, and relative feasibility and cost-effectiveness of a variety of options for providing such service, and submit to Congress a report on the demonstration project not later than Sept. 30, 1994.
 
 #### Reports on Furnishing of Health Care and Implementation of Changes in Eligibility
 
-Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, §201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, §302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §4, May 20, 1992, 106 Stat. 179, provided that:
-
-“(1) The Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report for each fiscal year through fiscal year 1992 concerning the implementation of the amendments made by this section \[amending sections 525, 601, 610, 612, 612A, 620, 622, and 663 \[now 1525, 1701, 1710, 1712, 1712A, 1720, 1722, and 1763\] of this title and enacting provisions set out as notes under sections 1710 and 1722 of this title\].
-
-“(2) Each report under paragraph (1) shall provide detailed information with respect to the fiscal year for which it is submitted regarding—
-
-&emsp;“(A) the number of veterans who received health care from the Department of Veterans Affairs during the fiscal year concerned (shown in total and separately for hospital care, nursing home care, outpatient care, and domiciliary care);
-
-&emsp;“(B) with respect to veterans who applied for health care from the Department of Veterans Affairs during such fiscal year but did not receive such care—
-
-&emsp;&emsp;“(i) the number of such veterans (shown in total and separately for hospital care, nursing home care, outpatient care, and domiciliary care); and
-
-&emsp;&emsp;“(ii) the primary reasons why such care was not furnished;
-
-&emsp;“(C) the guidelines and processes for—
-
-&emsp;&emsp;“(i) implementation of the income-threshold criteria for Department of Veterans Affairs health-care eligibility established by paragraph (1)(I) and subparagraphs (A) and (B) of paragraph (2) of section 1710(a) \[formerly 610(a)\] of title 38, United States Code (as added by subsection (a)), paragraph (4) of section 1712(f) \[formerly 612(f)\] of such title (as added by subsection (b)), and section 1722 \[formerly 622\] of such title (as amended by subsection (c)); and
-
-&emsp;&emsp;“(ii) the collection of payments required by section 1710(f) \[formerly 610(f)\] of such title (as added by subsection (a)(2)) and by section 1712(f)(4) \[formerly 612(f)(4)\] of such title (as added by subsection (b)(2));
-
-&emsp;“(D) the numbers and characteristics of, and the type and extent of health care furnished by the Department of Veterans Affairs to, veterans eligible for such care by reason of any such authorities, including—
-
-&emsp;&emsp;“(i) with respect to those eligible by reason of each such authority, the numbers who applied for and were furnished such care, the type and extent of such care that they were furnished, and their incomes and family sizes; and
-
-&emsp;&emsp;“(ii) with respect to veterans eligible by reason of section 1710(a)(2)(B) \[formerly 610(a)(2)(B)\] of such title, the average and total payments made by such veterans for such care (shown in total and separately for hospital care, nursing home care, and outpatient care); and
-
-&emsp;“(E) the numbers of, and the type and extent of health care furnished by the Department of Veterans Affairs to, veterans eligible for such care by reason of each clause of section 1710(a)(1) \[formerly 610(a)(1)\] of such title (shown in total and separately for veterans with service-connected disabilities for each percentile disability rating).
-
-> The report for fiscal year 1986 shall include information relating only to care furnished on or after July 1, 1986.
-
-“(3) Each report under this subsection shall be submitted not later than the February 1 following the end of the fiscal year for which it is required.”
+Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, §201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, §302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of this title, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
 
 #### Chiropractic Services Pilot Program
 
@@ -446,5 +392,5 @@ Section 109 of Pub. L. 99–166 directed Administrator of Veterans’ Affairs to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1701, 1703, 1712, 1720B, 1720C, 1722, 1729, 1741, 2303, 5317, 8111A of this title; title 26 section 6103.
+This section is referred to in sections 1701, 1703, 1712, 1720B, 1720C, 1722, 1729, 2303, 5317, 8111A of this title; title 26 section 6103.
 

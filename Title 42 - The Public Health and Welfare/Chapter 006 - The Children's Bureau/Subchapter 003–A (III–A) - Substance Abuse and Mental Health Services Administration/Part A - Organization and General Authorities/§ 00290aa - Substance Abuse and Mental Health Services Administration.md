@@ -138,7 +138,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (3) Study
 
-&emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to which women are represented among senior personnel at the Administration.
+&emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to whichwomen are represented among senior personnel at the Administration.
 
 &emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women's Services with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
 
@@ -200,7 +200,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (m) Authorization of appropriations
 
-For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated$25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
 (July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(2), 97 Stat. 176; Oct. 19, 1984, Pub. L. 98–509, title II, §201, title III, §301(c)(1), 98 Stat. 2359, 2364; Oct. 27, 1986, Pub. L. 99–570, title IV, §4003, 100 Stat. 3207–106; Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(2), 102 Stat. 4213; Aug. 16, 1989, Pub. L. 101–93, §3(f), 103 Stat. 611; July 10, 1992, Pub. L. 102–321, title I, §101(a), 106 Stat. 324.)
 
@@ -260,7 +260,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 Section 161 of Pub. L. 102–321 provided that: “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 
@@ -278,7 +278,7 @@ Substance Abuse and Mental Health Services Administration.—Except as specifica
 
 “(b)
 
-National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
+National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment ofthis Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
 
 “(c)
 
@@ -346,7 +346,7 @@ Effect on Legal Actions.—Except as provided in subsection (e)—
 
 “(d)
 
-No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
+No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of theDepartment of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
 
 “(e)
 

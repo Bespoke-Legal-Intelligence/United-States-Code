@@ -28,11 +28,11 @@ The Secretary shall report to the Congress and the President not later than nine
 
 &emsp;(i) a summary of reviews, evaluations, and suggested improvements in State and local fire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
 
-(Pub. L. 93 498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96 472, title II, §202, Oct. 19, 1980, 94 Stat. 2260.)
+(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260.)
 
 #### Amendments
 
-1980—Pub. L. 96 472 substituted “ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter” for “June 30 of the year following October 29, 1974, and each year thereafter”.
+1980—Pub. L. 96–472 substituted “ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter” for “June 30 of the year following October 29, 1974, and each year thereafter”.
 
 #### Transfer of Functions
 

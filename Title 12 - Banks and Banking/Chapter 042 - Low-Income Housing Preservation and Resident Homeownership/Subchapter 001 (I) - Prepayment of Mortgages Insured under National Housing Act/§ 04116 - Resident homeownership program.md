@@ -2,7 +2,7 @@
 
 #### (a) Formation of resident council
 
-Tenants seeking to purchase eligible low-income housing in accordance with section 4110 of this title shall organize a resident council for the purpose of developing a resident homeownership program in accordance with standards established by the Secretary. The resident council shall work with a public or private nonprofit organization or a public body (including an agency or instrumentality thereof). Such organization or public body shall have experience to enable it to help the tenants consider their options and to develop the capacity necessary to own and manage the housing, where appropriate, and shall be approved by the Secretary.
+Tenants seeking to purchase eligible low-income housing in accordance with section 4110 of this title shall organize a resident council for the purpose of developing a resident homeownership program in accordance with standards established by the Secretary. The resident council shall work with a public or private nonprofit organization or a public body (including an agency or instrumentality thereof). Such organization or public body shall have experience to enable itto help the tenants consider their options and to develop the capacity necessary to own and manage the housing, where appropriate, and shall be approved by the Secretary.
 
 #### (b) Other program requirements and limitations
 
@@ -68,7 +68,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 &emsp;&emsp;&emsp;(ii) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the family during the family's tenure as owner; and
 
-&emsp;&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
+&emsp;&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulationand agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
 
 > &emsp;&emsp;Such an entity may, at the time of initial sale, enter into an agreement with the family to set a maximum amount which this appreciation may not exceed.
 

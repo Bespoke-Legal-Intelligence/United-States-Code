@@ -26,7 +26,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) provide such information with respect to a situation described in subparagraph (A) as the State agency may have;
 
-&emsp;(10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter;
+&emsp;(10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights,and provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter;
 
 &emsp;(11) provides for periodic review of the standards referred to in the preceding paragraph and amounts paid as foster care maintenance payments and adoption assistance to assure their continuing appropriateness;
 
@@ -36,7 +36,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(14) provides (A) specific goals (which shall be established by State law on or before October 1, 1982) for each fiscal year (commencing with the fiscal year which begins on October 1, 1983) as to the maximum number of children (in absolute numbers or as a percentage of all children in foster care with respect to whom assistance under the plan is provided during such year) who, at any time during such year, will remain in foster care after having been in such care for a period in excess of twenty-four months, and (B) a description of the steps which will be taken by the State to achieve such goals;
 
-&emsp;(15) effective October 1, 1983, provides that, in each case, reasonable efforts will be made\(A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home;
+&emsp;(15) effective October 1, 1983, provides that, in each case, reasonable efforts will be made (A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home;
 
 &emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in section 675(5)(B) of this title with respect to each such child; and
 
@@ -78,7 +78,7 @@ Section 203(c)(2) of Pub. L. 103–432 provided that: “The amendment made by s
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993, see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.
+Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993,see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 97–248 effective Oct. 1, 1981, see section 160(e) of Pub.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 ofPub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 #### Section Referred to in Other Sections
 

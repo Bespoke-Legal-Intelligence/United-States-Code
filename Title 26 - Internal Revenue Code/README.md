@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 1994 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 1995 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -15017,7 +15017,7 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651; title 5 section 8440; title 10 section 2401; title 11 sections 346, 745; title 12 section 3413; title 15 sections 78kkk, 631b; title 16 section 470b; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv, 1132d–1; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1301, 1453, 1706, 2231; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3701, 3711, 3718, 3729, 3801; title 33 section 2717; title 36 sections 1514, 1614, 1714, 1814, 1914, 2014, 2114, 2214, 2314, 2414, 2514, 2614, 2714, 2814, 2915, 3014, 3114, 3614, 3714, 3815, 3914, 4015, 4814, 5014, 5114; title 40 section 270a; title 41 section 261; title 42 sections 401, 408, 416, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
+This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651, 1610; title 5 section 8440; title 10 section 2401; title 11 sections 346, 745; title 12 section 3413; title 15 sections 78kkk, 631b; title 16 section 470b; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv, 1132d–1; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1301, 1453, 1706, 2231; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3701, 3711, 3718, 3729, 3801; title 33 section 2717; title 36 sections 1514, 1614, 1714, 1814, 1914, 2014, 2114, 2214, 2314, 2414, 2514, 2614, 2714, 2814, 2915, 3014, 3114, 3614, 3714, 3815, 3914, 4015, 4814, 5014, 5114; title 40 section 270a; title 42 sections 401, 408, 416, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
 
 #### Table of Contents
 

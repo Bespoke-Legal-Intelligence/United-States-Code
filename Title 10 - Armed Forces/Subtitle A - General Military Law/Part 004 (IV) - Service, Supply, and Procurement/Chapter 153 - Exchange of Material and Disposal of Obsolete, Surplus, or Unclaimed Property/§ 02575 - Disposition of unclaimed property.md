@@ -88,6 +88,10 @@ Section 322(c) of Pub. L. 101–189 provided that: “The amendments made by sub
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
 #### Cross References
 
 Armed Forces Retirement Home, see section 401 et seq. of Title 24, Hospitals and Asylums.

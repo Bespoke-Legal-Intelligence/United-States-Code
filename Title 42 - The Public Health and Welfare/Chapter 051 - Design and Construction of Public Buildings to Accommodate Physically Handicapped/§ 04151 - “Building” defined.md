@@ -6,7 +6,7 @@ As used in this chapter, the term “building” means any building or facility 
 
 &emsp;(2) to be leased in whole or in part by the United States after August 12, 1968;
 
-&emsp;(3) to be financed in whole or in part by a grant or a loan made by the United States after August 12, 1968, if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
+&emsp;(3) to be financed in whole or in part by a grant or a loan made by the United Statesafter August 12, 1968, if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
 
 &emsp;(4) to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
 

@@ -75,6 +75,10 @@
 | (b) | Sanctions. |
 | [1826b.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826b%20-%20Duration%20of%20denial%20of%20port%20privileges%20and%20sanctions.md) | Duration of denial of port privileges and sanctions. |
 | [1826c.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826c%20-%20Definitions.md) | Definitions. |
+| [1826d.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826d%20-%20Prohibition.md) | Prohibition. |
+| [1826e.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826e%20-%20Negotiations.md) | Negotiations. |
+| [1826f.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826f%20-%20Certification.md) | Certification. |
+| [1826g.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001826g%20-%20Enforcement.md) | Enforcement. |
 | [1827\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Rights%20and%20Authority%20Regarding%20Fish%20and%20Fishery%20Resources/%C2%A7%2001827%20-%20Observer%20program%20regarding%20certain%20foreign%20fishing.md) | Observer program regarding certain foreign fishing. |
 | (a) | Definitions. |
 | (b) | Observer program. |
@@ -182,7 +186,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 917, 971d, 1432, 1827, 3125, 3373, 3377, 3601, 3607, 3631, 4102, 5103, 5106 of this title; title 22 section 1980; title 33 section 1321; title 42 sections 9601, 9603; title 48 section 1904.
+This chapter is referred to in sections 917, 971b, 971d, 1432, 1827, 3125, 3373, 3377, 3601, 3607, 3631, 4102, 5103, 5106, 5504, 5609 of this title; title 22 section 1980; title 33 section 1321; title 42 sections 9601, 9603; title 48 section 1904.
 
 
 ---

@@ -30,7 +30,7 @@ No nuclear materials and equipment or sensitive nuclear technology shall be expo
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 
@@ -38,7 +38,7 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 #### Delegation of Functions
 
-Secretary of State responsible for preparation of timely information and recommendations related tofunctions vested in President by this section, see section 2(d) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+Secretary of State responsible for preparation of timely information and recommendations related to functions vested in President by this section, see section 2(d) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Performance of Functions Pending Development of Procedures
 

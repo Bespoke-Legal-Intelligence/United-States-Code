@@ -1,4 +1,4 @@
-### §638a . Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges
+### §638a. Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges
 
 (a) The Secretary of Defense may authorize the Secretary of a military department, during the nine-year period beginning on October 1, 1990, to take any of the actions set forth in subsection (b) with respect to officers of an armed force under the jurisdiction of that Secretary.
 
@@ -26,7 +26,7 @@
 
 (c)(1) In the case of an action under subsection (b)(2), the Secretary of the military department concerned shall specify the number of officers described in that subsection which a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement. Such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.
 
-(2) In the case of an action authorized under subsection (b)(2), the Secretary of Defense may also authorize the Secretary of the military department concerned when convening a selection board under section 611(b) of this title to consider regular officers on the active-duty list forearly retirement to include within the officers to be considered by the board reserve officers on the active-duty list on the same basis as regular officers.
+(2) In the case of an action authorized under subsection (b)(2), the Secretary of Defense may also authorize the Secretary of the military department concerned when convening a selection board under section 611(b) of this title to consider regular officers on the active-duty list for early retirement to include within the officers to be considered by the board reserve officers on the active-duty list on the same basis as regular officers.
 
 (3) In the case of an action under subsection (b)(2), the Secretary of the military department concerned may submit to a selection board convened pursuant to that subsection—
 

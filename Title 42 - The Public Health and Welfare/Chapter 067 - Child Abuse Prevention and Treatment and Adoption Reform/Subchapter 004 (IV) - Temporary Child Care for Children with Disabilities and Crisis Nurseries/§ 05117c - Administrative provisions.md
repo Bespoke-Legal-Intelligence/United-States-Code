@@ -34,7 +34,7 @@
 
 #### (b) Award of grants
 
-(1) In reviewing applications for grants under this subchapter, the Secretary shall consider, among other factors, the equitable geographical distribution of grants.
+(1) In reviewing applications for grants under this subchapter, the Secretary shall consider,among other factors, the equitable geographical distribution of grants.
 
 (2) In the award of temporary non-medical child care demonstration grants under section 5117a of this title, the Secretary shall give a preference to States in which such care is unavailable.
 

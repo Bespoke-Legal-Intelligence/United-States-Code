@@ -3,18 +3,18 @@
 | Sec. |  |
 | :--- | ---: |
 | \[5571 to 5581. Repealed.\] |  |
-| 5582\. | Regular Navy: transfers, line and staff corps. |
+| [5582\.](%C2%A7%2005582%20-%20Regular%20Navy%20transfers%2C%20line%20and%20staff%20corps.md) | Regular Navy: transfers, line and staff corps. |
 | \[5583, 5584. Repealed.\] |  |
-| 5585\. | Regular Marine Corps: order of filling vacancies in grade of second lieutenant. |
+| [5585\.](%C2%A7%2005585%20-%20Regular%20Marine%20Corps%20order%20of%20filling%20vacancies%20in%20grade%20of%20second%20lieutenant.md) | Regular Marine Corps: order of filling vacancies in grade of second lieutenant. |
 | \[5586. | Repealed.\] |
-| 5587\. | Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty. |
-| 5587a. | Regular Marine Corps: judge advocates. |
+| [5587\.](%C2%A7%2005587%20-%20Regular%20Navy%20officers%20designated%20for%20engineering%20duty%2C%20aeronautical%20engineering%20duty%2C%20and%20special%20duty.md) | Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty. |
+| [5587a.](%C2%A7%2005587a%20-%20Regular%20Marine%20Corps%20judge%20advocates.md) | Regular Marine Corps: judge advocates. |
 | \[5588. | Repealed.\] |
-| 5589\. | Regular Navy and Regular Marine Corps: officers designated for limited duty. |
+| [5589\.](%C2%A7%2005589%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%20officers%20designated%20for%20limited%20duty.md) | Regular Navy and Regular Marine Corps: officers designated for limited duty. |
 | \[5590 to 5595. Repealed.\] |  |
-| 5596\. | Navy and Marine Corps: temporary appointments of officers designated for limited duty. |
+| [5596\.](%C2%A7%2005596%20-%20Navy%20and%20Marine%20Corps%20temporary%20appointments%20of%20officers%20designated%20for%20limited%20duty.md) | Navy and Marine Corps: temporary appointments of officers designated for limited duty. |
 | \[5597 to 5599. Repealed.\] |  |
-| 5600\. | Naval Reserve and Marine Corps Reserve: service credit upon original appointment.<sup>1</sup> |
+| [5600\.](%C2%A7%2005600%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20service%20credit%20upon%20original%20appointment.md) | Naval Reserve and Marine Corps Reserve: service credit upon original appointment.<sup>1</sup> |
 | \[5601. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

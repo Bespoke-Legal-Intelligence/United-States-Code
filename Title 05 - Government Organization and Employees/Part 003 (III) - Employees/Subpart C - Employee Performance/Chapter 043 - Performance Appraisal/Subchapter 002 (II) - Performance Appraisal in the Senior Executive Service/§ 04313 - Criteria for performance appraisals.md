@@ -16,5 +16,5 @@ Appraisals of performance in the Senior Executive Service shall be based on both
 
 #### Amendments
 
-1994—Par. (5). Pub. L. 103–424 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “meeting affirmative action goals and achievement of equal employment opportunity requirements.”
+<b>1994</b>—Par. (5). Pub. L. 103–424 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “meeting affirmative action goals and achievement of equal employment opportunity requirements.”
 

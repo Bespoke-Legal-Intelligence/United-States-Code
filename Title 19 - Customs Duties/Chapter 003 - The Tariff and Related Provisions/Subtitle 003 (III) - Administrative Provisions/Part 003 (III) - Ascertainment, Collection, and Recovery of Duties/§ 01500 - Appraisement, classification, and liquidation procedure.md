@@ -16,7 +16,7 @@ The Customs Service shall, under rules and regulations prescribed by the Secreta
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §500, 42 Stat. 965. That section was superseded by section 500 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §500, 42 Stat. 965. That section was superseded by section 500 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions dealing with the subject matter of subdivision (a) of this section were contained in act Oct. 3, 1913, ch. 16, §III, K, 38 Stat. 185, reenacting without change the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §10, 26 Stat. 136, as reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 97. A provision somewhat similar to subdivision (a)(5) of this section was contained in section III, M, of the 1913 act, the provisions of which were substituted for provisions of the same nature contained in section 13 of the Customs Administrative Act of June 10, 1890, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99. Said section III of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

@@ -46,7 +46,7 @@ The State shall provide, in accordance with the requirements of section 1491d of
 
 &emsp;(7) to promote and develop interagency coordination and collaboration.
 
-(Pub. L. 91 230, title VI, §706, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3946.)
+(Pub. L. 91–230, title VI, §706, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946.)
 
 #### Section Referred to in Other Sections
 

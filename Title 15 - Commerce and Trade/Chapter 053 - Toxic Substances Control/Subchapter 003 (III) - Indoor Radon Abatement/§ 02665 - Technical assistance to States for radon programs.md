@@ -14,7 +14,7 @@ The Administrator (or another Federal department or agency designated by the Adm
 
 &emsp;(5) Operation of cooperative projects between the Environmental Protection Agency's Radon Action Program and the State's radon program. Such projects shall include the Home Evaluation Program, in which the Environmental Protection Agency evaluates homes and States demonstrate mitigation methods in these homes. To the maximum extent practicable, consistent with the objectives of the evaluation and demonstration, homes of low-income persons should be selected for evaluation and demonstration.
 
-&emsp;(6) Demonstration of radon mitigation methods in various types of structures and in various geographic settings and publication of findings. In the case of demonstration of such methods in homes, the Administrator shouldselect homes of low-income persons, to the maximum extent practicable and consistent with the objectives of the demonstration.
+&emsp;(6) Demonstration of radon mitigation methods in various types of structures and in various geographic settings and publication of findings. In the case of demonstration of such methods in homes, the Administrator should select homes of low-income persons, to the maximum extent practicable and consistent with the objectives of the demonstration.
 
 &emsp;(7) Establishment of a national data base with data organized by State concerning the location and amounts of radon.
 
@@ -38,11 +38,7 @@ Upon request of a State, the Administrator (or another Federal department or age
 
 The Administrator, or another Federal department or agency designated by the Administrator, shall provide appropriate information concerning technology and methods of radon assessment and mitigation to professional organizations representing private firms involved in building design, engineering, and construction.
 
-#### (d) Plan
-
-Within 9 months after October 28, 1988, and annually thereafter, the Administrator shall submit to Congress a plan identifying assistance to be provided under this section and outlining personnel and financial resources necessary to implement this section. Prior to submission to Congress, this plan shall be reviewed by the advisory groups provided for in section 403(c) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 7401 note).
-
-#### (e) Proficiency rating program and training seminar
+#### (d) Proficiency rating program and training seminar
 
 #### (1) Authorization
 
@@ -50,7 +46,7 @@ Within 9 months after October 28, 1988, and annually thereafter, the Administrat
 
 #### (2) Charge imposed
 
-&emsp;To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating in training seminars such charges as may be necessary to defray the costs of the program or seminars. No such charge may be imposed on any State or local government.
+&emsp;To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating in training seminars such charges as may be necessary to defray the costs of the program orseminars. No such charge may be imposed on any State or local government.
 
 #### (3) Special account
 
@@ -96,7 +92,7 @@ Within 9 months after October 28, 1988, and annually thereafter, the Administrat
 
 &emsp;In addition to any charge imposed pursuant to paragraph (2), the Administrator shall collect user fees from persons seeking certification under the radon proficiency program in an amount equal to $1,500,000 to cover the Environmental Protection Agency's cost of conducting research pursuant to paragraph (5) for each of the fiscal years 1991, 1992, 1993, 1994, and 1995. Such funds shall be deposited in the account established pursuant to paragraph (3).
 
-#### (f) Authorization
+#### (e) Authorization
 
 (1) There is authorized to be appropriated for the purposes of carrying out sections 2663, 2664, and 2665 of this title an amount not to exceed $3,000,000 for each of fiscal years 1989, 1990, and 1991.
 
@@ -104,17 +100,15 @@ Within 9 months after October 28, 1988, and annually thereafter, the Administrat
 
 (3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2) of this section.
 
-(Pub. L. 94 469, title III, §305, as added Pub. L. 100 551, §1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101 508, title X, §10202, Nov. 5, 1990, 104 Stat. 1388 393.)
-
-#### References in Text
-
-Section 403(c) of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d), is section 403(c) of Pub. L. 99 499, which is set out as a note under section 7401 of Title 42, The Public Health and Welfare.
+(Pub. L. 94–469, title III, §305, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101–508, title X, §10202, Nov. 5, 1990, 104 Stat. 1388–393; Pub. L. 104–66, title II, §2021(<i>l</i>), Dec. 21, 1995, 109 Stat. 728.)
 
 #### Amendments
 
-1990—Subsec. (e)(5) to (7). Pub. L. 101 508 added pars. (5) to (7).
+1995—Subsecs. (d) to (f). Pub. L. 104–66 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “Within 9 months after October 28, 1988, and annually thereafter, the Administrator shall submit to Congress a plan identifying assistance to be provided under this section and outlining personnel and financial resources necessary to implement this section. Prior to submission to Congress, this plan shall be reviewed by the advisory groups provided for in section 403(c) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 7401 note).”
+
+1990—Subsec. (e)(5) to (7). Pub. L. 101–508 added pars. (5) to (7).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2666, 4370c of this title.
+This section is referred to in section 2666 of this title; title 42 section 4370c.
 

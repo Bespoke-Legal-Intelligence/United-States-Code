@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1978—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3392 of this title as this section.
+<b>1978</b>—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3392 of this title as this section.
 
 Subsec. (a)(1)(B). Pub. L. 95–454, §906(c)(2)(B)(i), substituted “3403” for “3393”.
 
@@ -41,8 +41,4 @@ Subsec. (b)(2). Pub. L. 95–454, §906(c)(2)(B)(iii), substituted “Office” 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3407 of this title.
 

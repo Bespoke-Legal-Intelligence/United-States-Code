@@ -152,6 +152,10 @@ Section 4 of Pub. L. 93–548 provided that: “The amendments made by section 3
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 407 of this title.

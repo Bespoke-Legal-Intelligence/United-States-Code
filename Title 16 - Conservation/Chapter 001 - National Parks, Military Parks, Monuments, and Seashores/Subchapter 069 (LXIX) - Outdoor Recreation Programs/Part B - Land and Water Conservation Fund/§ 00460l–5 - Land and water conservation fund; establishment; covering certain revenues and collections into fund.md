@@ -12,7 +12,7 @@ The amounts provided for in section 460<i>l</i>–11 of this title.
 
 #### (c) Other revenues
 
-(1) In addition to the sum of the revenues and collections estimated by the Secretary of the Interior to be covered into the fund pursuant to this section, as amended, there are authorized to be appropriated annually to the fund out of anymoney in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the fund not less than $300,000,000 for fiscal year 1977, and $900,000,000 for fiscal year 1978 and for each fiscal year thereafter through September 30, 2015.
+(1) In addition to the sum of the revenues and collections estimated by the Secretary of the Interior to be covered into the fund pursuant to this section, as amended, there are authorized to be appropriated annually to the fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the fund not less than $300,000,000 for fiscal year 1977, and $900,000,000 for fiscal year 1978 and for each fiscal year thereafter through September 30, 2015.
 
 (2) To the extent that any such sums so appropriated are not sufficient to make the total annual income of the fund equivalent to the amounts provided in clause (1), an amount sufficient to cover the remainder thereof shall be credited to the fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.): <i>Provided</i>, That notwithstanding the provisions of section 460<i>l</i>–6 of this title, moneys covered into the fund under this paragraph shall remain in the fund until appropriated by the Congress to carry out the purpose of this part.
 
@@ -40,7 +40,7 @@ Subsec. (a). Pub. L. 94–422 reenacted subsec. (a) without change except for re
 
 Subsec. (b). Pub. L. 94–422 reenacted subsec. (b) without change.
 
-Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 1977, $600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980 and for each fiscal year thereafter through September 30, 1989.” for “$200,000,000 for each of the fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through September 30, 1989.”.
+Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 1977, $600,000,000 for fiscal year 1978,$750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980 and for each fiscal year thereafter through September 30, 1989.” for “$200,000,000 for each of the fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through September 30, 1989.”.
 
 Subsec. (c)(2). Pub. L. 94–422 substituted “equivalent to the amounts” for “amount to $200,000,000 or $300,000,000 for each of such fiscal years, as”.
 
@@ -96,7 +96,7 @@ Sec. 2. <i>Designation of areas for years after 1965</i>. (a) Subject to the pro
 
 (2) Whenever, in accordance with subsection (b) of this section, it is determined that a recreation user fee should be charged with respect to an area with respect to which no such fee has theretofore been charged, such new fee shall be charged only after the posting requirements of Section 4 of this Order have been satisfied.
 
-Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of this Order and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
+Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of thisOrder and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
 
 (1) The area is administered by any of the eight agencies specified in Section 1(a) of this Order;
 
@@ -122,7 +122,7 @@ Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consu
 
 (c) Subject to the limits set forth in the Act, the measures which the Secretary of the Interior may adopt pursuant to subsection (a) of this section may include, but are not limited to, the following—
 
-(1) Initial preparation and coordination of the comprehensive statement of estimated requirements duringthe ensuing fiscal year for appropriations from the Land and Water Conservation Fund, as required by Section 4(a) of the act \[section 460<i>l</i>–7(a) of this title\].
+(1) Initial preparation and coordination of the comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Land and Water Conservation Fund, as required by Section 4(a) of the act \[section 460<i>l</i>–7(a) of this title\].
 
 (2) Development of such additional procedures and interpretive materials as are necessary to facilitate the implementation of this Order and related provisions of the Act.
 

@@ -40,7 +40,7 @@ In the case of an alien who is arrested by a Federal, State, or local law enforc
 
 &emsp;(3) requests the Service to determine promptly whether or not to issue a detainer to detain the alien,
 
-> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney Generalshall effectively and expeditiously take custody of the alien.
+> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.
 
 #### (e) Restriction on warrantless entry in case of outdoor agricultural operations
 

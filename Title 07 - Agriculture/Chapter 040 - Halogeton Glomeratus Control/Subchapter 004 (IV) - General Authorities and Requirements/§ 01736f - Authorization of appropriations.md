@@ -1,0 +1,52 @@
+### §1736f. Authorization of appropriations
+
+#### (a) Reimbursement
+
+There are authorized to be appropriated such sums as may be necessary to carry out—
+
+&emsp;(1) the concessional credit sales program established under subchapter II of this chapter;
+
+&emsp;(2) the emergency and private assistance program under subchapter III of this chapter; and
+
+&emsp;(3) the grant program established under subchapter III–A of this chapter,
+
+> including such amounts as may be required to make payments to the Commodity Credit Corporation to the extent the Commodity Credit Corporation is not reimbursed under the programs under this chapter for the actual costs incurred or to be incurred by such Corporation in carrying out such programs.
+
+#### (b) Limitations
+
+Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
+
+&emsp;(1) 40 percent shall be made available to carry out the credit sales program established under subchapter II of this chapter; and
+
+&emsp;(2) 40 percent shall be made available to carry out the grant program established under subchapter III–A of this chapter.
+
+#### (c) Transfer of funds
+
+Notwithstanding any other provision of law and except as provided in subsection (b) of this section, if the President determines it to be necessary for purposes of this chapter, the President may direct that not in excess of 15 percent of the funds available in any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.
+
+#### (d) Budget
+
+In presenting the Budget of the United States, the President shall classify expenditures under this chapter as expenditures for international affairs and finance rather than for agriculture and agricultural resources.
+
+#### (e) Value of commodities
+
+Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under title I of the Agricultural Act of 1949 \[7 U.S.C. 1441 et seq.\] shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
+
+(July 10, 1954, ch. 469, title IV, §412, as added Dec. 20, 1975, Pub. L. 94–161, title II, §212, 89 Stat. 855; amended Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3655.)
+
+#### References in Text
+
+The Agricultural Act of 1949, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Amendments
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to seek agreement for international food reserve, with costs to be shared equitably among nations, and with safeguards against price disruptions.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (c) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+

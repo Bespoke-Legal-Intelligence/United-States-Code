@@ -14,7 +14,7 @@ The Secretary shall approve the new governing document if approved by a majority
 
 #### (d) Interim governing document pending approval
 
-Until the tribe adopts and the Secretary approves a new governing document, its interim governing document shall be the tribal bylaws entitled “By-Laws of Cow Creek Band of Umpqua Tribe of Indians” which bear an “approved” date of “9–10–78,”.
+Until the tribe adopts and the Secretary approves a new governing document, its interimgoverning document shall be the tribal bylaws entitled “By-Laws of Cow Creek Band of Umpqua Tribe of Indians” which bear an “approved” date of “9–10–78,”.
 
 #### (e) Governing body pending adoption of final document
 

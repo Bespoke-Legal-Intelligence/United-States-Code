@@ -24,7 +24,7 @@ Each eligible recipient receiving a grant under this part shall establish in eac
 
 &emsp;(5) access to day care services for children of participating students.
 
-(Pub. L. 88 210, title III, §365, as added Pub. L. 101 392, title III, §310, Sept. 25, 1990, 104 Stat. 795.)
+(Pub. L. 88–210, title III, §365, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 795.)
 
 #### Section Referred to in Other Sections
 

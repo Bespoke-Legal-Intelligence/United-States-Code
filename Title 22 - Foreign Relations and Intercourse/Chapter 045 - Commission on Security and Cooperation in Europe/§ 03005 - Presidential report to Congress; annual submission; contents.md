@@ -6,7 +6,7 @@ In order to assist the Commission in carrying out its duties, the President shal
 
 #### References in Text
 
-The Final Act of the Conference on Security and Cooperation in Europe, referred to in text, means partfour of the Helsinki Declaration which deals with follow-up to the Conference and possible steps to encourage compliance with its purposes and undertakings. The Declaration was signed on August 1, 1975 by the nine members of the European Economic Community and the 35 participants to the Conference included all the European States, both Communist (except Albania) and non-Communist, the United States, Canada, and several non-participating Mediterranean states.
+The Final Act of the Conference on Security and Cooperation in Europe, referred to in text, means part four of the Helsinki Declaration which deals with follow-up to the Conference and possible steps to encourage compliance with its purposes and undertakings. The Declaration was signed on August 1, 1975 by the nine members of the European Economic Community and the 35 participants to the Conference included all the European States, both Communist (except Albania) and non-Communist, the United States, Canada, and several non-participating Mediterranean states.
 
 #### Amendments
 

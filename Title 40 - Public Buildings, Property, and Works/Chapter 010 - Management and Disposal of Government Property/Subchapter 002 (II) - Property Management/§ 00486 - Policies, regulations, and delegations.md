@@ -2,7 +2,7 @@
 
 #### (a) Promulgation by President
 
-The President may prescribe such policies and directives, not inconsistent with the provisionsof this Act, as he shall deem necessary to effectuate the provisions of said Act, which policies and directives shall govern the Administrator and executive agencies in carrying out their respective functions hereunder.
+The President may prescribe such policies and directives, not inconsistent with the provisions of this Act, as he shall deem necessary to effectuate the provisions of said Act, which policies and directives shall govern the Administrator and executive agencies in carrying out their respective functions hereunder.
 
 #### (b) Accounting principles and standards
 
@@ -56,11 +56,61 @@ Section was formerly classified to section 235 of Title 41, Public Contracts.
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands
+
+Pub. L. 104–52, title VI, §636, Nov. 19, 1995, 109 Stat. 507, provided that: “This section may be cited as the ‘Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands Act’.
+
+“(a) As used in this section—
+
+&emsp;“(1) the term ‘Federal agency’ means—
+
+&emsp;&emsp;“(A) an Executive agency as defined in section 105 of title 5, United States Code; and
+
+&emsp;&emsp;“(B) each entity specified in subparagraphs (B) through (H) of section 5721(1) of title 5, United States Code;
+
+&emsp;“(2) the term ‘Federal building’ means—
+
+&emsp;&emsp;“(A) any building or other structure owned in whole or in part by the United States or any Federal agency, including any such structure occupied by a Federal agency under a lease agreement; and
+
+&emsp;&emsp;“(B) includes the real property on which such building is located;
+
+&emsp;“(3) the term ‘minor’ means an individual under the age of 18 years; and
+
+&emsp;“(4) the term ‘tobacco product’ means cigarettes, cigars, little cigars, pipe tobacco, smokeless tobacco, snuff, and chewing tobacco.
+
+“(b)(1) No later than 45 days after the date of the enactment of this Act \[Nov. 19, 1995\], the Administrator of General Services and the head of each Federal agency shall promulgate regulations that prohibit—
+
+&emsp;“(A) the sale of tobacco products in vending machines located in or around any Federal building under the jurisdiction of the Administrator or such agency head; and
+
+&emsp;“(B) the distribution of free samples of tobacco products in or around any Federal building under the jurisdiction of the Administrator or such agency head.
+
+“(2) The Administrator of General Services or the head of an agency, as appropriate, may designate areas not subject to the provisions of paragraph (1), if such area also prohibits the presence of minors.
+
+“(3) The provisions of this subsection shall be carried out—
+
+&emsp;“(A) by the Administrator of General Services for any Federal building which is maintained, leased, or has title of ownership vested in the General Services Administration; or
+
+&emsp;“(B) by the head of a Federal agency for any Federal building which is maintained, leased, or has title of ownership vested in such agency.
+
+“(c) No later than 90 days after the date of enactment of this Act \[Nov. 19, 1995\], the Administrator of General Services and each head of an agency shall prepare and submit, to the appropriate committees of Congress, a report that shall contain—
+
+&emsp;“(1) verification that the Administrator or such head of an agency is in compliance with this section; and
+
+&emsp;“(2) a detailed list of the location of all tobacco product vending machines located in Federal buildings under the administration of the Administrator or such head of an agency.
+
+“(d)(1) No later than 45 days after the date of the enactment of this Act \[Nov. 19, 1995\], the Senate Committee on Rules and Administration and the House of Representatives Committee on House Oversight, after consultation with the Architect of the Capitol, shall promulgate regulations under the Senate and House of Representatives rulemaking authority that prohibit the sale of tobacco products in vending machines in the Capitol Buildings.
+
+“(2) Such committees may designate areas where such prohibition shall not apply, if such area also prohibits the presence of minors.
+
+“(3) For the purpose of this section the term ‘Capitol Buildings’ shall have the same meaning as such term is defined under section 16(a)(1) of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C. 193m(1)).
+
+“(e) Nothing in this section shall be construed as restricting the authority of the Administrator of General Services or the head of an agency to limit tobacco product use in or around any Federal building, except as provided under subsection (b)(1).”
 
 #### Modification of Policies, Procedures, and Directives
 
@@ -70,7 +120,7 @@ To all executive agencies: By virtue of the authority vested in me by section 20
 
 2\. After consultation with the Bureau of the Budget \[now the Office of Management and Budget\] and other Executive agencies, and also with the General Accounting Office in respect of such matters as may be appropriate, including matters affecting its functions under sections 205(b) and 206(c) of the Act \[subsec. (b) of this section and section 487(c) of this title\], and at the earliest possible date, the Administrator of General Services shall establish such standards, prescribe such regulations, and prepare and issue such manuals and procedures as may be necessary to guide all Executive agencies in ascertaining whether their operations in the field of property and records management are efficient and economical as well as consistent with established Government policies.
 
-3\. In accordance with directives to be issued by the Administrator of General Services, each Executive agency shall promptly institute surveys to determine excess personal property and that portion of excess real property, including unimproved property, under their control which might be suitable for office, storage, and related facilities, and shall promptly report to the Administrator as soon as each survey is completed.
+3\. In accordance with directives to be issued by the Administrator of General Services, each Executiveagency shall promptly institute surveys to determine excess personal property and that portion of excess real property, including unimproved property, under their control which might be suitable for office, storage, and related facilities, and shall promptly report to the Administrator as soon as each survey is completed.
 
 4\. Each Executive agency shall carefully plan and schedule its requirements for supplies, equipment, materials and all other personal property in order that necessary stocks may be maintained at minimum levels and high-cost small-lot purchasing avoided.
 
@@ -178,7 +228,7 @@ Ex. Ord. No. 11954, Jan. 7, 1977, 42 F.R. 2297, as amended by Ex. Ord. No. 12030
 
 #### Executive Order No. 12030
 
-Ex. Ord. No. 12030, Dec. 15, 1977, 42 F.R. 63633, formerly set out as a note under this section, which amended Ex. Ord. No. 11954, Jan. 7, 1977, 42 F.R. 2297, by, among other changes, providing for the termination of the Federal Property Council, was omitted from the Code in view of the revocation of Ex. Ord. No. 11954 by Ex. Ord. No. 12348, Feb. 25, 1982, 47 F.R. 8547, formerly set out below.
+Ex. Ord. No. 12030, Dec. 15, 1977, 42 F.R. 63633, formerly set out as a note under this section, which amended Ex.Ord. No. 11954, Jan. 7, 1977, 42 F.R. 2297, by, among other changes, providing for the termination of the Federal Property Council, was omitted from the Code in view of the revocation of Ex. Ord. No. 11954 by Ex. Ord. No. 12348, Feb. 25, 1982, 47 F.R. 8547, formerly set out below.
 
 #### Executive Order No. 12348
 
@@ -260,7 +310,7 @@ Sec. 3. <i>Exclusions</i>. This order shall not apply to (a) contracts under the
 
 (b) contracts awarded pursuant to the Javits-Wagner-O'Day Act, 41 U.S.C. 46–48a; and any future enacted law creating an employment preference for some group of workers under building services contracts;
 
-(c) guard, elevator operator, messenger, or custodial services provided to the Government under contractswith sheltered workshops employing the severely handicapped as outlined in the Edgar Amendment, section 505 of the Treasury, Postal Services and General Government Appropriations Act, 1995, Public Law 103–329 \[40 U.S.C. 490c\];
+(c) guard, elevator operator, messenger, or custodial services provided to the Government under contracts with sheltered workshops employing the severely handicapped as outlined in the Edgar Amendment, section 505 of the Treasury, Postal Services and General Government Appropriations Act, 1995, Public Law 103–329 \[40 U.S.C. 490c\];
 
 (d) agreements for vending facilities entered into under the preference provisions of the Randolph-Sheppard Act, 20 U.S.C. 107; or
 
@@ -274,13 +324,149 @@ Sec. 4. <i>Contract Clause</i>. The following contract clause shall be included 
 
 \[“\](b) Notwithstanding the contractor's obligation under paragraph (a) above, the contractor (1) may employ on the contract any employee who has worked for the contractor for at least 3 months immediately preceding the commencement of this contract and who would otherwise face lay-off or discharge, and (2) is not required to offer a right of first refusal to any employee(s) of the predecessor contractor who are not service employees within the meaning of the McNamara-O'Hara Service Contract Act, 41 U.S.C. 357(b), and (3) is not required to offer a right of first refusal to any employee(s) of the predecessor contractor whom the contractor reasonably believes, based on the particular employee's past performance, has failed to perform suitably on the job.
 
-\[“\](c) In accordance with Federal Acquisition Regulation 52.222–41(n), the contractor shall, not less than 60 days before completion of this contract, furnish the Contracting Officer a certified list of the names of all service employees working at the Federal facility during the last month of contract performance. The list shall also contain anniversary dates of employment on the contract either with the current or predecessor contractors of each service employee. The Contracting Officer will provide the list to the successor contractor, and the list shall be provided on request to employees or their representatives.
+\[“\](c) In accordance with Federal Acquisition Regulation 52.222–41(n), the contractor shall, not less than 60days before completion of this contract, furnish the Contracting Officer a certified list of the names of all service employees working at the Federal facility during the last month of contract performance. The list shall also contain anniversary dates of employment on the contract either with the current or predecessor contractors of each service employee. The Contracting Officer will provide the list to the successor contractor, and the list shall be provided on request to employees or their representatives.
 
 \[“\](d) If it is determined, pursuant to regulations issued by the Secretary of Labor, that the contractor is not in compliance with the requirements of this clause or any regulation or order of the Secretary, appropriate sanctions may be imposed and remedies invoked against the contractor, as provided in Executive Order No. 12933, the regulations, and relevant orders of the Secretary of Labor, or as otherwise provided by law.”
 
 Sec. 5. <i>Enforcement</i>. The Secretary of Labor is responsible for investigating and obtaining compliance with this Executive order. In such proceedings the Secretary shall have the authority to issue final orders prescribing appropriate sanctions and remedies, including, but not limited to, orders requiring employment and payment of wages lost. The Secretary also may provide that where a contractor has failed to comply with any order of the Secretary or has committed willful violations of this order or the regulations issued pursuant thereto, the contractor and its responsible officers, and any firm in which the contractor has a substantial interest, shall be ineligible to be awarded any contract or subcontract of the United States for a period of up to 3 years. This Executive order creates no rights under the Contract Disputes Act \[41 U.S.C. 601 et seq.\], and disputes regarding the requirement of the contract clause shall be disposed of only as provided by the Secretary of Labor in regulations issued under this Executive order. To the extent practicable, such regulations shall favor the resolution of disputes by efficient and informal alternative dispute resolution methods. The Secretary of Labor shall, in consultation with the Federal Acquisition Regulatory Council, issue regulations, within 180 days of the date of this order, to implement the requirements of this Executive order. The Federal Acquisition Regulatory Council shall issue, within 180 days of the date of this order, regulations in the Federal Acquisition Regulation to provide for inclusion of the contract clause in Federal solicitations and contracts subject to this Executive order.
 
 Sec. 6. <i>Judicial Review</i>. Nothing in this order is intended to provide a constitutional or statutory interpretation of any kind and it is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final decisions by the Secretary of Labor in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 12954. Ensuring the Economical and Efficient Administration and Completion of Federal Government Contracts
+
+Ex. Ord. No. 12954, Mar. 8, 1995, 60 F.R. 13023, provided:
+
+Efficient economic performance and productivity are directly related to the existence of cooperative working relationships between employers and employees. When Federal contractors become involved in prolonged labor disputes with their employees, the Federal Government's economy, efficiency, and cost of operations are adversely affected. In order to operate as effectively as possible, by receiving timely goods and quality services, the Federal Government must assist the entities with which it has contractual relations to develop stable relationships with their employees.
+
+An important aspect of a stable collective bargaining relationship is the balance between allowing businesses to operate during a strike and preserving worker rights. This balance is disrupted when permanent replacement employees are hired. It has been found that strikes involving permanent replacement workers are longer in duration than other strikes. In addition, the use of permanent replacements can change a limited dispute into a broader, more contentious struggle, thereby exacerbating the problems that initially led to the strike. By permanently replacing its workers, an employer loses the accumulated knowledge, experience, skill, and expertise of its incumbent employees. These circumstances then adversely affect the businesses and entities, such as the Federal Government, which rely on that employer to provide high quality and reliable goods or services.
+
+NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) and 3 U.S.C. 301, it is hereby ordered as follows:
+
+Section 1. It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies shall not contract with employers that permanently replace lawfully striking employees. All discretion under this Executive order shall be exercised consistent with this policy.
+
+Sec. 2. (a) The Secretary of Labor (“Secretary”) may investigate an organizational unit of a Federal contractor to determine whether the unit has permanently replaced lawfully striking workers. Such investigation shall be conducted in accordance with procedures established by the Secretary.
+
+(b) The Secretary shall receive and may investigate complaints by employees of any entity covered under section 2(a) of this order where such complaints allege lawfully striking employees have been permanently replaced.
+
+(c) The Secretary may hold such hearings, public or private, as he or she deems advisable, to determine whether an entity covered under section 2(a) has permanently replaced lawfully striking employees.
+
+Sec. 3. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may make a finding that it is appropriate to terminate the contract for convenience. The Secretary shall transmit that finding to the head of any department or agency that contracts with the contractor.
+
+(b) The head of the contracting department or agency may object to the termination for convenience of a contract or contracts of a contractor determined to have permanently replaced legally striking employees. If the head of the agency so objects, he or she shall set forth the reasons for not terminating the contract or contracts in a response in writing to the Secretary. In such case, the termination for convenience shall not be issued. The head of the contracting agency or department shall report to the Secretary those contracts that have been terminated for convenience under this section.
+
+Sec. 4. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may debar the contractor, thereby making the contractor ineligible to receive government contracts. The Secretary shall notify the Administrator of the General Services Administration of the debarment, and the Administrator shall include the contractor on the consolidated list of debarred contractors. Departments and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors unless the head of the agency or his or her designee determines, in writing, that there is a compelling reason for such action, in accordance with the Federal Acquisition Regulation.
+
+(b) The scope of the debarment normally will be limited to those organizational units of a Federal contractor that the Secretary finds to have permanently replaced lawfully striking workers.
+
+(c) The period of the debarment may not extend beyond the date when the labor dispute precipitating the permanent replacement of lawfully striking workers has been resolved, as determined by the Secretary.
+
+Sec. 5. The Secretary shall publish or cause to be published, in the Federal Register, the names of contractors that have, in the judgement of the Secretary, permanently replaced lawfully striking employees and have been the subject of debarment.
+
+Sec. 6. The Secretary shall be responsible for the administration and enforcement of this order. The Secretary, after consultation with the Secretary of Defense, the Administrator of the General Services, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the Office of Federal Procurement Policy, may adopt such rules and regulations and issue such orders as may be deemed necessary and appropriate to achieve the purposes of this order.
+
+Sec. 7. Each contracting department and agency shall cooperate with the Secretary and provide such information and assistance as the Secretary may require in the performance of the Secretary's functions under this order.
+
+Sec. 8. The Secretary may delegate any function or duty of the Secretary under this order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of the head of the department or agency in which that officer serves.
+
+Sec. 9. The Secretary of Defense, the Administrator of the General Services, and the Administrator of the National Aeronautics and Space Administration, after consultation with the Administrator of the Office of Federal Procurement Policy, shall take whatever action is appropriate to implement the provisions of this order and of any related rules, regulations, or orders of the Secretary issued pursuant to this order.
+
+Sec. 10. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final agency decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
+
+Sec. 11. The meaning of the term “organizational unit of a Federal contractor” as used in this order shall be defined in regulations that shall be issued by the Secretary of Labor, in consultation with affected agencies. This order shall apply only to contracts in excess of the Simplified Acquisition Threshold.
+
+Sec. 12. (a) The provisions of section 3 of this order shall only apply to situations in which contractors have permanently replaced lawfully striking employees after the effective date of this order.
+
+(b) This order is effective immediately.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 12977. Interagency Security Committee
+
+Ex. Ord. No. 12977, Oct. 19, 1995, 60 F.R. 54411, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the quality and effectiveness of security in and protection of buildings and facilities in the United States occupied by Federal employees for nonmilitary activities (“Federal facilities”), and to provide a permanent body to address continuing government-wide security for Federal facilities, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is hereby established within the executive branch the Interagency Security Committee (“Committee”). The Committee shall consist of: (a) the Administrator of General Services (“Administrator”);
+
+(b) representatives from the following agencies, appointed by the agency heads:
+
+(1) Department of State;
+
+(2) Department of the Treasury;
+
+(3) Department of Defense;
+
+(4) Department of Justice;
+
+(5) Department of the Interior;
+
+(6) Department of Agriculture;
+
+(7) Department of Commerce;
+
+(8) Department of Labor;
+
+(9) Department of Health and Human Services;
+
+(10) Department of Housing and Urban Development;
+
+(11) Department of Transportation;
+
+(12) Department of Energy;
+
+(13) Department of Education;
+
+(14) Department of Veterans Affairs;
+
+(15) Environmental Protection Agency;
+
+(16) Central Intelligence Agency; and
+
+(17) Office of Management and Budget;
+
+(c) the following individuals or their designees:
+
+(1) the Director, United States Marshals Service;
+
+(2) the Assistant Commissioner of the Federal Protective Service of the Public Buildings Service, General Services Administration (“Assistant Commissioner”);
+
+(3) the Assistant to the President for National Security Affairs; and
+
+(4) the Director, Security Policy Board; and
+
+(d) such other Federal employees as the President shall appoint.
+
+Sec. 2. <i>Chair</i>. The Committee shall be chaired by the Administrator, or the designee of the Administrator.
+
+Sec. 3. <i>Working Groups</i>. The Committee is authorized to establish interagency working groups to perform such tasks as may be directed by the Committee.
+
+Sec. 4. <i>Consultation</i>. The Committee may consult with other parties, including the Administrative Office of the United States Courts, to perform its responsibilities under this order, and, at the discretion of the Committee, such other parties may participate in the working groups.
+
+Sec. 5. <i>Duties and Responsibilities</i>. (a) The Committee shall: (1) establish policies for security in and protection of Federal facilities;
+
+(2) develop and evaluate security standards for Federal facilities, develop a strategy for ensuring compliance with such standards, and oversee the implementation of appropriate security measures in Federal facilities; and
+
+(3) take such actions as may be necessary to enhance the quality and effectiveness of security and protection of Federal facilities, including but not limited to:
+
+(A) encouraging agencies with security responsibilities to share security-related intelligence in a timely and cooperative manner;
+
+(B) assessing technology and information systems as a means of providing cost-effective improvements to security in Federal facilities;
+
+(C) developing long-term construction standards for those locations with threat levels or missions that require blast resistant structures or other specialized security requirements;
+
+(D) evaluating standards for the location of, and special security related to, day care centers in Federal facilities; and
+
+(E) assisting the Administrator in developing and maintaining a centralized security data base of all Federal facilities.
+
+Sec. 6. <i>Agency Support and Cooperation</i>. (a) <i>Administrative Support</i>. To the extent permitted by law and subject to the availability of appropriations, the Administrator, acting by and through the Assistant Commissioner, shall provide the Committee such administrative services, funds, facilities, staff and other support services as may be necessary for the performance of its functions under this order.
+
+(b) <i>Cooperation</i>. Each executive agency and department shall cooperate and comply with the policies and recommendations of the Committee issued pursuant to this order, except where the Director of Central Intelligence determines that compliance would jeopardize intelligence sources and methods. To the extent permitted by law and subject to the availability of appropriations, executive agencies and departments shallprovide such support as may be necessary to enable the Committee to perform its duties and responsibilities under this order.
+
+(c) <i>Compliance</i>. The Administrator, acting by and through the Assistant Commissioner, shall be responsible for monitoring Federal agency compliance with the policies and recommendations of the Committee.
+
+Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government, and is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (1) Time for making election
 
-&emsp;An election under subsection (b) shall be made not later than the time prescribed bylaw for filing the return for the taxable year in which the trade or business begins (including extensions thereof).
+&emsp;An election under subsection (b) shall be made not later than the time prescribed by law for filing the return for the taxable year in which the trade or business begins (including extensions thereof).
 
 #### (2) Scope of election
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 1984—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 
-Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with election to amortize for provisions dealing with start-up expenditures.
+Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with election toamortize for provisions dealing with start-up expenditures.
 
 Subsec. (c). Pub. L. 98–369 amended subsec. (c) generally, substituting provisions setting forth definitions for provisions dealing with election.
 

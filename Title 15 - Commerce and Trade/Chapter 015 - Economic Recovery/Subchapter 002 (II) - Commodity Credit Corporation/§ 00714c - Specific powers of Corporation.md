@@ -50,7 +50,7 @@ Funding.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
+In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
 
 &emsp;“(2)
 

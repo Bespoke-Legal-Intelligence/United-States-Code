@@ -10,7 +10,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 &emsp;(1) the amount necessary to fund (with level funding) the remaining unfunded liability of the taxpayer for black lung claims filed (or expected to be filed) by (or with respect to) past or present employees of the taxpayer, or
 
-&emsp;(2) the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year.
+&emsp;(2) the aggregate amount necessary to increase each trust described in section 501(c)(21)to the amount required to pay all amounts payable out of such trust for the taxable year.
 
 #### (c) Special rules
 
@@ -76,7 +76,7 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (e), is P
 
 1980—Subsec. (e). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
-1978—Subsec. (b). Pub. L. 95–488, §1(a), substituted provision limiting the allowable deduction to the greater of the amount necessary to fund the remaining unfunded liability of the taxpayer for the black lung claims filed or expected to be filed by past or present employees of the taxpayer or the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year for provision limiting the allowable deduction to the amount necessary, when added to the fair market value of trust assets at the beginning of the taxable year, to fund thegreater of current year obligations or certain future obligations.
+1978—Subsec. (b). Pub. L. 95–488, §1(a), substituted provision limiting the allowable deduction to the greater of the amount necessary to fund the remaining unfunded liability of the taxpayer for the black lung claims filed or expected to be filed by past or present employees of the taxpayer or the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year for provision limiting the allowable deduction to the amount necessary, when added to the fair market value of trust assets at the beginning of the taxable year, to fund the greater of current year obligations or certain future obligations.
 
 Subsec. (c)(1). Pub. L. 95–488, §1(b), substituted “Method of determining amounts referred to in subsection (b)” for “Determination of expected future payments” in heading and in text inserted provisions establishing the funding period as the greater of the average remaining working life of miners who are present employees of the taxpayer or 10 taxable years and permitting a different funding period if prescribed or consented to by the Secretary.
 
@@ -88,7 +88,7 @@ Section 1940(d) of Pub. L. 102–486 provided that: “The amendments made by th
 
 #### Effective Date of 1980 Amendment
 
-Section 108(b)(4) of Pub. L. 96–222 provided that: “Any amendment made by this subsection \[amending this section, sections 6503, 6511, 6862, 7422, and 7454 of this title, and sections 934 and 934a of Title 30, Mineral Lands and Mining\] shall take effect as if included in the provision of the Black Lung Benefits Revenue Act of 1977 \[see Short Title of 1978 Amendments note set out under section 1 of this title\] to which such amendment relates.”
+Section 108(b)(4) of Pub. L. 96–222 provided that: “Any amendment made by this subsection \[amending this section, sections 6503, 6511, 6862, 7422, and 7454 of this title, and sections 934 and 934a of Title 30, Mineral Lands and Mining\] shall take effect as if included inthe provision of the Black Lung Benefits Revenue Act of 1977 \[see Short Title of 1978 Amendments note set out under section 1 of this title\] to which such amendment relates.”
 
 #### Effective Date of 1978 Amendment
 

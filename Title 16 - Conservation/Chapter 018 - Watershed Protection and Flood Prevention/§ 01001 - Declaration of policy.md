@@ -10,7 +10,7 @@ Erosion, floodwater, and sediment damages in the watersheds of the rivers and st
 
 #### Short Title
 
-Section 11 of act Aug. 4, 1954, as renumbered by act Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1088, provided that: “This Act \[enacting this chapter, amending section 701b of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section and section 701b of Title 33\] may be cited as the ‘Watershed Protection and Flood Prevention Act’.”
+Section 11 of act Aug. 4, 1954, as renumbered by act Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1088, provided that: “This Act \[enacting this chapter, amending section 701b of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this sectionand section 701b of Title 33\] may be cited as the ‘Watershed Protection and Flood Prevention Act’.”
 
 #### Watershed Protection and Flood Prevention Projects Exempt From Requirements for Independent Water Project Review
 

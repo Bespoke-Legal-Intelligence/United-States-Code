@@ -12,11 +12,11 @@
 
 (2) Nothing in this subchapter shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designated successor of a franchisee upon the death of the franchisee.
 
-(Pub. L. 95 297, title I, §106, June 19, 1978, 92 Stat. 332; Pub. L. 103 371, §5, Oct. 19, 1994, 108 Stat. 3485.)
+(Pub. L. 95–297, title I, §106, June 19, 1978, 92 Stat. 332; Pub. L. 103–371, §5, Oct. 19, 1994, 108 Stat. 3485.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103 371, §5(1), redesignated existing provisions as par. (1) and added par. (2).
+1994—Subsec. (a). Pub. L. 103–371, §5(1), redesignated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 103 371, §5(2), redesignated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 103–371, §5(2), redesignated existing provisions as par. (1) and added par. (2).
 

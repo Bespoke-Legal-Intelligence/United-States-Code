@@ -1,6 +1,6 @@
 ### §3821. Program ineligibility
 
-(a) Except as provided in section 3822 of this title and notwithstanding any other provision of law, following December 23, 1985, any person whoin any crop year produces an agricultural commodity on converted wetland shall be ineligible for—
+(a) Except as provided in section 3822 of this title and notwithstanding any other provision of law, following December 23, 1985, any person who in any crop year produces an agricultural commodity on converted wetland shall be ineligible for—
 
 &emsp;(1) as to any commodity produced during that crop year by such person—
 

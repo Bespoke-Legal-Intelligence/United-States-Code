@@ -38,7 +38,7 @@ Section 4 of Pub. L. 91–366 provided that: “This Act \[amending this section
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–354 provided that: “The amendments made by this Act \[amending this section\]shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\].”
+Section 2 of Pub. L. 87–354 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\].”
 
 #### Separability
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) a foreign government, or
 
-&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territory or political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
+&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territoryor political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
 
 > &emsp;including any real property of such a mission and including the personnel of such a mission;
 

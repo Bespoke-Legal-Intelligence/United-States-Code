@@ -1,4 +1,4 @@
-### §7313 . Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work
+### §7313. Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work
 
 (a)
 

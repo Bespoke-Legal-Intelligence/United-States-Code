@@ -32,11 +32,11 @@
 
 (3) In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
-(4) In any case in which the period, or the time described in paragraph (3), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to determine the amount to be deducted and withheld under the tables applicable in the case of a weekly payroll period, in which case the aggregate of the wages paid to the employee during the calendar week shall be considered the weekly wages.
+(4) In any case in which the period, or the time described in paragraph (3), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to determine the amount to be deducted and withheld under the tables applicable in the case of a weekly payroll period, in which case the aggregate of the wages paid tothe employee during the calendar week shall be considered the weekly wages.
 
 (5) If the wages exceed the highest wage bracket, in determining the amount to be deducted and withheld under this subsection, the wages may, at the election of the employer, be computed to the nearest dollar.
 
-(6) In the case of wages paid after December 31, 1969, the amount deducted and withheld underparagraph (1) shall be determined in accordance with tables prescribed by the Secretary. In the tables so prescribed, the amounts set forth as amounts of wages and amounts of income tax to be deducted and withheld shall be computed on the basis of the table for an annual payroll period prescribed pursuant to subsection (a).
+(6) In the case of wages paid after December 31, 1969, the amount deducted and withheld under paragraph (1) shall be determined in accordance with tables prescribed by the Secretary. In the tables so prescribed, the amounts set forth as amounts of wages and amounts of income tax to be deducted and withheld shall be computed on the basis of the table for an annual payroll period prescribed pursuant to subsection (a).
 
 #### (d) Tax paid by recipient
 
@@ -82,7 +82,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (A) First certificate furnished
 
-&emsp;&emsp;A withholding exemption certificate furnished the employer in cases in which no previous such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
+&emsp;&emsp;A withholding exemption certificate furnished the employer in cases in which noprevious such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
 
 #### (B) Furnished to take place of existing certificate
 
@@ -204,7 +204,7 @@ In the case of tips which constitute wages, subsection (a) shall be applicable o
 
 &emsp;&emsp;(A) as not married, if (i) he is legally separated from his spouse under a decree of divorce or separate maintenance, or (ii) either he or his spouse is, or on any preceding day within the calendar year was, a nonresident alien; or
 
-&emsp;&emsp;(B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxable year and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year,to be a surviving spouse (as defined in section 2(a)).
+&emsp;&emsp;(B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxableyear and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).
 
 #### (m) Withholding allowances
 

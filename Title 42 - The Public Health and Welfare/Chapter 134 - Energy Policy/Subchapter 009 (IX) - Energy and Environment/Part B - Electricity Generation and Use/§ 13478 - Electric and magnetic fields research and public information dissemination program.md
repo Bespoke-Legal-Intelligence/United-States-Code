@@ -148,7 +148,7 @@ Peer review panels.—Before a proposal to conduct activities under the program 
 
 #### (h) Conflicts of interest
 
-The Secretary and the Director shall include conflict of interest provisions in any grant orother funding provided, or contract entered into, under the research program established under this section including provisions—
+The Secretary and the Director shall include conflict of interest provisions in any grant or other funding provided, or contract entered into, under the research program established under this section including provisions—
 
 &emsp;(1) that require any person conducting a project under such program to disclose any other source of funding received by the person to conduct other related projects, including funding received from consulting on issues relating to electric and magnetic fields; and
 

@@ -2,5 +2,5 @@
 
 Regardless of any change in circumstances subsequent to October 28, 1992, even if such change makes it appear to be in the national interest to commercialize weather satellites, neither the President nor any official shall take any action prohibited by section 5671 of this title unless this subchapter has first been repealed.
 
-(Pub. L. 102 555, title VI, §602, Oct. 28, 1992, 106 Stat. 4180.)
+(Pub. L. 102–555, title VI, §602, Oct. 28, 1992, 106 Stat. 4180.)
 

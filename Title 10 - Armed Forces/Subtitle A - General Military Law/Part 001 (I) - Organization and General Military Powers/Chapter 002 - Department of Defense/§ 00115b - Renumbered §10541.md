@@ -1,2 +1,2 @@
-### \[§115b . Renumbered §10541\]
+### \[§115b. Renumbered §10541\]
 

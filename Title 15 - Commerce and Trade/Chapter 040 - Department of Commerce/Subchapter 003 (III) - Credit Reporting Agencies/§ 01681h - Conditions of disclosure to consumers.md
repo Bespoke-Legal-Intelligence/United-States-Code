@@ -24,5 +24,5 @@ The consumer shall be permitted to be accompanied by one other person of his cho
 
 Except as provided in sections 1681n and 1681<i>o</i> of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, except as to false information furnished with malice or willful intent to injure such consumer.
 
-(Pub. L. 90 321, title VI, §610, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131.)
+(Pub. L. 90–321, title VI, §610, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131.)
 

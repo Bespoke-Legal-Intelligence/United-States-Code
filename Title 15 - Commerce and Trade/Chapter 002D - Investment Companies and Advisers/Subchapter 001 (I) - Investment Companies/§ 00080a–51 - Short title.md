@@ -4,6 +4,10 @@ This subchapter may be cited as the “Investment Company Act of 1940”.
 
 (Aug. 22, 1940, ch. 686, title I, §52, 54 Stat. 847.)
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–62, §1(a), Dec. 8, 1995, 109 Stat. 682, provided that: “This Act \[enacting section 80a–3a of this title, amending sections 77c, 78c, 78<i>l</i>, 80a–3, 80a–7, and 80b–3 of this title, and enacting provisions set out as a note under section 77c of this title\] may be cited as the ‘Philanthropy Protection Act of 1995’.”
+
 #### Short Title of 1980 Amendment
 
 Pub. L. 96–477, §1, Oct. 21, 1980, 94 Stat. 2275, provided that: “That this Act \[enacting sections 80a–53 to 80a–64 and 80c to 80c–3 of this title, amending sections 77b, 77c, 77d, 77s, 77ddd, 78c, 78kk, 80a–2, 80a–3, 80a–6, 80a–46, 80b–2, 80b–3, and 80b–5 of this title, and enacting provisions set out as notes under sections 77a and 80c of this title\] may be cited as the ‘Small Business Investment Incentive Act of 1980’.”

@@ -20,13 +20,13 @@ Section is also set out in D.C. Code, §9–114.
 
 #### Amendments
 
-1967—Pub. L. 90–108 struck out provisions setting a blanket punishment of not exceeding $100 or imprisonment not exceeding 60 days for offenses against sections 193b to 193g of this title, with prosecution for such offenses to be had in the District of Columbia Court of General Sessions upon information by the United States Attorney or any of his assistants and raising the imprisonment to not more than five years in cases where public property is damaged in an amount exceeding $100 and inserted provisions dividing the offenses into felonies and misdemeanors with different punishments for each and setting out the procedures to be followed in the prosecution for such felonies or misdemeanors, including provisions when the conduct involved violates both the general laws of the United States and the District of Columbia in addition to sections 193a to 193m, 212a, 212a–2, and 212b, of this title.
+1967—Pub. L. 90–108 struck out provisions setting a blanket punishment of not exceeding $100 or imprisonment not exceeding 60 days for offenses against sections 193b to 193g of this title, with prosecution for such offenses to be had in the District of Columbia Court of General Sessions upon information by the United States Attorney or any of his assistants and raising the imprisonment to not more than five years in cases where public property is damaged in an amount exceeding $100 and inserted provisions dividing the offensesinto felonies and misdemeanors with different punishments for each and setting out the procedures to be followed in the prosecution for such felonies or misdemeanors, including provisions when the conduct involved violates both the general laws of the United States and the District of Columbia in addition to sections 193a to 193m, 212a, 212a–2, and 212b, of this title.
 
 #### Change of Name
 
 “District of Columbia Court of General Sessions” was changed to “Superior Court of the District of Columbia” pursuant to Pub. L. 91–358, which provides that such change is effective the first day of the seventh calendar month which begins after July 29, 1970.
 
-“District of Columbia Court of General Sessions” was the designation given to the “Municipal Court for the District of Columbia” by Pub. L. 88–60, §§1, 7, July 8,1963, 77 Stat. 77, 78, which provided that, eff. Jan. 1, 1963, whenever reference is made in any Act of Congress to the “Municipal Court for the District of Columbia”, such reference shall be held to be a reference to the “District of Columbia Court of General Sessions.”
+“District of Columbia Court of General Sessions” was the designation given to the “Municipal Court for the District of Columbia” by Pub. L. 88–60, §§1, 7, July 8, 1963, 77 Stat. 77, 78, which provided that, eff. Jan. 1, 1963, whenever reference is made in any Act of Congress to the “Municipal Court for the District of Columbia”, such reference shall be held to be a reference to the “District of Columbia Court of General Sessions.”
 
 #### Effective Date of 1967 Amendment
 

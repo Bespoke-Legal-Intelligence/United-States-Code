@@ -26,11 +26,11 @@ The Members of the Management Conference shall be comprised of—
 
 (1) The Management Conference shall, not later than one hundred and twenty days after November 16, 1990, appoint a Technical Advisory Committee.
 
-(2) Such Technical Advisory Committee shall consist of officials of: appropriate departments and agencies of the Federal Government; the State governments of New York and Vermont; and governments of political subdivisions of such States; and public and private research institutions.
+(2) Such Technical Advisory Committee shall consist of officials of: appropriate departmentsand agencies of the Federal Government; the State governments of New York and Vermont; and governments of political subdivisions of such States; and public and private research institutions.
 
 #### (d) Research program
 
-(1) <sup>1</sup> The Management Conference shall establish a multi-disciplinary environmental researchprogram for Lake Champlain. Such research program shall be planned and conducted jointly with the Lake Champlain Research Consortium.
+(1) <sup>1</sup> The Management Conference shall establish a multi-disciplinary environmental research program for Lake Champlain. Such research program shall be planned and conducted jointly with the Lake Champlain Research Consortium.
 
 #### (e) Pollution prevention, control, and restoration plan
 

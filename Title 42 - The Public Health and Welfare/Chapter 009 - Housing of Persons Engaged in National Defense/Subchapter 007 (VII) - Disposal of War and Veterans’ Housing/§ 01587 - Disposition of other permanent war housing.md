@@ -30,7 +30,7 @@ Any housing disposed of in accordance with this section shall after such disposa
 
 #### (f) Terms of sales
 
-Sales pursuant to this section shall be upon such terms as the Secretary of Housing and Urban Development shall determine: <i>Provided,</i> That full payment to the Government for the property sold shall be required within a period not exceeding twenty-five years with interest on unpaid balances at not less than 4 per centum per annum, except that in the case of projects initially programmed as mutual housing communities under the defense housing program, the terms of sale shall not require a down payment and shall provide for full payment to the United States over a period of forty-five yearswith interest on unpaid balances at not more than 3 per centum per annum.
+Sales pursuant to this section shall be upon such terms as the Secretary of Housing and Urban Development shall determine: <i>Provided,</i> That full payment to the Government for the property sold shall be required within a period not exceeding twenty-five years with interest on unpaid balances at not less than 4 per centum per annum, except that in the case of projects initially programmed as mutual housing communities under the defense housing program, the terms of sale shall not require a down payment and shall provide for full payment to the United States over a period of forty-five years with interest on unpaid balances at not more than 3 per centum per annum.
 
 #### (g) Disregard of preferences in certain cases
 

@@ -14,7 +14,7 @@ Any addict or other person with a drug abuse or other drug dependence problem ad
 
 #### (d) Other rights unaffected
 
-Any addict or other person with a drug abuse or other drug dependence problem admitted for treatment under this section shall not thereby forfeit or abridge any of his rights as a citizen of the United States; nor shall such admission or treatment be used against him in any proceeding in any court; and the record of his voluntary commitment shall, except as otherwise provided by this chapter, be confidential and shall not be divulged.
+Any addict or other person with a drug abuse or other drug dependence problem admitted fortreatment under this section shall not thereby forfeit or abridge any of his rights as a citizen of the United States; nor shall such admission or treatment be used against him in any proceeding in any court; and the record of his voluntary commitment shall, except as otherwise provided by this chapter, be confidential and shall not be divulged.
 
 (July 1, 1944, ch. 373, title III, §344, 58 Stat. 701; June 25, 1948, ch. 654, §5, 62 Stat. 1018; July 24, 1956, ch. 676, title III, §302(b), 70 Stat. 622; Oct. 27, 1970, Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), 84 Stat. 1240.)
 

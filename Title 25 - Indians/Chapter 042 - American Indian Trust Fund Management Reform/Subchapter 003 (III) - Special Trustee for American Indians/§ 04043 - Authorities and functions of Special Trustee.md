@@ -54,7 +54,7 @@
 
 &emsp;The Special Trustee shall ensure that—
 
-&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals ManagementService related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
+&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals Management Service related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
 
 &emsp;&emsp;(B) the Department prepares comprehensive and coordinated written policies and procedures for each phase of the trust management business cycle.
 
@@ -126,7 +126,7 @@ Paragraph (3)(B), referred to in subsec. (c)(5)(D), probably should be a referen
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -144,7 +144,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (2) Certain dispositions
 
-&emsp;If during any taxable year there is a recapture amount determined with respect to anyproperty the basis of which was reduced under paragraph (1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (a).
+&emsp;If during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph (1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (a).
 
 #### (3) Special rule
 

@@ -72,7 +72,7 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(2)(C)(i), (ii), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(2)(C)(i), (ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 

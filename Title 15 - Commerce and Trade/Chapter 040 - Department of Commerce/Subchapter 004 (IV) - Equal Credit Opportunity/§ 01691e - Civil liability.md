@@ -6,7 +6,7 @@ Any creditor who fails to comply with any requirement imposed under this subchap
 
 #### (b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award
 
-Any creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a) of this section, except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net worth of the creditor. In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of thecreditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional.
+Any creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a) of this section, except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net worth of the creditor. In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional.
 
 #### (c) Action for equitable and declaratory relief
 
@@ -40,7 +40,7 @@ When a matter is referred to the Attorney General pursuant to subsection (g) of 
 
 #### (i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction
 
-No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612<sup>1</sup> of title 42, if such violation is based on the same transaction.
+No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
 
 #### (j) Discovery of creditor's granting standards
 
@@ -58,39 +58,39 @@ Whenever an agency referred to in paragraph (1), (2), or (3) of section 1691c(a)
 
 > the agency shall notify the Secretary of Housing and Urban Development of the violation, and shall notify the applicant that the Secretary of Housing and Urban Development has been notified of the alleged violation and that remedies for the violation may be available under the Fair Housing Act.
 
-(Pub. L. 90 321, title VII, §706, as added Pub. L. 93 495, title V, §503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94 239, §6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102 242, title II, §223(a) (c), Dec. 19, 1991, 105 Stat. 2306.)
+(Pub. L. 90–321, title VII, §706, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, §6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, §223(a)–(c), Dec. 19, 1991, 105 Stat. 2306.)
 
 #### References in Text
 
-Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act\(42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100 430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
+Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
 
-The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90 284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
 
-1991—Subsec. (g). Pub. L. 102 242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
+1991—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
 
-Subsec. (h). Pub. L. 102 242, §223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
+Subsec. (h). Pub. L. 102–242, §223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
 
-Subsec. (k). Pub. L. 102 242, §223(c), added subsec. (k).
+Subsec. (k). Pub. L. 102–242, §223(c), added subsec. (k).
 
-1976—Subsec. (a). Pub. L. 94 239 substituted reference to member for reference to representative.
+1976—Subsec. (a). Pub. L. 94–239 substituted reference to member for reference to representative.
 
-Subsec. (b). Pub. L. 94 239 inserted provisions exempting government or governmental subdivision or agency from requirements of this subchapter, incorporated provisions contained in former subsec. (c) relating to recovery in class actions and, as incorporated, raised the total amount of recovery under a class action from $100,000 to $500,000.
+Subsec. (b). Pub. L. 94–239 inserted provisions exempting government or governmental subdivision or agency from requirements of this subchapter, incorporated provisions contained in former subsec. (c) relating to recovery in class actions and, as incorporated, raised the total amount of recovery under a class action from $100,000 to $500,000.
 
-Subsec. (c). Pub. L. 94 239 redesignated subsec. (d) as (c) and specified United States district court or other court of competent jurisdiction as court in which to bring action, and substituted provisions authorizing such court to grant equitable and declaratory relief, for provisions authorizing civil actions for preventive relief. Provisions of former subsec. (c) were incorporated into present subsec. (b) and amended.
+Subsec. (c). Pub. L. 94–239 redesignated subsec. (d) as (c) and specified United States district court or other court of competent jurisdiction as court in which to bring action, and substituted provisions authorizing such court to grant equitable and declaratory relief, for provisions authorizing civil actions for preventive relief. Provisions of former subsec. (c) were incorporated into present subsec. (b) and amended.
 
-Subsec. (d). Pub. L. 94 239 redesignated subsec. (e) as (d) and made minor changes in phraseology. Former subsec. (d) redesignated (c) and amended.
+Subsec. (d). Pub. L. 94–239 redesignated subsec. (e) as (d) and made minor changes in phraseology. Former subsec. (d) redesignated (c) and amended.
 
-Subsec. (e). Pub. L. 94 239 redesignated subsec. (f) as (e) and inserted reference to officially promulgated rule, regulation, or interpretation and provisions relating to approval and interpretations by an official or employee of the Federal Reserve System duly authorized by the Board. Former subsec. (e) redesignated (d) and amended.
+Subsec. (e). Pub. L. 94–239 redesignated subsec. (f) as (e) and inserted reference to officially promulgated rule, regulation, or interpretation and provisions relating to approval and interpretations by an official or employee of the Federal Reserve System duly authorized by the Board. Former subsec. (e) redesignated (d) and amended.
 
-Subsec. (f). Pub. L. 94 239 redesignated subsec. (g) as (f) and inserted provisions which substituted a two year limitation for one year limitation and provisions extending time in which to bring action under enumerated conditions. Former subsec. (f) redesignated (e) and amended.
+Subsec. (f). Pub. L. 94–239 redesignated subsec. (g) as (f) and inserted provisions which substituted a two year limitation for one year limitation and provisions extending time in which to bring action under enumerated conditions. Former subsec. (f) redesignated (e) and amended.
 
-Subsecs. (g) to (j). Pub. L. 94 239 added subsecs. (g) to (j). Former subsec. (g) redesignated (f) and amended.
+Subsecs. (g) to (j). Pub. L. 94–239 added subsecs. (g) to (j). Former subsec. (g) redesignated (f) and amended.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94 239 effective Mar. 23, 1976, see section 708 of Pub. L. 90 321, set out as an Effective Date note under section 1691 of this title.
+Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,15 +14,23 @@ The Secretary shall conduct a program of educational and technical assistance to
 
 #### (c) Report
 
-Not later than 2 years after October 24, 1992, and biennially thereafter, the Secretary shall report to the Congress on activities conducted pursuant to this section, including—
+Not later than 2 years after October 24, 1995, and biennially thereafter, as part of the report required under section 6349(d) of this title, the Secretary shall report to the Congress on activities conducted pursuant to this section, including—
 
 &emsp;(1) a review of the status of industrial energy auditing procedures; and
 
 &emsp;(2) an evaluation of the effectiveness of the guidelines established under subsection (a) of this section and the responsiveness of the industrial sector to such guidelines.
 
-(Pub. L. 102–486, title I, §133, Oct. 24, 1992, 106 Stat. 2840.)
+(Pub. L. 102–486, title I, §133, Oct. 24, 1992, 106 Stat. 2840; Pub. L. 104–66, title I, §1052(a)(2), Dec. 21, 1995, 109 Stat. 717.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+
+#### Amendments
+
+1995—Subsec. (c). Pub. L. 104–66 in introductory provisions substituted “1995” for “1992”, and inserted “as part of the report required under section 6349(d) of this title,” after “and biennially thereafter,”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6349 of this title.
 

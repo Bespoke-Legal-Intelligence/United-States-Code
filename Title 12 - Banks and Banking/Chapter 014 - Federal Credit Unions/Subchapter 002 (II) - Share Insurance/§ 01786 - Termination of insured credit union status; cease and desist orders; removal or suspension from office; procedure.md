@@ -18,7 +18,7 @@ In the event of the termination of a credit union's status as an insured credit 
 
 #### (d) Continuation of insurance for one year; approval of conversion of status; procedure subsequent to approval; reduction of premium charges
 
-(1) After the termination of the insured status of any credit union as provided under subsection (a)(1) or (b) of this section, insurance of its member accounts to the extent that they were insured on the effective date of such termination, less any amounts thereafter withdrawn which reduce the accounts below the amount covered by insurance on the effective date of such termination, shall continue for a period of one year, but no shares issued by the credit union or deposits made after the date of such termination shall be insured by the Board. The credit union shall continue to maintain its deposit with and pay premiums to the Board during such period as in the case of an insured credit union and the Board shall have the right to examine such credit union from time to timeduring the period during which such insurance continues. Such credit union shall, in all other respects, be subject to the duties and obligations of an insured credit union for the period of one year from the date of such termination. In the event that such credit union shall be closed for liquidation within such period of one year, the Board shall have the same powers and rights with respect to such credit union as in the case of an insured credit union. Notwithstanding the above, when an insured credit union's insured status is terminated and the credit union subsequently obtains comparable insurance coverage from another source, insurance of its accounts by the fund may cease immediately upon the effective date of such comparable coverage by mutual consent of the credit union and the Board.
+(1) After the termination of the insured status of any credit union as provided under subsection (a)(1) or (b) of this section, insurance of its member accounts to the extent that they were insured on the effective date of such termination, less any amounts thereafter withdrawn which reduce the accounts below the amount covered by insurance on the effective date of such termination, shall continue for a period ofone year, but no shares issued by the credit union or deposits made after the date of such termination shall be insured by the Board. The credit union shall continue to maintain its deposit with and pay premiums to the Board during such period as in the case of an insured credit union and the Board shall have the right to examine such credit union from time to time during the period during which such insurance continues. Such credit union shall, in all other respects, be subject to the duties and obligations of an insured credit union for the period of one year from the date of such termination. In the event that such credit union shall be closed for liquidation within such period of one year, the Board shall have the same powers and rights with respect to such credit union as in the case of an insured credit union. Notwithstanding the above, when an insured credit union's insured status is terminated and the credit union subsequently obtains comparable insurance coverage from another source, insurance of its accounts by the fund may cease immediately upon the effective date of such comparable coverage by mutual consent of the credit union and the Board.
 
 (2) No credit union shall convert from status as an insured credit union under this chapter as provided under subsection (a)(2) of this section until the proposition for such conversion has been approved by a majority of all the directors of the credit union, and by affirmative vote of a majority of the members of the credit union who vote on the proposition in a vote in which at least 20 per centum of the total membership of the credit union participates. Following approval by the directors, written notice of the proposition and of the date set for the membership vote shall be delivered in person to each member, or mailed to each member at the address for such member appearing on the records of the credit union, not more than thirty nor less than seven days prior to such date. The membership shall be given the opportunity to vote by mail ballot. If the proposition is approved by the membership, prompt and reasonable notice of insurance conversion shall be given to all members.
 
@@ -260,9 +260,9 @@ Applicability.—This paragraph shall only apply to a person who is an individua
 
 &emsp;(E) there is concealment of books, papers, records, or assets of the credit union or refusal to submit books, papers, records, or affairs of the credit union for inspection to any examiner or to any lawful agent of the Board.
 
-(2)(A) In the case of a State-chartered insured credit union, the authority conferred by paragraph (1) shall not be exercised without the written approval of the State official having jurisdiction over the State-chartered credit union that the grounds specified for such exercise exist.
+(2)(A) In the case of a State-chartered insured credit union, the authority conferred by paragraph (1) shall not be exercised without thewritten approval of the State official having jurisdiction over the State-chartered credit union that the grounds specified for such exercise exist.
 
-(B) If such approval has not been received by the Board within 30 days of receipt of notice by the State that the Board has determined such grounds exist, and the Board has responded in writing to the State's written reasons, if any, for withholding approval, then the Board mayproceed without State approval only by a unanimous vote of the Board.
+(B) If such approval has not been received by the Board within 30 days of receipt of notice by the State that the Board has determined such grounds exist, and the Board has responded in writing to the State's written reasons, if any, for withholding approval, then the Board may proceed without State approval only by a unanimous vote of the Board.
 
 (3) Not later than ten days after the date on which the Board takes possession and control of the business and assets of an insured credit union pursuant to paragraph (1), such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be enjoined from continuing such possession and control. Except as provided in this paragraph, no court may take any action, except at the request of the Board by regulation or order, to restrain or affect the exercise of powers or functions of the Board as conservator.
 
@@ -468,7 +468,7 @@ Referral.—If any insured credit union or other person fails to pay an assessme
 
 &emsp;&emsp;(ii)
 
-Appropriateness of penalty not reviewable.—In any civil action under clause (i), the validity and appropriateness of the penalty shall not be subject to review.
+Appropriateness of penalty not reviewable.—In any civil action under clause\(i), the validity and appropriateness of the penalty shall not be subject to review.
 
 &emsp;(J)
 
@@ -476,7 +476,7 @@ Disbursement.—All penalties collected under authority of this paragraph shall 
 
 &emsp;(K)
 
-“Violate” defined.—For purposes of this section, the term “violate” includes any action (alone or with another or others) for ortoward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+“Violate” defined.—For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 &emsp;(L)
 
@@ -510,7 +510,7 @@ In connection with any proceeding under subsection (e), (f)(1), or (g) of this s
 
 #### (p) Proceedings; powers of Board; court enforcement of subpenas; witness fees; expenses and attorneys’ fees
 
-In the course of or in connection with any proceeding under this section or in connection with any claim for insured deposits or any examination or investigation under section 1784(b) of this title, the Board, in conducting the proceeding, examination, or investigation or considering the claim for insured deposits,,<sup>4</sup> or any designated representative thereof, including any person designated to conduct any hearing under this section, shall have the power to administer oaths and affirmations, to take or cause to be taken depositions, and to issue, revoke, quash, or modify subpenas and subpenas duces tecum, and the Board is empowered to make rules and regulations with respect to any such proceedings, claims, examinations, or investigations. The attendance of witnesses and the production of documents provided for in this subsection may be required from any place in any State or in any territory or other place subject to the jurisdiction of the United States at any designated place where such proceeding is being conducted. Any party to proceedings under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena or subpena duces tecum issued pursuant to this subsection, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceedings instituted under this section by an insured credit union or a director, officer, orcommittee member thereof may allow to any such party such reasonable expenses and attorneys’ fees as it deems just and proper, and such expenses and fees shall be paid by the credit union or from its assets.
+In the course of or in connection with any proceeding under this section or in connection with any claim for insured deposits or any examination or investigation under section 1784(b) of this title, the Board, in conducting the proceeding, examination, or investigation or considering the claim for insured deposits,,<sup>4</sup> or any designated representative thereof, including any person designated to conduct any hearing under this section, shall have the power to administer oaths and affirmations, to take or cause to be taken depositions, and to issue, revoke, quash, or modify subpenas and subpenas duces tecum, and the Board is empowered to make rules and regulations with respect to any such proceedings, claims, examinations, or investigations. The attendance of witnesses and the production of documents provided for in this subsection may be required from any place in any State or in any territory or other place subject to the jurisdiction of the United States at any designated place where such proceeding is being conducted. Any party to proceedings under this section may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena or subpena duces tecum issued pursuant to this subsection,and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceedings instituted under this section by an insured credit union or a director, officer, or committee member thereof may allow to any such party such reasonable expenses and attorneys’ fees as it deems just and proper, and such expenses and fees shall be paid by the credit union or from its assets.
 
 #### (q) Compliance with monetary transaction recordkeeping and report requirements
 
@@ -680,7 +680,7 @@ For purposes of this chapter, the term “institution-affiliated party” means�
 
 #### (A) Indemnification payment
 
-&emsp;&emsp;Subject to paragraph (6), the term “indemnification payment” means any payment (or any agreement to make any payment) by any credit union for the benefit of any person who is or was an institution-affiliated party, to pay or reimburse such person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Board which results in a final order under which such person—
+&emsp;&emsp;Subject to paragraph (6), the term “indemnification payment” means any payment (orany agreement to make any payment) by any credit union for the benefit of any person who is or was an institution-affiliated party, to pay or reimburse such person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Board which results in a final order under which such person—
 
 &emsp;&emsp;&emsp;(i) is assessed a civil money penalty;
 
@@ -766,7 +766,7 @@ For purposes of this chapter, the term “institution-affiliated party” means�
 
 #### (B) Conviction of title 31 offenses
 
-&emsp;&emsp;If a credit union is convicted of any criminal offense under section 5322 or 5324 of title31 after prior written notification from the Attorney General, the Board may initiate proceedings to terminate the insured status of such credit union in the manner described in subparagraph (A).
+&emsp;&emsp;If a credit union is convicted of any criminal offense under section 5322 or 5324 of title 31 after prior written notification from the Attorney General, the Board may initiate proceedings to terminate the insured status of such credit union in the manner described in subparagraph (A).
 
 #### (C) Notice to State supervisor
 
@@ -824,7 +824,7 @@ Subsec. (i)(1). Pub. L. 102–550, §1504(b)(2), amended par. (1) generally, sub
 
 Subsec. (v). Pub. L. 102–550, §1503(b), added subsec. (v).
 
-1990—Subsec. (j)(1). Pub. L. 101–647, §2547(b)(2), which directed amendment of par. (1) by striking out after first sentence “Such hearing shall be private, unlessthe Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” was executed by striking out “Such hearing shall be private unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” as the probable intent of Congress.
+1990—Subsec. (j)(1). Pub. L. 101–647, §2547(b)(2), which directed amendment of par. (1) by striking out after first sentence “Such hearing shall be private, unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” was executed by striking out “Such hearing shall be private unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” as the probable intent of Congress.
 
 Subsec. (s). Pub. L. 101–647, §2547(b)(1), amended subsec. (s) generally. Prior to amendment, subsec. (s) read as follows:
 
@@ -886,7 +886,7 @@ Subsec. (j)(2). Pub. L. 101–73, §920(b), substituted “Any party to any proc
 
 Pub. L. 101–73, §901(b)(2)(F), substituted “institution-affiliated party” for “director, officer, committee member, or other person”.
 
-Subsec. (k)(2). Pub. L. 101–73, §907(b), in amending par. (2) generally, designated existing provisions as cls. (i) to (iv), substituted provisions imposing a fine of$5,000 per day for violation of any law or regulation, a final or temporary order, any condition imposed in writing, or any written agreement for provisions imposing a fine of $1,000 per day for violation of any final order, authorizing the penalizing agency to compromise or modify such penalty, providing for assessment and collection of such penalty by written notice, and defining “violates”, and added subpars. (B) to (L).
+Subsec. (k)(2). Pub. L. 101–73, §907(b), in amending par. (2) generally, designated existing provisions as cls. (i) to (iv), substituted provisions imposing a fine of $5,000 per day for violation of any law or regulation, a final or temporary order, any condition imposed in writing, or any written agreement for provisions imposing a fine of $1,000 per day for violation of any final order, authorizing the penalizing agency to compromise or modify such penalty, providing for assessment and collection of such penalty by written notice, and defining “violates”, and added subpars. (B) to (L).
 
 Subsec. (k)(3). Pub. L. 101–73, §905(b), added par. (3).
 
@@ -946,7 +946,7 @@ Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the
 
 Pub. L. 97–320, §427(c)(2), which directed substitution of reference to subsec. (g)(5) for subsec. (g)(3) in subsec. (k), was executed to subsec. (<i>l</i>) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (<i>l</i>) by section 132(a)(1) of Pub. L. 97–320.
 
-Subsec. (m). Pub. L. 97–320, §132(a)(1), (f), redesignated former subsec. (<i>l</i>) as (m) and substituted “subjection (j)” for “subsection (i)” after “paragraph (2) of”and “subsection (i)” for “subsection (h)” after “an order issued under”. Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 97–320, §132(a)(1), (f), redesignated former subsec. (<i>l</i>) as (m) and substituted “subjection (j)” for “subsection (i)” after “paragraph (2) of” and “subsection (i)” for “subsection (h)” after “an order issued under”. Former subsec. (m) redesignated (n).
 
 Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
@@ -1008,7 +1008,7 @@ The regulations required to be prescribed under amendment by Pub. L. 99–570 ef
 
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
 
-No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title,as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
+No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
 Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 

@@ -1,6 +1,6 @@
 ### §5122. Cancellation of checks mailed to deceased payees
 
-A check received by a payee in payment of accrued benefits shall, if the payee died on or after the last day of the period covered by the check, be returned to the issuing office and canceled, unless negotiated by the payee or the duly appointed representative of the payee's estate. The amount represented by such check, or any amount recovered by reason of improper negotiation of any such check, shall be payable in the manner provided in section 5121 of this title,without regard to section 5121(c) of this title. Any amount not paid in the manner provided in section 5121 of this title shall be paid upon settlement by the General Accounting Office to the estate of the deceased payee unless the estate will escheat.
+A check received by a payee in payment of accrued benefits shall, if the payee died on or after the last day of the period covered by the check, be returned to the issuing office and canceled, unless negotiated by the payee or the duly appointed representative of the payee's estate. The amount represented by such check, or any amount recovered by reason of improper negotiation of any such check, shall be payable in the manner provided in section 5121 of this title, without regard to section 5121(c) of this title. Any amount not paid in the manner provided in section 5121 of this title shall be paid upon settlement by the General Accounting Office to the estate of the deceased payee unless the estate will escheat.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1229, §3022; Pub. L. 99–576, title VII, §701(67), Oct. 28, 1986, 100 Stat. 3296; renumbered §5122 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
@@ -9,6 +9,10 @@ A check received by a payee in payment of accrued benefits shall, if the payee d
 1991—Pub. L. 102–40 renumbered section 3022 of this title as this section and substituted “5121” for “3021” in two places and “5121(c)” for “3021(c)”.
 
 1986—Pub. L. 99–576 substituted “the payee's” for “his” in first sentence.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

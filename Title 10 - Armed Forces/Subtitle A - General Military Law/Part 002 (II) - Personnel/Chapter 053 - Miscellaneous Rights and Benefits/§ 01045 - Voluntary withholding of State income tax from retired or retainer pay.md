@@ -16,7 +16,7 @@
 
 &emsp;(1) The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-&emsp;(2) The term “Secretary concerned” includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissionedcorps of the National Oceanic and Atmospheric Administration.
+&emsp;(2) The term “Secretary concerned” includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
 
 (Added Pub. L. 98–525, title VI, §654(a), Oct. 19, 1984, 98 Stat. 2551; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284.)
 

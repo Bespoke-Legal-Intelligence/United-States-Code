@@ -20,5 +20,5 @@ Not less than 10 percent of the funds made available to a grantee under this par
 
 &emsp;(2) the acquisition of computer software and complementary explanatory material for use by library patrons.
 
-(June 19, 1956, ch. 407, title VIII, §803, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 108.)
+(June 19, 1956, ch. 407, title VIII, §803, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 108.)
 

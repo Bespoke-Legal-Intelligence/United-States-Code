@@ -2,7 +2,7 @@
 
 (a)
 
-Ordering Authority.—In time of war or when war is imminent, the President, through the head of any department, may order from anyperson or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
+Ordering Authority.—In time of war or when war is imminent, the President, through the head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
 
 (b)
 
@@ -34,7 +34,7 @@ Criminal Penalty.—Whoever fails to comply with this section shall be imprisone
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in sections 4501 and 9501 of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
+Provisions similar to those in this section were contained in sections 4501 and 9501 of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
 
 #### Amendments
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(iii) Any other factor that the Under Secretary for Health considers appropriate.
 
-(d) Based on the information compiled and the comparisons, analyses, evaluations, and explanations made under subsections (b) and (c), the Under Secretary for Health, in the report undersubsection (f),<sup>1</sup> shall make such recommendations with respect to quality assurance as the Under Secretary for Health considers appropriate.
+(d) Based on the information compiled and the comparisons, analyses, evaluations, and explanations made under subsections (b) and (c), the Under Secretary for Health, in the report under subsection (f),<sup>1</sup> shall make such recommendations with respect to quality assurance as the Under Secretary for Health considers appropriate.
 
 (e)(1) The Secretary shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Administration to carry out its responsibilities under this section.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to and enter into contracts with public or nonprofit private schools of medicine and osteopathic medicine and other public or nonprofit private entities to meet the costs of projects to plan, develop, and operate or maintain programs—
+The Secretary may make grants to and enter into contracts with public or nonprofit privateschools of medicine and osteopathic medicine and other public or nonprofit private entities to meet the costs of projects to plan, develop, and operate or maintain programs—
 
 &emsp;(1) for the training of physician assistants (as defined in section 295p of this title); and
 

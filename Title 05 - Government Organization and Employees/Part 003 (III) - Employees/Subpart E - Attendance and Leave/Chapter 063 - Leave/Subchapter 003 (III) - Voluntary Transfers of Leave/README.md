@@ -8,8 +8,6 @@
 
 This subchapter is referred to in sections 6307, 6373 of this title; title 20 section 904; title 22 section 3968; title 38 section 7423.
 
-<i><sup>1</sup></i><i> Another section 6327 is set out preceding this section.</i>
-
 
 ---
 

@@ -16,7 +16,7 @@ Interpretative activities and interpretative facilities for the park (including 
 
 #### (d) Employees and contracts
 
-In addition to the Secretary's authority to employ persons to carry out provisions of this subchapter in accordance with the civil service laws, and notwithstanding any other provision of law, the Secretary is authorized to—
+In addition to the Secretary's authority to employ persons to carry out provisions of thissubchapter in accordance with the civil service laws, and notwithstanding any other provision of law, the Secretary is authorized to—
 
 &emsp;(1) hire employees for such purposes who shall not be subject to the civil service laws, including quotas, and
 

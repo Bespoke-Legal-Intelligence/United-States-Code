@@ -20,11 +20,11 @@ The management of a horse show, horse exhibition, or horse sale or auction shall
 
 For purposes of enforcement of this chapter (including any regulation promulgated under this chapter) the Secretary, or any representative of the Secretary duly designated by the Secretary, may inspect any horse show, horse exhibition, or horse sale or auction or any horse at any such show, exhibition, sale, or auction. Such an inspection may only be made upon presenting appropriate credentials. Each such inspection shall be commenced and completed with reasonable promptness and shall be conducted within reasonable limits and in a reasonable manner. An inspection under this subsection shall extend to all things (including records) bearing on whether the requirements of this chapter have been complied with.
 
-(Pub. L. 91 540, §4, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94 360, §5, July 13, 1976, 90 Stat. 916.)
+(Pub. L. 91–540, §4, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, §5, July 13, 1976, 90 Stat. 916.)
 
 #### Amendments
 
-1976—Pub. L. 94 360 substituted provisions relating to the inspection and disqualification of horses participating in horse shows and exhibitions, the issuance of regulations by the Secretary, and the maintenance of records by horse show management, for provisions prohibiting as constituting unlawful acts the exhibition of sored horses, the transportation in commerce for purposes of exhibition of any horse that had been sored, and the conducting of any show or exhibition in which sored horses appear. Provisions now covering such unlawful acts are set out as section 1824 of this title.
+1976—Pub. L. 94–360 substituted provisions relating to the inspection and disqualification of horses participating in horse shows and exhibitions, the issuance of regulations by the Secretary, and the maintenance of records by horse show management, for provisions prohibiting as constituting unlawful acts the exhibition of sored horses, the transportation in commerce for purposes of exhibition of any horse that had been sored, and the conducting of any show or exhibition in which sored horses appear. Provisions now covering such unlawful acts are set out as section 1824 of this title.
 
 #### Section Referred to in Other Sections
 

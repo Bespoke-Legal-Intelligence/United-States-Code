@@ -2,7 +2,7 @@
 
 #### (a) Central community facilities for safe water; elimination or control of pollution
 
-The Administrator is authorized to enter into agreements with the State of Alaska to carry out one or more projects to demonstrate methods to provide for central community facilities for safe water and eliminate or control of pollution in those native villages of Alaska without such facilities. Such project shall include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewage disposal facilities, and other similar facilities, and educational and informational facilities and programs relating to health and hygiene. Such demonstration projects shall be for the furtherpurpose of developing preliminary plans for providing such safe water and such elimination or control of pollution for all native villages in such State.
+The Administrator is authorized to enter into agreements with the State of Alaska to carry out one or more projects to demonstrate methods to provide for central community facilities for safe water and eliminate or control of pollution in those native villages of Alaska without such facilities. Such project shall include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewagedisposal facilities, and other similar facilities, and educational and informational facilities and programs relating to health and hygiene. Such demonstration projects shall be for the further purpose of developing preliminary plans for providing such safe water and such elimination or control of pollution for all native villages in such State.
 
 #### (b) Utilization of personnel and facilities of Department of Health and Human Services
 
@@ -46,7 +46,7 @@ Subsecs. (e) to (g). Pub. L. 95–217, §11(a), added subsecs. (e), (f), and (g)
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b), and “Secretary of the Department of Health and Human Services” substituted for “Secretary of the Department of Health, Education, and Welfare” in subsec. (e), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Funds under this section may be used to—
 
 &emsp;&emsp;(B) tutoring, mentoring, and other activities to improve academic achievement directly;
 
-&emsp;&emsp;(C) activities designed to increase the participation of minority and female studentsin entry level and advanced courses in mathematics and science;
+&emsp;&emsp;(C) activities designed to increase the participation of minority and female students in entry level and advanced courses in mathematics and science;
 
 &emsp;&emsp;(D) supplementary academic instruction;
 
@@ -102,7 +102,7 @@ Funds under this section may be used to—
 
 &emsp;&emsp;(D) activities that begin in the early grades and are designed to prevent drug and alcohol abuse and smoking among students and teachers;
 
-&emsp;&emsp;(E) collaborative activities with other agencies, businesses, and community groupsto discourage the advertisement and glorification of drugs and alcohol;
+&emsp;&emsp;(E) collaborative activities with other agencies, businesses, and community groups to discourage the advertisement and glorification of drugs and alcohol;
 
 &emsp;&emsp;(F) efforts to enhance health education and nutrition education; and
 
@@ -138,21 +138,21 @@ Funds under this section may be used to—
 
 The Secretary shall make an award only to urban eligible local educational agencies that—
 
-&emsp;(1) comply with the provisions of section 10966;<sup>1</sup> and
+&emsp;(1) comply with the provisions of section 10966; <sup>1</sup> and
 
-&emsp;(2) demonstrate to the satisfaction of the Secretary that the data submitted pursuant to section 8281<sup>2</sup> of this title shows progress toward meeting National Education Goals.
+&emsp;(2) demonstrate to the satisfaction of the Secretary that the data submitted pursuant to section 8281 <sup>2</sup> of this title shows progress toward meeting National Education Goals.
 
 #### (e) Administrative costs
 
 Not more than five percent of any award made under this subpart may be used for administrative costs.
 
-(Pub. L. 89 10, title X, §10963, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3849.)
+(Pub. L. 89–10, title X, §10963, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3849.)
 
 #### References in Text
 
-Section 10966, referred to in subsec. (d)(2), meaning section 10966 of Pub. L. 89 10, could not be translated because Pub. L. 89 10 does not contain a section 10966.
+Section 10966, referred to in subsec. (d)(2), meaning section 10966 of Pub. L. 89–10, could not be translated because Pub. L. 89–10 does not contain a section 10966.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>So in original. Section 8281 relates to findings, not to submission of data.</i>
+<i><sup>2</sup></i><i> So in original. Section 8281 relates to findings, not to submission of data.</i>
 

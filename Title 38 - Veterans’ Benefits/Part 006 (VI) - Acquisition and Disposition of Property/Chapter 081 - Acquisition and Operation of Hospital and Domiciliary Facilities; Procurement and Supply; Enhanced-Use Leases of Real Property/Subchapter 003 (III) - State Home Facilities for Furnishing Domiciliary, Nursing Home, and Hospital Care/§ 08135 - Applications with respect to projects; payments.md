@@ -34,7 +34,7 @@
 
 &emsp;(B) An application from a State that does not have a State home facility constructed or acquired with assistance under this subchapter (or for which such a grant has been made).
 
-&emsp;(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has agreater need for nursing home or domiciliary beds than other States from which applications are received.
+&emsp;(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds than other States from which applications are received.
 
 &emsp;(D) An application that meets such other criteria as the Secretary determines are appropriate and has established in regulations.
 
@@ -138,7 +138,7 @@ Subsec. (e). Pub. L. 95–62, §3(12), substituted “amendment of any applicati
 
 1976—Subsec. (a)(4). Pub. L. 94–581, §206(b), substituted “veterans” for “war veterans” in two places.
 
-Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted “the Administrator” for “he” in provisions preceding par. (1) and “veterans” for “war veterans” in par. (4).
+Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted “the Administrator” for “he” in provisionspreceding par. (1) and “veterans” for “war veterans” in par. (4).
 
 1973—Subsecs. (a)(1), (b)(2), (d). Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a National Study Commission, which shall make a full and complete investigation and study of all of the technological aspects of achieving, and all aspects of the total economic, social, and environmental effects of achieving or not achieving, the effluent limitations and goals set forth for 1983 in section 1311(b)(2) of this title.
+There is established a National Study Commission, which shall make a full and completeinvestigation and study of all of the technological aspects of achieving, and all aspects of the total economic, social, and environmental effects of achieving or not achieving, the effluent limitations and goals set forth for 1983 in section 1311(b)(2) of this title.
 
 #### (b) Membership; chairman
 
@@ -52,7 +52,7 @@ The General Schedule, referred to in subsec. (g), is set out under section 5332 
 
 Committee on Public Works of Senate abolished and replaced by Committee on Environment and Public Works of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Public Works of House of Representatives changed to Committee on Public Works and Transportation of House of Representatives, effective Jan. 3, 1975, by House Resolution No. 988, 93d Congress. Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works of House of Representatives changed to Committee on Public Works and Transportation of House of Representatives, effective Jan. 3, 1975, by House Resolution No. 988, 93d Congress. Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

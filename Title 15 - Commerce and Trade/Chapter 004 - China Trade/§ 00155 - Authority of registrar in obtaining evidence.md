@@ -1,4 +1,4 @@
-### §155 . Authority of registrar in obtaining evidence
+### §155. Authority of registrar in obtaining evidence
 
 #### (a) Subpena for attendance of witness and production of records, etc.
 

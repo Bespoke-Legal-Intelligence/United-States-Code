@@ -22,7 +22,7 @@ Except as provided in subsection (b) of this section, before any State publishes
 
 In an emergency, where a regulation must be issued within a very limited time period to assist eligible recipients with the operation of a program, the State may issue a regulation without fulfilling the requirements of subsection (a) of this section, but shall immediately convene the Committee to review the regulation before it is issued in final form.
 
-(Pub. L. 88 210, title V, §512, as added Pub. L. 101 392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 832.)
+(Pub. L. 88–210, title V, §512, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 832.)
 
 #### Section Referred to in Other Sections
 

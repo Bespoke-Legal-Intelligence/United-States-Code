@@ -6,7 +6,7 @@ Within five years from December 2, 1980, the Secretary shall develop and transmi
 
 #### (b) National Park service plan requirements
 
-Each plan for a unit established, redesignated, or expanded by subchapter LIX–F of chapter 1 of this title shall identify management practices which will carry out the policies of this Act andwill accomplish the purposes for which the concerned National Park System unit was established or expanded and shall include at least the following:
+Each plan for a unit established, redesignated, or expanded by subchapter LIX–F of chapter 1 of this title shall identify management practices which will carry out the policies of this Act and will accomplish the purposes for which the concerned National Park System unit was established or expanded and shall include at least the following:
 
 &emsp;(1) Maps indicating areas of particular importance as to wilderness, natural, historical, wildlife, cultural, archeological, paleontological, geological, recreational, and similar resources and also indicating the areas into which such unit will be divided for administrative purposes.
 

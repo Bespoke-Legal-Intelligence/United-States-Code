@@ -1,6 +1,6 @@
 ### §4191. General application of provisions to consular officers
 
-The various provisions of title 18 of the Revised Statutes which are expressed in terms of general application to any particular classes of consular officers, shall be deemed to apply as well to all other classes of such officers, so far as may be consistent with the subject matter of the same and with the treaties of the United States.
+The various provisions of title 18 of the Revised Statutes which are expressed in terms of general application to any particular classes ofconsular officers, shall be deemed to apply as well to all other classes of such officers, so far as may be consistent with the subject matter of the same and with the treaties of the United States.
 
 (R.S. §1689.)
 

@@ -52,7 +52,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Loan Repayment Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
-&emsp;(C) In the case of entities to which participants in the Loan Repayment Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing toprovide primary health services, after the period of obligated service under the Loan Repayment Program is completed. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
+&emsp;(C) In the case of entities to which participants in the Loan Repayment Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Loan Repayment Program is completed. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
 
 #### (d) Factors considered in providing contracts; priorities
 
@@ -194,7 +194,7 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 &emsp;“(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
 
-&emsp;“(2) if needed by the Corps, an adequate supply of podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduatesof programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
+&emsp;“(2) if needed by the Corps, an adequate supply of podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
 
 Subsec. (b)(1). Pub. L. 101–597, §202(b)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
@@ -278,7 +278,7 @@ Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by p
 
 #### Regulations
 
-Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 180 days after the effective date of theamendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254<i>o</i> of this title, and repealing former section 254q of this title\].”
+Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254<i>o</i> of this title, and repealing former section 254q of this title\].”
 
 #### Section Referred to in Other Sections
 

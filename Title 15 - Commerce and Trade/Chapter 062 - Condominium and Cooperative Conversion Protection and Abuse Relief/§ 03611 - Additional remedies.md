@@ -16,5 +16,5 @@ Every person who becomes liable to make any payment under this section may recov
 
 The amounts recoverable under this section may include interest paid, reasonable attorneys’ fees, independent engineer and appraisers’ fees, and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plaintiff is frivolous, malicious, or lacking in substantial merit.
 
-(Pub. L. 96 399, title VI, §612, Oct. 8, 1980, 94 Stat. 1679.)
+(Pub. L. 96–399, title VI, §612, Oct. 8, 1980, 94 Stat. 1679.)
 

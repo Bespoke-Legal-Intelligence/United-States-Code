@@ -8,7 +8,7 @@ The map referred to in this section shall be on file and available for public in
 
 #### (b) Bear Valley Ranch right-of-way
 
-The area referred to in subsection (a) of this section shall also include a right-of-way to the aforesaid tract in the general vicinity of the northwesterly portion of the property known as “Bear Valley Ranch”, to be selected by the Secretary, of not more than four hundred feet in width, together with such adjoining lands as would be deprived of access by reason of the acquisition of such right-of-way.
+The area referred to in subsection (a) of this section shall also include a right-of-way to theaforesaid tract in the general vicinity of the northwesterly portion of the property known as “Bear Valley Ranch”, to be selected by the Secretary, of not more than four hundred feet in width, together with such adjoining lands as would be deprived of access by reason of the acquisition of such right-of-way.
 
 (Pub. L. 87–657, §2, Sept. 13, 1962, 76 Stat. 538; Pub. L. 89–666, §1(a), Oct. 15, 1966, 80 Stat. 919; Pub. L. 93–550, title II, §201, Dec. 26, 1974, 88 Stat. 1744; Pub. L. 95–625, title III, §318(a), Nov. 10, 1978, 92 Stat. 3486; Pub. L. 96–199, title I, §101(a)(1), Mar. 5, 1980, 94 Stat. 67; Pub. L. 103–437, §6(d)(16), Nov. 2, 1994, 108 Stat. 4584.)
 
@@ -26,7 +26,7 @@ The area referred to in subsection (a) of this section shall also include a righ
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -88,7 +88,7 @@ The corporation is authorized to issue to the Secretary of the Treasury notes or
 
 #### (g) Other use of funds; deposits of repayments
 
-(1) Amounts in any fund established under this section may be used only for the purposes for which such fund was established and may not be used to make loans to (or on behalf of) any otherfund or to finance any other activity of the corporation.
+(1) Amounts in any fund established under this section may be used only for the purposes forwhich such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
 
 (2) None of the funds borrowed under subsection (c) of this section may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section.
 
@@ -130,7 +130,7 @@ Subsecs. (d) to (f). Pub. L. 96–364, §403(a)(4), added subsecs. (d) to (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing after final regulations implementing section 776 of Pub. L. 103–465 are prescribed by the Pension Benefit Guaranty Corporation, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
+Amendment by Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -22,7 +22,7 @@ The civil service laws, referred to in text, are set out in Title 5. See, partic
 
 1977—Pub. L. 95–105 substituted “the maximum daily rate for grade GS–15 of the General Schedule” for “$100 per diem”.
 
-1964—Pub. L. 88–448 struck out provisions which permitted retired personnel of the Armed Forces of the United States employed by the Commission to receiveas compensation for temporary service, the difference between the rates of pay established therefor and their retired pay during the period or periods of their temporary employment.
+1964—Pub. L. 88–448 struck out provisions which permitted retired personnel of the Armed Forces of the United States employed by the Commission to receive as compensation for temporary service, the difference between the rates of pay established therefor and their retired pay during the period or periods of their temporary employment.
 
 #### Effective Date of 1977 Amendment
 

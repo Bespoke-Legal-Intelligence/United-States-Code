@@ -34,7 +34,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 (b)
 
-Information To Be Furnished.—The Secretary of the military department concernedshall furnish to a promotion board convened under section 14101(a) of this title the following:
+Information To Be Furnished.—The Secretary of the military department concerned shall furnish to a promotion board convened under section 14101(a) of this title the following:
 
 &emsp;(1) In the case of a mandatory promotion board, the maximum number (as determined in accordance with section 14307 of this title) of officers in each competitive category under consideration that the board is authorized to recommend for promotion to the next higher grade.
 

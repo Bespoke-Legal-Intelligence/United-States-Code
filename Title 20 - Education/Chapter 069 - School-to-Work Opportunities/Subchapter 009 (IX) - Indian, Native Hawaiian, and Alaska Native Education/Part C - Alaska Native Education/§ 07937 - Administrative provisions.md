@@ -20,5 +20,5 @@ Each local educational agency serving students who will participate in the progr
 
 The Secretary shall expeditiously obligate funds appropriated as provided in this part.
 
-(Pub. L. 89 10, title IX, §9307, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3809.)
+(Pub. L. 89–10, title IX, §9307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809.)
 

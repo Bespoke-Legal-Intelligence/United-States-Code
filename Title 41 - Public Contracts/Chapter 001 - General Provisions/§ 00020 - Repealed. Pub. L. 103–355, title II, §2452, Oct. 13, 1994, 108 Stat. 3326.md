@@ -4,5 +4,5 @@ Section, R.S. §3743; Feb. 27, 1877, ch. 69, 19 Stat. 249; July 31, 1894, ch. 17
 
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 

@@ -38,7 +38,7 @@
 
 &emsp;(10) specifically concern the agency's issuance of a subpena, or the agency's participation in a civil action or proceeding, an action in a foreign court or international tribunal, or an arbitration, or the initiation, conduct, or disposition by the agency of a particular case of formal agency adjudication pursuant to the procedures in section 554 of this title or otherwise involving a determination on the record after opportunity for a hearing.
 
-(d)(1) Action under subsection (c) shall be taken only when a majority of the entire membership of the agency (as defined in subsection (a)(1)) votes to take such action. A separate vote of the agency members shall be taken with respect to each agency meeting a portion or portions of which are proposed to be closed to the public pursuant to subsection (c), or with respect to any information which is proposed to be withheld under subsection (c). A single vote may be taken with respect to a series of meetings, a portion or portions of which are proposed to be closed to the public, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular matters and is scheduled to be held no more than thirty days after the initialmeeting in such series. The vote of each agency member participating in such vote shall be recorded and no proxies shall be allowed.
+(d)(1) Action under subsection (c) shall be taken only when a majority of the entire membership of the agency (as defined in subsection (a)(1)) votes to take such action. A separate vote of the agency members shall be taken with respect to each agency meeting a portion or portions of which are proposed to be closed to the public pursuant to subsection (c), or with respect to any information which is proposed to be withheld under subsection (c). A single vote may be taken with respect to a series of meetings, a portion or portions of which are proposed to beclosed to the public, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular matters and is scheduled to be held no more than thirty days after the initial meeting in such series. The vote of each agency member participating in such vote shall be recorded and no proxies shall be allowed.
 
 (2) Whenever any person whose interests may be directly affected by a portion of a meeting requests that the agency close such portion to the public for any of the reasons referred to in paragraph (5), (6), or (7) of subsection (c), the agency, upon request of any one of its members, shall vote by recorded vote whether to close such meeting.
 
@@ -56,7 +56,7 @@
 
 (2) The agency shall make promptly available to the public, in a place easily accessible to the public, the transcript, electronic recording, or minutes (as required by paragraph (1)) of the discussion of any item on the agenda, or of any item of the testimony of any witness received at the meeting, except for such item or items of such discussion or testimony as the agency determines to contain information which may be withheld under subsection (c). Copies of such transcript, or minutes, or a transcription of such recording disclosing the identity of each speaker, shall be furnished to any person at the actual cost of duplication or transcription. The agency shall maintain a complete verbatim copy of the transcript, a complete copy of the minutes, or a complete electronic recording of each meeting, or portion of a meeting, closed to the public, for a period of at least two years after such meeting, or until one year after the conclusion of any agency proceeding with respect to which the meeting or portion was held, whichever occurs later.
 
-(g) Each agency subject to the requirements of this section shall, within 180 days after the date of enactment of this section, following consultation with the Office of the Chairman of the Administrative Conference of the United Statesand published notice in the Federal Register of at least thirty days and opportunity for written comment by any person, promulgate regulations to implement the requirements of subsections (b) through (f) of this section. Any person may bring a proceeding in the United States District Court for the District of Columbia to require an agency to promulgate such regulations if such agency has not promulgated such regulations within the time period specified herein. Subject to any limitations of time provided by law, any person may bring a proceeding in the United States Court of Appeals for the District of Columbia to set aside agency regulations issued pursuant to this subsection that are not in accord with the requirements of subsections (b) through (f) of this section and to require the promulgation of regulations that are in accord with such subsections.
+(g) Each agency subject to the requirements of this section shall, within 180 days after the date of enactment of this section, following consultation with the Office of the Chairman of the Administrative Conference of the United States and published notice in the Federal Register of at least thirty days and opportunity for written comment by any person, promulgate regulations to implement the requirements of subsections (b) through (f) of this section. Any person may bring a proceeding in the United States District Court for the District of Columbia to require an agency to promulgate such regulations if such agency has not promulgated such regulations within the time period specified herein. Subject to any limitations of time provided by law, any person may bring a proceeding in the United States Court of Appeals for the District of Columbia to set aside agency regulations issued pursuant to this subsection that are not in accord with the requirements of subsections (b) through (f) of this section and to require the promulgation of regulations that are in accord with such subsections.
 
 (h)(1) The district courts of the United States shall have jurisdiction to enforce the requirements of subsections (b) through (f) of this section by declaratory judgment, injunctive relief, or other relief as may be appropriate. Such actions may be brought by any person against an agency prior to, or within sixty days after, the meeting out of which the violation of this section arises, except that if public announcement of such meeting is not initially provided by the agency in accordance with the requirements of this section, such action may be instituted pursuant to this section at any time prior to sixty days after any public announcement of such meeting. Such actions may be brought in the district court of the United States for the district in which the agency meeting is held or in which the agency in question has its headquarters, or in the District Court for the District of Columbia. In such actions a defendant shall serve his answer within thirty days after the service of the complaint. The burden is on the defendant to sustain his action. In deciding such cases the court may examine in camera any portion of the transcript, electronic recording, or minutes of a meeting closed to the public, and may take such additional evidence as it deems necessary. The court, having due regard for orderly administration and the public interest, as well as the interests of the parties, may grant such equitable relief as it deems appropriate, including granting an injunction against future violations of this section or ordering the agency to make available to the public such portion of the transcript, recording, or minutes of a meeting as is not authorized to be withheld under subsection (c) of this section.
 
@@ -64,7 +64,15 @@
 
 (i) The court may assess against any party reasonable attorney fees and other litigation costs reasonably incurred by any other party who substantially prevails in any action brought in accordance with the provisions of subsection (g) or (h) of this section, except that costs may be assessed against the plaintiff only where the court finds that the suit was initiated by the plaintiff primarily for frivolous or dilatory purposes. In the case of assessment of costs against an agency, the costs may be assessed by the court against the United States.
 
-(j) Each agency subject to the requirements of this section shall annually report to Congress regarding its compliance with such requirements, including a tabulation of the total number of agency meetings open to the public, the total number of meetings closed to the public, the reasons for closing such meetings, and a description of any litigation brought against the agency under this section, including any costs assessed against the agency in such litigation (whether or not paid by the agency).
+(j) Each agency subject to the requirements of this section shall annually report to the Congress regarding the following:
+
+&emsp;(1) The changes in the policies and procedures of the agency under this section that have occurred during the preceding 1-year period.
+
+&emsp;(2) A tabulation of the number of meetings held, the exemptions applied to close meetings, and the days of public notice provided to close meetings.
+
+&emsp;(3) A brief description of litigation or formal complaints concerning the implementation of this section by the agency.
+
+&emsp;(4) A brief explanation of any changes in law that have affected the responsibilities of the agency under this section.
 
 (k) Nothing herein expands or limits the present rights of any person under section 552 of this title, except that the exemptions set forth in subsection (c) of this section shall govern in the case of any request made pursuant to section 552 to copy or inspect the transcripts, recordings, or minutes described in subsection (f) of this section. The requirements of chapter 33 of title 44, United States Code, shall not apply to the transcripts, recordings, and minutes described in subsection (f) of this section.
 
@@ -72,13 +80,17 @@
 
 (m) Nothing in this section authorizes any agency to withhold from any individual any record, including transcripts, recordings, or minutes required by this section, which is otherwise accessible to such individual under section 552a of this title.
 
-(Added Pub. L. 94–409, §3(a), Sept. 13, 1976, 90 Stat. 1241.)
+(Added Pub. L. 94–409, §3(a), Sept. 13, 1976, 90 Stat. 1241; amended Pub. L. 104–66, title III, §3002, Dec. 21, 1995, 109 Stat. 734.)
 
 #### References in Text
 
 Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated section 552(f) of this title by section 1802(b) of Pub. L. 99–570.
 
 180 days after the date of enactment of this section, referred to in subsec. (g), means 180 days after the date of enactment of Pub. L. 94–409, which was approved Sept. 13, 1976.
+
+#### Amendments
+
+<b>1995</b>—Subsec. (j). Pub. L. 104–66 amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “Each agency subject to the requirements of this section shall annually report to Congress regarding its compliance with such requirements, including a tabulation of the total number of agency meetings open to the public, the total number of meetings closed to the public, the reasons for closing such meetings, and a description of any litigation brought against the agency under this section, including any costs assessed against the agency in such litigation (whether or not paid by the agency).”
 
 #### Effective Date
 
@@ -92,13 +104,17 @@ Section 6 of Pub. L. 94–409 provided that:
 
 Section 1 of Pub. L. 94–409 provided: “That this Act \[enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section\] may be cited as the ‘Government in the Sunshine Act’.”
 
+#### Termination of Administrative Conference of United States
+
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of this title.
+
 #### Declaration of Policy and Statement of Purpose
 
 Section 2 of Pub. L. 94–409 provided that: “It is hereby declared to be the policy of the United States that the public is entitled to the fullest practicable information regarding the decisionmaking processes of the Federal Government. It is the purpose of this Act \[see Short Title note set out above\] to provide the public with such information while protecting the rights of individuals and the ability of the Government to carry out its responsibilities.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 552 of this title; title 7 section 945; title 12 section 3502; title 19 section 2347; title 20 section 6021; title 22 section 4605, 4833; title 39 section 410; title 42 sections 2996c, 7171, 7234, 8103, 10703, 14195; title 44 section 2204; title 45 sections 1116, 1212; title 46 sections 7702, 9303; title 50 App. sections 2158, 2159.
+This section is referred to in section 552 of this title; title 7 section 945; title 19 section 2347; title 20 section 6021; title 22 sections 4605, 4833; title 39 section 410; title 42 sections 2996c, 7171, 7234, 8103, 10703, 14195; title 44 section 2204; title 45 sections 1116, 1212; title 46 sections 7702, 9303; title 49 section 703; title 50 App. sections 2158, 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ General.—It is the policy of the United States—
 
 &emsp;(12) that airport fees, rates, and charges must be reasonable and may only be used for purposes not prohibited by this subchapter; and
 
-&emsp;(13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners and operators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spent under section 47107(b)(1) of this title, including reasonable reserves and other funds to facilitate financing and cover contingencies.
+&emsp;(13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners and operators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spentunder section 47107(b)(1) of this title, including reasonable reserves and other funds to facilitate financing and cover contingencies.
 
 (b)
 
@@ -96,7 +96,7 @@ Maximum Use of Safety Facilities.—This subchapter should be carried out consis
 
 (g)
 
-Cooperation.—To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
+Cooperation.—To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, andcomprehensive to the degree appropriate to the complexity of the transportation problems.
 
 (h)
 

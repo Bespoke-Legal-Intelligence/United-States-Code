@@ -10,7 +10,7 @@ The architectural design for such memorial museum shall be subject to the approv
 
 #### (c) Termination of construction and operation authority
 
-The authority conferred pursuant to this chapter for the construction and operation of the memorial museum shall lapse on the date five years after October 7, 1980 unless (1) the erection or establishment of such memorial is commenced within such five year period, and (2) prior to the commencement, the Secretary of the Interior certifies that funds are available in an amount sufficient, in the judgment of the Secretary, to ensure completion of the memorial museum.
+The authority conferred pursuant to this chapter for the construction and operation of the memorial museum shall lapse on the date five years after October 7, 1980 unless (1) the erection or establishment of such memorial is commenced within such five year period, and (2) prior to the commencement, the Secretary of the Interior certifies that funds are available in an amount sufficient, in the judgment of theSecretary, to ensure completion of the memorial museum.
 
 #### (d) Employees performing governmental functions
 

@@ -60,7 +60,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;“(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
 
-&emsp;“(6) legislation is necessary because Executive Order No. 12356 \[50 U.S.C. 401 note\], entitled ‘National Security Information’ has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
+&emsp;“(6) legislation is necessary because Executive Order No. 12356 \[50 U.S.C. 435 note\], entitled ‘National Security Information’ has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
 &emsp;“(7) most of the records related to the assassination of President John F. Kennedy are almost 30 years old, and only in the rarest cases is there any legitimate need for continued protection of such records.
 
@@ -659,6 +659,10 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 #### “SEC. 14. SEVERABILITY.
 
 “If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation.”
+
+#### Classified National Security Information
+
+For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
 
 #### Section Referred to in Other Sections
 

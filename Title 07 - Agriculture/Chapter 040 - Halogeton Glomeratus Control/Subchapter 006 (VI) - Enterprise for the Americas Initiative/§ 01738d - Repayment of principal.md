@@ -1,0 +1,12 @@
+### §1738d. Repayment of principal
+
+#### (a) Currency of payment
+
+The principal amount owed under each new obligation issued under section 1738c of this title shall be repaid in United States dollars.
+
+#### (b) Deposit of payments
+
+Principal repayments on new obligations issued under section 1738c of this title shall be deposited in Commodity Credit Corporation accounts.
+
+(July 10, 1954, ch. 469, title VI, §605, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3659.)
+

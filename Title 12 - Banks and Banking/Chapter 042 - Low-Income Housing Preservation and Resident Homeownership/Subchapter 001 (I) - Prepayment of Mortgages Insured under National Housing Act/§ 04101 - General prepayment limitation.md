@@ -20,7 +20,7 @@ Section 605 of Pub. L. 101–625 provided that: “This subtitle \[subtitle A (�
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 100–242, as added by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, provided that: “This title \[enacting this chapter, amending section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare, and enacting provisions set out below\]may be cited as the ‘Low-Income Housing Preservation and Resident Homeownership Act of 1990’.”
+Section 201 of title II of Pub. L. 100–242, as added by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, provided that: “This title \[enacting this chapter, amending section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare, and enacting provisions set out below\] may be cited as the ‘Low-Income Housing Preservation and Resident Homeownership Act of 1990’.”
 
 #### Applicability
 
@@ -68,5 +68,5 @@ Effectiveness of Repealed Provisions.—Notwithstanding the amendment made by se
 
 “(d)
 
-Regulations.—Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Housing and Urban Development shall, subject to the provisions of section 553 of title 5, United States Code, publish proposed rules to implement this subtitle and the amendments made by this subtitle. Not later than 45days after the expiration of the period under the preceding sentence the Secretary shall issue interim or final rules to implement such provisions.”
+Regulations.—Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Housing and Urban Development shall, subject to the provisions of section 553 of title 5, United States Code, publish proposed rules to implement this subtitle and the amendments made by this subtitle. Not later than 45 days after the expiration of the period under the preceding sentence the Secretary shall issue interim or final rules to implement such provisions.”
 

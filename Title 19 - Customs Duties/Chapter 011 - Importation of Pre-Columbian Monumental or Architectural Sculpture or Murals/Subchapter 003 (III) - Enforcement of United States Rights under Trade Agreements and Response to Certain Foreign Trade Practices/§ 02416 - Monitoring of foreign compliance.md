@@ -12,13 +12,13 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (2) WTO dispute settlement recommendations
 
-&emsp;If the measure or agreement referred to in subsection (a) of this section concerns the implementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
+&emsp;If the measure or agreement referred to in subsection (a) of this section concerns the implementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the TradeRepresentative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
 
 #### (c) Consultations
 
 Before making any determination under subsection (b) of this section, the Trade Representative shall—
 
-&emsp;(1) consult with the petitioner, if any, involved in the initial investigation under thissubchapter and with representatives of the domestic industry concerned; and
+&emsp;(1) consult with the petitioner, if any, involved in the initial investigation under this subchapter and with representatives of the domestic industry concerned; and
 
 &emsp;(2) provide an opportunity for the presentation of views by interested persons.
 

@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient tosatisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 
@@ -78,6 +78,8 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
+(3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
+
 (f)
 
 Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
@@ -94,7 +96,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Treasury as miscellaneous receipts.
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this sectionshall be deposited in the Treasury as miscellaneous receipts.
 
 (g)
 
@@ -106,7 +108,7 @@ Nonapplication.—This section does not apply to a motor vehicle having a gross 
 
 &emsp;(3) a large quantity of radioactive material.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006; Pub. L. 104–88, title I, §104(e), Dec. 29, 1995, 109 Stat. 919.)
 
 Historical and Revision Notes
 
@@ -180,7 +182,15 @@ In subsection (f)(5), the words “when finally determined (or agreed upon in co
 
 In subsection (g)(1) and (2), the words “any quantity of” are omitted as surplus.
 
+#### Amendments
+
+1995—Subsec. (e)(3). Pub. L. 104–88 added par. (3).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 507, 521, 526, 10530, 10927 of this title.
+This section is referred to in sections 507, 521, 526, 10927, 13906 of this title; title 42 section 9608.
 

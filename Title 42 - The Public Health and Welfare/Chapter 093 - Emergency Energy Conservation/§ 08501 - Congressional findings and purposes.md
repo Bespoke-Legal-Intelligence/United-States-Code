@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) an urgent need exists to provide for emergency conservation and other measures with respect to gasoline, diesel fuel, home heating oil, and other energy sources in potentially short supply in order to cope with market disruptions and protect interstate commerce; and
 
-&emsp;(5) up-to-date and reliable information concerning the supply and demand of gasoline,diesel fuel, and other related data is not available to the President, the Congress, or the public.
+&emsp;(5) up-to-date and reliable information concerning the supply and demand of gasoline, diesel fuel, and other related data is not available to the President, the Congress, or the public.
 
 #### (b) Purposes
 

@@ -16,7 +16,7 @@ There shall be an Office of Small Business, headed by a Special Assistant for Sm
 
 #### (c) Information with respect to certain purchases by Department of Defense
 
-The Secretary of Defense shall assure that there is made available to suppliers in the United States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
+The Secretary of Defense shall assure that there is made available to suppliers in theUnited States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
 
 (Pub. L. 87–195, pt. III, §602, Sept. 4, 1961, 75 Stat. 439.)
 

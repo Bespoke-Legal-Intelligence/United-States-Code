@@ -1,4 +1,4 @@
-### §460x–8 . Zoning bylaws
+### §460x–8. Zoning bylaws
 
 #### (a) Authority of Secretary to assist any township or county in or adjacent to lakeshore; payments for technical aid
 

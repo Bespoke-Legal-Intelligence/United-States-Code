@@ -10,7 +10,7 @@
 
 &emsp;(A) Grants awarded under this subpart shall be of sufficient size, scope, and quality to be effective.
 
-&emsp;(B) The Secretary shall award grants under this subpart so as to ensure nonduplication ofservices provided by grant recipients and services provided by—
+&emsp;(B) The Secretary shall award grants under this subpart so as to ensure nonduplication of services provided by grant recipients and services provided by—
 
 &emsp;&emsp;(i) the National Endowment for the Humanities;
 
@@ -44,5 +44,5 @@
 
 &emsp;(B) Each eligible recipient may reserve not more than 5 percent of any grant funds received under this subpart in each fiscal year for the costs of administration.
 
-(Pub. L. 89 10, title X, §10414, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3836.)
+(Pub. L. 89–10, title X, §10414, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3836.)
 

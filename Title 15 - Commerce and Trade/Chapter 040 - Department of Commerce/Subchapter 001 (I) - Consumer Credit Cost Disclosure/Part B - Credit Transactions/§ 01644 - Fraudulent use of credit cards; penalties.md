@@ -26,19 +26,19 @@ Whoever in a transaction affecting interstate or foreign commerce furnishes mone
 
 > shall be fined not more than $10,000 or imprisoned not more than ten years, or both.
 
-(Pub. L. 90 321, title I, §134, as added Pub. L. 91 508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1127; amended Pub. L. 93 495, title IV, §414, Oct. 28, 1974, 88 Stat. 1520.)
+(Pub. L. 90–321, title I, §134, as added Pub. L. 91–508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1127; amended Pub. L. 93–495, title IV, §414, Oct. 28, 1974, 88 Stat. 1520.)
 
 #### Amendments
 
-1974—Pub. L. 93 495 generally reorganized provisions by designating former unlettered paragraph cls. (a) to\(f), and as so designated, expanded prohibitions relating to fraudulent use of credit cards, decreased amount required for fraudulent use from a retail value aggregating $5,000, or more, to enumerated amounts for particular activities, and increased the punishment from a sentence of not more than five years to a sentence of not more than ten years.
+1974—Pub. L. 93–495 generally reorganized provisions by designating former unlettered paragraph cls. (a) to (f), and as so designated, expanded prohibitions relating to fraudulent use of credit cards, decreased amount required for fraudulent use from a retail value aggregating $5,000, or more, to enumerated amounts for particular activities, and increased the punishment from a sentence of not more than five years to a sentence of not more than ten years.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93 495 effective Oct. 28, 1974, see section 416 of Pub. L. 93 495, set out as an Effective Date note under section 1665a of this title.
+Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
 #### Effective Date
 
-Section 503(3) of Pub. L. 91 508 provided that: “Section 134 of such Act \[this section\] applies to offenses committed on or after such date of enactment \[Oct. 26, 1970\].”
+Section 503(3) of Pub. L. 91–508 provided that: “Section 134 of such Act \[this section\] applies to offenses committed on or after such date of enactment \[Oct. 26, 1970\].”
 
 #### Section Referred to in Other Sections
 

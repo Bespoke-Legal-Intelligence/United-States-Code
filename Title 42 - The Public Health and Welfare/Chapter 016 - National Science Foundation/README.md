@@ -91,7 +91,6 @@
 | (g) | “United States” defined. |
 | (h) | Expiration of authorization. |
 | (i) | Public disclosure of information. |
-| (j) | Budget estimate. |
 | [1873a.](%C2%A7%2001873a%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93159%2C%20title%20I%2C%20%C2%A7109%28f%29%2C%20Nov.%2022%2C%201985%2C%2099%20Stat.%20890.md) | Repealed. |
 | [1874\.](%C2%A7%2001874%20-%20Security%20provisions.md) | Security provisions. |
 | (a) | Nuclear energy research and development. |

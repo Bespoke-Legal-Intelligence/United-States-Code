@@ -8,7 +8,7 @@
 
 &emsp;(3) the case was converted to a case under this chapter other than on the debtor's request.
 
-(b) Except as provided in subsection (c) of this section, on request of a party in interest or the United States trustee or bankruptcy administrator, and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate, for cause, including—
+(b) Except as provided in subsection (c) of this section, on request of a party in interest or the United States trustee or bankruptcy administrator, and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title or may dismiss acase under this chapter, whichever is in the best interest of creditors and the estate, for cause, including—
 
 &emsp;(1) continuing loss to or diminution of the estate and absence of a reasonable likelihood of rehabilitation;
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Effective date and applicability of amendment by section 224 of Pub. L. 99–554 dependent upon the judicialdistrict involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Effective date and applicability of amendment by section 224 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 256 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
 

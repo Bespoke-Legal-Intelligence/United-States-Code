@@ -16,9 +16,9 @@ The Assistant Secretary shall establish and carry out, under State plans approve
 
 &emsp;(3) provide social and recreational activities for volunteer older individuals;
 
-&emsp;(4) develop skill banks that maintain and make available to school officials information on the skills and preferred activities of volunteer older individuals, for purposes of providing opportunities for such individuals to serve as tutors, teacher aides, living historians, special speakers, playground supervisors, lunchroom assistants, and in other roles; and
+&emsp;(4) develop skill banks that maintain and make available to school officials informationon the skills and preferred activities of volunteer older individuals, for purposes of providing opportunities for such individuals to serve as tutors, teacher aides, living historians, special speakers, playground supervisors, lunchroom assistants, and in other roles; and
 
-&emsp;(5) provide opportunities for volunteer older individuals to participate in school activities\(such as classes, dramatic programs, and assemblies) and use school facilities.
+&emsp;(5) provide opportunities for volunteer older individuals to participate in school activities (such as classes, dramatic programs, and assemblies) and use school facilities.
 
 #### (b) Federal share
 

@@ -1,4 +1,4 @@
-### §1351 . Nonimmigrant visa fees
+### §1351. Nonimmigrant visa fees
 
 The fees for the furnishing and verification of applications for visas by nonimmigrants of each foreign country and for the issuance of visas to nonimmigrants of each foreign country shall be prescribed by the Secretary of State, if practicable, in amounts corresponding to the total of all visa, entry, residence, or other similar fees, taxes, or charges assessed or levied against nationals of the United States by the foreign countries of which such nonimmigrants are nationals or stateless residents: <i>Provided,</i> That nonimmigrant visas issued to aliens coming to the United States in transit to and from the headquarters district of the United Nations in accordance with the provisions of the Headquarters Agreement shall be gratis.
 
@@ -35,6 +35,14 @@ Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended b
 “(4) The provisions of the Act of August 18, 1856 (Revised Statutes 1726–28; 22 U.S.C. 4212–14), concerning accounting for consular fees shall not apply to fees collected under this subsection.
 
 “(5) No fee or surcharge authorized under paragraph (1) may be charged to a citizen of a country that is a signatory as of the date of enactment of this Act \[Apr. 30, 1994\] to the North American Free Trade Agreement, except that the Secretary of State may charge such fee or surcharge to a citizen of such a country if the Secretary determines that such country charges a visa application or issuance fee to citizens of the United States.”
+
+Provisions directing the continuing effect for specific periods of authorities provided under section 140(a) of Pub. L. 103–236, set out above, were contained in the following appropriation acts:
+
+Pub. L. 104–56, title I, §118, Nov. 20, 1995, 109 Stat. 552.
+
+Pub. L. 104–54, title I, §118, Nov. 19, 1995, 109 Stat. 544.
+
+Pub. L. 104–31, §119, Sept. 30, 1995, 109 Stat. 281.
 
 #### Agreements on Passport Visa Fees
 
@@ -167,12 +175,12 @@ The United States has various bilateral agreements reciprocally waiving or reduc
 | &nbsp; | Oct. 22, 31, Nov. 4, 13, 1947 | Nov. 13, 1947 | 6 UST 93. |
 | Thailand | Sept. 19, 1925 | Sept. 19, 1925 | &nbsp; |
 | Tonga | Nov. 9, 12, 1948 | Nov. 12, 1948 | 62 Stat. 3824. |
-| Trinidad  and | Nov. 9, 12, 1948 | Nov. 12, 1948 | 62 Stat. 3824. |
+| Trinidad and | Nov. 9, 12, 1948 | Nov. 12, 1948 | 62 Stat. 3824. |
 | &nbsp;Tobago. | Oct. 28, Nov. 12, 1969 | Nov. 12, 1969 | 21 UST 1995. |
 | Tunisia | Mar. 16, 31, 1949 | Mar. 31, 1949 | 63 Stat. 2737. |
 | Turkey | June 27, Aug. 8, Sept. 27, Oct. 11, 1955 | Oct. 11, 1955 | 7 UST 337. |
 | Tuvalu | Nov. 9, 12, 1948 | Nov. 12, 1948 | 62 Stat. 3824. |
-| Union of Soviet Socialist Republics <sup>1</sup> | Mar. 26, Aug. 11, 20, 1958 Sept. 29, 1975 July 30, 1984 Oct. 31, 1986 | Aug. 20, 1958          Sept. 29, 1975 July 30, 1984 Oct. 31, 1986 | 9 UST 1413.      27 UST 4258. TIAS. TIAS. |
+| Union of Soviet Socialist Republics <sup>1</sup> | Mar. 26, Aug. 11, 20, 1958Sept. 29, 1975July 30, 1984Oct. 31, 1986 | Aug. 20, 1958        Sept. 29, 1975July 30, 1984Oct. 31, 1986 | 9 UST 1413.    27 UST 4258.TIAS.TIAS. |
 | United Kingdom | Nov. 9, 12, 1948 | Nov. 12, 1948 | 62 Stat. 3824. |
 | Uruguay | Nov. 3, 8, 1949 | Nov. 10, 1949 | 64 Stat. B128. |
 | Venezuela | Jan. 5, 12, 1937 | Jan. 12, 1937 | &nbsp; |

@@ -50,7 +50,7 @@ On the conclusion of the study or of discussions described in subsection (a) of 
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Serivces of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

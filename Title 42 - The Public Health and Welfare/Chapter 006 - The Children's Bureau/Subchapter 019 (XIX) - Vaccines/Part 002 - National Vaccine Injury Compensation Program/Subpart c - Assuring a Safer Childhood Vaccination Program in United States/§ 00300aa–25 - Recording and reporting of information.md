@@ -30,7 +30,7 @@ Each health care provider who administers a vaccine set forth in the Vaccine Inj
 
 #### (c) Release of information
 
-(1) Information which is in the possession of the Federal Government and State and local governments under this section and which may identify an individual shall not be made available under section 552 of title 5, or otherwise, to any person except—
+(1) Information which is in the possession of the Federal Government and State and localgovernments under this section and which may identify an individual shall not be made available under section 552 of title 5, or otherwise, to any person except—
 
 &emsp;(A) the person who received the vaccine, or
 

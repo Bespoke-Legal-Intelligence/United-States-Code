@@ -2,15 +2,15 @@ Part E—Tech-Prep Education
 
 #### Prior Provisions
 
-A prior part E, consisting of sections 2391 to 2393, was redesignated part D by Pub. L. 101 392, title III, §307(a)(1), Sept. 25, 1990, 104 Stat. 787.
+A prior part E, consisting of sections 2391 to 2393, was redesignated part D by Pub. L. 101–392, title III, §307(a)(1), Sept. 25, 1990, 104 Stat. 787.
 
 #### Part Referred to in Other Sections
 
 This part is referred to in sections 2302, 2392 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
 
 ---

@@ -8,7 +8,7 @@
 
 &emsp;(3) disobedience or resistance to its lawful writ, process, order, rule, decree, or command.
 
-(b) The Court shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for a district in which the Court is sitting shall, if requested by the chief judge of the Court, attend any session of the Court in that district.
+(b) The Court shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to acourt of the United States. The United States marshal for a district in which the Court is sitting shall, if requested by the chief judge of the Court, attend any session of the Court in that district.
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4065; renumbered §7265, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238.)
 

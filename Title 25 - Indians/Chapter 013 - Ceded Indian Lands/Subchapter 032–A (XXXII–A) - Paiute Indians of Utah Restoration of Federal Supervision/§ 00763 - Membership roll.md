@@ -18,7 +18,7 @@ The final membership roll is declared open. The Secretary, the Interim Council, 
 
 &emsp;(E) he was entitled on October 17, 1968, to be on the judgment distribution roll as a member of the Cedar City Band as specified in subparagraph (D) but his name was not listed on that roll; or
 
-&emsp;(F) he is a descendant of a person specified in subparagraph (D) or (E) and possesses atleast one-fourth degree of blood of members of the tribe or their Paiute Indian ancestors.
+&emsp;(F) he is a descendant of a person specified in subparagraph (D) or (E) and possesses at least one-fourth degree of blood of members of the tribe or their Paiute Indian ancestors.
 
 (2) After the initial election of tribal officials under the tribal constitution and bylaws, the provisions of the tribal constitution and bylaws shall govern membership in the tribe.
 

@@ -20,7 +20,7 @@ If a protest is timely and properly filed, but is denied contrary to proper inst
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §515, 42 Stat. 970. That section was superseded by section 515 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §515, 42 Stat. 970. That section was superseded by section 515 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions for transmission of the invoice, papers, and exhibits to the board of general appraisers in case of protest, and provisions concerning the conclusiveness of its determination, were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100.
 

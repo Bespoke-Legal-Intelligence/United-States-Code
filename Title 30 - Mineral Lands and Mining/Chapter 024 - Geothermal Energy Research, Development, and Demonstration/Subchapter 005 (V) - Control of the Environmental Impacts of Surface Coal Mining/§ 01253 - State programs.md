@@ -8,11 +8,11 @@ Each State in which there are or may be conducted surface coal mining operations
 
 &emsp;(2) a State law which provides sanctions for violations of State laws, regulations, or conditions of permits concerning surface coal mining and reclamation operations, which sanctions shall meet the minimum requirements of this chapter, including civil and criminal actions, forfeiture of bonds, suspensions, revocations, and withholding of permits, and the issuance of cease-and-desist orders by the State regulatory authority or its inspectors;
 
-&emsp;(3) a State regulatory authority with sufficient administrative and technical personnel, and sufficient funding to enable the State to regulate surface coal mining and reclamationoperations in accordance with the requirements of this chapter;
+&emsp;(3) a State regulatory authority with sufficient administrative and technical personnel, and sufficient funding to enable the State to regulate surface coal mining and reclamation operations in accordance with the requirements of this chapter;
 
 &emsp;(4) a State law which provides for the effective implementations, maintenance, and enforcement of a permit system, meeting the requirements of this subchapter for the regulations of surface coal mining and reclamation operations for coal on lands within the State;
 
-&emsp;(5) establishment of a process for the designation of areas as unsuitable for surface coal mining in accordance with section 1272 of this title provided that the designation of Federal lands unsuitable for mining shall be performed exclusively by the Secretary after consultation with the State; and <sup>1</sup>
+&emsp;(5) establishment of a process for the designation of areas as unsuitable for surface coal mining in accordance with section 1272 of this title provided that the designation of Federal lands unsuitable for mining shall be performedexclusively by the Secretary after consultation with the State; and <sup>1</sup>
 
 &emsp;(6) establishment for the purposes of avoiding duplication, of a process for coordinating the review and issuance of permits for surface coal mining and reclamation operations with any other Federal or State permit process applicable to the proposed operations; and
 

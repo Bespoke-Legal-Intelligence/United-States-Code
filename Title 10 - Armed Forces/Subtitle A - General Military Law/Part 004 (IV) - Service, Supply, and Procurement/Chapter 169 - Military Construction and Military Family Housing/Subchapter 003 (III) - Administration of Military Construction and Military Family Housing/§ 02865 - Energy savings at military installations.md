@@ -54,7 +54,7 @@ Shared Energy Savings Contracts.—(1) The Secretary of Defense shall develop a 
 
 Energy Saving Activities.—(1) The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by any gas or electric utility for the management of electricity demand or for energy conservation or by any utility for water conservation activities.
 
-(2) The Secretary of Defense may authorize any military installation to accept any financialincentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are cost effective for the Federal Government.
+(2) The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are cost effective for the Federal Government.
 
 (3) Subject to paragraph (4), the Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into agreements with gas or electric utilities to design and implement cost-effective demand and conservation incentive programs (including energy management services, facilities alterations, and the installation and maintenance of energy saving devices and technologies by the utilities) to address the requirements and circumstances of the installation.
 
@@ -112,7 +112,11 @@ Subsec. (f). Pub. L. 102–484, §2801(a)(2), (d), (e)(4), redesignated subsec. 
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Retention of Savings and Rebates
+
+For provisions requiring Director of Office of Management and Budget to develop guidelines and to implement procedures to allow agencies to retain savings from energy efficiency efforts as provided in this section, see Ex. Ord. No. 12902, §502, Mar. 8, 1994, 59 F.R. 11469, set out as a note under section 6201 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

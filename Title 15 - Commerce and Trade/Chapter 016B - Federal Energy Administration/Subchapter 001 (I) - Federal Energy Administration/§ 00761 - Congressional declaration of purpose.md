@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.
+The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, suchsupplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.
 
 #### (b) Necessity for reorganization
 
@@ -16,7 +16,7 @@ The sole purpose of this chapter is to create an administration in the executive
 
 #### Effective and Termination Dates
 
-Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I,§112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
+Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, §112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
 
 #### Short Title of 1977 Amendment
 
@@ -96,7 +96,7 @@ Section 29 of Pub. L. 93–275, as amended by Pub. L. 94–385, title I, §110, 
 
 #### Advice and Consent of Senate Required for Appointment of Director of Energy Policy Office
 
-Pub. L. 93–153, title IV, §404, Nov. 16, 1973, 87 Stat. 590, directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, hemay continue to act unless and until such nomination were disapproved by Senate.
+Pub. L. 93–153, title IV, §404, Nov. 16, 1973, 87 Stat. 590, directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, he may continue to act unless and until such nomination were disapproved by Senate.
 
 #### Executive Order No. 11712
 
@@ -164,7 +164,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. Executive Order No. 11930 of July 30, 1976, which established the Federal Energy Office, is, consistent with the Federal Energy Administration Act Amendments of 1976 (Title I of Public Law 94–385) \[for classification, see Short Title of 1976 Amendment note set out above\], hereby revoked as of the date of its issuance.
 
-Sec. 2. All orders, rules, regulations, rulings, interpretations, and other directives issued or pending, allrule making, judicial and administrative proceedings commenced or pending, all voluntary agreements, plans of action, and all other actions of whatever nature taken, continued, confirmed, ratified or made effective under Executive Order 11930, shall, in accordance with the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\], be deemed to have been actions of the Federal Energy Administration and shall continue and remain in full force and effect, unless amended or revoked by the Federal Energy Administration.
+Sec. 2. All orders, rules, regulations, rulings, interpretations, and other directives issued or pending, all rule making, judicial and administrative proceedings commenced or pending, all voluntary agreements, plans of action, and all other actions of whatever nature taken, continued, confirmed, ratified or made effective under Executive Order 11930, shall, in accordance with the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\], be deemed to have been actions of the Federal Energy Administration and shall continue and remain in full force and effect, unless amended or revoked by the Federal Energy Administration.
 
 Sec. 3. All authority and responsibility vested in the Federal Energy Administration by Executive order or proclamation prior to July 31, 1976 was not revoked by Executive Order No. 11930, subsists in the Federal Energy Administration, and shall be deemed to have been continuously vested in the Federal Energy Administration, whose existence has been retroactively extended by the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\].
 

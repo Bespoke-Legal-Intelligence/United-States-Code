@@ -76,7 +76,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–511 effective on Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as an Effective Date note under section 3501 of this title.
+Section 5 of Pub. L. 96–511 provided: “This Act \[enacting chapter 35 of this title, amending this section, section 2905 of this title, section 5315 of Title 5, Government Organization and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 101 and 3503 of this title\] shall take effect on April 1, 1981.”
 
 #### Section Referred to in Other Sections
 

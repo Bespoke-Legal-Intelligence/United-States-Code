@@ -60,7 +60,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Certificates of Non-Citizen National Status; $35 Limit on Fees for Processing Applications Filed Before End of Fiscal Year 1987
 
-Section 16(c) of Pub. L. 99–396 provided that: “The Secretary of State may not impose a fee exceeding $35for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
+Section 16(c) of Pub. L. 99–396 provided that: “The Secretary of State may not impose a fee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
 
 #### Cross References
 

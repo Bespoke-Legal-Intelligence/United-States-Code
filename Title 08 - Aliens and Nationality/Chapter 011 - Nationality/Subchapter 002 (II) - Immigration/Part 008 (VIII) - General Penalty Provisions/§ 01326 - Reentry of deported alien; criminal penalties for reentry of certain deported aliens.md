@@ -1,4 +1,4 @@
-### §1326 . Reentry of deported alien; criminal penalties for reentry of certain deported aliens
+### §1326. Reentry of deported alien; criminal penalties for reentry of certain deported aliens
 
 (a) Subject to subsection (b) of this section, any alien who—
 

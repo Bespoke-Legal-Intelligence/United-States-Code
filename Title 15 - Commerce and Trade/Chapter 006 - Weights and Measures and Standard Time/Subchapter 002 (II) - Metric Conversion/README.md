@@ -21,5 +21,5 @@ This subchapter is referred to in section 3704 of this title.
 - [&sect; 00205h - Compensation of Board members; travel expenses](%C2%A7%2000205h%20-%20Compensation%20of%20Board%20members%3B%20travel%20expenses.md)
 - [&sect; 00205i - Personnel](%C2%A7%2000205i%20-%20Personnel.md)
 - [&sect; 00205j - Financial and administrative services; source and reimbursement](%C2%A7%2000205j%20-%20Financial%20and%20administrative%20services%3B%20source%20and%20reimbursement.md)
-- [&sect; 00205j&#8211;1 - Agency guidelines to carry out policy](%C2%A7%2000205j%E2%80%931%20-%20Agency%20guidelines%20to%20carry%20out%20policy.md)
+- [&sect; 00205j&#8211;1 - Repealed. Pub. L. 104&#8211;66, title III, &sect;3001(e), Dec. 21, 1995, 109 Stat. 734](%C2%A7%2000205j%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20III%2C%20%C2%A73001%28e%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20734.md)
 - [&sect; 00205k - Authorization of appropriations; availability](%C2%A7%2000205k%20-%20Authorization%20of%20appropriations%3B%20availability.md)

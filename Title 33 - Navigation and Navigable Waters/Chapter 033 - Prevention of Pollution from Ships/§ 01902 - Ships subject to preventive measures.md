@@ -54,7 +54,7 @@ The Secretary shall prescribe regulations applicable to the ships of a country n
 
 #### (e) Compliance by excluded vessels
 
-(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
+(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologiesand practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
 
 (2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
 
@@ -138,11 +138,11 @@ Section 1003(e) of Pub. L. 103–160 provided that:
 
 #### Compliance Report
 
-Section 2201 of Pub. L. 100–220, effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, provided that:
+Section 2201 of Pub. L. 100–220, effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, as amended by Pub. L. 104–66, title I, §1121(c), Dec. 21, 1995, 109 Stat. 724, provided that:
 
 “(a)
 
-In General.—Within 1 year after the effective date of this section \[see Effective Date of 1987 Amendment note set out under section 1901 of this title\], and biennially thereafter for a period of 6 years, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Agriculture and the Secretary of Commerce, shall report to the Congress regarding compliance with Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, in United States waters.
+In General.—Within 1 year after the effective date of this section \[see Effective Date of 1987 Amendment note set out under section 1901 of this title\], and triennially thereafter for a period of 6 years, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Agriculture and the Secretary of Commerce, shall report to the Congress regarding compliance with Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, in United States waters.
 
 “(b)
 

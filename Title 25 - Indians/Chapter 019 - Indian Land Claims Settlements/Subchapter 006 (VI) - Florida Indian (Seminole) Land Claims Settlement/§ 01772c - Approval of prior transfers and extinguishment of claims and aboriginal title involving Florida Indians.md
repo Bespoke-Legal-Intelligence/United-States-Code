@@ -30,7 +30,7 @@ Neither subsection (a) of this section nor section 1772e of this title—
 
 &emsp;(1) enacts present or future laws of the State as Federal law,
 
-&emsp;(2) grants consent to any future changes in the Settlement Agreement or compact that could impose any obligation or liability on the United States, or
+&emsp;(2) grants consent to any future changes in the Settlement Agreement or compact thatcould impose any obligation or liability on the United States, or
 
 &emsp;(3) commits the United States to finance any project or activity not otherwise authorized by Federal law.
 

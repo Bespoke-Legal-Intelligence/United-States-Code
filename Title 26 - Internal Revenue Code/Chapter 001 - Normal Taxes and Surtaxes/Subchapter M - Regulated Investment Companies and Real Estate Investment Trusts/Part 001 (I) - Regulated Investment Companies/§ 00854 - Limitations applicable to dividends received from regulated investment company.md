@@ -116,7 +116,7 @@ Amendment by Pub. L. 96–223 applicable with respect to taxable years beginning
 
 #### Effective Date of 1964 Amendment
 
-Amendment by section 201(d)(8)–(10) of Pub. L. 88–272 applicable to dividends received after Dec. 31, 1964, intaxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
+Amendment by section 201(d)(8)–(10) of Pub. L. 88–272 applicable to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
 
 Amendment by section 229(a)(4) of Pub. L. 88–272 applicable to taxable years of regulated investment companies ending on or after Feb. 26, 1964, see section 229(c) of Pub. L. 88–272, set out as a note under section 852 of this title.
 

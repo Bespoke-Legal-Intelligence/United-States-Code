@@ -1,4 +1,4 @@
-### §2208 . Working-capital funds
+### §2208. Working-capital funds
 
 (a) To control and account more effectively for the cost of programs and work performed in the Department of Defense, the Secretary of Defense may require the establishment of working-capital funds in the Department of Defense to—
 
@@ -114,7 +114,7 @@ The word “hereafter” is omitted as executed.
 
 #### Amendments
 
-1993—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) requiredthat regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
+1993—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
 
 1992—Subsec. (j). Pub. L. 102–484 substituted “The Secretary of a military department may authorize a working capital funded industrial facility of that department” for “The Secretary of the Army may authorize a working capital funded Army industrial facility”.
 
@@ -176,7 +176,7 @@ Annual Reports and Budget.—The Secretary of Defense shall annually submit to t
 
 “(f)
 
-Implementation of Improvement Plan.—(1) Not later than February 1, 1995, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993. The report shall describe the progress made in reaching the milestones established in the plan and provide an explanation for any failure to meet any such milestone. The Secretary shall submit a copy of the report to the Comptroller General of the United States at the same time that the Secretary submits the report to the congressional defense committees.
+Implementation of Improvement Plan.—(1) Not later than February 1, 1995, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993. The report shall describe theprogress made in reaching the milestones established in the plan and provide an explanation for any failure to meet any such milestone. The Secretary shall submit a copy of the report to the Comptroller General of the United States at the same time that the Secretary submits the report to the congressional defense committees.
 
 “(2) The Comptroller General shall monitor and evaluate the progress of the Department of Defense in developing and implementing the improvement plan referred to in paragraph (1).
 
@@ -206,7 +206,7 @@ In General.—Charges for goods and services provided through the Defense Busine
 
 &emsp;&emsp;“(B) the use of military personnel in the provision of the goods and services, as computed by calculating, to the maximum extent practicable, such costs if employees of the Department of Defense were used in the provision of the goods and services; and
 
-&emsp;“(2) shall not include amounts necessary to recover the costs of a military construction project (as such term is defined in section 2801(b) of title 10, UnitedStates Code), other than a minor construction project financed by the Defense Business Operations Fund pursuant to section 2805(c)(1) of such title.
+&emsp;“(2) shall not include amounts necessary to recover the costs of a military construction project (as such term is defined in section 2801(b) of title 10, United States Code), other than a minor construction project financed by the Defense Business Operations Fund pursuant to section 2805(c)(1) of such title.
 
 “(b)
 
@@ -282,7 +282,7 @@ Separate Accounting, Reporting, and Auditing of Funds and Activities.—For purp
 
 “(d)
 
-Comprehensive Management Plan.—(1) Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994 \[Nov. 30, 1993\], the Secretary of Defense shall submit to the congressional defense committees a comprehensive management plan for the Defense Business Operations Fund. The Secretary shall identify in the plan the actions the Secretary will take to improve the implementation and operation of the Defense Business Operations Fund.
+Comprehensive Management Plan.—(1) Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year1994 \[Nov. 30, 1993\], the Secretary of Defense shall submit to the congressional defense committees a comprehensive management plan for the Defense Business Operations Fund. The Secretary shall identify in the plan the actions the Secretary will take to improve the implementation and operation of the Defense Business Operations Fund.
 
 “(2)(A) The plan shall also include the following matters:
 
@@ -312,7 +312,7 @@ Comprehensive Management Plan.—(1) Not later than 30 days after the date of th
 
 “(e)
 
-Progress Report on Implementation.—Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in implementing the comprehensive management plan required by subsection (d). The report shall describe the progress made in reaching the milestones established in the plan andprovide an explanation for the failure to meet any of the milestones. The Secretary shall submit a copy of the report to the Comptroller General of the United States at the same time the Secretary submits the report to the congressional defense committees.
+Progress Report on Implementation.—Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in implementing the comprehensive management plan required by subsection (d). The report shall describe the progress made in reaching the milestones established in the plan and provide an explanation for the failure to meet any of the milestones. The Secretary shall submit a copy of the report to the Comptroller General of the United States at the same time the Secretary submits the report to the congressional defense committees.
 
 “(f)
 

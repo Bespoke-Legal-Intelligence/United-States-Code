@@ -1,4 +1,4 @@
-### §336 . United States Coast Guard Band; composition; director
+### §336. United States Coast Guard Band; composition; director
 
 (a) The United States Coast Guard Band shall be composed of a director and other personnel in such numbers and grades as the Secretary determines to be necessary.
 

@@ -52,7 +52,7 @@
 | (<i>l)</i> | Donations to American Red Cross. |
 | (m) | Possession of abandoned or unclaimed property on Government premises; disposal; claims by former owners. |
 | (n) | Cooperative agreements with State agencies. |
-| (<i>o)</i> | Annual reports to Congress and to Administrator by agencies disposing of property; biennial reports to Congress by Administrator; copies to Comptroller General. |
+| (<i>o)</i> | Biennial reports to Congress by Administrator; copies to Comptroller General. |
 | (p) | Transfer or conveyance of property for correctional facility use; consideration-free transfers; reimbursement for interim transfers; reversion option; terms and conditions. |
 | (q) | Military installation closures or realignments. |
 | 484–1. | Transfer of miscellaneous books to District Public Library. |
@@ -121,6 +121,7 @@
 | [490e.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490e%20-%20Fiscal%20year%20limitation%20on%20obligations%20of%20funds%20for%20lease.md) | Fiscal year limitation on obligations of funds for lease. |
 | [490f.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490f%20-%20Lease%20space%20rent%20rates%20and%20payments%3B%20appropriations.md) | Lease space rent rates and payments; appropriations. |
 | [490g.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490g%20-%20Receipt%20of%20revenues%20related%20to%20energy%20savings%20or%20materials%20recycling%20efforts.md) | Receipt of revenues related to energy savings or materials recycling efforts. |
+| [490h.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490h%20-%20Flexiplace%20work%20telecommuting%20centers%3B%20revenues%20to%20defray%20costs.md) | Flexiplace work telecommuting centers; revenues to defray costs. |
 | [491\.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000491%20-%20Motor%20vehicle%20pools%20and%20transportation%20systems.md) | Motor vehicle pools and transportation systems. |
 | (a) | Establishment. |
 | (b) | Determinations by Administrator. |

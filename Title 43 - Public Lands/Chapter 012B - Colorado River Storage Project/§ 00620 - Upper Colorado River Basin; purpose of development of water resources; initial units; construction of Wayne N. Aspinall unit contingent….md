@@ -14,7 +14,7 @@ The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended t
 
 Pub. L. 96–375 substituted “Wayne N. Aspinall” for “Curecanti”.
 
-1968—Pub. L. 90–537 added Uintah unit to initial phase in Central Utah project, substituted “Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel” for “Pine River Extension”, and inserted proviso prohibiting construction of Uintah unit of Central Utah project until a feasibility study is made, a determination ismade that its benefits will exceed its costs and an authorization for appropriations is made by Congress.
+1968—Pub. L. 90–537 added Uintah unit to initial phase in Central Utah project, substituted “Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel” for “Pine River Extension”, and inserted proviso prohibiting construction of Uintah unit of Central Utah project until a feasibility study is made, a determination is made that its benefits will exceed its costs and an authorization for appropriations is made by Congress.
 
 1964—Pub. L. 88–568 included Savery-Pot Hook, Bostwick Park, and Fruitland Mesa as participating projects.
 

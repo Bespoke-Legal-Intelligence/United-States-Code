@@ -6,7 +6,7 @@ Merchandise upon which any duties or charges are unpaid, remaining in bonded war
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §559, 42 Stat. 977. That section was superseded by section 559 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §559, 42 Stat. 977. That section was superseded by section 559 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions that goods, remaining in public store or bonded warehouse beyond three years, should be regarded as abandoned and sold, and the proceeds paid into the Treasury, and that the Secretary might pay the proceeds to the owner, etc., after deducting duties, charges and expenses, were contained in R.S. §§2971 and2972, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

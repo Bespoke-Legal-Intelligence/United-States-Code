@@ -2,17 +2,17 @@
 
 Each year, the Board and the Attorney General shall, respectively, make reports to the Congress concerning the administration of their functions under this subchapter, including such recommendations as the Board and the Attorney General, respectively, deem necessary or appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with the requirements of this subchapter is being achieved, and a summary of the enforcement actions taken by each of the agencies assigned administrative enforcement responsibilities under section 1691c of this title.
 
-(Pub. L. 90 321, title VII, §707, as added Pub. L. 94 239, §7, Mar. 23, 1976, 90 Stat. 255; amended Pub. L. 96 221, title VI, §610(c), Mar. 31, 1980, 94 Stat. 174.)
+(Pub. L. 90–321, title VII, §707, as added Pub. L. 94–239, §7, Mar. 23, 1976, 90 Stat. 255; amended Pub. L. 96–221, title VI, §610(c), Mar. 31, 1980, 94 Stat. 174.)
 
 #### Amendments
 
-1980—Pub. L. 96 221 substituted “Each year” for “Not later than February 1 of each year after 1976”.
+1980—Pub. L. 96–221 substituted “Each year” for “Not later than February 1 of each year after 1976”.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date
 
-Section effective Mar. 23, 1976, see section 708 of Pub. L. 90 321, set out as a note under section 1691 of this title.
+Section effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as a note under section 1691 of this title.
 

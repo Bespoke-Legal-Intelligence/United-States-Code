@@ -98,7 +98,7 @@ As used in this section:
 
 #### (A) Economically disadvantaged youth
 
-&emsp;&emsp;The term “economically disadvantaged youth” means an individual who is age 16 through 21 and who has, or is a member of afamily that has, received a total family income (exclusive of unemployment compensation, child support payments, and welfare payments) that, in relation to family size, was not in excess of the higher of—
+&emsp;&emsp;The term “economically disadvantaged youth” means an individual who is age 16 through 21 and who has, or is a member of a family that has, received a total family income (exclusive of unemployment compensation, child support payments, and welfare payments) that, in relation to family size, was not in excess of the higher of—
 
 &emsp;&emsp;&emsp;(i) the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of title 42; <sup>1</sup> or
 
@@ -118,7 +118,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the service delivery area; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in areas of substantial unemployment in such service delivery area.
+&emsp;&emsp;&emsp;&emsp;(II) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian laborforce in areas of substantial unemployment in such service delivery area.
 
 #### (C) State
 
@@ -270,9 +270,9 @@ Level of funding.—If title II of the Job Training Partnership Act \[this subch
 
 &emsp;&emsp;“(A) $25,000,000; and
 
-&emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day beforethe date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
+&emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 207 of this Act \[enacting this section\] shall take effect. \[Amendment by section 207 did not take effect because the appropriations referred to above for fiscal year 1995 were less than the sum referred to above.\]
+> &emsp;the amendment made by section 207 of this Act \[enacting this section\] shall take effect. \[Amendment by section 207 did not take effect because the appropriations referred to above for fiscal year 1996 were less than the sum referred to above.\]
 
 &emsp;“(2)
 

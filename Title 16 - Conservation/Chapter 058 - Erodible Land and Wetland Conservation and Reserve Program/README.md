@@ -218,9 +218,7 @@ I74subpart a—general provisions
 | [3845\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003845%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Environmental conservation acreage reserve program and water quality incentive program. |
 | (b) | Other conservation matters. |
-| [3846\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003846%20-%20Monitoring%20and%20evaluation.md) | Monitoring and evaluation. |
-| (a) | In general. |
-| (b) | Requirements. |
+| [3846\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003846%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71011%28a%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20709.md) | Repealed. |
 | [3847\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003847%20-%20Assistance%20for%20control%20of%20spread%20of%20weeds%20and%20pests.md) | Assistance for control of spread of weeds and pests. |
 | (a) | In general. |
 | (b) | Conservation measure. |

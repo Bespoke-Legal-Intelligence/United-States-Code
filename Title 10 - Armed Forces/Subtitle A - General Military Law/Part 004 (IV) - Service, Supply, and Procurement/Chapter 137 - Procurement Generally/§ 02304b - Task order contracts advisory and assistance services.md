@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Award.—(1) Subject to the requirements of this section, section 2304c of this title, and other applicable law, the head of an agency may enter into a task order contract (as defined in section 2304d of this title) for procurement of advisory and assistance services.
+Authority To Award.—(1) Subject to the requirements of this section, section 2304c of this title, and other applicable law, the head ofan agency may enter into a task order contract (as defined in section 2304d of this title) for procurement of advisory and assistance services.
 
 (2) The head of an agency may enter into a task order contract for procurement of advisory and assistance services only under the authority of this section.
 

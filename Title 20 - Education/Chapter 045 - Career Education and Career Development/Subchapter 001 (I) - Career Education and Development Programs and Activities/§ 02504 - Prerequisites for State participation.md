@@ -10,13 +10,13 @@ Any State desiring to receive the amount for which it is eligible for any fiscal
 
 &emsp;(4) the development of training programs, including inservice training programs, for teachers, counselors, other educators, and administrators;
 
-&emsp;(5) fostering cooperative arrangements with such community groups and agencies as the public employment services, vocational rehabilitation service, community mental health agencies, education opportunity centers, and other community resources concerned with vocational development guidance and counseling, in order to avoid unnecessary duplication in the provision of services in the community or area to be served; and
+&emsp;(5) fostering cooperative arrangements with such community groups and agencies as thepublic employment services, vocational rehabilitation service, community mental health agencies, education opportunity centers, and other community resources concerned with vocational development guidance and counseling, in order to avoid unnecessary duplication in the provision of services in the community or area to be served; and
 
 &emsp;(6) inventories of State, local, and private resources available for the development of career education and career development programs and services.
 
-(Pub. L. 94 482, title III, §334, Oct. 12, 1976, 90 Stat. 2222; Pub. L. 96 88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 94–482, title III, §334, Oct. 12, 1976, 90 Stat. 2222; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96 88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 

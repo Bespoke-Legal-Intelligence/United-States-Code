@@ -30,7 +30,7 @@ It shall be an unfair labor practice for a labor organization—
 
 &emsp;(3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment or reprisal, or for the purpose of hindering or impeding the member's work performance or productivity as an employee or the discharge of the member's functions as an employee;
 
-&emsp;(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
+&emsp;(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis ofrace, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with the Department, as required under this subchapter;
 

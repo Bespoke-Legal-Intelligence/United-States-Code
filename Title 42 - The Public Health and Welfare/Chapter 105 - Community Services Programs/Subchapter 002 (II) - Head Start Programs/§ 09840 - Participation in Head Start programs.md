@@ -8,7 +8,7 @@
 
 &emsp;(A) there is no other preschool program in the community;
 
-&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) of this title and is located in a health professional shortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
+&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) of thistitle and is located in a health professional shortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
 
 &emsp;(C) the community is in a location which, by reason of remoteness, does not permit reasonable access to the types of services described in clauses (A) and (B); and
 
@@ -30,7 +30,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 &emsp;(A) operates a Head Start program;
 
-&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community with a near-reservation designation, as defined by the Bureau ofIndian Affairs) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
+&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community with a near-reservation designation, as defined by the Bureau of Indian Affairs) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
 
 &emsp;(C) has the resources to enroll additional children in the community who do not meet the low-income criteria;
 

@@ -42,7 +42,7 @@ In any fiscal year beginning after September 30, 1993, the Secretary may, based 
 
 Not more than 5 percent of any grant awarded under this section may be used for administrative expenses.
 
-(Pub. L. 89 329, title V, §580A, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 710.)
+(Pub. L. 89–329, title V, §580A, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 710.)
 
 #### Section Referred to in Other Sections
 

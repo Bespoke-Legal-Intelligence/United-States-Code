@@ -76,7 +76,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(C) Any retail facility (other than parking) for passengers or the general public located outside the exempt facility terminal.
 
-&emsp;&emsp;(D) Any office building for individuals who are not employees of a governmental unit or of the operating authority for the exempt facility.
+&emsp;&emsp;(D) Any office building for individuals who are not employees of a governmental unit orof the operating authority for the exempt facility.
 
 &emsp;&emsp;(E) Any industrial park or manufacturing facility.
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) “170 percent” for “140 percent”, and
 
-&emsp;&emsp;&emsp;(ii) “any low-income unit in the same project is occupied by a new resident whose income exceeds 40 percent of area median gross income” for “any residential unit of comparable or smaller size in thesame project is occupied by a new resident whose income exceeds the applicable income limit”.
+&emsp;&emsp;&emsp;(ii) “any low-income unit in the same project is occupied by a new resident whose income exceeds 40 percent of area median gross income” for “any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit”.
 
 #### (B) Deep rent skewed project
 
@@ -218,7 +218,7 @@ For purposes of subsection (a)(8)—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(9), the term “local district heating or cooling facility”means property used as an integral part of a local district heating or cooling system.
+&emsp;For purposes of subsection (a)(9), the term “local district heating or cooling facility” means property used as an integral part of a local district heating or cooling system.
 
 #### (2) Local district heating or cooling system
 
@@ -238,7 +238,7 @@ For purposes of subsection (a)(8)—
 
 For purposes of subsection (a)(10), the term “qualified hazardous waste facility” means any facility for the disposal of hazardous waste by incineration or entombment but only if—
 
-&emsp;(1) the facility is subject to final permit requirements under subtitle C of title II of the Solid Waste Disposal Act (as in effect on the date of the enactment of the Tax Reform Act of 1986), and
+&emsp;(1) the facility is subject to final permit requirements under subtitle C of title II of theSolid Waste Disposal Act (as in effect on the date of the enactment of the Tax Reform Act of 1986), and
 
 &emsp;(2) the portion of such facility which is to be provided by the issue does not exceed the portion of the facility which is to be used by persons other than—
 
@@ -326,7 +326,7 @@ Subsec. (i)(1). Pub. L. 101–239, §7816(s)(1), inserted heading “In general�
 
 Subsec. (b)(1)(B)(ii). Pub. L. 100–647, §1013(a)(39), inserted “section” before “168(i)(3)”.
 
-Subsec. (c). Pub. L. 100–647, §6180(b)(2), substituted “mass commuting facilities and high-speed intercity rail facilities” for “and mass commuting facilities” in heading and substituted “paragraph (1), (2), (3) or (11) of subsection (a)” for “paragraph (1), (2), or (3) of subsection (a)” in par. (1) and in introductory text of par. (2).
+Subsec. (c). Pub. L. 100–647, §6180(b)(2), substituted “mass commuting facilities and high-speed intercity rail facilities” for “and mass commuting facilities” inheading and substituted “paragraph (1), (2), (3) or (11) of subsection (a)” for “paragraph (1), (2), or (3) of subsection (a)” in par. (1) and in introductory text of par. (2).
 
 Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted “average gross rent” for “average rent”.
 

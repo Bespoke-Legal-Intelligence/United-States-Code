@@ -20,7 +20,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;&emsp;(ii) were incurred by or on behalf of the person who suffered such injury, and
 
-&emsp;&emsp;(iii) were for diagnosis, medical or other remedial care, rehabilitation, developmentalevaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, special equipment, related travel expenses, and facilities determined to be reasonably necessary.
+&emsp;&emsp;(iii) were for diagnosis, medical or other remedial care, rehabilitation, developmental evaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, special equipment, related travel expenses, and facilities determined to be reasonably necessary.
 
 &emsp;(2) In the event of a vaccine-related death, an award of $250,000 for the estate of the deceased.
 
@@ -74,7 +74,7 @@ Compensation awarded under the Program may not include the following:
 
 (3) Payments of compensation under the Program and the costs of carrying out the Program shall be exempt from reduction under any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
-(4)(A) Except as provided in subparagraph (B), payment of compensation under the Program shall be determined on the basis of the netpresent value of the elements of the compensation and shall be paid from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26 in a lump sum of which all or a portion may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner.
+(4)(A) Except as provided in subparagraph (B), payment of compensation under the Program shall be determined on the basis of the net present value of the elements of the compensation and shall be paid from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26 in a lump sum of which all or a portion may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner.
 
 (B) In the case of a payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, the compensation shall be determined on the basis of the net present value of the elements of compensation and shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner. Any reasonable attorneys’ fees and costs shall be paid in a lump sum. If the appropriations under subsection (j) of this section are insufficient to make a payment of an annual installment, the limitation on civil actions prescribed by section 300aa–21(a) of this title shall not apply to a civil action for damages brought by the petitioner entitled to the payment.
 
@@ -92,7 +92,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 &emsp;(2) no entity which provides health services on a prepaid basis or provides health benefits,
 
-> may make the provision of health services or health benefits secondary to the payment of compensation under the Program, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+> may make the provision of health services or health benefits secondary to the payment ofcompensation under the Program, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (i) Source of compensation
 
@@ -150,7 +150,7 @@ Subsec. (e)(1). Pub. L. 101–239, §6601(<i>l</i>)(2)(A), substituted “In awa
 
 Pub. L. 101–239, §6601(<i>l</i>)(2)(B), (C), substituted “the special master or court may award an amount of compensation to cover” for “the court may include in the judgment an amount to cover” and “the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition” for “the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action”.
 
-Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
+Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executedbecause of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
 Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to have such action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
 
@@ -180,7 +180,7 @@ Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as 
 
 Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: “The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title.”
 
-Subsec. (b). Pub. L. 100–203, §4303(e), substituted “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and othercosts under subsection (e) of this section may not exceed $30,000” for “shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section”.
+Subsec. (b). Pub. L. 100–203, §4303(e), substituted “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000” for “shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section”.
 
 Pub. L. 100–203, §4302(b)(1), substituted “effective date of this subpart” for “effective date of this part”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, notwithstanding any other provision of law, no funds appropriated or otherwise madeavailable to the Secretary of the Interior to carry out section 462(e) or 462(f) of this title may be obligated or expended after October 30, 1992—
+Except as provided in subsection (b) of this section, notwithstanding any other provision of law, no funds appropriated or otherwise made available to the Secretary of the Interior to carry out section 462(e) or 462(f) of this title may be obligated or expended after October 30, 1992—
 
 &emsp;(1) unless the appropriation of such funds has been specifically authorized by law enacted on or after October 30, 1992; or
 

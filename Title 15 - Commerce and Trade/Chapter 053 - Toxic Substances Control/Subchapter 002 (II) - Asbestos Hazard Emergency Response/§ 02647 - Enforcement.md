@@ -36,7 +36,7 @@ A local educational agency is not liable for any civil penalty under subchapter 
 
 #### (d) Citizen complaints
 
-Any person may file a complaint with the Administrator or with the Governor of the State in which the school building is located with respect to asbestos-containing material in a school building. If the Administrator or Governor receives a complaint under this subsection containing allegations which provide a reasonable basis to believe that a violation of this chapter has occurred, the Administrator or Governor shall investigate and respond (including taking enforcement action where appropriate) to the complaint within a reasonable period of time.
+Any person may file a complaint with the Administrator or with the Governor of the State inwhich the school building is located with respect to asbestos-containing material in a school building. If the Administrator or Governor receives a complaint under this subsection containing allegations which provide a reasonable basis to believe that a violation of this chapter has occurred, the Administrator or Governor shall investigate and respond (including taking enforcement action where appropriate) to the complaint within a reasonable period of time.
 
 #### (e) Citizen petitions
 
@@ -66,27 +66,27 @@ Any contractor who—
 
 &emsp;(3) employs individuals to conduct response actions with respect to friable asbestos-containing material in a school, public or commercial building;
 
-> and who fails to obtain the accreditation under section 2646 of this title, or in the case of employees to require or provide for the accreditation required, is liable for a civil penalty of not more than $5,000 for each day during which theviolation continues, unless such contractor is a direct employee of the Federal Government.
+> and who fails to obtain the accreditation under section 2646 of this title, or in the case of employees to require or provide for the accreditation required, is liable for a civil penalty of not more than $5,000 for each day during which the violation continues, unless such contractor is a direct employee of the Federal Government.
 
-(Pub. L. 94 469, title II, §207, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2983; amended Pub. L. 100 368, §5, July 18, 1988, 102 Stat. 833; Pub. L. 101 637, §15(a)(4), Nov. 28, 1990, 104 Stat. 4596.)
+(Pub. L. 94–469, title II, §207, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2983; amended Pub. L. 100–368, §5, July 18, 1988, 102 Stat. 833; Pub. L. 101–637, §15(a)(4), Nov. 28, 1990, 104 Stat. 4596.)
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101 637 added subsec. (g).
+1990—Subsec. (g). Pub. L. 101–637 added subsec. (g).
 
-1988—Subsec. (a)(4), (5). Pub. L. 100 368 added pars. (4) and (5).
+1988—Subsec. (a)(4), (5). Pub. L. 100–368 added pars. (4) and (5).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 637 effective upon expiration of 12-month period following Nov. 28, 1990, with provisions for extension, see section 15(c) of Pub. L. 101 637, set out as a note under section 2646 of this title.
+Amendment by Pub. L. 101–637 effective upon expiration of 12-month period following Nov. 28, 1990, with provisions for extension, see section 15(c) of Pub. L. 101–637, set out as a note under section 2646 of this title.
 
 #### EPA Administrator Not Exercising “Statutory Authority” Under OSHA Law in Exercising Authority Under This Chapter
 
-In exercising any authority under this chapter in connection with amendment made by Pub. L. 101 637, Administrator of Environmental Protection Agency not, for purposes of section 653(b)(1) of Title 29, Labor, to be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health, see section 15(b) of Pub. L. 101 637, set out as a note under section 2646 of this title.
+In exercising any authority under this chapter in connection with amendment made by Pub. L. 101–637, Administrator of Environmental Protection Agency not, for purposes of section 653(b)(1) of Title 29, Labor, to be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health, see section 15(b) of Pub. L. 101–637, set out as a note under section 2646 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 20 section 4022.
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

@@ -48,7 +48,7 @@ In carrying out the duties established in subsection (b) of this section, the Di
 
 #### References in Text
 
-The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(6), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(6), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114\(§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 The Community Mental Health Centers Act, referred to in subsec. (b)(12), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
@@ -64,5 +64,5 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 #### Mental Health Services for Individuals in Correctional Facilities
 
-Section 703 of Pub. L. 102–321 provided that: “Not later than 18 months after the date of enactment of this Act \[July 10, 1992\], the Secretary of Health and Human Services, acting through the Director of the Center for Mental Health Services, shall prepare and submit to the appropriate committees of Congress a report concerning the most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services. Such study shall be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.”
+Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
 

@@ -4,7 +4,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(1) there is pending before the United States District Court for the District of Massachusetts a lawsuit that involves Indian claims to certain public lands within the town of Gay Head, Massachusetts;
 
-&emsp;(2) the pendency of this lawsuit has resulted in severe economic hardships for the residentsof the town of Gay Head by clouding the titles to much of the land in the town, including land not involved in the lawsuit;
+&emsp;(2) the pendency of this lawsuit has resulted in severe economic hardships for the residents of the town of Gay Head by clouding the titles to much of the land in the town, including land not involved in the lawsuit;
 
 &emsp;(3) the Congress shares with the Commonwealth of Massachusetts and the parties to the lawsuit a desire to remove all clouds on titles resulting from such Indian land claim; <sup>1</sup>
 

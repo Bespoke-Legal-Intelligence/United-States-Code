@@ -16,5 +16,5 @@ The Secretary shall report to the President and the Congress on the effectivenes
 
 Funds received under this part shall not be used for construction or renovation of buildings, rooms, or any other facilities.
 
-(Pub. L. 89 10, title II, §2401, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3635.)
+(Pub. L. 89–10, title II, §2401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635.)
 

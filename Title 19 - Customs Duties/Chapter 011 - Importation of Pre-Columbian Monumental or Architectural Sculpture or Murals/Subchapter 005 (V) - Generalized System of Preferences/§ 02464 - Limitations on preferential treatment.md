@@ -28,7 +28,7 @@ The President shall, after complying with the requirements of section 2462(a)(2)
 
 &emsp;(ii) “25 percent” for “50 percent” in subparagraph (B).
 
-(3)(A) Not earlier than January 4, 1987, the President may waive the application of this subsection with respect to any eligible article ofany beneficiary developing country if, before July 1 of the calendar year beginning after the calendar year for which a determination described in paragraph (1) was made with respect to such eligible article, the President—
+(3)(A) Not earlier than January 4, 1987, the President may waive the application of this subsection with respect to any eligible article of any beneficiary developing country if, before July 1 of the calendar year beginning after the calendar year for which a determination described in paragraph (1) was made with respect to such eligible article, the President—
 
 &emsp;(i) receives the advice of the International Trade Commission on whether any industry in the United States is likely to be adversely affected by such waiver,
 

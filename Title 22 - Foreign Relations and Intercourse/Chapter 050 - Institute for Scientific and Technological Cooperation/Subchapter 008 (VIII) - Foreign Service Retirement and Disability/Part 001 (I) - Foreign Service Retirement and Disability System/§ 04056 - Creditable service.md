@@ -20,7 +20,7 @@ In computing any annuity under this part, the total service of a participant who
 
 #### (c) Service with other Government agency when on approved leave without pay; arrangement for payment of retirement deductions and agency contributions; special contribution
 
-(1) A participant who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of Government employees may, within 60 days after entering on that leave without pay, file with the employing agency an election to receive full retirement credit for such periods of leave without pay and arrange to pay concurrently into the Fund through the employing agency, amounts equal to the retirement deductions and agency contributions on the Foreign Service salary rate that would be applicable if the participant were in a pay status. If the election and all payments provided by this subsection are not made for the periods of suchleave without pay occurring after November 7, 1976, the participant may not receive any credit for such periods of leave without pay occurring after such date.
+(1) A participant who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of Government employees may, within 60 days after entering on that leave without pay, file with the employing agency an election to receive full retirement credit for such periods of leave without pay and arrange to pay concurrently into the Fund through the employing agency, amounts equal to the retirement deductions and agency contributions on the Foreign Service salary rate that would be applicable if the participant were in a pay status. If the election and all payments provided by this subsection are not made for the periods of such leave without pay occurring after November 7, 1976, the participant may not receive any credit for such periods of leave without pay occurring after such date.
 
 (2) A participant may make a special contribution for any period or periods of approved leave without pay while serving before November 7, 1976, as a full-time officer or employee of an organization composed primarily of Government employees. Any such contribution shall be based upon the suspended Foreign Service salary rate and shall be computed in accordance with section 4045 of this title. A participant who makes such contributions shall be allowed full retirement credit for the period or periods of leave without pay. If this contribution is not made, up to 6 months’ retirement credit shall be allowed for such periods of leave without pay each calendar year.
 
@@ -82,7 +82,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 <i>Section 5 of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48445, set out as a note under section 4067 of this title, provided that:</i>
 
-“(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this Order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
+“(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United StatesCode, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this Order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
 “(b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 
@@ -106,7 +106,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 
-<i>(2) no contribution is required for such service as provided under section 4045(f) of this title as</i><i>deemed to be amended by this Order, or under any other statute.</i>
+<i>(2) no contribution is required for such service as provided under section 4045(f) of this title as deemed to be amended by this Order, or under any other statute.</i>
 
 #### Amendments
 

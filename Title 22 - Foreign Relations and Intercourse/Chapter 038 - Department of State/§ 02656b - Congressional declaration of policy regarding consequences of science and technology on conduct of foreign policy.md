@@ -2,7 +2,7 @@
 
 In order to maximize the benefits and to minimize the adverse consequences of science and technology in the conduct of foreign policy, the Congress declares the following to be the policy of the United States:
 
-&emsp;(1) Technological opportunities, impacts, changes, and threats should be anticipated and assessed, and appropriate measures should beimplemented to influence such technological developments in ways beneficial to the United States and other countries.
+&emsp;(1) Technological opportunities, impacts, changes, and threats should be anticipated and assessed, and appropriate measures should be implemented to influence such technological developments in ways beneficial to the United States and other countries.
 
 &emsp;(2) The mutually beneficial applications of technology in bilateral and multilateral agreements and activities involving the United States and foreign countries or international organizations should be recognized and supported as an important element of United States foreign policy.
 

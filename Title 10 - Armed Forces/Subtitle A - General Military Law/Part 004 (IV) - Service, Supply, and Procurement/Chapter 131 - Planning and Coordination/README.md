@@ -2,14 +2,14 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 2201\. | Apportionment of funds: authority for exemption; excepted expenses. |
-| 2202\. | Regulations on procurement, production, warehousing, and supply distribution functions. |
-| 2203\. | Budget estimates. |
-| 2204\. | Obligation of appropriations. |
-| 2205\. | Reimbursements. |
-| 2206\. | Disbursement of funds of military department to cover obligation of another agency of Department of Defense. |
-| 2207\. | Expenditure of appropriations: limitation. |
-| 2208\. | Working-capital funds. |
+| [2201\.](%C2%A7%2002201%20-%20Apportionment%20of%20funds%20authority%20for%20exemption%3B%20excepted%20expenses.md) | Apportionment of funds: authority for exemption; excepted expenses. |
+| [2202\.](%C2%A7%2002202%20-%20Regulations%20on%20procurement%2C%20production%2C%20warehousing%2C%20and%20supply%20distribution%20functions.md) | Regulations on procurement, production, warehousing, and supply distribution functions. |
+| [2203\.](%C2%A7%2002203%20-%20Budget%20estimates.md) | Budget estimates. |
+| [2204\.](%C2%A7%2002204%20-%20Obligation%20of%20appropriations.md) | Obligation of appropriations. |
+| [2205\.](%C2%A7%2002205%20-%20Reimbursements.md) | Reimbursements. |
+| [2206\.](%C2%A7%2002206%20-%20Disbursement%20of%20funds%20of%20military%20department%20to%20cover%20obligation%20of%20another%20agency%20of%20Department%20of%20Defense.md) | Disbursement of funds of military department to cover obligation of another agency of Department of Defense. |
+| [2207\.](%C2%A7%2002207%20-%20Expenditure%20of%20appropriations%20limitation.md) | Expenditure of appropriations: limitation. |
+| [2208\.](%C2%A7%2002208%20-%20Working-capital%20funds.md) | Working-capital funds. |
 | [2209\.](%C2%A7%2002209%20-%20Management%20funds.md) | Management funds. |
 | [2210\.](%C2%A7%2002210%20-%20Proceeds%20of%20sales%20of%20supplies%20credit%20to%20appropriations.md) | Proceeds of sales of supplies: credit to appropriations. |
 | [2211\.](%C2%A7%2002211%20-%20Reimbursement%20for%20equipment%2C%20material%2C%20or%20services%20furnished%20members%20of%20the%20United%20Nations.md) | Reimbursement for equipment, material, or services furnished members of the United Nations. |
@@ -37,7 +37,7 @@ Pub. L. 103–337, div. A, title III, §373(b), div. B, title XXVIII, §2804(b)(
 
 1991—Pub. L. 102–190, div. A, title III, §317(b), Dec. 5, 1991, 105 Stat. 1338, added item 2213.
 
-1990—Pub. L. 101–510, div. A, title XIII, §1331(2), title XIV, §§1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
+1990—Pub. L. 101–510, div. A, title XIII, §1331(2), title XIV, §§1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck outitems 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
 
 1988—Pub. L. 100–370, §1(d)(4), July 19, 1988, 102 Stat. 843, added items 2201, 2212, and 2217.
 

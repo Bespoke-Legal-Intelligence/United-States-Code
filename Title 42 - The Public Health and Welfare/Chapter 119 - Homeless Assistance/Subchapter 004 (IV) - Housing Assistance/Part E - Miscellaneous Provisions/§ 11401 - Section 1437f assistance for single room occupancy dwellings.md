@@ -6,7 +6,7 @@ The budget authority available under section 1437c(c) of this title for assistan
 
 #### (b) Use of funds
 
-The amounts made available under this section shall be used only in connection with the moderate rehabilitation of housing described in section 1437f(n) of this title for occupancy by homeless individuals, except that amounts made available under this section may be used in connection with the moderate rehabilitation of efficiency units if the building owner agrees to pay the additional cost of rehabilitating and operating such units.,<sup>2</sup> and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary.
+The amounts made available under this section shall be used only in connection with themoderate rehabilitation of housing described in section 1437f(n) of this title for occupancy by homeless individuals, except that amounts made available under this section may be used in connection with the moderate rehabilitation of efficiency units if the building owner agrees to pay the additional cost of rehabilitating and operating such units.,<sup>2</sup> and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary.
 
 #### (c) Allocation
 
@@ -60,7 +60,7 @@ The Secretary shall, by regulation, require each approved applicant receiving as
 
 #### (i) Termination of assistance
 
-If an individual or family who receives assistance under this section violates program requirements, the recipient of amounts made available under this section may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law.
+If an individual or family who receives assistance under this section violates program requirements, the recipient of amounts made available under this section may terminate assistance in accordance with a formal process established by the recipient that recognizes therights of individuals receiving such assistance to due process of law.
 
 #### (j) Definitions
 

@@ -22,7 +22,7 @@ The Controlled Substances Act, referred to in par. (2), is title II of Pub. L. 9
 
 #### Codification
 
-In par. (3), “section 5845 of title 26” substituted for “section 2733 of title 26” on authority of section 7852(b) of Title 26, Internal Revenue Code, which provides that a reference in other laws to the Internal Revenue Code of 1939 is deemed a reference to corresponding provision of the Internal Revenue Code of 1986.
+In par. (3), “section 5845 of title 26” substituted for “section 2733 of title 26” on authority of section 7852(b)of Title 26, Internal Revenue Code, which provides that a reference in other laws to the Internal Revenue Code of 1939 is deemed a reference to corresponding provision of the Internal Revenue Code of 1986.
 
 #### Amendments
 

@@ -24,9 +24,9 @@ The customs laws, referred to in subsec. (b)(2), are classified generally to thi
 
 #### Prior Provisions
 
-Provisions substantially the same as those of this section were contained in act Oct. 3, 1913, ch. 16, §III, P, 38 Stat. 188, which substantially reenacted the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §17, 26 Stat. 139, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 100. Section III, P, of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §509, 42 Stat. 968, and repealed by section 643 thereof. Section 509 of the 1922 act was superseded by section 510 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially the same as those in this section were contained in act Oct. 3, 1913, ch. 16, §III, P, 38 Stat. 188, which substantially reenacted the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §17, 26 Stat. 139, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 100. Section III, P, of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §509, 42 Stat. 968, and repealed by section 643 thereof. Section 509 of the 1922 act was superseded by section 510 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions similar to those of this section were contained in R.S. §§2923, 2924, prior to repeal by section 29 of the Customs Administrative Act of June 10, 1890, 26 Stat. 141.
+Prior provisions similar to those in this section were contained in R.S. §§2923, 2924, prior to repeal by section 29 of the Customs Administrative Act of June 10, 1890, 26 Stat. 141.
 
 #### Amendments
 

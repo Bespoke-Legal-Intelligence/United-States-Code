@@ -6,7 +6,7 @@
 
 (2) The Commissioner shall be compensated at the rate provided for level I of the Executive Schedule.
 
-(3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removed from office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
+(3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removedfrom office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
 
 (4) The Commissioner shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall have authority and control over all personnel and activities thereof.
 
@@ -72,23 +72,7 @@ Pub. L. 101–508, title V, §5108, Nov. 5, 1990, 104 Stat. 1388–269, directed
 
 #### Telephone Access to Social Security Administration
 
-Section 302 of Pub. L. 103–296 provided that:
-
-“(a)
-
-Study.—The Comptroller General of the United States shall conduct a study of telephone access to local offices of the Social Security Administration.
-
-“(b)
-
-Matters to be Studied.—In conducting the study under this section, the Comptroller General shall make an independent assessment of the Social Security Administration's use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration. Such study shall include—
-
-&emsp;“(1) an assessment of the aggregate impact of such technology on public access to the local offices, and
-
-&emsp;“(2) a separate assessment of the impact of such technology on public access to those local offices to which access was restricted on October 1, 1989.
-
-“(c)
-
-Report.—Not later than January 31, 1996, the Comptroller General shall submit a report on the results of the study conducted pursuant to this section to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Section 302 of Pub. L. 103–296 directed Comptroller General of the United States to submit to Congress, not later than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration's use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
 
 Pub. L. 101–508, title V, §5110, Nov. 5, 1990, 104 Stat. 1388–272, provided that:
 

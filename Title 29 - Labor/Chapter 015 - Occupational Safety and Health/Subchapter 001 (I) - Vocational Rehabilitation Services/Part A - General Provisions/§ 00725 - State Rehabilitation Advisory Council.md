@@ -8,7 +8,7 @@
 
 #### (2) Separate agency for individuals who are blind
 
-&emsp;A State that designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind under section 721(a)(1)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
+&emsp;A State that designates a State agency to administer the part of the State plan underwhich vocational rehabilitation services are provided for individuals who are blind under section 721(a)(1)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
 
 #### (b) Composition and appointment
 
@@ -176,7 +176,7 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 #### (f) Meetings
 
-The Council shall convene at least 4 meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
+The Council shall convene at least 4 meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forumsshall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
 
 #### (g) Compensation and expenses
 
@@ -190,7 +190,7 @@ The Council is authorized to hold such hearings and forums as the Council may de
 
 To the extent that a State has established a Council before September 30, 1992, that is comparable to the Council described in this section, such established Council shall be considered to be in compliance with this section. Within 1 year after October 29, 1992, such State shall establish a Council that complies in full with this section.
 
-(Pub. L. 93–112, title I, §105, as added Pub. L. 102–569, title I, §126(a), Oct. 29, 1992, 106 Stat.4381; amended Pub. L. 103–73, title I, §107(d)(1), Aug. 11, 1993, 107 Stat. 721.)
+(Pub. L. 93–112, title I, §105, as added Pub. L. 102–569, title I, §126(a), Oct. 29, 1992, 106 Stat. 4381; amended Pub. L. 103–73, title I, §107(d)(1), Aug. 11, 1993, 107 Stat. 721.)
 
 #### References in Text
 

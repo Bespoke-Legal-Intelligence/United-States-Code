@@ -74,7 +74,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
-> If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
+> If there was no incidental taking of marine mammals during the reporting period, a reportstating that fact shall be filed with the Secretary.
 
 #### (d) Program for enhancement and verification of information received from vessel owners; confidentiality of information
 
@@ -170,7 +170,7 @@ The Secretary shall design and implement an information management system capabl
 
 #### (i) Utilization of services of State and Federal agencies and private entities
 
-When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by the Secretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
+When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by theSecretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
 
 #### (j) Confidentiality of information; exceptions
 
@@ -188,7 +188,7 @@ When carrying out the Secretary's responsibilities under subsections (b), (d), (
 
 #### (k) Regulations
 
-The Secretary, in consultation with any other Federal agency to the extent that such agencymay be affected, shall prescribe such regulations as necessary and appropriate to carry out the purposes of this section.
+The Secretary, in consultation with any other Federal agency to the extent that such agency may be affected, shall prescribe such regulations as necessary and appropriate to carry out the purposes of this section.
 
 #### (<i>l</i>) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
 
@@ -246,7 +246,7 @@ As used in this section—
 
 &emsp;(4) the term “vessel of the United States” has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
 
-(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559.)
+(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995, 109 Stat. 390.)
 
 #### References in Text
 
@@ -254,15 +254,21 @@ Section 1802 of this title, referred to in subsec. (<i>o</i>)(4), was subsequent
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–238 which directed the substitution of “until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier,” for “ending April 1, 1994,”, was executed by making the substitution for “ending May 1, 1994.” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 103–228. See below.
+1995—Pub. L. 104–43 amended directory language of Pub. L. 103–238. See 1994 Amendment note below.
+
+1994—Subsec. (a)(1). Pub. L. 103–238, as amended by Pub. L. 104–43, substituted “until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier,” for “ending May 1, 1994.”
 
 Pub. L. 103–228 substituted “May 1, 1994.” for “April 1, 1994,”.
 
 1993—Subsec. (a)(1). Pub. L. 103–86 substituted “April 1, 1994” for “October 1, 1993”.
 
+#### Effective Date of 1995 Amendment
+
+Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective on and after April 30, 1994.”
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

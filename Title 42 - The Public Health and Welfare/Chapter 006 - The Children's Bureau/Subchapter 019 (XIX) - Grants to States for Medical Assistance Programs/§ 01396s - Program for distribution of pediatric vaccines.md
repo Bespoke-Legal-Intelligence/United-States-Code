@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b) of this section), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8) of this section) from a program-registered provider (as defined in subsection (c) of this section) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
 
-&emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii) no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
+&emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii)no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
 
 #### (2) Delivery of sufficient quantities of pediatric vaccines to immunize federally vaccine-eligible children
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (B) Negotiation of discounted price for current vaccines
 
-&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
+&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average)from May 1993 to the month before the month in which such contract is entered into.
 
 #### (C) Negotiation of discounted price for new vaccines
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (7) Multiple suppliers
 
-&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter intoa contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
+&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
 
 #### (e) Use of pediatric vaccines list
 
@@ -180,7 +180,7 @@ For purposes of this section:
 
 &emsp;(3) The terms “Indian”, “Indian tribe” and “tribal organization” have the meanings given such terms in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\].
 
-&emsp;(4) The term “manufacturer” means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label any pediatric vaccine. The term “manufacture” means to manufacture, import, process, or distribute a vaccine.
+&emsp;(4) The term “manufacturer” means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label anypediatric vaccine. The term “manufacture” means to manufacture, import, process, or distribute a vaccine.
 
 &emsp;(5) The term “parent” includes, with respect to a child, an individual who qualifies as a legal guardian under State law.
 

@@ -74,7 +74,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (C) Rate of interest
 
-&emsp;&emsp;Interest on advances made to the Superfund shall be at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding and shall be compounded annually.
+&emsp;&emsp;Interest on advances made to the Superfund shall be at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month inwhich the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding and shall be compounded annually.
 
 #### (e) Liability of United States limited to amount in Trust Fund
 
@@ -126,7 +126,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this sectionshall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
+Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 
 #### Authorization of Appropriations
 

@@ -48,7 +48,7 @@ Except to the extent otherwise provided by this title, any election under this t
 
 &emsp;&emsp;(B) the consideration (and discussion) required under paragraph (2) shall be made in connection with the promulgation of such final regulation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 917; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §43(b), 98 Stat. 558; Nov. 10, 1988, Pub. L. 100–647, title VI, §6232(a), 102 Stat. 3734; Nov. 5, 1990, Pub. L. 101–508, title XI, §11621(a), 104 Stat. 1388–503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 917; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat.1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §43(b), 98 Stat. 558; Nov. 10, 1988, Pub. L. 100–647, title VI, §6232(a), 102 Stat. 3734; Nov. 5, 1990, Pub. L. 101–508, title XI, §11621(a), 104 Stat. 1388–503.)
 
 #### Amendments
 

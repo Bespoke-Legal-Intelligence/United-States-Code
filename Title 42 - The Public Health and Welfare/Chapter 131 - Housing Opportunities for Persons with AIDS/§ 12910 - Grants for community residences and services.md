@@ -22,7 +22,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (B) Rent
 
-&emsp;&emsp;Except to the extent that the costs of providing residence are reimbursed or providedby any other assistance from Federal or non-Federal public sources, each resident in a community residence shall pay as rent for a dwelling unit an amount equal to the following:
+&emsp;&emsp;Except to the extent that the costs of providing residence are reimbursed or provided by any other assistance from Federal or non-Federal public sources, each resident in a community residence shall pay as rent for a dwelling unit an amount equal to the following:
 
 &emsp;&emsp;&emsp;(i) For low-income individuals, the amount of rent paid under section 3(a) of the United States Housing Act of 1937 (42 U.S.C. 1437a(a)) by a low-income family (as the term is defined in section 3(b)(2) of such Act (42 U.S.C. 1437a(b)(2))) for a dwelling unit assisted under such Act \[42 U.S.C. 1437 et seq.\].
 
@@ -96,7 +96,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (2) Services
 
-&emsp;Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
+&emsp;Any jurisdiction that receives a grant under this section may use any amounts receivedunder the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
 
 (Pub. L. 101–625, title VIII, §861, Nov. 28, 1990, 104 Stat. 4382; Pub. L. 102–550, title VI, §606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, 106 Stat. 3810, 3811.)
 

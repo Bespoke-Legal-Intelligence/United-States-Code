@@ -20,7 +20,7 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (A) Museum facility
 
-&emsp;&emsp;The Board of Regents shall plan, design, and construct a significant facility for theNational Museum in the space leased under paragraph (1).
+&emsp;&emsp;The Board of Regents shall plan, design, and construct a significant facility for the National Museum in the space leased under paragraph (1).
 
 #### (B) Auditorium and loading dock facility
 
@@ -112,7 +112,7 @@ Location.—The memorial shall be located at a site determined to be suitable by
 
 “(c)
 
-Design and Plans.—(1) The National Congress of American Indians, in consultation with the Museum, is authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 \[(b)\]), and with any existing design plans for the Museum's structure and its surroundings.
+Design and Plans.—(1) The National Congress of American Indians, in consultation with the Museum, is authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 \[(b)\]), and with any existingdesign plans for the Museum's structure and its surroundings.
 
 “(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
 

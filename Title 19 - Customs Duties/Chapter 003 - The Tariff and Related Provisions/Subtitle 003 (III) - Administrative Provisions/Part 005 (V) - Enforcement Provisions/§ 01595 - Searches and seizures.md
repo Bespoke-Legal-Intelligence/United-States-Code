@@ -22,7 +22,7 @@ Any person authorized by this chapter to make searches and seizures, or any pers
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §595, 42 Stat. 983. That section was superseded by section 595 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §595, 42 Stat. 983. That section was superseded by section 595 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions somewhat similar to those in subsec. (a), but authorizing searches in the daytime only, with a further provision as to forfeitures, were contained in R.S. §3066, as amended by act Apr. 25, 1882, ch. 89, 22 Stat. 49. Provisions for searches of buildings on or near the boundary line, and for seizure and forfeiture of merchandise, and removal of the building, were contained in R.S. §3107. Provisions empowering persons, authorized to make searches and seizures, to enter into or upon lands, inclosures, and buildings, were contained in R.S. §3065. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

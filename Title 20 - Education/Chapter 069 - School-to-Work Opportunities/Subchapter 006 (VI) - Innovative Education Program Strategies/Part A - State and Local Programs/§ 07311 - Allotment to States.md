@@ -16,5 +16,5 @@ For purposes of this part:
 
 &emsp;(2) The term “States” includes the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 89 10, title VI, §6101, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3708.)
+(Pub. L. 89–10, title VI, §6101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3708.)
 

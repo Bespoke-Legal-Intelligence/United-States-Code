@@ -6,7 +6,7 @@ The purpose of this subchapter is to provide for the termination of Federal supe
 
 #### Repeal of Inconsistent Laws
 
-Section 20 of act Sept. 1, 1954, provided that: “All Acts or parts of Acts inconsistent with this Act \[thissubchapter\] are repealed insofar as they affect the tribe or its members. The Act of June 18, 1934 (48 Stat. 984), as amended by the Act of June 15, 1935 (49 Stat. 378) \[section 461 et seq. of this title\], shall not apply to the tribe and its members after the date of the proclamation provided for in section 17 of this Act \[section 757 of this title\].”
+Section 20 of act Sept. 1, 1954, provided that: “All Acts or parts of Acts inconsistent with this Act \[this subchapter\] are repealed insofar as they affect the tribe or its members. The Act of June 18, 1934 (48 Stat. 984), as amended by the Act of June 15, 1935 (49 Stat. 378) \[section 461 et seq. of this title\], shall not apply to the tribe and its members after the date of the proclamation provided for in section 17 of this Act \[section 757 of this title\].”
 
 #### Separability
 

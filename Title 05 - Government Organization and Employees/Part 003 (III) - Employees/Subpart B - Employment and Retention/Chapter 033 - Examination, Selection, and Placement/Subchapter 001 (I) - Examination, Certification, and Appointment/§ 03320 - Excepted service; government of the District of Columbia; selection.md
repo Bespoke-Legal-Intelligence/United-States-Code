@@ -32,5 +32,5 @@ Pub. L. 93–198, title VII, §734, Dec. 24, 1973, 87 Stat. 823, authorized the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 241; title 22 section 1438.
+This section is referred to in title 22 section 1438.
 

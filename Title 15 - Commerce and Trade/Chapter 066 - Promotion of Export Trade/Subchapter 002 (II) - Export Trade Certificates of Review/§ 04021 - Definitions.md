@@ -24,9 +24,9 @@ As used in this subchapter—
 
 &emsp;(8) the term “Attorney General” means the Attorney General of the United States or his designee.
 
-(Pub. L. 97 290, title III, §311, Oct. 8, 1982, 96 Stat. 1245.)
+(Pub. L. 97–290, title III, §311, Oct. 8, 1982, 96 Stat. 1245.)
 
 #### Effective Date
 
-Section effective Oct. 8, 1982, see section 312 of Pub. L. 97 290, set out as a note under section 4011 of this title.
+Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 

@@ -14,7 +14,7 @@ Subsection (m) of section 914 of title 33, referred to in subsec. (a), was repea
 
 #### Codification
 
-“Subchapter I of chapter 81 of title 5” substituted for references to Act of September 7, 1916, as amended,known as the Federal Employees’ Compensation Act, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter I of chapter 81 of title 5” substituted for references to Act of September 7, 1916, as amended, known as the Federal Employees’ Compensation Act, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

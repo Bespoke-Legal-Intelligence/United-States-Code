@@ -18,7 +18,7 @@ It shall be unlawful for any person:
 
 #### (b) Penalty
 
-Any person who knowingly violates the provisions of subsection (a) of this section shall bepunished by a fine of not more than $500,000, imprisonment for not more than five years, or both.
+Any person who knowingly violates the provisions of subsection (a) of this section shall be punished by a fine of not more than $500,000, imprisonment for not more than five years, or both.
 
 #### (c) Civil actions
 

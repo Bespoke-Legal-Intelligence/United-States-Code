@@ -20,7 +20,7 @@ As used in this chapter, the term—
 
 &emsp;(9) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Canal Zone, Guam, American Samoa, the Trust Territory of the Pacific Islands and any other territory or possession of the United States.
 
-(Pub. L. 93 498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95 422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101 391, §3(b), Sept. 25, 1990, 104 Stat. 749.)
+(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749.)
 
 #### References in Text
 
@@ -28,9 +28,9 @@ For definition of Canal Zone, referred to in par. (9), see section 3602(b) of Ti
 
 #### Amendments
 
-1990—Pars. (4) to (9). Pub. L. 101 391 added pars. (4) and (7) and redesignated former pars. (4), (5), (6), and (7) as (5), (6), (8), and (9), respectively.
+1990—Pars. (4) to (9). Pub. L. 101–391 added pars. (4) and (7) and redesignated former pars. (4), (5), (6), and (7) as (5), (6), (8), and (9), respectively.
 
-1978—Pars. (2), (3). Pub. L. 95 422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+1978—Pars. (2), (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
 #### Transfer of Functions
 

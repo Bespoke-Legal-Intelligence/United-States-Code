@@ -14,7 +14,7 @@ The Board shall consist of 9 members as follows:
 
 &emsp;(3) An officer or employee of the United States Information Agency, designated by the Director of that Agency.
 
-&emsp;(4) Six academic specialists in international affairs or foreign languages, appointed by the Secretary of State (in consultation with the chairman and ranking minority member of the Committee on Foreign Affairs of the House of Representatives and the chairman and ranking minority <sup>1</sup> of the Committee on Foreign Relations of the Senate).
+&emsp;(4) Six academic specialists in international affairs or foreign languages, appointed by the Secretary of State (in consultation with the chairman and ranking minority member of theCommittee on Foreign Affairs of the House of Representatives and the chairman and ranking minority <sup>1</sup> of the Committee on Foreign Relations of the Senate).
 
 #### (c) Meetings
 
@@ -32,7 +32,7 @@ Members of the Board shall receive no compensation on account of their service o
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 

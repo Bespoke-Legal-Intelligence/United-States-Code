@@ -111,6 +111,8 @@
 | (b) | Appointment of attorney and commencement of action. |
 | (c) | Award of damages or other equitable relief; amount; criteria; appeal. |
 | (d) | Workers’ compensation benefits; exclusive remedy. |
+| (e) | Expansion of statutory damages. |
+| (f) | Tolling of statute of limitations. |
 | [1855\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/Part%20A%20-%20Enforcement%20Provisions/%C2%A7%2001855%20-%20Discrimination%20prohibited.md) | Discrimination prohibited. |
 | (a) | Prohibited activities. |
 | (b) | Proceedings for redress of violations. |

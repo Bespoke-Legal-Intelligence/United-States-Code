@@ -1,6 +1,6 @@
 ### §2577. Disposal of recyclable materials
 
-(a)(1) The Secretary of Defense shall prescribe regulations to provide for the sale of recyclable materials held by a military department or defense agency and for the operation of recyclingprograms at military installations. Such regulations shall include procedures for the designation by the Secretary of a military department (or by the Secretary of Defense with respect to facilities of a defense agency) of military installations that have established a qualifying recycling program for the purposes of subsection (b)(2).
+(a)(1) The Secretary of Defense shall prescribe regulations to provide for the sale of recyclable materials held by a military department or defense agency and for the operation of recycling programs at military installations. Such regulations shall include procedures for the designation by the Secretary of a military department (or by the Secretary of Defense with respect to facilities of a defense agency) of military installations that have established a qualifying recycling program for the purposes of subsection (b)(2).
 
 (2) Any sale of recyclable materials by the Secretary of Defense or Secretary of a military department shall be in accordance with the procedures in section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484) for the sale of surplus property.
 

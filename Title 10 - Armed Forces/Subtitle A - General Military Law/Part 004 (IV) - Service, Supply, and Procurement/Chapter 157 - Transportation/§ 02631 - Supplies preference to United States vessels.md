@@ -2,7 +2,7 @@
 
 (a) Only vessels of the United States or belonging to the United States may be used in the transportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
 
-(b)(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in theUnited States (including any territory of the United States).
+(b)(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States).
 
 (2) In paragraph (1), the term “reflagging or repair work” means work performed on a vessel—
 

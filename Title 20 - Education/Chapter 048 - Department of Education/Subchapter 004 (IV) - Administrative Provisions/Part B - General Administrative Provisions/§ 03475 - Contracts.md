@@ -8,7 +8,7 @@ Subject to the provisions of the Federal Property and Administrative Services Ac
 
 Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subchapter shall be effective except to such extent or in such amounts as are provided in advance under appropriation Acts. This subsection shall not apply with respect to the authority granted under section 3481 of this title.
 
-(Pub. L. 96 88, title IV, §415, Oct. 17, 1979, 93 Stat. 685.)
+(Pub. L. 96–88, title IV, §415, Oct. 17, 1979, 93 Stat. 685.)
 
 #### References in Text
 

@@ -32,5 +32,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 7011.
+This section is referred to in title 2 section 1351; title 7 section 7011.
 

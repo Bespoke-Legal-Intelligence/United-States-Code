@@ -10,7 +10,7 @@
 
 (c) The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
 
-(Added Pub. L. 100–456, div. A, title VIII, §834(a)(1), Sept. 29, 1988, 102 Stat. 2024; amended Pub. L. 103–355, title IV, §4102(h), title VIII, §8105(i), Oct. 13, 1994, 108 Stat. 3341, 3393.)
+(Added Pub. L. 100–456, div. A, title VIII, §834(a)(1), Sept. 29, 1988, 102 Stat. 2024; amendedPub. L. 103–355, title IV, §4102(h), title VIII, §8105(i), Oct. 13, 1994, 108 Stat. 3341, 3393.)
 
 #### Amendments
 

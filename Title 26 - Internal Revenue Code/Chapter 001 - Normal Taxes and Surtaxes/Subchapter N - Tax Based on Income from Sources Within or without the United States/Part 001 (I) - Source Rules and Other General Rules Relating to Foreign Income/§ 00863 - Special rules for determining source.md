@@ -110,7 +110,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 &emsp;For purposes of this section, the term “international communications income” includes all income derived from the transmission of communications or data from the United States to any foreign country (or possession of the United States) or from any foreign country (or possession of the United States) to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 277; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), 90 Stat. 1798, 1799, 1834; July 18,1984, Pub. L. 98–369, div. A, title I, §124(a), 98 Stat. 646; Oct. 22, 1986, Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), 100 Stat. 2536, 2539, 2540; Nov 10, 1988, Pub. L. 100–647, title I, §1012(e)(3)(A), (f), 102 Stat. 3500; Dec. 19, 1989, Pub. L. 101–239, title VII, §7811(i)(2), 103 Stat. 2409.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 277; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), 90 Stat. 1798, 1799, 1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §124(a), 98 Stat. 646; Oct. 22, 1986, Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), 100 Stat. 2536, 2539, 2540; Nov 10, 1988, Pub. L. 100–647, title I, §1012(e)(3)(A), (f), 102 Stat. 3500; Dec. 19, 1989, Pub. L. 101–239, title VII, §7811(i)(2), 103 Stat. 2409.)
 
 #### Amendments
 
@@ -208,7 +208,7 @@ For rule governing allocation under subsec. (b) of this section of amounts allow
 
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
-For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified research and experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States for taxable years beginning after Aug. 13, 1983, and onor before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
+For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified research and experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States for taxable years beginning after Aug. 13, 1983, and on or before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ Section 1(a)(2), (3) of Pub. L. 96–444 provided that:
 
 “(2) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under paragraph (1) \[amending subsec. (a) of this section\], shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a)–(e) and (<i>o</i>) of such section.
 
-“(3) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under paragraph (1) \[amending subsec. (a) of this section\], the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
+“(3) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under paragraph (1) \[amending subsec. (a) of this section\], the Architect of the Capitol is authorized to make a lump sum payment to each such employeefor that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
 
 #### Appointment of Garage Attendants; Compensation; Longevity Compensation
 

@@ -18,7 +18,7 @@
 
 #### (3) Character of income determined by reference to decedent
 
-&emsp;The right, described in paragraph (1), to receive an amount shall be treated, in the hands of the estate of the decedent or any person who acquired such right by reason of the death of the decedent, or by bequest, devise, or inheritance from the decedent, as if it had been acquired by the estate or such person in the transaction in which the right to receive the income was originally derived and the amount includible in gross income under paragraph (1)or (2) shall be considered in the hands of the estate or such person to have the character which it would have had in the hands of the decedent if the decedent had lived and received such amount.
+&emsp;The right, described in paragraph (1), to receive an amount shall be treated, in the hands of the estate of the decedent or any person who acquired such right by reason of the death of the decedent, or by bequest, devise, or inheritance from the decedent, as if it had been acquired by the estate or such person in the transaction in which the right to receive the income was originally derived and the amount includible in gross income under paragraph (1) or (2) shall be considered in the hands of the estate or such person to have the character which it would have had in the hands of the decedent if the decedent had lived and received such amount.
 
 #### (4) Installment obligations acquired from decedent
 
@@ -78,7 +78,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (C) Excess retirement accumulation tax
 
-&emsp;&emsp;For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).
+&emsp;&emsp;For purposes of this subsection, no deduction shall be allowed for the portion of theestate tax attributable to the increase in such tax under section 4980A(d).
 
 #### (2) Method of computing deduction
 
@@ -86,7 +86,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(A) The term “estate tax” means the tax imposed on the estate of the decedent or any prior decedent under section 2001 or 2101, reduced by the credits against such tax.
 
-&emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1)shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
+&emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
 
 &emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
 
-Section 6(b) of Pub. L. 96–471 provided: “The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Section 6(b) of Pub. L. 96–471 provided: “The amendment made by section 3 \[amending this section\] shallapply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 Amendment by Pub. L. 96–223 (repealing section 2005(a)(4) of Pub. L. 94–455 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 

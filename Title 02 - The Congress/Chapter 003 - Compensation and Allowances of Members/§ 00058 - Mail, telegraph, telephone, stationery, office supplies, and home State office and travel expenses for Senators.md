@@ -1,4 +1,4 @@
-### §58 . Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators
+### §58. Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators
 
 #### (a) Authorization for payment from Senate contingent fund
 
@@ -30,7 +30,7 @@ The contingent fund of the Senate is made available for payment (including reimb
 
 (1)(A) Except as is otherwise provided in the succeeding paragraphs of this subsection and subject to subparagraph (B) of this paragraph, the total amount of expenses authorized to be paid to or on behalf of a Senator under this section shall not exceed for calendar year 1977 or any calendar year thereafter an amount equal to one-half of the sum of the amounts authorized to be paid under this section on the day before August 5, 1977, to or on behalf of both of the Senators from the State which he represents, increased by an amount equal to twenty percent thereof and rounded to the next higher multiple of $1,000.
 
-(B) In the event that the term of office of a Senator begins after the first month of any such calendar year or ends (except by reason of death, resignation, or expulsion) before the last month of any such calendar year, the aggregate amount available to such Senator for such year shall be the aggregate amount computed under paragraph (1) of this subsection, divided by 12, and multiplied by the number of months in such year which are included in the Senator's term of office, counting any fraction of a month as a full month.
+(B) In the event that the term of office of a Senator begins after the first month of any such calendar year or ends (except by reason of death, resignation, or expulsion) before the last month of any such calendar year, the aggregate amount available to such Senator for such year shall be the aggregate amount computed under paragraph (1) of this subsection, divided by 12, and multiplied by the number of months in suchyear which are included in the Senator's term of office, counting any fraction of a month as a full month.
 
 (2)(A) In the case of the period which commences January 1, 1988, and ends September 30, 1988, the total of—
 
@@ -66,7 +66,7 @@ The contingent fund of the Senate is made available for payment (including reimb
 
 #### (e) Transportation, essential travel-related expenses, and per diem expenses; coverage; limitations; amounts
 
-Subject to and in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate, a Senator and the employees in his office shall be reimbursed under this section for travel expenses incurred by the Senator or employee while traveling on official business within the United States. The term “travel expenses” includes actual transportation expenses, essential travel-related expenses, and, where applicable, per diem expenses (but not in excess of actual expenses). A Senator or an employee of the Senator shall not be reimbursed for any travel expenses (other than actual transportation expenses) for any travel occurring during the sixty days immediately before the date of any primary or general election (whether regular, special, or runoff) in which the Senator is a candidate for public office (within the meaning of section 431(b) <sup>1</sup> of this title, unless his candidacy in such election is uncontested. For purposes of this subsection and subsection (a)(6) of this section, an employee in the Office of the President pro tempore, Deputy President pro tempore, Majority Leader, Minority Leader, Majority Whip, Minority Whip, Secretary of the Conference of the Majority, or Secretary of the Conference of the Minority shall be considered to be an employee in the office of the Senator holding such office.
+Subject to and in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate, a Senator and the employees in his office shall be reimbursed under this section for travel expenses incurred by the Senator or employee while traveling on official business within the United States. The term “travel expenses” includes actual transportation expenses, essential travel-related expenses, and, where applicable, per diem expenses (but not in excess of actual expenses). A Senator or an employee of the Senator shall not be reimbursed for any travel expenses (other than actual transportation expenses) for any travel occurring during the sixty days immediately before the date of any primary or general election (whether regular, special, or runoff) in which the Senator is a candidate for public office (within the meaning of section 431(b) <sup>1</sup> of this title, unless his candidacy in such election is uncontested. For purposes of this subsection and subsection (a)(6) of this section, an employee in the Office of the President pro tempore, Deputy President pro tempore, Majority Leader, Minority Leader, Majority Whip, Minority Whip, Secretary of the Conference of the Majority, or Secretary of the Conference of the Minority shall beconsidered to be an employee in the office of the Senator holding such office.
 
 #### (f) Omitted
 
@@ -98,13 +98,13 @@ The 1982 amendments by Pub. L. 97–276 are based on sections 103 and 106(a) of 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–90, §7(a)(1), (3)–(5), substituted “payment (including reimbursement)” for “payment” in introductory provisions, substituted “Payment” for “Reimbursement to a Senator and his employees” and “paid or reimbursed” for “reimbursed” in second sentence, and substituted “payment” for “reimbursement” in last sentence.
+1991—Subsec. (a). Pub. L. 102–90, §7(a)(1), (3)–(5), substituted “payment (including reimbursement)” for “payment” in introductory provisions, substituted “Payment” for “Reimbursement to a Senator and his employees” and “paid or reimbursed” for “reimbursed”in second sentence, and substituted “payment” for “reimbursement” in last sentence.
 
 Subsec. (a)(3) to (5), (7) to (9). Pub. L. 102–90, §7(a)(2), struck out “reimbursement to each Senator for” at beginning of pars. (3), (4), and (7) to (9) and in par. (5) direction to strike such language was executed by striking out “reimbursements to each Senator for” to reflect the probable intent of Congress.
 
 1990—Subsec. (a)(2). Pub. L. 101–520, §4(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “stationery and other office supplies procured for use for official business;”.
 
-Subsec. (a)(3). Pub. L. 101–520, §311(h)(2), which directed that par. (3) be amended by striking out “postage on,” and all that follows through “Senate, and”, could not be executed because those words do not appear in par. (3) as amended generally by Pub. L. 101–163which in part restated provisions directed to be stricken by Pub. L. 101–520, §311(h)(2), as subpar. (A). See 1990 and 1989 Amendment notes below.
+Subsec. (a)(3). Pub. L. 101–520, §311(h)(2), which directed that par. (3) be amended by striking out “postage on,” and all that follows through “Senate, and”, could not be executed because those words do not appear in par. (3) as amended generally by Pub. L. 101–163 which in part restated provisions directed to be stricken by Pub. L. 101–520, §311(h)(2), as subpar. (A). See 1990 and 1989 Amendment notes below.
 
 Pub. L. 101–520, §11, struck out subpar. (A) which read as follows: “postage on, and fees and charges in connection with, mail matter sent through the mail under the franking privilege in excess of amounts provided from the appropriation for official mail costs, upon certification by the Senate Sergeant at Arms and subject to such regulations as may be promulgated by the Committee on Rules and Administration,”.
 

@@ -12,7 +12,7 @@
 
 (4)(A) Section 8433(b) of this title applies to a bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires entitled to an immediate annuity under section 377 of title 28 (including a disability annuity under subsection (d) of such section) or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
-(B) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects tomake contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors Annuities for Bankruptcy Judges and Magistrates Act of 1988.
+(B) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
 (C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
@@ -36,7 +36,7 @@ Another section 8440b was renumbered section 8440c of this title.
 
 #### Amendments
 
-1994—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
+<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
 
 Subsec. (b)(4)(C). Pub. L. 103–226, §9(f)(2), substituted “Section 8433(b)” for “Section 8433(d)”.
 
@@ -50,7 +50,7 @@ Pub. L. 103–226, §9(f)(4), redesignated par. (9) as (8) and struck out former
 
 Subsec. (b)(9). Pub. L. 103–226, §9(f)(4), redesignated par. (9) as (8).
 
-1990—Pub. L. 101–335, §9(a), renumbered section 8440a of this title as this section.
+<b>1990</b>—Pub. L. 101–335, §9(a), renumbered section 8440a of this title as this section.
 
 Subsec. (b)(7). Pub. L. 101–335, §3(b)(3), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by bankruptcy judges or magistrates, as well as all previous contributions to the Thrift Savings Fund by those bankruptcy judges and magistrates, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
@@ -62,7 +62,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) ofPub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1990 Amendment
 

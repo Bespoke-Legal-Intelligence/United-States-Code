@@ -22,7 +22,7 @@ The Secretary shall insert in any instrument providing for the use, occupancy, o
 
 &emsp;(B) minimize the period and method of such use and the interference with or restrictions on other uses of the public lands involved.
 
-(3)(A) A general authorization issued pursuant to this subsection shall not be for a term of more than three years and shall be revoked in whole or in part, as the Secretary of the Interior finds necessary, prior to the end of such term upon a determination by the Secretary of the Interior that there has been a failure to comply with its terms and conditions or that activities pursuant to such an authorization have had or might have a significant adverse impact on the resources or values of the affected lands.
+(3)(A) A general authorization issued pursuant to this subsection shall not be for a term of more than three years and shall be revoked in whole or in part, as the Secretary of the Interior finds necessary, prior to the end of such term upon a determination by the Secretary of theInterior that there has been a failure to comply with its terms and conditions or that activities pursuant to such an authorization have had or might have a significant adverse impact on the resources or values of the affected lands.
 
 (B) Each specific use of a particular area of public lands pursuant to a general authorization under this subsection shall be subject to specific authorization by the Secretary and to appropriate terms and conditions, including such as are described in paragraph (2) of this subsection.
 

@@ -6,5 +6,5 @@ Notwithstanding any other law, the Secretary of Commerce, whenever the Secretary
 
 &emsp;(2) as required by the laws of the State, Commonwealth, territory, or possession.
 
-(Pub. L. 98 623, title IV, §406, Nov. 8, 1984, 98 Stat. 3409.)
+(Pub. L. 98–623, title IV, §406, Nov. 8, 1984, 98 Stat. 3409.)
 

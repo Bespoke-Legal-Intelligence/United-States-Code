@@ -58,7 +58,7 @@
 | (c) | Judicial review. |
 | (d) | Authority of bankruptcy court. |
 | (e) | Effect on priorities and timing of employee protection payments. |
-| [916\.](%C2%A7%2000916%20-%20Directed%20service.md) | Directed service. |
+| [916\.](%C2%A7%2000916%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9388%2C%20title%20III%2C%20%C2%A7328%2C%20Dec.%2029%2C%201995%2C%20109%20Stat.%20952.md) | Repealed. |
 | [917\.](%C2%A7%2000917%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act.md) | Applicability of National Environmental Policy Act. |
 | [918\.](%C2%A7%2000918%20-%20Authority%20of%20Railroad%20Retirement%20Board.md) | Authority of Railroad Retirement Board. |
 | [919\.](%C2%A7%2000919%20-%20Publications%20and%20reports.md) | Publications and reports. |
@@ -92,7 +92,7 @@ This chapter is referred to in sections 231f, 1018 of this title.
 - [&sect; 00913 - Authorization of appropriations](%C2%A7%2000913%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00914 - Obligation guarantees](%C2%A7%2000914%20-%20Obligation%20guarantees.md)
 - [&sect; 00915 - Court approved abandonment and sales in pending cases](%C2%A7%2000915%20-%20Court%20approved%20abandonment%20and%20sales%20in%20pending%20cases.md)
-- [&sect; 00916 - Directed service](%C2%A7%2000916%20-%20Directed%20service.md)
+- [&sect; 00916 - Repealed. Pub. L. 104&#8211;88, title III, &sect;328, Dec. 29, 1995, 109 Stat. 952](%C2%A7%2000916%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9388%2C%20title%20III%2C%20%C2%A7328%2C%20Dec.%2029%2C%201995%2C%20109%20Stat.%20952.md)
 - [&sect; 00917 - Applicability of National Environmental Policy Act](%C2%A7%2000917%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act.md)
 - [&sect; 00918 - Authority of Railroad Retirement Board](%C2%A7%2000918%20-%20Authority%20of%20Railroad%20Retirement%20Board.md)
 - [&sect; 00919 - Publications and reports](%C2%A7%2000919%20-%20Publications%20and%20reports.md)

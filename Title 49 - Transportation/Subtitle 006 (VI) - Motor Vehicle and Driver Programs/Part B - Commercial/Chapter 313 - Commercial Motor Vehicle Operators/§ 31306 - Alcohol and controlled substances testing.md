@@ -6,7 +6,7 @@ Definition.—In this section, “controlled substance” means any substance un
 
 (b)
 
-Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.
+Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing ofoperators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.
 
 (B) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
@@ -56,7 +56,7 @@ Sanctions.—The Secretary of Transportation shall decide on appropriate sanctio
 
 (g)
 
-Effect on State and Local Government Regulations.—A State or local government may not prescribe or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section may not be construed to preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
+Effect on State and Local Government Regulations.—A State or local government may not prescribe or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section may not be construed to preempt a State criminal law that imposes sanctions forreckless conduct leading to loss of life, injury, or damage to property.
 
 (h)
 
@@ -74,7 +74,7 @@ Other Regulations Allowed.—This section does not prevent the Secretary of Tran
 
 Application of Penalties.—This section does not supersede a penalty applicable to an operator of a commercial motor vehicle under this chapter or another law.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1017.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1017; Pub. L. 104–59, title III, §342(c), Nov. 28, 1995, 109 Stat. 609.)
 
 Historical and Revision Notes
 
@@ -145,6 +145,10 @@ In subsection (c)(6), the word “Secretary” is substituted for “Department�
 In subsection (d), the words “The Secretary of Transportation may provide” are substituted for “Nothing in subsection (a) of this section shall preclude the Secretary from providing” for clarity and to eliminate unnecessary words.
 
 In subsection (g), the words “rule” and “ordinance” are omitted as being included in “law, regulation, standard, or order”. The words “whether the provisions apply specifically to commercial motor vehicle employees, or to the general public” are omitted as surplus.
+
+#### Amendments
+
+1995—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
 #### Section Referred to in Other Sections
 

@@ -40,5 +40,5 @@ Functions of President under this section, insofar as they relate to part VIII o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291j, 2291k, 2360, 2394–1 of this title.
+This section is referred to in sections 2291j, 2360, 2394–1 of this title.
 

@@ -20,7 +20,7 @@ These services may be controlled under subsection (a) of this section when they 
 
 #### (d) Licenses
 
-In carrying out subsection (a) of this section, the Secretary of State may require licenses,which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
+In carrying out subsection (a) of this section, the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
 
 #### (e) Definitions
 

@@ -2,16 +2,16 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 711\. | Senior members of Military Staff Committee of United Nations: appointment. |
-| 711a. | American National Red Cross: detail of commissioned officers. |
-| 712\. | Foreign governments: detail to assist. |
-| 713\. | State Department: assignment or detail as couriers and building inspectors. |
+| [711\.](%C2%A7%2000711%20-%20Senior%20members%20of%20Military%20Staff%20Committee%20of%20United%20Nations%20appointment.md) | Senior members of Military Staff Committee of United Nations: appointment. |
+| [711a.](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md) | American National Red Cross: detail of commissioned officers. |
+| [712\.](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md) | Foreign governments: detail to assist. |
+| [713\.](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md) | State Department: assignment or detail as couriers and building inspectors. |
 | \[714, 715. Repealed.\] |  |
-| 716\. | Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. |
-| 717\. | Members of the armed forces: participation in international sports. |
+| [716\.](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md) | Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. |
+| [717\.](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md) | Members of the armed forces: participation in international sports. |
 | \[718. | Repealed.\] |
-| 719\. | Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration. |
-| 720\. | Chief of Staff to President: appointment. |
+| [719\.](%C2%A7%2000719%20-%20Department%20of%20Commerce%20assignment%20or%20detail%20of%20members%20of%20the%20armed%20forces%20to%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration. |
+| [720\.](%C2%A7%2000720%20-%20Chief%20of%20Staff%20to%20President%20appointment.md) | Chief of Staff to President: appointment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

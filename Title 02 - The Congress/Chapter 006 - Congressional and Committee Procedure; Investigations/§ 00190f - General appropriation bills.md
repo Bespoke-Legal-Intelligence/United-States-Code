@@ -4,7 +4,7 @@
 
 #### (b) Standard appropriation classification schedule
 
-The Committees on Appropriations of the two Houses are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals ofappropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency's request for appropriations shall be preceded by such a schedule.
+The Committees on Appropriations of the two Houses are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency's request for appropriations shall be preceded by such a schedule.
 
 #### (c) Nonconsideration if a provision reappropriates unexpended balances
 

@@ -14,7 +14,7 @@ In developing regulations under this subchapter, the Secretary shall consult wit
 
 &emsp;&emsp;(B) what programs are available to meet the student's educational strengths and needs and how the programs differ in content and instructional goals, and in the case of a student with a disability, how the program meets the objectives of a student's individualized education program; and
 
-&emsp;&emsp;(C) the instructional goals of the bilingual education or special alternative instructional program, and how the program will specifically help the limited English proficient student acquire English and meetage-appropriate standards for grade-promotion and graduation, including—
+&emsp;&emsp;(C) the instructional goals of the bilingual education or special alternative instructional program, and how the program will specifically help the limited English proficient student acquire English and meet age-appropriate standards for grade-promotion and graduation, including—
 
 &emsp;&emsp;&emsp;(i) the benefits, nature, and past academic results of the bilingual educational program and of the instructional alternatives; and
 
@@ -38,9 +38,9 @@ In developing regulations under this subchapter, the Secretary shall consult wit
 
 &emsp;Students shall not be admitted to or excluded from any federally assisted education program merely on the basis of a surname or language-minority status.
 
-(Pub. L. 89 10, title VII, §7502, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3748.)
+(Pub. L. 89–10, title VII, §7502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3748.)
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2)(B), is Pub. L. 88 352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

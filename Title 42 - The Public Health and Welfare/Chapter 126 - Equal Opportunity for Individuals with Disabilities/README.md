@@ -174,10 +174,7 @@ I74subpart i—public transportation other than by aircraft or certain rail oper
 | (b) | Submission of report. |
 | (c) | Specific wilderness access. |
 | [12208\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012208%20-%20Transvestites.md) | Transvestites. |
-| [12209\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012209%20-%20Coverage%20of%20Congress%20and%20agencies%20of%20legislative%20branch.md) | Coverage of Congress and agencies of legislative branch. |
-| (a) | Coverage of Senate. |
-| (b) | Coverage of House of Representatives. |
-| (c) | Instrumentalities of Congress. |
+| [12209\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012209%20-%20Instrumentalities%20of%20Congress.md) | Instrumentalities of Congress. |
 | [12210\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012210%20-%20Illegal%20use%20of%20drugs.md) | Illegal use of drugs. |
 | (a) | In general. |
 | (b) | Rules of construction. |
@@ -193,7 +190,7 @@ I74subpart i—public transportation other than by aircraft or certain rail oper
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1760, 6062 of this title; title 16 sections 410aaa–41, 410aaa–52; title 20 sections 1142, 8507; title 25 section 2005; title 26 section 44; title 29 sections 720, 721, 743, 761a, 762, 781, 793, 795g, 797a, 2211; title 49 sections 5307, 5314, 5323, 5335, 40117, 47102.
+This chapter is referred to in sections 1760, 6062 of this title; title 2 sections 1302, 1331, 1371, 1434; title 16 sections 410aaa–41, 410aaa–52; title 20 sections 1142, 8507; title 25 section 2005; title 26 section 44; title 29 sections 720, 721, 743, 761a, 762, 781, 793, 795g, 797a, 2211; title 49 sections 5307, 5314, 5323, 5335, 40117, 47102.
 
 
 ---

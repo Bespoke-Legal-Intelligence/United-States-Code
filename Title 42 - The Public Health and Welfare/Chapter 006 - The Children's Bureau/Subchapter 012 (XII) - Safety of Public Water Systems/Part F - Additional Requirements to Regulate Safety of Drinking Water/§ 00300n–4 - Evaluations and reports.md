@@ -6,7 +6,7 @@ The Secretary shall, directly or through contracts with public or private entiti
 
 #### (b) Report to Congress
 
-The Secretary shall, not later than 1 year after the date on which amounts are first appropriated pursuant to section 300n–5(a) <sup>1</sup> of this title, and annually thereafter, submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report summarizing evaluations carried out pursuant to subsection (a) of this section during the preceding fiscal year and making such recommendations for administrative and legislative initiatives with respect to this subchapter as the Secretary determines to be appropriate, including recommendations regarding compliance by the States with section 300k(a)(2) of this title and with section 300n(c) of this title.
+The Secretary shall, not later than 1 year after the date on which amounts are first appropriated pursuant to section 300n–5(a) <sup>1</sup> of this title, and annually thereafter, submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report summarizing evaluations carried out pursuant to subsection (a) of this section during the preceding fiscal year and making such recommendations for administrative and legislative initiatives with respect to this subchapter as the Secretary determines to be appropriate, including recommendations regarding complianceby the States with section 300k(a)(2) of this title and with section 300n(c) of this title.
 
 (July 1, 1944, ch. 373, title XV, §1508, as added Aug. 10, 1990, Pub. L. 101–354, §2, 104 Stat. 415; amended Dec. 14, 1993, Pub. L. 103–183, title I, §101(e), 107 Stat. 2228.)
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 103–183, §101(e)(2), inserted before period at end “,�
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §3341. Details; within Executive or military departments
 
-(a) The head of an Executive department or military department may detail employeesamong the bureaus and offices of his department, except employees who are required by law to be exclusively engaged on some specific work.
+(a) The head of an Executive department or military department may detail employees among the bureaus and offices of his department, except employees who are required by law to be exclusively engaged on some specific work.
 
 (b) Details under subsection (a) of this section may be made only by written order of the head of the department, and may be for not more than 120 days. These details may be renewed by written order of the head of the department, in each particular case, for periods not exceeding 120 days.
 
@@ -22,7 +22,7 @@ May 28, 1896, ch. 252, §3, 29 Stat. 179.
 
 The words “Executive department” are substituted for “department” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101.
 
-The words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
+The words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of theNavy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
 The word “detail” is coextensive with and is substituted for “alter the distribution”. The word “clerks” is omitted as included in “employees”. The words “as he may find it necessary and proper to do” and “from time to time” are omitted as surplusage.
 

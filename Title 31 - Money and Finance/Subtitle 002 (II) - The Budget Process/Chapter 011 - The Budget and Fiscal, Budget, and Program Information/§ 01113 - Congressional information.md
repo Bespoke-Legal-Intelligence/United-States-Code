@@ -4,7 +4,7 @@
 
 (2) When requested by a committee of Congress, additional information related to the amount of an appropriation originally requested by an Office of Inspector General shall be submitted to the committee.
 
-(b) When requested by a committee of Congress, by the Comptroller General, or by the Director of the Congressional Budget Office, theSecretary of the Treasury, the Director of the Office of Management and Budget, and the head of each executive agency shall—
+(b) When requested by a committee of Congress, by the Comptroller General, or by the Director of the Congressional Budget Office, the Secretary of the Treasury, the Director of the Office of Management and Budget, and the head of each executive agency shall—
 
 &emsp;(1) provide information on the location and kind of available fiscal, budget, and program information;
 
@@ -100,7 +100,7 @@ In subsections (b)–(d), the words “program information” are substituted fo
 
 In subsection (b)(1) and (3), the words “to such committee or joint committee, the Comptroller General, or the Director of the Congressional Budget Office” are omitted as unnecessary because of the restatement. In clause (1), the word “kind” is substituted for “nature” for consistency in the revised title. In clause (2), the words “that fiscal, budgetary, and program information” are substituted for “such data and information” because of the restatement.
 
-In subsection (c), the word “inventory” is omitted as unnecessary. In clause (1), the word “develop” is omitted as being included in “establish”. In clause (2), the word “obtaining” is substituted for “securing” as being more precise. In clause (3), the word “evaluating” issubstituted for “appraising and analyzing” for clarity and to eliminate unnecessary words.
+In subsection (c), the word “inventory” is omitted as unnecessary. In clause (1), the word “develop” is omitted as being included in “establish”. In clause (2), the word “obtaining” is substituted for “securing” as being more precise. In clause (3), the word “evaluating” is substituted for “appraising and analyzing” for clarity and to eliminate unnecessary words.
 
 In subsection (d), the words “individually or jointly . . . file” are substituted for “central file or files” for clarity. The word “information” is substituted for “data and information”, and the word “needs” is substituted for “requirements”, for consistency in the section. The words “carry out” are substituted for “carry out the purposes of” because of the restatement. A cross reference to 31:1155–1156 is not included because those sections are not relevant to the information file described in the source provisions. The words “so that it is easier” are substituted for “facilitate” for clarity. The word “modern” is omitted as surplus.
 
@@ -129,6 +129,102 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 #### Amendments
 
 1983—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
+
+#### Termination of Reporting Requirements
+
+Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, provided that:
+
+“(a)
+
+Termination.—
+
+&emsp;“(1)
+
+In general.—Subject to the provisions of paragraph (2) of this subsection and subsection (d), each provision of law requiring the submittal to Congress (or any committee of the Congress) of any annual, semiannual, or other regular periodic report specified on the list described under subsection (c) shall cease to be effective, with respect to that requirement, 4 years after the date of the enactment of this Act \[Dec. 21, 1995\].
+
+&emsp;“(2)
+
+Exception.—The provisions of paragraph (1) shall not apply to any report required under—
+
+&emsp;&emsp;“(A) the Inspector General Act of 1978 (5 U.S.C. App.); or
+
+&emsp;&emsp;“(B) the Chief Financial Officers Act of 1990 (Public Law 101–576) \[see Short Title of 1990 Amendment note set out under section 501 of this title\], including provisions enacted by the amendments made by that Act.
+
+“(b)
+
+Identification of Wasteful Reports.—The President shall include in the first annual budget submitted pursuant to section 1105 of title 31, United States Code, after the date of enactment of this Act \[Dec. 21, 1995\] a list of reports that the President has determined are unnecessary or wasteful and the reasons for such determination.
+
+“(c)
+
+List of Reports.—The list referred to under subsection (a) is the list prepared by the Clerk of the House of Representatives for the first session of the One Hundred Third Congress under clause 2 of rule III of the Rules of the House of Representatives (House Document No. 103–7).
+
+“(d)
+
+Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report required under—
+
+&emsp;“(1) section 116 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n);
+
+&emsp;“(2) section 306 of that Act (22 U.S.C. 2226);
+
+&emsp;“(3) section 489 of that Act (22 U.S.C. 2291h);
+
+&emsp;“(4) section 502B of that Act (22 U.S.C. 2304);
+
+&emsp;“(5) section 634 of that Act (22 U.S.C. 2394);
+
+&emsp;“(6) section 406 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (22 U.S.C. 2414a);
+
+&emsp;“(7) section 25 of the Arms Export Control Act (22 U.S.C. 2765);
+
+&emsp;“(8) section 28 of that Act (22 U.S.C. 2768);
+
+&emsp;“(9) section 36 of that Act (22 U.S.C. 2776);
+
+&emsp;“(10) section 6 of the Multinational Force and Observers Participation Resolution (22 U.S.C. 3425);
+
+&emsp;“(11) section 104 of the FREEDOM Support Act (22 U.S.C. 5814);
+
+&emsp;“(12) section 508 of that Act (22 U.S.C. 5858);
+
+&emsp;“(13) section 4 of the War Powers Resolution (50 U.S.C. 1543);
+
+&emsp;“(14) section 204 of the International Emergency Economic Powers Act (50 U.S.C. 1703);
+
+&emsp;“(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+
+&emsp;“(16) section 207 of the International Economic Policy Act of 1972 (Public Law 92–412; 86 Stat. 648) \[former 22 U.S.C. 2846\];
+
+&emsp;“(17) section 4 of Public Law 93–121 (87 Stat. 448) \[former 22 U.S.C. 2846\];
+
+&emsp;“(18) section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+
+&emsp;“(19) section 704 of the Support for East European Democracy (SEED) Act of 1989 (22 U.S.C. 5474);
+
+&emsp;“(20) section 804 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246; 104 Stat. 72);
+
+&emsp;“(21) section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f);
+
+&emsp;“(22) section 2 of the Act of September 21, 1950 (Chapter 976; 64 Stat. 903) \[22 U.S.C. 262a\];
+
+&emsp;“(23) section 3301 of the Panama Canal Act of 1979 (22 U.S.C. 3871);
+
+&emsp;“(24) section 2202 of the Export Enhancement Act of 1988 (15 U.S.C. 4711);
+
+&emsp;“(25) section 1504 of Public Law 103–160 (10 U.S.C. 402 note);
+
+&emsp;“(26) section 502 of the International Security and Development Coordination Act of 1985 (22 U.S.C. 2349aa–7);
+
+&emsp;“(27) section 23 of the Act of August 1, 1956 (Chapter 841 \[probably should be section 515(b)(2) of Public Law 95–105\]; 22 U.S.C. 2694(2));
+
+&emsp;“(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5));
+
+&emsp;“(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+
+&emsp;“(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
+
+&emsp;“(31) section 240A of the Foreign Assistance Act of 1961 (22 U.S.C. 2200a); or
+
+&emsp;“(32) section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469).”
 
 #### Authority To Increase Efficiency in Reporting to Congress
 

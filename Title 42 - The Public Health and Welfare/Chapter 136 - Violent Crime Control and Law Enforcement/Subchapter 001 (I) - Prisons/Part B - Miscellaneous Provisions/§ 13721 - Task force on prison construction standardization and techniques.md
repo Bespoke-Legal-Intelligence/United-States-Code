@@ -6,7 +6,7 @@ The Director of the National Institute of Corrections shall, subject to availabi
 
 #### (b) Cooperation
 
-The task force shall work in close cooperation and communication with other State and localofficials responsible for prison construction in their localities.
+The task force shall work in close cooperation and communication with other State and local officials responsible for prison construction in their localities.
 
 #### (c) Performance requirements
 

@@ -22,7 +22,7 @@ In order to facilitate the collection, exchange, and compilation of data and inf
 
 #### Amendments
 
-1992—Pub. L. 102–367 amended section generally, substituting provisions relating to information and data collection for provisions relating to payments to participating States.
+1992—Pub. L. 102–367 amended section generally, substituting provisions relating to information and datacollection for provisions relating to payments to participating States.
 
 #### Effective Date of 1992 Amendment
 

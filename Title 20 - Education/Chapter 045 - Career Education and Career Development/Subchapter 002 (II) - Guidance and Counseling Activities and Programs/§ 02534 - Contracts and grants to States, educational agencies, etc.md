@@ -8,9 +8,9 @@ The Secretary of Education is authorized, on a competitive basis, to enter into 
 
 The Secretary of Education is authorized to make grants to States to assist them in carrying out programs to coordinate new and existing programs of guidance and counseling in the States.
 
-(Pub. L. 94 482, title III, §344, Oct. 12, 1976, 90 Stat. 2225; Pub. L. 96 88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 94–482, title III, §344, Oct. 12, 1976, 90 Stat. 2225; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96 88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 

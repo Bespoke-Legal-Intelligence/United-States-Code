@@ -14,7 +14,7 @@
 
 (2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
-(d) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
+(d) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value ofproperty lost or damaged if the amount or value is not recovered because of a compromise under this section.
 
 (e) The head of an executive or legislative agency acts under—
 
@@ -66,10 +66,6 @@
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Termination Date of 1990 Amendment; Savings Provision note below.</i>
-
 Historical and Revision Notes<br>1982
 
 Act
@@ -118,7 +114,7 @@ In subsection (b), the words “Comptroller General” are substituted for “Ge
 
 In subsection (c)(1), the words “that appears to be fraudulent, false, or misrepresented by” are substituted for “as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of” to eliminate unnecessary words. The words “the debtor or . . . other” and “in whole or in part” are omitted as surplus.
 
-In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966”are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
+In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966” are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
 
 In subsection (d), the words “effected . . . authority conferred by”, “on the debtor and on all officials, agencies, and courts of the United States”, “destroyed”, and “with a person primarily responsible” are omitted as surplus.
 
@@ -160,7 +156,7 @@ This is necessary to reflect the transfer of the non-positive law provisions of 
 
 1992—Subsec. (c)(2). Pub. L. 102–365 substituted “$500” for “$250”.
 
-1990—Subsec. (a)(2). Pub. L. 101–552 temporarily substituted “$100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe” for “$20,000 (excluding interest)”. See Termination Date of 1990 Amendment; Savings Provision note below.
+1990—Subsec. (a)(2). Pub. L. 101–552 substituted “$100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe” for “$20,000 (excluding interest)”.
 
 1986—Subsec. (f)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -170,7 +166,7 @@ This is necessary to reflect the transfer of the non-positive law provisions of 
 
 #### Termination Date of 1990 Amendment; Savings Provision
 
-For termination of amendments by Pub. L. 101–552 and authority to use dispute resolution proceedings on Oct. 1, 1995, except with respect to certain pending proceedings, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
+For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
 
 #### Existing Agency Authority To Litigate, Settle, Compromise, or Close Claims
 

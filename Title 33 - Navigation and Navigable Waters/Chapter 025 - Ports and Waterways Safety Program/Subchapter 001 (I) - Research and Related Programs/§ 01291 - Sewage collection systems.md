@@ -12,7 +12,7 @@ If the Administrator uses population density as a test for determining the eligi
 
 No grant shall be made under this subchapter from funds authorized for any fiscal year during the period beginning October 1, 1977, and ending September 30, 1990, for treatment works for control of pollutant discharges from separate storm sewer systems.
 
-(June 30, 1948, ch. 758, title II, §211, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 843; amended Dec. 27, 1977, Pub. L. 95–217, §36, 91 Stat. 1581; Dec. 29, 1981, Pub. L. 97–117, §2(b), 95 Stat. 1623; Feb. 4, 1987, Pub. L. 100–4, title II, §206(d), 101 Stat. 20.)
+(June 30, 1948, ch. 758, title II, §211, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 843; amended Dec. 27, 1977, Pub. L. 95–217, §36, 91 Stat. 1581;Dec. 29, 1981, Pub. L. 97–117, §2(b), 95 Stat. 1623; Feb. 4, 1987, Pub. L. 100–4, title II, §206(d), 101 Stat. 20.)
 
 #### Amendments
 

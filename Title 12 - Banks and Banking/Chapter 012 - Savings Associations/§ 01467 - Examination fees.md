@@ -22,7 +22,7 @@ The cost of conducting examinations of affiliates of savings associations pursua
 
 #### (2) Affiliate of more than 1 savings association
 
-&emsp;If any affiliate referred to in paragraph (1) is an affiliate of more than 1 savings association, the assessment with respect to the affiliate against, and collected from, any affiliated savings association in such proportions as the Director may prescribe.
+&emsp;If any affiliate referred to in paragraph (1) is an affiliate of more than 1 savings association,the assessment with respect to the affiliate against, and collected from, any affiliated savings association in such proportions as the Director may prescribe.
 
 #### (d) Civil money penalty for affiliate's refusal to cooperate
 
@@ -80,7 +80,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (3) Assessments are not subject to apportionment of funds
 
-&emsp;Notwithstanding any other provision of law, the amounts received by the Director fromany assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
+&emsp;Notwithstanding any other provision of law, the amounts received by the Director from any assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
 #### (j) Processing fee
 

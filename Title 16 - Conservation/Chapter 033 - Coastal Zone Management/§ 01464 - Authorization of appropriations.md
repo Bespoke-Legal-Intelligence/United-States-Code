@@ -24,7 +24,7 @@ Federal funds received from other sources shall not be used to pay a coastal sta
 
 The amount of any grant, or portion of a grant, made to a State under any section of this chapter which is not obligated by such State during the fiscal year, or during the second fiscal year after the fiscal year, for which it was first authorized to be obligated by such State shall revert to the Secretary. The Secretary shall add such reverted amount to those funds available for grants under the section for such reverted amount was originally made available.
 
-(Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, §6215, Nov. 5, 1990, 104 Stat. 1388–313.)
+(Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031;Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, §6215, Nov. 5, 1990, 104 Stat. 1388–313.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act” whi
 
 “(5) such sums, not to exceed $3,300,000 for the fiscal year ending September 30, 1986, not to exceed $3,300,000 for the fiscal year ending September 30, 1987, $3,300,000 for the fiscal year ending September 30, 1988, $4,000,000 for the fiscal year ending September 30, 1989, and $4,000,000 for the fiscal year ending September 30, 1990, as may be necessary for administrative expenses incident to the administration of this chapter.”
 
-1986—Subsec. (a)(1). Pub. L. 99–272, §6046(1), substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under sections 1455 and 1455a of this title, for authorization of appropriations of $48,000,000 for each of fiscal years 1981through 1985 necessary for grants under section 1455 of this title.
+1986—Subsec. (a)(1). Pub. L. 99–272, §6046(1), substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under sections 1455 and 1455a of this title, for authorization of appropriations of $48,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1455 of this title.
 
 Subsec. (a)(2). Pub. L. 99–272, §6046(2), redesignated par. (3) as (2), and struck out former par. (2) which authorized appropriations of $20,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1455a of this title.
 
@@ -80,7 +80,7 @@ Subsec. (a)(4) to (9). Pub. L. 95–372, §503(e), added par. (4) and redesignat
 
 Subsec. (b). Pub. L. 95–372, §503(f), substituted “subsections (b) and (c)(2)” for “subsection (b)” and “subsections (c)(1)” for “subsections (c)”.
 
-1976—Subsec. (a)(1). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $20,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979 for provisions authorizing appropriations of the sum of $9,000,000 for the fiscal year ending June 30, 1973, and for each of the fiscal years 1974 through 1977.
+1976—Subsec. (a)(1). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not toexceed $20,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979 for provisions authorizing appropriations of the sum of $9,000,000 for the fiscal year ending June 30, 1973, and for each of the fiscal years 1974 through 1977.
 
 Subsec. (a)(2). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980 for provisions authorizing appropriations of sums not to exceed $30,000,000 for the fiscal year ending June 30, 1974, and for each of the fiscal years 1975 through 1977.
 

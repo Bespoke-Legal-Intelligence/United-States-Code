@@ -144,11 +144,11 @@ The Secretary shall terminate a waiver under this section if the Secretary deter
 
 A notice of the Secretary's decision to grant each waiver under subsection (a) of this section shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, and the public.
 
-(Pub. L. 89 10, title XIV, §14401, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3899.)
+(Pub. L. 89–10, title XIV, §14401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3899.)
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §571. Warrant officers: grades
 
-(a) The regular warrant officer grades in the armed forces corresponding to the pay grades prescribed for warrant officers by section 201(b) of title 37 are as follows:
+(a) The regular warrant officer grades in the armed forces corresponding to the pay gradesprescribed for warrant officers by section 201(b) of title 37 are as follows:
 
 > Warrant officer grade:
 
@@ -48,7 +48,7 @@ Section 541(c), (d) of Pub. L. 103–337 provided that:
 
 “(c)
 
-Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade BelowChief Warrant Officer, W–5.—(1) A regular warrant officer of the Coast Guard who on the effective date of this section \[see Effective Date of 1994 Amendment note above\] is on active duty and—
+Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—(1) A regular warrant officer of the Coast Guard who on the effective date of this section \[see Effective Date of 1994 Amendment note above\] is on active duty and—
 
 &emsp;“(A) is serving in a temporary grade below chief warrant officer, W–5, that is higher than that warrant officer's permanent grade;
 

@@ -38,7 +38,7 @@ A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is
 
 #### Amendments
 
-1992—Pub. L. 102–429, §109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) ofpar. (3), and struck out former subsec. (a)(3) which read as follows: “
+1992—Pub. L. 102–429, §109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: “
 
 Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
 

@@ -13,7 +13,7 @@
 | [3019\.](%C2%A7%2003019%20-%20General%20Counsel.md) | General Counsel. |
 | [3020\.](%C2%A7%2003020%20-%20Inspector%20General.md) | Inspector General. |
 | [3021\.](%C2%A7%2003021%20-%20Army%20Reserve%20Forces%20Policy%20Committee.md) | Army Reserve Forces Policy Committee. |
-| 3022\. | Financial management. |
+| [3022\.](%C2%A7%2003022%20-%20Financial%20management.md) | Financial management. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition; conditions for resumption of assistance
 
-None of the funds authorized to be appropriated under this chapter may be used to furnish assistance to Afghanistan nor may funds authorized to be appropriated under this chapter before October 1, 1979, be expended for assistanceto Afghanistan until the President certifies to the Congress that—
+None of the funds authorized to be appropriated under this chapter may be used to furnish assistance to Afghanistan nor may funds authorized to be appropriated under this chapter before October 1, 1979, be expended for assistance to Afghanistan until the President certifies to the Congress that—
 
 &emsp;(1) the Government of Afghanistan has apologized officially and assumes responsibility for the death of Ambassador Adolph Dubs; and
 

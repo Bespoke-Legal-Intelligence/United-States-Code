@@ -34,7 +34,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(C) For purposes of this paragraph—
 
-&emsp;&emsp;(i) a “spoken word recording” is a sound recording in which are fixed only a series of spoken words, except that the spoken wordsmay be accompanied by incidental musical or other sounds, and
+&emsp;&emsp;(i) a “spoken word recording” is a sound recording in which are fixed only a series of spoken words, except that the spoken words may be accompanied by incidental musical or other sounds, and
 
 &emsp;&emsp;(ii) the term “incidental” means related to and relatively minor by comparison.
 
@@ -86,7 +86,7 @@ Section 4 of Pub. L. 102–563 provided that: “This Act \[see Short Title note
 
 #### Short Title
 
-Section 1 of Pub. L. 102–563 provided that: “This Act \[enacting this chapter, amending sections 101, 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note above\] may be cited as the ‘Audio Home Recording Act of 1992’.”
+Section 1 of Pub. L. 102–563 provided that: “This Act \[enacting this chapter, amending sections 101, 801, 804,and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note above\] may be cited as the ‘Audio Home Recording Act of 1992’.”
 
 #### Section Referred to in Other Sections
 

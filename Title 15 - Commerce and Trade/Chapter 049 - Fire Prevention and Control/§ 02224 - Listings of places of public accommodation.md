@@ -14,13 +14,13 @@
 
 (3) For purposes of this subsection, the term “agency” has the meaning given to it under section 5701(1) of title 5.
 
-(Pub. L. 93 498, §28, as added Pub. L. 101 391, §3(a), Sept. 25, 1990, 104 Stat. 747; amended Pub. L. 102 522, title I, §104, Oct. 26, 1992, 106 Stat. 3411.)
+(Pub. L. 93–498, §28, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 747; amended Pub. L. 102–522, title I, §104, Oct. 26, 1992, 106 Stat. 3411.)
 
 #### Amendments
 
-1992—Pub. L. 102 522, §104(1), struck out “certified” before “places” in section catchline.
+1992—Pub. L. 102–522, §104(1), struck out “certified” before “places” in section catchline.
 
-Subsec. (a). Pub. L. 102 522, §104(2), inserted “(acting through its Governor or the Governor's designee)” after “each State” in pars. (1) and (2) and struck out “the Governor of the State or his designee certifies” after “in the State which” in par. (1).
+Subsec. (a). Pub. L. 102–522, §104(2), inserted “(acting through its Governor or the Governor's designee)” after “each State” in pars. (1) and (2) and struck out “the Governor of the State or his designee certifies” after “in the State which” in par. (1).
 
 #### Section Referred to in Other Sections
 

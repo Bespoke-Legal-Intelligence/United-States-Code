@@ -48,7 +48,55 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(9) Any person substantially all of whose business consists of owning or holding oil, gas, or other mineral royalties or leases, or fractional interests therein, or certificates of interest or participation in or investment contracts relative to such royalties, leases, or fractional interests.
 
-&emsp;(10) Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+&emsp;(10)(A) Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes—
+
+&emsp;&emsp;(i) no part of the net earnings of which inures to the benefit of any private shareholder or individual; or
+
+&emsp;&emsp;(ii) which is or maintains a fund described in subparagraph (B).
+
+&emsp;(B) For the purposes of subparagraph (A)(ii), a fund is described in this subparagraph if such fund is a pooled income fund, collective trust fund, collective investment fund, or similar fund maintained by a charitable organization exclusively for the collective investment and reinvestment of one or more of the following:
+
+&emsp;&emsp;(i) assets of the general endowment fund or other funds of one or more charitable organizations;
+
+&emsp;&emsp;(ii) assets of a pooled income fund;
+
+&emsp;&emsp;(iii) assets contributed to a charitable organization in exchange for the issuance of charitable gift annuities;
+
+&emsp;&emsp;(iv) assets of a charitable remainder trust or of any other trust, the remainder interests of which are irrevocably dedicated to any charitable organization;
+
+&emsp;&emsp;(v) assets of a charitable lead trust;
+
+&emsp;&emsp;(vi) assets of a trust, the remainder interests of which are revocably dedicated to or for the benefit of 1 or more charitable organizations, if the ability to revoke the dedication is limited to circumstances involving—
+
+&emsp;&emsp;&emsp;(I) an adverse change in the financial circumstances of a settlor or an income beneficiary of the trust;
+
+&emsp;&emsp;&emsp;(II) a change in the identity of the charitable organization or organizations having the remainder interest, provided that the new beneficiary is also a charitable organization; or
+
+&emsp;&emsp;&emsp;(III) both the changes described in subclauses (I) and (II);
+
+&emsp;&emsp;(vii) assets of a trust not described in clauses (i) through (v), the remainder interests of which are revocably dedicated to a charitable organization, subject to subparagraph (C); or
+
+&emsp;&emsp;(viii) such assets as the Commission may prescribe by rule, regulation, or order in accordance with section 80a–6(c) of this title.
+
+&emsp;(C) A fund that contains assets described in clause (vii) of subparagraph (B) shall be excluded from the definition of an investment company for a period of 3 years after December 8, 1995, but only if—
+
+&emsp;&emsp;(i) such assets were contributed before the date which is 60 days after December 8, 1995; and
+
+&emsp;&emsp;(ii) such assets are commingled in the fund with assets described in one or more of clauses (i) through (vi) and (viii) of subparagraph (B).
+
+&emsp;(D) For purposes of this paragraph—
+
+&emsp;&emsp;(i) a trust or fund is “maintained” by a charitable organization if the organization serves as a trustee or administrator of the trust or fund or has the power to remove the trustees or administrators of the trust or fund and to designate new trustees or administrators;
+
+&emsp;&emsp;(ii) the term “pooled income fund” has the same meaning as in section 642(c)(5) of title 26;
+
+&emsp;&emsp;(iii) the term “charitable organization” means an organization described in paragraphs (1) through (5) of section 170(c) or section 501(c)(3) of title 26;
+
+&emsp;&emsp;(iv) the term “charitable lead trust” means a trust described in section 170(f)(2)(B), 2055(e)(2)(B), or 2522(c)(2)(B) of title 26;
+
+&emsp;&emsp;(v) the term “charitable remainder trust” means a charitable remainder annuity trust or a charitable remainder unitrust, as those terms are defined in section 664(d) of title 26; and
+
+&emsp;&emsp;(vi) the term “charitable gift annuity” means an annuity issued by a charitable organization that is described in section 501(m)(5) of title 26.
 
 &emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 of title 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of such trusts or governmental plans, or both; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
 
@@ -56,7 +104,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(13) Any security holders’ protective committee or similar issuer having outstanding and issuing no securities other than certificates of deposit and short-term paper.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; July 1, 1966, Pub. L. 89–485, §13(i), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §3(a), (b), 84 Stat. 1414; Feb. 5, 1976, Pub. L. 94–210, title III, §308(c), 90 Stat. 57; Oct. 21, 1980, Pub. L. 96–477, title I, §102, title VII, §703, 94 Stat. 2276, 2295; Dec. 4, 1987, Pub. L. 100–181, title VI, §§604–606, 101 Stat. 1260.)
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; July 1, 1966, Pub. L. 89–485, §13(i), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §3(a), (b), 84 Stat. 1414; Feb. 5, 1976, Pub. L. 94–210, title III, §308(c), 90 Stat. 57; Oct. 21, 1980, Pub. L. 96–477, title I, §102, title VII, §703, 94 Stat. 2276, 2295; Dec. 4, 1987, Pub. L. 100–181, title VI, §§604–606, 101 Stat. 1260; Dec. 8, 1995, Pub. L. 104–62, §2(a), 109 Stat. 682.)
 
 #### References in Text
 
@@ -64,11 +112,13 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), i
 
 #### Amendments
 
+1995—Subsec. (c)(10). Pub. L. 104–62 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.”
+
 1987—Subsec. (c)(3). Pub. L. 100–181, §604, inserted “or” after “therefor;” and struck out “; or any common trust fund or similar fund, established before June 22, 1936, by a corporation which is supervised or examined by State or Federal authority having supervision over banks, if a majority of the units of beneficial interest in such fund, other than units owned by charitable or educational institutions, are held under instruments providing for payment of income to one or more persons and of principal to another or others” after “guardian”.
 
 Subsec. (c)(7). Pub. L. 100–181, §605, substituted “Reserved.” for “Any company (A) which is subject to regulation under section 314 of title 49, except that this exception shall not apply to a company which the Commission finds and by order declares to be primarily engaged, directly or indirectly, in the business of investing, reinvesting, owning, holding, or trading in securities, or (B) whose entire outstanding stock is owned or controlled by a company excepted under clause (A) hereof, if the assets of the controlled company consist substantially of securities issued by companies which are subject to regulation under section 314 of title 49.”
 
-Subsec. (c)(11). Pub. L. 100–181, §606(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c)(11). Pub. L. 100–181, §606(1), substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Pub. L. 100–181, §606(2), (3), substituted “; or any governmental plan” for “or which holds only assets of governmental plans” and “trusts or governmental plans, or both” for “trusts”.
 
@@ -102,6 +152,10 @@ Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) a
 
 1942—Subsec. (c)(13). Act Oct. 31, 1942, inserted “as amended”.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
+
 #### Effective Date of 1976 Amendment
 
 Section 308(d)(2), (3) of Pub. L. 94–210, as amended by Pub. L. 94–555, title II, §220(c), Oct. 19, 1976, 90 Stat. 2629, provided that:
@@ -116,7 +170,7 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Effective Date of 1942 Amendment
 
-Section 162(d) of act Oct. 21, 1942 (Revenue Act of 1942), as amended by act Dec. 17, 1943, ch. 346, §3, 57Stat. 602, provided: “
+Section 162(d) of act Oct. 21, 1942 (Revenue Act of 1942), as amended by act Dec. 17, 1943, ch. 346, §3, 57 Stat. 602, provided: “
 
 Taxable Years to Which Amendments Applicable.—The amendments made by this section \[to this section and sections 22, 23, and 165 of Title 26, I.R.C. 1939\] shall be applicable as to both the employer and employees only with respect to taxable years of the employer beginning after December 31, 1941, except that—
 
@@ -146,5 +200,5 @@ Value as to assets of registered investment companies, definition of, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 80a–2, 80a–6, 80a–58, 80a–62, 80a–64, 80b–5, 6102 of this title; title 26 sections 851, 6049.
+This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102 of this title; title 26 sections 851, 6049.
 

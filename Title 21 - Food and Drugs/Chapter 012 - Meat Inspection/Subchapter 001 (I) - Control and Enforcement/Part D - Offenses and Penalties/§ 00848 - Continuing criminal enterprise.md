@@ -254,19 +254,7 @@ Amendment by section 224(b) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 
 #### GAO Study of Cost of Executions
 
-Section 7002 of title VII of Pub. L. 100–690 provided that:
-
-“(a)
-
-Study.—No later than three years after the date of the enactment of this Act \[Nov. 18, 1988\], the Comptroller General shall carry out a study to review the cost of implementing the procedures for imposing and carrying out a death sentence prescribed by this title \[see Tables for classification\].
-
-“(b)
-
-Specific Requirement.—Such study shall consider, but not be limited to, information concerning impact on workload of the Federal prosecutors and judiciary and law enforcement necessary to obtain capital sentences and executions under this Act \[see Short Title note set out under section 1501 of this title\].
-
-“(c)
-
-Submission of Report.—Not later than four years after date of the enactment of this Act \[Nov. 18, 1988\], the Comptroller General shall submit to Congress a report describing the results of the study.”
+Section 7002 of title VII of Pub. L. 100–690, directed Comptroller General to conduct a study of cost of executions and report to Congress, prior to repeal by Pub. L. 104–66, title I, §1091(d), Dec. 21, 1995, 109 Stat. 722.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@
 
 > shall, at the end of such year period, return or be returned to the custody of the Service for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1226, and 1227 of this title.
 
-(2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before a special inquiry officer to be admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
+(2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before a special inquiry officer to be admissible (except as otherwise provided under subsection (c) of thissection) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
 
 #### (b) Maximum number of adjustments; recordkeeping
 

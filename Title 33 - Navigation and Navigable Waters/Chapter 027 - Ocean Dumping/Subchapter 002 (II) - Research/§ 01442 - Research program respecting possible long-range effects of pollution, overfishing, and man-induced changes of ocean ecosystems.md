@@ -28,7 +28,7 @@ Each department, agency, and independent instrumentality of the Federal Governme
 
 The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes), and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
 
-(Pub. L. 92–532, title II, §202, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–62, §2, July 25, 1975, 89 Stat.303; Pub. L. 96–381, §3, Oct. 6, 1980, 94 Stat. 1524; Pub. L. 96–470, title II, §201(f), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 99–272, title VI, §6062, Apr. 7, 1986, 100 Stat. 131; Pub. L. 100–627, title I, §101, Nov. 7, 1988, 102 Stat. 3213.)
+(Pub. L. 92–532, title II, §202, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–62, §2, July 25, 1975, 89 Stat. 303; Pub. L. 96–381, §3, Oct. 6, 1980, 94 Stat. 1524; Pub. L. 96–470, title II, §201(f), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 99–272, title VI, §6062, Apr. 7, 1986, 100 Stat. 131; Pub. L. 100–627, title I, §101, Nov. 7, 1988, 102 Stat. 3213.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ Section 1703 of this title, referred to in subsec. (a)(3), was repealed by Pub. 
 
 1986—Subsec. (a). Pub. L. 99–272, §6062(1)–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
 
-Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
+Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annualreport to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
 
 Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

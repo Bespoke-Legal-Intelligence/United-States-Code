@@ -8,9 +8,9 @@ General.—In this chapter—
 
 &emsp;&emsp;(A) acquiring, constructing, supervising, or inspecting equipment or a facility for use in mass transportation, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, and acquiring rights of way), payments for the capital portions of rail trackage rights agreements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing;
 
-&emsp;&emsp;(B) rehabilitating a bus that extends the economic life of a bus for at least 5 years;
+&emsp;&emsp;(B) rehabilitating a bus;
 
-&emsp;&emsp;(C) remanufacturing a bus that extends the economic life of a bus for at least 8 years; or
+&emsp;&emsp;(C) remanufacturing a bus; or
 
 &emsp;&emsp;(D) overhauling rail rolling stock.
 
@@ -60,7 +60,7 @@ General.—In this chapter—
 
 &emsp;(11) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-&emsp;(12) “urban area” means an area that includes a municipality or other built-up place that the Secretary of Transportation, after considering local patterns and trends of urban growth, decides is appropriate for a local mass transportation system to serve individuals in the locality.
+&emsp;(12) “urban area” means an area that includes a municipality or other built-up place that the Secretary of Transportation, after considering local patterns and trends of urbangrowth, decides is appropriate for a local mass transportation system to serve individuals in the locality.
 
 &emsp;(13) “urbanized area” means an area—
 
@@ -72,7 +72,7 @@ General.—In this chapter—
 
 Authority To Modify “Handicapped Individual”.—The Secretary of Transportation by regulation may modify the definition of subsection (a)(5) of this section as it applies to section 5307(d)(1)(D) of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457.)
 
 Historical and Revision Notes
 
@@ -168,9 +168,17 @@ Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 
 
 #### Amendments
 
+1995—Subsec. (a)(1)(B). Pub. L. 104–50, §333(a)(1), which directed the amendment of this section by striking out “that extends the economic life of the bus for at least 5 years” after “rehabilitating a bus”, was executed by striking out “that extends the economic life of a bus for at least 5 years” to reflect the probable intent of Congress.
+
+Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), which directed the amendment of this section by striking out“that extends the economic life of the bus for at least 8 years” after “remanufacturing a bus”, was executed by striking out “that extends the economic life of a bus for at least 8 years” to reflect the probable intent of Congress.
+
 1994—Subsec. (a)(1). Pub. L. 103–331, which directed insertion of “payments for the capital portions of rail trackage rights agreements,” after “rights-of-way,”, was executed by making the insertion after “rights of way),” to reflect the probable intent of Congress.
+
+#### Effective Date of 1995 Amendment
+
+Section 333(b) of Pub. L. 104–50 provided that: “The amendments made by this section \[amending this section\] shall not take effect before March 31, 1996.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5336, 10504, 10531 of this title.
+This section is referred to in sections 5307, 5336, 10501 of this title.
 

@@ -30,7 +30,7 @@ For the purpose of calculating any refund of interest required under subsection 
 
 &emsp;&emsp;(A) the amount necessary to prepay the account in full; and
 
-&emsp;&emsp;(B) if the amount disclosed pursuant to subparagraph (A) includes an amount which is required to be refunded under this section with respect to such prepayment, the amount of such refund.
+&emsp;&emsp;(B) if the amount disclosed pursuant to subparagraph (A) includes an amount whichis required to be refunded under this section with respect to such prepayment, the amount of such refund.
 
 #### (2) Written statement required if request is in writing
 
@@ -64,7 +64,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(B) includes any assignee of any creditor with respect to credit extended in connection with any consumer credit transaction and any subsequent assignee with respect to such credit.
 
-(Pub. L. 102 550, title IX, §933, Oct. 28, 1992, 106 Stat. 3891.)
+(Pub. L. 102–550, title IX, §933, Oct. 28, 1992, 106 Stat. 3891.)
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 For the purpose of carrying out section 290cc–22 of this title, the Secretary, acting through the Director of the Center for Mental Health Services, shall for each of the fiscal years 1991 through 1994 make an allotment for each State in an amount determined in accordance with section 290cc–24 of this title. The Secretary shall make payments, as grants, each such fiscal year to each State from the allotment for the State if the Secretary approves for the fiscal year involved an application submitted by the State pursuant to section 290cc–29 of this title.
 
-(July 1, 1944, ch. 373, title V, §521, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 516; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §813(1), 102 Stat. 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §613(1), 102 Stat. 3243; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4726; July 10, 1992, Pub. L. 102–321, title I, §§162(1), 163(a)(1), 106 Stat. 375; Aug. 26, 1992, Pub. L. 102–352, §2(b)(2), 106 Stat. 939.)
+(July 1, 1944, ch. 373, title V, §521, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 516; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §813(1), 102 Stat. 3170; Nov. 7, 1988, Pub. L.100–628, title VI, §613(1), 102 Stat. 3243; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4726; July 10, 1992, Pub. L. 102–321, title I, §§162(1), 163(a)(1), 106 Stat. 375; Aug. 26, 1992, Pub. L. 102–352, §2(b)(2), 106 Stat. 939.)
 
 #### Prior Provisions
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 290bb–31, 290cc–22, 290cc–23, 290cc–24, 290cc–25, 290cc–26, 290cc–27,290cc–28, 290cc–29, 290cc–31, 290cc–32, 290cc–33, 290cc–35 of this title.
+This section is referred to in sections 290bb–31, 290cc–22, 290cc–23, 290cc–24, 290cc–25, 290cc–26, 290cc–27, 290cc–28, 290cc–29, 290cc–31, 290cc–32, 290cc–33, 290cc–35 of this title.
 

@@ -1,4 +1,4 @@
-### §3802 . Definitions
+### §3802. Definitions
 
 As used in this chapter—
 

@@ -1,4 +1,4 @@
-### §831c–1 . Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacement, etc.
+### §831c–1. Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacement, etc.
 
 #### (a) Structures on Tennessee River or tributaries
 

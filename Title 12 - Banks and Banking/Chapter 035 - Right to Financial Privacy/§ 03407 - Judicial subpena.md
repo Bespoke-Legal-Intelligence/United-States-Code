@@ -30,5 +30,5 @@ The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 3409, 3411, 3421 of this title; title 15 section 78u.
+This section is referred to in sections 3402, 3409, 3411 of this title; title 15 section 78u.
 

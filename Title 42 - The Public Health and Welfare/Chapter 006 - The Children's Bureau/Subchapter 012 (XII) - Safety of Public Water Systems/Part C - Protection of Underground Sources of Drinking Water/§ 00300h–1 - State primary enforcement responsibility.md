@@ -14,7 +14,7 @@ Within 180 days after December 16, 1974, the Administrator shall list in the Fed
 
 > The Administrator may, for good cause, extend the date for submission of an application by any State under this subparagraph for a period not to exceed an additional 270 days.
 
-(B) Within 270 days of any amendment of a regulation under section 300h of this title revising or adding any requirement respecting State underground injection control programs, each State listed under subsection (a) of this section shall submit (in such form and manner as theAdministrator may require) a notice to the Administrator containing a showing satisfactory to him that the State underground injection control program meets the revised or added requirement.
+(B) Within 270 days of any amendment of a regulation under section 300h of this title revising or adding any requirement respecting State underground injection control programs, each State listed under subsection (a) of this section shall submit (in such form and manner as the Administrator may require) a notice to the Administrator containing a showing satisfactory to him that the State underground injection control program meets the revised or added requirement.
 
 (2) Within ninety days after the State's application under paragraph (1)(A) or notice under paragraph (1)(B) and after reasonable opportunity for presentation of views, the Administrator shall by rule either approve, disapprove, or approve in part and disapprove in part, the State's underground injection control program.
 

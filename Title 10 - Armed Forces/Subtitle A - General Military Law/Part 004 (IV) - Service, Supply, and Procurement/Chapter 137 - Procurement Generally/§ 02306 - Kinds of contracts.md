@@ -52,7 +52,7 @@
 
 (h) Multiyear contracting authority is provided in section 2306b of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 10, 1962, Pub. L. 87–653, §1(d), (e), 76 Stat. 528; July 5, 1968, Pub. L. 90–378, §1, 82 Stat. 289; Sept. 25, 1968, Pub. L. 90–512, 82 Stat. 863; Dec. 12, 1980, Pub. L. 96–513, title V, §511(77), 94 Stat. 2926; Dec. 1, 1981, Pub. L. 97–86, title IX, §§907(b), 909(b), 95 Stat. 1117, 1118; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2724, 98 Stat. 1192; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(15), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 1783–82, 1783–169, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 3341–82, 3341–169; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), 100 Stat. 3949, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §805(a), 103 Stat. 1488; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §808, 104 Stat. 1593; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(3), 105 Stat. 114; Oct. 13, 1994, Pub. L. 103–355, titleI, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), 108 Stat. 3257, 3260, 3340, 3348, 3392.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 10, 1962, Pub. L. 87–653, §1(d), (e), 76 Stat. 528; July 5, 1968, Pub. L. 90–378, §1, 82 Stat. 289; Sept. 25, 1968, Pub. L. 90–512, 82 Stat. 863; Dec. 12, 1980, Pub. L. 96–513, title V, §511(77), 94 Stat. 2926; Dec.1, 1981, Pub. L. 97–86, title IX, §§907(b), 909(b), 95 Stat. 1117, 1118; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2724, 98 Stat. 1192; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(15), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 1783–82, 1783–169, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 3341–82, 3341–169; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), 100 Stat. 3949, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §805(a), 103 Stat. 1488; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §808, 104 Stat. 1593; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(3), 105 Stat. 114; Oct. 13, 1994, Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), 108 Stat. 3257, 3260, 3340, 3348, 3392.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (h)(11) of this section were contained in Pub. L. 100–456, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which was set out below, prior to repeal by Pub. L. 101–189, §805(b).
+Provisions similar to those in subsec. (h)(11) of this section were contained in Pub. L. 100–456, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which was set out below, prior to repeal by Pub. L. 101–189, §805(b).
 
 #### Amendments
 

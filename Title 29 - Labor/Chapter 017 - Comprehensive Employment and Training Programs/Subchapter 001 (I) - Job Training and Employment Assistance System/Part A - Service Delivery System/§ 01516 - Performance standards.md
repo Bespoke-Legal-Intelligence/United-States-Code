@@ -16,7 +16,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (2) Achievement of basic measures
 
-&emsp;In order to determine whether the basic measures described in subsection (a) of this section are achieved for programs under parts A and C of subchapter II of this chapter, the Secretary, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall prescribe performance standards.
+&emsp;In order to determine whether the basic measures described in subsection (a) of thissection are achieved for programs under parts A and C of subchapter II of this chapter, the Secretary, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall prescribe performance standards.
 
 #### (3) Factors for adult standards
 
@@ -84,7 +84,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (8) Program expenditures
 
-&emsp;The Secretary shall prescribe performance standards relating gross program expenditures to various performance measures under this subsection, excluding any cost per participant measure. The Governors shall not take performance standards prescribed under this paragraph into consideration in awarding incentive grants under paragraph (7).
+&emsp;The Secretary shall prescribe performance standards relating gross program expenditures to various performance measures under this subsection, excluding any cost per participant measure. The Governors shall not take performance standards prescribed under thisparagraph into consideration in awarding incentive grants under paragraph (7).
 
 #### (c) Subchapter III performance standards
 
@@ -176,7 +176,7 @@ The National Commission for Employment Policy shall—
 
 #### (A) Plan required for continued failure
 
-&emsp;&emsp;If a service delivery area continues to fail to meet such performance standards for 2 consecutive program years, the Governor shall notify the Secretary and the service delivery area of the continued failure, and shall develop and impose a reorganization plan.
+&emsp;&emsp;If a service delivery area continues to fail to meet such performance standards for 2consecutive program years, the Governor shall notify the Secretary and the service delivery area of the continued failure, and shall develop and impose a reorganization plan.
 
 #### (B) Elements
 
@@ -234,7 +234,7 @@ The Federal Insurance Contributions Act, referred to in subsec. (b)(6)(C), is ac
 
 Subsec. (e). Pub. L. 100–628, §713(b), designated existing provision as par. (1) and added par. (2).
 
-Pub. L. 100–418, §6304(a)(1), inserted reference to subsec. (g) of this section and directed the insertion of“and in substate areas” after “State”, which was executed by making the insertion after “State” the first place it appeared to reflect the probable intent of Congress.
+Pub. L. 100–418, §6304(a)(1), inserted reference to subsec. (g) of this section and directed the insertion of “and in substate areas” after “State”, which was executed by making the insertion after “State” the first place it appeared to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 100–418, §6304(a)(2), designated existing provisions as par. (1) and added par. (2).
 

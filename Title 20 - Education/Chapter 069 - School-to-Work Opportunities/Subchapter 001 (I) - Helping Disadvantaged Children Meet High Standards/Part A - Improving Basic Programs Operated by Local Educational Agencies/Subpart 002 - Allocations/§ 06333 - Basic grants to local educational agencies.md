@@ -78,7 +78,7 @@ Subject to the succeeding sentence, a local educational agency shall be eligible
 
 &emsp;&emsp;(v) the usefulness of poverty data produced and published by the Bureau of the Census for Federal programs that allocate funds to State and sub-State areas based, in whole or in part, on such data.
 
-&emsp;(C) The Academy shall submit to the Secretary and the Secretary of Commerce, as well as to the Committee on Education and Labor and the Committee on Post Office and Civil Service of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate—
+&emsp;(C) The Academy shall submit to the Secretary and the Secretary of Commerce, as well as to the Committee on Education and Laborand the Committee on Post Office and Civil Service of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate—
 
 &emsp;&emsp;(i) not later than 18 months after the date on which a contract is entered into under subsection (a) of this section, and not later than every 18 months thereafter, such interim reports on the Academy's activities under this chapter that the Academy deems appropriate, including a detailed statement of the Academy's findings and conclusions with respect to any poverty data which the Bureau of the Census publishes and produces, within 90 days of such publication; and
 
@@ -92,7 +92,7 @@ Subject to the succeeding sentence, a local educational agency shall be eligible
 
 #### (6) Estimate
 
-&emsp;When requested by the Secretary, the Secretary of Commerce shall make a special updated estimate of the number of children of such ages who are from families below the poverty level (as determined under subparagraph (A) of this paragraph<sup>1</sup>) in each school district, and the Secretary is authorized to pay (either in advance or by way of reimbursement) the Secretary of Commerce the cost of making this special estimate. The Secretary of Commerce shall give consideration to any request of the chief executive of a State for the collection of additional census information. For purposes of this section, the Secretary shall consider all children who are in correctional institutions to be living in institutions for delinquent children.
+&emsp;When requested by the Secretary, the Secretary of Commerce shall make a special updated estimate of the number of children of such ages who are from families below the poverty level (as determined under subparagraph (A) of this paragraph <sup>1</sup>) in each school district, and the Secretary is authorized to pay (either in advance or by way of reimbursement) the Secretary of Commerce the cost of making this special estimate. The Secretary of Commerce shall give consideration to any request of the chief executive of a State for the collection of additional census information. For purposes of this section, the Secretary shall consider all children who are in correctional institutions to be living in institutions for delinquent children.
 
 #### (d) State minimum
 
@@ -106,7 +106,7 @@ Notwithstanding subsection (b)(1) or (d) of section 6332 of this title, the aggr
 
 &emsp;&emsp;(B) the number of children in such State counted under subsection (c) of this section in the fiscal year multiplied by 150 percent of the national average per pupil payment made with funds available under this section for that year.
 
-(Pub. L. 89 10, title I, §1124, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3564.)
+(Pub. L. 89–10, title I, §1124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3564.)
 
 #### References in Text
 
@@ -114,15 +114,15 @@ The Social Security Act, referred to in subsec. (c)(5), is act Aug. 14, 1935, ch
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished and its jurisdiction given primarily to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2341, 6332, 6334, 6335, 6336, 6337 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “paragraph (2) of this subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (2) of this subsection”.</i>
 

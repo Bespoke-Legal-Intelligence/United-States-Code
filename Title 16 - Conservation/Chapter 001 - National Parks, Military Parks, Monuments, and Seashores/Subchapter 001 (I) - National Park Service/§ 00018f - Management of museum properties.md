@@ -16,7 +16,7 @@ Make exchanges by accepting museum objects, museum collections, and other person
 
 #### (d) Accepting loans of museum objects
 
-Accept the loan of museum objects, museum collections, and other personal properties and pay transportation costs incidental thereto, such loans to be accepted upon terms and conditions which he shall consider necessary; and
+Accept the loan of museum objects, museum collections, and other personal properties andpay transportation costs incidental thereto, such loans to be accepted upon terms and conditions which he shall consider necessary; and
 
 #### (e) Making loans of museum objects
 

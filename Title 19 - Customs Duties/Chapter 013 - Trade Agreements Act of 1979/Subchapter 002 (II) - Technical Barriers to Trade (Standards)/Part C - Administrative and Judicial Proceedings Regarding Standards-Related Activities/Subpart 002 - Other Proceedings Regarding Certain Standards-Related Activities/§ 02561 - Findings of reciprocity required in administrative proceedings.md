@@ -1,4 +1,4 @@
-### §2561 . Findings of reciprocity required in administrative proceedings
+### §2561. Findings of reciprocity required in administrative proceedings
 
 #### (a) In general
 

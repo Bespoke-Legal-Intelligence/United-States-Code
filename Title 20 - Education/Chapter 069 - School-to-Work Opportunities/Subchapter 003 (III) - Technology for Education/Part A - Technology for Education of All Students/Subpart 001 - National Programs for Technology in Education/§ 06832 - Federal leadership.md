@@ -64,5 +64,5 @@ The Secretary shall use funds made available to carry out this section for activ
 
 &emsp;The non-Federal share required under this section shall not exceed 50 percent of the cost of the activities assisted pursuant to a grant or contract under this section.
 
-(Pub. L. 89 10, title III, §3122, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3642.)
+(Pub. L. 89–10, title III, §3122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3642.)
 

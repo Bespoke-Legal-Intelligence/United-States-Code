@@ -10,7 +10,7 @@ Disclosure of information under this section shall be permitted only upon writte
 
 #### (c) Modes of disclosure
 
-(1) Requests for the disclosure of information under this section, and such disclosure, shall be made in such manner and at such time and place as shall be prescribed by the Secretary.
+(1) Requests for the disclosure of information under this section, and such disclosure, shall bemade in such manner and at such time and place as shall be prescribed by the Secretary.
 
 (2) Information disclosed to any person under this section may be provided in the form of written documents or reproductions of such documents, or by any other mode or means which the Secretary determines necessary or appropriate. A reasonable fee may be prescribed for furnishing such information.
 

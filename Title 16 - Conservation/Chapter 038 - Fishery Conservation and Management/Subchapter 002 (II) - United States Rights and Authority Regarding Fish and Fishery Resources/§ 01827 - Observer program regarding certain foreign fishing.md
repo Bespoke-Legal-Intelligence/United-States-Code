@@ -56,7 +56,7 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265,Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 96–561 effective 15 days after Dec. 22, 1980, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 971i of this title.
+This section is referred to in sections 971h, 971i of this title.
 

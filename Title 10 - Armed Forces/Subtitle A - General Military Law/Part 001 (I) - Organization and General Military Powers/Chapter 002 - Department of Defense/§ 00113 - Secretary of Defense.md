@@ -1,4 +1,4 @@
-### §113 . Secretary of Defense
+### §113. Secretary of Defense
 
 (a) There is a Secretary of Defense, who is the head of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Secretary of Defense within 10 years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -218,9 +218,9 @@ Subsec. (i) \[formerly §138(h)\]. Pub. L. 97–252, §1105, added subsec. (h). 
 
 1980—Subsec. (b). Pub. L. 96–513 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
 
-#### Change of name
+#### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -236,7 +236,7 @@ Functions of President under various sections delegated to Secretary of Defense,
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of Defense, see Parts 1, 2, and 5 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 2251 of Title 50, Appendix, War and National Defense.
+For assignment of certain emergency preparedness functions to Secretary of Defense, see Parts 1, 2, and 5 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Order of Succession
 
@@ -522,21 +522,19 @@ Definitions.—For purposes of this section:
 
 #### Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations
 
-Pub. L. 103–335, title VIII, §8137, Sept. 30, 1994, 108 Stat. 2654, provided that:
+Pub. L. 104–61, title VIII, §8102, Dec. 1, 1995, 109 Stat. 672, provided that:
 
-“(a)(1) The Secretary of Defense shall develop a plan for establishing and implementing a requirement for disbursing officials of the Department of Defense to match disbursements to particular obligations before making the disbursements. The Secretary shall transmit the plan to Congress not later than March 1, 1995.
+“(a) Not later than October 1, 1995, the Secretary of Defense shall require that each disbursement by the Department of Defense in an amount in excess of $5,000,000 be matched to a particular obligation before the disbursement is made.
 
-“(2) The Inspector General of the Department of Defense shall review the plan and submit the Inspector General's independent assessment of the plan to the congressional defense committees.
+“(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under subsection (a) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such subsection to that disbursement.
 
-“(b)(1) Not later than July 1, 1995, the Secretary of Defense shall require that each disbursement by the Department of Defense in an amount in excess of $5,000,000 be matched to a particular obligation before the disbursement is made.
+“(c) The Secretary of Defense may waive a requirement for advance matching of a disbursement of the Department of Defense with a particular obligation in the case of (1) a disbursement involving deployed forces, (2) a disbursement for an operation in a war declared by Congress or a national emergency declared by the President or Congress, or (3) a disbursement under any other circumstances for which the waiver is necessary in the national security interests of the United States, as determined by the Secretary and certified by the Secretary to the congressional defense committees.
 
-“(2) Not later than October 1, 1995, the Secretary of Defense shall require that each disbursement by the Department of Defense in an amount in excess of $1,000,000 be matched to a particular obligation before the disbursement is made.
+“(d) This section shall not be construed to limit the authority of the Secretary of Defense to require that a disbursement not in excess of the amount applicable under subsection (a) be matched to a particular obligation before the disbursement is made.”
 
-“(c) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under subsection (b) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such subsection to that disbursement.
+Similar provisions were contained in the following prior appropriation act:
 
-“(d) The Secretary of Defense may waive a requirement for advance matching of a disbursement of the Department of Defense with a particular obligation in the case of (1) a disbursement involving deployed forces, (2) a disbursement for an operation in a war declared by Congress or a national emergency declared by the President or Congress, or (3) a disbursement under any other circumstances for which the waiver is necessary in the national security interests of the United States, as determined by the Secretary and certified by the Secretary to the congressional defense committees.
-
-“(e) This section shall not be construed to limit the authority of the Secretary of Defense to require that a disbursement not in excess of the amount applicable under subsection (b) be matched to a particular obligation before the disbursement is made.”
+Pub. L. 103–335, title VIII, §8137, Sept. 30, 1994, 108 Stat. 2654.
 
 #### Notice to Congress of Proposed Changes in Combat Assignments to Which Female Members May Be Assigned
 
@@ -876,7 +874,7 @@ Information to be provided after notification of death.—Within a reasonable pe
 
 &emsp;“(3)
 
-Assistance in obtaining reports.—(A) In any case in which an investigative report or other fatality reports are not available at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death, the Secretary concerned shall ensure that a copy of such investigative report and any other fatality reports are furnished to the family members, if they so desire, when the reports are completed and become available, to the extent such reports may be furnished consistent with sections 552 and 552a of title 5, United States Code.
+Assistance in obtaining reports.—(A) In any case in which an investigative report or other fatality reports are not available at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death, the Secretary concerned shall ensure that a copy of such investigative report and any other fatality reports are furnished to the family members, ifthey so desire, when the reports are completed and become available, to the extent such reports may be furnished consistent with sections 552 and 552a of title 5, United States Code.
 
 &emsp;“(B) In any case in which an investigative report or other fatality reports cannot be released at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death because of section 552 or 552a of title 5, United States Code, the Secretary concerned shall ensure that the family members—
 
@@ -968,7 +966,7 @@ Department of Defense Exhibitions.—(1) A military department may not participa
 
 “(c)
 
-Definition.—In this section, the term ‘incremental transportation cost’ includes the cost of transporting equipment to an airshow or trade exhibition only to the extent that the provision of transportation by the Department of Defense described in subsection (a)(2) does not fulfill legitimate training requirements that would otherwise have to be met.”
+Definition.—In this section, the term ‘incremental transportation cost’ includes the cost of transporting equipment to an airshow or trade exhibition only to the extent that the provision of transportation by theDepartment of Defense described in subsection (a)(2) does not fulfill legitimate training requirements that would otherwise have to be met.”
 
 #### Overseas Military End Strength
 
@@ -1342,7 +1340,7 @@ Funding.—(1) It is the policy of Congress that the amount of appropriated fund
 
 “(b)
 
-Funds Derived From Parent Fees To Be Used for Employee Compensation and Other Child Care Services.—(1) Except as provided in paragraph (2), child care fee receipts may be used during fiscal year 1990 only for compensation of child care employees who are directly involved in providing child care.
+Funds Derived From Parent Fees To Be Used for Employee Compensation and Other Child CareServices.—(1) Except as provided in paragraph (2), child care fee receipts may be used during fiscal year 1990 only for compensation of child care employees who are directly involved in providing child care.
 
 “(2) If the Secretary of Defense determines that compliance with the limitation in paragraph (1) would result in an uneconomical and inefficient use of such fee receipts, the Secretary may (to the extent that such compliance would be uneconomical and inefficient) use such receipts—
 
@@ -1686,7 +1684,7 @@ Duration of Test Program.—The test program under this section shall apply with
 
 #### Counterintelligence Polygraph Program
 
-Section 1121 of Pub. L. 100–180, provided that:
+Section 1121 of Pub. L. 100–180 provided that:
 
 “(a)
 
@@ -1694,7 +1692,7 @@ Authority for Program.—The Secretary of Defense may carry out a program for th
 
 “(b)
 
-Persons Covered.—Except as provided in subsection (d), the following persons whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 \[set out as a note under section 401 of Title 50, War and National Defense\] (or a successor Executive order) are subject to this section:
+Persons Covered.—Except as provided in subsection (d), the following persons whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 \[set out as a note under section 435 of Title 50, War and National Defense\] (or a successor Executive order) are subject to this section:
 
 &emsp;“(1) Military and civilian personnel of the Department of Defense.
 
@@ -1772,7 +1770,7 @@ Pub. L. 99–661, div. A, title VI, §612, Nov. 14, 1986, 100 Stat. 3878, provid
 
 #### Comparable Budgeting for Similar Systems
 
-Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, §101(c) \[title X, §955\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, §955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, which provided that in preparing the defense budget for any fiscal year, theSecretary of Defense was to specifically identify each common procurement weapon system included in the budget, take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system, and identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems, and that the Secretary of Defense carry out this section through the Assistant Secretary of Defense (Comptroller), was repealed and restated in section 2217 of this title by Pub. L. 100–370, §1(d)(3).
+Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, §101(c) \[title X, §955\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, §955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, which provided that in preparing the defense budget for any fiscal year, the Secretary of Defense was to specifically identify each common procurement weapon system included in the budget, take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system, and identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems, and that the Secretary of Defense carry out this section through the Assistant Secretary of Defense (Comptroller), was repealed and restated in section 2217 of this title by Pub. L. 100–370, §1(d)(3).
 
 #### Annual Report to Congress on Implementation of Joint Officer Personnel Policy
 
@@ -1870,7 +1868,7 @@ Report.—The Secretary of Defense shall submit a report to Congress concerning 
 
 #### “SEC. 805. FAMILY MEMBERS SERVING ON ADVISORY COMMITTEES
 
-“A committee within the Department of Defense which advises or assists the Department in the performance of any function which affects members ofmilitary families and which includes members of military families in its membership shall not be considered an advisory committee under section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) solely because of such membership.
+“A committee within the Department of Defense which advises or assists the Department in the performance of any function which affects members of military families and which includes members of military families in its membership shall not be considered an advisory committee under section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) solely because of such membership.
 
 #### “SEC. 806. EMPLOYMENT OPPORTUNITIES FOR MILITARY SPOUSES
 
@@ -1897,8 +1895,6 @@ Regulations.—The Secretary of Defense shall prescribe regulations—
 “(c)
 
 Status of Preference Eligibles.—Nothing in this section shall be construed to provide a spouse of a member of the Armed Forces with preference in hiring over an individual who is a preference eligible.
-
-\[Amended Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890.\]
 
 #### “SEC. 807. YOUTH SPONSORSHIP PROGRAM
 
@@ -2038,15 +2034,15 @@ Sec. 2. (a) The Secretary of Defense may use any funds available to the Departme
 
 “(b) Funds received from Russia as payment for such equipment and services shall be credited to the appropriate account of Department of Defense.”
 
-\[Pub. L. 103–199, title IV, §404(b), Dec. 17, 1993, 107 Stat. 2325, provided that: “The amendment made by subsection (a)(2) \[amending section 2(b) of Pub. L. 99–85,set out above\] does not affect the applicability of section 2(b) of that joint resolution to funds received from the Soviet Union.”\]
+\[Pub. L. 103–199, title IV, §404(b), Dec. 17, 1993, 107 Stat. 2325, provided that: “The amendment made by subsection (a)(2) \[amending section 2(b) of Pub. L. 99–85, set out above\] does not affect the applicability of section 2(b) of that joint resolution to funds received from the Soviet Union.”\]
 
 #### Consolidation of Functions of Military Transportation Commands Prohibited
 
-Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that none of funds appropriated pursuant to an authorization of appropriations could be used for purpose of consolidating any functions being performed on Sept. 8, 1982, by Military Traffic Management Command of Army, Military Sealift Command of Navy, or Military Airlift Command of Air Force with any function being performed on such date by either or both of the other commands, prior to repeal by Pub. L. 99–433, title II, §213(a), Oct. 1, 1986, 100 Stat. 1018.
+Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that none of funds appropriated pursuantto an authorization of appropriations could be used for purpose of consolidating any functions being performed on Sept. 8, 1982, by Military Traffic Management Command of Army, Military Sealift Command of Navy, or Military Airlift Command of Air Force with any function being performed on such date by either or both of the other commands, prior to repeal by Pub. L. 99–433, title II, §213(a), Oct. 1, 1986, 100 Stat. 1018.
 
 #### Reports to Congress on Recommendations With Respect to Elimination of Waste, Fraud, Abuse, and Mismanagement in Department of Defense
 
-Pub. L. 97–86, title IX, §918, Dec. 1, 1981, 95 Stat. 1132, directed Secretary of Defense, not later than January 15, 1982 and 1983, to submit to Congress reports containing recommendations to improve efficiency and management of, and to eliminate waste, fraud, abuse, and mismanagement in, operation of Department of Defense, and to include each recommendation by Comptroller General since Jan. 1, 1979, for elimination of waste, fraud, abuse, or mismanagement in Department of Defense with a statement as to which have been adopted and, to extent practicable actual and projected cost savings from each, and which have not been adopted and, to extent practicable, projected cost savings from each and an explanation of why each such recommendation was not adopted.
+Pub. L. 97–86, title IX, §918, Dec. 1, 1981, 95 Stat. 1132, directed Secretary of Defense, not later than Jan. 15, 1982 and 1983, to submit to Congress reports containing recommendations to improve efficiency and management of, and to eliminate waste, fraud, abuse, and mismanagement in, operation of Department of Defense, and to include each recommendation by Comptroller General since Jan. 1, 1979, for elimination of waste, fraud, abuse, or mismanagement in Department of Defense with a statement as to which have been adopted and, to extent practicable actual and projected cost savings from each, and which have not been adopted and, to extent practicable, projected cost savings from each and an explanation of why each such recommendation was not adopted.
 
 #### Military Installations To Be Closed in United States, Guam, or Puerto Rico; Studies To Determine Potential Use
 
@@ -2082,7 +2078,7 @@ Section 1. The Secretary of Defense is hereby designated and empowered, without 
 
 Sec. 2. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7299a(a) of title 10 of the United States Code to direct that combatant vessels and escort vessels be constructed in a Navy or private yard, as the case may be, if the requirement of the Act of March 27, 1934 (ch. 95, 48 Stat. 503) that the first and each succeeding alternate vessel of the same class be constructed in a Navy yard is inconsistent with the public interest.
 
-Sec. 3. For vessels, and for any major component of the hull or superstructure of vessels to be constructedor repaired for any of the armed forces, the Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7309(b) of title 10 of the United States Code to authorize exceptions to the prohibition in section 7309(a) of title 10 of the United States Code. Such exceptions shall be based on a determination that it is in the national security interest of the United States to authorize an exception. The Secretary of Defense shall transmit notice of any such determination to the Congress, as required by section 7309(b).
+Sec. 3. For vessels, and for any major component of the hull or superstructure of vessels to be constructed or repaired for any of the armed forces, the Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7309(b) of title 10 of the United States Code to authorize exceptions to the prohibition in section 7309(a) of title 10 of the United States Code. Such exceptions shall be based on a determination that it is in the national security interest of the United States to authorize an exception. The Secretary of Defense shall transmit notice of any such determination to the Congress, as required by section 7309(b).
 
 Sec. 4. The Secretary of Defense may redelegate the authority delegated to him by this order, in accordance with applicable law.
 

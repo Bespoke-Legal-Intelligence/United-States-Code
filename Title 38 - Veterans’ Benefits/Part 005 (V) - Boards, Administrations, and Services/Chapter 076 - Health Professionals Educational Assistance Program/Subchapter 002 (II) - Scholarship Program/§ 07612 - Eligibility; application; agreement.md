@@ -28,13 +28,13 @@
 
 &emsp;(A) The Secretary's agreement to provide the participant with a scholarship under this subchapter for a specified number (from one to four) of school years during which the participant is pursuing a course of education or training described in section 7602 of this title.
 
-&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program, but for not less than two years.
+&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans HealthAdministration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program, but for not less than two years.
 
 (2) In a case in which an extension is granted under section 7614(3) of this title, the number of years for which a scholarship may be provided under this subchapter shall be the number of school years provided for as a result of the extension.
 
 (3) In the case of a participant who is a part-time student—
 
-&emsp;(A) the period of obligated service shall be reduced in accordance with the proportionthat the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
+&emsp;(A) the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
 
 &emsp;(B) the agreement shall include the participant's agreement to maintain employment, while enrolled in such course of education or training, as a Department employee permanently assigned to a Department health-care facility.
 

@@ -1,6 +1,0 @@
-### §3415. Special area report; submission to Congress
-
-The Secretary shall submit a copy of each special area report developed and published pursuant to section 3413(b) of this title to the Committee on Agriculture, Nutrition, and Forestry of the Senate and to the Committee on Agriculture of the House of Representatives at least forty-five days prior to entering into any contract under section 3412 of this title with respect to land in the designated special area.
-
-(Pub. L. 97–98, title XV, §1506, Dec. 22, 1981, 95 Stat. 1332.)
-

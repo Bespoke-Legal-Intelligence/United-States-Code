@@ -48,7 +48,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (d) Proportional reduction
 
-To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
+To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increasedunder subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
 
 #### (e) Reallotment
 
@@ -62,7 +62,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;(2) have the same general authorities, including access to records and program income, as are set forth in part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.);
 
-&emsp;(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individualswithin the State who are ineligible for protection and advocacy programs under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.) or client assistance programs under section 732 of this title;
+&emsp;(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State who are ineligible for protection and advocacy programs under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.) or client assistance programs under section 732 of this title;
 
 &emsp;(4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State;
 
@@ -110,7 +110,7 @@ The Commissioner may delegate the administration of this program to the Commissi
 
 #### (<i>l</i>) Report
 
-The Commissioner shall annually prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
+The Commissioner shall annually prepare and submit to the Committee on Education andLabor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
 
 #### (m) Authorization of appropriations
 
@@ -126,7 +126,7 @@ As used in this section, the term “eligible system” means a protection and a
 
 The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsecs. (a)(2), (f)(2), (3), (5)(B), and (n), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. Part C of the Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(2) and (f)(3), (5)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42. For complete classificationof this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(2) and (f)(3), (5)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec. (c)(4)(B), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
@@ -172,7 +172,7 @@ Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -34,9 +34,9 @@ Under such regulations as the Director may prescribe, the Agency, with respect t
 
 &emsp;(D) Provide for the periodic physical examination of officers and employees of the Agency and for the cost of administering inoculation or vaccinations to such officers or employees.
 
-&emsp;(6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family who may die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
+&emsp;(6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family whomay die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
 
-&emsp;(7) Pay the costs of travel of new appointees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a pointnot more distant: <i>Provided</i>, That such appointees agree in writing to remain with the United States Government for a period of not less than twelve months from the time of appointment.
+&emsp;(7) Pay the costs of travel of new appointees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a point not more distant: <i>Provided</i>, That such appointees agree in writing to remain with the United States Government for a period of not less than twelve months from the time of appointment.
 
 &emsp;Violation of such agreement for personal convenience of an employee or because of separation for misconduct will bar such return payments and, if determined by the Director or his designee to be in the best interests of the United States, any money expended by the United States on account of such travel and transportation shall be considered as a debt due by the individual concerned to the United States.
 
@@ -80,7 +80,7 @@ Subsec. (a)(5)(C). Pub. L. 103–359, §401(3), struck out “, not the result 
 
 1981—Pub. L. 97–89 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1960—Pub. L. 86–707, §323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
+1960—Pub. L. 86–707, §323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but includingthe District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
 
 Par. (1)(A). Pub. L. 86–707, §511(c)(2), substituted “pursuant to authorized home leave” for “pursuant to orders issued by the Director in accordance with the provisions of subsection (a)(3) of this section with regard to the granting of home leave”.
 

@@ -64,7 +64,7 @@ Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) an
 
 Subsec. (c). Pub. L. 103–160, §825(a)(2), inserted heading.
 
-1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees.”
+1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the termsof the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees.”
 
 1984—Subsec. (c). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 

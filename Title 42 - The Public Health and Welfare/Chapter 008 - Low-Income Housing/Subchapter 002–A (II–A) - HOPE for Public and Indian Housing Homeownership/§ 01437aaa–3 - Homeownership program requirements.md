@@ -52,25 +52,11 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 The application shall include a plan ensuring that the unit—
 
-&emsp;(1) will be free from any defects that pose a danger to health or safety before transfer of an ownership interest in, or shares representing, a unit to an eligible family; and
+&emsp;(1) will be free from any defects that pose a danger to health or safety before transfer of anownership interest in, or shares representing, a unit to an eligible family; and
 
 &emsp;(2) will, not later than 2 years after the transfer to an eligible family, meet minimum housing standards established by the Secretary for the purposes of this subchapter.
 
-#### (g) Replacement plan
-
-Public housing projects shall not be transferred under this subchapter unless the Secretary has entered into a binding agreement with the local public housing agency to make available to such agency Federal funding assistance to provide an additional decent, safe, sanitary, and affordable dwelling unit as a replacement for each unit in a public housing project to be transferred. Such replacement housing may consist of—
-
-&emsp;(1) the development of new public housing units by the public housing agency in accordance with section 1437c of this title;
-
-&emsp;(2) the rehabilitation of vacant public housing units by the public housing agency in accordance with section 1437<i>l</i>(n)(1) of this title;
-
-&emsp;(3) the use of 5-year, tenant-based rental assistance under section 1437f(b)(2) of this title and section 1437f(<i>o</i>)(9) of this title;
-
-&emsp;(4) the use of a State or local program that is comparable to any of the Federal programs referred to in subparagraphs (A) through (C) as to housing standards, eligibility, and contribution to rent, and provides a term of assistance of not less than 5 years;
-
-&emsp;(5) where the applicant is a resident management corporation, resident council, or cooperative association, the acquisition of nonpublicly owned housing units, which the applicant shall operate as rental housing comparable to public housing as to term of assistance, housing standards, eligibility, and contribution to rent; or
-
-&emsp;(6) any combination of such methods.
+#### (g) Repealed. Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236
 
 #### (h) Protection of non-purchasing families
 
@@ -90,7 +76,7 @@ Public housing projects shall not be transferred under this subchapter unless th
 
 &emsp;Tenants renting a unit in a project transferred under this subchapter shall have all rights provided to tenants of public housing under this chapter.
 
-(Sept. 1, 1937, ch. 896, title III, §304, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4153; amended Oct. 28, 1992, Pub. L. 102–550, title I, §181(g)(1)(A), 106 Stat. 3736.)
+(Sept. 1, 1937, ch. 896, title III, §304, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4153; amended Oct. 28, 1992, Pub. L. 102–550, title I, §181(g)(1)(A), 106 Stat. 3736; July 27, 1995, Pub. L. 104–19, title I, §1002(b), 109 Stat. 236.)
 
 #### References in Text
 
@@ -100,9 +86,15 @@ This subchapter, referred to in subsec. (e)(3), was in the original “this subt
 
 #### Amendments
 
+1995—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
+
 1992—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–19 effective for plans for demolition, disposition or conversion to homeownership of public housing approved by Secretary on or before Sept. 30, 1995, provided that no application for replacement housing submitted by public housing agency to implement final court order issued or settlement agreement approved before July 27, 1995, to be affected by such amendment, see section 1002(d) of Pub. L. 104–19, set out as a note under section 1437c of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437c, 1437aaa–2 of this title.
+This section is referred to in section 1437aaa–2 of this title.
 

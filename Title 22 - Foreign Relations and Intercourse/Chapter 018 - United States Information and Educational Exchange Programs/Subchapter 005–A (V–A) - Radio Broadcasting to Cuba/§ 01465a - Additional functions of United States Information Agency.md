@@ -14,7 +14,7 @@ Radio broadcasting to Cuba authorized by this subchapter shall utilize the broad
 
 #### (d) Changes in frequencies to other AM bands; jamming and interference
 
-Notwithstanding subsection (c) of this section, in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in the twelve months preceding September 1, 1983, the Director of the United States Information Agency may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) <sup>1</sup> of this title.
+Notwithstanding subsection (c) of this section, in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in thetwelve months preceding September 1, 1983, the Director of the United States Information Agency may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) <sup>1</sup> of this title.
 
 #### (e) Voice of America: Cuba Service; Voice of America: Radio Marti program
 
@@ -22,7 +22,7 @@ Any program of United States Government radio broadcasts to Cuba authorized by t
 
 #### (f) Use of other facilities
 
-In the event broadcasting facilities located at Marathon, Florida, are rendered inoperable by natural disaster or by unlawful destruction, the Director of the United States Information Agency may, for the period in which the facilities areinoperable but not to exceed one hundred and fifty days, use other United States Government-owned transmission facilities for Voice of America broadcasts to Cuba authorized by this subchapter.
+In the event broadcasting facilities located at Marathon, Florida, are rendered inoperable by natural disaster or by unlawful destruction, the Director of the United States Information Agency may, for the period in which the facilities are inoperable but not to exceed one hundred and fifty days, use other United States Government-owned transmission facilities for Voice of America broadcasts to Cuba authorized by this subchapter.
 
 (Pub. L. 98–111, §3, Oct. 4, 1983, 97 Stat. 749.)
 

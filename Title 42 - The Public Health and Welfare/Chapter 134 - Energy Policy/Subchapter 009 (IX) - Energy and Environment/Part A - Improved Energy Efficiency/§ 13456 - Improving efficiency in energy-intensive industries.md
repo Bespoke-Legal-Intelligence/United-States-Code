@@ -12,7 +12,7 @@ The Secretary, in accordance with sections 13541 and 13542 of this title, shallâ
 
 (1) The Secretary shallâ€”
 
-&emsp;(A) conduct a competitive solicitation for proposals from private firms and investors for such joint ventures under subsection (a)(2) of this section; and
+&emsp;(A) conduct a competitive solicitation for proposals from private firms and investors forsuch joint ventures under subsection (a)(2) of this section; and
 
 &emsp;(B) provide financial assistance to at least five such joint ventures.
 

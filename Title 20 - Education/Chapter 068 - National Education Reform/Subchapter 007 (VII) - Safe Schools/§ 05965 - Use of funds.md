@@ -68,5 +68,5 @@ A local educational agency shall use grant funds received under this subchapter 
 
 &emsp;A local educational agency may not use grant funds received under this subchapter for construction.
 
-(Pub. L. 103 227, title VII, §705, Mar. 31, 1994, 108 Stat. 206.)
+(Pub. L. 103–227, title VII, §705, Mar. 31, 1994, 108 Stat. 206.)
 

@@ -40,6 +40,42 @@ Clarifications of illegible matter.—(i) Section 1842(n)(1)(A) of the Social Se
 
 #### Printed Enrollments Prepared After Enactment
 
+Pub. L. 104–56, title II, §§201, 202, Nov. 20, 1995, 109 Stat. 553, provided that:
+
+#### “SEC. 201. WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING.
+
+“(a)
+
+Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any of the following measures of the first session of the One Hundred Fourth Congress presented to the President after the enactment of this joint resolution \[Nov. 20, 1995\]:
+
+&emsp;“(1) A continuing resolution.
+
+&emsp;“(2) A debt limit extension measure.
+
+&emsp;“(3) A reconciliation bill.
+
+“(b)
+
+Certification by Committee on House Oversight.—The enrollment of a measure to which subsection (a) applies shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.
+
+#### “SEC. 202. DEFINITIONS.
+
+“As used in this joint resolution:
+
+&emsp;“(1)
+
+Continuing resolution.—The term ‘continuing resolution’ means a bill or joint resolution that includes provisions making further continuing appropriations for fiscal year 1996.
+
+&emsp;“(2)
+
+Debt limit extension measure.—The term ‘debt limit extension measure’ means a bill or joint resolution that includes provisions increasing or waiving (for a temporary period or otherwise) the public debt limit under section 3101(b) of title 31, United States Code.
+
+&emsp;“(3)
+
+Reconciliation bill.—The term ‘reconciliation bill’ means a bill that is a reconciliation bill within the meaning of section 310 of the Congressional Budget Act of 1974 \[2 U.S.C. 641\].”
+
+Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
+
 Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
@@ -126,7 +162,7 @@ Typographical corrections.—A printed enrollment prepared pursuant to paragraph
 
 “(b)
 
-Transmittal to President.—A printed enrollment prepared pursuant to subsection (a), after being certified by the Committee on House Administration ofthe House of Representatives to be a correct printing of the hand enrollment, shall be signed by the presiding officer of each House of Congress and transmitted to the President.
+Transmittal to President.—A printed enrollment prepared pursuant to subsection (a), after being certified by the Committee on House Administration of the House of Representatives to be a correct printing of the hand enrollment, shall be signed by the presiding officer of each House of Congress and transmitted to the President.
 
 “(c)
 
@@ -208,7 +244,7 @@ Preparation of Printed Enrollment.—(1) Upon the enactment of this Act enrolled
 
 “(b)
 
-Transmittal to President.—A printed enrollment prepared pursuant to subsection (a) shall be signed by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this Act and shall be transmitted to the President.
+Transmittal to President.—A printed enrollment prepared pursuant to subsection (a) shall besigned by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this Act and shall be transmitted to the President.
 
 “(c)
 
@@ -224,7 +260,7 @@ Hand Enrollment Defined.—As used in this section, the term ‘hand enrollment�
 
 Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
-“(1) Upon the enactment of this resolution enrolled as a hand enrollment, the Clerk of the House of Representatives shall prepare a printed enrollment of thisresolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply. Such enrollment shall be a correct enrollment of this resolution as enrolled in the hand enrollment.
+“(1) Upon the enactment of this resolution enrolled as a hand enrollment, the Clerk of the House of Representatives shall prepare a printed enrollment of this resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply. Such enrollment shall be a correct enrollment of this resolution as enrolled in the hand enrollment.
 
 “(2) A printed enrollment prepared pursuant to subsection (n)(1) may, in order to conform to customary style for printed laws, include corrections in spelling, punctuation, indentation, type face, and type size and other necessary stylistic corrections to the hand enrollment. Such a printed enrollment shall include notations (in the margins or as otherwise appropriate) of all such corrections.
 

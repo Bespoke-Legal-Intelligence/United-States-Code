@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) programs which are especially effective in recruiting, inducting, and retaining highly qualified teachers for service in schools with low student achievement; and
 
-&emsp;&emsp;(F) programs that are built upon partnerships developed between elementary and middle schools, employers, and the community, which emphasize the integration of high quality academic and vocational learning, stress excellence and high expectations for success in academic subjects, instill responsibility, decisionmaking, problem solving, interpersonal skills, and other compentencies<sup>1</sup> in students, and make school relevant to the workplace and the community, through applied and interactive teaching methodologies, team teaching strategies, learning opportunities connecting school, the workplace, and the community, and career exploration, awareness, and career guidance opportunities.
+&emsp;&emsp;(F) programs that are built upon partnerships developed between elementary and middle schools, employers, and the community, which emphasize the integration of high quality academic and vocational learning, stress excellence and high expectations for success in academic subjects, instill responsibility, decisionmaking, problem solving, interpersonal skills, and other compentencies <sup>1</sup> in students, and make school relevant to the workplace and the community, through applied and interactive teaching methodologies, team teaching strategies, learning opportunities connecting school, the workplace, and the community, and career exploration, awareness, and career guidance opportunities.
 
 #### (2) Evaluation
 
@@ -26,11 +26,11 @@
 
 From funds appropriated under section 6302(g)(2) of this title for any fiscal year, the Secretary may, directly or through grants or contracts, work in partnership with State educational agencies, local educational agencies, other public agencies, and nonprofit organizations to disseminate and use the highest quality research and knowledge about effective practices to improve the quality of teaching and learning in schools assisted under this subchapter.
 
-(Pub. L. 89 10, title I, §1502, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3604.)
+(Pub. L. 89–10, title I, §1502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3604.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6302 of this title.
 
-<i><sup>1</sup></i><i>So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -44,7 +44,7 @@ The Director shall—
 
 &emsp;(A) review each drug control budget request transmitted to the Director under paragraph (2);
 
-&emsp;(B) certify in writing as to the adequacy of such request in whole or in part to implement the objectives of the National Drug Control Strategy for the year for which the request is submitted and, with respect to a request that is not certified as adequate to implement the objectives of the National Drug Control Strategy, include in the certification an initiative or funding level that would make the request adequate; and
+&emsp;(B) certify in writing as to the adequacy of such request in whole or in part to implement the objectives of the National Drug Control Strategy for the year for which the request is submitted and, with respect to a request that is not certified as adequate to implement the objectives of the National Drug Control Strategy, include in the certification an initiativeor funding level that would make the request adequate; and
 
 &emsp;(C) notify the program manager, agency head, or department head, as applicable, regarding the Director's certification under subparagraph (B).
 
@@ -108,7 +108,7 @@ In carrying out the responsibilities established under subsection (b) of this se
 
 (2) An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contrary to a funds control notice issued by the Director.
 
-(3) In the case of a violation of paragraph (2) by an officer or employee of a National Drug Control Program agency, the head of the agency, upon the request of and in consultation with the Director, may subject the officer or employee to appropriate administrative discipline, including, when circumstances warrant, suspension from duty without pay or removal from office.
+(3) In the case of a violation of paragraph (2) by an officer or employee of a National DrugControl Program agency, the head of the agency, upon the request of and in consultation with the Director, may subject the officer or employee to appropriate administrative discipline, including, when circumstances warrant, suspension from duty without pay or removal from office.
 
 #### (f) <sup>2</sup> Prohibition on political campaigning
 
@@ -156,7 +156,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Resources for Certain Drug Control Activities
 
-Section 4803 of Pub. L. 100–690, which directed Director of National Drug Control Policy to review the drug control problem and make recommendations for additional resources for the problem, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Section 4803 of Pub. L. 100–690, directed Director of National Drug Control Policy to review the drug control problem and make recommendations for additional resources for the problem, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Opposition to Legalization and Public Awareness
 
@@ -268,7 +268,7 @@ Goals, Direction, Duties and Responsibilities with Respect to the National Drug 
 
 (b) <i>Measurement of National Drug Control Strategy Outcomes</i>. (1) The National Drug Control Strategy shall include long-range goals for reducing drug use and the consequences of drug use in the United States, including burdens on hospital emergency rooms, drug use among arrestees, the extent of drug-related crime, high school dropout rates, the number of infants exposed annually to illicit drugs in utero, national drug abuse treatment capacity, and the annual national health care costs of drug use.
 
-(2) The National Drug Control Strategy shall also include an assessment of the quality of techniques andinstruments to measure current drug use and supply and demand reduction activities, and the adequacy of the coverage of existing national drug use instruments and techniques to measure the total illicit drug user population and groups at-risk for drug use.
+(2) The National Drug Control Strategy shall also include an assessment of the quality of techniques and instruments to measure current drug use and supply and demand reduction activities, and the adequacy of the coverage of existing national drug use instruments and techniques to measure the total illicit drug user population and groups at-risk for drug use.
 
 (3) The Director shall coordinate an effort among the relevant drug control program agencies to assess the quality, access, management, effectiveness, and standards of accountability of drug abuse treatment, prevention, education, and other demand reduction activities.
 

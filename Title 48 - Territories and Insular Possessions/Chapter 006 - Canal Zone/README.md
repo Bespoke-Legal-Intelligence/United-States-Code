@@ -33,7 +33,7 @@ Act June 19, 1934, ch. 667, 48 Stat. 1122, enacted the “Canal Zone Code” to 
 - [&sect; 01341 to 1355 - Omitted](%C2%A7%2001341%20to%201355%20-%20Omitted.md)
 - [&sect; 01356 - Repealed. June 25, 1948, ch. 646, &sect;35, 62 Stat. 991](%C2%A7%2001356%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A735%2C%2062%20Stat.%20991.md)
 - [&sect; 01357, 1358 - Omitted](%C2%A7%2001357%2C%201358%20-%20Omitted.md)
-- [&sect; 01361 - Repealed](%C2%A7%2001361%20-%20Repealed.md)
+- [&sect; 01361 - Repealed. Sept. 26, 1950, ch. 1049, &sect;13(7), 64 Stat. 1043](%C2%A7%2001361%20-%20Repealed.%20Sept.%2026%2C%201950%2C%20ch.%201049%2C%20%C2%A713%287%29%2C%2064%20Stat.%201043.md)
 - [&sect; 01361a to 1361l - Omitted](%C2%A7%2001361a%20to%201361l%20-%20Omitted.md)
 - [&sect; 01371 to 1371b - Repealed. July 21, 1949, ch. 356, &sect;1(b), 63 Stat. 475](%C2%A7%2001371%20to%201371b%20-%20Repealed.%20July%2021%2C%201949%2C%20ch.%20356%2C%20%C2%A71%28b%29%2C%2063%20Stat.%20475.md)
 - [&sect; 01371b&#8211;1 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 648](%C2%A7%2001371b%E2%80%931%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20648.md)

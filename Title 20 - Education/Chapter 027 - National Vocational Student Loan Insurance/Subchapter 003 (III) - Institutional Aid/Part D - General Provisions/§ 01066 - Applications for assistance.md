@@ -42,27 +42,27 @@ The Secretary shall publish in the Federal Register, pursuant to chapter 5 of ti
 
 The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
 
-(Pub. L. 89 329, title III, §351, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1302; amended Pub. L. 100 50, §2(a)(13), June 3, 1987, 101 Stat. 336; Pub. L. 102 325, title III, §305(a), July 23, 1992, 106 Stat. 478.)
+(Pub. L. 89–329, title III, §351, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1302; amended Pub. L. 100–50, §2(a)(13), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(a), July 23, 1992, 106 Stat. 478.)
 
 #### Prior Provisions
 
-A prior section 1066, Pub. L. 89 329, title III, §341, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for assistance, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1066, Pub. L. 89–329, title III, §341, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for assistance, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1066, Pub. L. 89 329, title IV, §406, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90 575, title I, §101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allocation of allotted funds to institutions, filing dates for application, criteria for making allocations, additional allocations and payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92 318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1066, Pub. L. 89–329, title IV, §406, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I, §101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allocation of allotted funds to institutions, filing dates for application, criteria for making allocations, additional allocations and payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
 
-1992—Subsec. (b)(7)(D) to (F). Pub. L. 102 325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;”.
+1992—Subsec. (b)(7)(D) to (F). Pub. L. 102–325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;”.
 
-1987—Subsec. (b)(6). Pub. L. 100 50 substituted “section 1069c of this title” for “section 1069b of this title”.
+1987—Subsec. (b)(6). Pub. L. 100–50 substituted “section 1069c of this title” for “section 1069b of this title”.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -24,5 +24,5 @@ The Groups shall advise and assist the Congress, the Secretary, the Goals Panel,
 
 The Goals Panel shall provide reports on the work of the Groups to the appropriate committees of the Congress, the Secretary, and the public.
 
-(Pub. L. 103 227, title II, §207, Mar. 31, 1994, 108 Stat. 138.)
+(Pub. L. 103–227, title II, §207, Mar. 31, 1994, 108 Stat. 138.)
 

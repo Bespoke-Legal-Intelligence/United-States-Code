@@ -1,6 +1,6 @@
 ### §72e. Execution of deeds to lands
 
-The Mayor of the District of Columbia is authorized to execute proper deeds of conveyancefor real estate sold under the provisions of sections 72c to 72e and 74a to 74c of this title, which shall contain a full description of the land sold, either by metes and bounds, or otherwise, according to law.
+The Mayor of the District of Columbia is authorized to execute proper deeds of conveyance for real estate sold under the provisions of sections 72c to 72e and 74a to 74c of this title, which shall contain a full description of the land sold, either by metes and bounds, or otherwise, according to law.
 
 (Aug. 5, 1939, ch. 449, §3, 53 Stat. 1211; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title IV, §421, 87 Stat. 789.)
 

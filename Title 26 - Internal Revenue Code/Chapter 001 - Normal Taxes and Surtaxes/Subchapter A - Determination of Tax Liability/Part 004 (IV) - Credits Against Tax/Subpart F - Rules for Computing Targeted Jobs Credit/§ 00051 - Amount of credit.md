@@ -18,7 +18,7 @@ For purposes of this subpart—
 
 #### (3) Only first $6,000 of wages per year taken into account
 
-&emsp;The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year.
+&emsp;The amount of the qualified first-year wages which may be taken into account with respectto any individual shall not exceed $6,000 per year.
 
 #### (c) Wages defined
 
@@ -280,7 +280,7 @@ For purposes of this subpart—
 
 #### (2) Special rule for certain determination
 
-&emsp;Any determination as to whether paragraph (1), or subparagraph (A) or (B) of subsection (h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections (a) and (b) of section 52.
+&emsp;Any determination as to whether paragraph (1), or subparagraph (A) or (B) of subsection\(h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections (a) and (b) of section 52.
 
 #### (g) United States Employment Service to notify employers of availability of credit
 
@@ -314,7 +314,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;(B) if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in paragraphs (1) through (8) of section 152(a) to a grantor, beneficiary, or fiduciary of the estate or trust, or
 
-&emsp;&emsp;(C) is a dependent (described in section 152(a)(9)) of the taxpayer, or, if the taxpayeris a corporation, of an individual described in subparagraph (A), or, if the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust.
+&emsp;&emsp;(C) is a dependent (described in section 152(a)(9)) of the taxpayer, or, if the taxpayer is a corporation, of an individual described in subparagraph (A), or, if the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust.
 
 #### (2) Nonqualifying rehires
 
@@ -350,7 +350,7 @@ For purposes of this subpart—
 
 #### (2) Treatment of employees performing services for other persons
 
-&emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
+&emsp;No credit shall be determined under this section with respect to remuneration paid by anemployer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
 (Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556.)
 
@@ -368,7 +368,7 @@ Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (d)
 
 #### Prior Provisions
 
-A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82 Stat. 252; amended Pub. L.91–53, §5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, §301(b)(5), title VII, §701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
+A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82 Stat. 252; amended Pub. L. 91–53, §5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, §301(b)(5), title VII, §701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
 
 #### Amendments
 
@@ -566,7 +566,7 @@ Section 1041(c)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, tit
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this section\[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
+In general.—Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
 
 “(B)
 
@@ -610,7 +610,7 @@ In general.—Except as provided in subparagraphs (B), (C), and (D), the amendme
 
 &emsp;“(B)
 
-Eligible work incentive employees.—The amendments made by subsection (b)(2) \[amending this section\] to the extent relating to the designation of eligible work incentive employees (within the meaning of section 51(d)(9) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as members of a targeted group and subsection (b)(2)(B)(ii) \[amending this section\] shall apply to taxable years beginning after December 31, 1981. In the case of an eligible work incentive employee, subsections (a) and (b) of section 51 of such Code shall be applied for taxable years beginning after December 31, 1981, as if such employees had been members of a targeted group for taxable years beginning before January 1, 1982.
+Eligible work incentive employees.—The amendments made by subsection (b)(2) \[amendingthis section\] to the extent relating to the designation of eligible work incentive employees (within the meaning of section 51(d)(9) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as members of a targeted group and subsection (b)(2)(B)(ii) \[amending this section\] shall apply to taxable years beginning after December 31, 1981. In the case of an eligible work incentive employee, subsections (a) and (b) of section 51 of such Code shall be applied for taxable years beginning after December 31, 1981, as if such employees had been members of a targeted group for taxable years beginning before January 1, 1982.
 
 &emsp;“(C)
 
@@ -656,7 +656,7 @@ Section 202(e) of Pub. L. 95–30 provided that: “The amendments made by this 
 
 #### Authorization of Appropriations
 
-Section 261(f)(2) of Pub. L. 97–34, as amended by Pub. L. 97–248, title II, §233(e), Sept. 3, 1982, 96 Stat. 502; Pub.L. 98–369, div. A, title X, §1041(b), July 18, 1984, 98 Stat. 1042; Pub. L. 99–514, title XVII, §1701(d), Oct. 22, 1986, 100 Stat. 2772; Pub. L. 100–647, title IV, §4010(b), Nov. 10, 1988, 102 Stat. 3655; Pub. L. 101–239, title VII, §7103(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(b), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “There is authorized to be appropriated for each fiscal year such sums as may be necessary, to carry out the functions described by the amendments made by paragraph (1) \[amending this section\], except that, of the amounts appropriated pursuant to this paragraph—
+Section 261(f)(2) of Pub. L. 97–34, as amended by Pub. L. 97–248, title II, §233(e), Sept. 3, 1982, 96 Stat. 502; Pub. L. 98–369, div. A, title X, §1041(b), July 18, 1984, 98 Stat. 1042; Pub. L. 99–514, title XVII, §1701(d), Oct. 22, 1986, 100 Stat. 2772; Pub. L. 100–647, title IV, §4010(b), Nov. 10, 1988, 102 Stat. 3655; Pub. L. 101–239, title VII, §7103(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(b), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “There is authorized to be appropriated for each fiscal year such sums as may be necessary, to carry out the functions described by the amendments made by paragraph (1) \[amending this section\], except that, of the amounts appropriated pursuant to this paragraph—
 
 &emsp;“(A) $5,000,000 shall be used to test whether individuals certified as members of targeted groups under section 51 of such Code are eligible for such certification (including the use of statistical sampling techniques), and
 
@@ -686,7 +686,7 @@ Individual must be hired after september 26, 1978.—In the case of a member of 
 
 &emsp;“(i) such individual meets the requirements of paragraph (1) of section 51(d) of such Code, and
 
-&emsp;“(ii) in the case of an individual meeting the requirements of subparagraph (A) of such paragraph (1), a credit was not claimed for such individual by the taxpayer for a taxable year beginning before January 1, 1979.”
+&emsp;“(ii) in the case of an individual meeting the requirements of subparagraph (A) of such paragraph (1), a credit was not claimed for such individual by thetaxpayer for a taxable year beginning before January 1, 1979.”
 
 #### Credit Allowable by Section 44B in Case of Taxable Year Beginning in 1978 and Ending After December 31, 1978
 
@@ -698,7 +698,7 @@ Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41, 45A, 52, 196, 280C, 936, 1396, 1397, 6501 of this title.
+This section is referred to in sections 41, 45A, 52, 196, 280C, 936, 1396, 1397, 6501 of this title; title 42 section 13725.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -54,5 +54,5 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9002, 9005 of this title.
+This section is referred to in section 9005 of this title.
 

@@ -24,7 +24,7 @@ Section 10 of act July 29, 1947, which provided that this Act \[this chapter\] s
 
 #### Short Title
 
-Section 1 of act July 29, 1947, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided that this Act \[this chapter\] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Section 1 of act July 29, 1947, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided thatthis Act \[this chapter\] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 
 #### Savings Provision
 

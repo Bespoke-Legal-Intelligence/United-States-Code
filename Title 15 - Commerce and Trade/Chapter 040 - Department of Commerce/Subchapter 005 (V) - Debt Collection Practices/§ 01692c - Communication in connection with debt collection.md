@@ -30,5 +30,5 @@ If a consumer notifies a debt collector in writing that the consumer refuses to 
 
 For the purpose of this section, the term “consumer” includes the consumer's spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
 
-(Pub. L. 90 321, title VIII, §805, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 876.)
+(Pub. L. 90–321, title VIII, §805, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
 

@@ -88,7 +88,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as“subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -134,7 +134,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (2) Attribution from partnerships
 
-&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as owned by any partner having an interest of 5 percent or more in either the capital or profits of the partnership in proportion to his interest in capital or profits, whichever such proportion is the greater.
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as owned by any partner having an interest of 5 percent or more in either the capital or profits of thepartnership in proportion to his interest in capital or profits, whichever such proportion is the greater.
 
 #### (3) Attribution from estates or trusts
 
@@ -198,7 +198,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(B) If stock is owned (within the meaning of subsection (d)) by two or more persons, such stock shall be considered as owned by the person whose ownership of such stock results in the corporation being a component member of a controlled group. If by reason of the preceding sentence, a corporation would (but for this sentence) become a component member of two controlled groups, it shall be treated as a component member of one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
 
-&emsp;&emsp;(C) If stock is owned by a person within the meaning of subsection (d) and such ownership results in the corporation being a component member of a controlled group, such stock shall not be treated as excluded stock under subsection (c)(2), if by reason of treating such stock as excluded stock the result is that such corporation is not a component member of a controlled group of corporations.
+&emsp;&emsp;(C) If stock is owned by a person within the meaning of subsection (d) and such ownership results in the corporation being acomponent member of a controlled group, such stock shall not be treated as excluded stock under subsection (c)(2), if by reason of treating such stock as excluded stock the result is that such corporation is not a component member of a controlled group of corporations.
 
 #### (4) Franchised corporation
 

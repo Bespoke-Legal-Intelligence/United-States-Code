@@ -20,13 +20,13 @@ Pub. L. 102–243, §1, Dec. 20, 1991, 105 Stat. 2394, provided that: “This Ac
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–437, §1, Oct. 18, 1990, 104 Stat. 996, provided that: “This Act \[enacting sections 303a, 303b, and 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as notes under sections 303a, 394, and 609 of this title\] may be cited as the ‘Children's Television Act of 1990’.”
+Pub. L. 101–437, §1, Oct. 18, 1990, 104 Stat. 996, provided that: “This Act \[enacting sections 303a, 303b, and 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as notes under this section and sections 303a and 394 of this title\] may be cited as the ‘Children's Television Act of 1990’.”
 
 Pub. L. 101–437, title II, §201, Oct. 18, 1990, 104 Stat. 997, provided that: “This title \[enacting section 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as a note under section 394 of this title\] may be cited as the ‘National Endowment for Children's Educational Television Act of 1990’.”
 
 Pub. L. 101–435, §1, Oct. 17, 1990, 104 Stat. 986, provided that: “This Act \[enacting section 226 of this title and provisions set out as a note under section 226 of this title\] may be cited as the ‘Telephone Operator Consumer Services Improvement Act of 1990’.”
 
-Pub. L. 101–431, §1, Oct. 15, 1990, 104 Stat. 960, provided that: “This Act \[amending sections 303 and 330 of this title and enacting provisions set out as notes under section 303 of this title\] may be cited as the ‘Television Decoder Circuitry Act of 1990’.”
+Pub. L. 101–431, §1, Oct. 15, 1990, 104 Stat. 960, provided that: “This Act \[amending sections 303 and 330 of thistitle and enacting provisions set out as notes under section 303 of this title\] may be cited as the ‘Television Decoder Circuitry Act of 1990’.”
 
 Pub. L. 101–396, §1, Sept. 28, 1990, 104 Stat. 848, provided: “That this Act \[enacting section 333 of this title, amending sections 154, 156, 203, 303, 310, and 503 of this title, and amending provisions set out as a note under section 154 of this title\] may be cited as the ‘Federal Communications Commission Authorization Act of 1990’.”
 
@@ -40,7 +40,7 @@ Pub. L. 100–394, §1, Aug. 16, 1988, 102 Stat. 976, provided: “That this Act
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: “This Act \[enacting subchapter V–A of thischapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under sections 521, 543, and 605 of this title\] may be cited as the ‘Cable Communications Policy Act of 1984’.”
+Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: “This Act \[enacting subchapter V–A of this chapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under sections 521, 543, and 605 of this title\] may be cited as the ‘Cable Communications Policy Act of 1984’.”
 
 #### Short Title of 1983 Amendments
 

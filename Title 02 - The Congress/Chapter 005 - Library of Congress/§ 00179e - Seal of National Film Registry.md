@@ -2,7 +2,7 @@
 
 #### (a) Use of seal
 
-(1) No person shall knowingly distribute or exhibit to the public a version of a film whichbears the seal described in section 179a(b)(3) of this title if such film—
+(1) No person shall knowingly distribute or exhibit to the public a version of a film which bears the seal described in section 179a(b)(3) of this title if such film—
 
 &emsp;(A) is not included in the National Film Registry; or
 

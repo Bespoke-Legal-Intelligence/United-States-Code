@@ -38,13 +38,37 @@ The Secretary, in consultation with the Secretary of State, may determine that a
 
 &emsp;(4) where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 
-(Pub. L. 100–330, §9, June 7, 1988, 102 Stat. 596.)
+#### (h) Grandfathering of vessels documented before November 3, 1995
+
+Notwithstanding the requirements of—
+
+&emsp;(1) section 12108 of title 46;
+
+&emsp;(2) the general permit issued on December 1, 1980, to the American Tunaboat Association under section 1374(h)(1) of this title; and
+
+&emsp;(3) sections 1374(h)(2) and 1416(a) of this title— <sup>1</sup>
+
+> any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) of this section may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty <sup>2</sup> and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
+
+(Pub. L. 100–330, §9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, §801, Nov. 3, 1995, 109 Stat. 395.)
 
 #### References in Text
 
 The bankruptcy laws of the United States, referred to in subsec. (g)(2), are generally classified to Title 11, Bankruptcy.
 
+Section 12108 of title 46, referred to in subsec. (h)(1), was in the original “section 1 of the Act of August 26, 1983 (97 Stat. 587, 46 U.S.C. 12108)”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, Pub. L. 98–89, 97 Stat. 500, enacted Title 46, Shipping.
+
+Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subsec. (h)(2), (3), were in the original references to sections 104(h)(1), 104(h)(2), and 306(a) of the Marine Mammal Protection Act, and were translated as meaning sections 104(h)(1), 104(h)(2), and 306(a), respectively, of the Marine Mammal Protection Act of 1972, Pub. L. 92–522, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1995—Subsec. (h). Pub. L. 104–43 added subsec. (h).
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 973d of this title.
+
+<i><sup>1</sup></i><i> So in original. The dash probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

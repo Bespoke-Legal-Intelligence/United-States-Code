@@ -26,5 +26,5 @@ Functions of President under this section delegated to Secretary of Defense and 
 
 #### Funds Made Available Pursuant to Other Provisions of Law
 
-Section 106(d) of Pub. L. 94–329 provided that: “Funds made available pursuant to other provisions of law for foreign military educational and training activitiesshall remain available for obligation and expenditure for their original purposes in accordance with the provisions of law originally applicable to those purposes or in accordance with the provisions of law currently applicable to those purposes.”
+Section 106(d) of Pub. L. 94–329 provided that: “Funds made available pursuant to other provisions of law for foreign military educational and training activities shall remain available for obligation and expenditure for their original purposes in accordance with the provisions of law originally applicable to those purposes or in accordance with the provisions of law currently applicable to those purposes.”
 

@@ -1,4 +1,4 @@
-### \[§§5537 to 5539 . Repealed. Pub. L. 90–235, §2(a)(3), Jan. 2, 1968, 81 Stat. 756\]
+### \[§§5537 to 5539. Repealed. Pub. L. 90–235, §2(a)(3), Jan. 2, 1968, 81 Stat. 756\]
 
 Section 5537, act Aug. 10, 1956, ch. 1041, 70A Stat. 319, provided for extension of naval service during disability incident to service.
 

@@ -1,4 +1,4 @@
-### §410<i>oo</i>–1 . Establishment
+### §410<i>oo</i>–1. Establishment
 
 #### (a) In general
 

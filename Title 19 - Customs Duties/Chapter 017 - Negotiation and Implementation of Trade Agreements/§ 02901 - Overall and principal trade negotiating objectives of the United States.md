@@ -48,7 +48,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 #### (6) Trade and monetary coordination
 
-&emsp;The principal negotiating objective of the United States regarding trade and monetarycoordination is to develop mechanisms to assure greater coordination, consistency, and cooperation between international trade and monetary systems and institutions.
+&emsp;The principal negotiating objective of the United States regarding trade and monetary coordination is to develop mechanisms to assure greater coordination, consistency, and cooperation between international trade and monetary systems and institutions.
 
 #### (7) Agriculture
 
@@ -274,7 +274,7 @@ Sec. 1–301. <i>Steel Imports</i>. The functions vested in the President by sec
 
 Sec. 1–401. <i>Telecommunications Trade</i>. The functions vested in the President by sections 1375 and 1376(e) of the Omnibus Trade Act \[19 U.S.C. 3104, 3105(e)\], regarding certain telecommunications negotiations as may be ordered by the President and reports thereon to Congressional Committees, are delegated to the United States Trade Representative.
 
-Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the Omnibus Trade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the General Agreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
+Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the Omnibus Trade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the GeneralAgreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
 
 #### PART II—EXPORT ENHANCEMENT
 
@@ -338,7 +338,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative, and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[Pub. L. 100–418, title V, Aug. 23, 1988, 102 Stat. 1444\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
 
-(3) The Office of Management and Budget shall provide to the Secretary of Commerce, in sufficient timeto permit preparation of the report, a summary of the Federal base program and Fiscal Year 1990 budget initiatives in each of the technical areas of the report.
+(3) The Office of Management and Budget shall provide to the Secretary of Commerce, in sufficient time to permit preparation of the report, a summary of the Federal base program and Fiscal Year 1990 budget initiatives in each of the technical areas of the report.
 
 (4) The Office of Science and Technology Policy (“OSTP”) shall provide the Secretary of Commerce with appropriate policy guidance in the technical areas of the report, including a summary of the criteria used to select research projects within an agency and among agencies, and the results of any studies conducted by OSTP, or by others if OSTP deems them to be relevant, which analyze the influence of the Federal research programs in the technical areas of the report.
 

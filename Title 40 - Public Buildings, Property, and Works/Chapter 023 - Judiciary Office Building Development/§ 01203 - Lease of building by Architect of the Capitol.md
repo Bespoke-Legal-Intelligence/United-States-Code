@@ -16,7 +16,7 @@ The agreement entered into under this section shall include at a minimum the fol
 
 #### (c) Accounting system
 
-The Architect shall maintain an accounting system for operation and maintenance of thebuilding and other improvements to be constructed under this chapter which will permit accurate projections of the dates and the costs of major repairs, improvements, reconstructions, and replacements of such building and improvements and other capital expenditures on such building and improvements.
+The Architect shall maintain an accounting system for operation and maintenance of the building and other improvements to be constructed under this chapter which will permit accurate projections of the dates and the costs of major repairs, improvements, reconstructions, and replacements of such building and improvements and other capital expenditures on such building and improvements.
 
 #### (d) Obligation of funds
 

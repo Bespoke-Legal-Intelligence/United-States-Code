@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the California desert environment and its resources, including certain rare and endangered species of wildlife, plants, and fishes, and numerous archeological and historic sites, are seriously threatened by air pollution, inadequate Federal management authority, and pressures of increased use, particularly recreational use, which are certain to intensify because of the rapidly growing population of southern California;
 
-&emsp;(4) the use of all California desert resources can and should be provided for in a multipleuse and sustained yield management plant to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
+&emsp;(4) the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 
@@ -42,7 +42,7 @@ Subject to valid existing rights, nothing in this Act shall affect the applicabi
 
 (1) The Secretary, within sixty days after October 21, 1976, shall establish a California Desert Conservation Area Advisory Committee (hereinafter referred to as “advisory committee”) in accordance with the provisions of section 1739 of this title.
 
-(2) It shall be the function of the advisory committee to advise the Secretary with respect to the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
+(2) It shall be the function of the advisory committee to advise the Secretary with respectto the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
 
 #### (h) Management of lands under jurisdiction of Secretary of Agriculture and Secretary of Defense
 
@@ -68,7 +68,7 @@ The United States mining laws, referred to in subsec. (f), are classified genera
 
 Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (c)(2), abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Desert Lily Sanctuary
 

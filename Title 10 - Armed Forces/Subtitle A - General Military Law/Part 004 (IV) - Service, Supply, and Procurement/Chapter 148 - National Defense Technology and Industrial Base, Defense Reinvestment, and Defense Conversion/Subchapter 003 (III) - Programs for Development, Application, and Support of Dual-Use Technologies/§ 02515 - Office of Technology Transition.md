@@ -24,7 +24,7 @@ Duties.—The head of the office shall ensure that the office—
 
 (d)
 
-Reporting Requirement.—The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time that the budget is submitted to Congress by the President pursuant to section 1105of title 31. The report shall contain a discussion of the accomplishments of the Office during the fiscal year preceding the fiscal year in which the report is submitted.
+Reporting Requirement.—The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time that the budget is submitted to Congress by the President pursuant to section 1105 of title 31. The report shall contain a discussion of the accomplishments of the Office during the fiscal year preceding the fiscal year in which the report is submitted.
 
 (Added Pub. L. 102–484, div. D, title XLII, §4225(a), Oct. 23, 1992, 106 Stat. 2683.)
 
@@ -34,7 +34,7 @@ A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), 
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Schedule for Establishment of Office of Technology Transition
 

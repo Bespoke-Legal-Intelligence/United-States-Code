@@ -24,7 +24,7 @@ Metropolitan Planning.—Any project carried out under this section in an urbani
 
 Availability of Rights-of-Way.—In any case where sufficient land or air space exits <sup>2</sup> within the publicly acquired rights-of-way of any highway, constructed in whole or in part with Federal-aid highway funds, to accommodate needed passenger, commuter, or high speed rail, magnetic levitation systems, and highway and nonhighway public mass transit facilities, the Secretary shall authorize a State to make such lands, air space, and rights-of-way available with or without charge to a publicly or privately owned authority or company or any other person for such purposes if such accommodation will not adversely affect automotive safety.
 
-(g) The provision of assistance under subsection (a)(2) shall not be construed as bringing within the application of chapter 15 of title 5, United States Code, any non-supervisory employee of an urban mass transportation system (or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable.
+(g) The provision of assistance under subsection (a)(2) shall not be construed as bringing within the application of chapter 15 of title 5, United States Code, any non-supervisory employee of an urban mass transportation system\(or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable.
 
 (h) Funds available for expenditure to carry out the purposes of subsection (a)(2) of this section shall be supplementary to and not in substitution for funds authorized and available for obligation pursuant to chapter 53 of title 49.
 
@@ -78,11 +78,11 @@ Subsec. (b). Pub. L. 97–424, §120(b)(2), substituted “high occupancy vehicl
 
 Subsec. (f). Pub. L. 97–424, §120(b)(3), substituted “high occupancy vehicles” for “public mass transportation systems”.
 
-1976—Subsec. (a)(1). Pub. L. 94–280, §127(a), inserted provision that if fees are charged for the use of any parking facility constructed under this section, the rate thereof shall not be in excess of that required for maintenance and operation of the facility (including compensation to any person for operating the facility).
+1976—Subsec. (a)(1). Pub. L. 94–280, §127(a), inserted provision that if fees are charged for the use of anyparking facility constructed under this section, the rate thereof shall not be in excess of that required for maintenance and operation of the facility (including compensation to any person for operating the facility).
 
 Subsec. (e)(3). Pub. L. 94–280, §127(b), substituted “section 120 of this title” for “section 120 of this section”.
 
-1973—Subsec. (a). Pub. L. 93–87 designated existing provisions as par. (1), substituted “operating motor vehicles (other than on rail) on Federal-aid highways” for “operating motor vehicles on highways, other than on rails”, struck out “within urbanized areas” after“ ‘buses’)”, inserted “for the movement of persons” after “Federal-aid systems”, and substituted provisions respecting availability of sums apportioned under section 104(b) of this title for prior provisions for such sums apportioned in accordance with pars. (3), (5), and (6) of section 104(b) of this title, and added par. (2).
+1973—Subsec. (a). Pub. L. 93–87 designated existing provisions as par. (1), substituted “operating motor vehicles (other than on rail) on Federal-aid highways” for “operating motor vehicles on highways, other than on rails”, struck out “within urbanized areas” after “ ‘buses’)”, inserted “for the movement of persons” after “Federal-aid systems”, and substituted provisions respecting availability of sums apportioned under section 104(b) of this title for prior provisions for such sums apportioned in accordance with pars. (3), (5), and (6) of section 104(b) of this title, and added par. (2).
 
 Subsec. (b). Pub. L. 93–87 added subsec. (b). Former subsec. (b) redesignated (d).
 

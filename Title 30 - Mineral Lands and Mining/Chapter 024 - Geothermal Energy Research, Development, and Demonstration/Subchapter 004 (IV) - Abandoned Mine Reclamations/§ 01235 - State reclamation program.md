@@ -80,7 +80,7 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 #### Grant of Funds to States Under Surface Mining Control and Reclamation Act
 
-Pub. L. 97–377, title I, §150, Dec. 21, 1982, 96 Stat. 1918, provided that: “Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) \[Pub. L. 95–87, see Short Title note set out under section 1201 of this title\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act.”
+Pub. L. 97–377, title I, §150, Dec. 21, 1982, 96 Stat. 1918, provided that: “Within 60 days of receipt of a completeabandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) \[Pub. L. 95–87, see Short Title note set out under section 1201 of this title\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act.”
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–465, §2303(a), substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
 
 Subsec. (b). Pub. L. 96–465, §2303(b), substituted “departure” for “evacuation” after “issuance of the”.
 

@@ -8,5 +8,5 @@ Payments under this part may be made in installments, in advance, or by way of r
 
 The Comptroller General of the United States or any of the Comptroller General's duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records that are pertinent to any grant under this part.
 
-(Pub. L. 89 10, title X, §10741, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3843.)
+(Pub. L. 89–10, title X, §10741, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3843.)
 

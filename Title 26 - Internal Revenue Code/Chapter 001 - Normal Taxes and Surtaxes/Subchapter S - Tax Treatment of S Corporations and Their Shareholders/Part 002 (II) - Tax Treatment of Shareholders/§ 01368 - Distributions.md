@@ -14,7 +14,7 @@ In the case of a distribution described in subsection (a) by an S corporation wh
 
 #### (2) Amount in excess of basis
 
-&emsp;If the amount of the distribution exceeds the adjusted basis of the stock, such excess shallbe treated as gain from the sale or exchange of property.
+&emsp;If the amount of the distribution exceeds the adjusted basis of the stock, such excess shall be treated as gain from the sale or exchange of property.
 
 #### (c) S corporation having earnings and profits
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revis
 
 #### Effective Date of 1983 Amendment
 
-Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
+Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305\[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
 
 #### Effective Date
 

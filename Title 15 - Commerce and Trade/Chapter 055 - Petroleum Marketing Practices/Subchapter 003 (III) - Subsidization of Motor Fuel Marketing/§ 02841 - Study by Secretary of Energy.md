@@ -36,5 +36,5 @@ In conducting the study required by this section, the Secretary shall give appro
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 95 297, title III, §301, June 19, 1978, 92 Stat. 337.)
+(Pub. L. 95–297, title III, §301, June 19, 1978, 92 Stat. 337.)
 

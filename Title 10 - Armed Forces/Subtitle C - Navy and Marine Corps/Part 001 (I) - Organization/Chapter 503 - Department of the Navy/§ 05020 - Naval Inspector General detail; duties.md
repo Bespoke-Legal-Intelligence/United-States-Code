@@ -8,7 +8,7 @@
 
 (d) The Naval Inspector General shall periodically propose programs of inspections to the Secretary of the Navy and shall recommend additional inspections and investigations as may appear appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 283, §5088; Dec. 12, 1980, Pub. L. 96–513, title V, §503(7), 94 Stat.2911; renumbered §5020 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §511(c)(5), 100 Stat. 1047.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 283, §5088; Dec. 12, 1980, Pub. L. 96–513, title V, §503(7), 94 Stat. 2911; renumbered §5020 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §511(c)(5), 100 Stat. 1047.)
 
 Historical and Revision Notes
 

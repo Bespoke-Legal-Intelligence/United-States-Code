@@ -16,7 +16,7 @@
 
 &emsp;(2) the person's former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the Reserve commission held by that person during the active duty from which the person was released or discharged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 505; Aug. 8, 1958, Pub. L. 85–603, §1(3), 72 Stat. 526; Oct. 23, 1992,Pub. L. 102–484, div. A, title V, §520(b), 106 Stat. 2409.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 505; Aug. 8, 1958, Pub. L. 85–603, §1(3), 72 Stat. 526; Oct. 23, 1992, Pub. L. 102–484, div. A, title V, §520(b), 106 Stat. 2409.)
 
 Historical and Revision Notes
 

@@ -12,7 +12,7 @@ The Secretary may not make a grant under this subpart to a local educational age
 
 #### (1) In general
 
-&emsp;The Secretary may not pay a local educational agency the full amount of a grant award determined under section 7813 of this title for any fiscal year unless the State educational agency notifies the Secretary, and the Secretary determines, that with respect tothe provision of free public education by the local educational agency for the preceding fiscal year, that the combined fiscal effort of the local educational agency and the State, computed on either a per student or aggregate expenditure basis was not less than 90 percent of the amount of the combined fiscal effort, computed on the same basis, for the second preceding fiscal year.
+&emsp;The Secretary may not pay a local educational agency the full amount of a grant award determined under section 7813 of this title for any fiscal year unless the State educational agency notifies the Secretary, and the Secretary determines, that with respect to the provision of free public education by the local educational agency for the preceding fiscal year, that the combined fiscal effort of the local educational agency and the State, computed on either a per student or aggregate expenditure basis was not less than 90 percent of the amount of the combined fiscal effort, computed on the same basis, for the second preceding fiscal year.
 
 #### (2) Failure
 
@@ -36,9 +36,9 @@ The Secretary may reallocate, in a manner that the Secretary determines will bes
 
 &emsp;(2) otherwise become available for reallocation under this subpart.
 
-(Pub. L. 89 10, title IX, §9117, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3781.)
+(Pub. L. 89–10, title IX, §9117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3781.)
 
 #### References in Text
 
-The Indian Education Act of 1988, referred to in subsec. (b), is part C (§§5301 5352) of title V of Pub. L. 100 297, Apr. 28, 1988, 102 Stat. 395. Subpart 1 (§§5311 5316) of the Act was classified generally to subchapter I (§2601 et seq.) of chapter 28 of Title 25, Indians, prior to repeal by Pub. L. 103 382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
+The Indian Education Act of 1988, referred to in subsec. (b), is part C (§§5301–5352) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 395. Subpart 1 (§§5311–5316) of the Act was classified generally to subchapter I (§2601 et seq.) of chapter 28 of Title 25, Indians, prior to repeal by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
 

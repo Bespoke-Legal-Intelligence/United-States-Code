@@ -2,7 +2,7 @@
 
 #### (a) Civil action to compel compliance with this chapter
 
-Except as provided in subsection (b) of this section, any person having an interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this chapter—
+Except as provided in subsection (b) of this section, any person having an interest which isor may be adversely affected may commence a civil action on his own behalf to compel compliance with this chapter—
 
 &emsp;(1) against the United States or any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution which is alleged to be in violation of the provisions of this chapter or of any rule, regulation, order or permit issued pursuant thereto, or against any other person who is alleged to be in violation of any rule, regulation, order or permit issued pursuant to this subchapter; or
 

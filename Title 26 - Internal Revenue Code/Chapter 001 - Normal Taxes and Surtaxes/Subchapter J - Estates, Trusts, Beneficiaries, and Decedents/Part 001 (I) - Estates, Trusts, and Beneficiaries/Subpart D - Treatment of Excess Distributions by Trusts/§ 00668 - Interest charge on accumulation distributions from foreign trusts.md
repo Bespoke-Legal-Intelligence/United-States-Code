@@ -24,7 +24,7 @@ A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, 
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–508 substituted heading for one which read “Special rules” and amended text generally, restating provisions of former par. (1) as entire subsection and striking out former par. (2) which provided that for purposes of this section, undistributed net income existing in a trust as of January 1, 1977, would be treated as allocated under section 666(a) to the first taxable year beginning after December 31, 1976.
+1990—Subsec. (c). Pub. L. 101–508 substituted heading for one which read “Special rules” and amended textgenerally, restating provisions of former par. (1) as entire subsection and striking out former par. (2) which provided that for purposes of this section, undistributed net income existing in a trust as of January 1, 1977, would be treated as allocated under section 666(a) to the first taxable year beginning after December 31, 1976.
 
 #### Effective Date
 

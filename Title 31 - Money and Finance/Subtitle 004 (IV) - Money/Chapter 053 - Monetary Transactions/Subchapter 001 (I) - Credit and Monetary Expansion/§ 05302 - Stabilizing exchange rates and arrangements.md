@@ -1,6 +1,6 @@
 ### §5302. Stabilizing exchange rates and arrangements
 
-(a)(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act (22 U.S.C. 286e–3), and section 3 of the Special Drawing Rights Act (22 U.S.C. 286<i>o</i>), and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interestshall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
+(a)(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act (22 U.S.C. 286e–3), and section 3 of the Special Drawing Rights Act (22 U.S.C. 286<i>o</i>), and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
 
 (2) Subject to approval by the President, the fund is under the exclusive control of the Secretary, and may not be used in a way that direct control and custody pass from the President and the Secretary. Decisions of the Secretary are final and may not be reviewed by another officer or employee of the Government.
 
@@ -56,7 +56,165 @@ In subsection (d), the words “any part of the first subscription payment of th
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Mexican Debt Disclosure
+
+Pub. L. 104–6, title IV, Apr. 10, 1995, 109 Stat. 89, provided that:
+
+#### “SEC. 401. SHORT TITLE.
+
+“This title may be cited as the ‘Mexican Debt Disclosure Act of 1995’.
+
+#### “SEC. 402. FINDINGS.
+
+“The Congress finds that—
+
+&emsp;“(1) Mexico is an important neighbor and trading partner of the United States;
+
+&emsp;“(2) on January 31, 1995, the President approved a program of assistance to Mexico, in the form of swap facilities and securities guarantees in the amount of $20,000,000,000, using the exchange stabilization fund;
+
+&emsp;“(3) the program of assistance involves the participation of the Board of Governors of the Federal Reserve System, the International Monetary Fund, the Bank for International Settlements, the International Bank for Reconstruction and Development, the Inter-American Development Bank, the Bank of Canada, and several Latin American countries;
+
+&emsp;“(4) the involvement of the exchange stabilization fund and the Board of Governors of the Federal Reserve System means that United States taxpayer funds will be used in the assistance effort to Mexico;
+
+&emsp;“(5) assistance provided by the International Monetary Fund, the International Bank for Reconstruction and Development, and the Inter-American Development Bank may require additional United States contributions of taxpayer funds to those entities;
+
+&emsp;“(6) the immediate use of taxpayer funds and the potential requirement for additional future United States contributions of taxpayer funds necessitates congressional oversight of the disbursement of funds; and
+
+&emsp;“(7) the efficacy of the assistance to Mexico is contingent on the pursuit of sound economic policy by the Government of Mexico.
+
+#### “SEC. 403. PRESIDENTIAL REPORTS.
+
+“(a)
+
+Reporting Requirement.—Not later than June 30, 1995, and every 6 months thereafter, the President shall transmit to the appropriate congressional committees a report concerning all guarantees issued to, and short-term and long-term currency swaps with, the Government of Mexico by the United States Government, including the Board of Governors of the Federal Reserve System.
+
+“(b)
+
+Contents of Reports.—Each report described in subsection (a) shall contain a description of the following actions taken, or economic situations existing, during the preceding 6-month period or, in the case of the initial report, during the period beginning on the date of enactment of this Act \[Apr. 10, 1995\]:
+
+&emsp;“(1) Changes in wage, price, and credit controls in the Mexican economy.
+
+&emsp;“(2) Changes in taxation policy of the Government of Mexico.
+
+&emsp;“(3) Specific actions taken by the Government of Mexico to further privatize the economy of Mexico.
+
+&emsp;“(4) Actions taken by the Government of Mexico in the development of regulatory policy that significantly affected the performance of the Mexican economy.
+
+&emsp;“(5) Consultations concerning the program approved by the President, including advice on economic, monetary, and fiscal policy, held between the Government of Mexico and the Secretary of the Treasury (including any designee of the Secretary) and the conclusions resulting from any periodic reviews undertaken by the International Monetary Fund pursuant to the Fund's loan agreements with Mexico.
+
+&emsp;“(6) All outstanding loans, credits, and guarantees provided to the Government of Mexico, by the United States Government, including the Board of Governors of the Federal Reserve System, set forth by category of financing.
+
+&emsp;“(7) The progress the Government of Mexico has made in stabilizing the peso and establishing an independent central bank or currency board.
+
+“(c)
+
+Summary of Treasury Department Reports.—In addition to the information required to be included under subsection (b), each report required under this section shall contain a summary of the information contained in all reports submitted under section 404 during the period covered by the report required under this section.
+
+#### “SEC. 404. REPORTS BY THE SECRETARY OF THE TREASURY.
+
+“(a)
+
+Reporting Requirement.—Beginning on the last day of the first month which begins after the date of enactment of this Act \[Apr. 10, 1995\], and on the last day of every month thereafter, the Secretary of the Treasury shall submit to the appropriate congressional committees a report concerning all guarantees issued to, and short-term and long-term currency swaps with, the Government of Mexico by the United States Government, including the Board of Governors of the Federal Reserve System.
+
+“(b)
+
+Contents of Reports.—Each report described in subsection (a) shall include a description of the following actions taken, or economic situations existing, during the month in which the report is required to be submitted:
+
+&emsp;“(1) The current condition of the Mexican economy.
+
+&emsp;“(2) The reserve positions of the central bank of Mexico and data relating to the functioning of Mexican monetary policy.
+
+&emsp;“(3) The amount of any funds disbursed from the exchange stabilization fund pursuant to the program of assistance to the Government of Mexico approved by the President on January 31, 1995.
+
+&emsp;“(4) The amount of any funds disbursed by the Board of Governors of the Federal Reserve System pursuant to the program of assistance referred to in paragraph (3).
+
+&emsp;“(5) Financial transactions, both inside and outside of Mexico, made during the reporting period involving funds disbursed to Mexico from the exchange stabilization fund or proceeds of Mexican Government securities guaranteed by the exchange stabilization fund.
+
+&emsp;“(6) All outstanding guarantees issued to, and short-term and medium-term currency swaps with, the Government of Mexico by the Secretary of the Treasury, set forth by category of financing.
+
+&emsp;“(7) All outstanding currency swaps with the central bank of Mexico by the Board of Governors of the Federal Reserve System and the rationale for, and any expected costs of, such transactions.
+
+&emsp;“(8) The amount of payments made by customers of Mexican petroleum companies that have been deposited in the account at the Federal Reserve Bank of New York established to ensure repayment of any payment by the United States Government, including the Board of Governors of the Federal Reserve System, in connection with any guarantee issued to, or any swap with, the Government of Mexico.
+
+&emsp;“(9) Any setoff by the Federal Reserve Bank of New York against funds in the account described in paragraph (8).
+
+&emsp;“(10) To the extent such information is available, once there has been a setoff by the Federal Reserve Bank of New York, any interruption in deliveries of petroleum products to existing customers whose payments were setoff.
+
+&emsp;“(11) The interest rates and fees charged to compensate the Secretary of the Treasury for the risk of providing financing.
+
+#### “SEC. 405. TERMINATION OF REPORTING REQUIREMENTS.
+
+“The requirements of sections 403 and 404 shall terminate on the date that the Government of Mexico has paid all obligations with respect to swap facilities and guarantees of securities made available under the program approved by the President on January 31, 1995.
+
+#### “SEC. 406. PRESIDENTIAL CERTIFICATION REGARDING SWAP OF CURRENCIES TO MEXICO THROUGH EXCHANGE STABILIZATION FUND OR FEDERAL RESERVE.
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, no loan, credit, guarantee, or arrangementfor a swap of currencies to Mexico through the exchange stabilization fund or by the Board of Governors of the Federal Reserve System may be extended or (if already extended) further utilized, unless and until the President submits to the appropriate congressional committees a certification that—
+
+&emsp;“(1) there is no projected cost (as defined in the Credit Reform Act of 1990 \[probably means the Federal Credit Reform Act of 1990, 2 U.S.C. 661 et seq.\]) to the United States from the proposed loan, credit, guarantee, or currency swap;
+
+&emsp;“(2) all loans, credits, guarantees, and currency swaps are adequately backed to ensure that all United States funds are repaid;
+
+&emsp;“(3) the Government of Mexico is making progress in ensuring an independent central bank or an independent currency control mechanism;
+
+&emsp;“(4) Mexico has in effect a significant economic reform effort; and
+
+&emsp;“(5) the President has provided the documents described in paragraphs (1) through (28) of House Resolution 80, adopted March 1, 1995.
+
+“(b)
+
+Treatment of Classified or Privileged Material.—For purposes of the certification required by subsection (a)(5), the President shall specify, in the case of any document that is classified or subject to applicable privileges, that, while such document may not have been produced to the House of Representatives, in lieu thereof it has been produced to specified Members of Congress or their designees by mutual agreement among the President, the Speaker of the House, and the chairmen and ranking members of the Committee on Banking and Financial Services, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House.
+
+#### “SEC. 407. DEFINITIONS.
+
+“For purposes of this title, the following definitions shall apply:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committees on International Relations and Banking and Financial Services of the House of Representatives, the Committees on Foreign Relations and Banking, Housing, and Urban Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
+
+&emsp;“(2)
+
+Exchange stabilization fund.—The term ‘exchange stabilization fund’ means the stabilization fund referred to in section 5302(a)(1) of title 31, United States Code.”
+
+#### Certification Regarding Use of Exchange Stabilization Fund and Federal Reserve in Relation to Economic Crisis in Mexico
+
+Memorandum of President of the United States, June 29, 1995, 60 F.R. 35113, provided:
+
+Memorandum for the Secretary of the Treasury
+
+On January 31, 1995, I approved a program of assistance to Mexico, in the form of swap facilities and securities guarantees in an amount not to exceed $20 billion, using the Exchange Stabilization Fund (the “ESF program”).
+
+By virtue of the authority vested in me by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 406 of the Emergency Supplemental Appropriations and Rescissions for the Department of Defense to Preserve and Enhance Military Readiness Act of 1995 (Public Law 104–6) \[set out above\], I hereby certify that:
+
+(1) There is no projected cost (as defined in the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]) to the United States from the proposed swap transaction.
+
+(2) All loans, credits, guarantees, and currency swaps to Mexico from the Exchange Stabilization Fund or the Federal Reserve System are adequately backed to ensure that all United States funds are repaid.
+
+(3) The Government of Mexico is making progress in ensuring an independent central bank.
+
+(4) Mexico has in effect a significant economic reform effort.
+
+(5) The Executive Branch has provided the documents requested by House Resolution 80 adopted March 1, 1995, and described in paragraphs (1) through (28) of that Resolution. All documents identified as responsive to the Resolution have been provided to the entire House of Representatives. Pursuant to the terms of the Resolution, the Executive Branch has not provided those documents as to which the Executive Branch has informed the House that it would be inconsistent with the public interest to provide the documents to the House. Pursuant to arrangements for safekeeping of classified materials in House facilities, classified documents have been provided to the House by making them available either at designated, secure House facilities or at Executive Branch facilities. Each agency, including the Federal Reserve Board, has advised the House of the procedures employed by that agency to provide the documents requested by House Resolution 80.
+
+I have been informed that the Board of Governors of the Federal Reserve System has provided the documents requested by House Resolution 80 and described in paragraphs (1) through (28) of that Resolution.
+
+I hereby delegate to you the reporting requirement contained in section 406 of Public Law 104–6 \[set out above\]. You are authorized and requested to report this certification immediately to the Speaker of the House and appropriate congressional committees, as defined in section 407 of Public Law 104–6 \[set out above\].
+
+I also hereby delegate to you the reporting requirement contained in section 403 of Public Law 104–6 \[set out above\].
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior certifications were contained in the following:
+
+Memorandum of President of the United States, May 17, 1995, 60 F.R. 27395.
+
+Memorandum of President of the United States, Apr. 14, 1995, 60 F.R. 19485.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ Each eligible organization desiring a grant under this section shall submit to t
 
 &emsp;(2) contain assurances that the eligible organization will provide from non-Federal sources the non-Federal share of the cost of the program or project,
 
-&emsp;(3) provide assurances, satisfactory to the Director, that the literacy project will be operated in cooperation with other public and private agencies and organizations interested in, and qualified to, combat illiteracy in the community where the project is to be conducted, and
+&emsp;(3) provide assurances, satisfactory to the Director, that the literacy project will be operated in cooperation with other public and private agencies and organizations interested in, and qualified to, combat illiteracy in thecommunity where the project is to be conducted, and
 
 &emsp;(4) contain such other information and assurances as the Director may reasonably require.
 

@@ -24,7 +24,7 @@ Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120
 
 &emsp;“(2) allotment percentages promulgated by the Surgeon General under such title VI during 1962 shall continue to be effective for purposes of such title as amended by this Act for the fiscal year ending June 30, 1965;
 
-&emsp;“(3) the terms of members of the Federal Hospital Council who are serving on such Council prior to suchdate shall expire on the date they would have expired had this Act not been enacted;
+&emsp;“(3) the terms of members of the Federal Hospital Council who are serving on such Council prior to such date shall expire on the date they would have expired had this Act not been enacted;
 
 &emsp;“(4) the provisions of the fourth sentence of section 636(a) of the Public Health Service Act \[former section 291n of this title\], as in effect prior to the enactment of this Act, shall apply in lieu of the fourth sentence of section 624(a) of the Public Health Service Act \[section 291n(a) of this title\], as amended by this Act, in the case of any project for construction of a facility or for acquisition of equipment with respect to which a grant for any part thereof or for planning such construction or equipment was made prior to the enactment of this Act;
 

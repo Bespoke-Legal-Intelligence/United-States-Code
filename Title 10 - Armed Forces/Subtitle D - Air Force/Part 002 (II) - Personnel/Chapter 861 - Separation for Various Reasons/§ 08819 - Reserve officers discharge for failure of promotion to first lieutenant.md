@@ -1,6 +1,6 @@
 ### §8819. Reserve officers: discharge for failure of promotion to first lieutenant
 
-(a) Except as provided by sections 1005 and 1006 <sup>1</sup> of this title, each second lieutenant of the Air Force Reserve who completes three years of service, computed under section 8360(e) of this title, in that grade shall be discharged from his reserve appointment if he is found to be not qualified for promotion.
+(a) Except as provided by sections 1005 and 1006 <sup>1</sup> of this title, each second lieutenant of the Air Force Reserve who completes three years of service, computed under section 8360(e) of this title, in that grade shall be discharged from hisreserve appointment if he is found to be not qualified for promotion.
 
 (b) Except as provided by section 1005 <sup>1</sup> of this title, each second lieutenant of the Air National Guard of the United States who completes three years of service, computed under section 8360(e) of this title, in that grade shall be discharged from his reserve appointment if he is found to be not qualified for promotion, unless before he completes that service he is appointed in the grade of first lieutenant by the governor or other appropriate authority of the jurisdiction concerned.
 

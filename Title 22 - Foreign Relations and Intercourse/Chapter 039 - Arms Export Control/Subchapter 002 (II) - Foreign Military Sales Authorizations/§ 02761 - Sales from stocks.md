@@ -30,7 +30,7 @@ Except as provided by subsection (d) of this section, payment shall be made in a
 
 #### (d) Billings; interest after due date, rates of interest and extension of due date
 
-If the President determines it to be in the national interest pursuant to subsection (b) of thissection, billings for sales made under letters of offer issued under this section after June 30, 1976, may be dated and issued upon delivery of the defense article or rendering of the defense service and shall be due and payable upon receipt thereof by the purchasing country or international organization. Interest shall be charged on any net amount due and payable which is not paid within sixty days after the date of such billing. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the billing and shall be computed from the date of billing. The President may extend such sixty-day period to one hundred and twenty days if he determines that emergency requirements of the purchaser for acquisition of such defense articles or defense services exceed the ready availability to the purchaser of funds sufficient to pay the United States in full for them within such sixty-day period and submits that determination to the Congress together with a special emergency request for the authorization and appropriation of additional funds to finance such purchases under this chapter.
+If the President determines it to be in the national interest pursuant to subsection (b) of this section, billings for sales made under letters of offer issued under this section after June 30, 1976, may be dated and issued upon delivery of the defense article or rendering of the defense service and shall be due and payable upon receipt thereof by the purchasing country or international organization. Interest shall be charged on any net amount due and payable which is not paid within sixty days after the date of such billing. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the billing and shall be computed from the date of billing. The President may extend such sixty-day period to one hundred and twenty days if he determines that emergency requirements of the purchaser for acquisition of such defense articles or defense services exceed the ready availability to the purchaser of funds sufficient to pay the United States in full for them within such sixty-day period and submits that determination to the Congress together with a special emergency request for the authorization and appropriation of additional funds to finance such purchases under this chapter.
 
 #### (e) Charges; reduction or waiver
 
@@ -42,7 +42,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 &emsp;(C) the recovery of ordinary inventory losses associated with the sale from stock of defense articles that are being stored at the expense of the purchaser of such articles.
 
-(2) The President may reduce or waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) for particular sales that would, if made, significantly advance United States Government interests in North Atlantic Treaty Organization standardization, standardization with the Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries, or foreign procurement in the United States under coproduction arrangements.
+(2) The President may reduce or waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) forparticular sales that would, if made, significantly advance United States Government interests in North Atlantic Treaty Organization standardization, standardization with the Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries, or foreign procurement in the United States under coproduction arrangements.
 
 (3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the Maintenance and Supply Agency of the North Atlantic Treaty Organization in support of—
 
@@ -116,7 +116,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principallyto chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 
@@ -160,7 +160,7 @@ Subsec. (h)(2). Pub. L. 99–83, §111(3), added par. (2).
 
 1984—Subsec. (a)(3). Pub. L. 98–473 struck out “sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961” after “in the case of training”.
 
-Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO standardization agreements and similar agreements with Japan, Australia, and New Zealand.
+Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO standardization agreements andsimilar agreements with Japan, Australia, and New Zealand.
 
 1982—Subsec. (i)(1). Pub. L. 97–392 inserted reference to proposals to sell under the authority of subchapter II–B of this chapter.
 

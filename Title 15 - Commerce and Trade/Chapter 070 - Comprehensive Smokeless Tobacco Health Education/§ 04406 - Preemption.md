@@ -12,5 +12,5 @@ No statement relating to the use of smokeless tobacco products and health, other
 
 Nothing in this chapter shall relieve any person from liability at common law or under State statutory law to any other person.
 
-(Pub. L. 99 252, §7, Feb. 27, 1986, 100 Stat. 34.)
+(Pub. L. 99–252, §7, Feb. 27, 1986, 100 Stat. 34.)
 

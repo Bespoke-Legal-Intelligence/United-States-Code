@@ -20,7 +20,7 @@ The Secretary shall annually submit to the Congress an update of the report subm
 
 &emsp;(2) identify any industries that should be added to the list of critical industries.
 
-(Pub. L. 102 245, title V, §504, Feb. 14, 1992, 106 Stat. 24.)
+(Pub. L. 102–245, title V, §504, Feb. 14, 1992, 106 Stat. 24.)
 
 #### Codification
 

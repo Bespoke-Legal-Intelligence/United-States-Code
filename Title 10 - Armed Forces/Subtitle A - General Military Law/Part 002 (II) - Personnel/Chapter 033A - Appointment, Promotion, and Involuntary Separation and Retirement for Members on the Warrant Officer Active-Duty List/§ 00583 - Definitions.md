@@ -1,4 +1,4 @@
-### §583 . Definitions
+### §583. Definitions
 
 In this chapter:
 
@@ -16,7 +16,7 @@ In this chapter:
 
 &emsp;&emsp;(C) are senior to the senior warrant officer in the promotion zone.
 
-&emsp;(3) The term “warrant officers below the promotion zone” means a group of officers ona warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
+&emsp;(3) The term “warrant officers below the promotion zone” means a group of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
 
 &emsp;&emsp;(A) are eligible for consideration for promotion to the next higher grade;
 

@@ -26,7 +26,7 @@ Section 305 of the Government Employees Salary Reform Act of 1964, referred to i
 
 #### Amendments
 
-1978—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 

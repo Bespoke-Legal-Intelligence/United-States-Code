@@ -32,19 +32,19 @@ The Foundation shall be subject to the supervision and direction of the Board of
 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
-(Pub. L. 99 661, div. A, title XIV, §1404, Nov. 14, 1986, 100 Stat. 4008; Pub. L. 100 26, §3(10), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102 190, div. A, title X, §1089(1), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 103 160, div. A, title XI, §1179(a), Nov. 30, 1993, 107 Stat. 1770.)
+(Pub. L. 99–661, div. A, title XIV, §1404, Nov. 14, 1986, 100 Stat. 4008; Pub. L. 100–26, §3(10), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, §1089(1), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 103–160, div. A, title XI, §1179(a), Nov. 30, 1993, 107 Stat. 1770.)
 
 #### Amendments
 
-1993—Subsec. (c)(1)(C). Pub. L. 103 160 added subpar. (C).
+1993—Subsec. (c)(1)(C). Pub. L. 103–160 added subpar. (C).
 
-1991—Subsec. (b)(3). Pub. L. 102 190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
+1991—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
 
-1987—Subsec. (c)(2). Pub. L. 100 26 substituted “clause (1) or (2)” for “clause (2) or (3)”.
+1987—Subsec. (c)(2). Pub. L. 100–26 substituted “clause (1) or (2)” for “clause (2) or (3)”.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 26 applicable as if included in Pub. L. 99 661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100 26, set out as a note under section 776 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

@@ -92,7 +92,7 @@ The Strategic Petroleum Reserve Plan shall include:
 
 1992—Subsec. (a). Pub. L. 102–486 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsecs. (b), (d). Pub. L. 95–619 substituted “Secretary” and “Secretary's” for “Administrator”and “Administrator's”, respectively, meaning Administrator of the Federal Energy Administration, wherever appearing.
+1978—Subsecs. (b), (d). Pub. L. 95–619 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Strategic Petroleum Reserve Drawdown Plan
 

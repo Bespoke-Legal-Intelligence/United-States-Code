@@ -6,7 +6,7 @@ Any person who violates the provisions of this chapter shall be guilty of a misd
 
 #### Prior Provisions
 
-A prior section 10 of Pub. L. 89–92 was redesignated section 11 and is classified to section 1339 of this title.
+A prior section 10 of Pub. L. 89–92 was renumbered section 11 and is classified to section 1339 of this title.
 
 #### Amendments
 

@@ -1,4 +1,4 @@
-### \[§§555 to 565 . Repealed. Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1492\]
+### \[§§555 to 565. Repealed. Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1492\]
 
 Section 555, acts Aug. 10, 1956, ch. 1041, 70A Stat. 20; Sept. 7, 1962, Pub. L. 87–649, §§6(f)(2), 14c(2), 76 Stat. 494, 501; July 30, 1977, Pub. L. 95–79, title III, §302(a)(4), 91 Stat. 326; Nov. 8, 1985, Pub. L. 99–145, title V, §531(a), title XIII, §1303(a)(5), 99 Stat. 633, 739, related to warrant officer grades. See section 571(a) and (b) of this title.
 

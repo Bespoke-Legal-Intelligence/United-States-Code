@@ -14,7 +14,7 @@ When used in this title unless the context otherwise indicates—
 
 #### Historical and Revision Notes
 
-Paragraph (a) is added only to avoid repetition of the phrase “invention or discovery” and its derivativesthroughout the revised title. The present statutes use the phrase “invention or discovery” and derivatives.
+Paragraph (a) is added only to avoid repetition of the phrase “invention or discovery” and its derivatives throughout the revised title. The present statutes use the phrase “invention or discovery” and derivatives.
 
 Paragraph (b) is noted under section 101.
 

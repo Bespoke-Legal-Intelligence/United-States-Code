@@ -38,13 +38,13 @@ Any applicant which desires to receive a grant under this part shall submit an a
 
 A regional consortium of applicants in two or more States may file a joint application under the provisions of subsection (a) of this section.
 
-(Pub. L. 98 377, title III, §306, Aug. 11, 1984, 98 Stat. 1285; Pub. L. 99 159, title II, §231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100 418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, §306, Aug. 11, 1984, 98 Stat. 1285; Pub. L. 99–159, title II, §231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100 418 substituted “part” for “subchapter” wherever appearing.
+1988—Subsec. (a). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
-1985—Subsec. (a). Pub. L. 99 159 substituted “Secretary” for “Foundation” in two places in provisions preceding par. (1) and in par. (8).
+1985—Subsec. (a). Pub. L. 99–159 substituted “Secretary” for “Foundation” in two places in provisions preceding par. (1) and in par. (8).
 
 #### Section Referred to in Other Sections
 

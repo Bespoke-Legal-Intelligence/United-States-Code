@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term “GDP implicitprice deflator” means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year.
+&emsp;&emsp;The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term “GDP implicit price deflator” means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year.
 
 #### (C) Reference price
 

@@ -30,7 +30,7 @@ If it has been finally determined by a court or Federal agency that any person i
 
 #### References in Text
 
-The Buy American Act of 1933, and the Buy American Act, referred to in subsecs. (a) to (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, popularly known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+The Buy American Act of 1933, and the Buy American Act, referred to in subsecs. (a) to (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 The Trade Agreement Act of 1979, referred to in subsec. (c), probably means the Trade Agreements Act of 1979, Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 

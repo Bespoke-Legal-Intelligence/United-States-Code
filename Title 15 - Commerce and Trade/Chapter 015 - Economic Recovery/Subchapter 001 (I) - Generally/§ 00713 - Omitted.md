@@ -30,7 +30,7 @@ Act July 25, 1946, ch. 671, §6, 60 Stat. 671, provided that the last paragraph 
 
 #### Increase in Certain Subsidy Payments
 
-Act July 31, 1945, ch. 332, 59 Stat. 506, provided that subsidy payments with respect to livestock, wheat, and butter, shall be increased to certain amounts from time to time by the Secretary of Agriculture.
+Act July 31, 1945, ch. 332, 59 Stat. 506, provided that subsidy payments with respect to livestock, wheat, andbutter, shall be increased to certain amounts from time to time by the Secretary of Agriculture.
 
 #### Allocation of Livestock and Poultry Feeds
 

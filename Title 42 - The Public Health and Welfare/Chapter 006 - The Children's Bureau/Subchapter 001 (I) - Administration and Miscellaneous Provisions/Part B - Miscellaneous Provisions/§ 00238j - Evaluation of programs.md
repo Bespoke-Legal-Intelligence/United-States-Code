@@ -16,7 +16,7 @@ Section was formerly classified to section 300aaa–10 of this title prior to re
 
 #### Amendments
 
-1993—Pub. L. 103–183 amended section generally. Prior to amendment, section read as follows: “Such portionas the Secretary may determine, but not more than 1 per centum, of any appropriation for grants, contracts, or other payments under any provision of this chapter, the Mental Health Systems Act, the Act of August 5, 1954 (Public Law 568, Eighty–third Congress), or the Act of August 16, 1957 (Public Law 85–151), for any fiscal year beginning after June 30, 1970, shall be available for evaluation (directly, or by grants or contracts) of any program authorized by this chapter or any of such other Acts, and, in the case of allotments from any such appropriation, the amount available for allotment shall be reduced accordingly.”
+1993—Pub. L. 103–183 amended section generally. Prior to amendment, section read as follows: “Such portion as the Secretary may determine, but not more than 1 per centum, of any appropriation for grants, contracts, or other payments under any provision of this chapter, the Mental Health Systems Act, the Act of August 5, 1954 (Public Law 568, Eighty–third Congress), or the Act of August 16, 1957 (Public Law 85–151), for any fiscal year beginning after June 30, 1970, shall be available for evaluation (directly, or by grants or contracts) of any program authorized by this chapter or any of such other Acts, and, in the case of allotments from any such appropriation, the amount available for allotment shall be reduced accordingly.”
 
 1981—Pub. L. 97–35 struck out references to Mental Retardation Facilities Construction Act and Community Mental Health Centers Act.
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 300aaa–10 of this title prior to re
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

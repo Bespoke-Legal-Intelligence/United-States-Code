@@ -2,7 +2,7 @@
 
 The Commission shall submit to the President a report of the results of each review conducted by the Commission with respect to rates of pay for the offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title, together with its recommendations. Each such report shall be submitted on such date as the President may designate but not later than December 15 next following the close of the fiscal year in which the review is conducted by the Commission.
 
-(Pub. L. 90–206, title II, §225(g), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, §135(c), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, §701(e), Nov. 30, 1989, 103 Stat. 1764.)
+(Pub. L. 90–206, title II, §225(g), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, §135(c), Dec. 19, 1985, 99Stat. 1322; Pub. L. 101–194, title VII, §701(e), Nov. 30, 1989, 103 Stat. 1764.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@ The Secretary of Transportation shall, under the authority of the Emergency Rail
 
 #### (e) Amount of guarantee
 
-The Secretary shall guarantee trustee certificates of the Milwaukee Railroad pursuant to this section in an amount equal to the difference between (1) the total expenses incurred by such railroad attributable to the maintenance and the continuation of service in accordance with subsection (d) of this section, and (2) the revenues of such railroad.
+The Secretary shall guarantee trustee certificates of the Milwaukee Railroad pursuant tothis section in an amount equal to the difference between (1) the total expenses incurred by such railroad attributable to the maintenance and the continuation of service in accordance with subsection (d) of this section, and (2) the revenues of such railroad.
 
 #### (f) Subordination of claims
 
@@ -34,7 +34,7 @@ The Commission shall immediately make available to the Secretary of Transportati
 
 The Emergency Rail Services Act of 1970, referred to in subsec. (d), is Pub. L. 91–663, Jan. 8, 1971, 84 Stat. 1975, as amended, which is classified generally to chapter 15 (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
-Directed service under title 49, referred to in subsec. (g), probably refers to directed service under section 11125 of Title 49, Transportation.
+Directed service under title 49, referred to in subsec. (g), probably refers to directed service under section 11125 of Title 49, Transportation, prior to the general amendment of subtitle IV of Title 49, by Pub. L. 104–88, §102(a).
 
 #### Codification
 
@@ -46,5 +46,9 @@ Subsecs. (a) to (c) of this section amended section 662 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 

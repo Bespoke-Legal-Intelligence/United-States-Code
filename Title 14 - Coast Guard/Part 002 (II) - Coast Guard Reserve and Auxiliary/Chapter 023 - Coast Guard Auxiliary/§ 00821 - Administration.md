@@ -1,4 +1,4 @@
-### §821 . Administration
+### §821. Administration
 
 The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.
 

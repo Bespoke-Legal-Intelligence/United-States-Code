@@ -18,7 +18,7 @@ After notice and opportunity for a hearing, the Secretary is authorized to deleg
 
 #### (c) Promulgation of regulations defining joint functions
 
-The Secretary shall promulgate regulations which define those functions, if any, which must be carried out jointly in order to avoid duplication of effort, and any delegation to any State must be made in accordance with those requirements.
+The Secretary shall promulgate regulations which define those functions, if any, which mustbe carried out jointly in order to avoid duplication of effort, and any delegation to any State must be made in accordance with those requirements.
 
 #### (d) Promulgation of standards and regulations with respect to delegation
 

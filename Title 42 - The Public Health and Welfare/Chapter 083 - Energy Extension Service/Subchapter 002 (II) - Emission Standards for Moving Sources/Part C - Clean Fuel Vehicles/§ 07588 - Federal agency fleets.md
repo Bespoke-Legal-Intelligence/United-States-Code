@@ -16,7 +16,7 @@ Funds appropriated pursuant to the authorization under this paragraph shall be a
 
 &emsp;(2) to the portion of the costs of fuel storage and dispensing equipment attributable to such vehicles which exceeds the costs for such purposes required for conventional vehicles; and
 
-&emsp;(3) to the portion of the costs of acquisition of clean-fuel vehicles which represents a reduction in revenue from the disposal of such vehicles as compared to revenue resulting from the disposal of comparable conventional vehicles.
+&emsp;(3) to the portion of the costs of acquisition of clean-fuel vehicles which represents a reduction in revenue from the disposal of such vehicles as compared to revenue resultingfrom the disposal of comparable conventional vehicles.
 
 #### (d) Vehicle costs
 

@@ -38,11 +38,11 @@ The duties of the Center are to collect, analyze, and disseminate statistics and
 
 The Commissioner may establish a program to train employees of public and private educational agencies, organizations, and institutions in the use of the Center's standard statistical procedures and concepts and may establish a fellows program to appoint such employees as temporary fellows at the Center in order to assist the Center in carrying out its duties.
 
-(Pub. L. 103 382, title IV, §404, Oct. 20, 1994, 108 Stat. 4031.)
+(Pub. L. 103–382, title IV, §404, Oct. 20, 1994, 108 Stat. 4031.)
 
 #### National Survey of Factors Associated With Participation
 
-Pub. L. 102 325, title XIV, §1406, July 22, 1992, 106 Stat. 818, provided that:
+Pub. L. 102–325, title XIV, §1406, July 22, 1992, 106 Stat. 818, provided that:
 
 “(a)
 
@@ -84,7 +84,7 @@ Authorization of appropriations.—There are authorized to be appropriated $900,
 
 #### Data Study Required
 
-Pub. L. 99 498, title XIII, §1303, Oct. 17, 1986, 100 Stat. 1580, as amended by Pub. L. 100 50, §23(3), June 3, 1987, 101 Stat. 362, provided that:
+Pub. L. 99–498, title XIII, §1303, Oct. 17, 1986, 100 Stat. 1580, as amended by Pub. L. 100–50, §23(3), June 3, 1987, 101 Stat. 362, provided that:
 
 “(a)
 
@@ -128,7 +128,7 @@ Student Aid Recipient Survey.—(1) The Secretary shall survey student aid recip
 
 “(d)
 
-Teacher Supply and Demand.—(1) The Secretary shall utilize the legislative authority under section 406(b) of the General Education Provisions Act \[former 20 U.S.C. 1221e 1(b)\] to annually assess current and future supply and demand for teachers with particular attention to—
+Teacher Supply and Demand.—(1) The Secretary shall utilize the legislative authority under section 406(b) of the General Education Provisions Act \[former 20 U.S.C. 1221e–1(b)\] to annually assess current and future supply and demand for teachers with particular attention to—
 
 &emsp;“(A) long-term and short-term shortages of personnel in various subject areas or teaching specialties;
 
@@ -158,5 +158,5 @@ Equitable Student Aid for Farm Families.—The Secretary shall conduct a study o
 
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 
-Pub. L. 98 211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
+Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
 

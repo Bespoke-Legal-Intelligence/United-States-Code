@@ -86,7 +86,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (i) Skilled workers
 
-&emsp;&emsp;&emsp;Qualified immigrants who are capable, at the time of petitioning for classification under this paragraph, of performingskilled labor (requiring at least 2 years training or experience), not of a temporary or seasonal nature, for which qualified workers are not available in the United States.
+&emsp;&emsp;&emsp;Qualified immigrants who are capable, at the time of petitioning for classification under this paragraph, of performing skilled labor (requiring at least 2 years training or experience), not of a temporary or seasonal nature, for which qualified workers are not available in the United States.
 
 #### (ii) Professionals
 
@@ -164,7 +164,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (i) Reduction in employment-based immigrant classifications
 
-&emsp;&emsp;&emsp;The number of visas made available in any fiscal year under paragraphs (1), (2),and (3) shall each be reduced by 1/3 of the number of visas made available in the previous fiscal year to special immigrants described in section 1101(a)(27)(K) of this title.
+&emsp;&emsp;&emsp;The number of visas made available in any fiscal year under paragraphs (1), (2), and (3) shall each be reduced by 1/3 of the number of visas made available in the previous fiscal year to special immigrants described in section 1101(a)(27)(K) of this title.
 
 #### (ii) Reduction in per country level
 
@@ -238,7 +238,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (iv) Redistribution of unused visa numbers
 
-&emsp;&emsp;&emsp;If the Secretary of State estimates that the number of immigrant visas to be issued to natives in any region for a fiscal year under this paragraph is less than thenumber of immigrant visas made available to such natives under this paragraph for the fiscal year, subject to clause (v), the excess visa numbers shall be made available to natives (other than natives of a high-admission state) of the other regions in proportion to the percentages otherwise specified in clauses (ii) and (iii).
+&emsp;&emsp;&emsp;If the Secretary of State estimates that the number of immigrant visas to be issued to natives in any region for a fiscal year under this paragraph is less than the number of immigrant visas made available to such natives under this paragraph for the fiscal year, subject to clause (v), the excess visa numbers shall be made available to natives (other than natives of a high-admission state) of the other regions in proportion to the percentages otherwise specified in clauses (ii) and (iii).
 
 #### (v) Limitation on visas for natives of a single foreign state
 
@@ -556,7 +556,7 @@ Specialized knowledge.—The term ‘specialized knowledge’ has the meaning gi
 
 Supervisor.—The term ‘supervisor’ means any individual having authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or responsibility to direct them, or to adjust their grievances, or effectively recommend such action, if in connection with the foregoing the exercise of such authority is not merely of a routine or clerical nature, but requires the use of independent judgment.”
 
-\[Section 124 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscalyear 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
+\[Section 124 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 
 #### Diversity Transition for Aliens Who Are Natives of Certain Adversely Affected Foreign States
 
@@ -616,11 +616,11 @@ Section 133 of Pub. L. 101–649 provided that: “Notwithstanding the numerical
 
 &emsp;“(1) were notified by the Secretary of State before May 1, 1990, of their selection for issuance of a visa under section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out below\], and
 
-&emsp;“(2) are qualified for the issuance of such a visa but for (A) numerical and fiscal year limitations on the issuance of such visas, (B) section 212(a)(19) or 212(e) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(19), (e)\], or (C) the fact that the immigrant was a national, but not a native, of a foreign state described in section 314 of the Immigration Reform and Control Act of 1986.
+&emsp;“(2) are qualified for the issuance of such a visa but for (A) numerical and fiscal year limitations on the issuance of such visas, (B) section 212(a)(19) or 212(e)of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(19), (e)\], or (C) the fact that the immigrant was a national, but not a native, of a foreign state described in section 314 of the Immigration Reform and Control Act of 1986.
 
 > Visas shall be made available under this section to spouses and children of qualified immigrants in the same manner as such visas were made available to such spouses and children under section 314 of the Immigration Reform and Control Act of 1986. The Attorney General may waive section 212(a)(19) of the Immigration and Nationality Act (or, on or after June 1, 1991, section 212(a)(6)(C) of such Act) in the case of qualified immigrants described in the first sentence of this section.”
 
-\[Section 133 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscalyear 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
+\[Section 133 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 
 #### Transition for Displaced Tibetans
 
@@ -698,7 +698,7 @@ Application of Definitions of Immigration and Nationality Act.—Except as other
 
 “(e)
 
-Underrepresented Country Defined.—In this section, the term ‘underrepresented country’ means a foreign state natives of which used, during fiscal year 1988, less than 25 percent of the maximum number of immigrant visa numbers otherwise available to it in that fiscal year under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\]. In applying the previous sentence, there shall not be taken into account visa numbers issued under section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out below\].”
+Underrepresented Country Defined.—In this section, the term ‘underrepresented country’ means a foreign state natives of which used, during fiscal year 1988, less than 25 percent of the maximum number of immigrant visa numbers otherwise available to it inthat fiscal year under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\]. In applying the previous sentence, there shall not be taken into account visa numbers issued under section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out below\].”
 
 #### Making Visas Available to Nonpreference Immigrants
 
@@ -706,7 +706,7 @@ Pub. L. 99–603, title III, §314, Nov. 6, 1986, 100 Stat. 3439, as amended by 
 
 “(a)
 
-Authorization of Additional Visas.—Notwithstanding the numerical limitations in section 201(a) of the Immigration and Nationality Act (8 U.S.C. 1151(a)), but subject to the numerical limitations in section 202 of such Act \[8 U.S.C. 1152\], there shall be made available to qualified immigrants described in section203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] 5,000 visa numbers in each of fiscal years 1987 and 1988 and 15,000 visa numbers in each of fiscal years 1989 and 1990.
+Authorization of Additional Visas.—Notwithstanding the numerical limitations in section 201(a) of the Immigration and Nationality Act (8 U.S.C. 1151(a)), but subject to the numerical limitations in section 202 of such Act \[8 U.S.C. 1152\], there shall be made available to qualified immigrants described in section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] 5,000 visa numbers in each of fiscal years 1987 and 1988 and 15,000 visa numbers in each of fiscal years 1989 and 1990.
 
 “(b)
 
@@ -752,7 +752,7 @@ Pub. L. 87–885, §2, Oct. 24, 1962, 76 Stat. 1247, which provided that certain
 
 #### Issuance of Nonquota Immigrant Visas to Certain Eligible Orphans
 
-Pub. L. 87–301, §25, Sept. 26, 1961, 75 Stat. 657, as amended by Pub. L. 99–653, §11, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(j)(2), Oct. 24, 1988, 102 Stat. 2617, provided that: “At any time prior to the expiration of the one hundred and eightieth day immediately following the enactment of this Act \[Sept. 26, 1961\] a special nonquota immigrant visa may be issued to an eligible orphan as defined in section 4 of the Act of September 11, 1957, as amended (8 U.S.C. 1205; 71 Stat. 639, 73 Stat.490, 74 Stat. 505), if a visa petition filed in behalf of such eligible orphan was (A) approved by the Attorney General prior to September 30, 1961, or (B) pending before the Attorney General prior to September 30, 1961, and the Attorney General approves such petition.”
+Pub. L. 87–301, §25, Sept. 26, 1961, 75 Stat. 657, as amended by Pub. L. 99–653, §11, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(j)(2), Oct. 24, 1988, 102 Stat. 2617, provided that: “At any time prior to the expiration of the one hundred and eightieth day immediately following the enactment of this Act \[Sept. 26, 1961\] a special nonquota immigrant visa may be issued to an eligible orphan as defined in section 4 of the Act of September 11, 1957, as amended (8 U.S.C. 1205; 71 Stat. 639, 73 Stat. 490, 74 Stat. 505), if a visa petition filed in behalf of such eligible orphan was (A) approved by the Attorney General prior to September 30, 1961, or (B) pending before the Attorney General prior to September 30, 1961, and the Attorney General approves such petition.”
 
 \[Section 23(c) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by section 11 \[amending section 25 of Pub. L. 87–301 set out above and repealing sections 1 and 2 of Pub. L. 87–885\] take effect on November 14, 1986.”\]
 

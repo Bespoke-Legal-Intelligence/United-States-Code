@@ -16,7 +16,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) orders and contracts under such program result in the lowest overall cost alternative to meet the needs of the United States;
 
-&emsp;&emsp;(D) procurements conducted in furtherance of section 15 of the Small Business Act (15U.S.C. 644) as long as all responsible business concerns that are entitled to submit offers for such procurements are permitted to compete; and
+&emsp;&emsp;(D) procurements conducted in furtherance of section 15 of the Small Business Act (15 U.S.C. 644) as long as all responsible business concerns that are entitled to submit offers for such procurements are permitted to compete; and
 
 &emsp;&emsp;(E) a competitive selection of research proposals resulting from a general solicitation and peer review or scientific review (as appropriate) solicited pursuant to section 9 of the Small Business Act (15 U.S.C. 638).
 
@@ -148,7 +148,7 @@ Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41,Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 
@@ -166,7 +166,7 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 &emsp;“(I) whether the contract includes a specification or standard that requires the use of a class I ozone-depleting substance or can be met only through the use of such a substance; and
 
-&emsp;“(II) in the event of a determination that the contract includes such a specification or standard,whether the contract can be carried out through the use of an economically feasible substitute for the ozone-depleting substance or through the use of an economically feasible alternative technology for a technology involving the use of the ozone-depleting substance.
+&emsp;“(II) in the event of a determination that the contract includes such a specification or standard, whether the contract can be carried out through the use of an economically feasible substitute for the ozone-depleting substance or through the use of an economically feasible alternative technology for a technology involving the use of the ozone-depleting substance.
 
 “(ii) A contract referred to in clause (i) is any contract in an amount in excess of $10,000,000 that—
 
@@ -300,7 +300,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 &emsp;&emsp;&emsp;“(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with their subcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
 
-&emsp;&emsp;“(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than a construction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
+&emsp;&emsp;“(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than aconstruction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
 
 &emsp;&emsp;“(iv) evaluating the feasibility and desirability of requiring a prime contractor to establish an escrow account at a federally insured financial institution and requiring direct disbursements to subcontractors and suppliers of amounts certified by the prime contractor in its payment request to the Government as being payable to such subcontractors and suppliers in accordance with their subcontracts; and
 
@@ -348,7 +348,7 @@ Inspector General Report.—(1) The Inspector General of the Department of Defen
 
 “(g)
 
-Miller Act Defined.—For purposes of this section, the term ‘Miller Act’ means the Act of August 24, 1935 (40 U.S.C. 270a–270d).”
+Miller Act Defined.—For purposes of this section, the term ‘Miller Act’ means the Act of August 24, 1935 (40 U.S.C. 270a–270d) \[40 U.S.C. 270a to 270d–1\].”
 
 #### Advisory Panel on Streamlining and Codifying Acquisition Laws
 
@@ -358,7 +358,7 @@ Pub. L. 101–510, div. A, title VIII, §800, Nov. 5, 1990, 104 Stat. 1587, as a
 
 Section 807(a) of Pub. L. 102–484 provided that: “Within 15 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance existed on December 6, 1991. Proposed modifications to that policy and any amendments of the matters published pursuant to the preceding sentence that are proposed in order to implement any of the amendments made by this section shall be published for public comment within 60 days after the date of the enactment of this Act and shall be published in final form within 120 days after such date.”
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII,§704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703, provided that:
 
 “(a)
 
@@ -436,7 +436,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense shall provide to a m
 
 &emsp;“(iii) in a separate contract, cooperative agreement, or other agreement entered into between the Secretary and the mentor firm for the purpose of providing reimbursement of costs incurred under the program, subject to a maximum amount of reimbursement specified in such contract or agreement; or
 
-&emsp;“(iv) through a combination of the methods of reimbursement described in clauses (i), (ii), and (iii), but only if the mentor firm has an accounting system and controls adequate to assure proper identification and assignment of program costs to appropriate direct and indirect cost accounts.
+&emsp;“(iv) through a combination of the methods of reimbursement described in clauses (i), (ii), and (iii), but only if the mentor firm has an accounting systemand controls adequate to assure proper identification and assignment of program costs to appropriate direct and indirect cost accounts.
 
 “(B) The Secretary and a mentor firm may provide for the allocation of such costs to any Department of Defense contract awarded to the mentor firm.
 
@@ -460,7 +460,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense shall provide to a m
 
 “(h)
 
-Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 etseq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
+Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
 
 “(2) Notwithstanding section 8 of the Small Business Act (15 U.S.C. 637), the Small Business Administration may not determine a disadvantaged small business concern to be ineligible to receive any assistance authorized under the Small Business Act on the basis that such business concern has participated in the Mentor-Protege Program or has received assistance pursuant to any developmental assistance agreement authorized under such program.
 
@@ -510,7 +510,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(B) a business entity owned and controlled by an Indian tribe as defined by section 8(a)(13) of the Small Business Act (15 U.S.C. 637(a)(13));
 
-&emsp;&emsp;“(C) a business entity owned and controlled by a Native Hawaiian Organization as defined by section 8(a)(15) of the Small Business Act (15 U.S.C. 637(a)(15)); or
+&emsp;&emsp;“(C) a business entity owned and controlled by a Native Hawaiian Organization as defined by section8(a)(15) of the Small Business Act (15 U.S.C. 637(a)(15)); or
 
 &emsp;&emsp;“(D) a qualified organization employing the severely disabled.
 
@@ -532,7 +532,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(D) pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act (29 U.S.C. 206) to those employees who are severely disabled individuals.
 
-&emsp;“(8) The term ‘severely disabled individual’ means an individual who has a physical or mental disability which constitutes a substantial handicap to employment and which, in accordance with criteria prescribed by the Committee for the Purchase From the Blind and Other Severely Handicapped established by the first section of the Act of June 25, 1938 (41 U.S.C. 46; popularly known as the ‘Wagner-O'Day Act’), is of such a nature that the individual is otherwise prevented from engaging in normal competitive employment.
+&emsp;“(8) The term ‘severely disabled individual’ means an individual who has a physical or mental disability which constitutes a substantial handicap to employment and which, in accordance with criteria prescribed by the Committee for the Purchase From the Blind and Other Severely Handicapped established by the first section of the Act of June 25, 1938 (41 U.S.C. 46; popularly known as the ‘Wagner-O'Day Act’) \[now known as the “Javits-Wagner-O'Day Act”\], is of such a nature that the individual is otherwise prevented from engaging in normal competitive employment.
 
 “(n)
 
@@ -613,7 +613,7 @@ Definition.—For the purposes of this section, the term ‘competitive procurem
 
 #### Defense Procurement Reform: Congressional Findings and Policy
 
-Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessivepayments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
+Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
 
 &emsp;“(1) direct that officials in the Department of Defense refuse to enter into contracts unless the proposed prices are fair and reasonable;
 
@@ -631,7 +631,7 @@ Section 909(d) of Pub. L. 97–86 directed Secretary of Defense, not later than 
 
 #### Procurement Requirements for Goods Which Are Not American Goods
 
-Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United States firms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in section 2501 of this title by Pub. L. 100–370, §3(a), (c). Section 2501 of this title was renumbered section 2506 by Pub. L. 100–456, §821(b)(1)(A).
+Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United States firms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in section 2501 of this title by Pub. L. 100–370, §3(a), (c). Section 2501 of this title was renumbered section 2506 by Pub. L. 100–456, §821(b)(1)(A). Section 2506 of this title was renumbered section 2533 by Pub. L. 102–484, §4202(a).
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Subject to subsection (c) of this section, the members of the Commission specifi
 
 #### (c) Membership continuation
 
-If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5)<sup>1</sup> as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
+If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) <sup>1</sup> as an officer designated under suchparagraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
 
 #### (d) Vacancies
 
@@ -74,11 +74,11 @@ Upon request of the Commission, and subject to the availability of funds, the he
 
 The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
 
-(Pub. L. 96 430, title II, §203, Oct. 10, 1980, 94 Stat. 1847.)
+(Pub. L. 96–430, title II, §203, Oct. 10, 1980, 94 Stat. 1847.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3701 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by “of subsection (a) of this section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of subsection (a) of this section”.</i>
 

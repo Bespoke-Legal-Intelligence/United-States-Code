@@ -44,7 +44,7 @@ Moneys received in payment for—
 
 #### (1) In general
 
-&emsp;In the case of any amounts recovered as the result of information provided to the Internal Revenue Service by State and local law enforcement agencies which substantially contributed to such recovery, an amount equal to 10 percent of such amounts shall be depositedin a separate account which shall be used to make the reimbursements required under section 7624.
+&emsp;In the case of any amounts recovered as the result of information provided to the Internal Revenue Service by State and local law enforcement agencies which substantially contributed to such recovery, an amount equal to 10 percent of such amounts shall be deposited in a separate account which shall be used to make the reimbursements required under section 7624.
 
 #### (2) Deposit in Treasury as internal revenue collections
 

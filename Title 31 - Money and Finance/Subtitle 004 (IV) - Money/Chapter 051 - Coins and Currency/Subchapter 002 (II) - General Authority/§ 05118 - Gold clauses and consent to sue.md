@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) United States money measured in gold or a particular United States coin or currency.
 
-&emsp;(2) “public debt obligation” means a domestic obligation issued or guaranteed by theUnited States Government to repay money or interest.
+&emsp;(2) “public debt obligation” means a domestic obligation issued or guaranteed by the United States Government to repay money or interest.
 
 (b) The United States Government may not pay out any gold coin. A person lawfully holding United States coins and currency may present the coins and currency to the Secretary of the Treasury for exchange (dollar for dollar) for other United States coins and currency (other than gold and silver coins) that may be lawfully held. The Secretary shall make the exchange under regulations prescribed by the Secretary.
 
@@ -82,7 +82,7 @@ In subsection (b), the words “after January 30, 1934” in 31:315b are omitted
 
 In subsection (c)(1), before clause (A), the word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the United States Code. The words “to anyone” are added for clarity. The words “whether by way of suit, counterclaim, set-off, recoupment, or other affirmative action or defense in its own name or in the name of” are omitted as surplus. The word “employees” is added for consistency in the revised title and with other titles of the Code. The word “instrumentalities” is omitted as unnecessary because of section 101 of the revised title. The word “claim” is substituted for “right, privilege, or power” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words “in any proceeding of any nature whatsoever” are omitted as surplus. In clause (C), the words “or demand” are omitted as surplus.
 
-In subsection (c)(2), the words “any suit commenced prior to August 27, 1935, or which may be commenced by January 1, 1936” are omitted as executed. The words “referred to in this section” are omitted as surplus.
+In subsection (c)(2), the words “any suit commenced prior to August 27, 1935, or which may be commencedby January 1, 1936” are omitted as executed. The words “referred to in this section” are omitted as surplus.
 
 In subsection (c)(3), the words “may be expended” are substituted for “an amount appropriated or authorized to be expended” and “shall be available for or expended in”, and the words “dollar for dollar” are substituted for “on an equal and uniform dollar for dollar basis”, to eliminate unnecessary words.
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) where appropriate, establish procedures for—
 
-&emsp;&emsp;(i) ensuring that the dispute settlement provisions and other relevant procedures available under the Convention are utilized to promote United States export interests, and
+&emsp;&emsp;(i) ensuring that the dispute settlement provisions and other relevant proceduresavailable under the Convention are utilized to promote United States export interests, and
 
 &emsp;&emsp;(ii) submitting classification questions to the Harmonized System Committee of the Customs Cooperation Council.
 

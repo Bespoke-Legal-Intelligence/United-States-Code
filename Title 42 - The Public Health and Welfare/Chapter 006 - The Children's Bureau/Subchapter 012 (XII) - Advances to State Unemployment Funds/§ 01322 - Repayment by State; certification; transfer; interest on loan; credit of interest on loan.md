@@ -50,7 +50,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 &emsp;(ii)(I) have taken an action (as certified by the Secretary of Labor) after March 31, 1982, which would have increased revenue liabilities and decreased benefits under the State's unemployment compensation system (hereinafter referred to as a “solvency effort”) by a combined total of the applicable percentage (as compared to such revenues and benefits as would have been in effect without such State action) for the calendar year for which the deferral is requested; or
 
-&emsp;(II) have had, for taxable year 1982, an average unemployment tax rate which was equalto or greater than 2.0 percent of the total of the wages (as determined without any limitation on amount) attributable to such State subject to contribution under the State unemployment compensation law with respect to such taxable year.
+&emsp;(II) have had, for taxable year 1982, an average unemployment tax rate which was equal to or greater than 2.0 percent of the total of the wages (as determined without any limitation on amount) attributable to such State subject to contribution under the State unemployment compensation law with respect to such taxable year.
 
 > In the case of the first year for which there is a deferral (over a 4-year period) of the interest otherwise payable for such year, the applicable percentage shall be 25 percent. In the case of the second such year, the applicable percentage shall be 35 percent. In the case of the third such year, the applicable percentage shall be 50 percent.
 
@@ -66,7 +66,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Sept. 13, 1960, Pub. L. 86–778, title V, §522(a), 74 Stat. 979; Aug. 13, 1981, Pub. L. 97–35, title XXIV, §2407(a), (b)(2), 95 Stat. 879, 880; Sept. 3, 1982, Pub. L. 97–248, title II, §274(a), 96 Stat. 557; Apr. 20, 1983, Pub. L. 98–21, title V, §§511, 514, 97 Stat. 144, 147; Oct. 11, 1983, Pub. L. 98–118, §5(a), 97 Stat. 804; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 22, 1987, Pub. L. 100–203, title IX, §9156(a), 101 Stat. 1330–327.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Sept. 13, 1960, Pub. L. 86–778, title V, §522(a), 74 Stat. 979; Aug. 13, 1981, Pub. L. 97–35, title XXIV, §2407(a), (b)(2), 95 Stat. 879, 880; Sept. 3, 1982, Pub. L. 97–248, title II, §274(a), 96 Stat. 557; Apr.20, 1983, Pub. L. 98–21, title V, §§511, 514, 97 Stat. 144, 147; Oct. 11, 1983, Pub. L. 98–118, §5(a), 97 Stat. 804; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 22, 1987, Pub. L. 100–203, title IX, §9156(a), 101 Stat. 1330–327.)
 
 #### References in Text
 

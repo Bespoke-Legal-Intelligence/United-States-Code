@@ -208,7 +208,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) is not in arrears as to dividends at the time the taxpayer acquires the stock.
 
-&emsp;&emsp;&nbsp;Such term shall not include any dividend payable with respect to any share of stock if the actual rate of return on such stock exceeds 15 percent.
+&emsp;&emsp;&nbsp;Such term shall not include any dividend payable with respect to any share of stockif the actual rate of return on such stock exceeds 15 percent.
 
 #### (ii) Holding period
 

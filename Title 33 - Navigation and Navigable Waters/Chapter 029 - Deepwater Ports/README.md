@@ -73,7 +73,7 @@
 | (c) | Vessels of United States and foreign states subject to Federal jurisdiction; objections to jurisdiction; designation of agent for service of process; duty of licensee. |
 | (d) | Customs laws inapplicable to deepwater port; duties and taxes on foreign articles imported into customs territory of United States. |
 | (e) | Federal district courts; original jurisdiction; venue. |
-| [1519\.](%C2%A7%2001519%20-%20Annual%20report%20by%20Secretary%20to%20Congress%3B%20recommendations%20to%20Congress.md) | Annual report by Secretary to Congress; recommendations to Congress. |
+| [1519\.](%C2%A7%2001519%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71121%28a%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20724.md) | Repealed. |
 | [1520\.](%C2%A7%2001520%20-%20Pipeline%20safety%20and%20operation.md) | Pipeline safety and operation. |
 | (a) | Standards and regulations for Outer Continental Shelf. |
 | (b), | (c) Omitted. |
@@ -112,7 +112,7 @@ This chapter is referred to in sections 1321, 2701 of this title; title 26 secti
 - [&sect; 01517 - Repealed. Pub. L. 101&#8211;380, title II, &sect;2003(a)(2), Aug. 18, 1990, 104 Stat. 507](%C2%A7%2001517%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93380%2C%20title%20II%2C%20%C2%A72003%28a%29%282%29%2C%20Aug.%2018%2C%201990%2C%20104%20Stat.%20507.md)
 - [&sect; 01517a - Omitted](%C2%A7%2001517a%20-%20Omitted.md)
 - [&sect; 01518 - Relationship to other laws](%C2%A7%2001518%20-%20Relationship%20to%20other%20laws.md)
-- [&sect; 01519 - Annual report by Secretary to Congress; recommendations to Congress](%C2%A7%2001519%20-%20Annual%20report%20by%20Secretary%20to%20Congress%3B%20recommendations%20to%20Congress.md)
+- [&sect; 01519 - Repealed. Pub. L. 104&#8211;66, title I, &sect;1121(a), Dec. 21, 1995, 109 Stat. 724](%C2%A7%2001519%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71121%28a%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20724.md)
 - [&sect; 01520 - Pipeline safety and operation](%C2%A7%2001520%20-%20Pipeline%20safety%20and%20operation.md)
 - [&sect; 01521 - Negotiations with Canada and Mexico; report to Congress](%C2%A7%2001521%20-%20Negotiations%20with%20Canada%20and%20Mexico%3B%20report%20to%20Congress.md)
 - [&sect; 01522 - Limitations on export provisions of section 185(u) of title 30 unaffected](%C2%A7%2001522%20-%20Limitations%20on%20export%20provisions%20of%20section%20185%28u%29%20of%20title%2030%20unaffected.md)

@@ -1,4 +1,4 @@
-### §410pp–3 . Federal consistency
+### §410pp–3. Federal consistency
 
 #### (a) Federal actions
 

@@ -16,7 +16,7 @@ The provision of payments under a grant under subsection (a) of this section sha
 
 A State shall be eligible to receive only 1 implementation grant under subsection (a) of this section.
 
-(Pub. L. 103 239, title II, §212, May 4, 1994, 108 Stat. 582.)
+(Pub. L. 103–239, title II, §212, May 4, 1994, 108 Stat. 582.)
 
 #### Section Referred to in Other Sections
 

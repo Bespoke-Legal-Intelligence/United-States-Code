@@ -76,7 +76,7 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 &emsp;(3) FAR
 
-standards.— The Federal Acquisition Regulation shall provide clear standards for determining whether the exceptions provided in paragraph (1)(A) apply. In the case of the exception provided in paragraph (1)(A)(i), the regulations shall specify the criteria to beused to determine whether adequate price competition exists. In the case of the exception provided in paragraph (1)(A)(ii), the regulations shall provide that the exception applies to items that are sold in substantial quantities to the general public, without regard to the quantity of items that may be sold to the Federal Government.
+standards.— The Federal Acquisition Regulation shall provide clear standards for determining whether the exceptions provided in paragraph (1)(A) apply. In the case of the exception provided in paragraph (1)(A)(i), the regulations shall specify the criteria to be used to determine whether adequate price competition exists. In the case of the exception provided in paragraph (1)(A)(ii), the regulations shall provide that the exception applies to items that are sold in substantial quantities to the general public, without regard to the quantity of items that may be sold to the Federal Government.
 
 (c)
 
@@ -132,7 +132,7 @@ Confidentiality.—Any information received under this subsection that is exempt
 
 (e)
 
-Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (orchange or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
+Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
 
 (B) For the purposes of this section, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
@@ -184,7 +184,7 @@ Right of United States To Examine Contractor Records.—For the purpose of evalu
 
 (h)
 
-Required Regulations.—The Federal Acquisition Regulation shall contain provisions concerning the types of information that offerors must submit for a contracting officer to consider in determining whether the price of a procurement to the Government is fair and reasonable when certified cost or pricing data are not required to be submitted under this section because the price of the procurement to the United States is not expected to exceed the applicablethreshold amount set forth in subsection (a) (as adjusted pursuant to paragraph (7) of such subsection). Such information, at a minimum, shall include appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price of the proposed contract or subcontract for the procurement.
+Required Regulations.—The Federal Acquisition Regulation shall contain provisions concerning the types of information that offerors must submit for a contracting officer to consider in determining whether the price of a procurement to the Government is fair and reasonable when certified cost or pricing data are not required to be submitted under this section because the price of the procurement to the United States is not expected to exceed the applicable threshold amount set forth in subsection (a) (as adjusted pursuant to paragraph (7) of such subsection). Such information, at a minimum, shall include appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price of the proposed contract or subcontract for the procurement.
 
 (i)
 
@@ -328,7 +328,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Section 803(a)(2) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(4), Apr. 6, 1991, 105 Stat. 118, which provided that the amendments to this section by Pub. L. 101–510 would apply to contracts entered into after Dec. 5, 1990, subcontracts under such contracts, and modifications or changes to such contracts and subcontracts, was repealed by Pub. L. 102–190, div. A, title VIII, §804(c)(2), Dec. 5, 1991, 105 Stat. 1416.
+Section 803(a)(2) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(4), Apr. 6, 1991, 105 Stat. 118, provided that the amendments to this section by Pub. L. 101–510 would apply to contracts entered into after Dec. 5, 1990, subcontracts under such contracts, and modifications or changes to such contracts and subcontracts, prior to repeal by Pub. L. 102–190, div. A, title VIII, §804(c)(2), Dec. 5, 1991, 105 Stat. 1416.
 
 #### Effective Date of 1987 Amendment
 
@@ -340,7 +340,7 @@ Section 804(c) of Pub. L. 100–180 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 952(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
+Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 952(d) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
 
 “(1) Except as provided in paragraph (2), section 2306a of title 10, United States Code (as added by subsection (a)), and the amendment and repeal made by subsection (b) \[amending section 2306 of this title and repealing a provision set out as a note under section 2304 of this title\], shall apply with respect to contracts or modifications on contracts entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].
 

@@ -1,0 +1,16 @@
+### SUBCHAPTER III—OFFICE OF COMPLIANCE
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 1434 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01381 - Establishment of Office of Compliance](%C2%A7%2001381%20-%20Establishment%20of%20Office%20of%20Compliance.md)
+- [&sect; 01382 - Officers, staff, and other personnel](%C2%A7%2001382%20-%20Officers%2C%20staff%2C%20and%20other%20personnel.md)
+- [&sect; 01383 - Procedural rules](%C2%A7%2001383%20-%20Procedural%20rules.md)
+- [&sect; 01384 - Substantive regulations](%C2%A7%2001384%20-%20Substantive%20regulations.md)
+- [&sect; 01385 - Expenses](%C2%A7%2001385%20-%20Expenses.md)

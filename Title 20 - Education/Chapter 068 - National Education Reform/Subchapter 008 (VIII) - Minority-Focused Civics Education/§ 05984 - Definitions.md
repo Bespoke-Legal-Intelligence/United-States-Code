@@ -6,5 +6,5 @@ For purposes of this subchapter—
 
 &emsp;(2) the term “State higher education agency” means the officer or agency primarily responsible for the State supervision of higher education.
 
-(Pub. L. 103 227, title VIII, §804, Mar. 31, 1994, 108 Stat. 210.)
+(Pub. L. 103–227, title VIII, §804, Mar. 31, 1994, 108 Stat. 210.)
 

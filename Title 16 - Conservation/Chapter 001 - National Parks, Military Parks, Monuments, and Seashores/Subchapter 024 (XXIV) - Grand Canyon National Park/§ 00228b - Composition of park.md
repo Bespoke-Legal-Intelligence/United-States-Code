@@ -10,7 +10,7 @@ For purposes of sections 228a to 228j of this title, the Grand Canyon National M
 
 #### (c) Study and report to Congress of suitability of lands included within enlarged boundaries; submission date
 
-The Secretary of the Interior shall study the lands within the former boundaries of the Grand Canyon National Monument commonly known as the Tuckup Point, Slide Mountain, and Jensen Tank areas to determine whether any portion of these lands might be unsuitable for park purposes and whether in his judgment the public interest might be better served if they were deleted from the Grand Canyon National Park. The Secretary shall report his findings and recommendations to the Congress no later than one year from January 3, 1975.
+The Secretary of the Interior shall study the lands within the former boundaries of the GrandCanyon National Monument commonly known as the Tuckup Point, Slide Mountain, and Jensen Tank areas to determine whether any portion of these lands might be unsuitable for park purposes and whether in his judgment the public interest might be better served if they were deleted from the Grand Canyon National Park. The Secretary shall report his findings and recommendations to the Congress no later than one year from January 3, 1975.
 
 (Pub. L. 93–620, §3, Jan. 3, 1975, 88 Stat. 2090.)
 

@@ -30,9 +30,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1970—Pub. L. 91–563 substituted “jury and witness service” for “jury service in courts of the United States” in section catchline, designated existing provisions as subsec. (a), inserted provisions prohibiting payment of fees for jury service in a court of the District of Columbia or for service as a witness on behalf of the United States or the District of Columbia and excepting employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–563 substituted “jury and witness service” for “jury service in courts of the United States” in section catchline, designated existing provisions as subsec. (a), inserted provisions prohibiting payment of fees for jury service in a court of the District of Columbia or for service as a witness on behalf of the United States or the District of Columbia and excepting employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, and added subsecs. (b) and (c).
 
-1968—Pub. L. 90–623 inserted “, who is entitled to leave under section 6322 of this title,” after “individual employed by the government of the District of Columbia”.
+<b>1968</b>—Pub. L. 90–623 inserted “, who is entitled to leave under section 6322 of this title,” after “individual employed by the government of the District of Columbia”.
 
 #### Change of Name
 

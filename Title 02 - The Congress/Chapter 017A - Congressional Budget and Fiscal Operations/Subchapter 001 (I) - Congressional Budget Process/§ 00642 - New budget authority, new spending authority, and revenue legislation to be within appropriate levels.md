@@ -44,7 +44,7 @@ Subsection (a) of this section shall not apply in the House of Representatives t
 
 For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or of the Senate, as the case may be.
 
-(Pub. L. 93–344, title III, §311, July 12, 1974, 88 Stat. 316; Pub. L. 99–177, title II, §201(b), Dec. 12,1985, 99 Stat. 1055; Pub. L. 100–119, title I, §106(e)(1), Sept. 29, 1987, 101 Stat. 781; Pub. L. 101–508, title XIII, §§13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, 104 Stat. 1388–608, 1388–617, 1388–626.)
+(Pub. L. 93–344, title III, §311, July 12, 1974, 88 Stat. 316; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1055; Pub. L. 100–119, title I, §106(e)(1), Sept. 29, 1987, 101 Stat. 781; Pub. L. 101–508, title XIII, §§13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, 104 Stat. 1388–608, 1388–617, 1388–626.)
 
 #### References in Text
 

@@ -34,7 +34,7 @@ A conservator shall be subject to any rules, regulations, and orders issued from
 
 #### (1) In general
 
-&emsp;Not later than 45 days after appointment pursuant to section 4616, 4617, or 4619 of this title, or 45 days after receipt of actual notice of an action or proceeding that is pending at the time of appointment, a conservator may request that any judicial action or proceeding to which the conservator or the enterprise is or may become a party be stayed for a period not exceeding 45 days after the request. Upon petition, the court shall grant such stay as to all parties.
+&emsp;Not later than 45 days after appointment pursuant to section 4616, 4617, or 4619 of this title, or 45 days after receipt of actual notice of an action or proceeding that is pending at the time of appointment, a conservator may request that any judicial action or proceeding to which the conservator or the enterprise isor may become a party be stayed for a period not exceeding 45 days after the request. Upon petition, the court shall grant such stay as to all parties.
 
 #### (2) Federal agency as conservator
 

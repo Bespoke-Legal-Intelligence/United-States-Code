@@ -16,5 +16,5 @@ A civil action may not be commenced pursuant to this section more than 3 years a
 
 Nothing in this chapter shall be construed to permit a State to be sued under this section other than in accordance with its applicable laws.
 
-(Pub. L. 95 515, §7, Oct. 25, 1978, 92 Stat. 1814.)
+(Pub. L. 95–515, §7, Oct. 25, 1978, 92 Stat. 1814.)
 

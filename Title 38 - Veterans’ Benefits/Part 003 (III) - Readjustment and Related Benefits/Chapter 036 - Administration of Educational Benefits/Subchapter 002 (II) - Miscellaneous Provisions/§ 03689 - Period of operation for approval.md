@@ -1,6 +1,6 @@
 ### §3689. Period of operation for approval
 
-(a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person inany course offered by an educational institution when such course has been in operation for less than two years.
+(a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person in any course offered by an educational institution when such course has been in operation for less than two years.
 
 (b) Subsection (a) shall not apply to—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) any course which is offered by an educational institution which has been in operation for more than two years, if such course is similar in character to the instruction previously given by such institution;
 
-&emsp;(3) any course which has been offered by an institution for a period of more than two years, notwithstanding the institution has moved to another location within the same general locality, or has made a complete move with substantially the same faculty, curricula, and students, without change in ownership;
+&emsp;(3) any course which has been offered by an institution for a period of more than two years, notwithstanding the institution has moved to another location within the samegeneral locality, or has made a complete move with substantially the same faculty, curricula, and students, without change in ownership;
 
 &emsp;(4) any course which is offered by a nonprofit educational institution of college level and which is recognized for credit toward a standard college degree;
 

@@ -10,7 +10,7 @@ The Secretary of Transportation shall periodically make and present the award to
 
 #### (c) Funding for award
 
-The Secretary of Transportation may seek and accept gifts of money from private sources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, and only such money may be used for that purpose.
+The Secretary of Transportation may seek and accept gifts of money from private sources forthe purpose of making cash prize awards under this section. Such money may be used only for that purpose, and only such money may be used for that purpose.
 
-(Pub. L. 96 480, §19, as added Pub. L. 102 240, title VI, §6019, Dec. 18, 1991, 105 Stat. 2184.)
+(Pub. L. 96–480, §19, as added Pub. L. 102–240, title VI, §6019, Dec. 18, 1991, 105 Stat. 2184.)
 

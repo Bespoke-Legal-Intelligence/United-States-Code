@@ -10,7 +10,7 @@
 
 (1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
 
-(2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall notify the Congress promptly in writing with an explanation and a justification of the reasons for such waiver.
+(2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under section 8258(b) of this title, notify the Congress in writing with an explanation and a justification of the reasons for such waiver.
 
 (3) This subsection shall not apply to an agency's facilities that generate or transmit electric energy or to the uranium enrichment facilities operated by the Department of Energy.
 
@@ -44,9 +44,11 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;(5) ensure that the operation and maintenance procedures applied under this section are continued.
 
-(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845.)
+(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718.)
 
 #### Amendments
+
+1995—Subsec. (b)(2). Pub. L. 104–66 in last sentence inserted “, as part of the report required under section 8258(b) of this title,” after “the Secretary shall” and struck out “promptly” after “Congress”.
 
 1992—Pub. L. 102–486, §152(b)(1), substituted “requirements” for “goals” in section catchline.
 

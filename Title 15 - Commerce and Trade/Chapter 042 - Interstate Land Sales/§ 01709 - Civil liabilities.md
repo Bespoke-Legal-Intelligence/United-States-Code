@@ -16,23 +16,23 @@ The amount recoverable in a suit authorized by this section may include, in addi
 
 Every person who becomes liable to make any payment under this section may recover contribution as in cases of contract from any person who, if sued separately, would have been liable to make the same payment.
 
-(Pub. L. 90 448, title XIV, §1410, Aug. 1, 1968, 82 Stat. 595; Pub. L. 96 153, title IV, §405, Dec. 21, 1979, 93 Stat. 1130.)
+(Pub. L. 90–448, title XIV, §1410, Aug. 1, 1968, 82 Stat. 595; Pub. L. 96–153, title IV, §405, Dec. 21, 1979, 93 Stat. 1130.)
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96 153 substituted provisions relating to violations of section 1703(a) of this title and scope of relief authorized in suits brought against such violations, for provisions relating to suits for untrue statements or omissions to state material fact in statement of record.
+1979—Subsec. (a). Pub. L. 96–153 substituted provisions relating to violations of section 1703(a) of this title and scope of relief authorized in suits brought against such violations, for provisions relating to suits for untrue statements or omissions to state material fact in statement of record.
 
-Subsec. (b). Pub. L. 96 153 substituted provisions relating to enforcement of rights by the purchaser or lessee against the seller or lessor, for provisions relating to suits by the purchaser against the developer or agent.
+Subsec. (b). Pub. L. 96–153 substituted provisions relating to enforcement of rights by the purchaser or lessee against the seller or lessor, for provisions relating to suits by the purchaser against the developer or agent.
 
-Subsec. (c). Pub. L. 96 153 substituted provisions authorizing interest, court costs, etc., to be recoverable in suits under this section, for provisions relating to enumeration of damages recoverable in suits under this section.
+Subsec. (c). Pub. L. 96–153 substituted provisions authorizing interest, court costs, etc., to be recoverable in suits under this section, for provisions relating to enumeration of damages recoverable in suits under this section.
 
-Subsec. (d). Pub. L. 96 153 reenacted provisions without change.
+Subsec. (d). Pub. L. 96–153 reenacted provisions without change.
 
-Subsec. (e). Pub. L. 96 153 struck out subsec. (e) which set forth limitation on amount recoverable under this section.
+Subsec. (e). Pub. L. 96–153 struck out subsec. (e) which set forth limitation on amount recoverable under this section.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96 153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 
 #### Section Referred to in Other Sections
 

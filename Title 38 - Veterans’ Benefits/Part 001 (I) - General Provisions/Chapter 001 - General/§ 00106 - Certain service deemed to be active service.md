@@ -1,6 +1,6 @@
 ### §106. Certain service deemed to be active service
 
-(a)(1) Service as a member of the Women's Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943, was honorably discharged for disability incurred or aggravated in line of duty which rendered herphysically unfit to perform further service in the Women's Army Auxiliary Corps or the Women's Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
+(a)(1) Service as a member of the Women's Army Auxiliary Corps for ninety days or moreby any woman who before October 1, 1943, was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women's Army Auxiliary Corps or the Women's Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
 
 (2) Any person entitled to compensation or pension by reason of this subsection and to employees’ compensation based upon the same service under subchapter I of chapter 81 of title 5 must elect which benefit she will receive.
 
@@ -58,7 +58,7 @@ Section 2 of Pub. L. 87–102 provided that: “No monetary benefits shall accru
 
 Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by Pub. L. 96–466, title VIII, §801(m)(3), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 98–94, title XII, §1263(a), Sept. 24, 1983, 97 Stat. 703; Pub. L. 102–83, §6(b), Aug. 6, 1991, 105 Stat. 407, provided that:
 
-“(a)(1) Notwithstanding any other provision of law, the service of any person as a member of the Women's Air Forces Service Pilots (a group of Federal civilian employees attached to the United States Army Air Force during World War II), or the service of any person in any other similarly situated group the members of which rendered service to the Armed Forces of theUnited States in a capacity considered civilian employment or contractual service at the time such service was rendered, shall be considered active duty for the purposes of all laws administered by the Secretary of Veterans Affairs if the Secretary of Defense, pursuant to regulations which the Secretary shall prescribe—
+“(a)(1) Notwithstanding any other provision of law, the service of any person as a member of the Women's Air Forces Service Pilots (a group of Federal civilian employees attached to the United States Army AirForce during World War II), or the service of any person in any other similarly situated group the members of which rendered service to the Armed Forces of the United States in a capacity considered civilian employment or contractual service at the time such service was rendered, shall be considered active duty for the purposes of all laws administered by the Secretary of Veterans Affairs if the Secretary of Defense, pursuant to regulations which the Secretary shall prescribe—
 
 &emsp;“(A) after a full review of the historical records and all other available evidence pertaining to the service of any such group, determines, on the basis of judicial and other appropriate precedent, that the service of such group constituted active military service, and
 

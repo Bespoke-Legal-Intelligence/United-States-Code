@@ -54,7 +54,7 @@ In selecting proposed demonstrations to be supported under this section, the Sec
 
 > <i>Provided, however</i>, That not fewer than two demonstrations initiated in each year shall be located in a county or standard metropolitan statistical area designated by the Secretary upon recommendation of the Administrator of the Environmental Protection Agency based on severity or uniqueness of air quality conditions: <i>And provided further</i>, That the fleet or portions of fleets participating in each demonstration with funding under this chapter shall consist of not fewer than fifty vehicles except in the case of one demonstration each year involving methane-fueled off-road agricultural equipment.
 
-(Pub. L. 96 512, §7, Dec. 12, 1980, 94 Stat. 2830.)
+(Pub. L. 96–512, §7, Dec. 12, 1980, 94 Stat. 2830.)
 
 #### Section Referred to in Other Sections
 

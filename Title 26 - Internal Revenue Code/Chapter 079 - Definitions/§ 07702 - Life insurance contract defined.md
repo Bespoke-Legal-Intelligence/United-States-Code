@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;The determination under subparagraph (A) shall be based on—
 
-&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
+&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribedin regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
 
 &emsp;&emsp;&emsp;(ii) any reasonable charges (other than mortality charges) which (on the basis of the company's experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (C) When determination made
 
-&emsp;&emsp;Except as provided in subsection (f)(7), the determination under subparagraph (A) shallbe made as of the time the contract is issued.
+&emsp;&emsp;Except as provided in subsection (f)(7), the determination under subparagraph (A) shall be made as of the time the contract is issued.
 
 #### (D) Special rules for subparagraph (B)(ii)
 
@@ -249,7 +249,7 @@ For purposes of this section—
 
 #### (E) Treatment of certain distributions made in anticipation of benefit reductions
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, subparagraph (B) shall apply also to any distribution made in anticipation of a reduction in benefits under the contract. For purposes of the preceding sentence, appropriate adjustments shall be made in the provisions of subparagraphs (C) and (D); and anydistribution which reduces the cash surrender value of a contract and which is made within 2 years before a reduction in benefits under the contract shall be treated as made in anticipation of such reduction.
+&emsp;&emsp;Under regulations prescribed by the Secretary, subparagraph (B) shall apply also to any distribution made in anticipation of a reduction in benefits under the contract. For purposes of the preceding sentence, appropriate adjustments shall be made in the provisions of subparagraphs (C) and (D); and any distribution which reduces the cash surrender value of a contract and which is made within 2 years before a reduction in benefits under the contract shall be treated as made in anticipation of such reduction.
 
 #### (8) Correction of errors
 
@@ -437,7 +437,7 @@ Exception for certain contracts.—Subparagraph (A) shall not apply to any contr
 
 &emsp;&emsp;“(iii) under such contract—
 
-&emsp;&emsp;&emsp;“(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) atthe time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or
+&emsp;&emsp;&emsp;“(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or
 
 &emsp;&emsp;&emsp;“(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit.
 

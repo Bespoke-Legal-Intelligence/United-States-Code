@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Unless the director of a designated State unit awards grants under section 796f–2 of this title to eligible agencies in a State for a fiscal year, the Commissioner shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
+&emsp;Unless the director of a designated State unit awards grants under section 796f–2 of thistitle to eligible agencies in a State for a fiscal year, the Commissioner shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
 
 #### (2) Grants
 
@@ -22,7 +22,7 @@ In any State in which the Commissioner has approved the State plan required by s
 
 #### (c) Existing eligible agencies
 
-In the administration of the provisions of this section, the Commissioner shall award grants to any eligible agency that has been awarded agrant under this subpart by September 30, 1993, unless the Commissioner makes a finding that the agency involved fails to meet program and fiscal standards and assurances set forth in section 796f–4 of this title.
+In the administration of the provisions of this section, the Commissioner shall award grants to any eligible agency that has been awarded a grant under this subpart by September 30, 1993, unless the Commissioner makes a finding that the agency involved fails to meet program and fiscal standards and assurances set forth in section 796f–4 of this title.
 
 #### (d) New centers for independent living
 
@@ -76,7 +76,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (1) In general
 
-&emsp;The Commissioner shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4 of this title. If the Commissioner determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the Commissioner shall immediately notify such center that it is out of compliance.
+&emsp;The Commissioner shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances setforth in section 796f–4 of this title. If the Commissioner determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the Commissioner shall immediately notify such center that it is out of compliance.
 
 #### (2) Enforcement
 

@@ -16,15 +16,15 @@ Any person who knowingly and willfully makes an unlawful payment to an eligible 
 
 Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
 
-(Pub. L. 89 329, title IV, §490, as added Pub. L. 99 498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 102 325, title IV, §495, July 23, 1992, 106 Stat. 631.)
+(Pub. L. 89–329, title IV, §490, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 102–325, title IV, §495, July 23, 1992, 106 Stat. 631.)
 
 #### Prior Provisions
 
-A prior section 1097, Pub. L. 89 329, title IV, §490, as added Pub. L. 96 374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, inserting provisions relating to attempted offenses, wherever appearing, and in subsec. (a) inserting provisions relating to failure to refund and substituting provisions relating to $20,000 and $5,000 fines for provisions relating to $10,000 and $1,000 fines, respectively, in subsec. (b) substituting provisions relating to $10,000 fines for provisions relating to $1,000 fines, in subsec. (c) substituting provisions relating to $10,000 fines for provisions relating $1,000 fines, and in subsec. (d) substituting provisions relating to $20,000 fines for provisions relating to $10,000 fines.
+1992—Pub. L. 102–325 amended section generally, inserting provisions relating to attempted offenses, wherever appearing, and in subsec. (a) inserting provisions relating to failure to refund and substituting provisions relating to $20,000 and $5,000 fines for provisions relating to $10,000 and $1,000 fines, respectively, in subsec. (b) substituting provisions relating to $10,000 fines for provisions relating to $1,000 fines, in subsec. (c) substituting provisions relating to $10,000 fines for provisions relating $1,000 fines, and in subsec. (d) substituting provisions relating to $20,000 fines for provisions relating to $10,000 fines.
 
 #### Section Referred to in Other Sections
 

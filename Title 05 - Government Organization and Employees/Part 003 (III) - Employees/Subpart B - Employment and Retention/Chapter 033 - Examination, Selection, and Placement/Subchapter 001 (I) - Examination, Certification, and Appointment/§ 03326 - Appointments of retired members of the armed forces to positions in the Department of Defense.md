@@ -50,9 +50,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (b)(2). Pub. L. 101–509 substituted “5305” for “5303”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–509 substituted “5305” for “5303”.
 
-1979—Subsec. (b)(1). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Suspension of Section
 

@@ -26,7 +26,7 @@ Notice and Public Hearing.—(1) An application for a grant or loan under this c
 
 &emsp;(D) found that the project is consistent with official plans for developing the urban area.
 
-(2) Notice of a hearing under this subsection shall include a concise description of the proposed project and shall be published in a newspaper of general circulation in the geographicarea the project will serve. If a hearing is held, a copy of the transcript of the hearing shall be submitted with the application.
+(2) Notice of a hearing under this subsection shall include a concise description of the proposed project and shall be published in a newspaper of general circulation in the geographic area the project will serve. If a hearing is held, a copy of the transcript of the hearing shall be submitted with the application.
 
 (c)
 

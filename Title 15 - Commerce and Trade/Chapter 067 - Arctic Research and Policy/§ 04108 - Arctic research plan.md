@@ -14,7 +14,7 @@
 
 &emsp;(5) a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
 
-(Pub. L. 98 373, title I, §109, July 31, 1984, 98 Stat. 1247.)
+(Pub. L. 98–373, title I, §109, July 31, 1984, 98 Stat. 1247.)
 
 #### Section Referred to in Other Sections
 

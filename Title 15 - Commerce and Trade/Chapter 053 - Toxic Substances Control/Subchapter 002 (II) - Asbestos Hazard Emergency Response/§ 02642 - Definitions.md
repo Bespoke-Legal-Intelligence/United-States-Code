@@ -84,15 +84,15 @@ For purposes of this subchapter—
 
 &emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.
 
-(Pub. L. 94 469, title II, §202, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103 382, title III, §391(c)(1) (3), Oct. 20, 1994, 108 Stat. 4022.)
+(Pub. L. 94–469, title II, §202, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103–382, title III, §391(c)(1)–(3), Oct. 20, 1994, 108 Stat. 4022.)
 
 #### References in Text
 
-The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 
-1994—Pars. (7)(A), (9), (12). Pub. L. 103 382 made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
+1994—Pars. (7)(A), (9), (12). Pub. L. 103–382 made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
 
 #### Termination of Trust Territory of the Pacific Islands
 

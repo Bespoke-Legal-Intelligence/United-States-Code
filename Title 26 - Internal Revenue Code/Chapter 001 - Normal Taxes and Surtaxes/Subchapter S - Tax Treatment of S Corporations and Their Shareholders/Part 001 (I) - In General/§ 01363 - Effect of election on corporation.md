@@ -50,7 +50,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (B) Date for payment of installments
 
-&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date (determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) forthe corporation's return for the 3 succeeding taxable years.
+&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date\(determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation's return for the 3 succeeding taxable years.
 
 #### (C) No interest for period of extension
 

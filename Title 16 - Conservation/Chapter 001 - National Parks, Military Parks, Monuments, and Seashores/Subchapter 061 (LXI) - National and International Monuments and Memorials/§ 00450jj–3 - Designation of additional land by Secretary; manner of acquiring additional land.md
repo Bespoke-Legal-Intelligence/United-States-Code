@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 4 of act May 17, 1954, was renumbered section 11 by Pub. L. 98–398, title II, §201(b)(1), Aug. 24, 1984, 98 Stat. 1472, and is set out as a note under section 450jj of this title.
+A prior section 4 of act May 17, 1954, was renumbered section 11 and is set out as a note under section 450jj of this title.
 
 #### Amendments
 

@@ -32,11 +32,11 @@ The Commission is further authorized to conduct such hearings at such times and 
 
 The heads of all Federal agencies are, to the extent not prohibited by law, directed to cooperate with the Commission in carrying out the purposes of this chapter.
 
-(Pub. L. 91 345, §5, July 20, 1970, 84 Stat. 441; Pub. L. 93 29, title VIII, §802(a), May 3, 1973, 87 Stat. 59; Pub. L. 102 95, §4, Aug. 14, 1991, 105 Stat. 479.)
+(Pub. L. 91–345, §5, July 20, 1970, 84 Stat. 441; Pub. L. 93–29, title VIII, §802(a), May 3, 1973, 87 Stat. 59; Pub. L. 102–95, §4, Aug. 14, 1991, 105 Stat. 479.)
 
 #### Amendments
 
-1991—Subsec. (a)(6). Pub. L. 102 95 substituted “national and international communications and cooperative networks” for “the national communications networks”.
+1991—Subsec. (a)(6). Pub. L. 102–95 substituted “national and international communications and cooperative networks” for “the national communications networks”.
 
-1973—Subsec. (a)(2). Pub. L. 93 29 required the Commission to conduct studies, surveys, and analyses of the special library and informational needs of elderly persons.
+1973—Subsec. (a)(2). Pub. L. 93–29 required the Commission to conduct studies, surveys, and analyses of the special library and informational needs of elderly persons.
 

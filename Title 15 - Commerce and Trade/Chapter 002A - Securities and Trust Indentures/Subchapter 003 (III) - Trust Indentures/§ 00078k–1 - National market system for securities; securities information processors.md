@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(v) an opportunity, consistent with the provisions of clauses (i) and (iv) of this subparagraph, for investors’ orders to be executed without the participation of a dealer.
 
-&emsp;(D) The linking of all markets for qualified securities through communication and dataprocessing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors’ orders, and contribute to best execution of such orders.
+&emsp;(D) The linking of all markets for qualified securities through communication and data processing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors’ orders, and contribute to best execution of such orders.
 
 (2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
 
@@ -72,7 +72,7 @@
 
 (2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or any means or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
 
-(3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
+(3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commissionfinds, on the record after notice and opportunity for hearing, that—
 
 &emsp;(i) as a result of transactions in such securities effected otherwise than on a national securities exchange the fairness or orderliness of the markets for such securities has been affected in a manner contrary to the public interest or the protection of investors;
 
@@ -112,7 +112,7 @@
 
 (C) In carrying out its responsibilities under this paragraph, the Advisory Board shall consult with self-regulatory organizations, brokers, dealers, securities information processors, issuers, investors, representatives of Government agencies, and other persons interested or likely to participate in the establishment, operation, or regulation of the national market system.
 
-(June 6, 1934, ch. 404, title I, §11A, as added June 4, 1975, Pub. L. 94–29, §7, 89 Stat. 111; amendedNov. 8, 1984, Pub. L. 98–620, title IV, §402(14), 98 Stat. 3358; Dec. 4, 1987, Pub. L. 100–181, title III, §§313, 314, 101 Stat. 1256.)
+(June 6, 1934, ch. 404, title I, §11A, as added June 4, 1975, Pub. L. 94–29, §7, 89 Stat. 111; amended Nov. 8, 1984, Pub. L. 98–620, title IV, §402(14), 98 Stat. 3358; Dec. 4, 1987, Pub. L. 100–181, title III, §§313, 314, 101 Stat. 1256.)
 
 #### References in Text
 

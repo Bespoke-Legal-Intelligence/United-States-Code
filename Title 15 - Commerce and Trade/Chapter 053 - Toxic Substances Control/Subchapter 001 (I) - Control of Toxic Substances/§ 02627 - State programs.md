@@ -20,7 +20,7 @@ For the purpose of complementing (but not reducing) the authority of, or actions
 
 &emsp;(F) contain such other information as the Administrator may prescribe.
 
-(2) The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator, for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substancesand mixtures are manufactured, processed, used, and disposed of in a State.
+(2) The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator, for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substances and mixtures are manufactured, processed, used, and disposed of in a State.
 
 #### (c) Annual reports
 
@@ -30,11 +30,11 @@ Not later than six months after the end of each of the fiscal years 1979, 1980, 
 
 For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $1,500,000 for each of the fiscal years 1982 and 1983. Sums appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 94 469, title I, §28, Oct. 11, 1976, 90 Stat. 2049; Pub. L. 97 129, §1(a), Dec. 29, 1981, 95 Stat. 1686; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §28, Oct. 11, 1976, 90 Stat. 2049; Pub. L. 97–129, §1(a), Dec. 29, 1981, 95 Stat. 1686; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Amendments
 
-1981—Subsec. (d). Pub. L. 97 129 substituted provisions relating to authorization of appropriations of $1,500,000 for each of the fiscal years 1982 and 1983 for provisions relating to such authorization for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979.
+1981—Subsec. (d). Pub. L. 97–129 substituted provisions relating to authorization of appropriations of $1,500,000 for each of the fiscal years 1982 and 1983 for provisions relating to such authorization for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979.
 
 #### Section Referred to in Other Sections
 

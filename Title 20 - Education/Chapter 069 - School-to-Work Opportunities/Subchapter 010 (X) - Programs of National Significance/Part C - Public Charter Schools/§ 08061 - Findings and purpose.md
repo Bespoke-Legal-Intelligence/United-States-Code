@@ -26,5 +26,5 @@ It is the purpose of this part to increase national understanding of the charter
 
 &emsp;(2) evaluating the effects of such schools, including the effects on students, student achievement, staff, and parents.
 
-(Pub. L. 89 10, title X, §10301, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3824.)
+(Pub. L. 89–10, title X, §10301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3824.)
 

@@ -36,7 +36,7 @@ Oct. 15, 1966, Pub. L. 89–670, §§3(e) (related to FHWA) (1), (3), (4), 6(f)(
 
 104(b)(1)
 
-49:1652(e) (related to FHWA)(1) (less 1st sentence), (3) (last sentence).
+49:1652(e) (related to FHWA) (1) (less 1st sentence), (3) (last sentence).
 
 104(b)(2)
 

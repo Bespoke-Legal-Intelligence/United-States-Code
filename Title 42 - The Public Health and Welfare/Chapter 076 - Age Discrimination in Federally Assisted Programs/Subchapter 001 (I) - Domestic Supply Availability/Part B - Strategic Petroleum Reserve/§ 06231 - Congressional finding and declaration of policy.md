@@ -14,7 +14,7 @@ Pub. L. 99–198, title XVII, §1778, Dec. 23, 1985, 99 Stat. 1659, provided tha
 
 “(b) The study shall be completed within one year after the enactment of this section \[Dec. 23, 1985\] and shall include, among other considerations—
 
-&emsp;“(1) the benefits and losses related to the U.S. economy, farm income, employment, government commodity programs, and the trade deficit of utilizing aStrategic Ethanol Reserve, as opposed to the Strategic Petroleum Reserve; and
+&emsp;“(1) the benefits and losses related to the U.S. economy, farm income, employment, government commodity programs, and the trade deficit of utilizing a Strategic Ethanol Reserve, as opposed to the Strategic Petroleum Reserve; and
 
 &emsp;“(2) the savings from storing ethanol as opposed to storing the amount of CCC-held grain necessary to produce the ethanol.
 

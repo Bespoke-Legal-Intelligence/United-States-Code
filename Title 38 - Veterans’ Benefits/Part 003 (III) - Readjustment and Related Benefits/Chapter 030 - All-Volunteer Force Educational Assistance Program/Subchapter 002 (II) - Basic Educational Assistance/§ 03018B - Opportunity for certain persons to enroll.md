@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) is separated from the active military, naval, or air service with an honorable discharge and receives voluntary separation incentives under section 1174a or 1175 of title 10;
 
-&emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of asecondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
+&emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
 &emsp;&emsp;(C) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as service in the Navy;
 

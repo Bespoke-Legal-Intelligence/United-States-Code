@@ -90,47 +90,47 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Council.
 
 The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council's purposes.
 
-(Pub. L. 100 180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102 245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103 160, div. A, title II, §263(b), (c)(3) (e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103 337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702.)
+(Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702.)
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92 463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1994—Subsec. (b)(2)(I). Pub. L. 103 337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
+1994—Subsec. (b)(2)(I). Pub. L. 103–337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
 
-1993—Pub. L. 103 160, §263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
+1993—Pub. L. 103–160, §263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
 
-Subsec. (a). Pub. L. 103 160, §263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
+Subsec. (a). Pub. L. 103–160, §263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
 
-Subsec. (b). Pub. L. 103 160, §263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
+Subsec. (b). Pub. L. 103–160, §263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
 
-Subsec. (c). Pub. L. 103 160, §263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
+Subsec. (c). Pub. L. 103–160, §263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
 
-Subsec. (d). Pub. L. 103 160, §263(c)(3)(A), substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
+Subsec. (d). Pub. L. 103–160, §263(c)(3)(A), substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
 
-Subsec. (e). Pub. L. 103 160, §263(c)(3)(B), substituted “subsection (c)(7)” for “subsection (c)(6)”.
+Subsec. (e). Pub. L. 103–160, §263(c)(3)(B), substituted “subsection (c)(7)” for “subsection (c)(6)”.
 
-Subsec. (f). Pub. L. 103 160, §263(c)(3)(C), substituted “Eleven members” for “Seven members”.
+Subsec. (f). Pub. L. 103–160, §263(c)(3)(C), substituted “Eleven members” for “Seven members”.
 
-Subsec. (g). Pub. L. 103 160, §263(d), substituted “a Cochairman” for “the Chairman or a majority of its members”.
+Subsec. (g). Pub. L. 103–160, §263(d), substituted “a Cochairman” for “the Chairman or a majority of its members”.
 
-Subsec. (j). Pub. L. 103 160, §263(e), added subsec. (j).
+Subsec. (j). Pub. L. 103–160, §263(e), added subsec. (j).
 
-1992—Subsec. (c)(4). Pub. L. 102 245 substituted “Technology” for “Economic Affairs”.
+1992—Subsec. (c)(4). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
 
 #### Termination of Advisory Council on Federal Participation in Sematech
 
-Section 263(a) of Pub. L. 103 160 provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
+Section 263(a) of Pub. L. 103–160 provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
 
 #### First Meeting of Semiconductor Technology Council
 
-Section 263(f) of Pub. L. 103 160 provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Section 263(f) of Pub. L. 103–160 provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### References to Terminated Council
 
-Section 263(g) of Pub. L. 103 160 provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
+Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
 
 #### Section Referred to in Other Sections
 

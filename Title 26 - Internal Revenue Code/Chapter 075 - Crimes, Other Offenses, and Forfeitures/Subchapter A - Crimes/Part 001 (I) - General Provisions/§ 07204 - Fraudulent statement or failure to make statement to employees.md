@@ -16,5 +16,5 @@ Period of limitation on criminal prosecutions, see section 6531 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6051, 6674 of this title; title 7 section 12a;
+This section is referred to in sections 6051, 6674 of this title; title 7 section 12a.
 

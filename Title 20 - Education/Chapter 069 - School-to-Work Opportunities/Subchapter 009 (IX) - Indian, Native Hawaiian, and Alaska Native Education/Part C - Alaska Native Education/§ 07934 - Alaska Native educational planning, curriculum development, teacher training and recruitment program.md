@@ -10,11 +10,11 @@ The Secretary shall make direct grants to Alaska Native organizations or educati
 
 #### (2) Implementation of educational plans
 
-&emsp;The adoption and implementation of specific educational plans developed under subsection<sup>1</sup> (1) above.
+&emsp;The adoption and implementation of specific educational plans developed under subsection <sup>1</sup> (1) above.
 
 #### (3) Curricula
 
-&emsp;The development of curricula to address the needs of Alaska Native students, particularly elementary and secondary school students, which may include innovative programs and pilot and demonstration programs to develop and introduce curriculum materials that reflect cultural diversities or the contributions of Alaska Native people, programs of instruction conducted in Native languages, and the development of networks to introduce successful techniques, programs and curriculum materials to rural and urban schools, including:
+&emsp;The development of curricula to address the needs of Alaska Native students, particularly elementary and secondary school students, which may include innovative programs andpilot and demonstration programs to develop and introduce curriculum materials that reflect cultural diversities or the contributions of Alaska Native people, programs of instruction conducted in Native languages, and the development of networks to introduce successful techniques, programs and curriculum materials to rural and urban schools, including:
 
 &emsp;&emsp;(A) multimedia social studies curricula which fully and accurately portray the role of Native Americans historically and contemporarily; and
 
@@ -44,9 +44,9 @@ Not more than 10 percent of the funds appropriated to carry out the provisions o
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated $5,000,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeedingfiscal years, to carry out this section. Funds appropriated under the authority of this subsection shall remain available until expended.
+There are authorized to be appropriated $5,000,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years, to carry out this section. Funds appropriated under the authority of this subsection shall remain available until expended.
 
-(Pub. L. 89 10, title IX, §9304, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3806.)
+(Pub. L. 89–10, title IX, §9304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3806.)
 
-<i><sup>1</sup></i><i>So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

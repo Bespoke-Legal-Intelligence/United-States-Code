@@ -1,0 +1,40 @@
+### §1425a. Producers of honey; loan obligations and liabilities
+
+#### (a) Loan forfeiture limitation
+
+A producer of honey may satisfy the producer's obligation to repay a loan, or a portion of a loan, made to the producer under section 1446h of this title by forfeiting the collateral for the loan, or portion of the loan, only if the value of the collateral forfeited, when taken together with the value of the collateral forfeited on any other loan or loans of the person for such crop of honey under section 1446h of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years: <i>Provided, however</i>, That the loan forfeiture limitation provided by this section shall not be applicable for any crop year for which the Secretary does not permit producers of honey to repay the price support loans at a level determined under section 1446h(b)(2) of this title.
+
+#### (b) Liability for nonforfeitable part of obligation
+
+The producer of honey shall be personally liable for the repayment of a loan or loans made to the producer under the program for the crop of honey involved, with respect to that portion of the loan or loans for which satisfaction of the loan by forfeiture, as provided in subsection (a) of this section, is prohibited.
+
+#### (c) Extent of personal liability
+
+The loan contracts of the Commodity Credit Corporation entered into with producers of honey shall clearly indicate the extent to which a producer of honey may be personally liable for repayment of a loan under this section.
+
+#### (d) Promulgation of regulations
+
+The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a) of this section.
+
+(Oct. 31, 1949, ch. 792, title IV, §405A, as added Oct. 1, 1988, Pub. L. 100–460, title VI, §634(b), 102 Stat. 2263; amended Nov. 28, 1990, Pub. L. 101–624, title X, §1002, title XI, §1161(d), 104 Stat. 3490, 3521.)
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101–624, §1161(d), substituted references to sections 1446h and 1446h(b)(2) of this titlefor references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
+
+Pub. L. 101–624, §1002(1), substituted “person for such crop of honey under section 1446h of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years” for “producer for such crop of honey under section 1446(b) of this title, does not exceed $250,000”.
+
+Subsec. (d). Pub. L. 101–624, §1002(2), inserted provisions requiring that the regulations issued pursuant to this subsection provide for the attribution of the value of collateral forfeited on loans described in subsec. (a).
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
+
+#### Prohibition on Use of Funds for Honey Payments or Loan Forfeitures
+
+None of the funds appropriated or otherwise made available by Pub. L. 104–37 to be used to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section in excess of zero dollars in the 1994, 1995, and 1996 crop years, see section 718 of Pub. L. 104–37, set out as a note under section 1446h of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1425 of this title.
+

@@ -14,7 +14,7 @@
 
 &emsp;(4) The term “general Federal pay increase” means an adjustment (if an increase) in the rates of pay under the General Schedule under subchapter III of chapter 53 of title 5.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 528, §4331; amended Pub. L. 101–366, title II, §205(b), Aug. 15, 1990, 104 Stat. 441; renumbered §7631 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(10), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 528, §4331; amended Pub. L.101–366, title II, §205(b), Aug. 15, 1990, 104 Stat. 441; renumbered §7631 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(10), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 

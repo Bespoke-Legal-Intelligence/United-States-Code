@@ -1,8 +1,8 @@
-### §414 . Staff of Joint Committee: appointment, duties, pay, discharge; utilization of Government personnel, consultants, and experts
+### §414. Staff of Joint Committee: appointment, duties, pay, discharge; utilization of Government personnel, consultants, and experts
 
 (a) In carrying out its functions under subsections (a) and (c) of section 412 of this title, the Joint Committee is authorized, by record vote of a majority of the members of the Joint Committee—
 
-&emsp;(1) to appoint, on a permanent basis, without regard to political affiliation and solely on the basis of fitness to perform their duties, not more than six professional staff members and not more than six clerical staff members;
+&emsp;(1) to appoint, on a permanent basis, without regard to political affiliation and solely on the basis of fitness to perform their duties, notmore than six professional staff members and not more than six clerical staff members;
 
 &emsp;(2) to prescribe their duties and responsibilities;
 

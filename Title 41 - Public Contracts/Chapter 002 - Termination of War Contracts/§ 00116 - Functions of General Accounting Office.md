@@ -12,7 +12,7 @@ Whenever the Comptroller General is convinced that any settlement was induced by
 
 The Comptroller General may investigate the settlements completed by each contracting agency for the purpose of reporting to the Congress from time to time on—
 
-&emsp;(1) whether the settlement methods and procedures employed by such agency are of a kindand type designed to result in expeditious and fair settlements in accordance with and subject to the provisions of this chapter and the orders and regulations of the Administrator of General Services;
+&emsp;(1) whether the settlement methods and procedures employed by such agency are of a kind and type designed to result in expeditious and fair settlements in accordance with and subject to the provisions of this chapter and the orders and regulations of the Administrator of General Services;
 
 &emsp;(2) whether such methods and procedures are followed by such agency with care and efficiency; and
 

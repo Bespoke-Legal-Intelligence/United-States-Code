@@ -38,11 +38,11 @@ The Secretaries may not provide a development grant under section 6122 of this t
 
 &emsp;(18) providing technical assistance to rural areas in planning, developing, and implementing local School-to-Work Opportunities programs that meet the needs of rural communities with low population densities.
 
-(Pub. L. 103 239, title II, §205, May 4, 1994, 108 Stat. 580.)
+(Pub. L. 103–239, title II, §205, May 4, 1994, 108 Stat. 580.)
 
 #### References in Text
 
-The National Skill Standards Act of 1994, referred to in par. (11), is title V of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in par. (11), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
-This chapter, referred to in par. (16), was in the original “this Act”, meaning Pub. L. 103 239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in par. (16), was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

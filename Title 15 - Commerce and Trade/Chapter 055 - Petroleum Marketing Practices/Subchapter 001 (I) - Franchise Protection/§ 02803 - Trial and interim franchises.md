@@ -60,11 +60,11 @@ If the notification requirements of section 2804 of this title are met, any fran
 
 &emsp;(2) under any interim franchise, at the conclusion of the term of such interim franchise, if—
 
-&emsp;&emsp;(A) \~\~such \~\~nonrenewal \~\~is \~\~based \~\~upon \~\~a determination described in section 2802(b)(2)(E) of this title; and
+&emsp;&emsp;(A) �7E�7Esuch �7E�7Enonrenewal �7E�7Eis �7E�7Ebased �7E�7Eupon �7E�7Ea determination described in section 2802(b)(2)(E) of this title; and
 
 &emsp;&emsp;(B) the requirements of section 2802(b)(2)(E)(ii) and (iii) of this title are satisfied.
 
-(Pub. L. 95 297, title I, §103, June 19, 1978, 92 Stat. 328.)
+(Pub. L. 95–297, title I, §103, June 19, 1978, 92 Stat. 328.)
 
 #### Section Referred to in Other Sections
 

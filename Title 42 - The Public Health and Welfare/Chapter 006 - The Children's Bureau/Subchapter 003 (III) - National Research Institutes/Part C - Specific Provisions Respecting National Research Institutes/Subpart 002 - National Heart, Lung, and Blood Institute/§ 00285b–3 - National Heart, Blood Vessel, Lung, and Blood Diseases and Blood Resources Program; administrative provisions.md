@@ -10,7 +10,7 @@
 
 &emsp;(D) establishment of programs that will focus and apply scientific and technological efforts involving the biological, physical, and engineering sciences to all facets of heart, blood vessel, lung, and blood diseases with emphasis on the refinement, development, and evaluation of technological devices that will assist, replace, or monitor vital organs and improve instrumentation for detection, diagnosis, and treatment of and rehabilitation from such diseases;
 
-&emsp;(E) establishment of programs for the conduct and direction of field studies, large-scale testing and evaluation, and demonstration of preventive, diagnostic, therapeutic, and rehabilitative approaches to, and emergency medical services for, such diseases;
+&emsp;(E) establishment of programs for the conduct and direction of field studies, large-scaletesting and evaluation, and demonstration of preventive, diagnostic, therapeutic, and rehabilitative approaches to, and emergency medical services for, such diseases;
 
 &emsp;(F) studies and research into blood diseases and blood, and into the use of blood for clinical purposes and all aspects of the management of blood resources in the United States, including the collection, preservation, fractionation, and distribution of blood and blood products;
 

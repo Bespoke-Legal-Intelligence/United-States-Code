@@ -30,7 +30,7 @@
 
 (C) For purposes of this section, the term “annuity” means the annuity earned by the reemployed member based on his or her service irrespective of whether or not the amount payable is reduced by the amount of an annuity payable under section 4054 or 4060(b) of this title.
 
-(4) Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity of an annuitant who has made an election under paragraph (1) of this subsection shall resume.
+(4) Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity ofan annuitant who has made an election under paragraph (1) of this subsection shall resume.
 
 #### (c) Amount of annuity on resumption; amount resulting from redetermination of rights
 

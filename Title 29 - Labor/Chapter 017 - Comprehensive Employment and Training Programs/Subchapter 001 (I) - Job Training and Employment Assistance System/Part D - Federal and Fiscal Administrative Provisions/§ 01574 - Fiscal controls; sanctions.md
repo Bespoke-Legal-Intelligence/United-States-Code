@@ -2,7 +2,7 @@
 
 #### (a) Establishment of State controls; cost principles; procurement standards; monitoring; noncompliance; certification to Secretary; corrective action; report to Congress
 
-(1) Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds paid to the recipient under subchapters II and III of this chapter. Such procedures shall ensure that all financial transactions are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
+(1) Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds paid to the recipient under subchapters II and III of this chapter.Such procedures shall ensure that all financial transactions are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
 
 (2) The Secretary shall prescribe regulations establishing uniform cost principles substantially equivalent to such principles generally applicable to recipients of Federal grants funds. At a minimum, such standards shall provide that, to be allowable, costs must—
 

@@ -2,7 +2,7 @@
 
 Section 501, Pub. L. 95–224, §2, Feb. 3, 1978, 92 Stat. 3, set out the Congressional findings and statement of purposes in enacting the Federal Grant and Cooperative Agreement Act of 1977 \[this chapter\]. Sections 1 and 10(b) of Pub. L. 95–224, setting out the short title provisions and savings provisions respectively of that Act, were set out as notes under this section, and were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1083. Section 10(d) of Pub. L. 95–224, as amended by Pub. L. 97–162, Apr. 1, 1982, 96 Stat. 23, setting out the excepted transactions provisions of that Act was set out as a note under this section, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1083. See sections 6301 and 6307(2) of Title 31, Money and Finance.
 
-Section 502, Pub. L. 95–224, §3, Feb. 3, 1978, 92 Stat. 4, defined “State government”, “local government”, “other recipient”, “executive agency”, and “grant or cooperative agreement”. See section 6302 of Title 31.
+Section 502, Pub. L. 95–224, §3, Feb. 3, 1978, 92 Stat. 4, defined “State government”, “local government”,“other recipient”, “executive agency”, and “grant or cooperative agreement”. See section 6302 of Title 31.
 
 Section 503, Pub. L. 95–224, §4, Feb. 3, 1978, 92 Stat. 4, provided for use of procurement contracts by executive agencies. See section 6303 of Title 31.
 

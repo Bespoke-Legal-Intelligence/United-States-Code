@@ -20,7 +20,7 @@ Changes were made in phraseology.
 
 1964—Pub. L. 88–532 substituted “in the year 1964, then in the year 1968, and” for “in the year 1954 and” and struck out provisions which related to the taking of certain censuses in the year 1955.
 
-1957—Pub. L. 85–207 struck out sentence which included the United States and its territories and suchpossessions as the Secretary might determine in the censuses to be taken. See section 191 of this title.
+1957—Pub. L. 85–207 struck out sentence which included the United States and its territories and such possessions as the Secretary might determine in the censuses to be taken. See section 191 of this title.
 
 #### Census Data on Women Owned Businesses; Study and Report
 

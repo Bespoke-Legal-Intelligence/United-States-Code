@@ -1,6 +1,6 @@
 ### §5514. Installment deduction for indebtedness to the United States
 
-(a)(1) When the head of an agency or his designee determines that an employee, member of the Armed Forces or Reserve of the Armed Forces, is indebted to the United States for debts to which the United States is entitled tobe repaid at the time of the determination by the head of an agency or his designee, or is notified of such a debt by the head of another agency or his designee the amount of indebtedness may be collected in monthly installments, or at officially established pay intervals, by deduction from the current pay account of the individual. The deductions may be made from basic pay, special pay, incentive pay, retired pay, retainer pay, or, in the case of an individual not entitled to basic pay, other authorized pay. The amount deducted for any period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted upon the written consent of the individual involved. If the individual retires or resigns, or if his employment or period of active duty otherwise ends, before collection of the amount of the indebtedness is completed, deduction shall be made from subsequent payments of any nature due the individual from the agency concerned.
+(a)(1) When the head of an agency or his designee determines that an employee, member of the Armed Forces or Reserve of the Armed Forces, is indebted to the United States for debts to which the United States is entitled to be repaid at the time of the determination by the head of an agency or his designee, or is notified of such a debt by the head of another agency or his designee the amount of indebtedness may be collected in monthly installments, or at officially established pay intervals, by deduction from the current pay account of the individual. The deductions may be made from basic pay, special pay, incentive pay, retired pay, retainer pay, or, in the case of an individual not entitled to basic pay, other authorized pay. The amount deducted for any period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted upon the written consent of the individual involved. If the individual retires or resigns, or if his employment or period of active duty otherwise ends, before collection of the amount of the indebtedness is completed, deduction shall be made from subsequent payments of any nature due the individual from the agency concerned.
 
 (2) Except as provided in paragraph (3) of this subsection, prior to initiating any proceedings under paragraph (1) of this subsection to collect any indebtedness of an individual, the head of the agency holding the debt or his designee, shall provide the individual with—
 
@@ -52,11 +52,11 @@ In subsection (c), the words “section 4837(d) or 9837(d) of title 10 or sectio
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–216 substituted “section 3530(d)” for “section 581d”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–216 substituted “section 3530(d)” for “section 581d”.
 
-1983—Subsec. (a)(3). Pub. L. 97–452 substituted “sections 3711 and 3716–3718 of title 31” for “the Federal Claims Collection Act of 1966 (31 U.S.C. 951 et seq.)”.
+<b>1983</b>—Subsec. (a)(3). Pub. L. 97–452 substituted “sections 3711 and 3716–3718 of title 31” for “the Federal Claims Collection Act of 1966 (31 U.S.C. 951 et seq.)”.
 
-1982—Pub. L. 97–365, §5(c), substituted “indebtedness to the United States” for “indebtedness because of erroneous payment” in section catchline.
+<b>1982</b>—Pub. L. 97–365, §5(c), substituted “indebtedness to the United States” for “indebtedness because of erroneous payment” in section catchline.
 
 Subsec. (a). Pub. L. 97–365, §5(a), designated existing provisions as par. (1), in par. (1) as so designated substituted provisions relating to debts to which the United States is entitled to be repaid for provisions which had related to an indebtedness to the United States because of an erroneous payment made by an agency to or on behalf of an individual, inserted provisions relating to the notification of a debt by the head of another agency or his designee, substituted provisions authorizing the deduction of not to exceed 15 percent of disposable pay for provisions which had authorized the deduction of not to exceed two-thirds of the pay from which the deduction was made, and added pars. (2), (3), and (4).
 
@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 97–365, §5(b), designated existing provisions as par. (1
 
 Pub. L. 97–258 substituted “section 3530(d)” for “section 581d”.
 
-1979—Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
 
 #### Effective Date of 1979 Amendment
 
@@ -76,7 +76,7 @@ Section 1 of Pub. L. 97–365 provided: “That this Act \[enacting sections 954
 
 #### Delegation of Functions
 
-Authority of President under subsec. (b) of this section to approve regulations prescribed by head of each agency to carry out this section and section 581d of Title 31, Money and Finance \[31 U.S.C. 3530(d)\], relating to installment deductions from pay for indebtedness because of erroneous payment, delegated to Office of Personnel Management, see section 8(1) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (b) of this section to approve regulations prescribed by head of each agency to carry out this section and section 581d of Title 31, Money and Finance \[31 U.S.C. 3530(d)\], relating to installment deductions from pay for indebtedness because of erroneous payment, delegated to Office ofPersonnel Management, see section 8(1) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
 #### Improvements in Debt Collection Procedures Under 1982 Amendments as Contained in Debt Collection Act of 1982
 

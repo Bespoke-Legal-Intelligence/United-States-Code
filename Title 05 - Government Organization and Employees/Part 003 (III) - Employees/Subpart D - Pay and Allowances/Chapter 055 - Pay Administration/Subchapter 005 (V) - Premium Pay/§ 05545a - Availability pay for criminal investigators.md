@@ -4,7 +4,7 @@
 
 &emsp;(1) the term “available” refers to the availability of a criminal investigator and means that an investigator shall be considered generally and reasonably accessible by the agency employing such investigator to perform unscheduled duty based on the needs of an agency;
 
-&emsp;(2) the term “criminal investigator” means a law enforcement officer as defined under section 5541(3) (other than an officer occupying a position under title II of Public Law 99–399) is required to—
+&emsp;(2) the term “criminal investigator” means a law enforcement officer as defined under section 5541(3) (other than an officer occupying a position under title II of Public Law 99–399) who is required to—
 
 &emsp;&emsp;(A) possess a knowledge of investigative techniques, laws of evidence, rules of criminal procedure, and precedent court decisions concerning admissibility of evidence, constitutional rights, search and seizure, and related issues;
 
@@ -24,9 +24,9 @@
 
 &emsp;&emsp;&emsp;(iv) methods of criminal operations; and
 
-&emsp;&emsp;&emsp;(v) availability of detection devices; <sup>1</sup>
+&emsp;&emsp;&emsp;(v) availability of detection devices; and
 
-&emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed rather than initiate an investigation after a crime is committed;
+&emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed ratherthan initiate an investigation after a crime is committed;
 
 &emsp;(3) the term “unscheduled duty” means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
 
@@ -82,11 +82,29 @@
 
 &emsp;&emsp;(B) such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425.)
+(i) The provisions of subsections (a)–(h) providing for availability pay shall apply to a pilot employed by the United States Customs Service who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title, and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(16) and (b)(30)), such pilot shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
+
+(j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
+
+(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230.)
 
 #### References in Text
 
 Title II of Public Law 99–399, referred to in subsec. (a)(2), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
+
+#### Amendments
+
+<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted “who” before “is required to” in introductory provisions.
+
+Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted “and” at end.
+
+Subsec. (i). Pub. L. 104–19, §902(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
+
+#### Effective Date of 1995 Amendment
+
+Section 902(b) of Pub. L. 104–19 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after the 30th day following the date of enactment of this Act \[July 27, 1995\].”
 
 #### Effective Date
 
@@ -102,7 +120,5 @@ Section 633(f) of Pub. L. 103–329 provided that: “Not later than the effecti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5542, 5547 of this title; title 29 section 213.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+This section is referred to in sections 5542, 5547 of this title; title 2 section 1371; title 29 section 213.
 

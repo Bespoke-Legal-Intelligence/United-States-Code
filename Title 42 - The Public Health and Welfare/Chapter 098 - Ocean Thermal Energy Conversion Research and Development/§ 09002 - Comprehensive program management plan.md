@@ -28,17 +28,19 @@ The detailed description of the comprehensive plan under this section shall incl
 
 &emsp;(7) an analysis of the environmental, economic, and societal impacts of ocean thermal energy conversion facilities.
 
-#### (d) Plan modifications
+(Pub. L. 96–310, §3, July 17, 1980, 94 Stat. 942; Pub. L. 104–66, title I, §1051(c), Dec. 21, 1995, 109 Stat. 716.)
 
-(1) Concurrently with the submission of the President's annual budget for each subsequent year, the Secretary shall transmit to the Congress a detailed description of modifications which may be necessary to revise appropriately the comprehensive plan as then in effect, setting forth any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section.
+#### Amendments
 
-(2) Such description shall also include a detailed justification of any such changes, a detailed description of the progress made toward achieving the goals of this chapter, a statement on the status of interagency cooperation in meeting such goals, any comments on and recommendations for improvements in the comprehensive program management plan made by the Technical Panel established under section 9007 of this title, and any legislative or other recommendations which the Secretary may have to help attain such goals.
+1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows:
 
-(Pub. L. 96–310, §3, July 17, 1980, 94 Stat. 942.)
+“(d)(1) Concurrently with the submission of the President's annual budget for each subsequent year, the Secretary shall transmit to the Congress a detailed description of modifications which may be necessary to revise appropriately the comprehensive plan as then in effect, setting forth any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section.
+
+“(2) Such description shall also include a detailed justification of any such changes, a detailed description of the progress made toward achieving the goals of this chapter, a statement on the status of interagency cooperation in meeting such goals, any comments on and recommendations for improvements in the comprehensive program management plan made by the Technical Panel established under section 9007 of this title, and any legislative or other recommendations which the Secretary may have to help attain such goals.”
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 #### References in Text
 
-Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Prior Provisions
 

@@ -56,7 +56,7 @@ The duties of the Commission are as follows:
 
 #### (3) Pay
 
-&emsp;Members of the Commission shall serve without pay; except that any member of the Commission appointed under paragraph (1)(J) shall while attending meetings of and attending hearings held by the Commission be entitled to travel or transportation expenses in accordance with section 5703 of title 5.
+&emsp;Members of the Commission shall serve without pay; except that any member of the Commission appointed under paragraph (1)(J)shall while attending meetings of and attending hearings held by the Commission be entitled to travel or transportation expenses in accordance with section 5703 of title 5.
 
 #### (4) Quorum
 
@@ -78,7 +78,7 @@ The duties of the Commission are as follows:
 
 #### (2) Authority to appoint
 
-&emsp;The Commission may appoint and fix the pay of not to exceed 10 individuals, includingan individual to serve as the executive director of the Commission. Staff appointed under this paragraph shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; except that—
+&emsp;The Commission may appoint and fix the pay of not to exceed 10 individuals, including an individual to serve as the executive director of the Commission. Staff appointed under this paragraph shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; except that—
 
 &emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commission may be appointed and compensated without regard to such provisions; and
 
@@ -152,7 +152,7 @@ Upon request of the Commission, the Secretary of State, the Secretary of Commerc
 
 #### (5) Limitation on effect
 
-&emsp;This subsection shall not be effective with respect to any fiscal year beginning after thelast day of the 2-year period beginning on the first day the Commission deposits under section 1107(c) of this title funds into the account established by section 1107(d) of this title.
+&emsp;This subsection shall not be effective with respect to any fiscal year beginning after the last day of the 2-year period beginning on the first day the Commission deposits under section 1107(c) of this title funds into the account established by section 1107(d) of this title.
 
 (Pub. L. 100–113, §7, Aug. 21, 1987, 101 Stat. 741.)
 

@@ -1,4 +1,4 @@
-### §460hhh–8 . Authorization of appropriations
+### §460hhh–8. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 

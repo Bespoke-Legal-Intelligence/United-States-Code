@@ -16,7 +16,7 @@
 
 &emsp;Except as otherwise provided in this subsection, a plan meets the requirements of this subsection only if—
 
-&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employees which is set forth in the plan and which isfound by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
+&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employeeswhich is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
 
 &emsp;&emsp;(B) in the case of each class of benefits, such benefits do not discriminate in favor of employees who are highly compensated individuals.
 

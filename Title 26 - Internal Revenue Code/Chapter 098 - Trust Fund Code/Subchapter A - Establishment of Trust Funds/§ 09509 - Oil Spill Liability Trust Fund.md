@@ -110,7 +110,7 @@ The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (
 
 Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to section 1321 of Title 33. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by Pub. L. 101–380, title IV, §4201(b), Aug. 18, 1990, 104 Stat. 525. Subsec. (k) of section 311 was repealed by Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
-The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29\(§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to section 1812 of Title 43, Public Lands, prior to its repeal by Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.
 
@@ -134,7 +134,7 @@ The date of the enactment of this subsection, referred to in subsec. (f), probab
 
 “(5) amounts credited to such trust fund under section 311(s) of the Federal Water Pollution Control Act.”
 
-Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting “Expenditure purposes” for “General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
+Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting “Expenditure purposes” for“General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
 
 Subsec. (c)(2)(A). Pub. L. 101–380, §9001(c), substituted “$1,000,000,000” for “$500,000,000” in heading and in cl. (i), and substituted “$500,000,000” for “$250,000,000” in cl. (ii).
 
@@ -176,6 +176,12 @@ Section 8033(c)(1) of Pub. L. 99–509 provided that: “The amendments made by 
 
 \[For purposes of section 8033(c) of Pub. L. 99–509, set out as notes above and below, the commencement date is Jan. 1, 1990, see section 7505(d)(1) of Pub. L. 101–239, set out as an Effective Date of 1986 Amendment note under section 4611 of this title.\]
 
+#### Report on Oil Spill Liability Trust Fund
+
+Pub. L. 104–66, title I, §1122(a), Dec. 21, 1995, 109 Stat. 724, provided that: “The quarterly report regarding the Oil Spill Liability Trust Fund required to be submitted to the House and Senate Committees on Appropriations under House Report 101–892, accompanying the appropriations for the Coast Guard in the Department of Transportation and Related Agencies Appropriations Act, 1991 \[Pub. L. 101–516\], shall be submitted not later than 30 days after the end of the fiscal year in which this Act is enacted and annually thereafter.”
+
+\[House Report 101–892, 101st Congress, 2d Session, provided that: “The conferees direct the Coast Guard to submit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and Senate Committees on Appropriations as to the format for these reports.”\]
+
 #### Deepwater Port Liability Fund
 
 Section 2003(b) of Pub. L. 101–380 provided that: “Any amounts remaining in the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974 (33 U.S.C. \[former\] 1517(f)) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Deepwater Port Liability Fund.”
@@ -186,7 +192,7 @@ Section 2004 of Pub. L. 101–380 provided that: “Title III of the Outer Conti
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Section 4304 of Pub. L. 101–380 provided that: “Penalties paid pursuant to section 311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\], section 309(c) of that Act \[33 U.S.C. 1319(c)\], as a result of violations ofsection 311 of that Act, and the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], shall be deposited in the Oil Spill Liability Trust Fund created under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509).”
+Section 4304 of Pub. L. 101–380 provided that: “Penalties paid pursuant to section 311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\], section 309(c) of that Act \[33 U.S.C. 1319(c)\], as a result of violations of section 311 of that Act, and the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], shall be deposited in the Oil Spill Liability Trust Fund created under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509).”
 
 #### Coordination With Superfund Reauthorization
 

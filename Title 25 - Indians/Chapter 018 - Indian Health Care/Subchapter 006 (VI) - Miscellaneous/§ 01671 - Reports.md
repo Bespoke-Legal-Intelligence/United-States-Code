@@ -2,7 +2,7 @@
 
 The President shall, at the time the budget is submitted under section 1105 of title 31, for each fiscal year transmit to the Congress a report containing—
 
-&emsp;(1) a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and ensure a health status for Indians, which are at a parity with the health services available to and the health status of, the general population;
+&emsp;(1) a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, andensure a health status for Indians, which are at a parity with the health services available to and the health status of, the general population;
 
 &emsp;(2) a report on whether, and to what extent, new national health care programs, benefits, initiatives, or financing systems have had an impact on the purposes of this chapter and any steps that the Secretary may have taken to consult with Indian tribes to address such impact;
 

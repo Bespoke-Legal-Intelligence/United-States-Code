@@ -18,7 +18,7 @@
 
 (d) The Secretary of Defense may establish rates and collect charges for space, services, protection, maintenance, construction, repairs, alterations, or facilities provided at the Pentagon Reservation.
 
-(e)(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the “Fund”). There shall be deposited intothe Fund funds collected by the Secretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
+(e)(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the “Fund”). There shall be deposited into the Fund funds collected by the Secretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
 
 (2) Monies deposited into the Fund shall be available, without fiscal year limitation, for expenditure for real property management, operation, protection, construction, repair, alteration and related activities for the Pentagon Reservation.
 
@@ -42,7 +42,7 @@ Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” 
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

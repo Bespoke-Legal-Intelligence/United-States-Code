@@ -14,5 +14,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Transfer of functions of Federal Board for Vocational Education to Department of the Interior under Ex. Ord. No. 6166, set out as a note under section 901 of Title 5, and from there to Federal Security Agency by Reorg. Plan No. I of 1939, and in 1946 abolishment of Board and its functions by Reorg. Plan No. 2 of 1946, see notes set out under section 11 of this title.
+Transfer of functions of Federal Board for Vocational Education to Department of the Interior under Ex. Ord. No. 6166, set out as a note under section 901 of Title 5,and from there to Federal Security Agency by Reorg. Plan No. I of 1939, and in 1946 abolishment of Board and its functions by Reorg. Plan No. 2 of 1946, see notes set out under section 11 of this title.
 

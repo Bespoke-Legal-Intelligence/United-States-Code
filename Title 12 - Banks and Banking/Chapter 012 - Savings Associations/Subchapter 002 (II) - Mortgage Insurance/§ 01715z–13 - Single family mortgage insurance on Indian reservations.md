@@ -26,11 +26,11 @@ Before making any commitment to insure a mortgage under this section with respec
 
 #### (e) Assumption of mortgage
 
-A mortgage insured under this section may be assumed, subject to credit approval by the lender and the consent of the tribe to an assumption of the existing lease or the grant of a new lease,without an adjustment of the interest rate. Any other sale of a property subject to a mortgage insured under this section may be made only if a new lease is granted, except that a sale following a foreclosure may be accompanied by an assumption of the lease with the consent of the tribe.
+A mortgage insured under this section may be assumed, subject to credit approval by the lender and the consent of the tribe to an assumption of the existing lease or the grant of a new lease, without an adjustment of the interest rate. Any other sale of a property subject to a mortgage insured under this section may be made only if a new lease is granted, except that a sale following a foreclosure may be accompanied by an assumption of the lease with the consent of the tribe.
 
 #### (f) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
@@ -62,6 +62,8 @@ For purposes of this section:
 
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
+Chapter 67 of title 31, referred to in subsec. (i)(1), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. A new chapter 67 of Title 31, Money and Finance, was added by Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1859.
+
 The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
@@ -74,7 +76,7 @@ Subsec. (d). Pub. L. 100–242, §429(i)(3), substituted “trust or otherwise r
 
 Subsec. (f). Pub. L. 100–242, §413(c)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted “General Insurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted “GeneralInsurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
 
 Subsecs. (h), (i). Pub. L. 100–242, §413(c)(2), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -82,7 +84,7 @@ Subsecs. (h), (i). Pub. L. 100–242, §413(c)(2), redesignated former subsecs. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272, set out as a Termination of General Revenue Sharing note under section 6701 of Title 31, Money and Finance.
+Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
 
 #### Section Referred to in Other Sections
 

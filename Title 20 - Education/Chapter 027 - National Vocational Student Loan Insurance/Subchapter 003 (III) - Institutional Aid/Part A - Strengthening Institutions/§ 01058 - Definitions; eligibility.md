@@ -38,7 +38,7 @@ For the purpose of this part, the term “enrollment of needy students” means 
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1067(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal yearpreceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1067(a) of this title.
 
 #### (d) Full-time equivalent students
 
@@ -62,27 +62,27 @@ For the purpose of this part, the term “junior or community college” means a
 
 For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
 
-(Pub. L. 89 329, title III, §312, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100 50, §2(a)(2) (6), June 3, 1987, 101 Stat. 335; Pub. L. 100 369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102 325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103 208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103 382, title III, §353, Oct. 20, 1994, 108 Stat. 3966.)
+(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966.)
 
 #### Prior Provisions
 
-A prior section 1058, Pub. L. 89 329, title III, §312, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
-1994—Subsec. (b)(1)(C). Pub. L. 103 382, §353(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor's degree, or (ii) which is a junior or community college;”.
+1994—Subsec. (b)(1)(C). Pub. L. 103–382, §353(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor's degree, or (ii) which is a junior or community college;”.
 
-Subsec. (b)(1)(F). Pub. L. 103 382, §353(2), (3), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 103–382, §353(2), (3), added subpar. (F).
 
-1993—Subsec. (c)(2). Pub. L. 103 208 inserted “the” after “such institutions in”.
+1993—Subsec. (c)(2). Pub. L. 103–208 inserted “the” after “such institutions in”.
 
-1992—Subsec. (b)(1), (2). Pub. L. 102 325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
+1992—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
 
 &emsp;“(i) met the requirement of either subparagraph (C)(i) or (C)(ii), or of both such subparagraphs (simultaneously or consecutively); and
 
 &emsp;“(ii) met the requirement of subparagraph (D); and”.
 
-Subsec. (b)(3) to (5). Pub. L. 102 325, §302(a)(3), struck out pars. (3) to (5) which read as follows:
+Subsec. (b)(3) to (5). Pub. L. 102–325, §302(a)(3), struck out pars. (3) to (5) which read as follows:
 
 “(3) any institution of higher education which has an enrollment of which at least 20 percent are Mexican American, Puerto Rican, Cuban, or other Hispanic students, or combination thereof, and which also satisfies the requirements of subparagraphs (A), (B), (C), and (D) of paragraph (1);
 
@@ -90,33 +90,33 @@ Subsec. (b)(3) to (5). Pub. L. 102 325, §302(a)(3), struck out pars. (3) to (5)
 
 “(5) any institution of higher education which has an enrollment of which at least 5 percent are Native Hawaiian, Asian American, American Samoan, Micronesian, Guamian (Chamorro), and Northern Marianian, or any combination thereof, and which also satisfies the requirements of subparagraphs (A), (B), (C), and (D) of paragraph (1).”
 
-Subsec. (c)(2). Pub. L. 102 325, §302(b), substituted “second fiscal year preceding the fiscal year for which the determination is made, unless the requirement” for “second preceding fiscal year, unless the requirement”.
+Subsec. (c)(2). Pub. L. 102–325, §302(b), substituted “second fiscal year preceding the fiscal year for which the determination is made, unless the requirement” for “second preceding fiscal year, unless the requirement”.
 
-1988—Subsec. (f). Pub. L. 100 369 added subsec. (f).
+1988—Subsec. (f). Pub. L. 100–369 added subsec. (f).
 
-1987—Subsec. (b)(1)(C), (D). Pub. L. 100 50, §2(a)(2)(A), inserted “which” before “is” wherever appearing.
+1987—Subsec. (b)(1)(C), (D). Pub. L. 100–50, §2(a)(2)(A), inserted “which” before “is” wherever appearing.
 
-Subsec. (b)(1)(E). Pub. L. 100 50, §2(a)(2)(B), inserted “which” before “has”.
+Subsec. (b)(1)(E). Pub. L. 100–50, §2(a)(2)(B), inserted “which” before “has”.
 
-Subsec. (b)(1)(F). Pub. L. 100 50, §2(a)(2)(C), inserted “which” before “meets”.
+Subsec. (b)(1)(F). Pub. L. 100–50, §2(a)(2)(C), inserted “which” before “meets”.
 
-Subsec. (b)(3), (5). Pub. L. 100 50, §2(a)(3), (4), substituted “subparagraphs (A), (B), (C), and (D)” for “subparagraphs (A) and (B)”.
+Subsec. (b)(3), (5). Pub. L. 100–50, §2(a)(3), (4), substituted “subparagraphs (A), (B), (C), and (D)” for “subparagraphs (A) and (B)”.
 
-Subsec. (c)(1). Pub. L. 100 50, §2(a)(5), inserted “in the second fiscal year preceding the fiscal year for which the determination is being made” after “chapter 34 of title 42”.
+Subsec. (c)(1). Pub. L. 100–50, §2(a)(5), inserted “in the second fiscal year preceding the fiscal year for which the determination is being made” after “chapter 34 of title 42”.
 
-Subsec. (c)(2). Pub. L. 100 50, §2(a)(6), substituted “fiscal year preceding the fiscal year for which determination is being made” for “preceding fiscal year” and “second preceding fiscal year” for “such fiscal year”.
+Subsec. (c)(2). Pub. L. 100–50, §2(a)(6), substituted “fiscal year preceding the fiscal year for which determination is being made” for “preceding fiscal year” and “second preceding fiscal year” for “such fiscal year”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

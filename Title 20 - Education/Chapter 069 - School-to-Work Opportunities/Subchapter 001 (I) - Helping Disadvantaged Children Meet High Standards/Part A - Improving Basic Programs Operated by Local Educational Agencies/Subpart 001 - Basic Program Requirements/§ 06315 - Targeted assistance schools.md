@@ -88,7 +88,7 @@ To promote the integration of staff supported with funds under this part and chi
 
 #### (1) Simultaneous service
 
-&emsp;Nothing in this section shall be construed to prohibit a school from serving students servedunder this section simultaneously with students with similar educational needs, in the same educational settings where appropriate.
+&emsp;Nothing in this section shall be construed to prohibit a school from serving students served under this section simultaneously with students with similar educational needs, in the same educational settings where appropriate.
 
 #### (2) Comprehensive services
 
@@ -104,7 +104,7 @@ To promote the integration of staff supported with funds under this part and chi
 
 &emsp;Each school receiving funds under this part for any fiscal year shall devote sufficient resources to effectively carry out the professional development activities described in subparagraph (G) of subsection (c)(1) of this section in accordance with section 6320 of this title, for such fiscal year, except that a school may enter into a consortium with another school to carry out such activities.
 
-(Pub. L. 89 10, title I, §1115, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3539.)
+(Pub. L. 89–10, title I, §1115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3539.)
 
 #### Section Referred to in Other Sections
 

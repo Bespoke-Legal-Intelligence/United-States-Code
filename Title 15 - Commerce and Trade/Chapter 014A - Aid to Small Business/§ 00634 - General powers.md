@@ -20,7 +20,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(6) make such rules and regulations as he deems necessary to carry out the authority vested in him by or pursuant to this chapter;
 
-&emsp;(7) in addition to any powers, functions, privileges and immunities otherwise vested in him, take any and all actions (including the procurement of the services of attorneys by contract in any office where an attorney or attorneys are not or cannot be economically employed full time to render such services) when he determines such actions are necessary or desirable in making, servicing, compromising, modifying, liquidating, or otherwise dealing with or realizing on loans made under the provisions of this chapter: <i>Provided,</i> That nothing herein shall be construed as authorizing the Administrator to contract or otherwise delegate his responsibility for loan servicing to other than Administration personnel, but with respect to deferred participation loans he may authorize participating lending institutions, in his discretion pursuant to regulations promulgated by him, to take such actions on his behalf, including, but not limited to the determination of eligibility and creditworthiness, and loan monitoring, collection and liquidation;
+&emsp;(7) in addition to any powers, functions, privileges and immunities otherwise vested in him, take any and all actions (including theprocurement of the services of attorneys by contract in any office where an attorney or attorneys are not or cannot be economically employed full time to render such services) when he determines such actions are necessary or desirable in making, servicing, compromising, modifying, liquidating, or otherwise dealing with or realizing on loans made under the provisions of this chapter: <i>Provided,</i> That nothing herein shall be construed as authorizing the Administrator to contract or otherwise delegate his responsibility for loan servicing to other than Administration personnel, but with respect to deferred participation loans he may authorize participating lending institutions, in his discretion pursuant to regulations promulgated by him, to take such actions on his behalf, including, but not limited to the determination of eligibility and creditworthiness, and loan monitoring, collection and liquidation;
 
 &emsp;(8) pay the transportation expenses and per diem in lieu of subsistence expenses, in accordance with subchapter I of chapter 57 of title 5, for travel of any person employed by the Administration to render temporary services not in excess of six months in connection with any disaster referred to in section 636(b) of this title from place of appointment to, and while at, the disaster area and any other temporary posts of duty and return upon completion of the assignment: <i>Provided</i>, That the Administrator may extend the six-month limitation for an additional six months if the Administrator determines the extension is necessary to continue efficient disaster loan making activities;
 
@@ -44,7 +44,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 #### (c) Procurement of experts and consultants; compensation and expenses
 
-To such extent as he finds necessary to carry out the provisions of this chapter, the Administrator is authorized to procure the temporary (not in excess of one year) or intermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such services shall be without regard to the civil-service and classification laws and, except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41. Any individual so employed may be compensated at a rate not in excess of the daily equivalent of the highest rate payable under section 5332 of title 5, including travel time, and, while such individual is away from his or her home or regular place of business, he or she may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5.
+To such extent as he finds necessary to carry out the provisions of this chapter, the Administrator is authorized to procure the temporary (not in excess of one year) or intermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such services shall be without regard tothe civil-service and classification laws and, except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41. Any individual so employed may be compensated at a rate not in excess of the daily equivalent of the highest rate payable under section 5332 of title 5, including travel time, and, while such individual is away from his or her home or regular place of business, he or she may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5.
 
 #### (d) Safety deposit box rentals
 
@@ -80,7 +80,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (1) The guaranteed portion of any loan made pursuant to this chapter may be sold by the lender, and by any subsequent holder, consistent with regulations on such sales as the Administration shall establish, subject to the following limitations:
 
-&emsp;(A) prior to the Administration's approval of the sale, or upon any subsequent resale, of any loan guaranteed by the Administration, if the lender certifies that such loan has been properly closed and that the lender has substantially complied with the provisions of the guarantee agreement and the regulations ofthe Administration, the Administration shall review and approve only materials not previously approved;
+&emsp;(A) prior to the Administration's approval of the sale, or upon any subsequent resale, of any loan guaranteed by the Administration, if the lender certifies that such loan has been properly closed and that the lender has substantially complied with the provisions of the guarantee agreement and the regulations of the Administration, the Administration shall review and approve only materials not previously approved;
 
 &emsp;(B) all fees due the Administration on a guaranteed loan shall have been paid in full prior to any sale; and
 
@@ -90,7 +90,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) The Administration shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for assessing the increase of small business access to capital at reasonable rates and terms as a result of secondary market operations.
 
-(4) Nothing in this subsection or subsection (g) of this section shall be interpreted to impede or extinguish the right of the borrower or the successor in interest to such borrower to prepay (in whole or in part) any loan made pursuant to section 636(a) of this title, the guaranteed portion of which may be included in such trust or pool, or to impede or extinguish the rights of any party pursuant to section 636(a)(6)(C) of this title or subsection (e) of this section.
+(4) Nothing in this subsection or subsection (g) of this section shall be interpreted to impede or extinguish the right of the borrower or the successor in interest to such borrower to prepay (in whole or in part) any loan made pursuant to section 636(a) of this title, the guaranteed portion of which may be included in such trust or pool,or to impede or extinguish the rights of any party pursuant to section 636(a)(6)(C) of this title or subsection (e) of this section.
 
 #### (g) Trust certificates; guarantee of timely payments of principal and interest; full faith and credit of United States; collection of fees; subrogation
 
@@ -100,7 +100,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
 
-(4)(A) The Administration may collect the following fees for loan guarantees sold into the secondary market pursuant to the provisions of subsection (f) of this section: an amount equal to (A) not more than 4/10 of one percent per year of the outstanding principal amount of the portion of such loan guaranteed by the Administration, and (B) not more than 50 percent of the portion of the sale price which is in excess of 110 percent of the outstanding principal amount of the portion of such loan guaranteed by the Administration. Any such fees imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fees shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) of this section.
+(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) of this section in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) of this section.
 
 (B) The Administration is authorized to impose and collect, either directly or through a fiscal and transfer agent, a reasonable penalty on late payments of the fee authorized under subparagraph (A) in an amount not to exceed 5 percent of such fee per month plus interest.
 
@@ -120,7 +120,7 @@ Upon the adoption of final rules and regulations, the Administration shall—
 
 &emsp;(4) have the authority to regulate brokers and dealers in guaranteed loans and trust certificates sold pursuant to subsections (f) and (g) of this section.
 
-(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202.)
+(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297.)
 
 #### Amendment of Subsection (g)(4)
 
@@ -145,6 +145,8 @@ In subsec. (d), “Section 3324(a) and (b) of title 31” substituted for “Sec
 Prior similar provisions were contained in section 205 of act July 30, 1953, ch. 282, title II, 67 Stat. 234, as amended by act Aug. 9, 1955, ch. 628, §4, 69 Stat. 547, which was classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+1995—Subsec. (g)(4)(A). Pub. L. 104–36 substituted first sentence for former first sentence which read as follows: “The Administration may collect the following fees for loan guarantees sold into the secondary market pursuant to the provisions of subsection (f) of this section: an amount equal to (A) not more than 4/10 of one percent per year of the outstanding principal amount of the portion of such loan guaranteed by the Administration, and (B) not more than 50 percent of the portion of the sale price which is in excess of 110 percent of the outstanding principal amount of the portion of such loan guaranteed by the Administration.”, and substituted “such fee” for “such fees” in two places in second sentence.
 
 1994—Subsec. (b)(8). Pub. L. 103–282 inserted “: <i>Provided</i>, That the Administrator may extend the six-month limitation for an additional six months if the Administrator determines the extension is necessary to continue efficient disaster loan making activities” before semicolon at end.
 
@@ -177,6 +179,18 @@ Subsec. (e). Pub. L. 93–386, §10, added subsec. (e).
 1961—Subsec. (a). Pub. L. 87–367 struck out authorization for fifteen additional positions in grades 16, 17, and 18 of the General Schedule of the Classification Act of 1949.
 
 Subsec. (d). Pub. L. 87–305 added subsec. (d).
+
+#### Effective Date of 1995 Amendment
+
+Section 8 of Pub. L. 104–36 provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan made or guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
+
+“(b)
+
+Exceptions.—The amendments made by this Act apply to a loan made or guaranteed under the Small Business Act or the Small Business Investment Act of 1958 before the date of enactment of this Act \[Oct. 12, 1995\], if the loan is refinanced, extended, restructured, or renewed on or after the date of enactment of this Act.”
 
 #### Effective and Termination Dates of 1993 Amendment
 
@@ -230,5 +244,5 @@ Pub. L. 90–104, title III, §§301–303, Oct. 11, 1967, 81 Stat. 272, authori
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 633, 693 of this title.
+This section is referred to in sections 633, 636, 693 of this title.
 

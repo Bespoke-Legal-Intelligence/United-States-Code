@@ -6,7 +6,7 @@ It is the purpose of this subpart to support local educational agencies in their
 
 &emsp;(2) are designed to assist Indian students meet those standards and assist the Nation in reaching the National Education Goals.
 
-(Pub. L. 89 10, title IX, §9111, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3774.)
+(Pub. L. 89–10, title IX, §9111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774.)
 
 #### Section Referred to in Other Sections
 

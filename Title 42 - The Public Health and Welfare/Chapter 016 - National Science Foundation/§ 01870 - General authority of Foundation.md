@@ -1,6 +1,6 @@
 ### §1870. General authority of Foundation
 
-The Foundation shall have the authority, within the limits of available appropriations, todo all things necessary to carry out the provisions of this chapter, including, but without being limited thereto, the authority—
+The Foundation shall have the authority, within the limits of available appropriations, to do all things necessary to carry out the provisions of this chapter, including, but without being limited thereto, the authority—
 
 &emsp;(a) to prescribe such rules and regulations as it deems necessary governing the manner of its operations and its organization and personnel;
 
@@ -24,7 +24,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 of title 10 with all approvals and certifications required by such indemnification made by the Director.
 
-(May 10, 1950, ch. 171, §11, 64 Stat. 153; Sept. 8, 1959, Pub. L. 86–232, §6, 73 Stat. 468; July 18, 1968, Pub. L. 90–407, §9, 82 Stat. 365; Nov. 22, 1985, Pub. L. 99–159, title I, §110(a)(14), 99 Stat. 891; Aug. 21, 1986, Pub. L. 99–383, §7(d), 100 Stat. 814.)
+(May 10, 1950, ch. 171, §11, 64 Stat. 153; Sept. 8, 1959, Pub. L. 86–232, §6, 73 Stat. 468; July 18, 1968,Pub. L. 90–407, §9, 82 Stat. 365; Nov. 22, 1985, Pub. L. 99–159, title I, §110(a)(14), 99 Stat. 891; Aug. 21, 1986, Pub. L. 99–383, §7(d), 100 Stat. 814.)
 
 #### Codification
 

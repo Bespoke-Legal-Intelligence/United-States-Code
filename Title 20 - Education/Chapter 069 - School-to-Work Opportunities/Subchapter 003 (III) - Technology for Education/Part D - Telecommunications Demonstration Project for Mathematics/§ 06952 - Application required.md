@@ -16,5 +16,5 @@ Each nonprofit telecommunications entity, or partnership of such entities, desir
 
 In approving applications under this section, the Secretary shall assure that the demonstration project authorized by this part is conducted at elementary and secondary school sites in at least 15 States.
 
-(Pub. L. 89 10, title III, §3402, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3666.)
+(Pub. L. 89–10, title III, §3402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3666.)
 

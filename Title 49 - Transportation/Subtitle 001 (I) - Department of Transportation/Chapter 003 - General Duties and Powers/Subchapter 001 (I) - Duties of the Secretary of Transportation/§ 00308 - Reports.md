@@ -22,19 +22,13 @@
 
 &emsp;(3) factors that may impede the continued development of the ports.
 
-(d) By the 90th day after the end of each fiscal year, the Secretary shall submit to Congress a report listing the specific assistance provided by the United States Government to the railroad industry during that fiscal year. The report shall include—
-
-&emsp;(1) the reasons for each Government loan or grant and explain the way in which the loan or grant contributed to the overall goal of providing a safe and efficient transportation system;
-
-&emsp;(2) information on the financial condition of each railroad having a loan guaranteed under the Emergency Rail Services Act of 1970 (45 U.S.C. 661 et seq.) throughout the duration of the loan; and
-
-&emsp;(3) information on the past and anticipated financial condition and operations during the fiscal year of the Railroad Rehabilitation and Improvement Fund established under section 502(a) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(a)) and of the Obligation Guarantee Fund established under section 511(b) of that Act (45 U.S.C. 831(b)).
+\[(d) Repealed. Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724.\]
 
 (e)(1) The Secretary shall submit a report to Congress in January of each even-numbered year of estimates by the Secretary on the current performance and condition of public mass transportation systems with recommendations for necessary administrative or legislative changes.
 
 (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724.)
 
 Historical and Revision Notes
 
@@ -98,11 +92,9 @@ This \[deletion of the last sentence of subsection (a)\] is necessary because se
 
 In subsection (e)(1), the words “January of each even-numbered year” are substituted for “January of 1984 and in January of every second year thereafter” to eliminate unnecessary words.
 
-#### References in Text
-
-The Emergency Rail Services Act of 1970, referred to in subsec. (d)(2), is Pub. L. 91–663, Jan. 8, 1971, 84 Stat. 1975, as amended, which is classified generally to chapter 15 (§661 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 45 and Tables.
-
 #### Amendments
+
+1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress listing assistance provided by Government to railroad industry.
 
 1984—Pub. L. 98–216, §2(1)(A)(i), substituted “Reports” for “Annual reports” in section catchline.
 

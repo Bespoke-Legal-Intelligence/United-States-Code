@@ -62,6 +62,10 @@ In subsection (b), the words “from the Secretary” and “conditions and othe
 
 In subsection (d), the words “Not later than 1 year after the date of enactment of this Act” are omitted as obsolete.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5127 of this title.

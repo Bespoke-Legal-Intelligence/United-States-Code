@@ -4,7 +4,7 @@
 
 The Congress finds:
 
-&emsp;(1) The unrestricted garnishment of compensation due for personal services encouragesthe making of predatory extensions of credit. Such extensions of credit divert money into excessive credit payments and thereby hinder the production and flow of goods in interstate commerce.
+&emsp;(1) The unrestricted garnishment of compensation due for personal services encourages the making of predatory extensions of credit. Such extensions of credit divert money into excessive credit payments and thereby hinder the production and flow of goods in interstate commerce.
 
 &emsp;(2) The application of garnishment as a creditors’ remedy frequently results in loss of employment by the debtor, and the resulting disruption of employment, production, and consumption constitutes a substantial burden on interstate commerce.
 
@@ -14,7 +14,7 @@ The Congress finds:
 
 On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of this subchapter are necessary and proper for the purpose of carrying into execution the powers of the Congress to regulate commerce and to establish uniform bankruptcy laws.
 
-(Pub. L. 90 321, title III, §301, May 29, 1968, 82 Stat. 163.)
+(Pub. L. 90–321, title III, §301, May 29, 1968, 82 Stat. 163.)
 
 #### References in Text
 
@@ -22,5 +22,5 @@ The bankruptcy laws, referred to in subsec. (b), are generally classified to Tit
 
 #### Effective Date
 
-Section 504(c) of Pub. L. 90 321 provided that: “Title III \[enacting this section and sections 1672 to 1677 of this title\] takes effect on July 1, 1970.”
+Section 504(c) of Pub. L. 90–321 provided that: “Title III \[enacting this section and sections 1672 to 1677 of this title\] takes effect on July 1, 1970.”
 

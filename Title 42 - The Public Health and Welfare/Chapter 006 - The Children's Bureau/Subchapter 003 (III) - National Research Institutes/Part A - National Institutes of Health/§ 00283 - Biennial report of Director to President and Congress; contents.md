@@ -14,7 +14,7 @@ The Secretary shall transmit to the President and to the Congress a biennial rep
 
 > The first report under this section shall be submitted not later than July 1, 1986, and shall relate to the fiscal year ending September 30, 1985. The next report shall be submitted not later than December 30, 1988, and shall relate to the two-fiscal-year period ending on the preceding September 30. Each subsequent report shall be submitted not later than 90 days after the end of the two-fiscal-year period for which the report is to be submitted.
 
-(July 1, 1944, ch. 373, title IV, §403, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 826; amendedNov. 4, 1988, Pub. L. 100–607, title I, §112, 102 Stat. 3052.)
+(July 1, 1944, ch. 373, title IV, §403, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 826; amended Nov. 4, 1988, Pub. L. 100–607, title I, §112, 102 Stat. 3052.)
 
 #### Amendments
 

@@ -1,4 +1,4 @@
-### §9621 . Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices
+### §9621. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices
 
 (a) The Secretary of the Air Force shall procure and sell, for cash or credit—
 

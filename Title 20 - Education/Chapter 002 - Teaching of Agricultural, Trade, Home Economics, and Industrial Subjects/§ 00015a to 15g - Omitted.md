@@ -1,4 +1,4 @@
-### §§15a to 15g . Omitted
+### §§15a to 15g. Omitted
 
 #### Codification
 

@@ -26,27 +26,27 @@ The Congress finds and declares the following:
 
 &emsp;(12) In order to implement these findings and purposes, it is desirable to establish a National Foundation on the Arts and the Humanities.
 
-(Pub. L. 89 209, §2, Sept. 29, 1965, 79 Stat. 845; Pub. L. 91 346, §2, July 20, 1970, 84 Stat. 443; Pub. L. 93 133, §2(a)(1), Oct. 19, 1973, 87 Stat. 462; renumbered title I, §2, and amended Pub. L. 98 306, §§2, 3, May 31, 1984, 98 Stat. 223; renumbered §2 and amended Pub. L. 99 194, title I, §§101(1), 102, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101 512, title III, §318 \[title I, §101\], Nov. 5, 1990, 104 Stat. 1960, 1961.)
+(Pub. L. 89–209, §2, Sept. 29, 1965, 79 Stat. 845; Pub. L. 91–346, §2, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(1), Oct. 19, 1973, 87 Stat. 462; renumbered title I, §2, and amended Pub. L. 98–306, §§2, 3, May 31, 1984, 98 Stat. 223; renumbered §2 and amended Pub. L. 99–194, title I, §§101(1), 102, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §101\], Nov. 5, 1990, 104 Stat. 1960, 1961.)
 
 #### Amendments
 
-1990—Pub. L. 101 512 amended section generally, substituting provisions relating to declaration of findings and purposes consisting of pars. (1) to (12) for provisions relating to declaration of purpose consisting of cls. (1) to (9).
+1990—Pub. L. 101–512 amended section generally, substituting provisions relating to declaration of findings and purposes consisting of pars. (1) to (12) for provisions relating to declaration of purpose consisting of cls. (1) to (9).
 
-1985—Cl. (2). Pub. L. 99 194, §102(1), struck out “man's” before “scholarly and cultural activity”.
+1985—Cl. (2). Pub. L. 99–194, §102(1), struck out “man's” before “scholarly and cultural activity”.
 
-Cl. (3). Pub. L. 99 194, §102(2), inserted “, and access to the arts and the humanities,” after “form of education” and substituted “people of all backgrounds and wherever located” for “men”.
+Cl. (3). Pub. L. 99–194, §102(2), inserted “, and access to the arts and the humanities,” after “form of education” and substituted “people of all backgrounds and wherever located” for “men”.
 
-Cls. (8), (9). Pub. L. 99 194, §102(3) (5), added cl. (8) and redesignated former cl. (8) as (9).
+Cls. (8), (9). Pub. L. 99–194, §102(3)–(5), added cl. (8) and redesignated former cl. (8) as (9).
 
-1984—Cls. (6) to (8). Pub. L. 98 306, §3, added cl. (6) and redesignated former cls. (6) and (7) as (7) and (8), respectively.
+1984—Cls. (6) to (8). Pub. L. 98–306, §3, added cl. (6) and redesignated former cls. (6) and (7) as (7) and (8), respectively.
 
-1973—Cl. (7). Pub. L. 93 133 struck out provisions relating to strengthening the responsibilities of the Office of Education with respect to education in the arts and the humanities.
+1973—Cl. (7). Pub. L. 93–133 struck out provisions relating to strengthening the responsibilities of the Office of Education with respect to education in the arts and the humanities.
 
-1970—Cl. (2). Pub. L. 91 346 inserted “in order to achieve a better understanding of the past, a better analysis of the present, and a better view of the future”.
+1970—Cl. (2). Pub. L. 91–346 inserted “in order to achieve a better understanding of the past, a better analysis of the present, and a better view of the future”.
 
 #### Effective Date of 1990 Amendment
 
-Section 318 \[title IV, §403\] of Pub. L. 101 512 provided that:
+Section 318 \[title IV, §403\] of Pub. L. 101–512 provided that:
 
 “(a)
 
@@ -58,47 +58,47 @@ Special Effective Date.—The amendments made by sections 110, 204, and 301 \[am
 
 #### Effective Date of 1973 Amendment
 
-Section 2(b) of Pub. L. 93 133 provided that: “The amendments made by subsection (a) \[amending this section and sections 952 and 954 to 960 of this title and repealing sections 962 and 963 of this title\] shall be effective on and after July 1, 1973.”
+Section 2(b) of Pub. L. 93–133 provided that: “The amendments made by subsection (a) \[amending this section and sections 952 and 954 to 960 of this title and repealing sections 962 and 963 of this title\] shall be effective on and after July 1, 1973.”
 
 #### Short Title of 1990 Amendment
 
-Section 318 of Pub. L. 101 512 provided that: “This section \[enacting sections 954a and 969 of this title, amending this section, sections 952, 954, 955, 956, 958, 959, 960, 963, 964, 965, 967, and 974 of this title, and section 5315 of Title 5, Government Organization and Employees, and enacting notes under this section and section 954 of this title\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1990’.”
+Section 318 of Pub. L. 101–512 provided that: “This section \[enacting sections 954a and 969 of this title, amending this section, sections 952, 954, 955, 956, 958, 959, 960, 963, 964, 965, 967, and 974 of this title, and section 5315 of Title 5, Government Organization and Employees, and enacting notes under this section and section 954 of this title\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1990’.”
 
 #### Short Title of 1985 Amendment
 
-Section 1 of Pub. L. 99 194 provided that: “This Act \[enacting section 177 of title 2, The Congress, amending this section and sections 952 to 955, 956, 957, 958 to 960, 963, 964, 967, 971, 972, and 974 of this title, enacting provisions set out as notes under sections 954 and 972 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1985’.”
+Section 1 of Pub. L. 99–194 provided that: “This Act \[enacting section 177 of title 2, The Congress, amending this section and sections 952 to 955, 956, 957, 958 to 960, 963, 964, 967, 971, 972, and 974 of this title, enacting provisions set out as notes under sections 954 and 972 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1985’.”
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98 306 provided that: “This Act \[enacting section 955b of this title and section 310 of Title 25, Indians, amending this section and sections 952 to 955, 956, 957, 958 to 960, 962, 963, 964, and 967 of this title, amending provisions set out as a note under this section and repealing provisions set out as notes under sections 960 and 967 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act Amendments of 1983’.”
+Section 1 of Pub. L. 98–306 provided that: “This Act \[enacting section 955b of this title and section 310 of Title 25, Indians, amending this section and sections 952 to 955, 956, 957, 958 to 960, 962, 963, 964, and 967 of this title, amending provisions set out as a note under this section and repealing provisions set out as notes under sections 960 and 967 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act Amendments of 1983’.”
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96 496, §1, Dec. 4, 1980, 94 Stat. 2583, provided that: “This Act \[amending sections 952, 954, 955, 956, 957, 958 to 960, 962, 963, 964, 965, 967, 974, and 3473 of this title\] may be cited as the ‘Arts and Humanities Act of 1980’.”
+Pub. L. 96–496, §1, Dec. 4, 1980, 94 Stat. 2583, provided that: “This Act \[amending sections 952, 954, 955, 956, 957, 958 to 960, 962, 963, 964, 965, 967, 974, and 3473 of this title\] may be cited as the ‘Arts and Humanities Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94 462, §1, Oct. 8, 1976, 90 Stat. 1971, provided: “That this Act \[enacting sections 961 to 968 of this title, amending sections 954, 955, 956, 957, 958, 960, and 1867 of this title, and enacting provisions set out as notes under sections 956, 960, and 961 of this title\] may be cited as the ‘Arts, Humanities, and Cultural Affairs Act of 1976’.”
+Pub. L. 94–462, §1, Oct. 8, 1976, 90 Stat. 1971, provided: “That this Act \[enacting sections 961 to 968 of this title, amending sections 954, 955, 956, 957, 958, 960, and 1867 of this title, and enacting provisions set out as notes under sections 956, 960, and 961 of this title\] may be cited as the ‘Arts, Humanities, and Cultural Affairs Act of 1976’.”
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93 133 provided: “That this Act \[amending this section and sections 351a, 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 962 and 963 of this title, and enacting provisions set out as notes under this section and section 351a of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Amendments of 1973’.”
+Section 1 of Pub. L. 93–133 provided: “That this Act \[amending this section and sections 351a, 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 962 and 963 of this title, and enacting provisions set out as notes under this section and section 351a of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Amendments of 1973’.”
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91 346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
+Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 89 209, as renumbered title I, §1, and amended by Pub. L. 98 306, §2, May 31, 1984, 98 Stat. 223; renumbered §1 and amended by Pub. L. 99 194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
+Section 1 of Pub. L. 89–209, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
 
 #### Sense of Congress Regarding Purchase of American-Made Equipment and Products
 
-Section 318 \[title IV, §§401, 402\] of Pub. L. 101 512 provided that:
+Section 318 \[title IV, §§401, 402\] of Pub. L. 101–512 provided that:
 
 #### “SEC. 401. SENSE OF CONGRESS.
 
-“It is the sense of the Congress that a recipient (including a nation, individual, group, or organization) of any form of subsidy, aid, or other Federal assistance under the Acts amended by this Act \[probably means this section, see Short Title of 1990 Amendment note above\] should, in expending that assistance, purchase American-made equipment and products.
+“It is the sense of the Congress that a recipient (including a nation, individual, group, or organization) of any form of subsidy, aid, or other Federal assistanceunder the Acts amended by this Act \[probably means this section, see Short Title of 1990 Amendment note above\] should, in expending that assistance, purchase American-made equipment and products.
 
 #### “SEC. 402. NOTICE.
 
@@ -106,11 +106,11 @@ Section 318 \[title IV, §§401, 402\] of Pub. L. 101 512 provided that:
 
 #### 1979 White House Conference on the Arts
 
-Pub. L. 95 272, title I, §§101 109, May 3, 1978, 92 Stat. 222 224, called for a White House Conference on the Arts to be held no later than Dec. 31, 1979, to help develop a climate in which the arts can flourish and to formulate recommendations relating to the appropriate growth of the arts in all parts of the Nation, established a National Conference Planning Council on the Arts to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title I, §§101–109, May 3, 1978, 92 Stat. 222–224, called for a White House Conference on the Arts to be held no later than Dec. 31, 1979, to help develop a climate in which the arts can flourish and to formulate recommendations relating to the appropriate growth of the arts in all parts of the Nation, established a National Conference Planning Council on the Arts to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### 1979 White House Conference on the Humanities
 
-Pub. L. 95 272, title II, §§201 209, May 3, 1978, 92 Stat. 224 226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### Executive Order No. 12275
 

@@ -49,11 +49,11 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
 
-1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
+<b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
 
-1978—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Pub. L. 95–251 substituted “Administrative law judges” for “Hearing examiners” in section catchline and text.
 

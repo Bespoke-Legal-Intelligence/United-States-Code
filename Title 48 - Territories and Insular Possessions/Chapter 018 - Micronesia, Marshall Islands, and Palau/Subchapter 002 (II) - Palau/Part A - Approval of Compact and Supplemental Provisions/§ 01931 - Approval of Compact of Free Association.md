@@ -80,7 +80,7 @@ Section was formerly set out as a note under section 1681 of this title.
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -880,7 +880,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 351a, 351c, 351e, 1102, 1108f, 1201a, 1401, 2322, 2471.
+This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 351a, 351c, 351e, 1102, 1201a, 1401, 2322, 2471.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

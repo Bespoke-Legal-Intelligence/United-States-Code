@@ -22,9 +22,9 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 &emsp;(F) paid training or retraining programs.
 
-(3) Arrangements under this subsection shall provide benefits at least equal to benefits established under section 11347 of this title.
+(3) Arrangements under this subsection shall provide benefits at least equal to benefits established under section 11326 of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1996, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,14 @@ In subsection (b)(3), the words “section 11347 of this title” are substitute
 Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1995—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

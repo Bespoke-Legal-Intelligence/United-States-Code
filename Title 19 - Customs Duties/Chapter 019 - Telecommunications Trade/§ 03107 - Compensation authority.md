@@ -6,7 +6,7 @@ If—
 
 &emsp;(2) such action is found to be inconsistent with the international obligations of the United States, including the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title),
 
-> the President may enter into trade agreements with such foreign country for the purpose of granting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
+> the President may enter into trade agreements with such foreign country for the purpose ofgranting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
 
 (Pub. L. 100–418, title I, §1378, Aug. 23, 1988, 102 Stat. 1222; Pub. L. 103–465, title VI, §621(a)(6), Dec. 8, 1994, 108 Stat. 4993.)
 

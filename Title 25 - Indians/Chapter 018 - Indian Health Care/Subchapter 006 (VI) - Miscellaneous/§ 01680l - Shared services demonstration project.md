@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary, acting through the Service and notwithstanding any other provision of law, isauthorized to enter into contracts with Indian tribes or tribal organizations to establish not more than 6 shared services demonstration projects for the delivery of long-term care to Indians. Such projects shall provide for the sharing of staff or other services between a Service facility and a nursing facility owned and operated (directly or by contract) by such Indian tribe or tribal organization.
+The Secretary, acting through the Service and notwithstanding any other provision of law, is authorized to enter into contracts with Indian tribes or tribal organizations to establish not more than 6 shared services demonstration projects for the delivery of long-term care to Indians. Such projects shall provide for the sharing of staff or other services between a Service facility and a nursing facility owned and operated (directly or by contract) by such Indian tribe or tribal organization.
 
 #### (b) Contract requirements
 

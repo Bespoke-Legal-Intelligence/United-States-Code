@@ -1,6 +1,6 @@
 ### §3203. Powers of corporation
 
-The American Chemical Society shall have power to make its own organization, including its constitution, bylaws, rules, and regulations; to fill all vacancies created by death, resignation, or otherwise; to provide for the election of members, their division into classes, and all other matters needful and useful to promote the objects of the society. It shall hold an annualmeeting at such place in the United States as may from time to time be designated.
+The American Chemical Society shall have power to make its own organization, including its constitution, bylaws, rules, and regulations; to fill all vacancies created by death, resignation, or otherwise; to provide for the election of members, their division into classes, and all other matters needful and useful to promote the objects of the society. It shall hold an annual meeting at such place in the United States as may from time to time be designated.
 
 (Aug. 25, 1937, ch. 762, §3, 50 Stat. 799.)
 

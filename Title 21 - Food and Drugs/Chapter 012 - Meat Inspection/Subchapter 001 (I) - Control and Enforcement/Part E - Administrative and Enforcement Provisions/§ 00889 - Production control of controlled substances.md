@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, following December 23, 1985, any per
 
 &emsp;(1) as to any commodity produced during that crop year, and the four succeeding crop years, by such person—
 
-&emsp;&emsp;(A) any price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity CreditCorporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
+&emsp;&emsp;(A) any price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
 
 &emsp;&emsp;(B) a farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b(h));
 

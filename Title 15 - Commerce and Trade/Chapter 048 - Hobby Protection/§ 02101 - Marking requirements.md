@@ -10,13 +10,13 @@ The manufacture in the United States, or the importation into the United States,
 
 #### (c) Rules and regulations
 
-The Federal Trade Commission shall prescribe rules for determining the manner and form inwhich items described in subsection (a) or (b) of this section shall be permanently marked.
+The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) of this section shall be permanently marked.
 
 #### (d) Exemption
 
 Subsections (a) and (b), and regulations under subsection (c) of this section, shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
 
-(Pub. L. 93 167, §2, Nov. 29, 1973, 87 Stat. 686.)
+(Pub. L. 93–167, §2, Nov. 29, 1973, 87 Stat. 686.)
 
 #### References in Text
 
@@ -24,11 +24,11 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Se
 
 #### Effective Date
 
-Section 8 of Pub. L. 93 167 provided that: “This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act \[Nov. 29, 1973\].”
+Section 8 of Pub. L. 93–167 provided that: “This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act \[Nov. 29, 1973\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 93 167 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Hobby Protection Act’.”
+Section 1 of Pub. L. 93–167 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Hobby Protection Act’.”
 
 #### Section Referred to in Other Sections
 

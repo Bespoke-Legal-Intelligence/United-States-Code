@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;An amount equal to 20 percent of the total amount allocated to a State under section 7111(b)(1)<sup>1</sup> of this title for each fiscal year shall be used by the chief executive officer of such State for drug and violence prevention programs and activities in accordance with this section.
+&emsp;An amount equal to 20 percent of the total amount allocated to a State under section 7111(b)(1) <sup>1</sup> of this title for each fiscal year shall be used by the chief executive officer of such State for drug and violence prevention programs and activities in accordance with this section.
 
 #### (2) Law enforcement education partnerships
 
@@ -68,15 +68,15 @@ A chief executive officer shall use funds under subsection (a)(2) of this sectio
 
 &emsp;(4) before- and after-school activities.
 
-(Pub. L. 89 10, title IV, §4114, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3679.)
+(Pub. L. 89–10, title IV, §4114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3679.)
 
 #### References in Text
 
-Section 7111(b)(1) of this title, referred to in subsec. (a)(1), was in the original “section 4111(1)”, meaning section 4111(1) of Pub. L. 89 10, which was translated as reading section 4011(b)(1) of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 4111, but does contain a section 4011 which relates to State allocations in subsec. (b)(1).
+Section 7111(b)(1) of this title, referred to in subsec. (a)(1), was in the original “section 4111(1)”, meaning section 4111(1) of Pub. L. 89–10, which was translated as reading section 4011(b)(1) of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allocations in subsec. (b)(1).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7112, 7117, 8801, 8893 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

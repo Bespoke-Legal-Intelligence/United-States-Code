@@ -108,7 +108,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) There are hereby transferred to the Agency:
 
-(1) From the Department of the Interior, (i) the Water Pollution Control Advisory Board (33 U.S.C. \[former\] 466f) \[see 33 U.S.C. 1363\], together with its functions, and (ii) the hearing boards provided for in sections 10(c)(4) and 10(f) of the Federal Water Pollution Control Act, as amended (33 U.S.C. \[former\] 466g(c)(4); 466g(f)). The functions of the Secretary of the Interior with respect to being or designating the Chairman of the Water Pollution Control Advisory Board are hereby transferred to the Administrator.
+(1) From the Department of the Interior, (i) the Water Pollution Control Advisory Board (33 U.S.C. \[former\] 466f) \[see 33 U.S.C. 1363\], together with itsfunctions, and (ii) the hearing boards provided for in sections 10(c)(4) and 10(f) of the Federal Water Pollution Control Act, as amended (33 U.S.C. \[former\] 466g(c)(4); 466g(f)). The functions of the Secretary of the Interior with respect to being or designating the Chairman of the Water Pollution Control Advisory Board are hereby transferred to the Administrator.
 
 (2) From the Department of Health, Education, and Welfare, the Air Quality Advisory Board (42 U.S.C. 1857e) \[42 U.S.C. 7417\], together with its functions. The functions of the Secretary of Health, Education, and Welfare with respect to being a member and the Chairman of that Board are hereby transferred to the Administrator.
 
@@ -166,7 +166,7 @@ The White House, July 9, 1970.
 
 > To the Congress of the United States:
 
-As concern with the condition of our physical environment has intensified, it has become increasinglyclear that we need to know more about the total environment—land, water and air. It also has become increasingly clear that only by reorganizing our Federal efforts can we develop that knowledge, and effectively ensure the protection, development and enhancement of the total environment itself.
+As concern with the condition of our physical environment has intensified, it has become increasingly clear that we need to know more about the total environment—land, water and air. It also has become increasingly clear that only by reorganizing our Federal efforts can we develop that knowledge, and effectively ensure the protection, development and enhancement of the total environment itself.
 
 The Government's environmentally-related activities have grown up piecemeal over the years. The time has come to organize them rationally and systematically. As a major step in this direction, I am transmitting today two reorganization plans: one to establish an Environmental Protection Agency, and one to establish, within the Department of Commerce, a National Oceanic and Atmospheric Administration.
 
@@ -346,7 +346,7 @@ The National Data Buoy Development Project was established to determine the feas
 
 Drawing these activities together into a single agency would make possible a balanced Federal program to improve our understanding of the resources of the sea, and permit their development and use while guarding against the sort of thoughtless exploitation that in the past laid waste to so many of our precious natural assets. It would make possible a consolidated program for achieving a more comprehensive understanding of oceanic and atmospheric phenomena, which so greatly affect our lives and activities. It would facilitate the cooperation between public and private interests that can best serve the interests of all.
 
-I expect that NOAA would exercise leadership in developing a national oceanic and atmospheric program of research and development. It would coordinate its own scientific and technical resources with the technical and operational capabilities of other government agencies and private institutions. As important, NOAAwould continue to provide those services to other agencies of government, industry and private individuals which have become essential to the efficient operation of our transportation systems, our agriculture and our national security. I expect it to maintain continuing and close liaison with the new Environmental Protection Agency and the Council on Environmental Quality as part of an effort to ensure that environmental questions are dealt with in their totality and they benefit from the full range of the government's technical and human resources.
+I expect that NOAA would exercise leadership in developing a national oceanic and atmospheric program of research and development. It would coordinate its own scientific and technical resources with the technical and operational capabilities of other government agencies and private institutions. As important, NOAA would continue to provide those services to other agencies of government, industry and private individuals which have become essential to the efficient operation of our transportation systems, our agriculture and our national security. I expect it to maintain continuing and close liaison with the new Environmental Protection Agency and the Council on Environmental Quality as part of an effort to ensure that environmental questions are dealt with in their totality and they benefit from the full range of the government's technical and human resources.
 
 Authorities who have studied this matter, including the Commission on Marine Science, Engineering and Resources, strongly recommended the creation of a National Advisory Committee for the Oceans. I agree. Consequently, I will request, upon approval of the plan, that the Secretary of Commerce establish a National Advisory Committee for the Oceans and the Atmosphere to advise him on the progress of governmental and private programs in achieving the nation's oceanic and atmospheric objectives.
 
@@ -422,11 +422,11 @@ Sec. 102. <i>Functions of the Cabinet Committee.</i> (a) The Cabinet Committee s
 
 (8) Facilitate coordination among departments and agencies of the Federal Government in protecting and improving the environment.
 
-(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plansand programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
+(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
 
 Sec. 103. <i>Coordination.</i> The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[16 U.S.C. 460<i>l</i> et seq.\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
 
-Sec. 104. <i>Assistance for the Cabinet Committee.</i> In compliance with provisions of applicable law, and as necessary to serve the purposes of this order, (1) the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall provide or arrange for necessary administrative and staff services, support, and facilities for the Cabinet Committee, and (2) each department and agency which has membership on the Cabinet Committee under Section 101(c) hereof shall furnish the Cabinet Committee such information and other assistance as may be available.
+Sec. 104. <i>Assistance for the Cabinet Committee.</i> In compliance with provisions of applicable law, and as necessary to serve the purposes of this order, (1) the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall provide or arrange for necessary administrative and staff services, support, and facilities for the Cabinet Committee, and (2) each department and agency which has membership on the Cabinet Committee under Section 101(c) hereof shallfurnish the Cabinet Committee such information and other assistance as may be available.
 
 #### Part II—Citizens’ Advisory Committee on Environmental Quality
 
@@ -600,7 +600,7 @@ Sec. 5. <i>Public Information</i>. The respective agency head shall ensure that 
 
 Sec. 6. <i>Enforcement</i>. The respective agency head shall, where authorized by law, prescribe appropriate penalties for violation of regulations adopted pursuant to this order, and shall establish procedures for the enforcement of those regulations. To the extent permitted by law, he may enter into agreements with State or local governmental agencies for cooperative enforcement of laws and regulations relating to off-road vehicle use.
 
-Sec. 7. <i>Consultation</i>. Before issuing the regulations or administrative instructions required by this order or designating areas or trails are required by this order and those regulations and administrative instructions,the Secretary of the Interior shall, as appropriate, consult with the Secretary of Energy and the Nuclear Regulatory Commission.
+Sec. 7. <i>Consultation</i>. Before issuing the regulations or administrative instructions required by this order or designating areas or trails are required by this order and those regulations and administrative instructions, the Secretary of the Interior shall, as appropriate, consult with the Secretary of Energy and the Nuclear Regulatory Commission.
 
 Sec. 8. <i>Monitoring of Effects and Review</i>. (a) The respective agency head shall monitor the effects of the use of off-road vehicles on lands under their jurisdictions. On the basis of the information gathered, they shall from time to time amend or rescind designation of areas or other actions taken pursuant to this order as necessary to further the policy of this order.
 
@@ -614,7 +614,7 @@ Sec. 9. <i>Special Protection of the Public Lands</i>. (a) Notwithstanding the p
 
 Ex. Ord. No. 11987, May 24, 1977, 42 F.R. 26949, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, in furtherance of the purposes and policies of the Lacey Act (18 U.S.C. 42) and the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 et seq.), it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, infurtherance of the purposes and policies of the Lacey Act (18 U.S.C. 42) and the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 et seq.), it is hereby ordered as follows:
 
 Section 1. As used in this Order:
 
@@ -656,11 +656,11 @@ Sec. 2. In carrying out the activities described in Section 1 of this Order, eac
 
 (3) For programs subject to the Office of Management and Budget Circular A–95, the agency shall send the notice, not to exceed three pages in length including a location map, to the state and areawide A–95 clearinghouses for the geographic areas affected. The notice shall include: (i) the reasons why the action is proposed to be located in a floodplain; (ii) a statement indicating whether the action conforms to applicable state or local floodplain protection standards and (iii) a list of the alternatives considered. Agencies shall endeavor to allow a brief comment period prior to taking any action.
 
-(4) Each agency shall also provide opportunity for early public review of any plans or proposals for actions in floodplains, in accordance with Section 2(b) of Executive Order No. 11514, as amended \[set out as a note above\], including the development of procedures to accomplish this objective for Federal actions whose impact is not significant enough to require the preparation of an environmental impact statement under Section 102(2)(C) of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4332(2)(C)\].
+(4) Each agency shall also provide opportunity for early public review of any plans or proposals for actions in floodplains, in accordance with Section 2(b) of Executive Order No. 11514, as amended \[set out above\], including the development of procedures to accomplish this objective for Federal actions whose impact is not significant enough to require the preparation of an environmental impact statement under Section 102(2)(C) of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4332(2)(C)\].
 
 (b) Any requests for new authorizations or appropriations transmitted to the Office of Management and Budget shall indicate, if an action to be proposed will be located in a floodplain, whether the proposed action is in accord with this Order.
 
-(c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses, permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
+(c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses,permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
 
 (d) As allowed by law, each agency shall issue or amend existing regulations and procedures within one year to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and the Council on Environmental Quality, and shall update such procedures as necessary.
 
@@ -698,7 +698,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11990, May 24, 1977, 42 F.R. 26961, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, in furtherance of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 <i>et seq</i>.), in order toavoid to the extent possible the long and short term adverse impacts associated with the destruction or modification of wetlands and to avoid direct or indirect support of new construction in wetlands wherever there is a practicable alternative, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, in furtherance of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 <i>et seq</i>.), in order to avoid to the extent possible the long and short term adverse impacts associated with the destruction or modification of wetlands and to avoid direct or indirect support of new construction in wetlands wherever there is a practicable alternative, it is hereby ordered as follows:
 
 Section 1. (a) Each agency shall provide leadership and shall take action to minimize the destruction, loss or degradation of wetlands, and to preserve and enhance the natural and beneficial values of wetlands in carrying out the agency's responsibilities for (1) acquiring, managing, and disposing of Federal lands and facilities; and (2) providing Federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water and related land resources planning, regulating, and licensing activities.
 
@@ -706,7 +706,7 @@ Section 1. (a) Each agency shall provide leadership and shall take action to min
 
 Sec. 2. (a) In furtherance of Section 101(b)(3) of the National Environmental Policy Act of 1969 (42 U.S.C. 4331(b)(3)) to improve and coordinate Federal plans, functions, programs and resources to the end that the Nation may attain the widest range of beneficial uses of the environment without degradation and risk to health or safety, each agency, to the extent permitted by law, shall avoid undertaking or providing assistance for new construction located in wetlands unless the head of the agency finds (1) that there is no practicable alternative to such construction, and (2) that the proposed action includes all practicable measures to minimize harm to wetlands which may result from such use. In making this finding the head of the agency may take into account economic, environmental and other pertinent factors.
 
-(b) Each agency shall also provide opportunity for early public review of any plans or proposals for new construction in wetlands, in accordance with Section 2(b) of Executive Order No. 11514, as amended \[set out as a note above\], including the development of procedures to accomplish this objective for Federal actions whose impact is not significant enough to require the preparation of an environmental impact statement under Section 102(2)(C) of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4332(2)(C)\].
+(b) Each agency shall also provide opportunity for early public review of any plans or proposals for new construction in wetlands, in accordance with Section 2(b) of Executive Order No. 11514, as amended \[set out above\], including the development of procedures to accomplish this objective for Federal actions whose impact is not significant enough to require the preparation of an environmental impact statement under Section 102(2)(C) of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4332(2)(C)\].
 
 Sec. 3. Any requests for new authorizations or appropriations transmitted to the Office of Management and Budget shall indicate, if an action to be proposed will be located in wetlands, whether the proposed action is in accord with this Order.
 
@@ -924,7 +924,7 @@ In order to avoid duplication of resources, agencies in their procedures shall p
 
 #### Section 3
 
-3–1. <i>Rights of Action</i>. This Order is solely for the purpose of establishing internal procedures for Federal agencies to consider the significant effects of their actions on the environment outside the United States, its territories and possessions, and nothing in this Order shall be construed to create a cause of action.
+3–1. <i>Rights of Action</i>. This Order is solely for the purpose of establishing internal procedures for Federalagencies to consider the significant effects of their actions on the environment outside the United States, its territories and possessions, and nothing in this Order shall be construed to create a cause of action.
 
 3–2. <i>Foreign Relations</i>. The Department of State shall coordinate all communications by agencies with foreign governments concerning environmental agreements and other arrangements in implementation of this Order.
 
@@ -976,11 +976,11 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12852. President's Council on Sustainable Development
 
-Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107, provided:
+Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the “President's Council on Sustainable Development” (“Council”). The Council shall consist of not more than 25 members to be appointed by the President from the public and private sectors and who represent industrial, environmental, governmental, and not-for-profit organizations with experience relating to matters of sustainable development. The President shall designate from among the Council members such official or officials to be chairperson, chairpersons, vice-chairperson, or vice-chairpersons of the Council as he shall deem appropriate. The Council shall coordinate with and report to such officials of the executive branch as the President or the Director of the White House Office on Environmental Policy shall from time to time determine.
+Section 1. <i>Establishment</i>. There is established the “President's Council on Sustainable Development” (“Council”). The Council shall consist of not more than 29 members to be appointed by the President from the public and private sectors and who represent industrial, environmental, governmental, and not-for-profit organizations with experience relating to matters of sustainable development. The President shall designate from among the Council members such official or officials to be chairperson, chairpersons, vice-chairperson, or vice-chairpersons of the Council as he shall deem appropriate. The Council shall coordinate with and report to such officials of the executive branch as the President or the Director of the White House Office on Environmental Policy shall from time to time determine.
 
 Sec. 2. <i>Functions</i>. (a) The Council shall advise the President on matters involving sustainable development. “Sustainable development” is broadly defined as economic growth that will benefit present and future generations without detrimentally affecting the resources or biological systems of the planet.
 
@@ -988,7 +988,7 @@ Sec. 2. <i>Functions</i>. (a) The Council shall advise the President on matters 
 
 (c) The chairperson or chairpersons may, from time to time, invite experts to submit information to the Council and may form subcommittees of the Council to review and report to the Council on the development of national and local sustainable development plans.
 
-Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the extent permitted by law, provide to the Council such information with respect to sustainable development as the Council requires to carry out its functions.
+Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the extent permitted by law, provideto the Council such information with respect to sustainable development as the Council requires to carry out its functions.
 
 (b) Members of the Council shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
@@ -998,7 +998,7 @@ Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the
 
 Sec. 4. <i>General</i>. (a) I have determined that the Council shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, which are applicable to the Council, shall be performed by the Department of the Interior in accord with the guidelines and procedures established by the Administrator of General Services.
 
-(b) The Council shall exist for a period of 2 years from the date of this order, unless the Council's charter is subsequently extended.
+(b) The Council shall exist until June 29, 1997, unless otherwise extended.
 
 (c) Executive Order No. 12737, which established the President's Commission on Environmental Quality, is revoked.
 
@@ -1006,7 +1006,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12898. Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations
 
-Ex. Ord. No. 12898, Feb. 11, 1994, 59 F.R. 7629, provided:
+Ex. Ord. No. 12898, Feb. 11, 1994, 59 F.R. 7629, as amended by Ex. Ord. No. 12948, Jan. 30, 1995, 60 F.R. 6381, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -1030,7 +1030,7 @@ Section 1–1. IMPLEMENTATION.
 
 (7) develop interagency model projects on environmental justice that evidence cooperation among Federal agencies.
 
-1–103. <i>Development of Agency Strategies</i>. (a) Except as provided in section 6–605 of this order, each Federal agency shall develop an agency-wide environmental justice strategy, as set forth in subsections (b)–(e) of this section that identifies and addresses disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations. The environmental justice strategy shall list programs, policies, planning and public participation processes, enforcement, and/or rulemakings related to human health or the environment that should be revised to, at a minimum: (1) promote enforcement of all health and environmental statutes in areas with minority populations and low-income populations; (2) ensure greaterpublic participation; (3) improve research and data collection relating to the health of and environment of minority populations and low-income populations; and (4) identify differential patterns of consumption of natural resources among minority populations and low-income populations. In addition, the environmental justice strategy shall include, where appropriate, a timetable for undertaking identified revisions and consideration of economic and social implications of the revisions.
+1–103. <i>Development of Agency Strategies</i>. (a) Except as provided in section 6–605 of this order, each Federal agency shall develop an agency-wide environmental justice strategy, as set forth in subsections (b)–(e) of this section that identifies and addresses disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations. The environmental justice strategy shall list programs, policies, planning and public participation processes, enforcement, and/or rulemakings related to human health or the environment that should be revised to, at a minimum: (1) promote enforcement of all health and environmental statutes in areas with minority populations and low-income populations; (2) ensure greater public participation; (3) improve research and data collection relating to the health of and environment of minority populations and low-income populations; and (4) identify differential patterns of consumption of natural resources among minority populations and low-income populations. In addition, the environmental justice strategy shall include, where appropriate, a timetable for undertaking identified revisions and consideration of economic and social implications of the revisions.
 
 (b) Within 4 months of the date of this order, each Federal agency shall identify an internal administrative process for developing its environmental justice strategy, and shall inform the Working Group of the process.
 
@@ -1038,9 +1038,9 @@ Section 1–1. IMPLEMENTATION.
 
 (d) Within 10 months of the date of this order, each Federal agency shall provide the Working Group with its proposed environmental justice strategy.
 
-(e) Within 12 months of the date of this order, each Federal agency shall finalize its environmental justice strategy and provide a copy and written description of its strategy to the Working Group. During the 12 month period from the date of this order, each Federal agency, as part of its environmental justice strategy, shall identify several specific projects that can be promptly undertaken to address particular concerns identified during the development of the proposed environmental justice strategy, and a schedule for implementing those projects.
+(e) By March 24, 1995, each Federal agency shall finalize its environmental justice strategy and provide a copy and written description of its strategy to the Working Group. From the date of this order through March 24, 1995, each Federal agency, as part of its environmental justice strategy, shall identify several specific projects that can be promptly undertaken to address particular concerns identified during the development of the proposed environmental justice strategy, and a schedule for implementing those projects.
 
-(f) Within 24 months of the date of this order, each Federal agency shall report to the Working Group on its progress in implementing its agency-wide environmental justice strategy.
+(f) Within 24 months of the date of this order, each Federal agency shall report to the Working Group onits progress in implementing its agency-wide environmental justice strategy.
 
 (g) Federal agencies shall provide additional periodic reports to the Working Group as requested by the Working Group.
 
@@ -1090,7 +1090,7 @@ Sec. 6–6. GENERAL PROVISIONS.
 
 6–605. <i>Petitions for Exemptions</i>. The head of a Federal agency may petition the President for an exemption from the requirements of this order on the grounds that all or some of the petitioning agency's programs or activities should not be subject to the requirements of this order.
 
-6–606. <i>Native American Programs</i>. Each Federal agency responsibility set forth under this order shall apply equally to Native American programs. In addition, the Department of the Interior, in coordination with the Working Group, and, after consultation with tribal leaders, shall coordinate steps to be taken pursuant to this order that address Federally-recognized Indian Tribes.
+6–606. <i>Native American Programs</i>. Each Federal agency responsibility set forth under this order shall apply equally to Native American programs. In addition, theDepartment of the Interior, in coordination with the Working Group, and, after consultation with tribal leaders, shall coordinate steps to be taken pursuant to this order that address Federally-recognized Indian Tribes.
 
 6–607. <i>Costs</i>. Unless otherwise provided by law, Federal agencies shall assume the financial costs of complying with this order.
 

@@ -38,7 +38,7 @@ The Secretary shall award grants for the funding of State domestic violence coal
 
 &emsp;&emsp;(K) the use of training and technical assistance to law enforcement, judges, court officers and other criminal justice professionals,; <sup>1</sup>
 
-&emsp;&emsp;(L) the reporting practices of, and significance to be accorded to, prior convictions (both felony and misdemeanor) and protection orders;
+&emsp;&emsp;(L) the reporting practices of, and significance to be accorded to, prior convictions\(both felony and misdemeanor) and protection orders;
 
 &emsp;&emsp;(M) the use of interstate extradition in cases of domestic violence crimes;
 

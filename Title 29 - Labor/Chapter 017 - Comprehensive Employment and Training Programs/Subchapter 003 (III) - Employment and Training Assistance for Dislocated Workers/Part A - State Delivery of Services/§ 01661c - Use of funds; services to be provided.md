@@ -48,7 +48,7 @@ Funds allotted under section 1652 of this title may be used—
 
 &emsp;(F) to assist the local community in developing its own coordinated response and in obtaining access to State economic development assistance.
 
-(2) In a situation involving an impending permanent closure or substantial layoff, a State may provide funds, where other public or private resources are not expeditiously available, for a preliminary assessment of the advisability of conducting a comprehensive study exploring the feasibility of having a company or group, including the workers, purchase the plant and continue it in operation.
+(2) In a situation involving an impending permanent closure or substantial layoff, a State may provide funds, where other public or private resources are not expeditiously available, for apreliminary assessment of the advisability of conducting a comprehensive study exploring the feasibility of having a company or group, including the workers, purchase the plant and continue it in operation.
 
 (3) The Secretary shall oversee the administration by each State of the rapid response assistance services provided in such State and the effectiveness, efficiency, and timeliness of the delivery of such services. If the Secretary determines that such services are not being performed adequately, the Secretary shall implement appropriate corrective action, including, where necessary, the selection of a new rapid response assistance service provider.
 

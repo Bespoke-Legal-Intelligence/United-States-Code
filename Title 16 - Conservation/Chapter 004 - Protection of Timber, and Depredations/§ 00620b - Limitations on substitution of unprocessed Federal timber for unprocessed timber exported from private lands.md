@@ -2,7 +2,7 @@
 
 #### (a) Direct substitution
 
-(1) Except as provided in subsection (c) of this section, no person may purchase directly from any department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
+(1) Except as provided in subsection (c) of this section, no person may purchase directly fromany department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
 
 &emsp;(A) such unprocessed timber is to be used in substitution for exported unprocessed timber originating from private lands; or
 
@@ -32,7 +32,7 @@
 
 #### (2) Exceptions
 
-&emsp;(A) The Secretary of Agriculture shall, as soon as practicable but not later than 9months after August 20, 1990, establish, by rule, a limited amount of unprocessed timber originating from Federal lands described in subparagraph (B) which may be purchased by a person otherwise covered by the prohibition contained in paragraph (1). Such limit shall equal—
+&emsp;(A) The Secretary of Agriculture shall, as soon as practicable but not later than 9 months after August 20, 1990, establish, by rule, a limited amount of unprocessed timber originating from Federal lands described in subparagraph (B) which may be purchased by a person otherwise covered by the prohibition contained in paragraph (1). Such limit shall equal—
 
 &emsp;&emsp;(i) the amount of such timber acquired by such person, based on the higher of the applicant's actual timber purchasing receipts or the appropriate Federal agency's records, during fiscal years 1988, 1989, and 1990, divided by 3, or
 
@@ -74,7 +74,7 @@
 
 #### (4) Denial of application
 
-&emsp;(A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annualaverage, after which time the prohibitions contained in subsection (a) of this section shall fully apply.
+&emsp;(A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) of this section shall fully apply.
 
 &emsp;(B) If a person referred to in subparagraph (A) certifies to the Secretary concerned, within 90 days after receiving disapproval of such application, that such person shall, within 15 months after such disapproval, cease the export of unprocessed timber originating from private lands from the geographic area determined by the Secretary for which the application would have been approved, such person may continue to purchase unprocessed timber originating from Federal lands in the area which is the subject of the application, without being subject to the restrictions of subparagraph (A), except that such purchases during that 15-month period may not exceed 125 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application which was denied.
 

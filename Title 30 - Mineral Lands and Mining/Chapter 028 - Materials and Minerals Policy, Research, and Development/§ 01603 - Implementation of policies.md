@@ -16,7 +16,7 @@ For the purpose of implementing the policies set forth in section 1602 of this t
 
 &emsp;(3) provide for improved collection, analysis, and dissemination of scientific, technical and economic materials information and data from Federal, State, and local governments and other sources as appropriate;
 
-&emsp;(4) assess the need for and make recommendations concerning the availability and adequacy of supply of technically trained personnel necessary for materials research, development, extraction, harvest and industrial practice, paying particular regard to the problem of attracting and maintaining high quality materials professionals in the Federal service;
+&emsp;(4) assess the need for and make recommendations concerning the availability and adequacy of supply of technically trained personnel necessary for materials research, development, extraction, harvest and industrialpractice, paying particular regard to the problem of attracting and maintaining high quality materials professionals in the Federal service;
 
 &emsp;(5) establish early warning systems for materials supply problems;
 

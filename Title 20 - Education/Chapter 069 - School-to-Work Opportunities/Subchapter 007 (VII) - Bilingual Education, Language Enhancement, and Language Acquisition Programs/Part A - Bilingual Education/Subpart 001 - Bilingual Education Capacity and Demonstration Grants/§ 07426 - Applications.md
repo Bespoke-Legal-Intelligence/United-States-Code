@@ -138,15 +138,15 @@ An application for a grant under this subpart may be approved only if the Secret
 
 &emsp;The Secretary shall give due consideration to applications providing training for personnel participating in or preparing to participate in the program which will assist such personnel in meeting State and local certification requirements and that, to the extent possible, describe how college or university credit will be awarded for such training.
 
-(Pub. L. 89 10, title VII, §7116, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3723.)
+(Pub. L. 89–10, title VII, §7116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3723.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (g)(1)(B)(ii), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (g)(1)(B)(ii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (h)(3), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (h)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (h)(4), is Pub. L. 88 352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (h)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 

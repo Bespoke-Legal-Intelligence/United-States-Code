@@ -10,7 +10,7 @@ The Secretary shall incorporate, in the Secretary's agreements with the State ed
 
 #### (c) Requirements with respect to teaching personnel, curriculum, instruction, etc.
 
-In carrying out the provisions of this chapter, neither the Secretary nor the State shall imposeany requirement with respect to teaching personnel, curriculum, instruction, methods of instruction, and materials of instruction in any school.
+In carrying out the provisions of this chapter, neither the Secretary nor the State shall impose any requirement with respect to teaching personnel, curriculum, instruction, methods of instruction, and materials of instruction in any school.
 
 #### (d) Definitions
 
@@ -88,7 +88,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 (1)(A) Except as provided in paragraph (4), the Secretary may waive any requirement under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), or any regulation issued under either this chapter or such Act, for a State or eligible service provider that requests a waiver if—
 
-&emsp;(i) the Secretary determines that the waiver of the requirement would facilitate the ability of the State or eligible service provider to carry out the purpose of the program;
+&emsp;(i) the Secretary determines that the waiver of the requirement would facilitate the abilityof the State or eligible service provider to carry out the purpose of the program;
 
 &emsp;(ii) the State or eligible service provider has provided notice and information to the public regarding the proposed waiver; and
 
@@ -118,7 +118,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 (B) If the Secretary grants a waiver request, the Secretary shall state in writing the expected outcome of granting the waiver.
 
-(C) The result of the decision of the Secretary shall be disseminated by the State or eligibleservice provider through normal means of communication.
+(C) The result of the decision of the Secretary shall be disseminated by the State or eligible service provider through normal means of communication.
 
 (D)(i) Except as provided in clause (ii), a waiver granted by the Secretary under this subsection shall be for a period not to exceed 3 years.
 
@@ -176,7 +176,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 (ii) The State shall annually submit to the Secretary a report that summarizes all reports received by the State from eligible service providers.
 
-(B) The Secretary shall annually submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report—
+(B) The Secretary shall annually submit to the Committee on Education and Labor of theHouse of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report—
 
 &emsp;(i) summarizing the use of waivers by the State and eligible service providers;
 
@@ -242,7 +242,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1994—Subsec. (d)(5). Pub. L. 103–448, §112(a)(1), in first sentence struck out cl. (C) which read as follows: “with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico” and in second sentence struck out “of clauses (A) and (B)” after “For purposes”.
+1994—Subsec. (d)(5). Pub. L. 103–448, §112(a)(1), in first sentence struck out cl. (C) which read as follows: “withrespect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico” and in second sentence struck out “of clauses (A) and (B)” after “For purposes”.
 
 Subsecs. (j) to (m). Pub. L. 103–448, §§112(b)–(d), 113, added subsecs. (j) to (m).
 
@@ -264,7 +264,7 @@ Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by P
 
 1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
-Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose averageyearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
+Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose average yearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
 Pub. L. 99–661, §4205(a)(1), substituted “$2,000” for “$1,500”.
 
@@ -310,7 +310,7 @@ Pub. L. 87–688 inserted “American Samoa,” after “Guam”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -326,7 +326,7 @@ Section 101(c) of Pub. L. 100–71 provided that: “The amendments made by subs
 
 Section 4205(c) of Pub. L. 99–661 provided that:
 
-“(1) The amendments made by subsections (a)(1) and (b)(1) \[amending sections 1760 and 1784 of this title\] shall apply for the fiscal year beginning on October 1, 1986, and each school year thereafter.
+“(1) The amendments made by subsections (a)(1) and (b)(1) \[amending sections 1760 and 1784 of this title\]shall apply for the fiscal year beginning on October 1, 1986, and each school year thereafter.
 
 “(2) The amendments made by subsections (a)(2) and (b)(2) \[amending sections 1760 and 1784 of this title\] shall apply for the school year beginning on July 1, 1988, and each school year thereafter.”
 

@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(13) “production” means those activities which take place for the removal of oil or gas, including such removal, field operations, transfer of oil or gas off the lease site, operation monitoring, maintenance, and workover drilling;
 
-&emsp;(14) “royalty” means any payment based on the value or volume of production which is due to the United States or an Indian tribe or an Indian allottee on production of oil or gasfrom the Outer Continental Shelf, Federal, or Indian lands, or any minimum royalty owed to the United States or an Indian tribe or an Indian allottee under any provision of a lease;
+&emsp;(14) “royalty” means any payment based on the value or volume of production which is due to the United States or an Indian tribe or an Indian allottee on production of oil or gas from the Outer Continental Shelf, Federal, or Indian lands, or any minimum royalty owed to the United States or an Indian tribe or an Indian allottee under any provision of a lease;
 
 &emsp;(15) “Secretary” means the Secretary of the Interior or his designee; and
 

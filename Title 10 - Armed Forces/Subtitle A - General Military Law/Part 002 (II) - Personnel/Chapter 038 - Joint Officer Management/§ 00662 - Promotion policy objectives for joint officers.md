@@ -1,4 +1,4 @@
-### §662 . Promotion policy objectives for joint officers
+### §662. Promotion policy objectives for joint officers
 
 (a)
 

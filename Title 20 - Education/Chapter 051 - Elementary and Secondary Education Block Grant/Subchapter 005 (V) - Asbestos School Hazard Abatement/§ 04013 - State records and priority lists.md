@@ -16,7 +16,7 @@ The Governor of each State shall maintain records on—
 
 &emsp;(A) submit to the Administrator a priority list of all schools under the authority of a local educational agency within the State, without regard to the public or private nature of the school involved, that are candidates for abatement activities and other response actions; and
 
-&emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and<sup>1</sup>
+&emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and <sup>1</sup>
 
 (2) The priority list shall rank the potential candidates for abatement action based on the nature and magnitude of the existing and potential exposure presented by the asbestos materials.
 
@@ -38,37 +38,37 @@ The Governor of each State shall maintain records on—
 
 &emsp;(G) Any other factor that demonstrates that the local educational agency has limited financial resources.
 
-(Pub. L. 98 377, title V, §504, Aug. 11, 1984, 98 Stat. 1289; Pub. L. 101 637, §§5, 14(a)(4), (b)(5), (6), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
+(Pub. L. 98–377, title V, §504, Aug. 11, 1984, 98 Stat. 1289; Pub. L. 101–637, §§5, 14(a)(4), (b)(5), (6), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
 
 #### Amendments
 
-1990—Pub. L. 101 637, §14(a)(4), substituted “State records and priority lists” for “State plans” in section catchline.
+1990—Pub. L. 101–637, §14(a)(4), substituted “State records and priority lists” for “State plans” in section catchline.
 
-Subsec. (a). Pub. L. 101 637, §§5(a)(1), 14(b)(5), inserted heading and substituted “The Governor of each State shall maintain records on” for “Not later than three months after August 11, 1984, the Governor of each State shall submit to the Administrator a plan which describes the procedures to be used by the State for maintaining records on” in introductory provisions.
+Subsec. (a). Pub. L. 101–637, §§5(a)(1), 14(b)(5), inserted heading and substituted “The Governor of each Stateshall maintain records on” for “Not later than three months after August 11, 1984, the Governor of each State shall submit to the Administrator a plan which describes the procedures to be used by the State for maintaining records on” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 101 637, §5(a)(2), (3), inserted “and other response actions” after “abatement activities” and inserted “and” after semicolon at end.
+Subsec. (a)(2). Pub. L. 101–637, §5(a)(2), (3), inserted “and other response actions” after “abatement activities” and inserted “and” after semicolon at end.
 
-Subsec. (a)(3). Pub. L. 101 637, §5(a)(4), substituted “paragraph (2)” for “subparagraph (B)”.
+Subsec. (a)(3). Pub. L. 101–637, §5(a)(4), substituted “paragraph (2)” for “subparagraph (B)”.
 
-Subsec. (b). Pub. L. 101 637, §14(b)(6)(A), inserted heading.
+Subsec. (b). Pub. L. 101–637, §14(b)(6)(A), inserted heading.
 
-Subsec. (b)(1). Pub. L. 101 637, §5(b)(1), substituted “Each year, in accordance with procedures established by the Administrator,” for “Not later than six months after August 11, 1984, and annually thereafter,” in introductory provisions.
+Subsec. (b)(1). Pub. L. 101–637, §5(b)(1), substituted “Each year, in accordance with procedures established by the Administrator,” for “Not later than six months after August 11, 1984, and annually thereafter,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 101 637, §§5(b)(2), (3), 14(b)(6)(B), substituted “abatement activities and other response actions” for “abatement”, struck out “and the Secretary of the Department of Education” after “submit to the Administrator”, and inserted “and” after semicolon at end.
+Subsec. (b)(1)(A). Pub. L. 101–637, §§5(b)(2), (3), 14(b)(6)(B), substituted “abatement activities and other response actions” for “abatement”, struck out “and the Secretary of the Department of Education” after “submit to the Administrator”, and inserted “and” after semicolon at end.
 
-Subsec. (b)(1)(B). Pub. L. 101 637, §§5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section 4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
+Subsec. (b)(1)(B). Pub. L. 101–637, §§5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section 4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
 
-Subsec. (b)(1)(C). Pub. L. 101 637, §5(b)(4), struck out subpar. (C) which read as follows: “forward to the Secretary of the Department of Education a copy of all information submitted to the Administrator in accordance with subsection (b)(3) of this section.”
+Subsec. (b)(1)(C). Pub. L. 101–637, §5(b)(4), struck out subpar. (C) which read as follows: “forward to the Secretary of the Department of Education a copy of all information submitted to the Administrator in accordance with subsection (b)(3) of this section.”
 
-Subsec. (b)(4)(C). Pub. L. 101 637, §14(b)(6)(D), inserted a comma after “per capita income”.
+Subsec. (b)(4)(C). Pub. L. 101–637, §14(b)(6)(D), inserted a comma after “per capita income”.
 
-Subsec. (b)(4)(F), (G). Pub. L. 101 637, §5(c), added subpar. (F) and redesignated former subpar. (F) as (G).
+Subsec. (b)(4)(F), (G). Pub. L. 101–637, §5(c), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (c). Pub. L. 101 637, §5(d), struck out subsec. (c) which read as follows: “Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter, the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection.”
+Subsec. (c). Pub. L. 101–637, §5(d), struck out subsec. (c) which read as follows: “Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter, the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4014 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should end with a period instead of “; and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should end with a period instead of “; and”.</i>
 

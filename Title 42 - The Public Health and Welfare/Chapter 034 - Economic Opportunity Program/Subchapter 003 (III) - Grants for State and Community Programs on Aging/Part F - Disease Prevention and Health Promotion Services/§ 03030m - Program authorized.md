@@ -18,9 +18,9 @@ Subsec. (b). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary�
 
 1992—Subsec. (a). Pub. L. 102–375, §319(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commissioner shall carry out a program for making grants to States under State plans approved under section 3027 of this title for periodic preventive health services to be provided at senior centers or alternative sites as appropriate.”
 
-Subsecs. (b), (c). Pub. L. 102–375, §319(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Preventive health services under this part may not include services eligible for reimbursement under Medicare.”
+Subsecs. (b), (c). Pub. L. 102–375, §319(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “Preventive health services under this part may not include services eligible for reimbursement under Medicare.”
 
 #### Effective Date
 
-Part effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
+Part effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 

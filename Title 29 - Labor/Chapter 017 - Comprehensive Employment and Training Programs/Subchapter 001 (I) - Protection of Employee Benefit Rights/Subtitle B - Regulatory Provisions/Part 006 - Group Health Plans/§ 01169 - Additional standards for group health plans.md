@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) provides for child support with respect to a child of a participant under a group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan, or
 
-&emsp;&emsp;&emsp;(ii) enforces a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the OmnibusBudget Reconciliation Act of 1993) with respect to a group health plan.
+&emsp;&emsp;&emsp;(ii) enforces a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan.
 
 #### (C) Alternate recipient
 
@@ -88,7 +88,7 @@
 
 #### (1) Compliance by plans with assignment of rights
 
-&emsp;A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
+&emsp;A group health plan shall provide that payment for benefits with respect to a participantunder the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
 
 #### (2) Enrollment and provision of benefits without regard to medicaid eligibility
 

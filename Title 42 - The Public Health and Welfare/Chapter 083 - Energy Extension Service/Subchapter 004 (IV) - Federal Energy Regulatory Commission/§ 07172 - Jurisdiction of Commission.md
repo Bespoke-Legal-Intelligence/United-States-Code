@@ -4,7 +4,7 @@
 
 (1) There are transferred to, and vested in, the Commission the following functions of the Federal Power Commission or of any member of the Commission or any officer or component of the Commission:
 
-&emsp;(A) the investigation, issuance, transfer, renewal, revocation, and enforcement of licenses and permits for the construction, operation, and maintenance of dams, water conduits, reservoirs, powerhouses, transmission lines, orother works for the development and improvement of navigation and for the development and utilization of power across, along, from, or in navigable waters under part I of the Federal Power Act \[16 U.S.C. 791a et seq.\];
+&emsp;(A) the investigation, issuance, transfer, renewal, revocation, and enforcement of licenses and permits for the construction, operation, and maintenance of dams, water conduits, reservoirs, powerhouses, transmission lines, or other works for the development and improvement of navigation and for the development and utilization of power across, along, from, or in navigable waters under part I of the Federal Power Act \[16 U.S.C. 791a et seq.\];
 
 &emsp;(B) the establishment, review, and enforcement of rates and charges for the transmission or sale of electric energy, including determinations on construction work in progress, under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], and the interconnection, under section 202(b), of such Act \[16 U.S.C. 824a(b)\], of facilities for the generation, transmission, and sale of electric energy (other than emergency interconnection);
 
@@ -166,7 +166,7 @@ Limitation Regarding Unduly Discriminatory or Preferential Tariffs.—Nothing in
 
 &emsp;“(1)
 
-Commission.—The term ‘Commission’ means the Federal Energy Regulatory Commission and, unless the context requires otherwise, includes the Oil Pipeline Board and any other office or component ofthe Commission to which the functions and authority vested in the Commission under section 402(b) of the Department of Energy Organization Act (42 U.S.C. 7172(b)) are delegated.
+Commission.—The term ‘Commission’ means the Federal Energy Regulatory Commission and, unless the context requires otherwise, includes the Oil Pipeline Board and any other office or component of the Commission to which the functions and authority vested in the Commission under section 402(b) of the Department of Energy Organization Act (42 U.S.C. 7172(b)) are delegated.
 
 &emsp;“(2)
 

@@ -34,13 +34,8 @@
 | [3326\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003326%20-%20Appointments%20of%20retired%20members%20of%20the%20armed%20forces%20to%20positions%20in%20the%20Department%20of%20Defense.md) | Appointments of retired members of the armed forces to positions in the Department of Defense. |
 | [3327\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003327%20-%20Civil%20service%20employment%20information.md) | Civil service employment information. |
 | [3328\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003328%20-%20Selective%20Service%20registration.md) | Selective Service registration. |
-| 3329\.<sup>1</sup> | Government-wide list of vacant positions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 3329\.<sup>1</sup> | Appointments of military reserve technicians to positions in the competitive service. |
+| [3329\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003329%20-%20Appointments%20of%20military%20reserve%20technicians%20to%20positions%20in%20the%20competitive%20service.md) | Appointments of military reserve technicians to positions in the competitive service. |
+| [3330\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330%20-%20Government-wide%20list%20of%20vacant%20positions.md) | Government-wide list of vacant positions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,15 +91,15 @@
 | :--- | ---: |
 | [3371\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003371%20-%20Definitions.md) | Definitions. |
 | [3372\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003372%20-%20General%20provisions.md) | General provisions. |
-| [3373\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003373%20-%20Assignment%20of%20employees%20to%20State%20or%20local%20governments.md) | Assignments of employees to State or local governments.<sup>2</sup> |
+| [3373\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003373%20-%20Assignment%20of%20employees%20to%20State%20or%20local%20governments.md) | Assignments of employees to State or local governments.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
 | [3374\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003374%20-%20Assignments%20of%20employees%20from%20State%20or%20local%20governments.md) | Assignments of employees from State or local governments. |
-| 3375\. | Travel expenses. |
-| 3376\. | Regulations. |
+| [3375\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003375%20-%20Travel%20expenses.md) | Travel expenses. |
+| [3376\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003376%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -112,11 +107,11 @@
 
 |  |  |
 | :--- | ---: |
-| 3381\. | Training. |
-| 3382\. | Involuntary separation for retirement. |
-| 3383\. | Determinations; review procedures. |
-| 3384\. | Regulations. |
-| 3385\. | Effect on other authority. |
+| [3381\.](Subchapter%20007%20%28VII%29%20-%20Air%20Traffic%20Controllers/%C2%A7%2003381%20-%20Training.md) | Training. |
+| [3382\.](Subchapter%20007%20%28VII%29%20-%20Air%20Traffic%20Controllers/%C2%A7%2003382%20-%20Involuntary%20separation%20for%20retirement.md) | Involuntary separation for retirement. |
+| [3383\.](Subchapter%20007%20%28VII%29%20-%20Air%20Traffic%20Controllers/%C2%A7%2003383%20-%20Determinations%3B%20review%20procedures.md) | Determinations; review procedures. |
+| [3384\.](Subchapter%20007%20%28VII%29%20-%20Air%20Traffic%20Controllers/%C2%A7%2003384%20-%20Regulations.md) | Regulations. |
+| [3385\.](Subchapter%20007%20%28VII%29%20-%20Air%20Traffic%20Controllers/%C2%A7%2003385%20-%20Effect%20on%20other%20authority.md) | Effect on other authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -124,10 +119,10 @@
 
 |  |  |
 | :--- | ---: |
-| 3391\. | Definitions. |
-| 3392\. | General appointment provisions. |
-| 3393\. | Career appointments. |
-| 3393a. | Recertification. |
+| [3391\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003391%20-%20Definitions.md) | Definitions. |
+| [3392\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003392%20-%20General%20appointment%20provisions.md) | General appointment provisions. |
+| [3393\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003393%20-%20Career%20appointments.md) | Career appointments. |
+| [3393a.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003393a%20-%20Recertification.md) | Recertification. |
 | [3394\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003394%20-%20Noncareer%20and%20limited%20appointments.md) | Noncareer and limited appointments. |
 | [3395\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003395%20-%20Reassignment%20and%20transfer%20within%20the%20Senior%20Executive%20Service.md) | Reassignment and transfer within the Senior Executive Service. |
 | [3396\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003396%20-%20Development%20for%20and%20within%20the%20Senior%20Executive%20Service.md) | Development for and within the Senior Executive Service. |
@@ -137,27 +132,29 @@
 
 #### Amendments
 
-1993—Pub. L. 103–94, §8(b), Oct. 6, 1993, 107 Stat. 1007, substituted “Political recommendations” for “Competitive service; recommendations of Senators or Representatives” in item 3303.
+<b>1995</b>—Pub. L. 104–52, title IV, §4(2), Nov. 19, 1995, 109 Stat. 490, redesignated item 3329 “Government-wide list of vacant positions” as item 3330.
 
-1992—Pub. L. 102–484, div. A, title V, §544(b), div. D, title XLIV, §4431(b), Oct. 23, 1992, 106 Stat. 2415, 2720, added two items 3329.
+<b>1993</b>—Pub. L. 103–94, §8(b), Oct. 6, 1993, 107 Stat. 1007, substituted “Political recommendations” for “Competitive service; recommendations of Senators or Representatives” in item 3303.
+
+<b>1992</b>—Pub. L. 102–484, div. A, title V, §544(b), div. D, title XLIV, §4431(b), Oct. 23, 1992, 106 Stat. 2415, 2720, added two items 3329.
 
 Pub. L. 102–378, §2(13)(B), Oct. 2, 1992, 106 Stat. 1347, struck out item 3342 “Federal participants in executive exchange programs”.
 
-1990—Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(iii)\], Nov. 5, 1990, 104 Stat. 1427, 1441, substituted “Appointments to positions classified above GS–15” for “Appointments at GS–16, 17, and 18” in item 3324.
+<b>1990</b>—Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(iii)\], Nov. 5, 1990, 104 Stat. 1427, 1441, substituted “Appointments to positions classified above GS–15” for “Appointments at GS–16, 17, and 18” in item 3324.
 
 Pub. L. 101–416, §2(a)(2), Oct. 12, 1990, 104 Stat. 903, added item 3342.
 
-1989—Pub. L. 101–194, title V, §506(a)(2), Nov. 30, 1989, 103 Stat. 1758, added item 3393a.
+<b>1989</b>—Pub. L. 101–194, title V, §506(a)(2), Nov. 30, 1989, 103 Stat. 1758, added item 3393a.
 
 Pub. L. 101–12, §5(b), Apr. 10, 1989, 103 Stat. 33, added item 3352.
 
-1988—Pub. L. 100–398, §7(a)(3), Aug. 17, 1988, 102 Stat. 988, inserted “agency” after “Executive” in item 3345.
+<b>1988</b>—Pub. L. 100–398, §7(a)(3), Aug. 17, 1988, 102 Stat. 988, inserted “agency” after “Executive” in item 3345.
 
-1985—Pub. L. 99–145, title XVI, §1622(a)(2), Nov. 8, 1985, 99 Stat. 777, added item 3328.
+<b>1985</b>—Pub. L. 99–145, title XVI, §1622(a)(2), Nov. 8, 1985, 99 Stat. 777, added item 3328.
 
-1979—Pub. L. 96–54, §2(a)(13), Aug. 14, 1979, 93 Stat. 382, struck out item 3315a “Registers; individuals receiving compensation for work injuries”.
+<b>1979</b>—Pub. L. 96–54, §2(a)(13), Aug. 14, 1979, 93 Stat. 382, struck out item 3315a “Registers; individuals receiving compensation for work injuries”.
 
-1978—Pub. L. 95–454, title III, §§303(b), 307(h)(2), 309(b), title IV, §403(b), title IX, §906(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1149, 1152, 1165, 1227, substituted “probationary period” for “probation; period of” in item 3321, struck out item 3319 “Competitive service; selection; members of family restriction”, added items 3327 and 3391 to 3397, and struck out items 3391 to 3398.
+<b>1978</b>—Pub. L. 95–454, title III, §§303(b), 307(h)(2), 309(b), title IV, §403(b), title IX, §906(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1149, 1152, 1165, 1227, substituted “probationary period” for “probation; period of” in item 3321, struck out item 3319 “Competitive service; selection; members of family restriction”, added items 3327 and 3391 to 3397, and struck out items 3391 to 3398.
 
 Pub. L. 95–437, §3(b), Oct. 10, 1978, 92 Stat. 1058, added heading for subchapter VII and items 3391 to 3398.
 
@@ -167,23 +164,25 @@ Pub. L. 95–251, §2(c)(3), Mar. 27, 1978, 92 Stat. 184, substituted “adminis
 
 Pub. L. 95–228, §2(a), Feb. 10, 1978, 92 Stat. 25, struck out item 3306 “Competitive service; departmental service; apportionment”.
 
-1975—Pub. L. 94–183, §2(7), Dec. 31, 1975, 89 Stat. 1057, struck out item 3364 “Promotion; substitute employees in the postal field service”.
+<b>1975</b>—Pub. L. 94–183, §2(7), Dec. 31, 1975, 89 Stat. 1057, struck out item 3364 “Promotion; substitute employees in the postal field service”.
 
-1972—Pub. L. 92–297, §§2(b), 3(b), May 16, 1972, 86 Stat. 142, 144, substituted “maximum age entrance requirements, exceptions” for “maximum age requirement; restriction on use of appropriated funds” in item 3307, and added subchapter VII and items 3381 to 3385.
+<b>1972</b>—Pub. L. 92–297, §§2(b), 3(b), May 16, 1972, 86 Stat. 142, 144, substituted “maximum age entrance requirements, exceptions” for “maximum age requirement; restriction on use of appropriated funds” in item 3307, and added subchapter VII and items 3381 to 3385.
 
-1971—Pub. L. 91–648, title IV, §402(b), Jan. 5, 1971, 84 Stat. 1925, added heading for subchapter VI and items 3371 to 3376.
+<b>1971</b>—Pub. L. 91–648, title IV, §402(b), Jan. 5, 1971, 84 Stat. 1925, added heading for subchapter VI and items 3371 to 3376.
 
-1970—Pub. L. 91–375, §6(c)(7)(B), Aug. 12, 1970, 84 Stat. 776, struck out item 3327 “Postmasters; standards for determination of qualifications”.
+<b>1970</b>—Pub. L. 91–375, §6(c)(7)(B), Aug. 12, 1970, 84 Stat. 776, struck out item 3327 “Postmasters; standards for determination of qualifications”.
 
-1967—Pub. L. 90–105, §1(b), Oct. 11, 1967, 81 Stat. 273, added item 3304a.
+<b>1967</b>—Pub. L. 90–105, §1(b), Oct. 11, 1967, 81 Stat. 273, added item 3304a.
 
 Pub. L. 90–83, §1(9)(B), Sept. 11, 1967, 81 Stat. 197, added item 3315a.
 
-1966—Pub. L. 89–762, §1(b), Nov. 5, 1966, 80 Stat. 1312, struck out item 3342 “Details; field to departmental service prohibited”.
+<b>1966</b>—Pub. L. 89–762, §1(b), Nov. 5, 1966, 80 Stat. 1312, struck out item 3342 “Details; field to departmental service prohibited”.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 31 section 3801; title 42 sections 290aa, 2297b–4.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

@@ -41,7 +41,7 @@
 
 Under regulations prescribed by the Secretary, rules similar to the rules of section 1245 shall be applied for purposes of this section.
 
-(Added Pub. L. 91–172, title II, §214(a), Dec. 30, 1969, 83 Stat. 572; amended Pub. L. 94–455, titleXIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title IV, §492(b)(5), July 18, 1984, 98 Stat. 854; Pub. L. 99–514, title IV, §402(b)(2), Oct. 22, 1986, 100 Stat. 2221.)
+(Added Pub. L. 91–172, title II, §214(a), Dec. 30, 1969, 83 Stat. 572; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title IV, §492(b)(5), July 18, 1984, 98 Stat. 854; Pub. L. 99–514, title IV, §402(b)(2), Oct. 22, 1986, 100 Stat. 2221.)
 
 #### References in Text
 

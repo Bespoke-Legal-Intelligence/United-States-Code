@@ -14,7 +14,7 @@ The Board shall prescribe regulations to carry out the purposes of this subchapt
 
 #### (b) Issuance of model clauses
 
-The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunityfor public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
 
 #### (c) Criteria; modification of requirements
 
@@ -24,5 +24,5 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 In the event that electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer's account, the Board shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapter are made applicable to such persons and services.
 
-(Pub. L. 90 321, title IX, §904, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730.)
+(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730.)
 

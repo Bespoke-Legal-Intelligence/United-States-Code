@@ -21,7 +21,7 @@
 
 #### Repeal of Chapter
 
-<i>Pub. L. 103–337, div. A, title XVI, §§1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, provided that, effective Oct. 1, 1996, this chapter is repealed.</i>
+<i>Pub. L. 103–337, div. A, title XVI, §§1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat.</i><i>2963, 3026, provided that, effective Oct. 1, 1996, this chapter is repealed.</i>
 
 #### Amendments
 

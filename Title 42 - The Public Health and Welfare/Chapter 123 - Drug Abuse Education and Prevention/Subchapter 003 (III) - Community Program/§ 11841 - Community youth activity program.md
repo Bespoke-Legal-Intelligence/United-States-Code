@@ -132,7 +132,7 @@ To carry out this section, there are authorized to be appropriated $40,000,000 f
 
 Section 9910(a)(2) of this title, referred to in subsec. (c)(2), was amended by Pub. L. 103–252, title II, §203(a), May 18, 1994, 108 Stat. 654, and, as so amended, no longer contains subparagraphs.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub.L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 

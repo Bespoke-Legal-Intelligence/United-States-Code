@@ -1,4 +1,4 @@
-### §5596 . Navy and Marine Corps: temporary appointments of officers designated for limited duty
+### §5596. Navy and Marine Corps: temporary appointments of officers designated for limited duty
 
 (a) Under such regulations as he may prescribe, the Secretary of the Navy may make temporary appointments of officers designated for limited duty in the Regular Navy in grades not above lieutenant and in the Regular Marine Corps in grades not above captain from sources authorized under section 5589 of this title. Such appointments shall be made by warrant if in the grade of warrant officer, W–1, and by commission if in a higher grade.
 
@@ -142,7 +142,7 @@ Subsec. (c). Pub. L. 96–513 redesignated subsec. (g) as (c), struck out provis
 
 Subsec. (d). Pub. L. 96–513 substituted provisions authorizing the Secretary of the Navy to temporarily appoint officers designated for limited duty under subsec. (a)(2) in a higher grade not above commander in the Regular Navy or lieutenant colonel in the Regular Marine Corps for provisions authorizing the Secretary to make temporary appointments in warrant officer grades.
 
-Subsec. (e). Pub. L. 96–513 redesignated subsec. (h) as (e), substituted “Secretary of the Navy” for “President”, and struck out former subsec. (e) which provided that the number of persons appointed in the Regular Navy under this section in grades above chief warrant officer, W–4, could not exceed the difference between the actual number of officers on the active list of the Navy in the line or in the staff corps concerned and the authorized number of such officers.
+Subsec. (e). Pub. L. 96–513 redesignated subsec. (h) as (e), substituted “Secretary of the Navy” for “President”, and struck out former subsec. (e) which provided that the number of persons appointed in the Regular Navy under this section in grades above chief warrant officer, W–4, could not exceed the difference betweenthe actual number of officers on the active list of the Navy in the line or in the staff corps concerned and the authorized number of such officers.
 
 Subsecs. (f) to (h). Pub. L. 96–513 redesignated subsecs. (f), (g), and (h) as (b), (c), and (e), respectively.
 

@@ -22,27 +22,27 @@
 
 (c) No funds appropriated under subsection (a) of this section may be used to pay any claim described in section 2053(i) of this title whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under section 2672 of title 28, or under any other provision of law.
 
-(Pub. L. 92 573, §32, Oct. 27, 1972, 86 Stat. 1233; Pub. L. 94 284, §§2, 5(b), May 11, 1976, 90 Stat. 503, 505; Pub. L. 95 631, §1, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 97 35, title XII, §1214, Aug. 13, 1981, 95 Stat. 724; Pub. L. 101 608, title I, §117, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 103 437, §5(c)(1), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 92–573, §32, Oct. 27, 1972, 86 Stat. 1233; Pub. L. 94–284, §§2, 5(b), May 11, 1976, 90 Stat. 503, 505; Pub. L. 95–631, §1, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 97–35, title XII, §1214, Aug. 13, 1981, 95 Stat. 724; Pub. L. 101–608, title I, §117, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 103–437, §5(c)(1), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103 437 in introductory provisions substituted “Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate” for “Committee on Interstate and Foreign Commerce of the House of Representatives, and by the Committee on Commerce of the Senate”.
+1994—Subsec. (b)(1). Pub. L. 103–437 in introductory provisions substituted “Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate” for “Committee on Interstate and Foreign Commerce of the House of Representatives, and by the Committee on Commerce of the Senate”.
 
-1990—Subsec. (a). Pub. L. 101 608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specified maximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
+1990—Subsec. (a). Pub. L. 101–608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specified maximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
 
-1981—Subsec. (a). Pub. L. 97 35 added pars. (8) and (9) and provision following par. (9) relating to payment of accumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
+1981—Subsec. (a). Pub. L. 97–35 added pars. (8) and (9) and provision following par. (9) relating to payment of accumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
 
-1978—Subsec. (a)(5) to (7). Pub. L. 95 631 added pars. (5) to (7).
+1978—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
 
-1976—Subsec. (a). Pub. L. 94 284, §2, substituted “$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978” for “$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975”.
+1976—Subsec. (a). Pub. L. 94–284, §2, substituted “$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978” for “$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975”.
 
-Subsec. (c). Pub. L. 94 284, §5(b), added subsec. (c).
+Subsec. (c). Pub. L. 94–284, §5(b), added subsec. (c).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 

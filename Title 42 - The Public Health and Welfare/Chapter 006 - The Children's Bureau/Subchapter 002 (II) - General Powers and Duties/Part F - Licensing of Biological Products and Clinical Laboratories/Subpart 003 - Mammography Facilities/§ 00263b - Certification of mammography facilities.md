@@ -118,7 +118,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) such other information as the Secretary may require.
 
-> &emsp;An applicant shall not be required to provide in an application under subparagraph (A) anyinformation which the applicant has supplied to the accreditation body which accredited the applicant, except as required by the Secretary.
+> &emsp;An applicant shall not be required to provide in an application under subparagraph (A) any information which the applicant has supplied to the accreditation body which accredited the applicant, except as required by the Secretary.
 
 #### (2) Appeal
 
@@ -370,7 +370,7 @@ As used in this section:
 
 #### (3) Procedures
 
-&emsp;The Secretary shall develop and implement procedures with respect to when and how eachof the sanctions is to be imposed under paragraphs (1) and (2). Such procedures shall provide for notice to the owner or operator of the facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
+&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the sanctions is to be imposed under paragraphs (1) and (2). Such procedures shall provide for notice to the owner or operator of the facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
 
 #### (i) Suspension and revocation
 
@@ -384,7 +384,7 @@ As used in this section:
 
 &emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary for any record, information, report, or material that the Secretary concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
 
-&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State officer or employee duly designated by the State, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
+&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employeeduly designated by the Secretary, or any State officer or employee duly designated by the State, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
 
 &emsp;&emsp;(E) has violated or aided and abetted in the violation of any provision of, or regulation promulgated under, this section; or
 
@@ -426,7 +426,7 @@ If the Secretary determines that—
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order the additional evidence (and evidence in rebuttal of the additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may determine to be proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file themodified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of the original action of the Secretary with the return of the additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order the additional evidence (and evidence in rebuttal of the additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may determine to be proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file the modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of the original action of the Secretary with the return of the additional evidence.
 
 #### (3) Judgment of court
 
@@ -530,7 +530,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grantsmay be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -618,7 +618,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) ofthis section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 
@@ -648,7 +648,7 @@ Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Advisory Committees
 
@@ -666,19 +666,7 @@ Pub. L. 103–183, title VII, §707, Dec. 14, 1993, 107 Stat. 2241, provided tha
 
 #### Study
 
-Section 3 of Pub. L. 102–539 provided that:
-
-“(a)
-
-Study.—The Comptroller General of the United States shall conduct a study of the certification program authorized by the amendment made by section 2 \[enacting this section\] to determine—
-
-&emsp;“(1) if the program has resulted in the improvement of the quality and accessibility of mammography services, and
-
-&emsp;“(2) if the program has reduced the frequency of poor quality mammography and improved the early detection of breast cancer.
-
-“(b)
-
-Reports.—Not later than 3 years from the date of the enactment of this Act \[Oct. 27, 1992\], the Comptroller General shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives an interim report of the results of the study under subsection (a). Not later than 5 years from such date the Comptroller General shall submit a final report on such study to such Committees.”
+Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor quality mammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
 
 #### Section Referred to in Other Sections
 

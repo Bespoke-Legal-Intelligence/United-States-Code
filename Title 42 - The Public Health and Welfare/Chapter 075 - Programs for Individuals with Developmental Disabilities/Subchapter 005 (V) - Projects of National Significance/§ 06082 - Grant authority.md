@@ -36,7 +36,7 @@ The Secretary—
 
 #### (2) Application
 
-&emsp;No grant may be made under this subsection unless an applicant submits to the Secretaryan application, and meets the additional application requirements, under subsection (c) of this section.
+&emsp;No grant may be made under this subsection unless an applicant submits to the Secretary an application, and meets the additional application requirements, under subsection (c) of this section.
 
 #### (c) Application and other grant requirements
 
@@ -46,7 +46,7 @@ No grant may be made under subsection (a) of this section unless—
 
 &emsp;(2) each State in which the applicant's project will be conducted has a State plan approved under section 6022 of this title;
 
-&emsp;(3) the application provides assurances that the human rights of all individuals with developmental disabilities (especially those individuals without familial protection) who are receiving services under projects assisted under this subchapter will be protected consistent with section 6009 of this title (relating to the rights of individuals with developmental disabilities);
+&emsp;(3) the application provides assurances that the human rights of all individuals with developmental disabilities (especially those individuals without familial protection) who are receiving services under projects assisted underthis subchapter will be protected consistent with section 6009 of this title (relating to the rights of individuals with developmental disabilities);
 
 &emsp;(4) the applicant demonstrates, where appropriate, how the project will address, in whole or part, the needs of individuals with developmental disabilities from racial and ethnic minority backgrounds; and
 
@@ -96,7 +96,7 @@ Subsec. (f). Pub. L. 103–230, §503(b)(7), added subsec. (f).
 
 1990—Subsec. (a)(1). Pub. L. 101–496, §21(1), inserted “improve supportive living and quality of life opportunities which enhance recreation, leisure and fitness,” after “referral system,”.
 
-Subsec. (a)(2). Pub. L. 101–496, §21(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:“technical assistance and demonstration projects (including research, training, and evaluation in connection with such projects) which hold promise of expanding or otherwise improving the advocacy functions of the State Planning Council, the functions performed by university affiliated programs and satellite centers under subchapter IV of this chapter, and protection and advocacy services relating to the State protection and advocacy system described in section 6042 of this title.”
+Subsec. (a)(2). Pub. L. 101–496, §21(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “technical assistance and demonstration projects (including research, training, and evaluation in connection with such projects) which hold promise of expanding or otherwise improving the advocacy functions of the State Planning Council, the functions performed by university affiliated programs and satellite centers under subchapter IV of this chapter, and protection and advocacy services relating to the State protection and advocacy system described in section 6042 of this title.”
 
 1987—Subsec. (a). Pub. L. 100–146, §502(a)(1), (2), inserted “and enter into contracts with” in introductory provisions, inserted par. (1), and struck out former par. (1) which read as follows: “demonstration projects—
 

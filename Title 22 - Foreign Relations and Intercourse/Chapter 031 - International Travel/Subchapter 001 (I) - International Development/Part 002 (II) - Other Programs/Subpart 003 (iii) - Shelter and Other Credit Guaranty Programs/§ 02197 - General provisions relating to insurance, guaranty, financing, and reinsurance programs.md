@@ -16,7 +16,7 @@ All guaranties issued prior to July 1, 1956, all guaranties issued under section
 
 #### (1) In general
 
-&emsp;Fees may be charged for providing insurance, reinsurance, financing, and other services under this subpart in amounts to be determined by the Corporation. In the event fees charged for insurance, reinsurance, financing, or other services are reduced, fees to be paid under existing contracts for the same type of insurance, reinsurance, financing, or services and for similar guarantees issued under predecessor guarantee authority may be reduced.
+&emsp;Fees may be charged for providing insurance, reinsurance, financing, and other services under this subpart in amounts to be determined by the Corporation. In the event feescharged for insurance, reinsurance, financing, or other services are reduced, fees to be paid under existing contracts for the same type of insurance, reinsurance, financing, or services and for similar guarantees issued under predecessor guarantee authority may be reduced.
 
 #### (2) Credit transaction costs
 
@@ -36,7 +36,7 @@ Compensation for insurance, reinsurance, or guaranties issued under this subpart
 
 #### (g) Fraud or misrepresentation
 
-No payment may be made under any guaranty, insurance, or reinsurance issued pursuant tothis subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
+No payment may be made under any guaranty, insurance, or reinsurance issued pursuant to this subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
 #### (h) Limits of obligation
 

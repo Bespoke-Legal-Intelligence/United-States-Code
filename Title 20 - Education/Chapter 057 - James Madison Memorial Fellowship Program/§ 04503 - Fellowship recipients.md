@@ -8,9 +8,9 @@
 
 (3) Senior fellowships shall be awarded to experienced teachers who wish to undertake work for a graduate degree on a part-time basis during summers or in evening programs.
 
-(Pub. L. 99 500, §101(b) \[title VIII, §804\], Oct. 18, 1986, 100 Stat. 1783 39, 1783 77, and Pub. L. 99 591, §101(b) \[title VIII, §804\], Oct. 30, 1986, 100 Stat. 3341 39, 3341 77.)
+(Pub. L. 99–500, §101(b) \[title VIII, §804\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, §101(b) \[title VIII, §804\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
 
 #### Codification
 
-Pub. L. 99 591 is a corrected version of Pub. L. 99 500.
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 

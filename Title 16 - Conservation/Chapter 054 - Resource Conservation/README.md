@@ -25,11 +25,11 @@
 | (a) | Requirement of erosion-related or water management-related problems. |
 | (b) | Bases for designation; reporting requirements. |
 | [3414\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003414%20-%20Contract%20limitations.md) | Contract limitations. |
-| [3415\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003415%20-%20Special%20area%20report%3B%20submission%20to%20Congress.md) | Special area report; submission to Congress. |
+| [3415\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003415%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71011%28p%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20710.md) | Repealed. |
 | [3416\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003416%20-%20Utilization%20of%20services%20and%20facilities.md) | Utilization of services and facilities. |
 | [3417\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003417%20-%20Improvement%20of%20technology.md) | Improvement of technology. |
 | [3418\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003418%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [3419\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003419%20-%20Reporting%20requirements.md) | Reporting requirements. |
+| [3419\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003419%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71011%28q%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20710.md) | Repealed. |
 | [3420\.](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/%C2%A7%2003420%20-%20Protection%20of%20program%20participants.md) | Protection of program participants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

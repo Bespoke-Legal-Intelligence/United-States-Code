@@ -46,7 +46,7 @@ Notwithstanding any provision of State law, the articles of incorporation of the
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–414, §303(b)(4), which directed the substitution of “the communications satellite corporation established pursuant to subchapter III of this chapter” for “the Communications Satellite Corporation”, was executed by making the substitution in text which began “The Communications” rather than “the Communications” to reflect the probable intent of Congress.
+1994—Subsec. (a)(1). Pub. L. 103–414, §303(b)(4), which directed the substitution of “the communications satellite corporation established pursuant to subchapter III of this chapter” for “the Communications Satellite Corporation”, was executed by making the substitution in text which began “The Communications” ratherthan “the Communications” to reflect the probable intent of Congress.
 
 Subsec. (a)(2), (3). Pub. L. 103–414, §304(b)(5)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The corporation also shall have authority to participate in any other maritime satellite telecommunications system on an interim basis to serve the maritime commercial and safety needs of the United States through an interim operating arrangement in accordance with subsection (b) of this section.”
 

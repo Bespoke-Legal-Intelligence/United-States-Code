@@ -20,7 +20,7 @@ Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by t
 
 (b)
 
-Insurance Carriers.—Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of the System, an individual or entity engaged in business as an insurance carriershall file a monthly report with the operator. The report may be filed directly or through a designated agent. The report shall contain an inventory of all automobiles of the current model year or any of the 4 prior model years that the carrier, during the prior month, has obtained possession of and has decided are junk automobiles or salvage automobiles. The inventory shall contain—
+Insurance Carriers.—Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of the System, an individual or entity engaged in business as an insurance carrier shall file a monthly report with the operator. The report may be filed directly or through a designated agent. The report shall contain an inventory of all automobiles of the current model year or any of the 4 prior model years that the carrier, during the prior month, has obtained possession of and has decided are junk automobiles or salvage automobiles. The inventory shall contain—
 
 &emsp;(1) the vehicle identification number of each automobile obtained;
 
@@ -62,7 +62,7 @@ In subsections (a)(1), before clause (A), the words “Beginning at a time estab
 
 In subsection (a)(2)(B), the word “automobile” is substituted for “vehicle” for consistency in the revised title.
 
-In subsections (b), before clause (1), the words “Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of” are substituted for “Beginning at a time determined by the Secretary, but no earlier than 3 months prior to the establishment of” for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words “each automobile” are substituted for “each vehicle”, and the words “the automobile” are substituted for “the vehicle”, for consistency in the revised title.
+In subsections (b), before clause (1), the words “Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of” are substituted for “Beginning at a time determined by the Secretary, but no earlier than3 months prior to the establishment of” for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words “each automobile” are substituted for “each vehicle”, and the words “the automobile” are substituted for “the vehicle”, for consistency in the revised title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ The Attorney General, upon request of the Secretary, shall have the exclusive au
 
 #### (c) Amount recoverable
 
-In any judgment favorable to the United States entered under this section, the Attorney General may recover double the value of the assets and income of the project that the court determines to have been used in violation of the regulatory agreement or any applicable regulation, plus all costs relating to the action, including but not limited to reasonable attorneyand auditing fees. Notwithstanding any other provision of law, the Secretary may apply the recovery, or any portion of the recovery, to the project or to the applicable insurance fund under the National Housing Act \[12 U.S.C. 1701 et seq.\].
+In any judgment favorable to the United States entered under this section, the Attorney General may recover double the value of the assets and income of the project that the court determines to have been used in violation of the regulatory agreement or any applicable regulation, plus all costs relating to the action, including but not limited to reasonable attorney and auditing fees. Notwithstanding any other provision of law, the Secretary may apply the recovery, or any portion of the recovery, to the project or to the applicable insurance fund under the National Housing Act \[12 U.S.C. 1701 et seq.\].
 
 #### (d) Time limitation
 
@@ -26,7 +26,7 @@ The remedy provided by this section is in addition to any other remedies availab
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act isclassified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Codification
 

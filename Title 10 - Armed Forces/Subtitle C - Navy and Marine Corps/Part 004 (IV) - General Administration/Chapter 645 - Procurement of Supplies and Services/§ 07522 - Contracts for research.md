@@ -1,4 +1,4 @@
-### §7522 . Contracts for research
+### §7522. Contracts for research
 
 (a) The Secretary of the Navy and, by direction of the Secretary, the Chief of Naval Research and the chiefs of bureaus may, without advertising, make contracts or amendments or modifications of contracts for services and materials necessary to conduct research and to make or secure reports, tests, models, or apparatus. A contractor supplying such services or materials need not be required to furnish a bond.
 
@@ -26,7 +26,7 @@ In subsection (c) the words “This section does not authorize” are substitute
 
 #### Amendments
 
-1994—Subsecs. (b), (c). Pub. L. 103–355 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Subsections (a) and (b) of section 3324 of title 31 do not apply to advance, progress,or other payments made with respect to a contract under this section.”
+1994—Subsecs. (b), (c). Pub. L. 103–355 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Subsections (a) and (b) of section 3324 of title 31 do not apply to advance, progress, or other payments made with respect to a contract under this section.”
 
 1984—Subsec. (b). Pub. L. 98–525 substituted “Subsections (a) and (b) of section 3324 of title 31 do” for “Section 3324(a) and (b) of title 31 does”.
 

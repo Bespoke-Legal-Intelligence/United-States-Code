@@ -8,7 +8,7 @@ Every individual who—
 
 &emsp;(2)(A) has been entitled to benefits under this part under section 426(b) of this title, and
 
-&emsp;(B)(i) continues to have the disabling physical or mental impairment on the basis of which the individual was found to be under a disability or to be a disabled qualified railroadretirement beneficiary, or (ii) is blind (within the meaning of section 416(i)(1) of this title), but
+&emsp;(B)(i) continues to have the disabling physical or mental impairment on the basis of which the individual was found to be under a disability or to be a disabled qualified railroad retirement beneficiary, or (ii) is blind (within the meaning of section 416(i)(1) of this title), but
 
 &emsp;(C) whose entitlement under section 426(b) of this title ends due solely to the individual having earnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title); and
 
@@ -48,7 +48,7 @@ Every individual who—
 
 &emsp;(D) As of a date, determined under regulations of the Secretary, for nonpayment of premiums.
 
-> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
+> The regulations under subparagraph (D) may provide a grace period of not longer than 90days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
 
 (3) The provisions of subsections (h) and (i) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title.
 

@@ -84,7 +84,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(B) not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to not more than 10 percent of the outstanding voting securities of such issuer.
 
-> &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status asa real estate investment trust because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
+> &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status as a real estate investment trust because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
 
 &emsp;(6) For purposes of this part—
 
@@ -140,7 +140,7 @@ Treatment of certain interest rate agreements.—Except to the extent provided b
 
 &emsp;(8)
 
-Treatment of liquidating gains.—In the case of the taxable year in which a real estateinvestment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.
+Treatment of liquidating gains.—In the case of the taxable year in which a real estate investment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.
 
 #### (d) Rents from real property defined
 
@@ -196,7 +196,7 @@ Treatment of liquidating gains.—In the case of the taxable year in which a rea
 
 &emsp;&emsp;&emsp;(i) a real estate investment trust receives or accrues, with respect to real or personal property, amounts from a tenant which derives substantially all of its income with respect to such property from the subleasing of substantially all of such property, and
 
-&emsp;&emsp;&emsp;(ii) a portion of the amount such tenant receives or accrues, directly or indirectly,from subtenants consists of qualified rents,
+&emsp;&emsp;&emsp;(ii) a portion of the amount such tenant receives or accrues, directly or indirectly, from subtenants consists of qualified rents,
 
 > &emsp;&emsp;then the amounts which the trust receives or accrues from the tenant shall not be excluded from the term “rents from real property” by reason of being based on the income or profits of such tenant to the extent the amounts so received or accrued are attributable to qualified rents received or accrued by such tenant.
 
@@ -236,7 +236,7 @@ Treatment of liquidating gains.—In the case of the taxable year in which a rea
 
 #### (1) In general
 
-&emsp;For purposes of paragraphs (2)(B) and (3)(B) of subsection (c), the term “interest” does not include any amount received or accrued, directly or indirectly, if the determination of such amount depends in whole or in part on the income or profits of any person except that—
+&emsp;For purposes of paragraphs (2)(B) and (3)(B) of subsection (c), the term “interest” does notinclude any amount received or accrued, directly or indirectly, if the determination of such amount depends in whole or in part on the income or profits of any person except that—
 
 &emsp;&emsp;(A) any amount so received or accrued shall not be excluded from the term “interest” solely by reason of being based on a fixed percentage or percentages of receipts or sales, and
 
@@ -314,7 +314,7 @@ Treatment of liquidating gains.—In the case of the taxable year in which a rea
 
 #### (C) Treatment for purposes of unrelated business tax
 
-&emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in any pension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income froman unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the “REIT year”) as—
+&emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in any pension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income from an unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the “REIT year”) as—
 
 &emsp;&emsp;&emsp;(i) the gross income (less direct expenses related thereto) of the REIT for the REIT year from unrelated trades or businesses (determined as if the REIT were a qualified trust), bears to
 
@@ -398,7 +398,7 @@ Treatment of liquidating gains.—In the case of the taxable year in which a rea
 
 &emsp;&emsp;The term “secured property” means the real property referred to in subparagraph (A).
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L.88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ Subsec. (d)(2). Pub. L. 99–514, §663(a), (b)(3), inserted reference to par. (
 
 Subsec. (d)(6). Pub. L. 99–514, §663(b)(1), added par. (6).
 
-Subsec. (f). Pub. L. 99–514, §663(b)(2), amended subsec. (f) generally, restating former introductory provisions and par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: “The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976.”
+Subsec. (f). Pub. L. 99–514, §663(b)(2), amended subsec. (f) generally, restating former introductory provisionsand par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: “The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976.”
 
 Subsec. (h). Pub. L. 99–514, §661(a)(2), added subsec. (h).
 
@@ -470,7 +470,7 @@ Subsec. (c)(4)(B). Pub. L. 95–600, §363(a)(3), substituted “property in a t
 
 Subsec. (e)(3). Pub. L. 95–600, §363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property” for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to whichsection 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
+1976—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
 
 Subsec. (c). Pub. L. 94–455, §1604(f)(3)(A), in introductory provision substituted “A corporation, trust, or association” for “A trust or association”.
 
@@ -532,7 +532,7 @@ General Rule.—Except as otherwise provided in this section, the amendments mad
 
 “(b)
 
-Section 668.—The amendments made by section 668 \[amending sections 857, 858, and 4981 of this title\] shall apply to calendar years beginning after December 31, 1986.
+Section 668.—The amendments made by section 668 \[amending sections 857, 858, and 4981 of this title\]shall apply to calendar years beginning after December 31, 1986.
 
 “(c)
 
@@ -590,7 +590,7 @@ Section 10(k) of Pub. L. 86–779 provided that: “The amendments made by this 
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 
-Section 1608(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
+Section 1608(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginningafter the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@
 
 &emsp;(13) crime prevention services and victim assistance programs for older individuals;
 
-&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health, employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identifyand meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health, employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
 &emsp;(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title;
 

@@ -36,7 +36,7 @@
 
 (C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 
-(d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistanceallowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
+(d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistance allowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
 
 &emsp;(A) for each of the first six months of the person's pursuit of such program, 75 percent of the monthly educational assistance allowance otherwise payable to such person under this chapter;
 
@@ -92,7 +92,7 @@
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
-&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
+&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which isprerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
 
 &emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistance and is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
 
@@ -148,7 +148,7 @@ Subsecs. (f)(2), (g)(3). Pub. L. 102–25, §337(b)(2), (3), substituted “amou
 
 Pub. L. 101–189, §645(b)(1), in introductory provisions, substituted “of an educational assistance allowance” for “and educational assistance allowance”.
 
-Pub. L. 101–189, §642(b)(1), in introductory provisions, substituted “Except as provided in subsections (d) through (f), each” for “Each” and inserted “, throughthe Secretary of Veterans Affairs,” after “Secretary concerned”.
+Pub. L. 101–189, §642(b)(1), in introductory provisions, substituted “Except as provided in subsections (d) through (f), each” for “Each” and inserted “, through the Secretary of Veterans Affairs,” after “Secretary concerned”.
 
 Subsec. (b)(4). Pub. L. 101–189, §645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

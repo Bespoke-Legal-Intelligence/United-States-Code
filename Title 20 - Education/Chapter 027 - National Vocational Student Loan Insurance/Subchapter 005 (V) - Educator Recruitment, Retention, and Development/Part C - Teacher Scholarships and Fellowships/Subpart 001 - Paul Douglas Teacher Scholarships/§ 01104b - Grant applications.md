@@ -14,7 +14,7 @@ The Secretary shall approve an application under this subpart only if the applic
 
 &emsp;(3) describes the outreach effort the State agency intends to use to publicize the availability of Paul Douglas Scholarships to secondary school students in the State;
 
-&emsp;(4) describes how the State will inform recipients, upon receipt of the award, of currentand projected teacher shortages and surpluses within the State;
+&emsp;(4) describes how the State will inform recipients, upon receipt of the award, of current and projected teacher shortages and surpluses within the State;
 
 &emsp;(5) provides assurances that each recipient eligible under section 1104d(b) of this title who receives a Paul Douglas Scholarship shall enter into an agreement with the State agency under which the recipient shall—
 
@@ -72,13 +72,13 @@ In developing the selection criteria and procedures to be used by the State, the
 
 &emsp;&emsp;(B) such other methods as the State may determine to be appropriate to gather information on such needs.
 
-(Pub. L. 89 329, title V, §523, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 678.)
+(Pub. L. 89–329, title V, §523, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 678.)
 
 #### Prior Provisions
 
-A prior section 523 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to division of grants between school-year and summer programs, amount and use of grants, and preferences in making grants and was classified to section 1105b of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 523 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to division of grants between school-year and summer programs, amount and use of grants, and preferences in making grants and was classified to section 1105b of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 523 of Pub. L. 89 329, title V, Nov. 8, 1965, 79 Stat. 1259, as amended, required allocation of fellowships to institutions with approved programs and set forth criteria for approval of programs and was classified to section 1113 of this title, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+Another prior section 523 of Pub. L. 89–329, title V, Nov. 8, 1965, 79 Stat. 1259, as amended, required allocation of fellowships to institutions with approved programs and set forth criteria for approval of programs and was classified to section 1113 of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
 #### Section Referred to in Other Sections
 

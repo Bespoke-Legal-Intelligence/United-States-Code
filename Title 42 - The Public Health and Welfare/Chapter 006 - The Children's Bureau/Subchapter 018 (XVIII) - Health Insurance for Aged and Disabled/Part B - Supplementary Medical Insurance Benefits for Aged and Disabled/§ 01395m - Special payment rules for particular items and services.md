@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(iii) in 1992 is the sum of (I) 33 percent of the local payment amount for the item or device computed under subparagraph (C)(i)(II) for 1992, and (II) 67 percent of the national limited payment amount for the item or device computed under subparagraph (C)(ii) for 1992; and
 
-&emsp;&emsp;&emsp;(iv) in 1993 and each subsequent year is the national limited payment amount forthe item or device computed under subparagraph (C)(ii) for that year.
+&emsp;&emsp;&emsp;(iv) in 1993 and each subsequent year is the national limited payment amount for the item or device computed under subparagraph (C)(ii) for that year.
 
 #### (C) Computation of local payment amount and national limited payment amount
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;Each carrier under this section shall compute a base local payment rate for each item as follows:
 
-&emsp;&emsp;&emsp;(i) The carrier shall compute a base local average monthly payment rate per beneficiary as an amount equal to (I) the totalreasonable charges for the item during the 12-month period ending with December 1986, divided by (II) the total number of months for all beneficiaries receiving the item in the area during the 12-month period for which the carrier made payment for the item under this subchapter.
+&emsp;&emsp;&emsp;(i) The carrier shall compute a base local average monthly payment rate per beneficiary as an amount equal to (I) the total reasonable charges for the item during the 12-month period ending with December 1986, divided by (II) the total number of months for all beneficiaries receiving the item in the area during the 12-month period for which the carrier made payment for the item under this subchapter.
 
 &emsp;&emsp;&emsp;(ii) The carrier shall compute a local average monthly payment rate for the item applicable—
 
@@ -290,7 +290,7 @@
 
 #### (B) Adjustment for inherent reasonableness
 
-&emsp;&emsp;For covered items furnished on or after January 1, 1991, the Secretary is authorized to apply the provisions of paragraphs (8) and (9) (other than subparagraph (D)) of section 1395u(b) of this title to covered items and suppliers of such items and payments under this subsection as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.
+&emsp;&emsp;For covered items furnished on or after January 1, 1991, the Secretary is authorizedto apply the provisions of paragraphs (8) and (9) (other than subparagraph (D)) of section 1395u(b) of this title to covered items and suppliers of such items and payments under this subsection as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.
 
 #### (C) Transcutaneous electrical nerve stimulator (TENS)
 
@@ -300,7 +300,7 @@
 
 #### (A) Improper billing for certain rental items
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter, a supplier of a covered item for which payment is made under this subsection and which is furnished on a rental basis shall continue to supply the item without charge (other than a charge providedunder this subsection for the maintenance and servicing of the item) after rental payments may no longer be made under this subsection. If a supplier knowingly and willfully violates the previous sentence, the Secretary may apply sanctions against the supplier under section 1395u(j)(2) of this title in the same manner such sanctions may apply with respect to a physician.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter, a supplier of a covered item for which payment is made under this subsection and which is furnished on a rental basis shall continue to supply the item without charge (other than a charge provided under this subsection for the maintenance and servicing of the item) after rental payments may no longer be made under this subsection. If a supplier knowingly and willfully violates the previous sentence, the Secretary may apply sanctions against the supplier under section 1395u(j)(2) of this title in the same manner such sanctions may apply with respect to a physician.
 
 #### (B) Requirement of physician order
 
@@ -420,7 +420,7 @@
 
 #### (A) Budget neutral fee schedules
 
-&emsp;&emsp;The Secretary shall develop preliminary fee schedules for 1989, which are designed to result in the same amount of aggregate payments (net of any coinsurance and deductibles under sections 1395<i>l</i>(a)(1)(J) and 1395<i>l</i>(b) of this title) for radiologist services furnished in 1989 as would have been made if this subsection had not been enacted.
+&emsp;&emsp;The Secretary shall develop preliminary fee schedules for 1989, which are designed toresult in the same amount of aggregate payments (net of any coinsurance and deductibles under sections 1395<i>l</i>(a)(1)(J) and 1395<i>l</i>(b) of this title) for radiologist services furnished in 1989 as would have been made if this subsection had not been enacted.
 
 #### (B) Initial savings
 
@@ -806,7 +806,7 @@
 
 #### (B) “Certificate of medical necessity” defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means aform or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means a form or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
 
 #### (3) Coverage and review criteria
 
@@ -850,7 +850,7 @@
 
 &emsp;&emsp;&emsp;(v) self-administered erythropoetin (as described in section 1395x(s)(2)(P) of this title).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), 101 Stat. 1330–91, 1330–100; July 1, 1988, Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), 102 Stat. 704, 722, 726, 768, 779, 781; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), 103 Stat. 1981, 1985; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, 107 Stat. 587, 589, 590; Oct. 31, 1994, Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), 101 Stat. 1330–91, 1330–100; July 1, 1988, Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), 102 Stat. 704, 722, 726, 768, 779, 781; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), 103 Stat. 1981,1985; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, 107 Stat. 587, 589, 590; Oct. 31, 1994, Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440.)
 
 #### References in Text
 
@@ -876,7 +876,7 @@ Subsec. (a)(7)(A)(iii)(II). Pub. L. 103–432, §135(e)(3), substituted “claus
 
 Subsec. (a)(7)(C)(i). Pub. L. 103–432, §135(e)(4), substituted “this paragraph” for “this paragraph or paragraph (3)”.
 
-Subsec. (a)(10)(B). Pub. L. 103–432, §134(a)(1), inserted at end “In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines\(in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.”
+Subsec. (a)(10)(B). Pub. L. 103–432, §134(a)(1), inserted at end “In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.”
 
 Pub. L. 103–432, §126(g)(10)(B), substituted “would otherwise apply to physicians’ services” for “apply to physicians’ services” and inserted before period at end “but for the application of section 1395w–4(i)(3) of this title”.
 
@@ -1028,7 +1028,7 @@ Subsec. (a)(8)(D). Pub. L. 101–508, §4152(b)(2)(D), struck out subpar. (D) wh
 
 Subsec. (a)(9)(A)(ii)(II). Pub. L. 101–508, §4152(b)(3)(A), substituted “the covered item increase for the year” for “the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year”.
 
-Subsec. (a)(9)(B). Pub. L. 101–508, §4152(b)(3)(B), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: “With respect to the furnishing of an item in each region (as defined by the Secretary), the Secretary shall compute a regional monthly payment rate—
+Subsec. (a)(9)(B). Pub. L. 101–508, §4152(b)(3)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “With respect to the furnishing of an item in each region (as defined by the Secretary), the Secretary shall compute a regional monthly payment rate—
 
 &emsp;“(i) for 1991 and 1992, equal to the average (weighted by relative volume of all claims among carriers) of the local monthly payment rates for the carriers in the region computed under subparagraph (A)(ii)(II) for the year, and
 
@@ -1380,7 +1380,7 @@ Section 202(i) of Pub. L. 100–360, directed Secretary of Health and Human Serv
 
 #### Additional Studies by Secretary or Comptroller General
 
-Section 202(k) of Pub. L. 100–360 directed Secretary of Health and Human Services to conduct a study, and make a report to Congress by Jan. 1, 1990, on possibility of including drugs which have not yet been approved under section 355 or 357 of Title 21, Food and Drugs, and biological products which have not been licensed under section 262 of this title but which are commonly used in the treatment of cancer or in immunosuppressive therapy and other experimental drugs and biological products as covered outpatient drugs under medicare program, to conduct a study, and report to Congress by Jan. 1, 1990, evaluating potential to use mail service pharmacies to reduce costs to medicare program and to medicare beneficiaries, to conduct a study, and report to Congress by Jan. 1, 1993, on methods to improve utilization review of covered outpatient drugs, and to conduct a longitudinal study, and report to Congress by Jan. 1, 1993, on use of outpatient prescription drugs by medicare beneficiaries with respect to medical necessity, potential for adverse drug interactions, cost (including whether lower cost drugs could have been used), and patient stockpiling or wastage, and which further directed Comptroller General to conduct studies, and report to Congress by not later than May 1, 1991, on comparing average wholesale prices with actual pharmacy acquisition costs by type of pharmacy, on determining the overhead costs of retail pharmacies, and on discounts given by pharmacies to other third-party insurers, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 202(k) of Pub. L. 100–360 directed Secretary of Health and Human Services to conduct a study, andmake a report to Congress by Jan. 1, 1990, on possibility of including drugs which have not yet been approved under section 355 or 357 of Title 21, Food and Drugs, and biological products which have not been licensed under section 262 of this title but which are commonly used in the treatment of cancer or in immunosuppressive therapy and other experimental drugs and biological products as covered outpatient drugs under medicare program, to conduct a study, and report to Congress by Jan. 1, 1990, evaluating potential to use mail service pharmacies to reduce costs to medicare program and to medicare beneficiaries, to conduct a study, and report to Congress by Jan. 1, 1993, on methods to improve utilization review of covered outpatient drugs, and to conduct a longitudinal study, and report to Congress by Jan. 1, 1993, on use of outpatient prescription drugs by medicare beneficiaries with respect to medical necessity, potential for adverse drug interactions, cost (including whether lower cost drugs could have been used), and patient stockpiling or wastage, and which further directed Comptroller General to conduct studies, and report to Congress by not later than May 1, 1991, on comparing average wholesale prices with actual pharmacy acquisition costs by type of pharmacy, on determining the overhead costs of retail pharmacies, and on discounts given by pharmacies to other third-party insurers, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Development of Standard Medicare Claims Forms
 

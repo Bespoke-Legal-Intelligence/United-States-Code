@@ -182,7 +182,7 @@ Totals
 
 > <i>Provided, however</i>, That in the case of Arizona and Nevada, such contracts shall be offered to the Arizona Power Authority and the Colorado River Commission of Nevada, respectively, as the agency specified by State law as the agent of such State for purchasing power from the Boulder Canyon project: <i>Provided further</i>, That in the case of California, no such contract under this subparagraph (B) shall be offered to any purchaser who is offered a contract for capacity exceeding 20,000 kilowatts under subparagraph (A) of this paragraph.
 
-(C) To the Arizona Power Authority and the Colorado River Commission of Nevada and topurchasers in the State of California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\], contracts for delivery commencing June 1, 1987, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
+(C) To the Arizona Power Authority and the Colorado River Commission of Nevada and to purchasers in the State of California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\], contracts for delivery commencing June 1, 1987, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
 
 SCHEDULE C
 
@@ -228,7 +228,7 @@ Nothing in the Criteria shall be construed to prejudice any rights conferred by 
 
 #### (d) Funding of uprating program
 
-The uprating program authorized under section 619(a) of this title shall be undertaken with funds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of thissection. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
+The uprating program authorized under section 619(a) of this title shall be undertaken with funds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
 
 #### (e) Deposit of uprating program funds in Colorado River Dam Fund
 

@@ -10,5 +10,5 @@ It is the purpose of this part to—
 
 &emsp;(4) provide direction and guidance to appropriate Federal, State and local agencies to focus resources, including resources made available under this part, on meeting the educational needs of Alaska Natives.
 
-(Pub. L. 89 10, title IX, §9303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3806.)
+(Pub. L. 89–10, title IX, §9303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3806.)
 

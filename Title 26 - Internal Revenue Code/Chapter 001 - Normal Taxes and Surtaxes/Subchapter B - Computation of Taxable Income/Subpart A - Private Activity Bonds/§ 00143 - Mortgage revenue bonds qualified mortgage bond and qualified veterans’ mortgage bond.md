@@ -308,7 +308,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;Subparagraph (A) shall be satisfied with respect to any issue if the issuer elects before issuing the bonds to pay over to the United States—
 
-&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amountequal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
+&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
 &emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
@@ -324,7 +324,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (1) In general
 
-&emsp;An issue meets the requirements of this subsection only if at least 20 percent of the proceeds of the issue which are devoted to providing owner-financing is made available (with reasonable diligence) for owner-financing of targeted area residences for at least 1 year after the date on which owner-financing is first made available with respect to targeted area residences.
+&emsp;An issue meets the requirements of this subsection only if at least 20 percent of the proceeds of the issue which are devoted to providing owner-financing is made available (with reasonable diligence) for owner-financing oftargeted area residences for at least 1 year after the date on which owner-financing is first made available with respect to targeted area residences.
 
 #### (2) Limitation
 
@@ -526,7 +526,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) each dwelling unit shall be treated as if it were actually owned by the person entitled to occupy such dwelling unit by reason of his ownership of stock in the corporation, and
 
-&emsp;&emsp;&emsp;(ii) any indebtedness of the corporation allocable to the dwelling unit shall be treated as if it were indebtedness of the shareholder entitled to occupy the dwelling unit.
+&emsp;&emsp;&emsp;(ii) any indebtedness of the corporation allocable to the dwelling unit shall be treated as if it were indebtedness of theshareholder entitled to occupy the dwelling unit.
 
 #### (B) Adjustment to targeted area requirement
 
@@ -586,7 +586,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason offinancing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
+&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason of financing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
 
 #### (B) Qualified program
 
@@ -1032,7 +1032,7 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 
-Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in \[former\] section 143(a)(1)(B) of the 1986 Code shall be treated as contained in section 103A(c)(1)(B) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such \[section\] 103A(c)(1) applies.”
+Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in \[former\] section 143(a)(1)(B) ofthe 1986 Code shall be treated as contained in section 103A(c)(1)(B) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such \[section\] 103A(c)(1) applies.”
 
 #### Study of Recapture Provisions
 

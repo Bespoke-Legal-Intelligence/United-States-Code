@@ -8,5 +8,5 @@ Drug prevention programs supported under this part shall convey a clear and cons
 
 The Secretary shall not prescribe the use of specific curricula for programs supported under this part, but may evaluate the effectiveness of such curricula and other strategies in drug and violence prevention.
 
-(Pub. L. 89 10, title IV, §4132, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3689.)
+(Pub. L. 89–10, title IV, §4132, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3689.)
 

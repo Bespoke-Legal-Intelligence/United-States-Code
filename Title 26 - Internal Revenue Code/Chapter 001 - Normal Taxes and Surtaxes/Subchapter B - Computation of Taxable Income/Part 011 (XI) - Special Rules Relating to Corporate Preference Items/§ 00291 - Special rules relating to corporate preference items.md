@@ -16,7 +16,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (2) Reduction in percentage depletion
 
-&emsp;In the case of iron ore and coal (including lignite), the amount allowable as a deductionunder section 613 with respect to any property (as defined in section 614) shall be reduced by 20 percent of the amount of the excess (if any) of—
+&emsp;In the case of iron ore and coal (including lignite), the amount allowable as a deduction under section 613 with respect to any property (as defined in section 614) shall be reduced by 20 percent of the amount of the excess (if any) of—
 
 &emsp;&emsp;(A) the amount of the deduction allowable under section 613 for the taxable year (determined without regard to this paragraph), over
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies, the amount of interest on indebtedness incurred or continued to purchase or carry obligations acquired after December 31, 1982, and before August 8, 1986, the interest on which is exempt from taxes for the taxable year, to the extent that a deduction would (but for this paragraph or section265(b)) be allowable with respect to such interest for such taxable year.
+&emsp;&emsp;&emsp;In the case of a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies, the amount of interest on indebtedness incurred or continued to purchase or carry obligations acquired after December 31, 1982, and before August 8, 1986, the interest on which is exempt from taxes for the taxable year, to the extent that a deduction would (but for this paragraph or section 265(b)) be allowable with respect to such interest for such taxable year.
 
 #### (ii) Determination of interest allocable to indebtedness on tax-exempt obligations
 

@@ -22,7 +22,7 @@ After reviewing recommendations submitted to the Secretary by the Task Force und
 
 &emsp;&emsp;(B) replacing the asbestos materials removed from school buildings with other appropriate building materials; and
 
-&emsp;&emsp;(C) restoring such school buildings to conditions comparable to those existing before asbestos containment or removal activities were undertaken; and
+&emsp;&emsp;(C) restoring such school buildings to conditions comparable to those existing beforeasbestos containment or removal activities were undertaken; and
 
 &emsp;(2) standards for determining which contractors are qualified to carry out the activities referred to in paragraph (1).
 
@@ -30,7 +30,7 @@ After reviewing recommendations submitted to the Secretary by the Task Force und
 
 In carrying out his duties under this section, the Secretary shall avoid, to the maximum extent practicable, duplicating similar activities undertaken by the Environmental Protection Agency.
 
-(Pub. L. 96 270, §7, June 14, 1980, 94 Stat. 494.)
+(Pub. L. 96–270, §7, June 14, 1980, 94 Stat. 494.)
 
 #### Section Referred to in Other Sections
 

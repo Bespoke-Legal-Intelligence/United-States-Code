@@ -34,15 +34,15 @@ The decision of the Office in any hearing under this section shall become final 
 
 &emsp;(2) remands the decision of the Office.
 
-(Pub. L. 90 247, title IV, §455, as added Pub. L. 95 561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2350; amended Pub. L. 100 297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 354.)
+(Pub. L. 90–247, title IV, §455, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2350; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 354.)
 
 #### Amendments
 
-1988—Pub. L. 100 297 amended section generally, substituting provisions relating to withholding for provisions relating to judicial review. See section 1234g of this title.
+1988—Pub. L. 100–297 amended section generally, substituting provisions relating to withholding for provisions relating to judicial review. See section 1234g of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100 297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ A grant recipient providing such a job guarantee program shall enter into an agr
 
 &emsp;(4) specify the conditions under which funds provided under this part may be used to provide wage subsidies of up to 50 percent through employers, which conditions shall—
 
-&emsp;&emsp;(A) encourage subsidies to employers who provide advanced or specialized training, or who provide a structured and integrated learning experience involving the school and employer; and
+&emsp;&emsp;(A) encourage subsidies to employers who provide advanced or specialized training, or who provide a structured and integratedlearning experience involving the school and employer; and
 
 &emsp;&emsp;(B) limit the duration of such subsidies to not more than 1 year;
 

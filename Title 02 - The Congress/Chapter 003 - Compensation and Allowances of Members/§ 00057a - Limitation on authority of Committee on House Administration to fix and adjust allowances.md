@@ -1,4 +1,4 @@
-### §57a . Limitation on authority of Committee on House Administration to fix and adjust allowances
+### §57a. Limitation on authority of Committee on House Administration to fix and adjust allowances
 
 (a) Until otherwise provided by law, any allowance specified in subsection (a)(1) of the first section of H. Res. 457, Ninety-second Congress, relating to expenditures of funds from the contingent fund of the House of Representatives for certain allowances to Members, officers, and standing committees of the House (2 U.S.C. 57), adopted July 21, 1971, and enacted as permanent law by the Supplemental Appropriations Act, 1972 (Public Law 92–184; 85 Stat. 627), hereinafter in this section referred to as “H. Res. 457, Ninety-second Congress”, may be fixed or adjusted only through the adoption of a resolution by the House of Representatives, except that the Committee on House Administration may fix or adjust such allowance in any case in which such action by such committee is made necessary by—
 
@@ -24,5 +24,5 @@ Section is based on House Resolution No. 1372, Ninety-fourth Congress, July 1, 1
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 

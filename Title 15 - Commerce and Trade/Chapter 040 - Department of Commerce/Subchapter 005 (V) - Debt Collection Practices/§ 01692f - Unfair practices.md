@@ -10,7 +10,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 &emsp;(4) Depositing or threatening to deposit any postdated check or other postdated payment instrument prior to the date on such check or instrument.
 
-&emsp;(5) Causing charges to be made to any person for communications by concealment of the true purpose of the communication. Such charges include, but are not limited to, collect telephone calls and telegram fees.
+&emsp;(5) Causing charges to be made to any person for communications by concealment of thetrue purpose of the communication. Such charges include, but are not limited to, collect telephone calls and telegram fees.
 
 &emsp;(6) Taking or threatening to take any nonjudicial action to effect dispossession or disablement of property if—
 
@@ -24,7 +24,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 &emsp;(8) Using any language or symbol, other than the debt collector's address, on any envelope when communicating with a consumer by use of the mails or by telegram, except that a debt collector may use his business name if such name does not indicate that he is in the debt collection business.
 
-(Pub. L. 90 321, title VIII, §808, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 879.)
+(Pub. L. 90–321, title VIII, §808, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879.)
 
 #### Section Referred to in Other Sections
 

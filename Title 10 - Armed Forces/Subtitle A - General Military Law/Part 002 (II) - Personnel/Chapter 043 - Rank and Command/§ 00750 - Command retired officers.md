@@ -1,4 +1,4 @@
-### §750 . Command: retired officers
+### §750. Command: retired officers
 
 A retired officer has no right to command except when on active duty.
 

@@ -38,7 +38,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 1981—Subsec. (d). Pub. L. 97–89 substituted “Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of Agency personnel and of defectors, their families, and other persons in the United States under Agency auspices; and” for “Authorize couriers and guards designated by the Director to carry firearms when engaged in transportation of confidential documents and materials affecting the national defense and security;”.
 
-1964—Subsec. (f). Pub. L. 88–448 repealed subsec. (f) which authorized employment of not more than fifteen retired officers who must elect between civilian salaryand retired pay. See section 3101 et seq. of Title 5, Government Organization and Employees.
+1964—Subsec. (f). Pub. L. 88–448 repealed subsec. (f) which authorized employment of not more than fifteen retired officers who must elect between civilian salary and retired pay. See section 3101 et seq. of Title 5, Government Organization and Employees.
 
 1951—Subsec. (f). Act June 26, 1951, added subsec. (f).
 
@@ -52,7 +52,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 103–335, title VIII, §8154(b), Sept. 30, 1994, 108 Stat. 2658, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 104–61, title VIII, §8096(b), Dec. 1, 1995, 109 Stat. 671, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 103–335, title VIII, §8154(b), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Section Referred to in Other Sections
 

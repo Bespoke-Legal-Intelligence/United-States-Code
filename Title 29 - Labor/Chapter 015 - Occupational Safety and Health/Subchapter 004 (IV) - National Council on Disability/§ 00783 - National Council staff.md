@@ -48,7 +48,7 @@ Subsec. (b)(1). Pub. L. 102–569, §404, substituted “rate of pay for level 4
 
 Subsec. (b)(4). Pub. L. 99–506, §503, struck out par. (4) which provided that from the amount available to the Office of Special Education and Rehabilitative Services, Department of Education, $500,000 in fiscal year 1984 was to be transferred and made available to the National Council.
 
-1984—Subsec. (a). Pub. L. 98–221, §143(a)–(c), designated existing provisions as par. (1), substituted “anExecutive Director” for “up to seven technical and professional employees” and inserted provision requiring that the Executive Director be appointed from among individuals experienced in the planning or operation of programs for handicapped individuals, and added par. (2).
+1984—Subsec. (a). Pub. L. 98–221, §143(a)–(c), designated existing provisions as par. (1), substituted “an Executive Director” for “up to seven technical and professional employees” and inserted provision requiring that the Executive Director be appointed from among individuals experienced in the planning or operation of programs for handicapped individuals, and added par. (2).
 
 Subsec. (b). Pub. L. 98–221, §143(d), designated existing provisions as par. (1) and added pars. (2) to (4).
 

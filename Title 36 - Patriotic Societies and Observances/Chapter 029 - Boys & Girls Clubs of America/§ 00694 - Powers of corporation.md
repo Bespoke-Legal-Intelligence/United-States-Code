@@ -14,7 +14,7 @@ The corporation shall have power—
 
 &emsp;(6) to contract and be contracted with;
 
-&emsp;(7) to take by lease, gift, purchase, grant, devise, or bequest from any private corporation, association, partnership, firm or individual and to hold any property, real, personal, or mixed, necessary or convenient for attaining the objects and carrying into effect the purposes of the corporation, subject, however, to applicable provisions of law of any State (A) governing the amount or kind of property which may be held by, or (B) otherwise limiting or controlling the ownership of property by, a corporation operating in such State;
+&emsp;(7) to take by lease, gift, purchase, grant, devise, or bequest from any private corporation, association, partnership, firm or individual and to hold any property, real, personal, or mixed, necessary or convenient for attainingthe objects and carrying into effect the purposes of the corporation, subject, however, to applicable provisions of law of any State (A) governing the amount or kind of property which may be held by, or (B) otherwise limiting or controlling the ownership of property by, a corporation operating in such State;
 
 &emsp;(8) to transfer, convey, lease, sublease, encumber and otherwise alienate real, personal or mixed property; and
 

@@ -1,12 +1,12 @@
 ### §18. Promotion of tourist travel
 
-The Secretary of Commerce shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency.
+The Secretary of Commerce shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities whichare in the public interest and which do not compete with activities of any State, city, or private agency.
 
 (July 19, 1940, ch. 642, §1, 54 Stat. 773; Dec. 19, 1973, Pub. L. 93–193, §2, 87 Stat. 765; July 9, 1975, Pub. L. 94–55, §2(b), 89 Stat. 262.)
 
 #### Amendments
 
-1975—Pub. L. 94–55 substituted “shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of anyState, city, or private agency” for “is authorized and directed to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce”.
+1975—Pub. L. 94–55 substituted “shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency” for “is authorized and directed to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce”.
 
 #### Transfer of Functions
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) in accordance with section 3951(a) of this title;
 
-&emsp;(3) as a career candidate, if continued service is determined appropriate to remedy a matterthat would be cognizable as a grievance under subchapter XI of this chapter;
+&emsp;(3) as a career candidate, if continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI of this chapter;
 
 &emsp;(4) as a career employee in another Federal personnel system serving in a Foreign Service position on detail from another agency; and
 

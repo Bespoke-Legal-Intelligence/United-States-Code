@@ -14,5 +14,5 @@ For purposes of this chapter:
 
 &emsp;(6) The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 99 252, §9, Feb. 27, 1986, 100 Stat. 34.)
+(Pub. L. 99–252, §9, Feb. 27, 1986, 100 Stat. 34.)
 

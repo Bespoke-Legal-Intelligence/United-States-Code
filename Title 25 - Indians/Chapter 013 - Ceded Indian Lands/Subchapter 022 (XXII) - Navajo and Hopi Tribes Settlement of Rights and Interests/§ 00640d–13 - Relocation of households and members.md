@@ -12,7 +12,7 @@ In addition to the payments made pursuant to section 640d–14 of this title, th
 
 &emsp;(2) the sum of $4,000 to each head of a household who is not eligible for the payment provided for in clause (1) of this subsection but who, prior to the expiration of two years after the effective date of the relocation plan, contracts with the Commissioner to relocate;
 
-&emsp;(3) the sum of $3,000 to each head of a household who is not eligible for the payments provided for in clause (1) or (2) of this subsection but who, prior to the expiration of three years after the effective date of the relocation plan,contracts with the Commissioner to relocate; and
+&emsp;(3) the sum of $3,000 to each head of a household who is not eligible for the payments provided for in clause (1) or (2) of this subsection but who, prior to the expiration of three years after the effective date of the relocation plan, contracts with the Commissioner to relocate; and
 
 &emsp;(4) the sum of $2,000 to each head of a household who is not eligible for the payments provided for in clause (1), (2), or (3) of this subsection but who, prior to the expiration of four years after the effective date of the relocation plan, contracts with the Commissioner to relocate.
 

@@ -15,7 +15,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 302, 306 of this title; title 45 section 829.
+This chapter is referred to in sections 302, 306 of this title.
 
 
 ---

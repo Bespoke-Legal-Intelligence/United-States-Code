@@ -106,7 +106,7 @@ Manufacturing Technology Guidance.—The initial regulations shall require that 
 
 &emsp;“(6) Programs providing incentives for firms in the national technology and industrial base to use advanced manufacturing technology and processes and to invest in improved productivity.
 
-&emsp;“(7) Programs for encouraging research in colleges and universities and in other technology developmentand extension programs in the United States for development of systems that build on the skill and experience of workers.
+&emsp;“(7) Programs for encouraging research in colleges and universities and in other technology development and extension programs in the United States for development of systems that build on the skill and experience of workers.
 
 &emsp;“(8) Programs for assisting in the transition to high performance work systems, including ongoing worker involvement in the evaluation, selection, and installation and operation of production technologies and associated organization or work.
 

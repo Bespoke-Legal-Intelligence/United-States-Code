@@ -1,4 +1,4 @@
-### §4109 . Incentives to extend low-income use
+### §4109. Incentives to extend low-income use
 
 #### (a) Agreements by Secretary
 

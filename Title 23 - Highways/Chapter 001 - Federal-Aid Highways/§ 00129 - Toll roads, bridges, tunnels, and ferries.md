@@ -8,7 +8,7 @@ Basic Program.—
 
 Authorization for federal participation.—Notwithstanding section 301 of this title and subject to the provisions of this section, the Secretary shall permit Federal participation in—
 
-&emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel (other than a highway,bridge, or tunnel on the Interstate System) or approach thereto;
+&emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel (other than a highway, bridge, or tunnel on the Interstate System) or approach thereto;
 
 &emsp;&emsp;(B) reconstructing, resurfacing, restoring, and rehabilitating a toll highway, bridge, or tunnel (including a toll highway, bridge, or tunnel subject to an agreement entered into under this section or section 119(e) as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991) or approach thereto;
 
@@ -38,15 +38,55 @@ Special rule for funding.—In the case of a toll highway, bridge, or tunnel und
 
 &emsp;(5)
 
-Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until the scheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991).
+Limitation on federal share.—The Federal share payable for a project described in paragraph (1) shall be a percentage determined by the State but not to exceed 80 percent.
 
 &emsp;(6)
 
-Modifications.—If a public authority (including a State transportation department) having jurisdiction over a toll highway, bridge, or tunnel subject to an agreement under this section or section 119(e), as in effect on the day before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, requests modification of such agreement, the Secretary shall modify such agreement to allow the continuation of tolls in accordance with paragraph (3) without repayment of Federal funds.
+Modifications.—If a public authority (including a State transportation department) having jurisdiction over a toll highway, bridge, or tunnel subject to an agreement under this section or section 119(e), as in effect on the day before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, requests modification of such agreement, the Secretary shall modifysuch agreement to allow the continuation of tolls in accordance with paragraph (3) without repayment of Federal funds.
 
 &emsp;(7)
 
-Loans.—A State may loan all or part of the Federal share of a toll project under this section to a public or private agency constructing a toll facility. Such loan may be made only after all Federal environmental requirements have been complied with and permits obtained. The amount loaned shall be subordinated to other debt financing for the facility except for loans made by the State or any other public agency to the agency constructing the facility. Funds loaned pursuant to this section may be obligated for projects eligible under this section. The repayment of any such loan shall commence not more than 5 years after the facility has opened to traffic. Any such loan shall bear interest at the average rate the State's pooled investment fund earned in the 52 weeks preceding the start of repayment. The term of any such loan shall not exceed 30 years from the time the loan was obligated. Amounts repaid to a State from any loan made under this section may be obligated for any purpose for which the loaned funds were available. The Secretary shall establish procedures and guidelines for making such loans.
+Loans.—
+
+&emsp;&emsp;(A)
+
+In general.—A State may loan to a public or private entity constructing or proposing to construct under this section a toll facility or non-toll facility with a dedicated revenue source an amount equal to all or part of the Federal share of the cost of the project if the project has a revenue source specifically dedicated to it. Dedicated revenue sources for non-toll facilities include excise taxes, sales taxes, motor vehicle use fees, tax on real property, tax increment financing, and such other dedicated revenue sources as the Secretary determines appropriate.
+
+&emsp;&emsp;(B)
+
+Compliance with federal laws.—As a condition of receiving a loan under this paragraph, the public or private entity that receives the loan shall ensure that the project will be carried out in accordance with this title and any other applicable Federal law, including any applicable provision of a Federal environmental law.
+
+&emsp;&emsp;(C)
+
+Subordination of debt.—The amount of any loan received for a project under this paragraph may be subordinated to any other debt financing for the project.
+
+&emsp;&emsp;(D)
+
+Obligation of funds loaned.—Funds loaned under this paragraph may only be obligated for projects under this paragraph.
+
+&emsp;&emsp;(E)
+
+Repayment.—The repayment of a loan made under this paragraph shall commence not later than 5 years after date on which the facility that is the subject of the loan is open to traffic.
+
+&emsp;&emsp;(F)
+
+Term of loan.—The term of a loan made under this paragraph shall not exceed 30 years from the date on which the loan funds are obligated.
+
+&emsp;&emsp;(G)
+
+Interest.—A loan made under this paragraph shall bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible.
+
+&emsp;&emsp;(H)
+
+Reuse of funds.—Amounts repaid to a State from a loan made under this paragraph may be obligated—
+
+&emsp;&emsp;&emsp;(i) for any purpose for which the loan funds were available under this title; and
+
+&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access or to lower interest rates for projects eligible for assistance under this title.
+
+&emsp;&emsp;(I)
+
+Guidelines.—The Secretary shall establish procedures and guidelines for making loans under this paragraph.
 
 &emsp;(8)
 
@@ -64,7 +104,7 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 &emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>1</sup> repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
 
-&emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise the Commonwealth of Puerto Rico) or between adjoining States. Except with respect to operations between the islands which comprise the State of Hawaii and operations between the islands which comprise the Commonwealth of Puerto Rico and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
+&emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise the Commonwealth of Puerto Rico) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise the Commonwealth of Puerto Rico, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
 
 &emsp;(6) No such ferry shall be sold, leased, or otherwise disposed of without the approval of the Secretary. The Federal share of any proceeds from such a disposition shall be credited to the unprogramed balance of Federal-aid highway funds of the same class last apportioned to such State. Any amount so credited shall be in addition to all other funds then apportioned to such State and available for expenditure in accordance with the provisions of this title.
 
@@ -116,15 +156,29 @@ New toll highway defined.—For purposes of this subsection, the term “new tol
 
 Special rule for funding of texas project.—Upon request of the Texas Department of Highways and Public Transportation and subject to such terms and conditions as such Department and the Texas Turnpike Authority may agree, the Secretary shall reimburse the Texas Turnpike Authority for the Federal share of the costs of construction of the project carried out in the State of Texas under this subsection in the same manner and to the same extent as such Department would be reimbursed if such project was being carried out by such Department. The reimbursement of funds under this paragraph shall be from sums apportioned to the State of Texas under this chapter and available for obligation on projects on the Federal-aid primary system in such State.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586.)
 
 #### References in Text
 
-The date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(1)(B), (5), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
+The date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
 
 For the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(6), see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
 #### Amendments
+
+1995—Subsec. (a)(5). Pub. L. 104–59, §313(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
+
+“(5)
+
+Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until the scheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991).”
+
+Subsec. (a)(7). Pub. L. 104–59, §313(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows:
+
+“(7)
+
+Loans.—A State may loan all or part of the Federal share of a toll project under this section to a public or private agency constructing a toll facility. Such loan may be made only after all Federal environmental requirements have been complied with and permits obtained. The amount loaned shall be subordinated to other debt financing for the facility except for loans made by the State or any other public agency to the agency constructing the facility. Funds loaned pursuant to this section may be obligated for projects eligible under this section. The repayment of any such loan shall commence not more than 5 years after the facility has opened to traffic. Any such loan shall bear interest at the average rate the State's pooled investment fund earned in the 52 weeks preceding the start of repayment. The term of any such loan shall not exceed 30 years from the time the loan was obligated. Amounts repaid to a State from any loan made under this section may be obligated for any purpose for which the loaned funds were available. The Secretary shall establish procedures and guidelines for making such loans.”
+
+Subsec. (c)(5). Pub. L. 104–59, §313(c), inserted before period at end of first sentence “or between a point in a State and a point in the Dominion of Canada” and in second sentence substituted “Hawaii,” for “Hawaii and” and inserted “, operations between a point in a State and a point in the Dominion of Canada,” after “Puerto Rico”.
 
 1992—Subsec. (b). Pub. L. 102–388, §410(1), which directed the substitution of “classified as a public road” for “approved under section 103(b) or (b) of this title as a part of one of the Federal-aid systems”, was executed by making the substitution for “approved under section 103(b) or (c) of this title as a part of one of the Federal-aid systems” to reflect the probable intent of Congress.
 
@@ -232,7 +286,7 @@ Treatment of Certain Roads.—For purposes of this section, North Carolina State
 
 #### Study To Determine Extent of Bonded Indebtedness of States for Construction of Toll Roads Incorporated Into Interstate System
 
-Section 164 of Pub. L. 95–599, as amended by Pub. L. 96–106, §16, Nov. 19, 1979, 93 Stat. 798, required Secretary of Transportation to report not later than July 1, 1980, respecting extent of outstanding bonded indebtedness for each State as of Jan. 1, 1979, incurred by each State or public authority prior to June 29, 1956, for road construction or portions incorporated within Interstate System, and methods of allocating bonded indebtedness and removal of toll provisions.
+Section 164 of Pub. L. 95–599, as amended by Pub. L. 96–106, §16, Nov. 19, 1979, 93 Stat. 798, directed Secretaryof Transportation to report not later than July 1, 1980, respecting extent of outstanding bonded indebtedness for each State as of Jan. 1, 1979, incurred by each State or public authority prior to June 29, 1956, for road construction or portions incorporated within Interstate System, and methods of allocating bonded indebtedness and removal of toll provisions.
 
 #### Richmond-Petersburg Turnpike
 

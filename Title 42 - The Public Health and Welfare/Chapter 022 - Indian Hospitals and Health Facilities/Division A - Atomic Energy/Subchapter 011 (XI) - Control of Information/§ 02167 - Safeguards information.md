@@ -42,7 +42,7 @@ In addition to the reports required under subsection (d) of this section, the Co
 
 &emsp;(1) identify any information protected from disclosure pursuant to such regulation or order;
 
-&emsp;(2) specifically state the Commission's justification for determining that unauthorized disclosure of the information protected from disclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion or sabotage of such material or such facility, as specified under subsection (a) of this section; and
+&emsp;(2) specifically state the Commission's justification for determining that unauthorized disclosure of the information protected fromdisclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion or sabotage of such material or such facility, as specified under subsection (a) of this section; and
 
 &emsp;(3) provide justification that the Commission has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
 

@@ -8,7 +8,7 @@
 
 #### (2) Services
 
-&emsp;Unless otherwise specified, services under paragraph (1) may be provided through programs on school grounds or at other facilities. Where such services are provided through programs to homeless students on school grounds, schools may provide services to other children and youth who are determined by the local educational agency to be at risk of failing in, or dropping out of, schools, in the same setting or classroom. To the maximum extent practicable, such services shall be provided through existing programs and mechanisms that integrate homeless individuals with nonhomeless individuals.
+&emsp;Unless otherwise specified, services under paragraph (1) may be provided through programs on school grounds or at other facilities. Where such services are provided through programs to homeless students on school grounds,schools may provide services to other children and youth who are determined by the local educational agency to be at risk of failing in, or dropping out of, schools, in the same setting or classroom. To the maximum extent practicable, such services shall be provided through existing programs and mechanisms that integrate homeless individuals with nonhomeless individuals.
 
 #### (3) Requirement
 
@@ -16,7 +16,7 @@
 
 #### (b) Application
 
-A local educational agency that desires to receive a grant under this section shall submit anapplication to the State educational agency at such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require according to guidelines issued by the Secretary. Each such application shall include—
+A local educational agency that desires to receive a grant under this section shall submit an application to the State educational agency at such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require according to guidelines issued by the Secretary. Each such application shall include—
 
 &emsp;(1) a description of the services and programs for which assistance is sought and the problems to be addressed through the provision of such services and programs;
 

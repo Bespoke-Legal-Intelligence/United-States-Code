@@ -18,7 +18,7 @@ Properties acquired for the purposes of this section shall continue to be used f
 
 #### (e) Availability of Federal lands acquired or withdrawn for Federal water-resource purposes
 
-Federal lands acquired or withdrawn for Federal water-resource purposes and made available to the States or to the Secretary of the Interior for wildlife management purposes, shall be made available for such purposes in accordance with sections 661 to 666c of this title, notwithstanding other provisions of law.
+Federal lands acquired or withdrawn for Federal water-resource purposes and made available to the States or to the Secretary of the Interiorfor wildlife management purposes, shall be made available for such purposes in accordance with sections 661 to 666c of this title, notwithstanding other provisions of law.
 
 #### (f) National forest lands
 

@@ -14,7 +14,7 @@
 
 (c) Subject to the provisions of subsection (d), the obligation to reimburse the United States under an agreement described in subsection (a) is, for all purposes, a debt owing the United States.
 
-(d) A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (a) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1978.
+(d) A discharge in bankruptcy under title 11 shall not release a person from an obligation toreimburse the United States required under the terms of an agreement described in subsection (a) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1978.
 
 (e) In this section:
 

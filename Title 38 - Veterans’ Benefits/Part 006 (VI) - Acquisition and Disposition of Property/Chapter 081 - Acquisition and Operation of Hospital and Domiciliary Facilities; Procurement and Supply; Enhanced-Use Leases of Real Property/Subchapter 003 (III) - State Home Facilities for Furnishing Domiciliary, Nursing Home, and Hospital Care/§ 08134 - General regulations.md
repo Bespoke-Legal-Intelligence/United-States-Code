@@ -10,7 +10,7 @@
 
 (b) The Secretary may inspect any State facility constructed or acquired with assistance received under this subchapter at such times as the Secretary deems necessary to insure that such facility meets the standards prescribed under subsection (a)(3).
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5034; amended Pub. L. 89–311, §7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, §107(b), title II, §206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, §3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, §404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, §105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered §8134, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5034; amended Pub. L. 89–311, §7(b),Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, §107(b), title II, §206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, §3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, §404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, §105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered §8134, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 
@@ -20,7 +20,7 @@ Pub. L. 102–83, §5(c)(1), substituted “1720(b)” for “620(b)” in subse
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by inserting “(a)” before “Within six months”, substituting “any amendment to this section” for “this section orany amendment to it”, designating sentence at end of par. (3) as subsec. (b), realigning such sentence, and substituting “the standards prescribed under subsection (a)(3)” for “such standards” at end of such sentence.
+Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by inserting “(a)” before “Within six months”, substituting “any amendment to this section” for “this section or any amendment to it”, designating sentence at end of par. (3) as subsec. (b), realigning such sentence, and substituting “the standards prescribed under subsection (a)(3)” for “such standards” at end of such sentence.
 
 1984—Pars. (2), (3). Pub. L. 98–528 inserted “or acquired” after “constructed” wherever appearing.
 

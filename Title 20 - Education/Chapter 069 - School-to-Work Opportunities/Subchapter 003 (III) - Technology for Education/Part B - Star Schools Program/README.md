@@ -2,7 +2,7 @@ Part B—Star Schools Program
 
 #### Prior Provisions
 
-Provisions similar to those in this part were contained in subchapter IX (§4081 et seq.) of chapter 52 of this title prior to repeal by Pub. L. 103 382, §364.
+Provisions similar to those in this part were contained in subchapter IX (§4081 et seq.) of chapter 52 of this title prior to repeal by Pub. L. 103–382, §364.
 
 #### Part Referred to in Other Sections
 

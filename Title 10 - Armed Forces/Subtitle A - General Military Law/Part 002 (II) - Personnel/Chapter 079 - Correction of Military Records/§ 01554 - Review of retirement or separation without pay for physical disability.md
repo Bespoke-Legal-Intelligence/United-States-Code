@@ -1,4 +1,4 @@
-### §1554 . Review of retirement or separation without pay for physical disability
+### §1554. Review of retirement or separation without pay for physical disability
 
 (a) The Secretary concerned shall from time to time establish boards of review, each consisting of five commissioned officers, two of whom shall be selected from officers of the Army Medical Corps, officers of the Navy Medical Corps, Air Force officers designated as medical officers, or officers of the Public Health Service, as the case may be, to review, upon the request of an officer retired or released from active duty without pay for physical disability, the findings and decisions of the retiring board, board of medical survey, or disposition board in his case. A request for review must be made within 15 years after the date of the retirement or separation.
 

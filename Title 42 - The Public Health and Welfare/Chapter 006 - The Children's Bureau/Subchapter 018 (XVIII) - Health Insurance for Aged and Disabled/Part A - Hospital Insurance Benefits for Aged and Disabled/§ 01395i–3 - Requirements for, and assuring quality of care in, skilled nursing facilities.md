@@ -334,7 +334,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(I) for transfers or discharges effected on or after October 1, 1990, notice of the resident's right to appeal the transfer or discharge under the State process established under subsection (e)(3) of this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the name, mailing address, and telephone number of the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]).
+&emsp;&emsp;&emsp;&emsp;(II) the name, mailing address, and telephone number of the State long-termcare ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]).
 
 #### (C) Orientation
 
@@ -436,7 +436,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Skilled nursing facility administrator
 
-&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established bythe Secretary under subsection (f)(4) of this section.
+&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
 
 #### (2) Licensing and Life Safety Code
 
@@ -500,7 +500,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3)of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
+&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
 
 #### (4) Skilled nursing facility administrator standards
 
@@ -534,7 +534,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(iv) requirements, under both such programs, that—
 
-&emsp;&emsp;&emsp;&emsp;(I) provide procedures for determining competency that permit a nurse aide, at the nurse aide's option, to establish competency through procedures or methods other than the passing of a written examination and to have the competency evaluation conducted at the nursing facility at which the aide is (or will be) employed (unless the facility is described in subparagraph (B)(iii)(I)),
+&emsp;&emsp;&emsp;&emsp;(I) provide procedures for determining competency that permit a nurse aide, at the nurse aide's option, to establish competency through procedures or methodsother than the passing of a written examination and to have the competency evaluation conducted at the nursing facility at which the aide is (or will be) employed (unless the facility is described in subparagraph (B)(iii)(I)),
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
@@ -670,7 +670,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (iv) Construction
 
-&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as requiring an extended or partialextended survey as a prerequisite to imposing a sanction against a facility under subsection (h) of this section on the basis of findings in a standard survey.
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as requiring an extended or partial extended survey as a prerequisite to imposing a sanction against a facility under subsection (h) of this section on the basis of findings in a standard survey.
 
 #### (C) Survey protocol
 
@@ -780,7 +780,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
+&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skillednursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
 
 &emsp;&emsp;&emsp;(i) immediately jeopardize the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subparagraph (B)(iii), or terminate the facility's participation under this subchapter and may provide, in addition, for one or more of the other remedies described in subparagraph (B); or
 
@@ -798,7 +798,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (ii) Authority with respect to civil money penalties
 
-&emsp;&emsp;&emsp;The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply toa civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;&emsp;The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (iii) Appointment of temporary management
 
@@ -852,7 +852,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (6) Sharing of information
 
-&emsp;Notwithstanding any other provision of law, all information concerning skilled nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal orState employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XIX of this chapter, including investigations by State medicaid fraud control units.
+&emsp;Notwithstanding any other provision of law, all information concerning skilled nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XIX of this chapter, including investigations by State medicaid fraud control units.
 
 #### (i) Construction
 

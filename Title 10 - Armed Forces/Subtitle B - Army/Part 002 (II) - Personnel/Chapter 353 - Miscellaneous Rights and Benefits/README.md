@@ -14,7 +14,7 @@
 
 1994—Pub. L. 103–337, div. A, title XVI, §1672(b)(6), Oct. 5, 1994, 108 Stat. 3015, struck out item 3686 “Members of Army National Guard of United States: credit for service as members of Army National Guard”.
 
-1986—Pub. L. 99–661, div. A, title VI, §604(f)(1)(B)(i), Nov. 14, 1986, 100 Stat. 3877, struck out item 3687 “Compensation: members of Army other than of Regular Army; when same as that provided for members of Regular Army”.
+1986—Pub. L. 99–661, div. A, title VI, §604(f)(1)(B)(i), Nov. 14, 1986, 100 Stat. 3877, struck out item 3687 “Compensation: members of Army other than of RegularArmy; when same as that provided for members of Regular Army”.
 
 1985—Pub. L. 99–145, title XIII, §1301(b)(1)(B), Nov. 8, 1985, 99 Stat. 735, struck out item 3683 “Service credit: certain service as a nurse, woman medical specialist, or civilian employee of Army Medical Department to be counted”.
 

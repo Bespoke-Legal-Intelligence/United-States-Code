@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsections (b), (c), and (g) of this section and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services—
 
-&emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this title and the Federal Acquisition Regulation; and
+&emsp;(A) shall obtain full and open competition through the use of competitive procedures inaccordance with the requirements of this title and the Federal Acquisition Regulation; and
 
 &emsp;(B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
 
@@ -70,7 +70,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (1) For the purposes of applying subsection (c)(1) of this section—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to beavailable from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
 &emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
@@ -96,7 +96,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;(C) any required notice has been published with respect to such contract pursuant to section 416 of this title and all bids or proposals received in response to such notice have been considered by such executive agency.
 
-(2) In the case of a procurement permitted by subsection (c)(2), the justification and approvalrequired by paragraph (1) may be made after the contract is awarded. The justification and approval required by paragraph (1) is not required—
+(2) In the case of a procurement permitted by subsection (c)(2), the justification and approval required by paragraph (1) may be made after the contract is awarded. The justification and approval required by paragraph (1) is not required—
 
 &emsp;(A) when a statute expressly requires that the procurement be made from a specified source;
 
@@ -262,7 +262,7 @@ Armed services—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 423 of this title; title 15 section 637;title 22 section 2669; title 40 sections 618, 759; title 49 section 40110; title 50 App. section 2077.
+This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 423 of this title; title 15 section 637; title 22 section 2669; title 40 sections 618, 759; title 49 section 40110; title 50 App. section 2077.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

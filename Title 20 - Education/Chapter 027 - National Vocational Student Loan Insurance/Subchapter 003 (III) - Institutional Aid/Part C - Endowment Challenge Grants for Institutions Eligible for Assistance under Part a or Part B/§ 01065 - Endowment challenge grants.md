@@ -82,7 +82,7 @@
 
 #### (d) Repayment provisions
 
-(1) If at any time an institution withdraws part of the endowment fund corpus, the institution shall repay to the Secretary an amountequal to 50 percent of the withdrawn amount, which represents the Federal share, plus income earned thereon. The Secretary may use such repaid funds to make additional challenge grants, or to increase existing endowment grants, to other eligible institutions.
+(1) If at any time an institution withdraws part of the endowment fund corpus, the institution shall repay to the Secretary an amount equal to 50 percent of the withdrawn amount, which represents the Federal share, plus income earned thereon. The Secretary may use such repaid funds to make additional challenge grants, or to increase existing endowment grants, to other eligible institutions.
 
 (2) If an institution expends more of the endowment fund income than is permitted under subsection (c) of this section, the institution shall repay the Secretary an amount equal to 50 percent of the amount improperly expended (representing the Federal share thereof). The Secretary may use such repaid fund to make additional challenge grants, or to increase existing challenge grants, to other eligible institutions.
 
@@ -120,29 +120,29 @@ Any institution which is eligible for assistance under this section may submit t
 
 (2) If the Secretary terminates a grant under paragraph (1), the grantee shall return to the Secretary an amount equal to the sum of each original grant under this section plus income earned thereon. The Secretary may use such repaid funds to make additional endowment grants, or to increase existing challenge grants, to other eligible institutions under this part.
 
-(Pub. L. 89 329, title III, §331, formerly §332, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100 50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102 325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103 208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458.)
+(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458.)
 
 #### Prior Provisions
 
-A prior section 331 of Pub. L. 89 329, title III, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102 325, §304(a)(2).
+A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
 
-A prior section 1065, Pub. L. 89 329, title III, §332, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1065, Pub. L. 89–329, title III, §332, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1065, Pub. L. 89 329, title IV, §405, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90 575, title I, §101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allotment and reallotment of funds among the States, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92 318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1065, Pub. L. 89–329, title IV, §405, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I, §101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allotment and reallotment of funds among the States, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
-A prior section 1065a, Pub. L. 89 329, title III, §333, as added Pub. L. 98 95, §2, Sept. 26, 1983, 97 Stat. 708, established program of matching grants to increase endowments at eligible institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98–95, §2, Sept. 26, 1983, 97 Stat. 708, established program of matching grants to increase endowments at eligible institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103 208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
+1993—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
 
-1992—Subsec. (a)(1). Pub. L. 102 325, §304(b)(1)(A), struck out “of higher education” after “eligible institutions”.
+1992—Subsec. (a)(1). Pub. L. 102–325, §304(b)(1)(A), struck out “of higher education” after “eligible institutions”.
 
-Subsec. (a)(2)(D). Pub. L. 102 325, §304(b)(1)(B), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 102–325, §304(b)(1)(B), added subpar. (D).
 
-Subsec. (b)(1). Pub. L. 102 325, §304(b)(2), inserted “endowment” before “challenge grants” and struck out “of higher education” after “eligible institutions”.
+Subsec. (b)(1). Pub. L. 102–325, §304(b)(2), inserted “endowment” before “challenge grants” and struck out “of higher education” after “eligible institutions”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 102 325, §304(b)(3), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
+Subsec. (b)(2)(B), (C). Pub. L. 102–325, §304(b)(3), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
 “(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary may make a grant under this part to an eligible institution of higher education if such institution—
 
@@ -152,33 +152,33 @@ Subsec. (b)(2)(B), (C). Pub. L. 102 325, §304(b)(3), amended subpars. (B) and (
 
 “(C) An eligible institution of higher education that is awarded a grant under this section shall not be eligible to reapply for a grant under this section during the 10 years immediately following the period that it received such grant.”
 
-Subsec. (b)(4)(A). Pub. L. 102 325, §304(b)(4), substituted “subsection (a)(2)(D) of this section” for “section 1064(a)(1) of this title”.
+Subsec. (b)(4)(A). Pub. L. 102–325, §304(b)(4), substituted “subsection (a)(2)(D) of this section” for “section 1064(a)(1) of this title”.
 
-Subsec. (b)(4)(B). Pub. L. 102 325, §304(b)(5), substituted “an endowment challenge grant” for “a challenge grant”.
+Subsec. (b)(4)(B). Pub. L. 102–325, §304(b)(5), substituted “an endowment challenge grant” for “a challenge grant”.
 
-Subsec. (b)(5). Pub. L. 102 325, §304(b)(6), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Except as provided in paragraph (2)(B), a challenge grant under this section to an eligible institution year shall—
+Subsec. (b)(5). Pub. L. 102–325, §304(b)(6), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Except as provided in paragraph (2)(B), a challenge grant under this section to an eligible institution year shall—
 
 &emsp;“(A) not be less than $50,000 for any fiscal year; and
 
 &emsp;“(B) not be more than (i) $250,000 for fiscal year 1987; or (ii) $500,000 for fiscal year 1988 or any succeeding fiscal year.”
 
-Subsec. (f)(1). Pub. L. 102 325, §304(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority to an applicant which is a recipient of a grant made under part A or B of this subchapter (or section 1069a of this title) during the academic year in which the applicant is applying for a grant under this section;”.
+Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority to an applicant which is a recipient of a grant made under part A or B of this subchapter (or section 1069a of this title) during the academic year in which the applicant is applying for a grant under this section;”.
 
-Subsec. (g). Pub. L. 102 325, §304(b)(8), inserted “, including a description of the long- and short-term plans for raising and using the funds under this part” before period at end of first sentence.
+Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted “, including a description of the long- and short-term plans for raising and using the funds under this part” before period at end of first sentence.
 
-1987—Subsec. (f)(1). Pub. L. 100 50 inserted “(or section 1069a of this title)”.
+1987—Subsec. (f)(1). Pub. L. 100–50 inserted “(or section 1069a of this title)”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

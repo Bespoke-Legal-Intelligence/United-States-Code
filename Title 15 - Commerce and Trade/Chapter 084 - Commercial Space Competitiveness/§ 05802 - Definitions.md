@@ -18,7 +18,7 @@ For the purpose of this chapter—
 
 &emsp;(6) the term “launch services” means activities involved in the preparation of a launch vehicle and its payload for launch and the conduct of a launch;
 
-&emsp;(7) the term “launch support facilities” means facilities located at launch sites orlaunch ranges that are required to support launch activities, including launch vehicle assembly, launch vehicle operations and control, communications, flight safety functions, and payload operations, control, and processing.<sup>1</sup>
+&emsp;(7) the term “launch support facilities” means facilities located at launch sites or launch ranges that are required to support launch activities, including launch vehicle assembly, launch vehicle operations and control, communications, flight safety functions, and payload operations, control, and processing.<sup>1</sup>
 
 &emsp;(8) the term “launch vehicle” means any vehicle constructed for the purpose of operating in or placing a payload in, outer space or in suborbital trajectories, and includes components of that vehicle;
 
@@ -28,21 +28,21 @@ For the purpose of this chapter—
 
 &emsp;(11) the term “space recovery support facilities” means facilities required to support activities related to the recovery of payloads returned from space to a space recovery site, including operations and control, communications, flight safety functions, and payload processing;
 
-&emsp;(12) the term “space transportation infrastructure” means facilities, associated equipment, and real property, including launch sites, launch support facilities, space recovery sites, and space recovery support facilities, required to perform launch or space recovery activities;
+&emsp;(12) the term “space transportation infrastructure” means facilities, associated equipment, and real property, including launch sites, launch support facilities, space recoverysites, and space recovery support facilities, required to perform launch or space recovery activities;
 
 &emsp;(13) the term “State” means the several States, the District of Columbia, Puerto Rico, American Samoa, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
 
 &emsp;(14) the term “United States” means the States, collectively.
 
-(Pub. L. 102 588, title V, §502, Nov. 4, 1992, 106 Stat. 5123.)
+(Pub. L. 102–588, title V, §502, Nov. 4, 1992, 106 Stat. 5123.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 102 588, Nov. 4, 1992, 106 Stat. 5122, which enacted this chapter and amended section 2454 of Title 42, The Public Health and Welfare, and section 2615 of former Title 49, Transportation. For complete classification of title V to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 102–588, Nov. 4, 1992, 106 Stat. 5122, which enacted this chapter and amended section 2454 of Title 42, The Public Health and Welfare, and section 2615 of former Title 49, Transportation. For complete classification of title V to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 49 section 70301.
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

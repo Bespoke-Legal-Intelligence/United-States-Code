@@ -20,11 +20,11 @@ As used in this chapter, the term—
 
 &emsp;(5) “non-Federal source” means the United States metal casting industry, related industries, industry-related associations, individuals, organizations, universities, State agencies, or other entities supporting the metal casting industry;
 
-&emsp;(6) “metal casting industry” or “industry” means the industries identified by codes numbered 3321, 3322, 3324, 3325, 3363, 3364, 3365, 3366, and 3369, in the Standard Industrial Classification manual<sup>1</sup> published by the Office of Management and Budget in 1987;
+&emsp;(6) “metal casting industry” or “industry” means the industries identified by codes numbered 3321, 3322, 3324, 3325, 3363, 3364, 3365, 3366, and 3369, in the Standard Industrial Classification manual <sup>1</sup> published by the Office of Management and Budget in 1987;
 
 &emsp;(7) “Secretary” means the Secretary of Energy.
 
-(Pub. L. 101 425, §3, Oct. 15, 1990, 104 Stat. 915.)
+(Pub. L. 101–425, §3, Oct. 15, 1990, 104 Stat. 915.)
 
-<i><sup>1</sup></i><i>So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

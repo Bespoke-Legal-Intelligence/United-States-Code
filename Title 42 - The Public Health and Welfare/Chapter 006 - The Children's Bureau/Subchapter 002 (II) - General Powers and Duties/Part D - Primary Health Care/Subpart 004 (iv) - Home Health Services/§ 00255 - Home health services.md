@@ -12,7 +12,7 @@
 
 &emsp;(C) give special consideration to areas with inadequate means of transportation to obtain necessary health services.
 
-(3)(A) No loan may be made to a proprietary entity under this section unless the application of such entity for such loan contains assurances satisfactory to the Secretary that—
+(3)(A) No loan may be made to a proprietary entity under this section unless the applicationof such entity for such loan contains assurances satisfactory to the Secretary that—
 
 &emsp;(i) at the time the application is made the entity is fiscally sound;
 
@@ -80,9 +80,9 @@ Another prior section 339 of act July 1, 1944, ch. 373, title III, formerly §33
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Report to Congress Concerning Results of Studies Evaluating Home and Community Based Health Services; Studies of Reimbursement Methodologies; Investigation of Fraud; Demonstration Projects; Home Health Services, Defined
 
-Section 6(b)–(f) of Pub. L. 97–414 directed Secretary of Health and Human Services to report the results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze the results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and the extent to which such methods are applied and to report the results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine the most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
+Section 6(b)–(f) of Pub. L. 97–414 directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
 

@@ -56,7 +56,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 &emsp;&emsp;&emsp;(i) an offense under—
 
-&emsp;&emsp;&emsp;&emsp;(I) section 215, 656, 657, 1005, 1006, 1007, 1008, 1014, 1032, 1344, 1517, 1956, or 1957 of title 18; or
+&emsp;&emsp;&emsp;&emsp;(I) section 215, 656, 657, 1005, 1006, 1007, 1008,<sup>1</sup> 1014, 1032, 1344, 1517, 1956, or 1957 of title 18; or
 
 &emsp;&emsp;&emsp;&emsp;(II) section 1341 or 1343 of such title which affects any financial institution (as defined in section 20 of such title); or
 
@@ -110,11 +110,15 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 #### (i) Emergency purchase of assets; conversion to insured deposits
 
-(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
+(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings andLoan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
 (June 26, 1934, ch. 750, title II, §205, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 1002; amended Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Mar. 31, 1980, Pub. L. 96–221, title III, §305(d), title V, §523, 94 Stat. 147, 166; Oct. 15, 1982, Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), 96 Stat. 1486, 1489, 1540; Aug. 10, 1987, Pub. L. 100–86, title V, §509(a), 101 Stat. 635; Aug. 9, 1989, Pub. L. 101–73, title IX, §910(b), 103 Stat. 478; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320606, 108 Stat. 2119.)
+
+#### References in Text
+
+Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
 #### Amendments
 
@@ -172,7 +176,7 @@ Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this
 
 #### Definition of “State”
 
-For purposes of subsec. (g) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
+For purposes of subsec. (g) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam,the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
 
 #### Choice of Highest Applicable Interest Rate
 
@@ -181,4 +185,6 @@ In any case in which one or more provisions of, or amendments made by, title V o
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1757 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

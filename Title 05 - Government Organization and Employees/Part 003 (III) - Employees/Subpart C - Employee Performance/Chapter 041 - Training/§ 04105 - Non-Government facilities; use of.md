@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Pub. L. 103–226 struck out subsec. (a) designation and subsecs. (b) and (c), which read as follows:
+<b>1994</b>—Pub. L. 103–226 struck out subsec. (a) designation and subsecs. (b) and (c), which read as follows:
 
 “(b) An agency program for the training of employees by, in, and through non-Government facilities under this chapter shall—
 

@@ -24,7 +24,7 @@ There shall be in the Department of the Treasury a Commissioner of Internal Reve
 
 #### (c) Assistant Commissioner (Taxpayer Services)
 
-There is established within the Internal Revenue Service an office to be known as the “Officefor Taxpayer Services” to be under the supervision and direction of an Assistant Commissioner of the Internal Revenue. The Assistant Commissioner shall be responsible for taxpayer services such as telephone, walk-in, and taxpayer educational services, and the design and production of tax and informational forms.
+There is established within the Internal Revenue Service an office to be known as the “Office for Taxpayer Services” to be under the supervision and direction of an Assistant Commissioner of the Internal Revenue. The Assistant Commissioner shall be responsible for taxpayer services such as telephone, walk-in, and taxpayer educational services, and the design and production of tax and informational forms.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 915; Sept. 2, 1974, Pub. L. 93–406, title II, §1051(a), 88 Stat. 951; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), 90 Stat. 1834; Sept. 13, 1982, Pub. L. 97–258, §2(f)(2), 96 Stat. 1059; Nov. 10, 1988, Pub. L. 100–647, title VI, §6235(a), 102 Stat. 3737.)
 

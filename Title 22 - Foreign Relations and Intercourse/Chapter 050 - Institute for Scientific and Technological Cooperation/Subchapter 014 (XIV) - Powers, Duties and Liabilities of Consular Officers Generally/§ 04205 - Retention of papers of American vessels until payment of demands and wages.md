@@ -1,6 +1,6 @@
 ### §4205. Retention of papers of American vessels until payment of demands and wages
 
-All consular officers are authorized and required to retain in their possession all the papers of vessels of the United States, which shall be deposited with them as directed by law, tillpayment shall be made of all demands and wages on account of such vessels.
+All consular officers are authorized and required to retain in their possession all the papers of vessels of the United States, which shall be deposited with them as directed by law, till payment shall be made of all demands and wages on account of such vessels.
 
 (R.S. §1718.)
 

@@ -30,9 +30,9 @@
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
 
-1991—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
 
 Subsec. (c)(2). Pub. L. 102–40, §403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
 

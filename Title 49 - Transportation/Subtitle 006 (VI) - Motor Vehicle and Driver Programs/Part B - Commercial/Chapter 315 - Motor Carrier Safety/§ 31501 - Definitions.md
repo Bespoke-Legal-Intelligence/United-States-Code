@@ -4,15 +4,15 @@ In this chapter—
 
 &emsp;(1) “migrant worker” means an individual going to or from employment in agriculture as provided under section 3121(g) of the Internal Revenue Code of 1986 (26 U.S.C. 3121(g)) or section 3(f) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(f)).
 
-&emsp;(2) “motor carrier”, “motor common carrier”, “motor private carrier”, “motor vehicle”, and “United States” have the same meanings given those terms in section 10102 of this title.
+&emsp;(2) “motor carrier”, “motor common carrier”, “motor private carrier”, “motor vehicle”, and “United States” have the same meanings given those terms in section 13102 of this title.
 
 &emsp;(3) “motor carrier of migrant workers”—
 
-&emsp;&emsp;(A) means a person (except a motor common carrier) providing transportation referred to in section 10521(a) of this title by a motor vehicle (except a passenger automobile or station wagon) for at least 3 migrant workers at a time to or from their employment; but
+&emsp;&emsp;(A) means a person (except a motor common carrier) providing transportation referred to in section 13501 of this title by a motor vehicle (except a passenger automobile or station wagon) for at least 3 migrant workers at a time to or from their employment; but
 
 &emsp;&emsp;(B) does not include a migrant worker providing transportation for migrant workers and their immediate families.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3101; renumbered §31501 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 103–429, §6(26), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3101; renumbered §31501 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 103–429, §6(26), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(k)(1), (2), Dec. 29, 1995, 109 Stat. 947, 948.)
 
 Historical and Revision Notes
 
@@ -50,9 +50,17 @@ This amends 49:31501(1) to correct an erroneous cross-reference.
 
 #### Amendments
 
+1995—Par. (2). Pub. L. 104–88, §308(k)(1), substituted “13102” for “10102”.
+
+Par. (3)(A). Pub. L. 104–88, §308(k)(2), substituted “13501” for “10521(a)”.
+
 1994—Pub. L. 103–272 renumbered section 3101 of this title as this section and amended it generally, restating it without substantive change.
 
 Par. (1). Pub. L. 103–429 substituted “section 3(f)” for “section 203(f)”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Effective Date of 1994 Amendment
 

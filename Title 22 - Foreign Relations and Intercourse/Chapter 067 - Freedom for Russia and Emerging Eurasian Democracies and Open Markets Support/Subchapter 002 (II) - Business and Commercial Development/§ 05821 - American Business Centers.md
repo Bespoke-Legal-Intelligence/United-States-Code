@@ -56,5 +56,5 @@ Functions of President under subsec. (a) of this section delegated to United Sta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5813 of this title.
+This section is referred to in section 5813 of this title; title 15 section 4729.
 

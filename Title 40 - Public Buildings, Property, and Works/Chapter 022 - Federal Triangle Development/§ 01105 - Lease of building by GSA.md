@@ -18,7 +18,7 @@ The agreement entered into under this section shall include at a minimum the fol
 
 #### (c) Accounting system
 
-The Administrator shall maintain an accounting system for operation and maintenance of thebuilding to be constructed under section 1104 of this title which will permit accurate projections of the dates and the costs of major repairs, improvements, reconstructions, and replacements of such building and other capital expenditures on such building. The Administrator shall take such action as may be necessary to assure that funds are available to cover such projected costs and expenditures.
+The Administrator shall maintain an accounting system for operation and maintenance of the building to be constructed under section 1104 of this title which will permit accurate projections of the dates and the costs of major repairs, improvements, reconstructions, and replacements of such building and other capital expenditures on such building. The Administrator shall take such action as may be necessary to assure that funds are available to cover such projected costs and expenditures.
 
 #### (d) Obligation of funds
 

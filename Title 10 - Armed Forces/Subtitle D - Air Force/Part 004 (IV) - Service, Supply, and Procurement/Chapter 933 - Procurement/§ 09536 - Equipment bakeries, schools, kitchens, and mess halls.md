@@ -1,4 +1,4 @@
-### §9536 . Equipment: bakeries, schools, kitchens, and mess halls
+### §9536. Equipment: bakeries, schools, kitchens, and mess halls
 
 Money necessary for the following items for the use of enlisted members of the Air Force may be spent from appropriations for regular supplies:
 

@@ -12,7 +12,7 @@ In performing any study of an area within a State for the purpose of determining
 
 #### (c) Written agreement
 
-Not later than 60 days after (1) the approval of a site for site characterization for such a repository under section 10132(c) of this title, or (2) the written request of the State or Indian tribe inany affected State notified under section 10136(a) of this title to the Secretary, whichever,<sup>2</sup> first occurs, the Secretary shall seek to enter into a binding written agreement, and shall begin negotiations, with such State and, where appropriate, to enter into a separate binding agreement with the governing body of any affected Indian tribe, setting forth (but not limited to) the procedures under which the requirements of subsections (a) and (b) of this section, and the provisions of such written agreement, shall be carried out. Any such written agreement shall not affect the authority of the Commission under existing law. Each such written agreement shall, to the maximum extent feasible, be completed not later than 6 months after such notification. If such written agreement is not completed within such period, the Secretary shall report to the Congress in writing within 30 days on the status of negotiations to develop such agreement and the reasons why such agreement has not been completed. Prior to submission of such report to the Congress, the Secretary shall transmit such report to the Governor of such State or the governing body of such affected Indian tribe, as the case may be, for their review and comments. Such comments shall be included in such report prior to submission to the Congress. Such written agreement shall specify procedures—
+Not later than 60 days after (1) the approval of a site for site characterization for such a repository under section 10132(c) of this title, or (2) the written request of the State or Indian tribe in any affected State notified under section 10136(a) of this title to the Secretary, whichever,<sup>2</sup> first occurs, the Secretary shall seek to enter into a binding written agreement, and shall begin negotiations, with such State and, where appropriate, to enter into a separate binding agreement with the governing body of any affected Indian tribe, setting forth (but not limited to) the procedures under which the requirements of subsections (a) and (b) of this section, and the provisions of such written agreement, shall be carried out. Any such written agreement shall not affect the authority of the Commission under existing law. Each such written agreement shall, to the maximum extent feasible, be completed not later than 6 months after such notification. Such written agreement shall specify procedures—
 
 &emsp;(1) by which such State or governing body of an affected Indian tribe, as the case may be, may study, determine, comment on, and make recommendations with regard to the possible public health and safety, environmental, social, and economic impacts of any such repository;
 
@@ -30,7 +30,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 &emsp;(8) by which such State may conduct reasonable independent monitoring and testing of activities on the repository site, except that such monitoring and testing shall not unreasonably interfere with or delay onsite activities;
 
-&emsp;(9) for sharing, in accordance with applicable law, of all technical and licensing information, the utilization of available expertise, the facilitating of permit procedures, joint project review, and the formulation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws;
+&emsp;(9) for sharing, in accordance with applicable law, of all technical and licensing information,the utilization of available expertise, the facilitating of permit procedures, joint project review, and the formulation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws;
 
 &emsp;(10) for public notification of the procedures specified under the preceding paragraphs; and
 
@@ -40,9 +40,11 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitored retrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of such representatives shall be paid out of the Waste Fund.
 
-(Pub. L. 97–425, title I, §117, Jan. 7, 1983, 96 Stat. 2222; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(m), Dec. 22, 1987, 101 Stat. 1330–231.)
+(Pub. L. 97–425, title I, §117, Jan. 7, 1983, 96 Stat. 2222; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(m), Dec. 22, 1987, 101 Stat. 1330–231; Pub. L. 104–66, title I, §1051(i), Dec. 21, 1995, 109 Stat. 716.)
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–66 struck out after third sentence “If such written agreement is not completed within such period, the Secretary shall report to the Congress in writing within 30 days on the status of negotiations to develop such agreement and the reasons why such agreement has not been completed. Prior to submission of such report to the Congress, the Secretary shall transmit such report to the Governor of such State or the governing body of such affected Indian tribe, as the case may be, for their review and comments. Such comments shall be included in such report prior to submission to the Congress.”
 
 1987—Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203 amended section identically, adding subsec. (d).
 

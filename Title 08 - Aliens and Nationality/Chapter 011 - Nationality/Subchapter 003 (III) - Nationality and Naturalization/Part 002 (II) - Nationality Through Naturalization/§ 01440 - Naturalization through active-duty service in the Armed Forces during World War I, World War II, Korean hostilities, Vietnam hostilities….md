@@ -36,7 +36,7 @@ Subsec. (b)(2). Pub. L. 101–649, §407(b)(5)(A), substituted “State or distr
 
 Subsec. (b)(3), (4). Pub. L. 101–649, §407(b)(5)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which authorized filing of petition in any court having naturalization jurisdiction.
 
-1988—Subsec. (d). Pub. L. 100–525 struck out subsec. (d) which read as follows: “The eligibility for naturalization of any person who filed a petition for naturalization prior to January 1, 1947, under section 701 of the Nationality Act of 1940, as amended (56 Stat. 182, 58 Stat. 886, 59 Stat. 658), and which is still pending on the effective date of this chapter, shall be determined in accordance with the provisions of this section.”
+1988—Subsec. (d). Pub. L. 100–525 struck out subsec. (d) which read as follows: “The eligibility for naturalization of any person who filed a petition for naturalization prior to January 1, 1947, under section 701 of the Nationality Act of 1940, as amended (56 Stat. 182, 58Stat. 886, 59 Stat. 658), and which is still pending on the effective date of this chapter, shall be determined in accordance with the provisions of this section.”
 
 1981—Subsec. (b)(5). Pub. L. 97–116 struck out par. (5) which provided that, notwithstanding section 1447(c) of this title, the petitioner may be naturalized immediately if prior to the filing of the petition the petitioner and the witnesses have appeared before and been examined by a representative of the Service.
 
@@ -126,7 +126,7 @@ Act June 30, 1950, ch. 443, §4, 64 Stat. 316, as amended June 27, 1952, ch. 477
 
 Ex. Ord. No. 12081, Sept. 18, 1978, 43 F.R. 42237, provided:
 
-By the authority vested in me as President of the United States of America by Section 329 of the Immigration and Nationality Act, as amended by Sections 1 and 2 of the Act of October 24, 1968 (82 Stat. 1343; 8 U.S.C. 1440), and by the authority of Section 3 of that Act of October 24, 1968 (82 Stat. 1344; 8 U.S.C. 1440e), it is hereby ordered that the statutory period of Vietnam hostilities which began on February 28, 1961, shall be deemed to have terminated on October 15, 1978, for the purpose of ending the period in which active-duty service in the Armed Forces qualifies for certain exemptions from the usual requirements for naturalization, including length of residence and fees.
+By the authority vested in me as President of the United States of America by Section 329 of the Immigration and Nationality Act, as amended by Sections 1 and 2 of the Act of October 24, 1968 (82 Stat. 1343; 8 U.S.C. 1440), and by the authority of Section 3 of that Act of October 24, 1968 (82 Stat. 1344; 8 U.S.C. 1440e), it is hereby ordered that the statutory period of Vietnam hostilities which began on February 28, 1961, shall bedeemed to have terminated on October 15, 1978, for the purpose of ending the period in which active-duty service in the Armed Forces qualifies for certain exemptions from the usual requirements for naturalization, including length of residence and fees.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

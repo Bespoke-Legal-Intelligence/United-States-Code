@@ -1,4 +1,4 @@
-### §353 . Compulsory retirement at age of sixty-two
+### §353. Compulsory retirement at age of sixty-two
 
 Any enlisted member who has reached the age of sixty-two shall be retired from active service.
 

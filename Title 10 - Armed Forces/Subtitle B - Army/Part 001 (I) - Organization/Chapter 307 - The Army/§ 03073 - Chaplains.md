@@ -1,4 +1,4 @@
-### §3073 . Chaplains
+### §3073. Chaplains
 
 There are chaplains in the Army. The Chaplains include—
 

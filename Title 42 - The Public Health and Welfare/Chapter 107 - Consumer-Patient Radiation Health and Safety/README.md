@@ -11,7 +11,7 @@
 | (a) | Implementation by Secretary. |
 | (b) | Accreditation or certification program. |
 | (c) | Noncompliance; proposed legislative changes. |
-| (d) | Monitoring; report to Congress. |
+| (d) | Repealed. |
 | (e) | Existing standards and guidelines. |
 | [10007\.](%C2%A7%2010007%20-%20Federal%20radiation%20guidelines.md) | Federal radiation guidelines. |
 | [10008\.](%C2%A7%2010008%20-%20Applicability%20to%20Federal%20agencies.md) | Applicability to Federal agencies. |

@@ -56,7 +56,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (2) Standard for approval
 
-&emsp;The Secretary may approve a loan for guarantee under this section and issue a certificateunder this paragraph only if the Secretary determines there is a reasonable prospect of repayment of the loan.
+&emsp;The Secretary may approve a loan for guarantee under this section and issue a certificate under this paragraph only if the Secretary determines there is a reasonable prospect of repayment of the loan.
 
 #### (3) Effect
 
@@ -64,7 +64,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (4) Fraud and misrepresentation
 
-&emsp;This subsection may not be construed to preclude the Secretary from establishing defenses against the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
+&emsp;This subsection may not be construed to preclude the Secretary from establishing defensesagainst the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
 
 #### (d) Guarantee fee
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of thepro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
@@ -186,7 +186,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (j) Requirements for standard housing
 
-The Secretary shall, by regulation, establish housing safety and quality standards for useunder this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
+The Secretary shall, by regulation, establish housing safety and quality standards for use under this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
 
 &emsp;(1) be decent, safe, sanitary, and modest in size and design;
 

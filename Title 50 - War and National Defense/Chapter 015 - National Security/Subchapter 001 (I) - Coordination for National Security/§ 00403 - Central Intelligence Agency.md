@@ -22,7 +22,7 @@ To assist the Director of Central Intelligence in carrying out the Director's re
 
 (2) It is the sense of the Congress that under ordinary circumstances, it is desirable that either the Director or the Deputy Director be a commissioned officer of the Armed Forces or that either such appointee otherwise have, by training or experience, an appreciation of military intelligence activities and requirements.
 
-(3)(A) A commissioned officer of the Armed Forces appointed pursuant to paragraph (2) or (3),<sup>1</sup> while serving in such position—
+(3)(A) A commissioned officer of the Armed Forces appointed to the position of Director or Deputy Director, while serving in such position—
 
 &emsp;(i) shall not be subject to supervision or control by the Secretary of Defense or by any officer or employee of the Department of Defense;
 
@@ -30,15 +30,15 @@ To assist the Director of Central Intelligence in carrying out the Director's re
 
 &emsp;(iii) shall not be counted against the numbers and percentages of commissioned officers of the rank and grade of such officer authorized for the military department of which such officer is a member.
 
-(B) Except as provided in clause (i) or (ii) of paragraph (A), the appointment of a commissioned officer of the Armed Forces pursuant to paragraph (2) or (3) <sup>1</sup> shall in no way affect the status, position, rank, or grade of such officer in the Armed Forces, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, position, rank, or grade.
+(B) Except as provided in clause (i) or (ii) of subparagraph (A), the appointment of a commissioned officer of the Armed Forces to the position of Director or Deputy Director shall in no way affect the status, position, rank, or grade of such officer in the Armed Forces, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, position, rank, or grade.
 
-(C) A commissioned officer of the Armed Forces appointed pursuant to subsection (a) or (b) of this section, while serving in such position, shall continue to receive military pay and allowances (including retired pay) payable to a commissioned officer of the officer's grade and length of service for which the appropriate military department shall be reimbursed from funds available to the Director of Central Intelligence.
+(C) A commissioned officer of the Armed Forces on active duty who is appointed to the position of Director or Deputy Director, while serving in such position and while remaining on active duty, shall continue to receive military pay and allowances and shall not receive the pay prescribed for the Director or Deputy Director. Funds from which such pay and allowances are paid shall be reimbursed from funds available to the Director.
 
 #### (d) Office of Director within Agency
 
 The Office of the Director of Central Intelligence shall, for administrative purposes, be within the Central Intelligence Agency.
 
-(July 26, 1947, ch. 343, title I, §102, 61 Stat. 497; Apr. 4, 1953, ch. 16, 67 Stat. 19; Oct. 24, 1992, Pub. L. 102–496, title VII, §704, 106 Stat. 3189.)
+(July 26, 1947, ch. 343, title I, §102, 61 Stat. 497; Apr. 4, 1953, ch. 16, 67 Stat. 19; Oct. 24, 1992, Pub. L. 102–496, title VII, §704, 106 Stat. 3189; Jan. 6, 1996, Pub. L. 104–93, title VII, §701, 109 Stat. 977.)
 
 #### References in Text
 
@@ -46,7 +46,13 @@ This Act, referred to in subsec. (b), means act July 26, 1947, ch. 343, 61 Stat.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–496 designated existing provisions as par. (1), struck out “under the NationalSecurity Council” after “established”, struck out “with a Director of Central Intelligence who shall be the head thereof, and with a Deputy Director of Central Intelligence who shall act for, and exercise the powers of, the Director during his absence or disability” after “Agency”, struck out after first sentence “The Director and the Deputy Director shall be appointed by the President, by and with the advice and consent of the Senate, from among the commissioned officers of the armed services, whether in an active or retired status, or from among individuals in civilian life: <i>Provided, however</i>, That at no time shall the two positions of the Director and Deputy Director be occupied simultaneously by commissioned officers of the armed services, whether in an active or retired status.”, and added par. (2).
+1996—Subsec. (c)(3)(A). Pub. L. 104–93, §701(b)(1), substituted “to the position of Director or Deputy Director” for “pursuant to paragraph (2) or (3)”.
+
+Subsec. (c)(3)(B). Pub. L. 104–93, §701(b), substituted “to the position of Director or Deputy Director” for “pursuant to paragraph (2) or (3)” and “subparagraph (A)” for “paragraph (A)”.
+
+Subsec. (c)(3)(C). Pub. L. 104–93, §701(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “A commissioned officer of the ArmedForces appointed pursuant to subsection (a) or (b) of this section, while serving in such position, shall continue to receive military pay and allowances (including retired pay) payable to a commissioned officer of the officer's grade and length of service for which the appropriate military department shall be reimbursed from funds available to the Director of Central Intelligence.”
+
+1992—Subsec. (a). Pub. L. 102–496 designated existing provisions as par. (1), struck out “under the National Security Council” after “established”, struck out “with a Director of Central Intelligence who shall be the head thereof, and with a Deputy Director of Central Intelligence who shall act for, and exercise the powers of, the Director during his absence or disability” after “Agency”, struck out after first sentence “The Director and the Deputy Director shall be appointed by the President, by and with the advice and consent of the Senate, from among the commissioned officers of the armed services, whether in an active or retired status, or from among individuals in civilian life: <i>Provided, however</i>, That at no time shall the two positions of the Director and Deputy Director be occupied simultaneously by commissioned officers of the armed services, whether in an active or retired status.”, and added par. (2).
 
 Subsecs. (b) to (f). Pub. L. 102–496, §704(3), added subsecs. (b) to (d) and struck out former subsecs. (b) to (f) which related to, in subsec. (b), commissioned officers of the Armed Forces serving as Director or Deputy Director, powers and limitations, and effect on commissioned status, in subsec. (c), termination of employment of officers and employees and effect on right of subsequent employment, in subsec. (d), powers and duties of Agency, in subsec. (e), inspection of intelligence of other departments, and in subsec. (f), termination of National Intelligence Authority along with transfer of personnel, property, records, and unexpended funds.
 
@@ -122,7 +128,7 @@ Conditions.—The following conditions and certifications must be met before the
 
 &emsp;&emsp;“(A) a comprehensive site evaluation, including zoning, site engineering, and environmental requirements, logistics, physical and technical security, and communications compatibility;
 
-&emsp;&emsp;“(B) a description of the anticipated effect of implementing the consolidation plan on personnel of the Central Intelligence Agency, including a discussion of the organizations and personnel that will be relocated and the rationale for such relocations and the Director's assurance that personnel are consulted and considered in the consolidation effort; and
+&emsp;&emsp;“(B) a description of the anticipated effect of implementing the consolidation plan on personnel ofthe Central Intelligence Agency, including a discussion of the organizations and personnel that will be relocated and the rationale for such relocations and the Director's assurance that personnel are consulted and considered in the consolidation effort; and
 
 &emsp;&emsp;“(C) the Director's assurances that the Director, in evaluating and approving the plan, has considered global changes and budget constraints that may have the effect of reducing Central Intelligence Agency personnel requirements in the future.
 
@@ -187,6 +193,4 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 #### Section Referred to in Other Sections
 
 This section is referred to in section 411 of this title; title 5 section 2305; title 42 section 2162.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a) or (b)”.</i>
 

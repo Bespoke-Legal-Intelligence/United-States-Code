@@ -42,7 +42,7 @@ If a laboratory performing the inspection and testing under subsection (b)(1) of
 
 &emsp;(5) bear the original signature of a laboratory employee or officer determined by the Secretary to be responsible for the accuracy of the report and of the inspection and testing to which it relates.
 
-(Pub. L. 101 592, §5, Nov. 16, 1990, 104 Stat. 2945.)
+(Pub. L. 101–592, §5, Nov. 16, 1990, 104 Stat. 2945.)
 
 #### Section Referred to in Other Sections
 

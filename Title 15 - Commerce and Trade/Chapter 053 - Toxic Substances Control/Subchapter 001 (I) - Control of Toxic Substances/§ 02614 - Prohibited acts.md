@@ -10,11 +10,11 @@ It shall be unlawful for any person to—
 
 &emsp;(4) fail or refuse to permit entry or inspection as required by section 2610 of this title.
 
-(Pub. L. 94 469, title I, §15, Oct. 11, 1976, 90 Stat. 2036; renumbered title I and amended Pub. L. 99 519, §3(b)(1), (c)(1), Oct. 22, 1986, 100 Stat. 2988, 2989.)
+(Pub. L. 94–469, title I, §15, Oct. 11, 1976, 90 Stat. 2036; renumbered title I and amended Pub. L. 99–519, §3(b)(1), (c)(1), Oct. 22, 1986, 100 Stat. 2988, 2989.)
 
 #### Amendments
 
-1986—Par. (1)(D). Pub. L. 99 519 added cl. (D).
+1986—Par. (1)(D). Pub. L. 99–519 added cl. (D).
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ The report required by subsection (a) of this section shall contain such recomme
 
 #### (c) Review of other Federal programs; report to Congress
 
-(1) The Secretary shall conduct a systematic review of Federal programs, other than this chapter, that affect coastal resources for purposes of identifying conflicts between the objectives and administration of such programs and the purposes and policies of this chapter. Not later than 1 year after October 17, 1980, the Secretary shall notify each Federal agency having appropriate jurisdiction of any conflict between its program and the purposes and policies of this chapter identified as a result of such review.
+(1) The Secretary shall conduct a systematic review of Federal programs, other than this chapter, that affect coastal resources for purposes of identifying conflicts between the objectives and administration of such programs andthe purposes and policies of this chapter. Not later than 1 year after October 17, 1980, the Secretary shall notify each Federal agency having appropriate jurisdiction of any conflict between its program and the purposes and policies of this chapter identified as a result of such review.
 
 (2) The Secretary shall promptly submit a report to the Congress consisting of the information required under paragraph (1) of this subsection. Such report shall include recommendations for changes necessary to resolve existing conflicts among Federal laws and programs that affect the uses of coastal resources.
 
@@ -38,7 +38,7 @@ Section 16 of Pub. L. 94–370 provided that:
 
 > The Secretary of Commerce shall, not later than April 30, 1977, submit a report to the Congress of the findings, comments, and recommendations (if any) which result from such review and evaluation.
 
-“(b) The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall not promulgatefinal regulations concerning the national shellfish safety program before June 30, 1977. At least 60 days prior to the promulgation of any such regulations, the Secretary of Health, Education, and Welfare, in consultation with the Secretary of Commerce, shall publish an analysis (1) of the economic impact of such regulations on the domestic shellfish industry, and (2) the cost of such national shellfish safety program relative to the benefits that it is expected to achieve.”
+“(b) The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall not promulgate final regulations concerning the national shellfish safety program before June 30, 1977. At least 60 days prior to the promulgation of any such regulations, the Secretary of Health, Education, and Welfare, in consultation with the Secretary of Commerce, shall publish an analysis (1) of the economic impact of such regulations on the domestic shellfish industry, and (2) the cost of such national shellfish safety program relative to the benefits that it is expected to achieve.”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Funds obligated under this section before December 16, 1980, which constitute a 
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–71, which directed that the second par. be struck out and a new one-sentence par. be inserted, was executed to reflect the probable intent of Congress by substituting the new sentence for the third sentence which read as follows: “Funds authorized to be appropriated by section 2771(a) of this title to carry out this chapter which are allocated for credits at market rates of interest may be used to pay claims under such guarantees to the extent funds in the Guaranty Reserve Fund are inadequate for that purpose.”
+1987—Subsec. (c). Pub. L. 100–71, which directed that the second par. be struck out and a new one-sentence par. be inserted, was executed to reflect the probable intent of Congress by substituting the new sentence for the third sentence which read as follows: “Funds authorized to be appropriated by section 2771(a) of thistitle to carry out this chapter which are allocated for credits at market rates of interest may be used to pay claims under such guarantees to the extent funds in the Guaranty Reserve Fund are inadequate for that purpose.”
 
 1985—Subsec. (c). Pub. L. 99–83 inserted provisions authorizing the single reserve to be termed the “Guaranty Reserve Fund”, and substituted provisions relating to payment of claims under guarantees, for provisions relating to report to Congress respecting any payment of claims reducing the single reserve.
 
@@ -46,9 +46,7 @@ Functions of President under this section delegated to Secretary of Defense, wit
 
 Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93, provided that the authority and conditions provided under the heading “Foreign Military Sales Debt Reform” in H.R. 2621, One Hundred Second Congress, 1st session, as passed by the House of Representatives on June 19, 1991, shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided under the heading “Foreign Military Sales Debt Reform” in Pub. L. 101–513 \[set out below\]. Provisions under the heading “Foreign Military Sales Debt Reform” in H.R. 2621, as referred to above, provided that: “Subsection (b) under the heading ‘Foreign Military Sales Debt Reform’ in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 \[Pub. L. 100–202, §101(e) \[title III, §301\], set out below\], is hereby repealed.”
 
-Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1999, provided that: “Funds made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 \[Pub. L. 100–202, §101(e) \[title III\], set out below\], for obligation and expenditure after October 1, 1988, subject to a Presidential budget request, under the heading ‘Foreign Military Sales Debt Reform’, subsection (b) ‘Interest Rate Reduction’ shall be available, subject to the same conditions and provisos, only after October 1, 1991.”
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1999, provided that: “Funds made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 \[Pub. L. 100–202, §101(e) \[title III\], set out below\], for obligation and expenditure after October 1, 1988, subject to a Presidential budget request, under the heading ‘Foreign Military Sales Debt Reform’, subsection (b) ‘Interest Rate Reduction’ shall be available, subject to the same conditions and provisos, only after October 1, 1991.” Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214.
 

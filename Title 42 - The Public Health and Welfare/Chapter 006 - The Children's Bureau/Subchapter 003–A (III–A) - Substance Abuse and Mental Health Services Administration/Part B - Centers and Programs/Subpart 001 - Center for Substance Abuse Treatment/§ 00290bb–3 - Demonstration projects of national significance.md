@@ -28,7 +28,7 @@ Grants under subsection (a) of this section shall be awarded to—
 
 &emsp;(6) in the case of drug abusers who are at risk of HIV infection, projects to conduct outreach activities to the individuals regarding the prevention of exposure to and the transmission of the human immunodefiency <sup>2</sup> virus, and to encourage the individuals to seek treatment for such abuse; and
 
-&emsp;(7) projects to determine the long-term efficacy of the projects described in this section and to disseminate to appropriate public and private entities information on the projects that have been effective.
+&emsp;(7) projects to determine the long-term efficacy of the projects described in this sectionand to disseminate to appropriate public and private entities information on the projects that have been effective.
 
 #### (c) Preferences in making grants
 

@@ -64,7 +64,7 @@ The functions and activities of the program shall include, at a minimum—
 
 (4) Individuals selected for participation in the program may be provided with a stipend to cover travel and accommodations from grant funds awarded pursuant to this section in such amounts as the Administrator determines to be appropriate.
 
-(Pub. L. 101 619, §5, Nov. 16, 1990, 104 Stat. 3328.)
+(Pub. L. 101–619, §5, Nov. 16, 1990, 104 Stat. 3328.)
 
 #### Section Referred to in Other Sections
 

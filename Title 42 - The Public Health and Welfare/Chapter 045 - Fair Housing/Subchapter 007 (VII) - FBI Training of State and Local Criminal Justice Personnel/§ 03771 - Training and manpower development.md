@@ -54,9 +54,11 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 #### Annual Outstanding Student Award
 
-Pub. L. 103–329, title I, Sept. 30, 1994, 108 Stat. 2383, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
+Pub. L. 104–52, title I, Nov. 19, 1995, 109 Stat. 470, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–329, title I, Sept. 30, 1994, 108 Stat. 2383.
 
 Pub. L. 103–123, title I, Oct. 28, 1993, 107 Stat. 1227.
 
@@ -70,7 +72,7 @@ Pub. L. 101–136, title I, Nov. 3, 1989, 103 Stat. 784.
 
 #### Travel and Subsistence Expenses of State and Local Law Enforcement Officers Attending Meetings, Courses, Etc., at FBI National Academy
 
-Pub. L. 99–500, §101(b) \[title II\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–48, and Pub. L. 99–591, §101(b) \[title II\], Oct.30, 1986, 100 Stat. 3341–39, 3341–48, provided that: “Notwithstanding section 1345 of title 31, United States Code, funds made available to the Drug Enforcement Administration in any fiscal year may be used for travel, transportation, and subsistence expenses of State, county, and local law enforcement officers attending conferences, meetings, and training courses at the FBI Academy, Quantico, Virginia.”
+Pub. L. 99–500, §101(b) \[title II\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–48, and Pub. L. 99–591, §101(b) \[title II\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–48, provided that: “Notwithstanding section 1345 of title 31, United States Code, funds made available to the Drug Enforcement Administration in any fiscal year may be used for travel, transportation, and subsistence expenses of State, county, and local law enforcement officers attending conferences, meetings, and training courses at the FBI Academy, Quantico, Virginia.”
 
 #### Fees To Provide Training for State and Local Law Enforcement Officers at FBI National Academy; Prohibition; Reimbursement
 

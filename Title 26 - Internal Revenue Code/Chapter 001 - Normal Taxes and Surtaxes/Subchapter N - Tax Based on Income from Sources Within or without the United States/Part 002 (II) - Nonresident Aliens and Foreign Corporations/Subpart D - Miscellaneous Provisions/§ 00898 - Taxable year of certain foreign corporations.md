@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The ownership requirements of this paragraph are met with respect to any foreigncorporation if a United States shareholder owns, on each testing day, more than 50 percent of—
+&emsp;&emsp;The ownership requirements of this paragraph are met with respect to any foreign corporation if a United States shareholder owns, on each testing day, more than 50 percent of—
 
 &emsp;&emsp;&emsp;(i) the total voting power of all classes of stock of such corporation entitled to vote, or
 
@@ -90,7 +90,7 @@ Section 7401(d) of Pub. L. 101–239 provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section and amending section 563 of this title\] shall apply to taxable years of foreign corporations beginning after July 10, 1989.
+In general.—The amendments made by this section \[enacting this section and amending section 563 ofthis title\] shall apply to taxable years of foreign corporations beginning after July 10, 1989.
 
 “(2)
 

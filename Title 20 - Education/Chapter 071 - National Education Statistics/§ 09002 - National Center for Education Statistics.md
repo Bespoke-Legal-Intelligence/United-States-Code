@@ -20,7 +20,7 @@ There is established, within the Office of Educational Research and Improvement 
 
 &emsp;The Commissioner may appoint such Associate Commissioners as the Commissioner determines are necessary and appropriate.
 
-(Pub. L. 103 382, title IV, §403, Oct. 20, 1994, 108 Stat. 4030.)
+(Pub. L. 103–382, title IV, §403, Oct. 20, 1994, 108 Stat. 4030.)
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Lands eligible for enrollment in the program pursuant to section 3838b of this t
 
 &emsp;(6) in consultation with the Secretary, other areas recommended by the Administrator of the Environmental Protection Agency or the Secretary of the Interior;
 
-&emsp;(7) lands that are not located within the designated or approved areas but that are located such that if permitted to continue to operate under existing management practices would defeat the purpose of the program as determined by the Secretary; or
+&emsp;(7) lands that are not located within the designated or approved areas but that are locatedsuch that if permitted to continue to operate under existing management practices would defeat the purpose of the program as determined by the Secretary; or
 
 &emsp;(8) areas contributing to identified water quality problems in areas designated by the Secretary.
 

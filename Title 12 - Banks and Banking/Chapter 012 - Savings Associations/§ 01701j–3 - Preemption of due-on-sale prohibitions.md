@@ -32,13 +32,13 @@ For the purpose of this section—
 
 (2)(A) For any contract to which subsection (b) of this section does not apply pursuant to this subsection, a lender may require any successor or transferee of the borrower to meet customary credit standards applied to loans secured by similar property, and the lender may declare the loan due and payable pursuant to the terms of the contract upon transfer to any successor or transferee of the borrower who fails to meet such customary credit standards.
 
-(B) A lender may not exercise its option pursuant to a due-on-sale clause in the case of a transfer of a real property loan which is subjectto this subsection where the transfer occurred prior to October 15, 1982.
+(B) A lender may not exercise its option pursuant to a due-on-sale clause in the case of a transfer of a real property loan which is subject to this subsection where the transfer occurred prior to October 15, 1982.
 
 (C) This subsection does not apply to a loan which was originated by a Federal savings and loan association or Federal savings bank.
 
 #### (d) Exemption of specified transfers or dispositions
 
-With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender may not exercise its option pursuant to a due-on-sale clause upon—
+With respect to a real property loan secured by a lien on residential real property containingless than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender may not exercise its option pursuant to a due-on-sale clause upon—
 
 &emsp;(1) the creation of a lien or other encumbrance subordinate to the lender's security instrument which does not relate to a transfer of rights of occupancy in the property;
 

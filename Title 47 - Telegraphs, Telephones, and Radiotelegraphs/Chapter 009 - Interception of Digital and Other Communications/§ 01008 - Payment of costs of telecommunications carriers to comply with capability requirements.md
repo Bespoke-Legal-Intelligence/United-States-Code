@@ -8,7 +8,7 @@ The Attorney General may, subject to the availability of appropriations, agree t
 
 #### (1) Determinations of reasonably achievable
 
-&emsp;The Commission, on petition from a telecommunications carrier or any other interested person, and after notice to the AttorneyGeneral, shall determine whether compliance with the assistance capability requirements of section 1002 of this title is reasonably achievable with respect to any equipment, facility, or service installed or deployed after January 1, 1995. The Commission shall make such determination within 1 year after the date such petition is filed. In making such determination, the Commission shall determine whether compliance would impose significant difficulty or expense on the carrier or on the users of the carrier's systems and shall consider the following factors:
+&emsp;The Commission, on petition from a telecommunications carrier or any other interested person, and after notice to the Attorney General, shall determine whether compliance with the assistance capability requirements of section 1002 of this title is reasonably achievable with respect to any equipment, facility, or service installed or deployed after January 1, 1995. The Commission shall make such determination within 1 year after the date such petition is filed. In making such determination, the Commission shall determine whether compliance would impose significant difficulty or expense on the carrier or on the users of the carrier's systems and shall consider the following factors:
 
 &emsp;&emsp;(A) The effect on public safety and national security.
 
@@ -66,7 +66,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 &emsp;&emsp;&emsp;(iii) the direct costs of deploying or installing such capabilities or capacities;
 
-&emsp;&emsp;(B) in the case of any modification that may be used for any purpose other than lawfully authorized electronic surveillance by a law enforcement agency of a government, permit recovery of only the incremental cost of making the modification suitable for such law enforcement purposes; and
+&emsp;&emsp;(B) in the case of any modification that may be used for any purpose other than lawfully authorized electronic surveillance by a law enforcement agency of a government,permit recovery of only the incremental cost of making the modification suitable for such law enforcement purposes; and
 
 &emsp;&emsp;(C) maintain the confidentiality of trade secrets.
 
@@ -78,7 +78,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principallyto chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ A State's application shall contain appropriate assurances that—
 
 &emsp;&emsp;(B) on the basis of the financial need of such individuals; and
 
-&emsp;&emsp;(C) in amounts sufficient to cover the cost of application, assessment, and credentialing (including, at the option of the State, any training necessary for credentialing) for the Child Development Associate credential for such individuals;
+&emsp;&emsp;(C) in amounts sufficient to cover the cost of application, assessment, and credentialing (including, at the option of the State, any training necessary for credentialing) for theChild Development Associate credential for such individuals;
 
 &emsp;(2) not more than 35 percent of the funds received under this chapter by a State may be used to provide scholarship assistance under paragraph (1) to cover the cost of training described in paragraph (1)(C); and
 

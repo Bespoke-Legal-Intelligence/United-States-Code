@@ -1,0 +1,32 @@
+### §2272. Volunteers for Department of Agriculture programs
+
+#### (a) Establishment of program
+
+The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) may establish a program to use volunteers in carrying out the programs of the Department of Agriculture.
+
+#### (b) Acceptance of personnel
+
+The Secretary may accept, subject to regulations issued by the Office of Personnel Management, voluntary service for the Department of Agriculture for such purpose if the service:
+
+&emsp;(1) is to be without compensation; and
+
+&emsp;(2) will not be used to displace any employee of the Department of Agriculture including the local, county, and State committees established under section 590h(b) of title 16.
+
+#### (c) Federal employee status
+
+Any individual who provides voluntary service under this section shall not be considered a Federal employee, except for purposes of chapter 81 of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
+
+(Pub. L. 97–98, title XV, §1526, Dec. 22, 1981, 95 Stat. 1337.)
+
+#### Effective Date
+
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
+
+#### Authorization of Appropriations
+
+Section 1527 of Pub. L. 97–98 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle \[enacting this section\], such sums to remain available until expended.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2272a of this title.
+

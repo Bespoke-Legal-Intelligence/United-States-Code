@@ -34,7 +34,7 @@ For purposes of this division:
 
 #### Severability
 
-Section 904 of title IX of Pub. L. 102–486 provided that: “If any provision of this title \[see Tables for classification\], or the amendments made by this title, or the application of any provision to any entity, person, or circumstance, is for any reason adjudged by a court of competent jurisdiction to be invalid, the remainder of this title, and the amendments made by this title, or its application shall not be affected.”
+Section 904 of title IX of Pub. L. 102–486 provided that: “If any provision of this title \[see Tables for classification\], or the amendments made by this title, or the application of any provision to any entity, person,or circumstance, is for any reason adjudged by a court of competent jurisdiction to be invalid, the remainder of this title, and the amendments made by this title, or its application shall not be affected.”
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ As used in this chapter:
 
 &emsp;(6) The term “community-based organization” means any such organization of demonstrated effectiveness described in section 1503(5) of title 29.
 
-&emsp;(7) The term “construction” includes construction of new buildings and acquisition, and expansion, remodeling, and alternation<sup>1</sup> of existing buildings, and includes site grading and improvement and architect fees.
+&emsp;(7) The term “construction” includes construction of new buildings and acquisition, and expansion, remodeling, and alternation <sup>1</sup> of existing buildings, and includes site grading and improvement and architect fees.
 
 &emsp;(8) The term “cooperative education” means a method of instruction of vocational education for individuals who, through written cooperative arrangements between the school and employers, receive instruction, including required academic courses and related vocational instruction by alternation of study in school with a job in any occupational field. Such alternation shall be planned and supervised by the school and employers so that each contributes to the student's education and to his or her employability. Work periods and school attendance may be on alternate half days, full days, weeks, or other periods of time in fulfilling the cooperative program.
 
@@ -78,13 +78,13 @@ As used in this chapter:
 
 &emsp;(19) The term “individual with handicaps” means any individual who is an individual with any disability (as defined in section 12102(2) of title 42).
 
-&emsp;(20) The term “intermediate educational agency” means a combination of school districts or counties (as defined in section 8801 of title 20) as are recognized in a State as an administrative agency for such State's vocational or technical education schools or for vocational programs within its public elementary or secondary schools. Such term includes any other public institution or agency having administrative control and direction over a public elementary or secondary school.
+&emsp;(20) The term “intermediate educational agency” means a combination of school districts or counties (as defined in section 8801 of title 20) as are recognized in a State as an administrative agency for such State's vocational or technical education schools or for vocational programs within its public elementary or secondary schools. Such term includes any other public institution or agency havingadministrative control and direction over a public elementary or secondary school.
 
-&emsp;(21) The term “limited English proficiency” has the meaning given such term in section 7601(8)<sup>2</sup> of this title.
+&emsp;(21) The term “limited English proficiency” has the meaning given such term in section 7601(8) <sup>2</sup> of this title.
 
 &emsp;(22) The term “local educational agency” means a board of education or other legally constituted local school authority having administrative control and direction of public elementary or secondary schools in a city, county, township, school district, or political subdivision in a State, or any other public educational institution or agency having administrative control and direction of a vocational education program. For the purposes of sections 2324, 2325, 2326, 2327, and 2343 of this title, such term shall include a State corrections educational agency.
 
-&emsp;(23) The term “postsecondary educational institution” means an institution legally authorized to provide postsecondary education within a State, a Bureau of Indian Affairs controlled postsecondary institution, or any postsecondary educational institution operated by or on behalf of any Indian tribe which is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] or under the Act of April 16, 1934 \[25 U.S.C. 452 457\].
+&emsp;(23) The term “postsecondary educational institution” means an institution legally authorized to provide postsecondary education within a State, a Bureau of Indian Affairs controlled postsecondary institution, or any postsecondary educational institution operated by or on behalf of any Indian tribe which is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] or under the Act of April 16, 1934 \[25 U.S.C. 452–457\].
 
 &emsp;(24) The term “preparatory services” means services, programs, or activities designed to assist individuals who are not enrolled in vocational education programs in the selection of, or preparation for participation in, an appropriate vocational education or training program, such as—
 
@@ -148,13 +148,13 @@ As used in this chapter:
 
 &emsp;(39) The term “technology education” means an applied discipline designed to promote technological literacy which provides knowledge and understanding of the impacts of technology including its organizations, techniques, tools and skills to solve practical problems and extend human capabilities in areas such as construction, manufacturing, communication, transportation, power and energy.
 
-&emsp;(40) The term “tribally controlled community college” means an institution which receives assistance under the Tribally Controlled Community College Assistance Act of 1976<sup>3</sup> \[25 U.S.C. 1801 et seq.\] or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
+&emsp;(40) The term “tribally controlled community college” means an institution which receives assistance under the Tribally Controlled Community College Assistance Act of 1976 <sup>3</sup> \[25 U.S.C. 1801 et seq.\] or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
 
 &emsp;(41) The term “vocational education” means organized educational programs offering a sequence of courses which are directly related to the preparation of individuals in paid or unpaid employment in current or emerging occupations requiring other than a baccalaureate or advanced degree. Such programs shall include competency-based applied learning which contributes to an individual's academic knowledge, higher-order reasoning, and problem-solving skills, work attitudes, general employability skills, and the occupational-specific skills necessary for economic independence as a productive and contributing member of society. Such term also includes applied technology education.
 
 &emsp;(42) The term “vocational student organizations” means those organizations for individuals enrolled in vocational education programs which engage in activities as an integral part of the instructional program. Such organizations may have State and national units which aggregate the work and purposes of instruction in vocational education at the local level.
 
-(Pub. L. 88 210, title V, §521, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99 159, title VII, §713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101 392, title V, §502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103 382, title III, §391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025.)
+(Pub. L. 88–210, title V, §521, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, §713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, §502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103–382, title III, §391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025.)
 
 #### References in Text
 
@@ -164,33 +164,33 @@ The Social Security Act, referred to in par. (14)(B)(iii), is act Aug. 14, 1935,
 
 Section 7601(8) of this title, referred to in par. (21), was in the original section 7004(a) of the Elementary and Secondary Education Act of 1965, and was translated as if it read section 7501(8) of that Act to reflect the probable intent of Congress, because the Elementary and Secondary Education Act of 1965 does not contain a section 7004, and section 7501(8) defines limited English proficiency.
 
-The Indian Self-Determination Act, referred to in par. (23), is title I of Pub. L. 93 638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in par. (23), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 Act of April 16, 1934, referred to in par. (23), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 452 of Title 25 and Tables.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in par. (33), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
-The Tribally Controlled Community College Assistance Act of 1976, referred to in par. (40), probably means the Tribally Controlled Community College Assistance Act of 1978, Pub. L. 95 471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Community College Assistance Act of 1976, referred to in par. (40), probably means the Tribally Controlled Community College Assistance Act of 1978, Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Navajo Community College Act, referred to in par. (40), is Pub. L. 92 189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+The Navajo Community College Act, referred to in par. (40), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
 #### Amendments
 
-1994—Par. (20). Pub. L. 103 382, §391(s)(7), substituted “section 8801” for “section 2891(5)”.
+1994—Par. (20). Pub. L. 103–382, §391(s)(7), substituted “section 8801” for “section 2891(5)”.
 
-Par. (21). Pub. L. 103 382, §391(s)(8), substituted “section 7601(8) of this title” for “section 703(a)(1) of the Elementary and Secondary Education Act of 1965”.
+Par. (21). Pub. L. 103–382, §391(s)(8), substituted “section 7601(8) of this title” for “section 703(a)(1) of the Elementary and Secondary Education Act of 1965”.
 
-1990—Pub. L. 101 392 amended section generally, adding pars. (2), (14), (17), (19), (20), (24), (29), (31), (32), (35), and (38) through (40), redesignating former pars. (2) through (12) as (3) through (13), respectively, (14) as (16), (16) as (18), (18) and (19) as (21) and (22), respectively, (20) as (15), (21) as (23), (22) through (24) as (25) through (27), respectively, (25) as (30), (26) as (28), (27) and (28) as (33) and (34), respectively, (29) and (30) as (36) and (37), respectively, and (31) and (32) as (41) and (42), respectively, and striking out former par. (13) defining “economically depressed area”, par. (15) defining “handicapped”, and par. (17) defining “homemaker”.
+1990—Pub. L. 101–392 amended section generally, adding pars. (2), (14), (17), (19), (20), (24), (29), (31), (32), (35), and (38) through (40), redesignating former pars. (2) through (12) as (3) through (13), respectively, (14) as (16), (16) as (18), (18) and (19) as (21) and (22), respectively, (20) as (15), (21) as (23), (22) through (24) as (25) through (27), respectively, (25) as (30), (26) as (28), (27) and (28) as (33) and (34), respectively, (29) and (30) as (36) and (37), respectively, and (31) and (32) as (41) and (42), respectively, and striking out former par. (13) defining “economically depressed area”, par. (15) defining “handicapped”, and par. (17) defining “homemaker”.
 
-1985—Par. (15). Pub. L. 99 159 inserted “or language” after “speech”.
+1985—Par. (15). Pub. L. 99–159 inserted “or language” after “speech”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99 159 effective July 1, 1985, see section 714(a) of Pub. L. 99 159, set out as a note under section 2311 of this title.
+Amendment by Pub. L. 99–159 effective July 1, 1985, see section 714(a) of Pub. L. 99–159, set out as a note under section 2311 of this title.
 
 #### Section Referred to in Other Sections
 

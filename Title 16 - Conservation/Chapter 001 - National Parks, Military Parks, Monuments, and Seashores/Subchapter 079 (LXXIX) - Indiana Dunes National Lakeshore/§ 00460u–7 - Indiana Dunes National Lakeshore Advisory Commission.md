@@ -1,4 +1,4 @@
-### §460u–7 . Indiana Dunes National Lakeshore Advisory Commission
+### §460u–7. Indiana Dunes National Lakeshore Advisory Commission
 
 #### (a) Establishment; termination
 

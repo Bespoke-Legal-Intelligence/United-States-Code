@@ -6,7 +6,7 @@ Except on a ground for which application to cancel may be filed at any time unde
 
 &emsp;(2) there is no proceeding involving said rights pending in the Patent and Trademark Office or in a court and not finally disposed of; and
 
-&emsp;(3) an affidavit is filed with the Commissioner within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
+&emsp;(3) an affidavit is filed with the Commissioner within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, andother matters specified in paragraphs (1) and (2) of this section; and
 
 &emsp;(4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.
 

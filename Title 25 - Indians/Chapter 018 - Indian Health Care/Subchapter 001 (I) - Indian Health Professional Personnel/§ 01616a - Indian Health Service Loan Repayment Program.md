@@ -74,7 +74,7 @@ To be eligible to participate in the Loan Repayment Program, an individual mustâ
 
 &emsp;(ii) not less than 10 percent be provided to applicants who are mental health professionals (other than applicants described in clause (i)).
 
-(B) The requirements specified in clause (i) or clause (ii) of subparagraph (A) shall not apply if the Secretary does not receive the number of applications from the individuals described in clause (i) or clause (ii), respectively, necessary to meet such requirements.
+(B) The requirements specified in clause (i) or clause (ii) of subparagraph (A) shall not apply ifthe Secretary does not receive the number of applications from the individuals described in clause (i) or clause (ii), respectively, necessary to meet such requirements.
 
 #### (e) Approval
 
@@ -178,7 +178,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;&emsp;(iii) is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) is enrolled in a graduate training program, fails to complete such training program,and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
+&emsp;(B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
 
 > shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual's behalf under the contract.
 
@@ -212,7 +212,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 (1) Any obligation of an individual under the Loan Repayment Program for service or payment of damages shall be canceled upon the death of the individual.
 
-(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
+(2) The Secretary shall by regulation provide for the partial or total waiver or suspension ofany obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
 (3) The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
 

@@ -4,7 +4,7 @@ Part C—Professional Development Demonstration Project
 
 This part is referred to in sections 6603, 6621, 6622, 8801, 8893 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
 
 
 ---

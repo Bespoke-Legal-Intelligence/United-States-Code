@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-Research and development are major factors in the growth and progress of industry and the national economy. The expense of carrying on research and development programs is beyond the means of many small-business concerns, and such concerns are handicapped in obtaining thebenefits of research and development programs conducted at Government expense. These small-business concerns are thereby placed at a competitive disadvantage. This weakens the competitive free enterprise system and prevents the orderly development of the national economy. It is the policy of the Congress that assistance be given to small-business concerns to enable them to undertake and to obtain the benefits of research and development in order to maintain and strengthen the competitive free enterprise system and the national economy.
+Research and development are major factors in the growth and progress of industry and the national economy. The expense of carrying on research and development programs is beyond the means of many small-business concerns, and such concerns are handicapped in obtaining the benefits of research and development programs conducted at Government expense. These small-business concerns are thereby placed at a competitive disadvantage. This weakens the competitive free enterprise system and prevents the orderly development of the national economy. It is the policy of the Congress that assistance be given to small-business concerns to enable them to undertake and to obtain the benefits of research and development in order to maintain and strengthen the competitive free enterprise system and the national economy.
 
 #### (b) Assistance to small-business concerns
 
@@ -28,7 +28,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 #### (d) Joint programs; approval of agreements; withdrawal of approval; publication in Federal Register
 
-(1) The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programs may, among other things, include the following purposes:
+(1) The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging suchfirms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programs may, among other things, include the following purposes:
 
 &emsp;(A) to construct, acquire, or establish laboratories and other facilities for the conduct of research;
 
@@ -50,7 +50,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 For the purpose of this section—
 
-&emsp;(1) the term “extramural budget” means the sum of the total obligations minus amounts obligated for such activities by employees of the agency in or through Government-owned, Government-operated facilities, except that for the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs, and except thatfor the Agency for International Development it shall not include amounts obligated solely for general institutional support of international research centers or for grants to foreign countries;
+&emsp;(1) the term “extramural budget” means the sum of the total obligations minus amounts obligated for such activities by employees of the agency in or through Government-owned, Government-operated facilities, except that for the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs, and except that for the Agency for International Development it shall not include amounts obligated solely for general institutional support of international research centers or for grants to foreign countries;
 
 &emsp;(2) the term “Federal agency” means an executive agency as defined in section 105 of title 5 or a military department as defined in section 102 of such title, except that it does not include any agency within the Intelligence Community (as the term is defined in section 3.4(f) of Executive Order 12333 or its successor orders);
 
@@ -76,7 +76,7 @@ For the purpose of this section—
 
 &emsp;&emsp;&emsp;(ii) for which awards from non-SBIR Federal funding sources are used for the continuation of research or research and development that has been competitively selected using peer review or scientific review criteria;
 
-&emsp;(5) the term “research” or “research and development” means any activity which is (A) a systematic, intensive study directed toward greater knowledge or understanding of the subject studied; (B) a systematic study directed specifically toward applying new knowledge to meet a recognized need; or (C) a systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements;
+&emsp;(5) the term “research” or “research and development” means any activity which is (A) asystematic, intensive study directed toward greater knowledge or understanding of the subject studied; (B) a systematic study directed specifically toward applying new knowledge to meet a recognized need; or (C) a systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements;
 
 &emsp;(6) the term “Small Business Technology Transfer Program” or “STTR” means a pilot program under which a portion of a Federal agency's extramural research or research and development effort is reserved for award to small business concerns for cooperative research and development through a uniform process having—
 
@@ -160,7 +160,7 @@ Each Federal agency required by this section to have an SBIR program or to estab
 
 &emsp;&emsp;(A) simplified, standardized, and timely SBIR solicitations;
 
-&emsp;&emsp;(B) a simplified, standardized funding process which provides for (i) the timely receipt and review of proposals; (ii) outside peer review for at least phase two proposals, if appropriate; (iii) protection of proprietary information provided in proposals; (iv) selection of awardees; (v) retention of rights in data generated in the performance of the contract by the small business concern; (vi)transfer of title to property provided by the agency to the small business concern if such a transfer would be more cost effective than recovery of the property by the agency; (vii) cost sharing; and (viii) cost principles and payment schedules;
+&emsp;&emsp;(B) a simplified, standardized funding process which provides for (i) the timely receipt and review of proposals; (ii) outside peer review for at least phase two proposals, if appropriate; (iii) protection of proprietary information provided in proposals; (iv) selection of awardees; (v) retention of rights in data generated in the performance of the contract by the small business concern; (vi) transfer of title to property provided by the agency to the small business concern if such a transfer would be more cost effective than recovery of the property by the agency; (vii) cost sharing; and (viii) cost principles and payment schedules;
 
 &emsp;&emsp;(C) exemptions from the regulations under paragraph (2) <sup>4</sup> if national security or intelligence functions clearly would be jeopardized;
 
@@ -182,7 +182,7 @@ Each Federal agency required by this section to have an SBIR program or to estab
 
 &emsp;&emsp;(C) procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an SBIR program enters into follow-on, non-SBIR funding agreements with the small business concern for such research, development, or production;
 
-&emsp;&emsp;(D) an increase to $100,000 in the amount of funds which an agency may award in the first phase of an SBIR program, and to $750,000 in the second phase of an SBIR program, and an adjustment of such amounts once every 5 years to reflect economic adjustments and programmatic considerations;
+&emsp;&emsp;(D) an increase to $100,000 in the amount of funds which an agency may award in the first phase of an SBIR program, and to$750,000 in the second phase of an SBIR program, and an adjustment of such amounts once every 5 years to reflect economic adjustments and programmatic considerations;
 
 &emsp;&emsp;(E) a process for notifying the participating SBIR agencies and potential SBIR participants of the 1991, 1992, and the current critical technologies, as identified—
 
@@ -246,7 +246,7 @@ The authorization to carry out the Small Business Innovation Research Program un
 
 #### (<i>o</i>) Federal agency STTR authority
 
-Each Federal agency required to establish an STTR program in accordance with subsection (n) of this section and regulations issued under this chapter, shall—
+Each Federal agency required to establish an STTR program in accordance with subsection\(n) of this section and regulations issued under this chapter, shall—
 
 &emsp;(1) unilaterally determine categories of projects to be included in its STTR program;
 
@@ -374,7 +374,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 #### (2) “Third phase agreement” defined
 
-&emsp;In this subsection, the term “third phase agreement” means a follow-on, non-SBIR ornon-STTR funded contract as described in paragraph (4)(C) or paragraph (6)(C) of subsection (e) of this section.
+&emsp;In this subsection, the term “third phase agreement” means a follow-on, non-SBIR or non-STTR funded contract as described in paragraph (4)(C) or paragraph (6)(C) of subsection (e) of this section.
 
 #### (3) Intellectual property rights
 
@@ -402,7 +402,7 @@ Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previousl
 
 #### Amendments
 
-1994—Subsec. (q)(2). Pub. L. 103–403 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Annually, each agency may select a vendor for purposes of this subsection using competitive, merit-based criteria, to assist small business concerns to meet the goals listed in paragraph (1).”
+1994—Subsec. (q)(2). Pub. L. 103–403 amended heading and text of par. (2) generally. Prior to amendment, textread as follows: “Annually, each agency may select a vendor for purposes of this subsection using competitive, merit-based criteria, to assist small business concerns to meet the goals listed in paragraph (1).”
 
 1992—Subsec. (b)(4). Pub. L. 102–564, §202(a)(1), inserted before semicolon at end “and small business technology transfer pilot programs”.
 
@@ -572,7 +572,7 @@ Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business
 | 1997 | &nbsp;2.25 |
 | 1998 and thereafter | &nbsp;2.5. |
 
-“(B) If the determination of the Secretary of Defense under subparagraph (C) is a negative determination (as set forth in that paragraph), then the percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for the Department of Defense and each military department for fiscal years after fiscal year 1996 shall remain at the level applicable for fiscal year 1996 (notwithstanding the percentages specified in subparagraph (A) for fiscal years after fiscal year 1996).
+“(B) If the determination of the Secretary of Defense under subparagraph (C) is a negative determination (as set forth in that paragraph), then the percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for the Department of Defense and each military department for fiscal years after fiscal year 1996 shall remain at the level applicable for fiscal year 1996\(notwithstanding the percentages specified in subparagraph (A) for fiscal years after fiscal year 1996).
 
 “(C) Not later than June 30, 1996, the Secretary of Defense during fiscal year 1996 shall determine whether there has been a demonstrable reduction in the quality of research performed under funding agreements awarded by the Department of Defense under the SBIR program since the beginning of fiscal year 1993 such that increasing the percentage under subparagraph (A) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department's research programs. If the determination of the Secretary is that there has been such a demonstrable reduction in the quality of research such that increasing the percentage under subparagraph (B) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department's research programs, the Secretary shall be considered for purposes of subparagraph (B) to have made a negative determination. The determination of the Secretary concerned under this paragraph shall be made after considering the assessment of the Comptroller General with respect to that department in the report transmitted under subparagraph (D).
 
@@ -658,7 +658,7 @@ Interim Report.—
 
 &emsp;“(1)
 
-In general.—The Comptroller General of the United States shall submit to the Congress an interim report concerning the quality of research performed under SBIR program funding agreements entered into during fiscal year 1993 and thereafter. Copies of the interim report shall be furnished to each agency that has participated in the SBIR program in fiscal year 1993 or thereafter.
+In general.—The Comptroller General of the United States shall submit to the Congress an interim report concerning the quality of research performed under SBIR program funding agreements entered into during fiscal year 1993 and thereafter. Copies of the interim report shall be furnished to eachagency that has participated in the SBIR program in fiscal year 1993 or thereafter.
 
 &emsp;“(2)
 
@@ -704,7 +704,7 @@ Final Report.—The Comptroller General of the United States shall transmit to t
 
 &emsp;“(6) a review of the extent to which the purposes of this title \[see Short Title of 1992 Amendments note set out under section 631 of this title\] and the Small Business Innovation Development Act of 1982 \[see Short Title of 1982 Amendment note set out under section 631 of this title\] have been met with regard to fostering and encouraging the participation of women-owned small business concerns and socially and economically disadvantaged small business concerns (as defined in the Small Business Act \[15 U.S.C. 631 et seq.\]) in technological innovation, in general, and the SBIR program, in particular;
 
-&emsp;“(7) an analysis of the effectiveness of the SBIR program in promoting the development of the critical technologies identified by the Secretary of Defenseand the National Critical Technologies Panel (or its successor), as described in subparagraph 9(j)(2)(E) of the Small Business Act;
+&emsp;“(7) an analysis of the effectiveness of the SBIR program in promoting the development of the critical technologies identified by the Secretary of Defense and the National Critical Technologies Panel (or its successor), as described in subparagraph 9(j)(2)(E) of the Small Business Act;
 
 &emsp;“(8) an analysis of the impact of agency application review periods and funding cycles on SBIR program awardees’ financial status and ability to commercialize; and
 
@@ -738,7 +738,7 @@ Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986
 
 “(b) The Comptroller General, no later than December 31, 1991, shall transmit to such committees an update of the report mandated under subsection (a). Such report, in addition, shall include an evaluation of phase three of the SBIR Program including a discussion of the aggregate commercial trends for products which are then currently in or have completed phase three of the program.
 
-“(c) Not later than July 1, 1989, the Comptroller General shall transmit to the appropriate committees of the House of Representatives and the Senate recommendations as to the advisability of amending the Small Business Innovation Research program to—
+“(c) Not later than July 1, 1989, the Comptroller General shall transmit to the appropriate committees ofthe House of Representatives and the Senate recommendations as to the advisability of amending the Small Business Innovation Research program to—
 
 &emsp;“(1) increase each agency's share of research and development expenditures devoted to it by 0.25 percent per year, until it is 3 percent of the total extramural research and development funds, and targeting a portion of the increment at products with commercialization or export potential;
 

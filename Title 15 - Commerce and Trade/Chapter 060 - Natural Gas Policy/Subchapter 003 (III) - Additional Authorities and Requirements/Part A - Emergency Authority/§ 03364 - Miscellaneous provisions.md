@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information, and such answers shall be made within such reasonable period, and under oath or otherwise as the President may determine; and
 
-&emsp;&emsp;(c)<sup>1</sup> secure, upon request, any information from any Federal agency.
+&emsp;&emsp;(c) <sup>1</sup> secure, upon request, any information from any Federal agency.
 
 #### (2) Enforcement of subpenas and orders
 
@@ -26,7 +26,7 @@ The President shall report to the Congress, not later than 90 days following the
 
 #### (d) Delegation of authorities
 
-The President may delegate all or any portion of the authority granted to him under section 3361, 3362, 3363 of this title, or this section to such Federal officers or agencies as he determines appropriate, and may authorize such redelegation as may be appropriate. Except with respect to section 552 of title 5, any Federal officer or agency to which authority is delegated or redelegated under this subsection shall be subject only to such procedural requirements respecting the exercise of such authority as the President would be subject to if such authority were not so delegated.
+The President may delegate all or any portion of the authority granted to him under section 3361, 3362, 3363 of this title, or this section to such Federal officers or agencies as he determines appropriate, and may authorize such redelegation as may be appropriate. Except with respect to section 552 of title 5, any Federal officer or agency to which authority is delegated orredelegated under this subsection shall be subject only to such procedural requirements respecting the exercise of such authority as the President would be subject to if such authority were not so delegated.
 
 #### (e) Antitrust protections
 
@@ -62,7 +62,7 @@ There shall be available as a defense to any action brought for breach of contra
 
 Any order issued pursuant to this subchapter shall preempt any provision of any program for the allocation, emergency delivery, transportation, or purchase of natural gas established by any State or local government if such program is in conflict with any such order.
 
-(Pub. L. 95 621, title III, §304, Nov. 9, 1978, 92 Stat. 3387.)
+(Pub. L. 95–621, title III, §304, Nov. 9, 1978, 92 Stat. 3387.)
 
 #### Ex. Ord. No. 12235. Assignment of Management Responsibility in Cases of Natural Gas Emergencies
 
@@ -70,15 +70,15 @@ Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 304(d) of the Natural Gas Policy Act of 1978 (92 Stat. 3387; 15 U.S.C. 3364(d)) and Section 301 of Title 3 of the United States Code, and in order to assign management responsibility in case of a natural gas supply emergency, it is hereby ordered as follows:
 
-1 101. The functions vested in the President by Sections 301 through 304(c) of the Natural Gas Policy Act of 1978 (92 Stat. 3381 3387; 15 U.S.C. 3361 3364(c)) are delegated to the Secretary of Energy; except for the authority to declare, extend, and terminate a natural gas supply emergency pursuant to Section 301 thereof (15 U.S.C. 3361).
+1–101. The functions vested in the President by Sections 301 through 304(c) of the Natural Gas Policy Act of 1978 (92 Stat. 3381–3387; 15 U.S.C. 3361–3364(c)) are delegated to the Secretary of Energy; except for the authority to declare, extend, and terminate a natural gas supply emergency pursuant to Section 301 thereof (15 U.S.C. 3361).
 
-1 102. The functions vested in the President by Section 607 of the Public Utility Regulatory Policies Act of 1978 (92 Stat. 3171; 15 U.S.C. 717z) are delegated to the Secretary of Energy; except for the authority to declare, extend, and terminate a natural gas supply emergency pursuant to Section 607(a) and (b) thereof (15 U.S.C. 717z(a) and (b)).
+1–102. The functions vested in the President by Section 607 of the Public Utility Regulatory Policies Act of 1978 (92 Stat. 3171; 15 U.S.C. 717z) are delegated to the Secretary of Energy; except for the authority to declare, extend, and terminate a natural gas supply emergency pursuant to Section 607(a) and (b) thereof (15 U.S.C. 717z(a) and (b)).
 
-1 103. The Secretary shall consult with the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, and the heads of other executive agencies in exercising the functions delegated to him by this Order.
+1–103. The Secretary shall consult with the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, and the heads of other executive agencies in exercising the functions delegated to him by this Order.
 
-1 104. All functions delegated to the Secretary by this Order may be redelegated, in whole or in part, to the head of any other agency.
+1–104. All functions delegated to the Secretary by this Order may be redelegated, in whole or in part, to the head of any other agency.
 
-1 105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretary in carrying out the functions delegated to him by this Order.
+1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretary in carrying out the functions delegated to him by this Order.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

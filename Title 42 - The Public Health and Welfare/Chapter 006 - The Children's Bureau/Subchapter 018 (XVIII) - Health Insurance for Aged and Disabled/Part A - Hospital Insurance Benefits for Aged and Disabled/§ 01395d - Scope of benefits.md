@@ -4,7 +4,7 @@
 
 The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
 
-&emsp;(1) inpatient hospital services or inpatient rural primary care hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services or inpatient rural primary care hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have paymentfor such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f) of this section, extended care services that are not post-hospital extended care services;
 
@@ -24,7 +24,7 @@ Payment under this part for services furnished an individual during a spell of i
 
 #### (c) Inpatients of psychiatric hospitals
 
-If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosisor treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
+If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
 
 #### (d) Hospice care; election; waiver of rights; revocation; change of election
 

@@ -66,7 +66,7 @@ To the extent necessary or appropriate to implement—
 
 #### (g) Acquisition of property by negotiation as prerequisite to condemnation
 
-Before any condemnation proceedings are instituted, an effort shall be made to acquire the property involved by negotiation, unless, the effort to acquire such property by negotiation would, in the judgement of the Secretary be futile or so time-consuming as to unreasonablydelay the implementation of the Strategic Petroleum Reserve Plan, because of (1) reasonable doubt as to the identity of the owners, (2) the large number of persons with whom it would be necessary to negotiate, or (3) other reasons.
+Before any condemnation proceedings are instituted, an effort shall be made to acquire the property involved by negotiation, unless, the effort to acquire such property by negotiation would, in the judgement of the Secretary be futile or so time-consuming as to unreasonably delay the implementation of the Strategic Petroleum Reserve Plan, because of (1) reasonable doubt as to the identity of the owners, (2) the large number of persons with whom it would be necessary to negotiate, or (3) other reasons.
 
 #### (h) Use of interim storage facilities; environmental considerations for existing facilities
 
@@ -126,11 +126,11 @@ Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l).</i>
 
 Subsec. (h). Pub. L. 97–229, §4(b)(2)(B), added subsec. (h).
 
-1978—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted “Secretary” for “Administrator”,meaning Administrator of the Federal Energy Administration, wherever appearing.
+1978—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to protect the riparian area and the aquatic, wildlife, archeological, paleontological,scientific, cultural, educational, and recreational resources of the public lands surrounding the San Pedro River in Cochise County, Arizona, there is hereby established the San Pedro Riparian National Conservation Area (hereafter in this subchapter referred to as the “conservation area”).
+In order to protect the riparian area and the aquatic, wildlife, archeological, paleontological, scientific, cultural, educational, and recreational resources of the public lands surrounding the San Pedro River in Cochise County, Arizona, there is hereby established the San Pedro Riparian National Conservation Area (hereafter in this subchapter referred to as the “conservation area”).
 
 #### (b) Area included
 
@@ -16,7 +16,7 @@ As soon as is practicable after November 18, 1988, a map and legal description o
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Short Title
 

@@ -8,7 +8,7 @@ The Administrator shall develop, collect, evaluate, and coordinate information o
 
 &emsp;(2) solid waste management practices, including data on the different management methods and the cost, operation, and maintenance of such methods;
 
-&emsp;(3) the amounts and percentages of resources (including energy) that can be recovered fromsolid waste by use of various solid waste management practices and various technologies;
+&emsp;(3) the amounts and percentages of resources (including energy) that can be recovered from solid waste by use of various solid waste management practices and various technologies;
 
 &emsp;(4) methods available to reduce the amount of solid waste that is generated;
 

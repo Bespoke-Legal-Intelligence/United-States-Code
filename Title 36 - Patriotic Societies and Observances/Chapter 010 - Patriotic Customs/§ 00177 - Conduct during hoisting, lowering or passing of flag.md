@@ -6,7 +6,7 @@ During the ceremony of hoisting or lowering the flag or when the flag is passing
 
 #### Amendments
 
-1976—Pub. L. 94–344 substituted in first sentence “with right hand over the heart” for “, and salute” and struck out “Men without hats should salute in the same manner.” before “Aliens should” and “Women should salute by placing right hand over the heart.” before “The salute to the flag”.
+1976—Pub. L. 94–344 substituted in first sentence “with right hand over the heart” for “, and salute” and struck out “Men without hats should salute in thesame manner.” before “Aliens should” and “Women should salute by placing right hand over the heart.” before “The salute to the flag”.
 
 1942—Act Dec. 22, 1942, substituted “military salute,” for “right-hand salute” in second sentence, “should salute in the same manner,” for “merely stand at attention” in fourth sentence, and inserted fifth sentence.
 

@@ -12,7 +12,7 @@ The remainder of funds appropriated under section 1502(a)(2) of this title shall
 
 #### Prior Provisions
 
-A prior section 1631, Pub. L. 97–300, title II, §252, formerly §251, Oct. 13, 1982, 96 Stat. 1364; renumbered §252and amended Pub. L. 99–496, §§5(b), 8(a)(1), Oct. 16, 1986, 100 Stat. 1262, 1263, related to allotment of funding for summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
+A prior section 1631, Pub. L. 97–300, title II, §252, formerly §251, Oct. 13, 1982, 96 Stat. 1364; renumbered §252 and amended Pub. L. 99–496, §§5(b), 8(a)(1), Oct. 16, 1986, 100 Stat. 1262, 1263, related to allotment of funding for summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
 A prior section 252 of Pub. L. 97–300 was renumbered section 253 and classified to section 1632 of this title, prior to repeal by Pub. L. 102–367, title II, §201, Sept. 7, 1992, 106 Stat. 1052.
 

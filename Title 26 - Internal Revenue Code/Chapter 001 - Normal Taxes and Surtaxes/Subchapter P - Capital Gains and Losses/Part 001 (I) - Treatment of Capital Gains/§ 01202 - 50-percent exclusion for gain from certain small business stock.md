@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (B) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “parent-subsidiary controlled group” meansany controlled group of corporations as defined in section 1563(a)(1), except that—
+&emsp;&emsp;For purposes of subparagraph (A), the term “parent-subsidiary controlled group” means any controlled group of corporations as defined in section 1563(a)(1), except that—
 
 &emsp;&emsp;&emsp;(i) “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in section 1563(a)(1), and
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) activities with respect to in-house research expenses described in section 41(b)(4),
 
-> &emsp;assets used in such activities shall be treated as used in the active conduct of a qualified trade or business. Any determination under this paragraph shall be made without regard to whether a corporation has any gross income from such activities at the time of the determination.
+> &emsp;assets used in such activities shall be treated as used in the active conduct of a qualified trade or business. Any determination under this paragraph shall be made without regardto whether a corporation has any gross income from such activities at the time of the determination.
 
 #### (3) Qualified trade or business
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (8) Computer software royalties
 
-&emsp;For purposes of paragraph (1), rights to computer software which produces active business computer software royalties (within the meaning of section 543(d)(1)) shall be treated as anasset used in the active conduct of a trade or business.
+&emsp;For purposes of paragraph (1), rights to computer software which produces active business computer software royalties (within the meaning of section 543(d)(1)) shall be treated as an asset used in the active conduct of a trade or business.
 
 #### (f) Stock acquired on conversion of other stock
 

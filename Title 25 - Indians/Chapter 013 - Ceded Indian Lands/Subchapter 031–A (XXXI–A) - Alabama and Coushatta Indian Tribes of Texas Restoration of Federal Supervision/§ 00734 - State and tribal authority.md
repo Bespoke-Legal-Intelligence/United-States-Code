@@ -22,7 +22,7 @@ No provision contained in this subchapter shall affect the power of the Tribal C
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 Stat. 666, known as the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act, which enacted this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapterand enacted provisions set out as notes under section 731 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 Stat. 666, known as the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act, which enacted this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and enacted provisions set out as notes under section 731 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
 
 #### Amendments
 
@@ -30,5 +30,5 @@ This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 St
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -8,7 +8,7 @@ Fiscal Year 1995.—There are authorized to be appropriated to the Secretary $29
 
 Fiscal Year 1996.—(1) There are authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1996, for carrying out section 26101 (including payment of administrative expenses related thereto).
 
-(2) There are authorized to be appropriated to the Secretary $30,000,000 for fiscal year 1996, for carrying out section 26102 (including payment of administrative expenses related thereto).
+(2) There are authorized to be appropriated to the Secretary $30,000,000 for fiscal year 1996, forcarrying out section 26102 (including payment of administrative expenses related thereto).
 
 (c)
 

@@ -98,7 +98,7 @@
 
 #### (2) Basis to REMIC
 
-&emsp;The basis of any property received by a REMIC in a transfer described in paragraph (1)(A) shall be its fair market value immediately after such transfer.
+&emsp;The basis of any property received by a REMIC in a transfer described in paragraph\(1)(A) shall be its fair market value immediately after such transfer.
 
 #### (c) Distributions of property
 

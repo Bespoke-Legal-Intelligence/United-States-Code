@@ -1,6 +1,6 @@
 ### §16133. Time limitation for use of entitlement
 
-(a) Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person's entitlement expires (1) at the end of the 10-year period beginning on the date onwhich such person becomes entitled to such assistance, or (2) on the date the person is separated from the Selected Reserve, whichever occurs first.
+(a) Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person's entitlement expires (1) at the end of the 10-year period beginning on the date on which such person becomes entitled to such assistance, or (2) on the date the person is separated from the Selected Reserve, whichever occurs first.
 
 (b)(1) In the case of a person—
 

@@ -16,7 +16,7 @@
 
 #### (b) Advisory committees and informal consultations with industry
 
-To the extent the Assistant Secretary deems it necessary to continue the Interdepartmental Radio Advisory Committee, such Committee shall serve as an advisory committee to the Assistant Secretary and the NTIA. As permitted by law, the Assistant Secretary may establish one or more telecommunications or information advisory committees (or both) composed of experts in the telecommunications and/or information areas outside the Government. The NTIA may also informally consult with industry as appropriate to carry out the most effective performance of its functions.
+To the extent the Assistant Secretary deems it necessary to continue the InterdepartmentalRadio Advisory Committee, such Committee shall serve as an advisory committee to the Assistant Secretary and the NTIA. As permitted by law, the Assistant Secretary may establish one or more telecommunications or information advisory committees (or both) composed of experts in the telecommunications and/or information areas outside the Government. The NTIA may also informally consult with industry as appropriate to carry out the most effective performance of its functions.
 
 #### (c) General provisions
 
@@ -30,7 +30,7 @@ To the extent the Assistant Secretary deems it necessary to continue the Interde
 
 #### (3) Effect on vested functions
 
-&emsp;Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by lawor executive order in the Commission, or the Department of State, or any officer thereof.
+&emsp;Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by law or executive order in the Commission, or the Department of State, or any officer thereof.
 
 #### (d) Reorganization
 
@@ -54,7 +54,7 @@ Section 744(a) of this title, referred to in subsec. (a)(2), was repealed by Pub
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Advisory Committees
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility of local educational agencies
 
-A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if the number of children in the local educational agency counted under subsection<sup>1</sup> 6333(c) of this title, before application of the weighting factor described in subsection (c) of this section, is at least 10, and if the number of children counted for grants under section 6333 of this title is at least 5 percent of the total population aged 5 to 17 years, inclusive, in the local educational agency. Funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
+A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if the number of children in the local educational agency counted under subsection <sup>1</sup> 6333(c) of this title, before application of the weighting factor described in subsection (c) of this section, is at least 10, and if the number of children counted for grants under section 6333 of this title is at least 5 percent of the total population aged 5 to 17 years, inclusive, in the local educational agency. Funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
 
 #### (b) Grants for local educational agencies, the District of Columbia, and Puerto Rico
 
@@ -12,11 +12,11 @@ A local educational agency in a State is eligible to receive a targeted grant un
 
 &emsp;&emsp;(A) the weighted child count determined under subsection (c) of this section; and
 
-&emsp;&emsp;(B) the amount in the second sentence of subparagraph 6333(a)(1)(A)<sup>2</sup> of this title.
+&emsp;&emsp;(B) the amount in the second sentence of subparagraph 6333(a)(1)(A) <sup>2</sup> of this title.
 
 #### (2) Puerto Rico
 
-&emsp;For each fiscal year, the amount of the grant for which the Commonwealth of PuertoRico is eligible under this section shall be equal to the number of children counted under subsection (c) of this section for Puerto Rico, multiplied by the amount determined in subparagraph<sup>1</sup> 6333(a)(3) of this title.
+&emsp;For each fiscal year, the amount of the grant for which the Commonwealth of Puerto Rico is eligible under this section shall be equal to the number of children counted under subsection (c) of this section for Puerto Rico, multiplied by the amount determined in subparagraph <sup>1</sup> 6333(a)(3) of this title.
 
 #### (c) Weighted child count
 
@@ -56,7 +56,7 @@ A local educational agency in a State is eligible to receive a targeted grant un
 
 #### (B) Puerto Rico
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the weighting factor for Puerto Rico under this paragraph shall not be greater than the total number of children counted under subsection<sup>3</sup> 6333(c) of this title multiplied by 1.72.
+&emsp;&emsp;Notwithstanding subparagraph (A), the weighting factor for Puerto Rico under this paragraph shall not be greater than the total number of children counted under subsection <sup>3</sup> 6333(c) of this title multiplied by 1.72.
 
 #### (2) Fiscal years after 1999
 
@@ -98,7 +98,7 @@ A local educational agency in a State is eligible to receive a targeted grant un
 
 #### (d) Local educational agency allocations
 
-For fiscal years 1995 through 1998, grants shall be calculated by the Secretary on the basis of the number of children counted under section 6333 of this title for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations published by the Secretary. In any State in which a large number of local educational agencies overlap county boundaries, the State educational agency may apply to the Secretary for authority during any particular fiscal year to make the allocations under this part (other than section 6334 of this title) directly to local educational agencieswithout regard to the counties. If the Secretary approves an application of a State educational agency for a particular year under this subparagraph, the State educational agency shall provide assurances that—
+For fiscal years 1995 through 1998, grants shall be calculated by the Secretary on the basis of the number of children counted under section 6333 of this title for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations published by the Secretary. In any State in which a large number of local educational agencies overlap county boundaries, the State educational agency may apply to the Secretary for authority during any particular fiscal year to make the allocations under this part (other than section 6334 of this title) directly to local educational agencies without regard to the counties. If the Secretary approves an application of a State educational agency for a particular year under this subparagraph, the State educational agency shall provide assurances that—
 
 &emsp;(1) such allocations will be made using precisely the same factors for determining a grant as are used under this part;
 
@@ -120,15 +120,15 @@ Notwithstanding any other provision of this section or subsection (b)(1) or (d) 
 
 &emsp;&emsp;(B) 150 percent of the national average grant under this section per child described in section 6333(c) of this title, without application of a weighting factor, multiplied by the State's total number of children described in section 6333(c) of this title, without application of a weighting factor.
 
-(Pub. L. 89 10, title I, §1125, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3571.)
+(Pub. L. 89–10, title I, §1125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3571.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6332, 6334, 6336, 6337 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “section 6333(a)(1)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “section 6333(a)(1)”.</i>
 
-<i><sup>3</sup></i><i>So in original. Probably should be “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
 

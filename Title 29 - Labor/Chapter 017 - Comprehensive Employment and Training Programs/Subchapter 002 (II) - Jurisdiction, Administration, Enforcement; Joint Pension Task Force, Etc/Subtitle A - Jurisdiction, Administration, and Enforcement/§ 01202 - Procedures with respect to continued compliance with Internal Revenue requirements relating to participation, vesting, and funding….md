@@ -14,11 +14,11 @@ Regulations prescribed by the Secretary of the Treasury under sections 410(a), 4
 
 #### (d) Opportunity afforded Secretary of the Treasury to intervene in cases involving construction or application of minimum standards; review of briefs filed by Pension Benefit Guaranty Corporation or Secretary of Labor
 
-The Secretary of Labor and the Pension Benefit Guaranty Corporation, before filing briefs in any case involving the construction or application of minimum participation standards, minimum vesting standards, or minimum funding standards under subchapter I of this chapter shall afford the Secretary of the Treasury a reasonable opportunity to review any such brief. The Secretary of the Treasury shall have the right to intervene in any such case.
+The Secretary of Labor and the Pension Benefit Guaranty Corporation, before filing briefs inany case involving the construction or application of minimum participation standards, minimum vesting standards, or minimum funding standards under subchapter I of this chapter shall afford the Secretary of the Treasury a reasonable opportunity to review any such brief. The Secretary of the Treasury shall have the right to intervene in any such case.
 
 #### (e) Consultative requirements respecting promulgation of proposed or final regulations
 
-The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulationauthorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 of this title, before publishing any such proposed or final regulation.
+The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 of this title, before publishing any such proposed or final regulation.
 
 (Pub. L. 93–406, title III, §3002, Sept. 2, 1974, 88 Stat. 996; Pub. L. 96–364, title IV, §402(b)(3), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

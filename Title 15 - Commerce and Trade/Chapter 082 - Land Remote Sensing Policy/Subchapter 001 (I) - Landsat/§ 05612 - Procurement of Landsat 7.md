@@ -10,7 +10,7 @@ In negotiating a contract under this section for the development and delivery of
 
 &emsp;(1) seek, as a fundamental objective, to have Landsat 7 operational by the expected end of the design life of Landsat 6;
 
-&emsp;(2) seek to ensure data continuity by the development and delivery of a satellite which is, at a minimum, functionally equivalent to the Landsat 6 satellite; and
+&emsp;(2) seek to ensure data continuity by the development and delivery of a satellite which is,at a minimum, functionally equivalent to the Landsat 6 satellite; and
 
 &emsp;(3) seek to incorporate in Landsat 7 any performance improvements required to meet United States Government needs that would not jeopardize data continuity.
 
@@ -22,7 +22,7 @@ The Landsat Program Management shall promptly notify the Congress of any signifi
 
 The Landsat Program Management shall, for purposes of this chapter, define the term “United States private sector entities”, taking into account the location of operations, assets, personnel, and other such factors.
 
-(Pub. L. 102 555, title I, §102, Oct. 28, 1992, 106 Stat. 4168.)
+(Pub. L. 102–555, title I, §102, Oct. 28, 1992, 106 Stat. 4168.)
 
 #### Section Referred to in Other Sections
 

@@ -92,7 +92,7 @@ The Council shall submit an annual report for the preceding fiscal year to the P
 
 &emsp;(2) the results of Council efforts to coordinate the policies and programs of member agencies that have a significant effect on tourism, recreation, and national heritage preservation, resolve interagency conflicts, and develop areas of cooperative program activity;
 
-&emsp;(3) an analysis of problems referred to the Council by State and local governments, the tourism industry, the Secretary of Commerce,or any of the Council's policy committees along with a detailed statement of any actions taken or anticipated to be taken to resolve such problems; and
+&emsp;(3) an analysis of problems referred to the Council by State and local governments, the tourism industry, the Secretary of Commerce, or any of the Council's policy committees along with a detailed statement of any actions taken or anticipated to be taken to resolve such problems; and
 
 &emsp;(4) such recommendations as the Council deems appropriate.
 

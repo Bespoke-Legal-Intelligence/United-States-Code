@@ -100,9 +100,10 @@
 | (b) | Remedies. |
 | [1123\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001123%20-%20Rules%20and%20regulations%20for%20conduct%20of%20proceedings%20in%20Patent%20and%20Trademark%20Office.md) | Rules and regulations for conduct of proceedings in Patent and Trademark Office. |
 | [1124\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001124%20-%20Importation%20of%20goods%20bearing%20infringing%20marks%20or%20names%20forbidden.md) | Importation of goods bearing infringing marks or names forbidden. |
-| [1125\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001125%20-%20False%20designations%20of%20origin%20and%20false%20descriptions%20forbidden.md) | False designations of origin and false descriptions forbidden. |
+| [1125\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001125%20-%20False%20designations%20of%20origin%2C%20false%20descriptions%2C%20and%20dilution%20forbidden.md) | False designations of origin, false descriptions, and dilution forbidden. |
 | (a) | Civil action. |
 | (b) | Importation. |
+| (c) | Remedies for dilution of famous marks. |
 | [1126\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001126%20-%20International%20conventions.md) | International conventions. |
 | (a) | Register of marks communicated by international bureaus. |
 | (b) | Benefits of section to persons whose country of origin is party to convention or treaty. |

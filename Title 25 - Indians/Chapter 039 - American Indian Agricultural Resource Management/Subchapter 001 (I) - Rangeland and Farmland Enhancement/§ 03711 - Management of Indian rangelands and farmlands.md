@@ -2,7 +2,7 @@
 
 #### (a) Management objectives
 
-Consistent with the provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
+Consistent with the provisions of the Indian Self-Determination and Education AssistanceAct \[25 U.S.C. 450 et seq.\], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
 
 &emsp;(1) To protect, conserve, utilize, and maintain the highest productive potential on Indian agricultural lands through the application of sound conservation practices and techniques. These practices and techniques shall be applied to planning, development, inventorying, classification, and management of agricultural resources.
 

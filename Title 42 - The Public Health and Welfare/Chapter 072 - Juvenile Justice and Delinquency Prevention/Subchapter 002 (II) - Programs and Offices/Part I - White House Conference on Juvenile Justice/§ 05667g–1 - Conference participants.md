@@ -22,7 +22,7 @@ The Conference shall bring together persons concerned with issues and programs, 
 
 &emsp;&emsp;(iv) the President may appoint 20 delegates and 5 alternates;
 
-&emsp;&emsp;(v) the chief law enforcement official and the chief juvenile corrections official of eachState may appoint 1 delegate and 1 alternate each; and
+&emsp;&emsp;(v) the chief law enforcement official and the chief juvenile corrections official of each State may appoint 1 delegate and 1 alternate each; and
 
 &emsp;&emsp;(vi) the Chairperson of the Juvenile Justice and Delinquency Prevention Advisory Committee of each State, or his or her designate, may appoint 1 delegate.
 

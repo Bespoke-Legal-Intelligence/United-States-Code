@@ -18,9 +18,9 @@ Guidelines.—The Secretary of Defense shall establish guidelines for the manner
 
 (c)
 
-Master Plan.—(1) The Secretary of Defense shall include in the materials submitted to Congress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
+Master Plan.—(1) The Secretary of Defense shall include in the materials submitted toCongress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
 
-(2) The master plan referred to in paragraph (1) shall include the information described inparagraph (3). Such information shall include information for each of the two fiscal years immediately preceding such fiscal year and projected information for such fiscal year and each of the two fiscal years immediately following such fiscal year.
+(2) The master plan referred to in paragraph (1) shall include the information described in paragraph (3). Such information shall include information for each of the two fiscal years immediately preceding such fiscal year and projected information for such fiscal year and each of the two fiscal years immediately following such fiscal year.
 
 (3) The information referred to in paragraph (2) is the following:
 

@@ -2,7 +2,7 @@
 
 (a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty (other than for training) for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
 
-(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
+(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reservecomponent under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
 
 (c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty (other than for training), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being ordered to active duty (other than for training).
 
@@ -84,7 +84,7 @@ Aug. 9, 1955, ch. 665, §2(e), 69 Stat. 599.
 
 The word “hereafter” is omitted as surplusage. The words “there are not enough . . . who are” are substituted for the words “adequate numbers of . . . are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity.
 
-The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
+The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
 
 #### Codification
 
@@ -138,5 +138,5 @@ Standby Reserve, composition of, see section 10151 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 523, 582, 641, 672, 10142, 10151, 10215, 12305, 12306, 12307, 12310, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211; title 50 App. section 592.
+This section is referred to in sections 101, 523, 582, 641, 672, 10142, 10151, 10215, 12305, 12306, 12307, 12310, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211, 4312; title 50 App. section 592.
 

@@ -10,5 +10,7 @@ A prior section 15 of act July 22, 1954, ch. 558, 68 Stat. 504; Mar. 16, 1962, P
 
 #### Cross References
 
+Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance into Members’ Representational Allowance, see section 57b of Title 2, The Congress.
+
 Delegate from Virgin Islands, see section 1711 et seq. of this title.
 

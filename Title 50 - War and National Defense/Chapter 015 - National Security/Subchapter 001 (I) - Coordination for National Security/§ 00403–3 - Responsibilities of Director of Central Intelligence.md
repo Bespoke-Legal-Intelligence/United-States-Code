@@ -60,7 +60,7 @@ In the Director's capacity as head of the Central Intelligence Agency, the Direc
 
 &emsp;(4) perform such additional services as are of common concern to the elements of the intelligence community, which services the Director of Central Intelligence determines can be more efficiently accomplished centrally; and
 
-&emsp;(5) perform such other functions and duties related to intelligence affecting the national security as the President or the National Security Council may direct.
+&emsp;(5) perform such other functions and duties related to intelligence affecting the nationalsecurity as the President or the National Security Council may direct.
 
 (July 26, 1947, ch. 343, title I, §103, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §705(a)(3), 106 Stat. 3190; amended Dec. 3, 1993, Pub. L. 103–178, title V, §502, 107 Stat. 2038.)
 

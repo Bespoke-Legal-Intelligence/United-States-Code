@@ -3,8 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [8901\.](%C2%A7%2008901%20-%20Definitions.md) | Definitions. |
-| 8902\. | Contracting authority. |
-| 8902a. | Debarment and other sanctions. |
+| [8902\.](%C2%A7%2008902%20-%20Contracting%20authority.md) | Contracting authority. |
+| [8902a.](%C2%A7%2008902a%20-%20Debarment%20and%20other%20sanctions.md) | Debarment and other sanctions. |
 | [8903\.](%C2%A7%2008903%20-%20Health%20benefits%20plans.md) | Health benefits plans. |
 | [8903a.](%C2%A7%2008903a%20-%20Additional%20health%20benefits%20plans.md) | Additional health benefits plans. |
 | [8904\.](%C2%A7%2008904%20-%20Types%20of%20benefits.md) | Types of benefits. |
@@ -25,15 +25,15 @@
 
 #### Amendments
 
-1988—Pub. L. 100–654, title I, §101(b), title II, §201(a)(2), title III, §301(b), Nov. 14, 1988, 102 Stat. 3841, 3845, 3846, added items 8902a, 8905a, and 8906a.
+<b>1988</b>—Pub. L. 100–654, title I, §101(b), title II, §201(a)(2), title III, §301(b), Nov. 14, 1988, 102 Stat. 3841, 3845, 3846, added items 8902a, 8905a, and 8906a.
 
 Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added item 8914.
 
-1985—Pub. L. 99–53, §§1(b)(2), 3(a)(2)(B), June 17, 1985, 99 Stat. 94, 95, added item 8903a and inserted “or disability” after “and survivor” in item 8908.
+<b>1985</b>—Pub. L. 99–53, §§1(b)(2), 3(a)(2)(B), June 17, 1985, 99 Stat. 94, 95, added item 8903a and inserted “or disability” after “and survivor” in item 8908.
 
-1984—Pub. L. 98–615, §3(8), Nov. 8, 1984, 98 Stat. 3204, substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
+<b>1984</b>—Pub. L. 98–615, §3(8), Nov. 8, 1984, 98 Stat. 3204, substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
 
-1976—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted “employees and survivor annuitants” for “employee” in item 8908.
+<b>1976</b>—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted “employees and survivor annuitants” for “employee” in item 8908.
 
 #### Chapter Referred to in Other Sections
 

@@ -24,7 +24,7 @@ In order to receive a grant under this subchapter, an eligible local educational
 
 &emsp;(10) a description of how the grantee will inform parents about the extent of crime and violence in their children's schools and maximize the participation of parents in the grantee's violence prevention activities;
 
-&emsp;(11) an assurance that grant funds under this subchapter will be used to supplement and notsupplant State and local funds that would, in the absence of funds under this subchapter, be made available by the applicant for the purposes of the grant;
+&emsp;(11) an assurance that grant funds under this subchapter will be used to supplement and not supplant State and local funds that would, in the absence of funds under this subchapter, be made available by the applicant for the purposes of the grant;
 
 &emsp;(12) an assurance that the applicant will cooperate with, and provide assistance to, the Secretary in gathering statistics and other data the Secretary determines are necessary to determine the effectiveness of projects and activities assisted under this subchapter or the extent of school violence and discipline problems throughout the Nation; and
 
@@ -34,13 +34,13 @@ In order to receive a grant under this subchapter, an eligible local educational
 
 In order to receive funds under this subchapter for a second year, a grantee shall submit to the Secretary a comprehensive, long-term, school safety plan for reducing and preventing school violence and discipline problems. Such plan shall contain a description of how the grantee will coordinate the grantee's school crime and violence prevention efforts with education, law-enforcement, judicial, health, social service, and other appropriate agencies and organizations serving the community.
 
-(Pub. L. 103 227, title VII, §704, Mar. 31, 1994, 108 Stat. 205.)
+(Pub. L. 103–227, title VII, §704, Mar. 31, 1994, 108 Stat. 205.)
 
 #### References in Text
 
-The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89 10 as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 7101 et seq. of this title.
+The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 7101 et seq. of this title.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93 415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 (4) Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
 
-&emsp;(A) the Secretary of the Interior determines that no Federal land or facilities are reasonably available for emergency shelters or halfway <sup>1</sup> houses described in subsection (a) ofthis section to serve the needs of that Indian tribe or tribal organization, and
+&emsp;(A) the Secretary of the Interior determines that no Federal land or facilities are reasonably available for emergency shelters or halfway <sup>1</sup> houses described in subsection (a) of this section to serve the needs of that Indian tribe or tribal organization, and
 
 &emsp;(B) the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a) of this section.
 

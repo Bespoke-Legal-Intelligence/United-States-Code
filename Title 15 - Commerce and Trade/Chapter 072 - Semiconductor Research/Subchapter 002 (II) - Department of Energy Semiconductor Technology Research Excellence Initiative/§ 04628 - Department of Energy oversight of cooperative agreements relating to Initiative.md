@@ -8,5 +8,5 @@ If the Secretary of Energy desires an opportunity to disapprove or require the m
 
 Each national laboratory shall maintain a record of all agreements entered into under this section.
 
-(Pub. L. 100 180, div. C, title I, §3148, Dec. 4, 1987, 101 Stat. 1244.)
+(Pub. L. 100–180, div. C, title I, §3148, Dec. 4, 1987, 101 Stat. 1244.)
 

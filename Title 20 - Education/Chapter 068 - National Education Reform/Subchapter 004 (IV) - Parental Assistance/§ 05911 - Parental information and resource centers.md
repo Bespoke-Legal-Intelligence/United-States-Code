@@ -28,7 +28,7 @@ The purpose of this subchapter is—
 
 &emsp;In awarding grants under this subchapter, the Secretary shall ensure that such grants are distributed, to the greatest extent possible, to all geographic regions of the United States.
 
-(Pub. L. 103 227, title IV, §401, Mar. 31, 1994, 108 Stat. 187.)
+(Pub. L. 103–227, title IV, §401, Mar. 31, 1994, 108 Stat. 187.)
 
 #### Section Referred to in Other Sections
 

@@ -18,9 +18,9 @@ Arbitration.—Parties to such a negotiation, within such time as may be specifi
 
 (c)
 
-License Agreements Superior to Copyright Arbitration Royalty Panel Determinations.—License agreements between one ormore copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by a copyright arbitration royalty panel.
+License Agreements Superior to Copyright Arbitration Royalty Panel Determinations.—License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by a copyright arbitration royalty panel.
 
-(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309.)
+(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amendedPub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309.)
 
 #### Prior Provisions
 

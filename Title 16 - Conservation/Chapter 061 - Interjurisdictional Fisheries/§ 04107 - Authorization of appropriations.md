@@ -10,7 +10,7 @@ In addition to the amounts authorized in subsection (a) of this section, there a
 
 &emsp;(1) in providing funds to States under this subsection, the Secretary shall give a preference to those States regarding which the Secretary determines there is a commercial fishery failure or serious disruption affecting future production due to a fishery resource disaster arising from natural or undetermined causes, and any sums made available under this subsection may be used either by the States or directly by the Secretary in cooperation with the States for any purpose that the Secretary determines is appropriate to restore the fishery affected by such a failure or to prevent a similar failure in the future;
 
-&emsp;(2) the funds authorized to be appropriated under this subsection shall not be available tothe Secretary for use as grants for chartering fishing vessels; and
+&emsp;(2) the funds authorized to be appropriated under this subsection shall not be available to the Secretary for use as grants for chartering fishing vessels; and
 
 &emsp;(3) the Federal share of the cost of any activity carried out with an amount appropriated under the authority of this subsection shall be 75 percent of the cost of that activity.
 
@@ -36,7 +36,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 (4) A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster.
 
-(5) The Secretary shall establish, after notice and opportunity for public comment, appropriate limitations, terms, and conditions for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.
+(5) The Secretary shall establish, after notice and opportunity for public comment, appropriate limitations, terms, and conditions for awarding grants under this subsection, includingprovisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.
 
 (6) As used in this subsection, the term “person” means any individual or any corporation, partnership, trust, association, or other nongovernmental entity.
 

@@ -1,4 +1,4 @@
-### §1403 . Persons born in the Canal Zone or Republic of Panama on or after February 26, 1904
+### §1403. Persons born in the Canal Zone or Republic of Panama on or after February 26, 1904
 
 (a) Any person born in the Canal Zone on or after February 26, 1904, and whether before or after the effective date of this chapter, whose father or mother or both at the time of the birth of such person was or is a citizen of the United States, is declared to be a citizen of the United States.
 
@@ -14,7 +14,7 @@ The effective date of this chapter, referred to in text, is the 180th day immedi
 
 #### Change of Name
 
-Panama Railroad Company redesignated Panama Canal Company by act Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038. References to Panama Canal Company inlaws of the United States are deemed to refer to Panama Canal Commission pursuant to section 3602(b)(5) of Title 22, Foreign Relations and Intercourse.
+Panama Railroad Company redesignated Panama Canal Company by act Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038. References to Panama Canal Company in laws of the United States are deemed to refer to Panama Canal Commission pursuant to section 3602(b)(5) of Title 22, Foreign Relations and Intercourse.
 
 #### Cross References
 

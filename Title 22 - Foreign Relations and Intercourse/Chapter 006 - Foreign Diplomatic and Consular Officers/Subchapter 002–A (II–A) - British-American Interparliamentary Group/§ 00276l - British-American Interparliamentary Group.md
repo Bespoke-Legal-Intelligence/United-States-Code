@@ -24,7 +24,7 @@ There is authorized to be appropriated $50,000 for each fiscal year to assist in
 
 #### (e) Certification of expenditures
 
-The certificate of the Chair of the House delegation or the Senate delegation of the United States group shall be final and conclusive uponthe accounting officers in the auditing of the accounts of the United States group.
+The certificate of the Chair of the House delegation or the Senate delegation of the United States group shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group.
 
 #### (f) Annual report
 
@@ -38,5 +38,5 @@ Section is comprised of section 168 of Pub. L. 102–138. Subsec. (g) of section
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

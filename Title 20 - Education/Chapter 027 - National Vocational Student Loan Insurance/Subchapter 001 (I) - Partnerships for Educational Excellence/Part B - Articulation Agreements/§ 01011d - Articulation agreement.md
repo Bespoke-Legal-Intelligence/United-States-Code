@@ -18,7 +18,7 @@ Funds provided to an articulation partnership under this part may be used—
 
 &emsp;(5) to provide outreach to potential students.
 
-(Pub. L. 89 329, title I, §125, as added Pub. L. 102 325, title I, §101, July 23, 1992, 106 Stat. 463.)
+(Pub. L. 89–329, title I, §125, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 463.)
 
 #### Section Referred to in Other Sections
 

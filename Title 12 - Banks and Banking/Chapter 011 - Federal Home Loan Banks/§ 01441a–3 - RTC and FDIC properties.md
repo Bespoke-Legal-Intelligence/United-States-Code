@@ -4,7 +4,7 @@
 
 #### (1) Submission
 
-&emsp;The Resolution Trust Corporation and the Federal Deposit Insurance Corporation shall each submit to the Congress for each year a report identifying and describing any property that is covered property of the corporation concerned as of September 30 of such year. The report shall be submitted on or before March 30 of the following year.
+&emsp;The Resolution Trust Corporation and the Federal Deposit Insurance Corporation shalleach submit to the Congress for each year a report identifying and describing any property that is covered property of the corporation concerned as of September 30 of such year. The report shall be submitted on or before March 30 of the following year.
 
 #### (2) Consultation
 

@@ -218,7 +218,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) on behalf of which such bond was issued, and
 
-&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility, with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
+&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility, with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
 
 #### (B) Approval by a governmental unit
 
@@ -276,7 +276,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (A) Scholarship funding bonds
 
-&emsp;&emsp;In the case of a qualified scholarship funding bond, any governmental unit which made a request described in section 150(d)(2)(B) with respect to the issuer of suchbond shall be treated for purposes of paragraph (2) of this subsection as the governmental unit on behalf of which such bond was issued. Where more than one governmental unit within a State has made a request described in section 150(d)(2)(B), the State may also be treated for purposes of paragraph (2) of this subsection as the governmental unit on behalf of which such bond was issued.
+&emsp;&emsp;In the case of a qualified scholarship funding bond, any governmental unit which made a request described in section 150(d)(2)(B) with respect to the issuer of such bond shall be treated for purposes of paragraph (2) of this subsection as the governmental unit on behalf of which such bond was issued. Where more than one governmental unit within a State has made a request described in section 150(d)(2)(B), the State may also be treated for purposes of paragraph (2) of this subsection as the governmental unit on behalf of which such bond was issued.
 
 #### (B) Volunteer fire department bonds
 

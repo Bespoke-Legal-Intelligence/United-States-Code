@@ -444,5 +444,5 @@ Qualified state judicial plan.—For purposes of subparagraph (A), the term ‘q
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 219, 403, 414, 818, 3121, 4974, 6051 of this title; title 11 section 101; title 12 section 1821; title 42 section 409.
+This section is referred to in sections 219, 403, 414, 818, 3121, 4974, 6051 of this title; title 4 section 114; title 11 section 101; title 12 section 1821; title 42 section 409.
 

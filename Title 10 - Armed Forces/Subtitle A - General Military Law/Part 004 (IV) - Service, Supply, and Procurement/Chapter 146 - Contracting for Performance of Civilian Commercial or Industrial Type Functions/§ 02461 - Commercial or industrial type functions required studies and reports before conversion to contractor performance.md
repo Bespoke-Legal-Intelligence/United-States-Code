@@ -24,7 +24,7 @@ Congressional Notification of Decision To Convert.—If, after completion of the
 
 (c)
 
-Annual Reports.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a written report describing the extent to which commercial and industrial type functions were performed by Department of Defense contractors during the preceding fiscal year. The Secretary shall include in each such report an estimate of the percentage of commercial and industrial type functions of the Department of Defense that will be performed by Department of Defense civilian employees, and the percentage of such functions that will be performed by private contractors, during the fiscal year during which the report is submitted.
+Annual Reports.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a written report describing the extent to which commercial and industrial type functions were performed by Department of Defense contractors during the preceding fiscal year. The Secretary shall include in each such report an estimate of the percentage of commercial and industrial type functions of the Department of Defense that will be performed by Department of Defense civilian employees, and the percentage of such functions that will be performed by private contractors,during the fiscal year during which the report is submitted.
 
 (d)
 
@@ -56,7 +56,7 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 
 #### References in Text
 
-The Wagner-O'Day Act, referred to in subsec. (e)(2), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
+The Wagner-O'Day Act, referred to in subsec. (e)(2), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, now known as the Javits-Wagner-O'Day Act, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Amendments
 

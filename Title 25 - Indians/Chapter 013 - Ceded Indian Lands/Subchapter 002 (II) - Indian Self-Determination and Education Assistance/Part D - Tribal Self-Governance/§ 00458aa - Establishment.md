@@ -1,6 +1,6 @@
 ### §458aa. Establishment
 
-The Secretary of the Interior (hereinafter in this part referred to as the “Secretary”) shall establish and carry out a program within the Department of the Interior to be known as Tribal Self-Governance (hereinafter in this part referred to as “Self-Governance”) in accordance with this part.
+The Secretary of the Interior (hereinafter in this part referred to as the “Secretary”) shallestablish and carry out a program within the Department of the Interior to be known as Tribal Self-Governance (hereinafter in this part referred to as “Self-Governance”) in accordance with this part.
 
 (Pub. L. 93–638, title IV, §401, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4271.)
 

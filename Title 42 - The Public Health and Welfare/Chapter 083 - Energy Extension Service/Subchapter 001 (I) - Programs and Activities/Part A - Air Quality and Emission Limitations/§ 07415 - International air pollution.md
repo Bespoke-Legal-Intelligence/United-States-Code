@@ -2,7 +2,7 @@
 
 #### (a) Endangerment of public health or welfare in foreign countries from pollution emitted in United States
 
-Whenever the Administrator, upon receipt of reports, surveys or studies from any duly constituted international agency has reason to believe that any air pollutant or pollutants emitted in the United States cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare in a foreign country or whenever the Secretary ofState requests him to do so with respect to such pollution which the Secretary of State alleges is of such a nature, the Administrator shall give formal notification thereof to the Governor of the State in which such emissions originate.
+Whenever the Administrator, upon receipt of reports, surveys or studies from any duly constituted international agency has reason to believe that any air pollutant or pollutants emitted in the United States cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare in a foreign country or whenever the Secretary of State requests him to do so with respect to such pollution which the Secretary of State alleges is of such a nature, the Administrator shall give formal notification thereof to the Governor of the State in which such emissions originate.
 
 #### (b) Prevention or elimination of endangerment
 
@@ -46,7 +46,7 @@ Subsec. (k). Pub. L. 91–604, §4(b)(3), (10), substituted provisions relating 
 
 1967—Subsec. (b). Pub. L. 90–148 substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
-Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2)provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 90–148 redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f) and amended.
 

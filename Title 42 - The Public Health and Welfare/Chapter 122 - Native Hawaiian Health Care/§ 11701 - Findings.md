@@ -76,7 +76,7 @@ The Older Americans Act of 1965, referred to in par. (20), is Pub. L. 89–73, J
 
 The Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, referred to in par. (20), is Pub. L. 100–146, Oct. 29, 1987, 101 Stat. 840, as amended. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6000 of this title and Tables.
 
-The Veterans’ Benefits and Services Act of 1988, referred to in par. (20), is Pub. L. 100–322, May 20, 1988, 102Stat. 487, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 101 of Title 38, Veterans’ Benefits, and Tables.
+The Veterans’ Benefits and Services Act of 1988, referred to in par. (20), is Pub. L. 100–322, May 20, 1988, 102 Stat. 487, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 101 of Title 38, Veterans’ Benefits, and Tables.
 
 The Rehabilitation Act of 1973, referred to in par. (20), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

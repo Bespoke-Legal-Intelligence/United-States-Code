@@ -1,4 +1,4 @@
-### §1489 . Death gratuity: members and employees dying outside the United States while assigned to intelligence duties
+### §1489. Death gratuity: members and employees dying outside the United States while assigned to intelligence duties
 
 (a) The Secretary of Defense may pay a gratuity to the surviving dependents of any member of the armed forces or of any employee of the Department of Defense—
 

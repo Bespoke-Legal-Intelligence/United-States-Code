@@ -40,7 +40,7 @@ The Capitol Guide Board may detail personnel of the Capitol Guide Service to ass
 
 #### (g) Historical and educational information
 
-The Capitol Guide Board may receive and consider advice and information from any privatehistorical or educational organization, association, or society with respect to those operations of the Capitol Guide Service which involve the furnishing of historical and educational information to the general public.
+The Capitol Guide Board may receive and consider advice and information from any private historical or educational organization, association, or society with respect to those operations of the Capitol Guide Service which involve the furnishing of historical and educational information to the general public.
 
 #### (h) Regulations for operation of Service
 
@@ -66,7 +66,7 @@ Section was not enacted as part of the National Visitor Center Facilities Act of
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1977 Amendment
 

@@ -70,7 +70,7 @@ Section effective July 1, 1973, see section 501 of Pub. L. 93–82, set out as a
 
 #### Savings Provision
 
-Section 107(c) of Pub. L. 93–82 provided that section 107(a) of Pub. L. 93–82, enacting this section and section631 \[now 1731\] of this title, did not affect any right, cause, obligation, contract (including the contract executed Apr. 25, 1967, between the Government of the Republic of the Philippines and the Government of the United States resulting from Pub. L. 89–612, which was to remain in effect until modified or superseded by an agreement executed under authority of Pub. L. 93–82), authorization of appropriation, grant, function, power, or duty vested by law or otherwise under this section in effect on the day before Aug. 2, 1973.
+Section 107(c) of Pub. L. 93–82 provided that section 107(a) of Pub. L. 93–82, enacting this section and section 631 \[now 1731\] of this title, did not affect any right, cause, obligation, contract (including the contract executed Apr. 25, 1967, between the Government of the Republic of the Philippines and the Government of the United States resulting from Pub. L. 89–612, which was to remain in effect until modified or superseded by an agreement executed under authority of Pub. L. 93–82), authorization of appropriation, grant, function, power, or duty vested by law or otherwise under this section in effect on the day before Aug. 2, 1973.
 
 #### Ratification of Actions of Secretary of Veterans Affairs in Carrying Out This Section
 
@@ -78,7 +78,7 @@ Section 304(b) of Pub. L. 102–86 provided that: “Any actions by the Secretar
 
 #### Ratification of Action of Administrator in Contracting
 
-Section 206(a)(2) of Pub. L. 99–576 ratified actions by the Administrator of Veterans’ Affairs in contracting under subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
+Section 206(a)(2) of Pub. L. 99–576 ratified actions by the Administrator of Veterans’ Affairs in contractingunder subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
 
 #### Reports on Use of Funds
 

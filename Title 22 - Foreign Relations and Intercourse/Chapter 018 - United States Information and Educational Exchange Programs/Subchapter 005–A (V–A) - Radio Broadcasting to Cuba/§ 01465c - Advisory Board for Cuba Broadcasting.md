@@ -36,7 +36,7 @@ There are authorized to be appropriated $130,000 to carry out the provisions of 
 
 #### References in Text
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 #### Codification
 

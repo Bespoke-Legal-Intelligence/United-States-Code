@@ -10,7 +10,7 @@ For the purpose of sections 5532 and 5533 of this title—
 
 &emsp;(4) “agency in the legislative branch” means the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, and the Congressional Budget Office;
 
-&emsp;(5) “employee of the House of Representatives” means a congressional employee whose pay is disbursed by the Clerk of the House of Representatives;
+&emsp;(5) “employee of the House of Representatives” means a congressional employee whosepay is disbursed by the Clerk of the House of Representatives;
 
 &emsp;(6) “employee of the Senate” means a congressional employee whose pay is disbursed by the Secretary of the Senate; and
 
@@ -38,9 +38,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1991—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
+<b>1991</b>—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
 
-1978—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
+<b>1978</b>—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
 
 #### Effective Date of 1978 Amendment
 

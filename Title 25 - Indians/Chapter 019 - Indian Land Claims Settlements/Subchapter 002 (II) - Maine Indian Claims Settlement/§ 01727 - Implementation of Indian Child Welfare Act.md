@@ -14,7 +14,7 @@ Assumption or jurisdiction under this section shall not affect any action or pro
 
 #### (d) Reservations within section 1903(10) of this title
 
-For the purposes of this section, the Passamaquoddy Indian Reservation and the PenobscotIndian Reservation are “reservations” within section 4(10) of the Act \[25 U.S.C. 1903(10)\].
+For the purposes of this section, the Passamaquoddy Indian Reservation and the Penobscot Indian Reservation are “reservations” within section 4(10) of the Act \[25 U.S.C. 1903(10)\].
 
 #### (e) Indian tribe within section 1903(8) of this title; State jurisdiction over child welfare unaffected
 

@@ -238,8 +238,6 @@ Aug. 1, 1953, ch. 305, §604, 67 Stat. 349.
 
 The text of 31:650a (related to a member of an armed force) is omitted as unnecessary because of 37:404(a)(3). The words “On and after August 1, 1953” are omitted as executed. The words “A member . . . is entitled to” aresubstituted for “personnel” for clarity and consistency in the title. The word “baggage” is added for consistency in the title. The words “dependents, baggage, or household effects” are substituted for “such personnel” for clarity. The word “otherwise” is omitted as surplus. The words “used to pay for that transportation” are substituted for “charged with all expenses in connection with such travel including” for clarity.
 
-&nbsp;
-
 | <i>Revised section</i> | <i>Source (U.S. Code)</i> | <i>Source (Statutes at Large)</i> |
 | --- | --- | --- |
 | 406(k) | 37:406 (note). | Feb. 9, 1976, Pub. L. 94–212, §747, 90 Stat. 176. |
@@ -354,7 +352,7 @@ Subsec. (f). Pub. L. 99–661, §617(a)(2), inserted “, plus a per diem for t
 
 Subsec. (g)(1). Pub. L. 99–661, §617(a)(3), inserted “, and to a per diem for his dependents” after “404(c) of this title” in concluding provisions.
 
-Subsec. (h). Pub. L. 99–661, §652(b), designated existing provisions as par. (1), amended first sentence generally, and added par. (2). Prior to amendment, first sentence read as follows: “In the case of a member who is serving at a station outside the United States or in Hawaii or Alaska, if the Secretary concerned determines it to be in the best interests of the member or his dependents and the United States, he may, when orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for the transportation of his dependents, baggage, and household effects—
+Subsec. (h). Pub. L. 99–661, §652(b), designated existing provisions as par. (1), amended first sentence generally, and added par. (2). Prior to amendment, first sentence read as follows: “In the case of a member who is serving at a station outside the United States or in Hawaii or Alaska, if the Secretary concerned determines it to be in the best interests of the member or his dependents and the United States, he may, when orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for thetransportation of his dependents, baggage, and household effects—
 
 &emsp;“(1) authorize the movement of the member's dependents, baggage, and household effects at that station to an appropriate location in the United States or its possessions and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof, as the case may be, as authorized under subsection (a) or (b) of this section; and
 
@@ -412,13 +410,13 @@ Subsec. (g). Pub. L. 89–718, §§58(2), 59, inserted “is” before “placed
 
 Pub. L. 89–680, §1(3), inserted, in authorization for transportation for dependents, baggage, and household effects to the home selected under section 404(c) of this title, provisions limiting the entitlement to not later than one year from the date of retirement, placement on the list, discharge, or release, except as prescribed in regulations by the Secretaries concerned.
 
-1965—Subsec. (h)(2). Pub. L. 89–101 substituted “by means of transportation authorized under section 2634of title 10” for “on a vessel owned, leased, or chartered by the United States or by privately owned American shipping services”.
+1965—Subsec. (h)(2). Pub. L. 89–101 substituted “by means of transportation authorized under section 2634 of title 10” for “on a vessel owned, leased, or charteredby the United States or by privately owned American shipping services”.
 
 1964—Subsec. (h). Pub. L. 88–431 added subsec. (h).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referred to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

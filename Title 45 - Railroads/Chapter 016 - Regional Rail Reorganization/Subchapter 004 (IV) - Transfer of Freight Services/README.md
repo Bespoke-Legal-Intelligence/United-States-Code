@@ -1,6 +1,8 @@
 ### SUBCHAPTER IV—TRANSFER OF FREIGHT SERVICES
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Section 10903(b) of Title 49, Transportation, does not contain a par. (3).</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
 
 ---

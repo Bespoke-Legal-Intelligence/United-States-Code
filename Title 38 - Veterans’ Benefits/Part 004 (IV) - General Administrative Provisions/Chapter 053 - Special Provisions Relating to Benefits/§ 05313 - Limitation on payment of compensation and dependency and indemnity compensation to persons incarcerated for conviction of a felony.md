@@ -8,7 +8,7 @@
 
 (2) The provisions of paragraph (1) of this subsection shall not apply with respect to any period during which a person is participating in a work-release program or is residing in a halfway house.
 
-(b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned under the same terms and conditions as are provided under section 5307 of this title.
+(b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned under the same terms andconditions as are provided under section 5307 of this title.
 
 (2) All or any part of the dependency and indemnity compensation not paid to a surviving spouse or child by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned as follows:
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) In the case of dependency and indemnity compensation not paid to a surviving child, any apportionment shall be to the surviving spouse or other surviving children, as applicable.
 
-(3) No apportionment may be made under this subsection to or on behalf of any person who isincarcerated in a Federal, State, or local penal institution for conviction of a felony.
+(3) No apportionment may be made under this subsection to or on behalf of any person who is incarcerated in a Federal, State, or local penal institution for conviction of a felony.
 
 (c) The Secretary shall not assign to any veteran a rating of total disability based on the individual unemployability of the veteran resulting from a service-connected disability during any period during which the veteran is incarcerated in a Federal, State, or local penal institution for conviction of a felony.
 

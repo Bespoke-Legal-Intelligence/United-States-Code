@@ -32,7 +32,7 @@ Each State may use funds made available under section 6643(1)(A) of this title t
 
 &emsp;(13) professional development activities designed to increase the number of women and other underrepresented groups in the administration of schools.
 
-(Pub. L. 89 10, title II, §2207, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3625.)
+(Pub. L. 89–10, title II, §2207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3625.)
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ Jan. 3, 1975, Pub. L. 93–633, §307(a), 88 Stat. 2172; Nov. 3, 1981, Pub. L. 9
 
 Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §307(b); added Nov. 3, 1981, Pub. L. 97–74, §6, 95 Stat. 1066.
 
-In subsections (a) and (b), the words “carry out” are substituted for “initiate and conduct” for consistencyin the revised title and with other titles of the United States Code.
+In subsections (a) and (b), the words “carry out” are substituted for “initiate and conduct” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(1), the word “complete” is substituted for “in full” for consistency in the revised title.
 

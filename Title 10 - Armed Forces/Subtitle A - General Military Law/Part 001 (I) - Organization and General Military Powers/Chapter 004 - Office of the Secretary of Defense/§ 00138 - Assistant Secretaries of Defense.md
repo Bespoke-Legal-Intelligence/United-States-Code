@@ -1,4 +1,4 @@
-### §138 . Assistant Secretaries of Defense
+### §138. Assistant Secretaries of Defense
 
 (a) There are eleven Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
@@ -78,7 +78,7 @@ July 26, 1947, ch. 343, §401; added Aug. 10, 1949, ch. 412, §11 (1st 2 pars.),
 
 In subsection (b)(1), 5 U.S.C. 172(b) (last 13 words of 1st sentence) is omitted as surplusage, since they are only a general description of the powers of the Secretary of Defense under this title. 5 U.S.C. 171c–2 (less 1st sentence) is omitted as covered by 5 U.S.C. 171c(c) (1st 18 words of 2d sentence).
 
-In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
+In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences),5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
 
 #### Codification
 
@@ -182,7 +182,7 @@ Section 1212(e) of Pub. L. 98–94 provided that: “The amendments made by this
 
 #### Effective Date of 1967 Amendment
 
-Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see Short Title of 1967 Amendment note below\] shall become effective on the first day of the first calendar month following the date of enactment \[Dec. 1, 1967\].”
+Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see Short Title of 1967 Amendmentnote below\] shall become effective on the first day of the first calendar month following the date of enactment \[Dec. 1, 1967\].”
 
 #### Short Title of 1967 Amendment
 

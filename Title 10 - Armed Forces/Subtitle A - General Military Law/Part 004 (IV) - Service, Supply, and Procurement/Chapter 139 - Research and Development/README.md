@@ -42,7 +42,7 @@ Pub. L. 102–25, title VII, §701(e)(5), Apr. 6, 1991, 105 Stat. 114, inserted 
 
 1990—Pub. L. 101–510, div. A, title II, §241(b), title VIII, §824(a)(2), title XIII, §1331(5), Nov. 5, 1990, 104 Stat. 1517, 1604, 1673, struck out items 2357 “Contracts: reports to Congress” and 2359 “Salaries of officers of Federal contract research centers: reports to Congress” and added items 2370 and 2372.
 
-1989—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in item 2366, substituted “research” for “plan” in item 2368, and added item 2371.
+1989—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted “testing and lethality testing required before full-scale production” for “and lethalitytesting; operational testing” in item 2366, substituted “research” for “plan” in item 2368, and added item 2371.
 
 1988—Pub. L. 100–456, div. A, title II, §220(b), title VIII, §§823(a)(2), 842(b), Sept. 29, 1988, 102 Stat. 1941, 2018, 2026, added items 2361, 2368, and 2369.
 

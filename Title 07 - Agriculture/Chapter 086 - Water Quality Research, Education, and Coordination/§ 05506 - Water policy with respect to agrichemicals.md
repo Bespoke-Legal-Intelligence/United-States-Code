@@ -1,0 +1,44 @@
+### §5506. Water policy with respect to agrichemicals
+
+#### (a) Authority
+
+The Department of Agriculture shall be the principal Federal agency responsible and accountable for the development and delivery of educational programs, technical assistance, and research programs for the users and dealers of agrichemicals to insure that—
+
+&emsp;(1) the use, storage, and disposal of agrichemicals by users is prudent, economical, and environmentally sound; and
+
+&emsp;(2) agrichemical users, dealers, and the general public understand the implications of their actions and the potential effects on water.
+
+> The Secretary is authorized to undertake such programs and assistance in cooperation with other Federal, State, and local governments and agencies, and appropriate nonprofit organizations. The Secretary shall disseminate the results of efforts in extension, technical assistance, research, and related activities. The Secretary shall undertake activities under this subtitle in coordination with the Office of Agricultural Environmental Quality in section 5402 of this title.
+
+#### (b) Effect on existing authority
+
+The authority granted in subsection (a) of this section and section 3125c of this title does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).
+
+#### (c) Participation
+
+The following agencies shall participate in the Department's water program: the Agricultural Research Service; the Agricultural Stabilization and Conservation Service; the Animal and Plant Health Inspection Service; the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services; the Forest Service; the National Agricultural Library; the National Agricultural Statistics Service; the Soil Conservation Service; and other agencies within the Department deemed appropriate by the Secretary.
+
+(Pub. L. 101–624, title XIV, §1499, Nov. 28, 1990, 104 Stat. 3632; Pub. L. 102–237, title II, §201(g), Dec. 13, 1991, 105 Stat. 1847.)
+
+#### References in Text
+
+This subtitle, referred to in subsec. (a), means subtitle H (§§1491–1499) of title XIV of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3627, which enacted sections 136i–1 and 5506 of this title, amended sections 136a, 136a–1, 136d, 136w–3, and 450i of this title, and enacted provisions set out as a note under section 136a of this title. For complete classification of this subtitle to the Code, see Tables.
+
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+
+#### Codification
+
+Section was not enacted as part of the Agriculture and Water Policy Coordination Act which comprises this chapter.
+
+#### Amendments
+
+1991—Subsec. (a). Pub. L. 102–237, §201(g)(1), inserted “Agricultural” before “Environmental Quality” and substituted “section 5402 of this title” for “section 1612 of this Act”.
+
+Subsec. (b). Pub. L. 102–237, §201(g)(2), substituted “Effect” for “Affect” in heading and inserted reference to section 3125c of this title.
+
+Subsec. (c). Pub. L. 102–237, §201(g)(3), inserted “and” after “Animal”.
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+

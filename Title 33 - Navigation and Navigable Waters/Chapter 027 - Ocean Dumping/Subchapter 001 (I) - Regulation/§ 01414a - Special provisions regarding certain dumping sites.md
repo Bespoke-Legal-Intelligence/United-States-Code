@@ -30,7 +30,7 @@ The Administrator may not issue or renew any permit under this subchapter which 
 
 #### New York Bight Apex Not Suitable for Dumping
 
-Section 1172(a) of Pub. L. 99–662 provided that: “The Congress finds that the New York Bight Apex is nolonger a suitable location for the ocean dumping of municipal sludge.”
+Section 1172(a) of Pub. L. 99–662 provided that: “The Congress finds that the New York Bight Apex is no longer a suitable location for the ocean dumping of municipal sludge.”
 
 An identical provision was enacted by Pub. L. 100–4, title V, §508(a), Feb. 4, 1987, 101 Stat. 79.
 

@@ -102,7 +102,7 @@ Provisions of subsec. (c) which prescribed the annual basic compensation of the 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 8, 1916, ch. 463, §700, 39 Stat. 795. That section was superseded by section 330 of act June 17, 1930, comprising this section.
+Provisions similar to those in this section were contained in act Sept. 8, 1916, ch. 463, §700, 39 Stat. 795. That section was superseded by section 330 of act June 17, 1930, comprising this section.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §413. Tests of innovative procurement methods and procedures
 
-(a) The Administrator may develop innovative procurement methods and procedures to be tested by selected executive agencies. The innovative procurement methods and procedures testedunder this subsection shall be consistent with the policies set forth in section 401 of this title. In developing any program to test innovative procurement methods and procedures under this subsection, the Administrator shall consult with the heads of executive agencies to—
+(a) The Administrator may develop innovative procurement methods and procedures to be tested by selected executive agencies. The innovative procurement methods and procedures tested under this subsection shall be consistent with the policies set forth in section 401 of this title. In developing any program to test innovative procurement methods and procedures under this subsection, the Administrator shall consult with the heads of executive agencies to—
 
 &emsp;(1) ascertain the need for and specify the objectives of such program;
 
@@ -26,7 +26,7 @@ A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of Tit
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Test Program for Executive Agencies
 
@@ -84,7 +84,7 @@ Procedures Authorized.—Tests conducted under this section may include any of t
 
 &emsp;“(5) Evaluation of proposals by small teams of highly qualified people over a period not greater than 30 days.
 
-&emsp;“(6) Restriction of competitions to sources determined capable in a precompetition screening process,provided that the screening process affords all interested sources a fair opportunity to be considered.
+&emsp;“(6) Restriction of competitions to sources determined capable in a precompetition screening process, provided that the screening process affords all interested sources a fair opportunity to be considered.
 
 &emsp;“(7) Restriction of competitions to sources of preevaluated products, provided that the preevaluation process affords all interested sources a fair opportunity to be considered.
 
@@ -170,7 +170,7 @@ Report.—Not later than 6 months after completion of a test conducted under sub
 
 “(j)
 
-Commencement and Expiration of Authority.—(1) The Administrator may not exercise the authority to conduct a test under subsection (a) in an agency and to award contracts under such a test before the date on which the head of the agency certifies to Congress under section 30A(a)(2) of the Office of Federal Procurement Policy Act \[41 U.S.C. 426a(a)(2)\] that the agency has implemented a full FACNET capability.
+Commencement and Expiration of Authority.—(1) The Administrator may not exercise the authority to conduct a test under subsection (a) in an agency and to award contracts under such a test before the date on which the head of the agency certifies to Congressunder section 30A(a)(2) of the Office of Federal Procurement Policy Act \[41 U.S.C. 426a(a)(2)\] that the agency has implemented a full FACNET capability.
 
 “(2) The authority to conduct a test under subsection (a) in an agency and to award contracts under such a test shall expire 4 years after the date on which the head of the agency makes the certification referred to in paragraph (1). Contracts entered into before such authority expires in an agency pursuant to a test shall remain in effect, notwithstanding the expiration of the authority to conduct the test under this section.
 

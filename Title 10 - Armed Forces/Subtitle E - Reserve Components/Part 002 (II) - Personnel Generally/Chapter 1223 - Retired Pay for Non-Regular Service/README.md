@@ -5,13 +5,13 @@
 | [12731\.](%C2%A7%2012731%20-%20Age%20and%20service%20requirements.md) | Age and service requirements. |
 | [12731a.](%C2%A7%2012731a%20-%20Temporary%20special%20retirement%20qualification%20authority.md) | Temporary special retirement qualification authority. |
 | [12732\.](%C2%A7%2012732%20-%20Entitlement%20to%20retired%20pay%20computation%20of%20years%20of%20service.md) | Entitlement to retired pay: computation of years of service. |
-| 12733\. | Computation of retired pay: computation of years of service. |
-| 12734\. | Time not creditable toward years of service. |
-| 12735\. | Inactive status list. |
-| 12736\. | Service credited for retired pay benefits not excluded for other benefits. |
-| 12737\. | Limitation on active duty. |
-| 12738\. | Limitations on revocation of retired pay. |
-| 12739\. | Computation of retired pay. |
+| [12733\.](%C2%A7%2012733%20-%20Computation%20of%20retired%20pay%20computation%20of%20years%20of%20service.md) | Computation of retired pay: computation of years of service. |
+| [12734\.](%C2%A7%2012734%20-%20Time%20not%20creditable%20toward%20years%20of%20service.md) | Time not creditable toward years of service. |
+| [12735\.](%C2%A7%2012735%20-%20Inactive%20status%20list.md) | Inactive status list. |
+| [12736\.](%C2%A7%2012736%20-%20Service%20credited%20for%20retired%20pay%20benefits%20not%20excluded%20for%20other%20benefits.md) | Service credited for retired pay benefits not excluded for other benefits. |
+| [12737\.](%C2%A7%2012737%20-%20Limitation%20on%20active%20duty.md) | Limitation on active duty. |
+| [12738\.](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md) | Limitations on revocation of retired pay. |
+| [12739\.](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

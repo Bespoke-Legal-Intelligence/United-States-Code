@@ -1,0 +1,82 @@
+### §10501. General jurisdiction
+
+(a)(1) Subject to this chapter, the Board has jurisdiction over transportation by rail carrier that is—
+
+&emsp;(A) only by railroad; or
+
+&emsp;(B) by railroad and water, when the transportation is under common control, management, or arrangement for a continuous carriage or shipment.
+
+(2) Jurisdiction under paragraph (1) applies only to transportation in the United States between a place in—
+
+&emsp;(A) a State and a place in the same or another State as part of the interstate rail network;
+
+&emsp;(B) a State and a place in a territory or possession of the United States;
+
+&emsp;(C) a territory or possession of the United States and a place in another such territory or possession;
+
+&emsp;(D) a territory or possession of the United States and another place in the same territory or possession;
+
+&emsp;(E) the United States and another place in the United States through a foreign country; or
+
+&emsp;(F) the United States and a place in a foreign country.
+
+(b) The jurisdiction of the Board over—
+
+&emsp;(1) transportation by rail carriers, and the remedies provided in this part with respect to rates, classifications, rules (including car service, interchange, and other operating rules), practices, routes, services, and facilities of such carriers; and
+
+&emsp;(2) the construction, acquisition, operation, abandonment, or discontinuance of spur, industrial, team, switching, or side tracks, or facilities, even if the tracks are located, or intended to be located, entirely in one State,
+
+> is exclusive. Except as otherwise provided in this part, the remedies provided under this part with respect to regulation of rail transportation are exclusive and preempt the remedies provided under Federal or State law.
+
+(c)(1) In this subsection—
+
+&emsp;(A) the term “local governmental authority”—
+
+&emsp;&emsp;(i) has the same meaning given that term by section 5302(a) of this title; and
+
+&emsp;&emsp;(ii) includes a person or entity that contracts with the local governmental authority to provide transportation services; and
+
+&emsp;(B) the term “mass transportation” means transportation services described in section 5302(a) of this title that are provided by rail.
+
+(2) Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority.
+
+(3)(A) Notwithstanding paragraph (2) of this subsection, a local governmental authority, described in paragraph (2), is subject to applicable laws of the United States related to—
+
+&emsp;(i) safety;
+
+&emsp;(ii) the representation of employees for collective bargaining; and
+
+&emsp;(iii) employment, retirement, annuity, and unemployment systems or other provisions related to dealings between employees and employers.
+
+(B) The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of the Interstate Commerce Commission that were in effect immediately before the effective date of the ICC Termination Act of 1995. The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
+
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 807.)
+
+#### References in Text
+
+For the effective date of the ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+The ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
+
+The Railway Labor Act, referred to in subsec. (c)(3)(B), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+
+The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+The Railroad Retirement Tax Act, referred to in subsec. (c)(3)(B), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+
+The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 10501 and 10504 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+A prior section 10501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1359; Pub. L. 96–448, title II, §214(c)(3)–(5), Oct. 14, 1980, 94 Stat. 1915; Pub. L. 103–272, §4(j)(15), July 5, 1994, 108 Stat. 1369, related to jurisdiction of the Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10501 and 15301 of this title.
+
+#### Effective Date
+
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Abolition of Interstate Commerce Commission
+
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+

@@ -8,7 +8,7 @@
 
 (b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis under the conditions specified in section 1712(a)(5)(B) of this title. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1711(b) of this title).
 
-(2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, andexpenses as are described in section 1701(6)(B) of this title.
+(2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in section 1701(6)(B) of this title.
 
 (c) Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
 
@@ -42,7 +42,7 @@
 
 (3)(A) The Secretary, after considering the recommendations of the Under Secretary for Health, shall submit to such committees a report setting forth a national plan for all centers in existence on January 1, 1988. Such national plan shall set forth the Secretary's proposals as to each such center for a period (to be determined by the Secretary) of not less than 12 months beginning on the date of the submission of the report. The plan shall include, as to each center, whether the Secretary proposes to relocate the center to a general Department facility, relocate the center to a new location away from a general Department facility, expand the center in the same location, or close the center. The plan shall also set forth any proposal of the Secretary to open additional centers.
 
-(B) The plan shall include the Secretary's evaluation as to how, in light of each of the criteria described in subparagraph (C) of this paragraph, the proposal set forth in the plan for each center covered by the plan would ensure thecontinued availability and effective furnishing of readjustment counseling services to eligible veterans needing such services in the geographic area served by that center.
+(B) The plan shall include the Secretary's evaluation as to how, in light of each of the criteria described in subparagraph (C) of this paragraph, the proposal set forth in the plan for each center covered by the plan would ensure the continued availability and effective furnishing of readjustment counseling services to eligible veterans needing such services in the geographic area served by that center.
 
 (C) The Secretary shall make the evaluation described in subparagraph (B) of this paragraph with respect to any center in light of the following:
 
@@ -348,13 +348,7 @@ Definitions.—For the purposes of this section:
 
 #### Updates of Reports on Post-Traumatic Stress Disorder
 
-Section 122(b) of Pub. L. 102–405 provided that:
-
-“(1) Not later than October 1, 1992, and October 1, 1993, the Special Committee on Post-Traumatic-Stress Disorder established pursuant to section 110(b)(1) of the Veterans’ Health Care Act of 1984 (38 U.S.C. 1712A note) shall concurrently submit to the Secretary and the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984 \[Pub. L. 98–528, set out below\], together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life.
-
-“(2) Not later than 90 days after receiving each of the reports under paragraph (1), the Secretary shall submit to the committees any comments concerning the report that the Secretary considers appropriate.”
-
-Similar provisions were contained in Pub. L. 101–237, title II, §201(e), Dec. 18, 1989, 103 Stat. 2066, as amended by Pub. L. 101–366, title II, §204, Aug. 15, 1990, 104 Stat. 439.
+Section 122(b) of Pub. L. 102–405 directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in Pub. L. 101–237, title II, §201(e), Dec. 18, 1989, 103 Stat. 2066, as amended by Pub. L. 101–366, title II, §204, Aug. 15, 1990, 104 Stat. 439.
 
 #### Authorization for Relocation of Certain Facilities
 
@@ -372,7 +366,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 “(2) The Chief Medical Director \[now Under Secretary for Health\] shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department of Veterans Affairs programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department of Veterans Affairs or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A \[formerly 612A\] of title 38, United States Code.
 
-“(b)(1) The Chief Medical Director \[now Under Secretary for Health\] shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Chief Medical Director shall appoint qualified employees of the Administration to serve on the Special Committee.
+“(b)(1) The Chief Medical Director \[now Under Secretary for Health\] shall establish in the VeteransHealth Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Chief Medical Director shall appoint qualified employees of the Administration to serve on the Special Committee.
 
 “(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department of Veterans Affairs to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department of Veterans Affairs.
 

@@ -4,7 +4,7 @@
 
 (1) The Commission may, in its discretion, make such investigations as it deems necessary to determine whether any person has violated, is violating, or is about to violate any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board, and may require or permit any person to file with it a statement in writing, under oath or otherwise as the Commission shall determine, as to all the facts and circumstances concerning the matter to be investigated. The Commission is authorized in its discretion, to publish information concerning any such violations, and to investigate any facts, conditions, practices, or matters which it may deem necessary or proper to aid in the enforcement of such provisions, in the prescribing of rules and regulations under this chapter, or in securing information to serve as a basis for recommending further legislation concerning the matters to which this chapter relates.
 
-(2) On request from a foreign securities authority, the Commission may provide assistance in accordance with this paragraph if the requesting authority states that the requesting authority is conducting an investigation which it deems necessary to determine whether any person has violated, is violating, or is about to violate any laws or rules relating to securities matters that the requesting authority administers or enforces. The Commission may, in its discretion, conduct such investigation as the Commission deems necessary to collect information and evidence pertinent to the request for assistance. Such assistance may be provided without regard to whether the facts stated in the request would also constitute a violation of the laws of the United States. In deciding whether to provide such assistance, the Commission shall consider whether (A) the requesting authority has agreed to provide reciprocal assistance in securities matters to the Commission; and (B) compliance with the request would prejudice the public interest of the United States.
+(2) On request from a foreign securities authority, the Commission may provide assistance in accordance with this paragraph if the requesting authority states that the requesting authority is conducting an investigation whichit deems necessary to determine whether any person has violated, is violating, or is about to violate any laws or rules relating to securities matters that the requesting authority administers or enforces. The Commission may, in its discretion, conduct such investigation as the Commission deems necessary to collect information and evidence pertinent to the request for assistance. Such assistance may be provided without regard to whether the facts stated in the request would also constitute a violation of the laws of the United States. In deciding whether to provide such assistance, the Commission shall consider whether (A) the requesting authority has agreed to provide reciprocal assistance in securities matters to the Commission; and (B) compliance with the request would prejudice the public interest of the United States.
 
 #### (b) Attendance of witnesses; production of records
 
@@ -40,7 +40,7 @@ First tier.—The amount of the penalty shall be determined by the court in ligh
 
 &emsp;&emsp;(ii)
 
-Second tier.—Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I) $50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+Second tier.—Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I)$50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 &emsp;&emsp;(iii)
 
@@ -73,6 +73,10 @@ Jurisdiction and venue.—For purposes of section 78aa of this title, actions un
 &emsp;(D)
 
 Special provisions relating to a violation of a cease-and-desist order.—In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 78u–3 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
+
+(4)
+
+Prohibition of attorneys’ fees paid from commission disgorgement funds.—Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
 
 #### (e) Mandamus
 
@@ -130,7 +134,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
-(6) The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3421(b)\] shall not apply with respect to the Commission.
+(6) The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) <sup>1</sup> of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission.
 
 (7)(A) Following the expiration of the period of delay of notification ordered by the court pursuant to paragraph (4) of this subsection, the customer may, upon motion, reopen the proceeding in the district court which issued the order. If the presiding judge or magistrate judge finds that the movant is the customer to whom the records obtained by the Commission pertain, and that the Commission has obtained financial records or information contained therein in violation of this subsection, other than paragraph (1), it may order that the customer be granted civil penalties against the Commission in an amount equal to the sum of—
 
@@ -158,17 +162,19 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (13) Unless the context otherwise requires, all terms defined in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] which are common to this subsection shall have the same meaning as in such Act.
 
-(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Oct. 15, 1970, Pub. L. 91–452, title II, §212, 84 Stat. 929; June 4, 1975, Pub. L. 94–29, §17, 89 Stat. 154; Oct. 10, 1980, Pub. L. 96–433, §§3, 4, 94 Stat. 1855, 1858; Aug. 10, 1984, Pub. L. 98–376, §2, 98 Stat. 1264; Dec. 4, 1987, Pub. L. 100–181, title III, §323, 101 Stat. 1259; Nov. 19, 1988, Pub. L. 100–704, §§3(a)(1), 6(b), 102 Stat. 4677, 4681; Oct. 15, 1990, Pub. L. 101–429, title II, §201, 104 Stat. 935; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117.)
+(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Oct. 15, 1970, Pub. L. 91–452, title II, §212, 84 Stat. 929; June 4, 1975, Pub. L. 94–29, §17, 89 Stat. 154; Oct. 10, 1980, Pub. L. 96–433, §§3, 4, 94 Stat. 1855, 1858; Aug. 10, 1984, Pub. L. 98–376, §2, 98 Stat. 1264; Dec. 4, 1987, Pub. L. 100–181, title III, §323, 101 Stat. 1259; Nov. 19, 1988, Pub. L. 100–704, §§3(a)(1), 6(b), 102 Stat. 4677, 4681; Oct. 15, 1990, Pub. L. 101–429, title II, §201, 104 Stat. 935; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117; Dec. 22, 1995, Pub. L. 104–67, title I, §103(b)(2), 109 Stat. 756.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (b), (d), (e), and (f), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. Section 1121(b) of the Act, which was classified to section 3421(b) of Title 12, was repealed by Pub. L. 104–66, title III, §3001(d), Dec. 21, 1995, 109 Stat. 734. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
 #### Amendments
+
+1995—Subsec. (d)(4). Pub. L. 104–67 added par. (4).
 
 1990—Subsec. (d). Pub. L. 101–429 designated existing provision as par. (1) and added pars. (2) and (3).
 
@@ -204,6 +210,10 @@ Subsecs. (f), (g). Pub. L. 94–29, §17(3), added subsecs. (f) and (g). Former 
 
 Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (h)(4)(A), (5), (7)(A), (8) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77<i>l</i> of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in a note under section 77g of this title.
@@ -231,6 +241,10 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### Construction of 1995 Amendment
+
+Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
 
 #### Savings Provision
 
@@ -318,5 +332,7 @@ Proceeding or order of Board of Governors of Federal Reserve System, section as 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 78d, 78h, 78<i>o</i>–5, 78s, 78t–1, 78x, 78y, 78eee, 715h of this title.
+This section is referred to in sections 78c, 78d, 78h, 78<i>o</i>–5, 78s, 78t, 78t–1, 78x, 78y, 78eee, 715h of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

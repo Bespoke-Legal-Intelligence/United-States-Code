@@ -58,7 +58,7 @@ The Secretary may make grants to and enter into contracts with public and nonpro
 
 &emsp;&emsp;(E) to assess the impact that Federal funding for biomedical research influences the design of medical school curriculum and the availability of primary care educational opportunities;
 
-&emsp;&emsp;(F) to assess the impact of medical school curriculum, including the availability ofclinical training in ambulatory care settings, influences the percentage of physicians selecting primary care residencies and selecting primary care as a medical career; and
+&emsp;&emsp;(F) to assess the impact of medical school curriculum, including the availability of clinical training in ambulatory care settings, influences the percentage of physicians selecting primary care residencies and selecting primary care as a medical career; and
 
 &emsp;&emsp;(G) to assess the extent to which current physician payment policies under resource based relative value scale are sufficient to encourage physicians graduating from medical school to enter and remain in primary care careers.
 

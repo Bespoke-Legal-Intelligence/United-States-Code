@@ -12,7 +12,7 @@ National Research Council of the National Academy of Sciences
 
 WHEREAS (1) the congressional charter of the National Academy of Sciences (“Academy”) charges it, upon call from any U.S. Government Department, to investigate, examine, experiment, and report upon any subject of science or art and (2) the actual expenses of the Academy for such investigations, examinations, experiments, and reports shall be paid to the Academy through one or more of the following: private gifts and bequests; appropriations for the benefit of the Academy; grants-in-aid, contracts, and other forms of financial agreement with executive departments and agencies, provided that the Academy shall receive no compensation whatever for any services to the Government of the United States; and
 
-WHEREAS the National Research Council (“Council”) was organized in 1916 at the request of the President by the National Academy of Sciences, under itscongressional charter, as a measure of national preparedness; and
+WHEREAS the National Research Council (“Council”) was organized in 1916 at the request of the President by the National Academy of Sciences, under its congressional charter, as a measure of national preparedness; and
 
 WHEREAS the Council is the principal operating agency of the National Academy of Sciences and the National Academy of Engineering, the latter having been established in 1964 under the charter of the National Academy of Sciences; and
 

@@ -26,7 +26,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) subsection (m)(5)(B), (q), (t), or (v) of section 72 (relating to additional taxes on certain distributions),
 
-&emsp;&emsp;(D) section 143(m) (relating to recapture of proration of Federal subsidy from use ofmortgage bonds and mortgage credit certificates),
+&emsp;&emsp;(D) section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
 
 &emsp;&emsp;(E) section 531 (relating to accumulated earnings tax),
 
@@ -118,7 +118,7 @@ Amendment by section 1006(t)(16)(C) of Pub. L. 100–647 applicable, with certai
 
 Amendment by sections 1007(g)(1), 1011A(c)(10), and 1012(q)(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4005(g)(4) of Pub. L. 100–647 applicable, with certain exceptions, to financing provided,and mortgage credit certificates issued, after Dec. 31, 1990, see section 4005(h)(3) of Pub. L. 100–647, set out as a note under section 143 of this title.
+Amendment by section 4005(g)(4) of Pub. L. 100–647 applicable, with certain exceptions, to financing provided, and mortgage credit certificates issued, after Dec. 31, 1990, see section 4005(h)(3) of Pub. L. 100–647, set out as a note under section 143 of this title.
 
 Amendment by section 5012(b)(2) of Pub. L. 100–647 applicable to contracts entered into on or after June 21, 1988, with special rule where death benefit increases by more than $150,000, certain other material changes taken into account, and certain exchanges permitted, see section 5012(e) of Pub. L. 100–647, set out as an Effective Date note under section 7702A of this title.
 

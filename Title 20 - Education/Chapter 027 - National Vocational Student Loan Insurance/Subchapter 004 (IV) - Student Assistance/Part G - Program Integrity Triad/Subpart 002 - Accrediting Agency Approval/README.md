@@ -2,7 +2,7 @@ subpart 2—accrediting agency approval
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 1099a 3, 1141, 1145 of this title.
+This subpart is referred to in sections 1099a–3, 1141, 1145 of this title.
 
 
 ---

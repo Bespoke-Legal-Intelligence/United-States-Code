@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §553, 42 Stat. 976. That section was superseded by section 553 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §553, 42 Stat. 976. That section was superseded by section 553 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision that merchandise destined for a foreign country might be entered and conveyed through the territory of the United States without payment of duties under regulations to be prescribed by the Secretary of the Treasury was contained in R.S. §3005, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act May 21, 1900, ch. 487, §1, 31 Stat. 181. Res. March 1, 1895, No. 23, 28 Stat. 973, partially suspending the operation of that section, was repealed by act May 21, 1900, ch. 487, §2, 31 Stat. 181, and the section was itself repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

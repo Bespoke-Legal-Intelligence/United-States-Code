@@ -34,7 +34,7 @@ Composition.—The Commission shall be composed of fifteen members, as follows:
 
 &emsp;“(2) Two members of the House, one to be selected by the Speaker of the House, the other to be selected by the minority leader of the House.
 
-&emsp;“(3) Three representatives of State government shall be jointly selected by the majority leader of the Senate and the Speaker of the House. One shall be a Governor; one shall be a chief State official responsible for administering the State medicaid program; and one shall be the chief State official responsible for administering the State maternal and child health programs.
+&emsp;“(3) Three representatives of State government shall be jointly selected by the majority leader of the Senate and the Speaker of the House. One shall be a Governor; one shall be a chief State official responsible for administering the State medicaid program;and one shall be the chief State official responsible for administering the State maternal and child health programs.
 
 &emsp;“(4) The Secretary of Health and Human Services shall be a member.
 
@@ -90,7 +90,7 @@ Recommendations.—The Commission shall—
 
 &emsp;“(1) recommend a national policy designed to reduce and prevent infant mortality, including recommendations concerning populations at risk of high infant death rates and recommendations concerning appropriate roles for the Federal Government, States, local governments, and private sector;
 
-&emsp;“(2) recommend to the Congress and the President the specific changes needed within Federal laws and Federal programs to achieve an effective Federal rolein preventing infant mortality, including the programs specified in subparagraphs (A) and (B) of subsection (a)(1);
+&emsp;“(2) recommend to the Congress and the President the specific changes needed within Federal laws and Federal programs to achieve an effective Federal role in preventing infant mortality, including the programs specified in subparagraphs (A) and (B) of subsection (a)(1);
 
 &emsp;“(3) recommend to the Congress and the President the specific changes needed to improve the national vital statistics registration system with respect to infant death statistics; and
 

@@ -10,5 +10,5 @@ This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as am
 
 #### Codification
 
-Section was formerly classified to section 621 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+Section was formerly classified to section 621 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 

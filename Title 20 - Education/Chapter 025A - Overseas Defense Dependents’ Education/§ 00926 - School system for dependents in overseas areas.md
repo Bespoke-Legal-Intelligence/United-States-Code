@@ -14,15 +14,15 @@ Under such circumstances as he may by regulation prescribe, the Secretary of Def
 
 (2) A dependent referred to in paragraph (1) is a dependent who on the date of the separation of the member has completed the eleventh grade and is likely to complete secondary education within the one-year period beginning on that date.
 
-(Pub. L. 95 561, title XIV, §1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101 510, div. A, title V, §504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103 160, div. A, title V, §561(n), Nov. 30, 1993, 107 Stat. 1668.)
+(Pub. L. 95–561, title XIV, §1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, §504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, §561(n), Nov. 30, 1993, 107 Stat. 1668.)
 
 #### Codification
 
-Section is comprised of section 1407 of Pub. L. 95 561. Subsec. (d), formerly subsec. (c), of section 1407 enacted section 429 of Title 37, Pay and Allowances of the Uniformed Services.
+Section is comprised of section 1407 of Pub. L. 95–561. Subsec. (d), formerly subsec. (c), of section 1407 enacted section 429 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Amendments
 
-1993—Subsec. (c)(1). Pub. L. 103 160 substituted “nine-year period” for “five-year period”.
+1993—Subsec. (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1990—Subsec. (c). Pub. L. 101 510 added subsec. (c) and redesignated former subsec. (c) as (d). See Codification note above.
+1990—Subsec. (c). Pub. L. 101–510 added subsec. (c) and redesignated former subsec. (c) as (d). See Codification note above.
 

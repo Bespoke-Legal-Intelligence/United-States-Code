@@ -4,7 +4,7 @@
 
 &emsp;(1) instruction in vessel and cargo handling and vessel navigation under normal operating conditions in coastal and confined waters and on the high seas;
 
-&emsp;(2) instruction in vessel and cargo handling and vessel navigation in emergency situations and under marine casualty or potential casualty conditions;
+&emsp;(2) instruction in vessel and cargo handling and vessel navigation in emergency situationsand under marine casualty or potential casualty conditions;
 
 &emsp;(3) qualifications for licenses by specific type and size of vessels;
 

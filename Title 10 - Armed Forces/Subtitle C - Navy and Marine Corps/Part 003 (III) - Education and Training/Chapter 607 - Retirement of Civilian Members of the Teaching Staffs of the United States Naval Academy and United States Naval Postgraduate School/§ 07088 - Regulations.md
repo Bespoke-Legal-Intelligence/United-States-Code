@@ -1,4 +1,4 @@
-### §7088 . Regulations
+### §7088. Regulations
 
 The Secretary of the Navy shall prescribe regulations for the administration of this chapter.
 

@@ -44,7 +44,7 @@ To enter forest land into the Program, landowners shall—
 
 #### (g) Stewardship recognition
 
-The Secretary, in consultation with State foresters or equivalent State officials, is encouraged to develop an appropriate recognition program for landowners who practice stewardship management on their lands, with an appropriate, special recognition symbol and title.
+The Secretary, in consultation with State foresters or equivalent State officials, is encouraged to develop an appropriate recognition program for landowners who practice stewardshipmanagement on their lands, with an appropriate, special recognition symbol and title.
 
 #### (h) Authorization of appropriations
 

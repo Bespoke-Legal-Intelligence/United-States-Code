@@ -16,11 +16,11 @@ The Congress makes the following findings:
 
 It is the purpose of this subchapter to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit, personnel, insurance, and other information in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information in accordance with the requirements of this subchapter.
 
-(Pub. L. 90 321, title VI, §602, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128.)
+(Pub. L. 90–321, title VI, §602, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128.)
 
 #### Effective Date
 
-Section 504(d) of Pub. L. 90 321, as added by Pub. L. 91 508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
+Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
 
 #### Short Title
 

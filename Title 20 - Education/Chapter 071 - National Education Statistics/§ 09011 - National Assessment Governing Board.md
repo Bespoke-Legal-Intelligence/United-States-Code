@@ -136,17 +136,17 @@ The Commissioner and the Board shall meet periodically—
 
 Only sections 10, 11, and 12 of the Federal Advisory Committee Act shall apply with respect to the Board.
 
-(Pub. L. 103 382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039.)
+(Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Sections 10, 11, and 12 of the Federal Advisory Committee Act, referred to in subsec. (h), are sections 10, 11, and 12 of Pub. L. 92 463, as amended, which are set out in the Appendix to Title 5.
+Sections 10, 11, and 12 of the Federal Advisory Committee Act, referred to in subsec. (h), are sections 10, 11, and 12 of Pub. L. 92–463, as amended, which are set out in the Appendix to Title 5.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -52,7 +52,7 @@ For purposes of this subchapter, the Director shall classify the enterprises acc
 
 #### (b) Discretionary classification
 
-If at any time the Director determines in writing that an enterprise is engaging in conductnot approved by the Director that could result in a rapid depletion of core capital or that the value of the property subject to mortgages held or securitized by the enterprise has decreased significantly, the Director may classify the enterprise—
+If at any time the Director determines in writing that an enterprise is engaging in conduct not approved by the Director that could result in a rapid depletion of core capital or that the value of the property subject to mortgages held or securitized by the enterprise has decreased significantly, the Director may classify the enterprise—
 
 &emsp;(1) as undercapitalized, if the enterprise is otherwise classified as adequately capitalized;
 

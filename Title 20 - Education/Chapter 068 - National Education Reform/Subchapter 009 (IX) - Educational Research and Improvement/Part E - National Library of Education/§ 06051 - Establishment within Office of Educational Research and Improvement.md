@@ -82,7 +82,7 @@ The Library shall be administered by an Executive Director who shall—
 
 &emsp;(1) be appointed by the Assistant Secretary from among persons with significant training or experience in library and information science; and
 
-&emsp;(2) be paid at not less than the minimum rate of basic pay payable for GS 15 of the General Schedule.
+&emsp;(2) be paid at not less than the minimum rate of basic pay payable for GS–15 of the General Schedule.
 
 #### (h) Task Force
 
@@ -130,7 +130,7 @@ On the basis of the collection development policy promulgated under subsection (
 
 &emsp;(2) respond effectively and systematically to the preservation needs of the Library's collections, relying, whenever possible, upon cooperative efforts with other institutions to preserve and maintain the usability of books and materials in the Library's collections.
 
-(Pub. L. 103 227, title IX, §951, Mar. 31, 1994, 108 Stat. 260.)
+(Pub. L. 103–227, title IX, §951, Mar. 31, 1994, 108 Stat. 260.)
 
 #### References in Text
 

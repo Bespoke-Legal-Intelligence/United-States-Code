@@ -32,7 +32,7 @@ The Secretary is authorized to make grants to States from the sums appropriated 
 
 &emsp;(III) In determining the number of pupils under this paragraph in each local educational agency and each State, the Secretary shall multiply the number of children from low-income families by 1.4 under this paragraph.
 
-&emsp;(IV) In computing coefficients of variation, the Secretary shall include only those local educational agencies with an enrollment of more than 200 students.
+&emsp;(IV) In computing coefficients of variation, the Secretary shall include only those localeducational agencies with an enrollment of more than 200 students.
 
 &emsp;(V) The Secretary shall compute separate coefficients of variation for elementary, secondary, and unified local educational agencies and shall combine such coefficients into a single weighted average coefficient for the State by multiplying each coefficient by the total enrollments of the local educational agencies in each group, adding such products, and dividing such sum by the total enrollments of the local educational agencies in the State.
 
@@ -52,7 +52,7 @@ All funds awarded to each State under this section shall be allocated to local e
 
 #### (2) Reduction of funds
 
-&emsp;The Secretary shall reduce the amount of the of<sup>1</sup> funds awarded to any State under this section in any fiscal year in the exact proportion to which the State fails to meet the requirements of paragraph (1) by falling below 90 percent of both the fiscal effort per student and aggregate expenditures (using the measure most favorable to the State), and no such lesser amount shall be used for computing the effort required under paragraph (1) for subsequent years.
+&emsp;The Secretary shall reduce the amount of the of <sup>1</sup> funds awarded to any State under this section in any fiscal year in the exact proportion to which the State fails to meet the requirements of paragraph (1) by falling below 90 percent of both the fiscal effort per student and aggregate expenditures (using the measure most favorable to the State), and no such lesser amount shall be used for computing the effort required under paragraph (1) for subsequent years.
 
 #### (3) Waivers
 
@@ -62,11 +62,11 @@ All funds awarded to each State under this section shall be allocated to local e
 
 For the purpose of making grants under this section, there are authorized to be appropriated $200,000,000 for fiscal year 1996 and such sums as may be necessary for each of the three succeeding fiscal years.
 
-(Pub. L. 89 10, title I, §1125A, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3575.)
+(Pub. L. 89–10, title I, §1125A, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3575.)
 
 #### Codification
 
-October 20, 1994, referred to in subsec. (b)(3)(B), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103 382, which enacted this section, to reflect the probable intent of Congress.
+October 20, 1994, referred to in subsec. (b)(3)(B), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–382, which enacted this section, to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i>So in original. The word “of” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

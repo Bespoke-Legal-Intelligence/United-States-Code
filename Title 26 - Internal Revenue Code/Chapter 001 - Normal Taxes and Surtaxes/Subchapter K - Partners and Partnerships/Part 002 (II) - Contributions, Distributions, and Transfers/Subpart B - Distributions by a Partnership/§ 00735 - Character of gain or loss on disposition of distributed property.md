@@ -24,7 +24,7 @@ In determining the period for which a partner has held property received in a di
 
 #### (A) In general
 
-&emsp;&emsp;If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies tosuch property under such subsection shall also apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions.
+&emsp;&emsp;If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shall also apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions.
 
 #### (B) Exception for stock in C corporation
 

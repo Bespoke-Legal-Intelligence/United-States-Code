@@ -198,7 +198,7 @@ Fee Panel Appraisers.—
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 3537b(c) of title 42, referred to in subsec. (b)(5), was in the original “section 112(c) of the Department of Housing and Urban Development Reform Act of 1989”, meaning section 112 of Pub. L. 101–235, which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which is classified to section 3537b of title 42 and which contains a subsec. (c) relating to registration with the Secretary.
+Section 3537b(c) of title 42, referred to in subsec. (b)(5), was in the original “section 112(c) of the Department of Housing and Urban Development Reform Act of 1989”, meaning section 112 of Pub. L. 101–235, which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to section 3537b of title 42 prior to repeal by Pub. L. 104–65, §11(b)(1), Dec. 19, 1995, 109 Stat. 701, and which contained a subsec. (c) relating to registration with the Secretary.
 
 The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -230,7 +230,7 @@ Subsec. (c)(7), (8). Pub. L. 102–550, §519(2), added par. (7) and redesignate
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Cross References
 

@@ -1,6 +1,6 @@
 ### §261. Reference to chapters 1003, 1005, and 1007
 
-Provisions of law relating to the reserve components generally, including provisions relating to the organization and administration of the reserve components, are set forth in chapter 1003\(beginning with section 10101), chapter 1005 (beginning with section 10141), and chapter 1007 (beginning with section 10201) of this title.
+Provisions of law relating to the reserve components generally, including provisions relating to the organization and administration of the reserve components, are set forth in chapter 1003 (beginning with section 10101), chapter 1005 (beginning with section 10141), and chapter 1007 (beginning with section 10201) of this title.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(B), Oct. 5, 1994, 108 Stat. 2980.)
 
@@ -52,7 +52,7 @@ A prior section 279, added Pub. L. 85–861, §1(5)(C), Sept. 2, 1958, 72 Stat. 
 
 Section 280, acts Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, Pub. L. 85–861, §33(a)(2), 72 Stat. 1564; Sept. 7, 1962, Pub. L. 87–651, title I, §101, 76 Stat. 506; Sept. 11, 1967, Pub. L. 90–83, §3(1), 81 Stat. 220; Aug. 17, 1977, Pub. L. 95–105, title V, §509(d)(3), 91 Stat. 860; Dec. 12, 1980, Pub. L. 96–513, title V, §§501(5), 511(10), 94 Stat. 2907, 2920; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(8), 98 Stat. 2622; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1061(a)(3), 105 Stat. 1472, authorized Secretary of each military department and Secretary of Transportation to prescribe regulations. See section 10202 of this title.
 
-Section 281, added Pub. L. 86–559, §1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the National Guard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office. See section 10214 of this title.
+Section 281, added Pub. L. 86–559, §1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the NationalGuard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office. See section 10214 of this title.
 
 #### Effective Date
 

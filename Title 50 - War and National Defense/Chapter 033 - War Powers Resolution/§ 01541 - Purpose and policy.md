@@ -224,7 +224,7 @@ Applicability of other requirements.—Nothing in this resolution supersedes any
 
 #### “SEC. 3. REPORTS TO CONGRESS.
 
-“At least once every 60 days, the President shall submit to the Congress a summary on the status of effortsto obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq's aggression.”
+“At least once every 60 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq's aggression.”
 
 #### Introduction of United States Armed Forces Into Central America for Combat
 

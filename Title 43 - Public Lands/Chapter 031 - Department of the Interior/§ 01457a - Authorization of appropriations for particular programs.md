@@ -84,7 +84,7 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 &emsp;“(6) management and regulation of natural resources on Federal lands are inherently Government functions and should be performed by Federal employees.
 
-“(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in anyother order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
+“(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in any other order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
 
 “(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management and Budget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
 

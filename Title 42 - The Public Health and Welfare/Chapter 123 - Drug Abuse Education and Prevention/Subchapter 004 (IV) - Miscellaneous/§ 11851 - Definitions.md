@@ -48,7 +48,7 @@ Subtitle A (other than section 3201), referred to in par. (9)(A), is subtitle A 
 
 Section 3201, referred to in par. (9)(A), (B), is section 3201 of Pub. L. 100–690, title III, Nov. 18, 1988, 102 Stat. 4246, which amended section 1786 of this title.
 
-Subtitle B, referred to in par. (9)(C), is subtitle B (§§3501–3522) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4254, which enacted subchapters I to III of this chapter. For complete classification of subtitle B to the Code, see Tables.
+Subtitle B, referred to in par. (9)(C), is subtitle B (§§3501–3522) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4254, which enacted subchapters I to III of thischapter. For complete classification of subtitle B to the Code, see Tables.
 
 #### Amendments
 

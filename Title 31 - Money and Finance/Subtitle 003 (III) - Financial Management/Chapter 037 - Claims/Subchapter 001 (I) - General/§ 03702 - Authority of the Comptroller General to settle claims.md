@@ -128,6 +128,10 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 For provision permitting Secretary of the Treasury to prescribe rules, regulations, and procedures as necessary to implement amendment by section 1004(b) of Pub. L. 100–86, including recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred, see section 1005 of Pub. L. 100–86, set out as a note under section 3328 of this title.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3328, 3712 of this title; title 16 section 831h.

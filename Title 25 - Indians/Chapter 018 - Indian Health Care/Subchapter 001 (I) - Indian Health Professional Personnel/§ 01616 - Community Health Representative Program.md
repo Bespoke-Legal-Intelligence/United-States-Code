@@ -24,7 +24,7 @@
 
 &emsp;(6) promote traditional health care practices of the Indian tribes served consistent with the Service standards for the provision of health care, health promotion, and disease prevention.
 
-(Pub. L. 94–437, title I, §107, as added Pub. L. 100–713, title I, §107, Nov. 23, 1988, 102 Stat. 4788; amended Pub. L. 102–573, title I, §105, Oct. 29, 1992, 106 Stat. 4535.)
+(Pub. L. 94–437, title I, §107, as added Pub. L. 100–713, title I, §107, Nov. 23, 1988, 102 Stat. 4788;amended Pub. L. 102–573, title I, §105, Oct. 29, 1992, 106 Stat. 4535.)
 
 #### Amendments
 

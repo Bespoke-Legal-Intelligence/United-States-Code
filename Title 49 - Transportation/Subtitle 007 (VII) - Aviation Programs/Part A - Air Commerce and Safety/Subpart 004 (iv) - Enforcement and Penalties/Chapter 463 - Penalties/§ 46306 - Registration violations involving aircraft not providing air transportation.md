@@ -138,7 +138,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(b)(5); added Oct. 27, 1986,
 
 In subsections (b)(9), (d), and (e), the word “Administrator” in section 902(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g).
 
-In subsection (b), before clause (1), the words “Except as provided by subsection (c) of this section” are added for clarity. The words “It shall be unlawful for any person” and “upon conviction” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $15,000” for consistency with title 18. In clause (1), the words “counterfeit” and “falsely make” are omitted as surplus. In clause (4), the words “covering up”, “representation”, and “writing” are omitted as surplus. In clause (7), the word “valid” is omitted as surplus.
+In subsection (b), before clause (1), the words “Except as provided by subsection (c) of this section” are added for clarity. The words “It shall be unlawful for any person” and “upon conviction” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $15,000” for consistency with title 18. In clause (1), the words “counterfeit” and “falsely make” are omitted as surplus. In clause (4), the words“covering up”, “representation”, and “writing” are omitted as surplus. In clause (7), the word “valid” is omitted as surplus.
 
 In subsection (c)(2), before clause (A), the words “fined under title 18” are substituted for “a fine of not more than $25,000” for consistency with title 18.
 

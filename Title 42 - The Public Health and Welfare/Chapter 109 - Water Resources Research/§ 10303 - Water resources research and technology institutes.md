@@ -30,7 +30,7 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 (1) For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,,<sup>1</sup> such sums to remain available until expended.
 
-(2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
+(2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretaryand available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
 
 #### (g) Additional appropriations where research focused on water problems of interstate nature
 

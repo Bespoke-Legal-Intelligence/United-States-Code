@@ -32,7 +32,7 @@ Subsec. (a)(2). Pub. L. 95–92 substituted provisions prohibiting assistance to
 
 Subsec. (a)(3). Pub. L. 95–92 substituted provisions relating to the authority of sections 2360(a) and 2364(a) of this title, for provisions setting forth limitations on the number of countries eligible for assistance under this part in fiscal years 1976 and 1977.
 
-Subsec. (a)(4). Pub. L. 95–92 substituted provisions authorizing availability until expended of amounts appropriated under this subsection, for provisions relating to the authority of sections 2360(a) and 2364(a) of this title to increase appropriated amounts and making inapplicable to emergency assistance under section 2314(a) of this title limitations on appropriated funds under this section.
+Subsec. (a)(4). Pub. L. 95–92 substituted provisions authorizing availability until expended of amounts appropriated under this subsection, for provisions relating tothe authority of sections 2360(a) and 2364(a) of this title to increase appropriated amounts and making inapplicable to emergency assistance under section 2314(a) of this title limitations on appropriated funds under this section.
 
 Subsec. (a)(5) to (8). Pub. L. 95–92 struck out pars. (5) to (8) which provided for appropriations for administrative and related expenses for fiscal years 1976 and 1977, restricted use of funds with respect to sophisticated weapons systems, authorized appropriated amounts to remain available until expended, and required assistance to Turkey under this part to be subject to section 2370(x) of this title, respectively.
 

@@ -90,7 +90,11 @@ Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development b
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulationseffective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: “This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title\] may be cited as the ‘High Seas Driftnet Fishing Moratorium Protection Act’.”
 
 #### Short Title of 1992 Amendment
 
@@ -121,4 +125,56 @@ Pub. L. 95–6, §1, Feb. 21, 1977, 91 Stat. 14, provided: “That this joint re
 #### Short Title
 
 Section 1 of Pub. L. 94–265, as amended by section 238(a) of Pub. L. 96–561 \[see Short Title of 1980 Amendment note above\] provided: “That this Act \[enacting this chapter, amending section 971 of this title and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title\] may be cited as the ‘Magnuson Fishery Conservation and Management Act’.”
+
+#### Ex. Ord. No. 12962. Recreational Fisheries
+
+Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish  and  Wildlife  Act  of  1956  (16  U.S.C.  742a-d, and e-j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), and the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801–1882), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+
+Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
+
+(b) identifying recreational fishing opportunities that are limited by water quality and habitat degradation and promoting restoration to support viable, healthy, and, where feasible, self-sustaining recreational fisheries;
+
+(c) fostering sound aquatic conservation and restoration endeavors to benefit recreational fisheries;
+
+(d) providing access to and promoting awareness of opportunities for public participation and enjoyment of U.S. recreational fishery resources;
+
+(e) supporting outreach programs designed to stimulate angler participation in the conservation and restoration of aquatic systems;
+
+(f) implementing laws under their purview in a manner that will conserve, restore, and enhance aquatic systems that support recreational fisheries;
+
+(g) establishing cost-share programs, under existing authorities, that match or exceed Federal funds with nonfederal contributions;
+
+(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems and recreational fisheries and document those effects relative to the purpose of this order; and
+
+(i) assisting private landowners to conserve and enhance aquatic resources on their lands.
+
+Sec. 2. <i>National Recreational Fisheries Coordination Council</i>. A National Recreational Fisheries Coordination Council (“Coordination Council”) is hereby established. The Coordination Council shall consist of seven members, one member designated by each of the following Secretaries—Interior, Commerce, Agriculture, Energy, Transportation, and Defense—and one by the Administrator of the Environmental Protection Agency. The Coordination Council shall: (a) ensure that the social and economic values of healthy aquatic systems that support recreational fisheries are considered by Federal agencies in the course of their actions;
+
+(b) reduce duplicative and cost-inefficient programs among Federal agencies involved in conserving or managing recreational fisheries;
+
+(c) share the latest resource information and management technologies to assist in the conservation and management of recreational fisheries;
+
+(d) assess the implementation of the Conservation Plan required under section 3 of this order; and
+
+(e) develop a biennial report of accomplishments of the Conservation Plan.
+
+> The representatives designated by the Secretaries of Commerce and the Interior shall cochair the Coordination Council.
+
+Sec. 3. <i>Recreational Fishery Resources Conservation Plan</i>. (a) Within 12 months of the date of this order, the Coordination Council, in cooperation with Federal agencies, States, and Tribes, and after consulting with the Federally chartered Sport Fishing and Boating Partnership Council, shall develop a comprehensive Recreational Fishery Resources Conservation Plan (“Conservation Plan”).
+
+(b) The Conservation Plan will set forth a 5-year agenda for Federal agencies identified by the Coordination Council. In so doing, the Conservation Plan will establish, to the extent permitted by law and where practicable; (1) measurable objectives to conserve and restore aquatic systems that support viable and healthy recreational fishery resources, (2) actions to be taken by the identified Federal agencies, (3) a method of ensuring the accountability of such Federal agencies, and (4) a comprehensive mechanism to evaluate achievements. The Conservation Plan will, to the extent practicable, be integrated with existing plans and programs, reduce duplication, and will include recommended actions for cooperation with States, Tribes, conservation groups, and the recreational fisheries community.
+
+Sec. 4. <i>Joint Policy for Administering the Endangered Species Act of 1973</i>. All Federal agencies will aggressively work to identify and minimize conflicts between recreational fisheries and their respective responsibilities under the Endangered Species Act of 1973 (“ESA”) (16 U.S.C. 1531 <i>et seq</i>.). Within 6 months of the date of this order, the Fish and Wildlife Service and the National Marine Fisheries Service will promote compatibility and reduce conflicts between the administration of the ESA and recreational fisheries by developing a joint agency policy that will; (1) ensure consistency in the administration of the ESA between and within the two agencies, (2) promote collaboration with other Federal, State, and Tribal fisheries managers, and (3) improve and increase efforts to inform nonfederal entities of the requirements of the ESA.
+
+Sec. 5. <i>Sport Fishing and Boating Partnership Council</i>. To assist in the implementation of this order, the Secretary of the Interior shall expand the role of the Sport Fishing and Boating Partnership Council to: (a) monitor specific Federal activities affecting aquatic systems and the recreational fisheries they support;
+
+(b) review and evaluate the relation of Federal policies and activities to the status and conditions of recreational fishery resources; and
+
+(c) prepare an annual report of its activities, findings, and recommendations for submission to the Coordination Council.
+
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any other person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

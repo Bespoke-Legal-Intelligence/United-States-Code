@@ -1577,7 +1577,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 Subsections (c)
 
-and (d).—The amendments made by subsections (c) \[set out as a note below\] and (d) \[amending this section and section 1082 of Title 29\] shall apply with respect to years beginning after December 31, 1987.
+and (d).—The amendments made by subsections (c) \[set out below\] and (d) \[amending this section and section 1082 of Title 29\] shall apply with respect to years beginning after December 31, 1987.
 
 “(3)
 

@@ -84,7 +84,7 @@ For purposes of this title—
 
 #### (D) Election of accrual on basis of constant interest rate
 
-&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the ratable share ofthe original issue discount is the portion of the original issue discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
+&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the ratable share of the original issue discount is the portion of the original issue discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
 
 &emsp;&emsp;&emsp;(i) the yield to maturity based on the issue price of the obligation, and
 
@@ -182,7 +182,7 @@ Treatment of Debt Instruments Received in Exchange for Property.—
 
 In general.—
 
-&emsp;&emsp;“(A) Except as otherwise provided in this subsection, section 1274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 41) and the amendment made by section 41(b) (relating to amendment of section 483) shall apply to sales or exchanges after December 31, 1984.
+&emsp;&emsp;“(A) Except as otherwise provided in this subsection, section 1274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 41) and the amendment made by section 41(b) (relatingto amendment of section 483) shall apply to sales or exchanges after December 31, 1984.
 
 &emsp;&emsp;“(B) Section 1274 of such Code and the amendment made by section 41(b) shall not apply to any sale or exchange pursuant to a written contract which was binding on March 1, 1984, and at all times thereafter before the sale or exchange.
 
@@ -330,7 +330,7 @@ Regulations.—The Secretary shall prescribe such regulations as may be appropri
 
 &emsp;&emsp;“(D)
 
-Certain exempt transactions.—The Secretary shall prescribe regulations under which anytransaction shall be exempt from the application of this paragraph if such exemption is not likely to significantly reduce the tax liability of the purchaser by reason of the overstatement of the adjusted basis of the acquired asset.
+Certain exempt transactions.—The Secretary shall prescribe regulations under which any transaction shall be exempt from the application of this paragraph if such exemption is not likely to significantly reduce the tax liability of the purchaser by reason of the overstatement of the adjusted basis of the acquired asset.
 
 &emsp;“(7)
 

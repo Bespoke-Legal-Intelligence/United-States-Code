@@ -32,7 +32,7 @@
 
 &emsp;(A) promptly report the contact to the official's supervisor and to the designated agency ethics official (or his designee) of the agency in which the covered defense official is employed; and
 
-&emsp;(B) for any period for which future employment opportunities for the covered defense official have not been rejected by either the covered defense official or the defense contractor, disqualify himself from all participation in the performance of procurement functions relating to contracts of the defense contractor.
+&emsp;(B) for any period for which future employment opportunities for the covered defense official have not been rejected by either the covered defense official or the defense contractor, disqualify himself from all participation inthe performance of procurement functions relating to contracts of the defense contractor.
 
 (2) A covered defense official is not required to report the first contact with a defense contractor under paragraph (1)(A) or to disqualify himself under paragraph (1)(B) if the defense official terminates the contact immediately. However, if an additional contact of the same or a similar nature is made by or with the defense contractor, the covered defense official shall report (as provided in paragraph (1)) the contact and all contacts of the same or a similar nature made by or with the defense contractor during the 90-day period ending on the date the additional contact is made.
 

@@ -22,7 +22,7 @@
 
 &emsp;(A) the long-term lease or charter of any aircraft or naval vessel; or
 
-&emsp;(B) for the lease or charter of any aircraft or naval vessel the terms of which provide for a substantial termination liability on the part of the United States,
+&emsp;(B) for the lease or charter of any aircraft or naval vessel the terms of which provide for asubstantial termination liability on the part of the United States,
 
 > unless funds for that purpose have been specifically authorized by law.
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guideline
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

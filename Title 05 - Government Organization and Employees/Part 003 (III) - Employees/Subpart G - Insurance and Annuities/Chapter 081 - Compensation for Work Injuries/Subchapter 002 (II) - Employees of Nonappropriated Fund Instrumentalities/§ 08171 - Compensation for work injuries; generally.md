@@ -1,4 +1,4 @@
-### §8171 . Compensation for work injuries; generally
+### §8171. Compensation for work injuries; generally
 
 (a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies with respect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
 
@@ -46,7 +46,7 @@ The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337, §1070(d)(8)(A)(i)(III), substituted “section 3(a) of such Act (33 U.S.C. 903(3)) which follows the second comma” for “section 903(a) of title 33 which follows the first comma” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(d)(8)(A)(i)(III), substituted “section 3(a) of such Act (33 U.S.C. 903(3)) which follows the second comma” for “section 903(a) of title 33 which follows the first comma” in second sentence.
 
 Pub. L. 103–337, §1070(d)(8)(A)(i)(I), (II), substituted “The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.)” for “Chapter 18 of title 33” and “section 2(2) of such Act (33 U.S.C. 902(2))” for “section 902(2) of title 33”, in introductory provisions.
 

@@ -12,7 +12,7 @@ As used in this part—
 
 (5) The term “obligee” means (A) in the case of a bid bond, the person requesting bids for the performance of a contract, or (B) in the case of a payment bond or performance bond, the person who has contracted with a principal for the completion of the contract and to whom the obligation of the surety runs in the event of a breach by the principal of the conditions of a payment bond or performance bond.
 
-(6) The term “principal” means (A) in the case of a bid bond, a person bidding for the award of a contract, or (B) the person primarily liable to complete a contract for the obligee, or to make payments to other persons in respect of such contract, and for whose performance of his obligation the surety is bound under the terms of a payment or performance bond. A principal may be a prime contractor or a subcontractor.
+(6) The term “principal” means (A) in the case of a bid bond, a person bidding for the award ofa contract, or (B) the person primarily liable to complete a contract for the obligee, or to make payments to other persons in respect of such contract, and for whose performance of his obligation the surety is bound under the terms of a payment or performance bond. A principal may be a prime contractor or a subcontractor.
 
 (7) The term “prime contractor” means the person with whom the obligee has contracted to perform the contract.
 

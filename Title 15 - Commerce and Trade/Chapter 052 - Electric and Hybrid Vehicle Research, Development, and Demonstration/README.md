@@ -47,7 +47,7 @@
 | (c) | Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987. |
 | (d) | Safety standards and regulations. |
 | (e) | Regenerative braking systems. |
-| [2513\.](%C2%A7%2002513%20-%20Annual%20report.md) | Annual report. |
+| [2513\.](%C2%A7%2002513%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28o%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md) | Repealed. |
 | [2514\.](%C2%A7%2002514%20-%20Authorization%20for%20appropriations.md) | Authorization for appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,5 +73,5 @@ This chapter is referred to in title 42 section 7153a.
 - [&sect; 02510 - Use of electric and hybrid vehicles by Federal agencies](%C2%A7%2002510%20-%20Use%20of%20electric%20and%20hybrid%20vehicles%20by%20Federal%20agencies.md)
 - [&sect; 02511 - Patents](%C2%A7%2002511%20-%20Patents.md)
 - [&sect; 02512 - Studies](%C2%A7%2002512%20-%20Studies.md)
-- [&sect; 02513 - Annual report](%C2%A7%2002513%20-%20Annual%20report.md)
+- [&sect; 02513 - Repealed. Pub. L. 104&#8211;66, title I, &sect;1051(o), Dec. 21, 1995, 109 Stat. 717](%C2%A7%2002513%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28o%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md)
 - [&sect; 02514 - Authorization for appropriations](%C2%A7%2002514%20-%20Authorization%20for%20appropriations.md)

@@ -1,4 +1,4 @@
-### §460aaa–3 . Acquisition
+### §460aaa–3. Acquisition
 
 #### (a) General authority
 

@@ -1,4 +1,4 @@
-### §4684 . Surplus obsolete ordnance: sale to patriotic organizations
+### §4684. Surplus obsolete ordnance: sale to patriotic organizations
 
 Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), any branch, office, or officer designated by the Secretary of the Army may sell, without advertisement and at prices that he considers reasonable—
 

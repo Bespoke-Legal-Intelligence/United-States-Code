@@ -1,4 +1,4 @@
-### §8451 . Disability retirement
+### §8451. Disability retirement
 
 (a)(1)(A) An employee who completes at least 18 months of civilian service creditable under section 8411 and has become disabled shall be retired on the employee's own application or on application by the employee's agency.
 

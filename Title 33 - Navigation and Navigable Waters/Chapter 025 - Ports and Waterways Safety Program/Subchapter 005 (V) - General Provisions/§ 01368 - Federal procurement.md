@@ -28,7 +28,7 @@ The President shall annually report to the Congress on measures taken in complia
 
 #### Codification
 
-Subsec. (c) authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forthprocedures, sanctions and penalties as the President determines necessary to carry out such requirement.
+Subsec. (c) authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forth procedures, sanctions and penalties as the President determines necessary to carry out such requirement.
 
 #### Amendments
 

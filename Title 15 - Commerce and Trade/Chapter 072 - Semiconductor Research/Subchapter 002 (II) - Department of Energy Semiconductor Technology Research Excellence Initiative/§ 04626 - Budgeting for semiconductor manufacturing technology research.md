@@ -8,5 +8,5 @@ To the extent the Secretary considers appropriate and necessary, the Secretary o
 
 The programs, projects, and activities described in subsection (a) of this section shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
 
-(Pub. L. 100 180, div. C, title I, §3146, Dec. 4, 1987, 101 Stat. 1243.)
+(Pub. L. 100–180, div. C, title I, §3146, Dec. 4, 1987, 101 Stat. 1243.)
 

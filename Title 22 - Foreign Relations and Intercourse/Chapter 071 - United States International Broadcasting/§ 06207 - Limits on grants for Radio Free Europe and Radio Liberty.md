@@ -92,9 +92,17 @@ Not later than 90 days after the date of confirmation of all members of the Boar
 
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
-The Board for International Broadcasting Act, referred to in subsec. (j)(3), is Pub. L. 93–129, Oct. 19, 1973,87 Stat. 456, as amended, which is classified generally to chapter 43 (§2871 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2871 of this title and Tables. For repeal of this Act, see section 6209(e) of this title.
+The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct.19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
 
 The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Liaison With RFE/RL, Incorporated; Representation at Board Meetings
+
+Section 305(b) of Pub. L. 99–93 provided that: “The Secretary of State shall—
+
+&emsp;“(1) establish an office within the United States Consulate in Munich, Federal Republic of Germany, which shall be responsible for the daily liaison operations of the Department of State with RFE/RL, Incorporated; and
+
+&emsp;“(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated.”
 
 #### Presidential Determination on RFE/RL Relocation
 

@@ -34,7 +34,7 @@ Termination.—The Secretary of State shall exercise the authorities available t
 
 “(b)
 
-Waiver.—The Secretary of State may waive the applicability of subsection (a) on a case-by-case basis with respect to an employee if he determines that it isvital to the national security of the United States to do so and he reports such waiver to the appropriate committees of the Congress.”
+Waiver.—The Secretary of State may waive the applicability of subsection (a) on a case-by-case basis with respect to an employee if he determines that it is vital to the national security of the United States to do so and he reports such waiver to the appropriate committees of the Congress.”
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 

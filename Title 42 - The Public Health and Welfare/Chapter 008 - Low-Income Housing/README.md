@@ -147,7 +147,7 @@ Pledge of annual contributions as guarantee of payment of obligations issued by 
 
 (h)
 
-Sale of project to lower income tenants by public housing agency; terms and conditions; commitment by Secretary to pay annual contribution unaffected; restrictions.
+Sale of project to lower income tenants by public housing agency; terms and conditions; commitment by Secretary to pay annual contribution unaffected.
 
 (i)
 
@@ -371,6 +371,10 @@ Family unification.
 
 Homeownership option.
 
+(z)
+
+Termination of section 1437f contracts and reuse of recaptured budget authority.
+
 (aa)
 
 Refinancing incentive.
@@ -493,6 +497,10 @@ Uses of obligated amounts by public housing agencies.
 
 Reduction of vacancies in public housing units.
 
+(q)
+
+Improvement or replacement of public housing.
+
 |  |  |
 | :--- | ---: |
 | [1437m.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437m%20-%20Payment%20of%20non-Federal%20share.md) | Payment of non-Federal share. |
@@ -529,11 +537,11 @@ Obsolescence; best-interests transfers; use of proceeds.
 
 (b)
 
-Consultation with tenants and tenant councils; opportunity to purchase; relocation assistance; replacement housing plan.
+Consultation with tenants and tenant councils; opportunity to purchase; relocation assistance.
 
 (c)
 
-Financial assistance; contributions; funding of replacement housing plan.
+Financial assistance; contributions.
 
 (d)
 
@@ -544,6 +552,10 @@ Conditions for agency action.
 Set-asides for replacement housing.
 
 (f)
+
+Construction on original site or in same neighborhood.
+
+(g)
 
 Applicability to disposition of public housing project in accordance with approved homeownership program.
 
@@ -614,7 +626,7 @@ Regulations.
 
 (f)
 
-Annual report.
+Repealed.
 
 (g)
 
@@ -1067,7 +1079,7 @@ Housing quality standards.
 
 (g)
 
-Replacement plan.
+Repealed.
 
 (h)
 

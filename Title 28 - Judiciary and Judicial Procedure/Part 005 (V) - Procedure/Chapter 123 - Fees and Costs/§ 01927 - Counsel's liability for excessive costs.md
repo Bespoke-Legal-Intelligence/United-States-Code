@@ -1,0 +1,28 @@
+### §1927. Counsel's liability for excessive costs
+
+Any attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct.
+
+(June 25, 1948, ch. 646, 62 Stat. 957; Sept. 12, 1980, Pub. L. 96–349, §3, 94 Stat. 1156.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §829 (R.S. §982).
+
+Word “personally” was inserted upon authority of <i>Motion Picture Patents Co. v. Steiner et al</i>., 1912, 201 F. 63, 119 C.C.A. 401. Reference to “proctor” was omitted as covered by the revised section.
+
+See definition of “court of the United States” in section 451 of this title.
+
+Changes were made in phraseology.
+
+#### Amendments
+
+1980—Pub. L. 96–349 substituted judicial authorization to require attorneys to satisfy excess costs, expenses, and attorneys’ fees reasonably incurred because of multiplication of proceedings for such prior authority to impose liability for increased costs based on multiplication of proceedings.
+
+#### Federal Rules of Civil Procedure
+
+Costs, see rules 11 and 54, Appendix to this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2503 of this title; title 19 section 1516a.
+

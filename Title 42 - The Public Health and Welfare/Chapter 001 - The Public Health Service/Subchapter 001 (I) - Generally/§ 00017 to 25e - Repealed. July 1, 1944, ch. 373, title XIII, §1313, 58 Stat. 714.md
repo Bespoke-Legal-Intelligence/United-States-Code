@@ -10,7 +10,7 @@ Section 17c, act Apr. 26, 1939, ch. 92, §1, 53 Stat. 620, provided for a detail
 
 Section 18, act Oct. 27, 1918, ch. 196, 40 Stat. 1017, provided for a Reserve of the Public Health Service. See sections 204, 207, 209, and 210 of this title.
 
-Section 18a, act Apr. 9, 1930, ch. 125, §6, 46 Stat. 151, provided for assignment of Reserve officers to activeduty and for such service counting for promotion credits. See section 204 of this title.
+Section 18a, act Apr. 9, 1930, ch. 125, §6, 46 Stat. 151, provided for assignment of Reserve officers to active duty and for such service counting for promotion credits. See section 204 of this title.
 
 Section 18b, act Mar. 18, 1943, ch. 17, title I, 57 Stat. 24, provided for distribution of Reserve officers among the several grades. See section 209 of this title.
 

@@ -20,7 +20,7 @@ The Congress makes the following findings:
 
 The purpose of this subchapter is to provide for development and coordination of a comprehensive and integrated United States research program which will assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.
 
-(Pub. L. 101 606, title I, §101, Nov. 16, 1990, 104 Stat. 3096.)
+(Pub. L. 101–606, title I, §101, Nov. 16, 1990, 104 Stat. 3096.)
 
 #### Section Referred to in Other Sections
 

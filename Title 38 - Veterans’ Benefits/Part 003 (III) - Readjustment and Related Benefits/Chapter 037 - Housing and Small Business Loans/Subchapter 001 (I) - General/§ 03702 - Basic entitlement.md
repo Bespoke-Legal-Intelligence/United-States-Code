@@ -28,7 +28,7 @@
 
 (b) In computing the aggregate amount of guaranty or insurance housing loan entitlement available to a veteran under this chapter, the Secretary may exclude the amount of guaranty or insurance housing loan entitlement used for any guaranteed, insured, or direct loan under the following circumstances:
 
-&emsp;(1)(A) The property which secured the loan has been disposed of by the veteran or has been destroyed by fire or other natural hazard; and
+&emsp;(1)(A) The property which secured the loan has been disposed of by the veteran or hasbeen destroyed by fire or other natural hazard; and
 
 &emsp;(B) the loan has been repaid in full, or the Secretary has been released from liability as to the loan, or if the Secretary has suffered a loss on such loan, the loss has been paid in full.
 
@@ -170,7 +170,7 @@ Section 10 of Pub. L. 93–569 provided that: “The provisions of this Act \[se
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Annual Reports on Veterans Receiving Guaranteed Mortgage Loans as Result of Amendments by Pub. L. 102–547
 

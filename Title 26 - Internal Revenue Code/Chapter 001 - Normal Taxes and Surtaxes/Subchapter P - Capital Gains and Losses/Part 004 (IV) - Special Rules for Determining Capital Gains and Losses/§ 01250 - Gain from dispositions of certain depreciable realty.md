@@ -170,9 +170,9 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 &emsp;&emsp;In the case of any transaction described in section 1031 or 1033, the additional depreciation in respect of the section 1250 property acquired which is attributable to the section 1250 property disposed of shall be an amount equal to the amount of the gain which was not taken into account under subsection (a) by reason of the application of this paragraph.
 
-#### (5) Section 1071 and 1081 transactions
+#### (5) Section 1081 transactions
 
-&emsp;Under regulations prescribed by the Secretary, rules consistent with paragraphs (3) and (4) of this subsection and with subsections (e) and (f) shall apply in the case of transactions described in section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or section 1081 (relating to exchanges in obedience to SEC orders).
+&emsp;Under regulations prescribed by the Secretary, rules consistent with paragraphs (3) and (4) of this subsection and with subsections (e) and (f) shall apply in the case of transactions described in section 1081 (relating to exchanges in obedience to SEC orders).
 
 #### (6) Property distributed by a partnership to a partner
 
@@ -268,7 +268,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (A) In general
 
-&emsp;&emsp;The term “separate improvement” means each improvement added during the 36–month period ending on the last day of any taxable year to the capital account for the property, but only if the sum of the amounts added to such account during such period exceeds the greatest of—
+&emsp;&emsp;The term “separate improvement” means each improvement added during the 36–month period ending on the last day ofany taxable year to the capital account for the property, but only if the sum of the amounts added to such account during such period exceeds the greatest of—
 
 &emsp;&emsp;&emsp;(i) 25 percent of the adjusted basis of the property,
 
@@ -300,7 +300,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L. 101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536.)
+(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L. 101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93.)
 
 #### References in Text
 
@@ -321,6 +321,8 @@ The Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is title 
 The Economic Recovery Tax Act of 1981, referred to in subsec. (b)(4), is Pub. L. 97–34, Aug. 13, 1981, 95 Stat. 172, as amended. Section 191 of this title was repealed by section 212(d)(1) of Pub. L. 97–34. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1995—Subsec. (d)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
 
 1990—Subsec. (a)(1)(B)(i), (2)(B)(ii). Pub. L. 101–508, §11801(c)(15)(A), which directed the insertion of “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “section 1039(b)(1)(B)” in pars. (1)(A)(i) and (2)(B)(ii) of subsec. (a), was executed to pars. (1)(B)(i) and (2)(B)(ii) to reflect the probable intent of Congress.
 
@@ -438,6 +440,10 @@ Subsec. (f)(2). Pub. L. 91–172, §521(e)(2)(B), redesignated subpars. (A) and 
 
 Subsecs. (g) to (i). Pub. L. 91–172, §910(b)(3), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–7 applicable to sales and exchanges on or after January 17, 1995, and to sales and exchanges before such date if FCC tax certificate with respect to such sale or exchange was issued on or after such date, but not applicable with respect to certain binding contracts, see section 2(d) of Pub. L. 104–7, set out as an Effective Date of Repeal note under section 1071 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11812(b)(11), (12) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
@@ -484,13 +490,13 @@ Amendment by section 701(f)(3)(C), (E) of Pub. L. 95–600 effective as if inclu
 
 #### Effective Date of 1976 Amendment
 
-Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which begin after December 31, 1975.”
+Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] which begin after December 31, 1975.”
 
 Amendment by section 1901(b)(3)(K), (31)(A), (B), (E) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(c)(2)(C) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
-Amendment by section 2122(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976,and before Jan. 1, 1983, see section 2122(c) of Pub. L. 94–455, as amended by Pub. L. 96–167, 9(c), Dec. 29, 1979, 93 Stat. 1278, set out as a note under section 190 of this title.
+Amendment by section 2122(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, and before Jan. 1, 1983, see section 2122(c) of Pub. L. 94–455, as amended by Pub. L. 96–167, 9(c), Dec. 29, 1979, 93 Stat. 1278, set out as a note under section 190 of this title.
 
 Amendment by section 2124(a)(3)(D) of Pub. L. 94–455 applicable with respect to additions to capital accounts made after June 14, 1976 and before June 15, 1981, see section 2124(a)(4) of Pub. L. 94–455, set out as an Effective Date note under section 642 of this title.
 

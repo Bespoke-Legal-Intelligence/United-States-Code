@@ -1,6 +1,6 @@
 ### §1307. Public building construction
 
-Amounts appropriated to construct public buildings remain available until completion of the work. When a building is completed and outstanding liabilities for the construction are paid, balances remaining shall revert immediately to the Treasury.
+Amounts appropriated to construct public buildings remain available until completion ofthe work. When a building is completed and outstanding liabilities for the construction are paid, balances remaining shall revert immediately to the Treasury.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918.)
 

@@ -30,9 +30,9 @@
 
 (e) The Congress further finds that the United States is part of an interdependent world trading and monetary system and that attainment of the requirements specified in subsection (d) of this section is dependent upon policies promoting a free and fair international trading system and a sound and stable international monetary system.
 
-(Pub. L. 95 523, §2, Oct. 27, 1978, 92 Stat. 1888.)
+(Pub. L. 95–523, §2, Oct. 27, 1978, 92 Stat. 1888.)
 
 #### Short Title
 
-Section 1 of Pub. L. 95 523 provided in part that this Act \[enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and section 225a of Title 12, Banks and Banking, and enacting provisions set out as notes under section 1021 of title and section 225a of Title 12\] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
+Section 1 of Pub. L. 95–523 provided in part that this Act \[enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and section 225a of Title 12, Banks and Banking, and enacting provisions set out as notes under section 1021 of title and section 225a of Title 12\] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
 

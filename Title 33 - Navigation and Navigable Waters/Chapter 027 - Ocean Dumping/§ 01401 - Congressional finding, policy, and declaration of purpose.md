@@ -30,11 +30,11 @@ Section 2 of Pub. L. 93–254 provided in part that amendment of subsecs. (b) an
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title \[enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a,and 1414a of this title, and amending provisions set out as a note under section 2267 of this title\] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
+Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title \[enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under section 2267 of this title\] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
+Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of thistitle, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
 
 #### Territorial Sea of United States
 

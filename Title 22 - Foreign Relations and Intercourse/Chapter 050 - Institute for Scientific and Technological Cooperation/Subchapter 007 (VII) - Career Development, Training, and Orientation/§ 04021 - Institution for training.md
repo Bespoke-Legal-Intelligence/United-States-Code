@@ -16,7 +16,7 @@ Training and instruction may be provided at the Institute <sup>1</sup> for not 
 
 (1) The Secretary of State is authorized to provide for special professional foreign affairs training and instruction of employees of foreign governments through the institution.
 
-(2) Training and instruction under paragraph (1) shall be on a reimbursable or advance-of-funds basis. Such reimbursements or advances to the Department of State may be provided by an agency of the United States Government orby a foreign government and shall be credited to the currently available applicable appropriation account.
+(2) Training and instruction under paragraph (1) shall be on a reimbursable or advance-of-funds basis. Such reimbursements or advances to the Department of State may be provided by an agency of the United States Government or by a foreign government and shall be credited to the currently available applicable appropriation account.
 
 (3) In making such training available to employees of foreign governments, priority consideration should be given to officials of newly emerging democratic nations and then to such other countries as the Secretary determines to be in the national interest of the United States.
 
@@ -100,7 +100,7 @@ Use of Funds.—(1)(A) Of amounts authorized to be appropriated to the Departmen
 
 &emsp;“(B) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the determination.
 
-> If both Houses of Congress are not in session on the day any plans and estimates are submitted to such committees, such submittal shall be deemed to have been submitted on the first succeeding day on which bothHouses are in session. If all such committees do not receive a submittal on the same day, such period shall not begin until the date on which all such committees have received it.
+> If both Houses of Congress are not in session on the day any plans and estimates are submitted to such committees, such submittal shall be deemed to have been submitted on the first succeeding day on which both Houses are in session. If all such committees do not receive a submittal on the same day, such period shall not begin until the date on which all such committees have received it.
 
 “(d)
 

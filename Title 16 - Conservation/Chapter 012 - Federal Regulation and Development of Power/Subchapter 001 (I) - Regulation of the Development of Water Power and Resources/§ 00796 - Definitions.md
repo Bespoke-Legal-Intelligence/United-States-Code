@@ -26,7 +26,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(12) “project works” means the physical structures of a project;
 
-&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum ofthe following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribed in said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
+&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum of the following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribed in said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
 
 &emsp;(14) “Commission” and “Commissioner” means the Federal Power Commission, and a member thereof, respectively;
 
@@ -92,7 +92,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(23)
 
-Transmitting utility.—The term “transmitting utility” means any electricutility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.<sup>1</sup>
+Transmitting utility.—The term “transmitting utility” means any electric utility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.<sup>1</sup>
 
 &emsp;(24)
 
@@ -102,7 +102,7 @@ Wholesale transmission services.—The term “wholesale transmission services�
 
 Exempt wholesale generator.—The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a of title 15.
 
-(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Nov. 9, 1978, Pub. L. 95–617, title II, §201, 92 Stat. 3134; June 30, 1980, Pub. L. 96–294, title VI, §643(a)(1), 94 Stat. 770; Nov. 15, 1990, Pub. L. 101–575, §3, 104 Stat. 2834; May 17, 1991, Pub. L. 102–46, 105 Stat. 249; Oct. 24, 1992, Pub. L. 102–486, title VII, §726, 106 Stat. 2921.)
+(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Nov. 9, 1978, Pub. L. 95–617, title II, §201, 92 Stat. 3134; June 30, 1980, Pub. L. 96–294, title VI, §643(a)(1), 94 Stat. 770; Nov. 15, 1990, Pub. L. 101–575, §3, 104Stat. 2834; May 17, 1991, Pub. L. 102–46, 105 Stat. 249; Oct. 24, 1992, Pub. L. 102–486, title VII, §726, 106 Stat. 2921.)
 
 #### References in Text
 
@@ -141,6 +141,10 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 #### Transfer of Functions
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Section Referred to in Other Sections
 

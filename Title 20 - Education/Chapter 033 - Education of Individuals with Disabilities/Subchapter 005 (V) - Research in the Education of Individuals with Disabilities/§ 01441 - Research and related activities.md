@@ -106,19 +106,19 @@ The Secretary shall—
 
 (2) Each grantee under this subsection shall provide for the meaningful involvement in its project of parents and family members and adult role models.
 
-(Pub. L. 91 230, title VI, §641, Apr. 13, 1970, 84 Stat. 185; Pub. L. 95 49, §4, June 17, 1977, 91 Stat.230; Pub. L. 98 199, §§3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99 457, title III, §312, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 100 630, title I, §105(b), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101 476, title V, §501, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102 421, title II, §203, Oct. 16, 1992, 106 Stat. 2165.)
+(Pub. L. 91–230, title VI, §641, Apr. 13, 1970, 84 Stat. 185; Pub. L. 95–49, §4, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §§3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §312, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 100–630, title I, §105(b), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title V, §501, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–421, title II, §203, Oct. 16, 1992, 106 Stat. 2165.)
 
 #### Amendments
 
-1992—Subsec. (h). Pub. L. 102 421 added subsec. (h).
+1992—Subsec. (h). Pub. L. 102–421 added subsec. (h).
 
-1990—Pub. L. 101 476 amended section generally, substituting provisions relating to support of activities designed to advance knowledge regarding instruction and other interventions to infants, toddlers, children, and youth with disabilities for provisions relating to research of services for handicapped infants, toddlers, children, and youth and activities to increase knowledge and understanding of handicapping conditions and to improve special education, related services, and early intervention services; changing time periods for publication of proposed research priorities, comment, and publication of final priorities; deleting requirement that the Secretary make reports of available research projects; and inserting provisions relating to attention deficit disorder and model demonstration programs to remove barriers to appropriate services for children and youth with disabilities.
+1990—Pub. L. 101–476 amended section generally, substituting provisions relating to support of activities designed to advance knowledge regarding instruction and other interventions to infants, toddlers, children, and youth with disabilities for provisions relating to research of services for handicapped infants, toddlers, children, and youth and activities to increase knowledge and understanding of handicapping conditions and to improve special education, related services, and early intervention services; changing time periods for publication of proposed research priorities, comment, and publication of final priorities; deleting requirement that the Secretary make reports of available research projects; and inserting provisions relating to attention deficit disorder and model demonstration programs to remove barriers to appropriate services for children and youth with disabilities.
 
-1988—Subsec. (a). Pub. L. 100 630, §105(b)(1), (2), substituted “children, and youth” for “children and youth” wherever appearing, and inserted a comma after “scales” in par. (6).
+1988—Subsec. (a). Pub. L. 100–630, §105(b)(1), (2), substituted “children, and youth” for “children and youth” wherever appearing, and inserted a comma after “scales” in par. (6).
 
-Subsec. (e). Pub. L. 100 630, §105(b)(3), substituted “Institute on Disability and Rehabilitation Research” for “Institute of Handicapped Research” and “Council on Disability” for “Council on the Handicapped”.
+Subsec. (e). Pub. L. 100–630, §105(b)(3), substituted “Institute on Disability and Rehabilitation Research” for “Institute of Handicapped Research” and “Council on Disability” for “Council on the Handicapped”.
 
-1986—Subsec. (a). Pub. L. 99 457 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to make grants to, or enter into contracts or cooperative agreements with, State and local educational agencies, institutions of higher education, and other public agencies and nonprofit private organizations for research and related activities, to assist special education personnel, related services personnel, and other appropriate persons, including parents, in improving the education and related services for handicapped children and youth and to conduct research, surveys, or demonstrations relating to the education of handicapped children and youth. Research and related activities shall be designed to increase knowledge and understanding of handicapping conditions and teaching, learning, and education-related practices and services for handicapped children and youth. Research and related activities assisted under this section shall include, but not be limited to, the following:
+1986—Subsec. (a). Pub. L. 99–457 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to make grants to, or enter into contracts or cooperative agreements with, State and local educational agencies, institutions of higher education, and other public agencies and nonprofit private organizations for research and related activities, to assist special education personnel, related services personnel, and other appropriate persons, including parents, in improving the education and related services for handicapped children and youth and to conduct research, surveys, or demonstrations relating to the education of handicapped children and youth. Research and related activities shall be designed to increase knowledge and understanding of handicapping conditions and teaching, learning, and education-related practices and services for handicapped children and youth. Research and related activities assisted under this section shall include, but not be limited to, the following:
 
 &emsp;“(1) The development of new and improved techniques and devices for teaching handicapped children and youth.
 
@@ -130,35 +130,35 @@ Subsec. (e). Pub. L. 100 630, §105(b)(3), substituted “Institute on Disabilit
 
 &emsp;“(5) The dissemination of information on research and related activities conducted under this subchapter to interested individuals and organizations.”
 
-Subsec. (b). Pub. L. 99 457 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In carrying out this section the Secretary shall consider the special education experience of the applicant and the ability of the applicant to disseminate the findings of any grant or contract.”
+Subsec. (b). Pub. L. 99–457 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In carrying out this section the Secretary shall consider the special education experience of the applicant and the ability of the applicant to disseminate the findings of any grant or contract.”
 
-Subsec. (c). Pub. L. 99 457 amended subsec. (c) generally, substituting “2 years” for “two years”, “60 days” for “sixty days”, and “30 days” for “thirty days”.
+Subsec. (c). Pub. L. 99–457 amended subsec. (c) generally, substituting “2 years” for “two years”, “60 days” for “sixty days”, and “30 days” for “thirty days”.
 
-Subsec. (d). Pub. L. 99 457, in amending section generally, restated subsec. (d) without change.
+Subsec. (d). Pub. L. 99–457, in amending section generally, restated subsec. (d) without change.
 
-Subsec. (e). Pub. L. 99 457 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall coordinate the research priorities established under this section with research priorities established by the National Institute of Handicapped Research and shall provide information concerning research priorities established under this section to the National Council on the Handicapped and to the National Advisory Committee on the Education of Handicapped Children.”
+Subsec. (e). Pub. L. 99–457 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall coordinate the research priorities established under this section with research priorities established by the National Institute of Handicapped Research and shall provide information concerning research priorities established under this section to the National Council on the Handicapped and to the National Advisory Committee on the Education of Handicapped Children.”
 
-1983—Pub. L. 98 199, §12, amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to make grants to States, State or local educational agencies, institutions of higher education, and other public or nonprofit private educational or research agencies and organizations, and to make contracts with States, State or local educational agencies, institutions of higher education, and other public or private educational or research agencies and organizations, for research and related purposes relating to physical education or recreation for handicapped children, and to conduct research, surveys, or demonstrations relating to physical education or recreation for handicapped children, including the development and conduct of model programs designed to meet the special educational needs of such children.”
+1983—Pub. L. 98–199, §12, amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to make grants to States, State or local educational agencies, institutions of higher education, and other public or nonprofit private educational or research agencies and organizations, and to make contracts with States, State or local educational agencies, institutions of higher education, and other public or private educational or research agencies and organizations, for research and related purposes relating to physical education or recreation for handicapped children, and to conduct research, surveys, or demonstrations relating to physical education or recreation for handicapped children, including the development and conduct of model programs designed to meet the special educational needs of such children.”
 
-Pub. L. 98 199, §3(b), substituted “Secretary” for “Commissioner”.
+Pub. L. 98–199, §3(b), substituted “Secretary” for “Commissioner”.
 
-1977—Pub. L. 95 49 inserted provisions calling for the development and conduct of model programs designed to meet the special educational needs of handicapped children.
+1977—Pub. L. 95–49 inserted provisions calling for the development and conduct of model programs designed to meet the special educational needs of handicapped children.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 421 effective Oct. 1, 1992, see section 221 of Pub. L. 102 421, set out as a note under section 1424a of this title.
+Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 221 of Pub. L. 102–421, set out as a note under section 1424a of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98 199 effective Dec. 2, 1983, with an exception for previously obligated funds and certain interim provisions for financial assistance, see section 18 of Pub. L. 98 199 set out as a note under section 1401 of this title.
+Amendment by Pub. L. 98–199 effective Dec. 2, 1983, with an exception for previously obligated funds and certain interim provisions for financial assistance, see section 18 of Pub. L. 98–199 set out as a note under section 1401 of this title.
 
 #### Education and Training for Individuals at Risk
 
-Pub. L. 100 297, title VI, §6011, Apr. 28, 1988, 102 Stat. 423, provided that:
+Pub. L. 100–297, title VI, §6011, Apr. 28, 1988, 102 Stat. 423, provided that:
 
 “(a)(1)
 

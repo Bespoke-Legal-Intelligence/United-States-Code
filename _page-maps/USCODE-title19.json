@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title19",
- "package": "USCODE-1994-title19",
+ "package": "USCODE-1995-title19",
  "pieces": [
   {
    "id": "19_",
@@ -78,7 +78,7 @@
    "marks": [
     [
      "L",
-     28,
+     22,
      "[Page 5]",
      true
     ]
@@ -109,26 +109,26 @@
   },
   {
    "id": "19_6",
-   "marks": [],
-   "path": "Chapter 001 - Collection Districts, Ports, and Officers/§ 00006 - Designation of customs officers for foreign service; status; rejection of designated customs officer; applicability of civil service laws.md",
-   "printed_pages": [
-    5,
-    5
-   ]
-  },
-  {
-   "id": "19_6a_to_6d",
    "marks": [
     [
      "L",
-     4,
+     44,
      "[Page 6]",
      true
     ]
    ],
-   "path": "Chapter 001 - Collection Districts, Ports, and Officers/§ 00006a to 6d - Repealed. Sept. 3, 1954, ch. 1263, §13(b), 68 Stat. 1231.md",
+   "path": "Chapter 001 - Collection Districts, Ports, and Officers/§ 00006 - Designation of customs officers for foreign service; status; rejection of designated customs officer; applicability of civil service laws.md",
    "printed_pages": [
     5,
+    6
+   ]
+  },
+  {
+   "id": "19_6a_to_6d",
+   "marks": [],
+   "path": "Chapter 001 - Collection Districts, Ports, and Officers/§ 00006a to 6d - Repealed. Sept. 3, 1954, ch. 1263, §13(b), 68 Stat. 1231.md",
+   "printed_pages": [
+    6,
     6
    ]
   },
@@ -218,7 +218,7 @@
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 7]",
      true
     ]
@@ -330,30 +330,26 @@
   },
   {
    "id": "19_52",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 8]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Collection Districts, Ports, and Officers/§ 00052 - Payment of compensation and expenses.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   },
   {
    "id": "19_53_to_57",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       108,
-       "[Page 8]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Collection Districts, Ports, and Officers/§ 00053 to 57 - Repealed. Aug. 2, 1956, ch. 887, §4(a)(16)–(20), 70 Stat. 947.md",
    "printed_pages": [
-    7,
+    8,
     8
    ]
   },
@@ -380,7 +376,7 @@
    "marks": [
     [
      "L",
-     48,
+     42,
      "[Page 9]",
      true
     ]
@@ -396,98 +392,86 @@
    "marks": [
     [
      "I",
-     48,
+     46,
      [
       [
-       267,
+       184,
        "[Page 10]"
       ]
      ]
     ],
     [
      "L",
-     144,
+     138,
      "[Page 11]",
      true
     ],
     [
-     "I",
-     210,
-     [
-      [
-       94,
-       "[Page 12]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     286,
-     [
-      [
-       140,
-       "[Page 13]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     352,
-     [
-      [
-       90,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     208,
+     "[Page 12]",
+     true
     ],
     [
      "L",
-     382,
-     "[Page 15]",
+     284,
+     "[Page 13]",
+     true
+    ],
+    [
+     "L",
+     346,
+     "[Page 14]",
      true
     ],
     [
      "I",
-     444,
+     380,
      [
       [
-       221,
-       "[Page 16]"
+       657,
+       "[Page 15]"
       ]
      ]
     ],
     [
      "L",
-     530,
+     444,
+     "[Page 16]",
+     true
+    ],
+    [
+     "L",
+     528,
      "[Page 17]",
      true
     ],
     [
      "I",
-     606,
+     604,
      [
       [
-       108,
+       263,
        "[Page 18]"
       ]
      ]
     ],
     [
      "I",
-     704,
+     702,
      [
       [
-       99,
+       106,
        "[Page 19]"
       ]
      ]
     ],
     [
      "I",
-     772,
+     770,
      [
       [
-       104,
+       164,
        "[Page 20]"
       ]
      ]
@@ -2701,7 +2685,7 @@
    ]
   },
   {
-   "id": "19_1305__",
+   "id": "19_1305",
    "marks": [
     [
      "I",
@@ -2727,7 +2711,7 @@
    ]
   },
   {
-   "id": "19_1306__",
+   "id": "19_1306",
    "marks": [
     [
      "I",
@@ -2747,7 +2731,7 @@
    ]
   },
   {
-   "id": "19_1307__",
+   "id": "19_1307",
    "marks": [
     [
      "I",
@@ -2767,7 +2751,7 @@
    ]
   },
   {
-   "id": "19_1308__",
+   "id": "19_1308",
    "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 001 (I) - Miscellaneous/§ 01308 - Repealed. Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75.md",
    "printed_pages": [
@@ -2776,7 +2760,7 @@
    ]
   },
   {
-   "id": "19_1309__",
+   "id": "19_1309",
    "marks": [
     [
      "I",
@@ -2924,26 +2908,31 @@
      340,
      "[Page 79]",
      true
-    ],
-    [
-     "L",
-     418,
-     "[Page 80]",
-     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 001 (I) - Miscellaneous/§ 01313 - Drawback and refunds.md",
    "printed_pages": [
     73,
-    80
+    79
    ]
   },
   {
    "id": "19_1313a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 80]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 001 (I) - Miscellaneous/§ 01313a - Appropriations for refunds, drawbacks, bounties, etc.md",
    "printed_pages": [
-    80,
+    79,
     80
    ]
   },
@@ -2960,14 +2949,10 @@
    "id": "19_1315",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       217,
-       "[Page 81]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 81]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 001 (I) - Miscellaneous/§ 01315 - Effective date of rates of duty.md",
@@ -2989,14 +2974,10 @@
    "id": "19_1317",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       651,
-       "[Page 82]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 82]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 001 (I) - Miscellaneous/§ 01317 - Tobacco products; supplies for certain vessels and aircraft.md",
@@ -3013,7 +2994,7 @@
      30,
      [
       [
-       623,
+       676,
        "[Page 83]"
       ]
      ]
@@ -3358,7 +3339,7 @@
    ]
   },
   {
-   "id": "19_1337a__",
+   "id": "19_1337a",
    "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 002 (II) - United States International Trade Commission/§ 01337a - Repealed. Pub. L. 100–418, title I, §1342(c), Aug. 23, 1988, 102 Stat. 1215.md",
    "printed_pages": [
@@ -3367,7 +3348,7 @@
    ]
   },
   {
-   "id": "19_1338__",
+   "id": "19_1338",
    "marks": [
     [
      "L",
@@ -3383,7 +3364,7 @@
    ]
   },
   {
-   "id": "19_1339__",
+   "id": "19_1339",
    "marks": [
     [
      "I",
@@ -3403,7 +3384,7 @@
    ]
   },
   {
-   "id": "19_1340__",
+   "id": "19_1340",
    "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 002 (II) - United States International Trade Commission/§ 01340 - Omitted.md",
    "printed_pages": [
@@ -3412,7 +3393,7 @@
    ]
   },
   {
-   "id": "19_1341__",
+   "id": "19_1341",
    "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 002 (II) - United States International Trade Commission/§ 01341 - Interference with functions of Commission.md",
    "printed_pages": [
@@ -3437,7 +3418,7 @@
      8,
      [
       [
-       138,
+       181,
        "[Page 106]"
       ]
      ]
@@ -3447,28 +3428,40 @@
      52,
      [
       [
-       98,
+       143,
        "[Page 107]"
       ]
      ]
     ],
     [
-     "L",
+     "I",
      84,
-     "[Page 108]",
-     true
+     [
+      [
+       94,
+       "[Page 108]"
+      ]
+     ]
     ],
     [
-     "L",
-     144,
-     "[Page 109]",
-     true
+     "I",
+     146,
+     [
+      [
+       106,
+       "[Page 109]"
+      ]
+     ]
     ],
     [
-     "L",
-     226,
-     "[Page 110]",
-     true
+     "I",
+     228,
+     [
+      [
+       109,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 003 (III) - Promotion of Foreign Trade/§ 01351 - Foreign trade agreements.md",
@@ -3490,14 +3483,10 @@
    "id": "19_1352a",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       170,
-       "[Page 111]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 111]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 003 (III) - Promotion of Foreign Trade/§ 01352a - Repealed. Pub. L. 87–794, title II, §257(f), Oct. 11, 1962, 76 Stat. 882.md",
@@ -3550,7 +3539,7 @@
      4,
      [
       [
-       525,
+       667,
        "[Page 112]"
       ]
      ]
@@ -3576,7 +3565,7 @@
    "marks": [
     [
      "L",
-     18,
+     22,
      "[Page 113]",
      true
     ]
@@ -3609,10 +3598,14 @@
    "id": "19_1360",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 114]",
-     true
+     "I",
+     32,
+     [
+      [
+       111,
+       "[Page 114]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 003 (III) - Promotion of Foreign Trade/§ 01360 - Investigation before trade negotiations.md",
@@ -3643,10 +3636,14 @@
    "id": "19_1366",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 115]",
-     true
+     "I",
+     20,
+     [
+      [
+       109,
+       "[Page 115]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 002 (II) - Special Provisions/Part 003 (III) - Promotion of Foreign Trade/§ 01366 - General Agreement on Tariff and Trade unaffected.md",
@@ -3695,18 +3692,14 @@
    "id": "19_1401",
    "marks": [
     [
-     "I",
-     66,
-     [
-      [
-       133,
-       "[Page 116]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 116]",
+     true
     ],
     [
      "L",
-     128,
+     136,
      "[Page 117]",
      true
     ]
@@ -3722,45 +3715,41 @@
    "marks": [
     [
      "L",
-     30,
+     34,
      "[Page 118]",
      true
     ],
     [
-     "L",
-     96,
-     "[Page 119]",
-     true
-    ],
-    [
      "I",
-     140,
+     96,
      [
       [
-       178,
-       "[Page 120]"
+       232,
+       "[Page 119]"
       ]
      ]
     ],
     [
      "L",
-     222,
+     144,
+     "[Page 120]",
+     true
+    ],
+    [
+     "L",
+     224,
      "[Page 121]",
      true
     ],
     [
-     "I",
-     300,
-     [
-      [
-       104,
-       "[Page 122]"
-      ]
-     ]
+     "L",
+     304,
+     "[Page 122]",
+     true
     ],
     [
      "L",
-     370,
+     372,
      "[Page 123]",
      true
     ]
@@ -3794,7 +3783,7 @@
    "marks": [
     [
      "L",
-     42,
+     48,
      "[Page 124]",
      true
     ]
@@ -3818,10 +3807,14 @@
    "id": "19_1413",
    "marks": [
     [
-     "L",
-     74,
-     "[Page 125]",
-     true
+     "I",
+     78,
+     [
+      [
+       109,
+       "[Page 125]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 001 (I) - Definitions and National Customs Automation Program/Subpart b - National Customs Automation Program/§ 01413 - Implementation and evaluation of Program.md",
@@ -3835,7 +3828,7 @@
    "marks": [
     [
      "L",
-     88,
+     92,
      "[Page 126]",
      true
     ]
@@ -3860,10 +3853,10 @@
    "marks": [
     [
      "I",
-     74,
+     78,
      [
       [
-       113,
+       224,
        "[Page 127]"
       ]
      ]
@@ -3889,10 +3882,10 @@
    "marks": [
     [
      "I",
-     50,
+     54,
      [
       [
-       214,
+       166,
        "[Page 128]"
       ]
      ]
@@ -3908,14 +3901,10 @@
    "id": "19_1434",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       380,
-       "[Page 129]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 129]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01434 - Entry; vessels.md",
@@ -3955,10 +3944,14 @@
    "id": "19_1436",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 130]",
-     true
+     "I",
+     34,
+     [
+      [
+       285,
+       "[Page 130]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01436 - Penalties for violations of arrival, reporting, entry, and clearance requirements.md",
@@ -3998,10 +3991,14 @@
    "id": "19_1441",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 131]",
-     true
+     "I",
+     22,
+     [
+      [
+       99,
+       "[Page 131]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01441 - Exceptions to vessel entry and clearance requirements.md",
@@ -4014,14 +4011,10 @@
    "id": "19_1442",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       459,
-       "[Page 132]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 132]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01442 - Residue cargo.md",
@@ -4053,7 +4046,7 @@
    "marks": [
     [
      "L",
-     20,
+     26,
      "[Page 133]",
      true
     ]
@@ -4066,26 +4059,30 @@
   },
   {
    "id": "19_1448",
-   "marks": [
-    [
-     "L",
-     32,
-     "[Page 134]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01448 - Unlading.md",
    "printed_pages": [
     133,
-    134
+    133
    ]
   },
   {
    "id": "19_1449",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       97,
+       "[Page 134]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01449 - Unlading at port of entry.md",
    "printed_pages": [
-    134,
+    133,
     134
    ]
   },
@@ -4106,30 +4103,35 @@
      2,
      [
       [
-       669,
+       1046,
        "[Page 135]"
       ]
      ]
-    ],
-    [
-     "L",
-     42,
-     "[Page 136]",
-     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01451 - Extra compensation.md",
    "printed_pages": [
     134,
-    136
+    135
    ]
   },
   {
    "id": "19_1451a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       325,
+       "[Page 136]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01451a - Repealed. Pub. L. 103–66, title XIII, §13811(b)(1), Aug. 10, 1993, 107 Stat. 670.md",
    "printed_pages": [
-    136,
+    135,
     136
    ]
   },
@@ -4168,7 +4170,7 @@
      2,
      [
       [
-       705,
+       1167,
        "[Page 137]"
       ]
      ]
@@ -4212,19 +4214,15 @@
    "marks": [
     [
      "L",
-     6,
+     16,
      "[Page 138]",
      true
     ],
     [
-     "I",
-     74,
-     [
-      [
-       752,
-       "[Page 139]"
-      ]
-     ]
+     "L",
+     76,
+     "[Page 139]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01459 - Reporting requirements for individuals.md",
@@ -4271,26 +4269,30 @@
   },
   {
    "id": "19_1464",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 140]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01464 - Penalties in connection with sealed vessels and vehicles.md",
    "printed_pages": [
     139,
-    140
+    139
    ]
   },
   {
    "id": "19_1465",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       217,
+       "[Page 140]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 002 (II) - Report, Entry, and Unlading of Vessels and Vehicles/§ 01465 - Repealed. Pub. L. 103–182, title VI, §690(b)(7), Dec. 8, 1993, 107 Stat. 2223.md",
    "printed_pages": [
-    140,
+    139,
     140
    ]
   },
@@ -4298,17 +4300,21 @@
    "id": "19_1466",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 141]",
-     true
+     "I",
+     48,
+     [
+      [
+       187,
+       "[Page 141]"
+      ]
+     ]
     ],
     [
      "I",
-     120,
+     124,
      [
       [
-       119,
+       166,
        "[Page 142]"
       ]
      ]
@@ -4343,20 +4349,20 @@
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       90,
+       139,
        "[Page 143]"
       ]
      ]
     ],
     [
      "I",
-     58,
+     60,
      [
       [
-       109,
+       324,
        "[Page 144]"
       ]
      ]
@@ -4394,20 +4400,24 @@
      30,
      [
       [
-       363,
+       810,
        "[Page 145]"
       ]
      ]
     ],
     [
-     "L",
+     "I",
      76,
-     "[Page 146]",
-     true
+     [
+      [
+       543,
+       "[Page 146]"
+      ]
+     ]
     ],
     [
      "L",
-     126,
+     130,
      "[Page 147]",
      true
     ]
@@ -4432,7 +4442,7 @@
    "marks": [
     [
      "I",
-     4,
+     6,
      [
       [
        91,
@@ -4442,10 +4452,10 @@
     ],
     [
      "I",
-     52,
+     54,
      [
       [
-       714,
+       219,
        "[Page 149]"
       ]
      ]
@@ -4462,7 +4472,7 @@
    "marks": [
     [
      "L",
-     18,
+     24,
      "[Page 150]",
      true
     ]
@@ -4504,14 +4514,10 @@
    "id": "19_1490",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       325,
-       "[Page 151]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 151]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 003 (III) - Ascertainment, Collection, and Recovery of Duties/§ 01490 - General orders.md",
@@ -4528,20 +4534,16 @@
      4,
      [
       [
-       1629,
+       1729,
        "[Page 152]"
       ]
      ]
     ],
     [
-     "I",
-     66,
-     [
-      [
-       116,
-       "[Page 153]"
-      ]
-     ]
+     "L",
+     68,
+     "[Page 153]",
+     true
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 003 (III) - Ascertainment, Collection, and Recovery of Duties/§ 01491 - Unclaimed merchandise; disposition of forfeited distilled spirits, wines and malt liquor.md",
@@ -4572,10 +4574,14 @@
    "id": "19_1494",
    "marks": [
     [
-     "L",
+     "I",
      10,
-     "[Page 154]",
-     true
+     [
+      [
+       95,
+       "[Page 154]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 003 (III) - Administrative Provisions/Part 003 (III) - Ascertainment, Collection, and Recovery of Duties/§ 01494 - Expense of weighing and measuring.md",
@@ -7043,7 +7049,7 @@
    ]
   },
   {
-   "id": "19_1673c__",
+   "id": "19_1673c",
    "marks": [
     [
      "I",
@@ -7091,7 +7097,7 @@
    ]
   },
   {
-   "id": "19_1673d__",
+   "id": "19_1673d",
    "marks": [
     [
      "L",
@@ -7519,7 +7525,7 @@
    ]
   },
   {
-   "id": "19_1677-1__",
+   "id": "19_1677-1",
    "marks": [
     [
      "I",
@@ -7539,7 +7545,7 @@
    ]
   },
   {
-   "id": "19_1677-2__",
+   "id": "19_1677-2",
    "marks": [],
    "path": "Chapter 003 - The Tariff and Related Provisions/Subtitle 004 (IV) - Countervailing and Antidumping Duties/Part 004 (IV) - General Provisions/§ 01677–2 - Calculation of countervailable subsidies on certain processed agricultural products.md",
    "printed_pages": [
@@ -7548,7 +7554,7 @@
    ]
   },
   {
-   "id": "19_1677a__",
+   "id": "19_1677a",
    "marks": [
     [
      "L",
@@ -9172,10 +9178,10 @@
    "marks": [
     [
      "I",
-     36,
+     32,
      [
       [
-       93,
+       228,
        "[Page 379]"
       ]
      ]
@@ -9216,26 +9222,26 @@
   },
   {
    "id": "19_2093",
-   "marks": [],
-   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/§ 02093 - Forfeiture of unlawful imports.md",
-   "printed_pages": [
-    379,
-    379
-   ]
-  },
-  {
-   "id": "19_2094",
    "marks": [
     [
      "L",
-     6,
+     20,
      "[Page 380]",
      true
     ]
    ],
-   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/§ 02094 - Rules and regulations.md",
+   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/§ 02093 - Forfeiture of unlawful imports.md",
    "printed_pages": [
     379,
+    380
+   ]
+  },
+  {
+   "id": "19_2094",
+   "marks": [],
+   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/§ 02094 - Rules and regulations.md",
+   "printed_pages": [
+    380,
     380
    ]
   },
@@ -9253,50 +9259,50 @@
    "marks": [
     [
      "I",
-     73,
+     68,
      [
       [
-       34,
+       66,
        "[Page 381]"
       ]
      ]
     ],
     [
      "I",
-     184,
+     173,
      [
       [
-       68,
+       64,
        "[Page 382]"
       ]
      ]
     ],
     [
      "I",
-     310,
+     307,
      [
       [
-       48,
+       20,
        "[Page 383]"
       ]
      ]
     ],
     [
      "I",
-     447,
+     433,
      [
       [
-       40,
+       99,
        "[Page 384]"
       ]
      ]
     ],
     [
      "I",
-     571,
+     564,
      [
       [
-       78,
+       132,
        "[Page 385]"
       ]
      ]
@@ -9313,10 +9319,10 @@
    "marks": [
     [
      "I",
-     16,
+     12,
      [
       [
-       445,
+       854,
        "[Page 386]"
       ]
      ]
@@ -9359,58 +9365,70 @@
    "id": "19_2111",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 387]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 387]"
+      ]
+     ]
     ],
     [
      "I",
-     54,
+     52,
      [
       [
-       110,
+       1456,
        "[Page 388]"
       ]
      ]
     ],
     [
-     "L",
-     90,
-     "[Page 389]",
-     true
+     "I",
+     86,
+     [
+      [
+       273,
+       "[Page 389]"
+      ]
+     ]
     ],
     [
      "I",
-     152,
+     142,
      [
       [
-       355,
+       76,
        "[Page 390]"
       ]
      ]
     ],
     [
      "I",
-     184,
+     180,
      [
       [
-       378,
+       813,
        "[Page 391]"
       ]
      ]
     ],
     [
      "L",
-     242,
+     238,
      "[Page 392]",
      true
     ],
     [
-     "L",
-     292,
-     "[Page 393]",
-     true
+     "I",
+     278,
+     [
+      [
+       269,
+       "[Page 393]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 001 - Rates of Duty and Other Trade Barriers/§ 02111 - Basic authority for trade agreements.md",
@@ -9423,146 +9441,162 @@
    "id": "19_2112",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 394]",
-     true
-    ],
-    [
-     "L",
-     70,
-     "[Page 395]",
-     true
-    ],
-    [
      "I",
-     160,
+     8,
      [
       [
-       100,
-       "[Page 396]"
+       600,
+       "[Page 394]"
       ]
      ]
     ],
     [
      "I",
-     264,
+     62,
      [
       [
-       151,
-       "[Page 397]"
+       92,
+       "[Page 395]"
       ]
      ]
     ],
     [
      "L",
-     364,
-     "[Page 398]",
+     146,
+     "[Page 396]",
      true
     ],
     [
      "L",
-     472,
+     250,
+     "[Page 397]",
+     true
+    ],
+    [
+     "I",
+     352,
+     [
+      [
+       112,
+       "[Page 398]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     454,
      "[Page 399]",
      true
     ],
     [
+     "L",
+     568,
+     "[Page 400]",
+     true
+    ],
+    [
+     "L",
+     672,
+     "[Page 401]",
+     true
+    ],
+    [
      "I",
-     590,
+     778,
      [
       [
-       167,
-       "[Page 400]"
+       109,
+       "[Page 402]"
       ]
      ]
     ],
     [
      "L",
-     690,
-     "[Page 401]",
-     true
-    ],
-    [
-     "L",
-     788,
-     "[Page 402]",
-     true
-    ],
-    [
-     "L",
-     858,
+     846,
      "[Page 403]",
      true
     ],
     [
      "L",
-     966,
+     946,
      "[Page 404]",
      true
     ],
     [
      "I",
-     1072,
+     1068,
      [
       [
-       107,
+       111,
        "[Page 405]"
       ]
      ]
     ],
     [
      "I",
-     1130,
+     1122,
      [
       [
-       201,
+       111,
        "[Page 406]"
       ]
      ]
     ],
     [
-     "L",
-     1206,
-     "[Page 407]",
-     true
-    ],
-    [
-     "L",
-     1282,
-     "[Page 408]",
-     true
+     "I",
+     1204,
+     [
+      [
+       94,
+       "[Page 407]"
+      ]
+     ]
     ],
     [
      "I",
-     1362,
+     1272,
      [
       [
-       190,
+       113,
+       "[Page 408]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1350,
+     [
+      [
+       92,
        "[Page 409]"
       ]
      ]
     ],
     [
-     "L",
-     1468,
-     "[Page 410]",
-     true
-    ],
-    [
-     "L",
-     1548,
-     "[Page 411]",
-     true
+     "I",
+     1458,
+     [
+      [
+       112,
+       "[Page 410]"
+      ]
+     ]
     ],
     [
      "I",
-     1620,
+     1542,
      [
       [
        106,
-       "[Page 412]"
+       "[Page 411]"
       ]
      ]
+    ],
+    [
+     "L",
+     1614,
+     "[Page 412]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 001 - Rates of Duty and Other Trade Barriers/§ 02112 - Barriers to and other distortions of trade.md",
@@ -9594,7 +9628,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 413]",
      true
     ]
@@ -9609,10 +9643,14 @@
    "id": "19_2114b",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 414]",
-     true
+     "I",
+     8,
+     [
+      [
+       96,
+       "[Page 414]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 001 - Rates of Duty and Other Trade Barriers/§ 02114b - Provisions relating to international trade in services.md",
@@ -9626,7 +9664,7 @@
    "marks": [
     [
      "L",
-     26,
+     24,
      "[Page 415]",
      true
     ]
@@ -9669,7 +9707,7 @@
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 416]",
      true
     ]
@@ -9970,84 +10008,88 @@
    "id": "19_2171",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 430]",
-     true
-    ],
-    [
      "I",
-     68,
+     8,
      [
       [
-       186,
-       "[Page 431]"
+       228,
+       "[Page 430]"
       ]
      ]
     ],
     [
      "L",
-     138,
+     66,
+     "[Page 431]",
+     true
+    ],
+    [
+     "L",
+     134,
      "[Page 432]",
      true
     ],
     [
-     "I",
+     "L",
      206,
-     [
-      [
-       214,
-       "[Page 433]"
-      ]
-     ]
+     "[Page 433]",
+     true
     ],
     [
      "I",
-     276,
+     282,
      [
       [
-       303,
+       100,
        "[Page 434]"
       ]
      ]
     ],
     [
-     "L",
-     348,
-     "[Page 435]",
-     true
-    ],
-    [
-     "L",
-     400,
-     "[Page 436]",
-     true
-    ],
-    [
      "I",
-     434,
+     342,
      [
       [
-       269,
-       "[Page 437]"
+       272,
+       "[Page 435]"
       ]
      ]
     ],
     [
      "I",
-     486,
+     402,
      [
       [
-       214,
+       103,
+       "[Page 436]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     438,
+     "[Page 437]",
+     true
+    ],
+    [
+     "I",
+     488,
+     [
+      [
+       114,
        "[Page 438]"
       ]
      ]
     ],
     [
-     "L",
-     576,
-     "[Page 439]",
-     true
+     "I",
+     578,
+     [
+      [
+       105,
+       "[Page 439]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 004 - Office of the United States Trade Representative/§ 02171 - Structure, functions, powers, and personnel.md",
@@ -10070,29 +10112,31 @@
    "marks": [
     [
      "I",
-     20,
+     8,
      [
       [
-       180,
+       89,
        "[Page 440]"
       ]
      ]
     ],
     [
-     "I",
-     46,
-     [
-      [
-       90,
-       "[Page 441]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 441]",
+     true
+    ],
+    [
+     "L",
+     90,
+     "[Page 442]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 005 - Congressional Procedures with Respect to Presidential Actions/§ 02191 - Bills implementing trade agreements on nontariff barriers and resolutions approving commercial agreements with Communist countries.md",
    "printed_pages": [
     439,
-    441
+    442
    ]
   },
   {
@@ -10100,34 +10144,24 @@
    "marks": [
     [
      "I",
-     10,
+     46,
      [
       [
-       97,
-       "[Page 442]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     54,
-     [
-      [
-       594,
+       136,
        "[Page 443]"
       ]
      ]
     ],
     [
      "L",
-     124,
+     104,
      "[Page 444]",
      true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 005 - Congressional Procedures with Respect to Presidential Actions/§ 02192 - Resolutions disapproving certain actions.md",
    "printed_pages": [
-    441,
+    442,
     444
    ]
   },
@@ -10135,14 +10169,10 @@
    "id": "19_2193",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       231,
-       "[Page 445]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 445]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 005 - Congressional Procedures with Respect to Presidential Actions/§ 02193 - Resolutions relating to extension of waiver authority under section 402 of the Trade Act of 1974.md",
@@ -10174,7 +10204,7 @@
    "marks": [
     [
      "L",
-     22,
+     10,
      "[Page 446]",
      true
     ]
@@ -10187,11 +10217,22 @@
   },
   {
    "id": "19_2212",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       110,
+       "[Page 447]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 006 - Congressional Liaison and Reports/§ 02212 - Transmission of agreements to Congress.md",
    "printed_pages": [
     446,
-    446
+    447
    ]
   },
   {
@@ -10199,24 +10240,14 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 447]",
+     80,
+     "[Page 448]",
      true
-    ],
-    [
-     "I",
-     86,
-     [
-      [
-       128,
-       "[Page 448]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 006 - Congressional Liaison and Reports/§ 02213 - Reports.md",
    "printed_pages": [
-    446,
+    447,
     448
    ]
   },
@@ -10260,14 +10291,18 @@
    "id": "19_2241",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 449]",
-     true
+     "I",
+     22,
+     [
+      [
+       96,
+       "[Page 449]"
+      ]
+     ]
     ],
     [
      "L",
-     114,
+     98,
      "[Page 450]",
      true
     ]
@@ -10283,19 +10318,23 @@
    "marks": [
     [
      "I",
-     78,
+     70,
      [
       [
-       136,
+       139,
        "[Page 451]"
       ]
      ]
     ],
     [
-     "L",
-     152,
-     "[Page 452]",
-     true
+     "I",
+     142,
+     [
+      [
+       102,
+       "[Page 452]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 001 (I) - Negotiating and Other Authority/Part 008 - Identification of Market Barriers and Certain Unfair Trade Actions/§ 02242 - Identification of countries that deny adequate protection, or market access, for intellectual property rights.md",
@@ -10327,7 +10366,7 @@
    "marks": [
     [
      "L",
-     56,
+     46,
      "[Page 453]",
      true
     ]
@@ -10343,41 +10382,49 @@
    "marks": [
     [
      "L",
-     50,
+     44,
      "[Page 454]",
      true
     ],
     [
-     "L",
-     104,
-     "[Page 455]",
-     true
+     "I",
+     96,
+     [
+      [
+       274,
+       "[Page 455]"
+      ]
+     ]
     ],
     [
      "I",
-     150,
+     146,
      [
       [
-       555,
+       280,
        "[Page 456]"
       ]
      ]
     ],
     [
      "L",
-     232,
+     220,
      "[Page 457]",
      true
     ],
     [
-     "L",
-     288,
-     "[Page 458]",
-     true
+     "I",
+     280,
+     [
+      [
+       179,
+       "[Page 458]"
+      ]
+     ]
     ],
     [
      "L",
-     370,
+     354,
      "[Page 459]",
      true
     ]
@@ -10393,33 +10440,33 @@
    "marks": [
     [
      "I",
-     64,
+     54,
      [
       [
-       176,
+       136,
        "[Page 460]"
       ]
      ]
     ],
     [
      "I",
-     112,
+     106,
      [
       [
-       98,
+       197,
        "[Page 461]"
       ]
      ]
     ],
     [
      "L",
-     176,
+     162,
      "[Page 462]",
      true
     ],
     [
      "L",
-     246,
+     230,
      "[Page 463]",
      true
     ]
@@ -10434,14 +10481,10 @@
    "id": "19_2254",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       135,
-       "[Page 464]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 464]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 001 - Positive Adjustment by Industries Injured by Imports/§ 02254 - Monitoring, modification, and termination of action.md",
@@ -10455,10 +10498,10 @@
    "marks": [
     [
      "I",
-     28,
+     12,
      [
       [
-       214,
+       106,
        "[Page 465]"
       ]
      ]
@@ -10492,14 +10535,10 @@
    "id": "19_2272",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       155,
-       "[Page 466]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 466]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart a - Petitions and Determinations/§ 02272 - Group eligibility requirements; agricultural workers; oil and natural gas industry.md",
@@ -10510,36 +10549,47 @@
   },
   {
    "id": "19_2273",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       102,
+       "[Page 467]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart a - Petitions and Determinations/§ 02273 - Determinations by Secretary of Labor.md",
    "printed_pages": [
     466,
-    466
+    467
    ]
   },
   {
    "id": "19_2274",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 467]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart a - Petitions and Determinations/§ 02274 - Study by Secretary of Labor when International Trade Commission begins investigation.md",
    "printed_pages": [
-    466,
+    467,
     467
    ]
   },
   {
    "id": "19_2275",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 468]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart a - Petitions and Determinations/§ 02275 - Benefit information for workers.md",
    "printed_pages": [
     467,
-    467
+    468
    ]
   },
   {
@@ -10547,43 +10597,33 @@
    "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart b - Program Benefits/README.md",
    "printed_pages": [
-    467,
-    467
+    468,
+    468
    ]
   },
   {
    "id": "19_2291",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       183,
-       "[Page 468]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     70,
-     [
-      [
-       141,
-       "[Page 469]"
-      ]
-     ]
-    ],
-    [
      "L",
-     140,
-     "[Page 470]",
+     62,
+     "[Page 469]",
      true
+    ],
+    [
+     "I",
+     130,
+     [
+      [
+       100,
+       "[Page 470]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart b - Program Benefits/§ 02291 - Qualifying requirements for workers.md",
    "printed_pages": [
-    467,
+    468,
     470
    ]
   },
@@ -10592,10 +10632,10 @@
    "marks": [
     [
      "I",
-     16,
+     12,
      [
       [
-       93,
+       92,
        "[Page 471]"
       ]
      ]
@@ -10612,19 +10652,15 @@
    "marks": [
     [
      "L",
-     20,
+     12,
      "[Page 472]",
      true
     ],
     [
-     "I",
-     86,
-     [
-      [
-       268,
-       "[Page 473]"
-      ]
-     ]
+     "L",
+     78,
+     "[Page 473]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart b - Program Benefits/§ 02293 - Limitations on trade readjustment allowances.md",
@@ -10644,11 +10680,18 @@
   },
   {
    "id": "19_2295",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 474]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart b - Program Benefits/§ 02295 - Employment services.md",
    "printed_pages": [
     473,
-    473
+    474
    ]
   },
   {
@@ -10656,34 +10699,24 @@
    "marks": [
     [
      "I",
-     12,
+     70,
      [
       [
-       94,
-       "[Page 474]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       92,
+       138,
        "[Page 475]"
       ]
      ]
     ],
     [
      "L",
-     136,
+     124,
      "[Page 476]",
      true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart b - Program Benefits/§ 02296 - Training.md",
    "printed_pages": [
-    473,
+    474,
     476
    ]
   },
@@ -10691,10 +10724,14 @@
    "id": "19_2297",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 477]",
-     true
+     "I",
+     30,
+     [
+      [
+       91,
+       "[Page 477]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart b - Program Benefits/§ 02297 - Job search allowances.md",
@@ -10725,17 +10762,21 @@
    "id": "19_2311",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 478]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 478]"
+      ]
+     ]
     ],
     [
      "I",
-     84,
+     76,
      [
       [
-       106,
+       104,
        "[Page 479]"
       ]
      ]
@@ -10778,14 +10819,10 @@
    "id": "19_2315",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       587,
-       "[Page 480]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 480]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart c - General Provisions/§ 02315 - Fraud and recovery of overpayments.md",
@@ -10808,7 +10845,7 @@
    "marks": [
     [
      "L",
-     38,
+     28,
      "[Page 481]",
      true
     ]
@@ -10824,7 +10861,7 @@
    "marks": [
     [
      "L",
-     78,
+     66,
      "[Page 482]",
      true
     ]
@@ -10839,10 +10876,14 @@
    "id": "19_2319",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 483]",
-     true
+     "I",
+     50,
+     [
+      [
+       185,
+       "[Page 483]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 002 - Adjustment Assistance for Workers/Subpart c - General Provisions/§ 02319 - Definitions.md",
@@ -10892,17 +10933,17 @@
    "marks": [
     [
      "I",
-     24,
+     14,
      [
       [
-       97,
+       102,
        "[Page 484]"
       ]
      ]
     ],
     [
      "L",
-     98,
+     86,
      "[Page 485]",
      true
     ]
@@ -10927,7 +10968,7 @@
    "marks": [
     [
      "L",
-     54,
+     46,
      "[Page 486]",
      true
     ]
@@ -10952,7 +10993,7 @@
    "marks": [
     [
      "L",
-     26,
+     18,
      "[Page 487]",
      true
     ]
@@ -10976,21 +11017,17 @@
    "id": "19_2345",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       94,
-       "[Page 488]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 488]",
+     true
     ],
     [
      "I",
-     90,
+     86,
      [
       [
-       282,
+       192,
        "[Page 489]"
       ]
      ]
@@ -11007,10 +11044,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       86,
+       89,
        "[Page 490]"
       ]
      ]
@@ -11027,10 +11064,10 @@
    "marks": [
     [
      "I",
-     30,
+     26,
      [
       [
-       192,
+       140,
        "[Page 491]"
       ]
      ]
@@ -11064,10 +11101,14 @@
    "id": "19_2350",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 492]",
-     true
+     "I",
+     2,
+     [
+      [
+       187,
+       "[Page 492]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 003 - Adjustment Assistance for Firms/§ 02350 - Civil actions.md",
@@ -11116,10 +11157,14 @@
    "id": "19_2355",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 493]",
-     true
+     "I",
+     4,
+     [
+      [
+       134,
+       "[Page 493]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 003 - Adjustment Assistance for Firms/§ 02355 - Assistance to industry; authorization of appropriations.md",
@@ -11139,30 +11184,26 @@
   },
   {
    "id": "19_2371",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 494]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 004 - Adjustment Assistance for Communities/§ 02371 - Petitions and determinations.md",
    "printed_pages": [
     493,
-    493
+    494
    ]
   },
   {
    "id": "19_2372",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       328,
-       "[Page 494]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 004 - Adjustment Assistance for Communities/§ 02372 - Trade Impacted Area Councils for Adjustment Assistance.md",
    "printed_pages": [
-    493,
+    494,
     494
    ]
   },
@@ -11171,7 +11212,7 @@
    "marks": [
     [
      "I",
-     48,
+     44,
      [
       [
        90,
@@ -11180,10 +11221,14 @@
      ]
     ],
     [
-     "L",
-     94,
-     "[Page 496]",
-     true
+     "I",
+     86,
+     [
+      [
+       91,
+       "[Page 496]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 004 - Adjustment Assistance for Communities/§ 02373 - Program benefits.md",
@@ -11223,10 +11268,14 @@
    "id": "19_2392",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 497]",
-     true
+     "I",
+     2,
+     [
+      [
+       452,
+       "[Page 497]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 005 - Miscellaneous Provisions/§ 02392 - Adjustment Assistance Coordinating Committee.md",
@@ -11258,10 +11307,10 @@
    "marks": [
     [
      "I",
-     36,
+     28,
      [
       [
-       109,
+       102,
        "[Page 498]"
       ]
      ]
@@ -11286,14 +11335,10 @@
    "id": "19_2397",
    "marks": [
     [
-     "I",
-     76,
-     [
-      [
-       106,
-       "[Page 499]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 499]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 002 (II) - Relief from Injury Caused by Import Competition/Part 005 - Miscellaneous Provisions/§ 02397 - Omitted.md",
@@ -11315,40 +11360,38 @@
    "id": "19_2411",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       371,
-       "[Page 500]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 500]",
+     true
     ],
     [
      "I",
-     120,
+     116,
      [
       [
-       227,
+       98,
        "[Page 501]"
       ]
      ]
     ],
     [
-     "I",
-     180,
-     [
-      [
-       102,
-       "[Page 502]"
-      ]
-     ]
+     "L",
+     178,
+     "[Page 502]",
+     true
+    ],
+    [
+     "L",
+     236,
+     "[Page 503]",
+     true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02411 - Actions by United States Trade Representative.md",
    "printed_pages": [
     499,
-    502
+    503
    ]
   },
   {
@@ -11356,30 +11399,23 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 503]",
+     58,
+     "[Page 504]",
      true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02412 - Initiation of investigations.md",
    "printed_pages": [
-    502,
-    503
+    503,
+    504
    ]
   },
   {
    "id": "19_2413",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 504]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02413 - Consultation upon initiation of investigation.md",
    "printed_pages": [
-    503,
+    504,
     504
    ]
   },
@@ -11387,10 +11423,14 @@
    "id": "19_2414",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 505]",
-     true
+     "I",
+     26,
+     [
+      [
+       138,
+       "[Page 505]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02414 - Determinations by Trade Representative.md",
@@ -11404,10 +11444,10 @@
    "marks": [
     [
      "I",
-     14,
+     6,
      [
       [
-       93,
+       90,
        "[Page 506]"
       ]
      ]
@@ -11424,10 +11464,10 @@
    "marks": [
     [
      "I",
-     20,
+     14,
      [
       [
-       95,
+       225,
        "[Page 507]"
       ]
      ]
@@ -11444,7 +11484,7 @@
    "marks": [
     [
      "L",
-     50,
+     40,
      "[Page 508]",
      true
     ]
@@ -11466,32 +11506,37 @@
   },
   {
    "id": "19_2419",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 509]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02419 - Administration.md",
    "printed_pages": [
     508,
-    508
+    509
    ]
   },
   {
    "id": "19_2420",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 509]",
-     true
-    ],
-    [
-     "L",
-     70,
-     "[Page 510]",
-     true
+     "I",
+     64,
+     [
+      [
+       481,
+       "[Page 510]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02420 - Identification of trade expansion priorities.md",
    "printed_pages": [
-    508,
+    509,
     510
    ]
   },
@@ -11509,23 +11554,23 @@
    "marks": [
     [
      "L",
-     30,
+     22,
      "[Page 511]",
      true
     ],
     [
      "I",
-     76,
+     68,
      [
       [
-       115,
+       1693,
        "[Page 512]"
       ]
      ]
     ],
     [
      "L",
-     188,
+     166,
      "[Page 513]",
      true
     ]
@@ -11549,64 +11594,80 @@
    "id": "19_2434",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 514]",
-     true
-    ],
-    [
-     "L",
-     138,
-     "[Page 515]",
-     true
+     "I",
+     18,
+     [
+      [
+       112,
+       "[Page 514]"
+      ]
+     ]
     ],
     [
      "I",
-     196,
+     126,
      [
       [
-       716,
-       "[Page 516]"
+       208,
+       "[Page 515]"
       ]
      ]
     ],
     [
      "L",
-     286,
+     188,
+     "[Page 516]",
+     true
+    ],
+    [
+     "L",
+     260,
      "[Page 517]",
      true
     ],
     [
-     "L",
-     360,
-     "[Page 518]",
-     true
-    ],
-    [
-     "L",
-     424,
-     "[Page 519]",
-     true
+     "I",
+     336,
+     [
+      [
+       317,
+       "[Page 518]"
+      ]
+     ]
     ],
     [
      "I",
-     486,
+     408,
      [
       [
-       98,
+       109,
+       "[Page 519]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     472,
+     [
+      [
+       214,
        "[Page 520]"
       ]
      ]
     ],
     [
-     "L",
-     556,
-     "[Page 521]",
-     true
+     "I",
+     540,
+     [
+      [
+       109,
+       "[Page 521]"
+      ]
+     ]
     ],
     [
      "L",
-     618,
+     606,
      "[Page 522]",
      true
     ]
@@ -11622,10 +11683,10 @@
    "marks": [
     [
      "I",
-     48,
+     30,
      [
       [
-       108,
+       95,
        "[Page 523]"
       ]
      ]
@@ -11641,16 +11702,30 @@
    "id": "19_2436",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 524]",
-     true
+     "I",
+     28,
+     [
+      [
+       188,
+       "[Page 524]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       221,
+       "[Page 525]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02436 - Market disruption.md",
    "printed_pages": [
     523,
-    524
+    525
    ]
   },
   {
@@ -11658,15 +11733,15 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 525]",
+     40,
+     "[Page 526]",
      true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02437 - Procedure for Congressional approval or disapproval of extension of nondiscriminatory treatment and Presidential reports.md",
    "printed_pages": [
-    524,
-    525
+    525,
+    526
    ]
   },
   {
@@ -11674,56 +11749,45 @@
    "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02438 - Payment by Czechoslovakia of amounts owed United States citizens and nationals.md",
    "printed_pages": [
-    525,
-    525
+    526,
+    526
    ]
   },
   {
    "id": "19_2439",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       367,
-       "[Page 526]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02439 - Freedom to emigrate to join a very close relative in United States.md",
    "printed_pages": [
-    525,
+    526,
     526
    ]
   },
   {
    "id": "19_2440",
-   "marks": [],
-   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02440 - East-West Trade Statistics Monitoring System.md",
-   "printed_pages": [
-    526,
-    526
-   ]
-  },
-  {
-   "id": "19_2441",
    "marks": [
     [
      "I",
-     10,
+     8,
      [
       [
-       91,
+       108,
        "[Page 527]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02441 - East-West Foreign Trade Board.md",
+   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02440 - East-West Trade Statistics Monitoring System.md",
    "printed_pages": [
     526,
+    527
+   ]
+  },
+  {
+   "id": "19_2441",
+   "marks": [],
+   "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices/§ 02441 - East-West Foreign Trade Board.md",
+   "printed_pages": [
+    527,
     527
    ]
   },
@@ -11740,10 +11804,14 @@
    "id": "19_2461",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 528]",
-     true
+     "I",
+     28,
+     [
+      [
+       105,
+       "[Page 528]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 005 (V) - Generalized System of Preferences/§ 02461 - Authority to extend preferences.md",
@@ -11756,22 +11824,34 @@
    "id": "19_2462",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 529]",
-     true
+     "I",
+     56,
+     [
+      [
+       143,
+       "[Page 529]"
+      ]
+     ]
     ],
     [
-     "L",
-     120,
-     "[Page 530]",
-     true
+     "I",
+     110,
+     [
+      [
+       521,
+       "[Page 530]"
+      ]
+     ]
     ],
     [
-     "L",
-     206,
-     "[Page 531]",
-     true
+     "I",
+     188,
+     [
+      [
+       165,
+       "[Page 531]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 005 (V) - Generalized System of Preferences/§ 02462 - Beneficiary developing countries.md",
@@ -11784,10 +11864,14 @@
    "id": "19_2463",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 532]",
-     true
+     "I",
+     44,
+     [
+      [
+       158,
+       "[Page 532]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 005 (V) - Generalized System of Preferences/§ 02463 - Eligible articles.md",
@@ -11800,26 +11884,26 @@
    "id": "19_2464",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       139,
-       "[Page 533]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 533]",
+     true
     ],
     [
      "L",
-     86,
+     72,
      "[Page 534]",
      true
     ],
     [
-     "L",
-     156,
-     "[Page 535]",
-     true
+     "I",
+     140,
+     [
+      [
+       388,
+       "[Page 535]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 005 (V) - Generalized System of Preferences/§ 02464 - Limitations on preferential treatment.md",
@@ -11830,11 +11914,18 @@
   },
   {
    "id": "19_2465",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     68,
+     "[Page 536]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 005 (V) - Generalized System of Preferences/§ 02465 - Termination of duty-free treatment and reports.md",
    "printed_pages": [
     535,
-    535
+    536
    ]
   },
   {
@@ -11842,8 +11933,8 @@
    "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 005 (V) - Generalized System of Preferences/§ 02466 - Agricultural exports of beneficiary developing countries.md",
    "printed_pages": [
-    535,
-    535
+    536,
+    536
    ]
   },
   {
@@ -11851,8 +11942,8 @@
    "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 006 (VI) - General Provisions/README.md",
    "printed_pages": [
-    535,
-    535
+    536,
+    536
    ]
   },
   {
@@ -11860,30 +11951,23 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 536]",
+     46,
+     "[Page 537]",
      true
     ]
    ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 006 (VI) - General Provisions/§ 02481 - Definitions.md",
    "printed_pages": [
-    535,
-    536
+    536,
+    537
    ]
   },
   {
    "id": "19_2482",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 537]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 006 (VI) - General Provisions/§ 02482 - Exercise of functions of International Trade Commission.md",
    "printed_pages": [
-    536,
+    537,
     537
    ]
   },
@@ -11916,26 +12000,30 @@
   },
   {
    "id": "19_2486",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       419,
+       "[Page 538]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 006 (VI) - General Provisions/§ 02486 - Trade relations with North American countries.md",
    "printed_pages": [
     537,
-    537
+    538
    ]
   },
   {
    "id": "19_2487",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 538]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 006 (VI) - General Provisions/§ 02487 - Repealed. Pub. L. 102–145, §121, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95.md",
    "printed_pages": [
-    537,
+    538,
     538
    ]
   },
@@ -11962,26 +12050,22 @@
    "marks": [
     [
      "L",
-     58,
+     40,
      "[Page 539]",
      true
     ],
     [
-     "I",
-     100,
-     [
-      [
-       135,
-       "[Page 540]"
-      ]
-     ]
+     "L",
+     86,
+     "[Page 540]",
+     true
     ],
     [
      "I",
-     156,
+     140,
      [
       [
-       106,
+       221,
        "[Page 541]"
       ]
      ]
@@ -12013,11 +12097,18 @@
   },
   {
    "id": "19_2495",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 542]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals/Subchapter 007 (VII) - Tariff Treatment of Products of, and Other Sanctions Against, Uncooperative Major Drug Producing or Drug-Transit Countries/§ 02495 - Definitions.md",
    "printed_pages": [
     541,
-    541
+    542
    ]
   },
   {
@@ -12025,20 +12116,10 @@
    "marks": [
     [
      "I",
-     12,
+     115,
      [
       [
-       33,
-       "[Page 542]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     178,
-     [
-      [
-       94,
+       58,
        "[Page 543]"
       ]
      ]
@@ -12046,7 +12127,7 @@
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/README.md",
    "printed_pages": [
-    541,
+    542,
     543
    ]
   },
@@ -12073,26 +12154,26 @@
    "marks": [
     [
      "I",
-     26,
+     10,
      [
       [
-       100,
+       491,
        "[Page 544]"
       ]
      ]
     ],
     [
      "L",
-     116,
+     92,
      "[Page 545]",
      true
     ],
     [
      "I",
-     188,
+     170,
      [
       [
-       107,
+       222,
        "[Page 546]"
       ]
      ]
@@ -12108,14 +12189,10 @@
    "id": "19_2504",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       172,
-       "[Page 547]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 547]",
+     true
     ]
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/§ 02504 - Relationship of trade agreements to United States law.md",
@@ -12138,19 +12215,23 @@
    "marks": [
     [
      "L",
-     44,
+     26,
      "[Page 548]",
      true
     ],
     [
-     "L",
-     166,
-     "[Page 549]",
-     true
+     "I",
+     104,
+     [
+      [
+       105,
+       "[Page 549]"
+      ]
+     ]
     ],
     [
      "L",
-     334,
+     262,
      "[Page 550]",
      true
     ]
@@ -12166,17 +12247,17 @@
    "marks": [
     [
      "I",
-     48,
+     38,
      [
       [
-       507,
+       141,
        "[Page 551]"
       ]
      ]
     ],
     [
      "L",
-     114,
+     94,
      "[Page 552]",
      true
     ]
@@ -12200,10 +12281,14 @@
    "id": "19_2514",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 553]",
-     true
+     "I",
+     18,
+     [
+      [
+       353,
+       "[Page 553]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 001 (I) - Government Procurement/§ 02514 - Expansion of the coverage of the Agreement.md",
@@ -12216,38 +12301,56 @@
    "id": "19_2515",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 554]",
-     true
-    ],
-    [
-     "L",
-     96,
-     "[Page 555]",
-     true
-    ],
-    [
-     "L",
-     174,
-     "[Page 556]",
-     true
+     "I",
+     20,
+     [
+      [
+       709,
+       "[Page 554]"
+      ]
+     ]
     ],
     [
      "I",
-     242,
+     86,
      [
       [
-       101,
+       139,
+       "[Page 555]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     156,
+     [
+      [
+       277,
+       "[Page 556]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     226,
+     [
+      [
+       99,
        "[Page 557]"
       ]
      ]
+    ],
+    [
+     "L",
+     298,
+     "[Page 558]",
+     true
     ]
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 001 (I) - Government Procurement/§ 02515 - Monitoring and enforcement.md",
    "printed_pages": [
     553,
-    557
+    558
    ]
   },
   {
@@ -12255,27 +12358,16 @@
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 001 (I) - Government Procurement/§ 02516 - Repealed. Pub. L. 103–355, title VII, §7206(c), Oct. 13, 1994, 108 Stat. 3382; Pub. L. 103–465, title III, §342(d), Dec. 8, 1994….md",
    "printed_pages": [
-    557,
-    557
+    558,
+    558
    ]
   },
   {
    "id": "19_2517",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       152,
-       "[Page 558]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 001 (I) - Government Procurement/§ 02517 - Availability of information to Members of Congress designated as official advisers.md",
    "printed_pages": [
-    557,
+    558,
     558
    ]
   },
@@ -12284,10 +12376,10 @@
    "marks": [
     [
      "I",
-     64,
+     50,
      [
       [
-       158,
+       96,
        "[Page 559]"
       ]
      ]
@@ -12319,31 +12411,38 @@
   },
   {
    "id": "19_2531",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       711,
+       "[Page 560]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part A - Obligations of the United States/§ 02531 - Certain standards-related activities.md",
    "printed_pages": [
     559,
-    559
+    560
    ]
   },
   {
    "id": "19_2532",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       87,
-       "[Page 560]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 561]",
+     true
     ]
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part A - Obligations of the United States/§ 02532 - Federal standards-related activities.md",
    "printed_pages": [
-    559,
-    560
+    560,
+    561
    ]
   },
   {
@@ -12351,8 +12450,8 @@
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part A - Obligations of the United States/§ 02533 - State and private standards-related activities.md",
    "printed_pages": [
-    560,
-    560
+    561,
+    561
    ]
   },
   {
@@ -12360,27 +12459,16 @@
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part B - Functions of Federal Agencies/README.md",
    "printed_pages": [
-    560,
-    560
+    561,
+    561
    ]
   },
   {
    "id": "19_2541",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       92,
-       "[Page 561]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part B - Functions of Federal Agencies/§ 02541 - Functions of Trade Representative.md",
    "printed_pages": [
-    560,
+    561,
     561
    ]
   },
@@ -12398,10 +12486,10 @@
    "marks": [
     [
      "I",
-     36,
+     28,
      [
       [
-       230,
+       94,
        "[Page 562]"
       ]
      ]
@@ -12418,10 +12506,10 @@
    "marks": [
     [
      "I",
-     32,
+     18,
      [
       [
-       96,
+       230,
        "[Page 563]"
       ]
      ]
@@ -12444,26 +12532,30 @@
   },
   {
    "id": "19_2546",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 564]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part B - Functions of Federal Agencies/§ 02546 - Technical assistance.md",
    "printed_pages": [
     563,
-    563
+    564
    ]
   },
   {
    "id": "19_2547",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 564]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part B - Functions of Federal Agencies/§ 02547 - Consultations with representatives of domestic interests.md",
    "printed_pages": [
-    563,
+    564,
     564
    ]
   },
@@ -12486,7 +12578,7 @@
    ]
   },
   {
-   "id": "19_2551__",
+   "id": "19_2551",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 001 - Representations Alleging United States Violations of Obligations/§ 02551 - Right of action.md",
    "printed_pages": [
@@ -12495,7 +12587,7 @@
    ]
   },
   {
-   "id": "19_2552__",
+   "id": "19_2552",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 001 - Representations Alleging United States Violations of Obligations/§ 02552 - Representations.md",
    "printed_pages": [
@@ -12504,7 +12596,7 @@
    ]
   },
   {
-   "id": "19_2553__",
+   "id": "19_2553",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 001 - Representations Alleging United States Violations of Obligations/§ 02553 - Action after receipt of representations.md",
    "printed_pages": [
@@ -12513,12 +12605,23 @@
    ]
   },
   {
-   "id": "19_2554__",
-   "marks": [],
+   "id": "19_2554",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       163,
+       "[Page 565]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 001 - Representations Alleging United States Violations of Obligations/§ 02554 - Procedure after finding by international forum.md",
    "printed_pages": [
     564,
-    564
+    565
    ]
   },
   {
@@ -12526,28 +12629,21 @@
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 002 - Other Proceedings Regarding Certain Standards-Related Activities/README.md",
    "printed_pages": [
-    564,
-    564
-   ]
-  },
-  {
-   "id": "19_2561__",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 565]",
-     true
-    ]
-   ],
-   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 002 - Other Proceedings Regarding Certain Standards-Related Activities/§ 02561 - Findings of reciprocity required in administrative proceedings.md",
-   "printed_pages": [
-    564,
+    565,
     565
    ]
   },
   {
-   "id": "19_2562__",
+   "id": "19_2561",
+   "marks": [],
+   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 002 - Other Proceedings Regarding Certain Standards-Related Activities/§ 02561 - Findings of reciprocity required in administrative proceedings.md",
+   "printed_pages": [
+    565,
+    565
+   ]
+  },
+  {
+   "id": "19_2562",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part C - Administrative and Judicial Proceedings Regarding Standards-Related Activities/Subpart 002 - Other Proceedings Regarding Certain Standards-Related Activities/§ 02562 - Consideration of standards-related activities by an international forum.md",
    "printed_pages": [
@@ -12565,17 +12661,13 @@
    ]
   },
   {
-   "id": "19_2571__",
+   "id": "19_2571",
    "marks": [
     [
-     "I",
-     84,
-     [
-      [
-       91,
-       "[Page 566]"
-      ]
-     ]
+     "L",
+     66,
+     "[Page 566]",
+     true
     ]
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part D - Definitions and Miscellaneous Provisions/§ 02571 - Definitions.md",
@@ -12585,27 +12677,27 @@
    ]
   },
   {
-   "id": "19_2572__",
-   "marks": [],
-   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part D - Definitions and Miscellaneous Provisions/§ 02572 - Exemptions.md",
-   "printed_pages": [
-    566,
-    566
-   ]
-  },
-  {
-   "id": "19_2573__",
+   "id": "19_2572",
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 567]",
      true
     ]
    ],
-   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part D - Definitions and Miscellaneous Provisions/§ 02573 - Reports to Congress on operation of agreement.md",
+   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part D - Definitions and Miscellaneous Provisions/§ 02572 - Exemptions.md",
    "printed_pages": [
     566,
+    567
+   ]
+  },
+  {
+   "id": "19_2573",
+   "marks": [],
+   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part D - Definitions and Miscellaneous Provisions/§ 02573 - Reports to Congress on operation of agreement.md",
+   "printed_pages": [
+    567,
     567
    ]
   },
@@ -12628,7 +12720,7 @@
    ]
   },
   {
-   "id": "19_2575__",
+   "id": "19_2575",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part E - Standards and Measures under the North American Free Trade Agreement/Subpart 001 - Sanitary and Phytosanitary Measures/§ 02575 - General.md",
    "printed_pages": [
@@ -12637,7 +12729,7 @@
    ]
   },
   {
-   "id": "19_2575a__",
+   "id": "19_2575a",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part E - Standards and Measures under the North American Free Trade Agreement/Subpart 001 - Sanitary and Phytosanitary Measures/§ 02575a - Inquiry point.md",
    "printed_pages": [
@@ -12646,11 +12738,11 @@
    ]
   },
   {
-   "id": "19_2575b__",
+   "id": "19_2575b",
    "marks": [
     [
      "L",
-     60,
+     38,
      "[Page 568]",
      true
     ]
@@ -12671,7 +12763,7 @@
    ]
   },
   {
-   "id": "19_2576__",
+   "id": "19_2576",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part E - Standards and Measures under the North American Free Trade Agreement/Subpart 002 - Standards-Related Measures/§ 02576 - General.md",
    "printed_pages": [
@@ -12680,7 +12772,7 @@
    ]
   },
   {
-   "id": "19_2576a__",
+   "id": "19_2576a",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part E - Standards and Measures under the North American Free Trade Agreement/Subpart 002 - Standards-Related Measures/§ 02576a - Inquiry point.md",
    "printed_pages": [
@@ -12689,11 +12781,11 @@
    ]
   },
   {
-   "id": "19_2576b__",
+   "id": "19_2576b",
    "marks": [
     [
      "L",
-     52,
+     28,
      "[Page 569]",
      true
     ]
@@ -12714,7 +12806,7 @@
    ]
   },
   {
-   "id": "19_2577__",
+   "id": "19_2577",
    "marks": [],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part E - Standards and Measures under the North American Free Trade Agreement/Subpart 003 - Part Definitions/§ 02577 - Definitions.md",
    "printed_pages": [
@@ -12733,30 +12825,30 @@
   },
   {
    "id": "19_2578",
-   "marks": [],
-   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part F - International Standard-Setting Activities/§ 02578 - Notice of United States participation in international standard-setting activities.md",
-   "printed_pages": [
-    569,
-    569
-   ]
-  },
-  {
-   "id": "19_2578a",
    "marks": [
     [
      "I",
-     8,
+     38,
      [
       [
-       368,
+       160,
        "[Page 570]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part F - International Standard-Setting Activities/§ 02578a - Equivalence determinations.md",
+   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part F - International Standard-Setting Activities/§ 02578 - Notice of United States participation in international standard-setting activities.md",
    "printed_pages": [
     569,
+    570
+   ]
+  },
+  {
+   "id": "19_2578a",
+   "marks": [],
+   "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 002 (II) - Technical Barriers to Trade (Standards)/Part F - International Standard-Setting Activities/§ 02578a - Equivalence determinations.md",
+   "printed_pages": [
+    570,
     570
    ]
   },
@@ -12782,10 +12874,14 @@
    "id": "19_2581",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 571]",
-     true
+     "I",
+     4,
+     [
+      [
+       92,
+       "[Page 571]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Trade Agreements Act of 1979/Subchapter 003 (III) - Miscellaneous Provisions/§ 02581 - Auction of import licenses.md",
@@ -12817,15 +12913,21 @@
    "marks": [
     [
      "L",
-     26,
+     4,
      "[Page 572]",
+     true
+    ],
+    [
+     "L",
+     96,
+     "[Page 573]",
      true
     ]
    ],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02601 - Definitions.md",
    "printed_pages": [
     571,
-    572
+    573
    ]
   },
   {
@@ -12833,26 +12935,24 @@
    "marks": [
     [
      "L",
-     18,
-     "[Page 573]",
-     true
-    ],
-    [
-     "L",
-     84,
+     66,
      "[Page 574]",
      true
     ],
     [
-     "L",
-     168,
-     "[Page 575]",
-     true
+     "I",
+     148,
+     [
+      [
+       109,
+       "[Page 575]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02602 - Agreements to implement Article 9 of the convention.md",
    "printed_pages": [
-    572,
+    573,
     575
    ]
   },
@@ -12867,77 +12967,89 @@
   },
   {
    "id": "19_2604",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 576]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02604 - Designation of materials covered by agreements or emergency actions.md",
    "printed_pages": [
     575,
-    575
+    576
    ]
   },
   {
    "id": "19_2605",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 576]",
-     true
+     "I",
+     58,
+     [
+      [
+       85,
+       "[Page 577]"
+      ]
+     ]
     ],
     [
      "I",
-     72,
+     124,
      [
       [
-       179,
-       "[Page 577]"
+       106,
+       "[Page 578]"
       ]
      ]
     ]
    ],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02605 - Cultural Property Advisory Committee.md",
    "printed_pages": [
-    575,
-    577
+    576,
+    578
    ]
   },
   {
    "id": "19_2606",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 578]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02606 - Import restrictions.md",
    "printed_pages": [
-    577,
+    578,
     578
    ]
   },
   {
    "id": "19_2607",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       235,
+       "[Page 579]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02607 - Stolen cultural property.md",
    "printed_pages": [
     578,
-    578
+    579
    ]
   },
   {
    "id": "19_2608",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 579]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Convention on Cultural Property/§ 02608 - Temporary disposition of materials and articles subject to this chapter.md",
    "printed_pages": [
-    578,
+    579,
     579
    ]
   },
@@ -12952,26 +13064,26 @@
   },
   {
    "id": "19_2610",
-   "marks": [],
-   "path": "Chapter 014 - Convention on Cultural Property/§ 02610 - Evidentiary requirements.md",
-   "printed_pages": [
-    579,
-    579
-   ]
-  },
-  {
-   "id": "19_2611",
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 580]",
      true
     ]
    ],
-   "path": "Chapter 014 - Convention on Cultural Property/§ 02611 - Certain material and articles exempt from this chapter.md",
+   "path": "Chapter 014 - Convention on Cultural Property/§ 02610 - Evidentiary requirements.md",
    "printed_pages": [
     579,
+    580
+   ]
+  },
+  {
+   "id": "19_2611",
+   "marks": [],
+   "path": "Chapter 014 - Convention on Cultural Property/§ 02611 - Certain material and articles exempt from this chapter.md",
+   "printed_pages": [
+    580,
     580
    ]
   },
@@ -12995,26 +13107,30 @@
   },
   {
    "id": "19_-ch15",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     15,
+     [
+      [
+       108,
+       "[Page 581]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 015 - Caribbean Basin Economic Recovery/README.md",
    "printed_pages": [
     580,
-    580
+    581
    ]
   },
   {
    "id": "19_2701",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 581]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Caribbean Basin Economic Recovery/§ 02701 - Authority to grant duty-free treatment.md",
    "printed_pages": [
-    580,
+    581,
     581
    ]
   },
@@ -13022,26 +13138,32 @@
    "id": "19_2702",
    "marks": [
     [
+     "L",
+     78,
+     "[Page 582]",
+     true
+    ],
+    [
      "I",
-     96,
+     136,
      [
       [
-       263,
-       "[Page 582]"
+       88,
+       "[Page 583]"
       ]
      ]
     ],
     [
      "L",
-     162,
-     "[Page 583]",
+     220,
+     "[Page 584]",
      true
     ]
    ],
    "path": "Chapter 015 - Caribbean Basin Economic Recovery/§ 02702 - Beneficiary country.md",
    "printed_pages": [
     581,
-    583
+    584
    ]
   },
   {
@@ -13049,64 +13171,46 @@
    "marks": [
     [
      "I",
-     4,
+     42,
      [
       [
-       97,
-       "[Page 584]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     62,
-     [
-      [
-       233,
+       100,
        "[Page 585]"
       ]
      ]
     ],
     [
      "L",
-     110,
+     102,
      "[Page 586]",
      true
     ],
     [
      "I",
-     172,
+     160,
      [
       [
-       172,
+       88,
        "[Page 587]"
       ]
      ]
     ],
     [
-     "I",
-     260,
-     [
-      [
-       110,
-       "[Page 588]"
-      ]
-     ]
+     "L",
+     234,
+     "[Page 588]",
+     true
     ],
     [
-     "I",
-     370,
-     [
-      [
-       159,
-       "[Page 589]"
-      ]
-     ]
+     "L",
+     346,
+     "[Page 589]",
+     true
     ]
    ],
    "path": "Chapter 015 - Caribbean Basin Economic Recovery/§ 02703 - Eligible articles.md",
    "printed_pages": [
-    583,
+    584,
     589
    ]
   },
@@ -13114,14 +13218,10 @@
    "id": "19_2704",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       91,
-       "[Page 590]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 590]",
+     true
     ]
    ],
    "path": "Chapter 015 - Caribbean Basin Economic Recovery/§ 02704 - International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program.md",
@@ -13153,10 +13253,10 @@
    "marks": [
     [
      "I",
-     30,
+     18,
      [
       [
-       345,
+       90,
        "[Page 591]"
       ]
      ]
@@ -13182,10 +13282,10 @@
    "marks": [
     [
      "I",
-     18,
+     4,
      [
       [
-       94,
+       231,
        "[Page 592]"
       ]
      ]
@@ -13220,10 +13320,10 @@
    "marks": [
     [
      "I",
-     14,
+     8,
      [
       [
-       138,
+       101,
        "[Page 593]"
       ]
      ]
@@ -13237,26 +13337,26 @@
   },
   {
    "id": "19_2805",
-   "marks": [],
-   "path": "Chapter 016 - Wine Trade/§ 02805 - Required consultations.md",
-   "printed_pages": [
-    593,
-    593
-   ]
-  },
-  {
-   "id": "19_2806",
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 594]",
      true
     ]
    ],
-   "path": "Chapter 016 - Wine Trade/§ 02806 - United States wine export promotion.md",
+   "path": "Chapter 016 - Wine Trade/§ 02805 - Required consultations.md",
    "printed_pages": [
     593,
+    594
+   ]
+  },
+  {
+   "id": "19_2806",
+   "marks": [],
+   "path": "Chapter 016 - Wine Trade/§ 02806 - United States wine export promotion.md",
+   "printed_pages": [
+    594,
     594
    ]
   },
@@ -13273,42 +13373,38 @@
    "id": "19_2901",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       91,
-       "[Page 595]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 595]",
+     true
     ],
     [
      "L",
-     124,
+     104,
      "[Page 596]",
      true
     ],
     [
      "L",
-     200,
+     190,
      "[Page 597]",
      true
     ],
     [
-     "L",
-     290,
-     "[Page 598]",
-     true
-    ],
-    [
      "I",
-     340,
+     276,
      [
       [
-       102,
-       "[Page 599]"
+       223,
+       "[Page 598]"
       ]
      ]
+    ],
+    [
+     "L",
+     330,
+     "[Page 599]",
+     true
     ]
    ],
    "path": "Chapter 017 - Negotiation and Implementation of Trade Agreements/§ 02901 - Overall and principal trade negotiating objectives of the United States.md",
@@ -13321,24 +13417,16 @@
    "id": "19_2902",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       95,
-       "[Page 600]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 600]",
+     true
     ],
     [
-     "I",
-     108,
-     [
-      [
-       101,
-       "[Page 601]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 601]",
+     true
     ]
    ],
    "path": "Chapter 017 - Negotiation and Implementation of Trade Agreements/§ 02902 - Trade agreement negotiating authority.md",
@@ -13352,19 +13440,15 @@
    "marks": [
     [
      "L",
-     50,
+     40,
      "[Page 602]",
      true
     ],
     [
-     "I",
-     110,
-     [
-      [
-       954,
-       "[Page 603]"
-      ]
-     ]
+     "L",
+     104,
+     "[Page 603]",
+     true
     ]
    ],
    "path": "Chapter 017 - Negotiation and Implementation of Trade Agreements/§ 02903 - Implementation of trade agreements.md",
@@ -13375,26 +13459,30 @@
   },
   {
    "id": "19_2904",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       95,
+       "[Page 604]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Negotiation and Implementation of Trade Agreements/§ 02904 - Termination and reservation authority; reciprocal nondiscriminatory treatment.md",
    "printed_pages": [
     603,
-    603
+    604
    ]
   },
   {
    "id": "19_2905",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 604]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Negotiation and Implementation of Trade Agreements/§ 02905 - Accession of state trading regimes to General Agreement on Tariffs and Trade for WTO.md",
    "printed_pages": [
-    603,
+    604,
     604
    ]
   },
@@ -13403,7 +13491,7 @@
    "marks": [
     [
      "L",
-     30,
+     4,
      "[Page 605]",
      true
     ]
@@ -13428,10 +13516,10 @@
    "marks": [
     [
      "I",
-     28,
+     14,
      [
       [
-       456,
+       110,
        "[Page 606]"
       ]
      ]
@@ -13466,59 +13554,54 @@
    "marks": [
     [
      "L",
-     34,
+     8,
      "[Page 607]",
+     true
+    ],
+    [
+     "L",
+     84,
+     "[Page 608]",
      true
     ]
    ],
    "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03004 - Enactment of Harmonized Tariff Schedule.md",
    "printed_pages": [
     606,
-    607
+    608
    ]
   },
   {
    "id": "19_3005",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       86,
-       "[Page 608]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03005 - Commission review of, and recommendations regarding, Harmonized Tariff Schedule.md",
    "printed_pages": [
-    607,
+    608,
     608
    ]
   },
   {
    "id": "19_3006",
-   "marks": [],
-   "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03006 - Presidential action on Commission recommendations.md",
-   "printed_pages": [
-    608,
-    608
-   ]
-  },
-  {
-   "id": "19_3007",
    "marks": [
     [
      "L",
-     16,
+     34,
      "[Page 609]",
      true
     ]
    ],
-   "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03007 - Publication of Harmonized Tariff Schedule.md",
+   "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03006 - Presidential action on Commission recommendations.md",
    "printed_pages": [
     608,
+    609
+   ]
+  },
+  {
+   "id": "19_3007",
+   "marks": [],
+   "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03007 - Publication of Harmonized Tariff Schedule.md",
+   "printed_pages": [
+    609,
     609
    ]
   },
@@ -13542,11 +13625,22 @@
   },
   {
    "id": "19_3010",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       93,
+       "[Page 610]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03010 - United States participation on Customs Cooperation Council regarding Convention.md",
    "printed_pages": [
     609,
-    609
+    610
    ]
   },
   {
@@ -13554,20 +13648,10 @@
    "marks": [
     [
      "I",
-     4,
+     58,
      [
       [
-       88,
-       "[Page 610]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     72,
-     [
-      [
-       110,
+       186,
        "[Page 611]"
       ]
      ]
@@ -13575,7 +13659,7 @@
    ],
    "path": "Chapter 018 - Implementation of Harmonized Tariff Schedule/§ 03011 - Transition to Harmonized Tariff Schedule.md",
    "printed_pages": [
-    609,
+    610,
     611
    ]
   },
@@ -13602,10 +13686,10 @@
    "marks": [
     [
      "I",
-     26,
+     20,
      [
       [
-       529,
+       225,
        "[Page 612]"
       ]
      ]
@@ -13628,36 +13712,37 @@
   },
   {
    "id": "19_3103",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       232,
+       "[Page 613]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Telecommunications Trade/§ 03103 - Investigation of foreign telecommunications trade barriers.md",
    "printed_pages": [
     612,
-    612
+    613
    ]
   },
   {
    "id": "19_3104",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       242,
-       "[Page 613]"
-      ]
-     ]
-    ],
-    [
      "L",
-     86,
+     68,
      "[Page 614]",
      true
     ]
    ],
    "path": "Chapter 019 - Telecommunications Trade/§ 03104 - Negotiations in response to investigation.md",
    "printed_pages": [
-    612,
+    613,
     614
    ]
   },
@@ -13666,10 +13751,10 @@
    "marks": [
     [
      "I",
-     68,
+     54,
      [
       [
-       175,
+       91,
        "[Page 615]"
       ]
      ]
@@ -13692,26 +13777,30 @@
   },
   {
    "id": "19_3107",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       92,
+       "[Page 616]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Telecommunications Trade/§ 03107 - Compensation authority.md",
    "printed_pages": [
     615,
-    615
+    616
    ]
   },
   {
    "id": "19_3108",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 616]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Telecommunications Trade/§ 03108 - Consultations.md",
    "printed_pages": [
-    615,
+    616,
     616
    ]
   },
@@ -13726,26 +13815,26 @@
   },
   {
    "id": "19_3110",
-   "marks": [],
-   "path": "Chapter 019 - Telecommunications Trade/§ 03110 - Study on telecommunications competitiveness in United States.md",
-   "printed_pages": [
-    616,
-    616
-   ]
-  },
-  {
-   "id": "19_3111",
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 617]",
      true
     ]
    ],
-   "path": "Chapter 019 - Telecommunications Trade/§ 03111 - International obligations.md",
+   "path": "Chapter 019 - Telecommunications Trade/§ 03110 - Study on telecommunications competitiveness in United States.md",
    "printed_pages": [
     616,
+    617
+   ]
+  },
+  {
+   "id": "19_3111",
+   "marks": [],
+   "path": "Chapter 019 - Telecommunications Trade/§ 03111 - International obligations.md",
+   "printed_pages": [
+    617,
     617
    ]
   },
@@ -13771,20 +13860,20 @@
    "id": "19_3202",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       263,
-       "[Page 618]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 618]",
+     true
     ],
     [
-     "L",
-     116,
-     "[Page 619]",
-     true
+     "I",
+     94,
+     [
+      [
+       92,
+       "[Page 619]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Andean Trade Preference/§ 03202 - Beneficiary country.md",
@@ -13797,45 +13886,40 @@
    "id": "19_3203",
    "marks": [
     [
+     "I",
+     18,
+     [
+      [
+       503,
+       "[Page 620]"
+      ]
+     ]
+    ],
+    [
      "L",
-     32,
-     "[Page 620]",
+     82,
+     "[Page 621]",
      true
     ],
     [
-     "I",
-     90,
-     [
-      [
-       92,
-       "[Page 621]"
-      ]
-     ]
+     "L",
+     142,
+     "[Page 622]",
+     true
     ]
    ],
    "path": "Chapter 020 - Andean Trade Preference/§ 03203 - Eligible articles.md",
    "printed_pages": [
     619,
-    621
+    622
    ]
   },
   {
    "id": "19_3204",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       93,
-       "[Page 622]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - Andean Trade Preference/§ 03204 - International Trade Commission reports on impact of this chapter.md",
    "printed_pages": [
-    621,
+    622,
     622
    ]
   },
@@ -13862,20 +13946,20 @@
    "marks": [
     [
      "I",
-     51,
+     17,
      [
       [
-       55,
+       47,
        "[Page 623]"
       ]
      ]
     ],
     [
      "I",
-     213,
+     181,
      [
       [
-       56,
+       39,
        "[Page 624]"
       ]
      ]
@@ -13889,11 +13973,18 @@
   },
   {
    "id": "19_3301",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 625]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/§ 03301 - Definitions.md",
    "printed_pages": [
     624,
-    624
+    625
    ]
   },
   {
@@ -13901,34 +13992,34 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/README.md",
    "printed_pages": [
-    624,
-    624
+    625,
+    625
    ]
   },
   {
    "id": "19_3311",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 625]",
-     true
-    ],
-    [
      "I",
-     84,
+     64,
      [
       [
-       111,
+       551,
        "[Page 626]"
       ]
      ]
+    ],
+    [
+     "L",
+     206,
+     "[Page 627]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03311 - Approval and entry into force of North American Free Trade Agreement.md",
    "printed_pages": [
-    624,
-    626
+    625,
+    627
    ]
   },
   {
@@ -13936,63 +14027,52 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 627]",
+     74,
+     "[Page 628]",
      true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03312 - Relationship of Agreement to United States and State law.md",
-   "printed_pages": [
-    626,
-    627
-   ]
-  },
-  {
-   "id": "19_3313",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       88,
-       "[Page 628]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03313 - Consultation and layover requirements for, and effective date of, proclaimed actions.md",
    "printed_pages": [
     627,
     628
    ]
   },
   {
-   "id": "19_3314",
+   "id": "19_3313",
    "marks": [],
-   "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03314 - Implementing actions in anticipation of entry into force and initial regulations.md",
+   "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03313 - Consultation and layover requirements for, and effective date of, proclaimed actions.md",
    "printed_pages": [
     628,
     628
    ]
   },
   {
-   "id": "19_3315",
+   "id": "19_3314",
    "marks": [
     [
      "I",
      14,
      [
       [
-       228,
+       229,
        "[Page 629]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03315 - United States Section of NAFTA Secretariat.md",
+   "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03314 - Implementing actions in anticipation of entry into force and initial regulations.md",
    "printed_pages": [
     628,
+    629
+   ]
+  },
+  {
+   "id": "19_3315",
+   "marks": [],
+   "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03315 - United States Section of NAFTA Secretariat.md",
+   "printed_pages": [
+    629,
     629
    ]
   },
@@ -14009,14 +14089,10 @@
    "id": "19_3317",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       97,
-       "[Page 630]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 630]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 001 (I) - Approval of, and General Provisions Relating to, North American Free Trade Agreement/§ 03317 - Congressional intent regarding future accessions.md",
@@ -14039,7 +14115,7 @@
    "marks": [
     [
      "L",
-     44,
+     8,
      "[Page 631]",
      true
     ]
@@ -14055,43 +14131,39 @@
    "marks": [
     [
      "L",
-     54,
+     18,
      "[Page 632]",
      true
     ],
     [
-     "I",
-     166,
-     [
-      [
-       100,
-       "[Page 633]"
-      ]
-     ]
+     "L",
+     138,
+     "[Page 633]",
+     true
     ],
     [
      "I",
-     230,
+     208,
      [
       [
-       95,
+       187,
        "[Page 634]"
       ]
      ]
     ],
     [
      "I",
-     294,
+     272,
      [
       [
-       774,
+       93,
        "[Page 635]"
       ]
      ]
     ],
     [
      "I",
-     362,
+     330,
      [
       [
        98,
@@ -14100,42 +14172,38 @@
      ]
     ],
     [
+     "L",
+     400,
+     "[Page 637]",
+     true
+    ],
+    [
      "I",
-     434,
+     478,
      [
       [
-       423,
-       "[Page 637]"
+       87,
+       "[Page 638]"
       ]
      ]
     ],
     [
      "L",
-     512,
-     "[Page 638]",
-     true
-    ],
-    [
-     "L",
-     608,
+     562,
      "[Page 639]",
      true
     ],
     [
      "L",
-     690,
+     666,
      "[Page 640]",
      true
     ],
     [
-     "I",
-     774,
-     [
-      [
-       112,
-       "[Page 641]"
-      ]
-     ]
+     "L",
+     740,
+     "[Page 641]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 002 (II) - Customs Provisions/§ 03332 - Rules of origin.md",
@@ -14148,14 +14216,10 @@
    "id": "19_3333",
    "marks": [
     [
-     "I",
-     78,
-     [
-      [
-       89,
-       "[Page 642]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 642]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 002 (II) - Customs Provisions/§ 03333 - Drawback.md",
@@ -14175,11 +14239,22 @@
   },
   {
    "id": "19_3335",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       279,
+       "[Page 643]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 002 (II) - Customs Provisions/§ 03335 - Monitoring of television and picture tube imports.md",
    "printed_pages": [
     642,
-    642
+    643
    ]
   },
   {
@@ -14187,8 +14262,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/README.md",
    "printed_pages": [
-    642,
-    642
+    643,
+    643
    ]
   },
   {
@@ -14196,8 +14271,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/README.md",
    "printed_pages": [
-    642,
-    642
+    643,
+    643
    ]
   },
   {
@@ -14205,52 +14280,41 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/README.md",
    "printed_pages": [
-    642,
-    642
+    643,
+    643
    ]
   },
   {
    "id": "19_3351",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 643]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03351 - Definitions.md",
    "printed_pages": [
-    642,
+    643,
     643
    ]
   },
   {
    "id": "19_3352",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 644]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03352 - Commencing of action for relief.md",
    "printed_pages": [
     643,
-    643
+    644
    ]
   },
   {
    "id": "19_3353",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       548,
-       "[Page 644]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03353 - International Trade Commission action on petition.md",
    "printed_pages": [
-    643,
+    644,
     644
    ]
   },
@@ -14258,14 +14322,10 @@
    "id": "19_3354",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       189,
-       "[Page 645]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 645]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03354 - Provision of relief.md",
@@ -14285,11 +14345,22 @@
   },
   {
    "id": "19_3356",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       170,
+       "[Page 646]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03356 - Compensation authority.md",
    "printed_pages": [
     645,
-    645
+    646
    ]
   },
   {
@@ -14297,27 +14368,16 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03357 - Submission of petitions.md",
    "printed_pages": [
-    645,
-    645
+    646,
+    646
    ]
   },
   {
    "id": "19_3358",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       97,
-       "[Page 646]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 001 - Relief from Imports Benefiting from Agreement/§ 03358 - Price-based snapback for frozen concentrated orange juice.md",
    "printed_pages": [
-    645,
+    646,
     646
    ]
   },
@@ -14332,30 +14392,30 @@
   },
   {
    "id": "19_3371",
-   "marks": [],
-   "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 002 - Relief from Imports from All Countries/§ 03371 - NAFTA article impact in import relief cases under Trade Act of 1974.md",
-   "printed_pages": [
-    646,
-    646
-   ]
-  },
-  {
-   "id": "19_3372",
    "marks": [
     [
      "I",
-     12,
+     14,
      [
       [
-       93,
+       86,
        "[Page 647]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 002 - Relief from Imports from All Countries/§ 03372 - Presidential action regarding NAFTA imports.md",
+   "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 002 - Relief from Imports from All Countries/§ 03371 - NAFTA article impact in import relief cases under Trade Act of 1974.md",
    "printed_pages": [
     646,
+    647
+   ]
+  },
+  {
+   "id": "19_3372",
+   "marks": [],
+   "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 002 - Relief from Imports from All Countries/§ 03372 - Presidential action regarding NAFTA imports.md",
+   "printed_pages": [
+    647,
     647
    ]
   },
@@ -14370,11 +14430,18 @@
   },
   {
    "id": "19_3381",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 648]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 003 - General Provisions/§ 03381 - Monitoring.md",
    "printed_pages": [
     647,
-    647
+    648
    ]
   },
   {
@@ -14382,8 +14449,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part A - Safeguards/Subpart 003 - General Provisions/§ 03382 - Procedures concerning conduct of International Trade Commission investigations.md",
    "printed_pages": [
-    647,
-    647
+    648,
+    648
    ]
   },
   {
@@ -14391,30 +14458,34 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part B - Agriculture/README.md",
    "printed_pages": [
-    647,
-    647
+    648,
+    648
    ]
   },
   {
    "id": "19_3391",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 648]",
-     true
+     "I",
+     70,
+     [
+      [
+       178,
+       "[Page 649]"
+      ]
+     ]
     ],
     [
      "L",
-     98,
-     "[Page 649]",
+     142,
+     "[Page 650]",
      true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part B - Agriculture/§ 03391 - Agriculture.md",
    "printed_pages": [
-    647,
-    649
+    648,
+    650
    ]
   },
   {
@@ -14422,27 +14493,16 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part C - Temporary Entry of Business Persons/README.md",
    "printed_pages": [
-    649,
-    649
+    650,
+    650
    ]
   },
   {
    "id": "19_3401",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       112,
-       "[Page 650]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part C - Temporary Entry of Business Persons/§ 03401 - Nonimmigrant traders and investors.md",
    "printed_pages": [
-    649,
+    650,
     650
    ]
   },
@@ -14486,20 +14546,22 @@
    "id": "19_3421",
    "marks": [
     [
-     "I",
-     70,
-     [
-      [
-       138,
-       "[Page 651]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 651]",
+     true
+    ],
+    [
+     "L",
+     118,
+     "[Page 652]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 003 (III) - Application of Agreement to Sectors and Services/Part D - Standards/Subpart 002 - Agricultural Standards/§ 03421 - Agricultural standards.md",
    "printed_pages": [
     650,
-    651
+    652
    ]
   },
   {
@@ -14507,8 +14569,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/README.md",
    "printed_pages": [
-    651,
-    651
+    652,
+    652
    ]
   },
   {
@@ -14516,8 +14578,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/README.md",
    "printed_pages": [
-    651,
-    651
+    652,
+    652
    ]
   },
   {
@@ -14525,8 +14587,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/§ 03431 - References in part.md",
    "printed_pages": [
-    651,
-    651
+    652,
+    652
    ]
   },
   {
@@ -14534,36 +14596,30 @@
    "marks": [
     [
      "I",
-     18,
+     46,
      [
       [
-       99,
-       "[Page 652]"
+       98,
+       "[Page 653]"
       ]
      ]
     ],
     [
-     "L",
-     84,
-     "[Page 653]",
-     true
-    ],
-    [
      "I",
-     140,
+     116,
      [
       [
-       97,
+       99,
        "[Page 654]"
       ]
      ]
     ],
     [
      "I",
-     206,
+     178,
      [
       [
-       94,
+       102,
        "[Page 655]"
       ]
      ]
@@ -14571,7 +14627,7 @@
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/§ 03432 - Organizational and administrative provisions.md",
    "printed_pages": [
-    651,
+    652,
     655
    ]
   },
@@ -14579,14 +14635,10 @@
    "id": "19_3433",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       637,
-       "[Page 656]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 656]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/§ 03433 - Testimony and production of papers in extraordinary challenges.md",
@@ -14606,11 +14658,22 @@
   },
   {
    "id": "19_3435",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       92,
+       "[Page 657]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/§ 03435 - Rules of procedure for panels and committees.md",
    "printed_pages": [
     656,
-    656
+    657
    ]
   },
   {
@@ -14618,25 +14681,19 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/§ 03436 - Subsidy negotiations.md",
    "printed_pages": [
-    656,
-    656
+    657,
+    657
    ]
   },
   {
    "id": "19_3437",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 657]",
-     true
-    ],
-    [
      "I",
-     76,
+     44,
      [
       [
-       119,
+       194,
        "[Page 658]"
       ]
      ]
@@ -14644,7 +14701,7 @@
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part A - Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19/§ 03437 - Identification of industries facing subsidized imports.md",
    "printed_pages": [
-    656,
+    657,
     658
    ]
   },
@@ -14668,11 +14725,22 @@
   },
   {
    "id": "19_3451",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       91,
+       "[Page 659]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 004 (IV) - Dispute Settlement in Antidumping and Countervailing Duty Cases/Part B - General Provisions/§ 03451 - Effect of termination of NAFTA country status.md",
    "printed_pages": [
     658,
-    658
+    659
    ]
   },
   {
@@ -14680,8 +14748,8 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    658,
-    658
+    659,
+    659
    ]
   },
   {
@@ -14689,52 +14757,41 @@
    "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part A - Provisions Relating to Performance under Agreement/README.md",
    "printed_pages": [
-    658,
-    658
+    659,
+    659
    ]
   },
   {
    "id": "19_3461",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 659]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part A - Provisions Relating to Performance under Agreement/§ 03461 - Discriminatory taxes.md",
    "printed_pages": [
-    658,
+    659,
     659
    ]
   },
   {
    "id": "19_3462",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 660]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part A - Provisions Relating to Performance under Agreement/§ 03462 - Review of operation and effects of Agreement.md",
    "printed_pages": [
     659,
-    659
+    660
    ]
   },
   {
    "id": "19_3463",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       225,
-       "[Page 660]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part A - Provisions Relating to Performance under Agreement/§ 03463 - Report on impact of NAFTA on motor vehicle exports to Mexico.md",
    "printed_pages": [
-    659,
+    660,
     660
    ]
   },
@@ -14749,11 +14806,18 @@
   },
   {
    "id": "19_3471",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 661]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part B - Implementation of NAFTA Supplemental Agreements/§ 03471 - Agreement on Labor Cooperation.md",
    "printed_pages": [
     660,
-    660
+    661
    ]
   },
   {
@@ -14761,24 +14825,18 @@
    "marks": [
     [
      "I",
-     28,
+     60,
      [
       [
-       466,
-       "[Page 661]"
+       105,
+       "[Page 662]"
       ]
      ]
-    ],
-    [
-     "L",
-     82,
-     "[Page 662]",
-     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part B - Implementation of NAFTA Supplemental Agreements/§ 03472 - Agreement on Environmental Cooperation.md",
    "printed_pages": [
-    660,
+    661,
     662
    ]
   },
@@ -14786,14 +14844,10 @@
    "id": "19_3473",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       104,
-       "[Page 663]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 663]",
+     true
     ]
    ],
    "path": "Chapter 021 - North American Free Trade/Subchapter 005 (V) - Miscellaneous Provisions/Part B - Implementation of NAFTA Supplemental Agreements/§ 03473 - Agreement on Border Environment Cooperation Commission.md",
@@ -14807,11 +14861,21 @@
    "marks": [
     [
      "I",
-     71,
+     14,
      [
       [
-       63,
+       69,
        "[Page 664]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     166,
+     [
+      [
+       40,
+       "[Page 665]"
       ]
      ]
     ]
@@ -14819,22 +14883,15 @@
    "path": "Chapter 022 - Uruguay Round Trade Agreements/README.md",
    "printed_pages": [
     663,
-    664
+    665
    ]
   },
   {
    "id": "19_3501",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 665]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/§ 03501 - Definitions.md",
    "printed_pages": [
-    664,
+    665,
     665
    ]
   },
@@ -14860,42 +14917,48 @@
    "id": "19_3511",
    "marks": [
     [
-     "I",
-     66,
-     [
-      [
-       102,
-       "[Page 666]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     104,
-     [
-      [
-       478,
-       "[Page 667]"
-      ]
-     ]
-    ],
-    [
      "L",
-     146,
-     "[Page 668]",
+     10,
+     "[Page 666]",
      true
     ],
     [
      "L",
-     188,
+     92,
+     "[Page 667]",
+     true
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       579,
+       "[Page 668]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     168,
      "[Page 669]",
      true
+    ],
+    [
+     "I",
+     222,
+     [
+      [
+       258,
+       "[Page 670]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part A - Approval of Agreements and Related Provisions/§ 03511 - Approval and entry into force of Uruguay Round Agreements.md",
    "printed_pages": [
     665,
-    669
+    670
    ]
   },
   {
@@ -14903,44 +14966,37 @@
    "marks": [
     [
      "I",
-     36,
+     56,
      [
       [
-       96,
-       "[Page 670]"
+       98,
+       "[Page 671]"
       ]
      ]
     ],
     [
      "I",
-     84,
+     126,
      [
       [
-       96,
-       "[Page 671]"
+       230,
+       "[Page 672]"
       ]
      ]
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part A - Approval of Agreements and Related Provisions/§ 03512 - Relationship of agreements to United States law and State law.md",
    "printed_pages": [
-    669,
-    671
+    670,
+    672
    ]
   },
   {
    "id": "19_3513",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 672]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part A - Approval of Agreements and Related Provisions/§ 03513 - Implementing actions in anticipation of entry into force; regulations.md",
    "printed_pages": [
-    671,
+    672,
     672
    ]
   },
@@ -14957,45 +15013,40 @@
    "id": "19_3521",
    "marks": [
     [
+     "L",
+     48,
+     "[Page 673]",
+     true
+    ],
+    [
      "I",
-     115,
+     181,
      [
       [
-       25,
-       "[Page 673]"
+       29,
+       "[Page 674]"
       ]
      ]
     ],
     [
-     "I",
-     259,
-     [
-      [
-       24,
-       "[Page 674]"
-      ]
-     ]
+     "L",
+     321,
+     "[Page 675]",
+     true
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part B - Tariff Modifications/§ 03521 - Tariff modifications.md",
    "printed_pages": [
     672,
-    674
+    675
    ]
   },
   {
    "id": "19_3522",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 675]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part B - Tariff Modifications/§ 03522 - Liquidation or reliquidation and refund of duty paid on certain entries.md",
    "printed_pages": [
-    674,
+    675,
     675
    ]
   },
@@ -15010,11 +15061,22 @@
   },
   {
    "id": "19_3524",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       88,
+       "[Page 676]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part B - Tariff Modifications/§ 03524 - Consultation and layover requirements for, and effective date of, proclaimed actions.md",
    "printed_pages": [
     675,
-    675
+    676
    ]
   },
   {
@@ -15022,37 +15084,33 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/README.md",
    "printed_pages": [
-    675,
-    675
+    676,
+    676
    ]
   },
   {
    "id": "19_3531",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       86,
-       "[Page 676]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/§ 03531 - Definitions.md",
    "printed_pages": [
-    675,
+    676,
     676
    ]
   },
   {
    "id": "19_3532",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 677]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/§ 03532 - Implementation of Uruguay Round Agreements.md",
    "printed_pages": [
     676,
-    676
+    677
    ]
   },
   {
@@ -15060,20 +15118,10 @@
    "marks": [
     [
      "I",
-     4,
+     44,
      [
       [
-       140,
-       "[Page 677]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       330,
+       93,
        "[Page 678]"
       ]
      ]
@@ -15081,7 +15129,7 @@
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/§ 03533 - Dispute settlement panels and procedures.md",
    "printed_pages": [
-    676,
+    677,
     678
    ]
   },
@@ -15099,10 +15147,10 @@
    "marks": [
     [
      "I",
-     40,
+     6,
      [
       [
-       229,
+       93,
        "[Page 679]"
       ]
      ]
@@ -15116,26 +15164,30 @@
   },
   {
    "id": "19_3536",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       235,
+       "[Page 680]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/§ 03536 - Increased transparency.md",
    "printed_pages": [
     679,
-    679
+    680
    ]
   },
   {
    "id": "19_3537",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 680]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/§ 03537 - Access to WTO dispute settlement process.md",
    "printed_pages": [
-    679,
+    680,
     680
    ]
   },
@@ -15143,20 +15195,22 @@
    "id": "19_3538",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       146,
-       "[Page 681]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 681]",
+     true
+    ],
+    [
+     "L",
+     70,
+     "[Page 682]",
+     true
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part C - Uruguay Round Implementation and Dispute Settlement/§ 03538 - Administrative action following WTO panel reports.md",
    "printed_pages": [
     680,
-    681
+    682
    ]
   },
   {
@@ -15164,27 +15218,16 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part D - Related Provisions/README.md",
    "printed_pages": [
-    681,
-    681
+    682,
+    682
    ]
   },
   {
    "id": "19_3551",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       279,
-       "[Page 682]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part D - Related Provisions/§ 03551 - Working party on worker rights.md",
    "printed_pages": [
-    681,
+    682,
     682
    ]
   },
@@ -15199,11 +15242,18 @@
   },
   {
    "id": "19_3553",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 683]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part D - Related Provisions/§ 03553 - Membership in WTO of boycotting countries.md",
    "printed_pages": [
     682,
-    682
+    683
    ]
   },
   {
@@ -15211,37 +15261,37 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part D - Related Provisions/§ 03554 - Africa trade and development policy.md",
    "printed_pages": [
-    682,
-    682
+    683,
+    683
    ]
   },
   {
    "id": "19_3555",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       141,
-       "[Page 683]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part D - Related Provisions/§ 03555 - Objectives for extended negotiations.md",
    "printed_pages": [
-    682,
+    683,
     683
    ]
   },
   {
    "id": "19_3556",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       228,
+       "[Page 684]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 001 (I) - Approval of, and General Provisions Relating to, Uruguay Round Agreements/Part D - Related Provisions/§ 03556 - Certain nonrubber footwear.md",
    "printed_pages": [
     683,
-    683
+    684
    ]
   },
   {
@@ -15249,44 +15299,40 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 002 (II) - Enforcement of United States Rights under Subsidies Agreement/README.md",
    "printed_pages": [
-    683,
-    683
+    684,
+    684
    ]
   },
   {
    "id": "19_3571",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       184,
-       "[Page 684]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     64,
-     [
-      [
-       96,
-       "[Page 685]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 685]",
+     true
     ],
     [
      "L",
-     106,
+     74,
      "[Page 686]",
      true
+    ],
+    [
+     "I",
+     152,
+     [
+      [
+       88,
+       "[Page 687]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 002 (II) - Enforcement of United States Rights under Subsidies Agreement/§ 03571 - Subsidies enforcement.md",
    "printed_pages": [
-    683,
-    686
+    684,
+    687
    ]
   },
   {
@@ -15294,20 +15340,14 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 687]",
-     true
-    ],
-    [
-     "L",
-     84,
+     40,
      "[Page 688]",
      true
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 002 (II) - Enforcement of United States Rights under Subsidies Agreement/§ 03572 - Review of Subsidies Agreement.md",
    "printed_pages": [
-    686,
+    687,
     688
    ]
   },
@@ -15331,11 +15371,22 @@
   },
   {
    "id": "19_3581",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       97,
+       "[Page 689]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 003 (III) - Additional Implementation of Agreements/Part A - Foreign Trade Barriers and Unfair Trade Practices/§ 03581 - Objectives in intellectual property.md",
    "printed_pages": [
     688,
-    688
+    689
    ]
   },
   {
@@ -15343,23 +15394,16 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 003 (III) - Additional Implementation of Agreements/Part B - Textiles/README.md",
    "printed_pages": [
-    688,
-    688
+    689,
+    689
    ]
   },
   {
    "id": "19_3591",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 689]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 003 (III) - Additional Implementation of Agreements/Part B - Textiles/§ 03591 - Textile product integration.md",
    "printed_pages": [
-    688,
+    689,
     689
    ]
   },
@@ -15368,7 +15412,7 @@
    "marks": [
     [
      "L",
-     72,
+     36,
      "[Page 690]",
      true
     ]
@@ -15401,14 +15445,10 @@
    "id": "19_3601",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       800,
-       "[Page 691]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 691]",
+     true
     ]
    ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part A - Market Access/§ 03601 - Administration of tariff-rate quotas.md",
@@ -15419,11 +15459,18 @@
   },
   {
    "id": "19_3602",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 692]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part A - Market Access/§ 03602 - Special agricultural safeguard authority.md",
    "printed_pages": [
     691,
-    691
+    692
    ]
   },
   {
@@ -15431,8 +15478,8 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part B - Exports/README.md",
    "printed_pages": [
-    691,
-    691
+    692,
+    692
    ]
   },
   {
@@ -15440,8 +15487,8 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part B - Exports/§ 03611 - Food aid.md",
    "printed_pages": [
-    691,
-    691
+    692,
+    692
    ]
   },
   {
@@ -15449,27 +15496,16 @@
    "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part C - Other Provisions/README.md",
    "printed_pages": [
-    691,
-    691
+    692,
+    692
    ]
   },
   {
    "id": "19_3621",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       131,
-       "[Page 692]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part C - Other Provisions/§ 03621 - Tobacco proclamation authority.md",
    "printed_pages": [
-    691,
+    692,
     692
    ]
   },
@@ -15493,14 +15529,25 @@
   },
   {
    "id": "19_3624",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       178,
+       "[Page 693]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Uruguay Round Trade Agreements/Subchapter 004 (IV) - Agriculture-Related Provisions/Part C - Other Provisions/§ 03624 - Additional program funding.md",
    "printed_pages": [
     692,
-    692
+    693
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1994-title19 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1995-title19 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 19 - Customs Duties"
 }

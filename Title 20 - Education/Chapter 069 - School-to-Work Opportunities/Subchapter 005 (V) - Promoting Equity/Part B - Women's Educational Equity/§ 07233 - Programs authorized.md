@@ -84,11 +84,11 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(ix) the development of guidance and counseling activities, including career education programs, designed to ensure gender equity.
 
-(Pub. L. 89 10, title V, §5203, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3696.)
+(Pub. L. 89–10, title V, §5203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3696.)
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (b)(2)(A)(i), is Pub. L. 92 318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (b)(2)(A)(i), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

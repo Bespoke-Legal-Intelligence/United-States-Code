@@ -26,7 +26,7 @@
 
 &emsp;(3) that cost variances or schedule variances of a major contract under the program have resulted in an increase in the cost of the contract of at least 15 percent over the cost of the contract as of the time the contract was made;
 
-> and if a unit cost report indicating an increase of such percentage or more has not previously been submitted to the service acquisition executive designated by the Secretary concerned during the current fiscal year (other than the lastquarterly unit cost report under subsection (b) for the preceding fiscal year), then the program manager shall immediately submit to such service acquisition executive a unit cost report containing the information, determined as of the date of the report, required under subsection (b).
+> and if a unit cost report indicating an increase of such percentage or more has not previously been submitted to the service acquisition executive designated by the Secretary concerned during the current fiscal year (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year), then the program manager shall immediately submit to such service acquisition executive a unit cost report containing the information, determined as of the date of the report, required under subsection (b).
 
 (2) If in any fiscal year the program manager for a major defense acquisition program has submitted to the service acquisition executive designated by the Secretary concerned a unit cost report (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year) indicating an increase of 15 percent or more in a category described in clauses (A) through (C) of paragraph (1) and subsequently determines that there is reasonable cause to believe—
 
@@ -48,7 +48,7 @@
 
 (B) Whenever the Secretary makes a determination referred to in subparagraph (A) in the case of a major defense acquisition program during the second quarter of a fiscal year and before the date on which the President transmits the budget for the following fiscal year to Congress pursuant to section 1105 of title 31, the Secretary is not required to file a Selected Acquisition Report under subparagraph (A) but shall include the information described in subsection (g) regarding that program in the comprehensive annual Selected Acquisition Report submitted in that quarter.
 
-(2) If the percentage increase in the program acquisition unit cost or procurement unit cost of a major defense acquisition program (as determined by the Secretary under subsection (d)) exceeds 25 percent, the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title—
+(2) If the percentage increase in the program acquisition unit cost or procurement unit cost of a major defense acquisition program (as determined by the Secretary under subsection (d)) exceeds 25 percent, the Secretary of Defense shall submit to Congress, before the end of the30-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title—
 
 &emsp;(A) a written certification, stating that—
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(vi) A narrative providing a summary explanation of the most significant occurrences, including cost and schedule variances under major contracts of the program, contributing to the changes identified and a discussion of the effect these occurrences will have on future program costs and the program schedule.
 
-(2) If a program acquisition unit cost increase or a procurement unit cost increase for a major defense acquisition program that results in a report under this subsection is due to termination or cancellation of the entire program, only the information specified in clauses (A) through (F) of paragraph (1) and the percentage change inprogram acquisition unit cost or procurement unit cost that resulted in the report need be included in the report. The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.
+(2) If a program acquisition unit cost increase or a procurement unit cost increase for a major defense acquisition program that results in a report under this subsection is due to termination or cancellation of the entire program, only the information specified in clauses (A) through (F) of paragraph (1) and the percentage change in program acquisition unit cost or procurement unit cost that resulted in the report need be included in the report. The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.
 
 (h) Reporting under this section shall not apply if a program has received a limited reporting waiver under section 2432(h) of this title.
 
@@ -236,7 +236,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 98–525, §1242(b)(4)(B)(ii), struck out “but l
 
 Subsec. (e)(1). Pub. L. 98–525, §1242(b)(5)(A), substituted “subsection (d)(3)(B)(i)” for “subsection (d)(3)(B)” and inserted “more than” before “15 percent”.
 
-Subsec. (e)(2). Pub. L. 98–525, §1242(b)(5)(B), substituted “subsection (d)(3)(B)(ii)” for “subsection\(d)(3)(B)” and inserted “more than” before “25 percent”.
+Subsec. (e)(2). Pub. L. 98–525, §1242(b)(5)(B), substituted “subsection (d)(3)(B)(ii)” for “subsection (d)(3)(B)” and inserted “more than” before “25 percent”.
 
 Subsec. (e)(2)(A). Pub. L. 98–525, §1242(b)(5)(B)(iii), inserted “and the Secretary concerned submits to Congress, before the end of the 30-day period referred to in subsection (d)(3)(B)(i), a report containing the information described in subsection (g)”.
 

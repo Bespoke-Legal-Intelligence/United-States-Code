@@ -2,7 +2,7 @@
 
 The furniture for all new public buildings shall be procured in accordance with plans and specifications approved by the Administrator of General Services.
 
-(May 27, 1908, ch. 200, 35 Stat. 327; Ex. Ord. No. 6166, §1, eff. June 10, 1933; 1939 Reorg. Plan No. 1, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
+(May 27, 1908, ch. 200, 35 Stat. 327; Ex. Ord. No. 6166, §1, eff. June 10, 1933; 1939 Reorg. Plan No. 1, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat.1426, 1427; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
 
 #### Codification
 

@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
 
-&emsp;&emsp;&emsp;(ii) by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable underclause (i) or (ii) of subparagraph (A) and compounded annually, and
+&emsp;&emsp;&emsp;(ii) by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) and compounded annually, and
 
 &emsp;&emsp;&emsp;(iii) by assuming that the credit allowable under this section for any year is received on the last day of such year.
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (ii) Special rules for certain transfers
 
-&emsp;&emsp;&emsp;For purposes of determining under subparagraph (B)(ii) when a building was last placed in service, there shall not be taken into account any placement in service—
+&emsp;&emsp;&emsp;For purposes of determining under subparagraph (B)(ii) when a building was lastplaced in service, there shall not be taken into account any placement in service—
 
 &emsp;&emsp;&emsp;&emsp;(I) in connection with the acquisition of the building in a transaction in which the basis of the building in the hands of the person acquiring it is determined in whole or in part by reference to the adjusted basis of such building in the hands of the person from whom acquired,
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 &emsp;&emsp;A waiver may be granted under subparagraph (A) (without regard to any clause thereof) with respect to a federally-assisted building described in clause (ii) or (iii) of subparagraph (B) if—
 
-&emsp;&emsp;&emsp;(i) the mortgage on such building is eligible for prepayment under subtitle B of the Emergency Low Income Housing Preservation Act of 1987 or under section 502(c) of the Housing Act of 1949 at any time within 1 year after the date of the application for such a waiver,
+&emsp;&emsp;&emsp;(i) the mortgage on such building is eligible for prepayment under subtitle B ofthe Emergency Low Income Housing Preservation Act of 1987 or under section 502(c) of the Housing Act of 1949 at any time within 1 year after the date of the application for such a waiver,
 
 &emsp;&emsp;&emsp;(ii) the appropriate Federal official certifies to the Secretary that it is reasonable to expect that, if the waiver is not granted, such building will cease complying with its low-income occupancy requirements, and
 
@@ -392,7 +392,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amount of such expenditures during any 24-month period meets the requirements of whichever of the following subclauses requires the greater amount of such expenditures:
 
-&emsp;&emsp;&emsp;&emsp;(I) The requirement of this subclause is met if such amount is not less than 10percent of the adjusted basis of the building (determined as of the 1st day of such period and without regard to paragraphs (2) and (3) of section 1016(a)).
+&emsp;&emsp;&emsp;&emsp;(I) The requirement of this subclause is met if such amount is not less than 10 percent of the adjusted basis of the building (determined as of the 1st day of such period and without regard to paragraphs (2) and (3) of section 1016(a)).
 
 &emsp;&emsp;&emsp;&emsp;(II) The requirement of this subclause is met if the qualified basis attributable to such amount, when divided by the number of low-income units in the building, is $3,000 or more.
 
@@ -410,7 +410,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such expenditures shall be treated as placed in service at the close of the 24-month period referred to in paragraph (3)(A), and
 
-&emsp;&emsp;(B) the applicable fraction under subsection (c)(1) shall be the applicable fraction for the building (without regard to paragraph (1)) with respect to which the expenditures were incurred.
+&emsp;&emsp;(B) the applicable fraction under subsection (c)(1) shall be the applicable fractionfor the building (without regard to paragraph (1)) with respect to which the expenditures were incurred.
 
 > &emsp;Nothing in subsection (d)(2) shall prevent a credit from being allowed by reason of this subsection.
 
@@ -502,7 +502,7 @@ For purposes of this section—
 
 #### (A) 20–50 test
 
-&emsp;&emsp;The project meets the requirements of this subparagraph if 20 percent or more of the residential units in such project are both rent-restricted and occupied by individuals whose income is 50 percent or less of area median gross income.
+&emsp;&emsp;The project meets the requirements of this subparagraph if 20 percent or more of theresidential units in such project are both rent-restricted and occupied by individuals whose income is 50 percent or less of area median gross income.
 
 #### (B) 40–60 test
 
@@ -552,7 +552,7 @@ For purposes of this section—
 
 #### (E) Units where Federal rental assistance is reduced as tenant's income increases
 
-&emsp;&emsp;If the gross rent with respect to a residential unit exceeds the limitation under subparagraph (A) by reason of the fact that the income of the occupants thereof exceeds the income limitation applicable under paragraph (1), such unit shall, nevertheless, be treated as a rent-restricted unit for purposes of paragraph (1) if—
+&emsp;&emsp;If the gross rent with respect to a residential unit exceeds the limitation under subparagraph (A) by reason of the fact that theincome of the occupants thereof exceeds the income limitation applicable under paragraph (1), such unit shall, nevertheless, be treated as a rent-restricted unit for purposes of paragraph (1) if—
 
 &emsp;&emsp;&emsp;(i) a Federal rental assistance payment described in subparagraph (B)(i) is made with respect to such unit or its occupants, and
 
@@ -600,7 +600,7 @@ For purposes of this section—
 
 #### (4) Certain rules made applicable
 
-&emsp;Paragraphs (2) (other than subparagraph (A) thereof), (3), (4), (5), (6), and (7) of section 142(d), and section 6652(j), shall apply for purposes of determining whether any project is a qualified low-income housing project andwhether any unit is a low-income unit; except that, in applying such provisions for such purposes, the term “gross rent” shall have the meaning given such term by paragraph (2)(B) of this subsection.
+&emsp;Paragraphs (2) (other than subparagraph (A) thereof), (3), (4), (5), (6), and (7) of section 142(d), and section 6652(j), shall apply for purposes of determining whether any project is a qualified low-income housing project and whether any unit is a low-income unit; except that, in applying such provisions for such purposes, the term “gross rent” shall have the meaning given such term by paragraph (2)(B) of this subsection.
 
 #### (5) Election to treat building after compliance period as not part of a project
 
@@ -618,7 +618,7 @@ For purposes of this section—
 
 #### (7) Scattered site projects
 
-&emsp;Buildings which would (but for their lack of proximity) be treated as a project for purposes of this section shall be so treated if all of the dwelling units in each of the buildings are rent-restricted (within the meaning of paragraph (2)) residential rental units.
+&emsp;Buildings which would (but for their lack of proximity) be treated as a project for purposes of this section shall be so treated if all of the dwelling units in each of the buildings arerent-restricted (within the meaning of paragraph (2)) residential rental units.
 
 #### (8) Waiver of certain de minimis errors and recertifications
 
@@ -670,7 +670,7 @@ For purposes of this section—
 
 #### (ii) Qualified building
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “qualified building” means any building which is part of a project if the taxpayer's basis in such project (as of the close of the calendar year in which the allocation is made) is more than 10 percent of the taxpayer's reasonably expected basis in such project (as of the close of the second calendar year referred to in clause (i)). Such term does not include any existing building unless a credit is allowable under subsection (e) for rehabilitation expenditurespaid or incurred by the taxpayer with respect to such building for a taxable year ending during the second calendar year referred to in clause (i) or the prior taxable year.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “qualified building” means any building which is part of a project if the taxpayer's basis in such project (as of the close of the calendar year in which the allocation is made) is more than 10 percent of the taxpayer's reasonably expected basis in such project (as of the close of the second calendar year referred to in clause (i)). Such term does not include any existing building unless a credit is allowable under subsection (e) for rehabilitation expenditures paid or incurred by the taxpayer with respect to such building for a taxable year ending during the second calendar year referred to in clause (i) or the prior taxable year.
 
 #### (F) Allocation of credit on a project basis
 
@@ -852,7 +852,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The housing credit dollar amount allocated to any building may not exceed the amount necessary to support the applicable fraction specified in the extended low-income housing commitment for such building, including any increase in such fraction pursuant to the application of subsection (f)(3) if such increase is reflected in an amended low-income housing commitment.
+&emsp;&emsp;&emsp;The housing credit dollar amount allocated to any building may not exceed theamount necessary to support the applicable fraction specified in the extended low-income housing commitment for such building, including any increase in such fraction pursuant to the application of subsection (f)(3) if such increase is reflected in an amended low-income housing commitment.
 
 #### (ii) Buildings financed by tax-exempt bonds
 
@@ -904,7 +904,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) cash distributions from (or available for distribution from) the project.
 
-> &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including regulations to prevent the manipulation of theamount determined under the preceding sentence.
+> &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including regulations to prevent the manipulation of the amount determined under the preceding sentence.
 
 #### (G) Adjusted investor equity
 
@@ -1064,7 +1064,7 @@ For purposes of this section—
 
 #### (iv) Single-room occupancy units
 
-&emsp;&emsp;&emsp;For purposes of clause (i), a single-room occupancy unit shall not be treated asused on a transient basis merely because it is rented on a month-by-month basis.
+&emsp;&emsp;&emsp;For purposes of clause (i), a single-room occupancy unit shall not be treated as used on a transient basis merely because it is rented on a month-by-month basis.
 
 #### (C) Special rule for buildings having 4 or fewer units
 
@@ -1094,7 +1094,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subparagraph (C) shall not apply to the acquisition or rehabilitation of a building pursuant to a development plan of action sponsored by a State or local government or a qualified nonprofit organization (as defined in subsection (h)(5)(C)).
+&emsp;&emsp;&emsp;Subparagraph (C) shall not apply to the acquisition or rehabilitation of a building pursuant to a development plan of action sponsored by a State or local governmentor a qualified nonprofit organization (as defined in subsection (h)(5)(C)).
 
 #### (ii) Limitation on credit
 
@@ -1174,7 +1174,7 @@ For purposes of this section—
 
 #### (C) No recapture of additional credit allowable by reason of subsection (f)(3)
 
-&emsp;&emsp;Paragraph (1) shall apply to a decrease in qualified basis only to the extent such decrease exceeds the amount of qualified basis with respect to which a credit was allowable for the taxable year referred to in paragraph (1)(B) by reason of subsection (f)(3).
+&emsp;&emsp;Paragraph (1) shall apply to a decrease in qualified basis only to the extent such decrease exceeds the amount of qualified basis with respect to which a credit was allowablefor the taxable year referred to in paragraph (1)(B) by reason of subsection (f)(3).
 
 #### (D) No credits against tax
 
@@ -1312,7 +1312,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) such other information as the Secretary may require.
 
-> &emsp;In the case of a failure to make the certification required by the preceding sentence onthe date prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, no credit shall be allowable by reason of subsection (a) with respect to such building for any taxable year ending before such certification is made.
+> &emsp;In the case of a failure to make the certification required by the preceding sentence on the date prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, no credit shall be allowable by reason of subsection (a) with respect to such building for any taxable year ending before such certification is made.
 
 #### (2) Annual reports to the Secretary
 
@@ -1404,7 +1404,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) the reasonableness of the developmental and operational costs of the project.
 
-> &emsp;&emsp;Clause (iii) shall not be applied so as to impede the development of projects in hard-to-develop areas. Such a determination shall not be construed to be a representation orwarranty as to the feasibility or viability of the project.
+> &emsp;&emsp;Clause (iii) shall not be applied so as to impede the development of projects in hard-to-develop areas. Such a determination shall not be construed to be a representation or warranty as to the feasibility or viability of the project.
 
 #### (C) Determination made when credit amount applied for and when building placed in service
 
@@ -1568,7 +1568,7 @@ Subsec. (k)(1). Pub. L. 101–508, §11813(b)(3)(A), substituted “49(a)(1)” 
 
 Subsec. (k)(2)(A)(ii), (D). Pub. L. 101–508, §11813(b)(3)(B), substituted “49(a)(1)(D)(iv)(II)” for “46(c)(8)(D)(iv)(II)”.
 
-Subsec. (m)(1)(B)(ii) to (iv). Pub. L. 101–508, §11407(b)(7)(B), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “which gives the highest priority to those projects as to which the highest percentage of the housing credit dollar amount is to be used for project costs other than the cost of intermediaries unless granting such priority would impede the development of projects in hard-to-develop areas,”.
+Subsec. (m)(1)(B)(ii) to (iv). Pub. L. 101–508, §11407(b)(7)(B), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “which gives the highest priority to those projects as to which the highest percentage of the housing credit dollar amount is to be used for projectcosts other than the cost of intermediaries unless granting such priority would impede the development of projects in hard-to-develop areas,”.
 
 Pub. L. 101–508, §11407(b)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “which provides a procedure that the agency will follow in notifying the Internal Revenue Service of noncompliance with the provisions of this section which such agency becomes aware of.”
 
@@ -1628,7 +1628,7 @@ Subsec. (d)(7)(A)(ii). Pub. L. 101–239, §7841(d)(14), substituted “under su
 
 Subsec. (e)(2)(A). Pub. L. 101–239, §7841(d)(15), substituted “to capital account” for “to captial account”.
 
-Subsec. (e)(3). Pub. L. 101–239, §7108(d)(3), substituted “Minimum expenditures to qualify” for “Average of rehabilitation expenditures must be $2,000 or more” in heading, added subpars. (A) and (B), redesignatedformer subpar. (B) as (C), and struck out former subpar. (A) which read as follows: “Paragraph (1) shall apply to rehabilitation expenditures with respect to any building only if the qualified basis attributable to such expenditures incurred during any 24-month period, when divided by the low-income units in the building, is $2,000 or more.”
+Subsec. (e)(3). Pub. L. 101–239, §7108(d)(3), substituted “Minimum expenditures to qualify” for “Average of rehabilitation expenditures must be $2,000 or more” in heading, added subpars. (A) and (B), redesignated former subpar. (B) as (C), and struck out former subpar. (A) which read as follows: “Paragraph (1) shall apply to rehabilitation expenditures with respect to any building only if the qualified basis attributable to such expenditures incurred during any 24-month period, when divided by the low-income units in the building, is $2,000 or more.”
 
 Subsec. (e)(5). Pub. L. 101–239, §7108(<i>l</i>)(3)(C), substituted “subsection (d)(2)(A)(i)” for “subsection (d)(2)(A)(i)(II)”.
 
@@ -2144,7 +2144,7 @@ Project described.—A project is described in this subparagraph if the code num
 | :--- | ---: |
 | &nbsp; | <b>The housing credit</b> |
 | <b>“The code number is:</b> | <b>dollar amount is:</b> |
-| (i) 49284553664 | $16,000  |
+| (i) 49284553664 | $16,000&nbsp; |
 | (ii) 4927742022446 | $22,000&nbsp; |
 | (iii) 49270742276087 | $64,000&nbsp; |
 | (iv) 490270742387293 | $48,000&nbsp; |

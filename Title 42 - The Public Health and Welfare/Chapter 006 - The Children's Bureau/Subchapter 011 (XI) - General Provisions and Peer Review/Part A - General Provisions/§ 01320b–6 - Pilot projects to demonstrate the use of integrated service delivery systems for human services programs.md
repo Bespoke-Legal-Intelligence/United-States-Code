@@ -34,7 +34,7 @@ The integration of service delivery systems for human services programs in any S
 
 (2) The Secretary shall consider all applications and accompanying comments and materials which are submitted under paragraph (1), and, no later than 9 months after July 18, 1984, shall approve no fewer than 3 nor more than 5 of the proposed projects (including one such project to be operated on a statewide basis). In considering and approving such applications the Secretary shall take into account the size and characteristics of the population that would be served by each proposed project, the desirability of wide geographic distribution among the projects, the number and nature of the human services programs which are in active operation in the various communities involved, and such other factors as may tend to indicate whether or not a particular proposed project would provide a useful and effective demonstration of the value of an integrated service delivery system. Each project approved under this paragraph shall be deemed for purposes of this section to begin on the first day of the month following the month in which the application with respect to such project is approved.
 
-(3) The Secretary shall approve any application for a project under this section only after determining that the conduct of such project will not lower or restrict the levels of aid, assistance, benefits, or services, or the income or resource standards, deductions, or exclusions, under any of the human services programs involved, and will not delay the provision of aid, assistance, benefits, or services under any of such programs.
+(3) The Secretary shall approve any application for a project under this section only after determining that the conduct of such project will not lower or restrict the levels of aid, assistance, benefits, or services, or the income or resource standards, deductions, or exclusions,under any of the human services programs involved, and will not delay the provision of aid, assistance, benefits, or services under any of such programs.
 
 #### (d) Requests by States for waiver of requirements
 
@@ -42,7 +42,7 @@ The integration of service delivery systems for human services programs in any S
 
 &emsp;(A) if the law involved is within the jurisdiction of the Secretary and authority to grant the waiver involved is otherwise available to the Secretary under this subchapter, subchapter IV of this chapter, or any other provision of law, the Secretary shall approve such request upon a determination that the waiver is necessary for the project to provide a useful and effective demonstration of the value of an integrated service delivery system; and
 
-&emsp;(B) if the law involved is within the jurisdiction of a Federal agency other than the Department of Health and Human Services and authority to grant the waiver involved is available to the head of such other agency under that law or any other provision of law,the Secretary shall transmit such request (on behalf of the requesting State) to the head of such other agency, who shall approve such request upon a determination that the waiver is necessary for the project to provide a useful and effective demonstration of the value of an integrated service delivery system and who shall certify such approval to the Secretary.
+&emsp;(B) if the law involved is within the jurisdiction of a Federal agency other than the Department of Health and Human Services and authority to grant the waiver involved is available to the head of such other agency under that law or any other provision of law, the Secretary shall transmit such request (on behalf of the requesting State) to the head of such other agency, who shall approve such request upon a determination that the waiver is necessary for the project to provide a useful and effective demonstration of the value of an integrated service delivery system and who shall certify such approval to the Secretary.
 
 (2) If under the law governing any of the human services programs included within a project there are provisions establishing safeguards which limit or restrict the use or disclosure of information (concerning applicants for or recipients of benefits or services) which has been obtained or developed by the agency involved in the conduct of that program, and a waiver of such provisions is granted under paragraph (1) in order to make such information available for purposes of the project—
 
@@ -90,7 +90,7 @@ There are authorized to be appropriated, for the four-fiscal-year period beginni
 
 Part A of subchapter IV of this chapter, referred to in subsecs. (a) and (f)(1), is classified to section 601 et seq. of this title.
 
-The Rehabilitation Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Amendments
 

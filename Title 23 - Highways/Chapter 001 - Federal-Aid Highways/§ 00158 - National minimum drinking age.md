@@ -30,7 +30,7 @@ Funds withheld on or before september 30, 1988.—Any funds withheld under this 
 
 &emsp;&emsp;&emsp;(i) If such funds would have been apportioned under section 104(b)(5)(A) of this title but for this section, such funds shall remain available until the end of the fiscal year for which such funds are authorized to be appropriated.
 
-&emsp;&emsp;&emsp;(ii) If such funds would have been apportioned under section 104(b)(5)(B) of this title but for this section, such funds shall remain available until the end of the second fiscal year following the fiscal year for which such funds are authorized to be appropriated.
+&emsp;&emsp;&emsp;(ii) If such funds would have been apportioned under section 104(b)(5)(B) of this title but for this section, such funds shallremain available until the end of the second fiscal year following the fiscal year for which such funds are authorized to be appropriated.
 
 &emsp;&emsp;&emsp;(iii) If such funds would have been apportioned under section 104(b)(1), 104(b)(2), or 104(b)(6) of this title but for this section, such funds shall remain available until the end of the third fiscal year following the fiscal year for which such funds are authorized to be appropriated.
 
@@ -66,7 +66,7 @@ Alcoholic Beverage Defined.—As used in this section, the term “alcoholic bev
 
 &emsp;(3) distilled spirits as defined in section 5002(a)(8) of such Code.
 
-(Added Pub. L. 98–363, §6(a), July 17, 1984, 98 Stat. 437; amended Pub. L. 99–272, title IV, §4104,Apr. 7, 1986, 100 Stat. 114; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Added Pub. L. 98–363, §6(a), July 17, 1984, 98 Stat. 437; amended Pub. L. 99–272, title IV, §4104, Apr. 7, 1986, 100 Stat. 114; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

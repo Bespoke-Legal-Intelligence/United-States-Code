@@ -2,5 +2,5 @@
 
 The Secretaries shall establish the minimum and maximum amounts available for an implementation grant under section 6142 of this title, and shall determine the actual amount granted to any State under such section, based on such criteria as the scope and quality of the plan described in section 6143(d) of this title and the number of projected participants in programs carried out through the system.
 
-(Pub. L. 103 239, title II, §216, May 4, 1994, 108 Stat. 591.)
+(Pub. L. 103–239, title II, §216, May 4, 1994, 108 Stat. 591.)
 

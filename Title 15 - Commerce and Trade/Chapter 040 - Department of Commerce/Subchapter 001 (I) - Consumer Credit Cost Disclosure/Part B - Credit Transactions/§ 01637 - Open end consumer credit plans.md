@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribedby the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -168,7 +168,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;&emsp;(i) the disclosures required by paragraphs (1) through (6) of subsection (a) of this section;
 
-&emsp;&emsp;&emsp;(ii) the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously<sup>1</sup> (except that the provisions of section 1632(c) of this title shall not apply); and
+&emsp;&emsp;&emsp;(ii) the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously <sup>1</sup> (except that the provisions of section 1632(c) of this title shall not apply); and
 
 &emsp;&emsp;&emsp;(iii) a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided.
 
@@ -236,11 +236,11 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;&emsp;(iii) approval by the charge card issuer does not constitute approval by the issuer of the extension of credit.
 
-> &emsp;&emsp;The information required to be disclosed under paragraph (1) shall be provided to the charge card holder by the creditor which maintains such open end consumer credit plan before the first extension of credit under such plan.
+> &emsp;&emsp;The information required to be disclosed under paragraph (1) shall be provided to thecharge card holder by the creditor which maintains such open end consumer credit plan before the first extension of credit under such plan.
 
 #### (E) Charge card defined
 
-&emsp;&emsp;For the purposes of this subsection, the term “charge card” means a card, plate, orother single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
+&emsp;&emsp;For the purposes of this subsection, the term “charge card” means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
 
 #### (5) Regulatory authority of the Board
 
@@ -316,63 +316,63 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 &emsp;The Board shall define, in regulations, what constitutes a “substantial decrease in coverage or service” for purposes of paragraph (1).
 
-(Pub. L. 90 321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93 495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96 221, title VI, §613(a) (e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100 583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100 709, §2(b), Nov. 23, 1988, 102 Stat. 4729.)
+(Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729.)
 
 #### Amendments
 
-1988—Subsec. (a)(8). Pub. L. 100 709 added par. (8).
+1988—Subsec. (a)(8). Pub. L. 100–709 added par. (8).
 
-Subsecs. (c) to (f). Pub. L. 100 583, §2(a), added subsecs. (c) to (f).
+Subsecs. (c) to (f). Pub. L. 100–583, §2(a), added subsecs. (c) to (f).
 
-Subsec. (g). Pub. L. 100 583, §6, added subsec. (g).
+Subsec. (g). Pub. L. 100–583, §6, added subsec. (g).
 
-1980—Subsec. (a)(1). Pub. L. 96 221, §613(a)(1), inserted provisions requiring the creditor to disclose that no time period is provided.
+1980—Subsec. (a)(1). Pub. L. 96–221, §613(a)(1), inserted provisions requiring the creditor to disclose that no time period is provided.
 
-Subsec. (a)(5). Pub. L. 96 221, §613(a)(2), (3), redesignated par. (6) as (5) and inserted provisions relating to identification of other charges, and regulations by the Board. Former par. (5), relating to elective rights of the creditor, was struck out.
+Subsec. (a)(5). Pub. L. 96–221, §613(a)(2), (3), redesignated par. (6) as (5) and inserted provisions relating to identification of other charges, and regulations by the Board. Former par. (5), relating to elective rights of the creditor, was struck out.
 
-Subsec. (a)(6). Pub. L. 96 221, §613(a)(2), (3), redesignated par. (7) as (6) and revised nomenclature and expanded statement requirements. Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 96–221, §613(a)(2), (3), redesignated par. (7) as (6) and revised nomenclature and expanded statement requirements. Former par. (6) redesignated (5).
 
-Subsec. (a)(7), (8). Pub. L. 96 221, §613(a)(2), (d), redesignated par. (8) as (7) and substituted provisions relating to one billing cycle per calendar year, for provisions relating to each of two billing cycles per year. Former par. (7) redesignated (6).
+Subsec. (a)(7), (8). Pub. L. 96–221, §613(a)(2), (d), redesignated par. (8) as (7) and substituted provisions relating to one billing cycle per calendar year, for provisions relating to each of two billing cycles per year. Former par. (7) redesignated (6).
 
-Subsec. (b)(2). Pub. L. 96 221, §613(b), inserted provisions relating to failure of the creditor to disclose information in accordance with this paragraph, and made minor changes in phraseology.
+Subsec. (b)(2). Pub. L. 96–221, §613(b), inserted provisions relating to failure of the creditor to disclose information in accordance with this paragraph, and made minor changes in phraseology.
 
-Subsec. (b)(7) to (11). Pub. L. 96 221, §613(c), struck out par. (7) which related to elective rights of the creditor, and redesignated pars. (8) to (11) as (7) to (10), respectively.
+Subsec. (b)(7) to (11). Pub. L. 96–221, §613(c), struck out par. (7) which related to elective rights of the creditor, and redesignated pars. (8) to (11) as (7) to (10), respectively.
 
-Subsec. (c). Pub. L. 96 221, §613(e), struck out subsec. (c) which related to the time for making disclosures with respect to open end consumer credit plans having an outstanding balance of more than $1 at or after the close of the first full billing cycle.
+Subsec. (c). Pub. L. 96–221, §613(e), struck out subsec. (c) which related to the time for making disclosures with respect to open end consumer credit plans having an outstanding balance of more than $1 at or after the close of the first full billing cycle.
 
-1974—Subsec. (a)(1). Pub. L. 93 495, §415(1), inserted exception relating to nonimposition of a finance charge at the election of the creditor and without disclosure.
+1974—Subsec. (a)(1). Pub. L. 93–495, §415(1), inserted exception relating to nonimposition of a finance charge at the election of the creditor and without disclosure.
 
-Subsec. (a)(8). Pub. L. 93 495, §304(a), added par. (8).
+Subsec. (a)(8). Pub. L. 93–495, §304(a), added par. (8).
 
-Subsec. (b)(2). Pub. L. 93 495, §411, substituted provisions requiring a brief identification on or accompanying the statement of credit extension sufficient to enable the obligor to identify the transaction or relate it to copies of sales vouchers or similar instruments previously furnished, for provisions requiring for purchases a brief identification, unless previously furnished, of the goods or services purchased.
+Subsec. (b)(2). Pub. L. 93–495, §411, substituted provisions requiring a brief identification on or accompanying the statement of credit extension sufficient to enable the obligor to identify the transaction or relate it to copies of sales vouchers or similar instruments previously furnished, for provisions requiring for purchases a brief identification, unless previously furnished, of the goods or services purchased.
 
-Subsec. (b)(10). Pub. L. 93 495, §415(2), inserted exception relating to nonimposition of additional finance charge at the election of the creditor and without disclosure.
+Subsec. (b)(10). Pub. L. 93–495, §415(2), inserted exception relating to nonimposition of additional finance charge at the election of the creditor and without disclosure.
 
-Subsec. (b)(11). Pub. L. 93 495, §305, added par. (11).
+Subsec. (b)(11). Pub. L. 93–495, §305, added par. (11).
 
-Subsec. (c). Pub. L. 93 495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
+Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
 
 #### Effective Date of 1988 Amendment
 
-For effective date of amendments by Pub. L. 100 709, see Regulations; Effective Date note below.
+For effective date of amendments by Pub. L. 100–709, see Regulations; Effective Date note below.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 
-For effective date of amendment by sections 304 and 305 of Pub. L. 93 495, see section 308 of Pub. L. 93 495, set out as an Effective Date note under section 1666 of this title.
+For effective date of amendment by sections 304 and 305 of Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
-For effective date of amendment by section 411 of Pub. L. 93 495, see section 416 of Pub. L. 93 495, set out as an Effective Date note under section 1665a of this title.
+For effective date of amendment by section 411 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
-Amendment by section 415 of Pub. L. 93 495 effective Oct. 28, 1974, see section 416 of Pub. L. 93 495, set out as an Effective Date note under section 1665a of this title.
+Amendment by section 415 of Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
 #### Regulations; Effective Date
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100 709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100 709, set out as a note under section 1637a of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-Section 7 of Pub. L. 100 583 provided that: “Any regulation required to be prescribed by the Board under the amendments made by section 2 \[amending this section and section 1632 of this title\] shall—
+Section 7 of Pub. L. 100–583 provided that: “Any regulation required to be prescribed by the Board under the amendments made by section 2 \[amending this section and section 1632 of this title\] shall—
 
 &emsp;“(1) take effect not later than the end of the 150-day period beginning on the date of the enactment of this Act \[Nov. 3, 1988\]; and
 
@@ -384,11 +384,11 @@ Section 7 of Pub. L. 100 583 provided that: “Any regulation required to be pre
 
 #### Reports to Congress
 
-Section 8 of Pub. L. 100 583 provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability.”
+Section 8 of Pub. L. 100–583 provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1602, 1610, 1632, 1640, 1643, 1646, 1666 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “conspicuously”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
 

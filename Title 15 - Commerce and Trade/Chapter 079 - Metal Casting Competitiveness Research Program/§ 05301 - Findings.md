@@ -16,9 +16,9 @@ The Congress finds that—
 
 &emsp;(7) by combining the resources of the Federal Government, universities, industry, and private organizations, to conduct research and development activities, substantial technological benefits will result to the metal casting industry.
 
-(Pub. L. 101 425, §2, Oct. 15, 1990, 104 Stat. 915.)
+(Pub. L. 101–425, §2, Oct. 15, 1990, 104 Stat. 915.)
 
 #### Short Title
 
-Section 1 of Pub. L. 101 425 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Department of Energy Metal Casting Competitiveness Research Act of 1990’.”
+Section 1 of Pub. L. 101–425 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Department of Energy Metal Casting Competitiveness Research Act of 1990’.”
 

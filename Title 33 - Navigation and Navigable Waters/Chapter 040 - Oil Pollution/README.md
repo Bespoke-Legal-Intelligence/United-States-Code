@@ -93,6 +93,10 @@
 | (c) | Additional requirements and liabilities; penalties. |
 | (d) | Federal employee liability. |
 | [2719\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002719%20-%20State%20financial%20responsibility.md) | State financial responsibility. |
+| [2720\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002720%20-%20Differentiation%20among%20fats%2C%20oils%2C%20and%20greases.md) | Differentiation among fats, oils, and greases. |
+| (a) | In general. |
+| (b) | Considerations. |
+| (c) | Exception. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

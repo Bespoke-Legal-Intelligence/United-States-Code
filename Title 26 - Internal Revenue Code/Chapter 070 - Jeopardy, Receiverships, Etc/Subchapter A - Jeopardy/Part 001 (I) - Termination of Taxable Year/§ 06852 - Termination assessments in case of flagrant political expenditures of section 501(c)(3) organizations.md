@@ -22,7 +22,7 @@
 
 #### (4) Section inapplicable to assessments after due date
 
-&emsp;This section shall not authorize any assessment of tax for the preceding taxable yearwhich is made after the due date of the organization's return for such taxable year (determined with regard to any extensions).
+&emsp;This section shall not authorize any assessment of tax for the preceding taxable year which is made after the due date of the organization's return for such taxable year (determined with regard to any extensions).
 
 #### (b) Definitions and special rules
 

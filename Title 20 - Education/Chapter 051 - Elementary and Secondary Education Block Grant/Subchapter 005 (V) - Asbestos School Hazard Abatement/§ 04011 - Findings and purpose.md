@@ -36,25 +36,25 @@ It is the purpose of this subchapter to—
 
 &emsp;(4) assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 
-(Pub. L. 98 377, title V, §502, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 101 637, §14(a)(2), (b)(1), (2), Nov. 28, 1990, 104 Stat. 4594, 4595.)
+(Pub. L. 98–377, title V, §502, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 101–637, §14(a)(2), (b)(1), (2), Nov. 28, 1990, 104 Stat. 4594, 4595.)
 
 #### Amendments
 
-1990—Pub. L. 101 637, §14(a)(2), made technical amendment to section catchline.
+1990—Pub. L. 101–637, §14(a)(2), made technical amendment to section catchline.
 
-Subsecs. (a), (b). Pub. L. 101 637, §14(b)(1), (2), inserted headings.
+Subsecs. (a), (b). Pub. L. 101–637, §14(b)(1), (2), inserted headings.
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101 637 provided that: “This Act \[enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
+Section 1 of Pub. L. 101–637 provided that: “This Act \[enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
 
 #### Short Title
 
-Section 501 of title V of Pub. L. 98 377, as amended by Pub. L. 101 637, §14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
+Section 501 of title V of Pub. L. 98–377, as amended by Pub. L. 101–637, §14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
 
 #### Findings and Purposes
 
-Section 2 of Pub. L. 101 637 provided that:
+Section 2 of Pub. L. 101–637 provided that:
 
 “(a)
 

@@ -30,7 +30,7 @@ In the case of an insolvent employer undergoing liquidation or dissolution, the 
 
 &emsp;(1) 50 percent of the unfunded vested benefits allocable to the employer (determined without regard to this section), and
 
-&emsp;(2) that portion of 50 percent of the unfunded vested benefits allocable to the employer (as determined under paragraph (1)) which doesnot exceed the liquidation or dissolution value of the employer determined—
+&emsp;(2) that portion of 50 percent of the unfunded vested benefits allocable to the employer (as determined under paragraph (1)) which does not exceed the liquidation or dissolution value of the employer determined—
 
 &emsp;&emsp;(A) as of the commencement of liquidation or dissolution, and
 

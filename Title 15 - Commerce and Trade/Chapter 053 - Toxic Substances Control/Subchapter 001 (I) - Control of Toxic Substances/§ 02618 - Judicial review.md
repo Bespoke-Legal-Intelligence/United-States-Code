@@ -12,7 +12,7 @@
 
 &emsp;(A) the rule being reviewed under this section;
 
-&emsp;(B) in the case of a rule under section 2603(a) of this title, the finding required by such section, in the case of a rule under section 2604(b)(4) of this title, the finding required by such section, in the case of a rule under section 2605(a) of this title the finding required by section 2604(f) or 2605(a) of this title, as the case may be, in the case of a rule under section 2605(a) of this title, the statement required by section 2605(c)(1) of this title, and in the case of a rule under section 2605(e) of this title, the findings required by paragraph (2)(B) or (3)(B) of such section, as the case may be<sup>1</sup> and in the case of a rule under subchapter IV, of this chapter, the finding required for the issuance of such a rule;
+&emsp;(B) in the case of a rule under section 2603(a) of this title, the finding required by such section, in the case of a rule under section 2604(b)(4) of this title, the finding required by such section, in the case of a rule under section 2605(a) of this title the finding required by section 2604(f) or 2605(a) of this title, as the case may be, in the case of a rule under section 2605(a) of this title, the statement required by section 2605(c)(1) of this title, and in the case of a rule under section 2605(e) of this title, the findings required by paragraph (2)(B) or (3)(B) of such section, as the case may be <sup>1</sup> and in the case of a rule under subchapter IV, of this chapter, the finding required for the issuance of such a rule;
 
 &emsp;(C) any transcript required to be made of oral presentations made in proceedings for the promulgation of such rule;
 
@@ -62,19 +62,19 @@ The decision of the court in an action commenced under subsection (a) of this se
 
 The remedies as provided in this section shall be in addition to and not in lieu of any other remedies provided by law.
 
-(Pub. L. 94 469, title I, §19, Oct. 11, 1976, 90 Stat. 2039; renumbered title I and amended Pub. L. 99 519, §3(b)(2), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102 550, title X, §1021(b)(8), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, §19, Oct. 11, 1976, 90 Stat. 2039; renumbered title I and amended Pub. L. 99–519, §3(b)(2), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(8), Oct. 28, 1992, 106 Stat. 3923.)
 
 #### Amendments
 
-1992—Subsec. (a)(1)(A). Pub. L. 102 550, §1021(b)(8)(A), substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter”.
+1992—Subsec. (a)(1)(A). Pub. L. 102–550, §1021(b)(8)(A), substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter”.
 
-Subsec. (a)(3)(B). Pub. L. 102 550, §1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule”.
+Subsec. (a)(3)(B). Pub. L. 102–550, §1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule”.
 
-1986—Subsec. (a)(1)(A). Pub. L. 99 519 inserted reference to subchapter II of this chapter.
+1986—Subsec. (a)(1)(A). Pub. L. 99–519 inserted reference to subchapter II of this chapter.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2605 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

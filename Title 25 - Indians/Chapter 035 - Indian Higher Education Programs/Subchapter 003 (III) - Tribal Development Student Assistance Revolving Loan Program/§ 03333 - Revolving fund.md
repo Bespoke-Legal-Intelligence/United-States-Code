@@ -4,7 +4,7 @@
 
 #### (1) Tribes and tribal organizations
 
-&emsp;Funds received under a grant under this subchapter or recovered under the provisions of section 3336(a)(2)(B) of this title shall be identified and accounted for separately from any other tribal or Federal funds received from the Federal Government. All funds in this account shall be used for the purposes of this subchapter.
+&emsp;Funds received under a grant under this subchapter or recovered under the provisions ofsection 3336(a)(2)(B) of this title shall be identified and accounted for separately from any other tribal or Federal funds received from the Federal Government. All funds in this account shall be used for the purposes of this subchapter.
 
 #### (2) Financial procedures
 

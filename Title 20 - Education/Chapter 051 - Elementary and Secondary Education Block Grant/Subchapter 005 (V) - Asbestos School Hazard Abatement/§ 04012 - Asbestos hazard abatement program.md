@@ -22,17 +22,17 @@ The duties of the Administrator in implementing and effectuating the Program sha
 
 &emsp;(4) the review of applications for financial assistance, and the approval or disapproval of such applications, in accordance with the provisions of section 4014 of this title.
 
-(Pub. L. 98 377, title V, §503, Aug. 11, 1984, 98 Stat. 1288; Pub. L. 101 637, §§4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
+(Pub. L. 98–377, title V, §503, Aug. 11, 1984, 98 Stat. 1288; Pub. L. 101–637, §§4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
 
 #### Amendments
 
-1990—Pub. L. 101 637, §14(a)(3), made technical amendment to section catchline.
+1990—Pub. L. 101–637, §14(a)(3), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 101 637, §14(b)(3), inserted heading and struck out par. (1) designation before “There is hereby established”.
+Subsec. (a). Pub. L. 101–637, §14(b)(3), inserted heading and struck out par. (1) designation before “There is hereby established”.
 
-Subsec. (b). Pub. L. 101 637, §14(b)(4), inserted heading.
+Subsec. (b). Pub. L. 101–637, §14(b)(4), inserted heading.
 
-Subsec. (b)(2). Pub. L. 101 637, §4(1), (2), substituted “educational agencies” for “agencies” and “institutions, including parent and employee organizations,” for “institutions”.
+Subsec. (b)(2). Pub. L. 101–637, §4(1), (2), substituted “educational agencies” for “agencies” and “institutions, including parent and employee organizations,” for “institutions”.
 
-Subsec. (b)(3). Pub. L. 101 637, §4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and”.
+Subsec. (b)(3). Pub. L. 101–637, §4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and”.
 

@@ -2,7 +2,7 @@
 
 For the purpose of carrying out this chapter there is authorized to be appropriated an amount not to exceed $8,600,000 for the fiscal year ending September 30, 1982, not to exceed $21,000,000 for fiscal year 1993, not to exceed $22,500,000 for fiscal year 1994, not to exceed $24,000,000 for fiscal year 1995, and not to exceed $26,000,000 for fiscal year 1996. Funds appropriated under this section may be expended by the Secretary without regard to sections 501 and 3702 of title 44. Funds appropriated under this section for the printing of travel promotional materials shall remain available for 2 fiscal years.
 
-(Pub. L. 87–63, title III, §304, formerly §6, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §4, Oct. 21, 1970, 84 Stat. 1072; Pub. L. 93–193, §1(a), Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, §1, July 9, 1975, 89 Stat. 262; Pub. L. 96–85, §1, Oct. 10, 1979, 93 Stat. 655; renumbered and amended Pub. L. 97–63, §5(a), Oct. 16, 1981, 95 Stat. 1018; Pub. L. 102–372, §17, Sept. 30, 1992, 106 Stat. 1181.)
+(Pub. L. 87–63, title III, §304, formerly §6, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §4, Oct. 21,1970, 84 Stat. 1072; Pub. L. 93–193, §1(a), Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, §1, July 9, 1975, 89 Stat. 262; Pub. L. 96–85, §1, Oct. 10, 1979, 93 Stat. 655; renumbered and amended Pub. L. 97–63, §5(a), Oct. 16, 1981, 95 Stat. 1018; Pub. L. 102–372, §17, Sept. 30, 1992, 106 Stat. 1181.)
 
 #### Amendments
 

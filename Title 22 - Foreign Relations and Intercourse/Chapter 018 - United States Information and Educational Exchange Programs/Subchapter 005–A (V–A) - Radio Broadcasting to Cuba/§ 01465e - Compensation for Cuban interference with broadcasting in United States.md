@@ -22,7 +22,7 @@ Funds appropriated for implementation of this section shall be available for a p
 
 #### (f) Presidential task force
 
-It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation ofCuban radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
+It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
 
 #### (g) Effective Date
 

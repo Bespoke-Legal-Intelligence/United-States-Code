@@ -6,7 +6,7 @@ Each consortium that desires to receive a grant under this part shall submit an 
 
 #### (b) Three-year plan
 
-Each application submitted under this section shall contain a 3-year plan for the developmentand implementation of activities under this part.
+Each application submitted under this section shall contain a 3-year plan for the development and implementation of activities under this part.
 
 #### (c) Approval
 
@@ -32,9 +32,9 @@ In making grants under this part, the Secretary shall ensure an equitable distri
 
 (2) The Secretary shall notify the State educational agency, the State agency for higher education, and the State council on vocational education of any State each time a consortium located in such State is selected to receive a grant under this part.
 
-(Pub. L. 88 210, title III, §345, as added Pub. L. 101 392, title III, §308, Sept. 25, 1990, 104 Stat. 791; amended Pub. L. 103 239, title VII, §711(b), May 4, 1994, 108 Stat. 606.)
+(Pub. L. 88–210, title III, §345, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 791; amended Pub. L. 103–239, title VII, §711(b), May 4, 1994, 108 Stat. 606.)
 
 #### Amendments
 
-1994—Subsec. (d)(2). Pub. L. 103 239 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “are developed in consultation with business, industry, and labor unions; and”.
+1994—Subsec. (d)(2). Pub. L. 103–239 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “are developed in consultation with business, industry, and labor unions; and”.
 

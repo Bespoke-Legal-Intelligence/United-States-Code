@@ -10,7 +10,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 &emsp;&emsp;(B) the International Trade Commission;
 
-&emsp;(2) the President has submitted a report to the Committee on Ways and Means of theHouse of Representatives and the Committee on Finance of the Senate that sets forth—
+&emsp;(2) the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth—
 
 &emsp;&emsp;(A) the action proposed to be proclaimed and the reasons therefor, and
 
@@ -29,6 +29,26 @@ Any action proclaimed by the President under the authority of this Act that is n
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+
+#### Delegation of Authority
+
+Memorandum of President of the United States, Sept. 29, 1995, 60 F.R. 52061, provided:
+
+Memorandum for the United States Trade Representative
+
+By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority set forth in section 103(a) of the North American Free Trade Agreement Implementation Act (“NAFTA Act”) \[19 U.S.C. 3313(a)\] and section 115 of the Uruguay Round Agreements Act (“Uruguay Round Act”) \[19 U.S.C. 3524\] to perform certain functions in order to fulfill the consultation and layover requirements set forth in those provisions, including:
+
+(1) obtaining advice from the appropriate advisory committees and the U.S. International Trade Commission on the proposed implementation of an action by Presidential proclamation;
+
+(2) submitting a report on such action to the House Ways and Means and Senate Finance Committees; and
+
+(3) consulting with such committees during the 60-day period following the date on which the requirements under (1) and (2) have been met.
+
+The President retains the sole authority under the NAFTA Act \[Pub. L. 103–182, see Tables for classification\] and Uruguay Round Act \[Pub. L. 103–465, see Tables for classification\] to implement an action by proclamation after the consultation and layover requirements set forth in section 103(a)(1) through (4) and section 115 of such Acts, respectively, have been met.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Termination of NAFTA Status
 

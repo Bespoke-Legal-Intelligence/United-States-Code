@@ -54,7 +54,7 @@ In any fiscal year in which the services provided under this part are reduced, t
 
 (2) To the extent practicable and without undue delay, the Director shall ensure that a volunteer under this section is assigned to the vacancy created within the relevant literacy project or program established under this section.
 
-(Pub. L. 93–113, title I, §109, as added Pub. L. 99–551, §4(a), Oct. 27, 1986, 100 Stat. 3072; amendedPub. L. 101–204, title VI, §601, Dec. 7, 1989, 103 Stat. 1819; Pub. L. 103–82, title III, §327, Sept. 21, 1993, 107 Stat. 902.)
+(Pub. L. 93–113, title I, §109, as added Pub. L. 99–551, §4(a), Oct. 27, 1986, 100 Stat. 3072; amended Pub. L. 101–204, title VI, §601, Dec. 7, 1989, 103 Stat. 1819; Pub. L. 103–82, title III, §327, Sept. 21, 1993, 107 Stat. 902.)
 
 #### References in Text
 

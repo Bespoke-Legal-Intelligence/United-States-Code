@@ -28,13 +28,13 @@ Each such application shall—
 
 &emsp;(10) contain such other assurances as the State may reasonably require.
 
-(Pub. L. 89 329, title V, §574, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 705.)
+(Pub. L. 89–329, title V, §574, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 705.)
 
 #### Prior Provisions
 
-A prior section 1111c, Pub. L. 89 329, title V, §554, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1508, related to amount and duration of assistance under Congressional teacher fellowships and relationship of such assistance to other assistance, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1111c, Pub. L. 89–329, title V, §554, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1508, related to amount and duration of assistance under Congressional teacher fellowships and relationship of such assistance to other assistance, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 574 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2899, provided for selection of recipients of talented teacher fellowships and was classified to section 1119e 3 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 574 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2899, provided for selection of recipients of talented teacher fellowships and was classified to section 1119e–3 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Section Referred to in Other Sections
 

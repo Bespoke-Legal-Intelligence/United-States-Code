@@ -3,10 +3,10 @@
 | Sec. |  |
 | :--- | ---: |
 | \[5941. | Repealed.\] |
-| 5942\. | Aviation commands: eligibility. |
-| 5943\. | Naval shipyards. |
-| 5944\. | Marine Corps officers: limitation on power to command. |
-| 5945\. | Staff corps officers: limitation on power to command. |
+| [5942\.](%C2%A7%2005942%20-%20Aviation%20commands%20eligibility.md) | Aviation commands: eligibility. |
+| [5943\.](%C2%A7%2005943%20-%20Naval%20shipyards.md) | Naval shipyards. |
+| [5944\.](%C2%A7%2005944%20-%20Marine%20Corps%20officers%20limitation%20on%20power%20to%20command.md) | Marine Corps officers: limitation on power to command. |
+| [5945\.](%C2%A7%2005945%20-%20Staff%20corps%20officers%20limitation%20on%20power%20to%20command.md) | Staff corps officers: limitation on power to command. |
 | [5946\.](%C2%A7%2005946%20-%20Precedence%20accorded%20commanding%20officers.md) | Precedence accorded commanding officers. |
 | [5947\.](%C2%A7%2005947%20-%20Requirement%20of%20exemplary%20conduct.md) | Requirement of exemplary conduct. |
 | [5948\.](%C2%A7%2005948%20-%20Consular%20powers%20senior%20officer%20present%20afloat.md) | Consular powers: senior officer present afloat. |

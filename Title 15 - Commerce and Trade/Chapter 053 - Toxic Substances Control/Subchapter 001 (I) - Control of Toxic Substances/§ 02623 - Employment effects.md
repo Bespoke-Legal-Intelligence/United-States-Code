@@ -32,5 +32,5 @@ The Administrator shall evaluate on a continuing basis the potential effects on 
 
 (4) This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.
 
-(Pub. L. 94 469, title I, §24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 

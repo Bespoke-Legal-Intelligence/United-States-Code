@@ -2,15 +2,17 @@
 
 #### Codification
 
-This subchapter was classified to part G (§3161 et seq.) of subchapter IV of chapter 47 of this title prior to its renumbering by Pub. L. 103 252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649.
+This subchapter was classified to part G (§3161 et seq.) of subchapter IV of chapter 47 of this title prior to its renumbering by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649.
 
 #### Prior Provisions
 
-A prior subchapter V, consisting of sections 1234 to 1234i, was renumbered subchapter IV by Pub. L. 103 382, title II, §212(b)(2), Oct. 20, 1994, 108 Stat. 3913.
+A prior subchapter V, consisting of sections 1234 to 1234i, was renumbered subchapter IV by Pub. L. 103–382, title II, §212(b)(2), Oct. 20, 1994, 108 Stat. 3913.
 
 #### Cross Reference
 
 For similar provisions related to ready-to-learn television, see section 6921 et seq. of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

@@ -32,7 +32,7 @@
 
 (2) Each agency may accept any financial incentive, goods, or services generally available from any such utility, to increase energy efficiency or to conserve water or manage electricity demand.
 
-(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand management and conservation incentive programs to address the unique needs of facilities utilized by such agency.
+(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand managementand conservation incentive programs to address the unique needs of facilities utilized by such agency.
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 
@@ -77,6 +77,20 @@ Subsec. (b). Pub. L. 102–486, §152(f)(4), added subsec. (b). Former subsec. (
 Subsecs. (c), (d). Pub. L. 102–486, §152(f)(3), (4), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The portion of the funds appropriated to an agency for energy expenses for a fiscal year that is equal to the amount of cost savings realized by such agency for such year from contracts entered into under subchapter VII of this chapter shall remain available for obligation, without further appropriation, to undertake additional energy conservation measures.”
 
 1988—Pub. L. 100–615 amended section generally, substituting statement of incentives for agencies for provisions relating to energy performance targets for Federal buildings.
+
+#### Energy Efficiency and Water Conservation Measures; Use of Rebates and Savings
+
+Pub. L. 104–52, title VI, §625, Nov. 19, 1995, 109 Stat. 502, provided that:
+
+“(a) Beginning in fiscal year 1996 and thereafter, for each Federal agency, except the Department of Defense (which has separate authority), and except as provided in Public Law 102–393, title IV, section 13 (40 U.S.C. 490g) with respect to the Fund established pursuant to 40 U.S.C. 490(f), an amount equal to 50 percent of—
+
+&emsp;“(1) the amount of each utility rebate received by the agency for energy efficiency and water conservation measures, which the agency has implemented; and
+
+&emsp;“(2) the amount of the agency's share of the measured energy savings resulting from energy-savings performance contracts,
+
+> may be retained and credited to accounts that fund energy and water conservation activities at the agency's facilities, and shall remain available until expended for additional specific energy efficiency or water conservation projects or activities, including improvements and retrofits, facility surveys, additional or improved utility metering, and employee training and awareness programs, as authorized by section 152(f) of the Energy Policy Act (Public Law 102–486) \[amending this section\].
+
+“(b) The remaining 50 percent of each rebate, and the remaining 50 percent of the amount of the agency's share of savings from energy-savings performance contracts, shall be transferred to the General Fund of the Treasury at the end of the fiscal year in which received.”
 
 #### Section Referred to in Other Sections
 

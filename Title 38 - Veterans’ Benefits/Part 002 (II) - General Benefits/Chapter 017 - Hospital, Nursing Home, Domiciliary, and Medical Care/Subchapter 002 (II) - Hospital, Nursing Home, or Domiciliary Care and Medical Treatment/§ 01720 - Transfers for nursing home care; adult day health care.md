@@ -44,7 +44,7 @@
 
 (c) In applying the provisions of section 2(b)(1) of the Service Contract Act of 1965 (41 U.S.C. 351(b)(1)) with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b)) shall be deemed to constitute compliance with such provisions.
 
-(d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and whois currently receiving medical services as part of home health services from the Department.
+(d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and who is currently receiving medical services as part of home health services from the Department.
 
 (2) Direct admission authorized by paragraph (1) of this subsection may be authorized upon determination of need therefor—
 
@@ -116,7 +116,7 @@ Pub. L. 102–83, §4(a)(2)(A)(ii), substituted “Secretary” for “Veterans�
 
 Subsec. (f)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1988—Subsec. (e)(1). Pub. L. 100–322, §103(b), struck out “For the purposes of this section, the term ‘nursinghome care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in section 101(28) of this title)” after “provided for nursing home care”.
+1988—Subsec. (e)(1). Pub. L. 100–322, §103(b), struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in section 101(28) of this title)” after “provided for nursing home care”.
 
 Subsec. (f)(3). Pub. L. 100–322, §111(a), substituted “September 30, 1991” for “September 30, 1988”.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Comparison Study Between Adult Day Health Care and Nursing Home Care
 
-Section 111(b), (c) of Pub. L. 100–322 directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care undersubsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
+Section 111(b), (c) of Pub. L. 100–322 directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and Houseof Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
 
 Section 103(b), (c) of Pub. L. 98–160, which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by Pub. L. 100–322, title I, §111(d), May 20, 1988, 102 Stat. 499.
 

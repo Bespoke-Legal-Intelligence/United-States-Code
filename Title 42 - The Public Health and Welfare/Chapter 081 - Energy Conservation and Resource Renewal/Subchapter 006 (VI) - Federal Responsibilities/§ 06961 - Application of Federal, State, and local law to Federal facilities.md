@@ -210,7 +210,7 @@ Sec. 504. <i>Minimum Content Standard for Printing and Writing Paper</i>. Execut
 
 (b) For other uncoated printing and writing paper, such as writing and office paper, book paper, cotton fiber paper, and cover stock, the minimum content standard shall be 50 percent recovered materials, including 20 percent postconsumer materials beginning on December 31, 1994. This standard shall be increased to 30 percent beginning on December 31, 1998.
 
-(c) As an alternative to meeting the standards in sections 504(a) and (b), for all printing and writing papers, the minimum content standard shall be no less than 50 percent recovered materials that are a waste material byproduct of a finished product other than a paper or textile product which would otherwise be disposed of in a landfill, as determined by the State in which the facility is located.
+(c) As an alternative to meeting the standards in sections 504(a) and (b), for all printing and writing papers, the minimum content standard shall be no less than 50percent recovered materials that are a waste material byproduct of a finished product other than a paper or textile product which would otherwise be disposed of in a landfill, as determined by the State in which the facility is located.
 
 (1) The decision not to procure recycled content printing and writing paper meeting the standards specified in this section shall be based solely on a determination by the contracting officer that a satisfactory level of competition does not exist, that the items are not available within a reasonable time period, or that the available items fail to meet reasonable performance standards established by the agency or are only available at an unreasonable price.
 

@@ -8,7 +8,7 @@
 
 #### (2) Minimum
 
-&emsp;No State educational agency shall be eligible to receive a grant under paragraph (1) in any fiscal year in an amount which is less than one-half of one percent of the amount made available under section 6814(a)(1)(C)<sup>1</sup> of this title for such year.
+&emsp;No State educational agency shall be eligible to receive a grant under paragraph (1) in any fiscal year in an amount which is less than one-half of one percent of the amount made available under section 6814(a)(1)(C) <sup>1</sup> of this title for such year.
 
 #### (b) Reallotment of unused funds
 
@@ -20,15 +20,15 @@
 
 &emsp;The total of reductions under paragraph (1) shall be similarly reallotted among the State educational agencies whose proportionate amounts were not so reduced. Any amounts reallotted to a State educational agency under this subsection during a year shall be deemed a subpart of such agencies allotment under subsection (a) of this section for such year.
 
-(Pub. L. 89 10, title III, §3131, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3644.)
+(Pub. L. 89–10, title III, §3131, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3644.)
 
 #### References in Text
 
-Section 6814(a)(1)(C) of this title, referred to in subsec. (a)(2), was in the original “section 3115(a)(1)(C)”, meaning section 3115(a)(1)(C) of Pub. L. 89 10, which was translated as reading section 3114(a)(1)(C) of that Act to reflect the probable intent of Congress because section 3115 does not contain subsections, and section 3114(a)(1)(C) makes amounts available for allotment under this section.
+Section 6814(a)(1)(C) of this title, referred to in subsec. (a)(2), was in the original “section 3115(a)(1)(C)”, meaning section 3115(a)(1)(C) of Pub. L. 89–10, which was translated as reading section 3114(a)(1)(C) of that Act to reflect the probable intent of Congress because section 3115 does not contain subsections, and section 3114(a)(1)(C) makes amounts available for allotment under this section.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6814, 6842 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Short Title
 
-Section 105 of title I of Pub. L. 85–155 provided that: “This title \[amending this section and sections 3070,3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, and 3991 of this title\] may be cited as the ‘Army Nurse and Medical Specialist Act of 1957’.”
+Section 105 of title I of Pub. L. 85–155 provided that: “This title \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, and 3991 of this title\] may be cited as the ‘Army Nurse and Medical Specialist Act of 1957’.”
 
 #### Savings Provision
 
@@ -60,7 +60,7 @@ Section 104 of Pub. L. 85–155 provided that:
 
 “(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who is on a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
 
-“(e) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who, on the effective date of this Act \[Aug. 21, 1957\], has been nominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade.”
+“(e) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or theArmy Medical Specialist Corps, Regular Army, who, on the effective date of this Act \[Aug. 21, 1957\], has been nominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade.”
 
 #### Authority To Suspend Mandatory Retirement, Discharge, Separation, or Transfer From Active Status
 

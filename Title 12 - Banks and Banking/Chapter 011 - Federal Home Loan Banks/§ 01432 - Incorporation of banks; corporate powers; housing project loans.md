@@ -18,7 +18,7 @@ Section 2184 of title 22, referred to in subsec. (b), which related to housing p
 
 1968—Pub. L. 90–448 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1966—Pub. L. 89–754 substituted “but, except with the prior approval of the board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease” for “but no bank buildingshall be bought or erected to house any such bank, nor shall any such bank make any lease” in second sentence.
+1966—Pub. L. 89–754 substituted “but, except with the prior approval of the board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease” for “but no bank building shall be bought or erected to house any such bank, nor shall any such bank make any lease” in second sentence.
 
 #### Cross References
 

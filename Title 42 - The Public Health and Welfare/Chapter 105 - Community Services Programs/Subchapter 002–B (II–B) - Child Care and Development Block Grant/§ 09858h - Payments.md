@@ -12,7 +12,7 @@ Subject to the availability of appropriations, a State that has an application a
 
 #### (2) Limitation
 
-&emsp;The Secretary may not make such payments in a manner that prevents the State from complying with the requirement specified in section 9858c(c)(3) of this title.
+&emsp;The Secretary may not make such payments in a manner that prevents the State fromcomplying with the requirement specified in section 9858c(c)(3) of this title.
 
 #### (c) Spending of funds by State
 

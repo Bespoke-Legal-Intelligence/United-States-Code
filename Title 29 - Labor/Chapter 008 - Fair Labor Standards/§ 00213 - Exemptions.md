@@ -14,7 +14,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(5) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
 
-&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent,spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
+&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
@@ -38,9 +38,9 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 The provisions of section 207 of this title shall not apply with respect to—
 
-&emsp;(1) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 3102 of title 49; or
+&emsp;(1) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49; or
 
-&emsp;(2) any employee of an employer engaged in the operation of a common carrier by rail and subject to the provisions of subchapter I of chapter 105 of title 49; or
+&emsp;(2) any employee of an employer engaged in the operation of a rail carrier subject to part A of subtitle IV of title 49; or
 
 &emsp;(3) any employee of a carrier by air subject to the provisions of title II of the Railway Labor Act \[45 U.S.C. 181 et seq.\]; or
 
@@ -146,7 +146,7 @@ The provisions of section 207 of this title shall not apply with respect to empl
 
 #### (f) Employment in foreign countries and certain United States territories
 
-The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
+The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreigncountry or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
@@ -204,7 +204,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Aug. 30, 1957, Pub. L. 85–231, §1(1), 71 Stat. 514; July 12, 1960, Pub. L. 86–624, §21(b), 74 Stat. 417; May 5, 1961, Pub. L. 87–30, §§9, 10, 75 Stat. 71, 74; Sept. 23, 1966, Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), 80 Stat. 833–838; Oct. 15, 1966, Pub. L. 89–670, §8(e), 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; June 23, 1972, Pub. L. 92–318, title IX, §906(b)(1), 86 Stat. 375; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), 88 Stat. 61–69, 72; Nov. 1, 1977, Pub. L. 95–151, §§4–8, 9(d), 11, 14, 91 Stat. 1249, 1250–1252; Sept. 27, 1979, Pub. L. 96–70, title I, §1225(a), 93 Stat. 468; Nov. 17, 1989, Pub. L. 101–157, §3(c), 103 Stat. 939; Sept. 30, 1994, Pub. L. 103–329, title VI, §633(d), 108 Stat. 2428.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Aug. 30, 1957, Pub. L. 85–231, §1(1), 71 Stat. 514; July 12, 1960, Pub. L. 86–624, §21(b), 74 Stat. 417; May 5, 1961, Pub. L. 87–30, §§9, 10, 75 Stat. 71, 74; Sept. 23, 1966, Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), 80 Stat. 833–838; Oct. 15, 1966, Pub. L. 89–670, §8(e), 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; June 23, 1972, Pub. L. 92–318, title IX, §906(b)(1), 86 Stat. 375; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), 88 Stat. 61–69, 72; Nov. 1, 1977, Pub. L. 95–151, §§4–8, 9(d), 11, 14, 91 Stat. 1249, 1250–1252; Sept. 27, 1979, Pub. L. 96–70, title I, §1225(a), 93 Stat. 468; Nov. 17, 1989, Pub. L. 101–157, §3(c), 103 Stat. 939; Sept. 30, 1994, Pub. L. 103–329, title VI, §633(d), 108 Stat. 2428; Dec. 29, 1995, Pub. L. 104–88, title III, §340, 109 Stat. 955.)
 
 #### References in Text
 
@@ -216,11 +216,11 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7
 
 In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (b)(1), “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
-
-In subsec. (b)(2), “subchapter I of chapter 105 of title 49” substituted for “part I of the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” on authority of section 3(b) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
+In subsec. (b)(1), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+
+1995—Subsec. (b)(2). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by rail and subject to the provisions of part I of the Interstate Commerce Act”.
 
 1994—Subsec. (a)(16). Pub. L. 103–329, §633(d)(1), added par. (16).
 
@@ -272,7 +272,7 @@ Subsec. (b)(2). Pub. L. 93–259, §23(c), amended par. (2) (insofar as it relat
 
 Subsec. (b)(4). Pub. L. 93–259, §11(a), effective May 1, 1974, inserted “who is” after “employee” and “, and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” before the semi-colon. Pub. L. 93–259, §11(b), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §11(c), repealed subsec. (b)(4) effective two years after May 1, 1974.
 
-Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
+Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year afterMay 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
 
 Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
 
@@ -296,7 +296,7 @@ Subsec. (b)(24). Pub. L. 93–259, §17, added par. (24).
 
 Subsec. (b)(25). Pub. L. 93–259, §20(b)(1), added par. (25) effective May 1, 1974. Pub. L. 93–259, §20(b)(2), effective Jan. 1, 1975, substituted “sixty-six” for “seventy-two” in subpar. (A), “sixty” for “sixty-four” in subpar. (B), and “forty-six hours in any workweek for not more than two workweeks in that year, and” for “forty-eight hours in any other workweek in that year,” in subpar. (D), and added subpar. (E). Pub. L. 93–259, §20(b)(3), effective Jan. 1, 1976, substituted “sixty” for “sixty-six”, “fifty-six” for “sixty”, “forty-eight” for “fifty”, “forty-four” for “forty-six”, and “forty” for “forty-four”.
 
-Subsec. (b)(26). Pub. L. 93–259, §20(c)(1), added par. (26) effective May 1, 1974. Pub. L. 93–259, §20(c)(2), effective Jan. 1, 1975, substituted “sixty-six” for “seventy-two” in subpar. (A), “sixty” for “sixty-four” in subpar. (B), and “forty-six hours in any workweek for not morethan two workweeks in that year, and” for “forty-eight hours in any other workweek in that year,” in subpar. (D), and added subpar. (E). Pub. L. 93–259, §20(c)(3), effective Jan. 1, 1976, substituted “sixty” for “sixty-six”, “fifty-six” for “sixty”, “forty-eight” for “fifty”, “forty-four” for “forty-six”, and “forty” for “forty-four”.
+Subsec. (b)(26). Pub. L. 93–259, §20(c)(1), added par. (26) effective May 1, 1974. Pub. L. 93–259, §20(c)(2), effective Jan. 1, 1975, substituted “sixty-six” for “seventy-two” in subpar. (A), “sixty” for “sixty-four” in subpar. (B), and “forty-six hours in any workweek for not more than two workweeks in that year, and” for “forty-eight hours in any other workweek in that year,” in subpar. (D), and added subpar. (E). Pub. L. 93–259, §20(c)(3), effective Jan. 1, 1976, substituted “sixty” for “sixty-six”, “fifty-six” for “sixty”, “forty-eight” for “fifty”, “forty-four” for “forty-six”, and “forty” for “forty-four”.
 
 Subsec. (b)(27). Pub. L. 93–259, §23(a)(2), added par. (27).
 
@@ -360,7 +360,7 @@ Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which 
 
 Subsec. (b)(12) to (19). Pub. L. 89–601, §§203(c)(B), 204(b), 206(b)(2), 210(b), added pars. (12) to (19).
 
-Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child labor applicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employedby his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
+Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child labor applicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
 
 Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwajalein Atoll, and Johnston Island.
 
@@ -470,6 +470,10 @@ Section 21(b)(2), (3) of Pub. L. 93–259 provided that the amendment and repeal
 
 Amendment by sections 7(b)(3), (4), 9(b), 10(a), (b)(1), 11(a), 12(a), 13(a), 14, 15(a), 17, 18, 20(a), (b)(1), (c)(1), 21(b)(1), 22, 23, and 25(b) of Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1966 Amendments
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
@@ -512,13 +516,13 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 
-Section 13 of Pub. L. 87–30 authorized Secretary of Labor to study complicated system of exemptions available for handling and processing agricultural products under this chapter and complex problems involving rates of pay of certain employees exempted from provisions of this chapter, and required Secretary to submit results of his studies along with his recommendations for proposed legislation to second session of Eighty-seventh Congress.
+Section 13 of Pub. L. 87–30 directed Secretary of Labor to study complicated system of exemptions available for handling and processing agricultural products under this chapter and complex problems involving rates of pay of certain employees exempted from provisions of this chapter, and submit results of his studies along with his recommendations for proposed legislation to second session of Eighty-seventh Congress.
 
 #### Transportation of Migrant Farm Workers
 
-Section 3 of act Aug. 3, 1956, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[49 U.S.C. 3102\].”
+Section 3 of act Aug. 3, 1956, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission \[now Secretary of Transportation\] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[now 49 U.S.C. 31502\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 206, 216, 218, 795, 1803, 2612 of this title; title 5 sections 5343, 5349; title 42 sections 300e–9, 1437t, 3056, 8009, 8011.
+This section is referred to in sections 206, 216, 218, 795, 1803, 2612 of this title; title 5 sections 5343, 5349, 5545a; title 42 sections 300e–9, 1437t, 3056, 8009, 8011.
 

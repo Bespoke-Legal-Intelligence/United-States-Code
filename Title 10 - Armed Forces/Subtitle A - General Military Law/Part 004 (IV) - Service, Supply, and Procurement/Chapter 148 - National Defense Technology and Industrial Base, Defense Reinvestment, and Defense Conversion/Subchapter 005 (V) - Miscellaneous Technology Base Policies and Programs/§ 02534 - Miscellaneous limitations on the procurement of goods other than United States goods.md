@@ -64,7 +64,7 @@ Valves and machine tools.—(A) Contracts to which subsection (a) applies includ
 
 &emsp;&emsp;(ii) A contract that is entered into by a contractor on behalf of the Department of Defense for the purpose of providing such an item to another contractor as Government-furnished equipment.
 
-&emsp;(B) In any case in which a contract for items described in subsection (a)(4) includes the procurement of more than one Federal Supply Class of machine tools or machine tools and accessories, each supply class shall be evaluated separately for purposes of determining whether the limitation in subsection (a) applies.
+&emsp;(B) In any case in which a contract for items described in subsection (a)(4) includes the procurement of more than one Federal Supply Class of machine tools or machine tools and accessories, each supply class shall be evaluated separately for purposes of determiningwhether the limitation in subsection (a) applies.
 
 &emsp;(C) Subsection (a)(4) and this paragraph shall cease to be effective on October 1, 1996.
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 103–355 added subsec. (g).
 
 Subsec. (c). Pub. L. 102–484, §831, redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “
 
-Manual Typewriters From Warsaw Pact Countries.—Funds appropriated to or for the use of the Department of Defense may not be used for the procurement of manual typewriters which contain one or more components manufactured in a country which is a member of the Warsaw Pact unless the products of that country are accorded nondiscriminatory treatment (most-favored-nation treatment).”
+Manual Typewriters From Warsaw Pact Countries.—Funds appropriated to or for the use of the Department of Defense may not be used for the procurement of manual typewriters which contain one or more components manufactured in a country which isa member of the Warsaw Pact unless the products of that country are accorded nondiscriminatory treatment (most-favored-nation treatment).”
 
 Subsec. (d). Pub. L. 102–484, §831(b), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

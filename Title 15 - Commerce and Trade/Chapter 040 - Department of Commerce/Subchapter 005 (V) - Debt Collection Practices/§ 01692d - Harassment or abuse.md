@@ -14,5 +14,5 @@ A debt collector may not engage in any conduct the natural consequence of which 
 
 &emsp;(6) Except as provided in section 1692b of this title, the placement of telephone calls without meaningful disclosure of the caller's identity.
 
-(Pub. L. 90 321, title VIII, §806, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 877.)
+(Pub. L. 90–321, title VIII, §806, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877.)
 

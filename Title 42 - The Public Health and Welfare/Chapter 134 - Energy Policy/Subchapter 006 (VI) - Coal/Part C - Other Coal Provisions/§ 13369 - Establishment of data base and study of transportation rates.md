@@ -2,7 +2,7 @@
 
 #### (a) Data base
 
-The Secretary shall review the information currently collected by the Federal Government and shall determine whether information on transportation rates for rail and pipeline transport of domestic coal, oil, and gas during the period of January 1, 1988, through December 31, 1997, is reasonably available. If he determines that such information is not reasonably available, the Secretary shall establish a data base containing, to the maximum extent practicable, information on all such rates. The confidentiality of contract rates shall be preserved. To obtain data pertaining to rail contract rates, the Secretary shall acquire such data in aggregate form only from the Interstate Commerce Commission, under terms and conditions that maintain the confidentiality of such rates.
+The Secretary shall review the information currently collected by the Federal Government and shall determine whether information on transportation rates for rail and pipeline transport of domestic coal, oil, and gas during the period of January 1, 1988, through December 31, 1997, is reasonably available. If he determines that such information is not reasonably available, the Secretary shall establish a data base containing, to the maximum extent practicable, information on all such rates. The confidentiality of contract rates shall be preserved. To obtain data pertaining to rail contract rates, the Secretary shall acquire such data in aggregate form only from the Surface Transportation Board, under terms and conditions that maintain the confidentiality of such rates.
 
 #### (b) Study
 
@@ -14,13 +14,21 @@ Within one year after October 24, 1992, the Secretary shall report to the Congre
 
 #### (d) Consultation with other agencies
 
-The Secretary and the Energy Information Administration shall consult with the Chairmen of the Federal Energy Regulatory Commission and the Interstate Commerce Commission in implementing this section.
+The Secretary and the Energy Information Administration shall consult with the Chairmen of the Federal Energy Regulatory Commission and the Surface Transportation Board in implementing this section.
 
-(Pub. L. 102–486, title XIII, §1340, Oct. 24, 1992, 106 Stat. 2992.)
+(Pub. L. 102–486, title XIII, §1340, Oct. 24, 1992, 106 Stat. 2992; Pub. L. 104–88, title III, §320, Dec. 29, 1995, 109 Stat. 949.)
 
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 An Act to amend the Clean Air Act to provide for attainment and maintenance of health protective national ambient air quality standards, and for other purposes, referred to in subsec. (b), is Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, popularly known as the Clean Air Act Amendments of 1990. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 7401 of this title and Tables.
+
+#### Amendments
+
+1995—Subsecs. (a), (d). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 

@@ -36,7 +36,7 @@
 
 The provision of payments under a grant under subsection (a) or (b) of this section shall not exceed 5 fiscal years and shall be subject to the annual approval of the Secretaries and subject to the availability of appropriations for the fiscal year involved to make the payments.
 
-(Pub. L. 103 239, title III, §302, May 4, 1994, 108 Stat. 592.)
+(Pub. L. 103–239, title III, §302, May 4, 1994, 108 Stat. 592.)
 
 #### Section Referred to in Other Sections
 

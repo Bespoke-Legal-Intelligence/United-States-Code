@@ -8,5 +8,5 @@ In the case of grants made by the Secretary, each grant recipient shall, with re
 
 After grant recipients who receive grants in the first year in which grants are made under this part complete their eligibility under the program, the Secretary shall submit to the Congress a report evaluating the effectiveness of the program under this part.
 
-(Pub. L. 88 210, title III, §346, as added Pub. L. 101 392, title III, §308, Sept. 25, 1990, 104 Stat. 792.)
+(Pub. L. 88–210, title III, §346, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 792.)
 

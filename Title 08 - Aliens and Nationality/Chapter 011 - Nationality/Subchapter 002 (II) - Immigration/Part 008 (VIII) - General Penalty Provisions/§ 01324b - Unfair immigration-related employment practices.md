@@ -34,7 +34,7 @@
 
 #### (5) Prohibition of intimidation or retaliation
 
-&emsp;It is also an unfair immigration-related employment practice for a person or other entity to intimidate, threaten, coerce, or retaliate against any individual for the purpose of interfering with any right or privilege secured under this section or because the individual intends to file or has filed a charge or a complaint, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this section. An individual sointimidated, threatened, coerced, or retaliated against shall be considered, for purposes of subsections (d) and (g) of this section, to have been discriminated against.
+&emsp;It is also an unfair immigration-related employment practice for a person or other entity to intimidate, threaten, coerce, or retaliate against any individual for the purpose of interfering with any right or privilege secured under this section or because the individual intends to file or has filed a charge or a complaint, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this section. An individual so intimidated, threatened, coerced, or retaliated against shall be considered, for purposes ofsubsections (d) and (g) of this section, to have been discriminated against.
 
 #### (6) Treatment of certain documentary practices as employment practices
 
@@ -86,7 +86,7 @@
 
 #### (1) Notice
 
-&emsp;Whenever a complaint is made that a person or entity has engaged in or is engaging in anysuch unfair immigration-related employment practice, an administrative law judge shall have power to issue and cause to be served upon such person or entity a copy of the complaint and a notice of hearing before the judge at a place therein fixed, not less than five days after the serving of the complaint. Any such complaint may be amended by the judge conducting the hearing, upon the motion of the party filing the complaint, in the judge's discretion at any time prior to the issuance of an order based thereon. The person or entity so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint.
+&emsp;Whenever a complaint is made that a person or entity has engaged in or is engaging in any such unfair immigration-related employmentpractice, an administrative law judge shall have power to issue and cause to be served upon such person or entity a copy of the complaint and a notice of hearing before the judge at a place therein fixed, not less than five days after the serving of the complaint. Any such complaint may be amended by the judge conducting the hearing, upon the motion of the party filing the complaint, in the judge's discretion at any time prior to the issuance of an order based thereon. The person or entity so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint.
 
 #### (2) Judges hearing cases
 
@@ -222,7 +222,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 Section 1161(a) of this title, referred to in subsec. (a)(3)(B), was repealed by Pub. L. 103–416, title II, §219(ee)(1), Oct. 25, 1994, 108 Stat. 4319.
 
-The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (<i>l</i>)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (<i>l</i>)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Within 30 days following the adoption of the final system plan by the Associatio
 
 Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), (2), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
-Section 715(d)(1) of this title, referred to in subsec. (b)(1), is a reference to section 715(d)(1) prior to amendment by Pub. L. 94–210. Section 715 was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation, and is covered by subchapter IV (§10361 et seq.) of chapter 103 of Title 49.
+Section 715(d)(1) of this title, referred to in subsec. (b)(1), is a reference to section 715(d)(1) prior to amendment by Pub. L. 94–210. Section 715 was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
 #### Amendments
 
@@ -37,6 +37,10 @@ Subsec. (b). Pub. L. 94–5, §4(a), designated existing provisions as par. (1) 
 1974—Subsec. (a)(1). Pub. L. 93–488, §1(a), substituted “420” for “300”.
 
 Subsec. (c). Pub. L. 93–488, §1(b), substituted “540” for “420”.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

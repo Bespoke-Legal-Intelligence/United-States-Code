@@ -66,7 +66,7 @@ The Administrator shall undertake a study and publish a report respecting discar
 
 #### (i) Resource recovery facilities
 
-The Administrator shall conduct research and report on the economics of, and impediments, tothe effective functioning of resource recovery facilities.
+The Administrator shall conduct research and report on the economics of, and impediments, to the effective functioning of resource recovery facilities.
 
 #### (j) Resource Conservation Committee
 
@@ -156,7 +156,7 @@ The Administrator shall conduct a detailed and comprehensive study and submit a 
 
 #### (<i>o</i>) Cement kiln dust waste
 
-The Administrator shall conduct a detailed and comprehensive study of the adverse effects on human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study of the adverse effectson human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 
@@ -196,7 +196,7 @@ The Administrator shall conduct a detailed and comprehensive study on the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties,including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (q) Authorization of appropriations
 
@@ -224,7 +224,7 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 &emsp;(7) methods to coordinate use of a landfill owned by one municipality by nearby municipalities, and to establish equitable rates for such use, taking into account the need to provide future landfill capacity to replace that so used.
 
-> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October 1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
+> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
 
 (Pub. L. 89–272, title II, §8002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2831; amended Pub. L. 95–609, §7(t), Nov. 8, 1978, 92 Stat. 3083; H. Res. 549, Mar. 25, 1980; Pub. L. 96–482, §29, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §224(c), title VII, §702, Nov. 8, 1984, 98 Stat. 3253, 3289.)
 
@@ -250,7 +250,7 @@ Subsec. (<i>l</i>). Pub. L. 95–609, §7(t)(5), struck out requirement of submi
 
 #### Change of Name
 
-Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

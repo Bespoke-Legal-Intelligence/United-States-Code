@@ -6,7 +6,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 #### (b) Board of Trustees; membership; term of office
 
-(1) The Foundation shall be subject to the supervision and direction of a Board of Trustees.The Board shall be composed of thirteen members, as follows:
+(1) The Foundation shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of thirteen members, as follows:
 
 &emsp;(A) Two Members of the Senate, of different political parties, shall be appointed by the President upon the recommendation of the President pro tempore of the Senate, in consultation with the Majority Leader and Minority Leader of the Senate.
 
@@ -24,7 +24,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 &emsp;(A) the date on which a successor has taken office; or
 
-&emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress that commences after the date on which the member's term expired.
+&emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress thatcommences after the date on which the member's term expired.
 
 #### (c) Officers
 
@@ -36,15 +36,15 @@ Members of the Board shall elect from the members of the Board a Chairman and su
 
 (2) Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28.
 
-(Pub. L. 99 500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783 39, 1783 76, and Pub. L. 99 591, §101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341 39, 3341 76; Pub. L. 101 208, §1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102 221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
+(Pub. L. 99–500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, §101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, §1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
 
 #### Codification
 
-Pub. L. 99 591 is a corrected version of Pub. L. 99 500.
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1991—Subsec. (b)(3). Pub. L. 102 221 added par. (3).
+1991—Subsec. (b)(3). Pub. L. 102–221 added par. (3).
 
-1989—Subsec. (d). Pub. L. 101 208 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.”
+1989—Subsec. (d). Pub. L. 101–208 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.”
 

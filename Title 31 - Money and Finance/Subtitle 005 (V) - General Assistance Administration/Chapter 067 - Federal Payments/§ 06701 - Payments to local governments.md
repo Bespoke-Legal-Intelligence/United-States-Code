@@ -84,7 +84,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(A) the term “small business concern” has the meaning such term has under section 3 of the Small Business Act; and
 
-&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section.
+&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaningsuch term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section.
 
 (g)
 

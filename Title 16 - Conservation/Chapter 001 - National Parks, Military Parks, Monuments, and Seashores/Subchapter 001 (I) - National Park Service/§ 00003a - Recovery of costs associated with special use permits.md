@@ -4,9 +4,9 @@ Notwithstanding any other provision of law, the National Park Service may on and
 
 (Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1387.)
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384.
 

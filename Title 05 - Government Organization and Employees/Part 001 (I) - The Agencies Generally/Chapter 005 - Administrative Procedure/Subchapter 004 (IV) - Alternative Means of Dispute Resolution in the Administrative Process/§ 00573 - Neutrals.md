@@ -14,15 +14,11 @@
 
 &emsp;(4) develop procedures that permit agencies to obtain the services of neutrals on an expedited basis.
 
-(d) An agency may use the services of one or more employees of other agencies to serve as neutrals in dispute resolution proceedings. The agencies may enter into an interagency agreement that provides for the reimbursement by the user agency or the parties of the full or partial cost of the services of such an employee.
+(d) An agency may use the services of one or more employees of other agencies to serve as neutrals in dispute resolution proceedings. Theagencies may enter into an interagency agreement that provides for the reimbursement by the user agency or the parties of the full or partial cost of the services of such an employee.
 
 (e) Any agency may enter into a contract with any person on a roster established under subsection (c)(2) or a roster maintained by other public or private organizations, or individual for services as a neutral, or for training in connection with alternative means of dispute resolution. The parties in a dispute resolution proceeding shall agree on compensation for the neutral that is fair and reasonable to the Government.
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2739, §583; renumbered §573, Pub. L. 102–354, §3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
-
-#### Termination of Section
-
-<i>For termination of section by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note set out under section 571 of this title.</i>
 
 #### Codification
 
@@ -34,7 +30,15 @@ A prior section 573 was renumbered section 593 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 583 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 583 of this title as this section.
+
+#### Termination Date; Savings Provision
+
+For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
+
+#### Termination of Administrative Conference of United States
+
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of this title.
 
 #### Section Referred to in Other Sections
 

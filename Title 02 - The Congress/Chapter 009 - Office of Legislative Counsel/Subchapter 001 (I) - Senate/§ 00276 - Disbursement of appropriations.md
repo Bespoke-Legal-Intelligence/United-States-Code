@@ -1,4 +1,4 @@
-### §276 . Disbursement of appropriations
+### §276. Disbursement of appropriations
 
 All appropriations for the Office of the Legislative Counsel shall be disbursed by the Secretary of the Senate.
 
@@ -6,5 +6,5 @@ All appropriations for the Office of the Legislative Counsel shall be disbursed 
 
 #### Codification
 
-As originally enacted, section provided for disbursement of one-half of appropriations for office of legislative counsel by Secretary of Senate and one-half by Clerk of House of Representatives. In view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title, section has been revised to limit application to Office of the Legislative Counsel of the Senate. See section 282c of this title for provisions relating to expenditures by Legislative Counsel of the House of Representatives.
+As originally enacted, section provided for disbursement of one-half of appropriations for office of legislative counsel by Secretary of Senate and one-half byClerk of House of Representatives. In view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title, section has been revised to limit application to Office of the Legislative Counsel of the Senate. See section 282c of this title for provisions relating to expenditures by Legislative Counsel of the House of Representatives.
 

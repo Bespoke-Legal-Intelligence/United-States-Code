@@ -14,7 +14,7 @@ Records, Reports, and Information.—A person subject to this chapter shall—
 
 (c)
 
-Inspection.—(1) The Secretary may authorize an officer, employee, or agent to inspect, at a reasonable time and in a reasonable way, records and property related to—
+Inspection.—(1) The Secretary may authorize an officer, employee, or agent to inspect,at a reasonable time and in a reasonable way, records and property related to—
 
 &emsp;(A) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, testing, or distributing a packaging or a container for use by a person in transporting hazardous material in commerce; or
 

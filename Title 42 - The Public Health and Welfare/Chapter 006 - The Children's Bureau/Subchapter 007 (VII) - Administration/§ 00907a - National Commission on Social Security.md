@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; Chairman and Vice Chairman; quorum; terms of office; vacancies; per diem and expense reimbursement; meetings
 
-(1) There is established a commission to be known as the National Commission on SocialSecurity (hereinafter referred to as the “Commission”).
+(1) There is established a commission to be known as the National Commission on Social Security (hereinafter referred to as the “Commission”).
 
 (2)(A) The Commission shall consist of—
 
@@ -46,7 +46,7 @@
 
 &emsp;(D) any inequities (whether attributable to provisions of law relating to the establishment and operation of such programs, to rules and regulations promulgated in connection with the administration of such programs, or to administrative practices and procedures employed in the carrying out of such programs) which affect substantial numbers of individuals who are insured or otherwise eligible for benefits under such programs, including inequities and inequalities arising out of marital status, sex, or similar classifications or categories;
 
-&emsp;(E) possible alternatives to the current Federal programs or particular aspects thereof, including but not limited to (i) a phasing out of the payroll tax with the financing of such programs being accomplished in some other manner (including general revenue funding and the retirement bond), (ii) the establishment of a system providing for mandatory participation in any or all of the Federal programs, (iii) the integration of such current Federal programs with private retirement programs, and (iv) the establishment of a system permitting covered individuals a choice of public or private programs or both;
+&emsp;(E) possible alternatives to the current Federal programs or particular aspects thereof, including but not limited to (i) a phasing out of the payroll tax with the financing of such programs being accomplished in some other manner (including general revenue funding and the retirement bond), (ii) the establishment of a system providing for mandatoryparticipation in any or all of the Federal programs, (iii) the integration of such current Federal programs with private retirement programs, and (iv) the establishment of a system permitting covered individuals a choice of public or private programs or both;
 
 &emsp;(F) the need to develop a special Consumer Price Index for the elderly, including the financial impact that such an index would have on the costs of the programs established under this chapter; and
 

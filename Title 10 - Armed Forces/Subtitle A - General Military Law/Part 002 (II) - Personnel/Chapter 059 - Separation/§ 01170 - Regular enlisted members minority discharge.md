@@ -1,4 +1,4 @@
-### §1170 . Regular enlisted members: minority discharge
+### §1170. Regular enlisted members: minority discharge
 
 Upon application by the parents or guardian of a regular enlisted member of an armed force to the Secretary concerned within 90 days after the member's enlistment, the member shall be discharged for his own convenience, with the pay and form of discharge certificate to which his service entitles him, if—
 

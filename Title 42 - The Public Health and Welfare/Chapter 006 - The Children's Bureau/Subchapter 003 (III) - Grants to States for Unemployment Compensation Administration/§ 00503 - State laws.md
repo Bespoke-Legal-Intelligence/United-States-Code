@@ -82,7 +82,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State food stamp agency.
 
-(C) Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by the individual to the State food stamp agency to which the uncollected overissuance is owed as repayment of the individual's uncollected overissuance.
+(C) Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes betreated as if it were paid to the individual as unemployment compensation and paid by the individual to the State food stamp agency to which the uncollected overissuance is owed as repayment of the individual's uncollected overissuance.
 
 (D) A State food stamp agency to which an uncollected overissuance is owed shall reimburse the State agency charged with the administration of the State unemployment compensation law for the administrative costs incurred by the State agency under this paragraph that are attributable to repayment of uncollected overissuance to the State food stamp agency to which the uncollected overissuance is owed.
 
@@ -132,7 +132,7 @@ The State agency charged with the administration of the State law shall provide 
 
 #### (g) Recovery of unemployment benefit payments
 
-(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating tonotice and opportunity for a hearing as apply to the recovery of overpayments of regular unemployment compensation paid by such State.
+(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply to the recovery of overpayments of regular unemployment compensation paid by such State.
 
 (2) Any State may enter into an agreement with the Secretary of Labor under which—
 
@@ -168,7 +168,7 @@ The State agency charged with the administration of the State law shall provide 
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 507(e)(2) of Pub. L. 103–182, see Effective and Termination Dates of 1993 Amendments note below.</i>
+<i>For termination of amendment by section 507(e)(2) of Pub. L. 103–182, see Effective and</i><i>Termination Dates of 1993 Amendments note below.</i>
 
 <i>Pub. L. 103–465, title VII, §702(c)(3), (d), Dec. 8, 1994, 108 Stat. 4997, provided that, applicable to payments made after Dec. 31, 1996, subsection (a)(5) of this section is amended by inserting after “health insurance” the following: “, or the withholding of Federal, State, or local individual income tax,”.</i>
 

@@ -36,7 +36,7 @@ The Federal share of assistance under this section shall be not less than—
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Directorpursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Director pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
 
 #### (2) Amount of reduction
 
@@ -62,7 +62,7 @@ The Federal share of assistance under this section shall be not less than—
 
 #### (2) Special rule
 
-&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing such facility shall include, for purposes of this section, only those costs which, under the contract for such construction, are the owner's responsibility and not the contractor's responsibility.
+&emsp;In any case in which the facility being repaired, restored, reconstructed, or replacedunder this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing such facility shall include, for purposes of this section, only those costs which, under the contract for such construction, are the owner's responsibility and not the contractor's responsibility.
 
 #### (f) Associated expenses
 
@@ -108,7 +108,7 @@ For purposes of this section, associated expenses include the following:
 
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsec. (d)(1), (2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (d)(1), (2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 

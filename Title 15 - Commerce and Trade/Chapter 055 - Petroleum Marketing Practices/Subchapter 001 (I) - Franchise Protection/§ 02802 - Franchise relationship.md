@@ -56,7 +56,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;&emsp;(iii) in the case of leased marketing premises—
 
-&emsp;&emsp;&emsp;(I) the franchisor, during the 180-day period after notification was given pursuant to section 2804 of this title, either made a bona fide offer to sell, transfer, or assignto the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or
+&emsp;&emsp;&emsp;(I) the franchisor, during the 180-day period after notification was given pursuant to section 2804 of this title, either made a bona fide offer to sell, transfer, or assign to the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or
 
 &emsp;&emsp;&emsp;(II) in the case of the sale, transfer, or assignment to another person of the franchisor's interest in such premises in connection with the sale, transfer, or assignment to such other person of the franchisor's interest in one or more other marketing premises, if such other person offers, in good faith, a franchise to the franchisee on terms and conditions which are not discriminatory to the franchisee as compared to franchises then currently being offered by such other person or franchises then in effect and with respect to which such other person is the franchisor.
 
@@ -76,7 +76,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;(C) A failure by the franchisee to operate the marketing premises in a clean, safe, and healthful manner, if the franchisee failed to do so on two or more previous occasions and the franchisor notified the franchisee of such failures.
 
-&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—
+&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years orlonger), a determination made by the franchisor in good faith and in the normal course of business, if—
 
 &emsp;&emsp;(i) such determination is—
 
@@ -160,13 +160,13 @@ In the case of any termination of a franchise (entered into or renewed on or aft
 
 &emsp;(2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) of this section and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
-(Pub. L. 95 297, title I, §102, June 19, 1978, 92 Stat. 324; Pub. L. 103 371, §§2, 3, Oct. 19, 1994, 108 Stat. 3484.)
+(Pub. L. 95–297, title I, §102, June 19, 1978, 92 Stat. 324; Pub. L. 103–371, §§2, 3, Oct. 19, 1994, 108 Stat. 3484.)
 
 #### Amendments
 
-1994—Subsec. (b)(3)(A)(ii). Pub. L. 103 371, §2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
+1994—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, §2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
 
-Subsec. (c)(4). Pub. L. 103 371, §3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
+Subsec. (c)(4). Pub. L. 103–371, §3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
 
 #### Section Referred to in Other Sections
 

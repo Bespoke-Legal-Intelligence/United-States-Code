@@ -12,5 +12,5 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Effective Date
 
-Section 101(c) \[title IX, §9103(4)\] of Pub. L. 99–500 and Pub. L. 99–591, as amended by Pub. L. 100–26, §4(a)(2),Apr. 21, 1987, 101 Stat. 274, provided that: “Section 1014 of title 37, United States Code, as added by paragraph (1) and redesignated by section 8(b)(2) of the Defense Technical Corrections Act of 1987 \[Pub. L. 100–26\], and the amendments made by paragraph (3) \[amending section 1466 of Title 10, Armed Forces\], shall take effect on September 1, 1987.”
+Section 101(c) \[title IX, §9103(4)\] of Pub. L. 99–500 and Pub. L. 99–591, as amended by Pub. L. 100–26, §4(a)(2), Apr. 21, 1987, 101 Stat. 274, provided that: “Section 1014 of title 37, United States Code, as added by paragraph (1) and redesignated by section 8(b)(2) of the Defense Technical Corrections Act of 1987 \[Pub. L. 100–26\], and the amendments made by paragraph (3) \[amending section 1466 of Title 10, Armed Forces\], shall take effect on September 1, 1987.”
 

@@ -10,7 +10,7 @@ In determining whether to take action under chapter 1 of title II of the Trade A
 
 #### (b) Exclusion of NAFTA imports
 
-In determining the nature and extent of action to be taken under chapter 1 of title II of theTrade Act of 1974 \[19 U.S.C. 2251 et seq.\], the President shall exclude from such action imports from a NAFTA country if the President makes a negative determination under subsection (a)(1) or (2) of this section with respect to imports from such country.
+In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the President shall exclude from such action imports from a NAFTA country if the President makes a negative determination under subsection (a)(1) or (2) of this section with respect to imports from such country.
 
 #### (c) Action after exclusion of NAFTA country imports
 

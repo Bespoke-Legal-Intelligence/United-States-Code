@@ -40,7 +40,7 @@ The purposes of this chapter are—
 
 &emsp;(12) to expose students to a broad array of career opportunities, and facilitate the selection of career majors, based on individual interests, goals, strengths, and abilities;
 
-&emsp;(13) to increase opportunities for minorities, women, and individuals with disabilities, by enabling individuals to prepare for careers that are not traditional for their race, gender, or disability; and
+&emsp;(13) to increase opportunities for minorities, women, and individuals with disabilities, by enabling individuals to prepare for careersthat are not traditional for their race, gender, or disability; and
 
 &emsp;(14) to further the National Education Goals set forth in title I of the Goals 2000: Educate America Act \[20 U.S.C. 5811 et seq.\].
 
@@ -64,13 +64,13 @@ It is the intent of Congress that the Secretary of Labor and the Secretary of Ed
 
 &emsp;&emsp;(F) offering flexibility in meeting such goals.
 
-(Pub. L. 103 239, §3, May 4, 1994, 108 Stat. 570.)
+(Pub. L. 103–239, §3, May 4, 1994, 108 Stat. 570.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103 239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (a)(1)(B), (14), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title I of the Act is classified generally to subchapter I (§5811 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (a)(1)(B), (14), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title I of the Act is classified generally to subchapter I (§5811 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The National Skill Standards Act of 1994, referred to in subsec. (a)(1)(B), is title V of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in subsec. (a)(1)(B), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 

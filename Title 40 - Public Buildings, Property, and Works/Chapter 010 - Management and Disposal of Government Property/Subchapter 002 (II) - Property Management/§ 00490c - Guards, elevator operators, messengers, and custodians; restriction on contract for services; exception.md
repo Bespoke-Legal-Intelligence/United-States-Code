@@ -1,8 +1,8 @@
 ### §490c. Guards, elevator operators, messengers, and custodians; restriction on contract for services; exception
 
-None of the funds made available to the General Services Administration pursuant to section 490(f) of this title shall be obligated or expended after the date of enactment of this Act \[September 30, 1994\] for the procurement by contract of any guard, elevator operator, messenger or custodial services if any permanent veterans preference employee of the General Services Administration at said date, would be terminated as a result of the procurement of such services, except that such funds may be obligated or expended for the procurement by contract of the covered services with sheltered workshops employing the severely handicapped under sections 46 to 48c of title 41. Only if such workshops decline to contract for the provision of the covered services may the General Services Administration procure the services by competitive contract, for a period not to exceed 5 years. At such time as such competitive contract expires or is terminated for any reason, the General Services Administration shall again offer to contract for the services from a sheltered workshop prior to offering such services for competitive procurement.
+None of the funds made available to the General Services Administration pursuant to section 490(f) of this title shall be obligated or expended after the date of enactment of this Act \[November 19, 1995\] for the procurement by contract of any guard, elevator operator, messenger or custodial services if any permanent veterans preference employee of the General Services Administration at said date, would be terminated as a result of the procurement of such services, except that such funds may be obligated or expended for the procurement by contract of the covered services with sheltered workshops employing the severely handicapped under sections 46 to 48c of title 41. Only if such workshops decline to contract for the provision of the covered services may the General Services Administration procure the services by competitive contract, for a period not to exceed 5 years. At such time as such competitive contract expires or is terminated for any reason, the General Services Administration shall again offer to contract for the services from a sheltered workshop prior to offering such services for competitive procurement.
 
-(Pub. L. 103–329, title V, §505, Sept. 30, 1994, 108 Stat. 2409.)
+(Pub. L. 104–52, title V, §503, Nov. 19, 1995, 109 Stat. 491.)
 
 #### References in Text
 
@@ -15,6 +15,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 103–329, title V, §505, Sept. 30, 1994, 108 Stat. 2409.
 
 Pub. L. 103–123, title V, §505, Oct. 28, 1993, 107 Stat. 1252.
 

@@ -14,7 +14,7 @@ Recording and Public Access.—Official action taken by the Secretary and Admini
 
 (d)
 
-Conflicts of Interest.—The Secretary, the Administrator, or an officer or employee of the Administration may not participate in aproceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
+Conflicts of Interest.—The Secretary, the Administrator, or an officer or employee of the Administration may not participate in a proceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1226.)
 

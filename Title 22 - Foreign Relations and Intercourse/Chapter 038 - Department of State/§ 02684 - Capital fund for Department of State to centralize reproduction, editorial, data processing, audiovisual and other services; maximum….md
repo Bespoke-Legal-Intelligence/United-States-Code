@@ -22,7 +22,7 @@ Section was formerly classified to section 170u of Title 5 prior to the general 
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–246 inserted “and” before “(4)”, struck out “; and (5) services and supplies tocarry out title II of this Act”, and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
+1990—Subsec. (a). Pub. L. 101–246 inserted “and” before “(4)”, struck out “; and (5) services and supplies to carry out title II of this Act”, and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
 
 1982—Subsec. (a)(5). Pub. L. 97–241, §203(a), added cl. (5).
 

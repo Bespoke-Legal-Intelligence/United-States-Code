@@ -30,7 +30,7 @@ For purposes of this part:
 
 #### (6) Dispute Settlement Understanding
 
-&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules andProcedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
+&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
 
 #### (7) General Council
 

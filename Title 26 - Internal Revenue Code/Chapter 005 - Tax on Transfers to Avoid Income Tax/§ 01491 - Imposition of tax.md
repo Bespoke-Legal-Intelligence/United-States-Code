@@ -1,6 +1,6 @@
 ### §1491. Imposition of tax
 
-There is hereby imposed on the transfer of property by a citizen or resident of the United States, or by a domestic corporation or partnership, or by an estate or trust which is not a foreign estate or trust, to a foreign corporation aspaid-in surplus or as a contribution to capital, or to a foreign estate or trust, or to a foreign partnership, an excise tax equal to 35 percent of the excess of—
+There is hereby imposed on the transfer of property by a citizen or resident of the United States, or by a domestic corporation or partnership, or by an estate or trust which is not a foreign estate or trust, to a foreign corporation as paid-in surplus or as a contribution to capital, or to a foreign estate or trust, or to a foreign partnership, an excise tax equal to 35 percent of the excess of—
 
 &emsp;(1) the fair market value of the property so transferred, over
 

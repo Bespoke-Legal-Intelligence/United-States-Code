@@ -1,4 +1,4 @@
-### §7205 . Promotion of health and prevention of accidents
+### §7205. Promotion of health and prevention of accidents
 
 (a) The Secretary of the Navy may make such expenditures as he considers appropriate to prevent accidents and to promote the safety and occupational health of—
 

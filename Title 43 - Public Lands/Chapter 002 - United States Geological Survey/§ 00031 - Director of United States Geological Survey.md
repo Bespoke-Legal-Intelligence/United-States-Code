@@ -8,11 +8,7 @@ The Director of the United States Geological Survey, which office is established
 
 The authority of the Secretary of the Interior, exercised through the United States Geological Survey of the Department of the Interior, to examine the geological structure, mineral resources, and products of the national domain, is expanded to authorize such examinations outside the national domain where determined by the Secretary to be in the national interest.
 
-#### (c) Annual report to Congress
-
-The Secretary of the Interior shall report to the Speaker of the House of Representatives and the President of the Senate on January 31 of each year on all actions taken pursuant to subsection (b) of this section during the year ending on the December 31 immediately preceding the reporting date and on the results of such actions.
-
-(Mar. 3, 1879, ch. 182, 20 Stat. 394; Sept. 5, 1962, Pub. L. 87–626, §§1, 2, 76 Stat. 427; Jan. 2, 1975, Pub. L. 93–608, §2(6), 88 Stat. 1971; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(Mar. 3, 1879, ch. 182, 20 Stat. 394; Sept. 5, 1962, Pub. L. 87–626, §§1, 2, 76 Stat. 427; Jan. 2, 1975, Pub. L. 93–608, §2(6), 88 Stat. 1971; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000; Dec. 21, 1995, Pub. L. 104–66, title I, §1081(e), 109 Stat. 721.)
 
 #### Codification
 
@@ -21,6 +17,8 @@ Subsec. (a) of this section is from act Mar. 3, 1879. Subsecs. (b) and (c) of th
 Provisions of subsec. (a) of this section which limited the salary of the Director of the Geological Survey to $6,000 a year were omitted as obsolete. See section 5316 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which read as follows: “The Secretary of the Interior shall report to the Speaker of the House of Representatives and the President of the Senate on January 31 of each year on all actions taken pursuant to subsection (b) of this section during the year ending on the December 31 immediately preceding the reporting date and on the results of such actions.”
 
 1975—Subsec. (c). Pub. L. 93–608 substituted requirement of an annual report for requirement of a semiannual report.
 

@@ -30,7 +30,7 @@
 
 #### (3) Appropriateness of dwelling units
 
-&emsp;This section may not be construed to require a public housing agency to offer occupancy inany dwelling unit assisted under this chapter to any family who is not of appropriate family size for the dwelling unit.
+&emsp;This section may not be construed to require a public housing agency to offer occupancy in any dwelling unit assisted under this chapter to any family who is not of appropriate family size for the dwelling unit.
 
 #### (c) Prohibition of evictions
 
@@ -38,7 +38,7 @@ Any tenant who is lawfully residing in a dwelling unit in the project may not be
 
 #### (d) Accommodation of housing and service needs
 
-In designing, developing, otherwise acquiring and operating, designating, and providing housing and assistance under this subchapter, each public housing agency shall meet, to the extent practicable, the housing and service needs of eligible families applying for assistance under this subchapter, as provided in any allocation plan of the agency approved under subsection (f) of this section. To meet such needs, public housing agencies may, wherever practicable and in accordance with any allocation plan of the agency—
+In designing, developing, otherwise acquiring and operating, designating, and providing housing and assistance under this subchapter, eachpublic housing agency shall meet, to the extent practicable, the housing and service needs of eligible families applying for assistance under this subchapter, as provided in any allocation plan of the agency approved under subsection (f) of this section. To meet such needs, public housing agencies may, wherever practicable and in accordance with any allocation plan of the agency—
 
 &emsp;(1) provide housing in which supportive services are provided, facilitated, or coordinated, mixed housing, shared housing, family housing, group homes, congregate housing, and other housing as the public housing agency considers appropriate;
 
@@ -102,13 +102,13 @@ In designing, developing, otherwise acquiring and operating, designating, and pr
 
 &emsp;&emsp;(B) a description of the estimated pool of applicants for such housing, based on the waiting lists for such housing, and any information collected in the comprehensive housing affordability strategy under section 12705 of this title for the jurisdiction within which the area served by the public housing agency is located;
 
-&emsp;&emsp;(C) a statement identifying the projects or portions of projects (including the buildings or floors) to be designated for occupancyunder subsection (a)(1) of this section for only certain types of families, the types of families who will be eligible for occupancy in such projects (or portions), and the reasons for the designation;
+&emsp;&emsp;(C) a statement identifying the projects or portions of projects (including the buildings or floors) to be designated for occupancy under subsection (a)(1) of this section for only certain types of families, the types of families who will be eligible for occupancy in such projects (or portions), and the reasons for the designation;
 
 &emsp;&emsp;(D) documentation of the number of units in the projects (or portions) identified under subparagraph (C) which became vacant and available for occupancy during the preceding year;
 
 &emsp;&emsp;(E) an estimate of the number of units in the projects (or portions) identified under subparagraph (C) that will become vacant and available for occupancy during the ensuing 2-year period;
 
-&emsp;&emsp;(F) a description of the occupancy policies and procedures, including procedures for maintaining waiting lists for eligible applicants who are elderly families or disabled families for occupancy in units in projects administered by the agency sufficient to document the number and duration of instances in which housing assistance for eligible applicants will be denied or delayed by the agency because of a lack of appropriately designated units;
+&emsp;&emsp;(F) a description of the occupancy policies and procedures, including procedures formaintaining waiting lists for eligible applicants who are elderly families or disabled families for occupancy in units in projects administered by the agency sufficient to document the number and duration of instances in which housing assistance for eligible applicants will be denied or delayed by the agency because of a lack of appropriately designated units;
 
 &emsp;&emsp;(G) a plan for securing sufficient additional resources that the agency owns, controls, or has received preliminary notification that it will obtain, or for which the agency plans to apply, that will be sufficient to provide assistance to not less than the number of nonelderly disabled families that would have been housed if occupancy in such units were not restricted pursuant to this section; and
 

@@ -25,7 +25,7 @@
 | [60121\.](%C2%A7%2060121%20-%20Actions%20by%20private%20persons.md) | Actions by private persons. |
 | [60122\.](%C2%A7%2060122%20-%20Civil%20penalties.md) | Civil penalties. |
 | [60123\.](%C2%A7%2060123%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [60124\.](%C2%A7%2060124%20-%20Annual%20reports.md) | Annual reports. |
+| [60124\.](%C2%A7%2060124%20-%20Annual%201%20reports.md) | Annual reports. |
 | [60125\.](%C2%A7%2060125%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,5 +64,5 @@ This chapter is referred to in sections 5126, 60301 of this title; title 42 sect
 - [&sect; 60121 - Actions by private persons](%C2%A7%2060121%20-%20Actions%20by%20private%20persons.md)
 - [&sect; 60122 - Civil penalties](%C2%A7%2060122%20-%20Civil%20penalties.md)
 - [&sect; 60123 - Criminal penalties](%C2%A7%2060123%20-%20Criminal%20penalties.md)
-- [&sect; 60124 - Annual reports](%C2%A7%2060124%20-%20Annual%20reports.md)
+- [&sect; 60124 - Annual 1 reports](%C2%A7%2060124%20-%20Annual%201%20reports.md)
 - [&sect; 60125 - Authorization of appropriations](%C2%A7%2060125%20-%20Authorization%20of%20appropriations.md)

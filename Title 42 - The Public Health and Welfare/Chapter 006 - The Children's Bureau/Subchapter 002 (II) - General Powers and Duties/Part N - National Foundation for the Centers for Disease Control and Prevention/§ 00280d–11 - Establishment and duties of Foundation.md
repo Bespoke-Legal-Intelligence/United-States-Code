@@ -150,7 +150,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;&emsp;(A) any direct or indirect financial interest of the individual; or
 
-&emsp;&emsp;(B) any direct or indirect financial interest of any business organization or other entityof which the individual is an officer or employee or in which the individual has a direct or indirect financial interest.
+&emsp;&emsp;(B) any direct or indirect financial interest of any business organization or other entity of which the individual is an officer or employee or in which the individual has a direct or indirect financial interest.
 
 #### (6) Audits; availability of records
 

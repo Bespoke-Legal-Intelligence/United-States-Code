@@ -16,15 +16,15 @@ Any obligations acquired by the fund (except special obligations issued exclusiv
 
 The interest on, and the proceeds from, the sale or redemption of any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 99 500, §101(b) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783 39, 1783 79, and Pub. L. 99 591, §101(b) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341 39, 3341 79; Pub. L. 102 221, §1(2), Dec. 11, 1991, 105 Stat. 1676.)
+(Pub. L. 99–500, §101(b) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–79, and Pub. L. 99–591, §101(b) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–79; Pub. L. 102–221, §1(2), Dec. 11, 1991, 105 Stat. 1676.)
 
 #### Codification
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended,” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended,” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Pub. L. 99 591 is a corrected version of Pub. L. 99 500.
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102 221 struck out “(1)” before “There shall be”, substituted “and other” for “an other” after “Constitution”, and struck out par. (2) which read as follows: “No funds in the Trust Fund may be available for fellowships until the contributions from private sources are equal to $10,000,000.”
+1991—Subsec. (a). Pub. L. 102–221 struck out “(1)” before “There shall be”, substituted “and other” for “an other” after “Constitution”, and struck out par. (2) which read as follows: “No funds in the Trust Fund may be available for fellowships until the contributions from private sources are equal to $10,000,000.”
 

@@ -20,7 +20,7 @@ In carrying out the provisions of this section, the Secretary shall consider—
 
 &emsp;(2) the proximity of the entities and facilities associated with the program to the low-income families to be served by the program or the ability of the entity to provide mobile or offsite services;
 
-&emsp;(3) the ability of the eligible entity to coordinate and integrate its activities with State and local public agencies (such as agencies responsible for education, employment and training, health and mental health services, substance abuse services, social services, child care, nutrition, income assistance, housing and energy assistance, and other relevant services), with public or private non-profit agencies and organizations that have a demonstrated record of effectiveness in providing assistance to homeless families, and with appropriate nonprofit private organizations involved in the delivery of eligible support services;
+&emsp;(3) the ability of the eligible entity to coordinate and integrate its activities with State and local public agencies (such as agencies responsible for education, employment and training, health and mental health services, substance abuse services, social services, childcare, nutrition, income assistance, housing and energy assistance, and other relevant services), with public or private non-profit agencies and organizations that have a demonstrated record of effectiveness in providing assistance to homeless families, and with appropriate nonprofit private organizations involved in the delivery of eligible support services;
 
 &emsp;(4) fiscal and administrative management of the eligible entity;
 

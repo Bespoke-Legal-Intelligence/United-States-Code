@@ -28,7 +28,7 @@ No deduction shall be allowed under subsection (a) for any contribution or gift 
 
 #### (3) Kickbacks, rebates, and bribes under medicare and medicaid
 
-&emsp;No deduction shall be allowed under subsection (a) for any kickback, rebate, or bribe made by any provider of services, supplier, physician, or other person who furnishes items or services for which payment is or may be made under the Social Security Act, or in whole or in part out of Federal funds under a State plan approved under such Act, if such kickback, rebate, or bribe is made in connection with the furnishing of such items or services or the making or receipt of such payments. For purposes of this paragraph, a kickback includes a payment in consideration of the referral of a client, patient, or customer.
+&emsp;No deduction shall be allowed under subsection (a) for any kickback, rebate, or bribemade by any provider of services, supplier, physician, or other person who furnishes items or services for which payment is or may be made under the Social Security Act, or in whole or in part out of Federal funds under a State plan approved under such Act, if such kickback, rebate, or bribe is made in connection with the furnishing of such items or services or the making or receipt of such payments. For purposes of this paragraph, a kickback includes a payment in consideration of the referral of a client, patient, or customer.
 
 #### (d) Capital contributions to Federal National Mortgage Association
 
@@ -206,7 +206,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (1) In general
 
-&emsp;In the case of an individual who is an employee within the meaning of section 401(c)(1), there shall be allowed as a deduction under this section an amount equal to 25 percent of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.
+&emsp;In the case of an individual who is an employee within the meaning of section 401(c)(1), there shall be allowed as a deduction under this section an amount equal to 30 percent of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.
 
 #### (2) Limitations
 
@@ -233,10 +233,6 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 &emsp;&emsp;(A) for purposes of this subsection, such individual's wages (as defined in section 3121) from the S corporation shall be treated as such individual's earned income (within the meaning of section 401(c)(1)), and
 
 &emsp;&emsp;(B) there shall be such adjustments in the application of this subsection as the Secretary may by regulations prescribe.
-
-#### (6) Termination
-
-&emsp;This subsection shall not apply to any taxable year beginning after December 31, 1993.
 
 #### (m) Certain excessive employee remuneration
 
@@ -272,7 +268,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;The term “applicable employee remuneration” shall not include any remuneration payable solely on account of the attainment of one or more performance goals, but only if—
 
-&emsp;&emsp;&emsp;(i) the performance goals are determined by a compensation committee of the board of directors of the taxpayer which is comprised solely of 2 or more outside directors,
+&emsp;&emsp;&emsp;(i) the performance goals are determined by a compensation committee of the boardof directors of the taxpayer which is comprised solely of 2 or more outside directors,
 
 &emsp;&emsp;&emsp;(ii) the material terms under which the remuneration is to be paid, including the performance goals, are disclosed to shareholders and approved by a majority of the vote in a separate shareholder vote before the payment of such remuneration, and
 
@@ -328,7 +324,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Sept. 2, 1958, Pub. L. 85–866, title I, §5(a), 72 Stat. 1608; Sept. 14, 1960, Pub. L. 86–779, §§7(b), 8(a), 74 Stat. 1002, 1003; Oct. 16, 1962, Pub. L. 87–834, §§3(a), 4(b), 76 Stat. 973, 976; Dec. 30, 1969, Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), 83 Stat. 648, 710; Dec. 10, 1971, Pub. L. 92–178, title III, §310(a), 85 Stat. 525; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), 90 Stat. 1803, 1834; Aug. 13, 1981, Pub. L. 97–34, title I, §127(a), 95 Stat. 202; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2146(b), 95 Stat. 801; Oct. 1, 1981, Pub. L. 97–51, §139(b)(1), 95 Stat. 967; July 18, 1982, Pub. L. 97–216, title II, §215(a), 96 Stat. 194; Sept. 3, 1982, Pub. L. 97–248, title I, §128(b), title II, §288(a), 96 Stat. 366, 571; July 18, 1984, Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), 98 Stat. 863, 1102; Oct. 30, 1984, Pub. L. 98–573, title II, §232(a), 98 Stat. 2991; Apr. 7, 1986, Pub. L. 99–272, title X, §10001(a), (c), (d), 100 Stat. 222, 223, 227; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), 100 Stat. 1995, 2075–2077; Oct. 22, 1986, Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), 100 Stat. 2251, 2509, 2936–2940; Nov. 10, 1988, Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), 102 Stat. 3488, 3589, 3624, 3625; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(4), 103 Stat. 830; Dec. 19, 1989, Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), 103 Stat. 2233, 2306, 2432; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), 104 Stat. 1388–413, 1388–479; Dec. 11, 1991, Pub. L. 102–227, title I, §110(a)(1), 105 Stat. 1688; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1938(a), 106 Stat. 3033; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), 107 Stat. 435, 457, 469, 477, 568.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Sept. 2, 1958, Pub. L. 85–866, title I, §5(a), 72 Stat. 1608; Sept. 14, 1960, Pub. L. 86–779, §§7(b), 8(a), 74 Stat. 1002, 1003; Oct. 16, 1962, Pub. L. 87–834, §§3(a), 4(b), 76 Stat. 973, 976; Dec. 30, 1969, Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), 83 Stat. 648, 710; Dec. 10, 1971, Pub. L. 92–178, title III, §310(a), 85 Stat. 525; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), 90 Stat. 1803, 1834; Aug. 13, 1981, Pub. L. 97–34, title I, §127(a), 95 Stat. 202; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2146(b), 95 Stat. 801; Oct. 1, 1981, Pub. L. 97–51, §139(b)(1), 95 Stat. 967; July 18, 1982, Pub. L. 97–216, title II, §215(a), 96 Stat. 194; Sept. 3, 1982, Pub. L. 97–248, title I, §128(b), title II, §288(a), 96 Stat. 366, 571; July 18, 1984, Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), 98 Stat. 863, 1102; Oct. 30, 1984, Pub. L. 98–573, title II, §232(a), 98 Stat. 2991; Apr. 7, 1986, Pub. L. 99–272, title X, §10001(a), (c), (d), 100 Stat. 222, 223, 227; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), 100 Stat. 1995, 2075–2077; Oct. 22, 1986, Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), 100 Stat. 2251, 2509, 2936–2940; Nov. 10, 1988, Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), 102 Stat. 3488, 3589, 3624, 3625; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(4), 103 Stat. 830; Dec. 19, 1989, Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), 103 Stat. 2233, 2306, 2432; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), 104 Stat. 1388–413, 1388–479;Dec. 11, 1991, Pub. L. 102–227, title I, §110(a)(1), 105 Stat. 1688; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1938(a), 106 Stat. 3033; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), 107 Stat. 435, 457, 469, 477, 568; Apr. 11, 1995, Pub. L. 104–7, §1(a), (b), 109 Stat. 93.)
 
 #### References in Text
 
@@ -343,6 +339,10 @@ Section 4 of the Clayton Act, referred to in subsec. (g)(1), is classified to se
 The Securities Exchange Act of 1934, referred to in subsec. (m)(2), (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15. Section 12 of the Act is classified to section 78<i>l</i> of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+1995—Subsec. (<i>l</i>)(1). Pub. L. 104–7, §1(b), substituted “30 percent” for “25 percent”.
+
+Subsec. (<i>l</i>)(6). Pub. L. 104–7, §1(a), struck out par. (6) “Termination” which read as follows: “This subsection shall not apply to any taxable year beginning after December 31, 1993.”
 
 1993—Subsec. (e). Pub. L. 103–66, §13222(a), amended heading and text generally. Prior to amendment, text consisted of pars. (1) and (2) relating to deduction of ordinary and necessary expenses paid or incurred in connection with certain activities relating to congressional, State, and local legislation.
 
@@ -478,7 +478,7 @@ Subsec. (k). Pub. L. 98–573 redesignated former subsec. (j) as (k).
 
 1982—Subsec. (a). Pub. L. 97–216 inserted provisions under which amounts expended by Members of Congress within each taxable year for living expenses shall not be deductible for income tax purposes in excess of $3,000.
 
-Subsec. (c)(1). Pub. L. 97–248, §288(a), substituted “is unlawful under the Foreign Corrupt Practices Act of 1977” for “would be unlawful under the laws of the United States if such laws were applicable to such payment and to such official or employee” after “government, the payment”, and “(or is unlawful under theForeign Corrupt Practices Act of 1977)” for “(or would be unlawful under the laws of the United States)” before “shall be upon the Secretary”.
+Subsec. (c)(1). Pub. L. 97–248, §288(a), substituted “is unlawful under the Foreign Corrupt Practices Act of 1977” for “would be unlawful under the laws of the United States if such laws were applicable to such payment and to such official or employee” after “government, the payment”, and “(or is unlawful under the Foreign Corrupt Practices Act of 1977)” for “(or would be unlawful under the laws of the United States)” before “shall be upon the Secretary”.
 
 Subsec. (h). Pub. L. 97–248, §128(b)(2), redesignated subsec. (i), relating to State legislators’ travel expenses away from home, as (h). Former subsec. (h), relating to group health plans, redesignated (i).
 
@@ -522,6 +522,18 @@ Subsecs. (d), (e). Pub. L. 86–779, §8(a), added subsec. (d) and redesignated 
 
 1958—Subsecs. (c), (d). Pub. L. 85–866, §5(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 1995 Amendment
+
+Section 1(c) of Pub. L. 104–7 provided that:
+
+“(1)
+
+Extension.—The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1993.
+
+“(2)
+
+Increase.—The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13131(d)(2) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1993, see section 13131(e) of Pub. L. 103–66, set out as a note under section 32 of this title.
@@ -534,7 +546,7 @@ Section 13211(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 Section 13222(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 170, 6033, and 7871 of this title\] shall apply to amounts paid or incurred after December 31, 1993.”
 
-Section 13442(b) of Pub. L. 103–66 provided that: “The provisions of this section \[amending this section\] shall apply to services provided after February 2, 1993, and on or before May 12, 1995.”
+Section 13442(b) of Pub. L. 103–66, as amended by Pub. L. 104–7, §5, Apr. 11, 1995, 109 Stat. 96, provided that: “The provisions of this section \[amending this section\] shall apply to services provided after February 2, 1993, and on or before December 31, 1995.”
 
 #### Effective Date of 1992 Amendment
 
@@ -572,7 +584,7 @@ Section 3011(d) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Effective Date of 1986 Amendments
 
-Section 613(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any amount paid or incurred after February 28, 1986, in taxable years ending after such date.”
+Section 613(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to any amount paid or incurred after February 28, 1986, in taxable years ending after such date.”
 
 Section 1161(b) of Pub. L. 99–514 provided that:
 
@@ -630,7 +642,7 @@ Amendment by section 2354(d) of Pub. L. 98–369 effective July 18, 1984, but no
 
 Section 288(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 952 and 964 of this title\] shall apply to payments made after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
-Amendment by section 128(b) of Pub. L. 97–248 effective as if such amendment had been originally included as part of this section as this section was amended bythe Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 128(e)(2) of Pub. L. 97–248, set out as a note under section 1395x of Title 42, The Public Health and Welfare.
+Amendment by section 128(b) of Pub. L. 97–248 effective as if such amendment had been originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 128(e)(2) of Pub. L. 97–248, set out as a note under section 1395x of Title 42, The Public Health and Welfare.
 
 Section 215(d) of Pub. L. 97–216 provided that: “The amendments made by this section \[amending this section and section 280A of this title and repealing provisions set out as a note under this section\] shall apply to taxable years beginning after December 31, 1981.”
 
@@ -694,7 +706,7 @@ Not To Apply if Employee Claims Depreciation Deductions for Automobile.—Subsec
 
 “(c)
 
-Basic Standard Rate.—For purposes of this section, the term ‘basic standard rate’ means the standard mileage rate which is prescribed by the Secretary of the Treasury or his delegate for computing the amountof the deduction for the business use of an automobile and which—
+Basic Standard Rate.—For purposes of this section, the term ‘basic standard rate’ means the standard mileage rate which is prescribed by the Secretary of the Treasury or his delegate for computing the amount of the deduction for the business use of an automobile and which—
 
 &emsp;“(1) is in effect at the time of the use referred to in subsection (a),
 
@@ -780,5 +792,5 @@ Trade or business defined, see section 7701 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 62, 67, 83, 127, 132, 170, 172, 179, 192, 263, 274, 280A, 404, 421, 465, 527, 542,543, 545, 556, 691, 707, 832, 911, 952, 964, 988, 995, 1054, 1253, 1402, 6033 of this title; title 15 section 78kkk; title 42 sections 300bb–8, 403, 411.
+This section is referred to in sections 62, 67, 83, 127, 132, 170, 172, 179, 192, 263, 274, 280A, 404, 421, 465, 527, 542, 543, 545, 556, 691, 707, 832, 911, 952, 964, 988, 995, 1054, 1253, 1402, 6033 of this title; title 2 section 1610; title 15 section 78kkk; title 42 sections 300bb–8, 403, 411.
 

@@ -50,7 +50,7 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 

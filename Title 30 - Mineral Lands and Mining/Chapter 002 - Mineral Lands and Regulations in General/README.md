@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [21\.](%C2%A7%2000021%20-%20Mineral%20lands%20reserved.md) | Mineral lands reserved. |
-| [21a.](%C2%A7%2000021a%20-%20National%20mining%20and%20minerals%20policy%3B%20%E2%80%9Cminerals%E2%80%9D%20defined%3B%20execution%20of%20policy%20under%20other%20authorized%20programs%3B%20report%20to%20Congress.md) | National mining and minerals policy; “minerals” defined; execution of policy under other authorized programs; report to Congress. |
+| [21a.](%C2%A7%2000021a%20-%20National%20mining%20and%20minerals%20policy%3B%20%E2%80%9Cminerals%E2%80%9D%20defined%3B%20execution%20of%20policy%20under%20other%20authorized%20programs.md) | National mining and minerals policy; “minerals” defined; execution of policy under other authorized programs. |
 | [22\.](%C2%A7%2000022%20-%20Lands%20open%20to%20purchase%20by%20citizens.md) | Lands open to purchase by citizens. |
 | [23\.](%C2%A7%2000023%20-%20Length%20of%20claims%20on%20veins%20or%20lodes.md) | Length of claims on veins or lodes. |
 | [24\.](%C2%A7%2000024%20-%20Proof%20of%20citizenship.md) | Proof of citizenship. |
@@ -77,7 +77,7 @@ This chapter is referred to in title 16 section 1907; title 43 sections 299, 178
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00021 - Mineral lands reserved](%C2%A7%2000021%20-%20Mineral%20lands%20reserved.md)
-- [&sect; 00021a - National mining and minerals policy; &#8220;minerals&#8221; defined; execution of policy under other authorized programs; report to Congress](%C2%A7%2000021a%20-%20National%20mining%20and%20minerals%20policy%3B%20%E2%80%9Cminerals%E2%80%9D%20defined%3B%20execution%20of%20policy%20under%20other%20authorized%20programs%3B%20report%20to%20Congress.md)
+- [&sect; 00021a - National mining and minerals policy; &#8220;minerals&#8221; defined; execution of policy under other authorized programs](%C2%A7%2000021a%20-%20National%20mining%20and%20minerals%20policy%3B%20%E2%80%9Cminerals%E2%80%9D%20defined%3B%20execution%20of%20policy%20under%20other%20authorized%20programs.md)
 - [&sect; 00022 - Lands open to purchase by citizens](%C2%A7%2000022%20-%20Lands%20open%20to%20purchase%20by%20citizens.md)
 - [&sect; 00023 - Length of claims on veins or lodes](%C2%A7%2000023%20-%20Length%20of%20claims%20on%20veins%20or%20lodes.md)
 - [&sect; 00024 - Proof of citizenship](%C2%A7%2000024%20-%20Proof%20of%20citizenship.md)

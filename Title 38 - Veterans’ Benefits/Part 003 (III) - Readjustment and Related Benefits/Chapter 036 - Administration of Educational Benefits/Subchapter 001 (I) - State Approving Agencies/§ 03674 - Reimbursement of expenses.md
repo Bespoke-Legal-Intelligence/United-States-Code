@@ -54,7 +54,7 @@ Subsec. (a)(2)(A), (C). Pub. L. 102–83, §5(c)(1), substituted “3674A(a)(4)�
 
 Subsec. (a)(2)(A). Pub. L. 101–237, §414(1), substituted “section, for expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title (except for administrative overhead expenses allocated to such activities), and for” for “section and for”.
 
-Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end “and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title for such period (except for administrative overhead expenses allocated to such activities)”.
+Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end “and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of thistitle for such period (except for administrative overhead expenses allocated to such activities)”.
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -118,7 +118,7 @@ Section 6(b) of Pub. L. 90–631 provided that: “The amendments made by sectio
 
 #### Reimbursement From Account Used for Payment of Readjustment Benefits
 
-Section 13(a)(2) of Pub. L. 100–323 provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I of chapter 36 of title 38, United States Code,for fiscal year 1988 before the date of the enactment of this Act \[May 20, 1988\] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
+Section 13(a)(2) of Pub. L. 100–323 provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I of chapter 36 of title 38, United States Code, for fiscal year 1988 before the date of the enactment of this Act \[May 20, 1988\] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
 
 #### Section Referred to in Other Sections
 

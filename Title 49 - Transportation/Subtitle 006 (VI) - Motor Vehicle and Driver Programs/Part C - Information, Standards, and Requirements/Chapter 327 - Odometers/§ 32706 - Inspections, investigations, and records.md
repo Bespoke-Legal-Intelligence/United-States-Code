@@ -20,7 +20,7 @@ Entry, Inspection, and Impoundment.—(1) In carrying out subsection (a) of this
 
 (c)
 
-Reasonable Compensation.—When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter II of chapter 105 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle or equipment.
+Reasonable Compensation.—When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter II <sup>1</sup> of chapter 105 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle or equipment.
 
 (d)
 
@@ -106,7 +106,7 @@ In subsection (b)(2), the words “shall be commenced and completed” are omitt
 
 In subsection (c), the words “the authority of” and “any item of” are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words “the Secretary may require” are substituted for “as the Secretary may reasonably require” and “as the Secretary finds necessary” to eliminate unnecessary words. In clause (B), the words “such officer or employee” and “reason or” are omitted as surplus. In clause (C), the words “duly” and “upon request of such officer or employee” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “the Secretary may require” are substituted for “as the Secretary may reasonably require” and “as the Secretaryfinds necessary” to eliminate unnecessary words. In clause (B), the words “such officer or employee” and “reason or” are omitted as surplus. In clause (C), the words “duly” and “upon request of such officer or employee” are omitted as surplus.
 
 In subsection (d)(2), the words “and subsection (e)(1)(B) of this section” are added for clarity.
 
@@ -117,6 +117,10 @@ In subsection (e)(3), the words “A civil action to enforce a subpena or order 
 #### Pub. L. 103–429
 
 This amends 49:32706(e)(3) to clarify the restatement of 15:1990d(c)(4) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1053).
+
+#### References in Text
+
+Subchapter II of chapter 105 of this title, referred to in subsec. (c), was omitted in the general amendment of subtitle IV of this title by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in subchapter II of chapter 105 are contained in chapter 135 of this title.
 
 #### Amendments
 
@@ -129,4 +133,6 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 32707 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

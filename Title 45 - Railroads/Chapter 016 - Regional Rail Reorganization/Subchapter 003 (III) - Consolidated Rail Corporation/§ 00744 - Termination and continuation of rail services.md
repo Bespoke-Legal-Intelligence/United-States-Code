@@ -18,7 +18,7 @@
 
 &emsp;(iii) such discontinuance is not precluded by the terms of the leases and agreements referred to in such section 743(b)(2).
 
-(B) For purposes of this paragraph, rail service on rail properties is compensatory if the revenueattributable to such properties from such service equals or exceeds the sum of the avoidable costs of providing such service on such properties plus a reasonable return on the value of such rail properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) of title 49.
+(B) For purposes of this paragraph, rail service on rail properties is compensatory if the revenue attributable to such properties from such service equals or exceeds the sum of the avoidable costs of providing such service on such properties plus a reasonable return on the value of such rail properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) <sup>1</sup> of title 49.
 
 (C) The Commission shall make its final determination, with respect to any discontinuance requested under this paragraph, not later than 120 days after the date of filing of an application therefor. The applicant shall have the burden of proving that the service involved is not compensatory. If the Commission fails to make a final determination within such time, the application shall be deemed to be granted.
 
@@ -30,7 +30,7 @@
 
 (2) In any case in which rail properties proposed to be abandoned under this section are designated by the final system plan as rail properties which are suitable for use for other public purposes (including roads or highways, other forms of mass transportation, conservation, and recreation), such rail properties shall not be sold, leased, exchanged, or otherwise disposed of during the 240-day period beginning on the date of notice of proposed abandonment under this section unless such rail properties have first been offered, upon reasonable terms, for acquisition for public purposes.
 
-(3) Rail service may be discontinued, under subsection (a) of this section, and rail properties may be abandoned, under this section, notwithstanding any provision of subtitle IV of title 49, the constitution or law of any State, or the decision of any court or administrative agency of the United States or of any State.
+(3) Rail service may be discontinued, under subsection (a) of this section, and rail properties may be abandoned, under this section, notwithstanding any provision of the <sup>2</sup> part A of subtitle IV of title 49, the constitution or law of any State, or the decision of any court or administrative agency of the United States or of any State.
 
 #### (c) Continuation of rail services
 
@@ -60,21 +60,15 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 > A designated railroad may refuse to enter into such an operating agreement only if the Commission determines, on petition by any affected party, that the agreement would substantially impair such railroad's ability to serve adequately its own patrons or to meet its outstanding common carrier obligations. The designated operator shall, pursuant to each such operating agreement (i) be obligated to operate rail freight service on such rail properties, and (ii) be entitled to receive, from the person offering such payment, the difference between the revenue attributable to such properties and the avoidable costs of providing service on such rail properties, together with a reasonable management fee, as determined by the Office.
 
-(2) The trustees of a railroad in reorganization shall permit rail service to be continued on any rail properties with respect to which a rail service continuation payment operating agreement has been entered into under this subsection. Such trustees shall receive a reasonable return on the value of such properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) of title 49.
+(2) The trustees of a railroad in reorganization shall permit rail service to be continued on any rail properties with respect to which a rail service continuation payment operating agreement has been entered into under this subsection. Such trustees shall receive a reasonable return on the value of such properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) <sup>3</sup> of title 49.
 
-(3) If necessary to prevent any disruption or loss of rail service, at any time after the date ofconveyance, pursuant to section 743(b)(1) of this title, the Commission—
-
-&emsp;(A) shall take such action as may be appropriate under its existing authority (including the enforcement of common carrier requirements applicable to railroads in reorganization in the region) to ensure compliance with obligations imposed under this subsection; and
-
-&emsp;(B) shall have authority, in accordance with the provisions of section 11125 of title 49, to direct rail service to be provided by any designated railroad or by the trustees of a railroad in reorganization in the region, if a rail service continuation payment has been offered but an applicable operating or lease agreement is not in effect.
-
-> For purposes of the preceding sentence, any compensation required as a result of such directed service shall be determined in accordance with the standards developed pursuant to section 10362(b)(6) of title 49. The district courts of the United States shall have jurisdiction, upon petition by the Commission or any interested person (including a government entity), to enforce any order of the Commission issued pursuant to the exercise of its authority under this subsection, or to enjoin any designated entity or the trustees of a railroad in reorganization in the region from refusing to comply with the provisions of this subsection.
+(3) If necessary to prevent any disruption or loss of rail service, at any time after the date of conveyance, pursuant to section 743(b)(1) of this title, the Commission shall take such action as may be appropriate under its existing authority (including the enforcement of common carrier requirements applicable to railroads in reorganization in the region) to ensure compliance with obligations imposed under this subsection. The district courts of the United States shall have jurisdiction, upon petition by the Commission or any interested person (including a government entity), to enforce any order of the Commission issued pursuant to the exercise of its authority under this subsection, or to enjoin any designated entity or the trustees of a railroad in reorganization in the region from refusing to comply with the provisions of this subsection.
 
 (4) No determination of reasonable payment for the use of rail properties of a railroad in reorganization in the region, and no determination of value of rail properties of such a railroad (including supporting or related documents or reports of any kind) which is made in connection with any lease agreement, contract of sale, or other agreement or understanding which is entered into after October 19, 1976—
 
 &emsp;(A) pursuant to this section; or
 
-&emsp;(B) pursuant to section 762 <sup>1</sup> of this title or section 17 <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613),
+&emsp;(B) pursuant to section 762 <sup>3</sup> of this title or section 17 <sup>3</sup> of the Federal Transit Act (49 U.S.C. 1613),
 
 > shall be admitted as evidence, or used for any other purpose, in any civil action, or any other proceeding for damages or compensation, arising under this chapter.
 
@@ -98,25 +92,25 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 (4) If a State (or a local or regional transportation authority)—
 
-&emsp;(A) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section and under regulations issued by the Office pursuant to section 10362(b)(5) of title 49, for the operation of rail passenger service after the 180-day mandatory operation period, and
+&emsp;(A) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of the <sup>4</sup> section, for the operation of rail passenger service after the 180-day mandatory operation period, and
 
 &emsp;(B) provides compensation, pursuant to paragraph (2) of this subsection, for operations conducted during the 180-day mandatory operation period; or
 
-&emsp;(C) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section and regulations issued by the Office pursuant to section 10362(b)(5) of title 49, for the operation of rail passenger service provided under an agreement or lease pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section where such offer is made for the continuation of the service beyond the period required by such agreement or lease, except that such services shall not be eligible for assistance under section 17(a)(2) <sup>2</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)),
+&emsp;(C) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section, for the operation of rail passenger service provided under an agreement or lease pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section where such offer is made for the continuation of the service beyond the period required by such agreement or lease, except that such services shall not be eligible for assistance under section 17(a)(2) <sup>5</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)),
 
 > the Corporation (or a profitable railroad) shall continue to provide such service after the end of such period, except as otherwise provided in this subsection.
 
-(5)(A) The Secretary shall reimburse the Corporation (or a profitable railroad) for any loss which is incurred by it during the 180-day mandatory operation period specified in paragraph (1) of this subsection which is not compensated for by a State (or a local or regional transportation authority). The amount of such reimbursement shall be determined pursuant to section 17(a)(1) <sup>2</sup> of the Federal Transit Act and under regulations issued by the Office pursuant to section 10362(b)(5) of title 49.
+(5)(A) The Secretary shall reimburse the Corporation (or a profitable railroad) for any loss which is incurred by it during the 180-day mandatory operation period specified in paragraph (1) of this subsection which is not compensated for by a State (or a local or regional transportation authority). The amount of such reimbursement shall be determined pursuant to section 17(a)(1) <sup>5</sup> of the Federal Transit Act.
 
-(B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) <sup>2</sup> of the Federal Transit Act and under regulations issued by the Office pursuant to section 10362(b)(5) of title 49.
+(B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) <sup>5</sup> of the Federal Transit Act.
 
-(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term “loss” as used in subparagraph (A) of this paragraph and within the meaning of the term “additional costs” as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>2</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
+(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term “loss” as used in subparagraph (A) of this paragraph and within the meaning of the term “additional costs” as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>5</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
 
 (D) If a dispute arises with respect to the application of any such regulations, the parties to such dispute may submit such dispute to arbitration by a third party. If the parties are unable to agree upon the selection of an arbitrator, the Chairman of the Commission shall serve in that capacity (except as to matters required to be decided by the Commission, pursuant to section 562(a) of this title).
 
 (6) Notwithstanding any other provision of this subsection, the Corporation is not obligated to provide rail passenger service on rail properties if a State (or a local or regional transportation authority) contracts for such service to be provided on such properties by an operator other than the Corporation, except that the Corporation shall, where appropriate, provide such operator with access to such properties for such purpose.
 
-(7)(A) If a State (or a local or regional transportation authority) in the region offers to provide payment for the provision of additional rail passenger service, the Corporation shall undertake to provide such service pursuant to this subsection (including the discontinuance provisions of paragraph (2) of this subsection). An offer to provide payment for the provision of additional rail passenger service shall be made in accordance with subsection (c)(2)(A) of this section and under regulations issued by the Office pursuant to section 10362(b)(5) of title 49, and shall be designed to avoid any additional costs to the Corporation arising from the construction or modification of capital facilities or from any additional operating delays or costs arising from the absence of such construction or modification. The State (or local or regional transportation authority) shall demonstrate that it has acquired, leased, or otherwise obtained access to all rail properties, other than those designated for conveyance to the National Railroad Passenger Corporation pursuant to sections 716(c)(1)(C) and 716(c)(1)(D) of this title and to the Corporation pursuant to section 743(b)(1) of this title, necessary to provide the additional rail passenger service and that it has completed, or will complete prior to the inception of the additional rail service, all capital improvements necessary to avoid significant costs which cannot be avoided by improved scheduling or other means on other existing rail services (including rail freight service) and to assure that the additional service will not detract from the level and quality of existing rail passenger and freight service.
+(7)(A) If a State (or a local or regional transportation authority) in the region offers to provide payment for the provision of additional rail passenger service, the Corporation shall undertake to provide such service pursuant to this subsection (including the discontinuance provisions of paragraph (2) of this subsection). An offer to provide payment for the provision of additional rail passenger service shall be made in accordance with subsection (c)(2)(A) of this section, and shall be designed to avoid any additional costs to the Corporation arising from the construction or modification of capital facilities or from any additional operating delays or costs arising from the absence of such construction or modification. The State (or local or regionaltransportation authority) shall demonstrate that it has acquired, leased, or otherwise obtained access to all rail properties, other than those designated for conveyance to the National Railroad Passenger Corporation pursuant to sections 716(c)(1)(C) and 716(c)(1)(D) of this title and to the Corporation pursuant to section 743(b)(1) of this title, necessary to provide the additional rail passenger service and that it has completed, or will complete prior to the inception of the additional rail service, all capital improvements necessary to avoid significant costs which cannot be avoided by improved scheduling or other means on other existing rail services (including rail freight service) and to assure that the additional service will not detract from the level and quality of existing rail passenger and freight service.
 
 (B) As used in this paragraph, the term “additional rail passenger service” means rail passenger service (other than rail passenger service provided pursuant to the provisions of paragraphs (2) and (4) of this subsection), including extended or expanded service and modified routings, which is to be provided over rail properties conveyed to the Corporation pursuant to section 743(b)(1) of this title, or over (i) rail properties contiguous thereto conveyed to the National Railroad Passenger Corporation pursuant to this chapter, or (ii) any other rail properties contiguous thereto to which a State (or local or regional transportation authority) has obtained access.
 
@@ -130,7 +124,7 @@ If an offer to purchase is made under subsection (c)(2)(C) of this section, such
 
 #### (g) Abandonment by Corporation
 
-After the rail system to be operated by the Corporation or a subsidiary thereof under the final system plan has been in operation for 2 years, the Commission may authorize the Corporation or a subsidiary thereof to abandon any rail properties as to which it determines that rail service over such properties is not required by the public convenience and necessity, if the Corporation or a subsidiary thereof can demonstrate that no State (or local or regional transportation authority) is willing to offer a rail service continuation payment pursuant to subsection (c) of this section. The Commission may, at any time after the effective date of the final system plan, authorize additional rail service in the region or authorize the abandonment of rail properties which are not being operated by the Corporation or any subsidiary or affiliate thereof or by any other person. Determinations by the Commission under this subsection shall be made pursuant to applicable provisions of subtitle IV of title 49.
+After the rail system to be operated by the Corporation or a subsidiary thereof under the final system plan has been in operation for 2 years, the Commission may authorize the Corporation or a subsidiary thereof to abandon any rail properties as to which it determines that rail service over such properties is not required by the public convenience and necessity, if the Corporation or a subsidiary thereof can demonstrate that no State (or local or regional transportation authority) is willing to offer a rail service continuation payment pursuant to subsection (c) of this section. The Commission may, at any time after the effective date of the final system plan, authorize additional rail service in the region or authorize the abandonment of rail properties which are not being operated by the Corporation or any subsidiary or affiliate thereof or by any other person. Determinations by the Commission under this subsection shall be made pursuant to applicable provisions of part A of subtitle IV of title 49.
 
 #### (h) Interim abandonment
 
@@ -146,9 +140,11 @@ No railroad in reorganization in the region and no person leased, operated or co
 
 &emsp;(3) following certification to the special court, pursuant to section 719(c) of this title, of any such rail properties not previously so certified.
 
-(Pub. L. 93–236, title III, §304, Jan. 2, 1974, 87 Stat. 1008; Pub. L. 94–210, title VI, §607(i), title VIII, §804, Feb. 5, 1976, 90 Stat. 97, 133; Pub. L. 94–555, title II, §§205, 206, Oct. 19, 1976, 90 Stat. 2620, 2621; Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 95–607, title II, §201, Nov. 8, 1978, 92 Stat. 3064; Pub. L. 97–449, §4(b)(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088.)
+(Pub. L. 93–236, title III, §304, Jan. 2, 1974, 87 Stat. 1008; Pub. L. 94–210, title VI, §607(i), title VIII, §804, Feb. 5, 1976, 90 Stat. 97, 133; Pub. L. 94–555, title II, §§205, 206, Oct. 19, 1976, 90 Stat. 2620, 2621; Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 95–607, title II, §201, Nov. 8, 1978, 92 Stat. 3064; Pub. L. 97–449, §4(b)(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–88, title III, §327(3), Dec. 29, 1995, 109 Stat. 951.)
 
 #### References in Text
+
+Section 10362(b)(6) of title 49, referred to in subsecs. (a)(2)(B) and (d)(2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, in subsec. (d)(2), “section 10362(b)(6) of title 49” was substituted for “section 205(d)(6) of this Act”, meaning section 205(d)(6) of Pub. L. 93–236, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49.
 
 Section 762 of this title, referred to in subsec. (d)(4)(B), was repealed by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
 
@@ -156,13 +152,27 @@ Section 17 of the Federal Transit Act, referred to in subsecs. (d)(4)(B) and (e)
 
 Section 77 of the Bankruptcy Act, referred to in subsec. (i)(2), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
-#### Codification
-
-In subsecs. (a)(2)(B), (d)(2) and (3), (e)(4)(A) and (C), (e)(5)(A) and (B), and (e)(7)(A), references to “section 10362(b)(5) of title 49” and “section 10362(b)(6) of title 49” substituted for “section 715(d)(5) of this title” and “section 715(d)(6) of this title”, respectively, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
-
-In subsecs. (b)(3), (d)(3)(B), and (g), reference to “subtitle IV of title 49” and “section 11125 of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” and “section 1(16)(b) of the Interstate Commerce Act \[49 U.S.C. 1(16)(b)\]”, respectively, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466,the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
-
 #### Amendments
+
+1995—Subsec. (a)(2)(B). Pub. L. 104–88, §327(3)(A), substituted “section 10362(b)(6) of title 49” for “section 205(d)(6) of this Act”.
+
+Subsec. (b)(3). Pub. L. 104–88, §327(3)(B), substituted “part A of subtitle IV of title 49” for “Interstate Commerce Act”.
+
+Subsec. (d)(3). Pub. L. 104–88, §327(3)(C), substituted “this title, the Commission” for “this title, the Commission—”, struck out “(A)” before “shall take such action”, and substituted “under this subsection.” for “under this subsection; and
+
+&emsp;“(B) shall have authority, in accordance with the provisions of section 1(16)(b) of the Interstate Commerce Act (49 U.S.C. 1(16)(b)), to direct rail service to be provided by any designated railroad or by the trustees of a railroad in reorganization in the region, if a rail service continuation payment has been offered but an applicable operating or lease agreement is not in effect.
+
+> For purposes of the preceding sentence, any compensation required as a result of such directed service shall be determined in accordance with the standards developed pursuant to section 205(d)(6) of this Act.”
+
+Subsec. (e)(4)(A). Pub. L. 104–88, §327(3)(D)(i), struck out “and under regulations issued by the Office pursuant to section 205(d)(5) of this Act” before “, for the operation”.
+
+Subsec. (e)(4)(C). Pub. L. 104–88, §327(3)(D)(ii), struck out “and regulations issued by the Office pursuant to section 205(d)(5) of this Act” after “subsection (c)(2)(A) of this section”.
+
+Subsec. (e)(5)(A), (B). Pub. L. 104–88, §327(3)(E), struck out before period at end “and under regulations issued by the Office pursuant to section 205(d)(5) of this Act”.
+
+Subsec. (e)(7)(A). Pub. L. 104–88, §327(3)(F), struck out “and under regulations issued by the Office pursuant to section 205(d)(5) of this Act” after “subsection (c)(2)(A) of this section”.
+
+Subsec. (g). Pub. L. 104–88, §327(3)(G), substituted “part A of subtitle IV of title 49” for “the Interstate Commerce Act”.
 
 1991—Subsecs. (d)(4)(B), (e)(4)(C), (5)(A) to (C). Pub. L. 102–240 substituted “Federal Transit Act” for “Urban Mass Transportation Act of 1964”.
 
@@ -170,7 +180,7 @@ In subsecs. (b)(3), (d)(3)(B), and (g), reference to “subtitle IV of title 49�
 
 1978—Subsec. (e). Pub. L. 95–607 added subpar. (C) of par. (4) and pars. (7) and (8).
 
-Subsec. (j). Pub. L. 95–473 struck out subsec. (j) which provided for exempt rail mass transportation not under the jurisdiction of the Interstate Commerce Commission. See section 10504 of Title 49, Transportation.
+Subsec. (j). Pub. L. 95–473 struck out subsec. (j) which provided for exempt rail mass transportation not under the jurisdiction of the Interstate Commerce Commission.
 
 1976—Subsec. (a). Pub. L. 94–210, §804, redesignated existing provisions as par. (1) and inserted provision relating to applicability to a railroad in reorganization in the region, or of a person leased, operated, or controlled by such a railroad, in subpar. (B) inserted provision relating to notice on the date of any conveyance ordered by the special court, and in subpar. (C) inserted requirement that notice be sent to the Commission and substituted reference to the chief executive officer for reference to the Governor, and added par. (2).
 
@@ -198,9 +208,17 @@ Subsec. (j)(1). Pub. L. 94–555, §206(1), inserted limitation “by rail” to
 
 Subsec. (j)(2)(B). Pub. L. 94–555, §206(2), substituted definition of “mass transportation services” for “mass transportation”.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L. 94–555, set out as a note under section 702 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
@@ -212,9 +230,15 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 741, 742, 1111 of this title; title 49 sections 10362, 24505.
+This section is referred to in sections 741, 742, 1111 of this title; title 49 section 24505.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The word “the” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “this”.</i>
+
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ If notice of a final partnership administrative adjustment with respect to any t
 
 If—
 
-&emsp;(1) the name, address, and taxpayer identification number of a partner are not furnishedon the partnership return for a partnership taxable year, and
+&emsp;(1) the name, address, and taxpayer identification number of a partner are not furnished on the partnership return for a partnership taxable year, and
 
 &emsp;(2)(A) the Secretary, before the expiration of the period otherwise provided under this section with respect to such partner, mails to the tax matters partner the notice specified in paragraph (2) of section 6223(a) with respect to such taxable year, or
 

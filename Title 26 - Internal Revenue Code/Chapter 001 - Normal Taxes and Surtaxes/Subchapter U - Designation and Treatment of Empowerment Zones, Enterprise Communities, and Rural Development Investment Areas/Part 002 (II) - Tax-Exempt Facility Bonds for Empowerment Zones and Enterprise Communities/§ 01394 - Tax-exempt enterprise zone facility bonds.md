@@ -54,7 +54,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (2) Loss of deductions where facility ceases to be qualified
 
-&emsp;No deduction shall be allowed under this chapter for interest on any financing providedfrom any bond to which subsection (a) applies with respect to any facility to the extent such interest accrues during the period beginning on the first day of the calendar year which includes the date on which—
+&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applies with respect to any facility to the extent such interest accrues during the period beginning on the first day of the calendar year which includes the date on which—
 
 &emsp;&emsp;(A) substantially all of the facility with respect to which the financing was provided ceases to be used in an empowerment zone or enterprise community, or
 

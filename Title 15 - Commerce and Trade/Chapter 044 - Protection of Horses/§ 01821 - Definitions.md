@@ -20,19 +20,19 @@ As used in this chapter unless the context otherwise requires:
 
 &emsp;(4) The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(Pub. L. 91 540, §2, Dec. 9, 1970, 84 Stat. 1404; Pub. L. 94 360, §3, July 13, 1976, 90 Stat. 915.)
+(Pub. L. 91–540, §2, Dec. 9, 1970, 84 Stat. 1404; Pub. L. 94–360, §3, July 13, 1976, 90 Stat. 915.)
 
 #### Amendments
 
-1976—Pub. L. 94 360 added pars. (1) and (2), redesignated subsec. (a), defining “sore” as meaning that certain substances or devices had been applied to any limb of a horse prior to Dec. 9, 1970, resulting in, or reasonably likely to result in, such horse suffering physical pain or distress when walking or trotting, as par. (3) and, as so redesignated, struck out requirement that such substance or device had to have been applied prior to Dec. 9, 1970 in order for a horse to be considered “sored” for purposes of this chapter, and substituted par. (4) defining “State” for subsec. (b) defining “commerce” as between a point in any State or possession of the United States and any point outside thereof, or between points within the same State or possession of the United States but through any place outside thereof, or within the District of Columbia, or from any foreign country to any point within the United States.
+1976—Pub. L. 94–360 added pars. (1) and (2), redesignated subsec. (a), defining “sore” as meaning that certain substances or devices had been applied to any limb of a horse prior to Dec. 9, 1970, resulting in, or reasonably likely to result in, such horse suffering physical pain or distress when walking or trotting, as par. (3) and, as so redesignated, struck out requirement that such substance or device had to have been applied prior to Dec. 9, 1970 in order for a horse to be considered “sored” for purposes of this chapter, and substituted par. (4) defining “State” for subsec. (b) defining “commerce” as between a point in any State or possession of the United States and any point outside thereof, or between points within the same State or possession of the United States but through any place outside thereof, or within the District of Columbia, or from any foreign country to any point within the United States.
 
 #### Short Title of 1976 Amendment
 
-Section 1(a) of Pub. L. 94 360 provided that: “This Act \[amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and section 1831 of this title\] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
+Section 1(a) of Pub. L. 94–360 provided that: “This Act \[amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and section 1831 of this title\] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 91 540, as amended by Pub. L. 94 360, §2, July 13, 1976, 90 Stat. 915, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act’.”
+Section 1 of Pub. L. 91–540, as amended by Pub. L. 94–360, §2, July 13, 1976, 90 Stat. 915, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

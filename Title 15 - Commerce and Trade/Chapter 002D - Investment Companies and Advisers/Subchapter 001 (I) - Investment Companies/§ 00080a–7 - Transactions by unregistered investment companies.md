@@ -36,11 +36,23 @@ No promoter of a proposed investment company, and no underwriter for such a prom
 
 No investment company, unless organized or otherwise created under the laws of the United States or of a State, and no depositor or trustee of or underwriter for such a company not so organized or created, shall make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to offer for sale, sell, or deliver after sale, in connection with a public offering, any security of which such company is the issuer. Notwithstanding the provisions of this subsection and of section 80a–8(a) of this title, the Commission is authorized, upon application by an investment company organized or otherwise created under the laws of a foreign country, to issue a conditional or unconditional order permitting such company to register under this subchapter, and to make a public offering of its securities by use of the mails and means or instrumentalities of interstate commerce, if the Commission finds that, by reason of special circumstances or arrangements, it is both legally and practically feasible effectively to enforce the provisions of this subchapter against such company and that the issuance of such order is otherwise consistent with the public interest and the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §7, 54 Stat. 802.)
+#### (e) Disclosure by exempt charitable organizations
+
+Each fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title shall provide, to each donor to such fund, at the time of the donation or within 90 days after December 8, 1995, whichever is later, written information describing the material terms of the operation of such fund.
+
+(Aug. 22, 1940, ch. 686, title I, §7, 54 Stat. 802; Dec. 8, 1995, Pub. L. 104–62, §2(b), 109 Stat. 683.)
+
+#### Amendments
+
+1995—Subsec. (e). Pub. L. 104–62 added subsec. (e).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Cross References
 

@@ -2,7 +2,7 @@
 
 #### (a) Maintenance, jurisdiction, etc.
 
-In addition to any other action taken by a State or local government, when the President determines that there may be an imminent and substantial endangerment to the public health or welfare or the environment because of an actual or threatened release of a hazardous substance from a facility, he may require the Attorney General of the United States to secure such relief as may be necessary to abate such danger or threat, and the district court of the United States in the district in which the threat occurs shall have jurisdiction to grant such relief as the public interest and the equities of the case may require. The President may also, after notice to the affected State, take other actionunder this section including, but not limited to, issuing such orders as may be necessary to protect public health and welfare and the environment.
+In addition to any other action taken by a State or local government, when the President determines that there may be an imminent and substantial endangerment to the public health or welfare or the environment because of an actual or threatened release of a hazardous substance from a facility, he may require the Attorney General of the United States to secure such relief as may be necessary to abate such danger or threat, and the district court of the United States in the district in which the threat occurs shall have jurisdiction to grant such relief as the public interest and the equities of the case may require. The President may also, after notice to the affected State, take other action under this section including, but not limited to, issuing such orders as may be necessary to protect public health and welfare and the environment.
 
 #### (b) Fines; reimbursement
 
@@ -22,7 +22,7 @@ In addition to any other action taken by a State or local government, when the P
 
 Within one hundred and eighty days after December 11, 1980, the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering of information, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2),<sup>1</sup> 1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) section 2606 of title 15.
 
-(Pub. L. 96–510, title I, §106, Dec. 11, 1980, 94 Stat. 2780; Pub. L. 99–499, title I, §§106, 109(b), Oct. 17, 1986, 100 Stat. 1628, 1633; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–510, title I, §106, Dec. 11, 1980, 94 Stat. 2780; Pub. L. 99–499, title I, §§106, 109(b), Oct. 17,1986, 100 Stat. 1628, 1633; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

@@ -10,7 +10,7 @@ The Administrator may make expenditures from the fund, which shall have been inc
 
 &emsp;(1) construction, acquisition, and replacement of (i) the transmission system, including facilities and structures appurtenant thereto, and (ii) additions, improvements, and betterments thereto (hereinafter in this chapter referred to as “transmission system”);
 
-&emsp;(2) operation, maintenance, repair, and relocation, to the extent such relocation is notprovided for under subsection (1) above, of the transmission system;
+&emsp;(2) operation, maintenance, repair, and relocation, to the extent such relocation is not provided for under subsection (1) above, of the transmission system;
 
 &emsp;(3) electrical research, development, experimentation, test, and investigation related to construction, operation, and maintenance of transmission systems and facilities;
 

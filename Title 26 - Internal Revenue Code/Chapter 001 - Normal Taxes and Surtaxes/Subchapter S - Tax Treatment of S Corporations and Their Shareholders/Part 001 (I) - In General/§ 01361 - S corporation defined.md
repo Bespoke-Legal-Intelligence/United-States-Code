@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this title, the term “S corporation” means, with respect to any taxableyear, a small business corporation for which an election under section 1362(a) is in effect for such year.
+&emsp;For purposes of this title, the term “S corporation” means, with respect to any taxable year, a small business corporation for which an election under section 1362(a) is in effect for such year.
 
 #### (2) C corporation
 
@@ -98,11 +98,11 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to provide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate toprovide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
 
 #### (6) Ownership of stock in certain inactive corporations
 
-&emsp;For purposes of subsection (b)(2)(A), a corporation shall not be treated as a member ofan affiliated group during any period within a taxable year by reason of the ownership of stock in another corporation if such other corporation—
+&emsp;For purposes of subsection (b)(2)(A), a corporation shall not be treated as a member of an affiliated group during any period within a taxable year by reason of the ownership of stock in another corporation if such other corporation—
 
 &emsp;&emsp;(A) has not begun business at any time on or before the close of such period, and
 
@@ -190,7 +190,7 @@ A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, p
 
 Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end “A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).”
 
-1984—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “onor before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
+1984—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “on or before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
 
 Subsec. (d)(2)(B)(i). Pub. L. 98–369, §721(f)(3), substituted “corporation” for “S corporation” in heading and text.
 
@@ -290,7 +290,7 @@ Grandfather Rules.—
 
 &emsp;“(1)
 
-Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which on September 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting ‘without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof’ for ‘without regard to the exceptions contained in subsection (b) thereof’.
+Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which onSeptember 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting ‘without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof’ for ‘without regard to the exceptions contained in subsection (b) thereof’.
 
 &emsp;“(2)
 
@@ -402,7 +402,7 @@ Taxable Year of S Corporations.—Section 1378 of the Internal Revenue Code of 1
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Provisions
 

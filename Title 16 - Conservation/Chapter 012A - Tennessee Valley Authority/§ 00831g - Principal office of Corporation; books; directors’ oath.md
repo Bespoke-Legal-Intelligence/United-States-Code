@@ -1,4 +1,4 @@
-### §831g . Principal office of Corporation; books; directors’ oath
+### §831g. Principal office of Corporation; books; directors’ oath
 
 #### (a) Location
 

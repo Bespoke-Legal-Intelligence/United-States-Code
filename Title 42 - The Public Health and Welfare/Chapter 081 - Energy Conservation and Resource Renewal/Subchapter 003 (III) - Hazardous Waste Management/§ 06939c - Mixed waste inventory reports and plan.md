@@ -64,7 +64,7 @@
 
 &emsp;(A)(i) For each facility at which the Department of Energy generates or stores mixed wastes, except any facility subject to a permit, agreement, or order described in clause (ii), the Secretary of Energy shall develop and submit, as provided in paragraph (2), a plan for developing treatment capacities and technologies to treat all of the facility's mixed wastes, regardless of the time they were generated, to the standards promulgated pursuant to section 6924(m) of this title.
 
-&emsp;(ii) Clause (i) shall not apply with respect to any facility subject to any permit establishing a schedule for treatment of such wastes, or any existing agreement or administrative orjudicial order governing the treatment of such wastes, to which the State is a party.
+&emsp;(ii) Clause (i) shall not apply with respect to any facility subject to any permit establishing a schedule for treatment of such wastes, or any existing agreement or administrative or judicial order governing the treatment of such wastes, to which the State is a party.
 
 &emsp;(B) Each plan shall contain the following:
 
@@ -80,7 +80,7 @@
 
 &emsp;(A) For each facility that is located in a State (i) with authority under State law to prohibit land disposal of mixed waste until the waste has been treated and (ii) with both authority under State law to regulate the hazardous components of mixed waste and authorization from the Environmental Protection Agency under section 6926 of this title to regulate the hazardous components of mixed waste, the Secretary of Energy shall submit the plan required under paragraph (1) to the appropriate State regulatory officials for their review and approval, modification, or disapproval. In reviewing the plan, the State shall consider the need for regional treatment facilities. The State shall consult with the Administrator and any other State in which a facility affected by the plan is located and consider public comments in making its determination on the plan. The State shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
 
-&emsp;(B) For each facility located in a State that does not have the authority described in subparagraph (A), the Secretary shall submit the plan required under paragraph (1) to the Administrator of the Environmental Protection Agency for review and approval, modification, or disapproval. A copy of the plan also shall be provided by the Secretary to the State in which such facility is located. In reviewing the plan, the Administrator shall consider the need for regional treatment facilities. The Administrator shall consult with the State or States in which any facility affected by the plan is located and consider public comments in making a determination on the plan. The Administrator shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
+&emsp;(B) For each facility located in a State that does not have the authority described in subparagraph (A), the Secretary shall submit the plan required under paragraph (1) to the Administrator of the Environmental Protection Agency for review and approval, modification, or disapproval. A copy of the plan also shall be provided by the Secretary to the State in which such facility is located. In reviewing the plan, the Administrator shall consider the need for regional treatment facilities. The Administrator shall consult with the State orStates in which any facility affected by the plan is located and consider public comments in making a determination on the plan. The Administrator shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
 
 &emsp;(C) Upon the approval of a plan under this paragraph by the Administrator or a State, the Administrator shall issue an order under section 6928(a) of this title, or the State shall issue an order under appropriate State authority, requiring compliance with the approved plan.
 
@@ -122,7 +122,7 @@
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### GAO Report
 

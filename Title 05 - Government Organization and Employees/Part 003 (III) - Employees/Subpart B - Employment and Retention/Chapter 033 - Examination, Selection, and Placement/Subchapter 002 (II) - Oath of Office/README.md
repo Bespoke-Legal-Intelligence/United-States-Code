@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—OATH OF OFFICE
 
-<i><sup>1</sup></i><i> Another section 3329 is set out preceding this section.</i>
-
 
 ---
 

@@ -40,7 +40,7 @@ To become an enrollee in the Job Corps at a center established providing service
 
 #### (d) Screening standards
 
-The Secretary shall prescribe special screening standards under sections 1694 and 1695 of thistitle to identify and select enrollees for purposes of this section.
+The Secretary shall prescribe special screening standards under sections 1694 and 1695 of this title to identify and select enrollees for purposes of this section.
 
 #### (e) Evaluation of centers
 

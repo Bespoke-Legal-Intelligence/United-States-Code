@@ -10,7 +10,7 @@ Enrollment in the Job Corps shall not relieve any individual of obligations unde
 
 #### (c) Proximity of center to enrollee's home
 
-After the Secretary has determined that an enrollee is to be assigned to a Job Corps center,the enrollee shall be assigned to the center which is closest to the enrollee's home, except that the Secretary may waive this requirement for good cause, including to ensure an equitable opportunity for youth from various sections of the Nation to participate in the program, to prevent undue delays in assignment, to adequately meet the educational or other needs of an enrollee, and for efficiency and economy in the operation of the program.
+After the Secretary has determined that an enrollee is to be assigned to a Job Corps center, the enrollee shall be assigned to the center which is closest to the enrollee's home, except that the Secretary may waive this requirement for good cause, including to ensure an equitable opportunity for youth from various sections of the Nation to participate in the program, to prevent undue delays in assignment, to adequately meet the educational or other needs of an enrollee, and for efficiency and economy in the operation of the program.
 
 #### (d) Concurrent or subsequent participation in Job Corps and training services programs for disadvantaged not prohibited
 

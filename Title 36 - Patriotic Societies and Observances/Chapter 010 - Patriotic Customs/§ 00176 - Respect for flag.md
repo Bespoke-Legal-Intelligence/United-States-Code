@@ -8,7 +8,7 @@ No disrespect should be shown to the flag of the United States of America; the f
 
 (c) The flag should never be carried flat or horizontally, but always aloft and free.
 
-(d) The flag should never be used as wearing apparel, bedding, or drapery. It should never be festooned, drawn back, nor up, in folds, but always allowed to fall free. Bunting of blue, white,and red, always arranged with the blue above, the white in the middle, and the red below, should be used for covering a speaker's desk, draping the front of the platform, and for decoration in general.
+(d) The flag should never be used as wearing apparel, bedding, or drapery. It should never be festooned, drawn back, nor up, in folds, but always allowed to fall free. Bunting of blue, white, and red, always arranged with the blue above, the white in the middle, and the red below, should be used for covering a speaker's desk, draping the front of the platform, and for decoration in general.
 
 (e) The flag should never be fastened, displayed, used, or stored in such a manner as to permit it to be easily torn, soiled, or damaged in any way.
 

@@ -16,9 +16,9 @@
 
 &emsp;(4) has received a notification of a decision from the Special Counsel under subsection (a)(2)(B).
 
-(c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought before the Board pursuant to subsection (a)(2)(A) or (b). A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
+(c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought beforethe Board pursuant to subsection (a)(2)(A) or (b). A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
 
-(2) If the Board determines that a Federal executive agency has not complied with the provisions of this chapter relating to the employmentor reemployment of a person by the agency, the Board shall enter an order requiring the agency or employee to comply with such provisions and to compensate such person for any loss of wages or benefits suffered by such person by reason of such lack of compliance.
+(2) If the Board determines that a Federal executive agency has not complied with the provisions of this chapter relating to the employment or reemployment of a person by the agency, the Board shall enter an order requiring the agency or employee to comply with such provisions and to compensate such person for any loss of wages or benefits suffered by such person by reason of such lack of compliance.
 
 (3) Any compensation received by a person pursuant to an order under paragraph (2) shall be in addition to any other right or benefit provided for by this chapter and shall not diminish any such right or benefit.
 

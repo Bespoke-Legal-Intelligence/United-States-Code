@@ -28,7 +28,7 @@
 
 &emsp;(5) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a party in interest, if such plan is required to dispose of such property in order to comply with the provisions of section 1107(a) of this title (relating to the prohibition against holding excess employer securities and employer real property), and if the plan receives not less than adequate consideration.
 
-(d) Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) of this Act shall be treated for purposes of this part (but not for purposes of section 1144 of thistitle) as an act or omission occurring before the effective date of this part.
+(d) Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) of this Act shall be treated for purposes of this part (but not for purposes of section 1144 of this title) as an act or omission occurring before the effective date of this part.
 
 (e) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 

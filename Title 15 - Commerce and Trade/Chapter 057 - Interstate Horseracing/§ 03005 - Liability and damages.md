@@ -6,7 +6,7 @@ Any person accepting any interstate off-track wager in violation of this chapter
 
 &emsp;(2) If such interstate off-track wager was of a type not accepted at the host racing association, the amount of damages shall be determined at the rate of takeout prevailing at the off-track betting system for that type of wager and shall be distributed according to the same formulas as in paragraph (1) above.
 
-(Pub. L. 95 515, §6, Oct. 25, 1978, 92 Stat. 1814.)
+(Pub. L. 95–515, §6, Oct. 25, 1978, 92 Stat. 1814.)
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ Consultation and Reporting.—The working group—
 
 (c)
 
-Regulations on Recommendations.—(1) The Secretary shall prescribe regulations to carry out the recommendations contained in the report submitted under subsection (b) of thissection with which the Secretary agrees. The regulations shall be prescribed by the later of the last day of the 3-year period beginning on the date the working group submitted its report or the last day of the 90-day period beginning on the date on which at least 26 States adopt all of the recommendations of the report. A regulation prescribed under this subsection may not define or limit the amount of a fee a State may impose or collect.
+Regulations on Recommendations.—(1) The Secretary shall prescribe regulations to carry out the recommendations contained in the report submitted under subsection (b) of this section with which the Secretary agrees. The regulations shall be prescribed by the later of the last day of the 3-year period beginning on the date the working group submitted its report or the last day of the 90-day period beginning on the date on which at least 26 States adopt all of the recommendations of the report. A regulation prescribed under this subsection may not define or limit the amount of a fee a State may impose or collect.
 
 (2) A regulation prescribed under this subsection takes effect one year after it is prescribed. The Secretary may extend the one-year period for an additional year for good cause. After a regulation is effective, a State may establish, maintain, or enforce a requirement related to the same subject matter only if the requirement is the same as the regulation.
 
@@ -82,7 +82,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

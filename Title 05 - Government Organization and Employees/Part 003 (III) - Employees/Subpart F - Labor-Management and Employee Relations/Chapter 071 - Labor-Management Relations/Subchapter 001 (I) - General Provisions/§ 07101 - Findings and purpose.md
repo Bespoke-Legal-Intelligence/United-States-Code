@@ -218,7 +218,7 @@ Sec. 10. <i>Exclusive recognition.</i> (a) An agency shall accord exclusive reco
 
 (4) a labor organization should be recognized as the exclusive representative of employees in a unit composed of employees in units currently represented by that labor organization or continue to be recognized in the existing separate units.
 
-(e) When a labor organization has been accorded exclusive recognition, it is the exclusive representative of employees in the unit and is entitled to act for and to negotiate agreements covering all employees in the unit. It is responsible for representing the interests of all employees in the unit without discrimination and without regard to labor organization membership. The labor organization shall be given the opportunity to be represented at formal discussions between management and employees or employee representatives concerning grievances, personnel policies and practices, or other matters affecting general working conditions of employees in the unit.
+(e) When a labor organization has been accorded exclusive recognition, it is the exclusive representative of employees in the unit and is entitled to act for and to negotiate agreements covering all employees in the unit. It is responsible for representing the interests of all employees in the unit without discrimination and without regard to labor organization membership. Thelabor organization shall be given the opportunity to be represented at formal discussions between management and employees or employee representatives concerning grievances, personnel policies and practices, or other matters affecting general working conditions of employees in the unit.
 
 #### Agreements
 
@@ -304,7 +304,7 @@ Sec. 18. <i>Standards of conduct for labor organizations.</i>
 
 (c) A labor organization which has or seeks recognition as a representative of employees under this Order shall file financial and other reports, provide for bonding of officials and employees of the organization, and comply with trusteeship and election standards.
 
-(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles appliedto unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
+(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles applied to unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
 
 Sec. 19. <i>Unfair labor practices.</i> (a) Agency management shall not—
 
@@ -374,7 +374,7 @@ Sec. 26. <i>Effective date.</i> This Order is effective on January 1, 1970, exce
 
 #### Ex. Ord. No. 12871. Labor-Management Partnerships
 
-Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, provided:
+Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855, provided:
 
 The involvement of Federal Government employees and their union representatives is essential to achieving the National Performance Review's Government reform objectives. Only by changing the nature of Federal labor-management relations so that managers, employees, and employees’ elected union representatives serve as partners will it be possible to design and implement comprehensive changes necessary to reform Government. Labor-management partnerships will champion change in Federal Government agencies to transform them into organizations capable of delivering the highest quality services to the American people.
 
@@ -400,9 +400,11 @@ The National Partnership Council. (a) <i>Establishment and Membership</i>. There
 
 (8) President, National Treasury Employees Union;
 
-(9) Secretary-Treasurer of the Public Employees Department, AFL–CIO; and
+(9) Secretary-Treasurer of the Public Employees Department, AFL–CIO;
 
-(10) A deputy Secretary or other officer with department- or agency-wide authority from two executive departments or agencies (hereafter collectively “agency”), not otherwise represented on the Council.
+(10) A deputy Secretary or other officer with department- or agency-wide authority from two executive departments or agencies (hereafter collectively “agency”), not otherwise represented on the Council; and
+
+(11) one elected office holder each from both the Senior Executives Association and the Federal Managers Association.
 
 Members shall have 2-year terms on the Council, which may be extended by the President.
 
@@ -414,17 +416,19 @@ Members shall have 2-year terms on the Council, which may be extended by the Pre
 
 (3) collecting and disseminating information about, and providing guidance on, partnership efforts in the executive branch, including results achieved, to the extent permitted by law;
 
-(4) utilizing the expertise of individuals both within and outside the Federal Government to foster partnership arrangements; and
+(4) utilizing the expertise of individuals both within and outside the Federal Government to foster partnership arrangements;
 
-(5) working with the President's Management Council toward reform consistent with the National Performance Review's recommendations throughout the executive branch.
+(5) working with the President's Management Council toward reform consistent with the National Performance Review's recommendations throughout the executive branch; and
+
+(6) reporting to the President by October 1996 on the progress of and results achieved through labor-management partnership throughout the executive branch.
 
 (c) <i>Administration</i>. (1) The President shall designate a member of the Council who is a full-time Federal employee to serve as Chairperson. The responsibilities of the Chairperson shall include scheduling meetings of the Council.
 
-(2) Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It also may, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from companies, nonprofit organizations, State and local governments, Federal Government employees, and customers of Federal Government services, as needed.
+(2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It also may, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
 
 (3) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
 
-(4) Members of the Council shall serve without compensation for their work on the Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law, for persons serving intermittently in Government service.
+(4) Members of the Council shall serve without compensation for their work on the Council, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law, for persons serving intermittently in Government service.
 
 (5) All agencies shall, to the extent permitted by law, provide to the Council such assistance, information, and advice as the Council may request.
 
@@ -444,7 +448,7 @@ Implementation of Labor-Management Partnerships Throughout the Executive Branch.
 
 (b) involve employees and their union representatives as full partners with management representatives to identify problems and craft solutions to better serve the agency's customers and mission;
 
-(c) provide systematic training of appropriate agency employees (including line managers, first line supervisors, and union representatives who are Federal employees) in consensual methods of dispute resolution,such as alternative dispute resolution techniques and interest-based bargaining approaches;
+(c) provide systematic training of appropriate agency employees (including line managers, first line supervisors, and union representatives who are Federal employees) in consensual methods of dispute resolution, such as alternative dispute resolution techniques and interest-based bargaining approaches;
 
 (d) negotiate over the subjects set forth in 5 U.S.C. 7106(b)(1), and instruct subordinate officials to do the same; and
 
@@ -455,4 +459,8 @@ Sec. 3.
 No Administrative or Judicial Review. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of National Partnership Council
+
+Term of the National Partnership Council extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

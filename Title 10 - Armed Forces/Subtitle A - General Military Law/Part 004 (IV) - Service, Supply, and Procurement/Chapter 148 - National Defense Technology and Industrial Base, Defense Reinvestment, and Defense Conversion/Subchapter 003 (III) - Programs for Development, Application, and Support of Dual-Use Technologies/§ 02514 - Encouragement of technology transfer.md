@@ -2,7 +2,7 @@
 
 (a)
 
-Encouragement of Transfer Required.—The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department ofDefense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title.
+Encouragement of Transfer Required.—The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department of Defense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title.
 
 (b)
 
@@ -26,7 +26,7 @@ Program To Encourage Diversification of Defense Laboratories.—(1) The Secretar
 
 A prior section 2514, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1601, directed Secretary of Defense to enhance research relating to manufacturing technology, prior to repeal by Pub. L. 102–484, §4202(a).
 
-Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in section 2363 of this title prior to repeal by Pub. L. 102–484, §§4224(c), 4271(a)(2).
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 2363 of this title prior to repeal by Pub. L. 102–484, §§4224(c), 4271(a)(2).
 
 #### National Action Plan on Advanced Superconductivity Research and Development
 

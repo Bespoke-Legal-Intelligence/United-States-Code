@@ -18,7 +18,7 @@ In order to carry out further the provisions of this chapter, the Secretary, thr
 
 After consultation with the Secretary of State, the Secretary may—
 
-&emsp;(1) assign or otherwise make available any officer or employee of his department for the purpose of cooperating with foreign countriesand international organizations in developing personnel resources and programs which promote the conservation of fish or wildlife or plants; and
+&emsp;(1) assign or otherwise make available any officer or employee of his department for the purpose of cooperating with foreign countries and international organizations in developing personnel resources and programs which promote the conservation of fish or wildlife or plants; and
 
 &emsp;(2) conduct or provide financial assistance for the educational training of foreign personnel, in this country or abroad, in fish, wildlife, or plant management, research and law enforcement and to render professional assistance abroad in such matters.
 
@@ -58,7 +58,7 @@ Pub. L. 101–162, title VI, §609, Nov. 21, 1989, 103 Stat. 1037, provided that
 
 &emsp;“(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of such species of sea turtles;
 
-&emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservation of such species of sea turtles to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section; and
+&emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservationof such species of sea turtles to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section; and
 
 &emsp;“(5) provide to the Congress by not later than one year after the date of enactment of this section \[Nov. 21, 1989\]—
 

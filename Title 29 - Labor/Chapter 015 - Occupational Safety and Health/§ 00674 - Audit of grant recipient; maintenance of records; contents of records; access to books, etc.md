@@ -2,7 +2,7 @@
 
 (a) Each recipient of a grant under this chapter shall keep such records as the Secretary or the Secretary of Health and Human Services shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant is made or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(b) The Secretary or the Secretary of Health and Human Services, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of any grant under this chapter that are pertinent to any such grant.
+(b) The Secretary or the Secretary of Health and Human Services, and the Comptroller General of the United States, or any of their dulyauthorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of any grant under this chapter that are pertinent to any such grant.
 
 (Pub. L. 91–596, §25, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Requirements To Provide Assistance.—The Secretary of Transportation shall providefinancial, technical, and advisory assistance under this chapter to—
+Requirements To Provide Assistance.—The Secretary of Transportation shall provide financial, technical, and advisory assistance under this chapter to—
 
 &emsp;(1) promote, on a feasibility demonstration basis, the conversion of at least 3 rail passenger terminals into intermodal transportation terminals;
 
@@ -52,7 +52,7 @@ In subsection (a)(3), the words “but only if” are substituted for “unless 
 
 In subsection (a)(4), the word “encourage” is substituted for “stimulating” for clarity.
 
-In subsection (b), the words “This chapter does not affect” are substituted for “Nothing in this subsection shall be construed to invalidate” for clarity and consistency. The words “rail passenger terminal” are substituted for “station”, and the word “law” is substituted for “statute”, for consistency.
+In subsection (b), the words “This chapter does not affect” are substituted for “Nothing in this subsectionshall be construed to invalidate” for clarity and consistency. The words “rail passenger terminal” are substituted for “station”, and the word “law” is substituted for “statute”, for consistency.
 
 #### Section Referred to in Other Sections
 

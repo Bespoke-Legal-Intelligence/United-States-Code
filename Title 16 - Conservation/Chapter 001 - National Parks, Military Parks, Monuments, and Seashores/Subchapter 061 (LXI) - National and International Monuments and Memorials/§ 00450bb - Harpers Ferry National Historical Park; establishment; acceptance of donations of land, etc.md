@@ -16,7 +16,7 @@ In order to carry out the purposes of sections 450bb to 450bb–2 of this title,
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Word “park” substituted in text for “monument” in view of redesignation of Harpers Ferry National Monument as Harpers Ferry National Historical Park by Pub. L. 88–33, set out as section 450bb–6 of this title.
 

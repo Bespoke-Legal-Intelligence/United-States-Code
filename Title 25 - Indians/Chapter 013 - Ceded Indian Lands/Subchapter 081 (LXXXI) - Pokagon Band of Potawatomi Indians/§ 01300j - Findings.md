@@ -4,7 +4,7 @@ The Congress finds the following:
 
 &emsp;(1) The Pokagon Band of Potawatomi Indians is the descendant of, and political successor to, the signatories of the Treaty of Greenville 1795 (7 Stat. 49); the Treaty of Grouseland 1805 (7 Stat. 91); the Treaty of Spring Wells 1815 (7 Stat. 131); the Treaty of the Rapids of the Miami of Lake Erie 1817 (7 Stat. 160); the Treaty of St. Mary's 1818 (7 Stat. 185); the Treaty of Chicago 1821 (7 Stat. 218); the Treaty of the Mississinewa on the Wabash 1826 (7 Stat. 295); the Treaty of St. Joseph 1827 (7 Stat. 305); the Treaty of St. Joseph 1828 (7 Stat. 317); the Treaty of Tippecanoe River 1832 (7 Stat. 399); and the Treaty of Chicago 1833 (7 Stat. 431).
 
-&emsp;(2) In the Treaty of Chicago 1833, the Pokagon Band of Potawatomi Indians was the only band that negotiated a right to remain in Michigan. The other Potawatomi bands relinquished all lands in Michigan and were required to move to Kansas or Iowa.
+&emsp;(2) In the Treaty of Chicago 1833, the Pokagon Band of Potawatomi Indians was the only band that negotiated a right to remain inMichigan. The other Potawatomi bands relinquished all lands in Michigan and were required to move to Kansas or Iowa.
 
 &emsp;(3) Two of the Potawatomi bands later returned to the Great Lakes area, the Forest County Potawatomi of Wisconsin and the Hannahville Indian Community of Michigan.
 

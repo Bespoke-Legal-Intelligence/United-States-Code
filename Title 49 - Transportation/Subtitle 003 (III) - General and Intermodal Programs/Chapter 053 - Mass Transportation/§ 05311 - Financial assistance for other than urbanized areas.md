@@ -176,5 +176,5 @@ In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as u
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338 of this title; title 42 section 3035<i>l.</i>
+This section is referred to in sections 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 31138 of this title; title 42 section 3035<i>l.</i>
 

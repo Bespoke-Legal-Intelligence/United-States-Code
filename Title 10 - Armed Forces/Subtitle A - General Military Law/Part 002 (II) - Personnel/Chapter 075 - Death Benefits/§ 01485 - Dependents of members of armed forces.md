@@ -1,4 +1,4 @@
-### §1485 . Dependents of members of armed forces
+### §1485. Dependents of members of armed forces
 
 (a) The Secretary concerned may, if a dependent of a member of an armed force dies while the member is on active duty (other than for training), provide for, and pay the necessary expenses of, transporting the remains of the deceased dependent to the home of the decedent or to any other place that the Secretary determines to be the appropriate place of interment.
 

@@ -8,5 +8,5 @@ To the extent practicable, and with the cooperation of the borrower, eligible le
 
 To the extent practicable, and with the cooperation of the borrower, the guaranty agency shall ensure that a borrower only have one lender, one holder, one guaranty agency, and one servicer with which to maintain contact.
 
-(Pub. L. 89 329, title IV, §485C, as added Pub. L. 102 325, title IV, §488, July 23, 1992, 106 Stat. 624.)
+(Pub. L. 89–329, title IV, §485C, as added Pub. L. 102–325, title IV, §488, July 23, 1992, 106 Stat. 624.)
 

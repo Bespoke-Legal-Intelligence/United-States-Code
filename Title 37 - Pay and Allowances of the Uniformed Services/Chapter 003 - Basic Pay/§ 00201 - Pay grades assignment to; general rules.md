@@ -174,5 +174,5 @@ Warrant officer grades, see section 571 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 571; title 18 section 207.
+This section is referred to in title 2 section 1602; title 10 section 571; title 18 section 207.
 

@@ -26,7 +26,7 @@
 
 &emsp;(2) under subsection (a) of this section which was accumulated under subsection (b) of this section by an employee who becomes subject to subsection (a) of this section;
 
-> remains to the credit of the employee until used. The excess annual leave is reduced at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year, by the amount of annual leave the employee used during the precedingyear in excess of the amount which accrued during that year, until the employee's accumulated leave does not exceed the amount allowed under subsection (a) or (b) of this section, as appropriate.
+> remains to the credit of the employee until used. The excess annual leave is reduced at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year, by the amount of annual leave the employee used during the preceding year in excess of the amount which accrued during that year, until the employee's accumulated leave does not exceed the amount allowed under subsection (a) or (b) of this section, as appropriate.
 
 (d)(1) Annual leave which is lost by operation of this section because of—
 
@@ -116,9 +116,9 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)
 
 #### Amendments
 
-1994—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
 
-Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant tothe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
+Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -132,29 +132,29 @@ Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment
 
 &emsp;“(5) the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.”
 
-1992—Subsec. (d)(3). Pub. L. 102–484 added par. (3).
+<b>1992</b>—Subsec. (d)(3). Pub. L. 102–484 added par. (3).
 
 Subsec. (e). Pub. L. 102–378 substituted “date” for “date of” in last sentence.
 
-1988—Subsec. (f)(5). Pub. L. 100–325 added par. (5).
+<b>1988</b>—Subsec. (f)(5). Pub. L. 100–325 added par. (5).
 
-1981—Subsec. (f). Pub. L. 97–89 amended subsec. (f) generally, transferring from former subsec. (g) provisions excepting from the limitation on accumulation otherwise imposed by this section any annual leave accrued by members of the Senior Foreign Service and inserting provisions relating to annual leave accrued by individuals while serving in positions in the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service.
+<b>1981</b>—Subsec. (f). Pub. L. 97–89 amended subsec. (f) generally, transferring from former subsec. (g) provisions excepting from the limitation on accumulation otherwise imposed by this section any annual leave accrued by members of the Senior Foreign Service and inserting provisions relating to annual leave accrued by individuals while serving in positions in the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service.
 
 Subsec. (g). Pub. L. 97–89 struck out subsec. (g). Provisions formerly set out in subsec. (g), relating to annual leave accrued by members of the Senior Foreign service, were incorporated in subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–465, §2312(b)(1), inserted reference to subsec. (g).
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2312(b)(1), inserted reference to subsec. (g).
 
 Subsec. (g). Pub. L. 96–465, §2312(b)(2), added subsec. (g).
 
-1979—Subsec. (e). Pub. L. 96–54 substituted “rate of basic pay” for “salary rate”.
+<b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted “rate of basic pay” for “salary rate”.
 
-1978—Subsec. (a). Pub. L. 95–454, §410(1), inserted reference to subsec. (f).
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §410(1), inserted reference to subsec. (f).
 
 Subsec. (d)(2). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 Subsec. (f). Pub. L. 95–454, §410(2), added subsec. (f).
 
-1973—Subsec. (a). Pub. L. 93–181, §3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–181, §3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
 
 Subsecs. (d), (e). Pub. L. 93–181, §3(2), added subsecs. (d) and (e).
 
@@ -188,7 +188,7 @@ Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendm
 
 #### Lump-Sum Payment for Accrued Annual Leave to Former Employees
 
-Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
+Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had beenemployed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
 
 Section 6 of Pub. L. 93–181 provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
 

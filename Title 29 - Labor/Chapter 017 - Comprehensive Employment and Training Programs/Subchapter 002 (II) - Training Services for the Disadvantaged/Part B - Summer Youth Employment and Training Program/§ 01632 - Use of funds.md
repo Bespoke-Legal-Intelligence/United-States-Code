@@ -80,7 +80,7 @@ Service delivery areas shall make followup services available for participants i
 
 In conducting the program assisted under this part, service delivery areas shall establish linkages with the appropriate educational agencies responsible for service to participants. Such linkages shall include arrangements to ensure that there is a regular exchange of information relating to the progress, problems and needs of participants, including the results of assessments of the skill levels of participants.
 
-(Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061;amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar. 31, 1994, 108 Stat. 267.)
+(Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061; amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar. 31, 1994, 108 Stat. 267.)
 
 #### Prior Provisions
 

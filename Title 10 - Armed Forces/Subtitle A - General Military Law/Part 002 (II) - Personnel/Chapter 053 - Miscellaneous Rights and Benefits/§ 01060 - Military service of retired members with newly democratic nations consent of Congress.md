@@ -22,7 +22,7 @@ Reports to Congressional Committees.—The Secretary concerned and the Secretary
 
 (e)
 
-Continued Entitlement to Retired Pay and Benefits.—The eligibility of a retired member to receive retired or retainer pay and other benefits arising from the retired member's status as a retired member of the uniformed services, and the eligibility of dependents of such retired member to receive benefits on the basis of such retired member's status as a retired member of the uniformed services, may not be terminated by reason of employment or holding of an office or position consented to in subsection (a).
+Continued Entitlement to Retired Pay and Benefits.—The eligibility of a retired member to receive retired or retainer pay and other benefits arising from the retired member's status as a retired member of the uniformed services, and the eligibility of dependents ofsuch retired member to receive benefits on the basis of such retired member's status as a retired member of the uniformed services, may not be terminated by reason of employment or holding of an office or position consented to in subsection (a).
 
 (f)
 
@@ -40,9 +40,9 @@ Civil Employment by Foreign Governments.—For a provision of law providing the 
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Effective Date
 

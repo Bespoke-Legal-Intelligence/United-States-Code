@@ -14,7 +14,7 @@ The Secretary, acting through the Service and in consultation with representativ
 
 The study required by subsection (a) of this section shall—
 
-&emsp;(1) assess the impact of the existing contract health services regulations and policies upon the ability of the Service and the Indian Health Service Fiscal Intermediary to process, on a timely and efficient basis, the payment of bills submitted by private contract health services providers;
+&emsp;(1) assess the impact of the existing contract health services regulations and policies upon the ability of the Service and the Indian Health Service Fiscal Intermediary to process,on a timely and efficient basis, the payment of bills submitted by private contract health services providers;
 
 &emsp;(2) assess the financial and any other burdens imposed upon individual Indians and private contract health services providers by delayed payments;
 

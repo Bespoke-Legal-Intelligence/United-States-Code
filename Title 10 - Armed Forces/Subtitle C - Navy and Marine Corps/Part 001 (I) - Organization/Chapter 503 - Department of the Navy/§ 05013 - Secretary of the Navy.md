@@ -48,7 +48,7 @@
 
 (d) The Secretary of the Navy is also responsible for such other activities as may be prescribed by law or by the President or Secretary of Defense.
 
-(e) After first informing the Secretary of Defense, the Secretary of the Navy may make suchrecommendations to Congress relating to the Department of Defense as he considers appropriate.
+(e) After first informing the Secretary of Defense, the Secretary of the Navy may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
 (f) The Secretary of the Navy may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Navy and to the Assistant Secretaries of the Navy. Officers of the Navy and the Marine Corps shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 

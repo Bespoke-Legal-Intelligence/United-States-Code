@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
 
-&emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the ageof 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
+&emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
@@ -132,7 +132,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(B) in the case of grants and contracts under consolidated Federal programs (as defined in subsection (c)(2)(B)), October 1, 1981, or such later date (before October 1, 1982) as the Secretary determines to be appropriate.
 
-“(b)(1) The Secretary of Health and Human Services (hereinafter in this section referred to as the ‘Secretary’) may not provide for any allotment to a State under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) beforethe beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
+“(b)(1) The Secretary of Health and Human Services (hereinafter in this section referred to as the ‘Secretary’) may not provide for any allotment to a State under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) before the beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
 
 “(2)(A) Any grants or contracts entered into under the authorities of the consolidated State programs (as defined in subsection (c)(2)(C)) after the date of the enactment of this subtitle \[Aug. 13, 1981\] shall permit the termination of such grant or contract upon three months notice by the State in which the grantee or contractor is located.
 

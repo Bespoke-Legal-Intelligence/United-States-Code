@@ -1,2 +1,2 @@
-### \[§139a . Renumbered §2432\]
+### \[§139a. Renumbered §2432\]
 

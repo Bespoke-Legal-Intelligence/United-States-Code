@@ -32,7 +32,7 @@
 
 (e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(B), July 17, 1984, 98 Stat. 449; Pub. L. 100–239, §5(e), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 101–380, title IV, §4302(i), Aug. 18,1990, 104 Stat. 539; Pub. L. 101–595, title VI, §602(e)(2), Nov. 16, 1990, 104 Stat. 2992.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(B), July 17, 1984, 98 Stat. 449; Pub. L. 100–239, §5(e), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 101–380, title IV, §4302(i), Aug. 18, 1990, 104 Stat. 539; Pub. L. 101–595, title VI, §602(e)(2), Nov. 16, 1990, 104 Stat. 2992.)
 
 Historical and Revision Notes
 

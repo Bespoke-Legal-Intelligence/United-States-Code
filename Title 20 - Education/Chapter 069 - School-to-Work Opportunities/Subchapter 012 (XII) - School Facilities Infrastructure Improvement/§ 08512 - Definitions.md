@@ -14,15 +14,15 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) not less than 15 percent of the children that reside in the geographic area served by such agency are eligible to be counted under subpart 2 of part A of subchapter I of this chapter; or
 
-&emsp;&emsp;(B) the United States owns Federal property described in section 7713(5)<sup>1</sup> of this title, that has an assessed value (determined as of the time or times when acquired) aggregating 90 percent or more of the assessed value of all real property in such agency (determined as of the time or times when so acquired); and
+&emsp;&emsp;(B) the United States owns Federal property described in section 7713(5) <sup>1</sup> of this title, that has an assessed value (determined as of the time or times when acquired) aggregating 90 percent or more of the assessed value of all real property in such agency (determined as of the time or times when so acquired); and
 
 &emsp;&emsp;(C) demonstrates in the application submitted under section 8506 of this title that such agency has urgent repair, renovation, alteration and construction needs for its public elementary or secondary schools used for academic or vocational instruction.
 
-(Pub. L. 89 10, title XII, §12012, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3875.)
+(Pub. L. 89–10, title XII, §12012, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3875.)
 
 #### References in Text
 
-Section 7713(5) of this title, referred to in par. (3)(B), was in the original “section 8015(5)”, meaning section 8015(5) of Pub. L. 89 10, which was translated as reading section 8013(5) of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 8015, and section 8013(5) describes Federal property owned by the United States.
+Section 7713(5) of this title, referred to in par. (3)(B), was in the original “section 8015(5)”, meaning section 8015(5) of Pub. L. 89–10, which was translated as reading section 8013(5) of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 8015, and section 8013(5) describes Federal property owned by the United States.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

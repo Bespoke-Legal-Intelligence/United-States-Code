@@ -2,7 +2,7 @@
 
 This part may be cited as the “Elementary Mathematics and Science Equipment Act”.
 
-(Pub. L. 89 10, title III, §3501, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3667.)
+(Pub. L. 89–10, title III, §3501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3667.)
 
 #### Ex. Ord. No. 12821. Improving Mathematics and Science Education in Support of National Education Goals
 

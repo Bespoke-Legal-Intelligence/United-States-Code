@@ -32,7 +32,7 @@ The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch.
 
 #### Prior Provisions
 
-A prior section 1204, act June 30, 1953, ch. 164, §17, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, §19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, §1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
+A prior section 1204, act June 30, 1953, ch. 164, §17, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 574;amended May 11, 1976, Pub. L. 94–284, §19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, §1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
 
 #### Effective Date
 

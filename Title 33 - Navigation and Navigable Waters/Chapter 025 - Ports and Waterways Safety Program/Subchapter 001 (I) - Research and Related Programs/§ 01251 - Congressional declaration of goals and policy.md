@@ -46,7 +46,7 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 #### Codification
 
-The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
+The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17,1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Reporting Requirements.—Within 3 months after the date of enactment of this Ac
 
 Authorization of Appropriations.—(1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries Program Authorization Act (Public Law 98–210; 97 Stat. 1409), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program.
 
-“(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized under this section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
+“(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized underthis section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
 
 “(f)
 
@@ -236,11 +236,11 @@ Section 7 of Pub. L. 92–500 provided that: “The President shall undertake to
 
 #### National Policies and Goal Study
 
-Section 10 of Pub. L. 92–500 authorized the President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report the results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
+Section 10 of Pub. L. 92–500 directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
 
 #### Efficiency Study
 
-Section 11 of Pub. L. 92–500 authorized the President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report the results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
+Section 11 of Pub. L. 92–500 directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
 
 #### Sex Discrimination
 
@@ -268,5 +268,5 @@ Section 1(d) of Pub. L. 100–4 provided that: “For purposes of this Act \[see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1252, 1267, 1268, 1311, 1377 of this title.
+This section is referred to in sections 1267, 1268, 1311, 1377 of this title.
 

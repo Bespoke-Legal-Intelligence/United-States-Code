@@ -6,7 +6,7 @@ For purposes of this title in the case of income, estate, and gift taxes imposed
 
 &emsp;(1) the sum of
 
-&emsp;&emsp;(A) the amount shown as the tax by the taxpayer upon his return, if a return was made by the taxpayer and an amount was shown as the tax by the taxpayer thereon, plus
+&emsp;&emsp;(A) the amount shown as the tax by the taxpayer upon his return, if a return was made by the taxpayer and an amount wasshown as the tax by the taxpayer thereon, plus
 
 &emsp;&emsp;(B) the amounts previously assessed (or collected without assessment) as a deficiency, over—
 
@@ -16,7 +16,7 @@ For purposes of this title in the case of income, estate, and gift taxes imposed
 
 For purposes of this section—
 
-&emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the creditunder section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection of amounts assessed under section 6851 or 6852 (relating to termination assessments).
+&emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the credit under section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection of amounts assessed under section 6851 or 6852 (relating to termination assessments).
 
 &emsp;(2) The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
 

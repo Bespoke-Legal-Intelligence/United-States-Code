@@ -30,7 +30,7 @@ Regulations necessary or appropriate to carry out actions proposed in any statem
 
 #### (3) Recommendations as to application
 
-&emsp;The President may make the same type of recommendations, in the same manner and subject to the same conditions, to the Congress with respect to the application of anysuch requirement, amendment, or recommendation as he may make, under section 2112(f) of this title, with respect to a trade agreement.
+&emsp;The President may make the same type of recommendations, in the same manner and subject to the same conditions, to the Congress with respect to the application of any such requirement, amendment, or recommendation as he may make, under section 2112(f) of this title, with respect to a trade agreement.
 
 #### (4) Congressional procedures applicable
 

@@ -22,7 +22,7 @@ None of the funds or assets transferred to the Tribe or its members by the Settl
 
 #### References in Text
 
-Act of August 2, 1983, referred to in subsec. (a)(2), is Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, popularly known as the Per Capita Act, which enacted sections 117a to 117c of this title and repealed section 117 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 117a of this title and Tables.
+Act of August 2, 1983, referred to in subsec. (a)(2), is Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, popularly known as the Per Capita Act, which enacted sections 117a to 117c of this title and repealed section 117 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 117a of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

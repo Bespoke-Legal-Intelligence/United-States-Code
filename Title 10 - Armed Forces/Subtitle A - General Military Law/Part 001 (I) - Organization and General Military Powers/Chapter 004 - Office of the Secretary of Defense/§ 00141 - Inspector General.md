@@ -1,4 +1,4 @@
-### §141 . Inspector General
+### §141. Inspector General
 
 (a) There is an Inspector General of the Department of Defense, who is appointed as provided in section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).
 

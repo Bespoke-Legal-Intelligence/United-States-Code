@@ -82,7 +82,7 @@ Preservation programs assisted under this section shall—
 
 (1) Assistance under this section may be provided with respect to rental or cooperative housing only if—
 
-&emsp;(A) the owner has entered into such agreements with the Secretary as may be necessary to assure compliance with the requirements of this section, to assure the financial feasibility of such housing, and to carry out the other provisions of this section;
+&emsp;(A) the owner has entered into such agreements with the Secretary as may be necessaryto assure compliance with the requirements of this section, to assure the financial feasibility of such housing, and to carry out the other provisions of this section;
 
 &emsp;(B) the owner agrees—
 
@@ -114,7 +114,7 @@ The Secretary shall provide for such advance payments of assistance under this s
 
 #### (g) Annual review and audit by Secretary of activities; adjustment, etc., of resources; reallocation of amounts
 
-The Secretary shall, at least on an annual basis, make such review and audits as may benecessary or appropriate to determine whether the grantee has carried out its activities in a timely manner and in accordance with the requirements of this section, the degree to which the activities assisted benefitted low income families or persons and very low-income families or persons who lacked adequate housing, and whether the grantee has a continuing capacity to carry out the activities in a timely manner. The Secretary may adjust, reduce, or withdraw resources made available to grantees receiving assistance under this section, or take other action as appropriate in accordance with the findings of these reviews and audits. Any amounts which become available as a result of actions under this subsection shall be reallocated as housing preservation grants to such grantee or grantees as the Secretary may determine.
+The Secretary shall, at least on an annual basis, make such review and audits as may be necessary or appropriate to determine whether the grantee has carried out its activities in a timely manner and in accordance with the requirements of this section, the degree to which the activities assisted benefitted low income families or persons and very low-income families or persons who lacked adequate housing, and whether the grantee has a continuing capacity to carry out the activities in a timely manner. The Secretary may adjust, reduce, or withdraw resources made available to grantees receiving assistance under this section, or take other action as appropriate in accordance with the findings of these reviews and audits. Any amounts which become available as a result of actions under this subsection shall be reallocated as housing preservation grants to such grantee or grantees as the Secretary may determine.
 
 #### (h) Rules and regulations; delegation of authority
 
@@ -186,7 +186,7 @@ Subsec. (h). Pub. L. 100–242, §310, designated existing provisions as par. (1
 
 #### Rural Rental Rehabilitation Demonstration
 
-Section 311 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1044, Nov. 7, 1988, 102 Stat. 3273; Pub.L. 101–137, §7(d), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846, directed Secretary of Housing and Urban Development to carry out a rural rental rehabilitation demonstration program, provided funding for program, required Secretary to submit a report to Congress as soon as practicable after Sept. 30, 1989, setting forth findings and recommendations of Secretary as a result of demonstration program, which report was to include specific evaluations, and terminated authority for such program after Sept. 30, 1991.
+Section 311 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1044, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(d), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846, directed Secretary of Housing and Urban Development to carry out a rural rental rehabilitation demonstration program, provided funding for program, required Secretary to submit a report to Congress as soon as practicable after Sept. 30, 1989, setting forth findings and recommendations of Secretary as a result of demonstration program, which report was to include specific evaluations, and terminated authority for such program after Sept. 30, 1991.
 
 #### Section Referred to in Other Sections
 

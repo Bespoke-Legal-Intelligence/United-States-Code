@@ -10,7 +10,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(3) out of interest payments by the borrower the Secretary shall retain a charge in an amount not less than one-half of 1 per centum per annum of the unpaid principal balance of the loan;
 
-&emsp;(4) the insurance contracts and agreements with respect to any loan may contain provisions for servicing the loan by the Secretary or by the lender, and for the purchase by the Secretary of the loan if it is not in default, onsuch terms and conditions as the Secretary may prescribe; and
+&emsp;(4) the insurance contracts and agreements with respect to any loan may contain provisions for servicing the loan by the Secretary or by the lender, and for the purchase by the Secretary of the loan if it is not in default, on such terms and conditions as the Secretary may prescribe; and
 
 &emsp;(5) the Secretary may take mortgages creating a lien running to the United States for the benefit of the insurance fund referred to in subsection (b) of this section notwithstanding the fact that the note may be held by the lender or his assignee.
 
@@ -66,7 +66,7 @@ In making available assistance in any area under this section or section 1486 of
 
 &emsp;(1) in determining the need for the assistance, take into consideration the housing needs only of domestic farm labor, including migrant farmworkers, in the area; and
 
-&emsp;(2) in determining whether to provide such assistance, make such determination withoutregard to the extent or nature of other housing needs in the area.
+&emsp;(2) in determining whether to provide such assistance, make such determination without regard to the extent or nature of other housing needs in the area.
 
 #### (i) Domestic farm labor housing available for other families
 

@@ -24,7 +24,7 @@ Loans from any such student loan fund by any school shall be made on such terms 
 
 #### (c) Cancellation
 
-Where all or any part of a loan, or interest, is canceled under this section, the Secretary shallpay to the school an amount equal to the school's proportionate share of the canceled portion, as determined by the Secretary.
+Where all or any part of a loan, or interest, is canceled under this section, the Secretary shall pay to the school an amount equal to the school's proportionate share of the canceled portion, as determined by the Secretary.
 
 #### (d) Installments
 
@@ -66,7 +66,7 @@ Upon application by a person who received, and is under an obligation to repay, 
 
 The Secretary is authorized to attempt to collect any loan which was made under this subpart, which is in default, and which was referred to the Secretary by a school of nursing with which the Secretary has an agreement under this subpart, on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart. A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
 
-(July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 914; amended Oct. 22, 1965, Pub. L. 89–290, §4(g)(2), 79 Stat. 1058; Aug. 16, 1968, Pub. L.90–490, title II, §222(b), (c)(1), 82 Stat. 783, 784; Nov. 18, 1971, Pub. L. 92–158, §6(a), (b)(1), (e), 85 Stat. 475, 476, 478; renumbered §836 and amended July 29, 1975, Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), 89 Stat. 363, 365; Sept. 29, 1979, Pub. L. 96–76, title I, §112, 93 Stat. 580; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2757(b), 95 Stat. 931; Aug. 16, 1985, Pub. L. 99–92, §8(b)–(d), 99 Stat. 398; Nov. 4, 1988, Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), 102 Stat. 3160, 3161; Aug. 16, 1989, Pub. L. 101–93, §5(r), 103 Stat. 614; Oct. 13, 1992, Pub. L. 102–408, title II, §211(a)(1), 106 Stat. 2078.)
+(July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 914; amended Oct. 22, 1965, Pub. L. 89–290, §4(g)(2), 79 Stat. 1058; Aug. 16, 1968, Pub. L. 90–490, title II, §222(b), (c)(1), 82 Stat. 783, 784; Nov. 18, 1971, Pub. L. 92–158, §6(a), (b)(1), (e), 85 Stat. 475, 476, 478; renumbered §836 and amended July 29, 1975, Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), 89 Stat. 363, 365; Sept. 29, 1979, Pub. L. 96–76, title I, §112, 93 Stat. 580; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2757(b), 95 Stat. 931; Aug. 16, 1985, Pub. L. 99–92, §8(b)–(d), 99 Stat. 398; Nov. 4, 1988, Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), 102 Stat. 3160, 3161; Aug. 16, 1989, Pub. L. 101–93, §5(r), 103 Stat. 614; Oct. 13, 1992, Pub. L. 102–408, title II, §211(a)(1), 106 Stat. 2078.)
 
 #### References in Text
 

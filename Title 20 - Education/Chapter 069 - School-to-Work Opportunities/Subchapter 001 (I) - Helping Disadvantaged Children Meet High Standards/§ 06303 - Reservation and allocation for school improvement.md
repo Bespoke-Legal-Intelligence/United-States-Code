@@ -12,13 +12,13 @@
 
 #### (3) Special rule
 
-&emsp;If the amount reserved under paragraph (1) when added to the amount made available under section 6302(f) of this title for a State is less than $200,000 for any fiscal year, then such State may reserve such additional funds under subsections (a), (c), and (d) of section 6302 ofthis title as are necessary to make $200,000 available to such State.
+&emsp;If the amount reserved under paragraph (1) when added to the amount made available under section 6302(f) of this title for a State is less than $200,000 for any fiscal year, then such State may reserve such additional funds under subsections (a), (c), and (d) of section 6302 of this title as are necessary to make $200,000 available to such State.
 
 #### (b) Additional State allocations for school improvement
 
 From the amount appropriated under section 6302(f) of this title for any fiscal year, each State shall be eligible to receive an amount that bears the same ratio to the amount appropriated as the amount allocated to the State under this part (other than section 6321(e) of this title) bears to the total amount allocated to all States under this part (other than section 6321(e) of this title).
 
-(Pub. L. 89 10, title I, §1003, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3522.)
+(Pub. L. 89–10, title I, §1003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3522.)
 
 #### Section Referred to in Other Sections
 

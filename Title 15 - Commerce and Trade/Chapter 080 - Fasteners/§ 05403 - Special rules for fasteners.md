@@ -20,7 +20,7 @@ If the Secretary determines that—
 
 The Secretary shall provide advance notice and the opportunity for public comments prior to making any determination under subsections (a) and (b) of this section and shall act through the Director in making any such determination.
 
-(Pub. L. 101 592, §4, Nov. 16, 1990, 104 Stat. 2945.)
+(Pub. L. 101–592, §4, Nov. 16, 1990, 104 Stat. 2945.)
 
 #### Section Referred to in Other Sections
 

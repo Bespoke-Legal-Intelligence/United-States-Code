@@ -20,7 +20,7 @@
 
 (b) The fund shall be—
 
-&emsp;(1) reimbursed for the cost of all services and supplies furnished, including those furnished other appropriations of the Government Printing Office, at rates which include charges for overhead and related expenses, depreciation of plant and building appurtenances, except building structures and land, and equipment, and accrued leave; and
+&emsp;(1) reimbursed for the cost of all services and supplies furnished, including those furnished other appropriations of the Government Printing Office, at rates which include charges foroverhead and related expenses, depreciation of plant and building appurtenances, except building structures and land, and equipment, and accrued leave; and
 
 &emsp;(2) credited with all receipts including sales of Government publications, waste, condemned, and surplus property and with payments received for losses or damage to property.
 

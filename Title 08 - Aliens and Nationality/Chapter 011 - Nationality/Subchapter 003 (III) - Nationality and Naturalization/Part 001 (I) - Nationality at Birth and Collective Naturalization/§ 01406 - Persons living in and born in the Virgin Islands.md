@@ -1,4 +1,4 @@
-### §1406 . Persons living in and born in the Virgin Islands
+### §1406. Persons living in and born in the Virgin Islands
 
 (a) The following persons and their children born subsequent to January 17, 1917, and prior to February 25,1927, are declared to be citizens of the United States as of February 25, 1927:
 

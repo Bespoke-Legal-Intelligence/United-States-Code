@@ -16,7 +16,7 @@ The Congress finds and declares that—
 
 &emsp;(3) existing Federal laws do not sufficiently assure the adequate and necessary trust management of Indian forest lands;
 
-&emsp;(4) the Federal investment in, and the management of, Indian forest land is significantly below the level of investment in, and management of, National Forest Service forest land,Bureau of Land Management forest land, or private forest land;
+&emsp;(4) the Federal investment in, and the management of, Indian forest land is significantly below the level of investment in, and management of, National Forest Service forest land, Bureau of Land Management forest land, or private forest land;
 
 &emsp;(5) tribal governments make substantial contributions to the overall management of Indian forest land; and
 

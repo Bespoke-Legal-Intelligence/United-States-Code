@@ -6,7 +6,7 @@ For the purposes of this part:
 
 &emsp;(2) The term “Reclamation program” means any activity authorized under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371)),<sup>1</sup> and Acts supplementary thereto and amendatory thereof).
 
-&emsp;(3) The term “Reclamation project” means any water supply or water delivery project constructed or administered by the Bureau of Reclamation under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371), and Acts supplementary thereto and amendatory thereof).
+&emsp;(3) The term “Reclamation project” means any water supply or water delivery projectconstructed or administered by the Bureau of Reclamation under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371), and Acts supplementary thereto and amendatory thereof).
 
 &emsp;(4) The term “Secretary” means the Secretary of the Interior.
 

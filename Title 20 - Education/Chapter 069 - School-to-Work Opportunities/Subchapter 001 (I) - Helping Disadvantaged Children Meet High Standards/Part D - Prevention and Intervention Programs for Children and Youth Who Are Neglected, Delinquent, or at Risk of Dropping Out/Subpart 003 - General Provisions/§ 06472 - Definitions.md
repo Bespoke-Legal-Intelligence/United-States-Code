@@ -12,5 +12,5 @@ For the purpose of this part:
 
 &emsp;(5) The term “institution for neglected children” means a public or private residential facility, other than a foster home, that is operated for the care of children who have been committed to the institution or voluntarily placed in the institution under applicable State law, due to abandonment, neglect, or death of their parents or guardians.
 
-(Pub. L. 89 10, title I, §1432, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3601.)
+(Pub. L. 89–10, title I, §1432, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3601.)
 

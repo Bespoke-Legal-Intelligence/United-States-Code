@@ -24,7 +24,7 @@ In addition to any authority vested in it by other provisions of this chapter, t
 
 The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this chapter, which shall include a detailed statement of all private and public funds received and expended by it, and such recommendations as the Center deems appropriate.
 
-(Pub. L. 94 201, §7, Jan. 2, 1976, 89 Stat. 1133.)
+(Pub. L. 94–201, §7, Jan. 2, 1976, 89 Stat. 1133.)
 
 #### References in Text
 
@@ -32,5 +32,5 @@ The Federal property disposal statutes, referred to in subsec. (a)(2), are gener
 
 #### Codification
 
-In subsec. (a)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

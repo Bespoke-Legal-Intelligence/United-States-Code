@@ -60,7 +60,7 @@ Civil rights, Federally assisted programs, see section 2000d et seq. of Title 42
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 42 sections 3012, 3056a, 6103.
+This chapter is referred to in title 2 sections 1302, 1311, 1371, 1434; title 42 sections 3012, 3056a, 6103.
 
 
 ---

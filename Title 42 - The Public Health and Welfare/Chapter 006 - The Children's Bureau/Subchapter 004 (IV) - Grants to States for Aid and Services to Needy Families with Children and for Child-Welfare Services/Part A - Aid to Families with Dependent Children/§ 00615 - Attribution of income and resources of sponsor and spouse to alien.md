@@ -14,7 +14,7 @@ For purposes of determining eligibility for and the amount of benefits under a S
 
 &emsp;&emsp;(i) the lesser of (I) 20 percent of the total of any amounts received by the sponsor and his spouse in such month as wages or salary or as net earnings from self-employment, plus the full amount of any costs incurred by them in producing self-employment income in such month, or (II) $175;
 
-&emsp;&emsp;(ii) the cash needs standard established by the State under its plan for a family of the same size and composition as the sponsor and those other individuals living in the same household as the sponsor who are claimed by him as dependents for purposes of determining his Federal personal income tax liability but whose needs are not taken into account in making a determination under section 602(a)(7) of this title;
+&emsp;&emsp;(ii) the cash needs standard established by the State under its plan for a family of the same size and composition as the sponsor and those other individuals living in the same household as the sponsor who are claimed by him as dependents for purposes of determining his Federal personal income tax liability but whose needs are not takeninto account in making a determination under section 602(a)(7) of this title;
 
 &emsp;&emsp;(iii) any amounts paid by the sponsor (or his spouse) to individuals not living in such household who are claimed by him as dependents for purposes of determining his Federal personal income tax liability; and
 
@@ -38,7 +38,7 @@ Any sponsor of an alien, and such alien, shall be jointly and severally liable f
 
 #### (e) Division of income and resources of individual sponsoring two or more aliens living in same home
 
-(1) In any case where a person is the sponsor of two or more alien individuals who are living in the same home, the income and resources of such sponsor (and his spouse), to the extent they would be deemed the income and resources of any one of such individuals under the preceding provisions of this section, shall be divided intotwo or more equal shares (the number of shares being the same as the number of such alien individuals) and the income and resources of each such individual shall be deemed to include one such share.
+(1) In any case where a person is the sponsor of two or more alien individuals who are living in the same home, the income and resources of such sponsor (and his spouse), to the extent they would be deemed the income and resources of any one of such individuals under the preceding provisions of this section, shall be divided into two or more equal shares (the number of shares being the same as the number of such alien individuals) and the income and resources of each such individual shall be deemed to include one such share.
 
 (2) Income and resources of a sponsor (and his spouse) which are deemed under this section to be the income and resources of any alien individual in a family shall not be considered in determining the need of other family members except to the extent such income or resources are actually available to such other members.
 

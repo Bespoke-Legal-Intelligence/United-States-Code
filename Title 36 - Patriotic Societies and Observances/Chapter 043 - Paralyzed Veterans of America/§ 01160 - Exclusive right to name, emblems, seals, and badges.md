@@ -6,5 +6,5 @@ The corporation and its State and regional organizations and local chapters or p
 
 #### Cross References
 
-Penalty for unauthorized manufacture, reproduction, or sale of badges or emblems of veterans’ organizations, see section 705 of Title 18, Crimes and Criminal Procedure.
+Penalty for unauthorized manufacture, reproduction, or sale of badges or emblems of veterans’ organizations,see section 705 of Title 18, Crimes and Criminal Procedure.
 

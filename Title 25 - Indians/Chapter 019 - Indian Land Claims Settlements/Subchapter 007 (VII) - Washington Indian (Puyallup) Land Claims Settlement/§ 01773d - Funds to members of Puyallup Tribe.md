@@ -44,7 +44,7 @@
 
 #### Use of Funds To Fulfill Board of Trustees’ Fiduciary and Administrative Responsibilities
 
-Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1005, provided: “That income earned on funds appropriated by Public Law 101–121, October 23, 1989, 103 Stat. 701, 715\[,\] for the purposes of section 6(b) of the Puyallup Tribe of Indians Settlement Act of 1989, Public Law 101–41, June 21, 1989, 103 Stat. 83 \[25 U.S.C. 1773d(b)\], may be utilized by the Permanent Trust Fund Board of Trustees to secure necessary and appropriate financial, auditing, accounting, insurance and other administrative services to fulfill the Board of Trustees’ fiduciary and administrative responsibilities: <i>Provided further</i>, That no more than 5 per centum of the income in any year may be utilized for such purposes”.
+Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1005, provided: “That income earned on funds appropriatedby Public Law 101–121, October 23, 1989, 103 Stat. 701, 715\[,\] for the purposes of section 6(b) of the Puyallup Tribe of Indians Settlement Act of 1989, Public Law 101–41, June 21, 1989, 103 Stat. 83 \[25 U.S.C. 1773d(b)\], may be utilized by the Permanent Trust Fund Board of Trustees to secure necessary and appropriate financial, auditing, accounting, insurance and other administrative services to fulfill the Board of Trustees’ fiduciary and administrative responsibilities: <i>Provided further</i>, That no more than 5 per centum of the income in any year may be utilized for such purposes”.
 
 Similar provisions were contained in the following prior appropriation act:
 

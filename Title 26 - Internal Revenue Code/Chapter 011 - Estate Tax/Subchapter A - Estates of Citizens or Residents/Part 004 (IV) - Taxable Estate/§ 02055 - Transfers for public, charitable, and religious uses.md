@@ -292,7 +292,7 @@ Section 301(b)(2) of Pub. L. 96–605 provided that: “Section 514(b) \[section
 
 #### Effective Date of 1978 Amendment; Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-Section 514(c) of Pub. L. 95–600, as added by Pub. L. 96–222, title I, §105(a)(4)(B), Apr. 1, 1980, 94 Stat. 219; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 514(c) of Pub. L. 95–600, as added by Pub. L. 96–222, title I, §105(a)(4)(B), Apr. 1, 1980, 94 Stat. 219; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -364,5 +364,5 @@ Suspension of running of period of limitations, see section 6503 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 501, 508, 2011, 2012, 2013, 2014, 2032, 2053, 2056A, 2106, 2522, 2642, 2652, 4947, 4948, 7871 of this title; title 12 section 3051; title 22 sections 2876, 3307.
+This section is referred to in sections 170, 501, 508, 2011, 2012, 2013, 2014, 2032, 2053, 2056A, 2106, 2522, 2642, 2652, 4947, 4948, 7871 of this title; title 12 section 3051; title 15 section 80a–3; title 22 section 3307.
 

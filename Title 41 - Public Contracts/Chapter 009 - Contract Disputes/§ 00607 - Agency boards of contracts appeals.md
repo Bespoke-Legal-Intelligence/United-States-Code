@@ -50,10 +50,6 @@ Pursuant to the authority conferred under the Office of Federal Procurement Poli
 
 (Pub. L. 95–563, §8, Nov. 1, 1978, 92 Stat. 2385; Pub. L. 97–164, title I, §§156, 160(a)(15), Apr. 2, 1982, 96 Stat. 47, 48; Pub. L. 101–509, title V, §529 \[title I, §104(d)(4)\], Nov. 5, 1990, 104 Stat. 1427, 1447; Pub. L. 101–552, §6(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–355, title II, §2351(c), Oct. 13, 1994, 108 Stat. 3322.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Effective and Termination Dates of 1990 Amendments note below.</i>
-
 #### References in Text
 
 For the effective date of this chapter, referred to in subsec. (b)(1), see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of this title.
@@ -72,11 +68,11 @@ Subsec. (i), which required all agency boards of three or more full time members
 
 1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (b)(1). Pub. L. 101–509, §529 \[title I, §104(d)(4)(A)\], substituted “Compensation for the chairman, the vice chairman, and all other members of an agency board shall be determined under section 5372a of title 5.” for “The chairman of each agency board shall receive compensation at a rate equal to that paid a GS–18 under the General Schedule contained in section 5332, of title 5, the vice chairman shall receive compensation at a rate equal to that paid a GS–17 under such General Schedule, and all other members shall receive compensation at a rate equal to that paid a GS–16 under such General Schedule. Such positions shall be in addition to the number of positions which may be placed in GS–16, GS–17, and GS–18 of such General Schedule under existing law.”
+1990—Subsec. (b)(1). Pub. L. 101–509, §529 \[title I, §104(d)(4)(A)\], substituted “Compensation for the chairman, the vice chairman, and all other members of an agency board shall be determined under section 5372a of title 5.” for “The chairman of each agency board shall receive compensation at a rate equal to that paid a GS–18 under the General Schedule contained in section 5332, of title 5, the vice chairman shall receive compensation at a rate equal to that paid a GS–17 under such General Schedule, and all other members shall receive compensation at a rate equal to that paid a GS–16under such General Schedule. Such positions shall be in addition to the number of positions which may be placed in GS–16, GS–17, and GS–18 of such General Schedule under existing law.”
 
 Subsec. (b)(2). Pub. L. 101–509, §529 \[title I, §104(d)(4)(B)\], substituted “The chairman and all other members of such board shall receive compensation, at the daily equivalent of the rates determined under section 5372a of title 5, for each day they are engaged in the actual performance of their duties as members of the board.” for “The chairman of such board shall receive compensation at a rate equal to the daily rate paid a GS–18 under the General Schedule contained in section 5332, of title 5, for each day he is engaged in the actual performance of his duties as a member of such board. All other members of such board shall receive compensation at a rate equal to the daily rate paid a GS–16 under such General Schedule for each day they are engaged in the actual performance of their duties as members of such board.”
 
-Subsec. (g)(3). Pub. L. 101–552 temporarily added par. (3). See Effective and Termination Dates of 1990 Amendments note below.
+Subsec. (g)(3). Pub. L. 101–552 added par. (3).
 
 1982—Subsec. (d). Pub. L. 97–164, §160(a)(15), substituted “United States Claims Court” for “Court of Claims”.
 
@@ -94,7 +90,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective and Termination Dates of 1990 Amendments
 
-For termination of amendments by Pub. L. 101–552 and authority to use dispute resolution proceedings on Oct. 1, 1995, except with respect to certain pending proceedings, see section 11 of Pub. L. 101–552, set out as aTermination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
+For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of Title 5.
 

@@ -16,7 +16,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 #### (2) 3rd tier
 
-&emsp;If such 1st tier corporation owns 10 percent or more of the voting stock of a 2nd foreign corporation which, in turn, owns 10 percent or more of the voting stock of a 3rd foreign corporation from which the 2nd corporation receives dividends in any taxable year, such 2nd foreign corporation shall be deemed to have paid the same proportion of such 3rd foreign corporation's post-1986 foreign income taxes as would be determined under subsection (a) if such 2nd foreign corporation were a domestic corporation.
+&emsp;If such 1st tier corporation owns 10 percent or more of the voting stock of a 2nd foreign corporation which, in turn, owns 10 percent or more of the voting stock of a 3rd foreign corporation from which the 2nd corporation receives dividends in any taxable year, such 2nd foreign corporation shall be deemed to have paid the same proportion of such 3rd foreign corporation's post-1986 foreign income taxes aswould be determined under subsection (a) if such 2nd foreign corporation were a domestic corporation.
 
 #### (3) 5 percent stock requirement
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (7) Regulations
 
-&emsp;The Secretary shall provide such regulations as may be necessary or appropriate to carry out the provisions of this section and section 960, including provisions which provide for the separate application of this section and section 960 to reflect the separate application of section 904 to separate types of income and loss.
+&emsp;The Secretary shall provide such regulations as may be necessary or appropriate to carry out the provisions of this section and section 960, including provisions which provide for the separate application of this section and section 960 to reflect the separate application ofsection 904 to separate types of income and loss.
 
 #### (d) Cross references
 
@@ -178,7 +178,7 @@ Section 3 of Pub. L. 91–684 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1962 Amendment
 
-Section 9(e) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 78of this title and amending this section and sections 535, 545, 861, and 901 of this title\] shall apply—
+Section 9(e) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 78 of this title and amending this section and sections 535, 545, 861, and 901 of this title\] shall apply—
 
 &emsp;“(1) in respect of any distribution received by a domestic corporation after December 31, 1964, and
 

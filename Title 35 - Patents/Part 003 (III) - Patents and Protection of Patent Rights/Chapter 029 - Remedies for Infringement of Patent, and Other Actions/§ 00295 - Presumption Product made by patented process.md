@@ -1,6 +1,6 @@
 ### §295. Presumption: Product made by patented process
 
-In actions alleging infringement of a process patent based on the importation, sale, or use of a product which is made from a process patented in the United States, if the court finds—
+In actions alleging infringement of a process patent based on the importation, sale, offer for sale, or use of a product which is made from a process patented in the United States, if the court finds—
 
 &emsp;(1) that a substantial likelihood exists that the product was made by the patented process, and
 
@@ -10,9 +10,9 @@ In actions alleging infringement of a process patent based on the importation, s
 
 (Added Pub. L. 100–418, title IX, §9005(a), Aug. 23, 1988, 102 Stat. 1566; amended Pub. L. 103–465, title V, §533(b)(7), Dec. 8, 1994, 108 Stat. 4990.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 103–465, title V, §§533(b)(7), 534(a), (b)(3), Dec. 8, 1994, 108 Stat. 4989, 4990, provided that, effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, this section is amended by striking “sale, or use” and inserting “sale, offer for sale, or use”.</i>
+1994—Pub. L. 103–465 substituted “sale, offer for sale, or use” for “sale, or use” in introductory provisions.
 
 #### Effective Date of 1994 Amendment
 

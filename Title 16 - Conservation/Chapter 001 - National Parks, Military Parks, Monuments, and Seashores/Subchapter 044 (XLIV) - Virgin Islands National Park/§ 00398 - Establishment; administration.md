@@ -1,4 +1,4 @@
-### §398 . Establishment; administration
+### §398. Establishment; administration
 
 A portion of the Virgin Islands of the United States, containing outstanding scenic and other features of national significance, shall be established, as prescribed in section 398a of this title, as the “Virgin Islands National Park”.
 

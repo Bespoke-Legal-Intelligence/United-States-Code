@@ -58,7 +58,7 @@ The Director shall develop proposals for implementing the recommendations of the
 
 The Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (c)(4), probably means the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
-This chapter, referred to in subsec. (c)(5)(H), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–537, Nov. 8, 1990, 104 Stat. 2370, and title II of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4773, known as the Great Lakes Fish and Wildlife Restoration Act of 1990, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 941 of this title and Tables.
+This chapter, referred to in subsec. (c)(5)(H), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–537, Nov. 8, 1990, 104Stat. 2370, and title II of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4773, known as the Great Lakes Fish and Wildlife Restoration Act of 1990, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 941 of this title and Tables.
 
 #### Codification
 

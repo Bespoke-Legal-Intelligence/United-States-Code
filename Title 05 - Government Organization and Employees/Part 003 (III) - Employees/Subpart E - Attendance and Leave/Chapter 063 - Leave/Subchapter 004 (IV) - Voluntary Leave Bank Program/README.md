@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 22 section 3968; title 38 section 7423.
+This subchapter is referred to in title 20 section 904; title 22 section 3968; title 38 section 7423.
 
 
 ---

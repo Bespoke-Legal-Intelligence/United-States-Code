@@ -28,7 +28,7 @@
 
 1980—Pub. L. 96–513, title V, §514(6), Dec. 12, 1980, 94 Stat. 2935, substituted “or five years” for “or more” in item 8852.
 
-1967—Pub. L. 90–130, §1(31)(A), Nov. 8, 1967, 81 Stat. 382, struck out item 8847 “Twenty-five years: female reserve officers below lieutenant colonel, except thosedesignated under section 8067 (a)–(d) or (g)–(i) of this title; Air Force nurses and medical specialists.”
+1967—Pub. L. 90–130, §1(31)(A), Nov. 8, 1967, 81 Stat. 382, struck out item 8847 “Twenty-five years: female reserve officers below lieutenant colonel, except those designated under section 8067 (a)–(d) or (g)–(i) of this title; Air Force nurses and medical specialists.”
 
 1960—Pub. L. 86–559, §1(77), June 30, 1960, 74 Stat. 280, inserted “except those covered by section 8845 of this title” in item 8843, substituted “except those covered by section 8845 of this title” for “except Chief of National Guard Bureau” in item 8844, included adjutants general in item 8845, substituted “section 8067 (a)–(d) or (g)–(i) of this title; Air Force nurses and medical specialists” for “section 8067 of this title” in item 8847, struck out items 8841, 8842 and 8849, and added item 8855.
 

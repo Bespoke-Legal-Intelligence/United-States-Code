@@ -48,5 +48,5 @@ A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 sections 635i–5, 1701z–11, 1715z–13a, 1721, 1735f–20, 4707; title 22 section 290m–2; title 46 App. section 1279e.
+This section is referred to in title 12 sections 635i–5, 1701z–11, 1715z–13a, 1721, 1735f–20, 4707; title 15 section 697; title 22 section 290m–2; title 46 App. section 1279e.
 

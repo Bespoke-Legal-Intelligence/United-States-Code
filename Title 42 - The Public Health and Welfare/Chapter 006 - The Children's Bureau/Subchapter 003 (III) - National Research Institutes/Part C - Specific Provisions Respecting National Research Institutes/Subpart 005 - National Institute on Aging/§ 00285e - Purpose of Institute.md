@@ -80,7 +80,7 @@ Travel expenses.—Each member of the advisory panel shall receive travel expens
 
 &emsp;“(4)
 
-Detail of federal employees.—On the request of the advisory panel, the head of any Federal agency shall detail, without reimbursement, any of the personnel of the agency to the advisory panel to assist the advisory panel in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+Detail of federal employees.—On the request of the advisory panel, the head of any Federalagency shall detail, without reimbursement, any of the personnel of the agency to the advisory panel to assist the advisory panel in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 
 &emsp;“(5)
 

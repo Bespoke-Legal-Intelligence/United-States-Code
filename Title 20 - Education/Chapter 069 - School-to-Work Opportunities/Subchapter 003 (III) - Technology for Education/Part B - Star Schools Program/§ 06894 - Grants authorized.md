@@ -86,7 +86,7 @@ Each entity receiving funds under this part is encouraged to provide—
 
 &emsp;(2) descriptive video of the visual content of such program, as appropriate.
 
-(Pub. L. 89 10, title III, §3204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3655.)
+(Pub. L. 89–10, title III, §3204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3655.)
 
 #### Section Referred to in Other Sections
 

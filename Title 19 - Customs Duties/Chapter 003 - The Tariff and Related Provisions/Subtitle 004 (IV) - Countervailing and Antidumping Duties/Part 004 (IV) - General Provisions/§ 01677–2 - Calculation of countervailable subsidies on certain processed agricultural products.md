@@ -1,4 +1,4 @@
-### §1677–2 . Calculation of countervailable subsidies on certain processed agricultural products
+### §1677–2. Calculation of countervailable subsidies on certain processed agricultural products
 
 In the case of an agricultural product processed from a raw agricultural product in which—
 

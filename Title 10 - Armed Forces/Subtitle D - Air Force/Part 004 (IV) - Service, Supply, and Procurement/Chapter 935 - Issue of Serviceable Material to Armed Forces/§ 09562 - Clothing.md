@@ -1,4 +1,4 @@
-### §9562 . Clothing
+### §9562. Clothing
 
 The President may prescribe the quantity and kind of clothing to be issued annually to members of the Air Force.
 

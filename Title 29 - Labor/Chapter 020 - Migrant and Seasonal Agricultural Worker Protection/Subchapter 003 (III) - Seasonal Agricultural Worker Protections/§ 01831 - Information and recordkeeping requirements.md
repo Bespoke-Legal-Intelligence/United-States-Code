@@ -14,9 +14,13 @@
 
 &emsp;(E) the transportation and any other employee benefit to be provided, if any, and any costs to be charged for each of them;
 
-&emsp;(F) the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment; and
+&emsp;(F) the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment;
 
-&emsp;(G) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers.
+&emsp;(G) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and
+
+&emsp;(H) whether State workers’ compensation insurance is provided, and, if so, the name of the State workers’ compensation insurance carrier, the name of the policyholder of such insurance, the name and the telephone number of each person who must be notified of an injury or death, and the time period within which such notice must be given.
+
+> Compliance with the disclosure requirement of subparagraph (H) may be met if such worker is given, upon request, a photocopy of any notice regarding workers’ compensation insurance required by law of the State in which such worker is employed.
 
 (2) Each farm labor contractor, agricultural employer, and agricultural association which recruits seasonal agricultural workers through use of a day-haul operation described in section 1802(10)(A)(ii) of this title shall ascertain and disclose in writing to the worker at the place of recruitment the information described in paragraph (1).
 
@@ -56,7 +60,15 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
-(Pub. L. 97–470, title III, §301, Jan. 14, 1983, 96 Stat. 2592.)
+(Pub. L. 97–470, title III, §301, Jan. 14, 1983, 96 Stat. 2592; Pub. L. 104–49, §4(b), Nov. 15, 1995, 109 Stat. 434.)
+
+#### Amendments
+
+1995—Subsec. (a)(1). Pub. L. 104–49 added subpar. (H) and concluding provisions.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–49 effective upon expiration of 90 days after the date final regulations are issued by Secretary of Labor to implement such amendment, see section 4(c) of Pub. L. 104–49, set out as a note under section 1821 of this title.
 
 #### Section Referred to in Other Sections
 

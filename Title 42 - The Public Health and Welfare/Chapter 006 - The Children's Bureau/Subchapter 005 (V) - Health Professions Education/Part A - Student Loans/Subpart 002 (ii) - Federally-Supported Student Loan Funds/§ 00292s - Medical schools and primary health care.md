@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section withsuch a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
 
 &emsp;&emsp;(A) to enter and complete a residency training program in primary health care not later than 4 years after the date on which the student graduates from such school; and
 
@@ -64,7 +64,7 @@
 
 #### (3) Determinations by Secretary
 
-&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), the Secretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted tothe Secretary by the school under paragraph (6).
+&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), the Secretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted to the Secretary by the school under paragraph (6).
 
 #### (4) Noncompliance by school
 
@@ -132,7 +132,7 @@ Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

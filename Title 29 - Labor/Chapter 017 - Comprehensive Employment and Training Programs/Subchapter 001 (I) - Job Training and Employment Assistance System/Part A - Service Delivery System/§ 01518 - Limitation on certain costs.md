@@ -26,7 +26,7 @@ Except as provided in subparagraph (A) or (B) of section 1551(d)(3) of this titl
 
 (5) Each service delivery area shall ensure that for all services provided to participants through contracts, grants, or other agreements with a service provider, such contract, grant, or agreement shall include appropriate amounts necessary for administration and supportive services.
 
-(6) For purposes of paragraph (4), the term “allocated” means allocated for a program year, as adjusted for reallocations and reallotments under section 1519 of this title and for transfers of funds under sections 1606, 1635, and 1646 of this title.
+(6) For purposes of paragraph (4), the term “allocated” means allocated for a program year, asadjusted for reallocations and reallotments under section 1519 of this title and for transfers of funds under sections 1606, 1635, and 1646 of this title.
 
 #### (c) Reference to limitations
 

@@ -46,7 +46,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (2) Recommendations for attaining reciprocity
 
-&emsp;The report required by paragraph (1) shall include an evaluation of alternative means to obtain equity and reciprocity in such product sectors, including (A) prohibiting the procurement of products of such countries by United States entities not covered by the Agreement, and (B) modifying the application of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act. The report shall include an analysis of the effect of such alternative means on theUnited States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget), and on successful negotiations on the expansion of the coverage of the Agreement pursuant to section 2514(a) and (b) of this title, other trade negotiating objectives, the relationship of the Federal Government to State and local governments, and such other factors as the President deems appropriate.
+&emsp;The report required by paragraph (1) shall include an evaluation of alternative means to obtain equity and reciprocity in such product sectors, including (A) prohibiting the procurement of products of such countries by United States entities not covered by the Agreement, and (B) modifying the application of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act. The report shall include an analysis of the effect of such alternative means on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget), and on successful negotiations on the expansion of the coverage of the Agreement pursuant to section 2514(a) and (b) of this title, other trade negotiating objectives, the relationship of the Federal Government to State and local governments, and such other factors as the President deems appropriate.
 
 #### (3) Consultation
 
@@ -72,7 +72,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### References in Text
 
-Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, popularly known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prio
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

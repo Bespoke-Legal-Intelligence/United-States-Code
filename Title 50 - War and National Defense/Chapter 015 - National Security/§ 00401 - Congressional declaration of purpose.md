@@ -217,7 +217,7 @@ Implementation.—In carrying out subsection (a), the Commission shall specifica
 
 “(a)
 
-Initial Report.—Not later than two months after the first meeting of the Commission, the Commission shall transmit to the congressional intelligence committees a report setting forth its plan for the work of the Commission.
+Initial Report.—Not later than two months after the first meeting of the Commission, the Commission shall transmit to the congressional intelligencecommittees a report setting forth its plan for the work of the Commission.
 
 “(b)
 
@@ -225,7 +225,7 @@ Interim Reports.—Prior to the submission of the report required by subsection 
 
 “(c)
 
-Final Report.—No later than March 1, 1996, the Commission shall submit to the President and to the congressional intelligence committees a report setting forth the activities, findings, and recommendations ofthe Commission, including any recommendations for the enactment of legislation that the Commission considers advisable. To the extent feasible, such report shall be unclassified and made available to the public. Such report shall be supplemented as necessary by a classified report or annex, which shall be provided separately to the President and the congressional intelligence committees.
+Final Report.—No later than March 1, 1996, the Commission shall submit to the President and to the congressional intelligence committees a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for the enactment of legislation that the Commission considers advisable. To the extent feasible, such report shall be unclassified and made available to the public. Such report shall be supplemented as necessary by a classified report or annex, which shall be provided separately to the President and the congressional intelligence committees.
 
 #### “SEC. 905. POWERS.
 
@@ -313,11 +313,11 @@ Pub. L. 101–511, title VIII, §8104, Nov. 5, 1990, 104 Stat. 1898, as amended 
 
 &emsp;“(1) Recent revolutionary world events require a fundamental reassessment of the defense and national security policies of the United States.
 
-&emsp;“(2) Emerging democracies around the world will require political, technical, and economic assistance, as well as military assistance, from the developed free nations in order to thrive and to become productive members of the world community.
+&emsp;“(2) Emerging democracies around the world will require political, technical, and economic assistance,as well as military assistance, from the developed free nations in order to thrive and to become productive members of the world community.
 
 &emsp;“(3) Real and potential military threats to the United States and its allies will continue to exist for the foreseeable future from not just the Soviet Union but also from terrorism and from Third World nations.
 
-&emsp;“(4) Proliferation of both sophisticated conventional weapons and of nuclear weapons could producea world more dangerous than we have faced in the past.
+&emsp;“(4) Proliferation of both sophisticated conventional weapons and of nuclear weapons could produce a world more dangerous than we have faced in the past.
 
 &emsp;“(5) Ethnic rivalries as well as economic inequalities may produce instabilities that could spark serious conflict.
 
@@ -441,7 +441,7 @@ Applicability of Certain Civil Service Laws.—The Director and staff of the Com
 
 “(d)
 
-Experts and Consultants.—Subject to such rules as may be prescribed by the Commission, the Chairman may procure temporary and intermittent services under section 3109(b) of title 5 of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
+Experts and Consultants.—Subject to such rules as may be prescribed by the Commission, theChairman may procure temporary and intermittent services under section 3109(b) of title 5 of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
 
 “(e)
 
@@ -535,7 +535,7 @@ Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, provided:
 
 Pursuant to Paragraph 2 of Executive Order 10431, the following regulations are hereby issued to govern the award of the National Security Medal:
 
-1\. The National Security Medal may be awarded to any person without regard to nationality, including a member of the Armed Forces of the United States, who, on or after 26 July 1947, has made an outstanding contribution to the National intelligence effort. This contribution may consist of either exceptionally meritorious service performed in a position of high responsibility or of an act of valor requiring personal courage of a high degree and complete disregard of personal safety.
+1\. The National Security Medal may be awarded to any person without regard to nationality, including amember of the Armed Forces of the United States, who, on or after 26 July 1947, has made an outstanding contribution to the National intelligence effort. This contribution may consist of either exceptionally meritorious service performed in a position of high responsibility or of an act of valor requiring personal courage of a high degree and complete disregard of personal safety.
 
 2\. The National Security Medal with accompanying ribbon and appurtenances, shall be of appropriate design to be approved by the Executive Secretary of the National Security Council.
 
@@ -545,29 +545,13 @@ Pursuant to Paragraph 2 of Executive Order 10431, the following regulations are 
 
 5\. Each recommendation shall contain a draft of an appropriate citation to accompany the award of the National Security Medal.
 
-#### Executive Order No. 10865
-
-For Ex. Ord. No. 10865, see note under section 435 of this title.
-
-#### Executive Order No. 11652
-
-For Ex. Ord. No. 11652, see note under section 435 of this title.
-
 #### Executive Order No. 11905
 
 Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R. 25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869, which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
 
-#### Executive Order No. 11932
-
-For Ex. Ord. No. 11932, see note under section 435 of this title.
-
 #### Executive Order No. 12036
 
 Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, as amended by Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, which related to United States foreign intelligence activities, was revoked by Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, set out below.
-
-#### Executive Order No. 12065
-
-For Ex. Ord. No. 12065, see note under section 435 of this title.
 
 #### Ex. Ord. No. 12333. United States Intelligence Activities
 
@@ -746,7 +730,7 @@ The National Security Council
 
 (a) <i>Purpose</i>. The National Security Council (NSC) was established by the National Security Act of 1947 \[see Short Title note above\] to advise the President with respect to the integration of domestic, foreign and military policies relating to the national security. The NSC shall act as the highest Executive Branch entity that provides review of, guidance for and direction to the conduct of all national foreign intelligence, counterintelligence, and special activities, and attendant policies and programs.
 
-(b) <i>Committees</i>. The NSC shall establish such committees as may be necessary to carry out its functions and responsibilities under this Order. The NSC, or a committee established by it, shall consider and submit to the President a policy recommendation, including all dissents, on each special activity and shall review proposals for other sensitive intelligence operations.
+(b) <i>Committees</i>. The NSC shall establish such committees as may be necessary to carry out its functions and responsibilities under this Order. The NSC, or a committee established by it, shall consider and submit to the President a policy recommendation, including alldissents, on each special activity and shall review proposals for other sensitive intelligence operations.
 
 #### 1\.3
 
@@ -1082,13 +1066,13 @@ Agencies within the Intelligence Community are authorized to collect, retain or 
 
 (j) Information necessary for administrative purposes.
 
-In addition, agencies within the Intelligence Community may disseminate information, other than information derived from signals intelligence, to each appropriate agency within the Intelligence Community forpurposes of allowing the recipient agency to determine whether the information is relevant to its responsibilities and can be retained by it.
+In addition, agencies within the Intelligence Community may disseminate information, other than information derived from signals intelligence, to each appropriate agency within the Intelligence Community for purposes of allowing the recipient agency to determine whether the information is relevant to its responsibilities and can be retained by it.
 
 #### 2\.4
 
 Collection Techniques
 
-Agencies within the Intelligence Community shall use the least intrusive collection techniques feasible within the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
+Agencies within the Intelligence Community shall use the least intrusive collection techniques feasiblewithin the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
 
 (a) The CIA to engage in electronic surveillance within the United States except for the purpose of training, testing, or conducting countermeasures to hostile electronic surveillance;
 
@@ -1252,10 +1236,6 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
 
-#### Executive Order No. 12356
-
-For Ex. Ord. No. 12356, see note under section 435 of this title.
-
 #### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
 
 Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, provided:
@@ -1264,7 +1244,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 #### PART I. ASSESSMENT OF INTELLIGENCE ACTIVITIES
 
-Section 1.1. There is hereby established within the White House Office, Executive Office of the President,the President's Foreign Intelligence Advisory Board (PFIAB). The PFIAB shall consist of not more than 16 members, who shall serve at the pleasure of the President and shall be appointed by the President from among trustworthy and distinguished citizens outside the Government who are qualified on the basis of achievement, experience and independence. The President shall establish the terms of the members upon their appointment. To the extent practicable, one-third of the PFIAB at any one time shall be comprised of members whose term of service does not exceed 2 years. The President shall designate a Chairman and Vice Chairman from among the members. The PFIAB shall utilize full-time staff and consultants as authorized by the President. Such staff shall be headed by an Executive Director, appointed by the President.
+Section 1.1. There is hereby established within the White House Office, Executive Office of the President, the President's Foreign Intelligence Advisory Board (PFIAB). The PFIAB shall consist of not more than 16 members, who shall serve at the pleasure of the President and shall be appointed by the President from among trustworthy and distinguished citizens outside the Government who are qualified on the basis of achievement, experience and independence. The President shall establish the terms of the members upon their appointment. To the extent practicable, one-third of the PFIAB at any one time shall be comprised of members whose term of service does not exceed 2 years.The President shall designate a Chairman and Vice Chairman from among the members. The PFIAB shall utilize full-time staff and consultants as authorized by the President. Such staff shall be headed by an Executive Director, appointed by the President.
 
 Sec. 1.2. The PFIAB shall assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities. The PFIAB shall have the authority to review continually the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy. The PFIAB shall further be authorized to assess the adequacy of management, personnel and organization in the intelligence agencies. The heads of departments and agencies of the Federal Government, to the extent permitted by law, shall provide the PFIAB with access to all information that the PFIAB deems necessary to carry out its responsibilities.
 

@@ -36,7 +36,7 @@ The words “appointment or” are omitted as surplusage.
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (b) of this section were contained in Pub. L. 100–463, title VIII, §8114, Oct. 1, 1988, 102 Stat. 2270–38, which was set out as a note below, prior to repeal by Pub. L. 101–510, §1481(d)(4)(A).
+Provisions similar to those in subsec. (b) of this section were contained in Pub. L. 100–463, title VIII, §8114, Oct. 1, 1988, 102 Stat. 2270–38, which was set out as a note below, prior to repeal by Pub. L. 101–510, §1481(d)(4)(A).
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Pub. L. 101–510, §1481(d)(1), (2), substituted “Employment of non-citizens�
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
@@ -56,9 +56,11 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 #### Citizenship Requirement Not Applicable
 
-Act Sept. 30, 1994, Pub. L. 103–335, title VIII, §8002, 108 Stat. 2616, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Act Dec. 1, 1995, Pub. L. 104–61, title VIII, §8002, 109 Stat. 651, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Sept. 30, 1994, Pub. L. 103–335, title VIII, §8002, 108 Stat. 2616.
 
 Nov. 11, 1993, Pub. L. 103–139, title VIII, §8002, 107 Stat. 1437.
 

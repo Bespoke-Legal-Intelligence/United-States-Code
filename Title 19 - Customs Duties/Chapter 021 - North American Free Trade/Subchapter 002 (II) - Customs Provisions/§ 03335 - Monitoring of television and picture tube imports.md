@@ -2,7 +2,7 @@
 
 #### (a) Monitoring
 
-Beginning on the date the Agreement enters into force with respect to the United States, the United States Customs Service shall, for a period of 5 years, monitor imports into the United States of articles described in subheading 8528.10 of the HTS from NAFTA countries and shall take action to exercise all rights of the United States under chapter 5 of the Agreement with respect to such imports. The United States Customs Service shall take appropriate action under chapter 5 of the Agreement with respect to such imports, including verifications to ensure that the rules of origin under the Agreement are fully complied with and that the duty drawback obligations contained in article 303 and Annex 303.8 of the Agreement are fully implemented and duties are correctly assessed.
+Beginning on the date the Agreement enters into force with respect to the United States, the United States Customs Service shall, for a period of 5 years, monitor imports into the United States of articles described in subheading 8528.10 of the HTS from NAFTA countries and shalltake action to exercise all rights of the United States under chapter 5 of the Agreement with respect to such imports. The United States Customs Service shall take appropriate action under chapter 5 of the Agreement with respect to such imports, including verifications to ensure that the rules of origin under the Agreement are fully complied with and that the duty drawback obligations contained in article 303 and Annex 303.8 of the Agreement are fully implemented and duties are correctly assessed.
 
 #### (b) Report to Trade Representative
 

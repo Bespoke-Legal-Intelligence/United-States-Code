@@ -4,9 +4,9 @@ Part B—Environmental Tobacco Smoke
 
 This part was, in the original, designated part C and has been redesignated part B for purposes of codification.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “1933”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “1933”.</i>
 
-<i><sup>2</sup></i><i>So in original. No subsec. (a) has been enacted.</i>
+<i><sup>2</sup></i><i> So in original. No subsec. (a) has been enacted.</i>
 
 
 ---

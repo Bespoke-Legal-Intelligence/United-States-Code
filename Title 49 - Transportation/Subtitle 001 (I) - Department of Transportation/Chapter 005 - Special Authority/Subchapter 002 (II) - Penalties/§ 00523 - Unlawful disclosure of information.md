@@ -1,6 +1,6 @@
 ### §523. Unlawful disclosure of information
 
-(a) A motor carrier, or an officer, receiver, trustee, lessee, or employee of that carrier, or another person authorized by that carrier to receive information from that carrier, may not knowingly disclose to another person (except the shipper or consignee), and another person may not solicit, or knowingly receive, information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier without the consent of the shipper or consignee if that information may be used to the detriment of the shipper or consignee or may disclose improperly to a competitor the business transactions of the shipper or consignee.
+(a) A motor carrier, or an officer, receiver, trustee, lessee, or employee of that carrier, or another person authorized by that carrier to receive information from that carrier, may not knowingly disclose to another person (except the shipper or consignee), and another personmay not solicit, or knowingly receive, information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier without the consent of the shipper or consignee if that information may be used to the detriment of the shipper or consignee or may disclose improperly to a competitor the business transactions of the shipper or consignee.
 
 (b) This chapter does not prevent a motor carrier, motor carrier of migrant workers, or motor private carrier from giving information—
 
@@ -49,8 +49,6 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to �
 49:304(a)(3a) (last sentence) (related to “Sec. 322(d)”).
 
 The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
-
-&nbsp;
 
 | <i>Section 523</i> | <i>49 U.S. Code</i> | <i>Revised Section</i> |
 | :--- | :---: | ---: |

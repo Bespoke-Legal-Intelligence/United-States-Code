@@ -90,12 +90,12 @@
 
 |  |  |
 | :--- | ---: |
-| 331\. | Recall to active duty during war or national emergency. |
-| 332\. | Recall to active duty with consent of officer. |
-| 333\. | Relief of retired officer promoted while on active duty. |
-| 334\. | Grade on retirement. |
-| 335\. | Physical fitness of officers. |
-| 336\. | United States Coast Guard Band; composition; director. |
+| [331\.](Officers/f.%20miscellaneous%20provisions/%C2%A7%2000331%20-%20Recall%20to%20active%20duty%20during%20war%20or%20national%20emergency.md) | Recall to active duty during war or national emergency. |
+| [332\.](Officers/f.%20miscellaneous%20provisions/%C2%A7%2000332%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20officer.md) | Recall to active duty with consent of officer. |
+| [333\.](Officers/f.%20miscellaneous%20provisions/%C2%A7%2000333%20-%20Relief%20of%20retired%20officer%20promoted%20while%20on%20active%20duty.md) | Relief of retired officer promoted while on active duty. |
+| [334\.](Officers/f.%20miscellaneous%20provisions/%C2%A7%2000334%20-%20Grade%20on%20retirement.md) | Grade on retirement. |
+| [335\.](Officers/f.%20miscellaneous%20provisions/%C2%A7%2000335%20-%20Physical%20fitness%20of%20officers.md) | Physical fitness of officers. |
+| [336\.](Officers/f.%20miscellaneous%20provisions/%C2%A7%2000336%20-%20United%20States%20Coast%20Guard%20Band%3B%20composition%3B%20director.md) | United States Coast Guard Band; composition; director. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,14 +103,14 @@
 
 |  |  |
 | :--- | ---: |
-| 350\. | Recruiting campaigns. |
-| 351\. | Enlistments; term, grade. |
-| 352\. | Promotion. |
-| 353\. | Compulsory retirement at age of sixty-two. |
-| 354\. | Voluntary retirement after thirty years’ service. |
-| 355\. | Voluntary retirement after twenty years’ service. |
+| [350\.](Enlisted%20Members/%C2%A7%2000350%20-%20Recruiting%20campaigns.md) | Recruiting campaigns. |
+| [351\.](Enlisted%20Members/%C2%A7%2000351%20-%20Enlistments%3B%20term%2C%20grade.md) | Enlistments; term, grade. |
+| [352\.](Enlisted%20Members/%C2%A7%2000352%20-%20Promotion.md) | Promotion. |
+| [353\.](Enlisted%20Members/%C2%A7%2000353%20-%20Compulsory%20retirement%20at%20age%20of%20sixty-two.md) | Compulsory retirement at age of sixty-two. |
+| [354\.](Enlisted%20Members/%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%E2%80%99%20service.md) | Voluntary retirement after thirty years’ service. |
+| [355\.](Enlisted%20Members/%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%E2%80%99%20service.md) | Voluntary retirement after twenty years’ service. |
 | \[356. | Repealed.\] |
-| 357\. | Involuntary retirement of enlisted members. |
+| [357\.](Enlisted%20Members/%C2%A7%2000357%20-%20Involuntary%20retirement%20of%20enlisted%20members.md) | Involuntary retirement of enlisted members. |
 | \[358. | Repealed.\] |
 | [359\.](Enlisted%20Members/%C2%A7%2000359%20-%20Recall%20to%20active%20duty%20during%20war%20or%20national%20emergency.md) | Recall to active duty during war or national emergency. |
 | [360\.](Enlisted%20Members/%C2%A7%2000360%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20member.md) | Recall to active duty with consent of member. |

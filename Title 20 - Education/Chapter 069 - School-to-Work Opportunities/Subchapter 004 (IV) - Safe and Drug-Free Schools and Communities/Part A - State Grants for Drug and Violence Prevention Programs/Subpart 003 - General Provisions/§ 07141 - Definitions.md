@@ -32,9 +32,9 @@ For the purposes of this part:
 
 &emsp;The term “school personnel” includes teachers, administrators, guidance counselors, social workers, psychologists, nurses, librarians, and other support staff who are employed by a school or who perform services for the school on a contractual basis.
 
-(Pub. L. 89 10, title IV, §4131, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3689.)
+(Pub. L. 89–10, title IV, §4131, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3689.)
 
 #### References in Text
 
-Section 1(b) of the Hate Crime Statistics Act of 1990, referred to in par. (3), is section 1(b) of Pub. L. 101 275, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+Section 1(b) of the Hate Crime Statistics Act of 1990, referred to in par. (3), is section 1(b) of Pub. L. 101–275, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
 

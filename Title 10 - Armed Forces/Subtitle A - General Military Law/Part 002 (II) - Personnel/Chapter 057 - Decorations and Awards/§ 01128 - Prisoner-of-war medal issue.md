@@ -22,7 +22,7 @@
 
 (e) For a person to be eligible for issuance of a prisoner-of-war medal, the person's conduct must have been honorable for the period of captivity which serves as the basis for the issuance.
 
-(f) If a person dies before the issuance of a prisoner-of-war medal to which he is entitled,the medal may be issued to the person's representative, as designated by the Secretary concerned.
+(f) If a person dies before the issuance of a prisoner-of-war medal to which he is entitled, the medal may be issued to the person's representative, as designated by the Secretary concerned.
 
 (g) Under regulations to be prescribed by the Secretary concerned, a prisoner-of-war medal that is lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was issued may be replaced without charge.
 

@@ -84,17 +84,17 @@ For definition of Canal Zone, referred to in subsec. (d)(4)(B), see section 3602
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–329, §634(b), amended subsec. (b) generally, revising and restructuring text.
+<b>1994</b>—Subsec. (b). Pub. L. 103–329, §634(b), amended subsec. (b) generally, revising and restructuring text.
 
 Subsec. (c). Pub. L. 103–329, §634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator's submission of the analysis that includes the fiscal year that ends September 30, 1991.”
 
-1990—Subsec. (d). Pub. L. 101–391 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–391 added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–234 designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–234 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
-1975—Pub. L. 94–22 inserted “and reports” in section catchline, designated existing provisions as subsec. (a), substituted “Administrator of General Services” for “Director of the Bureau of the Budget”, struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
+<b>1975</b>—Pub. L. 94–22 inserted “and reports” in section catchline, designated existing provisions as subsec. (a), substituted “Administrator of General Services” for “Director of the Bureau of the Budget”, struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
 
 #### Effective Date of 1986 Amendment
 
@@ -114,5 +114,5 @@ Section 6(b) of Pub. L. 94–22 provided that regulations required under the fir
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5701, 5702, 5704, 5706a, 5709 of this title; title 7 sections 3128, 3194, 3335, 4108, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641; title 22 section 1474; title 24 section 415; title 28 section 456; title 40 section 872.
+This section is referred to in sections 5701, 5702, 5704, 5706a, 5709 of this title; title 7 sections 3128, 3194, 3335, 4108, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 28 section 456; title 40 section 872.
 

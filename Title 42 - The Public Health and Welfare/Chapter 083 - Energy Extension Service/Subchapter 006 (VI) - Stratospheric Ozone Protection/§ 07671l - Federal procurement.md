@@ -50,7 +50,7 @@ Sec. 3. <i>Policy</i>. It is the policy of the Federal Government that Federal a
 
 (a) minimizing, where economically practicable, the procurement of products containing or manufactured with Class I substances in anticipation of the phaseout schedule to be promulgated by EPA for Class I substances, and maximizing the use of safe alternatives. In developing their procurement policies, agencies should be aware of the phaseout schedule for Class II substances;
 
-(b) amending existing contracts, to the extent permitted by law and where practicable, to be consistent with the phaseout schedules for Class I substances. In awarding contracts, agencies should be aware of thephaseout schedule for Class II substances in awarding contracts;
+(b) amending existing contracts, to the extent permitted by law and where practicable, to be consistent with the phaseout schedules for Class I substances. In awarding contracts, agencies should be aware of the phaseout schedule for Class II substances in awarding contracts;
 
 (c) implementing policies and practices that recognize the increasingly limited availability of Class I substances as production levels capped by the Montreal Protocol decline until final phaseout. Such practices shall include, but are not limited to:
 
@@ -60,7 +60,7 @@ Sec. 3. <i>Policy</i>. It is the policy of the Federal Government that Federal a
 
 &emsp;(iii) requiring that new contracts provide that any acquired products containing or manufactured with Class I or Class II substances be labeled in accordance with section 611 of the Clean Air Act Amendments \[probably means section 611 of the Clean Air Act, 42 U.S.C. 7671j\].
 
-Sec. 4. <i>Responsibilities</i>. Not later than 6 months after the effective date of this Executive order, each Federal agency, where feasible, shall have in place practices that, where economically practicable, minimize the procurement of Class I substances. Agencies also shall be aware of the phaseout schedule for Class II substances. Agency practices may include, but are not limited to:
+Sec. 4. <i>Responsibilities</i>. Not later than 6 months after the effective date of this Executive order, each Federalagency, where feasible, shall have in place practices that, where economically practicable, minimize the procurement of Class I substances. Agencies also shall be aware of the phaseout schedule for Class II substances. Agency practices may include, but are not limited to:
 
 (a) altering existing equipment and/or procedures to make use of safe alternatives;
 

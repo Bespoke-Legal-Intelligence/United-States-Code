@@ -30,23 +30,23 @@ Another section 8440c was renumbered section 8440d of this title.
 
 #### Amendments
 
-1994—Subsec. (b)(4)(B). Pub. L. 103–226, §9(g)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
+<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(g)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
 
 Subsec. (b)(5). Pub. L. 103–226, §9(g)(2), substituted “any of the actions described in paragraph (4)(A) or (B) shall be considered” for “retirement under section 178 of title 28 is”.
 
 Subsec. (b)(8), (9). Pub. L. 103–226, §9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”, and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
 
-1992—Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
+<b>1992</b>—Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
 
 Subsec. (a)(1). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (b)(1) to (5), (7) to (9). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
-1991—Pub. L. 102–198, §7(c)(1)(A), renumbered section 8440b of this title as this section.
+<b>1991</b>—Pub. L. 102–198, §7(c)(1)(A), renumbered section 8440b of this title as this section.
 
 Subsec. (b)(4)(A). Pub. L. 102–198, §7(c)(1)(B)(i), substituted “subsection (c)” for “subsection (d)”.
 
-Subsec. (b)(7). Pub. L. 102–198, §7(c)(1)(B)(ii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by Claims Court judges, as well as all previouscontributions to the Thrift Savings Fund by those judges, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
+Subsec. (b)(7). Pub. L. 102–198, §7(c)(1)(B)(ii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by Claims Court judges, as well as all previous contributions to the Thrift Savings Fund by those judges, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
 Subsec. (b)(8). Pub. L. 102–198, §7(c)(1)(B)(ii), (iii) added par. (8) and redesignated former par. (8) as (7).
 
@@ -54,7 +54,7 @@ Subsec. (b)(9). Pub. L. 102–198, §7(c)(1)(B)(iii), added par. (9).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -16,9 +16,9 @@ Proceeds from reimbursements under this section may be credited to the appropria
 
 Any interest in real property acquired pursuant to this chapter shall be acquired in the name of the United States Government.
 
-(Pub. L. 96 88, title IV, §419, Oct. 17, 1979, 93 Stat. 686; Pub. L. 99 145, title XII, §1204(a)(2), Nov. 8, 1985, 99 Stat. 720.)
+(Pub. L. 96–88, title IV, §419, Oct. 17, 1979, 93 Stat. 686; Pub. L. 99–145, title XII, §1204(a)(2), Nov. 8, 1985, 99 Stat. 720.)
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99 145 struck out par. (1) designation and par. (2) which provided for treatment of personnel, upon transfer of functions and personnel from the Secretary of Defense to the Secretary of Education, as employees of the Department of Defense for the purpose of access to services and facilities provided by the Department of Defense.
+1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for treatment of personnel, upon transfer of functions and personnel from the Secretary of Defense to the Secretary of Education, as employees of the Department of Defense for the purpose of access to services and facilities provided by the Department of Defense.
 

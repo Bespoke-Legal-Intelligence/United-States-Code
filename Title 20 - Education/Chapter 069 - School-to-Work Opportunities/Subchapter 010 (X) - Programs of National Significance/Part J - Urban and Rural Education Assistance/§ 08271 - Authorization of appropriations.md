@@ -22,5 +22,5 @@ There are authorized to be appropriated $25,000,000 for fiscal year 1995 and suc
 
 An eligible local educational agency may use funds received under this part only to supplement and, to the extent practicable, increase the level of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of students participating in activities assisted under this part, and in no such case may such funds be used to supplant funds from non-Federal sources.
 
-(Pub. L. 89 10, title X, §10951, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3847.)
+(Pub. L. 89–10, title X, §10951, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3847.)
 

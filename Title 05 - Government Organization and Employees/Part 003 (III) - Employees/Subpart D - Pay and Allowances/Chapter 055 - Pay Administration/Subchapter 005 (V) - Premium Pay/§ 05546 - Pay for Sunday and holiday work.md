@@ -68,7 +68,7 @@ In subsection (a), the words “An employee who performs work . . . is entitle
 
 #### Amendments
 
-1968—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
 
 Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted “5542(a)” for “5442(a)”.
 
@@ -86,5 +86,5 @@ Legal public holidays, see section 6103 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5541, 5547, 6128 of this title; title 14 section 432; title 15 section 278e; title 20 section 241.
+This section is referred to in sections 5541, 5547, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e.
 

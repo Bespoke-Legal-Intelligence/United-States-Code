@@ -22,5 +22,5 @@ In order to carry out the responsibilities specified in this subchapter, the Sec
 
 Any applicant or licensee who makes a timely request for review of an adverse action pursuant to subsection (a)(1), (a)(3), (a)(5), or (a)(6) of this section shall be entitled to adjudication by the Secretary on the record after an opportunity for any agency hearing with respect to such adverse action. Any final action by the Secretary under this subsection shall be subject to judicial review under chapter 7 of title 5.
 
-(Pub. L. 102 555, title II, §203, Oct. 28, 1992, 106 Stat. 4172.)
+(Pub. L. 102–555, title II, §203, Oct. 28, 1992, 106 Stat. 4172.)
 

@@ -44,7 +44,7 @@ In addition to the cooperation authorized in subsections (a) and (b) of this sec
 
 #### (d) By Department of Energy
 
-(1) In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
+(1) In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, uponmaking such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
 
 &emsp;(A) the support of a program for the control of and accounting for fissile material and other weapons material;
 

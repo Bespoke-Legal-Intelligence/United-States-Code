@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
 
 “(a) It is the policy of Congress that Federal pay fixing for employees under statutory pay systems be based on the principles that—
 
@@ -54,9 +54,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 &emsp;“(3) chapter 73 of title 38, relating to the Department of Medicine and Surgery, Veterans’ Administration.”
 
-1980—Subsec. (c)(2). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “subchapter IV of chapter 14 of title 22”.
+<b>1980</b>—Subsec. (c)(2). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “subchapter IV of chapter 14 of title 22”.
 
-1971—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted “for employees under statutory pay systems” after “Federal pay fixing”; substituted subsec. (b) reading “The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title” for former second sentence providing “Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles”; and added subsec. (c).
+<b>1971</b>—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted “for employees under statutory pay systems” after “Federal pay fixing”; substituted subsec. (b) reading “The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title” for former second sentence providing “Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles”; and added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 
@@ -84,7 +84,7 @@ Section 529 \[§1\] of Pub. L. 101–509 provided that:
 
 “(a)
 
-Short Title.—This section, and the sections immediately following this section through section 412, inclusive \[section 529 \[§§1–412\] of Pub. L. 101–509, see Tables for classification\], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
+Short Title.—This section, and the sections immediately following this section through section 412,inclusive \[section 529 \[§§1–412\] of Pub. L. 101–509, see Tables for classification\], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
 
 “(b)
 
@@ -96,7 +96,7 @@ Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwiths
 
 #### Short Title
 
-Section 1 of Pub. L. 91–656 provided that: “This Act \[enacting sections 5305 to 5308 and 5947 of this title, amending sections 5108, 5301, and 5942 of this title andsection 410 of Title 39, Postal Service, repealing section 5302 of this title, and enacting provisions set out as notes under sections 5303 and 5942 of this title, section 60a of Title 2, The Congress, and section 410 of Title 39\] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
+Section 1 of Pub. L. 91–656 provided that: “This Act \[enacting sections 5305 to 5308 and 5947 of this title, amending this section, sections 5108 and 5942 of this title, and section 410 of Title 39, Postal Service, repealing section 5302 of this title, and enacting provisions set out as notes under sections 5303 and 5942 of this title, section 60a of Title 2, The Congress, and section 410 of Title 39\] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
 
 #### Pay-for-Performance Labor-Management Committee
 
@@ -182,7 +182,7 @@ Section 1. <i>Annual Adjustments to Pay Schedules</i>. The following agencies ar
 
 (c) the Department of Veterans Affairs, for the Veterans Health Services and Research Administration Schedules.
 
-Sec. 2. <i>Locality-based Comparability Payments</i>. (a) The Secretary of Labor, the Director of the Office of Management and Budget, and the Director of the Office of Personnel Management are hereby designated under section 5304(d)(1) of title 5, United States Code, as amended by FEPCA, to serve jointly as the President'sagent under section 5304 of title 5, United States Code, and shall be known in this capacity as the President's Pay Agent.
+Sec. 2. <i>Locality-based Comparability Payments</i>. (a) The Secretary of Labor, the Director of the Office of Management and Budget, and the Director of the Office of Personnel Management are hereby designated under section 5304(d)(1) of title 5, United States Code, as amended by FEPCA, to serve jointly as the President's agent under section 5304 of title 5, United States Code, and shall be known in this capacity as the President's Pay Agent.
 
 (b) The head of each executive agency employing personnel under a statutory pay system, as defined in section 5302(1) of title 5, United States Code, as amended by FEPCA, shall provide such information and assistance as may be requested by the President's Pay Agent in carrying out the provisions of section 5304 of title 5, United States Code.
 

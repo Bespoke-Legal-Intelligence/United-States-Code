@@ -44,7 +44,7 @@ Upon the establishment of the Civilian Community Corps Demonstration Program, th
 
 #### (e) Distribution of units and camps
 
-The Director shall ensure that the Corps units and camps are distributed in urban areas and rural areas in various regions throughout the United States.
+The Director shall ensure that the Corps units and camps are distributed in urban areas andrural areas in various regions throughout the United States.
 
 #### (f) Standards of conduct
 

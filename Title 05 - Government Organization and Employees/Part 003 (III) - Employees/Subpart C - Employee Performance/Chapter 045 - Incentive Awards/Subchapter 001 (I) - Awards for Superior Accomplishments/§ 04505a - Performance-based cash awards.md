@@ -2,7 +2,7 @@
 
 (a)(1) An employee whose most recent performance rating was at the fully successful level or higher (or the equivalent thereof) may be paid a cash award under this section.
 
-(2)(A) A cash award under this section shall be equal to an amount determined appropriate by the head of the agency, but may not be more than 10 percent of the employee's annual rate of basic pay. Notwithstanding the preceding sentence, the agency head may authorize a cash award equal to an amount exceeding 10 percent of the employee's annual rate of basic pay if theagency head determines that exceptional performance by the employee justifies such an award, but in no case may an award under this section exceed 20 percent of the employee's annual rate of basic pay.
+(2)(A) A cash award under this section shall be equal to an amount determined appropriate by the head of the agency, but may not be more than 10 percent of the employee's annual rate of basic pay. Notwithstanding the preceding sentence, the agency head may authorize a cash award equal to an amount exceeding 10 percent of the employee's annual rate of basic pay if the agency head determines that exceptional performance by the employee justifies such an award, but in no case may an award under this section exceed 20 percent of the employee's annual rate of basic pay.
 
 (B) For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1992—Subsec. (b)(2). Pub. L. 102–378, §2(19)(A), inserted reference to chapter 71.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–378, §2(19)(A), inserted reference to chapter 71.
 
 Subsec. (c). Pub. L. 102–378, §2(19)(B), inserted “of Personnel Management” after “Office”.
 

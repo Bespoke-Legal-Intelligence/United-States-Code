@@ -2,7 +2,7 @@
 
 #### (a) Descent or distribution
 
-Notwithstanding any other provision of law, any Indian tribe, subject to approval by the Secretary, may adopt its own code of laws to govern descent and distribution of trust or restricted lands within that tribe's reservation or otherwise subject to that tribe's jurisdiction, and may provide that nonmembers of the tribe or non-Indians shall not be entitled to receive by devise or descent any interest or <sup>1</sup> trust or restricted lands within that tribe's reservation or otherwise subject to that tribe's jurisdiction: <i>Provided</i>, That in the event a tribe takes such action—
+Notwithstanding any other provision of law, any Indian tribe, subject to approval by the Secretary, may adopt its own code of laws to governdescent and distribution of trust or restricted lands within that tribe's reservation or otherwise subject to that tribe's jurisdiction, and may provide that nonmembers of the tribe or non-Indians shall not be entitled to receive by devise or descent any interest or <sup>1</sup> trust or restricted lands within that tribe's reservation or otherwise subject to that tribe's jurisdiction: <i>Provided</i>, That in the event a tribe takes such action—
 
 &emsp;(1) if an Indian dies intestate, the surviving non-Indian or nonmember spouse and/or children may elect to receive a life estate in as much of the trust or restricted lands as such person or persons would have been entitled to take in the absence of such restriction on eligibility for inheritance and the remainder shall vest in the Indians or tribal members who would have been heirs in the absence of a qualified person taking a life estate;
 

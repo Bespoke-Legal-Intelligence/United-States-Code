@@ -30,7 +30,7 @@ The Congress finds that the greatest potential for significantly expanding avail
 
 Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
 
-&emsp;(1) to devise and carry out in partnership with developing countries a strategy for programs of nutrition and health improvementfor mothers and children, including breast feeding; and
+&emsp;(1) to devise and carry out in partnership with developing countries a strategy for programs of nutrition and health improvement for mothers and children, including breast feeding; and
 
 &emsp;(2) to provide technical, financial, and material support to individuals or groups at the local level for such programs.
 
@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 96–53, §101(c), added subsec. (f).
 
 1978—Pub. L. 95–424 amended section generally, updating and clarifying the purposes of assistance to more accurately reflect the range of activities authorized by this section.
 
-1977—Subsec. (a). Pub. L. 95–88, §102(a), struck out provisions authorizing appropriations of $291,000,000 forthe fiscal year 1974, $500,000,000 for the fiscal year 1975, and $618,800,000 for the fiscal year 1976, and inserted provisions authorizing the appropriation of $580,000,000 for the fiscal year 1978.
+1977—Subsec. (a). Pub. L. 95–88, §102(a), struck out provisions authorizing appropriations of $291,000,000 for the fiscal year 1974, $500,000,000 for the fiscal year 1975, and $618,800,000 for the fiscal year 1976, and inserted provisions authorizing the appropriation of $580,000,000 for the fiscal year 1978.
 
 Subsec. (h). Pub. L. 95–88, §102(b), added subsec. (h).
 

@@ -8,9 +8,9 @@
 
 &emsp;&emsp;(B) habitats which are essential spawning, nursery, nesting, and feeding areas for commercially and recreationally important species of finfish and shellfish, as well as other aquatic organisms such as sea turtles;
 
-&emsp;(2) coastal barriers contain resources of extraordinary scenic, scientific, recreational,natural, historic, archeological, cultural, and economic importance; which are being irretrievably damaged and lost due to development on, among, and adjacent to, such barriers;
+&emsp;(2) coastal barriers contain resources of extraordinary scenic, scientific, recreational, natural, historic, archeological, cultural, and economic importance; which are being irretrievably damaged and lost due to development on, among, and adjacent to, such barriers;
 
-&emsp;(3) coastal barriers serve as natural storm protective buffers and are generally unsuitable for development because they are vulnerable to hurricane and other storm damage and because natural shoreline recession and the movement of unstable sediments undermine manmade structures;
+&emsp;(3) coastal barriers serve as natural storm protective buffers and are generally unsuitable for development because they are vulnerable to hurricane and other storm damage and because natural shoreline recession and themovement of unstable sediments undermine manmade structures;
 
 &emsp;(4) certain actions and programs of the Federal Government have subsidized and permitted development on coastal barriers and the result has been the loss of barrier resources, threats to human life, health, and property, and the expenditure of millions of tax dollars each year; and
 

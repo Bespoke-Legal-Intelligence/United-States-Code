@@ -38,17 +38,17 @@
 
 #### (c) Review of written requests for guidance on periodic basis
 
-The Secretary shall periodically review the written requests for guidance submitted under this section to determine the need for new or supplementary regulatory or other guidance under applicable programs.
+The Secretary shall periodically review the written requests for guidance submitted under this section to determine the need for new orsupplementary regulatory or other guidance under applicable programs.
 
-(Pub. L. 90 247, title IV, §453, as added Pub. L. 95 561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100 297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 353.)
+(Pub. L. 90–247, title IV, §453, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 353.)
 
 #### Amendments
 
-1988—Pub. L. 100 297 amended section generally, substituting provisions relating to measure of recovery for provisions relating to withholdings. See section 1234d of this title.
+1988—Pub. L. 100–297 amended section generally, substituting provisions relating to measure of recovery for provisions relating to withholdings. See section 1234d of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100 297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
 #### Section Referred to in Other Sections
 

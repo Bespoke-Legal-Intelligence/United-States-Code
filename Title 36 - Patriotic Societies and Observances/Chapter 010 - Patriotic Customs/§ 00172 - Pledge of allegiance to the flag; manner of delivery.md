@@ -10,7 +10,7 @@ The Pledge of Allegiance to the Flag, “I pledge allegiance to the Flag of the 
 
 1954—Act June 14, 1954, inserted “under God,” in the pledge.
 
-1945—Act Dec. 28, 1945, inserted “The following is designated as”, inserted the period after “justice for all.”,and struck out “is rendered by standing with the right hand over the heart.” in first sentence, and inserted sentence “Such pledge should be rendered by standing with the right hand over the heart.”
+1945—Act Dec. 28, 1945, inserted “The following is designated as”, inserted the period after “justice for all.”, and struck out “is rendered by standing with the right hand over the heart.” in first sentence, and inserted sentence “Such pledge should be rendered by standing with the right hand over the heart.”
 
 1942—Act Dec. 22, 1942, struck out “extending the right hand, palm upward, toward the flag at the words ‘to the flag’ and holding this position until the end, when the hand drops to the side.” at end of first sentence.
 

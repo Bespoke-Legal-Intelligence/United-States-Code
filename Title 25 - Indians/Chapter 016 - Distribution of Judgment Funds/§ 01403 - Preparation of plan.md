@@ -6,7 +6,7 @@ The Secretary shall prepare a plan which shall best serve the interests of all t
 
 &emsp;(1) receive and consider any resolution or communication, together with any suggested use or distribution plan, which any affected Indian tribe may wish to submit to him; and
 
-&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affected by the use or distribution, of such funds, in the area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
+&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affectedby the use or distribution, of such funds, in the area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
 
 #### (b) Guidelines
 

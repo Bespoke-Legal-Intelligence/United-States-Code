@@ -6,5 +6,5 @@ Each local educational agency or consortium of such agencies that receives a gra
 
 &emsp;(2) then may use any funds not required to carry out the provisions of paragraph (1) for other program improvement activities, such as curriculum development or teacher training.
 
-(Pub. L. 88 210, title III, §354, as added Pub. L. 101 392, title III, §309, Sept. 25, 1990, 104 Stat. 793.)
+(Pub. L. 88–210, title III, §354, as added Pub. L. 101–392, title III, §309, Sept. 25, 1990, 104 Stat. 793.)
 

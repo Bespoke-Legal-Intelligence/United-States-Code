@@ -1,0 +1,26 @@
+### §3685. Filing of information relating to periodical publications
+
+(a) Each owner of a publication having periodical publication mail privileges shall furnish to the Postal Service at least once a year, and shall publish in such publication once a year, information in such form and detail and at such time as the Postal Service may require with respect to—
+
+&emsp;(1) the identity of the editor, managing editor, publishers, and owners;
+
+&emsp;(2) the identity of the corporation and stockholders thereof, if the publication is owned by a corporation;
+
+&emsp;(3) the identity of known bondholders, mortgagees, and other security holders;
+
+&emsp;(4) the extent and nature of the circulation of the publication, including, but not limited to, the number of copies distributed, the methods of distribution, and the extent to which such circulation is paid in whole or in part; and
+
+&emsp;(5) such other information as the Postal Service may deem necessary to determine whether the publication meets the standards for periodical publication mail privileges.
+
+> The Postal Service shall not require the names of persons owning less than 1 percent of the total amount of stocks, bonds, mortgages, or other securities.
+
+(b) Each publication having such mail privileges shall furnish to the Postal Service information in such form and detail, and at such times, as the Postal Service requires to determine whether the publication continues to qualify for such privileges.
+
+(c) The Postal Service shall make appropriate rules and regulations to carry out the purposes of this section, including provision for suspension or revocation of periodical publication mail privileges for failure to furnish the required information.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 611.
+

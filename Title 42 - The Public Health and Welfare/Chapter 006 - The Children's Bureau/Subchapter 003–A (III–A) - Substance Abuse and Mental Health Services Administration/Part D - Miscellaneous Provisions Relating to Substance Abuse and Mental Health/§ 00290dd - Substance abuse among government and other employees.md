@@ -56,7 +56,7 @@ Section was formerly classified to section 4571 of this title prior to renumberi
 
 #### Amendments
 
-1992—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse among government and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
+1992—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse amonggovernment and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
 
 1989—Subsec. (a)(4). Pub. L. 101–93 directed that subsec. (a)(4) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 

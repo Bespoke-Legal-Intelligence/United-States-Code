@@ -6,7 +6,7 @@ From each State's allotments for a fiscal year under section 6025 of this title,
 
 #### (b) Support services
 
-Payments to States for support services provided by the designated State agency pursuantto section 6024(d)(4) of this title may be made in advance or by way of reimbursement, and in such installments as the Secretary may determine.
+Payments to States for support services provided by the designated State agency pursuant to section 6024(d)(4) of this title may be made in advance or by way of reimbursement, and in such installments as the Secretary may determine.
 
 (Pub. L. 88–164, title I, §126, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2677; amended Pub. L. 103–230, title II, §208, Apr. 6, 1994, 108 Stat. 313.)
 

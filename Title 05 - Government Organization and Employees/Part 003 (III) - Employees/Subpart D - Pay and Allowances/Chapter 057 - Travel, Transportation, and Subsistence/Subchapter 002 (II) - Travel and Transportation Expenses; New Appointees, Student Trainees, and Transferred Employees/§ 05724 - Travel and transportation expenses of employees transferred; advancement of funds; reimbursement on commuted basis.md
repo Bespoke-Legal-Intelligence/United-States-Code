@@ -2,7 +2,7 @@
 
 (a) Under such regulations as the President may prescribe and when the head of the agency concerned or his designee authorizes or approves, the agency shall pay from Government funds—
 
-&emsp;(1) the travel expenses of an employee transferred in the interest of the Government from one official station or agency to another for permanent duty, and the transportation expenses of his immediate family, or a commutation thereof under section 5704 of this title;
+&emsp;(1) the travel expenses of an employee transferred in the interest of the Government fromone official station or agency to another for permanent duty, and the transportation expenses of his immediate family, or a commutation thereof under section 5704 of this title;
 
 &emsp;(2) the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking his household goods and personal effects not in excess of 18,000 pounds net weight; and
 
@@ -34,7 +34,7 @@
 
 (i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the United States for the expenses and allowances is recoverable from the employee as a debt due the United States.
 
-(j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting areashall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
+(j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114.)
 
@@ -120,7 +120,7 @@ The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
 
 &emsp;“(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
@@ -128,13 +128,13 @@ The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465
 
 Subsec. (a)(3)(A). Pub. L. 103–338, §3(a), substituted “November 17, 1988” for “November 27, 1988”.
 
-1992—Subsec. (a)(3)(A). Pub. L. 102–378 substituted “Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 27, 1988)” for “Service”.
+<b>1992</b>—Subsec. (a)(3)(A). Pub. L. 102–378 substituted “Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 27, 1988)” for “Service”.
 
-1988—Subsec. (a)(3). Pub. L. 100–440 added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–440 added par. (3).
 
 Subsec. (a)(3)(A). Pub. L. 100–566 substituted “during or after the five” for “during the five” and struck out “, and thereafter” after “of this title”.
 
-1983—Subsec. (a)(2). Pub. L. 98–151, §118(a)(2), substituted “18,000” for “11,000”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–151, §118(a)(2), substituted “18,000” for “11,000”.
 
 Subsec. (b)(1). Pub. L. 98–151, §118(a)(3), struck out “not in excess of 20 cents a mile” after “allowance”.
 
@@ -142,9 +142,9 @@ Subsec. (i). Pub. L. 98–151, §118(a)(7)(B), inserted reference to section 572
 
 Subsec. (j). Pub. L. 98–151, §118(a)(4), added subsec. (j).
 
-1980—Subsec. (g). Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22”.
 
-1968—Subsec. (e). Pub. L. 90–623 substituted “section 5724a(a), (b)” for “section 5724(a), (b)”.
+<b>1968</b>—Subsec. (e). Pub. L. 90–623 substituted “section 5724a(a), (b)” for “section 5724(a), (b)”.
 
 #### Effective Date of 1994 Amendment
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 102–378 applicable with respect to a separation that take
 
 Section 118(c) of Pub. L. 98–151 provided that:
 
-“(1) The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending sections 5723, 5724, 5724a, and 5726 of this title\] shall take effect on the date of the enactment of this joint resolution \[Nov. 14, 1983\].”
+“(1) The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall take effect on the date of the enactment of this joint resolution \[Nov. 14, 1983\].”
 
 “(2) Not later than thirty days after the date of the enactment of this joint resolution, the President shall prescribe the regulations required under the amendments made by subsection (a). Such regulations shall take effect as of such date of enactment.”
 
@@ -202,7 +202,7 @@ Section 629(b) of Pub. L. 100–440 provided that: “The amendments made by sub
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending sections 5723, 5724, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
+Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
 
 #### Rates of Reimbursement
 

@@ -28,5 +28,5 @@ An interstate off-track wager may be accepted by an off-track betting system onl
 
 No parimutuel off-track betting system may employ a takeout for an interstate wager which is greater than the takeout for corresponding wagering pools of off-track wagers on races run within the off-track State except where such greater takeout is authorized by State law in the off-track State.
 
-(Pub. L. 95 515, §5, Oct. 25, 1978, 92 Stat. 1813.)
+(Pub. L. 95–515, §5, Oct. 25, 1978, 92 Stat. 1813.)
 

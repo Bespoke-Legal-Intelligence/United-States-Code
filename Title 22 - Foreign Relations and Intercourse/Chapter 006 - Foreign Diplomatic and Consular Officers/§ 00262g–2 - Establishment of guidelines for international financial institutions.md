@@ -20,5 +20,5 @@ Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as
 
 #### Reports to Congress
 
-Section 1103 of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746, which required reports on the progress being made toward achieving the goals of this section, was repealed by Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.
+Section 1103 of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746, required reports on the progress being made toward achieving the goals of this section, prior to repeal by Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.
 

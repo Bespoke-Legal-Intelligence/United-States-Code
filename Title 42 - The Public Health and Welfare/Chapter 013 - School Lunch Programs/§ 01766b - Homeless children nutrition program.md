@@ -70,7 +70,7 @@ Not later than September 30, 1996, the Secretary shall submit to the Committee o
 
 #### (2) Insufficient number of applicants
 
-&emsp;The Secretary may expend less than the amount described in paragraph (1) for a fiscal year if there is an insufficient number of suitable applicants to carry out projects under this section for the fiscal year. Any funds made available under this subsection to carry out the projects for a fiscal year that are not obligated to carry out the projects in the fiscal year shall remain available until expended for purposes of carrying out the projects.
+&emsp;The Secretary may expend less than the amount described in paragraph (1) for a fiscal year if there is an insufficient number of suitable applicants to carry out projects under this section for the fiscal year. Any fundsmade available under this subsection to carry out the projects for a fiscal year that are not obligated to carry out the projects in the fiscal year shall remain available until expended for purposes of carrying out the projects.
 
 #### (h) “Emergency shelter” defined
 
@@ -80,7 +80,7 @@ As used in this section, the term “emergency shelter” has the meaning provid
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

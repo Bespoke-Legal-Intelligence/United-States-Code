@@ -1,0 +1,66 @@
+### §971i. Research on Atlantic highly migratory species
+
+#### (a) Biennial report on bluefin tuna
+
+The Secretary of Commerce shall prepare, for each biennial period commencing with the period covering calendar years 1981 and 1982, and submit to the Congress a report setting forth, with respect to such biennial period—
+
+&emsp;(1) the level of taking of bluefin tuna by United States fishermen in the Convention area as defined in Article I of the International Convention for the Conservation of Atlantic Tunas;
+
+&emsp;(2) the status of bluefin tuna stocks within such Convention area and the trends in their population level; and
+
+&emsp;(3) related information resulting from the implementation of the observer program under section 1827 of this title.
+
+> The report required under this section shall be submitted to the Congress within sixty days after the close of the biennial period covered by the report.
+
+#### (b) Highly migratory species research and monitoring
+
+(1) Within 6 months after November 3, 1995, the Secretary of Commerce, in cooperation with the advisory committee established under section 4 of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971b) and in consultation with the United States Commissioners on the International Commission for the Conservation of Atlantic Tunas (referred to elsewhere in this section as the “Commission”) and the Secretary of State, shall develop and implement a comprehensive research and monitoring program to support the conservation and management of Atlantic bluefin tuna and other highly migratory species that shall—
+
+&emsp;(A) identify and define the range of stocks of highly migratory species in the Atlantic Ocean, including Atlantic bluefin tuna; and
+
+&emsp;(B) provide for appropriate participation by nations which are members of the Commission.
+
+(2) The program shall provide for, but not be limited to—
+
+&emsp;(A) statistically designed cooperative tagging studies;
+
+&emsp;(B) genetic and biochemical stock analyses;
+
+&emsp;(C) population censuses carried out through aerial surveys of fishing grounds and known migration areas;
+
+&emsp;(D) adequate observer coverage and port sampling of commercial and recreational fishing activity;
+
+&emsp;(E) collection of comparable real-time data on commercial and recreational catches and landings through the use of permits, logbooks, landing reports for charter operations and fishing tournaments, and programs to provide reliable reporting of the catch by private anglers;
+
+&emsp;(F) studies of the life history parameters of Atlantic bluefin tuna and other highly migratory species;
+
+&emsp;(G) integration of data from all sources and the preparation of data bases to support management decisions; and
+
+&emsp;(H) other research as necessary.
+
+(3) In developing a program under this section, the Secretary shall—
+
+&emsp;(A) ensure that personnel and resources of each regional research center shall have substantial participation in the stock assessments and monitoring of highly migratory species that occur in the region;
+
+&emsp;(B) provide for comparable monitoring of all United States fishermen to which the Atlantic Tunas Convention Act <sup>1</sup> applies with respect to effort and species composition of catch and discards;
+
+&emsp;(C) consult with relevant Federal and State agencies, scientific and technical experts, commercial and recreational fishermen, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan; and
+
+&emsp;(D) through the Secretary of State, encourage other member nations to adopt a similar program.
+
+(Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, §302(b), Nov. 3, 1995, 109 Stat. 382.)
+
+#### References in Text
+
+The Atlantic Tunas Convention Act, referred to in subsec. (b)(3)(B), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+
+#### Codification
+
+Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 which comprises this chapter.
+
+#### Amendments
+
+1995—Pub. L. 104–43 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, struck out last sentence which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”, and added subsec. (b).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

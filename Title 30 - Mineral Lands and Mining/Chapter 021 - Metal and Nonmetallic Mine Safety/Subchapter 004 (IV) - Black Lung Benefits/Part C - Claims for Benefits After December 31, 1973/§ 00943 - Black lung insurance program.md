@@ -56,7 +56,7 @@ The Secretary may undertake and carry out such studies and investigations, and r
 
 &emsp;(A) premiums, fees, or other charges which may be collected in connection with insurance or reinsurance coverage provided under this section;
 
-&emsp;(B) such amounts as may be advanced to the insurance fund from appropriations in order to maintain the insurance fund in an operative condition adequate to meet its liabilities; and
+&emsp;(B) such amounts as may be advanced to the insurance fund from appropriations in order tomaintain the insurance fund in an operative condition adequate to meet its liabilities; and
 
 &emsp;(C) income which may be earned on investments of the insurance fund pursuant to paragraph (3).
 

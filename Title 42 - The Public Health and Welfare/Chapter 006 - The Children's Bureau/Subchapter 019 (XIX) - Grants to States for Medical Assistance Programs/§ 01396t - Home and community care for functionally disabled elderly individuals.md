@@ -122,7 +122,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (G) Appeal procedures
 
-&emsp;&emsp;Each State which elects to provide home and community care under this section must have in effect an appeals process for individuals adversely affected by determinations under subparagraph (F).
+&emsp;&emsp;Each State which elects to provide home and community care under this section musthave in effect an appeals process for individuals adversely affected by determinations under subparagraph (F).
 
 #### (d) Individual community care plan (ICCP)
 
@@ -186,7 +186,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (B) Reduction in payment if failure to maintain effort
 
-&emsp;&emsp;If the amount reported under subparagraph (A) by a State with respect to a fiscal year is less than the amount reported under subparagraph (A) with respect to fiscal year 1989, the Secretary shall provide for a reduction in payments to the State under section 1396b(a) of this title in an amount equal to the difference between the amounts so reported.
+&emsp;&emsp;If the amount reported under subparagraph (A) by a State with respect to a fiscal year is less than the amount reported under subparagraph (A) with respect to fiscal year1989, the Secretary shall provide for a reduction in payments to the State under section 1396b(a) of this title in an amount equal to the difference between the amounts so reported.
 
 #### (f) Minimum requirements for home and community care
 
@@ -238,7 +238,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;(A) meet such requirements as are published or developed by the Secretary under subsection (k) of this section;
 
-&emsp;&emsp;(B) meet the requirements of paragraphs (1)(A), (1)(C), (1)(D), (3), and (6) of section1396r(c) of this title, to the extent applicable to such a setting;
+&emsp;&emsp;(B) meet the requirements of paragraphs (1)(A), (1)(C), (1)(D), (3), and (6) of section 1396r(c) of this title, to the extent applicable to such a setting;
 
 &emsp;&emsp;(C) inform each individual receiving community care under this section in the setting, orally and in writing at the time the individual first receives community care in the setting, of the individual's legal rights with respect to such a setting and the care provided in the setting;
 
@@ -308,7 +308,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) In general
 
-&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentencein the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (B) Survey protocol
 
@@ -358,7 +358,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (C) Access to fraud control units
 
-&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (establishedunder section 1396b(q) of this title) with access to all information of the State agency responsible for surveys, reviews, and certifications under this subsection.
+&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agency responsible for surveys, reviews, and certifications under this subsection.
 
 #### (j) Enforcement process for providers of community care
 
@@ -400,7 +400,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forth interim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
 
-&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and ofsubsection (h) of this section (relating to minimum requirements for large community care settings,<sup>2</sup> and
+&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and of subsection (h) of this section (relating to minimum requirements for large community care settings,<sup>2</sup> and
 
 &emsp;&emsp;&emsp;(ii) survey protocols (for use under subsection (i)(3)(A) of this section) which relate to such requirements.
 

@@ -56,7 +56,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1970—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
 
 #### Executive Order No. 10990
 
@@ -238,9 +238,11 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2105 of this title; title 29 section 668.
+This section is referred to in section 2105 of this title; title 2 section 1371; title 29 section 668.
 

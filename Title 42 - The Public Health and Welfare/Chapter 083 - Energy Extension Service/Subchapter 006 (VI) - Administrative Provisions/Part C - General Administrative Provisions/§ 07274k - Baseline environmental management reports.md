@@ -74,7 +74,7 @@ In preparing a report under this section, the Secretary of Energy shall provide,
 
 (2) Consultation under paragraph (1) shall not interfere with the timely submission to Congress of the budget for a fiscal year.
 
-(3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitate the participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action tofacilitate the participation of interested members of the public in such development under this subsection.
+(3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitate the participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action to facilitate the participation of interested members of the public in such development under this subsection.
 
 (Pub. L. 103–160, div. C, title XXXI, §3153, Nov. 30, 1993, 107 Stat. 1950; Pub. L. 103–337, div. C, title XXXI, §3160(b)–(d), Oct. 5, 1994, 108 Stat. 3094.)
 

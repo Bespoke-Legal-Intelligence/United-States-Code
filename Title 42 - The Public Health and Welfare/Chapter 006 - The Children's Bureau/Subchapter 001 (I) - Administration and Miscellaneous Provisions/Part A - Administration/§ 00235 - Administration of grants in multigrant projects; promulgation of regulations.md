@@ -1,6 +1,6 @@
 ### §235. Administration of grants in multigrant projects; promulgation of regulations
 
-For the purpose of facilitating the administration of, and expediting the carrying out of the purposes of, the programs established by subchapters V, VI, and VII <sup>1</sup> of this chapter, and sections 242b, 246(a), 246(b), 246(c), 246(d),<sup>1</sup> and 246(e) <sup>1</sup> of this title in situations in which grants are sought or made under two or more of suchprograms with respect to a single project, the Secretary is authorized to promulgate regulations—
+For the purpose of facilitating the administration of, and expediting the carrying out of the purposes of, the programs established by subchapters V, VI, and VII <sup>1</sup> of this chapter, and sections 242b, 246(a), 246(b), 246(c), 246(d),<sup>1</sup> and 246(e) <sup>1</sup> of this title in situations in which grants are sought or made under two or more of such programs with respect to a single project, the Secretary is authorized to promulgate regulations—
 
 &emsp;(1) under which the administrative functions under such programs with respect to such project will be performed by a single administrative unit which is the administrative unit charged with the administration of any of such programs or is the administrative unit charged with the supervision of two or more of such programs;
 

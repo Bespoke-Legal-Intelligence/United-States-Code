@@ -60,7 +60,7 @@ Subsec. (d)(1). Pub. L. 91–614, §102(d)(2)(A), substituted “the calendar qu
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, but inapplicableunder certain conditions under will executed before date which is 30 days after Aug. 13, 1981, or under trust created by such date, see section 403(e) of Pub. L. 97–34, set out as a note under section 2056 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, but inapplicable under certain conditions under will executed before date which is 30 days after Aug. 13, 1981, or under trust created by such date, see section 403(e) of Pub. L. 97–34, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1976 Amendment
 

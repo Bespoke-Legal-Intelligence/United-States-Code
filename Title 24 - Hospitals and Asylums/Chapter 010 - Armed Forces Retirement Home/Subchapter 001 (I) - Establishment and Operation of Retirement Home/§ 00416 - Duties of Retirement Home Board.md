@@ -22,7 +22,7 @@ The Retirement Home Board may acquire, for the benefit of the Retirement Home, p
 
 #### (d) Limitation on disposal of real property
 
-(1) Real property of the Retirement Home may not be disposed of by the Retirement HomeBoard by sale or otherwise unless the disposal of the property is specifically authorized by law.
+(1) Real property of the Retirement Home may not be disposed of by the Retirement Home Board by sale or otherwise unless the disposal of the property is specifically authorized by law.
 
 (2) In any case in which any real property is sold by the Retirement Home Board, the Board shall deposit moneys received from the sale of the property in the Armed Forces Retirement Home Trust Fund.
 

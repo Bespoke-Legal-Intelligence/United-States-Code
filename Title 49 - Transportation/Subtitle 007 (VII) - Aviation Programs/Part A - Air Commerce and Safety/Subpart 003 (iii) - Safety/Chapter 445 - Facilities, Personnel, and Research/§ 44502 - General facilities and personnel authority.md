@@ -176,7 +176,11 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to Federal Aviation Administration design and performance specifications, the purchase of which was assisted by a Federal airport aid program, airport development aid program or airport improvement program grant. The Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by the Federal Aviation Administration in accordance with agency criteria.”
+Pub. L. 104–50, title III, §317, Nov. 15, 1995, 109 Stat. 455, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport aid program, airport development aid program or airport improvement program grant. The FAA shall accept such equipment, which shall thereafter be operated and maintained by the FAA in accordance with agency criteria.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491.
 
 #### Cost Savings Associated With Purchase
 
@@ -188,7 +192,7 @@ Pub. L. 103–260, title IV, §401, May 26, 1994, 108 Stat. 702, provided that:
 
 “(a)
 
-In general.—Notwithstanding the termination of the personnel demonstration project for certain Federal Aviation Administration employees on June 17,1994, pursuant to section 4703 of title 5, United States Code, the Federal Aviation Administration, subject to subsection (d), shall continue to pay quarterly retention allowance payments in accordance with subsection (b) to those employees who are entitled to quarterly retention allowance payments under the demonstration project as of June 16, 1994.
+In general.—Notwithstanding the termination of the personnel demonstration project for certain Federal Aviation Administration employees on June 17, 1994, pursuant to section 4703 of title 5, United States Code, the Federal Aviation Administration, subject to subsection (d), shall continue to pay quarterly retention allowance payments in accordance with subsection (b) to those employees who are entitled to quarterly retention allowance payments under the demonstration project as of June 16, 1994.
 
 “(b)
 

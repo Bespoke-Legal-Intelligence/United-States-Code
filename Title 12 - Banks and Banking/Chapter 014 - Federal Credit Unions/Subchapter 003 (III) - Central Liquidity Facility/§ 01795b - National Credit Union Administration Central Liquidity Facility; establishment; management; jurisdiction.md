@@ -1,6 +1,6 @@
 ### §1795b. National Credit Union Administration Central Liquidity Facility; establishment; management; jurisdiction
 
-There is created the National Credit Union Administration Central Liquidity Facility. TheCentral Liquidity Facility, an instrumentality of the United States, shall exist within the National Credit Union Administration and be managed by the Board. The United States district court shall have original jurisdiction over any case to which the Board on behalf of the Facility is a party, without regard to the amount in controversy.
+There is created the National Credit Union Administration Central Liquidity Facility. The Central Liquidity Facility, an instrumentality of the United States, shall exist within the National Credit Union Administration and be managed by the Board. The United States district court shall have original jurisdiction over any case to which the Board on behalf of the Facility is a party, without regard to the amount in controversy.
 
 (June 26, 1934, ch. 750, title III, formerly subch. III, §303, as added and amended Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), title XVIII, §1802, 92 Stat. 3681, 3720; Mar. 31, 1980, Pub. L. 96–221, title III, §309(a)(4), (b)(1), 94 Stat. 149; July 18, 1984, Pub. L. 98–369, div. B, title VIII, §2813(a)(1), 98 Stat. 1206.)
 

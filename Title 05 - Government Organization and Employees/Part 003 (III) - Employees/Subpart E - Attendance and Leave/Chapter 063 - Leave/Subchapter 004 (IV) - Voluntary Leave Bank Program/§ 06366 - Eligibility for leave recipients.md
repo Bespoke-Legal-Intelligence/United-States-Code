@@ -16,7 +16,7 @@
 
 &emsp;(C) for 15 years or more of service and contributes a minimum of 8 hours.
 
-(2) Notwithstanding the provisions of paragraph (1), the Leave Bank Board of an agency,after consultation with the Office of Personnel Management, may—
+(2) Notwithstanding the provisions of paragraph (1), the Leave Bank Board of an agency, after consultation with the Office of Personnel Management, may—
 
 &emsp;(A) reduce the minimum number of hours required under paragraph (1) for any leave year, if such Board determines there is a surplus of leave in the leave bank; and
 

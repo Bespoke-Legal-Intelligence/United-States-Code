@@ -64,7 +64,7 @@ A prior section 231 of Pub. L. 87–195, pt. 1, Sept. 4, 1961, 75 Stat. 432, rel
 
 1992—Pub. L. 102–549, in first undesignated par., substituted “countries and areas, and countries in transition from nonmarket to market economies,” for “friendly countries and areas,”.
 
-1988—Pub. L. 100–461, in par. (2) of second undesignated par., substituted “984 or less in 1986 United States dollars” for “$896 or less in 1983 United States dollars” and “$4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under section 2702 of title 19)” for “$3,887 or more in 1983 United States dollars”.
+1988—Pub. L. 100–461, in par. (2) of second undesignated par., substituted “984 or less in 1986 United States dollars” for “$896 or less in 1983 United States dollars” and “$4,269 or more in 1986 United States dollars (other than countries designated as beneficiarycountries under section 2702 of title 19)” for “$3,887 or more in 1983 United States dollars”.
 
 Pub. L. 100–461, in par. (3) of second undesignated par., substituted “section 2151p of this title, section 2151p–1 of this title, and section” for “sections 2151p of this title and” and “tropical forests and endangered species” for “biological diversity”.
 
@@ -84,7 +84,7 @@ Pub. L. 100–418, title II, §2203(a), Aug. 23, 1988, 102 Stat. 1328, provided 
 
 Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, provided:
 
-By virtue of the authority vested in me by the Foreign Assistance Act of 1961 (75 Stat. 424), as amended\(hereinafter the “Act”) \[section 2151 et seq. of this title\] and section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Foreign Assistance Act of 1961 (75 Stat. 424), as amended (hereinafter the “Act”) \[section 2151 et seq. of this title\] and section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
 Section 1. <i>Transfer to Overseas Private Investment Corporation</i>. All obligations, assets and related rights and responsibilities arising out of, or related to, predecessor programs and authorities similar to those provided for in sections 234(a), (b) and (d) of the Act \[section 2194(a), (b) and (d) of this title\] are hereby transferred to the Overseas Private Investment Corporation (hereinafter the “Corporation”).
 

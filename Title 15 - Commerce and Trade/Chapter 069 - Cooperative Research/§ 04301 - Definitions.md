@@ -60,33 +60,33 @@
 
 &emsp;(8) except as provided in paragraphs (2), (3), and (6), entering into any agreement or engaging in any other conduct to restrict or require participation by any person who is a party to such venture, in any unilateral or joint activity that is not reasonably required to carry out the purpose of such venture.
 
-(Pub. L. 98 462, §2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103 42, §3(b), (c), June 10, 1993, 107 Stat. 117, 118.)
+(Pub. L. 98–462, §2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, §3(b), (c), June 10, 1993, 107 Stat. 117, 118.)
 
 #### Amendments
 
-1993—Subsec. (a)(6). Pub. L. 103 42, §3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
+1993—Subsec. (a)(6). Pub. L. 103–42, §3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
 
-Subsec. (b). Pub. L. 103 42, §3(c)(1), struck out “research and development” before “venture” in introductory provisions.
+Subsec. (b). Pub. L. 103–42, §3(c)(1), struck out “research and development” before “venture” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 103 42, §3(c)(2), substituted “if such information is not reasonably required to carry out” for “that is not reasonably required to conduct the research and development that is”.
+Subsec. (b)(1). Pub. L. 103–42, §3(c)(2), substituted “if such information is not reasonably required to carry out” for “that is not reasonably required to conduct the research and development that is”.
 
-Subsec. (b)(2). Pub. L. 103 42, §3(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production or marketing by any person who is a party to such venture of any product, process, or service, other than the production or marketing of proprietary information developed through such venture, such as patents and trade secrets, and”.
+Subsec. (b)(2). Pub. L. 103–42, §3(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production or marketing by any person who is a party to such venture of any product, process, or service, other than the production or marketing of proprietary information developed through such venture, such as patents and trade secrets, and”.
 
-Subsec. (b)(3). Pub. L. 103 42, §3(c)(4), in subpar. (A) substituted “, developments, products, processes, or services not developed through, or produced by,” for “or developments not developed through”, in subpar. (B) substituted “any person who is a party to such venture” for “such party”, and at end of concluding provisions substituted comma for period.
+Subsec. (b)(3). Pub. L. 103–42, §3(c)(4), in subpar. (A) substituted “, developments, products, processes, or services not developed through, or produced by,” for “or developments not developed through”, in subpar. (B) substituted “any person who is a party to such venture” for “such party”, and at end of concluding provisions substituted comma for period.
 
-Subsec. (b)(4) to (8). Pub. L. 103 42, §3(c)(5), added pars. (4) to (8).
+Subsec. (b)(4) to (8). Pub. L. 103–42, §3(c)(5), added pars. (4) to (8).
 
 #### Short Title of 1993 Amendment
 
-Section 1 of Pub. L. 103 42 provided that: “This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
+Section 1 of Pub. L. 103–42 provided that: “This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 98 462, as amended by Pub. L. 103 42, §3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
+Section 1 of Pub. L. 98–462, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
 
 #### Cooperative Research and Production; Congressional Statement of Findings and Purpose
 
-Section 2 of Pub. L. 103 42 provided that:
+Section 2 of Pub. L. 103–42 provided that:
 
 “(a)
 

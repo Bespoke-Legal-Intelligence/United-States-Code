@@ -8,7 +8,7 @@ Subsequent to repeal, Pub. L. 101–239, title VII, §7644(a), Dec. 19, 1989, 10
 
 “(a)
 
-In General.—So much of subparagraph (A) of section 50B(h)(1) of the Internal Revenue Code of 1954\(as in effect for taxable years beginning before January 1, 1982) as precedes clause (i) thereof is amended to read as follows:
+In General.—So much of subparagraph (A) of section 50B(h)(1) of the Internal Revenue Code of 1954 (as in effect for taxable years beginning before January 1, 1982) as precedes clause (i) thereof is amended to read as follows:
 
 &emsp;“ ‘(A) who has been certified (or for whom a written request for certification has been made) on or before the day the individual began work for the taxpayer by the Secretary of Labor or by the appropriate agency of State or local government as—’.
 

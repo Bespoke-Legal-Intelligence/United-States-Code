@@ -64,25 +64,25 @@ The Secretary shall submit a report to the appropriate committees of the Congres
 
 &emsp;(3) an evaluation of the comparability of State-developed performance standards across States to establish a core of common indicators.
 
-(Pub. L. 88 210, title I, §115, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101 392, title I, §115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101 476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103 382, title III, §391(s)(3), Oct. 20, 1994, 108 Stat. 4024.)
+(Pub. L. 88–210, title I, §115, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, §115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(3), Oct. 20, 1994, 108 Stat. 4024.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Individuals with Disabilities Education Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Individuals with Disabilities Education Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103 382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of title I of the Elementary and Secondary Education Act”.
+1994—Subsec. (a). Pub. L. 103–382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of title I of the Elementary and Secondary Education Act”.
 
-1990—Pub. L. 101 476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in subsecs. (a) and (b)(3)(A).
+1990—Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in subsecs. (a) and (b)(3)(A).
 
-Pub. L. 101 392 amended section generally, substituting provisions relating to State and local standards and measures of performance for secondary and postsecondary vocational education programs for provisions relating to local applications for assistance under this chapter, including requirements, review and comment, and exemptions from requirements.
+Pub. L. 101–392 amended section generally, substituting provisions relating to State and local standards and measures of performance for secondary and postsecondary vocational education programs for provisions relating to local applications for assistance under this chapter, including requirements, review and comment, and exemptions from requirements.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 

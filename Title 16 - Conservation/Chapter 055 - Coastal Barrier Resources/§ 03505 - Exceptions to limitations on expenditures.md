@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 3504 of this title, the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures and may make financial assistance available within the System for the following:
+Notwithstanding section 3504 of this title, the appropriate Federal officer, after consultationwith the Secretary, may make Federal expenditures and may make financial assistance available within the System for the following:
 
 &emsp;(1) Any use or facility necessary for the exploration, extraction, or transportation of energy resources which can be carried out only on, in, or adjacent to a coastal water area because the use or facility requires access to the coastal water body.
 
@@ -62,7 +62,7 @@ The limitations on the use of Federal expenditures or financial assistance withi
 
 &emsp;&emsp;For purposes of this paragraph, the term “financial assistance” includes any contract, loan, grant, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
 
-(Pub. L. 97–348, §6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, §109(h), Nov. 23, 1988, 102Stat. 4709; Pub. L. 101–591, §5(a), Nov. 16, 1990, 104 Stat. 2934.)
+(Pub. L. 97–348, §6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, §109(h), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–591, §5(a), Nov. 16, 1990, 104 Stat. 2934.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is titl
 
 #### Expansion of Highways in Michigan
 
-Section 204(d) of Pub. L. 100–707, which exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, was repealed by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
+Section 204(d) of Pub. L. 100–707 exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
 
 #### Section Referred to in Other Sections
 

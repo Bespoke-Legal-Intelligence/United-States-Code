@@ -1,4 +1,4 @@
-### §3905 . Accounting for fees on international loans
+### §3905. Accounting for fees on international loans
 
 (a)(1) In order to avoid excessive debt service burdens on debtor countries, no banking institution shall charge, in connection with the restructuring of an international loan, any fee exceeding the administrative cost of the restructuring unless it amortizes such fee over the effective life of each such loan.
 

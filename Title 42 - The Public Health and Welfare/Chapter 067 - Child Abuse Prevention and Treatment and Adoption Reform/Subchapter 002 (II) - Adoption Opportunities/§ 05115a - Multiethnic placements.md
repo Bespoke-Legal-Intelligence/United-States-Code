@@ -20,7 +20,7 @@
 
 #### (b) Equitable relief
 
-Any individual who is aggrieved by an action in violation of subsection (a) of this section, taken by an agency or entity described in subsection (a) of this section, shall have the right to bring an action seeking relief in a United States district court of appropriate jurisdiction.
+Any individual who is aggrieved by an action in violation of subsection (a) of this section, taken by an agency or entity described in subsection (a) of this section, shall have the rightto bring an action seeking relief in a United States district court of appropriate jurisdiction.
 
 #### (c) Federal guidance
 
@@ -82,7 +82,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this subpart \[subpart 1 of part E of title V of Pub. L. 103–382, see ShortTitle note above\] to promote the best interests of children by—
+Purpose.—It is the purpose of this subpart \[subpart 1 of part E of title V of Pub. L. 103–382, see Short Title note above\] to promote the best interests of children by—
 
 &emsp;“(1) decreasing the length of time that children wait to be adopted;
 

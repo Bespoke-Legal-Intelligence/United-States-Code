@@ -62,7 +62,7 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 (3) A modification of the Vaccine Injury Table under paragraph (1) may add to, or delete from, the list of injuries, disabilities, illnesses, conditions, and deaths for which compensation may be provided or may change the time periods for the first symptom or manifestation of the onset or the significant aggravation of any such injury, disability, illness, condition, or death.
 
-(4) Any modification under paragraph (1) of the Vaccine Injury Table shall apply only with respect to petitions for compensation under theProgram which are filed after the effective date of such regulation.
+(4) Any modification under paragraph (1) of the Vaccine Injury Table shall apply only with respect to petitions for compensation under the Program which are filed after the effective date of such regulation.
 
 #### (d) Role of Commission
 
@@ -100,7 +100,7 @@ A prior section 2114 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary may recommend to Congress revisions of the table to change the vaccines covered by the table.”
+1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, textread as follows: “The Secretary may recommend to Congress revisions of the table to change the vaccines covered by the table.”
 
 1989—Subsec. (a). Pub. L. 101–239, §6601(k)(1), substituted “(b)(2)” for “(c)(2)” in items I.D. and II.C. in table.
 
@@ -110,7 +110,9 @@ Subsec. (b)(3)(B). Pub. L. 101–239, §6601(k)(2), substituted “300aa–11 of
 
 For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
-#### Revisions of Vaccine Injury Table; Effective Dates
+#### Revisions of Vaccine Injury Table
+
+The Vaccine Injury Table as modified by regulations promulgated by the Secretary of Health and Human Services is set out at 42 CFR 100.3.
 
 Section 13632(a)(3) of Pub. L. 103–66 provided that: “A revision by the Secretary under section 2114(e) of the Public Health Service Act (42 U.S.C. 300aa–14(e)) (as amended by paragraph (2)) shall take effect upon the effective date of a tax enacted to provide funds for compensation paid with respect to the vaccine to be added to the vaccine injury table in section 2114(a) of the Public Health Service Act (42 U.S.C. 300aa–14(a)).”
 

@@ -80,7 +80,7 @@ Each local educational agency that receives funds under this part for any fiscal
 
 &emsp;&emsp;(Q) release time with pay for teachers.
 
-(Pub. L. 89 10, title II, §2210, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3629.)
+(Pub. L. 89–10, title II, §2210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3629.)
 
 #### Section Referred to in Other Sections
 

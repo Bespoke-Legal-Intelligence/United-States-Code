@@ -15,15 +15,15 @@
 | (b) | Responsibilities. |
 | (c) | Contracts. |
 | (d) | Triennial report. |
-| 3704b. | National Technical Information Service. |
+| [3704b.](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md) | National Technical Information Service. |
 | (a) | Powers. |
 | (b) | Director of the Service. |
 | (c) | Advisory Board. |
 | (d) | Audits. |
 | (e) | Functions. |
 | (f) | Notification of Congress. |
-| 3704b 1. | Recovery of operating costs through fee collections. |
-| 3704b 2. | Transfer of Federal scientific and technical information. |
+| 3704b–1. | Recovery of operating costs through fee collections. |
+| 3704b–2. | Transfer of Federal scientific and technical information. |
 | (a) | Transfer. |
 | (b) | Annual report to Congress. |
 | [3705\.](%C2%A7%2003705%20-%20Cooperative%20Research%20Centers.md) | Cooperative Research Centers. |
@@ -45,14 +45,14 @@
 | (b) | Cooperation. |
 | (c) | Administrative authorization. |
 | (d) | Cooperative efforts. |
-| [3709\.](%C2%A7%2003709%20-%20Repealed.%20Pub.%20L.%2099%20502%2C%20%C2%A79%28a%29%2C%20Oct.%2020%2C%201986%2C%20100%20Stat.%201795.md) | Repealed. |
+| [3709\.](%C2%A7%2003709%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93502%2C%20%C2%A79%28a%29%2C%20Oct.%2020%2C%201986%2C%20100%20Stat.%201795.md) | Repealed. |
 | [3710\.](%C2%A7%2003710%20-%20Utilization%20of%20Federal%20technology.md) | Utilization of Federal technology. |
 | (a) | Policy. |
 | (b) | Establishment of Research and Technology Applications Offices. |
 | (c) | Functions of Research and Technology Applications Offices. |
 | (d) | Dissemination of technical information. |
 | (e) | Establishment of Federal Laboratory Consortium for Technology Transfer. |
-| (f) | Agency reporting. |
+| (f) | Repealed. |
 | (g) | Functions of Secretary. |
 | (h) | Repealed. |
 | (i) | Research equipment. |
@@ -115,7 +115,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 5203 of this title; title 10 section 2902; title 22 section 2656d; title 23 sections 307, 403; title 30 section 1805; title 33 section 2313; title 35 section 210; title 42 section 13541; title 43 section 390h 3; title 49 section 309.
+This chapter is referred to in section 5203 of this title; title 10 sections 2371, 2902; title 22 section 2656d; title 23 sections 307, 403; title 30 section 1805; title 33 section 2313; title 35 section 210; title 42 section 13541; title 43 section 390h–3; title 49 section 309.
 
 
 ---
@@ -128,13 +128,13 @@ This chapter is referred to in section 5203 of this title; title 10 section 2902
 - [&sect; 03704 - Commerce and technological innovation](%C2%A7%2003704%20-%20Commerce%20and%20technological%20innovation.md)
 - [&sect; 03704a - Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md)
 - [&sect; 03704b - National Technical Information Service](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md)
-- [&sect; 03704b 1 - Recovery of operating costs through fee collections](%C2%A7%2003704b%201%20-%20Recovery%20of%20operating%20costs%20through%20fee%20collections.md)
-- [&sect; 03704b 2 - Transfer of Federal scientific and technical information](%C2%A7%2003704b%202%20-%20Transfer%20of%20Federal%20scientific%20and%20technical%20information.md)
+- [&sect; 03704b&#8211;1 - Recovery of operating costs through fee collections](%C2%A7%2003704b%E2%80%931%20-%20Recovery%20of%20operating%20costs%20through%20fee%20collections.md)
+- [&sect; 03704b&#8211;2 - Transfer of Federal scientific and technical information](%C2%A7%2003704b%E2%80%932%20-%20Transfer%20of%20Federal%20scientific%20and%20technical%20information.md)
 - [&sect; 03705 - Cooperative Research Centers](%C2%A7%2003705%20-%20Cooperative%20Research%20Centers.md)
 - [&sect; 03706 - Grants and cooperative agreements](%C2%A7%2003706%20-%20Grants%20and%20cooperative%20agreements.md)
 - [&sect; 03707 - National Science Foundation Cooperative Research Centers](%C2%A7%2003707%20-%20National%20Science%20Foundation%20Cooperative%20Research%20Centers.md)
 - [&sect; 03708 - Administrative arrangements](%C2%A7%2003708%20-%20Administrative%20arrangements.md)
-- [&sect; 03709 - Repealed. Pub. L. 99 502, &sect;9(a), Oct. 20, 1986, 100 Stat. 1795](%C2%A7%2003709%20-%20Repealed.%20Pub.%20L.%2099%20502%2C%20%C2%A79%28a%29%2C%20Oct.%2020%2C%201986%2C%20100%20Stat.%201795.md)
+- [&sect; 03709 - Repealed. Pub. L. 99&#8211;502, &sect;9(a), Oct. 20, 1986, 100 Stat. 1795](%C2%A7%2003709%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93502%2C%20%C2%A79%28a%29%2C%20Oct.%2020%2C%201986%2C%20100%20Stat.%201795.md)
 - [&sect; 03710 - Utilization of Federal technology](%C2%A7%2003710%20-%20Utilization%20of%20Federal%20technology.md)
 - [&sect; 03710a - Cooperative research and development agreements](%C2%A7%2003710a%20-%20Cooperative%20research%20and%20development%20agreements.md)
 - [&sect; 03710b - Rewards for scientific, engineering, and technical personnel of Federal agencies](%C2%A7%2003710b%20-%20Rewards%20for%20scientific%2C%20engineering%2C%20and%20technical%20personnel%20of%20Federal%20agencies.md)

@@ -36,7 +36,7 @@
 
 Each local educational agency receiving funds under this subpart shall submit to the State educational agency such information, and at such intervals, that the State requires to complete the State report required by subsection (b) of this section, including information on the prevalence of drug use and violence by youth in the schools and the community. Such information shall be made readily available to the public.
 
-(Pub. L. 89 10, title IV, §4117, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3685.)
+(Pub. L. 89–10, title IV, §4117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3685.)
 
 #### Section Referred to in Other Sections
 

@@ -88,11 +88,11 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;(A) establish various income categories of graduate and professional students;
 
-&emsp;(B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of thistitle \[20 U.S.C. 1087kk et seq.\]) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this title \[20 U.S.C. 1087kk et seq.\]) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) determine the average cost of attendance for all graduate and professional students;
 
-&emsp;(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+&emsp;(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category,except that the amount computed by such subtraction for any income category shall not be less than zero;
 
 &emsp;(E) multiply the amounts determined under subparagraph (D) by the number of eligible students in each category; and
 
@@ -140,7 +140,7 @@ Subsec. (e). Pub. L. 102–325, §442(b), amended subsec. (e) generally. Prior t
 
 “(1) If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall reallocate such excess in accordance with paragraph (2). Any sums reallocated under this subsection may be used in accordance with section 2755(a)(2) of this title.
 
-“(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving,and expanding programs of community service-learning conducted in accordance with section 2756a of this title. The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in section 2756a(c) of this title.”
+“(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving, and expanding programs of community service-learning conducted in accordance with section 2756a of this title. The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in section 2756a(c) of this title.”
 
 1987—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “section 2756a(c) of this title” for “subsection (c) of this section”, and made technical amendment to reference to section 2756a of this title to correct numerical designation of corresponding section of original act.
 

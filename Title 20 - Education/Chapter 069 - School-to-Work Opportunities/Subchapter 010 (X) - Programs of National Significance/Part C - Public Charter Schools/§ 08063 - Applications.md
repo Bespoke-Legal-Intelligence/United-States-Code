@@ -52,13 +52,13 @@ Each application submitted pursuant to subsection (a) of this section shall—
 
 #### (c) Contents of eligible applicant application
 
-Each eligible applicant desiring a grant pursuant to section 8064(f)(1)<sup>1</sup> or 8062(b) of this title shall submit an application to the State educational agency or Secretary, respectively, at such time, in such manner, and accompanied by such information as the State educational agency or Secretary, respectively, may reasonably require.
+Each eligible applicant desiring a grant pursuant to section 8064(f)(1) <sup>1</sup> or 8062(b) of this title shall submit an application to the State educational agency or Secretary, respectively, at such time, in such manner, and accompanied by such information as the State educational agency or Secretary, respectively, may reasonably require.
 
 #### (d) Contents of application
 
 Each application submitted pursuant to subsection (c) of this section shall contain—
 
-&emsp;(1) the information and assurances described in subparagraphs (A) through (L) of subsection (b)(3)<sup>2</sup> of this section, except that for purposes of this subsection subparagraphs (I), (J), and (K) of such subsection shall be applied by striking “and the State educational agency” each place such term appears; and
+&emsp;(1) the information and assurances described in subparagraphs (A) through (L) of subsection (b)(3) <sup>2</sup> of this section, except that for purposes of this subsection subparagraphs (I), (J), and (K) of such subsection shall be applied by striking “and the State educational agency” each place such term appears; and
 
 &emsp;(2) assurances that the State educational agency—
 
@@ -66,17 +66,17 @@ Each application submitted pursuant to subsection (c) of this section shall cont
 
 &emsp;&emsp;(B) will assist each subgrantee in the State in receiving a waiver under section 8064(e) of this title.
 
-(Pub. L. 89 10, title X, §10303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3826.)
+(Pub. L. 89–10, title X, §10303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3826.)
 
 #### References in Text
 
-Section 8064(f)(1) of this title, referred to in subsec. (c), was in the original “section 10302(e)(1)”, meaning section 10302(e)(1) of Pub. L. 89 10, which was translated as reading section 10304(f)(1) of that Act to reflect the probable intent of Congress, because section 10302, which is classified to section 8062 of this title, does not contain a subsec. (e), and section 10304(f)(1) authorizes the award of grants to eligible applicants.
+Section 8064(f)(1) of this title, referred to in subsec. (c), was in the original “section 10302(e)(1)”, meaning section 10302(e)(1) of Pub. L. 89–10, which was translated as reading section 10304(f)(1) of that Act to reflect the probable intent of Congress, because section 10302, which is classified to section 8062 of this title, does not contain a subsec. (e), and section 10304(f)(1) authorizes the award of grants to eligible applicants.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8062, 8064 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be subsection “(b)(2)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection “(b)(2)”.</i>
 

@@ -6,11 +6,11 @@ The Commission shall—
 
 &emsp;(1) prescribe forms necessary to implement this Act;
 
-&emsp;(2) prepare, publish, and furnish to all persons required to file reports and statements under this Act a manual recommending uniform methods of bookkeeping and reporting;
+&emsp;(2) prepare, publish, and furnish to all persons required to file reports and statementsunder this Act a manual recommending uniform methods of bookkeeping and reporting;
 
 &emsp;(3) develop a filing, coding, and cross-indexing system consistent with the purposes of this Act;
 
-&emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expense of the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Clerk, Secretary, or the Commission shall exclude these lists from the public record;
+&emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expense of the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Secretary or the Commission shall exclude these lists from the public record;
 
 &emsp;(5) keep such designations, reports, and statements for a period of 10 years from the date of receipt, except that designations, reports, and statements that relate solely to candidates for the House of Representatives shall be kept for 5 years from the date of their receipt;
 
@@ -34,7 +34,7 @@ The Commission may conduct audits and field investigations of any political comm
 
 #### (c) Statutory provisions applicable to forms and information-gathering activities
 
-Any forms prescribed by the Commission under subsection (a)(1) of this section, and any information-gathering activities of the Commission under this Act, shall not be subject to the provisions of section 3512 of title 44.
+Any forms prescribed by the Commission under subsection (a)(1) of this section, and any information-gathering activities of the Commission under this Act, shall not be subject to the provisions of section 3512 <sup>1</sup> of title 44.
 
 #### (d) Rules, regulations, or forms; issuance, procedures applicable, etc.
 
@@ -48,7 +48,7 @@ Any forms prescribed by the Commission under subsection (a)(1) of this section, 
 
 (5)(A) A motion to discharge a committee of the Senate from the consideration of a resolution relating to any such rule, regulation, or form or a motion to proceed to the consideration of such a resolution, is highly privileged and shall be decided without debate.
 
-(B) Whenever a committee of the House of Representatives reports any resolution relating to any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
+(B) Whenever a committee of the House of Representatives reports any resolution relatingto any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
 
 #### (e) Scope of protection for good faith reliance upon rules or regulations
 
@@ -58,17 +58,19 @@ Notwithstanding any other provision of law, any person who relies upon any rule 
 
 In prescribing such rules, regulations, and forms under this section, the Commission and the Internal Revenue Service shall consult and work together to promulgate rules, regulations, and forms which are mutually consistent. The Commission shall report to the Congress annually on the steps it has taken to comply with this subsection.
 
-(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792.)
 
 #### References in Text
 
 This Act, referred to in text, means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
-Section 3512 of title 44, referred to in subsec. (c), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511). See sections 3506 and 3513 of Title 44 for provisions similar to those appearing in former section 3512.
+Section 3512 of title 44, referred to in subsec. (c), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 
 #### Amendments
 
-1986—Subsecs. (b), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1995—Subsec. (a)(4). Pub. L. 104–79 substituted “Secretary” for “Clerk, Secretary,”.
+
+1986—Subsecs. (b), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1980—Subsec. (a). Pub. L. 96–187, §109, substituted in introductory clause “The Commission shall” for “It shall be the duty of the Commission”.
 
@@ -90,7 +92,7 @@ Subsec. (a)(8). Pub. L. 96–187, §109, substituted provisions for rules, regul
 
 Subsec. (a)(9). Pub. L. 96–187, §109, substituted provisions for transmittal to the President and Congress no later than June 1 of each year a report of Commission activities and recommendations for legislation for provisions for reporting apparent violations of law to appropriate law enforcement authorities.
 
-Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the Federal Government for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
+Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the FederalGovernment for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
 
 Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use of payments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internal review of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration of elections, such studies to be published by the Commission and copies made available to the general public.
 
@@ -134,6 +136,10 @@ Subsec. (c). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (c) and redesi
 
 Subsec. (d). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (d) and struck out former subsec. (d) provisions respecting violations, the paragraphs relating to: (1) complaints, investigations, notice and hearing, Federal civil actions for injunction, restraining orders, or other appropriate orders, venue, and bond; (2) subpenas; (3) review by court of appeals and time for petition of review; (4) finality of appellate judgment and review by Supreme Court; and (5) docket advancement and priorities, provisions now covered by section 437g(a) of this title.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–79 applicable with respect to reports, designations, and statements required to be filed after Dec. 31, 1995, see section 3(d) of Pub. L. 104–79, set out as a note under section 432 of this title.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
@@ -144,9 +150,11 @@ Disapproval of rules and regulations by either House of Congress under subsec. (
 
 #### Annual Reports for Calendar Years Beginning After Dec. 31, 1972
 
-Section 209(a)(2) of Pub. L. 93–443 provided that: “Notwithstanding section 308(a)(7) of the Federal Election Campaign Act of 1971 \[subsec. (a)(7) of this section\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
+Section 209(a)(2) of Pub. L. 93–443 provided that: “Notwithstanding section 308(a)(7) of the Federal ElectionCampaign Act of 1971 \[subsec. (a)(7) of this section\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 432, 437f, 437g, 439c of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

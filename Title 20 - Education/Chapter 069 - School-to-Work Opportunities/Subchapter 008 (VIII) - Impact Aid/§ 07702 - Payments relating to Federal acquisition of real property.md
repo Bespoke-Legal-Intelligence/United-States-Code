@@ -64,7 +64,7 @@ The United States shall be deemed to own Federal property for the purposes of th
 
 &emsp;&emsp;(B) requires that the property be used in perpetuity for the public purposes for which the property was conveyed;
 
-&emsp;&emsp;(C) requires the grantee of the property to report to the Federal Government (or its agent) regarding information on the use of the property;
+&emsp;&emsp;(C) requires the grantee of the property to report to the Federal Government (or itsagent) regarding information on the use of the property;
 
 &emsp;&emsp;(D) except with the approval of the Federal Government (or its agent), prohibits the sale, lease, assignment, or other disposal of the property unless such sale, lease, assignment, or other disposal is to another eligible government agency; and
 
@@ -84,13 +84,13 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (f) Special rule
 
-Beginning with fiscal year 1994, and notwithstanding any other provision of law limiting the period during which fiscal year 1994 funds may be obligated, the Secretary shall treat the local educational agency serving the Wheatland R II School District, Wheatland, Missouri, as meeting the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 (PublicLaw 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) (20 U.S.C. 237(a)(1)(C)) or subsection (a)(1)(C) of this section.
+Beginning with fiscal year 1994, and notwithstanding any other provision of law limiting the period during which fiscal year 1994 funds may be obligated, the Secretary shall treat the local educational agency serving the Wheatland R–II School District, Wheatland, Missouri, as meeting the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) (20 U.S.C. 237(a)(1)(C)) or subsection (a)(1)(C) of this section.
 
-(Pub. L. 89 10, title VIII, §8002, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3749.)
+(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749.)
 
 #### References in Text
 
-Section 2 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (f), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 2 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (f), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Section Referred to in Other Sections
 

@@ -20,15 +20,15 @@ In order to make continuous progress toward the long-term goal established in se
 
 &emsp;&emsp;(C) The cost and technological feasibility of reducing radon concentrations within existing and new buildings.
 
-&emsp;&emsp;(D) The relationship between short-term and long-term testing techniques and the relationship between (i) measurements based on both such techniques, and (ii) the actions<sup>1</sup> levels set forth as provided in paragraph (1).
+&emsp;&emsp;(D) The relationship between short-term and long-term testing techniques and the relationship between (i) measurements based on both such techniques, and (ii) the actions <sup>1</sup> levels set forth as provided in paragraph (1).
 
 &emsp;&emsp;(E) Outdoor radon levels around the country.
 
-(Pub. L. 94 469, title III, §303, as added Pub. L. 100 551, §1(a), Oct. 28, 1988, 102 Stat. 2755.)
+(Pub. L. 94–469, title III, §303, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2755.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2665 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “action”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “action”.</i>
 

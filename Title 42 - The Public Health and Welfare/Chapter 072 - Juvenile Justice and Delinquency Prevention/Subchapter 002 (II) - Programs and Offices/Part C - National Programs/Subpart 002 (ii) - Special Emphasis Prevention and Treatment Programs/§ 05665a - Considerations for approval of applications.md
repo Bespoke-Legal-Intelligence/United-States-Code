@@ -34,7 +34,7 @@ In determining whether or not to approve applications for grants and for contrac
 
 &emsp;(3) if a State plan has been approved by the Administrator under section 5633(c) of this title, the extent to which such program meets the objectives and priorities of the State plan, taking into consideration the location and scope of such program;
 
-&emsp;(4) the increase in capacity of the public and private agency, institution, or individual involved to provide services to address juveniledelinquency and juvenile delinquency prevention;
+&emsp;(4) the increase in capacity of the public and private agency, institution, or individual involved to provide services to address juvenile delinquency and juvenile delinquency prevention;
 
 &emsp;(5) the extent to which such program serves communities which have high rates of juvenile unemployment, school dropout, and delinquency; and
 
@@ -94,7 +94,7 @@ Subsec. (d)(1)(C). Pub. L. 102–586, §2(h)(2), struck out subpar. (C) which re
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

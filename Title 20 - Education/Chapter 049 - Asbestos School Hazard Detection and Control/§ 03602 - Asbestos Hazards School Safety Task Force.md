@@ -32,7 +32,7 @@
 
 #### (c) Compensation; travel expenses
 
-(1) Members of the Task Force who are not full-time officers or employees of the Federal Government shall receive compensation at a rate determined by the Secretary, but not to exceed the daily equivalent of the maximum annual rate of pay in effect for grade GS 16 of the General Schedule, for each day (including traveltime) during which they are engaged in the performance of the duties of the Task Force.
+(1) Members of the Task Force who are not full-time officers or employees of the Federal Government shall receive compensation at a rate determined by the Secretary, but not to exceed the daily equivalent of the maximum annual rate of pay in effect for grade GS–16 of the General Schedule, for each day (including traveltime) during which they are engaged in the performance of the duties of the Task Force.
 
 (2) While away from their homes or regular places of business in the performance of the duties of the Task Force, all members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
@@ -56,7 +56,7 @@ The duties of the Task Force shall include—
 
 &emsp;(3) the review of applications for grants and loans under sections 3604 and 3605 of this title, and the submission to the Secretary of recommendations respecting the approval or disapproval of such applications;
 
-&emsp;(4) the review of any guidelines established by the Environmental Protection Agency for identifying those schools in which exposure toasbestos fibers constitutes a health problem and for taking appropriate corrective actions at such schools, in order to determine whether any modifications of such guidelines should be recommended to the Secretary under paragraph (5); and
+&emsp;(4) the review of any guidelines established by the Environmental Protection Agency for identifying those schools in which exposure to asbestos fibers constitutes a health problem and for taking appropriate corrective actions at such schools, in order to determine whether any modifications of such guidelines should be recommended to the Secretary under paragraph (5); and
 
 &emsp;(5) providing the Secretary with assistance in formulating standards and procedures under section 3606 of this title by—
 
@@ -70,11 +70,11 @@ The duties of the Task Force shall include—
 
 The Task Force shall cease to exist at the end of the 180-day period beginning on the date that the authority of the Secretary to make loans under section 3605 of this title has expired.
 
-(Pub. L. 96 270, §3, June 14, 1980, 94 Stat. 488.)
+(Pub. L. 96–270, §3, June 14, 1980, 94 Stat. 488.)
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

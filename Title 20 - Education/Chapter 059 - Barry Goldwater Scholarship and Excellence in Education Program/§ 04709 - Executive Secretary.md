@@ -8,9 +8,9 @@ There shall be an Executive Secretary of the Foundation who shall be appointed b
 
 The Executive Secretary of the Foundation shall serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5.
 
-(Pub. L. 99 661, div. A, title XIV, §1410, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 102 190, div. A, title X, §1089(3), Dec. 5, 1991, 105 Stat. 1485.)
+(Pub. L. 99–661, div. A, title XIV, §1410, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 102–190, div. A, title X, §1089(3), Dec. 5, 1991, 105 Stat. 1485.)
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102 190 substituted “serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383” for “be compensated at the rate specified for employees in grade GS 18 of the General Schedule under section 5332”.
+1991—Subsec. (b). Pub. L. 102–190 substituted “serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383” for “be compensated at the rate specified for employees in grade GS–18 of the General Schedule under section 5332”.
 

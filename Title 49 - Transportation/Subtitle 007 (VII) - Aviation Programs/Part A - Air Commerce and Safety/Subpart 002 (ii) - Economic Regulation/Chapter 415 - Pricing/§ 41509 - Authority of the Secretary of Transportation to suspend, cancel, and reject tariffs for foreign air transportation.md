@@ -74,7 +74,7 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, “standard foreign fa
 
 (3) Paragraph (2) of this subsection does not apply to a proposed fare that is not more than—
 
-&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decides that the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier; or
+&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decidesthat the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier; or
 
 &emsp;(B) 50 percent lower than the standard foreign fare level when the Secretary decides that the proposed fare may be predatory or discriminatory or that suspension of the fare is required because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier.
 

@@ -4,10 +4,6 @@
 
 This subchapter is referred to in title 10 section 1744; title 16 section 3198; title 38 section 7403.
 
-<i><sup>1</sup></i><i> So in original. There are two items 3329 which do not conform to order of sections.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -43,5 +39,5 @@ This subchapter is referred to in title 10 section 1744; title 16 section 3198; 
 - [&sect; 03326 - Appointments of retired members of the armed forces to positions in the Department of Defense](%C2%A7%2003326%20-%20Appointments%20of%20retired%20members%20of%20the%20armed%20forces%20to%20positions%20in%20the%20Department%20of%20Defense.md)
 - [&sect; 03327 - Civil service employment information](%C2%A7%2003327%20-%20Civil%20service%20employment%20information.md)
 - [&sect; 03328 - Selective Service registration](%C2%A7%2003328%20-%20Selective%20Service%20registration.md)
-- [&sect; 03329 - 1 Appointments of military reserve technicians to positions in the competitive service](%C2%A7%2003329%20-%201%20Appointments%20of%20military%20reserve%20technicians%20to%20positions%20in%20the%20competitive%20service.md)
-- [&sect; 03329 - 1 Government-wide list of vacant positions](%C2%A7%2003329%20-%201%20Government-wide%20list%20of%20vacant%20positions.md)
+- [&sect; 03329 - Appointments of military reserve technicians to positions in the competitive service](%C2%A7%2003329%20-%20Appointments%20of%20military%20reserve%20technicians%20to%20positions%20in%20the%20competitive%20service.md)
+- [&sect; 03330 - Government-wide list of vacant positions](%C2%A7%2003330%20-%20Government-wide%20list%20of%20vacant%20positions.md)

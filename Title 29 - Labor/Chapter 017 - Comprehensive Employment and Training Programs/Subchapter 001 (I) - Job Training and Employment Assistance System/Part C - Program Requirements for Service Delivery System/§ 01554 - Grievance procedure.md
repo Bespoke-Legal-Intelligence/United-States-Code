@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and timing
 
-Each administrative entity, contractor, and grantee under this chapter shall establish andmaintain a grievance procedure for grievances or complaints about its programs and activities from participants, subgrantees, subcontractors, and other interested persons. Hearings on any grievance shall be conducted within 30 days of filing of a grievance and decisions shall be made not later than 60 days after the filing of a grievance. Except for complaints alleging fraud or criminal activity, complaints shall be made within one year of the alleged occurrence.
+Each administrative entity, contractor, and grantee under this chapter shall establish and maintain a grievance procedure for grievances or complaints about its programs and activities from participants, subgrantees, subcontractors, and other interested persons. Hearings on any grievance shall be conducted within 30 days of filing of a grievance and decisions shall be made not later than 60 days after the filing of a grievance. Except for complaints alleging fraud or criminal activity, complaints shall be made within one year of the alleged occurrence.
 
 #### (b) Requirement for recipient grievance procedure
 
@@ -14,7 +14,7 @@ Upon exhaustion of a recipient's grievance procedure without decision, or where 
 
 #### (d) Labor standards violations
 
-(1) If a person alleges a violation of section 1553 of this title and such person exhausts the recipient's grievance procedure or the 60-day time period described in subsection (a) of this section has elapsed without a decision, either party to such procedure may submit the grievance to the Secretary. The Secretary shall investigate the allegations contained in the grievance and make a determination as to whether a violation of section 1553 of this title has occurred.
+(1) If a person alleges a violation of section 1553 of this title and such person exhausts the recipient's grievance procedure or the 60-daytime period described in subsection (a) of this section has elapsed without a decision, either party to such procedure may submit the grievance to the Secretary. The Secretary shall investigate the allegations contained in the grievance and make a determination as to whether a violation of section 1553 of this title has occurred.
 
 (2) If the results of the investigation conducted pursuant to paragraph (1) indicate that a modification or reversal of the decision issued pursuant to the recipient's grievance procedure is warranted, or the 60-day time period described in subsection (a) of this section has elapsed without a decision, the Secretary may modify or reverse the decision, or issue a decision if no decision has been issued, as the case may be, after an opportunity for a hearing in accordance with the procedures under section 1576 of this title.
 

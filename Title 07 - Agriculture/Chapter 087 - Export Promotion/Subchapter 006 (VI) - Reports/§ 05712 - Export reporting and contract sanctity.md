@@ -1,0 +1,62 @@
+### §5712. Export reporting and contract sanctity
+
+#### (a) Export sales reports
+
+#### (1) In general
+
+&emsp;All exporters of wheat and wheat flour, feed grains, oil seeds, cotton and products thereof, and other commodities that the Secretary may designate produced in the United States shall report to the Secretary of Agriculture, on a weekly basis, the following information regarding any contract for export sales entered into or subsequently modified in any manner during the reporting period:
+
+&emsp;&emsp;(A) type, class, and quantity of the commodity sought to be exported;
+
+&emsp;&emsp;(B) the marketing year of shipment; and
+
+&emsp;&emsp;(C) destination, if known.
+
+#### (2) Confidentiality and compilation of reports
+
+&emsp;Individual reports shall remain confidential but shall be compiled by the Secretary and published in compilation form each week following the week of reporting.
+
+#### (3) Immediate reporting
+
+&emsp;All exporters of agricultural commodities produced in the United States shall, upon request of the Secretary, immediately report to the Secretary any information with respect to export sales of agricultural commodities and at such times as the Secretary may request. When the Secretary requires that such information be reported by exporters on a daily basis, the information compiled from individual reports shall be made available to the public daily.
+
+#### (4) Monthly reporting permitted
+
+&emsp;The Secretary may, with respect to any commodity or type or class thereof during any period in which the Secretary determines that—
+
+&emsp;&emsp;(A) there is a domestic supply of such commodity substantially in excess of the quantity needed to meet domestic requirements,
+
+&emsp;&emsp;(B) total supplies of such commodity in the exporting countries are estimated to be in surplus,
+
+&emsp;&emsp;(C) anticipated exports will not result in excessive drain on domestic supplies, and
+
+&emsp;&emsp;(D) to require the reports to be made will unduly hamper export sales,
+
+> &emsp;provide for such reports by exporters and publishing of such data to be on a monthly basis rather than on a weekly basis.
+
+#### (b) Failure to report
+
+Any person who knowingly fails to make any report required under this section shall be fined not more than $25,000 or imprisoned for not more than 1 year, or both.
+
+#### (c) Contract sanctity
+
+Notwithstanding any other provision of law, the President shall not prohibit or curtail the export of any agricultural commodity under an export sales contract—
+
+&emsp;(1) that is entered into before the President announces an action that would otherwise prohibit or curtail the export of the commodity, and
+
+&emsp;(2) the terms of which require delivery of the commodity within 270 days after the date of the suspension of trade is imposed,
+
+> except that the President may prohibit or curtail the export of any agricultural commodity during a period for which the President has declared a national emergency or for which the Congress has declared war.
+
+(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858.)
+
+#### Prior Provisions
+
+A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
+
+#### Amendments
+
+1991—Subsec. (a)(1). Pub. L. 102–237, §327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
+

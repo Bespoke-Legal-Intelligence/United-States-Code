@@ -14,7 +14,7 @@ Findings.—(1) Public convenience and necessity require that Amtrak, to the ext
 
 (6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
 
-(7) The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
+(7) The Northeast Corridor is a valuable resource of the United States used by intercityand commuter rail passenger transportation and freight transportation.
 
 (8) Greater coordination between intercity and commuter rail passenger transportation is required.
 
@@ -96,7 +96,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §102; added Sept. 29, 1979, Pub
 
 45:501a(14) (last sentence).
 
-In this part, the word “Amtrak” is substituted for “National Railroad Passenger Corporation”, and the words “Amtrak Commuter” are substituted for “Amtrak Commuter Services Corporation”, to reflect the more current and commonly used names of the entities. The words “rail transportation” are substituted for “rail service” and “rail services”, the word “transportation” is substituted for “service” where appropriate, and the word “authority” is substituted for “agency”, as being more appropriate and for consistency in therevised title and with other titles of the United States Code. The words “rail carrier” are substituted for “railroad” because of the definitions of “rail carrier” and “railroad” in 49:10102.
+In this part, the word “Amtrak” is substituted for “National Railroad Passenger Corporation”, and the words “Amtrak Commuter” are substituted for “Amtrak Commuter Services Corporation”, to reflect the more current and commonly used names of the entities. The words “rail transportation” are substituted for “rail service” and “rail services”, the word “transportation” is substituted for “service” where appropriate, and the word “authority” is substituted for “agency”, as being more appropriate and for consistency in the revised title and with other titles of the United States Code. The words “rail carrier” are substituted for “railroad” because of the definitions of “rail carrier” and “railroad” in 49:10102.
 
 In subsection (a), the words “The Congress finds that the” and “The Congress further finds that” are omitted as surplus.
 

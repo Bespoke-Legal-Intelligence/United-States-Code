@@ -1,4 +1,4 @@
-### §1076a . Dependents’ dental program
+### §1076a. Dependents’ dental program
 
 (a)
 
@@ -98,7 +98,7 @@ Limitations on Expenditures.—The Secretary of Defense may not spend more than 
 
 1991—Subsec. (a). Pub. L. 102–190, §701(e)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 102–190, §701(a), substituted “basic and supplemental dental benefits plans” for“dental benefit plans” in first sentence and inserted at end “A member may not enroll in a supplemental dental benefits plan unless the member is also a member of a basic dental benefits plan.”
+Subsec. (a)(1). Pub. L. 102–190, §701(a), substituted “basic and supplemental dental benefits plans” for “dental benefit plans” in first sentence and inserted at end “A member may not enroll in a supplemental dental benefits plan unless the member is also a member of a basic dental benefits plan.”
 
 Subsec. (b). Pub. L. 102–190, §701(c)(1), inserted heading.
 
@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 99–661, §707(b), added subsec. (h).
 
 #### Effective Date of 1994 Amendment
 
-Section 707(c) of Pub. L. 103–337 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1079 of this title\] shall apply with respect to the dependents described in such amendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
+Section 707(c) of Pub. L. 103–337 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1079 of this title\] shall apply with respect to the dependents described in suchamendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
 
 #### Effective Date of 1992 Amendment
 

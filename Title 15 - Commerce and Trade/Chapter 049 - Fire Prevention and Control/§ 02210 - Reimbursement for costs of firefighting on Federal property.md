@@ -16,27 +16,27 @@ Upon receipt of a claim filed under subsection (a) of this section, the Administ
 
 #### (c) Payment
 
-The Secretary shall forward the claim and a copy of the Administrator's determination under subsection (b)(3) of this section to the Secretary of the Treasury. The Secretary of the Treasury shall, upon receipt of the claim and determination, pay such fire service or its parent jurisdiction, from any moneys in the Treasury not otherwise appropriated but subject to reimbursement (from any appropriations which may be available or which may be made available for the purpose) by the Federal department or agency under whose jurisdiction the fire occurred, a sum no greater than the amount determined with respect to the claim under subsection (b)(3) of this section.
+The Secretary shall forward the claim and a copy of the Administrator's determination under subsection (b)(3) of this section to the Secretary of the Treasury. The Secretary of the Treasury shall, upon receipt of the claim and determination, pay such fire service or its parent jurisdiction, from any moneys in the Treasurynot otherwise appropriated but subject to reimbursement (from any appropriations which may be available or which may be made available for the purpose) by the Federal department or agency under whose jurisdiction the fire occurred, a sum no greater than the amount determined with respect to the claim under subsection (b)(3) of this section.
 
 #### (d) Adjudication
 
 In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
-(Pub. L. 93 498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97 164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102 572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 93–498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102 572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (d). Pub. L. 97 164 substituted “United States Claims Court” for “Court of Claims of the United States”.
+1982—Subsec. (d). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims of the United States”.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 572 effective Oct. 29, 1992, see section 911 of Pub. L. 102 572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97 164 effective Oct. 1, 1982, see section 402 of Pub. L. 97 164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

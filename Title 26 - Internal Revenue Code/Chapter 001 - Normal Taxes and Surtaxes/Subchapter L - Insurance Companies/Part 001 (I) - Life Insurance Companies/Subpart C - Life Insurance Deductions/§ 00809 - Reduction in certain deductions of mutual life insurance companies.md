@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (ii) Tax reserves
 
-&emsp;&emsp;&emsp;The term “tax reserves” means the aggregate of the items described in section 807(c) as determined for purposes of section 807.
+&emsp;&emsp;&emsp;The term “tax reserves” means the aggregate of the items described in section807(c) as determined for purposes of section 807.
 
 #### (5) Increase by amount of certain other reserves
 
@@ -206,7 +206,7 @@ For purposes of this section, the average mutual earnings rate for any calendar 
 
 #### (3) Recomputed differential earnings amount
 
-&emsp;For purposes of this subsection, the term “recomputed differential earnings amount” means, with respect to any taxable year, the amount which would be the differential earnings amount for such taxable year if the average mutual earnings rate taken into accountunder subsection (c)(1)(B) were the average mutual earnings rate for the calendar year in which the taxable year begins.
+&emsp;For purposes of this subsection, the term “recomputed differential earnings amount” means, with respect to any taxable year, the amount which would be the differential earnings amount for such taxable year if the average mutual earnings rate taken into account under subsection (c)(1)(B) were the average mutual earnings rate for the calendar year in which the taxable year begins.
 
 #### (4) Special rule where company ceases to be mutual life insurance company
 
@@ -284,7 +284,7 @@ For purposes of this section—
 
 #### (3) Adjustment where stock company not member of affiliated group
 
-&emsp;In the case of any stock life insurance company which is described in paragraph (1) but is not a member of an affiliated group described in paragraph (2), under regulations, proper adjustments shall be made in the average equity bases (and statement gains or losses from operations) of mutual life insurance companiesowning stock in such company as may be necessary or appropriate to carry out the purposes of this section.
+&emsp;In the case of any stock life insurance company which is described in paragraph (1) but is not a member of an affiliated group described in paragraph (2), under regulations, proper adjustments shall be made in the average equity bases (and statement gains or losses from operations) of mutual life insurance companies owning stock in such company as may be necessary or appropriate to carry out the purposes of this section.
 
 #### (i) Transitional rule for certain high surplus mutual life insurance companies
 
@@ -410,7 +410,7 @@ Subsec. (g)(1)(A). Pub. L. 99–514, §1821(f), substituted “determined withou
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

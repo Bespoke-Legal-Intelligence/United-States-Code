@@ -22,11 +22,11 @@ As used in this chapter, the term—
 
 &emsp;(6) “Program” means the United States Global Change Research Program established under section 2933 of this title.
 
-(Pub. L. 101 606, §2, Nov. 16, 1990, 104 Stat. 3096.)
+(Pub. L. 101–606, §2, Nov. 16, 1990, 104 Stat. 3096.)
 
 #### Short Title
 
-Section 1 of Pub. L. 101 606 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Global Change Research Act of 1990’.”
+Section 1 of Pub. L. 101–606 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Global Change Research Act of 1990’.”
 
-Section 201 of title II of Pub. L. 101 606 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
+Section 201 of title II of Pub. L. 101–606 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
 

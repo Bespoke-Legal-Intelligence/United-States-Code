@@ -316,6 +316,10 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
+
 #### Short Title of 1994 Amendments
 
 Pub. L. 103–452, §1(a), Nov. 2, 1994, 108 Stat. 4783, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Health Programs Extension Act of 1994’.”
@@ -436,11 +440,11 @@ Pub. L. 98–543, §1(a), Oct. 24, 1984, 98 Stat. 2735, provided that: “This A
 
 For short title of Pub. L. 98–542 as the “Veterans’ Dioxin and Radiation Exposure Compensation Standards Act”, see section 1 of Pub. L. 98–542, set out as a note under section 1154 of this title.
 
-Pub. L. 98–528, §1(a), Oct. 19, 1984, 98 Stat. 2686, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Act of 1984’.”
+Pub. L. 98–528, §1(a), Oct. 19, 1984, 98 Stat. 2686, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Veterans’ Health Care Act of 1984’.”
 
 Pub. L. 98–525, title VII, §701, Oct. 19, 1984, 98 Stat. 2553, as amended by Pub. L. 100–48, §2, June 1, 1987, 101 Stat. 331, provided that: “This title \[see Tables for classification\] may be cited as the ‘Montgomery GI Bill Act of 1984’.”
 
-Section 1 of Pub. L. 98–223 provided in part: “That (a) this Act \[see Tables for classification\] may be cited asthe ‘Veterans’ Compensation and Program Improvements Amendments of 1984’.”
+Section 1 of Pub. L. 98–223 provided in part: “That (a) this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation and Program Improvements Amendments of 1984’.”
 
 #### Short Title of 1983 Amendment
 
@@ -524,11 +528,11 @@ Section 1 of Pub. L. 94–169 provided: “That this Act \[see Tables for classi
 
 Pub. L. 94–123, §1, Oct. 22, 1975, 89 Stat. 669, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Physician and Dentist Pay Comparability Act of 1975’.”
 
-Pub. L. 94–71, §1, Aug. 5, 1975, 89 Stat. 395, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Disability Compensation and Survivor Benefits Act of 1975’.”
+Pub. L. 94–71, §1, Aug. 5, 1975, 89 Stat. 395, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans Disability Compensation and Survivor Benefits Act of 1975’.”
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–602, title II, §201, Jan. 2, 1975, 88 Stat. 1958, provided that: “This title \[see Tables for classification\]may be cited as the ‘Veterans’ Education and Rehabilitation Equalization Amendments Act of 1974’.”
+Pub. L. 93–602, title II, §201, Jan. 2, 1975, 88 Stat. 1958, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans’ Education and Rehabilitation Equalization Amendments Act of 1974’.”
 
 Pub. L. 93–569, §1, Dec. 31, 1974, 88 Stat. 1863, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Act of 1974’.”
 
@@ -618,7 +622,7 @@ Section 6(b) of Pub. L. 91–621 provided that the effective date of an award by
 
 Proc. No. 4373, May 7, 1975, 40 F.R. 20257, provided:
 
-The Congress has provided that entitlement to certain veterans benefits be limited to persons serving in the Armed Forces during the period, beginning August 5, 1964, referred to as the Vietnam era. The President is authorized to determine the last day on which a personmust have entered the active military, naval, or air service during that period.
+The Congress has provided that entitlement to certain veterans benefits be limited to persons serving in the Armed Forces during the period, beginning August 5, 1964, referred to as the Vietnam era. The President is authorized to determine the last day on which a person must have entered the active military, naval, or air service during that period.
 
 The signing of the cease-fire agreements and implementing protocols on January 27, 1973, between the United States of America and the Republic of Vietnam, on the one hand, and the Democratic Republic of Vietnam and the Provisional Revolutionary Government of the Republic of South Vietnam on the other hand, has terminated active participation by the Armed Forces of the United States in the Vietnam conflict.
 

@@ -16,11 +16,11 @@ The Secretary of Energy shall, in addition to the requirements set forth in subs
 
 &emsp;(2) make planning grants available to qualified small business concerns which require assistance in developing, submitting, and entering into such contracts.
 
-(Pub. L. 94 413, §9, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95 91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, §9, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95 91, see Codification note set out under section 2502 of this title.
+“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (4) Disposition of net income distributed by the facility
 
-&emsp;Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+&emsp;Any payment made to the United States by the Bank as a distribution of net income shallbe covered into the Treasury as a miscellaneous receipt.
 
 #### (c) Compensation of Board members
 
@@ -70,7 +70,7 @@ For the purpose of any civil action which may be brought within the United State
 
 #### (3) Authority of Securities and Exchange Commission to suspend exemption; reports to the Congress
 
-&emsp;The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any viewssubmitted for such purpose by any association of dealers registered with the Commission.
+&emsp;The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
 (Pub. L. 103–182, title V, §541, Dec. 8, 1993, 107 Stat. 2165.)
 

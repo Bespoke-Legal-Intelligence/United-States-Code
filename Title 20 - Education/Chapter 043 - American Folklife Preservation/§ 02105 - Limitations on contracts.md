@@ -12,5 +12,5 @@ Assistance pursuant to this chapter shall not cover the cost of land acquisition
 
 No individual formerly in the employment of the Federal Government shall be eligible to receive any assistance pursuant to this chapter, or to serve as a trustee of the Center in the two-year period following the termination of such employment.
 
-(Pub. L. 94 201, §6, Jan. 2, 1976, 89 Stat. 1132.)
+(Pub. L. 94–201, §6, Jan. 2, 1976, 89 Stat. 1132.)
 

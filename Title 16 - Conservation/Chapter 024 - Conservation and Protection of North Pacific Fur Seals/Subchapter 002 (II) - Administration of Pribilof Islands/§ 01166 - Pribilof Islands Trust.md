@@ -2,7 +2,7 @@
 
 #### (a) Establishment; funding; distributions; investments
 
-(1) In order to promote the development of a stable, self-sufficient enduring and diversifiedeconomy not dependent on sealing, the Secretary shall cause to be established a Trust for the benefit of the Natives of the Pribilof Islands, to be known as the “Pribilof Islands Trust” (hereinafter referred to as the “Trust”).
+(1) In order to promote the development of a stable, self-sufficient enduring and diversified economy not dependent on sealing, the Secretary shall cause to be established a Trust for the benefit of the Natives of the Pribilof Islands, to be known as the “Pribilof Islands Trust” (hereinafter referred to as the “Trust”).
 
 (2) All amounts appropriated to the Secretary under subsection (e) of this section shall be transferred by the Secretary to the Trust within fifteen days after submission of the Trust instrument to Congress in accordance with the requirements of subsection (c) of this section.
 
@@ -16,7 +16,7 @@ The Trust shall be administered in accordance with such terms and conditions as 
 
 #### (c) Trust instruments
 
-There may be one Trust instrument establishing the Trust described in subsection (a) of this section, or two such instruments, each relating to one of the two portions of the Trust as provided in subsection (d) of this section, which shall address, but need not be limited to, such matters as—
+There may be one Trust instrument establishing the Trust described in subsection (a) of this section, or two such instruments, each relatingto one of the two portions of the Trust as provided in subsection (d) of this section, which shall address, but need not be limited to, such matters as—
 
 &emsp;(1) establishing standards and procedures for the disbursement by the trustee or trustees of Trust assets for purposes of fostering in the Pribilof Islands a stable, diversified, and enduring economy not dependent upon sealing after Federal management of the islands is terminated, which procedures may include formal participation of Pribilof Islands Native councils, corporations, or other such entities;
 
@@ -56,7 +56,7 @@ The Trust shall be divided into two portions pursuant to a formula established b
 
 (2) Prior to the termination of the period described in subsection (a)(3) of this section, the trustee or trustees may make interim distributions for the benefit of the Natives of the Pribilof Islands, upon approval of the Secretary, of up to five percent of the amounts transferred to the Trust pursuant to subsection (a)(2) of this section if, as determined by the Secretary, such interim distributions are required to carry out the purposes of this chapter.
 
-(3) There is authorized to be appropriated to the Secretary of the Interior $3,500,000 for distribution to the Trust for the purpose of preserving and maintaining municipal, community, andtribal functions while an economy not dependent on sealing is established.
+(3) There is authorized to be appropriated to the Secretary of the Interior $3,500,000 for distribution to the Trust for the purpose of preserving and maintaining municipal, community, and tribal functions while an economy not dependent on sealing is established.
 
 #### (f) Interest and proceeds from Trust
 
@@ -82,7 +82,7 @@ In subsec. (g), “October 14, 1983” substituted for “enactment of this Act�
 
 1988—Subsec. (e)(1). Pub. L. 100–711 authorized appropriations for fiscal years 1989 and 1990 to fund the Saint Paul Island Trust, and authorized appropriations for fiscal year 1990 to fund the Saint George Trust.
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
+1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning ofa Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
 
 #### Section Referred to in Other Sections
 

@@ -330,19 +330,19 @@
 
 (1) The term “child” means an unmarried person under twenty-one years of age who is—
 
-&emsp;(A) a legitimate child;
+&emsp;(A) a child born in wedlock;
 
 &emsp;(B) a stepchild, whether or not born out of wedlock, provided the child had not reached the age of eighteen years at the time the marriage creating the status of stepchild occurred;
 
 &emsp;(C) a child legitimated under the law of the child's residence or domicile, or under the law of the father's residence or domicile, whether in or outside the United States, if such legitimation takes place before the child reaches the age of eighteen years and the child is in the legal custody of the legitimating parent or parents at the time of such legitimation;
 
-&emsp;(D) an illegitimate child, by, through whom, or on whose behalf a status, privilege, or benefit is sought by virtue of the relationship of the child to its natural mother or to its natural father if the father has or had a bona fide parent-child relationship with the person;
+&emsp;(D) a child born out of wedlock, by, through whom, or on whose behalf a status, privilege, or benefit is sought by virtue of the relationship of the child to its natural mother or to its natural father if the father has or had a bona fide parent-child relationship with the person;
 
 &emsp;(E) a child adopted while under the age of sixteen years if the child has been in the legal custody of, and has resided with, the adopting parent or parents for at least two years: <i>Provided</i>, That no natural parent of any such adopted child shall thereafter, by virtue of such parentage, be accorded any right, privilege, or status under this chapter; or
 
 &emsp;(F) a child, under the age of sixteen at the time a petition is filed in his behalf to accord a classification as an immediate relative under section 1151(b) of this title, who is an orphan because of the death or disappearance of, abandonment or desertion by, or separation orloss from, both parents, or for whom the sole or surviving parent is incapable of providing the proper care and has in writing irrevocably released the child for emigration and adoption; who has been adopted abroad by a United States citizen and spouse jointly, or by an unmarried United States citizen at least twenty-five years of age, who personally saw and observed the child prior to or during the adoption proceedings; or who is coming to the United States for adoption by a United States citizen and spouse jointly, or by an unmarried United States citizen at least twenty-five years of age, who have or has complied with the preadoption requirements, if any, of the child's proposed residence; <i>Provided</i>, That the Attorney General is satisfied that proper care will be furnished the child if admitted to the United States: <i>Provided further</i>, That no natural parent or prior adoptive parent of any such child shall thereafter, by virtue of such parentage, be accorded any right, privilege, or status under this chapter.
 
-(2) The terms “parent”, “father”, or “mother” mean a parent, father, or mother only where the relationship exists by reason of any of the circumstances set forth in subdivision (1) of this subsection, except that, for purposes of paragraph (1)(F) (other than the second proviso therein) in the case of an illegitimate child described in paragraph (1)(D) (and not described in paragraph (1)(C)), the term “parent” does not include the natural father of the child if the father has disappeared or abandoned or deserted the child or if the father has in writing irrevocably released the child for emigration and adoption.
+(2) The terms “parent”, “father”, or “mother” mean a parent, father, or mother only where the relationship exists by reason of any of the circumstances set forth in subdivision (1) of this subsection, except that, for purposes of paragraph (1)(F) (other than the second proviso therein) in the case of a child born out of wedlock described in paragraph (1)(D) (and not described in paragraph (1)(C)), the term “parent” does not include the natural father of the child if the father has disappeared or abandoned or deserted the child or if the father has in writing irrevocably released the child for emigration and adoption.
 
 (3) The term “person” means an individual or an organization.
 
@@ -398,7 +398,7 @@ The fact that any person is not within any of the foregoing classes shall not pr
 
 &emsp;(3) any crime of reckless driving or of driving while intoxicated or under the influence of alcohol or of prohibited substances if such crime involves personal injury to another.
 
-(June 27, 1952, ch. 477, title I, §101, 66 Stat. 166; Sept. 11, 1957, Pub. L. 85–316, §§1, 2, 71 Stat. 639; July 7, 1958, Pub. L. 85–508, §22, 72 Stat. 351; Mar. 18, 1959, Pub. L. 86–3, §20(a), 73 Stat. 13; Sept. 21, 1961, Pub. L. 87–256, §109(a), (b), 75 Stat. 534; Sept. 26, 1961, Pub. L. 87–301, §§1, 2, 7, 75 Stat. 650, 653; Oct. 3, 1965, Pub. L. 89–236, §§8, 24, 79 Stat. 916, 922; Nov. 2, 1966, Pub. L. 89–710, 80 Stat. 1104; Apr. 7, 1970, Pub. L. 91–225, §1, 84 Stat. 116; Dec. 16, 1975, Pub. L. 94–155, 89 Stat. 824; Oct. 12, 1976, Pub. L. 94–484, title VI, §601(b), (e), 90 Stat. 2301, 2302; Oct. 20, 1976, Pub. L. 94–571, §7(a), 90 Stat. 2706; Oct. 12, 1976, Pub. L. 94–484, title VI, §602(c), as added Aug. 1, 1977, Pub. L. 95–83, title III, §307(q)(3), 91 Stat. 395; Aug. 17, 1977, Pub. L. 95–105, title I, §109(b)(3), 91 Stat. 847; Sept. 27, 1979, Pub. L. 96–70, title III, §3201(a), 93 Stat. 496; Mar. 17, 1980, Pub. L. 96–212, title II, §201(a), 94 Stat. 102; Dec. 29, 1981, Pub. L. 97–116, §§2, 5(d)(1), 18(a), 95 Stat. 1611, 1614, 1619; Oct. 30, 1984, Priv. L. 98–47, §3, 98 Stat. 3435; Oct. 21, 1986, Pub. L. 99–505, §1, 100 Stat. 1806; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 6, 1986, Pub. L. 99–603, title III, §§301(a), 312, 315(a), 100 Stat. 3411, 3434, 3439; Nov. 14, 1986, Pub. L. 99–653, §§2, 3, 100 Stat. 3655; Oct. 1, 1988, Pub. L. 100–459, title II, §210(a), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §§2(<i>o</i>)(1), 8(b), 9(a), 102 Stat. 2613, 2617, 2619; Nov. 18, 1988, Pub. L. 100–690, title VII, §7342, 102 Stat. 4469; Nov. 21, 1989, Pub. L. 101–162, title VI, §611(a), 103 Stat. 1038; Dec. 18, 1989, Pub. L. 101–238, §3(a), 103 Stat. 2100; Feb. 16, 1990, Pub. L. 101–246, title I, §131(b), 104 Stat. 31; Nov. 29, 1990, Pub. L. 101–649, title I, §§123, 151(a), 153(a), 162(f)(2)(A), title II, §§203(c), 204(a), (c), 205(c)(1), (d), (e), 206(c), 207(a), 208, 209(a), title IV, §407(a)(2), title V, §§501(a), 509(a), title VI, §603(a)(1), 104 Stat. 4995, 5004, 5005, 5012, 5018–5020, 5022, 5023, 5026, 5027, 5040, 5048, 5051, 5082; Oct. 1, 1991, Pub. L. 102–110, §2(a), 105 Stat. 555; Dec. 12, 1991, Pub. L. 102–232, title II, §§203(a), 205(a)–(c), 206(b), (c)(1), (d), 207(b), title III, §§302(e)(8)(A), 303(a)(5)(A), (7)(A), (14), 305(m)(1), 306(a)(1), 309(b)(1), (4), 105 Stat. 1737, 1740, 1741, 1746–1748, 1750, 1751, 1758; Apr. 30, 1994, Pub. L. 103–236, title I, §162(h)(1), 108 Stat. 407; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130003(a), 108 Stat. 2024; Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXVI, §3605, 108 Stat. 3113; Oct. 25, 1994, Pub. L. 103–416, title II, §§201, 202, 214, 219(a), 222(a), 108 Stat. 4310, 4311, 4314, 4316, 4320.)
+(June 27, 1952, ch. 477, title I, §101, 66 Stat. 166; Sept. 11, 1957, Pub. L. 85–316, §§1, 2, 71 Stat. 639; July 7, 1958, Pub. L. 85–508, §22, 72 Stat. 351; Mar. 18, 1959, Pub. L. 86–3, §20(a), 73 Stat. 13; Sept. 21, 1961, Pub. L. 87–256, §109(a), (b), 75 Stat. 534; Sept. 26, 1961, Pub. L. 87–301, §§1, 2, 7, 75 Stat. 650, 653; Oct. 3, 1965, Pub. L. 89–236, §§8, 24, 79 Stat. 916, 922; Nov. 2, 1966, Pub. L. 89–710, 80 Stat. 1104; Apr. 7, 1970, Pub. L. 91–225, §1, 84 Stat. 116; Dec. 16, 1975, Pub. L. 94–155, 89 Stat. 824; Oct. 12, 1976, Pub. L. 94–484, title VI, §601(b), (e), 90 Stat. 2301, 2302; Oct. 20, 1976, Pub. L. 94–571, §7(a), 90 Stat. 2706; Oct. 12, 1976, Pub. L. 94–484, title VI, §602(c), as added Aug. 1, 1977, Pub. L. 95–83, title III, §307(q)(3), 91 Stat. 395; Aug. 17, 1977, Pub. L. 95–105, title I, §109(b)(3), 91 Stat. 847; Sept. 27, 1979, Pub. L. 96–70, title III, §3201(a), 93 Stat. 496; Mar. 17, 1980, Pub. L. 96–212, title II, §201(a), 94 Stat. 102; Dec. 29, 1981, Pub. L. 97–116, §§2, 5(d)(1), 18(a), 95 Stat. 1611, 1614, 1619; Oct. 30, 1984, Priv. L. 98–47, §3, 98 Stat. 3435; Oct. 21, 1986, Pub. L. 99–505, §1, 100 Stat. 1806; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 6, 1986, Pub. L. 99–603, title III, §§301(a), 312, 315(a), 100 Stat. 3411, 3434, 3439; Nov. 14, 1986, Pub. L. 99–653, §§2, 3, 100 Stat. 3655; Oct. 1, 1988, Pub. L. 100–459, title II, §210(a), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §§2(<i>o</i>)(1), 8(b), 9(a), 102 Stat. 2613, 2617, 2619; Nov. 18, 1988, Pub. L. 100–690, title VII, §7342, 102 Stat. 4469; Nov. 21, 1989, Pub. L. 101–162, title VI, §611(a), 103 Stat. 1038; Dec. 18, 1989, Pub. L. 101–238, §3(a), 103 Stat. 2100; Feb. 16, 1990, Pub. L. 101–246, title I, §131(b), 104 Stat. 31; Nov. 29, 1990, Pub. L. 101–649, title I, §§123, 151(a), 153(a), 162(f)(2)(A), title II, §§203(c), 204(a), (c), 205(c)(1), (d), (e), 206(c), 207(a), 208, 209(a), title IV, §407(a)(2), title V, §§501(a), 509(a), title VI, §603(a)(1), 104 Stat. 4995, 5004, 5005, 5012, 5018–5020, 5022, 5023, 5026, 5027, 5040, 5048, 5051, 5082; Oct. 1, 1991, Pub. L. 102–110, §2(a), 105 Stat. 555; Dec. 12, 1991, Pub. L. 102–232, title II, §§203(a), 205(a)–(c), 206(b), (c)(1), (d), 207(b), title III, §§302(e)(8)(A), 303(a)(5)(A), (7)(A), (14), 305(m)(1), 306(a)(1), 309(b)(1), (4), 105 Stat. 1737, 1740, 1741, 1746–1748, 1750, 1751, 1758; Apr. 30, 1994, Pub. L. 103–236, title I, §162(h)(1), 108 Stat. 407; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130003(a), 108 Stat. 2024; Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXVI, §3605, 108 Stat. 3113; Oct. 25, 1994, Pub. L. 103–416, title II, §§201, 202, 214, 219(a), 222(a), 108 Stat. 4310, 4311, 4314, 4316, 4320; Nov. 15, 1995, Pub. L. 104–51, §1, 109 Stat. 467.)
 
 #### References in Text
 
@@ -418,6 +418,12 @@ Section 1324(a)(1) of this title, referred to in subsec. (a)(43)(N), was in the 
 
 #### Amendments
 
+1995—Subsec. (b)(1)(A). Pub. L. 104–51, §1(1)(A), substituted “child born in wedlock” for “legitimate child”.
+
+Subsec. (b)(1)(D). Pub. L. 104–51, §1(1)(B), substituted “a child born out of wedlock” for “an illegitimate child”.
+
+Subsec. (b)(2). Pub. L. 104–51, §1(2) substituted “a child born out of wedlock” for “an illegitimate child”.
+
 1994—Subsec. (a)(1). Pub. L. 103–236 substituted “official designated by the Secretary of State pursuant to section 1104(b) of this title” for “Assistant Secretary of State for Consular Affairs”.
 
 Subsec. (a)(15)(S). Pub. L. 103–322 added subpar. (S).
@@ -432,7 +438,7 @@ Subsec. (a)(27)(I)(iii)(II). Pub. L. 103–416, §202, added subcl. (II) and str
 
 Subsec. (a)(27)(J)(i). Pub. L. 103–416, §219(a), substituted “or whom such a court has legally committed to, or placed under the custody of, an agency or department of a State and who has” for “and has” before “been deemed”.
 
-Subsec. (a)(43). Pub. L. 103–416, §222(a), amended par. (43) generally. Prior to amendment, par. (43) read as follows: “The term ‘aggravated felony’ means murder, any illicit trafficking in any controlled substance (as defined in section 802 of title 21), including any drug trafficking crime as defined in section 924(c)(2) of title 18, or any illicit trafficking in any firearms or destructive devices as defined in section 921 of such title, any offense described in section 1956 of title 18 (relating to laundering of monetary instruments), or any crime ofviolence (as defined in section 16 of title 18, not including a purely political offense) for which the term of imprisonment imposed (regardless of any suspension of such imprisonment) is at least 5 years, or any attempt or conspiracy to commit any such act. Such term applies to offenses described in the previous sentence whether in violation of Federal or State law and also applies to offenses described in the previous sentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years.”
+Subsec. (a)(43). Pub. L. 103–416, §222(a), amended par. (43) generally. Prior to amendment, par. (43) read asfollows: “The term ‘aggravated felony’ means murder, any illicit trafficking in any controlled substance (as defined in section 802 of title 21), including any drug trafficking crime as defined in section 924(c)(2) of title 18, or any illicit trafficking in any firearms or destructive devices as defined in section 921 of such title, any offense described in section 1956 of title 18 (relating to laundering of monetary instruments), or any crime of violence (as defined in section 16 of title 18, not including a purely political offense) for which the term of imprisonment imposed (regardless of any suspension of such imprisonment) is at least 5 years, or any attempt or conspiracy to commit any such act. Such term applies to offenses described in the previous sentence whether in violation of Federal or State law and also applies to offenses described in the previous sentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years.”
 
 1991—Subsec. (a)(15)(D)(i). Pub. L. 102–232, §309(b)(1), inserted a comma after “States)”.
 
@@ -500,7 +506,7 @@ Subsec. (a)(27)(J). Pub. L. 101–649, §153(a), added subpar. (J).
 
 Subsec. (a)(36). Pub. L. 101–649, §407(a)(2), struck out “(except as used in section 1421(a) of this title)” after “includes”.
 
-Subsec. (a)(43). Pub. L. 101–649, §501(a)(6), inserted “and also applies to offenses described in the previous sentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years” after “Federal or State law”.
+Subsec. (a)(43). Pub. L. 101–649, §501(a)(6), inserted “and also applies to offenses described in the previoussentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years” after “Federal or State law”.
 
 Pub. L. 101–649, §501(a)(5), inserted at end “Such term applies to offenses described in the previous sentence whether in violation of Federal or State law.”
 
@@ -634,11 +640,13 @@ Subsec. (d)(2). Pub. L. 87–301, §7(b), inserted definition of “Korean hosti
 
 1957—Subsec. (b)(1). Pub. L. 85–316 inserted “whether or not born out of wedlock” in subpar. (B), and added subpars. (D) and (E).
 
-#### Effective Date of 1994 Amendment
+#### Effective Date of 1994 Amendments
 
 Section 219(dd) of Pub. L. 103–416 provided that: “Except as otherwise specifically provided in this section, the amendments made by this section \[amending this section and sections 1151, 1153, 1154, 1160, 1182, 1188, 1251, 1252, 1252b, 1254a, 1255, 1255a, 1256, 1288, 1302, 1322, 1323, 1324a, 1324b, 1324c, 1330, 1356, 1421, 1424, 1444, 1449, and 1522 of this title, repealing section 1161 of this title, amending provisions set out as notes under this section and sections 1182, 1254a, 1255, 1255a, and 1356 of this title, and repealing provisions set out as a note under section 1288 of this title\] shall be effective as if included in the enactment of the Immigration Act of 1990 \[Pub. L. 101–649\].”
 
 Section 222(b) of Pub. L. 103–416 provided that: “The amendments made by this section \[amending this section\] shall apply to convictions entered on or after the date of enactment of this Act \[Oct. 25, 1994\].”
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1991 Amendments
 
@@ -652,7 +660,7 @@ Section 310 of Pub. L. 102–232, as amended by Pub. L. 103–416, title II, §2
 
 &emsp;“(1) sections 302 through 308 \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to 1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1357, 1421, 1423, 1433, 1439 to 1441, 1443, 1445 to 1449, 1451, 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1251, 1252, 1254a, and 1255 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] shall take effect as if included in the enactment of the Immigration Act of 1990 \[Pub. L. 101–649\], and
 
-&emsp;“(2) section 309(b) \[amending this section and sections 1154, 1160, 1182, 1188, 1252, 1252a, 1324a, 1356, 1424, and 1455 of this title and enacting provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 1991\].”
+&emsp;“(2) section 309(b) \[amending this section and sections 1154, 1160, 1182, 1188, 1252, 1252a, 1324a, 1356, 1424,and 1455 of this title and enacting provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 1991\].”
 
 Section 2(d) of Pub. L. 102–110 provided that: “This section \[amending this section and sections 1153 and 1255 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 1, 1991\].”
 
@@ -662,7 +670,7 @@ Section 161 of title I of Pub. L. 101–649, as amended by Pub. L. 102–110, §
 
 “(a)
 
-In General.—Except as otherwise provided in this title, this title and the amendments made by thistitle \[enacting section 1186b of this title, amending this section, sections 1103, 1151 to 1154, 1157, 1159, 1182, 1251, 1254, 1255, and 1325 of this title, section 3304 of Title 26, Internal Revenue Code, and section 1382c of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1152, 1153, 1159, 1182, 1201, and 1251 of this title, and amending provisions set out as notes under section 1255 of this title\] shall take effect on October 1, 1991, and apply beginning with fiscal year 1992.
+In General.—Except as otherwise provided in this title, this title and the amendments made by this title \[enacting section 1186b of this title, amending this section, sections 1103, 1151 to 1154, 1157, 1159, 1182, 1251, 1254, 1255, and 1325 of this title, section 3304 of Title 26, Internal Revenue Code, and section 1382c of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1152, 1153, 1159, 1182, 1201, and 1251 of this title, and amending provisions set out as notes under section 1255 of this title\] shall take effect on October 1, 1991, and apply beginning with fiscal year 1992.
 
 “(b)
 
@@ -720,7 +728,7 @@ Construction.—Nothing in this title \[see subsec. (a) above\] shall be constru
 
 Section 162(f)(3) of Pub. L. 101–649 provided that: “The amendments made by this subsection \[amending this section, section 1182 of this title, and provisions set out as a note under section 1255 of this title\] shall apply as though included in the enactment of the Immigration Nursing Relief Act of 1989 \[Pub. L. 101–238\].”
 
-Section 203(d) of Pub. L. 101–649 provided that: “The amendments made by this section \[enacting section 1288 of this title and amending this section and section 1281 of this title\] shall apply to services performed on or after 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Section 203(d) of Pub. L. 101–649 provided that: “The amendments made by this section \[enacting section1288 of this title and amending this section and section 1281 of this title\] shall apply to services performed on or after 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 Section 231 of title II of Pub. L. 101–649 provided that: “Except as otherwise provided in this title, this title, and the amendments made by this title \[enacting section 1288 of this title, amending this section and sections 1182, 1184, 1187, 1281, and 1323 of this title, and enacting provisions set out as notes under this section and sections 1182, 1184, 1187, and 1288 of this title\], shall take effect on October 1, 1991, except that sections 222 and 223 \[enacting provisions set out as notes under this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
@@ -782,7 +790,7 @@ Section 204(a)–(c) of title II of Pub. L. 96–212 provided that:
 
 “(3) Notwithstanding any other provision of law, for fiscal year 1980—
 
-&emsp;“(A) the fiscal year numerical limitation specified in section 201(a) of the Immigration and NationalityAct \[section 1151(a) of this title\] shall be equal to 280,000, and
+&emsp;“(A) the fiscal year numerical limitation specified in section 201(a) of the Immigration and Nationality Act \[section 1151(a) of this title\] shall be equal to 280,000, and
 
 &emsp;“(B) for the purpose of determining the number of immigrant visa and adjustments of status which may be made available under sections 203(a)(2) and 202(e)(2) of such Act \[sections 1153(a)(2) and 1152(e)(2) of this title\], the granting of a conditional entry or adjustment of status under section 203(a)(7) or 202(e)(7) of such Act after September 30, 1979, and before April 1, 1980, shall be considered to be the granting of an immigrant visa under section 203(a)(2) or 202(e)(2), respectively, of such Act during such period.
 
@@ -798,7 +806,7 @@ Section 3201(d)(1) of Pub. L. 96–70 provided that: “The amendments made by t
 
 #### Effective Date of 1977 Amendment
 
-Section 602(d) of Pub. L. 94–484, as added Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395, provided that: “This section \[amending this section and enacting provisions set out as a note under section 1182 of this title\] and the amendment made by subsection (c) \[amending this section\] are effective January 10, 1977, and the amendments made by subsections (b)(4) and (d) of section 601 \[amending this section and section 1182 of this title\] shall apply only on and after January 10, 1978, notwithstanding subsection (f) of such section \[set out as an Effective Date of 1976 Amendments note under section 1182 of this title\].”
+Section 602(d) of Pub. L. 94–484, as added by Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395, provided that: “This section \[amending this section and enacting provisions set out as a note under section 1182 of this title\] and the amendment made by subsection (c) \[amending this section\] are effective January 10, 1977, and the amendments made by subsections (b)(4) and (d) of section 601 \[amending this section and section 1182 of this title\] shall apply only on and after January 10, 1978, notwithstanding subsection (f) of such section \[set out as an Effective Date of 1976 Amendments note under section 1182 of this title\].”
 
 #### Effective Date of 1976 Amendments
 
@@ -828,9 +836,9 @@ Section 101 of title I of Pub. L. 102–232 provided that: “This title \[amend
 
 Section 201 of title II of Pub. L. 102–232 provided that: “This title \[amending this section and section 1184 of this title and enacting provisions set out as notes under this section and section 1184 of this title\] may be cited as the ‘O and P Nonimmigrant Amendments of 1991’.”
 
-Section 301(a) of title III of Pub. L. 102–232 provided that: “This title \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to 1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252a, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1356, 1357, 1421, 1423, 1424, 1433, 1439 to 1441, 1443, 1445 to 1449, 1451, 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1251, 1252, 1254a, 1255, and 1356 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] may be cited as the ‘Immigration Technical Corrections Act of 1991’.”
+Section 301(a) of title III of Pub. L. 102–232 provided that: “This title \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252a, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1356, 1357, 1421, 1423, 1424, 1433, 1439 to 1441, 1443, 1445 to 1449, 1451, 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1251, 1252, 1254a, 1255, and 1356 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] may be cited as the ‘Immigration Technical Corrections Act of 1991’.”
 
-Section 1 of Pub. L. 102–110 provided that: “This Act \[amending this section and sections 1153, 1255, and 1524 of this title and enacting and amending provisions setout as notes under this section\] may be cited as the ‘Armed Forces Immigration Adjustment Act of 1991’.”
+Section 1 of Pub. L. 102–110 provided that: “This Act \[amending this section and sections 1153, 1255, and 1524 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Armed Forces Immigration Adjustment Act of 1991’.”
 
 #### Short Title of 1990 Amendments
 
@@ -876,7 +884,7 @@ Section 1 of Pub. L. 94–571 provided: “That this Act \[amending this section
 
 #### Short Title
 
-Section 1 of act June 27, 1952, provided that such act, enacting this chapter, section 1429 of Title 18, Crimes and Criminal Procedure, amending sections 1353a, 1353d, 1552 of this title, sections 342b, 342c, 342e of former Title 5, Executive Departments and Government Officers and Employees, sections 1114, 1546 of Title 18, sections 618, 1446 of Title 22, Foreign Relations and Intercourse, sections 1, 177 of former Title 49, Transportation, sections 1952 to 1955 and 1961 of Title 50 App., War and National Defense, repealing section 530 of former Title 31, Money and Finance, enacting provisions set out as notes under this section and amending provisions set out as notes under sections 1435 and 1440 of this title, may be cited as the “Immigration and Nationality Act”.
+Section 1 of act June 27, 1952, provided that such act, enacting this chapter, section 1429 of Title 18, Crimes and Criminal Procedure, amending sections 1353a, 1353d, 1552 of this title, sections 342b, 342c, 342e of former Title 5, Executive Departments and Government Officers and Employees, sections 1114, 1546 of Title 18, sections 618, 1446 of Title 22, Foreign Relations and Intercourse, sections 1, 177 of former Title 49,Transportation, sections 1952 to 1955 and 1961 of Title 50 App., War and National Defense, repealing section 530 of former Title 31, Money and Finance, enacting provisions set out as notes under this section and amending provisions set out as notes under sections 1435 and 1440 of this title, may be cited as the “Immigration and Nationality Act”.
 
 #### Repeal and Revival
 
@@ -884,7 +892,7 @@ Section 8(b) of Pub. L. 100–525 provided that: “Section 3 of INAA \[Pub. L. 
 
 #### Repeals
 
-Section 403(b) of act June 27, 1952, provided that: “Except as otherwise provided in section 405 \[set outbelow\], all other laws, or parts of laws, in conflict or inconsistent with this Act \[this chapter\] are, to the extent of such conflict or inconsistency, repealed.”
+Section 403(b) of act June 27, 1952, provided that: “Except as otherwise provided in section 405 \[set out below\], all other laws, or parts of laws, in conflict or inconsistent with this Act \[this chapter\] are, to the extent of such conflict or inconsistency, repealed.”
 
 #### Regulations
 
@@ -930,9 +938,9 @@ Section 404 of act June 27, 1952, as amended by acts Dec. 29, 1981, Pub. L. 97�
 
 “(a) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[this chapter\] (other than chapter 2 of title IV) \[subchapter IV of this chapter\].
 
-“(b)(1) There are authorized to be appropriated (for fiscal year 1991 and any subsequent fiscal year) to an immigration emergency fund, to be established in the Treasury, an amount sufficient to provide for a balance of $35,000,000 in such fund, to be used to carry out paragraph (2) and to provide for an increase in border patrol or other enforcement activities of the Service and for reimbursement of State and localities in providing assistance as requested by the Attorney General in meeting an immigration emergency, except that no amounts may be withdrawn from such fund with respect to an emergency unless the President has determined that the immigration emergency exists and has certified such fact to the Judiciary Committees of the House of Representatives and of the Senate.
+“(b)(1) There are authorized to be appropriated (for fiscal year 1991 and any subsequent fiscal year) to animmigration emergency fund, to be established in the Treasury, an amount sufficient to provide for a balance of $35,000,000 in such fund, to be used to carry out paragraph (2) and to provide for an increase in border patrol or other enforcement activities of the Service and for reimbursement of State and localities in providing assistance as requested by the Attorney General in meeting an immigration emergency, except that no amounts may be withdrawn from such fund with respect to an emergency unless the President has determined that the immigration emergency exists and has certified such fact to the Judiciary Committees of the House of Representatives and of the Senate.
 
-“(2)(A) Funds which are authorized to be appropriated by paragraph (1), subject to the dollar limitation contained in subparagraph (B), shall be available,by application for the reimbursement of States and localities providing assistance as required by the Attorney General, to States and localities whenever—
+“(2)(A) Funds which are authorized to be appropriated by paragraph (1), subject to the dollar limitation contained in subparagraph (B), shall be available, by application for the reimbursement of States and localities providing assistance as required by the Attorney General, to States and localities whenever—
 
 &emsp;“(i) a district director of the Service certifies to the Commissioner that the number of asylum applications filed in the respective district during a calendar quarter exceeds by at least 1,000 the number of such applications filed in that district during the preceding calendar quarter,
 
@@ -1008,15 +1016,11 @@ Section 225 of Pub. L. 103–416 provided that: “No amendment made by this Act
 
 #### Report on Admission of Certain Nonimmigrants
 
-Section 202(b) of Pub. L. 102–232 provided that:
-
-“(1) By not later than October 1, 1994, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the Senate and of the House of Representatives a report containing information relating to the admission of artists, entertainers, athletes, and related support personnel as nonimmigrants under subparagraphs (O) and (P) of section 101(a)(15) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(O), (P)\], and information on the laws, regulations, and practices in effect in other countries that affect United States citizens and permanent resident aliens in the arts, entertainment, and athletics, in order to evaluate the impact of such admissions, laws, regulations, and practices on such citizens and aliens.
-
-“(2) Not later than 30 days after the date the Committee of the Judiciary on the Senate receives the report under paragraph (1), the Chairman of the Committee shall make the report available to interested parties and shall hold a hearing respecting the report. No later than 90 days after the date of receipt of the report, such Committee shall report to the Senate its findings and any legislation it deems appropriate.”
+Section 202(b) of Pub. L. 102–232 directed Comptroller General, by not later than Oct. 1, 1994, to submit to Committees on the Judiciary of Senate and of House of Representatives a report containing information relating to the admission of artists, entertainers, athletes, and related support personnel as nonimmigrants under 8 U.S.C. 1101(a)(15)(O), (P), and information on the laws, regulations, and practices in effect in other countries that affect United States citizens and permanent resident aliens in the arts, entertainment, and athletics, in order to evaluate the impact of such admissions, laws, regulations, and practices on such citizens and aliens, directed Chairman of the Committee on the Judiciary of Senate to make the report available to interested parties and to hold a hearing respecting the report and directed such Committee to report to Senate its findings and any legislation it deems appropriate.
 
 #### Delay Until April 1, 1992, in Implementation of Provisions Relating to Nonimmigrant Artists, Athletes, Entertainers, and Fashion Models
 
-Section 3 of Pub. L. 102–110 provided that: “Section 214(g)(1)(C) of the Immigration and Nationality Act \[8 U.S.C. 1184(g)(1)(C)\] shall not apply to the issuance of visas or provision of status before April 1, 1992. Aliens seeking nonimmigrant admission as artists, athletes, entertainers, or fashion models (or for the purpose of accompanying or assisting in an artistic or athletic performance) before April 1, 1992, shall not be admitted under subparagraph (O)(i), (O)(ii), (P)(i), or (P)(iii) ofsection 101(a)(15) of such Act \[8 U.S.C. 1101(a)(15)\], but may be admitted under the terms of subparagraph (H)(i)(b) of such section (as in effect on September 30, 1991).”
+Section 3 of Pub. L. 102–110 provided that: “Section 214(g)(1)(C) of the Immigration and Nationality Act \[8U.S.C. 1184(g)(1)(C)\] shall not apply to the issuance of visas or provision of status before April 1, 1992. Aliens seeking nonimmigrant admission as artists, athletes, entertainers, or fashion models (or for the purpose of accompanying or assisting in an artistic or athletic performance) before April 1, 1992, shall not be admitted under subparagraph (O)(i), (O)(ii), (P)(i), or (P)(iii) of section 101(a)(15) of such Act \[8 U.S.C. 1101(a)(15)\], but may be admitted under the terms of subparagraph (H)(i)(b) of such section (as in effect on September 30, 1991).”
 
 #### Commission on Immigration Reform
 
@@ -1112,7 +1116,7 @@ Congressional Response.—(1) No later than 90 days after the date of receipt of
 
 “(i)
 
-Presidential Report.—The President shall conduct a review and evaluation and provide for the transmittal of reports to the Congress in the same manneras the Commission is required to conduct a review and evaluation and to transmit reports under subsection (b).”
+Presidential Report.—The President shall conduct a review and evaluation and provide for the transmittal of reports to the Congress in the same manner as the Commission is required to conduct a review and evaluation and to transmit reports under subsection (b).”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -1190,13 +1194,13 @@ In General.—Subject to subsection (b), the Attorney General shall provide for 
 
 &emsp;“(1) has a residence in a foreign country which the alien has no intention of abandoning, and
 
-&emsp;“(2) is coming temporarily to the United States (for a period not to exceed 18 months) as a participant in a special education training program which provides for practical training and experience in the education of children with physical, mental, or emotional disabilities,
+&emsp;“(2) is coming temporarily to the United States (for a period not to exceed 18 months) as a participant in a special education training program which providesfor practical training and experience in the education of children with physical, mental, or emotional disabilities,
 
 > or who is the spouse or minor child of such an alien if accompanying or following to join the alien.
 
 “(b)
 
-Numerical Limitation.—The number of aliens who may be admitted as (or otherwise be provided thestatus of) a nonimmigrant under this section in any fiscal year may not exceed 50.”
+Numerical Limitation.—The number of aliens who may be admitted as (or otherwise be provided the status of) a nonimmigrant under this section in any fiscal year may not exceed 50.”
 
 #### Extension of H–1 Immigration Status for Certain Nonimmigrants Employed in Cooperative Research and Development Projects and Coproduction Projects
 
@@ -1246,9 +1250,9 @@ Pub. L. 100–202, §101(e) \[title V, §584\], Dec. 22, 1987, 101 Stat. 1329–
 
 &emsp;“(B) is the spouse or child of a principal alien and is accompanying, or following to join, the principal alien; or
 
-&emsp;“(C) subject to paragraph (2), either (i) is the principal alien's natural mother (or is the spouse or child of such mother), or (ii) has acted in effect as the principal alien's mother, father, or next-of-kin (or is the spouse or child of such an alien), and is accompanying, or following to join, the principal alien.
+&emsp;“(C) subject to paragraph (2), either (i) is the principal alien's natural mother (or is the spouse or child of such mother), or (ii) has acted in effect as the principal alien's mother, father, or next-of-kin (or is thespouse or child of such an alien), and is accompanying, or following to join, the principal alien.
 
-“(2) An immigrant visa may not be issued to an alien under paragraph (1)(C) unless the officer referred to in paragraph (1) has determined, in the officer's discretion, that (A) such an alien has a bona fide relationshipwith the principal alien similar to that which exists between close family members and (B) the admission of such an alien is necessary for humanitarian purposes or to assure family unity. If an alien described in paragraph (1)(C)(ii) is admitted to the United States, the natural mother of the principal alien involved shall not, thereafter, be accorded any right, privilege, or status under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by virtue of such parentage.
+“(2) An immigrant visa may not be issued to an alien under paragraph (1)(C) unless the officer referred to in paragraph (1) has determined, in the officer's discretion, that (A) such an alien has a bona fide relationship with the principal alien similar to that which exists between close family members and (B) the admission of such an alien is necessary for humanitarian purposes or to assure family unity. If an alien described in paragraph (1)(C)(ii) is admitted to the United States, the natural mother of the principal alien involved shall not, thereafter, be accorded any right, privilege, or status under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by virtue of such parentage.
 
 “(3) For purposes of this section, the term ‘child’ has the meaning given such term in section 101(b)(1)(A), (B), (C), (D), and (E) of the Immigration and Nationality Act \[8 U.S.C. 1101(b)(1)(A)–(E)\].
 
@@ -1310,41 +1314,7 @@ Section 407 of Pub. L. 99–603 provided that: “It is the sense of the Congres
 
 #### Commission for the Study of International Migration and Cooperative Economic Development
 
-Section 601 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(r), Oct. 24, 1988, 102 Stat. 2614, provided that:
-
-“(a)
-
-Establishment and Composition of Commission.—(1) There is established a Commission for the Study of International Migration and Cooperative Economic Development (in this section referred to as the ‘Commission’), to be composed of twelve members—
-
-&emsp;“(A) three members to be appointed by Speaker of the House of Representatives;
-
-&emsp;“(B) three members to be appointed by the minority leader of the House of Representatives;
-
-&emsp;“(C) three members to be appointed by the Majority Leader of the Senate; and
-
-&emsp;“(D) three members to be appointed by the Minority Leader of the Senate.
-
-“(2) Members shall be appointed for the life of the Commission. Appointments to the Commission shall be made within 90 days after the date of the enactment of this Act \[Nov. 6, 1986\]. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
-
-“(3) A majority of the members of the Commission shall elect a Chairman.
-
-“(b)
-
-Duty of Commission.—The Commission, in consultation with the governments of Mexico and other sending countries in the Western Hemisphere, shall examine the conditions in Mexico and such other sending countries which contribute to unauthorized migration to the United States and mutually beneficial, reciprocal trade and investment programs to alleviate such conditions. For purposes of this section, the term ‘sending country’ means a foreign country a substantial number of whose nationals migrate to, or remain in, the United States without authorization.
-
-“(c)
-
-Report to the President and Congress.—Not later than three years after the appointment of the members of the Commission, the Commission shall prepare and transmit to the President and to the Congress a report describing the results of the Commission's examination and recommending steps to provide mutually beneficial reciprocal trade and investment programs to alleviate conditions leading to unauthorized migration to the United States.
-
-“(d)
-
-Compensation of Members, Meetings, Staff, Authority of Commission, and Authorization of Appropriations.—(1) The provisions of subsections (d), (e)(3), (f), (g), and (h) of section 304 \[8 U.S.C. 1160 note\] shall apply to the Commission in the same manner as they apply to the Commission established under section 304. Not more than 1 percent of the amounts appropriated for the Commission may be used, at the sole discretion of the Chairman, for official entertainment.
-
-“(2) Seven members of the Commission shall constitute a quorum, but a lesser number may hold hearings.
-
-“(e)
-
-Termination Date.—The Commission shall terminate on the date on which a report is required to be transmitted by subsection (c), except that the Commission may continue to function for not more than thirty days thereafter for the purpose of concluding its activities.”
+Section 601 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(r), Oct. 24, 1988, 102 Stat. 2614, provided for establishment, membership, etc., of a Commission for the Study of International Migration and Cooperative Economic Development to examine, in consultation with governments of Mexico and other sending countries in Western Hemisphere, the conditions which contribute to unauthorized migration to United States and mutually beneficial reciprocal trade and investment programs to alleviate conditions leading to such unauthorized migration and to report to President and Congress, not later than 3 years after appointment of members of Commission, on results of Commission's examination with recommendations on providing mutually beneficial reciprocal trade and investment programs to alleviate such unauthorized migration.
 
 #### Treatment of Departures From Guam
 
@@ -1398,7 +1368,131 @@ Sec. 6. The Departments of Justice and State are directed to consider other step
 
 Sec. 7. This order shall be effective immediately.
 
-George Bush.&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Deterring Illegal Immigration
+
+Memorandum of President of the United States, Feb. 7, 1995, 60 F.R. 7885, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+It is a fundamental right and duty for a nation to protect the integrity of its borders and its laws. This Administration shall stand firm against illegal immigration and the continued abuse of our immigration laws. By closing the back door to illegal immigration, we will continue to open the front door to legal immigrants.
+
+My Administration has moved swiftly to reverse the course of a decade of failed immigration policies. Our initiatives have included increasing overall Border personnel by over 50 percent since 1993. We also are strengthening worksite enforcement and work authorization verification to deter employment of illegal aliens. Asylum rules have been reformed to end abuse by those falsely claiming asylum, while offering protection to those in genuine fear of persecution. We are cracking down on smugglers of illegal aliens and reforming criminal alien deportation for quicker removal. And we are the first Administration to obtain funding to reimburse States for a share of the costs of incarcerating criminal illegal aliens.
+
+While we already are doing more to stem the flow of illegal immigration than has any previous Administration, more remains to be done. In conjunction with the Administration's unprecedented budget proposal to support immigration initiatives, this directive provides a blueprint of policies and priorities for this Administration's continuing work to curtail illegal immigration. With its focus on strong border deterrence backed up by effective worksite enforcement, removal of criminal and other deportable aliens and assistance to states, this program protects the security of our borders, our jobs and our communities for all Americans—citizens and legal immigrants alike.
+
+#### COMPREHENSIVE BORDER CONTROL STRATEGY
+
+#### A. <i>Deterring Illegal Immigration At Our Borders</i>
+
+I have directed the Attorney General to move expeditiously toward full implementation of our comprehensive border control strategy, including efforts at the southwest border. To support sustained long-term strengthening of our deterrence capacity, the Administration shall seek funding to add new Border Patrol agents to reach the goal of at least 7,000 agents protecting our borders by the year 2000.
+
+#### &nbsp;&nbsp;<i>Flexible Border Response Capacity</i>
+
+To further this strategy, the Department of Justice shall implement the capacity to respond to emerging situations anywhere along our national borders to deter buildups of illegal border crossers, smuggling operations, or other developing problems.
+
+#### &nbsp;&nbsp;<i>Strategic Use of High Technology</i>
+
+Through the strategic use of sensors, night scopes, helicopters, light planes, all-terrain vehicles, fingerprinting and automated recordkeeping, we have freed many Border Patrol agents from long hours of bureaucratic tasks and increased the effectiveness of these highly-trained personnel. Because these tools are essential for the Immigration and Naturalization Service (INS) to do its job, I direct the Attorney General to accelerate to the greatest extent possible their utilization and enhancement to support implementation of our deterrence strategy.
+
+#### &nbsp;&nbsp;<i>Strong Enforcement Against Repeat Illegal Crossers</i>
+
+The Department of Justice shall assess the effectiveness of efforts underway to deter repeat illegal crossers, such as fingerprinting and dedicating prosecution resources to enforce the new prosecution authority provided by the Violent Crime Control and Law Enforcement Act of 1994 \[Pub. L. 103–322, see Tables for classification\].
+
+The Department of Justice shall determine whether accelerated expansion of these techniques to additional border sectors is warranted.
+
+#### B. <i>Deterring Alien Smuggling</i>
+
+This Administration has had success deterring large ship-based smuggling directly to United States shores. In response, smugglers are testing new routes and tactics. Our goal: similar success in choking off these attempts by adjusting our anti-smuggling initiatives to anticipate shifting smuggling patterns.
+
+To meet new and continuing challenges posed along transport routes and in foreign locations by smuggling organizations, we will augment diplomatic and enforcement resources at overseas locations to work with host governments, and increase related intelligence gathering efforts.
+
+The Departments of State and Justice, in cooperation with other relevant agencies, will report to the National Security Council within 30 days on the structure of interagency coordination to achieve these objectives.
+
+Congressional action will be important to provide U.S. law enforcement agencies with needed authority to deal with international smuggling operations. I will propose that the Congress pass legislation providing wiretap authority for investigation of alien smuggling cases and providing authorization to seize the assets of groups engaged in trafficking in human cargo.
+
+In addition, I will propose legislation to give the Attorney General authority to implement procedures for expedited exclusion to deal with large flows of undocumented migrants, smuggling operations, and other extraordinary migration situations.
+
+#### C. <i>Visa Overstay Deterrence</i>
+
+Nearly half of this country's illegal immigrants come into the country legally and then stay after they are required by law to depart, often using fraudulent documentation. No Administration has ever made a serious effort to identify and deport these individuals. This Administration is committed to curtailing this form of illegal immigration.
+
+Therefore, relevant departments and agencies are directed to review their policies and practices to identify necessary reforms to curtail visa overstayers and to enhance investigations and prosecution of those who fraudulently produce or misuse passports, visas, and other travel related documents. Recommendations for administrative initiatives and legislative reform shall be presented to the White House Interagency Working Group on Immigration by June 30, 1995.
+
+#### REDUCING THE MAGNET OF WORK OPPORTUNITIES, WORKSITE ENFORCEMENT, AND DETERRENCE
+
+Border deterrence cannot succeed if the lure of jobs in the United States remains. Therefore, a second major component of the Administration's deterrencestrategy is to toughen worksite enforcement and employer sanctions. Employers who hire illegal immigrants not only obtain unfair competitive advantage over law-abiding employers, their unlawful use of illegal immigrants suppresses wages and working conditions for our country's legal workers. Our strategy, which targets enforcement efforts at employers and industries that historically have relied upon employment of illegal immigrants, will not only strengthen deterrence of illegal immigration, but better protect American workers and businesses that do not hire illegal immigrants.
+
+Central to this effort is an effective, nondiscriminatory means of verifying the employment authorization of all new employees. The Administration fully supports the recommendation of the Commission on Legal Immigration Reform to create pilot projects to test various techniques for improving workplace verification, including a computer database test to validate a new worker's social security number for work authorization purposes. The Immigration and Naturalization Service (INS) and Social Security Administration are directed to establish, implement, monitor, and review the pilots and provide me with an interim report on the progress of this program by March 1, 1996.
+
+In addition, the INS is directed to finalize the Administration's reduction of the number of authorized documents to support work verification for noncitizens. Concurrently, the Administration will seek further reduction legislatively in the number of documents that are acceptable for proving identity and work authorization. The Administration will improve the security of existing documents to be used for work authorization and seek increased penalties for immigration fraud, including fraudulent production and use of documents.
+
+The Department of Labor shall intensify its investigations in industries with patterns of labor law violations that promote illegal immigration.
+
+I also direct the Department of Labor, INS, and other relevant Federal agencies to expand their collaboration in cracking down on those who subvert fair competition by hiring illegal aliens. This may include increased Federal authority to confiscate assets that are the fruits of that unfair competition.
+
+The White House Interagency Working Group on Immigration shall further examine the link between immigration and employment, including illegal immigration, and recommend to me other appropriate measures.
+
+#### DETENTION AND REMOVAL OF DEPORTABLE ILLEGAL ALIENS
+
+The Administration's deterrence strategy includes strengthening the country's detention and deportation capability. No longer will criminals and other high risk deportable aliens be released back into communities because of a shortage of detention space and ineffective deportation procedures.
+
+#### A. <i>Comprehensive Deportation Process Reform</i>
+
+The Department of Justice, in consultation with other relevant agencies, shall develop a streamlined, fair, and effective procedure to expedite removal of deportable aliens. As necessary, additional legislative authority will be sought in this area. In addition, the Department of Justice shall increase its capacity to staff deportation and exclusion hearings to support these objectives.
+
+#### B. <i>National Detention and Removal Plan</i>
+
+To address the shortage of local detention space for illegal aliens, the Administration shall devise a National Detention, Transportation, and Removal Policy that will permit use of detention space across the United States and improve the ability to remove individuals with orders of deportation. The Department of Justice, in consultation with other agencies as appropriate and working under the auspices of the White House Interagency Working Group on Immigration, shall finalize this plan by April 30, 1995.
+
+The Administration will seek support and funding from the Congress for this plan and for our efforts to double the removal of illegal aliens with final orders of deportation.
+
+#### C. <i>Identification and Removal of Criminal Aliens</i>
+
+The Institutional Hearing Program is successfully expediting deportation of incarcerated criminal aliens after they serve their sentences.
+
+To further expedite removal of criminal aliens from this country and reduce costs to Federal and State governments, the Department of Justice is directed to develop an expanded program of verification of the immigration status of criminal aliens within our country's prisons. In developing this program, the viability of expanding the work of the Law Enforcement Support Center should be assessed and all necessary steps taken to increase coordination and cooperative efforts with State, and local law enforcement officers in identification of criminal aliens.
+
+#### TARGETED DETERRENCE AREAS
+
+Many of the Administration's illegal immigration enforcement initiatives are mutually reinforcing. For example, strong interior enforcement supports border control. While there have been efforts over the years at piecemeal cooperation, this Administration will examine, develop, and test a more comprehensive coordinated package of deterrence strategies in selected metropolitan areas by multiple Federal, State, and local agencies.
+
+The White House Interagency Working Group on Immigration shall coordinate the development of this interagency and intergovernmental operation.
+
+#### VERIFICATION OF ELIGIBILITY FOR BENEFITS
+
+The law denies most government benefits to illegal aliens. The government has a duty to assure that taxpayer-supported public assistance programs are not abused. As with work authorization, enforcement of eligibility requirements relies upon a credible system of verification. The INS, working with the White House Interagency Working Group on Immigration as appropriate, shall review means of improving the existing benefits verification program. In addition, we will seek new mechanisms—including increased penalties for false information used to qualify for benefits—to protect the integrity of public programs.
+
+#### ANTI-DISCRIMINATION
+
+Our efforts to combat illegal immigration must not violate the privacy and civil rights of legal immigrants and U.S. citizens. Therefore, I direct the Attorney General, the Secretary of Health and Human Services, the Chair of the Equal Employment Opportunity Commission, and other relevant Administration officials to vigorously protect our citizens and legal immigrants from immigration-related instances of discrimination and harassment. All illegal immigration enforcement measures shall be taken with due regard for the basic human rights of individuals and in accordance with our obligations under applicable international agreements.
+
+#### ASSISTANCE TO STATES
+
+States today face significant costs for services provided to illegal immigrants as a result of failed policies of the past. Deterring illegal immigration is the best long-term solution to protect States from growing costs for illegal immigration. This is the first Administration to address this primary responsibility squarely. We are targeting most of our Federal dollars to those initiatives that address the root causes that lead to increased burdens on States.
+
+The Federal Government provides States with billions of dollars to provide for health care, education, and other services and benefits for immigrants. This Administration is proposing increases for immigration and immigration-related spending of 25 percent in 1996 compared to 1993 levels. In addition, this Administration is the first to obtain funding from the Congress to reimburse States for a share of the costs of incarcerated illegal aliens.
+
+This Administration will continue to work with States to obtain more Federal help for certain State costs and will oppose inappropriate cost-shifting to the States.
+
+#### INTERNATIONAL COOPERATION
+
+This Administration will continue to emphasize international cooperative efforts to address illegal immigration.
+
+Pursuant to a Presidential Review Directive (PRD), the Department of State is now coordinating a study on United States policy toward international refugee and migration affairs. I hereby direct that, as part of that PRD process, this report to the National Security Council include the relationship of economic development and migration in the Western Hemisphere and, in particular, provide recommendations for further foreign economic policy measures to address causes of illegal immigration.
+
+The Department of State shall coordinate an interagency effort to consider expanded arrangements with foreign governments for return of criminal and deportable aliens.
+
+The Department of State also shall seek to negotiate readmission agreements for persons who could have sought asylum in the last country from which they arrived. Such agreements will take due regard of U.S. obligations under the Protocol Relating to the Status of Refugees.
+
+The Department of State further shall implement cooperative efforts with other nations receiving smuggled aliens or those used as transhipment points by smugglers. In particular, we will look to countries in our hemisphere to join us by denying their territory as bases for smuggling operations.
+
+The Department of State shall initiate negotiations with foreign countries to secure authority for the United States Coast Guard to board source country vessels suspected of transporting smuggled aliens.
+
+This directive shall be published in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 
@@ -1426,7 +1520,7 @@ Peace Corps programs, nonimmigrant status of foreign participants, see section 2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1102, 1151, 1152, 1153, 1154, 1157, 1158, 1159, 1160, 1181, 1182, 1184, 1184a, 1186, 1187, 1201, 1251, 1252a, 1254, 1254a, 1255, 1255a, 1255b, 1257, 1258, 1281, 1282, 1288, 1303, 1356, 1365, 1433 of this title; title 2 section 441e; title 7 section 2015; title 10 sections 1060a, 2864; title 18 sections 831, 1091, 1203, 2331, 3077, 3142; title 19 sections 58c, 3401; title 22 sections 1474, 2128, 2395, 2508, 3508, 5001; title 26 sections 871, 872, 1441, 3121, 3231, 3306, 7701; title 29 sections 1506, 1802; title 42 sections 408, 410, 1436a; title 45 sections 231, 351; title 46 section 2101; title 50 sections 424, 1801; title 50 App. sections 453, 456.
+This section is referred to in sections 1102, 1151, 1152, 1153, 1154, 1157, 1158, 1159, 1160, 1181, 1182, 1184, 1184a, 1186, 1187, 1201, 1251, 1252a, 1254, 1254a, 1255, 1255a, 1255b, 1257, 1258, 1281, 1282, 1288, 1303, 1356, 1365, 1433 of this title; title 2 section 441e; title 7 section 2015; title 10 sections 1060a, 2864; title 18 sections 831, 1091, 1119, 1203, 2280, 2281, 2331, 2332a, 3077, 3142; title 19 sections 58c, 3401; title 22 sections 1474, 2128, 2395, 2508, 3508, 5001; title 26 sections 871, 872, 1441, 3121, 3231, 3306, 7701; title 29 sections 1506, 1802; title 42 sections 408, 410, 1436a; title 45 sections 231, 351; title 46 section 2101; title 50 sections 424, 1801; title 50 App. sections 453, 456.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

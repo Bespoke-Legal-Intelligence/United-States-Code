@@ -1,4 +1,4 @@
-### §8117 . Time of accrual of right
+### §8117. Time of accrual of right
 
 An employee is not entitled to compensation for the first 3 days of temporary disability, except—
 
@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1974—Pub. L. 93–416 substituted “14 days” for “21 days”.
+<b>1974</b>—Pub. L. 93–416 substituted “14 days” for “21 days”.
 
 #### Effective Date of 1974 Amendment
 

@@ -34,9 +34,9 @@ For purposes of this section—
 
 &emsp;The term “terminal railroad corporation” means a domestic railroad corporation which is not a member, other than as a common parent corporation, of an affiliated group (as defined in section 1504) and—
 
-&emsp;&emsp;(A) all of the shareholders of which are domestic railroad corporations providingtransportation subject to subchapter I of chapter 105 of title 49;
+&emsp;&emsp;(A) all of the shareholders of which are rail carriers subject to part A of subtitle IV of title 49;
 
-&emsp;&emsp;(B) the primary business of which is the providing of railroad terminal and switching facilities and services to domestic railroad corporations providing transportation subject to subchapter I of chapter 105 of title 49 and to the shippers and passengers of such railroad corporations;
+&emsp;&emsp;(B) the primary business of which is the providing of railroad terminal and switching facilities and services to rail carriers subject to part A of subtitle IV of title 49 and to the shippers and passengers of such railroad corporations;
 
 &emsp;&emsp;(C) a substantial part of the services of which for the taxable year is rendered to one or more of its shareholders; and
 
@@ -64,13 +64,15 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 87–870, §1(a), Oct. 23, 1962, 76 Stat. 1158; amended Pub. L. 94–455, title XIX, §§1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 95–473, §2(a)(2)(D), (E), Oct. 17, 1978, 92 Stat. 1464.)
+(Added Pub. L. 87–870, §1(a), Oct. 23, 1962, 76 Stat. 1158; amended Pub. L. 94–455, title XIX, §§1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 95–473, §2(a)(2)(D), (E), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 104–88, title III, §304(b), Dec. 29, 1995, 109 Stat. 943.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a)(2), (d)(2), refers to the date of enactment of Pub. L. 87–870, which was approved Oct. 23, 1962.
 
 #### Amendments
+
+1995—Subsec. (d)(1)(A), (B). Pub. L. 104–88 substituted “rail carriers subject to part A of subtitle IV” for “domestic railroad corporations providing transportation subject to subchapter I of chapter 105”.
 
 1978—Subsec. (d)(1)(A). Pub. L. 95–473, §2(a)(2)(D), substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act (49 U.S.C. 1 and following)”.
 
@@ -79,6 +81,10 @@ Subsec. (d)(1)(B). Pub. L. 95–473, §2(a)(2)(E), substituted “providing tran
 1976—Subsec. (d)(1)(A). Pub. L. 94–455, §1901(a) (40)(A), inserted “(49 U.S.C. 1 and following)” after “Interstate Commerce Act”.
 
 Subsecs. (e), (f). Pub. L. 94–455, §§1901(a)(40)(B), 1906(b)(13)(A), redesignated subsec. (f) as (e) and struck out “or his delegate” after “Secretary”. Former subsec. (e), which made special provision for the application of this section to taxable years ending before Oct. 23, 1962, was struck out.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1976 Amendment
 

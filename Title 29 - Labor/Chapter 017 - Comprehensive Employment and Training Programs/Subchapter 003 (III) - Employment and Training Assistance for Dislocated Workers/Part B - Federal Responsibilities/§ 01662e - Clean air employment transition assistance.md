@@ -16,7 +16,7 @@
 
 #### (b) Grants authorized
 
-The Secretary may make grants to States, substate grantees (as defined in section 1661a(c) of this title), employers, employer associations, and representatives of employees—
+The Secretary may make grants to States, substate grantees (as defined in section 1661a(c)of this title), employers, employer associations, and representatives of employees—
 
 &emsp;(1) to provide training, adjustment assistance, and employment services to eligible individuals adversely affected by compliance with the Clean Air Act \[42 U.S.C. 7401 et seq.\]; and
 
@@ -76,7 +76,7 @@ Subject to the requirements of subsections (e) and (f) of this section, grants u
 
 #### (f) Needs-related payments
 
-The Secretary shall prescribe regulations with respect to the use of funds from grants undersubsection (b) of this section for needs-related payments in order to enable eligible individuals to complete training or education programs under this section. Such regulations shall—
+The Secretary shall prescribe regulations with respect to the use of funds from grants under subsection (b) of this section for needs-related payments in order to enable eligible individuals to complete training or education programs under this section. Such regulations shall—
 
 &emsp;(1) require that such payments shall be provided to an eligible individual only if such individual—
 

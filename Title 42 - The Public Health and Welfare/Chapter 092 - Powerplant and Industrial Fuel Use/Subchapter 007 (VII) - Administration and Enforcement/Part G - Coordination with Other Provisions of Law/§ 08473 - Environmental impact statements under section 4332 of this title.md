@@ -4,7 +4,7 @@ The following actions are not deemed to be major Federal actions for purposes of
 
 &emsp;(1) the grant or denial of any temporary exemption under this chapter for any electric powerplant;
 
-&emsp;(2) the grant or denial of any permanent exemption under this chapter for any existing electric powerplant, other than an exemption—
+&emsp;(2) the grant or denial of any permanent exemption under this chapter for any existingelectric powerplant, other than an exemption—
 
 &emsp;&emsp;(A) under section 8352(c) of this title, relating to cogeneration;
 

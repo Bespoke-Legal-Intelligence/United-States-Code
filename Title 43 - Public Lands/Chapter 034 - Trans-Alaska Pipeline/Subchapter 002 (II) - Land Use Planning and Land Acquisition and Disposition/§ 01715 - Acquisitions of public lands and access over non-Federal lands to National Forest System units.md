@@ -18,7 +18,7 @@ Lands and interests in lands acquired by the Secretary of Agriculture pursuant t
 
 #### (e) Status and administration of lands acquired in exchange for lands revested in or reconveyed to United States
 
-Lands acquired by the Secretary pursuant to this section or section 1716 of this title in exchange for lands which were revested in the United States pursuant to the provisions of the Act of June 9, 1916 (39 Stat. 218) or reconveyed to the United States pursuant to the provisions of the Act of February 26, 1919 (40 Stat. 1179), shall be considered for all purposes to have the same status as, and shall be administered in accordance with the same provisions of law applicable to, the revested or reconveyed lands exchanged for the lands acquired by the Secretary.
+Lands acquired by the Secretary pursuant to this section or section 1716 of this title in exchange for lands which were revested in the United States pursuant to the provisions of theAct of June 9, 1916 (39 Stat. 218) or reconveyed to the United States pursuant to the provisions of the Act of February 26, 1919 (40 Stat. 1179), shall be considered for all purposes to have the same status as, and shall be administered in accordance with the same provisions of law applicable to, the revested or reconveyed lands exchanged for the lands acquired by the Secretary.
 
 (Pub. L. 94–579, title II, §205, Oct. 21, 1976, 90 Stat. 2755; Pub. L. 99–632, §5, Nov. 7, 1986, 100 Stat. 3521.)
 

@@ -10,13 +10,17 @@ The Administrator shall keep the Committee on Science, Space, and Technology of 
 
 #### (c) Comment by Government agencies and the public
 
-The reports provided for in section 5910 of this title shall be made available to the public for comment, and to the heads of affected agencies for comment and, in the case of recommendations for action, for response.
+The reports provided for in section 5910 <sup>1</sup> of this title shall be made available to the public for comment, and to the heads of affected agencies for comment and, in the case of recommendations for action, for response.
 
 #### (d) Transmittal of research information to the Department of Energy
 
 For the purpose of assisting the Department of Energy in planning and assigning priorities in research development and demonstration activities related to environmental control technologies, the Administrator shall actively make available to the Department all information on research activities and results of research programs of the Environmental Protection Agency.
 
 (Pub. L. 95–477, §5, Oct. 18, 1978, 92 Stat. 1510; Pub. L. 103–437, §15(c)(6), Nov. 2, 1994, 108 Stat. 4592.)
+
+#### References in Text
+
+Section 5910 of this title, referred to in subsec. (c), was repealed by Pub. L. 104–66, title II, §2021(i), Dec. 21, 1995, 109 Stat. 727.
 
 #### Codification
 
@@ -28,5 +32,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

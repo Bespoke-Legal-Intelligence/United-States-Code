@@ -20,7 +20,7 @@ The Center shall—
 
 &emsp;(4) to identify, study, and review—
 
-&emsp;&emsp;(A) existing Federal, State, and local statutes, regulations, and fiscal policies which adversely affect productivity growth or the economic performance of the public and private sectors of the United States;
+&emsp;&emsp;(A) existing Federal, State, and local statutes, regulations, and fiscal policies which adversely affect productivity growth or theeconomic performance of the public and private sectors of the United States;
 
 &emsp;&emsp;(B) incentives to encourage industry and labor initiatives in the development of methods, techniques, and systems for the improved utilization of technological and human resources in the public and private sectors;
 
@@ -48,13 +48,13 @@ The Center shall—
 
 &emsp;(13) maintain liaison with organizations, both domestic and foreign, involved in efforts to improve productivity;
 
-&emsp;(14) determine the Nation's needs for productivity-related management and analyticalskills and to encourage and facilitate the development of training programs in such skills; and
+&emsp;(14) determine the Nation's needs for productivity-related management and analytical skills and to encourage and facilitate the development of training programs in such skills; and
 
 &emsp;(15) study the effects of materials availability upon productivity growth.
 
-(Pub. L. 94 136, title II, §204, Nov. 28, 1975, 89 Stat. 737; 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783.)
+(Pub. L. 94–136, title II, §204, Nov. 28, 1975, 89 Stat. 737; 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783.)
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in par. (4)(D) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1 102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in par. (4)(D) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

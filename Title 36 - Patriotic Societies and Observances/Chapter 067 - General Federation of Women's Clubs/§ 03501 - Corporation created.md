@@ -6,7 +6,7 @@ Mrs. Rebecca D. Lowe, Atlanta, Georgia; Mrs. Dimies T. S. Denison, New York, New
 
 #### (b) Tax exempt status
 
-The General Federation of Women's Clubs shall be organized and operated exclusively for charitable and educational purposes within the meaning of section 501(c)(3) of title 26 and shall otherwise comply with any requirements for classification as an exempt organization under such section. Said charitable purposes shall be achieved through volunteer efforts on the part of the membership of the General Federation of Women's Clubs, specifically including arts programs, conservation programs, educational programs, homelife programs, international affairs, public affairs programs advancing information regarding public affairs, and community improvement programs.
+The General Federation of Women's Clubs shall be organized and operated exclusively for charitable and educational purposes within the meaning of section 501(c)(3) of title 26 and shall otherwise comply with any requirements for classification as an exempt organization under such section. Said charitable purposes shall be achieved through volunteer efforts on the partof the membership of the General Federation of Women's Clubs, specifically including arts programs, conservation programs, educational programs, homelife programs, international affairs, public affairs programs advancing information regarding public affairs, and community improvement programs.
 
 #### (c) Use of assets on dissolution
 

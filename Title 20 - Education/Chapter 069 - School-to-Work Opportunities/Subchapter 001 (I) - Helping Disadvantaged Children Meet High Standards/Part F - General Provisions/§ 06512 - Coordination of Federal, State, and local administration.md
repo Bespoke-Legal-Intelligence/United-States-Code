@@ -32,9 +32,9 @@ The policy manual shall, with respect to programs carried out under this subchap
 
 The Secretary shall respond with written guidance not later than 90 days after any written request (return receipt requested) from a State or local educational agency regarding a policy, question, or interpretation under this subchapter is received. In the case of a request from a local educational agency, such agency is required to address its request to the State educational agency first.
 
-(Pub. L. 89 10, title I, §1602, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3610.)
+(Pub. L. 89–10, title I, §1602, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3610.)
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (b)(1), is title IV of Pub. L. 90 247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (b)(1), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 

@@ -56,21 +56,21 @@ Level V of the Executive Schedule, referred to in subsec. (c)(2)(B), is set out 
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–329 inserted “5545a,” after “5545(a), (b), and (c),”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–329 inserted “5545a,” after “5545(a), (b), and (c),”.
 
-1992—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: “For the purposes of this subsection, ‘law enforcement officer’ means any law enforcement officer within the meaning of section 8331(20) or section 8401(17).”
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: “For the purposes of this subsection, ‘law enforcement officer’ means any law enforcement officer within the meaning of section 8331(20) or section 8401(17).”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
 
 Subsec. (b). Pub. L. 101–509, §529 \[title II, §204(2)\], amended subsec. (b) generally, substituting present provisions for former provisions consisting of pars. (1) to (3) that related to pay of forest firefighters working on forest wildfire emergencies.
 
 Subsec. (c). Pub. L. 101–509, §529 \[title IV, §410(b)\], added subsec. (c).
 
-1988—Pub. L. 100–523 amended section generally, designating existing provisions as subsec. (a) and adding subsec. (b).
+<b>1988</b>—Pub. L. 100–523 amended section generally, designating existing provisions as subsec. (a) and adding subsec. (b).
 
-1984—Pub. L. 98–525 inserted “or the Department of Defense”.
+<b>1984</b>—Pub. L. 98–525 inserted “or the Department of Defense”.
 
-1982—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under section 5546a of this title.
+<b>1982</b>—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under section 5546a of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -98,5 +98,5 @@ Section 1 of Pub. L. 100–523 provided: “That this Act \[amending this sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 241.
+This section is referred to in title 2 section 1371.
 

@@ -52,7 +52,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 &emsp;An agreement entered into under this subsection shall—
 
-&emsp;&emsp;(A) set forth an amount agreed to as the maximum Federal contribution to the project, based upon a competitively bid document of basic design data and applicablestandard construction specifications and a determination of the federally eligible costs of the project at the applicable Federal share under section 1282 of this title;
+&emsp;&emsp;(A) set forth an amount agreed to as the maximum Federal contribution to the project, based upon a competitively bid document of basic design data and applicable standard construction specifications and a determination of the federally eligible costs of the project at the applicable Federal share under section 1282 of this title;
 
 &emsp;&emsp;(B) set forth dates for the start and completion of construction of the treatment works by the applicant and a schedule of payments of the Federal contribution to the project;
 

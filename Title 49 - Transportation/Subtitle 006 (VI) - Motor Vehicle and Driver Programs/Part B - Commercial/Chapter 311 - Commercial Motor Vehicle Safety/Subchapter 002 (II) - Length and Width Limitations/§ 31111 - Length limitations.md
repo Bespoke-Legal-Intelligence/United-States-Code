@@ -20,9 +20,11 @@ General Limitations.—(1) Except as provided in this section, a State may not p
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 
-&emsp;(C) has the effect of prohibiting the use of a semitrailer or trailer of the same dimensions as those that were in actual and lawful use in that State on December 1, 1982; or
+&emsp;(C) has the effect of prohibiting the use of a semitrailer or trailer of the same dimensions as those that were in actual and lawful use in that State on December 1, 1982;
 
-&emsp;(D) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State.
+&emsp;(D) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
+
+&emsp;(E) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events.
 
 (2) A length limitation prescribed or enforced by a State under paragraph (1)(A) of this subsection applies only to a semitrailer or trailer and not to a truck tractor.
 
@@ -48,7 +50,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 (4)(A) If the Secretary decides, on request of a chief executive officer or on the Secretary's own initiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the Secretary shall exempt the segment from either or both of those provisions. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
 
-(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, theSecretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
+(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
 
 (C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
 
@@ -56,7 +58,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919.)
 
 Historical and Revision Notes
 
@@ -139,6 +141,14 @@ In subsection (f), the word “commercial” is added before “motor vehicle”
 In subsection (f)(4)(C), the reference to regulations prescribed under subsection (e) is substituted for the reference in the source to regulations issued under subsection (a) to be more precise. The word “amendment” is substituted for “revision” for consistency in the revised title.
 
 Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
+
+#### Amendments
+
+1995—Subsec. (b)(1)(E). Pub. L. 104–88 added subpar. (E).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

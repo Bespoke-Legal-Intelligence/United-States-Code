@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the physician is authorized to perform the procedure in a hospital located in the area in which the office is located,
 
-&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title and furnished in connection with such surgical procedure to individuals enrolled under this part;
+&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determinedunder section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title and furnished in connection with such surgical procedure to individuals enrolled under this part;
 
 &emsp;&emsp;(G) covered items (described in section 1395m(a)(13) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services;
 
@@ -52,7 +52,7 @@
 
 (b) For definitions of “spell of illness”, “medical and other health services”, and other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 302; amended Jan. 2, 1968, Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), 81 Stat. 848, 851; Oct. 30, 1972, Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), 86 Stat. 1406, 1445; Dec. 13, 1977, Pub. L. 95–210, §1(a), 91 Stat. 1485; Dec. 5, 1980, Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), 94 Stat. 2631, 2635, 2637, 2643; Sept. 3, 1982, Pub. L. 97–248, title I, §148(c), 96 Stat. 394; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), 98 Stat. 1094, 1100; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), 100 Stat. 2013, 2033, 2041; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), 101 Stat. 1330–108, 1330–118, 1330–120, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), 102 Stat. 783, 786, 787, 789; July 1, 1988, Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), 102 Stat. 689, 721, 729, 783; Dec. 13,1989, Pub. L. 101–234, title I, §101(a), title II, §201(a), 103 Stat. 1979, 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §6116(a)(2), 103 Stat. 2219; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 302; amended Jan. 2, 1968, Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), 81 Stat. 848, 851; Oct. 30, 1972, Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), 86 Stat. 1406, 1445; Dec. 13, 1977, Pub. L. 95–210, §1(a), 91 Stat. 1485; Dec. 5, 1980, Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), 94 Stat. 2631, 2635, 2637, 2643; Sept. 3, 1982, Pub. L. 97–248, title I, §148(c), 96 Stat. 394; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), 98 Stat. 1094, 1100; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), 100 Stat. 2013, 2033, 2041; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), 101 Stat. 1330–108, 1330–118, 1330–120, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), 102 Stat. 783, 786, 787, 789; July 1, 1988, Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), 102 Stat. 689, 721, 729, 783; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), title II, §201(a), 103 Stat. 1979, 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §6116(a)(2), 103 Stat. 2219; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96.)
 
 #### References in Text
 
@@ -220,19 +220,19 @@ Amendment by section 251(a)(4) of Pub. L. 92–603 applicable with respect to se
 
 Amendment by section 129(c)(6)(B) of Pub. L. 90–248 applicable with respect to services furnished after Mar. 31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
-Section 133(g) of Pub. L. 90–248 provided that: “The amendments made by the preceding subsections of this section \[amending this section and sections 1395n,1395x, 1395aa, and 1395cc of this title\] shall apply to services furnished after June 30, 1968.”
-
-#### Quality and Utilization of In-Home Care for Chronically Dependent Individuals
-
-Section 205(e)(2) of Pub. L. 100–360, which required Secretary of Health and Human Services to take appropriate efforts to assure the quality and provide for appropriate utilization of in-home care for chronically dependent individuals under the amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
-
-#### Study of Alternative Out-of-Home Services
-
-Section 205(g) of Pub. L. 100–360, which required Secretary of Health and Human Services to study, and report to Congress, not later than 18 months after July 1, 1988, on advisability of providing, to chronically dependent individuals eligible for in-home care under amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], out-of-home services as alternative services to in-home care, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 133(g) of Pub. L. 90–248 provided that: “The amendments made by the preceding subsections of this section \[amending this section and sections 1395n, 1395x, 1395aa, and 1395cc of this title\] shall apply to services furnished after June 30, 1968.”
 
 #### Construction of Section 9320 of Pub. L. 99–509
 
 Section 9320(j) of Pub. L. 99–509 provided that: “Nothing in this section or the amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions of State law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision.”
+
+#### Quality and Utilization of In-Home Care for Chronically Dependent Individuals
+
+Section 205(e)(2) of Pub. L. 100–360 directed Secretary of Health and Human Services to take appropriate efforts to assure quality and provide for appropriate utilization of in-home care for chronically dependent individuals under the amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+
+#### Study of Alternative Out-of-Home Services
+
+Section 205(g) of Pub. L. 100–360, which required Secretary of Health and Human Services to study, and report to Congress, not later than 18 months after July 1, 1988, on advisability of providing, to chronically dependent individuals eligible for in-home care under amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], out-of-home services as alternative services to in-home care, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Continuation of Cost Pass-Through for Certified Registered Nurse Anesthetists
 

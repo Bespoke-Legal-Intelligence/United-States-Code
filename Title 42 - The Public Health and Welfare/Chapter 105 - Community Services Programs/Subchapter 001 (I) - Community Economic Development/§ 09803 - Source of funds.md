@@ -1,6 +1,6 @@
 ### §9803. Source of funds
 
-The Secretary is authorized to use funds made available to the Secretary under section 9910(c) <sup>1</sup>of this title for purposes of carrying out the provisions of this subchapter.
+The Secretary is authorized to use funds made available to the Secretary under section 9910(c) <sup>1</sup> of this title for purposes of carrying out the provisions of this subchapter.
 
 (Pub. L. 97–35, title VI, §614, Aug. 13, 1981, 95 Stat. 489; Pub. L. 99–425, title IV, §405(c)(3), Sept. 30, 1986, 100 Stat. 970.)
 

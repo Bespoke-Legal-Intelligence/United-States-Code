@@ -14,7 +14,7 @@ Fees.—The person operating and maintaining the facility shall establish and co
 
 (d)
 
-Availability of Amounts To Pay for Testing.—The Secretary shall make a contract with the operator of the facility under which theSecretary shall pay 80 percent of the cost of testing a vehicle at the facility from amounts available under section 5338(j)(5) of this title. The entity having the vehicle tested shall pay 20 percent of the cost.
+Availability of Amounts To Pay for Testing.—The Secretary shall make a contract with the operator of the facility under which the Secretary shall pay 80 percent of the cost of testing a vehicle at the facility from amounts available under section 5338(j)(5) of this title. The entity having the vehicle tested shall pay 20 percent of the cost.
 
 (e)
 

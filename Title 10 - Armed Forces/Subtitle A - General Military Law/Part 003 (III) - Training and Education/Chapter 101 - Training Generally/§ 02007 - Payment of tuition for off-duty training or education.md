@@ -32,7 +32,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in the following appropriation acts:
+Provisions similar to those in this section were contained in the following appropriation acts:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8017\], 98 Stat. 1904, 1926.
 
@@ -114,9 +114,35 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 #### Effective Date of 1986 Amendment
 
-Section 651(c) of Pub. L. 99–661 provided that: “Subsection (c) of section 2007 of title 10, United StatesCode, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\].”
+Section 651(c) of Pub. L. 99–661 provided that: “Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
+
+#### Tuition Payments Contingent Upon Agreement by Officer To Remain in Ready Reserve for At Least Four Years
+
+Pub. L. 104–61, title VIII, §8019, Dec. 1, 1995, 109 Stat. 655, provided that: “Funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be available for the payment of not more than 75 percent of the charges of a postsecondary educational institution for the tuition or expenses of an officer in the Ready Reserve of the Army National Guard or Army Reserve for education or training during his off-duty periods, except that no part of the charges may be paid unless the officer agrees to remain a member of the Ready Reserve for at least four years after completion of such training or education.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–335, title VIII, §8019, Sept. 30, 1994, 108 Stat. 2621.
+
+Pub. L. 103–139, title VIII, §8021, Nov. 11, 1993, 107 Stat. 1441.
+
+Pub. L. 102–396, title IX, §9025, Oct. 6, 1992, 106 Stat. 1906.
+
+Pub. L. 102–172, title VIII, §8025, Nov. 26, 1991, 105 Stat. 1177.
+
+Pub. L. 101–511, title VIII, §8025, Nov. 5, 1990, 104 Stat. 1880.
+
+Pub. L. 101–165, title IX, §9035, Nov. 21, 1989, 103 Stat. 1136.
+
+Pub. L. 100–463, title VIII, §8059, Oct. 1, 1988, 102 Stat. 2270–27.
+
+Pub. L. 100–202, §101(b) \[title VIII, §8072\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–74.
+
+Pub. L. 99–500, §101(c) \[title IX, §9076\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–114, and Pub. L. 99–591, §101(c) \[title IX, §9076\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–114.
+
+Pub. L. 99–190, §101(b) \[title VIII, §8086\], Dec. 19, 1985, 99 Stat. 1185, 1216.
 

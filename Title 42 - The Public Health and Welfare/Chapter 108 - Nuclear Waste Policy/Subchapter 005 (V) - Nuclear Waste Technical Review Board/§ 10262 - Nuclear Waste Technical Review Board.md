@@ -40,6 +40,10 @@ There is established a Nuclear Waste Technical Review Board that shall be an ind
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
+#### Continued Board Service After Expiration of Term
+
+Pub. L. 104–46, title V, §503, Nov. 13, 1995, 109 Stat. 419, provided that: “Without fiscal year limitation and notwithstanding section 502(b)(5) of the Nuclear Waste Policy Act, as amended \[42 U.S.C. 10262(b)(5)\], or any other provision of law, a member of the Nuclear Waste Technical Review Board whose term has expired may continue to serve as a member of the Board until such member's successor has taken office.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 10261 of this title.

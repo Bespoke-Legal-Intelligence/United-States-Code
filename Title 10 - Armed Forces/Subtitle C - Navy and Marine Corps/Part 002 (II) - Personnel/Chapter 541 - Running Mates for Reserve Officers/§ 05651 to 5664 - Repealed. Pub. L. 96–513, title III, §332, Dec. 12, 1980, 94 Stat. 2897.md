@@ -1,4 +1,4 @@
-### \[§§5651 to 5664 . Repealed. Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897\]
+### \[§§5651 to 5664. Repealed. Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897\]
 
 Section 5651, act Aug. 10, 1956, ch. 1041, 70A Stat. 332, related to eligibility of officers to be running mates.
 

@@ -44,7 +44,7 @@ Preventive Maintenance.—After January 1, 1995, the Secretary may approve an ap
 
 (f)
 
-Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shall be given by the time and contain the information the Secretary prescribes.
+Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shallbe given by the time and contain the information the Secretary prescribes.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1253; Pub. L. 103–305, title I, §§106, 107(a), Aug. 23, 1994, 108 Stat. 1572.)
 
@@ -106,7 +106,7 @@ In subsection (b)(2), the word “project” is substituted for “airport devel
 
 In subsection (c), the words “from time to time” are eliminated as unnecessary.
 
-In subsection (d), the words “in connection with any project” are omitted as surplus. The words “that the sponsor will comply with this subchapter in carrying out the project” are substituted for “that such sponsorwill comply with all of the statutory and administrative requirements imposed on such sponsor under this chapter in connection with such project” to eliminate unnecessary words. The words “or discharge” are omitted as included in “affect”. The words “including, but not limited to, the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), section 303 of title 49, title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000b) \[42 U.S.C. 2000d et seq.\], title VIII of the Act of April 11, 1968 (42 U.S.C. 3601 et seq.), and the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.)” are omitted as included in “another law of the United States”.
+In subsection (d), the words “in connection with any project” are omitted as surplus. The words “that the sponsor will comply with this subchapter in carrying out the project” are substituted for “that such sponsor will comply with all of the statutory and administrative requirements imposed on such sponsor under this chapter in connection with such project” to eliminate unnecessary words. The words “or discharge” are omitted as included in “affect”. The words “including, but not limited to, the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), section 303 of title 49, title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000b) \[42 U.S.C. 2000d et seq.\], title VIII of the Act of April 11, 1968 (42 U.S.C. 3601 et seq.), and the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.)” are omitted as included in “another law of the United States”.
 
 In subsection (e), the words “of an airport for which” are substituted for “to which” for clarity.
 

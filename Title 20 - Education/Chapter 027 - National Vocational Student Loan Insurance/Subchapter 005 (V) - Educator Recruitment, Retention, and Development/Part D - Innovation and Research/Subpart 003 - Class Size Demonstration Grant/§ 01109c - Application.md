@@ -26,15 +26,15 @@ Each application submitted pursuant to subsection (a) of this section shall incl
 
 The Secretary shall only award grants under this subpart to applicants having applications which describe projects of sufficient size and scope to contribute to carrying out the purposes of this subpart.
 
-(Pub. L. 89 329, title V, §564, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 701.)
+(Pub. L. 89–329, title V, §564, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 701.)
 
 #### Prior Provisions
 
-A prior section 1109c, Pub. L. 89 329, title V, §544, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100Stat. 1505; amended Pub. L. 100 50, §16(4), June 3, 1987, 101 Stat. 359, related to general criteria for grants under leadership in educational administration development program, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1109c, Pub. L. 89–329, title V, §544, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1505; amended Pub. L. 100–50, §16(4), June 3, 1987, 101 Stat. 359, related to general criteria for grants under leadership in educational administration development program, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 564 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1511, related to selection of Christa McAuliffe teacher fellowships and was classified to section 1113c of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 564 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1511, related to selection of Christa McAuliffe teacher fellowships and was classified to section 1113c of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 564 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2896, related to amount and duration of Carl D. Perkins Scholarships and relationship of Scholarships to other forms of assistance and was classified to section 1119d 3 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 564 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2896, related to amount and duration of Carl D. Perkins Scholarships and relationship of Scholarships to other forms of assistance and was classified to section 1119d–3 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §3393 . Career appointments
+### §3393. Career appointments
 
 (a) Each agency shall establish a recruitment program, in accordance with guidelines which shall be issued by the Office of Personnel Management, which provides for recruitment of career appointees from—
 
@@ -12,7 +12,7 @@
 
 &emsp;(2) making written recommendations to the appropriate appointing authority concerning such candidates.
 
-(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of the members of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
+(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of themembers of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
 
 (2) The Office shall, in consultation with the various qualification review boards, prescribe criteria for establishing executive qualifications for appointment of career appointees. The criteria shall provide for—
 
@@ -38,15 +38,15 @@ A prior section 3393, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
+<b>1990</b>—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
 
-1989—Subsec. (g). Pub. L. 101–194, as amended by Pub. L. 101–280, inserted “3393a,” after “1215,”.
+<b>1989</b>—Subsec. (g). Pub. L. 101–194, as amended by Pub. L. 101–280, inserted “3393a,” after “1215,”.
 
 Pub. L. 101–12 substituted “1215” for “1207”.
 
-1984—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
 
-1981—Subsec. (g). Pub. L. 97–35 added subsec. (g).
+<b>1981</b>—Subsec. (g). Pub. L. 97–35 added subsec. (g).
 
 #### Effective Date of 1989 Amendments
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Section 307 of title III of Pub. L. 98–615 provided that: “The amendments made by this title \[enacting section 3595a of this title, amending this section and sections 3135, 3593 to 3595, 4312, 5383, and 5384 of this title, and enacting provisions set out as a note under section 3131 of this title\] shall be effective following the expiration of the 90-day period beginning on the date of enactment of this Act \[Nov. 8, 1984\], except that the amendments made by section 304 \[amending sections 3395, 3595, 7543, and 8336 of this title\] shall be effective as of such date of enactment.”
 
 #### Effective Date of 1981 Amendment
 

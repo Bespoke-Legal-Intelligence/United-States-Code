@@ -80,7 +80,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (3) Advances to the employment security administration account made under this subsection shall bear interest until repaid at a rate equal to the average rate of interest (computed as of the end of the calendar month next preceding the date of such advance) borne by all interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest shall be the multiple of one-eighth of 1 per centum next lower than such average rate.
 
-(4) Advances to the employment security administration account made under this subsection, plus interest accrued thereon, shall be repaid by the transfer from time to time, fromthe employment security administration account to the revolving fund, of such amounts as the Secretary of the Treasury, in consultation with the Secretary of Labor, determines to be available in the employment security administration account for such repayment. Any amount transferred as a repayment under this paragraph shall be credited against, and shall operate to reduce, any balance of advances (plus accrued interest) repayable under this subsection.
+(4) Advances to the employment security administration account made under this subsection, plus interest accrued thereon, shall be repaid by the transfer from time to time, from the employment security administration account to the revolving fund, of such amounts as the Secretary of the Treasury, in consultation with the Secretary of Labor, determines to be available in the employment security administration account for such repayment. Any amount transferred as a repayment under this paragraph shall be credited against, and shall operate to reduce, any balance of advances (plus accrued interest) repayable under this subsection.
 
 #### (f) Determination of excess in Account; limitation on amount to be retained; use of balance in Account during certain fiscal years; net balance
 
@@ -106,7 +106,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and\(d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 271(b)(2)(A) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, and amendment by section 271(c)(3)(D) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(1), (2) of Pub. L. 97–248, as amended, setout as a note under section 3301 of Title 26, Internal Revenue Code.
+Amendment by section 271(b)(2)(A) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, and amendment by section 271(c)(3)(D) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(1), (2) of Pub. L. 97–248, as amended, set out as a note under section 3301 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1976 Amendment
 

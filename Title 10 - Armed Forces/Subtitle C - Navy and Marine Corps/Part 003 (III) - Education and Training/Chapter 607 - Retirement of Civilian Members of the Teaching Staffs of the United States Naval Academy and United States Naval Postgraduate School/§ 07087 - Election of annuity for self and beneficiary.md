@@ -1,4 +1,4 @@
-### §7087 . Election of annuity for self and beneficiary
+### §7087. Election of annuity for self and beneficiary
 
 (a) At the time of his retirement, a civilian member retiring under this chapter may elect to receive instead of the amount payable annually by the Secretary of the Navy under section 7085 or 7086 of this title a reduced annuity for his life and an annuity payable after his death to his beneficiary in either—
 

@@ -7,7 +7,6 @@
 | (a) | Preparation of plan. |
 | (b) | Transmittal of plan to Congress. |
 | (c) | Requisite provisions of plan. |
-| (d) | Plan modifications. |
 | [9003\.](%C2%A7%2009003%20-%20Research%20and%20development.md) | Research and development. |
 | (a) | Initiation of research. |
 | (b) | Evaluations, tests, and dissemination of information, data, and materials. |

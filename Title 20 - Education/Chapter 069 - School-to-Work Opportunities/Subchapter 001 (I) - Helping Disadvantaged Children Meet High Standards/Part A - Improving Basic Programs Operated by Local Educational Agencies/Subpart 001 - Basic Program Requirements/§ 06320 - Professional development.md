@@ -58,7 +58,7 @@ Each local educational agency receiving assistance under this part is encouraged
 
 #### (d) Parental participation
 
-Parents may participate in professional development activities under this part if the school determines that parental participation is appropriate.
+Parents may participate in professional development activities under this part if the schooldetermines that parental participation is appropriate.
 
 #### (e) Consortia
 
@@ -116,11 +116,11 @@ Funds provided under this part that are used for professional development purpos
 
 &emsp;Each local educational agency receiving funds under this part, when feasible, shall include instructional aides in professional development activities.
 
-(Pub. L. 89 10, title I, §1119, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3555.)
+(Pub. L. 89–10, title I, §1119, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3555.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (b)(1)(C) and (g), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (b)(1)(C) and (g), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

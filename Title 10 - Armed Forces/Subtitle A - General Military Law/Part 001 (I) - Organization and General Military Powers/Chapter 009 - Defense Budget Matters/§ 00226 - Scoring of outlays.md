@@ -1,4 +1,4 @@
-### §226 . Scoring of outlays
+### §226. Scoring of outlays
 
 (a)
 
@@ -6,7 +6,7 @@ Annual OMB/CBO Report.—Not later than December 15 of each year, the Director o
 
 &emsp;(1) the technical assumptions to be used by the Office of Management and Budget in preparing estimates with respect to all accounts in major functional category 050 (National Defense) for the budget to be submitted to Congress in the following year pursuant to section 1105 of title 31; and
 
-&emsp;(2) the technical assumptions to be used by the Congressional Budget Office in preparing estimates with respect to those accounts for that budget.
+&emsp;(2) the technical assumptions to be used by the Congressional Budget Office in preparingestimates with respect to those accounts for that budget.
 
 (b)
 
@@ -20,11 +20,11 @@ Matters To Be Included.—The report with respect to a budget shall identify the
 
 &emsp;(2) The agreed amount of outlays estimated to occur from unexpended appropriations made for fiscal years before the fiscal year that begins after submission of the report.
 
-(Added Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, §221; renumbered §226, Pub. L. 102–484, div. A, title X,§1002(a)(1), Oct. 23, 1992, 106 Stat. 2480; amended Pub. L. 103–160, div. A, title XI, §1104, Nov. 30, 1993, 107 Stat. 1749.)
+(Added Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, §221; renumbered §226, Pub. L. 102–484, div. A, title X, §1002(a)(1), Oct. 23, 1992, 106 Stat. 2480; amended Pub. L. 103–160, div. A, title XI, §1104, Nov. 30, 1993, 107 Stat. 1749.)
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 101–189, §5(a), Nov. 29, 1989, 103 Stat. 1364, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–190, §1002(b)(1).
+Provisions similar to those in this section were contained in Pub. L. 101–189, §5(a), Nov. 29, 1989, 103 Stat. 1364, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–190, §1002(b)(1).
 
 #### Amendments
 

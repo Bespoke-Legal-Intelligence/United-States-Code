@@ -12,7 +12,7 @@
 
 #### (3) Information
 
-&emsp;The Secretary shall include information on the operation and the number of fellowships awarded under the fellowship program in theevaluation required under section 7479 of this title.
+&emsp;The Secretary shall include information on the operation and the number of fellowships awarded under the fellowship program in the evaluation required under section 7479 of this title.
 
 #### (b) Fellowship requirements
 
@@ -32,5 +32,5 @@
 
 In awarding fellowships under this section the Secretary may give priority to institutions of higher education that demonstrate experience in assisting fellowship recipients find employment in the field of bilingual education.
 
-(Pub. L. 89 10, title VII, §7145, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3734.)
+(Pub. L. 89–10, title VII, §7145, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3734.)
 

@@ -1,0 +1,346 @@
+### §2001. Debt restructuring and loan servicing
+
+#### (a) In general
+
+The Secretary shall modify delinquent farmer program loans made or insured under this chapter, or purchased from the lender or the Federal Deposit Insurance Corporation under section 1929b of this title, to the maximum extent possible—
+
+&emsp;(1) to avoid losses to the Secretary on such loans, with priority consideration being placed on writing-down the loan principal and interest (subject to subsections (d) and (e) of this section), and debt set-aside (subject to subsection (e) of this section), whenever these procedures would facilitate keeping the borrower on the farm or ranch, or otherwise through the use of primary loan service programs as provided in this section; and
+
+&emsp;(2) to ensure that borrowers are able to continue farming or ranching operations.
+
+#### (b) Eligibility
+
+To be eligible to obtain assistance under subsection (a) of this section—
+
+&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section;
+
+&emsp;(2) the borrower must have acted in good faith with the Secretary in connection with the loan as defined in regulations issued by the Secretary;
+
+&emsp;(3) the borrower must present a preliminary plan to the Secretary that contains reasonable assumptions that demonstrate that the borrower will be able to—
+
+&emsp;&emsp;(A) meet the necessary family living and farm operating expenses; and
+
+&emsp;&emsp;(B) service all debts, including those of the loans restructured; and
+
+&emsp;(4) the loan, if restructured, must result in a net recovery to the Federal Government, during the term of the loan as restructured, that would be more than or equal to the net recovery to the Federal Government from an involuntary liquidation or foreclosure on the property securing the loan.
+
+#### (c) Restructuring determinations
+
+#### (1) Determination of net recovery
+
+&emsp;In determining the net recovery from the involuntary liquidation of a loan under this section, the Secretary shall calculate—
+
+&emsp;&emsp;(A) the recovery value of the collateral securing the loan, in accordance with paragraph (2); and
+
+&emsp;&emsp;(B) the value of the restructured loan, in accordance with paragraph (3).
+
+#### (2) Recovery value
+
+&emsp;For the purpose of paragraph (1), the recovery value of the collateral securing the loan shall be based on—
+
+&emsp;&emsp;(A)(i) the amount of the current appraised value of the interests of the borrower in the property securing the loan; plus
+
+&emsp;&emsp;(ii) the value of the interests of the borrower in all other assets that are—
+
+&emsp;&emsp;&emsp;(I) not essential for necessary family living expenses;
+
+&emsp;&emsp;&emsp;(II) not essential to the operation of the farm; and
+
+&emsp;&emsp;&emsp;(III) not exempt from judgment creditors or in a bankruptcy action under Federal or State law; less
+
+&emsp;&emsp;(B) the estimated administrative, legal, and other expenses associated with the liquidation and disposition of the loan and collateral, including—
+
+&emsp;&emsp;&emsp;(i) the payment of prior liens;
+
+&emsp;&emsp;&emsp;(ii) taxes and assessments, depreciation, management costs, the yearly percentage decrease or increase in the value of the property, and lost interest income, each calculated for the average holding period for the type of property involved;
+
+&emsp;&emsp;&emsp;(iii) resale expenses, such as repairs, commissions, and advertising; and
+
+&emsp;&emsp;&emsp;(iv) other administrative and attorney's costs; plus
+
+&emsp;&emsp;(C) the value, as determined by the Secretary, of any property not included in subparagraph (A)(i) if the property is specified in any security agreement with respect to such loan and the Secretary determines that the value of such property should be included for purposes of this section.
+
+#### (3) Value of the restructured loan
+
+#### (A) In general
+
+&emsp;&emsp;For the purpose of paragraph (1), the value of the restructured loan shall be based on the present value of payments that the borrower would make to the Federal Government if the terms of such loan were modified under any combination of primary loan service programs to ensure that the borrower is able to meet such obligations and continue farming operations.
+
+#### (B) Present value
+
+&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), the Secretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
+
+#### (C) Debt service margin
+
+#### (i) Assumption
+
+&emsp;&emsp;&emsp;For the purpose of assessing under subparagraph (A) the ability of a borrower to meet debt obligations and continue farming operations, the Secretary shall assume that the borrower needs up to 105 percent of the amount indicated for payment of debt obligations.
+
+#### (ii) Available income
+
+&emsp;&emsp;&emsp;If an amount up to 105 percent of the debt payments of the borrower has been earmarked for such payments, the Secretary shall consider the income of the borrower to be adequate to meet the debt obligations of the borrower.
+
+#### (4) Notification
+
+&emsp;Within 90 days after receipt of a written request for restructuring from the borrower, the Secretary shall—
+
+&emsp;&emsp;(A) make the calculations specified in paragraphs (2) and (3);
+
+&emsp;&emsp;(B) notify the borrower in writing of the results of such calculations; and
+
+&emsp;&emsp;(C) provide documentation for the calculations.
+
+#### (5) Restructuring of loans
+
+&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
+
+#### (6) Termination of loan obligations
+
+#### (A) Required conditions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), the obligations of a borrower to the Secretary under a restructured loan shall terminate if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the borrower satisfies the requirements of paragraphs (1) and (2) of subsection (b) of this section;
+
+&emsp;&emsp;&emsp;&emsp;(II) the value of the restructured loan is less than the recovery value; and
+
+&emsp;&emsp;&emsp;&emsp;(III) within 90 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value.
+
+#### (ii) Limited applicability of good faith requirement
+
+&emsp;&emsp;&emsp;Clause (i)(I) shall not apply to any offer of net recovery buyout made by the Secretary under this section before November 28, 1990, unless the Secretary, before such date, determined that the borrower involved did not act in good faith with respect to the loan.
+
+#### (B) Recapture
+
+#### (i) Authority to require borrower to enter into agreement before terminating loan obligations
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may require, as a condition of the termination of loan obligations under this paragraph, that the borrower enter into an agreement with the Secretary providing that if the borrower sells or otherwise conveys the real property used to secure such loan within 10 years after the date of such agreement, and realizes a gain on such sale or conveyance over the amount of the recovery value of the loan, then the Secretary may recapture part or all of the difference between the recovery value of the loan and the fair market value (on the date of such sale or conveyance) of the property securing the loan.
+
+#### (II) Limitation on recapture amount
+
+&emsp;&emsp;&emsp;&emsp;The agreement described in subclause (I) shall not provide for recapture of an amount that exceeds the difference between such recovery value and the outstanding balance of principal and interest owed on the loan immediately prior to the termination of any loan obligations under this paragraph.
+
+#### (ii) Treatment of intrafamily transfers
+
+&emsp;&emsp;&emsp;For purposes of clause (i)(I), transfer of title to a property, on the death or retirement of the borrower, to a spouse or child of the borrower who is actively engaged in farming on the property shall not be treated as a sale or conveyance.
+
+#### (7) Negotiation of appraisal
+
+#### (A) In general
+
+&emsp;&emsp;In making a determination concerning restructuring under this subsection, the Secretary, at the request of the borrower, shall enter into negotiations concerning appraisals required under this subsection with the borrower.
+
+#### (B) Independent appraisal
+
+&emsp;&emsp;If the borrower, based on a separate current appraisal, objects to the decision of the Secretary regarding an appraisal, the borrower and the Secretary shall mutually agree, to the extent practicable, on an independent appraiser who shall conduct another appraisal of the borrower's property. The average of the two appraisals that are closest in value shall become the final appraisal under this paragraph. The borrower and the Secretary shall each pay one-half of the cost of the independent appraisal.
+
+#### (d) Principal and interest write-down
+
+#### (1) In general
+
+#### (A) Priority consideration
+
+&emsp;&emsp;In selecting the restructuring alternatives to be used in the case of a borrower who has requested restructuring under this section, the Secretary shall give priority consideration to the use of principal and interest write-down, except that this procedure shall not be given first priority in the case of a borrower unless other creditors of such borrower (other than those creditors who are fully collateralized) representing a substantial portion of the total debt of the borrower held by such creditors, agree to participate in the development of the restructuring plan or agree to participate in a State mediation program.
+
+#### (B) Failure of creditors to agree
+
+&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principal and interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
+
+#### (2) Participation of creditors
+
+&emsp;Before eliminating the option to use debt write-down in the case of a borrower, the Secretary shall make a reasonable effort to contact the creditors of such borrower, either directly or through the borrower, and encourage such creditors to participate with the Secretary in the development of a restructuring plan for the borrower.
+
+#### (e) Shared appreciation arrangements
+
+#### (1) In general
+
+&emsp;As a condition of restructuring a loan in accordance with this section, the borrower of the loan may be required to enter into a shared appreciation arrangement that requires the repayment of amounts written off or set aside.
+
+#### (2) Terms
+
+&emsp;Shared appreciation agreements shall have a term not to exceed 10 years, and shall provide for recapture based on the difference between the appraised values of the real security property at the time of restructuring and at the time of recapture.
+
+#### (3) Percentage of recapture
+
+&emsp;The amount of the appreciation to be recaptured by the Secretary shall be 75 percent of the appreciation in the value of such real security property if the recapture occurs within 4 years of the restructuring, and 50 percent if the recapture occurs during the remainder of the term of the agreement.
+
+#### (4) Time of recapture
+
+&emsp;Recapture shall take place at the end of the term of the agreement, or sooner—
+
+&emsp;&emsp;(A) on the conveyance of the real security property;
+
+&emsp;&emsp;(B) on the repayment of the loans; or
+
+&emsp;&emsp;(C) if the borrower ceases farming operations.
+
+#### (5) Transfer of title
+
+&emsp;Transfer of title to the spouse of a borrower on the death of such borrower shall not be treated as a conveyance for the purpose of paragraph (4).
+
+#### (f) Determination to restructure
+
+If the appeal process results in a determination that a loan is eligible for restructuring, the Secretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
+
+#### (g) Prerequisites to foreclosure or liquidation
+
+No foreclosure or other similar actions shall be taken to liquidate any loan determined to be ineligible for restructuring by the Secretary under this section—
+
+&emsp;(1) until the borrower has been given the opportunity to appeal such decision; and
+
+&emsp;(2) if the borrower appeals, the appeals process has been completed, and a determination has been made that the loan is ineligible for restructuring.
+
+#### (h) Time limits for restructuring
+
+Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a decision shall be made at each level in the appeals process within 45 days after the receipt of the appeal or request for further review.
+
+#### (i) Notice of ineligibility for restructuring
+
+#### (1) In general
+
+&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered or certified mail within 15 days after such determination.
+
+#### (2) Contents
+
+&emsp;The notice required under paragraph (1) shall contain—
+
+&emsp;&emsp;(A) the determination and the reasons for the determination;
+
+&emsp;&emsp;(B) the computations used to make the determination, including the calculation of the recovery value of the collateral securing the loan; and
+
+&emsp;&emsp;(C) a statement of the right of the borrower to appeal the decision to the appeals division, and to appear before a hearing officer.
+
+#### (j) Independent appraisals
+
+An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
+
+#### (k) Future creditworthiness of borrower determined without regard to restructuring
+
+The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.
+
+#### (<i>l</i>) Partial liquidations
+
+If partial liquidations are performed (with the prior consent of the Secretary) as part of loan servicing by a guaranteed lender under this chapter, the Secretary shall not require full liquidation of a delinquent loan in order for the lender to be eligible to receive payment on losses.
+
+#### (m) Disposition of normal income security
+
+For purposes of subsection (b)(2) of this section, and subparagraphs (A)(i) and (C)(i) of section 1985(e)(1) of this title, if a borrower—
+
+&emsp;(1) disposed of normal income security prior to October 14, 1988, without the consent of the Secretary; and
+
+&emsp;(2) demonstrates that—
+
+&emsp;&emsp;(A) the proceeds were utilized to pay essential household and farm operating expenses; and
+
+&emsp;&emsp;(B) the borrower would have been entitled to a release of income proceeds by the Secretary if the regulations in effect on November 28, 1990, had been in effect at the time of the disposition,
+
+> the Secretary shall not consider the borrower to have acted without good faith to the extent of the disposition.
+
+#### (n) Only 1 write-down or net recovery buy-out per borrower for loan made after January 6, 1988
+
+#### (1) In general
+
+&emsp;The Secretary may provide for any one borrower not more than 1 write-down or net recovery buy-out under this section with respect to all loans made to the borrower after January 6, 1988.
+
+#### (2) Special rule
+
+&emsp;For purposes of paragraph (1), the Secretary shall treat any loan made on or before January 6, 1988, with respect to which a restructuring, write-down, or net recovery buy-out is provided under this section after such date, as a loan made after such date.
+
+#### (<i>o</i>) Liquidation of assets
+
+The Secretary may not use the authority provided by this section to reduce or terminate any portion of the debt of the borrower that the borrower could pay through the liquidation of assets (or through the payment of the loan value of the assets, if the loan value is greater than the liquidation value) described in subsection (c)(2)(A)(ii) of this section.
+
+#### (p) Lifetime limitation on debt forgiveness per borrower
+
+The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
+
+(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868.)
+
+#### References in Text
+
+For definition of “this chapter”, referred to in subsecs. (a), (c)(5), and (<i>l</i>), see note set out under section 1921 of this title.
+
+Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
+
+#### Amendments
+
+1991—Subsec. (c)(6)(A)(ii). Pub. L. 102–237, §501(h)(1), substituted “November 28, 1990” for “the date of enactment of this paragraph”.
+
+Subsec. (m). Pub. L. 102–237, §501(h)(2), substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
+
+1990—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section”.
+
+Subsec. (c)(2)(A). Pub. L. 101–624, §1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
+
+Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §1816(b)(2)(A), substituted “costs; plus” for “costs.”
+
+Subsec. (c)(2)(C). Pub. L. 101–624, §1816(b)(2)(B), added subpar. (C).
+
+Subsec. (c)(3)(C). Pub. L. 101–624, §1816(c), added subpar. (C).
+
+Subsec. (c)(4). Pub. L. 101–624, §1816(d), substituted “90” for “60” in introductory provisions.
+
+Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwiseconveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
+
+Subsec. (c)(7). Pub. L. 101–624, §1816(g), added par. (7).
+
+Subsecs. (<i>l</i>) to (p). Pub. L. 101–624, §1816(h), added subsecs. (<i>l</i>) to (p).
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Section 1861 of title XVIII of Pub. L. 101–624 provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this title, this title and the amendments made by this title \[enacting sections 1981f and 2006a to 2006e of this title, section 2076a of Title 12, Banks and Banking, and section 494 of Title 25, Indians, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title, section 3132 of Title 5, Government Organization and Employees, sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and section 492 of Title 25, enacting provisions set out as notes under section 1981f of this title and section 2001 of Title 12, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title\] shall become effective on the date of enactment of this Act \[Nov. 28, 1990\].
+
+“(b)
+
+Notice of Debt Settlement Programs.—The amendment made by section 1807(1) of this Act \[amending section 1981d(b)(1) of this title\] shall become effective 120 days after the date of enactment of this Act \[Nov. 28, 1990\].
+
+“(c)
+
+Debt Restructuring and Loan Servicing.—
+
+&emsp;“(1)
+
+In general.—Except as provided in section 353(c)(6)(A)(ii) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 2001(c)(6)(A)(iii)\] (as added by section 1816(f) of this Act) and in paragraph (3) of this subsection, section 1816 of this Act and the amendments made by such section 1816 \[amending this section and section 1985 of this title\] shall apply to new applications submitted under section 353 of the Consolidated Farm and Rural Development Act (7 U.S.C. 2001) on or after the date of enactment of this Act \[Nov. 28, 1990\].
+
+&emsp;“(2)
+
+Definition of new application.—As used in paragraph (1), the term ‘new application’ means an application submitted by a borrower to initiate a debt restructuring consideration and not an application reconsidered after an appeal or revision of the original application.
+
+&emsp;“(3)
+
+Liquidation of assets.—Section 353(<i>o</i>) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 2001(<i>o</i>)\] (as added by section 1816(h) of this Act) shall not apply until the Secretary of Agriculture has issued final regulations to carry out such section 353(<i>o</i>).
+
+“(d)
+
+Restoration of First Lien on Stock.—The amendment made by section 1833 of this Act \[enacting section 2076a of Title 12 and amending section 2077 of Title 12\] shall be effective as of January 7, 1988.
+
+“(e)
+
+Regulations.—As soon as practicable after the date of enactment of this Act \[Nov. 28, 1990\]—
+
+&emsp;“(1) the Secretary of Agriculture shall issue such regulations as are necessary to carry out subtitles A and C of this Act \[probably means subtitles A (§§1801–1824) and C (§§1851–1854) of title XVIII of Pub. L. 101–624, enacting sections 1981f and 2006a to 2006e of this title and section 494 of Title 25, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title and section 492 of Title 25, enacting provisions set out as a note under section 1981f of this title, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title\] and the amendments made by such subtitles; and
+
+&emsp;“(2) the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act \[probably means subtitle B (§§1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12\] and the amendments made by such subtitle.”
+
+#### Suspension of Collection Activities During Transition Period
+
+Section 615(d) of Pub. L. 100–233 provided that: “The Secretary of Agriculture shall not initiate any acceleration, foreclosure, or liquidation in connection with any delinquent farmer program loan before the date the Secretary has issued final regulations to carry out the amendments made by this section \[enacting section 2001 of this title and amending sections 1927a and 1981 of this title\]. The preceding sentence shall not prohibit the Secretary from taking any action with respect to waste, fraud, or abuse by the borrower.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1985, 1991, 2001a, 2005 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

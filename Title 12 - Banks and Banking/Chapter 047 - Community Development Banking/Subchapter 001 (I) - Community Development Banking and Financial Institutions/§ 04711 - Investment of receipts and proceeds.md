@@ -10,7 +10,7 @@ Upon request of the Administrator, the Secretary of the Treasury shall invest am
 
 #### (c) Availability
 
-Amounts deposited into the account and interest earned on such amounts pursuant to this section shall be available to the Fund until expended.
+Amounts deposited into the account and interest earned on such amounts pursuant to thissection shall be available to the Fund until expended.
 
 (Pub. L. 103–325, title I, §112, Sept. 23, 1994, 108 Stat. 2177.)
 

@@ -2,7 +2,7 @@
 
 In order to render financial assistance to those States and localities in which the activities of the Commission are carried on, and in which the Commission has acquired property previously subject to State and local taxation, the Commission is authorized to make payments to State and local governments in lieu of property taxes. Such payments may be in the amounts, at the times, and upon the terms the Commission deems appropriate, but the Commission shall be guided by the policy of not making payments in excess of the taxes which would have been payable for such property in the condition in which it was acquired, except in cases where special burdens have been cast upon the State or local government by activities of the Commission, the Manhattan Engineer District or their agents. In any such case, any benefit accruing to the State or local government by reason of such activities shall be considered in determining the amount of the payment.
 
-(Aug. 1, 1946, ch. 724, title I, §168, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 952; renumberedtitle I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §168, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 952; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -10,7 +10,7 @@ Provisions similar to this section were contained in section 1809(b) of this tit
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 
 #### Section Referred to in Other Sections
 

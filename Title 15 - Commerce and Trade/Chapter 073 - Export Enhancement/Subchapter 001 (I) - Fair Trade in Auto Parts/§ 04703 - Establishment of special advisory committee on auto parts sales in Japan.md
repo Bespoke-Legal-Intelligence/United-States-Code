@@ -26,5 +26,5 @@ The Special Advisory Committee established under subsection (b) of this section 
 
 The Secretary of Commerce shall draw on existing budget authority in carrying out this subchapter.
 
-(Pub. L. 100 418, title II, §2124, Aug. 23, 1988, 102 Stat. 1326.)
+(Pub. L. 100–418, title II, §2124, Aug. 23, 1988, 102 Stat. 1326.)
 

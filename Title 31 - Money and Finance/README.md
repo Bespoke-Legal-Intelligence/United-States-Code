@@ -1,5 +1,5 @@
 
-31 U.S.C.<br>United States Code, 1994 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
+31 U.S.C.<br>United States Code, 1995 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 31—MONEY AND FINANCE
 
@@ -42,15 +42,15 @@ Rep.
 
 1105
 
-11(g)(1st–3d sentences)
+11(g) (1st–3d sentences)
 
 1106
 
-11(g)(last sentence)–(i)(1st sentence)
+11(g) (last sentence)–(i) (1st sentence)
 
 1105
 
-11(i)(last sentence),(j)
+11(i) (last sentence), (j)
 
 1108
 
@@ -98,19 +98,19 @@ Rep.
 
 1108
 
-16(1st sentence)
+16 (1st sentence)
 
 501
 
-16(2d, 3d sentences)
+16 (2d, 3d sentences)
 
 502
 
-16(last sentence related to preparation of budgets and appropriations)
+16 (last sentence related to preparation of budgets and appropriations)
 
 1104
 
-16(last sentence related to appropriations request)
+16 (last sentence related to appropriations request)
 
 1108
 
@@ -126,11 +126,11 @@ Rep.
 
 502
 
-17(a)(related to employees)
+17(a) (related to employees)
 
 521
 
-17(a)(related to expenses)
+17(a) (related to expenses)
 
 522
 
@@ -186,11 +186,11 @@ Rep.
 
 702
 
-42(a)(1st sentence words before comma)
+42(a) (1st sentence words before comma)
 
 702
 
-42(a)(1st sentence words after comma, last sentence), (b)
+42(a) (1st sentence words after comma, last sentence), (b)
 
 703
 
@@ -198,23 +198,23 @@ Rep.
 
 703
 
-43(1st par.)
+43 (1st par.)
 
 703
 
-43(2d par. 1st, 2d, 4th, last sentences)
+43 (2d par. 1st, 2d, 4th, last sentences)
 
 772
 
-43(2d par. 3d sentence)
+43 (2d par. 3d sentence)
 
 779
 
-43(3d par.)
+43 (3d par.)
 
 772
 
-43(last par.)
+43 (last par.)
 
 775
 
@@ -242,11 +242,11 @@ Rep.
 
 778
 
-43b(i), (j)(less last 13 words before colon)
+43b(i), (j) (less last 13 words before colon)
 
 775
 
-43b(j)(last 13 words before colon)
+43b(j) (last 13 words before colon)
 
 776
 
@@ -278,11 +278,11 @@ Rep.
 
 777
 
-44(1st sentence)
+44 (1st sentence)
 
 711, 731, 3301, 3323, 3324, 3521, 3522, 3526, 3529, 3531, 3541, 3702, (See §2(b) of Pub. L. 97–258)
 
-44(2d, last sentences)
+44 (2d, last sentences)
 
 3526
 
@@ -322,11 +322,11 @@ Rep.
 
 711
 
-52–1(related to appointment, pay and assignment)
+52–1 (related to appointment, pay and assignment)
 
 731
 
-52–1(related to direct)
+52–1 (related to direct)
 
 711
 
@@ -390,11 +390,11 @@ Rep.
 
 731
 
-53(a)(1st sentence words before 5th comma)
+53(a) (1st sentence words before 5th comma)
 
 712
 
-53(a)(1st sentence words after 5th comma, last sentence)
+53(a) (1st sentence words after 5th comma, last sentence)
 
 719
 
@@ -426,11 +426,11 @@ Rep.
 
 Rep.
 
-59, 60(1st sentence)
+59, 60 (1st sentence)
 
 712
 
-60(last sentence)
+60 (last sentence)
 
 719
 
@@ -458,11 +458,11 @@ Rep.
 
 3511
 
-66(b)(less Treasury Department)
+66(b) (less Treasury Department)
 
 3512
 
-66(b)(related to Treasury Department)
+66(b) (related to Treasury Department)
 
 3513
 
@@ -530,11 +530,11 @@ Rep.
 
 9502
 
-71(related to accounts)
+71 (related to accounts)
 
 3526
 
-71(related to claims)
+71 (related to claims)
 
 3702
 
@@ -546,11 +546,11 @@ Rep.
 
 Rep.
 
-74(1st, 2d pars., last par. words after 4th comma)
+74 (1st, 2d pars., last par. words after 4th comma)
 
 3526
 
-74(last par. words before 4th comma)
+74 (last par. words before 4th comma)
 
 3529
 
@@ -558,11 +558,11 @@ Rep.
 
 3521
 
-76(1st, last sentences)
+76 (1st, last sentences)
 
 3324
 
-76(2d, 3d sentences)
+76 (2d, 3d sentences)
 
 3323
 
@@ -610,39 +610,39 @@ Rep.
 
 3528
 
-82d(words before semicolon)
+82d (words before semicolon)
 
 3541
 
-82d(words after semicolon)
+82d (words after semicolon)
 
 3529
 
-82e(related to 31:82b)
+82e (related to 31:82b)
 
 3325
 
-82e(related to 31:82c)
+82e (related to 31:82c)
 
 3528
 
-82e(related to 31:82d)
+82e (related to 31:82d)
 
 3529
 
-82f(related to disbursing officers)
+82f (related to disbursing officers)
 
 3325
 
-82f(related to certifying officers)
+82f (related to certifying officers)
 
 3528
 
-82g(related to disbursing officers)
+82g (related to disbursing officers)
 
 3322
 
-82g(related to certifying officers)
+82g (related to certifying officers)
 
 3528
 
@@ -690,11 +690,11 @@ T. 10 §4842
 
 3527
 
-95b(related to Army, Navy, Air Force)
+95b (related to Army, Navy, Air Force)
 
 T. 10 §2777
 
-95b(related to State Department)
+95b (related to State Department)
 
 T. 22 §2668
 
@@ -754,27 +754,27 @@ Rep.
 
 3702
 
-123(words before 1st proviso)
+123 (words before 1st proviso)
 
 3329
 
-123(provisos)
+123 (provisos)
 
 3330
 
-124(1st par.)
+124 (1st par.)
 
 3329
 
-124(last par.)
+124 (last par.)
 
 3330
 
-125(1st par.)
+125 (1st par.)
 
 3329
 
-125(last par.)
+125 (last par.)
 
 3330
 
@@ -818,11 +818,11 @@ Rep.
 
 Rep.
 
-147(less disbursement)
+147 (less disbursement)
 
 3301
 
-147(related to disbursement)
+147 (related to disbursement)
 
 3323
 
@@ -1078,11 +1078,11 @@ Rep.
 
 3726
 
-251(1st sentence words after 1st comma)
+251 (1st sentence words after 1st comma)
 
 5131
 
-251(less 1st sentence words after 1st comma)
+251 (less 1st sentence words after 1st comma)
 
 304
 
@@ -1118,11 +1118,11 @@ Rep.
 
 5111
 
-273(1st, 2d sentences)
+273 (1st, 2d sentences)
 
 5132
 
-273(last sentence)
+273 (last sentence)
 
 5122
 
@@ -1158,11 +1158,11 @@ Rep.
 
 Rep.
 
-283(1st sentence)
+283 (1st sentence)
 
 5131
 
-283(2d, last sentences)
+283 (2d, last sentences)
 
 5133
 
@@ -1366,11 +1366,11 @@ Rep.
 
 5121
 
-361(1st sentence words before 1st comma)
+361 (1st sentence words before 1st comma)
 
 5131
 
-361(1st sentence words after 1st comma, last sentence)
+361 (1st sentence words after 1st comma, last sentence)
 
 5132
 
@@ -1494,11 +1494,11 @@ Rep.
 
 Rep.
 
-408a(last proviso)
+408a (last proviso)
 
 5117
 
-408a(less last proviso)
+408a (less last proviso)
 
 5119
 
@@ -1562,11 +1562,11 @@ Rep.
 
 Rep.
 
-444(1st sentence words between 2d and 3d semicolons)
+444 (1st sentence words between 2d and 3d semicolons)
 
 5119
 
-444(less 1st sentence words between 2d and 3d semicolons)
+444 (less 1st sentence words between 2d and 3d semicolons)
 
 Rep.
 
@@ -2038,11 +2038,11 @@ Rep.
 
 1343
 
-638a(c)(2)(1st, last sentences)
+638a(c)(2) (1st, last sentences)
 
 1344
 
-638a(c)(2)(2d sentence)
+638a(c)(2) (2d sentence)
 
 1349
 
@@ -2126,31 +2126,31 @@ Rep.
 
 1342
 
-665(c)(less (1)(last sentence))
+665(c) (less (1) (last sentence))
 
 1512
 
-665(c)(1)(last sentence)
+665(c)(1) (last sentence)
 
 1511
 
-665(d)(1), (2)(1st–4th sentences, 6th sentence 1st–22d words)
+665(d)(1), (2) (1st–4th sentences, 6th sentence 1st–22d words)
 
 1513
 
-665(d)(2)(5th sentence, 6th sentence less 1st–22d words)
+665(d)(2) (5th sentence, 6th sentence less 1st–22d words)
 
 1511
 
-665(d)(2)(last sentence related to spending and obligations)
+665(d)(2) (last sentence related to spending and obligations)
 
 1341
 
-665(d)(2)(last sentence related to voluntary services)
+665(d)(2) (last sentence related to voluntary services)
 
 1342
 
-665(d)(2)(last sentence related to price supports)
+665(d)(2) (last sentence related to price supports)
 
 1511
 
@@ -2166,11 +2166,11 @@ Rep.
 
 1511
 
-665(g)(1st sentence)
+665(g) (1st sentence)
 
 1513
 
-665(g)(less 1st sentence)
+665(g) (less 1st sentence)
 
 1514
 
@@ -2178,27 +2178,27 @@ Rep.
 
 1517
 
-665(i)(1)(words before semicolon related to (a), (b))
+665(i)(1) (words before semicolon related to (a), (b))
 
 1549
 
-665(i)(1)(words after semicolon related to (a), (b))
+665(i)(1) (words after semicolon related to (a), (b))
 
 1550
 
-665(i)(1)(words before semicolon related to (h))
+665(i)(1) (words before semicolon related to (h))
 
 1518
 
-665(i)(1)(words after semicolon related to (h))
+665(i)(1) (words after semicolon related to (h))
 
 1519
 
-665(i)(2)(related to (a), (b))
+665(i)(2) (related to (a), (b))
 
 1351
 
-665(i)(2)(related to (h))
+665(i)(2) (related to (h))
 
 1517
 
@@ -2226,11 +2226,11 @@ T. 41 §11a
 
 1308
 
-669(words before semicolon)
+669 (words before semicolon)
 
 1513
 
-669(words after semicolon)
+669 (words after semicolon)
 
 1341
 
@@ -2298,11 +2298,11 @@ Rep.
 
 Rep.
 
-686b(a), (b), (c)(related to 31:686, 686b)
+686b(a), (b), (c) (related to 31:686, 686b)
 
 1535
 
-686b(c)(related to 31:686)
+686b(c) (related to 31:686)
 
 1536
 
@@ -2386,11 +2386,11 @@ T. 38 §203
 
 1552
 
-701(c)(1st sentence)
+701(c) (1st sentence)
 
 1551
 
-701(c)(last sentence), (d)
+701(c) (last sentence), (d)
 
 1552
 
@@ -2474,11 +2474,11 @@ T. 10 §2661a
 
 1306
 
-724a(1st sentence)
+724a (1st sentence)
 
 1304
 
-724a(last sentence)
+724a (last sentence)
 
 T. 39 §409
 
@@ -2518,11 +2518,11 @@ Elim.
 
 Rep.
 
-725p(a)(last sentence)
+725p(a) (last sentence)
 
 331
 
-725p(less (a)(last sentence))
+725p (less (a) (last sentence))
 
 Rep.
 
@@ -2534,11 +2534,11 @@ Rep.
 
 1322
 
-725q(a)(last sentence)
+725q(a) (last sentence)
 
 331
 
-725q(less (a)(last sentence))
+725q (less (a) (last sentence))
 
 Rep.
 
@@ -2558,11 +2558,11 @@ T. 18 §3150a
 
 1323
 
-725s(less (a)(last sentence last proviso))
+725s (less (a) (last sentence last proviso))
 
 1321
 
-725s(a)(last sentence last proviso)
+725s(a) (last sentence last proviso)
 
 1322
 
@@ -2590,11 +2590,11 @@ Rep.
 
 Rep.
 
-725v(b)(related to marshals)
+725v(b) (related to marshals)
 
 T. 28 §572a
 
-725v(b)(related to clerks)
+725v(b) (related to clerks)
 
 T. 28 §2043
 
@@ -2606,11 +2606,11 @@ T. 28 §2043
 
 Rep.
 
-731–733(words before semicolon)
+731–733 (words before semicolon)
 
 3123
 
-733(words after semicolon), 734
+733 (words after semicolon), 734
 
 5116
 
@@ -2646,15 +2646,15 @@ Rep.
 
 Rep.
 
-752(1st–4th pars. less 2d par. form of bonds)
+752 (1st–4th pars. less 2d par. form of bonds)
 
 3102
 
-752(2d par. related to form of bonds)
+752 (2d par. related to form of bonds)
 
 3121
 
-752(last par.)
+752 (last par.)
 
 3107
 
@@ -2662,11 +2662,11 @@ Rep.
 
 Rep.
 
-753(a)(less form of notes, certificates of indebtedness, and Treasury bills)
+753(a) (less form of notes, certificates of indebtedness, and Treasury bills)
 
 3103
 
-753(a)(related to form of notes, certificates of indebtedness, and Treasury bills)
+753(a) (related to form of notes, certificates of indebtedness, and Treasury bills)
 
 3121
 
@@ -2678,27 +2678,27 @@ Rep.
 
 3103
 
-753(d)(1st sentence)
+753(d) (1st sentence)
 
 3108
 
-753(d)(2d sentence)
+753(d) (2d sentence)
 
 3123
 
-753(d)(last sentence related to 31:771)
+753(d) (last sentence related to 31:771)
 
 3122
 
-753(d)(last sentence less related to 31:771)
+753(d) (last sentence less related to 31:771)
 
 3129
 
-754(a)(less form of certificates of indebtedness and Treasury bills, finality)
+754(a) (less form of certificates of indebtedness and Treasury bills, finality)
 
 3104
 
-754(a)(related to form of certificates of indebtedness and Treasury bills, finality)
+754(a) (related to form of certificates of indebtedness and Treasury bills, finality)
 
 3121
 
@@ -2738,11 +2738,11 @@ Rep.
 
 Rep.
 
-757c(a)–(d)(1st sentence)
+757c(a)–(d) (1st sentence)
 
 3105
 
-757c(d)(last sentence)
+757c(d) (last sentence)
 
 3108
 
@@ -2758,11 +2758,11 @@ Rep.
 
 3105
 
-757c(i)(1st–6th sentences)
+757c(i) (1st–6th sentences)
 
 3126
 
-757c(i)(last sentence)
+757c(i) (last sentence)
 
 331
 
@@ -2774,11 +2774,11 @@ Rep.
 
 Rep.
 
-757c–2(a)–(c)(1st sentence)
+757c–2(a)–(c) (1st sentence)
 
 3106
 
-757c–2(c)(last sentence)
+757c–2(c) (last sentence)
 
 3108
 
@@ -2834,11 +2834,11 @@ Rep.
 
 3112
 
-768(words before semicolon)
+768 (words before semicolon)
 
 3123
 
-768(words after semicolon)
+768 (words after semicolon)
 
 3121
 
@@ -2950,11 +2950,11 @@ Rep.
 
 9107
 
-868(less (d)(1st sentence related to 31:867))
+868 (less (d) (1st sentence related to 31:867))
 
 9108
 
-868(d)(1st sentence related to 31:867)
+868(d) (1st sentence related to 31:867)
 
 9107
 
@@ -3010,11 +3010,11 @@ Rep.
 
 3701
 
-952(e)(1)(1st to 3d sentences)
+952(e)(1) (1st to 3d sentences)
 
 3717
 
-952(e)(1)(last sentence)
+952(e)(1) (last sentence)
 
 3701
 
@@ -3058,11 +3058,11 @@ Rep.
 
 301
 
-1002(less words between 4th and 5th semicolons)
+1002 (less words between 4th and 5th semicolons)
 
 321
 
-1002(words between 4th and 5th semicolons)
+1002 (words between 4th and 5th semicolons)
 
 331
 
@@ -3086,11 +3086,11 @@ Rep.
 
 301
 
-1010(related to seal)
+1010 (related to seal)
 
 301
 
-1010(related to books, papers, and records)
+1010 (related to books, papers, and records)
 
 Rep.
 
@@ -3226,15 +3226,15 @@ Rep.
 
 321
 
-1054(a), (b)(1st sentence)
+1054(a), (b) (1st sentence)
 
 5318
 
-1054(b)(last sentence related to civil penalties)
+1054(b) (last sentence related to civil penalties)
 
 5321
 
-1054(b)(last sentence related to criminal penalties)
+1054(b) (last sentence related to criminal penalties)
 
 5322
 
@@ -3298,11 +3298,11 @@ Rep.
 
 5321
 
-1143(b)(words before last comma)
+1143(b) (words before last comma)
 
 5320
 
-1143(b)(words after last comma)
+1143(b) (words after last comma)
 
 5321
 
@@ -3326,11 +3326,11 @@ Rep.
 
 717
 
-1154(d)(1st sentence)
+1154(d) (1st sentence)
 
 702
 
-1154(d)(last sentence)
+1154(d) (last sentence)
 
 731
 
@@ -3394,11 +3394,11 @@ Rep.
 
 Rep.
 
-1224(a)(1), (2)(related to trustee)
+1224(a)(1), (2) (related to trustee)
 
 6703
 
-1224(a)(2)(related to report)
+1224(a)(2) (related to report)
 
 6724
 
@@ -3570,15 +3570,15 @@ Rep.
 
 6716
 
-1242(b)(1)–(3)(B)(1st sentence)
+1242(b)(1)–(3)(B) (1st sentence)
 
 6717
 
-1242(b)(3)(B)(2d sentence)
+1242(b)(3)(B) (2d sentence)
 
 6718
 
-1242(b)(3)(B)(last sentence)
+1242(b)(3)(B) (last sentence)
 
 6717
 
@@ -3594,11 +3594,11 @@ Rep.
 
 6701
 
-1242(c)(2), (3)(related to proceedings)
+1242(c)(2), (3) (related to proceedings)
 
 6717
 
-1242(c)(3)(related to suspensions and terminations)
+1242(c)(3) (related to suspensions and terminations)
 
 6718
 

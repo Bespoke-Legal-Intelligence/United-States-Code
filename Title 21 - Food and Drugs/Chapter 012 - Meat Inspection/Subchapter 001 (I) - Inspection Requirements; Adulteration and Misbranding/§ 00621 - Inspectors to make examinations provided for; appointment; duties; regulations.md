@@ -26,5 +26,5 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 #### Construction and Effect of Amendments by Pub. L. 99–641
 
-For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641,see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 606 of this title.
+For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 606 of this title.
 

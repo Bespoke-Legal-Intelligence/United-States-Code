@@ -1,6 +1,6 @@
 subpart 2—uses of funds
 
-<i><sup>1</sup></i><i>So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
 
 ---

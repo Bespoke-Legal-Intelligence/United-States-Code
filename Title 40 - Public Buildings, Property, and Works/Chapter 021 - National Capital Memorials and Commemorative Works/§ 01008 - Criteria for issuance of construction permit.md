@@ -14,7 +14,7 @@ Prior to issuing a permit for the construction of a commemorative work in the Di
 
 #### (b) Donation for perpetual maintenance and preservation
 
-In addition to the foregoing criteria, no construction permit shall be issued unless the person authorized to construct the commemorative work has donated an amount equal to 10 per centum of the total estimated cost of construction to offset the costs of perpetual maintenance and preservation of the commemorative work: <i>Pro</i><i>vided</i>, That the provisions of this subsection shall not apply in instances when the commemorative work is constructed by a Department or agency of the Federal Government and less than 50 per centum of the funding for such work is provided by private sources.
+In addition to the foregoing criteria, no construction permit shall be issued unless the person authorized to construct the commemorative work has donated an amount equal to 10 per centum of the total estimated cost of construction to offset the costs of perpetual maintenance and preservation of the commemorative work: <i>Provided</i>, That the provisions of this subsection shall not apply in instances when the commemorative work is constructed by a Department or agency of the Federal Government and less than 50 per centum of the funding for such work is provided by private sources.
 
 &emsp;(1) Notwithstanding any other provision of law, all moneys provided by persons for maintenance pursuant to this subsection shall be credited to a separate account in the Treasury.
 

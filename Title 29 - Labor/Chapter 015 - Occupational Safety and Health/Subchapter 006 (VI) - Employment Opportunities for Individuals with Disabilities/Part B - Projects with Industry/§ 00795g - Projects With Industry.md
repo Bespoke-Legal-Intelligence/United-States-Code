@@ -96,7 +96,7 @@ Payments under this section with respect to any project may not exceed 80 per ce
 
 (B) Grants under this section shall be awarded on a competitive basis. To be eligible to receive such a grant, a prospective grant recipient shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require.
 
-(2) The Commissioner shall to the extent practicable ensure an equitable distribution of payments made under this section among the States. To the extent funds are available, theCommissioner shall award grants under this section to new projects that will serve individuals with disabilities in States, portions of States, Indian tribes, or tribal organizations, that are currently unserved or underserved by projects.
+(2) The Commissioner shall to the extent practicable ensure an equitable distribution of payments made under this section among the States. To the extent funds are available, the Commissioner shall award grants under this section to new projects that will serve individuals with disabilities in States, portions of States, Indian tribes, or tribal organizations, that are currently unserved or underserved by projects.
 
 #### (f) Indicators for compliance with evaluation standards; annual reports; on-site compliance reviews; analysis included in reports to Congress
 
@@ -150,7 +150,7 @@ As used in this section:
 
 &emsp;(3) The term “grant recipient” means a recipient of a grant under subsection (a)(2) of this section.
 
-(Pub. L. 93–112, title VI, §621, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 98–221, title I, §§162, 163, Feb. 22, 1984, 98 Stat. 29, 30; Pub. L. 99–506, title I, §103(d)(2)(B), (C), title VII, §703(a)(1)–(3), (b)–(d), Oct. 21, 1986, 100 Stat. 1810, 1831, 1832; Pub. L. 100–630, title II, §207(b), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–569, title VI, §611, Oct. 29, 1992, 106 Stat. 4434.)
+(Pub. L. 93–112, title VI, §621, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2993;amended Pub. L. 98–221, title I, §§162, 163, Feb. 22, 1984, 98 Stat. 29, 30; Pub. L. 99–506, title I, §103(d)(2)(B), (C), title VII, §703(a)(1)–(3), (b)–(d), Oct. 21, 1986, 100 Stat. 1810, 1831, 1832; Pub. L. 100–630, title II, §207(b), Nov. 7, 1988, 102 Stat. 3313; Pub. L. 102–569, title VI, §611, Oct. 29, 1992, 106 Stat. 4434.)
 
 #### References in Text
 
@@ -220,7 +220,7 @@ Subsecs. (d) to (f). Pub. L. 98–221, §§162(c), 163, added subsecs. (d) to (f
 
 #### Effective Date of 1986 Amendment
 
-Section 703(a)(4) of Pub. L. 99–506 provided that: “The amendment made by paragraph (2), adding clause (E) to section 621(a)(2) of the Act \[29 U.S.C. 795g(a)(2)(E)\], shall take effect one year after the date of enactment of this Act \[Oct. 21, 1986\].”
+Section 703(a)(4) of Pub. L. 99–506 provided that: “The amendment made by paragraph (2), adding clause (E) tosection 621(a)(2) of the Act \[29 U.S.C. 795g(a)(2)(E)\], shall take effect one year after the date of enactment of this Act \[Oct. 21, 1986\].”
 
 #### Section Referred to in Other Sections
 

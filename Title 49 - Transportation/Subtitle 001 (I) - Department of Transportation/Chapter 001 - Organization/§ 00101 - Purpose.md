@@ -38,7 +38,7 @@ Oct. 15, 1966, Pub. L. 89–670, §2(a), (b)(1), 80 Stat. 931.
 
 In subsections (a) and (b), the introductory declaratory words are omitted as surplus.
 
-In subsection (a), the words “national objectives of” are inserted for clarity. The words “United States” are substituted for “Nation” and “Nation's”, respectively, for consistency. The word “contribute” is substituted for “conducive” because the substituted word is more commonly used. The word “those” is substituted for “utilization”.
+In subsection (a), the words “national objectives of” are inserted for clarity. The words “United States” aresubstituted for “Nation” and “Nation's”, respectively, for consistency. The word “contribute” is substituted for “conducive” because the substituted word is more commonly used. The word “those” is substituted for “utilization”.
 
 In subsection (b)(2), the word “greatest” is substituted for “maximum” for consistency.
 
@@ -51,6 +51,10 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 #### Amendments
 
 1991—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
+
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–88, §1(a), Dec. 29, 1995, 109 Stat. 803, provided that: “This Act \[see Tables for classification\] may be cited as the ‘ICC Termination Act of 1995’.”
 
 #### Short Title of 1994 Amendment
 

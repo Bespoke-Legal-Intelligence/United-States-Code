@@ -28,15 +28,15 @@ The Congress finds that—
 
 The purposes of this chapter are—
 
-&emsp;(1) to establish a 5-year national action plan to research and develop new high-temperature superconducting materials with appropriate goals and priorities;<sup>1</sup>
+&emsp;(1) to establish a 5-year national action plan to research and develop new high-temperature superconducting materials with appropriate goals and priorities; <sup>1</sup>
 
 &emsp;(2) to designate the appropriate roles, mechanisms, and responsibilities of various Federal departments and agencies in implementing such a national research and development action plan.
 
-(Pub. L. 100 697, §2, Nov. 19, 1988, 102 Stat. 4613.)
+(Pub. L. 100–697, §2, Nov. 19, 1988, 102 Stat. 4613.)
 
 #### Short Title
 
-Section 1 of Pub. L. 100 697 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Superconductivity and Competitiveness Act of 1988’.”
+Section 1 of Pub. L. 100–697 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Superconductivity and Competitiveness Act of 1988’.”
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

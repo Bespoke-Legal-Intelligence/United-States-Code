@@ -10,7 +10,7 @@ Any contracting agency is authorized—
 
 #### (b) By assignment
 
-Any such loan, discount, advance, guaranty, or commitment in connection therewith may be secured by assignment of, or covenants to assign, some or all of the rights of such war contractor or other person in connection with the termination of such war contracts or operations,or in such other manner as the contracting agency may prescribe.
+Any such loan, discount, advance, guaranty, or commitment in connection therewith may be secured by assignment of, or covenants to assign, some or all of the rights of such war contractor or other person in connection with the termination of such war contracts or operations, or in such other manner as the contracting agency may prescribe.
 
 #### (c) Federal Reserve bank as fiscal agent
 

@@ -18,7 +18,7 @@ In the event of a participant's death, the amount of such participant's unused c
 
 1991—Pub. L. 102–83 renumbered section 1624 of this title as this section.
 
-1980—Pub. L. 96–466 expanded provisions to require payment of a participant's unused contributions to the fund to the surviving spouse, the surviving child or children, or to the surviving parent or parents before payment of such amount to the participant's estate.
+1980—Pub. L. 96–466 expanded provisions to require payment of a participant's unused contributions to thefund to the surviving spouse, the surviving child or children, or to the surviving parent or parents before payment of such amount to the participant's estate.
 
 #### Effective Date of 1980 Amendment
 

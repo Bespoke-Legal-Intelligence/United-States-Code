@@ -1,4 +1,4 @@
-### §1735 . Payment of certain funds to Treasury
+### §1735. Payment of certain funds to Treasury
 
 The following funds shall be deemed an indebtedness to the United States of the particular insurance fund involved, and the Secretary is authorized and directed to pay the amount of such indebtedness to the Secretary of the Treasury, with simple interest thereon from the date the funds were advanced to the date of final payment at a rate determined by the Secretary of the Treasury, taking into consideration the average rate on outstanding marketable obligations of the United States from the date the funds were advanced until the date of final payment—
 
@@ -14,7 +14,7 @@ The following funds shall be deemed an indebtedness to the United States of the 
 
 #### References in Text
 
-Section 1715a of this title, referred to in par. (1), in the original was a reference to section 210 of the National Housing Act (June 27, 1934, ch. 847, §210, as added Feb. 3, 1938, ch. 13, §3, 52 Stat. 22), which was repealedby act June 3, 1939, ch. 175, §13, 53 Stat. 807. See note set out under section 1715a.
+Section 1715a of this title, referred to in par. (1), in the original was a reference to section 210 of the National Housing Act (June 27, 1934, ch. 847, §210, as added Feb. 3, 1938, ch. 13, §3, 52 Stat. 22), which was repealed by act June 3, 1939, ch. 175, §13, 53 Stat. 807. See note set out under section 1715a.
 
 Section 484d of title 48, referred to in text, which authorized the Federal Housing Commissioner to prescribe a higher maximum for the principal obligation of mortgages, was omitted from the Code.
 

@@ -16,9 +16,9 @@
 
 (b) It is therefore the purpose of this chapter to establish in the Library of Congress an American Folklife Center to preserve and present American folklife.
 
-(Pub. L. 94 201, §2, Jan. 2, 1976, 89 Stat. 1129.)
+(Pub. L. 94–201, §2, Jan. 2, 1976, 89 Stat. 1129.)
 
 #### Short Title
 
-Section 1 of Pub. L. 94 201 provided: “That this Act \[enacting this chapter\] may be cited as the ‘American Folklife Preservation Act’.”
+Section 1 of Pub. L. 94–201 provided: “That this Act \[enacting this chapter\] may be cited as the ‘American Folklife Preservation Act’.”
 

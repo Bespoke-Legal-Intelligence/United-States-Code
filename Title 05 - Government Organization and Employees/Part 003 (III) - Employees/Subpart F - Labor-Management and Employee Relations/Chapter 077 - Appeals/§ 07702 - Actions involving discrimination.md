@@ -120,7 +120,7 @@ The civil service law, referred to in subsec. (c)(2), is set out in this title. 
 
 #### Amendments
 
-1979—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted “affected” for “effected”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted “affected” for “effected”.
 
 Subsec. (a)(1)(B)(i). Pub. L. 96–54, §2(a)(46)(B), substituted “2000e–16” for “2000e–16c”.
 

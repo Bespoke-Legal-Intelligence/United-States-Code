@@ -10,7 +10,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 &emsp;(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a) of this section;
 
-&emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds neededby the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
+&emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
 &emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) of this section will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
 
@@ -60,7 +60,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 (1) Nothing in this section shall limit or otherwise restrict the use of funds which are granted to a State or to an agency or a political subdivision of a State under provisions of Federal law (other than this section) and which are available for the conduct of preventive health service programs from being used in connection with programs assisted through grants under subsection (a) of this section.
 
-(2) Nothing in this section shall be construed to require any State or any agency or political subdivision of a State to have a preventive health service program which would require anyperson, who objects to any treatment provided under such a program, to be treated or to have any child or ward treated under such program.
+(2) Nothing in this section shall be construed to require any State or any agency or political subdivision of a State to have a preventive health service program which would require any person, who objects to any treatment provided under such a program, to be treated or to have any child or ward treated under such program.
 
 #### (h) Reports
 
@@ -240,7 +240,7 @@ Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 
-Section 3 of Pub. L. 94–380 directed Secretary to conduct a study of liability for personal injuries or deatharising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
+Section 3 of Pub. L. 94–380 directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
 
 #### Section Referred to in Other Sections
 

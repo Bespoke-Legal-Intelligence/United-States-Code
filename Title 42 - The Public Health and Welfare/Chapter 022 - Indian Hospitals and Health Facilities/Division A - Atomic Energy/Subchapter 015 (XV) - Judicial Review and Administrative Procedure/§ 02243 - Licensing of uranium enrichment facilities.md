@@ -42,7 +42,7 @@ Prior to commencement of operation of a uranium enrichment facility licensed her
 
 #### (e) No Price-Anderson coverage
 
-Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title for a uranium enrichment facility constructed after November 15, 1990.
+Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title fora uranium enrichment facility constructed after November 15, 1990.
 
 (Aug. 1, 1946, ch. 724, title I, §193, as added Nov. 15, 1990, Pub. L. 101–575, §5(e), 104 Stat. 2835; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
 

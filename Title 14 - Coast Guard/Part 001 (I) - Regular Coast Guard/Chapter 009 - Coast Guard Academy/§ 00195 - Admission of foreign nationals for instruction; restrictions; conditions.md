@@ -4,7 +4,7 @@
 
 (b) The President may designate not more than 36 foreign nationals whom the Secretary may permit to receive instruction at the Academy.
 
-(c) A person receiving instruction under this section is entitled to the same pay and allowances, to be paid from the same appropriations, as a cadet appointed pursuant to section 182 ofthis title. A person may receive instruction under this section only if his country agrees in advance to reimburse the United States, at a rate determined by the Secretary, for the cost of providing such instruction, including pay and allowances, unless a waiver therefrom has been granted to that country by the Secretary. Funds received by the Secretary for this purpose shall be credited to the appropriations bearing the cost thereof, and may be apportioned between fiscal years.
+(c) A person receiving instruction under this section is entitled to the same pay and allowances, to be paid from the same appropriations, as a cadet appointed pursuant to section 182 of this title. A person may receive instructionunder this section only if his country agrees in advance to reimburse the United States, at a rate determined by the Secretary, for the cost of providing such instruction, including pay and allowances, unless a waiver therefrom has been granted to that country by the Secretary. Funds received by the Secretary for this purpose shall be credited to the appropriations bearing the cost thereof, and may be apportioned between fiscal years.
 
 (d) A person receiving instruction under this section is—
 

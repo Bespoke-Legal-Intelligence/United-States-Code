@@ -44,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–456, §633(b)(1)(A), substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §633(b)(1)(A), substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 100–456, §633(b)(1)(B), struck out “field” before “training”.
 

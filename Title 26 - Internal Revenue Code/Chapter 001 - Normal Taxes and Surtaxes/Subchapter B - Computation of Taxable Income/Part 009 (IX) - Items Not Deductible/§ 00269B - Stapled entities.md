@@ -8,7 +8,7 @@ Except as otherwise provided by regulations, for purposes of this title—
 
 &emsp;(2) in applying section 1563, stock in a second corporation which constitutes a stapled interest with respect to stock of a first corporation shall be treated as owned by such first corporation, and
 
-&emsp;(3) in applying subchapter M for purposes of determining whether any stapled entity is a regulated investment company or a real estate investment trust, all entities which are stapled entities with respect to each other shall be treated as 1 entity.
+&emsp;(3) in applying subchapter M for purposes of determining whether any stapled entity is a regulated investment company or a real estateinvestment trust, all entities which are stapled entities with respect to each other shall be treated as 1 entity.
 
 #### (b) Secretary to prescribe regulations
 
@@ -104,7 +104,7 @@ Elections to treat stapled foreign entities as subsidiaries.—
 
 &emsp;“(A)
 
-In general.—In the case of any foreign corporation and domestic corporation which as of June 30, 1983, were stapled entities, such domestic corporation may elect (in lieu of applying paragraph (1) of section 269B(a) of such Code) to be treated as owning all interests in the foreign corporation which constitute stapled interests with respect to stock of the domestic corporation.
+In general.—In the case of any foreign corporation and domestic corporation which as of June 30, 1983, were stapled entities, such domestic corporation may elect (in lieu of applying paragraph (1) of section 269B(a) of such Code) to be treated as owningall interests in the foreign corporation which constitute stapled interests with respect to stock of the domestic corporation.
 
 &emsp;“(B)
 

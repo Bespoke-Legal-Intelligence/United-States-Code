@@ -1,4 +1,4 @@
-### §123b . Forces stationed abroad: limitation on number
+### §123b. Forces stationed abroad: limitation on number
 
 (a)
 

@@ -52,7 +52,7 @@ Section 1. All functions (including powers, duties, activities, and parts of fun
 
 Sec. 2. Such further measures and dispositions, if any, as the Director of the Bureau of the Budget \[now the Office of Management and Budget\] shall determine to be necessary in connection with the transfers provided for hereinabove in respect of records, property, facilities, employees, and balances shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
-Sec. 3. The provisions of this order shall become effective concurrently with the entering upon office asAdministrator of the Federal Aviation Agency \[now Federal Aviation Administration\] of the first person appointed as Administrator. The functions transferred by section 1 hereof may be performed by the Administrator until the effective date of the repeal \[Aug. 23, 1958\] of the Airways Modernization Act of 1957 \[former 49 U.S.C. 1211 et seq.\] effected by section 1401(d) of the Federal Aviation Act of 1958 \[Pub. L. 85–726\].
+Sec. 3. The provisions of this order shall become effective concurrently with the entering upon office as Administrator of the Federal Aviation Agency \[now Federal Aviation Administration\] of the first person appointed as Administrator. The functions transferred by section 1 hereof may be performed by the Administrator until the effective date of the repeal \[Aug. 23, 1958\] of the Airways Modernization Act of 1957 \[former 49 U.S.C. 1211 et seq.\] effected by section 1401(d) of the Federal Aviation Act of 1958 \[Pub. L. 85–726\].
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,7 +80,7 @@ Sec. 2. The Administrator and the Secretary shall exercise the authority hereina
 
 Sec. 3. (a) To the extent necessitated by transfers of functions effected under the provisions of Section 1 of this order:
 
-(1) Transfers of balances of appropriations available and necessary to finance and discharge the transferred functions shall be made under the authority of Section 202(b) of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c(b) \[see 31 U.S.C. 1531\]) as affected by the provisions of section 1(k) of Executive Order No. 10530 of May 10, 1954 \[set out as a note under section 301 of Title 3, The President\].
+(1) Transfers of balances of appropriations available and necessary to finance and discharge the transferred functions shall be made under the authority of Section202(b) of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c(b) \[see 31 U.S.C. 1531\]) as affected by the provisions of section 1(k) of Executive Order No. 10530 of May 10, 1954 \[set out as a note under section 301 of Title 3, The President\].
 
 (2) Provisions for appropriate transfers of records and property shall be made under the authority of the last sentence of Section 304 of the Federal Aviation Act of 1958 \[see 49 U.S.C. 40107(a)\] as affected by the provisions of Section 1 of Executive Order No. 10797 of December 24, 1958 \[set out above\].
 
@@ -100,7 +100,7 @@ WHEREAS it appears that the defense of the United States would require the trans
 
 WHEREAS if any such transfer were to be made it would be essential to the defense of the United States that the transition be accomplished promptly and with maximum ease and effectiveness; and
 
-WHEREAS these objectives require that the relationships that would obtain in the event of such a transferas between the Federal Aviation Administration and the Department of Defense be understood in advance by the two agencies concerned and be developed in necessary detail by them in advance of transfer:
+WHEREAS these objectives require that the relationships that would obtain in the event of such a transfer as between the Federal Aviation Administration and the Department of Defense be understood in advance by the two agencies concerned and be developed in necessary detail by them in advance of transfer:
 
 NOW, THEREFORE, by virtue of the authority vested in me by Section 302(e) (72 Stat. 746; 49 U.S.C. 1343(c)) \[see 49 U.S.C. 40107(b)\], and as President of the United States and Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 

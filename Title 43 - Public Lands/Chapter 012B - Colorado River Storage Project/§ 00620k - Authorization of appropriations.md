@@ -6,7 +6,7 @@ There are authorized to be appropriated, out of any moneys in the Treasury not o
 
 #### Change of Name
 
-Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507, provided that: “The Curecanti Storage Unit of the Colorado River Storage Project constructed under the authorityof the Act of April 11, 1956 (70 Stat. 106) \[this chapter\] is hereby designated and hereafter shall be known as the Wayne N. Aspinall Storage Unit of the Colorado River Storage Project. Any law, regulation, record, map, or other document of the United States referring to the Curecanti Storage Unit shall be held to refer to the Wayne N. Aspinall Storage Unit.”
+Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507, provided that: “The Curecanti Storage Unit of the Colorado River Storage Project constructed under the authority of the Act of April 11, 1956 (70 Stat. 106) \[this chapter\] is hereby designated and hereafter shall be known as the Wayne N. Aspinall Storage Unit of the Colorado River Storage Project. Any law, regulation, record, map, or other document of the United States referring to the Curecanti Storage Unit shall be held to refer to the Wayne N. Aspinall Storage Unit.”
 
 #### Termination of Authorization of Appropriations
 

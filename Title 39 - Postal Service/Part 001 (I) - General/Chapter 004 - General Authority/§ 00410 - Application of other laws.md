@@ -1,0 +1,182 @@
+### §410. Application of other laws
+
+(a) Except as provided by subsection (b) of this section, and except as otherwise provided in this title or insofar as such laws remain in force as rules or regulations of the Postal Service, no Federal law dealing with public or Federal contracts, property, works, officers, employees, budgets, or funds, including the provisions of chapters 5 and 7 of title 5, shall apply to the exercise of the powers of the Postal Service.
+
+(b) The following provisions shall apply to the Postal Service:
+
+&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 (dual pay) of title 5, except that no regulation issued under such chapters or section shall apply to the Postal Service unless expressly made applicable;
+
+&emsp;(2) all provisions of title 18 dealing with the Postal Service, the mails, and officers or employees of the Government of the United States;
+
+&emsp;(3) section 107 of title 20 (known as the Randolph-Sheppard Act, relating to vending machines operated by the blind);
+
+&emsp;(4) the following provisions of title 40:
+
+&emsp;&emsp;(A) sections 258a–258e <sup>1</sup> (relating to condemnation proceedings);
+
+&emsp;&emsp;(B) sections 270a–270e (known as the Miller Act, relating to performance bonds);
+
+&emsp;&emsp;(C) sections 276a—276a–7 (known as the Davis-Bacon Act, relating to prevailing wages);
+
+&emsp;&emsp;(D) section 276c (relating to wage payments of certain contractors);
+
+&emsp;&emsp;(E) chapter 5 (the Contract Work Hours Standards Act); and
+
+&emsp;&emsp;(F) chapter 15 (the Government Losses in Shipment Act);
+
+&emsp;(5) the following provisions of title 41:
+
+&emsp;&emsp;(A) sections 35–45 (known as the Walsh-Healey Act, relating to wages and hours); and
+
+&emsp;&emsp;(B) chapter 6 (the Service Contract Act of 1965);
+
+&emsp;(6) sections 2000d, 2000d–1—2000d–4 of title 42 (title VI, the Civil Rights Act of 1964);
+
+&emsp;(7) section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668);
+
+&emsp;(8) the provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156);
+
+&emsp;(9) chapter 39 of title 31; and <sup>2</sup>
+
+&emsp;(10) the provisions of section 8F <sup>1</sup> of the Inspector General Act of 1978.<sup>3</sup>
+
+&emsp;(11) section 5520a of title 5.
+
+(c) Subsection (b)(1) of this section shall not require the disclosure of—
+
+&emsp;(1) the name or address, past or present, of any postal patron;
+
+&emsp;(2) information of a commercial nature, including trade secrets, whether or not obtained from a person outside the Postal Service, which under good business practice would not be publicly disclosed;
+
+&emsp;(3) information prepared for use in connection with the negotiation of collective-bargaining agreements under chapter 12 of this title or minutes of, or notes kept during, negotiating sessions conducted under such chapter;
+
+&emsp;(4) information prepared for use in connection with proceedings under chapter 36 of this title;
+
+&emsp;(5) the reports and memoranda of consultants or independent contractors except to the extent that they would be required to be disclosed if prepared within the Postal Service; and
+
+&emsp;(6) investigatory files, whether or not considered closed, compiled for law enforcement purposes except to the extent available by law to a party other than the Postal Service.
+
+(d)(1) A lease agreement by the Postal Service for rent of net interior space in excess of 6,500 square feet in any building or facility, or part of a building or facility, to be occupied for purposes of the Postal Service shall include a provision that all laborers and mechanics employed in the construction, modification, alteration, repair, painting, decoration, or other improvement of the building or space covered by the agreement, or improvement at the site of such building or facility, shall be paid wages at not less than those prevailing for similar work in the locality as determined by the Secretary of Labor under section 276a of title 40.
+
+(2) The authority and functions of the Secretary of Labor with respect to labor standards enforcement under Reorganization Plan numbered 14 of 1950 (title 5, appendix), and regulations for contractors and subcontractors under section 276c of title 40, shall apply to the work under paragraph (1) of this subsection.
+
+(3) Paragraph (2) of this subsection shall not be construed to give the Secretary of Labor authority to direct the cancellation of the lease agreement referred to in paragraph (1) of this subsection.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, §8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, §2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, §101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, §5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, §203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, §302(c), title VII, §703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, §1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, §2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, §104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, §202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, §9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, §708(a), Oct. 28, 1993, 107 Stat. 1272.)
+
+#### References in Text
+
+Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, popularly known as the Randolph-Sheppard Act and also as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 107 of Title 20 and Tables.
+
+Sections 258a–258e of title 40, referred to in subsec. (b)(4)(A), are based on act Feb. 26, 1931, ch. 307, 46 Stat. 1421, as amended, known as the “Declaration of Taking Act”, which is classified to section 258a et seq. of Title 40, Public Buildings, Property, and Works. Pub. L. 99–656, §1(2), Nov. 14, 1986, 100 Stat. 3668, amended act Feb. 26, 1931 by adding section 6, which is classified to section 258e–1 of Title 40.
+
+Sections 270a–270e, known as the Miller Act, referred to in subsec. (b)(4)(B), is act Aug. 24, 1935, ch. 642, 49 Stat. 793, as amended, known as the Miller Act, which is classified generally to sections 270a to 270d–1 of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 270a of Title 40 and Tables.
+
+Sections 276a—276a–7, known as the Davis-Bacon Act, referred to in subsec. (b)(4)(C), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, popularly known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+
+Chapter 5 (the Contract Work Hours Standards Act), referred to in subsec. (b)(4)(E), probably means title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, as amended, which is classified generally to subchapter II (§327 et seq.) of chapter 5 of Title 40, and was redesignated the Contract Work Hours and Safety Standards Act by section 2 of Pub. L. 91–54, Aug. 9, 1969, 83 Stat. 98. For complete classification of this Act to the Code, see Short Title note set out under section 327 of Title 40 and Tables.
+
+Chapter 15 (the Government Losses in Shipment Act), referred to in subsec. (b)(4)(F), probably means act July 8, 1937, ch. 444, 50 Stat. 479, as amended, known as the Government Losses in Shipment Act, which is classified principally to chapter 15 (§721 et seq.) of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 721 of Title 40 and Tables.
+
+The Walsh-Healey Act, referred to in subsec. (b)(5)(A), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
+
+The Service Contract Act of 1965, referred to in subsec. (b)(5)(B), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
+
+The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+
+Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), referred to in subsec. (b)(7), is section 19 of Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1609, which enacted section 668 of Title 29, Labor, and amended section 7902 of Title 5, Government Organization and Employees.
+
+The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+
+Section 8F of the Inspector General Act of 1978, referred to in subsec. (b)(10), is section 8F of Pub. L. 95–452, which was renumbered section 8G of that Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
+
+#### Amendments
+
+1993—Subsec. (b)(8). Pub. L. 103–82, §202(g)(6)(A), and Pub. L. 103–123, §708(a)(1), amended par. (8) identically, striking out “and” at end.
+
+Subsec. (b)(9). Pub. L. 103–123, §708(a)(2), substituted “chapter” for “Chapter” in par. (9) relating to title 31.
+
+Pub. L. 103–82, §202(g)(6)(B), and Pub. L. 103–123, §708(a)(2), amended par. (9), relating to title 31, identically, substituting “; and” for period at end.
+
+Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See below.
+
+Pub. L. 103–82, §202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service of the provisions of section 8E of Inspector General Act of 1978.
+
+Subsec. (b)(10). Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See above.
+
+Pub. L. 103–82, §202(g)(6)(C), added par. (10).
+
+Subsec. (b)(11). Pub. L. 103–94, §9(b)(2)(B), added par. (11).
+
+1988—Subsec. (b)(6) to (8). Pub. L. 100–504, §104(b)(1)–(4), struck out “and” after semicolon in par.\(6), substituted semicolon for period in par. (7), and substituted “the provisions” for “The provisions” and “; and” for period in par. (8).
+
+Subsec. (b)(9). Pub. L. 100–504, §104(b)(5), added par. (9) relating to section 8E of Inspector General Act.
+
+Pub. L. 100–496 added par. (9) relating to chapter 39 of title 31.
+
+1980—Subsec. (b)(1). Pub. L. 96–523 substituted “section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped” for “3102 (employment of reading assistants for blind employees and interpreting assistants for deaf”.
+
+1978—Subsec. (b)(1). Pub. L. 95–454 inserted provisions relating to reading and interpreting assistants, and substituted provisions respecting applicability of chapter 72 of title 5, for provisions respecting applicability of chapter 71 of title 5.
+
+1976—Subsec. (b)(1). Pub. L. 94–409 inserted references to sections 552a and 552b of title 5.
+
+Subsec. (b)(8). Pub. L. 94–541 added par. (8).
+
+1975—Subsec. (b)(7). Pub. L. 94–82 added par. (7).
+
+1974—Subsec. (b)(1). Pub. L. 93–340 inserted “section 5520 (withholding city income or employment taxes),” before “and section 5532 (dual pay)”.
+
+1971—Subsec. (b)(1). Pub. L. 91–656 inserted “section 3110 (restrictions on employment of relatives),” before “section 3333” and substituted “no regulation” for “not regulation”.
+
+#### Effective Date of 1993 Amendments; Savings Provision
+
+Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
+
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under section 12651 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1988 Amendments
+
+Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as a note under section 5 of Pub. L. 95–452 (Inspector General Act of 1978) in the Appendix to Title 5, Government Organization and Employees.
+
+Amendment by Pub. L. 100–496 applicable with respect to all obligations incurred on or after Jan. 1, 1989, see section 14(c) of Pub. L. 100–496, set out as a note under section 3902 of Title 31, Money and Finance.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–523 effective sixty days after Dec. 12, 1980, see section 3 of Pub. L. 96–523, set out as a note under section 3102 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–340 effective on 90th day following July 10, 1974, see section 3 of Pub. L. 93–340, set out as an Effective Date note under section 5520 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1971 Amendment
+
+Section 8(b) of Pub. L. 91–656 provided that: “The provisions of this section \[amending this section\] shall become effective on the effective date prescribed under section 15(a) of the Postal Reorganization Act \[set out as an Effective Date note preceding section 101 of this title\] for section 410 of title 39, United States Code, as enacted by that Act.”
+
+#### Effective Date
+
+Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effective Apr. 13, 1971, pursuant to Resolution No. 71–14 of the Board of Governors, subsecs. (b)(1), relating to section 552 of Title 5, Government Organization and Employees, and (c)(4) effective Jan. 20, 1971 pursuant to Resolution No. 71–10 of the Board of Governors, and subsec. (d) effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+#### Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees
+
+Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Rate Commission, pursuant to sections 410(b) and 3604(e) of title 39, United States Code.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2803, 3604 of this title; title 31 section 1344.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be “; and”.</i>
+

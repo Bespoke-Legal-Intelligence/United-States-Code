@@ -20,5 +20,5 @@ The Secretary, in making any determination of the energy requirements of any Pac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 837c, 837d, 839f of this title.
+This section is referred to in sections 832m, 837c, 837d, 839f of this title.
 

@@ -12,7 +12,7 @@
 
 (B) Amounts remaining after allotment under subparagraph (A) shall be reallotted in accordance with clause (ii) of such subparagraph among schools whose applications requested more than the amounts so allotted to their loan funds, but with such adjustments as may be necessary to prevent the total allotted to any such school's loan fund under this paragraph and paragraph (3) from exceeding the total so requested by it.
 
-(3) Funds which, pursuant to section 297e(c) of this title or pursuant to a loan agreement under section 297a of this title are returned to the Secretary in any fiscal year, shall be available for allotment until expended. Funds described in the preceding sentence shall be allotted among schools of nursing in such manner as the Secretary determines will best carry out this subpart.
+(3) Funds which, pursuant to section 297e(c) of this title or pursuant to a loan agreement under section 297a of this title are returned to the Secretary in any fiscal year, shall be available for allotment until expended. Funds described in the preceding sentence shall be allotted amongschools of nursing in such manner as the Secretary determines will best carry out this subpart.
 
 #### (b) Installment payment of allotments
 

@@ -30,15 +30,15 @@
 
 (4) The Executive Director shall require, from each entity from which an annuity contract is purchased under paragraph (1), a bond or proof of financial responsibility sufficient to protect the annuitant.
 
-(e)(1) No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision orother governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
+(e)(1) No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
 
-(2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
+(2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under thissection if that tax, fee, or payment is applicable to a broad range of business activity.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, §129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335, §§4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, §9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–226, §9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–226, §9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
 
 Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
 
@@ -46,13 +46,13 @@ Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to 
 
 &emsp;“(2) any other employee, Member, former employee, or former Member may elect such method of payment for amounts contributed by or on behalf of the employee, Member, former employee, or former Member under section 8432 of this title before such effective date and for earnings attributable to such amounts.”
 
-1990—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
 
 Subsec. (d)(1). Pub. L. 101–335, §5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
 
 Subsec. (e). Pub. L. 101–335, §4(a), added subsec. (e).
 
-1988—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
+<b>1988</b>—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
 
 “(C) a method described in subparagraph (A) which provides annual increases in the amount of the annuity payable;
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 101–335, §4(a), added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1990 Amendment
 

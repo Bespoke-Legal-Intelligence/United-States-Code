@@ -16,7 +16,7 @@ The State educational agency may waive the application of paragraph (1) in the c
 
 Each consortium shall rely, as much as possible, on technology or other arrangements to provide staff development programs tailored to the needs of each school or school district participating in a consortium described in subsection (a) of this section.
 
-(Pub. L. 89 10, title II, §2204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3622.)
+(Pub. L. 89–10, title II, §2204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3622.)
 
 #### Section Referred to in Other Sections
 

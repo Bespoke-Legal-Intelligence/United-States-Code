@@ -12,7 +12,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (2) Coverage
 
-&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in this paragraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
+&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in thisparagraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
 
 #### (c) Joint and several liability of related persons
 

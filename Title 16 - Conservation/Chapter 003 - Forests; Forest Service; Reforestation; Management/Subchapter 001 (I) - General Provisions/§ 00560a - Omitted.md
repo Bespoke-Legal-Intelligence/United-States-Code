@@ -2,11 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 93–404, title II, Aug. 31, 1974, 88 Stat. 817, which prohibited expenditure of funds appropriated to the Forest Service for the purchase of twine manufactured from commodities or materials produced outside of the United States except to provide materials required for research or experimental work where no suitable domestic product was available, was from the Department of the Interior and Related Agencies Appropriation Act, 1975, and was not repeated in subsequent appropriation acts.
-
-#### Similar Provisions
-
-Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 93–404, title II, Aug. 31, 1974, 88 Stat. 817, which prohibited expenditure of funds appropriated to the Forest Service for the purchase of twine manufactured from commodities or materials produced outside of the United States except to provide materials required for research or experimental work where no suitable domestic product was available, was from the Department of the Interior and Related Agencies Appropriation Act, 1975, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Oct. 4, 1973, Pub. L. 93–120, title II, 87 Stat. 442.
 

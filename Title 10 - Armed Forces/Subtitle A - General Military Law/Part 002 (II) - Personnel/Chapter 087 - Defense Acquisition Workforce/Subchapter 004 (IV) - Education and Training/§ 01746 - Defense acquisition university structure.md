@@ -52,7 +52,7 @@ Establishment of Structure.—Not later than October 1, 1991, the Secretary of D
 
 “(b)
 
-Implementation.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the defense acquisition university structure. Not later than August 1, 1992, the Secretary of Defense shall carry out the implementation plan.”
+Implementation.—Not later than October 1, 1991, the Secretary of Defense, acting through the UnderSecretary of Defense for Acquisition and Technology, shall prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the defense acquisition university structure. Not later than August 1, 1992, the Secretary of Defense shall carry out the implementation plan.”
 
 #### Section Referred to in Other Sections
 

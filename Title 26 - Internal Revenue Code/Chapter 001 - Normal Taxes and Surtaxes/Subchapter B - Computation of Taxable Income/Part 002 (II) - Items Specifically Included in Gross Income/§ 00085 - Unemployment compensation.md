@@ -42,7 +42,7 @@ Subsec. (b)(2). Pub. L. 97–248, §611(a)(2), substituted “$18,000” for “
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years endingafter such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years ending after such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1983 Amendment
 

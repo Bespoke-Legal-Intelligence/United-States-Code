@@ -74,7 +74,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Sept. 27, 1966, Pub. L. 89–607, §1(2), 80 Stat. 850; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2727(c), 98 Stat. 1195; Nov. 8, 1985, Pub. L. 99–145, title IX, §935, 99 Stat. 700; Apr. 21, 1987, Pub. L. 100–26, §7(g)(1), 101 Stat. 282; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1301(9), 104 Stat. 1668; Oct. 13, 1994, Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), 108 Stat. 3316, 3340.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Sept. 27, 1966, Pub. L. 89–607, §1(2), 80 Stat. 850; July 18,1984, Pub. L. 98–369, div. B, title VII, §2727(c), 98 Stat. 1195; Nov. 8, 1985, Pub. L. 99–145, title IX, §935, 99 Stat. 700; Apr. 21, 1987, Pub. L. 100–26, §7(g)(1), 101 Stat. 282; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1301(9), 104 Stat. 1668; Oct. 13, 1994, Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), 108 Stat. 3316, 3340.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ Feb. 19, 1948, ch. 65, §4(c); added Oct. 31, 1951, ch. 652 (as applicable to §
 
 In subsection (a), the words “An agency named in section 2303 of this title” are substituted for the words “a procuring agency”. The words “made by that agency under this chapter” are inserted for clarity.
 
-In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include aclause to the effect”. The words “are entitled” are substituted for the words “shall \* \* \* have \* \* \* the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
+In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall \* \* \* have \* \* \* the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 89–607, §1(2)(B), added subsec. (c).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

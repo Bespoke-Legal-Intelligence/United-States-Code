@@ -6,5 +6,5 @@ Effective with fiscal year 1978 and each fiscal year thereafter, there is hereby
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”,which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

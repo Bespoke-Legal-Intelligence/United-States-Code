@@ -86,7 +86,7 @@ Another prior section 295f–1, act July 1, 1944, ch. 373, title VII, §771, as 
 
 Section 295f–2, act July 1, 1944, ch. 373, title VII, §772, formerly §775, as added Nov. 18, 1971, Pub. L. 92–157, title I, §104(a), 85 Stat. 448; renumbered §772 and amended Oct. 12, 1976, Pub. L. 94–484, title V, §503(a), 90 Stat. 2300; Dec. 19, 1977, Pub. L. 95–215, §§1(b), 8(c), 91 Stat. 1504, 1507; Nov. 9, 1978, Pub. L. 95–623, §12(j), 92 Stat. 3457; Oct. 22, 1985, Pub. L. 99–129, title II, §211(c), 99 Stat. 539, related to applications for capitation grants.
 
-Another prior section 295f–2, act July 1, 1944, ch. 373, title VII, §772, as added Oct. 22, 1965, Pub. L. 89–290, §2(a), 79 Stat. 1053; amended Aug. 16, 1968, Pub. L. 90–490, title I, §111(a), (e), 82 Stat. 776, 777; Nov. 2, 1970, Pub. L. 91–519, title I, §102(a), 84 Stat. 1343; Nov. 18, 1971, Pub. L. 92–157, title I, §104(a), 85 Stat. 444; Nov. 16, 1973, Pub. L. 93–154, §3(b), 87 Stat. 604; July 12, 1974, Pub. L. 93–348, title II, §215, 88 Stat. 354; Oct. 12, 1976, Pub. L. 94–484, title I, §101(m), 90 Stat. 2245, provided special project grants and contracts, prior to repeal by Pub. L. 94–484, title V, §502, Oct. 12, 1976, 90 Stat. 2293, effective with respect to fiscal years beginning after Sept. 30, 1977.
+Another prior section 295f–2, act July 1, 1944, ch. 373, title VII, §772, as added Oct. 22, 1965, Pub. L. 89–290, §2(a), 79 Stat. 1053; amended Aug. 16, 1968, Pub. L. 90–490, title I, §111(a), (e), 82 Stat. 776, 777; Nov. 2, 1970, Pub. L. 91–519, title I, §102(a), 84 Stat. 1343; Nov. 18, 1971,Pub. L. 92–157, title I, §104(a), 85 Stat. 444; Nov. 16, 1973, Pub. L. 93–154, §3(b), 87 Stat. 604; July 12, 1974, Pub. L. 93–348, title II, §215, 88 Stat. 354; Oct. 12, 1976, Pub. L. 94–484, title I, §101(m), 90 Stat. 2245, provided special project grants and contracts, prior to repeal by Pub. L. 94–484, title V, §502, Oct. 12, 1976, 90 Stat. 2293, effective with respect to fiscal years beginning after Sept. 30, 1977.
 
 Section 295f–3, act July 1, 1944, ch. 373, title VII, §773, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §606(b), 102 Stat. 3127, provided for repeal of former part D of this subchapter, effective Oct. 1, 1990.
 
@@ -136,7 +136,7 @@ A prior section 295g–8a, act July 1, 1944, ch. 373, title VII, §788A, as adde
 
 Prior sections 295g–8b to 295g–10 were omitted in the general revision of this subchapter by Pub. L. 102–408.
 
-Section 295g–8b, act July 1, 1944, ch. 373, title VII, §788A, formerly §788B, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2745, 95 Stat. 926; amended Oct. 22, 1985, Pub. L. 99–129, title I, §110, title II, §§218,220(f)(2)–(4), 99 Stat. 524, 543, 544; Nov. 4, 1988, Pub. L. 100–607, title VI, §§622, 629(b)(2), 102 Stat. 3141, 3146; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g), 102 Stat. 4239; renumbered §788A and amended Aug. 16, 1989, Pub. L. 101–93, §5(k), (<i>o</i>)(4), 103 Stat. 613, 614, related to training with respect to acquired immune deficiency syndrome. See section 294n of this title.
+Section 295g–8b, act July 1, 1944, ch. 373, title VII, §788A, formerly §788B, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2745, 95 Stat. 926; amended Oct. 22, 1985, Pub. L. 99–129, title I, §110, title II, §§218, 220(f)(2)–(4), 99 Stat. 524, 543, 544; Nov. 4, 1988, Pub. L. 100–607, title VI, §§622, 629(b)(2), 102 Stat. 3141, 3146; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g), 102 Stat. 4239; renumbered §788A and amended Aug. 16, 1989, Pub. L. 101–93, §5(k), (<i>o</i>)(4), 103 Stat. 613, 614, related to training with respect to acquired immune deficiency syndrome. See section 294n of this title.
 
 Another prior section 788A of act July 1, 1944, was renumbered section 782 by section 614(a) of Pub. L. 100–607, as amended, and classified to section 295g–2 of this title.
 
@@ -166,7 +166,7 @@ Another prior section 295h, act July 1, 1944, ch. 373, title VII, §791, as adde
 
 A prior section 295h–1, act July 1, 1944, ch. 373, title VII, §792, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2304; amended Nov. 10, 1978, Pub. L. 95–626, title I, §121, 92 Stat. 3570; Sept. 29, 1979, Pub. L. 96–76, title II, §206(b), 93 Stat. 583, related to special projects for accredited schools of public health and graduate programs in health administration, prior to repeal by Pub. L. 97–35, title XXVII, §2746(c), Aug. 13, 1981, 95 Stat. 927.
 
-Another prior section 295h–1, act July 1, 1944, ch. 373, title VII, §792, as added Nov. 3, 1966, Pub. L. 89–751, §2, 80 Stat. 1226; amended Aug. 16, 1968, Pub. L. 90–490, title III, §301(a)(2), 82 Stat. 788; Nov. 2, 1970, Pub. L. 91–519, title II, §202(a), (b), 84 Stat. 1344, 1345; June 18, 1973, Pub. L. 93–45, title I, §109(a), (b), 87 Stat. 93; Oct. 12, 1976, Pub. L. 94–484, title I, §101(s)(1), (2), 90 Stat. 2246, provided for grants to improve quality of training centers for allied health professions, prior to the general revision of this part by Pub. L. 94–484.
+Another prior section 295h–1, act July 1, 1944, ch. 373, title VII, §792, as added Nov. 3, 1966, Pub. L. 89–751, §2, 80 Stat. 1226; amended Aug. 16, 1968, Pub. L. 90–490, title III, §301(a)(2), 82 Stat. 788; Nov. 2, 1970, Pub. L. 91–519, title II, §202(a), (b), 84 Stat. 1344, 1345; June 18, 1973, Pub. L. 93–45, title I, §109(a), (b), 87 Stat. 93; Oct. 12,1976, Pub. L. 94–484, title I, §101(s)(1), (2), 90 Stat. 2246, provided for grants to improve quality of training centers for allied health professions, prior to the general revision of this part by Pub. L. 94–484.
 
 Prior sections 295h–1a to 295h–2 were omitted in the general revision of this subchapter by Pub. L. 102–408.
 
@@ -214,9 +214,9 @@ Another prior section 295h–6, act July 1, 1944, ch. 373, title VII, §797, as 
 
 Section 295h–7, act July 1, 1944, ch. 373, title VII, §798, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2309, related to educational assistance to disadvantaged individuals in allied health training.
 
-Another prior section 295h–7, act July 1, 1944, ch. 373, title VII, §798(a), as added Aug. 16, 1968, Pub. L. 90–490, title III, §301(d), 82 Stat. 788; amended Nov. 2, 1970, Pub. L. 91–519, title II, §205, 84 Stat. 1354, required the Secretary to conduct a study of the allied health programs, prior to the general revision of this part by Pub. L. 94–484.
+Another prior section 295h–7, act July 1, 1944, ch. 373, title VII, §798, as added Aug. 16, 1968, Pub. L. 90–490, title III, §301(d), 82 Stat. 788; amended Nov. 2, 1970, Pub. L. 91–519, title II, §205, 84 Stat. 1354, directed Secretary to conduct a study of the allied health programs, prior to the general revision of this part by Pub. L. 94–484.
 
-A prior section 295h–8, act July 1, 1944, ch. 373, title VII, §799, as added Nov. 2, 1970, Pub. L. 91–519, title II, §206, 84 Stat. 1354; amended Nov. 18, 1971, Pub. L. 92–157, title I, §109, 85 Stat. 461, which related to advance funding, was renumbered section 703 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 292c of this title.
+A prior section 295h–8, act July 1, 1944, ch. 373, title VII, §799, as added Nov. 2, 1970, Pub. L. 91–519, title II,§206, 84 Stat. 1354; amended Nov. 18, 1971, Pub. L. 92–157, title I, §109, 85 Stat. 461, which related to advance funding, was renumbered section 703 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 292c of this title.
 
 A prior section 295h–9, act July 1, 1944, ch. 373, title VII, §799A, as added Nov. 2, 1970, Pub. L. 91–519, title II, §207, 84 Stat. 1355, §704; amended Nov. 18, 1971, Pub. L. 92–157, title I, §110(2), 85 Stat. 461; July 12, 1974, Pub. L. 93–348, title I, §105, 88 Stat. 347, which related to sexual discrimination, was renumbered section 704 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 292d of this title.
 
@@ -224,5 +224,5 @@ A prior section 295i, act July 1, 1944, ch. 373, title VII, §799, as added Apr.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

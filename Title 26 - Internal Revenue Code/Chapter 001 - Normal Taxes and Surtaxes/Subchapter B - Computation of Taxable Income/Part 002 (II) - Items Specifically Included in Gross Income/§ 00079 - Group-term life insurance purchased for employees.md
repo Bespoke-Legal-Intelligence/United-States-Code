@@ -172,7 +172,7 @@ In general.—The amendments made by this section \[enacting section 89 of this 
 
 &emsp;“(B) the earlier of—
 
-&emsp;&emsp;“(i) the date which is 3 months after the date on which the Secretary of the Treasury or his delegate issues such regulations as are necessary to carry out the provisions of section 89 of the Internal Revenue Code of 1986 (as added by this section), or
+&emsp;&emsp;“(i) the date which is 3 months after the date on which the Secretary of the Treasury or his delegateissues such regulations as are necessary to carry out the provisions of section 89 of the Internal Revenue Code of 1986 (as added by this section), or
 
 &emsp;&emsp;“(ii) December 31, 1988.
 
@@ -236,7 +236,7 @@ Special rule in the case of discriminatory group-term life insurance plan.—In 
 
 &emsp;“(C)
 
-Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or beforeDecember 31, 1986, may, at the employer's election, be disregarded.
+Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer's election, be disregarded.
 
 &emsp;“(D)
 

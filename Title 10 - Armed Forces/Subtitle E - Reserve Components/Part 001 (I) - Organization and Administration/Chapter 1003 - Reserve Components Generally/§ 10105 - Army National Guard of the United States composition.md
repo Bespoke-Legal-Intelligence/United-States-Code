@@ -110,7 +110,7 @@ Establishment of Personnel Account.—The Secretary of the Army shall establish 
 
 “(b)
 
-Use of Account.—Until a member of the Army National Guard has completed the minimum training necessary for deployment, the member may not be assigned to fill a position in a National Guard unit but shall be carried in the account established under subsection (a).
+Use of Account.—Until a member of the Army National Guard has completed the minimum trainingnecessary for deployment, the member may not be assigned to fill a position in a National Guard unit but shall be carried in the account established under subsection (a).
 
 “(c)
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) 331/3 percent shall be allocated on the basis of the relative excess number of unemployed individuals who reside in each service delivery area as compared to the total excess number of unemployed individuals in all service delivery areas in the State; and
 
-&emsp;&emsp;(C) 331/3 percent shall be allocated on the basis of the relative number of economically disadvantaged adults within each service delivery area compared to the total number of economically disadvantaged adults in the State, except that the allocation for any service delivery area described in section 1511(a)(4)(A)(iii) of this title shall be based on the higher of the number of adults in families with an income below the low-income level in such area or the number of economically disadvantaged adults in such area.
+&emsp;&emsp;(C) 331/3 percent shall be allocated on the basis of the relative number of economically disadvantaged adults within each service delivery area compared to the total number of economically disadvantaged adults in the State, except that the allocation for any service delivery area described in section 1511(a)(4)(A)(iii) of this title shall be based on the higher of the number of adults in families with an income below the low-income level in such area or the number ofeconomically disadvantaged adults in such area.
 
 #### (2) Limitations
 
@@ -182,7 +182,7 @@ As used in this section:
 
 #### <i>(ii) Fiscal year 1992</i>
 
-&emsp;&emsp;&emsp;<i>For purposes of subparagraphs (A) and (B), the allocation percentage of a service delivery area for fiscal year 1992 shall be the percent</i><i>age of funds allocated to the service delivery area under this part.</i>
+&emsp;&emsp;&emsp;<i>For purposes of subparagraphs (A) and (B), the allocation percentage of a service delivery area for fiscal year 1992 shall be the percentage of funds allocated to the service delivery area under this part.</i>
 
 #### (c) State activities
 
@@ -284,7 +284,7 @@ Level of funding.—If section 202 of the Job Training Partnership Act \[this se
 
 &emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 202 of this Act \[enacting this section\] shall take effect. \[Amendment by section 202 did not take effect because the appropriations referred to above for fiscal year 1995 were less than the sum referred to above.\]
+> &emsp;the amendment made by section 202 of this Act \[enacting this section\] shall take effect. \[Amendment by section 202 did not take effect because the appropriations referred to above for fiscal year 1996 were less than the sum referred to above.\]
 
 &emsp;“(2)
 

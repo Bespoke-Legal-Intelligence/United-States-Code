@@ -38,7 +38,7 @@ The State educational agency shall award grants on a competitive basis to instit
 
 &emsp;(9) When the study of teacher education programs is completed in accordance with section 1102c(c) of this title, to implement the program and policy changes for teacher education programs resulting from the findings of such study.
 
-(Pub. L. 89 329, title V, §507, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 669.)
+(Pub. L. 89–329, title V, §507, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 669.)
 
 #### Section Referred to in Other Sections
 

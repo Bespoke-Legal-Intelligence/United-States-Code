@@ -40,9 +40,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Asbestos Trust Fund shall be credited to and form a part of the Trust Fund.
 
-#### (2) Report
-
-&emsp;It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.
+#### (2) Repealed. Pub. L. 104–66, title I, §1131(c), Dec. 21, 1995, 109 Stat. 725
 
 #### (d) Expenditures from Asbestos Trust Fund
 
@@ -68,7 +66,7 @@ Amounts in the Asbestos Trust Fund shall be available, as provided by appropriat
 
 The amendments made by this section shall take effect on January 1, 1986.
 
-(Pub. L. 99 519, §5, Oct. 22, 1986, 100 Stat. 2990; Pub. L. 101 637, §12, Nov. 28, 1990, 104 Stat. 4593.)
+(Pub. L. 99–519, §5, Oct. 22, 1986, 100 Stat. 2990; Pub. L. 101–637, §12, Nov. 28, 1990, 104 Stat. 4593; Pub. L. 104–66, title I, §1131(c), Dec. 21, 1995, 109 Stat. 725.)
 
 #### Codification
 
@@ -76,9 +74,11 @@ Section was enacted as part of the Asbestos Hazard Emergency Response Act of 198
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101 637, §12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
+1995—Subsec. (c)(2). Pub. L. 104–66 struck out heading and text of par. (2). Text read as follows: “It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.”
 
-Subsec. (d). Pub. L. 101 637, §12(b), struck out before period at end “as in effect on October 22, 1986”.
+1990—Subsec. (b)(1). Pub. L. 101–637, §12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
+
+Subsec. (d). Pub. L. 101–637, §12(b), struck out before period at end “as in effect on October 22, 1986”.
 
 #### Section Referred to in Other Sections
 

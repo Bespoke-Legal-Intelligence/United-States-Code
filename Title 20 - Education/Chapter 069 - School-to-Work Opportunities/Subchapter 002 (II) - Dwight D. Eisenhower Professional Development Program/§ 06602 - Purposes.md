@@ -18,5 +18,5 @@ The purposes of this subchapter are to provide assistance to State and local edu
 
 &emsp;&emsp;(F) is part of the everyday life of the school and creates an orientation toward continuous improvement throughout the school.
 
-(Pub. L. 89 10, title II, §2002, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3613.)
+(Pub. L. 89–10, title II, §2002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3613.)
 

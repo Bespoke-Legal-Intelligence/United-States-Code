@@ -1,6 +1,6 @@
 ### §5110. Effective dates of awards
 
-(a) Unless specifically provided otherwise in this chapter, the effective date of an awardbased on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.
+(a) Unless specifically provided otherwise in this chapter, the effective date of an award based on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.
 
 (b)(1) The effective date of an award of disability compensation to a veteran shall be the day following the date of the veteran's discharge or release if application therefor is received within one year from such date of discharge or release.
 
@@ -28,11 +28,11 @@
 
 (i) Whenever any disallowed claim is reopened and thereafter allowed on the basis of new and material evidence resulting from the correction of the military records of the proper service department under section 1552 of title 10, or the change, correction, or modification of a discharge or dismissal under section 1553 of title 10, or from other corrective action by competent authority, the effective date of commencement of the benefits so awarded shall be the date on which an application was filed for correction of the military record or for the change, modification, or correction of a discharge or dismissal, as the case may be, or the date such disallowed claim was filed, whichever date is the later, but in no event shall such award of benefits be retroactive for more than one year from the date of reopening of such disallowed claim. This subsection shall not apply to any application or claim for Government life insurance benefits.
 
-(j) Where a report or a finding of death of any person in the active military, naval, or air service has been made by the Secretary concerned, the effective date of an award of death compensation, dependency and indemnity compensation, or death pension, as applicable, shall be the first day of the month fixed by that Secretary as the month of death in such report or finding, if application therefor is received within one year from the date such report or finding has been made; however, such benefits shall not be payable to any person for any period for which such person has received, or was entitled to receive, an allowance, allotment, or service pay of the deceased.
+(j) Where a report or a finding of death of any person in the active military, naval, or air service has been made by the Secretary concerned, the effective date of an award of death compensation, dependency and indemnity compensation, or death pension, as applicable, shall be the first day of the month fixed by that Secretary as the month of death in such report or finding, if application therefor is received within one year from the date such report or finding has been made; however, such benefits shall not be payable to any person for any period for which such person has received, or was entitledto receive, an allowance, allotment, or service pay of the deceased.
 
 (k) The effective date of the award of benefits to a surviving spouse or of an award or increase of benefits based on recognition of a child, upon annulment of a marriage shall be the date the judicial decree of annulment becomes final if a claim therefor is filed within one year from the date the judicial decree of annulment becomes final; in all other cases the effective date shall be the date the claim is filed.
 
-(<i>l</i>) The effective date of an award of benefits to a surviving spouse based upon a termination ofa remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
+(<i>l</i>) The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
 
 \[(m) Repealed. Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688.\]
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 91–376 effective Jan. 1, 1971, see section 9 of Pub. L. 9
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962,see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
+Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 
 #### Section Referred to in Other Sections
 

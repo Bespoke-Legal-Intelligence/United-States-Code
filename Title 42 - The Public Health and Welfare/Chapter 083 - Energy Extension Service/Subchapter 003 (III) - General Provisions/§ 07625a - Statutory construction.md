@@ -1,6 +1,6 @@
 ### §7625a. Statutory construction
 
-The parenthetical cross references in any provision of this chapter to other provisions of the chapter, or other provisions of law, where thewords “relating to” or “pertaining to” are used, are made only for convenience, and shall be given no legal effect.
+The parenthetical cross references in any provision of this chapter to other provisions of the chapter, or other provisions of law, where the words “relating to” or “pertaining to” are used, are made only for convenience, and shall be given no legal effect.
 
 (July 14, 1955, ch. 360, title III, §326, as added Nov. 16, 1977, Pub. L. 95–190, §14(a)(84), 91 Stat. 1404; renumbered §325, July 2, 1980, Pub. L. 96–300, §1(c), 94 Stat. 831; renumbered §326, Dec. 8, 1983, Pub. L. 98–213, §11, 97 Stat. 1461.)
 

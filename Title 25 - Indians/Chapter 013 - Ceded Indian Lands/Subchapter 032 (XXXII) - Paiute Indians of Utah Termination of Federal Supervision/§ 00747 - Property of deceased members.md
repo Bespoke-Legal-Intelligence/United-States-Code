@@ -2,7 +2,7 @@
 
 #### (a) Federal laws inapplicable to probate
 
-The Act of June 25, 1910 (36 Stat. 855), the Act of February 14, 1913 (37 Stat. 678), and other Actsamendatory thereto shall not apply to the probate of the trust and restricted property of the members of a tribe who die six months or more after September 1, 1954.
+The Act of June 25, 1910 (36 Stat. 855), the Act of February 14, 1913 (37 Stat. 678), and other Acts amendatory thereto shall not apply to the probate of the trust and restricted property of the members of a tribe who die six months or more after September 1, 1954.
 
 #### (b) State, etc., laws applicable to probate
 

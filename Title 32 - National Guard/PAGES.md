@@ -1,6 +1,6 @@
 # Printed pages - Title 32 - National Guard
 
-GPO's 1994 edition (laws in effect as of 1995-01-04), from its printed page marks. The exact position of
+GPO's 1995 edition (laws in effect as of 1996-01-16), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title32.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -76,4 +76,4 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00713 - Official mail free transmission](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000713%20-%20Official%20mail%20free%20transmission.md) | 40 |
 | [&sect; 00714 - Final settlement of accounts deceased members](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000714%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md) | 40–41 |
 | [&sect; 00715 - Property loss; personal injury or death activities under certain sections of this title](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md) | 41–42 |
-| [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | 42 |
+| [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | 42–43 |

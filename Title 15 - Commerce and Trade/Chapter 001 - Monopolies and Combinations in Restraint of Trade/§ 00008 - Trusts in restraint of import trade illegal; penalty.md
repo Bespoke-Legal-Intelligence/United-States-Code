@@ -24,7 +24,7 @@ Panama Canal closed to violators of antitrust laws, see section 31 of this title
 
 #### Wilson Tariff Act Referred to in Other Sections
 
-The Wilson Tariff Act \[15 U.S.C. 8 to 11\] is referred to in sections 12, 31, 44 of this title; title 7 section 225; title 16 section 2602, title 30 section 1413; title 42 section 2135; title 43 section 1331; title 46 App. section 814; title 49 section 10706.
+The Wilson Tariff Act \[15 U.S.C. 8 to 11\] is referred to in sections 12, 31, 44 of this title; title 7 section 225; title 16 section 2602, title 30 section 1413; title 42 section 2135; title 43 section 1331; title 49 section 10706.
 
 #### Section Referred to in Other Sections
 

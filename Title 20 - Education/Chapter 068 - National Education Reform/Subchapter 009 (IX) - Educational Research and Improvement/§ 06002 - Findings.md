@@ -32,9 +32,9 @@ The Congress finds as follows with respect to improving education in the United 
 
 &emsp;(11) The coordination of the mission of the Office with that of other components of the Department of Education is critical. The Office should improve the coordination of the educational research, development, and dissemination function with those of other Federal agencies.
 
-(Pub. L. 103 227, title IX, §902, Mar. 31, 1994, 108 Stat. 212.)
+(Pub. L. 103–227, title IX, §902, Mar. 31, 1994, 108 Stat. 212.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 

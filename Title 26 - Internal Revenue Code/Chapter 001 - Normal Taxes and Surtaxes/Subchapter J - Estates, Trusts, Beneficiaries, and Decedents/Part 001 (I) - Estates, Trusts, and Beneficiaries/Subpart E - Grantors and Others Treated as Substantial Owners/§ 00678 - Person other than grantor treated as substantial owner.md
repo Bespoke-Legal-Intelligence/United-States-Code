@@ -10,7 +10,7 @@ A person other than the grantor shall be treated as the owner of any portion of 
 
 #### (b) Exception where grantor is taxable
 
-Subsection (a) shall not apply with respect to a power over income, as originally granted orthereafter modified, if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section.
+Subsection (a) shall not apply with respect to a power over income, as originally granted or thereafter modified, if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section.
 
 #### (c) Obligations of support
 

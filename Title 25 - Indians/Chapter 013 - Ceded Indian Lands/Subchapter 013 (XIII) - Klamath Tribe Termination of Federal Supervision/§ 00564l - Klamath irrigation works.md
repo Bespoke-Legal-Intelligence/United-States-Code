@@ -6,7 +6,7 @@ That part of section 499 of title 43, which relates to the transfer of the care,
 
 #### (b) Termination of construction costs deferment; recordation of lien
 
-Effective on the first day of the calendar year beginning after the date of the proclamation provided for in section 564q of this title, the deferment of the assessment and collection of construction costs provided for in the first proviso of section 386a of this title, shall terminate with respect to any lands within irrigation projects on the Klamath Reservation. The Secretary shall cause the first lien against such lands created by section 387 <sup>1</sup> of this title, to be filed of record in the appropriate county office.
+Effective on the first day of the calendar year beginning after the date of the proclamation provided for in section 564q of this title, the deferment of the assessment and collection of construction costs provided for in the first proviso of section 386a of this title, shall terminatewith respect to any lands within irrigation projects on the Klamath Reservation. The Secretary shall cause the first lien against such lands created by section 387 <sup>1</sup> of this title, to be filed of record in the appropriate county office.
 
 #### (c) Appropriation authorization
 

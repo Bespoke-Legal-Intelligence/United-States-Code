@@ -10,5 +10,5 @@ Section effective 18 months after July 26, 1990, see section 231(a) of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12150 of this title.
+This section is referred to in sections 12150, 12209 of this title; title 2 section 1331.
 

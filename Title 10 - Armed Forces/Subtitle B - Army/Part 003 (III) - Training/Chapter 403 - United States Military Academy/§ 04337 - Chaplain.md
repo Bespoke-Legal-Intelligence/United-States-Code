@@ -1,4 +1,4 @@
-### §4337 . Chaplain
+### §4337. Chaplain
 
 There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
@@ -22,7 +22,7 @@ Act
 
 Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573; June 2, 1945, ch. 172, 59 Stat. 230.
 
-The words “The chaplain may be reappointed” are substituted for the words “and said chaplain shall be eligible for reappointment for an additional term or terms”. The figures “$5,482.80” and “$6,714” are substituted for the figures “$4,000” and “$5,000” to reflect increases in the rates of salary of that office effected by the Federal Employees Pay Act of 1945, 59 Stat. 295, the Federal Employees Pay Act of 1946, 60 Stat. 216, thePostal Rate Revision and Federal Employees Salary Act of 1948, 62 Stat. 1260, and the Classification Act of 1949, 63 Stat. 954.
+The words “The chaplain may be reappointed” are substituted for the words “and said chaplain shall be eligible for reappointment for an additional term or terms”. The figures “$5,482.80” and “$6,714” are substituted for the figures “$4,000” and “$5,000” to reflect increases in the rates of salary of that office effected by the Federal Employees Pay Act of 1945, 59 Stat. 295, the Federal Employees Pay Act of 1946, 60 Stat. 216, the Postal Rate Revision and Federal Employees Salary Act of 1948, 62 Stat. 1260, and the Classification Act of 1949, 63 Stat. 954.
 
 #### 1962 Act
 

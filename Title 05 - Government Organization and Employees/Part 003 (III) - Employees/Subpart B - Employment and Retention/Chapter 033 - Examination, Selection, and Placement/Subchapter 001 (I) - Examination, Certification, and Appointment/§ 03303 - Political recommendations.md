@@ -56,7 +56,7 @@
 
 &emsp;(5) the statement is furnished pursuant to a provision of law or regulation authorizing consideration of such statement with respect to a specific position or category of positions.
 
-(g) An agency shall take any action it determines necessary and proper under subchapter Ior II of chapter 75 to enforce the provisions of this section.
+(g) An agency shall take any action it determines necessary and proper under subchapter I or II of chapter 75 to enforce the provisions of this section.
 
 (h) The provisions of this section shall not affect the right of any employee to petition Congress as authorized by section 7211.
 
@@ -80,7 +80,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1993—Pub. L. 103–94 substituted “Political recommendations” for “Competitive service; recommendations of Senators or Representatives” as section catchline and amended text generally. Prior to amendment, text read as follows: “An individual concerned in examining an applicant for or appointing him in the competitive service may not receive or consider a recommendation of the applicant by a Senator or Representative, except as to the character or residence of the applicant.”
+<b>1993</b>—Pub. L. 103–94 substituted “Political recommendations” for “Competitive service; recommendations of Senators or Representatives” as section catchline and amended text generally. Prior to amendment, text read as follows: “An individual concerned in examining an applicant for or appointing him in the competitive service may not receive or consider a recommendation of the applicant by a Senator or Representative, except as to the character or residence of the applicant.”
 
 #### Effective Date of 1993 Amendment; Savings Provision
 

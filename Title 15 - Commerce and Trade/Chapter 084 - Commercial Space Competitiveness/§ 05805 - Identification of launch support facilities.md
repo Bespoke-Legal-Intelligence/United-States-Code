@@ -8,9 +8,9 @@ The Administrator and the Secretary of Defense, as appropriate, in coordination 
 
 Not later than 1 year after November 4, 1992, the Administrator and the Secretary of Defense each shall submit to Congress a report containing the results of the identification required under subsection (a) of this section. Portions of such report may be classified and protected from public disclosure if such classification is necessary to protect national security.
 
-(Pub. L. 102 588, title V, §506, Nov. 4, 1992, 106 Stat. 5127.)
+(Pub. L. 102–588, title V, §506, Nov. 4, 1992, 106 Stat. 5127.)
 
 #### “Administrator” Defined
 
-Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102 588, 106 Stat. 5110.
+Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102–588, 106 Stat. 5110.
 

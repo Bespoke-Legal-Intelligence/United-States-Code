@@ -10,7 +10,7 @@ The Secretary shall consult with any interested Federal and State agencies, educ
 
 #### (c) Coordination of activities; annual report
 
-The Secretary shall coordinate all Federal survey and recovery activities authorized undersections 469 to 469c–1 of this title and shall submit an annual report at the end of each fiscal year to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate indicating the scope and effectiveness of the program, the specific projects surveyed and the results produced, and the costs incurred by the Federal Government as a result thereof.
+The Secretary shall coordinate all Federal survey and recovery activities authorized under sections 469 to 469c–1 of this title and shall submit an annual report at the end of each fiscal year to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate indicating the scope and effectiveness of the program, the specific projects surveyed and the results produced, and the costs incurred by the Federal Government as a result thereof.
 
 (Pub. L. 86–523, §5, formerly §2(c), (e), June 27, 1960, 74 Stat. 220, renumbered and amended Pub. L. 93–291, §1(4), (6), (7), May 24, 1974, 88 Stat. 175; Pub. L. 96–205, title VI, §608(b)(1), Mar. 12, 1980, 94 Stat. 92; Pub. L. 103–437, §6(d)(27), Nov. 2, 1994, 108 Stat. 4584.)
 
@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 93–291, §1(7), added subsec. (c).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) The term “full life-cycle cost”, with respect to a major defense acquisition program, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
+(b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and\(3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
 
 (2) A status report on a major defense acquisition program need not be included in the Selected Acquisition Report for the second, third, or fourth quarter of a fiscal year if such a report was included in a previous Selected Acquisition Report for that fiscal year and during the period since that report there has been—
 
@@ -78,7 +78,7 @@
 
 (g) The requirements of this section with respect to a major defense acquisition program shall cease to apply after 90 percent of the items to be delivered to the United States under the program (shown as the total quantity of items to be purchased under the program in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program have been made.
 
-(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such and the Secretary of Defense has decided to proceed to engineering and manufacturing development of such program. Reporting may belimited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to engineering and manufacturing development if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
+(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such and the Secretary of Defense has decided to proceed to engineering and manufacturing development of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to engineering and manufacturing development if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
 
 (2) A limited report under this subsection shall include the following:
 
@@ -132,7 +132,7 @@ Subsec. (h)(1). Pub. L. 103–355, §3002(h)(3), substituted “engineering and 
 
 Subsec. (b)(3). Pub. L. 102–484, §817(c)(2), added par. (3) and struck out former par. (3) which read as follows: “A status report on a particular major defense acquisition program need not be included in any Selected Acquisition Report with the approval of the Committees on Armed Services of the Senate and House of Representatives.”
 
-Subsec. (c)(2). Pub. L. 102–484, §817(c)(3), added sentence at end and struck out former last sentence whichread as follows: “A change in the content of the Selected Acquisition Report for the first quarter of a fiscal year from the content as reported for the first quarter of the previous fiscal year may not be made until appropriate officials of the Department of Defense consult with such Committees regarding the proposed changes.”
+Subsec. (c)(2). Pub. L. 102–484, §817(c)(3), added sentence at end and struck out former last sentence which read as follows: “A change in the content of the Selected Acquisition Report for the first quarter of a fiscal year from the content as reported for the first quarter of the previous fiscal year may not be made until appropriate officials of the Department of Defense consult with such Committees regarding the proposed changes.”
 
 Subsec. (c)(3)(C)(i) to (vii). Pub. L. 102–484, §817(c)(4), added cls. (i) to (vii) and struck out former cls. (i) to (vii) which contained similar specification and estimation requirements.
 
@@ -200,7 +200,7 @@ Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on NationalSecurity of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
@@ -208,7 +208,7 @@ Section 1407(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 1233(a)(1) of Pub. L. 100–180 applicable as if included in enactment of the DefenseTechnical Corrections Act of 1987, Pub. L. 100–26, see section 1233(c) of Pub. L. 100–180, set out as a note under section 101 of this title.
+Amendment by section 1233(a)(1) of Pub. L. 100–180 applicable as if included in enactment of the Defense Technical Corrections Act of 1987, Pub. L. 100–26, see section 1233(c) of Pub. L. 100–180, set out as a note under section 101 of this title.
 
 Amendment by section 1314(a)(1) of Pub. L. 100–180 applicable as if included in enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, see section 1314(e) of Pub. L. 100–180, set out as a note under section 743 of this title.
 

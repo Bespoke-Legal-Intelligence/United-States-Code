@@ -1,4 +1,4 @@
-### §410cc–23 . Agreements and technical assistance
+### §410cc–23. Agreements and technical assistance
 
 #### (a) Interpretative exhibits or programs
 

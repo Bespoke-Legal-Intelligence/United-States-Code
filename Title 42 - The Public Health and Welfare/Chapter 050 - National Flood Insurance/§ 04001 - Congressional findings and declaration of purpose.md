@@ -18,7 +18,7 @@ It is therefore the purpose of this chapter to (1) authorize a flood insurance p
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
-It is the further purpose of this chapter to (1) encourage State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
+It is the further purpose of this chapter to (1) encourage State and local governments to makeappropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
 
 #### (f) Mudslides
 
@@ -48,7 +48,7 @@ Section 501 of title V of Pub. L. 103–325 provided that: “This title \[enact
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–234, §1, Dec. 1, 1973, 87 Stat. 975, provided: “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing section 4021 of thistitle\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
+Pub. L. 93–234, §1, Dec. 1, 1973, 87 Stat. 975, provided: “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing section 4021 of this title\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
 
 #### Short Title
 
@@ -168,7 +168,7 @@ Submission.—The Director shall submit the report to the Congress as soon as pr
 
 #### Relation of Title V of Pub. L. 103–325 to State and Local Laws
 
-Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment note set out above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
+Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
 
 #### Floodplain Management
 

@@ -70,9 +70,11 @@
 
 &emsp;(C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
 
-&emsp;(D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies; and
+&emsp;(D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
 
-&emsp;(E) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
+&emsp;(E) include the report of the Secretary of Energy required by section 5523(d) of this title; and
+
+&emsp;(F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
 
 #### (b) High-performance computing advisory committee
 
@@ -98,13 +100,17 @@ The President shall establish an advisory committee on high-performance computin
 
 (2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(3)(A) of this section, and shall include, in the President's annual budget estimate, a statement of the portion of each appropriate agency's or department's annual budget estimate relating to its activities undertaken pursuant to the Program.
 
-(Pub. L. 102 194, title I, §101, Dec. 9, 1991, 105 Stat. 1595.)
+(Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719.)
+
+#### Amendments
+
+1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5503, 5528 of this title.
+This section is referred to in sections 5503, 5523, 5528 of this title.
 

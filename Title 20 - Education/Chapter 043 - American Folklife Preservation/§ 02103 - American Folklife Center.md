@@ -40,7 +40,7 @@ Members of the Board who are not regular full-time employees of the United State
 
 #### (f) Director; Deputy Director; appointment and compensation
 
-After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at a per year rate not to exceed GS 18 of the General Schedule under section 5332 of title 5. The Librarian upon the recommendation of the Director shall appoint a Deputy Director of the Center. The basic pay of the Deputy Director shall be fixed at a rate not to exceed GS 16 of the General Schedule under section 5332 of such title.
+After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at a per year rate not to exceed GS–18 of the General Schedule under section 5332 of title 5. The Librarian upon the recommendation of the Director shall appoint a Deputy Director of the Center. The basic pay of the Deputy Director shall be fixed at a rate not to exceed GS–16 of the General Schedule under section 5332 of such title.
 
 #### (g) Duties of Director and Deputy Director
 
@@ -48,13 +48,13 @@ After consultation with the Board, the Librarian shall appoint the Director of t
 
 (2) The Deputy Director shall perform such functions as the Director, with the approval of the Librarian, may prescribe, and shall serve as Acting Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director.
 
-(Pub. L. 94 201, §4, Jan. 2, 1976, 89 Stat. 1130; Pub. L. 95 259, §2, Apr. 17, 1978, 92 Stat. 196.)
+(Pub. L. 94–201, §4, Jan. 2, 1976, 89 Stat. 1130; Pub. L. 95–259, §2, Apr. 17, 1978, 92 Stat. 196.)
 
 #### Amendments
 
-1978—Subsec. (c). Pub. L. 95 259 inserted provision limiting time of service of members appointed by the President to the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
+1978—Subsec. (c). Pub. L. 95–259 inserted provision limiting time of service of members appointed by the President to the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -52,7 +52,7 @@ A tribe may not receive funds under this section if such tribe receives funds un
 
 There are authorized to be appropriated to the Department of Education $3,000,000 for each of the fiscal years 1995 through 1999 to carry out this section.
 
-(Pub. L. 89 10, title IX, §9125, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3789.)
+(Pub. L. 89–10, title IX, §9125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3789.)
 
 #### References in Text
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
 
-&emsp;(10) The term “in-kind commodities” means commodities that are normally produced onland that is the subject of an agreement entered into under subchapter IV of this chapter.
+&emsp;(10) The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
 
 &emsp;(11) The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
 

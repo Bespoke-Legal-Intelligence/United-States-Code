@@ -60,7 +60,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Detail of Retired Officer as Librarian
 
-Provisions authorizing the performance of the duties of the librarian at the United States Military Academy by a retired officer detailed on active duty, which werecontained in Pub. L. 85–724, title III, Aug. 22, 1958, 72 Stat. 714, the Department of Defense Appropriation Act, 1959, were not contained in subsequent appropriation acts. Similar provisions were contained in the following prior acts:
+Provisions authorizing the performance of the duties of the librarian at the United States Military Academy by a retired officer detailed on active duty, which were contained in Pub. L. 85–724, title III, Aug. 22, 1958, 72 Stat. 714, the Department of Defense Appropriation Act, 1959, were not contained in subsequent appropriation acts. Similar provisions were contained in the following prior acts:
 
 Aug. 2, 1957, Pub. L. 85–117, title III, 71 Stat. 313.
 

@@ -1,4 +1,4 @@
-### §1490 . Transportation of remains: certain retired members and dependents who die in military medical facilities
+### §1490. Transportation of remains: certain retired members and dependents who die in military medical facilities
 
 (a) Subject to subsection (b), when a member entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, dies while properly admitted under chapter 55 of this title to a medical facility of the armed forces located in the United States, the Secretary concerned may transport the remains, or pay the cost of transporting the remains, of the decedent to the place of burial of the decedent.
 

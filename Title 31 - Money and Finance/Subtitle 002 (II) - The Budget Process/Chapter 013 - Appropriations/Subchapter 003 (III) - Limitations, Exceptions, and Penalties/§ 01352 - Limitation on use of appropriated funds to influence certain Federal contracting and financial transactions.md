@@ -22,35 +22,11 @@
 
 (2) A declaration filed by a person pursuant to paragraph (1)(A) of this subsection in connection with a Federal contract, grant, loan, or cooperative agreement shall contain—
 
-&emsp;(A) a statement setting forth whether such person—
+&emsp;(A) the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person with respect to that Federal contract, grant, loan, or cooperative agreement; and
 
-&emsp;&emsp;(i) has made any payment with respect to that Federal contract, grant, loan, or cooperative agreement, using funds other than appropriated funds, which would be prohibited by subsection (a) of this section if the payment were paid for with appropriated funds; or
+&emsp;(B) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).
 
-&emsp;&emsp;(ii) has agreed to make any such payment;
-
-&emsp;(B) with respect to each such payment (if any) and each such agreement (if any)—
-
-&emsp;&emsp;(i) the name and address of each person paid, to be paid, or reasonably expected to be paid;
-
-&emsp;&emsp;(ii) the name and address of each individual performing the services for which such payment is made, to be made, or reasonably expected to be made;
-
-&emsp;&emsp;(iii) the amount paid, to be paid, or reasonably expected to be paid;
-
-&emsp;&emsp;(iv) how the person was paid, is to be paid, or is reasonably expected to be paid; and
-
-&emsp;&emsp;(v) the activity for which the person was paid, is to be paid, or is reasonably expected to be paid; and
-
-&emsp;(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).
-
-(3) A declaration filed by a person pursuant to paragraph (1)(A) of this subsection in connection with a commitment providing for the United States to insure or guarantee a loan shall contain—
-
-&emsp;(A) a statement setting forth whether such person—
-
-&emsp;&emsp;(i) has made any payment to influence or attempt to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with that loan insurance or guaranty; or
-
-&emsp;&emsp;(ii) has agreed to make any such payment; and
-
-&emsp;(B) with respect to each such payment (if any) and each such agreement (if any), the information described in paragraph (2)(B) of this subsection.
+(3) A declaration filed by a person pursuant to paragraph (1)(A) of this subsection in connection with a commitment providing for the United States to insure or guarantee a loan shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that loan insurance or guarantee.
 
 (4) A person referred to in paragraph (1)(A) of this subsection shall file a declaration referred to in that paragraph—
 
@@ -62,17 +38,7 @@
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
-(6)(A) The head of each agency shall collect and compile the information contained, pursuant to paragraphs (2)(B) and (3)(B) of this subsection, in the statements filed under this subsection and, on May 31 and November 30 of each year, submit to the Secretary of the Senate and the Clerk of the House of Representatives a report containing a compilation of the information contained, pursuant to such paragraphs, in the statements received during the six-month period ending on March 31 or September 30, respectively, of that year. The report, including the compilation, shall be available for public inspection 30 days after receipt of the report by the Secretary and the Clerk.
-
-(B) Notwithstanding subparagraph (A)—
-
-&emsp;(i) information referred to in subparagraph (A) that involves intelligence matters shall be reported only to the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives in accordance with procedures agreed to by such committees;
-
-&emsp;(ii) information referred to in subparagraph (A) that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy, is classified in accordance with such order, and is available only by special access shall be reported only to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives or the Committees on Armed Services of the Senate and the House of Representatives (whichever such committees have jurisdiction of matters involving such information) and to the Committees on Appropriations of the Senate and the House of Representatives in accordance with procedures agreed to by such committees; and
-
-&emsp;(iii) information reported in accordance with this subparagraph shall not be available for public inspection.
-
-(7) The Director of the Office of Management and Budget, after consulting with the Secretary of the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
+(6) The Director of the Office of Management and Budget, after consulting with the Secretary of the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
 
 (c)(1) Any person who makes an expenditure prohibited by subsection (a) of this section shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such expenditure.
 
@@ -84,17 +50,7 @@
 
 (4) An imposition of a civil penalty under this subsection does not prevent the United States from seeking any other remedy that the United States may have for the same conduct that is the basis for the imposition of such civil penalty.
 
-(d)(1) The official of each agency referred to in paragraph (3) of this subsection shall submit to Congress each year an evaluation of the compliance of that agency with, and the effectiveness of, the requirements imposed by this section on the agency, persons requesting or receiving Federal contracts, grants, loans, or cooperative agreements from that agency, and persons requesting or receiving from that agency commitments providing for the United States to insure or guarantee loans. The report shall be submitted at the same time the agency submits its annual budget justifications to Congress.
-
-(2) The report of an agency under paragraph (1) of this subsection shall include the following:
-
-&emsp;(A) All alleged violations of the requirements of subsections (a) and (b) of this section, relating to the agency's Federal actions referred to in such subsections, during the year covered by the report.
-
-&emsp;(B) The actions taken by the head of the agency in such year with respect to those alleged violations and any alleged violations of subsections (a) and (b) of this section that occurred before such year, including the amounts of civil penalties imposed by the head of such agency in such year, if any.
-
-(3) The Inspector General of an agency shall prepare and submit the annual report of the agency required by paragraph (1) of this subsection. In the case of an agency that does not have an inspector general, the agency official comparable to an inspector general shall prepareand submit the annual report, or, if there is no such comparable official, the head of the agency shall prepare and submit such annual report.
-
-(e)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
+(d)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
 
 (B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, or modification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
 
@@ -108,11 +64,11 @@
 
 &emsp;(C) a request for or receipt of a loan, or a commitment providing for the United States to insure or guarantee a loan, that does not exceed $150,000, or the single family maximum mortgage limit for affected programs, whichever is greater, including a contract or subcontract to carry out any purpose for which such a loan is made.
 
-(f) The Secretary of Defense may exempt a Federal action described in subsection (a)(2) from the prohibition in subsection (a)(1) whenever the Secretary determines, in writing, that such an exemption is in the national interest. The Secretary shall transmit a copy of each such written exemption to Congress immediately after making such determination.
+(e) The Secretary of Defense may exempt a Federal action described in subsection (a)(2) from the prohibition in subsection (a)(1) whenever the Secretary determines, in writing, that such an exemption is in the national interest. The Secretary shall transmit a copy of each such written exemption to Congress immediately after making such determination.
 
-(g) The head of each Federal agency shall take such actions as are necessary to ensure that the provisions of this section are vigorously implemented and enforced in such agency.
+(f) The head of each Federal agency shall take such actions as are necessary to ensure that the provisions of this section are vigorously implemented and enforced in such agency.
 
-(h) As used in this section:
+(g) As used in this section:
 
 &emsp;(1) The term “recipient”, with respect to funds received in connection with a Federal contract, grant, loan, or cooperative agreement—
 
@@ -172,13 +128,53 @@
 
 &emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
-(Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362.)
+(Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109 Stat. 734.)
+
+#### References in Text
+
+The Lobbying Disclosure Act of 1995, referred to in subsec. (b)(2)(A), (3), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
 #### Codification
 
 Another section 1352 was renumbered section 1353 of this title.
 
 #### Amendments
+
+1995—Subsec. (b)(2). Pub. L. 104–65, §10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) a statement setting forth whether such person—
+
+&emsp;“(i) has made any payment with respect to that Federal contract, grant, loan, or cooperative agreement, using funds other than appropriated funds, which would be prohibited by subsection (a) of this section if the payment were paid for with appropriated funds; or
+
+&emsp;“(ii) has agreed to make any such payment;
+
+“(B) with respect to each such payment (if any) and each such agreement (if any)—
+
+&emsp;“(i) the name and address of each person paid, to be paid, or reasonably expected to be paid;
+
+&emsp;“(ii) the name and address of each individual performing the services for which such payment is made, to be made, or reasonably expected to be made;
+
+&emsp;“(iii) the amount paid, to be paid, or reasonably expected to be paid;
+
+&emsp;“(iv) how the person was paid, is to be paid, or is reasonably expected to be paid; and
+
+&emsp;“(v) the activity for which the person was paid, is to be paid, or is reasonably expected to be paid; and
+
+“(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).”
+
+Subsec. (b)(3). Pub. L. 104–65, §10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that loan insurance or guarantee.” for “shall contain—” and struck out subpars. (A) and (B) which read as follows:
+
+“(A) a statement setting forth whether such person—
+
+&emsp;“(i) has made any payment to influence or attempt to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with that loan insurance or guaranty; or
+
+&emsp;“(ii) has agreed to make any such payment; and
+
+“(B) with respect to each such payment (if any) and each such agreement (if any), the information described in paragraph (2)(B) of this subsection.”
+
+Subsec. (b)(6), (7). Pub. L. 104–65, §10(a)(3), redesignated par. (7) as (6), and struck out former par. (6) which directed head of each agency to collect and compile detailed information on any unappropriated payments under Federal contracts, and report such information to the appropriate congressional officer or committee.
+
+Subsecs. (d) to (h). Pub. L. 104–65, §10(b), and Pub. L. 104–66, §3001(b), amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
 
 1994—Subsec. (c). Pub. L. 103–272, §4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
 
@@ -188,11 +184,9 @@ Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after “
 
 1990—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
 
-#### Change of Name
+#### Effective Date of 1995 Amendment
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
 #### Effective Date
 
@@ -200,11 +194,11 @@ Section 319(d) of Pub. L. 101–121 provided that: “Section 1352 of title 31, 
 
 #### First Report on May 31, 1990; Content
 
-Section 319(b) of Pub. L. 101–121 provided that: “The first report submitted under subsection (b)(6) of section 1352 of title 31, United States Code (as added by subsection (a)), shall be submitted on May 31, 1990, and shall contain a compilation relating to the statements received under subsection (b) of such section during the six-month period beginning on October 1, 1989.”
+Section 319(b) of Pub. L. 101–121 provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
 
-Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) of such section.”
+Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
 
 #### Section Referred to in Other Sections
 

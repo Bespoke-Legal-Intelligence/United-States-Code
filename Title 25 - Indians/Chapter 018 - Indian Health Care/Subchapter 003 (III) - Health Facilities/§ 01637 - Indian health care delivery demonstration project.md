@@ -58,7 +58,7 @@ The Secretary, in approving projects pursuant to this section, may authorize fun
 
 &emsp;(ix) Ft. Yuma, California.
 
-(B) The Secretary may also enter into contracts or award grants under this section taking into consideration applications received under this section from all service areas. The Secretary may not award a greater number of suchcontracts or grants in one service area than in any other service area until there is an equal number of such contracts or grants awarded with respect to all service areas from which the Secretary receives applications during the application period (as determined by the Secretary) which meet the criteria specified in paragraph (1).
+(B) The Secretary may also enter into contracts or award grants under this section taking into consideration applications received under this section from all service areas. The Secretary may not award a greater number of such contracts or grants in one service area than in any other service area until there is an equal number of such contracts or grants awarded with respect to all service areas from which the Secretary receives applications during the application period (as determined by the Secretary) which meet the criteria specified in paragraph (1).
 
 #### (d) Technical assistance
 

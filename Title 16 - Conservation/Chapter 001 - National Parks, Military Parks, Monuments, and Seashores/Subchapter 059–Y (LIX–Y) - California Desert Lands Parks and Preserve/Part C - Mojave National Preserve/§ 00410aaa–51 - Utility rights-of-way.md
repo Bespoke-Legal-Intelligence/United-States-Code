@@ -8,7 +8,7 @@
 
 &emsp;(A) in the Eldorado-Lugo Transmission Line rights-of-way (hereafter in this section referred to as the “Eldorado rights-of-way”) at no time shall there be more than three electrical transmission lines;
 
-&emsp;(B) in the Mojave-Lugo Transmission Line right-of-way (hereafter in this section referredto as the “Mojave right-of-way”) and adjacent right-of-way, removal of the existing electrical transmission line and reclamation of the site shall be completed no later than three years after the date on which construction of the upgraded transmission line begins, after which time there may be only one electrical transmission line in the lands encompassed by Mojave right-of-way and adjacent right-of-way;
+&emsp;(B) in the Mojave-Lugo Transmission Line right-of-way (hereafter in this section referred to as the “Mojave right-of-way”) and adjacent right-of-way, removal of the existing electrical transmission line and reclamation of the site shall be completed no later than three years after the date on which construction of the upgraded transmission line begins, after which time there may be only one electrical transmission line in the lands encompassed by Mojave right-of-way and adjacent right-of-way;
 
 &emsp;(C) if there are no more than two electrical transmission lines in the Eldorado rights-of-way, two electrical transmission lines in the lands encompassed by the Mojave right-of-way and adjacent right-of-way may be allowed;
 

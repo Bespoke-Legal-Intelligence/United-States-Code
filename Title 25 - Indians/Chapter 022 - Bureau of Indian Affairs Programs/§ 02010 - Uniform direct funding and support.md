@@ -36,7 +36,7 @@
 
 > &emsp;to fund allotments made under section 2007 of this title, and
 
-&emsp;(B) the Secretary may waive the application of the provisions of section 2001(h) of this title with respect to the closure or consolidation of a school, or the curtailment of a program at a school, during such fiscal year if the funds described in clauses (i) and (ii) of subparagraph\(A) with respect to such school are used to fund allotments made under section 2007 of this title for such fiscal year.
+&emsp;(B) the Secretary may waive the application of the provisions of section 2001(h) of this title with respect to the closure or consolidation of a school, or the curtailment of a program at a school, during such fiscal year if the funds described in clauses (i) and (ii) of subparagraph (A) with respect to such school are used to fund allotments made under section 2007 of this title for such fiscal year.
 
 #### (b) Local financial plans for expenditure of funds
 

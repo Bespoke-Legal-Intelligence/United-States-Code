@@ -16,11 +16,11 @@ The Congress finds that—
 
 &emsp;(6) many needed educational improvements will not need Federal funds, however, other suggested changes such as lengthened school years, better pay, after-school activities, mentoring for students at risk, programs for gifted students, and replacing substandard buildings, will require substantial Federal assistance; and
 
-&emsp;(7) the Federal contribution to education is less than two percent of the total Federal budget, and in order to make education a national priority, the total percentage of Federaleducational funding should be increased by one percent each year over the next eight years to reach 10 percent of the total Federal budget.
+&emsp;(7) the Federal contribution to education is less than two percent of the total Federal budget, and in order to make education a national priority, the total percentage of Federal educational funding should be increased by one percent each year over the next eight years to reach 10 percent of the total Federal budget.
 
 #### (b) Sense of Congress
 
 It is the sense of the Congress that the total share of the Federal spending on education should increase by at least one percent each year until such share reaches 10 percent of the total Federal budget.
 
-(Pub. L. 89 10, title XIV, §14801, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3911.)
+(Pub. L. 89–10, title XIV, §14801, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3911.)
 

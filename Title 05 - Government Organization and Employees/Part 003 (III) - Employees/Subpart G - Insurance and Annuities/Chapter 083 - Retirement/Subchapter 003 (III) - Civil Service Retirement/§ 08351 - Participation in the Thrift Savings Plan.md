@@ -46,7 +46,7 @@ Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), i
 
 #### Amendments
 
-1994—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
 
 Subsec. (b)(5). Pub. L. 103–226, §9(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “Section 8433(c) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates entitled to a deferred annuity under this subchapter.”
 
@@ -66,11 +66,11 @@ Subsec. (b)(9), (10). Pub. L. 103–226, §9(a)(3), redesignated pars. (9) and (
 
 Subsec. (b)(11). Pub. L. 103–353 added par. (11).
 
-1992—Subsec. (b)(4). Pub. L. 102–484 inserted “, separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “section 8337 of this title)”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–484 inserted “, separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “section 8337 of this title)”.
 
-1991—Subsecs. (d), (e). Pub. L. 102–183 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–183 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1990—Subsec. (b)(7)(D). Pub. L. 101–335, §6(b)(1)(B), added subpar. (D).
+<b>1990</b>—Subsec. (b)(7)(D). Pub. L. 101–335, §6(b)(1)(B), added subpar. (D).
 
 Subsec. (b)(8). Pub. L. 101–335, §6(b)(1)(A), added par. (8).
 
@@ -78,13 +78,13 @@ Pub. L. 101–335, §3(b)(1), struck out par. (8) which read as follows: “Sums
 
 Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
-1988—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1994 Amendments
 
 Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
-Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.”
+Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -102,7 +102,7 @@ Section 308(b) of Pub. L. 102–183 provided that:
 
 Section 3(c) of Pub. L. 101–335 provided that: “Subsections (a) and (b), and the amendments made by such subsections \[amending this section and sections 8438, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8438 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\], or as of such earlier date as the Executive Director may by regulation prescribe.”
 
-Section 6(c) of Pub. L. 101–335 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401, 8433, 8435, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8433 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\] (or as of such earlier date as the Executive Directormay by regulation prescribe), and shall apply with respect to separations occurring before, on, or after that effective date.”
+Section 6(c) of Pub. L. 101–335 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401, 8433, 8435, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8433 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\] (or as of such earlier date as the Executive Director may by regulation prescribe), and shall apply with respect to separations occurring before, on, or after that effective date.”
 
 #### Effective Date of 1988 Amendment
 
@@ -119,4 +119,6 @@ Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8432, 8439, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 50 section 2142.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(8)”.</i>
 

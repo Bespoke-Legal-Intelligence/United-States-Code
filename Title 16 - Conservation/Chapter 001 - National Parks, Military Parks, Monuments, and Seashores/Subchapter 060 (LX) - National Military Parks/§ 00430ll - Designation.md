@@ -2,7 +2,7 @@
 
 #### (a) Administration, protection, and development
 
-The lands acquired under section 430kk of this title shall be set aside as a public park for the benefit and enjoyment of the people of the United States, and shall be designated as the Wilson's Creek National Battlefield. The National Park Service, under the direction of the Secretary of the Interior, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.
+The lands acquired under section 430kk of this title shall be set aside as a public park for thebenefit and enjoyment of the people of the United States, and shall be designated as the Wilson's Creek National Battlefield. The National Park Service, under the direction of the Secretary of the Interior, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.
 
 #### (b) Improvements
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 8116, 8351, 8401, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 39 section 1005; title 40 section 214d; title 50 section 2154.
+This subchapter is referred to in sections 8116, 8351, 8401, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 31 section 9503; title 39 section 1005; title 40 section 214d; title 50 section 2154.
 
 
 ---

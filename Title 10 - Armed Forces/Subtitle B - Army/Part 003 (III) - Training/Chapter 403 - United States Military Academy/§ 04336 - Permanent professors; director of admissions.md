@@ -1,8 +1,8 @@
-### §4336 . Permanent professors; director of admissions
+### §4336. Permanent professors; director of admissions
 
 (a) A permanent professor of the Academy, other than the Dean of the Academic Board, who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Army has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
 
-(b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
+(b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion fromamong officers in the promotion zone, whichever is earlier.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 239; Aug. 6, 1958, Pub. L. 85–600, §1(11), 72 Stat. 523; Sept. 2, 1958, Pub. L. 85–861, §33(a)(46)(B), 72 Stat. 1567; Oct. 30, 1978, Pub. L. 95–551, §§2, 4(a), 92 Stat. 2069; Dec. 12, 1980, Pub. L. 96–513, title II, §218(a), title V, §502(25), 94 Stat. 2886, 2911; Oct. 19, 1984, Pub. L. 98–525, title V, §533(d)(1), 98 Stat. 2528.)
 

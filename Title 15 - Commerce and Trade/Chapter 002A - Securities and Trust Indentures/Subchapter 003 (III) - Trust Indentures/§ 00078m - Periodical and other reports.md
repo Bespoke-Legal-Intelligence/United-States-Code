@@ -220,7 +220,7 @@ Subsec. (d)(1). Pub. L. 100–241 inserted “or any equity security issued by a
 
 1987—Subsec. (c). Pub. L. 100–181, §315, struck out “of” after “thereof”.
 
-Subsec. (h). Pub. L. 100–181, §316, struck out subsec. (h) which required Commission to report to Congress within thirty months of Dec. 19, 1977, with respect to effectiveness of ownership reporting requirements contained in this chapter and desirability and feasibility of reducing or otherwise modifying the 5 per centum threshold used in subsecs. (d)(1) and (g)(1) of this section.
+Subsec. (h). Pub. L. 100–181, §316, struck out subsec. (h) which required Commission to report to Congresswithin thirty months of Dec. 19, 1977, with respect to effectiveness of ownership reporting requirements contained in this chapter and desirability and feasibility of reducing or otherwise modifying the 5 per centum threshold used in subsecs. (d)(1) and (g)(1) of this section.
 
 1983—Subsec. (e)(3). Pub. L. 98–38 added par. (3).
 
@@ -282,7 +282,7 @@ Withdrawal or striking from listing with national security exchange of security 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77nnn, 78<i>l</i>, 78n, 78<i>o</i>, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 42 section 2297b–6; title 43 section 1629c.
+This section is referred to in sections 77z–2, 77nnn, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 42 section 2297b–6; title 43 section 1629c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “account.”</i>
 

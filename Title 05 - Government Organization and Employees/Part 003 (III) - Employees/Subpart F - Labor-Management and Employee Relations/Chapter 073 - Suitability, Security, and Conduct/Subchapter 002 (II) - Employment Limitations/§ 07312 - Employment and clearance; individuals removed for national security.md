@@ -1,6 +1,6 @@
 ### §7312. Employment and clearance; individuals removed for national security
 
-Removal under section 7532 of this title does not affect the right of an individual so removed to seek or accept employment in an agency of the United States other than the agency from which removed. However, the appointment of an individual so removed may be made only after the head of the agency concerned has consulted with the Office of Personnel Management. The Office, on written request of the head of the agency or the individual so removed, may determine whether the individual is eligible for employment in an agency other than the agency from which removed.
+Removal under section 7532 of this title does not affect the right of an individual so removed to seek or accept employment in an agency of the United States other than the agency from which removed. However, the appointment of an individual so removed may be made only after the head of the agency concerned has consultedwith the Office of Personnel Management. The Office, on written request of the head of the agency or the individual so removed, may determine whether the individual is eligible for employment in an agency other than the agency from which removed.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 524; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
@@ -22,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 #### Effective Date of 1978 Amendment
 

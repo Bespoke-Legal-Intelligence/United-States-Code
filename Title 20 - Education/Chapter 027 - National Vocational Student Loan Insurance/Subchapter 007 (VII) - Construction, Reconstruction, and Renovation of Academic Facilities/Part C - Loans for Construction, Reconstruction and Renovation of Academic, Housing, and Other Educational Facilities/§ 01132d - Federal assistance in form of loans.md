@@ -26,31 +26,31 @@ Any institution of higher education or higher education building agency which, p
 
 The Secretary shall not make a loan under this part unless the institution of higher education or higher education building agency receiving such loan provides from non-Federal sources at least 20 percent of the development cost of the project for which the loan is made.
 
-(Pub. L. 89 329, title VII, §731, as added Pub. L. 102 325, title VII, §705, July 23, 1992, 106 Stat. 747; amended Pub. L. 103 208, §2(j)(18), (19), Dec. 20, 1993, 107 Stat. 2481.)
+(Pub. L. 89–329, title VII, §731, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106 Stat. 747; amended Pub. L. 103–208, §2(j)(18), (19), Dec. 20, 1993, 107 Stat. 2481.)
 
 #### Prior Provisions
 
-A prior section 1132d, Pub. L. 89 329, title VII, §731, as added Pub. L. 99 498, title VII, §701, Oct. 17, 1986, 100 Stat. 1525; amended Pub. L. 100 50, §19(3), June 3, 1987, 101 Stat. 360, related to eligibility conditions, amounts,and terms of loans for construction, reconstruction, and renovation of academic facilities, prior to the general revision of this part by Pub. L. 102 325.
+A prior section 1132d, Pub. L. 89–329, title VII, §731, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1525; amended Pub. L. 100–50, §19(3), June 3, 1987, 101 Stat. 360, related to eligibility conditions, amounts, and terms of loans for construction, reconstruction, and renovation of academic facilities, prior to the general revision of this part by Pub. L. 102–325.
 
-Another prior section 1132d, Pub. L. 89 329, title VII, §731, as added Pub. L. 96 374, title VII, §701, Oct. 3, 1980, 94 Stat. 1475, related to eligibility conditions, amounts, and terms of loans for construction, reconstruction, and renovation of academic facilities, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 1132d, Pub. L. 89–329, title VII, §731, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1475, related to eligibility conditions, amounts, and terms of loans for construction, reconstruction, and renovation of academic facilities, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1132d, Pub. L. 89 329, title VII, §761, as added Pub. L. 92 318, title I, §161(a), June 23, 1972, 86 Stat. 299, authorized appropriations for the program of assistance to major disaster areas, prior to the general revision of this subchapter by Pub. L. 96 374.
+Another prior section 1132d, Pub. L. 89–329, title VII, §761, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 299, authorized appropriations for the program of assistance to major disaster areas, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103 208, §2(j)(18), substituted “faculty” for “faculties” in introductory provisions.
+1993—Subsec. (a). Pub. L. 103–208, §2(j)(18), substituted “faculty” for “faculties” in introductory provisions.
 
-Subsec. (c). Pub. L. 103 208, §2(j)(19), struck out “enactment of” before “such date”.
+Subsec. (c). Pub. L. 103–208, §2(j)(19), struck out “enactment of” before “such date”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date
 
-Part effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Part effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1132d 3 of this title.
+This section is referred to in section 1132d–3 of this title.
 

@@ -20,7 +20,7 @@ Each study shall particularly examine the effects of such privatization on—
 
 &emsp;(6) the secondary market for residential loans and the liquidity of such loans; and
 
-&emsp;(7) any other factors that the Comptroller General, the Secretary of Housing and UrbanDevelopment, the Secretary of the Treasury, or the Director of the Congressional Budget Office deems appropriate to enable the Congress to evaluate the desirability and feasibility of privatization of the enterprises.
+&emsp;(7) any other factors that the Comptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, or the Director of the Congressional Budget Office deems appropriate to enable the Congress to evaluate the desirability and feasibility of privatization of the enterprises.
 
 #### (c) Information
 
@@ -40,5 +40,5 @@ The Federal National Mortgage Association and the Federal Home Loan Mortgage Cor
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

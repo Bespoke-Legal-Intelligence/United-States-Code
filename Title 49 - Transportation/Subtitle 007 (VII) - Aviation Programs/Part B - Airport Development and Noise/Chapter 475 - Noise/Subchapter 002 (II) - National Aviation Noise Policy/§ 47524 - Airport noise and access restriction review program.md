@@ -8,7 +8,7 @@ General Requirements.—The national aviation noise policy established under sec
 
 Stage 2
 
-Aircraft.—Except as provided in subsection (d) of this section, an airport noise or access restriction may include a restriction on the operation of stage 2 aircraft proposed after October 1, 1990, only if the airport operator publishes the proposed restriction and prepares and makes available for public comment at least 180 days before the effective date of the proposed restriction—
+Aircraft.—Except as provided in subsection (d) of this section, an airport noise oraccess restriction may include a restriction on the operation of stage 2 aircraft proposed after October 1, 1990, only if the airport operator publishes the proposed restriction and prepares and makes available for public comment at least 180 days before the effective date of the proposed restriction—
 
 &emsp;(1) an analysis of the anticipated or actual costs and benefits of the existing or proposed restriction;
 

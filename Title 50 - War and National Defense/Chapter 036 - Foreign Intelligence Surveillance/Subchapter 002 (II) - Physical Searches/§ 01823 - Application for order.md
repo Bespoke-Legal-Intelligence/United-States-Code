@@ -48,6 +48,10 @@ The judge may require the applicant to furnish such other information as may be 
 
 (Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446.)
 
+#### Officials Designated To Make Certifications
+
+For provisions listing officials designated by President to make certifications required by subsec. (a)(7) of this section, see Ex. Ord. No. 12949, §3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under section 1822 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1822, 1824 of this title.

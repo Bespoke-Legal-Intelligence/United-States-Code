@@ -398,7 +398,7 @@ Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in planyears commencing after final regulations implementing section 776 of Pub. L. 103–465 are prescribed by the Pension Benefit Guaranty Corporation, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
+Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in planyears commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
 Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
 
@@ -478,7 +478,7 @@ Special notice regarding sufficiency for terminations for which notices of suffi
 
 &emsp;&emsp;&emsp;“(ii)
 
-Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
+Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i)and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
 
 &emsp;&emsp;“(C)
 

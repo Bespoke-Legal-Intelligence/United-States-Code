@@ -368,7 +368,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5302, 5308, 5319, 5323, 5325, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338 of this title; title 42 section 3035<i>l.</i>
+This section is referred to in sections 5302, 5308, 5319, 5323, 5325, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338, 31138 of this title; title 42 section 3035<i>l.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

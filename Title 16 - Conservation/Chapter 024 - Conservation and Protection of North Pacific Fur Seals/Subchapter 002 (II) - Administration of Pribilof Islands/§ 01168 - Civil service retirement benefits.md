@@ -20,7 +20,7 @@ Notwithstanding any other provisions of this chapter or any other law, benefits 
 
 #### Codification
 
-“Subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” in subsec. (a) and for “the Civil Service Retirement Act” in subsec. (d), and “section 8342(h) of title 5” substituted for “section 11(h) of the Civil Service Retirement Act” in subsec. (c) on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section ofwhich enacted Title 5, Government Organization and Employees.
+“Subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” in subsec. (a) and for “the Civil Service Retirement Act” in subsec. (d), and “section 8342(h) of title 5” substituted for “section 11(h) of the Civil Service Retirement Act” in subsec. (c) on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

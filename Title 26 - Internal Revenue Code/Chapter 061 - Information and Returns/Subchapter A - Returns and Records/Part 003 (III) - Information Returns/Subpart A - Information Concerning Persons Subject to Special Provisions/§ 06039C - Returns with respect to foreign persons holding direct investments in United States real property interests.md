@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (4) Time and manner of filing return
 
-&emsp;All returns required to be made under this section shall be made at such time and in suchmanner as the Secretary shall by regulations prescribe.
+&emsp;All returns required to be made under this section shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
 #### (d) Special rule for United States interest and Virgin Islands interest
 

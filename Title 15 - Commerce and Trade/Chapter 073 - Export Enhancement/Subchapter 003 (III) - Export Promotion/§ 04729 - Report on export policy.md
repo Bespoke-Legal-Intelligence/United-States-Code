@@ -28,17 +28,33 @@ Not later than May 31 of each year, the Secretary of Commerce shall submit to th
 
 &emsp;&emsp;&emsp;(ii) subsidies by foreign countries to their domestic industries;
 
-&emsp;&emsp;(E) the efforts of the Department of Commerce to reduce trade barriers; and
+&emsp;&emsp;(E) the efforts of the Department of Commerce to reduce trade barriers;
 
-&emsp;&emsp;(F) the adequacy of export financing programs of the United States Government and recommendations for improving such programs.
+&emsp;&emsp;(F) the adequacy of export financing programs of the United States Government and recommendations for improving such programs;
+
+&emsp;&emsp;(G) the status, activities, and effectiveness of the United States commercial centers established under section 4723a of this title;
+
+&emsp;&emsp;(H) the implementation of sections 5821 and 5822 of title 22 <sup>1</sup> concerning American Business Centers and the Independent States Business and Agriculture Advisory Council;
+
+&emsp;&emsp;(I) the programs of other industrialized nations to assist their companies with their efforts to transact business in the independent states of the former Soviet Union; and
+
+&emsp;&emsp;(J) the trading practices of other Organization for Economic Cooperation and Development nations, as well as the pricing practices of transitional economies in the independent states, that may disadvantage United States companies.
 
 #### (2) Policy basis for reports
 
 &emsp;Portions of each report under this section may incorporate or be based upon relevant reports and testimony produced by the Department of Commerce or other agencies, but the policy views shall be those of the Secretary of Commerce.
 
-(Pub. L. 100 418, title II, §2314, as added Pub. L. 102 429, title II, §206, Oct. 21, 1992, 106 Stat. 2204.)
+(Pub. L. 100–418, title II, §2314, as added Pub. L. 102–429, title II, §206, Oct. 21, 1992, 106 Stat. 2204; amended Pub. L. 104–66, title I, §1022(b), Dec. 21, 1995, 109 Stat. 713.)
+
+#### References in Text
+
+Sections 5821 and 5822 of title 22, referred to in subsec. (b)(1)(H), was, in the original, “sections 301 and 302 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5821 and 5822)”, and was translated as meaning sections 301 and 302 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1995—Subsec. (b)(1)(G) to (J). Pub. L. 104–66 added subpars. (G) to (J).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

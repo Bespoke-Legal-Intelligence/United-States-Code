@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines under section 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding any such action, by no later than the date that is 30 days after the date on which such determination is made.
 
-(2)(A) Except as otherwise provided in this paragraph, the Trade Representative may delay, by not more than 180 days, the implementation of any action that is to be taken under section 2411 of this title—
+(2)(A) Except as otherwise provided in this paragraph, the Trade Representative may delay,by not more than 180 days, the implementation of any action that is to be taken under section 2411 of this title—
 
 &emsp;(i) if—
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(II) in the case of an investigation initiated under section 2412(b)(1) of this title or to which section 2414(a)(3)(B) of this title applies, a delay is requested by a majority of the representatives of the domestic industry that would benefit from the action, or
 
-&emsp;(ii) if the Trade Representative determines that substantial progress is being made, orthat a delay is necessary or desirable, to obtain United States rights or a satisfactory solution with respect to the acts, policies, or practices that are the subject of the action.
+&emsp;(ii) if the Trade Representative determines that substantial progress is being made, or that a delay is necessary or desirable, to obtain United States rights or a satisfactory solution with respect to the acts, policies, or practices that are the subject of the action.
 
 (B) The Trade Representative may not delay under subparagraph (A) the implementation of any action that is to be taken under section 2411 of this title with respect to any investigation to which section 2414(a)(3)(A) of this title applies.
 

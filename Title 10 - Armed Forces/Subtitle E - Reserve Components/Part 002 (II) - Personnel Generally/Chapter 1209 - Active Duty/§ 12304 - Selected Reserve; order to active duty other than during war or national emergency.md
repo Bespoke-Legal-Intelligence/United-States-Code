@@ -98,7 +98,19 @@ This order is effective immediately and shall be published in the Federal Regist
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 12982. Ordering Selected Reserve of Armed Forces to Active Duty
+
+Ex. Ord. No. 12982, Dec. 8, 1995, 60 F.R. 63895, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around former Yugoslavia. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
+
+This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+This order shall be published in the Federal Register and transmitted to the Congress.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 115, 523, 582, 641, 12305, 12318, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211, 4304; title 50 App. section 592.
+This section is referred to in sections 101, 115, 523, 582, 641, 12305, 12318, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211, 4312; title 50 App. section 592.
 

@@ -48,9 +48,11 @@
 | (c) | Standard of reasonableness. |
 | (d) | Effective date of registration statement with regard to underwriters. |
 | (e) | Measure of damages; undertaking for payment of costs. |
-| (f) | Joint and several liability. |
+| (f) | Joint and several liability; liability of outside director. |
 | (g) | Offering price to public as maximum amount recoverable. |
 | 77<i>l.</i> | Civil liabilities arising in connection with prospectuses and communications. |
+| (a) | In general. |
+| (b) | Loss causation. |
 | [77m.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077m%20-%20Limitation%20of%20actions.md) | Limitation of actions. |
 | [77n.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077n%20-%20Contrary%20stipulations%20void.md) | Contrary stipulations void. |
 | 77<i>o.</i> | Liability of controlling persons. |
@@ -72,6 +74,7 @@
 | (c) | Writ of mandamus. |
 | (d) | Money penalties in civil actions. |
 | (e) | Authority of court to prohibit persons from serving as officers and directors. |
+| (f) | Prohibition of attorneys’ fees paid from Commission disgorgement funds. |
 | [77u.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077u%20-%20Hearings%20by%20Commission.md) | Hearings by Commission. |
 | [77v.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077v%20-%20Jurisdiction%20of%20offenses%20and%20suits.md) | Jurisdiction of offenses and suits. |
 | (a) | Federal and State courts; venue; service of process; review; removal; costs. |
@@ -80,6 +83,21 @@
 | [77x.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077x%20-%20Penalties.md) | Penalties. |
 | [77y.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077y%20-%20Jurisdiction%20of%20other%20Government%20agencies%20over%20securities.md) | Jurisdiction of other Government agencies over securities. |
 | [77z.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077z%20-%20Separability.md) | Separability. |
+| 77z–1. | Private securities litigation. |
+| (a) | Private class actions. |
+| (b) | Stay of discovery; preservation of evidence. |
+| (c) | Sanctions for abusive litigation. |
+| (d) | Defendant's right to written interrogatories. |
+| 77z–2. | Application of safe harbor for forward-looking statements. |
+| (a) | Applicability. |
+| (b) | Exclusions. |
+| (c) | Safe harbor. |
+| (d) | Duty to update. |
+| (e) | Dispositive motion. |
+| (f) | Stay pending decision on motion. |
+| (g) | Exemption authority. |
+| (h) | Effect on other authority of Commission. |
+| (i) | Definitions. |
 | [77aa.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077aa%20-%20Schedule%20of%20information%20required%20in%20registration%20statement.md) | Schedule of information required in registration statement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -18,7 +18,7 @@
 
 > Such report shall be transmitted not less than 30 days prior to conferral of the personal rank of ambassador or minister except in cases where the President certifies in his report that urgent circumstances require the immediate conferral of such rank.
 
-(C) An individual upon whom a personal rank is conferred under subparagraph (A) or (B) shallnot receive any additional compensation solely by virtue of such personal rank.
+(C) An individual upon whom a personal rank is conferred under subparagraph (A) or (B) shall not receive any additional compensation solely by virtue of such personal rank.
 
 (3) Except as provided in paragraph (2)(B) of this subsection or in clause 3, section 2, article II of the Constitution (relating to recess appointments), an individual may not be designated as ambassador or minister, or be designated to serve in any position with the title of ambassador or minister, without the advice and consent of the Senate.
 
@@ -44,7 +44,7 @@ Functions of President under subsec. (a)(1) delegated to Secretary of State, see
 
 #### Executive Order No. 10062
 
-Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by act Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591; Ex. Ord. No. 10144, July 21, 1950, 15 F.R. 4705, eff. June 6, 1949, which established the position of United States High Commissioner for Germany, was revoked by Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, set out below.
+Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by act Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591; Ex. Ord. No. 10144, July 21, 1950, 15 F.R. 4705, eff. June 6,1949, which established the position of United States High Commissioner for Germany, was revoked by Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, set out below.
 
 #### Ex. Ord. No. 10608. United States Authority and Functions in Germany
 

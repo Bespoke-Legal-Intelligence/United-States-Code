@@ -14,11 +14,11 @@
 
 #### (B) Priority consideration
 
-&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
+&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; NewYork-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
 
 #### (3) Boundary dispute exception
 
-&emsp;In any case in which a boundary between two States passes through an estuary and suchboundary is disputed and is the subject of an action in any court, the Administrator shall not convene a management conference with respect to such estuary before a final adjudication has been made of such dispute.
+&emsp;In any case in which a boundary between two States passes through an estuary and such boundary is disputed and is the subject of an action in any court, the Administrator shall not convene a management conference with respect to such estuary before a final adjudication has been made of such dispute.
 
 #### (b) Purposes of conference
 
@@ -88,7 +88,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (h) Grant reporting
 
-Any person (including a State, interstate, or regional agency or entity) that receives a grantunder subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 
 #### (i) Authorization of appropriations
 

@@ -74,7 +74,7 @@ Subsec. (a)(3). Pub. L. 100–323, §2(e)(1)(A)(i), struck out par. (3) which re
 
 Subsec. (a)(4). Pub. L. 100–323, §2(e)(1)(A)(i), redesignated par. (4) as (2).
 
-Subsec. (a)(5). Pub. L. 100–323, §2(e)(1)(A)(i), struck out par. (5) which read as follows: “The distribution and use of funds provided for use in States under this section shall be subject to the continuing supervision and monitoring of the Assistant Secretary for Veterans’ Employment and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section.”
+Subsec. (a)(5). Pub. L. 100–323, §2(e)(1)(A)(i), struck out par. (5) which read as follows: “The distribution and use of funds provided for use in States under this section shall be subject to the continuing supervisionand monitoring of the Assistant Secretary for Veterans’ Employment and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section.”
 
 Subsec. (b)(2). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment”.
 

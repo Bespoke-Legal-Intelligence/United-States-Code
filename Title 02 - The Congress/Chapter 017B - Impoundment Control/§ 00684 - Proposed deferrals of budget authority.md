@@ -2,7 +2,7 @@
 
 #### (a) Transmittal of special message
 
-Whenever the President, the Director of the Office of Management and Budget, the head of any department or agency of the United States, or any officer or employee of the United States proposes to defer any budget authority provided for a specific purpose or project, the Presidentshall transmit to the House of Representatives and the Senate a special message specifying—
+Whenever the President, the Director of the Office of Management and Budget, the head of any department or agency of the United States, or any officer or employee of the United States proposes to defer any budget authority provided for a specific purpose or project, the President shall transmit to the House of Representatives and the Senate a special message specifying—
 
 &emsp;(1) the amount of the budget authority proposed to be deferred;
 

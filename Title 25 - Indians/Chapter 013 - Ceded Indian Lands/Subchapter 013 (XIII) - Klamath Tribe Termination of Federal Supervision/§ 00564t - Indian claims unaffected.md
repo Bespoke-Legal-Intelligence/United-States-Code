@@ -1,6 +1,6 @@
 ### §564t. Indian claims unaffected
 
-Nothing contained in this subchapter shall deprive the tribe or its constituent parts of anyright, privilege, or benefit granted by the Act of August 13, 1946 (60 Stat. 1049) \[25 U.S.C. 70 et seq.\].
+Nothing contained in this subchapter shall deprive the tribe or its constituent parts of any right, privilege, or benefit granted by the Act of August 13, 1946 (60 Stat. 1049) \[25 U.S.C. 70 et seq.\].
 
 (Aug. 13, 1954, ch. 732, §21, 68 Stat. 723.)
 

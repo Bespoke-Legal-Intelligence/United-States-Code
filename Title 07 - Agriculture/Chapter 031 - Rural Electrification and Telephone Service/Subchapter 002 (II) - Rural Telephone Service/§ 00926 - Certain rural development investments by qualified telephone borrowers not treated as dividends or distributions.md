@@ -1,0 +1,24 @@
+### §926. Certain rural development investments by qualified telephone borrowers not treated as dividends or distributions
+
+#### (a) In general
+
+The Secretary and the Governor of the telephone bank shall not—
+
+&emsp;(1) treat any amount invested by any qualified telephone borrower for any purpose described in section 2204b(c)(2) of this title (including any investment in, or extension of credit, guarantee, or advance made to, an affiliated company of the borrower, that is used by such company for such a purpose) as a dividend or distribution of capital to the extent that, immediately after such investment, the aggregate of such investments does not exceed 1/3 of the net worth of the borrower; or
+
+&emsp;(2) require a qualified telephone borrower to obtain the approval of the Secretary or the Governor of the telephone bank in order to make an investment described in paragraph (1).
+
+#### (b) “Qualified telephone borrower” defined
+
+As used in subsection (a) of this section, the term “qualified telephone borrower” means a person—
+
+&emsp;(1) to whom a telephone loan has been made or guaranteed under this chapter; and
+
+&emsp;(2) whose net worth is at least 20 percent of the total assets of such person.
+
+(May 20, 1936, ch. 432, title II, §205, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2356, 104 Stat. 4039; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–354 substituted “Secretary” for “Administrator” in two places.
+

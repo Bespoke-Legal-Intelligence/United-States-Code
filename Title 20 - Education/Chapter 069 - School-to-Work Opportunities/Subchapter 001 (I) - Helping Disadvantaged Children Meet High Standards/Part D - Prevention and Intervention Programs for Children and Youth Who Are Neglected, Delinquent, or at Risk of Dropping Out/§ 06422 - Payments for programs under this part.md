@@ -12,7 +12,7 @@ Each State shall retain, for purposes of subpart 2 of this part, funds generated
 
 Each State shall use any funds remaining after allocations are made under subsection (a) of this section.
 
-(Pub. L. 89 10, title I, §1402, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3592.)
+(Pub. L. 89–10, title I, §1402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3592.)
 
 #### Section Referred to in Other Sections
 

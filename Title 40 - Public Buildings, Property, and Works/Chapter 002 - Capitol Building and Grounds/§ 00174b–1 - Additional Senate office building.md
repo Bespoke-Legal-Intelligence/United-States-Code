@@ -14,7 +14,7 @@ Pub. L. 102–330, §1, Aug. 3, 1992, 106 Stat. 849, as amended by Pub. L. 103�
 
 “(a)
 
-Acquisition of Property.—(1) The Architect of the Capitol, under the direction of the Senate Committee on Rules and Administration, may acquire, on behalf of the United States Government, by purchase, condemnation, transfer or otherwise, as an addition to the United States Capitol Grounds, such real property in the District of Columbia as may be necessary to carry out the provisions of this Act \[this note\]. Real property acquired for purposes of this Act, may, in the discretion of the Architect of the Capitol, extend to the outer face of the curbs of such property so acquired, including alleys or parts of alleys and streets within thelot lines and curblines surrounding such real property, together with any or all improvements thereon.
+Acquisition of Property.—(1) The Architect of the Capitol, under the direction of the Senate Committee on Rules and Administration, may acquire, on behalf of the United States Government, by purchase, condemnation, transfer or otherwise, as an addition to the United States Capitol Grounds, such real property in the District of Columbia as may be necessary to carry out the provisions of this Act \[this note\]. Real property acquired for purposes of this Act, may, in the discretion of the Architect of the Capitol, extend to the outer face of the curbs of such property so acquired, including alleys or parts of alleys and streets within the lot lines and curblines surrounding such real property, together with any or all improvements thereon.
 
 “(2) Subject to the approval by the Committee on Appropriations of the Senate, an amount necessary to enable the Architect of the Capitol to carry out the provisions of this section may be transferred from any appropriation under the heading ‘
 
@@ -40,7 +40,7 @@ United States Capitol Grounds and Buildings.—Immediately upon the acquisition 
 
 “(c)
 
-Building Codes.—The real property and improvements acquired in accordance with subsection (a) shall be repaired and altered, to the maximum extent feasible as determined by the Architect of the Capitol, in accordance with a nationally recognized model building code, and other applicable nationally recognized codes (including electrical codes, fire and life safety codes, and plumbing codes, as determined by the Architect of the Capitol), using the most current edition of the nationally recognized codes referred to in this subsection.
+Building Codes.—The real property and improvements acquired in accordance with subsection (a) shall be repaired and altered, to the maximum extentfeasible as determined by the Architect of the Capitol, in accordance with a nationally recognized model building code, and other applicable nationally recognized codes (including electrical codes, fire and life safety codes, and plumbing codes, as determined by the Architect of the Capitol), using the most current edition of the nationally recognized codes referred to in this subsection.
 
 “(d)
 
@@ -76,7 +76,7 @@ Pub. L. 94–157, title I, §112, Dec. 18, 1975, 89 Stat. 832, provided that:
 
 “(b) Notwithstanding any other provision of law, property leased under authority of subsection (a) shall be maintained by the Architect of the Capitol as part of the ‘Senate Office Buildings’ subject to the laws, rules, and regulations governing such buildings, and the Architect is authorized to incur such expenses as may be necessary to provide for such occupancy.
 
-“(c) Notwithstanding any other provision of law, the Sergeant at Arms of the Senate, subject to the approval of the Committee on Rules and Administration and the Committee on Appropriations, is authorized to sublease any part of the property leased under authority of subsection (a) which is in excess of the requirements of the Senate. All rental payments under anysuch sublease shall be paid to the Sergeant at Arms of the Senate and such amounts shall thereupon be added to and merged with the appropriation ‘Miscellaneous Items’ under the Contingent Fund of the Senate.
+“(c) Notwithstanding any other provision of law, the Sergeant at Arms of the Senate, subject to the approval of the Committee on Rules and Administration and the Committee on Appropriations, is authorized to sublease any part of the property leased under authority of subsection (a) which is in excess of the requirements of the Senate. All rental payments under any such sublease shall be paid to the Sergeant at Arms of the Senate and such amounts shall thereupon be added to and merged with the appropriation ‘Miscellaneous Items’ under the Contingent Fund of the Senate.
 
 “(d) Notwithstanding any other provision of law, upon the approval of the Committee on Rules and Administration and the Committee on Appropriations, the Secretary of the Senate shall transfer by voucher or vouchers to the Architect of the Capitol from the ‘Contingent Fund of the Senate’ such amounts as may be necessary for the Architect of the Capitol to carry out the provisions of subsection (b) and such amounts shall thereupon be added to and merged with the appropriation ‘Senate Office Buildings’.
 
@@ -84,7 +84,7 @@ Pub. L. 94–157, title I, §112, Dec. 18, 1975, 89 Stat. 832, provided that:
 
 #### Construction of Extension to New Senate Office Building
 
-Pub. L. 96–69, title V, §502, Sept. 25, 1979, 93 Stat. 450, appropriated additional funds of $52,583,400 toward finishing construction of an extension to the New Senate Office Building, to remain available until expended, set the figure $137,730,400 as the ceiling on the total cost for construction of the building, and further provided that the building and office space therein upon completion meet all needs for personnel presently supplied by the Carrol Arms, the Senate Courts, the Plaza Hotel, and the Capitol Hill Apartments and that those buildings be vacated.
+Pub. L. 96–69, title V, §502, Sept. 25, 1979, 93 Stat. 450, appropriated additional funds of $52,583,400 toward finishing construction of an extension to the New Senate Office Building, to remain available until expended, set the figure $137,730,400 as the ceiling on the total cost forconstruction of the building, and further provided that the building and office space therein upon completion meet all needs for personnel presently supplied by the Carrol Arms, the Senate Courts, the Plaza Hotel, and the Capitol Hill Apartments and that those buildings be vacated.
 
 Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, appropriated funds for the construction of an extension of the Senate subway transportation system, construction of additional floor levels on the rear center wing of the Dirksen Office Building, changes to the Dirksen and Russell Office Buildings to provide improved means of circulation to, in, and through those buildings and the extension, and other changes required to properly correlate use of the three buildings.
 
@@ -110,5 +110,5 @@ Act July 11, 1947, ch. 220, 61 Stat. 307, increased the membership of the Senate
 
 #### Furniture and Furnishings
 
-Pub. L. 85–93, July 10, 1957, 71 Stat. 284, authorized and directed the Architect of the Capitol to provide furniture and furnishings for the additional Senate Office Building, authorized appropriations necessary therefore, and also authorized the Architect of the Capitol to enter into contracts and make such expenditures as are necessary to furnish the building.
+Pub. L. 85–93, July 10, 1957, 71 Stat. 284, directed Architect of the Capitol to provide furniture and furnishings for additional Senate Office Building, authorized appropriations necessary therefore, and authorized Architect of the Capitol to enter into contracts and make such expenditures as are necessary to furnish the building.
 

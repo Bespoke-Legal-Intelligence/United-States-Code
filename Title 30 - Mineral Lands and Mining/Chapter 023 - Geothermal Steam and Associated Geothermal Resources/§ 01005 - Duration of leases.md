@@ -34,7 +34,7 @@ Minerals locatable under the mining laws of the United States in lands subject t
 
 (2) A lease extended pursuant to paragraph (1) shall continue so long thereafter as geothermal steam is produced or utilized in commercial quantities, but such continuation shall not exceed an additional 25 years, for a total of 50 years, if such lease was also the subject of an extension under subsection (c) of this section or an additional 30 years, for a total of 50 years, if such lease is only extended pursuant to paragraph (1).
 
-(3) If, at the end of either 50-year term referred to in paragraph (2), geothermal steam is being produced or utilized in commercial quantities and the lands are not needed for other purposes, the lessee shall have a preferential right to a renewal of such lease for a second term in accordance with such terms and conditions as the Secretary deems appropriate. For purposes of this paragraph only, the term “produced or utilizedin commercial quantities” means a bona fide sale or the use of geothermal steam by the lessee to generate electricity in marketable quantities.
+(3) If, at the end of either 50-year term referred to in paragraph (2), geothermal steam is being produced or utilized in commercial quantities and the lands are not needed for other purposes, the lessee shall have a preferential right to a renewal of such lease for a second term in accordance with such terms and conditions as the Secretary deems appropriate. For purposes of this paragraph only, the term “produced or utilized in commercial quantities” means a bona fide sale or the use of geothermal steam by the lessee to generate electricity in marketable quantities.
 
 #### (h) Bona fide effort
 
@@ -108,7 +108,7 @@ Subsecs. (g) to (j). Pub. L. 100–443, §3, added subsecs. (g) to (j).
 
 #### Consistency Provision
 
-Section 9 of Pub. L. 100–443 provided that: “To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) \[set outbelow\], this Act shall be deemed to supersede the provisions of such section.”
+Section 9 of Pub. L. 100–443 provided that: “To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section.”
 
 #### Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions
 

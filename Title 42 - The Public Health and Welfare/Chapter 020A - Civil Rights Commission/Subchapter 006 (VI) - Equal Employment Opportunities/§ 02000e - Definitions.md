@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 &emsp;(a) The term “person” includes one or more individuals, governments, governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11, or receivers.
 
-&emsp;(b) The term “employer” means a person engaged in an industry affecting commerce who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but such term does not include (1) the United States, a corporation wholly owned by the Government of the United States, an Indian tribe, or any department or agency of the District of Columbia subject by statute to procedures of the competitive service (as defined in section 2102 of title 5), or (2) a bona fide private membership club (other than a labor organization) which is exempt from taxation under section 501(c) of title 26, except that during the first year after March 24, 1972, persons having fewer than twenty-five employees (and their agents) shall not be considered employers.
+&emsp;(b) The term “employer” means a person engaged in an industry affecting commerce who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but such term does not include (1) the United States, a corporation wholly owned by the Governmentof the United States, an Indian tribe, or any department or agency of the District of Columbia subject by statute to procedures of the competitive service (as defined in section 2102 of title 5), or (2) a bona fide private membership club (other than a labor organization) which is exempt from taxation under section 501(c) of title 26, except that during the first year after March 24, 1972, persons having fewer than twenty-five employees (and their agents) shall not be considered employers.
 
 &emsp;(c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer or to procure for employees opportunities to work for an employer and includes an agent of such a person.
 
@@ -32,7 +32,7 @@ For the purposes of this subchapter—
 
 &emsp;(j) The term “religion” includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.
 
-&emsp;(k) The terms “because of sex” or “on the basis of sex” include, but are not limited to, because of or on the basis of pregnancy, childbirth, or related medical conditions; and women affected by pregnancy, childbirth, or related medical conditions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and nothing in section 2000e–2(h) of this title shall be interpreted to permit otherwise. This subsection shall not require an employer to pay for health insurance benefits for abortion, except where the life of the mother would be endangered if the fetus were carried to term, or except where medical complications have arisen from an abortion: <i>Provided,</i> That nothing herein shall preclude an employer from providing abortion benefits or otherwise affect bargaining agreements in regard to abortion.
+&emsp;(k) The terms “because of sex” or “on the basis of sex” include, but are not limited to, because of or on the basis of pregnancy, childbirth, or related medical conditions; and women affected by pregnancy, childbirth, or related medical conditions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and nothing in section 2000e–2(h) of this title shall be interpreted to permit otherwise. This subsection shall not require an employer to pay for health insurance benefits for abortion, except where the life of the mother would be endangered if the fetus were carried to term, or except where medical complications havearisen from an abortion: <i>Provided,</i> That nothing herein shall preclude an employer from providing abortion benefits or otherwise affect bargaining agreements in regard to abortion.
 
 &emsp;(<i>l</i>) The term “complaining party” means the Commission, the Attorney General, or a person who may bring an action or proceeding under this subchapter.
 
@@ -110,351 +110,7 @@ Subsecs. (a), (b) of section 716 of Pub. L. 88–352 provided that:
 
 #### Glass Ceiling
 
-Title II of Pub. L. 102–166 provided that:
-
-#### “SEC. 201. SHORT TITLE.
-
-“This title may be cited as the ‘Glass Ceiling Act of 1991’.
-
-#### “SEC. 202. FINDINGS AND PURPOSE.
-
-“(a)
-
-Findings.—Congress finds that—
-
-&emsp;“(1) despite a dramatically growing presence in the workplace, women and minorities remain underrepresented in management and decisionmaking positions in business;
-
-&emsp;“(2) artificial barriers exist to the advancement of women and minorities in the workplace;
-
-&emsp;“(3) United States corporations are increasingly relying on women and minorities to meet employment requirements and are increasingly aware of the advantages derived from a diverse work force;
-
-&emsp;“(4) the ‘Glass Ceiling Initiative’ undertaken by the Department of Labor, including the release of the report entitled ‘Report on the Glass Ceiling Initiative’, has been instrumental in raising public awareness of—
-
-&emsp;&emsp;“(A) the underrepresentation of women and minorities at the management and decisionmaking levels in the United States work force;
-
-&emsp;&emsp;“(B) the underrepresentation of women and minorities in line functions in the United States work force;
-
-&emsp;&emsp;“(C) the lack of access for qualified women and minorities to credential-building developmental opportunities; and
-
-&emsp;&emsp;“(D) the desirability of eliminating artificial barriers to the advancement of women and minorities to such levels;
-
-&emsp;“(5) the establishment of a commission to examine issues raised by the Glass Ceiling Initiative would help—
-
-&emsp;&emsp;“(A) focus greater attention on the importance of eliminating artificial barriers to the advancement of women and minorities to management and decisionmaking positions in business; and
-
-&emsp;&emsp;“(B) promote work force diversity;
-
-&emsp;“(6) a comprehensive study that includes analysis of the manner in which management and decisionmaking positions are filled, the developmental and skill-enhancing practices used to foster the necessary qualifications for advancement, and the compensation programs and reward structures utilized in the corporate sector would assist in the establishment of practices and policies promoting opportunities for, and eliminating artificial barriers to, the advancement of women and minorities to management and decisionmaking positions; and
-
-&emsp;“(7) a national award recognizing employers whose practices and policies promote opportunities for, and eliminate artificial barriers to, the advancement of women and minorities will foster the advancement of women and minorities into higher level positions by—
-
-&emsp;&emsp;“(A) helping to encourage United States companies to modify practices and policies to promote opportunities for, and eliminate artificial barriers to, the upward mobility of women and minorities; and
-
-&emsp;&emsp;“(B) providing specific guidance for other United States employers that wish to learn how to revise practices and policies to improve the access and employment opportunities of women and minorities.
-
-“(b)
-
-Purpose.—The purpose of this title is to establish—
-
-&emsp;“(1) a Glass Ceiling Commission to study—
-
-&emsp;&emsp;“(A) the manner in which business fills management and decisionmaking positions;
-
-&emsp;&emsp;“(B) the developmental and skill-enhancing practices used to foster the necessary qualifications for advancement into such positions; and
-
-&emsp;&emsp;“(C) the compensation programs and reward structures currently utilized in the workplace; and
-
-&emsp;“(2) an annual award for excellence in promoting a more diverse skilled work force at the management and decisionmaking levels in business.
-
-#### “SEC. 203. ESTABLISHMENT OF GLASS CEILING COMMISSION.
-
-“(a)
-
-In General.—There is established a Glass Ceiling Commission (referred to in this title as the ‘Commission’), to conduct a study and prepare recommendations concerning—
-
-&emsp;“(1) eliminating artificial barriers to the advancement of women and minorities; and
-
-&emsp;“(2) increasing the opportunities and developmental experiences of women and minorities to foster advancement of women and minorities to management and decisionmaking positions in business.
-
-“(b)
-
-Membership.—
-
-&emsp;“(1)
-
-Composition.—The Commission shall be composed of 21 members, including—
-
-&emsp;&emsp;“(A) six individuals appointed by the President;
-
-&emsp;&emsp;“(B) six individuals appointed jointly by the Speaker of the House of Representatives and the Majority Leader of the Senate;
-
-&emsp;&emsp;“(C) one individual appointed by the Majority Leader of the House of Representatives;
-
-&emsp;&emsp;“(D) one individual appointed by the Minority Leader of the House of Representatives;
-
-&emsp;&emsp;“(E) one individual appointed by the Majority Leader of the Senate;
-
-&emsp;&emsp;“(F) one individual appointed by the Minority Leader of the Senate;
-
-&emsp;&emsp;“(G) two Members of the House of Representatives appointed jointly by the Majority Leader and the Minority Leader of the House of Representatives;
-
-&emsp;&emsp;“(H) two Members of the Senate appointed jointly by the Majority Leader and the Minority Leader of the Senate; and
-
-&emsp;&emsp;“(I) the Secretary of Labor.
-
-&emsp;“(2)
-
-Considerations.—In making appointments under subparagraphs (A) and (B) of paragraph (1), the appointing authority shall consider the background of the individuals, including whether the individuals—
-
-&emsp;&emsp;“(A) are members of organizations representing women and minorities, and other related interest groups;
-
-&emsp;&emsp;“(B) hold management or decisionmaking positions in corporations or other business entities recognized as leaders on issues relating to equal employment opportunity; and
-
-&emsp;&emsp;“(C) possess academic expertise or other recognized ability regarding employment issues.
-
-&emsp;“(3)
-
-Balance.—In making the appointments under subparagraphs (A) and (B) of paragraph (1), each appointing authority shall seek to include an appropriate balance of appointees from among the groups of appointees described in subparagraphs (A), (B), and (C) of paragraph (2).
-
-“(c)
-
-Chairperson.—The Secretary of Labor shall serve as the Chairperson of the Commission.
-
-“(d)
-
-Term of Office.—Members shall be appointed for the life of the Commission.
-
-“(e)
-
-Vacancies.—Any vacancy occurring in the membership of the Commission shall be filled in the same manner as the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Commission.
-
-“(f)
-
-Meetings.—
-
-&emsp;“(1)
-
-Meetings prior to completion of report.—The Commission shall meet not fewer than five times in connection with and pending the completion of the report described in section 204(b). The Commission shall hold additional meetings if the Chairperson or a majority of the members of the Commission request the additional meetings in writing.
-
-&emsp;“(2)
-
-Meetings after completion of report.—The Commission shall meet once each year after the completion of the report described in section 204(b). The Commission shall hold additional meetings if the Chairperson or a majority of the members of the Commission request the additional meetings in writing.
-
-“(g)
-
-Quorum.—A majority of the Commission shall constitute a quorum for the transaction of business.
-
-“(h)
-
-Compensation and Expenses.—
-
-&emsp;“(1)
-
-Compensation.—Each member of the Commission who is not an employee of the Federal Government shall receive compensation at the daily equivalent of the rate specified for level V of the Executive Schedule under section 5316 of title 5, United States Code, for each day the member is engaged in the performance of duties for the Commission, including attendance at meetings and conferences of the Commission, and travel to conduct the duties of the Commission.
-
-&emsp;“(2)
-
-Travel expenses.—Each member of the Commission shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
-
-&emsp;“(3)
-
-Employment status.—A member of the Commission, who is not otherwise an employee of theFederal Government, shall not be deemed to be an employee of the Federal Government except for the purposes of—
-
-&emsp;&emsp;“(A) the tort claims provisions of chapter 171 of title 28, United States Code; and
-
-&emsp;&emsp;“(B) subchapter I of chapter 81 of title 5, United States Code, relating to compensation for work injuries.
-
-#### “SEC. 204. RESEARCH ON ADVANCEMENT OF WOMEN AND MINORITIES TO MANAGEMENT AND DECISIONMAKING POSITIONS IN BUSINESS.
-
-“(a)
-
-Advancement Study.—The Commission shall conduct a study of opportunities for, and artificial barriers to, the advancement of women and minorities to management and decisionmaking positions in business. In conducting the study, the Commission shall—
-
-&emsp;“(1) examine the preparedness of women and minorities to advance to management and decisionmaking positions in business;
-
-&emsp;“(2) examine the opportunities for women and minorities to advance to management and decisionmaking positions in business;
-
-&emsp;“(3) conduct basic research into the practices, policies, and manner in which management and decisionmaking positions in business are filled;
-
-&emsp;“(4) conduct comparative research of businesses and industries in which women and minorities are promoted to management and decisionmaking positions, and businesses and industries in which women and minorities are not promoted to management and decisionmaking positions;
-
-&emsp;“(5) compile a synthesis of available research on programs and practices that have successfully led to the advancement of women and minorities to management and decisionmaking positions in business, including training programs, rotational assignments, developmental programs, reward programs, employee benefit structures, and family leave policies; and
-
-&emsp;“(6) examine any other issues and information relating to the advancement of women and minorities to management and decisionmaking positions in business.
-
-“(b)
-
-Report.—Not later than 15 months after the date of the enactment of this Act \[Nov. 21, 1991\], the Commission shall prepare and submit to the President and the appropriate committees of Congress a written report containing—
-
-&emsp;“(1) the findings and conclusions of the Commission resulting from the study conducted under subsection (a); and
-
-&emsp;“(2) recommendations based on the findings and conclusions described in paragraph (1) relating to the promotion of opportunities for, and elimination of artificial barriers to, the advancement of women and minorities to management and decisionmaking positions in business, including recommendations for—
-
-&emsp;&emsp;“(A) policies and practices to fill vacancies at the management and decisionmaking levels;
-
-&emsp;&emsp;“(B) developmental practices and procedures to ensure that women and minorities have access to opportunities to gain the exposure, skills, and expertise necessary to assume management and decisionmaking positions;
-
-&emsp;&emsp;“(C) compensation programs and reward structures utilized to reward and retain key employees; and
-
-&emsp;&emsp;“(D) the use of enforcement (including such enforcement techniques as litigation, complaint investigations, compliance reviews, conciliation, administrative regulations, policy guidance, technical assistance, training, and public education) of Federal equal employment opportunity laws by Federal agencies as a means of eliminating artificial barriers to the advancement of women and minorities in employment.
-
-“(c)
-
-Additional Study.—The Commission may conduct such additional study of the advancement of women and minorities to management and decisionmaking positions in business as a majority of the members of the Commission determines to be necessary.
-
-#### “SEC. 205. ESTABLISHMENT OF THE NATIONAL AWARD FOR DIVERSITY AND EXCELLENCE IN AMERICAN EXECUTIVE MANAGEMENT.
-
-“(a)
-
-In General.—There is established the National Award for Diversity and Excellence in American Executive Management, which shall be evidenced by a medal bearing the inscription ‘Frances Perkins-Elizabeth Hanford Dole National Award for Diversity and Excellence in American Executive Management’. The medal shall be of such design and materials, and bear such additional inscriptions, as the Commission may prescribe.
-
-“(b)
-
-Criteria for Qualification.—To qualify to receive an award under this section a business shall—
-
-&emsp;“(1) submit a written application to the Commission, at such time, in such manner, and containing such information as the Commission may require, including at a minimum information that demonstrates that the business has made substantial effort to promote the opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions within the business, including the elimination of artificial barriers to the advancement of women and minorities, and deserves special recognition as a consequence; and
-
-&emsp;“(2) meet such additional requirements and specifications as the Commission determines to be appropriate.
-
-“(c)
-
-Making and Presentation of Award.—
-
-&emsp;“(1)
-
-Award.—After receiving recommendations from the Commission, the President or the designated representative of the President shall annually present the award described in subsection (a) to businesses that meet the qualifications described in subsection (b).
-
-&emsp;“(2)
-
-Presentation.—The President or the designated representative of the President shall present the award with such ceremonies as the President or the designated representative of the President may determine to be appropriate.
-
-&emsp;“(3)
-
-Publicity.—A business that receives an award under this section may publicize the receipt of the award and use the award in its advertising, if the business agrees to help other United States businesses improve with respect to the promotion of opportunities and developmental experiences of women and minorities to foster the advancement of women and minorities to management and decisionmaking positions.
-
-“(d)
-
-Business.—For the purposes of this section, the term ‘business’ includes—
-
-&emsp;“(1)(A) a corporation including nonprofit corporations;
-
-&emsp;“(B) a partnership;
-
-&emsp;“(C) a professional association;
-
-&emsp;“(D) a labor organization; and
-
-&emsp;“(E) a business entity similar to an entity described in subparagraphs (A) through (D);
-
-&emsp;“(2) an education referral program, a training program, such as an apprenticeship or management training program or a similar program; and
-
-&emsp;“(3) a joint program formed by a combination of any entities described in paragraph 1 or 2.
-
-#### “SEC. 206. POWERS OF THE COMMISSION.
-
-“(a)
-
-In General.—The Commission is authorized to—
-
-&emsp;“(1) hold such hearings and sit and act at such times;
-
-&emsp;“(2) take such testimony;
-
-&emsp;“(3) have such printing and binding done;
-
-&emsp;“(4) enter into such contracts and other arrangements;
-
-&emsp;“(5) make such expenditures; and
-
-&emsp;“(6) take such other actions;
-
-> as the Commission may determine to be necessary to carry out the duties of the Commission.
-
-“(b)
-
-Oaths.—Any member of the Commission may administer oaths or affirmations to witnesses appearing before the Commission.
-
-“(c)
-
-Obtaining Information from Federal Agencies.—The Commission may secure directly from any Federal agency such information as the Commission may require to carry out its duties.
-
-“(d)
-
-Voluntary Service.—Notwithstanding section 1342 of title 31, United States Code, the Chairperson of the Commission may accept for the Commission voluntary services provided by a member of the Commission.
-
-“(e)
-
-Gifts and Donations.—The Commission may accept, use, and dispose of gifts or donations of property in order to carry out the duties of the Commission.
-
-“(f)
-
-Use of Mail.—The Commission may use the United States mails in the same manner and under the same conditions as Federal agencies.
-
-#### “SEC. 207. CONFIDENTIALITY OF INFORMATION.
-
-“(a)
-
-Individual Business Information.—
-
-&emsp;“(1)
-
-In general.—Except as provided in paragraph (2), and notwithstanding section 552 of title 5, United States Code, in carrying out the duties of the Commission, including the duties described in sections 204 and 205, the Commission shall maintain the confidentiality of all information that concerns—
-
-&emsp;&emsp;“(A) the employment practices and procedures of individual businesses; or
-
-&emsp;&emsp;“(B) individual employees of the businesses.
-
-&emsp;“(2)
-
-Consent.—The content of any information described in paragraph (1) may be disclosed with the prior written consent of the business or employee, as the case may be, with respect to which the information is maintained.
-
-“(b)
-
-Aggregate Information.—In carrying out the duties of the Commission, the Commission may disclose—
-
-&emsp;“(1) information about the aggregate employment practices or procedures of a class or group of businesses; and
-
-&emsp;“(2) information about the aggregate characteristics of employees of the businesses, and related aggregate information about the employees.
-
-#### “SEC. 208. STAFF AND CONSULTANTS.
-
-“(a)
-
-Staff.—
-
-&emsp;“(1)
-
-Appointment and compensation.—The Commission may appoint and determine the compensation of such staff as the Commission determines to be necessary to carry out the duties of the Commission.
-
-&emsp;“(2)
-
-Limitations.—The rate of compensation for each staff member shall not exceed the daily equivalent of the rate specified for level V of the Executive Schedule under section 5316 of title 5, United States Code\[,\] for each day the staff member is engaged in the performance of duties for the Commission. The Commission may otherwise appoint and determine the compensation of staff without regard to the provisions of title 5, United States Code, that govern appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, that relate to classification and General Schedule pay rates.
-
-“(b)
-
-Experts and Consultants.—The Chairperson of the Commission may obtain such temporary and intermittent services of experts and consultants and compensate the experts and consultants in accordance with section 3109(b) of title 5, United States Code, as the Commission determines to be necessary to carry out the duties of the Commission.
-
-“(c)
-
-Detail of Federal Employees.—On the request of the Chairperson of the Commission, the head of any Federal agency shall detail, without reimbursement, any of the personnel of the agency to the Commission to assist the Commission in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
-
-“(d)
-
-Technical Assistance.—On the request of the Chairperson of the Commission, the head of a Federal agency shall provide such technical assistance to the Commission as the Commission determines to be necessary to carry out its duties.
-
-#### “SEC. 209. AUTHORIZATION OF APPROPRIATIONS.
-
-“There are authorized to be appropriated to the Commission such sums as may be necessary to carry out the provisions of this title. The sums shall remain available until expended, without fiscal year limitation.
-
-#### “SEC. 210. TERMINATION.
-
-“(a)
-
-Commission.—Notwithstanding section 15 of the Federal Advisory Committee Act (5 U.S.C. App.), the Commission shall terminate 4 years after the date of the enactment of this Act \[Nov. 21, 1991\].
-
-“(b)
-
-Award.—The authority to make awards under section 205 shall terminate 4 years after the date of the enactment of this Act.”
+Title II of Pub. L. 102–166, entitled the “Glass Ceiling Act of 1991”, established a Glass Ceiling Commission which was to submit to Congress, no later than 15 months after Nov. 21, 1991, study and recommendations concerning eliminating artificial barriers to advancement of women and minorities in the workplace and increasing opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions in businesses, authorized creation of a National Award for Diversity and Excellence in American Executive Management which was to be awarded annually by the Commission to a qualified business concern which promoted more diverse skilled work force at management and decisionmaking levels in business, and further provided for composition of Commission, powers, staff and consultants, confidentiality of information, appropriations, and termination of Commission and authority to make awards 4 years after Nov. 21, 1991.
 
 #### Readjustment of Benefits
 
@@ -498,7 +154,7 @@ Sec. 202. Except in contracts exempted in accordance with Section 204 of this Or
 
 “(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
 
-“(7) The contractor will include the provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order No. 11246 of September 24, 1965 \[section 204 of this Order\] so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions including sanctions for noncompliance: <i>Provided, however,</i> that in the event the contractor becomes involved in, or is threatened with, litigation with a subcontractor or vendor as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
+“(7) The contractor will include the provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order No. 11246 of September24, 1965 \[section 204 of this Order\] so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions including sanctions for noncompliance: <i>Provided, however,</i> that in the event the contractor becomes involved in, or is threatened with, litigation with a subcontractor or vendor as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
 
 Sec. 203. (a) Each contractor having a contract containing the provisions prescribed in Section 202 shall file, and shall cause each of his subcontractors to file, Compliance Reports with the contracting agency or the Secretary of Labor as may be directed. Compliance Reports shall be filed within such times and shall contain such information as to the practices, policies, programs, and employment policies, programs, and employment statistics of the contractor and each subcontractor, and shall be in such form, as the Secretary of Labor may prescribe.
 
@@ -568,7 +224,7 @@ Sec. 302. (a) “Construction contract,” as used in this Order means any contr
 
 Sec. 303(a). The Secretary of Labor shall be responsible for obtaining the compliance of such applicants with their undertakings under this Order. Each administering department and agency is directed to cooperate with the Secretary of Labor and to furnish the Secretary such information and assistance as the Secretary may require in the performance of the Secretary's functions under this Order.
 
-(b) In the event an applicant fails and refuses to comply with the applicant's undertakings pursuant to this Order, the Secretary of Labor may, after consulting with the administering department or agency, take any or all of the following actions: (1) direct any administering department or agency to cancel, terminate, or suspend in whole or in part the agreement, contract or other arrangement with such applicant with respect to which the failure or refusal occurred; (2) direct any administering department or agency to refrain from extending any further assistance to the applicant under the program with respect to which the failure or refusal occurred until satisfactory assurance of future compliance has been received by the Secretary of Labor from such applicant; and (3) refer the case to the Department of Justice or the Equal Employment Opportunity Commission for appropriate law enforcement or other proceedings.
+(b) In the event an applicant fails and refuses to comply with the applicant's undertakings pursuant to this Order, the Secretary of Labor may, after consulting with the administering department or agency, take anyor all of the following actions: (1) direct any administering department or agency to cancel, terminate, or suspend in whole or in part the agreement, contract or other arrangement with such applicant with respect to which the failure or refusal occurred; (2) direct any administering department or agency to refrain from extending any further assistance to the applicant under the program with respect to which the failure or refusal occurred until satisfactory assurance of future compliance has been received by the Secretary of Labor from such applicant; and (3) refer the case to the Department of Justice or the Equal Employment Opportunity Commission for appropriate law enforcement or other proceedings.
 
 (c) In no case shall action be taken with respect to an applicant pursuant to clause (1) or (2) of subsection (b) without notice and opportunity for hearing.
 
@@ -594,7 +250,7 @@ Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 1159
 
 NOW THEREFORE, under and by virtue of the authority vested in me as President of the United States by the Constitution and statutes of the United States, it is ordered as follows:
 
-Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age, and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunityapplies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government.
+Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age, and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government.
 
 Sec. 2. The head of each executive department and agency shall establish and maintain an affirmative program of equal employment opportunity for all civilian employees and applicants for employment within his jurisdiction in accordance with the policy set forth in section 1. It is the responsibility of each department and agency head, to the maximum extent possible, to provide sufficient resources to administer such a program in a positive and effective manner; assure that recruitment activities reach all sources of job candidates; utilize to the fullest extent the present skills of each employee; provide the maximum feasible opportunity to employees to enhance their skills so they may perform at their highest potential and advance in accordance with their abilities; provide training and advice to managers and supervisors to assure their understanding and implementation of the policy expressed in this Order; assure participation at the local level with other employers, schools, and public or private groups in cooperative efforts to improve community conditions which affect employability; and provide for a system within the department or agency for periodically evaluating the effectiveness with which the policy of this Order is being carried out.
 
@@ -606,7 +262,7 @@ Sec. 5. All departments and agencies shall cooperate with and assist the Equal E
 
 Sec. 6. This Order applies (a) to military departments as defined in section 102 of title 5, United States Code, and executive agencies (other than the General Accounting Office) as defined in section 105 of title 5, United States Code, and to the employees thereof (including employees paid from nonappropriated funds), and (b) to those portions of the legislative and judicial branches of the Federal Government and of the Government of the District of Columbia having positions in the competitive service and to the employees in those positions. This Order does not apply to aliens employed outside the limits of the United States.
 
-Sec. 7. Part I of Executive Order No. 11246 of September 24, 1965, and those parts of Executive Order No. 11375 of October 13, 1967, which apply to Federal employment, are hereby superseded.
+Sec. 7. Part I of Executive Order No. 11246 of September 24, 1965, and those parts of Executive Order No.11375 of October 13, 1967, which apply to Federal employment, are hereby superseded.
 
 Sec. 8. This Order shall be applicable to the United States Postal Service and to the Postal Rate Commission established by the Postal Reorganization Act of 1970 \[Title 39, Postal Service\].
 
@@ -664,7 +320,7 @@ Specific Responsibilities
 
 1–303. The Equal Employment Opportunity Commission shall issue such rules, regulations, policies, procedures or orders as it deems necessary to carry out its responsibilities under this order. It shall advise and offer to consult with the affected Federal departments and agencies during the development of any proposed rules, regulations, policies, procedures or orders and shall formally submit such proposed issuances to affected departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall use its best efforts to reach agreement with the agencies on matters in dispute. Departments and agencies shall comply with all final rules, regulations, policies, procedures or orders of the Equal Employment Opportunity Commission.
 
-1–304. All Federal departments and agencies shall advise and offer to consult with the Equal Employment Opportunity Commission during the development of any proposed rules, regulations, policies, procedures or orders concerning equal employment opportunity. Departments and agencies shall formally submit such proposed issuances to the Equal Employment Opportunity Commission and other interested Federal departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall review such proposed rules, regulations, policies, procedures or orders to ensure consistency among the operations of the various Federal departments and agencies. Issuances related to internal management and administration are exempt from this clearance process. Case handling procedures unique to a single program also are exempt, although the Equal Employment Opportunity Commission may review such procedures in order to assure maximum consistency within the Federal equal employment opportunity program.
+1–304. All Federal departments and agencies shall advise and offer to consult with the Equal Employment Opportunity Commission during the development of any proposed rules, regulations, policies, procedures or orders concerning equal employment opportunity. Departments and agencies shall formally submit such proposed issuances to the Equal Employment Opportunity Commission and other interested Federal departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall review such proposed rules, regulations, policies, procedures or orders to ensure consistency among the operations of the various Federal departments and agencies. Issuances related to internal management and administration are exempt from this clearance process. Case handling procedures unique to a single program also are exempt, although the Equal Employment Opportunity Commission may reviewsuch procedures in order to assure maximum consistency within the Federal equal employment opportunity program.
 
 1–305. Before promulgating significant rules, regulations, policies, procedures or orders involving equal employment opportunity, the Commission and affected departments and agencies shall afford the public an opportunity to comment.
 
@@ -752,7 +408,7 @@ Sec. 201. The Secretary of Labor shall be responsible for the administration and
 
 “
 
-Sec. 205. The Secretary of Labor shall be responsible for securing compliance by all Government contractors and subcontractors with this Order and any implementing rules or regulations. All contracting agencies shall comply with the terms of this Order and any implementing rules, regulations, or orders of the Secretary of Labor. Contracting agencies shall cooperate with the Secretary of Labor and shall furnish such information and assistance as the Secretary may require.”.
+Sec. 205. The Secretary of Labor shall be responsible for securing compliance by all Government contractors and subcontractors with this Order and any implementing rules or regulations. All contracting agencies shallcomply with the terms of this Order and any implementing rules, regulations, or orders of the Secretary of Labor. Contracting agencies shall cooperate with the Secretary of Labor and shall furnish such information and assistance as the Secretary may require.”.
 
 1–205. In order to delete references to the contracting agencies conducting investigations, Section 206 of Executive Order No. 11246, as amended, is amended to read:
 
@@ -790,7 +446,7 @@ Sec. 211. If the Secretary of Labor shall so direct, contracting agencies shall 
 
 Sec. 212. When a contract has been cancelled or terminated under Section 209(a)(5) or a contractor has been debarred from further Government contracts under Section 209(a)(6) of this Order, because of noncompliance with the contract provisions specified in Section 202 of this Order, the Secretary of Labor shall promptly notify the Comptroller General of the United States.”.
 
-1–212. In order to reflect the transfer of enforcement responsibility to the Secretary of Labor, references tothe administering department or agency are deleted in clauses (1), (2), and (3) of Section 301 of Executive Order No. 11246, as amended, and those clauses are amended to read:
+1–212. In order to reflect the transfer of enforcement responsibility to the Secretary of Labor, references to the administering department or agency are deleted in clauses (1), (2), and (3) of Section 301 of Executive Order No. 11246, as amended, and those clauses are amended to read:
 
 “(1) to assist and cooperate actively with the Secretary of Labor in obtaining the compliance of contractors and subcontractors with those contract provisions and with the rules, regulations and relevant orders of the Secretary, (2) to obtain and to furnish to the Secretary of Labor such information as the Secretary may require for the supervision of such compliance, (3) to carry out sanctions and penalties for violation of such obligations imposed upon contractors and subcontractors by the Secretary of Labor pursuant to Part II, Subpart D, of this Order,”.
 
@@ -816,7 +472,7 @@ General Provisions
 
 1–301. The transfers or reassignments provided by Section 1–1 of this Order shall take effect at such time or times as the Director of the Office of Management and Budget shall determine. The Director shall ensure that all such transfers or reassignments take effect within 60 days.
 
-1–302. The conforming amendments provided by Section 1–2 of this Order shall take effect on October 8, 1978; except that, with respect to those agencies identified in Section 1–101 of this Order, the conforming amendments shall be effective on the effective date of the transfer or reassignment of functions as specified pursuant to Section 1–301 of this Order.
+1–302. The conforming amendments provided by Section 1–2 of this Order shall take effect on October 8,1978; except that, with respect to those agencies identified in Section 1–101 of this Order, the conforming amendments shall be effective on the effective date of the transfer or reassignment of functions as specified pursuant to Section 1–301 of this Order.
 
 #### Executive Order No. 12135
 

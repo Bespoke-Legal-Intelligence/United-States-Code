@@ -14,7 +14,7 @@ The President, acting through the Secretary and the Administrator of the Environ
 
 &emsp;(5) programs for the development of coal mining technologies which increase coal production and utilization while protecting the health and safety of coal miners;
 
-&emsp;(6) alternative strategies for meeting anticipated United States coal requirements, consistent with achieving other national goals,including national security and environmental protection;
+&emsp;(6) alternative strategies for meeting anticipated United States coal requirements, consistent with achieving other national goals, including national security and environmental protection;
 
 &emsp;(7) existing and prospective governmental policies and laws affecting the coal industry with the view of determining what, if any, changes in and implementation of such policies and laws may be advisable in order to consolidate, coordinate, and provide an effective and equitable national energy policy consistent with other national policies; and
 

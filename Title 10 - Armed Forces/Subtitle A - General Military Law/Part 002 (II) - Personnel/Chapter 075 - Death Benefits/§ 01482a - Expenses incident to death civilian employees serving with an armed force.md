@@ -1,4 +1,4 @@
-### §1482a . Expenses incident to death: civilian employees serving with an armed force
+### §1482a. Expenses incident to death: civilian employees serving with an armed force
 
 (a)
 

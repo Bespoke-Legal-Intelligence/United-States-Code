@@ -14,7 +14,7 @@ Ex. Ord. No. 11455, eff. Feb. 14, 1969, 34 F.R. 2299, which established the Offi
 
 #### Office of Intergovernmental Relations; Authorization of Appropriations; Compensation of Director; Appointment of Personnel; Experts and Consultants
 
-Pub. L. 91–186, Dec. 30, 1969, 83 Stat. 849, authorized the appropriation of such sums as may be necessary for the expenses of the Office of Intergovernmental Relations, established by Ex. Ord. No. 11455, formerly set out as a note under this section, prescribed the compensation of the Director of the Office, and authorized the Director to appoint such personnel as he deems necessary and to obtain the services of experts and consultants.
+Pub. L. 91–186, Dec. 30, 1969, 83 Stat. 849, authorized the appropriation of such sums as may be necessary for the expenses of the Office of Intergovernmental Relations, established by Ex. Ord. No. 11455, formerly set out above, prescribed the compensation of the Director of the Office, and authorized the Director to appoint such personnel as he deems necessary and to obtain the services of experts and consultants.
 
 #### Executive Order No. 12303
 

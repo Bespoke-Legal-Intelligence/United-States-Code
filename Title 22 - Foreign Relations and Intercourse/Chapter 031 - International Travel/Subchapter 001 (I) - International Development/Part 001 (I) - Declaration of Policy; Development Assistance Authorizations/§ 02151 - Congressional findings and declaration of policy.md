@@ -74,7 +74,7 @@ Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Ac
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–583, §1, Nov. 2, 1992, 106 Stat. 4914, provided that Pub. L. 102–583 could be cited as the “International Narcotics Control Act of 1992”, prior to repealby Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
+Pub. L. 102–583, §1, Nov. 2, 1992, 106 Stat. 4914, provided that Pub. L. 102–583 could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 
 Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
 
@@ -96,7 +96,7 @@ Pub. L. 101–222, §1(a), Dec. 12, 1989, 103 Stat. 1892, provided that: “This
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–690, title IV, §4001, Nov. 18, 1988, 102 Stat. 4261, provided that title IV of Pub. L. 100–690 could be cited as the “International Narcotics Control Act of 1988”, prior to repeal by Pub. L. 103–447, title I, §103(b), Nov. 2, 1994, 108 Stat. 4693.
+Pub. L. 100–690, title IV, §4001, Nov. 18, 1988, 102 Stat. 4261, provided that title IV of Pub. L. 100–690 could be cited as the “International Narcotics Control Act of1988”, prior to repeal by Pub. L. 103–447, title I, §103(b), Nov. 2, 1994, 108 Stat. 4693.
 
 Pub. L. 100–461, title V, §555 \[H.R. 5263, title I, §101, and S. 2757, title I, §101\], Oct. 1, 1988, 102 Stat. 2268–36, provided that: “This title \[amending sections 2191, 2194, 2194b, 2195, 2197, 2199, and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1988’.”
 
@@ -120,7 +120,7 @@ Pub. L. 99–8 which enacted section 2292q of this title and provisions set out 
 
 Pub. L. 98–164, title VII, §701, Nov. 22, 1984, 97 Stat. 1045, provided that: “This title \[enacting section 2151q of this title and amending section 2452 of this title\] may be cited as the ‘International Environment Protection Act of 1983’.”
 
-Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part that: “Section 101(b)(2) of this jointresolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions set out as a note under section 2349aa of this title\] may be cited as the ‘International Security and Development Assistance Authorizations Act of 1983’.”
+Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part that: “Section 101(b)(2) of this joint resolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions set out as a note under section 2349aa of this title\] may be cited as the ‘International Security and Development Assistance Authorizations Act of 1983’.”
 
 #### Short Title of 1981 Amendments
 
@@ -142,7 +142,7 @@ Pub. L. 96–53, §1, Aug. 14, 1979, 93 Stat. 359, provided that: “This Act \[
 
 #### Short Title of 1978 Amendments
 
-Section 1 of Pub. L. 95–424 provided that: “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292<i>l</i>, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151<i>l</i>, 2151m, 2151<i>o</i>, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
+Section 1 of Pub. L. 95–424 provided that: “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292<i>l</i>, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370,2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151<i>l</i>, 2151m, 2151<i>o</i>, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
 
 Pub. L. 95–384, §1, Sept. 26, 1978, 92 Stat. 730, provided that: “This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and section 2403 of Title 50, Appendix, War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1978’.”
 
@@ -160,7 +160,7 @@ Pub. L. 94–329, §1, June 30, 1976, 90 Stat. 729, provided: “That this Act \
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sections 2292c to 2292e former sections 2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a,1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183, 2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under section 2220a of this title and as a note under section 1691a of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1975’.”
+Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sections 2292c to 2292e former sections 2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a, 1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183, 2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under section 2220a of this title and as a note under section 1691a of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1975’.”
 
 #### Short Title of 1974 Amendments
 
@@ -184,7 +184,7 @@ Pub. L. 91–652, §1, Jan. 5, 1971, 84 Stat. 1942, provided: “That this Act \
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
+Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31,Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
 
 #### Short Title of 1968 Amendment
 
@@ -212,7 +212,7 @@ Section 1 of Pub. L. 88–205 provided that: “This Act \[enacting sections 816
 
 #### Short Title of 1962 Amendment
 
-Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 2211 to 2213 of this title, amendingthis section and sections 276, 2161, 2171, 2172, 2181, 2182, 2184, 2192, 2222, 2242, 2261, 2271, 2314, 2315, 2318, 2360, 2361, 2368, 2370, 2381, 2384, 2385, 2389, 2394, 2395, 2397, 2402 to 2404, 2452, and 2669 of this title, repealing section 2173 of this title, enacting provisions set out as a note under section 2452 of this title, and repealing Part IV of the Foreign Assistance Act of 1961\] may be cited as the ‘Foreign Assistance Act of 1962’.”
+Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 2211 to 2213 of this title, amending this section and sections 276, 2161, 2171, 2172, 2181, 2182, 2184, 2192, 2222, 2242, 2261, 2271, 2314, 2315, 2318, 2360, 2361, 2368, 2370, 2381, 2384, 2385, 2389, 2394, 2395, 2397, 2402 to 2404, 2452, and 2669 of this title, repealing section 2173 of this title, enacting provisions set out as a note under section 2452 of this title, and repealing Part IV of the Foreign Assistance Act of 1961\] may be cited as the ‘Foreign Assistance Act of 1962’.”
 
 #### Short Title
 
@@ -272,6 +272,8 @@ In general.—For fiscal year 1995, the President is authorized to furnish assis
 
 Waiver of prohibition of police training.—Section 660 of the Foreign Assistance Act of 1961 (22 U.S.C. 2420) shall not apply with respect to assistance furnished under paragraph (1).”
 
+\[Functions of President under section 106 of Pub. L. 103–447, set out above, delegated to Secretary of State by Memorandum of President of the United States, Apr. 4, 1995, 60 F.R. 19153.\]
+
 #### African Conflict Resolution
 
 Pub. L. 103–381, Oct. 19, 1994, 108 Stat. 3513, provided that:
@@ -300,7 +302,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(4) Millions more Africans are currently at risk of war-related death. Looming or ongoing conflicts in Zaire, Angola, Sudan, Rwanda, and other countries threaten Africa's future.
 
-&emsp;“(5) War has caused untold economic and social damage to the countries of Africa. Food production is impossible in conflict areas, and famine often results. Widespread conflict has condemned many of Africa'schildren to lives of misery and, in certain cases, has threatened the existence of traditional African cultures.
+&emsp;“(5) War has caused untold economic and social damage to the countries of Africa. Food production is impossible in conflict areas, and famine often results. Widespread conflict has condemned many of Africa's children to lives of misery and, in certain cases, has threatened the existence of traditional African cultures.
 
 &emsp;“(6) Conflict and instability in Africa, particularly in large, potentially rich countries such as Angola, Sudan, and Zaire, deprive the global economy of resources and opportunities for trade and investment. Peace in these countries could make a significant contribution to global economic growth, while creating new opportunities for United States businesses.
 
@@ -433,6 +435,8 @@ Date of Submission.—The first report submitted under subsection (a) shall be s
 #### “SEC. 11. APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.
 
 “For purposes of this Act, the term ‘appropriate congressional committees’ means the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.”
+
+\[Functions of President under sections 8 and 9 of Pub. L. 103–381, set out above, delegated to Administrator of the Agency for International Development by Memorandum of President of the United States, June 6, 1995, 60 F.R. 30771.\]
 
 #### Waiver of Restrictions for Narcotics-Related Economic Assistance
 
@@ -620,7 +624,7 @@ Pub. L. 99–83, title XIII, §1302, Aug. 8, 1985, 99 Stat. 280, as amended by P
 
 “(a)
 
-United States Policy.—The United States in 1975 declared in a memorandum of agreement with Israel, and has reaffirmed since, that ‘The United States will continue to adhere to its present policy with respect to the Palestine Liberation Organization, whereby it will not recognize or negotiate with the Palestine Liberation Organization so long as the Palestine Liberation Organization does not recognize Israel's right to exist and does not accept Security Council Resolutions 242 and 338.’.
+United States Policy.—The United States in 1975 declared in a memorandum of agreement with Israel, and has reaffirmed since, that ‘The United Stateswill continue to adhere to its present policy with respect to the Palestine Liberation Organization, whereby it will not recognize or negotiate with the Palestine Liberation Organization so long as the Palestine Liberation Organization does not recognize Israel's right to exist and does not accept Security Council Resolutions 242 and 338.’.
 
 “(b)
 
@@ -676,7 +680,7 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 &emsp;“(6) assistance provided by the Central Intelligence Agency or assistance provided by any other entity or component of the United States Government if such assistance is carried out in connection with, or for purposes of conducting, intelligence or intelligence-related activities except that this shall not include activities undertaken solely to collect necessary intelligence;
 
-> except that the term ‘United States assistance’ does not include (A) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] insofar as such assistance is provided through private and voluntary organizations or other nongovernmental agencies, (B) assistance which involves the donations of food or medicine, (C) disaster relief assistance (including any assistance under chapter 9 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\]), (D) assistance for refugees, (E) assistance under the Inter-American Foundation Act \[22 U.S.C. 290f\], (F) assistance necessary for the purpose of continuing participant training programs (including scholarships) already being supported as of the date of any prohibition of assistance otherwise applicable to Panama, or (G) assistance made available for termination costs arising from the requirements of this section.
+> except that the term ‘United States assistance’ does not include (A) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] insofar as such assistance is provided through private and voluntary organizations or other nongovernmental agencies, (B) assistance which involves the donations of food or medicine, (C) disaster relief assistance (including any assistance under chapter 9 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\]), (D) assistance for refugees, (E) assistance under the Inter-American Foundation Act \[22 U.S.C. 290f\], (F) assistance necessary for the purpose of continuing participant training programs (including scholarships) already being supported as of the date of any prohibitionof assistance otherwise applicable to Panama, or (G) assistance made available for termination costs arising from the requirements of this section.
 
 “(d) The Secretary of the Treasury shall instruct the United States Executive Directors to the International Financial Institutions (the International Bank for Reconstruction and Development, the International Finance Corporation, and the Inter-American Development Bank) to vote against any loan to Panama, unless the President has certified in advance that the conditions set forth in subsection (a) of this section have been met.”
 
@@ -692,9 +696,7 @@ Pub. L. 96–92, §28, Oct. 29, 1979, 93 Stat. 711. \[Repealed by Pub. L. 97–1
 
 #### Final Accounting of Americans Missing in Action in Vietnam
 
-Pub. L. 95–426, title VII, §705, Oct. 7, 1978, 92 Stat. 992, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(2), Aug. 24, 1982, 96 Stat. 299, provided that: “The President shall continue to take all possible steps to obtain a final accounting of all Americans missing in action in Vietnam.”
-
-Similar provisions were contained in the following acts:
+Pub. L. 95–426, title VII, §705, Oct. 7, 1978, 92 Stat. 992, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(2), Aug. 24, 1982, 96 Stat. 299, provided that: “The President shall continue to take all possible steps to obtain a final accounting of all Americans missing in action in Vietnam.” Similar provisions were contained in the following acts:
 
 Pub. L. 95–105, title V, §505, Aug. 17, 1977, 91 Stat. 858, as amended by Pub. L. 97–241, title V, §505(a)(3), (b)(2), Aug. 24, 1982, 96 Stat. 299.
 
@@ -720,7 +722,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 &emsp;“(6) a detailed set of objective criteria upon which determinations will be made as to the qualifications of minority business enterprises to receive contracts funded by such agency.
 
-“(c)(1) Upon the enactment of the International Development Cooperation Act of 1979 \[Aug. 14, 1979\], thesection on minority business established pursuant to subsection (a) shall be redesignated as the Minority Resource Center (hereafter in this section referred to as the ‘Center’) which shall be responsible for increasing the participation of economically and socially disadvantaged business enterprises in contract, procurement, grant, and research and development activities funded by the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[this subchapter\] (hereafter in this section referred to as the ‘agency’).
+“(c)(1) Upon the enactment of the International Development Cooperation Act of 1979 \[Aug. 14, 1979\], the section on minority business established pursuant to subsection (a) shall be redesignated as the Minority Resource Center (hereafter in this section referred to as the ‘Center’) which shall be responsible for increasing the participation of economically and socially disadvantaged business enterprises in contract, procurement, grant, and research and development activities funded by the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[this subchapter\] (hereafter in this section referred to as the ‘agency’).
 
 “(2) The Center shall—
 
@@ -746,7 +748,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 “(B) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
+“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining thedegree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
 
 “(6) \[Repealed. Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560.\]
 
@@ -766,9 +768,7 @@ Pub. L. 88–633, pt. V, §501, Oct. 7, 1964, 78 Stat. 1015, provided that: “I
 
 #### Communist Regime in China
 
-Pub. L. 91–194, title I, §105, Feb. 9, 1970, 84 Stat. 7, related to Congressional opposition to the seating in the United Nations of the Communist regime in China as the representative of China, and requested the President, in the event of the seating of representatives of the Chinese Communist regime in the Security Council or the General Assembly of the United Nations, to inform the Congress of the implications of the seating upon the foreign policy of the United States.
-
-Similar provisions were contained in the following prior acts:
+Pub. L. 91–194, title I, §105, Feb. 9, 1970, 84 Stat. 7, related to Congressional opposition to the seating in the United Nations of the Communist regime in China as the representative of China, and requested the President, in the event of the seating of representatives of the Chinese Communist regime in the Security Council or the General Assembly of the United Nations, to inform the Congress of the implications of the seating upon the foreign policy of the United States. Similar provisions were contained in the following prior acts:
 
 Oct. 17, 1968, Pub. L. 90–581, title I, §105, 82 Stat. 1139.
 

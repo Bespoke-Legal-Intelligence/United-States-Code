@@ -52,9 +52,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Par. (3)(B). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+<b>1979</b>—Par. (3)(B). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-1968—Par. (3)(B). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
+<b>1968</b>—Par. (3)(B). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
 
 #### Effective Date of 1979 Amendment
 

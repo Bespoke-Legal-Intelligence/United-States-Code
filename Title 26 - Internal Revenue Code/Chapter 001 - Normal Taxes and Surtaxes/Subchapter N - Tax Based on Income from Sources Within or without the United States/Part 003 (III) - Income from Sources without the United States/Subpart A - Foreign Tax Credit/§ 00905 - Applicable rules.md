@@ -26,7 +26,7 @@ If accrued taxes when paid differ from the amounts claimed as credits by the tax
 
 1980—Subsec. (c). Pub. L. 96–603 inserted provision that the preceding sentence not apply, with respect to any period after the refund or adjustment in the foreign taxes, if the taxpayer fails to notify the Secretary, on or before the date prescribed by regulations for giving such notice, unless it is shown that such failure is due to reasonable cause and not due to willful neglect.
 
-1976—Subsec. (b). Pub. L. 94–455, §§1901(a)(114), 1906(b)(13)(A), struck out provision allowing credits tobe taken for tax on royalties paid, accrued and derived from sources within the United Kingdom of Britain and Northern Ireland and struck out “or his delegate” after “Secretary”, in two places.
+1976—Subsec. (b). Pub. L. 94–455, §§1901(a)(114), 1906(b)(13)(A), struck out provision allowing credits to be taken for tax on royalties paid, accrued and derived from sources within the United Kingdom of Britain and Northern Ireland and struck out “or his delegate” after “Secretary”, in two places.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” in eight places.
 

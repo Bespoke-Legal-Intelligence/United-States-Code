@@ -1,4 +1,4 @@
-### §4004 . Disclosure of funds availability policies
+### §4004. Disclosure of funds availability policies
 
 #### (a) Notice for new accounts
 

@@ -1,4 +1,4 @@
-### §355 . Voluntary retirement after twenty years’ service
+### §355. Voluntary retirement after twenty years’ service
 
 Any enlisted member who has completed twenty years’ service may, upon his own application, in the discretion of the Commandant, be retired from active service.
 

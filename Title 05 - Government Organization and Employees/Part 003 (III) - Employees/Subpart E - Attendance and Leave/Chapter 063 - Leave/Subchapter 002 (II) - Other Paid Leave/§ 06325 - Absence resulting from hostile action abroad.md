@@ -16,9 +16,9 @@ Section 408 of the Foreign Service Act of 1980, referred to in text, is classifi
 
 #### Amendments
 
-1986—Pub. L. 99–399 inserted sentence at end relating to alien employees.
+<b>1986</b>—Pub. L. 99–399 inserted sentence at end relating to alien employees.
 
-1979—Pub. L. 96–54 substituted provisions relating to leave charged to an account of an employee for absence, for provisions relating to leave charged to an account of any officer or employee for absence, and designated qualifying provisions as cls. (1) and (2).
+<b>1979</b>—Pub. L. 96–54 substituted provisions relating to leave charged to an account of an employee for absence, for provisions relating to leave charged to an account of any officer or employee for absence, and designated qualifying provisions as cls. (1) and (2).
 
 #### Effective Date of 1979 Amendment
 

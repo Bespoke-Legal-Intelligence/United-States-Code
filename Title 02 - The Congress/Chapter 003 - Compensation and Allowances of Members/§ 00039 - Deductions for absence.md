@@ -1,6 +1,6 @@
 ### §39. Deductions for absence
 
-The Secretary of the Senate and Sergeant at Arms of the House, respectively, shall deductfrom the monthly payments (or other periodic payments authorized by law) of each Member or Delegate the amount of his salary for each day that he has been absent from the Senate or House, respectively, unless such Member or Delegate assigns as the reason for such absence the sickness of himself or of some member of his family.
+The Secretary of the Senate and Sergeant at Arms of the House, respectively, shall deduct from the monthly payments (or other periodic payments authorized by law) of each Member or Delegate the amount of his salary for each day that he has been absent from the Senate or House, respectively, unless such Member or Delegate assigns as the reason for such absence the sickness of himself or of some member of his family.
 
 (R.S. §40; Pub. L. 97–51, §112(d), Oct. 1, 1981, 95 Stat. 963.)
 

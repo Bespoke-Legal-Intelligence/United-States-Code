@@ -32,5 +32,5 @@ The Congress finds that—
 
 &emsp;&emsp;(C) maximize the ability of local educational agencies to plan, develop, implement and continue effective and innovative magnet schools that contribute to State and local systemic reform.
 
-(Pub. L. 89 10, title V, §5101, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3690.)
+(Pub. L. 89–10, title V, §5101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3690.)
 

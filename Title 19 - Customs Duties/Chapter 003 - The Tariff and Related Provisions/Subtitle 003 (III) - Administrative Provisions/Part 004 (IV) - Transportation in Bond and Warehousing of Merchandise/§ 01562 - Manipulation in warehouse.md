@@ -34,9 +34,9 @@ Section 204 of the United States-Canada Free-Trade Agreement Implementation Act 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §562, 42 Stat. 978. That section was superseded by section 562 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §562, 42 Stat. 978. That section was superseded by section 562 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions substantially the same, in effect, as those of this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. §2980, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Prior provisions substantially the same, in effect, as those in this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. §2980, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

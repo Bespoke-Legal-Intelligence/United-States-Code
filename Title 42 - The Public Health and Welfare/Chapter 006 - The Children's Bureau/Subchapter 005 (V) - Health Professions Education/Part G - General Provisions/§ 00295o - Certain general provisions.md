@@ -26,7 +26,7 @@ Contracts authorized by this subchapter may be entered into without regard to se
 
 #### (2) Biennial audits
 
-&emsp;Each entity which received a grant or entered into a contract under this subchapter shall provide for a biennial financial audit of any books, accounts, financial records, files, and other papers and property which relate to the disposition or use of the funds received under such grant or contract and such other funds received by or allocated to the project or undertaking for which such grant or contract was made. For purposes of assuring accurate, current, and complete disclosure of the disposition or use of the funds received, each such audit shall be conducted in accordance with such requirements concerning the individual or agency which conducts the audit, and such standards applicable to the performance of the audit, as the Secretary may by regulation provide. A report of each such audit shall be filed with the Secretary at such time and in such manner as he may require.
+&emsp;Each entity which received a grant or entered into a contract under this subchaptershall provide for a biennial financial audit of any books, accounts, financial records, files, and other papers and property which relate to the disposition or use of the funds received under such grant or contract and such other funds received by or allocated to the project or undertaking for which such grant or contract was made. For purposes of assuring accurate, current, and complete disclosure of the disposition or use of the funds received, each such audit shall be conducted in accordance with such requirements concerning the individual or agency which conducts the audit, and such standards applicable to the performance of the audit, as the Secretary may by regulation provide. A report of each such audit shall be filed with the Secretary at such time and in such manner as he may require.
 
 #### (3) Applicability to students
 
@@ -34,7 +34,7 @@ Contracts authorized by this subchapter may be entered into without regard to se
 
 #### (4) Availability of documents, etc.
 
-&emsp;(A) Each entity which is required to establish and maintain records or to provide for anaudit under this subsection shall make such books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of such entity upon a reasonable request therefor.
+&emsp;(A) Each entity which is required to establish and maintain records or to provide for an audit under this subsection shall make such books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of such entity upon a reasonable request therefor.
 
 &emsp;(B) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have the authority to carry out the purposes of this paragraph.
 
@@ -66,7 +66,7 @@ Contracts authorized by this subchapter may be entered into without regard to se
 
 A prior section 798 of act July 1, 1944, was classified to section 295h–7 of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
-Another prior section 798(a) of act July 1, 1944, was classified to section 295h–7 of this title prior to the general revision of part G of this subchapter by Pub. L. 94–484.
+Another prior section 798 of act July 1, 1944, was classified to section 295h–7 of this title prior to the general revision of part G of this subchapter by Pub. L. 94–484.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ In order to carry out the provisions of this chapter, the Foundation is authoriz
 
 &emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade 15 of the General Schedule set forth in section 5332 of title 5;
 
-&emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS 18 in section 5332 of such title;
+&emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 in section 5332 of such title;
 
 &emsp;(3) prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 
@@ -26,13 +26,13 @@ In order to carry out the provisions of this chapter, the Foundation is authoriz
 
 The Foundation shall submit to the President and to the Congress an annual report of its operations under this chapter.
 
-(Pub. L. 93 642, §13, Jan. 4, 1975, 88 Stat. 2280.)
+(Pub. L. 93–642, §13, Jan. 4, 1975, 88 Stat. 2280.)
 
 #### Codification
 
-In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -4,7 +4,7 @@
 
 (b) When the owner of a vessel knowingly falsifies or conceals a material fact, or makes a false statement or representation about the documentation of the vessel, that vessel and its equipment are liable to seizure by and forfeiture to the United States Government.
 
-(c) When a certificate of documentation is knowingly and fraudulently used for a vessel, that vessel and its equipment are liable to seizure by and forfeiture to the Government.
+(c) When a certificate of documentation is knowingly and fraudulently used for a vessel,that vessel and its equipment are liable to seizure by and forfeiture to the Government.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590; Pub. L. 99–307, §1(16), May 19, 1986, 100 Stat. 446.)
 

@@ -32,7 +32,7 @@ Account.—(1) There is hereby established on the books of the Treasury an accou
 
 (3) In such amounts as is provided in advance in appropriation Acts, the Account shall be available for contracts, investments, and expenses necessary for the implementation of this section.
 
-(4) The Secretary may not enter into a contract in connection with a limited partnershipunder subsection (a) or a collateral incentive agreement under subsection (b) unless the Account contains sufficient funds, as of the time the contract is entered into, to satisfy the total obligations to be incurred by the United States under the contract.
+(4) The Secretary may not enter into a contract in connection with a limited partnership under subsection (a) or a collateral incentive agreement under subsection (b) unless the Account contains sufficient funds, as of the time the contract is entered into, to satisfy the total obligations to be incurred by the United States under the contract.
 
 (e)
 

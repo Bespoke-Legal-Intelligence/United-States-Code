@@ -24,7 +24,7 @@ This section does not apply to activities carried out under subchapter III of th
 
 Nothing in this subchapter shall affect the authority of the Federal Communications Commission pursuant to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
 
-(Pub. L. 102 555, title II, §205, Oct. 28, 1992, 106 Stat. 4173.)
+(Pub. L. 102–555, title II, §205, Oct. 28, 1992, 106 Stat. 4173.)
 
 #### References in Text
 

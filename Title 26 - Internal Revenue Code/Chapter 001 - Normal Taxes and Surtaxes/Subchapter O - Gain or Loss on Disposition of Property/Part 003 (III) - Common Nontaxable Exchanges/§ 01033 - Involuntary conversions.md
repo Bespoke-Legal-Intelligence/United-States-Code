@@ -54,7 +54,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (b) Basis of property acquired through involuntary conversion
 
-If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described in subsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.
+If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion ofproperty used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described in subsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.
 
 #### (c) Property sold pursuant to reclamation laws
 
@@ -114,7 +114,7 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 #### (i) Exclusion for unscheduled personal property
 
-&emsp;&emsp;&emsp;No gain shall be recognized by reason of the receipt of any insurance proceeds for personal property which was part of such contents and which was not scheduled property for purposes of such insurance.
+&emsp;&emsp;&emsp;No gain shall be recognized by reason of the receipt of any insurance proceeds for personal property which was part of suchcontents and which was not scheduled property for purposes of such insurance.
 
 #### (ii) Other proceeds treated as common fund
 
@@ -136,7 +136,33 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 &emsp;For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 1034, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
 
-#### (i) Cross references
+#### (i) Nonrecognition not to apply if corporation acquires replacement property from related person
+
+#### (1) In general
+
+&emsp;In the case of—
+
+&emsp;&emsp;(A) a C corporation, or
+
+&emsp;&emsp;(B) a partnership in which 1 or more C corporations own, directly or indirectly (determined in accordance with section 707(b)(3)), more than 50 percent of the capital interest, or profits interest, in such partnership at the time of the involuntary conversion,
+
+> &emsp;subsection (a) shall not apply if the replacement property or stock is acquired from a related person. The preceding sentence shall not apply to the extent that the related person acquired the replacement property or stock from an unrelated person during the period described in subsection (a)(2)(B).
+
+#### (2) Related person
+
+&emsp;For purposes of this subsection, a person is related to another person if the person bears a relationship to the other person described in section 267(b) or 707(b)(1).
+
+#### (j) Sales or exchanges to implement microwave relocation policy
+
+#### (1) In general
+
+&emsp;For purposes of this subtitle, if a taxpayer elects the application of this subsection to a qualified sale or exchange, such sale or exchange shall be treated as an involuntary conversion to which this section applies.
+
+#### (2) Qualified sale or exchange
+
+&emsp;For purposes of paragraph (1), the term “qualified sale or exchange” means a sale or exchange before January 1, 2000, which is certified by the Federal Communications Commission as having been made by a taxpayer in connection with the relocation of the taxpayer from the 1850–1990MHz spectrum by reason of the Federal Communications Commission's reallocation of that spectrum for use for personal communications services. The Commission shall transmit copies of certifications under this paragraph to the Secretary.
+
+#### (k) Cross references
 
 &emsp;&emsp;<b>(1) For determination of the period for which the taxpayer has held property involuntarily converted, see section 1223.</b>
 
@@ -144,7 +170,7 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 &emsp;&emsp;<b>(3) For one-time exclusion from gross income of gain from involuntary conversion of principal residence by individual who has attained age 55, see section 121.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Sept. 2, 1958, Pub. L. 85–866, title I, §§45, 46(a), 72 Stat. 1641; Feb. 26, 1964, Pub. L. 88–272, title II, §206(b)(3), 78 Stat. 40; Dec. 30, 1969, Pub. L. 91–172, title IX, §915(a), 83 Stat. 723; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), 90 Stat. 1785, 1834, 1920, 1932; Nov. 6, 1978, Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), 92 Stat. 2870, 2888, 2941; Aug. 13, 1981, Pub. L. 97–34, title II,§202(d)(2), 95 Stat. 221; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(24), 98 Stat. 844; Nov. 5, 1990, Pub. L. 101–508, title XI, §11813(b)(20), 104 Stat. 1388–555; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13431(a), 107 Stat. 567.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Sept. 2, 1958, Pub. L. 85–866, title I, §§45, 46(a), 72 Stat. 1641; Feb. 26, 1964, Pub. L. 88–272, title II, §206(b)(3), 78 Stat. 40; Dec. 30, 1969, Pub. L. 91–172, title IX, §915(a), 83 Stat. 723; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), 90 Stat. 1785, 1834, 1920, 1932; Nov. 6, 1978, Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), 92 Stat. 2870, 2888, 2941; Aug. 13, 1981, Pub. L. 97–34, title II, §202(d)(2), 95 Stat. 221; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(24), 98 Stat. 844; Nov. 5, 1990, Pub. L. 101–508, title XI, §11813(b)(20), 104 Stat. 1388–555; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13431(a), 107 Stat. 567; Apr. 11, 1995, Pub. L. 104–7, §3(a)(1), (b)(1), 109 Stat. 94, 95.)
 
 #### References in Text
 
@@ -153,6 +179,14 @@ Section 112 of the Internal Revenue Code of 1939, referred to in subsec. (b), wa
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+1995—Subsec. (i). Pub. L. 104–7, §3(a)(1), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 104–7, §3(b)(1), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Pub. L. 104–7, §3(a)(1), redesignated subsec. (i) as (j).
+
+Subsec. (k). Pub. L. 104–7, §3(b)(1), redesignated subsec. (j) as (k).
 
 1993—Subsecs. (h), (i). Pub. L. 103–66 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -188,6 +222,12 @@ Subsecs. (g), (h). Pub. L. 85–866, §46(a), added subsec. (g) and redesignated
 
 1956—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### Effective Date of 1995 Amendment
+
+Section 3(a)(2) of Pub. L. 104–7 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to involuntary conversions occurring on or after February 6, 1995.”
+
+Section 3(b)(2) of Pub. L. 104–7 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales or exchanges after March 14, 1995.”
+
 #### Effective Date of 1993 Amendment
 
 Section 13431(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property compulsorily or involuntarily converted as a result of disasters for which the determination referred to in section 1033(h)(2) of the Internal Revenue Code of 1986 (as added by this section) is made on or after September 1, 1991, and to taxable years ending on or after such date.”
@@ -218,7 +258,7 @@ Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable year
 
 Section 2127(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
 
-Section 2140(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any disposition of converted property (within the meaning of section1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after December 31, 1974, unless a condemnation proceeding with respect to such property began before the date of the enactment of this Act \[Oct. 4, 1976\].”
+Section 2140(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any disposition of converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after December 31, 1974, unless a condemnation proceeding with respect to such property began before the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1969 Amendment
 
@@ -226,7 +266,7 @@ Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -250,5 +290,5 @@ Holding period of property, see section 1223 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 121, 143, 197, 381, 453, 1016, 1031, 1071, 1223, 1245, 1250, 1351, 2032A, 6212, 6504 of this title; title 25 sections 1716, 1729, 1754.
+This section is referred to in sections 121, 143, 197, 381, 453, 1016, 1031, 1223, 1245, 1250, 1351, 2032A, 6212, 6504 of this title; title 25 sections 1716, 1729, 1754.
 

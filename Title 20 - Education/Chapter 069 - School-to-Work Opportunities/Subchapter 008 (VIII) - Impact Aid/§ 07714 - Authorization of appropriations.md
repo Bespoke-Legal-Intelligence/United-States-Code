@@ -24,7 +24,7 @@ For the purpose of carrying out section 7707 of this title, there are authorized
 
 For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
-(Pub. L. 89 10, title VIII, §8014, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3772.)
+(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772.)
 
 #### Section Referred to in Other Sections
 

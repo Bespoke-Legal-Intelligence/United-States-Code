@@ -18,19 +18,19 @@ The Congress finds that—
 
 &emsp;(8) the Federal Government should purchase space goods and services which are commercially available, or could be made available commercially in response to a Government procurement request, whenever such goods or services meet Government mission requirements in a cost effective manner;
 
-&emsp;(9) it is appropriate for the Government to act as an anchor tenant for commercial space development projects which have a reasonable potential to develop non-Federal markets and which meet Federal needs in a cost effective manner; and
+&emsp;(9) it is appropriate for the Government to act as an anchor tenant for commercial spacedevelopment projects which have a reasonable potential to develop non-Federal markets and which meet Federal needs in a cost effective manner; and
 
 &emsp;(10) the provision of compensation to commercial providers of space goods and services for termination of contracts at the convenience of the Government assists in enabling the private sector to invest in space activities which are initially dependent on Government purchases.
 
-(Pub. L. 102 588, title V, §501, Nov. 4, 1992, 106 Stat. 5122.)
+(Pub. L. 102–588, title V, §501, Nov. 4, 1992, 106 Stat. 5122.)
 
 #### Codification
 
-In par. (4), “chapter 701 of title 49” substituted for “the Commercial Space Launch Act \[49 App. U.S.C. 2601 et seq.\]” on authority of Pub. L. 103 272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In par. (4), “chapter 701 of title 49” substituted for “the Commercial Space Launch Act \[49 App. U.S.C. 2601 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Space Cooperation With Former Soviet Republics
 
-Section 218 of Pub. L. 102 588 provided that:
+Section 218 of Pub. L. 102–588 provided that:
 
 “(a)
 

@@ -276,7 +276,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (f) Sources of funds for interest payments; Financing Corporation assessment authority
 
-The Financing Corporation shall obtain funds for anticipated interest payments, issuancecosts, and custodial fees on obligations issued hereunder from the following sources:
+The Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued hereunder from the following sources:
 
 #### (1) Preenactment assessments
 
@@ -300,7 +300,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (3) Receivership proceeds
 
-&emsp;To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 1821a of this title) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
+&emsp;To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims receivedby the FSLIC Resolution Fund (established under section 1821a of this title) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
 
 #### (g) Use and disposition of assets of Financing Corporation not invested in FSLIC
 
@@ -350,7 +350,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;&emsp;(i) means issuance fees and commissions incurred by the Financing Corporation in connection with the issuance or servicing of any obligation of the Financing Corporation; and
 
-&emsp;&emsp;&emsp;(ii) includes legal and accounting expenses, trustee and fiscal and paying agent charges, costs incurred in connection with preparing and printing offering materials, and advertising expenses, to the extentthat any such cost or expense is incurred by the Financing Corporation in connection with issuing any obligation.
+&emsp;&emsp;&emsp;(ii) includes legal and accounting expenses, trustee and fiscal and paying agent charges, costs incurred in connection with preparing and printing offering materials, and advertising expenses, to the extent that any such cost or expense is incurred by the Financing Corporation in connection with issuing any obligation.
 
 #### (B) Custodian fees
 
@@ -518,7 +518,7 @@ Subsec. (<i>l</i>). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as 
 
 #### Effective Date of 1992 Amendment
 
-Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of thistitle\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
+Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
 
 #### Effective Date of 1991 Amendment
 

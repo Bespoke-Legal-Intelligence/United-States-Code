@@ -70,7 +70,7 @@ The plan shall set forth a design for the establishment of a statewide network o
 
 #### (h) Centers
 
-In States in which State funding for centers for independent living equals or exceeds the amount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
+In States in which State funding for centers for independent living equals or exceeds the amount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight ofsuch centers consistent with section 796f–2 of this title.
 
 #### (i) Cooperation, coordination, and working relationships among various entities
 
@@ -96,7 +96,7 @@ With respect to services and centers funded under this part, the plan shall set 
 
 The plan shall provide satisfactory assurances that all recipients of financial assistance under this part will—
 
-&emsp;(1) notify all individuals seeking or receiving services under this part about the availability of the client assistance program under section 732 of this title, the purposes of the servicesprovided under such program, and how to contact such program;
+&emsp;(1) notify all individuals seeking or receiving services under this part about the availability of the client assistance program under section 732 of this title, the purposes of the services provided under such program, and how to contact such program;
 
 &emsp;(2) take affirmative action to employ and advance in employment qualified individuals with disabilities on the same terms and conditions required with respect to the employment of such individuals under the provisions of section 793 of this title;
 

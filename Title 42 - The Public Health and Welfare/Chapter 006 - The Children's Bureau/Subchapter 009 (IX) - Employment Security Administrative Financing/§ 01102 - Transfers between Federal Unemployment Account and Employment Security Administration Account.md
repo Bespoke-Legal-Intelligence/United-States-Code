@@ -16,7 +16,7 @@ The amount, if any, by which the amount in the Federal unemployment account as o
 
 Whenever the Secretary of Labor has reason to believe that in the next fiscal year the employment security administration account will reach the limit provided for such account in section 1101(f)(3)(A) of this title, and the Federal unemployment account will reach the limit provided for such account in subsection (a) of this section, and the extended unemployment compensation account will reach the limit provided for such account in section 1105(b)(2) of this title, he shall, after consultation with the Secretary of the Treasury, so report to the Congress with a recommendation for appropriate action by the Congress.
 
-(Aug. 14, 1935, ch. 531, title IX, §902, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 669; amended Sept. 13, 1960, Pub. L. 86–778, title V, §521, 74 Stat. 974; Aug. 10, 1970, Pub. L. 91–373, title III, §304(a), (b), 84 Stat. 715, 716; Dec. 22, 1987, Pub. L. 100–203, title IX, §9154(b)(1), 101 Stat. 1330–326; July 3, 1992, Pub. L. 102–318, title V, §531(b), 106 Stat. 316.)
+(Aug. 14, 1935, ch. 531, title IX, §902, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 669; amended Sept. 13, 1960, Pub. L. 86–778, title V, §521, 74Stat. 974; Aug. 10, 1970, Pub. L. 91–373, title III, §304(a), (b), 84 Stat. 715, 716; Dec. 22, 1987, Pub. L. 100–203, title IX, §9154(b)(1), 101 Stat. 1330–326; July 3, 1992, Pub. L. 102–318, title V, §531(b), 106 Stat. 316.)
 
 #### Prior Provisions
 
@@ -40,7 +40,7 @@ Section 531(e) of Pub. L. 102–318 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 1110 of this title and amending this section and sections1101, 1104, and 1105 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1992\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 1110 of this title and amending this section and sections 1101, 1104, and 1105 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1992\].
 
 “(2)
 

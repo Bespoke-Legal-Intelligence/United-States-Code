@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation (or the Administrator of theFederal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may take action the Secretary or Administrator, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
+General Authority.—The Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may take action the Secretary or Administrator, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
 
 (b)
 
@@ -106,7 +106,9 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Aircraft Purchase Loan Guarantee Program
 
-Pub. L. 103–331, title I, Sept. 30, 1994, 108 Stat. 2476, provided in part that: “None of the funds in this Act \[see Tables for classification\] shall be available for activities under this head the obligations for which are in excess of $9,970,000 during fiscal year 1995.” Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+Pub. L. 104–50, title I, Nov. 15, 1995, 109 Stat. 442, provided in part that: “None of the funds in this Act \[see Tables for classification\] shall be available for activities under this head the obligations for which are in excess of $1,600,000 during fiscal year 1996.” Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+
+Pub. L. 103–331, title I, Sept. 30, 1994, 108 Stat. 2476.
 
 Pub. L. 103–122, title I, Oct. 27, 1993, 107 Stat. 1205.
 

@@ -12,7 +12,7 @@ The Congress finds and declares that—
 
 &emsp;(4) international efforts to obtain information on the activities of multinational enterprises and other international investors have accelerated recently;
 
-&emsp;(5) the potential consequences of international investment cannot be evaluated accurately because the United States Governmentlacks sufficient information on such investment and its actual or possible effects on the national security, commerce, employment, inflation, general welfare, and foreign policy of the United States;
+&emsp;(5) the potential consequences of international investment cannot be evaluated accurately because the United States Government lacks sufficient information on such investment and its actual or possible effects on the national security, commerce, employment, inflation, general welfare, and foreign policy of the United States;
 
 &emsp;(6) accurate and comprehensive information on international investment is needed by the Congress to develop an informed United States policy on such investment;
 

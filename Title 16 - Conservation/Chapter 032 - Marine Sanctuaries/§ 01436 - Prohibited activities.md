@@ -10,7 +10,7 @@ It is unlawful to—
 
 &emsp;(4) violate any provision of this chapter or any regulation or permit issued pursuant to this chapter.
 
-(Pub. L. 92–532, title III, §306, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, §2106, Nov. 4, 1992, 106 Stat. 5043.)
+(Pub. L. 92–532, title III, §306, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302;amended Pub. L. 102–587, title II, §2106, Nov. 4, 1992, 106 Stat. 5043.)
 
 #### Amendments
 

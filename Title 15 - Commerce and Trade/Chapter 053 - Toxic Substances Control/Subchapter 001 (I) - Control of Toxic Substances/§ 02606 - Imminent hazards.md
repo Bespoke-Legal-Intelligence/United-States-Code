@@ -28,7 +28,7 @@
 
 (B) In determining the judicial district in which an action may be brought under subsection (a) of this section in instances in which such action may be brought in more than one judicial district, the Administrator shall take into account the convenience of the parties.
 
-(C) Subpeonas<sup>1</sup> requiring attendance of witnesses in an action brought under subsection (a) of this section may be served in any judicial district.
+(C) Subpeonas <sup>1</sup> requiring attendance of witnesses in an action brought under subsection (a) of this section may be served in any judicial district.
 
 (2) Whenever proceedings under subsection (a) of this section involving identical chemical substances, mixtures, or articles are pending in courts in two or more judicial districts, they shall be consolidated for trial by order of any such court upon application reasonably made by any party in interest, upon notice to all parties in interest.
 
@@ -42,15 +42,15 @@ Notwithstanding any other provision of law, in any action under subsection (a) o
 
 #### (f) “Imminently hazardous chemical substance or mixture” defined
 
-For the purposes of subsection (a) of this section, the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, islikely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
+For the purposes of subsection (a) of this section, the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
 
-(Pub. L. 94 469, title I, §7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102 550, title X, §1021(b)(1), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, §7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(1), Oct. 28, 1992, 106 Stat. 3923.)
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102 550 substituted “section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV of this chapter” for “section 2603, 2604, or 2605 of this title” in last sentence.
+1992—Subsec. (a)(1). Pub. L. 102–550 substituted “section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV of this chapter” for “section 2603, 2604, or 2605 of this title” in last sentence.
 
-Pub. L. 102 550, which directed the insertion of “or subchapter IV of this chapter” after “2604”, was executed by making the insertion after “2604” the second time appearing in last sentence, to reflect the probable intent of Congress.
+Pub. L. 102–550, which directed the insertion of “or subchapter IV of this chapter” after “2604”, was executed by making the insertion after “2604” the second time appearing in last sentence, to reflect the probable intent of Congress.
 
 #### Federal Rules of Civil Procedure
 
@@ -60,5 +60,5 @@ Admiralty and maritime rules of practice (which included libel procedures) were 
 
 This section is referred to in sections 2603, 2604, 2605, 2607, 2608, 2611, 2612, 2614, 2619 of this title; title 33 section 1319; title 42 sections 7412, 9601, 9606.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “Subpoenas”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Subpoenas”.</i>
 

@@ -16,7 +16,7 @@
 
 > The quantity of petroleum permitted to be produced as compensation for surrendering control of the rate of production may, in the discretion of the Secretary, be reduced or eliminated at any time on reasonable notice if the Secretary is not then having petroleum produced for national defense under section 7422 of this title.
 
-(d) In no event may the quantity of petroleum produced under subsection (c) from any zone for any private contracting party exceed one-third of its share of the recoverable petroleum in that zone as estimated on the date fixed in the contract.
+(d) In no event may the quantity of petroleum produced under subsection (c) from any zone for any private contracting party exceed one-third of its share of the recoverable petroleum in thatzone as estimated on the date fixed in the contract.
 
 (e) No contract may be made under this section until the Committees on Armed Services of the Senate and the House of Representatives have been consulted as to all its details.
 
@@ -60,7 +60,7 @@ Subsec. (a). Pub. L. 96–513, §513(32)(A), substituted “Naval Petroleum Rese
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 

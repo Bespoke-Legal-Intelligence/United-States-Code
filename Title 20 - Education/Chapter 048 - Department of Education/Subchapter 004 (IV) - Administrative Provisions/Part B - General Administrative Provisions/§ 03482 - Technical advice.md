@@ -8,5 +8,5 @@ The Secretary is authorized, upon request, to provide advice, counsel, and techn
 
 The Secretary may permit the consolidation of applications for grants or contracts with respect to two or more functions of the Secretary or the Department, but such consolidation shall not alter the statutory criteria for approval of applications for funding with respect to such functions.
 
-(Pub. L. 96 88, title IV, §422, Oct. 17, 1979, 93 Stat. 687.)
+(Pub. L. 96–88, title IV, §422, Oct. 17, 1979, 93 Stat. 687.)
 

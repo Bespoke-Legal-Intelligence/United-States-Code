@@ -24,7 +24,7 @@ As originally enacted into permanent law, section applied to Speaker of House of
 
 #### Amendments
 
-1985—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceed the then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
+1985—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceedthe then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
 
 1977—Pub. L. 95–94 inserted reference to an additional Secretary paid at a gross per annum of not to exceed $9,000 as determined by the Speaker and struck out “as Administrative Assistant or Secretary” after “Each person so designated and appointed”.
 

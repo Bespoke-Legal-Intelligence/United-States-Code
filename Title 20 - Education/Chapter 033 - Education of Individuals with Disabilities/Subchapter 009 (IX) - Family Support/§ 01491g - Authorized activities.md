@@ -14,7 +14,7 @@ A State that receives a grant under section 1491c of this title may use the fund
 
 &emsp;&emsp;(C) Develop or strengthen family-centered and family-directed approaches to services, including service coordination services, service planning services, and respite care services.
 
-&emsp;&emsp;(D) Assist families of children with disabilities in accessing natural<sup>1</sup> and community supports and in obtaining benefits and services.
+&emsp;&emsp;(D) Assist families of children with disabilities in accessing natural <sup>1</sup> and community supports and in obtaining benefits and services.
 
 #### (2) Interagency coordination
 
@@ -44,7 +44,7 @@ A State that receives a grant under section 1491c of this title may use the fund
 
 #### (7) Public awareness and education
 
-&emsp;The State may develop and disseminate information relating to family support for families of children with disabilities designed to provide information to such families, parent groups and organizations, public and private agencies that are in contact with children with disabilities and families of such children, students, policymakers, and the public. Such information may relate to the nature, cost,and availability of, and accessibility to, family support for families of children with disabilities, the impact of family support for families of children with disabilities on other benefits, and the efficacy of family support for families of children with disabilities with respect to enhancing the quality of family life.
+&emsp;The State may develop and disseminate information relating to family support for families of children with disabilities designed to provide information to such families, parent groups and organizations, public and private agencies that are in contact with children with disabilities and families of such children, students, policymakers, and the public. Such information may relate to the nature, cost, and availability of, and accessibility to, family support for families of children with disabilities, the impact of family support for families of children with disabilities on other benefits, and the efficacy of family support for families of children with disabilities with respect to enhancing the quality of family life.
 
 #### (8) Needs assessment
 
@@ -66,11 +66,11 @@ A State that receives a grant under section 1491c of this title may use the fund
 
 In carrying out activities authorized under this subchapter, a State shall ensure that such programs and activities address the needs of families who are economically disadvantaged.
 
-(Pub. L. 91 230, title VI, §708, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3949.)
+(Pub. L. 91–230, title VI, §708, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3949.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1491a, 1491d of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “national”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “national”.</i>
 

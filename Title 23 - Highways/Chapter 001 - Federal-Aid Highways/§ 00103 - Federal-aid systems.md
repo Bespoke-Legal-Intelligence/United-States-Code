@@ -38,15 +38,71 @@ Approval of congress required.—After September 30, 1995, no funds made availab
 
 &emsp;&emsp;(C)
 
-Maximum mileage.—For purposes of proposing highways for designation to the National Highway System, the mileage of highways on the National Highway System shall not exceed 155,000 miles; except that the Secretary may increase or decrease such maximum mileage by not to exceed 15 percent.
+Maximum mileage.—The mileage of highways on the National Highway System shall not exceed 155,000 miles; except that the Secretary may increase or decrease such maximum mileage by not to exceed 15 percent.
 
 &emsp;&emsp;(D)
 
-Equitable allocations of highway mileage.—In proposing highways for designation to the National Highway System, the Secretary shall provide for equitable allocation of highway mileage among the States.
+Equitable allocations of highway mileage.—The Secretary shall provide for equitable allocation of highway mileage on the National Highway System among the States.
 
 &emsp;(4)
 
 Interim system.—For fiscal years 1992, 1993, 1994, and 1995, highways classified as principal arterials by the States shall be treated as being on the National Highway System for purposes of this title.
+
+&emsp;(5)
+
+Designation of nhs.—The National Highway System as submitted by the Secretary of Transportation on the map entitled “Official Submission, National Highway System, Federal Highway Administration”, and dated November 13, 1995, is hereby designated within the United States, including the District of Columbia and the Commonwealth of Puerto Rico.
+
+&emsp;(6)
+
+Modifications to nhs.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to paragraph (7), the Secretary may make modifications to the National Highway System that are proposed by a State or that are proposed by theState and revised by the Secretary if the Secretary determines that each of the modifications—
+
+&emsp;&emsp;&emsp;(i) meets the criteria established for the National Highway System under this title; and
+
+&emsp;&emsp;&emsp;(ii) enhances the national transportation characteristics of the National Highway System.
+
+&emsp;&emsp;(B)
+
+Cooperation.—In proposing modifications under this paragraph, a State shall cooperate with local and regional officials. In urbanized areas, the local officials shall act through the metropolitan planning organizations designated for such areas under section 134.
+
+&emsp;(7)
+
+Transitional rules for intermodal connectors.—
+
+&emsp;&emsp;(A)
+
+Required submission.—Not later than 180 days after the date of the enactment of the National Highway System Designation Act of 1995, the Secretary shall submit for approval to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives modifications to the National Highway System that are proposed by a State or that are proposed by the State and revised by the Secretary and that consist of connectors to major ports, airports, international border crossings, public transportation and transit facilities, interstate bus terminals, and rail and other intermodal transportation facilities.
+
+&emsp;&emsp;(B)
+
+Cooperation.—Paragraph (6)(B) shall apply to modifications proposed by a State under this paragraph.
+
+&emsp;&emsp;(C)
+
+Eligibility.—
+
+&emsp;&emsp;&emsp;(i)
+
+Initial approval by law.—Modifications proposed under subparagraph (A) may take effect only if a law has been enacted approving such modifications.
+
+&emsp;&emsp;&emsp;(ii)
+
+Interim eligibility.—Notwithstanding clause (i), a project to construct a connector to an intermodal transportation facility described in subparagraph (A) shall be eligible for funds apportioned under section 104(b)(1) for the National Highway System if the Secretary finds that the project is consistent with criteria developed by the Secretary for construction of such connectors.
+
+&emsp;&emsp;&emsp;(iii)
+
+Period of eligibility.—A project which is eligible under clause (ii) for funds apportioned under section 104(b)(1) shall remain eligible for such funds pursuant to clause (ii) only until the date of the enactment of a law described in clause (i).
+
+&emsp;&emsp;(D)
+
+Modifications after initial approval.—After the date of the enactment of a law described in subparagraph (C)(i), a modification consisting of a connector to an intermodal transportation facility described in subparagraph (A) may be made in accordance with paragraph (6).
+
+&emsp;(8)
+
+Congressional high priority corridors.—Upon the completion of feasibility studies, the Secretary shall add to the National Highway System any congressional high priority corridor or any segment thereof established by section 1105 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2031–2037) which was not identified on the National Highway System designated by paragraph (5).
 
 \[(c), (d) Repealed. Pub. L. 102–240, title I, §1006(b)(1), Dec. 18, 1991, 105 Stat. 1925.\]
 
@@ -60,7 +116,7 @@ Designation; mileage limitation.—The Interstate System shall be designated wit
 
 &emsp;(2)
 
-Modifications.—In addition to the mileage authorized by the first sentence of paragraph (1) of this subsection, there is hereby authorized additional mileage for the Interstate System of five hundred miles, to be used in making modifications or revisions in the Interstate System as provided in this paragraph. Upon the request of a State highway department the Secretary may withdraw his approval of any route or portion thereof on the Interstate System within that State selected and approved in accordance with this title, if he determines that such route or portion thereof is not essential to completion of a unified and connected Interstate System (including urban routes necessary for metropolitan transportation) and will not be constructed as a part of the Interstate System, and if he receives assurances that the State does not intend to construct a toll road in the traffic corridor which would be served by such route or portion thereof. After the Secretary has withdrawn his approval of any such route or portion thereof the mileage of such route or portion thereof and the additional mileage authorized by the first sentence of this paragraph shall be available for the designation of interstate routes or portions thereof as provided in this subsection. The provisions of this title applicable to the Interstate System shall apply to all mileage designated under the third sentence of this paragraph. The Secretary shall not designate any Interstate route or portion thereof under authority of this paragraph after the date of enactment of the Federal Aid Highway Act of 1978.
+Modifications.—In addition to the mileage authorized by the first sentence of paragraph (1) of this subsection, there is hereby authorized additional mileage for the Interstate System of five hundred miles, to be used in making modifications or revisions in the Interstate System as provided in this paragraph. Upon the request of a State highway department the Secretary may withdraw his approval of any route or portion thereof on the Interstate System within that State selected and approved in accordance with this title, if he determines that such route or portion thereof is not essential to completion of a unified and connected Interstate System (including urban routes necessary for metropolitan transportation) and will not be constructed as a part of the Interstate System, and if he receives assurances that the State does not intend to construct a toll road in the traffic corridor which would be served by such route or portion thereof. After the Secretary has withdrawn his approval of any such route or portion thereof the mileage of such route or portion thereof and the additional mileage authorized by the first sentence of this paragraph shall be available for the designation of interstate routes or portions thereof as provided in this subsection. The provisions of this title applicable to the Interstate System shall apply to all mileage designated under the third sentence of this paragraph. The Secretary shall not designate any Interstate route or portion thereof under authority of thisparagraph after the date of enactment of the Federal Aid Highway Act of 1978.
 
 &emsp;(3)
 
@@ -96,7 +152,7 @@ Availability of funds for substitute projects.—
 
 &emsp;&emsp;&emsp;(i)
 
-Time period.—The sums apportioned and the sums allocated under this paragraph for public mass transit projects and for highway construction projects in aState shall remain available for obligation in such State for the fiscal year for which apportioned or allocated, as the case may be, and for the succeeding fiscal year. In the case of funds authorized to be appropriated for substitute transit projects under this paragraph for fiscal year 1993 and for substitute highway projects under this paragraph for fiscal year 1995, such funds shall remain available until expended.
+Time period.—The sums apportioned and the sums allocated under this paragraph for public mass transit projects and for highway construction projects in a State shall remain available for obligation in such State for the fiscal year for which apportioned or allocated, as the case may be, and for the succeeding fiscal year. In the case of funds authorized to be appropriated for substitute transit projects under this paragraph for fiscal year 1993 and for substitute highway projects under this paragraph for fiscal year 1995, such funds shall remain available until expended.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -108,7 +164,7 @@ Administration of transit funds.—The sums obligated for mass transit projects 
 
 &emsp;&emsp;(G)
 
-Authorization of appropriations for highway projects.—For the fiscal year ending September 30, 1983, $257,000,000 shall be available out of the Highway Trust Fund for expenditure at the discretion of the Secretary for projects under highway assistance programs. There shall be available, out of the Highway Trust Fund (other than the Mass Transit Account), to the Secretary for expenditure under this paragraph for projects under highway assistance programs $700,000,000 per fiscal year for each of fiscal years 1984 and 1985, $693,825,000 for fiscal year 1986, $740,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991,<sup>1</sup> $240,000,000 per fiscal year for each of fiscal years 1992, 1993, 1994, and 1995. Such sums may be obligated for transit substitute projects under this paragraph.
+Authorization of appropriations for highway projects.—For the fiscal year ending September 30, 1983, $257,000,000 shall be available out of the Highway Trust Fund for expenditure at the discretion of the Secretary for projects under highway assistance programs. There shall be available, out of the Highway Trust Fund (other than the Mass Transit Account), to the Secretary forexpenditure under this paragraph for projects under highway assistance programs $700,000,000 per fiscal year for each of fiscal years 1984 and 1985, $693,825,000 for fiscal year 1986, $740,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991,<sup>1</sup> $240,000,000 per fiscal year for each of fiscal years 1992, 1993, 1994, and 1995. Such sums may be obligated for transit substitute projects under this paragraph.
 
 &emsp;&emsp;(H)
 
@@ -136,7 +192,7 @@ Distribution of substitute transit funds.—
 
 &emsp;&emsp;&emsp;(i)
 
-Between discretionary and apportioned programs.—Fifty percent of the funds appropriated for each fiscal year beginning after September 30, 1983, and ending before October 1, 1991 <sup>3</sup> for carrying out substitute transit projects under this paragraph shall be distributed at the discretion of the Secretary. The remaining 50 percent of such funds shall be apportioned in accordance with cost estimates approved byCongress or adjusted by the Secretary. 100 percent of funds appropriated for each of fiscal years 1992 and 1993 shall be apportioned in accordance with cost estimates adjusted by the Secretary.
+Between discretionary and apportioned programs.—Fifty percent of the funds appropriated for each fiscal year beginning after September 30, 1983, and ending before October 1, 1991 <sup>3</sup> for carrying out substitute transit projects under this paragraph shall be distributed at the discretion of the Secretary. The remaining 50 percent of such funds shall be apportioned in accordance with cost estimates approved by Congress or adjusted by the Secretary. 100 percent of funds appropriated for each of fiscal years 1992 and 1993 shall be apportioned in accordance with cost estimates adjusted by the Secretary.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -210,7 +266,7 @@ Limitation on refunds for withdrawals before november 6, 1978.—Notwithstanding
 
 Limitation on refunds for withdrawals on and after november 6, 1978.—Notwithstanding any other provision of law—
 
-&emsp;&emsp;(A) in the case of any withdrawal of approval on or after November 6, 1978, of a route or portion thereof on the Interstate System, a State, subject to the approval of the Secretary, shall not be required to refund to the Highway Trust Fund any sums paid to the State for intangible costs;
+&emsp;&emsp;(A) in the case of any withdrawal of approval on or after November 6, 1978, of a route or portion thereof on the InterstateSystem, a State, subject to the approval of the Secretary, shall not be required to refund to the Highway Trust Fund any sums paid to the State for intangible costs;
 
 &emsp;&emsp;(B) in the case of any withdrawal of approval on or after November 6, 1978, of any route or portion thereof on the Interstate System under this section, a State shall not be required to refund to the Highway Trust Fund the costs of construction items, materials, or rights-of-way of the withdrawn route or portion thereof if such items, materials, and rights-of-way were acquired before November 6, 1978, if by the date of withdrawal of approval the Secretary has not approved the environmental impact statement required by the National Environmental Policy Act of 1969, and if such construction items, materials, or rights-of-way will be or have been applied (i) to a transportation project permissible under this title, (ii) to a public conservation or public recreation purpose, or (iii) to any other public purpose determined by the Secretary to be in the public interest on condition that the State gives assurances satisfactory to the Secretary that such construction items, materials, or rights-of-way have been or will be so applied by the State, or any political subdivision thereof, to a project under clause (i), (ii), or (iii) within ten years from the date of withdrawal of approval.
 
@@ -228,7 +284,7 @@ Limitation on funding of modified mileage projects.—Interstate mileage authori
 
 (f) The Secretary shall have authority to approve in whole or in part the Interstate System, as and when such systems or portions thereof are designated, or to require modifications or revisions thereof.
 
-(g) The Secretary, on July 1, 1974, shall remove from designation as a part of the Interstate System each segment of such system for which a State has not notified the Secretary that such State intends to construct such segment, and which the Secretary finds is not essential to completion of a unified and connected Interstate System. Any segment of the Interstate System, with respect to which a State has not submitted by July 1, 1975, a schedule for the expenditure of funds for completion of construction of such segment or alternative segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System,and with respect to which the State has not provided the Secretary with assurances satisfactory to him that such schedule will be met, shall be removed from designation as a part of the Interstate System. No segment of the Interstate System removed under the authority of the preceding sentence shall thereafter be designated as a part of the Interstate System except as the Secretary finds necessary in the interest of national defense or for other reasons of national interest. This subsection shall not be applicable to any segment of the Interstate System referred to in section 23(a) of the Federal-Aid Highway Act of 1968.
+(g) The Secretary, on July 1, 1974, shall remove from designation as a part of the Interstate System each segment of such system for which a State has not notified the Secretary that such State intends to construct such segment, and which the Secretary finds is not essential to completion of a unified and connected Interstate System. Any segment of the Interstate System, with respect to which a State has not submitted by July 1, 1975, a schedule for the expenditure of funds for completion of construction of such segment or alternative segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him that such schedule will be met, shall be removed from designation as a part of the Interstate System. No segment of the Interstate System removed under the authority of the preceding sentence shall thereafter be designated as a part of the Interstate System except as the Secretary finds necessary in the interest of national defense or for other reasons of national interest. This subsection shall not be applicable to any segment of the Interstate System referred to in section 23(a) of the Federal-Aid Highway Act of 1968.
 
 (h) Notwithstanding subsections (e)(2) and (g) of this section, in any case where a segment of the Interstate System was a designated part of such System on June 1, 1973, and is entirely within the boundaries of an incorporated city and such city enters into an agreement with the Secretary to pay all non-Federal costs of construction of such segment, such segment shall be constructed.
 
@@ -256,7 +312,7 @@ Eligible Projects for NHS.—Subject to project approval by the Secretary, funds
 
 &emsp;(7) Highway-related technology transfer activities.
 
-&emsp;(8) Startup costs for traffic management and control if such costs are limited to the time period necessary to achieve operable status but not to exceed 2 years following the date of project approval, if such funds are not used to replace existing funds.
+&emsp;(8) Capital and operating costs for traffic monitoring, management, and control facilities and programs.
 
 &emsp;(9) Fringe and corridor parking facilities.
 
@@ -268,13 +324,17 @@ Eligible Projects for NHS.—Subject to project approval by the Secretary, funds
 
 &emsp;(13) In accordance with all applicable Federal law and regulations, participation in wetlands mitigation efforts related to projects funded under this title, which may include participation in wetlands mitigation banks; contributions to statewide and regional efforts to conserve, restore, enhance and create wetlands; and development of statewide and regional wetlands conservation and mitigation plans, including any such banks, efforts, and plans authorized pursuant to the Water Resources Development Act of 1990 (including crediting provisions). Contributions to such mitigation efforts may take place concurrent with or in advance of project construction. Contributions toward these efforts may occur in advance of project construction only if such efforts are consistent with all applicable requirements of Federal law and regulations and State transportation planning processes.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 86–70, §21(d)(1), June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §17(b), (c), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §8(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 90–238, Jan. 2, 1968, 81 Stat. 772; Pub. L. 90–495, §§14, 21, Aug. 23, 1968, 82 Stat. 822, 826; Pub. L. 91–605, title I, §§106(b), 124, Dec. 31, 1970, 84 Stat. 1716, 1729; Pub. L. 93–87, title I, §§109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, 87 Stat. 255, 256, 268, 274; Pub. L. 93–643, §125, Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §§109, 110, 111(a), May 5, 1976, 90 Stat. 431, 433; Pub. L. 95–599, title I, §107(a), (b), (f)(1), Nov. 6, 1978, 92 Stat. 2694, 2695; Pub. L. 96–106, §§1, 2(a), (c), Nov. 9, 1979, 93 Stat. 796; Pub. L. 96–144, §2, Dec. 13, 1979, 93 Stat. 1084; Pub. L. 97–424, title I, §§107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, 96 Stat. 2101–2104; Pub. L. 100–17, title I, §103(b), (f)(1), Apr. 2, 1987, 101 Stat. 136, 141; Pub. L. 102–240, title I, §§1006(a), (b), (d), 1011, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1923, 1925, 1935, 2088; Pub. L. 103–272, §5(f)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §§3(1), 7(a)(4)(B), Oct. 31, 1994, 108 Stat. 4377, 4389.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 86–70, §21(d)(1), June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §17(b), (c), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §8(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 90–238, Jan. 2, 1968, 81 Stat. 772; Pub. L. 90–495, §§14, 21, Aug. 23, 1968, 82 Stat. 822, 826; Pub. L. 91–605, title I, §§106(b), 124, Dec. 31, 1970, 84 Stat. 1716, 1729; Pub. L. 93–87, title I, §§109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, 87 Stat. 255, 256, 268, 274; Pub. L. 93–643, §125, Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §§109, 110, 111(a), May 5, 1976, 90 Stat. 431, 433; Pub. L. 95–599, title I, §107(a), (b), (f)(1), Nov. 6, 1978, 92 Stat. 2694, 2695; Pub. L. 96–106, §§1, 2(a), (c), Nov. 9, 1979, 93 Stat. 796; Pub. L. 96–144, §2, Dec. 13, 1979, 93 Stat. 1084; Pub. L. 97–424, title I, §§107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, 96 Stat. 2101–2104; Pub. L. 100–17, title I, §103(b), (f)(1), Apr. 2, 1987, 101 Stat. 136, 141; Pub. L. 102–240, title I, §§1006(a), (b), (d), 1011, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1923, 1925, 1935, 2088; Pub. L. 103–272, §5(f)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §§3(1), 7(a)(4)(B), Oct. 31, 1994, 108 Stat. 4377, 4389; Pub. L. 104–59, title I, §101, title III, §301(a), Nov. 28, 1995, 109 Stat. 569, 578.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b)(3)(A), probably means the date of the enactment of Pub. L. 102–240, which amended this section and was approved Dec. 18, 1991.
 
 Subsection (c) of section 1006 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (b)(3)(A), is section 1006(c) of Pub. L. 102–240, which is set out below.
+
+The date of the enactment of the National Highway System Designation Act of 1995, referred to in subsec. (b)(7)(A), is the date of enactment of Pub. L. 104–59, which was approved Nov. 28, 1995.
+
+Section 1105 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (b)(8), is section 1105 of Pub. L. 102–240, which amended section 105 of this title and enacted provisions establishing high priority corridors and segments, which are not classified to the Code.
 
 The date of enactment of the Federal-Aid Highway Act of 1978, referred to in subsec. (e)(2), (4)(M), means the date of enactment of Pub. L. 95–599, which was approved Nov. 6, 1978.
 
@@ -293,6 +353,14 @@ Section 23(a) of the Federal-Aid Highway Act of 1968, referred to in subsec. (g)
 The Water Resources Development Act of 1990, referred to in subsec. (i)(13), is Pub. L. 101–640, Nov. 28, 1990, 104 Stat. 4604. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
 
 #### Amendments
+
+1995—Subsec. (b)(3)(C). Pub. L. 104–59, §101(b)(1), substituted “The” for “For purposes of proposing highways for designation to the National Highway System, the”.
+
+Subsec. (b)(3)(D). Pub. L. 104–59, §101(b)(2), substituted “The” for “In proposing highways for designation to the National Highway System, the” and inserted “on the National Highway System” after “highway mileage”.
+
+Subsec. (b)(5) to (8). Pub. L. 104–59, §101(a), added pars. (5) to (8).
+
+Subsec. (i)(8). Pub. L. 104–59, §301(a), added par. (8) and struck out former par. (8) which read as follows: “Startup costs for traffic management and control if such costs are limited to the time period necessary to achieve operable status but not to exceed 2 years following the date of project approval, if such funds are not used to replace existing funds.”
 
 1994—Subsec. (e)(4)(L)(i). Pub. L. 103–272, §5(f)(1)(A), as amended by Pub. L. 103–429, §7(a)(4)(B), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
@@ -356,7 +424,7 @@ Pub. L. 97–424, §107(e)(1), struck out “which is within an urbanized area o
 
 Pub. L. 97–424, §107(e)(2), substituted “which will serve the area or areas from which the interstate route or portion thereof was withdrawn, which are selected by the responsible local officials of the area or areas to be served, and which are selected by the Governor or the Governors of the State or the States in which the withdrawn route was located if the withdrawn route was not within an urbanized area or did not pass through and connect urbanized areas, and which are submitted by the Governors of the States in which the withdrawn route was located”, for “which will serve the urbanized area and the connecting nonurbanized area corridor from which the interstate route or portion thereof was withdrawn, which are selected by the responsible local officials of the urbanized area or area to be served, and which are submitted by the Governor of the State in which the withdrawn route was located”, after “section 103 of this title; or both,” in second sentence.
 
-1979—Subsec. (e)(4). Pub. L. 96–144 provided that after Sept. 30, 1979, the Secretary shall not withdraw his approval under par. (4) of any route or portion thereof on the Interstate System open to traffic before the date of the proposed withdrawal, and that any withdrawal of approval of any such route or portion thereof before Sept. 30, 1979, is determined to be authorized by par. (4).
+1979—Subsec. (e)(4). Pub. L. 96–144 provided that after Sept. 30, 1979, the Secretary shall not withdraw his approval under par. (4) of any route or portion thereof on the Interstate System open to traffic before the date of the proposed withdrawal, and that any withdrawal ofapproval of any such route or portion thereof before Sept. 30, 1979, is determined to be authorized by par. (4).
 
 Pub. L. 96–106, §1, inserted provision that the preceding sentence not apply to a designation made under section 139 of this title.
 
@@ -384,7 +452,7 @@ Subsec. (e)(5). Pub. L. 94–280, §109(b), added par. (5).
 
 Subsec. (c). Pub. L. 93–87, §148(b), (e), designated existing provisions as par. (1), inserted “access roads to airports,” after “local rural roads”, and added par. (2).
 
-Subsec. (d)(1). Pub. L. 93–87, §§109(a), 148(c), authorized establishment of Federal-aid urban system in such other urban areas as the State highway department may designate, substituted “shall include high traffic volume arterial and collector routes, including access roads to airports and other transportation terminals” for “designed taking into consideration the highest traffic volume corridors, and the longest trips within such area and shall be selected so as to best serve the goals and objectives of the community as determined by the responsible local officials of such urbanized area based upon the planning process required pursuant to the provisions of section 134 of this title”, reenacted third sentence without change, inserted “to the extent feasible” in the text reading “Each route of the system to the extent feasible shall connect with another route”, substituted “Routes . . . shall be selected by the appropriate local officials so as to serve the goals and objectives of the community, with the concurrence of the State highway departments, and, in urbanized areas, also in accordance with the planning process under section 134 of this title” for “Routes . . . shall be selected by the appropriate local officials and the State highway departments in cooperation with each other subject to the approval of the Secretary as provided insubsection (f) of this section”, and inserted preceding last sentence “Designation of the Federal-aid urban system shall be subject to the approval of the Secretary as provided in subsection (f) of this section”, and designated provisions, as amended, as par. (1), respectively.
+Subsec. (d)(1). Pub. L. 93–87, §§109(a), 148(c), authorized establishment of Federal-aid urban system in such other urban areas as the State highway department may designate, substituted “shall include high traffic volume arterial and collector routes, including access roads to airports and other transportation terminals” for “designed taking into consideration the highest traffic volume corridors, and the longest trips within such area and shall be selected so as to best serve the goals and objectives of the community as determined by the responsible local officials of such urbanized area based upon the planning process required pursuant to the provisions of section 134 of this title”, reenacted third sentence without change, inserted “to the extent feasible” in the text reading “Each route of the system to the extent feasible shall connect with another route”, substituted “Routes . . . shall be selected by the appropriate local officials so as to serve the goals and objectives of the community, with the concurrence of the State highway departments, and, in urbanized areas, also in accordance with the planning process under section 134 of this title” for “Routes . . . shall be selected by the appropriate local officials and the State highway departments in cooperation with each other subject to the approval of the Secretary as provided in subsection (f) of this section”, and inserted preceding last sentence “Designation of the Federal-aid urban system shall be subject to the approval of the Secretary as provided in subsection (f) of this section”, and designated provisions, as amended, as par. (1), respectively.
 
 Subsec. (d)(2). Pub. L. 93–87, §148(c), added par. (2).
 
@@ -392,7 +460,7 @@ Subsec. (e)(2). Pub. L. 93–87, §137(a), substituted in first sentence “addi
 
 Subsec. (e)(4). Pub. L. 93–87, §137(b), added par. (4).
 
-Subsec. (g). Pub. L. 93–87, §110(a), substituted first sentence reading “the Secretary, on July 1, 1974, shall remove from designation as a part of the Interstate System each segment of such system for which a State has not notified the Secretary that such State intends to construct such segment, and which the Secretary finds is not essential to completion of a unified and connected Interstate System.” for “The Secretary, on July 1, 1973, shall remove from designation as a part of the Interstate System every segment of such System for which a State has not established a schedule for the expenditure of funds for completion of construction of such segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him that such schedule will be met.”; deleted former second sentence reading “Nothing in the preceding sentence shall be construed to prohibit the substitution prior to July 1, 1973, of alternative segments of the Interstate System which will meet the requirements of this title.”; substituted “Any segment of the Interstate System, with respect to which a State has not submitted by July 1, 1975, a schedule for the expenditure of funds for completion of construction of such segment or alternative segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him such schedule will be met,” for “Any segment of the Interstate System with respect to which a State has not submitted plans, specifications, and estimates for approval by the Secretary by July 1, 1975,” before “shall be removed from designation as a part of the Interstate System”; authorized the Secretary to designate as a part of the Interstate System any segment previously removed from the System when necessary in the interest of national defense or for other reasons of national interest; and made subsec. (g) inapplicable to any segment of the Interstate System referred to in section 23(a) of the Federal-Aid Highway Act of 1968.
+Subsec. (g). Pub. L. 93–87, §110(a), substituted first sentence reading “the Secretary, on July 1, 1974, shall remove from designation as a part of the Interstate System each segment of such system for which a State has not notified the Secretary that such State intends to construct such segment, and which the Secretaryfinds is not essential to completion of a unified and connected Interstate System.” for “The Secretary, on July 1, 1973, shall remove from designation as a part of the Interstate System every segment of such System for which a State has not established a schedule for the expenditure of funds for completion of construction of such segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him that such schedule will be met.”; deleted former second sentence reading “Nothing in the preceding sentence shall be construed to prohibit the substitution prior to July 1, 1973, of alternative segments of the Interstate System which will meet the requirements of this title.”; substituted “Any segment of the Interstate System, with respect to which a State has not submitted by July 1, 1975, a schedule for the expenditure of funds for completion of construction of such segment or alternative segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him such schedule will be met,” for “Any segment of the Interstate System with respect to which a State has not submitted plans, specifications, and estimates for approval by the Secretary by July 1, 1975,” before “shall be removed from designation as a part of the Interstate System”; authorized the Secretary to designate as a part of the Interstate System any segment previously removed from the System when necessary in the interest of national defense or for other reasons of national interest; and made subsec. (g) inapplicable to any segment of the Interstate System referred to in section 23(a) of the Federal-Aid Highway Act of 1968.
 
 Subsec. (h). Pub. L. 93–87, §110(b), added subsec. (h).
 
@@ -424,7 +492,7 @@ Subsec. (g). Pub. L. 86–624, §17(b), repealed subsec. (g) which provided that
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -512,7 +580,7 @@ Section 107(e) of Pub. L. 95–599, as amended by Pub. L. 97–424, title I, §1
 
 #### Interstate System Routes Withdrawn for Purpose of Designating Alternative Routes as Subject to Route Withdrawal Provisions
 
-Section 111(b) of Pub. L. 94–280 provided that: “The amendment made by subsection (a) of this section \[to fourth sentence of subsec. (e)(2) of this section\] shall be applicable to each route on the Interstate System approval of which was withdrawn or is hereafter withdrawn by the Secretary of Transportation in accordance with the provisions of section 103(e)(2) of title 23, United States Code, including any route on the Interstate System approval of which was withdrawn by the Secretary of Transportation in accordance with the provisions of title 23, United States Code, on August 30, 1965, for the purpose of designating an alternative route.”
+Section 111(b) of Pub. L. 94–280 provided that: “The amendment made by subsection (a) of this section \[to fourth sentence of subsec. (e)(2) of this section\] shall be applicable to each route on the Interstate System approval of which was withdrawn or is hereafter withdrawn by the Secretary of Transportation in accordance with the provisions of section 103(e)(2) of title 23, United States Code, including any route on the Interstate System approval of which was withdrawn by theSecretary of Transportation in accordance with the provisions of title 23, United States Code, on August 30, 1965, for the purpose of designating an alternative route.”
 
 #### Interstate System Subsection (e)(4) Provisions in Effect Prior to Amendment by Pub. L. 94–280, §110; Route Withdrawals Within Urbanized Areas; Availability of Mileage in Other States; Public Mass Transit Nonhighway Projects; General Funds Unavailable for Obligation after June 30, 1981; Supplementary Funds; Urban Mass Transportation Provisions Applicable
 
@@ -524,7 +592,7 @@ Section 148(d) of Pub. L. 93–87 provided that: “Federal-aid systems realignm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 104, 109, 115, 118, 119, 122, 124, 139, 157, 307 of this title; title 49 sections 5309, 5323, 5327, 5331, 5338.
+This section is referred to in sections 101, 104, 115, 118, 119, 124, 139, 157, 307 of this title; title 49 sections 5309, 5323, 5327, 5331, 5338.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “, and”.</i>
 

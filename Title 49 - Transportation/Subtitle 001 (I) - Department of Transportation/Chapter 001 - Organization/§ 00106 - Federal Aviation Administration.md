@@ -26,7 +26,7 @@
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), (c), and (d), 40114(a), 40119, 44501(a) and (c), 44502(a)(1), (b), and (c), 44504, 44505, 44507, 44508, 44511–44513, 44701–44716, 44718(c), 44721(a), 44901, 44902, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, and 44938(a) and (b), chapter 451,sections 45302, 45303, 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of thissection related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), (c), and (d), 40114(a), 40119, 44501(a) and (c), 44502(a)(1), (b), and (c), 44504, 44505, 44507, 44508, 44511–44513, 44701–44716, 44718(c), 44721(a), 44901, 44902, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, and 44938(a) and (b), chapter 451, sections 45302, 45303, 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -76,7 +76,7 @@ Oct. 15, 1966, Pub. L. 89–670, §3(e) (related to FAA), 80 Stat. 932.
 
 &nbsp;
 
-49:1652(e) (related to FAA)(1) (less 1st sentence), (3) (last sentence).
+49:1652(e) (related to FAA) (1) (less 1st sentence), (3) (last sentence).
 
 106(c)
 
@@ -146,7 +146,7 @@ In subsection (c), the text of 49:1652(e)(2) (last sentence) is omitted as execu
 
 In subsection (d)(1), the words “Nothing in this chapter or other law shall preclude” in 49:1342(b) (4th sentence) are omitted as unnecessary because of the positive statement of authority. The words “armed force” are substituted for “armed services” to conform to title 10. The words “to the position of” are omitted as surplus.
 
-In subsection (d)(2), the word “continue” is omitted as surplus. The words “pay provided by law for the Deputy Administrator” are substituted for “compensation provided for the Deputy Administrator” in 49:1342(b) because the pay provisions were repealed and replaced by 5:5315. The words “(including personal money allowance)” are omitted as being within the meaning of “allowance” in title 37. The words “as the case may be” are omitted as surplus. The words “of the military grade held” are substituted for “military . . . payable to a commissioned officer of his grade and length of service” to eliminate unnecessary words. The words “Administration” and “military” are added for clarity. The words “to defray” are omitted as surplus.
+In subsection (d)(2), the word “continue” is omitted as surplus. The words “pay provided by law for the Deputy Administrator” are substituted for “compensation provided for the Deputy Administrator” in 49:1342(b)because the pay provisions were repealed and replaced by 5:5315. The words “(including personal money allowance)” are omitted as being within the meaning of “allowance” in title 37. The words “as the case may be” are omitted as surplus. The words “of the military grade held” are substituted for “military . . . payable to a commissioned officer of his grade and length of service” to eliminate unnecessary words. The words “Administration” and “military” are added for clarity. The words “to defray” are omitted as surplus.
 
 In subsection (d)(3), the words “acceptance of, and” are omitted as unnecessary. The word “held” is substituted for “may occupy or hold” to eliminate unnecessary words. The words “right or benefit” are substituted for “emolument, perquisite, right, privilege, or benefit” to eliminate unnecessary words. The words “incident to or” before “arising” are omitted as surplus.
 
@@ -196,9 +196,35 @@ Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
 1984—Subsecs. (g)(1), (h). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
+#### Personnel Management System for Federal Aviation Administration
+
+Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, provided that:
+
+“(a) In consultation with the employees of the Federal Aviation Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5, United States Code, and other Federal personnel laws, the Administrator of the Federal Aviation Administration shall develop and implement, not later than January 1, 1996, a personnel management system for the Federal Aviation Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
+
+“(b) The provisions of title 5, United States Code, shall not apply to the new personnel management system developed and implemented pursuant to subsection (a), with the exception of—
+
+&emsp;“(1) section 2302(b), relating to whistleblower protection;
+
+&emsp;“(2) sections 3308–3320, relating to veterans’ preference;
+
+&emsp;“(3) section 7116(b)(7), relating to limitations on the right to strike;
+
+&emsp;“(4) section 7204, relating to antidiscrimination;
+
+&emsp;“(5) chapter 73, relating to suitability, security, and conduct;
+
+&emsp;“(6) chapter 81, relating to compensation for work injury; and
+
+&emsp;“(7) chapters 83–85, 87, and 89, relating to retirement, unemployment compensation, and insurance coverage.
+
+“(c) This section shall take effect on April 1, 1996.”
+
 #### Dependents of Federal Aviation Administration Personnel
 
-Provisions authorizing the expenditure of certain funds appropriated for the Federal Aviation Administration for (1) except as otherwise authorized by 20 U.S.C. 236–244 \[see 20 U.S.C. 7701 et seq.\], expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents, and (2) transportation of said dependents between schools serving the area which they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis, were contained in the following appropriation acts:
+Provisions authorizing the expenditure of certain funds appropriated for the Federal Aviation Administration for (1) except as otherwise authorized by 20U.S.C. 236–244 \[see 20 U.S.C. 7701 et seq.\], expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents, and (2) transportation of said dependents between schools serving the area which they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis, were contained in the following appropriation acts:
+
+Nov. 15, 1995, Pub. L. 104–50, title III, §303, 109 Stat. 453.
 
 Sept. 30, 1994, Pub. L. 103–331, title III, §303, 108 Stat. 2488.
 

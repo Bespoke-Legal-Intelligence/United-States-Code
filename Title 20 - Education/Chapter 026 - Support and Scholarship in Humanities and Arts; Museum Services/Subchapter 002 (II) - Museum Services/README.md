@@ -1,8 +1,8 @@
 ### SUBCHAPTER II—MUSEUM SERVICES
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>So in original. The closing quotation marks probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The closing quotation marks probably should not appear.</i>
 
 
 ---

@@ -24,7 +24,7 @@ The Secretary, in consultation with the task force and the board, shall ensure t
 
 #### (d) Limitation
 
-No funds appropriated for any grant or contract pursuant to authorizations made in thissubchapter and subchapters III and V of this chapter may be used for any purpose other than that for which such funds were authorized to be appropriated.
+No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapters III and V of this chapter may be used for any purpose other than that for which such funds were authorized to be appropriated.
 
 (Pub. L. 93–247, title I, §110, formerly §11, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 115; renumbered title I, §110, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764.)
 

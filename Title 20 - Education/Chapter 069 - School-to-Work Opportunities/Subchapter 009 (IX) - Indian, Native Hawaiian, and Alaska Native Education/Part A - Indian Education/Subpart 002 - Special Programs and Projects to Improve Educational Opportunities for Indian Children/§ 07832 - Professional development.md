@@ -80,5 +80,5 @@ Each grant under this section shall be awarded for a program of not more than 5 
 
 &emsp;The Secretary shall establish, by regulation, a reporting procedure under which a grant recipient under this section shall, not later than 12 months after the date of completion of the training, and periodically thereafter, provide information concerning the compliance of such recipient with the work requirement under paragraph (1).
 
-(Pub. L. 89 10, title IX, §9122, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3784.)
+(Pub. L. 89–10, title IX, §9122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3784.)
 

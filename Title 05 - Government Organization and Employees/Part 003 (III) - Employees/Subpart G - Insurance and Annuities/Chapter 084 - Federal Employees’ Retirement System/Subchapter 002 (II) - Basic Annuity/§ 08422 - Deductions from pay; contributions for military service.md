@@ -22,7 +22,7 @@
 
 (d) Under such regulations as the Office may prescribe, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
-(e)(1)(A) Except as provided in subparagraph (B), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
+(e)(1)(A) Except as provided in subparagraph (B), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue,to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
 
 (B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph may not exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
 
@@ -58,7 +58,7 @@
 
 Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(A)(ii), is classified to section 3101(a) of Title 26, Internal Revenue Code.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII ofPub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
@@ -66,19 +66,19 @@ The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 2
 
 #### Amendments
 
-1994—Subsec. (a)(2)(A)(ii). Pub. L. 103–353, §5(e)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1994</b>—Subsec. (a)(2)(A)(ii). Pub. L. 103–353, §5(e)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (e)(1). Pub. L. 103–353, §5(d)(1), designated existing provisions as subpar. (A) and substituted “Except as provided in subparagraph (B), each employee” for “Each employee” and added subpar. (B).
 
 Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end “following the period of military service for which such deposit is due”.
 
-1993—Subsec. (f). Pub. L. 103–82 added subsec. (f).
+<b>1993</b>—Subsec. (f). Pub. L. 103–82 added subsec. (f).
 
-1988—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
+<b>1988</b>—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1993 Amendment
 

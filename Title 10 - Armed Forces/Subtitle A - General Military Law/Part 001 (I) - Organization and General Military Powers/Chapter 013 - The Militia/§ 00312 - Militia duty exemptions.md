@@ -1,4 +1,4 @@
-### §312 . Militia duty: exemptions
+### §312. Militia duty: exemptions
 
 (a) The following persons are exempt from militia duty:
 

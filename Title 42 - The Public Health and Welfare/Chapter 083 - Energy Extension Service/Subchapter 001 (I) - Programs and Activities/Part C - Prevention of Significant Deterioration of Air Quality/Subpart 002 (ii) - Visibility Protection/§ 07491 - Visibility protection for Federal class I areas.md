@@ -4,7 +4,7 @@
 
 (1) Congress hereby declares as a national goal the prevention of any future, and the remedying of any existing, impairment of visibility in mandatory class I Federal areas which impairment results from manmade air pollution.
 
-(2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas andidentify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
+(2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
 
 (3) Not later than eighteen months after August 7, 1977, the Administrator shall complete a study and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
 
@@ -50,7 +50,7 @@ In promulgating regulations under this section, the Administrator shall not requ
 
 #### (f) Nondiscretionary duty
 
-For purposes of section 7604(a)(2) of this title, the meeting of the national goal specified insubsection (a)(1) of this section by any specific date or dates shall not be considered a “nondiscretionary duty” of the Administrator.
+For purposes of section 7604(a)(2) of this title, the meeting of the national goal specified in subsection (a)(1) of this section by any specific date or dates shall not be considered a “nondiscretionary duty” of the Administrator.
 
 #### (g) Definitions
 

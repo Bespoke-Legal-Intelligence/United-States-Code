@@ -52,7 +52,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 #### (e) Applicability of adulteration and misbranding provisions to articles exempted from inspection
 
-The adulteration and misbranding provisions of this chapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection under this section, except as otherwise specified under paragraphs (a) and (d).
+The adulteration and misbranding provisions of this chapter, other than the requirement ofthe inspection legend, shall apply to articles which are exempted from inspection under this section, except as otherwise specified under paragraphs (a) and (d).
 
 #### (f) Suspension or termination of exemption
 

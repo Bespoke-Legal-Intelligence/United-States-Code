@@ -18,13 +18,15 @@ A State may utilize an accreditation or certification program administered by a 
 
 Absent compliance by the States with the provisions of this chapter within three years after August 13, 1981, the Secretary shall report to the Congress recommendations for legislative changes considered necessary to assure the States’ compliance with this chapter.
 
-#### (d) Monitoring; report to Congress
-
-The Secretary shall be responsible for continued monitoring of compliance by the States with the applicable provisions of this chapter and shall report to the Senate and the House of Representatives by January 1, 1982, and January 1 of each succeeding year the status of the States’ compliance with the purposes of this chapter.
+#### (d) Repealed. Pub. L. 104–66, title I, §1061(b), Dec. 21, 1995, 109 Stat. 719
 
 #### (e) Existing standards and guidelines
 
 Notwithstanding any other provision of this section, in the case of a State which has, prior to the effective date of standards and guidelines promulgated pursuant to this chapter, established standards for the accreditation of educational programs and certification of radiologic technologists, such State shall be deemed to be in compliance with the conditions of this section unless the Secretary determines, after notice and hearing, that such State standards do not meet the minimum standards prescribed by the Secretary or are inconsistent with the purposes of this chapter.
 
-(Pub. L. 97–35, title IX, §981, Aug. 13, 1981, 95 Stat. 600.)
+(Pub. L. 97–35, title IX, §981, Aug. 13, 1981, 95 Stat. 600; Pub. L. 104–66, title I, §1061(b), Dec. 21, 1995, 109 Stat. 719.)
+
+#### Amendments
+
+1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: “The Secretary shall be responsible for continued monitoring of compliance by the States with the applicable provisions of this chapter and shall report to the Senate and the House of Representatives by January 1, 1982, and January 1 of each succeeding year the status of the States’ compliance with the purposes of this chapter.”
 

@@ -6,7 +6,7 @@ If a corporation, in any taxable year, files with the Secretary a statement, as 
 
 #### (b) Contents of statement
 
-The statement shall be filed at such time and in such manner and form as the Secretary may by regulations prescribe. Such statement shall set forth that the corporation expects to have a net operating loss carryback, as provided in section 172(b), from the taxable year in which such statement is made, and shall set forth, in such detail and with such supporting data and explanation as such regulations shall require—
+The statement shall be filed at such time and in such manner and form as the Secretary may by regulations prescribe. Such statement shallset forth that the corporation expects to have a net operating loss carryback, as provided in section 172(b), from the taxable year in which such statement is made, and shall set forth, in such detail and with such supporting data and explanation as such regulations shall require—
 
 &emsp;(1) the estimated amount of the expected net operating loss;
 

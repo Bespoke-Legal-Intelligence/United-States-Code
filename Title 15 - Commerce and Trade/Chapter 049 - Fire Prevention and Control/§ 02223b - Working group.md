@@ -20,7 +20,7 @@ For the purpose of carrying out section 2223a of this title, the Administrator s
 
 &emsp;(3) representatives of companies engaged in the manufacture and processing of chemicals.
 
-(Pub. L. 101 446, §3, Oct. 22, 1990, 104 Stat. 1045.)
+(Pub. L. 101–446, §3, Oct. 22, 1990, 104 Stat. 1045.)
 
 #### Codification
 

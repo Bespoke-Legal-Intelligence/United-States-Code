@@ -42,7 +42,7 @@ No election may be made under this section with respect to an estate unless such
 
 #### Amendments
 
-1986—Subsec. (c)(2). Pub. L. 99–514 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the tax imposed by this chapter (reduced by credits allowable against such tax).”
+1986—Subsec. (c)(2). Pub. L. 99–514 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“the amount of the tax imposed by this chapter (reduced by credits allowable against such tax).”
 
 1984—Subsec. (c). Pub. L. 98–369, §1023(a), added subsec. (c). Former subsec. (c) redesignated (d).
 

@@ -1,4 +1,4 @@
-### §8691 . Flying officer rating: qualifications
+### §8691. Flying officer rating: qualifications
 
 Only officers of the Air Force in the following categories may be rated as flying officers:
 

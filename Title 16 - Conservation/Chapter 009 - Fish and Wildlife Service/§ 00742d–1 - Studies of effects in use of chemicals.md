@@ -1,4 +1,4 @@
-### §742d–1 . Studies of effects in use of chemicals
+### §742d–1. Studies of effects in use of chemicals
 
 The Administrator of the Environmental Protection Agency is authorized and directed to undertake comprehensive continuing studies on the effects of insecticides, herbicides, fungicides and pesticides, upon the fish and wildlife resources of the United States, for the purpose of determining the amounts, percentages, and formulations of such chemicals that are lethal to or injurious to fish and wildlife and the amounts, percentages, mixtures, or formulations that can be used safely, and thereby prevent losses of fish and wildlife from such spraying, dusting, or other treatment.
 
@@ -10,5 +10,5 @@ The Administrator of the Environmental Protection Agency is authorized and direc
 
 #### Appropriations
 
-Section 2 of Pub. L. 85–582, Aug. 1, 1958, 72 Stat. 479, as amended Pub. L. 86–279, Sept. 16, 1959, 73 Stat. 563; Pub. L. 89–232, Oct. 1, 1965, 79 Stat. 902; Pub. L. 90–394, July 11, 1968, 82 Stat. 338, provided that: “In order to carry out the provisions of this Act \[this section\], there is authorized to be appropriated $3,500,000 for the fiscal year ending June 30, 1969, and for each of the two fiscal years immediately following such year. Such sums shall remain available until expended.”
+Section 2 of Pub. L. 85–582, Aug. 1, 1958, 72 Stat. 479, as amended by Pub. L. 86–279, Sept. 16, 1959, 73 Stat. 563; Pub. L. 89–232, Oct. 1, 1965, 79 Stat. 902; Pub. L. 90–394, July 11, 1968, 82 Stat. 338, provided that: “In order to carry out the provisions of this Act \[this section\], there is authorized to be appropriated $3,500,000 for the fiscal year ending June 30, 1969, and for each of the two fiscal years immediately following such year. Such sums shall remain available until expended.”
 

@@ -134,7 +134,7 @@ Section 6008 of Pub. L. 102–240 provided that:
 
 “(a)
 
-Study.—Not later than 1 year after the date of the establishment of the Bureau of Transportation Statistics, the Secretary shall enter into an agreementwith the National Academy of Sciences to conduct a study on the adequacy of data collection procedures and capabilities of the Department of Transportation.
+Study.—Not later than 1 year after the date of the establishment of the Bureau of Transportation Statistics, the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study on the adequacy of data collection procedures and capabilities of the Department of Transportation.
 
 “(b)
 

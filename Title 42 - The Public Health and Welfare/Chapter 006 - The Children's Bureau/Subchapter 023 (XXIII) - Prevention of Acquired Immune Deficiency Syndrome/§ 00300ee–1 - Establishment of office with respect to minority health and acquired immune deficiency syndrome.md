@@ -1,6 +1,6 @@
 ### §300ee–1. Establishment of office with respect to minority health and acquired immune deficiency syndrome
 
-The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, shall establish an office for the purpose of ensuring that, in carrying out the duties of the Secretary with respect to prevention of acquired immune deficiency syndrome, the Secretary develops and implements prevention programs targeted at minority populations and provides appropriate technical assistance in the implementation of such programs.
+The Secretary of Health and Human Services, acting through the Director of the Centers forDisease Control and Prevention, shall establish an office for the purpose of ensuring that, in carrying out the duties of the Secretary with respect to prevention of acquired immune deficiency syndrome, the Secretary develops and implements prevention programs targeted at minority populations and provides appropriate technical assistance in the implementation of such programs.
 
 (Pub. L. 100–607, title II, §252, Nov. 4, 1988, 102 Stat. 3108; Pub. L. 102–531, title III, §312(e)(2), Oct. 27, 1992, 106 Stat. 3506.)
 

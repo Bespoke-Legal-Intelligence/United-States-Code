@@ -22,5 +22,5 @@ An action authorized by subsection (a) of this section may be brought by the Fed
 
 The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) of this section expires 2 years after the date of the first promulgation of rules under section 6102 of this title. The expiration of such authority shall have no effect on an action brought before the expiration date.
 
-(Pub. L. 103 297, §9, Aug. 16, 1994, 108 Stat. 1550.)
+(Pub. L. 103–297, §9, Aug. 16, 1994, 108 Stat. 1550.)
 

@@ -1,0 +1,44 @@
+### §1649. Certain limitations on liability
+
+#### (a) Limitations on liability
+
+For any consumer credit transaction subject to this subchapter that is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
+
+&emsp;(1) the creditor's treatment, for disclosure purposes, of—
+
+&emsp;&emsp;(A) taxes described in section 1605(d)(3) of this title;
+
+&emsp;&emsp;(B) fees described in section 1605(e)(2) and (5) of this title;
+
+&emsp;&emsp;(C) fees and amounts referred to in the 3rd sentence of section 1605(a) of this title; or
+
+&emsp;&emsp;(D) borrower-paid mortgage broker fees referred to in section 1605(a)(6) of this title;
+
+&emsp;(2) the form of written notice used by the creditor to inform the obligor of the rights of the obligor under section 1635 of this title if the creditor provided the obligor with a properly dated form of written notice published and adopted by the Board or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice; or
+
+&emsp;(3) any disclosure relating to the finance charge imposed with respect to the transaction if the amount or percentage actually disclosed—
+
+&emsp;&emsp;(A) may be treated as accurate for purposes of this subchapter if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $200;
+
+&emsp;&emsp;(B) may, under section 1605(f)(2) of this title, be treated as accurate for purposes of section 1635 of this title; or
+
+&emsp;&emsp;(C) is greater than the amount or percentage required to be disclosed under this subchapter.
+
+#### (b) Exceptions
+
+Subsection (a) of this section shall not apply to—
+
+&emsp;(1) any individual action or counterclaim brought under this subchapter which was filed before June 1, 1995;
+
+&emsp;(2) any class action brought under this subchapter for which a final order certifying a class was entered before January 1, 1995;
+
+&emsp;(3) the named individual plaintiffs in any class action brought under this subchapter which was filed before June 1, 1995; or
+
+&emsp;(4) any consumer credit transaction with respect to which a timely notice of rescission was sent to the creditor before June 1, 1995.
+
+(Pub. L. 90–321, title I, §139, as added Pub. L. 104–29, §4(a), Sept. 30, 1995, 109 Stat. 273.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1635 of this title.
+

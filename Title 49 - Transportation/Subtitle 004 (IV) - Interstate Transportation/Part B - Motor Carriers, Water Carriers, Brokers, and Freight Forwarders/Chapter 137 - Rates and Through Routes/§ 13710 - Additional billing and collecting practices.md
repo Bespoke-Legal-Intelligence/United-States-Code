@@ -1,0 +1,54 @@
+### §13710. Additional billing and collecting practices
+
+(a)
+
+Miscellaneous Provisions.—
+
+&emsp;(1)
+
+Information relating to basis of rate.—A motor carrier of property (other than a motor carrier providing transportation in noncontiguous domestic trade) shall provide to the shipper, on request of the shipper, a written or electronic copy of the rate, classification, rules, and practices, upon which any rate applicable to its shipment or agreed to between the shipper and carrier is based.
+
+&emsp;(2)
+
+Reasonableness of rates; collecting additional charges.—When the applicability or reasonableness of the rates and related provisions billed by a motor carrier is challenged by the person paying the freight charges, the Board shall determine whether such rates and provisions are reasonable under section 13701 or applicable based on the record before it.
+
+&emsp;(3)
+
+Billing disputes.—
+
+&emsp;&emsp;(A)
+
+Initiated by motor carriers.—In those cases where a motor carrier (other than a motor carrier providing transportation of household goods or in noncontiguous domestic trade) seeks to collect charges in addition to those billed and collected which are contested by the payor, the carrier may request that the Board determine whether any additional charges over those billed and collected must be paid. A carrier must issue any bill for charges in addition to those originally billed within 180 days of the receipt of the original bill in order to have the right to collect such charges.
+
+&emsp;&emsp;(B)
+
+Initiated by shippers.—If a shipper seeks to contest the charges originally billed or additional charges subsequently billed, the shipper may request that the Board determine whether the charges billed must be paid. A shipper must contest the original bill or subsequent bill within 180 days of receipt of the bill in order to have the right to contest such charges.
+
+&emsp;(4)
+
+Voiding of certain tariffs.—Any tariff on file with the Interstate Commerce Commission on August 26, 1994, and not required to be filed after that date is null and void beginning on that date. Any tariff on file with the Interstate Commerce Commission on the effective date of this section and not required to be filed after that date is null and void beginning on that date.
+
+(b)
+
+Resolution of Disputes Over Status of Common Carrier or Contract Carrier.—If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on the day before the effective date of this section, and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to the effective date of this section was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 876.)
+
+#### References in Text
+
+For the effective date of this section, referred to in subsecs. (a)(4) and (b), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+Subchapter II of chapter 105, as in effect on the day before the effective date of this section, referred to in subsec. (b), means subchapter II (§10521 et seq.) of chapter 105 of this title as in effect on the day before Jan. 1, 1996. That subchapter was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 10762 and 11101 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Abolition of Interstate Commerce Commission
+
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14706 of this title.
+

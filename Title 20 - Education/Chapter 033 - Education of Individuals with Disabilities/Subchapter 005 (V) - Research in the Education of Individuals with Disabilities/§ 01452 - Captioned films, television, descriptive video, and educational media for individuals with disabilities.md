@@ -26,7 +26,7 @@ The Secretary is authorized to—
 
 #### (c) National Theatre of the Deaf; other non-profit organizations
 
-The Secretary may make grants to or enter into contracts or cooperative agreements with the National Theatre of the Deaf, Inc. and other appropriate non-profit organizations for the purpose of providing cultural experiences to—
+The Secretary may make grants to or enter into contracts or cooperative agreements with the National Theatre of the Deaf, Inc. and otherappropriate non-profit organizations for the purpose of providing cultural experiences to—
 
 &emsp;(1) enrich the lives of deaf and hard of hearing children and adults,
 
@@ -40,81 +40,81 @@ The Secretary may make grants to or enter into contracts or cooperative agreemen
 
 (2) For the purpose of this subsection, the term “print-handicapped” refers to any individual who is blind or severely visually impaired, or who, by reason of a physical or perceptual disability, is unable to read printed material unassisted.
 
-(Pub. L. 91 230, title VI, §652, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93 380, title VI, §620(1), Aug. 21, 1974, 88 Stat. 585; Pub. L. 94 482, title V, §501(h), Oct. 12, 1976, 90 Stat. 2237; Pub. L. 98 199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99 457, title III, §315, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 100 630, title I, §106(c), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101 476, title VI, §602, title IX, §901(b)(151), (152), Oct. 30, 1990, 104 Stat. 1139, 1149; Pub. L. 102 119, §25(b), Oct. 7, 1991, 105 Stat. 607.)
+(Pub. L. 91–230, title VI, §652, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, §620(1), Aug. 21, 1974, 88 Stat. 585; Pub. L. 94–482, title V, §501(h), Oct. 12, 1976, 90 Stat. 2237; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title III, §315, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 100–630, title I, §106(c), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, §602, title IX, §901(b)(151), (152), Oct. 30, 1990, 104 Stat. 1139, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119 amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119 amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, requiring no change in text.
 
-Pub. L. 101 476, §602(1), inserted references to television and descriptive video, in section catchline.
+Pub. L. 101–476, §602(1), inserted references to television and descriptive video, in section catchline.
 
-Subsec. (a). Pub. L. 101 476, §901(b)(151), substituted “individuals with disabilities” for “handicapped individuals” in four places.
+Subsec. (a). Pub. L. 101–476, §901(b)(151), substituted “individuals with disabilities” for “handicapped individuals” in four places.
 
-Pub. L. 101 476, §602(2), inserted “, descriptive video,” after “films”.
+Pub. L. 101–476, §602(2), inserted “, descriptive video,” after “films”.
 
-Subsec. (b)(3). Pub. L. 101 476, §602(3)(A), substituted “captioning for deaf and hard of hearing individuals and video description for the visually impaired, of films, television programs, and video materials” for “captioning of films”.
+Subsec. (b)(3). Pub. L. 101–476, §602(3)(A), substituted “captioning for deaf and hard of hearing individuals and video description for the visually impaired, of films, television programs, and video materials” for “captioning of films”.
 
-Subsec. (b)(4). Pub. L. 101 476, §602(3)(B), substituted “captioned and video-described films, video materials,” for “captioned films” and inserted “or entities” after “agencies”.
+Subsec. (b)(4). Pub. L. 101–476, §602(3)(B), substituted “captioned and video-described films, video materials,” for “captioned films” and inserted “or entities” after “agencies”.
 
-Subsec. (b)(5). Pub. L. 101 476, §901(b)(152), substituted “individuals with disabilities” for “handicapped individuals” in two places.
+Subsec. (b)(5). Pub. L. 101–476, §901(b)(152), substituted “individuals with disabilities” for “handicapped individuals” in two places.
 
-Subsec. (b)(8). Pub. L. 101 476, §603(3)(C), inserted “and hard of hearing” after “deaf”.
+Subsec. (b)(8). Pub. L. 101–476, §603(3)(C), inserted “and hard of hearing” after “deaf”.
 
-Subsec. (c). Pub. L. 101 476, §602(4) (7), inserted “and other appropriate non-profit organizations” after “Inc.” and substituted “cultural” for “theatrical” in introductory provisions, inserted “and hard of hearing” after “deaf” in pars. (1) and (2), and inserted “and hard of hearing” after “deaf” and “, educational, and social” after “cultural” in par. (3).
+Subsec. (c). Pub. L. 101–476, §602(4)–(7), inserted “and other appropriate non-profit organizations” after “Inc.” and substituted “cultural” for “theatrical” in introductory provisions, inserted “and hard of hearing” after “deaf” in pars. (1) and (2), and inserted “and hard of hearing” after “deaf” and “, educational, and social” after “cultural” in par. (3).
 
-Subsec. (d). Pub. L. 101 476, §602(8), added subsec. (d).
+Subsec. (d). Pub. L. 101–476, §602(8), added subsec. (d).
 
-1988—Pub. L. 100 630, §106(c)(1), substituted “individuals” for “persons” in section catchline.
+1988—Pub. L. 100–630, §106(c)(1), substituted “individuals” for “persons” in section catchline.
 
-Subsec. (a). Pub. L. 100 630, §106(c)(2), (3), substituted “individuals” for “persons” in three places and “handicapped individuals” for “the handicapped” in two places.
+Subsec. (a). Pub. L. 100–630, §106(c)(2), (3), substituted “individuals” for “persons” in three places and “handicapped individuals” for “the handicapped” in two places.
 
-Subsec. (b)(2). Pub. L. 100 630, §106(c)(4), substituted “purchase” for “purchased” and “necessary for” for “necessary to”.
+Subsec. (b)(2). Pub. L. 100–630, §106(c)(4), substituted “purchase” for “purchased” and “necessary for” for “necessary to”.
 
-Subsec. (b)(4). Pub. L. 100 630, §106(c)(3), substituted “handicapped individuals” for “the handicapped”.
+Subsec. (b)(4). Pub. L. 100–630, §106(c)(3), substituted “handicapped individuals” for “the handicapped”.
 
-Subsec. (b)(5). Pub. L. 100 630, §106(c)(2), (3), (5), substituted “handicapped individuals” for “the handicapped” in two places, “individuals” for “persons” in three places, and “the Secretary” for “he”.
+Subsec. (b)(5). Pub. L. 100–630, §106(c)(2), (3), (5), substituted “handicapped individuals” for “the handicapped” in two places, “individuals” for “persons” in three places, and “the Secretary” for “he”.
 
-Subsec. (b)(6). Pub. L. 100 630, §106(c)(6), struck out “and” after “agencies;”.
+Subsec. (b)(6). Pub. L. 100–630, §106(c)(6), struck out “and” after “agencies;”.
 
-Subsec. (b)(8). Pub. L. 100 630, §106(c)(7), substituted “deaf individuals” for “the deaf”.
+Subsec. (b)(8). Pub. L. 100–630, §106(c)(7), substituted “deaf individuals” for “the deaf”.
 
-Subsec. (c)(2), (3). Pub. L. 100 630, §106(c)(8), substituted “deaf individuals” for “deaf people”.
+Subsec. (c)(2), (3). Pub. L. 100–630, §106(c)(8), substituted “deaf individuals” for “deaf people”.
 
-1986—Subsec. (a). Pub. L. 99 457, §315(a), inserted “, in accordance with regulations,” after “available” and substituted “, including for the purpose of addressing problems of illiteracy among the handicapped” for “in accordance with regulations” at end.
+1986—Subsec. (a). Pub. L. 99–457, §315(a), inserted “, in accordance with regulations,” after “available” and substituted “, including for the purpose of addressing problems of illiteracy among the handicapped” for “in accordance with regulations” at end.
 
-Subsec. (b)(4). Pub. L. 99 457, §315(b)(1), inserted “, public libraries,” after “handicapped”.
+Subsec. (b)(4). Pub. L. 99–457, §315(b)(1), inserted “, public libraries,” after “handicapped”.
 
-Subsec. (b)(8). Pub. L. 99 457, §315(b)(2), added par. (8).
+Subsec. (b)(8). Pub. L. 99–457, §315(b)(2), added par. (8).
 
-Subsec. (c). Pub. L. 99 457, §315(c), added subsec. (c).
+Subsec. (c). Pub. L. 99–457, §315(c), added subsec. (c).
 
-1983—Pub. L. 98 199 substituted “Secretary” for “Commissioner” wherever appearing.
+1983—Pub. L. 98–199 substituted “Secretary” for “Commissioner” wherever appearing.
 
-1976—Subsec. (b)(3) to (5). Pub. L. 94 482 substituted “grant or contract” for “grant and contract” wherever appearing.
+1976—Subsec. (b)(3) to (5). Pub. L. 94–482 substituted “grant or contract” for “grant and contract” wherever appearing.
 
-1974—Subsec. (b)(3) to (5). Pub. L. 93 380 inserted “, by grant and contract,” after “provide”.
+1974—Subsec. (b)(3) to (5). Pub. L. 93–380 inserted “, by grant and contract,” after “provide”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98 199 effective Dec. 2, 1983, see section 18 of Pub. L. 98 199, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 98–199 effective Dec. 2, 1983, see section 18 of Pub. L. 98–199, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94 482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94 482, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93 380 effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93 380, set out as an Effective Date note under section 1221 1 of this title.
+Amendment by Pub. L. 93–380 effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as an Effective Date note under section 1221–1 of this title.
 
 #### National Clearinghouse for Postsecondary Education Materials
 
-Pub. L. 102 325, title XV, §1521, July 23, 1992, 106 Stat. 833, provided that:
+Pub. L. 102–325, title XV, §1521, July 23, 1992, 106 Stat. 833, provided that:
 
 “(a)
 

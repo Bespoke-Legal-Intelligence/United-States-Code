@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this chapter, to the extent consistent with the number of eligible children in a State educational agency, local educational agency, or educational service agency or consortium of such agencies receiving financial assistance under a program specified in subsection (b) of this section, who are enrolled in private elementary and secondary schools in such agency or consortium, such agency or consortium shall, after timely and meaningful consultation with appropriate private school officials, provide such children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits under such program.
+&emsp;Except as otherwise provided in this chapter, to the extent consistent with the numberof eligible children in a State educational agency, local educational agency, or educational service agency or consortium of such agencies receiving financial assistance under a program specified in subsection (b) of this section, who are enrolled in private elementary and secondary schools in such agency or consortium, such agency or consortium shall, after timely and meaningful consultation with appropriate private school officials, provide such children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits under such program.
 
 #### (2) Secular, neutral, and nonideological services or benefits
 
@@ -82,7 +82,7 @@
 
 &emsp;(C) Funds used to provide services under this section shall not be commingled with non-Federal funds.
 
-(Pub. L. 89 10, title XIV, §14503, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3902.)
+(Pub. L. 89–10, title XIV, §14503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3902.)
 
 #### Section Referred to in Other Sections
 

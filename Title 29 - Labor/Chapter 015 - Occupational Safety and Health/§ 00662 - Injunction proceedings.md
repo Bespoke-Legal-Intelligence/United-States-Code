@@ -24,5 +24,9 @@ Rule 65 of the Federal Rules of Civil Procedures, referred to in subsec. (b), is
 
 #### Federal Rules of Civil Procedure
 
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action ormotion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
+Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1341.
 

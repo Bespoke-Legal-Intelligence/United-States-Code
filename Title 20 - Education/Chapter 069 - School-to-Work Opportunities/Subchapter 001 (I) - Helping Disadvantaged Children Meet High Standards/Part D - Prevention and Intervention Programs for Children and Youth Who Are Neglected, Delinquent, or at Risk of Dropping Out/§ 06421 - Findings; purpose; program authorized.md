@@ -36,5 +36,5 @@ It is the purpose of this part—
 
 In order to carry out the purpose of this part the Secretary shall make grants to State educational agencies to enable such agencies to award subgrants to State agencies and local educational agencies to establish or improve programs of education for neglected or delinquent children and youth at risk of dropping out of school before graduation.
 
-(Pub. L. 89 10, title I, §1401, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3591.)
+(Pub. L. 89–10, title I, §1401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3591.)
 

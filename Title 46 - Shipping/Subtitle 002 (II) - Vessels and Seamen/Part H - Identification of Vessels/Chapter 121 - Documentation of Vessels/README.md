@@ -49,7 +49,7 @@ Pub. L. 100–239, §3(1), Jan. 11, 1988, 101 Stat. 1778, substituted “Definit
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2101, 14301, 14304, 14501, 14504, 30101, 31322, 31325, 31329 of this title; sections 146, 292, 808a, 1903 of Appendix to this title; title 15 section 1175; title 16 sections 1802, 2432; title 19 sections 128, 131, 1441; title 40 section 484d.
+This chapter is referred to in sections 2101, 14301, 14304, 14501, 14504, 30101, 31322, 31325, 31329 of this title; sections 146, 292, 808a, 1903 of Appendix to this title; title 15 section 1175; title 16 sections 1802, 2432, 5502; title 19 sections 128, 131, 1441; title 40 section 484d.
 
 <i><sup>1</sup></i><i> So in original. Two sections “12123” have been enacted.</i>
 

@@ -80,7 +80,7 @@ Rulemaking Proceeding.—
 
 &emsp;“(1)
 
-Initiation.—In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons responding to emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary of Transportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
+Initiation.—In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons responding to emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary ofTransportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
 
 &emsp;“(2)
 
@@ -172,7 +172,7 @@ Pub. L. 101–615, §26, Nov. 16, 1990, 104 Stat. 3273, provided that:
 
 “(a)
 
-Rulemaking Proceeding.—Not later than 90 days after the date of the enactment of this Act \[Nov. 16,1990\], the Secretary of Transportation shall initiate a rulemaking proceeding on the feasibility, necessity, and safety benefits of requiring carriers involved in the hazardous materials transportation industry to establish continually monitored telephone systems equipped to provide emergency response information and assistance with respect to accidents and incidents involving hazardous materials. Additional objectives of such proceeding shall be to determine which hazardous materials, if any, should be covered by such a requirement and which segments of such industry (including persons who own and operate motor vehicles, trains, vessels, aircraft, and in-transit storage facilities) should be covered by such a requirement.
+Rulemaking Proceeding.—Not later than 90 days after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall initiate a rulemaking proceeding on the feasibility, necessity, and safety benefits of requiring carriers involved in the hazardous materials transportation industry to establish continually monitored telephone systems equipped to provide emergency response information and assistance with respect to accidents and incidents involving hazardous materials. Additional objectives of such proceeding shall be to determine which hazardous materials, if any, should be covered by such a requirement and which segments of such industry (including persons who own and operate motor vehicles, trains, vessels, aircraft, and in-transit storage facilities) should be covered by such a requirement.
 
 “(b)
 

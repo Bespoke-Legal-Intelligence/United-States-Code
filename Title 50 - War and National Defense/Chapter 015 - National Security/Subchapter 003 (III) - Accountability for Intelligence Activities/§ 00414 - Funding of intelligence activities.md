@@ -80,7 +80,7 @@ Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided tha
 
 #### Limitation of Expenditure of Funds Appropriated for Department of Defense Intelligence Programs
 
-Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided that: “During the current fiscalyear and hereafter, none of the funds appropriated for intelligence programs to the Department of Defense which are transferred to another Federal agency for execution shall be expended by the Department of Defense in any fiscal year in excess of amounts required for expenditure during such fiscal year by the Federal agency to which such funds are transferred.”
+Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided that: “During the current fiscal year and hereafter, none of the funds appropriated for intelligence programs to the Department of Defense which are transferred to another Federal agency for execution shall be expended by the Department of Defense in any fiscal year in excess of amounts required for expenditure during such fiscal year by the Federal agency to which such funds are transferred.”
 
 #### Enhanced Security Countermeasures Capabilities; Application of Section
 

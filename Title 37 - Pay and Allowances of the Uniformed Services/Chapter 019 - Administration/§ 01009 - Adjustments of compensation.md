@@ -48,7 +48,7 @@ Subsec. (b)(2). Pub. L. 96–513, §516(24)(B), struck out reference to section 
 
 Subsec. (b)(3). Pub. L. 96–513, §803(1), substituted “subsections (c) and (d) of this section” for “subsection (c)”.
 
-Subsec. (c). Pub. L. 96–342, §803(2), (3), redesignated existing provision as par. (1), inserted “of this section” after “subsection (b)(3)” in two places and after “subsection (a)”, substituted “75 percent” for “75 per centum”, redesignated subsec. (d) as par. (2), substituted “under paragraph (1) of this subsection” for “under subsection (c)” in two places, inserted “of this section” after “subsection (a)”, “subsection (c)”, and “subsection (b)(3)”, respectively, and “of this title” after “section 403(b) or (c)” in two places.
+Subsec. (c). Pub. L. 96–342, §803(2), (3), redesignated existing provision as par. (1), inserted “of this section” after “subsection (b)(3)” in two places and after “subsection (a)”, substituted “75 percent” for “75 per centum”, redesignated subsec. (d) as par. (2), substituted “under paragraph (1) of this subsection” for “under subsection (c)” in two places, inserted “of this section”after “subsection (a)”, “subsection (c)”, and “subsection (b)(3)”, respectively, and “of this title” after “section 403(b) or (c)” in two places.
 
 Subsec. (d). Pub. L. 96–342, §803(3), (4), added subsec. (d) and redesignated former subsec. (d) as (c)(2).
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date
 
-Section 9 of Pub. L. 93–419 provided that: “This Act \[enacting this section, amending sections 101, 203, 402,and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
+Section 9 of Pub. L. 93–419 provided that: “This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
 
 #### Military Pay Raise for Fiscal Year 1995
 
@@ -173,7 +173,7 @@ Pub. L. 102–190, div. A, title XI, §1111(c), Dec. 5, 1991, 105 Stat. 1491, pr
 
 #### 134\.42”
 
-\[Section 1111(c) of Pub. L. 102–190, set out above, effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of Title 10, Armed Forces.\]
+\[Section 1111(c) of Pub. L. 102–190, set out above, effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190,set out as an Effective Date of 1991 Amendment note under section 521 of Title 10, Armed Forces.\]
 
 #### Military Pay Raise for Fiscal Year 1991
 
@@ -297,7 +297,7 @@ Section 801 of Pub. L. 96–342 provided that:
 
 “(b)(1) Subject to the provisions of paragraph (2), each element of compensation specified in section 1009(a) of title 37, United States Code, shall be increased for members of the uniformed services by 11.7 percent effective with the first pay period beginning after September 30, 1980.
 
-“(2) The President may allocate the percentage increase specified under paragraph (1) in the same manner and to the same extent the President is authorized under subsections (c) and (d) of section 1009 of title 37,United States Code, as amended by section 803 of this Act, to allocate any percentage increase described in subsection (b)(3) of section 1009 of such title, except that—
+“(2) The President may allocate the percentage increase specified under paragraph (1) in the same manner and to the same extent the President is authorized under subsections (c) and (d) of section 1009 of title 37, United States Code, as amended by section 803 of this Act, to allocate any percentage increase described in subsection (b)(3) of section 1009 of such title, except that—
 
 &emsp;“(A) the provisions of subsection (d)(2)(B) of such section shall not apply to this subsection or any action of the President under this subsection; and
 
@@ -333,11 +333,11 @@ Section 7 of Pub. L. 93–419 provided that: “Until the effective date of the 
 
 Pub. L. 97–60, title I, §101, Oct. 14, 1981, 95 Stat. 989, as amended by Pub. L. 98–557, §35(a), (c), Oct. 30, 1984, 98 Stat. 2877, eff. Oct. 1, 1984; Pub. L. 100–180, div. A, title XIII, §1314(d)(3), (e)(2), Dec. 4, 1987, 101 Stat. 1176, eff. Oct. 1, 1986, set forth tables specifying the increased rates of monthly basic pay for members of the uniformed services, effective Oct. 1, 1981, and provided that the adjustment required by section 1009 of this title in certain elements of the compensation of members of the uniformed services which was to become effective on Oct. 1, 1981, should not be made, and no adjustment of the compensation of any member of a uniformed service should be made pursuant to such section for the period beginning on Oct. 1, 1981, and ending on Oct. 14, 1981.
 
-#### Adjustment of Pay Rates Effective January 1, 1995
+#### Adjustment of Pay Rates Effective January 1, 1996
 
-Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of pay rates under this section effective Jan. 1, 1995. See Schedule set out below:
+Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of pay rates under this section effective Jan. 1, 1996. See Schedule set out below:
 
-Schedule 8<br><i>Pay and Allowances of the Uniformed Services</i><br>(Effective on January 1, 1995)
+Schedule 8<br><i>Pay and Allowances of the Uniformed Services</i><br>(Effective on January 1, 1996)
 
 part i—monthly basic pay<br>Years of Service (computed under 37 U.S.C. 205)<br>Commissioned Officers
 
@@ -355,123 +355,123 @@ Over 6
 
 O–10 <sup>1</sup>
 
-$6,978.30
+$7,145.70
 
-$7,223.70
+$7,397.10
 
-$7,223.70
+$7,397.10
 
-$7,223.70
+$7,397.10
 
-$7,223.70
+$7,397.10
 
 O–9
 
-6,184.50
+6,333.00
 
-6,346.50
+6,498.90
 
-6,481.80
+6,637.50
 
-6,481.80
+6,637.50
 
-6,481.80
+6,637.50
 
 O–8
 
-5,601.60
+5,736.00
 
-5,769.60
+5,908.20
 
-5,906.40
+6,048.30
 
-5,906.40
+6,048.30
 
-5,906.40
+6,048.30
 
 O–7
 
-4,654.50
+4,766.10
 
-4,971.00
+5,090.40
 
-4,971.00
+5,090.40
 
-4,971.00
+5,090.40
 
-5,193.90
+5,318.70
 
 O–6
 
-3,449.70
+3,532.50
 
-3,790.20
+3,881.10
 
-4,038.60
+4,135.50
 
-4,038.60
+4,135.50
 
-4,038.60
+4,135.50
 
 O–5
 
-2,759.10
+2,825.40
 
-3,239.70
+3,317.40
 
-3,463.80
+3,546.90
 
-3,463.80
+3,546.90
 
-3,463.80
+3,546.90
 
 O–4
 
-2,325.60
+2,381.40
 
-2,832.00
+2,900.10
 
-3,021.00
+3,093.60
 
-3,021.00
+3,093.60
 
-3,077.10
+3,150.90
 
 O–3 <sup>2</sup>
 
-2,161.20
+2,213.10
 
-2,416.50
+2,474.40
 
-2,583.30
+2,645.40
 
-2,858.10
+2,926.80
 
-2,994.90
+3,066.90
 
 O–2 <sup>2</sup>
 
-1,884.60
+1,929.90
 
-2,058.00
+2,107.50
 
-2,472.90
+2,532.30
 
-2,556.00
+2,617.20
 
-2,608.80
+2,671.50
 
 O–1 <sup>2</sup>
 
-1,636.20
+1,675.50
 
-1,703.10
+1,743.90
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
 &nbsp;
 
@@ -487,123 +487,123 @@ Over 16
 
 O–10 <sup>1</sup>
 
-$7,501.20
+$7,681.20
 
-$7,501.20
+$7,681.20
 
-$7,916.70
+$8,106.60
 
-$7,916.70
+$8,106.60
 
-$8,482.80
+$8,686.50
 
 O–9
 
-6,646.50
+6,806.10
 
-6,646.50
+6,806.10
 
-6,923.10
+7,089.30
 
-6,923.10
+7,089.30
 
-7,501.20
+7,681.20
 
 O–8
 
-6,346.50
+6,498.90
 
-6,346.50
+6,498.90
 
-6,646.50
+6,806.10
 
-6,646.50
+6,806.10
 
-6,923.10
+7,089.30
 
 O–7
 
-5,193.90
+5,318.70
 
-5,494.80
+5,626.80
 
-5,494.80
+5,626.80
 
-5,769.60
+5,908.20
 
-6,346.50
+6,498.90
 
 O–6
 
-4,038.60
+4,135.50
 
-4,038.60
+4,135.50
 
-4,038.60
+4,135.50
 
-4,176.00
+4,276.20
 
-4,836.30
+4,952.40
 
 O–5
 
-3,463.80
+3,546.90
 
-3,568.50
+3,654.00
 
-3,760.80
+3,851.10
 
-4,012.80
+4,109.10
 
-4,313.10
+4,416.60
 
 O–4
 
-3,212.70
+3,289.80
 
-3,432.00
+3,514.50
 
-3,624.90
+3,711.90
 
-3,790.20
+3,881.10
 
-3,956.70
+4,051.80
 
 O–3 <sup>2</sup>
 
-3,102.30
+3,176.70
 
-3,270.30
+3,348.90
 
-3,432.00
+3,514.50
 
-3,516.30
+3,600.60
 
-3,516.30
+3,600.60
 
 O–2 <sup>2</sup>
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
 O–1 <sup>2</sup>
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
 &nbsp;
 
@@ -619,125 +619,125 @@ Over 26
 
 O–10 <sup>1</sup>
 
-$8,482.80
+$8,686.50
 
-\*$9,051.00
+\*$9,268.20
 
-\*$9,051.00
+\*$9,268.20
 
-\*$9,051.00
+\*$9,268.20
 
-\*$9,614.70
+\*$9,845.40
 
 O–9
 
-7,501.20
+7,681.20
 
-7,916.70
+8,106.60
 
-7,916.70
+8,106.60
 
-7,916.70
+8,106.60
 
-8,482.80
+8,686.50
 
 O–8
 
-7,223.70
+7,397.10
 
-7,501.20
+7,681.20
 
-7,686.00
+7,870.50
 
-7,686.00
+7,870.50
 
-7,686.00
+7,870.50
 
 O–7
 
-6,783.00
+6,945.90
 
-6,783.00
+6,945.90
 
-6,783.00
+6,945.90
 
-6,783.00
+6,945.90
 
-6,783.00
+6,945.90
 
 O–6
 
-5,082.90
+5,205.00
 
-5,193.90
+5,318.70
 
-5,494.80
+5,626.80
 
-5,680.80
+5,817.00
 
-5,959.50
+6,102.60
 
 O–5
 
-4,560.00
+4,669.50
 
-4,698.60
+4,811.40
 
-4,862.70
+4,979.40
 
-4,862.70
+4,979.40
 
-4,862.70
+4,979.40
 
 O–4
 
-4,065.60
+4,163.10
 
-4,065.60
+4,163.10
 
-4,065.60
+4,163.10
 
-4,065.60
+4,163.10
 
-4,065.60
+4,163.10
 
 O–3 <sup>2</sup>
 
-3,516.30
+3,600.60
 
-3,516.30
+3,600.60
 
-3,516.30
+3,600.60
 
-3,516.30
+3,600.60
 
-3,516.30
+3,600.60
 
 O–2 <sup>2</sup>
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
-2,608.80
+2,671.50
 
 O–1 <sup>2</sup>
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-2,058.00
+2,107.50
 
-<sup>1</sup> While serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard, basic pay for this grade is calculated to be $10,608.90, regardless of cumulative years of service computed under section 205 of title 37, United States Code. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level V of the Executive Schedule, which is $9,016.80 per month.
+<sup>1</sup> While serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard, basic pay for this grade is calculated to be $10,863.60, regardless of cumulative years of service computed under section 205 of title 37, United States Code. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level V of the Executive Schedule, which is $9,016.80 per month.
 
 <sup>2</sup> Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
 
@@ -747,47 +747,47 @@ Commissioned officers with over 4 years of active duty service as an enlisted me
 
 | Pay Grade | Over 4 | Over 6 | Over 8 | Over 10 |
 | :--- | :---: | :---: | :---: | ---: |
-| O–3E | $2,858.10 | $2,994.90 | $3,102.30 | $3,270.30 |
-| O–2E | 2,556.00 | 2,608.80 | 2,691.60 | 2,832.00 |
-| O–1E | 2,058.00 | 2,199.00 | 2,280.00 | 2,362.50 |
+| O–3E | $2,926.80 | $3,066.90 | $3,176.70 | $3,348.90 |
+| O–2E | 2,617.20 | 2,671.50 | 2,756.10 | 2,900.10 |
+| O–1E | 2,107.50 | 2,251.80 | 2,334.60 | 2,419.20 |
 |  |  |  |  |  |
 | &nbsp; | Over 12 | Over 14 | Over 16 | Over 18 |
 |  |  |  |  |  |
-| O–3E | $3,432.00 | $3,568.50 | $3,568.50 | $3,568.50 |
-| O–2E | 2,940.60 | 3,021.00 | 3,021.00 | 3,021.00 |
-| O–1E | 2,444.40 | 2,556.00 | 2,556.00 | 2,556.00 |
+| O–3E | $3,514.50 | $3,654.00 | $3,654.00 | $3,654.00 |
+| O–2E | 3,011.10 | 3,093.60 | 3,093.60 | 3,093.60 |
+| O–1E | 2,503.20 | 2,617.20 | 2,617.20 | 2,617.20 |
 |  |  |  |  |  |
 | &nbsp; | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |
-| O–3E | $3,568.50 | $3,568.50 | $3,568.50 | $3,568.50 |
-| O–2E | 3,021.00 | 3,021.00 | 3,021.00 | 3,021.00 |
-| O–1E | 2,556.00 | 2,556.00 | 2,556.00 | 2,556.00 |
+| O–3E | $3,654.00 | $3,654.00 | $3,654.00 | $3,654.00 |
+| O–2E | 3,093.60 | 3,093.60 | 3,093.60 | 3,093.60 |
+| O–1E | 2,617.20 | 2,617.20 | 2,617.20 | 2,617.20 |
 
 Warrant Officers
 
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | W–5 |  |  |  |  |  |
-| W–4 | $2,202.00 | $2,362.50 | $2,362.50 | $2,416.50 | $2,526.30 |
-| W–3 | 2,001.30 | 2,170.80 | 2,170.80 | 2,199.00 | 2,224.50 |
-| W–2 | 1,752.90 | 1,896.30 | 1,896.30 | 1,951.50 | 2,058.00 |
-| W–1 | 1,460.10 | 1,674.30 | 1,674.30 | 1,814.10 | 1,896.30 |
+| W–4 | $2,254.80 | $2,419.20 | $2,419.20 | $2,474.40 | $2,586.90 |
+| W–3 | 2,049.30 | 2,223.00 | 2,223.00 | 2,251.80 | 2,277.90 |
+| W–2 | 1,794.90 | 1,941.90 | 1,941.90 | 1,998.30 | 2,107.50 |
+| W–1 | 1,495.20 | 1,714.50 | 1,714.50 | 1,857.60 | 1,941.90 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
 | W–5 |  |  |  |  |  |
-| W–4 | $2,637.60 | $2,748.30 | $2,940.60 | $3,077.10 | $3,185.10 |
-| W–3 | 2,387.40 | 2,526.30 | 2,608.80 | 2,691.60 | 2,772.00 |
-| W–2 | 2,170.80 | 2,253.30 | 2,335.80 | 2,416.50 | 2,501.40 |
-| W–1 | 1,977.60 | 2,058.00 | 2,143.20 | 2,224.50 | 2,307.30 |
+| W–4 | $2,700.90 | $2,814.30 | $3,011.10 | $3,150.90 | $3,261.60 |
+| W–3 | 2,444.70 | 2,586.90 | 2,671.50 | 2,756.10 | 2,838.60 |
+| W–2 | 2,223.00 | 2,307.30 | 2,391.90 | 2,474.40 | 2,561.40 |
+| W–1 | 2,025.00 | 2,107.50 | 2,194.50 | 2,277.90 | 2,362.80 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| W–5 |  | $3,757.80 | $3,900.30 | $4,013.10 | $4,182.00 |
-| W–4 | $3,270.30 | 3,375.90 | 3,489.00 | 3,597.60 | 3,760.80 |
-| W–3 | 2,858.10 | 2,969.70 | 3,077.10 | 3,077.10 | 3,185.10 |
-| W–2 | 2,583.30 | 2,664.60 | 2,772.00 | 2,772.00 | 2,772.00 |
-| W–1 | 2,387.40 | 2,472.90 | 2,472.90 | 2,472.90 | 2,472.90 |
+| W–5 |  | $3,848.10 | $3,993.90 | $4,109.40 | $4,282.50 |
+| W–4 | $3,348.90 | 3,456.90 | 3,572.70 | 3,684.00 | 3,851.10 |
+| W–3 | 2,926.80 | 3,041.10 | 3,150.90 | 3,150.90 | 3,261.60 |
+| W–2 | 2,645.40 | 2,728.50 | 2,838.60 | 2,838.60 | 2,838.60 |
+| W–1 | 2,444.70 | 2,532.30 | 2,532.30 | 2,532.30 | 2,532.30 |
 
 Enlisted Members
 
@@ -795,42 +795,42 @@ Enlisted Members
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | E–9 <sup>1</sup> |  |  |  |  |  |
 | E–8 |  |  |  |  |  |
-| E–7 | $1,499.70 | $1,619.10 | $1,678.80 | $1,737.90 | $1,797.00 |
-| E–6 | 1,290.30 | 1,406.40 | 1,464.90 | 1,527.30 | 1,584.60 |
-| E–5 | 1,132.20 | 1,232.40 | 1,292.40 | 1,348.50 | 1,437.30 |
-| E–4 | 1,056.00 | 1,115.40 | 1,181.10 | 1,272.00 | 1,322.40 |
-| E–3 | 995\.10 | 1,049.70 | 1,091.40 | 1,134.60 | 1,134.60 |
-| E–2 | 957\.60 | 957\.60 | 957\.60 | 957\.60 | 957\.60 |
-| E–1 <sup>2</sup> | 854\.40 | 854\.40 | 854\.40 | 854\.40 | 854\.40 |
-| E–1 <sup>3</sup> | 790\.20 |  |  |  |  |
+| E–7 | $1,535.70 | $1,658.10 | $1,719.00 | $1,779.60 | $1,840.20 |
+| E–6 | 1,321.20 | 1,440.30 | 1,500.00 | 1,563.90 | 1,622.70 |
+| E–5 | 1,159.50 | 1,262.10 | 1,323.30 | 1,380.90 | 1,471.80 |
+| E–4 | 1,081.20 | 1,142.10 | 1,209.30 | 1,302.60 | 1,354.20 |
+| E–3 | 1,019.10 | 1,074.90 | 1,117.50 | 1,161.90 | 1,161.90 |
+| E–2 | 980\.70 | 980\.70 | 980\.70 | 980\.70 | 980\.70 |
+| E–1 <sup>2</sup> | 874\.80 | 874\.80 | 874\.80 | 874\.80 | 874\.80 |
+| E–1 <sup>3</sup> | 809\.10 |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> |  | $2,561.70 | $2,619.00 | $2,678.40 | $2,739.90 |
-| E–8 | $2,148.00 | 2,209.80 | 2,268.00 | 2,326.80 | 2,388.30 |
-| E–7 | 1,854.30 | 1,913.70 | 1,973.40 | 2,062.50 | 2,121.00 |
-| E–6 | 1,641.60 | 1,701.90 | 1,789.50 | 1,845,60 | 1,905.30 |
-| E–5 | 1,495.80 | 1,554.90 | 1,612.20 | 1,641.60 | 1,641.60 |
-| E–4 | 1,322.40 | 1,322.40 | 1,322.40 | 1,322.40 | 1,322.40 |
-| E–3 | 1,134.60 | 1,134.60 | 1,134.60 | 1,134.60 | 1,134.60 |
-| E–2 | 957\.60 | 957\.60 | 957\.60 | 957\.60 | 957\.60 |
-| E–1 <sup>2</sup> | 854\.40 | 854\.40 | 854\.40 | 854\.40 | 854\.40 |
+| E–9 <sup>1</sup> |  | $2,623.20 | $2,682.00 | $2,742.60 | $2,805.60 |
+| E–8 | $2,199.60 | 2,262.90 | 2,322.30 | 2,382.60 | 2,445.60 |
+| E–7 | 1,898.70 | 1,959.60 | 2,020.80 | 2,112.00 | 2,172.00 |
+| E–6 | 1,680.90 | 1,742.70 | 1,832.40 | 1,890.00 | 1,950.90 |
+| E–5 | 1,531.80 | 1,592.10 | 1,650.90 | 1,680.90 | 1,680.90 |
+| E–4 | 1,354.20 | 1,354.20 | 1,354.20 | 1,354.20 | 1,354.20 |
+| E–3 | 1,161.90 | 1,161.90 | 1,161.90 | 1,161.90 | 1,161.90 |
+| E–2 | 980\.70 | 980\.70 | 980\.70 | 980\.70 | 980\.70 |
+| E–1 <sup>2</sup> | 874\.80 | 874\.80 | 874\.80 | 874\.80 | 874\.80 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $2,801.40 | $2,855.70 | $3,005.40 | $3,122.40 | $3,297.90 |
-| E–8 | 2,442.90 | 2,502.90 | 2,649.90 | 2,768.10 | 2,945.10 |
-| E–7 | 2,179.80 | 2,208.30 | 2,356.50 | 2,473.80 | 2,649.90 |
-| E–6 | 1,934.10 | 1,934.10 | 1,934.10 | 1,934.10 | 1,934.10 |
-| E–5 | 1,641.60 | 1,641.60 | 1,641.60 | 1,641.60 | 1,641.60 |
-| E–4 | 1,322.40 | 1,322.40 | 1,322.40 | 1,322.40 | 1,322.40 |
-| E–3 | 1,134.60 | 1,134.60 | 1,134.60 | 1,134.60 | 1,134.60 |
-| E–2 | 957\.60 | 957\.60 | 957\.60 | 957\.60 | 957\.60 |
-| E–1 <sup>2</sup> | 854\.40 | 854\.40 | 854\.40 | 854\.40 | 854\.40 |
+| E–9 <sup>1</sup> | $2,868.60 | $2,924.10 | $3,077.40 | $3,197.40 | $3,377.10 |
+| E–8 | 2,501.40 | 2,562.90 | 2,713.50 | 2,834.40 | 3,015.90 |
+| E–7 | 2,232.00 | 2,261.40 | 2,413.20 | 2,533.20 | 2,713.50 |
+| E–6 | 1,980.60 | 1,980.60 | 1,980.60 | 1,980.60 | 1,980.60 |
+| E–5 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 |
+| E–4 | 1,354.20 | 1,354.20 | 1,354.20 | 1,354.20 | 1,354.20 |
+| E–3 | 1,161.90 | 1,161.90 | 1,161.90 | 1,161.90 | 1,161.90 |
+| E–2 | 980\.70 | 980\.70 | 980\.70 | 980\.70 | 980\.70 |
+| E–1 <sup>2</sup> | 874\.80 | 874\.80 | 874\.80 | 874\.80 | 874\.80 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 
-<sup>1</sup> While serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, or Sergeant Major of the Marine Corps, basic pay for this grade is $4,008.60, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
+<sup>1</sup> While serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, or Sergeant Major of the Marine Corps, basic pay for this grade is $4,104.90, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
 
 <sup>2</sup> Applies to personnel who have served 4 months or more on active duty.
 
@@ -852,231 +852,231 @@ Commissioned officers&nbsp;&nbsp;&nbsp;
 
 O–10
 
-$749.40
+$788.40
 
 $50.70
 
-$922.50
+$970.50
 
 O–9
 
-749\.40
+788\.40
 
 50\.70
 
-922\.50
+970\.50
 
 O–8
 
-749\.40
+788\.40
 
 50\.70
 
-922\.50
+970\.50
 
 O–7
 
-749\.40
+788\.40
 
 50\.70
 
-922\.50
+970\.50
 
 O–6
 
-687\.60
+723\.30
 
 39\.60
 
-830\.70
+873\.90
 
 O–5
 
-662\.10
+696\.60
 
 33\.00
 
-800\.70
+842\.40
 
 O–4
 
-613\.80
+645\.60
 
 26\.70
 
-705\.90
+742\.50
 
 O–3
 
-492\.00
+517\.50
 
 22\.20
 
-584\.10
+614\.40
 
 O–2
 
-390\.00
+410\.40
 
 17\.70
 
-498\.90
+524\.70
 
 O–1
 
-328\.50
+345\.60
 
 13\.20
 
-445\.80
+468\.90
 
 Commissioned officers with over 4 years of active duty service as an enlisted member or warrant officer
 
 O–3E
 
-$531.00
+$558.60
 
 $22.20
 
-$627.60
+$660.30
 
 O–2E
 
-451\.50
+474\.90
 
 17\.70
 
-566\.40
+595\.80
 
 O–1E
 
-388\.20
+408\.30
 
 13\.20
 
-523\.20
+550\.50
 
 Warrant officers
 
 W–5
 
-$623.40
+$655.80
 
 $25.20
 
-$681.30
+$716.70
 
 W–4
 
-553\.80
+582\.60
 
 25\.20
 
-624\.60
+657\.00
 
 W–3
 
-465\.30
+489\.60
 
 20\.70
 
-572\.40
+602\.10
 
 W–2
 
-413\.10
+434\.70
 
 15\.90
 
-526\.50
+553\.80
 
 W–1
 
-345\.90
+363\.90
 
 13\.80
 
-455\.40
+479\.10
 
 Enlisted members&nbsp;&nbsp;&nbsp;
 
 E–9
 
-$454.80
+$478.50
 
 $18.60
 
-$599.40
+$630.60
 
 E–8
 
-417\.60
+439\.20
 
 15\.30
 
-552\.60
+581\.40
 
 E–7
 
-356\.40
+375\.00
 
 12\.00
 
-513\.00
+539\.70
 
 E–6
 
-322\.80
+339\.60
 
 9\.90
 
-474\.30
+498\.90
 
 E–5
 
-297\.60
+313\.20
 
 8\.70
 
-426\.30
+448\.50
 
 E–4
 
-258\.90
+272\.40
 
 8\.10
 
-370\.80
+390\.00
 
 E–3
 
-254\.10
+267\.30
 
 7\.80
 
-345\.00
+363\.00
 
 E–2
 
-206\.40
+217\.20
 
 7\.20
 
-328\.50
+345\.60
 
 E–1
 
-183\.90
+193\.50
 
 6\.90
 
-328\.50
+345\.60
 
-<sup>1</sup> Payment of the full rate of basic allowance for quarters at these rates to members of the uniformed services without dependents is authorized by section 403 of title 37, United States Code, and Part IV of Executive Order 11157, as amended.
+<sup>1</sup> Payment of the full rate of basic allowance for quarters at these rates to members of the uniformed services without dependents is authorized by section 403 of title 37, United States Code, and Part IV of Executive Order 11157, as amended \[37 U.S.C. 301 note\].
 
 <sup>2</sup> Payment of the partial rate of basic allowance for quarters at these rates to members of the uniformed services without dependents who, under section 403(b) or (c) of title 37, United States Code, are not entitled to the full rate of basic allowance for quarters, is authorized by section 1009(c)(2) of title 37, United States Code, and Part IV of Executive Order 11157, as amended.
 
-part iii—basic allowance for subsistence rates
+part iii—basic allowance for subsistence
 
 &nbsp;
 
@@ -1086,7 +1086,7 @@ part iii—basic allowance for subsistence rates
 
 Officers (per month)
 
-$146.16
+$149.67
 
 &nbsp;
 
@@ -1110,25 +1110,25 @@ Enlisted members (per day):
 
 When on leave or authorized to mess separately
 
-$6.44
+$6.59
 
-$6.98
+$7.15
 
 When rations in-kind are not available
 
-7\.26
+7\.43
 
-7\.87
+8\.06
 
 When assigned to duty under emergency conditions where no messing facilities of the United States are available
 
-9\.63
+9\.86
 
-10\.42
+10\.67
 
 part iv—rate of monthly cadet or midshipman pay
 
-The rate of monthly cadet or midshipman pay authorized by section 203(c)(1) of title 37, United States Code, as amended by section 601(c) of Public Law 103–337, is $558.04.
+The rate of monthly cadet or midshipman pay authorized by section 203(c)(1) of title 37, United States Code, is $558.04.
 
 #### Executive Order No. 11812
 
@@ -1204,11 +1204,19 @@ Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for the adjustm
 
 #### Executive Order No. 12826
 
-Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for the adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of Title 5. Previously, §4, schedule 8, of Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, formerly set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for the adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5. Previously §4 and schedule 8 of Ex. Ord. No. 12826 were superseded by Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, formerly set out as a note under section 5332 of Title 5.
 
 #### Executive Order No. 12886
 
-Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, which provided for the adjustment of pay rates effective Jan. 1, 1994, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, which provided for the adjustment of pay rates effective Jan. 1, 1994, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 12944
+
+Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for the adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 12984
+
+Ex. Ord. No. 12984, §4, schedule 8, Dec. 28, 1995, 61 F.R. 237, 243, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

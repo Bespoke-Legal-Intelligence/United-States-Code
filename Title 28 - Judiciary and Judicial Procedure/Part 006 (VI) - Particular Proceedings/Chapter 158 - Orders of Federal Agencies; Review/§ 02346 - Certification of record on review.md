@@ -1,0 +1,26 @@
+### §2346. Certification of record on review
+
+Unless the proceeding has been terminated on a motion to dismiss the petition, the agency shall file in the office of the clerk the record on review as provided by section 2112 of this title.
+
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 623.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1036.
+
+Dec. 29, 1950, ch. 1189, §6, 64 Stat. 1130.
+
+Aug. 28, 1958, Pub. L. 85–791, §31(a), 72 Stat. 951.
+
+The words “of the court of appeals in which the proceeding is pending” are omitted as unnecessary in view of the definition of “clerk” in section 2341 of this title, and by reason of the exclusive jurisdiction of the court of appeals set forth in section 2342 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 7 sections 2149, 3804, 3805.
+

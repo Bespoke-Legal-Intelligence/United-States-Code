@@ -4,7 +4,7 @@
 
 (A) The amount, if any, which when added to the acquisition cost of the dwelling acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling.
 
-(B) The amount, if any, which will compensate such displaced person for any increased interest costs and other debt service costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the displacing agency wasencumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling.
+(B) The amount, if any, which will compensate such displaced person for any increased interest costs and other debt service costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the displacing agency was encumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling.
 
 (C) Reasonable expenses incurred by such displaced person for evidence of title, recording fees, and other closing costs incident to the purchase of the replacement dwelling, but not including prepaid expenses.
 

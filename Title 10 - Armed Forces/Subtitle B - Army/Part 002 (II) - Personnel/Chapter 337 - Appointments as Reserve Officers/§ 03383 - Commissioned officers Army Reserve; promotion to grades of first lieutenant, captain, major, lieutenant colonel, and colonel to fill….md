@@ -8,7 +8,7 @@
 
 (d) An officer recommended for promotion under this section may be immediately promoted to fill the vacancy.
 
-(e) After July 1, 1965, no promotion may be made under this section, if that promotionwould result in an excess over any grade strength authorized by section 3219 <sup>1</sup> of this title.
+(e) After July 1, 1965, no promotion may be made under this section, if that promotion would result in an excess over any grade strength authorized by section 3219 <sup>1</sup> of this title.
 
 (Added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1477; amended Pub. L. 86–559, §1(16), June 30, 1960, 74 Stat. 270; Pub. L. 88–620, §2, Oct. 3, 1964, 78 Stat. 999; Pub. L. 90–130, §1(11)(E), Nov. 8, 1967, 81 Stat. 376; Pub. L. 95–485, title VIII, §820(e)(5), Oct. 20, 1978, 92 Stat. 1627.)
 

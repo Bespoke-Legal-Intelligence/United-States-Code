@@ -26,7 +26,7 @@ It shall not be unlawful under section 2000e–2 or 2000e–3 of this title for 
 
 > of the employer and the corporation.
 
-(Pub. L. 88–352, title VII, §702, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §3, Mar. 24, 1972, 86 Stat. 103; Pub. L. 102–166, title I, §109(b)(1), Nov. 21, 1991, 105 Stat. 1077.)
+(Pub. L. 88–352, title VII, §702, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §3, Mar. 24, 1972, 86Stat. 103; Pub. L. 102–166, title I, §109(b)(1), Nov. 21, 1991, 105 Stat. 1077.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@
 
 (b) A claim may be allowed under subsection (a) only if—
 
-&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
+&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause isshown, the claim may be presented not later than two years after the war or armed conflict is terminated;
 
 &emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
 
@@ -36,7 +36,7 @@
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Aug. 23, 1958, Pub. L. 85–729, §1, 72 Stat. 813; Sept. 2, 1958,Pub. L. 85–861, §1(54), 72 Stat. 1461; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 26, 1968, Pub. L. 90–522, 82 Stat. 875; Sept. 26, 1968, Pub. L. 90–525, §§1, 3–5, 82 Stat. 877, 878; July 8, 1970, Pub. L. 91–312, §2, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §1, 88 Stat. 291; Dec. 12, 1980, Pub. L. 96–513, title V, §511(94), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §1, 98 Stat. 2918.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Aug. 23, 1958, Pub. L. 85–729, §1, 72 Stat. 813; Sept. 2, 1958, Pub. L. 85–861, §1(54), 72 Stat. 1461; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 26, 1968, Pub. L. 90–522, 82 Stat. 875; Sept. 26, 1968, Pub. L. 90–525, §§1, 3–5, 82 Stat. 877, 878; July 8, 1970, Pub. L. 91–312, §2, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §1, 88 Stat. 291; Dec. 12, 1980, Pub. L. 96–513, title V, §511(94), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §1, 98 Stat. 2918.)
 
 Historical and Revision Notes<br>1956
 
@@ -150,7 +150,7 @@ Subsec. (h). Pub. L. 90–525, §4, added subsec. (h).
 
 1958—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
 
-Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict,and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
+Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict, and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
 
 Subsec. (c). Pub. L. 85–861, §1(54)(C), substituted provisions prohibiting payment for reimbursement for medical, hospital, or burial services furnished at the expense of the United States for provisions which prohibited allowance of claims for personal injury or death for more than the cost of reasonable medical, hospital, and burial expenses actually incurred, and not otherwise furnished or paid by the United States.
 
@@ -169,6 +169,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 

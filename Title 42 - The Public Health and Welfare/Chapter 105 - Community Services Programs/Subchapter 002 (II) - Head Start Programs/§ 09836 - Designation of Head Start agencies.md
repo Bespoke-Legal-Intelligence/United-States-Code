@@ -88,7 +88,7 @@ Subsec. (c)(2). Pub. L. 103–252, §107(b)(1), (3), (4), (6), redesignated par.
 
 “(C) The Secretary shall conduct followup reviews of Head Start agencies when appropriate.”
 
-Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding provisions of par. (1) as (3), substituted “this subsection” for “this paragraph”, and struck out former par. (3) which read as follows: “Incarrying out a review of each Head Start agency under paragraph (2), the Secretary shall—
+Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding provisions of par. (1) as (3), substituted “this subsection” for “this paragraph”, and struck out former par. (3) which read as follows: “In carrying out a review of each Head Start agency under paragraph (2), the Secretary shall—
 
 &emsp;“(A) to the maximum extent practicable, carry out such review by using employees of the Department of Health and Human Services who are knowledgeable about Head Start programs;
 
@@ -124,7 +124,7 @@ Pub. L. 102–401, §2(h)(1), substituted “(c), (d), and (e)” for “(c) and
 
 Subsecs. (f), (g). Pub. L. 102–401, §2(h)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-1990—Subsec. (c). Pub. L. 101–501, §107, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), added subpar. (B) and pars. (2) to (4), and struck out former par. (2) and last sentence which read as follows:
+1990—Subsec. (c). Pub. L. 101–501, §107, designated existing provisions as par. (1), redesignated former par. (1)as subpar. (A), added subpar. (B) and pars. (2) to (4), and struck out former par. (2) and last sentence which read as follows:
 
 &emsp;“(2) except that if there is no such agency because of any change in the assistance furnished to programs for economically disadvantaged persons, then the Secretary shall give priority in the designation of Head Start agencies to any successor agency which is operated in substantially the same manner as the predecessor agency which did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
 

@@ -20,7 +20,7 @@ The Secretary shall allocate the amount available to carry out this part and not
 
 If any jurisdiction does not apply for an allotment under subsection (b) of this section for any fiscal year, the Secretary shall reallocate such amount to the remaining jurisdictions in accordance with such subsection.
 
-(Pub. L. 89 10, title II, §2202, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3621.)
+(Pub. L. 89–10, title II, §2202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621.)
 
 #### Section Referred to in Other Sections
 

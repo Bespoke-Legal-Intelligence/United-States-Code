@@ -2,7 +2,7 @@
 
 #### (a) Submission of general application; approval by State supervisory authority
 
-In the case of any State which applies, contracts, or submits a plan for participation in any applicable program in which Federal funds are made available for assistance to local educational agencies through, or under the supervision of, the State educational agency of that State, such State shall submit (subject to the provisions of part C of title V of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7261 et seq.\])<sup>1</sup> to the Secretary a general application containing the assurances set forth in subsection (b) of this section. Such application may be submitted jointly for all programs covered by the application, or it may be submitted separately for each such program or for groups of programs. Each application submitted under this section must be approved by each official, agency, board, or other entity within the State which, under State law, is primarily responsible for supervision of the activities conducted under each program covered by the application.
+In the case of any State which applies, contracts, or submits a plan for participation in any applicable program in which Federal funds are made available for assistance to local educational agencies through, or under the supervision of, the State educational agency of that State, such State shall submit (subject to the provisions of part C of title V of the Elementary and Secondary Education Act of 1965 \[20 U.S.C.7261 et seq.\]) <sup>1</sup> to the Secretary a general application containing the assurances set forth in subsection (b) of this section. Such application may be submitted jointly for all programs covered by the application, or it may be submitted separately for each such program or for groups of programs. Each application submitted under this section must be approved by each official, agency, board, or other entity within the State which, under State law, is primarily responsible for supervision of the activities conducted under each program covered by the application.
 
 #### (b) Assurances
 
@@ -46,47 +46,47 @@ An application submitted under subsection (a) of this section shall set forth as
 
 Each general application submitted under this section shall remain in effect for the duration of any program it covers. The Secretary shall not require the resubmission or amendment of that application unless required by changes in Federal or State law or by other significant changes in the circumstances affecting an assurance in that application.
 
-(Pub. L. 90 247, title IV, §441, formerly §435, as added Pub. L. 95 561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98 511, title VII, §706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100 297, title III, §3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered §441 and amended Pub. L. 103 382, title II, §§212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928.)
+(Pub. L. 90–247, title IV, §441, formerly §435, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, §706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, §3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered §441 and amended Pub. L. 103–382, title II, §§212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title V of the Act is classified generally to part C (§7261 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title V of the Act is classified generally to part C (§7261 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
 
 #### Codification
 
-A prior section 1232d was renumbered by Pub. L. 95 561, §1231(a)(1), and was transferred to section 1226a 1 of this title.
+A prior section 1232d was renumbered by Pub. L. 95–561, §1231(a)(1), and was transferred to section 1226a–1 of this title.
 
 #### Prior Provisions
 
-Another prior section 441 of Pub. L. 90 247 was classified to section 1233 of this title prior to repeal by Pub. L. 103 382.
+Another prior section 441 of Pub. L. 90–247 was classified to section 1233 of this title prior to repeal by Pub. L. 103–382.
 
 #### Amendments
 
-1994—Pub. L. 103 382, §261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
+1994—Pub. L. 103–382, §261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsec. (a). Pub. L. 103 382, §261(f)(2), struck out the comma after “submits a plan”, struck out “, in the case of programs under chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965,” after “(subject”, and directed the substitution of “part C of title V of the Elementary and Secondary Education Act of 1965” for “title V of such Act” which was executed as if the amendment by Pub. L. 100 297 had not struck out “, to the provisions of title V of such Act”, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 103–382, §261(f)(2), struck out the comma after “submits a plan”, struck out “, in the case of programs under chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965,” after “(subject”, and directed the substitution of “part C of title V of the Elementary and Secondary Education Act of 1965” for “title V of such Act” which was executed as if the amendment by Pub. L. 100–297 had not struck out “, to the provisions of title V of such Act”, to reflect the probable intent of Congress.
 
-Subsec. (b)(6). Pub. L. 103 382, §212(b)(3), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
+Subsec. (b)(6). Pub. L. 103–382, §212(b)(3), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (a). Pub. L. 100 297 substituted “chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965)” for “titles I and IV of the Elementary and Secondary Education Act of 1965, to the provisions of title V of such Act)”.
+1988—Subsec. (a). Pub. L. 100–297 substituted “chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965)” for “titles I and IV of the Elementary and Secondary Education Act of 1965, to the provisions of title V of such Act)”.
 
-1984—Subsec. (b)(8). Pub. L. 98 511 added par. (8).
+1984—Subsec. (b)(8). Pub. L. 98–511 added par. (8).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100 297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98 511 effective Oct. 19, 1984, see section 711(a) of Pub. L. 98 511, set out as a note under section 1226c of this title.
+Amendment by Pub. L. 98–511 effective Oct. 19, 1984, see section 711(a) of Pub. L. 98–511, set out as a note under section 1226c of this title.
 
 #### Effective Date
 
-Section effective with respect to appropriations for fiscal year 1980 and subsequent fiscal years, see section 1261 of Pub. L. 95 561, set out as a note under section 1232c of this title.
+Section effective with respect to appropriations for fiscal year 1980 and subsequent fiscal years, see section 1261 of Pub. L. 95–561, set out as a note under section 1232c of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1108d, 1206, 1234d, 1234g, 8853 of this title.
+This section is referred to in sections 1206, 1234d, 1234g, 8853 of this title.
 
-<i><sup>1</sup></i><i>See 1994 Amendment note below.</i>
+<i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

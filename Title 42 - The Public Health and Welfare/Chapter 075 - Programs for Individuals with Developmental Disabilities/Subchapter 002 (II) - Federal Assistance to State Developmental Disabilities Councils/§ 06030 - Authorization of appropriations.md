@@ -1,6 +1,6 @@
 ### §6030. Authorization of appropriations
 
-For allotments under section 6025 of this title, there are authorized to be appropriated $70,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+For allotments under section 6025 of this title, there are authorized to be appropriated $70,000,000 for fiscal year 1994, and such sums asmay be necessary for each of the fiscal years 1995 and 1996.
 
 (Pub. L. 88–164, title I, §130, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title II, §208, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §14, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title II, §212, Apr. 6, 1994, 108 Stat. 313.)
 

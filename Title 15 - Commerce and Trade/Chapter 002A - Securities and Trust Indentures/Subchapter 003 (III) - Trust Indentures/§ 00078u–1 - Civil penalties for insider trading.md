@@ -34,7 +34,7 @@
 
 #### (c) Authority of Commission
 
-The Commission, by such rules, regulations, and orders as it considers necessary or appropriate in the public interest or for the protection of investors, may exempt, in whole or in part, either unconditionally or upon specific terms and conditions, any person or transaction or class of persons or transactions from this section.
+The Commission, by such rules, regulations, and orders as it considers necessary or appropriate in the public interest or for the protection of investors, may exempt, in whole or in part, either unconditionally or upon specific terms and conditions, any person or transactionor class of persons or transactions from this section.
 
 #### (d) Procedures for collection
 
@@ -60,7 +60,7 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 #### (e) Authority to award bounties to informants
 
-Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatoryagency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
+Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
 
 #### (f) Definition
 

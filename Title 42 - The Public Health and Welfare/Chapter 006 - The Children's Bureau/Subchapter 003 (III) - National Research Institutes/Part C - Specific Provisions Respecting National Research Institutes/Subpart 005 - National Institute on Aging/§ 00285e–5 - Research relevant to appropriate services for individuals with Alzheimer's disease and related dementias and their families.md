@@ -12,7 +12,7 @@ The Director of the Institute shall conduct, or make grants for the conduct of, 
 
 &emsp;&emsp;(i) the epidemiology of, and the identification of risk factors for, Alzheimer's disease and related dementias; and
 
-&emsp;&emsp;(ii) the development and evaluation of reliable and valid multidimensional diagnosticand assessment procedures and instruments; and
+&emsp;&emsp;(ii) the development and evaluation of reliable and valid multidimensional diagnostic and assessment procedures and instruments; and
 
 &emsp;(B) ensure that research carried out under the plan is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and related dementias, including centers supported under section 285e–2 of this title, centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
 

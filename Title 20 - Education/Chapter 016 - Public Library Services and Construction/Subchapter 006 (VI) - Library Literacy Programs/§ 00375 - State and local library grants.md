@@ -42,15 +42,15 @@ In awarding grants under this section the Secretary shall give priority to progr
 
 &emsp;(2) coordinate with literacy organizations and community based organizations providing literacy services.
 
-(June 19, 1956, ch. 407, title VI, §601, as added Oct. 17, 1984, Pub. L. 98 480, title I, §115, 98 Stat. 2245; amended Mar. 15, 1990, Pub. L. 101 254, §21, 104 Stat. 107; July 25, 1991, Pub. L. 102 73, title V, §502, 105 Stat. 356.)
+(June 19, 1956, ch. 407, title VI, §601, as added Oct. 17, 1984, Pub. L. 98–480, title I, §115, 98 Stat. 2245; amended Mar. 15, 1990, Pub. L. 101–254, §21, 104 Stat. 107; July 25, 1991, Pub. L. 102–73, title V, §502, 105 Stat. 356.)
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102 73 added subsec. (f).
+1991—Subsec. (f). Pub. L. 102–73 added subsec. (f).
 
-1990—Subsec. (e). Pub. L. 101 254 substituted “$35,000” for “$25,000”.
+1990—Subsec. (e). Pub. L. 101–254 substituted “$35,000” for “$25,000”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 254 effective Oct. 1, 1990, see section 25 of Pub. L. 101 254, set out as a note under section 351a of this title.
+Amendment by Pub. L. 101–254 effective Oct. 1, 1990, see section 25 of Pub. L. 101–254, set out as a note under section 351a of this title.
 

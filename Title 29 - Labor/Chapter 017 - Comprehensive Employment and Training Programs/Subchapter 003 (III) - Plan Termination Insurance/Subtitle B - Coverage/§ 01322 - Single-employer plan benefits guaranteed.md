@@ -2,7 +2,7 @@
 
 #### (a) Nonforfeitable benefits
 
-Subject to the limitations contained in subsection (b) of this section, the corporation shallguarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under a single-employer plan which terminates at a time when this subchapter applies to it.
+Subject to the limitations contained in subsection (b) of this section, the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under a single-employer plan which terminates at a time when this subchapter applies to it.
 
 #### (b) Exceptions
 
@@ -48,7 +48,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(ii) the amount of the substantial owner's monthly benefits guaranteed under subsection (a) of this section (as limited under paragraph (3) of this subsection).
 
-(C) In the case of a participant in a plan, other than a plan described in subparagraph (B), who is covered by the plan as a substantial owner, the amount of the benefit guaranteed under this section shall, under regulations prescribed by the corporation, treat each benefit increase attributable to a plan amendment as if it were provided under a new plan. The benefits guaranteed under this section with respect to all such amendments shall not exceed the amount which would be determined under subparagraph (B) if subparagraph (B) applied.
+(C) In the case of a participant in a plan, other than a plan described in subparagraph (B), who is covered by the plan as a substantial owner, the amount of the benefit guaranteed under thissection shall, under regulations prescribed by the corporation, treat each benefit increase attributable to a plan amendment as if it were provided under a new plan. The benefits guaranteed under this section with respect to all such amendments shall not exceed the amount which would be determined under subparagraph (B) if subparagraph (B) applied.
 
 (6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
@@ -98,11 +98,11 @@ The corporation is authorized to guarantee the payment of such other classes of 
 
 #### (e) Nonforfeitability of preretirement survivor annuity
 
-For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
+For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitablesolely because the participant has not died as of the termination date.
 
 #### (f) Effective date of plan amendments
 
-For purposes of this section, the effective date of a plan amendment described in section1054(i)(1) of this title shall be the effective date of the plan of reorganization of the employer described in section 1054(i)(1) of this title or, if later, the effective date stated in such amendment.
+For purposes of this section, the effective date of a plan amendment described in section 1054(i)(1) of this title shall be the effective date of the plan of reorganization of the employer described in section 1054(i)(1) of this title or, if later, the effective date stated in such amendment.
 
 (Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049.)
 
@@ -170,7 +170,7 @@ Section 9312(b)(3)(B) of Pub. L. 100–203, as amended by Pub. L. 101–239, tit
 
 “(i)
 
-In general.—In the case of any plan termination to which the amendments made by this section \[amending sections 1301, 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] apply and with respect to which notices of intentto terminate were provided on or before December 17, 1990—
+In general.—In the case of any plan termination to which the amendments made by this section \[amending sections 1301, 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] apply and with respect to which notices of intent to terminate were provided on or before December 17, 1990—
 
 &emsp;“(I) subparagraph (A) of section 4022(c)(3) of ERISA \[29 U.S.C. 1322(c)(3)(A)\] (as amended by this paragraph) shall not apply, and
 

@@ -1,4 +1,4 @@
-### §1701c–1 . Omitted
+### §1701c–1. Omitted
 
 #### Codification
 

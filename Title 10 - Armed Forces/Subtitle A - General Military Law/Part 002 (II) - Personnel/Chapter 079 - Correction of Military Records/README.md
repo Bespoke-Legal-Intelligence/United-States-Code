@@ -2,10 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 1551\. | Correction of name after separation from service under an assumed name. |
-| 1552\. | Correction of military records: claims incident thereto. |
-| 1553\. | Review of discharge or dismissal. |
-| 1554\. | Review of retirement or separation without pay for physical disability. |
+| [1551\.](%C2%A7%2001551%20-%20Correction%20of%20name%20after%20separation%20from%20service%20under%20an%20assumed%20name.md) | Correction of name after separation from service under an assumed name. |
+| [1552\.](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md) | Correction of military records: claims incident thereto. |
+| [1553\.](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md) | Review of discharge or dismissal. |
+| [1554\.](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md) | Review of retirement or separation without pay for physical disability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,7 +6,7 @@ In order to be approved under section 6947 of this title, each State plan must c
 
 &emsp;(1) The plan shall identify (in accordance with section 6946(b) of this title) (A) the responsibilities of State, local, and regional authorities in the implementation of the State plan, (B) the distribution of Federal funds to the authorities responsible for development and implementation of the State plan, and (C) the means for coordinating regional planning and implementation under the State plan.
 
-&emsp;(2) The plan shall, in accordance with sections 6944(b) and 6945(a) of this title, prohibit the establishment of new open dumps within the State, and contain requirements that all solid waste (including solid waste originating in other States, but not including hazardous waste) shall be (A) utilized for resource recovery or (B) disposed of in sanitary landfills\(within the meaning of section 6944(a) of this title) or otherwise disposed of in an environmentally sound manner.
+&emsp;(2) The plan shall, in accordance with sections 6944(b) and 6945(a) of this title, prohibit the establishment of new open dumps within the State, and contain requirements that all solid waste (including solid waste originating in other States, but not including hazardous waste) shall be (A) utilized for resource recovery or (B) disposed of in sanitary landfills (within the meaning of section 6944(a) of this title) or otherwise disposed of in an environmentally sound manner.
 
 &emsp;(3) The plan shall provide for the closing or upgrading of all existing open dumps within the State pursuant to the requirements of section 6945 of this title.
 

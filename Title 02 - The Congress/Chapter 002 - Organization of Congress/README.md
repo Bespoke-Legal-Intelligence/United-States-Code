@@ -42,6 +42,82 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Change of Name and Transfer of Functions of Committees and Officers of House of Representatives
+
+Pub. L. 104–14, June 3, 1995, 109 Stat. 186, provided that:
+
+#### “SECTION 1. REFERENCES IN LAW TO COMMITTEES OF THE HOUSE OF REPRESENTATIVES.
+
+“(a)
+
+References to Committees With New Names.—Except as provided in subsection (c), any reference in any provision of law enacted before January 4, 1995, to—
+
+&emsp;“(1) the Committee on Armed Services of the House of Representatives shall be treated as referring to the Committee on National Security of the House of Representatives;
+
+&emsp;“(2) the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall be treated as referring to the Committee on Banking and Financial Services of the House of Representatives;
+
+&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities of the House of Representatives;
+
+&emsp;“(4) the Committee on Energy and Commerce of the House of Representatives shall be treated as referring to the Committee on Commerce of the House of Representatives;
+
+&emsp;“(5) the Committee on Foreign Affairs of the House of Representatives shall be treated as referring to the Committee on International Relations of the House of Representatives;
+
+&emsp;“(6) the Committee on Government Operations of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives;
+
+&emsp;“(7) the Committee on House Administration of the House of Representatives shall be treated as referring to the Committee on House Oversight of the House of Representatives;
+
+&emsp;“(8) the Committee on Natural Resources of the House of Representatives shall be treated as referring to the Committee on Resources of the House of Representatives;
+
+&emsp;“(9) the Committee on Public Works and Transportation of the House of Representatives shall be treated as referring to the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;“(10) the Committee on Science, Space, and Technology of the House of Representatives shall be treated as referring to the Committee on Science of the House of Representatives.
+
+“(b)
+
+References to Abolished Committees.—Any reference in any provision of law enacted before January 4, 1995, to—
+
+&emsp;“(1) the Committee on District of Columbia of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives;
+
+&emsp;“(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings \[probably should be “Mailing”\] Standards (the ‘Franking Commission’) shall be treated as referring to the Committee on House Oversight of the House of Representatives; and
+
+&emsp;“(3) the Committee on Merchant Marine and Fisheries of the House of Representatives shall be treated as referring to—
+
+&emsp;&emsp;“(A) the Committee on Agriculture of the House of Representatives, in the case of a provision of law relating to inspection of seafood or seafood products;
+
+&emsp;&emsp;“(B) the Committee on National Security of the House of Representatives, in the case of a provision of law relating to interoceanic canals, the Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine;
+
+&emsp;&emsp;“(C) the Committee on Resources of the House of Representatives, in the case of a provision of law relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography;
+
+&emsp;&emsp;“(D) the Committee on Science of the House of Representatives, in the case of a provision of law relating to marine research; and
+
+&emsp;&emsp;“(E) the Committee on Transportation and Infrastructure of the House of Representatives, in the case of a provision of law relating to a matter other than a matter described in any of subparagraphs (A) through (D).
+
+“(c)
+
+References to Committees With Jurisdiction Changes.—Any reference in any provision of law enacted before January 4, 1995, to—
+
+&emsp;“(1) the Committee on Energy and Commerce of the House of Representatives shall be treated as referring to—
+
+&emsp;&emsp;“(A) the Committee on Agriculture of the House of Representatives, in the case of a provision of law relating to inspection of seafood or seafood products;
+
+&emsp;&emsp;“(B) the Committee on Banking and Financial Services of the House of Representatives, in the case of a provision of law relating to bank capital markets activities generally or to depository institution securities activities generally; and
+
+&emsp;&emsp;“(C) the Committee on Transportation and Infrastructure of the House of Representatives, in the case of a provision of law relating to railroads, railway labor, or railroad retirement and unemployment (except revenue measures related thereto); and
+
+&emsp;“(2) the Committee on Government Operations of the House of Representatives shall be treated as referring to the Committee on the Budget of the House of Representatives in the case of a provision of law relating to the establishment, extension, and enforcement of special controls over the Federal budget.
+
+#### “SEC. 2. REFERENCES IN LAW TO OFFICERS OF THE HOUSE OF REPRESENTATIVES.
+
+“Any reference in any provision of law enacted before January 4, 1995, to a function, duty, or authority—
+
+&emsp;“(1) of the Clerk of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight of the House of Representatives;
+
+&emsp;“(2) of the Doorkeeper of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight of the House of Representatives;
+
+&emsp;“(3) of the Postmaster of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight of the House of Representatives; and
+
+&emsp;“(4) of the Director of Non-legislative and Financial Services of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight of the House of Representatives.”
+
 
 ---
 

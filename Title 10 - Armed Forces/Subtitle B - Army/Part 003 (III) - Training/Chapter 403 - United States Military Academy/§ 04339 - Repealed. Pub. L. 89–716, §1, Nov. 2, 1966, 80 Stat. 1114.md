@@ -1,4 +1,4 @@
-### \[§4339 . Repealed. Pub. L. 89–716, §1, Nov. 2, 1966, 80 Stat. 1114\]
+### \[§4339. Repealed. Pub. L. 89–716, §1, Nov. 2, 1966, 80 Stat. 1114\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 240, authorized public quarters and fuel and light therefor for the organist and choirmaster of the Academy and for civilian instructors in the departments of foreign languages and tactics.
 

@@ -98,6 +98,10 @@
 
 (Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1186.)
 
+#### Authority of Export-Import Bank To Conduct Demonstration Program
+
+Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: “Notwithstanding section 4701(a)(1)(A) of title 5, United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5392 of this title.

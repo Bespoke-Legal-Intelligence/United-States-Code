@@ -1,2 +1,2 @@
-### \[§136a . Renumbered §139\]
+### \[§136a. Renumbered §139\]
 

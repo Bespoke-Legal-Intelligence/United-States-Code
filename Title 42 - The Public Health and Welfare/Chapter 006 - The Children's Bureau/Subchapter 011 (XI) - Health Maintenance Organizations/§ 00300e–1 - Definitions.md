@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 &emsp;(B) a majority of the members of which are licensed to practice medicine or osteopathy; and
 
-&emsp;(C) the members of which (i) as their principal professional activity engage in the coordinated practice of their profession and as a group responsibility have substantial responsibility for the delivery of health services to members of a health maintenance organization, except that this clause does not apply before the end of the forty-eight month period beginning after the month in which the health maintenance oranization <sup>1</sup> becomes a qualified health maintenance organization as defined in section 300e–9(d) of this title, or as authorized by the Secretary in accordance with regulations that take into consideration the unusual circumstances of the group; (ii) pool their income from practice as members of the group and distribute it among themselves according to a prearranged salary or drawing account or other similar plan unrelated to the provision of specific health services; (iii) share medical and other records and substantial portions of major equipment and of professional, technical, and administrative staff; (iv) arrange for and encourage continuing education in the field of clinical medicine and related areas for the members of the group; and (v) establish an arrangement whereby a member's enrollment status is not known to the health professional who provides health services to the member.
+&emsp;(C) the members of which (i) as their principal professional activity engage in the coordinated practice of their profession and as a group responsibility have substantial responsibility for the delivery of health services to members of a health maintenance organization, except that this clause does not apply before the end of the forty-eight month period beginning after the month in which the health maintenance oranization <sup>1</sup> becomes a qualified health maintenance organization as defined in section 300e–9(d) <sup>2</sup> of this title, or as authorized by the Secretary in accordance with regulations that take into consideration the unusual circumstances of the group; (ii) pool their income from practice as members of the group and distribute it among themselves according to a prearranged salary or drawing account or other similar plan unrelated to the provision of specific health services; (iii) share medical and other records and substantial portions of major equipment and of professional, technical, and administrative staff; (iv) arrange for and encourage continuing education in the field of clinical medicine and related areas for the members of the group; and (v) establish an arrangement whereby a member's enrollment status is not known to the health professional who provides health services to the member.
 
 (5) The term “individual practice association” means a partnership, corporation, association, or other legal entity which has entered into a services arrangement (or arrangements) with persons who are licensed to practice medicine, osteopathy, dentistry, podiatry, optometry, psychology, or other health profession in a State and a majority of whom are licensed to practice medicine or osteopathy. Such an arrangement shall provide—
 
@@ -78,9 +78,13 @@ For purposes of this subchapter:
 
 (July 1, 1944, ch. 373, title XIII, §1302, as added Dec. 29, 1973, Pub. L. 93–222, §2, 87 Stat. 917; amended Oct. 8, 1976, Pub. L. 94–460, title I, §§102(b), 104, 105(b), (c), 106, 117(b)(1), (2), 90 Stat. 1946–1948, 1955; Nov. 1, 1978, Pub. L. 95–559, §11(e), 92 Stat. 2139; Aug. 13, 1981, Pub. L. 97–35, title IX, §942(f)–(j), 95 Stat. 574, 575; Jan. 4, 1983, Pub. L. 97–414, §9(c), 96 Stat. 2064; Nov. 14, 1986, Pub. L. 99–660, title VIII, §§812(a), 814, 100 Stat. 3801, 3802; Oct. 24, 1988, Pub. L. 100–517, §6(b), 102 Stat. 2579.)
 
+#### References in Text
+
+Section 300e–9(d) of this title, referred to in par. (4)(C), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
+
 #### Amendments
 
-1988—Par. (8)(C). Pub. L. 100–517, §6(b)(1), amended third sentence generally. Prior to amendment, third sentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
+1988—Par. (8)(C). Pub. L. 100–517, §6(b)(1), amended third sentence generally. Prior to amendment, thirdsentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
 
 &emsp;“(i) classify all of the members of the organization into classes based on factors which the health maintenance organization determines predict the differences in the use of health services by the individuals or families in each class and which have not been disapproved by the Secretary,
 
@@ -140,7 +144,7 @@ Section 815 of title VIII of Pub. L. 99–660 provided that:
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that amendment of pars. (1) and (2) of this section by section 104 of Pub. L. 94–460 and the amendment of pars. (4)(C) and (5)(B) of this section by sections 102 and 106 of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under sections 300e–2, 300e–3, and 300e–4 of this title for fiscal years beginning after Sept. 30, 1976, applicable with respect to health benefit plans offered under section 300e–9 of this title after Sept. 30, 1976, and effective for purposes of section 300e–11 of this title on Oct. 1, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
+Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that amendment of pars. (1) and (2) of this section by section 104 of Pub. L. 94–460 and the amendment of pars. (4)(C) and (5)(B) of this section by sections 102 and 106 of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under sections 300e–2, 300e–3, and 300e–4 of this title for fiscal years beginning after Sept. 30, 1976, applicablewith respect to health benefit plans offered under section 300e–9 of this title after Sept. 30, 1976, and effective for purposes of section 300e–11 of this title on Oct. 1, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
 
 #### Construction
 
@@ -159,4 +163,6 @@ Section 5 of Pub. L. 93–222 directed Secretary of Health, Education, and Welfa
 This section is referred to in sections 300e, 1395x, 1395mm, 1396b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “organization”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | \[5531 to 5539. Repealed.\] |  |
-| 5540\. | Expiration: rights of member. |
+| [5540\.](%C2%A7%2005540%20-%20Expiration%20rights%20of%20member.md) | Expiration: rights of member. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

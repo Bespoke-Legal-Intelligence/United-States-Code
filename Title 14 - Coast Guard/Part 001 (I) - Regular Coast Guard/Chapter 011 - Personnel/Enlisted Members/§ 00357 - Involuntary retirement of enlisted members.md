@@ -1,4 +1,4 @@
-### §357 . Involuntary retirement of enlisted members
+### §357. Involuntary retirement of enlisted members
 
 (a) Enlisted Personnel Boards shall be convened as the Commandant may prescribe to review the records of enlisted members who have twenty or more years of active military service.
 
@@ -52,7 +52,7 @@
 
 (j) When the Secretary orders a reduction in force, enlisted personnel may be involuntarily separated from the service without the Board's action.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 521; Aug. 3, 1950, ch. 536, §17, 64 Stat. 407; Sept. 6, 1963, Pub. L. 88–114, §1(1), 77 Stat. 144; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), (B), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(b)(9), 100 Stat. 700; Dec. 19, 1991, Pub. L. 102–241, §6, 105 Stat. 2210.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 521; Aug. 3, 1950, ch. 536, §17, 64 Stat. 407; Sept. 6, 1963, Pub. L. 88–114,§1(1), 77 Stat. 144; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), (B), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(b)(9), 100 Stat. 700; Dec. 19, 1991, Pub. L. 102–241, §6, 105 Stat. 2210.)
 
 #### Historical and Revision Notes
 

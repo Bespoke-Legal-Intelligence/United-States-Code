@@ -22,13 +22,9 @@ The Service is authorized and directed to encourage and support the establishmen
 
 #### (f) Use of alternative means of dispute resolution procedures; assignment of neutrals and arbitrators
 
-The Service may make its services available to Federal agencies to aid in the resolution of disputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees whoare qualified in accordance with section 573 of title 5 may be assigned to act as neutrals. The Service shall consult with the Administrative Conference of the United States and other agencies in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
+The Service may make its services available to Federal agencies to aid in the resolution ofdisputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees who are qualified in accordance with section 573 of title 5 may be assigned to act as neutrals. The Service shall consult with the Administrative Conference of the United States and other agencies in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
 
 (June 23, 1947, ch. 120, title II, §203, 61 Stat. 153; Oct. 27, 1978, Pub. L. 95–524, §6(c)(1), 92 Stat. 2020; Nov. 15, 1990, Pub. L. 101–552, §7, 104 Stat. 2746; Aug. 26, 1992, Pub. L. 102–354, §5(b)(5), 106 Stat. 946.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Termination Date of 1990 Amendment; Savings Provision note below.</i>
 
 #### References in Text
 
@@ -38,13 +34,13 @@ This chapter, referred to in subsec. (c), was in the original “this Act” mea
 
 1992—Subsec. (f). Pub. L. 102–354 substituted “section 573” for “section 583”.
 
-1990—Subsec. (f). Pub. L. 101–552 temporarily added subsec. (f). See Termination Date of 1990 Amendment; Savings Provision note below.
+1990—Subsec. (f). Pub. L. 101–552 added subsec. (f).
 
 1978—Subsec. (e). Pub. L. 95–524 added subsec. (e).
 
 #### Termination Date of 1990 Amendment; Savings Provision
 
-For termination of amendments by Pub. L. 101–552 and authority to use dispute resolution proceedings on Oct. 1, 1995, except with respect to certain pending proceedings, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
+For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
 
 #### Applicability to Collective Bargaining Agreements
 

@@ -30,5 +30,5 @@ A majority of the Executive Board shall constitute a quorum.
 
 The Executive Board may hold and use all the powers of the Board, subject to the approval of the Board.
 
-(Pub. L. 99 498, title XV, §1506, Oct. 17, 1986, 100 Stat. 1603.)
+(Pub. L. 99–498, title XV, §1506, Oct. 17, 1986, 100 Stat. 1603.)
 

@@ -8,7 +8,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, known as the National Aeronautics and Space Act of 1958. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 85–568, July 29,1958, 72 Stat. 426, as amended, known as the National Aeronautics and Space Act of 1958. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Amendments
 

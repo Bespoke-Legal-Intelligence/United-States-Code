@@ -8,7 +8,7 @@
 
 (d) As used in this section, the term “person” means the owner, master, agent, commanding officer, charterer, or consignee of any vessel or aircraft.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §272, 66 Stat. 226; Oct. 3, 1965, Pub. L. 89–236, §18, 79 Stat. 920; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(9), title VI, §603(a)(15), 104 Stat. 5058, 5083; Dec. 12, 1991, Pub. L. 102–232, title III, §307(<i>l</i>)(7), 105 Stat.1757; Oct. 25, 1994, Pub. L. 103–416, title II, §219(<i>o</i>), 108 Stat. 4317.)
+(June 27, 1952, ch. 477, title II, ch. 8, §272, 66 Stat. 226; Oct. 3, 1965, Pub. L. 89–236, §18, 79 Stat. 920;Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(9), title VI, §603(a)(15), 104 Stat. 5058, 5083; Dec. 12, 1991, Pub. L. 102–232, title III, §307(<i>l</i>)(7), 105 Stat. 1757; Oct. 25, 1994, Pub. L. 103–416, title II, §219(<i>o</i>), 108 Stat. 4317.)
 
 #### Amendments
 

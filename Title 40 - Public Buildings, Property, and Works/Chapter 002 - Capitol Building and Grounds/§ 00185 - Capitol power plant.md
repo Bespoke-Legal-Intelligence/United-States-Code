@@ -1,6 +1,6 @@
 ### §185. Capitol power plant
 
-The heating, lighting, and power plant constructed under the terms of the Act approvedApril 28, 1904, shall be known as the “Capitol power plant”; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 175 of this title.
+The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904, shall be known as the “Capitol power plant”; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 175 of this title.
 
 (Mar. 4, 1911, ch. 285, 36 Stat. 1414; Mar. 3, 1921, ch. 124, 41 Stat. 1291.)
 

@@ -18,7 +18,7 @@
 
 #### (3) Special rule
 
-&emsp;No institution of higher education may receive assistance under (a)(1)<sup>1</sup> of this subsection unless the institution enters into an agreement with a local educational agency, or consortium of such agencies, to provide sustained, high-quality professional development for the elementary and secondary school teachers in the schools of each such agency.
+&emsp;No institution of higher education may receive assistance under (a)(1) <sup>1</sup> of this subsection unless the institution enters into an agreement with a local educational agency, or consortium of such agencies, to provide sustained, high-quality professional development for the elementary and secondary school teachers in the schools of each such agency.
 
 #### (4) Joint efforts
 
@@ -38,7 +38,7 @@ A recipient of funds under this section shall use such funds for—
 
 Each institution of higher education receiving a grant under this section may also enter into a partnership with a private industry, museum, library, educational television station, or public or private nonprofit organization of demonstrated experience to carry out professional development activities assisted under this section.
 
-(Pub. L. 89 10, title II, §2211, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3632.)
+(Pub. L. 89–10, title II, §2211, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3632.)
 
 #### Section Referred to in Other Sections
 

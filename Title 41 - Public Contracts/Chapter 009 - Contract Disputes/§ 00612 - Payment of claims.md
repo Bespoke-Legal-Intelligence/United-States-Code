@@ -10,7 +10,7 @@ Any monetary award to a contractor by an agency board of contract appeals shall 
 
 #### (c) Reimbursement
 
-Payments made pursuant to subsections (a) and (b) of this section shall be reimbursed to thefund provided by section 1304 of title 31 by the agency whose appropriations were used for the contract out of available funds or by obtaining additional appropriations for such purposes.
+Payments made pursuant to subsections (a) and (b) of this section shall be reimbursed to the fund provided by section 1304 of title 31 by the agency whose appropriations were used for the contract out of available funds or by obtaining additional appropriations for such purposes.
 
 #### (d) Tennessee Valley Authority
 

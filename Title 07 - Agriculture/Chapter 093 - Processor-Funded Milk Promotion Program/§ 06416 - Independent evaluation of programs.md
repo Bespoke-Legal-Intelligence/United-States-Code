@@ -1,0 +1,18 @@
+### §6416. Independent evaluation of programs
+
+#### (a) Review and evaluation
+
+The Comptroller General of the United States shall review and evaluate the order to—
+
+&emsp;(1) determine the effectiveness of the promotion program conducted under this chapter on fluid milk sales;
+
+&emsp;(2) determine if the assessments for the program have been passed back to milk producers by fluid milk processors; and
+
+&emsp;(3) make recommendations for future funding and assessment levels for the program.
+
+#### (b) Report to Congress
+
+The Comptroller General shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the valuations made under this section no later than January 1, 1995.
+
+(Pub. L. 101–624, title XIX, §1999Q, Nov. 28, 1990, 104 Stat. 3926.)
+

@@ -1,4 +1,4 @@
-### §12739 . Computation of retired pay
+### §12739. Computation of retired pay
 
 (a) The monthly retired pay of a person entitled to that pay under this chapter is the product of—
 

@@ -84,7 +84,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 Nothing in this subchapter shall be construed to prevent families from choosing an out-of-home placement for their children with disabilities, including institutional placement for such children.
 
-(Pub. L. 91 230, title VI, §702, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3937.)
+(Pub. L. 91–230, title VI, §702, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3937.)
 
 #### Section Referred to in Other Sections
 

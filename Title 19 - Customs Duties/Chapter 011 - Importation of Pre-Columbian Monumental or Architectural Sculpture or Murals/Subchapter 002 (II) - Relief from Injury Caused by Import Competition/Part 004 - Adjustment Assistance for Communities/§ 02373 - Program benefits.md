@@ -42,7 +42,7 @@ The Secretary is authorized to guarantee loans for—
 
 #### (e) Agreement of State or community to pay a portion of liability arising on loan guarantees
 
-The Governor of the State, the authorized representative of the community, or the Governor of the State and the authorized representative of the community, in which an applicant for a loan guarantee under subsection (b) of this section is located may enter into an agreement with the Secretary which provides that such State or such community, or that such State and such community, will pay not to exceed one-half of the amount of any liability which arises on a loan guarantee made under subsection (d) of this section if the State in which the applicant for such guarantee is located has established by law a program approved by the Secretary for the purposes of this section.
+The Governor of the State, the authorized representative of the community, or the Governorof the State and the authorized representative of the community, in which an applicant for a loan guarantee under subsection (b) of this section is located may enter into an agreement with the Secretary which provides that such State or such community, or that such State and such community, will pay not to exceed one-half of the amount of any liability which arises on a loan guarantee made under subsection (d) of this section if the State in which the applicant for such guarantee is located has established by law a program approved by the Secretary for the purposes of this section.
 
 #### (f) Preference to corporations with employee stock ownership plan; requisite features of plan
 
@@ -84,7 +84,7 @@ The Governor of the State, the authorized representative of the community, or th
 
 &emsp;(C) “qualified employer securities” means common stock issued by the recipient corporation or by a parent or subsidiary of such corporation with voting power and dividend rights no less favorable than the voting power and dividend rights on other common stock issued by the issuing corporation and with voting power being exercised by the participants in the employee stock ownership plan after it is allocated to their plan accounts, and
 
-&emsp;(D) “equity capital” means, with respect to the recipient corporation, the sum of its money and other property (in an amount equal to the adjusted basis of such property but disregarding adjustments made on account of depreciation or amortization made during the period described in paragraph (3)(D)), less the amount of its indebtedness.
+&emsp;(D) “equity capital” means, with respect to the recipient corporation, the sum of itsmoney and other property (in an amount equal to the adjusted basis of such property but disregarding adjustments made on account of depreciation or amortization made during the period described in paragraph (3)(D)), less the amount of its indebtedness.
 
 #### (g) Maximum United States share of loan guarantees
 

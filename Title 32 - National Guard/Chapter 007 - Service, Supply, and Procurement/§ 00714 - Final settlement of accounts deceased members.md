@@ -74,6 +74,10 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 > for “Payments under clauses (2)–(6) of subsection (a) may be paid only after settlement by the General Accounting Office.”
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
 #### Designation of Beneficiary Made Before January 1, 1956
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of this section, see note set out under section 2771 of Title 10, Armed Forces.

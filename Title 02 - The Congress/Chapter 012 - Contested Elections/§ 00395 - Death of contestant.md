@@ -1,4 +1,4 @@
-### §395 . Death of contestant
+### §395. Death of contestant
 
 In the event of the death of the contestant, the contested election case shall abate.
 

@@ -42,49 +42,49 @@ The individualized family service plan shall be in writing and contain—
 
 The contents of the individualized family service plan shall be fully explained to the parents or guardian and informed written consent from such parents or guardian shall be obtained prior to the provision of early intervention services described in such plan. If such parents or guardian do not provide such consent with respect to a particular early intervention service, then the early intervention services to which such consent is obtained shall be provided.
 
-(Pub. L. 91 230, title VI, §677, as added Pub. L. 99 457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1149;amended Pub. L. 100 630, title I, §108(f), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101 476, title IX, §901(b)(174) (176), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102 119, §§14, 25(b), Oct. 7, 1991, 105 Stat. 597, 607.)
+(Pub. L. 91–230, title VI, §677, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1149; amended Pub. L. 100–630, title I, §108(f), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(174)–(176), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§14, 25(b), Oct. 7, 1991, 105 Stat. 597, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476. See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476. See 1990 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 102 119, §14(1)(B), (C), added par. (1) and struck out former par. (1) which read as follows: “a multidisciplinary assessment of unique needs and the identification of services appropriate to meet such needs, and”.
+Subsec. (a)(1). Pub. L. 102–119, §14(1)(B), (C), added par. (1) and struck out former par. (1) which read as follows: “a multidisciplinary assessment of unique needs and the identification of services appropriate to meet such needs, and”.
 
-Subsec. (a)(2), (3). Pub. L. 102 119, §14(1)(A), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 102–119, §14(1)(A), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d)(1). Pub. L. 102 119, §14(2)(A), substituted “communication development, social or emotional development, and adaptive development,” for “language and speech development, psychosocial development, and self-help skills,”.
+Subsec. (d)(1). Pub. L. 102–119, §14(2)(A), substituted “communication development, social or emotional development, and adaptive development,” for “language and speech development, psychosocial development, and self-help skills,”.
 
-Subsec. (d)(2). Pub. L. 102 119, §14(2)(B), substituted “resources, priorities, and concerns” for “strengths and needs”.
+Subsec. (d)(2). Pub. L. 102–119, §14(2)(B), substituted “resources, priorities, and concerns” for “strengths and needs”.
 
-Subsec. (d)(5), (6). Pub. L. 102 119, §14(2)(C), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (d)(5), (6). Pub. L. 102–119, §14(2)(C), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (d)(7). Pub. L. 102 119, §14(2)(C)(i), (D), redesignated par. (6) as (7) and inserted “(hereafter in this subchapter referred to as the ‘service coordinator’)” and “(or who is otherwise qualified to carry out all applicable responsibilities under this subchapter)”. Former par. (7) redesignated (8).
+Subsec. (d)(7). Pub. L. 102–119, §14(2)(C)(i), (D), redesignated par. (6) as (7) and inserted “(hereafter in thissubchapter referred to as the ‘service coordinator’)” and “(or who is otherwise qualified to carry out all applicable responsibilities under this subchapter)”. Former par. (7) redesignated (8).
 
-Subsec. (d)(8). Pub. L. 102 119, §14(2)(C)(i), redesignated par. (7) as (8).
+Subsec. (d)(8). Pub. L. 102–119, §14(2)(C)(i), redesignated par. (7) as (8).
 
-Subsec. (e). Pub. L. 102 119, §14(3), added subsec. (e).
+Subsec. (e). Pub. L. 102–119, §14(3), added subsec. (e).
 
-1990—Pub. L. 101 476, as amended by Pub. L. 102 119, §25(b), substituted “infant or toddler with a disability” for “handicapped infant or toddler” in subsecs. (a) and (d)(2) and “toddler with a disability” for “handicapped toddler” in subsec. (d)(7).
+1990—Pub. L. 101–476, as amended by Pub. L. 102–119, §25(b), substituted “infant or toddler with a disability” for “handicapped infant or toddler” in subsecs. (a) and (d)(2) and “toddler with a disability” for “handicapped toddler” in subsec. (d)(7).
 
-1988—Subsec. (a). Pub. L. 100 630, §108(f)(1), substituted “infant's” for second reference to “infant”.
+1988—Subsec. (a). Pub. L. 100–630, §108(f)(1), substituted “infant's” for second reference to “infant”.
 
-Subsec. (b). Pub. L. 100 630, §108(f)(2), substituted “6-month intervals” for “6 month-intervals” and “or toddler” for “and toddler”.
+Subsec. (b). Pub. L. 100–630, §108(f)(2), substituted “6-month intervals” for “6 month-intervals” and “or toddler” for “and toddler”.
 
-Subsec. (d)(1). Pub. L. 100 630, §108(f)(3), substituted “psychosocial” for “psycho-social”.
+Subsec. (d)(1). Pub. L. 100–630, §108(f)(3), substituted “psychosocial” for “psycho-social”.
 
-Subsec. (d)(3). Pub. L. 100 630, §108(f)(4), substituted “or toddler” for “and toddler” and “is being” for “are being”.
+Subsec. (d)(3). Pub. L. 100–630, §108(f)(4), substituted “or toddler” for “and toddler” and “is being” for “are being”.
 
-Subsec. (d)(6). Pub. L. 100 630, §108(f)(5), substituted “or toddler's” for “and toddler's”.
+Subsec. (d)(6). Pub. L. 100–630, §108(f)(5), substituted “or toddler's” for “and toddler's”.
 
-Subsec. (d)(7). Pub. L. 100 630, §108(f)(6), made technical amendment to reference to subchapter II resulting in no change in text.
+Subsec. (d)(7). Pub. L. 100–630, §108(f)(6), made technical amendment to reference to subchapter II resulting in no change in text.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 14 of Pub. L. 102 119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102 119, set out as a note under section 927 of this title.
+Amendment by section 14 of Pub. L. 102–119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102–119, set out as a note under section 927 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 

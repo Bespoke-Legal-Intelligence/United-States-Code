@@ -1,8 +1,0 @@
-### §11902a. Penalties for violations of rules relating to loading and unloading motor vehicles
-
-(a) Any person who knowingly authorizes, consents to, or permits a violation of subsection (a) or (b) of section 11109 of this title or who knowingly violates subsection (a) of such section is liable to the United States Government for a civil penalty of not more than $10,000 for each violation.
-
-(b) Any person who knowingly violates section 11109(b) of this title shall be fined not more than $10,000, imprisoned for not more than 2 years, or both.
-
-(Added Pub. L. 96–296, §15(b)(1), July 1, 1980, 94 Stat. 809.)
-

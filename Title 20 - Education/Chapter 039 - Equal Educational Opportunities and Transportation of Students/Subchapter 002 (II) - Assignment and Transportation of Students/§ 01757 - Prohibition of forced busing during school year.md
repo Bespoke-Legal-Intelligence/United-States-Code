@@ -18,11 +18,11 @@ For the purpose of this section, the term “academic school year” means, purs
 
 #### (d) Orders subject to provisions of section
 
-The provisions of this section apply to any order which was not implemented at the beginning of the 1974 1975 academic year.
+The provisions of this section apply to any order which was not implemented at the beginning of the 1974–1975 academic year.
 
-(Pub. L. 93 380, title II, §258, Aug. 21, 1974, 88 Stat. 520; Pub. L. 96 88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 93–380, title II, §258, Aug. 21, 1974, 88 Stat. 520; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 #### Transfer of Functions
 
-“Secretary”, meaning the Secretary of Education, substituted for “Commissioner” in subsec. (c) pursuant to sections 301(a)(1) and 507 of Pub. L. 96 88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary”, meaning the Secretary of Education, substituted for “Commissioner” in subsec. (c) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 

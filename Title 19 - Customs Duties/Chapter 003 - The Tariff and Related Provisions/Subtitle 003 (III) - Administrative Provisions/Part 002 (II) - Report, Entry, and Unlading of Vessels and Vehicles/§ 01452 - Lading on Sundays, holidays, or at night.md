@@ -6,7 +6,7 @@ No merchandise or baggage entered for transportation under bond or for exportati
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §452, 42 Stat. 955. That section was superseded by section 452 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §452, 42 Stat. 955. That section was superseded by section 452 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

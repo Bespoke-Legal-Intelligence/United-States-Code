@@ -12,5 +12,5 @@ Each department, agency, and independent establishment of the Federal Government
 
 Each Federal department, agency, and independent establishment of the Federal Government is authorized and directed to furnish or allow access to all relevant materials and information required by the Center to carry out its functions under this chapter.
 
-(Pub. L. 94 136, title III, §301, Nov. 28, 1975, 89 Stat. 740.)
+(Pub. L. 94–136, title III, §301, Nov. 28, 1975, 89 Stat. 740.)
 

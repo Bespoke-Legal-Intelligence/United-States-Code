@@ -42,21 +42,21 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 (2) The Secretary may alter, consolidate, or discontinue any organizational entity continued within the Department and described in paragraph (1) of this subsection or reallocate any function vested by statute in such an entity, upon the expiration of a period of ninety days after the receipt by the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives of notice given by the Secretary containing a full and complete statement of the action proposed to be taken pursuant to this subsection and the facts and circumstances relied upon in support of such proposed action.
 
-(Pub. L. 96 88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96 496, title II, §202, Dec. 4, 1980, 94 Stat. 2593.)
+(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4, 1980, 94 Stat. 2593.)
 
 #### Amendments
 
-1980—Subsec. (b)(1). Pub. L. 96 496 redesignated subpar. (N) as (M) and struck out former subpar. (M), which authorized the Secretary to reallocate the functions or to alter or discontinue the Institute of Museum Services.
+1980—Subsec. (b)(1). Pub. L. 96–496 redesignated subpar. (N) as (M) and struck out former subpar. (M), which authorized the Secretary to reallocate the functions or to alter or discontinue the Institute of Museum Services.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### National Institute of Education
 
-The National Institute of Education was established by section 1221e of this title which as amended generally by Pub. L. 99 498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99 498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+The National Institute of Education was established by section 1221e of this title which as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
 
 #### Office of Migrant Education
 
-Pub. L. 98 511, title VII, §701(b), Oct. 19, 1984, 98 Stat. 2405, provided that: “For the purposes of section 413(a) of the Department of Education Organization Act (20 U.S.C. 3473), the Office of Migrant Education shall be considered to be an organizational entity established by such Act \[20 U.S.C. 3401 et seq.\] and shall not be subject to the reorganizational authority of the Secretary of Education under that section or any other provision of law.”
+Pub. L. 98–511, title VII, §701(b), Oct. 19, 1984, 98 Stat. 2405, provided that: “For the purposes of section 413(a) of the Department of Education Organization Act (20 U.S.C. 3473), the Office of Migrant Education shall be considered to be an organizational entity established by such Act \[20 U.S.C. 3401 et seq.\] and shall not be subject to the reorganizational authority of the Secretary of Education under that section or any other provision of law.”
 

@@ -60,7 +60,7 @@ Each trade agreement submitted to the Congress under this subsection shall enter
 
 &emsp;(1) the President, not less than 90 days before the day on which he enters into such trade agreement, notifies the House of Representatives and the Senate of his intention to enter into such an agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
 
-&emsp;(2) after entering into the agreement, the President transmits a document to the House of Representatives and to the Senate containing a copy of the final legal text of such agreement together with—
+&emsp;(2) after entering into the agreement, the President transmits a document to the Houseof Representatives and to the Senate containing a copy of the final legal text of such agreement together with—
 
 &emsp;&emsp;(A) a draft of an implementing bill and a statement of any administrative action proposed to implement such agreement, and an explanation as to how the implementing bill and proposed administrative action change or affect existing law, and
 
@@ -126,7 +126,7 @@ Pub. L. 101–382, title I, §135(c), Aug. 20, 1990, 104 Stat. 652, provided tha
 
 #### United States-Canada Free-Trade Agreement Implementation Act of 1988
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712, provided that:
 
 #### “SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
@@ -158,7 +158,7 @@ Table of Contents.—\[Omitted.\]
 
 Approval of Agreement and Statement of Administrative Action.—Pursuant to sections 102 and 151 of the Trade Act of 1974 (19 U.S.C. 2112 and 2191), the Congress approves—
 
-&emsp;“(1) the United States-Canada Free-Trade Agreement (hereinafter in this Act referred to as the‘Agreement’) entered into on January 2, 1988, and submitted to the Congress on July 25, 1988;
+&emsp;“(1) the United States-Canada Free-Trade Agreement (hereinafter in this Act referred to as the ‘Agreement’) entered into on January 2, 1988, and submitted to the Congress on July 25, 1988;
 
 &emsp;“(2) the letters exchanged between the Governments of the United States and Canada—
 
@@ -588,7 +588,7 @@ Certifications of Origin.—
 
 &emsp;“(2) Any person that fails to provide a copy of a certification requested under paragraph (1) shall be liable to the United States for a civil penalty not to exceed $10,000.
 
-&emsp;“(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for thesame civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
+&emsp;“(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
 
 “(b)
 
@@ -1066,7 +1066,7 @@ Appointment of Individuals to Panels and Committees.—
 
 > &emsp;shall be made on the basis of the criteria provided in Annex 1901.2(1) and Annex 1904.13(1) of the Agreement and shall be made without regard to political affiliation.
 
-&emsp;“(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
+&emsp;“(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responsesof individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
 
 &emsp;“(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the ‘appropriate Congressional Committees’) the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels or extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
 
@@ -1120,7 +1120,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;&emsp;“(i) be selected by the Government of the United States for placement on the rosters described in Annex 1901.2(1) and Annex 1904.13(1) of the Agreement, or
 
-&emsp;&emsp;“(ii) be appointed solely or jointly by the Government of the United States to serve as a member of a binational panel or extraordinary challenge committee convened pursuant to chapter 19 of the Agreement,
+&emsp;&emsp;“(ii) be appointed solely or jointly by the Government of the United States to serve as a member ofa binational panel or extraordinary challenge committee convened pursuant to chapter 19 of the Agreement,
 
 > &emsp;during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of this subsection.
 
@@ -1202,7 +1202,7 @@ Authority of Extraordinary Challenge Committee To Obtain Information.—If an ex
 
 “(b)
 
-Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and theproduction of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 “(c)
 
@@ -1246,15 +1246,11 @@ Negotiating Authority.—
 
 &emsp;“(B) Special emphasis should be given in negotiating an agreement under paragraph (1) to obtain discipline on Canadian subsidy programs that adversely affect United States industries which directly compete with subsidized imports.
 
-&emsp;“(3) The United States members of the working group established under article 1907 of the Agreement shall—
+&emsp;“(3) The United States members of the working group established under article 1907 of the Agreement shall consult regularly with the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding—
 
-&emsp;&emsp;“(A) consult regularly with the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and advisory committees established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) regarding—
+&emsp;&emsp;“(A) the issues being considered by the working group; and
 
-&emsp;&emsp;&emsp;“(i) the issues being considered by the working group, and
-
-&emsp;&emsp;&emsp;“(ii) as appropriate, the objectives and strategy of the United States in the negotiations, and
-
-&emsp;&emsp;“(B) beginning in January 1990, submit an annual report to such Congressional Committees on the progress being made in the negotiations to obtain an agreement that meets the objectives described in paragraph (2).
+&emsp;&emsp;“(B) as appropriate, the objectives and strategy of the United States in the negotiations.
 
 &emsp;“(4) Notwithstanding any other provision of this Act or of any other law, the provisions of section 151 of the Trade Act of 1974 (19 U.S.C. 2191) shall not apply to any bill or joint resolution that implements an agreement entered into under paragraph (1), unless the President determines and notifies the Congress that such agreement—
 
@@ -1274,7 +1270,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;&emsp;“(B) the industry is likely to experience a deterioration of its competitive position before rules and disciplines relating to the use of government subsidies have been developed with respect to such country;
 
-> &emsp;may file a petition with the United States Trade Representative (hereafter referred to in this section as the ‘Trade Representative’) to be identified under this section.
+> &emsp;may file a petition with the United States Trade Representative (hereafter referred to in this section asthe ‘Trade Representative’) to be identified under this section.
 
 &emsp;“(2) Within 90 days of receipt of a petition under paragraph (1), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in paragraph (1)(A) and the deterioration described in paragraph (1)(B).
 
@@ -1352,7 +1348,7 @@ Termination or Suspension of Agreement.—
 
 &emsp;“(1)
 
-Termination of agreement.—On the date the Agreement ceases to be in force, the provisions of this Act (other than this paragraph and section 410(b)), and the amendments made by this Act, shall cease to have effect.
+Termination of agreement.—On the date the Agreement ceases to be in force, the provisions ofthis Act (other than this paragraph and section 410(b)), and the amendments made by this Act, shall cease to have effect.
 
 &emsp;“(2)
 
@@ -1360,7 +1356,7 @@ Effect of agreement suspension.—An agreement by the United States and Canada t
 
 &emsp;“(3)
 
-Suspension resulting from nafta.—On the date the United States and Canada agree to suspend the operation of the Agreement by reason of the entry into force between them of the North AmericanFree Trade Agreement, the following provisions of this Act are suspended and shall remain suspended until such time as the suspension of the Agreement may be terminated:
+Suspension resulting from nafta.—On the date the United States and Canada agree to suspend the operation of the Agreement by reason of the entry into force between them of the North American Free Trade Agreement, the following provisions of this Act are suspended and shall remain suspended until such time as the suspension of the Agreement may be terminated:
 
 &emsp;&emsp;“(A) Sections 204(a) and (b) and 205(a).
 
@@ -1460,7 +1456,7 @@ Implementing Regulations.—Regulations that are necessary or appropriate to car
 
 Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—
 
-&emsp;“(1) Except as otherwise provided in paragraph (2), the provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply with respect to the Agreement and—
+&emsp;“(1) Except as otherwise provided in paragraph (2), the provisions of section 3(c) of the Trade AgreementsAct of 1979 (19 U.S.C. 2504(c)) shall apply with respect to the Agreement and—
 
 &emsp;&emsp;“(A) no requirement of, amendment to, or recommendation under the Agreement shall be implemented under United States law, and
 
@@ -1544,7 +1540,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 “(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
 
-“(2) If any article is subject to import relief at the time an agreement is entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\], the President may reduce or terminate the application of such import relief to the importation of such article before the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of sections 203 and 204 of the Trade Act of 1974 \[19 U.S.C. 2253, 2254\].
+“(2) If any article is subject to import relief at the time an agreement is entered into with Israel undersection 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\], the President may reduce or terminate the application of such import relief to the importation of such article before the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of sections 203 and 204 of the Trade Act of 1974 \[19 U.S.C. 2253, 2254\].
 
 #### “SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 

@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 1994 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 1995 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
@@ -2176,7 +2176,15 @@ Rep.
 
 Rep.
 
-801–804a
+801–803
+
+46 App.
+
+804
+
+Rep.
+
+804a
 
 46 App.
 
@@ -2196,19 +2204,11 @@ Rep.
 
 Rep.
 
-811, 812
+811
 
 46 App.
 
-813, 813a
-
-Rep.
-
-814–817
-
-46 App.
-
-817a–817c
+812–817c
 
 Rep.
 
@@ -2216,23 +2216,19 @@ Rep.
 
 46 App.
 
-818–824
-
-46 App.
-
-825
+818–832
 
 Rep.
 
-826
+833
 
 46 App.
 
-827
+833a
 
 Rep.
 
-828–837
+834–837
 
 46 App.
 
@@ -2244,29 +2240,17 @@ Rep.
 
 46 App.
 
-840, 841
+840–841c
 
 Rep.
 
-841a
+842
 
 46 App.
 
-841b
+843–848
 
 Rep.
-
-841c–845b
-
-46 App.
-
-846
-
-Rep.
-
-847, 848
-
-46 App.
 
 861
 
@@ -2424,11 +2408,11 @@ Rep.
 
 Rep.
 
-941(b)(1st sentence)
+941(b) (1st sentence)
 
 31330(a), (c)
 
-941(b)(last sentence)
+941(b) (last sentence)
 
 31323(c)
 
@@ -2436,23 +2420,23 @@ Rep.
 
 31304
 
-951(1st par.)
+951 (1st par.)
 
 31325(a), (b)(1), (c), (d)
 
-951(2d par. less proviso)
+951 (2d par. less proviso)
 
 31301(6)(B)
 
-951(2d par. proviso)
+951 (2d par. proviso)
 
 31326(b)(2)
 
-952(1st, 2d sentences)
+952 (1st, 2d sentences)
 
 31325(e)
 
-952(last sentence)
+952 (last sentence)
 
 31308
 
@@ -3090,9 +3074,9 @@ Section 5104(a) of Pub. L. 99–509, title V, subtitle B, Oct. 21, 1986, 100 Sta
 
 Section 5104(b) of Pub. L. 99–509, title V, subtitle B, Oct. 21, 1986, 100 Stat. 1928, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 21, 1986.
 
-Section 4(a) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “The repeal of a law by this Act may notbe construed as a legislative implication that the provision was or was not in effect before its repeal.”
+Section 4(a) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
 
-Section 4(b) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 26, 1983, and except as provided by section 2 of Pub. L. 98–89, set out as notes above and notes under sections 3101, 3302, 3715, and 6301 of this title.
+Section 4(b) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, repealed specified laws relating to shipping, except forrights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 26, 1983, and except as provided by section 2 of Pub. L. 98–89, set out as notes above and notes under sections 3101, 3302, 3715, and 6301 of this title.
 
 #### Title Referred to in Other Sections
 

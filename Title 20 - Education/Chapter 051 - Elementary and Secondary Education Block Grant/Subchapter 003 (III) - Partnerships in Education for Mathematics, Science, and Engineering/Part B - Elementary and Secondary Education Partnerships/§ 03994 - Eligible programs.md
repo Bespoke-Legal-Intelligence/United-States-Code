@@ -28,7 +28,7 @@ Funds from grants received under this part may be used for the following:
 
 &emsp;&emsp;(ii) the instruction time such students receive under the program.
 
-(Pub. L. 98 377, title III, §324, as added Pub. L. 100 418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
+(Pub. L. 98–377, title III, §324, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
 #### Section Referred to in Other Sections
 

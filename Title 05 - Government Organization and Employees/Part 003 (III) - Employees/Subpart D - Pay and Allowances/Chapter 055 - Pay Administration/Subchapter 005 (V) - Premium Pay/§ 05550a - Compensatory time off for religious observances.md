@@ -14,9 +14,13 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 #### Amendments
 
-1979—Subsecs. (a), (b). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1979</b>—Subsecs. (a), (b). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1371.
 

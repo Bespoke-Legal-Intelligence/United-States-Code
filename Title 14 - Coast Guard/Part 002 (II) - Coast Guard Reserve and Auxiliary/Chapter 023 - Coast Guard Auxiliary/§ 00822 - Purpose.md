@@ -1,4 +1,4 @@
-### §822 . Purpose
+### §822. Purpose
 
 The purpose of the Auxiliary is to assist the Coast Guard:
 

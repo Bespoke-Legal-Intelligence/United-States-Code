@@ -8,7 +8,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(2) Indian people suffer an inordinately high incidence of disease, injury, and illness directly attributable to the absence or inadequacy of such systems;
 
-&emsp;(3) the long-term cost to the United States of treating and curing such disease, injury, and illness is substantially greater than theshort-term cost of providing such systems and other preventive health measures;
+&emsp;(3) the long-term cost to the United States of treating and curing such disease, injury, and illness is substantially greater than the short-term cost of providing such systems and other preventive health measures;
 
 &emsp;(4) many Indian homes and communities still lack safe water supply systems and sanitary sewage and solid waste disposal systems; and
 

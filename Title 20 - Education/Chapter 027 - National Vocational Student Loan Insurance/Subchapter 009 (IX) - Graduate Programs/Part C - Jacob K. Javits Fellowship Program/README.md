@@ -9,4 +9,4 @@ Part C—Jacob K. Javits Fellowship Program
 - [&sect; 01134i - Allocation of fellowships](%C2%A7%2001134i%20-%20Allocation%20of%20fellowships.md)
 - [&sect; 01134j - Stipends](%C2%A7%2001134j%20-%20Stipends.md)
 - [&sect; 01134k - Fellowship conditions](%C2%A7%2001134k%20-%20Fellowship%20conditions.md)
-- [&sect; 01134k 1 - Authorization of appropriations](%C2%A7%2001134k%201%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01134k&#8211;1 - Authorization of appropriations](%C2%A7%2001134k%E2%80%931%20-%20Authorization%20of%20appropriations.md)

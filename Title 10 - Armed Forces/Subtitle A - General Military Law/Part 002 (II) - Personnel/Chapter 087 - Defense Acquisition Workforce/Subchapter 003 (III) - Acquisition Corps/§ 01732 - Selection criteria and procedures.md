@@ -24,7 +24,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;(B) A requirement that the person has completed—
 
-&emsp;&emsp;&emsp;(i) at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education fromamong the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; or
+&emsp;&emsp;&emsp;(i) at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; or
 
 &emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 

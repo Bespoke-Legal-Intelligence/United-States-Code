@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 98–94 struck out “of this section” after “subsectio
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Construction Authority of Secretary of Defense Under Declaration of War or National Emergency
 

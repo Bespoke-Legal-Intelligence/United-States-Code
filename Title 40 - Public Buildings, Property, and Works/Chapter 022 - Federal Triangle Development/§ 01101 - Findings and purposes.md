@@ -24,7 +24,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(4) To establish a process for review and selection of such plans and, after completion of such review process, to authorize the Corporation to enter into an agreement with a private developer selected for the development of such property.
 
-&emsp;(5) To ensure that the design and construction of the Federal building complex on such property will insofar as practicable be in accordance with the guiding principles for Federal architecture recommended by the Committee on Federal Office Space in 1962 which require among other things that facilities to be used by Federal agencies be efficient and economical and that public buildings provide visual testimony to the dignity, enterprise, vigor, and stability of the Federal Government.
+&emsp;(5) To ensure that the design and construction of the Federal building complex on such property will insofar as practicable be in accordance with the guiding principles for Federal architecture recommended by the Committee on Federal Office Space in 1962 which require among other things that facilities tobe used by Federal agencies be efficient and economical and that public buildings provide visual testimony to the dignity, enterprise, vigor, and stability of the Federal Government.
 
 &emsp;(6) To provide for establishment, operation, and maintenance of a self-sustaining international cultural and trade center in such complex.
 
@@ -33,6 +33,18 @@ The purposes of this chapter are as follows:
 #### Short Title
 
 Section 1 of Pub. L. 100–113 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Federal Triangle Development Act’.”
+
+#### Designation of Ronald Reagan Building and International Trade Center
+
+Pub. L. 104–68, Dec. 22, 1995, 109 Stat. 766, provided that:
+
+#### “SECTION 1. DESIGNATION.
+
+“The Federal Triangle Project under construction at 14th Street and Pennsylvania Avenue, Northwest, in the District of Columbia, shall be known and designated as the ‘Ronald Reagan Building and International Trade Center’.
+
+#### “SEC. 2. REFERENCES.
+
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Ronald Reagan Building and International Trade Center’.”
 
 #### Designation of Woodrow Wilson Plaza
 

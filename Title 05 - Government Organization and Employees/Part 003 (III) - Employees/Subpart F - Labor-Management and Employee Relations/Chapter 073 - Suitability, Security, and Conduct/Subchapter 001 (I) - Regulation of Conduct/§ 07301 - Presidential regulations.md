@@ -30,11 +30,15 @@ Pub. L. 99–570, title VI, §6001, Oct. 27, 1986, 100 Stat. 3207–157, provide
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Director of the Office of Personnel Management, see Parts 1, 2, and 22 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 2251 of Title 50, Appendix, War and National Defense.
+For assignment of certain emergency preparedness functions to the Director of the Office of Personnel Management, see Parts 1, 2, and 22 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Annual Certification of Drug-Free Workplace Plan Administrators
 
-Pub. L. 103–329, title VI, §638, Sept. 30, 1994, 108 Stat. 2432, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+Pub. L. 104–52, title VI, §624, Nov. 19, 1995, 109 Stat. 502, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 103–329, title VI, §638, Sept. 30, 1994, 108 Stat. 2432.
 
 #### Designation of Director of the Bureau of the Budget as Member of Federal Labor Relations Council
 
@@ -336,7 +340,7 @@ Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Execut
 
 (1) An employee in a position that an agency head designates Special Sensitive, Critical-Sensitive, or Noncritical-Sensitive under Chapter 731 of the Federal Personnel Manual or an employee in a position that an agency head designates as sensitive in accordance with Executive Order No. 10450, as amended \[5 U.S.C. 7311 note\];
 
-(2) An employee who has been granted access to classified information or may be granted access to classified information pursuant to a determination of trustworthiness by an agency head under Section 4 of Executive Order No. 12356 \[50 U.S.C. 401 note\];
+(2) An employee who has been granted access to classified information or may be granted access to classified information pursuant to a determination of trustworthiness by an agency head under Section 4 of Executive Order No. 12356 \[50 U.S.C. 435 note\];
 
 (3) Individuals serving under Presidential appointments;
 
@@ -596,7 +600,7 @@ Sec. 4. <i>Administration</i>. (a) The head of every executive agency shall esta
 
 (c) The Director of the Office of Government Ethics shall:
 
-(1) subject to the prior approval of the White House Counsel, develop a form of the pledges to be completed by senior appointees and trade negotiators and see that the pledges and a copy of this Executive order are made available for use by agencies in fulfilling their duties under section 4(a) above;
+(1) subject to the prior approval of the White House Counsel, develop a form of the pledges to be completed by senior appointees and trade negotiators and see thatthe pledges and a copy of this Executive order are made available for use by agencies in fulfilling their duties under section 4(a) above;
 
 (2) in consultation with the Attorney General or White House Counsel, when appropriate, assist designated agency ethics officers in providing advice to current or former senior appointees and trade negotiators regarding the application of the pledges; and
 

@@ -30,7 +30,7 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 #### (d) Reports by Inspector General and Secretary of State
 
-(1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2)and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
+(1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
 
 (2) The Inspector General shall, not later than April 30 of each year, prepare and furnish to the Secretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—
 
@@ -82,7 +82,7 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

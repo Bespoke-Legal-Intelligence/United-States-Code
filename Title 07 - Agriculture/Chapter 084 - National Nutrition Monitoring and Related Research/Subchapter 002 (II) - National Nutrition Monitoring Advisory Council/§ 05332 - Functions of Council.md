@@ -1,0 +1,22 @@
+### §5332. Functions of Council
+
+The Council shall—
+
+&emsp;(1) provide scientific and technical advice on the development and implementation of all components of the coordinated program and the comprehensive plan;
+
+&emsp;(2) evaluate the scientific and technical quality of the comprehensive plan and the effectiveness of the coordinated program;
+
+&emsp;(3) recommend to the Secretaries, on an annual basis, means of enhancing the comprehensive plan and the coordinated program; and
+
+&emsp;(4) submit to the Secretaries annual reports that—
+
+&emsp;&emsp;(A) shall contain the components specified in paragraphs (2) and (3); and
+
+&emsp;&emsp;(B) shall be included in full in the biennial reports of the Secretaries to the President for transmittal to Congress under section 5312(b) of this title.
+
+(Pub. L. 101–445, title II, §202, Oct. 22, 1990, 104 Stat. 1042.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5312 of this title.
+

@@ -22,7 +22,7 @@ The words “armed forces under his jurisdiction” are substituted for the word
 
 #### Prior Provisions
 
-A prior section 1073, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, which related to right to vote in war-timepresidential and congressional election, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1073, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to right to vote in war-time presidential and congressional election, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -75,6 +75,8 @@ Regulations.—Not later than December 31, 1994, the Secretary shall prescribe f
 Modification of Existing Contracts.—In the case of managed health care contracts in effect or in final stages of acquisition as of December 31, 1994, the Secretary may modify such contracts to incorporate the health benefit option required under subsection (a).”
 
 #### Managed Health Care Program and Contracts for Military Health Services System
+
+Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part: “That the date for implementation of the nation-wide managed care military health services system shall be extended to September 30, 1997”.
 
 Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: “Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including ‘gatekeeping’ and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs’ medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994.”
 
@@ -190,7 +192,7 @@ Treatment of Limitation on Funds for Program.—No provision of law stated as a 
 
 #### Extension of CHAMPUS Reform Initiative for Certain States
 
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any otherprovision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
 
 #### Conditions on Expansion of CHAMPUS Reform Initiative
 
@@ -276,7 +278,7 @@ CHAMPUS Defined.—In this section, the term ‘CHAMPUS’ has the meaning given
 
 #### CHAMPUS Reform Initiative
 
-Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, title VII, §732(a), (c), Dec. 4, 1987, 101 Stat. 1119, provided that:
+Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, titleVII, §732(a), (c), Dec. 4, 1987, 101 Stat. 1119, provided that:
 
 “(a)
 
@@ -338,7 +340,7 @@ Phased Implementation of CHAMPUS Reform Initiative.—(1) The Secretary of Defen
 
 &emsp;“(A) all principal features of the demonstration project, including networks of providers of health care, have been in operation for not less than one year; and
 
-&emsp;“(B) the expiration of 60 days after the date on which the report described in paragraph (1)(C) hasbeen received by the committees referred to in such paragraph.
+&emsp;“(B) the expiration of 60 days after the date on which the report described in paragraph (1)(C) has been received by the committees referred to in such paragraph.
 
 “(d)
 

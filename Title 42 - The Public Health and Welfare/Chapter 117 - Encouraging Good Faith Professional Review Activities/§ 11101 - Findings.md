@@ -20,5 +20,5 @@ The Federal antitrust laws, referred to in par. (4), are classified generally to
 
 #### Short Title
 
-Section 401 of title IV of Pub. L. 99–660 provided that: “This title \[enacting this chapter and provisions set out as a note under section 11111 of this title\] may be cited as the ‘Health Care Quality Improvement Act of 1986’.”
+Section 401 of title IV of Pub. L. 99–660 provided that: “This title \[enacting this chapter and provisions setout as a note under section 11111 of this title\] may be cited as the ‘Health Care Quality Improvement Act of 1986’.”
 

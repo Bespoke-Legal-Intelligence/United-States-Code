@@ -58,7 +58,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 #### (e) Alaska natives
 
-(1) Except as provided in paragraph (4) of this subsection the provisions of this chapter shall not apply with respect to the taking of any endangered species or threatened species, or the importation of any such species taken pursuant to this section, by—
+(1) Except as provided in paragraph (4) of this subsection the provisions of this chapter shall not apply with respect to the taking of any endangered species or threatened species, or theimportation of any such species taken pursuant to this section, by—
 
 &emsp;(A) any Indian, Aleut, or Eskimo who is an Alaskan Native who resides in Alaska; or
 
@@ -114,7 +114,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(D) any term or condition prescribed pursuant to paragraph (5)(A) or (B), or both, which the Secretary deems necessary or appropriate.
 
-(5) The Secretary shall prescribe such regulations as he deems necessary and appropriate to carry out the purposes of this subsection. Such regulations may set forth—
+(5) The Secretary shall prescribe such regulations as he deems necessary and appropriate tocarry out the purposes of this subsection. Such regulations may set forth—
 
 &emsp;(A) terms and conditions which may be imposed on applicants for exemptions under this subsection (including, but not limited to, requirements that applicants register inventories, keep complete sales records, permit duly authorized agents of the Secretary to inspect such inventories and records, and periodically file appropriate reports with the Secretary); and
 
@@ -138,7 +138,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 (C) No exemption or renewal of such exemption made under this subsection shall have force and effect after the expiration date of the certificate of renewal of such exemption issued under this paragraph.
 
-(D) No person may, after January 31, 1984, sell or offer for sale in interstate or foreign commerce, any pre-Act finished scrimshaw product unless such person holds a valid certificate of exemption issued by the Secretary under this subsection, and unless such product or the rawmaterial for such product was held by such person on October 13, 1982.
+(D) No person may, after January 31, 1984, sell or offer for sale in interstate or foreign commerce, any pre-Act finished scrimshaw product unless such person holds a valid certificate of exemption issued by the Secretary under this subsection, and unless such product or the raw material for such product was held by such person on October 13, 1982.
 
 #### (g) Burden of proof
 
@@ -200,7 +200,7 @@ Any importation into the United States of fish or wildlife shall, if—
 
 &emsp;(ii) critical habitat shall not be designated under this chapter for any experimental population determined under subparagraph (B) to be not essential to the continued existence of a species.
 
-(3) The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982, for release in geographical areas separatefrom the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
+(3) The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982, for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
 
 (Pub. L. 93–205, §10, Dec. 28, 1973, 87 Stat. 896; Pub. L. 94–359, §§2, 3, July 12, 1976, 90 Stat. 911, 912; Pub. L. 95–632, §5, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 96–159, §7, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, §6(1)–(4)(A), (5), (6), Oct. 13, 1982, 96 Stat. 1422–1424; Pub. L. 100–478, title I, §§1011, 1013(b), (c), Oct. 7, 1988, 102 Stat. 2314, 2315.)
 

@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
 
-&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
+&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for asale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
 
 &emsp;&emsp;&emsp;(i) in violation of the Arrangement; or
 
@@ -74,7 +74,7 @@ The Congress finds that—
 
 #### (2) Expenditures from Fund
 
-&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank through September 30, 1995.
+&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank through September 30, 1997.
 
 #### (d) Consistency with Arrangement
 
@@ -82,7 +82,7 @@ Any export financing involving the use of a grant under the tied aid credit prog
 
 #### (e) Authorization
 
-There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995. Such sums are authorized to remain available until expended.
+There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997. Such sums are authorized to remain available until expended.
 
 #### (f) Nonreviewability
 
@@ -156,13 +156,17 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) financing offers extended for subloans under lines of credit referred to in subparagraph (A) made on or before August 15, 1992, or, in the case of Mexico, on or before December 31, 1992.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Oct. 15, 1986, Pub. L. 99–472, §19, 100 Stat. 1205; amended Dec. 29, 1987, Pub. L. 100–217, 101 Stat. 1454; Aug. 23, 1988, Pub. L. 100–418, title III, §3302(b), 102 Stat. 1383; Dec. 19, 1989, Pub. L. 101–240, title I, §101(b), 103 Stat. 2493; Nov. 5, 1990, Pub. L. 101–513, title V, §562(d), 104 Stat. 2036; renumbered §10 and amended Oct. 21, 1992, Pub. L. 102–429, title I, §§103, 121(c)(4), 106 Stat. 2187, 2199.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Oct. 15, 1986, Pub. L. 99–472, §19, 100 Stat. 1205; amended Dec. 29, 1987, Pub. L. 100–217, 101 Stat. 1454; Aug. 23, 1988, Pub. L. 100–418, title III, §3302(b), 102 Stat. 1383; Dec. 19, 1989, Pub. L. 101–240, title I, §101(b), 103 Stat. 2493; Nov. 5, 1990, Pub. L. 101–513, title V, §562(d), 104 Stat. 2036; renumbered §10 and amended Oct. 21, 1992, Pub. L. 102–429, title I, §§103, 121(c)(4), 106 Stat. 2187, 2199; Jan. 11, 1996, Pub. L. 104–97, §1, 109 Stat. 984.)
 
 #### Prior Provisions
 
 A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–97, §1(a), substituted “1997” for “1995”.
+
+Subsec. (e). Pub. L. 104–97, §1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
 
 1992—Subsec. (a). Pub. L. 102–429, §103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
 
@@ -224,7 +228,7 @@ Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Use of Fund To Discourage Predatory Financing Practices
 

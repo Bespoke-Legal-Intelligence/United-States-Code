@@ -10,9 +10,9 @@
 
 &emsp;(A) “fees and other expenses” includes the reasonable expenses of expert witnesses, the reasonable cost of any study, analysis, engineering report, test, or project which is found by the agency to be necessary for the preparation of the party's case, and reasonable attorney or agent fees (The amount of fees awarded under this section shall be based upon prevailing market rates for the kind and quality of the services furnished, except that (i) no expert witness shall be compensated at a rate in excess of the highest rate of compensation for expert witnesses paid by the agency involved, and (ii) attorney or agent fees shall not be awarded in excess of $75 per hour unless the agency determines by regulation that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys or agents for the proceedings involved, justifies a higher fee.);
 
-&emsp;(B) “party” means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not morethan 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association;
+&emsp;(B) “party” means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not more than 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association;
 
-&emsp;(C) “adversary adjudication” means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605) before an agency board of contract appeals as provided in section 8 of that Act (41 U.S.C. 607), (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
+&emsp;(C) “adversary adjudication” means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishingor fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605) before an agency board of contract appeals as provided in section 8 of that Act (41 U.S.C. 607), (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
 
 &emsp;(D) “adjudicative officer” means the deciding official, without regard to whether the official is designated as an administrative law judge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication; and
 
@@ -40,21 +40,21 @@ Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (f), i
 
 #### Amendments
 
-1993—Subsec. (b)(1)(C). Pub. L. 103–141 added cl. (iv).
+<b>1993</b>—Subsec. (b)(1)(C). Pub. L. 103–141 added cl. (iv).
 
-1988—Subsec. (f). Pub. L. 100–647 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–647 added subsec. (f).
 
-1986—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (b)(1)(C)(iii). Pub. L. 99–509 added cl. (iii).
 
-1985—Subsec. (a)(1). Pub. L. 99–80, §1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–80, §1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
 
 Subsec. (a)(2). Pub. L. 99–80, §1(b), inserted “When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the underlying merits of the case have been finally determined pursuant to the appeal.”
 
 Subsec. (a)(3). Pub. L. 99–80, §1(a)(3), inserted “The decision of the agency on the application for fees and other expenses shall be the final administrative decision under this section.”
 
-Subsec. (b)(1)(B). Pub. L. 99–80, §1(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘party’ means a party, as defined in section 551(3) of this title, which is an individual, partnership, corporation, association, or public or privateorganization other than an agency, but excludes (i) any individual whose net worth exceeded $1,000,000 at the time the adversary adjudication was initiated, and any sole owner of an unincorporated business, or any partnership, corporation, association, or organization whose net worth exceeded $5,000,000 at the time the adversary adjudication was initiated, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, and (ii) any sole owner of an unincorporated business, or any partnership, corporation, association, or organization, having more than 500 employees at the time the adversary adjudication was initiated;”.
+Subsec. (b)(1)(B). Pub. L. 99–80, §1(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘party’ means a party, as defined in section 551(3) of this title, which is an individual, partnership, corporation, association, or public or private organization other than an agency, but excludes (i) any individual whose net worth exceeded $1,000,000 at the time the adversary adjudication was initiated, and any sole owner of an unincorporated business, or any partnership, corporation, association, or organization whose net worth exceeded $5,000,000 at the time the adversary adjudication was initiated, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, and (ii) any sole owner of an unincorporated business, or any partnership, corporation, association, or organization, having more than 500 employees at the time the adversary adjudication was initiated;”.
 
 Subsec. (b)(1)(C). Pub. L. 99–80, §1(c)(2), designated existing provisions of subpar. (C) as cl. (i) thereof by inserting “(i)” before “an adjudication under”, added cl. (ii), and struck out “and” after the semicolon at the end.
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to am
 
 “(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years.”
 
-1980—Pub. L. 96–481, §203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
+<b>1980</b>—Pub. L. 96–481, §203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
 
 #### Effective Date of 1988 Amendment
 
@@ -103,6 +103,10 @@ Section 203(c) of Pub. L. 96–481 which provided that effective Oct. 1, 1984, t
 #### Short Title
 
 Section 201 of title II of Pub. L. 96–481 provided that: “This title \[enacting this section, amending section 634 of Title 15, Commerce and Trade, section 2412 of Title 28, Judiciary and Judicial Procedure, Rule 37 of the Federal Rules of Civil Procedure, set out in Title 28 Appendix, and section 1988 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 2412 of Title 28\] may be cited as the ‘Equal Access to Justice Act’.”
+
+#### Termination of Administrative Conference of United States
+
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of this title.
 
 #### Prohibition on Use of Energy and Water Development Appropriations To Pay Intervening Parties in Regulatory or Adjudicatory Proceedings
 

@@ -2,7 +2,7 @@
 
 (a) Subject to the provisions of subsection (b) of this section and subsection 1214(a)(3), an employee, former employee, or applicant for employment may, with respect to any personnel action taken, or proposed to be taken, against such employee, former employee, or applicant for employment, as a result of a prohibited personnel practice described in section 2302(b)(8), seek corrective action from the Merit Systems Protection Board.
 
-(b) This section may not be construed to prohibit any employee, former employee, or applicant for employment from seeking correctiveaction from the Merit Systems Protection Board before seeking corrective action from the Special Counsel, if such employee, former employee, or applicant for employment has the right to appeal directly to the Board under any law, rule, or regulation.
+(b) This section may not be construed to prohibit any employee, former employee, or applicant for employment from seeking corrective action from the Merit Systems Protection Board before seeking corrective action from the Special Counsel, if such employee, former employee, or applicant for employment has the right to appeal directly to the Board under any law, rule, or regulation.
 
 (c)(1) Any employee, former employee, or applicant for employment seeking corrective action under subsection (a) may request that the Board order a stay of the personnel action involved.
 
@@ -56,7 +56,7 @@
 
 #### Amendments
 
-1994—Subsec. (d)(1). Pub. L. 103–424, §4(a), added par. (1) and struck out former par. (1) which read as follows:“At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–424, §4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
 
 Subsec. (e)(1). Pub. L. 103–424, §4(b), which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
 
@@ -74,7 +74,7 @@ Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 1214, 1222, 2105, 2303, 7121 of this title; title 10 section 2409a; title 22 section 4139.
+This section is referred to in sections 1212, 1214, 1222, 2105, 2303, 7121 of this title; title 22 section 4139.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “employee,”.</i>
 

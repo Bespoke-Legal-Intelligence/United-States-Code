@@ -8,7 +8,7 @@ Unless and except as permitted by regulations made as hereinafter provided in th
 
 1989—Pub. L. 101–233 struck out “and” after “1936,” and inserted before period at end “and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976”.
 
-1974—Pub. L. 93–300 substituted “any part, nest, or eggs of any such bird, or any product, whether or not manufactured, which consists, or is composed in wholeor part, of any such bird or any part, nest, or egg thereof” for “any part, nest, or egg of any such birds”, and included the convention between the United States and the Government of Japan concluded March 4, 1972.
+1974—Pub. L. 93–300 substituted “any part, nest, or eggs of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof” for “any part, nest, or egg of any such birds”, and included the convention between the United States and the Government of Japan concluded March 4, 1972.
 
 1936—Act June 20, 1936, made changes in phraseology.
 

@@ -16,7 +16,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 &emsp;&emsp;(A) The director of the Office of Finance of the Federal Home Loan Banks (or the head of any successor office).
 
-&emsp;&emsp;(B) 2 members selected by the Thrift Depositor Protection Oversight Board from among the presidents of the Federal Home Loan Banks.
+&emsp;&emsp;(B) 2 members selected by the Thrift Depositor Protection Oversight Board fromamong the presidents of the Federal Home Loan Banks.
 
 #### (2) Terms
 
@@ -116,7 +116,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) Amount required
 
-&emsp;&emsp;The Thrift Depositor Protection Oversight Board shall ensure that the aggregate of the amounts obtained under this subsection shall be sufficient so that—
+&emsp;&emsp;The Thrift Depositor Protection Oversight Board shall ensure that the aggregate of theamounts obtained under this subsection shall be sufficient so that—
 
 &emsp;&emsp;&emsp;(i) the Funding Corporation may transfer the amounts required under paragraph (8); and
 
@@ -164,7 +164,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Decrease in limit
 
-&emsp;&emsp;&emsp;If the aggregate amount for all Federal Home Loan Banks determined under subparagraph (B)(i) is more than $300,000,000 per year, the limit for each Bank shall bedecreased by an amount determined by the Thrift Depositor Protection Oversight Board by multiplying the aggregate excess by the percentage applicable to such Bank arrived at in the manner described in paragraph (5).
+&emsp;&emsp;&emsp;If the aggregate amount for all Federal Home Loan Banks determined under subparagraph (B)(i) is more than $300,000,000 per year, the limit for each Bank shall be decreased by an amount determined by the Thrift Depositor Protection Oversight Board by multiplying the aggregate excess by the percentage applicable to such Bank arrived at in the manner described in paragraph (5).
 
 #### (4) Pro rata distribution of first $1,000,000,000 invested in Funding Corporation by Federal Home Loan Banks
 
@@ -224,7 +224,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
 
-&emsp;Of any amount which the Thrift Depositor Protection Oversight Board may require the Federal Home Loan Banks to invest in capital stock of the Funding Corporation under this subsection in excess of the $1,000,000,000 amount referred to in paragraph (4), the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;Of any amount which the Thrift Depositor Protection Oversight Board may require the Federal Home Loan Banks to invest in capital stock of the Funding Corporation under this subsection in excess of the $1,000,000,000 amount referred to in paragraph (4), theamount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such Bank; by
 
@@ -260,7 +260,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost offunds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
+&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
 
 #### (ii) Determination of amounts
 
@@ -346,7 +346,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (D) Proceeds from sale of assets
 
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A), (B), and (C) are insufficient to cover the amount of interest payments, the FSLIC Resolution Fund shall transfer to the Funding Corporation any net proceeds from the sale of assets received from the Resolution Trust Corporation, which shall be used by the Funding Corporation to pay such interest.
+&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A), (B), and (C) are insufficient to cover the amount of interest payments, the FSLIC Resolution Fund shalltransfer to the Funding Corporation any net proceeds from the sale of assets received from the Resolution Trust Corporation, which shall be used by the Funding Corporation to pay such interest.
 
 #### (E) Treasury backup
 
@@ -498,7 +498,7 @@ For purposes of this section:
 
 &emsp;The term “custodian fee” means—
 
-&emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
+&emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer ofany security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
 
 &emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
 

@@ -18,7 +18,7 @@ Persons appointed to the Advisory Panel shall be individuals who are knowledgeab
 
 #### (c) Limitation on service
 
-Any person appointed to the Advisory Panel pursuant to subsection (a)(4) of this section shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
+Any person appointed to the Advisory Panel pursuant to subsection (a)(4) of this sectionshall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
 
 #### (d) Functions
 

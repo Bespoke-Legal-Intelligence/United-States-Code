@@ -4,7 +4,7 @@
 
 (b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
-(c) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
+(c) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, theSecretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718.)
 
@@ -34,9 +34,9 @@ In subsection (b), the words “active duty (other than for training)” are sub
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (c) of this section were contained in Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out as a note under section 138 \[now 114\] of this title, and which was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
+Provisions similar to those in subsec. (c) of this section were contained in Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out as a note under section 138 \[now 114\] of this title, and which was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
 
-A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, which related to enactment of legislation relating to voting in other elections, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -220,7 +220,7 @@ Funding.—(1) From the amount authorized to be appropriated pursuant to section
 
 Reports.—(1) Not later than March 31, 1995, the Secretary of Defense shall submit to Congress the coordinated plan for the studies to be conducted pursuant to subsection (a) and the results of the review of that plan by the National Academy of Sciences.
 
-“(2) Not later than October 1 of each year through 1998, the Secretary shall submit to Congress a report onthe results of the studies conducted pursuant to subsection (a), plans for continuation of the studies, and the results of the annual review of the studies by the National Academy of Sciences.
+“(2) Not later than October 1 of each year through 1998, the Secretary shall submit to Congress a report on the results of the studies conducted pursuant to subsection (a), plans for continuation of the studies, and the results of the annual review of the studies by the National Academy of Sciences.
 
 “(3) Each report under this section shall be prepared in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services.
 
@@ -240,7 +240,7 @@ Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 241
 
 #### Study on Risk-Sharing Contracts for Health Care
 
-Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
+Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizationsdescribed in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
 
 #### Registry of Members of Armed Forces Serving in Operation Desert Storm
 
@@ -300,9 +300,7 @@ Section 554 of Pub. L. 101–510, as amended by Pub. L. 102–484, div. A, title
 
 #### Prohibition on Fee for Outpatient Care at Military Medical Treatment Facilities
 
-Section 721 of Pub. L. 101–189 provided that during fiscal years 1990 and 1991, the Secretary of Defense couldnot impose a charge for the receipt of outpatient medical or dental care at a military medical treatment facility.
-
-Similar provisions were contained in the following prior authorization act:
+Section 721 of Pub. L. 101–189 provided that during fiscal years 1990 and 1991, the Secretary of Defense could not impose a charge for the receipt of outpatient medical or dental care at a military medical treatment facility. Similar provisions were contained in the following prior authorization act:
 
 Pub. L. 100–180, div. A, title VII, §722, Dec. 4, 1987, 101 Stat. 1116.
 

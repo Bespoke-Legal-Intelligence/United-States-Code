@@ -8,7 +8,7 @@ Each Head Start agency or local educational agency desiring a grant under this s
 
 &emsp;(2) a description of members of the consortium established in accordance with section 9855b of this title, including any cooperating agency;
 
-&emsp;(3) a self-assessment of the Head Start agency's and local educational agency's programs to address the health, immunization, mental health, nutrition, parenting education, literacy, social service (including substance abuse treatment, education, and prevention), and educational needs of low-income students and their families, including the use of a developmentally appropriate curriculum such as a model approach under the Follow Through Act;
+&emsp;(3) a self-assessment of the Head Start agency's and local educational agency's programs to address the health, immunization, mental health, nutrition, parenting education, literacy, social service (including substance abuse treatment, education, and prevention), and educational needs of low-income students and their families, including the use of a developmentally appropriate curriculum such asa model approach under the Follow Through Act;
 
 &emsp;(4) a plan for the development of a supportive services team of family service coordinators to—
 
@@ -30,7 +30,7 @@ Each Head Start agency or local educational agency desiring a grant under this s
 
 &emsp;(6) assurances that State agencies, local agencies, and community-based organizations that provide supportive services to low-income students served by such Head Start agency or local educational agency have been consulted in the preparation of the plan described in paragraph (4);
 
-&emsp;(7) assurances that State agencies, local agencies, and community-based organizations that provide supportive services to low-incomestudents served by such Head Start agency or local educational agency will designate an individual who will act as a liaison to the supportive services team described in paragraph (4);
+&emsp;(7) assurances that State agencies, local agencies, and community-based organizations that provide supportive services to low-income students served by such Head Start agency or local educational agency will designate an individual who will act as a liaison to the supportive services team described in paragraph (4);
 
 &emsp;(8) a description of the target population to be served by the supportive services team described in paragraph (4) including families previously served under the Head Start Act, part B of title I of the Elementary and Secondary Education Act of 1965 (Even Start) \[20 U.S.C. 6361 et seq.\], or comparable early childhood development programs;
 
@@ -66,7 +66,7 @@ Each supportive services team developed pursuant to paragraph (4) of subsection 
 
 The Follow Through Act, referred to in subsec. (a)(3), (13), is subchapter D (§§661–670) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 508, as amended and redesignated, which was classified generally to subchapter III (§9861 et seq.) of this chapter, prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(4)(C), (8), (10), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. Part B of title I of the Act is classified generally to part B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(4)(C), (8), (10), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education.Part B of title I of the Act is classified generally to part B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Head Start Act, referred to in subsec. (a)(4)(C), (D), (8), (10), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 

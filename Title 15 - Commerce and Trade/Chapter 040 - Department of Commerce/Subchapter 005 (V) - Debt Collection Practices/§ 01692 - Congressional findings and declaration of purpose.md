@@ -20,11 +20,11 @@ Abusive debt collection practices are carried on to a substantial extent in inte
 
 It is the purpose of this subchapter to eliminate abusive debt collection practices by debt collectors, to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent State action to protect consumers against debt collection abuses.
 
-(Pub. L. 90 321, title VIII, §802, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 874.)
+(Pub. L. 90–321, title VIII, §802, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874.)
 
 #### Effective Date
 
-Section 818 of title VIII of Pub. L. 90 321, as added Pub. L. 95 109, provided that: “This title \[enacting this subchapter\] takes effect upon the expiration of six months after the date of its enactment \[Sept. 20, 1977\], but section 809 \[section 1692g of this title\] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
+Section 818 of title VIII of Pub. L. 90–321, as added Pub. L. 95–109, provided that: “This title \[enacting this subchapter\] takes effect upon the expiration of six months after the date of its enactment \[Sept. 20, 1977\], but section 809 \[section 1692g of this title\] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
 
 #### Short Title
 

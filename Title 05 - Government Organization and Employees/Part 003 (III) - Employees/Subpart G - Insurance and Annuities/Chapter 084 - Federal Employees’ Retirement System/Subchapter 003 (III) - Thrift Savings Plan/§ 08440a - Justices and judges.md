@@ -30,7 +30,7 @@ Another section 8440a was renumbered section 8440b of this title.
 
 #### Amendments
 
-1994—Subsec. (b)(5). Pub. L. 103–226, §9(e)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–226, §9(e)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
 
 Subsec. (b)(6). Pub. L. 103–226, §9(i)(17), substituted “section 8351(b)(5)” for “section 8351(b)(7)”.
 
@@ -40,15 +40,15 @@ Subsec. (b)(7), (8). Pub. L. 103–226, §9(e)(2), added par. (7) and struck out
 
 “(8) Notwithstanding paragraph (4), if any justice or judge retires under subsection (a) or (b) of section 371 or section 372(a) of title 28, and such justice's or judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b).”
 
-1992—Subsec. (b)(1). Pub. L. 102–378 substituted “this subchapter and subchapter VII” for “subchapters III and VII of chapter 84 of this title”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–378 substituted “this subchapter and subchapter VII” for “subchapters III and VII of chapter 84 of this title”.
 
-1990—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
 Subsec. (b)(7), (8). Pub. L. 101–335, §6(b)(2), added pars. (7) and (8). Former par. (7) redesignated (6).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1990 Amendment
 

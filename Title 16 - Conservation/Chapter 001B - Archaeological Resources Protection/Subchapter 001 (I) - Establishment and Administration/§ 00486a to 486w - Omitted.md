@@ -170,7 +170,7 @@ Snoqualmie National Forest—Acts Sept. 22, 1922, ch. 424, 42 Stat. 1036; Feb. 2
 
 Stanislaus National Forest—Acts Apr. 16, 1914, ch. 58, 38 Stat. 345; Feb. 20, 1925, ch. 272, 43 Stat. 954.
 
-Tahoe National Forest—Acts Apr. 11, 1922, ch. 129, 42 Stat. 493; Feb. 20, 1925, ch. 272, 43 Stat. 954; Feb. 12, 1938,ch. 27, §§1–4, 52 Stat. 28; June 22, 1938, ch. 566, 52 Stat. 838.
+Tahoe National Forest—Acts Apr. 11, 1922, ch. 129, 42 Stat. 493; Feb. 20, 1925, ch. 272, 43 Stat. 954; Feb. 12, 1938, ch. 27, §§1–4, 52 Stat. 28; June 22, 1938, ch. 566, 52 Stat. 838.
 
 Targhee National Forest—Acts Mar. 1, 1921, ch. 98, 41 Stat. 1198; June 5, 1942, ch. 342, §2, 56 Stat. 320.
 

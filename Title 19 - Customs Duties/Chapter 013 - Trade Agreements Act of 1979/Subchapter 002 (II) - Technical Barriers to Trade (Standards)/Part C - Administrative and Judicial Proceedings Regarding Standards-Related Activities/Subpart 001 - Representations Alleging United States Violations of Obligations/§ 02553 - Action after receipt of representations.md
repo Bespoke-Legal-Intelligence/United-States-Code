@@ -1,4 +1,4 @@
-### §2553 . Action after receipt of representations
+### §2553. Action after receipt of representations
 
 #### (a) Review
 

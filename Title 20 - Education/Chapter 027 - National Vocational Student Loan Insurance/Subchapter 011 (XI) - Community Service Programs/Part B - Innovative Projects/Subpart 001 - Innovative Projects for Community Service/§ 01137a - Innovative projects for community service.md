@@ -30,27 +30,27 @@ No grant may be made and no contract may be entered into under this section unle
 
 #### (2) Special rule
 
-&emsp;The provisions of section 1135a 1(b) of this title shall apply to grants made under this subpart.
+&emsp;The provisions of section 1135a–1(b) of this title shall apply to grants made under this subpart.
 
 #### (d) “Community service” defined
 
 For the purpose of this subpart, the term “community service” means planned, supervised services designed to improve the quality of life for community residents, particularly community residents with low income, or to assist in the solution of particular problems related to the needs of such residents.
 
-(Pub. L. 89 329, title XI, §1122, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 788; amended Pub. L. 103 82, title I, §111(b)(4), Sept. 21, 1993, 107 Stat. 860.)
+(Pub. L. 89–329, title XI, §1122, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 788; amended Pub. L. 103–82, title I, §111(b)(4), Sept. 21, 1993, 107 Stat. 860.)
 
 #### Prior Provisions
 
-Prior sections 1137a and 1137b were omitted in the general revision of this subchapter by Pub. L. 102 325.
+Prior sections 1137a and 1137b were omitted in the general revision of this subchapter by Pub. L. 102–325.
 
-Section 1137a, Pub. L. 89 329, title XI, §1112, as added Pub. L. 99 498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1570, related to use of urban community service funds.
+Section 1137a, Pub. L. 89–329, title XI, §1112, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1570, related to use of urban community service funds.
 
-Section 1137b, Pub. L. 89 329, title XI, §1113, as added Pub. L. 99 498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1570, related to contents for applications for urban community services projects.
+Section 1137b, Pub. L. 89–329, title XI, §1113, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1570, related to contents for applications for urban community services projects.
 
 #### Amendments
 
-1993—Subsec. (a)(2)(C). Pub. L. 103 82 substituted “youth corps programs, as described in section 12572(a)(2) of title 42” for “youth corps as defined in section 12511(30) of title 42”.
+1993—Subsec. (a)(2)(C). Pub. L. 103–82 substituted “youth corps programs, as described in section 12572(a)(2) of title 42” for “youth corps as defined in section 12511(30) of title 42”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 82 effective Oct. 1, 1993, see section 123 of Pub. L. 103 82, set out as a note under section 1701 of Title 16, Conservation.
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 

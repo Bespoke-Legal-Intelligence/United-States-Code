@@ -2,7 +2,7 @@
 
 #### (a) Recipients entitled to review; stay of action by Secretary
 
-Any recipient of funds under an applicable program that would be adversely affected by a final agency action under section 1234a, 1234d, or 1234e of this title, and any State entitled to receive funds under a program described in section 1232d(a) of this title whose application has been disapproved by the Secretary, shall be entitled to judicial review of such action in accordance with the provisions of this section. The Secretary may not take any action on the basis of a final agency action until judicial review is completed.
+Any recipient of funds under an applicable program that would be adversely affected by afinal agency action under section 1234a, 1234d, or 1234e of this title, and any State entitled to receive funds under a program described in section 1232d(a) of this title whose application has been disapproved by the Secretary, shall be entitled to judicial review of such action in accordance with the provisions of this section. The Secretary may not take any action on the basis of a final agency action until judicial review is completed.
 
 #### (b) Petition for review; filing of record
 
@@ -16,15 +16,15 @@ The findings of fact by the Office, if supported by substantial evidence, shall 
 
 The court shall have jurisdiction to affirm the action of the Office or the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 90 247, title IV, §458, as added Pub. L. 100 297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103 382, title II, §212(b)(3)(D), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §458, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, §212(b)(3)(D), Oct. 20, 1994, 108 Stat. 3913.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103 382 made technical amendment to reference to section 1232d(a) of this title to reflect renumbering of corresponding section of original act.
+1994—Subsec. (a). Pub. L. 103–382 made technical amendment to reference to section 1232d(a) of this title to reflect renumbering of corresponding section of original act.
 
 #### Effective Date
 
-Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100 297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
+Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
 
 #### Section Referred to in Other Sections
 

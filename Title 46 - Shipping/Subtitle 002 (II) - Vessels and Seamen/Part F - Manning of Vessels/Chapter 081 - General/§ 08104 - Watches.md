@@ -30,7 +30,7 @@
 
 &emsp;(4) performing fire, lifeboat, or other drills in port or at sea.
 
-(g) On a towing vessel (except a vessel to which subsection (c) of this section applies), an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+(g) On a towing vessel (except a vessel to which subsection (c) of this section applies), an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen,oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
 
 (h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12 hours in a consecutive 24-hour period except in an emergency.
 

@@ -84,7 +84,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (A) Moratorium
 
-&emsp;&emsp;Except as provided in this subsection, the President may not commence action under section 9604(a) of this title or take any action under section 9606 of this title for 120 days after providing notice and information under this subsection with respect to such action. Except as provided in this subsection, the President may not commence a remedial investigation and feasibility study under section 9604(b) of this title for 90 days after providing notice and information under this subsection with respect to such action.The President may commence any additional studies or investigations authorized under section 9604(b) of this title, including remedial design, during the negotiation period.
+&emsp;&emsp;Except as provided in this subsection, the President may not commence action under section 9604(a) of this title or take any action under section 9606 of this title for 120 days after providing notice and information under this subsection with respect to such action. Except as provided in this subsection, the President may not commence a remedial investigation and feasibility study under section 9604(b) of this title for 90 days after providing notice and information under this subsection with respect to such action. The President may commence any additional studies or investigations authorized under section 9604(b) of this title, including remedial design, during the negotiation period.
 
 #### (B) Proposals
 
@@ -132,7 +132,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Discretionary covenants
 
-&emsp;The President may, in his discretion, provide any person with a covenant not to sueconcerning any liability to the United States under this chapter, including future liability, resulting from a release or threatened release of a hazardous substance addressed by a remedial action, whether that action is onsite or offsite, if each of the following conditions is met:
+&emsp;The President may, in his discretion, provide any person with a covenant not to sue concerning any liability to the United States under this chapter, including future liability, resulting from a release or threatened release of a hazardous substance addressed by a remedial action, whether that action is onsite or offsite, if each of the following conditions is met:
 
 &emsp;&emsp;(A) The covenant not to sue is in the public interest.
 
@@ -154,7 +154,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Requirement that remedial action be completed
 
-&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance with the requirements of this chapter at the facility that is the subject of such covenant.
+&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance withthe requirements of this chapter at the facility that is the subject of such covenant.
 
 #### (4) Factors
 
@@ -244,7 +244,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Claims for contribution
 
-&emsp;A person who has resolved its liability to the United States under this subsection shall notbe liable for claims for contribution regarding matters addressed in the settlement. Such settlement shall not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+&emsp;A person who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement shall not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
 
 #### (i) Settlement procedures
 

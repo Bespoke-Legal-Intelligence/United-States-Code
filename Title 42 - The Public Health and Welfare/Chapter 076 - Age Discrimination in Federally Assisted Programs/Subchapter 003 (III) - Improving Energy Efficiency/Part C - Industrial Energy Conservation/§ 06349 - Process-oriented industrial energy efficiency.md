@@ -86,11 +86,11 @@ For the purposes of this section—
 
 #### (4) Meetings
 
-&emsp;In order to further the purposes of this section, the Secretary shall convene annualmeetings of parties interested in process-oriented industrial assessments, including representatives of State government, public utility commissions, utilities, and affected process-oriented industries.
+&emsp;In order to further the purposes of this section, the Secretary shall convene annual meetings of parties interested in process-oriented industrial assessments, including representatives of State government, public utility commissions, utilities, and affected process-oriented industries.
 
 #### (d) Report
 
-Not later than 2 years after October 24, 1992, and annually thereafter, the Secretary shall submit to the Congress a report which—
+Not later than October 24, 1995, and biennially thereafter, the Secretary shall submit to the Congress a report which—
 
 &emsp;(1) identifies barriers encountered in implementing this section;
 
@@ -98,17 +98,27 @@ Not later than 2 years after October 24, 1992, and annually thereafter, the Secr
 
 &emsp;(3) documents the results achieved by the programs established and grants awarded pursuant to this section;
 
-&emsp;(4) reviews any difficulties encountered by industry in securing and implementing energy efficiency technologies recommended in process-oriented industrial assessments or otherwise identified as a result of programs established pursuant to this section; and
+&emsp;(4) reviews any difficulties encountered by industry in securing and implementing energy efficiency technologies recommended in process-oriented industrial assessments or otherwise identified as a result of programs established pursuant to this section;
 
-&emsp;(5) recommends methods for further promoting the distribution and implementation of energy efficiency technologies consistent with the purposes of this section.
+&emsp;(5) recommends methods for further promoting the distribution and implementation of energy efficiency technologies consistent with the purposes of this section; and
+
+&emsp;(6) the information required under section 6350(c) of this title.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-(Pub. L. 102–486, title I, §132, Oct. 24, 1992, 106 Stat. 2837.)
+(Pub. L. 102–486, title I, §132, Oct. 24, 1992, 106 Stat. 2837; Pub. L. 104–66, title I, §1052(a)(1), Dec. 21, 1995, 109 Stat. 717.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+
+#### Amendments
+
+1995—Subsec. (d). Pub. L. 104–66 substituted “Not later than October 24, 1995, and biennially thereafter” for “Not later than 2 years after October 24, 1992, and annually thereafter” in introductory provisions and added par. (6).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6350 of this title.
 

@@ -1,6 +1,6 @@
 ### §712. Active duty for emergency augmentation of regular forces
 
-(a) Notwithstanding another law, and for the emergency augmentation of the Regular Coast Guard forces during a serious natural or manmade disaster, accident, or catastrophe, the Secretary may, without the consent of the member affected, order to active duty of not more than thirty days in any four-month period and not more than sixty days in any two-year period an organized training unit of the Coast Guard Ready Reserve, a member thereof, or a member not assigned to a unit organized to serve as a unit.
+(a) Notwithstanding another law, and for the emergency augmentation of the Regular CoastGuard forces during a serious natural or manmade disaster, accident, or catastrophe, the Secretary may, without the consent of the member affected, order to active duty of not more than thirty days in any four-month period and not more than sixty days in any two-year period an organized training unit of the Coast Guard Ready Reserve, a member thereof, or a member not assigned to a unit organized to serve as a unit.
 
 (b) Under the circumstances of the domestic emergency involved, a reasonable time shall be allowed between the date when a Reserve member ordered to active duty under this section is alerted for that duty and the date when the member is required to enter upon that duty. Unless the Secretary determines that the nature of the domestic emergency does not allow it, this period shall be at least two days.
 
@@ -27,4 +27,8 @@ Provisions similar to those in this section were contained in section 764 of thi
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 38 section 4312.
 

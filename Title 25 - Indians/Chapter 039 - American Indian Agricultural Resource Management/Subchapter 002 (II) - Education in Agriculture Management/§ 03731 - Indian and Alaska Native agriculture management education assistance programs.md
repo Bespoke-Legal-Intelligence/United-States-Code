@@ -20,7 +20,7 @@
 
 (4) An agricultural resources intern shall be required to enter into an obligated service agreement with the Secretary to serve as an employee in a professional agriculture or natural resources position with the Department of the Interior or other Federal agency or an Indian tribe for one year for each year of education for which the Secretary pays the intern's educational costs under paragraph (3).
 
-(5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
+(5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction ofthe intern's obligated service agreement under paragraph (4).
 
 #### (b) Cooperative education program
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) is interested in a career with the Bureau, an Indian tribe or a tribal enterprise in the management of Indian rangelands, farmlands, or other natural resource assets.
 
-(5) A recipient of assistance under the cooperative education program under this subsectionshall be required to enter into an obligated service agreement with the Secretary to serve as a professional in an agricultural resource related activity with the Bureau, or other Federal agency providing agricultural or related services to Indians or Indian tribes, or an Indian tribe for one year for each year for which the Secretary pays the recipients educational costs pursuant to paragraph (3).
+(5) A recipient of assistance under the cooperative education program under this subsection shall be required to enter into an obligated service agreement with the Secretary to serve as a professional in an agricultural resource related activity with the Bureau, or other Federal agency providing agricultural or related services to Indians or Indian tribes, or an Indian tribe for one year for each year for which the Secretary pays the recipients educational costs pursuant to paragraph (3).
 
 #### (c) Scholarship program
 

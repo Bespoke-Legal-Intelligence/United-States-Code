@@ -1,6 +1,6 @@
 ### §883f. Contracts with qualified organizations
 
-The Secretary of Commerce is authorized to contract with qualified organizations for theperformance of any part of the authorized functions of the National Ocean Survey when he deems such procedure to be in the public interests.
+The Secretary of Commerce is authorized to contract with qualified organizations for the performance of any part of the authorized functions of the National Ocean Survey when he deems such procedure to be in the public interests.
 
 (Aug. 6, 1947, ch. 504, §6, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 

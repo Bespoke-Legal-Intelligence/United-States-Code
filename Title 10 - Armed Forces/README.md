@@ -1,5 +1,5 @@
 
-10 U.S.C.<br>United States Code, 1994 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 1995 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
 
@@ -5673,7 +5673,7 @@ Rep.
 
 350i(b)(2)
 
-6151, Rep. in part. See T. 42 §212(g)
+6151\. Rep. in part. See T. 42 §212(g)
 
 350i(c)
 
@@ -5689,11 +5689,11 @@ Rep.
 
 350j
 
-5597, 5787, Rep. in part. See T. 14 §351; T. 42 §212(g)
+5597, 5787. Rep. in part. See T. 14 §351; T. 42 §212(g)
 
 350k
 
-5597, 5787, Rep. in part. See T. 42 §212(g)
+5597, 5787. Rep. in part. See T. 42 §212(g)
 
 351–353
 

@@ -22,7 +22,7 @@ Subsection (c) of section 1304 of this title, referred to in subsec. (b), was re
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in R.S. §2978, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and in R.S. §3025, both of which were superseded by act Sept. 21, 1922, ch. 356, title IV, §558, 42 Stat. 977, and were repealed by section 642 thereof. Section 558 of the 1922 act was superseded by section 558 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §2978, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and in R.S. §3025, both of which were superseded by act Sept. 21, 1922, ch. 356, title IV, §558, 42 Stat. 977, and were repealed by section 642 thereof. Section 558 of the 1922 act was superseded by section 558 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

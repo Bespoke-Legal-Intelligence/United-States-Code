@@ -892,7 +892,7 @@ Subsec. (i). Pub. L. 97–320, §§203, 206, added subsec. (i), relating to net 
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1983 Amendments
 
@@ -972,7 +972,7 @@ Report.—Two years after the date of enactment of this Act \[Dec. 19, 1991\], t
 
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, or section 206(a) of Pub. L. 97–320, set out as a note above, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
 
-No amendment made by section 141(a) or section 206(a) of Pub. L. 97–320, set out as notes under sections 1464 and 1729 of this title, respectively, as in effect on the day before Oct. 8, 1986, to any other provision of lawto be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
+No amendment made by section 141(a) or section 206(a) of Pub. L. 97–320, set out as notes under sections1464 and 1729 of this title, respectively, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
 Sections 141(a) and 206(a) of Pub. L. 97–320, which are set out as notes under sections 1464 and 1729 of this title, as such sections were in effect on the day after Aug. 27, 1986, applicable as if such sections had been included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by any such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 

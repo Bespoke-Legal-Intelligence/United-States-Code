@@ -22,13 +22,13 @@ The Director of the United States Information Agency is authorized to utilize th
 
 #### (e) Repeal
 
-The Board for International Broadcasting Act of 1973 (22 U.S.C. 2871, et seq.) is repealed effective September 30, 1995, or the date on which all members of the Board are confirmed, whichever is earlier.
+The Board for International Broadcasting Act of 1973 (22 U.S.C. 2871, et seq.) is repealed effective September 30, 1995, or the date on which all members of the Board are confirmed, whichever is earlier.<sup>1</sup>
 
 #### (f) Savings provisions
 
 #### (1) Continuing effect of legal documents
 
-&emsp;All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+&emsp;All orders, determinations, rules, regulations, permits, agreements, grants, contracts,certificates, licenses, registrations, privileges, and other administrative actions—
 
 &emsp;&emsp;(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this chapter; and
 
@@ -72,7 +72,9 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 103–236, Apr. 30, 1994, 10
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (d), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended. Title VIII of the Act is classified generally to subchapter VIII (§1471 et seq.) of chapter 18 of this title. Title IX of the Act is classified to sections 1478 and 1479 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
-The Board for International Broadcasting Act of 1973, referred to in subsec. (e), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which is classified generally to chapter 43 (§2871 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2871 of this title and Tables.
+The Board for International Broadcasting Act of 1973, referred to in subsec. (e), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title. As to the date on which all members of the Broadcasting Board of Governors are confirmed, the Members of the Board were confirmed by the Senate on Aug. 11, 1995, see Cong. Rec., vol. 141, p. S12519, Daily Issue.
 
 The effective date of this chapter, referred to in subsec. (f)(1)(B), (3), (7), probably means the date of enactment of title III of Pub. L. 103–236 which enacted this chapter and was approved Apr. 30, 1994.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ Bridges.—In any case where a highway bridge deck being replaced or rehabilitat
 
 (f)
 
-Federal Share.—For all purposes of this title, construction of a pedestrian walkway and a bicycle transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be 80 percent.
+Federal Share.—For all purposes of this title, construction of a pedestrian walkway and a bicycle transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
 
 (g)
 
@@ -48,13 +48,15 @@ Transportation Purpose.—No bicycle project may be carried out under this secti
 
 Bicycle Transportation Facility Defined.—For purposes of this section, a “bicycle transportation facility” means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975.)
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582.)
 
 #### Amendments
 
-1991—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
+1995—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
 
-1987—Subsec. (b)(1). Pub. L. 100–17 inserted “and sums apportioned or allocated for highway substituteprojects in accordance with section 103(e)(4) of this title” after “title” in second sentence.
+1991—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under thissection unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
+
+1987—Subsec. (b)(1). Pub. L. 100–17 inserted “and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title” after “title” in second sentence.
 
 1983—Subsec. (a). Pub. L. 97–424 designated as subsec. (a) that portion of former subsec. (a) relating to pedestrian walkways. Remainder of former subsec. (a) relating to bicycles was redesignated (b)(1).
 

@@ -24,7 +24,7 @@ R.S. §51.
 
 #### Constitutional Provisions
 
-The first section of amendment XX to the Constitution provides in part: “ \* \* \* the terms of Senators and Representatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
+The first section of amendment XX to the Constitution provides in part: “ \* \* \* the terms of Senators andRepresentatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
 
 #### Cross References
 

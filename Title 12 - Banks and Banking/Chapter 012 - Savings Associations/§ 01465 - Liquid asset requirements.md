@@ -62,7 +62,7 @@ The Director is authorized to issue such regulations, including definitions of t
 
 #### References in Text
 
-The Federal Reserve Act, referred to in subsec. (b)(1)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (b)(1)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification ofthis Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (b)(1)(C)(iii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 

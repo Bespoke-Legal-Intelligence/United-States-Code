@@ -1,4 +1,4 @@
-### §1701g–5b . Liquidation of New Communities Program; cancellation of debt
+### §1701g–5b. Liquidation of New Communities Program; cancellation of debt
 
 #### (a) Law applicable
 

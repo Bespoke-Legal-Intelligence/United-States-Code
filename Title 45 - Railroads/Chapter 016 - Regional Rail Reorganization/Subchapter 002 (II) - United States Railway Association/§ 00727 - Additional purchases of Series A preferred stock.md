@@ -2,7 +2,7 @@
 
 #### (a) Federal investment
 
-In addition to the authority provided under section 726 of this title, the Association shallpurchase shares of Series A preferred stock and accounts receivable of the Corporation after August 13, 1981, in amounts not to exceed a total of $137,000,000.
+In addition to the authority provided under section 726 of this title, the Association shall purchase shares of Series A preferred stock and accounts receivable of the Corporation after August 13, 1981, in amounts not to exceed a total of $137,000,000.
 
 #### (b) Accounts receivable
 
@@ -48,7 +48,7 @@ Section 1139(b) of the Northeast Rail Service Act of 1981, referred to in subsec
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–509, §4033(b)(2), substituted “applicable to any taxable period commencing before January 1, 1987” for “, until the property of the Corporation is transferred by the Secretary under subchapter IV of this chapter”.
+1986—Subsec. (c). Pub. L. 99–509, §4033(b)(2), substituted “applicable to any taxable period commencingbefore January 1, 1987” for “, until the property of the Corporation is transferred by the Secretary under subchapter IV of this chapter”.
 
 Subsec. (e). Pub. L. 99–509, §4033(b)(3), struck out “and shall collect” after “right to collect”.
 
@@ -59,6 +59,10 @@ Subsec. (f). Pub. L. 97–468, §504(c)(2), designated existing provisions as pa
 #### Effective Date
 
 Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as a note under section 1101 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

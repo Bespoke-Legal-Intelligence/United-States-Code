@@ -1,0 +1,36 @@
+### §1732. Record made in regular course of business; photographic copies
+
+If any business, institution, member of a profession or calling, or any department or agency of government, in the regular course of business or activity has kept or recorded any memorandum, writing, entry, print, representation or combination thereof, of any act, transaction, occurrence, or event, and in the regular course of business has caused any or all of the same to be recorded, copied, or reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic, or other process which accurately reproduces or forms a durable medium for so reproducing the original, the original may be destroyed in the regular course of business unless its preservation is required by law. Such reproduction, when satisfactorily identified, is as admissible in evidence as the original itself in any judicial or administrative proceeding whether the original is in existence or not and an enlargement or facsimile of such reproduction is likewise admissible in evidence if the original reproduction is in existence and available for inspection under direction of court. The introduction of a reproduced record, enlargement, or facsimile does not preclude admission of the original. This subsection shall not be construed to exclude from evidence any document or copy thereof which is otherwise admissible under the rules of evidence.
+
+(June 25, 1948, ch. 646, 62 Stat. 945; Aug. 28, 1951, ch. 351, §§1, 3, 65 Stat. 205, 206; Aug. 30, 1961, Pub. L. 87–183, 75 Stat. 413; Jan. 2, 1975, Pub. L. 93–595, §2(b), 88 Stat. 1949.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §695 (June 20, 1936, ch. 640, §1, 49 Stat. 1561).
+
+Changes in phraseology were made.
+
+#### Amendments
+
+1975—Pub. L. 93–595 struck out subsec. (a) which had made admissible as evidence writings or records made as a memorandum or record of any act, transaction, occurrence, or event if made in the regular course of business, and struck out designation “(b)” preceding remainder of section. See Federal Rules of Evidence set out in Appendix to this title.
+
+1961—Subsec. (b). Pub. L. 87–183 struck out “unless held in a custodial or fiduciary capacity or” after “may be destroyed in the regular course of business”.
+
+1951—Act Aug. 29, 1951, §3, inserted reference to photographic copies in section catchline.
+
+Subsecs. (a), (b). Act Aug. 28, 1951, §1, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Federal Rules of Civil Procedure
+
+Proof of official records, see rule 44, Appendix to this title.
+
+Effect of rule 44 on former section 695 of this title, see note by Advisory Committee under rule 44.
+
+#### Federal Rules of Criminal Procedure
+
+Proof of official records, see rule 27 and note of the Advisory Committee under rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 26 section 5555.
+

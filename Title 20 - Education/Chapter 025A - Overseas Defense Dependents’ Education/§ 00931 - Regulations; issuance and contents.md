@@ -14,5 +14,5 @@ Not later than 180 days after July 1, 1979, the Secretary of Defense shall issue
 
 &emsp;(6) provide for such other matters as may be necessary to ensure the efficient organization and operation of the defense dependents’ education system.
 
-(Pub. L. 95 561, title XIV, §1413, Nov. 1, 1978, 92 Stat. 2372.)
+(Pub. L. 95–561, title XIV, §1413, Nov. 1, 1978, 92 Stat. 2372.)
 

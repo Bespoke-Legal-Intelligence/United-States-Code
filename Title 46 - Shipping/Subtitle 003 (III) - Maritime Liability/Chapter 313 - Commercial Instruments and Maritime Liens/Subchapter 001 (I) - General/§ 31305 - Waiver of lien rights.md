@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 46:974
 
-Section 31305 provides for the waiver of lien rights by the mortgagee or a person performing or supplying necessaries. This section makes no substantive change to law and is included only because of a like provision incurrent law. Without this provision the Committee believes these waivers would be permissible as a matter of law as they do not violate any public policy and on their face reflect an arms length transaction between the parties. The inclusion of this provision should not raise the implication that a similar provision is required for other matters that may be waivable as a matter of law.
+Section 31305 provides for the waiver of lien rights by the mortgagee or a person performing or supplying necessaries. This section makes no substantive change to law and is included only because of a like provision in current law. Without this provision the Committee believes these waivers would be permissible as a matter of law as they do not violate any public policy and on their face reflect an arms length transaction between the parties. The inclusion of this provision should not raise the implication that a similar provision is required for other matters that may be waivable as a matter of law.
 
 #### house floor statement
 

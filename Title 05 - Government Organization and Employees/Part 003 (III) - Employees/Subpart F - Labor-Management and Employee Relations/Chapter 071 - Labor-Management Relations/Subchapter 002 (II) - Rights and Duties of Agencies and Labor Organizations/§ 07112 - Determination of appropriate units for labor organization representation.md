@@ -30,9 +30,9 @@
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378 struck out “(1)” after subsec. (a) designation.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 struck out “(1)” after subsec. (a) designation.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7105, 7123 of this title; title 7 section 7011.
+This section is referred to in sections 7105, 7123 of this title; title 2 section 1351; title 7 section 7011.
 

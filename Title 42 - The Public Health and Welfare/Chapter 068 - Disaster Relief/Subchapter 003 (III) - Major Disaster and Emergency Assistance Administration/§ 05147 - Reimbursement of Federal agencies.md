@@ -2,7 +2,7 @@
 
 Federal agencies may be reimbursed for expenditures under this chapter from funds appropriated for the purposes of this chapter. Any funds received by Federal agencies as reimbursement for services or supplies furnished under the authority of this chapter shall be deposited to the credit of the appropriation or appropriations currently available for such services or supplies.
 
-(Pub. L. 93–288, title III, §304, formerly §307, May 22, 1974, 88 Stat. 149; renumbered §304, Pub. L.100–707, title I, §105(d), Nov. 23, 1988, 102 Stat. 4691.)
+(Pub. L. 93–288, title III, §304, formerly §307, May 22, 1974, 88 Stat. 149; renumbered §304, Pub. L. 100–707, title I, §105(d), Nov. 23, 1988, 102 Stat. 4691.)
 
 #### Prior Provisions
 

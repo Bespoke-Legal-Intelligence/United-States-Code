@@ -36,7 +36,7 @@ Any supplementary unemployment insurance received by any employee pursuant to th
 
 &emsp;(1) for purposes of the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.); and
 
-&emsp;(2) for purposes of determining the compensation received by such employee in anybase year under the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\].
+&emsp;(2) for purposes of determining the compensation received by such employee in any base year under the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\].
 
 #### (f) Employees not covered
 

@@ -102,7 +102,7 @@ Delegations and Authorization
 
 1–201. The functions vested in the President by Sections 301, 302, 304, 305(c) and 306 of the Trade Agreements Act of 1979 (19 U.S.C. 2511, 2512, 2514, 2515(c) and 2516) are delegated to the Trade Representative.
 
-1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
+1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accordwith Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
 
 #### Annex
 

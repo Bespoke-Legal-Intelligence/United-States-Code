@@ -50,7 +50,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(1) an act, policy, or practice of a foreign country is unreasonable or discriminatory and burdens or restricts United States commerce, and
 
-&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may directthe Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 #### (c) Scope of authority
 
@@ -114,11 +114,11 @@ For purposes of this subchapter—
 
 &emsp;(1) The term “commerce” includes, but is not limited to—
 
-&emsp;&emsp;(A) services (including transfers of information) associated with international trade, whether or not such services are related to specific goods, and
+&emsp;&emsp;(A) services (including transfers of information) associated with international trade,whether or not such services are related to specific goods, and
 
 &emsp;&emsp;(B) foreign direct investment by United States persons with implications for trade in goods or services.
 
-&emsp;(2) An act, policy, or practice of a foreign country that burdens or restricts United States commerce may include the provision, directly or indirectly, by that foreign country of subsidies for the construction of vesselsused in the commercial transportation by water of goods between foreign countries and the United States.
+&emsp;(2) An act, policy, or practice of a foreign country that burdens or restricts United States commerce may include the provision, directly or indirectly, by that foreign country of subsidies for the construction of vessels used in the commercial transportation by water of goods between foreign countries and the United States.
 
 &emsp;(3)(A) An act, policy, or practice is unreasonable if the act, policy, or practice, while not necessarily in violation of, or inconsistent with, the international legal rights of the United States, is otherwise unfair and inequitable.
 
@@ -178,7 +178,7 @@ For purposes of this subchapter—
 
 &emsp;(9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
 
-(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295;amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993.)
+(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993.)
 
 #### Prior Provisions
 

@@ -30,9 +30,13 @@ An alphabetical index of ports of entry is contained in Schedule D of the Harmon
 
 For list of international airports of entry, see section 6.13 of Part 6 of Chapter 1, United States Customs Service, of Title 19, Customs Duties, of the Code of Federal Regulations.
 
+#### Virginia Inland Port; Withdrawal of Designation as Customs Service Port of Entry Prohibited
+
+Pub. L. 104–52, title V, §512, Nov. 19, 1995, 109 Stat. 492, provided that: “Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry.”
+
 #### Columbia-Snake Customs District
 
-Pub. L. 98–573, title II, §238, Oct. 30, 1984, 98 Stat. 2993, required Commissioner of United States Customs Service to establish a customs district known as Columbia-Snake Customs District.
+Pub. L. 98–573, title II, §238, Oct. 30, 1984, 98 Stat. 2993, directed Commissioner of United States Customs Service to establish a customs district known as Columbia-Snake Customs District.
 
 #### Pembina, North Dakota, Customs District; Change in Boundaries Prohibited Without Congressional Consent
 

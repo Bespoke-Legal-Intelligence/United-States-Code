@@ -58,9 +58,9 @@ It is the purpose of this chapter—
 
 &emsp;&emsp;(D) publish analysis in the form of periodic reports and recommendations concerning the United States business and trade policy.
 
-(Pub. L. 100 418, title V, §5202, Aug. 23, 1988, 102 Stat. 1455.)
+(Pub. L. 100–418, title V, §5202, Aug. 23, 1988, 102 Stat. 1455.)
 
 #### Short Title
 
-Section 5201 of Pub. L. 100 418 provided that: “This subtitle \[subtitle C (§§5201 5210) of title V of Pub. L. 100 418, enacting this chapter\] may be cited as the ‘Competitiveness Policy Council Act’.”
+Section 5201 of Pub. L. 100–418 provided that: “This subtitle \[subtitle C (§§5201–5210) of title V of Pub. L. 100–418, enacting this chapter\] may be cited as the ‘Competitiveness Policy Council Act’.”
 

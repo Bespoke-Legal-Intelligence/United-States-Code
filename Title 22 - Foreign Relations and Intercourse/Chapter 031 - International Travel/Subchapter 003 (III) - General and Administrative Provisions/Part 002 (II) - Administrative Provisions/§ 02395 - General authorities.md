@@ -42,7 +42,7 @@ In making loans under this chapter, the President—
 
 #### (h) Term of contracts and agreements
 
-A contract or agreement which entails commitments for the expenditure of funds made available under part I (except developmentloans) and subpart II of part II of subchapter I and under subchapter II of this chapter, may, subject to any future action of the Congress, extend at any time for not more than five years.
+A contract or agreement which entails commitments for the expenditure of funds made available under part I (except development loans) and subpart II of part II of subchapter I and under subchapter II of this chapter, may, subject to any future action of the Congress, extend at any time for not more than five years.
 
 #### (i) Settlement and arbitration of claims arising under investment guaranty operations
 

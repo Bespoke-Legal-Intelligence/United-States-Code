@@ -1,4 +1,4 @@
-### §460t . Establishment
+### §460t. Establishment
 
 #### (a) In general; description of area
 

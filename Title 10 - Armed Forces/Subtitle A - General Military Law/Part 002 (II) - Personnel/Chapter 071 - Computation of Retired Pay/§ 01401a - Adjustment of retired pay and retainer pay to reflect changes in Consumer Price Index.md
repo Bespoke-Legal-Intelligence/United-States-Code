@@ -402,7 +402,7 @@ Future Cost-of-Living Adjustments for Military Retirees.—
 
 #### Contingent Once-a-Year Adjustment of Retired and Retainer Pay
 
-Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended Pub. L. 97–35, title II, §211(b), Aug. 13, 1981, 95 Stat. 383, provided that:
+Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended by Pub. L. 97–35, title II, §211(b), Aug. 13, 1981, 95 Stat. 383, provided that:
 
 “(a)(1) The increase in the retired and retainer pay of members and former members of the uniformed services which but for this section would be made effective September 1, 1980, under the provisions of paragraph (2)(B) of section 1401a(b) of title 10, United States Code, shall not be made.
 

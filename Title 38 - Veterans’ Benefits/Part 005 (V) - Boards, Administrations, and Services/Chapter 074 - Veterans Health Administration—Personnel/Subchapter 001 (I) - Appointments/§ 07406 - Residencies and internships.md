@@ -8,7 +8,7 @@
 
 &emsp;(B) The term “intern” means a person serving an internship.
 
-(b) The Secretary may prescribe the conditions of employment of persons appointed under this section, including necessary training, and the customary amount and terms of pay for such positions during the period of such employment and training. The amount and terms of such pay may be established retroactively based on changes in such customary amount and terms.
+(b) The Secretary may prescribe the conditions of employment of persons appointed under this section, including necessary training, and the customary amount and terms of pay for suchpositions during the period of such employment and training. The amount and terms of such pay may be established retroactively based on changes in such customary amount and terms.
 
 (c)(1) In order to carry out more efficiently the provisions of subsection (a)(1), the Secretary may contract with one or more hospitals, medical schools, or medical installations having hospital facilities and participating with the Department in the training of interns or residents to provide, by the designation of one such institution to serve as a central administrative agency, for the central administration—
 

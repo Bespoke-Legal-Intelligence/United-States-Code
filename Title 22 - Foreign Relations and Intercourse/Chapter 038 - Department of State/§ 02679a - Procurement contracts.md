@@ -2,7 +2,7 @@
 
 #### (a) Funding for periods not in excess of five years; conditions
 
-Any contract for the procurement of property or services, or both, for the Department of State or the Foreign Service which is funded on the basis of annual appropriations may neverthelessbe made for periods not in excess of 5 years when—
+Any contract for the procurement of property or services, or both, for the Department of State or the Foreign Service which is funded on the basis of annual appropriations may nevertheless be made for periods not in excess of 5 years when—
 
 &emsp;(1) appropriations are available and adequate for payment for the first fiscal year and for all potential cancellation costs; and
 

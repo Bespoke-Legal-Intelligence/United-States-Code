@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (2) Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilities shall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.
 
-(3) In order to carry out subparagraph (A) of paragraph (1), the Secretary may make grants to State and local governments (either directly or through the Federal Emergency Management Agency) to assist those governments in carrying out functions relating to emergency preparedness and response in connection with the disposal of the lethal chemical agents and munitions referred to in subsection (a) of this section. Funds available to the Department of Defense for the purpose of carrying out this sectionmay be used for such grants. Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
+(3) In order to carry out subparagraph (A) of paragraph (1), the Secretary may make grants to State and local governments (either directly or through the Federal Emergency Management Agency) to assist those governments in carryingout functions relating to emergency preparedness and response in connection with the disposal of the lethal chemical agents and munitions referred to in subsection (a) of this section. Funds available to the Department of Defense for the purpose of carrying out this section may be used for such grants. Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
 
 #### (d) Plan
 
@@ -112,13 +112,13 @@ Funds for carrying out this section, including funds for military construction p
 
 #### (i) Reaffirmation of United States position on first use of chemical agents and munitions
 
-It is the sense of Congress that the President should publicly reaffirm the position of the United States as set out in the Geneva Protocol of 1925, which the United States ratified with reservations in 1975.
+It is the sense of Congress that the President should publicly reaffirm the position of theUnited States as set out in the Geneva Protocol of 1925, which the United States ratified with reservations in 1975.
 
 #### (j) Definitions
 
 For purposes of this section:
 
-&emsp;(1) The term “chemical agent and munition” means an agent or munition that, through its chemical properties, produces lethal or otherdamaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
+&emsp;(1) The term “chemical agent and munition” means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
 &emsp;(2) The term “lethal chemical agent and munition” means a chemical agent or munition that is designed to cause death, through its chemical properties, to human beings in field concentrations.
 
@@ -186,7 +186,7 @@ Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior t
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Chemical Demilitarization Citizens Advisory Commissions
 

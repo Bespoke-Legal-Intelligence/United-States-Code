@@ -118,7 +118,7 @@ In subsection (b), the words “an employee is entitled to compensation” are s
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–416, §4, substituted “involving the loss, or loss of use” for “involving the loss of use”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §4, substituted “involving the loss, or loss of use” for “involving the loss of use”.
 
 Subsec. (c)(22). Pub. L. 93–416, §5, added par. (22).
 

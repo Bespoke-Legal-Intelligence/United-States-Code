@@ -6,13 +6,13 @@ The Secretary may make grants to States to pay the Federal share of the cost of 
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated for purposes of carrying out this part<sup>1</sup> $20,000,000 for fiscal year 1988.
+There are authorized to be appropriated for purposes of carrying out this part <sup>1</sup> $20,000,000 for fiscal year 1988.
 
-(Pub. L. 98 377, title III, §322, as added Pub. L. 100 418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
+(Pub. L. 98–377, title III, §322, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
 #### References in Text
 
-This part, referred to in subsec. (b), was in the original “this chapter” and was translated as reading “this part” to reflect the probable intent of Congress because title III of Pub. L. 98 377, which comprises this subchapter, does not contain chapters.
+This part, referred to in subsec. (b), was in the original “this chapter” and was translated as reading “this part” to reflect the probable intent of Congress because title III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

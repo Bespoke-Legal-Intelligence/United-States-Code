@@ -34,7 +34,7 @@
 
 (d) After July 18, 1994, an existing vessel (except an existing vessel referred to in subsection (b)(5)(A) or (B) of this section) may retain its tonnages existing on July 18, 1994, for the application of relevant requirements under international agreements (except the Convention) and other laws of the United States. However, if the vessel undergoes a change substantially affecting its tonnage after July 18, 1994, the vessel shall be remeasured under this chapter.
 
-(e) This chapter does not affect an international agreement to which the United StatesGovernment is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
+(e) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
 
 (Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; amended Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985.)
 

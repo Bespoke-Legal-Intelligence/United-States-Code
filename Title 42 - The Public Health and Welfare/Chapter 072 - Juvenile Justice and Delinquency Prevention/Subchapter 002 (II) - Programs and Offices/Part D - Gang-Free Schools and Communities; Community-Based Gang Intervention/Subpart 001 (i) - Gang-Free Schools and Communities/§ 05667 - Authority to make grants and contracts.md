@@ -40,7 +40,7 @@
 
 &emsp;(2) to evaluate the effectiveness of programs and activities funded under subsection (a) of this section; and
 
-&emsp;(3) to increase the knowledge of the public (including public and private agencies that operate or desire to operate gang prevention andintervention programs) by disseminating information on research and on effective programs and activities funded under this subpart.
+&emsp;(3) to increase the knowledge of the public (including public and private agencies that operate or desire to operate gang prevention and intervention programs) by disseminating information on research and on effective programs and activities funded under this subpart.
 
 (Pub. L. 93–415, title II, §281, as added Pub. L. 102–586, §2(i), Nov. 4, 1992, 106 Stat. 5001.)
 

@@ -32,7 +32,7 @@ The Secretary shall provide—
 
 &emsp;(2) an index of leading indicators which includes the measurement of service sector activity in direct proportion to the contribution of the service sector to the gross national product of the United States.
 
-(Pub. L. 100 418, title V, §5408, Aug. 23, 1988, 102 Stat. 1466.)
+(Pub. L. 100–418, title V, §5408, Aug. 23, 1988, 102 Stat. 1466.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under this section with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program,owes a past-due obligation to the United States (as defined in subsection (b) of this section).
+(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under this section with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b) of this section).
 
 (B) The Secretary shall not enter into an agreement with an individual under this section to the extent—
 
@@ -64,7 +64,7 @@ This section shall not preclude the United States from applying other provisions
 
 Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4052(a), 101 Stat. 1330–95; amended July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), 102 Stat. 780; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), 102 Stat. 2420.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4052(a),101 Stat. 1330–95; amended July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), 102 Stat. 780; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), 102 Stat. 2420.)
 
 #### References in Text
 

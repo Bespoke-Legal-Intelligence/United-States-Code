@@ -26,7 +26,7 @@
 
 #### Prior Provisions
 
-A prior section 7 of Pub. L. 89–92 was redesignated section 8 and is classified to section 1336 of this title.
+A prior section 7 of Pub. L. 89–92 was renumbered section 8 and is classified to section 1336 of this title.
 
 #### Effective Date of 1984 Amendment
 

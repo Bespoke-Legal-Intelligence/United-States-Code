@@ -14,7 +14,7 @@
 
 #### (b) Recipient noncompliance and Secretary's action
 
-Whenever the Secretary finds that a State or other recipient has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with paragraph (2), (3), (4), or (5) ofsubsection (a) of this section, or with an applicable regulation prescribed to carry out such paragraphs, the Secretary shall notify such State or recipient and shall request it to comply. If within a reasonable period of time, not to exceed sixty days, the State or recipient fails or refuses to comply, the Secretary may—
+Whenever the Secretary finds that a State or other recipient has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with paragraph (2), (3), (4), or (5) of subsection (a) of this section, or with an applicable regulation prescribed to carry out such paragraphs, the Secretary shall notify such State or recipient and shall request it to comply. If within a reasonable period of time, not to exceed sixty days, the State or recipient fails or refuses to comply, the Secretary may—
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 

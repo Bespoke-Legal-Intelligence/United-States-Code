@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Technical assistance
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may provide technical assistance to public and nonprofit private entities with respect to the planning, development, and operation of any program or service carried out pursuant to this part. The Secretary may provide such technical assistance directly or through grants or contracts.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may provide technical assistance to public and nonprofit private entities with respect to the planning, development, and operation of any program or service carried out pursuant to this part. The Secretary may provide such technical assistance directly or through grants or contracts.
 
 #### (c) Biennial report
 
@@ -34,7 +34,7 @@ A prior section 394 of act July 1, 1944, was renumbered section 394A and is clas
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Advisory Committees
 

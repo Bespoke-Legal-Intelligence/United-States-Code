@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 103–337, §1317(g)(5), added subsec. (c).
 
 1992—Subsec. (a)(1). Pub. L. 102–484, §1312(b)(1), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
 
-Subsec. (a)(2). Pub. L. 102–484, §1312(b)(2), substituted “involving the armed forces, the total amount of reimbursable liabilities that the United States may accrueunder this subchapter (before the computation of offsetting balances) with” for “in the military region affecting” and struck out “the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with such country” after “cross-servicing agreements,”.
+Subsec. (a)(2). Pub. L. 102–484, §1312(b)(2), substituted “involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with” for “in the military region affecting” and struck out “the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with such country” after “cross-servicing agreements,”.
 
 Subsec. (b)(1). Pub. L. 102–484, §1312(b)(3), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
 

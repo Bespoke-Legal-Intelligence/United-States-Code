@@ -42,7 +42,7 @@
 
 #### (d) Limitation on preaward audits relating to indirect costs
 
-An executive agency may not perform a preaward audit to evaluate proposed indirect costsunder any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
+An executive agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
 
 #### (e) Limitation
 
@@ -88,7 +88,7 @@ Section 3 and 8G of the Inspector General Act of 1978, referred to in subsec. (b
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

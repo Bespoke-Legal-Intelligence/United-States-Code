@@ -32,7 +32,7 @@ Whoever—
 
 As used in this section, the term “debit instrument” means a card, code, or other device, other than a check, draft, or similar paper instrument, by the use of which a person may initiate an electronic fund transfer.
 
-(Pub. L. 90 321, title IX, §916, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3738.)
+(Pub. L. 90–321, title IX, §916, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3738.)
 
 #### Section Referred to in Other Sections
 

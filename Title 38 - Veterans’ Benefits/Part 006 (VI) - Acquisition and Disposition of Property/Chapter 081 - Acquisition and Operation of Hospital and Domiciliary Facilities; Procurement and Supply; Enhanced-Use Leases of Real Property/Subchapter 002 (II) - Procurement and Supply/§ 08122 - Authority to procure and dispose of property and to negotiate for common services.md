@@ -8,13 +8,13 @@
 
 (C) Amounts realized from the transfer of any interest in real property described in subparagraph (B) of this paragraph shall be deposited in the nursing home revolving fund established under section 8116 of this title.
 
-(3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regard to paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described in subparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
+(3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regardto paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described in subparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
 
 (B) A transfer of real property may not be made under this paragraph unless—
 
 &emsp;(i) the Secretary has determined that the State has provided sufficient assurance that it has the resources (including any resources which are reasonably likely to be available to the State under subchapter III of chapter 81 of this title and section 1741 of this title) necessary to construct and operate a State home nursing or domiciliary care facility; and
 
-&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary carefacility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapter III of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
+&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapter III of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
 
 (C) A transfer of real property may not be made under this paragraph until—
 

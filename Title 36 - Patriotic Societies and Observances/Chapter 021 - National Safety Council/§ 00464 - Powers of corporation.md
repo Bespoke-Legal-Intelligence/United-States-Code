@@ -8,7 +8,7 @@ The corporation shall have power—
 
 &emsp;(3) to choose such officers, directors, trustees, managers, agents, and employees as the business of the corporation may require;
 
-&emsp;(4) to adopt, amend, and alter a constitution and bylaws, not inconsistent with the laws of the United States or any State in which the corporation is to operate, for the management of its property and the regulation of its affairs;
+&emsp;(4) to adopt, amend, and alter a constitution and bylaws, not inconsistent with the laws of the United States or any State in which thecorporation is to operate, for the management of its property and the regulation of its affairs;
 
 &emsp;(5) to contract and be contracted with;
 
@@ -28,7 +28,7 @@ The corporation shall have power—
 
 &emsp;(13) to adopt, alter, use, and display such emblems, seals, and badges as it may adopt;
 
-&emsp;(14) to establish and maintain offices for the conduct of its business, and to charter local,State, and regional safety organizations, and to establish, regulate, and discontinue departmental subdivisions and local, State, and regional chapters in appropriate places throughout the United States, its Territories and possessions; and
+&emsp;(14) to establish and maintain offices for the conduct of its business, and to charter local, State, and regional safety organizations, and to establish, regulate, and discontinue departmental subdivisions and local, State, and regional chapters in appropriate places throughout the United States, its Territories and possessions; and
 
 &emsp;(15) to do any and all acts and things necessary and proper to carry out the objects and purposes of the corporation and, for such purpose, the corporation shall also have, in addition to the foregoing in this section and subsection, the rights, powers, duties, and liabilities of the existing corporation referred to in section 478 of this title as far as they are not modified or superseded by this chapter.
 

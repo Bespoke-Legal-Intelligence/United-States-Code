@@ -4,7 +4,7 @@
 
 &emsp;(1) notify the agency of such performance deficiency; and
 
-&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided in section 3903(c) of this title), from the date of the contractor's receipt of such unearned amount until—
+&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided in section 3903(c) of this title), from the date ofthe contractor's receipt of such unearned amount until—
 
 &emsp;&emsp;(A) the date the contractor notifies the agency that the performance deficiency has been corrected; or
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) the date that any subsequent payment is reduced under paragraph (5)(A).
 
-(f)(1) If a prime contractor, after making payment to a first-tier subcontractor, receives from a supplier or subcontractor of the first-tier subcontractor (hereafter referred to as a “second-tier subcontractor”) a written notice in accordance with section 2 of the Act of August 24, 1935 (40 U.S.C. 270b), asserting a deficiency in such first-tier subcontractor's performance under thecontract for which the prime contractor may be ultimately liable, and the prime contractor determines that all or a portion of future payments otherwise due such first-tier subcontractor is subject to withholding in accordance with the subcontract agreement, then the prime contractor may, without incurring an obligation to pay an interest penalty under subsection (e)(6) of this section—
+(f)(1) If a prime contractor, after making payment to a first-tier subcontractor, receives from a supplier or subcontractor of the first-tier subcontractor (hereafter referred to as a “second-tier subcontractor”) a written notice in accordance with section 2 of the Act of August 24, 1935 (40 U.S.C. 270b), asserting a deficiency in such first-tier subcontractor's performance under the contract for which the prime contractor may be ultimately liable, and the prime contractor determines that all or a portion of future payments otherwise due such first-tier subcontractor is subject to withholding in accordance with the subcontract agreement, then the prime contractor may, without incurring an obligation to pay an interest penalty under subsection (e)(6) of this section—
 
 &emsp;(A) furnish to the first-tier subcontractor a notice conforming to the standards of subsection (g) of this section as soon as practicable upon making such determination; and
 

@@ -1,4 +1,4 @@
-### §2015 . Lending authority
+### §2015. Lending authority
 
 #### (a) Real estate loans and related assistance
 

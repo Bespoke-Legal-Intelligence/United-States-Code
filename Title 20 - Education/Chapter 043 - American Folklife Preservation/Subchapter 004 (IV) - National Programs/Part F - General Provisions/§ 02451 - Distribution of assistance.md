@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the provisions of subsection (b) of this section and section 2466a of this title, of the amounts available pursuant to section 2302(e)(1)<sup>1</sup> of this title for any fiscal year for this subchapter—
+Subject to the provisions of subsection (b) of this section and section 2466a of this title, of the amounts available pursuant to section 2302(e)(1) <sup>1</sup> of this title for any fiscal year for this subchapter—
 
 &emsp;(1) 30 percent shall be available for part A, relating to research and development, of which 90 percent shall be available for section 2404 of this title, relating to the National Center or Centers;
 
@@ -18,13 +18,13 @@ Subject to the provisions of subsection (b) of this section and section 2466a of
 
 #### (b) Hold harmless
 
-Notwithstanding the provisions of subsection (a) of this section, the amounts available to carry out the activities described in subsection (a)(1) of this section and in subsections (a)(3)(A) and (a)(3)(C) of this section shall be at least equal to the amounts made available for such activities in the fiscal year 1990.
+Notwithstanding the provisions of subsection (a) of this section, the amounts available tocarry out the activities described in subsection (a)(1) of this section and in subsections (a)(3)(A) and (a)(3)(C) of this section shall be at least equal to the amounts made available for such activities in the fiscal year 1990.
 
-(Pub. L. 88 210, title IV, §451, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 101 392, title IV, §412, Sept. 25, 1990, 104 Stat. 829.)
+(Pub. L. 88–210, title IV, §451, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 101–392, title IV, §412, Sept. 25, 1990, 104 Stat. 829.)
 
 #### Amendments
 
-1990—Pub. L. 101 392 amended section generally. Prior to amendment, section read as follows:
+1990—Pub. L. 101–392 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Subject to the provisions of subsection (b) of this section, of the amounts available pursuant to section 2302(e) of this title for any fiscal year for this subchapter—
 
@@ -44,7 +44,7 @@ Notwithstanding the provisions of subsection (a) of this section, the amounts av
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

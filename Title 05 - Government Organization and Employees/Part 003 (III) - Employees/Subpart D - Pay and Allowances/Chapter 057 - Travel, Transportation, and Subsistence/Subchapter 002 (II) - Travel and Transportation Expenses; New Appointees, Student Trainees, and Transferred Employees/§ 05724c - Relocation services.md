@@ -6,7 +6,7 @@ Under such regulations as the President may prescribe, each agency is authorized
 
 #### Amendments
 
-1984—Pub. L. 98–473 amended section generally, adding authority of the President to prescribe regulations.
+<b>1984</b>—Pub. L. 98–473 amended section generally, adding authority of the President to prescribe regulations.
 
 #### Effective Date; Promulgation of Regulations
 
@@ -18,7 +18,7 @@ Authority of President to prescribe regulations under this section delegated to 
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amountsexceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
 #### Section Referred to in Other Sections
 

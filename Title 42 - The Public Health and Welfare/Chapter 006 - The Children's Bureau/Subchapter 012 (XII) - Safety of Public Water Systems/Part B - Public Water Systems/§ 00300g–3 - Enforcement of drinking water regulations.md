@@ -36,7 +36,7 @@ Each owner or operator of a public water system shall give notice to the persons
 
 &emsp;(1) of any failure on the part of the public water system to—
 
-&emsp;&emsp;(A) comply with an applicable maximum contaminant level or treatment technique requirement of, or a testing procedure prescribed by, a national primary drinking water regulation, or
+&emsp;&emsp;(A) comply with an applicable maximum contaminant level or treatment techniquerequirement of, or a testing procedure prescribed by, a national primary drinking water regulation, or
 
 &emsp;&emsp;(B) perform monitoring required by section 300j–4(a) of this title, and
 
@@ -58,7 +58,7 @@ Nothing in this subchapter shall diminish any authority of a State or political 
 
 #### (f) Notice and public hearing; availability of recommendations transmitted to State and public water system
 
-If the Administrator makes a finding of noncompliance (described in subparagraph (A) or (B) of subsection (a)(1) of this section) with respect to a public water system in a State which has primary enforcement responsibility, the Administrator may, for the purpose of assisting that State in carrying out such responsibility and upon the petition of such State or public water system or persons served by such system, hold, after appropriate notice, public hearings for the purpose of gathering information from technicalor other experts, Federal, State, or other public officials, representatives of such public water system, persons served by such system, and other interested persons on—
+If the Administrator makes a finding of noncompliance (described in subparagraph (A) or (B) of subsection (a)(1) of this section) with respect to a public water system in a State which has primary enforcement responsibility, the Administrator may, for the purpose of assisting that State in carrying out such responsibility and upon the petition of such State or public water system or persons served by such system, hold, after appropriate notice, public hearings for the purpose of gathering information from technical or other experts, Federal, State, or other public officials, representatives of such public water system, persons served by such system, and other interested persons on—
 
 &emsp;(1) the ways in which such system can within the earliest feasible time be brought into compliance with the regulation or requirement with respect to which such finding was made, and
 
@@ -70,7 +70,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 (1) In any case in which the Administrator is authorized to bring a civil action under this section or under section 300j–4 of this title with respect to any regulation, schedule, or other requirement, the Administrator also may issue an order to require compliance with such regulation, schedule, or other requirement.
 
-(2) An order issued under this subsection shall not take effect until after notice and opportunity for public hearing and, in the case of a State having primary enforcement responsibility for public water systems in that State, until after the Administrator has provided the State with an opportunity to confer with the Administrator regarding the proposed order. A copy of any order proposed to be issued under this subsection shall be sent to the appropriate State agency of the State involved if the State has primary enforcement responsibility for public water systems in that State. Any order issued under this subsection shall state with reasonable specificity the nature of the violation. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be issued to appropriate corporate officers.
+(2) An order issued under this subsection shall not take effect until after notice and opportunity for public hearing and, in the case of a State having primary enforcement responsibility for public water systems in that State, until after the Administrator has provided the Statewith an opportunity to confer with the Administrator regarding the proposed order. A copy of any order proposed to be issued under this subsection shall be sent to the appropriate State agency of the State involved if the State has primary enforcement responsibility for public water systems in that State. Any order issued under this subsection shall state with reasonable specificity the nature of the violation. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be issued to appropriate corporate officers.
 
 (3)(A) Any person who violates, or fails or refuses to comply with, an order under this subsection shall be liable to the United States for a civil penalty of not more than $25,000 per day of violation.
 

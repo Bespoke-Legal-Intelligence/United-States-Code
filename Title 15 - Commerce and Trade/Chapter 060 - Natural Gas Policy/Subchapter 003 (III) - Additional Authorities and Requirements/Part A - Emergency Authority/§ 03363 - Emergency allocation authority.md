@@ -28,7 +28,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;&emsp;(C) the exercise of authority under this subsection is reasonably necessary to assist in meeting natural gas requirements for such high-priority uses; and
 
-&emsp;&emsp;(D) any interstate pipeline or local distribution company receiving such naturalgas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to to<sup>1</sup> the maximum extent practicable to terminate such deliveries.
+&emsp;&emsp;(D) any interstate pipeline or local distribution company receiving such natural gas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to to <sup>1</sup> the maximum extent practicable to terminate such deliveries.
 
 #### (2) Allocation authority
 
@@ -54,7 +54,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 #### (2) Required notification from State
 
-#### (A)<sup>2</sup> Notification
+#### (A) <sup>2</sup> Notification
 
 &emsp;&emsp;The President shall not allocate supplies of natural gas under this subsection unless he is notified by the Governor of any State that—
 
@@ -98,7 +98,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;&emsp;(D) any interstate pipeline or local distribution company receiving such natural gas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to the maximum extent practicable to terminate such deliveries; and
 
-&emsp;&emsp;(E) such allocation will not create, for the person who owns and would otherwise usesuch natural gas, a supply shortage which will cause such person to be unable to satisfy such person's natural gas requirements for high-priority uses.
+&emsp;&emsp;(E) such allocation will not create, for the person who owns and would otherwise use such natural gas, a supply shortage which will cause such person to be unable to satisfy such person's natural gas requirements for high-priority uses.
 
 #### (2) Allocation authority
 
@@ -164,13 +164,13 @@ For purposes of this section, the term “high-priority use” means any—
 
 &emsp;(3) any use of natural gas the curtailment of which the President determines would endanger life, health, or maintenance of physical property.
 
-(Pub. L. 95 621, title III, §303, Nov. 9, 1978, 92 Stat. 3383.)
+(Pub. L. 95–621, title III, §303, Nov. 9, 1978, 92 Stat. 3383.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 717z, 3361, 3364, 3373, 3374, 3412, 3414, 3416, 3431, 3432 of this title.
 
-<i><sup>1</sup></i><i>So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i>So in original. Par. (2) enacted without a subpar. (B).</i>
+<i><sup>2</sup></i><i> So in original. Par. (2) enacted without a subpar. (B).</i>
 

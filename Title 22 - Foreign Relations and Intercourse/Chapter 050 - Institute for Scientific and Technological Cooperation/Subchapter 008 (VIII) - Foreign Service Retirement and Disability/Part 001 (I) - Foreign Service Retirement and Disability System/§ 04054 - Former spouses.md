@@ -28,7 +28,7 @@
 
 &emsp;(A) the annuity of that former spouse shall commence on the date the participant would qualify on the basis of his or her creditable service for an annuity under this part (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
 
-&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of theannuity for which the participant would otherwise so qualify.
+&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
 (7) An annuity under this subsection shall be treated the same as a survivor annuity under subsection (b) of this section for purposes of section 4046(h) of this title or any comparable provision of law.
 
@@ -44,7 +44,7 @@
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
-(3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse'sdeath or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 (4)(A) The maximum survivor annuity or combination of survivor annuities under this section (and section 4046(b)(3) of this title) with respect to any participant or former participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 4046(a) of this title.
 
@@ -84,7 +84,7 @@
 
 &emsp;(ii) any amount accruing to the Fund under subparagraph (A) shall be refunded, but only to the extent that such amount may have exceeded the actuarial cost of providing benefits under this subsection for the period such benefits were provided, as determined under regulations prescribed by the Secretary of State.
 
-(D) Under regulations prescribed by the Secretary of State, an annuity shall be recomputed\(or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
+(D) Under regulations prescribed by the Secretary of State, an annuity shall be recomputed (or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
 
 (4) An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60.
 

@@ -46,7 +46,7 @@ There shall be in the Department of State not more than 66 Deputy Assistant Secr
 
 In addition to officials of the Department of State who are otherwise authorized to be appointed by the President, by and with the advice and consent of the Senate, and to be compensated at level IV of the Executive Schedule of <sup>1</sup> section 5315 of title 5 four other such appointments are authorized.
 
-(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Aug. 24,1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Apr. 30, 1994, Pub. L. 103–236, title I, §161(a), 108 Stat. 402; Oct. 25, 1994, Pub. L. 103–415, §1(f)(1), 108 Stat. 4299.)
+(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Apr. 30, 1994, Pub. L. 103–236, title I, §161(a), 108 Stat. 402; Oct. 25, 1994, Pub. L. 103–415, §1(f)(1), 108 Stat. 4299.)
 
 #### References in Text
 

@@ -30,9 +30,9 @@ Periodic Audits by GAO.—The Comptroller General of the United States shall mak
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, §1451(c).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, §1451(c).
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the UnitedStates shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 

@@ -116,7 +116,7 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978.”
+Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that:“The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978.”
 
 #### Effective Date of 1972 Amendment
 
@@ -130,7 +130,7 @@ Section 7 of Pub. L. 92–218 provided that:
 
 “(b) The first sentence of section 454 of the Public Health Service Act \[section 289<i>l</i> of this title\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
 
-“(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[section 286f of this title\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of thisAct \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B \[section 286f of this title\].”
+“(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[section 286f of this title\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B \[section 286f of this title\].”
 
 #### Effective Date of 1950 Amendment
 
@@ -144,7 +144,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 For transfer of certain membership functions, insofar as they pertain to the Air Force, which functions were not previously transferred from Secretary of the Army to Secretary of the Air Force and from Department of the Army to Department of the Air Force, see Secretary of Defense Transfer Order No. 40 \[App. C(7)\], July 22, 1949.
 
-#### Expiration of Terms of Office on September 30, 1950
+#### Expiration of Terms of Office on September 30, 1950
 
 Section 3(c) of act Aug. 15, 1950, provided in part that terms of office as members of national advisory councils pursuant to this section subsisting on Sept. 30, 1950, shall expire at the close of business on such day.
 

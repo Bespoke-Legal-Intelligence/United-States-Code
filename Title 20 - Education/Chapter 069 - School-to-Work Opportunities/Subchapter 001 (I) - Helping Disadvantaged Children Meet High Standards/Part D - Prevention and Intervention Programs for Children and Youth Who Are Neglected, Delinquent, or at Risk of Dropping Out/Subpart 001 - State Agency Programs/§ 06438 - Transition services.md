@@ -16,5 +16,5 @@ Any funds reserved under subsection (a) of this section shall be used only to pr
 
 Nothing in this section shall be construed to prohibit a school that receives funds under subsection (a) of this section from serving neglected and delinquent children simultaneously with students with similar educational needs, in the same educational settings where appropriate.
 
-(Pub. L. 89 10, title I, §1418, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3597.)
+(Pub. L. 89–10, title I, §1418, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3597.)
 

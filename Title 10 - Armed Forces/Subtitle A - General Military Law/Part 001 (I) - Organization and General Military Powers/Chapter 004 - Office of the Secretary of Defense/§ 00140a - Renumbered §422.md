@@ -1,4 +1,4 @@
-### \[§140a . Renumbered §422\]
+### \[§140a. Renumbered §422\]
 
 #### Prior Provisions
 

@@ -32,7 +32,7 @@
 
 &emsp;(B) to ensure compliance with the terms of the contract and prudent management.
 
-(6) Costs incurred before the initial year that a self-determination contract is in effect may not be included in the amount required to be paid under paragraph (2) if the Secretary does not receive a written notification of the nature and extent of the costs prior to the date on which such costs are incurred.
+(6) Costs incurred before the initial year that a self-determination contract is in effect may not be included in the amount required to bepaid under paragraph (2) if the Secretary does not receive a written notification of the nature and extent of the costs prior to the date on which such costs are incurred.
 
 #### (b) Reductions and increases in amount of funds provided
 
@@ -92,7 +92,7 @@ Any right of action or other remedy (other than those relating to a criminal off
 
 #### (g) Addition to contract of full amount contractor entitled; adjustment
 
-Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
+Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractoris entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
 
 #### (h) Indirect costs for contracts for construction programs
 

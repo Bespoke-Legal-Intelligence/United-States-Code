@@ -12,7 +12,7 @@ A declaration of forfeiture under this section shall have the same force and eff
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §609, 42 Stat. 985. That section was superseded by section 609 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §609, 42 Stat. 985. That section was superseded by section 609 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions for sale of the property by the collector if no claim should be filed or bond given, were contained in R.S. §3077, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

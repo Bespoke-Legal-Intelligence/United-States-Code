@@ -14,7 +14,7 @@ If any additional amount is made available for carrying out this subchapter for 
 
 #### (d) Reprogramming
 
-If the amount appropriated for a program year is in excess of the amount necessary to pay eachState the amount each State is eligible to receive, the Secretary shall allot the excess amount to the States for allocation to the service delivery areas in accordance with section 1602 of this title to carry out part A of subchapter II of this chapter.
+If the amount appropriated for a program year is in excess of the amount necessary to pay each State the amount each State is eligible to receive, the Secretary shall allot the excess amount to the States for allocation to the service delivery areas in accordance with section 1602 of this title to carry out part A of subchapter II of this chapter.
 
 (Pub. L. 97–300, title V, §502, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096.)
 

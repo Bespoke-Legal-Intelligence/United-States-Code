@@ -14,7 +14,7 @@ Technology and Industrial Base Sector Capability Analysis.—Each assessment und
 
 &emsp;(3) An analysis of the impact of the terminations and significant reductions of major research and development programs and procurement programs of the Department of Defense on the capability of those technology and industrial base sectors that are critical to attaining each of the national security objectives set forth in section 2501(a) of this title during a period of reduction in defense expenditures.
 
-&emsp;(4) A critical technology analysis that identifies the product and process technologiesthat are most critical for attaining the national security objectives set forth in section 2501(a) of this title.
+&emsp;(4) A critical technology analysis that identifies the product and process technologies that are most critical for attaining the national security objectives set forth in section 2501(a) of this title.
 
 (c)
 

@@ -1,4 +1,4 @@
-### §3575 . Rank: warrant officers
+### §3575. Rank: warrant officers
 
 Warrant officers rank next below second lieutenants and rank among themselves within each warrant officer grade under regulations to be prescribed by the Secretary of the Army.
 

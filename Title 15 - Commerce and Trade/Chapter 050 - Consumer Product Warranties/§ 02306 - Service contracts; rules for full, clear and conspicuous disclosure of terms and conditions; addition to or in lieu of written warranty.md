@@ -4,5 +4,5 @@
 
 (b) Nothing in this chapter shall be construed to prevent a supplier or warrantor from entering into a service contract with the consumer in addition to or in lieu of a written warranty if such contract fully, clearly, and conspicuously discloses its terms and conditions in simple and readily understood language.
 
-(Pub. L. 93 637, title I, §106, Jan. 4, 1975, 88 Stat. 2188.)
+(Pub. L. 93–637, title I, §106, Jan. 4, 1975, 88 Stat. 2188.)
 

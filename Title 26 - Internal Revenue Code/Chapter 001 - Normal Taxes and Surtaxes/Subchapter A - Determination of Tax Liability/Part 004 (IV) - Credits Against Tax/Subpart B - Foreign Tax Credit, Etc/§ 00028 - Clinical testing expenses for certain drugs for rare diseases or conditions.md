@@ -88,7 +88,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
 
-&emsp;&emsp;&emsp;(ii) such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom thedesignation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
+&emsp;&emsp;&emsp;(ii) such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
 
 #### (B) Special limitation for corporations to which section 936 applies
 
@@ -132,7 +132,7 @@ Subsec. (e). Pub. L. 101–508, §11411, substituted “December 31, 1991” for
 
 1988—Subsec. (b)(1)(D). Pub. L. 100–647, §4008(c)(1), substituted “1989” for “1988”.
 
-Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act, and”.
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for suchdrug is issued under section 351 of the Public Health Services Act, and”.
 
 1986—Subsec. (b)(1). Pub. L. 99–514, §231(d)(3)(A)(i), (iv), substituted “41” for “30” in subpars. (A), (B), and (D), and substituted “1988” for “1985” in subpar. (D).
 
@@ -208,7 +208,7 @@ Section 4(d) of Pub. L. 97–414 provided that: “The amendments made by this s
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(c)(2) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(c)(2) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been includedin the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

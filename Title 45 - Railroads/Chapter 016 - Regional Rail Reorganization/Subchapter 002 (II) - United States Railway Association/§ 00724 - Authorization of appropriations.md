@@ -24,7 +24,7 @@ There are authorized to be appropriated to the Association for purposes of carry
 
 1978—Subsec. (c). Pub. L. 95–611 substituted provision authorizing appropriations of $27,200,000 for fiscal year ending Sept. 30, 1979, to remain available until expended, for provision authorizing appropriations of $23,000,000 for fiscal year ending Sept. 30, 1978, to remain available until Sept. 30, 1979.
 
-1977—Subsec. (c). Pub. L. 95–199 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 and authorizing availability of sums to Sept. 30, 1979, for provisions authorizing appropriations for the period beginning May 1, 1976, and ending Sept. 30, 1977, of not to exceed $20,000,000 and authorizing availability of sums to Sept. 30, 1978.
+1977—Subsec. (c). Pub. L. 95–199 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 and authorizing availability of sums to Sept. 30, 1979, for provisions authorizing appropriations for the period beginning May1, 1976, and ending Sept. 30, 1977, of not to exceed $20,000,000 and authorizing availability of sums to Sept. 30, 1978.
 
 1976—Subsec. (a). Pub. L. 94–210, §607(n), inserted provision authorizing appropriation of sums to discharge the obligation of the United States under section 743(c)(5) of this title.
 
@@ -42,11 +42,15 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–73 effective Oct. 1, 1979, see section 501(a) of Pub. L. 96–73.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

@@ -66,7 +66,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (F) Establishment of health and safety requirements
 
-&emsp;&emsp;Provide assurances that there are in effect within the State, under State or local law, requirements designed to protect the health and safety of children that are applicable to child care providers that provide services for which assistance is made available under this subchapter. Such requirements shall include—
+&emsp;&emsp;Provide assurances that there are in effect within the State, under State or local law,requirements designed to protect the health and safety of children that are applicable to child care providers that provide services for which assistance is made available under this subchapter. Such requirements shall include—
 
 &emsp;&emsp;&emsp;(i) the prevention and control of infectious diseases (including immunization);
 
@@ -96,7 +96,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (A) General requirement
 
-&emsp;&emsp;The State plan shall provide that the State will use the amounts provided to theState for each fiscal year under this subchapter as required under subparagraphs (B) and (C).
+&emsp;&emsp;The State plan shall provide that the State will use the amounts provided to the State for each fiscal year under this subchapter as required under subparagraphs (B) and (C).
 
 #### (B) Child care services
 

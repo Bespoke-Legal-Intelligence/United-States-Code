@@ -6,7 +6,7 @@
 
 (c)(1) If any member or former member of a uniformed service is receiving retired or retainer pay and is employed in a position the annual rate of basic pay for which, when combined with the member's annual rate of retired or retainer pay (reduced as provided under subsection (b) of this section), exceeds the rate of basic pay then currently paid for level V of the Executive Schedule, such member's retired or retainer pay shall be reduced by an amount computed under paragraph (2) of this subsection. The amounts of the reductions shall be deposited to the general fund of the Treasury of the United States.
 
-(2) The amount of each reduction under paragraph (1) of this subsection allocable for any pay period in connection with employment in a position shall be equal to the retired or retainer payallocable to the pay period (reduced as provided under subsection (b) of this section), except that the amount of the reduction may not result in—
+(2) The amount of each reduction under paragraph (1) of this subsection allocable for any pay period in connection with employment in a position shall be equal to the retired or retainer pay allocable to the pay period (reduced as provided under subsection (b) of this section), except that the amount of the reduction may not result in—
 
 &emsp;(A) the amount of retired or retainer pay allocable to the pay period after being reduced, when combined with the basic pay for the employment during the pay period, being at a rate less than the rate of basic pay then currently paid for level V of the Executive Schedule; or
 
@@ -56,7 +56,7 @@
 
 &emsp;(C) with respect to an employee of the Senate, by the Committee on Rules and Administration of the Senate.
 
-(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head,the Speaker of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
+(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Speaker of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
 
 (j) For the purpose of subsections (g) through (i), “Executive agency” shall not include the General Accounting Office.
 
@@ -94,35 +94,35 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1992—Subsec. (g). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(1). See 1990 Amendment note below.
+<b>1992</b>—Subsec. (g). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(1). See 1990 Amendment note below.
 
-1991—Subsec. (d)(1)(B). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
+<b>1991</b>—Subsec. (d)(1)(B). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
 Subsecs. (h) to (j). Pub. L. 102–190 added subsecs. (h) to (j).
 
-1990—Subsec. (g). Pub. L. 101–510, §1206(j)(1), which added a subsec. (g) identical to that added by Pub. L. 101–509, see below, was repealed by Pub. L. 102–378, §8(a). See Elimination of Duplicative Amendments note below.
+<b>1990</b>—Subsec. (g). Pub. L. 101–510, §1206(j)(1), which added a subsec. (g) identical to that added by Pub. L. 101–509, see below, was repealed by Pub. L. 102–378, §8(a). See Elimination of Duplicative Amendments note below.
 
 Subsec. (g). Pub. L. 101–509 added subsec. (g).
 
-1988—Subsec. (f)(2). Pub. L. 100–457 substituted “1989” for “1988”.
+<b>1988</b>—Subsec. (f)(2). Pub. L. 100–457 substituted “1989” for “1988”.
 
-1987—Subsec. (f)(2). Pub. L. 100–202, §101(<i>l</i>) \[title I, §101\], substituted “1988” for “1987”.
+<b>1987</b>—Subsec. (f)(2). Pub. L. 100–202, §101(<i>l</i>) \[title I, §101\], substituted “1988” for “1987”.
 
 For amendment by section 106 of Pub. L. 100–202, see 1986 Amendment note below.
 
-1986—Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(<i>l</i>), as enacted by Pub. L. 100–202, §106, substituted “December 31, 1987” for “December 31, 1986”. See Codification note above.
+<b>1986</b>—Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(<i>l</i>), as enacted by Pub. L. 100–202, §106, substituted “December 31, 1987” for “December 31, 1986”. See Codification note above.
 
-1985—Subsec. (f)(2). Pub. L. 99–88 substituted “December 31, 1986” for “December 31, 1985”.
+<b>1985</b>—Subsec. (f)(2). Pub. L. 99–88 substituted “December 31, 1986” for “December 31, 1985”.
 
-1984—Subsec. (f)(1). Pub. L. 98–525, §1537(b)(1), inserted “or of the Secretary of Defense”.
+<b>1984</b>—Subsec. (f)(1). Pub. L. 98–525, §1537(b)(1), inserted “or of the Secretary of Defense”.
 
 Subsec. (f)(2). Pub. L. 98–525, §1537(b)(2), inserted “or the Secretary of Defense” and “or such Secretary, respectively”.
 
 Pub. L. 98–396 substituted “December 31, 1985” for “December 31, 1984”.
 
-1982—Subsec. (f). Pub. L. 97–276 added subsec. (f).
+<b>1982</b>—Subsec. (f). Pub. L. 97–276 added subsec. (f).
 
-1978—Pub. L. 95–454, §308(f)(1), substituted “members of the uniformed services; reduction in retired or retainer pay” for “officers of the uniformed services; reduction in retired or retirement pay; exceptions” in section catchline.
+<b>1978</b>—Pub. L. 95–454, §308(f)(1), substituted “members of the uniformed services; reduction in retired or retainer pay” for “officers of the uniformed services; reduction in retired or retirement pay; exceptions” in section catchline.
 
 Subsec. (b). Pub. L. 95–454, §308(e), substituted “or retainer” for “or retirement” wherever appearing.
 
@@ -178,7 +178,7 @@ Section 655(d) of Pub. L. 102–190 provided that:
 
 #### Reduction in Pay of Members of a Uniformed Service Holding Civilian Positions While Receiving Retired or Retainer Pay
 
-Pub. L. 97–253, title III, §301(d), Sept. 8, 1982, 96 Stat. 791, as amended by Pub. L. 97–346, §3(h), Oct. 15, 1982, 96 Stat. 1648, which provided that in the case of any member or former member of a uniformed service who, during any period in fiscal year 1983, 1984, or 1985, was receiving retired or retainer pay and held a civilian position, there would be deducted from the pay for such position, in accordance with regulations issued by the Office of Personnel Management, an amount equal to the amount of any increase in such individual's retired or retainer pay pursuant to section 1401a(b) of Title 10, Armed Forces, which took effect during any of such fiscal years in which he held such a civilian position and which was allocable to the period of actual employment in such civilian position, was repealed by Pub. L. 98–369, div. B, title II, §2203, July 18, 1984, 98 Stat. 1059, effective with respect to pay periods beginning after July 18, 1984.
+Pub. L. 97–253, title III, §301(d), Sept. 8, 1982, 96 Stat. 791, as amended by Pub. L. 97–346, §3(h), Oct. 15, 1982, 96 Stat. 1648, provided that in the case of any member or former member of a uniformed service who, during any period in fiscal year 1983, 1984, or 1985, was receiving retired or retainer pay and held a civilian position, there would be deducted from the pay for such position, in accordance with regulations issued by the Office of Personnel Management, an amount equal to the amount of any increase in such individual's retired or retainer pay pursuant to section 1401a(b) of Title 10, Armed Forces, which took effect during any of such fiscal years in which he held such a civilian position and which was allocable to the period of actual employment in such civilian position, prior to repeal by Pub. L. 98–369, div. B, title II, §2203, July 18, 1984, 98 Stat. 1059, effective with respect to pay periods beginning after July 18, 1984.
 
 #### Dual Pay Requirements for Pay Periods Subsequent to Enactment of Civil Service Act of 1978
 

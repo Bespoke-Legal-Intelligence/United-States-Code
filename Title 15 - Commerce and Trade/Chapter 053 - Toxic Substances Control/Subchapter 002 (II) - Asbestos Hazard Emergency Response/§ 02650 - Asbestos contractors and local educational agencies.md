@@ -20,7 +20,7 @@
 
 #### (2) Interim report
 
-&emsp;Not later than April 1, 1988, the Administrator shall submit to the Congress an interim report on the progress of the study required by this subsection, along with preliminary findings based on information collected to that date.
+&emsp;Not later than April 1, 1988, the Administrator shall submit to the Congress an interimreport on the progress of the study required by this subsection, along with preliminary findings based on information collected to that date.
 
 #### (3) Final report
 
@@ -30,5 +30,5 @@
 
 On the basis of the interim report or the final report of the study required by subsection (a) of this section, a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.
 
-(Pub. L. 94 469, title II, §210, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2986.)
+(Pub. L. 94–469, title II, §210, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2986.)
 

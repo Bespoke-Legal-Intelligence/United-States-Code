@@ -34,7 +34,7 @@ Chapter 4 of title 29, referred to in subsec. (a), refers to the Vocational Reha
 
 #### Amendments
 
-1974—Pub. L. 93–416 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1974</b>—Pub. L. 93–416 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1974 Amendment
 

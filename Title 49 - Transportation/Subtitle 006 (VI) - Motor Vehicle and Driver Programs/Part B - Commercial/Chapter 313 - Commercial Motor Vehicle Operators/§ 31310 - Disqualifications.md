@@ -52,13 +52,29 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 (2) Not later than December 18, 1992, the Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
 
-&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violationof an out-of-service order shall be disqualified from operating such a vehicle for at least 90 days and liable for a civil penalty of at least $1,000;
+&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 90 days and liable for a civil penalty of at least $1,000;
 
 &emsp;(B) an operator of a commercial motor vehicle found to have committed a 2d violation of an out-of-service order shall be disqualified from operating such a vehicle for at least one year and not more than 5 years and liable for a civil penalty of at least $1,000; and
 
 &emsp;(C) an employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order shall be liable for a civil penalty of not more than $10,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022.)
+(h)
+
+Grade-Crossing Violations.—
+
+&emsp;(1)
+
+Sanctions.—The Secretary shall issue regulations establishing sanctions and penalties relating to violations, by persons operating commercial motor vehicles, of laws and regulations pertaining to railroad-highway grade crossings.
+
+&emsp;(2)
+
+Minimum requirements.—The regulations issued under paragraph (1) shall, at a minimum, require that—
+
+&emsp;&emsp;(A) the penalty for a single violation is not less than a 60-day disqualification of the driver's commercial driver's license; and
+
+&emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle inviolation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956.)
 
 Historical and Revision Notes
 
@@ -113,6 +129,18 @@ Subsection (c)(1)(D) is substituted for 49 App.:2707(a)(2)(A)(iv) for clarity an
 In subsection (g)(1)(A), the words “Not later than 1 year after October 27, 1986” are omitted as obsolete.
 
 In subsection (g)(2), before clause (A), the words “Not later than December 18, 1992, the Secretary shall prescribe regulations” are substituted for “The Secretary shall issue regulations” and 49 App.:2718(c) to eliminate executed words. The word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words “permits, authorizes” are omitted as being included in “allows”.
+
+#### Amendments
+
+1995—Subsec. (h). Pub. L. 104–88 added subsec. (h).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+#### Regulations
+
+Section 403(b) of Pub. L. 104–88 provided that: “The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\].”
 
 #### Section Referred to in Other Sections
 

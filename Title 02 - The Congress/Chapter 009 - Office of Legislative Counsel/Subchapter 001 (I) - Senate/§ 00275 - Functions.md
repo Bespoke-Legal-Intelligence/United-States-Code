@@ -1,4 +1,4 @@
-### §275 . Functions
+### §275. Functions
 
 The Office of the Legislative Counsel shall aid in drafting public bills and resolutions or amendments thereto on the request of any committee of the Senate but the Committee on Rules and Administration of the Senate may determine the preference, if any, to be given to such requests of the committees. The Legislative Counsel shall, from time to time, prescribe rules and regulations for the conduct of the work of the Office for the committees, subject to the approval of such Committee on Rules and Administration.
 
@@ -6,7 +6,7 @@ The Office of the Legislative Counsel shall aid in drafting public bills and res
 
 #### Codification
 
-Provisions setting forth functions of office of legislative counsel with respect to the House of Representatives and the committees thereof were omitted in viewof nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title. See section 281b of this title for functions of Office of Legislative Counsel of House of Representatives.
+Provisions setting forth functions of office of legislative counsel with respect to the House of Representatives and the committees thereof were omitted in view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title. See section 281b of this title for functions of Office of Legislative Counsel of House of Representatives.
 
 #### Amendments
 

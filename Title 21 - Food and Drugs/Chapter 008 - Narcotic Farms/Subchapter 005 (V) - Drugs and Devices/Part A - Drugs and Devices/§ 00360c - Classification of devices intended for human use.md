@@ -152,7 +152,7 @@ Within sixty days of the receipt of a written request of any person for informat
 
 For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 360j of this title
 
-&emsp;(1) a reference to “general controls” is a reference to the controls authorized by or undersections 351, 352, 360, 360f, 360h, 360i, and 360j of this title,
+&emsp;(1) a reference to “general controls” is a reference to the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title,
 
 &emsp;(2) a reference to “class I”, “class II”, or “class III” is a reference to a class of medical devices described in subparagraph (A), (B), or (C) of subsection (a)(1) of this section, and
 
@@ -160,7 +160,7 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 #### (i) Substantial equivalence
 
-(1)(A) For purposes of determinations of substantial equivalence under subsection (f) of this section and section 360j(<i>l</i>) of this title, the term “substantially equivalent” or “substantial equivalence” means, with respect to a device being compared to a predicate device, that the device has the same intended use as the predicate device and that the Secretary by order has found that the device—
+(1)(A) For purposes of determinations of substantial equivalence under subsection (f) of thissection and section 360j(<i>l</i>) of this title, the term “substantially equivalent” or “substantial equivalence” means, with respect to a device being compared to a predicate device, that the device has the same intended use as the predicate device and that the Secretary by order has found that the device—
 
 &emsp;(i) has the same technological characteristics as the predicate device, or
 
@@ -218,7 +218,7 @@ Section 12(b) of Pub. L. 101–629 provided that: “Within 12 months of the dat
 
 Section 4(b)(3) of Pub. L. 101–629 provided that:
 
-“(A) Notwithstanding section 520(<i>l</i>)(5) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360j(<i>l</i>)(5)\], theSecretary of Health and Human Services shall not retain any daily wear soft or daily wear nonhydrophilic plastic contact lens in class III under such Act \[this chapter\] unless the Secretary finds that it meets the criteria set forth in section 513(a)(1)(C) of such Act \[21 U.S.C. 360c(a)(1)(C)\]. The finding and the grounds for the finding shall be published in the Federal Register. For any such lens, the Secretary shall make the determination respecting reclassification required in section 520(<i>l</i>)(5)(B) of such Act within 24 months of the date of the enactment of this paragraph \[Nov. 28, 1990\].
+“(A) Notwithstanding section 520(<i>l</i>)(5) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360j(<i>l</i>)(5)\], the Secretary of Health and Human Services shall not retain any daily wear soft or daily wear nonhydrophilic plastic contact lens in class III under such Act \[this chapter\] unless the Secretary finds that it meets the criteria set forth in section 513(a)(1)(C) of such Act \[21 U.S.C. 360c(a)(1)(C)\]. The finding and the grounds for the finding shall be published in the Federal Register. For any such lens, the Secretary shall make the determination respecting reclassification required in section 520(<i>l</i>)(5)(B) of such Act within 24 months of the date of the enactment of this paragraph \[Nov. 28, 1990\].
 
 “(B) The Secretary of Health and Human Services may by notice published in the Federal Register extend the two-year period prescribed by subparagraph (A) for a lens for an additional period not to exceed one year.
 

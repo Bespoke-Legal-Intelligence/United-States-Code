@@ -26,7 +26,7 @@ The following shall apply with respect to the standard of the American Society f
 
 #### (c) Revisions incorporated into standard D–4236; notice and hearing; amendment; opportunity for comment; transcript of proceedings
 
-If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) of this section as modified by subsection (b) of this section after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) of this section as modified by subsection (b) of this section is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) of this section as modified by subsection (b) of this section after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) of this section as modified by subsection (b) of this section is inadequate for the protection of the public interest, it shall promulgate an amendmentto the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 #### (d) Guidelines for determining chronically hazardous art materials; issuance; public hearing; scope of criteria; review; amendment
 
@@ -44,7 +44,7 @@ If the Commission determines that a revision proposed by the American Society fo
 
 > Where appropriate, criteria used for assessing risks to children may be the same as those used for adults.
 
-(3) The Commission shall periodically review the guidelines established under paragraph (1) todetermine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
+(3) The Commission shall periodically review the guidelines established under paragraph (1) to determine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
 
 #### (e) Informational and educational materials; development and distribution
 

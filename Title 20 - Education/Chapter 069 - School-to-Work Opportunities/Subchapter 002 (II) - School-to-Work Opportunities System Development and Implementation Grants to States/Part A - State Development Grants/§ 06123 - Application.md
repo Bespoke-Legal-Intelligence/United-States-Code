@@ -52,13 +52,13 @@ A State seeking assistance under both this part and the Goals 2000: Educate Amer
 
 &emsp;(2) if such State has already submitted its application for funds under the Goals 2000: Educate America Act, submit its application under this part as an amendment to the Goals 2000: Educate America Act application if such amendment meets the requirements of this part and is coordinated with and not duplicative of the Goals 2000: Educate America Act application.
 
-(Pub. L. 103 239, title II, §203, May 4, 1994, 108 Stat. 579.)
+(Pub. L. 103–239, title II, §203, May 4, 1994, 108 Stat. 579.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(2)(J), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title VII of the Act is classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2)(J), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title VII of the Act is classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (c), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (c), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@
 
 (d) Notwithstanding any other provision of this section, the Secretary of Defense may detail or assign any member of the Defense Intelligence Senior Executive Service to serve in a position outside the Defense Intelligence Agency or the Central Imagery Office in which the member's expertise and experience may be of benefit to the Defense Intelligence Agency, the Central Imagery Office, or another Government agency. Any such member shall not by reason of such detail or assignment lose any entitlement or status associated with membership in the Defense Intelligence Senior Executive Service.
 
-(e) The Secretary of Defense shall each year submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate at the time the Budget is submitted by the President to the Congress for the next fiscal year, a report on the executive personnel in the Defense Intelligence Agency and the Central Imagery Office. The report shall include—
+(e) The Secretary of Defense shall each year submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate at the time the Budget is submitted bythe President to the Congress for the next fiscal year, a report on the executive personnel in the Defense Intelligence Agency and the Central Imagery Office. The report shall include—
 
 &emsp;(1) the total number of positions added to or deleted from the Defense Intelligence Senior Executive Service during the preceding fiscal year;
 
@@ -66,5 +66,5 @@ Section 701(b) of Pub. L. 97–89 provided that: “The authority of the Secreta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1603 of this title.
+This section is referred to in sections 1603, 1604 of this title.
 

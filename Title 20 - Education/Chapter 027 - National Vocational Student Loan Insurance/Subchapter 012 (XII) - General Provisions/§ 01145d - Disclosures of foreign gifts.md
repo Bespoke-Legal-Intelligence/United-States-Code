@@ -2,7 +2,7 @@
 
 #### (a) Disclosure report
 
-Whenever any institution is owned or controlled by a foreign source or receives a gift from or enters into a contract with a foreign source, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institutionshall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
+Whenever any institution is owned or controlled by a foreign source or receives a gift from or enters into a contract with a foreign source, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
 
 #### (b) Contents of report
 
@@ -72,31 +72,31 @@ For the purpose of this section—
 
 &emsp;&emsp;(A) is legally authorized within such State to provide a program of education beyond secondary school;
 
-&emsp;&emsp;(B) provides a program for which it awards a bachelor's degree (or provides not less than a 2-year program which is acceptable for fullcredit toward such a degree) or more advanced degrees; and
+&emsp;&emsp;(B) provides a program for which it awards a bachelor's degree (or provides not less than a 2-year program which is acceptable for full credit toward such a degree) or more advanced degrees; and
 
 &emsp;&emsp;(C) is accredited by a nationally recognized accrediting agency or association and to which institution Federal financial assistance is extended (directly or indirectly through another entity or person), or which institution receives support from the extension of Federal financial assistance to any of its subunits; and
 
 &emsp;(5) the term “restricted or conditional gift or contract” means any endowment, gift, grant, contract, award, present, or property of any kind which includes provisions regarding (A) the employment, assignment, or termination of faculty; (B) the establishment of departments, centers, research or lecture programs, or new faculty positions; (C) the selection or admission of students; or (D) the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specified country, religion, sex, ethnic origin, or political opinion.
 
-(Pub. L. 89 329, title XII, §1209, as added Pub. L. 102 325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103 208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485.)
+(Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (d)(2), (e), and (f)(1), was in the original “this Act”, meaning Pub. L. 89 329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (b), (d)(2), (e), and (f)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1145d, Pub. L. 89 329, title XII, §1209, as added Pub. L. 99 498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99 498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100 50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
+A prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
 
 #### Amendments
 
-1993—Subsec. (f)(1). Pub. L. 103 208 substituted “this chapter” for “the chapter”.
+1993—Subsec. (f)(1). Pub. L. 103–208 substituted “this chapter” for “the chapter”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 

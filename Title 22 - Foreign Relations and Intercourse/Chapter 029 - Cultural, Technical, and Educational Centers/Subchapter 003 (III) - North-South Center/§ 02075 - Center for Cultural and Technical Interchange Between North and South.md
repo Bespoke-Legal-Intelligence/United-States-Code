@@ -28,7 +28,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsecs
 
 #### Codification
 
-Section is comprised of section 208 of Pub. L. 102–138. Subsec. (f) of section 208 of Pub. L. 102–138 repealed a prior section 2075 of this title. See Prior Provisions note below.
+Section is comprised of section 208 of Pub. L. 102–138. Subsec. (f) of section 208 of Pub. L. 102–138 repealed aprior section 2075 of this title. See Prior Provisions note below.
 
 #### Prior Provisions
 

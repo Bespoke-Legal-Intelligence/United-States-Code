@@ -14,7 +14,7 @@ The Secretary may make a grant to a coastal state under subsection (a) of this s
 
 #### (c) Allocation of grants to coastal states
 
-Grants under this section shall be allocated to coastal states with approved programs based on rules and regulations promulgated by the Secretary which shall take into account the extent and nature of the shoreline and area covered by the program, population of the area, and other relevant factors. The Secretary shall establish, after consulting with the coastal states, maximum and minimum grants for any fiscal year to promote equity between coastal states and effective coastal management.
+Grants under this section shall be allocated to coastal states with approved programs based onrules and regulations promulgated by the Secretary which shall take into account the extent and nature of the shoreline and area covered by the program, population of the area, and other relevant factors. The Secretary shall establish, after consulting with the coastal states, maximum and minimum grants for any fiscal year to promote equity between coastal states and effective coastal management.
 
 #### (d) Mandatory adoption of State management program for coastal zone
 
@@ -36,7 +36,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(F) A description of the organizational structure proposed to implement such management program, including the responsibilities and interrelationships of local, areawide, State, regional, and interstate agencies in the management process.
 
-&emsp;&emsp;(G) A definition of the term “beach” and a planning process for the protection of, andaccess to, public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
+&emsp;&emsp;(G) A definition of the term “beach” and a planning process for the protection of, and access to, public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
 
 &emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including a process for anticipating the management of the impacts resulting from such facilities.
 
@@ -142,7 +142,7 @@ Subsec. (i). Pub. L. 96–464, §5(a)(3), added subsec. (i).
 
 Subsec. (c)(2)(B). Pub. L. 94–370, §5(2), inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
 
-Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted “planning for, and” before “in the siting of” and reference to energy facilities in, or which significantly affect, such state's coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find thatthe state has given consideration to any applicable interstate energy plan or program.
+Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted “planning for, and” before “in the siting of” and reference to energy facilities in, or which significantly affect, such state's coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
 
 Subsec. (g). Pub. L. 94–370, §5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 

@@ -14,19 +14,19 @@
 
 The Attorney General shall, where appropriate, proceed in an expeditious manner to recover the amounts expended by the United States to carry out this subchapter from the persons identified by the Attorney General as being liable for such costs.
 
-(Pub. L. 98 377, title V, §508, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101 637, §§9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, 104 Stat. 4592, 4594 4596.)
+(Pub. L. 98–377, title V, §508, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101–637, §§9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, 104 Stat. 4592, 4594–4596.)
 
 #### Amendments
 
-1990—Pub. L. 101 637, §14(a)(8), inserted section catchline.
+1990—Pub. L. 101–637, §14(a)(8), inserted section catchline.
 
-Subsec. (a). Pub. L. 101 637, §14(b)(10), inserted heading.
+Subsec. (a). Pub. L. 101–637, §14(b)(10), inserted heading.
 
-Subsec. (a)(1). Pub. L. 101 637, §14(c)(5), substituted “section” for “sections” after “such”.
+Subsec. (a)(1). Pub. L. 101–637, §14(c)(5), substituted “section” for “sections” after “such”.
 
-Subsec. (a)(2). Pub. L. 101 637, §9, inserted “by deposit in the Asbestos Trust Fund established by section 4022 of this title,” after “repay to the United States,”.
+Subsec. (a)(2). Pub. L. 101–637, §9, inserted “by deposit in the Asbestos Trust Fund established by section 4022 of this title,” after “repay to the United States,”.
 
-Subsec. (b). Pub. L. 101 637, §14(b)(11), inserted heading.
+Subsec. (b). Pub. L. 101–637, §14(b)(11), inserted heading.
 
 #### Section Referred to in Other Sections
 

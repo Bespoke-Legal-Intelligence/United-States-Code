@@ -6,11 +6,7 @@ The Capitol Police Board is authorized to detail police from the House Office, S
 
 #### Codification
 
-Provisions of this section were enacted as permanent law in Pub. L. 96–432. Similar fiscal year provisions were contained in the appropriation acts cited below and have not been repeated since 1983.
-
-#### Similar Provisions
-
-Provisions similar to those in this section were contained in the following appropriation acts:
+Provisions of this section were enacted as permanent law in Pub. L. 96–432. Similar fiscal year provisions were contained in the following appropriation acts and have not been repeated since 1983:
 
 July 14, 1983, Pub. L. 98–51, title I, §112, 97 Stat. 271.
 

@@ -10,7 +10,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### International Health Administration
 
@@ -184,7 +184,7 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 
 (f) The authority to prescribe regulations under the following-designated Sections: 207(a), 207(b), 208(e), 210(a), 210(b), 210(d)(1), 210(h), 210(i), 210(j)(1), 210(k), 215(a), 218(a), 219(a), and 510 (42 U.S.C. 209(a), 209(b), 210(e), 211(a), 211(b), 211(d)(1), 211(h), 211(i), 211(j)(1), 211(k), 216(a), 218a(a), 210–1(a), and 228).
 
-(g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of the Office of Management and Budget, except as he may otherwise provide.
+(g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of theOffice of Management and Budget, except as he may otherwise provide.
 
 Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
 
@@ -194,7 +194,7 @@ Sec. 4. The Secretary of Health and Human Services is hereby authorized to redel
 
 Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
-Sec. 6. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, ordiscretion, and the term “perform” may be construed to mean “exercise”.
+Sec. 6. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
 
 Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled “Delegating Certain Functions of the President under the Public Health Service Act,” is hereby superseded.
 

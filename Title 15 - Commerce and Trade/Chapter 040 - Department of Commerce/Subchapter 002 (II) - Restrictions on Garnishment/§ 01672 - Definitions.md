@@ -8,5 +8,5 @@ For the purposes of this subchapter:
 
 (c) The term “garnishment” means any legal or equitable procedure through which the earnings of any individual are required to be withheld for payment of any debt.
 
-(Pub. L. 90 321, title III, §302, May 29, 1968, 82 Stat. 163.)
+(Pub. L. 90–321, title III, §302, May 29, 1968, 82 Stat. 163.)
 

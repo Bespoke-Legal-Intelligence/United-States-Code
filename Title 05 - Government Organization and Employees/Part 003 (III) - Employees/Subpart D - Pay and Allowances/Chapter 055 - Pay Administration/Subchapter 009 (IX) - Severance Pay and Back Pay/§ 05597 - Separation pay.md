@@ -54,11 +54,13 @@ The date of the enactment of the Federal Workforce Restructuring Act of 1994, re
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1999” for “September 30, 1997”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1999” for “September 30, 1997”.
 
 Subsec. (g). Pub. L. 103–226 added subsec. (g).
 
 #### Voluntary Separation Incentives
+
+Pub. L. 104–19, title I, §702, July 27, 1995, 109 Stat. 221, provided that: “The General Accounting Office may for such employees as it deems appropriate authorize a payment to employees who voluntarily separate before October 1, 1995, whether by retirement or resignation, which payment shall be paid in accordance with the provisions of section 5597(d) of title 5, United States Code.”
 
 Section 3 of Pub. L. 103–226 provided that:
 
@@ -68,7 +70,7 @@ Definitions.—For the purpose of this section—
 
 &emsp;“(1) the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United States Code), but does not include the Department of Defense, the Central Intelligence Agency, or the General Accounting Office; and
 
-&emsp;“(2) the term ‘employee’ means an employee (as defined by section 2105 of title 5, United States Code) who is employed by an agency, is serving under an appointment without time limitation, and has been currently employed for a continuous period of at least 12 months; such term includes an individual employed by a county committee established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), but does not include—
+&emsp;“(2) the term ‘employee’ means an employee (as defined by section 2105 of title 5, United States Code) who is employed by an agency, is serving under an appointment without time limitation, and has beencurrently employed for a continuous period of at least 12 months; such term includes an individual employed by a county committee established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), but does not include—
 
 &emsp;&emsp;“(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the Government; or
 
@@ -178,7 +180,7 @@ Section 6 of Pub. L. 103–226 provided that: “No later than December 31st of 
 
 &emsp;“(B) the title and the grade or pay level of the position filled by the employee to whom such waiver applied.”
 
-\[Committee on Post Office and Civil Service of House of Representatives abolished and its jurisdiction given primarily to Committee on Government Reform and Oversight by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.\]
+\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.\]
 
 #### Source of Payments
 
@@ -186,7 +188,7 @@ Section 4436(b)(1) of Pub. L. 102–484 provided that: “For fiscal years after
 
 #### Report
 
-Section 4436(c) of Pub. L. 102–484 provided that: “At the end of each of fiscal years 1993 through 1998, the Secretary of Defense shall submit to the President, the Congress, and the Director of the Office of Personnel Management a report on the effectiveness and costs of carrying out the amendments made by this section \[enacting this section\].”
+Section 4436(c) of Pub. L. 102–484 provided that: “At the end of each of fiscal years 1993 through 1998, the Secretary of Defense shall submit to the President, theCongress, and the Director of the Office of Personnel Management a report on the effectiveness and costs of carrying out the amendments made by this section \[enacting this section\].”
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §7204 . Schools near naval activities: financial aid
+### §7204. Schools near naval activities: financial aid
 
 (a) The Secretary of the Navy may contribute, out of funds specifically appropriated for the purpose, to the support of schools in any locality where a naval activity is located if he finds that the schools available in the locality are inadequate for the welfare of the dependents of—
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 

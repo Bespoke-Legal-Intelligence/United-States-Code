@@ -40,5 +40,5 @@ For effective date of this subchapter, see section 312 of Pub. L. 94–265, set 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3606, 3637, 5103, 5106 of this title.
+This section is referred to in sections 3606, 3637, 5103, 5106, 5606 of this title.
 

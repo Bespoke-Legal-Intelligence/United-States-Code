@@ -4,7 +4,7 @@
 
 #### (1) Amount withdrawn
 
-&emsp;For purposes of this subpart, the amount of previously excluded subpart F income of any controlled foreign corporation withdrawn from investment in foreign base company shipping operations for any taxable year is an amount equal to the decrease in the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation for such year, but only to the extent that the amount of such decrease does not exceed an amount equal to—
+&emsp;For purposes of this subpart, the amount of previously excluded subpart F income of any controlled foreign corporation withdrawn from investment in foreign base company shipping operations for any taxable year is an amount equal to the decrease in the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation for such year, but only to the extentthat the amount of such decrease does not exceed an amount equal to—
 
 &emsp;&emsp;(A) the sum of the amounts excluded under section 954(b)(2) from the foreign base company income of such corporation for all prior taxable years beginning before 1987, reduced by
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation at the close of the taxable year,
 
-> &emsp;to the extent that the amount of such decrease does not exceed the sum of the earnings and profits for the taxable year and the earnings and profits accumulated for prior taxable years beginning after December 31, 1975, and the amount of previously excluded subpart F income invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) to the extent attributable to earnings and profits accumulated for taxable years beginning after December 31, 1962. For purposes of this paragraph, if qualified investments in foreign base company shipping operations are disposed of by the controlled foreign corporation during the taxable year, theamount of the decrease in qualified investments in foreign base company shipping operations of such controlled foreign corporations for such year shall be reduced by an amount equal to the amount (if any) by which the losses on such dispositions during such year exceed the gains on such dispositions during such year.
+> &emsp;to the extent that the amount of such decrease does not exceed the sum of the earnings and profits for the taxable year and the earnings and profits accumulated for prior taxable years beginning after December 31, 1975, and the amount of previously excluded subpart F income invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) to the extent attributable to earnings and profits accumulated for taxable years beginning after December 31, 1962. For purposes of this paragraph, if qualified investments in foreign base company shipping operations are disposed of by the controlled foreign corporation during the taxable year, the amount of the decrease in qualified investments in foreign base company shipping operations of such controlled foreign corporations for such year shall be reduced by an amount equal to the amount (if any) by which the losses on such dispositions during such year exceed the gains on such dispositions during such year.
 
 #### (3) Pro rata share of amount withdrawn
 
@@ -56,7 +56,7 @@
 
 #### References in Text
 
-Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs. (a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
+Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs.\(a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
 
 The Tax Reduction Act of 1975, referred to in subsecs. (a)(2) and (b)(5), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended, which was enacted Mar. 29, 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporation
 
 #### Effective Date
 
-Section 602(f) of Pub. L. 94–12, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[enacting this section, amending sections 851, 902, 951, and 954 of this title, and repealing section 963 and former section 955 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
+Section 602(f) of Pub. L. 94–12, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section, amending sections 851, 902, 951, and 954 of this title, and repealing section 963 and former section 955 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
 
 #### Section Referred to in Other Sections
 

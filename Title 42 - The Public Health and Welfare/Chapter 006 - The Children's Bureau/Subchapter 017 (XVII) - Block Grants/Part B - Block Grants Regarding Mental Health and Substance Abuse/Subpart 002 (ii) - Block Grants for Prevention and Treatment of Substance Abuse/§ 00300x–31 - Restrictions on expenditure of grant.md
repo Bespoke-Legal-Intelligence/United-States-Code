@@ -24,7 +24,7 @@
 
 #### (3) Limitation regarding penal and correctional institutions
 
-&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, in expending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
+&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, in expending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscalyear 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
 
 #### (b) Exception regarding inpatient hospital services
 
@@ -52,7 +52,7 @@
 
 #### (4) Matching funds
 
-&emsp;The Secretary may grant a waiver under paragraph (1) only if the State agrees, with respect to the costs to be incurred by the State in carrying out the purpose of the waiver, to make available non-Federal contributions in cash toward such costs in an amount equal tonot less than $1 for each $1 of Federal funds provided under section 300x–21 of this title.
+&emsp;The Secretary may grant a waiver under paragraph (1) only if the State agrees, with respect to the costs to be incurred by the State in carrying out the purpose of the waiver, to make available non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided under section 300x–21 of this title.
 
 #### (5) Date certain for acting upon request
 

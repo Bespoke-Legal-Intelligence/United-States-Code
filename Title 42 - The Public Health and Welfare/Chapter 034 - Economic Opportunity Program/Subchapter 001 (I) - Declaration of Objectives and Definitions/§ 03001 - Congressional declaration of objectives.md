@@ -104,7 +104,7 @@ General Effective Date.—Except as provided in subsections (b) and (c), this Ac
 
 “(b)
 
-Application of Amendments.—The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out as notes under sections 3001, 3026, 3027, and 3057b of this title and section 2 of Title 29, and repealing provisions set out as a note under section 3058 of this title\] shall not apply with respect to—
+Application of Amendments.—The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out as notes under this section, sections 3026, 3027, and 3057b of this title, and section 2 of Title 29, and repealing provisions set out as a note under section 3058 of this title\] shall not apply with respect to—
 
 &emsp;“(1) any area plan submitted under section 306(a) of the Older Americans Act of 1965 \[section 3026(a) of this title\], or
 

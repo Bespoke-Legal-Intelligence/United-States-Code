@@ -56,21 +56,21 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.
 
-(Pub. L. 90 321, title VII, §701, as added Pub. L. 93 495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94 239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102 242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306.)
+(Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306.)
 
 #### Amendments
 
-1991—Subsec. (e). Pub. L. 102 242 added subsec. (e).
+1991—Subsec. (e). Pub. L. 102–242 added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94 239 designated existing provisions as cl. (1), expanded prohibition against discrimination to include race, color, religion, national origin and age, and added cls. (2) and (3).
+1976—Subsec. (a). Pub. L. 94–239 designated existing provisions as cl. (1), expanded prohibition against discrimination to include race, color, religion, national origin and age, and added cls. (2) and (3).
 
-Subsec. (b). Pub. L. 94 239 designated existing provisions as cl. (1) and added cls. (2) to (4).
+Subsec. (b). Pub. L. 94–239 designated existing provisions as cl. (1) and added cls. (2) to (4).
 
-Subsecs. (c), (d). Pub. L. 94 239 added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 94–239 added subsecs. (c) and (d).
 
 #### Effective Date
 
-Section 708, formerly §707, of title VII of Pub. L. 90 321, as added by Pub. L. 93 495, title V, §503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94 239, §§7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title \[enacting this subchapter and provisions set out as notes under section 1691 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] shall take effect on the date of enactment thereof \[Mar. 23, 1976\] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act \[this section\] shall take effect 12 months after the date of enactment \[Mar. 23, 1976\].”
+Section 708, formerly §707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title \[enacting this subchapter and provisions set out as notes under section 1691 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] shall take effect on the date of enactment thereof \[Mar. 23, 1976\] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act \[this section\] shall take effect 12 months after the date of enactment \[Mar. 23, 1976\].”
 
 #### Short Title
 
@@ -78,7 +78,7 @@ This subchapter known as the “Equal Credit Opportunity Act”, see Short Title
 
 #### Congressional Findings and Statement of Purpose
 
-Section 502 of Pub. L. 93 495 provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
+Section 502 of Pub. L. 93–495 provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §48 . Certification of salary and mileage accounts
+### §48. Certification of salary and mileage accounts
 
 Salary and mileage accounts of Senators shall be certified by the President of the Senate, and those of Representatives and Delegates by the Speaker of the House of Representatives; and such certificates shall be conclusive upon all the departments and officers of the Government.
 

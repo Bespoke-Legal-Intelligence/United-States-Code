@@ -6,7 +6,7 @@
 
 &emsp;(A) An offeror for a prime contract under this subchapter to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
 
-&emsp;&emsp;(i) in the case of a prime contract entered into after October 13, 1994, the price of the contract to the United States is expected to exceed $500,000; and
+&emsp;&emsp;(i) in the case of a prime contract entered into after October 13, 1994, the price of thecontract to the United States is expected to exceed $500,000; and
 
 &emsp;&emsp;(ii) in the case of a prime contract entered into on or before October 13, 1994, the price of the contract to the United States is expected to exceed $100,000.
 
@@ -68,7 +68,7 @@
 
 &emsp;In the case of a modification of a contract or subcontract for a commercial item that is not covered by the prohibition on the submission of cost or pricing data in paragraph (1)(A), submission of cost or pricing data shall not be required under subsection (a) of this section if—
 
-&emsp;&emsp;(A) the contract or subcontract being modified is a contract or subcontract for which submission of cost or pricing data may not be required by reason of paragraph (1)(A); and
+&emsp;&emsp;(A) the contract or subcontract being modified is a contract or subcontract for which submission of cost or pricing datamay not be required by reason of paragraph (1)(A); and
 
 &emsp;&emsp;(B) the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
 
@@ -102,13 +102,13 @@
 
 &emsp;(ii) The information referred in <sup>1</sup> clause (i) is information on prices at which the same item or similar items have been sold in the commercial market that is adequate for evaluating, through price analysis, the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract under the procurement.
 
-&emsp;(B) The contracting officer shall exempt a contract, subcontract, or modification of acontract or subcontract under the procurement from the requirements of subsection (a) of this section if the contracting officer obtains the information described in subparagraph (A)(ii) in accordance with standards and procedures set forth in the Federal Acquisition Regulation.
+&emsp;(B) The contracting officer shall exempt a contract, subcontract, or modification of a contract or subcontract under the procurement from the requirements of subsection (a) of this section if the contracting officer obtains the information described in subparagraph (A)(ii) in accordance with standards and procedures set forth in the Federal Acquisition Regulation.
 
 &emsp;(C) A contracting officer may require submission of cost or pricing data under subsection (a) of this section only if the contracting officer makes a written determination that the agency is unable to obtain the information described in subparagraph (A)(ii).
 
 #### (3) Authority to audit
 
-&emsp;(A) In accordance with procedures prescribed in the Federal Acquisition Regulation, the head of an executive agency is authorized to examine all information provided by an offeror, contractor, or subcontractor pursuant to paragraph (2)(A) and all books and records of such offeror, contractor, or subcontractor that directly relate to such information in order to determine whether the agency is receiving accurate information required under this section.
+&emsp;(A) In accordance with procedures prescribed in the Federal Acquisition Regulation, the head of an executive agency is authorized to examine all information provided by an offeror, contractor, or subcontractor pursuant to paragraph (2)(A) and all books and recordsof such offeror, contractor, or subcontractor that directly relate to such information in order to determine whether the agency is receiving accurate information required under this section.
 
 &emsp;(B) The right under subparagraph (A) shall expire 2 years after the date of award of the contract, or 2 years after the date of the modification of the contract, with respect to which the information was provided.
 
@@ -156,7 +156,7 @@
 
 &emsp;(i) the certification under subsection (a)(2) of this section with respect to the cost or pricing data involved was known to be false when signed; or
 
-&emsp;(ii) the United States proves that, had the cost or pricing data referred to in subparagraph (A)(ii) been submitted to the United States before the date of agreement on theprice of the contract (or price of the modification) or, if applicable under paragraph (1)(B), another date agreed upon between the parties, the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
+&emsp;(ii) the United States proves that, had the cost or pricing data referred to in subparagraph (A)(ii) been submitted to the United States before the date of agreement on the price of the contract (or price of the modification) or, if applicable under paragraph (1)(B), another date agreed upon between the parties, the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
 #### (f) Interest and penalties for certain overpayments
 
@@ -164,7 +164,7 @@
 
 &emsp;(A) for interest on the amount of such overpayment, to be computed—
 
-&emsp;&emsp;(i) for the period beginning on the date the overpayment was made to the contractor and ending on the date the contractor repays the amount of such overpayment to the United States; and
+&emsp;&emsp;(i) for the period beginning on the date the overpayment was made to the contractor and ending on the date the contractor repaysthe amount of such overpayment to the United States; and
 
 &emsp;&emsp;(ii) at the current rate prescribed by the Secretary of the Treasury under section 6621 of title 26; and
 

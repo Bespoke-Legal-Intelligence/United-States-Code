@@ -40,7 +40,7 @@ For the purpose of this section the term “eligible entity” means—
 
 &emsp;(3) a community-based organization or an institution of higher education which has an application approved by the local educational agency to enhance early childhood education or family education programs or to conduct an instructional program which supplements the educational services provided by a local educational agency.
 
-(Pub. L. 89 10, title VII, §7113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3720.)
+(Pub. L. 89–10, title VII, §7113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3720.)
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (3) Expenditures out of disaster relief funds
 
-&emsp;The cost of any assistance provided pursuant to this subsection shall be reimbursed out offunds made available to carry out this chapter.
+&emsp;The cost of any assistance provided pursuant to this subsection shall be reimbursed out of funds made available to carry out this chapter.
 
 #### (4) Federal share
 

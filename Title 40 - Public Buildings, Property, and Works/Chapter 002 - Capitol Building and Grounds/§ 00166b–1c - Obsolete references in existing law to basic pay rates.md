@@ -14,7 +14,7 @@ In any case in which—
 
 &emsp;(2) the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law;
 
-> such statutory provision or authority shall be deemed to refer, in lieu of such basic rate, to theper annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or authority, under section 166b–1b of this title on and after such date.
+> such statutory provision or authority shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or authority, under section 166b–1b of this title on and after such date.
 
 (Pub. L. 91–510, title IV, §483, Oct. 26, 1970, 84 Stat. 1196.)
 

@@ -14,15 +14,15 @@
 
 (b) In exercising its responsibilities to strengthen scientific and engineering research potential and science and engineering education programs at all levels, the Foundation shall avoid undue concentration of support for research and education activities.
 
-(Pub. L. 98 377, title I, §101, as added Pub. L. 99 159, title II, §201, Nov. 22, 1985, 99 Stat. 893.)
+(Pub. L. 98–377, title I, §101, as added Pub. L. 99–159, title II, §201, Nov. 22, 1985, 99 Stat. 893.)
 
 #### Prior Provisions
 
-A prior section 3911, Pub. L. 98 377, title I, §101, Aug. 11, 1984, 98 Stat. 1268, related to grants for teacher institutes, prior to the general revision of this subchapter by section 201 of Pub. L. 99 159. See section 3913 of this title.
+A prior section 3911, Pub. L. 98–377, title I, §101, Aug. 11, 1984, 98 Stat. 1268, related to grants for teacher institutes, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3913 of this title.
 
 #### Undergraduate Science Improvement
 
-Pub. L. 100 570, title I, §112, Oct. 31, 1988, 102 Stat. 2870, provided that:
+Pub. L. 100–570, title I, §112, Oct. 31, 1988, 102 Stat. 2870, provided that:
 
 “(a) The Congress finds that the support of undergraduate science and engineering education is a critical component in a comprehensive national policy intended to ensure the Nation's future supply of scientists and engineers.
 

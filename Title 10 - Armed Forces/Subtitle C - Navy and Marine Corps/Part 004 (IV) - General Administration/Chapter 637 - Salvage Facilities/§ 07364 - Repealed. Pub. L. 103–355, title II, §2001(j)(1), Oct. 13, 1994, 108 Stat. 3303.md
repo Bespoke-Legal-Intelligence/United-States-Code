@@ -1,4 +1,4 @@
-### \[§7364 . Repealed. Pub. L. 103–355, title II, §2001(j)(1), Oct. 13, 1994, 108 Stat. 3303\]
+### \[§7364. Repealed. Pub. L. 103–355, title II, §2001(j)(1), Oct. 13, 1994, 108 Stat. 3303\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related to advancement of funds by the Secretary of the Navy to private companies for salvage operations. See section 2307(g) of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Scope of agreements
 
-The Secretary may enter into agreements with Federal and State agencies (1) to use their facilities and services, (2) to delegate, subject to subsection (b) of this section, to Federal and State agencies such authority, other than rulemaking, as may be useful in carrying out this chapter, and (3) to allocate or transfer funds to, or otherwise pay or reimburse, such agencies for expenses incurred pursuant to agreements under clause (1) or (2) of this section.
+The Secretary may enter into agreements with Federal and State agencies (1) to use theirfacilities and services, (2) to delegate, subject to subsection (b) of this section, to Federal and State agencies such authority, other than rulemaking, as may be useful in carrying out this chapter, and (3) to allocate or transfer funds to, or otherwise pay or reimburse, such agencies for expenses incurred pursuant to agreements under clause (1) or (2) of this section.
 
 #### (b) Delegation of authority pursuant to written State plan
 
@@ -10,7 +10,7 @@ Any delegation to a State agency pursuant to subsection (a)(2) of this section s
 
 &emsp;(1) shall include a description of the functions to be performed, the methods of performing such functions, and the resources to be devoted to the performance of such functions; and
 
-&emsp;(2) provides assurances satisfactory to the Secretary that the State agency will complywith its description under paragraph (1) and that the State agency's performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
+&emsp;(2) provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency's performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
 
 (Pub. L. 97–470, title V, §513, Jan. 14, 1983, 96 Stat. 2599.)
 

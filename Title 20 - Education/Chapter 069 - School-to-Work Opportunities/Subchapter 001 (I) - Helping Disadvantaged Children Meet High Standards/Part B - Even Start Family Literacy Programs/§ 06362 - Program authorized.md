@@ -32,7 +32,7 @@ From amounts appropriated under section 6302(b) of this title, the Secretary may
 
 #### (2) Matching requirement
 
-&emsp;The Secretary shall not make a grant to a State under paragraph (1) unless the Stateagrees that, with respect to the costs to be incurred by the eligible consortium in carrying out the activities for which the grant was awarded, the State will make available non-Federal contributions in an amount equal to not less than the Federal funds provided under the grant.
+&emsp;The Secretary shall not make a grant to a State under paragraph (1) unless the State agrees that, with respect to the costs to be incurred by the eligible consortium in carrying out the activities for which the grant was awarded, the State will make available non-Federal contributions in an amount equal to not less than the Federal funds provided under the grant.
 
 #### (d) State allocation
 
@@ -64,13 +64,13 @@ For the purpose of this part—
 
 &emsp;(4) the term “State” includes each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 89 10, title I, §1202, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3578.)
+(Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578.)
 
 #### References in Text
 
-The Adult Education Act, referred to in subsec. (c)(1), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in subsec. (c)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Family Support Act of 1988, referred to in subsec. (c)(1), is Pub. L. 100 485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
+The Family Support Act of 1988, referred to in subsec. (c)(1), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ The purposes of this subpart are to—
 
 #### (c) Eligible recipients
 
-In order to carry out the purposes of this subpart, the Secretary is authorized to awardgrants to, or enter into contracts or cooperative agreements with—
+In order to carry out the purposes of this subpart, the Secretary is authorized to award grants to, or enter into contracts or cooperative agreements with—
 
 &emsp;(1) State educational agencies;
 
@@ -90,5 +90,5 @@ Funds under this subpart may be used for—
 
 &emsp;If the amount appropriated under paragraph (1) for any fiscal year is $9,000,000 or less, then such amount shall only be available to carry out the activities described in paragraphs (7) and (8) of subsection (d) of this section.
 
-(Pub. L. 89 10, title X, §10401, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3830.)
+(Pub. L. 89–10, title X, §10401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3830.)
 

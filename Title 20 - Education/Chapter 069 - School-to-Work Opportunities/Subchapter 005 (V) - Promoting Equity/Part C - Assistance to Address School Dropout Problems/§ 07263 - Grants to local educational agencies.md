@@ -30,7 +30,7 @@ From the amount appropriated under section 7268 of this title for any fiscal yea
 
 #### (1) In general
 
-&emsp;From the amount allotted for any fiscal year to a category of local educational agencies under subsection (a) of this section, the Secretary shall award as many grants as practicable within each such category to local educational agencies and educational partnerships whose applications have been approved by the Secretary for such fiscal year under section 7264<sup>1</sup> of this title and whose applications propose a program of sufficient size, scope, and quality to be effective.
+&emsp;From the amount allotted for any fiscal year to a category of local educational agencies under subsection (a) of this section, the Secretary shall award as many grants as practicable within each such category to local educational agencies and educational partnerships whose applications have been approved by the Secretary for such fiscal year under section 7264 <sup>1</sup> of this title and whose applications propose a program of sufficient size, scope, and quality to be effective.
 
 #### (2) Additional funds
 
@@ -44,7 +44,7 @@ From the amount appropriated under section 7268 of this title for any fiscal yea
 
 #### (1) In general
 
-&emsp;Whenever the Secretary determines that the full amount of the sums allotted under any category set forth under subsection (a) of this section will not be required for applications of the local educational agencies in the case of categories described in paragraphs<sup>2</sup> (1), (2), or (3) of subsection (a) of this section, the Secretary shall make the amount not so required available to another category under subsection (a) of this section. In carrying out the provisions of this subsection, the Secretary shall assure that the transfer of amounts from one category to another is made to a category in which there is the greatest need for funds.
+&emsp;Whenever the Secretary determines that the full amount of the sums allotted under any category set forth under subsection (a) of this section will not be required for applications of the local educational agencies in the case of categories described in paragraphs <sup>2</sup> (1), (2), or (3) of subsection (a) of this section, the Secretary shall make the amount not so required available to another category under subsection (a) of this section. In carrying out the provisions of this subsection, the Secretary shall assure that the transfer of amounts from one category to another is made to a category in which there is the greatest need for funds.
 
 #### (2) Peer review
 
@@ -68,19 +68,19 @@ From the amount appropriated under section 7268 of this title for any fiscal yea
 
 &emsp;The share of payments from sources other than funds made available under this part may be in cash or in kind fairly evaluated, including plant, equipment or services.
 
-(Pub. L. 89 10, title V, §5303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3701.)
+(Pub. L. 89–10, title V, §5303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3701.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(2)(B), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-Section 7264 of this title, referred to in subsec. (c)(1), was in the original “section 5304”, meaning section 5304 of Pub. L. 89 10, which was translated as reading section 5404 of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 5304, but does contain a section 5404 relating to applications for grants under this part.
+Section 7264 of this title, referred to in subsec. (c)(1), was in the original “section 5304”, meaning section 5304 of Pub. L. 89–10, which was translated as reading section 5404 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 5304, but does contain a section 5404 relating to applications for grants under this part.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7264, 7266 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “paragraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

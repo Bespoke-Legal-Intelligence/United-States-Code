@@ -86,19 +86,27 @@ Members of the TPCC shall be appointed by the heads of their respective departme
 
 #### (f) Report to Congress
 
-The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto.
+The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than September 30, 1995, and annually thereafter, a report describing—
 
-(Pub. L. 100 418, title II, §2312, as added Pub. L. 102 429, title II, §201, Oct. 21, 1992, 106 Stat. 2199.)
+&emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
 
-#### Change of Name
+&emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713.)
+
+#### References in Text
+
+Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1995—Subsec. (f). Pub. L. 104–66 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto.”
 
 #### Ex. Ord. No. 12870. Trade Promotion Coordinating Committee
 
 Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992 (Public Law 102 429, 106 Stat. 2186) \[see Short Title of 1992 Amendment note set out under section 635 of Title 12, Banks and Banking\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992 (Public Law 102–429, 106 Stat. 2186) \[see Short Title of 1992 Amendment note set out under section 635 of Title 12, Banks and Banking\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established the “Trade Promotion Coordinating Committee” (“TPCC”). The Committee shall comprise representatives of each of the following:
 
@@ -150,7 +158,7 @@ Members of the TPCC shall be appointed by the heads of their respective departme
 
 Sec. 2. <i>Chairperson</i>. The Secretary of Commerce shall be the chairperson of the TPCC.
 
-Sec. 3. <i>Purpose</i>. The purpose of the TPCC shall be to provide a unifying framework to coordinate the exportpromotion and export financing activities of the United States Government and to develop a governmentwide strategic plan for carrying out such programs.
+Sec. 3. <i>Purpose</i>. The purpose of the TPCC shall be to provide a unifying framework to coordinate the export promotion and export financing activities of the United States Government and to develop a governmentwide strategic plan for carrying out such programs.
 
 Sec. 4. <i>Duties</i>. The TPCC shall:
 
@@ -191,4 +199,6 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4728, 4729 of this title; title 12 section 635.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

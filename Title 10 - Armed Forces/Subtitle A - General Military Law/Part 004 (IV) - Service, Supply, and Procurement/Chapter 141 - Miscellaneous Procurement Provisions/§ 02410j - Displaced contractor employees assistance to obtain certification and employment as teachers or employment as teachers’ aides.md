@@ -76,7 +76,7 @@ Agreement.—An individual selected under this section shall be required to ente
 
 &emsp;(2) to accept—
 
-&emsp;&emsp;(A) in the case of an individual selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than five school years with a local educational agency identified under section 1151(b)(2) of this title, to begin the school year after obtaining that certification or licensure; or
+&emsp;&emsp;(A) in the case of an individual selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not lessthan five school years with a local educational agency identified under section 1151(b)(2) of this title, to begin the school year after obtaining that certification or licensure; or
 
 &emsp;&emsp;(B) in the case of an individual selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than five school years with a local educational agency identified under section 1151(b)(3) of this title, to begin the school year after obtaining the necessary credentials.
 

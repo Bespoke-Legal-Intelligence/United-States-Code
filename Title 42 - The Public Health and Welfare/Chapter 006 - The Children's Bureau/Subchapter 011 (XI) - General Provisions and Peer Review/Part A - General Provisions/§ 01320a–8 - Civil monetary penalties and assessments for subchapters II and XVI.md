@@ -16,7 +16,7 @@
 
 (1) The Commissioner of Social Security may initiate a proceeding to determine whether to impose a civil money penalty or assessment, or whether to recommend exclusion under subsection (a) of this section only as authorized by the Attorney General pursuant to procedures agreed upon by the Commissioner of Social Security and the Attorney General. The Commissioner of Social Security may not initiate an action under this section with respect to any violation described in subsection (a) of this section later than 6 years after the date the violation was committed. The Commissioner of Social Security may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
 
-(2) The Commissioner of Social Security shall not make a determination adverse to any person under this section until the person has been given written notice and an opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.
+(2) The Commissioner of Social Security shall not make a determination adverse to any person under this section until the person has been given written notice and an opportunity for the determination to be made on the record after ahearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.
 
 (3) In a proceeding under this section which—
 
@@ -82,7 +82,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 (2) Amounts recovered under this section shall be recovered by the Commissioner of Social Security and shall be disposed of as follows:
 
-&emsp;(A) In the case of amounts recovered arising out of a determination relating to subchapter II of this chapter, the amounts shall be transferred to the Managing Trustee of the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and suchamounts shall be deposited by the Managing Trustee into such Trust Fund.
+&emsp;(A) In the case of amounts recovered arising out of a determination relating to subchapter II of this chapter, the amounts shall be transferred to the Managing Trustee of the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and such amounts shall be deposited by the Managing Trustee into such Trust Fund.
 
 &emsp;(B) In the case of amounts recovered arising out of a determination relating to subchapter XVI of this chapter, the amounts shall be deposited by the Commissioner of Social Security into the general fund of the Treasury as miscellaneous receipts.
 
@@ -122,7 +122,7 @@ As soon as the Inspector General, Social Security Administration, has reason to 
 
 Rule 4 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(1), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Debt Collection Act of 1982, referred to in subsec. (e)(1)(D), is Pub. L. 97–365, Oct. 25, 1982, 96 Stat. 1749. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out under section 5514 of Title 5, Government Employees and Organization, and Tables.
+The Debt Collection Act of 1982, referred to in subsec. (e)(1)(D), is Pub. L. 97–365, Oct. 25, 1982, 96 Stat. 1749.For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out under section 5514 of Title 5, Government Employees and Organization, and Tables.
 
 #### Prior Provisions
 

@@ -8,5 +8,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8470 of this title.
+This section is referred to in sections 8348, 8470 of this title.
 

@@ -144,7 +144,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;&emsp;(ii) intimate grasp of a specialized and complex subject matter or of the profession, art, or science involved;
 
-&emsp;&emsp;(B) under general administrative supervision, and with wide latitude for the exercise of independent judgment, to perform professional, scientific, or technical work of marked difficulty and responsibility requiring extended professional, scientific, or technical training and experience which hasdemonstrated leadership and attainments of a high order in professional, scientific, or technical research, practice, or administration; or
+&emsp;&emsp;(B) under general administrative supervision, and with wide latitude for the exercise of independent judgment, to perform professional, scientific, or technical work of marked difficulty and responsibility requiring extended professional, scientific, or technical training and experience which has demonstrated leadership and attainments of a high order in professional, scientific, or technical research, practice, or administration; or
 
 &emsp;&emsp;(C) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -216,7 +216,7 @@ The General Schedule, referred to in text, is set out under section 5332 of this
 
 #### Amendments
 
-1990—Pub. L. 101–509 struck out “18” before “grades” in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
+<b>1990</b>—Pub. L. 101–509 struck out “18” before “grades” in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
 
 #### Effective Date of 1990 Amendment
 
@@ -232,7 +232,7 @@ Pub. L. 91–216, May 17, 1970, 84 Stat. 72, provided: “That this Act may be c
 
 Sec. 101. The Congress hereby finds that—
 
-&emsp;“(1) the tremendous growth required in the activities of the Federal Government in order to meet the country's needs during the past several decades has led to the need for employees in an ever-increasing and changing variety of occupations and professions, many of which did not exist when the basic principles of job evaluation and ranking were established by theClassification Act of 1923 \[Act Mar. 4, 1923, ch. 265, 42 Stat. 1488\]. The diverse and constantly changing nature of these occupations and professions requires that the Federal Government reassess its approach to job evaluation and ranking better to fulfill its role as an employer and assure efficient economical administration;
+&emsp;“(1) the tremendous growth required in the activities of the Federal Government in order to meet the country's needs during the past several decades has led to the need for employees in an ever-increasing and changing variety of occupations and professions, many of which did not exist when the basic principles of job evaluation and ranking were established by the Classification Act of 1923 \[Act Mar. 4, 1923, ch. 265, 42 Stat. 1488\]. The diverse and constantly changing nature of these occupations and professions requires that the Federal Government reassess its approach to job evaluation and ranking better to fulfill its role as an employer and assure efficient economical administration;
 
 &emsp;“(2) the large number and variety of job evaluation and ranking systems in the executive branch have resulted in significant inequities in selection, promotion, and pay of employees in comparable positions among these systems;
 

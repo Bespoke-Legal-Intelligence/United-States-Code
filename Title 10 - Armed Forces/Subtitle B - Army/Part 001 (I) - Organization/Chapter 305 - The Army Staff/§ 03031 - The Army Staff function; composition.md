@@ -1,4 +1,4 @@
-### §3031 . The Army Staff: function; composition
+### §3031. The Army Staff: function; composition
 
 (a) There is in the executive part of the Department of the Army an Army Staff. The function of the Army Staff is to assist the Secretary of the Army in carrying out his responsibilities.
 

@@ -42,7 +42,7 @@
 
 (d)(1) Any determination made under subsection (b)(9) of this section shall be in writing and shall include the name and title of the officer or employee affected, the reason for such determination, and the duration of the authorization for such officer or employee to use a passenger carrier for transportation between residence and place of employment.
 
-(2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end of each such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
+(2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end ofeach such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
 
 (3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President under subsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
 
@@ -50,7 +50,7 @@
 
 (e)(1) Not later than March 15, 1987, the Administrator of General Services, after consultation with the Comptroller General, the Director of the Office of Management and Budget, and the Director of the Administrative Office of the United States Courts, shall promulgate regulations governing the heads of all Federal agencies in making the determinations authorized by subsections (a)(2)(A), (b)(9), and (d)(2) of this section. Such regulations shall specify that the comfort and convenience of an officer or employee is not sufficient justification for authorizations of transportation under this section.
 
-(2) In promulgating regulations under paragraph (1) of this subsection, the Administratorof General Services shall provide criteria defining the term “field work” for purposes of subsection (a)(2)(A) of this section. Such criteria shall ensure that transportation between an employee's residence and the location of the field work will be authorized only to the extent that such transportation will substantially increase the efficiency and economy of the Government.
+(2) In promulgating regulations under paragraph (1) of this subsection, the Administrator of General Services shall provide criteria defining the term “field work” for purposes of subsection (a)(2)(A) of this section. Such criteria shall ensure that transportation between an employee's residence and the location of the field work will be authorized only to the extent that such transportation will substantially increase the efficiency and economy of the Government.
 
 (f) Each Federal agency shall maintain logs or other records necessary to establish the official purpose for Government transportation provided between an individual's residence and such individual's place of employment pursuant to this section.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(G) any establishment in the executive branch of the Government (including the Executive Office of the President);
 
-&emsp;&emsp;(H) any independent regulatory agency (including an independent regulatory agency specified in section 3502(10) of title 44);
+&emsp;&emsp;(H) any independent regulatory agency (including an independent regulatory agency specified in section 3502(10) <sup>1</sup> of title 44);
 
 &emsp;&emsp;(I) the Smithsonian Institution; and
 
@@ -118,6 +118,8 @@ Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in s
 
 Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by Pub. L. 100–202. See 1987 Amendment note below.
 
+Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
+
 #### Amendments
 
 1994—Subsecs. (b), (d), (e). Pub. L. 103–272 amended Pub. L. 100–202. See 1987 Amendment notes below.
@@ -154,7 +156,7 @@ Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended b
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -171,4 +173,6 @@ Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, provided
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1349 of this title; title 5 section 3374; title 22 section 3622; title 40 section 491.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

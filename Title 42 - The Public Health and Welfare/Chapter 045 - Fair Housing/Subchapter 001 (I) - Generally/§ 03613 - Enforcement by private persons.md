@@ -2,7 +2,7 @@
 
 #### (a) Civil action
 
-(1)(A) An aggrieved person may commence a civil action in an appropriate United States district court or State court not later than 2 years after the occurrence or the termination of an alleged discriminatory housing practice, or the breach of a conciliation agreement entered into under this subchapter, whichever occurs last, toobtain appropriate relief with respect to such discriminatory housing practice or breach.
+(1)(A) An aggrieved person may commence a civil action in an appropriate United States district court or State court not later than 2 years after the occurrence or the termination of an alleged discriminatory housing practice, or the breach of a conciliation agreement entered into under this subchapter, whichever occurs last, to obtain appropriate relief with respect to such discriminatory housing practice or breach.
 
 (B) The computation of such 2-year period shall not include any time during which an administrative proceeding under this subchapter was pending with respect to a complaint or charge under this subchapter based upon such discriminatory housing practice. This subparagraph does not apply to actions arising from a breach of a conciliation agreement.
 

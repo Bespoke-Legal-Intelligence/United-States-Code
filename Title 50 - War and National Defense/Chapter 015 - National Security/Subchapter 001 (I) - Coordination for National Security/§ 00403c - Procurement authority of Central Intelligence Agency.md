@@ -18,7 +18,7 @@ The power of the Agency head to make the determinations or decisions specified i
 
 #### (e) Automatic data processing equipment and services
 
-Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automaticdata processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.
+Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.
 
 (June 20, 1949, ch. 227, §3, 63 Stat. 208; Sept. 27, 1982, Pub. L. 97–269, title V, §502(a), 96 Stat. 1145.)
 

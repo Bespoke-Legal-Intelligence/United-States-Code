@@ -6,7 +6,7 @@ The Congress recognizes the humanitarian needs of disadvantaged children in Asia
 
 #### (b) Authority of President
 
-Accordingly, the President is authorized to expend up to $3,000,000 of funds made available under part I of this subchapter, in addition to funds otherwise available for such purposes, to help meet the needs of these disadvantaged children in Asia by assisting in the expansion and improvement of orphanages, hostels, day carecenters, school feeding programs, and health, education, and welfare programs. Assistance provided under this section shall be furnished under the auspices of and by international organizations or private voluntary agencies operating within, and in cooperation with, the countries of Asia where these disadvantaged children reside.
+Accordingly, the President is authorized to expend up to $3,000,000 of funds made available under part I of this subchapter, in addition to funds otherwise available for such purposes, to help meet the needs of these disadvantaged children in Asia by assisting in the expansion and improvement of orphanages, hostels, day care centers, school feeding programs, and health, education, and welfare programs. Assistance provided under this section shall be furnished under the auspices of and by international organizations or private voluntary agencies operating within, and in cooperation with, the countries of Asia where these disadvantaged children reside.
 
 (Pub. L. 87–195, pt. I, §241, as added Pub. L. 95–424, title I, §116, Oct. 6, 1978, 92 Stat. 952; amended Pub. L. 99–83, title IX, §903(a), Aug. 8, 1985, 99 Stat. 268.)
 

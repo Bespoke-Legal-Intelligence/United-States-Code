@@ -14,7 +14,7 @@ During the 2-year period beginning on September 23, 1994, each Federal banking a
 
 &emsp;(2) work jointly with the other Federal banking agencies to make uniform all regulations and guidelines implementing common statutory or supervisory policies; and
 
-&emsp;(3) submit a joint report to the Congress at the end of such 2-year period detailing the progress of the agencies in carrying out this subsection.
+&emsp;(3) submit a joint report to the Congress at the end of such 2-year period detailing theprogress of the agencies in carrying out this subsection.
 
 #### (b) Review of disclosures
 

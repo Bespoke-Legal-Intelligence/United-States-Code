@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 &emsp;(3) “basic work requirement” means the number of hours, excluding overtime hours, which an employee is required to work or is required to account for by leave or otherwise;
 
-&emsp;(4) “credit hours” means any hours, within a flexible schedule established under section 6122 of this title, which are in excess of an employee's basic work requirement and which the employee elects to work so as to vary the length of a workweek or a workday;
+&emsp;(4) “credit hours” means any hours, within a flexible schedule established under section 6122 of this title, which are in excess of an employee's basic work requirement and which theemployee elects to work so as to vary the length of a workweek or a workday;
 
 &emsp;(5) “compressed schedule” means—
 
@@ -30,5 +30,5 @@ For purposes of this subchapter—
 
 #### Amendments
 
-1989—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
+<b>1989</b>—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
 

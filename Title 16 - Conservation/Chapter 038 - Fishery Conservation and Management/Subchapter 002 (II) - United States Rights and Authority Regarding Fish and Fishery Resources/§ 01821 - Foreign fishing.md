@@ -150,7 +150,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 &emsp;(3) shall require the submission of pertinent data to the Secretary, with respect to such fishery, as described in section 1853(a)(5) of this title; and
 
-&emsp;(4) may, to the extent necessary to prevent irreversible effects from overfishing, with respect to such fishery, contain conservation and management measures applicable to foreign fishing which—
+&emsp;(4) may, to the extent necessary to prevent irreversible effects from overfishing, with respect to such fishery, contain conservationand management measures applicable to foreign fishing which—
 
 &emsp;&emsp;(A) are determined to be necessary and appropriate for the conservation and management of such fishery,
 
@@ -192,7 +192,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 #### (j) Recreational fishing
 
-Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1855 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
+Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1855 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions tobe applied by the Secretary under the authority of this subsection.
 
 (Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399.)
 
@@ -246,7 +246,7 @@ Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted “both United 
 
 Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting “in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation” for “in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen”.
 
-1983—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) of this section be permitted to be stationed aboard any such vessel andthat all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
+1983—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
 
 Subsec. (c)(4)(D). Pub. L. 97–453, §2(a)(2), added subpar. (D).
 
@@ -289,6 +289,18 @@ Section 2(b) of Pub. L. 97–453 provided that: “The amendments made by subsec
 Sections 231(b), 238(b) of Pub. L. 96–561 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the 1981 harvesting season and harvesting seasons thereafter (as defined in section 201(d)(1) of the Magnuson Fishery Conservation and Management Act, as amended by section 301) \[subsec. (d)(1) of this section\].”
 
 Sections 237, 238(b) of Pub. L. 96–561 provided that: “The amendment made by section 236 \[amending this section\] shall take effect October 1, 1981, and shall apply with respect to permits issued under section 204 of the Magnuson Fishery Conservation and Management Act \[section 1824 of this title\] after December 31, 1981.”
+
+#### Foreign Fishing for Atlantic Herring and Mackerel
+
+Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, provided that: “Notwithstanding any other provision of law—
+
+&emsp;“(1) no allocation may be made to any foreign nation or vessel under section 201 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) \[16 U.S.C. 1821\] in any fishery for which there is not a fishery management plan implemented in accordance with that Act \[16 U.S.C. 1801 et seq.\]; and
+
+&emsp;“(2) the Secretary of Commerce may not approve the portion of any permit application submitted under section 204(b) of the Act \[16 U.S.C. 1824(b)\] which proposes fishing by a foreign vessel for Atlantic mackerel or Atlantic herring unless—
+
+&emsp;&emsp;“(A) the appropriate regional fishery management council recommends under section 204(b)(5) of that Act that the Secretary approve such fishing, and
+
+&emsp;&emsp;“(B) the Secretary of Commerce includes in the permit any conditions or restrictions recommended by the appropriate regional fishery management council with respect to such fishing.”
 
 #### Use of Vessel Identification Equipment
 

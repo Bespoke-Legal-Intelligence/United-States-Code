@@ -1,6 +1,6 @@
 ### §8313. Absence from the United States to avoid prosecution
 
-(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individualwhich is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
+(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
 
 &emsp;(1) is under indictment, or has outstanding against him charges preferred under the Uniform Code of Military Justice—
 
@@ -37,4 +37,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### References in Text
 
 The Uniform Code of Military Justice, referred to in text, is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8318 of this title.
 

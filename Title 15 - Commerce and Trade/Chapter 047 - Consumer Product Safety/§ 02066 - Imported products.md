@@ -24,7 +24,7 @@ If it appears to the Commission that any consumer product which may be refused a
 
 #### (d) Supervision of modifications
 
-All actions taken by an owner or consignee to modify such product under subsection (c) of this section shall be subject to the supervision of an officer or employee of the Commission and of the Department of the Treasury. If it appears to the Commission that the product cannot be somodified or that the owner or consignee is not proceeding satisfactorily to modify such product, it shall be refused admission into the customs territory of the United States, and the Commission may direct the Secretary to demand redelivery of the product into customs custody, and to seize the product in accordance with section 2071(b) of this title if it is not so redelivered.
+All actions taken by an owner or consignee to modify such product under subsection (c) of this section shall be subject to the supervision of an officer or employee of the Commission and of the Department of the Treasury. If it appears to the Commission that the product cannot be so modified or that the owner or consignee is not proceeding satisfactorily to modify such product, it shall be refused admission into the customs territory of the United States, and the Commission may direct the Secretary to demand redelivery of the product into customs custody, and to seize the product in accordance with section 2071(b) of this title if it is not so redelivered.
 
 #### (e) Product destruction
 
@@ -46,7 +46,7 @@ The Commission may, by rule, condition the importation of a consumer product on 
 
 (3) The Commission shall periodically report to the Congress the results of the surveillance program under paragraph (1).
 
-(Pub. L. 92 573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100 418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101 608, title I, §114, Nov. 16, 1990, 104 Stat. 3118.)
+(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118.)
 
 #### References in Text
 
@@ -54,11 +54,11 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 #### Amendments
 
-1990—Subsec. (h). Pub. L. 101 608 added subsec. (h).
+1990—Subsec. (h). Pub. L. 101–608 added subsec. (h).
 
-1988—Subsec. (a). Pub. L. 100 418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
+1988—Subsec. (a). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100 418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 

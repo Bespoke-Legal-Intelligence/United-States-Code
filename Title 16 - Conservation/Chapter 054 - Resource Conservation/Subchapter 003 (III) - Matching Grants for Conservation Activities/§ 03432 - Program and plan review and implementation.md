@@ -12,5 +12,5 @@
 
 #### References in Text
 
-The Soil and Water Resources Conservation Act of 1977, referred to in subsec. (a), is Pub. L. 95–192, Nov. 18,1977, 91 Stat. 1407, which is classified generally to chapter 40 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Soil and Water Resources Conservation Act of 1977, referred to in subsec. (a), is Pub. L. 95–192, Nov. 18, 1977, 91 Stat. 1407, which is classified generally to chapter 40 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 

@@ -16,7 +16,7 @@
 
 &emsp;(B) The attainment date for an area designated nonattainment with respect to a secondary national ambient air quality standard shall be the date by which attainment can be achieved as expeditiously as practicable after the date such area was designated nonattainment under section 7407(d) of this title.
 
-&emsp;(C) Upon application by any State, the Administrator may extend for 1 additional year\(hereinafter referred to as the “Extension Year”) the attainment date determined by the Administrator under subparagraph (A) or (B) if—
+&emsp;(C) Upon application by any State, the Administrator may extend for 1 additional year (hereinafter referred to as the “Extension Year”) the attainment date determined by the Administrator under subparagraph (A) or (B) if—
 
 &emsp;&emsp;(i) the State has complied with all requirements and commitments pertaining to the area in the applicable implementation plan, and
 
@@ -56,7 +56,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (6) Other measures
 
-&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketable permits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
+&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketablepermits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
 
 #### (7) Compliance with section 7410(a)(2)
 
@@ -72,7 +72,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (d) Plan revisions required in response to finding of plan inadequacy
 
-Any plan revision for a nonattainment area which is required to be submitted in response to a finding by the Administrator pursuant to section 7410(k)(5) of this title (relating to calls for plan revisions) must correct the plan deficiency (or deficiencies) specified by the Administrator and meet all other applicable plan requirements of section 7410 of this title and this part. The Administrator may reasonably adjust the dates otherwise applicable under such requirements to such revision (except for attainment dates that have not yet elapsed), to the extent necessary toachieve a consistent application of such requirements. In order to facilitate submittal by the States of adequate and approvable plans consistent with the applicable requirements of this chapter, the Administrator shall, as appropriate and from time to time, issue written guidelines, interpretations, and information to the States which shall be available to the public, taking into consideration any such guidelines, interpretations, or information provided before November 15, 1990.
+Any plan revision for a nonattainment area which is required to be submitted in response to a finding by the Administrator pursuant to section 7410(k)(5) of this title (relating to calls for plan revisions) must correct the plan deficiency (or deficiencies) specified by the Administrator and meet all other applicable plan requirements of section 7410 of this title and this part. The Administrator may reasonably adjust the dates otherwise applicable under such requirements to such revision (except for attainment dates that have not yet elapsed), to the extent necessary to achieve a consistent application of such requirements. In order to facilitate submittal by the States of adequate and approvable plans consistent with the applicable requirements of this chapter, the Administrator shall, as appropriate and from time to time, issue written guidelines, interpretations, and information to the States which shall be available to the public, taking into consideration any such guidelines, interpretations, or information provided before November 15, 1990.
 
 #### (e) Future modification of standard
 

@@ -32,5 +32,5 @@ The material referred to in subsection (c)(2)(B) of this section shall not be in
 
 The requirements of this section shall take effect with respect to any rule the proposal of which occurs after 90 days after October 28, 1992.
 
-(Pub. L. 94 469, title IV, §411, as added Pub. L. 102 550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3922.)
+(Pub. L. 94–469, title IV, §411, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3922.)
 

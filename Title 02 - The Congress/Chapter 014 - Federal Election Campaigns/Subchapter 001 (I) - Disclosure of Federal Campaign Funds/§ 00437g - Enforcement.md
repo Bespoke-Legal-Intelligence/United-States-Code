@@ -46,7 +46,7 @@
 
 (12)(A) Any notification or investigation made under this section shall not be made public by the Commission or by any person without the written consent of the person receiving such notification or the person with respect to whom such investigation is made.
 
-(B) Any member or employee of the Commission, or any other person, who violates the provisions of subparagraph (A) shall be fined notmore than $2,000. Any such member, employee, or other person who knowingly and willfully violates the provisions of subparagraph (A) shall be fined not more than $5,000.
+(B) Any member or employee of the Commission, or any other person, who violates the provisions of subparagraph (A) shall be fined not more than $2,000. Any such member, employee, or other person who knowingly and willfully violates the provisions of subparagraph (A) shall be fined not more than $5,000.
 
 #### (b) Notice to persons not filing required reports prior to institution of enforcement action; publication of identity of persons and unfiled reports
 

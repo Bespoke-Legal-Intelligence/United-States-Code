@@ -48,7 +48,7 @@ For purposes of this section—
 
 There shall be paid out of the contingent fund of the House of Representatives, until otherwise provided by law, such sums as may be necessary to make payments of overtime pay under the provisions of this section.
 
-(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 93–245, ch. VI, §600, Jan. 3, 1974, 87 Stat. 1079; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 93–245, ch. VI, §600, Jan. 3, 1974, 87 Stat.1079; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777.)
 
 #### Codification
 
@@ -58,7 +58,7 @@ Subsec. (g) of this section was originally enacted as section 3 of House Res. No
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversightof House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

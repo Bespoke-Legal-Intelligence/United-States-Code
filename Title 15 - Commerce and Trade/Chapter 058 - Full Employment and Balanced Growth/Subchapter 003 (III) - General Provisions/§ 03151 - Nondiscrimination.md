@@ -10,7 +10,7 @@ Whenever the Secretary of Labor determines that a recipient of funds made availa
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 
-&emsp;(2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.)<sup>1</sup> or
+&emsp;(2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) <sup>1</sup> or
 
 &emsp;(3) take such other action as may be provided by law.
 
@@ -22,19 +22,19 @@ When a matter is referred to the Attorney General pursuant to subsection (b) of 
 
 To assist and evaluate the enforcement of this section, and the broader equal employment opportunity policies of this chapter the Secretary of Labor shall include, in the annual Employment and Training Report of the President provided under section 705(a) of CETA, a detailed analysis of the extent to which the enforcement of this section achieves positive results in both the quantity and quality of jobs, and for employment opportunities generally.
 
-(Pub. L. 95 523, title IV, §401, Oct. 27, 1978, 92 Stat. 1907.)
+(Pub. L. 95–523, title IV, §401, Oct. 27, 1978, 92 Stat. 1907.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a), (b), and (d), see References in Text note set out under section 3102 of this title.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88 352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-Section 705(a) of CETA, referred to in subsec. (d), means section 705(a) of the Comprehensive Employment and Training Act, Pub. L. 93 203, title VII, Dec. 28, 1973, 87 Stat. 879, which was classified to section 985(a) of Title 29, Labor, and was omitted from the Code in the general revision of Pub. L. 93 203 of 1973 by Pub. L. 95 524, Oct. 27, 1978, 92 Stat. 1909. The Act was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97 300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97 300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
+Section 705(a) of CETA, referred to in subsec. (d), means section 705(a) of the Comprehensive Employment and Training Act, Pub. L. 93–203, title VII, Dec. 28, 1973, 87 Stat. 879, which was classified to section 985(a) of Title 29, Labor, and was omitted from the Code in the general revision of Pub. L. 93–203 of 1973 by Pub. L. 95–524, Oct. 27, 1978, 92 Stat. 1909. The Act was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97–300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3116 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

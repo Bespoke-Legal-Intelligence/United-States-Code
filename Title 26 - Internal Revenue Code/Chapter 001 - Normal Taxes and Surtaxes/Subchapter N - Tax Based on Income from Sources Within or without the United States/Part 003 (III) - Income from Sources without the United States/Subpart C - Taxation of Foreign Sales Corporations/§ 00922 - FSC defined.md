@@ -26,7 +26,7 @@ For purposes of this title, the term “FSC” means any corporation—
 
 &emsp;&emsp;(E) at all times during the taxable year, has a board of directors which includes at least one individual who is not a resident of the United States, and
 
-&emsp;&emsp;(F) is not a member, at any time during the taxable year, of any controlled group ofcorporations of which a DISC is a member, and
+&emsp;&emsp;(F) is not a member, at any time during the taxable year, of any controlled group of corporations of which a DISC is a member, and
 
 &emsp;(2) which has made an election (at the time and in the manner provided in section 927(f)(1)) which is in effect for the taxable year to be treated as a FSC.
 

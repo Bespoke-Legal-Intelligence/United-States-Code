@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 101–595, §602(c)(1), amended subsec. (c) generally. Prio
 
 Subsec. (f). Pub. L. 101–595, §602(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall examine a fish processing vessel at least once every two years to ensure that the vessel complies with the requirements of this chapter.”
 
-1988—Pub. L. 100–424 amended section generally, substituting “Safety standards” for “Regulations” in section catchline, adding subsecs. (a) and (b), redesignating former subsec. (a) as (c) and establishing list of standards as minimum safety standards, in addition to requirements of subsecs. (a) and (b), for vessels built after Dec. 31, 1988, or that undergo major conversion completed after that date, that operate with more than 16 individuals on board, adding subsec. (d), redesignating former subsec. (b) as (e) and striking out provisions which required Secretary to consult with representatives of private sector, experienced in operation ofthese vessels, to ensure practicability of regulations, and adding subsec. (f).
+1988—Pub. L. 100–424 amended section generally, substituting “Safety standards” for “Regulations” in section catchline, adding subsecs. (a) and (b), redesignating former subsec. (a) as (c) and establishing list of standards as minimum safety standards, in addition to requirements of subsecs. (a) and (b), for vessels built after Dec. 31, 1988, or that undergo major conversion completed after that date, that operate with more than 16 individuals on board, adding subsec. (d), redesignating former subsec. (b) as (e) and striking out provisions which required Secretary to consult with representatives of private sector, experienced in operation of these vessels, to ensure practicability of regulations, and adding subsec. (f).
 
 1984—Subsec. (b)(3). Pub. L. 98–557 substituted “this chapter” for “the exemption”.
 
@@ -130,7 +130,7 @@ Section 602(f) of Pub. L. 101–595, provided that: “This section \[amending t
 
 &emsp;“(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
 
-&emsp;“(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
+&emsp;“(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does notapply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
 
 &emsp;&emsp;“(A)(i) before September 8, 1990, operated in that trade; or
 

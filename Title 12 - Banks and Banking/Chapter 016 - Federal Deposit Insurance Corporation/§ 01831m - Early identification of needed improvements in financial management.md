@@ -86,7 +86,7 @@ Each insured depository institution shall prepare—
 
 #### (1) In general
 
-&emsp;The scope of each report by an independent public accountant pursuant to this section,and the procedures followed in preparing such report, shall meet or exceed the scope and procedures required by generally accepted auditing standards and other applicable standards recognized by the Corporation.
+&emsp;The scope of each report by an independent public accountant pursuant to this section, and the procedures followed in preparing such report, shall meet or exceed the scope and procedures required by generally accepted auditing standards and other applicable standards recognized by the Corporation.
 
 #### (2) Consultation
 
@@ -170,7 +170,7 @@ Each insured depository institution shall prepare—
 
 #### (B) Additional information
 
-&emsp;&emsp;In addition to the copies of the reports required to be provided under subparagraph (A), each insured depository institution shall provide the auditor with—
+&emsp;&emsp;In addition to the copies of the reports required to be provided under subparagraph\(A), each insured depository institution shall provide the auditor with—
 
 &emsp;&emsp;&emsp;(i) a copy of any supervisory memorandum of understanding with such institution and any written agreement between such institution and any appropriate Federal banking agency or any appropriate State bank supervisor which is in effect during the period covered by the audit; and
 
@@ -254,5 +254,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date
 
-Section 112(c), formerly 112(b), of Pub. L. 102–242, as redesignated by Pub. L. 102–550, title XVI,§1603(b)(2)(A), Oct. 28, 1992, 106 Stat. 4079, provided that: “The requirements established by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992.”
+Section 112(c), formerly 112(b), of Pub. L. 102–242, as redesignated by Pub. L. 102–550, title XVI, §1603(b)(2)(A), Oct. 28, 1992, 106 Stat. 4079, provided that: “The requirements established by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992.”
 

@@ -42,7 +42,7 @@ Availability of Information.—(1) On request of a State, the Secretary or the o
 
 (f)
 
-Fee System.—If the Secretary establishes an information system under this section, theSecretary shall establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).
+Fee System.—If the Secretary establishes an information system under this section, the Secretary shall establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020.)
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–190 struck out “(1)” after “carried out only” and “, or (2) after each such committee has approved the project, if the committees approve the project before the end of that period” before period at end.
+1991—Subsec. (b). Pub. L. 102–190 struck out “(1)” after “carried out only” and “, or (2) after each suchcommittee has approved the project, if the committees approve the project before the end of that period” before period at end.
 
 #### Effective Date
 

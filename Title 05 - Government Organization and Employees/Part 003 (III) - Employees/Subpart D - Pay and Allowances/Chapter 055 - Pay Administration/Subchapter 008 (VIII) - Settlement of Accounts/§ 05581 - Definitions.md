@@ -98,7 +98,7 @@ Section 5344 of this title, referred to in par. (2)(I), was amended generally by
 
 #### Amendments
 
-1979—Par. (1). Pub. L. 96–54 inserted “and” after cl. (iv).
+<b>1979</b>—Par. (1). Pub. L. 96–54 inserted “and” after cl. (iv).
 
 #### Effective Date of 1979 Amendment
 

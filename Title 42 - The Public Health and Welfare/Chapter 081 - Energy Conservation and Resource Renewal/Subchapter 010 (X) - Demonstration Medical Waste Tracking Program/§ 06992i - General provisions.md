@@ -8,7 +8,7 @@
 
 #### (b) Public comment
 
-In the case of the regulations required by this subchapter to be promulgated within 9 months after November 1, 1988, the Administrator may promulgate such regulations in interim final form without prior opportunity for public comment, but the Administrator shall provide an opportunity for public comment on the interim final rule. The promulgation of such regulations shall not be subject to the Paperwork Reduction Act of 1980 \[44 U.S.C. 3501 et seq.\].
+In the case of the regulations required by this subchapter to be promulgated within 9 months after November 1, 1988, the Administrator may promulgate such regulations in interim final form without prior opportunity for public comment, but the Administrator shall provide an opportunity for public comment on the interim final rule. The promulgation of such regulations shall not be subject to the Paperwork Reduction Act of 1980.<sup>1</sup>
 
 #### (c) Relationship to subchapter III
 
@@ -18,5 +18,7 @@ Nothing in this subchapter shall affect the authority of the Administrator to re
 
 #### References in Text
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which is classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

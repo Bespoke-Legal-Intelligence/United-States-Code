@@ -34,5 +34,5 @@ Subsection (b) is substituted for the source provision and made applicable to th
 
 #### Regulations
 
-Final regulations implementing this chapter were issued by the Administrator on Dec. 22, 1994, 59 F.R.67544, effective June 27, 1995. This effective date was extended until Sept. 27, 1995, by notice of the Administrator on May 11, 1995, 60 F.R. 26001. This date was further extended until Sept. 1, 1996, by determination of the Administrator on Aug. 3, 1995, 60 F.R. 40761.
+Final regulations implementing this chapter were issued by the Administrator on Dec. 22, 1994, 59 F.R. 67544, effective June 27, 1995. This effective date was extended until Sept. 27, 1995, by notice of the Administrator on May 11, 1995, 60 F.R. 26001. This date was further extended until Sept. 1, 1996, by determination of the Administrator on Aug. 3, 1995, 60 F.R. 40761.
 

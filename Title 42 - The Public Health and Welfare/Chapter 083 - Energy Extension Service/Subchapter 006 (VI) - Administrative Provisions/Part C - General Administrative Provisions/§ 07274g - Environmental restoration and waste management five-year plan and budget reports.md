@@ -4,7 +4,7 @@
 
 (1) Not later than September 1 of each year, the Secretary of Energy shall issue a plan for environmental restoration and waste management activities to be conducted, during the five-year period beginning on October 1 of the next calendar year, at all facilities owned or operated by the Department of Energy except defense nuclear facilities. The plan also shall contain a description of environmental restoration and waste management activities conducted during the fiscal year in which the plan is submitted and of such activities to be conducted during the fiscal year beginning on October 1 of the same calendar year. Such five-year plan shall be designed to complete environmental restoration at all such Department of Energy facilities not later than the year 2019.
 
-(2) The Secretary shall prepare each annual five-year plan in a preliminary form at leastfour months before the date on which that plan is required to be issued under paragraph (1). The preliminary plan shall contain the matters referred to in paragraph (4) (other than the matters referred to in subparagraph (J) of that paragraph). The Secretary shall provide the preliminary plan to the Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and the public for coordination, review, and comment.
+(2) The Secretary shall prepare each annual five-year plan in a preliminary form at least four months before the date on which that plan is required to be issued under paragraph (1). The preliminary plan shall contain the matters referred to in paragraph (4) (other than the matters referred to in subparagraph (J) of that paragraph). The Secretary shall provide the preliminary plan to the Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and the public for coordination, review, and comment.
 
 (3) At the same time the Secretary issues an annual five-year plan under paragraph (1), the Secretary shall submit the plan to the President and Congress, publish a notice of the issuance of the plan in the Federal Register, and make the plan available to the Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and the public.
 
@@ -66,7 +66,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §3160(a)(1), substituted “all facilities owned or operated by the Department of Energy except defense nuclear facilities”for “(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy” in first sentence and inserted “such” after “restoration at all” in third sentence.
+1994—Subsec. (a)(1). Pub. L. 103–337, §3160(a)(1), substituted “all facilities owned or operated by the Department of Energy except defense nuclear facilities” for “(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy” in first sentence and inserted “such” after “restoration at all” in third sentence.
 
 Subsec. (a)(4). Pub. L. 103–337, §3160(a)(2), substituted “The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:” for “The plan shall contain the following matters:” in introductory provisions.
 

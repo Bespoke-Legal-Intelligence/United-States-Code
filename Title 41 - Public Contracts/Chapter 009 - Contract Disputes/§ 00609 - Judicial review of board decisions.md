@@ -22,7 +22,7 @@ If two or more suits arising from one contract are filed in the United States Co
 
 #### (e) Judgments as to fewer than all claims
 
-In any suit filed pursuant to this chapter involving two or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one such claim can be divided for purposes of decision or judgment, and in any such suit where multiple parties are involved, the court, whenever such action is appropriate, mayenter a judgment as to one or more but fewer than all of the claims, portions thereof, or parties.
+In any suit filed pursuant to this chapter involving two or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one such claim can be divided for purposes of decision or judgment, and in any such suit where multiple parties are involved, the court, whenever such action is appropriate, may enter a judgment as to one or more but fewer than all of the claims, portions thereof, or parties.
 
 #### (f) Advisory opinions
 

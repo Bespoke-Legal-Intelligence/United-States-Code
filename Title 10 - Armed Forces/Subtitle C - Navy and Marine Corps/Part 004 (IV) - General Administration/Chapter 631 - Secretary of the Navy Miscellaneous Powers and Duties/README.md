@@ -3,17 +3,17 @@
 | Sec. |  |
 | :--- | ---: |
 | \[7201 to 7203. Repealed.\] |  |
-| 7204\. | Schools near naval activities: financial aid. |
-| 7205\. | Promotion of health and prevention of accidents. |
+| [7204\.](%C2%A7%2007204%20-%20Schools%20near%20naval%20activities%20financial%20aid.md) | Schools near naval activities: financial aid. |
+| [7205\.](%C2%A7%2007205%20-%20Promotion%20of%20health%20and%20prevention%20of%20accidents.md) | Promotion of health and prevention of accidents. |
 | \[7206. | Repealed.\] |
-| 7207\. | Administration of liberated and occupied areas. |
+| [7207\.](%C2%A7%2007207%20-%20Administration%20of%20liberated%20and%20occupied%20areas.md) | Administration of liberated and occupied areas. |
 | \[7208 to 7210. Repealed.\] |  |
-| 7211\. | Attendance at meetings of technical, professional, or scientific organizations. |
-| 7212\. | Employment of outside architects and engineers. |
+| [7211\.](%C2%A7%2007211%20-%20Attendance%20at%20meetings%20of%20technical%2C%20professional%2C%20or%20scientific%20organizations.md) | Attendance at meetings of technical, professional, or scientific organizations. |
+| [7212\.](%C2%A7%2007212%20-%20Employment%20of%20outside%20architects%20and%20engineers.md) | Employment of outside architects and engineers. |
 | \[7213. | Repealed.\] |
-| 7214\. | Apprehension of deserters and prisoners; operation of shore patrols. |
+| [7214\.](%C2%A7%2007214%20-%20Apprehension%20of%20deserters%20and%20prisoners%3B%20operation%20of%20shore%20patrols.md) | Apprehension of deserters and prisoners; operation of shore patrols. |
 | \[7215. | Repealed.\] |
-| 7216\. | Collection, preservation, and display of captured flags. |
+| [7216\.](%C2%A7%2007216%20-%20Collection%2C%20preservation%2C%20and%20display%20of%20captured%20flags.md) | Collection, preservation, and display of captured flags. |
 | \[7217, 7218. Repealed.\] |  |
 | [7219\.](%C2%A7%2007219%20-%20Leases%20of%20waterfront%20property%20from%20States%20or%20municipalities.md) | Leases of waterfront property from States or municipalities. |
 | [7220\.](%C2%A7%2007220%20-%20Gifts%20for%20welfare%20of%20enlisted%20members.md) | Gifts for welfare of enlisted members. |

@@ -1,4 +1,4 @@
-### §109 . Additional lands
+### §109. Additional lands
 
 The tract of land within the following-described boundaries is excluded from the Rainier National Forest and is added to and made a part of the Mount Rainier National Park, in the State of Washington:
 

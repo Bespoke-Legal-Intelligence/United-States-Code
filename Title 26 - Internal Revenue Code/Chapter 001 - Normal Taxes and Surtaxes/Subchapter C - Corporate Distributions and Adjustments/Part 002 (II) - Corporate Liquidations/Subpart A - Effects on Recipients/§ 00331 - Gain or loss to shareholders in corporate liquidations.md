@@ -12,7 +12,7 @@ Section 301 (relating to effects on shareholder of distributions of property) sh
 
 &emsp;&emsp;<b>For general rule for determination of the amount of gain or loss recognized, see section 1001.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 101; Feb. 26, 1964, Pub. L. 88–272, title II, §225(f)(2), 78 Stat. 88; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(28)(A),90 Stat. 1799; Sept. 3, 1982, Pub. L. 97–248, title II, §222(a), (e)(1)(B), 96 Stat. 478, 480.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 101; Feb. 26, 1964, Pub. L. 88–272, title II, §225(f)(2), 78 Stat. 88; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(28)(A), 90 Stat. 1799; Sept. 3, 1982, Pub. L. 97–248, title II, §222(a), (e)(1)(B), 96 Stat. 478, 480.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 8
 
 #### Act April 20, 1950, as Controlling Law; Housing and Home Finance Administrator Unaffected
 
-Section 509 of act Apr. 20, 1950, provided that: “Insofar as the provisions of any other law are inconsistentwith the provisions of this Act \[see Tables for classification\] the provisions of this Act shall be controlling: <i>Provided</i>, That nothing contained in this Act shall affect the authority of the Housing and Home Finance Administrator under title II of Public Law 266, Eighty-first Congress \[Act Aug. 24, 1949, ch. 506, title II, 63 Stat. 657\].”
+Section 509 of act Apr. 20, 1950, provided that: “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Tables for classification\] the provisions of this Act shall be controlling: <i>Provided</i>, That nothing contained in this Act shall affect the authority of the Housing and Home Finance Administrator under title II of Public Law 266, Eighty-first Congress \[Act Aug. 24, 1949, ch. 506, title II, 63 Stat. 657\].”
 
 #### Powers and Authorities of Act April 20, 1950, as Cumulative; Separability
 

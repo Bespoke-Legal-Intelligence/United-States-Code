@@ -14,5 +14,5 @@ Not less than thirty months nor more than thirty-six months after November 28, 1
 
 &emsp;(3) recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of the objectives of this chapter as set forth in section 2402 of this title.
 
-(Pub. L. 94 136, title V, §501, Nov. 28, 1975, 89 Stat. 742.)
+(Pub. L. 94–136, title V, §501, Nov. 28, 1975, 89 Stat. 742.)
 

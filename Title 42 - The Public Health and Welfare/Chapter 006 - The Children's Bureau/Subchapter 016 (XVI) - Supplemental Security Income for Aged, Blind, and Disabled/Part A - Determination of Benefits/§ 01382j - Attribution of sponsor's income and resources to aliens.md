@@ -54,7 +54,7 @@ Any sponsor of an alien, and such alien, shall be jointly and severally liable f
 
 #### Amendment of Section
 
-<i>Pub. L. 103–152, §7(b), Nov. 24, 1993, 107 Stat. 1519, provided that, effective Oct. 1, 1996, this section is amended by striking “5 years” each place such term appears and inserting “3 years”.</i>
+<i>Pub. L. 103–152, §7(b), Nov. 24, 1993, 107 Stat. 1519, provided that, effective Oct. 1, 1996, this</i><i>section is amended by striking “5 years” each place such term appears and inserting “3 years”.</i>
 
 #### References in Text
 

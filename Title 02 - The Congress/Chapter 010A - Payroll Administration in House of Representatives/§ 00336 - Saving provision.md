@@ -10,7 +10,7 @@ The provisions of this chapter shall not be construed to—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Part”, meaning part 6 (§§471–477) of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1193, which enacted this chapter, amended section 5533 of Title 5, Government Organization and Employees, repealed sections 60g, 60g–1, and 72a of this title, and enacted provisions set out as a note under section 331 of this title. For complete classification of part 6 to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Part”, meaning part 6 (§§471–477) of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1193, which enacted this chapter, amended section 5533 of Title 5, Government Organization and Employees, repealed sections60g, 60g–1, and 72a of this title, and enacted provisions set out as a note under section 331 of this title. For complete classification of part 6 to the Code, see Tables.
 
 #### Transfer of Functions
 

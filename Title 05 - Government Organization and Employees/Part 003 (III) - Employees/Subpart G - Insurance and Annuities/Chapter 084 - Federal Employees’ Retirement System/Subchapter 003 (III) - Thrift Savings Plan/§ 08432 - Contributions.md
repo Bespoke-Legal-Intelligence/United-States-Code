@@ -16,11 +16,11 @@
 
 &emsp;(D) an election to terminate may be made under this subparagraph at any time other than during a period afforded under paragraph (1).
 
-(3) Notwithstanding paragraph (2)(A), an employee or Member who elects to become subject to this chapter under section 301 of the Federal Employees’ Retirement System Act of 1986 may make the first election for the purpose of subsection (a) during the period prescribed for such purpose by the Executive Director. The period prescribed by the Executive Director shall commence on the date on which the employee orMember makes the election to become subject to this chapter.
+(3) Notwithstanding paragraph (2)(A), an employee or Member who elects to become subject to this chapter under section 301 of the Federal Employees’ Retirement System Act of 1986 may make the first election for the purpose of subsection (a) during the period prescribed for such purpose by the Executive Director. The period prescribed by the Executive Director shall commence on the date on which the employee or Member makes the election to become subject to this chapter.
 
 (4)(A) Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director. The Executive Director shall prescribe an election period for such purpose which shall commence on April 1, 1987. An election by such an employee or Member during that election period shall be effective on the first day of the employee's or Member's first pay period which begins after the date on which the employee or Member makes that election.
 
-(B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during the election period provided under subparagraph (A) is the amount equal to 15 percent of such individual's basic pay for such pay period.
+(B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during theelection period provided under subparagraph (A) is the amount equal to 15 percent of such individual's basic pay for such pay period.
 
 (c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
@@ -68,7 +68,7 @@
 
 (D) The Secretary of the Treasury shall credit to the Thrift Savings Fund, out of any sums in the Treasury not otherwise appropriated, the amounts determined by the Director to be necessary to carry out this paragraph.
 
-(d) Notwithstanding any other provision of this section, no contribution may be made underthis section for any year to the extent that such contribution, when added to prior contributions for such year, exceeds any limitation under section 415 of the Internal Revenue Code of 1986. However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.
+(d) Notwithstanding any other provision of this section, no contribution may be made under this section for any year to the extent that such contribution, when added to prior contributions for such year, exceeds any limitation under section 415 of the Internal Revenue Code of 1986. However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.
 
 (e) The sums required to be contributed to the Thrift Savings Fund by an employing agency under subsection (c) for the benefit of an employee or Member shall be paid from the appropriation or fund available to such agency for payment of salaries of the employee's or Member's office or establishment. When an employee or Member in the legislative branch is paid by the Clerk of the House of Representatives, the Clerk may pay from the contingent fund of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee or Member.
 
@@ -92,6 +92,8 @@
 
 (4) Nothing in paragraph (2) or (3) shall cause the forfeiture of any contributions made for the benefit of an employee, Member, or Congressional employee under subsection (c)(1), or any earnings attributable thereto, if such employee, Member, or Congressional employee is not separated from Government employment as of date of death.
 
+(5) Notwithstanding any other provision of law, contributions made by the Government for the benefit of an employee or Member under subsection (c), and all earnings attributable to such contributions, shall be forfeited if the annuity of the employee or Member, or that of a survivor or beneficiary, is forfeited under subchapter II of chapter 83.
+
 (h) No transfers or contributions may be made to the Thrift Savings Fund except as provided in this chapter or section 8351 of this title.
 
 (i)(1) This subsection applies to any employee—
@@ -106,7 +108,7 @@
 
 (2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965.)
 
 #### References in Text
 
@@ -118,11 +120,13 @@ Section 415 of the Internal Revenue Code of 1986, referred to in subsec. (d), is
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–353, §5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1996</b>—Subsec. (g)(5). Pub. L. 104–93 added par. (5).
+
+<b>1994</b>—Subsec. (d). Pub. L. 103–353, §5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (i). Pub. L. 103–353, §4(c), added subsec. (i).
 
-1988—Subsec. (c)(1)(A). Pub. L. 100–238, §121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
+<b>1988</b>—Subsec. (c)(1)(A). Pub. L. 100–238, §121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
 
 Subsec. (c)(2)(A). Pub. L. 100–238, §121(b), substituted “within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period” for “at the end of such pay period”.
 
@@ -132,23 +136,27 @@ Subsec. (g)(1). Pub. L. 100–238, §115(1), substituted “Except as otherwise 
 
 Subsec. (g)(4). Pub. L. 100–238, §115(2), added par. (4).
 
-1987—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
+<b>1987</b>—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
 
-1986—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
+<b>1986</b>—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
 
 Subsec. (c)(1). Pub. L. 99–509, §6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (c)(2)(C). Pub. L. 99–509, §6001(a)(2)(B), added subpar. (C).
 
+#### Effective Date of 1995 Amendment
+
+Section 304(b) of Pub. L. 104–93 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act \[Jan. 6, 1996\].”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 4(c) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
-Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38.
+Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 
 #### Effective Date of 1986 Amendment
 
-Section 6001(f) of Pub. L. 99–509 provided that: “This section \[amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\], other than subsection (d) \[set out as a note below\], and the amendments made by this section shall take effect on January 1, 1987.”
+Section 6001(f) of Pub. L. 99–509 provided that: “This section \[amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\], other than subsection (d) \[set out below\], and the amendments made by this section shall take effect on January 1, 1987.”
 
 #### Transfer of Functions
 
@@ -218,7 +226,7 @@ Section 6001(c) of Pub. L. 99–509 provided that the requirement that contribut
 
 #### Regulations
 
-Section 6001(d) of Pub. L. 99–509 provided that: “The Executive Director of the Federal Retirement ThriftInvestment Board may prescribe regulations to carry out subsections (a), (b), and (c) \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\] and the amendments made by subsections (a) and (b).”
+Section 6001(d) of Pub. L. 99–509 provided that: “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\] and the amendments made by subsections (a) and (b).”
 
 #### Plan for Delayed Contributions to Thrift Savings Fund
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and membership
 
-There is established a commission to be known as the National Afro-American History and Culture Commission (hereinafter in this chapter referred to as the “Commission”) which shall be composed of fifteen members, as specified in section 3702 of this title.
+There is established a commission to be known as the National Afro-American Historyand Culture Commission (hereinafter in this chapter referred to as the “Commission”) which shall be composed of fifteen members, as specified in section 3702 of this title.
 
 #### (b) Duties
 
@@ -40,9 +40,9 @@ For the purpose of carrying out this chapter, the Commission may—
 
 &emsp;(3) sell, exchange, or otherwise dispose of any property acquired under this subsection and designate any proceeds from such disposal for the benefit of the center.
 
-(Pub. L. 96 430, title II, §202, Oct. 10, 1980, 94 Stat. 1846.)
+(Pub. L. 96–430, title II, §202, Oct. 10, 1980, 94 Stat. 1846.)
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 96 430 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Center for the Study of Afro-American History and Culture Act’.”
+Section 201 of title II of Pub. L. 96–430 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Center for the Study of Afro-American History and Culture Act’.”
 

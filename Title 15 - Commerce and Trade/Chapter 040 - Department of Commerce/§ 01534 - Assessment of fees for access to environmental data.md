@@ -10,7 +10,7 @@ Except as otherwise provided in this section, the Secretary is authorized to ass
 
 (2) The Secretary shall waive the assessment of fees under subsection (a) of this section as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 
-(3) The Secretary shall waive the assessment of fees authorized by subsection (a) of this section as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric<sup>1</sup> Administration.
+(3) The Secretary shall waive the assessment of fees authorized by subsection (a) of this section as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric <sup>1</sup> Administration.
 
 #### (c) Publication of fee schedules in Federal Register; initial schedule effective for three-year period
 
@@ -44,33 +44,33 @@ The Secretary shall, not later than 90 days after November 17, 1988, submit to t
 
 The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44.
 
-(Pub. L. 100 685, title IV, §409, Nov. 17, 1988, 102 Stat. 4100; Pub. L. 101 508, title X, §10201(a), Nov. 5, 1990, 104 Stat. 1388 392.)
+(Pub. L. 100–685, title IV, §409, Nov. 17, 1988, 102 Stat. 4100; Pub. L. 101–508, title X, §10201(a), Nov. 5, 1990, 104 Stat. 1388–392.)
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101 508, §10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
+1990—Subsec. (a). Pub. L. 101–508, §10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
 
-Subsec. (b)(1). Pub. L. 101 508, §10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
+Subsec. (b)(1). Pub. L. 101–508, §10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
 
-Subsec. (b)(2). Pub. L. 101 508, §10201(a)(3), inserted “, information, or products” after “provide data” and substituted “basis of exchanging such data, information, and products” for “data exchange basis”.
+Subsec. (b)(2). Pub. L. 101–508, §10201(a)(3), inserted “, information, or products” after “provide data” and substituted “basis of exchanging such data, information, and products” for “data exchange basis”.
 
-Subsec. (b)(3). Pub. L. 101 508, §10201(a)(4), added par. (3).
+Subsec. (b)(3). Pub. L. 101–508, §10201(a)(4), added par. (3).
 
-Subsec. (d). Pub. L. 101 508, §10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section” in introductory provisions.
+Subsec. (d). Pub. L. 101–508, §10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 101 508, §10201(a)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No fees shall be assessed under this section until after September 30, 1989.”
+Subsec. (d)(1). Pub. L. 101–508, §10201(a)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No fees shall be assessed under this section until after September 30, 1989.”
 
-Subsecs. (e), (f)(1). Pub. L. 101 508, §10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
+Subsecs. (e), (f)(1). Pub. L. 101–508, §10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
 
-Subsec. (g). Pub. L. 101 508, §10201(a)(7), inserted before period at end “, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44”.
+Subsec. (g). Pub. L. 101–508, §10201(a)(7), inserted before period at end “, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44”.
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effect of Amendments
 
-Section 10201(b) of Pub. L. 101 508 provided that:
+Section 10201(b) of Pub. L. 101–508 provided that:
 
 “(1) The increase in revenues to the United States attributable to the amendments made by subsection (a) \[amending this section\] shall not exceed—
 
@@ -82,5 +82,5 @@ Section 10201(b) of Pub. L. 101 508 provided that:
 
 “(3) The Secretary of Commerce shall notify the Congress of any changes in fee schedules under section 409 of the Act of November 17, 1988 (15 U.S.C. 1534), before such changes take effect.”
 
-<i><sup>1</sup></i><i>So in original. Probably should be preceded by “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “and”.</i>
 

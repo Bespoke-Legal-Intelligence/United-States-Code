@@ -27,7 +27,7 @@
 | [4603a.](Subchapter%20001%20%28I%29%20-%20Cooperative%20Research%20Program/%C2%A7%2004603a%20-%20Study%20and%20report%20by%20Semiconductor%20Technology%20Council.md) | Study and report by Semiconductor Technology Council. |
 | (a) | Study and report. |
 | (b) | Council recommendations and report. |
-| [4604\.](Subchapter%20001%20%28I%29%20-%20Cooperative%20Research%20Program/%C2%A7%2004604%20-%20Responsibilities%20of%20the%20Comptroller%20General.md) | Responsibilities of the Comptroller General. |
+| [4604\.](Subchapter%20001%20%28I%29%20-%20Cooperative%20Research%20Program/%C2%A7%2004604%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71031%28a%29%282%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20714.md) | Repealed. |
 | [4605\.](Subchapter%20001%20%28I%29%20-%20Cooperative%20Research%20Program/%C2%A7%2004605%20-%20Export%20of%20semiconductor%20manufacturing.md) | Export of semiconductor manufacturing. |
 | [4606\.](Subchapter%20001%20%28I%29%20-%20Cooperative%20Research%20Program/%C2%A7%2004606%20-%20Protection%20of%20information.md) | Protection of information. |
 | (a) | Freedom of Information Act. |

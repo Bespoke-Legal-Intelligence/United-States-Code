@@ -294,7 +294,7 @@
 
 #### (B) Portion of issue to be used for loans treated as separate issue
 
-&emsp;&emsp;If only a portion of the proceeds of an issue is reasonably expected (at the time of issuance of the bond) to be used (or is intentionally used) as described in paragraph\(4)(A), such portion and the other portion of such issue shall be treated as separate issues for purposes of determining whether such portion meets the requirements of this subsection.
+&emsp;&emsp;If only a portion of the proceeds of an issue is reasonably expected (at the time of issuance of the bond) to be used (or is intentionally used) as described in paragraph (4)(A), such portion and the other portion of such issue shall be treated as separate issues for purposes of determining whether such portion meets the requirements of this subsection.
 
 #### (g) Treatment of hedge bonds
 

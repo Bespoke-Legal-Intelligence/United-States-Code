@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes driving while intoxicated and domestic violence; and
 
-&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other possession or territory of the United States.
+&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,and any other possession or territory of the United States.
 
 #### (e) Relationship to certain Federal programs
 

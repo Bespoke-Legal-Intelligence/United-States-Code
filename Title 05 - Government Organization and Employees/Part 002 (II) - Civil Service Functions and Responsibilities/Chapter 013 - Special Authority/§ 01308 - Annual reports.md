@@ -76,19 +76,19 @@ The Office, referred to in text, is the Office of Personnel Management.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–470 redesignated subsec. (c) as (a) and struck out former subsec. (a) which required the Office of Personnel Management to make an annual report to the President for transmittal to Congress on the Office's actions in the administration of the competitive service, the rules and regulations and exceptions to the rules and regulations, with reasons for the exceptions, in force, the practical effect of the rules and regulations, recommendations for better administration of the competitive service, results of the incentive awards program authorized by chapter 45 of this title, the names, addresses, and nature of employment of individuals on whom the Merit Systems Protection Board has imposed a penalty for prohibited political activity under section 7325 of this title, and a statement on the training of employees under chapter 41 of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–470 redesignated subsec. (c) as (a) and struck out former subsec. (a) which required the Office of Personnel Management to make an annual report to the President for transmittal to Congress on the Office's actions in the administration of the competitive service, the rules and regulations and exceptions to the rules and regulations, with reasons for the exceptions, in force, the practical effect of the rules and regulations, recommendations for better administration of the competitive service, results of the incentive awards program authorized by chapter 45 of this title, the names, addresses, and nature of employment of individuals on whom the Merit Systems Protection Board has imposed a penalty for prohibited political activity under section 7325 of this title, and a statement on the training of employees under chapter 41 of this title.
 
 Subsec. (b). Pub. L. 96–470 redesignated subsec. (d) as (b) and struck out former subsec. (b) which required the Office of Personnel Management to provide annually to Congress an analysis of the administration and operation of chapter 41 of this title.
 
 Subsecs. (c) to (e). Pub. L. 96–470 redesignated subsecs. (c) to (e) as (a) to (c), respectively.
 
-1979—Subsec. (a)(3). Pub. L. 96–54 substituted “Merit Systems Protection Board” for “Office”.
+<b>1979</b>—Subsec. (a)(3). Pub. L. 96–54 substituted “Merit Systems Protection Board” for “Office”.
 
-1978—Subsecs. (a) to (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-1973—Subsec. (b). Pub. L. 93–156 substituted requirement that Commission provide annually an analysis to Congress of the administration and operation of chapter 41 of this title, for prior requirement that Commission report annually to the President for transmittal to Congress on the administration of chapter 41 of this title, including the information received by the Commission from the agencies under section 4113(b) (2) and (3) of this title.
+<b>1973</b>—Subsec. (b). Pub. L. 93–156 substituted requirement that Commission provide annually an analysis to Congress of the administration and operation of chapter 41 of this title, for prior requirement that Commission report annually to the President for transmittal to Congress on the administration of chapter 41 of this title, including the information received by the Commission from the agencies under section 4113(b) (2) and (3) of this title.
 
-1969—Subsec. (c). Pub. L. 91–93 struck out “on a normal cost plus interest basis” after “Fund”.
+<b>1969</b>—Subsec. (c). Pub. L. 91–93 struck out “on a normal cost plus interest basis” after “Fund”.
 
 #### Effective Date of 1979 Amendment
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3407, 4705 of this title.
+This section is referred to in section 4705 of this title.
 

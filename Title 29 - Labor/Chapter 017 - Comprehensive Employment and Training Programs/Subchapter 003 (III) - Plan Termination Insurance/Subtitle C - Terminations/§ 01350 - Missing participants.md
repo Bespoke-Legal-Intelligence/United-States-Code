@@ -50,7 +50,7 @@ The corporation shall prescribe such regulations as are necessary to carry out t
 
 #### Effective Date
 
-Section effective with respect to distributions that occur in plan years commencing after final regulations implementing section 776 of Pub. L. 103–465 are prescribed by the Pension Benefit Guaranty Corporation, see section 776(e) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1056 of this title.
+Section effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1056 of this title.
 
 #### Section Referred to in Other Sections
 

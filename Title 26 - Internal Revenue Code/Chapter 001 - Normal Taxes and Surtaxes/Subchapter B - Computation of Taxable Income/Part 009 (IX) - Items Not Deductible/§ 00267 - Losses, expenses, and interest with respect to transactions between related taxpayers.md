@@ -56,7 +56,7 @@ The persons referred to in subsection (a) are:
 
 For purposes of determining, in applying subsection (b), the ownership of stock—
 
-&emsp;(1) Stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trust shall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries;
+&emsp;(1) Stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trustshall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries;
 
 &emsp;(2) An individual shall be considered as owning the stock owned, directly or indirectly, by or for his family;
 
@@ -198,7 +198,7 @@ If—
 
 #### (g) Coordination with section 1041
 
-Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating totransfers of property between spouses or incident to divorce).
+Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 78; Nov. 10, 1978, Pub. L. 95–628, §2(a), 92 Stat. 3627; Oct. 19, 1982, Pub. L. 97–354, §3(h), 96 Stat. 1689; July 18, 1984, Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), 98 Stat. 704–707, 970; Oct. 22, 1986, Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), 100 Stat. 2356, 2364, 2834, 2835, 2852; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), 102 Stat. 3401, 3441.)
 
@@ -212,7 +212,7 @@ Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subs
 
 Subsec. (a)(2). Pub. L. 100–647, §1008(e)(6), made technical correction to directory language of Pub. L. 99–514, §806(c)(2), see 1986 Amendment note below.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §806(c)(2), as amended by Pub. L. 100–647, §1008(e)(6), inserted at end “For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), as modified by section 441(i)(2)) shall be treated as persons specified in subsection (b).”
+1986—Subsec. (a)(2). Pub. L. 99–514, §806(c)(2), as amended by Pub. L. 100–647, §1008(e)(6), inserted at end “For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), asmodified by section 441(i)(2)) shall be treated as persons specified in subsection (b).”
 
 Subsec. (a)(3). Pub. L. 99–514, §1812(c)(1), added par. (3).
 
@@ -262,7 +262,7 @@ Amendment by section 803(b)(5) of Pub. L. 99–514 applicable, except as otherwi
 
 Amendment by section 806(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with special provisions applicable to taxpayers who are required to change their accounting periods, see section 806(e) of Pub. L. 99–514, set out as a note under section 1378 of this title.
 
-Amendment by sections 1812(c)(1), (2), (3)(C), (4)(A) and 1842(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of theTax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1812(c)(1), (2), (3)(C), (4)(A) and 1842(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -304,7 +304,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Treatment of renegotiations, extensions, etc.—If any indebtedness (or contract described in subparagraph (A)) is renegotiated, extended, renewed, or revised after September 29, 1983, subparagraph (A) shall not apply to any amount paid or incurred on such indebtedness (or pursuant to such contract) after the date of such renegotiation, extension, renewal, or revision.”
 
-Amendment by section 721(s) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(s) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -338,5 +338,5 @@ Transaction between partners, see section 707 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40, 42, 51, 56, 108, 144, 147, 163, 165, 167, 170, 179, 179A, 197, 263A, 274, 280A, 280F, 336, 341, 355, 409, 447, 453, 464, 465, 468B, 469, 483, 503, 514, 613A, 631, 707, 864, 871, 936, 988, 1031, 1060, 1202, 1235, 1237, 1239, 1397, 4946, 4951, 4975, 5881, 6038A, 6166 of this title; title 29 sections 1108, 1384.
+This section is referred to in sections 40, 42, 51, 56, 108, 144, 147, 163, 165, 167, 170, 179, 179A, 197, 263A, 274, 280A, 280F, 336, 341, 355, 409, 447, 453, 464, 465, 468B, 469, 483, 503, 514, 613A, 631, 707, 864, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1237, 1239, 1397, 4946, 4951, 4975, 5881, 6038A, 6166 of this title; title 29 sections 1108, 1384.
 

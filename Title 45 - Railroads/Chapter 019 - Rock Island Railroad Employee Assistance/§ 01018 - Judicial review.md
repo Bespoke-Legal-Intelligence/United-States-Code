@@ -40,5 +40,5 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Section effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as an Effective Date of 1980 Amendment note under section 10101 of Title 49, Transportation.
+Section effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as an Effective Date of 1980 Amendment note under section 1170 of Title 11, Bankruptcy.
 

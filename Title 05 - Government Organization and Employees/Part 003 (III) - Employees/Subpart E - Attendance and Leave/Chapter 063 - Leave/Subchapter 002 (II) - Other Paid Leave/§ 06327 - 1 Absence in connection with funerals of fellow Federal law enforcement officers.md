@@ -8,3 +8,5 @@ A Federal law enforcement officer or a Federal firefighter may be excused from d
 
 Section 642 of Pub. L. 103–329, which directed that this section 6327 be added “following the word ‘Forces’ in section 6326” was executed by adding the section after section 6327, as added by section 629(a)(1) of Pub. L. 103–329, to reflect the probable intent of Congress.
 
+<i><sup>1</sup></i><i> Another section 6327 is set out preceding this section.</i>
+

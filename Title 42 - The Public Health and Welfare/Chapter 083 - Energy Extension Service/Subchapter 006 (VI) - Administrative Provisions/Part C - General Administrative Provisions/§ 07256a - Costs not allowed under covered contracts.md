@@ -52,7 +52,7 @@ Section was enacted as part of the Department of Defense Authorization Act, 1986
 
 1987—Subsec. (b). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
-#### Effective Date of Regulations
+#### Regulations
 
-Section 3131(b) of Pub. L. 100–180 provided that: “Regulations to implement paragraph (2) of section 1534(b) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986 (as added by subsection (a)) \[42 U.S.C. 7256a(b)(2)\] shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 4,1987\]. Such regulations shall apply as if included in the original regulations prescribed under such section.”
+Section 3131(b) of Pub. L. 100–180 provided that: “Regulations to implement paragraph (2) of section 1534(b) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986 (as added by subsection (a)) \[42 U.S.C. 7256a(b)(2)\] shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]. Such regulations shall apply as if included in the original regulations prescribed under such section.”
 

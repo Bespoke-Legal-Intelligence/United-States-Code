@@ -26,7 +26,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 (1) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (A) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of commissioners other than the Chairman), (B) the distribution of business among personnel appointed and supervised by the Chairman and among administrative units of the Commission, and (C) the use and expenditure of funds.
 
-(2) In carrying out any of his functions under the provisions of this subsection the Chairmanshall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
+(2) In carrying out any of his functions under the provisions of this subsection the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 
 (3) Requests or estimates for regular, supplemental, or deficiency appropriations on behalf of the Commission may not be submitted by the Chairman without the prior approval of the Commission.
 
@@ -42,7 +42,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 (2) The Chairman, subject to subsection (f)(2) of this section, may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission's functions.
 
-(3) In addition to the number of positions authorized by section 5108(a) of title 5, the Chairman, subject to the approval of the Commission, and subject to the standards and procedures prescribed by chapter 51 of title 5, may place a total of twelve positions in grades GS 16, GS 17, and GS 18.
+(3) In addition to the number of positions authorized by section 5108(a) of title 5, the Chairman, subject to the approval of the Commission, and subject to the standards and procedures prescribed by chapter 51 of title 5, may place a total of twelve positions in grades GS–16, GS–17, and GS–18.
 
 (4) The appointment of any officer (other than a Commissioner) or employee of the Commission shall not be subject, directly or indirectly, to review or approval by any officer or entity within the Executive Office of the President.
 
@@ -66,7 +66,7 @@ Subsections (a) and (h) of section 2680 of title 28 do not prohibit the bringing
 
 At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
 
-(Pub. L. 92 573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94 284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95 631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96 373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101 608, title I, §§102 105(a), Nov. 16, 1990, 104 Stat. 3110, 3111.)
+(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111.)
 
 #### Codification
 
@@ -74,41 +74,41 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101 608, §102, inserted after first sentence “In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission.”
+1990—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence “In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission.”
 
-Subsec. (d). Pub. L. 101 608, §103, inserted before period at end of first sentence “, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two”.
+Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence “, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two”.
 
-Subsec. (g)(1). Pub. L. 101 608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS 18 of the General Schedule.”
+Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.”
 
-Subsec. (j). Pub. L. 101 608, §105(a), added subsec. (j).
+Subsec. (j). Pub. L. 101–608, §105(a), added subsec. (j).
 
-1980—Subsec. (g)(2). Pub. L. 96 373 struck out prohibition against regular personnel acceptance of employment or compensation from manufacturer subject to this chapter for period of twelve months following termination of employment with Commission when compensated within preceding period of twelve months at rate in excess of annual rate of basic pay in effect for grade GS 14 of the General Schedule.
+1980—Subsec. (g)(2). Pub. L. 96–373 struck out prohibition against regular personnel acceptance of employment or compensation from manufacturer subject to this chapter for period of twelve months following termination of employment with Commission when compensated within preceding period of twelve months at rate in excess of annual rate of basic pay in effect for grade GS–14 of the General Schedule.
 
-1978—Subsec. (a). Pub. L. 95 631, §2(a), substituted “Senate. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time.” for “Senate, one of whom shall be designated by the President as Chairman. The Chairman, when so designated shall act as Chairman until the expiration of his term of office as Commissioner.”
+1978—Subsec. (a). Pub. L. 95–631, §2(a), substituted “Senate. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time.” for “Senate, one of whom shall be designated by the President as Chairman. The Chairman, when so designated shall act as Chairman until the expiration of his term of office as Commissioner.”
 
-Subsec. (i)(1)(A), (B). Pub. L. 95 631, §2(b), struck out “before January 1, 1978,” after “deceit” in cl. (A) and “before January 1, 1978” after “employee thereof” in cl. (B).
+Subsec. (i)(1)(A), (B). Pub. L. 95–631, §2(b), struck out “before January 1, 1978,” after “deceit” in cl. (A) and “before January 1, 1978” after “employee thereof” in cl. (B).
 
-1976—Subsec. (f)(3). Pub. L. 94 284, §4(a), added par. (3).
+1976—Subsec. (f)(3). Pub. L. 94–284, §4(a), added par. (3).
 
-Subsec. (g). Pub. L. 94 284, §4(b), substituted “regular” for “full-time” before “officer or employee of the Commission” and added pars. (3) and (4).
+Subsec. (g). Pub. L. 94–284, §4(b), substituted “regular” for “full-time” before “officer or employee of the Commission” and added pars. (3) and (4).
 
-Subsec (i). Pub. L. 94 284, §5, added subsec. (i).
+Subsec (i). Pub. L. 94–284, §5, added subsec. (i).
 
 #### Effective Date of 1990 Amendment
 
-Section 105(b) of Pub. L. 101 608 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
+Section 105(b) of Pub. L. 101–608 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
 
 #### Effective Date
 
-Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92 573, set out as a note under section 2051 of this title.
+Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Reduction in Number of Commissioners
 
-Pub. L. 102 389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part: “That funds shall not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter”.
+Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part: “That funds shall not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter”.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

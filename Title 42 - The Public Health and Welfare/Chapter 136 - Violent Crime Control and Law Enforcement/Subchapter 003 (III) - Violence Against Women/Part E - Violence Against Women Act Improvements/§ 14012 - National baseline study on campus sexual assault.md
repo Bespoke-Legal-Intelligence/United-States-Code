@@ -12,7 +12,7 @@ Based on the study required by subsection (a) of this section and data collected
 
 &emsp;(2) the number of campus sexual assault allegations reported to authorities of educational institutions which are reported to criminal authorities;
 
-&emsp;(3) the number of campus sexual assault allegations that result in criminal prosecution in comparison with the number of non-campussexual assault allegations that result in criminal prosecution;
+&emsp;(3) the number of campus sexual assault allegations that result in criminal prosecution in comparison with the number of non-campus sexual assault allegations that result in criminal prosecution;
 
 &emsp;(4) Federal and State laws or regulations pertaining specifically to campus sexual assaults;
 

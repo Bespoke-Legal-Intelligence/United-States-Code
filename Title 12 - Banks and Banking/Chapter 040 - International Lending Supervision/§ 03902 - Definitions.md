@@ -1,4 +1,4 @@
-### §3902 . Definitions
+### §3902. Definitions
 
 For purposes of this chapter—
 

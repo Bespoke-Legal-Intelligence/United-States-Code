@@ -20,11 +20,11 @@ Information submitted by any person in connection with the issuance, amendment, 
 
 &emsp;(E) in accordance with any requirement imposed by a statute of the United States, or
 
-&emsp;(F) in accordance with any rule or regulation promulgated under section 4020 of this title permitting the disclosure of the information to an agency of the United States or of a State on the condition that the agency willdisclose the information only under the circumstances specified in subparagraphs (A) through (E).
+&emsp;(F) in accordance with any rule or regulation promulgated under section 4020 of this title permitting the disclosure of the information to an agency of the United States or of a State on the condition that the agency will disclose the information only under the circumstances specified in subparagraphs (A) through (E).
 
-(Pub. L. 97 290, title III, §309, Oct. 8, 1982, 96 Stat. 1244.)
+(Pub. L. 97–290, title III, §309, Oct. 8, 1982, 96 Stat. 1244.)
 
 #### Effective Date
 
-Section effective Oct. 8, 1982, see section 312 of Pub. L. 97 290, set out as a note under section 4011 of this title.
+Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 

@@ -64,7 +64,7 @@ Subsec. (d)(7). Pub. L. 100–203, §4068(b)(2), added par. (7).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 147(g) of Pub. L. 103–432, set out as a note under section 1320a–3a of this title.
+Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 147(g) ofPub. L. 103–432, set out as a note under section 1320a–3a of this title.
 
 #### Effective Date of 1988 Amendment
 

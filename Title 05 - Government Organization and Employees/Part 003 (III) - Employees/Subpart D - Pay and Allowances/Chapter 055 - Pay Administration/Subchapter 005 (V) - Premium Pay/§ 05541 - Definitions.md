@@ -80,7 +80,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a special agent in the Diplomatic Security Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[titleIV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351.)
 
 Historical and Revision Notes
 
@@ -142,31 +142,31 @@ Chapter 15 of title 31, District of Columbia Code, referred to in par. (2)(iii),
 
 #### Amendments
 
-1992—Par. (3). Pub. L. 102–378 added par. (3).
+<b>1992</b>—Par. (3). Pub. L. 102–378 added par. (3).
 
-1990—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
+<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;”.
 
-1988—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
+<b>1988</b>—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
 
-1980—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
+<b>1980</b>—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
 
 Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policy of the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
 
-1979—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
 
-1978—Par. (2)(xvi). Pub. L. 95–454 added cl. (xvi).
+<b>1978</b>—Par. (2)(xvi). Pub. L. 95–454 added cl. (xvi).
 
 Par. (2)(xv). Pub. L. 95–426 substituted “International Communication Agency” for “United States Information Agency”.
 
-1977—Par. (2)(xiv), (xv). Pub. L. 95–105 added cls. (xiv) and (xv).
+<b>1977</b>—Par. (2)(xiv), (xv). Pub. L. 95–105 added cls. (xiv) and (xv).
 
-1975—Par. (2)(iv). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
+<b>1975</b>—Par. (2)(iv). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
-1972—Par. (2)(xi). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under subchapter IV of chapter 53 of this title.
+<b>1972</b>—Par. (2)(xi). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under subchapter IV of chapter 53 of this title.
 
-1970—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
+<b>1970</b>—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
 
-1967—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -196,7 +196,7 @@ Section 412(a)(2) of Pub. L. 95–105 provided that: “The amendments made by p
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -209,10 +209,6 @@ Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided 
 #### Transfer of Functions
 
 Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
-
-#### Authority of Secretary of State
-
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.
 
 #### Sense of Congress Relating to Law Enforcement Officer Provisions
 
@@ -248,7 +244,7 @@ Pay of Executive Protective Service, see section 204 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4521, 5504, 5545a, 5550a, 6101 of this title; title 20 section 241.
+This section is referred to in sections 4521, 5504, 5545a, 5550a, 6101 of this title; title 2 section 1371.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

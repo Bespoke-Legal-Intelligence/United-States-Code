@@ -1,0 +1,148 @@
+### §1. Number of justices; quorum
+
+The Supreme Court of the United States shall consist of a Chief Justice of the United States and eight associate justices, any six of whom shall constitute a quorum.
+
+(June 25, 1948, ch. 646, 62 Stat. 869.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Stat. 1152).
+
+Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
+
+#### Short Title of 1994 Amendments
+
+Pub. L. 103–420, §1, Oct. 25, 1994, 108 Stat. 4343, provided that: “This Act \[amending section 612 of this title, amending provisions set out as notes under sections 471 and 651 of this title, and repealing provisions set out as a note under section 651 of this title\] may be cited as the ‘Judicial Amendments Act of 1994’.”
+
+Pub. L. 103–383, §1, Oct. 20, 1994, 108 Stat. 4063, provided that: “This Act \[enacting section 1738B of this title and provisions set out as a note under section 1738B of this title\] may be cited as the ‘Full Faith and Credit for Child Support Orders Act’.”
+
+Pub. L. 103–270, §1, June 30, 1994, 108 Stat. 732, provided that: “This Act \[amending sections 591 to 596 and 599 of this title and enacting provisions set out as notes under section 591 of this title and section 113 of Title 3, The President\] may be cited as the ‘Independent Counsel Reauthorization Act of 1994’.”
+
+#### Short Title of 1992 Amendments
+
+Pub. L. 102–572, §1, Oct. 29, 1992, 106 Stat. 4506, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Courts Administration Act of 1992’.”
+
+Pub. L. 102–572, title IX, §901, Oct. 29, 1992, 106 Stat. 4516, provided that: “This title \[see Tables for classification\] may be cited as the ‘Court of Federal Claims Technical and Procedural Improvements Act of 1992’.”
+
+Pub. L. 102–559, §1, Oct. 28, 1992, 106 Stat. 4227, provided that: “This Act \[enacting chapter 178 of this title and provisions set out as a note under section 3701 of this title\] may be cited as the ‘Professional and Amateur Sports Protection Act’.”
+
+Pub. L. 102–417, §1, Oct. 14, 1992, 106 Stat. 2138, provided that: “This Act \[amending section 1821 of this title and enacting provisions set out as a note under section 1821 of this title\] may be cited as the ‘Incarcerated Witness Fees Act of 1991’.”
+
+Pub. L. 102–361, §1, Aug. 26, 1992, 106 Stat. 965, provided that: “This Act \[amending section 152 of this title and enacting provisions set out as a note under section 152 of this title\] may be cited as the ‘Bankruptcy Judgeship Act of 1992’.”
+
+#### Short Title of 1990 Amendments
+
+Pub. L. 101–650, §1, Dec. 1, 1990, 104 Stat. 5089, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Judicial Improvements Act of 1990’.”
+
+Pub. L. 101–650, title I, §101, Dec. 1, 1990, 104 Stat. 5089, provided that: “This title \[enacting chapter 23 of this title and provisions set out as notes under section 471 of this title\] may be cited as the ‘Civil Justice Reform Act of 1990’.”
+
+Pub. L. 101–650, title II, §201, Dec. 1, 1990, 104 Stat. 5098, provided that: “This title \[amending sections 44 and 133 of this title and enacting provisions set out as notes under sections 44, 133, and 331 of this title\] may be cited as the ‘Federal Judgeship Act of 1990’.”
+
+Pub. L. 101–650, title III, §301, Dec. 1, 1990, 104 Stat. 5104, provided that: “This title \[enacting sections 178, 1367, and 1658 of this title and section 8440b of Title 5, Government Organization and Employees, amending sections 108, 112, 122, 133, 152, 158, 332, 333, 375, 376, 377, 601, 602, 604, 631, 636, 995, 996, 1334, 1391, 1441, 1452, 1499, 1605, 1610, 1821, 1871, and 2072 of this title, sections 8331, 8334, 8336, 8339, and 8402 of Title 5, provisions set out in the Appendix to Title 5, and section 305 of Title 11, Bankruptcy, renumbering section 15 of Title 9, Arbitration, as section 16 of Title 9, enacting provisions set out as notes under sections 376, 620, 631, 1367, and 1658 of this title, section 8331 of Title 5, section 307 of Title 11, and sections 3006A and 3551 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as notes under sections 533 and 581 of this title\] may be cited as the ‘Federal Courts Study Committee Implementation Act of 1990’.”
+
+Pub. L. 101–650, title IV, §401, Dec. 1, 1990, 104 Stat. 5122, provided that: “This title \[amending sections 332, 372, 453, and 2077 of this title and provisions set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 332 and 372 of this title\] may be cited as the ‘Judicial Discipline and Removal Reform Act of 1990’.”
+
+Pub. L. 101–647, title XXXVI, §3601, Nov. 29, 1990, 104 Stat. 4933, provided that: “This title \[enacting chapter 176 and section 2044 of this title, amending sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 3001 of this title\] may be cited as the ‘Federal Debt Collection Procedures Act of 1990’.”
+
+#### Short Title of 1988 Amendments
+
+Pub. L. 100–702, §1, Nov. 19, 1988, 102 Stat. 4642, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Judicial Improvements and Access to Justice Act’.”
+
+Pub. L. 100–702, title VII, §701, Nov. 19, 1988, 102 Stat. 4654, provided that: “This title \[amending section 1827 of this title and enacting provisions set out as notes under section 1827 of this title\] may be cited as the ‘Court Interpreter Amendments Act of 1988’.”
+
+Pub. L. 100–694, §1, Nov. 18, 1988, 102 Stat. 4563, provided that: “This Act \[enacting section 831c–2 of Title 16, Conservation, amending sections 2671, 2674, and 2679 of this title, and enacting provisions set out as notes under sections 2671 and 2679 of this title\] may be cited as the ‘Federal Employees Liability Reform and Tort Compensation Act of 1988’.”
+
+Pub. L. 100–659, §1, Nov. 15, 1988, 102 Stat. 3910, provided that: “This Act \[enacting section 377 of this title and section 8440a of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under sections 376 and 377 of this title\] may be cited as the ‘Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988’.”
+
+#### Short Title of 1987 Amendment
+
+Pub. L. 100–191, §1, Dec. 15, 1987, 101 Stat. 1293, provided that: “This Act \[enacting section 599 of this title, amending sections 49 and 591 to 598 of this title, sections 203 and 205 of Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and section 202 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as a note under section 591 of this title, and amending provisions set out as a note under section 591 of this title\] may be cited as the ‘Independent Counsel Reauthorization Act of 1987’.”
+
+#### Short Title of 1986 Amendments
+
+Pub. L. 99–657, §1, Nov. 14, 1986, 100 Stat. 3670, provided that: “This Act \[amending sections 90 and 121 of this title and enacting provisions set out as a note under section 121 of this title\] may be cited as the ‘Judicial Housekeeping Act of 1986’.”
+
+Pub. L. 99–570, §1151, Oct. 27, 1986, 100 Stat. 3207–12, provided that: “This subtitle \[subtitle D (§§1151–1153) of title I of Pub. L. 99–570, amending section 524 of this title, section 1963 of Title 18, Crimes and Criminal Procedure, section 1613a of Title 19, Customs Duties, and section 853 of Title 21, Food and Drugs, and repealing section 1613b of Title 19\] may be cited as the ‘Department of Justice Assets Forfeiture Fund Amendments Act of 1986’.”
+
+Pub. L. 99–363, §1, July 11, 1986, 100 Stat. 770, provided that: “This Act \[amending section 994 of this title\] may be cited as the ‘Sentencing Guidelines Act of 1986’.”
+
+Pub. L. 99–336, §1, June 19, 1986, 100 Stat. 633, provided that: “This Act \[amending sections 376, 620, 1441, 1914, and 2342 of this title, section 288d of Title 2, The Congress, and sections 8706, 8714a, 8714b, and 8714c of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 376, 620, 1441, 1914, and 2342 of this title, and section 8706 of Title 5\] may be cited as the ‘Judicial Improvements Act of 1985’.”
+
+#### Short Title of 1984 Amendments
+
+Pub. L. 98–620, §404, Nov. 8, 1984, 98 Stat. 3361, provided that: “This subtitle \[subtitle B (§§404–411) of title IV of Pub. L. 98–620, amending sections 85, 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 85, 90, 93, and 124 of this title\] may be cited as the ‘Federal District Court Organization Act of 1984’.”
+
+Pub. L. 98–620, prec. §412, Nov. 8, 1984, 98 Stat. 3362, provided that: “This subtitle \[subtitle C (§§412–416) of title IV of Pub. L. 98–620, enacting section 798 of this title, amending section 1292 of this title, section 1071 of Title 15, Commerce and Trade, section 1337 of Title 19, Customs Duties, and sections 142 to 144 of Title 35, Patents, and enacting provisions set out as notes under section 713 of this title and section 142 of Title 35\] may be cited as the ‘Technical Amendments to the Federal Courts Improvement Act of 1982’.”
+
+For short title of Pub. L. 98–353 as the Bankruptcy Amendments and Federal Judgeship Act of 1984, see section 1 of Pub. L. 98–353, set out as a note under section 151 of this title.
+
+#### Short Title of 1983 Amendment
+
+Pub. L. 97–409, §1, Jan. 3, 1983, 96 Stat. 2039, provided: “That this Act \[amending sections 49, 591, and 592 to 598 of this title and amending provisions set out as a note under section 591 of this title\] may be cited as the ‘Ethics in Government Act Amendments of 1982’.”
+
+#### Short Title of 1982 Amendments
+
+For short title of sections 2 to 6 of Pub. L. 97–394 as the Indian Claims Limitation Act of 1982, see section 1 of Pub. L. 97–394, set out as a note under section 2415 of this title.
+
+Pub. L. 97–292, §1, Oct. 12, 1982, 96 Stat. 1259, provided: “That this Act \[amending section 534 of this title\] may be cited as the ‘Missing Children Act’.”
+
+Pub. L. 97–164, §1, Apr. 2, 1982, 96 Stat. 25, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Federal Courts Improvement Act of 1982’.”
+
+#### Short Title of 1980 Amendments
+
+Pub. L. 96–486, §1, Dec. 1, 1980, 94 Stat. 2369, provided: “That this Act \[amending section 1331 of this title and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1331 of this title\] may be cited as the ‘Federal Question Jurisdictional Amendments Act of 1980’.”
+
+Pub. L. 96–462, §1, Oct. 15, 1980, 94 Stat. 2053, provided that: “This Act \[amending sections 84, 95, 105, 113, and 124 of this title and enacting provisions set out as notes under sections 84, 95, 105, and 113 of this title\] may be cited as the ‘Federal District Court Organization Act of 1980’.”
+
+Pub. L. 96–458, §1, Oct. 15, 1980, 94 Stat. 2035, provided that: “This Act \[amending sections 331, 332, 372, and 604 of this title and enacting provisions set out as notes under section 331 of this title\] may be cited as the ‘Judicial Councils Reform and Judicial Conduct and Disability Act of 1980’.”
+
+Pub. L. 96–452, §1, Oct. 14, 1980, 94 Stat. 1994, provided: “That this Act \[amending sections 41, 44, and 48 of this title and enacting provisions set out as notes under section 41 of this title\] may be cited as the ‘Fifth Circuit Court of Appeals Reorganization Act of 1980’.”
+
+Pub. L. 96–417, §1, Oct. 10, 1980, 94 Stat. 1727, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Customs Courts Act of 1980’.”
+
+#### Short Title of 1979 Amendment
+
+For short title of Pub. L. 96–82, as the “Federal Magistrate Act of 1979”, see section 1 of Pub. L. 96–82, set out as a note under section 631 of this title.
+
+#### Short Title of 1978 Amendments
+
+For short title of Pub. L. 95–572 as the “Jury System Improvements Act of 1978”, see section 1 of Pub. L. 95–572, set out as a note under section 1861 of this title.
+
+Pub. L. 95–539, §1, Oct. 28, 1978, 92 Stat. 2040, provided: “That this Act \[enacting sections 1827 and 1828 of this title, amending sections 602 to 604 and 1920 of this title, enacting provisions set out as notes under section 602 of this title, and repealing provisions set out as a note under section 602 of this title\] may be cited as the ‘Court Interpreters Act’.”
+
+Pub. L. 95–408, §1, Oct. 2, 1978, 92 Stat. 883, provided that: “This Act \[amending sections 89, 93, 97, 98, 104, 112, 114, 133 of this title and enacting provisions set out as a note under section 89 of this title\] may be cited as the ‘Federal District Court Organization Act of 1978’.”
+
+#### Short Title of 1976 Amendments
+
+Pub. L. 94–583, §1, Oct. 21, 1976, 90 Stat. 2891, provided: “That this Act \[enacting sections 1330 and 1602 to 1611 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under section 1602 of this title\] may be cited as the ‘Foreign Sovereign Immunities Act of 1976’.”
+
+Pub. L. 94–554, §1, Oct. 19, 1976, 90 Stat. 2603, provided: “That this Act \[amending section 376 of this title and enacting provisions set out as notes under section 376 of this title\] may be cited as the ‘Judicial Survivors’ Annuities Reform Act’.”
+
+#### Short Title of 1970 Amendment
+
+Pub. L. 91–271, title I, §101, June 2, 1970, 84 Stat. 274, provided that: “This title \[enacting sections 256 and 257 of this title, amending sections 253 to 255, 1541, 1582, 2601, 2602, and 2631 to 2639 of this title, repealing sections 1583 and 2640 to 2642 of this title, and enacting provisions set out as a note under section 256 of this title\] may be cited as ‘The Customs Courts Act of 1970’.”
+
+#### Short Title of 1966 Amendment
+
+Pub. L. 89–504, title II, §201, July 18, 1966, 80 Stat. 293, provided that: “This title \[enacting provisions set out as notes under sections 603, 604, and 753 of this title\] may be cited as the ‘Federal Judicial Salary Act of 1966’.”
+
+#### Short Title of 1964 Amendment
+
+Pub. L. 88–426, title IV, §401, Aug. 14, 1964, 78 Stat. 433, provided that: “This title \[amending sections 5, 44, 135, 173, 213, 252, 603, and 792 of this title, section 867 of Title 10, Armed Forces, section 68 of former Title 11, Bankruptcy, and section 7443 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 603, 604 and 753 of this title\] may be cited as the ‘Federal Judicial Salary Act of 1964’.”
+
+#### Rules of the Supreme Court
+
+Quorum, see rule 4, Appendix to this title.
+
+#### Cross References
+
+Appointment of Supreme Court Justices, see Const., Art. 2, §2, cl. 2.
+
+Creation of Supreme Court, see Const., Art. 3, §1.
+
+Justices to hold office during good behavior, see Const., Art. 3, §1.
+
+Oath of Justice, see section 453 of this title.
+
+Official station of Supreme Court Justices, see section 456 of this title.
+

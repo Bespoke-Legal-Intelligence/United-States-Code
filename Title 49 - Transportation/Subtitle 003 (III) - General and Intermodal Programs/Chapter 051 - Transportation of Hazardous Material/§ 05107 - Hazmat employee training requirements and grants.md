@@ -58,7 +58,7 @@ Training Grants.—The Secretary shall, subject to the availability of funds und
 
 Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an activity of the Secretary of Transportation under subsections (a)–(d) of this section.
 
-(2) An action of the Secretary of Transportation under subsections (a)–(d) of this section and sections 5106, 5108(a)–(g)(1) and (h), and 5109 of this title is not an exercise, under section 4(b)(1) of the Occupational Safety and HealthAct of 1970 (29 U.S.C. 653(b)(1)), of statutory authority to prescribe or enforce standards or regulations affecting occupational safety or health.
+(2) An action of the Secretary of Transportation under subsections (a)–(d) of this section and sections 5106, 5108(a)–(g)(1) and (h), and 5109 of this title is not an exercise, under section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), of statutory authority to prescribe or enforce standards or regulations affecting occupational safety or health.
 
 (g)
 

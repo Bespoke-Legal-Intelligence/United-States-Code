@@ -2,7 +2,7 @@
 
 #### (a) Seizure procedure; return of contraband oil
 
-Contraband oil shipped or transported in interstate commerce in violation of the provisions of this chapter shall be liable to be proceeded against in any district court of the United States within the jurisdiction of which the same may be found, and seized for forfeiture to the United States by a process of libel for condemnation; but in any such case the court may in its discretion, and under such terms and conditions as it shall prescribe, order the return of such contraband oil to the owner thereof where undue hardship would result from such forfeiture. The proceedings in such cases shall conform as nearly as may be to proceedings in rem in admiralty, except that either party may demand a trial by jury of any issue of fact joined in any such case, and all such proceedings shall be at the suit of and in the name of the United States. Contraband oil forfeited to the United States as provided in this section shall be used or disposed of pursuant to such rules and regulations as the President shall prescribe.
+Contraband oil shipped or transported in interstate commerce in violation of the provisions of this chapter shall be liable to be proceeded against in any district court of the United States within the jurisdiction of whichthe same may be found, and seized for forfeiture to the United States by a process of libel for condemnation; but in any such case the court may in its discretion, and under such terms and conditions as it shall prescribe, order the return of such contraband oil to the owner thereof where undue hardship would result from such forfeiture. The proceedings in such cases shall conform as nearly as may be to proceedings in rem in admiralty, except that either party may demand a trial by jury of any issue of fact joined in any such case, and all such proceedings shall be at the suit of and in the name of the United States. Contraband oil forfeited to the United States as provided in this section shall be used or disposed of pursuant to such rules and regulations as the President shall prescribe.
 
 #### (b) Certificates of clearance
 
@@ -12,5 +12,5 @@ No such forfeiture shall be made in the case of contraband oil owned by any pers
 
 #### Federal Rules of Civil Procedure
 
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courtswere unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 

@@ -78,7 +78,7 @@ A prior section 2021b, Pub. L. 96–573, §2, Dec. 22, 1980, 94 Stat. 3347, rela
 
 #### Short Title of 1986 Amendment
 
-Section 101 of title I of Pub. L. 99–240 provided that: “This Title \[enacting sections 2021b to 2021j of this title, repealing former sections 2021b to 2021d of this title, and enacting and repealing a provision set out as a note under this section\] may be cited as the ‘Low-Level Radioactive Waste Policy Amendments Act of 1985’.”
+Section 101 of title I of Pub. L. 99–240 provided that: “This Title \[enacting this section and sections 2021c to 2021j of this title, repealing former sections 2021b to 2021d of this title, and enacting and repealing a provision set out as a note under this section\] may be cited as the ‘Low-Level Radioactive Waste Policy Amendments Act of 1985’.”
 
 #### Short Title
 

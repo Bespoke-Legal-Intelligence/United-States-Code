@@ -26,7 +26,7 @@ The Administrator of General Services shall provide annual awards to Federal emp
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated for the purpose of carrying out this section notmore than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+There are authorized to be appropriated for the purpose of carrying out this section not more than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 (Pub. L. 102–486, title III, §307, Oct. 24, 1992, 106 Stat. 2873.)
 

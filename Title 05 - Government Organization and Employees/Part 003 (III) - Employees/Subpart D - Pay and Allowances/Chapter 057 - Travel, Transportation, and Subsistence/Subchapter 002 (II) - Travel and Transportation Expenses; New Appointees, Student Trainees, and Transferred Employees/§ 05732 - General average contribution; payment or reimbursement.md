@@ -52,11 +52,11 @@ Sec. 2. <i>Allowance of general-average contributions.</i> Whenever military per
 
 Sec. 3. <i>Limitations.</i> The provisions of section 2 hereof shall not apply:
 
-(a) In case the shipment of household goods is made under law or regulation pursuant to law which provides for reimbursement to the military person or civilian employee concerned on a commuted basis in lieu of payment by the Government of the actual costs of the shipment; or
+(a) In case the shipment of household goods is made under law or regulation pursuant to law which providesfor reimbursement to the military person or civilian employee concerned on a commuted basis in lieu of payment by the Government of the actual costs of the shipment; or
 
 (b) In case the military person or civilian employee concerned has himself selected the means of shipment; or
 
-(c) To quantities of household goods (excluding automobiles) shipped in excess of quantities authorized to be transported by law or regulation pursuant to law. In any case of such excess shipment, the liability of theGovernment for the employee's general-average contribution shall not exceed the proportion that the applicable limitation, by weight or volume, bears to the total quantity, by weight or volume, of the household goods shipped.
+(c) To quantities of household goods (excluding automobiles) shipped in excess of quantities authorized to be transported by law or regulation pursuant to law. In any case of such excess shipment, the liability of the Government for the employee's general-average contribution shall not exceed the proportion that the applicable limitation, by weight or volume, bears to the total quantity, by weight or volume, of the household goods shipped.
 
 Sec. 4. <i>Effective date.</i> This order shall be effective in any case in which the loss involved occurs, or has occurred, on or after June 4, 1954.
 

@@ -20,7 +20,7 @@ Except as provided in subsection (b), no amount shall be included in the gross i
 
 #### (3) Year of inclusion
 
-&emsp;For purposes of determining the taxable year of inclusion, any benefit described inparagraph (1) or (2) shall be treated as received or accrued in the taxable year of the participant or key employee in which the plan year ends.
+&emsp;For purposes of determining the taxable year of inclusion, any benefit described in paragraph (1) or (2) shall be treated as received or accrued in the taxable year of the participant or key employee in which the plan year ends.
 
 #### (c) Discrimination as to benefits or contributions
 
@@ -110,7 +110,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 &emsp;&emsp;&emsp;(i) No employee is required to complete more than 3 years of employment with the employer or employers maintaining the plan as a condition of participation in the plan, and the employment requirement for each employee is the same.
 
-&emsp;&emsp;&emsp;(ii) Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate in the plan commences participation no laterthan the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
+&emsp;&emsp;&emsp;(ii) Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate in the plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
 
 #### (4) Certain controlled groups, etc.
 
@@ -182,7 +182,7 @@ Subsecs. (c), (d)(1)(B). Pub. L. 99–514, §1853(b)(1)(A), substituted “quali
 
 Subsec. (f). Pub. L. 99–514, §1853(b)(1)(B), substituted “Qualified benefits defined” for “Statutory nontaxable benefits defined” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘statutory nontaxable benefit’ means any benefit which, with the application of subsection (a) is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 117, 124, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79.”
 
-1984—Subsec. (b). Pub. L. 98–369, §531(b)(3), amended subsec. (b) generally, substituting “and key employees” for “where plan is discriminatory” in heading and“Highly compensated participants” for “In general” in par. (1) heading, adding par. (2), redesignating former par. (2) as (3), and inserting therein references to par. (2) and to taxable year of key employee.
+1984—Subsec. (b). Pub. L. 98–369, §531(b)(3), amended subsec. (b) generally, substituting “and key employees” for “where plan is discriminatory” in heading and “Highly compensated participants” for “In general” in par. (1) heading, adding par. (2), redesignating former par. (2) as (3), and inserting therein references to par. (2) and to taxable year of key employee.
 
 Subsec. (c). Pub. L. 98–369, §531(b)(2)(B), inserted “statutory” before “nontaxable benefits” in two places.
 

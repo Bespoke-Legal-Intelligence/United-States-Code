@@ -118,7 +118,7 @@ For purposes of this section, the term “employee stock ownership plan” has t
 
 #### (d) Application with section 483 and original issue discount rules
 
-In applying section 483 and subpart A of part V of subchapter P to any obligation to which this section applies, appropriate adjustments shall be made to the applicable Federal rate to take into account the exclusion under subsection (a).
+In applying section 483 and subpart A of part V of subchapter P to any obligation to which this section applies, appropriate adjustments shall be made to the applicable Federal rate totake into account the exclusion under subsection (a).
 
 #### (e) Period to which interest exclusion applies
 
@@ -204,7 +204,7 @@ Binding commitment exceptions.—
 
 &emsp;&emsp;“(ii) to the extent that the proceeds of such loan are used to acquire employer securities pursuant to a written binding contract (or tender offer registered with the Securities and Exchange Commission) in effect on June 6, 1989, and at all times thereafter before such securities are acquired.
 
-&emsp;“(B) The amendments made by this section shall not apply to any loan to which subparagraph (A) doesnot apply which is made pursuant to a binding written commitment in effect on July 10, 1989, and at all times thereafter before such loan is made. The preceding sentence shall only apply to the extent that the proceeds of such loan are used to acquire employer securities pursuant to a written binding contract (or tender offer registered with the Securities and Exchange Commission) in effect on July 10, 1989, and at all times thereafter before such securities are acquired.
+&emsp;“(B) The amendments made by this section shall not apply to any loan to which subparagraph (A) does not apply which is made pursuant to a binding written commitment in effect on July 10, 1989, and at all times thereafter before such loan is made. The preceding sentence shall only apply to the extent that the proceeds of such loan are used to acquire employer securities pursuant to a written binding contract (or tender offer registered with the Securities and Exchange Commission) in effect on July 10, 1989, and at all times thereafter before such securities are acquired.
 
 &emsp;“(C) The amendments made by this section shall not apply to any loan made on or before July 10, 1992, pursuant to a written agreement entered into on or before July 10, 1989, if such agreement evidences the intent of the borrower on a periodic basis to enter into securities acquisition loans described in section 133(b)(1)(B) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Dec. 19, 1989\]). The preceding sentence shall apply only if one or more securities acquisition loans were made to the borrower on or before July 10, 1989.
 
@@ -284,7 +284,7 @@ Section 1173(c)(2) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I
 
 “(C) Section 133(b)(1)(B) of the Internal Revenue Code of 1986, as added by subsection (b)(2), shall apply to loans incurred after the date of enactment of this Act \[Oct. 22, 1986\].”
 
-Amendment by section 1854(c)(2)(A), (C), (D) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendmentrelates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1854(c)(2)(A), (C), (D) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

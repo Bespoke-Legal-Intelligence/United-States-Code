@@ -16,7 +16,7 @@ Section 874, Pub. L. 93–203, title III, §304, as added Pub. L. 95–524, §2,
 
 A prior section 874, Pub. L. 93–203, title III, §304, Dec. 28, 1973, 87 Stat. 859, provided for youth programs and other special programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 875, Pub. L. 93–203, title III, §305, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1965; amendedPub. L. 96–583, §3(d), Dec. 23, 1980, 94 Stat. 3376, related to veterans information and outreach.
+Section 875, Pub. L. 93–203, title III, §305, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1965; amended Pub. L. 96–583, §3(d), Dec. 23, 1980, 94 Stat. 3376, related to veterans information and outreach.
 
 A prior section 875, Pub. L. 93–203, title III, §306, Dec. 28, 1973, 87 Stat. 860, related to a consultation with Secretary of Health, Education, and Welfare, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

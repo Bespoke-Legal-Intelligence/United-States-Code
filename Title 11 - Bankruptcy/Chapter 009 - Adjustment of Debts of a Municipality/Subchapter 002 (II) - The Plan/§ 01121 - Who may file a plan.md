@@ -2,7 +2,7 @@
 
 (a) The debtor may file a plan with a petition commencing a voluntary case, or at any time in a voluntary case or an involuntary case.
 
-(b) Except as otherwise provided in this section, only the debtor may file a plan until after 120 days after the date of the order for relief under this chapter.
+(b) Except as otherwise provided in this section, only the debtor may file a plan until after120 days after the date of the order for relief under this chapter.
 
 (c) Any party in interest, including the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, or any indenture trustee, may file a plan if and only if—
 

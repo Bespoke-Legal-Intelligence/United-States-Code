@@ -8,7 +8,7 @@ As used in this subchapter, the term—
 
 &emsp;(3) “facilities” means—
 
-&emsp;&emsp;(A) track, roadbed, and related structures, including rail, ties, ballast, other track materials, grading, tunnels, bridges, trestles, culverts, elevated structures, stations, office buildings used for operating purposes only, repair shops, enginehouses, and public improvements used or useable for rail service operations;
+&emsp;&emsp;(A) track, roadbed, and related structures, including rail, ties, ballast, other track materials, grading, tunnels, bridges, trestles, culverts, elevated structures, stations, officebuildings used for operating purposes only, repair shops, enginehouses, and public improvements used or useable for rail service operations;
 
 &emsp;&emsp;(B) communication and power transmission systems, including electronic, microwave, wireless, communication, and automatic data processing systems, electrical transmission systems, powerplants, power transmission systems, powerplant machinery and equipment, structures, and facilities for the transmission of electricity for use by railroads;
 
@@ -32,7 +32,7 @@ As used in this subchapter, the term—
 
 &emsp;(10) “coordination” means the combination of rail freight traffic flows through the use of joint facilities arrangements or internally that result in a reduction of service on at least one facility and includes arrangements for joint use of tracks or other facilities and the acquisition or sale of assets.
 
-(Pub. L. 94–210, title V, §501, Feb. 5, 1976, 90 Stat. 66; Pub. L. 95–620, title VIII, §803(c)(1), Nov. 9,1978, 92 Stat. 3347; Pub. L. 96–101, §24(b), Nov. 4, 1979, 93 Stat. 747; Pub. L. 96–448, title IV, §405(d), Oct. 14, 1980, 94 Stat. 1947; Pub. L. 97–35, title XI, §1162(b), Aug. 13, 1981, 95 Stat. 684; Pub. L. 99–509, title IV, §4033(c)(2), Oct. 21, 1986, 100 Stat. 1908.)
+(Pub. L. 94–210, title V, §501, Feb. 5, 1976, 90 Stat. 66; Pub. L. 95–620, title VIII, §803(c)(1), Nov. 9, 1978, 92 Stat. 3347; Pub. L. 96–101, §24(b), Nov. 4, 1979, 93 Stat. 747; Pub. L. 96–448, title IV, §405(d), Oct. 14, 1980, 94 Stat. 1947; Pub. L. 97–35, title XI, §1162(b), Aug. 13, 1981, 95 Stat. 684; Pub. L. 99–509, title IV, §4033(c)(2), Oct. 21, 1986, 100 Stat. 1908.)
 
 #### References in Text
 
@@ -60,9 +60,27 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of Title 42, The Public Health and Welfare.
+
+#### Statement of Purpose and Goals
+
+Section 3 of Pub. L. 96–448 provided that: “The purpose of this Act \[see Tables for classification\] is to provide for the restoration, maintenance, and improvement of the physical facilities and financial stability of the rail system of the United States. In order to achieve this purpose, it is hereby declared that the goals of this Act are—
+
+&emsp;“(1) to assist the railroads of the Nation in rehabilitating the rail system in order to meet the demands of interstate commerce and the national defense;
+
+&emsp;“(2) to reform Federal regulatory policy so as to preserve a safe, adequate, economical, efficient, and financially stable rail system;
+
+&emsp;“(3) to assist the rail system to remain viable in the private sector of the economy;
+
+&emsp;“(4) to provide a regulatory process that balances the needs of carriers, shippers, and the public; and
+
+&emsp;“(5) to assist in the rehabilitation and financing of the rail system.”
+
+#### Lawfulness of Existing Competitive Practices Between Water Carriers and Rail Carriers Unaffected
+
+Section 707 of Pub. L. 96–448 provided that: “With respect to the relationship between water carriers and rail carriers, none of the amendments made by this Act \[see Tables for classification\] shall be construed to make lawful (1) any competitive practice that is unfair, destructive, predatory, or otherwise undermines competition and that was unlawful on the effective date of this Act \[Oct. 1, 1980\], or (2) any other competitive practice that is unfair, destructive, predatory, or otherwise undermines competition.”
 

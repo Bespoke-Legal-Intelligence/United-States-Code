@@ -6,7 +6,7 @@ A person shall be eligible for assignment to a boot camp if he or she—
 
 &emsp;(1) is considered to be a juvenile under the laws of the State of jurisdiction; and
 
-&emsp;(2) has been adjudicated to be delinquent in the State of jurisdiction or, upon approval ofthe court, voluntarily agrees to the boot camp assignment without a delinquency adjudication.
+&emsp;(2) has been adjudicated to be delinquent in the State of jurisdiction or, upon approval of the court, voluntarily agrees to the boot camp assignment without a delinquency adjudication.
 
 #### (b) Placement
 

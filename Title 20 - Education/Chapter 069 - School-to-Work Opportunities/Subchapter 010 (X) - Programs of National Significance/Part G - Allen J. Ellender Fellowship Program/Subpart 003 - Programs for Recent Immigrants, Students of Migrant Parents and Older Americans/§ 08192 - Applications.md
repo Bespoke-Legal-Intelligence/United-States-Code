@@ -16,5 +16,5 @@ Except such application shall contain provisions to assure—
 
 &emsp;(4) the proper disbursement of the funds received under this subpart.
 
-(Pub. L. 89 10, title X, §10732, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3843.)
+(Pub. L. 89–10, title X, §10732, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3843.)
 

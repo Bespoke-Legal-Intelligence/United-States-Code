@@ -84,7 +84,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (A) Ozone and carbon monoxide
 
-&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (orportions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
+&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (or portions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
 
 &emsp;&emsp;(ii) No later than 120 days after the date the Governor is required to submit the list of areas (or portions thereof) required under clause (i) of this subparagraph, the Administrator shall promulgate such designations, making such modifications as the Administrator may deem necessary, in the same manner, and under the same procedure, as is applicable under clause (ii) of paragraph (1)(B), except that the phrase “60 days” shall be substituted for the phrase “120 days” in that clause. If the Governor does not submit, in accordance with clause (i) of this subparagraph, a designation for an area (or portion thereof), the Administrator shall promulgate the designation that the Administrator deems appropriate.
 
@@ -154,7 +154,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title.
+This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title; title 23 sections 109, 149.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

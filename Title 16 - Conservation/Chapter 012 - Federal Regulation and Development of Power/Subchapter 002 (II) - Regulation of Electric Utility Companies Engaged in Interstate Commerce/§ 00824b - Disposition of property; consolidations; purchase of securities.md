@@ -6,7 +6,7 @@ No public utility shall sell, lease, or otherwise dispose of the whole of its fa
 
 #### (b) Orders of Commission
 
-The Commission may grant any application for an order under this section in whole or inpart and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
+The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
 (June 10, 1920, ch. 285, pt. II, §203, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 849.)
 

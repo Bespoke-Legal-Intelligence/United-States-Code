@@ -2,7 +2,7 @@
 
 (a)
 
-Method of Calculation.—(1) The Administrator of the Environmental Protection Agency shall calculate the average fuel economy of a manufacturer subject to—
+Method of Calculation.—(1) The Administrator of the Environmental Protection Agencyshall calculate the average fuel economy of a manufacturer subject to—
 
 &emsp;(A) section 32902(a) of this title in a way prescribed by the Administrator; and
 
@@ -54,7 +54,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (4) In this subsection, the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically.
 
-(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will be manufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
+(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will bemanufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
 
 &emsp;(i) the Secretary finds that the plan is inadequate to meet the requirements of this paragraph; or
 
@@ -252,7 +252,7 @@ Subsec. (b)(7), (8). Pub. L. 103–429, §6(36)(A), redesignated pars. (5) and (
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

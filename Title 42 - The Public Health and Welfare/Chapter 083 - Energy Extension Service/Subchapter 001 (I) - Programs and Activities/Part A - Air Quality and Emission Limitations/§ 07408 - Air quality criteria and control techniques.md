@@ -2,7 +2,7 @@
 
 #### (a) Air pollutant list; publication and revision by Administrator; issuance of air quality criteria for air pollutants
 
-(1) For the purpose of establishing national primary and secondary ambient air quality standards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
+(1) For the purpose of establishing national primary and secondary ambient air qualitystandards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
 
 &emsp;(A) emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare;
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 101–549, §108(<i>o</i>), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
-1977—Subsec. (a)(1)(A). Pub. L. 95–95, §401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for“which in his judgment has an adverse effect on public health or welfare”.
+1977—Subsec. (a)(1)(A). Pub. L. 95–95, §401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
 
 Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 

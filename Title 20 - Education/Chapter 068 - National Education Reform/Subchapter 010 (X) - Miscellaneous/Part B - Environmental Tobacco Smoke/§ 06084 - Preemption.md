@@ -2,5 +2,5 @@
 
 Nothing in this part is intended to preempt any provision of law of a State or political subdivision of a State that is more restrictive than a provision of this part.
 
-(Pub. L. 103 227, title X, §1044, Mar. 31, 1994, 108 Stat. 274.)
+(Pub. L. 103–227, title X, §1044, Mar. 31, 1994, 108 Stat. 274.)
 

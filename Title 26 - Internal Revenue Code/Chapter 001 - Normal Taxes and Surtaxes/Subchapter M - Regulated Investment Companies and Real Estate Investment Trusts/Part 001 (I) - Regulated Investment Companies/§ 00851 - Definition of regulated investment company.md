@@ -98,7 +98,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
 
-&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
+&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest insuch trust shall be the same as the basis of his interest in such trust; and
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
@@ -128,7 +128,7 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;In the case of a regulated investment company (within the meaning of subsection (a))having more than one fund, each fund of such regulated investment company shall be treated as a separate corporation for purposes of this title (except with respect to the definitional requirement of subsection (a)).
+&emsp;In the case of a regulated investment company (within the meaning of subsection (a)) having more than one fund, each fund of such regulated investment company shall be treated as a separate corporation for purposes of this title (except with respect to the definitional requirement of subsection (a)).
 
 #### (2) Fund defined
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Section 701(s)(3) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 
-Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
+Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as paymentswith respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -16,7 +16,7 @@ In order to—
 
 #### (b) Appointment; supervision; removal
 
-(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
+(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting,financial analysis, law, management analysis, public administration, or auditing.
 
 (2) The Inspector General shall report directly to and be under the general supervision of the Director.
 
@@ -24,7 +24,7 @@ In order to—
 
 (4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
 
-(5) In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.
+(5) In accordance with section 535 of title 28, the Inspector General shall report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involve a program or operation of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Director.
 
 (6) The Inspector General may be removed from office only by the President. The President shall immediately communicate in writing to the intelligence committees the reasons for any such removal.
 
@@ -64,7 +64,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(B) an investigation, inspection, or audit carried out by the Inspector General should focus upon the Director or Acting Director; or
 
-&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
+&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in thecourse of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
 
 (4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
 
@@ -76,7 +76,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
 
-&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation; and
+&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
 &emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
@@ -96,7 +96,7 @@ Beginning with fiscal year 1991, and in accordance with procedures to be issued 
 
 There shall be transferred to the Office the office of the Agency referred to as the “Office of Inspector General.” The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, or available to such “Office of Inspector General” are hereby transferred to the Office established pursuant to this section.
 
-(June 20, 1949, ch. 227, §17, as added Sept. 29, 1988, Pub. L. 100–453, title V, §504, 102 Stat. 1910; amended Nov. 30, 1989, Pub. L. 101–193, title VIII, §801, 103 Stat. 1711; Oct. 24, 1992, Pub. L. 102–496, title VI, §601, 106 Stat. 3187; Oct. 14, 1994, Pub. L. 103–359, title IV, §402, 108 Stat. 3427.)
+(June 20, 1949, ch. 227, §17, as added Sept. 29, 1988, Pub. L. 100–453, title V, §504, 102 Stat. 1910; amended Nov. 30, 1989, Pub. L. 101–193, title VIII, §801, 103 Stat. 1711; Oct. 24, 1992, Pub. L. 102–496, title VI, §601, 106 Stat. 3187; Oct. 14, 1994, Pub. L. 103–359, title IV, §402, 108 Stat. 3427; Jan. 6, 1996, Pub. L. 104–93, title IV, §403, 109 Stat. 969.)
 
 #### References in Text
 
@@ -107,6 +107,10 @@ The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–93, §403(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.”
+
+Subsec. (e)(3)(A). Pub. L. 104–93, §403(b), inserted “or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken” after “investigation”.
 
 1994—Subsec. (b)(1). Pub. L. 103–359, §402(1), substituted “analysis, public administration, or auditing” for “analysis, or public administration”.
 
@@ -122,7 +126,7 @@ Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted “the Inspector Genera
 
 1992—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted “any person” for “an employee of the Agency” and inserted “from an employee of the Agency” after “received”.
 
-1989—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees byDirector of Central Intelligence concerning selection and activities of Inspector General.
+1989—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
 
 #### Section Referred to in Other Sections
 

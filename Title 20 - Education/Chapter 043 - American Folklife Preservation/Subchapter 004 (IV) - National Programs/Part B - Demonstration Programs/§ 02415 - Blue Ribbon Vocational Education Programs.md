@@ -28,9 +28,9 @@ The Secretary is authorized to disseminate information and exemplary materials r
 
 (2) No award may be made under this section unless the local educational agency, area vocational education school, intermediate educational agency, tribal authority, Bureau of Indian Affairs, or appropriate State agency with jurisdiction over the school or program involved submits an application to the Secretary at such time, in such manner and containing such information as the Secretary may reasonably require.
 
-(Pub. L. 88 210, title IV, §415, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 817.)
+(Pub. L. 88–210, title IV, §415, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 817.)
 
 #### Prior Provisions
 
-A prior section 2415, Pub. L. 88 210, title IV, §415, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2471, related to establishment by Secretary of demonstration centers for retraining of dislocated workers, prior to the general revision of this part by Pub. L. 101 392.
+A prior section 2415, Pub. L. 88–210, title IV, §415, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2471, related to establishment by Secretary of demonstration centers for retraining of dislocated workers, prior to the general revision of this part by Pub. L. 101–392.
 

@@ -20,7 +20,7 @@ For short title of Pub. L. 96–420, which enacted subchapter II of this chapter
 
 For short title of Pub. L. 97–399, which enacted subchapter III of this chapter as the “Florida Indian Land Claims Settlement Act of 1982”, see section 1 of Pub. L. 97–399, set out as a note under section 1741 of this title.
 
-For short title of Pub. L. 98–134, which enacted subchapter IV of this chapter as the “Mashantucket Pequot Indian Claims Settlement Act”, see section 1 of Pub. L. 98–134, set out as a note under section 1751 of this title.
+For short title of Pub. L. 98–134, which enacted subchapter IV of this chapter as the “MashantucketPequot Indian Claims Settlement Act”, see section 1 of Pub. L. 98–134, set out as a note under section 1751 of this title.
 
 For short title of Pub. L. 100–95, which enacted subchapter V of this chapter as the ”Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–95, set out as a note under section 1771 of this title.
 

@@ -52,7 +52,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 #### (d) Compensation and expenses
 
-No compensation shall be paid to the members of the Board for their services as members, butthey may be reimbursed for actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties as such members out of Foundation funds available to the Board for such purposes.
+No compensation shall be paid to the members of the Board for their services as members, but they may be reimbursed for actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties as such members out of Foundation funds available to the Board for such purposes.
 
 #### (e) Acceptance of gifts, devises, and bequests
 
@@ -130,7 +130,7 @@ Section was enacted as part of the Tourism Policy and Export Promotion Act of 19
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

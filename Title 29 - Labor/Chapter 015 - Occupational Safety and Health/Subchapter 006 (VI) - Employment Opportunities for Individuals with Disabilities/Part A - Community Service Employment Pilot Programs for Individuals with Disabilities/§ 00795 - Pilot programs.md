@@ -36,7 +36,7 @@ In order to promote useful opportunities in community service activities for ind
 
 &emsp;(A) the <sup>1</sup> prevailing rate of pay for persons employed in similar occupations by the same employer.
 
-&emsp;(B) The minimum wage which would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] if such employee were not exempt from such Act under section 13 thereof \[29 U.S.C. 213\].
+&emsp;(B) The minimum wage which would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] ifsuch employee were not exempt from such Act under section 13 thereof \[29 U.S.C. 213\].
 
 &emsp;(C) The State or local minimum wage for the most nearly comparable covered employment.
 
@@ -56,7 +56,7 @@ Payments under this part may be made in advance or by way of reimbursement, and 
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060,as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 #### Amendments
 

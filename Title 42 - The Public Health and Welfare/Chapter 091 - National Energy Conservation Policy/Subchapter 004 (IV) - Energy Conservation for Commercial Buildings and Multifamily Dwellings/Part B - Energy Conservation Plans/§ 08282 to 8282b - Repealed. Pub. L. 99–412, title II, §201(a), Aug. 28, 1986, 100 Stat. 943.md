@@ -1,6 +1,6 @@
 ### §§8282 to 8282b. Repealed. Pub. L. 99–412, title II, §201(a), Aug. 28, 1986, 100 Stat. 943
 
-Section 8282, Pub. L. 95–619, title VII, §721, as added Pub. L. 96–294, title V, §565, June 30, 1980, 94 Stat. 754, related to procedures for submission and approval of State energy conservation plans for commercial buildings and multifamily dwellings.
+Section 8282, Pub. L. 95–619, title VII, §721, as added Pub. L. 96–294, title V, §565, June 30, 1980, 94 Stat. 754,related to procedures for submission and approval of State energy conservation plans for commercial buildings and multifamily dwellings.
 
 Section 8282a, Pub. L. 95–619, title VII, §722, as added Pub. L. 96–294, title V, §565, June 30, 1980, 94 Stat. 755, related to requirements for State plans for regulated utilities.
 

@@ -13,7 +13,7 @@
 
 #### Historical and Revision Notes
 
-Chapter 89 provides for the manning of freight vessels, small passenger vessels, uninspected passenger vessels, and towing vessels. It permits a licensed operator to be in charge of a vessel in lieu of a licensed master or pilot. It also sets forth exemption and civil penalties.
+Chapter 89 provides for the manning of freight vessels, small passenger vessels, uninspected passengervessels, and towing vessels. It permits a licensed operator to be in charge of a vessel in lieu of a licensed master or pilot. It also sets forth exemption and civil penalties.
 
 #### Amendments
 

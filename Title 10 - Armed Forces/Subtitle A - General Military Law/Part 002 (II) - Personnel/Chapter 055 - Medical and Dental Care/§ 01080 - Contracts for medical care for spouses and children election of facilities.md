@@ -28,7 +28,7 @@ The words “a plan contracted for under section 1079 of this title” are subst
 
 #### Prior Provisions
 
-A prior section 1080, act Aug. 10, 1956, ch. 1041, 70A Stat. 85, which related to style and marking of envelopes, inserts, return envelopes, and to weight of ballots, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1080, act Aug. 10, 1956, ch. 1041, 70A Stat. 85, related to style and marking of envelopes, inserts, return envelopes, and to weight of ballots, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

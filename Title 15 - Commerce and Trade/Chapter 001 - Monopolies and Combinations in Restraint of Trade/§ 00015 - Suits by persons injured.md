@@ -38,9 +38,9 @@ For purposes of this section—
 
 The antitrust laws, referred to in subsec. (a), are defined in section 12 of this title.
 
-#### Codification
+#### Prior Provisions
 
-Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, §7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, §77, 28 Stat. 570, each of which were restricted in operation to the particular act cited.
+Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, §7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, §77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 189, was repealed by act July 7, 1955, ch. 283, §3, 69 Stat. 283, effective six months after July 7, 1955.
 
 #### Amendments
 
@@ -51,10 +51,6 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 #### Effective Date of 1980 Amendment
 
 Section 4(b) of Pub. L. 96–349 provided that: “The amendments made by this section \[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\].”
-
-#### Repeals
-
-Section 7 of act July 2, 1890, ch. 647, 26 Stat. 210, which was superseded by this section, was repealed by act July 7, 1955, ch. 283, §3, 69 Stat. 283. For effective date of repeal, see note set out under section 15b of this title.
 
 #### Federal Rules of Civil Procedure
 

@@ -96,7 +96,7 @@ Safety Considerations in Public Interest.—In carrying out subpart III of this 
 
 International Air Transportation.—In formulating United States international air transportation policy, the Secretaries of State and Transportation shall develop a negotiating policy emphasizing the greatest degree of competition compatible with a well-functioning international air transportation system, including the following:
 
-&emsp;(1) strengthening the competitive position of air carriers to ensure at least equality with foreign air carriers, including the attainmentof the opportunity for air carriers to maintain and increase their profitability in foreign air transportation.
+&emsp;(1) strengthening the competitive position of air carriers to ensure at least equality with foreign air carriers, including the attainment of the opportunity for air carriers to maintain and increase their profitability in foreign air transportation.
 
 &emsp;(2) freedom of air carriers and foreign air carriers to offer prices that correspond to consumer demand.
 
@@ -222,7 +222,7 @@ In subsections (c) and (d), the reference to subpart III is added because the po
 
 In subsection (c), before clause (1), the word “Administrator” in section 306 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 749) is retained on authority of 49:106(g). The words “consider the following matters” are substituted for “give full consideration to” for consistency in this section.
 
-In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surplus the first time it appears. The words “of the United States” are omitted for consistency in the revised title and because of the definitionof “navigable airspace” in section 40102(a) of the revised title. The words “of those operations” are added for clarity.
+In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surplus the first time it appears. The words “of the United States” are omitted for consistency in the revised title and because of the definition of “navigable airspace” in section 40102(a) of the revised title. The words “of those operations” are added for clarity.
 
 In subsection (d)(5), the word “both” in 49 App.:1303(e) is omitted as surplus.
 
@@ -308,7 +308,7 @@ Report.—(1) Within six months after the date of enactment of this Act \[Aug. 2
 
 “(f)
 
-Authorization of Appropriations.—Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under section 48102(a) of title 49, United States Code, as amended by section 302 of this title, there are authorized to be appropriated for fiscal years 1995 and1996, respectively, such sums as may be necessary to carry out this section.”
+Authorization of Appropriations.—Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under section 48102(a) of title 49, United States Code, as amended by section 302 of this title, there are authorized to be appropriated for fiscal years 1995 and 1996, respectively, such sums as may be necessary to carry out this section.”
 
 #### Information on Disinsection of Aircraft
 

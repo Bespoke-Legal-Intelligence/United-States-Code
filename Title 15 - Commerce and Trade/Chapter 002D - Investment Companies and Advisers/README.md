@@ -12,6 +12,11 @@
 | (a) | Definitions. |
 | (b) | Exemption from provisions. |
 | (c) | Further exemptions. |
+| 80a–3a. | Protection of philanthropy under State law. |
+| (a) | Registration requirements. |
+| (b) | Treatment of charitable organizations. |
+| (c) | State action. |
+| (d) | Definitions. |
 | 80a–4. | Classification of investment companies. |
 | 80a–5. | Subclassification of management companies. |
 | (a) | Open-end and closed-end companies. |
@@ -29,6 +34,7 @@
 | (b) | Prohibition of transactions in interstate commerce by depositors or trustees of companies. |
 | (c) | Prohibition of transactions in interstate commerce by promoters of proposed investment companies. |
 | (d) | Prohibition of transactions in interstate commerce by companies not organized under laws of the United States or a State; exceptions. |
+| (e) | Disclosure by exempt charitable organizations. |
 | 80a–8. | Registration of investment companies. |
 | (a) | Notification of registration; effective date of registration. |
 | (b) | Registration statement; contents. |

@@ -1,6 +1,6 @@
 ### §4508. Officers
 
-(a) The officers of the corporation shall be a president, one or more vice presidents, a secretary, a treasurer, and such other officers as may be prescribed in the bylaws. The duties of the officers shall be as prescribed in the bylaws of the corporation.
+(a) The officers of the corporation shall be a president, one or more vice presidents, a secretary, a treasurer, and such other officers asmay be prescribed in the bylaws. The duties of the officers shall be as prescribed in the bylaws of the corporation.
 
 (b) Officers shall be elected annually at the annual meeting of the corporation.
 

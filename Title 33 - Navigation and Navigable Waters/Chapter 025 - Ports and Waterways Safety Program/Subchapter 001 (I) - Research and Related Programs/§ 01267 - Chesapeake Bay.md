@@ -24,7 +24,7 @@ The Administrator shall continue the Chesapeake Bay Program and shall establish 
 
 #### (3) Federal share
 
-&emsp;Grants under this subsection shall not exceed 50 percent of the costs of implementing the management mechanisms contained in theplan in any fiscal year and shall be made on condition that non-Federal sources provide the remainder of the cost of implementing the management mechanisms contained in the plan during such fiscal year.
+&emsp;Grants under this subsection shall not exceed 50 percent of the costs of implementing the management mechanisms contained in the plan in any fiscal year and shall be made on condition that non-Federal sources provide the remainder of the cost of implementing the management mechanisms contained in the plan during such fiscal year.
 
 #### (4) Administrative costs
 

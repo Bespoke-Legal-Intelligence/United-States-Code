@@ -26,7 +26,7 @@ Technology Extension Services.—(1) The Secretary shall conduct a nationwide st
 
 &emsp;“(C) an evaluation of the success of the services in transferring technology, modernizing manufacturing processes, and improving the productivity and profitability of businesses;
 
-&emsp;“(D) an assessment of the degree to which State services make use of Federal programs, including the Small Business Innovative Research program and the programs of the Federal Laboratory Consortium, the National Technical Information Service, the National Science Foundation, the Office of Productivity, Technology, and Innovation, and the Small Business Administration;
+&emsp;“(D) an assessment of the degree to which State services make use of Federal programs, including theSmall Business Innovative Research program and the programs of the Federal Laboratory Consortium, the National Technical Information Service, the National Science Foundation, the Office of Productivity, Technology, and Innovation, and the Small Business Administration;
 
 &emsp;“(E) a survey of what additional Federal information and technical assistance the services could utilize; and
 

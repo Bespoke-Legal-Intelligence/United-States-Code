@@ -1,4 +1,4 @@
-### §460x–3 . Sleeping Bear Dunes National Lakeshore Advisory Commission
+### §460x–3. Sleeping Bear Dunes National Lakeshore Advisory Commission
 
 #### (a) Establishment; termination
 

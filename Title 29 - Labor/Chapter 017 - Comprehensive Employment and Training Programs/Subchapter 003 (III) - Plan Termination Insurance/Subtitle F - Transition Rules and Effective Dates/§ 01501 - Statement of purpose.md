@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1992—Pub. L. 102–367 amended section generally. Prior to amendment, section read as follows: “It is the purpose of this chapter to establish programs to prepare youth and unskilled adults for entry into the labor force and to afford job training to those economicallydisadvantaged individuals and other individuals facing serious barriers to employment, who are in special need of such training to obtain productive employment.”
+1992—Pub. L. 102–367 amended section generally. Prior to amendment, section read as follows: “It is the purpose of this chapter to establish programs to prepare youth and unskilled adults for entry into the labor force and to afford job training to those economically disadvantaged individuals and other individuals facing serious barriers to employment, who are in special need of such training to obtain productive employment.”
 
 #### Effective Date of 1992 Amendment; Transition Provisions
 
@@ -36,7 +36,7 @@ Level of funding.—If the amount appropriated to carry out parts A and C of tit
 
 &emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 202 of this Act \[enacting section 1602 of this title\] shall not take effect on July 1, 1993 \[Amendment by section 202 did not take effect July 1, 1993, because the appropriations referred to above for fiscal year 1993 were less than the sum referred to above.\], and section 202 of the Job Training Partnership Act \[section 1602 of this title\] shall be amended to read as follows: \[For text, see section 1602 of this title.\]
+> &emsp;the amendment made by section 202 of this Act \[enacting section 1602 of this title\] shall not take effect on July 1, 1993 \[Amendment by section 202 did not take effect July 1, 1993, because the appropriations referred to above for fiscal year 1993 were less than the sum referred to above.\], and section 202 of the JobTraining Partnership Act \[section 1602 of this title\] shall be amended to read as follows: \[For text, see section 1602 of this title.\]
 
 &emsp;“(2)
 
@@ -54,7 +54,7 @@ Level of funding.—If section 202 of the Job Training Partnership Act \[section
 
 &emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 202 of this Act \[enacting section 1602 of this title\] shall take effect. \[Amendment by section 202 did not take effect because the appropriations referred to above for fiscal year 1995 were less than the sum referred to above.\]
+> &emsp;the amendment made by section 202 of this Act \[enacting section 1602 of this title\] shall take effect. \[Amendment by section 202 did not take effect because the appropriations referred to above for fiscal year 1996 were less than the sum referred to above.\]
 
 &emsp;“(2)
 
@@ -102,7 +102,7 @@ Level of funding.—If title II of the Job Training Partnership Act \[29 U.S.C. 
 
 &emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 207 of this Act \[enacting section 1642 of this title\] shall take effect. \[Amendment by section 207 did not take effect because the appropriations referred to above for fiscal year 1994 were less than the sum referred to above.\]
+> &emsp;the amendment made by section 207 of this Act \[enacting section 1642 of this title\] shall take effect. \[Amendment by section 207 did not take effect because the appropriations referred to above for fiscal year 1996 were less than the sum referred to above.\]
 
 &emsp;“(2)
 
@@ -128,9 +128,17 @@ Review.—The Secretary of Labor, the Governors, and the service delivery areas 
 
 Implementing Regulations.—The Secretary of Labor shall issue final regulations relating to the implementation of the amendments made by this Act not later than December 18, 1992.”
 
+#### Construction of 1991 Amendment
+
+Pub. L. 102–235, §11, Dec. 12, 1991, 105 Stat. 1811, provided that:
+
+“(a) For purposes of this legislation, nothing in this Act \[see Short Title of 1991 Amendment note above\] shall be construed to mean that Congress is taking a position on the issue of comparable worth.
+
+“(b) Nothing in this Act shall be construed to require, sanction or authorize discrimination in violation of title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] or any other Federal law prohibiting discrimination on the basis of race, color, religion, sex, national origin, handicap, or age. No individual shall be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in any program under this Act because of race, color, religion, sex, national origin, age, handicap, political affiliation or belief. Failure to meet the goals in the Act shall not itself constitute a violation of title VII of the Civil Rights Act of 1964 or any other Federal law prohibiting discrimination on the basis of race, color, religion, sex, national origin, handicap, or age.”
+
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–367 provided that: “This Act \[enacting sections 1519, 1601 to 1606, 1630 to 1635, 1641 to1646, 1673, 1734, 1735, 1782 to 1784b, and 1792 to 1792b of this title, amending this section and sections 1502, 1503, 1505, 1511, 1512, 1514 to 1518, 1531 to 1535, 1551 to 1554, 1571, 1572, 1574 to 1577, 1580, 1583, 1652, 1661, 1661c, 1661d, 1662a, 1662c, 1662e, 1671, 1672, 1693, 1696 to 1698, 1703, 1703a, 1706, 1707, 1731 to 1733, 1737, 1752 to 1754, 1772, 1773, 1781, and 1791 to 1791h of this title, section 2014 of Title 7, Agriculture, and sections 1205a and 2322 of Title 20, Education, repealing sections 1591, 1601 to 1605, 1630 to 1634, and 1734 to 1736 of this title, omitting sections 1791i and 1791j of this title, and enacting provisions set out as notes under this section and sections 1602 and 1642 of this title\] may be cited as the ‘Job Training Reform Amendments of 1992’.”
+Section 1 of Pub. L. 102–367 provided that: “This Act \[enacting sections 1519, 1601 to 1606, 1630 to 1635, 1641 to 1646, 1673, 1734, 1735, 1782 to 1784b, and 1792 to 1792b of this title, amending this section and sections 1502, 1503, 1505, 1511, 1512, 1514 to 1518, 1531 to 1535, 1551 to 1554, 1571, 1572, 1574 to 1577, 1580, 1583, 1652, 1661, 1661c, 1661d, 1662a, 1662c, 1662e, 1671, 1672, 1693, 1696 to 1698, 1703, 1703a, 1706, 1707, 1731 to 1733, 1737, 1752 to 1754, 1772, 1773, 1781, and 1791 to 1791h of this title, section 2014 of Title 7, Agriculture, and sections 1205a and 2322 of Title 20, Education, repealing sections 1591, 1601 to 1605, 1630 to 1634, and 1734 to 1736 of this title, omitting sections 1791i and 1791j of this title, and enacting provisions set out as notes under this section and sections 1602 and 1642 of this title\] may be cited as the ‘Job Training Reform Amendments of 1992’.”
 
 #### Short Title of 1991 Amendment
 
@@ -159,14 +167,6 @@ Section 101(a) of Pub. L. 102–367 provided that: “In recognition of the trai
 &emsp;“(2) increase the funds available for programs under title II of the Job Training Partnership Act (29 U.S.C. 1601 et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
 
 &emsp;“(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
-
-#### Construction of 1991 Amendment
-
-Pub. L. 102–235, §11, Dec. 12, 1991, 105 Stat. 1811, provided that:
-
-“(a) For purposes of this legislation, nothing in this Act \[see Short Title of 1991 Amendment note above\] shall be construed to mean that Congress is taking a position on the issue of comparable worth.
-
-“(b) Nothing in this Act shall be construed to require, sanction or authorize discrimination in violation of title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] or any other Federal law prohibiting discrimination on the basis of race, color, religion, sex, national origin, handicap, or age. No individual shall be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in any program under this Act because of race, color, religion, sex, national origin, age, handicap, political affiliation or belief. Failure to meet the goals in the Act shall not itself constitute a violation of title VII of the Civil Rights Act of 1964 or any other Federal law prohibiting discrimination on the basis of race, color, religion, sex, national origin, handicap, or age.”
 
 #### Congressional Findings and Statement of Purpose for 1991 Amendments
 

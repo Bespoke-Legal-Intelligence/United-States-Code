@@ -1,4 +1,4 @@
-### §3903 . Strengthened supervision of international lending
+### §3903. Strengthened supervision of international lending
 
 (a) Each appropriate Federal banking agency shall evaluate banking institution foreign country exposure and transfer risk for use in banking institution examination and supervision.
 

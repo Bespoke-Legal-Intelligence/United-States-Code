@@ -32,7 +32,7 @@ The amount of the penalty, as determined by the Secretary, may not exceed—
 
 #### (2) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under this section, the Secretary shall give consideration to such factors as the gravity of the offense, any history of prior offenses, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretarymay determine, by regulation, to be appropriate.
+&emsp;In determining the amount of a penalty under this section, the Secretary shall give consideration to such factors as the gravity of the offense, any history of prior offenses, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine, by regulation, to be appropriate.
 
 #### (d) Action to collect penalty
 

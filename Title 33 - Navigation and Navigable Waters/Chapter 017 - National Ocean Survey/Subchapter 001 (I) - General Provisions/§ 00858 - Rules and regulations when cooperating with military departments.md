@@ -2,7 +2,7 @@
 
 The Secretary of Defense and the Secretary of Commerce shall jointly prescribe regulations governing the duties to be performed by the National Oceanic and Atmospheric Administration in time of war, and for the cooperation of that service with the military departments in time of peace in preparation for its duties in war, which regulations shall not be effective unless approved by each of those Secretaries, and included therein may be rules and regulations for making reports and communications between a military department and the National Oceanic and Atmospheric Administration.
 
-(May 22, 1917, ch. 20, §16, 40 Stat. 88; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Oct. 14, 1966, Pub. L. 89–657, §1(2), 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(May 22, 1917, ch. 20, §16, 40 Stat. 88; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819,79 Stat. 1318; Oct. 14, 1966, Pub. L. 89–657, §1(2), 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Codification
 

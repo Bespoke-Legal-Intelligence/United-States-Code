@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 94–455 struck out provisions relating to the special rule
 
 Subsec. (d). Pub. L. 94–455, among other changes, substituted provisions relating to surtax exemption of $25,000 for a taxable year ending Dec. 31, 1977, or $50,000 for a taxable year ending after Dec. 31, 1974, and before Jan. 1, 1978, for provisions relating to surtax exemption of $50,000 for any taxable year and struck out provisions relating to six-month application of the general rule.
 
-1975—Subsec. (b). Pub. L. 94–164 redesignated existing pars. (1) and (2) as pars. (1)(A) and (1)(B), and in par. (1)(A) as so redesignated substituted “after December 31, 1976” for “before January 1, 1975 or after December31, 1975”, and in par. (1)(B) as so redesignated substituted “January 1, 1977” for “January 1, 1976”, and added par. (2).
+1975—Subsec. (b). Pub. L. 94–164 redesignated existing pars. (1) and (2) as pars. (1)(A) and (1)(B), and in par. (1)(A) as so redesignated substituted “after December 31, 1976” for “before January 1, 1975 or after December 31, 1975”, and in par. (1)(B) as so redesignated substituted “January 1, 1977” for “January 1, 1976”, and added par. (2).
 
 Pub. L. 94–12, §303(a), reduced the normal tax for a taxable year ending after Dec. 31, 1974, and before Jan. 1, 1976, to 20 percent of so much of the taxable income as does not exceed $25,000 plus 22 percent of so much of the taxable income as exceeds $25,000.
 
@@ -194,7 +194,7 @@ Section 901(d) of Pub. L. 94–455 provided that: “The amendment made by subse
 
 Section 4(e) of Pub. L. 94–164 provided that: “The amendments made by subsections (b), (c), and (d) \[amending this section and sections 21, 962, and 1561 of this title\] apply to taxable years beginning after December 31, 1975. The amendment made by subsection (c) \[amending this section\] ceases to apply for taxable years beginning after December 31, 1976.”
 
-Section 305(b)(1) of Pub. L. 94–12 provided that: “The amendments made by section 303 \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsections (b) and (c) of such section \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions setout as a note under this section\] shall cease to apply for taxable years ending after December 31, 1975.”
+Section 305(b)(1) of Pub. L. 94–12 provided that: “The amendments made by section 303 \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsections (b) and (c) of such section \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall cease to apply for taxable years ending after December 31, 1975.”
 
 #### Effective Date of 1969 Amendment
 
@@ -246,5 +246,5 @@ Tax on—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 15, 59, 80, 244, 247, 280C, 453A, 460, 468B, 511, 527, 594, 801, 804, 831, 835, 847, 852, 857, 860E, 860G, 882, 891, 904, 907, 954, 962, 1201, 1291, 1293, 1351, 1374, 1375, 1381, 1446, 1551, 1561, 4942, 6033, 6425, 6655, 7518 of this title; title 46 App. section 1177.
+This section is referred to in sections 15, 59, 80, 244, 247, 280C, 453A, 460, 468B, 511, 527, 594, 801, 804, 831, 835,847, 852, 857, 860E, 860G, 882, 891, 904, 907, 954, 962, 1201, 1291, 1293, 1351, 1374, 1375, 1381, 1446, 1551, 1561, 4942, 6033, 6425, 6655, 7518 of this title; title 46 App. section 1177.
 

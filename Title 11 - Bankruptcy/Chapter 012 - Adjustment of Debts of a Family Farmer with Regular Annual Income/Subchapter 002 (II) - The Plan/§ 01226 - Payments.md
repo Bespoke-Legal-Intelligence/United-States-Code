@@ -10,7 +10,7 @@
 
 &emsp;(1) any unpaid claim of the kind specified in section 507(a)(1) of this title; and
 
-&emsp;(2) if a standing trustee appointed under section 1202(c) <sup>1</sup> of this title is serving in the case,the percentage fee fixed for such standing trustee under section 1202(d) <sup>1</sup> of this title.
+&emsp;(2) if a standing trustee appointed under section 1202(c) <sup>1</sup> of this title is serving in the case, the percentage fee fixed for such standing trustee under section 1202(d) <sup>1</sup> of this title.
 
 (c) Except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
 

@@ -1,6 +1,6 @@
 ### §790c. Analysis and evaluation of energy information; establishment and maintenance by Director of professional, etc., capability; specific capabilities
 
-(a) The Director shall establish and maintain the scientific, engineering, statistical, or othertechnical capability to perform analysis of energy information to—
+(a) The Director shall establish and maintain the scientific, engineering, statistical, or other technical capability to perform analysis of energy information to—
 
 &emsp;(1) verify the accuracy of items of energy information submitted to the Director; and
 

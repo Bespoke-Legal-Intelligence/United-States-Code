@@ -1,4 +1,4 @@
-### §1521 . Posthumous commissions
+### §1521. Posthumous commissions
 
 (a) The President may issue, or have issued, an appropriate commission in the name of a member of the armed forces who, after September 8, 1939—
 
@@ -72,7 +72,7 @@ In subsection (b), the words “if any” are substituted for words “of the se
 
 #### Determination of Date of Death Under Missing Persons Act
 
-Section 5 of act July 28, 1942, ch. 528, as added July 17, 1953, ch. 220, §1(e), 67 Stat. 177, which provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, was repealed by Pub. L. 89–718, §12(b), Nov. 2, 1966, 80 Stat. 1117. See section 1524 of this title.
+Section 5 of act July 28, 1942, ch. 528, as added July 17, 1953, ch. 220, §1(e), 67 Stat. 177, provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, prior to repeal by Pub. L. 89–718, §12(b), Nov. 2, 1966, 80 Stat. 1117. See section 1524 of this title.
 
 #### Section Referred to in Other Sections
 

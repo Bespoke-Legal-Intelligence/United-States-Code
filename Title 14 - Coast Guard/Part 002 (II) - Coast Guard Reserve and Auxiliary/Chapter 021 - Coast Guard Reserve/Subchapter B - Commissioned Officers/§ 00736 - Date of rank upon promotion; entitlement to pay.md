@@ -22,5 +22,5 @@ Provisions similar to those in this section were contained in section 784 of thi
 
 1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1983—Subsec. (b). Pub. L. 97–417 substituted provision that, notwithstanding any other law, when the running mate of a reserve officer serving in the grade of commodore is promoted to the grade of rear admiral, thereserve officer shall also be promoted to that grade, for provision that, notwithstanding any other law and when a Reserve officer's running mate was so entitled, a Reserve officer in the grade of rear admiral was entitled to the pay and allowances of the upper half for duty performed.
+1983—Subsec. (b). Pub. L. 97–417 substituted provision that, notwithstanding any other law, when the running mate of a reserve officer serving in the grade of commodore is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade, for provision that, notwithstanding any other law and when a Reserve officer's running mate was so entitled, a Reserve officer in the grade of rear admiral was entitled to the pay and allowances of the upper half for duty performed.
 

@@ -22,13 +22,13 @@ If any advertisement to which this section applies states the amount of the down
 
 &emsp;(3) The rate of the finance charge expressed as an annual percentage rate.
 
-(Pub. L. 90 321, title I, §144, May 29, 1968, 82 Stat. 158; Pub. L. 96 221, title VI, §619(b), Mar. 31, 1980, 94 Stat. 183.)
+(Pub. L. 90–321, title I, §144, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §619(b), Mar. 31, 1980, 94 Stat. 183.)
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 97 221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3), for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
+1980—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3), for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 

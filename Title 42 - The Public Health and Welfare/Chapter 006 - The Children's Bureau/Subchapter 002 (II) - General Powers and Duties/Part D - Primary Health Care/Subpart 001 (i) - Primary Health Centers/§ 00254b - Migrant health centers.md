@@ -36,7 +36,7 @@ For purposes of this section:
 
 &emsp;(C) any practice (including preparation and processing for market and delivery to storage or to market or to carriers for transportation to market) performed by a farmer or on a farm incident to or in conjunction with an activity described in subparagraph (B).
 
-(5) The term “high impact area” means a health service area or other area which has not less than four thousand migratory agricultural workers and seasonal agricultural workers residing within its boundaries for more than two months in any calendar year. In computing the number of workers residing in an area, thereshall be included as workers the members of the families of such workers.
+(5) The term “high impact area” means a health service area or other area which has not less than four thousand migratory agricultural workers and seasonal agricultural workers residing within its boundaries for more than two months in any calendar year. In computing the number of workers residing in an area, there shall be included as workers the members of the families of such workers.
 
 (6) The term “primary health services” means—
 
@@ -204,7 +204,7 @@ The Secretary may enter into contracts with public and private entities to—
 
 > In considering an application for a grant under subparagraph (A) of subsection (d)(1) of this section, the Secretary may require as a condition to the approval of such application assurance that the applicant will provide any specified health service described in subsection (a) of this section which the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided the applicant.
 
-(3) The Secretary may not approve an application for a grant under subsection (d)(1)(A) of thissection unless the Secretary determines that the entity for which the application is submitted is a migrant health center (within the meaning of subsection (a)(1) of this section) and that—
+(3) The Secretary may not approve an application for a grant under subsection (d)(1)(A) of this section unless the Secretary determines that the entity for which the application is submitted is a migrant health center (within the meaning of subsection (a)(1) of this section) and that—
 
 &emsp;(A) the primary health services of the center will be available and accessible in the center's catchment area promptly, as appropriate, and in a manner which assures continuity;
 
@@ -216,7 +216,7 @@ The Secretary may enter into contracts with public and private entities to—
 
 &emsp;(E) the center has made or will make and will continue to make every reasonable effort to collect appropriate reimbursement for its costs in providing health services to persons who are entitled to insurance benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], to medical assistance under a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\], or to assistance for medical expenses under any other public assistance program or private health insurance program;
 
-&emsp;(F) the center (i) has prepared a schedule of fees or payments for the provision of its services consistent with locally prevailing rates or charges and designed to cover its reasonable costs of operation and has prepared a corresponding schedule of discounts to be applied to the payment of such fees or payments, which discounts are adjusted on the basis of the patient's ability to pay, (ii) has made and will continue to make every reasonable effort (I) to secure from patients payment for services in accordance with such schedules, and (II) to collect reimbursement for health services to persons described in subparagraph (E) on the basis of the full amount of fees and payments for such services without application of any discount, and (iii) has submitted to the Secretary such reports as he may require to determine compliance with this subparagraph;
+&emsp;(F) the center (i) has prepared a schedule of fees or payments for the provision of its services consistent with locally prevailing rates or charges and designed to cover its reasonablecosts of operation and has prepared a corresponding schedule of discounts to be applied to the payment of such fees or payments, which discounts are adjusted on the basis of the patient's ability to pay, (ii) has made and will continue to make every reasonable effort (I) to secure from patients payment for services in accordance with such schedules, and (II) to collect reimbursement for health services to persons described in subparagraph (E) on the basis of the full amount of fees and payments for such services without application of any discount, and (iii) has submitted to the Secretary such reports as he may require to determine compliance with this subparagraph;
 
 &emsp;(G) the center has established a governing board which (i) is composed of individuals a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center, and (ii) selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and if the application is for a second or subsequent grant for a public center, the governing body of the center has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
 
@@ -238,7 +238,7 @@ The Secretary may enter into contracts with public and private entities to—
 
 #### (g) Technical and other nonfinancial assistance for centers or public or private nonprofit entities operating as centers without determination of status; resources list
 
-(1) The Secretary may provide (either through the Department of Health and Human Services or by grant or contract) all necessary technical and other nonfinancial assistance (including fiscal and program management assistance and training in such management) to any migrant health center or to any public or private nonprofit entity to assist it in developing plans for, and in operating as, a migrant health center, and in meeting the requirements of subsection (f)(2) of this section.
+(1) The Secretary may provide (either through the Department of Health and Human Services or by grant or contract) all necessary technical and other nonfinancial assistance (including fiscal and program management assistance and training in such management) to any migrant health center or to any public or private nonprofit entity to assist it in developing plans for,and in operating as, a migrant health center, and in meeting the requirements of subsection (f)(2) of this section.
 
 (2) The Secretary shall make available to each grant recipient under this section a list of available Federal and non-Federal resources to improve the environmental and nutritional status of individuals in the recipient's catchment area.
 
@@ -290,7 +290,7 @@ The Secretary may delegate the authority to administer the programs authorized b
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f)(3)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (f)(3)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX\(§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -344,7 +344,7 @@ Subsec. (f)(3)(F)(i). Pub. L. 100–386, §2(d), inserted “consistent with loc
 
 Subsec. (f)(7). Pub. L. 100–386, §2(e)(2), added par. (7).
 
-Subsec. (h)(1). Pub. L. 100–386, §2(h)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of subsections (c), (d), and (e) of this section, there are authorized to be appropriated $43,000,000 for the fiscal year ending September 30, 1982,$47,500,000 for the fiscal year ending September 30, 1983, $51,000,000 for the fiscal year ending September 30, 1984, $45,400,000 for fiscal year 1987 and $45,400,000 for fiscal year 1988. The Secretary may not obligate for grants and contracts under subsection (c)(1) of this section in any fiscal year an amount which exceeds 2 per centum of the funds appropriated under this paragraph for that fiscal year, the Secretary may not obligate for grants under subsection (d)(1)(C) of this section in any fiscal year an amount which exceeds 5 per centum of such funds, and the Secretary may not obligate for contracts under subsection (e) of this section in any fiscal year an amount which exceeds 10 per centum of such funds.”
+Subsec. (h)(1). Pub. L. 100–386, §2(h)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of subsections (c), (d), and (e) of this section, there are authorized to be appropriated $43,000,000 for the fiscal year ending September 30, 1982, $47,500,000 for the fiscal year ending September 30, 1983, $51,000,000 for the fiscal year ending September 30, 1984, $45,400,000 for fiscal year 1987 and $45,400,000 for fiscal year 1988. The Secretary may not obligate for grants and contracts under subsection (c)(1) of this section in any fiscal year an amount which exceeds 2 per centum of the funds appropriated under this paragraph for that fiscal year, the Secretary may not obligate for grants under subsection (d)(1)(C) of this section in any fiscal year an amount which exceeds 5 per centum of such funds, and the Secretary may not obligate for contracts under subsection (e) of this section in any fiscal year an amount which exceeds 10 per centum of such funds.”
 
 Subsec. (h)(2), (3). Pub. L. 100–386, §2(h)(2), added par. (2) and redesignated former par. (2) as (3).
 
@@ -414,7 +414,7 @@ Subsecs. (b) to (h). Pub. L. 94–63, §401(a), added subsecs. (b) to (h).
 
 1968—Pub. L. 90–574 inserted provisions authorizing appropriations of $9,000,000 for fiscal year ending June 30, 1969, and $15,000,000 for fiscal year ending June 30, 1970.
 
-1965—Pub. L. 89–109 substituted “not to exceed $7,000,000 for the first year ending June 30, 1966, $8,000,000 for the fiscal year ending June 30, 1967, and $9,000,000 for the fiscal year ending June 30, 1968” for “for the fiscal year ending June 30, 1963, the fiscal year ending June 30, 1964, and the fiscal year ending June 30, 1965, such sums, not to exceed $3,000,000 for any year, as may be necessary”, and inserted “including necessary hospital care, and” in cl. (1)(ii).
+1965—Pub. L. 89–109 substituted “not to exceed $7,000,000 for the first year ending June 30, 1966, $8,000,000 for the fiscal year ending June 30, 1967, and $9,000,000 for the fiscal year ending June 30, 1968” for “for the fiscal year ending June 30, 1963, the fiscal year ending June 30, 1964, and the fiscal year ending June 30, 1965, such sums, not to exceed $3,000,000 for any year, asmay be necessary”, and inserted “including necessary hospital care, and” in cl. (1)(ii).
 
 #### Change of Name
 

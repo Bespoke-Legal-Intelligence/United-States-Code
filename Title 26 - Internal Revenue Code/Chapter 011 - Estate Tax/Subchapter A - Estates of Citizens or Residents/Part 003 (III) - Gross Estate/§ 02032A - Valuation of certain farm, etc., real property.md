@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) in the case of the gross estate, the value of the gross estate for purposes of this chapter (determined without regard to this section), reduced by any amounts allowable as a deduction under paragraph (4) of section 2053(a), or
 
-&emsp;&emsp;(B) in the case of any real or personal property, the value of such property for purposes of this chapter (determined withoutregard to this section), reduced by any amounts allowable as a deduction in respect of such property under paragraph (4) of section 2053(a).
+&emsp;&emsp;(B) in the case of any real or personal property, the value of such property for purposes of this chapter (determined without regard to this section), reduced by any amounts allowable as a deduction in respect of such property under paragraph (4) of section 2053(a).
 
 #### (4) Decedents who are retired or disabled
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If there is no comparable land from which the average annual gross cash rentalmay be determined but there is comparable land from which the average net share rental may be determined, subparagraph (A)(i) shall be applied by substituting “average annual net share rental” for “average annual gross cash rental”.
+&emsp;&emsp;&emsp;If there is no comparable land from which the average annual gross cash rental may be determined but there is comparable land from which the average net share rental may be determined, subparagraph (A)(i) shall be applied by substituting “average annual net share rental” for “average annual gross cash rental”.
 
 #### (ii) Net share rental
 
@@ -374,7 +374,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified replacement property, any period during which there wasownership, qualified use, or material participation with respect to the replaced property by the decedent or any member of his family shall be treated as a period during which there was such ownership, use, or material participation (as the case may be) with respect to the qualified replacement property.
+&emsp;&emsp;In the case of any qualified replacement property, any period during which there was ownership, qualified use, or material participation with respect to the replaced property by the decedent or any member of his family shall be treated as a period during which there was such ownership, use, or material participation (as the case may be) with respect to the qualified replacement property.
 
 #### (B) Limitation
 

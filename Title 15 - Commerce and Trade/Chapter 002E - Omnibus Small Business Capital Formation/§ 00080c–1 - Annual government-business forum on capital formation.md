@@ -6,7 +6,7 @@ Pursuant to the consultation called for in section 80c of this title, the Securi
 
 #### (b) Participation in forum planning
 
-The Commission shall invite other Federal agencies, such as the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Small Business Administration, organizations representing State securitiescommissioners, and leading small business and professional organizations concerned with capital formation, to participate in the planning for such forums.
+The Commission shall invite other Federal agencies, such as the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Small Business Administration, organizations representing State securities commissioners, and leading small business and professional organizations concerned with capital formation, to participate in the planning for such forums.
 
 #### (c) Preparation of statements and reports
 

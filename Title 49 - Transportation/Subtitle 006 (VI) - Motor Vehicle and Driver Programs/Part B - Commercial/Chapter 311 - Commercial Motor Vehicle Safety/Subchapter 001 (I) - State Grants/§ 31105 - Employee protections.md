@@ -22,7 +22,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (B) Not later than 30 days after the notice under subparagraph (A) of this paragraph, the complainant and the person alleged to have committed the violation may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of objections does not stay a reinstatement ordered in the preliminary order. If a hearing is not requested within the 30 days, the preliminary order is final and not subject to judicial review.
 
-(C) A hearing shall be conducted expeditiously. Not later than 120 days after the end of the hearing, the Secretary shall issue a finalorder. Before the final order is issued, the proceeding may be ended by a settlement agreement made by the Secretary, the complainant, and the person alleged to have committed the violation.
+(C) A hearing shall be conducted expeditiously. Not later than 120 days after the end of the hearing, the Secretary shall issue a final order. Before the final order is issued, the proceeding may be ended by a settlement agreement made by the Secretary, the complainant, and the person alleged to have committed the violation.
 
 (3)(A) If the Secretary decides, on the basis of a complaint, a person violated subsection (a) of this section, the Secretary shall order the person to—
 

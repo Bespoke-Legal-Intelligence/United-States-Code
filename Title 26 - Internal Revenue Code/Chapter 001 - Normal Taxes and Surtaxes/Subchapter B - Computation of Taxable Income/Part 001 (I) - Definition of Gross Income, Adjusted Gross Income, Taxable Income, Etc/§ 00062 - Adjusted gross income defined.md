@@ -222,7 +222,7 @@ Section 1875(c)(12) of Pub. L. 99–514 provided that: “The amendments made by
 
 #### Effective Date of 1984 Amendment
 
-“Section 491(f)(1) of Pub. L. 98–369 provided that: “The amendments and repeals made by subsections (a), (b), and (d) \[amending this section, sections 55, 72, 172, 219, 402, 403, 406, 407, 408, 412, 414, 415, 457, 2039, 2517, 3121, 3306, 3401, 4972, 4973, 4975, 6047, 6058, 6104, 6652, 7207, 7476, and 7701 of this title, section 3107 of Title 31, Money and Finance, and section 409 of Title 42, The Public Health and Welfare, and repealing sections 405 and 409 of this title\] shall apply to obligations issued after December 31, 1983.”
+“Section 491(f)(1) of Pub. L. 98–369 provided that: “The amendments and repeals made by subsections (a), (b), and (d) \[amending this section, sections 55, 72, 172, 219, 402, 403, 406, 407, 408, 412, 414, 415, 457, 2039, 2517, 3121, 3306, 3401, 4972, 4973, 4975, 6047, 6058, 6104, 6652, 7207, 7476, and 7701 of this title, section 3107 of Title 31, Money and Finance, and section 409 of Title 42, The Public Healthand Welfare, and repealing sections 405 and 409 of this title\] shall apply to obligations issued after December 31, 1983.”
 
 #### Effective Date of 1983 Amendment
 

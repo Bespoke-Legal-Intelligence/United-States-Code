@@ -6,7 +6,7 @@ Upon the termination of the Panama Canal Commission, the Secretary of Labor shal
 
 #### (b) Deficiency or surplus in Fund
 
-If amounts in the Fund are not sufficient to meet expenditures as determined by the Secretary of Labor under subsection (a) of this section for workers’ compensation benefits and other payments described in section 3715a(a) of this title, then amounts in the Panama Canal Revolving Fund not otherwise obligated shall be transferred to the Fund to make up the deficiency. Any amounts remaining in the Fund in excess of the final determination amount as described in subsection (a) of this section shall be transferred to the Panama Canal RevolvingFund, and may be used to satisfy lawful obligations of the Revolving Fund arising on or before December 31, 1999.
+If amounts in the Fund are not sufficient to meet expenditures as determined by the Secretary of Labor under subsection (a) of this section for workers’ compensation benefits and other payments described in section 3715a(a) of this title, then amounts in the Panama Canal Revolving Fund not otherwise obligated shall be transferred to the Fund to make up the deficiency. Any amounts remaining in the Fund in excess of the final determination amount as described in subsection (a) of this section shall be transferred to the Panama Canal Revolving Fund, and may be used to satisfy lawful obligations of the Revolving Fund arising on or before December 31, 1999.
 
 #### (c) Continuity of Fund
 

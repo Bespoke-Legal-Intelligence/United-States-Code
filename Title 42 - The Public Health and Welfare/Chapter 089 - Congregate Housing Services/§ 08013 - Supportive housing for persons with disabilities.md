@@ -86,7 +86,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 &emsp;(4) a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of the services identified in paragraph (3) are well designed to serve the special needs of persons with disabilities;
 
-&emsp;(5) reasonable assurances that the applicant will own or have control of an acceptable sitefor the proposed housing not later than 6 months after notification of an award for assistance;
+&emsp;(5) reasonable assurances that the applicant will own or have control of an acceptable site for the proposed housing not later than 6 months after notification of an award for assistance;
 
 &emsp;(6) a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 12705 of this title that the proposed housing is consistent with the approved housing strategy; and
 
@@ -292,7 +292,7 @@ November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (m)(2), was in the 
 
 1992—Pub. L. 102–550, §623(a)(1), reenacted section catchline without change.
 
-Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading “General authority”, introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
+Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading “General authority”, introductoryprovisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
 
 Subsec. (d)(1). Pub. L. 102–550, §623(a)(3)(A), which directed the substitution of “subsection (b)(2) of this section” for “this section”, was executed by making the substitution the first place appearing in first sentence, to reflect the probable intent of Congress.
 

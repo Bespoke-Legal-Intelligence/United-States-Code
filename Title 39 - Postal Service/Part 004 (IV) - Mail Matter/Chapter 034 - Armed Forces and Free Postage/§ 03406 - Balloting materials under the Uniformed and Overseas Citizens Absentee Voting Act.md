@@ -1,0 +1,24 @@
+### §3406. Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act
+
+(a) Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act (individually or in bulk)—
+
+&emsp;(1) shall be carried expeditiously and free of postage; and
+
+&emsp;(2) may be mailed at a post office established outside the United States under section 406 of this title, unless such mailing is prohibited by treaty or other international agreement of the United States.
+
+(b) As used in this section, the term “balloting materials” has the meaning given that term in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act.
+
+(Added Pub. L. 99–410, title II, §201(a), Aug. 28, 1986, 100 Stat. 928.)
+
+#### References in Text
+
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28,1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. Section 107 of that Act is classified to section 1973ff–6 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1973ff of Title 42 and Tables.
+
+#### Effective Date
+
+Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under section 1973ff of Title 42, The Public Health and Welfare.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2401, 3627 of this title.
+

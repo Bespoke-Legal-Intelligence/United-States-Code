@@ -24,7 +24,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 &emsp;(10) to develop new and improved underground equipment and other sources of power for such equipment which will provide greater safety;
 
-&emsp;(11) to determine, upon the written request by any operator or authorized representative of miners, specifying with reasonable particularity the grounds upon which such request is made, whether any substance normally found in a coal or other mine has potentially toxic effects in the concentrations normally found in the coal or other mine or whether any physical agents or equipment found or used in a coal or other mine has potentially hazardous effects, and shall submit such determinations to both the operators and miners as soon as possible; and
+&emsp;(11) to determine, upon the written request by any operator or authorized representativeof miners, specifying with reasonable particularity the grounds upon which such request is made, whether any substance normally found in a coal or other mine has potentially toxic effects in the concentrations normally found in the coal or other mine or whether any physical agents or equipment found or used in a coal or other mine has potentially hazardous effects, and shall submit such determinations to both the operators and miners as soon as possible; and
 
 &emsp;(12) for such other purposes as they deem necessary to carry out the purposes of this chapter.
 
@@ -56,7 +56,7 @@ The Secretary of Health and Human Services is authorized to make grants to any p
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see ShortTitle note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 

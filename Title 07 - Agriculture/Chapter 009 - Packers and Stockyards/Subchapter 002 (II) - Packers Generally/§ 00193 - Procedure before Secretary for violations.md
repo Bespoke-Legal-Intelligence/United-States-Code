@@ -1,0 +1,48 @@
+### §193. Procedure before Secretary for violations
+
+#### (a) Complaint; hearing; intervention
+
+Whenever the Secretary has reason to believe that any packer has violated or is violating any provision of this subchapter, he shall cause a complaint in writing to be served upon the packer, stating his charges in that respect, and requiring the packer to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the packer a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such regulations as the Secretary may prescribe. Any person for good cause shown may on application be allowed by the Secretary to intervene in such proceeding, and appear in person or by counsel. At any time prior to the close of the hearing the Secretary may amend the complaint; but in case of any amendment adding new charges the hearing shall, on the request of the packer, be adjourned for a period not exceeding fifteen days.
+
+#### (b) Report and order; penalty
+
+If, after such hearing, the Secretary finds that the packer has violated or is violating any provisions of this subchapter covered by the charges, he shall make a report in writing in which he shall state his findings as to the facts, and shall issue and cause to be served on the packer an order requiring such packer to cease and desist from continuing such violation. The testimony taken at the hearing shall be reduced to writing and filed in the records of the Department of Agriculture. The Secretary may also assess a civil penalty of not more than $10,000 for each such violation. In determining the amount of the civil penalty to be assessed under this section, the Secretary shall consider the gravity of the offense, the size of the business involved, and the effect of the penalty on the person's ability to continue in business. If, after the lapse of the period allowed for appeal or after the affirmance of such penalty, the person against whom the civil penalty is assessed fails to pay such penalty, the Secretary may refer the matter to the Attorney General who may recover such penalty by an action in the appropriate district court of the United States.
+
+#### (c) Amendment of report or order
+
+Until the record in such hearing has been filed in a court of appeals of the United States, as provided in section 194 of this title, the Secretary at any time, upon such notice and in such manner as he deems proper, but only after reasonable opportunity to the packer to be heard, may amend or set aside the report or order, in whole or in part.
+
+#### (d) Service of process
+
+Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15.
+
+(Aug. 15, 1921, ch. 64, title II, §203, 42 Stat. 161; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1958, Pub. L. 85–791, §6(a), 72 Stat. 944; Sept. 13, 1976, Pub. L. 94–410, §3(b), 90 Stat. 1249.)
+
+#### Amendments
+
+1976—Subsec. (b). Pub. L. 94–410 inserted provisions dealing with authority of Secretary to assess a civil penalty for violations and, upon failure to pay, procedure for recovery of such penalty.
+
+1958—Subsec. (c). Pub. L. 85–791 struck out “a transcript of” after “until”.
+
+#### Change of Name
+
+Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+
+#### Transfer of Functions
+
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+
+#### Cross References
+
+Enforcement by Secretary of Agriculture under this chapter, with respect to activities subject to this chapter, of requirements imposed under section 1601 et seq. of Title 15, Commerce and Trade, see section 1607 of Title 15.
+
+Enforcement of orders by district courts, see section 2351 of Title 28, Judiciary and Judicial Procedure.
+
+Finality of orders under this section, see section 194 of this title.
+
+Punishment for violation of order, see section 195 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 194, 195, 204 of this title; title 28 section 2351.
+

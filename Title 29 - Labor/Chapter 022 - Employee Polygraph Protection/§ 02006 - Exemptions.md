@@ -16,7 +16,7 @@ This chapter shall not apply with respect to the United States Government, any S
 
 #### (2) Security
 
-&emsp;Nothing in this chapter shall be construed to prohibit the administration, by the Federal Government, in the performance of any intelligence or counterintelligence function, of any lie detector test to—
+&emsp;Nothing in this chapter shall be construed to prohibit the administration, by the FederalGovernment, in the performance of any intelligence or counterintelligence function, of any lie detector test to—
 
 &emsp;&emsp;(A)(i) any individual employed by, assigned to, or detailed to, the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or the Central Intelligence Agency,
 
@@ -104,7 +104,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### References in Text
 
-Executive Order 12356, referred to in subsec. (b)(2)(B), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which is set out as a note under section 401 of Title 50, War and National Defense.
+Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843, set out as a note under section 435 of Title 50. For provisions relating to special access programs, see section 4.4 of Ex. Ord. No. 12958.
 
 #### Amendments
 

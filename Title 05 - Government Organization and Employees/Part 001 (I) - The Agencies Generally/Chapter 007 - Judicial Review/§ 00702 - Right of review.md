@@ -20,9 +20,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1976—Pub. L. 94–574 removed the defense of sovereign immunity as a bar to judicial review of Federal administrative action otherwise subject to judicial review.
+<b>1976</b>—Pub. L. 94–574 removed the defense of sovereign immunity as a bar to judicial review of Federal administrative action otherwise subject to judicial review.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 sections 501, 502; title 7 section 2143; title 16 section 839f; title 18 sections 843, 3625; title 19 section 1677c; title 25 section 954; title 28 section 2631; title 41 section 422; title 42 section 5405; title 50 App. sections 16, 2412.
+This section is referred to in title 2 sections 501, 502; title 7 section 2143; title 16 section 839f; title 18 sections 843, 3625; title 19 section 1677c; title 25 section 954; title 28 section 2631; title 41 section 422; title 42 section 5405; title 43 section 1337; title 50 App. sections 16, 2412.
 

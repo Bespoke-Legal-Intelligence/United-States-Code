@@ -12,5 +12,5 @@ Provision of Information to Congress.—Subsection (a) does not apply with respe
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 102–496, title IV, §406, Oct. 24, 1992, 106 Stat. 3186, which was set out as a note under section 424 of this title, prior to repeal by Pub. L. 103–178, §503(b).
+Provisions similar to those in this section were contained in Pub. L. 102–496, title IV, §406, Oct. 24, 1992, 106 Stat. 3186, which was set out as a note under section 424 of this title, prior to repeal by Pub. L. 103–178, §503(b).
 

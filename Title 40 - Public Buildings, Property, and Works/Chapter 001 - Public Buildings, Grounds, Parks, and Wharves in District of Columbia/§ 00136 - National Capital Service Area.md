@@ -136,11 +136,11 @@ The National Capital Service Director shall be entitled to receive compensation 
 
 &emsp;(A) be deemed to include, but not limited to, Fort Lesley McNair, the Washington Navy Yard, the Anacostia Naval Annex, the United States Naval Station, Bolling Air Force Base, and the Naval Research Laboratory; and
 
-&emsp;(B) not be construed to include any area situated outside of the District of Columbia boundary as it existed immediately prior to the date of the enactment of this Act, nor be construed to include any portion of the Anacostia Park situated east of the northern side of the Eleventh Street Bridge, or any portion of the Rock Creek Park.
+&emsp;(B) not be construed to include any area situated outside of the District of Columbia boundary as it existed immediately prior to the date of the enactment of this Act, nor beconstrued to include any portion of the Anacostia Park situated east of the northern side of the Eleventh Street Bridge, or any portion of the Rock Creek Park.
 
 #### (g) Presidential survey; map and description
 
-(1) Subject to the provisions of paragraph (2) of this subsection, the President is authorized and directed to conduct a survey of the area described in this section in order to establish theproper metes and bounds of such area, and to file, in such manner and at such place as he may designate, a map and a legal description of such area, and such description and map shall have the same force and effect as if included in this Act, except that corrections of clerical, typographical and other errors in any such legal descriptions and map may be made. In conducting such survey, the President shall make such adjustments as may be necessary in order to exclude from the National Capital Service Area any privately owned properties, and buildings and adjacent parking facilities owned by the District of Columbia government.
+(1) Subject to the provisions of paragraph (2) of this subsection, the President is authorized and directed to conduct a survey of the area described in this section in order to establish the proper metes and bounds of such area, and to file, in such manner and at such place as he may designate, a map and a legal description of such area, and such description and map shall have the same force and effect as if included in this Act, except that corrections of clerical, typographical and other errors in any such legal descriptions and map may be made. In conducting such survey, the President shall make such adjustments as may be necessary in order to exclude from the National Capital Service Area any privately owned properties, and buildings and adjacent parking facilities owned by the District of Columbia government.
 
 (2) In carrying out the provisions of paragraph (1) of this subsection, the President shall, to the extent that such survey, legal description, and map involves areas comprising the United States Capitol Buildings and Grounds as defined in sections 193a and 193m of this title, and other buildings and grounds under the care of the Architect of the Capitol, consult with the Architect of the Capitol.
 
@@ -168,7 +168,7 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 This Act, referred to in subsecs. (g)(1) and (h)(2), means the District of Columbia Self-Government and Governmental Reorganization Act, Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, which is classified principally to the District of Columbia Code. See chapter 2 (§1–201 et seq.) of Title 1, Administration, of the District of Columbia Code. For classification of this Act to the U.S. Code, see Tables.
 
-The amendments made by this section, referred to in subsecs. (h)(1) and (i), means the amendments made by section 739(d) and (g)(3) to (9) of Pub. L. 93–198, which amended sections 13n, 193a, 212a, and 212b of this title and section 167h of Title 2, The Congress, and enacted provision set out as a note under section 193a of this title.
+The amendments made by this section, referred to in subsecs. (h)(1) and (i), means the amendments made bysection 739(d) and (g)(3) to (9) of Pub. L. 93–198, which amended sections 13n, 193a, 212a, and 212b of this title and section 167h of Title 2, The Congress, and enacted provision set out as a note under section 193a of this title.
 
 #### Codification
 

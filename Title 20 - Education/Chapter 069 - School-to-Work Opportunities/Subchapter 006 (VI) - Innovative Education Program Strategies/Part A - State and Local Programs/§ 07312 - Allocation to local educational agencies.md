@@ -50,7 +50,7 @@ From the sums made available each year to carry out this subchapter, the State e
 
 &emsp;(C) The provisions of subparagraphs (A) and (B) may not be construed to require any school to limit the use of such additional funds to the provision of services to specific students or categories of students.
 
-(Pub. L. 89 10, title VI, §6102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3708.)
+(Pub. L. 89–10, title VI, §6102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3708.)
 
 #### Section Referred to in Other Sections
 

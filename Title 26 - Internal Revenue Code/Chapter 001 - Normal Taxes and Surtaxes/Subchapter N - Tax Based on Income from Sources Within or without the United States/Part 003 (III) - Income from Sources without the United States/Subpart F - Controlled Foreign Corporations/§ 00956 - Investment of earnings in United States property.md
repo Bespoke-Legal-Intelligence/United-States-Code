@@ -72,7 +72,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b); and
 
-&emsp;&emsp;(I) to the extent provided in regulations prescribed by the Secretary, property whichis otherwise United States property which is held by a FSC and which is related to the export activities of such FSC.
+&emsp;&emsp;(I) to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC.
 
 #### (3) Certain trade or service receivables acquired from related United States persons
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 Amendment by section 123(b) of Pub. L. 98–369 applicable to accounts receivable and evidences of indebtedness transferred after Mar. 1, 1984, in taxable years ending after such date, with an exception, see section 123(c) of Pub. L. 98–369, set out as a note under section 864 of this title.
 
-Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, set out as an Effective Date note under section 921 of this title.
+Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxableyears ending after such date, see section 805(a)(1) of Pub. L. 98–369, set out as an Effective Date note under section 921 of this title.
 
 #### Effective Date of 1976 Amendment
 

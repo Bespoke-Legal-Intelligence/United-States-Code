@@ -34,5 +34,5 @@ Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the
 
 #### Recommended Legislation
 
-Section 5001(c) of Pub. L. 103–355 provided that: “Not later than one year after the date of the enactment of this Act \[Oct 13, 1994\], the Secretary of Defense shall submit to Congress any recommended legislation that the Secretary considers necessary to carry out section 2220 of title 10, United States Code, as added by subsection (a), and otherwise to facilitate and enhancemanagement of Department of Defense acquisition programs on the basis of performance.”
+Section 5001(c) of Pub. L. 103–355 provided that: “Not later than one year after the date of the enactment of this Act \[Oct 13, 1994\], the Secretary of Defense shall submit to Congress any recommended legislation that the Secretary considers necessary to carry out section 2220 of title 10, United States Code, as added by subsection (a), and otherwise to facilitate and enhance management of Department of Defense acquisition programs on the basis of performance.”
 

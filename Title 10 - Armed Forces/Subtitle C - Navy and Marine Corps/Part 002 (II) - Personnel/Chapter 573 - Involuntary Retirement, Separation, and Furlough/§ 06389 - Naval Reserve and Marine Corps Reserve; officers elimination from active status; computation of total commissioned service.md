@@ -29,7 +29,7 @@
 
 > An officer who has been recommended for promotion, and who would otherwise be removed from an active status under this section, shall be retained in that status until he is appointed or refused appointment to the next higher grade.
 
-(2) Each officer of the Naval Reserve in an active status in the permanent grade of rear admiral and each officer of the Marine Corps Reserve in an active status in the permanent grade ofmajor general shall, 30 days after he completes 35 years of service computed under subsection (d), or on the fifth anniversary of the date of his appointment to that grade, whichever is later—
+(2) Each officer of the Naval Reserve in an active status in the permanent grade of rear admiral and each officer of the Marine Corps Reserve in an active status in the permanent grade of major general shall, 30 days after he completes 35 years of service computed under subsection (d), or on the fifth anniversary of the date of his appointment to that grade, whichever is later—
 
 &emsp;(A) be transferred to the Retired Reserve, if he is qualified and applies therefor, or
 
@@ -143,7 +143,7 @@ Section 1332 of this title, referred to in subsec. (c), was renumbered section 1
 
 1980—Subsec. (b). Pub. L. 96–513, §337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regularofficer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
+Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
 
 Subsec. (e). Pub. L. 96–513, §337(a)(3), substituted “does not apply to” for “applies to women officers appointed under section 5581 of this title, but not to other”.
 

@@ -20,5 +20,5 @@ Subsec. (b). Pub. L. 99–159, §111(b)(7)(B), substituted “engineering” for
 
 Committee on Equal Opportunities in Science and Technology, referred to in subsec. (b), changed to Committee on Equal Opportunities in Science and Engineering. See section 1885d of this title as amended by Pub. L. 99–159.
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

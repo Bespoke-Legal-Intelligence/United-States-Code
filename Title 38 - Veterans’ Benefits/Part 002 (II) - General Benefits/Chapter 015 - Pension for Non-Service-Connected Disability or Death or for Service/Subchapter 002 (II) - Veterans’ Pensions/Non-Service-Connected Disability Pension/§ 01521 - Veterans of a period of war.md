@@ -4,7 +4,7 @@
 
 (b) If the veteran is unmarried (or married but not living with or reasonably contributing to the support of such veteran's spouse) and there is no child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, and unless the veteran is entitled to pension at the rate provided by subsection (d)(1) or (e) of this section, pension shall be paid to the veteran at the annual rate of $3,550, reduced by the amount of the veteran's annual income.
 
-(c) If the veteran is married and living with or reasonably contributing to the support of such veteran's spouse, or if there is a child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, pension shall be paid to the veteran at the annual rate of $4,651, unless the veteran is entitled to pension at the rate provided by subsection (d)(2), (e), or (f) of this section. If the veteranhas two or more such family members, such annual rate shall be increased by $600 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the amount of annual income of such family members.
+(c) If the veteran is married and living with or reasonably contributing to the support of such veteran's spouse, or if there is a child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, pension shall be paid to the veteran at the annual rate of $4,651, unless the veteran is entitled to pension at the rate provided by subsection (d)(2), (e), or (f) of this section. If the veteran has two or more such family members, such annual rate shall be increased by $600 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the amount of annual income of such family members.
 
 (d)(1) If the veteran is in need of regular aid and attendance, the annual rate of pension payable to the veteran under subsection (b) of this section shall be $5,680, reduced by the amount of the veteran's annual income.
 
@@ -20,7 +20,7 @@
 
 (4) If one such veteran is in need of regular aid and attendance and the other would be entitled (if not married to a veteran) to the rate provided for under subsection (e) of this section, the annual rate provided by paragraph (1) of this subsection shall be $7,571.
 
-(5) The annual rate provided by paragraph (1), (2), (3), or (4) of this subsection, as appropriate, shall (A) be increased by $600 for each child of such veterans (or of either such veteran) who is in the custody of either or both such veterans or to whose support either such veteran is, or both such veterans are, reasonably contributing, and (B) be reduced by the amount of the annual income of both such veterans and, subject to subsection (h)(1) of this section, the annual income of each such child.
+(5) The annual rate provided by paragraph (1), (2), (3), or (4) of this subsection, as appropriate, shall (A) be increased by $600 for each child ofsuch veterans (or of either such veteran) who is in the custody of either or both such veterans or to whose support either such veteran is, or both such veterans are, reasonably contributing, and (B) be reduced by the amount of the annual income of both such veterans and, subject to subsection (h)(1) of this section, the annual income of each such child.
 
 (g) The annual rate of pension payable under subsection (b), (c), (d), (e), or (f) of this section to any veteran who is a veteran of a period of war shall be increased by $800 if veterans of such period of war were not provided educational benefits or home loan benefits similar to those provided to veterans of later periods of war under chapters 34 and 37, respectively, of this title or under prior corresponding provisions of law.
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 94–169, §102(3), substituted, effective for period begin
 
 Subsec. (g). Pub. L. 94–169, §106(18), substituted “such veteran” for “he”.
 
-1974—Subsec. (b). Pub. L. 93–527, §2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for“$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
+1974—Subsec. (b). Pub. L. 93–527, §2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
 
 Subsec. (c). Pub. L. 93–527, §2(2), substituted “$172” for “$154”, “$177” for “$159”, “$182” for “$164”, “$700” for “$800” wherever appearing, “$1800” for “$2600” wherever appearing, “$3000” for “$3200” wherever appearing, “$3500” for “$3700” wherever appearing, and inserted provisions for the reduction by 7 cents for each dollar of annual income in excess of $3800 up to and including $4000, and reduction by 8 cents for each dollar of annual income in excess of $4000 up to and including $4200, and raised maximum income from $3800 to $4200.
 
@@ -162,7 +162,7 @@ Subsec. (g). Pub. L. 90–77, §202(b), inserted references to Vietnam era in pa
 
 1964—Subsec. (b). Pub. L. 88–664, §3(a), increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
 
-Subsec. (c). Pub. L. 88–664, §3(b), increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110,$80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
+Subsec. (c). Pub. L. 88–664, §3(b), increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110, $80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
 
 Subsec. (d). Pub. L. 88–664, §5, increased additional monthly rate of veterans in need of aid and attendance from $70 to $100.
 
@@ -220,7 +220,7 @@ Section 10 of Pub. L. 91–588 provided that:
 
 “(b) Sections 2(d) and 6 \[amending sections 415 and 506 \[now 1315 and 1506\] of this title\] shall take effect on January 1, 1972.”
 
-\[In view of the similarity of subject matter covered by amendments made by sections 2(d) and 6 of Pub. L. 91–588, the effective date for the amendment made by section 6 was probably intended by Congress to be Jan. 1, 1972, as called for in subsec. (b) of section 10 of Pub. L. 91–588, rather than Jan. 1, 1971, as called for in subsec. (a) of that section.\]
+\[In view of the similarity of subject matter covered by amendments made by sections 2(d) and 6 of Pub. L. 91–588, the effective date for the amendment made by section 6 was probably intended by Congress to be Jan. 1, 1972, as called for in subsec. (b) of section 10 of Pub.L. 91–588, rather than Jan. 1, 1971, as called for in subsec. (a) of that section.\]
 
 #### Effective Date of 1968 Amendment
 
@@ -256,7 +256,7 @@ Section 306 of Pub. L. 95–588, as amended by Pub. L. 102–40, title IV, §402
 
 “(2) Any person eligible to make an election under paragraph (1) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 1521, 1541, or 1542 \[formerly 521, 541, or 542\], as appropriate, of title 38, United States Code, as in effect on December 31, 1978, except that—
 
-&emsp;“(A) pension may not be paid to such person if such person's annual income (determined in accordance with section 1503 \[formerly 503\] of title 38, United States Code, as in effect on December 31, 1978) exceeds$4,038, in the case of a veteran or surviving spouse without dependents, $5,430, in the case of a veteran or surviving spouse with one or more dependents, or $3,299, in the case of a child; and
+&emsp;“(A) pension may not be paid to such person if such person's annual income (determined in accordance with section 1503 \[formerly 503\] of title 38, United States Code, as in effect on December 31, 1978) exceeds $4,038, in the case of a veteran or surviving spouse without dependents, $5,430, in the case of a veteran or surviving spouse with one or more dependents, or $3,299, in the case of a child; and
 
 &emsp;“(B) the amount prescribed in subsection (f)(1) of section 1521 \[formerly 521\] of such title (as in effect on December 31, 1978) shall be $1,285;
 
@@ -300,7 +300,7 @@ Section 9 of Pub. L. 86–211, which provided (1) that any claim for pension whi
 
 #### Report to Congressional Committees; Medical Examinations of Certain Pension Recipients
 
-Pub. L. 98–543, title III, §302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabledby reason of being 65 years of age or older or becoming unemployable after age 65.
+Pub. L. 98–543, title III, §302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
 
 #### Study of Pension Benefits Paid to Persons Residing Outside United States; Transmittal of Report and Recommendations to President and Congress
 
@@ -324,17 +324,17 @@ Section 3 of Pub. L. 90–275 provided that:
 
 #### Income Restrictions on Pensions; Effective Dates
 
-Section 4 of Pub. L. 90–275, as amended by Pub. L. 91–588, §5; Pub. L. 92–198, §4; Pub. L. 93–527, §6; Pub. L. 94–169, §107; Pub. L. 94–432, §206; Pub. L. 95–204, §105, provided that: “The income limitations governing payment of pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provisions note above\] hereafter shall be $3,300 and $4,760 instead of $3,100 and $4,460, respectively.”
+Section 4 of Pub. L. 90–275, as amended by Pub. L. 91–588, §5; Pub. L. 92–198, §4; Pub. L. 93–527, §6; Pub. L. 94–169, §107; Pub. L. 94–432, §206; Pub. L. 95–204, §105, provided that: “The income limitations governing payment of pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] hereafter shall be $3,300 and $4,760 instead of $3,100 and $4,460, respectively.”
 
 Section 4 of Pub. L. 90–275, as originally enacted, was eff. Jan. 1, 1969, pursuant to Pub. L. 90–275, §6(a). Subsequent amendments to said section 4 by Pub. L. 91–588, Pub. L. 92–198, and Pub. L. 94–169 were effective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. Pub. L. 94–432, §§101, 405(b) amended said section 4 of Pub. L. 90–275 and section 107 of Pub. L. 94–169 to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. Pub. L. 95–204, §302 amended said section 4 of Pub. L. 90–275 to be effective Jan. 1, 1978.
 
 #### Aid and Attendance Allowance for Widows of Veterans of All Periods of War
 
-Pub. L. 90–77, title I, §108(c), Aug. 31, 1967, 81 Stat. 180, provided that: “If any widow is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provisions note above\] and is in need of regular aid and attendance, the monthly rate of pension payable to her shall be increased by $50.”
+Pub. L. 90–77, title I, §108(c), Aug. 31, 1967, 81 Stat. 180, provided that: “If any widow is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] and is in need of regular aid and attendance, the monthly rate of pension payable to her shall be increased by $50.”
 
 #### Pension for Housebound Veterans
 
-Pub. L. 90–77, title I, §110, Aug. 31, 1967, 81 Stat. 180, provided that: “The Administrator of Veterans’ Affairs shall pay to a veteran who is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provisions note above\] and who—
+Pub. L. 90–77, title I, §110, Aug. 31, 1967, 81 Stat. 180, provided that: “The Administrator of Veterans’ Affairs shall pay to a veteran who is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] and who—
 
 &emsp;“(1) has, in addition to a disability rated as permanent and total, additional disability or disabilities independently ratable at 60 per centum or more, or
 
@@ -344,7 +344,7 @@ Pub. L. 90–77, title I, §110, Aug. 31, 1967, 81 Stat. 180, provided that: “
 
 #### Retirement Income Exclusion
 
-Section 10 of Pub. L. 88–664 provided that: “In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provisions note above\] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs.”
+Section 10 of Pub. L. 88–664 provided that: “In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs.”
 
 #### Cross References
 

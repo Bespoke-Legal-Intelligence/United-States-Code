@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Applicable exclusion
 
-&emsp;The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
+&emsp;The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1)under which benefits under such plan are excludable from gross income.
 
 #### (3) Special rule for multiemployer plans
 

@@ -1,4 +1,4 @@
-### §271f . Omitted
+### §271f. Omitted
 
 #### Codification
 

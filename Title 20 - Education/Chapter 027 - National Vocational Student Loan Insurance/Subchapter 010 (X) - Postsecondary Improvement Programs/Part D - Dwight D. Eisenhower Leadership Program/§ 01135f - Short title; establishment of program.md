@@ -38,17 +38,17 @@ The Secretary is authorized to make grants to or enter into cooperative agreemen
 
 There are authorized to be appropriated $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this part.
 
-(Pub. L. 89 329, title X, §1081, formerly §1181, as added Pub. L. 102 325, title X, §1004, July 23, 1992, 106 Stat. 783; renumbered §1081 and amended Pub. L. 103 208, §2(j)(44), (45), Dec. 20, 1993, 107 Stat. 2485.)
+(Pub. L. 89–329, title X, §1081, formerly §1181, as added Pub. L. 102–325, title X, §1004, July 23, 1992, 106 Stat. 783; renumbered §1081 and amended Pub. L. 103–208, §2(j)(44), (45), Dec. 20, 1993, 107 Stat. 2485.)
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103 208, §2(j)(45), inserted a comma after “this title)” and after “such institutions”.
+1993—Subsec. (d). Pub. L. 103–208, §2(j)(45), inserted a comma after “this title)” and after “such institutions”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 

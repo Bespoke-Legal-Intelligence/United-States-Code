@@ -6,11 +6,11 @@ The Indian Health Service shall neither bill nor charge those Indians who may ha
 
 #### Codification
 
-Section was enacted as part of the appropriations act cited as the credit to this section, and not as part ofthe Indian Health Care Improvement Act which comprises this chapter.
+Section was enacted as part of the appropriations act cited as the credit to this section, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1409.
 

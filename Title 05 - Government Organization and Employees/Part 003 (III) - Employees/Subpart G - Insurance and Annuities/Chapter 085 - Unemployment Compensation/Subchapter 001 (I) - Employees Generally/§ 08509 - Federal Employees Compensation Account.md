@@ -26,7 +26,7 @@
 
 &emsp;(3) to meet the expenditures described in paragraph (1), and
 
-&emsp;(4) to provide a reasonable contingency fund so as to assure that there will, during alltimes in such year, be sufficient sums available in the Account to meet the expenditures described in paragraph (1),
+&emsp;(4) to provide a reasonable contingency fund so as to assure that there will, during all times in such year, be sufficient sums available in the Account to meet the expenditures described in paragraph (1),
 
 > he shall certify the amount of such excess to the Secretary of the Treasury and the Secretary of the Treasury shall transfer, from the Account to the general fund of the Treasury, an amount equal to such excess.
 
@@ -36,7 +36,7 @@
 
 (h) For purposes of this section, the term “Federal service” includes Federal service as defined in section 8521(a).
 
-(Added Pub. L. 96–499, title X, §1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, §202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–318, title V, §532(a), July 3, 1992, 106 Stat. 317.)
+(Added Pub. L. 96–499, title X, §1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, §202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L.102–318, title V, §532(a), July 3, 1992, 106 Stat. 317.)
 
 #### References in Text
 
@@ -44,9 +44,9 @@ Sections 909 and 904 of the Social Security Act, referred to in subsec. (a), are
 
 #### Amendments
 
-1992—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
 
-1982—Subsecs. (b), (c)(1). Pub. L. 97–362, §202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
+<b>1982</b>—Subsecs. (b), (c)(1). Pub. L. 97–362, §202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
 
 Subsec. (h). Pub. L. 97–362, §202(a)(2), added subsec. (h).
 

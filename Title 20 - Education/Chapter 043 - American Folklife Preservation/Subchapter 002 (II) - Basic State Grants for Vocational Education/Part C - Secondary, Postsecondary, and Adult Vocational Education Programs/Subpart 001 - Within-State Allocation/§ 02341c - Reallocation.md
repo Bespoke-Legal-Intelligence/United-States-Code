@@ -6,7 +6,7 @@ In any academic year that a local educational agency or eligible institution doe
 
 #### (b) Reallocation of amounts returned late in academic year
 
-In any academic year in which amounts are returned to the State under sections<sup>1</sup> 2341 or 2341a of this title and the State is unable to reallocate such amounts according to such sections in time for such amounts to be expended in such academic year, the State shall retain such amounts to be distributed in combination with amounts provided under this subchapter for the following academic year.
+In any academic year in which amounts are returned to the State under sections <sup>1</sup> 2341 or 2341a of this title and the State is unable to reallocate such amounts according to such sections in time for such amounts to be expended in such academic year, the State shall retain such amounts to be distributed in combination with amounts provided under this subchapter for the following academic year.
 
-(Pub. L. 88 210, title II, §234, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 783.)
+(Pub. L. 88–210, title II, §234, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783.)
 

@@ -26,7 +26,7 @@ As part of its report submitted pursuant to this section, the Administrator shal
 
 Upon request of the Administrator, each Federal department and agency shall furnish to the Administrator such information, data, estimates, and statistics, and allow the Administrator access to all information in its possession, as the Administrator may reasonably determine to be necessary for the conduct of the study required by this section.
 
-(Pub. L. 93 498, §26, as added Pub. L. 96 121, §4, Nov. 16, 1979, 93 Stat. 864.)
+(Pub. L. 93–498, §26, as added Pub. L. 96–121, §4, Nov. 16, 1979, 93 Stat. 864.)
 
 #### Section Referred to in Other Sections
 

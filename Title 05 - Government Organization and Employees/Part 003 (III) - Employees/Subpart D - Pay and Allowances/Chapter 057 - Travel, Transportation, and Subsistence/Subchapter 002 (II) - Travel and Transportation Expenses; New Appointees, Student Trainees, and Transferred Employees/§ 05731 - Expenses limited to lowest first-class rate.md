@@ -6,7 +6,7 @@
 
 &emsp;(2) use of a compartment or other accommodation authorized or approved by the head of the agency concerned or his designee is required for security purposes.
 
-(b) Instead of the maximum fixed by subsection (a) of this section, the allowance to an employee of the United States for actual expenses for transportation on an inter-island steamship in Hawaii may not exceed the rate for accommodations on the steamship that is equivalent as nearly as possible to the rate for the lowest first-class accommodations on trans-pacific steamships.
+(b) Instead of the maximum fixed by subsection (a) of this section, the allowance to anemployee of the United States for actual expenses for transportation on an inter-island steamship in Hawaii may not exceed the rate for accommodations on the steamship that is equivalent as nearly as possible to the rate for the lowest first-class accommodations on trans-pacific steamships.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506.)
 
@@ -46,5 +46,5 @@ Authority of President under subsec. (a) of this section to prescribe regulation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 476; title 16 sections 916<i>l</i>, 961, 971a, 971b, 2443, 3608, 3641; title 22 sections 287e, 287r, 2024; title 42 sections 2477, 4277; title 50 section 403e.
+This section is referred to in title 2 section 476; title 16 sections 916<i>l</i>, 961, 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 sections 287e, 287r, 2024; title 42 sections 2477, 4277; title 50 section 403e.
 

@@ -52,7 +52,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380, which is classified tosection 753 of Title 40, Public Buildings, Property, and Works.
+Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380, which is classified to section 753 of Title 40, Public Buildings, Property, and Works.
 
 #### Construction With Section 701–1 of Title 33
 

@@ -4,7 +4,7 @@
 
 The President may lease defense articles in the stocks of the Department of Defense to an eligible foreign country or international organization if—
 
-&emsp;(1) he determines that there are compelling foreign policy and national security reasonsfor providing such articles on a lease basis rather than on a sales basis under this chapter;
+&emsp;(1) he determines that there are compelling foreign policy and national security reasons for providing such articles on a lease basis rather than on a sales basis under this chapter;
 
 &emsp;(2) he determines that the articles are not for the time needed for public use;
 
@@ -66,7 +66,7 @@ Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Delegation of Functions
 

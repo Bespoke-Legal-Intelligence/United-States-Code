@@ -1,4 +1,4 @@
-### §4340 . Quartermaster
+### §4340. Quartermaster
 
 The Secretary of the Army shall detail a commissioned officer of the Army as quartermaster for the Corps of Cadets. The quartermaster shall—
 

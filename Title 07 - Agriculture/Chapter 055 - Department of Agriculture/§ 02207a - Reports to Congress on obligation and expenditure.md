@@ -1,0 +1,16 @@
+### §2207a. Reports to Congress on obligation and expenditure
+
+(a)(1) Not later than 20 days after the end of each fiscal year, the Secretary of Agriculture shall (A) submit to Congress a report on the amounts obligated and expended by the Department during that fiscal year for the procurement of advisory and assistance services, and (B) transmit a copy of such report to the Comptroller General of the United States.
+
+(2) Each report submitted under paragraph (1) shall include a list with the following information:
+
+&emsp;(A) All contracts awarded for the procurement of advisory and assistance services during the fiscal year and the amount of each contract.
+
+&emsp;(B) The purpose of each contract.
+
+&emsp;(C) The justification for the award of each contract and the reason the work cannot be performed by civil servants.
+
+(b) The Comptroller General of the United States shall review the reports submitted under subsection (a) of this section and transmit to Congress any comments and recommendations the Comptroller General considers appropriate regarding the matter contained in such reports.
+
+(Pub. L. 101–161, title VI, §641, Nov. 21, 1989, 103 Stat. 986.)
+

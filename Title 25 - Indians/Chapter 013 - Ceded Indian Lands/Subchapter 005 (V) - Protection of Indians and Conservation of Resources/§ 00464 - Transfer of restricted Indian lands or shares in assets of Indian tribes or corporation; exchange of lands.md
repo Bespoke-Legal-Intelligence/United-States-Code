@@ -24,5 +24,5 @@ Territories, colonies, or insular possessions of United States, and certain Indi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 473 of this title.
+This section is referred to in section 473 of this title.
 

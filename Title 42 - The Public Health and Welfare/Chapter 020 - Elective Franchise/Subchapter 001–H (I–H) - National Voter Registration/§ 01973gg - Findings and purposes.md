@@ -42,5 +42,5 @@ Section 13 of Pub. L. 103–31 provided that: “This Act \[see Short Title note
 
 #### Short Title
 
-Section 1 of Pub. L. 103–31 provided that: “This Act \[enacting this subchapter and section 3629 of Title 39, Postal Service, and amending sections 2401 and 3627 of Title 39\] may be cited as the ‘National Voter Registration Act of 1993’.”
+Section 1 of Pub. L. 103–31 provided that: “This Act \[enacting this subchapter and section 3629 of Title 39,Postal Service, and amending sections 2401 and 3627 of Title 39\] may be cited as the ‘National Voter Registration Act of 1993’.”
 

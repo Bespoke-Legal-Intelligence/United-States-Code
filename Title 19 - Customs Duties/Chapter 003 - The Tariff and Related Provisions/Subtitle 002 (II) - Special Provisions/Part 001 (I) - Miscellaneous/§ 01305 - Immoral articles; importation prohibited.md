@@ -1,4 +1,4 @@
-### §1305 . Immoral articles; importation prohibited
+### §1305. Immoral articles; importation prohibited
 
 #### (a) Prohibition of importation
 
@@ -48,7 +48,7 @@ Upon motion of the United States, a court, for good cause shown, shall stay civi
 
 #### Prior Provisions
 
-Provisions in substantially the same language as those of this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions in substantially the same language as those in this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -114,7 +114,7 @@ In addition, I direct that you promptly assess initiatives by which the Departme
 
 You are hereby authorized and directed to publish this memorandum in the Federal Register.
 
-William J. Clinton.&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

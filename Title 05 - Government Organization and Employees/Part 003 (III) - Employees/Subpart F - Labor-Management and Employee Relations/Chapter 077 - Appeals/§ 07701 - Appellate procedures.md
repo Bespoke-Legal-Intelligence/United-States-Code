@@ -114,27 +114,27 @@ The civil service law, referred to in subsecs. (d) and (e)(2), is set out in thi
 
 #### Amendments
 
-1992—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
+<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
 
-1991—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
 
-1990—Subsec. (c)(1)(A). Pub. L. 101–280 amended Pub. L. 101–194, see 1989 Amendment note below.
+<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–280 amended Pub. L. 101–194, see 1989 Amendment note below.
 
 Subsecs. (j), (k). Pub. L. 101–376 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1989—Subsec. (b). Pub. L. 101–12 designated existing provisions as par. (1) and added par. (2).
+<b>1989</b>—Subsec. (b). Pub. L. 101–12 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(1)(A). Pub. L. 101–194, as amended by Pub. L. 101–280, which directed the substitution of “or a removal from the Senior Executive Service for failure to be recertified under section 3393a of” for “of”, was executed by making the substitution for the second reference to “of” as the probable intent of Congress.
 
-1986—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
+<b>1986</b>—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
 
-1979—Subsec. (e)(1). Pub. L. 96–54, §2(a)(45)(A), substituted “administrative” for “administration”.
+<b>1979</b>—Subsec. (e)(1). Pub. L. 96–54, §2(a)(45)(A), substituted “administrative” for “administration”.
 
 Subsec. (g)(1). Pub. L. 96–54, §2(a)(45)(B), substituted “(as the case may be)” for “, as the case may be,”.
 
 Subsec. (h). Pub. L. 96–54, §2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
-1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
+<b>1978</b>—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
 
 #### Effective Date of 1990 Amendment
 
@@ -164,5 +164,5 @@ Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 2105, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 20 section 241; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
+This section is referred to in sections 1212, 2105, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
 

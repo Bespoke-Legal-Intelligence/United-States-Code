@@ -20,7 +20,7 @@ The State shall require each application to include—
 
 &emsp;&emsp;(C) assurances that—
 
-&emsp;&emsp;&emsp;(i) except as provided in subsection (c) of this section, a minimum of 25 percent ofthe funds for each project will be supplied by business concerns within the community;
+&emsp;&emsp;&emsp;(i) except as provided in subsection (c) of this section, a minimum of 25 percent of the funds for each project will be supplied by business concerns within the community;
 
 &emsp;&emsp;&emsp;(ii) no stipend shall be paid directly to employees of a profitmaking business concern;
 
@@ -42,15 +42,15 @@ The State may waive or reduce the amount of matching funds required under subsec
 
 A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a) of this section.
 
-(Pub. L. 98 377, title III, §325, as added Pub. L. 100 418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1481.)
+(Pub. L. 98–377, title III, §325, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1481.)
 
 #### References in Text
 
-Section 210, referred to in subsec. (a), is section 210 of Pub. L. 98 377, title II, Aug. 11, 1984, 98 Stat. 1280, as amended, which was classified to section 3970 of this title prior to repeal by Pub. L. 100 297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 210, referred to in subsec. (a), is section 210 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1280, as amended, which was classified to section 3970 of this title prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3996, 3998 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ The Congress so declares because it finds—
 
 #### (b) Congressional objectives and declaration for collation of components to increase world food production
 
-Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, various components must be brought together in order to increase world food production, including—
+Accordingly, the Congress declares that, in order to prevent famine and establish freedomfrom hunger, various components must be brought together in order to increase world food production, including—
 
 &emsp;(1) strengthening the capabilities of universities to assist in increasing agricultural production in developing countries;
 
@@ -136,5 +136,5 @@ Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, provided that:
 
 &emsp;“(1) in making assessments which would affect or relate to the level of domestic production, the Executive Branch should include in the estimates of overall utilization the expected demands for humanitarian food assistance through such programs as are carried out under the Agricultural Trade Development and Assistance Act of 1954 (Public Law 480) \[section 1691 et seq. of Title 7, Agriculture\]; and
 
-&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Agricultural Trade Development and Assistance Act of 1954 (Public Law 480) \[section 1731 of title 7\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines thatsome part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
+&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Agricultural Trade Development and Assistance Act of 1954 (Public Law 480) \[section 1731 of title 7\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
 

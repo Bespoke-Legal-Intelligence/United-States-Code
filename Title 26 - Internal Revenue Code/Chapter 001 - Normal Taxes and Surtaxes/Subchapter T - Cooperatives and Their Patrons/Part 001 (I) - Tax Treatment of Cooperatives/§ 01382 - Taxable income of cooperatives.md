@@ -56,11 +56,11 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;(B) with respect to the pool, the organization has entered into an agreement with the United States or any of its agencies which includes provisions to the effect that—
 
-&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organization with the products comprising the pool serving as collateral for such loan,
+&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organizationwith the products comprising the pool serving as collateral for such loan,
 
 &emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to make price support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
 
-&emsp;&emsp;&emsp;(iii) an amount equal to the net proceeds (as determined under such agreement) from the sale or exchange of the products in the pool shall be used to repay such loanuntil such loan is repaid in full (or all the products in the pool are disposed of), and
+&emsp;&emsp;&emsp;(iii) an amount equal to the net proceeds (as determined under such agreement) from the sale or exchange of the products in the pool shall be used to repay such loan until such loan is repaid in full (or all the products in the pool are disposed of), and
 
 &emsp;&emsp;&emsp;(iv) the net gains (as determined under such agreement) from the sale or exchange of such products shall be distributed to eligible producers, except to the extent that the United States or such agency permits otherwise.
 

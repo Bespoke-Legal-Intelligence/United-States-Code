@@ -12,9 +12,9 @@ Except as provided in subsection (a) of this section, no action by the Secretary
 
 If the Secretary denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
 
-(Pub. L. 97 290, title III, §305, Oct. 8, 1982, 96 Stat. 1243.)
+(Pub. L. 97–290, title III, §305, Oct. 8, 1982, 96 Stat. 1243.)
 
 #### Effective Date
 
-Section effective Oct. 8, 1982, see section 312 of Pub. L. 97 290, set out as a note under section 4011 of this title.
+Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 

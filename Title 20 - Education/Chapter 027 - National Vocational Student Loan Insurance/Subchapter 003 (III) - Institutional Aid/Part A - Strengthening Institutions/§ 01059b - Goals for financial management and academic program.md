@@ -8,9 +8,9 @@ Any application for a grant under this part shall describe measurable goals for 
 
 Any continuation application shall demonstrate the progress made toward achievement of the goals described pursuant to subsection (a) of this section.
 
-(Pub. L. 89 329, title III, §315, as added Pub. L. 102 325, title III, §302(d)(1), July 23, 1992, 106 Stat. 472.)
+(Pub. L. 89–329, title III, §315, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 472.)
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 

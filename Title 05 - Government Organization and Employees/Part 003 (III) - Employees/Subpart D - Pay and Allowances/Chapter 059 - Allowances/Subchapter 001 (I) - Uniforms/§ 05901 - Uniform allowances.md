@@ -74,9 +74,9 @@ The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the 
 
 #### Amendments
 
-1992—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
+<b>1992</b>—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
 
 Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substituted “$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).” for “$125 a year”.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Availability of Appropriations for Uniforms and Uniform Allowances
 
-Pub. L. 102–394, title V, §504, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for uniforms or allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
+Pub. L. 102–394, title V, §504, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related AgenciesAppropriations Acts, available for salaries and expenses, shall be available for uniforms or allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
 
 Similar provisions were contained in the following prior appropriation acts:
 

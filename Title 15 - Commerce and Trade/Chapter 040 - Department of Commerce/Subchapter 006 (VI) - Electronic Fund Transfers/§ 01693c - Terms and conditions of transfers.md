@@ -4,9 +4,9 @@
 
 The terms and conditions of electronic fund transfers involving a consumer's account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Board. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
 
-&emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financialinstitution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
+&emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financial institution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 
-&emsp;(2) the telephone number and address of the person or office to be notified in the event the consumer believes than<sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
+&emsp;(2) the telephone number and address of the person or office to be notified in the event the consumer believes than <sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
 
 &emsp;(3) the type and nature of electronic fund transfers which the consumer may initiate, including any limitations on the frequency or dollar amount of such transfers, except that the details of such limitations need not be disclosed if their confidentiality is necessary to maintain the security of an electronic fund transfer system, as determined by the Board;
 
@@ -34,15 +34,15 @@ For any account of a consumer made accessible to electronic fund transfers prior
 
 &emsp;(2) thirty days after the effective date of this subchapter.
 
-(Pub. L. 90 321, title IX, §905, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730.)
+(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730.)
 
 #### References in Text
 
-For effective date of this subchapter, referred to in subsec. (c), see section 921 of Pub. L. 90 321, set out as an Effective Date note under section 1693 of this title.
+For effective date of this subchapter, referred to in subsec. (c), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1693b, 1693d, 1693g, 1693i of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “that”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

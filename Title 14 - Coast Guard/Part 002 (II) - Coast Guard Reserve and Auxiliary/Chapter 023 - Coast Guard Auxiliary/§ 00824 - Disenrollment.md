@@ -1,4 +1,4 @@
-### §824 . Disenrollment
+### §824. Disenrollment
 
 Members of the Auxiliary may be disenrolled pursuant to applicable regulations.
 

@@ -1,6 +1,6 @@
 Part F—Demonstration Projects
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
 
 ---

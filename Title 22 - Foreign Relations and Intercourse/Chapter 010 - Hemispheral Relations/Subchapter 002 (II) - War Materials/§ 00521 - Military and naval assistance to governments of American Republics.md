@@ -2,7 +2,7 @@
 
 #### (a) Coast-defense and antiaircraft mate�AE1riel; ammunition
 
-The President may, in his discretion, authorize the Secretary of the Army to manufacture in factories and arsenals under his jurisdiction, or otherwise procure, coast-defense and antiaircraft mate�AE1riel, including ammunition therefor, on behalf of the government of any American republic; to sell such mate�AE1riel and ammunition to any such government; to test or prove such mate�AE1riel and ammunition prior to sale or delivery to any such government; to repair such mate�AE1riel on behalf of any such government; and to communicate to any such government plans, specifications, or other information relating to such mate�AE1riel and ammunition as may be sold to any such government.
+The President may, in his discretion, authorize the Secretary of the Army to manufacture in factories and arsenals under his jurisdiction, or otherwise procure, coast-defense and antiaircraft mate�AE1riel, including ammunition therefor, on behalf of the government of any American republic; to sell such mate�AE1riel and ammunition to any such government; to test or prove such mate�AE1riel and ammunition prior to sale ordelivery to any such government; to repair such mate�AE1riel on behalf of any such government; and to communicate to any such government plans, specifications, or other information relating to such mate�AE1riel and ammunition as may be sold to any such government.
 
 #### (b) Vessels of war; armament, artillery, equipment, and ammunition
 

@@ -10,7 +10,7 @@ Section 6327 of this title, referred to in text, probably means the section 6327
 
 #### Amendments
 
-1994—Pub. L. 103–329 substituted “6307(a) and (d)” for “6307(a) and (c)” and inserted “6327,” after “6326,”.
+<b>1994</b>—Pub. L. 103–329 substituted “6307(a) and (d)” for “6307(a) and (c)” and inserted “6327,” after “6326,”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

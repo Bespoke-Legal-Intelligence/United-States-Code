@@ -16,5 +16,5 @@ The Congress finds that—
 
 &emsp;&emsp;(D) expand learning opportunities for everyone.
 
-(Pub. L. 89 10, title III, §3202, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3654.)
+(Pub. L. 89–10, title III, §3202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3654.)
 

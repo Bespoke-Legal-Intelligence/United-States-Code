@@ -19,7 +19,7 @@
 
 1994—Pub. L. 103–337, div. A, title XVI, §1664(b)(1), (3), Oct. 5, 1994, 108 Stat. 3010, renumbered chapter 133 as this chapter and renumbered items 2231 to 2239 as items 18231 to 18239, respectively.
 
-1982—Pub. L. 97–214, §3(b)(2), (c)(2), July 12, 1982, 96 Stat. 169, 170, substituted “Limitation on certainprojects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
+1982—Pub. L. 97–214, §3(b)(2), (c)(2), July 12, 1982, 96 Stat. 169, 170, substituted “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
 
 1958—Pub. L. 85–861, §1(42), Sept. 2, 1958, 72 Stat. 1457, inserted “: compliance with State law” in item 2237.
 

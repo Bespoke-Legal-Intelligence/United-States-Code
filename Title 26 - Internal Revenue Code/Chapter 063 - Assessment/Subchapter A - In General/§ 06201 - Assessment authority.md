@@ -30,7 +30,7 @@ The Secretary is authorized and required to make the inquiries, determinations, 
 
 #### (2) Federal unemployment tax
 
-&emsp;No unpaid amount of Federal unemployment tax for any calendar quarter or other period ofa calendar year, computed as provided in section 6157, shall be assessed.
+&emsp;No unpaid amount of Federal unemployment tax for any calendar quarter or other period of a calendar year, computed as provided in section 6157, shall be assessed.
 
 #### (c) Compensation of child
 

@@ -34,7 +34,7 @@ A transfer of funds back to the account under subsection (d) of this section may
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to the Foreign Currency Fluctuations, Peace Corps,Account for each fiscal year such sums as may be necessary to maintain a balance of $5,000,000 in such account at the beginning of such fiscal year.
+There are authorized to be appropriated to the Foreign Currency Fluctuations, Peace Corps, Account for each fiscal year such sums as may be necessary to maintain a balance of $5,000,000 in such account at the beginning of such fiscal year.
 
 #### (h) Reports
 
@@ -48,7 +48,7 @@ A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

@@ -26,7 +26,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (A) De minimis rule
 
-&emsp;&emsp;If the sum of foreign base company income (determined without regard to paragraph (5))and the gross insurance income for the taxable year is less than the lesser of—
+&emsp;&emsp;If the sum of foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year is less than the lesser of—
 
 &emsp;&emsp;&emsp;(i) 5 percent of gross income, or
 
@@ -134,7 +134,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (C) Exception for certain dividends
 
-&emsp;&emsp;Subparagraph (A)(i) shall not apply to any dividend with respect to any stock which is attributable to earnings and profits of the distributing corporation accumulated during any period during which the person receiving such dividend did not hold such stock either directly, or indirectly through a chain of one or more subsidiaries each of which meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;Subparagraph (A)(i) shall not apply to any dividend with respect to any stock which isattributable to earnings and profits of the distributing corporation accumulated during any period during which the person receiving such dividend did not hold such stock either directly, or indirectly through a chain of one or more subsidiaries each of which meets the requirements of subparagraph (A)(i).
 
 #### (d) Foreign base company sales income
 
@@ -194,7 +194,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 For purposes of subsection (a)(4), the term “foreign base company shipping income” means income derived from, or in connection with, the use (or hiring or leasing for use) of any aircraft or vessel in foreign commerce, or from, or in connection with the performance of services directly related to the use of any such aircraft, or vessel, or from the sale, exchange, or other disposition of any such aircraft or vessel. Such term includes, but is not limited to—
 
-&emsp;(1) dividends and interest received from a foreign corporation in respect of which taxes are deemed paid under section 902, and gain from the sale, exchange, or other disposition of stock or obligations of such a foreign corporation to the extent that such dividends, interest, and gains are attributable to foreign base company shipping income, and
+&emsp;(1) dividends and interest received from a foreign corporation in respect of which taxes are deemed paid under section 902, and gain from the sale, exchange, or other dispositionof stock or obligations of such a foreign corporation to the extent that such dividends, interest, and gains are attributable to foreign base company shipping income, and
 
 &emsp;(2) that portion of the distributive share of the income of a partnership attributable to foreign base company shipping income.
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (B) Large oil producer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “large oil producer” means any corporationif, for the taxable year or for the preceding taxable year, the average daily production of foreign crude oil and natural gas of the related group which includes such corporation equaled or exceeded 1,000 barrels.
+&emsp;&emsp;For purposes of subparagraph (A), the term “large oil producer” means any corporation if, for the taxable year or for the preceding taxable year, the average daily production of foreign crude oil and natural gas of the related group which includes such corporation equaled or exceeded 1,000 barrels.
 
 #### (C) Related group
 
@@ -352,7 +352,7 @@ Subsecs. (f), (g). Pub. L. 94–12, §602(c)(2), (d)(1)(G), added subsecs. (f) a
 
 #### Effective Date of 1993 Amendment
 
-Section 13233(a)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
+Section 13233(a)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
 
 Amendment by section 13235(a)(3) and (b) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13235(c) of Pub. L. 103–66, set out as a note under section 904 of this title.
 

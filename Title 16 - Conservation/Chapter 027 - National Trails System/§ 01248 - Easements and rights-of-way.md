@@ -2,11 +2,11 @@
 
 #### (a) Authorization; conditions
 
-The Secretary of the Interior or the Secretary of Agriculture as the case may be, may grant easements and rights-of-way upon, over, under,across, or along any component of the national trails system in accordance with the laws applicable to the national park system and the national forest system, respectively: <i>Provided</i>, That any conditions contained in such easements and rights-of-way shall be related to the policy and purposes of this chapter.
+The Secretary of the Interior or the Secretary of Agriculture as the case may be, may grant easements and rights-of-way upon, over, under, across, or along any component of the national trails system in accordance with the laws applicable to the national park system and the national forest system, respectively: <i>Provided</i>, That any conditions contained in such easements and rights-of-way shall be related to the policy and purposes of this chapter.
 
 #### (b) Cooperation of Federal agencies with Secretary of the Interior and Secretary of Agriculture
 
-The Department of Defense, the Department of Transportation, the Interstate Commerce Commission, the Federal Communications Commission, the Secretary of Energy, and other Federal agencies having jurisdiction or control over or information concerning the use, abandonment, or disposition of roadways, utility rights-of-way, or other properties which may be suitable for the purpose of improving or expanding the national trails system shall cooperate with the Secretary of the Interior and the Secretary of Agriculture in order to assure, to the extent practicable, that any such properties having values suitable for trail purposes may be made available for such use.
+The Department of Defense, the Department of Transportation, the Surface Transportation Board, the Federal Communications Commission, the Secretary of Energy, and other Federal agencies having jurisdiction or control over or information concerning the use, abandonment, or disposition of roadways, utility rights-of-way, or other properties which may be suitable for the purpose of improving or expanding the national trails system shall cooperate with the Secretary of the Interior and the Secretary of Agriculture in order to assure, to the extent practicable, that any such properties having values suitable for trail purposes may be made available for such use.
 
 #### (c) Abandoned railroad grants; retention of rights
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;(2) The term “public lands” has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 
-(Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281.)
+(Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949.)
 
 #### References in Text
 
@@ -60,7 +60,13 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(
 
 #### Amendments
 
+1995—Subsec. (b). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+
 1988—Subsecs. (c) to (f). Pub. L. 100–470 added subsecs. (c) to (f).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Transfer of Functions
 

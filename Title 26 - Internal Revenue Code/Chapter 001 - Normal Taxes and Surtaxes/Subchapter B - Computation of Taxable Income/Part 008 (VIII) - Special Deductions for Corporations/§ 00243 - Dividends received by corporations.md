@@ -116,7 +116,7 @@ Subsec. (b)(2)(A). Pub. L. 94–455, §1901(a)(34)(B), struck out “(except tha
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1031(b)(2), substituted “election under section 901(a) (relating to allowance of foreign tax credit)” for “elections under section 901(a) (relating to allowance of foreign tax credit) and section 904(b)(1) (relating to election of overall limitation)”.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, and substituted “certain exploration expenditures under section 617(h)(1)” for “exploration expenditures under sections 615(c)(1) and 617(h)(1)” in cl. (ii) as so redesignated, “804(a)(3)” for “804(a)(4)” in cl. (iii) as so redesignated, and “section 6154(c)(2) and section 6655(e)(2)” for “sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)” in cl. (iv) as so redesignated.
+Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, andsubstituted “certain exploration expenditures under section 617(h)(1)” for “exploration expenditures under sections 615(c)(1) and 617(h)(1)” in cl. (ii) as so redesignated, “804(a)(3)” for “804(a)(4)” in cl. (iii) as so redesignated, and “section 6154(c)(2) and section 6655(e)(2)” for “sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)” in cl. (iv) as so redesignated.
 
 Subsec. (b)(5). Pub. L. 94–455, §1051(f)(2), inserted “, 1504(b)(4),” after “sections 1504(b)(2)”.
 
@@ -212,7 +212,7 @@ Presumption of election under section 617.—For purposes of section 617 of the 
 
 #### Effective Date of 1968 Amendment
 
-Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notes under sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
+Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notesunder sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
 
 #### Effective Date of 1964 Amendment
 

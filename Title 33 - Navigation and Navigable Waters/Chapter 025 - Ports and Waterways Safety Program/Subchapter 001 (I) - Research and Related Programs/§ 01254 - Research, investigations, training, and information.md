@@ -36,7 +36,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 #### (c) Research and studies on harmful effects of pollutants; cooperation with Secretary of Health and Human Services
 
-In carrying out the provisions of subsection (a) of this section the Administrator shall conduct research on, and survey the results of other scientific studies on, the harmful effects on the health or welfare of persons caused by pollutants. In order to avoid duplication of effort, the Administrator shall, to the extent practicable, conduct such research in cooperation with and through the facilities of the Secretary of Health and Human Services.
+In carrying out the provisions of subsection (a) of this section the Administrator shall conductresearch on, and survey the results of other scientific studies on, the harmful effects on the health or welfare of persons caused by pollutants. In order to avoid duplication of effort, the Administrator shall, to the extent practicable, conduct such research in cooperation with and through the facilities of the Secretary of Health and Human Services.
 
 #### (d) Sewage treatment; identification and measurement of effects of pollutants; augmented streamflow
 
@@ -70,7 +70,7 @@ The Administrator shall conduct research and technical development work, and mak
 
 &emsp;(C) provide, in addition to the program established under paragraph (1) of this subsection, training in technical matters relating to the causes, prevention, reduction, and elimination of pollution for personnel of public agencies and other persons with suitable qualifications.
 
-(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations on improving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
+(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations onimproving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
 
 #### (h) Lake pollution
 
@@ -142,7 +142,7 @@ Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from
 
 #### (r) Research grants to colleges and universities
 
-The Administrator is authorized to make grants to colleges and universities to conduct basic research into the structure and function offreshwater aquatic ecosystems, and to improve understanding of the ecological characteristics necessary to the maintenance of the chemical, physical, and biological integrity of freshwater aquatic ecosystems.
+The Administrator is authorized to make grants to colleges and universities to conduct basic research into the structure and function of freshwater aquatic ecosystems, and to improve understanding of the ecological characteristics necessary to the maintenance of the chemical, physical, and biological integrity of freshwater aquatic ecosystems.
 
 #### (s) River Study Centers
 

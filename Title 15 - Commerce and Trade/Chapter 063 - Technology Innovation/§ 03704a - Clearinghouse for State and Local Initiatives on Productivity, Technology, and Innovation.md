@@ -32,7 +32,7 @@ In carrying out subsection (b) of this section, the Secretary may enter into con
 
 The Secretary shall prepare and transmit to the Congress once each 3 years a report on initiatives by State and local governments to enhance the competitiveness of American businesses through the stimulation of productivity, technology, and innovation. The report shall include recommendations to the President, the Congress, and to Federal agencies on the appropriate Federal role in stimulating State and local efforts in this area. The first of these reports shall be transmitted to the Congress before January 1, 1989.
 
-(Pub. L. 96 480, §6, as added Pub. L. 100 418, title V, §5122(a)(2), Aug. 23, 1988, 102 Stat. 1438.)
+(Pub. L. 96–480, §6, as added Pub. L. 100–418, title V, §5122(a)(2), Aug. 23, 1988, 102 Stat. 1438.)
 
 #### Section Referred to in Other Sections
 

@@ -56,7 +56,7 @@ The Secretary shall, to the greatest extent practicable, acquire petroleum produ
 
 &emsp;(C) produced for national defense purposes under section 7422(b)(2) of title 10, pursuant to an authorization of Congress under that section during the preceding 9-month period.
 
-(3) In determining the number of barrels of crude oil for purposes of subparagraph (A) of paragraph (1), any crude oil drawndown from the Reserve as a result of any drawdown and distribution carried out under section 6241(g) of this title and not replaced under section 6241(g)(6)(B) of this title shall be considered to be within the Reserve.
+(3) In determining the number of barrels of crude oil for purposes of subparagraph (A) ofparagraph (1), any crude oil drawndown from the Reserve as a result of any drawdown and distribution carried out under section 6241(g) of this title and not replaced under section 6241(g)(6)(B) of this title shall be considered to be within the Reserve.
 
 (4) For any fiscal year in which purchases of petroleum products are suspended, or the sale of petroleum products is carried out, under subsection (f) of this section, the fill-rate requirements of paragraph (1)(B) shall be reduced by—
 
@@ -80,7 +80,7 @@ The Secretary shall, to the greatest extent practicable, acquire petroleum produ
 
 If the Secretary finds that a severe energy supply interruption may be imminent, the Secretary may suspend the acquisition of petroleum product for, and the injection of petroleum product into, the Reserve and may sell any petroleum product acquired for and in transit to, but not injected into, the Reserve.
 
-#### (g) Test program of storage of refined petroleum products; report to Congress
+#### (g) Test program of storage of refined petroleum products
 
 (1) The Secretary shall conduct a test program of storage of refined petroleum products within the Reserve. The test program shall commence during fiscal year 1992 and continue through fiscal year 1994. The test program shall demonstrate mechanisms for storage of refined petroleum products within the Reserve which may be drawn down in accordance with this part.
 
@@ -102,8 +102,6 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 &emsp;(B) on the basis of a finding made under section 6241 of this title.
 
-(7) No later than January 31, 1994, the Secretary shall transmit to the Congress a report on the test program. The report shall evaluate the mechanisms demonstrated under the test program, other potential mechanisms, and the purchase of facilities. The report shall include an assessment of the costs and benefits of the various mechanisms. The report shall also make recommendations with regard to future storage of refined petroleum products and contain drafts of any legislative provisions which the Secretary wishes to recommend.
-
 #### (h) Purchase from stripper well properties
 
 (1) If the President finds that declines in the production of oil from domestic resources pose a threat to national energy security, the President may direct the Secretary to acquire oil from domestic production of stripper well properties for storage in the Strategic Petroleum Reserve. Except as provided in paragraph (2), the Secretary may set such terms and conditions as he deems necessary for such acquisition.
@@ -114,13 +112,15 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 &emsp;(B) shall not exceed the price that would have been paid if the Secretary had acquired petroleum products of a similar quality on the open market under competitive bid procedures without regard to the source of the petroleum products.
 
-(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995.)
+(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716.)
 
 #### References in Text
 
 The Impoundment Control Act of 1974, referred to in subsec. (c)(1)(D)(ii), is title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to chapter 17B (§681 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
 
 #### Amendments
+
+1995—Subsec. (g)(7). Pub. L. 104–66 struck out par. (7) which read as follows: “No later than January 31, 1994, the Secretary shall transmit to the Congress a report on the test program. The report shall evaluate the mechanisms demonstrated under the test program, other potential mechanisms, and the purchase of facilities. The report shall include an assessment of the costs and benefits of the various mechanisms. The report shall also make recommendations with regard to future storage of refined petroleum products and contain drafts of any legislative provisions which the Secretary wishes to recommend.”
 
 1992—Subsec. (d)(2). Pub. L. 102–486, §1405, redesignated cls. (i) to (iii) as pars. (A) to (C), respectively, and struck out former par. (A) designation after “(2)”.
 
@@ -164,7 +164,7 @@ Subsec. (e)(2). Pub. L. 99–58, §102(b)(3), substituted “may become effectiv
 
 Subsec. (e)(3), (4). Pub. L. 99–58, §102(b)(3), (4), redesignated par. (4) as (3). Former par. (3), which related to application of section 6422 of this title for purposes of par. (1)(B), was struck out.
 
-1982—Subsec. (c). Pub. L. 97–229, §4(a)(1), substituted provisions directing the President to fill the Strategic Petroleum Reserve with petroleum products at a level sufficient to assure an increase at an annual rate of at least the minimum required fill rate, 300,000 barrels per day, until the quantity of petroleum products stored is at least 500,000,000 barrels, allowing for a lower minimum required fill rate of 220,000 barrels per day if the President finds that compliance with the 300,000 barrels per day rate would not be in the national interest, specifying the effective period of such a Presidential finding, authorizing a higher minimum required rate than the 220,000 barrels per day if funds are available in any fiscal year after fiscal year 1982, making the Impoundment Control Act of 1974 applicable to funds available under section 6247(b) and (e) of this title, and providing that, after the Strategic Petroleum Reserve reaches 500,000,000 barrels, the President shall seek tofill the Reserve at an annual rate of at least 300,000 barrels per day of petroleum products until the Reserve reaches 750,000,000 barrels for provisions directing the President to seek to fill the Strategic Petroleum Reserve with crude oil at a level sufficient to assure that crude oil in storage will be increased at an average annual rate of at least 300,000 barrels per day until the Reserve is at least 750,000,000 barrels.
+1982—Subsec. (c). Pub. L. 97–229, §4(a)(1), substituted provisions directing the President to fill the Strategic Petroleum Reserve with petroleum products at a level sufficient to assure an increase at an annual rate of at least the minimum required fill rate, 300,000 barrels per day, until the quantity of petroleum products stored is at least 500,000,000 barrels, allowing for a lower minimum required fill rate of 220,000 barrels per day if the President finds that compliance with the 300,000 barrels per day rate would not be in the national interest, specifying the effective period of such a Presidential finding, authorizing a higher minimum required rate than the 220,000 barrels per day if funds are available in any fiscal year after fiscal year 1982, making the Impoundment Control Act of 1974 applicable to funds available under section 6247(b) and (e) of this title, and providing that, after the Strategic Petroleum Reserve reaches 500,000,000 barrels, the President shall seek to fill the Reserve at an annual rate of at least 300,000 barrels per day of petroleum products until the Reserve reaches 750,000,000 barrels for provisions directing the President to seek to fill the Strategic Petroleum Reserve with crude oil at a level sufficient to assure that crude oil in storage will be increased at an average annual rate of at least 300,000 barrels per day until the Reserve is at least 750,000,000 barrels.
 
 Subsec. (e)(4). Pub. L. 97–229, §4(b)(2)(C), substituted “petroleum product” for “crude oil”.
 
@@ -230,13 +230,13 @@ Section 805 of Pub. L. 96–294 provided that:
 
 > shall be deposited in a special account which the Secretary of the Treasury shall establish on the books of the Treasury of the United States.
 
-“(2)(A) Subject to the provisions of any Act enacted pursuant to section 660 of the Department of EnergyOrganization Act \[42 U.S.C. 7270\], such account shall be available (except as provided in subparagraph (B)) for use by the Secretary of Energy, without fiscal year limitation, for the purchase of crude oil for the Strategic Petroleum Reserve, to the extent provided in advance in appropriation Acts.
+“(2)(A) Subject to the provisions of any Act enacted pursuant to section 660 of the Department of Energy Organization Act \[42 U.S.C. 7270\], such account shall be available (except as provided in subparagraph (B)) for use by the Secretary of Energy, without fiscal year limitation, for the purchase of crude oil for the Strategic Petroleum Reserve, to the extent provided in advance in appropriation Acts.
 
 “(B) Amounts in such account attributable to the proceeds from the sale of entitlements under the amendment to the regulation under subsection (a) are hereby appropriated for fiscal year 1981 for acquisition of crude oil for the Strategic Petroleum Reserve pursuant to subsection (a).
 
 “(d) For purposes of this section—
 
-&emsp;“(1) the terms ‘entitlements’, ‘crude oil’, and ‘allocation’ shall have the same meaning as those terms have as used in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] (and the regulation thereunder);
+&emsp;“(1) the terms ‘entitlements’, ‘crude oil’, and ‘allocation’ shall have the same meaning as those termshave as used in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] (and the regulation thereunder);
 
 &emsp;“(2) the term ‘lower tier crude oil’ means crude oil which is subject to the price ceiling established under section 212.73 of title 10, Code of Federal Regulations;
 

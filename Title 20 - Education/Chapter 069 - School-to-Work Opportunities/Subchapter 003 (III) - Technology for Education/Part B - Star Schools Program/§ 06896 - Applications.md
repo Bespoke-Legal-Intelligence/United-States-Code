@@ -44,7 +44,7 @@ Each application submitted pursuant to subsection (a) of this section shall—
 
 &emsp;(10) provide assurances that the applicant will use the funds provided under this part to supplement and not supplant funds otherwise available for the purposes of this part;
 
-&emsp;(11) if any member of the consortia receives assistance under subpart 3 of part A of this subchapter, describe how funds received under this part will be coordinated with funds received for educational technology in the classroom under such section;<sup>1</sup>
+&emsp;(11) if any member of the consortia receives assistance under subpart 3 of part A of this subchapter, describe how funds received under this part will be coordinated with funds received for educational technology in the classroom under such section; <sup>1</sup>
 
 &emsp;(12) describe the activities or services for which assistance is sought, such as—
 
@@ -108,11 +108,11 @@ The Secretary, in approving applications for grants authorized under section 689
 
 In approving applications for grants authorized under section 6894 of this title, the Secretary shall, to the extent feasible, ensure an equitable geographic distribution of services provided under this part.
 
-(Pub. L. 89 10, title III, §3206, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3657.)
+(Pub. L. 89–10, title III, §3206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3657.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6899 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “such subpart;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “such subpart;”.</i>
 

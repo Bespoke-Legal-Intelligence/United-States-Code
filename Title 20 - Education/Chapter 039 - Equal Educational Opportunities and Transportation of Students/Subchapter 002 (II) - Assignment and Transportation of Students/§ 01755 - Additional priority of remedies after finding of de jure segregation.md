@@ -2,5 +2,5 @@
 
 Notwithstanding any other provision of law, after June 30, 1974 no court of the United States shall order the implementation of any plan to remedy a finding of de jure segregation which involves the transportation of students, unless the court first finds that all alternative remedies are inadequate.
 
-(Pub. L. 93 380, title II, §256, Aug. 21, 1974, 88 Stat. 520.)
+(Pub. L. 93–380, title II, §256, Aug. 21, 1974, 88 Stat. 520.)
 

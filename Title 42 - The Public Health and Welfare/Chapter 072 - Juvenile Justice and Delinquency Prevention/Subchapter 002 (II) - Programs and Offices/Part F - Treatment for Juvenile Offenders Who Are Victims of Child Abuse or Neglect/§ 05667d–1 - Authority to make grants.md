@@ -4,7 +4,7 @@ The Administrator, in consultation with the Secretary of Health and Human Servic
 
 &emsp;(1) provide treatment to juvenile offenders who are victims of child abuse or neglect and to their families so as to reduce the likelihood that the juvenile offenders will commit subsequent violations of law;
 
-&emsp;(2) based on the best interests of juvenile offenders who receive treatment for child abuse or neglect, provide transitional services (including individual, group, and family counseling) to juvenile offenders—
+&emsp;(2) based on the best interests of juvenile offenders who receive treatment for child abuseor neglect, provide transitional services (including individual, group, and family counseling) to juvenile offenders—
 
 &emsp;&emsp;(A) to strengthen the relationships of juvenile offenders with their families and encourage the resolution of intrafamily problems related to the abuse or neglect;
 

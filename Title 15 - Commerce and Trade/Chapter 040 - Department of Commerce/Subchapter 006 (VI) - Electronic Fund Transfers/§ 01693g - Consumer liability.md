@@ -2,7 +2,7 @@
 
 #### (a) Unauthorized electronic fund transfers; limit
 
-A consumer shall be liable for any unauthorized electronic fund transfer involving the account of such consumer only if the card or other means of access utilized for such transfer was an accepted card or other meanas<sup>1</sup> of access and if the issuer of such card, code, or other means of access has provided a means whereby the user of such card, code, or other means of access can be identified as the person authorized to use it, such as by signature, photograph, or fingerprint or by electronic or mechanical confirmation. In no event, however, shall a consumer's liability for an unauthorized transfer exceed the lesser of—
+A consumer shall be liable for any unauthorized electronic fund transfer involving the account of such consumer only if the card or other means of access utilized for such transfer was an accepted card or other meanas <sup>1</sup> of access and if the issuer of such card, code, or other means of access has provided a means whereby the user of such card, code, or other means of access can be identified as the person authorized to use it, such as by signature, photograph, or fingerprint or by electronic or mechanical confirmation. In no event, however, shall a consumer's liability for an unauthorized transfer exceed the lesser of—
 
 &emsp;(1) $50; or
 
@@ -26,11 +26,11 @@ Nothing in this section imposes liability upon a consumer for an unauthorized el
 
 Except as provided in this section, a consumer incurs no liability from an unauthorized electronic fund transfer.
 
-(Pub. L. 90 321, title IX, §909, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3734.)
+(Pub. L. 90–321, title IX, §909, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3734.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1693f of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “means”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “means”.</i>
 

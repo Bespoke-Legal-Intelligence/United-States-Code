@@ -26,7 +26,7 @@
 
 &emsp;(1) direct the Secretary of Education to establish a task force to assist States and local educational agencies to ascertain the extent of the danger to the health of school children and employees from asbestos materials in schools;
 
-&emsp;(2) require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A)<sup>1</sup> of this title) to prepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
+&emsp;(2) require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) to prepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
 
 &emsp;(3) provide scientific, technical, and financial assistance to State educational agencies and local educational agencies to enable them to conduct an asbestos detection program to identify asbestos hazards in schools;
 
@@ -34,15 +34,15 @@
 
 &emsp;(5) assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 
-(Pub. L. 96 270, §2, June 14, 1980, 94 Stat. 487.)
+(Pub. L. 96–270, §2, June 14, 1980, 94 Stat. 487.)
 
 #### References in Text
 
-Section 1221 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 103 382, title II, §211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
+Section 1221 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
 
 #### Short Title
 
-Section 1 of Pub. L. 96 270 provided that: “This Act \[enacting this chapter and amending section 1411 of this title\] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
+Section 1 of Pub. L. 96–270 provided that: “This Act \[enacting this chapter and amending section 1411 of this title\] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

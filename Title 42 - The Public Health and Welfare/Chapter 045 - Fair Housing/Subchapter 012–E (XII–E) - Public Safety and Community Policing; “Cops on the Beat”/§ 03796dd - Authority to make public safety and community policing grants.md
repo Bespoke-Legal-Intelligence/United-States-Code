@@ -34,7 +34,7 @@ The Attorney General may make grants to States, units of local government, India
 
 #### (1) In general
 
-&emsp;Grants made under subsection (a) of this section may be used to hire former members of the Armed Forces to serve as career law enforcement officers for deployment in community-oriented policing, particularly in communities that are adversely affected by a recent military base closing.
+&emsp;Grants made under subsection (a) of this section may be used to hire former members ofthe Armed Forces to serve as career law enforcement officers for deployment in community-oriented policing, particularly in communities that are adversely affected by a recent military base closing.
 
 #### (2) “Former member of the Armed Forces” defined
 
@@ -88,7 +88,7 @@ The Attorney General may utilize any component or components of the Department o
 
 #### (h) Minimum amount
 
-Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) of this section have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) of this section not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant tothat subsection. In this subsection, “qualifying State” means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
+Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) of this section have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) of this section not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to that subsection. In this subsection, “qualifying State” means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
 
 #### (i) Matching funds
 

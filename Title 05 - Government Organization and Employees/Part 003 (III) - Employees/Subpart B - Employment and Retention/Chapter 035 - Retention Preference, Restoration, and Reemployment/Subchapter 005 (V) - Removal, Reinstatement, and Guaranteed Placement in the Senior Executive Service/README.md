@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 4314 of this title; title 38 section 7425.
+This subchapter is referred to in title 38 section 7425.
 
 
 ---

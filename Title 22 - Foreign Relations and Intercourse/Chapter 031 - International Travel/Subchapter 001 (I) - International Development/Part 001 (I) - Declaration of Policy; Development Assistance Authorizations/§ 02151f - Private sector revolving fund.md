@@ -46,7 +46,7 @@ Of the funds made available under this part in each of the fiscal years 1986 and
 
 (2) As used in this section, “assets” includes amounts in the revolving fund account plus the value of investments made with amounts from the fund plus the current value of outstanding obligations under loans under this section.
 
-(3) In addition to the requirement of paragraph (1), at the end of any fiscal year, the agency primarily responsible for administering subchapter I of this chapter may determine that amounts in the revolving fund are sufficient to permit the remittance to the United States Treasury of an amount equal to a portion or the total amount of appropriated funds deposited inthe revolving fund. Any such remittance shall be deemed to be a decrease in the appropriated funds in the revolving fund. After remittance has been made of an amount equal to the total amount of appropriated funds, the revolving fund shall consist and be deemed to consist entirely of nonappropriated funds.
+(3) In addition to the requirement of paragraph (1), at the end of any fiscal year, the agency primarily responsible for administering subchapter I of this chapter may determine that amounts in the revolving fund are sufficient to permit the remittance to the United States Treasury of an amount equal to a portion or the total amount of appropriated funds deposited in the revolving fund. Any such remittance shall be deemed to be a decrease in the appropriated funds in the revolving fund. After remittance has been made of an amount equal to the total amount of appropriated funds, the revolving fund shall consist and be deemed to consist entirely of nonappropriated funds.
 
 #### (e) Fee for carrying out activities
 

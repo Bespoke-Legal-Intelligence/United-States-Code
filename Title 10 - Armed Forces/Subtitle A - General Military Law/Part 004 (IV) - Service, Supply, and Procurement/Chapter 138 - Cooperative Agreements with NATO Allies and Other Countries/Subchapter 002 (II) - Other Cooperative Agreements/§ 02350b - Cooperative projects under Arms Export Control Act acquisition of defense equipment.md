@@ -38,7 +38,7 @@
 
 &emsp;(2) to waive the cargo preference laws of the United States, including section 2631 of this title and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b)).
 
-(Added Pub. L. 99–145, title XI, §1102(b)(1), Nov. 8, 1985, 99 Stat. 710, §2407; amended Pub. L. 99–661, div. A, title XI, §1103(b)(1), (2)(A), title XIII, §1343(a)(15), Nov. 14, 1986, 100 Stat. 3963,3993; renumbered §2350b and amended Pub. L. 101–189, div. A, title IX, §931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535.)
+(Added Pub. L. 99–145, title XI, §1102(b)(1), Nov. 8, 1985, 99 Stat. 710, §2407; amended Pub. L. 99–661, div. A, title XI, §1103(b)(1), (2)(A), title XIII, §1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered §2350b and amended Pub. L. 101–189, div. A, title IX, §931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535.)
 
 #### References in Text
 

@@ -38,7 +38,7 @@
 
 #### (C) Joint and survivor annuities
 
-&emsp;&emsp;Paragraph (1) shall not apply to amounts received by a surviving annuitant under a joint and survivor's annuity contract after the first day of the first period for which an amount was received as an annuity by theemployee (or would have been received if the employee had lived).
+&emsp;&emsp;Paragraph (1) shall not apply to amounts received by a surviving annuitant under a joint and survivor's annuity contract after the first day of the first period for which an amount was received as an annuity by the employee (or would have been received if the employee had lived).
 
 #### (D) Other annuities
 
@@ -148,7 +148,7 @@ If any amount excluded from gross income by subsection (a) or (b) is held under 
 
 #### (A) Flexible premium life insurance contract
 
-&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
+&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualifiedadditional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
 
 #### (B) Premiums paid
 
@@ -230,7 +230,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. 
 
 Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
 
-1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lump sum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
+1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lumpsum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
 
 Subsec. (e). Pub. L. 98–369, §421(b)(2), repealed subsec. (e) relating to payments of alimony or of income of an estate or trust in case of divorce, etc.
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Flexible Premium Contracts Issued During 1984 Which Meet Requirements of Section 7702 Treated as Meeting Requirements of Section 101(f)
 
-Flexible premium contracts issued during 1984 which meet requirements of section 7702 of this title treated as meeting requirements of subsec. (f) of this section, see section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, set out as a note under section 7702 of this title.
+Flexible premium contracts issued during 1984 which meet requirements of section 7702 of this title treated as meeting requirements of subsec. (f) of this section,see section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, set out as a note under section 7702 of this title.
 
 #### Special Rules for Contracts Entered Into Before January 1, 1983
 

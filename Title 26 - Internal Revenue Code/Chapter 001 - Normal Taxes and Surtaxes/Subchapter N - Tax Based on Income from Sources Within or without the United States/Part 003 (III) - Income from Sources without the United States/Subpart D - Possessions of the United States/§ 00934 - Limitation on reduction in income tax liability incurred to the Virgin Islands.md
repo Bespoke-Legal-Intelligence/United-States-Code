@@ -88,7 +88,7 @@ Withholding.—The amendment made by subsection (b) \[enacting section 1444 of t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, except that so much of this section to which section 936(h)(6) applies by reason of subsec. (e)(4) of this section is applicable to taxable years ending after July 1, 1982, see section 213(e)(1), (2) of Pub. L. 97–248 set out as a note under section 936 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, except that so much of this section to which section 936(h)(6) applies by reason of subsec. (e)(4) of this section is applicable to taxable years ending after July 1, 1982, see section 213(e)(1),\(2) of Pub. L. 97–248 set out as a note under section 936 of this title.
 
 #### Effective Date of 1976 Amendment
 

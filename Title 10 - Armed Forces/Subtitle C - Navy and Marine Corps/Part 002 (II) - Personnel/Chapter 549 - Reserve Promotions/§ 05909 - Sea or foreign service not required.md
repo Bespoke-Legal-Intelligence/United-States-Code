@@ -1,4 +1,4 @@
-### §5909 . Sea or foreign service not required
+### §5909. Sea or foreign service not required
 
 Sea or foreign service may not be made a prerequisite for the promotion of reserve officers under this chapter.
 

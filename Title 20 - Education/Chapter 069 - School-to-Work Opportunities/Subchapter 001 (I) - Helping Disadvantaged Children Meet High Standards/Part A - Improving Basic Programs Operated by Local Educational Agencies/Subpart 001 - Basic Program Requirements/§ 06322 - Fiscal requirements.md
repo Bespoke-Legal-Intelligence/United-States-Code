@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of effort
 
-A local educational agency may receive funds under this part for any fiscal year only if the State educational agency finds that the local educational agency has maintained its fiscal effort in accordance with section 8891 of this title.
+A local educational agency may receive funds under this part for any fiscal year only if the State educational agency finds that the localeducational agency has maintained its fiscal effort in accordance with section 8891 of this title.
 
 #### (b) Federal funds to supplement, not supplant, non-Federal funds
 
@@ -60,7 +60,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 &emsp;&emsp;(B) excess costs of providing services to children with disabilities as determined by the local educational agency.
 
-(Pub. L. 89 10, title I, §1120A, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3559.)
+(Pub. L. 89–10, title I, §1120A, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3559.)
 
 #### Section Referred to in Other Sections
 

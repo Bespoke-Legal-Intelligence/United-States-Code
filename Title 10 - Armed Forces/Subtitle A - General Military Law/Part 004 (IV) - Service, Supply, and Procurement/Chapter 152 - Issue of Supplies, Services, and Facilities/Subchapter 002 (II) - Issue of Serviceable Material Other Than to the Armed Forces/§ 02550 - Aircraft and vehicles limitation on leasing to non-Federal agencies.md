@@ -6,5 +6,5 @@ The Secretary of Defense (or Secretary of a military department) may not lease t
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 101–165, title IX, §9025, Nov. 21, 1989, 103 Stat. 1134, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(g)(4).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9025, Nov. 21, 1989, 103 Stat. 1134, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(g)(4).
 

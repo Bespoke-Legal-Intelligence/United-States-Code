@@ -12,9 +12,9 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 &emsp;(e) any recommendations for additional legislation which may be required to assist in achieving the purposes of this chapter.
 
-(Pub. L. 95 367, §7, Sept. 17, 1978, 92 Stat. 604; Pub. L. 97 375, title II, §202(b), Dec. 21, 1982, 96 Stat. 1822.)
+(Pub. L. 95–367, §7, Sept. 17, 1978, 92 Stat. 604; Pub. L. 97–375, title II, §202(b), Dec. 21, 1982, 96 Stat. 1822.)
 
 #### Amendments
 
-1982—Pub. L. 97 375 substituted “March 31” for “January 30”.
+1982—Pub. L. 97–375 substituted “March 31” for “January 30”.
 

@@ -14,7 +14,7 @@ In order to further the purposes of the Institute, the President is authorized t
 
 &emsp;(C) advise the Director on matters involving the activities of the Institute overseas and appropriate relationships with the private sector, within and outside the United States.
 
-(2) The Council shall prepare an annual report setting forth the major recommendations madeand advice given pursuant to paragraph (1) of this subsection.
+(2) The Council shall prepare an annual report setting forth the major recommendations made and advice given pursuant to paragraph (1) of this subsection.
 
 #### (c) Advice to Director concerning selection, termination, or change in activities, and transfer of government programs and projects to Institute; review and recommendations respecting new programs and initiatives
 

@@ -40,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1982—Subsecs. (a), (b). Pub. L. 97–253, §351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
+<b>1982</b>—Subsecs. (a), (b). Pub. L. 97–253, §351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 97–253, §351(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -48,7 +48,7 @@ Subsecs. (c), (d). Pub. L. 97–253, §351(b), added subsec. (c) and redesignate
 
 Section 351(c), (d) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(m), Oct. 15, 1982, 96 Stat. 1649, provided that:
 
-“(c)(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending thissection\] shall take effect with respect to expenses incurred after the date of enactment of this Act \[Sept. 8, 1982\] for round-trip travel (commenced after such date) of an employee or transportation of his immediate family from his post of duty to the place of his actual residence at the time of appointment or transfer to the post of duty.
+“(c)(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect with respect to expenses incurred after the date of enactment of this Act \[Sept. 8, 1982\] for round-trip travel (commenced after such date) of an employee or transportation of his immediate family from his post of duty to the place of his actual residence at the time of appointment or transfer to the post of duty.
 
 “(2) The amendments made by this section \[amending this section\] shall not apply to any employee who is serving a tour of duty at a post of duty in Alaska or Hawaii on the date of the enactment of this Act \[Sept. 8, 1982\] during—
 

@@ -18,5 +18,5 @@ Amounts made available under grants made pursuant to this section may be used fo
 
 &emsp;(5) costs of operation and maintenance of the institution.
 
-(Pub. L. 88 210, title III, §383, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 800.)
+(Pub. L. 88–210, title III, §383, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800.)
 

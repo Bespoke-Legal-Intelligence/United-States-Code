@@ -8,7 +8,7 @@ The Secretary is authorized to make grants in accordance with the provisions of 
 
 Grants under this subpart shall be used only to provide financial assistance to economically disadvantaged students who participate in the program described in subsection (a) of this section. Financial assistance received pursuant to this subpart by such students shall be known as Allen J. Ellender fellowships.
 
-(Pub. L. 89 10, title X, §10711, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3841.)
+(Pub. L. 89–10, title X, §10711, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3841.)
 
 #### Section Referred to in Other Sections
 

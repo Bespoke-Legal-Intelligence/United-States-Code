@@ -1,4 +1,4 @@
-### §6331 . Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay
+### §6331. Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay
 
 (a) When he has completed 30 years of service, or when he is found not physically qualified in an examination under section 6485 of this title, a member of the Fleet Reserve or the Fleet Marine Corps Reserve shall be transferred—
 

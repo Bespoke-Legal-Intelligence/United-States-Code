@@ -8,13 +8,13 @@
 
 &emsp;(B) theft, diversion, or sabotage of special nuclear materials, equipment, or facilities.
 
-(3) In making a determination under paragraph (2), the Secretary may consider what thelikelihood of an illegal production, theft, diversion, or sabotage referred to in such paragraph would be if the information proposed to be prohibited from dissemination under this section were at no time available for dissemination.
+(3) In making a determination under paragraph (2), the Secretary may consider what the likelihood of an illegal production, theft, diversion, or sabotage referred to in such paragraph would be if the information proposed to be prohibited from dissemination under this section were at no time available for dissemination.
 
 (4) The Secretary shall exercise his authority under this subsection to prohibit the dissemination of any information described in paragraph (1)—
 
 &emsp;(A) so as to apply the minimum restrictions needed to protect the health and safety of the public or the common defense and security; and
 
-&emsp;(B) upon a determination that the unauthorized dissemination of such information could reasonably be expected to result in a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of—
+&emsp;(B) upon a determination that the unauthorized dissemination of such information couldreasonably be expected to result in a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of—
 
 &emsp;&emsp;(i) illegal production of nuclear weapons, or
 

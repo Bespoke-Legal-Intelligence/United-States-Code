@@ -6,5 +6,5 @@ Except as otherwise provided in section 3607 of this title, nothing in this chap
 
 &emsp;(2) affect the rights of any party under any other law.
 
-(Pub. L. 96 270, §10, June 14, 1980, 94 Stat. 496.)
+(Pub. L. 96–270, §10, June 14, 1980, 94 Stat. 496.)
 

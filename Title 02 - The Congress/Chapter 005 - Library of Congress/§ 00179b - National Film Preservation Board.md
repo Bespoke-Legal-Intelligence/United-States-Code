@@ -36,7 +36,7 @@
 
 &emsp;(P) The United States members of the International Federation of Film Archives.
 
-(2) In addition to the Members <sup>1</sup> appointed under paragraph (1), the Librarian shall appoint up to 2 members-at-large. The Librarian shall select the at-large members from names submitted by organizations in the film industry, creative artists, producers, film critics, film preservation organizations, academic institutions with film study programs, and others with knowledge of copyright law and of the importance, use, and dissemination of films. The Librarian shall, in selecting 1 such member-at-large, give preference to individuals who are responsible for commercial film libraries. The Librarian shall also select from the names submitted under this paragraph an alternate for each member-at-large, who may attend those meetings to which the member-at-large cannot attend.
+(2) In addition to the Members <sup>1</sup> appointed under paragraph (1), the Librarian shall appoint up to 2 members-at-large. The Librarian shallselect the at-large members from names submitted by organizations in the film industry, creative artists, producers, film critics, film preservation organizations, academic institutions with film study programs, and others with knowledge of copyright law and of the importance, use, and dissemination of films. The Librarian shall, in selecting 1 such member-at-large, give preference to individuals who are responsible for commercial film libraries. The Librarian shall also select from the names submitted under this paragraph an alternate for each member-at-large, who may attend those meetings to which the member-at-large cannot attend.
 
 #### (b) Chairperson
 
@@ -44,7 +44,7 @@ The Librarian shall appoint 1 member of the Board to serve as Chairperson.
 
 #### (c) Term of office
 
-(1) The term of each member of the Board shall be 3 years, except that there shall be nolimit to the number of terms that any individual member may serve.
+(1) The term of each member of the Board shall be 3 years, except that there shall be no limit to the number of terms that any individual member may serve.
 
 (2) A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed only for the remainder of such term.
 

@@ -26,7 +26,7 @@ Any permit issued under this section shall—
 
 (1) Any permit issued by the Secretary which authorizes the taking or importation of a marine mammal for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock shall specify, in addition to the conditions required by subsection (b) of this section, the methods of capture, supervision, care, and transportation which must be observed pursuant to such taking or importation. Any person authorized to take or import a marine mammal for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock shall furnish to the Secretary a report on all activities carried out by him pursuant to that authority.
 
-(2)(A) A permit may be issued to take or import a marine mammal for the purpose of publicdisplay only to a person which the Secretary determines—
+(2)(A) A permit may be issued to take or import a marine mammal for the purpose of public display only to a person which the Secretary determines—
 
 &emsp;(i) offers a program for education or conservation purposes that is based on professionally recognized standards of the public display community;
 
@@ -68,7 +68,7 @@ Any permit issued under this section shall—
 
 (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
-(C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowing bona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply to persons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
+(C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowing bona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply topersons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
 
 &emsp;(i) The species or stocks of marine mammals which may be harassed.
 
@@ -114,7 +114,7 @@ Any permit issued under this section shall—
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
-(6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
+(6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will belimited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
 (7) Upon request by a person for a permit under paragraph (2), (3), or (4) for a marine mammal which is in the possession of any person authorized to possess it under this chapter and which is determined under guidance under section 1421a(a) of this title not to be releasable to the wild, the Secretary shall issue the permit to the person requesting the permit if that person—
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
-(6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
+(6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in theUnited States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 
 #### (e) Modification, suspension, and revocation
 
@@ -234,7 +234,7 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 &emsp;(v) The Secretary may authorize, after public notice and opportunity for comment, designated certificate holders to conduct experimental fishing operations on observed trips, under such terms and conditions as the Secretary may prescribe, for the purpose of testing proposed improvements in fishing techniques and equipment that may reduce the incidental mortality of marine mammals in the course of commercial yellowfin tuna fishing operations, and the Secretary may waive such terms and conditions of the general permit and this section, other than the quotas on incidental taking of marine mammals and the prohibition against encircling pure schools of certain species of marine mammals, as the Secretary determines to be necessary and appropriate for the conduct of such experimental fishing.
 
-&emsp;(vi) The Secretary, after public notice and opportunity for comment and consultation with the skippers’ panel of experts established pursuant to the general permit, shall developand implement by not later than the beginning of the 1990 fishing season a system of performance standards to maintain the diligence and proficiency of certificate holders in the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable. The system shall include such arrangements as are necessary for the identification of certificate holders whose incidental marine mammal mortality rate is consistently and substantially higher than the average rate of the fleet, and for the supplemental training and observation of such certificate holders, and provisions for suspension or revocation of certificates of inclusion of those certificate holders whose unacceptably high rate of incidental taking reflects a lack of diligence or proficiency in the use of the best marine mammal safety techniques and equipment.
+&emsp;(vi) The Secretary, after public notice and opportunity for comment and consultation with the skippers’ panel of experts established pursuant to the general permit, shall develop and implement by not later than the beginning of the 1990 fishing season a system of performance standards to maintain the diligence and proficiency of certificate holders in the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable. The system shall include such arrangements as are necessary for the identification of certificate holders whose incidental marine mammal mortality rate is consistently and substantially higher than the average rate of the fleet, and for the supplemental training and observation of such certificate holders, and provisions for suspension or revocation of certificates of inclusion of those certificate holders whose unacceptably high rate of incidental taking reflects a lack of diligence or proficiency in the use of the best marine mammal safety techniques and equipment.
 
 &emsp;(vii) It shall be unlawful to use any explosive devices other than class C explosive pest control devices in the course of commercial yellowfin tuna fishing subject to the general permit. The Secretary shall prescribe regulations, effective April 1, 1990, to prohibit or restrict the use of class C explosive pest control devices in the course of commercial yellowfin tuna fishing unless the Secretary determines, based on a study which the Secretary shall undertake, that the use of such devices does not result in physical impairment or increased mortality of marine mammals.
 
@@ -284,7 +284,7 @@ Subsec. (h)(2)(B). Pub. L. 100–711, §4(d), added cls. (iv) to (ix).
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Modification of Permits Existing Prior to April 30, 1994
 
@@ -292,7 +292,7 @@ Section 5(c) of Pub. L. 103–238 provided that: “Any permit issued under sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1371, 1372, 1373, 1383a, 1384, 1387, 1416, 1421d of this title; title 19 section 1466.
+This section is referred to in sections 973g, 1371, 1372, 1373, 1383a, 1384, 1387, 1416, 1421d of this title; title 19 section 1466.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

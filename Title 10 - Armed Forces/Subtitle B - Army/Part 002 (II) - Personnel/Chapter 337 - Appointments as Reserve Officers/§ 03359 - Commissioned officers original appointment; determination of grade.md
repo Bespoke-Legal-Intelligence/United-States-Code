@@ -72,7 +72,7 @@ Section 514(d)(1) of Pub. L. 103–160 provided that: “The amendments made by 
 
 #### Effective Date of 1992 Amendment
 
-Section 519(d)(1) of Pub. L. 102–484 provided that: “The amendments made by this section \[amending this section and sections 3380, 8359, and 8380 of this title and provisions set out as a note under section 3360 of this title\] shall take effect as of September 30, 1992.”
+Section 519(d)(1) of Pub. L. 102–484 provided that: “The amendments made by this section \[amending thissection and sections 3380, 8359, and 8380 of this title and provisions set out as a note under section 3360 of this title\] shall take effect as of September 30, 1992.”
 
 #### Army and Air Force Reserve Officers Originally Appointed After September 14, 1981; Appointment in Reserve Grade Equivalent to Former Grade
 

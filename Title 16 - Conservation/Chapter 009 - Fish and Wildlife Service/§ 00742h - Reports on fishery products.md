@@ -1,4 +1,4 @@
-### §742h . Reports on fishery products
+### §742h. Reports on fishery products
 
 (a) Repealed. Pub. L. 96–470, title I, §103(a), Oct. 19, 1980, 94 Stat. 2237.
 
@@ -22,7 +22,7 @@ Section 1364 of title 19, referred to in subsec. (b), was repealed by Pub. L. 87
 
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
 
 #### Section Referred to in Other Sections
 

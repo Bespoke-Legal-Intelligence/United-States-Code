@@ -6,9 +6,9 @@ The Secretary shall ensure that amounts made available under subparts 14, 15 and
 
 #### (b) Report
 
-Not later than September 30, 1993, and annually thereafter, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the activities carried out with the amounts referred to in subsection (a) of this section.
+Not later than December 30, 1993, and each December 30 thereafter, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the activities carried out with the amounts referred to in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §494A, as added July 10, 1992, Pub. L. 102–321, title I, §125, 106 Stat. 366; amended June 10, 1993, Pub. L. 103–43, title XX, §2016(c), 107 Stat. 218.)
+(July 1, 1944, ch. 373, title IV, §494A, as added July 10, 1992, Pub. L. 102–321, title I, §125, 106 Stat. 366; amended June 10, 1993, Pub. L. 103–43, title XX, §2016(c), 107 Stat. 218; Dec. 21, 1995, Pub. L. 104–66, title I, §1062(b), 109 Stat. 720.)
 
 #### References in Text
 
@@ -16,11 +16,13 @@ Subparts 14, 15 and 16 of part C, referred to in subsec. (a), are classified to 
 
 #### Amendments
 
+1995—Subsec. (b). Pub. L. 104–66 substituted “December 30, 1993, and each December 30 thereafter” for “September 30, 1993, and annually thereafter”.
+
 1993—Subsec. (b). Pub. L. 103–43 substituted “September 30, 1993” for “May 3, 1993”.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

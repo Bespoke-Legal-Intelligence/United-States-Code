@@ -72,13 +72,13 @@ A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94�
 
 #### Amendments
 
-1994—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1992—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
+<b>1992</b>—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
 
 Subsec. (b)(10). Pub. L. 102–378, §6(a)(2)–(4), added par. (10).
 
-1990—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
 
 “(a) For the purpose of this subchapter—
 
@@ -140,5 +140,5 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 241; title 22 sections 1438, 3701; title 25 sections 2011, 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
+This section is referred to in title 2 section 1602; title 22 sections 1438, 3701; title 25 section 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
 

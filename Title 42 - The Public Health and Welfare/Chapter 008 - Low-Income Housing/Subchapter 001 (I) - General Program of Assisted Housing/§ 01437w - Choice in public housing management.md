@@ -66,7 +66,7 @@ This section may be cited as the “Choice in Public Housing Management Act of 1
 
 #### (C) Limitation in the case of recent rehabilitation
 
-&emsp;&emsp;Where eligible housing has received rehabilitation funding under paragraph (1) or has otherwise been comprehensively modernized within 3 years before the effective date of the contract between the Secretary and the manager for management of the eligible housing, only the accrual portion of the comprehensive grant formula amount shall be available for payment to the manager.
+&emsp;&emsp;Where eligible housing has received rehabilitation funding under paragraph (1) or has otherwise been comprehensively modernizedwithin 3 years before the effective date of the contract between the Secretary and the manager for management of the eligible housing, only the accrual portion of the comprehensive grant formula amount shall be available for payment to the manager.
 
 #### (D) Effect on PHA grant
 
@@ -282,7 +282,7 @@ For purposes of this section:
 
 > &emsp;The term includes resident management corporations.
 
-&emsp;(4) The term “public housing agency” has the meaning given such term in section1437a(b) of this title, except that it does not include Indian housing authorities.
+&emsp;(4) The term “public housing agency” has the meaning given such term in section 1437a(b) of this title, except that it does not include Indian housing authorities.
 
 &emsp;(5) The term “public nonprofit organization” means any public nonprofit entity, except the public housing agency that owns the eligible housing.
 

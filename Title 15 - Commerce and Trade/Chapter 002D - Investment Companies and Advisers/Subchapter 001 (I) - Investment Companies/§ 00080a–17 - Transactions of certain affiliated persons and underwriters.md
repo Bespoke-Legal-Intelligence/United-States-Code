@@ -22,7 +22,7 @@ Notwithstanding subsection (a) of this section, any person may file with the Com
 
 #### (c) Sale or purchase of merchandise from any company or furnishing of services incident to lessor-lessee relationship
 
-Notwithstanding subsection (a) of this section, a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
+Notwithstanding subsection (a) of this section, a person may, in the ordinary course of business,sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
 
 #### (d) Joint or joint and several participation with company in transactions
 
@@ -42,7 +42,7 @@ Every registered management company shall place and maintain its securities and 
 
 #### (g) Bonding of officers and employees having access to securities or funds
 
-The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officer or employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
+The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officeror employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
@@ -54,13 +54,13 @@ After one year from the effective date of this subchapter no contract or agreeme
 
 #### (j) Rules and regulations prohibiting fraudulent, deceptive or manipulative courses of conduct
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for,such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
 
 (Aug. 22, 1940, ch. 686, title I, §17, 54 Stat. 815; Dec. 14, 1970, Pub. L. 91–547, §9, 84 Stat. 1420; Dec. 4, 1987, Pub. L. 100–181, title VI, §612, 101 Stat. 1261.)
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (f), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsecs. (h) and (i), see section 80a–52 of this title.
 

@@ -38,7 +38,7 @@ The Congress finds that—
 
 &emsp;(18) Federal funding that is well-targeted, flexible, and accountable would contribute significantly to addressing the comprehensive needs of inner-city public schools.
 
-(Pub. L. 89 10, title X, §10961, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3848.)
+(Pub. L. 89–10, title X, §10961, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3848.)
 
 #### Section Referred to in Other Sections
 

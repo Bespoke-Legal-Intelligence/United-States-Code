@@ -1,4 +1,4 @@
-### §712 . Foreign governments: detail to assist
+### §712. Foreign governments: detail to assist
 
 (a) Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, and Marine Corps to assist in military matters—
 

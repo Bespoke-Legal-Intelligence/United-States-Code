@@ -1,6 +1,6 @@
 ### §6392. Retention in active status of certain officers
 
-(a) Notwithstanding any other section of this chapter except subsections (b), (d), and (e) of section 6383, the Secretary of the Navy may, with the officer's consent, retain in an active status any reserve officer of the Navy who is designated as a medical officer, dental officer,veterinary officer, optometrist, podiatrist, chaplain, nurse, allied health officer, or biomedical sciences officer.
+(a) Notwithstanding any other section of this chapter except subsections (b), (d), and (e) of section 6383, the Secretary of the Navy may, with the officer's consent, retain in an active status any reserve officer of the Navy who is designated as a medical officer, dental officer, veterinary officer, optometrist, podiatrist, chaplain, nurse, allied health officer, or biomedical sciences officer.
 
 (b) An officer may be retained in an active status under this section only to fill a mission-based requirement.
 

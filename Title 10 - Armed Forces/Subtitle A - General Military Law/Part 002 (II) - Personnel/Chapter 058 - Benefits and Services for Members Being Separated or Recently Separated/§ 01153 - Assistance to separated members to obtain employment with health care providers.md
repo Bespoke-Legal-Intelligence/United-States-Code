@@ -2,13 +2,13 @@
 
 (a)
 
-Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
+Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with healthcare providers upon their discharge or release from active duty.
 
 (b)
 
 Eligible Members.—(1) Except as provided in paragraph (2), a member shall be eligible for selection to participate in the program established under subsection (a) if the member—
 
-&emsp;(A) is selected for involuntary separation, is approved for separation under section 1174a or 1175 of this title, or retires pursuant to the authority provided in section 4403 of the DefenseConversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note) during the six-year period beginning on October 1, 1993;
+&emsp;(A) is selected for involuntary separation, is approved for separation under section 1174a or 1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note) during the six-year period beginning on October 1, 1993;
 
 &emsp;(B) has received an associate degree, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
 
@@ -54,7 +54,7 @@ Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretar
 
 Agreements With States.—(1) In addition to the agreements referred to in subsection (d)(1), the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement directly with a State to allow the State to arrange the placement of participants in the program with health care providers. Paragraphs (2) through (5) of subsection (d) shall apply with respect to any placement made through such an agreement.
 
-(2) The Secretary concerned may reserve up to 10 percent of the funds made available to carry out the program for a fiscal year for the placement of participants through agreements entered into under paragraph (1).
+(2) The Secretary concerned may reserve up to 10 percent of the funds made available to carryout the program for a fiscal year for the placement of participants through agreements entered into under paragraph (1).
 
 (f)
 

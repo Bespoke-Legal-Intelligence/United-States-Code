@@ -6,7 +6,7 @@ The Secretary is authorized, in accordance with the provisions of this part, to 
 
 #### (b) Equitable distribution
 
-In awarding grants under this part, the Secretary shall assure an equitable distribution of assistance among the States, among urban and rural areas of the United States, and among urban and rural areas of a State.
+In awarding grants under this part, the Secretary shall assure an equitable distribution ofassistance among the States, among urban and rural areas of the United States, and among urban and rural areas of a State.
 
 #### (c) Grant period
 
@@ -16,5 +16,5 @@ The Secretary shall award grants under this part for a period not to exceed 3 ye
 
 The Secretary shall not award a grant under this part in any fiscal year in an amount less than $35,000.
 
-(Pub. L. 89 10, title X, §10903, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3845.)
+(Pub. L. 89–10, title X, §10903, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3845.)
 

@@ -14,11 +14,11 @@ A local educational agency that consolidates administrative funds under this sec
 
 #### (d) Uses of administrative funds
 
-A local educational agency that consolidates administrative funds under this section may usesuch consolidated funds for the administration of covered programs and for the uses described in section 8821(b)(2) of this title.
+A local educational agency that consolidates administrative funds under this section may use such consolidated funds for the administration of covered programs and for the uses described in section 8821(b)(2) of this title.
 
 #### (e) Records
 
 A local educational agency that consolidates administrative funds under this section shall not be required to keep separate records, by individual covered program, to account for costs relating to the administration of covered programs included in the consolidation.
 
-(Pub. L. 89 10, title XIV, §14203, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3892.)
+(Pub. L. 89–10, title XIV, §14203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3892.)
 

@@ -40,7 +40,7 @@ Before entering any consent judgment proposed by the United States under this se
 
 &emsp;(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
 
-&emsp;(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including considerationof the public benefit, if any, to be derived from a determination of the issues at trial.
+&emsp;(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.
 
 #### (f) Procedure for public interest determination
 

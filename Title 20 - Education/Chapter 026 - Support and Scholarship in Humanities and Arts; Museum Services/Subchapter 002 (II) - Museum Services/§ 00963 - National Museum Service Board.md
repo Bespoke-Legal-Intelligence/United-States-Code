@@ -46,7 +46,7 @@ The Board shall meet at the call of the Chairperson, except that—
 
 #### (e) Compensation and travel expenses of members
 
-Members of the Board who are not in the regular full-time employ of the United States shall receive, while engaged in the business of the Board, compensation for service at a rate to be fixed by the President, except that such rate shall not exceed the rate specified at the time of such service for grade GS 18 set forth in section 5332 of title 5, including traveltime, and, while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons employed in Government service.
+Members of the Board who are not in the regular full-time employ of the United States shall receive, while engaged in the business of the Board, compensation for service at a rate to be fixed by the President, except that such rate shall not exceed the rate specified at the time of such service for grade GS–18 set forth in section 5332 of title 5, including traveltime, and, while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons employed in Government service.
 
 #### (f) General policies
 
@@ -56,19 +56,19 @@ The Board shall have the responsibility for the general policies with respect to
 
 The Board shall, with the advice of the Director, take steps to assure that the policies and purposes of the Institute are coordinated with other activities of the Federal Government.
 
-(Pub. L. 94 462, title II, §204, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96 496, title II, §201(b), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 98 306, §9, May 31, 1984, 98 Stat. 225; Pub. L. 99 194, title II, §201, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101 512, title III, §318 \[title II, §201\], Nov. 5, 1990, 104 Stat. 1960, 1974.)
+(Pub. L. 94–462, title II, §204, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, §201(b), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 98–306, §9, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, §201, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 \[title II, §201\], Nov. 5, 1990, 104 Stat. 1960, 1974.)
 
 #### Prior Provisions
 
-A prior section 963, Pub. L. 89 209, §14, Sept. 29, 1965, 79 Stat. 855, requested President to make appointments within ninety days after Sept. 29, 1965, prior to repeal by Pub. L. 93 133, §2(a)(12), Oct. 19, 1973, 87 Stat. 465.
+A prior section 963, Pub. L. 89–209, §14, Sept. 29, 1965, 79 Stat. 855, requested President to make appointments within ninety days after Sept. 29, 1965, prior to repeal by Pub. L. 93–133, §2(a)(12), Oct. 19, 1973, 87 Stat. 465.
 
 #### Amendments
 
-1990—Subsec. (a)(1)(A). Pub. L. 101 512, §318 \[title II, §201(a)\], inserted “conservation,” after “curatorial”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–512, §318 \[title II, §201(a)\], inserted “conservation,” after “curatorial”.
 
-Subsec. (d)(1). Pub. L. 101 512, §318 \[title II, §201(b)\], substituted “three” for “four”.
+Subsec. (d)(1). Pub. L. 101–512, §318 \[title II, §201(b)\], substituted “three” for “four”.
 
-1985—Subsec. (a)(1). Pub. L. 99 194, §201(1)(A), substituted “Such members shall be selected from among citizens of the United States who are members of the general public and who are—
+1985—Subsec. (a)(1). Pub. L. 99–194, §201(1)(A), substituted “Such members shall be selected from among citizens of the United States who are members of the general public and who are—
 
 &emsp;“(A) broadly representative of the various museums, including museums relating to science, history, technology, art, zoos, and botanical gardens, and of the curatorial, educational, and cultural resources of the United States; and
 
@@ -76,29 +76,29 @@ Subsec. (d)(1). Pub. L. 101 512, §318 \[title II, §201(b)\], substituted “th
 
 > Members shall be appointed to reflect various geographical regions of the United States. The Board may not include, at any time, more than three members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved in such museums.” for “Such members shall be broadly representative of various museums, including museums relating to science, history, technology, art, zoos, and botanical gardens, of the curatorial, educational, and cultural resources of the United States, and of the general public.”
 
-Subsec. (a)(2)(A)(i), (ii). Pub. L. 99 194, §201(1)(B), substituted “Chairperson” for “Chairman”.
+Subsec. (a)(2)(A)(i), (ii). Pub. L. 99–194, §201(1)(B), substituted “Chairperson” for “Chairman”.
 
-Subsec. (b). Pub. L. 99 194, §201(2), substituted “such member's” for “his” in two places.
+Subsec. (b). Pub. L. 99–194, §201(2), substituted “such member's” for “his” in two places.
 
-Subsecs. (c), (d). Pub. L. 99 194, §201(3), substituted “Chairperson” for “Chairman” wherever appearing.
+Subsecs. (c), (d). Pub. L. 99–194, §201(3), substituted “Chairperson” for “Chairman” wherever appearing.
 
-1984—Subsec. (a)(2)(A)(v). Pub. L. 98 306, §9(a)(1), struck out cl. (v) which read “the Secretary of Education”.
+1984—Subsec. (a)(2)(A)(v). Pub. L. 98–306, §9(a)(1), struck out cl. (v) which read “the Secretary of Education”.
 
-Subsec. (a)(2)(B). Pub. L. 98 306, §9(a)(2), substituted “clause (iv)” for “clause (v)”.
+Subsec. (a)(2)(B). Pub. L. 98–306, §9(a)(2), substituted “clause (iv)” for “clause (v)”.
 
-Subsec. (b). Pub. L. 98 306, §9(b), inserted “Notwithstanding any other provision of this subsection, a member shall serve after the expiration of his term of office until his successor takes office.”
+Subsec. (b). Pub. L. 98–306, §9(b), inserted “Notwithstanding any other provision of this subsection, a member shall serve after the expiration of his term of office until his successor takes office.”
 
-Subsec. (c). Pub. L. 98 306, §9(c), substituted “Except as provided in subsection (d)(2) of this section, eight” for “Eight”.
+Subsec. (c). Pub. L. 98–306, §9(c), substituted “Except as provided in subsection (d)(2) of this section, eight” for “Eight”.
 
-Subsec. (d)(2). Pub. L. 98 306, §9(d), substituted “seven” for “eight”.
+Subsec. (d)(2). Pub. L. 98–306, §9(d), substituted “seven” for “eight”.
 
-1980—Subsec. (a)(2)(A)(v). Pub. L. 96 496 substituted “Secretary” for “Commissioner”.
+1980—Subsec. (a)(2)(A)(v). Pub. L. 96–496 substituted “Secretary” for “Commissioner”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

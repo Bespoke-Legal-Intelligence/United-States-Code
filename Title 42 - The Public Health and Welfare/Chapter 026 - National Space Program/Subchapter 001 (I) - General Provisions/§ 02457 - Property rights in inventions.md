@@ -16,7 +16,7 @@ Each contract entered into by the Administrator with any party for the performan
 
 #### (c) Patent application
 
-No patent may be issued to any applicant other than the Administrator for any invention which appears to the Commissioner of Patents and Trademarks to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Commissioner, with the application or within thirty days after request therefor by the Commissioner, a written statement executed under oath setting forth the full facts concerning the circumstances under which such invention wasmade and stating the relationship (if any) of such invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Commissioner to the Administrator.
+No patent may be issued to any applicant other than the Administrator for any invention which appears to the Commissioner of Patents and Trademarks to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Commissioner, with the application or within thirty days after request therefor by the Commissioner, a written statement executed under oath setting forth the full facts concerning the circumstances under which such invention was made and stating the relationship (if any) of such invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Commissioner to the Administrator.
 
 #### (d) Issuance of patent to applicant; request by Administrator; notice; hearing; determination; review
 

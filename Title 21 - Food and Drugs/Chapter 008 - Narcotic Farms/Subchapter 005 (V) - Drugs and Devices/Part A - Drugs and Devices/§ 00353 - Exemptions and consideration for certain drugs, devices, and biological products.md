@@ -20,7 +20,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary may by regulation remove drugs subject to sections 352(d) and 355 of this title from the requirements of paragraph (1) of this subsection when such requirements are not necessary for the protection of the public health.
 
-(4) A drug which is subject to paragraph (1) of this subsection shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement “Caution: Federal law prohibits dispensing without prescription”. A drug to which paragraph (1) of this subsection does not apply shall be deemed to be misbranded if at any time prior to dispensing itslabel bears the caution statement quoted in the preceding sentence.
+(4) A drug which is subject to paragraph (1) of this subsection shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement “Caution: Federal law prohibits dispensing without prescription”. A drug to which paragraph (1) of this subsection does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the caution statement quoted in the preceding sentence.
 
 (5) Nothing in this subsection shall be construed to relieve any person from any requirement prescribed by or under authority of law with respect to drugs now included or which may hereafter be included within the classifications stated in sections 4721, 6001, and 6151 of title 26, or to marihuana as defined in section 4761 of title 26.
 
@@ -28,7 +28,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d) of this section, the term “drug sample” means a unit of a drug, subject to subsection (b) of this section, which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
 
-(2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
+(2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeitany coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
 
 (3)(A) No person may sell, purchase, or trade, or offer to sell, purchase, or trade, any drug—
 
@@ -80,7 +80,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (C) Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
 
-(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor ofrecord makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
 
 &emsp;(A) Drug samples may only be distributed—
 
@@ -132,7 +132,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(ii) is, if an oral order, promptly reduced to writing by the person lawfully filling the order, and filed by that person, and
 
-&emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral orderpromptly reduced to writing by the person lawfully filling the order, and filed by that person.
+&emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral order promptly reduced to writing by the person lawfully filling the order, and filed by that person.
 
 (C) The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 

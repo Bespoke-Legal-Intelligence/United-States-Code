@@ -20,7 +20,7 @@ For purposes of this section, the term “compensable injury” means—
 
 #### (c) Compensatory amount
 
-For purposes of this section, the term “compensatory amount” means the amount received or accrued during the taxable year as damages as a result of an award in, or in settlement of,a civil action for recovery for a compensable injury, reduced by any amounts paid or incurred in the taxable year in securing such award or settlement.
+For purposes of this section, the term “compensatory amount” means the amount received or accrued during the taxable year as damages as a result of an award in, or in settlement of, a civil action for recovery for a compensable injury, reduced by any amounts paid or incurred in the taxable year in securing such award or settlement.
 
 #### (d) Unrecovered losses
 

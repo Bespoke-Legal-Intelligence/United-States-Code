@@ -1,6 +1,6 @@
 ### §4805. Relation to other laws
 
-Nothing in this chapter shall be interpreted as modifying the provisions of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), or the Endangered Species Act of1973 (16 U.S.C. 1531 et seq.), except as explicitly provided in section 4802 of this title.
+Nothing in this chapter shall be interpreted as modifying the provisions of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), except as explicitly provided in section 4802 of this title.
 
 (Pub. L. 102–335, §6, Aug. 7, 1992, 106 Stat. 862.)
 

@@ -6,7 +6,7 @@ There is created a Fishermen's Protective Fund which shall be used by the Secret
 
 #### Amendments
 
-1984—Pub. L. 98–364 substituted “Secretary of State” for “Secretary of the Treasury” and “determined andcertified by him” for “certified to him by the Secretary of State”.
+1984—Pub. L. 98–364 substituted “Secretary of State” for “Secretary of the Treasury” and “determined and certified by him” for “certified to him by the Secretary of State”.
 
 #### Effective Date
 
@@ -14,5 +14,5 @@ Section applicable with respect to seizure of vessels of the United States occur
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973, 1975, 1980 of this title.
+This section is referred to in sections 1973, 1975, 1980, 1980a of this title.
 

@@ -86,7 +86,7 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 &emsp;(14) an independent living plan described in section 796c(e) of this title will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
 
-(Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat.4462; amended Pub. L. 103–73, title I, §114(<i>l</i>), Aug. 11, 1993, 107 Stat. 731.)
+(Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, §114(<i>l</i>), Aug. 11, 1993, 107 Stat. 731.)
 
 #### Amendments
 

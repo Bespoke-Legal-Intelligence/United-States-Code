@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the manufacture of products that are patented or for which there are process patents.
 
-&emsp;(2) A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights and mask works.
+&emsp;(2) A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequateand effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights and mask works.
 
 &emsp;(3) A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright or related right, patent, trademark, mask work, trade secret, or plant breeder's right, through the use of laws, procedures, practices, or regulations which—
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) constitute discriminatory nontariff trade barriers.
 
-&emsp;(4) A foreign country may be determined to deny adequate and effective protection of intellectual property rights, notwithstandingthe fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title.
+&emsp;(4) A foreign country may be determined to deny adequate and effective protection of intellectual property rights, notwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title.
 
 #### (e) Publication
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 516(a) of Pub. L. 103–182, set out as an Effective Date note under section 3461 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States \[Jan. 1, 1994\], see section 516(a) of Pub. L. 103–182, set out as an Effective Date note under section 3461 of this title.
 
 #### Procurement From Countries That Deny Adequate and Effective Protection of Intellectual Property Rights
 

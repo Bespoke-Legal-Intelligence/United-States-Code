@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose; focus; guidance
 
-There is established in the Institute an Advanced Technology Program (hereafter in this chapter referred to as the “Program”) for thepurpose of assisting United States businesses in creating and applying the generic technology and research results necessary to—
+There is established in the Institute an Advanced Technology Program (hereafter in this chapter referred to as the “Program”) for the purpose of assisting United States businesses in creating and applying the generic technology and research results necessary to—
 
 &emsp;(1) commercialize significant new scientific discoveries and technologies rapidly; and
 
@@ -14,7 +14,7 @@ There is established in the Institute an Advanced Technology Program (hereafter 
 
 Under the Program established in subsection (a) of this section, and consistent with the mission and policies of the Institute, the Secretary, acting through the Director, and subject to subsections (c) and (d) of this section, may—
 
-&emsp;(1) aid industry-led United States joint research and development ventures (hereafter in this section referred to as “joint ventures”) (which may also include universities and independent research organizations), including those involving collaborative technology demonstration projects which develop and test prototype equipment and processes, through—
+&emsp;(1) aid industry-led United States joint research and development ventures (hereafter inthis section referred to as “joint ventures”) (which may also include universities and independent research organizations), including those involving collaborative technology demonstration projects which develop and test prototype equipment and processes, through—
 
 &emsp;&emsp;(A) provision of organizational and technical advice; and
 
@@ -148,7 +148,7 @@ Subsecs. (f) to (j). Pub. L. 102–245, §201(c)(8), added subsecs. (f) to (j).
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

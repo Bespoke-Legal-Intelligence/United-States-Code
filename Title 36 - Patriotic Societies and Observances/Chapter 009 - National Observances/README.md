@@ -81,6 +81,7 @@
 | (c) | State proclamations. |
 | (d) | “State” defined. |
 | 169<i>l.</i> | National Pearl Harbor Remembrance Day. |
+| [169m.](%C2%A7%2000169m%20-%20National%20Korean%20War%20Veterans%20Armistice%20Day.md) | National Korean War Veterans Armistice Day. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -220,3 +221,4 @@ Occasions for display of flag, see section 174 of this title.
 - [&sect; 00169j&#8211;10 - Accounting procedures](%C2%A7%2000169j%E2%80%9310%20-%20Accounting%20procedures.md)
 - [&sect; 00169k - Asian-Pacific American Heritage Month](%C2%A7%2000169k%20-%20Asian-Pacific%20American%20Heritage%20Month.md)
 - [&sect; 00169l - National Pearl Harbor Remembrance Day](%C2%A7%2000169l%20-%20National%20Pearl%20Harbor%20Remembrance%20Day.md)
+- [&sect; 00169m - National Korean War Veterans Armistice Day](%C2%A7%2000169m%20-%20National%20Korean%20War%20Veterans%20Armistice%20Day.md)

@@ -18,7 +18,7 @@
 
 &emsp;(iii) specify the design of the research referred to in paragraph (1)(B) and the funds, personnel, and facilities required for the research, including, in particular, the need for the cost of enhanced ship capacity.
 
-(B) In preparing the plan referred to in subparagraph (A), the Secretary of Commerce shalltake into account, in addition to any other matters the Secretary considers appropriate, the possibilities of securing productive results, the minimization of duplication, and the methods for monitoring and evaluating a project.
+(B) In preparing the plan referred to in subparagraph (A), the Secretary of Commerce shall take into account, in addition to any other matters the Secretary considers appropriate, the possibilities of securing productive results, the minimization of duplication, and the methods for monitoring and evaluating a project.
 
 (C) The Secretary of Commerce shall submit to the Congress each year the plan required under subparagraph (A). That part of the plan covering fiscal years 1986 through 1988 shall be submitted not later than October 1, 1985. That part of the plan covering each 3-fiscal-year period thereafter shall be submitted not later than the February 1 occurring before the beginning of the first fiscal year covered by that part of the plan.
 

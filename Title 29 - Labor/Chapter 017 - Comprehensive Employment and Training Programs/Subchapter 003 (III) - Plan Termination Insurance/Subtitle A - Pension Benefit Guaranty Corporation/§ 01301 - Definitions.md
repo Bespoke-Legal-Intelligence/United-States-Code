@@ -30,13 +30,13 @@
 
 &emsp;&emsp;(i) a plan shall be considered a multiemployer plan on and after its termination date if the plan was a multiemployer plan under this paragraph for the plan year preceding such termination, and
 
-&emsp;&emsp;(ii) for any plan year which began before September 26, 1980, the term “multiemployer plan” means a plan described in section 414(f) of title 26 as in effect immediately before such date;
+&emsp;&emsp;(ii) for any plan year which began before September 26, 1980, the term “multiemployerplan” means a plan described in section 414(f) of title 26 as in effect immediately before such date;
 
 &emsp;(4) “corporation”, except where the context clearly requires otherwise, means the Pension Benefit Guaranty Corporation established under section 1302 of this title;
 
 &emsp;(5) “fund” means the appropriate fund established under section 1305 of this title;
 
-&emsp;(6) “basic benefits” means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or undersection 1322a of this title (other than under section 1322a(g) of this title);
+&emsp;(6) “basic benefits” means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or under section 1322a of this title (other than under section 1322a(g) of this title);
 
 &emsp;(7) “non-basic benefits” means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefits of the participant or beneficiary under the plan which are guaranteed under section 1322 of this title, over
 
-&emsp;&emsp;(B) the current value (as of such date) of the assets of the plan which are required to be allocated to those benefits under section 1344 of this title;
+&emsp;&emsp;(B) the current value (as of such date) of the assets of the plan which are required tobe allocated to those benefits under section 1344 of this title;
 
 &emsp;(18) “amount of unfunded benefit liabilities” means, as of any date, the excess (if any) of—
 

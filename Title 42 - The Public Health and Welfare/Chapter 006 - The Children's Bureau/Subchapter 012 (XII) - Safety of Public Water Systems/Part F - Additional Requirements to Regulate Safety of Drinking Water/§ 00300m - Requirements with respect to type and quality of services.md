@@ -12,7 +12,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;(B) in the case of cervical cancer, both a pelvic examination and the screening procedure known as a pap smear are conducted;
 
-&emsp;(3) to ensure that, by the end of any second fiscal year of payments pursuant to the grant, each of the services or activities described in section 300k(a) of this title is provided; and
+&emsp;(3) to ensure that, by the end of any second fiscal year of payments pursuant to the grant,each of the services or activities described in section 300k(a) of this title is provided; and
 
 &emsp;(4) to ensure that not more than 40 percent of the grant is expended to provide the services or activities described in paragraphs (3) through (6) of such section.
 

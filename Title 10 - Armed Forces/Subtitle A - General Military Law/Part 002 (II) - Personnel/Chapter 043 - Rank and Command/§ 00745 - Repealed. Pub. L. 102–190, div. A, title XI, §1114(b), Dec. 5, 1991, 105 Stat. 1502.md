@@ -1,4 +1,4 @@
-### \[§745 . Repealed. Pub. L. 102–190, div. A, title XI, §1114(b), Dec. 5, 1991, 105 Stat. 1502\]
+### \[§745. Repealed. Pub. L. 102–190, div. A, title XI, §1114(b), Dec. 5, 1991, 105 Stat. 1502\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 34, related to ranking of warrant officers. See section 742 of this title.
 

@@ -14,7 +14,7 @@
 
 (b) Under such regulations as the Secretary of Defense may prescribe, a project authorized under section 18233(a) of this title that costs $300,000 or less may be carried out with funds available for operations and maintenance.
 
-(Added Pub. L. 85–685, title VI, §601(3), Aug. 20, 1958, 72 Stat. 665, §2233a; amended Pub. L. 87–554, title VII, §701, July 27, 1962, 76 Stat. 243; Pub. L. 93–552, title VII, §703, Dec. 27, 1974, 88 Stat. 1770; Pub. L. 94–107, title VII, §703, Oct. 7, 1975, 89 Stat. 569; Pub. L. 96–125, title VII, §704, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–214, §3(c)(1), July 12, 1982, 96 Stat. 169; Pub. L. 98–115, title VII, §702, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VII, §702, Aug. 28, 1984, 98 Stat. 1517; Pub. L. 100–26, §7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §2304(a), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 102–190, div. B, title XXVIII, §2804, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233a and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (5), Oct. 5, 1994, 108 Stat. 3010.)
+(Added Pub. L. 85–685, title VI, §601(3), Aug. 20, 1958, 72 Stat. 665, §2233a; amended Pub. L. 87–554, title VII, §701, July 27, 1962, 76 Stat. 243; Pub. L. 93–552, title VII, §703, Dec. 27, 1974, 88 Stat. 1770; Pub. L. 94–107, title VII, §703, Oct. 7, 1975, 89 Stat. 569; Pub. L. 96–125, title VII, §704, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–214, §3(c)(1), July 12, 1982, 96 Stat. 169; Pub. L. 98–115, title VII, §702,Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VII, §702, Aug. 28, 1984, 98 Stat. 1517; Pub. L. 100–26, §7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §2304(a), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 102–190, div. B, title XXVIII, §2804, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233a and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (5), Oct. 5, 1994, 108 Stat. 3010.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 100–180 substituted “$200,000” for “$100,000”.
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

@@ -26,5 +26,5 @@
 
 An eligible entity shall use funds received under this subchapter only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for coordinated services, and not to supplant such funds.
 
-(Pub. L. 89 10, title XI, §11005, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3869.)
+(Pub. L. 89–10, title XI, §11005, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3869.)
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) in the case of a career appointee, may not be made within 120 days after the beginning of a new Presidential administration; and
 
-&emsp;&emsp;(D) are based on performance during a performance appraisal period the duration of which shall be determined under guidelines established by the Office of Personnel Management, but which may be terminated in any case in which the agency making an appraisal determines that an adequate basis exists on which to appraise and rate the senior executive's performance;
+&emsp;&emsp;(D) are based on performance during a performance appraisal period the duration of which shall be determined under guidelinesestablished by the Office of Personnel Management, but which may be terminated in any case in which the agency making an appraisal determines that an adequate basis exists on which to appraise and rate the senior executive's performance;
 
 &emsp;(2) any career appointee receiving a rating at any of the fully successful levels under subsection (a)(1) of this section may be given a performance award under section 5384 of this title;
 
@@ -36,15 +36,11 @@
 
 (5) In the case of an appraisal of a career appointee, more than one-half of the members of the performance review board shall consist of career appointees. The requirement of the preceding sentence shall not apply in any case in which the Office determines that there exists an insufficient number of career appointees available to comply with the requirement.
 
-(d) The Office shall include in each report submitted to each House of the Congress under section 3135 of this title a report of—
+(Added Pub. L. 95–454, title IV, §405(a), Oct. 13, 1978, 92 Stat. 1169; amended Pub. L. 104–66, title II, §2181(b), Dec. 21, 1995, 109 Stat. 732.)
 
-&emsp;(1) the performance of any performance review board established under this section,
+#### Amendments
 
-&emsp;(2) the number of individuals removed from the Senior Executive Service under subchapter V of chapter 35 of this title for less than fully successful executive performance, and
-
-&emsp;(3) the number of performance awards under section 5384 of this title.
-
-(Added Pub. L. 95–454, title IV, §405(a), Oct. 13, 1978, 92 Stat. 1169.)
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress.
 
 #### Section Referred to in Other Sections
 

@@ -10,11 +10,11 @@ The reserve shall include approximately fourteen thousand three hundred and twen
 
 #### (c) Legal description
 
-Within six months after November 18, 1988, the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall file a legal description of the reserve designated under this section with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and in the map referred to in subsection (b) of this section. The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior and the offices of the Governor of the State of Idaho.
+Within six months after November 18, 1988, the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall file a legal description of the reserve designated under this section with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of theUnited States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and in the map referred to in subsection (b) of this section. The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior and the offices of the Governor of the State of Idaho.
 
 (Pub. L. 100–696, title II, §201, Nov. 18, 1988, 102 Stat. 4573.)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

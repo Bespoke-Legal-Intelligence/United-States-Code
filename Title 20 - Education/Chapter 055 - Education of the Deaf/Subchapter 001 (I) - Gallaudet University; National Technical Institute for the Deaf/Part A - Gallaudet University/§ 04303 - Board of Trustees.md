@@ -16,7 +16,7 @@
 
 The Board of Trustees is authorized to—
 
-&emsp;(1) make such rules, policies, regulations, and bylaws, not inconsistent with the Constitution and laws of the United States, as may be necessary for the good government of Gallaudet University, for the management of the property and funds of such corporation (including the construction of buildings and other facilities), and for the admission, instruction, care, and discharge of students;
+&emsp;(1) make such rules, policies, regulations, and bylaws, not inconsistent with the Constitution and laws of the United States, as may be necessary for the good government of Gallaudet University, for the management ofthe property and funds of such corporation (including the construction of buildings and other facilities), and for the admission, instruction, care, and discharge of students;
 
 &emsp;(2) provide for the adoption of a corporate seal and for its use;
 
@@ -34,35 +34,35 @@ The Board of Trustees is authorized to—
 
 &emsp;(9) control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.
 
-(Pub. L. 99 371, title I, §103, Aug. 4, 1986, 100 Stat. 782; Pub. L. 102 421, title I, §§101(c), 111, Oct. 16, 1992, 106 Stat. 2152; Pub. L. 103 73, title II, §203(c), Aug. 11, 1993, 107 Stat. 733.)
+(Pub. L. 99–371, title I, §103, Aug. 4, 1986, 100 Stat. 782; Pub. L. 102–421, title I, §§101(c), 111, Oct. 16, 1992, 106 Stat. 2152; Pub. L. 103–73, title II, §203(c), Aug. 11, 1993, 107 Stat. 733.)
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1841.3.
+Section is also set out in D.C. Code, §31–1841.3.
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in sections 691d and 691e of this title prior to repeal by Pub. L. 99 371.
+Provisions similar to this section were contained in sections 691d and 691e of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103 73, §203(c)(1), in par. (1) substituted “members who shall include—” for “members selected as follows:” in introductory provisions and inserted comma after “Association” in subpar. (B), redesignated second sentence of par. (1) as par. (2), and redesignated former par. (2) as (3).
+1993—Subsec. (a). Pub. L. 103–73, §203(c)(1), in par. (1) substituted “members who shall include—” for “members selected as follows:” in introductory provisions and inserted comma after “Association” in subpar. (B), redesignated second sentence of par. (1) as par. (2), and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 103 73, §203(c)(2), inserted comma after “facilities)” in par. (1), substituted “or hard of hearing;” for “or individuals who are hard of hearing.” in par. (4), and struck out “the provisions of” before “section 4353” in par. (8).
+Subsec. (b). Pub. L. 103–73, §203(c)(2), inserted comma after “facilities)” in par. (1), substituted “or hard of hearing;” for “or individuals who are hard of hearing.” in par. (4), and struck out “the provisions of” before “section 4353” in par. (8).
 
-1992—Subsec. (a)(1)(B). Pub. L. 102 421, §111(1), struck out “, who on August 4, 1986, shall include those individuals serving as nonpublic members of the Board of Trustees of Gallaudet College immediately prior to August 4, 1986,” after “elected by the Board of Trustees”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–421, §111(1), struck out “, who on August 4, 1986, shall include those individuals serving as nonpublic members of the Board of Trustees of Gallaudet College immediately prior to August 4, 1986,” after “elected by the Board of Trustees”.
 
-Subsec. (b)(1). Pub. L. 102 421, §111(2)(A), inserted “(including the construction of buildings and other facilities)” after “corporation”.
+Subsec. (b)(1). Pub. L. 102–421, §111(2)(A), inserted “(including the construction of buildings and other facilities)” after “corporation”.
 
-Subsec. (b)(4), (6). Pub. L. 102 421, §111(2)(B), (C), amended pars. (4) and (6) generally. Prior to amendment, pars. (4) and (6) read as follows:
+Subsec. (b)(4), (6). Pub. L. 102–421, §111(2)(B), (C), amended pars. (4) and (6) generally. Prior to amendment, pars. (4) and (6) read as follows:
 
 “(4) appoint a president, professors, instructors, and other necessary employees for Gallaudet University, delegate to them such duties as it may deem advisable, fix their compensation, and remove them when, in their judgment, the interest of Gallaudet University shall require it;
 
 “(6) establish such departments and other units, including a department of higher learning for the deaf, a department of elementary education for the instruction of deaf children, a graduate department, and a research department, as the Board deems necessary to carry out the purpose of Gallaudet University;”.
 
-Subsec. (b)(8). Pub. L. 102 421, §101(c), made technical amendment to reference to section 4353 of this title to reflect change in reference to corresponding section of original act.
+Subsec. (b)(8). Pub. L. 102–421, §101(c), made technical amendment to reference to section 4353 of this title to reflect change in reference to corresponding section of original act.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 421 effective Oct. 1, 1992, see section 161 of Pub. L. 102 421, set out as a note under section 4301 of this title.
+Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 

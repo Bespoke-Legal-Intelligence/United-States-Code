@@ -1,6 +1,6 @@
 ### §7265. Authorized activities
 
-Grants under this part shall be used to carry out activities and services described in applications approved under section 7264<sup>1</sup> of this title. In addition, grants may be used for educational, occupational, and basic skills testing services and activities, including—
+Grants under this part shall be used to carry out activities and services described in applications approved under section 7264 <sup>1</sup> of this title. In addition, grants may be used for educational, occupational, and basic skills testing services and activities, including—
 
 &emsp;(1) the establishment of systemwide or school-level policies, procedures, and plans for dropout prevention and school reentry;
 
@@ -56,11 +56,11 @@ Grants under this part shall be used to carry out activities and services descri
 
 &emsp;(23) mentoring programs.
 
-(Pub. L. 89 10, title V, §5305, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3704.)
+(Pub. L. 89–10, title V, §5305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3704.)
 
 #### References in Text
 
-Section 7264 of this title, referred to in text, was in the original “section 5304”, meaning section 5304 of Pub. L. 89 10, which was translated as reading section 5404 of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 5304, but does contain a section 5404 relating to applications for grants under this part.
+Section 7264 of this title, referred to in text, was in the original “section 5304”, meaning section 5304 of Pub. L. 89–10, which was translated as reading section 5404 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 5304, but does contain a section 5404 relating to applications for grants under this part.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

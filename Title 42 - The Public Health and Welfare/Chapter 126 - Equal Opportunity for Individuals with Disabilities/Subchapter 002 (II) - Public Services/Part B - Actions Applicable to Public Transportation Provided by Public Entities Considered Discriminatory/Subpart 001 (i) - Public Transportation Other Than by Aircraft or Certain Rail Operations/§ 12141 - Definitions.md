@@ -8,7 +8,7 @@ As used in this subpart:
 
 #### (2) Designated public transportation
 
-&emsp;The term “designated public transportation” means transportation (other than public school transportation) by bus, rail, or any other conveyance (other than transportation by aircraft or intercity or commuter rail transportation (as defined in section 12161 of this title)) that provides the general public with general or special service (including charter service) on a regular and continuing basis.
+&emsp;The term “designated public transportation” means transportation (other than public school transportation) by bus, rail, or any other conveyance (other than transportation by aircraft or intercity or commuter rail transportation (as defined in section 12161 of this title)) that provides the general publicwith general or special service (including charter service) on a regular and continuing basis.
 
 #### (3) Fixed route system
 
@@ -39,4 +39,8 @@ General Rule.—Except as provided in subsection (b), this part \[part I (§§22
 “(b)
 
 Exception.—Sections 222, 223 (other than subsection (a)), 224, 225, 227(b), 228(b), and 229 \[sections 12142, 12143(b) to (f), 12144, 12145, 12147(b), 12148(b), and 12149 of this title\] shall become effective on the date of enactment of this Act.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12209 of this title; title 2 section 1331.
 

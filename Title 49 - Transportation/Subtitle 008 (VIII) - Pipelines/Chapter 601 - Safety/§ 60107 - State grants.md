@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 50 percent of the cost of the personnel, equipment, and activities the authority reasonably requires during the next calendar year—
+General Authority.—If a State authority files an application not later than September 30of a calendar year, the Secretary of Transportation shall pay not more than 50 percent of the cost of the personnel, equipment, and activities the authority reasonably requires during the next calendar year—
 
 &emsp;(1) to carry out a safety program under a certification under section 60105 of this title or an agreement under section 60106 of this title; or
 

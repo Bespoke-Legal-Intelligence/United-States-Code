@@ -6,7 +6,7 @@ In accordance with such conditions as may be prescribed by the head of the Feder
 
 #### (b) Waiver of payments for training costs
 
-Federal agencies may waive, in whole or in part, payments from, or on behalf of, State andlocal governments for the costs of training provided under this section. Payments received by the Federal agency concerned for training under this section shall be credited to the appropriation or fund used for paying the training costs.
+Federal agencies may waive, in whole or in part, payments from, or on behalf of, State and local governments for the costs of training provided under this section. Payments received by the Federal agency concerned for training under this section shall be credited to the appropriation or fund used for paying the training costs.
 
 #### (c) Initial costs; reimbursement of other Federal agencies
 
@@ -16,7 +16,7 @@ The Office may use appropriations authorized by this chapter to pay the initial 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, as amended, known as the Intergovernmental Personnel Act of 1970, which enacted this chapter and sections 3371 to 3376 of Title 5, Government Organization and Employees, amended section 246(f) of this title, section 1304 of Title 5, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out section 4701 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, as amended, known as the Intergovernmental Personnel Act of 1970, which enacted this chapter and sections 3371 to 3376 of Title 5, GovernmentOrganization and Employees, amended section 246(f) of this title, section 1304 of Title 5, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out section 4701 of this title and Tables.
 
 #### Transfer of Functions
 

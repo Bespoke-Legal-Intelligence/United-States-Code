@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Income from the sale or exchange of any asset the basis of which is determined in whole or in part by reference to its basis in the hands of another person shall not be treated as income described in subparagraph (A) or (B) of subsection (a)(1).
+&emsp;&emsp;Income from the sale or exchange of any asset the basis of which is determined in whole or in part by reference to its basis in the hands of another person shall not betreated as income described in subparagraph (A) or (B) of subsection (a)(1).
 
 #### (B) Exception for possessions corporations, etc.
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (C) Additional requirements
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any investment made by a financial institution (or by the Government Development Bankfor Puerto Rico or the Puerto Rico Economic Development Bank) unless—
+&emsp;&emsp;Subparagraph (A) shall not apply to any investment made by a financial institution (or by the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank) unless—
 
 &emsp;&emsp;&emsp;(i) the person in whose trade or business such investment is made (or such other recipient of the investment) and the financial institution or such Bank certify to the Secretary and the Commissioner of Financial Institutions of Puerto Rico that the proceeds of the loan will be promptly used to acquire active business assets or to make other authorized expenditures, and
 
@@ -320,7 +320,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a corporation does not satisfy a condition specified in subparagraph (A) or (B) of subsection (a)(2) for any taxable year by reason of the exclusion from gross income under paragraph (1)(B), such corporation shall nevertheless be treated as satisfying such condition for such year if it makes a pro rata distribution of property after the close of such taxable year to its shareholders (designated at the time of such distribution as a distribution to meet qualification requirements) with respect to their stock in an amount which is equal to—
+&emsp;&emsp;If the Secretary determines that a corporation does not satisfy a condition specified in subparagraph (A) or (B) of subsection (a)(2) for any taxable year by reason of the exclusion from gross income under paragraph (1)(B), such corporation shall nevertheless be treated as satisfying such condition for such year if it makes a pro rata distribution of property after the close of such taxable year to its shareholders (designatedat the time of such distribution as a distribution to meet qualification requirements) with respect to their stock in an amount which is equal to—
 
 &emsp;&emsp;&emsp;(i) if the condition of subsection (a)(2)(A) is not satisfied, that portion of the gross income for the period described in subsection (a)(2)(A)—
 
@@ -348,7 +348,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;The rules contained in paragraphs (1) through (4) do not apply for any taxable yearif an election pursuant to subparagraph (F) is in effect to use one of the methods specified in subparagraph (C).
+&emsp;&emsp;The rules contained in paragraphs (1) through (4) do not apply for any taxable year if an election pursuant to subparagraph (F) is in effect to use one of the methods specified in subparagraph (C).
 
 #### (B) Eligibility
 
@@ -366,7 +366,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 &emsp;&emsp;&emsp;&emsp;(III) with respect to purchases and sales by an electing corporation of all goods not produced in whole or in part by any member of the affiliated group and sold by the electing corporation to persons other than members of the affiliated group, no less than 65 percent of the total direct labor costs of the affiliated group in connection with all purchases and sales of such goods sold during the taxable year by such electing corporation is incurred by such electing corporation and is compensation for services performed in the possession.
 
-&emsp;&emsp;&nbsp;Notwithstanding satisfaction of one of the foregoing tests, an electing corporation shall not be treated as having a significant business presence in a possession with respect to a product produced in whole or in part by the electing corporation in the possession, for purposes of an election to use the method specified in subparagraph (C)(ii), unless such product is manufactured or produced in the possession by the electing corporation within the meaning of subsection (d)(1)(A) of section 954.
+&emsp;&emsp;&nbsp;Notwithstanding satisfaction of one of the foregoing tests, an electing corporation shall not be treated as having a significant business presence in a possession with respect to a product produced in whole or inpart by the electing corporation in the possession, for purposes of an election to use the method specified in subparagraph (C)(ii), unless such product is manufactured or produced in the possession by the electing corporation within the meaning of subsection (d)(1)(A) of section 954.
 
 #### (iii) Special rules
 
@@ -402,7 +402,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 &emsp;&emsp;&emsp;&emsp;<b>(b) Affiliated group</b>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this subsection, the term “affiliated group” shall mean the electing corporation and all other organizations, trades or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, within the meaning of section 482.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this subsection, the term “affiliated group” shall mean the electing corporation and all other organizations, trades or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by thesame interests, within the meaning of section 482.
 
 &emsp;&emsp;&emsp;&emsp;<b>(c) Possession sales</b>
 
@@ -418,7 +418,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (II) Effect of election
 
-&emsp;&emsp;&emsp;&emsp;For purposes of determining the amount of its gross income derived from the active conduct of a trade or business in a possession with respect to a product produced by, or type of service rendered by, the electing corporation for a taxable year, if an election of this method is in effect, the electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of intangible property described in subsection\(h)(3)(B)(i) which is related to the units of the product produced, or type of service rendered, by the electing corporation. Such electing corporation shall not be treated as the owner (for purposes of obtaining a return thereon) of any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) or of any other nonmanufacturing intangible. Notwithstanding the preceding sentence, an electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of (a) intangible property which was developed solely by such corporation in a possession and is owned by such corporation, (b) intangible property described in subsection (h)(3)(B)(i) acquired by such corporation from a person who was not related to such corporation (or to any person related to such corporation) at the time of, or in connection with, such acquisition, and (c) any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) and other nonmanufacturing intangibles which relate to sales of units of products, or services rendered, to unrelated persons for ultimate consumption or use in the possession in which the electing corporation conducts its trade or business.
+&emsp;&emsp;&emsp;&emsp;For purposes of determining the amount of its gross income derived from the active conduct of a trade or business in a possession with respect to a product produced by, or type of service rendered by, the electing corporation for a taxable year, if an election of this method is in effect, the electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of intangible property described in subsection (h)(3)(B)(i) which is related to the units of the product produced, or type of service rendered, by the electing corporation. Such electing corporation shall not be treated as the owner (for purposes of obtaining a return thereon) of any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) or of any other nonmanufacturing intangible. Notwithstanding the preceding sentence, an electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of (a) intangible property which was developed solely by such corporation in a possession and is owned by such corporation, (b) intangible property described in subsection (h)(3)(B)(i) acquired by such corporation from a person who was not related to such corporation (or to any person related to such corporation) at the time of, or in connection with, such acquisition, and (c) any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) and other nonmanufacturing intangibles which relate to sales of units of products, or services rendered, to unrelated persons for ultimate consumption or use in the possession in which the electing corporation conducts its trade or business.
 
 #### (III) Payment provisions
 
@@ -442,7 +442,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (II) Computation of combined taxable income
 
-&emsp;&emsp;&emsp;&emsp;Combined taxable income shall be computed separately for each productproduced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
+&emsp;&emsp;&emsp;&emsp;Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
 
 #### (III) Division of combined taxable income
 
@@ -458,7 +458,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (E) Electing corporation
 
-&emsp;&emsp;For purposes of this subsection, the term “electing corporation” means a domestic corporation for which an election under this section is in effect.
+&emsp;&emsp;For purposes of this subsection, the term “electing corporation” means a domesticcorporation for which an election under this section is in effect.
 
 #### (F) Time and manner of election; revocation
 
@@ -480,7 +480,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 &emsp;&emsp;&emsp;(I) Where more than one electing corporation in the affiliated group produces any product or renders any services in the same product area, all such electing corporations must elect to compute their taxable income under the same method under subparagraph (C).
 
-&emsp;&emsp;&emsp;(II) All electing corporations in the same affiliated group that produce any products or render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a differentmethod from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
+&emsp;&emsp;&emsp;(II) All electing corporations in the same affiliated group that produce any products or render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a different method from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
 
 &emsp;&emsp;&emsp;(III) All members of an affiliated group must consent to an election under this subsection at such time and in such manner as shall be prescribed by the Secretary by regulations.
 
@@ -520,7 +520,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount of wages which may be taken into account under subparagraph (A) with respect to any employee for any taxable year shall not exceed 85 percent of the contribution and benefit base determined under section 230 of the Social Security Act for the calendar year in which such taxable year begins.
+&emsp;&emsp;&emsp;The amount of wages which may be taken into account under subparagraph (A) with respect to any employee for any taxable year shall not exceed 85 percent of the contribution and benefit base determined under section 230 of the Social SecurityAct for the calendar year in which such taxable year begins.
 
 #### (ii) Treatment of part-time employees, etc.
 
@@ -598,7 +598,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (C) Possession income taxes
 
-&emsp;&emsp;For purposes of this paragraph, the term “possession income taxes” means any taxes of a possession of the United States which are treated as not being income, war profits, or excess profits taxes paid or accrued to a possession of the United States by reason of subsection (c).
+&emsp;&emsp;For purposes of this paragraph, the term “possession income taxes” means any taxesof a possession of the United States which are treated as not being income, war profits, or excess profits taxes paid or accrued to a possession of the United States by reason of subsection (c).
 
 #### (4) Depreciation rules
 
@@ -634,7 +634,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;Any affiliated group may elect to treat all possession corporations which would be members of such group but for section 1504(b)(3) or (4) as 1 corporation for purposes of this section. The credit determined underthis section with respect to such 1 corporation shall be allocated among such possession corporations in such manner as the Secretary may prescribe.
+&emsp;&emsp;Any affiliated group may elect to treat all possession corporations which would be members of such group but for section 1504(b)(3) or (4) as 1 corporation for purposes of this section. The credit determined under this section with respect to such 1 corporation shall be allocated among such possession corporations in such manner as the Secretary may prescribe.
 
 #### (B) Election
 
@@ -726,7 +726,7 @@ Subsec. (h)(5)(C)(i)(I). Pub. L. 99–514, §1231(a)(1), as amended by Pub. L. 1
 
 Subsec. (h)(5)(C)(i)(I)(a). Pub. L. 99–514, §231(d)(3)(G), substituted “section 41(b)” for “section 30(b)”.
 
-Subsec. (h)(5)(C)(ii)(II). Pub. L. 99–514, §1231(f), substituted “all products and types of services, withinsuch product area, produced or rendered” for “all products produced and types of service rendered”.
+Subsec. (h)(5)(C)(ii)(II). Pub. L. 99–514, §1231(f), substituted “all products and types of services, within such product area, produced or rendered” for “all products produced and types of service rendered”.
 
 Pub. L. 99–514, §1231(a)(2), substituted “the third and fourth sentences thereof, but substituting ‘120 percent’ for ‘110 percent’ in the second sentence thereof)” for “the third sentence thereof)”.
 
@@ -784,7 +784,7 @@ Special rule for transfer of intangibles.—
 
 &emsp;“(A)
 
-In general.—The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting ‘August 16, 1986’ for ‘November 16, 1985’.
+In general.—The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is notto a foreign person, the preceding sentence shall be applied by substituting ‘August 16, 1986’ for ‘November 16, 1985’.
 
 &emsp;“(B)
 
@@ -880,7 +880,7 @@ Section applicable to taxable years beginning after Dec. 31, 1975, except that q
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(I) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(I) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been includedin the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

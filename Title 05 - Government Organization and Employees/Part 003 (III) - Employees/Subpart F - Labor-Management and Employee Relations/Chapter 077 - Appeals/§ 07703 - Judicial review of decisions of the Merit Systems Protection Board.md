@@ -28,9 +28,9 @@ The civil service law, referred to in subsec. (d), is set out in this title. See
 
 #### Amendments
 
-1989—Subsec. (a)(2). Pub. L. 101–12 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Board shall be the named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision issued by the Board under section 7701. In review of a final order or decision issued under section 7701, the agency responsible for taking the action appealed to the Board shall be the named respondent.”
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–12 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Board shall be the named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision issued by the Board under section 7701. In review of a final order or decision issued under section 7701, the agency responsible for taking the action appealed to the Board shall be the named respondent.”
 
-1982—Subsec. (b)(1). Pub. L. 97–164, §144(1), substituted “United States Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court ofappeals as provided in chapters 91 and 158, respectively, of title 28”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–164, §144(1), substituted “United States Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court ofappeals as provided in chapters 91 and 158, respectively, of title 28”.
 
 Subsec. (c). Pub. L. 97–164, §144(2), substituted “Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals”.
 

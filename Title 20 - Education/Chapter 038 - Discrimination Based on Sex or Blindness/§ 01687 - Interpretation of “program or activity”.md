@@ -22,19 +22,19 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
 > any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of section 1681 of this title to such operation would not be consistent with the religious tenets of such organization.
 
-(Pub. L. 92 318, title IX, §908, as added Pub. L. 100 259, §3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103 382, title III, §391(g), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 92–318, title IX, §908, as added Pub. L. 100–259, §3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103–382, title III, §391(g), Oct. 20, 1994, 108 Stat. 4023.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 92 318 which enacted this chapter and amended sections 203 and 213 of Title 29, Labor, and sections 2000c, 2000c 6, 2000c 9, and 2000h 2 of Title 42, The Public Health and Welfare. For complete classification of title IX to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 92–318 which enacted this chapter and amended sections 203 and 213 of Title 29, Labor, and sections 2000c, 2000c–6, 2000c–9, and 2000h–2 of Title 42, The Public Health and Welfare. For complete classification of title IX to the Code, see Tables.
 
 #### Amendments
 
-1994—Par. (2)(B). Pub. L. 103 382 substituted “section 8801” for “section 2854(a)(10)”.
+1994—Par. (2)(B). Pub. L. 103–382 substituted “section 8801” for “section 2854(a)(10)”.
 
 #### Findings of Congress
 
-Section 2 of Pub. L. 100 259 provided that: “The Congress finds that—
+Section 2 of Pub. L. 100–259 provided that: “The Congress finds that—
 
 &emsp;“(1) certain aspects of recent decisions and opinions of the Supreme Court have unduly narrowed or cast doubt upon the broad application of title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\]; and
 
@@ -42,9 +42,9 @@ Section 2 of Pub. L. 100 259 provided that: “The Congress finds that—
 
 #### Construction
 
-Section 7 of Pub. L. 100 259 provided that: “Nothing in the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1681 of this title\] shall be construed to extend the application of the Acts so amended \[Education Amendments of 1972, Pub. L. 92 318, see Short Title of 1972 Amendment, set out as a note under section 1001 of this title, Rehabilitation Act of 1973, 29 U.S.C. 701 et seq., Age Discrimination Act of 1975, 42 U.S.C. 6101 et seq., and Civil Rights Act of 1964, 42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before the enactment of this Act \[Mar. 22, 1988\].”
+Section 7 of Pub. L. 100–259 provided that: “Nothing in the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1681 of this title\] shall be construed to extend the application of the Acts so amended \[Education Amendments of 1972, Pub. L. 92–318, see Short Title of 1972 Amendment, set out as a note under section 1001 of this title, Rehabilitation Act of 1973, 29 U.S.C. 701 et seq., Age Discrimination Act of 1975, 42 U.S.C. 6101 et seq., and Civil Rights Act of 1964, 42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before the enactment of this Act \[Mar. 22, 1988\].”
 
 #### Abortion Neutrality
 
-This section not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100 259, set out as a note under section 1688 of this title.
+This section not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of this title.
 

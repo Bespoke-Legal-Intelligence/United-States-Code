@@ -52,7 +52,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss).
 
-&emsp;(C) Section 522a of title 5 (relating to maintenance of records on individuals).
+&emsp;(C) Section 522a <sup>1</sup> of title 5 (relating to maintenance of records on individuals).
 
 &emsp;(D) Chapter 11 of title 18 (relating to conflicts of interest).
 
@@ -111,4 +111,6 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 8171.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “552a”.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To the extent consistent with the number of eligible children identified under section6315(b) of this title in a local educational agency who are enrolled in private elementary and secondary schools, a local educational agency shall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment).
+&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in a local educational agency who are enrolled in private elementary and secondary schools, a local educational agency shall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment).
 
 #### (2) Secular, neutral, nonideological
 
@@ -100,7 +100,7 @@ If a local educational agency is prohibited by law from providing for the partic
 
 &emsp;&emsp;(D) other comparable goods and services.
 
-(Pub. L. 89 10, title I, §1120, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3557.)
+(Pub. L. 89–10, title I, §1120, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3557.)
 
 #### Section Referred to in Other Sections
 

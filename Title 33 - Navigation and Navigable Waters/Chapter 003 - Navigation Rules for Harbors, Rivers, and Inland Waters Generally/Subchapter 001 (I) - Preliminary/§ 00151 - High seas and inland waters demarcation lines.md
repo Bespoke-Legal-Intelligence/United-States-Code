@@ -16,7 +16,7 @@ For the purposes of this section, the term “United States” includes the seve
 
 #### References in Text
 
-The International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), are set out in Appendix A to Part 81 of Title 33, Code of Federal Regulations.
+For the International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
 
 #### Codification
 

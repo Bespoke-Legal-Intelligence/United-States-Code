@@ -1,6 +1,6 @@
 ### §45303. Maximum fees for private person services
 
-The Administrator of the Federal Aviation Administration may establish maximum fees that private persons may charge for services performed under a delegation to the person under section 44702(d) of this title.
+The Administrator of the Federal Aviation Administration may establish maximum feesthat private persons may charge for services performed under a delegation to the person under section 44702(d) of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Investigations and inspections
 
-The Administrator or his designated representatives may investigate and gather data regarding the wages, hours, and other conditions and practices of employment in any industry subject to this chapter, and may enter and inspect such places and such records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate to determine whether any person has violated any provision of this chapter, orwhich may aid in the enforcement of the provisions of this chapter. Except as provided in section 212 of this title and in subsection (b) of this section, the Administrator shall utilize the bureaus and divisions of the Department of Labor for all the investigations and inspections necessary under this section. Except as provided in section 212 of this title, the Administrator shall bring all actions under section 217 of this title to restrain violations of this chapter.
+The Administrator or his designated representatives may investigate and gather data regarding the wages, hours, and other conditions and practices of employment in any industry subject to this chapter, and may enter and inspect such places and such records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate to determine whether any person has violated any provision of this chapter, or which may aid in the enforcement of the provisions of this chapter. Except as provided in section 212 of this title and in subsection (b) of this section, the Administrator shall utilize the bureaus and divisions of the Department of Labor for all the investigations and inspections necessary under this section. Except as provided in section 212 of this title, the Administrator shall bring all actions under section 217 of this title to restrain violations of this chapter.
 
 #### (b) State and local agencies and employees
 
@@ -43,6 +43,10 @@ For transfer of functions of other officers, employees, and agencies of Departme
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
 Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+
+#### Definition of “Administrator”
+
+The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
 
 #### Cross References
 

@@ -26,7 +26,7 @@
 
 &emsp;(B) the hospital's low-income utilization rate (as defined in paragraph (3)) exceeds 25 percent.
 
-(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, for a hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized wardand whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
+(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, for a hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized ward and whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
 
 (3) For purposes of paragraph (1)(B), the term “low-income utilization rate” means, for a hospital, the sum of—
 
@@ -362,7 +362,7 @@ Subsec. (e). Pub. L. 100–360, §411(k)(6)(A)(vii), as amended by Pub. L. 100�
 
 #### Effective Date of 1993 Amendment
 
-Section 13621(a)(2) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[section 1396b(a) of this title\] for payments to hospitals made under State plans after—
+Section 13621(a)(2) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[section 1396b(a) of this title\] for payments to hospitals made under State plans after—
 
 &emsp;“(A) the end of the State fiscal year that ends during 1994, or
 

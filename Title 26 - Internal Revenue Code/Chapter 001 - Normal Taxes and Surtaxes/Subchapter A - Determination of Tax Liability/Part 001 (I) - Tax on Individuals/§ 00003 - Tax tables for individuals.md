@@ -72,7 +72,7 @@ Tax table income defined.—For purposes of this section, the term ‘tax table 
 
 &emsp;“(5)
 
-Section may be applied on the basis of taxable income.—The Secretary may provide that this section shall be applied for any taxable year on the basis of taxable income in lieu of tax table income.”
+Section may be applied on the basis of taxable income.—The Secretary may provide that thissection shall be applied for any taxable year on the basis of taxable income in lieu of tax table income.”
 
 Subsec. (b). Pub. L. 99–514, §141(b)(1), struck out par. (1) which read: “an individual to whom section 1301 (relating to income averaging) applies for the taxable year,” and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
@@ -118,7 +118,7 @@ Section 108(a)(2) of Pub. L. 96–222 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section and sections 119, 911, and 913 ofthis title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
+In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
 
 “(B)
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Section 301(c) of Pub. L. 88–272, as amended by by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by this section \[amending this section and sections 4 and 6014 of this title\] shall apply to taxable years beginning after December 31, 1963.”
+Section 301(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by this section \[amending this section and sections 4 and 6014 of this title\] shall apply to taxable years beginning after December 31, 1963.”
 
 #### Cross References
 

@@ -16,7 +16,7 @@
 
 &emsp;From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
 
-&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the productof the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
+&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
 &emsp;&emsp;(B) an amount that bears the same ratio to 50 percent of such remainder as the product of the school lunch factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States.
 
@@ -68,7 +68,7 @@
 
 #### (B) Services on reservations
 
-&emsp;&emsp;In the case of an applicant located in a State other than Alaska, California, or Oklahoma, programs and activities under this section will be carried out on the Indian reservation for the benefit of Indian children.
+&emsp;&emsp;In the case of an applicant located in a State other than Alaska, California, orOklahoma, programs and activities under this section will be carried out on the Indian reservation for the benefit of Indian children.
 
 #### (C) Reports and audits
 

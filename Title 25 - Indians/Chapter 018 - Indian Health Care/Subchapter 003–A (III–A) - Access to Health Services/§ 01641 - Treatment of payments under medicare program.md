@@ -2,7 +2,7 @@
 
 #### (a) Determination of appropriations
 
-Any payments received by a hospital or skilled nursing facility of the Service (whether operated by the Service or by an Indian tribe or tribal organization pursuant to a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) for services provided to Indians eligible for benefits under title XVIII of the SocialSecurity Act \[42 U.S.C. 1395 et seq.\] shall not be considered in determining appropriations for health care and services to Indians.
+Any payments received by a hospital or skilled nursing facility of the Service (whether operated by the Service or by an Indian tribe or tribal organization pursuant to a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) for services provided to Indians eligible for benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] shall not be considered in determining appropriations for health care and services to Indians.
 
 #### (b) Preferences
 

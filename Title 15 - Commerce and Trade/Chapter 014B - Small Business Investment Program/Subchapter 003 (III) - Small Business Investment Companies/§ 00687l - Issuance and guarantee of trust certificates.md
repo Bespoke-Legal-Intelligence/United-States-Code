@@ -48,7 +48,7 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 (4) The Administrator is authorized to regulate brokers and dealers in trust certificates sold pursuant to this section.
 
-(Pub. L. 85–699, title III, §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5),Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013.)
+(Pub. L. 85–699, title III, §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013.)
 
 #### References in Text
 

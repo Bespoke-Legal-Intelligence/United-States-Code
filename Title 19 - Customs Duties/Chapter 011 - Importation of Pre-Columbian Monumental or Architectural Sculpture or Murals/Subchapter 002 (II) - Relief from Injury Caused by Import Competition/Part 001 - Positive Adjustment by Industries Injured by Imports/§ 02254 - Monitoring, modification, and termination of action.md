@@ -34,7 +34,7 @@
 
 (2) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
-(3) The Commission shall transmit to the President a report on its investigation and determination under this subsection not later than60 days before the action under section 2253 of this title is to terminate, unless the President specifies a different date.
+(3) The Commission shall transmit to the President a report on its investigation and determination under this subsection not later than 60 days before the action under section 2253 of this title is to terminate, unless the President specifies a different date.
 
 #### (d) Evaluation of effectiveness of action
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) under the program authorized in part B of this subchapter, to support programs that address the national problems specified in subsection (b) of this section, other than paragraphs (10), (12), (15), and (16) of such subsection; and
 
-&emsp;(C) under the program authorized in part C of this subchapter, to support programs that address the national problems referred to in paragraphs (1), (2), (5), (6), and (10) of subsection (b) of this section.
+&emsp;(C) under the program authorized in part C of this subchapter, to support programs thataddress the national problems referred to in paragraphs (1), (2), (5), (6), and (10) of subsection (b) of this section.
 
 (3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C of this subchapter under which the program supported by such grant is to be carried out.
 

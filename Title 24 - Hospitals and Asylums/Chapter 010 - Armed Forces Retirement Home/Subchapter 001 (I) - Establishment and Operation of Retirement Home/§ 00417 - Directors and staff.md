@@ -38,7 +38,7 @@ The term of office of a Director shall be five years. A Director may be reappoin
 
 (1) Until the date on which the Secretary of Defense first appoints the Director for the establishment of the Retirement Home known as the Naval Home, the Governor of the Naval Home shall operate that facility consistent with this chapter and other laws applicable to the Retirement Home.
 
-(2) Until the date on which the Secretary of Defense first appoints the Director for the facility of the Retirement Home known as the United States Soldiers’ and Airmen's Home, the Governor of the United States Soldiers’ and Airmen's Home shall operate that establishment consistent with this chapter and other laws applicable to the Retirement Home.
+(2) Until the date on which the Secretary of Defense first appoints the Director for the facility of the Retirement Home known as the United States Soldiers’ and Airmen's Home, theGovernor of the United States Soldiers’ and Airmen's Home shall operate that establishment consistent with this chapter and other laws applicable to the Retirement Home.
 
 (Pub. L. 101–510, div. A, title XV, §1517, Nov. 5, 1990, 104 Stat. 1729; Pub. L. 102–190, div. A, title X, §1062(a)(5), Dec. 5, 1991, 105 Stat. 1475.)
 

@@ -168,7 +168,7 @@ In subsections (e) and (g), the words “Governmental Affairs . . . of the Sen
 
 In subsection (e), the words “carried out under section 712(3) of this title” are added because of the restatement. The words “legislative” before “committees”, and “respective”, are omitted as surplus. The words “executive agency” are substituted for “agencies” because of section 102 of the revised title.
 
-In subsection (f), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (f), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970\(eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 In subsection (g), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office” in 31:1172 for consistency. In clause (3), the words “committee of Congress” are substituted for “other committee of the House or Senate, or any joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words in the parentheses are included for consistency with section 101 of the revised title. The word “establishment” in 31:1157 is omitted as surplus. Clause (4) is substituted for 31:1173 to eliminate unnecessary words.
 
@@ -180,7 +180,7 @@ In subsection (i), before clause (1), the words “committee of Congress” are 
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

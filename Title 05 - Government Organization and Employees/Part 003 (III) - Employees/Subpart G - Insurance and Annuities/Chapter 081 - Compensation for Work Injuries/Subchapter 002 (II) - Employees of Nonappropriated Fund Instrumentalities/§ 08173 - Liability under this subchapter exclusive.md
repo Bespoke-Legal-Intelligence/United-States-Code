@@ -1,4 +1,4 @@
-### §8173 . Liability under this subchapter exclusive
+### §8173. Liability under this subchapter exclusive
 
 The liability of the United States or of a nonappropriated fund instrumentality described by section 2105(c) of this title, with respect to the disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2)),<sup>1</sup> of an employee referred to by sections 8171 and 8172 of this title, shall be determined as provided by this subchapter. This liability is exclusive and instead of all other liability of the United States or the instrumentality to the employee, his legal representative, spouse, dependents, next of kin, and any other person otherwise entitled to recover damages from the United States or the instrumentality because of the disability or death in a direct judicial proceeding, in a civil action, or in admiralty, or by an administrative or judicial proceeding under a workmen's compensation statute or under a Federal tort liability statute.
 
@@ -20,5 +20,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33”.
+<b>1994</b>—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(33 U.S.C. 902(2)),”.</i>
 

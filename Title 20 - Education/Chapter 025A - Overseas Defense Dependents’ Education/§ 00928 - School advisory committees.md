@@ -8,31 +8,31 @@
 
 #### (b) Election of members; regulations respecting qualifications and election procedures
 
-Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members of a school advisory committee established under this section shall be elected by individuals of voting age residing in the area to be served by the advisory committee. The Secretary of Defense shall by regulation prescribe the qualifications for election to an advisory committee and procedures for conducting elections of advisory committee members.
+Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members of a school advisory committee established under this section shall be elected by individuals of voting age residing in the area to be served by the advisorycommittee. The Secretary of Defense shall by regulation prescribe the qualifications for election to an advisory committee and procedures for conducting elections of advisory committee members.
 
 #### (c) Members to serve without pay
 
 Members of school advisory committees established under this section shall serve without pay.
 
-(Pub. L. 95 561, title XIV, §1410, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 96 88, title V, §508(j)(1), (2), Oct. 17, 1979, 93 Stat. 693; Pub. L. 99 145, title XII, §1204(b)(2), Nov. 8, 1985, 99 Stat. 720.)
+(Pub. L. 95–561, title XIV, §1410, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 96–88, title V, §508(j)(1), (2), Oct. 17, 1979, 93 Stat. 693; Pub. L. 99–145, title XII, §1204(b)(2), Nov. 8, 1985, 99 Stat. 720.)
 
 #### Amendments
 
-1985—Subsec. (a)(1). Pub. L. 99 145, §1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
+1985—Subsec. (a)(1). Pub. L. 99–145, §1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
 
-Subsec. (b). Pub. L. 99 145, §1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
+Subsec. (b). Pub. L. 99–145, §1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
 
-1979—Subsec. (a)(1). Pub. L. 96 88, §508(j)(1), substituted “parents” for “representatives of sponsors”.
+1979—Subsec. (a)(1). Pub. L. 96–88, §508(j)(1), substituted “parents” for “representatives of sponsors”.
 
-Subsec. (b). Pub. L. 96 88, §508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
+Subsec. (b). Pub. L. 96–88, §508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 88, effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96 88, set out as an Effective Date note under section 3401 of this title.
+Amendment by Pub. L. 96–88, effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ There is established in the Institute a Medication Development Program through w
 
 &emsp;(1) conduct periodic meetings with the Commissioner of Food and Drugs to discuss measures that may facilitate the approval process of drug abuse treatments;
 
-&emsp;(2) encourage and promote (through grants, contracts, international collaboration, or otherwise) expanded research programs, investigations, experiments, community trials, and studies, into the development and use of medications to treat drug addiction;
+&emsp;(2) encourage and promote (through grants, contracts, international collaboration, orotherwise) expanded research programs, investigations, experiments, community trials, and studies, into the development and use of medications to treat drug addiction;
 
 &emsp;(3) establish or provide for the establishment of research facilities;
 

@@ -28,7 +28,7 @@ It shall be an unlawful employment practice for any employer, labor organization
 
 #### (e) Businesses or enterprises with personnel qualified on basis of religion, sex, or national origin; educational institutions with personnel of particular religion
 
-Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire andemploy employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire and employ employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
+Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire and employ employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
 
 #### (f) Members of Communist Party or Communist-action or Communist-front organizations
 
@@ -38,7 +38,7 @@ As used in this subchapter, the phrase “unlawful employment practice” shall 
 
 Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to fail or refuse to hire and employ any individual for any position, for an employer to discharge any individual from any position, or for an employment agency to fail or refuse to refer any individual for employment in any position, or for a labor organization to fail or refuse to refer any individual for employment in any position, if—
 
-&emsp;(1) the occupancy of such position, or access to the premises in or upon which any part of the duties of such position is performed or is to be performed, is subject to any requirement imposed in the interest of the national security of the United States under any security program in effect pursuant to or administered under any statute of the United States or any Executive order of the President; and
+&emsp;(1) the occupancy of such position, or access to the premises in or upon which any part of the duties of such position is performed or isto be performed, is subject to any requirement imposed in the interest of the national security of the United States under any security program in effect pursuant to or administered under any statute of the United States or any Executive order of the President; and
 
 &emsp;(2) such individual has not fulfilled or has ceased to fulfill that requirement.
 
@@ -58,7 +58,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 (1)(A) An unlawful employment practice based on disparate impact is established under this subchapter only if—
 
-&emsp;(i) a complaining party demonstrates that a respondent uses a particular employmentpractice that causes a disparate impact on the basis of race, color, religion, sex, or national origin and the respondent fails to demonstrate that the challenged practice is job related for the position in question and consistent with business necessity; or
+&emsp;(i) a complaining party demonstrates that a respondent uses a particular employment practice that causes a disparate impact on the basis of race, color, religion, sex, or national origin and the respondent fails to demonstrate that the challenged practice is job related for the position in question and consistent with business necessity; or
 
 &emsp;(ii) the complaining party makes the demonstration described in subparagraph (C) with respect to an alternative employment practice and the respondent refuses to adopt such alternative employment practice.
 
@@ -106,7 +106,7 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 (3) Any action not precluded under this subsection that challenges an employment consent judgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to section 1404 of title 28.
 
-(Pub. L. 88–352, title VII, §703, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §8(a), (b), Mar. 24, 1972,86 Stat. 109; Pub. L. 102–166, title I, §§105(a), 106, 107(a), 108, Nov. 21, 1991, 105 Stat. 1074–1076.)
+(Pub. L. 88–352, title VII, §703, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §8(a), (b), Mar. 24, 1972, 86 Stat. 109; Pub. L. 102–166, title I, §§105(a), 106, 107(a), 108, Nov. 21, 1991, 105 Stat. 1074–1076.)
 
 #### References in Text
 
@@ -142,5 +142,5 @@ Subversive Activities Control Board established by act Sept. 23, 1950, ch. 1024,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 2000e, 2000e–1, 2000e–5 of this title; title 8 section 1324b; title 23 section 140.
+This section is referred to in sections 1981a, 2000e, 2000e–1, 2000e–5 of this title; title 2 section 1311; title 8 section 1324b; title 23 section 140.
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education or combinations of such institutions to assist such institutions or combinations in planning, developing, and carrying out a program to improveundergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions of higher education or combinations of such institutions seeking to create new programs or curricula in area studies, foreign languages, and other international fields.
+&emsp;The Secretary is authorized to make grants to institutions of higher education or combinations of such institutions to assist such institutions or combinations in planning, developing, and carrying out a program to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions of higher education or combinations of such institutions seeking to create new programs or curricula in area studies, foreign languages, and other international fields.
 
 #### (2) Federal share and use of funds
 
@@ -90,21 +90,21 @@
 
 The Secretary may also award grants to public and private nonprofit agencies and organizations, including professional and scholarly associations, whenever the Secretary determines such grants will make an especially significant contribution to attaining the objective of this section.
 
-(Pub. L. 89 329, title VI, §604, as added Pub. L. 96 374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1466; amended Pub. L. 99 498, title VI, §604, Oct. 17, 1986, 100 Stat. 1516; Pub. L. 102 325, title VI, §601, July 23, 1992, 106 Stat. 722.)
+(Pub. L. 89–329, title VI, §604, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1466; amended Pub. L. 99–498, title VI, §604, Oct. 17, 1986, 100 Stat. 1516; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 722.)
 
 #### Prior Provisions
 
-A prior section 1124, Pub. L. 89 329, title VI, §604, Nov. 8, 1965, 79 Stat. 1263; Pub. L. 89 752, §14, Nov. 3, 1966, 80 Stat. 1244; Pub. L. 90 575, title II, §242(b) (d), Oct. 16, 1968, 82 Stat. 1041; Pub. L. 94 482, title I, §157, Oct. 12, 1976, 90 Stat. 2156, provided for grants to institutions of higher education for projects, prior to the general revision of this subchapter by Pub. L. 96 374.
+A prior section 1124, Pub. L. 89–329, title VI, §604, Nov. 8, 1965, 79 Stat. 1263; Pub. L. 89–752, §14, Nov. 3, 1966, 80 Stat. 1244; Pub. L. 90–575, title II, §242(b)–(d), Oct. 16, 1968, 82 Stat. 1041; Pub. L. 94–482, title I, §157, Oct. 12, 1976, 90 Stat. 2156, provided for grants to institutions of higher education for projects, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, substituting present provisions for provisions authorizing grants for undergraduate international studies and foreign language programs in subsec. (a), model programs in subsec. (b), and grants to nonprofit agencies and organizations in subsec. (c).
+1992—Pub. L. 102–325 amended section generally, substituting present provisions for provisions authorizing grants for undergraduate international studies and foreign language programs in subsec. (a), model programs in subsec. (b), and grants to nonprofit agencies and organizations in subsec. (c).
 
-1986—Subsec. (a). Pub. L. 99 498, §604(a), (b), struck out “comprehensive” before “program” in two places in introductory provisions and inserted “pre-service and in-service” before “teacher” in par. (7).
+1986—Subsec. (a). Pub. L. 99–498, §604(a), (b), struck out “comprehensive” before “program” in two places in introductory provisions and inserted “pre-service and in-service” before “teacher” in par. (7).
 
-Subsecs. (b), (c). Pub. L. 99 498, §604(c), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 99–498, §604(c), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

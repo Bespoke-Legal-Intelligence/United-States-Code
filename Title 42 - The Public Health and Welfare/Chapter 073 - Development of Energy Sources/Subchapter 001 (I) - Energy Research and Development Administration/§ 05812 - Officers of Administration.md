@@ -2,7 +2,7 @@
 
 #### (a) Administrator; appointment
 
-There shall be at the head of the Administration an Administrator of Energy Research andDevelopment (hereinafter in this chapter referred to as the “Administrator”), who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. A person may not be appointed as Administrator within two years after release from active duty as a commissioned officer of a regular component of an Armed Force. The Administration shall be administered under the supervision and direction of the Administrator, who shall be responsible for the efficient and coordinated management of the Administration.
+There shall be at the head of the Administration an Administrator of Energy Research and Development (hereinafter in this chapter referred to as the “Administrator”), who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. A person may not be appointed as Administrator within two years after release from active duty as a commissioned officer of a regular component of an Armed Force. The Administration shall be administered under the supervision and direction of the Administrator, who shall be responsible for the efficient and coordinated management of the Administration.
 
 #### (b) Deputy Administrator
 
@@ -26,7 +26,7 @@ There shall be in the Administration not more than eight additional officers app
 
 #### (g) Director of Military Application; functions; qualifications; compensation
 
-The Division of Military Application transferred to and established in the Administration by section 5814(d) of this title shall be under the direction of a Director of Military Application, who shall be appointed by the Administrator and who shall serve at the pleasure of and be removable by the Administrator and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade. The functions, qualifications, and compensation of the Director of Military Application shall be the same as those provided under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], for the Assistant General Manager for Military Application.
+The Division of Military Application transferred to and established in the Administration by section 5814(d) of this title shall be under the direction of a Director of Military Application, who shall be appointed by the Administrator and who shall serve at the pleasure of and be removable by the Administrator and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade. The functions, qualifications, and compensation of the Director of Military Application shall be the same as those provided underthe Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], for the Assistant General Manager for Military Application.
 
 #### (h) Allocation of functions; responsibility for international cooperation
 

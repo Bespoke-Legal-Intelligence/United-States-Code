@@ -1,0 +1,26 @@
+### §3192. Definitions
+
+When used in this subchapter—
+
+&emsp;(1) the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
+
+&emsp;(2) the term “dean” means the dean of an accredited school or college of veterinary medicine;
+
+&emsp;(3) the term “director” means the director of a State agricultural experiment station which qualifies as an eligible institution;
+
+&emsp;(4) the term “Board” means the Animal Health Science Research Advisory Board; and
+
+&emsp;(5) the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
+
+(Pub. L. 95–113, title XIV, §1430, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 97–98, title XIV, §1427, Dec. 22, 1981, 95 Stat. 1309.)
+
+#### Amendments
+
+1981—Par. (1). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine or a State agricultural research experiment station that conducts animal health and disease research” for “any college or university having an accredited college of veterinary medicine or a department of veterinary science or animal pathology, or a similar unit conducting animal health and disease research in a State agricultural experiment station”.
+
+Par. (2). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine” for “a college or university which qualifies as an eligible institution”.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+

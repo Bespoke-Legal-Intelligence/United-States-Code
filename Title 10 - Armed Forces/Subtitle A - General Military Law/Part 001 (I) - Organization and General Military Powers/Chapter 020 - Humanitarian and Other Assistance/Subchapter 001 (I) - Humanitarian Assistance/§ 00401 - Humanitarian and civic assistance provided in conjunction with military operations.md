@@ -14,7 +14,7 @@
 
 (c)(1) Expenses incurred as a direct result of providing humanitarian and civic assistance under this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
 
-(2) Nothing in this section may be interpreted to preclude the incurring of minimal expenditures by the Department of Defense for purposes of humanitarian and civic assistance out of funds other than funds appropriated pursuant to paragraph (1), except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance.
+(2) Nothing in this section may be interpreted to preclude the incurring of minimal expenditures by the Department of Defense for purposes of humanitarian and civic assistance out offunds other than funds appropriated pursuant to paragraph (1), except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance.
 
 (d) The Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report, not later than March 1 of each year, on activities carried out under this section during the preceding fiscal year. The Secretary shall include in each such report—
 
@@ -60,9 +60,9 @@ Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Humanitarian Assistance Program for Clearing Landmines
 
@@ -94,7 +94,7 @@ Use of Funds.—Of the amount authorized to be appropriated by section 301 \[108
 
 &emsp;“(1) for activities to support the clearing of landmines for humanitarian purposes, including activities relating to the furnishing of education, training, and technical assistance;
 
-&emsp;“(2) for the provision of equipment and technology by transfer or lease to a foreign government that is participating in a landmine clearing program under this section; and
+&emsp;“(2) for the provision of equipment and technology by transfer or lease to a foreign government that isparticipating in a landmine clearing program under this section; and
 
 &emsp;“(3) for contributions to nongovernmental organizations that have experience in the clearing of landmines to support activities described in subsection (a).
 
@@ -120,7 +120,7 @@ Notifications Regarding Humanitarian Relief.—Any notification provided to the 
 
 “(d)
 
-Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to theappropriate congressional committees a report on the activities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547, and 2551 of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
+Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on the activities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547, and 2551 of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
 
 “(2) The report shall be submitted at the same time that the President submits the budget for fiscal year 1995 to Congress pursuant to section 1105 of title 31, United States Code.
 
@@ -142,11 +142,13 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That whe
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 103–335, title VIII, §8011, Sept. 30, 1994, 108 Stat. 2619, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported to Congress on September 30 of each year: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
+Pub. L. 104–61, title VIII, §8011, Dec. 1, 1995, 109 Stat. 653, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported to Congress on September 30 of each year: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–335, title VIII, §8011, Sept. 30, 1994, 108 Stat. 2619.
 
 Pub. L. 103–139, title VIII, §8012, Nov. 11, 1993, 107 Stat. 1439.
 

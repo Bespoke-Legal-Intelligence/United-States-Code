@@ -14,7 +14,7 @@ As used in and for the purposes of this subchapter—
 
 (c) Expect <sup>1</sup> as provided in subsection (d) of this section, the term “agent of a foreign principal” means—
 
-&emsp;(1) any person who acts as an agent, representative, employee, or servant, or any person who acts in any other capacity at the order, request, or under the direction or control, of a foreign principal or of a person any of whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in major part by a foreign principal, and who directly or through any other person—
+&emsp;(1) any person who acts as an agent, representative, employee, or servant, or any person who acts in any other capacity at theorder, request, or under the direction or control, of a foreign principal or of a person any of whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in major part by a foreign principal, and who directly or through any other person—
 
 &emsp;&emsp;(i) engages within the United States in political activities for or in the interests of such foreign principal;
 
@@ -38,7 +38,7 @@ As used in and for the purposes of this subchapter—
 
 (i) The term “information-service employee” includes any person who is engaged in furnishing, disseminating, or publishing accounts, descriptions, information, or data with respect to the political, industrial, employment, economic, social, cultural, or other benefits, advantages, facts, or conditions of any country other than the United States or of any government of a foreign country or of a foreign political party or of a partnership, association, corporation, organization, or other combination of individuals organized under the laws of, or having its principal place of business in, a foreign country;
 
-(j) The term “political propaganda” includes any oral, visual, graphic, written, pictorial, or other communication or expression by any person (1) which is reasonably adapted to, or which the person disseminating the same believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, or in any other way influence a recipient or any section of the public within the United States with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party or with reference to the foreign policies of the United States or promote in the United States racial, religious, or social dissensions, or (2) which advocates, advises, instigates, or promotes any racial, social, political, or religious disorder, civil riot, or other conflict involving the use of force or violence in any other American republic or the overthrow of any government or political subdivision of any other American republic by any means involving the use of force or violence. As used in this subsection the term “disseminating” includes transmitting or causing to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce or offering or causing to be offered in the United States mails;
+(j) Repealed. Pub. L. 104–65, §9(1)(A), Dec. 19, 1995, 109 Stat. 699.
 
 (k) The term “registration statement” means the registration statement required to be filed with the Attorney General under section 612(a) of this title, and any supplements thereto required to be filed under section 612(b) of this title, and includes all documents and papers required to be filed therewith or amendatory thereof or supplemental thereto, whether attached thereto or incorporated therein by reference;
 
@@ -46,15 +46,13 @@ As used in and for the purposes of this subchapter—
 
 (m) The term “United States”, when used in a geographical sense, includes the several States, the District of Columbia, the Territories, the Canal Zone, the insular possessions, and all other places now or hereafter subject to the civil or military jurisdiction of the United States;
 
-(n) The term “prints” means newspapers and periodicals, books, pamphlets, sheet music, visiting cards, address cards, printing proofs, engravings, photographs, pictures, drawings, plans, maps, patterns to be cut out, catalogs, prospectuses, advertisements, and printed, engraved, lithographed, or autographed notices of various kinds, and, in general, all impressions or reproductions obtained on paper or other material assimilable to paper, on parchment or on cardboard, by means of printing, engraving, lithography, autography, or any other easily recognizable mechanical process, with the exception of the copying press, stamps with movable or immovable type, and the typewriter;
+(n) The term “prints” means newspapers and periodicals, books, pamphlets, sheet music, visiting cards, address cards, printing proofs, engravings, photographs, pictures, drawings, plans, maps, patterns to be cut out, catalogs, prospectuses, advertisements, and printed, engraved, lithographed, or autographed notices of various kinds, and, in general, all impressions or reproductions obtained on paper or other material assimilable to paper, on parchment or oncardboard, by means of printing, engraving, lithography, autography, or any other easily recognizable mechanical process, with the exception of the copying press, stamps with movable or immovable type, and the typewriter;
 
-(<i>o</i>) The term “political activities” means the dissemination of political propaganda and any other activity which the person engaging therein believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, persuade, or in any other way influence any agency or official of the Government of the United States or any section of the public within the United States with reference to formulating, adopting, or changing the domestic or foreign policies of the United States or with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party;
+(<i>o</i>) The term “political activities” means any activity that the person engaging in believes will, or that the person intends to, in any way influence any agency or official of the Government of the United States or any section of the public within the United States with reference to formulating, adopting, or changing the domestic or foreign policies of the United States or with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party;
 
-(p) The term “political consultant” means any person who engages in informing or advising any other person with reference to the domestic or foreign policies of the United States or the political or public interest, policies, or relations of a foreign country or of a foreign political party;
+(p) The term “political consultant” means any person who engages in informing or advising any other person with reference to the domestic or foreign policies of the United States or the political or public interest, policies, or relations of a foreign country or of a foreign political party.
 
-(q) For the purpose of section 613(d) of this title, activities in furtherance of the bona fide commercial, industrial or financial interests of a domestic person engaged in substantial commercial, industrial or financial operations in the United States shall not be deemed to serve predominantly a foreign interest because such activities also benefit the interests of a foreign person engaged in bona fide trade or commerce which is owned or controlled by, or which owns or controls, such domestic person: <i>Provided</i>, That (i) such foreign person is not, and such activities are not directly or indirectly supervised, directed, controlled, financed or subsidized in whole or in substantial part by, a government of a foreign country or a foreign political party, (ii) the identity of such foreign person is disclosed to the agency or official of the United States with whom such activities are conducted, and (iii) whenever such foreign person owns or controls such domestic person, such activities are substantially in furtherance of the bona fide commercial, industrial or financial interests of such domestic person.
-
-(June 8, 1938, ch. 327, §1, 52 Stat. 631; Aug. 7, 1939, ch. 521, §1, 53 Stat. 1244; Apr. 29, 1942, ch. 263, §1, 56 Stat. 249; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Sept. 23, 1950, ch. 1024, title I, §20(a), 64 Stat. 1005; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Oct. 4, 1961, Pub. L. 87–366, §1, 75 Stat. 784; July 4, 1966, Pub. L. 89–486, §1, 80 Stat. 244; Aug. 12, 1970, Pub. L. 91–375, §6(k), 84 Stat. 782.)
+(June 8, 1938, ch. 327, §1, 52 Stat. 631; Aug. 7, 1939, ch. 521, §1, 53 Stat. 1244; Apr. 29, 1942, ch. 263, §1, 56 Stat. 249; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Sept. 23, 1950, ch. 1024, title I, §20(a), 64 Stat. 1005; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Oct. 4, 1961, Pub. L. 87–366, §1, 75 Stat. 784; July 4, 1966, Pub. L. 89–486, §1, 80 Stat. 244; Aug. 12, 1970, Pub. L. 91–375, §6(k), 84 Stat. 782; Dec. 19, 1995, Pub. L. 104–65, §9(1), 109 Stat. 699.)
 
 #### References in Text
 
@@ -65,6 +63,14 @@ For definition of Canal Zone, referred to in subsec. (m), see section 3602(b) of
 Words “including the Philippine Islands,” omitted from definition of “United States” in subsec. (m) pursuant to Proc. No. 2695, which granted independence to the Philippines under the authority of section 1394 of this title, under which section Proc. No. 2695 is set out as a note.
 
 #### Amendments
+
+1995—Subsec. (j). Pub. L. 104–65, §9(1)(A), struck out subsec. (j) which read as follows: “The term ‘political propaganda’ includes any oral, visual, graphic, written, pictorial, or other communication or expression by any person (1) which is reasonably adapted to, or which the person disseminating the same believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, or in any other way influence a recipient or any section of the public within the United States with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party or with reference to the foreign policies of the United States or promote in the United States racial, religious, or social dissensions, or (2) which advocates, advises, instigates, or promotes any racial, social, political, or religious disorder, civil riot, or other conflict involving the use of force or violence in any other American republic or the overthrow of any government or political subdivision of any other American republic by any means involving the use of force or violence. As used in this subsection the term ‘disseminating’ includes transmitting or causing to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce or offering or causing to be offered in the United States mails;”.
+
+Subsec. (<i>o</i>). Pub. L. 104–65, §9(1)(B), substituted “any activity that the person engaging in believes will, or that the person intends to, in any way influence” for “the dissemination of political propaganda and any other activity which the person engaging therein believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, persuade, or in any other way influence”.
+
+Subsec. (p). Pub. L. 104–65, §9(1)(C), substituted a period for semicolon at end.
+
+Subsec. (q). Pub. L. 104–65, §9(1)(D), struck out subsec. (q) which read as follows: “For the purpose of section 613(d) of this title, activities in furtherance of the bona fide commercial, industrial or financial interests of a domestic person engaged in substantial commercial, industrial or financial operations in the United States shall not be deemed to serve predominantly a foreign interest because such activities also benefit the interests of a foreign person engaged in bona fide trade or commerce which is owned or controlled by, or which owns or controls, such domestic person: <i>Provided</i>, That (i) such foreign person is not, and such activities are not directly or indirectly supervised, directed, controlled, financed or subsidized in whole or in substantial part by, a government of a foreign country or a foreign political party, (ii) the identity of such foreign person is disclosed to the agency or official of the United States with whom such activities are conducted, and (iii) whenever such foreign person owns or controls such domestic person, such activities are substantially in furtherance of the bona fide commercial, industrial or financial interests of such domestic person.”
 
 1970—Subsec. (d). Pub. L. 91–375 substituted “file with the United States Postal Service information in compliance with section 3611 of title 39” for “file with the Postmaster General a sworn statement in compliance with section 2 of the Act of August 24, 1912 (37 Stat. 553), as amended”.
 
@@ -80,13 +86,17 @@ Subsecs. (<i>o</i>) to (q). Pub. L. 89–486, §1(5), added subsecs. (<i>o</i>) 
 
 1961—Subsec. (b)(6). Pub. L. 87–366 added par. (6).
 
-1956—Subsec. (c)(5). Act Aug. 1, 1956, repealed par. (5) which included within definition of “agent of a foreign principal” any person trained in foreign espionage systems with certain exceptions. See sections 851 and 852 of Title 50, War and National Defense.
+1956—Subsec. (c)(5). Act Aug. 1, 1956, repealed par. (5) which included within definition of “agent of a foreignprincipal” any person trained in foreign espionage systems with certain exceptions. See sections 851 and 852 of Title 50, War and National Defense.
 
 1950—Subsec. (c)(5). Act Sept. 23, 1950, added par. (5).
 
 1942—Act Apr. 29, 1942, amended section generally to redefine terms used in this subchapter.
 
 1939—Act Aug. 7, 1939, amended section generally to redefine terms used in this subchapter.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
 #### Effective Date of 1970 Amendment
 
@@ -134,7 +144,7 @@ Registration functions of the Secretary of State transferred to the Attorney Gen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 618, 4002 of this title; title 2 section 441e; title 15 section 4809; title 18 section 207.
+This section is referred to in section 613 of this title; title 2 sections 441e, 1602; title 15 section 4809; title 18 section 207.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Except”.</i>
 

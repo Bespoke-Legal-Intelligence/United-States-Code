@@ -16,7 +16,7 @@ With respect to adolescent health, the Secretary shall—
 
 &emsp;&emsp;(C) projects of research (including multidisciplinary projects) on adolescent health; and
 
-&emsp;&emsp;(D) the training of health providers who work with adolescents, particularly nursepractitioners, physician assistants, and social workers;
+&emsp;&emsp;(D) the training of health providers who work with adolescents, particularly nurse practitioners, physician assistants, and social workers;
 
 &emsp;(2) coordinate the activities described in paragraph (1) with similar activities in the private sector; and
 
@@ -46,7 +46,7 @@ For purposes of this section, the term “adolescent health”, with respect to 
 
 &emsp;(1) unique to adolescents, or more serious or more prevalent in adolescents;
 
-&emsp;(2) for which the factors of medical risk or types of medical intervention are different for adolescents, or for which it is unknown whether such factors or types are different for adolescents; or
+&emsp;(2) for which the factors of medical risk or types of medical intervention are different foradolescents, or for which it is unknown whether such factors or types are different for adolescents; or
 
 &emsp;(3) with respect to which there has been insufficient clinical research involving adolescents as subjects or insufficient clinical data on adolescents.
 
@@ -58,7 +58,7 @@ A prior section 300u–7, act July 1, 1944, ch. 373, title XVII, §1708, as adde
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

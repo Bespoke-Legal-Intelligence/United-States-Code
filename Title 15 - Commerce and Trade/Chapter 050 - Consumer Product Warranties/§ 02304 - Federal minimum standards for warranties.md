@@ -10,7 +10,7 @@ In order for a warrantor warranting a consumer product by means of a written war
 
 &emsp;(3) such warrantor may not exclude or limit consequential damages for breach of any written or implied warranty on such product, unless such exclusion or limitation conspicuously appears on the face of the warranty; and
 
-&emsp;(4) if the product (or a component part thereof) contains a defect or malfunction after a reasonable number of attempts by the warrantor to remedy defects or malfunctions insuch product, such warrantor must permit the consumer to elect either a refund for, or replacement without charge of, such product or part (as the case may be). The Commission may by rule specify for purposes of this paragraph, what constitutes a reasonable number of attempts to remedy particular kinds of defects or malfunctions under different circumstances. If the warrantor replaces a component part of a consumer product, such replacement shall include installing the part in the product without charge.
+&emsp;(4) if the product (or a component part thereof) contains a defect or malfunction after a reasonable number of attempts by the warrantor to remedy defects or malfunctions in such product, such warrantor must permit the consumer to elect either a refund for, or replacement without charge of, such product or part (as the case may be). The Commission may by rule specify for purposes of this paragraph, what constitutes a reasonable number of attempts to remedy particular kinds of defects or malfunctions under different circumstances. If the warrantor replaces a component part of a consumer product, such replacement shall include installing the part in the product without charge.
 
 #### (b) Duties and conditions imposed on consumer by warrantor
 
@@ -34,9 +34,9 @@ For purposes of this section and of section 2302(c) of this title, the term “w
 
 If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under section 2310(d) of this title or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
 
-(Pub. L. 93 637, title I, §104, Jan. 4, 1975, 88 Stat. 2187.)
+(Pub. L. 93–637, title I, §104, Jan. 4, 1975, 88 Stat. 2187.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2301, 2303, 2308, 2311 of title.
+This section is referred to in sections 2301, 2303, 2308, 2311 of this title.
 

@@ -58,7 +58,7 @@ The navigation laws, referred to in subsecs. (a)(1)(A), (B)(ii), and (b)(1)(A), 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §619, 42 Stat. 988. That section was superseded by section 619 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §619, 42 Stat. 988. That section was superseded by section 619 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions somewhat similar to those in this section, but applicable in part to any officer of the customs or other person, were contained in act June 22, 1874, ch. 391, §4, 18 Stat. 186. Section 3 of the 1874 act required the Secretary of the Treasury to make suitable compensation in certain cases, as thereinafter provided, made an appropriation and required payments to be reported to Congress. Section 6 required claims to compensation to be established to the satisfaction of the court or judge, and required satisfactory proof when the fine, etc., was collected without judicial proceedings. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

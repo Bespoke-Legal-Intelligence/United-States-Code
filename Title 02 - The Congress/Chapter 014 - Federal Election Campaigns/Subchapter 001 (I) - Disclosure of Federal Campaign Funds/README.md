@@ -24,7 +24,7 @@ This subchapter is referred to in section 455 of this title.
 - [&sect; 00437g - Enforcement](%C2%A7%2000437g%20-%20Enforcement.md)
 - [&sect; 00437h - Judicial review](%C2%A7%2000437h%20-%20Judicial%20review.md)
 - [&sect; 00438 - Administrative provisions](%C2%A7%2000438%20-%20Administrative%20provisions.md)
-- [&sect; 00439 - Statements filed with State officers; &#8220;appropriate State&#8221; defined; duties of State officers](%C2%A7%2000439%20-%20Statements%20filed%20with%20State%20officers%3B%20%E2%80%9Cappropriate%20State%E2%80%9D%20defined%3B%20duties%20of%20State%20officers.md)
+- [&sect; 00439 - Statements filed with State officers; &#8220;appropriate State&#8221; defined; duties of State officers; waiver of duplicate filing requirement&#8230;](%C2%A7%2000439%20-%20Statements%20filed%20with%20State%20officers%3B%20%E2%80%9Cappropriate%20State%E2%80%9D%20defined%3B%20duties%20of%20State%20officers%3B%20waiver%20of%20duplicate%20filing%20requirement%E2%80%A6.md)
 - [&sect; 00439a - Use of contributed amounts for certain purposes](%C2%A7%2000439a%20-%20Use%20of%20contributed%20amounts%20for%20certain%20purposes.md)
 - [&sect; 00439b - Repealed. Pub. L. 96&#8211;187, title I, &sect;105(1), Jan. 8, 1980, 93 Stat. 1354](%C2%A7%2000439b%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93187%2C%20title%20I%2C%20%C2%A7105%281%29%2C%20Jan.%208%2C%201980%2C%2093%20Stat.%201354.md)
 - [&sect; 00439c - Authorization of appropriations](%C2%A7%2000439c%20-%20Authorization%20of%20appropriations.md)

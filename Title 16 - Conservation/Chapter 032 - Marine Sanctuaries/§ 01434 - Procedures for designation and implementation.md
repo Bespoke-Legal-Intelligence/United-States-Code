@@ -44,7 +44,7 @@
 
 #### (4) Terms of designation
 
-&emsp;The terms of designation of a sanctuary shall include the geographic area proposed to be included within the sanctuary, the characteristics of the area that give it conservation, recreational, ecological, historical, research, educational, or esthetic value, and the types of activities that will be subject to regulation by the Secretary to protect those characteristics. The terms of designation may be modified only by the same procedures by which the original designation is made.
+&emsp;The terms of designation of a sanctuary shall include the geographic area proposed to be included within the sanctuary, the characteristics of the area that give it conservation, recreational, ecological, historical, research,educational, or esthetic value, and the types of activities that will be subject to regulation by the Secretary to protect those characteristics. The terms of designation may be modified only by the same procedures by which the original designation is made.
 
 #### (5) Fishing regulations
 
@@ -52,7 +52,7 @@
 
 #### (6) Committee action
 
-&emsp;After receiving the documents under subsection (a)(1)(C) of this section, the Committeeon Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
+&emsp;After receiving the documents under subsection (a)(1)(C) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
 
 #### (b) Taking effect of designations
 
@@ -132,7 +132,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the
 
 Subsec. (b)(2). Pub. L. 102–587, §2104(b)(2), substituted “actions taken under paragraph (1)” for “actions taken under paragraph (1)(A) or (B)” and “terms of the designation not certified under paragraph (1)” for “terms of the designation not disapproved under paragraph (1)(A) or not certified under paragraph (1)(B)”.
 
-Subsec. (b)(3), (4). Pub. L. 102–587, §2104(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which defined a Congressional resolution of disapproval for purposes of this subsection.
+Subsec. (b)(3), (4). Pub. L. 102–587, §2104(b)(3), redesignated par. (4) as (3) and struck out former par. (3) whichdefined a Congressional resolution of disapproval for purposes of this subsection.
 
 Subsec. (c)(1). Pub. L. 102–587, §2104(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this chapter shall be construed as terminating or granting to the Secretary the right to terminate any valid lease, permit, license, or right of subsistence use or of access if the lease, permit, license, or right—
 
@@ -158,7 +158,7 @@ Subsecs. (d), (e). Pub. L. 102–587, §2104(d), added subsecs. (d) and (e).
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiongiven primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

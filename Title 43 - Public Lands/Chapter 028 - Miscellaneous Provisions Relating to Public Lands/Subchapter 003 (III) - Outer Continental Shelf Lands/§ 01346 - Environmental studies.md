@@ -22,15 +22,17 @@ The Secretary shall consider available relevant environmental information in mak
 
 #### (e) Assessment of cumulative effects of activities on environment; submission to Congress
 
-As soon as practicable after the end of each fiscal year, the Secretary shall submit to the Congress and make available to the general public an assessment of the cumulative effect of activities conducted under this subchapter on the human, marine, and coastal environments.
+As soon as practicable after the end of every 3 fiscal years, the Secretary shall submit to the Congress and make available to the general public an assessment of the cumulative effect of activities conducted under this subchapter on the human, marine, and coastal environments.
 
 #### (f) Utilization of capabilities of Department of Commerce
 
 In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basis the capabilities of the Department of Commerce. In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
 
-(Aug. 7, 1953, ch. 345, §20, as added Sept. 18, 1978, Pub. L. 95–372, title II, §208, 92 Stat. 653; amended Oct. 31, 1994, Pub. L. 103–426, §1(b), 108 Stat. 4371.)
+(Aug. 7, 1953, ch. 345, §20, as added Sept. 18, 1978, Pub. L. 95–372, title II, §208, 92 Stat. 653; amended Oct. 31, 1994, Pub. L. 103–426, §1(b), 108 Stat. 4371; Dec. 21, 1995, Pub. L. 104–66, title I, §1082(b), 109 Stat. 722.)
 
 #### Amendments
+
+1995—Subsec. (e). Pub. L. 104–66 substituted “every 3 fiscal years” for “each fiscal year”.
 
 1994—Subsec. (a)(1). Pub. L. 103–426, §1(b)(1), inserted “or other lease” after “any oil and gas lease sale” and “or other mineral” after “affected by oil and gas”.
 

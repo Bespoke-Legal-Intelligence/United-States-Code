@@ -6,7 +6,7 @@ For the purposes of sections 13f to 13p of this title the Supreme Court grounds 
 
 #### Amendments
 
-1982—Pub. L. 97–390 inserted provision that in addition to the property already referred to, for the purposes of sections 13f to 13p of this title, the Supreme Court grounds are comprised of any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the United States in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the United States Supreme Court Building.
+1982—Pub. L. 97–390 inserted provision that in addition to the property already referred to, for the purposes of sections 13f to 13p of this title, the Supreme Court grounds are comprised of any property under thecustody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the United States in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the United States Supreme Court Building.
 
 #### United States Supreme Court Building; Acquisition of Certain Real Property
 

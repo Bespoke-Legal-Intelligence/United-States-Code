@@ -1,4 +1,4 @@
-### §742 . Rank: warrant officers
+### §742. Rank: warrant officers
 
 (a) Among warrant officer grades, warrant officer grades of a higher numerical designation are senior to warrant officer grades of a lower numerical designation.
 

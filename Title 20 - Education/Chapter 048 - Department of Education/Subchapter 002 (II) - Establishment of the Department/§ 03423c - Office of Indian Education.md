@@ -14,7 +14,7 @@ There shall be an Office of Indian Education (referred to in this section as “
 
 &emsp;The Director shall—
 
-&emsp;&emsp;(A) be responsible for administering this title;<sup>1</sup>
+&emsp;&emsp;(A) be responsible for administering this title; <sup>1</sup>
 
 &emsp;&emsp;(B) be involved in, and be primarily responsible for, the development of all policies affecting Indian children and adults under programs administered by the Office of Elementary and Secondary Education;
 
@@ -32,17 +32,17 @@ There shall be an Office of Indian Education (referred to in this section as “
 
 &emsp;Such preference shall be implemented in the same fashion as the preference given to any veteran under section 45 of title 25.
 
-(Pub. L. 96 88, title II, §215, as added Pub. L. 103 382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3977.)
+(Pub. L. 96–88, title II, §215, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3977.)
 
 #### References in Text
 
-This title, referred to in subsec. (b)(2)(A), is title II of Pub. L. 96 88, Oct. 17, 1979, 93 Stat. 671, which is classified to this subchapter, but probably should have been a reference to part A of title IX of the Elementary and Secondary Education Act of 1965. Part A of title IX of that Act is classified generally to part A (§7801 et seq.) of subchapter IX of chapter 70 of this title. For complete classification of the Elementary and Secondary Education Act of 1965 to the Code, see Short Title note set out under section 6301 of this title and Tables.
+This title, referred to in subsec. (b)(2)(A), is title II of Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 671, which is classified to this subchapter, but probably should have been a reference to part A of title IX of the Elementary and Secondary Education Act of 1965. Part A of title IX of that Act is classified generally to part A (§7801 et seq.) of subchapter IX of chapter 70 of this title. For complete classification of the Elementary and Secondary Education Act of 1965 to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 215 of Pub. L. 96 88 was renumbered section 217 and is classified to section 3424 of this title.
+A prior section 215 of Pub. L. 96–88 was renumbered section 217 and is classified to section 3424 of this title.
 
-Provisions similar to those in this section were contained in section 2641 of Title 25, Indians, prior to repeal by Pub. L. 103 382, §367.
+Provisions similar to those in this section were contained in section 2641 of Title 25, Indians, prior to repeal by Pub. L. 103–382, §367.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,19 +58,19 @@ Any display or representation, with respect to the automotive fuel requirement o
 
 &emsp;(2) may be used as a fuel in such motor vehicle under all operating conditions without knocking.
 
-(Pub. L. 95 297, title II, §202, June 19, 1978, 92 Stat. 334; Pub. L. 102 486, title XV, §1501(c)(2), Oct. 24, 1992, 106 Stat. 2997.)
+(Pub. L. 95–297, title II, §202, June 19, 1978, 92 Stat. 334; Pub. L. 102–486, title XV, §1501(c)(2), Oct. 24, 1992, 106 Stat. 2997.)
 
 #### Amendments
 
-1992—Pub. L. 102 486 amended section as follows: substituted “Automotive fuel rating” for “Octane” in section catchline; substituted “automotive fuel rating” and “automotive fuel ratings” for “octane rating” and “octane ratings”, respectively, wherever appearing; in subsecs. (a) and (b), substituted “fuel” for “gasoline” wherever appearing; in subsec. (c), substituted “automotive fuel” for “gasoline” wherever appearing except that “fuel” substituted for second reference to “gasoline”; in subsec. (d), substituted “automotive fuel” for “octane”; in subsec. (e), substituted “fuel” for “gasoline” wherever appearing and substituted “fuel's” for “gasoline's”; in subsecs. (f), (g), and (h), substituted “fuel” for “gasoline” wherever appearing; and in subsec. (h), substituted “automotive fuel requirement” for “octane requirement” wherever appearing.
+1992—Pub. L. 102–486 amended section as follows: substituted “Automotive fuel rating” for “Octane” in section catchline; substituted “automotive fuel rating” and “automotive fuel ratings” for “octane rating” and “octane ratings”, respectively, wherever appearing; in subsecs. (a) and (b), substituted “fuel” for “gasoline” wherever appearing; in subsec. (c), substituted “automotive fuel” for “gasoline” wherever appearing except that “fuel” substituted for second reference to “gasoline”; in subsec. (d), substituted “automotive fuel” for “octane”; in subsec. (e), substituted “fuel” for “gasoline” wherever appearing and substituted “fuel's” for “gasoline's”; in subsecs. (f), (g), and (h), substituted“fuel” for “gasoline” wherever appearing; and in subsec. (h), substituted “automotive fuel requirement” for “octane requirement” wherever appearing.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 486 effective at end of one-year period beginning Oct. 24, 1992, see section 1501(d)(1) of Pub. L. 102 486, set out as a note under section 2821 of this title.
+Amendment by Pub. L. 102–486 effective at end of one-year period beginning Oct. 24, 1992, see section 1501(d)(1) of Pub. L. 102–486, set out as a note under section 2821 of this title.
 
 #### Effective Date
 
-Section 205 of Pub. L. 95 297 provided that:
+Section 205 of Pub. L. 95–297 provided that:
 
 “(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[section 2823(b) of this title\] shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
 
@@ -80,7 +80,7 @@ Section 205 of Pub. L. 95 297 provided that:
 
 #### Studies
 
-Section 1503 of Pub. L. 102 486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed Federal Trade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
+Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed Federal Trade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
 
 #### Section Referred to in Other Sections
 

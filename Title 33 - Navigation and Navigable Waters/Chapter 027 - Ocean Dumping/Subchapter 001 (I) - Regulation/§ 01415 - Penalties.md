@@ -40,7 +40,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 &emsp;(A) prior to sixty days after notice of the violation has been given to the Administrator or to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
 
-&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action ina court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
+&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
 
 &emsp;(C) if the Administrator has commenced action to impose a penalty pursuant to subsection (a) of this section, or if the Administrator, or the Secretary, has initiated permit revocation or suspension proceedings under subsection (f) of this section; or
 

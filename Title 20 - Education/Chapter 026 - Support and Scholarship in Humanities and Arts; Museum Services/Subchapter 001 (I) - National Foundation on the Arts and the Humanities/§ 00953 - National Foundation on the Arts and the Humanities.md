@@ -12,13 +12,13 @@ The purpose of the Foundation shall be to develop and promote a broadly conceive
 
 In the administration of this subchapter no department, agency, officer, or employee of the United States shall exercise any direction, supervision, or control over the policy determination, personnel, or curriculum, or the administration or operation of any school or other non-Federal agency, institution, organization, or association.
 
-(Pub. L. 89 209, §4, Sept. 29, 1965, 79 Stat. 846; renumbered title I, §4, and amended Pub. L. 98 306, §§2, 4, May 31, 1984, 98 Stat. 223; renumbered §4 and amended Pub. L. 99 194, title I, §§101(1), 104, Dec. 20, 1985, 99 Stat. 1332, 1333.)
+(Pub. L. 89–209, §4, Sept. 29, 1965, 79 Stat. 846; renumbered title I, §4, and amended Pub. L. 98–306, §§2, 4, May 31, 1984, 98 Stat. 223; renumbered §4 and amended Pub. L. 99–194, title I, §§101(1), 104, Dec. 20, 1985, 99 Stat. 1332, 1333.)
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99 194, §104, struck out a second comma after “a National Endowment for the Humanities” and “(hereinafter established)” after “Institute of Museum Services”.
+1985—Subsec. (a). Pub. L. 99–194, §104, struck out a second comma after “a National Endowment for the Humanities” and “(hereinafter established)” after “Institute of Museum Services”.
 
-1984—Subsec. (a). Pub. L. 98 306, §4(a), substituted “, a Federal Council” for “and a Federal Council” and inserted “, and an Institute of Museum Services”.
+1984—Subsec. (a). Pub. L. 98–306, §4(a), substituted “, a Federal Council” for “and a Federal Council” and inserted “, and an Institute of Museum Services”.
 
-Subsec. (b). Pub. L. 98 306, §4(b), inserted “, and for institutions which preserve the cultural heritage of the United States”.
+Subsec. (b). Pub. L. 98–306, §4(b), inserted “, and for institutions which preserve the cultural heritage of the United States”.
 

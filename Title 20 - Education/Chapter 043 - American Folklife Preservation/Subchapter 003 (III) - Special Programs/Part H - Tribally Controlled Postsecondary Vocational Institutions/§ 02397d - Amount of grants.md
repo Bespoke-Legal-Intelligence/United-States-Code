@@ -34,5 +34,5 @@ Each institution receiving payments under this part shall annually provide to th
 
 (2) For the purposes of carrying out this subsection, the Secretary may require from each institution the submission of such information relating to the feasibility of such training programs as is reasonable and practical.
 
-(Pub. L. 88 210, title III, §386, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 801.)
+(Pub. L. 88–210, title III, §386, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 801.)
 

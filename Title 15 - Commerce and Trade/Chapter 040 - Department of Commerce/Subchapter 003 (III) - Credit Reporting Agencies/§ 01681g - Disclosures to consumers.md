@@ -20,15 +20,15 @@ Every consumer reporting agency shall, upon request and proper identification of
 
 The requirements of subsection (a) of this section respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
 
-(Pub. L. 90 321, title VI, §609, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103 325, title III, §339, Sept. 23, 1994, 108 Stat. 2237.)
+(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131;amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237.)
 
 #### References in Text
 
-For the effective date of this subchapter, referred to in subsec. (b), see section 504(d) of Pub. L. 90 321, set out as an Effective Date note under section 1681 of this title.
+For the effective date of this subchapter, referred to in subsec. (b), see section 504(d) of Pub. L. 90–321, set out as an Effective Date note under section 1681 of this title.
 
 #### Amendments
 
-1994—Subsec. (a)(4). Pub. L. 103 325 added par. (4).
+1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
 
 #### Section Referred to in Other Sections
 

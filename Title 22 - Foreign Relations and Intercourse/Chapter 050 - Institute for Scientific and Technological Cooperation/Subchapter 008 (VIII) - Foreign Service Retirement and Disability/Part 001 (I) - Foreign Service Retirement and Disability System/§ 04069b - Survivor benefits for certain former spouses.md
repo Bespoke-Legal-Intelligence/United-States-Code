@@ -2,7 +2,7 @@
 
 #### (a) Eligibility; amount of annuity
 
-Any individual who was a former spouse of a participant or former participant on February14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
 
 &emsp;(1) the full amount of the participant's or former participant's annuity, as computed under this subchapter; or
 

@@ -96,7 +96,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act J
 
 #### Effective Date
 
-Section 4204(b) of Pub. L. 100–688 provided that: “Section 4102(a) of this Act \[33 U.S.C. 2602(a)\] is effective 240days after the date of enactment of this Act \[Nov. 18, 1988\].”
+Section 4204(b) of Pub. L. 100–688 provided that: “Section 4102(a) of this Act \[33 U.S.C. 2602(a)\] is effective 240 days after the date of enactment of this Act \[Nov. 18, 1988\].”
 
 #### Availability of Applications
 

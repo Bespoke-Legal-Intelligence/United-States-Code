@@ -67,27 +67,27 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title III, §345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
+<b>1994</b>—Pub. L. 103–337, div. A, title III, §345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
 
-1992—Pub. L. 102–378, §2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
+<b>1992</b>—Pub. L. 102–378, §2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
 
-1990—Pub. L. 101–509, title V, §529 \[title II, §§206(a)(2), 208(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
+<b>1990</b>—Pub. L. 101–509, title V, §529 \[title II, §§206(a)(2), 208(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
 
 Pub. L. 101–391, §4(b), Sept. 25, 1990, 104 Stat. 750, added item 5707a.
 
-1986—Pub. L. 99–234, title I, §§103(b), 106(b), Jan. 2, 1986, 99 Stat. 1758, 1759, added items 5706a and 5734.
+<b>1986</b>—Pub. L. 99–234, title I, §§103(b), 106(b), Jan. 2, 1986, 99 Stat. 1758, 1759, added items 5706a and 5734.
 
-1983—Pub. L. 98–151, §118(a)(7)(A)(ii), Nov. 14, 1983, 97 Stat. 979, added items 5724b and 5724c.
+<b>1983</b>—Pub. L. 98–151, §118(a)(7)(A)(ii), Nov. 14, 1983, 97 Stat. 979, added items 5724b and 5724c.
 
-1978—Pub. L. 95–454, title IV, §409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
+<b>1978</b>—Pub. L. 95–454, title IV, §409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
 
-1975—Pub. L. 94–22, §7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
+<b>1975</b>—Pub. L. 94–22, §7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
 
-1970—Pub. L. 91–563, §4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
+<b>1970</b>—Pub. L. 91–563, §4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
 
 Pub. L. 91–481, §1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
 
-1967—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
+<b>1967</b>—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
 
 Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; periodic review and revision; confirmation and approval by Federal Energy Regulatory Commission
 
-(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance withsound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the Federal Columbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
+(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the Federal Columbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
 
 (2) Rates established under this section shall become effective only, except in the case of interim rules as provided in subsection (i)(6) of this section, upon confirmation and approval by the Federal Energy Regulatory Commission upon a finding by the Commission, that such rates—
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) an overrecovery or underrecovery of the net costs incurred by the Administrator under section 839c(c) of this title as a result of such difference.
 
-> Any such revenue surplus or deficiency incurred shall be recovered from, or repaid to, customersover a reasonable period of time after July 1, 1985, through a supplemental rate charge or credit applied proportionately for all other power sold by the Administrator at rates established under other subsections of this section prior to July 1, 1985.
+> Any such revenue surplus or deficiency incurred shall be recovered from, or repaid to, customers over a reasonable period of time after July 1, 1985, through a supplemental rate charge or credit applied proportionately for all other power sold by the Administrator at rates established under other subsections of this section prior to July 1, 1985.
 
 (4) The term “general requirements” as used in this section means the public body, cooperative or Federal agency customer's electric power purchased from the Administrator under section 839c(b) of this title, exclusive of any new large single load.
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) for the period prior to July 1, 1985, at a level which the Administrator estimates will be sufficient to recover the cost of resources the Administrator determines are required to serve such customers’ load and the net costs incurred by the Administrator pursuant to section 839c(c) of this title, based upon the Administrator's projected ability to make power available to such customers pursuant to their contracts, to the extent that such costs are not recovered through rates applicable to other customers; and
 
-&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
+&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperativecustomers to their industrial consumers in the region.
 
 (2) The determination under paragraph (1)(B) of this subsection shall be based upon the Administrator's applicable wholesale rates to such public body and cooperative customers and the typical margins included by such public body and cooperative customers in their retail industrial rates but shall take into account—
 
@@ -102,7 +102,7 @@ In establishing rates under this section, the Administrator shall use the follow
 
 &emsp;(1) Notice of the proposed rates shall be published in the Federal Register with a statement of the justification and reasons supporting such rates. Such notice shall include a date for a hearing in accordance with paragraph (2) of this subsection.
 
-&emsp;(2) One or more hearings shall be conducted as expeditiously as practicable by a hearing officer to develop a full and complete recordand to receive public comment in the form of written and oral presentation of views, data questions, and argument related to such proposed rates. In any such hearing—
+&emsp;(2) One or more hearings shall be conducted as expeditiously as practicable by a hearing officer to develop a full and complete record and to receive public comment in the form of written and oral presentation of views, data questions, and argument related to such proposed rates. In any such hearing—
 
 &emsp;&emsp;(A) any person shall be provided an adequate opportunity by the hearing officer to offer refutation or rebuttal of any material submitted by any other person or the Administrator, and
 
@@ -140,13 +140,13 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 &emsp;(B) which are determined by the Administrator to have a substantial impact on such governments, and
 
-&emsp;(C) where the construction of such facilities, or any modification thereof, is completed afterDecember 5, 1980, and, in the case of a modification of an existing facility, such modification substantially increases the capacity of such existing transmission facility.
+&emsp;(C) where the construction of such facilities, or any modification thereof, is completed after December 5, 1980, and, in the case of a modification of an existing facility, such modification substantially increases the capacity of such existing transmission facility.
 
 (2) Payments made under this subsection for any fiscal year shall be determined by the Administrator pursuant to a regionwide, uniform formula to be established by rule in accordance with the procedures set forth in subsection (i) of this section. Such rule shall become effective on its approval, after considering its effect on rates established pursuant to this section, by the Federal Energy Regulatory Commission. In developing such formula, the Administrator shall identify, and take into account, the local governmental services provided to the Administrator concerning such facilities and the associated costs to such governments as the result of such facilities.
 
 (3) Payments made pursuant to this subsection shall be made solely from the fund established by section 11 of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i\]. The provisions of section 13 of such Act \[16 U.S.C. 838k\], and any appropriations provided to the Administrator under any law, shall not be available for such payments. The authorization of payments under this subsection shall not be construed as an obligation of the United States.
 
-(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
+(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency\(other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
 
 (Pub. L. 96–501, §7, Dec. 5, 1980, 94 Stat. 2723.)
 
@@ -162,7 +162,7 @@ The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 824k, 839c, 839f, 839g of this title.
+This section is referred to in sections 824k, 832m, 839c, 839f, 839g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

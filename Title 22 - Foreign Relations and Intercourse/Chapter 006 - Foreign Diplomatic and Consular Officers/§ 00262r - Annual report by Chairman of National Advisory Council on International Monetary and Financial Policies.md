@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Chairman shall report annually to the Speaker of the House of Representatives, the President of the Senate, and to the President of the United States on the participation of the United States in the international financial institutions. The Chairman shall present such report to the Speaker of the House of Representatives and the President of the Senate not later than April 1 of each year following the close of the fiscal year covered by such report, except that the report for fiscal year 1989 shall be submitted not later than June 1, 1990.
+The Chairman shall report annually to the Speaker of the House of Representatives, the President of the Senate, and to the President of the United States on the participation of the United States in the international financial institutions. The Chairman shall present such report to the Speaker of the House of Representatives and the President of the Senate not later than April 1 of each year following the close of the fiscal year covered by such report, exceptthat the report for fiscal year 1989 shall be submitted not later than June 1, 1990.
 
 #### (b) Contents of reports
 
@@ -68,7 +68,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 #### References in Text
 
-Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
+Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c)of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
 
 This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–6 of this title. Title XVII is classified to sections 262r to 262r–2 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
 
@@ -80,7 +80,7 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

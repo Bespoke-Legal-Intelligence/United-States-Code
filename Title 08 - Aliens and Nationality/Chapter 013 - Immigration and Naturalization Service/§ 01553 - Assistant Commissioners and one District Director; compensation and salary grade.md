@@ -10,7 +10,7 @@ Section was formerly classified to section 342b–1 of Title 5 prior to the gene
 
 #### Prior Provisions
 
-Similar provisions were contained in act July 7, 1955, ch. 279, title II, §201, 69 Stat. 272.
+Provisions similar to those in this section were contained in act July 7, 1955, ch. 279, title II, §201, 69 Stat. 272.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -22,7 +22,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (2) Annual application for certificate of compliance
 
-&emsp;The Corporation shall apply at least annually to the Nuclear Regulatory Commissionfor a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.
+&emsp;The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.
 
 #### (3) Treatment of certificate of compliance
 
@@ -40,7 +40,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (C) Limitation
 
-&emsp;&emsp;The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) of this section to a determination of whether the facilities are in compliance with the standards established under subsection (a) of this section.
+&emsp;&emsp;The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) of this section to a determination of whether the facilities are in compliance with thestandards established under subsection (a) of this section.
 
 #### (d) Requirement for operation
 

@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, the General Counsel of the Department of Transportation.
 
-&emsp;(2) The Navy, the Marine Corps, and the Coast Guard when it is operating as a servicein the Navy, shall be considered as one armed force.
+&emsp;(2) The Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy, shall be considered as one armed force.
 
 &emsp;(3) The term “commanding officer” includes only commissioned officers.
 
@@ -100,7 +100,7 @@ Section 12(a) of Pub. L. 98–209 provided that:
 
 “(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do not affect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments.
 
-“(3) The amendments made by section 4 \[amending section 834 of this title\] shall not apply to any case inwhich charges were referred to trial before the effective date of such amendments, and proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted.
+“(3) The amendments made by section 4 \[amending section 834 of this title\] shall not apply to any case in which charges were referred to trial before the effective date of such amendments, and proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted.
 
 “(4) The amendments made by sections 5, 6, and 7 \[amending this section and sections 849, 854, 857, 860 to 867, 869, 871, and 876a of this title and enacting provisions set out as a note under section 869 of this title\] shall not apply to any case in which the findings and sentence were adjudged by a court-martial before the effective date of such amendments. The proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted.
 

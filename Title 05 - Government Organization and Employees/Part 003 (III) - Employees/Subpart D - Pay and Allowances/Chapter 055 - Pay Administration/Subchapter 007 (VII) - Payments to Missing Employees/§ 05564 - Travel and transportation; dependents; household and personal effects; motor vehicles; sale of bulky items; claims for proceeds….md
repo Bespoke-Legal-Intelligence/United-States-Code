@@ -126,7 +126,7 @@ In subsection (g), the words “United States” are substituted for “Governme
 
 In subsection (h), the words “under subsection (g) of this section” are substituted for “under authority of this section”.
 
-In subsection (i), the words “the provisions of” are omitted as surplusage. Paragraph (3) is substituted for“the Federal Tort Claims Act (60 Stat. 842–847), as amended;” to reflect the correct citation of that Act.
+In subsection (i), the words “the provisions of” are omitted as surplusage. Paragraph (3) is substituted for “the Federal Tort Claims Act (60 Stat. 842–847), as amended;” to reflect the correct citation of that Act.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -146,9 +146,13 @@ Act
 
 Oct. 19, 1965, Pub. L. 89–271, 79 Stat. 992.
 
-Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
+Only that portion of the source law applicable to civilian officers and employees and their dependents iscodified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
 
 #### Amendments
 
-1991—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
+<b>1991</b>—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 

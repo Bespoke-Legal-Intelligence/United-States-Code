@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—(1) An individual who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from each of the following:
+Prohibition.—(1) An individual who is convicted of fraud or any other felony arising out ofa contract with the Department of Defense shall be prohibited from each of the following:
 
 &emsp;(A) Working in a management or supervisory capacity on any defense contract or any first tier subcontract of a defense contract.
 
@@ -84,5 +84,5 @@ Section 101(c) \[title X, §941(c)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Deadline for Single Point of Contact
 
-Section 815(b) of Pub. L. 102–484 provided that: “The single point of contact required by section 2408(c) of title 10, United States Code, as added by subsection (a), shall be established not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 815(b) of Pub. L. 102–484 provided that: “The single point of contact required by section 2408(c) oftitle 10, United States Code, as added by subsection (a), shall be established not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

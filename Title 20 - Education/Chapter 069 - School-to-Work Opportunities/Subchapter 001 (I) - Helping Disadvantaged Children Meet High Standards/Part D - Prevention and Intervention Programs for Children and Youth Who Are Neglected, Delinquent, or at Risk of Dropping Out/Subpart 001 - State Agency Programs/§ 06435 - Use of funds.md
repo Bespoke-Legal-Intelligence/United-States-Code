@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) shall be designed to support educational services that—
 
-&emsp;&emsp;&emsp;(i) except for institution-wide projects under section 6436 of this title, are provided to children identified by the State agency as failing, or most at risk of failing, to meet the State's challenging State content standards and challenging State student performance standards;
+&emsp;&emsp;&emsp;(i) except for institution-wide projects under section 6436 of this title, are provided to children identified by the Stateagency as failing, or most at risk of failing, to meet the State's challenging State content standards and challenging State student performance standards;
 
 &emsp;&emsp;&emsp;(ii) supplement and improve the quality of the educational services provided to such children by the State agency; and
 
@@ -32,5 +32,5 @@
 
 A program under this subpart that supplements the number of hours of instruction students receive from State and local sources shall be considered to comply with the supplement, not supplant requirement of section 6322 of this title without regard to the subject areas in which instruction is given during those hours.
 
-(Pub. L. 89 10, title I, §1415, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3596.)
+(Pub. L. 89–10, title I, §1415, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3596.)
 

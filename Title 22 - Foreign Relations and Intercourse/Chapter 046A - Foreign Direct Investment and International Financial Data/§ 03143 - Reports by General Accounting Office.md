@@ -24,7 +24,7 @@ Not later than 5 months after each report issued by the Secretary of Commerce un
 
 #### (c) Other reviews and reports
 
-(1) The Comptroller General may, to the extent permitted by law, including section 3104(c) of this title and section 3144 of this title, also review data and information at the Bureau of the Census, the Bureau of Labor Statistics, and the Bureau of Economic Analysis and from time totime report to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress.
+(1) The Comptroller General may, to the extent permitted by law, including section 3104(c) of this title and section 3144 of this title, also review data and information at the Bureau of the Census, the Bureau of Labor Statistics, and the Bureau of Economic Analysis and from time to time report to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress.
 
 (2) The Comptroller General shall, in carrying out paragraph (1), comply with procedures relating to access to and disclosure of data and information established within the Federal statistical agencies referred to in paragraph (1), and maintain any and all individually identifiable data and information at the statistical agency where the information is reviewed.
 
@@ -50,5 +50,5 @@ This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and
 
 #### Change of Name
 
-Committees on Energy and Commerce and Foreign Affairs of House of Representatives changed to Committees on Commerce and International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

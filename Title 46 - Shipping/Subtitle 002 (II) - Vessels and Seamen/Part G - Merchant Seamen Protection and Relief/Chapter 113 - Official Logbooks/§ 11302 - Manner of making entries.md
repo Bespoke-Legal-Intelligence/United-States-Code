@@ -6,7 +6,7 @@ Each entry made in the official logbook—
 
 &emsp;(2) if not made on the day of the occurrence, shall be dated and state the date of the occurrence;
 
-&emsp;(3) if the entry is about an occurrence happening before the vessel's arrival at the final port of discharge, shall be made not later than 24 hours after the arrival;
+&emsp;(3) if the entry is about an occurrence happening before the vessel's arrival at the finalport of discharge, shall be made not later than 24 hours after the arrival;
 
 &emsp;(4) shall be signed by the master; and
 

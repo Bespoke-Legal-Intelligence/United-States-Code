@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Administrative procedure” for “Boards of examiners” in section catchline, and in text provisions relating to administrative procedure applicable to administration of this chapter for provisions relating to boards of examiners for the United States Civil Service Commission.
+<b>1978</b>—Pub. L. 95–454 substituted “Administrative procedure” for “Boards of examiners” in section catchline, and in text provisions relating to administrative procedure applicable to administration of this chapter for provisions relating to boards of examiners for the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 

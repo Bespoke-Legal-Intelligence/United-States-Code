@@ -66,7 +66,7 @@ Notwithstanding any other provision of this part—
 
 &emsp;(3) secondary school students who were eligible for services in secondary school may continue to be served through credit accrual programs until graduation.
 
-(Pub. L. 89 10, title I, §1304, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3587.)
+(Pub. L. 89–10, title I, §1304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3587.)
 
 #### Section Referred to in Other Sections
 

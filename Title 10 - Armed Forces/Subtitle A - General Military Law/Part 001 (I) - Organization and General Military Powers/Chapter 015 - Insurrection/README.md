@@ -2,11 +2,11 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 331\. | Federal aid for State governments. |
-| 332\. | Use of militia and armed forces to enforce Federal authority. |
-| 333\. | Interference with State and Federal law. |
-| 334\. | Proclamation to disperse. |
-| 335\. | Guam and Virgin Islands included as “State”. |
+| [331\.](%C2%A7%2000331%20-%20Federal%20aid%20for%20State%20governments.md) | Federal aid for State governments. |
+| [332\.](%C2%A7%2000332%20-%20Use%20of%20militia%20and%20armed%20forces%20to%20enforce%20Federal%20authority.md) | Use of militia and armed forces to enforce Federal authority. |
+| [333\.](%C2%A7%2000333%20-%20Interference%20with%20State%20and%20Federal%20law.md) | Interference with State and Federal law. |
+| [334\.](%C2%A7%2000334%20-%20Proclamation%20to%20disperse.md) | Proclamation to disperse. |
+| [335\.](%C2%A7%2000335%20-%20Guam%20and%20Virgin%20Islands%20included%20as%20%E2%80%9CState%E2%80%9D.md) | Guam and Virgin Islands included as “State”. |
 | \[336. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 115 of this title.
+This chapter is referred to in sections 101, 115 of this title; title 38 section 4312.
 
 
 ---

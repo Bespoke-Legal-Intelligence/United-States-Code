@@ -40,7 +40,7 @@ In subsection (a), the following substitutions are made: “Under” for “Purs
 
 In subsection (b), the following substitutions are made: “act” for “action” and “may” for “shall”.
 
-In subsection (c), the words “pro rata” are omitted as surplusage. The following substitutions are made:“under this section” for “by the United States with respect to a settlement, award, or compromise made pursuant to sections 224i–2 to 224i–5 of this title”; “to buy” for “for the purchase of”; and “needed” for “necessary”. The words “which appropriations are authorized” are omitted as unnecessary.
+In subsection (c), the words “pro rata” are omitted as surplusage. The following substitutions are made: “under this section” for “by the United States with respect to a settlement, award, or compromise made pursuant to sections 224i–2 to 224i–5 of this title”; “to buy” for “for the purchase of”; and “needed” for “necessary”. The words “which appropriations are authorized” are omitted as unnecessary.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Effective date of authorizations
 
-Authorizations of moneys to be appropriated under sections 429b to 429b–5 of this title fromthe Land and Water Conservation Fund for acquisition of properties and interests shall be effective on October 1, 1981.
+Authorizations of moneys to be appropriated under sections 429b to 429b–5 of this title from the Land and Water Conservation Fund for acquisition of properties and interests shall be effective on October 1, 1981.
 
 #### (b) Authority limited by appropriations
 

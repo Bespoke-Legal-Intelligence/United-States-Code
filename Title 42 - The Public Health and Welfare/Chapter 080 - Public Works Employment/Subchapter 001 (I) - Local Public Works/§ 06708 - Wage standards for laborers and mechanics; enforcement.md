@@ -6,7 +6,7 @@ All laborers and mechanics employed on projects assisted by the Secretary under 
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. Forcomplete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+The Davis-Bacon Act, as amended, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in text, is set out in the Appendix to Title 5, Government Organization and Employees.
 

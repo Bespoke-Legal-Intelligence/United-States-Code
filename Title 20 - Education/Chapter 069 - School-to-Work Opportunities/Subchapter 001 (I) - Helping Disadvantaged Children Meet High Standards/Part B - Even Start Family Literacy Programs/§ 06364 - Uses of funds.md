@@ -20,7 +20,7 @@ In carrying out an Even Start program under this part, a recipient of funds unde
 
 &emsp;&emsp;(v) 50 percent in any subsequent such year.
 
-&emsp;(B) The remaining cost of a program assisted under this part may be provided in cash or inkind, fairly evaluated and may be obtained from any source, including other Federal funds under this chapter.
+&emsp;(B) The remaining cost of a program assisted under this part may be provided in cash or in kind, fairly evaluated and may be obtained from any source, including other Federal funds under this chapter.
 
 #### (2) Waiver
 
@@ -34,7 +34,7 @@ In carrying out an Even Start program under this part, a recipient of funds unde
 
 &emsp;Federal funds provided under this part may not be used for the indirect costs of a program assisted under this part, except that the Secretary may waive this paragraph if an eligible recipient of funds reserved under section 6362(a)(1)(C) of this title demonstrates to the Secretary's satisfaction that such recipient otherwise would not be able to participate in the program assisted under this part.
 
-(Pub. L. 89 10, title I, §1204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3580.)
+(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580.)
 
 #### Section Referred to in Other Sections
 

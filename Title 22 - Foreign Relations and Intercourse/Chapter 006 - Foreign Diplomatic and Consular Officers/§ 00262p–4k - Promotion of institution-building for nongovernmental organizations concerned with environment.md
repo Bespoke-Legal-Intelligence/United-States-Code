@@ -4,7 +4,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) increase collaboration with, and, where necessary, strengthen, nongovernmental organizations in such countries which are concerned with environmental protection by providing appropriate assistance and support for programs and activities on environmental protection; and
 
-&emsp;(2) encourage international collaboration for information exchange and project enhancement with nongovernmental organizations in developing countries which are concerned with environmental protection and government agencies and private voluntary organizations in developed countries which are concerned with environmental protection.
+&emsp;(2) encourage international collaboration for information exchange and project enhancement with nongovernmental organizations in developing countries which are concerned with environmental protection and governmentagencies and private voluntary organizations in developed countries which are concerned with environmental protection.
 
 (Pub. L. 95–118, title XVI, §1616, as added Pub. L. 101–240, title V, §512, Dec. 19, 1989, 103 Stat. 2510.)
 

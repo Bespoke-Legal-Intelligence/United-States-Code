@@ -242,5 +242,5 @@ A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, relat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2609, 2610 of this title.
+This section is referred to in sections 2609, 2610 of this title; title 15 section 1641.
 

@@ -1,10 +1,10 @@
 ### §3364. Commissioned officers: selection for promotion; order of promotion; zone of consideration list; declination of promotion
 
-(a) When officers are considered for promotion under section 3366, 3367, 3370, or 3371 of this title, the names of reserve officers assigned to each special branch, except the Judge Advocate General's Corps, shall be placed on a separate zone of consideration list for, or be considered for promotion for service in, that branch or corps. The names of all other reserve officers shall beplaced on a zone of consideration list, or considered for promotion, without regard to the branch to which they are assigned. The convening officer shall refer each list to a selection board for consideration.
+(a) When officers are considered for promotion under section 3366, 3367, 3370, or 3371 of this title, the names of reserve officers assigned to each special branch, except the Judge Advocate General's Corps, shall be placed on a separate zone of consideration list for, or be considered for promotion for service in, that branch or corps. The names of all other reserve officers shall be placed on a zone of consideration list, or considered for promotion, without regard to the branch to which they are assigned. The convening officer shall refer each list to a selection board for consideration.
 
 (b) Except as provided in subsection (d), an officer in an active status who is assigned to a special branch, and who is recommended for promotion under section 3366, 3367, or 3370 of this title, may not be promoted before an officer of the same reserve grade and the same branch who is in an active status, who has more service computed under section 3360(b) of this title, who has been recommended for promotion, and who is not assigned to a unit organized to serve as a unit.
 
-(c) Except as provided in subsection (d), an officer who is not assigned to a special branch, and who is recommended for promotion under section 3366, 3367, or 3370 of this title, may not be promoted before an officer of the same reserve grade in an active status who is not assigned to a special branch, who has more service computed under section 3360(b) of this title, who has been recommended for promotion, and who is not assigned to a unit organized to serve as a unit.
+(c) Except as provided in subsection (d), an officer who is not assigned to a special branch, and who is recommended for promotion under section 3366, 3367, or 3370 of this title, may notbe promoted before an officer of the same reserve grade in an active status who is not assigned to a special branch, who has more service computed under section 3360(b) of this title, who has been recommended for promotion, and who is not assigned to a unit organized to serve as a unit.
 
 (d) For the purposes of subsections (b) and (c)—
 
@@ -78,7 +78,7 @@ In subsections (a), (b), and (c), reference in 50:1222(h) to the special branche
 
 #### References in Text
 
-Section 20 of the Act enacting this section, referred to in subsec. (d)(3), means section 20 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1559, which was repealed by Pub. L. 86–559, §3, June 30, 1960, 74 Stat. 281.
+Section 20 of the Act enacting this section, referred to in subsec. (d)(3), means section 20 of Pub. L. 85–861,Sept. 2, 1958, 72 Stat. 1559, which was repealed by Pub. L. 86–559, §3, June 30, 1960, 74 Stat. 281.
 
 #### Amendments
 

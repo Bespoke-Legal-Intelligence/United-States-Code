@@ -2,7 +2,7 @@
 
 (a)(1) Advances shall be made to the States from the Federal unemployment account in the Unemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
 
-&emsp;(A) the Governor of the State applies therefor no earlier than the first day of the month preceding the first month of such 3-month period, and
+&emsp;(A) the Governor of the State applies therefor no earlier than the first day of the monthpreceding the first month of such 3-month period, and
 
 &emsp;(B) he furnishes to the Secretary of Labor his estimate of the amount of an advance which will be required by the State for the payment of compensation in each month of such 3-month period.
 
@@ -24,7 +24,7 @@
 
 (b) The Secretary of the Treasury shall, prior to audit or settlement by the General Accounting Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
 
-(Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3, 68 Stat. 671; Sept. 13, 1960, Pub. L. 86–778, title V, §522(a), 74 Stat. 978; Oct. 20, 1976, Pub. L. 94–566,title II, §213(a)–(c), 90 Stat. 2677; Aug. 13, 1981, Pub. L. 97–35, title XXIV, §2407(b)(1), 95 Stat. 880.)
+(Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3, 68 Stat. 671; Sept. 13, 1960, Pub. L. 86–778, title V, §522(a), 74 Stat. 978; Oct. 20, 1976, Pub. L. 94–566, title II, §213(a)–(c), 90 Stat. 2677; Aug. 13, 1981, Pub. L. 97–35, title XXIV, §2407(b)(1), 95 Stat. 880.)
 
 #### Amendments
 

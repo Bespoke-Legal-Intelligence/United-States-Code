@@ -1,4 +1,4 @@
-### §2201 . Apportionment of funds: authority for exemption; excepted expenses
+### §2201. Apportionment of funds: authority for exemption; excepted expenses
 
 (a)
 
@@ -10,7 +10,7 @@ Airborne Alerts.—Upon a determination by the President that such action is nec
 
 (c)
 
-Members on Active Duty.—Upon a determination by the President that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces onactive duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 3732(a) of the Revised Statutes (41 U.S.C. 11(a)).
+Members on Active Duty.—Upon a determination by the President that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 3732(a) of the Revised Statutes (41 U.S.C. 11(a)).
 
 (d)
 

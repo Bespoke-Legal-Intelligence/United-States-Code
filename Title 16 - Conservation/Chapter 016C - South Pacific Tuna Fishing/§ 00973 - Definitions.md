@@ -70,5 +70,5 @@ Section 21 of Pub. L. 100–330 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 101–330 provided: “That this Act \[enacting this chapter\] may be cited as the ‘South Pacific Tuna Act of 1988’.”
+Section 1 of Pub. L. 100–330 provided: “That this Act \[enacting this chapter\] may be cited as the ‘South Pacific Tuna Act of 1988’.”
 

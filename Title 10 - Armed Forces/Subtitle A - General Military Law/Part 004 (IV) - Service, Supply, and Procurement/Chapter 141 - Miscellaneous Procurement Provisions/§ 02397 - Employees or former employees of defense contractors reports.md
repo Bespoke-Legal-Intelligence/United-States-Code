@@ -2,7 +2,7 @@
 
 (a) In this section:
 
-&emsp;(1) The term “contract” means a contract (including the net amount of modifications to, and the exercise of options under, the contract) that is in an amount in excess of the simplified acquisition threshold, as in effect atthe time that the contract is awarded. The term does not include a contract for the purchase of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
+&emsp;(1) The term “contract” means a contract (including the net amount of modifications to, and the exercise of options under, the contract) that is in an amount in excess of the simplified acquisition threshold, as in effect at the time that the contract is awarded. The term does not include a contract for the purchase of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
 
 &emsp;(2) The term “defense contractor” means a person that provides services, supplies, or both (including construction) to the Department of Defense under a contract directly with the Department.
 
@@ -120,7 +120,7 @@ In subsection (c), the text of 50:1436(e) (less words before semicolon) is omitt
 
 In subsection (e), the word “Congress” is substituted for “the President of the Senate and the Speaker of the House of Representatives” for consistency in title 10 and with other titles of the United States Code.
 
-In subsection (f), the words “shall be guilty of a misdemeanor” are omitted as unnecessary because of 18:1. The words “upon conviction thereof” are omitted as surplus.
+In subsection (f), the words “shall be guilty of a misdemeanor” are omitted as unnecessary because of 18:1.The words “upon conviction thereof” are omitted as surplus.
 
 #### Amendments
 

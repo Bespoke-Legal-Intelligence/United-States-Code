@@ -24,15 +24,15 @@
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–136 designated existing provisions as par. (1) and added par. (2).
+<b>1989</b>—Subsec. (c). Pub. L. 101–136 designated existing provisions as par. (1) and added par. (2).
 
-1984—Subsec. (b)(2). Pub. L. 98–615, §302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–615, §302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
 
 Subsec. (b)(3). Pub. L. 98–615, §302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Limitation on Number of Performance Awards for Career Appointees
 

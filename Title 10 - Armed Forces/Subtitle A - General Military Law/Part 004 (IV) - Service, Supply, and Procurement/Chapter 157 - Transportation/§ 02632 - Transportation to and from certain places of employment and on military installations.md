@@ -8,7 +8,7 @@
 
 &emsp;(B) Transportation to and from their places of duty or employment on a military installation for persons covered by this subsection.
 
-&emsp;(C) Transportation to and from a military installation for persons covered by this subsection and their dependents, in the case of a military installation located in an area determined by the Secretary concerned not to be adequately served by regularly scheduled, and timely, commercial or municipal mass transit services.
+&emsp;(C) Transportation to and from a military installation for persons covered by this subsection and their dependents, in the case of a military installation located in an area determined by the Secretary concerned not to be adequately served by regularly scheduled, andtimely, commercial or municipal mass transit services.
 
 &emsp;(D) Transportation to and from their places of employment for persons attached to, or employed in, a private plant that is manufacturing material for that department, but only during a war or a national emergency declared by Congress or the President.
 

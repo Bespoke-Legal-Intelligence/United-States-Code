@@ -38,5 +38,5 @@ Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedur
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1122 of this title.
+This section is referred to in sections 1122, 1125 of this title.
 

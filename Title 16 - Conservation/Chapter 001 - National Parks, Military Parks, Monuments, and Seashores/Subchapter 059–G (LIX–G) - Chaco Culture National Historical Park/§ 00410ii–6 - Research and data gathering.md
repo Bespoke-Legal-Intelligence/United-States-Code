@@ -6,7 +6,7 @@ Consistent with and in furtherance of the purposes of the Division of Cultural R
 
 #### (b) Computer-generated data base; furnishing of information to Federal and private groups
 
-The Secretary shall, through the Division of Cultural Research of the Southwest Cultural Resources Center of the National Park Service, be responsible for the development of a computer-generated data base of the San Juan Basin, and make such information available to Federal and private groups when to do so will assist such groups in the preservation, management, and development of the resources of the basin.
+The Secretary shall, through the Division of Cultural Research of the Southwest Cultural Resources Center of the National Park Service, beresponsible for the development of a computer-generated data base of the San Juan Basin, and make such information available to Federal and private groups when to do so will assist such groups in the preservation, management, and development of the resources of the basin.
 
 #### (c) Opportunity for Secretary to comment on proposed expenditures and permits
 
@@ -20,5 +20,5 @@ The effective date of this section, referred to in subsec. (a), probably means t
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives onJan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -1,4 +1,4 @@
-### §5910 . Promotions under regulations prescribed by Secretary
+### §5910. Promotions under regulations prescribed by Secretary
 
 (a) Notwithstanding any other provision of this chapter, an officer of the Naval Reserve in a grade above ensign may be promoted under regulations prescribed by the Secretary of the Navy whenever any part of the law governing the promotion of his running mate is suspended by the President. An officer of the Naval Reserve in the grade of ensign may be promoted under regulations prescribed by the Secretary whenever ensigns on the active-duty list of the Navy are being promoted with less than three years of service in that grade.
 

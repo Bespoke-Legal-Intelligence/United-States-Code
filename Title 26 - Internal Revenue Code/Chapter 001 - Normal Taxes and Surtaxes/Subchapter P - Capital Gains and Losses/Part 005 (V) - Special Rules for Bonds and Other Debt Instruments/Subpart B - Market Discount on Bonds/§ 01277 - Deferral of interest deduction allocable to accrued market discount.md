@@ -50,7 +50,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (C) Disallowed interest expense reduced for amounts previously taken into account under paragraph (1)
 
-&emsp;&emsp;For purposes of this paragraph, the amount of the disallowed interest expense shall not include any amount previously taken into account under paragraph (1).
+&emsp;&emsp;For purposes of this paragraph, the amount of the disallowed interest expenseshall not include any amount previously taken into account under paragraph (1).
 
 #### (3) Disallowed interest expense
 

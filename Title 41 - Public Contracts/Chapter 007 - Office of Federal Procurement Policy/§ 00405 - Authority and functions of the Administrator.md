@@ -2,7 +2,7 @@
 
 #### (a) Development of procurement policy; leadership
 
-The Administrator shall provide overall direction of procurement policy and leadership in thedevelopment of procurement systems of the executive agencies. To the extent that the Administrator considers appropriate, in carrying out the policies and functions set forth in this chapter, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be followed by executive agencies in the procurement of—
+The Administrator shall provide overall direction of procurement policy and leadership in the development of procurement systems of the executive agencies. To the extent that the Administrator considers appropriate, in carrying out the policies and functions set forth in this chapter, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be followed by executive agencies in the procurement of—
 
 &emsp;(1) property other than real property in being;
 
@@ -58,7 +58,7 @@ The functions of the Administrator shall include—
 
 &emsp;(9) providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
 
-&emsp;(10) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with themaximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+&emsp;(10) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
 
 &emsp;(11) developing policies that will promote achievement of goals for participation by small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small business <sup>3</sup> owned and controlled by women; and
 
@@ -276,7 +276,7 @@ Section 10004 of Pub. L. 103–355 provided that:
 
 “(a)
 
-Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)) shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
+Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) ofthe Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)) shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
 
 &emsp;“(1) Contract awards made pursuant to competitions conducted pursuant to section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\].
 

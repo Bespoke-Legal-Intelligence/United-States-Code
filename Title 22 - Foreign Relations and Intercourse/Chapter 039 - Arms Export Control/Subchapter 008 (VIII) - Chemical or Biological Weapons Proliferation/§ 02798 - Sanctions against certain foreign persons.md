@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) any foreign person that is a parent or subsidiary of that foreign person if that parent or subsidiary knowingly assisted in the activities which were the basis of that determination; and
 
-&emsp;&emsp;(D) any foreign person that is an affiliate of that foreign person if that affiliate knowingly assisted in the activities which werethe basis of that determination and if that affiliate is controlled in fact by that foreign person.
+&emsp;&emsp;(D) any foreign person that is an affiliate of that foreign person if that affiliate knowingly assisted in the activities which were the basis of that determination and if that affiliate is controlled in fact by that foreign person.
 
 #### (b) Consultations with and actions by foreign government of jurisdiction
 
@@ -60,7 +60,7 @@
 
 #### (1) Description of sanctions
 
-&emsp;The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except as provided in paragraph (2) of this subsection, the following:
+&emsp;The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except asprovided in paragraph (2) of this subsection, the following:
 
 #### (A) Procurement sanction
 

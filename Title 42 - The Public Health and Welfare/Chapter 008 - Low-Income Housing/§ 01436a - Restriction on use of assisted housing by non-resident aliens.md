@@ -76,7 +76,7 @@ The following conditions apply with respect to financial assistance being provid
 
 &emsp;&emsp;&emsp;(iii) the Secretary shall not be liable for the consequences of any action, delay, or failure of the Service to conduct such verification.
 
-&emsp;(5) If the Secretary determines, after complying with the requirements of paragraph (4),that such an individual is not in a satisfactory immigration status—
+&emsp;(5) If the Secretary determines, after complying with the requirements of paragraph (4), that such an individual is not in a satisfactory immigration status—
 
 &emsp;&emsp;(A) the Secretary shall deny or terminate the individual's eligibility for financial assistance, and
 
@@ -136,7 +136,7 @@ Section was enacted as part of the Housing and Community Development Act of 1980
 
 Subsec. (c). Pub. L. 100–242, §164(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 100–242, §164(c)(8), amended last sentence generally. Prior to amendment, last sentenceread as follows: “In this subsection and subsection (e) of this section, the term ‘Secretary’ refers to the Secretary and to a public housing authority or other entity which makes financial assistance available.”
+Subsec. (d). Pub. L. 100–242, §164(c)(8), amended last sentence generally. Prior to amendment, last sentence read as follows: “In this subsection and subsection (e) of this section, the term ‘Secretary’ refers to the Secretary and to a public housing authority or other entity which makes financial assistance available.”
 
 Subsec. (d)(2). Pub. L. 100–242, §164(c)(1), inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”.
 

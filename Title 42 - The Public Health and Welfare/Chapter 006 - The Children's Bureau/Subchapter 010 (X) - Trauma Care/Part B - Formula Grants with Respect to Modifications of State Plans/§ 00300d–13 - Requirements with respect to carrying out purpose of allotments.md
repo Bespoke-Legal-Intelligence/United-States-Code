@@ -16,7 +16,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(C) the availability of rehabilitation services for trauma patients;
 
-&emsp;(4) subject to subsection (b) of this section, contains standards and requirements for the implementation of regional trauma care systems, including standards and guidelines (consistent with the provisions of section 1395dd of this title) for medically directed triage and transportation of trauma patients (including patients injured in rural areas) prior to care in designated trauma centers;
+&emsp;(4) subject to subsection (b) of this section, contains standards and requirements for theimplementation of regional trauma care systems, including standards and guidelines (consistent with the provisions of section 1395dd of this title) for medically directed triage and transportation of trauma patients (including patients injured in rural areas) prior to care in designated trauma centers;
 
 &emsp;(5) subject to subsection (b) of this section, contains standards and requirements for medically directed triage and transport of severely injured children to designated trauma centers with specified capabilities and expertise in the care of the pediatric trauma patient;
 
@@ -72,7 +72,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 #### (c) Model trauma care plan
 
-Not later than 1 year after November 16, 1990, the Secretary shall develop a model plan for the designation of trauma centers and for triage, transfer and transportation policies that may beadopted for guidance by the State. Such plan shall—
+Not later than 1 year after November 16, 1990, the Secretary shall develop a model plan for the designation of trauma centers and for triage, transfer and transportation policies that may be adopted for guidance by the State. Such plan shall—
 
 &emsp;(1) take into account national standards, including those of the American College of Surgeons, American College of Emergency Physicians and the American Academy of Pediatrics;
 
@@ -80,7 +80,7 @@ Not later than 1 year after November 16, 1990, the Secretary shall develop a mod
 
 &emsp;(3) be developed in consultation with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State directors and associations, and other interested parties; and
 
-&emsp;(4) include standards for the designation of rural health facilities and hospitals best able to receive, stabilize, and transfer trauma patients to the nearest appropriate designated trauma center, and for triage, transfer, and transportation policies as they relate to rural areas.
+&emsp;(4) include standards for the designation of rural health facilities and hospitals best able to receive, stabilize, and transfer trauma patients to the nearest appropriate designatedtrauma center, and for triage, transfer, and transportation policies as they relate to rural areas.
 
 > Standards described in paragraph (4) shall be applicable to all rural areas in the State, including both non-metropolitan areas and frontier areas that have populations of less than 6,000 per square mile.
 

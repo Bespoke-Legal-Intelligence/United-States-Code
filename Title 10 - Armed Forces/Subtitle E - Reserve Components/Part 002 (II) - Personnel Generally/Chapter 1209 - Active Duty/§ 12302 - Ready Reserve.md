@@ -10,7 +10,7 @@
 
 &emsp;(3) employment necessary to maintain the national health, safety, or interest.
 
-> The Secretary of Defense shall prescribe such policies and procedures as he considers necessary to carry out this subsection. He shall report on those policies and procedures at leastonce a year to the Committees on Armed Services of the Senate and the House of Representatives.
+> The Secretary of Defense shall prescribe such policies and procedures as he considers necessary to carry out this subsection. He shall report on those policies and procedures at least once a year to the Committees on Armed Services of the Senate and the House of Representatives.
 
 (c) Not more than 1,000,000 members of the Ready Reserve may be on active duty (other than for training), without their consent, under this section at any one time.
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1973 Amendment
 
@@ -96,7 +96,7 @@ Ex. Ord. No. 12743, Jan. 18, 1991, 56 F.R. 2661, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3 of the United States Code; in furtherance of Executive Order No. 12722, dated August 2, 1990 \[50 U.S.C. 1701 note\], which declared a national emergency to address the threat to the national security and foreign policy of the United States posed by the invasion of Kuwait by Iraq; and, in accordance with the requirements contained in section 301 of the National Emergencies Act, 50 U.S.C. 1631, I hereby order as follows:
 
-Section 1. To provide additional authority to the Department of Defense and the Department of Transportation to respond to the continuing threat posed by Iraq's invasion of Kuwait, the authority under section 673 \[now 12302\] of title 10, United States Code, to order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve to active duty (other than for training) for not more than 24 consecutive months, is invoked and made available, according to its terms, to the Secretary concerned, subject, in the case of the Secretaries of the Army, Navy, and Air Force, to the direction of the Secretary of Defense. The term “Secretary concerned” is defined in section 101(8) \[now 101(9)\] of title 10, United States Code, to mean the Secretary of the Army with respect to the Army; the Secretary of the Navy with respect to the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy; the Secretaryof the Air Force with respect to the Air Force; and, the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
+Section 1. To provide additional authority to the Department of Defense and the Department of Transportation to respond to the continuing threat posed by Iraq's invasion of Kuwait, the authority under section 673 \[now 12302\] of title 10, United States Code, to order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve to active duty (other than for training) for not more than 24 consecutive months, is invoked and made available, according to its terms, to the Secretary concerned, subject, in the case of the Secretaries of the Army, Navy, and Air Force, to the direction of the Secretary of Defense. The term “Secretary concerned” is defined in section 101(8) \[now 101(9)\] of title 10, United States Code, to mean the Secretary of the Army with respect to the Army; the Secretary of the Navy with respect to the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy; the Secretary of the Air Force with respect to the Air Force; and, the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 Sec. 2. To allow for the orderly administration of personnel within the armed forces, the authority vested in the President by section 527 of title 10, United States Code, to suspend the operation of sections 523–526 \[524 now 12011\] of title 10, United States Code, regarding officer strength and officer distribution in grade, is invoked to the full extent provided by the terms thereof.
 
@@ -106,7 +106,7 @@ Sec. 4. The Secretary of Defense is hereby designated and empowered, without the
 
 Sec. 5. The authorities delegated by sections 1 and 4 of this order may be redelegated and further subdelegated to civilian subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
 
-Sec. 6. This order is intended to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 6. This order is intended to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive orprocedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 Sec. 7. This order is effective immediately, and shall be transmitted to the Congress and published in the Federal Register.
 
@@ -122,5 +122,5 @@ Ready Reserve—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 115, 10142, 12304, 12305, 12318, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211; title 50 App. section 592.
+This section is referred to in sections 101, 115, 10142, 12304, 12305, 12318, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211, 4312; title 50 App. section 592.
 

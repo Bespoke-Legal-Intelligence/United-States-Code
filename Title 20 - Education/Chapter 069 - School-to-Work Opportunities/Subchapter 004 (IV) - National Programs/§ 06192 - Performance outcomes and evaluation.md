@@ -46,7 +46,7 @@ Not later than September 30, 1998, the Secretaries shall complete a national eva
 
 &emsp;Each State shall prepare and submit reports to the Secretaries, at such intervals as the Secretaries may determine, containing information on the extent to which Federal programs that are in existence on the date of submission of the report and that are implemented at the State or local level may be duplicative, outdated, overly restrictive, or otherwise counterproductive to the development of comprehensive statewide School-to-Work Opportunities systems.
 
-(Pub. L. 103 239, title IV, §402, May 4, 1994, 108 Stat. 594.)
+(Pub. L. 103–239, title IV, §402, May 4, 1994, 108 Stat. 594.)
 
 #### Section Referred to in Other Sections
 

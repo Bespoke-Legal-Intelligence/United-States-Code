@@ -38,7 +38,7 @@ For the purposes of this chapter—
 
 (<i>l</i>) The term “immediate container” does not include package liners.
 
-(m) The term “labeling” means all labels and other written, printed, or graphic matter (1)upon any article or any of its containers or wrappers, or (2) accompanying such article.
+(m) The term “labeling” means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
 (n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
@@ -146,7 +146,7 @@ For the purposes of this chapter—
 
 (ff) The term “dietary supplement”—
 
-&emsp;(1) means a product (other than tobacco) intended to supplement the diet that bears orcontains one or more of the following dietary ingredients:
+&emsp;(1) means a product (other than tobacco) intended to supplement the diet that bears or contains one or more of the following dietary ingredients:
 
 &emsp;&emsp;(A) a vitamin;
 
@@ -296,9 +296,9 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
-Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
+Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section,sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (w) of this section not applicable to such drug when intended solely for useunder conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (w) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1965 Amendment
 
@@ -342,13 +342,13 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 etseq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Savings Provision
 
 Section 702 of Pub. L. 91–513, as amended by Pub. L. 93–481, §2, Oct. 26, 1974, 88 Stat. 1455, provided that:
 
-“(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\]shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
+“(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\] shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 
 “(b) Civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of section 701 shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 

@@ -16,9 +16,9 @@ For purposes of this chapter:
 
 &emsp;(7) The term “United States” means the States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 93 167, §7, Nov. 29, 1973, 87 Stat. 687.)
+(Pub. L. 93–167, §7, Nov. 29, 1973, 87 Stat. 687.)
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I\(§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 

@@ -10,7 +10,7 @@
 
 #### (b) Review of preliminary departmental decision; form and contents of application for review; inadequate preliminary decisions; duties of recipient to subrecipients after preliminary decision; burden of proof
 
-(1) A recipient that has received written notice of a preliminary departmental decision and that desires to have such decision reviewed by the Office shall submit to the Office an application for review not later than 60 days after receipt of notice of the preliminary departmental decision. The application shall be in the form and contain the information specified by the Office. As expeditiously as possible, the Office shall return to the Secretary for such action as the Secretary considers appropriate any preliminary departmental decision which the Office determines does not meet the requirements of subsection (a)(2) of this section.
+(1) A recipient that has received written notice of a preliminary departmental decision and that desires to have such decision reviewed by the Office shall submit to the Office an application for review not later than 60 days after receipt of notice of the preliminary departmental decision. The application shall be in the form and contain the information specified by the Office. As expeditiously as possible, the Office shall return to the Secretary for such action asthe Secretary considers appropriate any preliminary departmental decision which the Office determines does not meet the requirements of subsection (a)(2) of this section.
 
 (2) In cases where the preliminary departmental decision requests a recovery of funds from a State recipient, that State recipient may not recover funds from an affected local educational agency unless that State recipient has—
 
@@ -72,21 +72,21 @@ No recipient under an applicable program shall be liable to return funds which w
 
 No interest shall be charged arising from a claim during the administrative review of the preliminary departmental decision.
 
-(Pub. L. 90 247, title IV, §452, as added Pub. L. 95 561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2347; amended Pub. L. 100 297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 350; Pub. L. 103 382, title II, §250(a), Oct. 20, 1994, 108 Stat. 3926.)
+(Pub. L. 90–247, title IV, §452, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2347; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 350; Pub. L. 103–382, title II, §250(a), Oct. 20, 1994, 108 Stat. 3926.)
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103 382, §250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
+1994—Subsec. (a)(2). Pub. L. 103–382, §250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
 
-Subsec. (b)(1). Pub. L. 103 382, §250(a)(2), substituted “60 days” for “30 days”.
+Subsec. (b)(1). Pub. L. 103–382, §250(a)(2), substituted “60 days” for “30 days”.
 
-Subsec. (d). Pub. L. 103 382, §250(a)(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 103–382, §250(a)(3), designated existing provisions as par. (1) and added par. (2).
 
-1988—Pub. L. 100 297 amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
+1988—Pub. L. 100–297 amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100 297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
 #### Section Referred to in Other Sections
 

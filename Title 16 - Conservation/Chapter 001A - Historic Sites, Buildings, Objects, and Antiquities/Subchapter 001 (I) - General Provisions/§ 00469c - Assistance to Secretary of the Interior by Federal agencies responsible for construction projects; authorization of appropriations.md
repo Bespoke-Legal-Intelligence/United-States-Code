@@ -22,7 +22,7 @@ Beginning fiscal year 1979, sums appropriated for purposes of this section shall
 
 1978—Subsec. (b). Pub. L. 95–625, §603(a), (b), authorized appropriation of $500,000 for fiscal year 1979, $1,000,000 for fiscal year 1980, and $1,500,000 for fiscal years 1981 through 1983.
 
-Subsec. (c). Pub. L. 95–625, §603(a), (c), authorized appropriation of $3,000,000 for fiscal years 1979, and 1980, $3,500,000 for fiscal years 1981, and 1982, and $4,000,000 for fiscal year 1983.
+Subsec. (c). Pub. L. 95–625, §603(a), (c), authorized appropriation of $3,000,000 for fiscal years 1979, and 1980,$3,500,000 for fiscal years 1981, and 1982, and $4,000,000 for fiscal year 1983.
 
 Subsec. (d). Pub. L. 95–625, §603(a), (d), added subsec. (d).
 

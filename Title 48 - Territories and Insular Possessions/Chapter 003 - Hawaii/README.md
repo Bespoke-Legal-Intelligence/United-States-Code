@@ -28,7 +28,7 @@ Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, provided:
 
 “
 
-Sec. 2. \[Territory.\] The State of Hawaii shall consist of all the islands, together with their appurtenant reefs and territorial waters, included in the Territory of Hawaii on the date of enactment of this Act \[March 18, 1959\], except the atoll known as Palmyra Island, together with its appurtenant reefs and territorial waters, but said State shall not be deemed to include the Midway Islands, Johnston Island, Sand Island (offshore from Johnston Island), or Kingman Reef, together with their appurtenant reefs and territorial waters.
+Sec. 2. \[Territory.\] The State of Hawaii shall consist of all the islands, together with their appurtenant reefs and territorial waters, included in the Territory of Hawaii on the date of enactment of this Act \[March 18, 1959\], except the atoll known as Palmyra Island, together with its appurtenant reefs and territorial waters, but said State shall not be deemed to include the Midway Islands, Johnston Island, Sand Island (offshorefrom Johnston Island), or Kingman Reef, together with their appurtenant reefs and territorial waters.
 
 “
 
@@ -116,7 +116,7 @@ Sec. 11. \[Judicial provisions; amendment.\] Effective upon the admission of the
 
 “
 
-Sec. 12. \[Continuation of suits.\] No writ, action, indictment, cause, or proceeding pending in any court of the Territory of Hawaii or in the United States District Court for the District of Hawaii shall abate by reason of the admission of said State into the Union, but the same shall be transferred to and proceeded with in such appropriate State courts as shall be established under the constitution of said State, or shall continue in the United States District Court for the District of Hawaii, as the nature of the case may require. And no writ, action, indictment, cause or proceeding shall abate byreason of any change in the courts, but shall be proceeded with in the State or United States courts according to the laws thereof, respectively. And the appropriate State courts shall be the successors of the courts of the Territory as to all cases arising within the limits embraced within the jurisdiction of such courts, respectively, with full power to proceed with the same, and award mesne or final process therein, and all the files, records, indictments, and proceedings relating to any such writ, action, indictment, cause or proceeding shall be transferred to such appropriate State courts and the same shall be proceeded with therein in due course of law.
+Sec. 12. \[Continuation of suits.\] No writ, action, indictment, cause, or proceeding pending in any court of the Territory of Hawaii or in the United States District Court for the District of Hawaii shall abate by reason of the admission of said State into the Union, but the same shall be transferred to and proceeded with in such appropriate State courts as shall be established under the constitution of said State, or shall continue in the United States District Court for the District of Hawaii, as the nature of the case may require. And no writ, action, indictment, cause or proceeding shall abate by reason of any change in the courts, but shall be proceeded with in the State or United States courts according to the laws thereof, respectively. And the appropriate State courts shall be the successors of the courts of the Territory as to all cases arising within the limits embraced within the jurisdiction of such courts, respectively, with full power to proceed with the same, and award mesne or final process therein, and all the files, records, indictments, and proceedings relating to any such writ, action, indictment, cause or proceeding shall be transferred to such appropriate State courts and the same shall be proceeded with therein in due course of law.
 
 “All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no writ, action, indictment or proceeding shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States District Court for the District of Hawaii in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said State courts had been established prior to the accrual of such causes of action or the commission of such offenses. The admission of said State shall effect no change in the substantive or criminal law governing such causes of action and criminal offenses which shall have arisen or been committed; and such of said criminal offenses as shall have been committed against the laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Hawaii.
 
@@ -150,7 +150,7 @@ Sec. 14. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 “
 
-Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Hawaii prior to its admission into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) are not ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
+Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of theCongress to provide for the government of Hawaii prior to its admission into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) are not ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
 
 “
 
@@ -199,6 +199,358 @@ Sec. 22. \[Severability clause.\] If any provision of this Act, or any section, 
 “
 
 Sec. 23. \[Repeal of inconsistent laws.\] All Acts or parts of Acts in conflict with the provisions of this Act, whether passed by the legislature of said Territory or by Congress, are hereby repealed.”
+
+#### Hawaiian Home Lands Recovery
+
+Pub. L. 104–42, title II, Nov. 2, 1995, 109 Stat. 357, provided that:
+
+#### “SEC. 201. SHORT TITLE
+
+“This title may be cited as the ‘Hawaiian Home Lands Recovery Act’.
+
+#### “SEC. 202. DEFINITIONS.
+
+“As used in this title:
+
+&emsp;“(1)
+
+Agency.—The term ‘agency’ includes—
+
+&emsp;&emsp;“(A) any instrumentality of the United States;
+
+&emsp;&emsp;“(B) any element of an agency; and
+
+&emsp;&emsp;“(C) any wholly owned or mixed-owned corporation of the United States Government.
+
+&emsp;“(2)
+
+Beneficiary.—The term ‘beneficiary’ has the same meaning as is given the term ‘native Hawaiian’ under section 201(7) of the Hawaiian Homes Commission Act \[former 48 U.S.C. 692(7)\].
+
+&emsp;“(3)
+
+Chairman.—The term ‘Chairman’ means the Chairman of the Hawaiian Homes Commission of the State of Hawaii.
+
+&emsp;“(4)
+
+Commission.—The term ‘Commission’ means the Hawaiian Homes Commission established by section 202 of the Hawaiian Homes Commission Act \[former 48 U.S.C. 693\].
+
+&emsp;“(5)
+
+Hawaiian homes commission act.—The term ‘Hawaiian Homes Commission Act’ means the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et. seq., chapter 42) \[Act July 9, 1921, ch. 42, former 48 U.S.C. 691 et seq.\].
+
+&emsp;“(6)
+
+Hawaii state admission act.—The term ‘Hawaii State Admission Act’ means the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 \[Pub. L. 86–3\] (73 Stat. 4, chapter 339; 48 U.S.C. note prec. 491).
+
+&emsp;“(7)
+
+Lost use.—The term ‘lost use’ means the value of the use of the land during the period when beneficiaries or the Hawaiian Homes Commission have been unable to use lands as authorized by the Hawaiian Homes Commission Act because of the use of such lands by the Federal Government after August 21, 1959.
+
+&emsp;“(8)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+#### “SEC. 203. SETTLEMENT OF FEDERAL CLAIMS.
+
+“(a)
+
+Determination.—
+
+&emsp;“(1) The Secretary shall determine the value of the following:
+
+&emsp;&emsp;“(A) Lands under the control of the Federal Government that—
+
+&emsp;&emsp;&emsp;“(i) were initially designated as available lands under section 203 of the Hawaiian Homes Commission Act \[former 48 U.S.C. 697\] (as in effect on the date of enactment of such Act \[July 9, 1921\]); and
+
+&emsp;&emsp;&emsp;“(ii) were nevertheless transferred to or otherwise acquired by the Federal Government.
+
+&emsp;&emsp;“(B) The lost use of lands described in subparagraph (A).
+
+&emsp;“(2)(A) Except as provided in subparagraph (B), the determinations of value made under this subsection shall be made not later than 1 year after the date of enactment of this Act \[Nov. 2, 1995\]. In carrying out this subsection, the Secretary shall use a method of determining value that—
+
+&emsp;&emsp;“(i) is acceptable to the Chairman; and
+
+&emsp;&emsp;“(ii) is in the best interest of the beneficiaries.
+
+&emsp;“(B) The Secretary and the Chairman may mutually agree to extend the deadline for making determinations under this subparagraph beyond the date specified in subparagraph (A).
+
+&emsp;“(3) The Secretary and the Chairman may mutually agree, with respect to the determinations of value described in subparagraphs (A) and (B) of paragraph (1), to provide—
+
+&emsp;&emsp;“(A) for making any portion of the determinations of value pursuant to subparagraphs (A) and (B) of paragraph (1); and
+
+&emsp;&emsp;“(B) for making the remainder of the determinations with respect to which the Secretary and the Chairman do not exercise the option described in subparagraph (A), pursuant to an appraisal conducted under paragraph (4).
+
+&emsp;“(4)(A) Except as provided in subparagraph (C), if the Secretary and the Chairman do not agree on the determinations of value made by the Secretary under subparagraphs (A) and (B) of paragraph (1), or, pursuant to paragraph (3), mutually agree to determine the value of certain lands pursuant to this subparagraph, such values shall be determined by an appraisal. An appraisal conducted under this subparagraph shall be conducted in accordance with appraisal standards that are mutually agreeable to the Secretary and the Chairman.
+
+&emsp;“(B) If an appraisal is conducted pursuant to this subparagraph, during the appraisal process—
+
+&emsp;&emsp;“(i) the Chairman shall have the opportunity to present evidence of value to the Secretary;
+
+&emsp;&emsp;“(ii) the Secretary shall provide the Chairman a preliminary copy of the appraisal;
+
+&emsp;&emsp;“(iii) the Chairman shall have a reasonable and sufficient opportunity to comment on the preliminary copy of the appraisal; and
+
+&emsp;&emsp;“(iv) the Secretary shall give consideration to the comments and evidence of value submitted by the Chairman under this subparagraph.
+
+&emsp;“(C) The Chairman shall have the right to dispute the determinations of values made by an appraisal conducted under this subparagraph. If the Chairman disputes the appraisal, the Secretary and the Chairman may mutually agree to employ a process of bargaining, mediation, or other means of dispute resolution to make the determinations of values described in subparagraphs (A) and (B) of paragraph (1).
+
+“(b)
+
+Authorization.—
+
+&emsp;“(1)
+
+Exchange.—Subject to paragraphs (2) and (5), the Secretary may convey Federal lands described in paragraph (5) to the Department of Hawaiian Home Lands in exchange for the continued retention by the Federal Government of lands described in subsection (a)(1)(A).
+
+&emsp;“(2)
+
+Value of lands.—(A) The value of any lands conveyed to the Department of Hawaiian Home Lands by the Federal Government in accordance with an exchange made under paragraph (1) may not be less than the value of the lands retained by the Federal Government pursuant to such exchange.
+
+&emsp;“(B) For the purposes of this subsection, the value of any lands exchanged pursuant to paragraph (1) shall be determined as of the date the exchange is carried out, or any other date determined by the Secretary, with the concurrence of the Chairman.
+
+&emsp;“(3)
+
+Lost use.—Subject to paragraphs (4) and (5), the Secretary may convey Federal lands described in paragraph (5) to the Department of Hawaiian Home Lands as compensation for the lost use of lands determined under subsection (a)(1)(B).
+
+&emsp;“(4)
+
+Value of lost use.—(A) the value of any lands conveyed to the Department of Hawaiian Home Lands by the Federal Government as compensation under paragraph (3) may not be less than the value of the lost use of lands determined under subsection (a)(1)(B).
+
+&emsp;“(B) For the purposes of this subparagraph, the value of any lands conveyed pursuant to paragraph (3) shall be determined as of the date that the conveyance occurs, or any other date determined by the Secretary, with the concurrence of the Chairman.
+
+&emsp;“(5)
+
+Federal lands for exchange.—(A) Subject to subparagraphs (B) and (C), Federal lands located in Hawaii that are under the control of an agency (other than lands within the National Park System or the National Wildlife Refuge System) may be conveyed to the Department of Hawaiian Home Lands under paragraphs (1) and (3). To assist the Secretary in carrying out this Act \[title\], the head of an agency may transfer to the Department of the Interior, without reimbursement, jurisdiction and control over any lands and any structures that the Secretary determines to be suitable for conveyance to the Department of Hawaiian Home Lands pursuant to an exchange conducted under this section.
+
+&emsp;“(B) No Federal lands that the Federal Government is required to convey to the State of Hawaii under section 5 of the Hawaii State Admission Act \[section 5 of Pub. L. 86–3, set out above\] may be conveyed under paragraph (1) or (3).
+
+&emsp;“(C) No Federal lands that generate income (or would be expected to generate income) for the Federal Government may be conveyed pursuant to an exchange made under this paragraph to the Department of Hawaiian Home Lands.
+
+“(c)
+
+Available Lands.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraphs (2) and (3), the Secretary shall require that lands conveyed tothe Department of Hawaiian Home Lands under this Act \[title\] shall have the status of available lands under the Hawaiian Homes Commission Act.
+
+&emsp;“(2)
+
+Subsequent exchange of lands.—Notwithstanding any other provision of law, lands conveyed to the Department of Hawaiian Home Lands under this paragraph may subsequently be exchanged pursuant to section 204(3) of the Hawaiian Home Commission Act \[former 48 U.S.C. 698(3)\].
+
+&emsp;“(3)
+
+Sale of certain lands.—Notwithstanding any other provision of law, the Chairman may, at the time that lands are conveyed to the Department of Hawaiian Home Lands as compensation for lost use under this Act \[title\], designate lands to be sold. The Chairman is authorized to sell such land under terms and conditions that are in the best interest of the beneficiaries. The proceeds of such a sale may only be used for the purposes described in section 207(a) of the Hawaiian Homes Commission Act \[former 48 U.S.C. 701(a)\].
+
+“(d)
+
+Consultation.—In carrying out their respective responsibilities under this section, the Secretary and the Chairman shall—
+
+&emsp;“(1) consult with the beneficiaries and organizations representing the beneficiaries; and
+
+&emsp;“(2) report to such organizations on a regular basis concerning the progress made to meet the requirements of this section.
+
+“(e)
+
+Hold Harmless.—Notwithstanding any other provision of law, the United States shall defend and hold harmless the Department of Hawaiian Home Lands, the employees of the Department, and the beneficiaries with respect to any claim arising from the ownership of any land or structure that is conveyed to the Department pursuant to an exchange made under this section prior to the conveyance to the Department of such land or structure.
+
+“(f)
+
+Screening.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, the Secretary of Defense and the Administrator of General Services shall, at the same time as notice is provided to Federal agencies that excess real property is being screened pursuant to applicable Federal laws (including regulations) for possible transfer to such agencies, notify the Chairman of any such screening of real property that is located within the State of Hawaii.
+
+&emsp;“(2)
+
+Response to notification.—Notwithstanding any other provision of law, not later than 90 days after receiving a notice under paragraph (1), the Chairman may select for appraisal real property, or at the election of the Chairman, portions of real property, that is the subject of a screening.
+
+&emsp;“(3)
+
+Selection.—Notwithstanding any other provision of law, with respect to any real property located in the State of Hawaii that, as of the date of enactment of this Act \[Nov. 2, 1995\], is being screened pursuant to applicable Federal laws for possible transfer (as described in paragraph (1)) or has been screened for such purpose, but has not been transferred or declared to be surplus real property, the Chairman may select all, or any portion of, such real property to be appraised pursuant to paragraph (4).
+
+&emsp;“(4)
+
+Appraisal.—Notwithstanding any other provision of law, the Secretary of Defense or the Administrator of General Services shall appriase \[sic\] the real property or portions of real property selected by the Chairman using the Uniform Standards for Federal Land Acquisition developed by the Interagency Land Acquisition Conference, or such other standard as the Chairman agrees to.
+
+&emsp;“(5)
+
+Request for conveyance.—Notwithstanding any other provision of law, not later than 30 days after the date of completion of such appraisal, the Chairman may request the conveyance to the Department of Hawaiian Home Lands of—
+
+&emsp;&emsp;“(A) the appraised property; or
+
+&emsp;&emsp;“(B) a portion of the appraised property, to the Department of Hawaiian Home Lands.
+
+&emsp;“(6)
+
+Conveyance.—Notwithstanding any other provision of law, upon receipt of a request from the Chairman, the Secretary of Defense or the Administrator of the General Services Administration shall convey, without reimbursement, the real property that is the subject of the request to the Department of Hawaiian Home Lands as compensation for lands identified under subsection (a)(1)(A) or lost use identified under subsection (a)(1)(B).
+
+&emsp;“(7)
+
+Real property not subject to recoupment.—Notwithstanding any other provision of law, any real property conveyed pursuant to paragraph (6) shall not be subject to recoupment based upon the sale or lease of the land by the Chairman.
+
+&emsp;“(8)
+
+Valuation.—Notwithstanding any other provision of law, the Secretary shall reduce the value identified under subparagraph (A) or (B) of subsection (a)(1), as determined pursuant to such subsection, by an amount equal to the appraised value of any excess lands conveyed pursuant to paragraph (6).
+
+&emsp;“(9)
+
+Limitation.—No Federal lands that generate income (or would be expected to generate income) for the Federal Government may be conveyed pursuant to this subsection to the Department of Hawaiian Home Lands.
+
+#### “SEC. 204. PROCEDURE FOR APPROVAL OF AMENDMENTS TO HAWAIIAN HOMES COMMISSION ACT.
+
+“(a)
+
+Notice to the Secretary.—Not later than 120 days after a proposed amendment to the Hawaiian Homes Commission Act is approved in the manner provided in section 4 of the Hawaii State Admission Act \[section 4 of Pub. L. 86–3, set out above\], the Chairman shall submit to the Secretary—
+
+&emsp;“(1) a copy of the proposed amendment;
+
+&emsp;“(2) the nature of the change proposed to be made by the amendment; and
+
+&emsp;“(3) an opinion regarding whether the proposed amendment requires the approval of Congress under section 4 of the Hawaii State Admission Act.
+
+“(b)
+
+Determination by Secretary.—Not later than 60 days after receiving the materials required to be submitted by the Chairman pursuant to subsection (a), the Secretary shall determine whether the proposed amendment requires the approval of Congress under section 4 of the Hawaii State Admission Act, and shall notify the Chairman and Congress of the determination of the Secretary.
+
+“(c)
+
+Congressional Approval Required.—If, pursuant to subsection (b), the Secretary determines that the proposed amendment requires the approval of Congress, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives—
+
+&emsp;“(1) a draft joint resolution approving the amendment;
+
+&emsp;“(2) a description of the change made by the proposed amendment and an explanation of how the amendment advances the interests of the beneficiaries;
+
+&emsp;“(3) a comparison of the existing law (as of the date of submission of the proposed amendment) that is the subject of the amendment with the proposed amendment;
+
+&emsp;“(4) a recommendation concerning the advisability of approving the proposed amendment; and
+
+&emsp;“(5) any documentation concerning the amendments received from the Chairman.
+
+#### “SEC. 205. LAND EXCHANGES.
+
+“(a)
+
+Notice to the Secretary.—If the Chairman recommends for approval an exchange of Hawaiian Home Lands, the Chairman shall submit a report to the Secretary on the proposed exchange. The report shall contain—
+
+&emsp;“(1) a description of the acreage and fair market value of the lands involved in the exchange;
+
+&emsp;“(2) surveys and appraisals prepared by the Department of Hawaiian Home Lands, if any; and
+
+&emsp;“(3) an identification of the benefits to the parties of the proposed exchange.
+
+“(b)
+
+Approval or Disapproval.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after receiving the information required to be submitted by the Chairman pursuant to subsection (a), the Secretary shall approve or disapprove the proposed exchange.
+
+&emsp;“(2)
+
+Notification.—The Secretary shall notify the Chairman, the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources of the House of Representatives of the reasons for the approval or disapproval of the proposed exchange.
+
+“(c)
+
+Exchanges Initiated by Secretary.—
+
+&emsp;“(1)
+
+In general.—The Secretary may recommend to the Chairman an exchange of Hawaiian Home Lands for Federal lands described in section 203(b)(5), other than lands described in subparagraphs (B) and (C) of such section. If the Secretary initiates a recommendation for such an exchange, the Secretary shall submit a report to the Chairman on the proposed exchange that meets the requirements of a report described in subsection (a).
+
+&emsp;“(2)
+
+Approval by chairman.—Not later than 120 days after receiving a recommendation for an exchange from the Secretary under paragraph (1), the Chairman shall provide written notification to the Secretary of the approval or disapproval of a proposed exchange. If the Chairman approves the proposed exchange, upon receipt of the written notification, the Secretary shall notify the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources of the House of Representatives of the approval of the Chairman of the proposed exchange.
+
+&emsp;“(3)
+
+Exchange.—Upon providing notification pursuant to paragraph (2) of a proposed exchange that has been approved by the Chairman pursuant to this section, the Secretary may carry out the exchange.
+
+“(d)
+
+Selection and Exchange.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, the Secretary may—
+
+&emsp;&emsp;“(A) select real property that is the subject of screening activities conducted by the Secretary of Defense or the Administrator of General Services pursuant to applicable Federal laws (including regulations) for possible transfer to Federal agencies; and
+
+&emsp;&emsp;“(B) make recommendations to the Chairman concerning making an exchange under subsection (c) that includes such real property.
+
+&emsp;“(2)
+
+Transfer.—Notwithstanding any other provision of law, if the Chairman approves an exchange proposed by the Secretary under paragraph (1)—
+
+&emsp;&emsp;“(A) the Secretary of Defense or the Administrator of General Services shall transfer the real property described in paragraph (1)(A) that is the subject of the exchange to the Secretary without reimbursement; and
+
+&emsp;&emsp;“(B) the Secretary shall carry out the exchange.
+
+&emsp;“(3)
+
+Limitation.—No Federal lands that generate income (or would be expected to generate income) for the Federal Government may be conveyed pursuant to this subsection to the Department of Hawaiian Home Lands.
+
+“(e)
+
+Surveys and Appraisals.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary shall conduct a survey of all Hawaiian Home Lands based on the report entitled ‘Survey Needs for the Hawaiian Home Lands’, issued by the Bureau of Land Management of the Department of the Interior, and dated July 1991.
+
+&emsp;“(2)
+
+Other surveys.—The Secretary is authorized to conduct such other surveys and appraisals as may be necessary to make an informed decision regarding approval or disapproval of a proposed exchange.
+
+#### “SEC. 206. ADMINISTRATION OF ACTS BY UNITED STATES.
+
+“(a)
+
+Designation.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of enactment of this Act \[Nov. 2, 1995\], the Secretary shall designate an individual from within the Department of the Interior to administer the responsibilities of the United States under this title and the Hawaiian Homes Commission Act.
+
+&emsp;“(2)
+
+Default.—If the Secretary fails to make an appointment by the date specified in paragraph (1), or if the position is vacant at any time thereafter, the Assistant Secretary for Policy, Budget, and Administration of the Department of the Interior shall exercise the responsibilities for the Department in accordance with subsection (b).
+
+“(b)
+
+Responsibilities.—The individual designated pursuant to subsection (a) shall, in administering the laws referred to in such subsection—
+
+&emsp;“(1) advance the interests of the beneficiaries; and
+
+&emsp;“(2) assist the beneficiaries and the Department of Hawaiian Home Lands in obtaining assistance from programs of the Department of the Interior and other Federal agencies that will promote homesteading opportunities, economic self-sufficiency, and social well-being of the beneficiaries.
+
+#### “SEC. 207. ADJUSTMENT.
+
+“\[Amended section 386a of Title 25, Indians.\]
+
+#### “SEC. 208. REPORT.
+
+“(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Nov. 2, 1995\], the Chairman shall report to the Secretary concerning any claims that—
+
+&emsp;“(1) involve the transfer of lands designated as available lands under section 203 of the Hawaiian Homes Commission Act \[former 48 U.S.C. 697\] (as in effect on the date of enactment of such Act \[July 9, 1921\]); and
+
+&emsp;“(2) are not otherwise covered under this title.
+
+“(b)
+
+Review.—Not later than 180 days after receiving the report submitted under subsection (a), the Secretary shall make a determination with respect to each claim referred to in subsection (a), whether, on the basis of legal and equitable considerations, compensation should be granted to the Department of Hawaiian Home Lands.
+
+“(c)
+
+Compensation.—If the Secretary makes a determination under subsection (b) that compensation should be granted to the Department of Hawaiian Home Lands, the Secretary shall determine the value of the lands and lost use in accordance with the process established under section 203(a), and increase the determination of value made under subparagraphs (A) and (B) of section 203(a)(1) by the value determined under this subsection.
+
+#### “SEC. 209. AUTHORIZATION.
+
+“There are authorized to be appropriated such sums as may be necessary for compensation to the Department of Hawaiian Home Lands for the value of the lost use of lands determined under section 203. Compensation received by the Department of Hawaiian Home Lands from funds made available pursuant to this section may only be used for the purposes described in section 207(a) of the Hawaiian Homes Commission Act \[former 48 U.S.C. 701(a)\]. To the extent that amounts are made available by appropriations pursuant to this section for compensation paid to the Department of Hawaiian Home Lands for lost use, the Secretary shall reduce the determination of value established under section 203(a)(1)(B) by such amount.”
 
 #### Consent to Amendment of Hawaiian Homes Commission Act, 1920
 
@@ -378,7 +730,7 @@ Sec. 18. \[Internal Revenue.\] (a) Section 4262(c)(1) of the Internal Revenue Co
 
 &emsp;“ ‘(1) Continental United States.—The term “continental United States” means the District of Columbia and the States other than Alaska and Hawaii.’
 
-“(b) Section 2202 of the Internal Revenue Code of 1986 (relating to missionaries in foreign service) is amended by striking out ‘the State, the District of Columbia, or Hawaii’ and inserting in lieu thereof ‘the State or the District of Columbia’.
+“(b) Section 2202 of the Internal Revenue Code of 1986 (relating to missionaries in foreign service) is amendedby striking out ‘the State, the District of Columbia, or Hawaii’ and inserting in lieu thereof ‘the State or the District of Columbia’.
 
 “(c) Section 3121(e)(1) of the Internal Revenue Code of 1986 (relating to a special definition of ‘State’) is amended by striking out ‘Hawaii,’.
 
@@ -470,7 +822,7 @@ Sec. 27. \[Federal Property and Administrative Services Act; amendment.\] The Fe
 
 &emsp;“(b) striking out the words ‘continental United States, its Territories, and possessions’ in section 211(j) and inserting in lieu thereof the words ‘States of the Union, the District of Columbia, Puerto Rico, and the possessions of the United States’;
 
-&emsp;“(c) striking out the words ‘continental limits of the United States’ in section 404(c) and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’; and
+&emsp;“(c) striking out the words ‘continental limits of the United States’ in section 404(c) and inserting inlieu thereof the words ‘States of the Union and the District of Columbia’; and
 
 &emsp;“(d) striking out the words ‘and the Territory of Hawaii’ in section 702(a).
 
@@ -562,7 +914,7 @@ Sec. 36. \[Communications Act; amendment.\] Section 222(a)(10) of the Communicat
 
 “
 
-Sec. 37. \[Aircraft Loan Guarantees.\] Section 3 of the Act of September 7, 1957 (71 Stat. 629), as amended, isfurther amended by striking out the words ‘Territory of Hawaii’ and inserting in lieu thereof the words ‘State of Hawaii’.
+Sec. 37. \[Aircraft Loan Guarantees.\] Section 3 of the Act of September 7, 1957 (71 Stat. 629), as amended, is further amended by striking out the words ‘Territory of Hawaii’ and inserting in lieu thereof the words ‘State of Hawaii’.
 
 “
 
@@ -626,7 +978,7 @@ Sec. 47. \[Effective Dates.\] (a) The amendments made by section 14(a)(2)(A), by
 
 “
 
-Sec. 48. \[Administration of Palmyra, Midway, and Wake Islands.\] Until Congress shall provide for the government of Palmyra Island, Midway Island, and Wake Island, all executive and legislative authority necessary for the civil administration of Palmyra Island, Midway Island and Wake Island, and all judicial authority other than that contained in the Act of June 15, 1950 (64 Stat. 217), as amended, shall continue to be vested in such person or persons and shall be exercised in such manner and through such agency or agencies as the President of the United States may direct or authorize. In the case of Palmyra Island, such person or persons may confer upon the United States District Court for the District of Hawaii such jurisdiction (inaddition to that contained in such Act of June 15, 1950), and such judicial functions and duties as he or they may deem appropriate for the civil administration of such island.
+Sec. 48. \[Administration of Palmyra, Midway, and Wake Islands.\] Until Congress shall provide for the government of Palmyra Island, Midway Island, and Wake Island, all executive and legislative authority necessary for the civil administration of Palmyra Island, Midway Island and Wake Island, and all judicial authority other than that contained in the Act of June 15, 1950 (64 Stat. 217), as amended, shall continue to be vested in such person or persons and shall be exercised in such manner and through such agency or agencies as the President of the United States may direct or authorize. In the case of Palmyra Island, such person or persons may confer upon the United States District Court for the District of Hawaii such jurisdiction (in addition to that contained in such Act of June 15, 1950), and such judicial functions and duties as he or they may deem appropriate for the civil administration of such island.
 
 “
 
@@ -682,9 +1034,9 @@ By virtue of the authority vested in me by section 48 of the Hawaii Omnibus Act 
 
 #### Part I—Wake Island
 
-Section 101. The Secretary of the Interior shall be responsible for the civil administration of Wake Island and all executive and legislative authority necessary for that administration, and all judicial authority respecting Wake Island other than the authority contained in the act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a), shall be vested in the Secretary of the Interior.
+Section 101. The Secretary of the Interior shall be responsible for the civil administration of Wake Islandand all executive and legislative authority necessary for that administration, and all judicial authority respecting Wake Island other than the authority contained in the act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a), shall be vested in the Secretary of the Interior.
 
-Sec. 102. The executive, legislative, and judicial authority provided for in section 101 of this order (1) may be exercised through such agency or agencies of the Department of the Interior, or through such officers or employees under the jurisdiction of the Secretary of the Interior, as the Secretary may direct or authorize, (2) may be exercised through such agency or agencies, other than or not in the Department of the Interior, or through such officers or employees of the United States not under the administrative supervision of the Secretary, for such time and under such conditions as may be agreed upon between the Secretary and such agency,agencies, officers or employees of the United States, and (3) shall be exercised in such manner as the Secretary, or any person or persons acting under the authority of the Secretary, may direct or authorize.
+Sec. 102. The executive, legislative, and judicial authority provided for in section 101 of this order (1) may be exercised through such agency or agencies of the Department of the Interior, or through such officers or employees under the jurisdiction of the Secretary of the Interior, as the Secretary may direct or authorize, (2) may be exercised through such agency or agencies, other than or not in the Department of the Interior, or through such officers or employees of the United States not under the administrative supervision of the Secretary, for such time and under such conditions as may be agreed upon between the Secretary and such agency, agencies, officers or employees of the United States, and (3) shall be exercised in such manner as the Secretary, or any person or persons acting under the authority of the Secretary, may direct or authorize.
 
 Sec. 103. Executive Order No. 6935 of December 29, 1934, to the extent that it pertains to Wake Island, is hereby superseded.
 

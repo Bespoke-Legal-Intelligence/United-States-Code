@@ -34,7 +34,7 @@ For purposes of this section, the term “qualified debt instrument” means any
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), paragraph (1) shall apply to any successor tothe borrower or lender with respect to a cash method debt instrument.
+&emsp;&emsp;Except as provided in subparagraph (B), paragraph (1) shall apply to any successor to the borrower or lender with respect to a cash method debt instrument.
 
 #### (B) Exception where lender transfers debt instrument to accrual method taxpayer
 

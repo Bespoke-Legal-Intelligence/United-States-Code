@@ -14,7 +14,7 @@ Any officer, agent, or employee of the Department of Health and Human Services, 
 
 #### (d) Regulations governing licenses; recall of product presenting imminent hazard; violations
 
-(1) Licenses for the maintenance of establishments for the propagation or manufacture and preparation of products described in subsection (a) of this section may be issued only upon a showing that the establishment and the products for which a license is desired meet standards, designed to insure the continued safety, purity, and potency of such products, prescribed in regulations, and licenses for new products may be issued only upon a showing that they meet such standards. All such licenses shall beissued, suspended, and revoked as prescribed by regulations and all licenses issued for the maintenance of establishments for the propagation or manufacture and preparation, in any foreign country, of any such products for sale, barter, or exchange in any State or possession shall be issued upon condition that the licensees will permit the inspection of their establishments in accordance with subsection (c) of this section.
+(1) Licenses for the maintenance of establishments for the propagation or manufacture and preparation of products described in subsection (a) of this section may be issued only upon a showing that the establishment and the products for which a license is desired meet standards, designed to insure the continued safety, purity, and potency of such products, prescribed in regulations, and licenses for new products may be issued only upon a showing that they meet such standards. All such licenses shall be issued, suspended, and revoked as prescribed by regulations and all licenses issued for the maintenance of establishments for the propagation or manufacture and preparation, in any foreign country, of any such products for sale, barter, or exchange in any State or possession shall be issued upon condition that the licensees will permit the inspection of their establishments in accordance with subsection (c) of this section.
 
 (2)(A) Upon a determination that a batch, lot, or other quantity of a product licensed under this section presents an imminent or substantial hazard to the public health, the Secretary shall issue an order immediately ordering the recall of such batch, lot, or other quantity of such product. An order under this paragraph shall be issued in accordance with section 554 of title 5.
 
@@ -26,7 +26,7 @@ No person shall interfere with any officer, agent, or employee of the Service in
 
 #### (f) Penalties for offenses
 
-Any person who shall violate, or aid or abet in violating, any of the provisions of this section shall be punished upon conviction by a fine not exceeding $500 or by imprisonment not exceeding one year, or by both such fine and imprisonment, in the discretion of the court.
+Any person who shall violate, or aid or abet in violating, any of the provisions of this sectionshall be punished upon conviction by a fine not exceeding $500 or by imprisonment not exceeding one year, or by both such fine and imprisonment, in the discretion of the court.
 
 #### (g) Construction with other laws
 

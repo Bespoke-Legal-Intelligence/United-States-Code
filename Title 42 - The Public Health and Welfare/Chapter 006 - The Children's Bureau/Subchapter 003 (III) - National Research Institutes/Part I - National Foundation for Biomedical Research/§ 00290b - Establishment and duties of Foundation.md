@@ -218,7 +218,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>3</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>3</sup>
 
 #### (9) Limitation of activities
 
@@ -356,7 +356,7 @@ Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted “5” for “
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

@@ -20,7 +20,7 @@ As used in this chapter—
 
 (i) The term “Commission” means the Consumer Product Safety Commission.
 
-(j) The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define itspowers and duties, and for other purposes”, approved September 26, 1914, as amended \[15 U.S.C. 41 et seq.\].
+(j) The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes”, approved September 26, 1914, as amended \[15 U.S.C. 41 et seq.\].
 
 (June 30, 1953, ch. 164, §2, 67 Stat. 111; Dec. 14, 1967, Pub. L. 90–189, §1, 81 Stat. 568; Oct. 27, 1972, Pub. L. 92–573, §30(b), 86 Stat. 1231.)
 

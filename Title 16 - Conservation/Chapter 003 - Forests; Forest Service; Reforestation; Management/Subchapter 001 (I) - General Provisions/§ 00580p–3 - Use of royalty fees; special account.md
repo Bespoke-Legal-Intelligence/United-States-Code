@@ -12,7 +12,7 @@ This Act, referred to in subsec. (b), is Pub. L. 93–318, June 22, 1974, 88 Sta
 
 #### Codification
 
-Section was formerly classified to section 488b–5 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 488b–5 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Section Referred to in Other Sections
 

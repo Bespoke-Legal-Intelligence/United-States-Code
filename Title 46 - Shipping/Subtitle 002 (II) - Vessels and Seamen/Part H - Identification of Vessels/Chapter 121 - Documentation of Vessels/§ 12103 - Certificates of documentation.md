@@ -58,5 +58,5 @@ Amendment by Pub. L. 101–225 effective on the 180th day after Dec. 12, 1989, s
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
+Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
 

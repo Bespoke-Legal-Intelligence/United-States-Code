@@ -12,7 +12,7 @@
 
 #### (b) Ownership of riparian lands; ratification of memorandum of agreement
 
-(1) Whenever, either before or after August 16, 1988, the Secretary conveys land to a Native, aNative Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act which abuts or surrounds a meanderable lake, river, or stream, all right, title, and interest of the United States, if any, in the land under such lake, river, or stream lying between the uplands and the median line or midpoint, as the case may be, shall vest in and shall not be charged against the acreage entitlement of such Native or Native Corporation or the State. The right, title, and interest vested in a Native or Native Corporation shall be no greater an estate than the estate he or it is conveyed in the land which abuts or surrounds the lake, river, or stream.
+(1) Whenever, either before or after August 16, 1988, the Secretary conveys land to a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act which abuts or surrounds a meanderable lake, river, or stream, all right, title, and interest of the United States, if any, in the land under such lake, river, or stream lying between the uplands and the median line or midpoint, as the case may be, shall vest in and shall not be charged against the acreage entitlement of such Native or Native Corporation or the State. The right, title, and interest vested in a Native or Native Corporation shall be no greater an estate than the estate he or it is conveyed in the land which abuts or surrounds the lake, river, or stream.
 
 (2) The specific terms, conditions, procedures, covenants, reservations, and other restrictions set forth in the document entitled, “Memorandum of Agreement between the United States Department of the Interior and the State of Alaska” dated March 28, 1984, signed by the Secretary and the Governor of Alaska and submitted to the Committee on Interior and Insular Affairs of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, are hereby incorporated in this section and are ratified as to the duties and obligations of the United States and the State, as a matter of Federal law.
 
@@ -54,11 +54,11 @@ Pub. L. 99–258 substituted “six years after the date of execution” for “
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Construction
 
-Section 102 of Pub. L. 100–395 provided that: “Nothing in this Act \[amending this section and section 3192 of Title 16, Conservation, and enacting provisions set out as notes under this section\] shall amend or alter any land exchange agreement to which the United States is a party, or any statute, including but not limited tothe Act of January 2, 1976 (89 Stat. 1151) and section 506(c) of the Alaska National Interest Lands Conservation Act (94 Stat. 2409; Public Law 96–487), that authorizes, ratifies or implements such an agreement.”
+Section 102 of Pub. L. 100–395 provided that: “Nothing in this Act \[amending this section and section 3192 of Title 16, Conservation, and enacting provisions set out as notes under this section\] shall amend or alter any land exchange agreement to which the United States is a party, or any statute, including but not limited to the Act of January 2, 1976 (89 Stat. 1151) and section 506(c) of the Alaska National Interest Lands Conservation Act (94 Stat. 2409; Public Law 96–487), that authorizes, ratifies or implements such an agreement.”
 
 #### Report to Congress
 

@@ -14,7 +14,7 @@ Each comprehensive review prepared for submission under section 7351 of this tit
 
 &emsp;(6) an assessment of the degree to which the original objectives of the program have been achieved, expressed in terms of the performance, impact, or accomplishments of the program and of the problem or need which it was intended to address, and employing the procedures or methods of analysis appropriate to the type or character of the program;
 
-&emsp;(7) a statement of the performance and accomplishments of the program in each of the previous four completed fiscal years and of the budgetary costs incurred in the operation of the program;
+&emsp;(7) a statement of the performance and accomplishments of the program in each of the previous four completed fiscal years and of thebudgetary costs incurred in the operation of the program;
 
 &emsp;(8) a statement of the number and types of beneficiaries or persons served by the program;
 
@@ -28,7 +28,7 @@ Each comprehensive review prepared for submission under section 7351 of this tit
 
 &emsp;(13) an analysis of the services which could be provided and performance which could be achieved if the program were continued at a level less than, equal to, or greater than the existing level; and
 
-&emsp;(14) recommendations for necessary transitional requirements in the event that fundingfor such program is discontinued, including proposals for such executives or legislative action as may be necessary to prevent such discontinuation from being unduly disruptive.
+&emsp;(14) recommendations for necessary transitional requirements in the event that funding for such program is discontinued, including proposals for such executives or legislative action as may be necessary to prevent such discontinuation from being unduly disruptive.
 
 (Pub. L. 95–91, title X, §1002, Aug. 4, 1977, 91 Stat. 612.)
 

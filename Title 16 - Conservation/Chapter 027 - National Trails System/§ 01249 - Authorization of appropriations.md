@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 95–625 added subsec. (c).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of Appropriation Authorizations Under Pub. L. 98–11; Contract Authority
 
@@ -60,7 +60,7 @@ Section 101 of Pub. L. 98–11 provided that: “Authorizations of appropriation
 
 #### Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority
 
-Section 2 of Pub. L. 96–370 provided that: “Authorizations of moneys to be appropriated under this Act\[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
+Section 2 of Pub. L. 96–370 provided that: “Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

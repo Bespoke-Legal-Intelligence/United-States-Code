@@ -12,7 +12,7 @@ Upon receipt of a plan or revision thereof from any river basin commission under
 
 &emsp;(a) formulate such recommendations as it deems desirable in the national interest; and
 
-&emsp;(b) transmit its recommendations, together with the plan or revision of the river basin commission and the views, comments, and recommendations with respect to such plan or revision submitted by any Federal agency, Governor, interstate commission, or United States section of an international commission, to the President for his review and transmittal to the Congress with his recommendations in regard to authorization of Federal projects.
+&emsp;(b) transmit its recommendations, together with the plan or revision of the river basin commission and the views, comments, and recommendations with respect to such plan or revision submitted by any Federal agency, Governor, interstate commission, or United States section of an international commission, to the President for his review and transmittal to theCongress with his recommendations in regard to authorization of Federal projects.
 
 (Pub. L. 89–80, title I, §104, July 22, 1965, 79 Stat. 245.)
 

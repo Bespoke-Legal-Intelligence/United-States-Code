@@ -94,7 +94,7 @@ Agency Reviews of Financial Management Activities.—Not later than 120 days aft
 
 “(b)
 
-Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions in particular officers and employees of the United States,the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
+Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions in particular officers and employees of the United States, the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
 
 &emsp;“(1) a description of all functions, powers, duties, personnel, property, or records which the agency Chief Financial Officer is proposed to have authority over, including those relating to functions that are not related to financial management activities; and
 

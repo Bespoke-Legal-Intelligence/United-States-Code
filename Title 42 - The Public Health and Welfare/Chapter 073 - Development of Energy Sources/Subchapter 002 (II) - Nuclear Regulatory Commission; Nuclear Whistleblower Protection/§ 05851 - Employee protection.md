@@ -54,7 +54,7 @@ Whenever a person has failed to comply with an order issued under subsection (b)
 
 #### (e) Commencement of action
 
-(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil actionagainst the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 (2) The court, in issuing any final order under this subsection, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.
 
@@ -94,7 +94,7 @@ Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 123
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–486, §2902(a), designated existing provisions as par. (1) and struck out “, including a Commission licensee, an applicant for a Commission license, or a contractor or a subcontractor of a Commission licensee or applicant,” after “No employer”, added subpars. (A) to (C), redesignated formerpars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
+1992—Subsec. (a). Pub. L. 102–486, §2902(a), designated existing provisions as par. (1) and struck out “, including a Commission licensee, an applicant for a Commission license, or a contractor or a subcontractor of a Commission licensee or applicant,” after “No employer”, added subpars. (A) to (C), redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 102–486, §2902(b), (h)(2), substituted “180” for “thirty”, “(in this section referred to as the ‘Secretary’)” for “(hereinafter in this subsection referred to as the ‘Secretary’)”, and “, the Commission, and the Department of Energy” for “and the Commission”.
 

@@ -12,7 +12,7 @@
 
 #### (b) Guarantees available only for short-term guarantees and insurance
 
-Guarantees provided under subsection (a) of this section shall be for short-term guaranteesand insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance.
+Guarantees provided under subsection (a) of this section shall be for short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance.
 
 #### (c) Agreement on criteria and procedures
 
@@ -46,7 +46,7 @@ Every 6 months, the Administrator and the President of the Bank shall prepare an
 
 #### (i) Administrative and technical assistance
 
-The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bank and the Administrator determine appropriate to assist the administering agency in carrying out this section.
+The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bankand the Administrator determine appropriate to assist the administering agency in carrying out this section.
 
 #### (j) Fees and premiums
 

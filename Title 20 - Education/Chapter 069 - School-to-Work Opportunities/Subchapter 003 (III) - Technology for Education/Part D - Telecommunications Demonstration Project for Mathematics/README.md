@@ -1,6 +1,6 @@
 Part D—Telecommunications Demonstration Project for Mathematics
 
-<i><sup>1</sup></i><i>So in original. Probably should be subsection “(a)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)”.</i>
 
 
 ---

@@ -30,7 +30,7 @@ Section 951 of Pub. L. 94–63, as amended by Pub. L. 95–623, §12(h), Nov. 9,
 
 “(a)(1) Using procedures developed in accordance with paragraph (3), the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’) shall determine on a continuing basis—
 
-&emsp;“(A) the supply (both current and projected and within the United States and within each State) ofregistered nurses, licensed practical and vocational nurses, nurse's aides, registered nurses with advanced training or graduate degrees, and nurse practitioners;
+&emsp;“(A) the supply (both current and projected and within the United States and within each State) of registered nurses, licensed practical and vocational nurses, nurse's aides, registered nurses with advanced training or graduate degrees, and nurse practitioners;
 
 &emsp;“(B) the distribution within the United States and within each State, of such nurses so as to determine (i) those areas of the United States which are oversupplied or undersupplied, or which have an adequate supply of such nurses in relation to the population of the area, and (ii) the demand for the services which such nurses provide; and
 

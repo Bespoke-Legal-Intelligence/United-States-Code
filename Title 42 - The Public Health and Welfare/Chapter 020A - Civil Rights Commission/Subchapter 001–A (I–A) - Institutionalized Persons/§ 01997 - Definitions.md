@@ -28,7 +28,7 @@ As used in this subchapter—
 
 &emsp;(A) the licensing of such facility by the State constitutes the sole nexus between such facility and such State;
 
-&emsp;(B) the receipt by such facility, on behalf of persons residing in such facility, of payments under title XVI, XVIII \[42 U.S.C. 1381 et seq.,1395 et seq.\], or under a State plan approved under title XIX \[42 U.S.C. 1396 et seq.\], of the Social Security Act, constitutes the sole nexus between such facility and such State; or
+&emsp;(B) the receipt by such facility, on behalf of persons residing in such facility, of payments under title XVI, XVIII \[42 U.S.C. 1381 et seq., 1395 et seq.\], or under a State plan approved under title XIX \[42 U.S.C. 1396 et seq.\], of the Social Security Act, constitutes the sole nexus between such facility and such State; or
 
 &emsp;(C) the licensing of such facility by the State, and the receipt by such facility, on behalf of persons residing in such facility, of payments under title XVI, XVIII \[42 U.S.C. 1381 et seq., 1395 et seq.\], or under a State plan approved under title XIX \[42 U.S.C. 1396 et seq.\], of the Social Security Act, constitutes the sole nexus between such facility and such State;
 

@@ -20,11 +20,11 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 Programming developed under this section shall reflect the recognition of diverse cultural experiences and the needs and experiences of both boys and girls in engaging and preparing young children for schooling.
 
-(Pub. L. 89 10, title III, §3302, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3663.)
+(Pub. L. 89–10, title III, §3302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3663.)
 
 #### References in Text
 
-The Star Schools Act, referred to in subsec. (a)(2), is part B (§§3201 3210) of title III of Pub. L. 89 10, as added by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3654, which is classified generally to part B (§6891 et seq.) of this subchapter. For complete classification of this Act to the Code, see section 6891 of this title and Tables.
+The Star Schools Act, referred to in subsec. (a)(2), is part B (§§3201–3210) of title III of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3654, which is classified generally to part B (§6891 et seq.) of this subchapter. For complete classification of this Act to the Code, see section 6891 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

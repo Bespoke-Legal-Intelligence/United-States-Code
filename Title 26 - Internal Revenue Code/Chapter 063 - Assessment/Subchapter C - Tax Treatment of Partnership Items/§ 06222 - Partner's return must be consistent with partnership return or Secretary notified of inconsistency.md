@@ -20,7 +20,7 @@ A partner shall, on the partner's return, treat a partnership item in a manner w
 
 #### (2) Partner receiving incorrect information
 
-&emsp;A partner shall be treated as having complied with subparagraph (B) of paragraph (1)with respect to a partnership item if the partner—
+&emsp;A partner shall be treated as having complied with subparagraph (B) of paragraph (1) with respect to a partnership item if the partner—
 
 &emsp;&emsp;(A) demonstrates to the satisfaction of the Secretary that the treatment of the partnership item on the partner's return is consistent with the treatment of the item on the schedule furnished to the partner by the partnership, and
 

@@ -82,7 +82,7 @@ The following Federal standards are hereby established:
 
 &emsp;(A) To the extent that a State regulatory authority requires or allows electric utilities for which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
 
-&emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
+&emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, thatmay result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
 
 &emsp;&emsp;(ii) whether the use by exempt wholesale generators (as defined in section 79z–5a of title 15) of capital structures which employ proportionally greater amounts of debt than the capital structures of such utilities threatens reliability or provides an unfair advantage for exempt wholesale generators over such utilities;
 
@@ -90,7 +90,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(iv) whether to require as a condition for the approval of the purchase of power that there be reasonable assurances of fuel supply adequacy.
 
-&emsp;(B) For purposes of implementing the provisions of this paragraph, any reference contained in this section to November 9, 1978,shall be deemed to be a reference to October 24, 1992.
+&emsp;(B) For purposes of implementing the provisions of this paragraph, any reference contained in this section to November 9, 1978, shall be deemed to be a reference to October 24, 1992.
 
 &emsp;(C) Notwithstanding any other provision of Federal law, nothing in this paragraph shall prevent a State regulatory authority from taking such action, including action with respect to the allowable capital structure of exempt wholesale generators, as such State regulatory authority may determine to be in the public interest as a result of performing evaluations under the standards of subparagraph (A).
 

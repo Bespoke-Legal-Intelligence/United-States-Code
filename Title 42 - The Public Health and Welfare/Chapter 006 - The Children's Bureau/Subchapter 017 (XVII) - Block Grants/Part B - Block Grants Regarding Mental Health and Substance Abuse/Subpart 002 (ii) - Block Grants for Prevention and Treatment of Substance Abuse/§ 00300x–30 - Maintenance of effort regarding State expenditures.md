@@ -22,7 +22,7 @@ With respect to the principal agency of a State for carrying out authorized acti
 
 #### (1) In general
 
-&emsp;In making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with any agreement made under subsection (a) of this section. If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x–21 of this title forthe State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
+&emsp;In making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with any agreement made under subsection (a) of this section. If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x–21 of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
 
 #### (2) Submission of information to Secretary
 

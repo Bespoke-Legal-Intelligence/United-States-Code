@@ -30,7 +30,7 @@ At any time the aggregate of amounts in the Insurance Fund exceeds the secure ba
 
 #### (c) Secure base amount
 
-For purposes of this part, the term “secure base amount” means, with respect to any point in time, 2 percent of the aggregate outstanding insured obligations of all insured System banks at such time (adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation), or such other percentage of the aggregate amount as the Corporation in its sole discretion determines is actuarially sound to maintain in the Insurance Fund taking into account the risk of insuring outstanding insured obligations.
+For purposes of this part, the term “secure base amount” means, with respect to any point in time, 2 percent of the aggregate outstanding insured obligations of all insured System banks at such time (adjusted downward to exclude an amount equal to the sum of (1) 90 percent of theguaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation), or such other percentage of the aggregate amount as the Corporation in its sole discretion determines is actuarially sound to maintain in the Insurance Fund taking into account the risk of insuring outstanding insured obligations.
 
 #### (d) Determination of principal outstanding
 
@@ -102,7 +102,7 @@ In General.—The Comptroller General of the United States shall investigate, re
 
 &emsp;&emsp;“(D) limitations on any authority to levy supplemental premiums and the underlying basis for the limitations; and
 
-&emsp;“(3) the authority to establish an insurance premium rate structure that would take into account, on an institution-by-institution basis, asset quality risk, interest rate risk, earnings, and capital.
+&emsp;“(3) the authority to establish an insurance premium rate structure that would take into account,on an institution-by-institution basis, asset quality risk, interest rate risk, earnings, and capital.
 
 “(b)
 

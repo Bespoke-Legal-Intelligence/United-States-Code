@@ -10,7 +10,7 @@ Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 
 
 “(b) No duty shall be imposed under section 287 \[section 2397 of this title\], after September 30, 1993.
 
-“(c)(1) Except as provided in paragraph (2), no assistance, vouchers, allowances, or other payments may be provided under chapter 2 \[enacting part 2 of this subchapter and amending section 3302 of Title 26, Internal Revenue Code\], and no technical assistance may be provided under chapter 3 \[enacting part 3 of this subchapter\], after September 30, 1998.
+“(c)(1) Except as provided in paragraph (2), no assistance, vouchers, allowances, or other payments may beprovided under chapter 2 \[enacting part 2 of this subchapter and amending section 3302 of Title 26, Internal Revenue Code\], and no technical assistance may be provided under chapter 3 \[enacting part 3 of this subchapter\], after September 30, 1998.
 
 “(2)(A) Except as provided in subparagraph (B), no assistance, vouchers, allowances, or other payments may be provided under subchapter D of chapter 2 \[enacting subpart D of part 2 of this subchapter\] after the day that is the earlier of—
 
@@ -26,7 +26,7 @@ Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 
 
 > such worker shall continue to be eligible to receive such assistance for any week for which the worker meets the eligibility requirements of such section.”
 
-\[Amendment by Pub. L. 103–182 to section 285(c) of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\],see section 506(a) of Pub. L. 103–182, set out as an Effective Date note under section 2331 of this title.\]
+\[Amendment by Pub. L. 103–182 to section 285(c) of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as an Effective Date note under section 2331 of this title.\]
 
 \[Parts 2 and 3 of this subchapter applicable as if amendments by sections 13007 and 13008 of Pub. L. 99–272, amending section 285 of Pub. L. 93–618, set out above, and sections 2317 and 2346 of this title, had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 2291 of this title.\]
 

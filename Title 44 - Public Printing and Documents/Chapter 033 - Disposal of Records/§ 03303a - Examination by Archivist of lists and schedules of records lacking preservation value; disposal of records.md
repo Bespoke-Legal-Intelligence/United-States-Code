@@ -16,11 +16,11 @@
 
 > However, this subsection does not require the Archivist to request such advice and counsel as a regular procedure in the general disposal of records under this chapter.
 
-(d) The Archivist shall promulgate schedules authorizing the disposal, after the lapse of specified periods of time, of records of a specified form or character common to several or all agencies if such records will not, at the end of the periods specified, have sufficient administrative, legal, research, or other value to warrant their further preservation by the United States Government. A Federal agency may request changes in such schedules for its records pursuant to section 2909 of this title.
+(d) The Archivist shall promulgate schedules authorizing the disposal, after the lapse of specified periods of time, of records of a specified form or character common to several or allagencies if such records will not, at the end of the periods specified, have sufficient administrative, legal, research, or other value to warrant their further preservation by the United States Government. A Federal agency may request changes in such schedules for its records pursuant to section 2909 of this title.
 
 (e) The Archivist may approve and effect the disposal of records that are in his legal custody, provided that records that had been in the custody of another existing agency may not be disposed of without the written consent of the head of the agency.
 
-(f) The Archivist shall make an annual report to the Congress concerning the disposal ofrecords under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
+(f) The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
 
 (Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290, 2294.)
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 95–440, §1(b), (c), substituted “shall” for “may�
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

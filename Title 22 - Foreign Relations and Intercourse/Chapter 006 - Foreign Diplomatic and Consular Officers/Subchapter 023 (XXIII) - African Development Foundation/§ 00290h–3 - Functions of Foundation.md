@@ -2,7 +2,7 @@
 
 #### (a) Types of programs; project limitations; dissemination of project insights
 
-(1) In order to carry out the purposes set forth in section 290h–2 of this title, the Foundationmay make grants, loans, and loan guarantees to any African private or public group (including public international organizations), association, or other entity engaged in peaceful activities for—
+(1) In order to carry out the purposes set forth in section 290h–2 of this title, the Foundation may make grants, loans, and loan guarantees to any African private or public group (including public international organizations), association, or other entity engaged in peaceful activities for—
 
 &emsp;(A) the fostering of local development institutions and the support of development efforts initiated by communities themselves;
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) development research by Africans and the transfer of development resources, expertise, and knowledge within Africa;
 
-&emsp;(D) the procurement of such technical or other assistance as is deemed appropriate by the recipient of such grant, loan, or guarantee, to carry out the purposes of this subchapter; and
+&emsp;(D) the procurement of such technical or other assistance as is deemed appropriate by the recipient of such grant, loan, or guarantee,to carry out the purposes of this subchapter; and
 
 &emsp;(E) other projects that would carry out the purposes set forth in section 290h–2 of this title.
 

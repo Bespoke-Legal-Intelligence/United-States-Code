@@ -1,6 +1,6 @@
 ### §553. Setoff
 
-(a) Except as otherwise provided in this section and in sections 362 and 363 of this title, this title does not affect any right of a creditor to offset a mutual debt owing by such creditor to the debtor that arose before the commencement of the case under this title against a claim ofsuch creditor against the debtor that arose before the commencement of the case, except to the extent that—
+(a) Except as otherwise provided in this section and in sections 362 and 363 of this title, thistitle does not affect any right of a creditor to offset a mutual debt owing by such creditor to the debtor that arose before the commencement of the case under this title against a claim of such creditor against the debtor that arose before the commencement of the case, except to the extent that—
 
 &emsp;(1) the claim of such creditor against the debtor is disallowed;
 

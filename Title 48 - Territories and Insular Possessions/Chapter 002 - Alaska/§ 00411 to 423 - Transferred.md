@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 411, act May 14, 1898, ch. 299, §2, 30 Stat. 409, which granted railroads rights of way, reserved mineral interests therein, and directed posting of schedules of rates, was transferred to section 942–1 of Title 43, Public Lands.
+Section 411, act May 14, 1898, ch. 299, §2, 30 Stat. 409, which granted railroads rights of way, reserved mineralinterests therein, and directed posting of schedules of rates, was transferred to section 942–1 of Title 43, Public Lands.
 
 Section 412, act May 14, 1898, ch. 299, §3, 30 Stat. 410, which provided for rights of several roads through canyons, was transferred to section 942–2 of Title 43.
 

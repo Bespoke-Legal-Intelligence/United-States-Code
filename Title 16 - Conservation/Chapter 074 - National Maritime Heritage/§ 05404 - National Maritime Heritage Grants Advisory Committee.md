@@ -56,7 +56,7 @@ There is hereby established a National Maritime Heritage Grants Advisory Committ
 
 #### (5) Vacancies
 
-&emsp;In the case of a vacancy in the membership of the Committee appointed under paragraph\(1), the Secretary shall appoint an individual to serve the remainder of the term that is vacant by not later than 60 days after the vacancy occurs.
+&emsp;In the case of a vacancy in the membership of the Committee appointed under paragraph (1), the Secretary shall appoint an individual to serve the remainder of the term that is vacant by not later than 60 days after the vacancy occurs.
 
 #### (c) Federal Government ex officio members
 

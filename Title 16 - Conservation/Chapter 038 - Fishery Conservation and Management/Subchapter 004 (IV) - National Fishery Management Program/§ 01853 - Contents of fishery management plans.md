@@ -56,7 +56,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(4) prohibit, limit, condition, or require the use of specified types and quantities of fishing gear, fishing vessels, or equipment for such vessels,, including devices which may be required to facilitate enforcement of the provisions of this chapter;
 
-&emsp;(5) incorporate (consistent with the national standards, the other provisions of this chapter, and any other applicable law) the relevant fishery conservation and management measures of the coastal States nearest to the fishery;
+&emsp;(5) incorporate (consistent with the national standards, the other provisions of this chapter,and any other applicable law) the relevant fishery conservation and management measures of the coastal States nearest to the fishery;
 
 &emsp;(6) establish a system for limiting access to the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
 
@@ -114,7 +114,7 @@ The Secretary shall promulgate regulations to restrict the use, in civil enforce
 
 #### Amendment of Subsection (b)(1)(A)
 
-<i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.</i>
+<i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary,</i><i>signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.</i>
 
 #### References in Text
 

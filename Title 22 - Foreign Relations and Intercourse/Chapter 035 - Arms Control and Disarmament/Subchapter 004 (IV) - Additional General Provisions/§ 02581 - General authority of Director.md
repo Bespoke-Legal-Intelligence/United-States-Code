@@ -54,7 +54,7 @@ make, promulgate, issue, rescind, and amend such rules and regulations as may be
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is actJune 30, 1949, ch. 288, 63 Stat. 377, as amended. The excess property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The excess property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The provisions of title 5 governing appointment to the competitive service, referred to in subsec. (b), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -68,7 +68,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 “(2) the Director shall make adequate provision for administrative review of any determination to suspend or dismiss any officer or employee appointed under the foregoing exception; and
 
-“(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
+“(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normallygranted such officer or employee in the competitive service;”.
 
 1991—Subsecs. (h) to (j). Pub. L. 102–228 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 

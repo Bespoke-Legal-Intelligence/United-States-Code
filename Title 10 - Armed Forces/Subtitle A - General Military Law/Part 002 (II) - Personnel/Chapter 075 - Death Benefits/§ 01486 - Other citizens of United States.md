@@ -1,4 +1,4 @@
-### §1486 . Other citizens of United States
+### §1486. Other citizens of United States
 
 (a) If local commercial mortuary services and supplies are not available, or if he believes that their cost is prohibitive, the Secretary concerned may furnish those services and supplies on a reimbursable basis in the case of any of the following citizens of the United States who die outside the United States:
 

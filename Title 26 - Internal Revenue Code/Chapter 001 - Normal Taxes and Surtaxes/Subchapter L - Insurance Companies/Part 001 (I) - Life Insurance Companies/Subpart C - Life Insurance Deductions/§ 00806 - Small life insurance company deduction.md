@@ -86,7 +86,7 @@ For purposes of this part—
 
 #### (4) Adjustments to prevent excess detriment or benefit
 
-&emsp;Under regulations prescribed by the Secretary, proper adjustments shall be made inthe application of this subsection to prevent any excess detriment or benefit (whether from year-to-year or otherwise) arising from the application of this subsection.
+&emsp;Under regulations prescribed by the Secretary, proper adjustments shall be made in the application of this subsection to prevent any excess detriment or benefit (whether from year-to-year or otherwise) arising from the application of this subsection.
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 724; amended Pub. L. 99–514, title X, §1011(a), (b)(5)–(8), (11)(A), Oct. 22, 1986, 100 Stat. 2388, 2389.)
 
@@ -136,7 +136,7 @@ In general.—For purposes of applying paragraph (2) of section 806(d) of the In
 
 &emsp;“(B) during such taxable year, the controlled group does not include a member which is taxable under part I of subchapter L of chapter 1 of such Code and which became a member of such group after September 27, 1983, and
 
-&emsp;“(C) the sum of the contributions to capital received by members of the controlled group which are taxable under such part I during such taxable year from the members of the controlled group which are not taxable under such part does not exceed the aggregate dividends paid during such taxable year by the members of such group which are taxable under such part I.
+&emsp;“(C) the sum of the contributions to capital received by members of the controlled group which aretaxable under such part I during such taxable year from the members of the controlled group which are not taxable under such part does not exceed the aggregate dividends paid during such taxable year by the members of such group which are taxable under such part I.
 
 “(2)
 

@@ -6,7 +6,7 @@ Whenever he determines such action to be necessary in furtherance of the purpose
 
 #### (b) Qualifications of mortgagor for assistance payments
 
-To qualify for assistance payments a middle-income family shall be a mortgagor under amortgage which is (1) insured under subsection (j) of this section, (2) guaranteed under chapter 37 of title 38, or (3) a conventional mortgage meeting the requirements of subsection (j)(3) of this section. In addition to the foregoing requirement, the Secretary may require that the mortgagor have an income, at the time of acquisition of the property, of not more than the median income for the area in which the property is located, as determined by the Secretary, with appropriate adjustments for smaller and larger families.
+To qualify for assistance payments a middle-income family shall be a mortgagor under a mortgage which is (1) insured under subsection (j) of this section, (2) guaranteed under chapter 37 of title 38, or (3) a conventional mortgage meeting the requirements of subsection (j)(3) of this section. In addition to the foregoing requirement, the Secretary may require that the mortgagor have an income, at the time of acquisition of the property, of not more than the median income for the area in which the property is located, as determined by the Secretary, with appropriate adjustments for smaller and larger families.
 
 #### (c) Termination of interest subsidy payments
 
@@ -44,13 +44,13 @@ The Secretary shall prescribe such regulations as he deems necessary to assure t
 
 #### (i) Determination of family income; exclusion of income of minors
 
-In determining the income of any family for the purposes of this section, income from allsources of each member of the family in the household shall be included, except that the Secretary shall exclude income earned by any minor person.
+In determining the income of any family for the purposes of this section, income from all sources of each member of the family in the household shall be included, except that the Secretary shall exclude income earned by any minor person.
 
 #### (j) Insurance of mortgages executed by mortgagors meeting eligibility requirements for assistance payments; issuance of commitment; eligibility requirements for insurance
 
 (1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
-(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
+(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirementsof section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 
 (3) A mortgage to be insured under this section shall—
 

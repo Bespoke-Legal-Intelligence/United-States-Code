@@ -38,5 +38,5 @@ The Secretary may engage in joint statistical projects related to the purposes o
 
 &emsp;The Center shall, in accordance with such terms and conditions as the Secretary may prescribe, provide all interested parties, including public and private agencies and individuals, direct access to data collected by the Center for the purposes of research and acquiring statistical information.
 
-(Pub. L. 103 382, title IV, §409, Oct. 20, 1994, 108 Stat. 4035.)
+(Pub. L. 103–382, title IV, §409, Oct. 20, 1994, 108 Stat. 4035.)
 

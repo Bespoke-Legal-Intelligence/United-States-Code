@@ -26,7 +26,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–511 effective on Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as an Effective Date note under section 3501 of this title.
+Amendment by Pub. L. 96–511 effective on Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as a note under section 2904 of this title.
 
 #### Section Referred to in Other Sections
 

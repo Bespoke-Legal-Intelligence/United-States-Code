@@ -36,7 +36,7 @@ This Act, referred to in text, means Pub. L. 92–532, which is classified gener
 
 For definition of Canal Zone, referred to in subsec. (d), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26\(§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 

@@ -1,4 +1,4 @@
-### §410cc–21 . Park management plan
+### §410cc–21. Park management plan
 
 #### (a) Submission date and contents of preparatory statement to Congress
 

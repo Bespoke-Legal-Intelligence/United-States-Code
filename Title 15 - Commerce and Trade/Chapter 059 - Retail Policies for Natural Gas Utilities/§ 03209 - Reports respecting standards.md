@@ -14,7 +14,7 @@ Not later than 18 months after November 9, 1978, and annually thereafter for 10 
 
 &emsp;(3) his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail gas utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 95 617, title III, §309, Nov. 9, 1978, 92 Stat. 3153.)
+(Pub. L. 95–617, title III, §309, Nov. 9, 1978, 92 Stat. 3153.)
 
 #### Definitions
 

@@ -40,7 +40,7 @@ A prior section 441 of Pub. L. 89–329 amended this section and sections 2752 t
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103–82 substituted “a project, as defined in section 12511(20) of this title” for“service opportunities or youth corps as defined in section 12511 of this title, and service in the agencies, institutions and activities designated in section 12544(a) of this title”.
+1993—Subsec. (c)(2). Pub. L. 103–82 substituted “a project, as defined in section 12511(20) of this title” for “service opportunities or youth corps as defined in section 12511 of this title, and service in the agencies, institutions and activities designated in section 12544(a) of this title”.
 
 1992—Subsec. (a). Pub. L. 102–325, §441(b), inserted before period at end “, and to encourage students receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community”.
 

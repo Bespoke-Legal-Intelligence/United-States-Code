@@ -6,7 +6,7 @@ The Secretary of a military department may pay the travel, subsistence, and spec
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in the following appropriation acts:
+Provisions similar to those in this section were contained in the following appropriation acts:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8006\], 98 Stat. 1904, 1923.
 

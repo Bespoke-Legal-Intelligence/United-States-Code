@@ -6,21 +6,21 @@ The Secretary is authorized, in accordance with the provisions of this part, to 
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated $50,000,000 for each of the fiscal years 1986 and 1987. There are authorized to be appropriated to carry out the provisions of this part $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
+There are authorized to be appropriated $50,000,000 for each of the fiscal years 1986 and1987. There are authorized to be appropriated to carry out the provisions of this part $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-(Pub. L. 98 377, title III, §304, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 99 159, title II, §§231, 233, Nov. 22, 1985, 99 Stat. 900, 901; Pub. L. 100 297, title II, §2301, Apr. 28, 1988, 102 Stat. 319; Pub. L. 100 418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, §304, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 99–159, title II, §§231, 233, Nov. 22, 1985, 99 Stat. 900, 901; Pub. L. 100–297, title II, §2301, Apr. 28, 1988, 102 Stat. 319; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 #### Amendments
 
-1988—Pub. L. 100 418 substituted “part” for “subchapter” wherever appearing.
+1988—Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
-Subsec. (b). Pub. L. 100 297 substituted “1986 and 1987” for “1986, 1987, and 1988, to carry out the provisions of this subchapter” and inserted provision authorizing appropriations to carry out provisions of this part of $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
+Subsec. (b). Pub. L. 100–297 substituted “1986 and 1987” for “1986, 1987, and 1988, to carry out the provisions of this subchapter” and inserted provision authorizing appropriations to carry out provisions of this part of $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-1985—Subsec. (a). Pub. L. 99 159, §231, substituted “Secretary” for “Foundation”.
+1985—Subsec. (a). Pub. L. 99–159, §231, substituted “Secretary” for “Foundation”.
 
-Subsec. (b). Pub. L. 99 159, §233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
+Subsec. (b). Pub. L. 99–159, §233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100 297, see section 6303 of Pub. L. 100 297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
 

@@ -6,7 +6,7 @@ There shall be established a Social Security Advisory Board (in this section ref
 
 #### (b) Functions of Board
 
-On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
+On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapterII of this chapter and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
 
 &emsp;(1) analyzing the Nation's retirement and disability systems and making recommendations with respect to how the old-age, survivors, and disability insurance program and the supplemental security income program, supported by other public and private systems, can most effectively assure economic security;
 
@@ -16,7 +16,7 @@ On and after the date the Commissioner takes office, the Board shall advise the 
 
 &emsp;(4) making recommendations with respect to the quality of service that the Administration provides to the public;
 
-&emsp;(5) making recommendations with respect to policies and regulations regarding the old-age,survivors, and disability insurance program and the supplemental security income program;
+&emsp;(5) making recommendations with respect to policies and regulations regarding the old-age, survivors, and disability insurance program and the supplemental security income program;
 
 &emsp;(6) increasing public understanding of the social security system;
 
@@ -86,7 +86,7 @@ The Board shall be exempt from the provisions of the Federal Advisory Committee 
 
 #### (i) Personnel
 
-The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5. The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate clerical support for the Board, and may compensate such additional personnel without regard to the provisions of title 5 relating to the competitive service.
+The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5. The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate clerical support for the Board, and may compensate such additionalpersonnel without regard to the provisions of title 5 relating to the competitive service.
 
 #### (j) Authorization of appropriations
 
@@ -102,7 +102,7 @@ The provisions of title 5 relating to the competitive service, referred to in su
 
 #### Amendments
 
-1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretaryis authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws.”
+1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws.”
 
 1984—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
 

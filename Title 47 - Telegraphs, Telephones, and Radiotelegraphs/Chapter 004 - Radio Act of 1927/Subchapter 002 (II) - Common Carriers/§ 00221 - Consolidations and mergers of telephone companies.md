@@ -24,7 +24,7 @@ In making a valuation of the property of any wire telephone carrier the Commissi
 
 1956—Subsec. (a). Act Aug. 2, 1956, inserted provisions relating to submission of comments by parties and required a public hearing upon request, in lieu of former provisions requiring hearing upon application.
 
-1954—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service withinexclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
+1954—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service within exclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) the early development and export of viable equipment utilizing solar energy, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to our balance of trade;
 
-&emsp;(7) the mass production and use of equipment utilizing solar energy will help to eliminate the dependence of the United States uponforeign energy sources and promote the national defense;
+&emsp;(7) the mass production and use of equipment utilizing solar energy will help to eliminate the dependence of the United States upon foreign energy sources and promote the national defense;
 
 &emsp;(8) to date, the national effort in research, development, and demonstration activities relating to the utilization of solar energy has been extremely limited; therefore
 

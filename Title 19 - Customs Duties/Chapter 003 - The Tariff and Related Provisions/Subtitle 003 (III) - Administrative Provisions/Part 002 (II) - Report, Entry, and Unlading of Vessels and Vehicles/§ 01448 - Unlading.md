@@ -12,9 +12,9 @@ The Secretary of the Treasury is authorized to provide by regulations for the is
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §448, 42 Stat. 953. That section was superseded by section 448 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §448, 42 Stat. 953. That section was superseded by section 448 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions similar to those of this section concerning preliminary entries, and a further provision that on making such entry lading might proceed by both day and night, were contained in act Feb. 13, 1911, ch. 46, §2, 36 Stat. 900, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Provisions similar to those in this section concerning preliminary entries, and a further provision that on making such entry lading might proceed by both day and night, were contained in act Feb. 13, 1911, ch. 46, §2, 36 Stat. 900, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 Provisions for the estimation of duties, and the issuance of permits for delivery of merchandise, and provisions prescribing the contents of such permits, were contained in R.S. §2869, (as amended by act June 5, 1894, ch. 92, §2, 28 Stat. 86) and §2870, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

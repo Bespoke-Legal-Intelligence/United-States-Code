@@ -8,7 +8,7 @@
 
 &emsp;(3) review all programs administered by the Department of Health and Human Services which provide prevention services or care services to determine if the policies of such programs are consistent with the policies of this subchapter, consult with other departments and agencies of the Federal Government who administer programs that provide such services, and encourage such other departments and agencies to make recommendations, as appropriate, for legislation to modify such programs in order to facilitate the use of all Government programs which provide such services as a basis for delivery of more comprehensive prevention services and more comprehensive programs of care for pregnant adolescents and adolescent parents;
 
-&emsp;(4) give priority in the provision of funds, where appropriate, to applicants using single or coordinated grant applications for multiple programs; and
+&emsp;(4) give priority in the provision of funds, where appropriate, to applicants using singleor coordinated grant applications for multiple programs; and
 
 &emsp;(5) give priority, where appropriate, to the provision of funds under Federal programs administered by the Secretary (other than the program established by this subchapter) to projects providing comprehensive prevention services and comprehensive programs of care for pregnant adolescents and adolescent parents.
 

@@ -16,7 +16,7 @@ Each successor shall be appointed for a term of four years from the date of the 
 
 #### (c) Compensation; reimbursement for expenses
 
-The members of the board shall serve without compensation for their services as such members, but they shall be reimbursed from the corporation for actual expenses incurred by themwhile in the performance of the functions vested in the board by this chapter.
+The members of the board shall serve without compensation for their services as such members, but they shall be reimbursed from the corporation for actual expenses incurred by them while in the performance of the functions vested in the board by this chapter.
 
 #### (d) Prohibitions against holding two or more offices inapplicable
 

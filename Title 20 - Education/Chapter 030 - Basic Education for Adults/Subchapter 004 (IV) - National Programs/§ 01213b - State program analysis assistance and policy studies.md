@@ -6,7 +6,7 @@
 
 &emsp;(A) an analysis of State plans and of the findings of evaluations conducted pursuant to section 1207a of this title, with suggestions to State agencies for improvements in planning or program operation; and
 
-&emsp;(B) the provision of an information network (in conjunction with the National Diffusion Network) on the results of research in adult education, the operation of model or innovative programs (including efforts to continue activities and services, under the program after the Federal funding has been discontinued) successful experiences in the planning, administration, and conduct of adult education programs, advances in curriculum and instructional practices, and other information useful in the improvement of adult education.
+&emsp;(B) the provision of an information network (in conjunction with the National Diffusion Network) on the results of research in adulteducation, the operation of model or innovative programs (including efforts to continue activities and services, under the program after the Federal funding has been discontinued) successful experiences in the planning, administration, and conduct of adult education programs, advances in curriculum and instructional practices, and other information useful in the improvement of adult education.
 
 (2)
 
@@ -24,5 +24,5 @@ Subsequent to the determination of literacy and the number of illiterate individ
 
 Three years after April 28, 1988, and thereafter in conjunction with the report under subsection (c) of this section, the Secretary shall report to the appropriate committees of the Congress on the results of program evaluations required under this chapter and conclusions drawn therefrom regarding progress toward meeting the goals and purposes of this chapter, together with such recommendations as the Secretary may wish to make.
 
-(Pub. L. 89 750, title III, §383, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 318.)
+(Pub. L. 89–750, title III, §383, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 318.)
 

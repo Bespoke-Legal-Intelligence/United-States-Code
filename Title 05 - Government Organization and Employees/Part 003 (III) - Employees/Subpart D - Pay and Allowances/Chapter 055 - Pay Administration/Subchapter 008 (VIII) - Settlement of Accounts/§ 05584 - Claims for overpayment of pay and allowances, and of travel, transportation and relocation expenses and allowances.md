@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the waiver is made in accordance with standards which the Comptroller General shall prescribe; or
 
-&emsp;(3) the Director of the Administrative Office of the United States Courts when the claim is in an amount aggregating not more than $10,000 and involves an officer or employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or any of the courts set forth in section 610 of title 28.
+&emsp;(3) the Director of the Administrative Office of the United States Courts when the claim isin an amount aggregating not more than $10,000 and involves an officer or employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or any of the courts set forth in section 610 of title 28.
 
 (b) The Comptroller General or the head of the agency, as the case may be, may not exercise his authority under this section to waive any claim—
 
@@ -54,27 +54,27 @@
 
 #### Amendments
 
-1991—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
+<b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
 
-1988—Subsec. (a)(3). Pub. L. 100–702, §1009(a)(1), added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–702, §1009(a)(1), added par. (3).
 
 Subsec. (g). Pub. L. 100–702, §1009(a)(2), added par. (6) and last sentence.
 
-1985—Pub. L. 99–224, §1(a)(1), substituted “and of travel, transportation and relocation expenses and allowances” for “other than travel and transportation expenses and allowances and relocation expenses” in section catchline.
+<b>1985</b>—Pub. L. 99–224, §1(a)(1), substituted “and of travel, transportation and relocation expenses and allowances” for “other than travel and transportation expenses and allowances and relocation expenses” in section catchline.
 
 Subsec. (a). Pub. L. 99–224, §1(a)(2), substituted “made on or after July 1, 1960, or arising out of an erroneous payment of travel, transportation or relocation expenses and allowances” for “, other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title, on or after July 1, 1960”.
 
 Subsec. (b). Pub. L. 99–224, §1(a)(3), added par. (5).
 
-1979—Subsec. (b)(4). Pub. L. 96–54 substituted “July 25, 1974” for “the date on which this clause (4) is enacted into law”.
+<b>1979</b>—Subsec. (b)(4). Pub. L. 96–54 substituted “July 25, 1974” for “the date on which this clause (4) is enacted into law”.
 
-1974—Subsec. (a). Pub. L. 93–359, §1(1), substituted “agency” for “executive agency” in provisions preceding cl. (1) and in cl. (2) preceding subcl. (A).
+<b>1974</b>—Subsec. (a). Pub. L. 93–359, §1(1), substituted “agency” for “executive agency” in provisions preceding cl. (1) and in cl. (2) preceding subcl. (A).
 
 Subsec. (b). Pub. L. 93–359, §1(1)–(4), substituted “agency” for “executive agency” in provisions preceding cl. (1), inserted “except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden,” immediately following the designation “(2)” in cl. (2) and immediately following the designation “(3)” in cl. (3), struck out “or” at end of cl. (2), substituted “October 2, 1972, whichever is later; or” for “the effective date of the amendment authorizing the waiver of allowances, whichever is later” in cl. (3) and struck out the period at end of cl. (3), and added cl. (4).
 
 Subsec. (g). Pub. L. 93–359, §1(5), added subsec. (g).
 
-1972—Pub. L. 92–453 inserted “and allowances, other than travel and transportation expenses and allowances and relocation expenses” in section catchline, and substituted “payment of pay or allowances, other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title” for “payment of pay” in subsec. (a).
+<b>1972</b>—Pub. L. 92–453 inserted “and allowances, other than travel and transportation expenses and allowances and relocation expenses” in section catchline, and substituted “payment of pay or allowances, other than travel and transportation expenses and allowances and relocation expenses payable under section 5724a of this title” for “payment of pay” in subsec. (a).
 
 Subsec. (b)(2). Pub. L. 92–453 inserted “if application for waiver is received in his office” in cl. (2), and substituted “October 21, 1968” for “the effective date of this section.”
 

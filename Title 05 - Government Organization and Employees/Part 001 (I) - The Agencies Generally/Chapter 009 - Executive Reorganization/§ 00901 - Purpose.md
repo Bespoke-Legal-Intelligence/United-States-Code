@@ -44,9 +44,9 @@ Section 901(c) of former Title 5, Executive Departments and Government Officers 
 
 #### Amendments
 
-1977—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
+<b>1977</b>—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
-1971—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
+<b>1971</b>—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
 
 Subsec. (c). Pub. L. 92–179, §1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 
@@ -60,87 +60,7 @@ Section 1 of Pub. L. 95–17 provided: “That this Act \[amending this chapter\
 
 #### National Commission on Executive Organization
 
-Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, provided that:
-
-“(a)
-
-Establishment.—(1) Within 30 days after the effective date of this Act \[Mar. 15, 1989\], the President shall make a determination as to whether the national interest would be served by the establishment of a commission to review the structural organization of the executive branch of the Federal Government. If the President makes a determination that such establishment is in the national interest, the President shall transmit to the Congress written notification of his intent to establish the National Commission on Executive Organization under this section.
-
-“(2) If the President fails to transmit notification under paragraph (1), this section shall cease to be effective 30 days after the effective date of this Act \[Mar. 15, 1989\].
-
-“(b)
-
-Membership of the Commission.—A commission established under this section shall be composed of 16 members appointed not later than 90 days after the effective date of this Act \[Mar. 15, 1989\]. The members shall be appointed as follows:
-
-&emsp;“(1) Six citizens of the United States appointed by the President, one of whom shall be designated by the President to be the Chairman of the Commission. Not more than four of the members appointed by the President may be from the same political party as the President.
-
-&emsp;“(2) Two members of the Senate and one citizen of the United States appointed by the President pro tempore of the Senate upon the recommendation of the majority leader of the Senate.
-
-&emsp;“(3) One Member of the Senate and one citizen of the United States appointed by the President pro tempore of the Senate upon the recommendation of the minority leader of the Senate.
-
-&emsp;“(4) Two members of the House of Representatives and one citizen of the United States appointed by the Speaker of the House of Representatives upon the recommendation of the majority leader of the House of Representatives.
-
-&emsp;“(5) One Member of the House of Representatives and one citizen of the United States appointed by the Speaker of the House of Representatives upon the recommendation of the minority leader of the House of Representatives.
-
-“(c)
-
-Restrictions on Pay and Allowances.—(1) Except as provided in paragraph (2), members of the Commission shall receive no pay, allowances, or benefits by reason of service on the Commission.
-
-“(2) Members of the Commission appointed from among private citizens of the United States may be allowed travel expenses, including per diem, in lieu of subsistence, as authorized by law for persons serving intermittently in the Federal Government.
-
-“(d)
-
-Functions of Commission.—The Commission shall examine and make recommendations with respect to—
-
-&emsp;“(1) criteria for use by the President and Congress in evaluating proposals for changes in the structure of the executive branch of the Federal Government, including criteria for use by the President and Congress in evaluating and overseeing Government-sponsored enterprises and Government corporations;
-
-&emsp;“(2) the organization of the executive branch, including the number of departments and the organizational structure of each such department, the advisability of reorganizing or abolishing any such department, and the advisability of establishing any new executive department;
-
-&emsp;“(3) the most effective and practicable structure of the Executive Office of the President for conducting oversight of the executive branch, and criteria for use by such Office in evaluating and overseeing the performance of the executive branch; and
-
-&emsp;“(4) the most effective and practicable structure of the President's cabinet and means of operation of such cabinet, including recommendations concerning the number, composition, and duties of the members of such cabinet.
-
-“(e)
-
-Report.—(1) Not later than 12 months after the completion of appointment of the members of the Commission, the Commission shall submit to the President, the Senate, and the House of Representatives a report which contains a detailed statement of the recommendations of the Commission.
-
-“(2) The date on which the report is due may be extended to such date as the President may prescribe in an Executive order, except that such date may not be later than six months after the date on which such report is otherwise due under paragraph (1).
-
-“(f)
-
-Powers of Commission.—(1) The Commission may, for the purpose of carrying out this section, hold such hearings and sit and act at such times and places, as the Commission considers appropriate.
-
-“(2) The Commission may adopt such rules and regulations as may be necessary to establish procedures and to govern the manner of the operation, organization, and personnel of the Commission.
-
-“(3)(A) The Commission may request from the head of any department, agency, or other instrumentality of the Federal Government such information as the Commission may require for the purpose of carrying out this section. The head of such department, agency, or instrumentality shall, to the extent otherwise permitted by law, furnish such information to the Commission upon request made by the Chairman.
-
-“(B) Upon request of the Chairman of the Commission, the head of any department, agency, or other instrumentality of the Federal Government shall, to the extent possible and subject to the discretion of such head—
-
-&emsp;“(i) make any of the facilities and services of such department, agency, or instrumentality available to the Commission; and
-
-&emsp;“(ii) detail any of the personnel of such department, agency, or instrumentality to the Commission, on a nonreimbursable basis, to assist the Commission in carrying out the duties of the Commission under this section.
-
-“(4) The Commission may use the United States mails in the same manner and under the same conditions as the departments and agencies of the Federal Government.
-
-“(5) The Commission may, to such extent and in such amounts as are provided in appropriations Acts, enter into contracts with State agencies, private firms, institutions, and individuals for the purpose of conducting research or surveys necessary to enable the Commission to discharge the duties of the Commission under this section.
-
-“(6) Subject to such rules and regulations as may be adopted by the Commission, the Chairman of the Commission may appoint, terminate, and fix the pay of an Executive Director and of such additional staff as the Chairman considers appropriate to assist the Commission. The Chairman may fix the pay of personnel appointed under this paragraph without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code (relating to the number or classification of employees and to rates of pay), the provisions of such title governing appointments in the competitive service, and any other similar provision of law; except that no rate of pay fixed under this paragraph may exceed a rate equal to the rate of pay payable for grade GS–18 of the General Schedule under section 5332 of such title.
-
-“(g)
-
-Applicability of the Federal Advisory Committee Act.—The Commission shall be an advisory committee for purposes of the Federal Advisory Committee Act (5 U.S.C. App. 2) \[Pub. L. 92–463, set out in Appendix to this title\].
-
-“(h)
-
-Termination of Commission.—The Commission shall cease to exist on the date that is 30 days after the date on which the Commission submits the report required under subsection (e).
-
-“(i)
-
-Preparation for the Commission.—Not later than 90 days after the effective date of this Act \[Mar. 15, 1989\], the Comptroller General of the United States, the Director of the Congressional Research Service, the Director of the Congressional Budget Office, and the Director of the Office of Technology Assessment shall each submit to the Commission established under this section an index to and synopses of materials of the organization of the official that such official considers useful to the Commission. Subject to laws governing the disclosure of classified or otherwise restricted information, such materials may include reports, analyses, recommendations, and results of research of such organization.
-
-“(j)
-
-Authorization of Appropriations.—There are authorized to be appropriated to the Commission not more than $1,500,000 for carrying out this section.”
+Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Cogress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
 
 #### Ex. Ord. No. 6166. Reorganization of Executive Agencies Generally
 
@@ -342,11 +262,11 @@ Disbursement
 
 #### Amendments
 
-The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effected by 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
+The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effectedby 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
 
 #### Effective Date
 
-The effective date of section 4 of Ex. Ord. No. 6166, originally fixed by section 22 of this Ex. Ord., was subsequently postponed as follows: to Dec. 31, 1933, by Ex. Ord. No. 6224 of July 27, 1933; to June 30, 1934 (insofaras not already effected prior to Dec. 31, 1933), by Ex. Ord. No. 6540 of Dec. 28, 1933; to Dec. 31, 1934 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 6727 of May 29, 1934; to June 30, 1935, by Ex. Ord. No. 6927 of Dec. 31, 1934; to Dec. 31, 1935 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 7077 of June 15, 1935; to June 30, 1936 (insofar as not already effected prior to Dec. 31, 1935), by Ex. Ord. No. 7261 of Dec. 31, 1935. Each of these orders contained a provision that the changes therein delayed might be made sooner effective by order of the Secretary of the Treasury approved by the President.
+The effective date of section 4 of Ex. Ord. No. 6166, originally fixed by section 22 of this Ex. Ord., was subsequently postponed as follows: to Dec. 31, 1933, by Ex. Ord. No. 6224 of July 27, 1933; to June 30, 1934 (insofar as not already effected prior to Dec. 31, 1933), by Ex. Ord. No. 6540 of Dec. 28, 1933; to Dec. 31, 1934 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 6727 of May 29, 1934; to June 30, 1935, by Ex. Ord. No. 6927 of Dec. 31, 1934; to Dec. 31, 1935 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 7077 of June 15, 1935; to June 30, 1936 (insofar as not already effected prior to Dec. 31, 1935), by Ex. Ord. No. 7261 of Dec. 31, 1935. Each of these orders contained a provision that the changes therein delayed might be made sooner effective by order of the Secretary of the Treasury approved by the President.
 
 #### §5.
 
@@ -456,7 +376,7 @@ The effective date of this section originally fixed by section 22 of this Ex. Or
 
 Functions Abolished
 
-Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational education payments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
+Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational educationpayments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
 
 #### §19.
 

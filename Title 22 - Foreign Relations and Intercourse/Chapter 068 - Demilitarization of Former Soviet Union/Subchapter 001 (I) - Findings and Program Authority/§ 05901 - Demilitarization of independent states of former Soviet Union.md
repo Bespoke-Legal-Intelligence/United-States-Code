@@ -40,7 +40,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;&emsp;“(B) a defense cost savings which could be reallocated for deficit reduction or other important national needs.
 
-&emsp;“(4) The Strategic Arms Reduction Talks (START) Treaty and the agreement by the President of the United States and the President of the Russian Federation on June 17, 1992, to reduce the strategic nuclear arsenals of each country to a level between 3,000 and 3,500 weapons are commendable intermediatestages in the process of achieving the policy goals described in paragraphs (1) and (2).
+&emsp;“(4) The Strategic Arms Reduction Talks (START) Treaty and the agreement by the President of the United States and the President of the Russian Federation on June 17, 1992, to reduce the strategic nuclear arsenals of each country to a level between 3,000 and 3,500 weapons are commendable intermediate stages in the process of achieving the policy goals described in paragraphs (1) and (2).
 
 &emsp;“(5) The current international era of cooperation provides greater opportunities for achieving worldwide reduction and control of nuclear weapons and material than any time since the emergence of nuclear weapons 50 years ago.
 

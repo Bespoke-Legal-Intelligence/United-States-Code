@@ -2,7 +2,7 @@
 
 #### (a) Existing executive actions
 
-(1) The appropriate officers of the United States Government shall take whatever actionsare necessary to conform, to the fullest extent practicable, with the tariff classification system of the Harmonized Tariff Schedule all proclamations, regulations, rulings, notices, findings, determinations, orders, recommendations, and other written actions that—
+(1) The appropriate officers of the United States Government shall take whatever actions are necessary to conform, to the fullest extent practicable, with the tariff classification system of the Harmonized Tariff Schedule all proclamations, regulations, rulings, notices, findings, determinations, orders, recommendations, and other written actions that—
 
 &emsp;(A) are in effect on the day before January 1, 1989; and
 
@@ -56,7 +56,7 @@
 
 &emsp;(ii) would have affected tariff treatment if they had been published during the period of the conversion of the old Schedules into the format of the Convention.
 
-> No later than September 1, 1990, the Commission shall report the results of the investigation to the President, the Committee on Ways and Means, and the Committee on Finance, and shall recommend those changes to the Harmonized Tariff Schedule that the Commission would have recommended if the final decisions concerned had been made before the conversion into the format of the Convention occurred.
+> No later than September 1, 1990, the Commission shall report the results of the investigation to the President, the Committee on Ways and Means, and the Committee on Finance, and shallrecommend those changes to the Harmonized Tariff Schedule that the Commission would have recommended if the final decisions concerned had been made before the conversion into the format of the Convention occurred.
 
 (3) The President shall review all changes recommended by the Commission under paragraph (2)(B) and shall, as soon as practicable, proclaim such of those changes, if any, which he decides are necessary or appropriate to conform such Schedule to the final judicial decisions. Any such change shall be effective with respect to—
 
@@ -70,7 +70,7 @@
 
 #### References in Text
 
-The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 This chapter, referred to in subsec. (d)(1), was in the original “this subtitle”, meaning subtitle B (§§1201–1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
 

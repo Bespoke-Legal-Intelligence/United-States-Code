@@ -54,7 +54,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (4) Response action for potentially damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C) ofthis section, methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C) of this section, methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
 
 #### (5) Response action for potentially significantly damaged asbestos
 
@@ -62,7 +62,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (6) “Preventive measures” defined
 
-&emsp;For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged<sup>1</sup> deteriorated, or delaminated (as the case may be) or which protect human health and the environment.
+&emsp;For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged <sup>1</sup> deteriorated, or delaminated (as the case may be) or which protect human health and the environment.
 
 #### (7) EPA information or advisory
 
@@ -78,7 +78,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (e) Implementation
 
-The Administrator shall promulgate regulations requiring the implementation of response actions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
+The Administrator shall promulgate regulations requiring the implementation of responseactions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
 
 &emsp;(1) Inspection.
 
@@ -138,7 +138,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (2) Statement by contractor
 
-&emsp;A local educational agency may require each management plan to contain a statement signed by an accredited asbestos contractor that such contractor has prepared or assisted in the preparation of such plan, or has reviewed such plan, and that such plan is in compliance with the applicable regulations and standards promulgated or adopted pursuant to this section and other applicable provisions of law. Such a statement may not be signed by a contractor who, in addition to preparing or assisting in preparing the management plan, also implements (or will implement) the management plan.
+&emsp;A local educational agency may require each management plan to contain a statementsigned by an accredited asbestos contractor that such contractor has prepared or assisted in the preparation of such plan, or has reviewed such plan, and that such plan is in compliance with the applicable regulations and standards promulgated or adopted pursuant to this section and other applicable provisions of law. Such a statement may not be signed by a contractor who, in addition to preparing or assisting in preparing the management plan, also implements (or will implement) the management plan.
 
 #### (3) Warning labels
 
@@ -178,27 +178,27 @@ Any change made in the “Guidance for Controlling Asbestos-Containing Material 
 
 #### (2) Regulations
 
-&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extentfeasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
+&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extent feasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
 
 #### (m) Waiver
 
 The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State, may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title.
 
-(Pub. L. 94 469, title II, §203, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2972; amended Pub. L. 101 637, §13, Nov. 28, 1990, 104 Stat. 4593.)
+(Pub. L. 94–469, title II, §203, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2972; amended Pub. L. 101–637, §13, Nov. 28, 1990, 104 Stat. 4593.)
 
 #### References in Text
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (<i>l</i>)(1), is title XIV of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (<i>l</i>)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 
-1990—Subsec. (d)(7). Pub. L. 101 637 added par. (7).
+1990—Subsec. (d)(7). Pub. L. 101–637 added par. (7).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2644, 2645, 2646, 2647, 2650, 2654, 2655 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

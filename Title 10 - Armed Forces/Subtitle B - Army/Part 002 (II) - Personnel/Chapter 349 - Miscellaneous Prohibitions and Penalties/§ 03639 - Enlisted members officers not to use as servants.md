@@ -1,4 +1,4 @@
-### §3639 . Enlisted members: officers not to use as servants
+### §3639. Enlisted members: officers not to use as servants
 
 No officer of the Army may use an enlisted member of the Army as a servant.
 

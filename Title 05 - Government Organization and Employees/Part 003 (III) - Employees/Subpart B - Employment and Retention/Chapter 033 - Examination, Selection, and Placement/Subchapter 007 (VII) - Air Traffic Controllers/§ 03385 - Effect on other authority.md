@@ -1,4 +1,4 @@
-### §3385 . Effect on other authority
+### §3385. Effect on other authority
 
 This subchapter shall not limit the authority of the Secretary to reassign temporarily an air traffic controller to other duties with or without notice, in the interest of the safe or efficient separation and control of air traffic or the physical or mental health of a controller; or to reassign permanently or separate a controller under any other provision of law.
 
@@ -10,7 +10,7 @@ For definition of Secretary, referred to in text, see section 2109 of this title
 
 #### Amendments
 
-1980—Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
+<b>1980</b>—Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
 
 #### Effective Date of 1980 Amendment
 

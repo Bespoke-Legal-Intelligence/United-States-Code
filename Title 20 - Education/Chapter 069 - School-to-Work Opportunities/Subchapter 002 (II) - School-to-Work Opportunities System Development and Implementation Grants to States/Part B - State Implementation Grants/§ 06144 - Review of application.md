@@ -50,11 +50,11 @@ The Secretaries—
 
 The Secretaries may use amounts reserved under section 6235(b)(4) of this title for the review of applications submitted under section 6143 of this title.
 
-(Pub. L. 103 239, title II, §214, May 4, 1994, 108 Stat. 586.)
+(Pub. L. 103–239, title II, §214, May 4, 1994, 108 Stat. 586.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(3)(D), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(3)(D), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

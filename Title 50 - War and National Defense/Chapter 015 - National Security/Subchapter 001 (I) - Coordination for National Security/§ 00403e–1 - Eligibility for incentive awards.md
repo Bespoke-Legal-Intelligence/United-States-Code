@@ -6,7 +6,7 @@ The Director of Central Intelligence may exercise the authority granted in secti
 
 #### (b) Time for exercise of authority
 
-The authority granted by subsection (a) of this section may be exercised with respect to Federal employees or members of the Armed Forces detailed or assigned to the Central Intelligence Agency or to the Intelligence Community Staff on or after a date five years before December 9, 1983.
+The authority granted by subsection (a) of this section may be exercised with respect to Federal employees or members of the Armed Forces detailed or assigned to the Central IntelligenceAgency or to the Intelligence Community Staff on or after a date five years before December 9, 1983.
 
 #### (c) Exercise of authority with respect to members of Armed Forces assigned to foreign intelligence duties
 
@@ -14,7 +14,7 @@ During fiscal year 1987, the Director of Central Intelligence may exercise the a
 
 #### (d) Payment and acceptance of award
 
-An award made by the Director of Central Intelligence to an employee or member of theArmed Forces under the authority of section 4503 of title 5 or this section may be paid and accepted notwithstanding—
+An award made by the Director of Central Intelligence to an employee or member of the Armed Forces under the authority of section 4503 of title 5 or this section may be paid and accepted notwithstanding—
 
 &emsp;(1) section 5536 of title 5; and
 

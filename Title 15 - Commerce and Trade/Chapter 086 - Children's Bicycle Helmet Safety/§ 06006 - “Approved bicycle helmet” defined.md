@@ -6,5 +6,5 @@ In this chapter, the term “approved bicycle helmet” means a bicycle helmet t
 
 &emsp;(2) the final standard, once it is established under section 6004(c) of this title.
 
-(Pub. L. 103 267, title II, §207, June 16, 1994, 108 Stat. 728.)
+(Pub. L. 103–267, title II, §207, June 16, 1994, 108 Stat. 728.)
 

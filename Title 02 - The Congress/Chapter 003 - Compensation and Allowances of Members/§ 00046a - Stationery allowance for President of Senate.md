@@ -14,7 +14,7 @@ Section is from Legislative Branch Appropriation Act, 1942, and subsequent Legis
 
 1972—Pub. L. 92–607 repealed this section insofar as it related to Senators. For purposes of codification this entailed substituting a period for a comma following “President of the Senate shall be $3,600” and striking out provisions which allowed Senators from $3,600 to $5,000 annually depending on the population of the Senator's home State. See section 58 of this title.
 
-1971—Pub. L. 92–184 inserted provision for an increased allowance for Senators from more populousStates ranging from $3,800 for Senators from States of from 3,000,000 to 4,999,999 population to $5,000 for Senators from States of 17,000,000 population and over.
+1971—Pub. L. 92–184 inserted provision for an increased allowance for Senators from more populous States ranging from $3,800 for Senators from States of from 3,000,000 to 4,999,999 population to $5,000 for Senators from States of 17,000,000 population and over.
 
 Pub. L. 92–51 provided allowance for Senators from States having population of ten million or more inhabitants of $4,000 per annum effective fiscal year 1972 and thereafter.
 

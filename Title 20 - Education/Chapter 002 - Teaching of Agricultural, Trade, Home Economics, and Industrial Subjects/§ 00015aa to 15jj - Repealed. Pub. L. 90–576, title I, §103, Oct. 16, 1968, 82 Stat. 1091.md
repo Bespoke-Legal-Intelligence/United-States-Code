@@ -1,4 +1,4 @@
-### §§15aa to 15jj . Repealed. Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091
+### §§15aa to 15jj. Repealed. Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091
 
 Section 15aa, act Aug. 1, 1946, ch. 725, title II, §201, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925; amended Apr. 24, 1961, Pub. L. 87–22, §2, 75 Stat. 44; Dec. 18, 1963, Pub. L. 88–210, §11(a)(1), 77 Stat. 411, authorized an appropriation for grants to States with State plans for practical nurse training.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the Arctic is critical to national defense;
 
-&emsp;(3) the renewable resources of the Arctic, specifically fish and other seafood, represent one of the Nation's greatest commercial assets;
+&emsp;(3) the renewable resources of the Arctic, specifically fish and other seafood, representone of the Nation's greatest commercial assets;
 
 &emsp;(4) Arctic conditions directly affect global weather patterns and must be understood in order to promote better agricultural management throughout the United States;
 
@@ -38,7 +38,7 @@
 
 (b) The purposes of this chapter are—
 
-&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal programplan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
+&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
 
 &emsp;(2) to establish an Arctic Research Commission to promote Arctic research and to recommend Arctic research policy;
 
@@ -46,23 +46,23 @@
 
 &emsp;(4) to establish an Interagency Arctic Research Policy Committee to develop a national Arctic research policy and a five year plan to implement that policy.
 
-(Pub. L. 98 373, title I, §102, July 31, 1984, 98 Stat. 1242; Pub. L. 103 199, title VI, §601, Dec. 17, 1993, 107 Stat. 2327.)
+(Pub. L. 98–373, title I, §102, July 31, 1984, 98 Stat. 1242; Pub. L. 103–199, title VI, §601, Dec. 17, 1993, 107 Stat. 2327.)
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103 199, §601(1), struck out “as the Nation's only common border with the Soviet Union,” before “the Arctic”.
+1993—Subsec. (a)(2). Pub. L. 103–199, §601(1), struck out “as the Nation's only common border with the Soviet Union,” before “the Arctic”.
 
-Subsec. (a)(10). Pub. L. 103 199, §601(2), struck out “, particularly the Soviet Union,” after “countries”.
+Subsec. (a)(10). Pub. L. 103–199, §601(2), struck out “, particularly the Soviet Union,” after “countries”.
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 98 373 provided that: “This title \[enacting this chapter\] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
+Section 101 of title I of Pub. L. 98–373 provided that: “This title \[enacting this chapter\] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
 
 #### Ex. Ord. No. 12501. Arctic Research
 
 Ex. Ord. No. 12501, Jan. 28, 1985, 50 F.R. 4191, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Arctic Research and Policy Act of 1984 (Title I of Public Law 98 373) (“the Act”) \[15 U.S.C. 4101 et seq.\], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Arctic Research and Policy Act of 1984 (Title I of Public Law 98–373) (“the Act”) \[15 U.S.C. 4101 et seq.\], it is hereby ordered as follows:
 
 Section 1. <i>Establishment of Arctic Research Commission</i>. There is established the Arctic Research Commission.
 
@@ -112,7 +112,7 @@ Sec. 5. <i>Responsibilities of Federal Agencies</i>. (a) The heads of Executive 
 
 (c) All Federal agencies shall consult with the Commission before undertaking major Federal actions relating to Arctic research.
 
-Sec. 6. <i>Administration of the Commission</i>. Members of the Commission who are otherwise employed for compensation shall serve without compensation for their work on the Commission, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service. Members of the Commission who are not otherwise employed for compensation shall be compensated for each day the member is engaged in actual performance of duties as a member, not to exceed 90 days of service each calendar year, at a rate equal to the daily equivalent of the rate for GS 16 of the General Schedule.
+Sec. 6. <i>Administration of the Commission</i>. Members of the Commission who are otherwise employed for compensation shall serve without compensation for their work on the Commission, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service. Members of the Commission who are not otherwise employed for compensation shall be compensated for each day the member is engaged in actual performance of duties as a member, not to exceed 90 days of service each calendar year, at a rate equal to the daily equivalent of the rate for GS–16 of the General Schedule.
 
 Sec. 7. <i>Establishment of Interagency Arctic Research Policy Committee</i>. There is established the Interagency Arctic Research Policy Committee (the “Interagency Committee”). The National Science Foundation shall serve as lead agency on the Interagency Committee and shall be responsible for implementing Arctic research policy.
 

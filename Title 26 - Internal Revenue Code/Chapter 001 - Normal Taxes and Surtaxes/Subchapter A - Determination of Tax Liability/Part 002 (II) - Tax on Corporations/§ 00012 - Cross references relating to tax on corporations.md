@@ -48,7 +48,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) ofPub. L. 91–172, set out as a note under section 5 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
 #### Effective Date of 1964 Amendment
 

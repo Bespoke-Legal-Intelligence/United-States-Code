@@ -116,3 +116,7 @@ In subsection (c)(1), before clause (A), the words “terms for”, “at issue�
 
 In subsection (c)(3), the words “reconvey . . . an interest conveyed to Amtrak under this subsection or prior comparable provision of law” are substituted for “convey title or other interest in such property” for consistency in the revised title and to eliminate unnecessary words. The words “regardless of when the proceeding was brought” are substituted for section 9(b) (less words in parentheses) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4658) to eliminate unnecessary words.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+

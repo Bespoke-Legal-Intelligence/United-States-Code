@@ -42,7 +42,7 @@
 
 #### (ii) Wildlife habitat improvement
 
-&emsp;&emsp;&emsp;The Secretary shall encourage owners and operators who choose the wildlife habitat improvement option to implement, improve and maintain agricultural production practices, in concert with their water quality protection plan, that are designed to improve on-farm wildlife habitat, including the establishment of perennial cover, the protection of riparian areas, wildlife corridors, and areas of critical habitat for endangered species.
+&emsp;&emsp;&emsp;The Secretary shall encourage owners and operators who choose the wildlife habitat improvement option to implement, improve and maintain agricultural production practices, in concert with their water quality protection plan, that are designed to improve on-farm wildlife habitat, including the establishment of perennial cover, the protection of riparian areas,wildlife corridors, and areas of critical habitat for endangered species.
 
 #### (5) Duties of Secretary
 
@@ -128,7 +128,7 @@
 
 #### (11) Acreage levels
 
-&emsp;The Secretary shall, to the extent practicable, seek to enter into agreements with participants to place into the program a total of 10 million acres during the 1991 through 1995 calendar years.
+&emsp;The Secretary shall, to the extent practicable, seek to enter into agreements withparticipants to place into the program a total of 10 million acres during the 1991 through 1995 calendar years.
 
 #### (b) Content of plans
 

@@ -8,15 +8,15 @@ There is hereby established a corporation to be known as the “Institute of Ame
 
 The corporation established under subsection (a) of this section shall have succession until dissolved by Act of Congress. Only the Congress shall have the authority to revise or amend the charter of such corporation.
 
-(Pub. L. 99 498, title XV, §1504, Oct. 17, 1986, 100 Stat. 1601.)
+(Pub. L. 99–498, title XV, §1504, Oct. 17, 1986, 100 Stat. 1601.)
 
 #### Availability of Fiscal Year 1988 Appropriations
 
-Pub. L. 100 202, §101(g) \[title I, §100\], Dec. 22, 1987, 101 Stat. 1329 213, 1329 228, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1988 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available to operate the Institute until the Board of Regents and President of the Institute have been named and had an opportunity to organize, and for use under part A of that Act \[this subchapter\].”
+Pub. L. 100–202, §101(g) \[title I, §100\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1988 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available to operate the Institute until the Board of Regents and President of the Institute have been named and had an opportunity to organize, and for use under part A of that Act \[this subchapter\].”
 
 #### Availability of Appropriations; Implementation of Chapter; Interim Authority of Secretary
 
-Pub. L. 99 500, §101(h) \[title I, §100\], Oct. 18, 1986, 100 Stat. 1783 242, 1783 255, and Pub. L. 99 591, §101(h) \[title I, §100\], Oct. 30, 1986, 100 Stat. 3341 242, 3341 255, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1987 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available for use under part A of that Act \[this subchapter\] and—
+Pub. L. 99–500, §101(h) \[title I, §100\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–255, and Pub. L. 99–591, §101(h) \[title I, §100\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–255, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1987 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available for use under part A of that Act \[this subchapter\] and—
 
 &emsp;“(1) that Act shall be implemented in a reasonable period of time and shall be fully implemented by no later than October 1, 1987,
 

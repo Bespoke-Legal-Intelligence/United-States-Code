@@ -36,7 +36,7 @@ The Secretary is authorized, in accordance with the provisions of this section, 
 
 #### (2) Limitation
 
-&emsp;(A) The Secretary may not use more than 3 percent of the amount appropriated to carryout this section in each fiscal year to enter into contracts described in paragraph (1)(A).
+&emsp;(A) The Secretary may not use more than 3 percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(A).
 
 &emsp;(B) The Secretary may use not more than 3 percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(B).
 
@@ -44,11 +44,11 @@ The Secretary is authorized, in accordance with the provisions of this section, 
 
 A recipient of a grant or contract under this section may use the funds provided only so as to supplement and, to the extent possible, increase the level of funds that would, in the absence of such funds, be made available from non-Federal sources to carry out the activities supported by such grant or contract, and in no case to supplant such funds from non-Federal sources.
 
-(Pub. L. 89 329, title VIII, §804, as added Pub. L. 102 325, title VIII, §801, July 23, 1992, 106 Stat. 759.)
+(Pub. L. 89–329, title VIII, §804, as added Pub. L. 102–325, title VIII, §801, July 23, 1992, 106 Stat. 759.)
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

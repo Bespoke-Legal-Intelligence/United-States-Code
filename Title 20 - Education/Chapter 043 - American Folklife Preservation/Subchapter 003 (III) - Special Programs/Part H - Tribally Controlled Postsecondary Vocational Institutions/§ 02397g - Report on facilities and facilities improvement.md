@@ -34,9 +34,9 @@
 
 Pursuant to the studies conducted and the report submitted under subsections (a) and (b) of this section, the Secretary is authorized to make grants to the tribally controlled vocational institutions for construction, rehabilitation, major alterations and renovation of buildings and other physical structures for the conduct of programs funded under this part. Such grants shall be made in such time and pursuant to such applications as the Secretary shall by regulation determine.
 
-(Pub. L. 88 210, title III, §389, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 803.)
+(Pub. L. 88–210, title III, §389, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 803.)
 
 #### Codification
 
-September 25, 1990, referred to in subsec. (b)(3), (4), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101 392, which enacted this part, to reflect the probable intent of Congress.
+September 25, 1990, referred to in subsec. (b)(3), (4), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101–392, which enacted this part, to reflect the probable intent of Congress.
 

@@ -44,9 +44,199 @@ Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III
 
 Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
 
+#### National Commission on Restructuring Internal Revenue Service
+
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, provided that:
+
+“(a)
+
+Findings.—The Congress finds the following:
+
+&emsp;“(1) While the budget for the Internal Revenue Service (hereafter referred to as the ‘IRS’) has risen from $2.5 billion in fiscal year 1979 to $7.3 billion in fiscal year 1996, tax returns processing has not become significantly faster, tax collection rates have not significantly increased, and the accuracy and timeliness of taxpayer assistance has not significantly improved.
+
+&emsp;“(2) To date, the Tax Systems Modernization (TSM) program has cost the taxpayers $2.5 billion, with an estimated cost of $8 billion. Despite this investment, modernization efforts were recently described by the GAO as ‘chaotic’ and ‘ad hoc’.
+
+&emsp;“(3) While the IRS maintains that TSM will increase efficiency and thus revenues, Congress has had to appropriate additional funds in recent years for compliance initiatives in order to increase tax revenues.
+
+&emsp;“(4) Because TSM has not been implemented, the IRS continues to rely on paper returns, processing a total of 14 billion pieces of paper every tax season. This results in an extremely inefficient system.
+
+&emsp;“(5) This lack of efficiency reduces the level of customer service and impedes the ability of the IRS to collect revenue.
+
+&emsp;“(6) The present status of the IRS shows the need for the establishment of a Commission which will examine the organization of IRS and recommend actions to expedite the implementation of TSM and improve service to taxpayers.
+
+“(b)
+
+Composition of the Commission.—
+
+&emsp;“(1)
+
+Establishment.—To carry out the purposes of this section, there is established a National Commission on Restructuring the Internal Revenue Service (in this section referred to as the ‘Commission’).
+
+&emsp;“(2)
+
+Composition.—The Commission shall be composed of thirteen members, as follows:
+
+&emsp;&emsp;“(A) Five members appointed by the President, two from the executive branch of the Government, two from private life, and one from an organization that represents a substantial number of Internal Revenue Service employees.
+
+&emsp;&emsp;“(B) Two members appointed by the Majority Leader of the Senate, one from Members of the Senate and one from private life.
+
+&emsp;&emsp;“(C) Two members appointed by the Minority Leader of the Senate, one from Members of the Senate and one from private life.
+
+&emsp;&emsp;“(D) Two members appointed by the Speaker of the House of Representatives, one from Members of the House of Representatives and one from private life.
+
+&emsp;&emsp;“(E) Two members appointed by the Minority Leader of the House of Representatives, one from Members of the House of Representatives and one from private life.
+
+“The Commissioner of the Internal Revenue Service shall be an ex officio member of the Commission.
+
+&emsp;“(3)
+
+Chairman.—The Commission shall elect a Chairman from among its members.
+
+&emsp;“(4)
+
+Meeting; quorum; vacancies.—After its initial meeting, the Commission shall meet upon the call of the Chairman or a majority of its members. Seven members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
+
+&emsp;“(5)
+
+Appointment; initial meeting.—
+
+&emsp;&emsp;“(A)
+
+Appointment.—It is the sense of the Congress that members of the Committee \[Commission\] should be appointed not more than 60 days after the date of the enactment of this section \[Nov. 19, 1995\].
+
+&emsp;&emsp;“(B)
+
+Initial meeting.—If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet and select a Chairman who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
+
+“(c)
+
+Functions of Commission.—
+
+&emsp;“(1)
+
+In general.—The functions of the Commission shall be—
+
+&emsp;&emsp;“(A) to conduct, for a period of not to exceed one year from the date of its first meeting, the review described in paragraph (2), and
+
+&emsp;&emsp;“(B) to submit to the Congress a final report of the results of the review, including recommendations for restructuring the IRS.
+
+&emsp;“(2)
+
+Review.—The Commission shall review—
+
+&emsp;&emsp;“(A) the present practices of the IRS, especially with respect to—
+
+&emsp;&emsp;&emsp;“(i) its organizational structure;
+
+&emsp;&emsp;&emsp;“(ii) its paper processing and return processing activities;
+
+&emsp;&emsp;&emsp;“(iii) its infrastructure; and
+
+&emsp;&emsp;&emsp;“(iv) the collection process;
+
+&emsp;&emsp;“(B) requirements for improvement in the following areas:
+
+&emsp;&emsp;&emsp;“(i) making returns processing ‘paperless’;
+
+&emsp;&emsp;&emsp;“(ii) modernizing IRS operations;
+
+&emsp;&emsp;&emsp;“(iii) improving the collections process without major personnel increases or increased funding;
+
+&emsp;&emsp;&emsp;“(iv) improving taxpayer accounts management;
+
+&emsp;&emsp;&emsp;“(v) improving the accuracy of information requested by taxpayers in order to file their returns; and
+
+&emsp;&emsp;&emsp;“(vi) changing the culture of the IRS to make the organization more efficient, productive, and customer-oriented;
+
+&emsp;&emsp;“(C) whether the IRS could be replaced with a quasi-governmental agency with tangible incentives and internally managing its programs and activities and for modernizing its activities, and
+
+&emsp;&emsp;“(D) whether the IRS could perform other collection, information, and financial service functions of the Federal Government.
+
+“(d)
+
+Powers of the Commission.—
+
+&emsp;“(1)
+
+In general.—(A) The Commission or, on the authorization of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out the provisions of this section—
+
+&emsp;&emsp;“(i) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths, and
+
+&emsp;&emsp;“(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
+
+&emsp;“(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Chairman of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Chairman, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+
+&emsp;“(2)
+
+Contracting.—The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this section.
+
+&emsp;“(3)
+
+Information from federal agencies.—The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this section. Each such department, bureau, agency, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Chairman.
+
+&emsp;“(4)
+
+Assistance from federal agencies.—(A) The Secretary of the Treasury is authorized on a nonreimbursable basis to provide the Commission with administrative services, funds, facilities, staff, and other support services for the performance of the Commission's functions.
+
+&emsp;“(B) The Administrator of General Services shall provide to the Commission on a nonreimbursable basis such administrative support services as the Commission may request.
+
+&emsp;“(C) In addition to the assistance set forth in subparagraphs (A) and (B), departments and agencies of the United States are authorized to provide to the Commission such services, funds, facilities, staff, and other support services as they may deem advisable and as may be authorized by law.
+
+&emsp;“(5)
+
+Postal services.—The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+
+“(e)
+
+Staff of the Commission.—
+
+&emsp;“(1)
+
+In general.—The Chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shallretain the rights, status, and privileges of his or her regular employment without interruption.
+
+&emsp;“(2)
+
+Consultant services.—The Commission is authorized to procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+“(f)
+
+Compensation and Travel Expenses.—
+
+&emsp;“(1)
+
+Compensation.—(A) Except as provided in subparagraph (B), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
+
+&emsp;“(B) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay on account of their service on the Commission.
+
+&emsp;“(2)
+
+Travel expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
+
+“(g)
+
+Final Report of Commission; Termination.—
+
+&emsp;“(1)
+
+Final report.—Not later than one year after the date of the first meeting of the Commission, the Commission shall submit to the Congress its final report, as described in subsection (c)(2).
+
+&emsp;“(2)
+
+Termination.—(A) The Commission, and all the authorities of this section, shall terminate on the date which is 60 days after the date on which a final report is required to be transmitted under paragraph (1).
+
+&emsp;“(B) The Commission may use the 60-day period referred to in subparagraph (A) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its final report and disseminating that report.
+
+“(h)
+
+Authorization of Appropriations.—Such sums as may be necessary are authorized to be appropriated for the activities of the Commission.
+
+“(i)
+
+Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
+
 #### Fees for Services Rendered
 
-Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, provided that: “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service: <i>Provided further</i>, That the total expenditures from such fees shall not exceed $119,000,000.”
+Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227, provided that: “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service: <i>Provided further</i>, That the total expenditures from such fees shall not exceed $119,000,000 annually.”
 
 #### Disclosure of Rights of Taxpayers
 
@@ -74,7 +264,7 @@ Distribution.—The statement prepared in accordance with subsections (a) and (b
 
 #### Designation of Officers To Act as Secretary of Treasury
 
-Designation of officers of Treasury Department to act as Secretary of Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note undersection 3347 of Title 5, Government Organization and Employees.
+Designation of officers of Treasury Department to act as Secretary of Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 #### Fees for Requests for Ruling, Determination, and Similar Letters
 

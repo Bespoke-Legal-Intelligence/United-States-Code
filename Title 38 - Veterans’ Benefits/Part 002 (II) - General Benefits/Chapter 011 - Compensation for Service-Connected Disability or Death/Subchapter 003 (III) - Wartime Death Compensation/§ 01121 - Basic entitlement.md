@@ -1,6 +1,6 @@
 ### §1121. Basic entitlement
 
-The surviving spouse, child or children, and dependent parent or parents of any veteran whodied before January 1, 1957 as the result of injury or disease incurred in or aggravated by active military, naval, or air service, in line of duty, during a period of war, shall be entitled to receive compensation at the monthly rates specified in section 1122 of this title.
+The surviving spouse, child or children, and dependent parent or parents of any veteran who died before January 1, 1957 as the result of injury or disease incurred in or aggravated by active military, naval, or air service, in line of duty, during a period of war, shall be entitled to receive compensation at the monthly rates specified in section 1122 of this title.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, §321; Pub. L. 92–197, §6, Dec. 15, 1971, 85 Stat. 662; Pub. L. 94–433, title IV, §404(12), Sept. 30, 1976, 90 Stat. 1378; renumbered §1121 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

@@ -12,5 +12,5 @@ The purpose of this subchapter is to support programs to meet the seventh Nation
 
 &emsp;(5) institutions of higher education to establish, operate, expand, and improve programs of school drug and violence prevention, education, and rehabilitation referral for students enrolled in colleges and universities.
 
-(Pub. L. 89 10, title IV, §4003, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3673.)
+(Pub. L. 89–10, title IV, §4003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3673.)
 

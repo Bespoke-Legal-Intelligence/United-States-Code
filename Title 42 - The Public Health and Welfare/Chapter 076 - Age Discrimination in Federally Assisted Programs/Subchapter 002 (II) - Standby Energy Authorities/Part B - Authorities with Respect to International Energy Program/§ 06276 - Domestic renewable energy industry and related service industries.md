@@ -54,7 +54,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 #### (2) Duties of the interagency working subgroups
 
-&emsp;(A) The interagency working subgroups established under paragraph (1)(B), through the member agencies of the interagency working group, shall promote the development and application in foreign countries of renewable energy and energy efficiency products and services, respectively, that—
+&emsp;(A) The interagency working subgroups established under paragraph (1)(B), through themember agencies of the interagency working group, shall promote the development and application in foreign countries of renewable energy and energy efficiency products and services, respectively, that—
 
 &emsp;&emsp;(i) reduce dependence on unreliable sources of energy by encouraging the use of sustainable biomass, wind, small-scale hydroelectric, solar, geothermal, and other renewable energy and energy efficiency products and services; and
 
@@ -90,7 +90,7 @@ The interagency working group established under subsection (d) of this section s
 
 (1) The interagency working group shall—
 
-&emsp;(A) establish, in consultation with representatives of affected industries, a plan toincrease United States exports of renewable energy and energy efficiency technologies, and include in such plan recommended guidelines for agencies that are represented on the working group with respect to the financing of, or other actions they can take within their programs to promote, exports of such renewable energy and energy efficiency technologies;
+&emsp;(A) establish, in consultation with representatives of affected industries, a plan to increase United States exports of renewable energy and energy efficiency technologies, and include in such plan recommended guidelines for agencies that are represented on the working group with respect to the financing of, or other actions they can take within their programs to promote, exports of such renewable energy and energy efficiency technologies;
 
 &emsp;(B) develop, in consultation with representatives of affected industries, recommended administrative guidelines for Federal export loan programs to simplify application by firms seeking export assistance for renewable energy and energy efficiency technologies from agencies implementing such programs; and
 
@@ -108,7 +108,7 @@ There are authorized to be appropriated to the Secretary for purposes of carryin
 
 #### References in Text
 
-This subtitle, referred to in subsec. (h), is unidentifiable in the original because neither title XII of Pub. L. 102–486 which added subsec. (h) of this section, nor title II of Pub. L. 94–163, which enacted this section, contains subtitles.
+This subtitle, referred to in subsec. (h), is unidentifiable in the original because neither title XII of Pub. L.102–486 which added subsec. (h) of this section, nor title II of Pub. L. 94–163, which enacted this section, contains subtitles.
 
 #### Amendments
 

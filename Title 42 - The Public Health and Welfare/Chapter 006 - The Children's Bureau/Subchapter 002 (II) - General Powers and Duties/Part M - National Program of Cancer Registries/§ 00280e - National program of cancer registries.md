@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under subsection (a) of this section only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees, with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
+&emsp;The Secretary may make a grant under subsection (a) of this section only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees,with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution; maintenance of effort
 

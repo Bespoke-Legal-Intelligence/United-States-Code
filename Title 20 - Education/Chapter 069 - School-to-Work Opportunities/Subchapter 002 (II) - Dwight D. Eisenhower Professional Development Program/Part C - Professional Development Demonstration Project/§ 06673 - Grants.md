@@ -28,5 +28,5 @@
 
 &emsp;The Secretary shall award grants under this part in an amount determined on the basis of the size of the program and the level of investment the eligible partnership is making in teacher development in the area served by the eligible partnership, including local, State, and Federal funds and existing higher education resources, except that no grant under this part shall exceed $500,000 in any one fiscal year.
 
-(Pub. L. 89 10, title II, §2303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3634.)
+(Pub. L. 89–10, title II, §2303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634.)
 

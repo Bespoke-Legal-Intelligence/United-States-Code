@@ -1,4 +1,4 @@
-### §346 . Special tax provisions
+### §346. Special tax provisions
 
 (a) Except to the extent otherwise provided in this section, subsections (b), (c), (d), (e), (g), (h), (i), and (j) of this section apply notwithstanding any State or local law imposing a tax, but subject to the Internal Revenue Code of 1986.
 

@@ -66,7 +66,7 @@ The Director of NIH shall—
 
 #### (f) Associate Director for Prevention; functions; report to Director
 
-There shall be in the National Institutes of Health an Associate Director for Prevention. The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
+There shall be in the National Institutes of Health an Associate Director for Prevention.The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
 
 &emsp;(1) annually review the efficacy of existing policies and techniques used by the national research institutes to disseminate the results of disease prevention and behavioral research programs;
 
@@ -122,7 +122,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (k) Interagency research on trauma
 
-The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).
+The Director of NIH shall carry out the program established in part F of subchapter X ofthis chapter (relating to interagency research on trauma).
 
 (July 1, 1944, ch. 373, title IV, §402, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 823; amended Nov. 4, 1988, Pub. L. 100–607, title I, §111, 102 Stat. 3052; July 10, 1992, Pub. L. 102–321, title I, §163(b)(3), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), 107 Stat. 139, 144, 148–150, 153.)
 
@@ -162,7 +162,7 @@ Subsec. (k). Pub. L. 103–43, §303(b), added subsec. (k).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Chronic Fatigue Syndrome; Experts and Research Representatives on Advisory Committees and Boards
 
-Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall ensure that appropriate individuals with expertise in chronic fatigue syndrome or neuromuscular diseases and representative of a variety ofdisciplines and fields within the research community are appointed to appropriate National Institutes of Health advisory committees and boards.”
+Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall ensure that appropriate individuals with expertise in chronic fatigue syndrome or neuromuscular diseases and representative of a variety of disciplines and fields within the research community are appointed to appropriate National Institutes of Health advisory committees and boards.”
 
 #### Third-Party Payments Regarding Certain Clinical Trials and Certain Life-Threatening Illnesses
 
@@ -182,23 +182,11 @@ Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health an
 
 #### Personnel Study of Recruitment, Retention and Turnover
 
-Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that the National Institutes of Health is adequately supporting the conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on the results of such study not later than 1 year after June 10, 1993.
+Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of National Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
 
 #### Chronic Pain Conditions
 
-Section 1907 of Pub. L. 103–43 provided that:
-
-“(a)
-
-In General.—The Director of the National Institutes of Health (in this section referred to as the ‘Director’), acting through the Director of the National Institute of Dental Research and as appropriate through the heads of other agencies of such Institutes, shall conduct a study for the purpose of determining the incidence in the United States of cases of chronic pain (including chronic pain resulting from back injuries) and the effect of such cases on the costs of health care in the United States.
-
-“(b)
-
-Certain Elements of Study.—The cases of chronic pain with respect to which the study required in subsection (a) is conducted shall include reflex sympathetic dystrophy syndrome, temporomandibular joint disorder, post-herpetic neuropathy, painful diabetic neuropathy, phantom pain, and post-stroke pain.
-
-“(c)
-
-Report.—Not later than 2 years after the date of the enactment of this Act \[June 10, 1993\], the Director shall complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.”
+Section 1907 of Pub. L. 103–43 directed Director of the National Institutes of Health to submit to Congress, not later than 2 years after June 10, 1993, a report and study on the incidence in the United States of cases of chronic pain, including chronic pain resulting from back injuries, reflex sympathetic dystrophy syndrome, temporomandibular joint disorder, post-herpetic neuropathy, painful diabetic neuropathy, phantom pain, and post-stroke pain, and the effect of such cases on the costs of health care in the United States.
 
 #### Support for Bioengineering Research
 
@@ -206,7 +194,7 @@ Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services
 
 #### Master Plan for Physical Infrastructure for Research
 
-Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
+Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequatebuildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
 
 #### Section Referred to in Other Sections
 

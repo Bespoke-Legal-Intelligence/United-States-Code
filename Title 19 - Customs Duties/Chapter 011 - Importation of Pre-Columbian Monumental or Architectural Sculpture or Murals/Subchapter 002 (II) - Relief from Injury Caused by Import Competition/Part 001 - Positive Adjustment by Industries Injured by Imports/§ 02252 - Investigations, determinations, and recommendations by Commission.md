@@ -94,7 +94,7 @@
 
 &emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
-(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
+(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason tobelieve that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
 (6) For purposes of this section:
 
@@ -144,7 +144,7 @@
 
 &emsp;(ii) delay in taking action under this part would cause damage to that industry that would be difficult to repair.
 
-(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference toincreasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (C) The Commission shall immediately report to the President its determinations under subparagraph (A)(i) and (ii) and, if the determinations are affirmative, the finding under subparagraph (B).
 
@@ -278,7 +278,7 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 (2) No new investigation shall be conducted with respect to an article that is or has been the subject of an action under section 2253(a)(3)(A), (B), (C), or (E) of this title if the last day on which the President could take action under section 2253 of this title in the new investigation is a date earlier than that permitted under section 2253(e)(7) of this title.
 
-(3)(A) Not later than the date on which the Textiles Agreement enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Register a list of all articles that are subject to the Textiles Agreement. An investigation may be conducted under this section concerning imports of any article that is subject to the Textiles Agreement only if the United States has integrated that article into GATT 1994 pursuant to the Textiles Agreement, as set forth in notices published in the Federal Register by the Secretary of Commerce, including the notice published under section 3591 of this title.
+(3)(A) Not later than the date on which the Textiles Agreement enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Registera list of all articles that are subject to the Textiles Agreement. An investigation may be conducted under this section concerning imports of any article that is subject to the Textiles Agreement only if the United States has integrated that article into GATT 1994 pursuant to the Textiles Agreement, as set forth in notices published in the Federal Register by the Secretary of Commerce, including the notice published under section 3591 of this title.
 
 (B) For purposes of this paragraph:
 

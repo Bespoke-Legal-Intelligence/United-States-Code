@@ -1,4 +1,4 @@
-### §111c . Revision of boundaries; vested rights; administration
+### §111c. Revision of boundaries; vested rights; administration
 
 The boundaries of Mesa Verde National Park are hereby revised to include the following described lands, which, subject to valid existing rights, shall be administered as a part of the park in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented:
 

@@ -1,4 +1,4 @@
-### §531 . Original appointments of commissioned officers
+### §531. Original appointments of commissioned officers
 
 (a) Original appointments in the grades of second lieutenant through colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign through captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.
 

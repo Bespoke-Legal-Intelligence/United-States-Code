@@ -1,4 +1,4 @@
-### §6327 . Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay
+### §6327. Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay
 
 (a) A member of the Naval Reserve or the Marine Corps Reserve may be transferred to the Retired Reserve upon his request if he has completed—
 

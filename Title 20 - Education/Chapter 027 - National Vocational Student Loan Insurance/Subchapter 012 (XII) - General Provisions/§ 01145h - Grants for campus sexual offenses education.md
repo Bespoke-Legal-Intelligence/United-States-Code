@@ -50,7 +50,7 @@ No institution of higher education or consortium of such institutions shall be e
 
 #### (1) In general
 
-&emsp;In order to be eligible to be awarded a grant or contract under this section for any fiscal year, an institution of higher education or consortium of such institutions shall submit an application to the Secretary at such time and in such manner as the Secretary shall prescribe.
+&emsp;In order to be eligible to be awarded a grant or contract under this section for any fiscal year, an institution of higher education or consortium of such institutions shall submitan application to the Secretary at such time and in such manner as the Secretary shall prescribe.
 
 #### (2) Contents
 
@@ -94,7 +94,7 @@ For purposes of this section, the term “sexual offenses education and preventi
 
 For the purpose of carrying out this section, there are authorized to be appropriated $10,000,000 for the fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(Pub. L. 102 325, title XV, §1541, July 23, 1992, 106 Stat. 834; Pub. L. 103 208, §2(k)(13), Dec. 20, 1993, 107 Stat. 2486.)
+(Pub. L. 102–325, title XV, §1541, July 23, 1992, 106 Stat. 834; Pub. L. 103–208, §2(k)(13), Dec. 20, 1993, 107 Stat. 2486.)
 
 #### Codification
 
@@ -102,9 +102,9 @@ Section was enacted as part of the Higher Education Amendments of 1992, and not 
 
 #### Amendments
 
-1993—Subsec. (g). Pub. L. 103 208 substituted “education” for “educational”.
+1993—Subsec. (g). Pub. L. 103–208 substituted “education” for “educational”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 

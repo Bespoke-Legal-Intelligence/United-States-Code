@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(8) shortages of teachers for rural public school systems is greater than in other kinds of school systems;
 
-&emsp;(9) solving the challenges facing the Nation's rural public schools will require the concertedand collaborative efforts of all levels of government and all sectors of the community;
+&emsp;(9) solving the challenges facing the Nation's rural public schools will require the concerted and collaborative efforts of all levels of government and all sectors of the community;
 
 &emsp;(10) additional Federal funding would contribute significantly to addressing the comprehensive needs of rural schools;
 
@@ -30,5 +30,5 @@ The Congress finds that—
 
 &emsp;(14) Federal and State funding of rural public schools has not adequately reflected need.
 
-(Pub. L. 89 10, title X, §10971, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3852.)
+(Pub. L. 89–10, title X, §10971, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3852.)
 

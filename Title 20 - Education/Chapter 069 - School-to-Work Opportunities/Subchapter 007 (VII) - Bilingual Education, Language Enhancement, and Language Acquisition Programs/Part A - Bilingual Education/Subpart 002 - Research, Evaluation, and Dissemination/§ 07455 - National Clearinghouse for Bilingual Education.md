@@ -16,5 +16,5 @@ The National Clearinghouse for Bilingual Education shall—
 
 &emsp;(4) develop, maintain, and disseminate, through comprehensive regional assistance centers described in part A of subchapter XIII of this chapter if appropriate, a listing by geographical area of education professionals, parents, teachers, administrators, community members and others who are native speakers of languages other than English for use as a resource by local educational agencies and schools in the development and implementation of bilingual education programs.
 
-(Pub. L. 89 10, title VII, §7135, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3731.)
+(Pub. L. 89–10, title VII, §7135, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3731.)
 

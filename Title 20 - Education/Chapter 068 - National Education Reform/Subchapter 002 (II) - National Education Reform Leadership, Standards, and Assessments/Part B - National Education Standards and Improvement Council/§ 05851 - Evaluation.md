@@ -2,7 +2,7 @@
 
 #### (a) Grant
 
-From funds reserved under section 5884(a)(2)(C) of this title, the Secretary shall make a grant,in an amount not to exceed $500,000, to the National Academy of Sciences or the National Academy of Education to—
+From funds reserved under section 5884(a)(2)(C) of this title, the Secretary shall make a grant, in an amount not to exceed $500,000, to the National Academy of Sciences or the National Academy of Education to—
 
 &emsp;(1) evaluate—
 
@@ -22,7 +22,7 @@ From funds reserved under section 5884(a)(2)(C) of this title, the Secretary sha
 
 The recipient of a grant under this section shall submit a final report to the Congress, the Secretary, and the public regarding the activities assisted under this section not later than January 1, 1998.
 
-(Pub. L. 103 227, title II, §221, Mar. 31, 1994, 108 Stat. 151.)
+(Pub. L. 103–227, title II, §221, Mar. 31, 1994, 108 Stat. 151.)
 
 #### Section Referred to in Other Sections
 

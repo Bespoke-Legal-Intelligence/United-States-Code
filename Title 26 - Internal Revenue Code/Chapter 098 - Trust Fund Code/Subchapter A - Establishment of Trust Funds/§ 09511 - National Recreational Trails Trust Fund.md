@@ -6,7 +6,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (b) Crediting of certain unexpended funds
 
-There shall be credited to the National Recreational Trails Trust Fund amounts returned to such Trust Fund under section 1302(e)(8) of the Intermodal Surface Transportation Efficiency Act of 1991.
+There shall be credited to the National Recreational Trails Trust Fund amounts returned to such Trust Fund under section 1302(e)(8) <sup>1</sup> of the Intermodal Surface Transportation Efficiency Act of 1991.
 
 #### (c) Expenditures from Trust Fund
 
@@ -16,7 +16,7 @@ Amounts in the National Recreational Trails Trust Fund shall be available, as pr
 
 #### References in Text
 
-Sections 1302 and 1303 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (b) and (c), are classified to sections 1261 and 1262, respectively, of Title 16, Conservation.
+Sections 1302 and 1303 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (b) and (c), are classified to sections 1261 and 1262, respectively, of Title 16, Conservation. Section 1302(e)(8) of the Act was redesignated section 1302(e)(9) by Pub. L. 104–59, title III, §337(c)(1)(A), Nov. 28, 1995, 109 Stat. 603.
 
 The date of the enactment of such Act, referred to in subsec. (c), means the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
 

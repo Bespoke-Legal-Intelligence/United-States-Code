@@ -904,5 +904,5 @@ Section 157(d)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 219, 280G, 401, 402, 403, 414, 415, 818, 1397B, 3121, 3306, 4972, 4973, 4974, 4975, 4979, 4980A, 6047, 6058, 6104, 6332, 6693, 7701 of this title; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1051, 1081, 1103, 1107, 1108; title 42 section 409.
+This section is referred to in sections 72, 219, 280G, 401, 402, 403, 414, 415, 818, 1397B, 3121, 3306, 4972, 4973, 4974, 4975, 4979, 4980A, 6047, 6058, 6104, 6332, 6693, 7701 of this title; title 4 section 114; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1051, 1081, 1103, 1107, 1108; title 42 section 409.
 

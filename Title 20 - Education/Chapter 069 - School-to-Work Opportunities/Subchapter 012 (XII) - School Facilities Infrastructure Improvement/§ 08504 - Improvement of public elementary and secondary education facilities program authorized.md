@@ -12,7 +12,7 @@
 
 #### (b) Award categories
 
-#### (1)<sup>1</sup> In general
+#### (1) <sup>1</sup> In general
 
 &emsp;From the funds appropriated to carry out this subchapter for each fiscal year, the Secretary shall award grants to eligible local educational agencies in each of the following categories:
 
@@ -32,7 +32,7 @@
 
 The Secretary shall annually set the maximum award amounts for each category described in subsection (b)(1) of this section.
 
-(Pub. L. 89 10, title XII, §12004, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3871.)
+(Pub. L. 89–10, title XII, §12004, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3871.)
 
-<i><sup>1</sup></i><i>So in original. No par. (2) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

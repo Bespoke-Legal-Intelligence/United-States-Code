@@ -68,7 +68,7 @@
 
 (3) The Secretary may provide by regulation for the exclusion from income under this section of amounts paid by a parent for unusual medical expenses.
 
-(g) The monthly rate of dependency and indemnity compensation payable to a parent shallbe increased by $85, as increased from time to time under section 5312 of this title, if such parent is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
+(g) The monthly rate of dependency and indemnity compensation payable to a parent shall be increased by $85, as increased from time to time under section 5312 of this title, if such parent is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub. L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743.)
 
@@ -174,7 +174,7 @@ Subsec. (c). Pub. L. 94–169, §201(3), increased, effective for period beginni
 
 Subsec. (d). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, basic rate of monthly compensation from $83 to $90, substituted $1000 to $2300 for $1100 to $2500, $2300 to $3300 for $2500 to $3500 and $3300 to $4500 for $3500 to $4200 the minimum and maximum income ranges for which the compensation rate will be reduced by 2, 3, and 4 cents, respectively, struck out the income range of $1000 to $1100 for which the reduction rate is 1 cent per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $4200 to $4500 the income in excess of which no compensation will be paid.
 
-Subsec. (e). Pub. L. 94–169, §201(4), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “with the Administrator” for “with him” and “prescribed by the Administrator” for “prescribed by him”.
+Subsec. (e). Pub. L. 94–169, §201(4), substituted, effective for period beginning Jan. 1, 1976, and ending Sept.30, 1976, “with the Administrator” for “with him” and “prescribed by the Administrator” for “prescribed by him”.
 
 Subsec. (f). Pub. L. 94–169, §201(5), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “the Administrator shall deduct” for “he shall deduct”.
 
@@ -226,7 +226,7 @@ Subsec. (g)(1)(C). Pub. L. 91–588, §8(a), inserted reference to first sentenc
 
 Subsec. (g)(1)(M). Pub. L. 91–588, §8(a), added subpar. (M).
 
-1968—Subsec. (b)(1). Pub. L. 90–275, §2(a), in providing new annual income limits to measure monthly compensation of one parent, reenacted minimum income limit of $800 for monthly benefit of $87, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $81 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $69, $52, $35, and $18, respectively.
+1968—Subsec. (b)(1). Pub. L. 90–275, §2(a), in providing new annual income limits to measure monthly compensation of one parent, reenacted minimum income limit of $800 for monthly benefit of $87, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of paymentsbased on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $81 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $69, $52, $35, and $18, respectively.
 
 Subsec. (c). Pub. L. 90–275, §2(b), in providing new annual income limits to measure monthly compensation of two parents not living together, reenacted minimum income limit of $800 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $54 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $46, $35, $23, and $12, respectively.
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 201 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided thatthe amendment made by that section is effective Jan. 1, 1976.
+Section 201 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 

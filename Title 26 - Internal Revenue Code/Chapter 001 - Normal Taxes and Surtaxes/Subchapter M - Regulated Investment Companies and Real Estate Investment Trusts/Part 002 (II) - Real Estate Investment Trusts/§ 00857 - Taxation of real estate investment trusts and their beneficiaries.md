@@ -8,7 +8,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;(A) the sum of—
 
-&emsp;&emsp;&emsp;(i) 95 percent (90 percent for taxable years beginning before January 1, 1980) of the real estate investment trust taxableincome for the taxable year (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain); and
+&emsp;&emsp;&emsp;(i) 95 percent (90 percent for taxable years beginning before January 1, 1980) of the real estate investment trust taxable income for the taxable year (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain); and
 
 &emsp;&emsp;&emsp;(ii) 95 percent (90 percent for taxable years beginning before January 1, 1980) of the excess of the net income from foreclosure property over the tax imposed on such income by subsection (b)(4)(A); minus
 
@@ -62,7 +62,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (C) Definition of capital gain dividend
 
-&emsp;&emsp;For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the real estate investment trust as a capital gain dividend in a written notice mailed to its shareholders or holders of beneficial interests at any time before the expiration of 30 days after the close of its taxable year (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year); except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the trust (including capital gain dividends paid after the close of the taxable year described in section 858) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard to any net capital loss attributable to transactions after December 31 of such year, and any such net capital loss shall be treated as arising on the 1st day of the next taxableyear. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the real estate investment trust.
+&emsp;&emsp;For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the real estate investment trust as a capital gain dividend in a written notice mailed to its shareholders or holders of beneficial interests at any time before the expiration of 30 days after the close of its taxable year (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year); except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the trust (including capital gain dividends paid after the close of the taxable year described in section 858) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard to any net capital loss attributable to transactions after December 31 of such year, and any such net capital loss shall be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the real estate investment trust.
 
 #### (D) Coordination with net operating loss provisions
 
@@ -130,7 +130,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(iii)(I) during the taxable year the trust does not make more than 7 sales of property (other than foreclosure property), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than foreclosure property) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year;
 
-&emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieuof foreclosure), or lease termination, the trust has held the property for not less than 4 years for production of rental income; and
+&emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 4 years for production of rental income; and
 
 &emsp;&emsp;&emsp;(v) if the requirement of clause (iii)(I) is not satisfied, substantially all of the marketing and development expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income.
 
@@ -198,7 +198,7 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
+&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
 
 #### (e) Excess noncash income
 
@@ -308,7 +308,7 @@ Subsec. (b)(3)(C). Pub. L. 95–600, §362(d)(3), substituted “section 860(e)�
 
 Subsec. (b)(6)(C) to (E). Pub. L. 95–600, §363(b), added subpars. (C) to (E).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1604(j), (k)(2)(B), 1906(b)(13)(A), substituted “(other than subsection (d) of this section and subsection (g) of section 856)” for “(other than subsection (d) of this section)” in provisions preceding par. (1), in par. (1) redesignated existing subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), in both cls. (i) and (ii) of subpar. (A) as redesignated raised the percentage to 95 percent for taxable years beginning on and after Jan. 1, 1980, and, in cl. (i) of subpar. (A) as redesignated, inserted provision for the exclusion of net capital gain, and struck out “or his delegate” after “Secretary” in par. (2).
+1976—Subsec. (a). Pub. L. 94–455, §§1604(j), (k)(2)(B), 1906(b)(13)(A), substituted “(other than subsection (d) of this section and subsection (g) of section 856)” for “(other than subsection (d) of this section)” in provisions preceding par. (1), in par. (1) redesignated existing subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), in both cls. (i) and (ii) of subpar. (A) as redesignated raised the percentage to 95 percent for taxable years beginning on and after Jan. 1,1980, and, in cl. (i) of subpar. (A) as redesignated, inserted provision for the exclusion of net capital gain, and struck out “or his delegate” after “Secretary” in par. (2).
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(1)(V), struck out provision that, for purposes of computing the normal tax under section 11, the taxable income and the dividends paid deduction of such real estate investment trust for the taxable year (computed without regard to capital gains dividends) would be reduced by the deduction provided by section 22 (relating to partially tax-exempt interest.
 
@@ -374,7 +374,7 @@ Amendment by section 1001(b)(13) of Pub. L. 98–369 applicable to property acqu
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective and Termination Dates of 1980 Amendment
 

@@ -8,7 +8,7 @@ Section 753a, added act Aug. 10, 1956, ch. 1041, §15(a), 70A Stat. 625, related
 
 Section 754, act Aug. 4, 1949, ch. 393, 63 Stat. 551, related to grades and ratings and military authority. See section 704 of this title.
 
-Section 755, acts Aug. 4, 1949, ch. 393, 63 Stat. 551; Aug. 3, 1950, ch. 536, §32, 64 Stat. 408; Aug. 16, 1957, Pub. L. 85–149, 71 Stat. 369; Sept. 7, 1962, Pub. L. 87–649, §7(a), 76 Stat. 495; Sept. 25, 1965, Pub. L. 89–200, 79 Stat. 834; June 9, 1966, Pub. L. 89–444, §1(23), 80 Stat. 197; Dec. 5, 1973, Pub. L. 93–174, §2(1), 87 Stat. 692, related to benefits. See section 705 of this title.
+Section 755, acts Aug. 4, 1949, ch. 393, 63 Stat. 551; Aug. 3, 1950, ch. 536, §32, 64 Stat. 408; Aug. 16, 1957, Pub. L. 85–149, 71 Stat. 369; Sept. 7, 1962, Pub. L. 87–649, §7(a), 76 Stat. 495; Sept. 25, 1965, Pub. L. 89–200, 79 Stat. 834; June 9, 1966, Pub. L. 89–444, §1(23), 80 Stat. 197; Dec. 5,1973, Pub. L. 93–174, §2(1), 87 Stat. 692, related to benefits. See section 705 of this title.
 
 Section 756, act Aug. 4, 1949, ch. 393, 63 Stat. 552, related to temporary membership. See section 706 of this title.
 

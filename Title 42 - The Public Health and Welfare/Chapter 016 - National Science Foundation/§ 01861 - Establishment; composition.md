@@ -18,7 +18,7 @@ Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provid
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: “That this Act \[amending sections 1862, 1864a, 1869, and 1870 of this title and section 5316 of Title 5, GovernmentOrganization and Employees, repealing sections 1876 to 1879 of this title, and enacting provisions set out as notes under sections 1885a and 6614 of this title\] may be cited as the ‘National Science Foundation Authorization Act for Fiscal Year 1987’.”
+Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: “That this Act \[amending sections 1862, 1864a, 1869, and 1870 of this title and section 5316 of Title 5, Government Organization and Employees, repealing sections 1876 to 1879 of this title, and enacting provisions set out as notes under sections 1885a and 6614 of this title\] may be cited as the ‘National Science Foundation Authorization Act for Fiscal Year 1987’.”
 
 #### Short Title of 1985 Amendment
 
@@ -114,7 +114,7 @@ I74Section 31. Incidental Transfers
 
 (a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by the provisions of section 3 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Science and Technology at such time or times as the said Director shall direct.
 
-(b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
+(b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to benecessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
 #### Sec. 32. Interim Officers
 
@@ -162,7 +162,7 @@ The National Science Foundation has proved to be an effective instrument for adm
 
 Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflect changed conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
 
-Part I of the reorganization plan will permit some strengthening of the staff and consultant resources now available to the President in respect of scientific and technical factors affecting executive branch policies and will also facilitate communication with the Congress.
+Part I of the reorganization plan will permit some strengthening of the staff and consultant resources nowavailable to the President in respect of scientific and technical factors affecting executive branch policies and will also facilitate communication with the Congress.
 
 Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwise further the effectiveness of administration of the Foundation. Specifically:
 

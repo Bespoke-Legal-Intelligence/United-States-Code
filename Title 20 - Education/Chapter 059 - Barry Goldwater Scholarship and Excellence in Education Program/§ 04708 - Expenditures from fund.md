@@ -8,5 +8,5 @@ The Secretary of the Treasury may pay to the Foundation from the interest and ea
 
 The activities of the Foundation under this chapter may be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the General Accounting Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 99 661, div. A, title XIV, §1409, Nov. 14, 1986, 100 Stat. 4011.)
+(Pub. L. 99–661, div. A, title XIV, §1409, Nov. 14, 1986, 100 Stat. 4011.)
 

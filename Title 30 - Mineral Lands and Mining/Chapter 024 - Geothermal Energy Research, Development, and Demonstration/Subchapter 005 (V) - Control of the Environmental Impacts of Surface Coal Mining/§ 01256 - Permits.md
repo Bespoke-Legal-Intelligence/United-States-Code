@@ -2,7 +2,7 @@
 
 #### (a) Persons engaged in surface coal mining within State; time limit; exception
 
-No later than eight months from the date on which a State program is approved by the Secretary, pursuant to section 1253 of this title, or no later than eight months from the date on which the Secretary has promulgated a Federal program for a State not having a State program pursuant to section 1254 of this title, no person shall engage in or carry out on lands within a State any surface coal mining operations unless such person has first obtained a permit issued by such State pursuant to an approved State program or by the Secretary pursuant to a Federal program; except a person conducting surface coal mining operations under a permit from the State regulatory authority, issued in accordance with the provisions of section 1252 of this title, may conduct such operations beyond such period if an application for a permit has been filed in accordance with the provisions of this chapter, but the initial administrative decision has not been rendered.
+No later than eight months from the date on which a State program is approved by the Secretary, pursuant to section 1253 of this title, or no later than eight months from the date on which the Secretary has promulgated a Federal program for a State not having a State program pursuant to section 1254 of this title, no person shall engage in or carry out on lands within aState any surface coal mining operations unless such person has first obtained a permit issued by such State pursuant to an approved State program or by the Secretary pursuant to a Federal program; except a person conducting surface coal mining operations under a permit from the State regulatory authority, issued in accordance with the provisions of section 1252 of this title, may conduct such operations beyond such period if an application for a permit has been filed in accordance with the provisions of this chapter, but the initial administrative decision has not been rendered.
 
 #### (b) Term
 
@@ -34,7 +34,7 @@ A permit shall terminate if the permittee has not commenced the surface coal min
 
 #### References in Text
 
-The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25,1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,8 @@
+### §3006. Authorization of appropriations
+
+(a) For purposes of carrying out the provisions of sections 3003 and 3005 of this title, there are authorized to be appropriated such sums as are necessary.
+
+(b) For purposes of carrying out the provisions of section 3004 of this title, there is authorized to be appropriated $1,500,000 for each of the fiscal years ending September 30, 1977, and September 30, 1978.
+
+(Pub. L. 94–463, §7, Oct. 8, 1976, 90 Stat. 1983.)
+

@@ -10,7 +10,7 @@
 
 #### (b) Reimbursement of consumed materials, etc.
 
-The materials, supplies, or equipment loaned to a country under this section may be expended or otherwise consumed in connection with any testing or evaluation program without a requirement for reimbursement of the United States if the Secretary—
+The materials, supplies, or equipment loaned to a country under this section may be expendedor otherwise consumed in connection with any testing or evaluation program without a requirement for reimbursement of the United States if the Secretary—
 
 &emsp;(1) determines that the success of the research, development, test, or evaluation depends upon expending or otherwise consuming the materials, supplies, or equipment loaned to the country; and
 

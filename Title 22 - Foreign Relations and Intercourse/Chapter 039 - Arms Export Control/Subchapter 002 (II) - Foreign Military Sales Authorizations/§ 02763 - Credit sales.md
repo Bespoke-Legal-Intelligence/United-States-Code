@@ -34,7 +34,7 @@ References in any law to credits extended under this section shall be deemed to 
 
 1990—Subsec. (e). Pub. L. 101–513 added subsec. (e).
 
-1987—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including Major Defense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
+1987—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including MajorDefense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
 
 1985—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
 

@@ -4,9 +4,9 @@
 
 Section 64a, act Feb. 21, 1929, ch. 288, 45 Stat. 1254, defined child and children as used in section 64 of this title, and was superseded by section 401 of Title 37, Pay and Allowances of the Uniformed Services.
 
-Section 64b, act June 24, 1935, ch. 291, §3, 49 Stat. 421, defined permanent change in station as used in section 64 of this title and was superseded by section 411 of Title 37.
+Section 64b, act June 24, 1935, ch. 291, §3, 49 Stat. 421, defined permanent change in station as used in section64 of this title and was superseded by section 411 of Title 37.
 
-Provisions of section 64c, which related to use of government automobiles to transport school children atisolated stations, were enacted as permanent legislation by the 1948 amendment to section 227 of this title. Section 64c was based upon the following prior appropriation acts:
+Provisions of section 64c, which related to use of government automobiles to transport school children at isolated stations, were enacted as permanent legislation by the 1948 amendment to section 227 of this title. Section 64c was based upon the following prior appropriation acts:
 
 June 14, 1948, ch. 465, title II, 62 Stat. 400.
 

@@ -18,7 +18,7 @@ The President is authorized to furnish project and program assistance, on such t
 
 #### (1) Purpose
 
-&emsp;The purpose of assistance under this section shall be to help the poor majority of men and women in sub-Saharan Africa to participate ina process of long-term development through economic growth that is equitable, participatory, environmentally sustainable, and self-reliant.
+&emsp;The purpose of assistance under this section shall be to help the poor majority of men and women in sub-Saharan Africa to participate in a process of long-term development through economic growth that is equitable, participatory, environmentally sustainable, and self-reliant.
 
 #### (2) Use of assistance to encourage private sector development
 
@@ -154,7 +154,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### (1) Authority to provide assistance
 
-&emsp;To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph (2), that are supported by the Southern Africa Development Coordination Conference\(SADCC) to enhance the economic development of the member states forming that regional institution.
+&emsp;To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph (2), that are supported by the Southern Africa Development Coordination Conference (SADCC) to enhance the economic development of the member states forming that regional institution.
 
 #### (2) Sectors
 

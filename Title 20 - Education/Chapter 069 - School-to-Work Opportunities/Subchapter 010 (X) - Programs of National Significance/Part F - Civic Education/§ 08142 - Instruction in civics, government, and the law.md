@@ -60,7 +60,7 @@ Assistance under this section may support new and ongoing programs in elementary
 
 &emsp;The Secretary may award a grant or a contract under this section for a period of less than 2 years if the Secretary determines that special circumstances exist which warrant a 1-year grant or contract award.
 
-(Pub. L. 89 10, title X, §10602, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3839.)
+(Pub. L. 89–10, title X, §10602, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3839.)
 
 #### Section Referred to in Other Sections
 

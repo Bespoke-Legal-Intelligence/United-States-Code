@@ -2,7 +2,7 @@
 
 There is established an executive department to be known as the Department of Education. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of a Secretary of Education. The Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(Pub. L. 96 88, title II, §201, Oct. 17, 1979, 93 Stat. 671.)
+(Pub. L. 96–88, title II, §201, Oct. 17, 1979, 93 Stat. 671.)
 
 #### Emergency Preparedness Functions
 
@@ -34,7 +34,7 @@ Sec. 7. The Director of the Office of Personnel Management, in consultation with
 
 Sec. 8. I have determined that the Commission shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended, shall be performed by the Secretary, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-Sec. 9. <i>Administration</i>. (a) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701 5707).
+Sec. 9. <i>Administration</i>. (a) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
 (b) The Commission and the Initiative shall obtain funding for their activities from the Department of Education.
 
@@ -43,4 +43,8 @@ Sec. 9. <i>Administration</i>. (a) Members of the Commission shall serve without
 Sec. 10. Executive Order No. 12729 is revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Advisory Commission on Education Excellence for Hispanic Americans
+
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

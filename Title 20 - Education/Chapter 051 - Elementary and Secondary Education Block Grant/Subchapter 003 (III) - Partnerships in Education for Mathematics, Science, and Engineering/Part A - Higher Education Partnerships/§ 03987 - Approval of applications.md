@@ -10,13 +10,13 @@
 
 The Secretary shall adopt approval procedures designed to assure that there is equitable distribution of grants among the States.
 
-(Pub. L. 98 377, title III, §308, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99 159, title II, §231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100 418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, §308, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, §231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100 418 substituted “part” for “subchapter”.
+1988—Subsec. (a)(1). Pub. L. 100–418 substituted “part” for “subchapter”.
 
-1985—Pub. L. 99 159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).
+1985—Pub. L. 99–159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).
 
 #### Section Referred to in Other Sections
 

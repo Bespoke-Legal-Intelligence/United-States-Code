@@ -28,7 +28,7 @@
 
 (3)(A) The number of officers that may be serving on active duty in the grades of lieutenant general and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b).
 
-(B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed the number equal to 15 percent of the total number of general officers and flag officers that may beserving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps.
+(B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps.
 
 (4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
 
@@ -60,7 +60,7 @@ Section 511(b) of Pub. L. 100–180 provided that: “An officer of the Armed Fo
 
 #### Report on Management of Senior General and Flag Officer Positions
 
-Section 405(d) of Pub. L. 103–337 provided that: “Not later than March 1, 1996, the Secretary of Defense shall submit to Congress a report on the implementation of the amendments made by this section \[enacting sections 528 and 604 of this title and amending this section\]. The report shall include an assessment of the effectiveness of those amendments in meeting the objective of encouraging more competition among all services for appointment of officers to joint three-star and four-star positions. The report may include such additional recommendations concerning general and flag officer selection policy as the Secretary considers appropriate.”
+Section 405(d) of Pub. L. 103–337 provided that: “Not later than March 1, 1996, the Secretary of Defense shall submit to Congress a report on the implementation of the amendments made by this section \[enacting sections 528 and 604 of this title and amending this section\]. The report shall include an assessment of the effectiveness of those amendments in meeting the objective of encouraging more competition among all services for appointment of officers to joint three-star and four-star positions. The report may include such additional recommendations concerning general and flagofficer selection policy as the Secretary considers appropriate.”
 
 #### Temporary Exclusion of Superintendent of Naval Academy From Counting Toward Number of Senior Admirals Authorized To Be on Active Duty
 

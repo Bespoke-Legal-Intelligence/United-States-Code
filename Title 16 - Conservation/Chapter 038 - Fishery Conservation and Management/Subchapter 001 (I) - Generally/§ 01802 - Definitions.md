@@ -150,7 +150,7 @@ Sponges
 
 &emsp;&emsp;(B) which is prescribed as such on the basis of the maximum sustainable yield from such fishery, as modified by any relevant economic, social, or ecological factor.
 
-&emsp;(22) The term “person” means any individual (whether or not a citizen or national of theUnited States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
+&emsp;(22) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
 &emsp;(23) The term “Secretary” means the Secretary of Commerce or his designee.
 
@@ -234,7 +234,7 @@ Par. (32). Pub. L. 101–627, §102(a)(8), added par. (32).
 
 &emsp;“(C) any vessel numbered under the Federal Boat Safety Act of 1971 and used exclusively for pleasure.”
 
-1986—Par. (4). Pub. L. 99–659, §112, in provisions under heading “Mollusks” substituted “Arctica islandica” for“Artica islandica” and under heading “Sponges” substituted “Spongia cheiris” for “Hippiospongia canaliculata”.
+1986—Par. (4). Pub. L. 99–659, §112, in provisions under heading “Mollusks” substituted “Arctica islandica” for “Artica islandica” and under heading “Sponges” substituted “Spongia cheiris” for “Hippiospongia canaliculata”.
 
 Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, and struck out former par. (8) which defined “fishery conservation zone” as the fishery conservation zone established by section 1811 of this title.
 
@@ -276,5 +276,5 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 917a, 971d, 1383a, 1387, 3377, 3601 of this title; title 22 sections 1971, 1980; title 46 sections 8103, 8704; title 46 App. section 1271; title 48 section 1904.
+This section is referred to in sections 917a, 971, 971d, 1383a, 1387, 3377, 3601 of this title; title 22 sections 1971, 1980; title 46 sections 8103, 8704; title 46 App. section 1271; title 48 section 1904.
 

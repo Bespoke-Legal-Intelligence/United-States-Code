@@ -4,7 +4,7 @@
 
 (b) The Chairman of the Consumer Product Safety Commission shall conduct appropriate research on multiple layers of dried paint film, containing the various lead compounds commonly used, in order to ascertain the safe level of lead in residential paint products. No later than December 31, 1974, the Chairman shall submit to Congress a full and complete report of his findings and recommendations as developed pursuant to such programs, together with a statement of any legislation which should be enacted or any changes in existing law which should be made in order to carry out such recommendations.
 
-(Pub. L. 91–695, title III, §301, Jan. 13, 1971, 84 Stat. 2079; Pub. L. 93–151, §3, Nov. 9, 1973, 87 Stat.566; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–695, title III, §301, Jan. 13, 1971, 84 Stat. 2079; Pub. L. 93–151, §3, Nov. 9, 1973, 87 Stat. 566; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Amendments
 

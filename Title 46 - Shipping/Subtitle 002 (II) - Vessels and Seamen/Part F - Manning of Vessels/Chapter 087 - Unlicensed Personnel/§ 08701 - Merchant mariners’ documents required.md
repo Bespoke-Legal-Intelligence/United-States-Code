@@ -14,7 +14,7 @@
 
 &emsp;(6) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products;
 
-&emsp;(7) a fish processing vessel (except a vessel to which clause (6) of this subsection applies) with respect to individuals on board primarily employed in the preparation of fish or fish products or in a support position not related to navigation; and
+&emsp;(7) a fish processing vessel (except a vessel to which clause (6) of this subsection applies) with respect to individuals on board primarilyemployed in the preparation of fish or fish products or in a support position not related to navigation; and
 
 &emsp;(8) a mobile offshore drilling unit with respect to individuals, other than crew members required by the certificate of inspection, engaged on board the unit for the sole purpose of carrying out the industrial business or function of the unit.
 

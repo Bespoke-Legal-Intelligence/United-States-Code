@@ -19,7 +19,7 @@
 | [20113\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020113%20-%20Enforcement%20by%20the%20States.md) | Enforcement by the States. |
 | [20114\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020114%20-%20Judicial%20procedures.md) | Judicial procedures. |
 | [20115\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020115%20-%20User%20fees.md) | User fees. |
-| [20116\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020116%20-%20Biennial%20report.md) | Biennial report. |
+| \[20116. | Repealed.\] |
 | [20117\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020117%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,11 +56,13 @@
 
 #### Amendments
 
+1995—Pub. L. 104–66, title I, §1121(g)(2), Dec. 21, 1995, 109 Stat. 724, struck out item 20116 “Biennial report”.
+
 1994—Pub. L. 103–440, title II, §§206(b), 207(b), 210(b), 211(b), 212(b), 213(b), 214(b), 215(b), 219(b), title III, §§301(b), 302(b), Nov. 2, 1994, 108 Stat. 4621–4624, 4626, 4628, substituted “Biennial” for “Annual” in item 20116 and “cars” for “equipment” in item 20133 and added items 20145 to 20153.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 11125, 21301, 21302, 21311 of this title; title 45 section 54a.
+This chapter is referred to in sections 21301, 21302, 21311 of this title; title 45 section 54a.
 
 
 ---

@@ -56,7 +56,7 @@ The Secretary shall establish a process for the voluntary mediation of disputes 
 
 The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
 
-(Pub. L. 90 247, title IV, §451, as added Pub. L. 95 561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100 297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 349.)
+(Pub. L. 90–247, title IV, §451, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 349.)
 
 #### References in Text
 
@@ -64,19 +64,19 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 
 #### Amendments
 
-1988—Pub. L. 100 297 amended section generally, substituting provisions relating to Office of Administrative Law Judges for provisions relating to Education Appeal Board.
+1988—Pub. L. 100–297 amended section generally, substituting provisions relating to Office of Administrative Law Judges for provisions relating to Education Appeal Board.
 
 #### Effective Date of 1988 Amendment
 
-Section 3501(b) of Pub. L. 100 297 provided that:
+Section 3501(b) of Pub. L. 100–297 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall be effective 180 days after the date of enactment of this Act \[Apr. 28, 1988\].
 
-“(2) The amendments made by this part \[part D (§3501) of title III of Pub. L. 100 297, enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall not apply to any case in which the recipient, prior to the effective date of this part, received a written noticethat such recipient must return funds to the Department.”
+“(2) The amendments made by this part \[part D (§3501) of title III of Pub. L. 100–297, enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall not apply to any case in which the recipient, prior to the effective date of this part, received a written notice that such recipient must return funds to the Department.”
 
 #### Effective Date
 
-Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95 561, set out as a note under section 1232c of this title.
+Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95–561, set out as a note under section 1232c of this title.
 
 #### Section Referred to in Other Sections
 

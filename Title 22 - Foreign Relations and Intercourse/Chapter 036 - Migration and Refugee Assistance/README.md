@@ -20,8 +20,7 @@
 | (c) | Use of personnel. |
 | [2606\.](%C2%A7%2002606%20-%20Audits%20of%20U.S.%20funds%20received%20by%20the%20United%20Nations%20High%20Commissioner%20for%20Refugees.md) | Audits of U.S. funds received by the United Nations High Commissioner for Refugees. |
 | (a) | Program audits. |
-| (b) | Inspection and report by Comptroller General. |
-| (c) | First program audit. |
+| (b) | First program audit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

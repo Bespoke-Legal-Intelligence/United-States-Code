@@ -10,7 +10,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-1980—Pub. L. 96–336, §5, substituted appropriations authorization of $356,400,000 to carry out sections 1571,1572, 1573, and 1579 of this title for prior authorizations of $121,500,000 and $34,000,000 for purposes of sections 1571 and 1572, and 1573 of this title, and use of January 1979 for April 1973 price basis, authorized sums of $3,579,000 and $6,960,000 for mitigation of fish and wildlife losses in California and Arizona, and provided for cost savings desalinization plant operations limited to five percent of appropriations authorization.
+1980—Pub. L. 96–336, §5, substituted appropriations authorization of $356,400,000 to carry out sections 1571, 1572, 1573, and 1579 of this title for prior authorizations of $121,500,000 and $34,000,000 for purposes of sections 1571 and 1572, and 1573 of this title, and use of January 1979 for April 1973 price basis, authorized sums of $3,579,000 and $6,960,000 for mitigation of fish and wildlife losses in California and Arizona, and provided for cost savings desalinization plant operations limited to five percent of appropriations authorization.
 
 #### Effective Date of 1980 Amendment
 

@@ -62,7 +62,7 @@
 
 #### (1) Annual reports required
 
-&emsp;Each appropriate Federal banking agency shall annually submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing a description of any difference between any accounting or capital standard used by such agency and any accounting or capital standard used by any other agency.
+&emsp;Each appropriate Federal banking agency shall annually submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing a description of any difference between any accounting or capitalstandard used by such agency and any accounting or capital standard used by any other agency.
 
 #### (2) Explanation of reasons for discrepancy
 
@@ -80,7 +80,7 @@ Section 1833d, referred to in subsec. (b)(2), was repealed by Pub. L. 102–242,
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Risk-Weighting of Housing Loans for Purposes of Capital Requirements
 
@@ -158,7 +158,7 @@ Requirements.—Subparagraph (A) shall apply to any loan—
 
 &emsp;“(2)
 
-Sale pursuant to pro rata loss sharing arrangements.—Not later than the expiration of the 120-day period beginning on the date of this Act \[Dec. 12, 1991\], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any loan fully secured by a first lien on a multifamily housing property that is sold subject to a pro rata loss sharing arrangement by an institution subject to the jurisdiction of the agency shall be treated as sold to the extent that loss is incurred by the purchaser of the loan. For purposes of this paragraph, the term ‘pro rata loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on a pro rata basis.
+Sale pursuant to pro rata loss sharing arrangements.—Not later than the expiration of the 120-day period beginning on the date of this Act \[Dec. 12, 1991\], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any loan fully secured by a first lien on a multifamily housing property that is sold subject to a pro rata loss sharing arrangement by an institution subject to the jurisdiction of the agency shall be treatedas sold to the extent that loss is incurred by the purchaser of the loan. For purposes of this paragraph, the term ‘pro rata loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on a pro rata basis.
 
 &emsp;“(3)
 

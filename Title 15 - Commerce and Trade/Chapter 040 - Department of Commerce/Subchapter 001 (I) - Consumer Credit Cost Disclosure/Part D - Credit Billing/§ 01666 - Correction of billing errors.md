@@ -58,27 +58,27 @@ Pursuant to regulations of the Board, a creditor operating an open end consumer 
 
 Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
-(Pub. L. 90 321, title I, §161, as added Pub. L. 93 495, title III, §306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96 221, title VI §§613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184.)
+(Pub. L. 90–321, title I, §161, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184.)
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96 221, §613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
+1980—Subsec. (a). Pub. L. 96–221, §613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
 
-Subsec. (b)(6), (7). Pub. L. 96 221, §620(a), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (b)(6), (7). Pub. L. 96–221, §620(a), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (c). Pub. L. 96 221, §620(b), inserted provisions respecting finance charges on amounts in dispute.
+Subsec. (c). Pub. L. 96–221, §620(b), inserted provisions respecting finance charges on amounts in dispute.
 
 #### Effective Date of 1980 Amendment
 
-Amendment buy Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment buy Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date
 
-Section 308 of title III of Pub. L. 93 495 provided that: “This title \[enacting this section and sections 1666a to 1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1601 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
+Section 308 of title III of Pub. L. 93–495 provided that: “This title \[enacting this section and sections 1666a to 1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1601 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
 
 #### Short Title
 
-Title III of Pub. L. 93 495, which is classified principally to this part, is known as the “Fair Credit Billing Act”. For complete classification of Title III to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
+Title III of Pub. L. 93–495, which is classified principally to this part, is known as the “Fair Credit Billing Act”. For complete classification of Title III to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

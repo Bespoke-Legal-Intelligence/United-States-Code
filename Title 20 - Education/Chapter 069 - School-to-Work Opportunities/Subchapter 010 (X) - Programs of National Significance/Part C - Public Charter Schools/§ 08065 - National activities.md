@@ -12,5 +12,5 @@ The Secretary may reserve not more than ten percent of the funds available to ca
 
 &emsp;&emsp;(B) collection and dissemination of information on successful charter schools.
 
-(Pub. L. 89 10, title X, §10305, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3829.)
+(Pub. L. 89–10, title X, §10305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3829.)
 

@@ -52,7 +52,7 @@ The Secretary shall be responsible for the management of the unallotted trust la
 
 #### (f) Criminal and civil jurisdiction
 
-The Hoopa Valley Reservation and Yurok Reservation shall be subject to section 1360 of title28; <sup>1</sup> section 1162 of title 18, and section 1323(a) of this title.
+The Hoopa Valley Reservation and Yurok Reservation shall be subject to section 1360 of title 28; <sup>1</sup> section 1162 of title 18, and section 1323(a) of this title.
 
 (Pub. L. 100–580, §2, Oct. 31, 1988, 102 Stat. 2925.)
 

@@ -2,10 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 1521\. | Posthumous commissions. |
-| 1522\. | Posthumous warrants. |
-| 1523\. | Posthumous commissions and warrants: effect on pay and allowances. |
-| 1524\. | Posthumous commissions and warrants: determination of date of death. |
+| [1521\.](%C2%A7%2001521%20-%20Posthumous%20commissions.md) | Posthumous commissions. |
+| [1522\.](%C2%A7%2001522%20-%20Posthumous%20warrants.md) | Posthumous warrants. |
+| [1523\.](%C2%A7%2001523%20-%20Posthumous%20commissions%20and%20warrants%20effect%20on%20pay%20and%20allowances.md) | Posthumous commissions and warrants: effect on pay and allowances. |
+| [1524\.](%C2%A7%2001524%20-%20Posthumous%20commissions%20and%20warrants%20determination%20of%20date%20of%20death.md) | Posthumous commissions and warrants: determination of date of death. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

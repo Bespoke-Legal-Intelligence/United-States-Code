@@ -48,7 +48,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 #### (c) Payments; advances or reimbursements; installments; conditions
 
-Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditionsas the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
+Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
 
 (Aug. 14, 1935, ch. 531, title IV, §426, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 915; amended Dec. 22, 1987, Pub. L. 100–203, title IX, §9137, 101 Stat. 1330–319; Oct. 31, 1994, Pub. L. 103–432, title II, §205(b), 108 Stat. 4457.)
 

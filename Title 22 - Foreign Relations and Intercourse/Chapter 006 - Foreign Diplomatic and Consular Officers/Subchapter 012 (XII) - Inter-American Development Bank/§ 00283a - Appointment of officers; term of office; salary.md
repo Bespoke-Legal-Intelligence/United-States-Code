@@ -2,7 +2,7 @@
 
 #### (a) Governor and alternate governor
 
-The President, by and with the advice and consent of the Senate, shall appoint a governor of the Bank and an alternate for the governor. The term of office for the governor and the alternate governor shall be five years, but each shall remain in office until a successor has been appointed.
+The President, by and with the advice and consent of the Senate, shall appoint a governor of the Bank and an alternate for the governor. Theterm of office for the governor and the alternate governor shall be five years, but each shall remain in office until a successor has been appointed.
 
 #### (b) Executive director and alternate executive director
 

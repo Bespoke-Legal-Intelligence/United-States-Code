@@ -30,7 +30,7 @@ A layoff of more than 6 months which, at its outset, was announced to be a layof
 
 #### (d) Determinations with respect to employment loss
 
-For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses arethe result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
+For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses are the result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
 
 (Pub. L. 100–379, §3, Aug. 4, 1988, 102 Stat. 891.)
 
@@ -40,5 +40,5 @@ The Job Training Partnership Act, referred to in subsec. (a)(2), is Pub. L. 97�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2101, 2103, 2104, 2106 of this title.
+This section is referred to in sections 2101, 2103, 2104, 2106 of this title; title 2 section 1315.
 

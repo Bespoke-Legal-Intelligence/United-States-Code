@@ -6,5 +6,5 @@ For the purpose of this subchapter—
 
 &emsp;(2) the term “eligible entity” means a local educational agency, school, or a consortium of schools.
 
-(Pub. L. 89 10, title XI, §11002, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3868.)
+(Pub. L. 89–10, title XI, §11002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3868.)
 

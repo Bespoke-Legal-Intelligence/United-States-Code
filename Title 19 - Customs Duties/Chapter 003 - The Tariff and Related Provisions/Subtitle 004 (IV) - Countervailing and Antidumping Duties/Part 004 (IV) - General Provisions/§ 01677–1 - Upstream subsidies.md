@@ -1,4 +1,4 @@
-### §1677–1 . Upstream subsidies
+### §1677–1. Upstream subsidies
 
 #### (a) “Upstream subsidy” defined
 

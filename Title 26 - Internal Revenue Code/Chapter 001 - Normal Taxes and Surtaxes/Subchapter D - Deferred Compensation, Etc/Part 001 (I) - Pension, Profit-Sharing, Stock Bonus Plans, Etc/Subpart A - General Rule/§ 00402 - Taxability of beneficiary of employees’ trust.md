@@ -1322,7 +1322,7 @@ Nonrecognition of gain or loss.—For purposes of the Internal Revenue Code of 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 55, 62, 72, 101, 219, 401, 403, 406, 407, 408, 411, 414, 415, 457, 501, 691, 871, 911, 3121, 3306, 3401, 3405, 4973, 4980A, 6051, 6652, 7701 of this title; title 5 sections 8334, 8433, 8440; title 29 section 1053; title 42 section 409.
+This section is referred to in sections 55, 62, 72, 101, 219, 401, 403, 406, 407, 408, 411, 414, 415, 457, 501, 691, 871, 911, 3121, 3306, 3401, 3405, 4973, 4980A, 6051, 6652, 7701 of this title; title 4 section 114; title 5 sections 8334, 8433, 8440; title 29 section 1053; title 38 section 4318; title 42 section 409.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@
 | [9206\.](%C2%A7%2009206%20-%20Wind%20resource%20assessment.md) | Wind resource assessment. |
 | [9207\.](%C2%A7%2009207%20-%20Criteria%20for%20program%20selection.md) | Criteria for program selection. |
 | [9208\.](%C2%A7%2009208%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Monitoring of performance; collection and evaluation of data; studies, investigations, and special reports to Congress. |
+| (a) | Monitoring of performance; collection and evaluation of data. |
 | (b) | Liaison. |
 | (c) | Availability of information. |
 | [9209\.](%C2%A7%2009209%20-%20Utilization%20of%20capabilities%20and%20facilities.md) | Utilization of capabilities and facilities. |

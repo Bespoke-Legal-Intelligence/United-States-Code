@@ -42,17 +42,19 @@ For the purpose of subchapters IV, V, VI, VII, VIII, and IX of this chapter—
 
 &emsp;(3) the term “Secretary”, unless otherwise provided, means the Secretary of Education.
 
-(Pub. L. 103 227, §3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103 382, title III, §394(f)(1), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 103–227, §3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103–382, title III, §394(f)(1), Oct. 20, 1994, 108 Stat. 4027.)
 
 #### References in Text
 
-Subchapters I to X, referred to in text, were in the original references to titles I to X of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 131 265. Titles I, III, IV, V, VI, and VIII are classified generally to subchapters I (§5811 et seq.), III (§5881 et seq.), IV (§5911 et seq.), V (§5931 et seq.), VI (§5951), and VIII (§5981 et seq.), respectively, of this chapter. Title II enacted subchapter II (§5821 et seq.) of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title VII enacted subchapter VII (§5961 et seq.) of this chapter and amended section 1221e 1 of this title. Title IX enacted subchapter IX (§6001 et seq.) of this chapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title. Title X enacted subchapter X (§6061 et seq.) of this chapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 6301 of this title and section 11901 of Title 42. For complete classification of titles I to X to the Code, see Tables.
+Subchapters I to X, referred to in text, were in the original references to titles I to X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 131–265. Titles I, III, IV, V, VI, and VIII are classified generally to subchapters I (§5811 et seq.), III (§5881 et seq.), IV (§5911 et seq.), V (§5931 et seq.), VI (§5951), and VIII (§5981 et seq.), respectively, of this chapter. Title II enacted subchapter II (§5821 et seq.) of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title VII enacted subchapter VII (§5961 et seq.) of this chapter and amended section 1221e–1 of this title. Title IX enacted subchapter IX (§6001 et seq.) of this chapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title. Title X enacted subchapter X (§6061 et seq.) of this chapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 6301 of this title and section 11901 of Title 42. For complete classification of titles I to X to the Code, see Tables.
+
+For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in par. (8), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 
-1994—Subsec. (a)(6). Pub. L. 103 382, §394(f)(1)(A)(i), substituted “section 8801” for “section 2891”.
+1994—Subsec. (a)(6). Pub. L. 103–382, §394(f)(1)(A)(i), substituted “section 8801” for “section 2891”.
 
-Subsec. (a)(10). Pub. L. 103 382, §394(f)(1)(A)(ii), substituted “section 1401(a)(17)” for “section 1401”.
+Subsec. (a)(10). Pub. L. 103–382, §394(f)(1)(A)(ii), substituted “section 1401(a)(17)” for “section 1401”.
 
-Subsec. (b)(1). Pub. L. 103 382, §394(f)(1)(B), substituted “section 8801” for “section 2891”.
+Subsec. (b)(1). Pub. L. 103–382, §394(f)(1)(B), substituted “section 8801” for “section 2891”.
 

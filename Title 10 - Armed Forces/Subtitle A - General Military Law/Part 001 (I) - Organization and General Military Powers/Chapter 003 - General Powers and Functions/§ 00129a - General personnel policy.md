@@ -12,3 +12,25 @@ The Secretary of Defense shall use the least costly form of personnel consistent
 
 Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
+#### Prohibition on Use of Funds To Assign Supervisor's Title or Grade Based Upon Number of People Supervised
+
+Pub. L. 104–61, title VIII, §8031, Dec. 1, 1995, 109 Stat. 658, provided that: “None of the funds appropriated during the current fiscal year and hereafter, may be used by the Department of Defense to assign a supervisor's title or grade when the number of people he or she supervises is considered as a basis for this determination: <i>Provided</i>, That savings that result from this provision are represented as such in future budget proposals.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–335, title VIII, §8036, Sept. 30, 1994, 108 Stat. 2626.
+
+Pub. L. 103–139, title VIII, §8040, Nov. 11, 1993, 107 Stat. 1449.
+
+Pub. L. 102–396, title IX, §9053, Oct. 6, 1992, 106 Stat. 1914.
+
+Pub. L. 102–172, title VIII, §8055, Nov. 26, 1991, 105 Stat. 1184.
+
+Pub. L. 101–511, title VIII, §8063, Nov. 5, 1990, 104 Stat. 1888.
+
+Pub. L. 101–165, title IX, §9085, Nov. 21, 1989, 103 Stat. 1147.
+
+Pub. L. 100–463, title VIII, §8079, Oct. 1, 1988, 102 Stat. 2270–30.
+
+Pub. L. 100–202, §101(b) \[title VIII, §8105\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
+

@@ -30,7 +30,7 @@ Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In th
 
 &emsp;(C) “assessment jurisdiction” means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
 
-&emsp;(D) “commercial and industrial property” means property (except transportation property and land used primarily for agriculture or timber growing) devoted to a commercial or industrial use and subject to a property tax levy.
+&emsp;(D) “commercial and industrial property” means property (except transportation property and land used primarily for agriculture or timber growing) devoted to a commercial orindustrial use and subject to a property tax levy.
 
 (2)(A) A State, political subdivision of a State, or authority acting for a State or political subdivision may not do any of the following acts because those acts unreasonably burden and discriminate against interstate commerce:
 
@@ -72,7 +72,7 @@ Pay of Air Carrier Employees.—(1) In this subsection—
 
 &emsp;(A) The State or political subdivision of the State that is the residence of the employee.
 
-&emsp;(B) The State or political subdivision of the State in which the employee's scheduled flight time would have been more than 50 percent ofthe employee's total scheduled flight time for the calendar year had the employee been engaged full time in the performance of regularly assigned duties on the carrier's aircraft.
+&emsp;(B) The State or political subdivision of the State in which the employee's scheduled flight time would have been more than 50 percent of the employee's total scheduled flight time for the calendar year had the employee been engaged full time in the performance of regularly assigned duties on the carrier's aircraft.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1111; Pub. L. 103–305, title I, §112(e), title II, §208, Aug. 23, 1994, 108 Stat. 1576, 1588.)
 

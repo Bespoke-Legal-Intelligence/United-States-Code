@@ -52,7 +52,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261,struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
+1994—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
 
 
 ---

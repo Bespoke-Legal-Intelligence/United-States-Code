@@ -62,7 +62,7 @@ Section 718(c) of Pub. L. 101–510, as amended by Pub. L. 102–484, div. A, ti
 
 “(1)
 
-Time for operation.—Not later than the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Defense shall begin operation of a managed-care delivery and reimbursement model that will continue to utilize the Uniformed Services Treatment Facilities in the military health services system. A participation agreement negotiated between a Uniformed Services Treatment Facility and the Secretary of Defense under this subsection shall not be subject to the Federal Acquisition Regulation issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)).
+Time for operation.—Not later than the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Defense shall begin operation of a managed-care delivery and reimbursement model that will continue to utilize the Uniformed Services Treatment Facilities inthe military health services system. A participation agreement negotiated between a Uniformed Services Treatment Facility and the Secretary of Defense under this subsection shall not be subject to the Federal Acquisition Regulation issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)).
 
 “(2)
 

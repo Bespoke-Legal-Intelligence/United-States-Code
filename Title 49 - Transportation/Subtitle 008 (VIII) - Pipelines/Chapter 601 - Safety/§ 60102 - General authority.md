@@ -38,7 +38,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 &emsp;(C) the Secretary decides will protect a facility adequately against a hazard caused by demolition, excavation, tunneling, or construction.
 
-(2) To the extent a public safety program referred to in paragraph (1) of this subsection isnot available, the Secretary shall prescribe standards requiring an operator to take action the Secretary prescribes to provide services comparable to services that would be available under a public safety program.
+(2) To the extent a public safety program referred to in paragraph (1) of this subsection is not available, the Secretary shall prescribe standards requiring an operator to take action the Secretary prescribes to provide services comparable to services that would be available under a public safety program.
 
 (3) The Secretary may include in the standards prescribed under subsection (a) of this section a requirement that an operator of a hazardous liquid pipeline facility participate in a public safety program meeting the requirements of paragraph (1) of this subsection or maintain and carry out a damage prevention program that provides services comparable to services that would be available under a public safety program.
 
@@ -276,7 +276,7 @@ In this section, the word “Federal” is omitted as surplus.
 
 In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
 
-In subsection (b), before clause (1), the words “Except as provided in section 60103 of this title” are added forclarity. In clause (3), the word “proposed” is omitted as surplus.
+In subsection (b), before clause (1), the words “Except as provided in section 60103 of this title” are added for clarity. In clause (3), the word “proposed” is omitted as surplus.
 
 In subsection (c)(1), before clause (A), the words “Not later than 12 months after November 30, 1979” are omitted as executed. The word “gas” is added because of the restatement. In clause (B), the word “specific” is omitted as surplus. In clause (C), the words “will protect” are substituted for “is being carried out in a manner . . . to assure protection” to eliminate unnecessary words.
 

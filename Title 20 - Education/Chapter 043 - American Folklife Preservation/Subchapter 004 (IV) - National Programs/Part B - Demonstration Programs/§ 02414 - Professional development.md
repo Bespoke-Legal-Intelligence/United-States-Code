@@ -50,7 +50,7 @@
 
 &emsp;(C) such programs are conducted by a school of graduate study in the institution of higher education.
 
-(5) The Secretary, in carrying out this subsection shall apportion leadership development awards to institutions of higher education equitably among the States, taking into account such factors as the State's vocational education enrollments and the need for additional vocational education personnel in the State.
+(5) The Secretary, in carrying out this subsection shall apportion leadership developmentawards to institutions of higher education equitably among the States, taking into account such factors as the State's vocational education enrollments and the need for additional vocational education personnel in the State.
 
 (6) Each individual who receives a leadership development award under this subsection shall receive payments as provided in paragraph (2) for not more than a 3-year period during which such individual is—
 
@@ -68,9 +68,9 @@
 
 &emsp;(B) to take full advantage of the education which has been provided to already certified teachers who are unable to find employment in their fields of training and of individuals employed in industry who have skills and experience in vocational fields; and
 
-&emsp;(C) to encourage more instructors from minority groups and teachers with skills and experience with individuals of limited Englishproficiency to become vocational education teachers.
+&emsp;(C) to encourage more instructors from minority groups and teachers with skills and experience with individuals of limited English proficiency to become vocational education teachers.
 
-(2)<sup>1</sup> The Secretary shall make available fellowships, in accordance with the provisions of this subsection, to individuals (especially minority instructors and instructors with experience in teaching individuals who are economically disadvantaged, individuals with disabilities, students of limited English proficiency, and adult and juvenile criminal offenders) who—
+(2) <sup>1</sup> The Secretary shall make available fellowships, in accordance with the provisions of this subsection, to individuals (especially minority instructors and instructors with experience in teaching individuals who are economically disadvantaged, individuals with disabilities, students of limited English proficiency, and adult and juvenile criminal offenders) who—
 
 &emsp;(A)(i)(I) are employed in vocational education and need an opportunity to improve or maintain technological skills;
 
@@ -84,7 +84,7 @@
 
 &emsp;(C) have made a commitment to work in the field of vocational education upon completion of such program.
 
-(2)<sup>1</sup> The Secretary shall, for a period of not more than 2 years, provide stipends to individuals who are awarded fellowships under this subsection (including such allowances for tuition, nonrefundable fees, subsistence and other expenses for such individuals and the dependents of such individuals) as the Secretary may determine to be consistent with prevailing practices.
+(2) <sup>1</sup> The Secretary shall, for a period of not more than 2 years, provide stipends to individuals who are awarded fellowships under this subsection (including such allowances for tuition, nonrefundable fees, subsistence and other expenses for such individuals and the dependents of such individuals) as the Secretary may determine to be consistent with prevailing practices.
 
 (3) The Secretary shall approve an institution of higher education under this subsection if—
 
@@ -124,7 +124,7 @@
 
 (C) Each individual selected under this paragraph shall, during the period of such individual's internship, be provided with professional supervision by an individual qualified and experienced in the field of vocational education at the agency or institution at which the internship is offered.
 
-(Pub. L. 88 210, title IV, §414, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 813.)
+(Pub. L. 88–210, title IV, §414, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 813.)
 
-<i><sup>1</sup></i><i>So in original. Two pars. (2) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 

@@ -4,9 +4,9 @@ From and after October 1, 1983, not to exceed fifteen positions in the Library o
 
 (Pub. L. 98–51, title II, §202, July 14, 1983, 97 Stat. 276.)
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Oct. 2, 1982, Pub. L. 97–276, §101(e) \[S. 2939, title II, §202\], 96 Stat. 1189.
 

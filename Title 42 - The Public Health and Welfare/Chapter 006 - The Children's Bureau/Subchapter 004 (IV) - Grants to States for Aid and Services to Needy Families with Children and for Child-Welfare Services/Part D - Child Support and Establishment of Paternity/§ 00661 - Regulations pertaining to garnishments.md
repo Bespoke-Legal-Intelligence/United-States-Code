@@ -22,7 +22,7 @@ Regulations promulgated pursuant to this section shall—
 
 #### (c) Priority of processes
 
-In the event that a governmental entity, which is authorized under this section or regulations issued to carry out this section to accept service of process, pursuant to the provisions of subsection (a) of this section, is served withmore than one legal process with respect to the same moneys due or payable to any individual, then such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
+In the event that a governmental entity, which is authorized under this section or regulations issued to carry out this section to accept service of process, pursuant to the provisions of subsection (a) of this section, is served with more than one legal process with respect to the same moneys due or payable to any individual, then such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
 
 (Aug. 14, 1935, ch. 531, title IV, §461, as added May 23, 1977, Pub. L. 95–30, title V, §501(c), 91 Stat. 158.)
 

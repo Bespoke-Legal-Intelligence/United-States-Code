@@ -10,7 +10,7 @@
 
 (d) In this section:
 
-&emsp;(1) The term “financial institution” has the meaning given the term “financial organization” in section 3332(a) of title 31.
+&emsp;(1) The term “financial institution” has the meaning given the term “financial organization” in section 3332(a) <sup>1</sup> of title 31.
 
 &emsp;(2) The term “pay” includes (A) retired pay, and (B) allowances.
 
@@ -19,6 +19,8 @@
 #### References in Text
 
 Chapter 67 of this title, referred to in subsec. (a)(1), was transferred to part II of subtitle E of this title, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
+
+Section 3332 of title 31, referred to in subsec. (d)(1), was amended generally by Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412, and, as so amended,does not contain a definition of “financial organization”.
 
 #### Amendments
 

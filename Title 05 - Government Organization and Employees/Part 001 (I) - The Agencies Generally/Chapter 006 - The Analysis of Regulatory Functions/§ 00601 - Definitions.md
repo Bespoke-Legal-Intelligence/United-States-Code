@@ -44,7 +44,7 @@ Study.—The Office of Technology Assessment shall conduct a study of the effect
 
 &emsp;“(4) the availability and costs of state-of-the-art telecommunications services to small businesses located in rural areas, including voice telephone service, private (not multiparty) telephone service, reliable facsimile document and data transmission, competitive long distance carriers, cellular (mobile) telephone service, multifrequency tone signaling services such as touchtone services, custom-calling services (including three-way calling, call forwarding, and call waiting), voicemail services, and 911 emergency services with automatic number identification;
 
-&emsp;“(5) the availability and costs to rural schools, hospitals, and other public facilities, of sending and receiving audio and visual signals in cases where suchability will enhance the quality of services provided to rural residents and businesses; and
+&emsp;“(5) the availability and costs to rural schools, hospitals, and other public facilities, of sending and receiving audio and visual signals in cases where such ability will enhance the quality of services provided to rural residents and businesses; and
 
 &emsp;“(6) the availability and costs of services enumerated in paragraphs (1) through (5) in urban areas compared to rural areas.
 
@@ -158,7 +158,7 @@ Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to the fundamental 
 
 (b) Federal action limiting the policymaking discretion of the States should be taken only where constitutional authority for the action is clear and certain and the national activity is necessitated by the presence of a problem of national scope. For the purposes of this Order:
 
-(1) It is important to recognize the distinction between problems of national scope (which may justify Federal action) and problems that are merely common to the States (which will not justify Federal action because individual States, acting individually or together, can effectively deal with them).
+(1) It is important to recognize the distinction between problems of national scope (which may justifyFederal action) and problems that are merely common to the States (which will not justify Federal action because individual States, acting individually or together, can effectively deal with them).
 
 (2) Constitutional authority for Federal action is clear and certain only when authority for the action may be found in a specific provision of the Constitution, there is no provision in the Constitution prohibiting Federal action, and the action does not encroach upon authority reserved to the States.
 
@@ -222,7 +222,7 @@ Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitu
 
 (b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of their administrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
 
-(c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or inotherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
+(c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
 Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) “Policies that have takings implications” refers to Federal regulations, proposed Federal regulations, proposed Federal legislation, comments on proposed Federal legislation, or other Federal policy statements that, if implemented or enacted, could effect a taking, such as rules and regulations that propose or implement licensing, permitting, or other condition requirements or limitations on private property use, or that require dedications or exactions from owners of private property. “Policies that have takings implications” does not include:
 
@@ -268,7 +268,7 @@ Sec. 3. <i>General Principles</i>. In formulating or implementing policies that 
 
 (d) While normal governmental processes do not ordinarily effect takings, undue delays in decision-making during which private property use if interfered with carry a risk of being held to be takings. Additionally, a delay in processing may increase significantly the size of compensation due if a taking is later found to have occurred.
 
-(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for the action contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
+(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for theaction contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
 
 Sec. 4. <i>Department and Agency Action</i>. In addition to the fundamental principles set forth in Section 3, Executive departments and agencies shall adhere, to the extent permitted by law, to the following criteria when implementing policies that have takings implications:
 
@@ -310,52 +310,6 @@ Sec. 6. <i>Judicial Review</i>. This Order is intended only to improve the inter
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12803. Infrastructure Privatization
-
-Ex. Ord. No. 12803, Apr. 30, 1992, 57 F.R. 19063, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure that the United States achieves the most beneficial economic use of its resources, it is hereby ordered as follows:
-
-Section 1. <i>Definitions</i>. For purposes of this order:
-
-(a) “Privatization” means the disposition or transfer of an infrastructure asset, such as by sale or by long-term lease, from a State or local government to a private party.
-
-(b) “Infrastructure asset” means any asset financed in whole or in part by the Federal Government and needed for the functioning of the economy. Examples of such assets include, but are not limited to: roads, tunnels, bridges, electricity supply facilities, mass transit, rail transportation, airports, ports, waterways, water supply facilities, recycling and wastewater treatment facilities, solid waste disposal facilities, housing, schools, prisons, and hospitals.
-
-(c) “Originally authorized purposes” means the general objectives of the original grant program; however, the term is not intended to include every condition required for a grantee to have obtained the original grant.
-
-(d) “Transfer price” means: (i) the amount paid or to be paid by a private party for an infrastructure asset, if the asset is transferred as a result of competitive bidding; or (ii) the appraised value of an infrastructure asset, as determined by the head of the executive department or agency and the Director of the Office of Management and Budget, if the asset is not transferred as a result of competitive bidding.
-
-(e) “State and local governments” means the government of any State of the United States, the District of Columbia, any commonwealth, territory, or possession of the United States, and any county, municipality, city, town, township, local public authority, school district, special district, intrastate district, regional or interstate governmental entity, council of governments, and any agency or instrumentality of a local government, and any federally recognized Indian Tribe.
-
-Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[set out above\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
-
-(b) Private enterprise and competitively driven improvements are the foundation of our Nation's economy and economic growth. Federal financing of infrastructure assets should not act as a barrier to the achievement of economic efficiencies through additional private market financing or competitive practices, or both.
-
-(c) State and local governments are in the best position to assess and respond to local needs. State and local governments should, subject to assuring continued compliance with Federal requirements that public use be on reasonable and nondiscriminatory terms, have maximum possible freedom to make decisions concerning the maintenance and disposition of their federally financed infrastructure assets.
-
-(d) User fees are generally more efficient than general taxes as a means to support infrastructure assets. Privatization transactions should be structured so as not to result in unreasonable increases in charges to users.
-
-Sec. 3. <i>Privatization Initiative</i>. To the extent permitted by law, the head of each executive department and agency shall undertake the following actions:
-
-(a) Review those procedures affecting the management and disposition of federally financed infrastructure assets owned by State and local governments and modify those procedures to encourage appropriate privatization of such assets consistent with this order;
-
-(b) Assist State and local governments in their efforts to advance the objectives of this order; and
-
-(c) Approve State and local governments’ requests to privatize infrastructure assets, consistent with the criteria in section 4 of this order and, where necessary, grant exceptions to the disposition requirements of the “Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments” common rule, or other relevant rules or regulations, for infrastructure assets; provided that the transfer price shall be distributed, as paid, in the following manner: (i) State and local governments shall first recoup in full the unadjusted dollar amount of their portion of total project costs (including any transaction and fix-up costs they incur) associated with the infrastructure asset involved; (ii) if proceeds remain, then the Federal Government shall recoup in full the amount of Federal grant awards associated with the infrastructure asset, less the applicable share of accumulated depreciation on such asset (calculated using the Internal Revenue Service accelerated depreciation schedule for the categories of assets in question); and (iii) finally, the State and local governments shall keep any remaining proceeds.
-
-Sec. 4. <i>Criteria</i>. To the extent permitted by law, the head of an executive department or agency shall approve a request in accordance with section 3(c) of this order only if the grantee: (a) Agrees to use the proceeds described in section 3(c)(iii) of this order only for investment in additional infrastructure assets (after public notice of the proposed investment), or for debt or tax reduction; and
-
-(b) Demonstrates that a market mechanism, legally enforceable agreement, or regulatory mechanism will ensure that: (i) the infrastructure asset or assets will continue to be used for their originally authorized purposes, as long as needed for those purposes, even if the purchaser becomes insolvent or is otherwise hindered from fulfilling the originally authorized purposes; and (ii) user charges will be consistent with any current Federal conditions that protect users and the public by limiting the charges.
-
-Sec. 5. <i>Government-wide Coordination and Review</i>. In implementing Executive Order Nos. 12291 \[formerly set out above\] and 12498 \[formerly set out above\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the executive department and agencies are consistent with the principles, criteria, and requirements of this order. The Office of Management and Budget shall review the results of implementing this order and report thereon to the President 1 year after the date of this order.
-
-Sec. 6. <i>Preservation of Existing Authority</i>. Nothing in this order is in any way intended to limit any existing authority of the heads of executive departments and agencies to approve privatization proposals that are otherwise consistent with law.
-
-Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Ex. Ord. No. 12861. Elimination of One-Half of Executive Branch Internal Regulations
 
 Ex. Ord. No. 12861, Sept. 11, 1993, 58 F.R. 48255, provided:
@@ -376,7 +330,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, provided:
 
-The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies that recognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
+The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies thatrecognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
 
 With this Executive order, the Federal Government begins a program to reform and make more efficient the regulatory process. The objectives of this Executive order are to enhance planning and coordination with respect to both new and existing regulations; to reaffirm the primacy of Federal agencies in the regulatory decision-making process; to restore the integrity and legitimacy of regulatory review and oversight; and to make the process more accessible and open to the public. In pursuing these objectives, the regulatory process shall be conducted so as to meet applicable statutory requirements and with due regard to the discretion that has been entrusted to the Federal agencies.
 
@@ -418,7 +372,7 @@ Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process
 
 (b) <i>The Office of Management and Budget</i>. Coordinated review of agency rulemaking is necessary to ensure that regulations are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order, and that decisions made by one agency do not conflict with the policies or actions taken or planned by another agency. The Office of Management and Budget (OMB) shall carry out that review function. Within OMB, the Office of Information and Regulatory Affairs (OIRA) is the repository of expertise concerning regulatory issues, including methodologies and procedures that affect more than one agency, this Executive order, and the President's regulatory policies. To the extent permitted by law, OMB shall provide guidance to agencies and assist the President, the Vice President, and other regulatory policy advisors to the President in regulatory planning and shall be the entity that reviews individual regulations, as provided by this Executive order.
 
-(c) <i>The Vice President</i>. The Vice President is the principal advisor to the President on, and shall coordinate the development and presentation of recommendations concerning, regulatory policy, planning, and review, as set forth in this Executive order. In fulfilling their responsibilities under this Executive order, the President and the Vice President shall be assisted by the regulatory policy advisors within the Executive Office of the President and by such agency officials and personnel as the President and the Vice President may, from time to time, consult.
+(c) <i>The Vice President</i>. The Vice President is the principal advisor to the President on, and shall coordinate the development and presentation of recommendations concerning, regulatory policy, planning, and review, as set forth in this Executive order. In fulfilling their responsibilities under this Executive order, the President and the Vice President shall be assisted by the regulatory policy advisors within the Executive Office ofthe President and by such agency officials and personnel as the President and the Vice President may, from time to time, consult.
 
 Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
@@ -438,7 +392,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
 (4) Any other category of regulations exempted by the Administrator of OIRA.
 
-(e) “Regulatory action” means any substantive action by an agency (normally published in the FederalRegister) that promulgates or is expected to lead to the promulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking.
+(e) “Regulatory action” means any substantive action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to the promulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking.
 
 (f) “Significant regulatory action” means any regulatory action that is likely to result in a rule that may:
 
@@ -480,7 +434,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (6) The Vice President, with the Advisors’ assistance, may consult with the heads of agencies with respect to their Plans and, in appropriate instances, request further consideration or inter-agency coordination.
 
-(7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
+(7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspectof any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
 
 (d) <i>Regulatory Working Group</i>. Within 30 days of the date of this Executive order, the Administrator of OIRA shall convene a Regulatory Working Group (“Working Group”), which shall consist of representatives of the heads of each agency that the Administrator determines to have significant domestic regulatory responsibility, the Advisors, and the Vice President. The Administrator of OIRA shall chair the Working Group and shall periodically advise the Vice President on the activities of the Working Group. The Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues (including, among others (1) the development of innovative regulatory techniques, (2) the methods, efficacy, and utility of comparative risk assessment in regulatory decision-making, and (3) the development of short forms and other streamlined regulatory approaches for small businesses and other entities). The Working Group shall meet at least quarterly and may meet as a whole or in subgroups of agencies with an interest in particular issues or subject areas. To inform its discussions, the Working Group may commission analytical studies and reports by OIRA, the Administrative Conference of the United States, or any other agency.
 
@@ -566,7 +520,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 Sec. 7. <i>Resolution of Conflicts</i>. To the extent permitted by law, disagreements or conflicts between or among agency heads or between OMB and any agency that cannot be resolved by the Administrator of OIRA shall be resolved by the President, or by the Vice President acting at the request of the President, with the relevant agency head (and, as appropriate, other interested government officials). Vice Presidential and Presidential consideration of such disagreements may be initiated only by the Director, by the head of the issuing agency, or by the head of an agency that has a significant interest in the regulatory action at issue. Such review will not be undertaken at the request of other persons, entities, or their agents.
 
-Resolution of such conflicts shall be informed by recommendations developed by the Vice President, after consultation with the Advisors (and other executive branch officials or personnel whose responsibilities to the President include the subject matter at issue). The development of these recommendations shall be concluded within 60 days after review has been requested.
+Resolution of such conflicts shall be informed by recommendations developed by the Vice President, afterconsultation with the Advisors (and other executive branch officials or personnel whose responsibilities to the President include the subject matter at issue). The development of these recommendations shall be concluded within 60 days after review has been requested.
 
 During the Vice Presidential and Presidential review period, communications with any person not employed by the Federal Government relating to the substance of the regulatory action under review and directed to the Advisors or their staffs or to the staff of the Vice President shall be in writing and shall be forwarded by the recipient to the affected agency(ies) for inclusion in the public docket(s). When the communication is not in writing, such Advisors or staff members shall inform the outside party that the matter is under review and that any comments should be submitted in writing.
 
@@ -614,9 +568,95 @@ Sec. 5. <i>Scope</i>. (a) Executive agency means any authority of the United Sta
 
 (b) Independent agencies are requested to comply with the provisions of this order.
 
-Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 7. <i>Effective Date</i>. This order shall be effective 90 days after the date of this order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Regulatory Reform—Waiver of Penalties and Reduction of Reports
+
+Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
+
+Memorandum for
+
+The Secretary of State
+
+The Secretary of the Treasury
+
+The Secretary of Defense
+
+The Attorney General
+
+The Secretary of the Interior
+
+The Secretary of Agriculture
+
+The Secretary of Commerce
+
+The Secretary of Labor
+
+The Secretary of Health and Human Services
+
+The Secretary of Housing and Urban Development
+
+The Secretary of Transportation
+
+The Secretary of Energy
+
+The Secretary of Education
+
+The Secretary of Veterans Affairs
+
+The Administrator, Environmental Protection Agency
+
+The Administrator, Small Business Administration
+
+The Secretary of the Army
+
+The Secretary of the Navy
+
+The Secretary of the Air Force
+
+The Director, Federal Emergency Management Agency
+
+The Administrator, National Aeronautics and Space Administration
+
+The Director, National Science Foundation
+
+The Acting Archivist of the United States
+
+The Administrator of General Services
+
+The Chair, Railroad Retirement Board
+
+The Chairperson, Architectural and Transportation Barriers Compliance Board
+
+The Executive Director, Pension Benefit Guaranty Corporation
+
+On March 16, I announced that the Administration would implement new policies to give compliance officials more flexibility in dealing with small business and to cut back on paperwork. These Governmentwide policies, as well as the specific agency actions I announced, are part of this Administration's continuing commitment to sensible regulatory reform. With your help and cooperation, we hope to move the Government toward a more flexible, effective, and user friendly approach to regulation.
+
+A. <i>Actions</i>: This memorandum directs the designated department and agency heads to implement the policies set forth below.
+
+1\. <i>Authority to Waive Penalties</i>. (a) To the extent permitted by law, each agency shall use its discretion to modify the penalties for small businesses in the following situations. Agencies shall exercise their enforcement discretion to waive the imposition of all or a portion of a penalty when the violation is corrected within a time period appropriate to the violation in question. For those violations that may take longer to correct than the period set by the agency, the agency shall use its enforcement discretion to waive up to 100 percent of the financial penalties if the amounts waived are used to bring the entity into compliance. The provisions in paragraph 1(a) of this memorandum shall apply only where there has been a good faith effort to comply with applicable regulations and the violation does not involve criminal wrongdoing or significant threat to health, safety, or the environment.
+
+(b) Each agency shall, by June 15, 1995, submit a plan to the Director of the Office of Management and Budget (“Director”) describing the actions it will take to implement the policies in paragraph 1(a) of this memorandum. The plan shall provide that the agency will implement the policies described in paragraph 1(a) of this memorandum on or before July 14, 1995. Plans should include information on how notification will be given to frontline workers and small businesses.
+
+2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule or by policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
+
+(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take to implement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
+
+B. <i>Application and Scope</i>: 1. The Director may issue further guidance as necessary to carry out the purposes of this memorandum.
+
+2\. This memorandum does not apply to matters related to law enforcement, national security, or foreign affairs, the importation or exportation of prohibited or restricted items, Government taxes, duties, fees, revenues, or receipts; nor does it apply to agencies (or components thereof) whose principal purpose is the collection, analysis, and dissemination of statistical information.
+
+3\. This memorandum is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
+
+4\. The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 658; title 44 section 3506.
 

@@ -74,7 +74,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;&emsp;(B) actions which significantly degrade national parks or similar protected areas which contain tropical forests or introduce exotic plants or animals into such areas.
 
-&emsp;(15) Deny assistance under this part for the following activities unless an environmental assessment indicates that the proposed activity will contribute significantly and directlyto improving the livelihood of the rural poor and will be conducted in an environmentally sound manner which supports sustainable development:
+&emsp;(15) Deny assistance under this part for the following activities unless an environmental assessment indicates that the proposed activity will contribute significantly and directly to improving the livelihood of the rural poor and will be conducted in an environmentally sound manner which supports sustainable development:
 
 &emsp;&emsp;(A) Activities which would result in the conversion of forest lands to the rearing of livestock.
 

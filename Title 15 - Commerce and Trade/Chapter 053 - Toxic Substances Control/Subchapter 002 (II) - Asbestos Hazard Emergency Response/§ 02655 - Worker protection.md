@@ -36,11 +36,11 @@ For purposes of this section, the term “emergency repair” means a repair in 
 
 &emsp;(2) the structural integrity of the building.
 
-(Pub. L. 94 469, title II, §215, as added Pub. L. 100 368, §4(a), July 18, 1988, 102 Stat. 832.)
+(Pub. L. 94–469, title II, §215, as added Pub. L. 100–368, §4(a), July 18, 1988, 102 Stat. 832.)
 
 #### Effective Date
 
-Section 4(c) of Pub. L. 100 368 provided that: “Section 215 of the Toxic Substances Control Act \[this section\], as added by subsection (a), shall take effect on October 12, 1988.”
+Section 4(c) of Pub. L. 100–368 provided that: “Section 215 of the Toxic Substances Control Act \[this section\], as added by subsection (a), shall take effect on October 12, 1988.”
 
 #### Section Referred to in Other Sections
 

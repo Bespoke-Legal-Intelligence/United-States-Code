@@ -30,7 +30,7 @@ The Secretary shall establish criteria for the review and approval of applicatio
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 94–437, title II, §216, as added Pub. L. 102–573, title II, §212, Oct. 29, 1992, 106 Stat. 4554.)
 

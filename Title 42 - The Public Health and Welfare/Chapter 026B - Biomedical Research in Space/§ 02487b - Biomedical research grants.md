@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Administrator and the Director of the National Institutes of Health shall establish a joint program of biomedical research grants in areas described in section 2487a(a) of this title, where such research requires access to a microgravity environment. Such program shall be consistent with actions taken by the joint working group under section 2487a of this title.
+The Administrator and the Director of the National Institutes of Health shall establish a jointprogram of biomedical research grants in areas described in section 2487a(a) of this title, where such research requires access to a microgravity environment. Such program shall be consistent with actions taken by the joint working group under section 2487a of this title.
 
 #### (b) Research opportunity announcements
 

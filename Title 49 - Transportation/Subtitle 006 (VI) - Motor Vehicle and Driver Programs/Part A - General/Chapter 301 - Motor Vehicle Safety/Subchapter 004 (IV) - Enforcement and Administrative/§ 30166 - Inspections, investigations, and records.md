@@ -34,7 +34,7 @@ Matters That Can Be Inspected and Impoundment.—In carrying out this chapter, a
 
 (d)
 
-Reasonable Compensation.—When a motor vehicle (except a vehicle subject to subchapter II of chapter 105 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
+Reasonable Compensation.—When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
 
 (e)
 
@@ -70,7 +70,7 @@ Cooperation of Secretary.—The Secretary of Transportation may advise, assist, 
 
 Providing Information.—The Secretary of Transportation shall provide the Attorney General and, when appropriate, the Secretary of the Treasury, information obtained that indicates a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -174,7 +174,7 @@ Sept. 9, 1966, Pub. L. 89–563, §107 (related to inspecting and testing), 80 S
 
 15:1401(a)(1) (2d sentence).
 
-In this section, the words “regulation prescribed or order issued under this chapter” are substituted for “rules, regulations, or orders issued thereunder” and “regulations and orders promulgated thereunder” forconsistency and because “rule” and “regulation” are synonymous. The text of 15:1397(a)(1)(B) and (E) (as 1397(a)(1)(B), (E) relates to 15:1401) is omitted as surplus.
+In this section, the words “regulation prescribed or order issued under this chapter” are substituted for “rules, regulations, or orders issued thereunder” and “regulations and orders promulgated thereunder” for consistency and because “rule” and “regulation” are synonymous. The text of 15:1397(a)(1)(B) and (E) (as 1397(a)(1)(B), (E) relates to 15:1401) is omitted as surplus.
 
 In subsection (a), the words “As used” are omitted as surplus. The word “use” is omitted as being included in “operation”.
 
@@ -208,7 +208,13 @@ This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1
 
 #### Amendments
 
+1995—Subsec. (d). Pub. L. 104–88, which directed amendment of section 30106(d) of this title by substituting “subchapter I of chapter 135” for “subchapter II of chapter 105”, was executed to subsec. (d) of this section to reflect the probable intent of Congress. No section 30106 of this title has been enacted.
+
 1994—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Effective Date of 1994 Amendment
 

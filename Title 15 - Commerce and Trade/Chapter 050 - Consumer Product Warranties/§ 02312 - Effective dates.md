@@ -12,5 +12,5 @@ Section 2302(a) of this title shall take effect 6 months after the final publica
 
 The Commission shall promulgate rules for initial implementation of this chapter as soon as possible after January 4, 1975, but in no event later than one year after such date.
 
-(Pub. L. 93 637, title I, §112, Jan. 4, 1975, 88 Stat. 2192.)
+(Pub. L. 93–637, title I, §112, Jan. 4, 1975, 88 Stat. 2192.)
 

@@ -46,7 +46,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (3) Compliance procedures
 
-&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure andDispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
+&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this sectionto a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
 
 #### (4) Subscriber disconnection prohibited
 
@@ -108,7 +108,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (1) Common carriers not liable for transmission or billing
 
-&emsp;No common carrier shall be liable for a criminal or civil sanction or penalty solely because the carrier provided transmission orbilling and collection for a pay-per-call service unless the carrier knew or reasonably should have known that such service was provided in violation of a provision of, or regulation prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or any other Federal law. This paragraph shall not prevent the Commission from imposing a sanction or penalty on a common carrier for a violation by that carrier of a regulation prescribed under this section.
+&emsp;No common carrier shall be liable for a criminal or civil sanction or penalty solely because the carrier provided transmission or billing and collection for a pay-per-call service unless the carrier knew or reasonably should have known that such service was provided in violation of a provision of, or regulation prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or any other Federal law. This paragraph shall not prevent the Commission from imposing a sanction or penalty on a common carrier for a violation by that carrier of a regulation prescribed under this section.
 
 #### (2) Civil liability
 

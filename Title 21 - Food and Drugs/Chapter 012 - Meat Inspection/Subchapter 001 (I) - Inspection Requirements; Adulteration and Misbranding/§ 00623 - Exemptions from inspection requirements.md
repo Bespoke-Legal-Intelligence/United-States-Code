@@ -6,11 +6,11 @@ The provisions of this subchapter requiring inspection of the slaughter of anima
 
 #### (b) Territorial exemption; refusal, withdrawal, or modification
 
-The Secretary may, under such sanitary conditions as he may by regulations prescribe, exempt from the inspection requirements of this subchapter the slaughter of animals, and the preparation of carcasses, parts thereof, meat and meat food products, by any person, firm, or corporation in any Territory not organized with a legislative body solely for distribution within such Territory when the Secretary determines that it is impracticable to provide such inspection within the limits of funds appropriated for administration of this chapter and that such exemption will otherwise facilitate enforcement ofthis chapter. The Secretary may refuse, withdraw, or modify any exemption under this subsection in his discretion whenever he determines such action is necessary to effectuate the purposes of this chapter.
+The Secretary may, under such sanitary conditions as he may by regulations prescribe, exempt from the inspection requirements of this subchapter the slaughter of animals, and the preparation of carcasses, parts thereof, meat and meat food products, by any person, firm, or corporation in any Territory not organized with a legislative body solely for distribution within such Territory when the Secretary determines that it is impracticable to provide such inspection within the limits of funds appropriated for administration of this chapter and that such exemption will otherwise facilitate enforcement of this chapter. The Secretary may refuse, withdraw, or modify any exemption under this subsection in his discretion whenever he determines such action is necessary to effectuate the purposes of this chapter.
 
 #### (c) Pizzas containing meat food products
 
-(1) Under such terms and conditions as the Secretary shall prescribe through rules and regulations issued under section 624 of this title that may be necessary to ensure food safety and protect public health such as special handling procedures, the Secretary shall exempt pizzas containing a meat food product from the inspection requirements of this chapter if—
+(1) Under such terms and conditions as the Secretary shall prescribe through rules and regulations issued under section 624 of this title that may be necessary to ensure food safety and protect public health such as special handling procedures, the Secretary shall exempt pizzascontaining a meat food product from the inspection requirements of this chapter if—
 
 &emsp;(A) the meat food product components of the pizzas have been prepared, inspected, and passed in a cured or cooked form as ready-to-eat in compliance with the requirements of this chapter; and
 

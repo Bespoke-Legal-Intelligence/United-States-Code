@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Director is authorized, in add
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 278a <sup>1</sup> of title 40, and any such real property or interests therein which are outside the United States may be acquired without regard to section 255 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 278a <sup>1</sup> of title 40, and any such real property or interests therein which are outside the United States may be acquired without regard to section 255 of title 40 if the sufficiency of the title to such real property or interests therein is approvedby the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -16,7 +16,7 @@ In carrying out the purposes of this chapter, the Director is authorized, in add
 
 &emsp;(7) notwithstanding any other provision of law, to carry out projects involving security construction and related improvements for Agency facilities not physically located together with Department of State facilities abroad.
 
-(Jan. 27, 1948, ch. 36, title VIII, §801, 62 Stat. 11; Aug. 14, 1961, Pub. L. 87–139, §11, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§7(a)(1), 8(b), 9(a)(3), (4), 42F.R. 62461, 91 Stat. 1637–1639; Aug. 15, 1979, Pub. L. 96–60, title II, §§203(b)(1), (e), 204(a), 93 Stat. 398–400; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291; Nov. 22, 1983, Pub. L. 98–164, title II, §217, 97 Stat. 1036; Dec. 22, 1987, Pub. L. 100–204, title II, §205, 101 Stat. 1374; Oct. 28, 1991, Pub. L. 102–138, title II, §203, 105 Stat. 692; Apr. 30, 1994, Pub. L. 103–236, title II, §222, 108 Stat. 421.)
+(Jan. 27, 1948, ch. 36, title VIII, §801, 62 Stat. 11; Aug. 14, 1961, Pub. L. 87–139, §11, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§7(a)(1), 8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Aug. 15, 1979, Pub. L. 96–60, title II, §§203(b)(1), (e), 204(a), 93 Stat. 398–400; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291; Nov. 22, 1983, Pub. L. 98–164, title II, §217, 97 Stat. 1036; Dec. 22, 1987, Pub. L. 100–204, title II, §205, 101 Stat. 1374; Oct. 28, 1991, Pub. L. 102–138, title II, §203, 105 Stat. 692; Apr. 30, 1994, Pub. L. 103–236, title II, §222, 108 Stat. 421.)
 
 #### References in Text
 
@@ -90,7 +90,7 @@ Exception.—
 
 &emsp;&emsp;“(A) precluded by the terms of an international agreement with the host foreign country;
 
-&emsp;&emsp;“(B) a foreign bidder can establish that he is a national of a country whose government permitsUnited States contractors and suppliers the opportunity to bid on a competitive and nondiscriminatory basis with its national contractors and suppliers, on procurement and projects related to the construction, modernization, upgrading, or expansion of—
+&emsp;&emsp;“(B) a foreign bidder can establish that he is a national of a country whose government permits United States contractors and suppliers the opportunity to bid on a competitive and nondiscriminatory basis with its national contractors and suppliers, on procurement and projects related to the construction, modernization, upgrading, or expansion of—
 
 &emsp;&emsp;&emsp;“(i) its national public radio and television sector, or
 

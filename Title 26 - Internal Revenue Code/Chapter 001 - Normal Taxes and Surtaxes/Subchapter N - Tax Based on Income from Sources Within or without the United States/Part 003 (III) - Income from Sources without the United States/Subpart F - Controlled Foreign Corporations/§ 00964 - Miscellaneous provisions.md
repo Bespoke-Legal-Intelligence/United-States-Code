@@ -46,7 +46,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 91–172, title IV, §442(b)(1), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §1065(b), title XIX, §§1901(b)(32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1654, 1800, 1834; Pub. L. 97–34, title II, §206(c), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §288(b)(2), Sept. 3, 1982, 96 Stat. 571; Pub.L. 100–647, title VI, §6129(a), Nov. 10, 1988, 102 Stat. 3716.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 91–172, title IV, §442(b)(1), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §1065(b), title XIX, §§1901(b)(32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1654, 1800, 1834; Pub. L. 97–34, title II, §206(c), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §288(b)(2), Sept. 3, 1982, 96 Stat. 571; Pub. L. 100–647, title VI, §6129(a), Nov. 10, 1988, 102 Stat. 3716.)
 
 #### References in Text
 

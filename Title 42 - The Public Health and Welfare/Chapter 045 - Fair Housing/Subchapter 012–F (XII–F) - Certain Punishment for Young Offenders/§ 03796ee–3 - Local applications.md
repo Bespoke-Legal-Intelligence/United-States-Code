@@ -20,7 +20,7 @@
 
 #### (b) Distribution to units of local government
 
-A State that receives funds under section 3796ee of this title in a fiscal year shall make such funds available to units of local government with an application that has been submitted and approved by the State within 45 days after the Attorney General has approved the application submitted by the State and has made funds available to the State. The Attorney General may waive the 45-day requirement in thissection upon a finding that the State is unable to satisfy such requirement under State statutes.
+A State that receives funds under section 3796ee of this title in a fiscal year shall make such funds available to units of local government with an application that has been submitted and approved by the State within 45 days after the Attorney General has approved the application submitted by the State and has made funds available to the State. The Attorney General may waive the 45-day requirement in this section upon a finding that the State is unable to satisfy such requirement under State statutes.
 
 (Pub. L. 90–351, title I, §1804, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820.)
 

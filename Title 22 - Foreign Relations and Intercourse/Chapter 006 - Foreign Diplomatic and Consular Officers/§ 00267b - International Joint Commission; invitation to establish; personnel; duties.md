@@ -6,7 +6,7 @@ The President of the United States is requested to invite the Government of Grea
 
 #### Codification
 
-Provisions of this section relating to the payment of salaries and expenses of the International Joint Commission were omitted. For provisions relating to the payment of salaries of the United States members of the International Joint Commission, see section 268 of this title.
+Provisions of this section relating to the payment of salaries and expenses of the International Joint Commission were omitted. For provisions relating to thepayment of salaries of the United States members of the International Joint Commission, see section 268 of this title.
 
 #### Establishment of Commission
 
@@ -14,7 +14,7 @@ The International Joint Commission was organized in 1911 pursuant to article VII
 
 #### Water Resources Planning
 
-Jurisdiction, powers, or prerogatives of the International Joint Commission, United States and Canada,unaffected by Water Resources Planning Act, see section 1962–1 of Title 42, The Public Health and Welfare.
+Jurisdiction, powers, or prerogatives of the International Joint Commission, United States and Canada, unaffected by Water Resources Planning Act, see section 1962–1 of Title 42, The Public Health and Welfare.
 
 #### Passamaquoddy Tidal Power Project
 

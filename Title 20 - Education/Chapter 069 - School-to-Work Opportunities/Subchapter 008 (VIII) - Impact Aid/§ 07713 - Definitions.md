@@ -66,7 +66,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) any improvement on Federal property as otherwise described in this paragraph; and
 
-&emsp;&emsp;&emsp;(iii) real property that, immediately before its sale or transfer to a non-Federal party, was owned by the United States and otherwise qualified as Federal property described in this paragraph, but only for oneyear beyond the end of the fiscal year of such sale or transfer.
+&emsp;&emsp;&emsp;(iii) real property that, immediately before its sale or transfer to a non-Federal party, was owned by the United States and otherwise qualified as Federal property described in this paragraph, but only for one year beyond the end of the fiscal year of such sale or transfer.
 
 #### (D) Certain Postal Service property and pipelines and utility lines
 
@@ -160,13 +160,13 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) equipment, machinery, and utilities necessary or appropriate for school purposes.
 
-(Pub. L. 89 10, title VIII, §8013, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3769.)
+(Pub. L. 89–10, title VIII, §8013, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3769.)
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92 203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, seeShort Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93 383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
 

@@ -28,5 +28,5 @@ In awarding grants under this subchapter, the Secretary shall give priority to a
 
 &emsp;(2) a high level of youth participation in such projects or activities.
 
-(Pub. L. 103 227, title VII, §703, Mar. 31, 1994, 108 Stat. 205.)
+(Pub. L. 103–227, title VII, §703, Mar. 31, 1994, 108 Stat. 205.)
 

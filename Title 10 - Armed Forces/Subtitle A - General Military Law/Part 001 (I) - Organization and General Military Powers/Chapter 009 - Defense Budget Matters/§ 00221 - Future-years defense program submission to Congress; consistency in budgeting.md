@@ -1,4 +1,4 @@
-### §221 . Future-years defense program: submission to Congress; consistency in budgeting
+### §221. Future-years defense program: submission to Congress; consistency in budgeting
 
 (a) The Secretary of Defense shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
 
@@ -30,7 +30,7 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “mult
 
 #### Program Elements for Ballistic Missile Defense Organization
 
-Pub. L. 103–337, div. A, title II, §235, Oct. 5, 1994, 108 Stat. 2701, provided that: “In the budget justificationmaterials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 1995 (as submitted in the budget of the President), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
+Pub. L. 103–337, div. A, title II, §235, Oct. 5, 1994, 108 Stat. 2701, provided that: “In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 1995 (as submitted in the budget of the President), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
 
 &emsp;“(1) National Missile Defense.
 
@@ -60,9 +60,11 @@ Pub. L. 103–337, div. A, title II, §235, Oct. 5, 1994, 108 Stat. 2701, provid
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 103–335, title VIII, §8069, Sept. 30, 1994, 108 Stat. 2635, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense Agencies.”
+Pub. L. 104–61, title VIII, §8058, Dec. 1, 1995, 109 Stat. 663, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense Agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–335, title VIII, §8069, Sept. 30, 1994, 108 Stat. 2635.
 
 Pub. L. 103–139, title VIII, §8082, Nov. 11, 1993, 107 Stat. 1458.
 
@@ -74,7 +76,7 @@ Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by S
 
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 
-Section 1404 of Pub. L. 101–510, directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
+Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@
 | (h) | Confidence in the Authority. |
 | [831b.](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%E2%80%99%20compensation%20provisions.md) | Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions. |
 | 831b–1. | Acceptance of services of volunteers. |
-| 831c. | Corporate powers generally; eminent domain; construction of dams, transmission lines, etc. |
+| [831c.](%C2%A7%2000831c%20-%20Corporate%20powers%20generally%3B%20eminent%20domain%3B%20construction%20of%20dams%2C%20transmission%20lines%2C%20etc.md) | Corporate powers generally; eminent domain; construction of dams, transmission lines, etc. |
 | 831c–1. | Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacements, etc. |
 | (a) | Structures on Tennessee River or tributaries. |
 | (b) | Suit on contracts. |
@@ -30,14 +30,14 @@
 | (f) | Qualifications and training. |
 | (g) | Relation to other law. |
 | (h) | Relationship with Attorney General. |
-| 831d. | Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power. |
-| 831e. | Officers and employees; nonpolitical appointment; removal for violation. |
-| 831f. | Control of plants and property vested in Corporation; transfer of other property to Corporation. |
-| 831g. | Principal office of Corporation; books; directors’ oath. |
+| [831d.](%C2%A7%2000831d%20-%20Directors%3B%20maintenance%20and%20operation%20of%20plant%20for%20production%2C%20sale%2C%20and%20distribution%20of%20fertilizer%20and%20power.md) | Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power. |
+| [831e.](%C2%A7%2000831e%20-%20Officers%20and%20employees%3B%20nonpolitical%20appointment%3B%20removal%20for%20violation.md) | Officers and employees; nonpolitical appointment; removal for violation. |
+| [831f.](%C2%A7%2000831f%20-%20Control%20of%20plants%20and%20property%20vested%20in%20Corporation%3B%20transfer%20of%20other%20property%20to%20Corporation.md) | Control of plants and property vested in Corporation; transfer of other property to Corporation. |
+| [831g.](%C2%A7%2000831g%20-%20Principal%20office%20of%20Corporation%3B%20books%3B%20directors%E2%80%99%20oath.md) | Principal office of Corporation; books; directors’ oath. |
 | (a) | Location. |
 | (b) | Account books. |
 | (c) | Oath of office. |
-| 831h. | Annual financial statement; purchases and contracts; audit by Comptroller General. |
+| [831h.](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md) | Annual financial statement; purchases and contracts; audit by Comptroller General. |
 | (a) | Financial statement and report. |
 | (b) | Bids; audits; settlements; accounts; contracts. |
 | 831h–1. | Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity. |

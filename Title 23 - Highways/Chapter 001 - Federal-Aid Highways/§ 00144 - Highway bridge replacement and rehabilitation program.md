@@ -14,7 +14,7 @@ Inventory of indian reservation and park bridges.—As part of the activities ca
 
 (d) Whenever any State or States make application to the Secretary for assistance in replacing or rehabilitating a highway bridge which the priority system established under subsection (b) and (c) of this section shows to be eligible, the Secretary may approve Federal participation in replacing such bridge with a comparable facility or in rehabilitating such bridge. Whenever any State makes application to the Secretary for assistance in painting and seismic retrofit, or applying calcium magnesium acetate to, the structure of a highway bridge, the Secretary may approve Federal participation in the painting or seismic retrofit of, or application of such acetate to, such structure. The Secretary shall determine the eligibility of highway bridges for replacement or rehabilitation for each State based upon the unsafe highway bridges in such State, except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section. In approving projects (other than projects for bridge structure painting or seismic retrofit or application of such acetate) under this section, the Secretary shall give consideration to those projects which will remove from service those highway bridges most in danger of failure.
 
-(e) Funds authorized to carry out this section shall be apportioned among the several States on October 1 of the fiscal year for which authorized in accordance with this subsection. Each deficient bridge shall be placed into one of the following categories: (1) Federal-aid system bridges eligible for replacement, (2) Federal-aid system bridges eligible for rehabilitation, (3) off-system bridges eligible for replacement, and (4) off-system bridges eligible for rehabilitation. The square footage of deficient bridges in each category shall be multiplied by the respective unit price on a State-by-State basis, as determined by the Secretary; and the total cost in each State divided by the total cost of the deficient bridges in all States shall determine the apportionment factors. For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services. No State shall receive more than 10 per centum or less than 0.25 per centum of the total apportionment for any one fiscal year. The Secretary shall make these determinations based upon the latest available data, which shall be updated annually. Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligatedat the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection. The use of funds authorized under this section to carry out a project for the seismic retrofit of a bridge shall not affect the apportionment of funds under this section.
+(e) Funds authorized to carry out this section shall be apportioned among the several States on October 1 of the fiscal year for which authorized in accordance with this subsection. Each deficient bridge shall be placed into one of the following categories: (1) Federal-aid system bridges eligible for replacement, (2) Federal-aid system bridges eligible for rehabilitation, (3) off-system bridges eligible for replacement, and (4) off-system bridges eligible for rehabilitation. The square footage of deficient bridges in each category shall be multiplied by the respective unit price on a State-by-State basis, as determined by the Secretary; and the total cost in each State divided by the total cost of the deficient bridges in all States shall determine the apportionment factors. For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services. No State shall receive more than 10 per centum or less than 0.25 per centum of the total apportionment for any one fiscal year. The Secretary shall make these determinations based upon the latest available data, which shall be updated annually. Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligated at the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection. The use of funds authorized under this section to carry out a project for the seismic retrofit of a bridge shall not affect the apportionment of funds under this section.
 
 (f) The Federal share payable on account of any project under this section shall be 80 per centum of the cost thereof.
 
@@ -48,7 +48,7 @@ Indian reservation bridges.—Not less than 1 percent of the amount apportioned 
 
 Inventories and Reports.—The Secretary shall—
 
-&emsp;(1) report to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives on projects approved under this section;
+&emsp;(1) report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on projects approved under this section;
 
 &emsp;(2) annually revise the current inventories authorized by subsections (b) and (c) of this section;
 
@@ -62,7 +62,7 @@ Inventories and Reports.—The Secretary shall—
 
 (k) Not later than six months after the date of enactment of this subsection, and periodically thereafter, the Secretary shall review the procedure used in approving or disapproving applications submitted under this section to determine what changes, if any, may be made to expedite such procedure. Any such changes shall be implemented by the Secretary as soon as possible. Not later than nine months after the date of enactment of this subsection, the Secretary shall submit a report to Congress which describes such review and such changes, including any recommendations for legislative changes.
 
-(<i>l</i>) Notwithstanding any other provision of law, any bridge which is owned and operated by an agency (1) which does not have taxing powers, (2) whose functions include operating a federally assisted public transit system subsidized by toll revenues, shall be eligible for assistance under this section but the amount of such assistance shall in no event exceed the cumulative amount which such agency has expended for capital and operating costs to subsidize such transit system. Before authorizing an expenditure of funds under this subsection, the Secretary shall determine that the applicant agency has insufficient reserves, surpluses, and projected revenues (over and above those required for bridge and transit capital and operating costs) to fund the necessary bridge replacement or rehabilitation project.
+(<i>l</i>) Notwithstanding any other provision of law, any bridge which is owned and operated by an agency (1) which does not have taxing powers, (2) whose functions include operating a federally assisted public transit system subsidized by toll revenues, shall be eligible for assistance under this section but the amount of such assistance shall in no event exceed the cumulative amount which such agency has expended for capital and operating costs to subsidize such transit system. Before authorizing an expenditure of funds under this subsection, the Secretary shall determine that the applicant agency has insufficient reserves, surpluses, and projected revenues (over and above those required for bridge and transit capital and operating costs) to fund the necessary bridge replacement or rehabilitation project. Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.
 
 (m)
 
@@ -124,7 +124,7 @@ Applicability of State Standards for Projects.—A project not on a Federal-aid 
 
 (q) As used in this section the term “rehabilitate” in any of its forms means major work necessary to restore the structural integrity of a bridge as well as work necessary to correct a major safety defect.
 
-(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643,§113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100.)
+(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592.)
 
 #### References in Text
 
@@ -147,6 +147,10 @@ The date of enactment of this subsection, referred to in subsec. (k), is Nov. 6,
 The date of the enactment of this subsection, referred to in subsec. (n), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
 #### Amendments
+
+1995—Subsec. (i)(1). Pub. L. 104–59, §325(b), substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation”.
+
+Subsec. (<i>l</i>). Pub. L. 104–59, §318, inserted at end “Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.”
 
 1994—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence “, except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section”.
 
@@ -180,7 +184,7 @@ Pub. L. 100–17, §123(c), amended subsec. (i) generally. Prior to amendment, s
 
 Subsec. (m). Pub. L. 100–17, §123(d)(1), added subsec. (m). Former subsec. (m) redesignated (p).
 
-Subsec. (n). Pub. L. 100–17, §123(e), which directed that this section be amended by adding subsec. (n) after subsec. (<i>l</i>), was executed by adding subsec. (n) after subsec. (m), to reflect the probable intent of Congress.
+Subsec. (n). Pub. L. 100–17, §123(e), which directed that this section be amended by adding subsec. (n) aftersubsec. (<i>l</i>), was executed by adding subsec. (n) after subsec. (m), to reflect the probable intent of Congress.
 
 Subsec. (<i>o</i>). Pub. L. 100–17, §123(f)(2), which directed that this section be amended by adding subsec. (<i>o</i>) after subsec. (<i>l</i>), was executed by adding subsec. (<i>o</i>) after subsec. (n), to reflect the probable intent of Congress.
 
@@ -225,10 +229,6 @@ Subsecs. (j) to (m). Pub. L. 95–599 added subsecs. (j) to (m).
 1973—Subsec. (e). Pub. L. 93–87, §204(a), provided for appropriations authorization of $25,000,000, $75,000,000, and $75,000,000 for fiscal years ending June 30, 1974, 1975, and 1976.
 
 Subsecs. (f) to (h). Pub. L. 93–87, §204(b), (c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
-
-#### Change of Name
-
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Effective Date of 1991 Amendment
 
@@ -308,15 +308,7 @@ State Defined.—For purposes of this section, the term ‘State’ has the mean
 
 #### Feasibility of International Border Highway Infrastructure Discretionary Program
 
-Section 1089 of Pub. L. 102–240 provided that:
-
-“(a)
-
-Study.—The Secretary shall conduct a study of the advisability and feasibility of establishing an international border highway infrastructure discretionary program. The purpose of such a program would be to enable States and Federal agencies to construct, replace, and rehabilitate highway infrastructure facilities at international borders when such States, agencies, and the Secretary find that an international bridge or a reasonable segment of a major highway providing access to such a bridge (1) is important; (2) is unsafe because of structural deficiencies, physical deterioration, or functional obsolescence; (3) poses a safety hazard to highway users; (4) by its construction, replacement, or rehabilitation, would minimize disruptions, delays, and costs to users; or (5) by its construction, replacement, or rehabilitation, would provide more efficient routes for international trade and commerce.
-
-“(b)
-
-Report.—Not later than September 30, 1993, the Secretary shall transmit to Congress a report on the results of the study conducted under this section, together with any recommendations to the Secretary.”
+Section 1089 of Pub. L. 102–240 directed Secretary of Transportation to conduct a study of advisability and feasibility of establishing an international border highway infrastructure discretionary program and, not later than Sept. 30, 1993, transmit to Congress a report on results of the study, together with any recommendations.
 
 #### Historic Bridges; Congressional Findings and Declarations
 
@@ -366,7 +358,7 @@ Section 8(b) of Pub. L. 96–106 provided for the transfer of discretionary brid
 
 #### Time for Completion of Inventory and Classification of Highway Bridges
 
-Section 124(c) of Pub. L. 95–599 directed Secretary of Transportation to complete the requirements of subsec.\(c) of this section, as amended by subsec. (a) of section 124 of Pub. L. 95–599, not later than the last day of the second full calendar year which begins after Nov. 6, 1978.
+Section 124(c) of Pub. L. 95–599 directed Secretary of Transportation to complete the requirements of subsec. (c) of this section, as amended by subsec. (a) of section 124 of Pub. L. 95–599, not later than the last day of the second full calendar year which begins after Nov. 6, 1978.
 
 #### Acceleration of Bridge Projects; Ohio River Bridge Fund Reprogramming; Reports to Congress
 
@@ -374,7 +366,7 @@ Section 147 of Pub. L. 95–599, as amended by Pub. L. 96–106, §15, Nov. 19, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104, 109, 115, 140, 151, 157, 204, 303, 307, 409 of this title.
+This section is referred to in sections 104, 115, 140, 151, 157, 204, 303, 307, 409 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Rights, privileges, immunities, and benefits accorded to commissioned officers or their survivors
 
-Except as provided in subsection (b) of this section, commissioned officers of the Serviceand their surviving beneficiaries shall, with respect to active service performed by such officers—
+Except as provided in subsection (b) of this section, commissioned officers of the Service and their surviving beneficiaries shall, with respect to active service performed by such officers—
 
 &emsp;(1) in time of war;
 

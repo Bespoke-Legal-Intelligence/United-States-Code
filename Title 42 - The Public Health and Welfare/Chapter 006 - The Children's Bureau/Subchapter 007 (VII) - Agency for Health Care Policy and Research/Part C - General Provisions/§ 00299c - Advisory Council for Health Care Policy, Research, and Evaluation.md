@@ -66,7 +66,7 @@ There is established an advisory council to be known as the National Advisory Co
 
 #### (e) Vacancies
 
-If a member of the Council appointed under subsection (c)(2) of this section does not serve the full term applicable under subsection (d) of this section, the individual appointed to fill the resulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
+If a member of the Council appointed under subsection (c)(2) of this section does not serve the full term applicable under subsection (d) of this section, the individual appointed to fill theresulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
 
 #### (f) Chair
 

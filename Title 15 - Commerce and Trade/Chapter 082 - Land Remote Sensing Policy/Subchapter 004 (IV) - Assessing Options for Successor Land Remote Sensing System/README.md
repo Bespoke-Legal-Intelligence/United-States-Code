@@ -1,6 +1,6 @@
 ### SUBCHAPTER IV—ASSESSING OPTIONS FOR SUCCESSOR LAND REMOTE SENSING SYSTEM
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
 
 ---

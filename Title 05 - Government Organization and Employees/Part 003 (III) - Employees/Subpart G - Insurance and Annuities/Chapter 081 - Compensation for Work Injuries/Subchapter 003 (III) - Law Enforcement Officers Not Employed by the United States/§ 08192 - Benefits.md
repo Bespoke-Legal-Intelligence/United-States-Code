@@ -1,4 +1,4 @@
-### §8192 . Benefits
+### §8192. Benefits
 
 (a)
 

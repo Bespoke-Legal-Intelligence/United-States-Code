@@ -28,7 +28,7 @@ The report shall—
 
 (2) The Secretary shall establish programmatic targets, after consultation with tribes participating in Self-Governance under this part, to encourage bureaus of the Department to assure that a significant portion of such programs, services, functions, and activities are actually included in the agreements negotiated under section 458cc of this title.
 
-(3) The listing and targets under paragraphs (1) and (2) shall be published in the Federal Register and be made available to any Indian tribe participating in Self-Governance under thispart. The list shall be published before January 1, 1995, and annually thereafter by January 1 preceding the fiscal year in which the targets are to be met.
+(3) The listing and targets under paragraphs (1) and (2) shall be published in the Federal Register and be made available to any Indian tribe participating in Self-Governance under this part. The list shall be published before January 1, 1995, and annually thereafter by January 1 preceding the fiscal year in which the targets are to be met.
 
 (4) Thereafter, the Secretary shall annually review and publish in the Federal Register, after consultation with tribes participating in Self-Governance under this part, a revised listing and programmatic targets.
 

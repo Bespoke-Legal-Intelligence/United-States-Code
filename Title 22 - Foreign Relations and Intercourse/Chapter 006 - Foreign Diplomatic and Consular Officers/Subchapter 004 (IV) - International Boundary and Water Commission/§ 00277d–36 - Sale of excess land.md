@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, the Commissioner is authorized to di
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40,Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 

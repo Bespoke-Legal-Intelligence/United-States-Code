@@ -6,9 +6,9 @@ Any report describing a project having recreation benefits that is submitted aft
 
 #### References in Text
 
-The Watershed Protection and Flood Prevention Act, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat.666, as amended, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

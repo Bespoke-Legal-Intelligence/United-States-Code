@@ -1,4 +1,4 @@
-### §4005 . Payment of interest
+### §4005. Payment of interest
 
 #### (a) In general
 

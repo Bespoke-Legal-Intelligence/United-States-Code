@@ -60,13 +60,13 @@ Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in s
 
 1958—Subsec. (a). Pub. L. 85–866, §60(a), inserted “and subchapter E of chapter 2 of such code” in last sentence.
 
-Subsec. (b)(2). Pub. L. 85–866, §60(b), (c), in second sentence inserted “with respect to rates” and inserted “, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation” and inserted last sentence.
+Subsec. (b)(2). Pub. L. 85–866, §60(b), (c), in second sentence inserted “with respect to rates” and inserted“, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation” and inserted last sentence.
 
 Subsec. (b)(3). Pub. L. 85–866, §60(d), added par. (3).
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) ofPub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1964 Amendment
 

@@ -8,5 +8,5 @@ The Attorney General shall take such action as may be appropriate to enforce any
 
 The Board shall be entitled to recover from the borrower, or any other person liable therefor, the amount of any payments made pursuant to any guarantee agreement entered into under this chapter, and upon making any such payment, the Board shall be subrogated to all the rights of the recipient thereof.
 
-(Pub. L. 92 70, §11, Aug. 9, 1971, 85 Stat. 181.)
+(Pub. L. 92–70, §11, Aug. 9, 1971, 85 Stat. 181.)
 

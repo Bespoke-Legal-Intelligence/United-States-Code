@@ -16,7 +16,7 @@ In the case of an individual whose adjusted gross income exceeds the applicable 
 
 #### (2) Inflation adjustments
 
-&emsp;In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (1) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 1991, each dollar amountcontained in paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -42,9 +42,9 @@ This section shall not apply to any estate or trust.
 
 (Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462.)
 
-#### Adjustment of Applicable Amount Under This Section for Tax Years Beginning in 1995
+#### Adjustment of Applicable Amount Under This Section for Tax Years Beginning in 1996
 
-<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for tax years beginning in 1995, see section 3.05 of Revenue Procedure 94–72, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for tax years beginning in 1996, see section 3.05 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

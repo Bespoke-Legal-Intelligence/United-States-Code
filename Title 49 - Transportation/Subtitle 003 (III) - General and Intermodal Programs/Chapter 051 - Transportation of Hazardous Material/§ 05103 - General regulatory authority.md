@@ -66,7 +66,41 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 Section 111 of Pub. L. 103–311 provided that: “The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shall consider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\].”
 
-#### Use of Fiber Drum Packaging
+#### Fiber Drum Packaging
+
+Pub. L. 104–88, title IV, §406, Dec. 29, 1995, 109 Stat. 957, provided that:
+
+“(a)
+
+In General.—In the administration of chapter 51 of title 49, United States Code, the Secretary of Transportation shall issue a final rule within 60 days after the date of the enactment of this Act \[Dec. 29, 1995\] authorizing the continued use of fiber drum packaging with a removable head for the transportation of liquid hazardous materials with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991, if—
+
+&emsp;“(1) the packaging is in compliance with regulations of the Secretary under the Hazardous Materials Transportation Act \[former 49 U.S.C. 1801 et seq.\] as in effect on September 30, 1991; and
+
+&emsp;“(2) the packaging will not be used for the transportation of hazardous materials that include materials which are poisonous by inhalation or materials in Packing Groups I and II.
+
+“(b)
+
+Expiration.—The regulation referred to in subsection (a) shall expire on the later of September 30, 1997, or the date on which funds are authorized to be appropriated to carry out chapter 51 of title 49, United States Code (relating to transportation of hazardous materials), for fiscal years beginning after September 30, 1997.
+
+“(c)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—Within 90 days after the date of the enactment of this Act \[Dec. 29, 1995\], the Secretary shall contract with the National Academy of Sciences to conduct a study—
+
+&emsp;&emsp;“(A) to determine whether the requirements of section 5103(b) of title 49, United States Code (relating to regulations for safe transportation), as they pertain to fiber drum packaging with a removable head can be met for the transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) with standards (including fiber drum industry standards set forth in a June 8, 1992, exemption application submitted to the Department of Transportation), other than the performance-oriented packaging standards adopted under docket number HM–181 contained in part 178 of title 49, Code of Federal Regulations; and
+
+&emsp;&emsp;“(B) to determine whether a packaging standard (including such fiber drum industry standards), other than such performance-oriented packaging standards, will provide an equal or greater level of safety for the transportation of liquid hazardous materials than would be provided if such performance-oriented packaging standards were in effect.
+
+&emsp;“(2)
+
+Completion.—The study shall be completed before March 1, 1997 and shall be transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Transportation and Infrastructure Committee of the House of Representatives.
+
+“(d)
+
+Secretarial Action.—By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
 
 Section 122 of Pub. L. 103–311 provided that:
 

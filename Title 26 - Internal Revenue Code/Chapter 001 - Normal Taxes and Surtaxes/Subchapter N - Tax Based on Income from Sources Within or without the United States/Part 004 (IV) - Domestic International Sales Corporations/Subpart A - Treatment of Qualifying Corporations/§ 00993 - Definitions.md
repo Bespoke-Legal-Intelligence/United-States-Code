@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
 
-&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
+&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respectto stock of a related foreign export corporation (as defined in subsection (e)),
 
 &emsp;&emsp;(F) interest on any obligation which is a qualified export asset,
 
@@ -104,7 +104,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(B) the obligation is evidenced by a note (or other evidence of indebtedness) with a stated maturity date not more than 5 years from the date of the loan;
 
-&emsp;&emsp;(C) the loan is made to a person engaged in the United States in the manufacturing, production, growing, or extraction of exportproperty determined without regard to subparagraph (C) or (D) of subsection (c)(2), (referred to hereinafter as the “borrower”); and
+&emsp;&emsp;(C) the loan is made to a person engaged in the United States in the manufacturing, production, growing, or extraction of export property determined without regard to subparagraph (C) or (D) of subsection (c)(2), (referred to hereinafter as the “borrower”); and
 
 &emsp;&emsp;(D) at the time of such loan it is designated as a producer's loan.
 
@@ -158,7 +158,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;&emsp;(i) there shall not be taken into account any amount which is contingent upon receipts or profits of the film and which is fully taxable by the United States (within the meaning of clause (ii)); and
 
-&emsp;&emsp;&emsp;(ii) any amount paid or to be paid to a United States person, to a non-resident alien individual, or to a corporation which furnishes the services of an officer or employee to the borrower with respect to the making of a film, shall be treated as fully taxable by the United States only if the total amount received by such person, individual, officer, or employee for services performed in the making of such film isfully included in gross income for purposes of this chapter.
+&emsp;&emsp;&emsp;(ii) any amount paid or to be paid to a United States person, to a non-resident alien individual, or to a corporation which furnishes the services of an officer or employee to the borrower with respect to the making of a film, shall be treated as fully taxable by the United States only if the total amount received by such person, individual, officer, or employee for services performed in the making of such film is fully included in gross income for purposes of this chapter.
 
 #### (e) Related foreign export corporation
 
@@ -206,7 +206,7 @@ Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to 
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), theterm ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
 Subsec. (c)(2)(E). Pub. L. 103–66, §13239(b)(1), added subpar. (E).
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in
 
 #### Effective Date of 1979 Amendments
 
-Amendment by Pub. L. 96–72 effective upon the expiration of the Export Administration Act of 1969, whichterminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see References in Text note set out under section 2418 of Appendix to Title 50, War and National Defense.
+Amendment by Pub. L. 96–72 effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see References in Text note set out under section 2418 of Appendix to Title 50, War and National Defense.
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1981, with provision for an earlier effective date under certain circumstances, see section 204 of Pub. L. 96–39, set out as a note under section 1401a of Title 19, Customs Duties.
 

@@ -150,7 +150,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (5) Settlement officer not treated as transferor's agent
 
-&emsp;For purposes of this subsection, a person shall not be treated as a transferor's agent or transferee's agent with respect to any transaction merely because such person performs 1 or more of the following acts:
+&emsp;For purposes of this subsection, a person shall not be treated as a transferor's agent ortransferee's agent with respect to any transaction merely because such person performs 1 or more of the following acts:
 
 &emsp;&emsp;(A) The receipt and the disbursement of any portion of the consideration for the transaction.
 

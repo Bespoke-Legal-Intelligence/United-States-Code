@@ -60,7 +60,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (B) Depreciation adjustments
 
-&emsp;&emsp;The term “depreciation adjustments” means adjustments reflected in the adjustedbasis of any property on account of depreciation deductions (whether allowed with respect to such property or other property and whether allowed to the taxpayer or to any other person).
+&emsp;&emsp;The term “depreciation adjustments” means adjustments reflected in the adjusted basis of any property on account of depreciation deductions (whether allowed with respect to such property or other property and whether allowed to the taxpayer or to any other person).
 
 #### (C) Depreciation deductions
 
@@ -322,7 +322,7 @@ Special rule for foreign persons.—In the case of any foreign person other than
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

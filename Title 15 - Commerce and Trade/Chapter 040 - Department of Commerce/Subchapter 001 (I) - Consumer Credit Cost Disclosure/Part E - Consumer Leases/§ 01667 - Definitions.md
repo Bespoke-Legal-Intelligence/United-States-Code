@@ -12,11 +12,11 @@ For purposes of this part—
 
 &emsp;(5) The terms “security” and “security interest” mean any interest in property which secures payment or performance of an obligation.
 
-(Pub. L. 90 321, title I, §181, as added Pub. L. 94 240, §3, Mar. 23, 1976, 90 Stat. 257.)
+(Pub. L. 90–321, title I, §181, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 257.)
 
 #### Effective Date
 
-Section 6 of Pub. L. 94 240 provided that: “This Act \[enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title\] takes effect one year after the date of its enactment \[Mar. 23, 1976\].”
+Section 6 of Pub. L. 94–240 provided that: “This Act \[enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title\] takes effect one year after the date of its enactment \[Mar. 23, 1976\].”
 
 #### Section Referred to in Other Sections
 

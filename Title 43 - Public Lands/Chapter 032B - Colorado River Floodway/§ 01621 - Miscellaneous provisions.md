@@ -24,6 +24,8 @@ The Secretary is directed to promptly issue patents to all persons who have made
 
 (B) No lands shall be conveyed pursuant to this subsection if the conveyance would result in the receipt of title to lands in excess of an acreage entitlement under this chapter.
 
+(3) This section shall apply to lands conveyed by interim conveyance or patent to a regional corporation pursuant to this chapter which are made subject to a mining claim or claims located under the general mining laws, including lands conveyed prior to November 2, 1995. Effective on November 2, 1995, the Secretary, acting through the Bureau of Land Management and in a manner consistent with section 1613(g) of this title, shall transfer to the regional corporation administration of all mining claims determined to be entirely within lands conveyed to that corporation. Any person holding such mining claim or claims shall meet such requirements of the general mining laws and section 1744 of this title, except that any filings that would have been made with the Bureau of Land Management if the lands were within Federal ownership shall be timely made with the appropriate regional corporation. The validity of any such mining claim or claims may be contested by the regional corporation, in place of the United States. All contest proceedings and appeals by the mining claimants of adverse decisions made by the regional corporation shall be brought in Federal District Court for the District of Alaska. Neither the United States nor any Federal agency or official shall be named or joined as a party in such proceedings or appeals. All revenues from such mining claims received after November 2, 1995, shall be remitted to the regionalcorporation subject to distribution pursuant to section 1606(i) of this title, except that in the event that the mining claim or claims are not totally within the lands conveyed to the regional corporation, the regional corporation shall be entitled only to that proportion of revenues, other than administrative fees, reasonably allocated to the portion of the mining claim so conveyed.
+
 #### (d) Purchase restrictions for personnel inapplicable to chapter
 
 The provisions of section 11 of this title shall not apply to any land grants or other rights granted under this chapter.
@@ -58,11 +60,11 @@ Prior to a conveyance pursuant to section 1613 of this title, lands withdrawn by
 
 (1) Where lands to be conveyed to a Native, Native Corporation, or Native group pursuant to this chapter as amended and supplemented have not been surveyed, the same may be conveyed by the issuance of an “interim conveyance” to the party entitled to the lands. Subject to valid existing rights and such conditions and reservations authorized by law as are imposed, the force and effect of such an interim conveyance shall be to convey to and vest in the recipient exactly the same right, title, and interest in and to the lands as the recipient would have received had he been issued a patent by the United States. Upon survey of lands covered by an interim conveyance a patent thereto shall be issued to the recipient. The boundaries of the lands as defined and conveyed by the interim conveyance shall not be altered but may then be redescribed, if need be, in reference to the plat of survey. The Secretary shall make appropriate adjustments to insure that the recipient receives his full entitlement. Where the term “patent,” or a derivative thereof, is used in this chapter unless the context precludes such construction, it shall be deemed to include “interim conveyance,” and the conveyances of land to Natives and Native Corporations provided for this chapter shall be as fully effectuated by the issuance of interim conveyances as by the issuance of patents.
 
-(2) Where lands selected and conveyed, or to be conveyed to a Village Corporation are insufficient to fulfill the Corporation's entitlement under section 1611(b), 1613(a), 1615(b), or 1615(d) of this title, the Secretary is authorized to withdraw twice the amount of unfulfilled entitlement and provide the Village Corporation ninety days from receipt of notice from the Secretary to select from the lands withdrawn the land it desires to fulfill its entitlement. In making the withdrawal, the Secretary shall first withdraw public lands that were formerly withdrawn for selection by the concerned Village Corporation by or pursuant to section 1610(a)(1), 1610(a)(3), 1615(a), or 1615(d) of this title. Should such lands no longer be available, the Secretary may withdraw public lands that are vacant, unreserved, and unappropriated, except that the Secretary may withdraw public lands which had been previously withdrawn pursuant to section 1616(d) of this title. Any subsequent selection by the Village Corporation shall be in the manner provided in this chapter for such original selections.
+(2) Where lands selected and conveyed, or to be conveyed to a Village Corporation are insufficient to fulfill the Corporation's entitlement under section 1611(b), 1613(a), 1615(b), or 1615(d) of this title, the Secretary is authorized to withdraw twice the amount of unfulfilled entitlement and provide the Village Corporation ninety days from receipt of notice from the Secretary to select from the lands withdrawn theland it desires to fulfill its entitlement. In making the withdrawal, the Secretary shall first withdraw public lands that were formerly withdrawn for selection by the concerned Village Corporation by or pursuant to section 1610(a)(1), 1610(a)(3), 1615(a), or 1615(d) of this title. Should such lands no longer be available, the Secretary may withdraw public lands that are vacant, unreserved, and unappropriated, except that the Secretary may withdraw public lands which had been previously withdrawn pursuant to section 1616(d) of this title. Any subsequent selection by the Village Corporation shall be in the manner provided in this chapter for such original selections.
 
 #### (k) National forest land patents; conditions
 
-Any patents to lands under this chapter which are located within the boundaries of a nationalforest shall contain such conditions as the Secretary deems necessary to assure that:
+Any patents to lands under this chapter which are located within the boundaries of a national forest shall contain such conditions as the Secretary deems necessary to assure that:
 
 &emsp;(1) the sale of any timber from such lands shall, for a period of five years, be subject to the same restrictions relating to the export of timber from the United States as are applicable to national forest lands in Alaska under rules and regulations of the Secretary of Agriculture; and
 
@@ -72,7 +74,7 @@ Any patents to lands under this chapter which are located within the boundaries 
 
 Notwithstanding any provision of this chapter, no Village or Regional Corporation shall select lands which are within two miles from the boundary, as it exists on December 18, 1971, of any home rule or first class city (excluding boroughs) or which are within six miles from the boundary of Ketchikan.
 
-(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121.)
+(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353.)
 
 #### References in Text
 
@@ -87,6 +89,8 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(
 Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section 6(i) of Pub. L. 85–508, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+1995—Subsec. (c)(3). Pub. L. 104–42 added par. (3).
 
 1992—Subsec. (c). Pub. L. 102–415 designated existing provisions as par. (1) and added par. (2).
 

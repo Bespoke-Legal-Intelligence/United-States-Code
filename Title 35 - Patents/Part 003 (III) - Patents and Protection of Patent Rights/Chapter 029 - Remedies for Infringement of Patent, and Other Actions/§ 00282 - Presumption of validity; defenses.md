@@ -1,6 +1,6 @@
 ### §282. Presumption of validity; defenses
 
-A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid even though dependent upon an invalid claim. The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
+A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid even though dependent upon an invalid claim. Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1). The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
 
 The following shall be defenses in any action involving the validity or infringement of a patent and shall be pleaded:
 
@@ -12,7 +12,7 @@ The following shall be defenses in any action involving the validity or infringe
 
 &emsp;(4) Any other fact or act made a defense by this title.
 
-In actions involving the validity or infringement of a patent the party asserting invalidity or noninfringement shall give notice in the pleadings or otherwise in writing to the adverse party at least thirty days before the trial, of the country, number, date, and name of the patenteeof any patent, the title, date, and page numbers of any publication to be relied upon as anticipation of the patent in suit or, except in actions in the United States Court of Federal Claims, as showing the state of the art, and the name and address of any person who may be relied upon as the prior inventor or as having prior knowledge of or as having previously used or offered for sale the invention of the patent in suit. In the absence of such notice proof of the said matters may not be made at the trial except on such terms as the court requires. Invalidity of the extension of a patent term or any portion thereof under section 156 of this title because of the material failure—
+In actions involving the validity or infringement of a patent the party asserting invalidity or noninfringement shall give notice in the pleadings or otherwise in writing to the adverse party at least thirty days before the trial, of the country, number, date, and name of the patentee of any patent, the title, date, and page numbers of any publication to be relied upon as anticipation of the patent in suit or, except in actions in the United States Court of Federal Claims, as showing the state of the art, and the name and address of any person who may be relied upon as the prior inventor or as having prior knowledge of or as having previously used or offered for sale the invention of the patent in suit. In the absence of such notice proof of the said matters may not be made at the trial except on such terms as the court requires. Invalidity of the extension of a patent term or any portion thereof under section 156 of this title because of the material failure—
 
 &emsp;(1) by the applicant for the extension, or
 
@@ -20,7 +20,7 @@ In actions involving the validity or infringement of a patent the party assertin
 
 > to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded. A due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; July 24, 1965, Pub. L. 89–83, §10, 79 Stat. 261; Nov. 14, 1975, Pub. L. 94–131, §10, 89 Stat. 692; Apr. 2, 1982, Pub. L. 97–164, title I, §161(7), 96 Stat. 49; Sept. 24, 1984, Pub. L. 98–417, title II, §203, 98 Stat. 1603; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(July 19, 1952, ch. 950, 66 Stat. 812; July 24, 1965, Pub. L. 89–83, §10, 79 Stat. 261; Nov. 14, 1975, Pub. L. 94–131, §10, 89 Stat. 692; Apr. 2, 1982, Pub. L. 97–164, title I, §161(7), 96 Stat. 49; Sept. 24, 1984, Pub. L. 98–417, title II, §203, 98 Stat. 1603; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; Nov. 1, 1995, Pub. L. 104–41, §2, 109 Stat. 352.)
 
 #### Historical and Revision Notes
 
@@ -33,6 +33,8 @@ The five defenses named in R.S. 4920 are omitted and replaced by a broader parag
 The third paragraph, relating to notice of prior patents, publications and uses, is based on part of the last paragraph of R.S. 4920 which was superseded by the Federal Rules of Civil Procedure but which is reinstated with modifications.
 
 #### Amendments
+
+1995—First par. Pub. L. 104–41 inserted after second sentence “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
 
 1992—Third par. Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 

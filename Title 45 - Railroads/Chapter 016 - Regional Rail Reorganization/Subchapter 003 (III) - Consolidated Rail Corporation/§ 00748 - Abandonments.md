@@ -16,7 +16,7 @@ Any application for abandonment that is filed by the Corporation under this sect
 
 #### (d) Offers of financial assistance
 
-(1) The provisions of section 10905(d)–(f) of title 49 (including the timing requirements of subsection (d) thereof) shall apply to any offer of financial assistance under subsection (b) or (c) of this section.
+(1) The provisions of section 10904 of title 49 (including the timing requirements of subsection (d) thereof) shall apply to any offer of financial assistance under subsection (b) or (c) of this section.
 
 (2) The Corporation shall provide any person that intends to make an offer of financial assistance under subsection (b) or (c) of this section with such information as the Commission may require.
 
@@ -34,9 +34,9 @@ Any application for abandonment that is filed by the Corporation under this sect
 
 #### (f) Employee protection
 
-The provisions of section 10903(b)(2) of title 49 shall not apply to any abandonment granted under this section. Any employee who was protected by the compensatory provisions of subchapter V <sup>1</sup> of this chapter immediately prior to August 13, 1981, who is deprived of employment by such an abandonment shall be eligible for employee protection under section 797 <sup>1</sup> of this title.
+The provisions of section 10903(b)(3) <sup>1</sup> of title 49 shall not apply to any abandonment granted under this section. Any employee who was protected by the compensatory provisions of subchapter V <sup>2</sup> of this chapter immediately prior to August 13, 1981, who is deprived of employment by such an abandonment shall be eligible for employee protection under section 797 <sup>2</sup> of this title.
 
-(Pub. L. 93–236, title III, §308, as added Pub. L. 97–35, title XI, §1156(a), Aug. 13, 1981, 95 Stat. 679; amended Pub. L. 98–181, title II, §2003(c)(2), Nov. 30, 1983, 97 Stat. 1298.)
+(Pub. L. 93–236, title III, §308, as added Pub. L. 97–35, title XI, §1156(a), Aug. 13, 1981, 95 Stat. 679; amended Pub. L. 98–181, title II, §2003(c)(2), Nov. 30, 1983, 97 Stat. 1298; Pub. L. 104–88, title III, §327(4), Dec. 29, 1995, 109 Stat. 952.)
 
 #### References in Text
 
@@ -46,11 +46,23 @@ Section 797 of this title, referred to in subsec. (f), was repealed by Pub. L. 9
 
 #### Amendments
 
+1995—Subsec. (d)(1). Pub. L. 104–88, §327(4)(A), substituted “section 10904” for “section 10905(d)–(f)”.
+
+Subsec. (f). Pub. L. 104–88, §327(4)(B), substituted “section 10903(b)(3)” for “section 10903(b)(2)”.
+
 1983—Subsec. (c)(1). Pub. L. 98–181 substituted “1985” for “1983”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date
 
 Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as a note under section 1101 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. Referencesto Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Section Referred to in Other Sections
 

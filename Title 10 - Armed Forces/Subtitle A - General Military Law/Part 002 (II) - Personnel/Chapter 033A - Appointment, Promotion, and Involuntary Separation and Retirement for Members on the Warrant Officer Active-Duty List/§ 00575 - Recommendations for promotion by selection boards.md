@@ -4,7 +4,7 @@
 
 (b)(1) In the case of a selection board to consider warrant officers for selection for promotion to the grade of chief warrant officer, W–4, or chief warrant officer, W–5, the Secretary concerned shall establish the number of warrant officers that the selection board may recommend from among warrant officers being considered from below the promotion zone within each grade (or grade and competitive category). The number of warrant officers recommended for promotion from below the promotion zone does not increase the maximum number of warrant officers which the board is authorized under section 574 of this title to recommend for promotion.
 
-(2) The number of officers recommended for promotion from below the promotion zone may not exceed 10 percent of the total number recommended, except that the Secretary of Defenseand the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy, may authorize such percentage to be increased to not more than 15 percent.
+(2) The number of officers recommended for promotion from below the promotion zone may not exceed 10 percent of the total number recommended, except that the Secretary of Defense and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy, may authorize such percentage to be increased to not more than 15 percent.
 
 (c) A selection board convened under section 573(a) of this title may not recommend a warrant officer for promotion unless—
 

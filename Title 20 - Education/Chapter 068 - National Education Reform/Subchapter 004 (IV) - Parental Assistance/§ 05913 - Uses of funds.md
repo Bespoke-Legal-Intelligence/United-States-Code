@@ -14,7 +14,7 @@ Grant funds received under this subchapter may be used—
 
 &emsp;&emsp;(E) obtain information about the range of options, programs, services, and resources available at the national, State, and local levels to assist parents described in subparagraphs (A) and (B) of section 5911(b) of this title;
 
-&emsp;&emsp;(F) seek technical assistance regarding compliance with the requirements of thissubchapter and of other Federal programs relevant to achieving the National Education Goals;
+&emsp;&emsp;(F) seek technical assistance regarding compliance with the requirements of this subchapter and of other Federal programs relevant to achieving the National Education Goals;
 
 &emsp;&emsp;(G) participate in State and local decisionmaking;
 
@@ -24,5 +24,5 @@ Grant funds received under this subchapter may be used—
 
 &emsp;(2) to include State or local educational personnel where such participation will further the activities assisted under the grant.
 
-(Pub. L. 103 227, title IV, §403, Mar. 31, 1994, 108 Stat. 189.)
+(Pub. L. 103–227, title IV, §403, Mar. 31, 1994, 108 Stat. 189.)
 

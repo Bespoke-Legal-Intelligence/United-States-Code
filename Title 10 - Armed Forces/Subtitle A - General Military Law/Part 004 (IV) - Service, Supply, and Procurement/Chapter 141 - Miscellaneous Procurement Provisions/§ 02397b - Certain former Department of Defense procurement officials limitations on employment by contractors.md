@@ -1,6 +1,6 @@
 ### §2397b. Certain former Department of Defense procurement officials: limitations on employment by contractors
 
-(a)(1) Subject to subsections (c) and (d), a person who is a former officer or employee of the Department of Defense or a former or retired member of the armed forces may not acceptcompensation from a contractor during the two-year period beginning on the date of such person's separation from service in the Department of Defense if—
+(a)(1) Subject to subsections (c) and (d), a person who is a former officer or employee of the Department of Defense or a former or retired member of the armed forces may not accept compensation from a contractor during the two-year period beginning on the date of such person's separation from service in the Department of Defense if—
 
 &emsp;(A) on a majority of the person's working days during the two-year period ending on the date of such person's separation from service in the Department of Defense, the person performed a procurement function (relating to a contract of the Department of Defense) at a site or plant that is owned or operated by the contractor and that was the principal location of such person's performance of that procurement function;
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(ii) a State or local government; or
 
-&emsp;&emsp;(iii) any person who contracts to supply the Department of Defense only commercialitems (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))) <sup>1</sup>
+&emsp;&emsp;(iii) any person who contracts to supply the Department of Defense only commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))) <sup>1</sup>
 
 &emsp;(3) The term “procurement function” includes, with respect to a contract, any function relating to—
 

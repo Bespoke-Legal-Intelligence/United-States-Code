@@ -6,7 +6,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(1) Protection, restoration, or enhancement of the existing coastal wetlands base, or creation of new coastal wetlands.
 
-&emsp;(2) Preventing or significantly reducing threats to life and destruction of property by eliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
+&emsp;(2) Preventing or significantly reducing threats to life and destruction of property byeliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
 
 &emsp;(3) Attaining increased opportunities for public access, taking into account current and future public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
 
@@ -30,7 +30,7 @@ The Secretary shall evaluate and rank State proposals for funding under this sec
 
 #### (d) Promulgation of regulations by Secretary
 
-Within 12 months following November 5, 1990, and consistent with the notice and participationrequirements established in section 1463 of this title, the Secretary shall promulgate regulations concerning coastal zone enhancement grants that establish—
+Within 12 months following November 5, 1990, and consistent with the notice and participation requirements established in section 1463 of this title, the Secretary shall promulgate regulations concerning coastal zone enhancement grants that establish—
 
 &emsp;(1) specific and detailed criteria that must be addressed by a coastal state (including the State's priority needs for improvement as identified by the Secretary after careful consultation with the State) as part of the State's development and implementation of coastal zone enhancement objectives;
 

@@ -60,7 +60,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(C) which provide that the requirements of paragraph (2)(B) shall be treated as met if the affiliated group, in reliance on a good faith determination of value, treated such requirements as met,
 
-&emsp;&emsp;(D) which disregard an inadvertent ceasing to meet the requirements of paragraph (2)(B)by reason of changes in relative values of different classes of stock,
+&emsp;&emsp;(D) which disregard an inadvertent ceasing to meet the requirements of paragraph (2)(B) by reason of changes in relative values of different classes of stock,
 
 &emsp;&emsp;(E) which provide that transfers of stock within the group shall not be taken into account in determining whether a corporation ceases to be a member of an affiliated group, and
 
@@ -118,7 +118,7 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Sept. 2, 1958, Pub. L. 85–866, title I, §64(d)(3), 72 Stat. 1657; June 25, 1959, Pub. L. 86–69, §3(f)(1), 73 Stat. 140; Sept. 23, 1959, Pub. L. 86–376, §2(c), 73 Stat. 699; Sept. 14, 1960, Pub. L. 86–779, §10(j), 74 Stat. 1009; Apr. 14, 1966, Pub. L. 89–389, §4(b)(3), 80 Stat. 116; Dec. 30, 1969, Pub. L. 91–172, title I, §121(a)(4), 83 Stat. 537; Dec. 10, 1971, Pub. L. 92–178, title V, §502(e), 85 Stat. 550; Oct. 4, 1976, Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), 90 Stat. 1584, 1646, 1649, 1739; Nov. 6, 1978, Pub. L. 95–600, title I, §141(f)(4), 92 Stat. 2795; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), 94 Stat. 199, 200; July 18, 1984, Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), 98 Stat. 577, 756; Oct. 22, 1986, Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), 100 Stat. 2408, 2800, 2804, 2960; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(d)(10), 102 Stat. 3581; Nov. 5, 1990, Pub. L. 101–508, title XI, §11814(b), 104 Stat. 1388–557.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Sept. 2, 1958, Pub. L. 85–866, title I, §64(d)(3), 72 Stat. 1657; June 25, 1959, Pub. L. 86–69, §3(f)(1), 73 Stat. 140; Sept. 23, 1959, Pub. L. 86–376, §2(c), 73 Stat. 699; Sept. 14, 1960, Pub. L. 86–779, §10(j), 74 Stat. 1009; Apr. 14, 1966, Pub. L. 89–389, §4(b)(3), 80 Stat. 116; Dec. 30, 1969, Pub. L. 91–172, title I, §121(a)(4), 83 Stat. 537; Dec. 10, 1971, Pub. L. 92–178, title V, §502(e), 85 Stat. 550; Oct. 4, 1976, Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), 90 Stat. 1584, 1646, 1649, 1739; Nov. 6, 1978, Pub. L. 95–600, title I, §141(f)(4), 92 Stat. 2795; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), 94 Stat. 199, 200; July 18, 1984, Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), 98 Stat. 577, 756; Oct. 22, 1986, Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), 100 Stat. 2408,2800, 2804, 2960; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(d)(10), 102 Stat. 3581; Nov. 5, 1990, Pub. L. 101–508, title XI, §11814(b), 104 Stat. 1388–557.)
 
 #### References in Text
 
@@ -216,7 +216,7 @@ Special rule not to apply to certain sell-downs after june 22, 1984.—If—
 
 &emsp;“(C) the requirements of the amendment made by subsection (a) are not satisfied after such sale, exchange, or issuance,
 
-> then the amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining whether such corporation continues to be a member of the group. The preceding sentence shall not apply to any transaction if such transaction does not reduce the percentage of the fair market value of the stock of the corporation referred to in the preceding sentence heldby members of the group determined without regard to this paragraph.
+> then the amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining whether such corporation continues to be a member of the group. The preceding sentence shall not apply to any transaction if such transaction does not reduce the percentage of the fair market value of the stock of the corporation referred to in the preceding sentence held by members of the group determined without regard to this paragraph.
 
 “(4)
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 95–600 effective with respect to qualified investment for
 
 Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974, see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
-Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, seesection 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
+Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
 Section 1053(e) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) and (b) \[amending section 941 and 943 of this title\] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsections (c) and (d) \[amending this section and sections 116, 6072, and 6091 of this title and repealing sections 941–943 of this title\] shall apply with respect to taxable years beginning after December 31, 1977.”
 

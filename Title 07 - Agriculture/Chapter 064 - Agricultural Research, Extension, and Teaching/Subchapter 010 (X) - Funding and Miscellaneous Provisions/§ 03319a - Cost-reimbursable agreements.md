@@ -1,0 +1,6 @@
+### §3319a. Cost-reimbursable agreements
+
+Notwithstanding any other provision of law, the Secretary of Agriculture may enter into cost-reimbursable agreements with State cooperative institutions without regard to any requirement for competition, for the acquisition of goods or services, including personal services, to carry out agricultural research, extension, or teaching activities of mutual interest. Reimbursable costs under such agreements shall include the actual direct costs of performance, as mutually agreed on by the parties, and the indirect costs of performance, not exceeding 10 percent of the direct cost.
+
+(Pub. L. 95–113, title XIV, §1473A, as added Pub. L. 99–198, title XIV, §1426, Dec. 23, 1985, 99 Stat. 1553.)
+

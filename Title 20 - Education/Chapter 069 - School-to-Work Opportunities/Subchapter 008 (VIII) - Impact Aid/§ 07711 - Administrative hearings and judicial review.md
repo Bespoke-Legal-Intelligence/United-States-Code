@@ -18,11 +18,11 @@ A local educational agency and a State that is adversely affected by any action 
 
 &emsp;The court shall have exclusive jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 89 10, title VIII, §8011, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3768.)
+(Pub. L. 89–10, title VIII, §8011, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3768.)
 
 #### References in Text
 
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (a), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (a), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

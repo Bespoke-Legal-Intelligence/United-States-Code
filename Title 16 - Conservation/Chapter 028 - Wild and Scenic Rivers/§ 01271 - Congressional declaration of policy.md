@@ -1,6 +1,6 @@
 ### §1271. Congressional declaration of policy
 
-It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
+It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic,cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
 
 (Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
 
@@ -12,7 +12,7 @@ Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
 Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
 
-Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of thistitle and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
+Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
 
 #### Short Title of 1993 Amendment
 

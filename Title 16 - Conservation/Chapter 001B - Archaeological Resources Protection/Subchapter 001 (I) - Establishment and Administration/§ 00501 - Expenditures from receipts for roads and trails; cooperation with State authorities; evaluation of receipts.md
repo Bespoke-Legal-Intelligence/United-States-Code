@@ -4,17 +4,9 @@ On or after Mar. 4, 1913, ten per centum of all moneys received from the nationa
 
 (Mar. 4, 1913, ch. 145, §1\[part\], 37 Stat. 843; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737.)
 
-#### Amendments
+#### Prior Provisions
 
-1944—Act Sept. 21, 1944, inserted sentence relating to stumpage value of the timber.
-
-#### Savings Provision
-
-Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as affecting the distribution of livestock grazing revenues to local governments under this section, see section 701(j) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
-
-#### Similar Provisions
-
-Provisions similar to this section were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 June 28, 1944, ch. 296, 58 Stat. 444.
 
@@ -23,6 +15,14 @@ July 12, 1943, ch. 215, 57 Stat. 412.
 July 22, 1942, ch. 516, 56 Stat. 680.
 
 July 1, 1941, ch. 267, 55 Stat. 423.
+
+#### Amendments
+
+1944—Act Sept. 21, 1944, inserted sentence relating to stumpage value of the timber.
+
+#### Savings Provision
+
+Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as affecting the distribution of livestock grazing revenues to local governments under this section, see section 701(j) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

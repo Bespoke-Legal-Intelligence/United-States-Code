@@ -26,6 +26,10 @@ Oct. 17, 1978, Pub. L. 95–473, §4(c)(1)(B), (2) (related to §402(b) of Depar
 
 The words “duties and powers . . . that were vested . . . in” are coextensive with, and substituted for, “transferred to, and vested in . . . all functions and authority of” for clarity and to eliminate unnecessary words. The word “regulatory” is omitted as surplus. The words “on October 1, 1977” are added to reflect the effective date of the transfer of the duties and powers to the Federal Energy Regulatory Commission.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 60501 of this title; title 42 section 7174.

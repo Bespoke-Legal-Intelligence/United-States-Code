@@ -26,5 +26,5 @@ The purpose of this part is to support a comprehensive system for the acquisitio
 
 &emsp;(12) encouragement of collaborative relationships among the State agency for higher education, the State library administrative agency, the State telecommunications agency, and the State educational agency, in the area of technology support to strengthen the system of education.
 
-(Pub. L. 89 10, title III, §3112, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3638.)
+(Pub. L. 89–10, title III, §3112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3638.)
 

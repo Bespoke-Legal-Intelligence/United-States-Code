@@ -70,7 +70,7 @@ Subsec. (j). Pub. L. 100–581, §208(b), substituted “the Secretary for the p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1665c, 2902, 3202, 3307, 3322, 3337, 3371, 3402, 3602, 3803 of this title; title 5 section 3371; title 7 sections 1471, 2007a, 2012; title 10 sections 2323a, 2411; title 15 section 632; title 16 section 1002; title 20 sections 80q–14, 1411, 1484, 6362; title 22 section 2124c; title 31 section 1352; title 38 section 3764; title 42 sections 290ff, 300n, 300w–1, 300x–33, 3057c, 9858n, 10402, 10407, 10408, 10410, 10414, 10601, 12340; title 49 section 5102.
+This section is referred to in sections 1665c, 2902, 3202, 3307, 3322, 3337, 3371, 3402, 3602, 3803 of this title; title 2 section 1602; title 5 section 3371; title 7 sections 1471, 2007a, 2012; title 10 sections 2323a, 2411; title 15 section 632; title 16 section 1002; title 20 sections 80q–14, 1411, 1484, 6362; title 22 section 2124c; title 31 section 1352; title 38 section 3764; title 40 section 481; title 42 sections 290ff, 300n, 300w–1, 300x–33, 622, 3057c, 9858n, 10402, 10407, 10408, 10410, 10414, 10601, 12340; title 49 section 5102.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “provided in”.</i>
 

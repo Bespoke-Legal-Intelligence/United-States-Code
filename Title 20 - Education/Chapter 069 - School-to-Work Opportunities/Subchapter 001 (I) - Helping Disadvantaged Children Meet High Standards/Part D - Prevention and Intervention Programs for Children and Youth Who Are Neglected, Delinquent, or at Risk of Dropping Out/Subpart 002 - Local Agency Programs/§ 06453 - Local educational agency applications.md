@@ -22,7 +22,7 @@ Eligible local educational agencies desiring assistance under this section shall
 
 &emsp;(8) as appropriate, a description of how the program will involve parents in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under the Job Training and<sup>1</sup> Partnership Act \[29 U.S.C. 1501 et seq.\] and vocational education programs serving this at-risk population of youth;
+&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under the Job Training and <sup>1</sup> Partnership Act \[29 U.S.C. 1501 et seq.\] and vocational education programs serving this at-risk population of youth;
 
 &emsp;(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable;
 
@@ -32,13 +32,13 @@ Eligible local educational agencies desiring assistance under this section shall
 
 &emsp;(13) as appropriate, a description of the steps participating schools will take to find alternative placements for youth interested in continuing their education but unable to participate in a regular public school program.
 
-(Pub. L. 89 10, title I, §1423, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3598.)
+(Pub. L. 89–10, title I, §1423, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3598.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93 415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415,Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i>So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

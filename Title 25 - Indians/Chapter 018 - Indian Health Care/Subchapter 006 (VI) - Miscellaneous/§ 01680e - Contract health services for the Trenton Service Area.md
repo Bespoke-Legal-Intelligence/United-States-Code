@@ -8,5 +8,5 @@ The Secretary, acting through the Service, is directed to provide contract healt
 
 Nothing in this section may be construed as expanding the eligibility of members of the Turtle Mountain Band of Chippewa Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986.
 
-(Pub. L. 94–437, title VIII, §815, formerly title VII, §715, as added Pub. L. 100–713, title VII, §709, Nov. 23, 1988, 102 Stat. 4831; renumbered title VIII, §815, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, §815, formerly title VII, §715, as added Pub. L. 100–713, title VII, §709,Nov. 23, 1988, 102 Stat. 4831; renumbered title VIII, §815, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 

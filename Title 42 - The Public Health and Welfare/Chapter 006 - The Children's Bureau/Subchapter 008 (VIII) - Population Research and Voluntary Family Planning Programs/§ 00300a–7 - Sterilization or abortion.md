@@ -34,7 +34,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 #### (d) Individual rights respecting certain requirements contrary to religious beliefs or moral convictions
 
-No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activity would be contrary to his religious beliefs or moral convictions.
+No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Servicesif his performance or assistance in the performance of such part of such program or activity would be contrary to his religious beliefs or moral convictions.
 
 #### (e) Prohibition on entities receiving Federal grant, etc., from discriminating against applicants for training or study because of refusal of applicant to participate on religious or moral grounds
 

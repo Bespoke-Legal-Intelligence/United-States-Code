@@ -18,7 +18,7 @@ The work-based learning component of a School-to-Work Opportunities program shal
 
 Such component may include such activities as paid work experience, job shadowing, school-sponsored enterprises, or on-the-job training.
 
-(Pub. L. 103 239, title I, §103, May 4, 1994, 108 Stat. 577.)
+(Pub. L. 103–239, title I, §103, May 4, 1994, 108 Stat. 577.)
 
 #### Section Referred to in Other Sections
 

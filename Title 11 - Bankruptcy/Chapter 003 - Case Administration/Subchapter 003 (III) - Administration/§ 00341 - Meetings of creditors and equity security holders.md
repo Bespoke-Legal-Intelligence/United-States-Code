@@ -1,4 +1,4 @@
-### §341 . Meetings of creditors and equity security holders
+### §341. Meetings of creditors and equity security holders
 
 (a) Within a reasonable time after the order for relief in a case under this title, the United States trustee shall convene and preside at a meeting of creditors.
 

@@ -24,9 +24,9 @@ Nothing in this section shall be construed to—
 
 &emsp;(4) create any legally enforceable right.
 
-(Pub. L. 89 10, title XIV, §14511, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3906.)
+(Pub. L. 89–10, title XIV, §14511, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3906.)
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (b)(2), is title IV of Pub. L. 90 247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (b)(2), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 

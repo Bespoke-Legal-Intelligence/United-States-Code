@@ -76,7 +76,7 @@ That allocation, and those mentioned in the explanation of subsection (c) below,
 
 The word “regular” is substituted for the word “permanent” throughout the revised subsection.
 
-In subsection (c), 10:506a(a) (1st proviso) is omitted, since there is no authority to appoint to a regular grade above major general. 10:506a(a) (last 65 words of 2d proviso) is omitted as executed by the declaration of a national emergency on December 16, 1950.
+In subsection (c), 10:506a(a) (1st proviso) is omitted, since there is no authority to appoint to a regular grade above major general. 10:506a(a) (last 65 words of2d proviso) is omitted as executed by the declaration of a national emergency on December 16, 1950.
 
 In subsection (c)(1), the figures “4” and “2” result from the allocation of the original figures “16” and “8”.
 

@@ -32,7 +32,7 @@ As used in this chapter, the term—
 
 &emsp;(9) “exclusive economic zone” means the exclusive economic zone as defined in the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
 
-(Pub. L. 92–532, title III, §302, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §2, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 97–375, title II, §202(a), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 100–627, titleII, §204(b), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2102, Nov. 4, 1992, 106 Stat. 5040.)
+(Pub. L. 92–532, title III, §302, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §2, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 97–375, title II, §202(a), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 100–627, title II, §204(b), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2102, Nov. 4, 1992, 106 Stat. 5040.)
 
 #### References in Text
 

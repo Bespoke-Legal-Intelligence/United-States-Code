@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;(2) the term “small business” means any small business concern as defined under section 632 of this title.
 
-(Pub. L. 100 418, title II, §2304, Aug. 23, 1988, 102 Stat. 1343.)
+(Pub. L. 100–418, title II, §2304, Aug. 23, 1988, 102 Stat. 1343.)
 
 #### Section Referred to in Other Sections
 

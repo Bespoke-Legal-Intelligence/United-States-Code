@@ -16,5 +16,5 @@ This part carries out the purpose described in subsection (a) of this section by
 
 &emsp;(4) research, evaluation, data collection, and technical assistance.
 
-(Pub. L. 89 10, title IX, §9102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3774.)
+(Pub. L. 89–10, title IX, §9102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774.)
 

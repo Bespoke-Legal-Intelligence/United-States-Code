@@ -34,5 +34,5 @@ It is the purpose of this part—
 
 &emsp;(3) to supplement and make more effective the expenditure of State and local funds, for the education of gifted and talented students.
 
-(Pub. L. 89 10, title X, §10202, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3820.)
+(Pub. L. 89–10, title X, §10202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3820.)
 

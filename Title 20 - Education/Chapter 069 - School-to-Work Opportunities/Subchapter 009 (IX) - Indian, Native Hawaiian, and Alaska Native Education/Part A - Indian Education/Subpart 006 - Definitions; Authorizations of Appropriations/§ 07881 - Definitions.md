@@ -40,11 +40,11 @@ As used in this part:
 
 &emsp;&emsp;(E) a member of an organized Indian group that received a grant under the Indian Education Act of 1988 as it was in effect the day preceding October 20, 1994.
 
-(Pub. L. 89 10, title IX, §9161, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3793.)
+(Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793.)
 
 #### References in Text
 
-The Indian Education Act of 1988 as it was in effect the day preceding October 20, 1994, referred to in par. (4)(E), is part C (§§5301 5352) of title V of Pub. L. 100 297, Apr. 28, 1988, 102 Stat. 395, which was classified principally to chapter 28 (§2601 et seq.) of Title 25, Indians, prior to repeal by Pub. L. 103 382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
+The Indian Education Act of 1988 as it was in effect the day preceding October 20, 1994, referred to in par. (4)(E), is part C (§§5301–5352) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 395, which was classified principally to chapter 28 (§2601 et seq.) of Title 25, Indians, prior to repeal by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
 
 #### Section Referred to in Other Sections
 

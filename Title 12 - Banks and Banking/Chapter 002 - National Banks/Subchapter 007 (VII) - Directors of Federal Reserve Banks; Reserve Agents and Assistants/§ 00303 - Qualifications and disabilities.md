@@ -10,7 +10,7 @@ No director of class C shall be an officer, director, employee, or stockholder o
 
 #### Codification
 
-Section is comprised of pars. 13 to 15 of section 4 of act Dec. 23, 1913. For classification to this title of otherpars. of section 4, see Codification note set out under section 301 of this title.
+Section is comprised of pars. 13 to 15 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. of section 4, see Codification note set out under section 301 of this title.
 
 #### Change of Name
 

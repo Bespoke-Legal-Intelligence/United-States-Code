@@ -32,7 +32,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(A) directly;
 
-&emsp;&emsp;(B) through grants, contracts, and cooperative agreements with institutions of higher education, regional educational laboratories, public and private organizations, institutions, agencies, and individuals, or a consortium thereof, which may include—
+&emsp;&emsp;(B) through grants, contracts, and cooperative agreements with institutions of highereducation, regional educational laboratories, public and private organizations, institutions, agencies, and individuals, or a consortium thereof, which may include—
 
 &emsp;&emsp;&emsp;(i) grants to support research and development centers which are—
 
@@ -204,7 +204,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;(xiv) the use of technology in learning, teaching and testing; and
 
-&emsp;&emsp;&emsp;(xv) other topics relevant to the mission of the institute;<sup>1</sup>
+&emsp;&emsp;&emsp;(xv) other topics relevant to the mission of the institute; <sup>1</sup>
 
 &emsp;&emsp;(B) conduct basic and applied research in the areas of human learning, cognition, and performance, including research and development on the education contexts which promote excellence in learning and instruction, and motivational issues related to learning;
 
@@ -262,7 +262,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 #### (2) Purpose
 
-&emsp;It shall be the purpose of the Institute on the Education of At-Risk Students to carryout a coordinated and comprehensive program of research and development to provide nonpartisan, research-based leadership to the United States as it seeks to improve educational opportunities for at-risk students. Such program shall—
+&emsp;It shall be the purpose of the Institute on the Education of At-Risk Students to carry out a coordinated and comprehensive program of research and development to provide nonpartisan, research-based leadership to the United States as it seeks to improve educational opportunities for at-risk students. Such program shall—
 
 &emsp;&emsp;(A) undertake research necessary to provide a sound basis from which to identify, develop, evaluate, and assist others to replicate and adapt interventions, programs, and models which promote greater achievement and educational success by at-risk students, such as—
 
@@ -276,7 +276,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;(v) methods to improve the quality of the education of American Indian and Alaska Native students not only in schools funded by the Bureau, but also in public elementary and secondary schools located on or near Indian reservations, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) research on mechanisms to facilitate the establishment of tribal departments of education that assume responsibility for all education programs of State educational agencies operating on an Indian reservation and all education programs funded by the Bureau on an Indian reservation;
+&emsp;&emsp;&emsp;&emsp;(I) research on mechanisms to facilitate the establishment of tribal departments of education that assume responsibility for all education programs of State educational agencies operating onan Indian reservation and all education programs funded by the Bureau on an Indian reservation;
 
 &emsp;&emsp;&emsp;&emsp;(II) research on the development of culturally appropriate curriculum for American Indian and Alaska Native students, including American Indian and Alaska Native culture, language, geography, history and social studies, and graduation requirements related to such curriculum;
 
@@ -316,7 +316,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(B) Early intervention for disadvantaged children from birth to age five has been shown to be a highly cost-effective strategy for reducing later expenditures on a wide variety of health, developmental, and educational problems that often interfere with learning. Long-term studies of the benefits of preschool education have a demonstrated return on investment ranging from three to six dollars for every one dollar spent.
 
-&emsp;&emsp;(C) The Federal Government should play a central role in providing research-based information on early childhood educationmodels which enhance children's development and ultimately their success in school.
+&emsp;&emsp;(C) The Federal Government should play a central role in providing research-based information on early childhood education models which enhance children's development and ultimately their success in school.
 
 #### (2) Purpose
 
@@ -382,7 +382,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(A) open enrollment programs, public school choice, magnet schools and other systems through which parents may select the public schools and educational programs in which their children are enrolled;
 
-&emsp;&emsp;(B) innovative school design, including lengthening the school day and the school year, reducing class size and building professional development into the weekly school schedule and, as appropriate, conducting such further research as may be recommended or suggested by the report issued by the National Education Commission on Time and Learning pursuant to section 102 of the Education Council Act of 1991 (20 U.S.C. 1221 1 note);
+&emsp;&emsp;(B) innovative school design, including lengthening the school day and the school year, reducing class size and building professional development into the weekly school schedule and, as appropriate, conducting such further research as may be recommended or suggested by the report issued by the National Education Commission on Time and Learning pursuant to section 102 of the Education Council Act of 1991 (20 U.S.C. 1221–1 note);
 
 &emsp;&emsp;(C) effective approaches to organizing learning;
 
@@ -548,13 +548,13 @@ The Assistant Secretary shall promote and provide for research syntheses and the
 
 The National Institute on the Education of At-Risk Students, the National Institute on Educational Governance, Finance, Policy-Making, and Management, the National Institute on Early Childhood Development and Education, the National Institute on Student Achievement, Curriculum, and Assessment and the National Institute on Postsecondary Education, Libraries, and Lifelong Learning shall each be established on October 1, 1995.
 
-(Pub. L. 103 227, title IX, §931, Mar. 31, 1994, 108 Stat. 227.)
+(Pub. L. 103–227, title IX, §931, Mar. 31, 1994, 108 Stat. 227.)
 
 #### References in Text
 
-Section 102 of the Education Council Act of 1991, referred to in subsec. (g)(2)(B), is section 102 of Pub. L. 102 62, which is set out as a note under section 1221 1 of this title.
+Section 102 of the Education Council Act of 1991, referred to in subsec. (g)(2)(B), is section 102 of Pub. L. 102–62, which is set out as a note under section 1221–1 of this title.
 
-The Higher Education Act of 1965, referred to in subsec. (h)(2)(B)(xvii)(I), is Pub. L. 89 329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (h)(2)(B)(xvii)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

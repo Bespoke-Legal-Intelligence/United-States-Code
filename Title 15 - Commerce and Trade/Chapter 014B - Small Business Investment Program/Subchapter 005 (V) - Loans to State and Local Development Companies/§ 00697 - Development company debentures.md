@@ -22,9 +22,15 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(4) the aggregate amount of such debenture does not exceed the amount of loans to be made from the proceeds of such debenture (other than any excess attributable to the administrative costs of such loans);
 
-&emsp;(5) the amount of any loan to be made from such proceeds does not exceed an amount equal to 50 percent of the cost of the project with respect to which such loan is made; and
+&emsp;(5) the amount of any loan to be made from such proceeds does not exceed an amount equal to 50 percent of the cost of the project with respect to which such loan is made;
 
-&emsp;(6) the Administration approves each loan to be made from such proceeds.
+&emsp;(6) the Administration approves each loan to be made from such proceeds; and
+
+&emsp;(7) with respect to each loan made from the proceeds of such debenture, the Administration—
+
+&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount equal to 0.125 percent per year of the outstanding balance of the loan; and
+
+&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (c) Commercial loan interest rate
 
@@ -52,9 +58,11 @@ The Administration may impose an additional charge for administrative expenses w
 
 (3) Notwithstanding any other provision of law, qualified State or local development companies shall be authorized to prepare applications for deferred participation loans under section 636(a) of this title, to service such loans and to charge a reasonable fee for servicing such loans.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184.)
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297.)
 
 #### Amendments
+
+1995—Subsec. (b)(7). Pub. L. 104–36 added par. (7).
 
 1994—Subsec. (c) to (e). Pub. L. 103–403 made technical amendment to Pub. L. 100–590, §112(c). See 1988 Amendment note below.
 
@@ -69,6 +77,10 @@ Subsec. (d). Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended
 Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For purposes of” for “For purposes of”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–36 inapplicable to loans made or guaranteed under Small Business Act or Small Business Investment Act of 1958 before Oct. 12, 1995, unless such loans are refinanced, extended, restructured, or renewed on or after Oct. 12, 1995, see section 8 of Pub. L. 104–36, set out as a note under section 634 of this title.
 
 #### Termination Date of 1988 Amendment
 

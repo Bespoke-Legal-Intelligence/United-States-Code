@@ -26,7 +26,7 @@ If a State educational agency elects not to participate in the program authorize
 
 The Secretary shall not award more than one grant and State educational agencies shall not award more than one subgrant under this part to support a particular charter school.
 
-(Pub. L. 89 10, title X, §10302, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3825.)
+(Pub. L. 89–10, title X, §10302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3825.)
 
 #### Section Referred to in Other Sections
 

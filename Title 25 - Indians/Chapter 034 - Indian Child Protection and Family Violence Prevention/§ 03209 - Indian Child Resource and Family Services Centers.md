@@ -48,15 +48,19 @@ Indian Child Resource and Family Services Centers established under subsection (
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, §410, Nov. 28, 1990, 104 Stat. 4552.)
+(Pub. L. 101–630, title IV, §410, Nov. 28, 1990, 104 Stat. 4552; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (f), was in the original “this Act” and was translated as reading “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title IV to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Amendments
+
+1995—Subsec. (h). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
 #### Termination of Advisory Boards
 

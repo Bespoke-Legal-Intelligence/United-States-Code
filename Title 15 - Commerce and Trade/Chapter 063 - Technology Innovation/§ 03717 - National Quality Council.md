@@ -2,7 +2,7 @@
 
 #### (a) Establishment and functions
 
-There is established a National Quality Council (hereafter in this section referred to as the“Council”). The functions of the Council shall be—
+There is established a National Quality Council (hereafter in this section referred to as the “Council”). The functions of the Council shall be—
 
 &emsp;(1) to establish national goals and priorities for Quality performance in business, education, government, and all other sectors of the Nation;
 
@@ -36,7 +36,7 @@ The Council shall consist of not less than 17 or more than 20 members, appointed
 
 &emsp;(10) one representative from the Department of Defense;
 
-&emsp;(11) one representative from a civilian Federal agency not otherwise represented on the Council, to be rotated among such agencies every 2 years; and
+&emsp;(11) one representative from a civilian Federal agency not otherwise represented on theCouncil, to be rotated among such agencies every 2 years; and
 
 &emsp;(12) one representative from the Foundation for the Malcolm Baldrige National Quality Award.
 
@@ -74,11 +74,11 @@ The Council shall annually submit to the President and the Congress a comprehens
 
 &emsp;(5) any other information or recommendations the Council considers appropriate.
 
-(Pub. L. 102 245, title V, §507, Feb. 14, 1992, 106 Stat. 27.)
+(Pub. L. 102–245, title V, §507, Feb. 14, 1992, 106 Stat. 27.)
 
 #### References in Text
 
-This Act, referred to in subsec. (f), is Pub. L. 102 245, Feb. 14, 1992, 106 Stat. 7, known as the American Technology Preeminence Act of 1991. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 3701 of this title and Tables.
+This Act, referred to in subsec. (f), is Pub. L. 102–245, Feb. 14, 1992, 106 Stat. 7, known as the American Technology Preeminence Act of 1991. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 3701 of this title and Tables.
 
 #### Codification
 

@@ -4,7 +4,7 @@
 
 A State shall be eligible to receive a grant under this part if—
 
-&emsp;(1) the State submits to the Secretary as part of its application under section 209<sup>1</sup> such information and assurances as the Secretary may require at such time as the Secretary shall establish; and
+&emsp;(1) the State submits to the Secretary as part of its application under section 209 <sup>1</sup> such information and assurances as the Secretary may require at such time as the Secretary shall establish; and
 
 &emsp;(2) the Secretary approves such application.
 
@@ -18,11 +18,11 @@ The Secretary shall require each application to include—
 
 &emsp;(3) an assurance that the State will, to the extent possible, assist local school districts in economically depressed areas to obtain matching funds from business concerns.
 
-(Pub. L. 98 377, title III, §323, as added Pub. L. 100 418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
+(Pub. L. 98–377, title III, §323, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
 #### References in Text
 
-Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98 377, title II, Aug. 11, 1984, 98 Stat. 1279, as amended, which was classified to section 3969 of this title prior to repeal by Pub. L. 100 297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, as amended, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,5 +8,5 @@ The Secretary is authorized to make grants to eligible recipients having applica
 
 Grants awarded under this section may be for a period of 5 years.
 
-(Pub. L. 88 210, title III, §363, as added Pub. L. 101 392, title III, §310, Sept. 25, 1990, 104 Stat. 794.)
+(Pub. L. 88–210, title III, §363, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 794.)
 

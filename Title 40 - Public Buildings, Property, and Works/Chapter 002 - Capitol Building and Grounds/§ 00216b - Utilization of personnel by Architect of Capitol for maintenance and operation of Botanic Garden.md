@@ -1,6 +1,6 @@
 ### §216b. Utilization of personnel by Architect of Capitol for maintenance and operation of Botanic Garden
 
-On and after December 27, 1974, with the approval of the Joint Committee on the Library, the Architect of the Capitol may utilize personnel paid from appropriations under his control for performance of administrative and clerical duties in connection with the maintenance and operation of the United States Botanic Garden, to such extent as he may deem feasible.
+On and after December 27, 1974, with the approval of the Joint Committee on the Library, the Architect of the Capitol may utilize personnel paid from appropriations under his control for performance of administrative and clerical duties in connection with the maintenance andoperation of the United States Botanic Garden, to such extent as he may deem feasible.
 
 (Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777.)
 

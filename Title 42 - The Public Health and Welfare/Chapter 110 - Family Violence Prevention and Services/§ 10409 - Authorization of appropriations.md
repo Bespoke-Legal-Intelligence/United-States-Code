@@ -26,7 +26,7 @@ Of the amounts appropriated under subsection (a) of this section for each fiscal
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment,text read as follows: “There are authorized to be appropriated to carry out the provisions of sections 10402 through 10408 of this title and section 10413 of this title, $60,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.”
+1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of sections 10402 through 10408 of this title and section 10413 of this title, $60,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.”
 
 1992—Pub. L. 102–295 amended section generally. Prior to amendment, section read as follows:
 

@@ -118,11 +118,11 @@ As used in this section—
 
 &emsp;If the Commission determines to require the database mechanism described in paragraph (3), the Commission shall—
 
-&emsp;&emsp;(A) in developing procedures for gaining access to the database, consider the different needs of telemarketers conducting business on a national, regional, State, or local level;
+&emsp;&emsp;(A) in developing procedures for gaining access to the database, consider the differentneeds of telemarketers conducting business on a national, regional, State, or local level;
 
 &emsp;&emsp;(B) develop a fee schedule or price structure for recouping the cost of such database that recognizes such differences and—
 
-&emsp;&emsp;&emsp;(i) reflect the relative costs of providing a national, regional, State, or local list ofphone numbers of subscribers who object to receiving telephone solicitations;
+&emsp;&emsp;&emsp;(i) reflect the relative costs of providing a national, regional, State, or local list of phone numbers of subscribers who object to receiving telephone solicitations;
 
 &emsp;&emsp;&emsp;(ii) reflect the relative costs of providing such lists on paper or electronic media; and
 
@@ -184,7 +184,7 @@ As used in this section—
 
 #### (2) State use of databases
 
-&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State orlocal authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
 #### (f) Actions by States
 

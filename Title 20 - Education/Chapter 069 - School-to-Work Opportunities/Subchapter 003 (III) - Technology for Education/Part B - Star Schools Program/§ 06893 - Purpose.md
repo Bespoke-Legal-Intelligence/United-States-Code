@@ -8,5 +8,5 @@ It is the purpose of this part to encourage improved instruction in mathematics,
 
 &emsp;(3) obtain technical assistance for the use of such facilities and instructional programming.
 
-(Pub. L. 89 10, title III, §3203, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3655.)
+(Pub. L. 89–10, title III, §3203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3655.)
 

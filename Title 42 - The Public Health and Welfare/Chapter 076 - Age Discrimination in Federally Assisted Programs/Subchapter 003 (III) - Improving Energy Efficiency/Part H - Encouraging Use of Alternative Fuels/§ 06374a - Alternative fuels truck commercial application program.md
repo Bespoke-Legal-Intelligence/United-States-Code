@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in cooperation with manufacturers of heavy duty engines and with other Federal agencies, shall establish a commercial application program to study the use of alternative fuels in heavy duty trucks and, if appropriate, other heavy duty applications.
+The Secretary, in cooperation with manufacturers of heavy duty engines and with otherFederal agencies, shall establish a commercial application program to study the use of alternative fuels in heavy duty trucks and, if appropriate, other heavy duty applications.
 
 #### (b) Funding
 

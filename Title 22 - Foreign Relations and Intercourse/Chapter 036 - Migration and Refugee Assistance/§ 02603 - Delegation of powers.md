@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Ex. Ord. No. 11077. Jan. 22, 1963, 28 F.R. 629, as amended by Ex. Ord. No. 11922, June 16, 1976, 41 F.R. 24573; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By virtue of the authority vested in me by the Migration and Refugee Assistance Act of 1962 (76 Stat.121–124; hereinafter referred to as the Act) \[this chapter\], and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Migration and Refugee Assistance Act of 1962 (76 Stat. 121–124; hereinafter referred to as the Act) \[this chapter\], and as President of the United States, it is ordered as follows:
 
 Section 1. <i>Department of State</i>. (a) The Secretary of State is hereby designated to perform the following:
 

@@ -54,13 +54,13 @@ This section incorporates only the last sentence of paragraph (b) of former sect
 
 #### Amendments
 
-1988—Pub. L. 100–365 substituted “appointment and tenure; meetings” for “appointment and tenure” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
+1988—Pub. L. 100–365 substituted “appointment and tenure; meetings” for “appointment and tenure” insection catchline, and amended text generally, revising and restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
 
 1984—Pub. L. 98–497 struck out “The authority of the Administrator of General Services under section 754 of title 40 to regroup, transfer, and distribute functions within the General Services Administration does not extend to the Commission or its functions.”
 
 1979—Pub. L. 96–98 inserted “and Records” after “Publications”.
 
-1974—Pub. L. 93–536 inserted provision relating to appointment and term of two members of Society ofAmerican Archivists, and two members of American Association for State and Local History.
+1974—Pub. L. 93–536 inserted provision relating to appointment and term of two members of Society of American Archivists, and two members of American Association for State and Local History.
 
 1972—Pub. L. 92–546 provided for two additional members of the Organization of American Historians to be appointed for terms of four years by Executive Board of Organization, one to be appointed for a term of two years and his successors for a term of four years.
 

@@ -38,5 +38,5 @@ Pensions for persons on Medal of Honor Roll, see section 1560 et seq. of Title 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3748 of this title.
+This section is referred to in section 3748 of this title; title 18 section 704.
 

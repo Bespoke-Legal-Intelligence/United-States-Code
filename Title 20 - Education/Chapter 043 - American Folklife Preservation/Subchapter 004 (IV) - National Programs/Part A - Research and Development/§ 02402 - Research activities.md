@@ -52,37 +52,37 @@ The Secretary shall give preference in carrying out the provisions of this part 
 
 The Secretary shall institute measures designed to ensure that program improvement activities carried out under this section represent a coordinated effort to improve the quality of vocational education.
 
-(Pub. L. 88 210, title IV, §402, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2466; amended Pub. L. 101 392, title IV, §403, Sept. 25, 1990, 104 Stat. 806.)
+(Pub. L. 88–210, title IV, §402, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2466; amended Pub. L. 101–392, title IV, §403, Sept. 25, 1990, 104 Stat. 806.)
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101 392, §403(1)(A), substituted “Office of Educational Research and Improvement” for “National Institute of Education or any other division of the Department of Education which the Secretary determines to be appropriate”.
+1990—Subsec. (a). Pub. L. 101–392, §403(1)(A), substituted “Office of Educational Research and Improvement” for “National Institute of Education or any other division of the Department of Education which the Secretary determines to be appropriate”.
 
-Subsec. (a)(1). Pub. L. 101 392, §403(1)(B), substituted “single parents, displaced homemakers, single pregnant women” for “individuals who are single parents or homemakers”.
+Subsec. (a)(1). Pub. L. 101–392, §403(1)(B), substituted “single parents, displaced homemakers, single pregnant women” for “individuals who are single parents or homemakers”.
 
-Subsec. (a)(2) to (4). Pub. L. 101 392, §403(1)(E), (G), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively. Former par. (4) redesignated (6).
+Subsec. (a)(2) to (4). Pub. L. 101–392, §403(1)(E), (G), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively. Former par. (4) redesignated (6).
 
-Subsec. (a)(5). Pub. L. 101 392, §403(1)(C), (E), redesignated par. (3) as (5) and struck out former par. (5) which required research to include development of curriculum materials and instructional methods relating to new and emerging technologies, and assessments of nature of change in the workplace and its effect on individual jobs.
+Subsec. (a)(5). Pub. L. 101–392, §403(1)(C), (E), redesignated par. (3) as (5) and struck out former par. (5) which required research to include development of curriculum materials and instructional methods relating to new and emerging technologies, and assessments of nature of change in the workplace and its effect on individual jobs.
 
-Subsec. (a)(6). Pub. L. 101 392, §403(1)(C), (D), (H), redesignated par. (4) as (6), substituted “basic and more advanced academic and problem-solving” for “basic academic”, and struck out former par. (6) which required research to include identification of institutional characteristics which improve preparation of youth and adults for employment.
+Subsec. (a)(6). Pub. L. 101–392, §403(1)(C), (D), (H), redesignated par. (4) as (6), substituted “basic and more advanced academic and problem-solving” for “basic academic”, and struck out former par. (6) which required research to include identification of institutional characteristics which improve preparation of youth and adults for employment.
 
-Subsec. (a)(7). Pub. L. 101 392, §403(1)(I), added par. (7). Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 101–392, §403(1)(I), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 101 392, §403(1)(F), redesignated par. (7) as (8).
+Subsec. (a)(8). Pub. L. 101–392, §403(1)(F), redesignated par. (7) as (8).
 
-Subsec. (b). Pub. L. 101 392, §403(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition, the Secretary shall—
+Subsec. (b). Pub. L. 101–392, §403(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition, the Secretary shall—
 
-&emsp;“(1) initiate leadership development and inservice education activities for State and local vocational education instructors, counselors, and administrators; and
+&emsp;“(1) initiate leadership development and inservice education activities for State and local vocationaleducation instructors, counselors, and administrators; and
 
 &emsp;“(2) support meritorious, unsolicited research proposals from individual researchers community colleges, State advisory councils, and State and local educators relating to the goals of this chapter.”
 
-Subsecs. (c), (d). Pub. L. 101 392, §403(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 101–392, §403(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 101 392, §403(3), (5), (6), redesignated subsec. (d) as (e), struck out par. (1) designation, and struck out par. (2) which read as follows: “The Secretary shall include in the annual report of the Secretary a summary of activities funded under this section, together with an appraisal of their contributions to the improvement and expansion of vocational education.”
+Subsec. (e). Pub. L. 101–392, §403(3), (5), (6), redesignated subsec. (d) as (e), struck out par. (1) designation, and struck out par. (2) which read as follows: “The Secretary shall include in the annual report of the Secretary a summary of activities funded under this section, together with an appraisal of their contributions to the improvement and expansion of vocational education.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

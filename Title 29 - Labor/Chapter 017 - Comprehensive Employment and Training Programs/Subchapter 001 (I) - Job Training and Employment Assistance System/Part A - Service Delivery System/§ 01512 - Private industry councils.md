@@ -44,7 +44,7 @@ The Chairman of the council shall be selected from among members of the council 
 
 (1) In any case in which there is only one unit of general local government with experience in administering job training programs within the service delivery area, the chief elected official of that unit shall appoint members to the council from the individuals nominated or recommended under subsection (c) of this section.
 
-(2) In any case in which there are two or more such units of general local government in theservice delivery area, the chief elected officials of such units shall appoint members to the council from the individuals so nominated or recommended in accordance with an agreement entered into by such units of general local government. In the absence of such an agreement, the appointments shall be made by the Governor from the individuals so nominated or recommended.
+(2) In any case in which there are two or more such units of general local government in the service delivery area, the chief elected officials of such units shall appoint members to the council from the individuals so nominated or recommended in accordance with an agreement entered into by such units of general local government. In the absence of such an agreement, the appointments shall be made by the Governor from the individuals so nominated or recommended.
 
 #### (e) Number of members
 
@@ -60,7 +60,7 @@ The initial number of members of the council shall be determined—
 
 #### (f) Terms of office; removal for cause
 
-Members shall be appointed for fixed and staggered terms and may serve until their successors are appointed. Any vacancy in the membership of the council shall be filled in the same manner as the original appointment. Any member of the council may be removed for cause in accordance with procedures established by the council.
+Members shall be appointed for fixed and staggered terms and may serve until their successors are appointed. Any vacancy in the membership of the council shall be filled in the samemanner as the original appointment. Any member of the council may be removed for cause in accordance with procedures established by the council.
 
 #### (g) Certification
 

@@ -124,7 +124,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (6) Basis, holding period, and character of assets
 
-&emsp;In the case of any asset acquired (other than by sale or exchange) by the estate from thedebtor, the basis, holding period, and character it had in the hands of the debtor.
+&emsp;In the case of any asset acquired (other than by sale or exchange) by the estate from the debtor, the basis, holding period, and character it had in the hands of the debtor.
 
 #### (7) Method of accounting
 
@@ -200,7 +200,7 @@ Part IV of subchapter A, referred to in subsec. (j)(2)(C)(i), probably means par
 
 1986—Subsec. (c). Pub. L. 99–514, §104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
 
-Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate's zero bracket amount” in text.
+Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which doesnot itemize deductions, the basic standard deduction for the estate” for “The amount of the estate's zero bracket amount” in text.
 
 Subsec. (d)(2)(B). Pub. L. 99–514, §1301(j)(8), substituted “section 7703” for “section 143”.
 

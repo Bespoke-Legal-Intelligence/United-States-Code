@@ -1,4 +1,4 @@
-### §460uu–43 . State exchanges of lands and interests
+### §460uu–43. State exchanges of lands and interests
 
 (a) Upon the request of the State of New Mexico (hereinafter referred to as the “State”) and pursuant to the provisions of this section, the Secretary shall exchange public lands or interests in lands elsewhere in the State of New Mexico, of approximately equal value and selected by the State, acting through its Commissioner of Public Lands, for any lands or interests therein owned by the State (hereinafter referred to as “State lands”) located within the boundaries of the monument or the conservation area which the State wishes to exchange with the United States.
 

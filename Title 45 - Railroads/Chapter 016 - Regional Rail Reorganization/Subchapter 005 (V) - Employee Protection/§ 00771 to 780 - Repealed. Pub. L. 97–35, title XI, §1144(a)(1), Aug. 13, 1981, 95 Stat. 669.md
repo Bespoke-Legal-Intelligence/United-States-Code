@@ -30,13 +30,13 @@ Pub. L. 97–35, title XI, §1144(a)(2)–(4), Aug. 13, 1981, 95 Stat. 669, prov
 
 &emsp;“(B) any dispute or controversy regarding such benefits shall be determined under the terms of the law in effect on the date the claim arose.
 
-“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for such benefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
+“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for suchbenefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
 
 “(4) The provisions of this subsection shall take effect on the first day of the first month beginning after the date of enactment of this subtitle \[Aug. 13, 1981\].”
 
 #### Employee Protection Payments Under Former Provisions; Reimbursement
 
-Pub. L. 96–448, title V, §507, Oct. 14, 1980, 94 Stat. 1956, provided that notwithstanding any other provision of law, the Consolidated Rail Corporation and other employers with employees protected under this subchapter, until the effective date of Pub. L. 96–448 \[probably means Oct. 1, 1980, see section 710 of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation\], continue to make payments for employee protection under such Act, \[probably means this subchapter\] in accordance with the provisions of such Act \[probably means this subchapter\], which were in effect on Jan. 1, 1979, and that notwithstanding any other provision of law, such Corporation and employers be reimbursed for such payments in accordance with former section 779(a) of this title.
+Pub. L. 96–448, title V, §507, Oct. 14, 1980, 94 Stat. 1956, provided that notwithstanding any other provision of law, the Consolidated Rail Corporation and other employers with employees protected under this subchapter, until the effective date of Pub. L. 96–448 \[probably means Oct. 1, 1980, see section 710 of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy\], continue to make payments for employee protection under such Act, \[probably means this subchapter\] in accordance with the provisions of such Act \[probably means this subchapter\], which were in effect on Jan. 1, 1979, and that notwithstanding any other provision of law, such Corporation and employers be reimbursed for such payments in accordance with former section 779(a) of this title.
 
 #### Conrail Employee Protection
 

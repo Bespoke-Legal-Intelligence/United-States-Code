@@ -6,7 +6,7 @@
 
 &emsp;A local educational agency shall be eligible for a grant under this subpart for any fiscal year if the number of Indian children eligible under section 7816 of this title and who were enrolled in the schools of the agency, and to whom the agency provided free public education, during the preceding fiscal year—
 
-&emsp;&emsp;(A) was at least 10; and
+&emsp;&emsp;(A) was at least 10; or
 
 &emsp;&emsp;(B) constituted not less than 25 percent of the total number of individuals enrolled in the schools of such agency.
 
@@ -24,7 +24,11 @@
 
 &emsp;The Secretary shall treat each Indian tribe applying for a grant pursuant to paragraph (1) as if such Indian tribe were a local educational agency for purposes of this subpart.
 
-(Pub. L. 89 10, title IX, §9112, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3774.)
+(Pub. L. 89–10, title IX, §9112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774; amended Pub. L. 104–5, §1, Mar. 23, 1995, 109 Stat. 72.)
+
+#### Amendments
+
+1995—Subsec. (a)(1)(A). Pub. L. 104–5 substituted “or” for “and” at end.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) long periods to complete the foreclosure of these mortgages under certain State laws lead to deterioration in the condition of the properties involved; necessitate substantial Federal management and holding expenditures; increase the risk of vandalism, fire loss, depreciation, damage, and waste with respect to the properties; and adversely affect the residents of the projects and the neighborhoods in which the properties are located;
 
-&emsp;(3) these conditions seriously impair the Secretary's ability to protect the Federal financial interest in the affected properties and frustrate attainment of the objectives of the underlying Federal program authorities, aswell as the national housing goal of “a decent home and a suitable living environment for every American family”;
+&emsp;(3) these conditions seriously impair the Secretary's ability to protect the Federal financial interest in the affected properties and frustrate attainment of the objectives of the underlying Federal program authorities, as well as the national housing goal of “a decent home and a suitable living environment for every American family”;
 
 &emsp;(4) application of State redemption periods to these mortgages following their foreclosure would impair the salability of the properties involved and discourage their rehabilitation and improvement, thereby compounding the problems referred to in clause (3);
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–550, §517(a)(1), substituted “multifamily mortgages” for “real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
+1992—Subsec. (a)(1). Pub. L. 102–550, §517(a)(1), substituted “multifamily mortgages” for “real estatemortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties”.
 
 Subsec. (b). Pub. L. 102–550, §517(a)(2), substituted “multifamily mortgages” for “multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964”.
 

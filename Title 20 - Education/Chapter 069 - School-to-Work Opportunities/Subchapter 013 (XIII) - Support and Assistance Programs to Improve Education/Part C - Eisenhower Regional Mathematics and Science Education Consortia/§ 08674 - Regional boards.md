@@ -8,7 +8,7 @@ Each eligible entity receiving a grant or contract under this part shall establi
 
 No Federal funds may be used for the establishment or operation of a regional board required by subsection (a) of this section, except that at the discretion of a regional board, Federal funds may be used to provide assistance such as travel and accommodations for board members who could not otherwise afford to participate as members of the board.
 
-(Pub. L. 89 10, title XIII, §13304, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3885.)
+(Pub. L. 89–10, title XIII, §13304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885.)
 
 #### Section Referred to in Other Sections
 

@@ -6,5 +6,5 @@ Prior to the approval of any Federal undertaking outside the United States which
 
 #### Codification
 
-Section was enacted as part of the National Historic Preservation Act Amendments of 1980, and not as partof the National Historic Preservation Act, Pub. L. 89–665, which is classified generally to this subchapter.
+Section was enacted as part of the National Historic Preservation Act Amendments of 1980, and not as part of the National Historic Preservation Act, Pub. L. 89–665, which is classified generally to this subchapter.
 

@@ -1,4 +1,4 @@
-### §828 . Aircraft deemed public aircraft
+### §828. Aircraft deemed public aircraft
 
 Any aircraft, while assigned to authorized Coast Guard duty shall be deemed to be a vessel of the Coast Guard within the meaning of section 646 of this title.
 

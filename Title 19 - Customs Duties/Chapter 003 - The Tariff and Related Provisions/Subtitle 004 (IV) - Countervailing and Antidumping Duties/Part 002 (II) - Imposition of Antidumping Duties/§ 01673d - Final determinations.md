@@ -1,4 +1,4 @@
-### §1673d . Final determinations
+### §1673d. Final determinations
 
 #### (a) Final determination by administering authority
 

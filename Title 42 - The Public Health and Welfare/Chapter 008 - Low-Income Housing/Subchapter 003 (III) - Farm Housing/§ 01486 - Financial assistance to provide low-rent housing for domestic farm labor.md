@@ -138,7 +138,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (D) Occupant rent
 
-&emsp;&emsp;Each migrant farmworker and homeless individual residing in a facility assistedunder this subsection shall pay as rent an amount determined in accordance with the provisions of section 1437a(a) of this title.
+&emsp;&emsp;Each migrant farmworker and homeless individual residing in a facility assisted under this subsection shall pay as rent an amount determined in accordance with the provisions of section 1437a(a) of this title.
 
 #### (4) Guidelines
 
@@ -168,7 +168,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;(C) The term “migrant farmworker”—
 
-&emsp;&emsp;&emsp;(i) means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, without respect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
+&emsp;&emsp;&emsp;(i) means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, withoutrespect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
 
 &emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i) at the time of retirement or becoming disabled.
 

@@ -252,7 +252,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (h) So far as practicable and consistent with good administration, the eligibles on any register for attorney positions and appointments for such register shall be apportioned among the several States and Territories and the District of Columbia upon the basis of population as ascertained in the last preceding census. The Office shall certify to the appointing officer for each vacancy all the eligibles on the appropriate register except those whose appointment would, in the determination of the Board, be inconsistent with the apportionment policy herein prescribed. The appointing officer shall make selections for any vacancy or vacancies in attorney positions from the register so certified, with sole reference to merit and fitness.
 
-(i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16, 1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classifiedcivil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
+(i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16, 1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
 
 (j) The incumbent of any attorney position covered into the classified service by section 1 of this order may acquire a classified civil-service status in accordance with the provisions of Section 2(a) of the act of November 26, 1940 (54 Stat. 1211) or, in the discretion of the Board and when applicable, Section 6, of Civil Service Rule II: <i>Provided,</i> That the noncompetitive examination required thereunder shall be prescribed by the Office with the approval of the Board.
 
@@ -322,7 +322,7 @@ As used in these Rules:
 
 (b) In addition to the names of persons who qualify in competitive examinations, the names of persons who have lost eligibility on a career or career-conditional register because of service in the armed forces, and the names of persons who lost opportunity for certification or who have served under career or career-conditional appointment when the Office determines that they should be given certification, may also be entered at such places on appropriate registers and under such conditions as the Office may prescribe.
 
-(c) Whenever the Office of Personnel Management (1) is unable to certify a sufficient number of names to permit the appointing officer to consider three eligibles for appointment to a fourth-class postmaster position in accordance with the regular procedure, or (2) finds that a particular rate of compensation for fourth-class postmaster positions is too low to warrant regular competitive examinations for such positions, it may authorize appointment to any such position or positions in accordance with such procedure as may be prescribed by the Office. Persons appointed under this subsection may acquire competitive status subject to satisfactory completion of a probationary period prescribed by the Office.
+(c) Whenever the Office of Personnel Management (1) is unable to certify a sufficient number of names to permit the appointing officer to consider three eligibles for appointment to a fourth-class postmaster position in accordance with the regular procedure, or (2) finds that a particular rate of compensation for fourth-classpostmaster positions is too low to warrant regular competitive examinations for such positions, it may authorize appointment to any such position or positions in accordance with such procedure as may be prescribed by the Office. Persons appointed under this subsection may acquire competitive status subject to satisfactory completion of a probationary period prescribed by the Office.
 
 #### §2.2. Appointments
 
@@ -402,7 +402,7 @@ The Director may secure effective implementation of the civil service laws, rule
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on dutyand continue to receive pay pending adjudication of the appeal: <i>Provided,</i> That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided,</i> That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutorial jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 
@@ -468,7 +468,7 @@ Whenever the Office and any Federal agency having an established merit system de
 
 #### §6.8. Specified Exceptions
 
-(a) Positions in the Department of the Interior and in the Department of Commerce whose incumbents serveas the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule, and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.
+(a) Positions in the Department of the Interior and in the Department of Commerce whose incumbents serve as the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule, and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.
 
 (b) Positions in the Community Services Administration and ACTION \[now Corporation for National and Community Service\] whose incumbents serve as regional director or regional administrator shall be listed in Schedule C for grades not exceeding GS–15 of the General Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on November 29, 1977, in the competitive service shall not be affected by the foregoing provisions of this subsection.
 
@@ -486,7 +486,7 @@ Each agency shall report to the Office, in such manner and at such times as the 
 
 #### §7.3. Reemployment Rights
 
-The Office, whenever it determines it to be necessary, shall prescribe regulations governing the release of employees (both within the competitive service and the excepted service) by any agency in the executive branch of the Government for employment in any other agency, and governing the establishment, granting, and exercise of rights to reemployment in the agencies from which employees are released.
+The Office, whenever it determines it to be necessary, shall prescribe regulations governing the release of employees (both within the competitive service and the excepted service) by any agency in the executive branch of the Government for employment in any otheragency, and governing the establishment, granting, and exercise of rights to reemployment in the agencies from which employees are released.
 
 #### §7.4. Citizenship
 
@@ -572,7 +572,7 @@ This order shall become effective on the first Sunday after the sixtieth day aft
 
 #### Executive Order No. 10590
 
-Ex. Ord. No. 10590, Jan. 18, 1955, 20 F.R. 409, as amended by Ex. Ord. No. 10722, Aug. 7, 1957, 22 F.R. 6287; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971, which established the President's Committee on Government Employment Policy, was superseded by Ex. Ord. No. 11246, Sept. 24,1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 10590, Jan. 18, 1955, 20 F.R. 409, as amended by Ex. Ord. No. 10722, Aug. 7, 1957, 22 F.R. 6287; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971, which established the President's Committee on Government Employment Policy, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 10880
 
@@ -610,7 +610,7 @@ Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of
 
 #### Executive Order No. 11202
 
-Ex. Ord. No. 11202, Mar. 5, 1965, 30 F.R. 3185, which established career or career-conditional appointments for student trainees, was revoked by Ex. Ord. No. 11813, Oct. 7, 1974, 39 F.R. 36317, formerly set out as a note under this section.
+Ex. Ord. No. 11202, Mar. 5, 1965, 30 F.R. 3185, which established career or career-conditional appointments for student trainees, was revoked by Ex. Ord. No. 11813, Oct. 7, 1974, 39 F.R. 36317, formerly set out below.
 
 #### Ex. Ord. No. 11203. Career Appointments to Certain Qualified Employees of Treasury Department
 
@@ -706,7 +706,7 @@ Sec. 2. Civil Service Rule VI is amended in pertinent part as follows:
 
 #### Part II. Special Provisions for Transition to the Full Establishment of Executive Assignments Under Rule IX
 
-Sec. 3. <i>Effective dates</i>. This order, except section 1, is effective upon filing for publication in the Federal Register. Section 1 of this order is effective not later thanone year from the date of this order, or at such earlier dates as the Office of Personnel Management may specify for individual agencies or positions.
+Sec. 3. <i>Effective dates</i>. This order, except section 1, is effective upon filing for publication in the Federal Register. Section 1 of this order is effective not later than one year from the date of this order, or at such earlier dates as the Office of Personnel Management may specify for individual agencies or positions.
 
 Sec. 4. <i>Interim appointments</i>. After the date of this order and before Civil Service Rule IX has become effective as to a position, an appointing officer may fill the position in accordance with the appointment system in effect on the day of the appointment.
 
@@ -738,7 +738,7 @@ Sec. 5. <i>Conversion of incumbents</i>. On the day Civil Service Rule IX become
 
 #### Part III. Administration
 
-Sec. 6. <i>Office responsibilities</i>. The Office of Personnel Management is responsible to the President for the effective implementation and administration of the executive assignment system established by this Order. The Office shall continuously review operations under this system, shall recommend promptly to the President any changes that are necessary to improve this system, and shall report periodically to the President any significant developments in the operation of the system. The Office shall recommend to the President a program of special honors and awards for the recognition of persons assigned to Career Executive Assignments and a program for the development and training of persons assigned to Career Executive Assignments. The training program shall include the establishment of special training and educational facilities, and provide for the relevant use of outside training facilities.
+Sec. 6. <i>Office responsibilities</i>. The Office of Personnel Management is responsible to the President for the effective implementation and administration of the executive assignment system established by this Order. The Office shall continuously review operations under this system, shall recommend promptly to the President any changes that are necessary to improve this system, and shall report periodically to the President any significant developments in the operation of the system. The Office shall recommend to the President a program of special honors and awards for the recognition of persons assigned to Career Executive Assignments and a program for the development and training of persons assigned to Career Executive Assignments. The training program shall include the establishment of specialtraining and educational facilities, and provide for the relevant use of outside training facilities.
 
 Sec. 7. <i>Responsibilities of the agencies</i>. The head of each agency in which there are positions covered by Civil Service Rule IX shall periodically review with the Office of Personnel Management his plans for staffing. The head of a newly established agency shall initially review with the Office his plans for staffing as soon as practicable after the establishment of the agency. The head of each agency shall cooperate fully with the Office in the establishment of special facilities and special boards and panels that are required under Civil Service Rule IX as a means of recruiting persons of the highest quality.
 
@@ -750,7 +750,7 @@ Ex. Ord. No. 11598, June 16, 1971, 36 F.R. 11711, formerly set out as a note und
 
 #### Executive Order No. 11813
 
-Ex. Ord. No. 11813, Oct. 7, 1974, 39 F.R. 36317, which related to career or career-conditional appointments for cooperative education students, was revoked by Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, set out as a note below.
+Ex. Ord. No. 11813, Oct. 7, 1974, 39 F.R. 36317, which related to career or career-conditional appointments for cooperative education students, was revoked by Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, set out below.
 
 #### Ex. Ord. No. 11839. Amending the Civil Service Rules To Except Certain Positions in Regional Offices From the Career Service
 
@@ -826,7 +826,7 @@ Sec. 3. The Office of Personnel Management shall prescribe such regulations as m
 
 #### Executive Order No. 12008
 
-Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established a Presidential Management Intern Program, was revoked by Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, set out as a note below.
+Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established a Presidential Management Intern Program, was revoked by Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, set out below.
 
 #### Ex. Ord. No. 12015. Career or Career-Conditional Appointments in Competitive Service for Students Completing Approved Career-Related Work-Study Programs
 
@@ -860,7 +860,7 @@ By virtue of the authority vested in me by the Constitution of the United States
 
 Section 1. That portion of Section 6.8 of Civil Service Rule VI following the heading “Specified Exceptions.” (5 C.F.R. 6.8) is designated subsection (a) and a new subsection (b) is added as follows:
 
-“(b) Positions in the Community Services Administration and ACTION \[now Corporation for National and Community Service\] whose incumbents serve as regional director or regional administrator shall be listed in Schedule C for grades not exceeding GS–15 of theGeneral Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on November 29, 1977, in the competitive service shall not be affected by the foregoing provisions of this subsection.”.
+“(b) Positions in the Community Services Administration and ACTION \[now Corporation for National and Community Service\] whose incumbents serve as regional director or regional administrator shall be listed in Schedule C for grades not exceeding GS–15 of the General Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on November 29, 1977, in the competitive service shall not be affected by the foregoing provisions of this subsection.”.
 
 Sec. 2. That portion of Section 9.11 of Civil Service Rule IX following the heading “Career Executive Assignments; selection and assignment.” (5 C.F.R. 9.11) is designated subsection (a) and a new subsection (b) is added as follows:
 
@@ -942,7 +942,7 @@ Sec. 3. (a) The Office of Personnel Management shall provide specific guidance a
 
 (1) The number of new Presidential Management Interns selected shall not exceed four hundred in any fiscal year.
 
-(2) Final placement of Presidential Management Interns shall be made by the head of the department,agency, or component within the Executive Office of the President in which the Intern is to be employed, or by the designee thereof.
+(2) Final placement of Presidential Management Interns shall be made by the head of the department, agency, or component within the Executive Office of the President in which the Intern is to be employed, or by the designee thereof.
 
 (3) Universities and colleges participating in the Program shall make nominations for the Program. In making nominations, they shall establish competitive selection processes and procedures to ensure that all applicants receive careful and thorough review.
 
@@ -1020,7 +1020,7 @@ Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commissionshall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
+Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
 Sec. 2. <i>Functions</i>. (a) The Commission shall meet from time to time at the request of the Chairperson and shall consider ways to enhance the public service in American life, including:
 

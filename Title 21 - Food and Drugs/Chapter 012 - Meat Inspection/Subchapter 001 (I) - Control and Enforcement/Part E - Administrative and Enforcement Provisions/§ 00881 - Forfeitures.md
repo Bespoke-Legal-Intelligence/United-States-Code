@@ -34,7 +34,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 #### (b) Seizure pursuant to Supplemental Rules for Certain Admiralty and Maritime Claims; issuance of warrant authorizing seizure
 
-Any property subject to civil forfeiture to the United States under this subchapter may be seized by the Attorney General upon process issued pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims by anydistrict court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
+Any property subject to civil forfeiture to the United States under this subchapter may be seized by the Attorney General upon process issued pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
 
 &emsp;(1) the seizure is incident to an arrest or a search under a search warrant or an inspection under an administrative inspection warrant;
 
@@ -100,7 +100,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (4)(A) With respect to real property described in subparagraph (B), if the chief executive officer of the State involved submits to the Attorney General a request for purposes of such subparagraph, the authority established in such subparagraph is in lieu of the authority established in paragraph (1)(B).
 
-(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historic purposes or for the preservation of natural conditions, the Attorney General, upon the request of the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
+(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historicpurposes or for the preservation of natural conditions, the Attorney General, upon the request of the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
 
 &emsp;(i) such use will be the principal use of the property; and
 
@@ -230,7 +230,7 @@ Section 6077(c) of Pub. L. 100–690, as amended by Pub. L. 101–162, title II,
 
 #### Transfer of Functions
 
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorizeperformance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 #### Constructive Seizure Procedures
 

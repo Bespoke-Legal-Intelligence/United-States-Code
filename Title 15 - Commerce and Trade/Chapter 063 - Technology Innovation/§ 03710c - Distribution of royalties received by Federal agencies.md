@@ -30,7 +30,7 @@
 
 > Any of such funds not so used or obligated by the end of the fiscal year succeeding the fiscal year in which they are received shall be paid into the Treasury of the United States.
 
-(2) If, after payments to inventors under paragraph (1), the royalties received by an agency in any fiscal year exceed 5 percent of the budget of the Government-operated laboratories of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the UnitedStates and the remaining 25 percent may be used or obligated for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year. Any funds not so used or obligated shall be paid into the Treasury of the United States.
+(2) If, after payments to inventors under paragraph (1), the royalties received by an agency in any fiscal year exceed 5 percent of the budget of the Government-operated laboratories of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year. Any funds not so used or obligated shall be paid into the Treasury of the United States.
 
 (3) Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which he is otherwise entitled or for which he is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory or agency. Payments made under this section shall not exceed $100,000 per year to any one person, unless the President approves a larger award (with the excess over $100,000 being treated as a Presidential award under section 4504 of title 5).
 
@@ -42,7 +42,7 @@ If the invention involved was one assigned to the Federal agency—
 
 &emsp;(1) by a contractor, grantee, or participant in a cooperative agreement with the agency, or
 
-&emsp;(2) by an employee of the agency who was not working in the laboratory at the time the inventon<sup>1</sup> was made,
+&emsp;(2) by an employee of the agency who was not working in the laboratory at the time the inventon <sup>1</sup> was made,
 
 > the agency unit that was involved in such assignment shall be considered to be a laboratory for purposes of this section.
 
@@ -52,31 +52,31 @@ If the invention involved was one assigned to the Federal agency—
 
 (2) The Comptroller General, five years after October 20, 1986, shall review the effectiveness of the various royalty-sharing programs established under this section and report to the appropriate committees of the House of Representatives and the Senate, in a timely manner, his findings, conclusions, and recommendations for improvements in such programs.
 
-(Pub. L. 96 480, §14, as added, renumbered §13, and amended Pub. L. 99 502, §§7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §14 and amended Pub. L. 100 418, title V, §§5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100 519, title III, §303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101 189, div. C, title XXXI, §3133(c), Nov. 29, 1989, 103 Stat. 1677.)
+(Pub. L. 96–480, §14, as added, renumbered §13, and amended Pub. L. 99–502, §§7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §14 and amended Pub. L. 100–418, title V, §§5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, §303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(c), Nov. 29, 1989, 103 Stat. 1677.)
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101 189, §3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
+1989—Subsec. (a)(1). Pub. L. 101–189, §3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 101 189, §3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
+Subsec. (a)(1)(B)(ii). Pub. L. 101–189, §3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
 
-Subsec. (a)(1)(B)(iv). Pub. L. 101 189, §3133(c)(3), substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
+Subsec. (a)(1)(B)(iv). Pub. L. 101–189, §3133(c)(3), substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
 
-1988—Subsec. (a)(1)(A)(i). Pub. L. 100 519, §303(a)(1), substituted “has assigned his or her rights in the invention to the United States” for “was an employee of the agency at the time the invention was made”.
+1988—Subsec. (a)(1)(A)(i). Pub. L. 100–519, §303(a)(1), substituted “has assigned his or her rights in the invention to the United States” for “was an employee of the agency at the time the invention was made”.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 100 519, §303(a)(2), substituted “under clause (i)” for “who were employed by the agency at the time the invention was made and whose names appear on licensed inventions”.
+Subsec. (a)(1)(A)(ii). Pub. L. 100–519, §303(a)(2), substituted “under clause (i)” for “who were employed by the agency at the time the invention was made and whose names appear on licensed inventions”.
 
-Subsec. (a)(4). Pub. L. 100 418, §5162(a), substituted “may” for “shall” and “any invention of the other agency” for “such invention performed at the request of the other agency or laboratory” in first sentence.
+Subsec. (a)(4). Pub. L. 100–418, §5162(a), substituted “may” for “shall” and “any invention of the other agency” for “such invention performed at the request of the other agency or laboratory” in first sentence.
 
-1986—Subsec. (a)(1). Pub. L. 99 502, §9(e)(3), in introductory par. made technical amendment to reference to section 3710a of this title to reflect renumbering of corresponding section of original act.
+1986—Subsec. (a)(1). Pub. L. 99–502, §9(e)(3), in introductory par. made technical amendment to reference to section 3710a of this title to reflect renumbering of corresponding section of original act.
 
 #### Effective Date of 1988 Amendment
 
-Section 303(b) of Pub. L. 100 519 provided that: “This section \[amending this section\] shall be effective as of October 20, 1986.”
+Section 303(b) of Pub. L. 100–519 provided that: “This section \[amending this section\] shall be effective as of October 20, 1986.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3704b, 3710a, 3714 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “invention”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “invention”.</i>
 

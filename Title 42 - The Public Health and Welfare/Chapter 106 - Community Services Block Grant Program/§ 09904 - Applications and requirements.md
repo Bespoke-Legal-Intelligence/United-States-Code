@@ -70,7 +70,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(8) provide for coordination between antipoverty programs in each community, where appropriate, with emergency energy crisis intervention programs under subchapter II of chapter 94 of this title (relating to low-income home energy assistance) conducted in such community;
 
-&emsp;(9) provide that fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this chapter, including procedures for monitoring the assistance provided under this chapter, and provide that at least every year each State shall prepare, in accordance with subsection (f) of this section, an audit of its expenditures of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter;
+&emsp;(9) provide that fiscal control and fund accounting procedures will be established asmay be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this chapter, including procedures for monitoring the assistance provided under this chapter, and provide that at least every year each State shall prepare, in accordance with subsection (f) of this section, an audit of its expenditures of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter;
 
 &emsp;(10) permit and cooperate with Federal investigations undertaken in accordance with section 9908 of this title;
 
@@ -90,7 +90,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(B) for <sup>2</sup> purposes of making a determination with respect to a termination, the term “cause” includes the material failure of an eligible entity to comply with the terms of its agreement and community action plan to provide services under this chapter;
 
-&emsp;(12) in the case of a State which applied for and received a waiver from the Secretary under Public Law 98–139, provide assurances that funds will not be provided under this chapter by such State to an organization to which such State made a grant under this chapter in fiscal year 1984 unless such organization allows, before expending such funds, low-income individuals to comment on theuses for which such organization proposes to expend such funds;
+&emsp;(12) in the case of a State which applied for and received a waiver from the Secretary under Public Law 98–139, provide assurances that funds will not be provided under this chapter by such State to an organization to which such State made a grant under this chapter in fiscal year 1984 unless such organization allows, before expending such funds, low-income individuals to comment on the uses for which such organization proposes to expend such funds;
 
 &emsp;(13) secure from each eligible entity as a condition to its receipt of funding under this Act a community action plan (which shall be available to the Secretary for inspection) that includes—
 

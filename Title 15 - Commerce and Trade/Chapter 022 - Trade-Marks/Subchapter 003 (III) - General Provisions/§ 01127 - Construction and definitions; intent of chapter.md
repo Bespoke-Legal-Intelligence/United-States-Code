@@ -64,11 +64,17 @@ The term “use in commerce” means the bona fide use of a mark in the ordinary
 
 &emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
 
-A mark shall be deemed to be “abandoned” when either of the following occurs:
+A mark shall be deemed to be “abandoned” if either of the following occurs:
 
-&emsp;(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie evidence of abandonment. “Use” of a mark means the bona fide use of that mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
+&emsp;(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for 3 consecutive years shall be prima facie evidence of abandonment. “Use” of a mark means the bona fide use of such mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
 
 &emsp;(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.
+
+The term “dilution” means the lessening of the capacity of a famous mark to identify anddistinguish goods or services, regardless of the presence or absence of—
+
+&emsp;(1) competition between the owner of the famous mark and other parties, or
+
+&emsp;(2) likelihood of confusion, mistake, or deception.
 
 The term “colorable imitation” includes any mark which so resembles a registered mark as to be likely to cause confusion or mistake or to deceive.
 
@@ -82,17 +88,7 @@ Words used in the singular include the plural and vice versa.
 
 The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trade-marks, trade names, and unfair competition entered into between the United States and foreign nations.
 
-(July 5, 1946, ch. 540, title X, §45, 60 Stat. 443; Oct. 9, 1962, Pub. L. 87–772, §21, 76 Stat. 774; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 8, 1984, Pub. L. 98–620, title I, §103, 98 Stat. 3335; Nov. 16, 1988, Pub. L. 100–667, title I, §134, 102 Stat. 3946; Oct. 27, 1992, Pub. L. 102–542, §3(d), 106Stat. 3568; Dec. 8, 1994, Pub. L. 103–465, title V, §521, 108 Stat. 4981.)
-
-#### Amendment of Section
-
-<i>Pub. L. 103–465, title V, §§521, 523, Dec. 8, 1994, 108 Stat. 4981, 4982, provided that, effective one year after the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), this section is amended by amending the par. defining “abandoned” to read as follows:</i>
-
-A mark shall be deemed to be “abandoned” if either of the following occurs:
-
-&emsp;(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for 3 consecutive years shall be prima facie evidence of abandonment. “Use” of a mark means the bona fide use of such mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
-
-&emsp;(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.
+(July 5, 1946, ch. 540, title X, §45, 60 Stat. 443; Oct. 9, 1962, Pub. L. 87–772, §21, 76 Stat. 774; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 8, 1984, Pub. L. 98–620, title I, §103, 98 Stat. 3335; Nov. 16, 1988, Pub. L. 100–667, title I, §134, 102 Stat. 3946; Oct. 27, 1992, Pub. L. 102–542, §3(d), 106 Stat. 3568; Dec. 8, 1994, Pub. L. 103–465, title V, §521, 108 Stat. 4981; Jan. 16, 1996, Pub. L. 104–98, §4, 109 Stat. 986.)
 
 #### References in Text
 
@@ -104,7 +100,15 @@ Acts Feb. 20, 1905, ch. 592, §29, 33 Stat. 731; June 10, 1938, ch. 332, §5, 52
 
 #### Amendments
 
-1992—Pub. L. 102–542 inserted after fourth undesignated paragraph “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
+1996—Pub. L. 104–98 inserted par. defining “dilution” after par. defining “abandoned”.
+
+1994—Pub. L. 103–465 amended par. defining “abandoned” generally. Prior to amendment, par. read as follows: “A mark shall be deemed to be ‘abandoned’ when either of the following occurs:
+
+&emsp;“(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie evidence of abandonment. ‘Use’ of a mark means the bona fide use of that mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
+
+&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
+
+1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
 1988—Pub. L. 100–667, §134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
 
@@ -128,13 +132,13 @@ Pub. L. 100–667, §134(8), substituted par. defining “use in commerce” for
 
 1984—Pub. L. 98–620, §103(1), in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
 
-Pub. L. 98–620, §103(2), in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including aunique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
+Pub. L. 98–620, §103(2), in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
 
 Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
-1962—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last paragraph relating to the intent of the chapter.
+1962—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last par. relating to the intent of the chapter.
 
 #### Effective Date of 1994 Amendment
 

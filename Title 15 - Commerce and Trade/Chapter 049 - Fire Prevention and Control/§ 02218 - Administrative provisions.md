@@ -14,7 +14,7 @@ With respect to this chapter, the Administrator is authorized to—
 
 &emsp;(3) purchase, lease, or otherwise acquire, own, hold, improve, use, or deal in and with any property (real, personal, or mixed, tangible or intangible), or interest in property, wherever situated; and sell, convey, mortgage, pledge, lease, exchange, or otherwise dispose of property and assets;
 
-&emsp;(4) procure temporary and intermittent services to the same extent as is authorized under section 3109 of title 5, but at rates not to exceed the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS 15 of the General Schedule (5 U.S.C. 5332(a)) for qualified experts; and
+&emsp;(4) procure temporary and intermittent services to the same extent as is authorized under section 3109 of title 5, but at rates not to exceed the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332(a)) for qualified experts; and
 
 &emsp;(5) establish such rules, regulations, and procedures as are necessary to carry out the provisions of this chapter.
 
@@ -30,15 +30,15 @@ All property rights with respect to inventions and discoveries, which are made i
 
 To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.
 
-(Pub. L. 93 498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96 121, §2, Nov. 16, 1979, 93 Stat. 863.)
+(Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863.)
 
 #### Codification
 
-In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-1979—Subsec. (b)(4). Pub. L. 96 121 substituted “the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS 15 of the General Schedule (5 U.S.C. 5332(a))” for “$100 a day”.
+1979—Subsec. (b)(4). Pub. L. 96–121 substituted “the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332(a))” for “$100 a day”.
 
 #### Transfer of Functions
 

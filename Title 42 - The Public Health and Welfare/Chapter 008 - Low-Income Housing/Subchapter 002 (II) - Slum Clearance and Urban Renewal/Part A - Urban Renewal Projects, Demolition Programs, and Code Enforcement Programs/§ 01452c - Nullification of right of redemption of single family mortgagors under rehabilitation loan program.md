@@ -12,7 +12,7 @@ Whenever with respect to a single family mortgage on a property that also has a 
 
 The following actions shall be taken in order to verify title in the purchaser at the foreclosure sale:
 
-&emsp;(1) In the case of a judicial foreclosure in any Federal or State court, there shall be included in the petition and in the judgment of foreclosure a statement that the foreclosure isin accordance with this subsection and that there is no right of redemption in the mortgagor or any other person.
+&emsp;(1) In the case of a judicial foreclosure in any Federal or State court, there shall be included in the petition and in the judgment of foreclosure a statement that the foreclosure is in accordance with this subsection and that there is no right of redemption in the mortgagor or any other person.
 
 &emsp;(2) In the case of a foreclosure pursuant to a power of sale provision in the mortgage, the statement required in paragraph (1) shall be included in the advertisement of the sale and either in the recitals of the deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale or in an affidavit or addendum to the deed.
 
@@ -32,7 +32,7 @@ Section 1452b of this title, referred to in subsecs. (a) and (b), was repealed b
 
 #### Codification
 
-Section was enacted as part of the Department of Housing and Urban Development Reform Act of 1989, and not as part of the Housing Act of 1949 which comprises this chapter.
+Section was enacted as part of the Department of Housing and Urban Development Reform Act of 1989,and not as part of the Housing Act of 1949 which comprises this chapter.
 
 #### Section Referred to in Other Sections
 

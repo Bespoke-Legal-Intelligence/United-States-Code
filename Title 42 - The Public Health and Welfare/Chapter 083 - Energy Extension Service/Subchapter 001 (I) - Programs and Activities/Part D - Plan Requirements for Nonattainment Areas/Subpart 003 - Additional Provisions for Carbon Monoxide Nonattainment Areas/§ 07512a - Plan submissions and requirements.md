@@ -34,7 +34,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (7) Attainment demonstration and specific annual emission reductions
 
-&emsp;In the case of Moderate Areas with a design value greater than 12.7 ppm at the time of classification, no later than 2 years after November 15, 1990, a revision to provide, and a demonstration that the plan as revised will provide, for attainment of the carbon monoxide NAAQS by the applicable attainment date and provisions for such specific annualemission reductions as are necessary to attain the standard by that date.
+&emsp;In the case of Moderate Areas with a design value greater than 12.7 ppm at the time of classification, no later than 2 years after November 15, 1990, a revision to provide, and a demonstration that the plan as revised will provide, for attainment of the carbon monoxide NAAQS by the applicable attainment date and provisions for such specific annual emission reductions as are necessary to attain the standard by that date.
 
 > The Administrator may, in the Administrator's discretion, require States to submit a schedule for submitting any of the revisions or other items required under this subsection. In the case of Moderate Areas with a design value of 12.7 ppm or lower at the time of classification, the requirements of this subsection shall apply in lieu of any requirement that the State submit a demonstration that the applicable implementation plan provides for attainment of the carbon monoxide standard by the applicable attainment date.
 
@@ -107,6 +107,10 @@ Each State containing a carbon monoxide nonattainment area reclassified under se
 If the Administrator determines under section 7512(b)(2) of this title that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination. The plan revision shall provide that a program of incentives and requirements as described in section 7511a(g)(4) of this title shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
 
 (July 14, 1955, ch. 360, title I, §187, as added Nov. 15, 1990, Pub. L. 101–549, title I, §104, 104 Stat. 2454.)
+
+#### Moratorium on Certain Emissions Testing Requirements
+
+For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption or implementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
 
 #### Section Referred to in Other Sections
 

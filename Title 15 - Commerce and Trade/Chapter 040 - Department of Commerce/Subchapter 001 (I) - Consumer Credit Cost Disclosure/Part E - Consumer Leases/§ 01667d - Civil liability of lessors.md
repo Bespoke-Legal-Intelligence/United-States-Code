@@ -12,13 +12,13 @@ Any lessor who fails to comply with any requirement imposed under section 1667c 
 
 Notwithstanding section 1640(e) of this title, any action under this section may be brought in any United States district court or in any other court of competent jurisdiction. Such actions alleging a failure to disclose or otherwise comply with the requirements of this part shall be brought within one year of the termination of the lease agreement.
 
-(Pub. L. 90 321, title I, §185, as added Pub. L. 94 240, §3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 96 221, title VI, §624, Mar. 31, 1980, 94 Stat. 185.)
+(Pub. L. 90–321, title I, §185, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 96–221, title VI, §624, Mar. 31, 1980, 94 Stat. 185.)
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96 221 struck out applicability of section 1614 of this title to term “creditor”.
+1980—Subsec. (b). Pub. L. 96–221 struck out applicability of section 1614 of this title to term “creditor”.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 

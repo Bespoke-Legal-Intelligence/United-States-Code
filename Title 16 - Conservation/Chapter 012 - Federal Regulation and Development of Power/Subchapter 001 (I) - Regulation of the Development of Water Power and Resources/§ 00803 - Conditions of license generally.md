@@ -4,7 +4,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 #### (a) Modification of plans; factors considered to secure adaptability of project; recommendations for proposed terms and conditions
 
-(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection,mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
+(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall haveauthority to require the modification of any project and of the plans and specifications of the project works before approval.
 
 (2) In order to ensure that the project adopted will be best adapted to the comprehensive plan described in paragraph (1), the Commission shall consider each of the following:
 
@@ -70,7 +70,7 @@ That whenever any licensee hereunder is directly benefited by the construction w
 
 Whenever such reservoir or other improvement is constructed by the United States the Commission shall assess similar charges against any licensee directly benefited thereby, and any amount so assessed shall be paid into the Treasury of the United States, to be reserved and appropriated as a part of the special fund for headwater improvements as provided in section 810 of this title.
 
-Whenever any power project not under license is benefited by the construction work of a licensee or permittee, the United States or any agency thereof, the Commission, after notice to the owner or owners of such unlicensed project, shall determine and fix a reasonable and equitable annual charge to be paid to the licensee orpermittee on account of such benefits, or to the United States if it be the owner of such headwater improvement.
+Whenever any power project not under license is benefited by the construction work of a licensee or permittee, the United States or any agency thereof, the Commission, after notice to the owner or owners of such unlicensed project, shall determine and fix a reasonable and equitable annual charge to be paid to the licensee or permittee on account of such benefits, or to the United States if it be the owner of such headwater improvement.
 
 #### (g) Conditions in discretion of commission
 

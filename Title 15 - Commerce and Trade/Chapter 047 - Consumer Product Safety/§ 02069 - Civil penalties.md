@@ -46,23 +46,23 @@ Any civil penalty under this section may be compromised by the Commission. In de
 
 As used in the first sentence of subsection (a)(1) of this section, the term “knowingly” means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
 
-(Pub. L. 92 573, §20, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94 284, §13(b), May 11, 1976, 90 Stat. 509; Pub. L. 95 631, §6(c), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97 35, title XII, §1211(c), Aug. 13, 1981, 95 Stat. 721; Pub. L. 101 608, title I, §§112(e), 115(a), Nov. 16, 1990, 104 Stat. 3117, 3118.)
+(Pub. L. 92–573, §20, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, §13(b), May 11, 1976, 90 Stat. 509; Pub. L. 95–631, §6(c), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, §1211(c), Aug. 13, 1981, 95 Stat. 721; Pub. L. 101–608, title I, §§112(e), 115(a), Nov. 16, 1990, 104 Stat. 3117, 3118.)
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101 608, §§112(e), 115(a)(1), (2), substituted “$5,000” for “$2,000”, and “(10), or (11)” for “or (10)”, and substituted “$1,250,000” for “$500,000” in two places.
+1990—Subsec. (a)(1). Pub. L. 101–608, §§112(e), 115(a)(1), (2), substituted “$5,000” for “$2,000”, and “(10), or (11)” for “or (10)”, and substituted “$1,250,000” for “$500,000” in two places.
 
-Subsec. (a)(3). Pub. L. 101 608, §115(a)(3), added par. (3).
+Subsec. (a)(3). Pub. L. 101–608, §115(a)(3), added par. (3).
 
-1981—Subsecs. (b) to (d). Pub. L. 97 35 added subsec. (b), redesignated former subsec. (b) as (c), substituted “the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed” for “the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered”, and redesignated subsec. (c) as (d).
+1981—Subsecs. (b) to (d). Pub. L. 97–35 added subsec. (b), redesignated former subsec. (b) as (c), substituted “the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed” for “the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered”, and redesignated subsec. (c) as (d).
 
-1978—Subsec. (a)(1). Pub. L. 95 631 made violation of section 2068(a)(10) of this title a separate offense.
+1978—Subsec. (a)(1). Pub. L. 95–631 made violation of section 2068(a)(10) of this title a separate offense.
 
-1976—Subsec. (a)(1). Pub. L. 94 284 inserted reference to pars. (8) and (9).
+1976—Subsec. (a)(1). Pub. L. 94–284 inserted reference to pars. (8) and (9).
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Section Referred to in Other Sections
 

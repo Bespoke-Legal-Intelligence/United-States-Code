@@ -32,7 +32,7 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 &emsp;(1) inpatient hospital services (other than services in an institution for mental diseases);
 
-&emsp;(2)(A) outpatient hospital services, (B) consistent with State law permitting such services, rural health clinic services (as defined in subsection (<i>l</i>)(1) of this section) and any otherambulatory services which are offered by a rural health clinic (as defined in subsection (<i>l</i>)(1) of this section) and which are otherwise included in the plan, and (C) Federally-qualified health center services (as defined in subsection (<i>l</i>)(2) of this section) and any other ambulatory services offered by a Federally-qualified health center and which are otherwise included in the plan;
+&emsp;(2)(A) outpatient hospital services, (B) consistent with State law permitting such services, rural health clinic services (as defined in subsection (<i>l</i>)(1) of this section) and any other ambulatory services which are offered by a rural health clinic (as defined in subsection (<i>l</i>)(1) of this section) and which are otherwise included in the plan, and (C) Federally-qualified health center services (as defined in subsection (<i>l</i>)(2) of this section) and any other ambulatory services offered by a Federally-qualified health center and which are otherwise included in the plan;
 
 &emsp;(3) other laboratory and X-ray services;
 
@@ -76,13 +76,13 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 &emsp;(23) community supported living arrangements services (to the extent allowed and as defined in section 1396u of this title);
 
-&emsp;(24) personal care services furnished to an individual who is not an inpatient or resident of a hospital, nursing facility, intermediate care facility for the mentally retarded, or institution for mental disease that are (A) authorized for the individual by a physician in accordance with a plan of treatment or (at the option of the State) otherwise authorized for the individual in accordance with a service plan approved by the State, (B) provided by an individual who is qualified to provide such services and who is not a member of the individual's family, and (C) furnished in a home or other location; and
+&emsp;(24) personal care services furnished to an individual who is not an inpatient or resident of a hospital, nursing facility, intermediate care facility for the mentally retarded, or institution for mental disease that are (A) authorized for the individual by a physician in accordance with a plan of treatment or (at the option ofthe State) otherwise authorized for the individual in accordance with a service plan approved by the State, (B) provided by an individual who is qualified to provide such services and who is not a member of the individual's family, and (C) furnished in a home or other location; and
 
 &emsp;(25) any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary.<sup>1</sup>
 
 > except as otherwise provided in paragraph (16), such term does not include—
 
-&emsp;(A) any such payments with respect to care or services for any individual who is an inmateof a public institution (except as a patient in a medical institution); or
+&emsp;(A) any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution); or
 
 &emsp;(B) any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases.
 
@@ -114,7 +114,7 @@ In the case of any State the State plan of which (as approved under this subchap
 
 &emsp;(2) at a prior period did provide for the payment of services referred to in paragraph (1);
 
-> the term “physicians’ services” (as used in subsection (a)(5) of this section) shall include services of the type which an optometrist is legally authorized to perform where the State plan specifically provides that the term “physicians’ services”, as employed in such plan, includes services of the type which an optometrist is legally authorized to perform, and shall be reimbursed whether furnished by a physician or an optometrist.
+> the term “physicians’ services” (as used in subsection (a)(5) of this section) shall include services of the type which an optometrist is legally authorized to perform where the State plan specifically provides that the term “physicians’services”, as employed in such plan, includes services of the type which an optometrist is legally authorized to perform, and shall be reimbursed whether furnished by a physician or an optometrist.
 
 #### (f) Nursing facility services
 
@@ -222,7 +222,7 @@ The term “qualified pregnant woman or child” means—
 
 &emsp;(A) who is entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter (including an individual entitled to such benefits pursuant to an enrollment under section 1395i–2 of this title, but not including an individual entitled to such benefits only pursuant to an enrollment under section 1395i–2a of this title),
 
-&emsp;(B) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program, except asprovided in paragraph (2)(D)) does not exceed an income level established by the State consistent with paragraph (2), and
+&emsp;(B) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program, except as provided in paragraph (2)(D)) does not exceed an income level established by the State consistent with paragraph (2), and
 
 &emsp;(C) whose resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed twice the maximum amount of resources that an individual may have and obtain benefits under that program.
 
@@ -286,7 +286,7 @@ The term “qualified severely impaired individual” means an individual under 
 
 &emsp;&emsp;(A) the individual continues to be blind or continues to have the disabling physical or mental impairment on the basis of which he was found to be under a disability and, except for his earnings, continues to meet all non-disability-related requirements for eligibility for benefits under subchapter XVI of this chapter,
 
-&emsp;&emsp;(B) the income of such individual would not, except for his earnings, be equal to or in excess of the amount which would cause himto be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments),
+&emsp;&emsp;(B) the income of such individual would not, except for his earnings, be equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments),
 
 &emsp;&emsp;(C) the lack of eligibility for benefits under this subchapter would seriously inhibit his ability to continue or obtain employment, and
 
@@ -350,7 +350,7 @@ The term “early and periodic screening, diagnostic, and treatment services” 
 
 &emsp;(5) Such other necessary health care, diagnostic services, treatment, and other measures described in subsection (a) of this section to correct or ameliorate defects and physical and mental illnesses and conditions discovered by the screening services, whether or not such services are covered under the State plan.
 
-> Nothing in this subchapter shall be construed as limiting providers of early and periodic screening, diagnostic, and treatment services to providers who are qualified to provide all of the items and services described in the previous sentence or as preventing a provider that is qualified under the plan to furnish one or more (but not all) of such items or services from being qualified to provide such items and services as part of early and periodic screening, diagnostic, and treatment services. The Secretary shall, not later than July 1, 1990, and every 12 months thereafter, develop and set annual participation goals for each State for participation of individuals who are covered under the State plan under this subchapter in early and periodic screening, diagnostic, and treatment services.
+> Nothing in this subchapter shall be construed as limiting providers of early and periodic screening, diagnostic, and treatment services to providers who are qualified to provide all of the items and services described in the previous sentence or as preventing a provider that is qualified under the plan to furnish one or more (but not all) of such items or services from being qualified to provide such items and services as part of early and periodic screening, diagnostic, and treatment services. The Secretary shall, not later than July 1, 1990, and every 12 months thereafter, develop and set annual participationgoals for each State for participation of individuals who are covered under the State plan under this subchapter in early and periodic screening, diagnostic, and treatment services.
 
 #### (s) Qualified disabled and working individual
 
@@ -358,7 +358,7 @@ The term “qualified disabled and working individual” means an individual—
 
 &emsp;(1) who is entitled to enroll for hospital insurance benefits under part A of subchapter XVIII of this chapter under section 1395i–2a of this title;
 
-&emsp;(2) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program) does notexceed 200 percent of the official poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved;
+&emsp;(2) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program) does not exceed 200 percent of the official poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved;
 
 &emsp;(3) whose resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
 
@@ -470,7 +470,7 @@ Subsec. (p)(2)(C). Pub. L. 101–508, §4501(a)(2), substituted “95 percent, a
 
 Subsec. (p)(2)(D). Pub. L. 101–508, §4501(e)(1)(B), added subpar. (D).
 
-Subsec. (p)(4). Pub. L. 101–508, §4501(c)(2), inserted at end “In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirement of section 1396a(a)(10)(E) of this title in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.”
+Subsec. (p)(4). Pub. L. 101–508, §4501(c)(2), inserted at end “In the case of any State which is providing medical assistance to its residents under a waiver grantedunder section 1315 of this title, the Secretary shall require the State to meet the requirement of section 1396a(a)(10)(E) of this title in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.”
 
 Subsec. (p)(4)(B). Pub. L. 101–508, §4501(c)(1), inserted “or 1396a(a)(10)(E)(iii) of this title” after “subparagraph (B)”.
 
@@ -546,7 +546,7 @@ Subsec. (p)(3). Pub. L. 100–360, §301(d)(1), as added by Pub. L. 100–485, �
 
 Subsec. (p)(3)(A). Pub. L. 100–360, §301(d)(2), formerly §301(d)(1), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), substituted “under subchapter XVIII of this chapter (including under part B and, if applicable, under section 1395i–2 of this title)” for “under part B and (if applicable) under section 1395i–2 of this title”.
 
-Subsec. (p)(3)(B). Pub. L. 100–360, §301(d)(3), formerly §301(d)(2), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Deductibles and coinsurance described in section 1395e of this title.”
+Subsec. (p)(3)(B). Pub. L. 100–360, §301(d)(3), formerly §301(d)(2), as renumbered by Pub. L. 100–485,§608(d)(14)(G)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Deductibles and coinsurance described in section 1395e of this title.”
 
 Subsec. (p)(3)(C). Pub. L. 100–360, §301(d)(3), formerly §301(d)(2), as renumbered and amended by Pub. L. 100–485, §608(d)(14)(F), (G)(i), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The annual deductible described in section 1395<i>l</i>(b) of this title.”
 
@@ -662,7 +662,7 @@ Subsec. (<i>l</i>). Pub. L. 95–210, §2(b), added subsec. (<i>l).</i>
 
 1976—Subsec. (b). Pub. L. 94–437 inserted provision requiring that the Federal medical assistance percentage be 100 per centum for services received through an Indian Health Service facility.
 
-1973—Subsec. (a). Pub. L. 93–233, §13(a)(13), substituted in introductory text “individuals (other than individuals with respect to whom there is being paid, orwho are eligible or would be eligible if they were not in a medical institution, to have paid with respect to them a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title) not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI of this chapter” for “individuals not receiving aid or assistance under the State's plan approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter”.
+1973—Subsec. (a). Pub. L. 93–233, §13(a)(13), substituted in introductory text “individuals (other than individuals with respect to whom there is being paid, or who are eligible or would be eligible if they were not in a medical institution, to have paid with respect to them a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title) not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI of this chapter” for “individuals not receiving aid or assistance under the State's plan approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter”.
 
 Subsec. (a)(iv). Pub. L. 93–233, §13(a)(14), inserted “with respect to States eligible to participate in the State plan program established under subchapter XVI of this chapter,” after “blind,”.
 
@@ -740,13 +740,13 @@ Section 13605(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 Section 13606(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to calendar quarters beginning on or after July 1, 1993.”
 
-Amendment by section 13631(f)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13631(f) of Pub. L. 103–66 have been promulgated by such date, see section 13631(f)(3) of Pub. L. 103–66, set out as a note under section 1396a of this title.
+Amendment by section 13631(f)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13631(f) of Pub. L. 103–66have been promulgated by such date, see section 13631(f)(3) of Pub. L. 103–66, set out as a note under section 1396a of this title.
 
 Section 13631(g)(2) of Pub. L. 103–66 provided that: “The amendments made by subparagraphs (A) and (B) of paragraph (1) \[amending this section\] shall first apply 90 days after the date the schedule referred to in subparagraphs (A)(i) and subparagraph (B)(iii) of section 1905(r)(1) of the Social Security Act \[subsec. (r)(1)(B)(iii) of this section\] (as amended by such respective subparagraphs) is first established.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4402(d)(2) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginningon or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4402(d)(2) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
 Amendment by section 4501(a), (c), (e)(1) of Pub. L. 101–508 applicable to calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not regulations to implement the amendments by section 4501 of Pub. L. 101–508 are promulgated by such date, except that amendment by section 4501(e)(1) of Pub. L. 101–508 is applicable to determinations of income for months beginning with January 1991, see section 4501(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
@@ -792,7 +792,7 @@ Amendment by section 608(d)(14)(A)–(G), (J) of Pub. L. 100–485 effective as 
 
 Amendment by section 608(f)(3) of Pub. L. 100–485 effective Oct. 13, 1988, see section 608(g)(2) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 301(a)(2)–(d) of Pub. L. 100–360 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1989, without regard to whether or not final regulations to carry out such amendment have been promulgated by that date, with respect to medical assistance for monthly premiums under subchapter XVIII of this chapter for months beginning with January 1989, and items and services furnished on and after Jan. 1, 1989, see section 301(h) of Pub. L. 100–360, set out as a note under section 1396a of this title.
+Amendment by section 301(a)(2)–(d) of Pub. L. 100–360 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1989, without regard to whether ornot final regulations to carry out such amendment have been promulgated by that date, with respect to medical assistance for monthly premiums under subchapter XVIII of this chapter for months beginning with January 1989, and items and services furnished on and after Jan. 1, 1989, see section 301(h) of Pub. L. 100–360, set out as a note under section 1396a of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(h)(4)(E), (k)(4), (8) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -852,7 +852,7 @@ Section 2371(b) of Pub. L. 98–369 provided that: “The amendment made by subs
 
 Amendment by section 136(c) of Pub. L. 97–248 effective Oct. 1, 1982, see section 136(e) of Pub. L. 97–248, set out as a note under section 1301 of this title.
 
-Amendment by section 137(b)(17), (18) of Pub. L. 97–248 effective as if originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
+Amendment by section 137(b)(17), (18) of Pub. L. 97–248 effective as if originally included as part of this sectionas this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -924,7 +924,7 @@ Section 9515 of Pub. L. 99–272 provided that: “For purposes of section 1905(
 
 #### Study of Federal Medical Assistance Percentage Formula and of Adjustments of Target Amounts for Federal Medicaid Expenditures; Report to Congress
 
-Section 2165 of Pub. L. 97–35 directed the Comptroller General, in consultation with the Advisory Committee for Intergovernmental Relations, to study the Federal medical assistance percentage formula as applicable to distribution of Federal funds to States, with a view to revising the medicaid matching formula so as to take into account factors which might result in a more equitable distribution of Federal funds to States under this chapter, and to report to Congress on such study not later than Oct. 1, 1982.
+Section 2165 of Pub. L. 97–35 directed the Comptroller General, in consultation with the Advisory Committee for Intergovernmental Relations, to study the Federal medical assistance percentage formula as applicable to distribution of Federal funds to States, with a view to revising the medicaid matching formula so as to take into account factors which might result in a more equitable distribution of Federal funds to States under thischapter, and to report to Congress on such study not later than Oct. 1, 1982.
 
 #### Costs Charged to Personal Funds of Patients in Intermediate Care Facilities; Costs Included in Charges for Services; Regulations
 

@@ -62,7 +62,7 @@
 
 #### (1) Establishment
 
-&emsp;The Commissioner shall make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to pay all or part of the cost of training in the use of Braille for personnel providing vocational rehabilitation services or educational services to youth and adults who are blind.
+&emsp;The Commissioner shall make grants to and enter into contracts with States and public ornonprofit agencies and organizations, including institutions of higher education, to pay all or part of the cost of training in the use of Braille for personnel providing vocational rehabilitation services or educational services to youth and adults who are blind.
 
 #### (2) Projects
 
@@ -80,7 +80,7 @@
 
 #### (1) Grants
 
-&emsp;The Commissioner is authorized to make grants through a separate competition to private nonprofit organizations for the purpose of establishing programs to provide training and information to enable individuals with disabilities, and the parents, family members, guardians, advocates, or other authorized representatives of the individuals to participate more effectively with professionals in meeting the vocational and rehabilitation needs of individuals with disabilities. Such grants shall be designed to meet the unique training and information needs of individuals with disabilities, and the parents, family members, guardians,advocates, or other authorized representatives of the individuals, who live in the area to be served, particularly those who are members of populations that have been unserved or underserved by programs under this chapter.
+&emsp;The Commissioner is authorized to make grants through a separate competition to private nonprofit organizations for the purpose of establishing programs to provide training and information to enable individuals with disabilities, and the parents, family members, guardians, advocates, or other authorized representatives of the individuals to participate more effectively with professionals in meeting the vocational and rehabilitation needs of individuals with disabilities. Such grants shall be designed to meet the unique training and information needs of individuals with disabilities, and the parents, family members, guardians, advocates, or other authorized representatives of the individuals, who live in the area to be served, particularly those who are members of populations that have been unserved or underserved by programs under this chapter.
 
 #### (2) Use of grants
 
@@ -156,7 +156,7 @@ The Commissioner may award grants to public or nonprofit agencies and organizati
 
 #### (f) Certain requirements
 
-The requirements of subsections (a) (except the first sentence), (b), and (c), of section 771a ofthis title, and paragraphs (1) and (2) of subsection (g) of such section, shall apply with respect to grants made available under this section, other than subsection (c) of this section. The requirements of section 776 of this title shall apply with respect to grants made available under this section.
+The requirements of subsections (a) (except the first sentence), (b), and (c), of section 771a of this title, and paragraphs (1) and (2) of subsection (g) of such section, shall apply with respect to grants made available under this section, other than subsection (c) of this section. The requirements of section 776 of this title shall apply with respect to grants made available under this section.
 
 (Pub. L. 93–112, title VIII, §803, as added Pub. L. 102–569, title VIII, §801(a), Oct. 29, 1992, 106 Stat. 4478.)
 

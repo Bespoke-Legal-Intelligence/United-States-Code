@@ -3,9 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | \[3631 to 3633. Repealed.\] |  |
-| 3634\. | Army band: may not be paid for performance outside Army post. |
+| [3634\.](%C2%A7%2003634%20-%20Army%20band%20may%20not%20be%20paid%20for%20performance%20outside%20Army%20post.md) | Army band: may not be paid for performance outside Army post. |
 | \[3635 to 3638. Repealed.\] |  |
-| 3639\. | Enlisted members: officers not to use as servants. |
+| [3639\.](%C2%A7%2003639%20-%20Enlisted%20members%20officers%20not%20to%20use%20as%20servants.md) | Enlisted members: officers not to use as servants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

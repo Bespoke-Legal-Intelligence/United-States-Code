@@ -14,7 +14,7 @@
 
 #### (b) State permit programs
 
-At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or the interstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
+At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or theinterstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
 
 (1) To issue permits which—
 
@@ -70,7 +70,7 @@ Limitations on partial permit program returns and withdrawals.—A State may ret
 
 (1) Each State shall transmit to the Administrator a copy of each permit application received by such State and provide notice to the Administrator of every action related to the consideration of such permit application, including each permit proposed to be issued by such State.
 
-(2) No permit shall issue (A) if the Administrator within ninety days of the date of his notification under subsection (b)(5) of this section objects in writing to the issuance of such permit, or (B) if the Administrator within ninety days of the date of transmittal of the proposedpermit by the State objects in writing to the issuance of such permit as being outside the guidelines and requirements of this chapter. Whenever the Administrator objects to the issuance of a permit under this paragraph such written objection shall contain a statement of the reasons for such objection and the effluent limitations and conditions which such permit would include if it were issued by the Administrator.
+(2) No permit shall issue (A) if the Administrator within ninety days of the date of his notification under subsection (b)(5) of this section objects in writing to the issuance of such permit, or (B) if the Administrator within ninety days of the date of transmittal of the proposed permit by the State objects in writing to the issuance of such permit as being outside the guidelines and requirements of this chapter. Whenever the Administrator objects to the issuance of a permit under this paragraph such written objection shall contain a statement of the reasons for such objection and the effluent limitations and conditions which such permit would include if it were issued by the Administrator.
 
 (3) The Administrator may, as to any permit application, waive paragraph (2) of this subsection.
 
@@ -112,7 +112,7 @@ Compliance with a permit issued pursuant to this section shall be deemed complia
 
 #### (2) Stormwater runoff from oil, gas, and mining operations
 
-&emsp;The Administrator shall not require a permit under this section, nor shall the Administrator directly or indirectly require any State to require a permit, for discharges of stormwater runoff from mining operations or oil and gas exploration, production, processing, or treatment operations or transmission facilities, composed entirely of flows which are from conveyances or systems of conveyances (including but not limited to pipes, conduits, ditches, and channels) used for collecting andconveying precipitation runoff and which are not contaminated by contact with, or do not come into contact with, any overburden, raw material, intermediate products, finished product, byproduct, or waste products located on the site of such operations.
+&emsp;The Administrator shall not require a permit under this section, nor shall the Administrator directly or indirectly require any State to require a permit, for discharges of stormwater runoff from mining operations or oil and gas exploration, production, processing, or treatment operations or transmission facilities, composed entirely of flows which are from conveyances or systems of conveyances (including but not limited to pipes, conduits, ditches, and channels) used for collecting and conveying precipitation runoff and which are not contaminated by contact with, or do not come into contact with, any overburden, raw material, intermediate products, finished product, byproduct, or waste products located on the site of such operations.
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
@@ -164,7 +164,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(D) the permittee has received a permit modification under section 1311(c), 1311(g), 1311(h), 1311(i), 1311(k), 1311(n), or 1326(a) of this title; or
 
-&emsp;&emsp;(E) the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect thelevel of pollutant control actually achieved (but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
+&emsp;&emsp;(E) the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect the level of pollutant control actually achieved (but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
 
 > &emsp;Subparagraph (B) shall not apply to any revised waste load allocations or any alternative grounds for translating water quality standards into effluent limitations, except where the cumulative effect of such revised allocations results in a decrease in the amount of pollutants discharged into the concerned waters, and such revised allocations are not the result of a discharger eliminating or substantially reducing its discharge of pollutants due to complying with the requirements of this chapter or for reasons otherwise unrelated to water quality.
 
@@ -234,13 +234,13 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protect water quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. The program may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
 
-(June 30, 1948, ch. 758, title IV, §402, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 880; amended Dec. 27, 1977, Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, 91 Stat. 1577, 1588, 1591, 1599, 1600; Feb. 4, 1987, Pub. L. 100–4, title IV, §§401–404(a), (d), 405, 101 Stat. 65–67, 69; Oct. 31, 1992, Pub. L. 102–580, title III, §364, 106 Stat. 4862.)
+(June 30, 1948, ch. 758, title IV, §402, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 880; amended Dec. 27, 1977, Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, 91 Stat. 1577, 1588, 1591, 1599, 1600; Feb. 4, 1987, Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, 101 Stat. 65–67, 69, renumbered §404(c), Dec. 21, 1995, Pub. L. 104–66, title II, §2021(e)(2), 109 Stat. 727; Oct. 31, 1992, Pub. L. 102–580, title III, §364, 106 Stat. 4862.)
 
 #### Amendments
 
 1992—Subsec. (p)(1), (6). Pub. L. 102–580 substituted “October 1, 1994” for “October 1, 1992” in par. (1) and “October 1, 1993” for “October 1, 1992” in par. (6).
 
-1987—Subsec. (a)(1). Pub. L. 100–4, §404(d), inserted cl. (A) and (B) designations.
+1987—Subsec. (a)(1). Pub. L. 100–4, §404(c), inserted cl. (A) and (B) designations.
 
 Subsec. (c)(1). Pub. L. 100–4, §403(b)(2), substituted “as to those discharges” for “as to those navigable waters”.
 
@@ -300,7 +300,7 @@ Group applications.—With respect to group applications for permits for dischar
 
 Municipalities With Less Than 100,000
 
-Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
+Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitarylandfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
 “(d)
 
@@ -312,7 +312,7 @@ Limitation on Statutory Construction.—Nothing in this section shall be constru
 
 “(f)
 
-Regulations.—The Administrator shall issue final regulations with respect to general permits forstormwater discharges associated with industrial activity on or before February 1, 1992.”
+Regulations.—The Administrator shall issue final regulations with respect to general permits for stormwater discharges associated with industrial activity on or before February 1, 1992.”
 
 #### Phosphate Fertilizer Effluent Limitation
 

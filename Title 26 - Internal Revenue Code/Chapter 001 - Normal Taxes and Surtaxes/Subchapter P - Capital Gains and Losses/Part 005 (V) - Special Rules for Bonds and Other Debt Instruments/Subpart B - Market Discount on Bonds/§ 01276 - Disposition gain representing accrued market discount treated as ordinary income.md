@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;At the election of the taxpayer with respect to any bond, the accrued market discount on such bond shall be the aggregateamount which would have been includible in the gross income of the taxpayer under section 1272(a) (determined without regard to paragraph (2) thereof) with respect to such bond for all periods during which the bond was held by the taxpayer if such bond had been—
+&emsp;&emsp;At the election of the taxpayer with respect to any bond, the accrued market discount on such bond shall be the aggregate amount which would have been includible in the gross income of the taxpayer under section 1272(a) (determined without regard to paragraph (2) thereof) with respect to such bond for all periods during which the bond was held by the taxpayer if such bond had been—
 
 &emsp;&emsp;&emsp;(i) originally issued on the date on which such bond was acquired by the taxpayer,
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 99–514, §1899A(28), substituted “July 18, 1984” for 
 
 #### Effective Date of 1993 Amendment
 
-Section 13206(b)(3) of Pub. L. 103–66 provided that: “The amendments made by this section \[probablyshould be “subsection”, which amended this section and sections 1277 and 1278 of this title\] shall apply to obligations purchased (within the meaning of section 1272(d)(1) of the Internal Revenue Code of 1986) after April 30, 1993.”
+Section 13206(b)(3) of Pub. L. 103–66 provided that: “The amendments made by this section \[probably should be “subsection”, which amended this section and sections 1277 and 1278 of this title\] shall apply to obligations purchased (within the meaning of section 1272(d)(1) of the Internal Revenue Code of 1986) after April 30, 1993.”
 
 #### Effective Date of 1988 Amendment
 

@@ -10,7 +10,7 @@ Term.—
 
 &emsp;&emsp;(A) Copyright subsists, in accordance with this section, in restored works, and vests automatically on the date of restoration.
 
-&emsp;&emsp;(B) Any work in which copyright is restored under this section shall subsist forthe remainder of the term of copyright that the work would have otherwise been granted in the United States if the work never entered the public domain in the United States.
+&emsp;&emsp;(B) Any work in which copyright is restored under this section shall subsist for the remainder of the term of copyright that the work would have otherwise been granted in the United States if the work never entered the public domain in the United States.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Notices of Intent To Enforce a Restored Copyright.—
 
 &emsp;(1)
 
-Notices of intent filed with the copyright office.—(A)(i) A notice of intent filedwith the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
+Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
 
 &emsp;(ii) If a work in which copyright is restored has no formal title, it shall be described in the notice of intent in detail sufficient to identify it.
 

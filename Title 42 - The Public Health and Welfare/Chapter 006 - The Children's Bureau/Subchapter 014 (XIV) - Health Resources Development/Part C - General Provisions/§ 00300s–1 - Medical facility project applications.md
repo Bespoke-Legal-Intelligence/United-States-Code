@@ -8,7 +8,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 (1) An application for a medical facilities project shall be submitted in such form and manner as the Secretary shall by regulation prescribe and shall, except as provided in paragraph (2), set forth—
 
-&emsp;(A) in the case of a modernization project for a medical facility for continuation of existing health services, a finding by the State Agency of a continued need for such services, and, in the case of any other project for a medical facility, a finding by the State Agency of the need for the new health services to be provided through the medical facility upon completion of the project;
+&emsp;(A) in the case of a modernization project for a medical facility for continuation of existing health services, a finding by the State Agency of a continued need for such services, and, in the case of any other project for a medical facility, a finding by the State Agency of theneed for the new health services to be provided through the medical facility upon completion of the project;
 
 &emsp;(B) in the case of an application for a grant, assurances satisfactory to the Secretary that (i) the applicant making the application would not be able to complete the project for which the application is submitted without the grant applied for, and (ii) in the case of a project to construct a new medical facility, it would be inappropriate to convert an existing medical facility to provide the services to be provided through the new medical facility;
 
@@ -28,7 +28,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(J) in the case of a project for the construction or modernization of an outpatient facility, reasonable assurance that the services of a general hospital will be available to patients at such facility who are in need of hospital care; and
 
-&emsp;(K) reasonable assurance that at all times after such application is approved (i) the facility or portion thereof to be constructed, modernized, or converted will be made available to all persons residing or employed in the area served by the facility, and (ii) there will be made available in the facility or portion thereof to be constructed, modernized, or converteda reasonable volume of services to persons unable to pay therefor and the Secretary, in determining the reasonableness of the volume of services provided, shall take into consideration the extent to which compliance is feasible from a financial viewpoint.
+&emsp;(K) reasonable assurance that at all times after such application is approved (i) the facility or portion thereof to be constructed, modernized, or converted will be made available to all persons residing or employed in the area served by the facility, and (ii) there will be made available in the facility or portion thereof to be constructed, modernized, or converted a reasonable volume of services to persons unable to pay therefor and the Secretary, in determining the reasonableness of the volume of services provided, shall take into consideration the extent to which compliance is feasible from a financial viewpoint.
 
 (2)(A) The Secretary may waive—
 

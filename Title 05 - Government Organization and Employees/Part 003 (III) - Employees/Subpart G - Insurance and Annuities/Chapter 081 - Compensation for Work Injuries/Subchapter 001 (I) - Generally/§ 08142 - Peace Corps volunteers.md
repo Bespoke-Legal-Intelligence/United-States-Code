@@ -62,7 +62,7 @@ Section 8142 of title 5 was derived from section 2504(d) of title 22. This amend
 
 #### Amendments
 
-1974—Subsec. (c)(2). Pub. L. 93–416 inserted provision relating to a volunteer with one or more minor children.
+<b>1974</b>—Subsec. (c)(2). Pub. L. 93–416 inserted provision relating to a volunteer with one or more minor children.
 
 #### Effective Date of 1974 Amendment
 

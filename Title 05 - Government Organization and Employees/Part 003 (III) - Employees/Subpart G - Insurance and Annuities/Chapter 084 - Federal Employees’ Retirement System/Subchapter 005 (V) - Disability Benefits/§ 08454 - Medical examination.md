@@ -1,4 +1,4 @@
-### §8454 . Medical examination
+### §8454. Medical examination
 
 An annuitant receiving a disability retirement annuity from the Fund shall be examined under the direction of the Office—
 

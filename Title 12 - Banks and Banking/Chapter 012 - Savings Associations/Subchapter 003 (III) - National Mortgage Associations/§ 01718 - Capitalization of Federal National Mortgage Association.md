@@ -1,4 +1,4 @@
-### §1718 . Capitalization of Federal National Mortgage Association
+### §1718. Capitalization of Federal National Mortgage Association
 
 #### (a) Common stock; preferred stock; transferability of shares
 
@@ -20,7 +20,7 @@ The corporation shall have common stock, without par value, which shall be veste
 
 Notwithstanding any other provision of law, any institution, including a national bank or State member bank of the Federal Reserve System or any member of the Federal Deposit Insurance Corporation, trust company, or other banking organization, organized under any law of the United States, including the laws relating to the District of Columbia, shall be authorized to purchase shares of common stock of the corporation and to hold or dispose of such stock, subject to the provisions of this subchapter.
 
-(June 27, 1934, ch. 847, title III, §303, 48 Stat. 1254; Feb. 3, 1938, ch. 13, §7, 52 Stat. 24; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §202, 70 Stat. 1096; Mar. 27, 1957, Pub. L. 85–10, §1(a), (b), 71 Stat. 7; July 12, 1957, Pub. L. 85–104, title II, §§201, 202, 71 Stat. 298; June 30, 1961, Pub. L. 87–70, title VI, §603(b), (c), 75 Stat. 176; Aug. 10, 1965, Pub. L. 89–117, title X, §1004(b), 79 Stat. 501; Sept. 10, 1966, Pub. L. 89–566, §2, 80 Stat. 738; May 25, 1967, Pub. L. 90–19, §1(j)(2), <i>(l)</i>, 81 Stat. 18; Aug. 1, 1968, Pub. L. 90–448, title VIII, §802 (i)–(n), (s), 82 Stat. 537, 538; Dec. 31, 1970, Pub. L. 91–609, title IX, §902, 84 Stat. 1808; Aug. 22, 1974, Pub. L. 93–383, title VIII, §806(g)–(i), 88 Stat. 727, 728; Oct. 15, 1982, Pub. L. 97–320, title VII, §707(a), 96 Stat. 1540; Feb. 5, 1988, Pub. L. 100–242, title IV, §442, 101 Stat. 1921; Oct. 28, 1992, Pub. L. 102–550, title XIII, §1381(d), 106 Stat. 3995.)
+(June 27, 1934, ch. 847, title III, §303, 48 Stat. 1254; Feb. 3, 1938, ch. 13, §7, 52 Stat. 24; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §202, 70 Stat. 1096; Mar. 27, 1957, Pub. L. 85–10, §1(a), (b), 71 Stat. 7; July 12, 1957, Pub. L. 85–104, title II, §§201, 202, 71 Stat. 298; June 30, 1961, Pub.L. 87–70, title VI, §603(b), (c), 75 Stat. 176; Aug. 10, 1965, Pub. L. 89–117, title X, §1004(b), 79 Stat. 501; Sept. 10, 1966, Pub. L. 89–566, §2, 80 Stat. 738; May 25, 1967, Pub. L. 90–19, §1(j)(2), <i>(l)</i>, 81 Stat. 18; Aug. 1, 1968, Pub. L. 90–448, title VIII, §802 (i)–(n), (s), 82 Stat. 537, 538; Dec. 31, 1970, Pub. L. 91–609, title IX, §902, 84 Stat. 1808; Aug. 22, 1974, Pub. L. 93–383, title VIII, §806(g)–(i), 88 Stat. 727, 728; Oct. 15, 1982, Pub. L. 97–320, title VII, §707(a), 96 Stat. 1540; Feb. 5, 1988, Pub. L. 100–242, title IV, §442, 101 Stat. 1921; Oct. 28, 1992, Pub. L. 102–550, title XIII, §1381(d), 106 Stat. 3995.)
 
 #### Amendments
 

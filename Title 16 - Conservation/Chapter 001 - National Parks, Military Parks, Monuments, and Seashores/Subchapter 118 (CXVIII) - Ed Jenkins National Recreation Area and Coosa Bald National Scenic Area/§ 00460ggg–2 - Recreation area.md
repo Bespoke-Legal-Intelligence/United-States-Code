@@ -1,4 +1,4 @@
-### §460ggg–2 . Recreation area
+### §460ggg–2. Recreation area
 
 #### (a) Designation and purposes
 

@@ -8,7 +8,7 @@ The President shall establish an East-West Foreign Trade Board (hereinafter refe
 
 (1) Any person who exports technology vital to the national interest of the United States to a nonmarket economy country or an instrumentality of such country, and any agency of the United States which provides credits, guarantees or insurance to such country or such instrumentality in an amount in excess of $5,000,000 during any calendar year, shall file a report with the Board in such form and manner as the Board requires which describes the nature and terms of such export or such provision.
 
-(2) For purposes of paragraph (1), if the total amount of credits, guarantees and insurancewhich an agency of the United States provides to all nonmarket economy countries and the instrumentalities of such countries exceeds $5,000,000 during a calendar year, then all subsequent provisions of credits, guarantees or insurance in any amount, during such year shall be reported to the Board under the provisions of paragraph (1).
+(2) For purposes of paragraph (1), if the total amount of credits, guarantees and insurance which an agency of the United States provides to all nonmarket economy countries and the instrumentalities of such countries exceeds $5,000,000 during a calendar year, then all subsequent provisions of credits, guarantees or insurance in any amount, during such year shall be reported to the Board under the provisions of paragraph (1).
 
 #### (c) Report to Congress
 

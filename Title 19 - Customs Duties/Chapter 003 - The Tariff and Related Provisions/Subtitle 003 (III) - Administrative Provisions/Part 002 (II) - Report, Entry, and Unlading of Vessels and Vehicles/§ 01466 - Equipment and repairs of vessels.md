@@ -46,7 +46,7 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 #### (f) Civil aircraft exception
 
-The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in aforeign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
 
 #### (g) Fish net and netting purchases and repairs
 
@@ -78,7 +78,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 
 #### Prior Provisions
 
-Provisions similar to those of subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
+Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
 
 #### Amendments
 
@@ -118,11 +118,11 @@ Section 484E(b) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, 
 
 &emsp;&emsp;“(B) on or before December 31, 1992, and
 
-&emsp;“(3) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 (19 U.S.C. 1466(h)(1) or (2)),on or after the date of the entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].”
+&emsp;“(3) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 (19 U.S.C. 1466(h)(1) or (2)), on or after the date of the entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

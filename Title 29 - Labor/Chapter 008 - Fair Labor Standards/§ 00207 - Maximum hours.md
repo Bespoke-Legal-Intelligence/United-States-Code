@@ -38,7 +38,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 #### (e) “Regular rate” defined
 
-As used in this section the “regular rate” at which an employee is employed shall be deemed to include all remuneration for employmentpaid to, or on behalf of, the employee, but shall not be deemed to include—
+As used in this section the “regular rate” at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include—
 
 &emsp;(1) sums paid as gifts; payments in the nature of gifts made at Christmas time or on other special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
 
@@ -64,7 +64,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(1) in the case of an employee employed at piece rates, is computed at piece rates not less than one and one-half times the bona fide piece rates applicable to the same work when performed during nonovertime hours; or
 
-&emsp;(2) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
+&emsp;(2) in the case of an employee performing two or more kinds of work for which differenthourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
 
 &emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
 
@@ -158,7 +158,21 @@ In the case of an employee of an employer engaged in the business of operating a
 
 > shall be permitted by the employee's employer to use such time within a reasonable period after making the request if the use of the compensatory time does not unduly disrupt the operations of the public agency.
 
-(6) For purposes of this subsection—
+(6) The hours an employee of a public agency performs court reporting transcript preparation duties shall not be considered as hours worked for the purposes of subsection (a) of this section if—
+
+&emsp;(A) such employee is paid at a per-page rate which is not less than—
+
+&emsp;&emsp;(i) the maximum rate established by State law or local ordinance for the jurisdiction of such public agency,
+
+&emsp;&emsp;(ii) the maximum rate otherwise established by a judicial or administrative officer and in effect on July 1, 1995, or
+
+&emsp;&emsp;(iii) the rate freely negotiated between the employee and the party requesting the transcript, other than the judge who presided over the proceedings being transcribed, and
+
+&emsp;(B) the hours spent performing such duties are outside of the hours such employee performs other work (including hours for which the agency requires the employee's attendance) pursuant to the employment relationship with such public agency.
+
+> For purposes of this section, the amount paid such employee in accordance with subparagraph\(A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
+
+(7) For purposes of this subsection—
 
 &emsp;(A) the term “overtime compensation” means the compensation required by subsection (a), and
 
@@ -188,7 +202,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(3) does not include job specific training.
 
-(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; May 5, 1961, Pub. L. 87–30, §6, 75 Stat. 69; Sept. 23, 1966, Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, 80 Stat. 835–837, 841, 842; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), 88 Stat. 60, 62, 64, 66, 68; Nov. 13, 1985, Pub. L. 99–150, §§2(a), 3(a)–(c)(1), 99 Stat. 787, 789; Nov. 17, 1989, Pub. L. 101–157, §7, 103 Stat. 944.)
+(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; May 5, 1961, Pub. L. 87–30, §6, 75 Stat. 69; Sept. 23, 1966, Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, 80 Stat. 835–837, 841, 842; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), 88 Stat. 60, 62, 64, 66, 68; Nov. 13, 1985, Pub. L. 99–150, §§2(a), 3(a)–(c)(1), 99 Stat. 787, 789; Nov. 17, 1989, Pub. L. 101–157, §7, 103 Stat. 944; Sept. 6, 1995, Pub. L. 104–26, §2, 109 Stat. 264.)
 
 #### References in Text
 
@@ -200,6 +214,8 @@ Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in s
 
 #### Amendments
 
+1995—Subsec. (<i>o</i>)(6), (7). Pub. L. 104–26 added par. (6) and redesignated former par. (6) as (7).
+
 1989—Subsec. (q). Pub. L. 101–157 added subsec. (q).
 
 1985—Subsec. (<i>o</i>). Pub. L. 99–150, §2(a), added subsec. (<i>o).</i>
@@ -208,7 +224,7 @@ Subsec. (p). Pub. L. 99–150, §3(a)–(c)(1), added subsec. (p).
 
 1974—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
 
-Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
+Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and“five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
 
 Subsec. (j). Pub. L. 93–259, §12(b), extended provision excepting from being considered a subsec. (a) violation agreements or undertakings between employers and employees respecting consecutive work period and overtime compensation to agreements between employers engaged in operation of an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises and employees respecting consecutive work period and overtime compensation.
 
@@ -228,7 +244,7 @@ Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
 1966—Subsec. (a). Pub. L. 89–601, §401, retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after the expiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
 
-Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensationfor the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
+Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
 Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
@@ -270,6 +286,10 @@ Subsecs. (f) and (g). Act Oct. 26, 1949, added subsecs. (f) and (g).
 
 1941—Subsec. (b)(2) amended by act Oct. 29, 1941.
 
+#### Effective Date of 1995 Amendment
+
+Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–150 effective Apr. 15, 1986, see section 6 of Pub. L. 99–150, set out as a note under section 203 of this title.
@@ -304,7 +324,7 @@ Section 2(b) of Pub. L. 99–150 provided that: “A collective bargaining agree
 
 #### Deferment of Monetary Overtime Compensation
 
-Section 2(c)(2) of Pub. L. 99–150 provided that: “A State, political subdivision of a State, or interstategovernmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] for hours worked after April 14, 1986.”
+Section 2(c)(2) of Pub. L. 99–150 provided that: “A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] for hours worked after April 14, 1986.”
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
@@ -325,6 +345,10 @@ Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Definition of “Administrator”
+
+The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
 
 #### Cross References
 
@@ -350,7 +374,7 @@ Walsh-Healey Act inapplicable to employees entering into agreements with employe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 203, 211, 213, 214, 215, 216, 216b, 218, 2611, 2617 of this title; title 5 sections 5542, 5543, 5544, 6123, 6128; title 41 sections 35, 355.
+This section is referred to in sections 203, 211, 213, 214, 215, 216, 216b, 218, 2611, 2617 of this title; title 2 section 1313; title 5 sections 5542, 5543, 5544, 6123, 6128; title 41 sections 35, 355.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

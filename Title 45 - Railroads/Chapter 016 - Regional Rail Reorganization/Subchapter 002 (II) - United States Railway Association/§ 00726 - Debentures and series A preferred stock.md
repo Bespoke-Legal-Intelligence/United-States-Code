@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The Association is authorized, in accordance with the provisions of this section, and such rules and regulations as it may prescribe, to invest from time to time in the securities of theCorporation by purchasing (1) up to $1,000,000,000 of debentures issued by the Corporation, and (2) after the acquisition of such debentures, up to $2,629,000,000 of the series A preferred stock of the Corporation.
+The Association is authorized, in accordance with the provisions of this section, and such rules and regulations as it may prescribe, to invest from time to time in the securities of the Corporation by purchasing (1) up to $1,000,000,000 of debentures issued by the Corporation, and (2) after the acquisition of such debentures, up to $2,629,000,000 of the series A preferred stock of the Corporation.
 
 #### (b) Purposes and procedure for investment
 
@@ -38,9 +38,9 @@ The Association is authorized, in accordance with the provisions of this section
 
 &emsp;(A) not to purchase any debentures or series A preferred stock of the Corporation after the date of such affirmative finding; or
 
-&emsp;(B) to purchase debentures or series A preferred stock of the Corporation, after the date of such affirmative finding, only in such amounts, at such times, and on such terms and conditions (notwithstanding subsection (e)(1) of this section) as the Finance Committee determines to be appropriate to the role of the Association as an investor in such debentures and series A preferred stock.
+&emsp;(B) to purchase debentures or series A preferred stock of the Corporation, after the date of such affirmative finding, only in such amounts, at such times, and on such terms and conditions (notwithstanding subsection\(e)(1) of this section) as the Finance Committee determines to be appropriate to the role of the Association as an investor in such debentures and series A preferred stock.
 
-(2) A copy of each affirmative finding, the reasons therefor, and each direction made by the Finance Committee under paragraph (1) of this subsection, together with the comments and recommendations thereon of the Board of Directors of the Association, shall be transmitted to the Congress by the Association within 10 days after the date on which the Finance Committee makes such finding and direction, or if not so transmitted, shall be transmitted by the Finance Committee. Each such direction so transmitted shall become finally effective and is required to be implemented by the Association, unless within the first period of 30 calendar days of continuous session of Congress after the date of its transmittal to Congress either House of Congress disapproves such direction (except that such direction shall become finally effective immediately upon approval of such direction by both Houses of Congress) in accordance with the procedures specified in section 688 of title 2. For purposes of this paragraph, continuity of session of Congress is broken only in the circumstances described in section 682(5) of title 2. During review by the Association and Congress, the Association shall take no action inconsistent with the direction of the Finance Committee pursuant to paragraph (c)(1) of this section, except to the extent the Association finds necessary, inits discretion, to assure continuous orderly operation of the Corporation.
+(2) A copy of each affirmative finding, the reasons therefor, and each direction made by the Finance Committee under paragraph (1) of this subsection, together with the comments and recommendations thereon of the Board of Directors of the Association, shall be transmitted to the Congress by the Association within 10 days after the date on which the Finance Committee makes such finding and direction, or if not so transmitted, shall be transmitted by the Finance Committee. Each such direction so transmitted shall become finally effective and is required to be implemented by the Association, unless within the first period of 30 calendar days of continuous session of Congress after the date of its transmittal to Congress either House of Congress disapproves such direction (except that such direction shall become finally effective immediately upon approval of such direction by both Houses of Congress) in accordance with the procedures specified in section 688 of title 2. For purposes of this paragraph, continuity of session of Congress is broken only in the circumstances described in section 682(5) of title 2. During review by the Association and Congress, the Association shall take no action inconsistent with the direction of the Finance Committee pursuant to paragraph (c)(1) of this section, except to the extent the Association finds necessary, in its discretion, to assure continuous orderly operation of the Corporation.
 
 (3) If the Congress, pursuant to paragraph (2) of this subsection, disapproves a direction submitted to the Association pursuant to paragraph (1) of this subsection, the Association shall continue to purchase the debentures or series A preferred stock of the Corporation as otherwise provided in this subchapter until such time as a direction is submitted under this section which is not so disapproved (or affirmatively approved). The powers of the Association and of the Board of Directors of the Association shall remain in effect except to the extent modified by any such direction. If any such direction is disapproved by either House of Congress, the Finance Committee may, not earlier than 30 days after the date of such disapproval, make (and the Board of Directors of the Association shall transmit) any additional affirmative finding and direction with respect to the same matter, which direction shall become effective in accordance with paragraph (2) of this subsection. An affirmative finding and direction under this subsection, or action by the Association during a review thereof by the Congress, may not be held unlawful or set aside by any reviewing court on the ground that such finding and direction or action were not adequate to meet the requirements of subparagraph (A), (E), or (F) of section 706(2) of title 5.
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of State law, the debentures and the series 
 
 (2) The Finance Committee may, in its discretion and upon a finding that such action is necessary or appropriate to achieve the purposes of this chapter or the goals of the final system plan, waive compliance with any term, condition, provision, or covenant of the securities of the Corporation held by the Association, including any provision of such securities with respect to redemption of principal or issuance price, payment of interest or dividends, or any term or condition governing the purchase of such securities.
 
-(3) Notwithstanding any provision of State law, there shall be no conversion of the debentures of the Corporation into series A preferredstock of the Corporation, as provided in the terms and conditions of the debentures and pursuant to the final system plan, unless the Board of Directors of the Association and the Finance Committee jointly determine to effect such conversion.
+(3) Notwithstanding any provision of State law, there shall be no conversion of the debentures of the Corporation into series A preferred stock of the Corporation, as provided in the terms and conditions of the debentures and pursuant to the final system plan, unless the Board of Directors of the Association and the Finance Committee jointly determine to effect such conversion.
 
 #### (f) Employee stock ownership plan
 
@@ -128,9 +128,9 @@ Notwithstanding any other provision of State law, the debentures and the series 
 
 (D) Neither this paragraph nor paragraph (9) of this subsection shall be construed to grant immunity from any criminal law of the United States or of any State or the District of Columbia.
 
-(9) The United States shall indemnify, defend, and hold harmless the persons described in paragraph (8)(C) of this subsection from and against any and all liabilities, claims, actions, judgments, amounts paid in settlement, and costs and expenses (including reasonable fees of accountants, experts, and attorneys) actually incurred in connection with the establishment, implementation, or operation of the plan or ConRail Equity Corporation or with any transaction which is required by or is appropriate to effectuate fully the provisions of this subsection, except as may arise in connection with the execution of a responsibility, obligation, or duty excluded from paragraph (8)(A) by paragraph (8)(B), if it is determined that such persons were acting in good faith. The indemnityprovided in this paragraph shall be a full faith and credit obligation of the United States.
+(9) The United States shall indemnify, defend, and hold harmless the persons described in paragraph (8)(C) of this subsection from and against any and all liabilities, claims, actions, judgments, amounts paid in settlement, and costs and expenses (including reasonable fees of accountants, experts, and attorneys) actually incurred in connection with the establishment, implementation, or operation of the plan or ConRail Equity Corporation or with any transaction which is required by or is appropriate to effectuate fully the provisions of this subsection, except as may arise in connection with the execution of a responsibility, obligation, or duty excluded from paragraph (8)(A) by paragraph (8)(B), if it is determined that such persons were acting in good faith. The indemnity provided in this paragraph shall be a full faith and credit obligation of the United States.
 
-(10) All securities of the Corporation, all securities of any subsidiary of the Corporation and of ConRail Equity Corporation, and all interests in the employee stock ownership plan which are issued or transferred in connection with the employee stock ownership plan established by the Corporation pursuant to the requirements of this subsection shall be deemed for all purposes to have been issued subject to and authorized and approved pursuant to section 11301(b) of title 49 and any corresponding provision of any successor statute.
+(10) All securities of the Corporation, all securities of any subsidiary of the Corporation and of ConRail Equity Corporation, and all interests in the employee stock ownership plan which are issued or transferred in connection with the employee stock ownership plan established by the Corporation pursuant to the requirements of this subsection shall be deemed for all purposes to have been issued subject to and authorized and approved pursuant to section 11301(b) <sup>1</sup> of title 49 and any corresponding provision of any successor statute.
 
 #### (g) Authorization of appropriations; reappropriation of funds
 
@@ -149,6 +149,8 @@ The Regional Rail Reorganization Act Amendments of 1978, referred to in subsec. 
 Public Law 94–210, referred to in subsec. (f)(2)(A)(i), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 The Railway Labor Act, referred to in subsec. (f)(5), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
+
+Section 11301(b) of title 49, referred to in subsec. (f)(10), was omitted and a new section 11301 enacted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 837. The new section 11301 does not relate to issuance of securities.
 
 Section 1139(b) of the Northeast Rail Service Act of 1981, referred to in subsec. (g)(2), is section 1139(b) of Pub. L. 97–35, title XI, Aug. 13, 1981, 95 Stat. 652, which is set out as a note under section 744a of this title.
 
@@ -170,7 +172,7 @@ Subsec. (b)(3). Pub. L. 96–448, §405(b)(2), added par. (3).
 
 Subsec. (b)(4). Pub. L. 96–448, §703(e), added par. (4).
 
-Subsec. (f)(5). Pub. L. 96–254, §118(a), (b), inserted provisions that the plan not be subject to change under the provisions of section 6 of the Railway Labor Act until after such time as securities have been distributed from the plan to the participants in the plan or their beneficiaries pursuant to the terms of the plan and that, for purposes of this subsection, the Railway Labor Executives’ Association shall be deemed to represent all of the representatives of crafts or classes of employees of the Corporation and its subsidiaries as though that organization held powers of attorney from each representative of a craft or class for the limited purposes of negotiating and agreeing upon an employee stock ownership plan.
+Subsec. (f)(5). Pub. L. 96–254, §118(a), (b), inserted provisions that the plan not be subject to change under the provisions of section 6 of the Railway Labor Act until after such time as securities have been distributed from the plan to the participants in the plan or their beneficiaries pursuant to the terms of the planand that, for purposes of this subsection, the Railway Labor Executives’ Association shall be deemed to represent all of the representatives of crafts or classes of employees of the Corporation and its subsidiaries as though that organization held powers of attorney from each representative of a craft or class for the limited purposes of negotiating and agreeing upon an employee stock ownership plan.
 
 Subsec. (f)(8) to (10). Pub. L. 96–254, §118(c), added pars. (8) to (10).
 
@@ -184,7 +186,7 @@ Subsecs. (f), (g). Pub. L. 95–565, §§2(c), 3, added subsec. (f), redesignate
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
@@ -197,4 +199,6 @@ Application of National Environmental Policy Act to actions of Commission not af
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 712, 721, 727, 741, 1342 of this title; title 49 section 306.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

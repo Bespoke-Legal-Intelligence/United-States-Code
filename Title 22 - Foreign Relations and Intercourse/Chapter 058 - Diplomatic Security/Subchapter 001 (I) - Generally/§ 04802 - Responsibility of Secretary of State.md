@@ -70,7 +70,7 @@ The Secretary of State shall develop and implement policies and programs to prov
 
 &emsp;(1) develop a model contingency plan for evacuation of personnel, dependents, and United States citizens from foreign countries;
 
-&emsp;(2) develop a mechanism whereby United States citizens can voluntarily request to beplaced on a list in order to be contacted in the event of an evacuation, or which, in the event of an evacuation, can maintain information on the location of United States citizens in high risk areas submitted by their relatives;
+&emsp;(2) develop a mechanism whereby United States citizens can voluntarily request to be placed on a list in order to be contacted in the event of an evacuation, or which, in the event of an evacuation, can maintain information on the location of United States citizens in high risk areas submitted by their relatives;
 
 &emsp;(3) assess the transportation and communications resources in the area being evacuated and determine the logistic support needed for the evacuation; and
 

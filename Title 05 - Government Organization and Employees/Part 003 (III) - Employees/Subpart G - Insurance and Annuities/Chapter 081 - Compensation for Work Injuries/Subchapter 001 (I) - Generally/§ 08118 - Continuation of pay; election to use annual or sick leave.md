@@ -1,4 +1,4 @@
-### §8118 . Continuation of pay; election to use annual or sick leave
+### §8118. Continuation of pay; election to use annual or sick leave
 
 (a) The United States shall authorize the continuation of pay of an employee, as defined in section 8101(1) of this title (other than those referred to in clause (B) or (E), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor within the time specified in section 8122(a)(2) of this title.
 
@@ -38,7 +38,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1974—Pub. L. 93–416 inserted in section catchline the reference to continuation of pay, added subsecs. (a), (b), (d) and (e), designated existing provisions as subsec. (c), and in subsec. (c) as so designated, substituted “until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends” for “until the use of the annual or sick leave ends”.
+<b>1974</b>—Pub. L. 93–416 inserted in section catchline the reference to continuation of pay, added subsecs. (a), (b), (d) and (e), designated existing provisions as subsec. (c), and in subsec. (c) as so designated, substituted “until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends” for “until the use of the annual or sick leave ends”.
 
 #### Effective Date of 1974 Amendment
 

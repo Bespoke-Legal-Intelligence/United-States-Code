@@ -1,6 +1,6 @@
 ### §1313a. Appropriations for refunds, drawbacks, bounties, etc.
 
-There are appropriated such amounts as hereafter may be necessary for refund or payment of custom collections or receipts, and payment of debentures or drawbacks, bounties, and allowances, as authorized by law.
+There are appropriated such amounts as hereafter may be necessary for refund or payment ofcustom collections or receipts, and payment of debentures or drawbacks, bounties, and allowances, as authorized by law.
 
 (June 30, 1949, ch. 286, title I, 63 Stat. 360.)
 

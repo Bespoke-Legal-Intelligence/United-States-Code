@@ -24,7 +24,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (2) Amount of carrybacks and carryovers
 
-&emsp;The entire amount of the loss from operations for any loss year shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess (if any) of the amount of such loss over the sum of the offsets (as defined in subsection (d)) for each of the prior taxable years to which such loss may be carried.
+&emsp;The entire amount of the loss from operations for any loss year shall be carried to theearliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess (if any) of the amount of such loss over the sum of the offsets (as defined in subsection (d)) for each of the prior taxable years to which such loss may be carried.
 
 #### (3) Election for operations loss carrybacks
 

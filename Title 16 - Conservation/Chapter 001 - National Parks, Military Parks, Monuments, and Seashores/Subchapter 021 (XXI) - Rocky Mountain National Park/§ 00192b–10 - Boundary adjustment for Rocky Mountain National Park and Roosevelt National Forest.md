@@ -1,4 +1,4 @@
-### §192b–10 . Boundary adjustment for Rocky Mountain National Park and Roosevelt National Forest
+### §192b–10. Boundary adjustment for Rocky Mountain National Park and Roosevelt National Forest
 
 #### (a) Acquisition and boundary change
 

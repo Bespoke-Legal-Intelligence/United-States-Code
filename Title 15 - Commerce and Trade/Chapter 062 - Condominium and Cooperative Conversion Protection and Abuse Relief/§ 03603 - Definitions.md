@@ -2,7 +2,7 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) “affiliate of a developer” means any person who controls, is controlled by, or is under common control with a developer. A person “controls” a developer if the person (A) is a general partner, officer, director, or employer of the developer, (B) directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing, more then 20 per centum of the voting interests of the developer, (C) controls in any manner the election of a majority of the directors of the developer, or (D) has contributed more than 20 per centum of the capital of the developer. A person “is controlled by” a developer if the developer (i) is a general partner, officer, director or employer of the person, (ii) directly or indirectly or acting in concert with one or more otherpersons, or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing, more than 20 per centum of the voting interests of the person, (iii) controls in any manner the election of a majority of the directors, or (iv) has contributed more than 20 per centum of the capital of the person;
+&emsp;(1) “affiliate of a developer” means any person who controls, is controlled by, or is under common control with a developer. A person “controls” a developer if the person (A) is a general partner, officer, director, or employer of the developer, (B) directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing, more then 20 per centum of the voting interests of the developer, (C) controls in any manner the election of a majority of the directors of the developer, or (D) has contributed more than 20 per centum of the capital of the developer. A person “is controlled by” a developer if the developer (i) is a general partner, officer, director or employer of the person, (ii) directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing, more than 20 per centum of the voting interests of the person, (iii) controls in any manner the election of a majority of the directors, or (iv) has contributed more than 20 per centum of the capital of the person;
 
 &emsp;(2) “automatic rent increase clause” means a provision in a lease permitting periodic increases in the fee under the lease which is effective automatically or at the sole option of the lessor, and which provides that the fee shall increase at the rate of an economic, commodity, or consumer price index or at a percentage rate such that the actual increases in the rental payment over the lease term cannot be established with specificity at the time the lease is entered into;
 
@@ -38,7 +38,7 @@ For the purpose of this chapter—
 
 &emsp;(18) “purchaser” means any person, other than a developer, who by means of a voluntary transfer acquires a legal or equitable interest in a unit other than (A) a leasehold interest (including renewal options) of less than five years, or (B) as security for an obligation;
 
-&emsp;(19) “real estate” means any leasehold or other estate or interest in, over or under land,including structures, fixtures, and other improvements and interests which by custom, usage, or law pass with a conveyance of land though not described in the contract of sale or instrument of conveyance. “Real estate” includes parcels with or without upper or lower boundaries, and spaces that may be filled with air or water;
+&emsp;(19) “real estate” means any leasehold or other estate or interest in, over or under land, including structures, fixtures, and other improvements and interests which by custom, usage, or law pass with a conveyance of land though not described in the contract of sale or instrument of conveyance. “Real estate” includes parcels with or without upper or lower boundaries, and spaces that may be filled with air or water;
 
 &emsp;(20) “residential” means used as a dwelling;
 
@@ -50,7 +50,7 @@ For the purpose of this chapter—
 
 &emsp;(24) “tenants’ organization” means a bona fide organization of tenants who represent a majority of the occupied rental units in a rental housing project.
 
-(Pub. L. 96 399, title VI, §604, Oct. 8, 1980, 94 Stat. 1673.)
+(Pub. L. 96–399, title VI, §604, Oct. 8, 1980, 94 Stat. 1673.)
 
 #### Section Referred to in Other Sections
 

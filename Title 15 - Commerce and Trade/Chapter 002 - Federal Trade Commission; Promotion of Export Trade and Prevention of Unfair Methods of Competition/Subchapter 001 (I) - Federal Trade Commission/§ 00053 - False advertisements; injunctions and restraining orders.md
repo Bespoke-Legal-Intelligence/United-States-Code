@@ -26,7 +26,7 @@ Any process of the Commission under this section may be served by any person dul
 
 &emsp;(1) by delivering a copy of such process to the person to be served, to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served;
 
-&emsp;(2) by leaving a copy of such process at the residence or the principal office or place ofbusiness of such person, partnership, or corporation; or
+&emsp;(2) by leaving a copy of such process at the residence or the principal office or place of business of such person, partnership, or corporation; or
 
 &emsp;(3) by mailing a copy of such process by registered mail or certified mail addressed to such person, partnership, or corporation at his, or her, or its residence, principal office, or principal place or business.
 
@@ -46,7 +46,7 @@ Whenever it appears to the satisfaction of the court in the case of a newspaper,
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–312, §10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
+1994—Subsecs. (a), (b). Pub. L. 103–312, §10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served onany person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
 
 Subsecs. (c), (d). Pub. L. 103–312, §10(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 

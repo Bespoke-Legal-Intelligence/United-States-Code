@@ -2,7 +2,7 @@ Part A—Fund for the Improvement of Postsecondary Education
 
 #### Prior Provisions
 
-A prior part A, comprising section 1135 of this title, was repealed by Pub. L. 96 374, title X, §1001(a), Oct. 3, 1980, 94 Stat. 1489.
+A prior part A, comprising section 1135 of this title, was repealed by Pub. L. 96–374, title X, §1001(a), Oct. 3, 1980, 94 Stat. 1489.
 
 
 ---

@@ -2,11 +2,7 @@
 
 #### Codification
 
-Section, which related to basis of apportionment of costs of irrigation projects was from the Interior Department Appropriation Act, 1946, July 3, 1945, ch. 262, 59 Stat. 328, and was not repeated in the Interior Department Appropriation Act of 1947, act July 1, 1946, ch. 529, 60 Stat. 348.
-
-#### Similar Provisions
-
-Provisions similar to those of the Interior Department Appropriation Act, 1946, were in the following prior acts:
+Section, which related to basis of apportionment of costs of irrigation projects was from the Interior Department Appropriation Act, 1946, July 3, 1945, ch. 262, 59 Stat. 328, and was not repeated in the Interior Department Appropriation Act of 1947, act July 1, 1946, ch. 529, 60 Stat. 348. Similar provisions were contained in the following prior appropriation acts:
 
 June 28, 1944, ch. 298, 58 Stat. 474.
 

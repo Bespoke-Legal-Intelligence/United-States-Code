@@ -28,5 +28,5 @@
 
 (3) Whoever negligently fails to maintain records relating to a fastener in violation of this chapter or a regulation under this chapter shall be fined under title 18, or imprisoned not more than 2 years, or both.
 
-(Pub. L. 101 592, §9, Nov. 16, 1990, 104 Stat. 2950.)
+(Pub. L. 101–592, §9, Nov. 16, 1990, 104 Stat. 2950.)
 

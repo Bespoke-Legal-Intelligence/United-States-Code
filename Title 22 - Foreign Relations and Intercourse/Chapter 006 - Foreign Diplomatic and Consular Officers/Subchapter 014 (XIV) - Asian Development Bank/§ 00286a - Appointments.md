@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 
-Section 9 of Pub. L. 94–564 provided that: “The amendments made by sections 2, 3, 4, 5, 6, and 7 of this Act \[amending this section, sections 286c, 286e–2, 286<i>o</i>, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effectiveupon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund.” Such amendments entered into force Apr. 1, 1978.
+Section 9 of Pub. L. 94–564 provided that: “The amendments made by sections 2, 3, 4, 5, 6, and 7 of thisAct \[amending this section, sections 286c, 286e–2, 286<i>o</i>, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund.” Such amendments entered into force Apr. 1, 1978.
 
 #### Levels of Fund Salaries and Minimization of Travel Costs
 

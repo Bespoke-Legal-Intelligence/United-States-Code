@@ -1,0 +1,48 @@
+### §87h. Appropriations
+
+There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2000, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+
+(Aug. 11, 1916, ch. 313, pt. B, §19, as added Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 769; amended Oct. 21, 1976, Pub. L. 94–582, §21, 90 Stat. 2886; Sept. 29, 1977, Pub. L. 95–113, title XVI, §§1602(c), 1604(n), 91 Stat. 1025, 1029; Aug. 13, 1981, Pub. L. 97–35, title I, §155(4), 95 Stat. 372; Oct. 11, 1984, Pub. L. 98–469, §2(3), 98 Stat. 1832; Oct. 24, 1988, Pub. L. 100–518, §2(4), 102 Stat. 2586; Nov. 24, 1993, Pub. L. 103–156, §3, 107 Stat. 1525.)
+
+#### Amendments
+
+1993—Pub. L. 103–156 substituted “1988 through 2000” for “during the period beginning October 1, 1988, and ending September 30, 1993” and inserted references to sections 79b and 87e of this title.
+
+1988—Pub. L. 100–518 amended section generally, substituting “1988” for “1981” and “1993” for “1984”.
+
+1984—Pub. L. 98–469 temporarily substituted “September 30, 1988” for “September 30, 1984”. See Effective and Termination Dates of 1984 Amendment note below.
+
+1981—Pub. L. 97–35 temporarily amended section, substantially revising enumerated activities for which appropriations are authorized and limiting such authorization for each of the fiscal years during the period beginning Oct. 1, 1981, and ending Sept. 30, 1984. See Effective and Termination Dates of 1981 Amendment note below.
+
+1977—Pub. L. 95–113 substituted “Federal administrative and supervisory costs related to the official inspection or the provision of weighing services for grain” for “those Federal administrative and supervisory costs incurred within the Service's Washington office or not directly related to the official inspection or the provision of weighing services for grain” and renumbered this section as section 19 of the United States Grain Standards Act, thereby correcting an error in the 1976 amendment of this section by Pub. L. 94–582 under which this section had inadvertently been renumbered from section 19 of the United States Grain Standards Act to section 21 thereof.
+
+1976—Pub. L. 94–582 enumerated specific items for which appropriations are authorized and provided for financing obtained from fees and sales of samples as provided in sections 79a and 87f–1 of this title.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–156 effective as of Sept. 30, 1993, see section 16(b) of Pub. L. 103–156, set out as a note under section 75 of this title.
+
+#### Effective and Termination Dates of 1988 Amendment
+
+That part of section 2 of Pub. L. 100–518 which provided that amendment made by Pub. L. 100–518 was effective for the period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed, effective Sept. 30, 1993, by Pub. L. 103–156, §§13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530.
+
+#### Effective and Termination Dates of 1984 Amendment
+
+Section 2 of Pub. L. 98–469 provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+
+#### Effective and Termination Dates of 1981 Amendment
+
+Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
+
+#### Effective Date of 1976 Amendment
+
+For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+
+#### Effective Date
+
+For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
+

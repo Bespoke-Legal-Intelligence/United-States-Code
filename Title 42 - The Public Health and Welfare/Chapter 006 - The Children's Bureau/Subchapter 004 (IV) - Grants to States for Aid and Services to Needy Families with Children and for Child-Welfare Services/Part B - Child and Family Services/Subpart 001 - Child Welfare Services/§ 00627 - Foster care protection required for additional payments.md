@@ -2,7 +2,7 @@
 
 #### (a) Requisite additional steps to qualify
 
-If, for any fiscal year after fiscal year 1979, there is appropriated under section 620 of this title a sum in excess of $141,000,000, a State shall not be eligible for payment from its allotment in an amount greater than the amount for which it would be eligible if such appropriation were equal to $141,000,000, unless such State—
+If, for any fiscal year after fiscal year 1979, there is appropriated under section 620 of thistitle a sum in excess of $141,000,000, a State shall not be eligible for payment from its allotment in an amount greater than the amount for which it would be eligible if such appropriation were equal to $141,000,000, unless such State—
 
 &emsp;(1) has conducted an inventory of all children who have been in foster care under the responsibility of the State for a period of six months preceding the inventory, and determined the appropriateness of, and necessity for, the current foster placement, whether the child can be or should be returned to his parents or should be freed for adoption, and the services necessary to facilitate either the return of the child or the placement of the child for adoption or legal guardianship; and
 

@@ -42,9 +42,9 @@ The Secretary shall establish deadlines for the submission of applications under
 
 &emsp;Notwithstanding any other provision of law, a State educational agency that had been accepted as an applicant for funds under section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) in fiscal year 1994 shall be permitted to continue as an applicant under the same conditions by which such agency made application during such fiscal year only if such State educational agency distributes all funds received for the students for which application is being made by such State educational agency to the local educational agencies providing educational services to such students.
 
-(Pub. L. 89 10, title VIII, §8005, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3761.)
+(Pub. L. 89–10, title VIII, §8005, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3761.)
 
 #### References in Text
 
-Section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (d)(4), means section 3 of act Sept. 30, 1950, ch. 1124, which was classified to section 238 of this title prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (d)(4), means section 3 of act Sept. 30, 1950, ch. 1124, which was classified to section 238 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 

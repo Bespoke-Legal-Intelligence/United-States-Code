@@ -1,6 +1,6 @@
 ### §1601. Termination of existing declared emergencies
 
-(a) All powers and authorities possessed by the President, any other officer or employee of the Federal Government, or any executive agency, as defined in section 105 of title 5, as a result of the existence of any declaration of national emergency in effect on September 14, 1976, are terminated two years from September 14, 1976. Such termination shall not affect—
+(a) All powers and authorities possessed by the President, any other officer or employee of theFederal Government, or any executive agency, as defined in section 105 of title 5, as a result of the existence of any declaration of national emergency in effect on September 14, 1976, are terminated two years from September 14, 1976. Such termination shall not affect—
 
 &emsp;(1) any action taken or proceeding pending not finally concluded or determined on such date;
 
@@ -14,7 +14,7 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 94–412 provided: “That this Act \[enacting this chapter, amending section 1481 of Title 8,Aliens and Nationality, and section 2667 of Title 10, Armed Forces, repealing section 249 of Title 12, Banks and Banking, section 831d of Title 16, Conservation, section 1383 of Title 18, Crimes and Criminal Procedure, section 211b of Title 42, The Public Health and Welfare, and section 1742 of the Appendix to this title, and enacting provisions set out below\] may be cited as the ‘National Emergencies Act’.”
+Section 1 of Pub. L. 94–412 provided: “That this Act \[enacting this chapter, amending section 1481 of Title 8, Aliens and Nationality, and section 2667 of Title 10, Armed Forces, repealing section 249 of Title 12, Banks and Banking, section 831d of Title 16, Conservation, section 1383 of Title 18, Crimes and Criminal Procedure, section 211b of Title 42, The Public Health and Welfare, and section 1742 of the Appendix to this title, and enacting provisions set out below\] may be cited as the ‘National Emergencies Act’.”
 
 #### Savings Provision
 

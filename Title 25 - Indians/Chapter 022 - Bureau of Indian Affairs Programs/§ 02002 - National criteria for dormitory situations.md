@@ -2,7 +2,7 @@
 
 #### (a) Study of costs
 
-The Secretary, in consultation with the Secretary of the Department of Education, and in consultation with Indian organizations andtribes, shall conduct or cause to be conducted by contract with an Indian organization, a study of the costs applicable to boarding arrangements for Indian students provided in Bureau schools, and contract or grant schools, for the purpose of establishing national criteria for such dormitory situations. Such criteria shall include adult-child ratios, needs for counselors (including special needs related to off-reservation boarding arrangements), space, and privacy.
+The Secretary, in consultation with the Secretary of the Department of Education, and in consultation with Indian organizations and tribes, shall conduct or cause to be conducted by contract with an Indian organization, a study of the costs applicable to boarding arrangements for Indian students provided in Bureau schools, and contract or grant schools, for the purpose of establishing national criteria for such dormitory situations. Such criteria shall include adult-child ratios, needs for counselors (including special needs related to off-reservation boarding arrangements), space, and privacy.
 
 #### (b) Distribution and publication of criteria
 

@@ -6,7 +6,7 @@ The district courts shall take cognizance of all complaints, by whomsoever insti
 
 #### Codification
 
-This subchapter and sections 958 to 962 of title 18, referred to in text, was in the original “this chapter”, meaning chapter 2 of the act of Mar. 4, 1909, which had been classified to sections 461 to 464 of this title and sections 21 to 25, and 30 of former Title 18, Criminal Code and Criminal Procedure.
+This subchapter and sections 958 to 962 of title 18, referred to in text, was in the original “this chapter”,meaning chapter 2 of the act of Mar. 4, 1909, which had been classified to sections 461 to 464 of this title and sections 21 to 25, and 30 of former Title 18, Criminal Code and Criminal Procedure.
 
 “This subchapter” substituted in text for “sections 461 to 464 of this title”.
 

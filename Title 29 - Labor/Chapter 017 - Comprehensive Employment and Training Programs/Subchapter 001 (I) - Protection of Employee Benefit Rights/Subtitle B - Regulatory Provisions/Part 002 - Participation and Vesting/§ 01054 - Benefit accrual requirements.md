@@ -86,7 +86,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
-(C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
+(C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulationsprescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
 (D) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of participation” shall be such period as determined under regulations prescribed by the Secretary.
 
@@ -96,7 +96,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (1) For purposes of this section and section 1053 of this title an employee's accrued benefit derived from employer contributions as of any applicable date is the excess (if any) of the accrued benefit for such employee as of such applicable date over the accrued benefit derived from contributions made by such employee as of such date.
 
-(2)(A) In the case of a plan other than a defined benefit plan, the accrued benefit derivedfrom contributions made by an employee as of any applicable date is—
+(2)(A) In the case of a plan other than a defined benefit plan, the accrued benefit derived from contributions made by an employee as of any applicable date is—
 
 &emsp;(i) except as provided in clause (ii), the balance of the employee's separate account consisting only of his contributions and the income, expenses, gains, and losses attributable thereto, or
 
@@ -146,7 +146,7 @@ For purposes of determining the employee's accrued benefit, the plan shall not d
 
 &emsp;(3) repays the full amount of such distribution with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section.
 
-> The plan provision required under this subsection may provide that such repayment mustbe made (A) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (B) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+> The plan provision required under this subsection may provide that such repayment must be made (A) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (B) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
 #### (f) Employer treated as maintaining a plan
 
@@ -274,7 +274,7 @@ Subsec. (b)(1)(H). Pub. L. 99–509, §9202(a)(2), added subpar. (H).
 
 Subsec. (b)(2) to (4). Pub. L. 99–509, §9202(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentence which read as follows: “In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal”.
+Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentencewhich read as follows: “In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal”.
 
 Subsec. (g)(1). Pub. L. 99–514, §1898(f)(2), inserted reference to section 1441.
 
@@ -374,7 +374,7 @@ Section 7881(m)(3) of Pub. L. 101–239 provided that:“If—
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 For provisions directing that if any amendments made by Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 

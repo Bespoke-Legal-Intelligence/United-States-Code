@@ -31,7 +31,7 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 
 1989—Pub. L. 101–189, div. A, title V, §502(a)(2), Nov. 29, 1989, 103 Stat. 1436, added item 687.
 
-1987—Pub. L. 100–180, div. A, title XII, §1231(4), Dec. 4, 1987, 101 Stat. 1160, amended analysis by transferring item 686 from the end to a position immediately below item 685.
+1987—Pub. L. 100–180, div. A, title XII, §1231(4), Dec. 4, 1987, 101 Stat. 1160, amended analysis by transferringitem 686 from the end to a position immediately below item 685.
 
 1986—Pub. L. 99–661, div. A, title IV, §412(b)(2), Nov. 14, 1986, 100 Stat. 3862, added item 686 at end of analysis.
 

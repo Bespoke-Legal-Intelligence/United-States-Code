@@ -54,7 +54,7 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in
 
 The Navajo and Hopi Indian Relocation Amendments of 1988, referred to in subsec. (c)(1)(A), is Pub. L. 100–666, Nov. 16, 1988, 102 Stat. 3929, which enacted sections 640d–29 and 640d–30 of this title, amended sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacted provisions set out as a note under sections 640d and 640d–11 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 640d of this title and Tables.
 
-Public Law 99–190, referred to in subsec. (c)(2), is Pub. L. 99–190, Dec. 19, 1985, 99 Stat. 1185. The provisions of Pub. L. 99–190 (99 Stat. 1236) relating to the relocation of members of the Navajo Tribe are not classified to the Code. For complete classification of Pub. L. 99–190 to the Code, see Tables.
+Public Law 99–190, referred to in subsec. (c)(2), is Pub. L. 99–190, Dec. 19, 1985, 99 Stat. 1185. The provisions ofPub. L. 99–190 (99 Stat. 1236) relating to the relocation of members of the Navajo Tribe are not classified to the Code. For complete classification of Pub. L. 99–190 to the Code, see Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in the subsec. (d)(1)(A), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -88,7 +88,7 @@ Section 3(e) of Pub. L. 102–180 provided that: “The position of Executive Di
 
 #### Employees of Office as Government Employees
 
-Section 3(f) of Pub. L. 102–180 provided that: “Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec.2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code.”
+Section 3(f) of Pub. L. 102–180 provided that: “Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code.”
 
 #### Continuation of Relocation Commission and Retention of Existing Commissioners Pending Confirmation of Commissioner; Transfer of Existing Personnel; Change of Name
 

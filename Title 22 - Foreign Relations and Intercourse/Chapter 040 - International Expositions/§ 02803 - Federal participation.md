@@ -8,7 +8,7 @@ The Federal Government may participate in an international exposition proposed t
 
 &emsp;(2) a statement that the international exposition has been registered by the BIE; and
 
-&emsp;(3) a plan prepared by the Secretary of Commerce in cooperation with other interested departments and agencies of the Federal Government for Federal participation in the exposition. The Secretary of Commerce shall include in such plan any documentation described in subsection (b)(1)(A) of this section,a rendering of any design described in subsection (b)(1)(B) of this section, and any recommendation based on the determination under subsection (b)(1)(C) of this section.
+&emsp;(3) a plan prepared by the Secretary of Commerce in cooperation with other interested departments and agencies of the Federal Government for Federal participation in the exposition. The Secretary of Commerce shall include in such plan any documentation described in subsection (b)(1)(A) of this section, a rendering of any design described in subsection (b)(1)(B) of this section, and any recommendation based on the determination under subsection (b)(1)(C) of this section.
 
 #### (b) Construction of Federal pavilion
 
@@ -24,7 +24,7 @@ The Federal Government may participate in an international exposition proposed t
 
 &emsp;(C) the Secretary of Commerce shall determine whether the Federal Government should be deeded a satisfactory site for the Federal pavilion in fee simple, free of all liens and encumbrances, as a condition of participation in the exposition.
 
-(2) Notwithstanding paragraph (1)(B) of this subsection, if the Secretary of Commerce, in consultation with the Administrator determines that no design of a Federal pavilion will satisfy both needs described in paragraph (1)(B) of this subsection, the Secretary shall design a temporary Federal pavilion.
+(2) Notwithstanding paragraph (1)(B) of this subsection, if the Secretary of Commerce, in consultation with the Administrator determines that no design of a Federal pavilion will satisfyboth needs described in paragraph (1)(B) of this subsection, the Secretary shall design a temporary Federal pavilion.
 
 #### (c) Authorization of appropriations for Federal pavilion
 

@@ -2,7 +2,7 @@
 
 #### (a) Report to President and Congress; analytical justification; scope of analysis
 
-Pursuant and subject to the provisions and procedures set forth in this chapter, the Administrator shall, within six months from May 7, 1974, develop and report to the Congress and the President a comprehensive plan designed to alleviate the energy shortage, for the time periodcovered by this chapter. Such plan shall be accompanied by full analytical justification for the actions proposed therein. Such analysis shall include, but not be limited to—
+Pursuant and subject to the provisions and procedures set forth in this chapter, the Administrator shall, within six months from May 7, 1974, develop and report to the Congress and the President a comprehensive plan designed to alleviate the energy shortage, for the time period covered by this chapter. Such plan shall be accompanied by full analytical justification for the actions proposed therein. Such analysis shall include, but not be limited to—
 
 &emsp;(1) estimates of the energy savings of each action and of the program as a whole;
 

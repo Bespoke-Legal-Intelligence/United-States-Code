@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services and with other heads of appropriate departments and agencies, conduct such research, development, and monitoring as is necessary to carry out the purposes of this chapter. The Administrator may enter into contracts and may make grants for research, development, and monitoring under this subsection. Contracts may be entered into under this subsection without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+The Administrator shall, in consultation and cooperation with the Secretary of Health andHuman Services and with other heads of appropriate departments and agencies, conduct such research, development, and monitoring as is necessary to carry out the purposes of this chapter. The Administrator may enter into contracts and may make grants for research, development, and monitoring under this subsection. Contracts may be entered into under this subsection without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
 #### (b) Data systems
 
@@ -32,15 +32,15 @@ The Administrator shall establish and promote programs and workshops to train or
 
 The Administrator shall, in consultation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies, establish and coordinate a system for exchange among Federal, State, and local authorities of research and development results respecting toxic chemical substances and mixtures, including a system to facilitate and promote the development of standard data format and analysis and consistent testing procedures.
 
-(Pub. L. 94 469, title I, §10, Oct. 11, 1976, 90 Stat. 2031; Pub. L. 96 88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §10, Oct. 11, 1976, 90 Stat. 2031; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Codification
 
-In subsecs. (a) and (b)(2)(B), “section 3324(a) and (b) of title 31” substituted for references to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsecs. (a) and (b)(2)(B), “section 3324(a) and (b) of title 31” substituted for references to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (b)(2), (d), (e), and (g), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96 88, which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (b)(2), (d), (e), and (g), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

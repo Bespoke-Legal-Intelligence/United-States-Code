@@ -1,4 +1,4 @@
-### §§198e to 198j . Repealed. June 25, 1948, ch. 646, §39, 62 Stat. 992, eff. Sept. 1, 1948
+### §§198e to 198j. Repealed. June 25, 1948, ch. 646, §39, 62 Stat. 992, eff. Sept. 1, 1948
 
 Section 198e, acts Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; June 28, 1938, ch. 778, §1, 52 Stat. 1213, related to appointment and jurisdiction of commissioner. See provisions covering United States magistrate judges in section 631 et seq. of Title 28, Judiciary and Judicial Procedures.
 

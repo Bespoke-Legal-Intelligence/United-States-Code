@@ -1,8 +1,8 @@
-### §7420 . Definitions
+### §7420. Definitions
 
 In this chapter:
 
-&emsp;(1) The term “national defense” includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
+&emsp;(1) The term “national defense” includes the needs of, and the planning and preparedness tomeet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
 &emsp;(2) The term “naval petroleum reserves” means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
@@ -14,7 +14,7 @@ In this chapter:
 
 &emsp;(6) The term “maximum efficient rate” means the maximum sustainable daily oil or gas rate from a reservoir which will permit economic development and depletion of that reservoir without detriment to the ultimate recovery.
 
-(Added Pub. L. 94–258, title II, §201(1), Apr. 5, 1976, 90 Stat. 307, and amended Pub. L. 96–513, title V, §513(30), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 100–26, §7(k)(5), Apr. 21, 1987, 101 Stat. 284.)
+(Added Pub. L. 94–258, title II, §201(1), Apr. 5, 1976, 90 Stat. 307; amended Pub. L. 96–513, title V, §513(30), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 100–26, §7(k)(5), Apr. 21, 1987, 101 Stat. 284.)
 
 #### Amendments
 

@@ -6,5 +6,5 @@ This subchapter does not annul, alter, or affect, or exempt any person from comp
 
 &emsp;(2) prohibiting the discharge of any employee by reason of the fact that his earnings have been subjected to garnishment for more than one indebtedness.
 
-(Pub. L. 90 321, title III, §307, May 29, 1968, 82 Stat. 164.)
+(Pub. L. 90–321, title III, §307, May 29, 1968, 82 Stat. 164.)
 

@@ -34,5 +34,5 @@ A State educational agency that submits a consolidated State plan or consolidate
 
 Section 1232d of this title shall not apply to programs under this chapter.
 
-(Pub. L. 89 10, title XIV, §14303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3895.)
+(Pub. L. 89–10, title XIV, §14303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3895.)
 

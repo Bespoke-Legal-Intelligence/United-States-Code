@@ -2,7 +2,7 @@
 
 #### (a) Environmental impact statement
 
-The provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] shall apply to actions of the Administrator implementing sections 7275 to 7276c of this title in the same manner and to the same extent as such provisions apply to other major Federal actions significantly affecting the quality of the human environment.
+The provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] shall apply to actions of the Administrator implementing sections 7275 to 7276c of this title in the same manner and to the same extent as suchprovisions apply to other major Federal actions significantly affecting the quality of the human environment.
 
 #### (b) Annual reports
 
@@ -20,7 +20,7 @@ Nothing in sections 7275 to 7276c of this title shall require a customer to take
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Codification
 

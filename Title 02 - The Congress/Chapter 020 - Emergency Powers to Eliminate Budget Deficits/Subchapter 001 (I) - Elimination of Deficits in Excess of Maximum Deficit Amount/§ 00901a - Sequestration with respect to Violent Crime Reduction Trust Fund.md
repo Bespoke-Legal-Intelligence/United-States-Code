@@ -30,7 +30,7 @@ If, after June 30, an appropriation for the fiscal year in progress is enacted t
 
 #### (d) Within-session sequestration
 
-If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end thesession for the budget year and before July 1 of that fiscal year) that causes a budgetary excess in the Violent Crime Reduction Trust Fund as described in subsection (b) of this section for that year (after taking into account any prior sequestration of amounts under this section), 15 days later there shall be a sequestration to eliminate that excess following the procedures set forth in subsection (b) of this section.
+If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for the budget year and before July 1 of that fiscal year) that causes a budgetary excess in the Violent Crime Reduction Trust Fund as described in subsection (b) of this section for that year (after taking into account any prior sequestration of amounts under this section), 15 days later there shall be a sequestration to eliminate that excess following the procedures set forth in subsection (b) of this section.
 
 #### (e) Part-year appropriations and OMB estimates
 

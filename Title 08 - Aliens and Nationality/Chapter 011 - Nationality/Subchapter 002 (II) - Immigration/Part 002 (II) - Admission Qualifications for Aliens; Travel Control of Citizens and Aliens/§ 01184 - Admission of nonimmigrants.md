@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-(1) The admission to the United States of any alien as a nonimmigrant shall be for such time and under such conditions as the Attorney General may by regulations prescribe, including when he deems necessary the giving of a bond with sufficient surety in such sum and containing such conditions as the Attorney General shall prescribe, to insure that at the expiration of such time or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States. No alien admitted to Guam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam. No alien admitted to the United States without a visa pursuant to section 1187 of this title may be authorized to remain in the United States as a nonimmigrant visitor for a period exceeding 90 days from the date of admission.
+(1) The admission to the United States of any alien as a nonimmigrant shall be for such time and under such conditions as the Attorney General may by regulations prescribe, including when he deems necessary the giving of a bond with sufficient surety in such sum and containing such conditions as the Attorney Generalshall prescribe, to insure that at the expiration of such time or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States. No alien admitted to Guam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam. No alien admitted to the United States without a visa pursuant to section 1187 of this title may be authorized to remain in the United States as a nonimmigrant visitor for a period exceeding 90 days from the date of admission.
 
 (2)(A) The period of authorized status as a nonimmigrant described in section 1101(a)(15)(O) of this title shall be for such period as the Attorney General may specify in order to provide for the event (or events) for which the nonimmigrant is admitted.
 
@@ -74,11 +74,11 @@ Every alien (other than a nonimmigrant described in subparagraph (H)(i) or (L) o
 
 (iii) To meet the consultation requirement of paragraph (4)(D) in the case of a petition for a nonimmigrant described in section 1101(a)(15)(P)(i) or 1101(a)(15)(P)(iii) of this title, the petitioner shall submit with the petition an advisory opinion from a labor organization with expertise in the specific field of athletics or entertainment involved.
 
-(B) To meet the consultation requirements of subparagraph (A), unless the petitioner submits with the petition an advisory opinion from an appropriate labor organization, the Attorney General shall forward a copy of the petition and all supporting documentation to the national office of an appropriate labor organization within 5 days of the date of receipt of the petition. If there is a collective bargaining representative of an employer's employees in the occupational classification for which the alien is being sought, that representative shall be the appropriate labor organization.
+(B) To meet the consultation requirements of subparagraph (A), unless the petitioner submits with the petition an advisory opinion from an appropriate labor organization, the Attorney General shall forward a copy of the petition and all supporting documentation to the national office of an appropriate labor organization within5 days of the date of receipt of the petition. If there is a collective bargaining representative of an employer's employees in the occupational classification for which the alien is being sought, that representative shall be the appropriate labor organization.
 
 (C) In those cases in which a petitioner described in subparagraph (A) establishes that an appropriate peer group (including a labor organization) does not exist, the Attorney General shall adjudicate the petition without requiring an advisory opinion.
 
-(D) Any person or organization receiving a copy of a petition described in subparagraph (A) and supporting documents shall have no more than 15 days following the date of receipt of such documents within which to submit a written advisory opinion or comment or to providea letter of no objection. Once the 15-day period has expired and the petitioner has had an opportunity, where appropriate, to supply rebuttal evidence, the Attorney General shall adjudicate such petition in no more than 14 days. The Attorney General may shorten any specified time period for emergency reasons if no unreasonable burden would be thus imposed on any participant in the process.
+(D) Any person or organization receiving a copy of a petition described in subparagraph (A) and supporting documents shall have no more than 15 days following the date of receipt of such documents within which to submit a written advisory opinion or comment or to provide a letter of no objection. Once the 15-day period has expired and the petitioner has had an opportunity, where appropriate, to supply rebuttal evidence, the Attorney General shall adjudicate such petition in no more than 14 days. The Attorney General may shorten any specified time period for emergency reasons if no unreasonable burden would be thus imposed on any participant in the process.
 
 (E)(i) The Attorney General shall establish by regulation expedited consultation procedures in the case of nonimmigrant artists or entertainers described in section 1101(a)(15)(O) or 1101(a)(15)(P) of this title to accommodate the exigencies and scheduling of a given production or event.
 
@@ -120,7 +120,7 @@ A visa shall not be issued under the provisions of section 1101(a)(15)(K) of thi
 
 &emsp;(A) the President has obtained advice regarding the proposed action from the appropriate advisory committees established under section 2155 of title 19;
 
-&emsp;(B) the President has submitted a report to the Committee on the Judiciary of the Senateand the Committee on the Judiciary of the House of Representatives that sets forth—
+&emsp;(B) the President has submitted a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that sets forth—
 
 &emsp;&emsp;(i) the action proposed to be taken and the reasons therefor, and
 
@@ -186,7 +186,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 #### (j) <sup>1</sup> Labor disputes
 
-Notwithstanding any other provision of this chapter, an alien who is a citizen of Canada or Mexico who seeks to enter the United Statesunder and pursuant to the provisions of Section B, Section C, or Section D of Annex 1603 of the North American Free Trade Agreement, shall not be classified as a nonimmigrant under such provisions if there is in progress a strike or lockout in the course of a labor dispute in the occupational classification at the place or intended place of employment, unless such alien establishes, pursuant to regulations promulgated by the Attorney General, that the alien's entry will not affect adversely the settlement of the strike or lockout or the employment of any person who is involved in the strike or lockout. Notice of a determination under this subsection shall be given as may be required by paragraph 3 of article 1603 of such Agreement. For purposes of this subsection, the term “citizen of Mexico” means “citizen” as defined in Annex 1608 of such Agreement.
+Notwithstanding any other provision of this chapter, an alien who is a citizen of Canada or Mexico who seeks to enter the United States under and pursuant to the provisions of Section B, Section C, or Section D of Annex 1603 of the North American Free Trade Agreement, shall not be classified as a nonimmigrant under such provisions if there is in progress a strike or lockout in the course of a labor dispute in the occupational classification at the place or intended place of employment, unless such alien establishes, pursuant to regulations promulgated by the Attorney General, that the alien's entry will not affect adversely the settlement of the strike or lockout or the employment of any person who is involved in the strike or lockout. Notice of a determination under this subsection shall be given as may be required by paragraph 3 of article 1603 of such Agreement. For purposes of this subsection, the term “citizen of Mexico” means “citizen” as defined in Annex 1608 of such Agreement.
 
 #### (j) <sup>1</sup> Numerical limitations; period of admission; conditions for admission and stay; annual report
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of this chapter, an alien who is a citizen o
 
 (2)(A) Notwithstanding section 1258(2) of this title, the Attorney General may change the status of an alien that qualifies under this subsection and section 1182(e) of this title to that of an alien described in section 1101(a)(15)(H)(i)(b) of this title.
 
-(B) No person who has obtained a change of status under subparagraph (A) and who has failed to fulfill the terms of a contract with a health facility shall be eligible to apply for an immigrant visa, for permanent residence, or for any other change of nonimmigrant status until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least two years following departure from the United States.
+(B) No person who has obtained a change of status under subparagraph (A) and who hasfailed to fulfill the terms of a contract with a health facility shall be eligible to apply for an immigrant visa, for permanent residence, or for any other change of nonimmigrant status until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least two years following departure from the United States.
 
 (3) Notwithstanding any other provision of this subsection, the two-year foreign residence requirement under section 1182(e) of this title shall apply with respect to an alien described in clause (iii) of that section, who has not otherwise been accorded status under section 1101(a)(27)(H) of this title, if at any time the alien practices medicine in an area other than an area described in paragraph (1)(C).
 
@@ -394,7 +394,7 @@ Section 221 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §
 
 “(a) 5-
 
-Year Provision.—With respect to work authorization for aliens admitted as nonimmigrant students described in subparagraph (F) of section 101(a)(15) ofthe Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)\] during the 5-year period beginning October 1, 1991, the Attorney General shall grant such an alien work authorization to be employed off-campus if—
+Year Provision.—With respect to work authorization for aliens admitted as nonimmigrant students described in subparagraph (F) of section 101(a)(15) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)\] during the 5-year period beginning October 1, 1991, the Attorney General shall grant such an alien work authorization to be employed off-campus if—
 
 &emsp;“(1) the alien has completed 1 academic year as such a nonimmigrant and is maintaining good academic standing at the educational institution,
 
@@ -440,7 +440,7 @@ Definition of alien, Attorney General, consular officer, immigrant, immigrant vi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1182, 1186, 1186a, 1201, 1255 of this title, title 26 section 3306; title 29 section 1802.
+This section is referred to in sections 1101, 1182, 1186, 1186a, 1201, 1255 of this title; title 26 section 3306; title 29 section 1802.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (j) have been enacted.</i>
 

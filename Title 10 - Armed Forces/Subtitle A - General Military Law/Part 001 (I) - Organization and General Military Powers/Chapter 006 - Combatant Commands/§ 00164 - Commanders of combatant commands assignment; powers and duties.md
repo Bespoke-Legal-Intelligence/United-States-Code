@@ -24,7 +24,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
-&emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command,including authoritative direction over all aspects of military operations, joint training, and logistics;
+&emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
 &emsp;(B) prescribing the chain of command to the commands and forces within the command;
 
@@ -76,7 +76,7 @@ Selection of Subordinate Commanders.—(1) An officer may be assigned to a posit
 
 Combatant Command Staff.—(1) Each unified and specified combatant command shall have a staff to assist the commander of the command in carrying out his responsibilities. Positions of responsibility on the combatant command staff shall be filled by officers from each of the armed forces having significant forces assigned to the command.
 
-(2) An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
+(2) An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated undersection 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of such command; and
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) amateur athletes who are actively engaged in amateur athletic competition or who have represented the United States in international amateur athletic competition within the preceding 10 years;
 
-&emsp;(3) amateur sports organizations which conduct a national program or regular national amateur athletic competition in two or more sports which are included on the program of the Olympic Games or the Pan-American Games on a level of proficiency appropriate forthe selection of amateur athletes to represent the United States in international amateur athletic competition; and
+&emsp;(3) amateur sports organizations which conduct a national program or regular national amateur athletic competition in two or more sports which are included on the program of the Olympic Games or the Pan-American Games on a level of proficiency appropriate for the selection of amateur athletes to represent the United States in international amateur athletic competition; and
 
 &emsp;(4) individuals not affiliated or associated with any amateur sports organization who in the Corporation's judgment represent the interests of the American public in the activities of the Corporation.
 

@@ -50,7 +50,7 @@ The Director shall, by regulation, establish a risk-based capital test under thi
 
 #### (B) Additional new business
 
-&emsp;&emsp;The Director may, after consideration of each of the studies required by subparagraph (C), assume that the enterprise conducts additional new business during the stress period consistent with the following—
+&emsp;&emsp;The Director may, after consideration of each of the studies required by subparagraph\(C), assume that the enterprise conducts additional new business during the stress period consistent with the following—
 
 #### (i) Amount and product types
 
@@ -104,7 +104,7 @@ For purposes of this subchapter, the risk-based capital level for an enterprise 
 
 #### (2) Management and operations risk
 
-&emsp;To provide for management and operations risk, 30 percent of the amount of total capitaldetermined by applying the risk-based capital test under subsection (a) of this section to the enterprise.
+&emsp;To provide for management and operations risk, 30 percent of the amount of total capital determined by applying the risk-based capital test under subsection (a) of this section to the enterprise.
 
 #### (d) Definitions
 
@@ -186,7 +186,7 @@ The Director shall provide copies of the statistical model or models used to imp
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ The application submitted under subsection (a) of this section shall include the
 
 &emsp;&emsp;(B) Financing prosecutors whose duties are entirely or primarily related to prosecuting cases of motor vehicle theft or of trafficking in stolen motor vehicles or motor vehicle parts.
 
-&emsp;&emsp;(C) Motor vehicle theft prevention programs, including vehicle identification number etching programs, programs implemented by law enforcement agencies and designed to enable the electronic tracking ofstolen automobiles, and programs designed to prevent the export of stolen vehicles.
+&emsp;&emsp;(C) Motor vehicle theft prevention programs, including vehicle identification number etching programs, programs implemented by law enforcement agencies and designed to enable the electronic tracking of stolen automobiles, and programs designed to prevent the export of stolen vehicles.
 
 &emsp;(5) A description of the budget for the applicant Anti Car Theft Committee for the fiscal year for which a grant is sought.
 

@@ -8,7 +8,7 @@ With the approval of its State educational agency, a local educational agency th
 
 A local educational agency, individual school, or consortium of schools may use a total of not more than five percent of the funds such agency, school, or consortium, respectively, receives under this chapter for the establishment and implementation of a coordinated services project in accordance with the requirements of subchapter XI of this chapter.
 
-(Pub. L. 89 10, title XIV, §14206, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3894.)
+(Pub. L. 89–10, title XIV, §14206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3894.)
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The Carl D. Perkins Vocational Education Act, referred to in subsec. (a), as ame
 
 1984—Subsec. (a). Pub. L. 98–524, §4(a)(6)(A), substituted “section 422 of the Carl D. Perkins Vocational Education Act” for “section 161(b) of the Vocational Education Act of 1963”.
 
-Pub. L. 98–524, §4(a)(6)(D), which substituted “section 422 of the Carl D. Perkins Vocational Education Act” for “section 161(b) of the Vocational Education Act of 1963”, was repealed by Pub. L. 99–159.
+Pub. L. 98–524, §4(a)(6)(D), which substituted “section 422 of the Carl D. Perkins Vocational Education Act”for “section 161(b) of the Vocational Education Act of 1963”, was repealed by Pub. L. 99–159.
 
 1982—Subsec. (a)(1). Pub. L. 97–404, §4(d)(1), inserted “related to labor market information” after “processing systems”.
 

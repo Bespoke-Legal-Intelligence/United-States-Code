@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available under section 6814(b)(1)<sup>1</sup> of this title for any fiscal year the Secretary is authorized to award grants, on a competitive basis, to consortia having applications approved under subsection (d) of this section, which consortia shall include at least one local educational agency with a high percentage or number of children living below the poverty line and may include other local educational agencies, State educational agencies, institutions of higher education, businesses, academic content experts, software designers,museums, libraries, or other appropriate entities.
+&emsp;From amounts made available under section 6814(b)(1) <sup>1</sup> of this title for any fiscal year the Secretary is authorized to award grants, on a competitive basis, to consortia having applications approved under subsection (d) of this section, which consortia shall include at least one local educational agency with a high percentage or number of children living below the poverty line and may include other local educational agencies, State educational agencies, institutions of higher education, businesses, academic content experts, software designers,museums, libraries, or other appropriate entities.
 
 #### (2) Duration
 
@@ -32,15 +32,15 @@ In awarding grants under this section, the Secretary shall give priority to cons
 
 Each local educational agency desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
 
-(Pub. L. 89 10, title III, §3136, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3648.)
+(Pub. L. 89–10, title III, §3136, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3648.)
 
 #### References in Text
 
-Section 6814(b)(1) of this title, referred to in subsec. (a)(1), was in the original “section 3115(b)(1)”, meaning section 3115(b)(1) of Pub. L. 89 10, which was translated as reading section 3114(b)(1) of that Act to reflect the probable intent of Congress because section 3115 does not contain subsections, and section 3114(b)(1) makes amounts available for grants under this section.
+Section 6814(b)(1) of this title, referred to in subsec. (a)(1), was in the original “section 3115(b)(1)”, meaning section 3115(b)(1) of Pub. L. 89–10, which was translated as reading section 3114(b)(1) of that Act to reflect the probable intent of Congress because section 3115 does not contain subsections, and section 3114(b)(1) makes amounts available for grants under this section.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6814 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

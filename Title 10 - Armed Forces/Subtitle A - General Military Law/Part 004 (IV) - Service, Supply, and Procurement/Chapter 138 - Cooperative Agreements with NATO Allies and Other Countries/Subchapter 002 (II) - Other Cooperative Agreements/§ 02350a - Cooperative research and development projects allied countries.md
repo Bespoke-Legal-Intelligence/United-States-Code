@@ -46,7 +46,7 @@ Reports to Congress.—(1) Not later than March 1 of each year, the Under Secret
 
 &emsp;(B) a description of the purpose, funding, and schedule of any new projects proposed to be carried out under this section (including those projects for which memoranda of understanding (or other formal agreements) have not yet been entered into) for which funds have been included in the budget submitted to Congress pursuant to section 1105 of title 31 for the fiscal year following the fiscal year in which the report is submitted.
 
-(2) The Secretary of Defense and the Secretary of State, whenever they consider such action tobe warranted, shall jointly submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report—
+(2) The Secretary of Defense and the Secretary of State, whenever they consider such action to be warranted, shall jointly submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report—
 
 &emsp;(A) enumerating those countries to be added to or deleted from the existing designation of countries designated as major non-NATO allies for purposes of this section; and
 
@@ -100,9 +100,9 @@ Definitions.—In this section:
 
 #### Prior Provisions
 
-Similar provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(1).
+Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(1).
 
-Similar provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
+Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
 
@@ -120,9 +120,9 @@ Subsec. (i)(4). Pub. L. 103–337, §1301(b), added par. (4).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Termination Date of 1992 Amendment
 

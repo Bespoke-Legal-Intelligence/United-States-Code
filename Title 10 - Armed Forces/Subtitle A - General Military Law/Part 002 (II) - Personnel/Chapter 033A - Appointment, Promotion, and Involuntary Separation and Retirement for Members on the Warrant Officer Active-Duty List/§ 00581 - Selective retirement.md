@@ -1,4 +1,4 @@
-### §581 . Selective retirement
+### §581. Selective retirement
 
 (a) A regular warrant officer who holds a warrant officer grade above warrant officer, W–1, and whose name is not on a list of warrant officers recommended for promotion and who is eligible to retire under any provision of law may be considered for retirement by a selection board convened under section 573(c) of this title. The Secretary concerned shall specify the maximum number of warrant officers that such a board may recommend for retirement.
 

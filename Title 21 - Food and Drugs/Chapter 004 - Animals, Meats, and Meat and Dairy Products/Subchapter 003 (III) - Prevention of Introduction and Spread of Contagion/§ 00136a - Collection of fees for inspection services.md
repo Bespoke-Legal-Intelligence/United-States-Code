@@ -182,3 +182,7 @@ Subsec. (a)(3)(B)(v). Pub. L. 101–508, §1203(2)(B), added cl. (v).
 
 Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of Title 7, Agriculture.
 
+#### Report on Agricultural Quarantine Inspection Fund
+
+Pub. L. 104–66, title I, §1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
+

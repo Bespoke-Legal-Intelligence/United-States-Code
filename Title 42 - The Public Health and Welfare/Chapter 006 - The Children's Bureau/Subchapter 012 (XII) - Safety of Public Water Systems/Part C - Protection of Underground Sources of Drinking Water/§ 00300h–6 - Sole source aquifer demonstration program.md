@@ -98,15 +98,11 @@ Upon entering a cooperative agreement under subsection (i) of this section, the 
 
 No funds authorized under this subsection <sup>1</sup> may be used to fund activities funded under other sections of this chapter or the Clean Water Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] or other environmental laws.
 
-#### (<i>l</i>) Report
-
-Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.
-
-#### (m) Savings provision
+#### (<i>l</i>) Savings provision
 
 Nothing under this section shall be construed to amend, supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws; or any requirement imposed or right provided under any Federal or State environmental or public health statute.
 
-#### (n) Authorization of appropriations
+#### (m) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section not more than the following amounts:
 
@@ -136,7 +132,7 @@ There are authorized to be appropriated to carry out this section not more than 
 
 > Matching grants under this section may also be used to implement or update any water quality management plan for a sole or principal source aquifer approved (before June 19, 1986) by the Administrator under section 208 of the Federal Water Pollution Control Act \[33 U.S.C. 1288\].
 
-(July 1, 1944, ch. 373, title XIV, §1427, as added and amended June 19, 1986, Pub. L. 99–339, title II, §203, title III, §301(f), 100 Stat. 657, 664.)
+(July 1, 1944, ch. 373, title XIV, §1427, as added and amended June 19, 1986, Pub. L. 99–339, titleII, §203, title III, §301(f), 100 Stat. 657, 664; Dec. 21, 1995, Pub. L. 104–66, title II, §2021(g), 109 Stat. 727.)
 
 #### References in Text
 
@@ -147,6 +143,8 @@ The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L.
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Amendments
+
+1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
 
 1986—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

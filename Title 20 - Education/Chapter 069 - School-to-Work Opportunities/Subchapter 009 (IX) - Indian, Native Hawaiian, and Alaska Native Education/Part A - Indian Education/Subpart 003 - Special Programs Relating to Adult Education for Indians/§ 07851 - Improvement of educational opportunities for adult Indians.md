@@ -56,5 +56,5 @@ The Secretary may make grants to, and enter into contracts with, public agencies
 
 &emsp;In approving applications under paragraph (1), the Secretary shall give priority to applications from Indian educational agencies, organizations, and institutions.
 
-(Pub. L. 89 10, title IX, §9131, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3790.)
+(Pub. L. 89–10, title IX, §9131, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3790.)
 

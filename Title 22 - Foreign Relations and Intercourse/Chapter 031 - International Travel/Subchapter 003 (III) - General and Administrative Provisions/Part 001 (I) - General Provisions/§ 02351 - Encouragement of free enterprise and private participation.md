@@ -44,7 +44,7 @@ It is the sense of Congress that the Director of the United States International
 
 (2) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.
 
-(Pub. L. 87–195, pt. III, §601, Sept. 4, 1961, 75 Stat. 438; Pub. L. 88–205, pt. III, §301(a), (b), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(a), (b), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 89–583, pt. III, §301(a), Sept. 19, 1966, 80 Stat. 803; Pub. L. 90–137, pt. III, §301(a), Nov. 14, 1967, 81 Stat. 458; Pub. L. 95–424, title I, §102(g)(2)(B), title V, §501, Oct. 6, 1978, 92 Stat. 942, 956; 1979 Reorg. Plan No. 2, §6(a)(1), (b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 87–195, pt. III, §601, Sept. 4, 1961, 75 Stat. 438; Pub. L. 88–205, pt. III, §301(a), (b), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(a),\(b), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 89–583, pt. III, §301(a), Sept. 19, 1966, 80 Stat. 803; Pub. L. 90–137, pt. III, §301(a), Nov. 14, 1967, 81 Stat. 458; Pub. L. 95–424, title I, §102(g)(2)(B), title V, §501, Oct. 6, 1978, 92 Stat. 942, 956; 1979 Reorg. Plan No. 2, §6(a)(1), (b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References in Text
 

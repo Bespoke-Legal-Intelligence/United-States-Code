@@ -4,7 +4,7 @@
 
 The Congress finds and declares—
 
-&emsp;(1) that various departments, agencies, and instrumentalities of the Federal Government with responsibilities involving housing and housing finance programs, require, approve, use or otherwise employ a variety of different forms as residential mortgages (or deeds of trust or similar security instruments) as notes secured by those mortgages, and for applications, appraisals and other purposes, and that such duplication of forms constitutes a paperwork burden that adds to the costs imposed on the Nation's homeowners and home buyers;
+&emsp;(1) that various departments, agencies, and instrumentalities of the Federal Governmentwith responsibilities involving housing and housing finance programs, require, approve, use or otherwise employ a variety of different forms as residential mortgages (or deeds of trust or similar security instruments) as notes secured by those mortgages, and for applications, appraisals and other purposes, and that such duplication of forms constitutes a paperwork burden that adds to the costs imposed on the Nation's homeowners and home buyers;
 
 &emsp;(2) that unnecessary paperwork impairs the effectiveness of Federal housing and housing finance programs;
 

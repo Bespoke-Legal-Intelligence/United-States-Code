@@ -76,7 +76,7 @@ Pub. L. 103–160, div. A, title VIII, §843, Nov. 30, 1993, 107 Stat. 1720, as 
 
 “(a)
 
-Report Requirement.—(1) Whenever the Secretary of Defense proposes to enter into a contract withany person for an amount in excess of $5,000,000 for the provision of goods or services to the Department of Defense, the Secretary shall require that person—
+Report Requirement.—(1) Whenever the Secretary of Defense proposes to enter into a contract with any person for an amount in excess of $5,000,000 for the provision of goods or services to the Department of Defense, the Secretary shall require that person—
 
 &emsp;“(A) before entering into the contract, to report to the Secretary each commercial transaction which that person has conducted with the government of any terrorist country during the preceding three years or the period since the effective date of this section, whichever is shorter; and
 

@@ -26,7 +26,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 #### (c) Determination of amount by Secretary; distribution on basis of selection board recommendations
 
-The Secretary shall determine the amount of performance pay available under subsection\(b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
+The Secretary shall determine the amount of performance pay available under subsection (b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
@@ -46,7 +46,7 @@ Section 173(a)–(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(
 
 “(a)
 
-Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may not award or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
+Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may notaward or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
 
 “(b)
 

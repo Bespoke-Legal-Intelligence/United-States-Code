@@ -108,7 +108,7 @@ In subsection (c), before clause (1), the words “To assist” are omitted as s
 
 #### Report on Certain Bilateral Negotiations
 
-Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report every other month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
+Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report everyother month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
 
 #### Warsaw Convention
 
@@ -128,7 +128,7 @@ Have nominated to this end their respective Plenipotentiaries, who being thereto
 
 (1) This convention shall apply to all international transportation of persons, baggage, or goods performed by aircraft for hire. It shall apply equally to gratuitous transportation by aircraft performed by an air transportation enterprise.
 
-(2) For the purpose of this convention the expression “international transportation” shall mean any transportation in which, according to the contract made by the parties, the place of departure and the place of destination, whether or not there be a break in the transportation or a transshipment, are situated either within the territories of two High Contracting Parties, or within the territory of a single High Contracting Party, if there is an agreed stopping place within a territory subject to the sovereignty, suzerainty, mandateor authority of another power, even though that power is not a party to this convention. Transportation without such an agreed stopping place between territories subject to the sovereignty, suzerainty, mandate, or authority of the same High Contracting Party shall not be deemed to be international for the purposes of this convention.
+(2) For the purpose of this convention the expression “international transportation” shall mean any transportation in which, according to the contract made by the parties, the place of departure and the place of destination, whether or not there be a break in the transportation or a transshipment, are situated either within the territories of two High Contracting Parties, or within the territory of a single High Contracting Party, if there is an agreed stopping place within a territory subject to the sovereignty, suzerainty, mandate or authority of another power, even though that power is not a party to this convention. Transportation without such an agreed stopping place between territories subject to the sovereignty, suzerainty, mandate, or authority of the same High Contracting Party shall not be deemed to be international for the purposes of this convention.
 
 (3) Transportation to be performed by several successive air carriers shall be deemed, for the purposes of this convention, to be one undivided transportation, if it has been regarded by the parties as a single operation, whether it has been agreed upon under the form of a single contract or of a series of contracts, and it shall not lose its international character merely because one contract or series of contracts is to be performed entirely within a territory subject to the sovereignty, suzerainty, mandate, or authority of the same High Contracting Party.
 
@@ -288,7 +288,7 @@ The consignor and the consignee can respectively enforce all the rights given th
 
 #### <i>Article 15</i>
 
-(1) Articles 12, 13, and 14 shall not affect either the relations of the consignor and the consignee with each other or the relations of third parties whose rights are derived either from the consignor or from the consignee.
+(1) Articles 12, 13, and 14 shall not affect either the relations of the consignor and the consignee with each other or the relations of third parties whose rights arederived either from the consignor or from the consignee.
 
 (2) The provisions of articles 12, 13, and 14 can only be varied by express provision in the air waybill.
 
@@ -364,7 +364,7 @@ Any provision tending to relieve the carrier of liability or to fix a lower limi
 
 #### <i>Article 27</i>
 
-In the case of the death of the person liable, an action for damages lies in accordance with the terms of this convention against those legally representing his estate.
+In the case of the death of the person liable, an action for damages lies in accordance with the terms of thisconvention against those legally representing his estate.
 
 #### <i>Article 28</i>
 
@@ -390,7 +390,7 @@ In the case of the death of the person liable, an action for damages lies in acc
 
 #### <i>Article 31</i>
 
-(1) In the case of combined transportation performed partly by air and partly by any other mode of transportation, the provisions of this convention shall apply only to the transportation by air, provided that thetransportation by air falls within the terms of article 1.
+(1) In the case of combined transportation performed partly by air and partly by any other mode of transportation, the provisions of this convention shall apply only to the transportation by air, provided that the transportation by air falls within the terms of article 1.
 
 (2) Nothing in this convention shall prevent the parties in the case of combined transportation from inserting in the document of air transportation conditions relating to other modes of transportation, provided that the provisions of this convention are observed as regards the transportation by air.
 
@@ -456,7 +456,7 @@ This convention, done at Warsaw on October 12, 1929, shall remain open for signa
 
 Adopted by the Civil Aeronautics Board at its office in Washington, D.C., on the 13th day of May 1966.
 
-The Convention for the Unification of Certain Rules Relating to International Transportation by Air, generally known as the Warsaw Convention, creates a uniform body of law with respect to the rights and responsibilities of passengers, shippers, and air carriers in international air transportation. The United States became a party to the Convention in 1934, and eventually over 90 countries likewise became parties to the Convention.<sup>1</sup> On November 15, 1965, the U.S. Government gave notice of denunciation of the Convention, emphasizing that such action was solely because of the Convention's low limits of liability for personal injury or death to passengers. Pursuant to Article 39 of the Convention this notice would become effective upon 6 months’ notice, in this case, May 15, 1966. Subsequently, the International Air Transport Association (IATA) made efforts to effect an arrangement among air carriers, foreign air carriers, and other carriers (including carriers not members of IATA) providing the major portions of international air carriage to and from the United States to increase the limitations ofliability now applicable to claims for personal injury and death under the Convention and the Protocol. The purpose of such action is to provide a basis upon which the United States could withdrawn its notice of denunciation.
+The Convention for the Unification of Certain Rules Relating to International Transportation by Air, generally known as the Warsaw Convention, creates a uniform body of law with respect to the rights and responsibilities of passengers, shippers, and air carriers in international air transportation. The United States became a party to the Convention in 1934, and eventually over 90 countries likewise became parties to the Convention.<sup>1</sup> On November 15, 1965, the U.S. Government gave notice of denunciation of the Convention, emphasizing that such action was solely because of the Convention's low limits of liability for personal injury or death to passengers. Pursuant to Article 39 of the Convention this notice would become effective upon 6 months’ notice, in this case, May 15, 1966. Subsequently, the International Air Transport Association (IATA) made efforts to effect an arrangement among air carriers, foreign air carriers, and other carriers (including carriers not members of IATA) providing the major portions of international air carriage to and from the United States to increase the limitations of liability now applicable to claims for personal injury and death under the Convention and the Protocol. The purpose of such action is to provide a basis upon which the United States could withdrawn its notice of denunciation.
 
 The arrangement proposed has been embodied in an agreement (Agreement CAB 18900) between various air carriers, foreign air carriers, and other carriers which has been filed with the Board pursuant to section 412(a) of the Federal Aviation Act of 1958 and Part 261 of the Board's economic regulations and assigned the abovedesignated CAB number.
 

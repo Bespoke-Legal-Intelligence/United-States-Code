@@ -26,7 +26,7 @@ Sections 1 and 2 of House Resolution No. 1297 were redesignated subsecs. (a) and
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Transfer of Functions
 

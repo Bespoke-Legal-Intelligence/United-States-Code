@@ -12,13 +12,13 @@
 
 &emsp;&emsp;&emsp;(II) any planned change in such mission; and
 
-&emsp;&emsp;&emsp;(III) the operational steps needed to achieve the facility's mission and the dates by which such steps are planned to be completed; and
+&emsp;&emsp;&emsp;(III) the operational steps needed to achieve the facility's mission and thedates by which such steps are planned to be completed; and
 
 &emsp;&emsp;(ii) a five-year plan, based on the factors set out in subclause (i) of this clause, for construction, replacement, or alteration projects for each such facility;
 
 &emsp;(B) a list, in order of priority, of not less than 10 hospitals that, in the judgment of the Secretary, after considering the analysis and recommendations of the Under Secretary for Health, are most in need of construction or replacement; and
 
-&emsp;(C) general plans (including projected costs, site location, and, if appropriate, necessaryland acquisition) for each medical facility for which construction, replacement, or alteration is planned under clause (A)(ii) of this paragraph.
+&emsp;(C) general plans (including projected costs, site location, and, if appropriate, necessary land acquisition) for each medical facility for which construction, replacement, or alteration is planned under clause (A)(ii) of this paragraph.
 
 (3) The report under this subsection shall be submitted not later than June 30 of each year.
 

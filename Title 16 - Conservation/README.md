@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 1994 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 1995 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -119,6 +119,9 @@
 | [<b>72.</b>](Chapter%20072%20-%20Recreational%20Hunting%20Safety/README.md) | <b>Recreational Hunting Safety</b> | <b>5201</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Rhinoceros%20and%20Tiger%20Conservation/README.md) | <b>Rhinoceros and Tiger Conservation</b> | <b>5301</b> |
 | [<b>74.</b>](Chapter%20074%20-%20National%20Maritime%20Heritage/README.md) | <b>National Maritime Heritage</b> | <b>5401</b> |
+| [<b>75.</b>](Chapter%20075%20-%20High%20Seas%20Fishing%20Compliance/README.md) | <b>High Seas Fishing Compliance</b> | <b>5501</b> |
+| [<b>76.</b>](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md) | <b>Northwest Atlantic Fisheries Convention</b> | <b>5601</b> |
+| [<b>77.</b>](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md) | <b>Yukon River Salmon</b> | <b>5701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -240,3 +243,6 @@
 - [Chapter 072 - Recreational Hunting Safety](Chapter%20072%20-%20Recreational%20Hunting%20Safety/README.md)
 - [Chapter 073 - Rhinoceros and Tiger Conservation](Chapter%20073%20-%20Rhinoceros%20and%20Tiger%20Conservation/README.md)
 - [Chapter 074 - National Maritime Heritage](Chapter%20074%20-%20National%20Maritime%20Heritage/README.md)
+- [Chapter 075 - High Seas Fishing Compliance](Chapter%20075%20-%20High%20Seas%20Fishing%20Compliance/README.md)
+- [Chapter 076 - Northwest Atlantic Fisheries Convention](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md)
+- [Chapter 077 - Yukon River Salmon](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md)

@@ -34,7 +34,7 @@ Any contracting agency may allow any advance payments, previously made or author
 
 #### (f) Liquidation of loans, etc., prior to final settlement
 
-No interim financing shall be made by any contracting agency under this chapter unlessthe terms of such financing provide for the liquidation by the war contractor of all loans, discounts, advance payments, or partial payments thereunder not later than the time of final payment of the amount due on the settlement of the termination claim or claims of the war contractor involved or such time thereafter as the contracting agency deems necessary for the liquidation of such interim financing in an orderly manner.
+No interim financing shall be made by any contracting agency under this chapter unless the terms of such financing provide for the liquidation by the war contractor of all loans, discounts, advance payments, or partial payments thereunder not later than the time of final payment of the amount due on the settlement of the termination claim or claims of the war contractor involved or such time thereafter as the contracting agency deems necessary for the liquidation of such interim financing in an orderly manner.
 
 #### (g) Settlement of claims; validation of prior financing
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary, acting through the Service, shall make grants to tribes and tribal organizations for the construction, expansion, or modernization of facilities for the provision of ambulatory care services to eligible Indians (and noneligible persons as provided in subsection (c)(1)(C) of this section). A grant made under this section may cover up to 100 percent of the costs of such construction, expansion, or modernization. For the purposes of this section, the term “construction” includes the replacement of an existing facility.
 
-(2) A grant under paragraph (1) may only be made to a tribe or tribal organization operating an Indian health facility (other than a facility owned or constructed by the Service, including a facility originally owned or constructed by the Service and transferred to a tribe or tribal organization) pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+(2) A grant under paragraph (1) may only be made to a tribe or tribal organization operating an Indian health facility (other than a facility owned or constructed by the Service, including a facility originally owned or constructed by theService and transferred to a tribe or tribal organization) pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
 #### (b) Use of grant
 
@@ -26,7 +26,7 @@
 
 #### (c) Application for grant
 
-(1) No grant may be made under this section unless an application for such a grant has beensubmitted to and approved by the Secretary. An application for a grant under this section shall be submitted in such form and manner as the Secretary shall by regulation prescribe and shall set forth reasonable assurance by the applicant that, at all times after the construction, expansion, or modernization of a facility carried out pursuant to a grant received under this section—
+(1) No grant may be made under this section unless an application for such a grant has been submitted to and approved by the Secretary. An application for a grant under this section shall be submitted in such form and manner as the Secretary shall by regulation prescribe and shall set forth reasonable assurance by the applicant that, at all times after the construction, expansion, or modernization of a facility carried out pursuant to a grant received under this section—
 
 &emsp;(A) adequate financial support will be available for the provision of services at such facility;
 

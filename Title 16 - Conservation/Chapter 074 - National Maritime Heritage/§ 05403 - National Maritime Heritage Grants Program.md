@@ -92,7 +92,7 @@ To qualify for a subgrant from the National Trust under subsection (b) of this s
 
 #### (1) Application procedures
 
-&emsp;An application for a subgrant under subsection (b) of this section, or a direct grant or subgrant under subsection (c) of this section, shall be submitted under procedures prescribed by the Secretary.
+&emsp;An application for a subgrant under subsection (b) of this section, or a direct grant orsubgrant under subsection (c) of this section, shall be submitted under procedures prescribed by the Secretary.
 
 #### (2) Terms and conditions
 

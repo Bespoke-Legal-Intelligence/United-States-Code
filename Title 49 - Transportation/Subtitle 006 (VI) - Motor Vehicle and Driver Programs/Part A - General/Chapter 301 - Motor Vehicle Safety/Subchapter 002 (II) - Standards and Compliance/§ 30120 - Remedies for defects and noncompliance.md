@@ -34,7 +34,7 @@ Adequacy of Repairs.—(1) If a manufacturer decides to repair a defective or no
 
 &emsp;(B) for a vehicle, refund the purchase price, less a reasonable allowance for depreciation.
 
-(2) Failure to repair a motor vehicle or replacement equipment adequately not later than 60 days after its presentation is prima facie evidence of failure to repair within a reasonable time. However, the Secretary may extend, by order, the 60-day period if good cause for an extension is shown and the reason is published in the Federal Register before the period ends. Presentation of a vehicle or equipment for repair before the date specified by a manufacturer in a notice under section 30119(a)(5) or 30121(c)(2)of this title is not a presentation under this subsection.
+(2) Failure to repair a motor vehicle or replacement equipment adequately not later than 60 days after its presentation is prima facie evidence of failure to repair within a reasonable time. However, the Secretary may extend, by order, the 60-day period if good cause for an extension is shown and the reason is published in the Federal Register before the period ends. Presentation of a vehicle or equipment for repair before the date specified by a manufacturer in a notice under section 30119(a)(5) or 30121(c)(2) of this title is not a presentation under this subsection.
 
 (d)
 
@@ -166,7 +166,7 @@ In subsection (a)(1), before clause (A), the words “Subject to subsections (f)
 
 Subsection (a)(2) is substituted for 15:1414(a)(2)(A) (last sentence) for clarity.
 
-In subsection (b)(1), before clause (A), the words “shall remedy a defective or noncomplying tire if” aresubstituted for “shall not be obligated to remedy such tire if such tire is not” to eliminate unnecessary words and for consistency. The words “pursuant to notification” are omitted as surplus. In clause (B), the words “decides to replace the tire” are substituted for “elects replacement” for clarity.
+In subsection (b)(1), before clause (A), the words “shall remedy a defective or noncomplying tire if” are substituted for “shall not be obligated to remedy such tire if such tire is not” to eliminate unnecessary words and for consistency. The words “pursuant to notification” are omitted as surplus. In clause (B), the words “decides to replace the tire” are substituted for “elects replacement” for clarity.
 
 Subsection (b)(2) is substituted for 15:1414(a)(5)(B) to eliminate unnecessary words.
 

@@ -1,4 +1,4 @@
-### §742d . Investigations; preparation and dissemination of information; reports
+### §742d. Investigations; preparation and dissemination of information; reports
 
 (a) <sup>1</sup> The Secretary shall conduct continuing investigations, prepare and disseminate information, and make periodical reports to the public, to the President, and to Congress, with respect to the following matters:
 

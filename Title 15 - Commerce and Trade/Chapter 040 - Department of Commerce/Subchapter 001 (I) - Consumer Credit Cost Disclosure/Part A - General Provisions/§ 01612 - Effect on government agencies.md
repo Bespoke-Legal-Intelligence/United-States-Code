@@ -16,13 +16,13 @@ A creditor participating in a credit program administered, insured, or guarantee
 
 A creditor participating in a credit program administered, insured, or guaranteed by any department or agency of the United States shall not be held liable for a civil or criminal penalty under the laws of any State (other than laws determined under section 1610 of this title to be inconsistent with this subchapter) for any technical or procedural failure, such as a failure to use a specific form, to make information available at a specific place on an instrument, or to use a specific typeface, as required by State law, which is caused by the use of an instrument required to be used by such department or agency.
 
-(Pub. L. 90 321, title I, §113, May 29, 1968, 82 Stat. 151; Pub. L. 96 221, title VI, §622(a), Mar. 31, 1980, 94 Stat. 184.)
+(Pub. L. 90–321, title I, §113, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, §622(a), Mar. 31, 1980, 94 Stat. 184.)
 
 #### Amendments
 
-1980—Pub. L. 96 221 amended section generally, designating existing provisions as subsec. (b) and adding subsecs. (a), (c), and (d).
+1980—Pub. L. 96–221 amended section generally, designating existing provisions as subsec. (b) and adding subsecs. (a), (c), and (d).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 

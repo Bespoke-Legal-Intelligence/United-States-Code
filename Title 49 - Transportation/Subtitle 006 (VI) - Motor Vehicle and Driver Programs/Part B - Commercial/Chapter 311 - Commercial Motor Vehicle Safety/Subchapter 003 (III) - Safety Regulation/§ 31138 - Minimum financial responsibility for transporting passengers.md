@@ -30,6 +30,8 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
+(3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
+
 (d)
 
 Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
@@ -54,11 +56,13 @@ Nonapplication.—This section does not apply to a motor vehicle—
 
 &emsp;(1) transporting only school children and teachers to or from school;
 
-&emsp;(2) providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places; or
+&emsp;(2) providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;
 
-&emsp;(3) carrying not more than 15 individuals in a single, daily round trip to and from work.
+&emsp;(3) carrying not more than 15 individuals in a single, daily round trip to and from work; or
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005.)
+&emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919.)
 
 Historical and Revision Notes
 
@@ -108,7 +112,17 @@ In subsection (d)(5), the words “when finally determined (or agreed upon in co
 
 In subsection (e), before clause (1), the text of section 18(g) of the Bus Regulatory Reform Act of 1982 (Public Law 97–261, 96 Stat. 1122) is omitted as unnecessary because of the restatement.
 
+#### Amendments
+
+1995—Subsec. (c)(3). Pub. L. 104–88, §104(c), added par. (3).
+
+Subsec. (e)(4). Pub. L. 104–88, §104(d), added par. (4).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 507, 521, 526, 10922, 10923, 10927 of this title.
+This section is referred to in sections 507, 521, 526, 10927, 13101, 13902, 13906 of this title.
 

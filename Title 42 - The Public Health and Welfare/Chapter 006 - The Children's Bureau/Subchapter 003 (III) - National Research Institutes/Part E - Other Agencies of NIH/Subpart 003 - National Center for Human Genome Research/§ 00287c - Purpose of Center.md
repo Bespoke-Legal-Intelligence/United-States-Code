@@ -38,11 +38,11 @@ A prior section 287c, act July 1, 1944, ch. 373, title IV, §483, as added Nov. 
 
 A prior section 287c–1, act July 1, 1944, ch. 373, title IV, §484, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867, and amended, which related to specific authorities of the Director of the Center, was renumbered section 464W of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–1 of this title.
 
-A prior section 287c–2, act July 1, 1944, ch. 373, title IV, §485, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99Stat. 867, and amended, which related to the advisory council for the Center, was renumbered section 464X of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–2 of this title.
+A prior section 287c–2, act July 1, 1944, ch. 373, title IV, §485, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867, and amended, which related to the advisory council for the Center, was renumbered section 464X of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–2 of this title.
 
 A prior section 287c–3, act July 1, 1944, ch. 373, title IV, §486, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869, and amended, which related to biennial report of activities of the Center, was renumbered section 464Y of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–3 of this title.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

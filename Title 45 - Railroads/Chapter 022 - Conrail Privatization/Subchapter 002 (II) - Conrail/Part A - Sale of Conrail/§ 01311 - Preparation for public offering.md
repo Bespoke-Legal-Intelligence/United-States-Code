@@ -22,7 +22,7 @@ The Corporation shall prepare and cause to be filed with the Securities and Exch
 
 #### References in Text
 
-This part, referred to in subsec. (a), was in the original “this subpart” meaning subpart A (§§4011–4013) of part 2 of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this part and amended section 726 of this title. For complete classification of subpart A to the Code, see Tables.
+This part, referred to in subsec. (a), was in the original “this subpart” meaning subpart A (§§4011–4013) ofpart 2 of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this part and amended section 726 of this title. For complete classification of subpart A to the Code, see Tables.
 
 #### Codification
 

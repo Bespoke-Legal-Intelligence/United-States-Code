@@ -12,7 +12,7 @@ In order for any State which makes supplementary payments of the type described 
 
 &emsp;(3) continue to make such supplementary payments, and
 
-&emsp;(4) maintain such supplementary payments at levels which are not lower than the levels of such payments in effect in December 1976, or, if no such payments were made in that month, the levels for the first subsequent month in which such payments were made.
+&emsp;(4) maintain such supplementary payments at levels which are not lower than the levels ofsuch payments in effect in December 1976, or, if no such payments were made in that month, the levels for the first subsequent month in which such payments were made.
 
 #### (b) Levels of supplementary payments
 

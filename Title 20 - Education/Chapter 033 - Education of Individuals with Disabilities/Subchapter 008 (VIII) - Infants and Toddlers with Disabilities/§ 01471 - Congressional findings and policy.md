@@ -24,29 +24,29 @@ It is therefore the policy of the United States to provide financial assistance 
 
 &emsp;(3) to enhance their capacity to provide quality early intervention services and expand and improve existing early intervention services being provided to infants and toddlers with disabilities and their families.
 
-(Pub. L. 91 230, title VI, §671, as added Pub. L. 99 457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1145; amended Pub. L. 100 630, title I, §108(a), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101 476, title IX, §901(b)(158) (161), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102 119, §§11, 25(a)(16), (b), Oct. 7, 1991, 105 Stat. 595, 606, 607.)
+(Pub. L. 91–230, title VI, §671, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1145; amended Pub. L. 100–630, title I, §108(a), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(158)–(161), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, §§11, 25(a)(16), (b), Oct. 7, 1991, 105 Stat. 595, 606, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Subsec. (a)(5). Pub. L. 102 119, §11, added par. (5).
+Subsec. (a)(5). Pub. L. 102–119, §11, added par. (5).
 
-Subsec. (b)(3). Pub. L. 102 119, §25(a)(16), substituted “infants and toddlers with disabilities and their families” for “handicapped infants, toddlers, and their families”.
+Subsec. (b)(3). Pub. L. 102–119, §25(a)(16), substituted “infants and toddlers with disabilities and their families” for “handicapped infants, toddlers, and their families”.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Subsec. (a). Pub. L. 101 476, §901(b)(158), (159), in pars. (1), (2), and (4) substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers” and in par. (3) substituted “individuals with disabilities” for “handicapped individuals”.
+Subsec. (a). Pub. L. 101–476, §901(b)(158), (159), in pars. (1), (2), and (4) substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers” and in par. (3) substituted “individuals with disabilities” for “handicapped individuals”.
 
-Subsec. (b)(1). Pub. L. 101 476, §901(b)(160), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
+Subsec. (b)(1). Pub. L. 101–476, §901(b)(160), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
 
-Subsec. (b)(3). Pub. L. 101 476, §901(b)(161), which directed the substitution of “infants and toddlers with disabilities” for “handicapped infants and toddlers”, could not be executed because the phrase “handicapped infants and toddlers” did not appear in text.
+Subsec. (b)(3). Pub. L. 101–476, §901(b)(161), which directed the substitution of “infants and toddlers with disabilities” for “handicapped infants and toddlers”, could not be executed because the phrase “handicapped infants and toddlers” did not appear in text.
 
-1988—Subsec. (a)(4). Pub. L. 100 630, §108(a)(1), substituted “handicapped infants and toddlers” for “infants and toddlers with handicaps”.
+1988—Subsec. (a)(4). Pub. L. 100–630, §108(a)(1), substituted “handicapped infants and toddlers” for “infants and toddlers with handicaps”.
 
-Subsec. (b)(3). Pub. L. 100 630, §108(a)(2), substituted “their” for “its” after “enhance”.
+Subsec. (b)(3). Pub. L. 100–630, §108(a)(2), substituted “their” for “its” after “enhance”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 

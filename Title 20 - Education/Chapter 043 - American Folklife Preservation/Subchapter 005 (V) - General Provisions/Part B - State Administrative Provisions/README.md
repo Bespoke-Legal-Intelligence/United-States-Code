@@ -2,7 +2,7 @@ Part B—State Administrative Provisions
 
 #### Prior Provisions
 
-A prior part B, consisting of section 2471, was redesignated part C by Pub. L. 101 392, title V, §501(c)(1), Sept. 25, 1990, 104 Stat. 830.
+A prior part B, consisting of section 2471, was redesignated part C by Pub. L. 101–392, title V, §501(c)(1), Sept. 25, 1990, 104 Stat. 830.
 
 
 ---

@@ -28,7 +28,7 @@ A prior chapter 65, enacted by Pub. L. 102–138, title V, Oct. 28, 1991, 105 St
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 50 App. section 2405.
+This chapter is referred to in title 50 section 441c; title 50 App. section 2405.
 
 
 ---

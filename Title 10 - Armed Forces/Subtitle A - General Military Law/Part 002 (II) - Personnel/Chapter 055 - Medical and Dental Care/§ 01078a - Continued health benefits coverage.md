@@ -1,4 +1,4 @@
-### §1078a . Continued health benefits coverage
+### §1078a. Continued health benefits coverage
 
 (a)
 
@@ -84,7 +84,7 @@ Charges.—(1) Under arrangements satisfactory to the Secretary of Defense, a pe
 
 &emsp;(B) an amount, not to exceed 10 percent of the amount determined under subparagraph (A), determined under regulations prescribed by the Secretary of Defense to be necessary for administrative expenses; and
 
-(2) If a person elects to continue coverage under this section before the end of the applicable period under subsection (d), but after the person's coverage under this chapter (and any transitional extension of coverage under section 1145(a) of this title) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1)) and claims (if any), to the same extent andeffect as though no break in coverage had occurred.
+(2) If a person elects to continue coverage under this section before the end of the applicable period under subsection (d), but after the person's coverage under this chapter (and any transitional extension of coverage under section 1145(a) of this title) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1)) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
 
 (g)
 
@@ -102,7 +102,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 (2) Notwithstanding paragraph (1)(B), if a dependent of a member becomes eligible for continued coverage under subsection (b)(2) during a period of continued coverage of the member for self and dependents under this section, extended coverage of the dependent under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
-(3) Notwithstanding paragraph (1)(C), if a person becomes eligible for continued coverage under subsection (b)(3) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouse under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
+(3) Notwithstanding paragraph (1)(C), if a person becomes eligible for continued coverage under subsection (b)(3) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouseunder this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
 (4)(A) Notwithstanding paragraph (1), in the case of a former spouse described in subparagraph (B), continued coverage under this section shall continue for such period as the former spouse may request.
 

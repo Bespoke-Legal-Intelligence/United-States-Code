@@ -28,7 +28,7 @@ In subsection (b), the words “active duty” are substituted for the words “
 
 #### Cross References
 
-Bounties for induction and substitutes for training and service in an armed force prohibited, see section 458 of Appendix to Title 50, War and National Defense.
+Bounties for induction and substitutes for training and service in an armed force prohibited, see section 458 of Title 50, Appendix, War and National Defense.
 
 Clothing allowance for enlisted personnel, see section 418 of Title 37, Pay and Allowances of the Uniformed Services.
 

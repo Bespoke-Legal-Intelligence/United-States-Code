@@ -16,5 +16,5 @@ In the event a selected applicant has substantially failed in the implementation
 
 Upon completion or discontinuance of any research activity authorized in section 5304 of this title, the Secretary shall, using available funds appropriated pursuant to this chapter, solicit new research proposals as set forth under the terms of this chapter.
 
-(Pub. L. 101 425, §6, Oct. 15, 1990, 104 Stat. 918.)
+(Pub. L. 101–425, §6, Oct. 15, 1990, 104 Stat. 918.)
 

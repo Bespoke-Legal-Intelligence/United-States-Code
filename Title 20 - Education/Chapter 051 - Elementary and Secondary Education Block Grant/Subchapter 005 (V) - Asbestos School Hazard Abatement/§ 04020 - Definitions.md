@@ -40,31 +40,31 @@ For purposes of this subchapter:
 
 &emsp;(9) The term “response action” has the meaning given such term by section 2642(11) of title 15.
 
-(Pub. L. 98 377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101 637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103 382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027.)
 
 #### Amendments
 
-1994—Par. (4)(A). Pub. L. 103 382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+1994—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (5)(A). Pub. L. 103 382, §394(c)(2), substituted “section 8801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+Par. (5)(A). Pub. L. 103–382, §394(c)(2), substituted “section 8801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 
-1990—Pub. L. 101 637, §14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
+1990—Pub. L. 101–637, §14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
 
-Pars. (1), (2). Pub. L. 101 637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pars. (1), (2). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (3). Pub. L. 101 637, §§10(1), 14(c)(6)(B) (D), substituted “The” for “the” at beginning and a period for semicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
+Par. (3). Pub. L. 101–637, §§10(1), 14(c)(6)(B)–(D), substituted “The” for “the” at beginning and a period for semicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
 
-Par. (4). Pub. L. 101 637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Par. (4). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (5). Pub. L. 101 637, §14(c)(6)(E), which directed the insertion of “secondary” before “school”, was executed by making the insertion in the introductory provisions to reflect the probable intent of Congress.
+Par. (5). Pub. L. 101–637, §14(c)(6)(E), which directed the insertion of “secondary” before “school”, was executed by making the insertion in the introductory provisions to reflect the probable intent of Congress.
 
-Pub. L. 101 637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Pars. (6), (7). Pub. L. 101 637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pars. (6), (7). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (8). Pub. L. 101 637, §14(c)(6)(B), substituted “The” for “the” at beginning.
+Par. (8). Pub. L. 101–637, §14(c)(6)(B), substituted “The” for “the” at beginning.
 
-Par. (9). Pub. L. 101 637, §10(2), added par. (9).
+Par. (9). Pub. L. 101–637, §10(2), added par. (9).
 
 #### Termination of Trust Territory of the Pacific Islands
 

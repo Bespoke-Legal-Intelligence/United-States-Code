@@ -18,11 +18,11 @@
 
 #### (b) Administration
 
-The Department of the Interior may use not more than 1.5 percent of the funds consolidatedunder this section for such department's costs related to the administration of the funds transferred under this section.
+The Department of the Interior may use not more than 1.5 percent of the funds consolidated under this section for such department's costs related to the administration of the funds transferred under this section.
 
-(Pub. L. 89 10, title XIV, §14205, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3893.)
+(Pub. L. 89–10, title XIV, §14205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3893.)
 
 #### References in Text
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100 77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 

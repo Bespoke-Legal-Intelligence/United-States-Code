@@ -8,5 +8,5 @@ Laboratories which perform inspections and testing under section 5404(b) of this
 
 Manufacturers, importers, private label distributors, and persons who make significant alterations shall retain for 10 years all records concerning the inspection and testing, and certification, of fasteners under section 5404 of this title, and shall provide copies of any applicable laboratory testing report or manufacturer's certificate upon request to any subsequent purchaser of fasteners taken from the lot to which such testing report or manufacturer's certificate relates.
 
-(Pub. L. 101 592, §10, Nov. 16, 1990, 104 Stat. 2951.)
+(Pub. L. 101–592, §10, Nov. 16, 1990, 104 Stat. 2951.)
 

@@ -46,7 +46,7 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
 
-&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscalyear under subsection (a) and the purposes for which the contributions were made; and
+&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
 
 &emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 

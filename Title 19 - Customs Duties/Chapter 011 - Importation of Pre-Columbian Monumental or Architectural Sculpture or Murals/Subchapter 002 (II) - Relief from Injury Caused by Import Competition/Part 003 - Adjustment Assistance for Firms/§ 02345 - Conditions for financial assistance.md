@@ -24,7 +24,7 @@ No financial assistance shall be provided under this part unless the Secretary d
 
 #### (c) Maturity of loans
 
-The Secretary shall make no loan or guarantee of a loan under section 2344(b)(1) of this titlehaving a maturity in excess of 25 years or the useful life of the fixed assets (whichever period is shorter), including renewals and extensions; and shall make no loan or guarantee of a loan under section 2344(b)(2) of this title having a maturity in excess of 10 years, including extensions and renewals. Such limitations on maturities shall not, however, apply—
+The Secretary shall make no loan or guarantee of a loan under section 2344(b)(1) of this title having a maturity in excess of 25 years or the useful life of the fixed assets (whichever period is shorter), including renewals and extensions; and shall make no loan or guarantee of a loan under section 2344(b)(2) of this title having a maturity in excess of 10 years, including extensions and renewals. Such limitations on maturities shall not, however, apply—
 
 &emsp;(1) to securities or obligations received by the Secretary as claimant in bankruptcy or equitable reorganization, or as creditor in other proceedings attendant upon insolvency of the obligor, or
 

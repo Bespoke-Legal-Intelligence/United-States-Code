@@ -38,7 +38,7 @@ Requirements.—Unless specifically authorized by statute, no Federal department
 
 #### (b) “Agency” defined
 
-For purposes of this chapter, any reference to an agency or department of the United States,and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
+For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
 
 #### (c) Qualified employee trust; eligibility for loan guarantee; “qualified employee trust” defined; regulations for treatment of trust as qualified employee trust
 
@@ -50,7 +50,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is maintained by such concern, and
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
+&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporatematter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
 
 &emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
 
@@ -118,7 +118,7 @@ For purposes of section 636 of this title, the term “energy measures” includ
 
 #### (h) “Credit elsewhere” defined
 
-For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
+For purposes of this chapter the term “credit elsewhere” means the availability of credit fromnon-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
 
 #### (i) “Homeowners” defined
 
@@ -240,7 +240,7 @@ Section 101(c) \[title X, §921(g), (h)\] of Pub. L. 99–500 and Pub. L. 99–5
 
 “(g)
 
-Effective Dates.—Except as otherwise provided in subsection (h), the amendments made by this section\[amending this section and sections 637 and 644 of this title and enacting provisions set out as notes below\] shall take effect on October 1, 1987.
+Effective Dates.—Except as otherwise provided in subsection (h), the amendments made by this section \[amending this section and sections 637 and 644 of this title and enacting provisions set out as notes below\] shall take effect on October 1, 1987.
 
 “(h)
 
@@ -288,7 +288,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 637, 638, 644, 3703, 4721, 4724 of this title; title 5 section 601; title 10 sections 2319, 2369; title 12 sections 635, 1835, 3013; title 20 section 5097; title 35 sections 41, 201; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 637, 638, 644, 3703, 4721, 4724 of this title; title 5 section 601; title 10 section 2319; title 12 sections 635, 1835, 3013; title 13 section 91; title 31 sections 3554, 6701; title 35 sections 41, 201; title 40 section 759; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -6,7 +6,7 @@
 
 (2) The Director shall be appointed by the Speaker of the House of Representatives and the President pro tempore of the Senate after considering recommendations received from the Committees on the Budget of the House and the Senate, without regard to political affiliation and solely on the basis of his fitness to perform his duties. The Deputy Director shall be appointed by the Director.
 
-(3) The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter. Any individual appointed as Director to fill a vacancy prior to the expiration of a term shall serve only for the unexpired portion of that term. An individual serving as Director at the expiration of a term may continue to serve until his successor is appointed. Any Deputy Director shall serve until the expiration of the term of office of the Director who appointed him (and until his successor is appointed), unless sooner removed by the Director.
+(3) The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter. Any individual appointed as Director to fill a vacancy prior to the expiration of a term shall serve only for the unexpired portion of that term. An individual serving as Director at the expiration of a term may continue to serve until his successor is appointed. Any Deputy Director shall serve untilthe expiration of the term of office of the Director who appointed him (and until his successor is appointed), unless sooner removed by the Director.
 
 (4) The Director may be removed by either House by resolution.
 
@@ -42,7 +42,7 @@ For the purposes of revenue legislation which is income, estate and gift, excise
 
 #### References in Text
 
-This Act, referred to in second subsec. (g), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in second subsec. (g), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out asnotes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -58,7 +58,7 @@ Pub. L. 101–508, §12302(b), (c), redesignated section 921 of this title as su
 
 #### Effective Date
 
-Subsec. (a) effective July 12, 1974, see section 905(a) of Pub. L. 93–344, and subsecs. (b) to (f) effective on day on which first Director of Congressional Budget Office is appointed under subsec. (a), see section 905(a) and (b) of Pub. L. 93–344, set out as a note under section 621 of this title.
+Subsec. (a) effective July 12, 1974, see section 905(a) of Pub. L. 93–344, and subsecs. (b) to (f) effective on day on which first Director of Congressional Budget Office is appointed under subsec. (a), see section 905(a), (b) of Pub. L. 93–344, set out as a note under section 621 of this title.
 
 #### Short Title
 

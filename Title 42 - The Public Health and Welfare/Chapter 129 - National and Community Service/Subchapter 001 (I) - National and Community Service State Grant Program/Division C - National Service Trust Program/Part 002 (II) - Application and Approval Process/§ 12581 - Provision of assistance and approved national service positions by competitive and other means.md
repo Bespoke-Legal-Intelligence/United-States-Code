@@ -42,7 +42,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 #### (3) Limitation on distribution to Federal agencies
 
-&emsp;The Corporation may not provide more than 1/3 of the funds available for competitive distribution under paragraph (2) for a fiscal year to Federal agencies under section 12571(b) of this title.
+&emsp;The Corporation may not provide more than 1/3 of the funds available for competitive distribution under paragraph (2) for a fiscal yearto Federal agencies under section 12571(b) of this title.
 
 #### (4) Priority limitations
 
@@ -52,7 +52,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 #### (A) Reservation
 
-&emsp;&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(2) of this title, and subject to the limitation in such section, the Chief Executive Officer shall reserve an amount that is not less than 1 percent of such amounts (except that theamount reserved may not exceed $5,000,000), in order to make supplemental grants as provided in subparagraph (B) and outreach grants as provided in subparagraph (C). The amount reserved pursuant to this paragraph shall be available until expended.
+&emsp;&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(2) of this title, and subject to the limitation in such section, the Chief Executive Officer shall reserve an amount that is not less than 1 percent of such amounts (except that the amount reserved may not exceed $5,000,000), in order to make supplemental grants as provided in subparagraph (B) and outreach grants as provided in subparagraph (C). The amount reserved pursuant to this paragraph shall be available until expended.
 
 #### (B) Grants to assist entities in placing applicants who are individuals with a disability
 

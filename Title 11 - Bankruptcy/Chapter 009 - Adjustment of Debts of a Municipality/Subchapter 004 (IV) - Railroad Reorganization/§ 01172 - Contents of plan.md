@@ -10,13 +10,13 @@
 
 &emsp;&emsp;(B) abandonment of any railroad line in accordance with section 1170 of this title.
 
-(b) If, except for the pendency of the case under this chapter, transfer of, or operation of or over, any of the debtor's rail lines by an entity other than the debtor or a successor to the debtor under the plan would require approval by the Commission under a law of the United States, then a plan may not propose such a transfer or such operation unless the proponent of the plan initiates an appropriate application for such a transfer or such operation with the Commission and, within such time as the court may fix, not exceeding 180 days, the Commission, with or without a hearing, as the Commission may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Commission approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
+(b) If, except for the pendency of the case under this chapter, transfer of, or operation of or over, any of the debtor's rail lines by an entity other than the debtor or a successor to the debtor under the plan would require approval by the Board under a law of the United States, then a plan may not propose such a transfer or such operation unless the proponent of the plan initiates an appropriate application for such a transfer or such operation with the Board and, within such time as the court may fix, not exceeding 180 days, the Board, with or without a hearing, as the Board may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Board approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
 
-(c)(1) In approving an application under subsection (b) of this section, the Commission shall require the rail carrier to provide a fair arrangement at least as protective of the interests ofemployees as that established under section 11347 of title 49.
+(c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11347 <sup>1</sup> of title 49.
 
 (2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943.)
 
 #### Historical and Revision Notes
 
@@ -46,15 +46,27 @@ Paragraph (1) contemplates a liquidating plan for the debtor's rail lines, much 
 
 The plan may also provide for abandonment in accordance with section 1169, governing abandonment generally. Neither of these provisions in a plan, transfer or abandonment of lines, requires ICC approval. Confirmation of the plan by the court authorizes the debtor to comply with the plan in accordance with section 1142(a) notwithstanding any bankruptcy law to the contrary.
 
+#### References in Text
+
+Section 11347 of title 49, referred to in subsec. (c)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. For provisions similar to those contained in section 11347, see section 11326(a) of Title 49.
+
 #### Amendments
+
+1995—Subsecs. (b), (c)(1). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
 
 1980—Subsec. (c). Pub. L. 96–448 added subsec. (c).
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1165 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

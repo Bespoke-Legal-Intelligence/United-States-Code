@@ -16,7 +16,7 @@ Every person who shall use or engage in, or cause to be used or engaged in, or e
 
 #### (c) Jurisdiction and venue
 
-The several district courts of the United States and the several district courts of the Territories and possessions of the United States, within whose jurisdictional limits the person, or persons, doing or committing such act, or any one of them, resides or shall be found, shall wheresoever such act may have been done or committed, have full power and jurisdiction to hear, try, and determine such suit, and such person or persons as are not inhabitants of or found within the district in which suit is brought may be brought in by order of the court to be servedpersonally or by publication or in such other reasonable manner as the court may direct.
+The several district courts of the United States and the several district courts of the Territories and possessions of the United States, within whose jurisdictional limits the person, or persons, doing or committing such act, or any one of them, resides or shall be found, shall wheresoever such act may have been done or committed, have full power and jurisdiction to hear, try, and determine such suit, and such person or persons as are not inhabitants of or found within the district in which suit is brought may be brought in by order of the court to be served personally or by publication or in such other reasonable manner as the court may direct.
 
 #### (d) Additional remedies
 

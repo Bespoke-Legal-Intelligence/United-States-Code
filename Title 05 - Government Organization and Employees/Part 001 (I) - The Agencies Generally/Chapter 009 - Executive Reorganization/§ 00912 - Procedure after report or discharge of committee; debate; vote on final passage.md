@@ -2,7 +2,7 @@
 
 (a) When the committee has reported, or has been deemed to be discharged (under section 911) from further consideration of, a resolution with respect to a reorganization plan, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
-(b) Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than tenhours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is passed or rejected shall not be in order.
+(b) Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is passed or rejected shall not be in order.
 
 (c) Immediately following the conclusion of the debate on the resolution with respect to a reorganization plan, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
 
@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1984—Pub. L. 98–614, §3(e)(2), substituted “passage” for “disapproval” in section catchline.
+<b>1984</b>—Pub. L. 98–614, §3(e)(2), substituted “passage” for “disapproval” in section catchline.
 
 Subsec. (b). Pub. L. 98–614, §3(d)(1), substituted “passed or rejected” for “agreed to or disagreed to”.
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 98–614, §3(d)(2), substituted “final passage” for �
 
 Subsec. (e). Pub. L. 98–614, §3(e)(1), added subsec. (e).
 
-1977—Pub. L. 95–17 inserted “; vote on final disapproval” after “debate” in section catchline.
+<b>1977</b>—Pub. L. 95–17 inserted “; vote on final disapproval” after “debate” in section catchline.
 
 Subsec. (a). Pub. L. 95–17 inserted provisions that a motion to discharge a committee is not subject to a motion to postpone or to a motion to proceed to the consideration of other business and that if a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 

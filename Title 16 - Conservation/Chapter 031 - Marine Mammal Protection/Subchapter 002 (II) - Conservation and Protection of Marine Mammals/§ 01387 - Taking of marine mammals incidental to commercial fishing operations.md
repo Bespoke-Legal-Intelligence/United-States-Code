@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Effective on April 30, 1994, and except as provided in section 1383a of this title and in paragraphs (2), (3), and (4) of this subsection, the provisions of this section shall govern the incidental taking of marine mammals in the courseof commercial fishing operations by persons using vessels of the United States or vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental mortality or serious injury of marine mammals occurring in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within 7 years after April 30, 1994.
+(1) Effective on April 30, 1994, and except as provided in section 1383a of this title and in paragraphs (2), (3), and (4) of this subsection, the provisions of this section shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States or vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental mortality or serious injury of marine mammals occurring in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within 7 years after April 30, 1994.
 
 (2) In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), both this section and section 1371(a)(5)(E) of this chapter shall apply.
 
@@ -82,7 +82,7 @@
 
 (C) The owner and master of a vessel which fails to comply with a take reduction plan shall be subject to the penalties of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title.
 
-(5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
+(5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated andcoordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
@@ -164,7 +164,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
-(2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under section 1386 of this title. The long-term goal of the plan shallbe to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
+(2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under section 1386 of this title. The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
 (3) If there is insufficient funding available to develop and implement a take reduction plan for all such stocks that interact with commercial fisheries listed under subsection (c)(1)(A)(i) or (ii) of this section, the Secretary shall give highest priority to the development and implementation of take reduction plans for species or stocks whose level of incidental mortality and serious injury exceeds the potential biological removal level, those that have a small population size, and those which are declining most rapidly.
 
@@ -230,7 +230,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
-&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
+&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of thissection, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
 (9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
@@ -322,7 +322,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

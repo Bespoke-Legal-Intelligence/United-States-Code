@@ -24,7 +24,7 @@ The Secretary shall not take any action under this section or under subchapter I
 
 (1) Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall implement an agreement under which—
 
-&emsp;(A) individuals in the vicinity of Roosevelt, Utah, who are eligible for health care from theDepartment of Veterans Affairs could obtain health care services at the facilities of the Indian Health Service located at Fort Duchesne, Utah; and
+&emsp;(A) individuals in the vicinity of Roosevelt, Utah, who are eligible for health care from the Department of Veterans Affairs could obtain health care services at the facilities of the Indian Health Service located at Fort Duchesne, Utah; and
 
 &emsp;(B) individuals eligible for health care from the Indian Health Service at Fort Duchesne, Utah, could obtain health care services at the Department of Veterans Affairs medical center located in Salt Lake City, Utah.
 

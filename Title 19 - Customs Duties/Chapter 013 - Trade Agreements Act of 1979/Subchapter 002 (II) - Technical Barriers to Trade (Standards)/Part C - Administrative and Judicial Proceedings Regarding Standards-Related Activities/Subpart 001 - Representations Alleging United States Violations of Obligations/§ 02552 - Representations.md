@@ -1,4 +1,4 @@
-### §2552 . Representations
+### §2552. Representations
 
 Any—
 

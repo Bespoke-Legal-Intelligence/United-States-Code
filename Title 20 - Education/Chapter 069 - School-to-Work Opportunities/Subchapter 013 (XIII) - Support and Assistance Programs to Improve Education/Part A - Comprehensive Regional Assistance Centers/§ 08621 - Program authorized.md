@@ -26,7 +26,7 @@
 
 #### (b) Service to Indians and Alaska Natives
 
-The Secretary shall ensure that each comprehensive regional assistance center that serves a region with a significant population of Indian or Alaska Native students shall—
+The Secretary shall ensure that each comprehensive regional assistance center that serves aregion with a significant population of Indian or Alaska Native students shall—
 
 &emsp;(1) be awarded to a consortium which includes a tribally controlled community college or other Indian organization; and
 
@@ -52,7 +52,7 @@ To ensure the quality and effectiveness of the networked system of comprehensive
 
 Grants, contracts or cooperative agreements under this section shall be awarded for a period of 5 years.
 
-(Pub. L. 89 10, title XIII, §13101, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3877.)
+(Pub. L. 89–10, title XIII, §13101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3877.)
 
 #### Section Referred to in Other Sections
 

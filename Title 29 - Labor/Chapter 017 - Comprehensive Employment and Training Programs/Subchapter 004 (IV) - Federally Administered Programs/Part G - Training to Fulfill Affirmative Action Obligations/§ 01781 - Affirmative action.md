@@ -2,7 +2,7 @@
 
 #### (a) Contractor's obligations; training program contents
 
-A contractor subject to the affirmative action obligations of Executive Order 11246, as amended, issued September 24, 1965, may establish or participate in training programs pursuant to this section for individuals meeting the eligibility criteria established in section <sup>1</sup> 1603, 1643, 1671, and 1672 of this title, which are designed to assist such contractors in meeting the affirmative action obligations of such Executive order. To qualify under this section, such a training program shall contain—
+A contractor subject to the affirmative action obligations of Executive Order 11246, as amended, issued September 24, 1965, may establish or participate in training programs pursuant to this section for individuals meeting the eligibility criteria established in section <sup>1</sup> 1603, 1643, 1671, and 1672 of this title, which are designed toassist such contractors in meeting the affirmative action obligations of such Executive order. To qualify under this section, such a training program shall contain—
 
 &emsp;(1) a description of the jobs in the contractor's work force or in the service delivery area, for which the contractor has determined there is a need for training;
 
@@ -48,7 +48,7 @@ Nothing in this section may be interpreted—
 
 &emsp;(3) to provide authority for imposing any additional obligations on contractors not participating in such training activities,
 
-&emsp;(4) to permit the Office of Federal Contract Compliance Programs to intervene or interfere with the authority and responsibilities of the private industry councils,
+&emsp;(4) to permit the Office of Federal Contract Compliance Programs to intervene or interferewith the authority and responsibilities of the private industry councils,
 
 &emsp;(5) to restrict or limit the authority of the Secretary to investigate the employment practices of any Government contractor, to initiate such investigation by the Director, to determine whether any nondiscrimination contractual provisions have been violated, or to enforce Executive Order 11246, or
 

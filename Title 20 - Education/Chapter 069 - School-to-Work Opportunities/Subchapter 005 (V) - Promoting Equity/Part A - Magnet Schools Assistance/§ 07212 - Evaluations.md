@@ -16,5 +16,5 @@ Each evaluation described in subsection (a) of this section, at a minimum, shall
 
 &emsp;(4) the extent to which magnet school programs differ from other school programs in terms of the organizational characteristics and resource allocations of such magnet school programs.
 
-(Pub. L. 89 10, title V, §5112, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
+(Pub. L. 89–10, title V, §5112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
 

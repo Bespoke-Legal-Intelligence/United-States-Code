@@ -84,7 +84,7 @@ In making a determination under subsection (a)(1)(A) of this section of the heal
 
 #### (2) Availability of 500 or fewer members
 
-&emsp;If the number of participants for purposes of paragraph (1) is less than 500, the Secretary shall limit the number of entities specified under subsection (d)(1)(B)(i) of this section to the lesser of—
+&emsp;If the number of participants for purposes of paragraph (1) is less than 500, the Secretaryshall limit the number of entities specified under subsection (d)(1)(B)(i) of this section to the lesser of—
 
 &emsp;&emsp;(A) 500 such entities; and
 

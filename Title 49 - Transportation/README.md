@@ -1,5 +1,5 @@
 
-49 U.S.C.<br>United States Code, 1994 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 1995 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
@@ -10,7 +10,7 @@
 | <b>I.</b> | <b>DEPARTMENT OF TRANSPORTATION</b> | <b>101</b> |
 | <b>II.</b> | <b>OTHER GOVERNMENT AGENCIES</b> | <b>1101</b> |
 | <b>III.</b> | <b>GENERAL AND INTERMODAL PROGRAMS</b> | <b>5101</b> |
-| <b>IV.</b> | <b>INTERSTATE COMMERCE</b> | <b>10101</b> |
+| <b>IV.</b> | <b>INTERSTATE TRANSPORTATION</b> | <b>10101</b> |
 | <b>V.</b> | <b>RAIL PROGRAMS</b> | <b>20101</b> |
 | <b>VI.</b> | <b>MOTOR VEHICLE AND DRIVER PROGRAMS</b> | <b>30101</b> |
 | <b>VII.</b> | <b>AVIATION PROGRAMS</b> | <b>40101</b> |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1995—Pub. L. 104–88, title I, §102(b), Dec. 29, 1995, 109 Stat. 852, substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
 
 1994—Pub. L. 103–272, §1(b), July 5, 1994, 108 Stat. 745, amended subtitle analysis generally, substituting “OTHER GOVERNMENT AGENCIES . . .1101” for “TRANSPORTATION PROGRAMS . . .3101” in item for subtitle II, “GENERAL AND INTERMODAL PROGRAMS . . .5101” for “\[RESERVED—AIR TRANSPORTATION\]” in item for subtitle III, and “RAIL PROGRAMS . . .20101” for “\[RESERVED—MISCELLANEOUS\]” in item for subtitle V, and adding items for subtitles VI, VII, VIII, IX, and X.
 
@@ -7584,7 +7586,7 @@ Section 4(d) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1470, as amended by Pu
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 26 section 9502; title 42 section 9607.
+This title is referred to in title 26 section 9502; title 31 section 3726; title 42 section 9607.
 
 
 ---
@@ -7594,7 +7596,7 @@ This title is referred to in title 26 section 9502; title 42 section 9607.
 - [Subtitle 001 (I) - Department of Transportation](Subtitle%20001%20%28I%29%20-%20Department%20of%20Transportation/README.md)
 - [Subtitle 002 (II) - Other Government Agencies](Subtitle%20002%20%28II%29%20-%20Other%20Government%20Agencies/README.md)
 - [Subtitle 003 (III) - General and Intermodal Programs](Subtitle%20003%20%28III%29%20-%20General%20and%20Intermodal%20Programs/README.md)
-- [Subtitle 004 (IV) - Interstate Commerce](Subtitle%20004%20%28IV%29%20-%20Interstate%20Commerce/README.md)
+- [Subtitle 004 (IV) - Interstate Transportation](Subtitle%20004%20%28IV%29%20-%20Interstate%20Transportation/README.md)
 - [Subtitle 005 (V) - Rail Programs](Subtitle%20005%20%28V%29%20-%20Rail%20Programs/README.md)
 - [Subtitle 006 (VI) - Motor Vehicle and Driver Programs](Subtitle%20006%20%28VI%29%20-%20Motor%20Vehicle%20and%20Driver%20Programs/README.md)
 - [Subtitle 007 (VII) - Aviation Programs](Subtitle%20007%20%28VII%29%20-%20Aviation%20Programs/README.md)

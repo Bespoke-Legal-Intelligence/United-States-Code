@@ -6,7 +6,7 @@ The Secretary shall submit to the Congress an annual report on the implementatio
 
 #### (b) Biennial audit of Federal royalty management system; submission to Secretary and Congress
 
-Commencing with fiscal year 1984, the Inspector General of the Department of the Interiorshall conduct a biennial audit of the Federal royalty management system. The Inspector General shall submit the results of such audit to the Secretary and to the Congress.
+Commencing with fiscal year 1984, the Inspector General of the Department of the Interior shall conduct a biennial audit of the Federal royalty management system. The Inspector General shall submit the results of such audit to the Secretary and to the Congress.
 
 (Pub. L. 97–451, title III, §302, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 103–437, §11(a)(2), Nov. 2, 1994, 108 Stat. 4589.)
 
@@ -16,7 +16,7 @@ Commencing with fiscal year 1984, the Inspector General of the Department of the
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Study of the Adequacy of Royalty Management for Minerals on Federal and Indian Lands
 

@@ -36,7 +36,7 @@ Additional Authority.—The Secretary may—
 
 (c)
 
-Amounts Collected.—Amounts collected by the Secretary under the Civilian Marksmanship Program, including the proceeds from the sale of arms, ammunition, targets, and other supplies and appliances under subsection (a), shall be credited to the appropriation available for the support of the Civilian Marksmanship Program and shall be available to carry out such program. Notwithstanding any other provision of law, such amounts shall remain available until expended.
+Amounts Collected.—Amounts collected by the Secretary under the Civilian Marksmanship Program, including the proceeds from thesale of arms, ammunition, targets, and other supplies and appliances under subsection (a), shall be credited to the appropriation available for the support of the Civilian Marksmanship Program and shall be available to carry out such program. Notwithstanding any other provision of law, such amounts shall remain available until expended.
 
 (d)
 

@@ -12,9 +12,9 @@ The Congress finds and declares that—
 
 &emsp;(5) regulation under this chapter by the Secretary is appropriate to prevent and eliminate burdens upon commerce and to effectively regulate commerce.
 
-(Pub. L. 91 540, §3, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94 360, §4, July 13, 1976, 90 Stat. 915.)
+(Pub. L. 91–540, §3, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, §4, July 13, 1976, 90 Stat. 915.)
 
 #### Amendments
 
-1976—Pub. L. 94 360, among other changes, inserted findings stating that all horses subject to regulation under this chapter are either in interstate or foreign commerce or substantially affect interstate or foreign commerce, and that regulation by the Secretary is appropriate to eliminate burdens upon commerce.
+1976—Pub. L. 94–360, among other changes, inserted findings stating that all horses subject to regulation under this chapter are either in interstate or foreign commerce or substantially affect interstate or foreign commerce, and that regulation by the Secretary is appropriate to eliminate burdens upon commerce.
 

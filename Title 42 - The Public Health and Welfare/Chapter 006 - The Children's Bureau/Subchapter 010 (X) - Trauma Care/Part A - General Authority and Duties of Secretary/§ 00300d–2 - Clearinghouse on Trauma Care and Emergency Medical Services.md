@@ -24,7 +24,7 @@ A contract entered into by the Secretary under this section may provide that the
 
 #### Prior Provisions
 
-A prior section 300d–2, act July 1, 1944, ch. 373, title XII, §1203, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 596; amended Oct. 21, 1976, Pub. L. 94–573, §4, 90 Stat. 2710; Nov. 10, 1978, Pub. L. 95–626, title II, §210(a),92 Stat. 3588; July 10, 1979, Pub. L. 96–32, §7(<i>l</i>), 93 Stat. 84, set forth provisions relating to grants and contracts for establishing and initial operation of emergency medical services systems, prior to repeal by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981.
+A prior section 300d–2, act July 1, 1944, ch. 373, title XII, §1203, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 596; amended Oct. 21, 1976, Pub. L. 94–573, §4, 90 Stat. 2710; Nov. 10, 1978, Pub. L. 95–626, title II, §210(a), 92 Stat. 3588; July 10, 1979, Pub. L. 96–32, §7(<i>l</i>), 93 Stat. 84, set forth provisions relating to grants and contracts for establishing and initial operation of emergency medical services systems, prior to repeal by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981.
 
 A prior section 1202 of act July 1, 1944, was classified to section 300d–1 of this title prior to repeal by Pub. L. 103–183.
 

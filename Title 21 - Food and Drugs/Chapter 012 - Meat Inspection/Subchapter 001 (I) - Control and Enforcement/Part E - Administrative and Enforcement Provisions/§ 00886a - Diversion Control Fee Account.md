@@ -16,5 +16,5 @@ There is established in the general fund of the Treasury a separate account whic
 
 #### Codification
 
-Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, and not aspart of the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, and not as part of the Controlled Substances Act which comprises this subchapter.
 

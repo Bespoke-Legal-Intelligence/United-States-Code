@@ -44,7 +44,7 @@ Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked 
 
 (d)
 
-Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specifiedfor civil aircraft accidents under sections 1132(a), 1132(b), and 1134(b)(2) of this title.
+Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(b)(2) of this title.
 
 (e)
 

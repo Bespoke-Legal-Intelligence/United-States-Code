@@ -64,7 +64,7 @@ Section 6015 of Pub. L. 102–240 directed Secretary of Transportation to identi
 
 #### Underground Pipelines
 
-Section 6020 of Pub. L. 102–240 directed Secretary of Transportation to conduct a study to evaluate feasibility, costs, and benefits of constructing and operatingpneumatic capsule pipelines for underground movement of commodities other than hazardous liquids and gas, and to submit, not later than 2 years after Dec. 18, 1991, a report to Congress on the results of the study.
+Section 6020 of Pub. L. 102–240 directed Secretary of Transportation to conduct a study to evaluate feasibility, costs, and benefits of constructing and operating pneumatic capsule pipelines for underground movement of commodities other than hazardous liquids and gas, and to submit, not later than 2 years after Dec. 18, 1991, a report to Congress on the results of the study.
 
 #### Long-Range National Transportation Strategic Planning Study
 

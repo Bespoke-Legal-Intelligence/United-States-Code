@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted provisions respecting the functions of the Special Counsel and the Merit Systems Protection Board for provisions respecting the functions of the Civil Service Commission.
+<b>1978</b>—Pub. L. 95–454 substituted provisions respecting the functions of the Special Counsel and the Merit Systems Protection Board for provisions respecting the functions of the Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 

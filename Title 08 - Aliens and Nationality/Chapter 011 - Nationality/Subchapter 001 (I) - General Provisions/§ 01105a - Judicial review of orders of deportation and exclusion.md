@@ -22,7 +22,7 @@ The procedure prescribed by, and all the provisions of chapter 158 of title 28, 
 
 #### (5) Claim of nationality; determination or transfer to district court for hearing de novo
 
-&emsp;whenever any petitioner, who seeks review of an order under this section, claims to be a national of the United States and makes a showing that his claim is not frivolous, the court shall (A) pass upon the issues presented when it appears from the pleadings and affidavits filed by the parties that no genuine issue of material fact is presented; or (B) where a genuine issue of material fact as to the petitioner's nationality is presented, transfer the proceedings to a United States district court for the district where the petitioner has his residence for hearing de novo of the nationality claim and determination as if such proceedings were originally initiated in the district court under the provisions of section 2201 of title 28. Any such petitioner shall not be entitled to have such issue determined under section 1503(a) of this title or otherwise;
+&emsp;whenever any petitioner, who seeks review of an order under this section, claims to be a national of the United States and makes a showing that his claim is not frivolous, the court shall (A) pass upon the issues presented when it appears from the pleadings and affidavits filed by the parties that no genuine issue of material fact is presented; or (B) where a genuine issue of material fact as to the petitioner's nationality is presented, transfer theproceedings to a United States district court for the district where the petitioner has his residence for hearing de novo of the nationality claim and determination as if such proceedings were originally initiated in the district court under the provisions of section 2201 of title 28. Any such petitioner shall not be entitled to have such issue determined under section 1503(a) of this title or otherwise;
 
 #### (6) Consolidation
 
@@ -66,7 +66,7 @@ An order of deportation or of exclusion shall not be reviewed by any court if th
 
 (2) No court shall have jurisdiction to review any issue other than an issue described in paragraph (1).
 
-(June 27, 1952, ch. 477, title I, §106, as added Sept. 26, 1961, Pub. L. 87–301, §5(a), 75 Stat. 651; amended Dec. 29, 1981, Pub. L. 97–116, §18(b), 95 Stat. 1620; Oct. 24, 1988, Pub. L. 100–525, §9(e), 102 Stat. 2620; Nov. 18, 1988, Pub. L. 100–690, title VII, §7347(b), 102 Stat. 4472; Nov. 29, 1990, Pub. L. 101–649, title V, §§502(a), 513(a), 545(b), 104 Stat. 5048, 5052, 5065; Dec. 12, 1991, Pub. L. 102–232, title III, §306(a)(2), 105 Stat. 1751; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130004(b), 108 Stat. 2027; Oct. 25, 1994, Pub. L. 103–416, title II, §223(b), 108 Stat. 4322.)
+(June 27, 1952, ch. 477, title I, §106, as added Sept. 26, 1961, Pub. L. 87–301, §5(a), 75 Stat. 651; amended Dec. 29, 1981, Pub. L. 97–116, §18(b), 95 Stat.1620; Oct. 24, 1988, Pub. L. 100–525, §9(e), 102 Stat. 2620; Nov. 18, 1988, Pub. L. 100–690, title VII, §7347(b), 102 Stat. 4472; Nov. 29, 1990, Pub. L. 101–649, title V, §§502(a), 513(a), 545(b), 104 Stat. 5048, 5052, 5065; Dec. 12, 1991, Pub. L. 102–232, title III, §306(a)(2), 105 Stat. 1751; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130004(b), 108 Stat. 2027; Oct. 25, 1994, Pub. L. 103–416, title II, §223(b), 108 Stat. 4322.)
 
 #### References in Text
 

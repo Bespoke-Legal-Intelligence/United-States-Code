@@ -42,7 +42,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;(iv) has made significant recruitment efforts to increase the number of minority individuals serving in faculty or administrative positions at the school.
 
-&emsp;(C) In the case of any criteria established by the Secretary for purposes of determiningwhether schools meet the conditions described in subparagraph (B), this section may not, with respect to racial and ethnic minorities, be construed to authorize, require, or prohibit the use of such criteria in any program other than the program established in this section.
+&emsp;(C) In the case of any criteria established by the Secretary for purposes of determining whether schools meet the conditions described in subparagraph (B), this section may not, with respect to racial and ethnic minorities, be construed to authorize, require, or prohibit the use of such criteria in any program other than the program established in this section.
 
 #### (2) Centers of excellence at certain historically Black colleges and universities
 
@@ -164,7 +164,7 @@ For purposes of this section:
 
 #### (2) Allocations by Secretary
 
-&emsp;(A) Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available $12,000,000 for grants under subsection (a) of this section to health professions schools that are eligible for such grants pursuant to meeting the conditions described in paragraph (2)(A) of subsection (c) of this section.
+&emsp;(A) Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available $12,000,000 for grants under subsection (a) of this section to health professions schools that are eligible for such grantspursuant to meeting the conditions described in paragraph (2)(A) of subsection (c) of this section.
 
 &emsp;(B) Of the amounts appropriated under paragraph (1) for a fiscal year and available after compliance with subparagraph (A), the Secretary shall make available 60 percent for grants under subsection (a) of this section to health professions schools that are eligible for such grants pursuant to meeting the conditions described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section).
 

@@ -14,11 +14,11 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;Whenever it appears to the President that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of any order under section 3362 of this title or any order or supplemental order issued under section 3363 of this title, the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
 
-#### (3) Repealed. Pub. L. 101 60, §3(a)(4)(B), July 26, 1989, 103 Stat. 158
+#### (3) Repealed. Pub. L. 101–60, §3(a)(4)(B), July 26, 1989, 103 Stat. 158
 
 #### (4) Relief available
 
-&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
+&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In anysuch action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
 
 #### (5) Criminal referral
 
@@ -52,7 +52,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (E) Assessed by Commission
 
-&emsp;&emsp;Before assessing any civil penalty under this paragraph, the Commission shall provide to such person notice of the proposed penalty. Following receipt of notice of the proposed penalty by such person, the Commission shall, by order, asssess<sup>1</sup> such penalty.
+&emsp;&emsp;Before assessing any civil penalty under this paragraph, the Commission shall provide to such person notice of the proposed penalty. Following receipt of notice of the proposed penalty by such person, the Commission shall, by order, asssess <sup>1</sup> such penalty.
 
 #### (F) Judicial review
 
@@ -90,21 +90,21 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;&emsp;(B) had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
 
-(Pub. L. 95 621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101 60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159.)
+(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159.)
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101 60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
+1989—Subsec. (a). Pub. L. 101–60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
 
-Subsec. (b). Pub. L. 101 60, §3(a)(4), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)” in par. (4).
+Subsec. (b). Pub. L. 101–60, §3(a)(4), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)” in par. (4).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 3(b)(6) of Pub. L. 101 60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101 60, set out as a note under section 3372 of this title.
+Amendment by section 3(b)(6) of Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as a note under section 3372 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3416 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “assess”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “assess”.</i>
 

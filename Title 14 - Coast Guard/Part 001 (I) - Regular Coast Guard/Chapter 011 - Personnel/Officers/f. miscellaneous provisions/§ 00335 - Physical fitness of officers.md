@@ -1,4 +1,4 @@
-### §335 . Physical fitness of officers
+### §335. Physical fitness of officers
 
 The Secretary shall prescribe regulations under which the physical fitness of officers to perform their duties shall be periodically determined.
 

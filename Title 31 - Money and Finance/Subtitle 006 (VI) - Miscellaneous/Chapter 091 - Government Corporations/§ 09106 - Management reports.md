@@ -50,7 +50,7 @@ Dec. 6, 1945, ch. 557, §203, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, §1
 
 31:858(last sentence).
 
-In subsection (a), before clause (1), the words “of a Government corporation” are added for clarity. In clause (5), the words “program, expenditure, or other”, “observed in the course of the audit”, and “of law” areomitted as surplus. In clause (6), the word “statement” is substituted for “report” for consistency. The words “noted in the audit” are omitted as surplus. The word “made” is substituted for “accomplished” for consistency. In clause (7), the word “other” is added for clarity because of the restatement. The words “with respect thereto” are omitted as surplus.
+In subsection (a), before clause (1), the words “of a Government corporation” are added for clarity. In clause (5), the words “program, expenditure, or other”, “observed in the course of the audit”, and “of law” are omitted as surplus. In clause (6), the word “statement” is substituted for “report” for consistency. The words “noted in the audit” are omitted as surplus. The word “made” is substituted for “accomplished” for consistency. In clause (7), the word “other” is added for clarity because of the restatement. The words “with respect thereto” are omitted as surplus.
 
 In subsection (b), the words “The Comptroller General” are added for clarity.
 

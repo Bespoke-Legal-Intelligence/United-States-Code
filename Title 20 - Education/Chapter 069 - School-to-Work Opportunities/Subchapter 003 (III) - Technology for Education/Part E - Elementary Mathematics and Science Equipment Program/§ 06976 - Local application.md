@@ -32,7 +32,7 @@ In awarding grants under this part, the State educational agency shall give prio
 
 &emsp;(4) assign priority to providing equipment and materials for students in grades 1 through 6.
 
-(Pub. L. 89 10, title III, §3506, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3669.)
+(Pub. L. 89–10, title III, §3506, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3669.)
 
 #### Section Referred to in Other Sections
 

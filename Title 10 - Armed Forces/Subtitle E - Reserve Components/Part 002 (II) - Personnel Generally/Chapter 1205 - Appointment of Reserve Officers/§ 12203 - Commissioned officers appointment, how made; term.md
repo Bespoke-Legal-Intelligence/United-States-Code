@@ -1,4 +1,4 @@
-### §12203 . Commissioned officers: appointment, how made; term
+### §12203. Commissioned officers: appointment, how made; term
 
 (a) Appointments of Reserves in commissioned grades below lieutenant colonel and commander, except commissioned warrant officer, shall be made by the President alone. Appointments of Reserves in commissioned grades above major and lieutenant commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Indefinite Appointments for Certain Reserve Officers
 
-Section 41 of act Aug. 10, 1956, provided that: “Each person who was a reserve officer on July 9, 1952, andwho did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
+Section 41 of act Aug. 10, 1956, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
 
 #### Cross References
 

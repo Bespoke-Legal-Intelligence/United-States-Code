@@ -1,4 +1,4 @@
-### §47–1 . Administrative site for Yosemite National Park
+### §47–1. Administrative site for Yosemite National Park
 
 #### (a) Establishment of site
 

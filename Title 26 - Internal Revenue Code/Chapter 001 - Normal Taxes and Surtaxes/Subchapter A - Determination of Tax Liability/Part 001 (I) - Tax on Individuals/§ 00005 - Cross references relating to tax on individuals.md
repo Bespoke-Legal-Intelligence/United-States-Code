@@ -68,7 +68,7 @@ Section 301(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(2) the denominator of which is the number of days in the entire taxable year.”
 
-Amendment by section 803(d)(6) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
+Amendment by section 803(d)(6) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970,see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
 
 #### Effective Date of 1964 Amendment
 

@@ -108,7 +108,7 @@ As used in this section—
 
 &emsp;(5) the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, titleVII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080.)
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080.)
 
 #### References in Text
 

@@ -42,7 +42,7 @@ The right of recovery of the United States under subsection (a) of this section 
 
 #### References in Text
 
-Subpart I of part A of this subchapter, referred to in subsec. (a), which consisted of sections 296 to 296d of this title was repealed (except for section 296c which was transferred to this section) by section 9(a)(1), (b)(1), (c)(1) of Pub. L. 99–92.
+Subpart I of part A of this subchapter, referred to in subsec. (a), which consisted of sections 296 to 296d ofthis title was repealed (except for section 296c which was transferred to this section) by section 9(a)(1), (b)(1), (c)(1) of Pub. L. 99–92.
 
 #### Codification
 
@@ -50,7 +50,7 @@ Provisions of this section were classified to section 296c of this title prior t
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–92, in amending section generally, designated existing provisions as subsec. (a)and substituted provisions relating to recovery of funds paid under subpart I of part A, as in effect on Sept. 30, 1985, of the base amount and interest prescribed by subsec. (c), for provisions relating to recovery of funds paid under subpart I of part A of the amount bearing the same ratio to the value, as determined by the parties or in a judicial action, which the amount of the Federal participation bore to the cost of construction of the facility.
+1985—Subsec. (a). Pub. L. 99–92, in amending section generally, designated existing provisions as subsec. (a) and substituted provisions relating to recovery of funds paid under subpart I of part A, as in effect on Sept. 30, 1985, of the base amount and interest prescribed by subsec. (c), for provisions relating to recovery of funds paid under subpart I of part A of the amount bearing the same ratio to the value, as determined by the parties or in a judicial action, which the amount of the Federal participation bore to the cost of construction of the facility.
 
 Subsec. (b). Pub. L. 99–129, §207(e)(1), substituted “within” for “not later than” and inserted “or within 30 days after October 22, 1985, whichever is later”.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 942 of Pub. L. 
 
 #### Interest Period for Facility Constructed On or Before August 16, 1985, or Within 180 Days After August 16, 1985
 
-Section 9(c)(2) of Pub. L. 99–92 as amended by Pub. L. 99–129, title II, §207(e)(4), Aug. 16, 1985, 99 Stat. 529, provided that: “In the case of any facility that was or is constructed on or before the date of enactment of this Act \[Aug. 16, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 858(c)(2)(B) of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii) of this section\] (as amended by paragraph (1) of this subsection) shall begin no earlier than 181 days after the date of enactment of this Act.”
+Section 9(c)(2) of Pub. L. 99–92, as amended by Pub. L. 99–129, title II, §207(e)(4), Aug. 16, 1985, 99 Stat. 529, provided that: “In the case of any facility that was or is constructed on or before the date of enactment of this Act \[Aug. 16, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 858(c)(2)(B) of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii) of this section\] (as amended by paragraph (1) of this subsection) shall begin no earlier than 181 days after the date of enactment of this Act.”
 
 #### Preservation of Legal Rights of United States
 

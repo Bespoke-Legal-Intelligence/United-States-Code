@@ -16,7 +16,7 @@ Any executive branch agency having employees in a foreign country shall keep the
 
 Each chief of mission to a foreign country shall have as a principal duty the promotion of United States goods and services for export to such country.
 
-(Pub. L. 96–465, title I, §207, Oct. 17, 1980, 94 Stat. 2079; Pub. L. 97–241, title I, §123, Aug. 24, 1982, 96Stat. 281; Pub. L. 100–204, title I, §136, Dec. 22, 1987, 101 Stat. 1345.)
+(Pub. L. 96–465, title I, §207, Oct. 17, 1980, 94 Stat. 2079; Pub. L. 97–241, title I, §123, Aug. 24, 1982, 96 Stat. 281; Pub. L. 100–204, title I, §136, Dec. 22, 1987, 101 Stat. 1345.)
 
 #### Amendments
 

@@ -8,9 +8,9 @@ This chapter may be cited as the Federal Food, Drug, and Cosmetic Act.
 
 Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
-“\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
+“\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c)\[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
 
-“(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940 the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would notprevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
+“(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940 the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
 “Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading ‘In the case of food:’, of the Food and Drugs Act of June 30, 1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
 
@@ -48,7 +48,7 @@ Pub. L. 102–571, title II, §201, Oct. 29, 1992, 106 Stat. 4500, provided that
 
 Pub. L. 102–353, §1(a), Aug. 26, 1992, 106 Stat. 941, provided that: “This Act \[amending sections 333, 353, and 381 of this title and enacting provisions set out as a note under section 353 of this title\] may be cited as the ‘Prescription Drug Amendments of 1992’.”
 
-Pub. L. 102–300, §1(a), June 16, 1992, 106 Stat. 238, provided that: “This Act \[amending sections 321, 331, 334, 346a, 352, 353, 356, 357, 360c, 360d, 360g to 360i, 360<i>l</i>, 360mm, 371 to 372a, 376, and 381 of this title and section 262 of Title 42, The Public Health and Welfare and enacting and amending provisions set out as notes under section 360i of this title\] may be cited as the ‘Medical Device Amendments of 1992’.”
+Pub. L. 102–300, §1(a), June 16, 1992, 106 Stat. 238, provided that: “This Act \[amending sections 321, 331, 334, 346a, 352, 353, 356, 357, 360c, 360d, 360g to 360i, 360<i>l</i>, 360mm, 371 to 372a, 376, and 381 of this title and section262 of Title 42, The Public Health and Welfare and enacting and amending provisions set out as notes under section 360i of this title\] may be cited as the ‘Medical Device Amendments of 1992’.”
 
 Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: “This Act \[enacting sections 335a to 335c of this title, amending sections 321, 336, 337, and 355 of this title, and enacting provisions set out as notes under section 335a of this title\] may be cited as the ‘Generic Drug Enforcement Act of 1992’.”
 
@@ -56,7 +56,7 @@ Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: “This A
 
 Pub. L. 101–635, §1(a), Nov. 28, 1990, 104 Stat. 4583, provided that: “This Act \[enacting sections 379b to 379d and 394 of this title\] may be cited as the ‘Food and Drug Administration Revitalization Act’.”
 
-Pub. L. 101–629, §1(a), Nov. 28, 1990, 104 Stat. 4511, provided that: “This Act \[enacting sections 360<i>l</i> and 383 ofthis title, amending sections 321, 333, 351, 353, and 360c to 360j of this title and sections 263b to 263n of Title 42, The Public Health and Welfare, redesignating sections 263b to 263n of Title 42 as sections 360gg to 360ss of this title, repealing section 263b of Title 42, and enacting provisions set out as notes under sections 333, 360c, 360i, 360j, 360hh and 383 of this title\] may be cited as the ‘Safe Medical Devices Act of 1990’.”
+Pub. L. 101–629, §1(a), Nov. 28, 1990, 104 Stat. 4511, provided that: “This Act \[enacting sections 360<i>l</i> and 383 of this title, amending sections 321, 333, 351, 353, and 360c to 360j of this title and sections 263b to 263n of Title 42, The Public Health and Welfare, redesignating sections 263b to 263n of Title 42 as sections 360gg to 360ss of this title, repealing section 263b of Title 42, and enacting provisions set out as notes under sections 333, 360c, 360i, 360j, 360hh and 383 of this title\] may be cited as the ‘Safe Medical Devices Act of 1990’.”
 
 Pub. L. 101–535, §1(a), Nov. 8, 1990, 104 Stat. 2353, provided that: “This Act \[enacting section 343–1 of this title, amending sections 321, 337, 343, 345, and 371 of this title, and enacting provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Nutrition Labeling and Education Act of 1990’.”
 
@@ -110,13 +110,13 @@ Pub. L. 92–387, §1, Aug. 16, 1972, 86 Stat. 559, provided that: “This Act \
 
 #### Short Title of 1968 Amendments
 
-Pub. L. 90–602, §1, Oct. 18, 1968, 82 Stat. 1173, provided that: “This Act \[enacting provisions now comprising part C (§§360hh–360ss) of subchapter III of this chapter and provisions set out as notes under section 360hh of this title\] may be cited as the ‘Radiation Control for Health and Safety Act of 1968’.”
+Pub. L. 90–602, §1, Oct. 18, 1968, 82 Stat. 1173, provided that: “This Act \[enacting provisions now comprisingpart C (§§360hh–360ss) of subchapter III of this chapter and provisions set out as notes under section 360hh of this title\] may be cited as the ‘Radiation Control for Health and Safety Act of 1968’.”
 
 Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: “That this Act \[enacting section 360b of this title, amending sections 321, 331, 342, 351, 352, 357, 381, and 392 of this title, and enacting provisions set out as a note under section 360b of this title\] may be cited as the ‘Animal Drug Amendments of 1968’.”
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–74, §1, July 15, 1965, 79 Stat. 226, provided: “That this Act \[amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321 and 352 of this title\]may be cited as the ‘Drug Abuse Control Amendments of 1965’.”
+Pub. L. 89–74, §1, July 15, 1965, 79 Stat. 226, provided: “That this Act \[amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321 and 352 of this title\] may be cited as the ‘Drug Abuse Control Amendments of 1965’.”
 
 #### Short Title of 1962 Amendment
 

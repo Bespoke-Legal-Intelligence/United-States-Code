@@ -22,7 +22,7 @@ Grant funds under this section may be used to—
 
 Each eligible entity desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
 
-(Pub. L. 89 10, title X, §10975, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3857.)
+(Pub. L. 89–10, title X, §10975, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3857.)
 
 #### Section Referred to in Other Sections
 

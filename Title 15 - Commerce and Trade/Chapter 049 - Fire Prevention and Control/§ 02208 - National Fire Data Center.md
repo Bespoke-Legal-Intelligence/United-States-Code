@@ -34,7 +34,7 @@ In carrying out the program of the Data Center, the Administrator is authorized 
 
 The Administrator shall insure dissemination to the maximum extent possible of fire data collected and developed by the Data Center, and shall make such data, information, and analysis available in appropriate form to Federal agencies, State and local governments, private organizations, industry, business, and other interested persons.
 
-(Pub. L. 93 498, §9, Oct. 29, 1974, 88 Stat. 1541.)
+(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541.)
 
 #### Transfer of Functions
 

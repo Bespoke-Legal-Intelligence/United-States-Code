@@ -6,5 +6,5 @@ As used in this chapter, the term “petroleum” includes crude oil, gases (inc
 
 #### Short Title
 
-Section 1 of Pub. L. 94–258 provided: “That this Act \[enacting this chapter and section 7420 of Title 10,Armed Forces, and amending section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10\] may be cited as the ‘Naval Petroleum Reserves Production Act of 1976’.”
+Section 1 of Pub. L. 94–258 provided: “That this Act \[enacting this chapter and section 7420 of Title 10, Armed Forces, and amending section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10\] may be cited as the ‘Naval Petroleum Reserves Production Act of 1976’.”
 

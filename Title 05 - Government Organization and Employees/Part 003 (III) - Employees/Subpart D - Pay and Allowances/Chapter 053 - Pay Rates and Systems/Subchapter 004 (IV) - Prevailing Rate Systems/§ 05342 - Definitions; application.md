@@ -46,7 +46,7 @@
 
 (3) This subchapter, except section 5348, does not apply to officers and members of crews of vessels excepted from chapter 51 of this title by section 5102(c)(8) of this title.
 
-(c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
+(c) Each prevailing rate employee employed within any of the several States or the Districtof Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
 (Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429.)
 
@@ -58,17 +58,17 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 #### Amendments
 
-1994—Subsec. (a)(1)(J) to (L). Pub. L. 103–359 directed the amendment of subpar. (J) by striking out “or” at end which could not be executed because par. (1) does not contain a subpar. (J), added “or” at end of subpar. (K), and added subpar. (L).
+<b>1994</b>—Subsec. (a)(1)(J) to (L). Pub. L. 103–359 directed the amendment of subpar. (J) by striking out “or” at end which could not be executed because par. (1) does not contain a subpar. (J), added “or” at end of subpar. (K), and added subpar. (L).
 
-1991—Subsec. (a)(2)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(2)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1984—Subsec. (a)(1)(I) to (K). Pub. L. 98–618 struck out “or” at end of subpar. (I), inserted “or” at end of subpar. (J), and added subpar. (K).
+<b>1984</b>—Subsec. (a)(1)(I) to (K). Pub. L. 98–618 struck out “or” at end of subpar. (I), inserted “or” at end of subpar. (J), and added subpar. (K).
 
-1983—Subsec. (a)(1)(C) to (J). Pub. L. 97–468, eff. Jan. 5, 1985, struck out subpar. (C) which excluded the Alaska Railroad and redesignated subpars. (D) to (J) as (C) to (I), respectively. See Effective Date of 1983 Amendment note below.
+<b>1983</b>—Subsec. (a)(1)(C) to (J). Pub. L. 97–468, eff. Jan. 5, 1985, struck out subpar. (C) which excluded the Alaska Railroad and redesignated subpars. (D) to (J) as (C) to (I), respectively. See Effective Date of 1983 Amendment note below.
 
-1980—Subsec. (a)(1)(J). Pub. L. 96–191 added subpar. (J).
+<b>1980</b>—Subsec. (a)(1)(J). Pub. L. 96–191 added subpar. (J).
 
-1979—Subsec. (a)(1)(G). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (a)(1)(G). Pub. L. 96–70 substituted “Commission” for “Company”.
 
 #### Effective Date of 1983 Amendment
 

@@ -1,4 +1,4 @@
-### §460uu–32 . Management; provisions applicable
+### §460uu–32. Management; provisions applicable
 
 (a) Subject to valid existing rights, each wilderness area designated under this subchapter shall be administered by the Secretary, through the Director of the Bureau of Land Management, in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\] governing areas designated by that Act as wilderness, except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to December 31, 1987.
 

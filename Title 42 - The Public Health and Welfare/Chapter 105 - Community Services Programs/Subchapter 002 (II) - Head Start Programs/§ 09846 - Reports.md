@@ -36,7 +36,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(11) the information contained in the documents entitled “Program Information Report” and “Head Start Cost Analyses System” (or any document similar to either), prepared with respect to Head Start programs;
 
-&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, including health, mental health, dental care, parenting education, physical fitness, and literacy training;
+&emsp;(12) a description of the types of services provided to children and their families, bothon-site and through referrals, including health, mental health, dental care, parenting education, physical fitness, and literacy training;
 
 &emsp;(13) a summary of information concerning the research, demonstration, and evaluation activities conducted under section 9844 of this title, including—
 
@@ -64,7 +64,7 @@ Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) design
 
 1992—Subsec. (g). Pub. L. 102–401 struck out “(1)” before “At least” at beginning of subsec. and substituted “physical” for “physicial” in par. (12).
 
-1990—Subsec. (c)(2). Pub. L. 101–501, §118, inserted at end “The Secretary is encouraged to provide funds forcommunity-based cooperative research efforts to enable Head Start directors to conduct evaluations of their programs with the assistance of qualified researchers not directly involved in the administration of the program or project operation.”
+1990—Subsec. (c)(2). Pub. L. 101–501, §118, inserted at end “The Secretary is encouraged to provide funds for community-based cooperative research efforts to enable Head Start directors to conduct evaluations of their programs with the assistance of qualified researchers not directly involved in the administration of the program or project operation.”
 
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
@@ -72,7 +72,7 @@ Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

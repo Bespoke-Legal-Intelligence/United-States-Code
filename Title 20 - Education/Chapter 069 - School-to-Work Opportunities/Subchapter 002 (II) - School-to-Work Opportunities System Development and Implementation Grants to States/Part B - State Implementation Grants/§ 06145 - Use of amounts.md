@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretaries may not provide an implementation grant under section 6142 of this title to a State unless the State agrees that the State will use all amounts received from such grant to implement the statewide School-to-Work Opportunities system in accordance with this section.
+The Secretaries may not provide an implementation grant under section 6142 of this title to aState unless the State agrees that the State will use all amounts received from such grant to implement the statewide School-to-Work Opportunities system in accordance with this section.
 
 #### (b) Subgrants to local partnerships
 
@@ -70,7 +70,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 &emsp;&emsp;(K) establishing or expanding school-to-apprenticeship programs in cooperation with registered apprenticeship agencies and apprenticeship sponsors;
 
-&emsp;&emsp;(L) assisting participating employers, including small- and medium-size businesses, to identify and train workplace mentors and to develop work-based learning components;
+&emsp;&emsp;(L) assisting participating employers, including small- and medium-size businesses,to identify and train workplace mentors and to develop work-based learning components;
 
 &emsp;&emsp;(M) promoting the formation of partnerships between elementary schools and secondary schools (including middle schools) and local businesses as an investment in future workplace productivity and competitiveness;
 
@@ -136,7 +136,7 @@ In carrying out the statewide School-to-Work Opportunities system, the State may
 
 &emsp;(15) provide career exploration and awareness services, counseling and mentoring services, college awareness and preparation services, and other services (beginning at the earliest possible age, but not later than the 7th grade) to prepare students for the transition from school to work.
 
-(Pub. L. 103 239, title II, §215, May 4, 1994, 108 Stat. 587.)
+(Pub. L. 103–239, title II, §215, May 4, 1994, 108 Stat. 587.)
 
 #### Section Referred to in Other Sections
 

@@ -3,9 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | \[8681 to 8683. Repealed.\] |  |
-| 8684\. | Service credit: regular enlisted members; service as an officer to be counted as enlisted service. |
+| [8684\.](%C2%A7%2008684%20-%20Service%20credit%20regular%20enlisted%20members%3B%20service%20as%20an%20officer%20to%20be%20counted%20as%20enlisted%20service.md) | Service credit: regular enlisted members; service as an officer to be counted as enlisted service. |
 | \[8685 to 8690. Repealed.\] |  |
-| 8691\. | Flying officer rating: qualifications. |
+| [8691\.](%C2%A7%2008691%20-%20Flying%20officer%20rating%20qualifications.md) | Flying officer rating: qualifications. |
 | \[8692, 8693. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

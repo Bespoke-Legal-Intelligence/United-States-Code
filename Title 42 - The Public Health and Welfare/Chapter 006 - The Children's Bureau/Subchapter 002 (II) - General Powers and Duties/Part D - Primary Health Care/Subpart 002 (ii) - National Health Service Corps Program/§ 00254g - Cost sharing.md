@@ -4,7 +4,7 @@
 
 The Secretary shall require, as a condition to the approval of an application under section 254f of this title for the assignment of a member of the Corps, that the entity which submitted the application enter into an agreement for a specific assignment period (not to exceed 4 years) with the Secretary under which—
 
-&emsp;(1) the entity shall be responsible for charging, in accordance with subsection (d) of thissection, for health services provided by Corps members assigned to the entity;
+&emsp;(1) the entity shall be responsible for charging, in accordance with subsection (d) of this section, for health services provided by Corps members assigned to the entity;
 
 &emsp;(2) the entity shall take such action as may be reasonable for the collection of payments for such health services, including, if a Federal agency, an agency of a State or local government, or other third party would be responsible for all or part of the cost of such health services if it had not been provided by Corps members under this subpart, the collection, on a fee-for-service or other basis, from such agency or third party, the portion of such cost for which it would be so responsible (and in determining the amount of such cost which such agency or third party would be responsible, the health services provided by Corps members shall be considered as being provided by private practitioners);
 
@@ -16,7 +16,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 &emsp;&emsp;(C) if such entity received a loan under section 254h(c) of this title or a grant under section 254f(d)(2) <sup>1</sup> of this title, an amount which bears the same ratio to the amount of such loan or grant as the number of days in such quarter (or other period) during which any Corps members were assigned to the entity bears to the number of days in the assignment period after such entity received such loan or grant;
 
-&emsp;(4) the entity, if a small health center, shall pay to the United States, in each calendar quarter (or other period as may be specified in the agreement) during which any Corps member is assigned to such entity, an amount determined by the Secretary in accordance with subsection (f) of this section; and
+&emsp;(4) the entity, if a small health center, shall pay to the United States, in each calendar quarter (or other period as may be specified inthe agreement) during which any Corps member is assigned to such entity, an amount determined by the Secretary in accordance with subsection (f) of this section; and
 
 &emsp;(5) the entity shall prepare and submit to the Secretary an annual report, in such form and manner, as the Secretary may require.
 
@@ -46,7 +46,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 #### (c) Excess funds
 
-The excess (if any) of the amount of funds collected by an entity which is not a small health center in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with subsection (a)(3) ofthis section or subsection (b)(5)(A) of this section shall be used by the entity to expand and improve the provision of health services to the individuals in the health professional shortage area for which the entity submitted an application or to recruit and retain health manpower to provide health services for such individuals.
+The excess (if any) of the amount of funds collected by an entity which is not a small health center in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with subsection (a)(3) of this section or subsection (b)(5)(A) of this section shall be used by the entity to expand and improve the provision of health services to the individuals in the health professional shortage area for which the entity submitted an application or to recruit and retain health manpower to provide health services for such individuals.
 
 #### (d) Charge for services; reduced rate; no charge
 
@@ -60,7 +60,7 @@ Funds received by the Secretary under an agreement entered into under this secti
 
 (1) An entity which is a small health center shall pay to the United States, as prescribed by the Secretary in each calendar quarter (or other period as may be specified in the agreement) during which any Corps member is assigned to such entity, an amount equal to the amount (prorated for a calendar quarter or other period) by which the revenues that the center may reasonably expect to receive during an annual period for the provision of health services exceeds the costs that the center may reasonably expect to incur in the provision of such services, except that the amount that an entity shall pay to the United States under this paragraph shall not exceed the amount such entity would pay to the United States under paragraph (3) of subsection (a) of this section if such paragraph applied to such entity.
 
-(2)(A) To determine for purposes of paragraph (1) the revenues and costs which an entity that is a small health center may reasonably be expected to receive and incur in an annual period for the provision of health services, the entity shall submit to the Secretary before the beginning of such period a proposed budget which—
+(2)(A) To determine for purposes of paragraph (1) the revenues and costs which an entity that is a small health center may reasonably be expected to receive and incur in an annual period for the provision of health services, the entityshall submit to the Secretary before the beginning of such period a proposed budget which—
 
 &emsp;(i) describes the primary and supplemental health services (as defined in section 254c of this title) which are needed by the area the entity serves in such period; and
 
@@ -100,7 +100,7 @@ Funds received by the Secretary under an agreement entered into under this secti
 
 &emsp;(E) establish a financial reserve to assure its ability to continue providing health services.
 
-(4) The excess (if any) of the amount of funds collected by an entity which is a small health center in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with paragraph (1) of this subsection shall be used by the center for the purposes set out in subparagraphs (A) through (E) of paragraph (3) of this subsection or to recruit and retain health manpower to providehealth services to the individuals in the health professional shortage area for which the entity submitted an application.
+(4) The excess (if any) of the amount of funds collected by an entity which is a small health center in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with paragraph (1) of this subsection shall be used by the center for the purposes set out in subparagraphs (A) through (E) of paragraph (3) of this subsection or to recruit and retain health manpower to provide health services to the individuals in the health professional shortage area for which the entity submitted an application.
 
 (5) For purposes of this section, the term “small health center” means an entity other than—
 
@@ -134,7 +134,7 @@ Subsec. (b)(1). Pub. L. 98–194, §3(b)(1), (2), inserted “, on a prospectiv
 
 Subsec. (b)(2). Pub. L. 98–194, §3(b)(3), (4), inserted “, on a prospective or retrospective basis,” after “in whole or in part”, and “is not a small health center and which” after “for any entity which”.
 
-Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment by the entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
+Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment bythe entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
 
 Subsec. (b)(5). Pub. L. 98–194, §3(b)(6), added par. (5).
 

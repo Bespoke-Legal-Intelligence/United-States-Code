@@ -28,7 +28,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed secti
 
 1976—Pub. L. 94–455, title XX, §2005(e)(1), Oct. 4, 1976, 90 Stat. 1878, which added item 1023 and redesignated former item 1023 as 1024, was repealed by Pub. L. 96–223, §401(a). See section 401(b), (e) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments and Revival of Prior Law note under section 1023 of this title.
 
-Pub. L. 94–455, title XIX, §1901(b)(29)(B), (30)(C), Oct. 4, 1976, 90 Stat. 1799, struck out item 1020 “Election in respect of depreciation, etc., allowed before 1952”, and item 1022 “Increase in basis with respect to certain foreign personal holding company stock or securities”.
+Pub. L. 94–455, title XIX, §1901(b)(29)(B), (30)(C), Oct. 4, 1976, 90 Stat. 1799, struck out item 1020 “Election inrespect of depreciation, etc., allowed before 1952”, and item 1022 “Increase in basis with respect to certain foreign personal holding company stock or securities”.
 
 1964—Pub. L. 88–272, title II, §225(j)(3), Feb. 26, 1964, 78 Stat. 93, added item 1022 and redesignated former item 1022 as 1023.
 

@@ -32,7 +32,7 @@ Rapid Urbanization and Continuing Population Dispersal.—Rapid urbanization and
 
 (d)
 
-Elderly Individuals and Individuals With Disabilities.—It is the policy of the Government that elderly individuals and individuals with disabilities have the same right as otherindividuals to use mass transportation service and facilities. Special efforts shall be made in planning and designing mass transportation service and facilities to ensure that mass transportation can be used by elderly individuals and individuals with disabilities. All programs of the Government assisting mass transportation shall carry out this policy.
+Elderly Individuals and Individuals With Disabilities.—It is the policy of the Government that elderly individuals and individuals with disabilities have the same right as other individuals to use mass transportation service and facilities. Special efforts shall be made in planning and designing mass transportation service and facilities to ensure that mass transportation can be used by elderly individuals and individuals with disabilities. All programs of the Government assisting mass transportation shall carry out this policy.
 
 (e)
 
@@ -124,7 +124,7 @@ In subsections (d) and (e), the words “hereby declared to be” are omitted as
 
 In subsection (d), the words “to ensure that mass transportation can be used by elderly individuals and individuals with disabilities” are substituted for “in the planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured” to eliminate unnecessary words. The words “the field of” and “(including the programs under this chapter) . . . contain provisions” are omitted as surplus.
 
-In subsection (e), the words “carrying out” are substituted for “construction of”, and the word “capital” is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added for clarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
+In subsection (e), the words “carrying out” are substituted for “construction of”, and the word “capital” is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added forclarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
 
 In subsection (f)(5), the words “local” and “to exercise the initiative necessary” are omitted as surplus.
 

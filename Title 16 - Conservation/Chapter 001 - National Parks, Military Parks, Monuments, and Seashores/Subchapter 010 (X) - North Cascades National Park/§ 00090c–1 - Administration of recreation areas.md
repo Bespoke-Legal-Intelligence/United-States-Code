@@ -28,7 +28,7 @@ The public land laws, referred to in subsec. (b), are classified generally to Ti
 
 The United States mineral leasing and mining laws, referred to in subsec. (b), are classified generally to Title 30, Mineral Lands and Mining.
 
-The Mineral Leasing Act of February 25, 1920, as amended, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification ofthis Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act of February 25, 1920, as amended, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in subsec. (c), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 30 and Tables.
 

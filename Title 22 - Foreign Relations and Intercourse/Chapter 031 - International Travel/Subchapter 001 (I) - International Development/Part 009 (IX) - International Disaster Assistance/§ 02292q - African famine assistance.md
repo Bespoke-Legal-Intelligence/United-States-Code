@@ -20,7 +20,7 @@ The President is authorized to provide assistance for famine relief, rehabilitat
 
 #### (3) Management support activities
 
-&emsp;Of the amount authorized to be appropriated by this section, $2,500,000 shall be transferred to the “Operating Expenses of the Agency for International Development” account. These funds shall be used for management support activities associated with the planning, monitoring, and supervision of emergency food and disaster assistance provided in those countries in Africa described in section 5(a) of the African Famine Relief and Recovery Act of 1985.
+&emsp;Of the amount authorized to be appropriated by this section, $2,500,000 shall be transferred to the “Operating Expenses of the Agency for International Development” account. These funds shall be used for management supportactivities associated with the planning, monitoring, and supervision of emergency food and disaster assistance provided in those countries in Africa described in section 5(a) of the African Famine Relief and Recovery Act of 1985.
 
 #### (c) Authorization of appropriations
 

@@ -8,7 +8,7 @@ If—
 
 &emsp;(2) the fair market value of such property exceeds its adjusted basis,
 
-> then for purposes of this chapter the transferor shall be treated as having sold such property to the political organization on the date of the transfer, and the transferor shall be treated as having realized an amount equal to the fair market value of such property on such date.
+> then for purposes of this chapter the transferor shall be treated as having sold such property tothe political organization on the date of the transfer, and the transferor shall be treated as having realized an amount equal to the fair market value of such property on such date.
 
 #### (b) Basis of property
 

@@ -1,4 +1,4 @@
-### §1338 . Discrimination by foreign countries
+### §1338. Discrimination by foreign countries
 
 #### (a) Additional duties
 
@@ -44,7 +44,7 @@ When used in this section the term “foreign country” means any empire, count
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title III, §317, 42 Stat. 944. That section was superseded by section 338 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title III, §317, 42 Stat. 944. That section was superseded by section 338 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
 
 #### Section Referred to in Other Sections
 

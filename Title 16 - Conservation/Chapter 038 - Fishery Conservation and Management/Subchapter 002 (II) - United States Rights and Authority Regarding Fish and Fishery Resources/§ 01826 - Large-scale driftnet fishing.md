@@ -44,7 +44,7 @@ The Secretary, through the Secretary of State and the Secretary of the departmen
 
 &emsp;(4) officials of the United States have the right to board and inspect for violations of the agreement any large-scale driftnet fishing vessels operating under the flag of a foreign nation that is party to the agreement at any time while such vessel is operating in designated areas beyond the exclusive economic zone of any nation;
 
-&emsp;(5) all catch landed or transshipped at sea by large-scale driftnet fishing vessels of a foreignnation that is a party to the agreement, and which are operated beyond the exclusive economic zone of any nation, is reliably monitored and documented;
+&emsp;(5) all catch landed or transshipped at sea by large-scale driftnet fishing vessels of a foreign nation that is a party to the agreement, and which are operated beyond the exclusive economic zone of any nation, is reliably monitored and documented;
 
 &emsp;(6) time and area restrictions are imposed on the use of large-scale driftnets in order to prevent interception of anadromous species;
 
@@ -94,11 +94,11 @@ Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out 
 
 #### Amendments
 
-1990—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
+1990—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnetfishing for provisions relating to transitional provisions.
 
 1986—Subsec. (b). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

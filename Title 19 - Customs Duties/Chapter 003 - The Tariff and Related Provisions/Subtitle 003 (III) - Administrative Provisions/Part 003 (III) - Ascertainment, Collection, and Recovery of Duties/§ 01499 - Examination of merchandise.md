@@ -126,11 +126,11 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §499, 42 Stat. 965. That section was superseded by section 499 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §499, 42 Stat. 965. That section was superseded by section 499 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision prohibiting delivery of merchandise liable to be inspected or appraised, until it had been inspected or appraised, or until the packages sent to be inspected or appraised, should be found correctly invoiced, and be so reported, with a further provision as to the taking of bonds conditioned for delivery of the merchandise, and the forfeiture of such bonds, was contained in R.S. §2899.
 
-Provisions substantially similar to those of this section concerning the number of packages to be examined (not including the provision for designation of a less number by the Secretary of the Treasury) and concerning packages found to contain articles not specified in the invoice, with a further provision for remission of the forfeiture, were contained in R.S. §2901.
+Provisions substantially similar to those in this section concerning the number of packages to be examined (not including the provision for designation of a less number by the Secretary of the Treasury) and concerning packages found to contain articles not specified in the invoice, with a further provision for remission of the forfeiture, were contained in R.S. §2901.
 
 A prior provision, concerning deficiencies somewhat similar to that in this section, was contained in R.S. §2921.
 

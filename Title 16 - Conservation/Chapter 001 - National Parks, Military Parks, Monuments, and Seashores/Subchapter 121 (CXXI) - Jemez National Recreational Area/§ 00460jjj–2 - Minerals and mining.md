@@ -8,7 +8,7 @@
 
 #### (b) Withdrawal
 
-Subject to valid existing rights, after October 12, 1993, lands within the recreation area withdrawn from location under the general mininglaws and from the operation of the mineral leasing, geothermal leasing, and mineral material disposal laws.
+Subject to valid existing rights, after October 12, 1993, lands within the recreation area withdrawn from location under the general mining laws and from the operation of the mineral leasing, geothermal leasing, and mineral material disposal laws.
 
 #### (c) Reclamation
 
@@ -16,7 +16,7 @@ No mining activity involving any surface disturbance of lands or waters within s
 
 #### (d) Mining claim validity review
 
-The Secretary of Agriculture shall undertake and complete within 3 years after October 12, 1993, an expedited program to examine all unpatented mining claims, including those for which a patent application has been filed, within the recreation area. Upon determination by the Secretary of Agriculture that the elements of a contest are present, the Secretary of the Interior shall immediately determine the validity of such claims. If a claim is determined to be invalid, the Secretary shall promptly declare the claim to be null and void.
+The Secretary of Agriculture shall undertake and complete within 3 years after October 12, 1993, an expedited program to examine all unpatented mining claims, including those forwhich a patent application has been filed, within the recreation area. Upon determination by the Secretary of Agriculture that the elements of a contest are present, the Secretary of the Interior shall immediately determine the validity of such claims. If a claim is determined to be invalid, the Secretary shall promptly declare the claim to be null and void.
 
 #### (e) Public purposes
 

@@ -20,11 +20,11 @@ As used in this chapter—
 
 > shall not include merchant vessels or, as defined by the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011), source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), by-product material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data.
 
-(e) “Defense information” includes any document, writing, sketch, photograph, plan, model, specification, design, prototype, or other recorded or oral information relating to any defense article or defense service, but shall not include Restricted Data as defined by the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and data removed from the Restricted Data category under section 142d of that Act \[42 U.S.C. 2162(d)\].
+(e) “Defense information” includes any document, writing, sketch, photograph, plan, model, specification, design, prototype, or other recorded or oral information relating to any defense article or defense service, but shall not include Restricted Data as defined by the AtomicEnergy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and data removed from the Restricted Data category under section 142d of that Act \[42 U.S.C. 2162(d)\].
 
 (f) “Defense service” includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 
-(g) “Excess defense articles” means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation ofmilitary assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
+(g) “Excess defense articles” means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 
 (h) “Function” includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
@@ -78,7 +78,7 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(b) of H.R. 2992, 
 
 1978—Subsecs. (<i>o</i>), (p). Pub. L. 95–424 added subsecs. (<i>o</i>) and (p).
 
-1976—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out “training” after “inspection, repair”, inserted “but does not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
+1976—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out “training” after “inspection, repair”, inserted “butdoes not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
 
 Subsec. (n). Pub. L. 94–329, §106(b)(6)(B), added subsec. (n).
 
@@ -90,7 +90,7 @@ Subsec. (m). Pub. L. 93–189, §22(3), amended subsec. (m) generally. Prior to 
 
 &emsp;“(1) with respect to excess defense articles, the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying such articles;
 
-&emsp;“(2) with respect to nonexcess defense articles delivered from inventory to countries or internationalorganizations under this chapter, the standard price in effect at the time such articles are dropped from inventory by the supplying agency. Such standard price shall be the same price (including authorized reduced prices) used for transfers or sales of such articles in or between the Armed Forces of the United States Government, or, where such articles are not transferred or sold in or between the Armed Forces of the United States, the gross cost to the United States Government adjusted as appropriate for condition and market value; and
+&emsp;“(2) with respect to nonexcess defense articles delivered from inventory to countries or international organizations under this chapter, the standard price in effect at the time such articles are dropped from inventory by the supplying agency. Such standard price shall be the same price (including authorized reduced prices) used for transfers or sales of such articles in or between the Armed Forces of the United States Government, or, where such articles are not transferred or sold in or between the Armed Forces of the United States, the gross cost to the United States Government adjusted as appropriate for condition and market value; and
 
 &emsp;“(3) with respect to nonexcess defense articles delivered from new procurement to countries or international organizations under this chapter, the contract or production costs of such articles.
 

@@ -8,7 +8,7 @@ For the purposes of section 3391 of this title, the term “essential agricultur
 
 &emsp;(3) for the 5-year period beginning on June 30, 1980, include use of natural gas in the distillation of fuel-grade alcohol from food grains or other biomass by facilities in existence on June 30, 1980, which do not have the installed capability to burn coal lawfully.
 
-(Pub. L. 96 294, title II, §273, June 30, 1980, 94 Stat. 711.)
+(Pub. L. 96–294, title II, §273, June 30, 1980, 94 Stat. 711.)
 
 #### References in Text
 

@@ -24,7 +24,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (3) Chairperson
 
-&emsp;The Secretary of Commerce (hereafter in this section referred to as the “Secretary”) shall designate the chairperson of the Working Group from among senior employees of the Department of Commerce. The chairperson shall—
+&emsp;The Secretary of Commerce (hereafter in this section referred to as the “Secretary”) shall designate the chairperson of the WorkingGroup from among senior employees of the Department of Commerce. The chairperson shall—
 
 &emsp;&emsp;(A) assess the effectiveness of United States Government programs for the promotion of exports of environmental technologies, goods, and services;
 
@@ -36,7 +36,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (4) Report to Congress
 
-&emsp;The chairperson of the TPCC shall include a report on the activities of the Working Groupas a part of the annual report submitted to the Congress by the TPCC.
+&emsp;The chairperson of the TPCC shall include a report on the activities of the Working Group as a part of the annual report submitted to the Congress by the TPCC.
 
 #### (c) Environmental Technologies Trade Advisory Committee
 
@@ -54,7 +54,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports, including products that comply with United States environmental, safety, and related requirements;
 
-&emsp;&emsp;(D) States (as defined in section 4721(i)(5)<sup>1</sup> of this title) and associations representing the States; and
+&emsp;&emsp;(D) States (as defined in section 4721(i)(5) <sup>1</sup> of this title) and associations representing the States; and
 
 &emsp;&emsp;(E) other appropriate interested members of the public, including labor representatives.
 
@@ -88,7 +88,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 #### (1) Assignment of environmental technologies specialists
 
-&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary orlimited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
 
 #### (2) Duties of environmental technologies specialists
 
@@ -162,7 +162,7 @@ Subject to the availability of appropriations for such purpose, the Secretary is
 
 For purposes of this section, the term “environmental business” means a business that produces environmental technologies, goods, or services.
 
-(Pub. L. 100 418, title II, §2313, as added Pub. L. 102 429, title II, §204(a), Oct. 21, 1992, 106 Stat. 2202; amended Pub. L. 103 392, title IV, §402, Oct. 22, 1994, 108 Stat. 4099.)
+(Pub. L. 100–418, title II, §2313, as added Pub. L. 102–429, title II, §204(a), Oct. 21, 1992, 106 Stat. 2202; amended Pub. L. 103–392, title IV, §402, Oct. 22, 1994, 108 Stat. 4099.)
 
 #### References in Text
 
@@ -170,13 +170,13 @@ Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and s
 
 #### Amendments
 
-1994—Subsecs. (c) to (e). Pub. L. 103 392, §402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
+1994—Subsecs. (c) to (e). Pub. L. 103–392, §402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
 
-Subsecs. (f) to (k). Pub. L. 103 392, §402(b), added subsecs. (f) to (k).
+Subsecs. (f) to (k). Pub. L. 103–392, §402(b), added subsecs. (f) to (k).
 
 #### Report on Insurance Feasibility
 
-Section 204(b) of Pub. L. 102 429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
+Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@
 
 #### (b) Facilities covered
 
-(1) Except as provided in section 11004 of this title, a facility is subject to the requirements of this subchapter if a substance on the list referred to in subsection (a) of this section is present at the facility in an amount in excess of the threshold planning quantity established for such substance.
+(1) Except as provided in section 11004 of this title, a facility is subject to the requirements ofthis subchapter if a substance on the list referred to in subsection (a) of this section is present at the facility in an amount in excess of the threshold planning quantity established for such substance.
 
 (2) For purposes of emergency planning, a Governor or a State emergency response commission may designate additional facilities which shall be subject to the requirements of this subchapter, if such designation is made after public notice and opportunity for comment. The Governor or State emergency response commission shall notify the facility concerned of any facility designation under this paragraph.
 

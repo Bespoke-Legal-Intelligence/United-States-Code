@@ -22,5 +22,5 @@ The purposes of this subchapter are to—
 
 &emsp;(3) promote international efforts to provide technical and other assistance to developing nations which will facilitate improvements in their domestic standard of living while minimizing damage to the global or regional environment.
 
-(Pub. L. 101 606, title II, §202, Nov. 16, 1990, 104 Stat. 3102.)
+(Pub. L. 101–606, title II, §202, Nov. 16, 1990, 104 Stat. 3102.)
 

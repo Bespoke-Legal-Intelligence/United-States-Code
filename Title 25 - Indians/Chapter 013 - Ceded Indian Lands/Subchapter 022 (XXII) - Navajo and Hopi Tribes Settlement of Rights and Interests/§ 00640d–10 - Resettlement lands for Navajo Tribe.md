@@ -6,7 +6,7 @@ The Secretary is authorized and directed to—
 
 &emsp;(1) transfer not to exceed two hundred and fifty thousand acres of lands under the jurisdiction of the Bureau of Land Management within the State <sup>1</sup> of Arizona and New Mexico to the Navajo Tribe: <i>Provided</i>, That, in order to facilitate such transfer, the Secretary is authorized to exchange such lands for State or private lands of equal value or, if they are not equal, the values shall be equalized by the payment of money to the grantor or to the Secretary as the circumstances require so long as payment does not exceed 25 per centum of the total value of the lands transferred out of Federal ownership. The Secretary shall try to reduce the payment to as small an amount as possible.
 
-&emsp;(2) <sup>2</sup> on behalf of the United States, accept title to not to exceed one hundred and fifty thousand acres of private lands acquired by the Navajo Tribe. Title thereto shall be taken in the name of the United States in trust for the benefit of the Navajo Tribe as a part of the Navajo Reservation.
+&emsp;(2) <sup>2</sup> on behalf of the United States, accept title to not to exceed one hundred and fiftythousand acres of private lands acquired by the Navajo Tribe. Title thereto shall be taken in the name of the United States in trust for the benefit of the Navajo Tribe as a part of the Navajo Reservation.
 
 > Subject to the provisions of the following sentences of this subsection, all rights, title and interests of the United States in the lands described in paragraph (1), including such interests the United States as lessor has in such lands under the Mineral Leasing Act of 1920, as amended \[30 U.S.C. 181 et seq.\], will, subject to existing leasehold interests, be transferred without cost to the Navajo Tribe and title thereto shall be taken by the United States in trust for the benefit of the Navajo Tribe as a part of the Navajo Reservation. So long as selected lands coincide with pending noncompetitive coal lease applications under the Mineral Leasing Act of 1920, as amended, the Secretary may not transfer any United States interests in such lands until the noncompetitive coal lease applications have been fully adjudicated. If such adjudication results in issuance of Federal coal leases to the applicants, such transfer shall be subject to such leases. The leaseholders rights and interests in such coal leases will in no way be diminished by the transfer of the rights, title and interests of the United States in such lands to the Navajo Tribe. If any selected lands are subject to valid claims located under the Mining Law of 1872 the transfer of the selected lands may be made subject to those claims.
 
@@ -18,7 +18,7 @@ A border of any parcel of land so transferred or acquired shall be within eighte
 
 #### (c) Selection of lands to be transferred or acquired; time period; consultation; restriction of New Mexico lands
 
-Lands to be so transferred or acquired shall, for a period of three years after July 8, 1980, beselected by the Navajo Tribe after consultation with the Commissioner: <i>Provided</i>, That, at the end of such period, the Commissioner shall have the authority to select such lands after consultation with the Navajo Tribe: <i>Provided further</i>, That not to exceed thirty-five thousand acres of lands so transferred or acquired shall be selected within the State of New Mexico.
+Lands to be so transferred or acquired shall, for a period of three years after July 8, 1980, be selected by the Navajo Tribe after consultation with the Commissioner: <i>Provided</i>, That, at the end of such period, the Commissioner shall have the authority to select such lands after consultation with the Navajo Tribe: <i>Provided further</i>, That not to exceed thirty-five thousand acres of lands so transferred or acquired shall be selected within the State of New Mexico.
 
 #### (d) Progress and status of land transfer program; reports to Congressional committees
 
@@ -86,7 +86,7 @@ Subsecs. (c) to (i). Pub. L. 96–305 added subsecs. (c) to (i).
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Select Committee on Indian Affairs of the Senate redesignated Committee on Indian Affairs of the Senate by section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress.
 

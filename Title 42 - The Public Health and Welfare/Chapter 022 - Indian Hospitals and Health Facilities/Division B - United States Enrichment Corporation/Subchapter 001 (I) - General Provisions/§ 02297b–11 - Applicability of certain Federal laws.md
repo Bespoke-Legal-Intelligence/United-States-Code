@@ -16,7 +16,7 @@ The Corporation shall be subject to, and comply with, all Federal and State, int
 
 #### (c) OSHA requirements
 
-Notwithstanding sections 3(5), 4(b)(1), and 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652(5), 653(b)(1), and 668), the Corporation shall be subject to, and comply with, such Act \[29 U.S.C. 651 et seq.\] and all regulations and standards promulgated thereunder in the same manner, and to the same extent, as an employer is subject to such Act. For the purposes of enforcing such Act (including any injunctive relief, administrative order, or civil, administrative, or criminal penalty or fine) against the Corporation, the United States expressly waives any immunity otherwise applicable to the Corporation.
+Notwithstanding sections 3(5), 4(b)(1), and 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652(5), 653(b)(1), and 668), the Corporation shall be subject to, and comply with, such Act \[29 U.S.C. 651 et seq.\] and all regulations andstandards promulgated thereunder in the same manner, and to the same extent, as an employer is subject to such Act. For the purposes of enforcing such Act (including any injunctive relief, administrative order, or civil, administrative, or criminal penalty or fine) against the Corporation, the United States expressly waives any immunity otherwise applicable to the Corporation.
 
 #### (d) Labor standards
 
@@ -46,7 +46,7 @@ The Service Contract Act of 1965, referred to in subsec. (d), is Pub. L. 89–28
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For completeclassification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “5851”.</i>
 

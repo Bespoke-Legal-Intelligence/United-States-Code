@@ -32,7 +32,7 @@ If the executor is unable to make a complete return as to any part of the gross 
 
 The Tax Reform Act of 1976, referred to in subsec. (a)(3)(B), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. For complete classification of this Act to the Code, see Tables.
 
-Section 2521 of this title referred to in subsec. (a)(3)(B), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
+Section 2521 of this title, referred to in subsec. (a)(3)(B), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
 
 #### Amendments
 

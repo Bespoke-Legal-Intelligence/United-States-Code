@@ -24,5 +24,5 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 
 #### Juneau Indian Village Townsite
 
-Pub. L. 88–34, May 29, 1963, 77 Stat. 52, which provided that sections 733 to 736 of this title were extended and made applicable to all lands of the Juneau Indian Village of Alaska, including uplands and filled in tidelands occupied on May 29, 1963, was repealed by section 703(a) of Pub. L. 94–579.
+Pub. L. 88–34, May 29, 1963, 77 Stat. 52, which provided that sections 733 to 736 of this title were extended andmade applicable to all lands of the Juneau Indian Village of Alaska, including uplands and filled in tidelands occupied on May 29, 1963, was repealed by section 703(a) of Pub. L. 94–579.
 

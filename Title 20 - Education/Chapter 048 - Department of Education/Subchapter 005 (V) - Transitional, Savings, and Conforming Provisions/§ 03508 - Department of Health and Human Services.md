@@ -8,9 +8,9 @@ The Department of Health, Education, and Welfare is hereby redesignated the Depa
 
 Any reference to the Department of Health, Education, and Welfare, the Secretary of Health, Education, and Welfare, or any other official of the Department of Health, Education, and Welfare in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on May 4, 1980, shall be deemed to refer and apply to the Department of Health and Human Services or the Secretary of Health and Human Services, respectively, except to the extent such reference is to a function or office transferred to the Secretary or the Department under this chapter.
 
-(Pub. L. 96 88, title V, §509, Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 96–88, title V, §509, Oct. 17, 1979, 93 Stat. 695.)
 
 #### Codification
 
-In subsec. (b), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96 88, set out as an Effective Date note under section 3401 of this title.
+In subsec. (b), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 

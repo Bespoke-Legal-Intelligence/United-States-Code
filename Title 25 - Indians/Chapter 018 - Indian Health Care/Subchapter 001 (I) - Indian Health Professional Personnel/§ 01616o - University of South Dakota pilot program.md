@@ -28,7 +28,7 @@ The USDSM shall coordinate the program established pursuant to a grant provided 
 
 #### (e) Development of additional professional opportunities
 
-The USDSM, in cooperation with the Service, shall develop additional professional opportunities for program participants on Indian reservations in order to improve the recruitment andretention of qualified health professionals in the Aberdeen Area of the Service.
+The USDSM, in cooperation with the Service, shall develop additional professional opportunities for program participants on Indian reservations in order to improve the recruitment and retention of qualified health professionals in the Aberdeen Area of the Service.
 
 (Pub. L. 94–437, title I, §122, as added Pub. L. 102–573, title I, §116, Oct. 29, 1992, 106 Stat. 4543.)
 

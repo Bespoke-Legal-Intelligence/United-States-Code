@@ -1,4 +1,4 @@
-### §3572 . Rank: commissioned officers serving under temporary appointments
+### §3572. Rank: commissioned officers serving under temporary appointments
 
 The President may, in accordance with the needs of the Army, adjust dates of rank of commissioned officers of the Army serving in temporary grades.
 

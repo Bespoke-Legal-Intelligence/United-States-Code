@@ -46,7 +46,7 @@
 
 &emsp;(2) the agency's need for the property or services is of such an unusual and compelling urgency that the United States would be seriously injured unless the agency is permitted to limit the number of sources from which it solicits bids or proposals;
 
-&emsp;(3) it is necessary to award the contract to a particular source or sources in order (A) to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization, (B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center, or (C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify;
+&emsp;(3) it is necessary to award the contract to a particular source or sources in order (A) tomaintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization, (B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center, or (C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify;
 
 &emsp;(4) the terms of an international agreement or a treaty between the United States and a foreign government or international organization, or the written directions of a foreign government reimbursing the agency for the cost of the procurement of the property or services for such government, have the effect of requiring the use of procedures other than competitive procedures;
 
@@ -62,7 +62,7 @@
 
 (d)(1) For the purposes of applying subsection (c)(1)—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, theproperty or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a concept—
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a concept—
 
 &emsp;&emsp;(i) that is unique and innovative or, in the case of a service, for which the source demonstrates a unique capability of the source to provide the service; and
 
@@ -94,7 +94,7 @@
 
 &emsp;(C) any required notice has been published with respect to such contract pursuant to section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416) and all bids or proposals received in response to that notice have been considered by the head of the agency.
 
-(2) In the case of a procurement permitted by subsection (c)(2), the justification and approval required by paragraph (1) may be made after the contract is awarded. The justification and approval required by paragraph (1) is not required—
+(2) In the case of a procurement permitted by subsection (c)(2), the justification and approvalrequired by paragraph (1) may be made after the contract is awarded. The justification and approval required by paragraph (1) is not required—
 
 &emsp;(A) when a statute expressly requires that the procurement be made from a specified source;
 
@@ -288,7 +288,7 @@ In subsection (i)(1)(B), the words “or States” are omitted because of 1:1.
 
 #### References in Text
 
-The Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, now known as the Javits-Wagner-O'Day Act, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Walsh-Healey Act (41 U.S.C. 35–45), referred to in subsec. (h)(1), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
@@ -362,7 +362,7 @@ Subsec. (j). Pub. L. 101–189, §812, added subsec. (j).
 
 1988—Subsec. (f)(1)(B)(ii). Pub. L. 100–456, §803(1), substituted “(or the head of the procuring activity's delegate designated pursuant to paragraph (6)(A));” for “or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule);”.
 
-Subsec. (f)(1)(B)(iii). Pub. L. 100–456, §803(2), inserted “or in the case of the Under Secretary of Defense for Acquisition, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (6)(B)” before semicolon at end.
+Subsec. (f)(1)(B)(iii). Pub. L. 100–456, §803(2), inserted “or in the case of the Under Secretary of Defense forAcquisition, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (6)(B)” before semicolon at end.
 
 Subsec. (f)(6). Pub. L. 100–456, §803(3), added par. (6).
 
@@ -390,7 +390,7 @@ Subsec. (f)(2). Pub. L. 99–145, §961(a)(1), amended second sentence generally
 
 &emsp;“(B) the authority of section 8(a) of the Small Business Act (15 U.S.C. 637).”
 
-1984—Pub. L. 98–369, §2723(a), substituted “Contracts: competition requirements” for “Purchases and contracts: formal advertising; exceptions” in sectioncatchline and struck out subsecs. (a) to (e) and (g) to (i), redesignated subsec. (f) as (h), and added new subsecs. (a) through (g), thereby removing the prior statutory preference for formal advertising and installing instead more competitive procurement procedures, including dual sourcing, but with provision for the use of other than competitive procedures in specified situations.
+1984—Pub. L. 98–369, §2723(a), substituted “Contracts: competition requirements” for “Purchases and contracts: formal advertising; exceptions” in section catchline and struck out subsecs. (a) to (e) and (g) to (i), redesignated subsec. (f) as (h), and added new subsecs. (a) through (g), thereby removing the prior statutory preference for formal advertising and installing instead more competitive procurement procedures, including dual sourcing, but with provision for the use of other than competitive procedures in specified situations.
 
 Subsec. (b)(2). Pub. L. 98–577, §504(b)(1), substituted provisions to the effect that executive agencies may provide for procurement of property or services covered by this section using competitive procedures but excluding other than small business concerns for provisions which provided that executive agencies shall use competitive procedures but may restrict a solicitation to allow only small business concerns to compete.
 
@@ -522,7 +522,7 @@ In General.—(1) Not later than 120 days after the date of the enactment of thi
 
 “(2)(A) The regulations also shall provide that if a contract for development of a major system is to be awarded in an amount greater than $10,000,000, the contract may not be a firm fixed-price contract.
 
-“(B) A waiver of the requirement prescribed in regulations under subparagraph (A) may be granted by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, but only if the Secretary determines and states in writing that the award is consistent with the criteria specified in clauses (A) and (B) of paragraph (1) and the regulations prescribed under such paragraph. The Secretary may delegate the authority in the preceding sentence only to a person who holds a position in the Office of the Secretary of Defense at or above the level of Assistant Secretary of Defense.
+“(B) A waiver of the requirement prescribed in regulations under subparagraph (A) may be granted by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, but only if the Secretary determines and states in writing that the award is consistent with the criteria specified in clauses (A) and (B) of paragraph (1) and the regulations prescribed under such paragraph. The Secretary may delegate the authority in the preceding sentence only to a person who holds a position in the Office ofthe Secretary of Defense at or above the level of Assistant Secretary of Defense.
 
 “(b)
 
@@ -568,7 +568,7 @@ Section 101(c) \[title X, §927(b)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 Section 1222(b) of Pub. L. 99–661 provided that:
 
-“(1) Except as provided in paragraph (2), funds appropriated to the Department of Defense may not be obligated or expended before October 1, 1987, for the purpose of entering into a contract for the performance ofsecurity-guard functions at any military installation or facility.
+“(1) Except as provided in paragraph (2), funds appropriated to the Department of Defense may not be obligated or expended before October 1, 1987, for the purpose of entering into a contract for the performance of security-guard functions at any military installation or facility.
 
 “(2) The prohibition in paragraph (1) does not apply—
 
@@ -606,7 +606,7 @@ Pub. L. 101–225, title II, §205, Dec. 12, 1989, 103 Stat. 1912, provided that
 
 &emsp;“(3) copies of the studies required by paragraphs (1) and (2) of this subsection are submitted to the Committee on Merchant Marine and Fisheries \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
-Pub. L. 100–448, §5, Sept. 28, 1988, 102 Stat. 1837, provided that:
+Pub. L. 100–448, §5, Sept. 28, 1988, 102 Stat. 1837, as amended by Pub. L. 104–66, title I, §1121(b), Dec. 21, 1995, 109 Stat. 724, provided that:
 
 “(a)
 
@@ -616,37 +616,15 @@ Maintenance of Logistics Capability.—
 
 Statement of national interest.—It is in the national interest for the Coast Guard to maintain a logistics capability (including personnel, equipment, and facilities) to provide a ready and controlled source of technical competence and resources necessary to ensure the effective and timely performance of Coast Guard missions in behalf of the security, safety, and economic and environmental well-being of the United States.
 
-&emsp;“(2)
+&emsp;“\[(2) Repealed. Pub. L. 104–66, title I, §1121(b), Dec. 21, 1995, 109 Stat. 724.\]
 
-Submission of list of necessary activities; limitation on contracting.—(A) Not later than January 31 of each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Merchant Marine and Fisheries \[now Committee on Transportation and Infrastructure\] of the House of Representatives a list of Coast Guard activities that are necessary for maintaining the logistics capability described in paragraph (1). If the Secretary does not submit such list by that date, no activity performed by Coast Guard personnel may be contracted for performance by non-Government personnel after that date until the list is submitted to such committees.
-
-&emsp;“(B) The list submitted by the Secretary under this section shall not include—
-
-&emsp;&emsp;“(i) any activity that is being performed under contract by non-Government personnel on the date of enactment of this Act \[Sept. 28, 1988\]; or
-
-&emsp;&emsp;“(ii) any activity for which the Congress received, prior to the date of the enactment of this Act, a written notification of intent to contract pursuant to section 14(b)(2) of Public Law 98–557 (98 Stat. 2864).
-
-“(b)
-
-Prohibition on Contracting for Performance of Listed Activities.—
-
-&emsp;“(1)
-
-In general.—Except as provided in paragraph (2), performance by non-Government personnel of an activity included in a list under subsection (a)(2)(A) may not be contracted for after the date on which the list is submitted by the Secretary in accordance with subsection (a)(2).
-
-&emsp;“(2)
-
-Waiver of prohibition.—The Secretary may waive paragraph (1) with respect to any activity if the Secretary determines that the performance of that activity by Government personnel is no longer necessary to ensure the effective and timely performance of Coast Guard missions.
-
-&emsp;“(3)
-
-Effective date of waiver; submission of statement.—A waiver under paragraph (2) shall not take effect until after a period of 30 days in which either the Senate or House of Representatives is in session after the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Transportation and Infrastructure\] of the House of Representatives a complete written statement concerning the waiver and the reasons therefor.
+“\[(b) Repealed. Pub. L. 104–66, title I, §1121(b), Dec. 21, 1995, 109 Stat. 724.\]
 
 “(c)
 
 Submisison \[sic\]
 
-of List of Activities Contracted for Performance.—At least 30 days before the beginning of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Transportation and Infrastructure\] of the House of Representatives a list of activities that will be contracted for performance by non-Government personnel under the procedures of Office of Management and Budget Circular A–76 during that fiscal year.
+of List of Activities Contracted for Performance.—At least 30 days before the beginning of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Transportation and Infrastructure\] of the House of Representatives a list of activities that will be contracted for performance by non-Government personnelunder the procedures of Office of Management and Budget Circular A–76 during that fiscal year.
 
 “(d)
 
@@ -654,7 +632,7 @@ Employment of Local Residents To Perform Contracts.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, each contract awarded by the Coast Guard in fiscal years 1988 and 1989 for construction or services to be performed in whole or in part in a State which has an unemployment rate in excess ofthe national average rate of unemployment (as determined by the Secretary of Labor) shall include a provision requiring the contractor to employ, for the purpose of performing that portion of the contract in that State, individuals who are local residents and who, in the case of any craft or trade, possess or would be able to acquire promptly the necessary skills. The Secretary of the department in which the Coast Guard is operating may waive this subsection in the interest of national security or economic efficiency.
+In general.—Notwithstanding any other provision of law, each contract awarded by the Coast Guard in fiscal years 1988 and 1989 for construction or services to be performed in whole or in part in a State which has an unemployment rate in excess of the national average rate of unemployment (as determined by the Secretary of Labor) shall include a provision requiring the contractor to employ, for the purpose of performing that portion of the contract in that State, individuals who are local residents and who, in the case of any craft or trade, possess or would be able to acquire promptly the necessary skills. The Secretary of the department in which the Coast Guard is operating may waive this subsection in the interest of national security or economic efficiency.
 
 &emsp;“(2)
 
@@ -702,7 +680,7 @@ Pub. L. 98–212, title VII, §794, Dec. 8, 1983, 97 Stat. 1454, provided for we
 
 #### Fighter Aircraft Engine Warranty
 
-Pub. L. 97–377, title I, §101(c) \[title VII, §797\], Dec. 21, 1982, 96 Stat. 1865, provided that: “None of the funds made available in the Act or any subsequent Act shall be available for the purchase of the alternate or new model fighter aircraft engine that does not have a written warranty or guarantee attesting that it will perform not less than 3,000 tactical cycles. The warranty will provide that the manufacturer must perform the necessary improvements or replace any parts to achieve the required performance at no cost to the Government.”
+Pub. L. 97–377, title I, §101(c) \[title VII, §797\], Dec. 21, 1982, 96 Stat. 1865, provided that: “None of the funds made available in the Act or any subsequent Act shall be available for the purchase of the alternate or new model fighter aircraft engine that does not have a written warranty or guarantee attesting that it will perform not less than 3,000 tactical cycles. The warranty will provide that the manufacturer must perform the necessary improvements or replace any parts toachieve the required performance at no cost to the Government.”
 
 #### Insurance To Protect Government Contractors Against Cost of Correcting Contractor's Own Defects; Reimbursement Prohibited
 
@@ -740,7 +718,7 @@ Pub. L. 91–441, title V, §507, Oct. 7, 1970, 84 Stat. 913, which had provided
 
 #### Award of Contracts Through Formal Advertising and Competitive Bidding Where Practicable
 
-Pub. L. 90–5, title III, §304, Mar. 16, 1967, 81 Stat. 6, which had provided that the Secretary of Defense was directed, insofar as practicable, that all contracts be formally advertised and awarded on a competitive bid basis to the lowest responsible bidder, was repealed and restated in subsec. (a) of this section by Pub. L. 97–295, §§1(24)(A), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1314.
+Pub. L. 90–5, title III, §304, Mar. 16, 1967, 81 Stat. 6, which had provided that the Secretary of Defense wasdirected, insofar as practicable, that all contracts be formally advertised and awarded on a competitive bid basis to the lowest responsible bidder, was repealed and restated in subsec. (a) of this section by Pub. L. 97–295, §§1(24)(A), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1314.
 
 #### Non-Applicability of National Emergencies Act
 

@@ -4,8 +4,6 @@
 
 This subchapter is referred to in sections 2105, 3373, 3374, 3582, 5595, 8191, 8192, 8332, 8337, 8347, 8411, 8464a, 8705, 8706, 8707, 8708, 8714a, 8714b, 8714c, 8901 of this title; title 2 sections 31b–5, 905; title 7 section 1507; title 10 section 1588; title 15 section 637; title 16 sections 1a–6, 18i, 558c, 580j, 742f, 773a, 831b, 4604; title 18 sections 292, 1920, 1922; title 22 sections 3970, 4048, 4606, 5422; title 25 section 450i; title 28 section 1877; title 29 section 1706; title 33 section 941; title 38 sections 106, 1316, 1317, 7802; title 39 section 1005; title 40 section 290; title 42 sections 251, 1654, 1701, 1702, 1706, 1856c, 2996d, 5055, 7142, 10704, 12620, 12651g, 12655n; title 43 section 1737; title 50 sections 2031, 2051; title 50 App. sections 1291, 1292, 2004.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -64,3 +62,4 @@ This subchapter is referred to in sections 2105, 3373, 3374, 3582, 5595, 8191, 8
 - [&sect; 08149 - Regulations](%C2%A7%2008149%20-%20Regulations.md)
 - [&sect; 08150 - Effect on other statutes](%C2%A7%2008150%20-%20Effect%20on%20other%20statutes.md)
 - [&sect; 08151 - Civil service retention rights](%C2%A7%2008151%20-%20Civil%20service%20retention%20rights.md)
+- [&sect; 08152 - Annual report](%C2%A7%2008152%20-%20Annual%20report.md)

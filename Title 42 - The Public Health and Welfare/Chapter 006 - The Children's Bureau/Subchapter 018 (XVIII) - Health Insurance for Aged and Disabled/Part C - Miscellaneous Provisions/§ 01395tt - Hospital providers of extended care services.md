@@ -22,7 +22,7 @@ The Secretary may not enter into an agreement under this section with any hospit
 
 &emsp;(1) except as provided under subsection (g) of this section, the hospital is located in a rural area and has less than 100 beds, and
 
-&emsp;(2) the hospital has been granted a certificate of need for the provision of long-term care services from the State health planningand development agency (designated under section 300m <sup>1</sup> of this title) for the State in which the hospital is located.
+&emsp;(2) the hospital has been granted a certificate of need for the provision of long-term care services from the State health planning and development agency (designated under section 300m <sup>1</sup> of this title) for the State in which the hospital is located.
 
 #### (c) Terms and conditions of facility agreements
 
@@ -38,7 +38,7 @@ An agreement with a hospital under this section shall, except as otherwise provi
 
 &emsp;(i) The term “availability date” means, with respect to an extended care patient at a hospital, any date on which a bed is available for the patient in a skilled nursing facility located within the geographic region in which the hospital is located.
 
-&emsp;(ii) The term “extended care patient” means an individual being furnished extended care services at a hospital pursuant to an agreement with the Secretary under this section.
+&emsp;(ii) The term “extended care patient” means an individual being furnished extended careservices at a hospital pursuant to an agreement with the Secretary under this section.
 
 (3) In the case of an agreement for a cost reporting period under this section with a hospital that has more than 49 beds, payment may not be made in the period for patient-days of extended care services that exceed 15 percent of the product of the number of days in the period and the average number of licensed beds in the hospital in the period, except that such payment shall continue to be made in the period for those patients who are receiving extended care services at the time the hospital reaches the limit specified in this paragraph.
 
@@ -58,7 +58,7 @@ The Secretary may enter into an agreement under this section on a demonstration 
 
 #### References in Text
 
-Section 300m of this title, referred to in subsec. (b)(2), was in the original a reference to section 1521 of actJuly 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
+Section 300m of this title, referred to in subsec. (b)(2), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on orafter Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(4)(D), (<i>l</i>)(1)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 

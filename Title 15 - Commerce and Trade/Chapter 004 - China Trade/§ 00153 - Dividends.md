@@ -1,4 +1,4 @@
-### §153 . Dividends
+### §153. Dividends
 
 Dividends declared by a China Trade Act corporation shall be derived wholly from the surplus profits of its business.
 

@@ -1,4 +1,4 @@
-### §7571 . Quarters or other accommodations: to whom furnished
+### §7571. Quarters or other accommodations: to whom furnished
 
 (a) Under such regulations as the Secretary of the Navy prescribes, public quarters including heat, light, water, and refrigeration may be furnished for personnel in the following categories who are on active duty:
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Charges for Excess Energy Consumption; Deposit of Proceeds; Applicability; Implementation
 

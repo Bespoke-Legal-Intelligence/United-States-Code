@@ -1,4 +1,4 @@
-### §8116 . Limitations on right to receive compensation
+### §8116. Limitations on right to receive compensation
 
 (a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installment payments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
 
@@ -94,11 +94,11 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-1991—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Subsec. (d). Pub. L. 99–335 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–335 added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–416 struck out “and” in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
+<b>1974</b>—Subsec. (a). Pub. L. 93–416 struck out “and” in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
 
 #### Effective Date of 1986 Amendment
 

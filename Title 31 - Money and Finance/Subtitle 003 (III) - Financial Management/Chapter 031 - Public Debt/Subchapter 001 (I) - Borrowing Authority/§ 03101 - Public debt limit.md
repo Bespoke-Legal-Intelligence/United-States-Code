@@ -120,11 +120,11 @@ Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary in
 
 Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary increase of $227,000,000,000 for the period Mar. 15, 1976, to June 30, 1976.
 
-Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976, was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
+Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976,was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
 
 Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the public debt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
 
-Pub. L. 94–3, §1, Feb. 19, 1975, 89 Stat. 5, providing for a temporary increase of $131,000,000,000 in the publicdebt limit for the period Feb. 19, 1975, to June 30, 1975, was also repealed by Pub. L. 94–47, §2, June 30, 1975, 89 Stat. 246.
+Pub. L. 94–3, §1, Feb. 19, 1975, 89 Stat. 5, providing for a temporary increase of $131,000,000,000 in the public debt limit for the period Feb. 19, 1975, to June 30, 1975, was also repealed by Pub. L. 94–47, §2, June 30, 1975, 89 Stat. 246.
 
 Pub. L. 93–325, §1, June 30, 1974, 88 Stat. 285, providing for a temporary increase of $95,000,000,000 in the public debt limit for the period June 30, 1974, to Mar. 31, 1975, was also repealed by Pub. L. 94–3, §2, Feb. 19, 1975, 89 Stat. 5.
 

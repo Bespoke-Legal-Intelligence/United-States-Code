@@ -82,7 +82,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(4), 
 
 Prior sections 300x–1 to 300x–1b were repealed by Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378.
 
-Section 300x–1, act July 1, 1944, ch. 373, title XIX, §1912, as added Oct. 19, 1984, Pub. L. 98–509, title I,§102(a), 98 Stat. 2353, authorized grants for training of employees adversely affected by changes in delivery of mental health services and for providing assistance in securing employment.
+Section 300x–1, act July 1, 1944, ch. 373, title XIX, §1912, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353, authorized grants for training of employees adversely affected by changes in delivery of mental health services and for providing assistance in securing employment.
 
 Another prior section 300x–1, act July 1, 1944, ch. 373, title XIX, §1912, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 543; amended Jan. 4, 1983, Pub. L. 97–414, §8(t), 96 Stat. 2062; Oct. 19, 1984, Pub. L. 98–509, title I, §106(e), 98 Stat. 2358, contained provisions relating to grants and allotment of grants for alcohol, drug abuse, and mental health services, prior to repeal by section 102(a) of Pub. L. 98–509.
 

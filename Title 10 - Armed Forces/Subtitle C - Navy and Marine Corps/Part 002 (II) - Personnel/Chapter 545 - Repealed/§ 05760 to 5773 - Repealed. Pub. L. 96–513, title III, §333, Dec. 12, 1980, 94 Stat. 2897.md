@@ -1,4 +1,4 @@
-### \[§§5760 to 5773 . Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
+### \[§§5760 to 5773. Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
 
 Section 5760, acts Aug. 10, 1056, ch. 1041, 70A Stat. 350; Nov. 8, 1967, Pub. L. 90–130, §1(19)(E), (F), 81 Stat. 378, directed Secretary of Navy to furnish appropriate selection board with number of women officers in the line of Navy that could be recommended for promotion to grade of lieutenant, captain, commander, or lieutenant commander and number of women officers of Marine Corps that could be recommended for promotion to grade of captain, colonel, lieutenant colonel, or major. See section 622 of this title.
 

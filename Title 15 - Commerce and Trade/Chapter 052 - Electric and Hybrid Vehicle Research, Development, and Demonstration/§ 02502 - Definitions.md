@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “advanced electric or hybrid vehicle” means a vehicle which—
 
-&emsp;&emsp;(A) minimizes the total amount of energy to be consumed with respect to its fabrication, operation, and disposal, and represents a substantial improvement over existingelectric and hybrid vehicles with respect to the total amount of energy so consumed;
+&emsp;&emsp;(A) minimizes the total amount of energy to be consumed with respect to its fabrication, operation, and disposal, and represents a substantial improvement over existing electric and hybrid vehicles with respect to the total amount of energy so consumed;
 
 &emsp;&emsp;(B) is capable of being mass-produced and operated at a cost and in a manner which is sufficiently competitive to enable it to be produced and sold in numbers representing a reasonable portion of the market;
 
@@ -26,15 +26,15 @@ As used in this chapter, the term—
 
 &emsp;(8) “small business concern” shall have the meaning prescribed by the Secretary of Energy after consultation with the Small Business Administration.
 
-(Pub. L. 94 413, §3, Sept. 17, 1976, 90 Stat. 1261; Pub. L. 95 91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, §3, Sept. 17, 1976, 90 Stat. 1261; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 #### Codification
 
-Par. (1), which read “‘Administrator’ means the Administrator of the Energy Research and Development Administration”, has been omitted from the Code in view of the termination of the Energy Research and Development Administration and the transfer of the functions of the Administration and the Administrator thereof to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95 91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. “Secretary of Energy” has been substituted for “Administrator” wherever appearing in this chapter.
+Par. (1), which read “ ‘Administrator’ means the Administrator of the Energy Research and DevelopmentAdministration”, has been omitted from the Code in view of the termination of the Energy Research and Development Administration and the transfer of the functions of the Administration and the Administrator thereof to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. “Secretary of Energy” has been substituted for “Administrator” wherever appearing in this chapter.
 
-Par. (7), which read “‘Secretary’ means the Secretary of Transportation”, has been omitted from the Code as unnecessary. In view of the substitution of “Secretary of Energy” for “Administrator” in this chapter, and for clarity, “Secretary of Transportation” has been substituted for “Secretary” wherever appearing in this chapter.
+Par. (7), which read “ ‘Secretary’ means the Secretary of Transportation”, has been omitted from the Code as unnecessary. In view of the substitution of “Secretary of Energy” for “Administrator” in this chapter, and for clarity, “Secretary of Transportation” has been substituted for “Secretary” wherever appearing in this chapter.
 
 #### Transfer of Functions
 
-In par. (8), “Secretary of Energy” substituted for “Administrator” pursuant to section 301(a) of Pub. L. 95 91, see Codification note set out above.
+In par. (8), “Secretary of Energy” substituted for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out above.
 

@@ -40,7 +40,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is Pub. 
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–280, §4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–280, §4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 101–280, §4(d)(1)(B), substituted “by, the” for “by the” and “entity” for “agency”.
 

@@ -44,7 +44,7 @@ A former spouse is not entitled to a survivor annuity under this section if—
 
 #### (2) Termination of annuity
 
-&emsp;The entitlement of a former spouse to a survivor annuity under this section terminates on the last day of the month before the former spouse's death or remarriage before attaining age 55. The entitlement of a former spouse to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
+&emsp;The entitlement of a former spouse to a survivor annuity under this section terminates on the last day of the month before the former spouse's death or remarriage before attainingage 55. The entitlement of a former spouse to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
 
 #### (d) Application
 

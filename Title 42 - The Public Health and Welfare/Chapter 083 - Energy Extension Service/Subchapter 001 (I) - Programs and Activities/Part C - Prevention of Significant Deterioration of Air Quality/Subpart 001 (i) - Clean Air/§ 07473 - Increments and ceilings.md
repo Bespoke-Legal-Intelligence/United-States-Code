@@ -122,7 +122,7 @@ micrograms per cubic meter)
 
 &emsp;(D) the increase in concentrations attributable to new sources outside the United States over the concentrations attributable to existing sources which are included in the baseline concentration determined in accordance with section 7479(4) of this title.
 
-(2) No action taken with respect to a source under paragraph (1)(A) or (1)(B) shall apply more than five years after the effective date of the order referred to in paragraph (1)(A) or the plan referred to in paragraph (1)(B), whichever is applicable. If both such order and plan are applicable, no such action shall apply more than five years after the later of such effective dates.
+(2) No action taken with respect to a source under paragraph (1)(A) or (1)(B) shall apply more than five years after the effective date of theorder referred to in paragraph (1)(A) or the plan referred to in paragraph (1)(B), whichever is applicable. If both such order and plan are applicable, no such action shall apply more than five years after the later of such effective dates.
 
 (3) No action under this subsection shall take effect unless the Governor submits the order or rule providing for such exclusion to the Administrator and the Administrator determines that such order or rule is in compliance with the provisions of this subsection.
 

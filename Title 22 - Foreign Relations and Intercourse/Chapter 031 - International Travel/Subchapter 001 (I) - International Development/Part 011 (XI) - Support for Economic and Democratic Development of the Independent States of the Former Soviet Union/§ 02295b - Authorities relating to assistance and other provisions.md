@@ -58,7 +58,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) In general
 
-&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistance under this part notwithstanding any other provision of law, except for—
+&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistanceunder this part notwithstanding any other provision of law, except for—
 
 &emsp;&emsp;(A) this part;
 
@@ -102,11 +102,11 @@ Section 510 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 #### Amendments
 
-1994—Subsec. (j)(1)(C). Pub. L. 103–236 temporarily substituted “sections 2799aa and 2799aa–1” for “sections2429 and 2429a”. See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (j)(1)(C). Pub. L. 103–236 temporarily substituted “sections 2799aa and 2799aa–1” for “sections 2429 and 2429a”. See Effective and Termination Dates of 1994 Amendment note below.
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective and Termination Dates of 1994 Amendment
 

@@ -114,9 +114,9 @@ In subsection (e), the words “is deemed” are substituted for “shall be con
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101–303 substituted “age 55” for “age 60”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–303 substituted “age 55” for “age 60”.
 
-1974—Subsec. (a)(1). Pub. L. 93–416, §16(a), substituted “50” for “45”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–416, §16(a), substituted “50” for “45”.
 
 Subsec. (a)(2). Pub. L. 93–416, §16(a), substituted “45” for “40”.
 

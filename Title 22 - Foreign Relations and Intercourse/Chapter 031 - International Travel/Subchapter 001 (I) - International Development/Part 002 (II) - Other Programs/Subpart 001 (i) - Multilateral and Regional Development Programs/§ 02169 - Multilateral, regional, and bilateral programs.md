@@ -2,7 +2,7 @@
 
 #### (a) Multilateral programs
 
-The Congress recognizes that the planning and administration of development assistance by, or under the sponsorship of the United Nations, multilateral lending institutions, and other multilateral organizations may contribute to the efficiency and effectiveness of that assistance through participation of other donors in the development effort, improved coordination of policies and programs, pooling of knowledge, avoidance of duplication of facilities and manpower, and greater encouragement of self-help performance.
+The Congress recognizes that the planning and administration of development assistance by, orunder the sponsorship of the United Nations, multilateral lending institutions, and other multilateral organizations may contribute to the efficiency and effectiveness of that assistance through participation of other donors in the development effort, improved coordination of policies and programs, pooling of knowledge, avoidance of duplication of facilities and manpower, and greater encouragement of self-help performance.
 
 #### (b) Regional programs
 
@@ -48,7 +48,7 @@ Pub. L. 93–559, §55(a), Dec. 30, 1974, 88 Stat. 1819, provided that: “The U
 
 &emsp;“(3) Make available to these most seriously affected countries the maximum feasible volume of food commodities, with appropriate regard to the current domestic price and supply situations.
 
-&emsp;“(4) Maintain regular and full consultation with the appropriate committees of the Congress and report to the Congress and the Nation on steps which are being taken to help meet this food emergency. In accordance with this provision, the President shall report to the Congress on a global assessment of food needs for fiscal year 1975, specifying expected food grain deficits and currently planned programming of food assistance, and steps which are being taken to encourage other countries to increase their participation in food assistance or the financing of food assistance. Such report should reach the Congress promptly and should be supplemented quarterly for the remainder of fiscal year 1975.
+&emsp;“(4) Maintain regular and full consultation with the appropriate committees of the Congress and report tothe Congress and the Nation on steps which are being taken to help meet this food emergency. In accordance with this provision, the President shall report to the Congress on a global assessment of food needs for fiscal year 1975, specifying expected food grain deficits and currently planned programming of food assistance, and steps which are being taken to encourage other countries to increase their participation in food assistance or the financing of food assistance. Such report should reach the Congress promptly and should be supplemented quarterly for the remainder of fiscal year 1975.
 
 &emsp;“(5) The Congress directs that during the fiscal year ending June 30, 1975, not more than 30 percent of concessional food aid should be allocated to countries other than those which are most seriously affected by current food shortages, unless the President demonstrates to the appropriate Committees of the Congress that the use of such food assistance is solely for humanitarian food purposes.
 

@@ -1,6 +1,6 @@
 ### §1397. Application of part in case of certain pre-1980 withdrawals; adjustment of covered plan
 
-(a) For the purpose of determining the amount of unfunded vested benefits allocable to an employer for a partial or complete withdrawal from a plan which occurs after September 25, 1980, and for the purpose of determining whether there has been a partial withdrawal after such date, the amount of contributions, and the number ofcontribution base units, of such employer properly allocable—
+(a) For the purpose of determining the amount of unfunded vested benefits allocable to an employer for a partial or complete withdrawal from a plan which occurs after September 25, 1980, and for the purpose of determining whether there has been a partial withdrawal after such date, the amount of contributions, and the number of contribution base units, of such employer properly allocable—
 
 &emsp;(1) to work performed under a collective bargaining agreement for which there was a permanent cessation of the obligation to contribute before September 26, 1980, or
 
@@ -8,7 +8,7 @@
 
 > shall not be taken into account.
 
-(b) A plan may, in a manner not inconsistent with regulations, which shall be prescribed by the corporation, adjust the amount of unfunded vested benefits allocable to other employers under a plan maintained by an employer described in subsection (a) of this section.
+(b) A plan may, in a manner not inconsistent with regulations, which shall be prescribed by the corporation, adjust the amount of unfundedvested benefits allocable to other employers under a plan maintained by an employer described in subsection (a) of this section.
 
 (Pub. L. 93–406, title IV, §4217, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1235; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(A), (B), July 18, 1984, 98 Stat. 899.)
 

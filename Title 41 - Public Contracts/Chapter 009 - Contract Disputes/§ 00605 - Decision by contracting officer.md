@@ -22,7 +22,7 @@ The contracting officer's decision on the claim shall be final and conclusive an
 
 (4) A contractor may request the tribunal concerned to direct a contracting officer to issue a decision in a specified period of time, as determined by the tribunal concerned, in the event of undue delay on the part of the contracting officer.
 
-(5) Any failure by the contracting officer to issue a decision on a contract claim within theperiod required will be deemed to be a decision by the contracting officer denying the claim and will authorize the commencement of the appeal or suit on the claim as otherwise provided in this chapter. However, in the event an appeal or suit is so commenced in the absence of a prior decision by the contracting officer, the tribunal concerned may, at its option, stay the proceedings to obtain a decision on the claim by the contracting officer.
+(5) Any failure by the contracting officer to issue a decision on a contract claim within the period required will be deemed to be a decision by the contracting officer denying the claim and will authorize the commencement of the appeal or suit on the claim as otherwise provided in this chapter. However, in the event an appeal or suit is so commenced in the absence of a prior decision by the contracting officer, the tribunal concerned may, at its option, stay the proceedings to obtain a decision on the claim by the contracting officer.
 
 (6) The contracting officer shall have no obligation to render a final decision on any claim of more than $100,000 that is not certified in accordance with paragraph (1) if, within 60 days after receipt of the claim, the contracting officer notifies the contractor in writing of the reasons why any attempted certification was found to be defective. A defect in the certification of a claim shall not deprive a court or an agency board of contract appeals of jurisdiction over that claim. Prior to the entry of a final judgment by a court or a decision by an agency board of contract appeals, the court or agency board shall require a defective certification to be corrected.
 
@@ -38,10 +38,6 @@ The authority of agencies to engage in alternative means of dispute resolution p
 
 (Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)\[(1)\], (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Termination Date of 1990 Amendment; Savings Provision note below.</i>
-
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–355, §2351(a)\[(1)\], inserted after second sentence “Each claim by a contractor against the government relating to a contract and each claim by the government against a contractor relating to a contract shall be submitted within 6 years after the accrual of the claim. The preceding sentence does not apply to a claim by the government against a contractor that is based on a claim by the contractor involving fraud.”
@@ -56,7 +52,7 @@ Subsec. (e). Pub. L. 103–355, §2352, substituted “October 1, 1999” for �
 
 Subsec. (c)(6), (7). Pub. L. 102–572, §907(a)(1)(B), added pars. (6) and (7).
 
-1990—Subsecs. (d), (e). Pub. L. 101–552 temporarily added subsecs. (d) and (e). See Termination Date of 1990 Amendment; Savings Provision note below.
+1990—Subsecs. (d), (e). Pub. L. 101–552 added subsecs. (d) and (e).
 
 #### Effective Date of 1994 Amendment
 
@@ -70,7 +66,7 @@ Section 907(a)(4) of Pub. L. 102–572 provided that: “The amendments made by 
 
 #### Termination Date of 1990 Amendment; Savings Provision
 
-For termination of amendments by Pub. L. 101–552 and authority to use dispute resolution proceedings on Oct. 1, 1995, except with respect to certain pending proceedings, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
+For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
 
 #### Effect of Contract Provisions Providing for Submission of Claims Earlier Than Six Years After Accrual
 

@@ -62,7 +62,7 @@ No Federal license, permit, approval, right-of-way or assistance shall be grante
 
 #### (j) Protection of natural values
 
-The Secretary of the Army is directed in analysis, design and engineering associated with the development of a general design memorandum for works and operations in the “C–111 basin” area of the East Everglades, to take all measures which are feasible and consistent withthe purposes of the project to protect natural values associated with Everglades National Park. Upon completion of a general design memorandum for the area, the Secretary shall prepare and transmit a report to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and the Committee on Natural Resources and the Committee on Public Works and Transportation of the United States House of Representatives on the status of the natural resources of the C–111 basin and functionally related lands.
+The Secretary of the Army is directed in analysis, design and engineering associated with the development of a general design memorandum for works and operations in the “C–111 basin” area of the East Everglades, to take all measures which are feasible and consistent with the purposes of the project to protect natural values associated with Everglades National Park. Upon completion of a general design memorandum for the area, the Secretary shall prepare and transmit a report to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and the Committee on Natural Resources and the Committee on Public Works and Transportation of the United States House of Representatives on the status of the natural resources of the C–111 basin and functionally related lands.
 
 #### (k) Acquisition of additional lands
 
@@ -90,9 +90,9 @@ Subsec. (k). Pub. L. 103–219 added subsec. (k).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Section Referred to in Other Sections
 

@@ -154,7 +154,7 @@ Early Appropriations and Availability of Amounts.—(1) Amounts appropriated und
 
 &emsp;(A) remains available for 3 years after the fiscal year in which the amount is apportioned; and
 
-&emsp;(B) that is unobligated at the end of the 3-year period shall be added to the amountavailable for apportionment for the next fiscal year not later than 30 days after the end of the 3-year period.
+&emsp;(B) that is unobligated at the end of the 3-year period shall be added to the amount available for apportionment for the next fiscal year not later than 30 days after the end of the 3-year period.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845.)
 
@@ -288,7 +288,9 @@ In subsection (<i>l</i>)(3)(A), the words “for obligation by the recipient”,
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 103–331, title III, §313, Sept. 30, 1994, 108 Stat. 2490, provided that: “The limitation on obligations for the programs of the Federal Transit Administration shall not apply to any authority under section 21 of the Federal Transit Act \[section 1617 of former Title 49, Transportation, see section 5338 of this title\], previously made available for obligation, or to any other authority previously made available for obligation under the discretionary grants program.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–50, title III, §312, Nov. 15, 1995, 109 Stat. 455, provided that: “The limitation on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation under the discretionary grants program.” Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–331, title III, §313, Sept. 30, 1994, 108 Stat. 2490.
 
 Pub. L. 103–122, title III, §313, Oct. 27, 1993, 107 Stat. 1221.
 

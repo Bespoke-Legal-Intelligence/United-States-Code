@@ -86,7 +86,7 @@ It shall be the function of the Access Board to—
 
 #### (c) Additional functions; transportation barriers and housing needs; transportation and housing plans and proposals
 
-The Access Board shall also (1)(A) determine how and to what extent transportation barriers impede the mobility of individuals with disabilities and aged individuals with disabilities and consider ways in which travel expenses in connection with transportation to and from work for individuals with disabilities can be met or subsidized when such individuals are unable to use mass transit systems or need special equipment in private transportation, and (B) consider the housing needs of individuals with disabilities; (2) determine what measures are being taken, especially by public and other nonprofit agencies and groups having an interest in and a capacity to deal with such problems, (A) to eliminate barriers from public transportationsystems (including vehicles used in such systems), and to prevent their incorporation in new or expanded transportation systems, and (B) to make housing available and accessible to individuals with disabilities or to meet sheltered housing needs; and (3) prepare plans and proposals for such further actions as may be necessary to the goals of adequate transportation and housing for individuals with disabilities, including proposals for bringing together in a cooperative effort, agencies, organizations, and groups already working toward such goals or whose cooperation is essential to effective and comprehensive action.
+The Access Board shall also (1)(A) determine how and to what extent transportation barriers impede the mobility of individuals with disabilities and aged individuals with disabilities and consider ways in which travel expenses in connection with transportation to and from work for individuals with disabilities can be met or subsidized when such individuals are unable to use mass transit systems or need special equipment in private transportation, and (B) consider the housing needs of individuals with disabilities; (2) determine what measures are being taken, especially by public and other nonprofit agencies and groups having an interest in and a capacity to deal with such problems, (A) to eliminate barriers from public transportation systems (including vehicles used in such systems), and to prevent their incorporation in new or expanded transportation systems, and (B) to make housing available and accessible to individuals with disabilities or to meet sheltered housing needs; and (3) prepare plans and proposals for such further actions as may be necessary to the goals of adequate transportation and housing for individuals with disabilities, including proposals for bringing together in a cooperative effort, agencies, organizations, and groups already working toward such goals or whose cooperation is essential to effective and comprehensive action.
 
 #### (d) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention; development of standards; technical assistance to persons or entities affected
 
@@ -110,7 +110,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 #### (f) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
-(1)(A) In carrying out the technical assistance responsibilities of the Access Board under this section, the Board may enter into an interagency agreement with another Federal department or agency.
+(1)(A) In carrying out the technical assistance responsibilities of the Access Board under thissection, the Board may enter into an interagency agreement with another Federal department or agency.
 
 (B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
@@ -118,7 +118,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 (D) The Access Board shall establish a procedure to ensure separation of its compliance and technical assistance responsibilities under this section.
 
-(2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisory and technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>3</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title5 for persons in the Government service employed intermittently.
+(2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisory and technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>3</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
 #### (g) Reports to Congress; reports on transportation barriers and housing needs
 
@@ -168,7 +168,7 @@ Pub. L. 102–569, §102(p)(30), substituted “individuals with disabilities”
 
 Subsec. (a)(1)(B)(xii). Pub. L. 102–569, §504(b)(1)(B), added cl. (xii).
 
-Subsec. (a)(2)(A). Pub. L. 102–569, §504(b)(2), designated existing provisions as cl. (i), substituted “4years, except as provided in clause (ii)” for “three years” and “at least three” for “four”, and added cl. (ii).
+Subsec. (a)(2)(A). Pub. L. 102–569, §504(b)(2), designated existing provisions as cl. (i), substituted “4 years, except as provided in clause (ii)” for “three years” and “at least three” for “four”, and added cl. (ii).
 
 Subsec. (a)(3). Pub. L. 102–569, §504(b)(3), substituted “a Federal” for “such an” after “member becomes”.
 
@@ -218,7 +218,7 @@ Subsec. (g). Pub. L. 100–630, §206(b)(11), substituted “transportation barr
 
 1986—Subsec. (a)(1)(A). Pub. L. 99–506, §§103(d)(2)(C), 601(a)(2), substituted “Twelve” for “Eleven”, “six” for “five”, and “individuals with handicaps” for “handicapped individuals”.
 
-Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson ofBoard shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
+Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
 Subsec. (a)(2)(ii), (iii). Pub. L. 99–506, §601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed”.
 
@@ -260,7 +260,7 @@ Subsec. (d). Pub. L. 95–602, §118(c), designated existing provision as par. (
 
 Subsec. (e). Pub. L. 95–602, §118(d), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
+Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendmentto subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
 
 Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
@@ -292,7 +292,7 @@ Pub. L. 93–651, §110, amended subsec. (h) in exactly the same manner as it wa
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 

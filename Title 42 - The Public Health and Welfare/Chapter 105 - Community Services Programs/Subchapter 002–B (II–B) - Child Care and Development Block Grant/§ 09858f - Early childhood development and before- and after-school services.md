@@ -18,7 +18,7 @@ Programs that receive assistance under this section shall—
 
 #### (c) Priority for assistance
 
-In awarding grants and contracts under this section, the State shall give the highest priority to geographic areas within the State that are eligible to receive grants under section 2712 <sup>2</sup> of title 20, and shall then give priority to—
+In awarding grants and contracts under this section, the State shall give the highest priorityto geographic areas within the State that are eligible to receive grants under section 2712 <sup>2</sup> of title 20, and shall then give priority to—
 
 &emsp;(1) any other areas with concentrations of poverty; and
 

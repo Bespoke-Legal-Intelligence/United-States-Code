@@ -78,7 +78,7 @@ International Cotton Advisory Committee, Ex. Ord. No. 9911, Dec. 19, 1947, 12 F.
 
 International Cotton Institute, Ex. Ord. No. 11283, May 27, 1966, 31 F.R. 7667.
 
-International Criminal Police Organization (INTERPOL) (limited privileges), Ex. Ord. No. 12425, June 16, 1983, 48 F.R. 28069.
+International Criminal Police Organization (INTERPOL) (limited privileges), Ex. Ord. No. 12425, June 16, 1983, 48 F.R. 28069; Ex. Ord. No. 12971, Sept. 15, 1995, 60 F.R. 48617.
 
 International Development Association, Ex. Ord. No. 11966, Jan. 19, 1977, 42 F.R. 4331.
 
@@ -110,7 +110,11 @@ International Telecommunication Union, Ex. Ord. No. 9863, May 31, 1947, 12 F.R. 
 
 International Telecommunications Satellite Organization (INTELSAT), Ex. Ord. No. 11718, May 14, 1973, 38 F.R. 12797; Ex. Ord. No. 11966, Jan. 19, 1977, 42 F.R. 4331.
 
+International Union for Conservation of Nature and Natural Resources, Ex. Ord. No. 12986, Jan. 18, 1996, 61 F.R. 1693.
+
 International Wheat Advisory Committee (International Wheat Council), Ex. Ord. No. 9823, Jan. 24, 1947, 12 F.R. 551.
+
+Israel-United States Binational Industrial Research and Development Foundation, Ex. Ord. No. 12956, Mar. 13, 1995, 60 F.R. 14199.
 
 Multilateral Investment Guarantee Agency, Ex. Ord. No. 12647, Aug. 2, 1988, 53 F.R. 29323.
 

@@ -24,7 +24,7 @@ The Administrator shall—
 
 #### (c) Exemption
 
-In the rules prescribed under subsection (b) of this section, the Administrator may identifyspecific positions within the Environmental Protection Agency which are of a nonpolicy-making nature and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
+In the rules prescribed under subsection (b) of this section, the Administrator may identify specific positions within the Environmental Protection Agency which are of a nonpolicy-making nature and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
 
 #### (d) Penalty
 

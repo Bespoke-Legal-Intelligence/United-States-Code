@@ -1,6 +1,6 @@
 ### §31304. Employer responsibilities
 
-An employer may not knowingly allow an employee to operate a commercial motor vehicle in the United States during a period in which the employee—
+An employer may not knowingly allow an employee to operate a commercial motor vehicle inthe United States during a period in which the employee—
 
 &emsp;(1) has a driver's license revoked, suspended, or canceled by a State, has lost the right to operate a commercial motor vehicle in a State, or has been disqualified from operating a commercial motor vehicle; or
 

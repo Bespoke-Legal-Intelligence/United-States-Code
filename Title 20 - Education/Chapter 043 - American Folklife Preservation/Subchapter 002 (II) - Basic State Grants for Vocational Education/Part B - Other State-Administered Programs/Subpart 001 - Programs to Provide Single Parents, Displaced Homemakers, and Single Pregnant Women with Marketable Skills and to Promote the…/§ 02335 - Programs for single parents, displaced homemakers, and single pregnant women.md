@@ -18,7 +18,7 @@ Each State shall use the amount reserved under section 2312(a)(2)(A) of this tit
 
 The programs and services described in subsection (a) of this section may be provided in postsecondary or secondary school settings, including area vocational education schools, that serve single parents, displaced homemakers, and single pregnant women.
 
-(Pub. L. 88 210, title II, §221, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 777.)
+(Pub. L. 88–210, title II, §221, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 777.)
 
 #### Section Referred to in Other Sections
 

@@ -2,5 +2,5 @@
 
 On the first January 1 occurring after October 10, 1980, and on each subsequent January 1, the Commission shall submit to appropriate committees of the Congress a report which contains a detailed statement of the financial transactions of the Commission and the activities undertaken by the Commission during the previous year. The report shall contain such other appropriate information as the committees to whom the report is submitted may from time to time request.
 
-(Pub. L. 96 430, title II, §204, Oct. 10, 1980, 94 Stat. 1848.)
+(Pub. L. 96–430, title II, §204, Oct. 10, 1980, 94 Stat. 1848.)
 

@@ -2,7 +2,7 @@
 
 The Secretary shall discontinue the educational assistance allowance on behalf of an eligible person if, at any time, the Secretary finds that according to the regularly prescribed standards and practices of the educational institution such person is attending, the person's attendance, conduct, or progress is unsatisfactory. The Secretary may renew the payment of the educational assistance allowance only if the Secretary finds that—
 
-&emsp;(1) the eligible person will be resuming enrollment at the same educational institutionin the same program of education and the educational institution has both approved such eligible person's reenrollment and certified it to the Department of Veterans Affairs; or
+&emsp;(1) the eligible person will be resuming enrollment at the same educational institution in the same program of education and the educational institution has both approved such eligible person's reenrollment and certified it to the Department of Veterans Affairs; or
 
 &emsp;(2) in the case of a proposed change of either educational institution or program of education by the eligible person—
 

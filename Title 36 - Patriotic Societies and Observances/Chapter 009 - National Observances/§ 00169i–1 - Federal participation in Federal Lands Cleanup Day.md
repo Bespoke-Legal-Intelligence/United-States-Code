@@ -2,7 +2,7 @@
 
 #### (a) Federal land management agencies; duties; definition
 
-(1) In order to observe Federal Lands Cleanup Day at the Federal level, each Federal landmanagement agency shall organize, coordinate, and participate with citizen volunteers and State and local agencies in cleaning and providing for the maintenance of Federal public lands, recreation areas, and waterways within the jurisdiction of such agency.
+(1) In order to observe Federal Lands Cleanup Day at the Federal level, each Federal land management agency shall organize, coordinate, and participate with citizen volunteers and State and local agencies in cleaning and providing for the maintenance of Federal public lands, recreation areas, and waterways within the jurisdiction of such agency.
 
 (2) For purposes of this Act, the term “Federal land management agency” shall include—
 

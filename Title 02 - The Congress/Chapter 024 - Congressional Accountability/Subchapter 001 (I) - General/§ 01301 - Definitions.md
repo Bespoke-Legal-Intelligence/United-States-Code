@@ -1,0 +1,88 @@
+### §1301. Definitions
+
+Except as otherwise specifically provided in this chapter, as used in this chapter:
+
+#### (1) Board
+
+&emsp;The term “Board” means the Board of Directors of the Office of Compliance.
+
+#### (2) Chair
+
+&emsp;The term “Chair” means the Chair of the Board of Directors of the Office of Compliance.
+
+#### (3) Covered employee
+
+&emsp;The term “covered employee” means any employee of—
+
+&emsp;&emsp;(A) the House of Representatives;
+
+&emsp;&emsp;(B) the Senate;
+
+&emsp;&emsp;(C) the Capitol Guide Service;
+
+&emsp;&emsp;(D) the Capitol Police;
+
+&emsp;&emsp;(E) the Congressional Budget Office;
+
+&emsp;&emsp;(F) the Office of the Architect of the Capitol;
+
+&emsp;&emsp;(G) the Office of the Attending Physician;
+
+&emsp;&emsp;(H) the Office of Compliance; or
+
+&emsp;&emsp;(I) the Office of Technology Assessment.
+
+#### (4) Employee
+
+&emsp;The term “employee” includes an applicant for employment and a former employee.
+
+#### (5) Employee of the Office of the Architect of the Capitol
+
+&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants.
+
+#### (6) Employee of the Capitol Police
+
+&emsp;The term “employee of the Capitol Police” includes any member or officer of the Capitol Police.
+
+#### (7) Employee of the House of Representatives
+
+&emsp;The term “employee of the House of Representatives” includes an individual occupying a position the pay for which is disbursed by the Clerk of the House of Representatives, or another official designated by the House of Representatives, or any employment position in an entity that is paid with funds derived from the clerk-hire allowance of the House of Representatives but not any such individual employed by any entity listed in subparagraphs (C) through (I) of paragraph (3).
+
+#### (8) Employee of the Senate
+
+&emsp;The term “employee of the Senate” includes any employee whose pay is disbursed by the Secretary of the Senate, but not any such individual employed by any entity listed in subparagraphs (C) through (I) of paragraph (3).
+
+#### (9) Employing office
+
+&emsp;The term “employing office” means—
+
+&emsp;&emsp;(A) the personal office of a Member of the House of Representatives or of a Senator;
+
+&emsp;&emsp;(B) a committee of the House of Representatives or the Senate or a joint committee;
+
+&emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate; or
+
+&emsp;&emsp;(D) the Capitol Guide Board, the Capitol Police Board, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
+
+#### (10) Executive Director
+
+&emsp;The term “Executive Director” means the Executive Director of the Office of Compliance.
+
+#### (11) General Counsel
+
+&emsp;The term “General Counsel” means the General Counsel of the Office of Compliance.
+
+#### (12) Office
+
+&emsp;The term “Office” means the Office of Compliance.
+
+(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Short Title
+
+Section 1(a) of Pub. L. 104–1 provided that: “This Act \[enacting this chapter, amending sections 1201, 1202, 1219, and 1220 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, section 166b–7 of Title 40, Public Buildings, Property, and Works, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the ‘Congressional Accountability Act of 1995’.”
+

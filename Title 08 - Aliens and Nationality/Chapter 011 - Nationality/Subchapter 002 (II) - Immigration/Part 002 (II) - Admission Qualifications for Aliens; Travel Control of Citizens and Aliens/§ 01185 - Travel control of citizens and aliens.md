@@ -1,4 +1,4 @@
-### §1185 . Travel control of citizens and aliens
+### §1185. Travel control of citizens and aliens
 
 #### (a) Restrictions and prohibitions
 
@@ -10,7 +10,7 @@ Unless otherwise ordered by the President, it shall be unlawful—
 
 &emsp;(3) for any person knowingly to make any false statement in an application for permission to depart from or enter the United States with intent to induce or secure the granting of such permission either for himself or for another;
 
-&emsp;(4) for any person knowingly to furnish or attempt to furnish or assist in furnishing to another a permit or evidence of permission to depart or enter not issued and designed for such other person's use;
+&emsp;(4) for any person knowingly to furnish or attempt to furnish or assist in furnishing to another a permit or evidence of permission todepart or enter not issued and designed for such other person's use;
 
 &emsp;(5) for any person knowingly to use or attempt to use any permit or evidence of permission to depart or enter not issued and designed for his use;
 
@@ -74,7 +74,7 @@ Section 1–101. Delegation of Authority. The Secretary of State and the Attorne
 
 Section 1–102. Effective Date. This order is effective immediately.
 
-Jimmy Carter.&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 

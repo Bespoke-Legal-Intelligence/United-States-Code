@@ -10,7 +10,7 @@ Upon receiving a copy of a petition, the Secretary shall file in the court the r
 
 #### (c) Jurisdiction
 
-Upon the filing of a petition, such court shall have jurisdiction, which upon the filing of the record by the Secretary shall (except as provided in the last sentence of section 4582(b)(2) of this title) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Secretary.
+Upon the filing of a petition, such court shall have jurisdiction, which upon the filing of therecord by the Secretary shall (except as provided in the last sentence of section 4582(b)(2) of this title) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Secretary.
 
 #### (d) Review
 

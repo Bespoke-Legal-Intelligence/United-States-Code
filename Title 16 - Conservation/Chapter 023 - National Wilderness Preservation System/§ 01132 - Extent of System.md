@@ -10,11 +10,11 @@ All areas within the national forests classified at least 30 days before Septemb
 
 #### (b) Review by Secretary of Agriculture of classifications as primitive areas; Presidential recommendations to Congress; approval of Congress; size of primitive areas; Gore Range-Eagles Nest Primitive Area, Colorado
 
-The Secretary of Agriculture shall, within ten years after September 3, 1964, review, as to its suitability or nonsuitability for preservation as wilderness, each area in the national forestsclassified on September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “primitive” and report his findings to the President. The President shall advise the United States Senate and House of Representatives of his recommendations with respect to the designation as “wilderness” or other reclassification of each area on which review has been completed, together with maps and a definition of boundaries. Such advice shall be given with respect to not less than one-third of all the areas now classified as “primitive” within three years after September 3, 1964, not less than two-thirds within seven years after September 3, 1964, and the remaining areas within ten years after September 3, 1964. Each recommendation of the President for designation as “wilderness” shall become effective only if so provided by an Act of Congress. Areas classified as “primitive” on September 3, 1964 shall continue to be administered under the rules and regulations affecting such areas on September 3, 1964 until Congress has determined otherwise. Any such area may be increased in size by the President at the time he submits his recommendations to the Congress by not more than five thousand acres with no more than one thousand two hundred and eighty acres of such increase in any one compact unit; if it is proposed to increase the size of any such area by more than five thousand acres or by more than one thousand two hundred and eighty acres in any one compact unit the increase in size shall not become effective until acted upon by Congress. Nothing herein contained shall limit the President in proposing, as part of his recommendations to Congress, the alteration of existing boundaries of primitive areas or recommending the addition of any contiguous area of national forest lands predominantly of wilderness value. Notwithstanding any other provisions of this chapter, the Secretary of Agriculture may complete his review and delete such area as may be necessary, but not to exceed seven thousand acres, from the southern tip of the Gore Range-Eagles Nest Primitive Area, Colorado, if the Secretary determines that such action is in the public interest.
+The Secretary of Agriculture shall, within ten years after September 3, 1964, review, as to its suitability or nonsuitability for preservation as wilderness, each area in the national forests classified on September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “primitive” and report his findings to the President. The President shall advise the United States Senate and House of Representatives of his recommendations with respect to the designation as “wilderness” or other reclassification of each area on which review has been completed, together with maps and a definition of boundaries. Such advice shall be given with respect to not less than one-third of all the areas now classified as “primitive” within three years after September 3, 1964, not less than two-thirds within seven years after September 3, 1964, and the remaining areas within ten years after September 3, 1964. Each recommendation of the President for designation as “wilderness” shall become effective only if so provided by an Act of Congress. Areas classified as “primitive” on September 3, 1964 shall continue to be administered under the rules and regulations affecting such areas on September 3, 1964 until Congress has determined otherwise. Any such area may be increased in size by the President at the time he submits his recommendations to the Congress by not more than five thousand acres with no more than one thousand two hundred and eighty acres of such increase in any one compact unit; if it is proposed to increase the size of any such area by more than five thousand acres or by more than one thousand two hundred and eighty acres in any one compact unit the increase in size shall not become effective until acted upon by Congress. Nothing herein contained shall limit the President in proposing, as part of his recommendations to Congress, the alteration of existing boundaries of primitive areas or recommending the addition of any contiguous area of national forest lands predominantly of wilderness value. Notwithstanding any other provisions of this chapter, the Secretary of Agriculture may complete his review and delete such area as may be necessary, but not to exceed seven thousand acres, from the southern tip of the Gore Range-Eagles Nest Primitive Area, Colorado, if the Secretary determines that such action is in the public interest.
 
 #### (c) Review by Secretary of the Interior of roadless areas of national park system and national wildlife refuges and game ranges and suitability of areas for preservation as wilderness; authority of Secretary of the Interior to maintain roadless areas in national park system unaffected
 
-Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on which review has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise, be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
+Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on whichreview has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise, be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
 
 #### (d) Conditions precedent to administrative recommendations of suitability of areas for preservation as wilderness; publication in Federal Register; public hearings; views of State, county, and Federal officials; submission of views to Congress
 
@@ -30,7 +30,7 @@ Within ten years after September 3, 1964 the Secretary of the Interior shall rev
 
 #### (e) Modification or adjustment of boundaries; public notice and hearings; administrative and executive recommendations to Congress; approval of Congress
 
-Any modification or adjustment of boundaries of any wilderness area shall be recommended by the appropriate Secretary after public notice of such proposal and public hearing or hearings as provided in subsection (d) of this section. The proposed modification or adjustment shall then be recommended with map and descriptionthereof to the President. The President shall advise the United States Senate and the House of Representatives of his recommendations with respect to such modification or adjustment and such recommendations shall become effective only in the same manner as provided for in subsections (b) and (c) of this section.
+Any modification or adjustment of boundaries of any wilderness area shall be recommended by the appropriate Secretary after public notice of such proposal and public hearing or hearings as provided in subsection (d) of this section. The proposed modification or adjustment shall then be recommended with map and description thereof to the President. The President shall advise the United States Senate and the House of Representatives of his recommendations with respect to such modification or adjustment and such recommendations shall become effective only in the same manner as provided for in subsections (b) and (c) of this section.
 
 (Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.)
 
@@ -38,13 +38,13 @@ Any modification or adjustment of boundaries of any wilderness area shall be rec
 
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Wilderness Areas
 
 &nbsp;
 
-Absaroka-Beartooth Wilderness, Custer and Gallatin National Forests, Montana.—Pub. L. 95–249, Mar. 27, 1978, 92 Stat. 162; Pub. L. 98–550, title II, §201(a)(13), Oct. 30, 1984, 98 Stat. 2809; Pub. L. 98–140, §3(d), Oct. 31, 1983, 97 Stat. 903.
+Absaroka-Beartooth Wilderness, Custer, Gallatin, and Shoshone National Forests, Montana.—Pub. L. 95–249, Mar. 27, 1978, 92 Stat. 162; Pub. L. 98–550, title II, §201(a)(13), Oct. 30, 1984, 98 Stat. 2809; Pub. L. 98–140, §3(d), Oct. 31, 1983, 97 Stat. 903.
 
 Agassiz Wilderness, Agassiz National Wildlife Refuge, Minnesota.—Pub. L. 94–557, §1(h), Oct. 19, 1976, 90 Stat. 2633.
 
@@ -316,13 +316,13 @@ Coyote Mountains Wilderness, California Desert Conservation Area, of Bureau of L
 
 Crab Orchard Wilderness, Crab Orchard National Wildlife Refuge, Illinois.—Pub. L. 94–557, §1(f), Oct. 19, 1976, 90 Stat. 2633.
 
-Cranberry Wilderness, Monogahela National Forest, West Virginia.—Pub. L. 97–466, §1(1), Jan. 13, 1983, 96 Stat. 2538; Pub. L. 101–512, title I, §122, Nov. 5, 1990, 104 Stat. 1938.
+Cranberry Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(1), Jan. 13, 1983, 96 Stat. 2538; Pub. L. 101–512, title I, §122, Nov. 5, 1990, 104 Stat. 1938.
 
 Craters of the Moon National Wilderness, Craters of the Moon National Monument, Idaho.—Pub. L. 91–504, §2(a), Oct. 23, 1970, 84 Stat. 1105.
 
 Cruces Basin Wilderness, Carson National Forest, New Mexico.—Pub. L. 96–550, title I, §102(a)(5), Dec. 19, 1980, 94 Stat. 3222.
 
-Cucamonga Wilderness, San Bernardino National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(5), Sept. 28, 1984, 98 Stat. 1619.
+Cucamonga Wilderness, Angeles and San Bernardino National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(5), Sept. 28, 1984, 98 Stat. 1619.
 
 Cumberland Island Wilderness, Cumberland Island National Seashore, Georgia.—Pub. L. 97–250, §2, Sept. 8, 1982, 96 Stat. 709.
 
@@ -376,7 +376,7 @@ Eagletail Mountains Wilderness, La Paz, Yuma, and Maricopa Counties, Arizona.—
 
 East Cactus Plain Wilderness, La Paz County, Arizona.—Pub. L. 101–628, title I, §101(a)(6), Nov. 28, 1990, 104 Stat. 4469.
 
-East Fork Wilderness, Ozark-Saint Francis National Forests, Arkansas.—Pub. L. 98–508, §3(h), Oct. 19, 1984, 98 Stat. 2350.
+East Fork Wilderness, Ozark-Saint Francis National Forest, Arkansas.—Pub. L. 98–508, §3(h), Oct. 19, 1984, 98 Stat. 2350.
 
 East Humboldts Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(5), Dec. 5, 1989, 103 Stat. 1784.
 
@@ -404,7 +404,7 @@ Fishhooks Wilderness, Graham County, Arizona.—Pub. L. 101–628, title I, §10
 
 Fitzpatrick Wilderness, Shoshone National Forest, Wyoming.—Pub. L. 94–557, §2(a), Oct. 19, 1976, 90 Stat. 2635; Pub. L. 94–567, §8, Oct. 20, 1976, 90 Stat. 2695; Pub. L. 98–550, title II, §201(a)(11), Oct. 30, 1984, 98 Stat. 2809.
 
-Flat Tops Wilderness, Routt and White River National Forest, Colorado.—Pub. L. 94–146, Dec. 12, 1975, 89 Stat. 802.
+Flat Tops Wilderness, Routt and White River National Forests, Colorado.—Pub. L. 94–146, Dec. 12, 1975, 89 Stat. 802.
 
 Flatside Wilderness, Ouachita National Forest, Arkansas.—Pub. L. 98–508, §3(d), Oct. 19, 1984, 98 Stat. 2350.
 
@@ -444,7 +444,7 @@ Gibraltar Mountain Wilderness, La Paz County, Arizona.—Pub. L. 101–628, titl
 
 Gila Wilderness, Gila National Forest, New Mexico.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, §102(a)(7), Dec. 19, 1980, 94 Stat. 3222.
 
-Glacier Bay Wilderness, Glacier Bay National Park, Alaska.—Pub. L. 96–487, title VII, §701(3), Dec. 2, 1980, 94 Stat. 2417.
+Glacier Bay Wilderness, Glacier Bay National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(3), Dec. 2, 1980, 94 Stat. 2417.
 
 Glacier Peak Wilderness, Mount Baker and Wenatchee National Forest, Washington \[see section 90e–1 of this title\].—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 90–544, title VI, §602, Oct. 2, 1968, 82 Stat. 930; Pub. L. 98–339, §3(5), July 3, 1984, 98 Stat. 300.
 
@@ -560,7 +560,7 @@ Inyo Mountains Wilderness, California Desert Conservation Area and Bakersfield D
 
 Irish Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 98–289, §2, May 21, 1984, 98 Stat. 199.
 
-Ishi Wilderness, Lassen National Forest, California.—Pub. L. 98–425, title I, §101(a)(12), Sept. 28, 1984, 98 Stat. 1620.
+Ishi Wilderness, Ukiah District Conservation Area, of Bureau of Land Management, and Lassen National Forest, California.—Pub. L. 98–425, title I, §101(a)(12), Sept. 28, 1984, 98 Stat. 1620.
 
 Island Bay Wilderness, Island Bay National Wildlife Refuge, Florida.—Pub. L. 91–504, §1(d), Oct. 23, 1970, 84 Stat. 1105.
 
@@ -602,7 +602,7 @@ Kanab Creek Wilderness, Kaibab National Forest and Arizona Strip District of Bur
 
 Karta River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(5), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
 
-Katmai Wilderness, Katmai National Park, Alaska.—Pub. L. 96–487, title VII, §701(4), Dec. 2, 1980, 94 Stat. 2417.
+Katmai Wilderness, Katmai National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(4), Dec. 2, 1980, 94 Stat. 2417.
 
 Kelso Dunes Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(30), Oct. 31, 1994, 108 Stat. 4476.
 
@@ -650,7 +650,7 @@ Lava Beds Wilderness, Lava Beds National Monument, California.—Pub. L. 92–49
 
 Leaf Wilderness, De Soto National Forest, Mississippi.—Pub. L. 98–515, §2(2), Oct. 19, 1984, 98 Stat. 2420.
 
-Leatherwood Wilderness, Ozark-Saint Francis National Forests, Arkansas.—Pub. L. 98–508, §3(i), Oct. 19, 1984, 98 Stat. 2350.
+Leatherwood Wilderness, Ozark-Saint Francis National Forest, Arkansas.—Pub. L. 98–508, §3(i), Oct. 19, 1984, 98 Stat. 2350.
 
 Lee Metcalf Wilderness, Beaverhead and Gallatin National Forests and Dillon Resource Area, Montana.—Pub. L. 98–140, §2, Oct. 31, 1983, 97 Stat. 901.
 
@@ -674,7 +674,7 @@ Little Wilson Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 9
 
 Lizard Head Wilderness, San Juan and Uncompahgre National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(7), Dec. 22, 1980, 94 Stat. 3266.
 
-Lone Peak Wilderness, Wasatch and Unita National Forests, Utah.—Pub. L. 95–237, §2(i), Feb. 24, 1978, 92 Stat. 42.
+Lone Peak Wilderness, Wasatch and Uinta National Forests, Utah.—Pub. L. 95–237, §2(i), Feb. 24, 1978, 92 Stat. 42.
 
 Lost Creek Wilderness, Pike National Forest, Colorado.—Pub. L. 96–560, title I, §102(a)(8), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–77, §2(a)(8), Aug. 13, 1993, 107 Stat. 757.
 
@@ -684,7 +684,7 @@ Lusk Creek Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, �
 
 Lye Brook Wilderness, Green Mountain National Forest, Vermont.—Pub. L. 93–622, §3(a)(11), Jan. 3, 1975, 88 Stat. 2097; Pub. L. 98–322, title I, §102(4), June 19, 1984, 98 Stat. 254.
 
-Machesna Mountain Wilderness, Los Padres National Forest, California.—Pub. L. 98–425, title I, §101(a)(38), Sept. 28, 1984, 98 Stat. 1624.
+Machesna Mountain Wilderness, Bakersfield District Conservation Area, of Bureau of Land Management, and Los Padres National Forest, California.—Pub. L. 98–425, title I, §101(a)(38), Sept. 28, 1984, 98 Stat. 1624.
 
 Mackinac Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(f), Dec. 8, 1987, 101 Stat. 1275.
 
@@ -698,7 +698,7 @@ Marble Mountain Wilderness, Klamath National Forest, California.—Pub. L. 88–
 
 Mark Trail Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 102–217, §2(a)(2), Dec. 11, 1991, 105 Stat. 1667.
 
-Maroon Bells-Snowmass Wilderness, White River National Forest, Colorado.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–560, title I, §102(a)(9), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–255, §4, May 19, 1994, 108 Stat. 686.
+Maroon Bells-Snowmass Wilderness, Gunnison and White River National Forests, Colorado.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–560, title I, §102(a)(9), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–255, §4, May 19, 1994, 108 Stat. 686.
 
 Matilija Wilderness, Los Padres National Forest, California.—Pub. L. 102–301, §2(2), June 19, 1992, 106 Stat. 242.
 
@@ -736,7 +736,7 @@ Misty Fjords National Monument Wilderness, Tongass National Forest, Alaska.—Pu
 
 Mojave Wilderness, Mojave National Park, California.—Pub. L. 103–433, title VI, §601(a)(3), Oct. 31, 1994, 108 Stat. 4496.
 
-Mokelumne Wilderness, Eldorado and Stanislaus National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(16), Sept. 28, 1984, 98 Stat. 1620.
+Mokelumne Wilderness, Eldorado, Stanislaus, and Toiyake National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(16), Sept. 28, 1984, 98 Stat. 1620.
 
 Monarch Wilderness, Sierra and Sequoia National Forests, California.—Pub. L. 98–425, title I, §101(a)(17), Sept. 28, 1984, 98 Stat. 1621.
 
@@ -960,7 +960,7 @@ Rawah Wilderness, Roosevelt National Forest, Colorado.—Pub. L. 88–577, §3, 
 
 Rawhide Mountains Wilderness, Mohave and La Paz Counties, Arizona.—Pub. L. 101–628, title I, §101(a)(7), Nov. 28, 1990, 104 Stat. 4469.
 
-Red Buttes Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 98–328, §3(14), June 26, 1984, 98 Stat. 274; Pub. L. 98–425, title I, §101(a)(21), Sept. 28, 1984, 98 Stat. 1621.
+Red Buttes Wilderness, Rogue River and Siskiyou National Forests, California and Oregon.—Pub. L. 98–328, §3(14), June 26, 1984, 98 Stat. 274; Pub. L. 98–425, title I, §101(a)(21), Sept. 28, 1984, 98 Stat. 1621.
 
 Red Rock Lakes Wilderness, Red Rock Lakes National Wildlife Refuge, Montana.—Pub. L. 94–557, §1(k), Oct. 19, 1976, 90 Stat. 2634.
 
@@ -998,7 +998,7 @@ Round Island Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184
 
 Ruby Mountains Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(9), Dec. 5, 1989, 103 Stat. 1785.
 
-Russel Fjord Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(7), Dec. 2, 1980, 94 Stat. 2419.
+Russell Fjord Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(7), Dec. 2, 1980, 94 Stat. 2419.
 
 Russian Wilderness, Klamath National Forest, California.—Pub. L. 98–425, title I, §101(a)(22), Sept. 28, 1984, 98 Stat. 1622.
 
@@ -1030,7 +1030,7 @@ Sampson Mountain Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 99�
 
 San Gabriel Wilderness, Angeles National Forest, California.—Pub. L. 90–318, May 24, 1968, 82 Stat. 131.
 
-San Gorgonio Wilderness, San Bernardino National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(23), Sept. 28, 1984, 98 Stat. 1622; Pub. L. 103–433, title I, §102(58), Oct. 31, 1994, 108 Stat. 4479.
+San Gorgonio Wilderness, California Desert Conservation Area, of Bureau of Land Management, and San Bernardino National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(23), Sept. 28, 1984, 98 Stat. 1622; Pub. L. 103–433, title I, §102(58), Oct. 31, 1994, 108 Stat. 4479.
 
 San Jacinto Wilderness, San Bernardino National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(24), Sept. 28, 1984, 98 Stat. 1622.
 
@@ -1048,11 +1048,11 @@ Sandwich Range Wilderness, White Mountain National Forest, New Hampshire.—Pub.
 
 Sangre de Cristo Wilderness, Rio Grande and San Isabel National Forests and San Luis Resource Area, Colorado.—Pub. L. 103–77, §2(a)(10), Aug. 13, 1993, 107 Stat. 757.
 
-Santa Lucia Wilderness, Los Padres National Forest, California.—Pub. L. 95–237, §2(c), Feb. 24, 1978, 92 Stat. 41.
+Santa Lucia Wilderness, Bakersfield District Conservation Area, of Bureau of Land Management, and Los Padres National Forest, California.—Pub. L. 95–237, §2(c), Feb. 24, 1978, 92 Stat. 41.
 
 Santa Rosa-Paradise Peak Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(14), Dec. 5, 1989, 103 Stat. 1785.
 
-Santa Rosa Wilderness, San Bernardino National Forest, California.—Pub. L. 98–425, title I, §101(a)(28), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 103–433, title I, §102(59), Oct. 31, 1994, 108 Stat. 4479.
+Santa Rosa Wilderness, California Desert Conservation Area, os Bureau of Land Management, and San Bernardino National Forest, California.—Pub. L. 98–425, title I, §101(a)(28), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 103–433, title I, §102(59), Oct. 31, 1994, 108 Stat. 4479.
 
 Santa Teresa Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(23), Aug. 28, 1984, 98 Stat. 1487; Pub. L. 101–628, title I, §101(k)(1), Nov. 28, 1990, 104 Stat. 4474.
 
@@ -1062,17 +1062,19 @@ Savage Run Wilderness, Medicine Bow National Forest, Wyoming.—Pub. L. 95–237
 
 Sawtooth Mountains Wilderness, California Desert District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(60), Oct. 31, 1994, 108 Stat. 4480.
 
+Sawtooth Wilderness, Boise, Challis, and Sawtooth National Forests, Idaho.—Pub. L. 92–400, §§1, 2, Aug. 22, 1972, 86 Stat. 612.
+
 Scapegoat Wilderness, Helena, Lolo, and Lewis and Clark National Forests, Montana.—Pub. L. 92–395, Aug. 20, 1972, 86 Stat. 578.
 
 Selawik Wilderness, Selawik Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(12), Dec. 2, 1980, 94 Stat. 2418.
 
-Selway-Bitterroot Wilderness, Bitterroot, Clearwater, Nezperce, and Lolo National Forests, Idaho and Montana.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.
+Selway-Bitterroot Wilderness, Bitterroot, Clearwater, Nezperce, and Lolo National Forests, Idaho and Montana.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–312, §4, July 23, 1980, 94 Stat. 949.
 
 Semidi Wilderness, Alaska Maritime National Wildlife Refuge, Alaska Peninsula Unit, Alaska.—Pub. L. 96–487, title VII, §702(11), Dec. 2, 1980, 94 Stat. 2418.
 
 Seney Wilderness, Seney National Wildlife Refuge, Michigan.—Pub. L. 91–504, §1(e), Oct. 23, 1970, 84 Stat. 1105.
 
-Sequoia-Kings Canyon Wilderness, Sequoia and Kings Canyon National Parks, California.—Pub. L. 98–425, title I, §106(a)(2), Sept. 28, 1984, 98 Stat. 1627.
+Sequoia-Kings Canyon Wilderness, Sequoia-Kings Canyon National Parks, California.—Pub. L. 98–425, title I, §106(a)(2), Sept. 28, 1984, 98 Stat. 1627.
 
 Sespe Wilderness, Los Padres and Angeles National Forests, California.—Pub. L. 102–301, §2(1), June 19, 1992, 106 Stat. 242.
 
@@ -1124,7 +1126,7 @@ South Sierra Wilderness, Sequoia and Inyo National Forests, California.—Pub. L
 
 South Warner Wilderness, Modoc National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(33), Sept. 28, 1984, 98 Stat. 1623.
 
-Southern Nantahala Wilderness, Nantahala National Forest, North Carolina.—Pub. L. 98–324, §2(11), June 19, 1984, 98 Stat. 264; Pub. L. 98–514, §2(2), Oct. 19, 1984, 98 Stat. 2416.
+Southern Nantahala Wilderness, Chattahoochee and Nantahala National Forests, North Carolina.—Pub. L. 98–324, §2(11), June 19, 1984, 98 Stat. 264; Pub. L. 98–514, §2(2), Oct. 19, 1984, 98 Stat. 2416.
 
 Stateline Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(63), Oct. 31, 1994, 108 Stat. 4480.
 
@@ -1194,7 +1196,7 @@ Trigo Mountain Wilderness, La Paz County, Arizona.—Pub. L. 101–628, title I,
 
 Trilobite Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(67), Oct. 31, 1994, 108 Stat. 4480.
 
-Trinity Alps Wilderness, Klamath, Shasta-Trinity, and Six Rivers National Forests, California.—Pub. L. 98–425, title I, §101(a)(34), Sept. 28, 1984, 98 Stat. 1623.
+Trinity Alps Wilderness, Ukiah District Conservation Area, of Bureau of Land Management, and Klamath, Shasta-Trinity, and Six Rivers National Forests, California.—Pub. L. 98–425, title I, §101(a)(34), Sept. 28, 1984, 98 Stat. 1623.
 
 Turkey Hill Wilderness, Angelina National Forest, Texas.—Pub. L. 98–574, §2(1), Oct. 30, 1984, 98 Stat. 3051; Pub. L. 99–584, Oct. 29, 1986, 100 Stat. 3322.
 
@@ -1230,7 +1232,7 @@ Waldo Lake Wilderness, Willamette National Forest, Oregon.—Pub. L. 98–328, �
 
 Wambaw Creek Wilderness, Francis Marion National Forest, South Carolina.—Pub. L. 96–560, title II, §201(h), Dec. 22, 1980, 94 Stat. 3273.
 
-Wambaw Swamp Wilderness, Francis Marion National Forest, South Carolina.—Pub. L. 96–550, title II, §201(e), (g), Dec. 22, 1980, 94 Stat. 3273.
+Wambaw Swamp Wilderness, Francis Marion National Forest, South Carolina.—Pub. L. 96–560, title II, §201(e), (g), Dec. 22, 1980, 94 Stat. 3273.
 
 Warm Springs Wilderness, Mohave County, Arizona.—Pub. L. 101–628, title I, §101(a)(4), Nov. 28, 1990, 104 Stat. 4469.
 
@@ -1290,9 +1292,9 @@ Woodchute Wilderness, Prescott National Forest, Arizona.—Pub. L. 98–406, tit
 
 Woolsey Peak Wilderness, Maricopa County, Arizona.—Pub. L. 101–628, title I, §101(a)(15), Nov. 28, 1990, 104 Stat. 4470.
 
-Wrangell-Saint Elias Wilderness, Wrangell-Saint Elias National Park, Alaska.—Pub. L. 96–487, title VII, §701(8), Dec. 2, 1980, 94 Stat. 2417.
+Wrangell-Saint Elias Wilderness, Wrangell-Saint Elias National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(8), Dec. 2, 1980, 94 Stat. 2417.
 
-Yolla Bolly-Middle Eel Wilderness, Mendocino and Shasta-Trinity National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(36), Sept. 28, 1984, 98 Stat. 1623.
+Yolla Bolly-Middle Eel Wilderness, Ukiah District Conservation Area, of Bureau of Land Management, and Mendocino, Six Rivers, and Shasta-Trinity National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(36), Sept. 28, 1984, 98 Stat. 1623.
 
 Yosemite Wilderness, Yosemite National Park Wilderness, California.—Pub. L. 98–425, title I, §106(a)(1), Sept. 28, 1984, 98 Stat. 1626.
 

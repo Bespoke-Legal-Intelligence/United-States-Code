@@ -8,5 +8,5 @@ The Secretary is authorized to acquire any of the following described rights if 
 
 &emsp;(3) releases, before suit is brought, for past infringement of patents or copyrights.
 
-(Pub. L. 96 88, title IV, §420, Oct. 17, 1979, 93 Stat. 687.)
+(Pub. L. 96–88, title IV, §420, Oct. 17, 1979, 93 Stat. 687.)
 

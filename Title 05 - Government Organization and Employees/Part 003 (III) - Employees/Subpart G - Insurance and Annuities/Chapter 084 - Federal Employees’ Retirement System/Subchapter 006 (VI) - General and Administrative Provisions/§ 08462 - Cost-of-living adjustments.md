@@ -74,7 +74,7 @@
 
 #### Amendments
 
-1986—Subsec. (b)(3). Pub. L. 99–556 inserted provision relating to the computation of any amount under section 8443(a)(2).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–556 inserted provision relating to the computation of any amount under section 8443(a)(2).
 
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 

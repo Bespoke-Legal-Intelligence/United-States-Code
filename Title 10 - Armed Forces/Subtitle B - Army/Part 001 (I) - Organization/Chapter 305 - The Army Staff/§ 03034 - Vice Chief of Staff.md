@@ -1,4 +1,4 @@
-### §3034 . Vice Chief of Staff
+### §3034. Vice Chief of Staff
 
 (a) There is a Vice Chief of Staff of the Army, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Army.
 

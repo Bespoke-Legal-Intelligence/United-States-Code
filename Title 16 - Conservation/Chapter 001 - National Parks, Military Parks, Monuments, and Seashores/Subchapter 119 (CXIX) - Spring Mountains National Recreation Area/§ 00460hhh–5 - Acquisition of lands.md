@@ -1,4 +1,4 @@
-### §460hhh–5 . Acquisition of lands
+### §460hhh–5. Acquisition of lands
 
 #### (a) In general
 

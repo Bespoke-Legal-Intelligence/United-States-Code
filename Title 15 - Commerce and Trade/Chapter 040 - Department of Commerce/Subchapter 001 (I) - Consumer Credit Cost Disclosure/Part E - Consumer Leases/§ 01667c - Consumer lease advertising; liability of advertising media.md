@@ -64,15 +64,15 @@ No advertisement to aid, promote, or assist directly or indirectly any consumer 
 
 There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.
 
-(Pub. L. 90 321, title I, §184, as added Pub. L. 94 240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103 325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234.)
+(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234.)
 
 #### Amendments
 
-1994—Subsecs. (b), (c). Pub. L. 103 325 added subsec. (b) and redesignated former subsec. (b) as (c).
+1994—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Study of Advertising Rules
 
-Section 336(b) of Pub. L. 103 325 provided that: “Not later than 365 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall submit a report to the Congress on—
+Section 336(b) of Pub. L. 103–325 provided that: “Not later than 365 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall submit a report to the Congress on—
 
 &emsp;“(1) the current rules applicable to credit advertising;
 

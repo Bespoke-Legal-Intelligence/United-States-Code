@@ -2,7 +2,7 @@
 
 #### (a) Advisory council; establishment; consultation; members; term; appointment
 
-The Secretary, pursuant to the Federal Advisory Committee Act, shall establish an advisorycouncil for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
+The Secretary, pursuant to the Federal Advisory Committee Act, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
 
 &emsp;(1) a member to represent each county in which a portion of the Area is located, each such appointee to be designated by the respective governing body of the county involved;
 

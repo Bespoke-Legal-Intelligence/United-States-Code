@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each State board receiving assistance under this chapter shall conduct an assessment using measurable objective criteria developed by the State board to assess program quality. Such criteria shall be developed in consultation with representatives of the groups described in section 2325(a) of this title and shall use information gathered by the National Occupational Information Coordinating Committee and, if appropriate, other information. Each State board shall widely disseminate such criteria. State boards shall develop such criteria no later than the beginning of the 1991 1992 school year. Such criteria shall include such factors as—
+Each State board receiving assistance under this chapter shall conduct an assessment using measurable objective criteria developed by the State board to assess program quality. Such criteria shall be developed in consultation with representatives of the groups described in section 2325(a) of this title and shall use information gathered by the National Occupational Information Coordinating Committee and, if appropriate, other information. Each State board shall widely disseminate such criteria. State boards shall develop such criteria no later than the beginning of the 1991–1992 school year. Such criteria shall include such factors as—
 
 &emsp;(1) integration of academic and vocational education;
 
@@ -30,7 +30,7 @@ Each State board receiving assistance under this chapter shall conduct an assess
 
 Each State board shall complete the assessment required by subsection (a) of this section before the expiration of the 6-month period beginning on September 25, 1990.
 
-(Pub. L. 88 210, title I, §116, as added Pub. L. 101 392, title I, §116, Sept. 25, 1990, 104 Stat. 772.)
+(Pub. L. 88–210, title I, §116, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772.)
 
 #### Section Referred to in Other Sections
 

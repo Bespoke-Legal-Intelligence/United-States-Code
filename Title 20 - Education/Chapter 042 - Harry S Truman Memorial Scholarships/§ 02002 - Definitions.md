@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “Secretary” means the Secretary of the Treasury.
 
-(Pub. L. 93 642, §3, Jan. 4, 1975, 88 Stat. 2276.)
+(Pub. L. 93–642, §3, Jan. 4, 1975, 88 Stat. 2276.)
 
 #### Termination of Trust Territory of the Pacific Islands
 

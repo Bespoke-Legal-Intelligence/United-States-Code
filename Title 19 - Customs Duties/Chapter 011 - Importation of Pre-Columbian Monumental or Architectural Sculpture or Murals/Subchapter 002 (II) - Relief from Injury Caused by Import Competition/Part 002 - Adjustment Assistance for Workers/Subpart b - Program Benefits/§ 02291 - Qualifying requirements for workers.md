@@ -68,7 +68,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (c) Approval of training programs; written certifications; revocation of certification; annual report
 
-(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of thistitle, the Secretary shall submit to such worker a written statement certifying such finding.
+(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement certifying such finding.
 
 (B) If a State or State agency has an agreement with the Secretary under section 2311 of this title and the State or State agency finds that it is not feasible or appropriate to approve a training program for a worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall—
 
@@ -128,7 +128,7 @@ Section 13009 of Pub. L. 99–272 provided that:
 
 “(a)
 
-In General.—Except as provided in subsections (b) and (c), the amendments made by this part \[part 1 (§§13001–13009) of subtitle A, amending this section, sections 2271, 2272, 2292, 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, and provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].
+In General.—Except as provided in subsections (b) and (c), the amendments made by this part \[part 1\(§§13001–13009) of subtitle A, amending this section, sections 2271, 2272, 2292, 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, and provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 (a) Congress finds that—
 
-&emsp;(1) there is a substantial imbalance in international wine trade resulting, in part, from the relative accessibility enjoyed by foreign wines to the United States market while the United States wine industry faces restrictive tariff and nontariff barriers in virtually every existing or potential foreign market;
+&emsp;(1) there is a substantial imbalance in international wine trade resulting, in part, from the relative accessibility enjoyed by foreign wines to the United States market while the United States wine industry faces restrictivetariff and nontariff barriers in virtually every existing or potential foreign market;
 
 &emsp;(2) the restricted access to foreign markets and the continued low prices for United States wine and grape products adversely affect the economic position of our Nation's winemakers and grape growers, as well as all other domestic sectors that depend upon wine production;
 
@@ -16,7 +16,7 @@
 
 &emsp;(1) to provide wine consumers with the greatest possible choice of wines from wine-producing countries;
 
-&emsp;(2) to encourage the initiation of an export promotion program to develop, maintain, andexpand foreign markets for United States wine; and
+&emsp;(2) to encourage the initiation of an export promotion program to develop, maintain, and expand foreign markets for United States wine; and
 
 &emsp;(3) to achieve greater access to foreign markets for United States wine and grape products through the reduction or elimination of tariff barriers and nontariff barriers to (or other distortions of) trade in wine.
 

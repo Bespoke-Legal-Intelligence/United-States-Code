@@ -16,7 +16,7 @@ The Council may employ a staff of not more than seven persons, which is to be he
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act,Fiscal Year 1989, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1989, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the President on July 20, 1989, established the long-range goal of establishing a lunar base, followed by manned exploration of Mars in the early twenty-first century;
 
-&emsp;“(2) the United States and the Soviet Union, in cooperation with other countries, are currently planning further unmanned missions to the Moon and to Mars with the possible goal of landing a human on Mars;
+&emsp;“(2) the United States and the Soviet Union, in cooperation with other countries, are currently planning further unmanned missions to the Moon and toMars with the possible goal of landing a human on Mars;
 
 &emsp;“(3) a series of international missions to expand human presence beyond Earth orbit would further a spirit of, and follow through on the commitment made in, the 1987 agreement between the Soviet Union and the United States for space cooperation, as well as the successful cooperative agreements the United States has pursued with over one hundred countries since its inception, including the agreement with Japan, Canada, and the European countries for Space Station Freedom;
 
@@ -98,7 +98,7 @@ Pub. L. 101–328, §3(a), July 8, 1990, 104 Stat. 308, provided that: “Not mo
 
 #### Experts and Consultants
 
-Pub. L. 101–328, §4, July 8, 1990, 104 Stat. 308, provided that: “The National Space Council may, for purposes of carrying out its functions, employ experts and consultants in accordance with section 3109 of title 5, UnitedStates Code, and may compensate individuals so employed for each day they are involved in a business of the National Space Council (including traveltime) at rates not in excess of the daily equivalent of the maximum rate of pay for grade GS–18 as provided pursuant to section 5332 of title 5, United States Code.”
+Pub. L. 101–328, §4, July 8, 1990, 104 Stat. 308, provided that: “The National Space Council may, for purposes of carrying out its functions, employ experts and consultants in accordance with section 3109 of title 5, United States Code, and may compensate individuals so employed for each day they are involved in a business of the National Space Council (including traveltime) at rates not in excess of the daily equivalent of the maximum rate of pay for grade GS–18 as provided pursuant to section 5332 of title 5, United States Code.”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 

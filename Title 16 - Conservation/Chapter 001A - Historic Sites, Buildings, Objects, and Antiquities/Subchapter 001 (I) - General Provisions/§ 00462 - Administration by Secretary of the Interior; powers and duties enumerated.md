@@ -32,7 +32,7 @@ The Secretary of the Interior (hereinafter in sections 461 to 467 of this title 
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out inthe Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Financial Assistance for Maintenance and Protection of Folger Library and Corcoran Gallery of Art; Limitation on Contract Authority
 
@@ -42,5 +42,5 @@ Pub. L. 96–344, §1, Sept. 8, 1980, 94 Stat. 1133, provided: “That (a) in fu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410cc–22, 410cc–32, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 1133, 1244 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2,410bb–1, 410cc–22, 410cc–32, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 1133, 1244 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
 

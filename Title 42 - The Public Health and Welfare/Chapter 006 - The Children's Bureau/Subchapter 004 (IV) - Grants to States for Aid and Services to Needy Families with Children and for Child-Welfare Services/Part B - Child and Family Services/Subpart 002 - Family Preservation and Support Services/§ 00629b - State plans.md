@@ -48,7 +48,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (1) In general
 
-&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) ofthis section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation and family support services).
+&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation and family support services).
 
 #### (2) Plans of Indian tribes
 

@@ -16,7 +16,7 @@ Section 5017, Pub. L. 99–440, title I, §107, Oct. 2, 1986, 100 Stat. 1093, st
 
 Section 5018, Pub. L. 99–440, title I, §108, Oct. 2, 1986, 100 Stat. 1093, stated sense of Congress relating to “necklacing”.
 
-Section 5019, Pub. L. 99–440, title I, §109, Oct. 2, 1986, 100 Stat. 1093; Pub. L. 99–631, §1(a)(8), Nov. 7, 1986, 100Stat. 3516, stated sense of Congress that United States Ambassador should meet with Nelson Mandela.
+Section 5019, Pub. L. 99–440, title I, §109, Oct. 2, 1986, 100 Stat. 1093; Pub. L. 99–631, §1(a)(8), Nov. 7, 1986, 100 Stat. 3516, stated sense of Congress that United States Ambassador should meet with Nelson Mandela.
 
 Section 5020, Pub. L. 99–440, title I, §110, Oct. 2, 1986, 100 Stat. 1093, stated congressional findings and sense of Congress relating to recruitment and training of black South Africans by United States employers.
 

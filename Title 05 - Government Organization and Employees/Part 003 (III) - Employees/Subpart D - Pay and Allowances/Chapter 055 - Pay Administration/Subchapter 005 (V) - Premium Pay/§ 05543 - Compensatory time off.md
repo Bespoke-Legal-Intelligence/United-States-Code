@@ -4,7 +4,7 @@
 
 &emsp;(1) on request of an employee, grant the employee compensatory time off from his scheduled tour of duty instead of payment under section 5542 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work; and
 
-&emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law andany applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
+&emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
 
 (b) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
@@ -62,7 +62,7 @@ GS–10, referred to in subsec. (a)(2), is contained in the General Schedule whi
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
 
 Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6123 of this title; title 14 section 432; title 15 section 278e; title 20 section 241; title 32 section 709.
+This section is referred to in section 6123 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
 

@@ -16,7 +16,7 @@ Additional Proceedings.—(1) On request of the petitioner, the court may order 
 
 (d)
 
-Certified Copies of Records of Proceedings.—The Secretary shall give any interestedperson a certified copy of the transcript of the record in a proceeding under this section on request and payment of costs. A certified copy of the record of the proceeding is admissible in a proceeding arising out of a matter under this chapter, regardless of whether the proceeding under this section has begun or becomes final.
+Certified Copies of Records of Proceedings.—The Secretary shall give any interested person a certified copy of the transcript of the record in a proceeding under this section on request and payment of costs. A certified copy of the record of the proceeding is admissible in a proceeding arising out of a matter under this chapter, regardless of whether the proceeding under this section has begun or becomes final.
 
 (e)
 

@@ -2,7 +2,7 @@
 
 #### (a) Permit
 
-Notwithstanding any other provision of this chapter or of any other law, in any case where the disposal of sewage sludge resulting from theoperation of a treatment works as defined in section 1292 of this title (including the removal of in-place sewage sludge from one location and its deposit at another location) would result in any pollutant from such sewage sludge entering the navigable waters, such disposal is prohibited except in accordance with a permit issued by the Administrator under section 1342 of this title.
+Notwithstanding any other provision of this chapter or of any other law, in any case where the disposal of sewage sludge resulting from the operation of a treatment works as defined in section 1292 of this title (including the removal of in-place sewage sludge from one location and its deposit at another location) would result in any pollutant from such sewage sludge entering the navigable waters, such disposal is prohibited except in accordance with a permit issued by the Administrator under section 1342 of this title.
 
 #### (b) Issuance of permit; regulations
 
@@ -62,7 +62,7 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (4) Conditions on permits
 
-&emsp;Prior to the promulgation of the regulations required by paragraph (2), the Administrator shall impose conditions in permits issued topublicly owned treatment works under section 1342 of this title or take such other measures as the Administrator deems appropriate to protect public health and the environment from any adverse effects which may occur from toxic pollutants in sewage sludge.
+&emsp;Prior to the promulgation of the regulations required by paragraph (2), the Administrator shall impose conditions in permits issued to publicly owned treatment works under section 1342 of this title or take such other measures as the Administrator deems appropriate to protect public health and the environment from any adverse effects which may occur from toxic pollutants in sewage sludge.
 
 #### (5) Limitation on statutory construction
 

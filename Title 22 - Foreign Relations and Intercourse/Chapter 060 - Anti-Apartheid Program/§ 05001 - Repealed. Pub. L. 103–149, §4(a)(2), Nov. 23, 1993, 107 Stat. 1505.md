@@ -8,7 +8,7 @@ Repeal effective June 8, 1994, date on which President certified to Congress tha
 
 #### Short Title
 
-Section 1 of Pub. L. 99–440 provided that Pub. L. 99–440, which enacted this chapter and sections 2151<i>o</i> and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out as a note under section 2346d of this title, could be cited as the “Comprehensive Anti-Apartheid Act of 1986”, prior to repeal by Pub. L. 103–319, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
+Section 1 of Pub. L. 99–440 provided that Pub. L. 99–440, which enacted this chapter and sections 2151<i>o</i> and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out as a note under section 2346d of this title, could be cited as the “Comprehensive Anti-Apartheid Act of 1986”, prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
 
 #### Repeal of Chapter; South African Democratic Transition Support
 
@@ -82,11 +82,11 @@ In general.—All provisions of the Comprehensive Anti-Apartheid Act of 1986 (22
 
 &emsp;“(2)
 
-Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a), 203(b), 205, 207, 208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001 note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congressdated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
+Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a), 203(b), 205, 207, 208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001 note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congress dated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
 
 &emsp;“(3)
 
-Conforming amendments.—(A) Section 3 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001\] is amended by striking paragraphs (2) through (4) and paragraphs (7) through (9), by inserting ‘and’ at the end of paragraph (5), and by striking ‘; and’ at the end of paragraph (6) and inserting a period.
+Conforming amendments.—(A) Section 3 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C.5001\] is amended by striking paragraphs (2) through (4) and paragraphs (7) through (9), by inserting ‘and’ at the end of paragraph (5), and by striking ‘; and’ at the end of paragraph (6) and inserting a period.
 
 &emsp;“(B) The following provisions of the Foreign Assistance Act of 1961 that were enacted by the Comprehensive Anti-Apartheid Act of 1986 are repealed: subsections (e)(2), (f), and (g) of section 116 (22 U.S.C. 2151n); section 117 (22 U.S.C. 2151<i>o</i>), relating to assistance for disadvantaged South Africans; and section 535 (22 U.S.C. 2346d). Section 116(e)(1) of the Foreign Assistance Act of 1961 is amended by striking ‘(1)’.
 
@@ -186,11 +186,11 @@ Ineligible Organizations.—
 
 &emsp;“(1)
 
-Acts of violence.—An organization that has engaged in armed struggle or other acts of violenceshall not be eligible for assistance provided in accordance with this section unless that organization is committed to a suspension of violence in the context of progress toward nonracial democracy.
+Acts of violence.—An organization that has engaged in armed struggle or other acts of violence shall not be eligible for assistance provided in accordance with this section unless that organization is committed to a suspension of violence in the context of progress toward nonracial democracy.
 
 &emsp;“(2)
 
-Views inconsistent with democracy and free enterprise.—Assistance provided in accordance with this section may not be made available to any organization that has espoused views inconsistent with democracy and free enterprise unless such organization is engaged actively and positively in the process of transition to a nonracial democracy and such assistance would advance the United States objective of promoting democracy and free enterprise in South Africa.
+Views inconsistent with democracy and free enterprise.—Assistance provided in accordance withthis section may not be made available to any organization that has espoused views inconsistent with democracy and free enterprise unless such organization is engaged actively and positively in the process of transition to a nonracial democracy and such assistance would advance the United States objective of promoting democracy and free enterprise in South Africa.
 
 #### “SEC. 6. UNITED STATES INVESTMENT AND TRADE.
 

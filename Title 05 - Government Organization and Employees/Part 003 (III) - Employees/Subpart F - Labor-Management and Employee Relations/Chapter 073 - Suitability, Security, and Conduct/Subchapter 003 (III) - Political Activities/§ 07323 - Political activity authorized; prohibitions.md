@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) has an application for any compensation, grant, contract, ruling, license, permit, or certificate pending before the employing office of such employee; or
 
-&emsp;&emsp;(B) is the subject of or a participant in an ongoing audit, investigation, or enforcement action being carried out by the employing office of such employee.
+&emsp;&emsp;(B) is the subject of or a participant in an ongoing audit, investigation, or enforcementaction being carried out by the employing office of such employee.
 
 (b)(1) An employee of the Federal Election Commission (except one appointed by the President, by and with the advice and consent of the Senate), may not request or receive from, or give to, an employee, a Member of Congress, or an officer of a uniformed service a political contribution.
 
@@ -74,7 +74,7 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Amendments
 
-1994—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
+<b>1994</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
 
 #### Section Referred to in Other Sections
 

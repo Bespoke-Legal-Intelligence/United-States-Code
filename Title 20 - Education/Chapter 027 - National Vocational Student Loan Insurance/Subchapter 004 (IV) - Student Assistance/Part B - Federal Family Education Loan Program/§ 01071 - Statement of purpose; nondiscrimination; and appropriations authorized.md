@@ -42,39 +42,39 @@ The program established under this part shall be referred to as the “Robert T.
 
 Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.
 
-(Pub. L. 89 329, title IV, §421, as added Pub. L. 99 498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100 297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100 369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102 325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511.)
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511.)
 
 #### References in Text
 
-The Higher Education Amendments of 1986, referred to in subsec. (b), is Pub. L. 99 498, Oct. 17, 1986, 100 Stat. 1268. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1986, referred to in subsec. (b), is Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1268. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Higher Education Amendments of 1992, referred to in subsec. (d), is Pub. L. 102 325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (d), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1071, Pub. L. 89 329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90 460, §§2(b)(3), 3(a), Aug. 3, 1968, 82 Stat. 635, 636; Pub. L. 90 575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94 482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95 43, §1(a)(8) (10), June 15, 1977, 91 Stat. 213; Pub. L. 96 374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98 79, §6, Aug. 15, 1983, 97 Stat. 482, related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90–460, §§2(b)(3), 3(a), Aug. 3, 1968, 82 Stat. 635, 636; Pub. L. 90–575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95–43, §1(a)(8)–(10), June 15, 1977, 91 Stat. 213; Pub. L. 96–374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98–79, §6, Aug. 15, 1983, 97 Stat. 482, related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102 325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The program established under this part shall be referred to as the ‘Robert T. Stafford Student Loan Program’. Loans made under this part shall be known as ‘Stafford Loans’.”
+1992—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The program established under this part shall be referred to as the ‘Robert T. Stafford Student Loan Program’. Loans made under this part shall be known as ‘Stafford Loans’.”
 
-Subsec. (d). Pub. L. 102 325, §411(c), added subsec. (d).
+Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-1988—Subsec. (c). Pub. L. 100 369 substituted “shall be referred” for “may be referred” and inserted provisionidentifying loans made under this part as “Stafford Loans”.
+1988—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provision identifying loans made under this part as “Stafford Loans”.
 
-Pub. L. 100 297 added subsec. (c).
+Pub. L. 100–297 added subsec. (c).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective July 23, 1992, with changes in the designation or names of loans or programs under this part effective with respect to applications or other documents (used in making such loans) that are printed after July 23, 1992, see section 432 of Pub. L. 102 325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, with changes in the designation or names of loans or programs under this part effective with respect to applications or other documents (used in making such loans) that are printed after July 23, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100 297, see section 6303 of Pub. L. 100 297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
 
 #### Effective Date
 
-Section 402(b) (d) of Pub. L. 99 498, as amended by Pub. L. 100 50, §22(b), June 3, 1987, 101 Stat. 361, provided that:
+Section 402(b)–(d) of Pub. L. 99–498, as amended by Pub. L. 100–50, §22(b), June 3, 1987, 101 Stat. 361, provided that:
 
 “(b)
 
@@ -90,9 +90,9 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 &emsp;“(5) the changes in section 428(b)(1)(H) \[20 U.S.C. 1078(b)(1)(H)\] shall apply with respect only to loans for which the borrower files an application on or after July 1, 1987;
 
-&emsp;“(6) the changes in sections 435(d)(5) and 438(d) of the Act \[20 U.S.C. 1085(d)(5), 1087 1(d)\] shall take effect 30 days after the date of enactment of this Act \[Oct. 17, 1986\]; and
+&emsp;“(6) the changes in sections 435(d)(5) and 438(d) of the Act \[20 U.S.C. 1085(d)(5), 1087–1(d)\] shall take effect 30 days after the date of enactment of this Act \[Oct. 17, 1986\]; and
 
-&emsp;“(7) the changes made in section 438(b) \[20 U.S.C. 1087 1(b)\] shall take effect with respect to loans disbursed on or after 30 days after the date of enactment of this Act \[Oct. 17, 1986\] or made to cover the costs of instruction for periods of enrollment beginning on or after 30 days after the date of enactment of this Act.
+&emsp;“(7) the changes made in section 438(b) \[20 U.S.C. 1087–1(b)\] shall take effect with respect to loans disbursed on or after 30 days after the date of enactment of this Act \[Oct. 17, 1986\] or made to cover the costs of instruction for periods of enrollment beginning on or after 30 days after the date of enactment of this Act.
 
 “(c)
 
@@ -104,11 +104,11 @@ New Borrowers.—For the purpose of this section, the term ‘new borrower’ me
 
 #### Study of Role of Guaranty Agencies
 
-Section 1401 of Pub. L. 102 325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review.
+Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review.
 
 #### General Accounting Office Reports
 
-Sections 1311 to 1314 of Pub. L. 99 498, as amended by Pub. L. 100 50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permitting students to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99 498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986.
+Sections 1311 to 1314 of Pub. L. 99–498, as amended by Pub. L. 100–50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permitting students to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99–498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986.
 
 #### Section Referred to in Other Sections
 

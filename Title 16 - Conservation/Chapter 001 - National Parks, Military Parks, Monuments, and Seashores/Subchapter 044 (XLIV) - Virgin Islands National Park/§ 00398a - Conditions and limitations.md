@@ -1,4 +1,4 @@
-### §398a . Conditions and limitations
+### §398a. Conditions and limitations
 
 The Secretary of the Interior is authorized subject to the following conditions and limitations, to proceed in such manner as he shall find to be necessary in the public interest to consummate the establishment of the Virgin Islands National Park:
 

@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) Foreign oil and gas extraction income
 
-&emsp;The term “foreign oil and gas extraction income” means the taxable income derived from sources without the United States and its possessions from—
+&emsp;The term “foreign oil and gas extraction income” means the taxable income derived fromsources without the United States and its possessions from—
 
 &emsp;&emsp;(A) the extraction (by the taxpayer or any other person) of minerals from oil or gas wells, or
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the taxpayer's distributive share of the income of partnerships.<sup>1</sup>
 
-> &emsp;to the extent such dividends, interest, amounts, or distributive share is attributableto foreign oil and gas extraction income, or to foreign oil related income, as the case may be; except that interest described in subparagraph (A) shall not be taken into account in computing foreign oil and gas extraction income but shall be taken into account in computing foreign oil-related income.
+> &emsp;to the extent such dividends, interest, amounts, or distributive share is attributable to foreign oil and gas extraction income, or to foreign oil related income, as the case may be; except that interest described in subparagraph (A) shall not be taken into account in computing foreign oil and gas extraction income but shall be taken into account in computing foreign oil-related income.
 
 #### (4) Recapture of foreign oil and gas extraction losses by recharacterizing later extraction income
 
@@ -120,7 +120,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 &emsp;&emsp;(B) the amount by which the limitation provided by section 904 for such taxable year exceeds the sum of—
 
-&emsp;&emsp;&emsp;(i) the taxes paid or accrued (or deemed to have been paid under section 902 or 960)to all foreign countries and possessions of the United States during such taxable year,
+&emsp;&emsp;&emsp;(i) the taxes paid or accrued (or deemed to have been paid under section 902 or 960) to all foreign countries and possessions of the United States during such taxable year,
 
 &emsp;&emsp;&emsp;(ii) the amount of such taxes which were deemed paid or accrued in such taxable year under section 904(c) and which are attributable to taxable years preceding the unused credit year, plus
 
@@ -156,7 +156,7 @@ Subsec. (f)(3)(C). Pub. L. 101–508, §11801(a)(32), struck out subpar. (C) whi
 
 1988—Subsec. (c)(3). Pub. L. 100–647, §1012(g)(6)(B), struck out “and dividends described in subparagraph (B)” after “described in subparagraph (A)” in closing provisions.
 
-Subsec. (c)(3)(B) to (D). Pub. L. 100–647, §1012(g)(6)(A), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “dividends from a domestic corporation which are treated under section 861(a)(2)(A) as income from sources without the United States,”.
+Subsec. (c)(3)(B) to (D). Pub. L. 100–647, §1012(g)(6)(A), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read asfollows: “dividends from a domestic corporation which are treated under section 861(a)(2)(A) as income from sources without the United States,”.
 
 1982—Subsec. (b). Pub. L. 97–248, §211(c)(1), added subsec. (b). Former subsec. (b), which had provided that section 904 be applied separately with respect to foreign oil related income and other taxable income, was struck out.
 
@@ -168,7 +168,7 @@ Subsec. (e). Pub. L. 97–248, §211(d)(1), substituted rules regarding credits 
 
 Subsec. (f)(1). Pub. L. 97–248, §211(d)(2)(A), substituted “such excess” for “so much of such excess as does not exceed 2 percent of foreign oil and gas extraction income for such taxable year” in first sentence, and struck out former provision that had directed that the above substitution be made regarding taxes deemed paid or accrued in any taxable year which ended in 1975, 1976, or 1977.
 
-Subsec. (f)(2)(B). Pub. L. 97–248, §211(d)(2)(B)(i), substituted “provided by section 904 for such taxable year” for “provided by section 904 on taxes paid or accrued with respect to foreign oil-related income for such taxable year” in the introductory provisions, and in cl. (i) substituted “the United States during such taxableyear” for “the United States with respect to such income during such taxable year”.
+Subsec. (f)(2)(B). Pub. L. 97–248, §211(d)(2)(B)(i), substituted “provided by section 904 for such taxable year” for “provided by section 904 on taxes paid or accrued with respect to foreign oil-related income for such taxable year” in the introductory provisions, and in cl. (i) substituted “the United States during such taxable year” for “the United States with respect to such income during such taxable year”.
 
 Subsec. (f)(3)(A). Pub. L. 97–248, §211(d)(2)(B)(ii), substituted “section 904(c)” for “section 904(c) with respect to oil-related income”.
 

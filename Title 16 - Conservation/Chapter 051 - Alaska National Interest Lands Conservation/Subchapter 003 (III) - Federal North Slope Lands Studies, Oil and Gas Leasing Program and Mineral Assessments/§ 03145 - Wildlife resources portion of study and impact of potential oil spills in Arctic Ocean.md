@@ -20,7 +20,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 &emsp;(F) the Secretary of the Interior has conducted Outer Continental Shelf lease sales in the Beaufort and Chuckchi Seas and oil and gas exploration is ongoing;
 
-&emsp;(G) an oil spill in the Arctic Ocean, if not properly contained and cleaned up, could have significant impacts on the indigenous peopleof Alaska's North Slope and on the Arctic environment; and
+&emsp;(G) an oil spill in the Arctic Ocean, if not properly contained and cleaned up, could have significant impacts on the indigenous people of Alaska's North Slope and on the Arctic environment; and
 
 &emsp;(H) there are no international contingency plans involving our two governments concerning containment and cleanup of an oil spill in the Arctic Ocean.
 

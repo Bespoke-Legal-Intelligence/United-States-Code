@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;The term “high-priority user” has the same meaning as given such term in section 3391(f)(2) of this title.
 
-(Pub. L. 95 621, title IV, §402, Nov. 9, 1978, 92 Stat. 3395.)
+(Pub. L. 95–621, title IV, §402, Nov. 9, 1978, 92 Stat. 3395.)
 
 #### Section Referred to in Other Sections
 

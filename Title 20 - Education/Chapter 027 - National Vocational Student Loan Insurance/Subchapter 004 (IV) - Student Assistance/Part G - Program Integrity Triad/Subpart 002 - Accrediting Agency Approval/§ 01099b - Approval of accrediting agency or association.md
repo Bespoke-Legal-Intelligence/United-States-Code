@@ -118,7 +118,7 @@ The Secretary shall not recognize the accreditation of any otherwise eligible in
 
 #### (i) Dual accreditation rule
 
-The Secretary shall not recognize the accreditation of any otherwise eligible institution of higher education if the institution of higher education is accredited, as an institution, bymore than one accrediting agency or association, unless the institution submits to each such agency and association and to the Secretary the reasons for accreditation by more than one such agency or association and demonstrates to the Secretary reasonable cause for its accreditation by more than one agency or association. If the institution is accredited, as an institution, by more than one accrediting agency or association, the institution shall designate which agency's accreditation shall be utilized in determining the institution's eligibility for programs under this chapter.
+The Secretary shall not recognize the accreditation of any otherwise eligible institution of higher education if the institution of higher education is accredited, as an institution, by more than one accrediting agency or association, unless the institution submits to each such agency and association and to the Secretary the reasons for accreditation by more than one such agency or association and demonstrates to the Secretary reasonable cause for its accreditation by more than one agency or association. If the institution is accredited, as an institution, by more than one accrediting agency or association, the institution shall designate which agency's accreditation shall be utilized in determining the institution's eligibility for programs under this chapter.
 
 #### (j) Impact of loss of accreditation
 
@@ -158,7 +158,7 @@ The Secretary may only recognize accrediting agencies or associations which accr
 
 (2) The Secretary shall place a priority for review of accrediting agencies or associations on those agencies or associations that accredit institutions of higher education that participate most extensively in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 and on those agencies or associations which have been the subject of the most complaints or legal actions.
 
-(3) The Secretary shall consider all available relevant information concerning the compliance of the accrediting agency or association with the standards provided for in this section, including any complaints or legal actions against such agency or association. In cases where deficiencies in the performance of an accreditation agency or association with respect to the requirements of this section are noted, the Secretary shall take these deficiencies into account in the approval process. The Secretary shall not, under any circumstances, base decisions on the approval or disapproval of accreditation agencies or associations on standards other than those contained in this section.
+(3) The Secretary shall consider all available relevant information concerning the compliance of the accrediting agency or association with the standards provided for in this section, including any complaints or legal actions against such agency or association. In cases where deficiencies in the performance of an accreditationagency or association with respect to the requirements of this section are noted, the Secretary shall take these deficiencies into account in the approval process. The Secretary shall not, under any circumstances, base decisions on the approval or disapproval of accreditation agencies or associations on standards other than those contained in this section.
 
 (4) The Secretary shall maintain sufficient documentation to support the conclusions reached in the approval process, and, upon disapproval of any accreditation agency or association, shall make publicly available the reason for such disapproval, including reference to the specific standards under this section which have not been fulfilled.
 
@@ -166,27 +166,27 @@ The Secretary may only recognize accrediting agencies or associations which accr
 
 The Secretary shall by regulation provide procedures for the recognition of accrediting agencies or associations and for the appeal of the Secretary's decisions.
 
-(Pub. L. 89 329, title IV, §496, as added Pub. L. 102 325, title IV, §499, July 23, 1992, 106 Stat. 641; amended Pub. L. 103 208, §2(i)(3) (8), Dec. 20, 1993, 107 Stat. 2478, 2479.)
+(Pub. L. 89–329, title IV, §496, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 641; amended Pub. L. 103–208, §2(i)(3)–(8), Dec. 20, 1993, 107 Stat. 2478, 2479.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (d), (g), (i), (j), and (m), was in the original “this Act”, meaning Pub. L. 89 329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a), (d), (g), (i), (j), and (m), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-1993—Subsec. (a)(2)(A)(i). Pub. L. 103 208, §2(i)(3), inserted “of institutions of higher education” after “membership”.
+1993—Subsec. (a)(2)(A)(i). Pub. L. 103–208, §2(i)(3), inserted “of institutions of higher education” after “membership”.
 
-Subsec. (a)(3)(A). Pub. L. 103 208, §2(i)(4), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
+Subsec. (a)(3)(A). Pub. L. 103–208, §2(i)(4), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
 
-Subsec. (a)(5). Pub. L. 103 208, §2(i)(5), substituted a semicolon for the period at end of subpar. (L) and inserted after subpar. (L) the following: “except that subparagraphs (G), (H), (I), (J), and (L) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;”.
+Subsec. (a)(5). Pub. L. 103–208, §2(i)(5), substituted a semicolon for the period at end of subpar. (L) and inserted after subpar. (L) the following: “except that subparagraphs (G), (H), (I), (J), and (L) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;”.
 
-Subsec. (c). Pub. L. 103 208, §2(i)(6), substituted “as a reliable authority as to the quality of education or training offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42” for “for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42”.
+Subsec. (c). Pub. L. 103–208, §2(i)(6), substituted “as a reliable authority as to the quality of education or training offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42” for “for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 103 208, §2(i)(7), substituted “institution” for “institutution” and “association, described in paragraph (2)(A)(i), (2)(B), or (2)(C) of subsection (a) of this section, leading to the suspension” for “association leading to the suspension”.
+Subsec. (<i>l</i>)(2). Pub. L. 103–208, §2(i)(7), substituted “institution” for “institutution” and “association, described in paragraph (2)(A)(i), (2)(B), or (2)(C) of subsection (a) of this section, leading to the suspension” for “association leading to the suspension”.
 
-Subsec. (n)(1)(B). Pub. L. 103 208, §2(i)(8), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “site visits at both the accrediting agency or association and member institutions, including unannounced visits where appropriate.”
+Subsec. (n)(1)(B). Pub. L. 103–208, §2(i)(8), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “site visits at both the accrediting agency or association and member institutions, including unannounced visits where appropriate.”
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 

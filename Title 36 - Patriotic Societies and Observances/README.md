@@ -1,5 +1,5 @@
 
-36 U.S.C.<br>United States Code, 1994 Edition<br>Title 36 - PATRIOTIC SOCIETIES AND OBSERVANCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+36 U.S.C.<br>United States Code, 1995 Edition<br>Title 36 - PATRIOTIC SOCIETIES AND OBSERVANCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 36—PATRIOTIC SOCIETIES AND OBSERVANCES
 
@@ -103,6 +103,7 @@
 | [<b>83.</b>](Chapter%20083%20-%20Retired%20Enlisted%20Association%2C%20Incorporated/README.md) | <b>Retired Enlisted Association, Incorporated</b> | <b>5101</b> |
 | [<b>84.</b>](Chapter%20084%20-%20National%20Fallen%20Firefighters%20Foundation/README.md) | <b>National Fallen Firefighters Foundation</b> | <b>5201</b> |
 | [<b>85.</b>](Chapter%20085%20-%20National%20Education%20Association%20of%20the%20United%20States/README.md) | <b>National Education Association of the United States</b> | <b>5301</b> |
+| [<b>86.</b>](Chapter%20086%20-%20Society%20of%20American%20Florists%20and%20Ornamental%20Horticulturists/README.md) | <b>Society of American Florists and Ornamental Horticulturists</b> | <b>5401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -209,3 +210,4 @@
 - [Chapter 083 - Retired Enlisted Association, Incorporated](Chapter%20083%20-%20Retired%20Enlisted%20Association%2C%20Incorporated/README.md)
 - [Chapter 084 - National Fallen Firefighters Foundation](Chapter%20084%20-%20National%20Fallen%20Firefighters%20Foundation/README.md)
 - [Chapter 085 - National Education Association of the United States](Chapter%20085%20-%20National%20Education%20Association%20of%20the%20United%20States/README.md)
+- [Chapter 086 - Society of American Florists and Ornamental Horticulturists](Chapter%20086%20-%20Society%20of%20American%20Florists%20and%20Ornamental%20Horticulturists/README.md)

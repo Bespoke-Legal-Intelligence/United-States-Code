@@ -14,7 +14,7 @@
 
 (b) No officer may be a member of two successive selection boards convened under section 611(a) of this title for the consideration of officers of the same competitive category and grade.
 
-(c) Each selection board convened under section 611(a) of this title that will consider officers who are serving in, or have served in, joint duty assignments shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is currently serving in a joint duty assignment. The Secretary of Defense maywaive the preceding sentence in the case of any selection board of the Marine Corps.
+(c) Each selection board convened under section 611(a) of this title that will consider officers who are serving in, or have served in, joint duty assignments shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is currently serving in a joint duty assignment. The Secretary of Defense may waive the preceding sentence in the case of any selection board of the Marine Corps.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–22, §4(a), July 10, 1981, 95 Stat. 125; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §402(a), Oct. 1, 1986, 100 Stat. 1030.)
 

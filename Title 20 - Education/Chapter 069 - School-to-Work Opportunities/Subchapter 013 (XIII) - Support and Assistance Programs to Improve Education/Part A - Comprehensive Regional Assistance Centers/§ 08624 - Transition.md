@@ -14,9 +14,9 @@ The Secretary shall use funds appropriated to carry out this part for fiscal yea
 
 &emsp;In planning for the competition for the new comprehensive regional assistance centers under this part, the Secretary may draw on the expertise of staff from existing categorical assistance centers assisted under this Act prior to October 20, 1994.
 
-(Pub. L. 89 10, title XIII, §13104, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3880.)
+(Pub. L. 89–10, title XIII, §13104, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3880.)
 
 #### References in Text
 
-This Act, as such Act was in effect on the day preceding October 20, 1994, and this Act prior to October 20, 1994, referred to in subsec. (b), are Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, as amended known as the Elementary and Secondary Education Act of 1965, which was classified generally to chapter 47 (§2701 et seq.) of this title prior to the general amendment of that Act by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+This Act, as such Act was in effect on the day preceding October 20, 1994, and this Act prior to October 20, 1994, referred to in subsec. (b), are Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, as amended known as the Elementary and Secondary Education Act of 1965, which was classified generally to chapter 47 (§2701 et seq.) of this title prior to the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 

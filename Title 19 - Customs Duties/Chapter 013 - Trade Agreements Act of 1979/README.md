@@ -108,12 +108,12 @@ I74subpart 1—representations alleging united states violations of obligations
 
 |  |  |
 | :--- | ---: |
-| 2551\. | Right of action. |
-| 2552\. | Representations. |
-| 2553\. | Action after receipt of representations. |
+| [2551\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20C%20-%20Administrative%20and%20Judicial%20Proceedings%20Regarding%20Standards-Related%20Activities/Subpart%20001%20-%20Representations%20Alleging%20United%20States%20Violations%20of%20Obligations/%C2%A7%2002551%20-%20Right%20of%20action.md) | Right of action. |
+| [2552\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20C%20-%20Administrative%20and%20Judicial%20Proceedings%20Regarding%20Standards-Related%20Activities/Subpart%20001%20-%20Representations%20Alleging%20United%20States%20Violations%20of%20Obligations/%C2%A7%2002552%20-%20Representations.md) | Representations. |
+| [2553\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20C%20-%20Administrative%20and%20Judicial%20Proceedings%20Regarding%20Standards-Related%20Activities/Subpart%20001%20-%20Representations%20Alleging%20United%20States%20Violations%20of%20Obligations/%C2%A7%2002553%20-%20Action%20after%20receipt%20of%20representations.md) | Action after receipt of representations. |
 | (a) | Review. |
 | (b) | Resolution. |
-| 2554\. | Procedure after finding by international forum. |
+| [2554\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20C%20-%20Administrative%20and%20Judicial%20Proceedings%20Regarding%20Standards-Related%20Activities/Subpart%20001%20-%20Representations%20Alleging%20United%20States%20Violations%20of%20Obligations/%C2%A7%2002554%20-%20Procedure%20after%20finding%20by%20international%20forum.md) | Procedure after finding by international forum. |
 | (a) | In general. |
 | (b) | Cross reference. |
 
@@ -123,10 +123,10 @@ I74subpart 1—representations alleging united states violations of obligations
 
 |  |  |
 | :--- | ---: |
-| 2561\. | Findings of reciprocity required in administrative proceedings. |
+| [2561\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20C%20-%20Administrative%20and%20Judicial%20Proceedings%20Regarding%20Standards-Related%20Activities/Subpart%20002%20-%20Other%20Proceedings%20Regarding%20Certain%20Standards-Related%20Activities/%C2%A7%2002561%20-%20Findings%20of%20reciprocity%20required%20in%20administrative%20proceedings.md) | Findings of reciprocity required in administrative proceedings. |
 | (a) | In general. |
 | (b) | Exemptions. |
-| 2562\. | Consideration of standards-related activities by an international forum. |
+| [2562\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20C%20-%20Administrative%20and%20Judicial%20Proceedings%20Regarding%20Standards-Related%20Activities/Subpart%20002%20-%20Other%20Proceedings%20Regarding%20Certain%20Standards-Related%20Activities/%C2%A7%2002562%20-%20Consideration%20of%20standards-related%20activities%20by%20an%20international%20forum.md) | Consideration of standards-related activities by an international forum. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -134,9 +134,9 @@ I74subpart 1—representations alleging united states violations of obligations
 
 |  |  |
 | :--- | ---: |
-| 2571\. | Definitions. |
-| 2572\. | Exemptions. |
-| 2573\. | Reports to Congress on operation of agreement. |
+| [2571\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20D%20-%20Definitions%20and%20Miscellaneous%20Provisions/%C2%A7%2002571%20-%20Definitions.md) | Definitions. |
+| [2572\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20D%20-%20Definitions%20and%20Miscellaneous%20Provisions/%C2%A7%2002572%20-%20Exemptions.md) | Exemptions. |
+| [2573\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20D%20-%20Definitions%20and%20Miscellaneous%20Provisions/%C2%A7%2002573%20-%20Reports%20to%20Congress%20on%20operation%20of%20agreement.md) | Reports to Congress on operation of agreement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -146,9 +146,9 @@ I74subpart 1—sanitary and phytosanitary measures
 
 |  |  |
 | :--- | ---: |
-| 2575\. | General. |
-| 2575a. | Inquiry point. |
-| 2575b. | Subpart definitions. |
+| [2575\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20001%20-%20Sanitary%20and%20Phytosanitary%20Measures/%C2%A7%2002575%20-%20General.md) | General. |
+| [2575a.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20001%20-%20Sanitary%20and%20Phytosanitary%20Measures/%C2%A7%2002575a%20-%20Inquiry%20point.md) | Inquiry point. |
+| [2575b.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20001%20-%20Sanitary%20and%20Phytosanitary%20Measures/%C2%A7%2002575b%20-%20Subpart%20definitions.md) | Subpart definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -156,11 +156,11 @@ I74subpart 1—sanitary and phytosanitary measures
 
 |  |  |
 | :--- | ---: |
-| 2576\. | General. |
+| [2576\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20002%20-%20Standards-Related%20Measures/%C2%A7%2002576%20-%20General.md) | General. |
 | (a) | No bar to engaging in standards activity. |
 | (b) | Exclusion. |
-| 2576a. | Inquiry point. |
-| 2576b. | Subpart definitions. |
+| [2576a.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20002%20-%20Standards-Related%20Measures/%C2%A7%2002576a%20-%20Inquiry%20point.md) | Inquiry point. |
+| [2576b.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20002%20-%20Standards-Related%20Measures/%C2%A7%2002576b%20-%20Subpart%20definitions.md) | Subpart definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -168,7 +168,7 @@ I74subpart 1—sanitary and phytosanitary measures
 
 |  |  |
 | :--- | ---: |
-| 2577\. | Definitions. |
+| [2577\.](Subchapter%20002%20%28II%29%20-%20Technical%20Barriers%20to%20Trade%20%28Standards%29/Part%20E%20-%20Standards%20and%20Measures%20under%20the%20North%20American%20Free%20Trade%20Agreement/Subpart%20003%20-%20Part%20Definitions/%C2%A7%2002577%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -166,7 +166,7 @@ Taxable gifts defined, see section 2503 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 508, 1015, 2012, 2503, 2642, 4947, 4948, 7871 of this title; title 12 section 3051; title 16 section 1285; title 22 sections 2876, 3307.
+This section is referred to in sections 501, 508, 1015, 2012, 2503, 2642, 4947, 4948, 7871 of this title; title 12 section 3051; title 15 section 80a–3; title 16 section 1285; title 22 section 3307.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

@@ -74,7 +74,7 @@ With these safeguards the trustee or debtor in possession should be able to dist
 
 #### senate report no. 95–989
 
-This section, derived from similar provisions found in sections 264, 393, and 518 of the Bankruptcy Act \[sections 664, 793, and 918 of former title 11\], provides a limited exemption from the securities laws for securities issued under a plan of reorganization and for certain other securities. Subsection (a) exempts from the requirements of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] and from any State or local law requiringregistration or licensing of an issuer of, underwriter of, or broker or dealer in, a security, the offer or sale of certain securities.
+This section, derived from similar provisions found in sections 264, 393, and 518 of the Bankruptcy Act \[sections 664, 793, and 918 of former title 11\], provides a limited exemption from the securities laws for securities issued under a plan of reorganization and for certain other securities. Subsection (a) exempts from the requirements of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] and from any State or local law requiring registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security, the offer or sale of certain securities.
 
 Paragraph (1) of subsection (a) exempts the offer or sale under section 364 of any security that is not an equity security or convertible into an equity security. This paragraph is designed to facilitate the issuance of certificates of indebtedness, and should be read in light of the amendment made in section 306 of title III to section 3(a)(7) of the 1933 act \[15 U.S.C. 77c(a)(7)\].
 
@@ -108,7 +108,7 @@ The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
+1994—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after“Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
 
 Subsec. (b)(1). Pub. L. 103–394, §501(d)(33)(B), struck out “(15 U.S.C. 77b(11))” after “Act of 1933”.
 

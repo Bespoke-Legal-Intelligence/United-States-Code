@@ -32,7 +32,7 @@ A termination under this section shall be by a vote of owners of not less than t
 
 Following the unit owners’ vote, the termination shall be effective ninety days after hand delivering notice or mailing notice by prepaid United States mail to the parties to the contract.
 
-(Pub. L. 96 399, title VI, §608, Oct. 8, 1980, 94 Stat. 1676.)
+(Pub. L. 96–399, title VI, §608, Oct. 8, 1980, 94 Stat. 1676.)
 
 #### Codification
 

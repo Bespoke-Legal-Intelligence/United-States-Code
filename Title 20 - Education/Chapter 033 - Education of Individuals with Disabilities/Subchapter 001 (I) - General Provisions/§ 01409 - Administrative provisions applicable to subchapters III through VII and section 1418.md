@@ -20,7 +20,7 @@ In awarding grants, contracts, or cooperative agreements under subchapters III t
 
 #### (d) Program evaluations
 
-The Secretary shall conduct directly, or by contract or cooperative agreement with appropriate entities, independent evaluations of the programs authorized under section 1418 of this title and under subchapters III through VII of this chapter, and may for such purpose use funds appropriated to carry out such provisions. The findings of the evaluators shall be utilized in the planning process under subsection (a) of thissection for the purpose of improving the programs. The evaluations shall determine the degree to which the program is being conducted consistent with the program plan and meeting its goals and objectives. The Secretary shall submit to the appropriate committees of the Congress the results of the evaluations required by this subsection.
+The Secretary shall conduct directly, or by contract or cooperative agreement with appropriate entities, independent evaluations of the programs authorized under section 1418 of this title and under subchapters III through VII of this chapter, and may for such purpose use funds appropriated to carry out such provisions. The findings of the evaluators shall be utilized in the planning process under subsection (a) of this section for the purpose of improving the programs. The evaluations shall determine the degree to which the program is being conducted consistent with the program plan and meeting its goals and objectives. The Secretary shall submit to the appropriate committees of the Congress the results of the evaluations required by this subsection.
 
 #### (e) Report on program plans and evaluations
 
@@ -66,7 +66,7 @@ The Secretary shall conduct at least 1 site visit for each grant, contract, and 
 
 &emsp;(vi) The limited English proficient population is the fastest growing in our Nation, and the growth is occurring in many parts of our Nation. In the Nation's 2 largest school districts, limited-English students make up almost half of all students initially entering school at the kindergarten level. Studies have documented apparent discrepancies in the levels of referral and placement of limited-English proficient children in special education. The Department of Education has found that services provided to limited-English proficient students often do not respond primarily to the pupil's academic needs. These trends pose special challenges for special education in the referral, assessment, and services for our Nation's students from non-English language backgrounds.
 
-&emsp;(B)(i) Greater efforts are needed to prevent the intensification of problems connected withmislabeling and high dropout rates among minority children with disabilities.
+&emsp;(B)(i) Greater efforts are needed to prevent the intensification of problems connected with mislabeling and high dropout rates among minority children with disabilities.
 
 &emsp;(ii) More minority children continue to be served in special education than would be expected from the percentage of minority students in the general school population.
 
@@ -82,17 +82,17 @@ The Secretary shall conduct at least 1 site visit for each grant, contract, and 
 
 &emsp;(ii) In 1989, of the 661,000 college and university professors, 4.6 percent were African-American and 3.1 percent were Hispanic. Of the 3,600,000 teachers, prekindergarten through high school, 9.4 percent were African-American and 3.9 percent were Hispanic.
 
-&emsp;(iii) Students from minority groups comprise more than 50 percent of K 12 public school enrollment in seven States yet minority enrollment in teacher training programs is less than 15 percent in all but six States.
+&emsp;(iii) Students from minority groups comprise more than 50 percent of K–12 public school enrollment in seven States yet minority enrollment in teacher training programs is less than 15 percent in all but six States.
 
 &emsp;(iv) As the number of African-American and Hispanic students in special education increases, the number of minority teachers and related service personnel produced in our colleges and universities continues to decrease.
 
 &emsp;(v) Ten years ago, 12.5 percent of the United States teaching force in public elementary and secondary schools were members of a minority group. Minorities comprised 21.3 percent of the national population at that time and were clearly underrepresented then among employed teachers. Today, the elementary and secondary teaching force is 3 to 5 percent minority, while one-third of the students in public schools are minority children.
 
-&emsp;(vi) As recently as 1984 85, Historically Black Colleges and Universities (HBCUs) supplied nearly half of the African-American teachers in the Nation. However, in 1988, HBCUs received only 2 percent of the discretionary funds for special education and related services personnel training.
+&emsp;(vi) As recently as 1984–85, Historically Black Colleges and Universities (HBCUs) supplied nearly half of the African-American teachers in the Nation. However, in 1988, HBCUs received only 2 percent of the discretionary funds for special education and related services personnel training.
 
 &emsp;(vii) While African-American students constitute 28 percent of total enrollment in special education, only 11.2 percent of individuals enrolled in preservice training programs for special education are African-American.
 
-&emsp;(viii) In 1986 87, of the degrees conferred in education at the B.A., M.A., and Ph.D levels, only 6, 8, and 8 percent, respectively, were awarded to African-American or Hispanic students.
+&emsp;(viii) In 1986–87, of the degrees conferred in education at the B.A., M.A., and Ph.D levels, only 6, 8, and 8 percent, respectively, were awarded to African-American or Hispanic students.
 
 &emsp;(D) Minorities and underserved persons are socially disadvantaged because of the lack of opportunities in training and educational programs, undergirded by the practices in the private sector that impede their full participation in the mainstream of society.
 
@@ -128,11 +128,11 @@ The Secretary shall conduct at least 1 site visit for each grant, contract, and 
 
 &emsp;(ii) a plan to meet the goals, if necessary.
 
-(Pub. L. 91 230, title VI, §610, as added Pub. L. 101 476, title I, §104, Oct. 30, 1990, 104 Stat. 1106.)
+(Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106.)
 
 #### Effective Date
 
-Section effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as an Effective Date of 1990 Amendment note under section 1087ee of this title.
+Section effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as an Effective Date of 1990 Amendment note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ The Secretary may make available to an Advisory Council any staff, information, 
 
 The following guidelines apply with respect to the conduct of business meetings of an Advisory Council:
 
-&emsp;(1) Each meeting shall be open to the public, and interested persons shall be permitted topresent oral or written statements on items on the agenda.
+&emsp;(1) Each meeting shall be open to the public, and interested persons shall be permitted to present oral or written statements on items on the agenda.
 
 &emsp;(2) Emergency meetings may be held at the call of the chairman or presiding officer.
 

@@ -1,10 +1,10 @@
-### §410pp–2 . Management
+### §410pp–2. Management
 
 #### (a) Purposes
 
 (1) The Secretary, acting through the Director of the National Park Service, and in consultation with the Advisory Commission established pursuant to section 410pp–4 of this title, shall manage the lands covered by any leasehold accepted by the Secretary pursuant to section 410pp–1 of this title as a unit of the National Park System consistent with the provisions of this subchapter, and sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title.
 
-(2) The Secretary shall protect, manage, and administer the park for the purposes of preserving the historical, archeological, natural, scientific, cultural, and other resources and values of the park and providing for the public understanding and enjoyment of the same in such a manner as to perpetuate these resources and values for future generations.
+(2) The Secretary shall protect, manage, and administer the park for the purposes of preserving the historical, archeological, natural, scientific, cultural, and other resources and values of the park and providing for the public understanding and enjoyment of the same in such amanner as to perpetuate these resources and values for future generations.
 
 (3) In implementing this subchapter, the Secretary shall cooperate with the Zuni Tribe.
 

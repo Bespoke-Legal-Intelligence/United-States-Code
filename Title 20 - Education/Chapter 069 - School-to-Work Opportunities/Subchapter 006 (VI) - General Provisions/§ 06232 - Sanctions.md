@@ -24,5 +24,5 @@
 
 The Secretaries shall not delegate any of the functions or authority specified in this section, other than to an officer whose appointment is required to be made by and with the advice and consent of the Senate.
 
-(Pub. L. 103 239, title VI, §602, May 4, 1994, 108 Stat. 604.)
+(Pub. L. 103–239, title VI, §602, May 4, 1994, 108 Stat. 604.)
 

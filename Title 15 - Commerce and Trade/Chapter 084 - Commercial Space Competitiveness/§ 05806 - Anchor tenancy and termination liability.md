@@ -2,7 +2,7 @@
 
 #### (a) Anchor tenancy contracts
 
-Subject to appropriations, the Administrator<sup>1</sup> or the Administrator of the National Oceanic and Atmospheric Administration may enter into multiyear anchor tenancy contracts for the purchase of a good or service if the appropriate Administrator determines that—
+Subject to appropriations, the Administrator <sup>1</sup> or the Administrator of the National Oceanic and Atmospheric Administration may enter into multiyear anchor tenancy contracts for the purchase of a good or service if the appropriate Administrator determines that—
 
 &emsp;(1) the good or service meets the mission requirements of the National Aeronautics and Space Administration or the National Oceanic and Atmospheric Administration, as appropriate;
 
@@ -12,7 +12,7 @@ Subject to appropriations, the Administrator<sup>1</sup> or the Administrator of
 
 &emsp;(4) existing or potential customers for the good or service other than the United States Government have been specifically identified;
 
-&emsp;(5) the long-term viability of the venture is not dependent upon a continued Government market or other nonreimbursable Government support; and
+&emsp;(5) the long-term viability of the venture is not dependent upon a continued Governmentmarket or other nonreimbursable Government support; and
 
 &emsp;(6) private capital is at risk in the venture.
 
@@ -34,11 +34,11 @@ Subject to appropriations, the Administrator<sup>1</sup> or the Administrator of
 
 (4) In any such contract, the appropriate Administrator shall reserve the right to completely or partially terminate the contract without payment of such termination liability because of the contractor's actual or anticipated failure to perform its contractual obligations.
 
-(Pub. L. 102 588, title V, §507, Nov. 4, 1992, 106 Stat. 5127.)
+(Pub. L. 102–588, title V, §507, Nov. 4, 1992, 106 Stat. 5127.)
 
 #### “Administrator” Defined
 
-Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102 588, 106 Stat. 5110.
+Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102–588, 106 Stat. 5110.
 
-<i><sup>1</sup></i><i>See “Administrator” Defined note below.</i>
+<i><sup>1</sup></i><i> See “Administrator” Defined note below.</i>
 

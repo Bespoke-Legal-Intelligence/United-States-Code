@@ -1,0 +1,66 @@
+### §5852. Agricultural Weather Office
+
+#### (a) Establishment of Office and administration of system
+
+#### (1) Establishment required
+
+&emsp;The Secretary of Agriculture shall establish in the Department of Agriculture an Agricultural Weather Office to plan and administer the National Agricultural Weather Information System. The system shall be comprised of the office established under this section and the activities of the State agricultural weather information systems described in section 5854 of this title.
+
+#### (2) Director
+
+&emsp;The Secretary shall appoint a Director to manage the activities of the Agricultural Weather Office and to advise the Secretary on scientific and programmatic coordination for climate, weather, and remote sensing.
+
+#### (b) Authority
+
+The Secretary, acting through the Office, may undertake the following activities to carry out this subchapter:
+
+&emsp;(1) Enter into cooperative projects with the National Weather Service to—
+
+&emsp;&emsp;(A) support operational weather forecasting and observation useful in agriculture;
+
+&emsp;&emsp;(B) sponsor joint workshops to train agriculturalists about the optimum utilization of agricultural weather and climate data;
+
+&emsp;&emsp;(C) jointly develop improved computer models and computing capacity; and
+
+&emsp;&emsp;(D) enhance the quality and availability of weather and climate information needed by agriculturalists.
+
+&emsp;(2) Obtain standardized weather observation data collected in near real time through State agricultural weather information systems.
+
+&emsp;(3) Make, through the Cooperative State Research Service, competitive grants under subsection (c) of this section for research in atmospheric sciences and climatology.
+
+&emsp;(4) Make grants to eligible States under section 5854 of this title to plan and administer State agricultural weather information systems.
+
+&emsp;(5) Coordinate the activities of the Office with the weather and climate research activities of the Cooperative State Research Service, the National Academy of Sciences, the National Science Foundation Atmospheric Services Program, and the National Climate Program.
+
+&emsp;(6) Encourage private sector participation in the National Agricultural Weather Information System through mutually beneficial cooperation with the private sector, particularly in generating weather and climatic data useful for site-specific agricultural weather forecasting.
+
+#### (c) Competitive grants program
+
+#### (1) Grants authorized
+
+&emsp;With funds allocated to carry out this subsection, the Secretary of Agriculture may make grants to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, private organizations and corporations, and individuals to carry out research in all aspects of atmospheric sciences and climatology that can be shown to be important in both a basic and developmental way to understanding, forecasting, and delivering agricultural weather information.
+
+#### (2) Competitive basis
+
+&emsp;Grants made under this subsection shall be made on a competitive basis.
+
+#### (d) Priority
+
+In selecting among applications for grants under subsection (c) of this section, the Secretary shall give priority to proposals which emphasize—
+
+&emsp;(1) techniques and processes that relate to weather-induced agricultural losses, and to improving the advisory information on weather extremes such as drought, floods, freezes, and storms well in advance of their actual occurrence;
+
+&emsp;(2) the improvement of site-specific weather data collection and forecasting; or
+
+&emsp;(3) the impact of weather on economic and environmental costs in agricultural production.
+
+(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6), Dec. 13, 1991, 105 Stat. 1865.)
+
+#### Amendments
+
+1991—Subsec. (b)(5). Pub. L. 102–237 substituted “National Science Foundation” for “National Sciences Foundation”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5855 of this title.
+

@@ -36,5 +36,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6383, 6384, 6386 of this title.
+This section is referred to in sections 6383, 6384, 6386 of this title; title 2 section 1371.
 

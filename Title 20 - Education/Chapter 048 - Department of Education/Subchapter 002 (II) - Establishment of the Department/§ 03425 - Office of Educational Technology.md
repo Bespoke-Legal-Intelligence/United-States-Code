@@ -12,7 +12,7 @@ The Director of the Office of Educational Technology (hereafter in this section 
 
 &emsp;(2) review all programs and training functions administered by the Department and recommend policies in order to promote increased use of technology and technology planning throughout all such programs and functions;
 
-&emsp;(3) review all relevant programs supported by the Department to ensure that such programs are coordinated with and support the national long-range technology plan developed pursuant to section 5862(b)<sup>1</sup> of this title; and
+&emsp;(3) review all relevant programs supported by the Department to ensure that such programs are coordinated with and support the national long-range technology plan developed pursuant to section 5862(b) <sup>1</sup> of this title; and
 
 &emsp;(4) perform such additional functions as the Secretary may require.
 
@@ -24,19 +24,19 @@ The Director is authorized to select, appoint, and employ such officers and empl
 
 The Secretary may obtain the services of experts and consultants in accordance with section 3109 of title 5.
 
-(Pub. L. 96 88, title II, §216, as added Pub. L. 103 227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154.)
+(Pub. L. 96–88, title II, §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154.)
 
 #### References in Text
 
-Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103 382, title III, §361(a), Oct. 20, 1994, 108 Stat. 3974.
+Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103–382, title III, §361(a), Oct. 20, 1994, 108 Stat. 3974.
 
 The provisions of title 5 (governing appointments in the competitive service), referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Codification
 
-Another section 216 of Pub. L. 96 88 was enacted by Pub. L. 103 382 and is classified to section 3423d of this title.
+Another section 216 of Pub. L. 96–88 was enacted by Pub. L. 103–382 and is classified to section 3423d of this title.
 
 #### Transfer of Office of Training Technology Transfer
 
-Section 236(a)(1) of Pub. L. 103 227 provided that: “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology.”
+Section 236(a)(1) of Pub. L. 103–227 provided that: “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology.”
 

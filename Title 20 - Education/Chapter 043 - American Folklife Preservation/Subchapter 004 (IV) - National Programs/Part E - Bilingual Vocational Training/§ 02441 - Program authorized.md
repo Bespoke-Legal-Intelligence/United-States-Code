@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; institutions serving individuals with limited English proficiency; uses of grants and contracts
 
-(1) From the sums made available to carry out this section in each fiscal year under section 2302(d)<sup>1</sup> of this title, the Secretary is authorized to make grants to and to enter into contracts with appropriate State agencies, local educational agencies, postsecondary educational institutions, private nonprofit vocational training institutions, and other nonprofit organizations specially created to serve individuals who normally use a language other than English, for bilingual vocational education and training for individuals with limited English proficiency to prepare such individuals for jobs in recognized occupations and new and emerging occupations. Such training shall include instruction in the English language to ensure that participants in such training will be equipped to pursue such occupations in an English language environment. The Secretary may also enter into contracts with private for-profit agencies and organizations for bilingual vocational education and training programs.
+(1) From the sums made available to carry out this section in each fiscal year under section 2302(d) <sup>1</sup> of this title, the Secretary is authorized to make grants to and to enter into contracts with appropriate State agencies, local educational agencies, postsecondary educational institutions, private nonprofit vocational training institutions, and other nonprofit organizations specially created to serve individuals who normally use a language other than English, for bilingual vocational education and training for individuals with limited English proficiency to prepare such individuals for jobs in recognized occupations and new and emerging occupations. Such training shall include instruction in the English language to ensure that participants in such training will be equipped to pursue such occupations in an English language environment. The Secretary may also enter into contracts with private for-profit agencies and organizations for bilingual vocational education and training programs.
 
 (2) Grants and contracts under this subsection may be used for—
 
@@ -38,7 +38,7 @@
 
 #### (d) Submission of application to Secretary; contents; Secretary to consult with State board; approval of application
 
-(1) Any eligible entity which desires to receive a grant from the Secretary under subsection (a), (b), or (c) of this section shall submit an application to the Secretary in such form, at such times, and accompanied by such information as the Secretary may require. Such application shall provide that the activities and services for which assistance is sought will be administered by or under the supervision of the applicant.
+(1) Any eligible entity which desires to receive a grant from the Secretary under subsection (a),\(b), or (c) of this section shall submit an application to the Secretary in such form, at such times, and accompanied by such information as the Secretary may require. Such application shall provide that the activities and services for which assistance is sought will be administered by or under the supervision of the applicant.
 
 (2) An application pursuant to subsection (a) of this section shall (A) set forth a program of such size, scope, and design as will make a substantial contribution toward carrying out the purposes of this section, and (B) be submitted to the State board or agency under section 2321 of this title for review and comment. Any such comments shall be included for submission to the Secretary.
 
@@ -52,7 +52,7 @@
 
 &emsp;(C) describe minimum qualifications for individuals participating or to participate in any program, describe the selection process for such individuals, and the projected amount of the fellowships or traineeships, if any.
 
-(5) Prior to making grants or contracts under subsection (a) or (b) of this section, the Secretary shall consult with the State board undersection 2321 of this title to ensure an equitable distribution of assistance among populations of individuals with limited English proficiency within the State.
+(5) Prior to making grants or contracts under subsection (a) or (b) of this section, the Secretary shall consult with the State board under section 2321 of this title to ensure an equitable distribution of assistance among populations of individuals with limited English proficiency within the State.
 
 (6) The Secretary may approve an application for assistance under this section only if the application meets the requirements set forth under this section. An amendment to an application shall, except as the Secretary may otherwise provide, be subject to approval in the same manner as the initial application.
 
@@ -62,7 +62,7 @@
 
 (2) Programs of bilingual vocational education and training under this section in the Commonwealth of Puerto Rico may provide for the needs of students of limited Spanish proficiency.
 
-(3) The Secretary of Education, in consultation with the Secretary of Labor, shall gather and disseminate information concerning the status of bilingual vocational education in all geographic regions and shall evaluate the impact of bilingual vocational education on occupational shortages of skilled workers, the unemployment or underemployment of individuals with limited English proficiency, and the ability of such individuals to acquire sufficient job skills and English language skills to fully contribute to the economy. The Secretary of Education and the Secretary of Labor shall annually report their findings to the President and the Congress.
+(3) The Secretary of Education, in consultation with the Secretary of Labor, shall gather and disseminate information concerning the status of bilingual vocational education in all geographic regions and shall evaluate the impact of bilingual vocational education on occupational shortages of skilled workers, the unemployment or underemployment of individuals with limited English proficiency, and the ability of such individuals to acquire sufficient job skills and English language skills to fully contribute to the economy.
 
 #### (f) Minimum funding for grants and contracts
 
@@ -72,9 +72,13 @@
 
 (3) For each fiscal year, not less than 10 per centum of sums appropriated for the purposes of this section shall be available only for grants and contracts under subsection (c) of this section.
 
-(Pub. L. 88 210, title IV, §441, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2477.)
+(Pub. L. 88–210, title IV, §441, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2477; amended Pub. L. 104–66, title I, §1041(h), Dec. 21, 1995, 109 Stat. 715.)
 
 #### References in Text
 
-Section 2302 of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 101 392, §3, Sept. 25, 1990, 104 Stat. 756, and, as so amended, provisions relating to bilingual vocational training programs, which formerly appeared in subsec. (d), are contained in subsec. (f)(2).
+Section 2302 of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, and, as so amended, provisions relating to bilingual vocational training programs, which formerly appeared in subsec. (d), are contained in subsec. (f)(2).
+
+#### Amendments
+
+1995—Subsec. (e)(3). Pub. L. 104–66 struck out at end “The Secretary of Education and the Secretary of Labor shall annually report their findings to the President and the Congress.”
 

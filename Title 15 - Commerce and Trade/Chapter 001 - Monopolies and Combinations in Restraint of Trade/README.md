@@ -107,6 +107,10 @@
 | [36\.](%C2%A7%2000036%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20on%20claim%20against%20person%20based%20on%20official%20action%20directed%20by%20local%20government%2C%20or%E2%80%A6.md) | Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity. |
 | (a) | Prohibition in general. |
 | (b) | Nonapplication of prohibition for cases commenced before effective date of provisions. |
+| [37\.](%C2%A7%2000037%20-%20Modification%20of%20antitrust%20laws.md) | Modification of antitrust laws. |
+| (a) | Exempt conduct. |
+| (b) | Limitation. |
+| [37a.](%C2%A7%2000037a%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -116,11 +120,7 @@ This chapter includes among other statutory provisions the Sherman Act, comprisi
 
 #### Congressional Investigation of Monopoly
 
-Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services.
-
-The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225.
-
-The committee's report was presented to Congress on March 31, 1941, and was published in Senate Document No. 35.
+Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee's report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
 
 #### Executive Order No. 12022
 
@@ -138,13 +138,7 @@ Automobile dealer suits against manufacturers, see chapter 27 of this title.
 
 Bids for services and supplies for armed forces violating anti-trust laws, reference to Attorney General, see section 2305 of Title 10, Armed Forces.
 
-Carriers—
-
-&emsp;&emsp;Agreements between carriers as to rates, spares, etc., see section 10706 of Title 49, Transportation.
-
-&emsp;&emsp;Combinations to prevent continuous carriage of freight prohibited, see section 10745 of Title 49.
-
-&emsp;&emsp;Consolidation or merger as relieving from operation of anti-trust laws, see section 11341 of Title 49.
+Agreements between carriers as to rates, etc., see section 10706 of Title 49, Transportation.
 
 Department of Commerce, see section 1501 et seq. of this title.
 
@@ -248,3 +242,5 @@ Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 
 - [&sect; 00034 - Definitions applicable to sections 34 to 36](%C2%A7%2000034%20-%20Definitions%20applicable%20to%20sections%2034%20to%2036.md)
 - [&sect; 00035 - Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official&#8230;](%C2%A7%2000035%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20from%20any%20local%20government%2C%20or%20official%20or%20employee%20thereof%20acting%20in%20an%20official%E2%80%A6.md)
 - [&sect; 00036 - Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or&#8230;](%C2%A7%2000036%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20on%20claim%20against%20person%20based%20on%20official%20action%20directed%20by%20local%20government%2C%20or%E2%80%A6.md)
+- [&sect; 00037 - Modification of antitrust laws](%C2%A7%2000037%20-%20Modification%20of%20antitrust%20laws.md)
+- [&sect; 00037a - Definitions](%C2%A7%2000037a%20-%20Definitions.md)

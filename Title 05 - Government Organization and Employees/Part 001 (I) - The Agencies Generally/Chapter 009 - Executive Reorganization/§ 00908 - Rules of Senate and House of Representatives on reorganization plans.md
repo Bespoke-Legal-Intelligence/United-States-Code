@@ -26,9 +26,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1984—Par. (1). Pub. L. 98–614 substituted “with respect to any reorganization plans transmitted to Congress (in accordance with section 903(b) of this chapter) on or before December 31, 1984” for “described in section 909 of this title”.
+<b>1984</b>—Par. (1). Pub. L. 98–614 substituted “with respect to any reorganization plans transmitted to Congress (in accordance with section 903(b) of this chapter) on or before December 31, 1984” for “described in section 909 of this title”.
 
-1977—Pub. L. 95–17 substituted “Sections 909 through 912 of this title” for “Sections 909–913 of this title” in provisions preceding par. (1).
+<b>1977</b>—Pub. L. 95–17 substituted “Sections 909 through 912 of this title” for “Sections 909–913 of this title” in provisions preceding par. (1).
 
 #### Section Referred to in Other Sections
 

@@ -206,7 +206,7 @@ Pub. L. 102–569, §102(p)(12)(A), substituted “individuals with disabilities
 
 Subsec. (b)(9) to (11). Pub. L. 102–569, §203(b)(6), added pars. (9) to (11).
 
-Subsec. (c)(1). Pub. L. 102–569, §203(c)(1), in first sentence, substituted “appointed by the Secretary, except that the person serving as the Director on October 29, 1992, may, at the pleasure of the President, continue to serve as Director” for “appointed by the President, by and with the advice and consent of the Senate” andstruck out fourth sentence which read as follows: “In carrying out any of the Director's functions under this section, the Director shall be guided by general policies of the National Council on Disability established in subchapter IV of this chapter.”
+Subsec. (c)(1). Pub. L. 102–569, §203(c)(1), in first sentence, substituted “appointed by the Secretary, except that the person serving as the Director on October 29, 1992, may, at the pleasure of the President, continue to serve as Director” for “appointed by the President, by and with the advice and consent of the Senate” and struck out fourth sentence which read as follows: “In carrying out any of the Director's functions under this section, the Director shall be guided by general policies of the National Council on Disability established in subchapter IV of this chapter.”
 
 Pub. L. 102–569, §102(p)(12)(B), substituted “National Council on Disability” for “National Council on the Handicapped” in fourth sentence.
 
@@ -258,7 +258,7 @@ Pub. L. 100–630, §203(b)(2)(B), which directed amendment of par. (1) by strik
 
 Subsec. (c)(3). Pub. L. 100–630, §203(b)(3), inserted comma after “to such provisions”.
 
-Subsec. (g). Pub. L. 100–630, §203(b)(4)(A), which directed amendment of the second sentence of subsec. (g) by striking “in the consultation” and inserting “in consultation” could not be executed because the words “in the consultation” did not appear.
+Subsec. (g). Pub. L. 100–630, §203(b)(4)(A), which directed amendment of the second sentence of subsec. (g)by striking “in the consultation” and inserting “in consultation” could not be executed because the words “in the consultation” did not appear.
 
 Pub. L. 100–630, §203(b)(4)(B), (5), in concluding provisions, substituted “National Council on Disability” for “National Council on the Handicapped” and “the Director considers necessary” for “necessary”.
 
@@ -268,7 +268,7 @@ Subsec. (j)(2). Pub. L. 100–630, §203(b)(7), amended par. (2) generally. Prio
 
 Subsec. (<i>l</i>). Pub. L. 100–630, §203(b)(8), substituted “Director or the Interagency Committee on Disability Research” for “Director or the Committee on Handicapped Research”, inserted a comma after “Further”, and substituted “views of the Interagency Committee on Disability Research” for “views of the Interagency Committee on Handicapped Research”.
 
-1986—Pub. L. 99–506, §302, substituted “National Institute on Disability and Rehabilitation Research” for“National Institute of Handicapped Research” in section catchline.
+1986—Pub. L. 99–506, §302, substituted “National Institute on Disability and Rehabilitation Research” for “National Institute of Handicapped Research” in section catchline.
 
 Subsec. (a). Pub. L. 99–506, §§103(d)(2)(C), 302, 1001(c)(1), substituted “individuals with handicaps” for “handicapped individuals”, “National Institute on Disability and Rehabilitation Research” for “National Institute of Handicapped Research” and “the functions of the office” for “his functions”.
 

@@ -10,7 +10,7 @@
 
 &emsp;(A) be incompatible with existing State or local land use plans or programs; or
 
-&emsp;(B) affect fragile or historic lands in which such operations could result in significantdamage to important historic, cultural, scientific, and esthetic values and natural systems; or
+&emsp;(B) affect fragile or historic lands in which such operations could result in significant damage to important historic, cultural, scientific, and esthetic values and natural systems; or
 
 &emsp;(C) affect renewable resource lands in which such operations could result in a substantial loss or reduction of long-range productivity of water supply or of food or fiber products, and such lands to include aquifers and aquifer recharge areas; or
 
@@ -52,11 +52,11 @@ After August 3, 1977, and subject to valid existing rights no surface coal minin
 
 &emsp;&emsp;(A) surface operations and impacts are incident to an underground coal mine; or
 
-&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within those national forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960\[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
+&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within those national forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
 
 &emsp;(3) which will adversely affect any publicly owned park or places included in the National Register of Historic Sites unless approved jointly by the regulatory authority and the Federal, State, or local agency with jurisdiction over the park or the historic site;
 
-&emsp;(4) within one hundred feet of the outside right-of-way line of any public road, except where mine access roads or haulage roads join such right-of-way line and except that the regulatory authority may permit such roads to be relocated or the area affected to lie within one hundred feet of such road, if after public notice and opportunity for public hearing in the locality a written finding is made that the interests of the public and the landowners affected thereby will be protected; or
+&emsp;(4) within one hundred feet of the outside right-of-way line of any public road, except where mine access roads or haulage roads joinsuch right-of-way line and except that the regulatory authority may permit such roads to be relocated or the area affected to lie within one hundred feet of such road, if after public notice and opportunity for public hearing in the locality a written finding is made that the interests of the public and the landowners affected thereby will be protected; or
 
 &emsp;(5) within three hundred feet from any occupied dwelling, unless waived by the owner thereof, nor within three hundred feet of any public building, school, church, community, or institutional building, public park, or within one hundred feet of a cemetery.
 

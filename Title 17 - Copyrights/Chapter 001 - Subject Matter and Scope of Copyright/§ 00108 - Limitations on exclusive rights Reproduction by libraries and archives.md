@@ -4,7 +4,7 @@
 
 &emsp;(1) the reproduction or distribution is made without any purpose of direct or indirect commercial advantage;
 
-&emsp;(2) the collections of the library or archives are (i) open to the public, or (ii) available notonly to researchers affiliated with the library or archives or with the institution of which it is a part, but also to other persons doing research in a specialized field; and
+&emsp;(2) the collections of the library or archives are (i) open to the public, or (ii) available not only to researchers affiliated with the library or archives or with the institution of which it is a part, but also to other persons doing research in a specialized field; and
 
 &emsp;(3) the reproduction or distribution of the work includes a notice of copyright.
 
@@ -20,7 +20,7 @@
 
 (e) The rights of reproduction and distribution under this section apply to the entire work, or to a substantial part of it, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, if the library or archives has first determined, on the basis of a reasonable investigation, that a copy or phonorecord of the copyrighted work cannot be obtained at a fair price, if—
 
-&emsp;(1) the copy or phonorecord becomes the property of the user, and the library or archives has had no notice that the copy or phonorecord would be used for any purpose other than private study, scholarship, or research; and
+&emsp;(1) the copy or phonorecord becomes the property of the user, and the library or archives has had no notice that the copy or phonorecord would be used for any purposeother than private study, scholarship, or research; and
 
 &emsp;(2) the library or archives displays prominently, at the place where orders are accepted, and includes on its order form, a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
@@ -64,7 +64,7 @@ There is a direct interrelationship between this problem and the prohibitions ag
 
 > Moreover, a library in a profit-making organization could not evade these obligations by installing reproducing equipment on its premises for unsupervised use by the organization's staff.
 
-Isolated, spontaneous making of single photocopies by a library in a for-profit organization, without any systematic effort to substitute photocopying for subscriptions or purchases, would be covered by section 108, even though the copies are furnished to the employees of the organization for use in their work. Similarly, for-profit libraries could participate in interlibrary arrangements for exchange of photocopies, as long as the reproduction or distribution was not “systematic.” These activities, by themselves, would ordinarily not be considered “for direct or indirect commercial advantage,” since the “advantage” referred to in this clause must attach to the immediate commercial motivation behind the reproduction or distribution itself, rather than to the ultimate profit-making motivation behind the enterprise in which the library is located. On the other hand, section 108 would not excuse reproduction or distribution if there were a commercial motive behind the actual making or distributing of the copies, if multiple copies were made or distributed, or if the photocopying activities were “systematic” in the sense that their aim was to substitute for subscriptions or purchases.
+Isolated, spontaneous making of single photocopies by a library in a for-profit organization, without any systematic effort to substitute photocopying for subscriptions or purchases, would be covered by section 108, even though the copies are furnished to the employees of the organization for use in their work. Similarly, for-profit libraries could participate in interlibrary arrangements for exchange of photocopies, as long as the reproduction or distribution was not “systematic.” These activities, by themselves, would ordinarily not be considered “for direct or indirect commercial advantage,” since the “advantage” referred to in this clause must attach to the immediate commercial motivation behind the reproduction or distribution itself, rather than to the ultimate profit-making motivation behind the enterprise in which the library is located. On the other hand, section 108 would not excuse reproduction or distribution if there were a commercial motive behind the actual making or distributing of thecopies, if multiple copies were made or distributed, or if the photocopying activities were “systematic” in the sense that their aim was to substitute for subscriptions or purchases.
 
 The rights of reproduction and distribution under section 108 apply in the following circumstances:
 

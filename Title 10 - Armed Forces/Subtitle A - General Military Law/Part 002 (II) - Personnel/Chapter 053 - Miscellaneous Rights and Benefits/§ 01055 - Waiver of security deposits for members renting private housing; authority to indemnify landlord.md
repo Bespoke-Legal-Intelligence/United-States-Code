@@ -18,7 +18,7 @@
 
 (2) Any authority of the Secretary of a military department under this section shall be exercised under regulations prescribed by the Secretary of Defense.
 
-(c)(1) The Secretary of a military department who compensates a landlord under subsection (b) for a breach of a lease or for damage described in subsection (b)(1)(C) may issue a special order under section 1007 of title 37 to authorize thewithholding from the pay of the member of an amount equal to the amount paid by the Secretary to the landlord as compensation for the breach or damage.
+(c)(1) The Secretary of a military department who compensates a landlord under subsection (b) for a breach of a lease or for damage described in subsection (b)(1)(C) may issue a special order under section 1007 of title 37 to authorize the withholding from the pay of the member of an amount equal to the amount paid by the Secretary to the landlord as compensation for the breach or damage.
 
 (2) Before the Secretary of a military department issues a special order under section 1007 of title 37 to authorize the withholding of any amount from the pay of a member for a breach or damage referred to in paragraph (1), the Secretary concerned shall provide the member with the same notice and opportunity for hearing and record inspection as provided an individual under section 5514(a)(2) of title 5. The Secretary concerned shall prescribe regulations, subject to the approval of the President, to carry out this paragraph. Such regulations shall be as uniform for the military departments as practicable.
 

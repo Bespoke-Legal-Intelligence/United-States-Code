@@ -16,15 +16,15 @@ In carrying into effect the provisions of this chapter, the Secretary and the Co
 
 No regulation adopted under this chapter shall preclude the continued use of returnable or reusable glass containers for beverages in inventory or with the trade as of the effective date of this Act, nor shall any regulation under this chapter preclude the orderly disposal of packages in inventory or with the trade as of the effective date of such regulation.
 
-(Pub. L. 89 755, §6, Nov. 3, 1966, 80 Stat. 1299; Pub. L. 96 88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 89–755, §6, Nov. 3, 1966, 80 Stat. 1299; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References in Text
 
-The effective date of this Act, referred to in subsec. (d), refers to the effective date of Pub. L. 89 755 which enacted this chapter to take effect July 1, 1967. See Effective Date note set out under section 1451 of this title.
+The effective date of this Act, referred to in subsec. (d), refers to the effective date of Pub. L. 89–755 which enacted this chapter to take effect July 1, 1967. See Effective Date note set out under section 1451 of this title.
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a), pursuant to section 509(b) of Pub. L. 96 88, which is classified to section 3508(b) of Title 20, Education.
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

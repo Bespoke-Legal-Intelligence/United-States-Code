@@ -52,7 +52,7 @@ If, for any fiscal year from 1991 through 1998, a provision of direct spending o
 
 #### References in Text
 
-This Act, referred to in subsec. (a), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 ofthis title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -84,7 +84,7 @@ Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665, 665e, 900, 901, 903, 904, 906, 907d, 908, 922 of this title; title 7 section 1446; title 16 sections 3834, 3837d, 3839c; title 31 section 1341; title 39 section 2009a.
+This section is referred to in sections 665, 665e, 900, 901, 903, 904, 906, 907d, 908, 922 of this title; title 7 section 1446; title 16 sections 3834, 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 39 section 2009a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1998”.</i>
 

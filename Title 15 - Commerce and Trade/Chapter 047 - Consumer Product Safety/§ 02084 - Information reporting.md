@@ -20,7 +20,7 @@ The 24-month periods referred to in subsection (a) of this section are the 24-mo
 
 &emsp;(D) A statement as to whether the civil action resulted in a final settlement or a judgment in favor of the plaintiff.
 
-&emsp;(E) in<sup>1</sup> the case of a judgment in favor of the plaintiff, the name of the civil action, the number assigned the civil action, and the court in which the civil action was filed.
+&emsp;(E) in <sup>1</sup> the case of a judgment in favor of the plaintiff, the name of the civil action, the number assigned the civil action, and the court in which the civil action was filed.
 
 (2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) of this section need not admit or may specifically deny that the information it submits reasonably supports the conclusion that its consumer product caused a death or grievous bodily injury.
 
@@ -48,11 +48,11 @@ For purposes of this section:
 
 &emsp;(2) For purposes of this section,<sup>2</sup> a particular model of a consumer product is one that is distinctive in functional design, construction, warnings or instructions related to safety, function, user population, or other characteristics which could affect the product's safety related performance.
 
-(Pub. L. 92 573, §37, as added Pub. L. 101 608, title I, §112(b), Nov. 16, 1990, 104 Stat. 3115.)
+(Pub. L. 92–573, §37, as added Pub. L. 101–608, title I, §112(b), Nov. 16, 1990, 104 Stat. 3115.)
 
 #### Congressional Reports
 
-Section 112(f) of Pub. L. 101 608 provided that:
+Section 112(f) of Pub. L. 101–608 provided that:
 
 “(1) The Consumer Product Safety Commission shall report to the Congress on the extent to which reports made to the Commission under section 37 of the Consumer Product Safety Act \[15 U.S.C. 2084\] have assisted the Commission in carrying out its responsibilities under such Act \[15 U.S.C. 2051 et seq.\]. The report—
 

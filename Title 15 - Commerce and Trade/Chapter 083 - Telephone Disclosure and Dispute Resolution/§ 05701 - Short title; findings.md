@@ -16,7 +16,7 @@ The Congress finds the following:
 
 &emsp;(4) The lack of nationally uniform regulatory guidelines has led to confusion for callers, subscribers, industry participants, and regulatory agencies as to the rights of callers and the oversight responsibilities of regulatory authorities, and has allowed some pay-per-call businesses to engage in practices that abuse the rights of consumers.
 
-&emsp;(5) Some interstate pay-per-call businesses have engaged in practices which are misleading to the consumer, harmful to the public interest, or contrary to accepted standards of business practices and thus cause harm to themany reputable businesses that are serving the public.
+&emsp;(5) Some interstate pay-per-call businesses have engaged in practices which are misleading to the consumer, harmful to the public interest, or contrary to accepted standards of business practices and thus cause harm to the many reputable businesses that are serving the public.
 
 &emsp;(6) Because the consumer most often incurs a financial obligation as soon as a pay-per-call transaction is completed, the accuracy and descriptiveness of vendor advertisements become crucial in avoiding consumer abuse. The obligation for accuracy should include price-per-call and duration-of-call information, odds disclosure for lotteries, games, and sweepstakes, and obligations for obtaining parental consent from callers under 18.
 
@@ -24,9 +24,9 @@ The Congress finds the following:
 
 &emsp;(8) Vendors of telephone-billed goods and services must also feel confident in their rights and obligations for resolving billing disputes if they are to use this new marketplace for the sale of products of more than nominal value.
 
-(Pub. L. 102 556, §1, Oct. 28, 1992, 106 Stat. 4181.)
+(Pub. L. 102–556, §1, Oct. 28, 1992, 106 Stat. 4181.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 102 556, Oct. 28, 1992, 106 Stat. 4181, which enacted this chapter and section 228 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amended sections 227 and 302a of Title 47, enacted provisions set out as a note under section 302a of Title 47, and amended provisions set out as a note under section 227 of Title 47. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 102–556, Oct. 28,1992, 106 Stat. 4181, which enacted this chapter and section 228 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amended sections 227 and 302a of Title 47, enacted provisions set out as a note under section 302a of Title 47, and amended provisions set out as a note under section 227 of Title 47. For complete classification of this Act to the Code, see Tables.
 

@@ -1,4 +1,4 @@
-### §460uu–22 . Management
+### §460uu–22. Management
 
 #### (a) Provisions applicable
 

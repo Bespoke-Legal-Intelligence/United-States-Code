@@ -34,9 +34,9 @@ The Congress finds and declares the following:
 
 &emsp;(16) It is in the best interest of the United States to maintain a permanent, comprehensive Government archive of global Landsat and other land remote sensing data for long-term monitoring and study of the changing global environment.
 
-(Pub. L. 102 555, §2, Oct. 28, 1992, 106 Stat. 4163.)
+(Pub. L. 102–555, §2, Oct. 28, 1992, 106 Stat. 4163.)
 
 #### Short Title
 
-Section 1 of Pub. L. 102 555 provided that: “This Act \[enacting this chapter and repealing chapter 68 (§4201 et seq.) of this title\] may be cited as the ‘Land Remote Sensing Policy Act of 1992’.”
+Section 1 of Pub. L. 102–555 provided that: “This Act \[enacting this chapter and repealing chapter 68 (§4201 et seq.) of this title\] may be cited as the ‘Land Remote Sensing Policy Act of 1992’.”
 

@@ -42,7 +42,7 @@ The Secretary of Commerce shall carry out the Market Development Cooperator Prog
 
 Contracts may be entered into under this section in a fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
-(Pub. L. 100 418, title II, §2303, Aug. 23, 1988, 102 Stat. 1342.)
+(Pub. L. 100–418, title II, §2303, Aug. 23, 1988, 102 Stat. 1342.)
 
 #### Section Referred to in Other Sections
 

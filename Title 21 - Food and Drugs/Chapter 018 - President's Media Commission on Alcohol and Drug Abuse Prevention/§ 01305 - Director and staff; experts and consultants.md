@@ -12,7 +12,7 @@ The Moderator, with the approval of the Commission, may procure temporary and in
 
 #### (c) Staff of Federal agencies
 
-Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of suchagency to the Commission to assist the Commission in carrying out its duties under this chapter.
+Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this chapter.
 
 (Pub. L. 99–570, title VIII, §8006, Oct. 27, 1986, 100 Stat. 3207–163.)
 

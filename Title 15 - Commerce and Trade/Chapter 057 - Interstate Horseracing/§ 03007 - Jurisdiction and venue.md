@@ -12,5 +12,5 @@ A civil action under this chapter may be brought in any district court of the Un
 
 The jurisdiction of the district courts of the United States pursuant to this section shall be concurrent with that of any State court of competent jurisdiction located in the host State or the off-track State.
 
-(Pub. L. 95 515, §8, Oct. 25, 1978, 92 Stat. 1814.)
+(Pub. L. 95–515, §8, Oct. 25, 1978, 92 Stat. 1814.)
 

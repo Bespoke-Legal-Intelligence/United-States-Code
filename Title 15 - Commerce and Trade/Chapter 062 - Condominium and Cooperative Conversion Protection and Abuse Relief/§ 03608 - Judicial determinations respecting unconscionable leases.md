@@ -34,7 +34,7 @@ A rebuttal presumption of unconscionability exists if it is established that, in
 
 #### (c) Presentation of evidence after finding of unconscionability
 
-Whenever it is claimed, or appears to the court, that a lease or any portion thereof is, or may have been, unconscionable at the time it was made, the parties shall be afforded a reasonable opportunity to present evidence at least as to
+Whenever it is claimed, or appears to the court, that a lease or any portion thereof is, or may have been, unconscionable at the time it was made, the parties shall be afforded a reasonable opportunity to present evidence at least as to–
 
 &emsp;(1) the commercial setting of the negotiations;
 
@@ -42,11 +42,11 @@ Whenever it is claimed, or appears to the court, that a lease or any portion the
 
 &emsp;(3) the effect and purpose of the lease or portion of the lease or portion thereof, including its relationship to other contracts between the association, the unit owners and the developer or an affiliate of the developer; and
 
-&emsp;(4) the disparity between the amount charged under the lease and the value of thereal estate subject to the lease measured by the price at which similar real estate was readily obtainable in similar transactions.
+&emsp;(4) the disparity between the amount charged under the lease and the value of the real estate subject to the lease measured by the price at which similar real estate was readily obtainable in similar transactions.
 
 #### (d) Remedial relief; matters considered; attorneys’ fees
 
-Upon finding that any lease, or portion thereof, is unconscionable, the court shall exercise its authority to grant remedial relief as necessary to avoid an unconscionable result, taking into consideration the economic value of the lease. Such relief may include, but shall not be limited to rescission, reformation, restitution, the award of damages and reasonable attorney fees and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plantiff<sup>1</sup> is frivolous, malicious, or lacking in substantial merit.
+Upon finding that any lease, or portion thereof, is unconscionable, the court shall exercise its authority to grant remedial relief as necessary to avoid an unconscionable result, taking into consideration the economic value of the lease. Such relief may include, but shall not be limited to rescission, reformation, restitution, the award of damages and reasonable attorney fees and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plantiff <sup>1</sup> is frivolous, malicious, or lacking in substantial merit.
 
 #### (e) Actions allowed after termination of special developer control
 
@@ -56,15 +56,15 @@ Nothing in this section may be construed to authorize the bringing of an action 
 
 &emsp;(2) reforms any clause in the lease which contained an automatic rent increase clause, unless such agreement was entered into when the leaseholder or his affiliate held a majority of the votes in the owners’ association.
 
-(Pub. L. 96 399, title VI, §609, Oct. 8, 1980, 94 Stat. 1677.)
+(Pub. L. 96–399, title VI, §609, Oct. 8, 1980, 94 Stat. 1677.)
 
 #### Effective Date
 
-Section effective one year after Oct. 8, 1980, see section 618 of Pub. L. 96 399, set out as a note under section 3601 of this title.
+Section effective one year after Oct. 8, 1980, see section 618 of Pub. L. 96–399, set out as a note under section 3601 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3609, 3610, 3611, 3613 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “plaintiff”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “plaintiff”.</i>
 

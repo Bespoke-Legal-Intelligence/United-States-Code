@@ -38,9 +38,9 @@ A prior section 5362, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, Pub. L. 95�
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–89 substituted “chapter 55 of this title, retirement and life insurance under chapters 83, 84, and 87” for “chapters 54 and 55 of this title, retirement and life insurance under chapters 83 and 87” in introductory provisions, redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “for purposes of determining whether the employee is covered by the performance management and recognition system established under chapter 54 of this title, or”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–89 substituted “chapter 55 of this title, retirement and life insurance under chapters 83, 84, and 87” for “chapters 54 and 55 of this title, retirement and life insurance under chapters 83 and 87” in introductory provisions, redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “for purposes of determining whether the employee is covered by the performance management and recognition system established under chapter 54 of this title, or”.
 
-1984—Subsec. (c)(3). Pub. L. 98–615 substituted “performance management and recognition system established under chapter 54” for “merit pay system established under section 5402”.
+<b>1984</b>—Subsec. (c)(3). Pub. L. 98–615 substituted “performance management and recognition system established under chapter 54” for “merit pay system established under section 5402”.
 
 #### Effective Date of 1993 Amendment
 

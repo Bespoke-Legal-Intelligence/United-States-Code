@@ -28,7 +28,7 @@
 
 (c)(1) An employee or Member who is unmarried at the time of retiring under this chapter and who later marries may irrevocably elect, in a signed writing received by the Office within 2 years after such employee or Member marries or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8445 (or of the last such surviving former spouse, if there was more than one), a reduction in the current annuity of the retired employee or Member, in accordance with section 8419(a).
 
-(2) The election and reduction shall take effect the first day of the first month beginning 9months after the date of marriage. Any such election to provide a survivor annuity for an individual—
+(2) The election and reduction shall take effect the first day of the first month beginning 9 months after the date of marriage. Any such election to provide a survivor annuity for an individual—
 
 &emsp;(A) shall prospectively void any election made by the employee or Member under section 8420 with respect to such individual; or
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) with respect to whose spouse a waiver under subsection (a) has been made,
 
-> may, during the 18-month period beginning on such date, elect to have a reduction made under section 8419 in order to provide a survivor annuity under section 8442 for such spouse.
+> may, during the 18-month period beginning on such date, elect to have a reduction made undersection 8419 in order to provide a survivor annuity under section 8442 for such spouse.
 
 (2)(A) An election under this subsection shall not be effective unless the amount described in subparagraph (B) is deposited into the Fund before the expiration of the 18-month period referred to in paragraph (1).
 

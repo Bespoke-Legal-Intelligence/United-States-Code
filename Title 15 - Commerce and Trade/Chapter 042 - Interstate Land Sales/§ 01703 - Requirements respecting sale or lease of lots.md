@@ -10,7 +10,7 @@ It shall be unlawful for any developer or agent, directly or indirectly, to make
 
 &emsp;&emsp;(B) to sell or lease any lot unless a printed property report, meeting the requirements of section 1707 of this title, has been furnished to the purchaser or lessee in advance of the signing of any contract or agreement by such purchaser or lessee;
 
-&emsp;&emsp;(C) to sell or lease any lot where any part of the statement of record or the property report contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein pursuant to sections 1704 through 1707 of this title or any regulations thereunder; or
+&emsp;&emsp;(C) to sell or lease any lot where any part of the statement of record or the propertyreport contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein pursuant to sections 1704 through 1707 of this title or any regulations thereunder; or
 
 &emsp;&emsp;(D) to display or deliver to prospective purchasers or lessees advertising and promotional material which is inconsistent with information required to be disclosed in the property report; or
 
@@ -38,7 +38,7 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 &emsp;(1) a description of the lot which makes such lot clearly identifiable and which is in a form acceptable for recording by the appropriate public official responsible for maintaining land records in the jurisdiction in which the lot is located;
 
-&emsp;(2) that, in the event of a default or breach of the contract or agreement by the purchaser or lessee, the seller or lessor (or successorthereof) will provide the purchaser or lessee with written notice of such default or breach and of the opportunity, which shall be given such purchaser or lessee, to remedy such default or breach within twenty days after the date of the receipt of such notice; and
+&emsp;(2) that, in the event of a default or breach of the contract or agreement by the purchaser or lessee, the seller or lessor (or successor thereof) will provide the purchaser or lessee with written notice of such default or breach and of the opportunity, which shall be given such purchaser or lessee, to remedy such default or breach within twenty days after the date of the receipt of such notice; and
 
 &emsp;(3) that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
 
@@ -48,25 +48,25 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of this section, if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
-(Pub. L. 90 448, title XIV, §1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93 383, title VIII, §812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96 153, title IV, §403, Dec. 21, 1979, 93 Stat. 1127.)
+(Pub. L. 90–448, title XIV, §1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93–383, title VIII, §812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96–153, title IV, §403, Dec. 21, 1979, 93 Stat. 1127.)
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96 153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
+1979—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanyingrequired statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
 
-Subsec. (b). Pub. L. 96 153 substituted provisions relating to revocation of contracts or agreements for the sale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
+Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of contracts or agreements for the sale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
 
-Subsecs. (c) to (e). Pub. L. 96 153 added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
 
 1974—Subsec. (b). Pub. L. 383 substituted “until midnight of the third business day following the consummation of the transaction” for “within forty-eight hours” and struck out provisions relating to exceptions of contracts or agreements stipulating to the nonapplicability of the revocation authority to certain purchasers.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96 153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Section 812(c)(2) of Pub. L. 93 383 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
+Section 812(c)(2) of Pub. L. 93–383 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
 
 #### Section Referred to in Other Sections
 

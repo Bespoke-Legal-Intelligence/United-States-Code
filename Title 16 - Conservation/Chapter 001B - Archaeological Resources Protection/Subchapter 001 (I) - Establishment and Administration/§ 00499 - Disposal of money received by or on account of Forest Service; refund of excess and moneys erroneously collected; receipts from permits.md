@@ -10,7 +10,7 @@ Section 471(b) of this title, referred to in text, was repealed by section 704(a
 
 #### Codification
 
-Section is a combination provision the basis for which is Act Mar. 4, 1907, which superseded previous provisions relating to the disposal of money receivedfrom sale of products or use of any land or resources of the forest reserves, contained in Act Feb. 1, 1905, ch. 288, §5, 33 Stat. 628.
+Section is a combination provision the basis for which is Act Mar. 4, 1907, which superseded previous provisions relating to the disposal of money received from sale of products or use of any land or resources of the forest reserves, contained in Act Feb. 1, 1905, ch. 288, §5, 33 Stat. 628.
 
 Act Mar. 4, 1911, is the source of the last portion of the section beginning with the words, “and also so much as may be necessary,” etc. That Act provides that so much of the former Act “which provides for refunds by the Secretary of Agriculture to depositors of moneys to secure the purchase price of timber or the use of lands or resources of the national forests such sums as may be found to be in excess of the amounts found actually due the United States, be, and is hereby, amended hereafter to appropriate and to include so much;”.
 

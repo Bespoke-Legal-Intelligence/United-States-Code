@@ -16,19 +16,19 @@ Approval.—The Secretary of Transportation shall approve an agreement, request,
 
 &emsp;(2) an agreement that—
 
-&emsp;&emsp;(A) is between an air carrier not directly operating aircraft in foreign air transportation and a common carrier subject to subtitle IV of this title; and
+&emsp;&emsp;(A) is between an air carrier not directly operating aircraft in foreign air transportation and a carrier subject to subtitle IV of this title; and
 
 &emsp;&emsp;(B) governs the compensation the common carrier may receive for the transportation.
 
 (c)
 
-Notice and Opportunity To Respond or for Hearing.—(1) When an agreement, request, modification, or cancellation is filed, the Secretary of Transportation shall give the Attorney General and the Secretary of State written notice of, and an opportunity to submit written comments about, the filing. On the initiative of the Secretary of Transportation or on request of the Attorney General or Secretary of State, the Secretary of Transportation may conduct a hearing to decide whether an agreement, request, modification, or cancellation is consistent with this part whether or not it was approved previously.
+Notice and Opportunity To Respond or for Hearing.—(1) When an agreement, request, modification, or cancellation is filed, the Secretary of Transportation shall give the Attorney General and the Secretary of State written notice of, and an opportunity to submit written comments about, the filing. On the initiative ofthe Secretary of Transportation or on request of the Attorney General or Secretary of State, the Secretary of Transportation may conduct a hearing to decide whether an agreement, request, modification, or cancellation is consistent with this part whether or not it was approved previously.
 
 (2) In a proceeding before the Secretary of Transportation applying standards under subsection (b)(1) of this section, a party opposing an agreement, request, modification, or cancellation has the burden of proving that it substantially reduces or eliminates competition and that less anticompetitive alternatives are available. The party defending the agreement, request, modification, or cancellation has the burden of proving the transportation need or public benefits.
 
 (3) The Secretary of Transportation shall include the findings required by subsection (b)(1) of this section in an order of the Secretary approving or disapproving an agreement, request, modification, or cancellation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129; Pub. L. 104–88, title III, §308(<i>l</i>), Dec. 29, 1995, 109 Stat. 948.)
 
 Historical and Revision Notes
 
@@ -91,6 +91,14 @@ In subsection (a), the words “(whether enforceable by provisions for liquidate
 In subsection (b), before clause (1), the words “The Board shall by order disapprove any contract, agreement, or request . . . that it finds to be adverse to the public interest or in violation of this chapter” are omitted as surplus because of the language restated in this subsection that sets out the requirements for approval by the Secretary of Transportation before the antitrust exemption is effective. The words “whether or not previously approved by it” are omitted as surplus because of the language in clause (1) requiring periodic review and continuing approval. The words “by order” are omitted as unnecessary because of 5:ch. 5, subch. II. The text of 49 App.:1382(a)(2)(A)(iii) is omitted as obsolete because of 49 App.:1551(a)(6) (related to 49 App.:1382).
 
 In subsection (c)(1), the words “in accordance with regulations which it prescribes” are omitted as surplus. The words “in accordance with regulations prescribed by the Board” are omitted as surplus.
+
+#### Amendments
+
+1995—Subsec. (b)(2)(A). Pub. L. 104–88 substituted “a carrier” for “a common carrier”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

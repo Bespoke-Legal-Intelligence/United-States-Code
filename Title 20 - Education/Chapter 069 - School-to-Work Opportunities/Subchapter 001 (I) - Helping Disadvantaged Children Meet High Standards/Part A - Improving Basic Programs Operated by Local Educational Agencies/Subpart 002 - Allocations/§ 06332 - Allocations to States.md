@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) 0.25 percent of total appropriations; and
 
-&emsp;&emsp;&emsp;(ii) the greater of 150 percent of the national average grant per child counted for grants under such section 1006 multiplied by the State<sup>1</sup> total number of such children, or $340,000.
+&emsp;&emsp;&emsp;(ii) the greater of 150 percent of the national average grant per child counted for grants under such section 1006 multiplied by the State <sup>1</sup> total number of such children, or $340,000.
 
 #### (2) Succeeding fiscal years
 
@@ -40,7 +40,7 @@
 
 #### (3) Fiscal years 1997 through 1999
 
-&emsp;For fiscal years 1997 through 1999, notwithstanding subsection (b) of this section and without regard to amounts available for delinquent children under subpart 2 of part D of this subchapter, the amount made available to each local educational agency under each of sections 6333 and 6335 of this title shall be at least 95 percent of the previous year's amount if the number of children counted for grants under section 6333 of this title is at least 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency, 90 percent of the previous year amount if this percentage is between 15 percent and 30 percent, and 85 percent if this percentage is below 15 percent. For fiscal years 1997 and 1998, in calculating grants on the basis of population data for counties, the Secretary shall apply the hold-homeless<sup>2</sup> percentages in the preceding sentence to counties. For fiscal years 1996 through 1998, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this paragraph for every local educational agency within that county, then the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this paragraph.
+&emsp;For fiscal years 1997 through 1999, notwithstanding subsection (b) of this section and without regard to amounts available for delinquent children under subpart 2 of part D of this subchapter, the amount made available to each local educational agency under each of sections 6333 and 6335 of this title shall be at least 95 percent of the previous year's amount if the number of children counted for grants under section 6333 of this title is at least 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency, 90 percent of the previous year amount if this percentage is between 15 percent and 30 percent, and 85 percent if this percentage is below 15 percent. For fiscal years 1997 and 1998, in calculating grants on the basis of population data for counties, the Secretary shall apply the hold-homeless <sup>2</sup> percentages in the preceding sentence to counties. For fiscal years 1996 through 1998, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this paragraph for every local educational agency within that county, then the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this paragraph.
 
 #### (d) Ratable reductions
 
@@ -54,19 +54,19 @@
 
 #### (e) “State” defined
 
-For the purpose of this section and sections 6333 and 6335 of this title, the term State meanseach of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+For the purpose of this section and sections 6333 and 6335 of this title, the term State means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 89 10, title I, §1122, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3562.)
+(Pub. L. 89–10, title I, §1122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3562.)
 
 #### References in Text
 
-Sections 1005 and 1006 of part A of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, referred to in subsecs. (a) and (c)(1), mean sections 1005 and 1006 of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Sections 1005 and 1006 of part A of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, referred to in subsecs. (a) and (c)(1), mean sections 1005 and 1006 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of thistitle prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6333, 6334, 6335 of this title.
+This section is referred to in sections 6333, 6334, 6335 of this title; title 42 section 11432.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “State's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “State's”.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “hold-harmless”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “hold-harmless”.</i>
 

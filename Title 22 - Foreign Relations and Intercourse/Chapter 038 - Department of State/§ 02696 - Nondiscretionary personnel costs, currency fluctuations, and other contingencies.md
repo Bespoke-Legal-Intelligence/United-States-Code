@@ -22,7 +22,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (6) Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of State that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreign currency exchange rates or overseas wage and price changes in order to maintain approved levels.
 
-(7)(A) Subject to the limitations contained in this paragraph, not later than the end of the fifth fiscal year after the fiscal year for whichfunds are appropriated or otherwise made available for an account under “Administration of Foreign Affairs”, the Secretary of State may transfer any unobligated balance of such funds to the Buying Power Maintenance account.
+(7)(A) Subject to the limitations contained in this paragraph, not later than the end of the fifth fiscal year after the fiscal year for which funds are appropriated or otherwise made available for an account under “Administration of Foreign Affairs”, the Secretary of State may transfer any unobligated balance of such funds to the Buying Power Maintenance account.
 
 (B) The balance of the Buying Power Maintenance account may not exceed $100,000,000 as a result of any transfer under this paragraph.
 
@@ -46,7 +46,7 @@ Amounts authorized to be appropriated for a fiscal year for the Department of St
 
 Amounts authorized to be appropriated for a fiscal year for the Department of State or to the Secretary of State are authorized to be obligated for twelve-month contracts which are to be performed in two fiscal years, if the total amount for such contracts is obligated in the earlier fiscal year.
 
-(Aug. 1, 1956, ch. 841, title I, §24, as added Aug. 15, 1979, Pub. L. 96–60, title I, §105(a), 93 Stat. 396; renumbered title I and amended Aug. 24, 1982, Pub. L. 97–241, title I, §112(a), title II, §202(a), 96 Stat. 277, 282; Feb. 16, 1990, Pub. L. 101–246, title I, §107, 104 Stat. 21; Oct. 28, 1991, Pub. L. 102–138, title I, §117(a), (c), 105 Stat. 656, 657; Apr. 30, 1994, Pub. L. 103–236, title I, §122(a), 108 Stat. 392.)
+(Aug. 1, 1956, ch. 841, title I, §24, as added Aug. 15, 1979, Pub. L. 96–60, title I, §105(a), 93 Stat. 396; renumbered title I and amended Aug. 24, 1982, Pub. L. 97–241, title I, §112(a), title II, §202(a), 96 Stat. 277, 282; Feb. 16, 1990, Pub. L. 101–246, title I, §107, 104 Stat. 21; Oct. 28, 1991, Pub. L. 102–138,title I, §117(a), (c), 105 Stat. 656, 657; Apr. 30, 1994, Pub. L. 103–236, title I, §122(a), 108 Stat. 392.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) General
 
-Notwithstanding any other provision of law, the final system plan which is adopted by the Association and which becomes effective after review by the Congress is not subject to review by any court except in accordance with this section. After the final system plan becomes effective under section 718 of this title, it may be reviewed with respect to matters concerning the value of the rail properties to be conveyed under the plan and the value of the consideration to be received for such properties.
+Notwithstanding any other provision of law, the final system plan which is adopted by the Association and which becomes effective after review by the Congress is not subject to reviewby any court except in accordance with this section. After the final system plan becomes effective under section 718 of this title, it may be reviewed with respect to matters concerning the value of the rail properties to be conveyed under the plan and the value of the consideration to be received for such properties.
 
 #### (b) Special court
 
@@ -74,11 +74,11 @@ Section 77 of the Bankruptcy Act, referred to in subsec. (b), was classified to 
 
 #### Codification
 
-Amendment of subsec. (c)(2) by section 607(s) of Pub. L. 94–210 was executed by substituting “person leased”for “railroads leased” to reflect the probable intent of Congress, notwithstanding such section 607(s) requiring substitution of “person leased” for “railroad leased”.
+Amendment of subsec. (c)(2) by section 607(s) of Pub. L. 94–210 was executed by substituting “person leased” for “railroads leased” to reflect the probable intent of Congress, notwithstanding such section 607(s) requiring substitution of “person leased” for “railroad leased”.
 
 #### Amendments
 
-1988—Subsec. (e)(3). Pub. L. 100–352 struck out “, except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of this chapter, in whole or in part, or of any action taken under this chapter, shall be reviewable by direct appeal to the Supreme Court of the United States in the same manner that an injunctive order may be appealed under section 1253 of title 28” before the period at end of first sentence and substituted “such petition shall be filed in the Supreme Court” for “petition or appeal shall be filed” in second sentence.
+1988—Subsec. (e)(3). Pub. L. 100–352 struck out “, except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of this chapter, in whole or inpart, or of any action taken under this chapter, shall be reviewable by direct appeal to the Supreme Court of the United States in the same manner that an injunctive order may be appealed under section 1253 of title 28” before the period at end of first sentence and substituted “such petition shall be filed in the Supreme Court” for “petition or appeal shall be filed” in second sentence.
 
 1977—Subsec. (h). Pub. L. 95–199 added subsec. (h).
 
@@ -108,7 +108,7 @@ This section is referred to in sections 718, 741, 743, 744, 745, 1104, 1323, 132
 
 ### <b>RULES OF THE SPECIAL COURT, REGIONAL RAIL REORGANIZATION ACT OF 1973</b>
 
-#### <i>(Effective May 20, 1982, as amended to January 4, 1995)</i>
+#### <i>(Effective May 20, 1982, as amended to January 16, 1996)</i>
 
 Rule
 
@@ -224,9 +224,9 @@ Rule 4.
 
 Panels of the Court
 
-A. Two panels. The Court shall consist of two panels of three judges to be known as the General Panel and the §1152 Panel. The General Panel consists of the judges appointed from timeto time by the Judicial Panel on Multidistrict Litigation under §209(b) of the Regional Rail Reorganization Act of 1973 (the Act). The §1152 Panel consists of the judges appointed from time to time by the Judicial Panel on Multidistrict Litigation under §1152(d) of the Northeast Rail Service Act of 1981 (NRSA).
+A. Two panels. The Court shall consist of two panels of three judges to be known as the General Panel and the §1152 Panel. The General Panel consists of the judges appointed from time to time by the Judicial Panel on Multidistrict Litigation under §209(b) of the Regional Rail Reorganization Act of 1973 (the Act). The §1152 Panel consists of the judges appointed from time to time by the Judicial Panel on Multidistrict Litigation under §1152(d) of the Northeast Rail Service Act of 1981 (NRSA).
 
-B. Presiding Judges. Each panel shall appoint one of its members as its Presiding Judge. The Presiding Judge of the General Panel shall be the Presiding Judge of the Court.
+B. Presiding Judges. Each panel shall appoint one of its members as its Presiding Judge. ThePresiding Judge of the General Panel shall be the Presiding Judge of the Court.
 
 C. The General Panel. The General Panel shall have exclusive jurisdiction over all actions described in §209(e), over proceedings under §§303 and 306(c)(4), and over supplemental transactions proposed under §305 of the Act.
 
@@ -360,6 +360,10 @@ In any proceeding involving a question that arises under the Interstate Commerce
 
 Subtitle 4 of Title 49 of the United States Code, referred to in text, probably means subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 Rule 14.
 
 Proceedings Under Section 305(d)
@@ -372,7 +376,7 @@ B. Service of petition on Conrail and publication in the Federal Register. The p
 
 C. Answer of Conrail to petition. Any answer by Conrail shall be served on the petitioner and filed with the Court within fourteen days after the filing of the petition.
 
-D. Application for intervention. Except for good cause shown, any application for leave to intervene shall be served on the petitioner andfiled within fourteen days after publication of the petition in the Federal Register.
+D. Application for intervention. Except for good cause shown, any application for leave to intervene shall be served on the petitioner and filed within fourteen days after publication of the petition in the Federal Register.
 
 E. Filing of record. The petitioner shall file the record made before USRA, the Secretary, and the Interstate Commerce Commission within fourteen days after the filing of the petition.
 
@@ -381,6 +385,10 @@ F. Additional evidence. Any application for leave to adduce additional evidence 
 #### References in Text
 
 The Act, referred to in pars. A and F, is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, known as the Regional Rail Reorganization Act of 1973, which is classified principally to this chapter (§701 et seq.). Section 305(d) of the Act is classified to section 745(d) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
@@ -432,7 +440,7 @@ Rule 19.
 
 References to Regional Rail Reorganization Act and Northeast Rail Service Act
 
-In all papers filed with the Court references of sections of the Regional Rail Reorganization Act of 1973 or Northeast Rail Service Act of 1981 shall be to such sections as numbered in the applicable Act and not to such sections as numbered in the U.S. Code.
+In all papers filed with the Court references of sections of the Regional Rail Reorganization Act of 1973 or Northeast Rail Service Act of 1981shall be to such sections as numbered in the applicable Act and not to such sections as numbered in the U.S. Code.
 
 #### References in Text
 

@@ -6,7 +6,7 @@ If a student borrower who has received a loan described in subparagraph (A) or (
 
 #### (b) Payment of claims on loans in bankruptcy
 
-The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(A) or (B), 1078 1,<sup>1</sup> 1078 2, 1078 3, or 1078 8 of this title, the amount of the unpaid balance of principal and interest owed on such loan—
+The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(A) or (B), 1078–1,<sup>1</sup> 1078–2, 1078–3, or 1078–8 of this title, the amount of the unpaid balance of principal and interest owed on such loan—
 
 &emsp;(1) when the borrower files for relief under chapter 12 or 13 of title 11;
 
@@ -26,7 +26,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (3) Eligibility for additional assistance
 
-&emsp;The period of a student's attendance at an institution at which the student was unable to complete a course of study due to the closing of the institution shall not be considered forpurposes of calculating the student's period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The period of a student's attendance at an institution at which the student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (4) Special rule
 
@@ -38,35 +38,35 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (d) Repayment of loans to parents
 
-If a student on whose behalf a parent has received a loan described in section 1078 2 of this title dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
+If a student on whose behalf a parent has received a loan described in section 1078–2 of this title dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
 
-(Pub. L. 89 329, title IV, §437, as added Pub. L. 99 498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102 325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103 208, §2(c)(63) (65), Dec. 20, 1993, 107 Stat. 2469.)
+(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469.)
 
 #### References in Text
 
-Section 1078 1 of this title, referred to in subsec. (b), was repealed by Pub. L. 103 66, title IV, §4047(b) (d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
+Section 1078–1 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
 
 #### Prior Provisions
 
-A prior section 1087, Pub. L. 89 329, title IV, §437, as added Pub. L. 90 575, title I, §113(a), Oct. 16, 1968, 82 Stat. 1020; amended Pub. L. 92 318, title I, §132D(a), June 23, 1972, 86 Stat. 263; Pub. L. 94 482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 96 374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to repayment of loans by Secretary, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1087, Pub. L. 89–329, title IV, §437, as added Pub. L. 90–575, title I, §113(a), Oct. 16, 1968, 82 Stat. 1020; amended Pub. L. 92–318, title I, §132D(a), June 23, 1972, 86 Stat. 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to repayment of loans by Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103 208, §2(c)(63), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If the collection of a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title or sections 1078 1, 1078 2, 1078 3, or 1078 8 of this title is stayed in any action under title 11, the Secretary shall repay the unpaid balance of principal and interest owed on the loan.”
+1993—Subsec. (b). Pub. L. 103–208, §2(c)(63), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If the collection of a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title or sections 1078–1, 1078–2, 1078–3, or 1078–8 of this title is stayed in any action under title 11, the Secretary shall repay the unpaid balance of principal and interest owed on the loan.”
 
-Subsec. (c)(1). Pub. L. 103 208, §2(c)(64), substituted “If a borrower” for “If a student borrower”, “under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable” for “under this part is unable”, and “in which such student is enrolled” for “in which the borrower is enrolled”.
+Subsec. (c)(1). Pub. L. 103–208, §2(c)(64), substituted “If a borrower” for “If a student borrower”, “under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable” for “under this part is unable”, and “in which such student is enrolled” for “in which the borrower is enrolled”.
 
-Subsec. (c)(4). Pub. L. 103 208, §2(c)(65), inserted at end “The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.”
+Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end “The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.”
 
-1992—Pub. L. 102 325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
+1992—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1071, 1075, 1077, 1078, 1080a, 1092b, 1099c of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,4 +1,4 @@
-### §4107 . Plan of action
+### §4107. Plan of action
 
 #### (a) Submission to Secretary
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) a description of any proposed changes in the status or terms of the mortgage or regulatory agreement;
 
-&emsp;&emsp;(B) a description of the Federal incentives requested (including cash flow projections),and analyses of how the owner will address any physical or financial deficiencies and maintain the low-income affordability restrictions of the housing;
+&emsp;&emsp;(B) a description of the Federal incentives requested (including cash flow projections), and analyses of how the owner will address any physical or financial deficiencies and maintain the low-income affordability restrictions of the housing;
 
 &emsp;&emsp;(C) a description of any assistance from State or local government agencies, including low-income housing tax credits, that have been offered to the owner or purchaser or for which the owner or purchaser has applied or intends to apply;
 
@@ -58,7 +58,7 @@ This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
+1992—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence “Each owner and the Secretaryshall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
 
 Subsec. (c). Pub. L. 102–550, §304(b), inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
 

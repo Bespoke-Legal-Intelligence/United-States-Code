@@ -58,7 +58,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) any electric generating unit subject to the licensing jurisdiction of the Nuclear Regulatory Commission; and
 
-&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generation of which is sold or exchanged for resale, as determined by the Secretary.
+&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generationof which is sold or exchanged for resale, as determined by the Secretary.
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule, to be appropriate.
 
@@ -144,7 +144,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(17) The term “applicable environmental requirements” includes—
 
-&emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants\(including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State law to the extent consistent with Federal law; and
+&emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State law to the extent consistent with Federal law; and
 
 &emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
@@ -186,7 +186,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(27) the term “Mcf” means, when used in relation to natural gas, 1,000 cubic feet of natural gas.
 
-&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixture of such fuels or a combination of such fuels used simultaneously or alternately in such unit.
+&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixtureof such fuels or a combination of such fuels used simultaneously or alternately in such unit.
 
 &emsp;(29) The term “fluidized bed combustion” means combustion of fuel in connection with a bed of inert material, such as limestone or dolomite, which is held in a fluid-like state by the means of air or other gases being passed through such materials.
 
@@ -200,7 +200,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(C) such person delivers, or arranges for the delivery of, such synthetic gas to a pipeline or pipelines which by transport or displacement are capable of delivering such synthetic gas, mixed with natural gas, to such person; and
 
-&emsp;(D) all necessary permits, licenses, or approvals from appropriate Federal, State, and local agencies (including Indian tribes) have been obtained for construction and operationof the facilities for the manufacture of the synthetic gas involved.
+&emsp;(D) all necessary permits, licenses, or approvals from appropriate Federal, State, and local agencies (including Indian tribes) have been obtained for construction and operation of the facilities for the manufacture of the synthetic gas involved.
 
 (2) The application of paragraph (1) with respect to the use of natural gas by any powerplant shall be conditioned on the person using such natural gas submitting to the Secretary a report not later than one year after certification is made under paragraph (1), and annually thereafter, containing the following information:
 

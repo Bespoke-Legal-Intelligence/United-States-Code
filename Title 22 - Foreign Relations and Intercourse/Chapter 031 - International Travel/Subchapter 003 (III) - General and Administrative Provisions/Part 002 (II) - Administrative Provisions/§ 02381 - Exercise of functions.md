@@ -6,7 +6,7 @@ The President may exercise any functions conferred upon him by this chapter thro
 
 #### (b) Eligibility of suppliers; debarment period; causes for debarment; conditions for reinstatement; periodic review
 
-The President shall issue and enforce regulations determining the eligibility of any person to receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause for belief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additional period, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financedwith funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
+The President shall issue and enforce regulations determining the eligibility of any person to receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause forbelief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additional period, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financed with funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
 
 (Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
 
@@ -58,13 +58,13 @@ The President, by and with the advice and consent of the Senate, may appoint two
 
 #### Sec. 5. Performance of Functions
 
-The Director may from time to time establish, alter, consolidate, or discontinue organizational units within the Agency (other than units expressly established by statute or reorganization plan). The Director may from time to time delegate responsibility for carrying out any function or authority of the Director of the Agency to any officer, employee, or unit of the Agency, or any other officer or agency of the executive branch.
+The Director may from time to time establish, alter, consolidate, or discontinue organizational units within the Agency (other than units expressly established by statute or reorganization plan). The Director may from time to time delegate responsibility for carrying out any function or authority of the Director of the Agencyto any officer, employee, or unit of the Agency, or any other officer or agency of the executive branch.
 
 #### Sec. 6. Transfers of Functions
 
 (a) There are hereby transferred to the Director all functions and authorities vested in the Agency for International Development or in its administrator pursuant to the following:
 
-&emsp;(1) sections 233(b), 239(i), 296(e), 297(d), 298(c)(6), 299(d), 601(a) through (d), and 624(f)(2)(C) of the Foreign Assistance Act of 1961, as amended (22 U.S.C.2193(b), 2199(i), 2220a(e), 2220b(d), 2220c(c)(6), 2220d(d), 2351(a) through (d), and 2384(f)(2)(C));
+&emsp;(1) sections 233(b), 239(i), 296(e), 297(d), 298(c)(6), 299(d), 601(a) through (d), and 624(f)(2)(C) of the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2193(b), 2199(i), 2220a(e), 2220b(d), 2220c(c)(6), 2220d(d), 2351(a) through (d), and 2384(f)(2)(C));
 
 &emsp;(2) section 407 of the Agricultural Trade Development and Assistance Act of 1954, as amended (7 U.S.C. 1736a); and
 
@@ -114,7 +114,7 @@ Just before his death a year ago, Senator Hubert H. Humphrey prepared a bill int
 
 In response to the Humphrey-Zablocki bill and the Administration's own analyses, I took a number of steps last year to strengthen aid coordination and improve the effectiveness of our development assistance programs. The Reorganization Plan transmitted with this message continues that process. It will provide stronger direction of U.S. policies toward the developing world, ensure a more coherent development strategy, promote the more effective use of the various U.S. bilateral instruments by which the U.S. can encourage economic and social progress in developing countries, and ensure that U.S. bilateral programs and the multilateral programs to which we contribute better complement each other.
 
-This reorganization would create a new agency, to be known as the International Development Cooperation Agency (IDCA). IDCA would become a focal point within the U.S. Government for economic matters affecting U.S. relations with developing countries. Subject to guidance concerning the foreign policy of the United States from the Secretary of State, the IDCA Director would be the principal international development advisor to the President and to the Secretary of State. The Director would replace the AID Administrator in chairing the Development Coordination Committee. The IDCA Director would make recommendations to meconcerning the appointment and tenure of senior officials of each component of IDCA, and would establish and control the budgets and policies of the Agency for International Development and the bilateral foreign assistance programs it administers, and of the Institute For Technological Cooperation, proposed in legislation transmitted to the Congress on February 26, 1979, which would support research and technological innovation to reduce obstacles to economic development.
+This reorganization would create a new agency, to be known as the International Development CooperationAgency (IDCA). IDCA would become a focal point within the U.S. Government for economic matters affecting U.S. relations with developing countries. Subject to guidance concerning the foreign policy of the United States from the Secretary of State, the IDCA Director would be the principal international development advisor to the President and to the Secretary of State. The Director would replace the AID Administrator in chairing the Development Coordination Committee. The IDCA Director would make recommendations to me concerning the appointment and tenure of senior officials of each component of IDCA, and would establish and control the budgets and policies of the Agency for International Development and the bilateral foreign assistance programs it administers, and of the Institute For Technological Cooperation, proposed in legislation transmitted to the Congress on February 26, 1979, which would support research and technological innovation to reduce obstacles to economic development.
 
 The Overseas Private Investment Corporation, which insures and guarantees U.S. private investments in developing countries against certain hazards, would also be a component of IDCA, but OPIC's Board of Directors, which the IDCA Director would chair, would continue to set OPIC policy.
 
@@ -152,13 +152,13 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033, provided:
 
-By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of theUnited States Code, and as President of the United States, it is hereby ordered as follows:
 
 #### 1–1.
 
 United States International Development Cooperation Agency
 
-1–101. <i>Establishment of the United States International Development Cooperation Agency</i>. Sections 1, 5, 6, and 8 of Reorganization Plan No. 2 of 1979 \[set out above\] are declared effective and the United States InternationalDevelopment Cooperation Agency (hereinafter referred to as “IDCA”) is hereby established.
+1–101. <i>Establishment of the United States International Development Cooperation Agency</i>. Sections 1, 5, 6, and 8 of Reorganization Plan No. 2 of 1979 \[set out above\] are declared effective and the United States International Development Cooperation Agency (hereinafter referred to as “IDCA”) is hereby established.
 
 1–102. <i>Delegation of Functions</i>. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, and subject to the provisions of this order, there are hereby delegated to the Director of IDCA (hereinafter referred to as the “Director”) all functions conferred upon the President by:
 
@@ -364,9 +364,9 @@ Additional Delegations and Limitations of Authority; Consultation
 
 (b) Persons appointed, employed, or assigned after May 19, 1959, under section 527(c) of the Mutual Security Act of 1954 \[former 22 U.S.C. 1787(c)\] or section 625(d) of the Act \[22 U.S.C. 2385(d)\] for the purpose of performing functions under such Acts outside the United States shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided by section 310 of the Foreign Service Act of 1980 (22 U.S.C. 3950) in cases in which their service under the appointment, employment, or assignment exceeds thirty months.
 
-1–603. <i>Special Missions and Staffs Abroad</i>. The maintenance of special missions or staffs abroad, the fixing of the ranks of the chiefs thereof after the chiefs of the United States diplomatic missions, and the authorization of the same compensation and allowances authorized for a chief of mission as defined in section 102(a)(3) of the Foreign Service Act of 1980 (22 U.S.C. 3902(a)(3)), all under section 631 of the Act \[22 U.S.C. 2391\], shall be subject to the approval of the Secretary of State.
+1–603. <i>Special Missions and Staffs Abroad</i>. The maintenance of special missions or staffs abroad, the fixing ofthe ranks of the chiefs thereof after the chiefs of the United States diplomatic missions, and the authorization of the same compensation and allowances authorized for a chief of mission as defined in section 102(a)(3) of the Foreign Service Act of 1980 (22 U.S.C. 3902(a)(3)), all under section 631 of the Act \[22 U.S.C. 2391\], shall be subject to the approval of the Secretary of State.
 
-1–604. <i>International Agreements</i>. The negotiation, conclusion, and termination of international agreementspursuant to the Act \[this chapter\], title IV of the IDC Act of 1979 \[22 U.S.C. 3501 et seq.\] or section 402 of the Mutual Security Act of 1954 \[22 U.S.C. 1922\] shall be subject to the requirements of 1 U.S.C. 112b and to applicable regulations and procedures.
+1–604. <i>International Agreements</i>. The negotiation, conclusion, and termination of international agreements pursuant to the Act \[this chapter\], title IV of the IDC Act of 1979 \[22 U.S.C. 3501 et seq.\] or section 402 of the Mutual Security Act of 1954 \[22 U.S.C. 1922\] shall be subject to the requirements of 1 U.S.C. 112b and to applicable regulations and procedures.
 
 1–605. <i>Interagency Consultation</i>. Each officer to whom functions are delegated by this order, shall, in carrying out such functions, consult with the heads of other departments and agencies, including the Director of the Office of Management and Budget, on matters pertaining to the responsibilities of departments and agencies other than his or her own.
 
@@ -446,7 +446,7 @@ General Provisions
 
 &emsp;“(12) The Director of the United States International Development Cooperation Agency”;
 
-&emsp;(2) section 1–202 of Executive Order 12065 of June 28, 1978 \[50 U.S.C. 401 note\], by striking out “The Administrator, Agency for International Development” and inserting in lieu thereof “The Director of the United States International Development Cooperation Agency”;
+&emsp;(2) section 1–202 of Executive Order 12065 of June 28, 1978 \[50 U.S.C. 435 note\], by striking out “The Administrator, Agency for International Development” and inserting in lieu thereof “The Director of the United States International Development Cooperation Agency”;
 
 &emsp;(3) section 2(a) of Executive Order No. 11958 of January 18, 1977 \[22 U.S.C. 2751 note\], by striking out “the Administrator of the Agency for International Development” and inserting in lieu thereof “the Director of the United States International Development Cooperation Agency”;
 
@@ -467,6 +467,8 @@ General Provisions
 1–905. <i>Effective Date</i>. The provisions of this order shall become effective as of October 1, 1979.
 
 \[Ex. Ord. No. 12884, §6(c), Dec. 1, 1993, 58 F.R. 64100, set out as a note under section 5812 of this title, excluded certain functions of President delegated under section 1–102(a) of Ex. Ord. No. 12163, set out above.\]
+
+\[Memorandum of President of the United States, Feb. 16, 1995, 60 F.R. 10793, set out as a note under section 2357 of this title, delegated certain authority of President to Secretary of State in lieu of delegation of comparable authority by section 1–102(a)(7) of Ex. Ord. No. 12163, set out above.\]
 
 #### Section Referred to in Other Sections
 

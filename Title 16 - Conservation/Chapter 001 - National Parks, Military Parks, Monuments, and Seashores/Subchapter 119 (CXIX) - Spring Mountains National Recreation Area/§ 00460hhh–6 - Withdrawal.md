@@ -1,4 +1,4 @@
-### §460hhh–6 . Withdrawal
+### §460hhh–6. Withdrawal
 
 #### (a) In general
 

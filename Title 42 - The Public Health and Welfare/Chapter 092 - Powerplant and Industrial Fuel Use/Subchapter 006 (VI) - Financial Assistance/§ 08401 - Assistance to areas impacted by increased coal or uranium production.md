@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (f) Reports
 
-Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
+Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days aftera written request to such person by the Governor of the State in which such area is located. Such report shall include—
 
 &emsp;(1) projected employment levels for such activity by such person within such area during each of the following 3 calendar years;
 
@@ -116,7 +116,7 @@ The Secretary of Agriculture shall carry out his responsibilities under this sec
 
 #### (h) Appropriations authorization
 
-(1) <sup>2</sup> There is hereby authorized to be appropriated to the Secretary of Energy for purposes of this section, $60,000,000 for fiscal year 1979 and $120,000,000 for fiscal year 1980. The Secretary ofEnergy and the Secretary of Agriculture shall enter into an agreement for the allocation of funds appropriated pursuant to this section for carrying out their respective responsibilities under this section, including the amounts for personnel and administrative costs, and upon such agreement, the Secretary of Energy shall transfer to the Secretary of Agriculture amounts determined under that agreement.
+(1) <sup>2</sup> There is hereby authorized to be appropriated to the Secretary of Energy for purposes of this section, $60,000,000 for fiscal year 1979 and $120,000,000 for fiscal year 1980. The Secretary of Energy and the Secretary of Agriculture shall enter into an agreement for the allocation of funds appropriated pursuant to this section for carrying out their respective responsibilities under this section, including the amounts for personnel and administrative costs, and upon such agreement, the Secretary of Energy shall transfer to the Secretary of Agriculture amounts determined under that agreement.
 
 #### (i) Protection from certain hazardous actions
 

@@ -6,5 +6,5 @@ No advertisement to aid, promote, or assist directly or indirectly any extension
 
 &emsp;(2) that a specified downpayment is required in connection with any extension of consumer credit, unless the creditor usually and customarily arranges downpayments in that amount.
 
-(Pub. L. 90 321, title I, §142, May 29, 1968, 82 Stat. 158.)
+(Pub. L. 90–321, title I, §142, May 29, 1968, 82 Stat. 158.)
 

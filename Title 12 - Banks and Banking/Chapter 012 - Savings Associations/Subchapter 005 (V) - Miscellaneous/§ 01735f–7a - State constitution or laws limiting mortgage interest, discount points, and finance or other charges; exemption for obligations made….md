@@ -2,7 +2,7 @@
 
 #### (a) Applicability to loan, mortgage, credit sale, or advance; applicability to deposit, account, or obligation
 
-(1) The provisions of the constitution or the laws of any State expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is—
+(1) The provisions of the constitution or the laws of any State expressly limiting the rate or amount of interest, discount points, financecharges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is—
 
 &emsp;(A) secured by a first lien on residential real property, by a first lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or by a first lien on a residential manufactured home;
 
@@ -132,7 +132,7 @@ Pub. L. 96–221, title V, §528, Mar. 31, 1980, 94 Stat. 168, provided that: �
 
 #### Definition of “State”
 
-Section 527 of title V of Pub. L. 96–221, as amended Pub. L. 96–221, title II, §207(b)(12), Mar. 31, 1980, 94 Stat. 144, provided that: “For purposes of this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending section 1785 of this title and section 687 of Title 15, Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, 1735f–7, and 1735f–7a of this title\] the term ‘State’ includes the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands.”
+Section 527 of title V of Pub. L. 96–221, as amended by Pub. L. 96–221, title II, §207(b)(12), Mar. 31, 1980, 94 Stat. 144, provided that: “For purposes of this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending section 1785 of this title and section 687 of Title 15, Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, 1735f–7, and 1735f–7a of this title\] the term ‘State’ includes the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands.”
 
 \[Section 207(b) of Pub. L. 96–221 provided that the amendment of above note made by that section is effective 6 years after Mar. 31, 1980.\]
 

@@ -12,7 +12,7 @@
 
 &emsp;(4) assistance for environmental studies, plans, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
 
-&emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
+&emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federalor federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
 
 > Such term also includes flood insurance described in sections <sup>2</sup> 4029(a) and (b) of title 42 on and after the dates on which the provisions of those sections <sup>2</sup> become effective.
 
@@ -40,7 +40,7 @@ In subsec. (b)(1), “section 6702 of title 31” substituted for “section 102
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

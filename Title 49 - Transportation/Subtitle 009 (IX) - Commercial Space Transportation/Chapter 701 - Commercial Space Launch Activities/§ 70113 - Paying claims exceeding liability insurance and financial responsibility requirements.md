@@ -60,7 +60,7 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (3) A resolution introduced in the Senate shall be referred immediately to a committee by the President of the Senate. All resolutions related to the same plan shall be referred to the same committee.
 
-(4)(A) If the committee of the Senate to which a resolution has been referred does not report the resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
+(4)(A) If the committee of the Senate to which a resolution has been referred does not reportthe resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
 
 (B) A motion to discharge may be made only by an individual favoring the resolution and is highly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
 

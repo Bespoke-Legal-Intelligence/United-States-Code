@@ -14,7 +14,7 @@ Section was formerly classified to section 534 of Title 7, Agriculture.
 
 #### Change of Name
 
-“Governor of the Farm Credit Administration” and “administration” substituted in text for “chairman of the board” and “board”, respectively, pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
+“Governor of the Farm Credit Administration” and “administration” substituted in text for “chairman ofthe board” and “board”, respectively, pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
 
 #### Transfer of Functions
 

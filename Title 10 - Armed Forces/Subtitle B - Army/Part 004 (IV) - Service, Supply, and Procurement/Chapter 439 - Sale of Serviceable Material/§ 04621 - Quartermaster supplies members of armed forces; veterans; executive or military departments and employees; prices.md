@@ -1,4 +1,4 @@
-### §4621 . Quartermaster supplies: members of armed forces; veterans; executive or military departments and employees; prices
+### §4621. Quartermaster supplies: members of armed forces; veterans; executive or military departments and employees; prices
 
 (a) The branch, office, or officer designated by the Secretary of the Army shall procure and sell, for cash or credit—
 
@@ -144,7 +144,7 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 
 In subsection (h), the word “outside” is substituted for the words “beyond the continental limitations”. The words “or in Alaska” are omitted, since, under section 101(1) of this title, the words “United States” are defined to include only the States and the District of Columbia. The word “continental”, after the words “within the”, is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
-In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members \* \* \* on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and tocommanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
+In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members \* \* \* on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
 
 #### 1962 Act
 
@@ -170,9 +170,7 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Prices Charged Personnel of Civilian Agencies in Germany
 
-Act June 20, 1956, ch. 414, title I, §101, 70 Stat. 300, provided in part: “When the Department of the Army, under the authority of the Act of March 3, 1911, as amended, furnishes subsistence supplies to personnel of civilian agencies of the United States Government serving in Germany, payment therefor by such personnel shall be made at the same rate as is paid by civilian personnel of the Department of the Army serving in Germany.”
-
-Similar provisions were contained in acts Oct. 6, 1949, ch. 621, title I, §101, 63 Stat. 713; Sept. 6, 1950, ch. 896, ch. XI, title III, §301, 64 Stat. 763; Nov. 1, 1951, ch. 664, ch. IX, §901, 65 Stat. 750; July 15, 1952, ch. 758, ch. XI, title II, 66 Stat. 652; Aug. 7, 1953, ch. 340, ch. X, 67 Stat. 433; Aug. 26, 1954, ch. 935, ch. XI, 68 Stat. 823; July 7, 1955, ch. 279, title I, §101, 69 Stat. 269.
+Act June 20, 1956, ch. 414, title I, §101, 70 Stat. 300, provided in part: “When the Department of the Army, under the authority of the Act of March 3, 1911, as amended, furnishes subsistence supplies to personnel of civilian agencies of the United States Government serving in Germany, payment therefor by such personnel shall be made at the same rate as is paid by civilian personnel of the Department of the Army serving in Germany.” Similar provisions were contained in acts Oct. 6, 1949, ch. 621, title I, §101, 63 Stat. 713; Sept. 6, 1950, ch. 896, ch. XI, title III, §301, 64 Stat. 763; Nov. 1, 1951, ch. 664, ch. IX, §901, 65 Stat. 750; July 15, 1952, ch. 758, ch. XI, title II, 66 Stat. 652; Aug. 7, 1953, ch. 340, ch. X, 67 Stat. 433; Aug. 26, 1954, ch. 935, ch. XI, 68 Stat. 823; July 7, 1955, ch. 279, title I, §101, 69 Stat. 269.
 
 #### Cross References
 

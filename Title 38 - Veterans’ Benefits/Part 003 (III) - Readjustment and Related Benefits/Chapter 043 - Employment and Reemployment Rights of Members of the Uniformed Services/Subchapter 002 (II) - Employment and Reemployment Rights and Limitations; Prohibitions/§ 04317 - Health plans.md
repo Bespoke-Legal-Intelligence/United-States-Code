@@ -40,7 +40,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4316 of this title.
+This section is referred to in section 4316 of this title; title 2 section 1316.
 
 <i><sup>1</sup></i><i> So in original. Subsection (a) does not contain a par. (2) or (3).</i>
 

@@ -2,14 +2,14 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 741\. | Rank: commissioned officers of the armed forces. |
-| 742\. | Rank: warrant officers. |
-| 743\. | Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps. |
-| 744\. | Physician to White House: assignment; grade. |
+| [741\.](%C2%A7%2000741%20-%20Rank%20commissioned%20officers%20of%20the%20armed%20forces.md) | Rank: commissioned officers of the armed forces. |
+| [742\.](%C2%A7%2000742%20-%20Rank%20warrant%20officers.md) | Rank: warrant officers. |
+| [743\.](%C2%A7%2000743%20-%20Rank%20Chief%20of%20Staff%20of%20the%20Army%3B%20Chief%20of%20Naval%20Operations%3B%20Chief%20of%20Staff%20of%20the%20Air%20Force%3B%20Commandant%20of%20the%20Marine%20Corps.md) | Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps. |
+| [744\.](%C2%A7%2000744%20-%20Physician%20to%20White%20House%20assignment%3B%20grade.md) | Physician to White House: assignment; grade. |
 | \[745. | Repealed.\] |
-| 747\. | Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join. |
-| 749\. | Command: commissioned officers in same grade or corresponding grades on duty at same place. |
-| 750\. | Command: retired officers. |
+| [747\.](%C2%A7%2000747%20-%20Command%20when%20different%20commands%20of%20Army%2C%20Navy%2C%20Air%20Force%2C%20Marine%20Corps%2C%20and%20Coast%20Guard%20join.md) | Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join. |
+| [749\.](%C2%A7%2000749%20-%20Command%20commissioned%20officers%20in%20same%20grade%20or%20corresponding%20grades%20on%20duty%20at%20same%20place.md) | Command: commissioned officers in same grade or corresponding grades on duty at same place. |
+| [750\.](%C2%A7%2000750%20-%20Command%20retired%20officers.md) | Command: retired officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

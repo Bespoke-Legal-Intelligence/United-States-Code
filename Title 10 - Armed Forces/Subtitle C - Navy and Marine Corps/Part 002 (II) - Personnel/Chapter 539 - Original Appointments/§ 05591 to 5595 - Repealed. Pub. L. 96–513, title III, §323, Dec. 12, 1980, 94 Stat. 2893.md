@@ -1,4 +1,4 @@
-### \[§§5591 to 5595 . Repealed. Pub. L. 96–513, title III, §323, Dec. 12, 1980, 94 Stat. 2893\]
+### \[§§5591 to 5595. Repealed. Pub. L. 96–513, title III, §323, Dec. 12, 1980, 94 Stat. 2893\]
 
 Section 5591, act Aug. 10, 1956, ch. 1041, 70A Stat. 327, prescribed maximum number of appointments that could be made annually to active list of Navy in Supply Corps in grade of ensign.
 

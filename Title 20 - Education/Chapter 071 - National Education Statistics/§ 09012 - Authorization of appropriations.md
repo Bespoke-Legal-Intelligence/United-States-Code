@@ -12,5 +12,5 @@ There are authorized to be appropriated $35,000,000 for fiscal year 1995 and suc
 
 There are authorized to be appropriated $3,000,000 for fiscal year 1995 and such sums as may be necessary for each of the fiscal years 1996 and 1997 to carry out section 9011 of this title.
 
-(Pub. L. 103-382, title IV, §413, Oct. 20, 1994, 108 Stat. 4041.)
+(Pub. L. 103–382, title IV, §413, Oct. 20, 1994, 108 Stat. 4041.)
 

@@ -66,7 +66,7 @@ Public housing projects managed by resident management corporations may be provi
 
 #### (3) Calculation of total income
 
-&emsp;(A) Subject to subparagraph (B), the amount of funds provided by a public housing agency to a public housing project managed by a resident management corporation may not be reduced during the 3-year period beginning on February 5, 1988, or on any later date on which a resident management corporation is first established for the project.
+&emsp;(A) Subject to subparagraph (B), the amount of funds provided by a public housing agency to a public housing project managed by a resident management corporation may not be reduced during the 3-year period beginning on February 5, 1988, or on any later date on whicha resident management corporation is first established for the project.
 
 &emsp;(B) If the total income of a public housing agency (including the operating subsidy provided to the public housing agency under section 1437g of this title) is reduced or increased, the income provided by the public housing agency to a public housing project managed by a resident management corporation shall be reduced or increased in proportion to the reduction or increase in the total income of the public housing agency, except that any reduction in operating subsidy that occurs as a result of fraud, waste, or mismanagement by the public housing agency shall not affect the funds provided to the resident management corporation.
 

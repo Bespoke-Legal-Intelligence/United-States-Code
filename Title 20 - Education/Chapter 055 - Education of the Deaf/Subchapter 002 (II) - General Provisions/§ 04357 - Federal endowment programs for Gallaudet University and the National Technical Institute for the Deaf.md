@@ -80,27 +80,27 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99 371, title II, §207, as added Pub. L. 102 421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103 73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735.)
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1842.7a.
+Section is also set out in D.C. Code, §31–1842.7a.
 
 #### Prior Provisions
 
-A prior section 4357, Pub. L. 99 371, title II, §207, formerly title IV, §407, Aug. 4, 1986, 100 Stat. 791; renumbered title II, §207, Pub. L. 102 421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102 421, title I, §§137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164.
+A prior section 4357, Pub. L. 99–371, title II, §207, formerly title IV, §407, Aug. 4, 1986, 100 Stat. 791; renumbered title II, §207, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164.
 
 #### Amendments
 
-1993—Subsec. (c)(3). Pub. L. 103 73, §204(f)(1), substituted “advisory group established under section 4332 of this title” for “Advisory Board of NTID”.
+1993—Subsec. (c)(3). Pub. L. 103–73, §204(f)(1), substituted “advisory group established under section 4332 of this title” for “Advisory Board of NTID”.
 
-Subsec. (e). Pub. L. 103 73, §204(f)(2), substituted “such investment limitations or” for “such investment limitations and”.
+Subsec. (e). Pub. L. 103–73, §204(f)(2), substituted “such investment limitations or” for “such investment limitations and”.
 
-Subsec. (i). Pub. L. 103 73, §204(f)(3), substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
+Subsec. (i). Pub. L. 103–73, §204(f)(3), substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4354 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “hypothecate,”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “hypothecate,”</i>
 

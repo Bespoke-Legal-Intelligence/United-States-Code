@@ -38,21 +38,21 @@ Each individual who receives a Teacher Corps scholarship shall continue to recei
 
 &emsp;(2) maintaining satisfactory progress defined under section 1091 of this title.
 
-(Pub. L. 89 329, title V, §545, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 690; amended Pub. L. 103 208, §2(j)(6), Dec. 20, 1993, 107 Stat. 2481.)
+(Pub. L. 89–329, title V, §545, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 690; amended Pub. L. 103–208, §2(j)(6), Dec. 20, 1993, 107 Stat. 2481.)
 
 #### Prior Provisions
 
-A prior section 545 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1505; amended Pub. L. 100 50, §16(5), June 3, 1987, 101 Stat. 359, defined certain terms for purposes of leadership in educational administration development program and was classified to section 1109d of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 545 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1505; amended Pub. L. 100–50, §16(5), June 3, 1987, 101 Stat. 359, defined certain terms for purposes of leadership in educational administration development program and was classified to section 1109d of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 545 of Pub. L. 89 329, title V, as added Pub. L. 96 374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, defined “special education” and was classified to section 1119b 4 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 545 of Pub. L. 89–329, title V, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, defined “special education” and was classified to section 1119b–4 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103 208 substituted “part B, C,” for “parts B, C,”.
+1993—Subsec. (d). Pub. L. 103–208 substituted “part B, C,” for “parts B, C,”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Section Referred to in Other Sections
 

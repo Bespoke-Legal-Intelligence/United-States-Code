@@ -17,11 +17,11 @@
 
 #### Amendments
 
-1980—Pub. L. 96–347, §1(d), Sept. 12, 1980, 94 Stat. 1150, substituted “controller; Secretary” for “controller” in item 2109.
+<b>1980</b>—Pub. L. 96–347, §1(d), Sept. 12, 1980, 94 Stat. 1150, substituted “controller; Secretary” for “controller” in item 2109.
 
-1978—Pub. L. 95–454, title IV, §401(e), Oct. 13, 1978, 92 Stat. 1154, added item 2101a.
+<b>1978</b>—Pub. L. 95–454, title IV, §401(e), Oct. 13, 1978, 92 Stat. 1154, added item 2101a.
 
-1972—Pub. L. 92–297, §1(b), May 16, 1972, 86 Stat. 141, added item 2109.
+<b>1972</b>—Pub. L. 92–297, §1(b), May 16, 1972, 86 Stat. 141, added item 2109.
 
 
 ---

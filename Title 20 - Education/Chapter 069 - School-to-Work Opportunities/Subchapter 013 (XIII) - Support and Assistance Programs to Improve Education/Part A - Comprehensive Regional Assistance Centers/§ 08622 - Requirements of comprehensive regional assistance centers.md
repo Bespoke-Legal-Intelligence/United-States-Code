@@ -52,11 +52,11 @@ Each comprehensive regional assistance center assisted under this part shall giv
 
 &emsp;(2) local educational agencies and Bureau-funded schools with the highest percentages or numbers of children in poverty.
 
-(Pub. L. 89 10, title XIII, §13102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3878.)
+(Pub. L. 89–10, title XIII, §13102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3878.)
 
 #### References in Text
 
-The National Literacy Act of 1991, referred to in subsec. (a)(4), is Pub. L. 102 73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of this title and Tables.
+The National Literacy Act of 1991, referred to in subsec. (a)(4), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

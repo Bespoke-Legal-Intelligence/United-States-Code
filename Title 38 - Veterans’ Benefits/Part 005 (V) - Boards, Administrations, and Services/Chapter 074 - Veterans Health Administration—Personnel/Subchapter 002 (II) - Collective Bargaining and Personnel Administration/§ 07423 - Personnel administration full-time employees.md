@@ -8,7 +8,7 @@
 
 &emsp;(2) Teach or provide consultative services at any affiliated institution if such teaching or consultation will, because of its nature or duration, conflict with such person's responsibilities under this title.
 
-&emsp;(3) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professionalservices rendered by such person while carrying out such person's responsibilities under this title.
+&emsp;(3) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professional services rendered by such person while carrying out such person's responsibilities under this title.
 
 &emsp;(4) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 102–405, §203, added subsec. (f).
 
 #### Establishment of Leave Bank Program
 
-For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar tothe leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
+For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

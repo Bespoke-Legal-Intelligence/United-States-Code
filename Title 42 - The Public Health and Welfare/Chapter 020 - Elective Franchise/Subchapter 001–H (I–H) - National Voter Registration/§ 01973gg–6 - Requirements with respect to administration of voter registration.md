@@ -56,7 +56,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;&emsp;(i) a registrant has moved to a different residence address in the same registrar's jurisdiction in which the registrant is currently registered, the registrar changes the registration records to show the new address and sends the registrant a notice of the change by forwardable mail and a postage prepaid pre-addressed return form by which the registrant may verify or correct the address information; or
 
-&emsp;&emsp;(ii) the registrant has moved to a different residence address not in the same registrar's jurisdiction, the registrar uses the notice procedure described in subsection (d)(2) of this section to confirm the change of address.
+&emsp;&emsp;(ii) the registrant has moved to a different residence address not in the same registrar's jurisdiction, the registrar uses the noticeprocedure described in subsection (d)(2) of this section to confirm the change of address.
 
 (2)(A) A State shall complete, not later than 90 days prior to the date of a primary or general election for Federal office, any program the purpose of which is to systematically remove the names of ineligible voters from the official lists of eligible voters.
 
@@ -106,7 +106,7 @@ In the case of a change of address, for voting purposes, of a registrant to anot
 
 #### (g) Conviction in Federal court
 
-(1) On the conviction of a person of a felony in a district court of the United States, the United States attorney shall give written notice of the conviction to the chief State election official designated under section 1973gg–8 of this title of the State of the person's residence.
+(1) On the conviction of a person of a felony in a district court of the United States, the UnitedStates attorney shall give written notice of the conviction to the chief State election official designated under section 1973gg–8 of this title of the State of the person's residence.
 
 (2) A notice given pursuant to paragraph (1) shall include—
 

@@ -14,15 +14,15 @@ The Congress finds and declares the following:
 
 &emsp;(6) The United States lacks a well-defined and coordinated program in climate-related research, monitoring, assessment of effects, and information utilization.
 
-(Pub. L. 95 367, §2, Sept. 17, 1978, 92 Stat. 601.)
+(Pub. L. 95–367, §2, Sept. 17, 1978, 92 Stat. 601.)
 
 #### Short Title
 
-Section 1 of Pub. L. 95 367 provided: “That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the ‘National Climate Program Act’.”
+Section 1 of Pub. L. 95–367 provided: “That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the ‘National Climate Program Act’.”
 
 #### Global Climate Protection
 
-Pub. L. 100 204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L. 103 199, title VI, §603(1), Dec. 17, 1993, 107 Stat. 2327, provided that:
+Pub. L. 100–204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L. 103–199, title VI, §603(1), Dec. 17, 1993, 107 Stat. 2327, provided that:
 
 #### “SEC. 1101. SHORT TITLE.
 
@@ -40,7 +40,7 @@ Pub. L. 100 204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L. 
 
 &emsp;&emsp;“(B) cause thermal expansion of the oceans and partial melting of the polar ice caps and glaciers, resulting in rising sea levels.
 
-&emsp;“(3) Important research into the problem of climate change is now being conducted by various United States Government and international agencies, and the continuation and intensification of those efforts will be crucial to the development of an effective United States response.
+&emsp;“(3) Important research into the problem of climate change is now being conducted by various United States Government and international agencies, andthe continuation and intensification of those efforts will be crucial to the development of an effective United States response.
 
 &emsp;“(4) While the consequences of the greenhouse effect may not be fully manifest until the next century, ongoing pollution and deforestation may be contributing now to an irreversible process. Necessary actions must be identified and implemented in time to protect the climate.
 
@@ -86,7 +86,7 @@ Coordination of United States Policy in the International Arena.—The Secretary
 
 #### “SEC. 1105. INTERNATIONAL YEAR OF GLOBAL CLIMATE PROTECTION.
 
-“In order to focus international attention and concern on the problem of global warming, and to foster further work on multilateral treaties aimed at protecting the global climate, the Secretary of State shall undertake all necessary steps to promote, within theUnited Nations system, the early designation of an International Year of Global Climate Protection.
+“In order to focus international attention and concern on the problem of global warming, and to foster further work on multilateral treaties aimed at protecting the global climate, the Secretary of State shall undertake all necessary steps to promote, within the United Nations system, the early designation of an International Year of Global Climate Protection.
 
 #### “SEC. 1106. CLIMATE PROTECTION AND UNITED STATES RELATIONS WITH THE INDEPENDENT STATES OF THE FORMER SOVIET UNION.
 

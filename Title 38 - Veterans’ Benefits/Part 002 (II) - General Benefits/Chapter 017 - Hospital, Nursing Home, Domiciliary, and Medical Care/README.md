@@ -121,7 +121,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1982—Pub. L. 97–295, §4(15), Oct. 12, 1982, 96 Stat. 1306, substituted “Hospital care, medical services, and nursing home care abroad” for “Hospital care and medical services abroad” in item 624.
 
-1981—Pub. L. 97–72, title I, §§106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
+1981—Pub. L. 97–72, title I, §§106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by theVeterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
 
 1980—Pub. L. 96–330, title IV, §401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defray necessary expenses” for “Statement under oath” in item 622.
 

@@ -1,4 +1,4 @@
-### §1443 . Administration
+### §1443. Administration
 
 #### (a) Rules and regulations governing examination of applicants
 

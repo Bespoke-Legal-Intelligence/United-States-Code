@@ -1,10 +1,10 @@
-### §2457 . Standardization of equipment with North Atlantic Treaty Organization members
+### §2457. Standardization of equipment with North Atlantic Treaty Organization members
 
 (a) It is the policy of the United States to standardize equipment, including weapons systems, ammunition, and fuel, procured for the use of the armed forces of the United States stationed in Europe under the North Atlantic Treaty or at least to make that equipment interoperable with equipment of other members of the North Atlantic Treaty Organization. To carry out this policy, the Secretary of Defense shall—
 
 &emsp;(1) assess the costs and possible loss of nonnuclear combat effectiveness of the military forces of the members of the Organization caused by the failure of the members to standardize equipment;
 
-&emsp;(2) maintain a list of actions to be taken, including an evaluation of the priority and effect of the action, to standardize equipmentthat may improve the overall nonnuclear defense capability of the Organization or save resources for the Organization; and
+&emsp;(2) maintain a list of actions to be taken, including an evaluation of the priority and effect of the action, to standardize equipment that may improve the overall nonnuclear defense capability of the Organization or save resources for the Organization; and
 
 &emsp;(3) initiate and carry out, to the maximum extent feasible, procurement procedures to acquire standardized or interoperable equipment, considering the cost, function, quality, and availability of the equipment.
 
@@ -46,7 +46,7 @@
 
 (e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of title III of the Act of March 3, 1933 (41 U.S.C. 10a), that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
-(f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
+(f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become anintegral part of the overall Organization review of force goals and development of force plans.
 
 (Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670.)
 

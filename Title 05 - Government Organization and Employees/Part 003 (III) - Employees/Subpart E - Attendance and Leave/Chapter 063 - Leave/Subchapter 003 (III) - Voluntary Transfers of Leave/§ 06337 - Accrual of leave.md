@@ -4,7 +4,7 @@
 
 &emsp;(1) the term “paid leave status under subchapter I”, as used with respect to an employee, means the administrative status of such employee while such employee is using sick leave, or annual leave, accrued or accumulated under subchapter I; and
 
-&emsp;(2) the term “transferred leave status”, as used with respect to an employee, means the administrative status of such employee while such employee is using transferred leave under this subchapter.
+&emsp;(2) the term “transferred leave status”, as used with respect to an employee, means the administrative status of such employee whilesuch employee is using transferred leave under this subchapter.
 
 (b)(1) Except as otherwise provided in this section, while an employee is in a transferred leave status, annual leave and sick leave shall accrue to the credit of such employee at the same rate as if such employee were then in a paid leave status under subchapter I, except that—
 
@@ -36,7 +36,7 @@
 
 #### Amendments
 
-1993—Subsecs. (c), (d). Pub. L. 103–103 amended subsec. (c) generally and added subsec. (d). Prior to amendment, subsec. (c) read as follows:
+<b>1993</b>—Subsecs. (c), (d). Pub. L. 103–103 amended subsec. (c) generally and added subsec. (d). Prior to amendment, subsec. (c) read as follows:
 
 “(1) Any annual or sick leave accrued by an employee under this section shall be transferred to the appropriate leave account of such employee under subchapter I, effective as of the beginning of the first applicable pay period beginning after the date on which the employee's medical emergency terminates as described in paragraph (1) or (2) of section 6335(a).
 

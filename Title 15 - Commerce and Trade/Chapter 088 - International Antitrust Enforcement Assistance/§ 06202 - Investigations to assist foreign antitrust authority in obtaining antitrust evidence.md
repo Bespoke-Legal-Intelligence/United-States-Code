@@ -20,13 +20,13 @@ An investigation may be conducted under subsection (b) of this section, and anti
 
 A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
-(Pub. L. 103 438, §3, Nov. 2, 1994, 108 Stat. 4597.)
+(Pub. L. 103–438, §3, Nov. 2, 1994, 108 Stat. 4597.)
 
 #### Codification
 
-Section is comprised of section 3 of Pub. L. 103 438. Subsec. (e) of section 3 of Pub. L. 103 438 amended sections 46, 57b 1, 1311, and 1312 of this title.
+Section is comprised of section 3 of Pub. L. 103–438. Subsec. (e) of section 3 of Pub. L. 103–438 amended sections 46, 57b–1, 1311, and 1312 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 57b 1, 1312, 6204, 6207, 6210, 6211, 6212 of this title.
+This section is referred to in sections 57b–1, 1312, 6204, 6207, 6210, 6211, 6212 of this title.
 

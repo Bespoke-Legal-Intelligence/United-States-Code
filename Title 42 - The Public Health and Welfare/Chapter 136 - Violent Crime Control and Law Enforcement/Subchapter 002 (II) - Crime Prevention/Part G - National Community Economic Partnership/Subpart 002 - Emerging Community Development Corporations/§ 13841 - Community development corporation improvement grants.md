@@ -8,7 +8,7 @@ It is the purpose of this section to provide assistance to community development
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to community development corporations to enable such corporations to attain or enhance the businessmanagement and development skills of the individuals that manage such corporations to enable such corporations to seek the public and private resources necessary to develop community economic development projects.
+&emsp;The Secretary shall award grants to community development corporations to enable such corporations to attain or enhance the business management and development skills of the individuals that manage such corporations to enable such corporations to seek the public and private resources necessary to develop community economic development projects.
 
 #### (2) Use of funds
 

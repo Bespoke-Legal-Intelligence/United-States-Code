@@ -123,9 +123,9 @@ Adjusted Net Worth of a Business or Farm
 | If the net worth of a business or farm is— | Then the adjusted net worth is: |
 | :--- | ---: |
 | Less than $1 | $0 |
-| $1 $75,000 | 40 percent of NW |
-| $75,001 $225,000 | $30,000 plus 50 percent of NW over $75,000 |
-| $225,001 $375,000 | $105,000 plus 60 percent of NW over $225,000 |
+| $1–$75,000 | 40 percent of NW |
+| $75,001–$225,000 | $30,000 plus 50 percent of NW over $75,000 |
+| $225,001–$375,000 | $105,000 plus 60 percent of NW over $225,000 |
 | $375,001 or more | $195,000 plus 100 percent of NW over $375,000 |
 
 #### (3) Education savings and asset protection allowance
@@ -140,7 +140,7 @@ Education Savings and Asset Protection Allowances for Families and Students
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the allowance is— |  |  |
 |  |  |  |
 |  |  |  |
-| 25 or less | &nbsp;$ 0 | &nbsp;&nbsp;$0 |
+| 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
 | 26 | &nbsp;2,200 | &nbsp;1,600 |
 | 27 | &nbsp;4,300 | &nbsp;3,200 |
 | 28 | &nbsp;6,500 | &nbsp;4,700 |
@@ -224,7 +224,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 #### (3) Remarried parents
 
-&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection,has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
+&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
 
 &emsp;&emsp;(A) the student's parent and the stepparent are married as of the date of application for the award year concerned; and
 
@@ -297,77 +297,77 @@ For periods of enrollment other than 9 months, the parents’ contribution from 
 
 &emsp;&emsp;(A) the parents’ adjusted available income (determined in accordance with subsection (b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
 
-&emsp;&emsp;(B) the resulting revised parents’ adjusted available income is assessed according to subsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents’ contribution from adjusted available income;
+&emsp;&emsp;(B) the resulting revised parents’ adjusted available income is assessed according tosubsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents’ contribution from adjusted available income;
 
 &emsp;&emsp;(C) the original parents’ contribution from adjusted available income is subtracted from the revised parents’ contribution from adjusted available income, and the result is divided by 12 to determine the monthly adjustment amount; and
 
 &emsp;&emsp;(D) the original parents’ contribution from adjusted available income is increased by the product of the monthly adjustment amount multiplied by the number of months greater than 9 for which the student will be enrolled.
 
-(Pub. L. 89 329, title IV, §475, as added Pub. L. 99 498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456;amended Pub. L. 100 50, §14(1) (12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102 325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103 208, §2(g)(2) (5), Dec. 20, 1993, 107 Stat. 2472.)
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472.)
 
 #### Amendments
 
-1993—Subsec. (c)(4). Pub. L. 103 208, §2(g)(2), substituted “$9,510” for “9,510” in table.
+1993—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
 
-Subsec. (f)(3). Pub. L. 103 208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in the case of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
+Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in the case of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
 
-Subsec. (g)(1)(B). Pub. L. 103 208, §2(g)(4), inserted closing parenthesis after “paragraph (2)”.
+Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis after “paragraph (2)”.
 
-Subsec. (g)(3). Pub. L. 103 208, §2(g)(5), in table added last item relating to Other.
+Subsec. (g)(3). Pub. L. 103–208, §2(g)(5), in table added last item relating to Other.
 
-1992—Pub. L. 102 325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents’ contribution from assets for provisions relating to parents’ income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
+1992—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents’ contribution from assets for provisions relating to parents’ income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
 
-1987—Subsec. (c)(2), (4). Pub. L. 100 50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+1987—Subsec. (c)(2), (4). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
-Subsec. (c)(7). Pub. L. 100 50, §14(2), struck out “National” before “Center”.
+Subsec. (c)(7). Pub. L. 100–50, §14(2), struck out “National” before “Center”.
 
-Subsec. (d)(2)(B). Pub. L. 100 50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
+Subsec. (d)(2)(B). Pub. L. 100–50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
 
-Subsec. (d)(2)(C). Pub. L. 100 50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+Subsec. (d)(2)(C). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
-Pub. L. 100 50, §14(4), added table after subpar. (C) and struck out former table which read as follows:
+Pub. L. 100–50, §14(4), added table after subpar. (C) and struck out former table which read as follows:
 
 “Adjusted Net Worth of a Business or Farm
 
 | If the net worth of a business or farm is— | Then the adjusted net worth is: |
 | :--- | ---: |
 | Less than $1 | $0 |
-| $1 $65,000 | 40 percent of NW |
-| $65,001 $195,000 | $26,000 plus 50 percent of NW over $65,000 |
-| $195,001 $325,000 | $91,000 plus 60 percent of NW over $195,000 |
+| $1–$65,000 | 40 percent of NW |
+| $65,001–$195,000 | $26,000 plus 50 percent of NW over $65,000 |
+| $195,001–$325,000 | $91,000 plus 60 percent of NW over $195,000 |
 | $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
 
-Subsec. (d)(4)(B). Pub. L. 100 50, §14(5), substituted “$15,999” for “$15,000”.
+Subsec. (d)(4)(B). Pub. L. 100–50, §14(5), substituted “$15,999” for “$15,000”.
 
-Subsec. (d)(4)(C). Pub. L. 100 50, §14(6), substituted “$16,000” for “$15,000” in three places.
+Subsec. (d)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$15,000” in three places.
 
-Subsec. (d)(4)(D). Pub. L. 100 50, §14(7), substituted “income is less than zero” for “income is equal to or less than zero”.
+Subsec. (d)(4)(D). Pub. L. 100–50, §14(7), substituted “income is less than zero” for “income is equal to or less than zero”.
 
-Subsec. (e). Pub. L. 100 50, §14(8), inserted a minus sign before “$3,409” in two places in table.
+Subsec. (e). Pub. L. 100–50, §14(8), inserted a minus sign before “$3,409” in two places in table.
 
-Subsec. (g)(1)(C). Pub. L. 100 50, §14(9), substituted “paragraph (2)” for “paragraph (3)”.
+Subsec. (g)(1)(C). Pub. L. 100–50, §14(9), substituted “paragraph (2)” for “paragraph (3)”.
 
-Subsec. (g)(3). Pub. L. 100 50, §14(10), inserted “(or a successor table prescribed by the Secretary under section 1087rr of this title)” after “following table”.
+Subsec. (g)(3). Pub. L. 100–50, §14(10), inserted “(or a successor table prescribed by the Secretary under section 1087rr of this title)” after “following table”.
 
-Subsec. (h). Pub. L. 100 50, §14(11), added subsec. (h) and struck out former subsec. (h) which read as follows: “The student (and spouse) supplemental income amount from assets is determined by multiplying by 35 percent the sum of—
+Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former subsec. (h) which read as follows: “The student (and spouse) supplemental income amount from assets is determined by multiplying by 35 percent the sum of—
 
 &emsp;“(1) the current balance of checking and savings accounts and cash on hand; and
 
 &emsp;“(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title).”
 
-Subsec. (i). Pub. L. 100 50, §14(12), added subsec. (i).
+Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102 325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

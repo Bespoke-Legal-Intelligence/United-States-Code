@@ -10,7 +10,7 @@ It is the intent of Congress in this Act to preserve unrivaled scenic and geolog
 
 #### (c) Subsistence way of life for rural residents
 
-It is further the intent and purpose of this Act consistent with management of fish and wildlife in accordance with recognized scientific principles and the purposes for which each conservation system unit is established, designated, or expanded by or pursuant to this Act, to provide the opportunity for rural residents engaged in a subsistence way of life to continue to do so.
+It is further the intent and purpose of this Act consistent with management of fish and wildlife in accordance with recognized scientific principles and the purposes for which each conservation system unit is established, designated, or expanded by or pursuant to this Act, to providethe opportunity for rural residents engaged in a subsistence way of life to continue to do so.
 
 #### (d) Need for future legislation obviated
 
@@ -30,5 +30,5 @@ Section 1 of Pub. L. 96–487 provided that: “This Act \[enacting this chapter
 
 #### Act Referred to in Other Sections
 
-The Alaska National Interest Lands Conservation Act is referred to in sections 1248, 3911 of this title; title43 sections 1614, 1617, 1620, 1621, 1629a; title 45 section 1212.
+The Alaska National Interest Lands Conservation Act is referred to in sections 1248, 3911 of this title; title 43 sections 1614, 1617, 1620, 1621, 1629a; title 45 section 1212.
 

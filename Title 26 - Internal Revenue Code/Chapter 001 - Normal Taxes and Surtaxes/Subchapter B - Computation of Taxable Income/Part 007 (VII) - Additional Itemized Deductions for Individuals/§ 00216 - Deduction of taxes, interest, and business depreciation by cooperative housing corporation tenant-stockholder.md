@@ -24,13 +24,13 @@ For purposes of this section—
 
 &emsp;&emsp;(B) each of the stockholders of which is entitled, solely by reason of his ownership of stock in the corporation, to occupy for dwelling purposes a house, or an apartment in a building, owned or leased by such corporation,
 
-&emsp;&emsp;(C) no stockholder of which is entitled (either conditionally or unconditionally) to receive any distribution not out of earningsand profits of the corporation except on a complete or partial liquidation of the corporation, and
+&emsp;&emsp;(C) no stockholder of which is entitled (either conditionally or unconditionally) to receive any distribution not out of earnings and profits of the corporation except on a complete or partial liquidation of the corporation, and
 
 &emsp;&emsp;(D) 80 percent or more of the gross income of which for the taxable year in which the taxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders.
 
 #### (2) Tenant-stockholder
 
-&emsp;The term “tenant-stockholder” means a person who is a stockholder in a cooperative housing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
+&emsp;The term “tenant-stockholder” means a person who is a stockholder in a cooperative housing corporation, and whose stock is fullypaid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
 
 #### (3) Tenant-stockholder's proportionate share
 

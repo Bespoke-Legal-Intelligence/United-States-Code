@@ -68,7 +68,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 Airport Capacity Research and Development.—(1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport design standards, maintenance, safety, operations, and environmental concerns.
 
-(2) The Administrator shall submit to the Committees on Science, Space, and Technology and Public Works and Transportation of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made underparagraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
+(2) The Administrator shall submit to the Committees on Science, Space, and Technology and Public Works and Transportation of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 
 (e)
 
@@ -164,7 +164,7 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives and Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

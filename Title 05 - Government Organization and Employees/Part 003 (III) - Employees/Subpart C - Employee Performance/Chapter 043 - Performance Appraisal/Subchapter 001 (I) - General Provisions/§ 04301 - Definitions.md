@@ -70,7 +70,7 @@ Sept. 2, 1958, Pub. L. 85–857, §13(p), 72 Stat. 1266.
 
 Mar. 26, 1964, Pub. L. 88–290, “Sec. 306(b)”, 78 Stat. 170.
 
-In paragraph (1), the term “Executive agency” is substituted for the reference to “executive departments, the independent establishments and agencies in the executive branch, including corporations wholly owned by the United States” and “the General Accounting Office”. The exception of “a Government controlled corporation” is added in subparagraph (vii) to preserve the application of this chapter to “corporations wholly owned by the United States”. The exceptions for Production credit corporations and Federal intermediate credit banks in former section 2001(b)(5), (6) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the production credit corporations were merged in the Federal intermediate credit banks, and pursuant to that Act the Federal intermediate credit banks have ceased to be corporations owned by the United States. The exceptions for Federal land banks and banks for cooperatives in former section 2001(b)(7), (8) are omitted as included within the exception of “a Government controlled corporation” in subparagraph (vii).
+In paragraph (1), the term “Executive agency” is substituted for the reference to “executive departments, the independent establishments and agencies in the executive branch, including corporations wholly owned by the United States” and “the General Accounting Office”. The exception of “a Government controlled corporation” is added in subparagraph (vii) to preserve the application of this chapter to “corporations wholly owned by the United States”. The exceptions for Production credit corporations and Federal intermediate credit banks in former section 2001(b)(5), (6) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the production credit corporations were merged in the Federal intermediate credit banks, and pursuant to that Act the Federal intermediate creditbanks have ceased to be corporations owned by the United States. The exceptions for Federal land banks and banks for cooperatives in former section 2001(b)(7), (8) are omitted as included within the exception of “a Government controlled corporation” in subparagraph (vii).
 
 Paragraph (2) is supplied because the definition of “employee” in section 2105 does not encompass individuals employed by the government of the District of Columbia. The definition in paragraph (2) does not encompass members of the uniformed services as they are not “employed” in or under an agency.
 
@@ -80,21 +80,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Par. (1)(B)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Par. (1)(B)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1991—Par. (2)(C). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+<b>1991</b>—Par. (2)(C). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
-1990—Par. (1). Pub. L. 101–474 redesignated subpar. (C) as (B) and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
+<b>1990</b>—Par. (1). Pub. L. 101–474 redesignated subpar. (C) as (B) and struck out former subpar. (B) which included Administrative Office of United States Courts within definition of “agency”.
 
 Par. (2)(H). Pub. L. 101–510 added subpar. (H).
 
-1988—Par. (2)(E). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Par. (2)(E). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1978—Pub. L. 95–454 substituted provisions defining “agency”, “employee”, and “unacceptable performance” for provisions defining “agency” and “employee”.
+<b>1978</b>—Pub. L. 95–454 substituted provisions defining “agency”, “employee”, and “unacceptable performance” for provisions defining “agency” and “employee”.
 
 Par. (2)(E). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-1970—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of “agency”.
+<b>1970</b>—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of “agency”.
 
 #### Effective Date of 1978 Amendment
 

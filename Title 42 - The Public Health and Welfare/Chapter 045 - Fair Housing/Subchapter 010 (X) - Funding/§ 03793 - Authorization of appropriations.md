@@ -24,7 +24,7 @@
 
 &emsp;(E) $1,000,000 for fiscal year 2000.
 
-(8) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and suchsums as may be necessary for fiscal year <sup>2</sup> 1994 and 1995.
+(8) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>2</sup> 1994 and 1995.
 
 (9) There are authorized to be appropriated to carry out subchapter XII–C of this chapter—
 
@@ -38,7 +38,7 @@
 
 &emsp;(E) $66,000,000 for fiscal year 2000.
 
-(10) There are <sup>3</sup> authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995, and 1996 to carry out projects under subchapter XII–D of this chapter.
+(10) There are <sup>3</sup> authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995,and 1996 to carry out projects under subchapter XII–D of this chapter.
 
 (11)(A) There are authorized to be appropriated to carry out subchapter XII–E of this chapter, to remain available until expended—
 
@@ -148,7 +148,7 @@
 
 #### Prior Provisions
 
-A prior section 3793, Pub. L. 90–351, title I, §653, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218,subjected the operation of the law enforcement and criminal justice program under this chapter to section 371 of Title 18, Crimes and Criminal Procedure, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795b of this title.
+A prior section 3793, Pub. L. 90–351, title I, §653, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, subjected the operation of the law enforcement and criminal justice program under this chapter to section 371 of Title 18, Crimes and Criminal Procedure, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795b of this title.
 
 A prior section 1001 of Pub. L. 90–351, title V, June 19, 1968, 82 Stat. 235, enacted section 7313 of Title 5, Government Organization and Employees.
 
@@ -158,7 +158,7 @@ A prior section 1001 of Pub. L. 90–351, title V, June 19, 1968, 82 Stat. 235, 
 
 Subsec. (a)(3). Pub. L. 103–322, §210601(3), substituted “1994 and 1995” for “1993 and 1994”.
 
-Pub. L. 103–322, §210302(c)(3)(A), which directed the substitution of “XII–K, and XII–L” for “and XII–K” in par. (3) of this section, was executed by making the substitution in par. (3) of subsec. (a) to reflect the probable intent of Congress.
+Pub. L. 103–322, §210302(c)(3)(A), which directed the substitution of “XII–K, and XII–L” for “and XII–K” inpar. (3) of this section, was executed by making the substitution in par. (3) of subsec. (a) to reflect the probable intent of Congress.
 
 Pub. L. 103–322, §210201(c)(1), substituted “XII–J, and XII–K” for “and XII–J”.
 
@@ -236,7 +236,7 @@ Subsec. (a)(10). Pub. L. 102–521, §4(c)(2), added par. (10).
 
 1990—Subsec. (a)(3). Pub. L. 101–647, §241(c)(1)(A), substituted “XII–A, and XII–B” for “and XII–A”.
 
-Subsec. (a)(5). Pub. L. 101–647, §2801, amended par. (5) generally. Prior to amendment, par. (5) read as follows:“There are authorized to be appropriated $275,000,000 for fiscal year 1989; $350,000,000 for fiscal year 1990; $400,000,000 for fiscal year 1991; and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V of this chapter.”
+Subsec. (a)(5). Pub. L. 101–647, §2801, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “There are authorized to be appropriated $275,000,000 for fiscal year 1989; $350,000,000 for fiscal year 1990; $400,000,000 for fiscal year 1991; and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V of this chapter.”
 
 Subsec. (a)(6). Pub. L. 101–647, §1801(e), added par. (6) relating to authorization of appropriations for subpart 2 of part B of subchapter V of this chapter.
 

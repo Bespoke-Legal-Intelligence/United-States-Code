@@ -44,7 +44,7 @@ The Secretary may make grants to and enter into contracts with public and nonpro
 
 For the purpose of carrying out this section, there is authorized to be appropriated $20,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title VIII, §822, as added July 29, 1975, Pub. L. 94–63, title IX, §931(a), 89 Stat. 361; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(<i>o</i>)(5)(A), 91 Stat. 393; Sept. 29, 1979, Pub. L. 96–76, title I, §107, 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2755, 95 Stat.930; Aug. 16, 1985, Pub. L. 99–92, §5, 99 Stat. 394; Oct. 22, 1985, Pub. L. 99–129, title II, §227(c), 99 Stat. 548; Nov. 4, 1988, Pub. L. 100–607, title VII, §703, 102 Stat. 3157; Aug. 16, 1989, Pub. L. 101–93, §5(q), 103 Stat. 614; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035; Oct. 13, 1992, Pub. L. 102–408, title II, §204, 106 Stat. 2072.)
+(July 1, 1944, ch. 373, title VIII, §822, as added July 29, 1975, Pub. L. 94–63, title IX, §931(a), 89 Stat. 361; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(<i>o</i>)(5)(A), 91 Stat. 393; Sept. 29, 1979, Pub. L. 96–76, title I, §107, 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2755, 95 Stat. 930; Aug. 16, 1985, Pub. L. 99–92, §5, 99 Stat. 394; Oct. 22, 1985, Pub. L. 99–129, title II, §227(c), 99 Stat. 548; Nov. 4, 1988, Pub. L. 100–607, title VII, §703, 102 Stat. 3157; Aug. 16, 1989, Pub. L. 101–93, §5(q), 103 Stat. 614; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035; Oct. 13, 1992, Pub. L. 102–408, title II, §204, 106 Stat. 2072.)
 
 #### Amendments
 

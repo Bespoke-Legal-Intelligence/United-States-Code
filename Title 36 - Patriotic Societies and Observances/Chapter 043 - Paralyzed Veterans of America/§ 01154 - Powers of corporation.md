@@ -10,7 +10,7 @@ The corporation shall have perpetual succession and shall have power—
 
 &emsp;(d) to accept gifts, legacies, and devises which will further the corporate purposes;
 
-&emsp;(e) to borrow money for the purposes of the corporation, issue bonds therefor, and securethe same by mortgage, subject in every case to all applicable provisions of Federal and State law;
+&emsp;(e) to borrow money for the purposes of the corporation, issue bonds therefor, and secure the same by mortgage, subject in every case to all applicable provisions of Federal and State law;
 
 &emsp;(f) to adopt and alter a corporate seal;
 

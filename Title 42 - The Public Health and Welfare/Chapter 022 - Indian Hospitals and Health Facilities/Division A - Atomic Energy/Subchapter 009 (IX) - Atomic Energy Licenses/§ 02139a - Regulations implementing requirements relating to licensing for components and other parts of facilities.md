@@ -10,7 +10,7 @@
 
 #### References in Text
 
-Commission, referred to in text, is defined as meaning the Nuclear Regulatory Commission by section4(a)(1) of the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, which is classified to section 3203(a)(1) of Title 22, Foreign Relations and Intercourse.
+Commission, referred to in text, is defined as meaning the Nuclear Regulatory Commission by section 4(a)(1) of the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, which is classified to section 3203(a)(1) of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 

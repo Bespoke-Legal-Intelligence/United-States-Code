@@ -1,0 +1,82 @@
+### §5621. Direct credit sales program
+
+#### (a) Short-term program
+
+To promote the sale of agricultural commodities, the Commodity Credit Corporation may finance the commercial export sale of such commodities from privately owned stocks on credit terms for not to exceed a 3-year period.
+
+#### (b) Intermediate-term program
+
+Subject to subsection (c) of this section, to promote the sale of agricultural commodities the Commodity Credit Corporation may finance the commercial export sales of agricultural commodities from privately owned stocks on credit terms for a period of not less than 3 years nor in excess of 10 years in a manner that will directly benefit United States agricultural producers.
+
+#### (c) Determinations
+
+The Commodity Credit Corporation shall not finance an export sale under subsection (b) of this section unless the Secretary determines that such sale will—
+
+&emsp;(1) develop, expand, or maintain the importing country as a foreign market, on a long-term basis, for the commercial sale and export of United States agricultural commodities, without displacing normal commercial sales;
+
+&emsp;(2) improve the capability of the importing country to purchase and use, on a long-term basis, United States agricultural commodities; or
+
+&emsp;(3) otherwise promote the export of United States agricultural commodities.
+
+> The reference in paragraphs (1) and (2) to “on a long-term basis” shall not apply in the case of determinations with respect to sales to the independent states of the former Soviet Union.
+
+#### (d) Use of program
+
+#### (1) General uses
+
+&emsp;The Commodity Credit Corporation may use export sales financing authorized under this section—
+
+&emsp;&emsp;(A) to increase exports of agricultural commodities;
+
+&emsp;&emsp;(B) to compete against foreign agricultural exports;
+
+&emsp;&emsp;(C) to assist countries in meeting their food and fiber needs, particularly—
+
+&emsp;&emsp;&emsp;(i) developing countries; and
+
+&emsp;&emsp;&emsp;(ii) countries that are emerging democracies that have committed to carry out, or are carrying out, policies that promoteeconomic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
+
+&emsp;&emsp;(D) for such other purposes as the Secretary determines appropriate consistent with the provisions of subsection (c) of this section.
+
+#### (2) General restrictions
+
+&emsp;Export sales financing authorized under this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall not apply to export sales financed under this section.
+
+#### (e) Terms of credit assistance
+
+Any contract for the financing of exports by the Commodity Credit Corporation under this section shall include—
+
+&emsp;(1) a requirement that repayment shall be made in dollars with interest accruing thereon as determined appropriate by the Secretary; and
+
+&emsp;(2) a requirement, if the Secretary determines such requirement appropriate to protect the interests of the United States, that an initial payment be made by the purchaser at the time of sale or shipment of the agricultural commodity that is subject to the contract.
+
+#### (f) Restrictions
+
+The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+
+(Pub. L. 95–501, title II, §201, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3672; amended Pub. L. 102–511, title VII, §707(a)–(c), Oct. 24, 1992, 106 Stat. 3350, 3351.)
+
+#### References in Text
+
+The cargo preference laws, referred to in subsec. (d)(2), include act Mar. 26, 1934, ch. 90, 48 Stat. 500, and act Aug. 26, 1954, ch. 936, 68 Stat. 832, which are classified to sections 1241–1 and 1241, respectively, of Title 46, Appendix, Shipping.
+
+#### Prior Provisions
+
+A prior section 201 of Pub. L. 95–501 enacted section 1707b of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
+
+#### Amendments
+
+1992—Subsec. (c). Pub. L. 102–511, §707(a), inserted sentence at end.
+
+Subsec. (d)(1)(C). Pub. L. 102–511, §707(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
+
+Subsec. (f). Pub. L. 102–511, §707(c), added subsec. (f).
+
+#### Regulations
+
+Section 707(d) of Pub. L. 102–511 provided that: “The Secretary of Agriculture shall issue final regulations to implement section 201 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621), as amended by this section, not later than 30 days after the date of enactment of this Act \[Oct. 24, 1992\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5625, 5641, 5661, 5662 of this title.
+

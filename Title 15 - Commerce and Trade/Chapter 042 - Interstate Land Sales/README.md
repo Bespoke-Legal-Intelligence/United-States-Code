@@ -70,7 +70,7 @@
 | (h) | Use of penalties for administration. |
 | [1718\.](%C2%A7%2001718%20-%20Rules%2C%20regulations%2C%20and%20orders.md) | Rules, regulations, and orders. |
 | [1719\.](%C2%A7%2001719%20-%20Jurisdiction%20of%20offenses%20and%20suits.md) | Jurisdiction of offenses and suits. |
-| [1719a.](%C2%A7%2001719a%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [1719a.](%C2%A7%2001719a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71071%28c%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20720.md) | Repealed. |
 | [1720\.](%C2%A7%2001720%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -100,5 +100,5 @@
 - [&sect; 01717a - Civil money penalties](%C2%A7%2001717a%20-%20Civil%20money%20penalties.md)
 - [&sect; 01718 - Rules, regulations, and orders](%C2%A7%2001718%20-%20Rules%2C%20regulations%2C%20and%20orders.md)
 - [&sect; 01719 - Jurisdiction of offenses and suits](%C2%A7%2001719%20-%20Jurisdiction%20of%20offenses%20and%20suits.md)
-- [&sect; 01719a - Reports to Congress](%C2%A7%2001719a%20-%20Reports%20to%20Congress.md)
+- [&sect; 01719a - Repealed. Pub. L. 104&#8211;66, title I, &sect;1071(c), Dec. 21, 1995, 109 Stat. 720](%C2%A7%2001719a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71071%28c%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20720.md)
 - [&sect; 01720 - Authorization of appropriations](%C2%A7%2001720%20-%20Authorization%20of%20appropriations.md)

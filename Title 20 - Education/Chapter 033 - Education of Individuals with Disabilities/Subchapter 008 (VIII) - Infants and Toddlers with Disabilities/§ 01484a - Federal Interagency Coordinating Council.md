@@ -18,7 +18,7 @@
 
 #### (2) Appointments
 
-&emsp;The council established under paragraph (1) (hereafter in this section referred to as the“Council”) and the chairperson of the Council shall be appointed by the Secretary in consultation with other appropriate Federal agencies. In making the appointments, the Secretary shall ensure that each member has sufficient authority to engage in policy planning and implementation on behalf of the department, agency, or program that such member represents.
+&emsp;The council established under paragraph (1) (hereafter in this section referred to as the “Council”) and the chairperson of the Council shall be appointed by the Secretary in consultation with other appropriate Federal agencies. In making the appointments, the Secretary shall ensure that each member has sufficient authority to engage in policy planning and implementation on behalf of the department, agency, or program that such member represents.
 
 #### (b) Composition
 
@@ -90,31 +90,31 @@ The Council shall—
 
 No member of the Council shall cast a vote on any matter that would provide direct financial benefit to that member or otherwise give the appearance of a conflict of interest under Federal law.
 
-(Pub. L. 91 230, title VI, §685, as added Pub. L. 102 119, §21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102 321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 103 448, title II, §204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746.)
+(Pub. L. 91–230, title VI, §685, as added Pub. L. 102–119, §21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, §204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (b)(4), is title I of Pub. L. 88 164, as added by Pub. L. 98 527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (b)(4), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 685 of Pub. L. 91 230, was renumbered section 686 of Pub. L. 91 230 and is classified to section 1485 of this title.
+A prior section 685 of Pub. L. 91–230, was renumbered section 686 of Pub. L. 91–230 and is classified to section 1485 of this title.
 
 #### Amendments
 
-1994—Subsec. (b)(8). Pub. L. 103 448 substituted “special supplemental nutrition program for women, infants, and children” for “Special Supplemental Food Program for Women, Infants and Children”.
+1994—Subsec. (b)(8). Pub. L. 103–448 substituted “special supplemental nutrition program for women, infants, and children” for “Special Supplemental Food Program for Women, Infants and Children”.
 
-1992—Subsec. (b)(16). Pub. L. 102 321 substituted “Substance Abuse and Mental Health Services Administration” for “Alcohol, Drug Abuse and Mental Health Administration”.
+1992—Subsec. (b)(16). Pub. L. 102–321 substituted “Substance Abuse and Mental Health Services Administration” for “Alcohol, Drug Abuse and Mental Health Administration”.
 
 #### Change of Name
 
-Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102 531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
+Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103 448 effective Oct. 1, 1994, see section 401 of Pub. L. 103 448, set out as a note under section 1755 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 321 effective Oct. 1, 1992, see section 801(c) of Pub. L. 102 321, set out as a note under section 236 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 102–321 effective Oct. 1, 1992, see section 801(c) of Pub. L. 102–321, set out as a note under section 236 of Title 42, The Public Health and Welfare.
 

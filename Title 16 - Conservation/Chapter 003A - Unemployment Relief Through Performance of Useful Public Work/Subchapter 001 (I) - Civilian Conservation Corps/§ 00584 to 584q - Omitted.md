@@ -84,7 +84,7 @@ Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, 
 
 #### Continuance of Employment
 
-Act July 1, 1937, ch. 425, §1, 50 Stat. 470, provided for continuance of employment without reappointment ofcertain employees of Emergency Conservation Work and of cooperating Federal agencies.
+Act July 1, 1937, ch. 425, §1, 50 Stat. 470, provided for continuance of employment without reappointment of certain employees of Emergency Conservation Work and of cooperating Federal agencies.
 
 #### Cooperation of Department Heads Authorized
 

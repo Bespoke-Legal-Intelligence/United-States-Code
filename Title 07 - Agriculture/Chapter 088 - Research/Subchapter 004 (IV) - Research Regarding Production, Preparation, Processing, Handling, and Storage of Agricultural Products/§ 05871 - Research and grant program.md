@@ -1,0 +1,54 @@
+### §5871. Research and grant program
+
+#### (a) Research program
+
+The Secretary of Agriculture shall establish a research program to—
+
+&emsp;(1) establish a statistical framework to measure microbiological and chemical agents in or affecting agricultural products that seriously undermine product wholesomeness and fitness;
+
+&emsp;(2) identify any microbiological or chemical agent under the statistical framework established under paragraph (1); and
+
+&emsp;(3) identify the means to avoid microbiological and chemical agents in or affecting agricultural products or to control or reduce such agents, including—
+
+&emsp;&emsp;(A) developing techniques for the rapid detection and identification of such microbiological and chemical agents;
+
+&emsp;&emsp;(B) analyzing the production, preparation, processing, handling, storage, and distribution of agricultural products, to determine those points at which intervention could occur to control microbiological or chemical agents in or affecting an agricultural product; and
+
+&emsp;&emsp;(C) research to develop or enhance existing techniques to control microbiological or chemical agents in or affecting an agricultural product, including food irradiation research.
+
+#### (b) Competitive grant program
+
+The Secretary of Agriculture may make competitive grants, after consultation with the committee established under section 5872 of this title, for periods not to exceed five years, to persons and governmental entities for research to be carried out for any of the activities specified in subsection (a) of this section. The Secretary shall require the recipient of any such grant to provide matching funds for such research unless the Secretary determines that the research should be performed notwithstanding the lack of matching funds.
+
+#### (c) Prohibited uses
+
+No grant may be made under subsection (b) of this section (or expended by the recipient of such a grant) for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+
+#### (d) Eligibility requirements
+
+To be eligible to receive a grant under subsection (b) of this section, a person or governmental entity shall submit to the Secretary an application that contains—
+
+&emsp;(1) a proposal to carry out research for one or more of the activities specified in subsection (a) of this section;
+
+&emsp;(2) an assurance that such person or entity will submit to the Secretary a detailed report of the research conducted with such grant; and
+
+&emsp;(3) such other terms and conditions as the Secretary may require by rule.
+
+#### (e) Effect on other programs
+
+Nothing in this section shall be construed or interpreted—
+
+&emsp;(1) to limit or otherwise affect the research programs of any agency or department of the Federal Government currently conducted or to be conducted under any other statutory authority; or
+
+&emsp;(2) to implement any changes to current production, preparation, processing, handling and storage methods and procedures for agricultural products.
+
+#### (f) “Agricultural product” defined
+
+For purposes of this section, the term “agricultural product” means the product of an agricultural commodity produced in the United States from a plant or animal or silvicultural activities, or an aquacultural species, including those raised and propagated in a controlled environment.
+
+(Pub. L. 101–624, title XVI, §1644, Nov. 28, 1990, 104 Stat. 3751.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5872 of this title.
+

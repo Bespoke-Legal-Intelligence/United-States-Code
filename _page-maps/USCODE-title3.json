@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title3",
- "package": "USCODE-1994-title3",
+ "package": "USCODE-1995-title3",
  "pieces": [
   {
    "id": "3_",
@@ -272,10 +272,19 @@
   },
   {
    "id": "3_&nbsp;",
+   "marks": [],
+   "path": "Chapter 001 - Presidential Elections and Vacancies/3_&nbsp;.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "id": "3_-ch2",
    "marks": [
     [
      "I",
-     81,
+     79,
      [
       [
        327,
@@ -285,7 +294,7 @@
     ],
     [
      "I",
-     175,
+     173,
      [
       [
        159,
@@ -295,7 +304,7 @@
     ],
     [
      "I",
-     267,
+     265,
      [
       [
        532,
@@ -305,7 +314,7 @@
     ],
     [
      "I",
-     347,
+     345,
      [
       [
        161,
@@ -315,12 +324,12 @@
     ],
     [
      "L",
-     411,
+     409,
      "[Page 12]",
      true
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/10.md",
+   "path": "Chapter 002 - Office and Compensation of President/README.md",
    "printed_pages": [
     7,
     12
@@ -336,7 +345,7 @@
      true
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00101 - Commencement of term of office.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00101 - Commencement of term of office.md",
    "printed_pages": [
     12,
     13
@@ -367,12 +376,12 @@
     ],
     [
      "L",
-     186,
+     188,
      "[Page 16]",
      true
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00102 - Compensation of the President.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00102 - Compensation of the President.md",
    "printed_pages": [
     13,
     16
@@ -392,7 +401,7 @@
      ]
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00103 - Traveling expenses.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00103 - Traveling expenses.md",
    "printed_pages": [
     16,
     17
@@ -408,7 +417,7 @@
      true
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00104 - Salary of the Vice President.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00104 - Salary of the Vice President.md",
    "printed_pages": [
     17,
     18
@@ -422,7 +431,7 @@
      2,
      [
       [
-       242,
+       105,
        "[Page 19]"
       ]
      ]
@@ -432,13 +441,13 @@
      50,
      [
       [
-       964,
+       859,
        "[Page 20]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00105 - Assistance and services for the President.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00105 - Assistance and services for the President.md",
    "printed_pages": [
     18,
     20
@@ -460,7 +469,7 @@
      true
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00106 - Assistance and services for the Vice President.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00106 - Assistance and services for the Vice President.md",
    "printed_pages": [
     20,
     22
@@ -469,7 +478,7 @@
   {
    "id": "3_107",
    "marks": [],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00107 - Domestic Policy Staff and Office of Administration; personnel.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00107 - Domestic Policy Staff and Office of Administration; personnel.md",
    "printed_pages": [
     22,
     22
@@ -489,7 +498,7 @@
      ]
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00108 - Assistance to the President for unanticipated needs.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00108 - Assistance to the President for unanticipated needs.md",
    "printed_pages": [
     22,
     23
@@ -498,7 +507,7 @@
   {
    "id": "3_109",
    "marks": [],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00109 - Public property in and belonging to the Executive Residence at the White House.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00109 - Public property in and belonging to the Executive Residence at the White House.md",
    "printed_pages": [
     23,
     23
@@ -524,7 +533,7 @@
      ]
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00110 - Furniture for the Executive Residence at the White House.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00110 - Furniture for the Executive Residence at the White House.md",
    "printed_pages": [
     23,
     25
@@ -538,13 +547,13 @@
      60,
      [
       [
-       370,
+       158,
        "[Page 26]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00111 - Expense allowance of Vice President.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00111 - Expense allowance of Vice President.md",
    "printed_pages": [
     25,
     26
@@ -553,7 +562,7 @@
   {
    "id": "3_112",
    "marks": [],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00112 - Detail of employees of executive departments.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00112 - Detail of employees of executive departments.md",
    "printed_pages": [
     26,
     26
@@ -563,13 +572,17 @@
    "id": "3_113",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 27]",
-     true
+     "I",
+     38,
+     [
+      [
+       98,
+       "[Page 27]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00113 - Personnel report.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00113 - Personnel report.md",
    "printed_pages": [
     26,
     27
@@ -578,7 +591,7 @@
   {
    "id": "3_114",
    "marks": [],
-   "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00114 - General pay limitation.md",
+   "path": "Chapter 002 - Office and Compensation of President/§ 00114 - General pay limitation.md",
    "printed_pages": [
     27,
     27
@@ -607,20 +620,20 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       93,
+       1317,
        "[Page 28]"
       ]
      ]
     ],
     [
      "I",
-     76,
+     68,
      [
       [
-       103,
+       102,
        "[Page 29]"
       ]
      ]
@@ -645,10 +658,14 @@
    "id": "3_204",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 30]",
-     true
+     "I",
+     4,
+     [
+      [
+       133,
+       "[Page 30]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00204 - Grades, salaries, and transfers of appointees.md",
@@ -689,10 +706,10 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       230,
+       417,
        "[Page 31]"
       ]
      ]
@@ -706,26 +723,26 @@
   },
   {
    "id": "3_209",
-   "marks": [],
-   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00209 - Appropriation to carry out provisions.md",
-   "printed_pages": [
-    31,
-    31
-   ]
-  },
-  {
-   "id": "3_-ch4",
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 32]",
      true
     ]
    ],
-   "path": "Chapter 004 - Delegation of Functions/README.md",
+   "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00209 - Appropriation to carry out provisions.md",
    "printed_pages": [
     31,
+    32
+   ]
+  },
+  {
+   "id": "3_-ch4",
+   "marks": [],
+   "path": "Chapter 004 - Delegation of Functions/README.md",
+   "printed_pages": [
+    32,
     32
    ]
   },
@@ -734,123 +751,119 @@
    "marks": [
     [
      "I",
-     50,
+     44,
      [
       [
-       222,
+       163,
        "[Page 33]"
       ]
      ]
     ],
     [
-     "L",
-     88,
-     "[Page 34]",
-     true
+     "I",
+     84,
+     [
+      [
+       1138,
+       "[Page 34]"
+      ]
+     ]
     ],
     [
      "I",
-     142,
+     138,
      [
       [
-       650,
+       156,
        "[Page 35]"
       ]
      ]
     ],
     [
      "I",
-     194,
+     188,
      [
       [
-       278,
+       101,
        "[Page 36]"
       ]
      ]
     ],
     [
-     "I",
-     234,
-     [
-      [
-       109,
-       "[Page 37]"
-      ]
-     ]
-    ],
-    [
      "L",
-     290,
-     "[Page 38]",
+     228,
+     "[Page 37]",
      true
     ],
     [
      "I",
-     348,
+     282,
      [
       [
-       215,
+       108,
+       "[Page 38]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     346,
+     [
+      [
+       154,
        "[Page 39]"
       ]
      ]
     ],
     [
      "I",
-     414,
+     396,
      [
       [
-       111,
+       654,
        "[Page 40]"
       ]
      ]
     ],
     [
-     "I",
-     478,
-     [
-      [
-       768,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     474,
+     "[Page 41]",
+     true
     ],
     [
      "L",
-     528,
+     518,
      "[Page 42]",
      true
     ],
     [
      "L",
-     578,
+     570,
      "[Page 43]",
      true
     ],
     [
      "L",
-     638,
+     620,
      "[Page 44]",
      true
     ],
     [
      "I",
-     706,
+     694,
      [
       [
-       103,
+       163,
        "[Page 45]"
       ]
      ]
     ],
     [
-     "I",
-     780,
-     [
-      [
-       826,
-       "[Page 46]"
-      ]
-     ]
+     "L",
+     768,
+     "[Page 46]",
+     true
     ]
    ],
    "path": "Chapter 004 - Delegation of Functions/§ 00301 - General authorization to delegate functions; publication of delegations.md",
@@ -878,6 +891,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1994-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1995-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 03 - The President"
 }

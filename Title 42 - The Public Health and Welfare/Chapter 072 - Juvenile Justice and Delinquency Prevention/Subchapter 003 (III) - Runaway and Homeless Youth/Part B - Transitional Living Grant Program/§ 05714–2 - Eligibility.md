@@ -12,7 +12,7 @@
 
 &emsp;(5) to provide a number of staff sufficient to ensure that all homeless youth participating in such project receive adequate supervision and services;
 
-&emsp;(6) to provide a written transitional living plan to each youth based on an assessment ofsuch youth's needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
+&emsp;(6) to provide a written transitional living plan to each youth based on an assessment of such youth's needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 
 &emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational, vocational, training, welfare, legal service, and health care programs and to help integrate and coordinate such services for youths;
 

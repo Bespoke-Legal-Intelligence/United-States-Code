@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;(7) the term “State” means each of the several States, the District of Columbia, Guam, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federal States of Micronesia, and the Republic of Palau (until the Compact of Free Association is ratified).
 
-(Pub. L. 102 259, §4, Mar. 19, 1992, 106 Stat. 78.)
+(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78.)
 
 #### References in Text
 

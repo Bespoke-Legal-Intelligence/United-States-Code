@@ -14,7 +14,7 @@ Grants and Contracts.—The Secretary may make grants and enter into contracts f
 
 &emsp;(3) establish, in cooperation with State transportation or highway departments and universities (A) urban technical assistance program centers in States with 2 or more urbanized areas of 50,000 to 1,000,000 population, and (B) rural technical assistance program centers.
 
-> Not less than 2 centers under paragraph (3) shall be designated to provide transportation assistance that may include, but is not necessarily limited to, a “circuit-rider” program, providing training on intergovernmental transportationplanning and project selection, and tourism recreational travel to American Indian tribal governments.
+> Not less than 2 centers under paragraph (3) shall be designated to provide transportation assistance that may include, but is not necessarily limited to, a “circuit-rider” program, providing training on intergovernmental transportation planning and project selection, and tourism recreational travel to American Indian tribal governments.
 
 (c)
 

@@ -24,7 +24,7 @@
 
 (3)(A) If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of this title and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property <sup>1</sup> (referred to in section 3511(d)(15) of this title), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.
 
-(B) If the Trade Representative determines with respect to an investigation initiated by reason of section 2412(b)(2) of this title (other than an investigation involving a trade agreement) that—
+(B) If the Trade Representative determines with respect to an investigation initiated by reason of section 2412(b)(2) of this title (otherthan an investigation involving a trade agreement) that—
 
 &emsp;(i) complex or complicated issues are involved in the investigation that require additional time,
 

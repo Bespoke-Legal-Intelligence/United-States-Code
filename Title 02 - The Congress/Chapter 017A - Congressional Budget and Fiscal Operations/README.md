@@ -77,20 +77,56 @@
 
 #### SUBCHAPTER II—FISCAL PROCEDURES
 
+#### Part A—General Provisions
+
 |  |  |
 | :--- | ---: |
-| [651\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/%C2%A7%2000651%20-%20Bills%20providing%20new%20spending%20authority.md) | Bills providing new spending authority. |
+| [651\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000651%20-%20Bills%20providing%20new%20spending%20authority.md) | Bills providing new spending authority. |
 | (a) | Controls on legislation providing spending authority. |
 | (b) | Legislation providing entitlement authority. |
 | (c) | Definitions. |
 | (d) | Exceptions. |
-| [652\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/%C2%A7%2000652%20-%20Legislation%20providing%20new%20credit%20authority.md) | Legislation providing new credit authority. |
+| [652\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000652%20-%20Legislation%20providing%20new%20credit%20authority.md) | Legislation providing new credit authority. |
 | (a) | Controls on legislation providing new credit authority. |
 | (b) | “New credit authority” defined. |
-| [653\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/%C2%A7%2000653%20-%20Analysis%20by%20Congressional%20Budget%20Office.md) | Analysis by Congressional Budget Office. |
-| [654\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/%C2%A7%2000654%20-%20Study%20by%20General%20Accounting%20Office%20of%20forms%20of%20Federal%20financial%20commitment%20not%20reviewed%20annually%20by%20Congress.md) | Study by General Accounting Office of forms of Federal financial commitment not reviewed annually by Congress. |
-| [655\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/%C2%A7%2000655%20-%20Off-budget%20agencies%2C%20programs%2C%20and%20activities.md) | Off-budget agencies, programs, and activities. |
-| [656\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/%C2%A7%2000656%20-%20Member%20User%20Group.md) | Member User Group. |
+| [653\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000653%20-%20Analysis%20by%20Congressional%20Budget%20Office.md) | Analysis by Congressional Budget Office. |
+| [654\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000654%20-%20Study%20by%20General%20Accounting%20Office%20of%20forms%20of%20Federal%20financial%20commitment%20not%20reviewed%20annually%20by%20Congress.md) | Study by General Accounting Office of forms of Federal financial commitment not reviewed annually by Congress. |
+| [655\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000655%20-%20Off-budget%20agencies%2C%20programs%2C%20and%20activities.md) | Off-budget agencies, programs, and activities. |
+| [656\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000656%20-%20Member%20User%20Group.md) | Member User Group. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Federal Mandates
+
+|  |  |
+| :--- | ---: |
+| [658\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658%20-%20Definitions.md) | Definitions. |
+| [658a.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658a%20-%20Exclusions.md) | Exclusions. |
+| [658b.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658b%20-%20Duties%20of%20Congressional%20committees.md) | Duties of Congressional committees. |
+| (a) | In general. |
+| (b) | Submission of bills to Director. |
+| (c) | Reports on Federal mandates. |
+| (d) | Intergovernmental mandates. |
+| (e) | Preemption clarification and information. |
+| (f) | Publication of statement from Director. |
+| [658c.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658c%20-%20Duties%20of%20Director%3B%20statements%20on%20bills%20and%20joint%20resolutions%20other%20than%20appropriations%20bills%20and%20joint%20resolutions.md) | Duties of Director; statements on bills and joint resolutions other than appropriations bills and joint resolutions. |
+| (a) | Federal intergovernmental mandates in reported bills and resolutions. |
+| (b) | Federal private sector mandates in reported bills and joint resolutions. |
+| (c) | Legislation falling below direct costs thresholds. |
+| (d) | Amended bills and joint resolutions; conference reports. |
+| [658d.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658d%20-%20Legislation%20subject%20to%20point%20of%20order.md) | Legislation subject to point of order. |
+| (a) | In general. |
+| (b) | Rule of construction. |
+| (c) | Committee on Appropriations. |
+| (d) | Determinations of applicability to pending legislation. |
+| (e) | Determinations of Federal mandate levels. |
+| [658e.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658e%20-%20Provisions%20relating%20to%20House%20of%20Representatives.md) | Provisions relating to House of Representatives. |
+| (a) | Enforcement in House of Representatives. |
+| (b) | Disposition of points of order. |
+| [658f.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658f%20-%20Requests%20to%20Congressional%20Budget%20Office%20from%20Senators.md) | Requests to Congressional Budget Office from Senators. |
+| [658g.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20B%20-%20Federal%20Mandates/%C2%A7%2000658g%20-%20Clarification%20of%20application.md) | Clarification of application. |
+| (a) | In general. |
+| (b) | Direct costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

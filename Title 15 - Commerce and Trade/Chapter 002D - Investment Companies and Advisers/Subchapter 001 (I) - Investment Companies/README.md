@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 77b, 78c, 78m, 78n, 78<i>o</i>, 78s, 78u–2, 80b–2, 80b–3, 80b–5, 687, 687b, 3904 of this title; title 7 sections 6, 12a; title 12 sections 1464, 1465, 1831a, 1843, 2279aa–12, 3503; title 26 sections 368, 851, 852, 856, 1246, 4975, 6049; title 29 sections 432, 1001, 1002, 1101; title 42 section 9675; title 43 section 1625; title 49 section 11301.
+This subchapter is referred to in sections 77b, 78c, 78m, 78n, 78<i>o</i>, 78s, 78u–2, 80b–2, 80b–3, 80b–5, 687, 687b, 3904 of this title; title 7 sections 6, 12a; title 12 sections 1464, 1465, 1831a, 1843, 2279aa–12, 3503; title 26 sections 368, 851, 852, 856, 1246, 4975, 6049; title 29 sections 432, 1001, 1002, 1101; title 42 section 9675; title 43 section 1625.
 
 
 ---
@@ -12,6 +12,7 @@ This subchapter is referred to in sections 77b, 78c, 78m, 78n, 78<i>o</i>, 78s, 
 - [&sect; 00080a&#8211;1 - Findings and declaration of policy](%C2%A7%2000080a%E2%80%931%20-%20Findings%20and%20declaration%20of%20policy.md)
 - [&sect; 00080a&#8211;2 - Definitions](%C2%A7%2000080a%E2%80%932%20-%20Definitions.md)
 - [&sect; 00080a&#8211;3 - Definition of investment company](%C2%A7%2000080a%E2%80%933%20-%20Definition%20of%20investment%20company.md)
+- [&sect; 00080a&#8211;3a - Protection of philanthropy under State law](%C2%A7%2000080a%E2%80%933a%20-%20Protection%20of%20philanthropy%20under%20State%20law.md)
 - [&sect; 00080a&#8211;4 - Classification of investment companies](%C2%A7%2000080a%E2%80%934%20-%20Classification%20of%20investment%20companies.md)
 - [&sect; 00080a&#8211;5 - Subclassification of management companies](%C2%A7%2000080a%E2%80%935%20-%20Subclassification%20of%20management%20companies.md)
 - [&sect; 00080a&#8211;6 - Exemptions](%C2%A7%2000080a%E2%80%936%20-%20Exemptions.md)

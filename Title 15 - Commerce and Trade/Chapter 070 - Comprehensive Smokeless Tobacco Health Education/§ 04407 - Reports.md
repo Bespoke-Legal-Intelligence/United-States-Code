@@ -16,5 +16,5 @@ The Secretary of Health and Human Services shall transmit a report to the Congre
 
 The Federal Trade Commission shall transmit a report to the Congress not later than January 11, 1987, and biennially thereafter, containing (1) a description of the current sales, advertising, and marketing practices associated with smokeless tobacco products, and (2) such recommendations for legislation and administrative action as it deems appropriate.
 
-(Pub. L. 99 252, §8, Feb. 27, 1986, 100 Stat. 34.)
+(Pub. L. 99–252, §8, Feb. 27, 1986, 100 Stat. 34.)
 

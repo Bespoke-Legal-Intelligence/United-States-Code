@@ -1,4 +1,4 @@
-### §8112 . Maximum and minimum monthly payments
+### §8112. Maximum and minimum monthly payments
 
 (a) Except as provided by section 8138 of this title, the monthly rate of compensation for disability, including augmented compensation under section 8110 of this title but not including additional compensation under section 8111 of this title, may not be more than 75 percent of the monthly pay of the maximum rate of basic pay for GS–15, and in case of total disability may not be less than 75 percent of the monthly pay of the minimum rate of basic pay for GS–2 or the amount of the monthly pay of the employee, whichever is less.
 
@@ -46,7 +46,7 @@ The words “maximum rate of basic pay for GS–15” and “minimum rate of bas
 
 #### Amendments
 
-1988—Pub. L. 100–566 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–566 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Personnel Not Affected by 1967 Increase
 

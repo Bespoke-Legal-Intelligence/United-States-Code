@@ -28,7 +28,7 @@ For purposes of subsection (a) of this section, the term “natural gas covered 
 
 &emsp;&emsp;(B) authorized by the Commission under section 3371(a) of this title.
 
-(Pub. L. 95 621, title III, §314, Nov. 9, 1978, 92 Stat. 3392.)
+(Pub. L. 95–621, title III, §314, Nov. 9, 1978, 92 Stat. 3392.)
 
 #### References in Text
 

@@ -1,4 +1,4 @@
-### §55 . United States Code Annotated or United States Code Service; procurement for Senators
+### §55. United States Code Annotated or United States Code Service; procurement for Senators
 
 In lieu of the volumes of the Code of Laws of the United States, and the supplements thereto, supplied a Senator under section 212 of title 1, the Secretary of the Senate is authorized and directed to supply to a Senator upon written request of, and as specified by, that Senator—
 

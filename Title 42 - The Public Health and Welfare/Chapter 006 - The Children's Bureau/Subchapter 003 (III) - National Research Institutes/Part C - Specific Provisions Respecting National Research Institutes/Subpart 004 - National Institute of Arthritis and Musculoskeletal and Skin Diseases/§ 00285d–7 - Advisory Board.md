@@ -24,7 +24,7 @@ The Advisory Board shall be composed of twenty appointed members and nonvoting, 
 
 #### (c) Compensation
 
-Members of the Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Advisory Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Advisory Board.
+Members of the Advisory Board who are officers or employees of the Federal Governmentshall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Advisory Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Advisory Board.
 
 #### (d) Term of office; vacancy
 
@@ -50,7 +50,7 @@ The Advisory Board shall—
 
 &emsp;(2) for the purpose of assuring the most effective use and organization of resources respecting arthritis, musculoskeletal diseases and skin diseases, advise and make recommendations to the Congress, the Secretary, the Director of NIH, the Director of the Institute, and the heads of other appropriate Federal agencies for the implementation and revision of such plan; and
 
-&emsp;(3) maintain liaison with other advisory bodies for Federal agencies involved in the implementation of such plan, the interagency coordinating committees for such diseases established under section 285d–4 of this title, andwith key non-Federal entities involved in activities affecting the control of such diseases.
+&emsp;(3) maintain liaison with other advisory bodies for Federal agencies involved in the implementation of such plan, the interagency coordinating committees for such diseases established under section 285d–4 of this title, and with key non-Federal entities involved in activities affecting the control of such diseases.
 
 #### (i) Subcommittees; establishment and membership
 
@@ -80,7 +80,7 @@ The National Arthritis Advisory Board in existence on November 20, 1985, shall t
 
 1993—Subsec. (a). Pub. L. 103–43, §701(d)(1), inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
 
-Subsec. (b). Pub. L. 103–43, §§701(d)(2), 2008(b)(7), substituted “twenty” for “eighteen” in introductory provisions, “eight” for “six” and “including one member who is a person who has such a disease, one person who is the parent of an adult with such a disease, and two members who are parents of children with arthritis” for “including at least one member who is a person who has such a disease and one member who is a parent of a person who has such a disease” in par. (1)(B), and “Department of Veterans Affairs” for “Veterans’ Administration” in par. (2)(A).
+Subsec. (b). Pub. L. 103–43, §§701(d)(2), 2008(b)(7), substituted “twenty” for “eighteen” in introductory provisions, “eight” for “six” and “including one member who is a person who has such a disease, one person who is the parent of an adult with such a disease, and two members who are parents of children with arthritis” for “including at least one member who is a person who has such a disease and one member who is a parent ofa person who has such a disease” in par. (1)(B), and “Department of Veterans Affairs” for “Veterans’ Administration” in par. (2)(A).
 
 Subsec. (j)(5). Pub. L. 103–43, §701(d)(3), added par. (5).
 

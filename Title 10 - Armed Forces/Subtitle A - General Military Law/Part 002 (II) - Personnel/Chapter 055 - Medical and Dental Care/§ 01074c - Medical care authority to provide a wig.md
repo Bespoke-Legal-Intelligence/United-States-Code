@@ -6,7 +6,7 @@ A person entitled to medical care under this chapter who has alopecia resulting 
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in the following appropriation acts:
+Provisions similar to those in this section were contained in the following appropriation acts:
 
 Pub. L. 98–473, title I, §101(h) \[title VIII, §8033\], Oct. 12, 1984, 98 Stat. 1904, 1929.
 

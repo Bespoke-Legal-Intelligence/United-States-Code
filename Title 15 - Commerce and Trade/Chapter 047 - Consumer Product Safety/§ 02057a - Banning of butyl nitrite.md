@@ -20,7 +20,7 @@ For purposes of this section:
 
 This section shall take effect 90 days after November 18, 1988.
 
-(Pub. L. 100 690, title II, §2404, Nov. 18, 1988, 102 Stat. 4231.)
+(Pub. L. 100–690, title II, §2404, Nov. 18, 1988, 102 Stat. 4231.)
 
 #### References in Text
 

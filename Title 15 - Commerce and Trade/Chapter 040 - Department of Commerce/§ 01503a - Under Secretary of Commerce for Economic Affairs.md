@@ -2,5 +2,5 @@
 
 There shall be in the Department of Commerce an Under Secretary of Commerce for Economic Affairs who shall be appointed by the President by and with the advice and consent of the Senate. The Under Secretary shall perform such duties as the Secretary of Commerce shall prescribe.
 
-(Pub. L. 97 195, §1(a), June 16, 1982, 96 Stat. 115.)
+(Pub. L. 97–195, §1(a), June 16, 1982, 96 Stat. 115.)
 

@@ -106,7 +106,7 @@ Application Requirement.—An entity described in subsection (d) desiring to rec
 
 &emsp;“(3) plans, specifications, and the schedule for implementation of such project in accordance with requirements prescribed by the Secretary under subsection (b); and
 
-&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the programwill become operational and the facilities will be used principally to provide to veterans the services for which the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
+&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the program will become operational and the facilities will be used principally to provide to veterans the services for which the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
 
 “(f)
 

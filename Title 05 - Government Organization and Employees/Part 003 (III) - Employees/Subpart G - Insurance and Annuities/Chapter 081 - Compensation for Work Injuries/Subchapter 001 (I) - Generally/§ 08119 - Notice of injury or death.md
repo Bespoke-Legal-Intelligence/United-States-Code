@@ -1,4 +1,4 @@
-### §8119 . Notice of injury or death
+### §8119. Notice of injury or death
 
 An employee injured in the performance of his duty, or someone on his behalf, shall give notice thereof. Notice of a death believed to be related to the employment shall be given by an eligible beneficiary specified in section 8133 of this title, or someone on his behalf. A notice of injury or death shall—
 
@@ -52,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1974—Pub. L. 93–416 substituted “or death” for “; failure to give” in section catchline, struck out designation of subsec. (a), redesignated cls. (1) to (7) as (a) to (g), and, as so redesignated, inserted provisions relating to notice of death and substituted “30 days” for “48 hours” in cl. (a), and struck out subsec. (b) relating to allowance of compensation.
+<b>1974</b>—Pub. L. 93–416 substituted “or death” for “; failure to give” in section catchline, struck out designation of subsec. (a), redesignated cls. (1) to (7) as (a) to (g), and, as so redesignated, inserted provisions relating to notice of death and substituted “30 days” for “48 hours” in cl. (a), and struck out subsec. (b) relating to allowance of compensation.
 
 #### Effective Date of 1974 Amendment
 

@@ -120,7 +120,7 @@
 
 (k) A plan covered by this section may include provision of liver transplants (including the cost of acquisition and transportation of the donated liver) in accordance with this subsection. Such a liver transplant may be provided if—
 
-&emsp;(1) the transplant is for a dependent considered appropriate for that procedure by the Secretary of Defense in consultation with the other administering Secretaries and such other entities as the Secretary considers appropriate; and
+&emsp;(1) the transplant is for a dependent considered appropriate for that procedure by theSecretary of Defense in consultation with the other administering Secretaries and such other entities as the Secretary considers appropriate; and
 
 &emsp;(2) the transplant is to be carried out at a health-care facility that has been approved for that purpose by the Secretary of Defense after consultation with the other administering Secretaries and such other entities as the Secretary considers appropriate.
 
@@ -144,7 +144,7 @@
 
 (2) The Secretary of Defense, after consulting with the other administering Secretaries, may adopt or adapt for use under the CHAMPUS Peer Review Organization program, as the Secretary considers appropriate, any of the quality and utilization review requirements and procedures that are used by the Peer Review Organization program under part B of title XI of the Social Security Act (42 U.S.C. 1320c et seq.).
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989;Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800.)
 
 Historical and Revision Notes
 
@@ -210,7 +210,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8077\], Oct. 12, 1984, 98 S
 
 Pub. L. 98–212, title VII, §785, Dec. 8, 1983, 97 Stat. 1453.
 
-A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, which related to establishment of right to vote, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -242,7 +242,7 @@ Subsec. (j)(2)(B). Pub. L. 102–484, §1052(13), inserted a close parenthesis a
 
 1991—Subsec. (a)(6). Pub. L. 102–25, §316(b), revived par. (6) as in effect on Feb. 14, 1991, thus negating amendment to par. (6) by Pub. L. 101–510, §703(a), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
 
-Subsec. (a)(7). Pub. L. 102–190, §711, substituted “except that—” and subpars. (A) and (B), for “except thatsuch services may be provided in any case in which another insurance plan or program provides primary coverage for the services;”.
+Subsec. (a)(7). Pub. L. 102–190, §711, substituted “except that—” and subpars. (A) and (B), for “except that such services may be provided in any case in which another insurance plan or program provides primary coverage for the services;”.
 
 Subsec. (a)(13). Pub. L. 102–190, §702(b)(1)(A), substituted “paragraph (4)” for “clause (4)”.
 
@@ -268,7 +268,7 @@ Subsec. (a)(8). Pub. L. 101–510, §702(a)(1), inserted “(other than certifie
 
 Subsec. (a)(13). Pub. L. 101–510, §702(a)(2), inserted “certified marriage and family therapist,” after “psychologist,”.
 
-Subsec. (b)(2). Pub. L. 101–510, §712(a)(1), substituted “$150” for “$50” and inserted at end “Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.”
+Subsec. (b)(2). Pub. L. 101–510, §712(a)(1), substituted “$150” for “$50” and inserted at end “Notwithstanding the preceding sentence, in the case of a dependent of anenlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.”
 
 Subsec. (b)(3). Pub. L. 101–510, §712(a)(2), substituted “$300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100)” for “$100”.
 
@@ -424,7 +424,7 @@ Section 931(c) of Pub. L. 98–94 provided that: “The amendments made by this 
 
 &emsp;“(1) clause (6) of section 1079(a) of title 10, United States Code, as added by subsection (a)(1), shall not apply in the case of inpatient mental health services provided to a patient admitted before January 1, 1983, for so long as that patient remains continuously in inpatient status for medically or psychologically necessary reasons; and
 
-&emsp;“(2) subsection (k) of section 1079 of such title, as added by subsection (a)(1), shall apply with respect toliver transplant operations performed on or after July 1, 1983.”
+&emsp;“(2) subsection (k) of section 1079 of such title, as added by subsection (a)(1), shall apply with respect to liver transplant operations performed on or after July 1, 1983.”
 
 #### Effective Date of 1981 Amendment
 
@@ -544,7 +544,7 @@ Credit or Reimbursement of Excess.—Subject to the availability of appropriated
 
 “(d)
 
-Definitions.—For purposes of this section, the term ‘Operation Desert Storm’ has the meaning given that term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 (Public Law 102–25; 10 U.S.C. 101 note).”
+Definitions.—For purposes of this section, the term ‘Operation Desert Storm’ has the meaning giventhat term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 (Public Law 102–25; 10 U.S.C. 101 note).”
 
 #### Temporary CHAMPUS Provisions for Dependents of Operation Desert Shield/Desert Storm Active Duty Personnel
 

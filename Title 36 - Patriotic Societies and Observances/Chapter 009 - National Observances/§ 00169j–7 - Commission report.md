@@ -14,7 +14,7 @@ The Commission shall include in its annual report—
 
 &emsp;(3) a detailed description of any grants made by the Corporation for National and Community Service with the consultation of the Commission.
 
-(Pub. L. 98–399, §8, Aug. 27, 1984, 98 Stat. 1475; Pub. L. 99–284, §1(b), May 1, 1986, 100 Stat. 406;Pub. L. 101–30, §5, May 17, 1989, 103 Stat. 61; Pub. L. 103–304, §2(5), Aug. 23, 1994, 108 Stat. 1566.)
+(Pub. L. 98–399, §8, Aug. 27, 1984, 98 Stat. 1475; Pub. L. 99–284, §1(b), May 1, 1986, 100 Stat. 406; Pub. L. 101–30, §5, May 17, 1989, 103 Stat. 61; Pub. L. 103–304, §2(5), Aug. 23, 1994, 108 Stat. 1566.)
 
 #### References in Text
 

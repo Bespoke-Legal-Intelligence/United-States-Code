@@ -2,7 +2,7 @@
 
 #### (a) Plan maintained by more than one employer
 
-Notwithstanding any other provision of this part or part 3, the following provisions of this subsection shall apply to a plan maintained by more than one employer:
+Notwithstanding any other provision of this part or part 3, the following provisions of thissubsection shall apply to a plan maintained by more than one employer:
 
 &emsp;(1) Section 1052 of this title shall be applied as if all employees of each of the employers were employed by a single employer.
 
@@ -20,7 +20,7 @@ For purposes of this part and part 3—
 
 #### (c) Plan maintained by controlled group of corporations
 
-For purposes of sections 1052, 1053, and 1054 of this title, all employees of all corporationswhich are members of a controlled group of corporations (within the meaning of section 1563(a) of title 26, determined without regard to section 1563(a)(4) and (e)(3)(C) of title 26) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the minimum funding standard of section 1082 of this title shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary of the Treasury.
+For purposes of sections 1052, 1053, and 1054 of this title, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a) of title 26, determined without regard to section 1563(a)(4) and (e)(3)(C) of title 26) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the minimum funding standard of section 1082 of this title shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary of the Treasury.
 
 #### (d) Plan of trades or businesses under common control
 

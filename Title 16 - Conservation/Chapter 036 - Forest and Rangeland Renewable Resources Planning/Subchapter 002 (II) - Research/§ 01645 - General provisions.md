@@ -22,7 +22,7 @@ In implementing this subchapter, the Secretary, as the Secretary deems appropria
 
 &emsp;(3) avoid unnecessary duplication and coordinate activities under this section among agencies of the Department of Agriculture and with other affected Federal departments and agencies, State agricultural experiment stations, State extension services, State foresters or equivalent State officials, forestry schools, and private research organizations; and
 
-&emsp;(4) encourage the development, employment, retention, and exchange of qualified scientists and other specialists through postgraduate, postdoctoral, and other training, national andinternational exchange of scientists, and other incentives and programs to improve the quality of forest and rangeland renewable resources research.
+&emsp;(4) encourage the development, employment, retention, and exchange of qualified scientists and other specialists through postgraduate, postdoctoral, and other training, national and international exchange of scientists, and other incentives and programs to improve the quality of forest and rangeland renewable resources research.
 
 #### (e) Construction of statutory provisions
 

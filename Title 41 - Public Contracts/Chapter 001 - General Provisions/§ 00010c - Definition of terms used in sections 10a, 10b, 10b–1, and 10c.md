@@ -8,7 +8,7 @@ When used in sections 10a, 10b, 10b–1, and 10c of this title—
 
 (c) The term “Federal agency” has the meaning given such term by section 472 of title 40, which includes the Departments of the Army, Navy, and Air Force.
 
-(Mar. 3, 1933, ch. 212, title III, §1, 47 Stat. 1520; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60Stat. 1352; June 25, 1959, Pub. L. 86–70, §43, 73 Stat. 151; July 12, 1960, Pub. L. 86–624, §28, 74 Stat. 419; Aug. 23, 1988, Pub. L. 100–418, title VII, §7005(a), 102 Stat. 1552.)
+(Mar. 3, 1933, ch. 212, title III, §1, 47 Stat. 1520; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 25, 1959, Pub. L. 86–70, §43, 73 Stat. 151; July 12, 1960, Pub. L. 86–624, §28, 74 Stat. 419; Aug. 23, 1988, Pub. L. 100–418, title VII, §7005(a), 102 Stat. 1552.)
 
 #### Amendment of Section
 

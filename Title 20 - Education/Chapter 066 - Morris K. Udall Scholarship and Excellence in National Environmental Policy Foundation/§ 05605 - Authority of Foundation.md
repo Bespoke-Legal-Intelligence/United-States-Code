@@ -8,7 +8,7 @@
 
 &emsp;(B) The Foundation may provide, directly or by contract, for the conduct of national competition for the purpose of selecting recipients of scholarships, fellowships, internships, and grants awarded under this chapter.
 
-&emsp;(C) The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.
+&emsp;(C) The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American andAlaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.
 
 #### (2) Scholarships
 
@@ -48,7 +48,7 @@
 
 #### (6) Repository
 
-&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Fund<sup>1</sup> to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
+&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Fund <sup>1</sup> to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
 
 #### (7) Coordination
 
@@ -62,7 +62,7 @@ Recipients of scholarships, fellowships, internships, and grants under this chap
 
 The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title, section 5604(a)(3) of this title, and section 5604(a)(4) of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title, section 5604(a)(6) of this title, and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
 
-(Pub. L. 102 259, §7, Mar. 19, 1992, 106 Stat. 81.)
+(Pub. L. 102–259, §7, Mar. 19, 1992, 106 Stat. 81.)
 
-<i><sup>1</sup></i><i>So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -66,7 +66,7 @@ Enforcement functions of Secretary or other official in Department of Energy and
 
 Federal Power Commission terminated and functions with regard to issuance of certificates of public convenience and necessity, including abandonment of facilities or services, and establishment of physical connections transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(D) and 7293 of Title 42, The Public Health and Welfare.
 
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in theAppendix to Title 5, Government Organization and Employees.
 
 #### Federal Rules of Civil Procedure
 

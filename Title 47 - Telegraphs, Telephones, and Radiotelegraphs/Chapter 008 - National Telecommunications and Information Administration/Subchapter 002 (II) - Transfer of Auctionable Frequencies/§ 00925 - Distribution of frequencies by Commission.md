@@ -6,7 +6,7 @@ With respect to the frequencies made available for immediate reallocation pursua
 
 #### (b) Allocation and assignment of remaining available frequencies
 
-With respect to the frequencies made available for reallocation pursuant to section 923(e)(3) of this title, the Commission shall, not later than 1 year after receipt of the report required by section 923(a) of this title, prepare, submit to the President and the Congress, and implement, aplan for the allocation and assignment under the 1934 Act \[47 U.S.C. 151 et seq.\] of such frequencies. Such plan shall—
+With respect to the frequencies made available for reallocation pursuant to section 923(e)(3) of this title, the Commission shall, not later than 1 year after receipt of the report required by section 923(a) of this title, prepare, submit to the President and the Congress, and implement, a plan for the allocation and assignment under the 1934 Act \[47 U.S.C. 151 et seq.\] of such frequencies. Such plan shall—
 
 &emsp;(1) not propose the immediate allocation and assignment of all such frequencies but, taking into account the timetable recommended by the Secretary pursuant to section 923(e) of this title, shall propose—
 

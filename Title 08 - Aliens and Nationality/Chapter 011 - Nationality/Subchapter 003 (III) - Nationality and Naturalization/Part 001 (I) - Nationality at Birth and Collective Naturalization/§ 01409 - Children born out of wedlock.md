@@ -1,4 +1,4 @@
-### §1409 . Children born out of wedlock
+### §1409. Children born out of wedlock
 
 (a) The provisions of paragraphs (c), (d), (e), and (g) of section 1401 of this title, and of paragraph (2) of section 1408 of this title, shall apply as of the date of birth to a person born out of wedlock if—
 

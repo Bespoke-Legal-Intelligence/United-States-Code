@@ -44,7 +44,7 @@ An owner granting an easement under subsection (a) of this section shall be requ
 
 #### (1) Plans
 
-&emsp;The development of restoration plans under this section shall be made through the agreement of the local representative of the Soil Conservation Service and a representative of the Fish and Wildlife Service. If agreement cannot be reached at the local level under thepreceding sentence within a reasonable period of time, such plans shall be referred to the State Conservationist, who in developing such plans under this paragraph, shall consult with the Fish and Wildlife Service.
+&emsp;The development of restoration plans under this section shall be made through the agreement of the local representative of the Soil Conservation Service and a representative of the Fish and Wildlife Service. If agreement cannot be reached at the local level under the preceding sentence within a reasonable period of time, such plans shall be referred to the State Conservationist, who in developing such plans under this paragraph, shall consult with the Fish and Wildlife Service.
 
 #### (2) Report
 

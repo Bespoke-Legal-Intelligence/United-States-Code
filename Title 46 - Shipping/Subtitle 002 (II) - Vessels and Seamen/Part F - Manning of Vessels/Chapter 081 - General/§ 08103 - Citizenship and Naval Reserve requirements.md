@@ -22,7 +22,7 @@
 
 &emsp;(B) a mobile offshore drilling unit or other vessel engaged in support of exploration, exploitation, or production of offshore mineral energy resources operating beyond the water above the outer Continental Shelf (as that term is defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a)); and
 
-&emsp;(C) any other vessel if the Secretary determines, after an investigation, that qualifiedseamen who are citizens of the United States are not available.
+&emsp;(C) any other vessel if the Secretary determines, after an investigation, that qualified seamen who are citizens of the United States are not available.
 
 (c) On each departure of a vessel (except a passenger vessel) for which a construction or operating differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
 
@@ -94,7 +94,7 @@ Subsection (f) provides for the penalty for violation of this section.
 
 Subsection (g) requires a deck or engineer officer on a vessel that has been granted an operating differential subsidy or is under the control by the Department of Transportation to be, if eligible, a member of the Naval Reserve. This section does not apply to a vessel of the Coast Guard or the Saint Lawrance Seaway Development Corporation.
 
-Subsection (h) permits the President to suspend the requirements of this section during a proclaimed national emergency or the requirement of subsection (a) for United States vessels documented for foreign trade when the needs of commerce require.
+Subsection (h) permits the President to suspend the requirements of this section during a proclaimed national emergency or the requirement of subsection (a)for United States vessels documented for foreign trade when the needs of commerce require.
 
 #### References in Text
 

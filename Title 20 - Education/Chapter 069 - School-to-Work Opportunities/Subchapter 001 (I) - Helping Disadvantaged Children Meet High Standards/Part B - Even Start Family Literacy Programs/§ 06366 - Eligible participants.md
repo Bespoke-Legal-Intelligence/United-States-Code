@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, eligible participants in a
 
 #### (1) In general
 
-&emsp;Family members of eligible participants described in subsection (a) of this section may participate in activities and services provided under this part, when appropriate to serve the purpose of this part.
+&emsp;Family members of eligible participants described in subsection (a) of this section may participate in activities and services providedunder this part, when appropriate to serve the purpose of this part.
 
 #### (2) Special rule
 
@@ -26,9 +26,9 @@ Except as provided in subsection (b) of this section, eligible participants in a
 
 &emsp;&emsp;(B) in the case of a family in which ineligibility was due to the educational advancement of the parent or parents of such family, shall be when all children in the family attain the age of eight.
 
-(Pub. L. 89 10, title I, §1206, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3581.)
+(Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581.)
 
 #### References in Text
 
-The Adult Education Act, referred to in subsec. (a)(1)(A), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in subsec. (a)(1)(A), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 

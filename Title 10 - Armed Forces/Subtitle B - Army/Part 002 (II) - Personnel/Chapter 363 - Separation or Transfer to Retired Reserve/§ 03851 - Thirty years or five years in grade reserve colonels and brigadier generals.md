@@ -16,7 +16,7 @@
 
 &emsp;(2) is employed—
 
-&emsp;&emsp;(A) as a technician under section 709 of title 32 in a position for which membershipin the National Guard is required as a condition of employment; or
+&emsp;&emsp;(A) as a technician under section 709 of title 32 in a position for which membership in the National Guard is required as a condition of employment; or
 
 &emsp;&emsp;(B) as a technician of the Army Reserve in a position for which membership in the Army Reserve is required as a condition of employment.
 

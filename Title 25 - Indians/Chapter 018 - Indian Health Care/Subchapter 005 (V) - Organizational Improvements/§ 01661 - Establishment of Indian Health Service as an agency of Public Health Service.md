@@ -78,7 +78,7 @@ Section 601(c) of Pub. L. 100–713 provided that:
 
 “(1) Except as provided in paragraph (2), section 601 of the Indian Health Care Improvement Act \[this section\] added by subsection (a) of this section shall take effect 9 months from the date of the enactment of this section \[Nov. 23, 1988\].
 
-“(2) Notwithstanding subsections (b) \[set out below\] and (c)(1), any action which carries out such section 601that is taken by the Secretary before the effective date of such section 601 shall be effective beginning on the date such action was taken.”
+“(2) Notwithstanding subsections (b) \[set out below\] and (c)(1), any action which carries out such section 601 that is taken by the Secretary before the effective date of such section 601 shall be effective beginning on the date such action was taken.”
 
 #### Interim Appointment
 
@@ -86,5 +86,5 @@ Section 602(b) of Pub. L. 102–573 provided that: “The President may appoint 
 
 #### Transfer of Personnel, Records, Equipment, Etc., to Indian Health Service
 
-Section 601(b) of Pub. L. 100–713 provided that: “All personnel, records, equipment, facilities, and interests in property that are administered by the Indian Health Service on the day before the date on which the amendments made by this section take effect \[see Effective Date note above\] shall be transferred to the Indian Health Service established by the amendment made by subsection (a) of this section \[enacting sections 1661 and 1662 of this title\]. All transfers must be accomplished within 9 months of the date of enactment of this section \[Nov. 23, 1988\]. The Secretary is authorized to waive the Indian preference laws on a case-by-case basis for temporary transfers involved in implementing this section during such 9-month period.”
+Section 601(b) of Pub. L. 100–713 provided that: “All personnel, records, equipment, facilities, and interests in property that are administered by the Indian Health Service on the day before the date on which the amendments made by this section take effect \[see Effective Date note above\] shall be transferred to the Indian Health Service established by the amendment made by subsection (a) of this section \[enacting this section and section 1662 of this title\]. All transfers must be accomplished within 9 months of the date of enactment of this section \[Nov. 23, 1988\]. The Secretary is authorized to waive the Indian preference laws on a case-by-case basis for temporary transfers involved in implementing this section during such 9-month period.”
 

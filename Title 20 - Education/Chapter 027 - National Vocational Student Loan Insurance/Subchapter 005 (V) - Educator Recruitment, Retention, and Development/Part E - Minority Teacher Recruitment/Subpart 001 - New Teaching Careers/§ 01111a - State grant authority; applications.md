@@ -34,19 +34,19 @@ In order to receive a grant under this subpart, a State shall submit an applicat
 
 &emsp;(2) set forth a program of activities for carrying out the purposes set forth in this subpart in such detail as will enable the Secretary to determine the degree to which such program will accomplish such purposes and such other policies, procedures, and assurances as the Secretary may require by regulation.
 
-(Pub. L. 89 329, title V, §572, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 704; amended Pub. L. 103 382, title III, §391(e)(5), Oct. 20, 1994, 108 Stat. 4022.)
+(Pub. L. 89–329, title V, §572, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 704; amended Pub. L. 103–382, title III, §391(e)(5), Oct. 20, 1994, 108 Stat. 4022.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1111a, Pub. L. 89 329, title V, §552, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1506, related to allocation of funds among the States for Congressional teacher scholarships, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1111a, Pub. L. 89–329, title V, §552, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1506, related to allocation of funds among the States for Congressional teacher scholarships, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 572 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898, authorized appropriations for fiscal years 1986 to 1989 for fellowships to outstanding teachers and was classified to section 1119e 1 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 572 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898, authorized appropriations for fiscal years 1986 to 1989 for fellowships to outstanding teachers and was classified to section 1119e–1 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103 382 substituted “part A of title I” for “part A of chapter 1 of title I”.
+1994—Subsec. (b). Pub. L. 103–382 substituted “part A of title I” for “part A of chapter 1 of title I”.
 

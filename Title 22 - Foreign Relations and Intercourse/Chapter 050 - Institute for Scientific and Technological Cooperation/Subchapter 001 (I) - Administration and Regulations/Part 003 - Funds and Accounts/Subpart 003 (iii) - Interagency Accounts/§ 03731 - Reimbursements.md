@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, funds appropriated (for any fiscal y
 
 &emsp;(2) providing the services related thereto to the categories of persons to which such services were provided before such effective date.
 
-> Notwithstanding any other provision of law, the Department of Defense, or any department oragency designated by the President to provide health care services to those categories of persons referred to in this subsection, shall provide such services to such categories of persons on a basis no less favorable than that applied to its own employees and their dependents.
+> Notwithstanding any other provision of law, the Department of Defense, or any department or agency designated by the President to provide health care services to those categories of persons referred to in this subsection, shall provide such services to such categories of persons on a basis no less favorable than that applied to its own employees and their dependents.
 
 #### (d) Reimbursement to departments or agencies furnishing services
 
@@ -42,7 +42,7 @@ For purposes of the reimbursement of the United States by the Republic of Panama
 
 #### (g) Operation of Canal Zone College
 
-Notwithstanding any other provision of law, the President, through the appropriate department or agency of the United States, shall, until January 1, 2000, operate the educational institution known as the “Canal Zone College”. Such institution shall continue to provide, insofar as practicable, the level of services which it offered immediately before October 1, 1979.
+Notwithstanding any other provision of law, the President, through the appropriate department or agency of the United States, shall, until January 1, 2000, operate the educational institution known as the “Canal Zone College”. Suchinstitution shall continue to provide, insofar as practicable, the level of services which it offered immediately before October 1, 1979.
 
 #### (h) Prohibition of funds for uses other than Commission activities
 

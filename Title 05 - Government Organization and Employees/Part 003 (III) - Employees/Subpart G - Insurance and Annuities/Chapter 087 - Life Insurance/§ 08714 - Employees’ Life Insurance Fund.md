@@ -1,4 +1,4 @@
-### §8714 . Employees’ Life Insurance Fund
+### §8714. Employees’ Life Insurance Fund
 
 (a) The amounts withheld from employees under section 8707 of this title and the sums contributed from appropriations and funds under section 8708 of this title shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. The Fund is available without fiscal year limitation for—
 
@@ -38,9 +38,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–499 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–499 added subsec. (c).
 
-1978—Subsec. (a)(2). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1980 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Funding
 
-Pub. L. 103–409, §4, Oct. 25, 1994, 108 Stat. 4232, provided that: “Notwithstanding section 8714(a)(1) of title 5, United States Code, the Office of Personnel Management shall retain in the Employees’ Life Insurance Fund such portion of premium payments otherwise due as will, no later than September 30, 1995, permanently reduce the contingency reserve established under the third sentence of section 8712 of such title 5 by an amount equal to the amount by which payments from the Employees’ Life Insurance Fund during the fiscal year ending September 30, 1995, exceed the paymentsthat would have been paid had the amendments made by this Act \[enacting section 8714d of this title\] not been enacted.”
+Pub. L. 103–409, §4, Oct. 25, 1994, 108 Stat. 4232, provided that: “Notwithstanding section 8714(a)(1) of title 5, United States Code, the Office of Personnel Management shall retain in the Employees’ Life Insurance Fund such portion of premium payments otherwise due as will, no later than September 30, 1995, permanently reduce the contingency reserve established under the third sentence of section 8712 of such title 5 by an amount equal to the amount by which payments from the Employees’ Life Insurance Fund during the fiscal year ending September 30, 1995, exceed the payments that would have been paid had the amendments made by this Act \[enacting section 8714d of this title\] not been enacted.”
 
 #### Section Referred to in Other Sections
 

@@ -8,11 +8,11 @@ The Board shall prepare a master plan on the short- and long-term facilities nee
 
 The plan required by this subsection shall be transmitted to Congress no later than 18 months after July 23, 1992. Such plan shall include a prioritization of needs, as determined by the Board.
 
-(Pub. L. 99 498, title XV, §1519, as added Pub. L. 102 325, title XIII, §1331(k), July 23, 1992, 106 Stat. 808.)
+(Pub. L. 99–498, title XV, §1519, as added Pub. L. 102–325, title XIII, §1331(k), July 23, 1992, 106 Stat. 808.)
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

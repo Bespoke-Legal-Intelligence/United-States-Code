@@ -26,7 +26,7 @@ Section 1256 of title 28, referred to in subsec. (c), was repealed by Pub. L. 97
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as an Effective Date note under section 2331 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as an Effective Date note under section 2331 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date
 
-Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(3) ofPub. L. 96–417 set out as an Effective Date of 1980 Amendment note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(3) of Pub. L. 96–417 set out as an Effective Date of 1980 Amendment note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Certain agencies are not independent establishments under the definition since t
 
 #### Amendments
 
-1970—Par. (1). Pub. L. 91–375 inserted “(other than the United States Postal Service or the Postal Rate Commission)” after “executive branch”.
+<b>1970</b>—Par. (1). Pub. L. 91–375 inserted “(other than the United States Postal Service or the Postal Rate Commission)” after “executive branch”.
 
 #### Effective Date of 1970 Amendment
 

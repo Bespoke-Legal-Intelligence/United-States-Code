@@ -2,7 +2,7 @@
 
 #### (a) Fund agreements regarding certain amounts
 
-With respect to amounts appropriated under subsection (f) of this section, each agreemententered into under section 292q of this title with a school shall provide (in addition to the provisions required in subsection (b) of such section) that—
+With respect to amounts appropriated under subsection (f) of this section, each agreement entered into under section 292q of this title with a school shall provide (in addition to the provisions required in subsection (b) of such section) that—
 
 &emsp;(1) any Federal capital contribution made to the student loan fund of the school from such amounts, together with the school contribution appropriate under subsection (b)(2)(B) of such section to the amount of the Federal capital contribution, will be utilized only for the purpose of—
 

@@ -12,7 +12,7 @@
 
 (b)(1) If a disbursing official of any military department dies, becomes disabled, or is separated from office, a deputy disbursing official may continue the accounts and payments in the name of the former disbursing official until the last day of the 2d month after the month in which the death, disability, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary of the Treasury shall honor checks signed in the name of the former disbursing official in the same way as if the former disbursing official had continued in office.
 
-(2) The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
+(2) The deputy disbursing official, and not the former disbursing official or the estate of theformer disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
 
 (Added Pub. L. 87–480, §1(1)(A), June 8, 1962, 76 Stat. 94; amended Pub. L. 97–258, §2(b)(7)(B), Sept. 13, 1982, 96 Stat. 1054.)
 

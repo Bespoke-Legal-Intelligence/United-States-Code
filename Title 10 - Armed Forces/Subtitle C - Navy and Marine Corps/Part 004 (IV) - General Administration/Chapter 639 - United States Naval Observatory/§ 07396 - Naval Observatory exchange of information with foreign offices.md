@@ -1,4 +1,4 @@
-### §7396 . Naval Observatory: exchange of information with foreign offices
+### §7396. Naval Observatory: exchange of information with foreign offices
 
 (a) The Secretary of the Navy may arrange to exchange data with foreign almanac offices to reduce the duplication of work in preparing the different national nautical and astronomical almanacs and make available for publication a larger amount of data useful to navigators and astronomers. Each such arrangement shall be made terminable on one year's notice.
 

@@ -1,6 +1,6 @@
 ### §1720D. Counseling and treatment for sexual trauma
 
-(a)(1) During the period through December 31, 1998, the Secretary may provide counseling to a veteran who the Secretary determines requires such counseling to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
+(a)(1) During the period through December 31, 1998, the Secretary may provide counseling to a veteran who the Secretary determines requiressuch counseling to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
 
 (2) During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.
 
@@ -56,7 +56,7 @@ Subsecs. (d), (e). Pub. L. 103–452, §101(c)(2), redesignated subsec. (e) as (
 
 Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
 
-“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that theDepartment of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
+“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
 “(3) The telephone assistance service shall be operated in a manner that protects the confidentiality of persons who place calls to the system.
 

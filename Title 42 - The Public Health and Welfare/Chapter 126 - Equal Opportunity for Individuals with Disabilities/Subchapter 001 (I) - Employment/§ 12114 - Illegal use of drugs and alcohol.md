@@ -62,5 +62,5 @@ The Drug-Free Workplace Act of 1988, referred to in subsec. (c)(3), is subtitle 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1202; title 40 section 166b–7.
+This section is referred to in section 12209 of this title; title 2 sections 1202, 1311.
 

@@ -56,7 +56,7 @@ For the purpose of payments under agreements entered into under subsection (a) o
 
 #### Prior Provisions
 
-A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov. 4, 1988, Pub. L. 100–607, title VII, §716, 102 Stat. 3163; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2616(b), 102 Stat. 4240, established a demonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by Pub. L. 102–408, title II, §210, Oct. 13, 1992, 106 Stat. 2078.
+A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov. 4, 1988, Pub. L. 100–607, title VII, §716, 102 Stat. 3163; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2616(b), 102 Stat. 4240, established ademonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by Pub. L. 102–408, title II, §210, Oct. 13, 1992, 106 Stat. 2078.
 
 A prior section 846 of act July 1, 1944, was classified to section 297k of this title and was repealed by Pub. L. 97–35.
 

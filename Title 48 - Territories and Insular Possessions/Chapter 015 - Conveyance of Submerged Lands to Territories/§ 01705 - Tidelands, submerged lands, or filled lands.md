@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 96–205, §607(a), added subsec. (d).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Proc. No. 4346. Reserving Certain Lands Adjacent to and Enlarging Boundaries of Buck Island Reef National Monument in Virgin Islands
 

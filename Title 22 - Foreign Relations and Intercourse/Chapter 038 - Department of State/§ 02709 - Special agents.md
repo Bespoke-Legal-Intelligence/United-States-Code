@@ -40,7 +40,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 #### (1) Agreement with Attorney General
 
-&emsp;The authority conferred by paragraphs (1), (2), (4), and (5) of subsection (a) of this section shall be exercised subject to an agreement with the Attorney General and shall not be construed to affect the investigative authority of any other Federal law enforcement agency.
+&emsp;The authority conferred by paragraphs (1), (2), (4), and (5) of subsection (a) of this section shall be exercised subject to an agreementwith the Attorney General and shall not be construed to affect the investigative authority of any other Federal law enforcement agency.
 
 #### (2) Firearms regulations
 

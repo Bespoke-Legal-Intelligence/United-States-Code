@@ -16,7 +16,7 @@
 
 (e) A program of education exclusively by correspondence, and the correspondence portion of a combination correspondence-residence course leading to a vocational objective, that is offered by an educational institution (as defined in section 3452(c) of this title) may be approved only if (1) the educational institution is accredited by an entity recognized by the Secretary of Education, and (2) at least 50 percent of those pursuing such a program or course require six months or more to complete the program or course.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1772; amended Pub. L. 89–358, §3(a)(7), (8),Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, §211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, §502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, §4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3672 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §605(a)(1), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1772; amended Pub. L. 89–358, §3(a)(7), (8), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, §211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, §502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, §4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3672 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §605(a)(1), Nov. 2, 1994, 108 Stat. 4671.)
 
 #### Amendments
 

@@ -12,13 +12,13 @@ Before submitting any such report to the President and the Congress, copies of t
 
 #### (c) Publication in Federal Register
 
-Before approving or disapproving for inclusion in the national wild and scenic rivers system any river designated as a wild, scenic or recreational river by or pursuant to an act of a State legislature, the Secretary of the Interior shall submit the proposal to the Secretary of Agriculture, the Secretary of the Army, the Secretary of Energy, and the head of any other affected Federal department or agency and shall evaluate and give due weight to any recommendations or comments which the said officials furnish him within ninety days of the date on which it is submitted to them. If he approves the proposed inclusion, he shall publish notice thereof in the Federal Register.
+Before approving or disapproving for inclusion in the national wild and scenic rivers system any river designated as a wild, scenic or recreational river by or pursuant to an act of a State legislature, the Secretary of the Interior shall submit the proposal to the Secretary of Agriculture, the Secretary of the Army, the Secretary of Energy, and the head of any other affected Federal department or agency and shallevaluate and give due weight to any recommendations or comments which the said officials furnish him within ninety days of the date on which it is submitted to them. If he approves the proposed inclusion, he shall publish notice thereof in the Federal Register.
 
 #### (d) Areas comprised by boundaries; scope of study report
 
 The boundaries of any river proposed in section 1276(a) of this title for potential addition to the National Wild and Scenic Rivers System shall generally comprise that area measured within one-quarter mile from the ordinary high water mark on each side of the river. In the case of any designated river, prior to publication of boundaries pursuant to section 1274(b) of this title, the boundaries also shall comprise the same area. This subsection shall not be construed to limit the possible scope of the study report to address areas which may lie more than one-quarter mile from the ordinary high water mark on each side of the river.
 
-(Pub. L. 90–542, §4, Oct. 2, 1968, 82 Stat. 909; Pub. L. 93–279, §1(b)(1), May 10, 1974, 88 Stat. 122; Pub. L. 93–621, §1(d), Jan. 3, 1975, 88 Stat. 2096; Pub. L. 94–486, title V, §501, Oct. 12, 1976, 90 Stat. 2330;Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 99–590, title V, §502, Oct. 30, 1986, 100 Stat. 3335.)
+(Pub. L. 90–542, §4, Oct. 2, 1968, 82 Stat. 909; Pub. L. 93–279, §1(b)(1), May 10, 1974, 88 Stat. 122; Pub. L. 93–621, §1(d), Jan. 3, 1975, 88 Stat. 2096; Pub. L. 94–486, title V, §501, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 99–590, title V, §502, Oct. 30, 1986, 100 Stat. 3335.)
 
 #### References in Text
 

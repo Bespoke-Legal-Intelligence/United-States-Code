@@ -1,0 +1,80 @@
+### §461. Adjustments in certain salaries
+
+(a)(1) Subject to paragraph (2), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule (except as provided in subsection (b)), each salary rate which is subject to adjustment under this section shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100) equal to the percentage of such salary rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+
+(2) In no event shall the percentage adjustment taking effect under paragraph (1) in any calendar year (before rounding), in any salary rate, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
+
+(b) Subsection (a) shall not apply to the extent it would reduce the salary of any individual whose compensation may not, under section 1 of article III of the Constitution of the United States, be diminished during such individual's continuance in office.
+
+(Added Pub. L. 94–82, title II, §205(a)(1), Aug. 9, 1975, 89 Stat. 422; amended Pub. L. 101–194, title VII, §704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, §101(4), Oct. 13, 1994, 108 Stat. 3411.)
+
+#### References in Text
+
+The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a)(1), is section 704(a)(1) of Pub. L. 101–194, which is set out as a note under section 5318 of Title 5.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–356 designated existing provisions as par. (1), substituted “Subject to paragraph (2), effective” for “Effective”, and added par. (2).
+
+1990—Subsec. (a). Pub. L. 101–509 substituted “5303” for “5305”.
+
+1989—Subsec. (a). Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustments in the rates of pay under such Schedule.”
+
+#### Effective Date of 1994 Amendment
+
+Section 101 of Pub. L. 101–356 provided that the amendment made by that section is effective as of Dec. 31, 1994.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under section 5318 of Title 5, Government Organization and Employees.
+
+#### Salary Adjustments
+
+Pub. L. 102–395, title III, §304, Oct. 6, 1992, 106 Stat. 1859, provided that: “Pursuant to section 140 of PublicLaw 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 1993, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+
+Pub. L. 102–140, title III, §305, Oct. 28, 1991, 105 Stat. 810, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 1992, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+
+Pub. L. 101–520, title III, §321, Nov. 5, 1990, 104 Stat. 2285, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during calendar year 1991 to receive a salary adjustment in accordance with 28 U.S.C. section 461.”
+
+Pub. L. 101–194, title VII, §703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+
+For purposes of section 140 of Pub. L. 97–92 (set out below), appropriate salary increases were authorized for Federal judges and Justices of the Supreme Court pursuant to section 702(a) of Pub. L. 101–194 which provided that effective for pay periods beginning on or after Nov. 30, 1989, the rate of basic pay for any office or position in the judicial branch of the Government shall be determined as if section 620(b) of Pub. L. 100–440 (5 U.S.C. 5303 note) and section 619(b) of Pub. L. 101–136 (5 U.S.C. 5303 note) had never been enacted, see section 702 of Pub. L. 101–194, set out as a note under section 5303 of Title 5.
+
+Pub. L. 100–202, §101(a) \[title IV, §406\], Dec. 22, 1987, 101 Stat. 1329, 1329–26, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], during fiscal year 1988, justices and judges of the United States shall receive the same percentage increase in salary accorded to employees paid under the General Schedule (pursuant to 5 U.S.C. 5305).”
+
+Pub. L. 99–500, §101(b) \[title IV, §406\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §406\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], during fiscal year 1987, justices and judges of the United States shall receive the same percentage increase in salary accorded to employees paid under the General Schedule (pursuant to 5 U.S.C. 5305).”
+
+Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 310, provided in part that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1985, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1985.”
+
+Pub. L. 98–369, div. B, title II, §2207, July 18, 1984, 98 Stat. 1060, provided that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1984.”
+
+#### Specific Congressional Authorization Required for Salary Increases for Federal Judges and Justices of the Supreme Court
+
+Pub. L. 97–92, §140, Dec. 15, 1981, 95 Stat. 1200, provided that: “Notwithstanding any other provision of law or of this joint resolution \[Pub. L. 97–92\], none of the funds appropriated by this joint resolution or by any other Act shall be obligated or expended to increase, after the date of enactment of this joint resolution \[Dec. 15, 1981\], any salary of any Federal judge or Justice of the Supreme Court, except as may be specifically authorized by Act of Congress hereafter enacted: <i>Provided</i>, That nothing in this limitation shall be construed to reduce any salary which may be in effect at the time of enactment of this joint resolution nor shall this limitation be construed in any manner to reduce the salary of any Federal judge or of any Justice of the Supreme Court.”
+
+#### Salary Rate Limitations On Use of Funds
+
+1982—Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5, Government Organization and Employees.
+
+1981—Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
+
+1980—Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
+
+1979—Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of Title 5.
+
+1978—Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
+
+#### 1977 Comparability Adjustment Not Effective for Justices, Judges, Commissioners, and Referees
+
+Pub. L. 95–66, §1(3), July 11, 1977, 91 Stat. 270, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that the first adjustment which, but for the enactment of Pub. L. 95–66, would have been made in the salary and rate of pay of justices, judges, commissioners, and referees under this section after July 11, 1977, would not take effect.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5, 44, 135, 213, 252, 371, 792 of this title.
+

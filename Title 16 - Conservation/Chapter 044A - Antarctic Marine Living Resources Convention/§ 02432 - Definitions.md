@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (3) Commission
 
-&emsp;The term “Commission” means the Commission for the Conservation of Antarctic Marine Living Resources established pursuant to article VII of the Convention.
+&emsp;The term “Commission” means the Commission for the Conservation of Antarctic MarineLiving Resources established pursuant to article VII of the Convention.
 
 #### (4) Convention
 

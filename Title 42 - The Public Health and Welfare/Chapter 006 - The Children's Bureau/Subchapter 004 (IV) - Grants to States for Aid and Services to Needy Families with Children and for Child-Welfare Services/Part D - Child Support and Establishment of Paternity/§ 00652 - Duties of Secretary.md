@@ -34,7 +34,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;&emsp;(ii) the total number of cases in which a support obligation has been established, and the total amount of such obligations;
 
-&emsp;&emsp;&emsp;(iii) the number of cases described in clause (i) in which support was collectedduring such fiscal year, and the total amount of such collections;
+&emsp;&emsp;&emsp;(iii) the number of cases described in clause (i) in which support was collected during such fiscal year, and the total amount of such collections;
 
 &emsp;&emsp;&emsp;(iv) the number of cases described in clause (ii) in which support was collected during such fiscal year, and the total amount of such collections; and
 
@@ -46,7 +46,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(F) the number of cases, by State, in which an applicant for or recipient of aid under a State plan approved under part A of this subchapter has refused to cooperate in identifying and locating the absent parent and the number of cases in which refusal so to cooperate is based on good cause (as determined in accordance with the standards referred to in section 602(a)(26)(B)(ii) of this title);
 
-&emsp;&emsp;(G) data, by State, on the use of Federal courts and on use of the Internal Revenue Service for collections, the number of court orders on which collections were made, the number of paternity determinations made and the number of parents located, in sufficient detail to show the cost and benefits to the States and to the Federal Government;
+&emsp;&emsp;(G) data, by State, on the use of Federal courts and on use of the Internal Revenue Service for collections, the number of court orders on which collections were made, the number of paternity determinations madeand the number of parents located, in sufficient detail to show the cost and benefits to the States and to the Federal Government;
 
 &emsp;&emsp;(H) the major problems encountered which have delayed or prevented implementation of the provisions of this part during the fiscal year last ending prior to the submission of such report; and
 
@@ -68,7 +68,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(A) provides for the conduct of, and reflects the results of, requirements analysis studies, which include consideration of the program mission, functions, organization, services, constraints, and current support, of, in, or relating to, such system,
 
-&emsp;(B) contains a description of the proposed management system referred to in section 655(a)(1)(B) of this title, including a description of information flows, input data, and output reports and uses,
+&emsp;(B) contains a description of the proposed management system referred to in section 654(16) of this title, including a description of information flows, input data, and output reports and uses,
 
 &emsp;(C) sets forth the security and interface requirements to be employed in such management system,
 
@@ -80,13 +80,13 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(G) provides such other information as the Secretary determines under regulation is necessary.
 
-(2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a) of this section, on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 655(a)(1)(B) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
+(2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a) of this section, on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
 
-(B) If the Secretary finds with respect to any statewide management information system referred to in section 655(a)(1)(B) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
+(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
 (3) The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title with respect to a State if—
 
-&emsp;(A) the State demonstrates to the satisfaction of the Secretary that the State has an alternative system or systems that enable the State, for purposes of section 603(h) of this title, to be in substantial compliance with other requirements of this part; and
+&emsp;(A) the State demonstrates to the satisfaction of the Secretary that the State has an alternative system or systems that enable the State, for purposes of section 603(h) of thistitle, to be in substantial compliance with other requirements of this part; and
 
 &emsp;(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(c) of this title, or
 
@@ -94,7 +94,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 #### (e) Technical assistance to States
 
-The Secretary shall provide such technical assistance to States as he determines necessary to assist States to plan, design, develop, or install and provide for the security of, the management information systems referred to in section 655(a)(1)(B) of this title.
+The Secretary shall provide such technical assistance to States as he determines necessary to assist States to plan, design, develop, or install and provide for the security of, the management information systems referred to in section 654(16) of this title.
 
 #### (f) Regulations
 
@@ -128,7 +128,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(B) the term “reliable data” means the most recent data available which are found by the Secretary to be reliable for purposes of this section.
 
-> For purposes of subparagraph (A), the total number of children shall not include any child who is a dependent child by reason of the deathof a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so.
+> For purposes of subparagraph (A), the total number of children shall not include any child who is a dependent child by reason of the death of a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so.
 
 (3)(A) The requirements of this subsection are in addition to and shall not supplant any other requirement (that is not inconsistent with such requirements) established in regulations by the Secretary for the purpose of determining (for purposes of section 603(h) of this title) whether the program of a State operated under this part shall be treated as complying substantially with the requirements of this part.
 
@@ -144,7 +144,7 @@ The standards required by subsection (a)(1) of this section shall include standa
 
 The standards required by subsection (a)(1) of this section shall include standards establishing time limits governing the period or periods within which a State must distribute, in accordance with section 657 of this title, amounts collected as child support pursuant to the State's plan approved under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2351; amended May 23, 1977, Pub. L. 95–30, title V, §504(a), 91 Stat. 163; June 9, 1980, Pub. L. 96–265, title IV, §§402(a), 405(c), (d), 94 Stat. 462, 464, 465; June 17, 1980, Pub. L. 96–272, title III, §301(b), 94 Stat. 527; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(b), 95 Stat. 861; Sept. 3, 1982, Pub. L. 97–248, title I, §175(a)(1), 96 Stat. 403; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), 98 Stat. 1166, 1170; Aug. 16, 1984, Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, 98 Stat. 1312, 1316, 1319, 1321; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 22, 1987, Pub. L. 100–203, title IX, §9143(a), 101 Stat. 1330–322; Oct. 13, 1988, Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), 102 Stat. 2348, 2351–2353; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(B)(i), 103 Stat. 2487; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13721(a), 107 Stat. 658; Oct. 31, 1994, Pub. L. 103–432, title II, §213, 108 Stat. 4461.)
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2351; amended May 23, 1977, Pub. L. 95–30, title V, §504(a), 91 Stat. 163; June 9, 1980, Pub. L. 96–265, title IV, §§402(a), 405(c), (d), 94 Stat. 462, 464, 465; June 17, 1980, Pub. L. 96–272, title III, §301(b), 94 Stat. 527; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(b), 95 Stat. 861; Sept. 3, 1982, Pub. L. 97–248, title I, §175(a)(1), 96 Stat. 403; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), 98 Stat. 1166, 1170; Aug. 16, 1984, Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, 98 Stat. 1312, 1316, 1319, 1321; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 22, 1987, Pub. L. 100–203, title IX, §9143(a), 101 Stat. 1330–322; Oct. 13, 1988, Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), 102 Stat. 2348, 2351–2353; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(B)(i), 103 Stat. 2487; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13721(a), 107 Stat. 658; Oct. 31, 1994, Pub. L. 103–432, title II, §213, 108 Stat. 4461; Oct. 12, 1995, Pub. L. 104–35, §1(b), 109 Stat. 294.)
 
 #### References in Text
 
@@ -153,6 +153,8 @@ Parts A and E of this subchapter, referred to in subsecs. (a)(10), (b), and (g)(
 The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1995—Subsecs. (d)(1)(B), (2)(A), (B), (e). Pub. L. 104–35 substituted “in section 654(16)” for “in section 655(a)(1)(B)”.
 
 1994—Subsec. (g)(2)(A). Pub. L. 103–432, §213(5), in closing provisions, substituted “born out of wedlock” for “who were born out of wedlock during the immediately preceding fiscal year”, substituted “the preceding fiscal year” for “such preceding fiscal year” in two places, and struck out “or E” after “under this part”.
 
@@ -198,7 +200,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 “(1) There is hereby established in the Treasury a revolving fund which shall be available to the Secretary without fiscal year limitation, to enable him to pay to the States for distribution in accordance with the provisions of section 657 of this title such amounts as may be collected and paid (subject to paragraph (2)) into such fund under section 6305 of the Internal Revenue Code of 1986.
 
-“(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.”
+“(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpaymentsof the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.”
 
 1986—Subsecs. (b), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
@@ -246,7 +248,7 @@ Section 13721(c) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective as if included in section 123(d) of Pub. L. 100–485 on Oct. 13, 1988, seesection 10403(a)(1)(B)(ii) of Pub. L. 101–239, set out as a note under section 602 of this title.
+Amendment by Pub. L. 101–239 effective as if included in section 123(d) of Pub. L. 100–485 on Oct. 13, 1988, see section 10403(a)(1)(B)(ii) of Pub. L. 101–239, set out as a note under section 602 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -264,7 +266,7 @@ Amendment by section 9(a)(1) of Pub. L. 98–378 effective Oct. 1, 1983, see sec
 
 Section 13(c) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section\] shall be effective for reports for fiscal year 1986 and each fiscal year thereafter.”
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1982 Amendment
 

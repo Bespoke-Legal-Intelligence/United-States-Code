@@ -2,25 +2,15 @@
 
 (a)
 
-In General.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military, while domiciled in the United States or a NAFTA country and serving in any other country in connection with operations by or on behalf of the United States or a NAFTA country, the person shall be entitled to the same rights of priority in the United States with respect to such invention as if such invention had been made in the United States or a NAFTA country. To the extent that any information in a NAFTA country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Commissioner, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
+In General.—
 
-(b)
+&emsp;(1)
 
-Definition.—As used in this section, the term “NAFTA country” has the meaning given that term in section 2(4) of the North American Free Trade Agreement Implementation Act.
+Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 14, 1975, Pub. L. 94–131, §6, 89 Stat. 691; Nov. 8, 1984, Pub. L. 98–622, title IV, §403(a), 98 Stat. 3392; Dec. 8, 1993, Pub. L. 103–182, title III, §331, 107 Stat. 2113; Dec. 8, 1994, Pub. L. 103–465, title V, §531(a), 108 Stat. 4982.)
+&emsp;(2)
 
-#### Amendment of Section
-
-<i>Pub. L. 103–465, title V, §531, Dec. 8, 1994, 108 Stat. 4982, provided that, applicable to all patent applications that are filed on or after date that is 12 months after date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], with provisions relating to establishment of date of invention, this section is amended to read as follows:</i>
-
-#### §104. Invention made abroad
-
-(a) In General.—
-
-&emsp;(1) Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
-
-&emsp;(2) Rights.—If an invention was made by a person, civil or military—
+Rights.—If an invention was made by a person, civil or military—
 
 &emsp;&emsp;(A) while domiciled in the United States, and serving in any other country in connection with operations by or on behalf of the United States,
 
@@ -30,13 +20,19 @@ Definition.—As used in this section, the term “NAFTA country” has the mean
 
 > &emsp;that person shall be entitled to the same rights of priority in the United States with respect to such invention as if such invention had been made in the United States, that NAFTA country, or that WTO member country, as the case may be.
 
-&emsp;(3) Use of information.—To the extent that any information in a NAFTA country or a WTO member country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Patent and Trademark Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Commissioner, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
+&emsp;(3)
 
-(b) Definitions.—As used in this section—
+Use of information.—To the extent that any information in a NAFTA country or a WTO member country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Patent and Trademark Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Commissioner, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
+
+(b)
+
+Definitions.—As used in this section—
 
 &emsp;(1) the term “NAFTA country” has the meaning given that term in section 2(4) of the North American Free Trade Agreement Implementation Act; and
 
 &emsp;(2) the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.
+
+(July 19, 1952, ch. 950, 66 Stat. 798; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 14, 1975, Pub. L. 94–131, §6, 89 Stat. 691; Nov. 8, 1984, Pub. L. 98–622, title IV, §403(a), 98 Stat. 3392; Dec. 8, 1993, Pub. L. 103–182, title III, §331, 107 Stat. 2113; Dec. 8, 1994, Pub. L. 103–465, title V, §531(a), 108 Stat. 4982.)
 
 #### Historical and Revision Notes
 
@@ -46,11 +42,15 @@ Language has been changed and the last sentence has been broadened to refer to p
 
 #### References in Text
 
-Section 2(4) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b), is classified to section 3301(4) of Title 19, Customs Duties.
+Section 2(4) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b)(1), is classified to section 3301(4) of Title 19, Customs Duties.
+
+Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2), is classified to section 3501(10) of Title 19.
 
 #### Amendments
 
-1993—Pub. L. 103–182 amended section catchline and text generally. Prior to amendment, text read as follows: “In proceedings in the Patent and Trademark Office and in the courts, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military,while domiciled in the United States and serving in a foreign country in connection with operations by or on behalf of the United States, he shall be entitled to the same rights of priority with respect to such invention as if the same had been made in the United States.”
+1994—Pub. L. 103–465 amended section generally, expanding scope of section to include WTO member countries along with NAFTA countries and defining term “WTO member country”.
+
+1993—Pub. L. 103–182 amended section catchline and text generally. Prior to amendment, text read as follows: “In proceedings in the Patent and Trademark Office and in the courts, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military, while domiciled in the United States and serving in a foreign country in connection with operations by or on behalf of the United States, he shall be entitled to the same rights of priority with respect to such invention as if the same had been made in the United States.”
 
 1984—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 

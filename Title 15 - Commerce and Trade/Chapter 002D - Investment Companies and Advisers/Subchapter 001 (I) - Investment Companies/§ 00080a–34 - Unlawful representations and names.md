@@ -14,7 +14,7 @@ No provision of subsection (a) or (b) of this section shall be construed to proh
 
 #### (d) Deceptive or misleading names for investment companies
 
-It shall be unlawful for any registered investment company hereafter to adopt as a part ofthe name or title of such company, or of any security of which it is the issuer, any word or words which the Commission finds and by order declares to be deceptive or misleading. The Commission is authorized to bring an action in the proper district court of the United States or United States court of any Territory or other place subject to the jurisdiction of the United States alleging that the name or title of any registered investment company, or of any security which it has issued, is materially deceptive or misleading. If the court finds that the Commission's allegations in this respect, taking into consideration the history of the investment company and the length of time which it may have used any such name or title, are established, the court shall enjoin such investment company from continuing to use any such name or title.
+It shall be unlawful for any registered investment company hereafter to adopt as a part of the name or title of such company, or of any security of which it is the issuer, any word or words which the Commission finds and by order declares to be deceptive or misleading. The Commission is authorized to bring an action in the proper district court of the United States or United States court of any Territory or other place subject to the jurisdiction of the United States alleging that the name or title of any registered investment company, or of any security which it has issued, is materially deceptive or misleading. If the court finds that the Commission's allegations in this respect, taking into consideration the history of the investment company and the length of time which it may have used any such name or title, are established, the court shall enjoin such investment company from continuing to use any such name or title.
 
 (Aug. 22, 1940, ch. 686, title I, §35, 54 Stat. 840.)
 
@@ -22,7 +22,7 @@ It shall be unlawful for any registered investment company hereafter to adopt as
 
 The Securities Act of 1933, referred to in subsec. (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (c), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Transfer of Functions
 

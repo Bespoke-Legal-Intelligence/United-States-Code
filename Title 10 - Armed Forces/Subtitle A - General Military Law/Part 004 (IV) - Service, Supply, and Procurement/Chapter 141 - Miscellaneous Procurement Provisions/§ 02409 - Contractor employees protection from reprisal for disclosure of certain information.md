@@ -6,7 +6,7 @@ Prohibition of Reprisals.—An employee of a contractor may not be discharged, d
 
 (b)
 
-Investigation of Complaints.—A person who believes that the person has been subjectedto a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of an agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency.
+Investigation of Complaints.—A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of an agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency.
 
 (c)
 
@@ -72,5 +72,5 @@ Section 1052(30)(B) of Pub. L. 102–484 provided that: “The amendment made by
 
 #### Effective Date
 
-Section 101(c) \[title X, §942(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 942(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2409 of title 10, United States Code (as added by subsection (a)(1)), shall apply with respect to any reprisal action taken on or after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §942(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 942(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:“Section 2409 of title 10, United States Code (as added by subsection (a)(1)), shall apply with respect to any reprisal action taken on or after the date of the enactment of this Act \[Oct. 18, 1986\].”
 

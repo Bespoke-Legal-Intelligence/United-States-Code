@@ -34,7 +34,7 @@ The Board's duties shall include, but not necessarily be limited to—
 
 &emsp;&emsp;(E) able to contribute to solving the problems addressed by this subpart;
 
-&emsp;(3) recommending which developing nations could benefit from programs carried out under this subpart, and identifying those nations which have an interest in establishing or developing agricultural institutions which engage in teaching, research, or extension activities;
+&emsp;(3) recommending which developing nations could benefit from programs carried out underthis subpart, and identifying those nations which have an interest in establishing or developing agricultural institutions which engage in teaching, research, or extension activities;
 
 &emsp;(4) reviewing and evaluating memorandums of understanding or other documents that detail the terms and conditions between the Administrator and universities participating in programs under this subpart;
 

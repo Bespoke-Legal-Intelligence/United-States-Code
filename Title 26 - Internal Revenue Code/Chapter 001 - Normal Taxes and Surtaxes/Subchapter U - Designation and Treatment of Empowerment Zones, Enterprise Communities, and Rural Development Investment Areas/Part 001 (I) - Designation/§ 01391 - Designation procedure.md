@@ -32,7 +32,7 @@ A designation may be made under this section only after 1993 and before 1996.
 
 #### (2) Revocation of designation
 
-&emsp;The appropriate Secretary may revoke the designation under this section of an area ifsuch Secretary determines that the local government or the State in which it is located—
+&emsp;The appropriate Secretary may revoke the designation under this section of an area if such Secretary determines that the local government or the State in which it is located—
 
 &emsp;&emsp;(A) has modified the boundaries of the area, or
 

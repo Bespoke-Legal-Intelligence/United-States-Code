@@ -138,7 +138,7 @@ Section 11 of Pub. L. 100–496 provided that:
 
 &emsp;&emsp;&emsp;“(iii) the business concern offers appropriate warranties to furnish property or services conforming to the requirements of the contract or purchase order, if payment will be due prior to acceptance of the items or services; and
 
-&emsp;&emsp;“(D) in the case of progress payments under construction contracts, does not exceed 14 days, unlessthe solicitation specifies a longer period which the contracting officer has determined is required to afford the Government a practicable opportunity to adequately inspect the work and to evaluate the adequacy of the contractor's performance under the contract.
+&emsp;&emsp;“(D) in the case of progress payments under construction contracts, does not exceed 14 days, unless the solicitation specifies a longer period which the contracting officer has determined is required to afford the Government a practicable opportunity to adequately inspect the work and to evaluate the adequacy of the contractor's performance under the contract.
 
 &emsp;“(2) Requirements to make periodic payments, in the case of a property or service contract which does not prohibit periodic payments for partial deliveries or other contract performance during the contract period, upon—
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) recommend methods for improving efficient sharing and dissemination of data and information on the Arctic among interested public and private institutions;
 
-&emsp;(7) offer other recommendations and advice to the Interagency Committee established under section 4106 of this title as it may find appropriate;
+&emsp;(7) offer other recommendations and advice to the Interagency Committee establishedunder section 4106 of this title as it may find appropriate;
 
 &emsp;(8) cooperate with the Governor of the State of Alaska and with agencies and organizations of that State which the Governor may designate with respect to the formulation of Arctic research policy;
 
@@ -24,15 +24,15 @@
 
 (b) Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.
 
-(Pub. L. 98 373, title I, §104, July 31, 1984, 98 Stat. 1244; Pub. L. 101 609, §4, Nov. 16, 1990, 104 Stat. 3125.)
+(Pub. L. 98–373, title I, §104, July 31, 1984, 98 Stat. 1244; Pub. L. 101–609, §4, Nov. 16, 1990, 104 Stat. 3125.)
 
 #### Amendments
 
-1990—Subsec. (a)(4), (6). Pub. L. 101 609, §4(a)(1), (2), substituted “recommend” for “suggest”.
+1990—Subsec. (a)(4), (6). Pub. L. 101–609, §4(a)(1), (2), substituted “recommend” for “suggest”.
 
-Subsec. (a)(9), (10). Pub. L. 101 609, §4(a)(3) (5), added pars. (9) and (10).
+Subsec. (a)(9), (10). Pub. L. 101–609, §4(a)(3)–(5), added pars. (9) and (10).
 
-Subsec. (b). Pub. L. 101 609, §4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
+Subsec. (b). Pub. L. 101–609, §4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
 
 &emsp;“(1) publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties; and
 

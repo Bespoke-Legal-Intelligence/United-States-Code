@@ -90,25 +90,25 @@ Each advisory committee established pursuant to subsection (c)(2) of this sectio
 
 &emsp;&emsp;&emsp;&emsp;(V) the cost of training offerings; and
 
-&emsp;&emsp;&emsp;(vii) describe the ways in which the State will use the funds received under this section and any other funds available to the State to carry out the activities described in the State plan.
+&emsp;&emsp;&emsp;(vii) describe the ways in which the State will use the funds received underthis section and any other funds available to the State to carry out the activities described in the State plan.
 
-(Pub. L. 89 329, title V, §597, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 717; amended Pub. L. 103 208, §2(j)(9), Dec. 20, 1993, 107 Stat. 2481.)
+(Pub. L. 89–329, title V, §597, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 717; amended Pub. L. 103–208, §2(j)(9), Dec. 20, 1993, 107 Stat. 2481.)
 
 #### References in Text
 
-The Child Care and Development Block Grant Act, referred to in subsec. (d)(1), probably means the Child Care and Development Block Grant Act of 1990, which is subchapter C (§§658A 658R) of chapter 8 of subtitle A of title VI of Pub. L. 97 35, as added by Pub. L. 101 508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388 236, as amended, and which is classified generally to subchapter II B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care and Development Block Grant Act, referred to in subsec. (d)(1), probably means the Child Care and Development Block Grant Act of 1990, which is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, and which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Amendments
 
-1993—Subsec. (d)(1). Pub. L. 103 208 substituted “Child Care and Development Block Grant Act” for “Child Care Development and Block Grant Act”.
+1993—Subsec. (d)(1). Pub. L. 103–208 substituted “Child Care and Development Block Grant Act” for “Child Care Development and Block Grant Act”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

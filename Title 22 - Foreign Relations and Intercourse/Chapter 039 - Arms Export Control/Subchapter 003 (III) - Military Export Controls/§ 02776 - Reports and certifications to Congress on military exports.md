@@ -2,7 +2,7 @@
 
 #### (a) Report by President; contents
 
-The President shall transmit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate not more than sixty days after the end of each quarter an unclassified report (except that any material which was transmitted in classified form under subsection (b)(1) or (c)(1) of this section may be contained in a classified addendum to such report, and any letter of offer referred to in paragraph (1) of this subsection may be listed in such addendum unless such letter of offer has been the subject of an unclassified certification pursuant to subsection (b)(1) of this section, and any information provided under paragraph (11) of this subsection may also be provided in a classified addendum) containing—
+The President shall transmit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations ofthe Senate not more than sixty days after the end of each quarter an unclassified report (except that any material which was transmitted in classified form under subsection (b)(1) or (c)(1) of this section may be contained in a classified addendum to such report, and any letter of offer referred to in paragraph (1) of this subsection may be listed in such addendum unless such letter of offer has been the subject of an unclassified certification pursuant to subsection (b)(1) of this section, and any information provided under paragraph (11) of this subsection may also be provided in a classified addendum) containing—
 
 &emsp;(1) a listing of all letters of offer to sell any major defense equipment for $1,000,000 or more under this chapter to each foreign country and international organization, by category, if such letters of offer have not been accepted or canceled;
 
@@ -30,7 +30,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 > &emsp;in implementation of sales and commercial exports under this chapter or of assistance under chapter 2, 5, 6, or 8 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq., 2347 et seq., 2348 et seq., 2349aa et seq.\], including both personnel assigned to the country and personnel temporarily in the country by detail or otherwise;
 
-&emsp;(8) a description of each payment, contribution, gift, commission, or fee reported to the Secretary of State under section 2779 of this title, including (A) the name of the person who made such payment, contribution, gift, commission, or fee; (B) the name of any salesagent or other person to whom such payment, contribution, gift, commission, or fee was paid; (C) the date and amount of such payment, contribution, gift, commission, or fee; (D) a description of the sale in connection with which such payment, contribution, gift, commission, or fee was paid; and (E) the identification of any business information considered confidential by the person submitting it which is included in the report;
+&emsp;(8) a description of each payment, contribution, gift, commission, or fee reported to the Secretary of State under section 2779 of this title, including (A) the name of the person who made such payment, contribution, gift, commission, or fee; (B) the name of any sales agent or other person to whom such payment, contribution, gift, commission, or fee was paid; (C) the date and amount of such payment, contribution, gift, commission, or fee; (D) a description of the sale in connection with which such payment, contribution, gift, commission, or fee was paid; and (E) the identification of any business information considered confidential by the person submitting it which is included in the report;
 
 &emsp;(9) a listing of each sale under section 2769 of this title during the quarter for which such report is made, specifying (A) the purchaser, (B) the United States Government department or agency responsible for implementing the sale, (C) an estimate of the dollar amount of the sale, and (D) a general description of the real property facilities to be constructed pursuant to such sale;
 
@@ -44,7 +44,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 > &emsp;excluding munitions items transferred (i) for disposition or use solely within the United States, or (ii) for use in connection with intelligence activities subject to reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
 
-> For each letter of offer to sell under paragraphs (1) and (2), the report shall specify (i) the foreign country or international organization to which the defense article or service is offered or was sold, as the case may be; (ii) the dollar amount of the offer to sell or the sale and the number of defense articles offered or sold, as the case may be; (iii) a description of the defense article or service offered or sold, as the case may be; and (iv) the United States Armed Force or other agency of the United States which is making the offer to sell or the sale, as the case may be.
+> For each letter of offer to sell under paragraphs (1) and (2), the report shall specify (i) the foreign country or international organization to which the defense article or service is offered or wassold, as the case may be; (ii) the dollar amount of the offer to sell or the sale and the number of defense articles offered or sold, as the case may be; (iii) a description of the defense article or service offered or sold, as the case may be; and (iv) the United States Armed Force or other agency of the United States which is making the offer to sell or the sale, as the case may be.
 
 #### (b) Letter of offer to sell defense articles, services, design and construction services, or major equipment; submission of numbered Presidential certification and additional statement; contents; emergency justification statement; enhancements or upgrades in sensitivity of technology or capability of major defense articles, equipment, or services
 
@@ -54,7 +54,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 &emsp;(B) an estimate of the number of officers and employees of the United States Government and of United States civilian contract personnel expected to be needed in such country to carry out the proposed sale;
 
-&emsp;(C) the name of each contractor expected to provide the defense article, defense service, or design and construction service proposed to be sold and a description from such contractor ofany offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement);
+&emsp;(C) the name of each contractor expected to provide the defense article, defense service, or design and construction service proposed to be sold and a description from such contractor of any offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement);
 
 &emsp;(D) an evaluation, prepared by the Director of the Arms Control and Disarmament Agency in consultation with the Secretary of State and the Secretary of Defense, of the manner, if any, in which the proposed sale would—
 
@@ -96,7 +96,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (2) Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, except that for purposes of consideration of any joint resolution with respect to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand, it shall be in order in the Senate to move to discharge a committee to which such joint resolution was referred if such committee has not reported such joint resolution at the end of five calendar days after its introduction.
 
-(3) For the purpose of expediting the consideration and enactment of joint resolutions underthis subsection, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+(3) For the purpose of expediting the consideration and enactment of joint resolutions under this subsection, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
 (4) In addition to the other information required to be contained in a certification submitted to the Congress under this subsection, each such certification shall cite any quarterly report submitted pursuant to section 2768 of this title which listed a price and availability estimate, or a request for the issuance of a letter of offer, which was a basis for the proposed sale which is the subject of such certification.
 
@@ -108,7 +108,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (B) The provisions of subparagraph (A) apply to an article or equipment delivered, or a service furnished, within ten years after the transmittal to the Congress of a numbered certification with respect to the sale of such article, equipment, or service.
 
-(C) If the enhancement or upgrade in the sensitivity of technology or the capability of major defense equipment, defense articles, defense services, or design and construction services described in a numbered certification submitted under this subsection costs $14,000,000 or more in the case of any major defense equipment, $50,000,000 or more in the case of defense articles or defense services, or $200,000,000 or more in the case of design or construction services, then the President shall submit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a new numbered certification which relates to such enhancement or upgrade and which shall be considered for purposes of this subsection as if it were a separate letter of offer to sell defense equipment, articles, or services, subject to all of the requirements, restrictions, and conditions set forth in this subsection. For purposes of this subparagraph, references in this subsection to sales shall be deemed to be references to enhancements or upgrades in the sensitivity of technology or the capability of major defense equipment, articles, or services, as the case may be.
+(C) If the enhancement or upgrade in the sensitivity of technology or the capability of major defense equipment, defense articles, defense services, or design and construction services described in a numbered certification submitted under this subsection costs $14,000,000 or more in the case of any major defense equipment, $50,000,000 or more in the case of defense articles or defense services, or $200,000,000 or more in the case of design or construction services, then the President shall submit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a new numbered certification which relates to such enhancement or upgrade and which shall be considered for purposes of this subsection as if it were a separate letter of offer to sell defense equipment, articles, or services, subject to all of the requirements, restrictions, and conditionsset forth in this subsection. For purposes of this subparagraph, references in this subsection to sales shall be deemed to be references to enhancements or upgrades in the sensitivity of technology or the capability of major defense equipment, articles, or services, as the case may be.
 
 (D) For the purposes of subparagraph (A), the term “major defense article” shall be construed to include electronic devices, which if upgraded, would enhance the mission capability of a weapons system.
 
@@ -136,7 +136,7 @@ In the case of an approval under section 2778 of this title of a United States c
 
 For purposes of this section—
 
-&emsp;(1) the term “offset agreement” means an agreement, arrangement, or understanding between a United States supplier of defense articles or defense services and a foreign country under which the supplier agrees to purchase or acquire, or to promote the purchase or acquisition by other United States persons of, goods or services produced, manufactured, grown, or extracted, in whole or in part, in that foreign country in consideration for the purchase by the foreign country of defense articles or defense service from the supplier; and
+&emsp;(1) the term “offset agreement” means an agreement, arrangement, or understanding between a United States supplier of defense articles or defense services and a foreign country under which the supplier agrees to purchase oracquire, or to promote the purchase or acquisition by other United States persons of, goods or services produced, manufactured, grown, or extracted, in whole or in part, in that foreign country in consideration for the purchase by the foreign country of defense articles or defense service from the supplier; and
 
 &emsp;(2) the term “United States person” means—
 
@@ -168,7 +168,7 @@ Subsec. (b)(1)(C). Pub. L. 103–236, §732(a)(2), inserted “and a description
 
 Subsec. (c)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-Pub. L. 103–236, §735(b), which directed amendment of par. (1) by inserting after “in consultation with theSecretary of Defense.” the following new sentence: “In a case in which such articles or services are listed on the Missile Technology Control Regime Annex and are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy.”, was executed by making the insertion after “in consultation with the Secretary of Defense and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement).” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 103–236, §732(b)(2). See below.
+Pub. L. 103–236, §735(b), which directed amendment of par. (1) by inserting after “in consultation with the Secretary of Defense.” the following new sentence: “In a case in which such articles or services are listed on the Missile Technology Control Regime Annex and are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy.”, was executed by making the insertion after “in consultation with the Secretary of Defense and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement).” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 103–236, §732(b)(2). See below.
 
 Pub. L. 103–236, §732(b)(2), inserted “and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement)” after “Secretary of Defense”.
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 94–329, §211(a), added subsec. (d).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 
@@ -256,7 +256,7 @@ Section 604(c) of Pub. L. 94–329 provided that: “The amendments made by this
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (a) and (b)(1) of this section, except with respect to certification of an emergency under subsec. (b)(1), delegated to Secretary of Defense, with Secretary of Defense required to consult with other specific agencies in implementing certain delegated functions, by section 1(j) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under subsecs. (a) and (b)(1) of this section, except with respect to certification of anemergency under subsec. (b)(1), delegated to Secretary of Defense, with Secretary of Defense required to consult with other specific agencies in implementing certain delegated functions, by section 1(j) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 Functions of President under subsecs. (c) and (d) of this section delegated to Secretary of State by section 1(k) of Ex. Ord. No. 11958.
 

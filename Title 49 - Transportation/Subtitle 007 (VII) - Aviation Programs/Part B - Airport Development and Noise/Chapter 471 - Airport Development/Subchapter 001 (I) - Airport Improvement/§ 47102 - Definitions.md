@@ -246,7 +246,7 @@ In clause (3)(A), before subclause (i), the words “any work involved in” and
 
 In clause (3)(B), before subclause (i), the word “for” is substituted for “by” for clarity. In subclause (i), the words “required by the acquisition or installation” are substituted for “thereby required” for clarity. In subclause (ii), the word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the Code.
 
-In clause (3)(C), before subclause (i), the words “interest in land or airspace” are substituted for “land or of any interest therein, or of any easement through or other interest in airspace” to eliminate unnecessary words. In subclause (ii), the words “existing airporthazard . . . the creation of a new airport hazard” are added for clarity and consistency in this chapter.
+In clause (3)(C), before subclause (i), the words “interest in land or airspace” are substituted for “land or of any interest therein, or of any easement through or other interest in airspace” to eliminate unnecessary words. In subclause (ii), the words “existing airport hazard . . . the creation of a new airport hazard” are added for clarity and consistency in this chapter.
 
 In clause (3)(D), the words “any . . . work involved to” are omitted as surplus. The word “Secretary” is substituted for “Department of Transportation” because of 49:102(b). The words “Administrator of the” are added because of 49:106(b).
 

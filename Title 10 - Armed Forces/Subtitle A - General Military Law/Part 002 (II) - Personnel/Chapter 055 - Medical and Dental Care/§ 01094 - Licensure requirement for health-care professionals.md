@@ -2,7 +2,7 @@
 
 (a)(1) A person under the jurisdiction of the Secretary of a military department may not provide health care independently as a health-care professional under this chapter unless the person has a current license to provide such care.
 
-(2) The Secretary of Defense may waive paragraph (1) with respect to any person in unusualcircumstances. The Secretary shall prescribe by regulation the circumstances under which such a waiver may be granted.
+(2) The Secretary of Defense may waive paragraph (1) with respect to any person in unusual circumstances. The Secretary shall prescribe by regulation the circumstances under which such a waiver may be granted.
 
 (b) The commanding officer of each health care facility of the Department of Defense shall ensure that each person who provides health care independently as a health-care professional at the facility meets the requirement of subsection (a).
 

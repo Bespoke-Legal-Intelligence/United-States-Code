@@ -6,7 +6,7 @@ Information required by this subchapter shall be disclosed clearly and conspicuo
 
 #### (b) Optional information by creditor or lessor
 
-Any creditor or lessor may supply additional information or explanation with any disclosuresrequired under parts D and E of this subchapter and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
+Any creditor or lessor may supply additional information or explanation with any disclosures required under parts D and E of this subchapter and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
 
 #### (c) Tabular format required for certain disclosures under section 1637(c)
 
@@ -40,39 +40,39 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;Either the heading or the statement under the heading which relates to the time period referred to in section 1637(c)(1)(A)(iii) of this title shall contain the term “grace period”.
 
-(Pub. L. 90 321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93 495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96 221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100 583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100 709, §2(d), Nov. 23, 1988, 102 Stat. 4731.)
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28,1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731.)
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100 583, §2(b)(1), substituted “Except as provided in subsection (c) of this section, regulations” for “Regulations”.
+1988—Subsec. (a). Pub. L. 100–583, §2(b)(1), substituted “Except as provided in subsection (c) of this section, regulations” for “Regulations”.
 
-Subsec. (b). Pub. L. 100 709 substituted “sections 1637a(b)(3) and 1638(b)(1)” for “section 1638(b)(1)”.
+Subsec. (b). Pub. L. 100–709 substituted “sections 1637a(b)(3) and 1638(b)(1)” for “section 1638(b)(1)”.
 
-Subsec. (c). Pub. L. 100 583, §2(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 100–583, §2(b)(2), added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96 221 substituted provisions setting forth form of disclosure to meet requirements of this subchapter, for provisions setting forth form of disclosure authorized under this part or part D of this subchapter.
+1980—Subsec. (a). Pub. L. 96–221 substituted provisions setting forth form of disclosure to meet requirements of this subchapter, for provisions setting forth form of disclosure authorized under this part or part D of this subchapter.
 
-Subsec. (b). Pub. L. 96 221 substituted provisions setting forth disclosure requirements for additional information by creditors or lessors, for provisions setting forth disclosure requirements for additional information by creditors.
+Subsec. (b). Pub. L. 96–221 substituted provisions setting forth disclosure requirements for additional information by creditors or lessors, for provisions setting forth disclosure requirements for additional information by creditors.
 
-1974—Subsecs. (a), (b). Pub. L. 93 495 inserted references to part D of this subchapter.
+1974—Subsecs. (a), (b). Pub. L. 93–495 inserted references to part D of this subchapter.
 
 #### Effective Date of 1988 Amendment
 
-For effective date of amendments by Pub. L. 100 709, see Regulations; Effective Date note below.
+For effective date of amendments by Pub. L. 100–709, see Regulations; Effective Date note below.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 
-For effective date of amendment by Pub. L. 93 495, see section 308 of Pub. L. 93 495, set out as an Effective Date note under section 1666 of this title.
+For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
 #### Regulations; Effective Date
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100 709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100 709, set out as a note under section 1637a of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100 583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100 583, set out as a note under section 1637 of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@
 
 > &emsp;in which case the Secretary of Labor shall assign such local government the local unemployment rate provided by such Governor);
 
-&emsp;(C) the local revenue sharing amount is the amount determined under sections 6701(a)(5),\(7), (b)–(d), and 6708–6712 of title 31 <sup>1</sup> for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31; <sup>1</sup>
+&emsp;(C) the local revenue sharing amount is the amount determined under sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31 <sup>1</sup> for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31; <sup>1</sup>
 
 &emsp;(D) the term “local government” means the government of a county, municipality, township, or other unit of government below the State which—
 
@@ -66,7 +66,7 @@ Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in
 
 #### Codification
 
-In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
+In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enactedTitle 31, Money and Finance. See, also, References in Text note above.
 
 #### Amendments
 

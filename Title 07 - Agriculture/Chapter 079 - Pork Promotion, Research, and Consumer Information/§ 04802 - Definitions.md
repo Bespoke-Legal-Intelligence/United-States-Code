@@ -1,0 +1,62 @@
+### §4802. Definitions
+
+For purposes of this chapter:
+
+&emsp;(1) The term “Board” means the National Pork Board established under section 4808 of this title.
+
+&emsp;(2) The term “consumer information” means an activity intended to broaden the understanding of sound nutritional attributes of pork or pork products, including the role of pork or pork products in a balanced, healthy diet.
+
+&emsp;(3) The term “Delegate Body” means the National Pork Producers Delegate Body established under section 4806 of this title.
+
+&emsp;(4) The term “imported” means entered, or withdrawn from a warehouse for consumption, in the customs territory of the United States.
+
+&emsp;(5) The term “importer” means a person who imports porcine animals, pork, or pork products into the United States.
+
+&emsp;(6) The term “order” means a pork and pork products promotion, research, and consumer information order issued under section 4803 of this title.
+
+&emsp;(7) The term “person” means an individual, group of individuals, partnership, corporation, association, organization, cooperative, or other entity.
+
+&emsp;(8) The term “porcine animal” means a swine raised for—
+
+&emsp;&emsp;(A) feeder pigs;
+
+&emsp;&emsp;(B) seedstock; or
+
+&emsp;&emsp;(C) slaughter.
+
+&emsp;(9) The term “pork” means the flesh of a porcine animal.
+
+&emsp;(10) The term “pork product” means a product produced or processed in whole or in part from pork.
+
+&emsp;(11) The term “producer” means a person who produces porcine animals in the United States for sale in commerce.
+
+&emsp;(12) The term “promotion” means an action, including paid advertising, taken to present a favorable image for porcine animals, pork, or pork products to the public with the intent of improving the competitive position and stimulating sales of porcine animals, pork, or pork products.
+
+&emsp;(13) The term “research” means—
+
+&emsp;&emsp;(A) research designed to advance, expand, or improve the image, desirability, nutritional value, usage, marketability, production, or quality of porcine animals, pork, or pork products; or
+
+&emsp;&emsp;(B) dissemination to a person of the results of such research.
+
+&emsp;(14) The term “Secretary” means the Secretary of Agriculture.
+
+&emsp;(15) The term “State” means each of the 50 States.
+
+&emsp;(16) The term “State association” means—
+
+&emsp;&emsp;(A) the single organization of pork producers in a State that is—
+
+&emsp;&emsp;&emsp;(i) organized under the laws of the State in which such association operates; and
+
+&emsp;&emsp;&emsp;(ii) recognized by the chief executive officer of such State as representing the pork producers of such State; or
+
+&emsp;&emsp;(B) if such organization does not exist on January 1, 1986, an organization that represents not fewer than 50 pork producers who market annually, in the aggregate, not less than 10 percent of the volume (measured in pounds) of porcine animals marketed in such State.
+
+&emsp;(17) The term “to market” means to sell or to otherwise dispose of a porcine animal, pork, or pork product in commerce.
+
+(Pub. L. 99–198, title XVI, §1613, Dec. 23, 1985, 99 Stat. 1607.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4809 of this title.
+

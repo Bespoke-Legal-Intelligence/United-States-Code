@@ -1,6 +1,6 @@
-### §8013 . Secretary of the Air Force
+### §8013. Secretary of the Air Force
 
-(a)(1) There is a Secretary of the Air Force, appointed from civilian life by the President, byand with the advice and consent of the Senate. The Secretary is the head of the Department of the Air Force.
+(a)(1) There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Air Force.
 
 (2) A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 

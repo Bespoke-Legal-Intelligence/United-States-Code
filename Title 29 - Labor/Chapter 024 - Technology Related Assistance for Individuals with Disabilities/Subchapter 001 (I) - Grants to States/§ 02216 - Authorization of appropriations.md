@@ -70,7 +70,7 @@ There are authorized to be appropriated to carry out this subchapter $50,000,000
 
 #### (iv) Application
 
-&emsp;&emsp;&emsp;The Secretary shall make any grants, and enter into any contracts or cooperative agreements, under this subsection on a competitive basis. To be eligible to receive funds under this subsection an agency, organization, or institution shall submit an application to the Secretary at such time, in such manner, and containing such information, as the Secretary may require.
+&emsp;&emsp;&emsp;The Secretary shall make any grants, and enter into any contracts or cooperative agreements, under this subsection ona competitive basis. To be eligible to receive funds under this subsection an agency, organization, or institution shall submit an application to the Secretary at such time, in such manner, and containing such information, as the Secretary may require.
 
 #### (2) Onsite visits
 

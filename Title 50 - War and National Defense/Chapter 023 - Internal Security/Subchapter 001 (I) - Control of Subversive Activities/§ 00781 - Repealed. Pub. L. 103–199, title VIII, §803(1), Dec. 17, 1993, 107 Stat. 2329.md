@@ -14,5 +14,5 @@ Section 1(a) of act Sept. 23, 1950, which provided that title I of act Sept. 23,
 
 #### Separability
 
-Section 32 of title I of act Sept. 23, 1950, provided: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstances, is held invalid, the remaining provisions of this title, or the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 32 of title I of act Sept. 23, 1950, provided: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstances, is held invalid, the remaining provisions of this title, or the application of such provision to otherpersons or circumstances, shall not be affected thereby.”
 

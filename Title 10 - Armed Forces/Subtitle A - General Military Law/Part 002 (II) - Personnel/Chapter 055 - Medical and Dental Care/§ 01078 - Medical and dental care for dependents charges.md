@@ -1,4 +1,4 @@
-### §1078 . Medical and dental care for dependents: charges
+### §1078. Medical and dental care for dependents: charges
 
 (a) The Secretary of Defense, after consulting the other administering Secretaries, shall prescribe fair charges for inpatient medical and dental care given to dependents under section 1076 of this title. The charge or charges prescribed shall be applied equally to all classes of dependents.
 
@@ -36,7 +36,7 @@ In subsection (b), the word “special” is omitted as surplusage.
 
 #### Prior Provisions
 
-A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, which prescribed instructions for marking ballots, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed instructions for marking ballots, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–581 inserted sentence at end relating to payment and income derived therefrommade as compensation for acquisition of part of all of allottee's allotment for public purpose.
+1988—Subsec. (b). Pub. L. 100–581 inserted sentence at end relating to payment and income derived therefrom made as compensation for acquisition of part of all of allottee's allotment for public purpose.
 
 #### Section Referred to in Other Sections
 

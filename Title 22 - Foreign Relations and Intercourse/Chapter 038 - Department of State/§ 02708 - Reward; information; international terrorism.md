@@ -12,7 +12,7 @@
 
 > if the act of international terrorism is against a United States person or United States property.
 
-(2) For purposes of this subsection, the term “act of international terrorism” includes any act substantially contributing to the acquisitionof unsafeguarded special nuclear material (as defined in section 830(8) of the Nuclear Proliferation Prevention Act of 1994) or any nuclear explosive device (as defined in section 830(4) of that Act) by an individual, group, or non-nuclear-weapon state (as defined in section 830(5) of that Act).
+(2) For purposes of this subsection, the term “act of international terrorism” includes any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in section 830(8) of the Nuclear Proliferation Prevention Act of 1994) or any nuclear explosive device (as defined in section 830(4) of that Act) by an individual, group, or non-nuclear-weapon state (as defined in section 830(5) of that Act).
 
 #### (b) Rewards for information relating to international narcoterrorism and drug trafficking
 
@@ -76,7 +76,7 @@ Not later than 30 days after paying any reward under this section, the Secretary
 
 As used in this section—
 
-&emsp;(1) the term “United States drug laws” means the laws of the United States for theprevention and control of illicit traffic in controlled substances (as such term is defined for purposes of the Controlled Substances Act \[21 U.S.C. 801 et seq.\]); and
+&emsp;(1) the term “United States drug laws” means the laws of the United States for the prevention and control of illicit traffic in controlled substances (as such term is defined for purposes of the Controlled Substances Act \[21 U.S.C. 801 et seq.\]); and
 
 &emsp;(2) the term “member of the immediate family” includes—
 
@@ -106,7 +106,7 @@ A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102
 
 1994—Subsec. (a). Pub. L. 103–236, §§827, 851, temporarily designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Pub. L. 103–236, §133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the United States” after “United States property” in concluding provisions.
+Pub. L. 103–236, §133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the UnitedStates” after “United States property” in concluding provisions.
 
 1990—Subsec. (c). Pub. L. 101–246, which directed amendment of subsec. (c) by substituting “$2,000,000” for “$500,000”, could not be executed because “$500,000” did not appear after execution of the amendment by Pub. L. 101–231. See 1989 Amendment note below.
 

@@ -358,9 +358,7 @@ Riparian rights or other authority of Maryland, Virginia, political subdivisions
 |  |  |
 | :--- | ---: |
 | 1962d–11b. | Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local authorities in Maryland or Virginia. |
-| 1962d–12. | Alaskan water resources; investigations of projects for conservation, development, and utilization; reports. |
-| 1962d–13. | Solicitation of views and recommendations on Alaskan water resources; transmittal of report to Congress. |
-| 1962d–14. | Authorization of appropriations for Alaskan water resources investigation. |
+| 1962d–12 to 1962d–14. Repealed. |  |
 | 1962d–14a. | Alaska hydroelectric power development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -476,7 +474,7 @@ Previously authorized diversions.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1962d–4 of this title; title 16 section 1275; title 22 section 2361; title 33 sections 1252, 1289; title 43 section 1511.
+This chapter is referred to in section 1962d–4 of this title; title 16 section 1275; title 22 section 2361; title 33 section 1289; title 43 section 1511.
 
 
 ---

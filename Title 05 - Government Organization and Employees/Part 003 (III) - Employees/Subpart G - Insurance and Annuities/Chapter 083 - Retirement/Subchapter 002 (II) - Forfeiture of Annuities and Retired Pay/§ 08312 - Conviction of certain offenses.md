@@ -1,4 +1,4 @@
-### §8312 . Conviction of certain offenses
+### §8312. Conviction of certain offenses
 
 (a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
 
@@ -102,13 +102,13 @@ The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is t
 
 #### Amendments
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
-1986—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
+<b>1986</b>—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
 
-1971—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
+<b>1971</b>—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
 
 #### Effective Date of 1994 Amendment
 

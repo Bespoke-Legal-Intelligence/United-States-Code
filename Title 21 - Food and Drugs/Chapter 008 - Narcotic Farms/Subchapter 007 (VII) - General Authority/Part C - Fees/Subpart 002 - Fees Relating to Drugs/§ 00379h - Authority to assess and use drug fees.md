@@ -58,7 +58,7 @@ Beginning in fiscal year 1993, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
 
-> &emsp;&emsp;shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.
+> &emsp;&emsp;shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall bepayable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.
 
 #### (B) Exception
 
@@ -119,7 +119,7 @@ The Secretary shall grant a waiver from or a reduction of 1 or more fees under s
 
 &emsp;(2) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances,
 
-&emsp;(3) the fees to be paid by such person will exceed the anticipated present and future costsincurred by the Secretary in conducting the process for the review of human drug applications for such person, or
+&emsp;(3) the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of human drug applications for such person, or
 
 &emsp;(4) assessment of the fee for an application or a supplement filed under section 355(b)(1) of this title pertaining to a drug containing an active ingredient would be inequitable because an application for a product containing the same active ingredient filed by another person under section 355(b)(2) of this title could not be assessed fees under subsection (a)(1) of this section.
 

@@ -36,7 +36,7 @@ The history of Federal authority to carry out a tank vessel safety program begin
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2102, 3303, 4501, 8501, 8502, 8701, 8702, 8703, 9101, 9102 of this title; title 8 section 1288; title 33 section 1228; title 49 sections 5117, 10542.
+This chapter is referred to in sections 2102, 3303, 4501, 8501, 8502, 8701, 8702, 8703, 9101, 9102 of this title; title 8 section 1288; title 33 section 1228; title 49 section 5117.
 
 
 ---

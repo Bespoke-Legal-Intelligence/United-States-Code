@@ -74,7 +74,7 @@ Section 9134(b) of Pub. L. 100–203 provided that: “The additional $50,000,00
 
 &emsp;“(A) be used only for the purpose of providing additional services under title XX of the Social Security Act \[this subchapter\]; and
 
-&emsp;“(B) be expended only to supplement the level of any funds that would, in the absence of the additionalfunds appropriated pursuant to such amendments, be available from other sources (including any amounts available under title XX of the Social Security Act without regard to such amendments) for services in accordance with such title, and shall in no case supplant such funds from other sources or reduce the level thereof.”
+&emsp;“(B) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated pursuant to such amendments, be available from other sources (including any amounts available under title XX of the Social Security Act without regard to such amendments) for services in accordance with such title, and shall in no case supplant such funds from other sources or reduce the level thereof.”
 
 #### Appropriations
 
@@ -96,7 +96,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;“(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[section 1397e of this title\].
 
-“(c)(1) In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[this subchapter\], not later than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
+“(c)(1) In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[this subchapter\], notlater than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
 
 &emsp;“(A) minimum licensing or registration standards for day care centers, group homes, and family day care homes regarding matters including—
 

@@ -34,5 +34,5 @@ Any such request by the State shall meet the criteria contained in section 6212 
 
 In requesting such a waiver, the State shall provide evidence of support for the waiver request by the State agencies or officials with jurisdiction over the provisions or regulations that would be waived.
 
-(Pub. L. 103 239, title V, §501, May 4, 1994, 108 Stat. 597.)
+(Pub. L. 103–239, title V, §501, May 4, 1994, 108 Stat. 597.)
 

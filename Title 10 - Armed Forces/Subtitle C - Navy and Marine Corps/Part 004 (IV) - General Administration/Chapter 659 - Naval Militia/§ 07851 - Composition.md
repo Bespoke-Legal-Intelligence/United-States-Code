@@ -1,4 +1,4 @@
-### §7851 . Composition
+### §7851. Composition
 
 The Naval Militia consists of the Naval Militia of the States, the Territories, and the District of Columbia.
 

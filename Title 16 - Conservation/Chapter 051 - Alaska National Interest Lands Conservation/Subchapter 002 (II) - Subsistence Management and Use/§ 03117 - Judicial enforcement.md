@@ -8,7 +8,7 @@ Local residents and other persons and organizations aggrieved by a failure of th
 
 #### (c) Section as sole Federal judicial remedy
 
-This section is the sole Federal judicial remedy created by this subchapter for local residents and other residents who, and organizations which, are aggrieved by a failure of theState to provide for the priority of subsistence uses set forth in section 3114 of this title.
+This section is the sole Federal judicial remedy created by this subchapter for local residents and other residents who, and organizations which, are aggrieved by a failure of the State to provide for the priority of subsistence uses set forth in section 3114 of this title.
 
 (Pub. L. 96–487, title VII, §807, Dec. 2, 1980, 94 Stat. 2426; Pub. L. 98–620, title IV, §402(22)(A), Nov. 8, 1984, 98 Stat. 3358.)
 

@@ -22,7 +22,7 @@ Section 1 of the Act of October 13, 1972, referred to in subsec. (a), is section
 
 For statutes cited in section 459 of this title, referred to in subsec. (a), see text of such section and References in Text note set out thereunder.
 
-The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) other medical technicians.
 
-(b) In carrying out subsection (a)(1), the Secretary shall include in the program of education and training under that subsection the developing and evaluating of new health careers, interdisciplinary approaches, and career advancement opportunities.
+(b) In carrying out subsection (a)(1), the Secretary shall include in the program of educationand training under that subsection the developing and evaluating of new health careers, interdisciplinary approaches, and career advancement opportunities.
 
 (c) In carrying out subsection (a)(2), the Secretary shall include in the program of recruitment, training, and employment under that subsection measures to advise all qualified veterans with military occupation specialties referred to in that subsection, and all members of the armed forces about to be discharged or released from active duty who have such military occupation specialties, of employment opportunities with the Administration.
 

@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which required a report to be made to Congress on Apr. 1 and Oct. 1 of each year of the contracts made under subsec. (a)(2) and (3) during the period since the date of the last report, which report was to name each purchaser, furnish the appraised value of the material involved, state the amount of each contract, and describe the circumstances leading to the determination that the contract should be entered into by negotiation instead of competitive bidding after formal advertising.
+1980—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which required a report to be made to Congress on Apr.1 and Oct. 1 of each year of the contracts made under subsec. (a)(2) and (3) during the period since the date of the last report, which report was to name each purchaser, furnish the appraised value of the material involved, state the amount of each contract, and describe the circumstances leading to the determination that the contract should be entered into by negotiation instead of competitive bidding after formal advertising.
 
 1976—Subsec. (b). Pub. L. 94–273 substituted “April” for “January” and “October” for “July”.
 

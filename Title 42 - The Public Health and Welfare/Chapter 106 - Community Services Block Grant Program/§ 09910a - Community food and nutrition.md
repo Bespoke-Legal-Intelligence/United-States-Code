@@ -24,7 +24,7 @@ The Secretary may through grants to public and private nonprofit agencies, provi
 
 &emsp;(B) The Secretary shall use 40 percent of such excess to award grants under subsection (a) of this section on a competitive basis to eligible agencies for local and statewide programs.
 
-&emsp;(C) The Secretary shall use the remaining 20 percent of such excess to award grants under subsection (a) of this section on a competitive basis to eligible agencies for nationwide programs, including programs benefiting Native Americans and migrant farm workers. In any fiscal year, the Secretary may not make grants under this subparagraph to a particular eligible agency in an aggregate amount exceeding $300,000.
+&emsp;(C) The Secretary shall use the remaining 20 percent of such excess to award grants undersubsection (a) of this section on a competitive basis to eligible agencies for nationwide programs, including programs benefiting Native Americans and migrant farm workers. In any fiscal year, the Secretary may not make grants under this subparagraph to a particular eligible agency in an aggregate amount exceeding $300,000.
 
 (3) For purposes of paragraphs (1)(A) and (2)(A), an eligible agency shall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
 
@@ -52,7 +52,7 @@ For each fiscal year, the Secretary shall prepare and submit, to the Committee o
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated $25,000,000 for fiscal year 1995, and such sums asmay be necessary for each of fiscal years 1996 through 1998, to carry out this section.
+There are authorized to be appropriated $25,000,000 for fiscal year 1995, and such sums as may be necessary for each of fiscal years 1996 through 1998, to carry out this section.
 
 (Pub. L. 97–35, title VI, §681A, as added Pub. L. 98–558, title II, §206, Oct. 30, 1984, 98 Stat. 2886; amended Pub. L. 99–425, title IV, §406, Sept. 30, 1986, 100 Stat. 970; Pub. L. 101–501, title IV, §§401(b), 406, Nov. 3, 1990, 104 Stat. 1251, 1253; Pub. L. 103–171, §7(c)(4), Dec. 2, 1993, 107 Stat. 1994; Pub. L. 103–252, title II, §204, May 18, 1994, 108 Stat. 655.)
 
@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 101–501, §406(b)(2), (c)(1), amended section identically
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

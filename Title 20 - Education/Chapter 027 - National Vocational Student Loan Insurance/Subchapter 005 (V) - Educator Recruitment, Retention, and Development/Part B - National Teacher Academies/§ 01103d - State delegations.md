@@ -36,7 +36,7 @@ Each State delegation shall—
 
 &emsp;(2) after participation in the National Teacher Academy assist in the development and operation of the appropriate National Teacher Academy.
 
-(Pub. L. 89 329, title V, §515, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 676.)
+(Pub. L. 89–329, title V, §515, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 676.)
 
 #### References in Text
 
@@ -44,9 +44,9 @@ For ratification of Compact of Free Association with the Republic of Palau, refe
 
 #### Prior Provisions
 
-A prior section 1103d, Pub. L. 89 329, title V, §515, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1497, required reports to Secretary from institutions receiving grants under this part, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1103d, Pub. L. 89–329, title V, §515, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1497, required reports to Secretary from institutions receiving grants under this part, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 515 of Pub. L. 89 329, title V, Nov. 8, 1965, 79 Stat. 1257, as amended, related to applicability of other provisions of laws to members and was classified to section 1105 of this title, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+A prior section 515 of Pub. L. 89–329, title V, Nov. 8, 1965, 79 Stat. 1257, as amended, related to applicability of other provisions of laws to members and was classified to section 1105 of this title, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §533 . Service credit upon original appointment as a commissioned officer
+### §533. Service credit upon original appointment as a commissioned officer
 
 (a)(1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
 
@@ -10,7 +10,7 @@
 
 &emsp;(B)(i) Credit for any period of advanced education in a health profession (other than medicine and dentistry) beyond the baccalaureate degree level which exceeds the basic education criteria for appointment, designation, or assignment, if such advanced education will be directly used by the armed force concerned.
 
-&emsp;(ii) Credit for experience in a health profession (other than medicine or dentistry), if such experience will be directly used by the armed force concerned.
+&emsp;(ii) Credit for experience in a health profession (other than medicine or dentistry), ifsuch experience will be directly used by the armed force concerned.
 
 &emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a specialty required by the armed forces.
 

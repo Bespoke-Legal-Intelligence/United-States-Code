@@ -24,7 +24,7 @@ The Metropolitan police force of the District of Columbia are <sup>1</sup> auth
 
 #### (c) Termination of authority; reporting requirements; duties with respect to an official guest of Supreme Court
 
-The authority created under subsection (a)(2) of this section shall expire on December 29, 1996. The Marshal of the Supreme Court shall report annually to the Congress on March 1 regardingthe administrative cost of carrying out his duties under such subsection. Duties under subsection (a)(2)(A) of this section with respect to an official guest of the Supreme Court in any part of the United States (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice of the United States or an Associate Justice of the Supreme Court, if such duties require the carrying of firearms under subsection (a)(5) of this section.
+The authority created under subsection (a)(2) of this section shall expire on December 29, 1996. The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection. Duties under subsection (a)(2)(A) of this section with respect to an official guest of the Supreme Court in any part of the United States (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice of the United States or an Associate Justice of the Supreme Court, if such duties require the carrying of firearms under subsection (a)(5) of this section.
 
 #### (d) Definitions
 

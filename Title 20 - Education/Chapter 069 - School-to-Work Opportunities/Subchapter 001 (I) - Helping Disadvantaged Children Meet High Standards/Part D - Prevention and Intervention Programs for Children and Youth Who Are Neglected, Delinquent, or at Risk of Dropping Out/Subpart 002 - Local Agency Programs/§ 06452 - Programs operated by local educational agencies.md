@@ -12,7 +12,7 @@ A local educational agency which includes a correctional facility that operates 
 
 A State educational agency shall notify local educational agencies within the State of the eligibility of such agencies to receive a subgrant under this subpart.
 
-(Pub. L. 89 10, title I, §1422, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3598.)
+(Pub. L. 89–10, title I, §1422, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3598.)
 
 #### Section Referred to in Other Sections
 

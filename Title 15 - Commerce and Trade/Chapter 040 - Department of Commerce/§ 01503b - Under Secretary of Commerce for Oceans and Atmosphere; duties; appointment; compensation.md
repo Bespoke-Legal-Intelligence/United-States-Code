@@ -2,7 +2,7 @@
 
 There shall be in the Department of Commerce an Under Secretary of Commerce for Oceans and Atmosphere who shall serve as the Administrator of the National Oceanic and Atmospheric Administration established by Reorganization Plan No. 4 of 1970 \[5 U.S.C. App.\] and perform such duties as the Secretary of Commerce shall prescribe. The Under Secretary shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
 
-(Pub. L. 99 659, title IV, §407(a), Nov. 14, 1986, 100 Stat. 3739.)
+(Pub. L. 99–659, title IV, §407(a), Nov. 14, 1986, 100 Stat. 3739.)
 
 #### References in Text
 
@@ -10,7 +10,7 @@ Reorganization Plan No. 4 of 1970, referred to in text, is set out under section
 
 #### Service by Incumbent Administrator and Deputy Administrator of the National Oceanic and Atmospheric Administration
 
-Section 407(c) of Pub. L. 99 659 provided that: “The individual serving on the date of enactment of this Act \[Nov. 14, 1986\]—
+Section 407(c) of Pub. L. 99–659 provided that: “The individual serving on the date of enactment of this Act \[Nov. 14, 1986\]—
 
 &emsp;“(A) as the Administrator of the National Oceanic and Atmospheric Administration shall also serve as the Under Secretary of Commerce for Oceans and Atmosphere until such time as a successor is appointed under subsection (a) of this section \[enacting this section\]; and
 

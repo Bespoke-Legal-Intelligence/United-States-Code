@@ -6,7 +6,7 @@ Any decision or proposed policy by the President or the National Aeronautics and
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, 1984, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act,1984, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Amendments
 
@@ -14,7 +14,7 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Ex. Ord. No. 12465. Coordination and Encouragement of Commercial Expendable Launch Vehicle Activities
 

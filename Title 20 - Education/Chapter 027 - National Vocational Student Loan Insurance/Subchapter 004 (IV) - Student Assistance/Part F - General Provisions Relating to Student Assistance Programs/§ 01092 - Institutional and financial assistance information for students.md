@@ -32,7 +32,7 @@
 
 &emsp;(G) the academic program of the institution, including (i) the current degree programs and other educational and training programs, (ii) the instructional, laboratory, and other physical plant facilities which relate to the academic program, and (iii) the faculty and other instructional personnel;
 
-&emsp;(H) each person designated under subsection (c) of this section, and the methods by whichand locations in which any person so designated may be contacted by students and prospective students who are seeking information required by this subsection;
+&emsp;(H) each person designated under subsection (c) of this section, and the methods by which and locations in which any person so designated may be contacted by students and prospective students who are seeking information required by this subsection;
 
 &emsp;(I) special facilities and services available to handicapped students;
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(i) obtain deferral of the repayment of the principal and interest for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], or for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service, and
 
-&emsp;&emsp;(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) under<sup>1</sup> the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service; and
+&emsp;&emsp;(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) under <sup>1</sup> the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service; and
 
 &emsp;(N) that enrollment in a program of study abroad approved for credit by the home institution may be considered enrollment in the home institution for purposes of applying for Federal student financial assistance.
 
@@ -64,7 +64,7 @@
 
 #### (b) Exit counseling for borrowers
 
-(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers (individually or in groups) of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078 2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers (individually or in groups) of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
 &emsp;(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
 
@@ -80,7 +80,7 @@
 
 &emsp;(iii) the address of the borrower's next of kin; and
 
-&emsp;(iv) any corrections in the institution's records relating the borrower's name, address,social security number, references, and driver's license number.
+&emsp;(iv) any corrections in the institution's records relating the borrower's name, address, social security number, references, and driver's license number.
 
 (B) The institution shall, within 60 days after the interview, forward any corrected or completed information received from the borrower to the guaranty agency indicated on the borrower's student aid records.
 
@@ -118,7 +118,7 @@ The Secretary shall make available to eligible institutions, eligible lenders, a
 
 &emsp;(A) individual institutions of higher education; and
 
-&emsp;(B) athletic conferences recognized by the National Collegiate Athletic Association andthe National Association of Intercollegiate Athletics.
+&emsp;(B) athletic conferences recognized by the National Collegiate Athletic Association and the National Association of Intercollegiate Athletics.
 
 (6) The Secretary shall waive the requirements of this subsection for any institution of higher education that is a member of an athletic association or athletic conference that has voluntarily published completion or graduation rate data or has agreed to publish data that, in the opinion of the Secretary, is substantially comparable to the information required under this subsection.
 
@@ -178,7 +178,7 @@ The Secretary shall make available to eligible institutions, eligible lenders, a
 
 (4) Upon the request of the Secretary, each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall submit to the Secretary a copy of the statistics required to be made available under paragraphs (1)(F) and (1)(H). The Secretary shall—
 
-&emsp;(A) review such statistics and report to the Committee on Education and Labor of the House of Representatives and the Committeeon Labor and Human Resources of the Senate on campus crime statistics by September 1, 1995; and
+&emsp;(A) review such statistics and report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate on campus crime statistics by September 1, 1995; and
 
 &emsp;(B) in coordination with representatives of institutions of higher education, identify exemplary campus security policies, procedures, and practices and disseminate information concerning those policies, procedures, and practices that have proven effective in the reduction of campus crime.
 
@@ -266,67 +266,67 @@ The Secretary shall make available to eligible institutions, eligible lenders, a
 
 &emsp;The Secretary shall issue final regulations to implement the requirements of this subsection not later than 180 days following October 20, 1994. Each institution described in paragraph (1) shall make available its first report pursuant to this section not later than October 1, 1996.
 
-(Pub. L. 89 329, title IV, §485, as added Pub. L. 99 498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100 50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101 542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381 2385; Pub. L. 101 610, title II, §§201 203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102 26, §10(a) (d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102 164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102 325, title IV, §486(a) (c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103 208, §2(h)(28) (37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103 382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970.)
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsec. (a)(1)(M), is Pub. L. 87 293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (a)(1)(M), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(1)(M), is Pub. L. 93 113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(1)(M), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The Hate Crime Statistics Act, referred to in subsec. (f)(6), is Pub. L. 101 275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+The Hate Crime Statistics Act, referred to in subsec. (f)(6), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
 
 #### Prior Provisions
 
-A prior section 1092, Pub. L. 89 329, title IV, §485, as added Pub. L. 96 374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1449, related to provision of institutional and financial assistance information for students, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1092, Pub. L. 89–329, title IV, §485, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1449, related to provision of institutional and financial assistance information for students, prior to the general revision of this part by Pub. L. 99–498.
 
-Another prior section 1092, Pub. L. 89 329, title V, §508, formerly §502, Nov. 8, 1965, 79 Stat. 1255; renumbered §508 and amended Pub. L. 90 35, §§2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94 482, title I, §151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
+Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, Nov. 8, 1965, 79 Stat. 1255; renumbered §508 and amended Pub. L. 90–35, §§2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
 
-1994—Subsec. (g). Pub. L. 103 382 added subsec. (g).
+1994—Subsec. (g). Pub. L. 103–382 added subsec. (g).
 
-1993—Subsec. (a)(1)(F)(i) to (iii). Pub. L. 103 208, §2(h)(28), inserted before comma at end “for the period of enrollment for which a refund is required”.
+1993—Subsec. (a)(1)(F)(i) to (iii). Pub. L. 103–208, §2(h)(28), inserted before comma at end “for the period of enrollment for which a refund is required”.
 
-Subsec. (a)(1)(F)(iv). Pub. L. 103 208, §2(h)(29), inserted “under” after “awards”.
+Subsec. (a)(1)(F)(iv). Pub. L. 103–208, §2(h)(29), inserted “under” after “awards”.
 
-Subsec. (a)(1)(F)(vi). Pub. L. 103 208, §2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi) which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
+Subsec. (a)(1)(F)(vi). Pub. L. 103–208, §2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi) which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
 
-Subsec. (a)(1)(F)(vii). Pub. L. 103 208, §2(h)(32), redesignated cl. (viii) as (vii). Former cl. (vii) redesignated (vi).
+Subsec. (a)(1)(F)(vii). Pub. L. 103–208, §2(h)(32), redesignated cl. (viii) as (vii). Former cl. (vii) redesignated (vi).
 
-Pub. L. 103 208, §2(h)(30), struck out “provided under this subchapter and part C of subchapter I of chapter 34 of title 42” after “student assistance”.
+Pub. L. 103–208, §2(h)(30), struck out “provided under this subchapter and part C of subchapter I of chapter 34 of title 42” after “student assistance”.
 
-Subsec. (a)(1)(F)(viii). Pub. L. 103 208, §2(h)(32), redesignated cl. (viii) as (vii).
+Subsec. (a)(1)(F)(viii). Pub. L. 103–208, §2(h)(32), redesignated cl. (viii) as (vii).
 
-Pub. L. 103 208, §2(h)(31), struck out period after “student”.
+Pub. L. 103–208, §2(h)(31), struck out period after “student”.
 
-Subsec. (a)(1)(L). Pub. L. 103 208, §2(k)(9), amended directory language of Pub. L. 102 325, §486(a)(3). See 1992 Amendment note below.
+Subsec. (a)(1)(L). Pub. L. 103–208, §2(k)(9), amended directory language of Pub. L. 102–325, §486(a)(3). See 1992 Amendment note below.
 
-Pub. L. 103 208, §2(h)(33), inserted comma after “full-time”.
+Pub. L. 103–208, §2(h)(33), inserted comma after “full-time”.
 
-Subsec. (a)(3)(A). Pub. L. 103 208, §2(h)(34), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall be available beginning on July 1, 1993, and each year thereafter to current and prospective students prior to enrolling or entering into any financial obligation; and”.
+Subsec. (a)(3)(A). Pub. L. 103–208, §2(h)(34), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall be available beginning on July 1, 1993, and each year thereafter to current and prospective students prior to enrolling or entering into any financial obligation; and”.
 
-Subsec. (b)(1)(A), (2)(A). Pub. L. 103 208, §2(h)(35), substituted “under part” for “under parts”.
+Subsec. (b)(1)(A), (2)(A). Pub. L. 103–208, §2(h)(35), substituted “under part” for “under parts”.
 
-Subsec. (d). Pub. L. 103 208, §2(h)(36), inserted period at end of penultimate sentence.
+Subsec. (d). Pub. L. 103–208, §2(h)(36), inserted period at end of penultimate sentence.
 
-Subsec. (e)(9). Pub. L. 103 208, §2(h)(37), added subpar. (9).
+Subsec. (e)(9). Pub. L. 103–208, §2(h)(37), added subpar. (9).
 
-1992—Subsec. (a)(1)(F). Pub. L. 102 325, §486(a)(1), inserted “, as determined under section 1091b of this title,” after “of the institution” and “, which refunds shall be credited in the following order:” after “of this paragraph” and added cls. (i) to (viii).
+1992—Subsec. (a)(1)(F). Pub. L. 102–325, §486(a)(1), inserted “, as determined under section 1091b of this title,” after “of the institution” and “, which refunds shall be credited in the following order:” after “of this paragraph” and added cls. (i) to (viii).
 
-Subsec. (a)(1)(K). Pub. L. 102 325, §486(a)(2), struck out “and” at end.
+Subsec. (a)(1)(K). Pub. L. 102–325, §486(a)(2), struck out “and” at end.
 
-Subsec. (a)(1)(L). Pub. L. 102 325, §486(a)(4), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M).
+Subsec. (a)(1)(L). Pub. L. 102–325, §486(a)(4), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M).
 
-Pub. L. 102 325, §486(a)(3), as amended by Pub. L. 103 208, §2(k)(9), amended subpar. (L), relating to completion or graduation rate, by substituting semicolon for period at end.
+Pub. L. 102–325, §486(a)(3), as amended by Pub. L. 103–208, §2(k)(9), amended subpar. (L), relating to completion or graduation rate, by substituting semicolon for period at end.
 
-Subsec. (a)(1)(M). Pub. L. 102 325, §486(a)(4), (5), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M) and substituted “; and” for period at end.
+Subsec. (a)(1)(M). Pub. L. 102–325, §486(a)(4), (5), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M) and substituted “; and” for period at end.
 
-Subsec. (a)(1)(N). Pub. L. 102 325, §486(a)(6), added subpar. (N).
+Subsec. (a)(1)(N). Pub. L. 102–325, §486(a)(6), added subpar. (N).
 
-Subsec. (b). Pub. L. 102 325, §486(b), amended subsec. (b) generally, making changes in substance and structure of former text which related to exit counseling for borrowers and borrower information.
+Subsec. (b). Pub. L. 102–325, §486(b), amended subsec. (b) generally, making changes in substance and structure of former text which related to exit counseling for borrowers and borrower information.
 
-Subsec. (f)(1)(F). Pub. L. 102 325, §486(c)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
+Subsec. (f)(1)(F). Pub. L. 102–325, §486(c)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
 
 &emsp;“(i) murder;
 
@@ -340,53 +340,53 @@ Subsec. (f)(1)(F). Pub. L. 102 325, §486(c)(1), amended subpar. (F) generally. 
 
 &emsp;“(vi) motor vehicle theft.”
 
-Subsec. (f)(7). Pub. L. 102 325, §486(c)(2), added par. (7).
+Subsec. (f)(7). Pub. L. 102–325, §486(c)(2), added par. (7).
 
-1991—Subsec. (a)(1)(L). Pub. L. 102 26, §10(a), which directed the insertion of “undergraduate” after “full-time” in subpar. (L), was executed to the subpar. (L) added by Pub. L. 101 542, §103(a), relating to completion or graduation rate, to reflect the probable intent of Congress.
+1991—Subsec. (a)(1)(L). Pub. L. 102–26, §10(a), which directed the insertion of “undergraduate” after “full-time” in subpar. (L), was executed to the subpar. (L) added by Pub. L. 101–542, §103(a), relating to completion or graduation rate, to reflect the probable intent of Congress.
 
-Subsec. (a)(3)(A) to (C). Pub. L. 102 26, §10(b), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall be updated not less than biennially.”
+Subsec. (a)(3)(A) to (C). Pub. L. 102–26, §10(b), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall be updated not less than biennially.”
 
-Subsec. (a)(5). Pub. L. 102 26, §10(c), added par. (5).
+Subsec. (a)(5). Pub. L. 102–26, §10(c), added par. (5).
 
-Subsec. (b). Pub. L. 102 164 substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or part D of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower's expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower's expected employer after leaving the institution; and the address of the borrower's next of kin. In the case of a loan made under part B of this subchapter, the institution shall then submit this information to the holder of the loan.”
+Subsec. (b). Pub. L. 102–164 substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or part D of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower's expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower's expected employer after leaving the institution; and the address of the borrower's next of kin. In the case of a loan made under part B of this subchapter, the institution shall then submit this information to the holder of the loan.”
 
-Subsec. (f)(1). Pub. L. 102 26, §10(d), substituted “August 1, 1991,” for “September 1, 1991,” in introductory provisions, and in subpar. (F) substituted “calendar year” and “calendar years” for “school year” and “school years”, respectively.
+Subsec. (f)(1). Pub. L. 102–26, §10(d), substituted “August 1, 1991,” for “September 1, 1991,” in introductory provisions, and in subpar. (F) substituted “calendar year” and “calendar years” for “school year” and “school years”, respectively.
 
-1990—Subsec. (a)(1)(L). Pub. L. 101 610, §201, added subpar. (L) relating to deferral or partial cancellation of student loans.
+1990—Subsec. (a)(1)(L). Pub. L. 101–610, §201, added subpar. (L) relating to deferral or partial cancellation of student loans.
 
-Pub. L. 101 542, §103(a), added subpar. (L) relating to completion or graduation rate.
+Pub. L. 101–542, §103(a), added subpar. (L) relating to completion or graduation rate.
 
-Subsec. (a)(3), (4). Pub. L. 101 542, §103(b), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 101–542, §103(b), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 101 610, §202, added par. (3).
+Subsec. (b)(3). Pub. L. 101–610, §202, added par. (3).
 
-Subsec. (d). Pub. L. 101 610, §203, inserted before last sentence “The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization”.
+Subsec. (d). Pub. L. 101–610, §203, inserted before last sentence “The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization”.
 
-Subsec. (e). Pub. L. 101 542, §104(a), added subsec. (e).
+Subsec. (e). Pub. L. 101–542, §104(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 101 542, §204(a), added subsec. (f).
+Subsec. (f). Pub. L. 101–542, §204(a), added subsec. (f).
 
-1987—Subsec. (b). Pub. L. 100 50, §15(10), inserted “(other than loans made pursuant to section 1078 2 of this title)” after “part B of this subchapter”.
+1987—Subsec. (b). Pub. L. 100–50, §15(10), inserted “(other than loans made pursuant to section 1078–2 of this title)” after “part B of this subchapter”.
 
-Subsec. (d). Pub. L. 100 50, §15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
+Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 486(a), (b), and (c)(2) of Pub. L. 102 325 effective July 23, 1992, except that changes relating to disclosures effective with respect to periods of enrollment beginning on or after July 1, 1993, see section 498 of Pub. L. 102 325, set out as a note under section 1088 of this title.
+Amendment by section 486(a), (b), and (c)(2) of Pub. L. 102–325 effective July 23, 1992, except that changes relating to disclosures effective with respect to periods of enrollment beginning on or after July 1, 1993, see section 498 of Pub. L. 102–325, set out as a note under section 1088 of this title.
 
-Section 486(c)(3) of Pub. L. 102 325 provided that: “The amendment made by this subsection to subparagraph (F)(ii) of section 485(f)(1) of the Act \[20 U.S.C. 1092(f)(1)(F)(ii)\] shall be effective with respect to reports made pursuant to such section on or after September 1, 1993. The statistics required by subparagraph (F) of such section shall—
+Section 486(c)(3) of Pub. L. 102–325 provided that: “The amendment made by this subsection to subparagraph (F)(ii) of section 485(f)(1) of the Act \[20 U.S.C. 1092(f)(1)(F)(ii)\] shall be effective with respect to reports made pursuant to such section on or after September 1, 1993. The statistics required by subparagraph (F) of such section shall—
 
 &emsp;“(A) in the report required on September 1, 1992, include statistics concerning the occurrence on campus of offenses during the period from August 1, 1991, to July 31, 1992;
 
-&emsp;“(B) in the report required on September 1, 1993, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar year 1992;
+&emsp;“(B) in the report required on September 1, 1993, include statistics concerning the occurrence on campusof offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar year 1992;
 
 &emsp;“(C) in the report required on September 1, 1994, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar years 1992 and 1993; and
 
@@ -394,27 +394,27 @@ Section 486(c)(3) of Pub. L. 102 325 provided that: “The amendment made by thi
 
 #### Effective Date of 1990 Amendment
 
-Section 104(b) of Pub. L. 101 542, as amended by Pub. L. 102 26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annuallythereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
+Section 104(b) of Pub. L. 101–542, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
 
-Section 204(c) of Pub. L. 101 542 provided that: “The amendments made by this section \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available.”
+Section 204(c) of Pub. L. 101–542 provided that: “The amendments made by this section \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available.”
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99 498, set out as a note under section 1001 of this title.
+Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Subsec. (b) of this section applicable only to periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99 498, set out as a note under section 1091 of this title.
+Subsec. (b) of this section applicable only to periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
 
 #### Regulations
 
-Section 401(a) of Pub. L. 101 542 provided that: “The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\].”
+Section 401(a) of Pub. L. 101–542 provided that: “The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\].”
 
 #### Congressional Findings
 
-Section 360B(b) of Pub. L. 103 382 provided that: “The Congress finds that—
+Section 360B(b) of Pub. L. 103–382 provided that: “The Congress finds that—
 
 &emsp;“(1) participation in athletic pursuits plays an important role in teaching young Americans how to work on teams, handle challenges and overcome obstacles;
 
@@ -422,7 +422,7 @@ Section 360B(b) of Pub. L. 103 382 provided that: “The Congress finds that—
 
 &emsp;“(3) there is increasing concern among citizens, educators, and public officials regarding the athletic opportunities for young men and women at institutions of higher education;
 
-&emsp;“(4) a recent study by the National Collegiate Athletic Association found that in Division I A institutions, only 20 percent of the average athletic department operations budget of $1,310,000 is spent on women's athletics; 15 percent of the average recruiting budget of $318,402 is spent on recruiting female athletes; the average scholarship expenses for men is $1,300,000 and $505,246 for women; and an average of 143 grants are awarded to male athletes and 59 to women athletes;
+&emsp;“(4) a recent study by the National Collegiate Athletic Association found that in Division I–A institutions, only 20 percent of the average athletic department operations budget of $1,310,000 is spent on women's athletics; 15 percent of the average recruiting budget of $318,402 is spent on recruiting female athletes; the average scholarship expenses for men is $1,300,000 and $505,246 for women; and an average of 143 grants are awarded to male athletes and 59 to women athletes;
 
 &emsp;“(5) female college athletes receive less than 18 percent of the athletics recruiting dollar and less than 24 percent of the athletics operating dollar;
 
@@ -432,7 +432,7 @@ Section 360B(b) of Pub. L. 103 382 provided that: “The Congress finds that—
 
 &emsp;“(8) knowledge of an institution's expenditures for women's and men's athletic programs would help prospective students and prospective student athletes make informed judgments about the commitments of a given institution of higher education to providing equitable athletic benefits to its men and women students.”
 
-Section 102 of Pub. L. 101 542 provided that: “The Congress finds that—
+Section 102 of Pub. L. 101–542 provided that: “The Congress finds that—
 
 &emsp;“(1) education is fundamental to the development of individual citizens and the progress of the Nation as a whole;
 
@@ -448,7 +448,7 @@ Section 102 of Pub. L. 101 542 provided that: “The Congress finds that—
 
 &emsp;“(7) knowledge of graduation rates would help prospective students and prospective student athletes make an informed judgment about the educational benefits available at a given institution of higher education.”
 
-Section 202 of Pub. L. 101 542 provided that: “The Congress finds that—
+Section 202 of Pub. L. 101–542 provided that: “The Congress finds that—
 
 &emsp;“(1) the reported incidence of crime, particularly violent crime, on some college campuses has steadily risen in recent years;
 
@@ -474,7 +474,7 @@ Section 202 of Pub. L. 101 542 provided that: “The Congress finds that—
 
 This section is referred to in sections 1094, 7132 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “or under”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “or under”.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “paragraph (1)(G),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1)(G),”.</i>
 

@@ -28,7 +28,7 @@ The payments required by this section on the part of the United States shall be 
 
 #### (e) Limitation
 
-The only amounts available to carry out this subchapter shall be those amounts specifically appropriated by the Congress or the legislature of the State to carry out this subchapter.
+The only amounts available to carry out this subchapter shall be those amounts specificallyappropriated by the Congress or the legislature of the State to carry out this subchapter.
 
 (Pub. L. 101–503, §6, Nov. 3, 1990, 104 Stat. 1295.)
 

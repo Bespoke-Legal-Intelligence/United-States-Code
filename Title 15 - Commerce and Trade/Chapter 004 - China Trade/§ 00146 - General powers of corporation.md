@@ -1,4 +1,4 @@
-### §146 . General powers of corporation
+### §146. General powers of corporation
 
 In addition to the powers granted elsewhere in this chapter, a China Trade Act corporation—
 

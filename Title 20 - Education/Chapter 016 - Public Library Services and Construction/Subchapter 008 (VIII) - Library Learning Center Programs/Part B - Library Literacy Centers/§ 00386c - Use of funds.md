@@ -18,5 +18,5 @@ Funds made available under this part shall be used by the library literacy cente
 
 Each library literacy center receiving a grant under this part may use no more than 25 percent of such funds for the acquisition of literacy education computers and computer software.
 
-(June 19, 1956, ch. 407, title VIII, §814, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 111.)
+(June 19, 1956, ch. 407, title VIII, §814, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 111.)
 

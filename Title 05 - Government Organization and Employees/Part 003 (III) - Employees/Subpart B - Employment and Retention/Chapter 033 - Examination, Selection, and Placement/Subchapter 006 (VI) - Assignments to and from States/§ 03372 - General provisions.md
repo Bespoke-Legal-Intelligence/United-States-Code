@@ -26,7 +26,7 @@
 
 (e) Under regulations prescribed pursuant to section 3376 of this title—
 
-&emsp;(1) an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to aState or local government, except that the rate of pay of an employee assigned to a federally funded research and development center may not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
+&emsp;(1) an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to a State or local government, except that the rate of pay of an employee assigned to a federally funded research and development center may not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
 
 &emsp;(2) an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
 
@@ -34,21 +34,21 @@
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
-1993—Subsec. (d). Pub. L. 103–89 substituted “and additional step-increases, as defined in chapter 53” for “additional step-increases, merit pay, and cash awards, as defined in chapters 53 and 54”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–89 substituted “and additional step-increases, as defined in chapter 53” for “additional step-increases, merit pay, and cash awards, as defined in chapters 53 and 54”.
 
-1988—Subsecs. (a), (d). Pub. L. 100–472 added Pub. L. 93–638, §104(k), (<i>l</i>). See 1975 Amendment note below.
+<b>1988</b>—Subsecs. (a), (d). Pub. L. 100–472 added Pub. L. 93–638, §104(k), (<i>l</i>). See 1975 Amendment note below.
 
-1983—Subsec. (a). Pub. L. 98–146 inserted sentence providing that, in the case of assignments made to Indian tribes or tribal organizations as defined in section 3371(2)(C) of this title, the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization.
+<b>1983</b>—Subsec. (a). Pub. L. 98–146 inserted sentence providing that, in the case of assignments made to Indian tribes or tribal organizations as defined in section 3371(2)(C) of this title, the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization.
 
-1978—Subsec. (a). Pub. L. 95–454, §603(b), (c)(1), substituted “a Federal” for “an executive” wherever appearing, and in cl. (1) inserted provisions relating to a noncareer appointee, limited term appointee, or limited emergency appointee, and an employee excepted from the competitive service.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §603(b), (c)(1), substituted “a Federal” for “an executive” wherever appearing, and in cl. (1) inserted provisions relating to a noncareer appointee, limited term appointee, or limited emergency appointee, and an employee excepted from the competitive service.
 
 Subsec. (b). Pub. L. 95–454, §603(b), (c)(2)–(4), in cls. (1) and (2) substituted “a Federal” for “an executive”, and added cls. (3) and (4).
 
 Subsec. (c). Pub. L. 95–454, §603(c)(5), added subsec. (c).
 
-1975—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
+<b>1975</b>—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
 
 Subsec. (d). Pub. L. 93–638, §104(<i>l</i>), as added by Pub. L. 100–472, added subsec. (d).
 

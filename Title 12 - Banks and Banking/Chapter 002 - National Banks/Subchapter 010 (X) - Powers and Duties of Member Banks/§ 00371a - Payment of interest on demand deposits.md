@@ -18,13 +18,13 @@ Words “(including the Philippine Islands)” following “or any possession th
 
 1980—Pub. L. 96–221, §§302(a), 307, inserted provision identical to provision added by Pub. L. 96–161 respecting authorization of member banks to permit withdrawals to be made automatically from savings deposits consisting only of funds in which the entire beneficial interest is held by one or more individuals through payment to the bank itself or through transfer of credit to a demand deposit or other account pursuant to written authorization from the depositor to make such transfer or payments in connection with checks or drafts drawn upon the bank, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
-1979—Pub. L. 96–161 inserted provision allowing member banks to permit withdrawals to be made automatically from a savings deposit that consists only of funds in which the entire beneficial interest is held by one or more individuals through payment to the bank itself or through transfer of credit to a demand deposit or otheraccount pursuant to written authorization from the depositor to make such payments or transfers in connection with checks or drafts drawn upon the bank, pursuant to terms and conditions prescribed by the Board.
+1979—Pub. L. 96–161 inserted provision allowing member banks to permit withdrawals to be made automatically from a savings deposit that consists only of funds in which the entire beneficial interest is held by one or more individuals through payment to the bank itself or through transfer of credit to a demand deposit or other account pursuant to written authorization from the depositor to make such payments or transfers in connection with checks or drafts drawn upon the bank, pursuant to terms and conditions prescribed by the Board.
 
 1935—Act Aug. 23, 1935, affected three provisos and added last sentence.
 
 #### Effective Date of 1980 Amendment
 
-Section 306 of title III of Pub. L. 96–221 provided that: “The amendments made by sections 302, 304, and 305 of this title \[amending this section and sections 1464, 1752, 1757, 1763, 1785, and 1828 of this title\] shall take effect at the close of March 31, 1980, and the amendments made by section 303 of this title \[amending section 1832 of this title\] shall take effect on December 31, 1980.”
+Section 306 of title III of Pub. L. 96–221 provided that: “The amendments made by sections 302, 304, and 305 ofthis title \[amending this section and sections 1464, 1752, 1757, 1763, 1785, and 1828 of this title\] shall take effect at the close of March 31, 1980, and the amendments made by section 303 of this title \[amending section 1832 of this title\] shall take effect on December 31, 1980.”
 
 #### Effective and Termination Dates of 1979 Amendment
 

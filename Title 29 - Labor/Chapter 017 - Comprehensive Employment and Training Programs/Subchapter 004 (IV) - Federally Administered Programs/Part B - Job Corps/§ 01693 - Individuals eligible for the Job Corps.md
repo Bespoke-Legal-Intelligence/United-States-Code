@@ -16,7 +16,7 @@ To become an enrollee in the Job Corps, a young man or woman must be an eligible
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102–367 inserted “not more than 20 percent of the individuals enrolled may be age 22through 24, and that either” after “except that” and substituted “individual with a disability” for “handicapped individual”.
+1992—Par. (1). Pub. L. 102–367 inserted “not more than 20 percent of the individuals enrolled may be age 22 through 24, and that either” after “except that” and substituted “individual with a disability” for “handicapped individual”.
 
 #### Effective Date of 1992 Amendment
 

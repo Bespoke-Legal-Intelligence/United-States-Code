@@ -24,9 +24,9 @@ No payment shall be made under this subsection with respect to amounts paid to s
 
 The method of computing and paying such amounts shall be as follows:
 
-&emsp;(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to be paid to the State for such quarter under the provisions of subsection (a) of this section, such estimate to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of dependent children in the State, and (C) such other investigation as the Secretary may find necessary.
+&emsp;(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to be paid to the State for such quarter under the provisions of subsection (a) of this section, such estimate to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in suchquarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of dependent children in the State, and (C) such other investigation as the Secretary may find necessary.
 
-&emsp;(2) The Secretary of Health and Human Services shall then certify to the Secretary of the Treasury the amount so estimated by the Secretary of Health and Human Services, (A) reduced or increased, as the case may be, by any sum by which he finds that his estimate for any prior quarter was greater or less than the amount which should have been paid to the State for such quarter, (B) reduced by asum equivalent to the pro rata share to which the United States is equitably entitled, as determined by the Secretary of Health and Human Services, of the net amount recovered during any prior quarter by the State or any political subdivision thereof with respect to aid to families with dependent children furnished under the State plan, and (C) reduced by such amount as is necessary to provide the “appropriate reimbursement of the Federal Government” that the State is required to make under section 657 of this title out of that portion of child support collections retained by it pursuant to such section; except that such increases or reductions shall not be made to the extent that such sums have been applied to make the amount certified for any prior quarter greater or less than the amount estimated by the Secretary of Health and Human Services for such prior quarter.
+&emsp;(2) The Secretary of Health and Human Services shall then certify to the Secretary of the Treasury the amount so estimated by the Secretary of Health and Human Services, (A) reduced or increased, as the case may be, by any sum by which he finds that his estimate for any prior quarter was greater or less than the amount which should have been paid to the State for such quarter, (B) reduced by a sum equivalent to the pro rata share to which the United States is equitably entitled, as determined by the Secretary of Health and Human Services, of the net amount recovered during any prior quarter by the State or any political subdivision thereof with respect to aid to families with dependent children furnished under the State plan, and (C) reduced by such amount as is necessary to provide the “appropriate reimbursement of the Federal Government” that the State is required to make under section 657 of this title out of that portion of child support collections retained by it pursuant to such section; except that such increases or reductions shall not be made to the extent that such sums have been applied to make the amount certified for any prior quarter greater or less than the amount estimated by the Secretary of Health and Human Services for such prior quarter.
 
 &emsp;(3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Department of the Treasury and prior to audit or settlement by the General Accounting Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
@@ -70,7 +70,7 @@ Notwithstanding any other provision of this section, the amount payable to any S
 
 &emsp;(ii) the State is no longer implementing its corrective action plan, or
 
-&emsp;(iii) the State is implementing or has implemented its corrective action plan but hasfailed to achieve substantial compliance within the appropriate time period (as specified in subparagraph (A)(i)).
+&emsp;(iii) the State is implementing or has implemented its corrective action plan but has failed to achieve substantial compliance within the appropriate time period (as specified in subparagraph (A)(i)).
 
 (C)(i) In the case of a State whose penalty suspension ends pursuant to subparagraph (B)(i), the penalty shall not be applied.
 
@@ -102,7 +102,7 @@ Notwithstanding any other provision of this section, the amount payable to any S
 
 &emsp;(D) $1,100,000,000 in the case of the fiscal year 1994,
 
-&emsp;(E) $1,300,000,000 in the case of the fiscal year 1995, and
+&emsp;(E) $1,300,000,000 in the case of the fiscal year 1995, reduced by an amount equal to the total of those funds that are within each State's limitation for fiscal year 1995 that are not necessary to pay such State's allowable claims for such fiscal year (except that such amount for such year shall be deemed to be $1,300,000,000 for the purpose of determining the amount of the payment under subsection (<i>l</i>) of this section to which each State is entitled), and
 
 &emsp;(F) $1,000,000,000 in the case of the fiscal year 1996 and each succeeding fiscal year,
 
@@ -126,7 +126,7 @@ Notwithstanding any other provision of this section, the amount payable to any S
 
 (B) With respect to the amount for which payment is made to a State under subparagraph (A)(i), the State's expenditures for the costs of operating a program established under part F of this subchapter may be in cash or in kind, fairly evaluated.
 
-(2)(A) Notwithstanding paragraph (1), the Secretary shall pay to a State an amount equal to50 percent of the expenditures made by such State in operating its program established under part F of this subchapter (in lieu of any different percentage specified in paragraph (1)(A)) if less than 55 percent of such expenditures are made with respect to individuals who are described in subparagraph (B).
+(2)(A) Notwithstanding paragraph (1), the Secretary shall pay to a State an amount equal to 50 percent of the expenditures made by such State in operating its program established under part F of this subchapter (in lieu of any different percentage specified in paragraph (1)(A)) if less than 55 percent of such expenditures are made with respect to individuals who are described in subparagraph (B).
 
 (B) An individual is described in this paragraph if the individual—
 
@@ -146,53 +146,9 @@ Notwithstanding any other provision of this section, the amount payable to any S
 
 (D) The Secretary shall biennially submit to the Congress any recommendations for modifications or additions to the groups of individuals described in subparagraph (B) that the Secretary determines would further the goal of assisting long-term or potential long-term recipients of aid to families with dependent children to achieve self-sufficiency, which recommendations shall take into account the particular characteristics of the populations of individual States.
 
-(3)(A) Notwithstanding paragraph (1), the Secretary shall pay to a State an amount equal to 50 percent of the expenditures made by such State in a fiscal year in operating its program established under part F of this subchapter (in lieu of any different percentage specified in paragraph (1)(A)) if the State's participation rate (determined under subparagraph (B)) for the preceding fiscal year does not exceed or equal—
+(3) Repealed. Pub. L. 100–485, title II, §204(b)(2), Oct. 13, 1988, 102 Stat. 2381.
 
-&emsp;(i) 7 percent if the preceding fiscal year is 1990;
-
-&emsp;(ii) 7 percent if such year is 1991;
-
-&emsp;(iii) 11 percent if such year is 1992;
-
-&emsp;(iv) 11 percent if such year is 1993;
-
-&emsp;(v) 15 percent if such year is 1994; and
-
-&emsp;(vi) 20 percent if such year is 1995.
-
-(B)(i) The State's participation rate for a fiscal year shall be the average of its participation rates for computation periods (as defined in clause (ii)) in such fiscal year.
-
-(ii) The computation periods shall be—
-
-&emsp;(I) the fiscal year, in the case of fiscal year 1990,
-
-&emsp;(II) the first six months, and the seventh through twelfth months, in the case of fiscal year 1991,
-
-&emsp;(III) the first three months, the fourth through sixth months, the seventh through ninth months, and the tenth through twelfth months, in the case of fiscal years 1992 and 1993, and
-
-&emsp;(IV) each month, in the case of fiscal years 1994 and 1995.
-
-(iii) The State's participation rate for a computation period shall be the number, expressed as a percentage, equal to—
-
-&emsp;(I) the average monthly number of individuals required or allowed by the State to participate in the program under part F of this subchapter who have participated in such program in months in the computation period, plus the number of individuals required or allowed by the State to participate in such program who have so participated in that month in such period for which the number of such participants is the greatest, divided by
-
-&emsp;(II) twice the average monthly number of individuals required to participate in such period (other than individuals described in subparagraph (C)(iii)(I) or (D) of section 602(a)(19) of this title with respect to whom the State has exercised its option to require their participation).
-
-> For purposes of this subparagraph, an individual shall not be considered to have satisfactorily participated in the program under part F of this subchapter solely by reason of such individual being registered to participate in such program.
-
-(C) Notwithstanding any other provision of this paragraph, no State shall be subject to payment under this paragraph (in lieu of paragraph (1)(A)) for failing to meet any participation rate required under this paragraph with respect to any fiscal year before 1991.
-
-(D) For purposes of this paragraph, an individual shall be determined to have participated in the program under part F of this subchapter, if such individual has participated in accordance with such requirements, consistent with regulations of the Secretary, as the State shall establish.
-
-(E) If the Secretary determines that the State has failed to achieve the participation rate for any fiscal year specified in the numbered clauses of subparagraph (A), he may waive, in whole or in part, the reduction in the payment rate otherwise required by such subparagraph if he finds that—
-
-&emsp;(i) the State is in conformity with section 602(a)(19) of this title and part F of this subchapter;
-
-&emsp;(ii) the State has made a good faith effort to achieve the applicable participation rate for such fiscal year; and
-
-&emsp;(iii) the State has submitted a proposal which is likely to achieve the applicable participation rate for the current fiscal year and the subsequent fiscal years (if any) specified therein.
-
-(4)(A)(i) Subject to subparagraph (B), in the case of any family eligible for aid to familieswith dependent children by reason of the unemployment of the parent who is the principal earner, the State agency shall require that at least one parent in any such family participate, for a total of at least 16 hours a week during any period in which either parent is required to participate in the program, in a work supplementation program, a community work experience or other work experience program, on-the-job training, or a State designed work program approved by the Secretary, as such programs are described in section 682(d)(1) of this title. In the case of a parent under age 25 who has not completed high school or an equivalent course of education, the State may require such parent to participate in educational activities directed at the attainment of a high school diploma (or equivalent) or another basic education program in lieu of one or more of the programs specified in the preceding sentence.
+(4)(A)(i) Subject to subparagraph (B), in the case of any family eligible for aid to families with dependent children by reason of the unemployment of the parent who is the principal earner, the State agency shall require that at least one parent in any such family participate, for a total of at least 16 hours a week during any period in which either parent is required to participate in the program, in a work supplementation program, a community work experience or other work experience program, on-the-job training, or a State designed work program approved by the Secretary, as such programs are described in section 682(d)(1) of this title. In the case of a parent under age 25 who has not completed high school or an equivalent course of education, the State may require such parent to participate in educational activities directed at the attainment of a high school diploma (or equivalent) or another basic education program in lieu of one or more of the programs specified in the preceding sentence.
 
 (ii) For purposes of clause (i), an individual participating in a community work experience program under section 682 of this title shall be considered to have met the requirement of such clause if he participates for the number of hours in any month equal to the monthly payment of aid to families with dependent children to the family of which he is a member, divided by the greater of the Federal or the applicable State minimum wage (and the portion of such monthly payment for which the State is reimbursed by a child support collection shall not be taken into account in determining the number of hours that such individual may be required to work).
 
@@ -210,7 +166,7 @@ Notwithstanding any other provision of this section, the amount payable to any S
 
 &emsp;(i) the number of individuals described in subparagraph (A)(i) who have met the requirement prescribed therein, divided by
 
-&emsp;(ii) the total number of principal earners described in such subparagraph (but excluding those in families who have been recipients of aid for 2 months or less if, during the period that the family received aid, at least one parent engaged in intensive job search).
+&emsp;(ii) the total number of principal earners described in such subparagraph (but excluding those in families who have been recipients of aid for 2 months or less if, during the periodthat the family received aid, at least one parent engaged in intensive job search).
 
 (D) If the Secretary determines that the State has failed to meet the requirement under subparagraph (A) (determined with respect to the percentages prescribed in subparagraph (B)), he may waive, in whole or in part, any penalty if he finds that—
 
@@ -256,11 +212,11 @@ Notwithstanding any other provision of this section, the amount payable to any S
 
 (3) Amounts appropriated for a fiscal year to carry out this part shall be made available for payments under this subsection for such fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663.)
+(Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat.2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215.)
 
 #### Amendment of Section
 
-<i>Pub. L. 100–485, title II, §204(b)(2), Oct. 13, 1988, 102 Stat. 2381, provided that, effective Oct. 1, 1995 (except as otherwise provided in section 204(b)(2) of Pub. L. 100–485, set out as a note below), subsection (l)(3) of this section is repealed and, effective Oct. 1, 1998, subsection (l)(4) of this section is repealed.</i>
+<i>Pub. L. 100–485, title II, §204(b)(2), Oct. 13, 1988, 102 Stat. 2381, provided that, effective Oct. 1, 1998, subsection (l)(4) of this section is repealed.</i>
 
 <i>For repeal of amendments by section 304(b)(2) of Pub. L. 100–485, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
@@ -271,6 +227,8 @@ Parts D and F of this subchapter, referred to in subsecs. (h)(1), (k), and (<i>l
 Part C of this subchapter, referred to in subsecs. (k)(2)(A), (3) and (<i>l</i>)(1)(A)(i), which was classified to section 630 et seq. of this title, was repealed by Pub. L. 100–485, title II, §202(a), Oct. 13, 1988, 102 Stat. 2377.
 
 #### Amendments
+
+1995—Subsec. (k)(3)(E). Pub. L. 104–19 inserted “reduced by an amount equal to the total of those funds that are within each State's limitation for fiscal year 1995 that are not necessary to pay such State's allowable claims for such fiscal year (except that such amount for such year shall be deemed to be $1,300,000,000 for the purpose of determining the amount of the payment under subsection (<i>l</i>) of this section to which each State is entitled),” after “1995,”.
 
 1993—Subsec. (a)(3). Pub. L. 103–66 amended par. (3) generally, substituting present provisions for provisions authorizing payments equal to sum of specified proportions of total amounts expended by Secretary for proper and efficient administration of State plan, such proportions being: (1) 100 percent of amounts expended to implement and operate an immigration status verification system; (2) 90 percent of amounts expended to implement and operate statewide mechanized claims processing and information retrieval systems; (3) 75 percent of amounts expended to carry out a fraud control program; and (4) one-half of remainder of such expenditures, including amounts expended to carry out initial evaluations.
 
@@ -286,7 +244,7 @@ Subsec. (c). Pub. L. 100–485, §202(b)(5), struck out subsec. (c) which read a
 
 Subsec. (d). Pub. L. 100–485, §202(b)(6), struck out subsec. (d) which read as follows:
 
-“(1) Notwithstanding any provision of subsection (a)(3) of this section, the applicable rate under suchsubsection shall be 90 per centum with respect to social and supportive services provided pursuant to section 602(a)(19)(G) of this title. In determining the amount of the expenditures made under a State plan for any quarter with respect to social and supportive services pursuant to section 602(a)(19)(G) of this title, there shall be included the fair and reasonable value of goods and services furnished in kind from the State or any political subdivision thereof.
+“(1) Notwithstanding any provision of subsection (a)(3) of this section, the applicable rate under such subsection shall be 90 per centum with respect to social and supportive services provided pursuant to section 602(a)(19)(G) of this title. In determining the amount of the expenditures made under a State plan for any quarter with respect to social and supportive services pursuant to section 602(a)(19)(G) of this title, there shall be included the fair and reasonable value of goods and services furnished in kind from the State or any political subdivision thereof.
 
 “(2) Of the sums authorized by section 601 of this title to be appropriated for the fiscal year ending June 30, 1973, not more than $750,000,000 shall be appropriated to the Secretary for payments with respect to services to which paragraph (1) applies.”
 
@@ -299,6 +257,8 @@ Subsec. (k). Pub. L. 100–485, §201(c)(1), added subsec. (k).
 Subsec. (<i>l</i>). Pub. L. 100–485, §201(c)(2), added subsec. (<i>l).</i>
 
 Subsec. (<i>l</i>)(1)(A). Pub. L. 100–485, §§302(b)(2), 304(b)(2), temporarily substituted “602(g)(1)(A)(i) of this title” for “602(g)(1)(A) of this title” in introductory provisions. See Effective and Termination Dates of 1988 Amendment note below.
+
+Subsec. (<i>l</i>)(3). Pub. L. 100–485, §204(b)(2), struck out par. (3) which authorized Secretary to pay to a State an amount equal to 50 percent of expenditures made by such State in a fiscal year in operating its program established under part F of this subchapter depending on the State's participation rate for the preceding fiscal year.
 
 Subsec. (m). Pub. L. 100–485, §609(a), added subsec. (m).
 
@@ -336,7 +296,7 @@ Subsec. (a)(3). Pub. L. 97–35, §§2307(b), 2319(a), 2353(d), struck out subpa
 
 Pub. L. 97–35, §2319(b), struck out cl. (iii) of subpar. (A) as in effect in Puerto Rico, Guam, and the Virgin Islands, which provided for payment of 75 per centum of so much of such expenditures as are for the training, including short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled at such institutions, of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision.
 
-Pub. L. 97–35, §2353(b)(1), struck out par. (3) as in effect in Puerto Rico, Guam, and the Virgin Islands, which required a payment to each State, beginning with the quarter commencing Oct. 1, 1958, of an amount equal to the sum of 75 per centum of so much of such expenditures as are for any services described in section 602(a)(14) and (15) of this title provided to any childor relative receiving aid under the plan or other individual, living in the same house as the child or relative, whose needs must be taken into account in making the determination under section 602(a)(7) of this title, for any services described in section 602(a)(14) and (15) of this title provided to any child or relative who is applying for aid or who, within periods prescribed by the Secretary, has been or is likely to become an applicant for or recipient of such aid, and for the training of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision plus one-half of the remainder of such expenditures and which defined what services were to be included.
+Pub. L. 97–35, §2353(b)(1), struck out par. (3) as in effect in Puerto Rico, Guam, and the Virgin Islands, which required a payment to each State, beginning with the quarter commencing Oct. 1, 1958, of an amount equal to the sum of 75 per centum of so much of such expenditures as are for any services described in section 602(a)(14) and (15) of this title provided to any child or relative receiving aid under the plan or other individual, living in the same house as the child or relative, whose needs must be taken into account in making the determination under section 602(a)(7) of this title, for any services described in section 602(a)(14) and (15) of this title provided to any child or relative who is applying for aid or who, within periods prescribed by the Secretary, has been or is likely to become an applicant for or recipient of such aid, and for the training of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision plus one-half of the remainder of such expenditures and which defined what services were to be included.
 
 Subsec. (d)(1). Pub. L. 97–35, §2319(c), substituted “Notwithstanding any provision of subsection (a)(3) of this section, the applicable rate under such subsection shall be 90 per centum” for “Notwithstanding subparagraph (A) of subsection (a)(3) of this section the rate specified in such subparagraph shall be 90 per centum (rather than 75 per centum)”.
 
@@ -602,7 +562,7 @@ Section 402 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 #### No Sanctions With Respect to Disallowances Before Fiscal Year 1991
 
-Section 8004(d) of Pub. L. 101–239 provided that: “No disallowance or other similar sanction shall be applied to a State for any fiscal year before fiscal year 1991 under section 403(i) of the Social Security Act \[subsec. (i) of this section\] or any predecessor statutory or regulatory provision relating to disallowances for erroneous payments made in carrying out a State plan approved under part A of title IV of such Act \[this part\].”
+Section 8004(d) of Pub. L. 101–239 provided that: “No disallowance or other similar sanction shall be appliedto a State for any fiscal year before fiscal year 1991 under section 403(i) of the Social Security Act \[subsec. (i) of this section\] or any predecessor statutory or regulatory provision relating to disallowances for erroneous payments made in carrying out a State plan approved under part A of title IV of such Act \[this part\].”
 
 #### Implementation of Amendment by Pub. L. 101–239
 
@@ -648,7 +608,7 @@ Effective Date.—This section shall become effective on the date of the enactme
 
 Pub. L. 97–377, title I, §113, Dec. 21, 1982, 96 Stat. 1912, provided that: “No reduction in the amount payable to any State under title IV of the Social Security Act \[this subchapter\] with respect to any of the fiscal years 1977 through 1983 shall be made prior to the date on which this resolution expires \[not later than Sept. 30, 1983\] on account of the provisions of section 403(h) of such Act \[subsec. (h) of this section\].”
 
-Pub. L. 97–276, §127, Oct. 2, 1982, 96 Stat. 1196, provided that: “No reduction in the amount payable to any State under title IV of the Social Security Act \[this subchapter\] with respect to any of the fiscal years 1977through 1982 shall be made prior to the date on which this resolution expires \[not later than Dec. 17, 1982\] on account of the provisions of section 403(h) of such Act \[subsec. (h) of this section\].”
+Pub. L. 97–276, §127, Oct. 2, 1982, 96 Stat. 1196, provided that: “No reduction in the amount payable to any State under title IV of the Social Security Act \[this subchapter\] with respect to any of the fiscal years 1977 through 1982 shall be made prior to the date on which this resolution expires \[not later than Dec. 17, 1982\] on account of the provisions of section 403(h) of such Act \[subsec. (h) of this section\].”
 
 Pub. L. 96–272, title III, §309, June 17, 1980, 94 Stat. 532, as amended by Pub. L. 96–611, §11(b)(1), Dec. 28, 1980, 94 Stat. 3574, provided that: “No reduction in the amount payable to any State under title IV of the Social Security Act \[this subchapter\] with respect to any of the fiscal years 1977 through 1980 shall be made prior to October 1, 1980, on account of the provisions of section 403(h) of such Act \[subsec. (h) of this section\].”
 

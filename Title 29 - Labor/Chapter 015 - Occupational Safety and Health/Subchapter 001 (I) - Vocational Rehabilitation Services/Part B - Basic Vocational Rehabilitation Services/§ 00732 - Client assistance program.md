@@ -14,7 +14,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 #### (c) Designation of agency to conduct program
 
-(1)(A) The Governor shall designate a public or private agency to conduct the client assistance program under this section. Except as provided in the last sentence of this paragraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in the State which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
+(1)(A) The Governor shall designate a public or private agency to conduct the client assistanceprogram under this section. Except as provided in the last sentence of this paragraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in the State which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
 
 (B) The Governor may not redesignate the agency designated under subparagraph (A) without good cause and unless—
 
@@ -64,17 +64,15 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 &emsp;(3) Each program shall contain provisions designed to assure that to the maximum extent possible mediation procedures are used prior to resorting to administrative or legal remedies.
 
-&emsp;(4) The agency designated under subsection (c) of this section shall submit an annual report to the Secretary on the operation of the program during the previous year, including a summary of the work done and the uniform statistical tabulation of all cases handled by such program. A copy of each such report shall be submitted to the appropriate committees of the Congress by the Secretary, together with a summary of such reports and the Secretary's evaluation of the program, including appropriate recommendations.
+&emsp;(4), (5). Repealed. Pub. L. 104–66, title I, §1041(c)(1), Dec. 21, 1995, 109 Stat. 714.
 
-&emsp;(5) Each such report shall contain information on the number of requests the client assistance program under this section receives annually, the number of requests such program is unable to serve, and the reasons that the program is unable to serve all the requests.
-
-&emsp;(6) For purposes of such report or for any other periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
+&emsp;(6) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, anyindividual requesting assistance under such program.
 
 #### (h) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 1997 to carry out the provisions of this section.
 
-(Pub. L. 93–112, title I, §112, Sept. 26, 1973, 87 Stat. 371; Pub. L. 93–516, title I, §§102(b), 111(f), Dec. 7, 1974, 88 Stat. 1618, 1620; Pub. L. 93–651, title I, §§102(b), 111(f), Nov. 21, 1974, 89 Stat. 2–3, 2–5; Pub. L. 94–230, §§2(b), 11(b)(4), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, §§105, 122(b)(1), Nov. 6, 1978, 92 Stat. 2960, 2987; Pub. L. 97–375, title I, §105, Dec. 21, 1982, 96 Stat. 1820; Pub. L. 98–221, title I, §113(a), Feb. 22, 1984, 98 Stat. 20; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §209, title X, §1001(b)(7), Oct. 21, 1986, 100 Stat. 1810, 1818, 1842; Pub. L. 100–630, title II, §202(f),Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, §2(c), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, §§102(p)(10), 133, Oct. 29, 1992, 106 Stat. 4357, 4391; Pub. L. 103–73, title I, §107(g), Aug. 11, 1993, 107 Stat. 723.)
+(Pub. L. 93–112, title I, §112, Sept. 26, 1973, 87 Stat. 371; Pub. L. 93–516, title I, §§102(b), 111(f), Dec. 7, 1974, 88 Stat. 1618, 1620; Pub. L. 93–651, title I, §§102(b), 111(f), Nov. 21, 1974, 89 Stat. 2–3, 2–5; Pub. L. 94–230, §§2(b), 11(b)(4), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, §§105, 122(b)(1), Nov. 6, 1978, 92 Stat. 2960, 2987; Pub. L. 97–375, title I, §105, Dec. 21, 1982, 96 Stat. 1820; Pub. L. 98–221, title I, §113(a), Feb. 22, 1984, 98 Stat. 20; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §209, title X, §1001(b)(7), Oct. 21, 1986, 100 Stat. 1810, 1818, 1842; Pub. L. 100–630, title II, §202(f), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, §2(c), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, §§102(p)(10), 133, Oct. 29, 1992, 106 Stat. 4357, 4391; Pub. L. 103–73, title I, §107(g), Aug. 11, 1993, 107 Stat. 723; Pub. L. 104–66, title I, §1041(c), Dec. 21, 1995, 109 Stat. 714.)
 
 #### References in Text
 
@@ -87,6 +85,14 @@ For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes e
 For history of Pub. L. 93–651, which enacted amendments identical to Pub. L. 93–516, see Codification note set out under section 701 of this title.
 
 #### Amendments
+
+1995—Subsec. (g)(4), (5). Pub. L. 104–66, §1041(c)(1), struck out pars. (4) and (5) which read as follows:
+
+“(4) The agency designated under subsection (c) of this section shall submit an annual report to the Secretary on the operation of the program during the previous year, including a summary of the work done and the uniform statistical tabulation of all cases handled by such program. A copy of each such report shall be submitted to the appropriate committees of the Congress by the Secretary, together with a summary of such reports and the Secretary's evaluation of the program, including appropriate recommendations.
+
+“(5) Each such report shall contain information on the number of requests the client assistance program under this section receives annually, the number of requests such program is unable to serve, and the reasons that the program is unable to serve all the requests.”
+
+Subsec. (g)(6). Pub. L. 104–66, §1041(c)(2), substituted “any” for “such report or for any other” before “periodic audit”.
 
 1993—Subsec. (a). Pub. L. 103–73, §107(g)(1), in first sentence substituted “community rehabilitation programs” for “facilities” before “providing services to them”.
 

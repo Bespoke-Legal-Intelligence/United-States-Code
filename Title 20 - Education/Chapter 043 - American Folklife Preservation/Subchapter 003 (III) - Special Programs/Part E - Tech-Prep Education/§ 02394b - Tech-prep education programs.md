@@ -42,11 +42,11 @@ Each such program may—
 
 &emsp;(2) as part of the program's planning activities, acquire technical assistance from State or local entities that have successfully designed, established and operated tech-prep programs.
 
-(Pub. L. 88 210, title III, §344, as added Pub. L. 101 392, title III, §308, Sept. 25, 1990, 104 Stat. 790; amended Pub. L. 103 239, title VII, §711(a), May 4, 1994, 108 Stat. 606.)
+(Pub. L. 88–210, title III, §344, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 790; amended Pub. L. 103–239, title VII, §711(a), May 4, 1994, 108 Stat. 606.)
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103 239 inserted “or 4 years” before “of secondary school”.
+1994—Subsec. (b)(2). Pub. L. 103–239 inserted “or 4 years” before “of secondary school”.
 
 #### Section Referred to in Other Sections
 

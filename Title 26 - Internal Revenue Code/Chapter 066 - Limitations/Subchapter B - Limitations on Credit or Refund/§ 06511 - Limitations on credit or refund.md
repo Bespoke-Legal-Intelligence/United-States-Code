@@ -14,7 +14,7 @@ Claim for credit or refund of an overpayment of any tax imposed by this title in
 
 #### (A) Limit where claim filed within 3-year period
 
-&emsp;&emsp;If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the tax paid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
+&emsp;&emsp;If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the taxpaid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
 
 #### (B) Limit where claim not filed within 3-year period
 
@@ -110,7 +110,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (6) Special period of limitation with respect to amounts included in income subsequently recaptured under qualified plan termination
 
-&emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of the recapture, under section 4045 of the Employee Retirement Income Security Act of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
+&emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of the recapture, under section 4045 of the Employee Retirement Income SecurityAct of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
 
 #### \[(e) Repealed. Pub. L. 101–508, title XI, §11801(c)(22)(C), Nov. 5, 1990, 104 Stat. 1388–528\]
 
@@ -120,7 +120,7 @@ For purposes of any tax imposed by section 4912, chapter 42, or section 4975, th
 
 #### (g) Special rule for claims with respect to partnership items
 
-In the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section6231(a)(3)), the provisions of section 6227 and subsections (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter.
+In the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsections (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter.
 
 #### (h) Cross references
 
@@ -324,7 +324,7 @@ Amendment by section 108(b)(1)(B) of Pub. L. 96–222 effective as if included i
 
 Section 8(d) of Pub. L. 95–628 provided that: “The amendments made by this section \[amending this section and sections 6501, 6601, and 6611 of this title\] shall apply to carrybacks arising in taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
-Amendment by section 212(b)(1) of Pub. L. 95–600 applicable to partnership items arising in partnershiptaxable years beginning after Dec. 31, 1978, see section 212(c) of Pub. L. 95–600, set out as a note under section 6501 of this title.
+Amendment by section 212(b)(1) of Pub. L. 95–600 applicable to partnership items arising in partnership taxable years beginning after Dec. 31, 1978, see section 212(c) of Pub. L. 95–600, set out as a note under section 6501 of this title.
 
 Amendment by section 703(p)(3) of Pub. L. 95–600 applicable with respect to losses sustained in taxable years ending Nov. 6, 1978, see section 703(p)(4) of Pub. L. 95–600, set out as a note under section 172 of this title.
 

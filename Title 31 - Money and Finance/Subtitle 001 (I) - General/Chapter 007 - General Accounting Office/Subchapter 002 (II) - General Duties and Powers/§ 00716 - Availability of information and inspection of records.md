@@ -80,7 +80,7 @@ In subsection (a), the words “methods of business” are omitted as surplus. T
 
 In subsection (b)(1), the words “to the Comptroller General” are substituted for “access to” for clarity and consistency. The words “in his discretion”, “in addition to subsection (a)”, “a period of”, and “to the written request of the Comptroller General” are omitted as surplus. The words “or any of his designated assistants or employees” are omitted because of sections 702(b) and 711 of the revised title.
 
-In subsection (b)(2), before clause (A), the words “bring a civil action” are substituted for “apply” to conform to rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In clause (A), the words “calendar” and “written” are omitted as surplus.
+In subsection (b)(2), before clause (A), the words “bring a civil action” are substituted for “apply” toconform to rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In clause (A), the words “calendar” and “written” are omitted as surplus.
 
 In subsection (b)(3), the words “head of the agency” are substituted for “defendant official” for consistency.
 

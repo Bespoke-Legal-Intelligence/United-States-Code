@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term “prime contract” means any contract, agreement, or purchase order heretofore or hereafter entered into by a contracting agency and connected with or related to the prosecution of the war; and the term “prime contractor” means any holder of one or more prime contracts.
 
-(b) The term “subcontract” means any contract, agreement, or purchase order heretofore or hereafter entered into to perform any work, or to make or furnish any material to the extent that such work or material is required for the performance of any one or more prime contracts or of any one or more other subcontracts; and the term “subcontractor” means any holder of one or more subcontracts.
+(b) The term “subcontract” means any contract, agreement, or purchase order heretoforeor hereafter entered into to perform any work, or to make or furnish any material to the extent that such work or material is required for the performance of any one or more prime contracts or of any one or more other subcontracts; and the term “subcontractor” means any holder of one or more subcontracts.
 
 (c) The term “war contract” means a prime contract or a subcontract; and the term “war contractor” means any holder of one or more war contracts.
 
@@ -28,7 +28,7 @@ As used in this chapter—
 
 (m) The term “final and conclusive”, as applied to any settlement, finding, or decision, means that such settlement, finding, or decision shall not be reopened, annulled, modified, set aside, or disregarded by any officer, employee, or agent of the United States or in any suit, action, or proceeding except as provided in this chapter.
 
-(July 1, 1944, ch. 358, §3, 58 Stat. 650; Ex. Ord. No. 9638, §1, eff. Oct. 4, 1945, 10 F.R. 12591; Ex. Ord. No. 9809, §§1, 8 eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, §§101, 203, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1947, ch. 166, title II, §207, 61 Stat. 209; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947,12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
+(July 1, 1944, ch. 358, §3, 58 Stat. 650; Ex. Ord. No. 9638, §1, eff. Oct. 4, 1945, 10 F.R. 12591; Ex. Ord. No. 9809, §§1, 8 eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, §§101, 203, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1947, ch. 166, title II, §207, 61 Stat. 209; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 
 #### References in Text
 

@@ -8,25 +8,15 @@ The Secretary is authorized and directed to prepare a comprehensive program mana
 
 The Secretary shall transmit the comprehensive program management plan along with any comments by the Commission on the plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate within twelve months after December 22, 1980. Revisions to the plan shall be transmitted to such committees whenever deemed appropriate by the Secretary.
 
-#### (c) Transmission to Congress of detailed description of plan in effect; description requirements
+(Pub. L. 96–567, §8, Dec. 22, 1980, 94 Stat. 3332; Pub. L. 104–66, title I, §1051(<i>l</i>), Dec. 21, 1995, 109 Stat. 717.)
 
-Concurrently with the submission of the President's annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b) of this section, the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect. The detailed description of the comprehensive plan under this subsection shall include, but need not be limited to, a statement setting forth any change in—
+#### Amendments
 
-&emsp;(1) the program strategies and plans, including detailed milestone goals to be achieved during the next fiscal year for all major activities and projects;
-
-&emsp;(2) the economic, environmental, and societal significance which the program may have;
-
-&emsp;(3) the total estimated cost of individual program items; and
-
-&emsp;(4) the estimated relative financial contributions of the Federal Government and non-Federal participants in the program.
-
-> Such description shall also include a detailed justification of any such changes, a description of the progress made toward achieving the goals of this chapter, a statement on the status of interagency cooperation in meeting such goals, and any legislative or other recommendations which the Secretary may have to help attain such goals.
-
-(Pub. L. 96–567, §8, Dec. 22, 1980, 94 Stat. 3332.)
+1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which directed Secretary of Energy to transmit to Congress, concurrently with submission of President's annual budget to Congress, detailed description of comprehensive plan as then in effect.
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

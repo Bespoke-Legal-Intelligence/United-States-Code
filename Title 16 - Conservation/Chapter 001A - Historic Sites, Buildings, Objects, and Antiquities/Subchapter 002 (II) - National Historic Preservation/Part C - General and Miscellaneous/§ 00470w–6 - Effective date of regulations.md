@@ -14,7 +14,7 @@ Except as provided in subsection (b) of this section, the regulation shall not b
 
 #### (d) Failure of Congress to adopt resolution of disapproval of regulation
 
-If at the end of sixty calendar days of continuous session of Congress after the date of promulgation of a regulation, no committee of either House of Congress has reported or been discharged from further consideration of a concurrent resolution disapproving the regulation, and neither House has adopted such a resolution, the regulation may go into effect immediately. If, within such sixty calendar days, such a committee has reported or been discharged from further consideration of such a resolution, the regulation may go into effect not sooner than ninety calendar days of continuous session of Congress after its promulgation unless disapproved as provided for.
+If at the end of sixty calendar days of continuous session of Congress after the date of promulgation of a regulation, no committee of either House of Congress has reported or been discharged from further consideration of a concurrent resolution disapproving the regulation, and neither House has adopted such a resolution, theregulation may go into effect immediately. If, within such sixty calendar days, such a committee has reported or been discharged from further consideration of such a resolution, the regulation may go into effect not sooner than ninety calendar days of continuous session of Congress after its promulgation unless disapproved as provided for.
 
 #### (e) Sessions of Congress
 
@@ -36,5 +36,5 @@ Congressional inaction on or rejection of a resolution of disapproval shall not 
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

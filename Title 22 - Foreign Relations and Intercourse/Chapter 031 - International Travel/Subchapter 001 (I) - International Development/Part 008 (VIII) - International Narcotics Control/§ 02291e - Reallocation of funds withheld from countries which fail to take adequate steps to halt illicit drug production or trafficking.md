@@ -1,6 +1,6 @@
 ### §2291e. Reallocation of funds withheld from countries which fail to take adequate steps to halt illicit drug production or trafficking
 
-If any funds authorized to be appropriated for any fiscal year for assistance under this chapter are not used for assistance for the country for which those funds were allocated because of the requirements of section 2291j of this title or any other provision of law requiring the withholding of assistance for countries that have not takenadequate steps to halt illicit drug production or trafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
+If any funds authorized to be appropriated for any fiscal year for assistance under this chapter are not used for assistance for the country for which those funds were allocated because of the requirements of section 2291j of this title or any other provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production or trafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
 
 #### (1) International narcotics control assistance
 
@@ -26,5 +26,5 @@ Subsec. (b). Pub. L. 102–583, §6(b)(5)(B), substituted “(relating to the �
 
 #### Supersedure of Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989
 
-Section 4206(b) of Pub. L. 100–690, which provided that the enactment of this section superseded section 578(d) of Pub. L. 100–461, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Section 4206(b) of Pub. L. 100–690, which provided that the enactment of this section superseded section 578(d)of Pub. L. 100–461, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 

@@ -16,11 +16,11 @@ As used in this chapter—
 
 &emsp;(7) The term “Secretary” means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
 
-&emsp;(8) The term “State” means any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, theUnited States Virgin Islands, or American Samoa.
+&emsp;(8) The term “State” means any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, or American Samoa.
 
 &emsp;(9) The term “wildlife conservation and appreciation project” means a project which is directed toward nonconsumptive activities or toward the conservation of those species of fish and wildlife that—
 
-&emsp;&emsp;(A) are not ordinarily taken for recreation, fur, or food; except that if under applicable State law, any fish and wildlife may be taken for recreation, fur, or food in some but not all, areas of the State, a wildlife conservation and appreciation project may be directed toward the conservation of any of such fish and wildlife within any area of the State in which such taking is not permitted;
+&emsp;&emsp;(A) are not ordinarily taken for recreation, fur, or food; except that if under applicable State law, any fish and wildlife may betaken for recreation, fur, or food in some but not all, areas of the State, a wildlife conservation and appreciation project may be directed toward the conservation of any of such fish and wildlife within any area of the State in which such taking is not permitted;
 
 &emsp;&emsp;(B) are not listed as endangered species or threatened species under the Endangered Species Act of 1973, as amended (16 U.S.C. 1531–1543); and
 

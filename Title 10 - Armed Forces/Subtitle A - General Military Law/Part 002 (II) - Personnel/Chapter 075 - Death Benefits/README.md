@@ -10,15 +10,15 @@
 | [1480\.](%C2%A7%2001480%20-%20Death%20gratuity%20miscellaneous%20provisions.md) | Death gratuity: miscellaneous provisions. |
 | [1481\.](%C2%A7%2001481%20-%20Recovery%2C%20care%2C%20and%20disposition%20of%20remains%20decedents%20covered.md) | Recovery, care, and disposition of remains: decedents covered. |
 | [1482\.](%C2%A7%2001482%20-%20Expenses%20incident%20to%20death.md) | Expenses incident to death. |
-| 1482a. | Expenses incident to death: civilian employees serving with an armed force. |
-| 1483\. | Prisoners of war and interned enemy aliens. |
-| 1484\. | Pensioners, indigent patients, and persons who die on military reservations. |
-| 1485\. | Dependents of members of armed forces. |
-| 1486\. | Other citizens of United States. |
-| 1487\. | Temporary interment. |
-| 1488\. | Removal of remains. |
-| 1489\. | Death gratuity: members and employees dying outside the United States while assigned to intelligence duties. |
-| 1490\. | Transportation of remains: certain retired members and dependents who die in military medical facilities. |
+| [1482a.](%C2%A7%2001482a%20-%20Expenses%20incident%20to%20death%20civilian%20employees%20serving%20with%20an%20armed%20force.md) | Expenses incident to death: civilian employees serving with an armed force. |
+| [1483\.](%C2%A7%2001483%20-%20Prisoners%20of%20war%20and%20interned%20enemy%20aliens.md) | Prisoners of war and interned enemy aliens. |
+| [1484\.](%C2%A7%2001484%20-%20Pensioners%2C%20indigent%20patients%2C%20and%20persons%20who%20die%20on%20military%20reservations.md) | Pensioners, indigent patients, and persons who die on military reservations. |
+| [1485\.](%C2%A7%2001485%20-%20Dependents%20of%20members%20of%20armed%20forces.md) | Dependents of members of armed forces. |
+| [1486\.](%C2%A7%2001486%20-%20Other%20citizens%20of%20United%20States.md) | Other citizens of United States. |
+| [1487\.](%C2%A7%2001487%20-%20Temporary%20interment.md) | Temporary interment. |
+| [1488\.](%C2%A7%2001488%20-%20Removal%20of%20remains.md) | Removal of remains. |
+| [1489\.](%C2%A7%2001489%20-%20Death%20gratuity%20members%20and%20employees%20dying%20outside%20the%20United%20States%20while%20assigned%20to%20intelligence%20duties.md) | Death gratuity: members and employees dying outside the United States while assigned to intelligence duties. |
+| [1490\.](%C2%A7%2001490%20-%20Transportation%20of%20remains%20certain%20retired%20members%20and%20dependents%20who%20die%20in%20military%20medical%20facilities.md) | Transportation of remains: certain retired members and dependents who die in military medical facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

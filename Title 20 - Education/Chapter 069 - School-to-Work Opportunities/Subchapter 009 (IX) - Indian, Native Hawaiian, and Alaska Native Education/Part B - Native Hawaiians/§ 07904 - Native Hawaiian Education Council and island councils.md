@@ -20,7 +20,7 @@ The Education Council shall consist of not more than 25 members, including a rep
 
 #### (c) Conditions and terms
 
-At least three-fourths of the members of the Education Council shall be Native Hawaiians. Members of the Education Council shall be appointed for three-year terms.
+At least three-fourths of the members of the Education Council shall be Native Hawaiians.Members of the Education Council shall be appointed for three-year terms.
 
 #### (d) Administrative grant for Education Council
 
@@ -62,7 +62,7 @@ The Secretary shall make a direct grant to the Education Council in order to ena
 
 #### (2) Composition of island councils
 
-&emsp;Each island council shall consist of parents, students, and other community members who have an interest in the education of Native Hawaiians, and shall be representative of the educational needs of all age groups, from preschool through adulthood. At least three-fourths of the members of each island council shall be Native Hawaiians<sup>1</sup>
+&emsp;Each island council shall consist of parents, students, and other community members who have an interest in the education of Native Hawaiians, and shall be representative of the educational needs of all age groups, from preschool through adulthood. At least three-fourths of the members of each island council shall be Native Hawaiians <sup>1</sup>
 
 #### (g) Administrative provisions relating to Education Council and island councils
 
@@ -80,15 +80,15 @@ Not later than four years after October 20, 1994, the Secretary shall prepare an
 
 There are authorized to be appropriated $500,000 for fiscal year 1995, and such sums as may be necessary for each of the 4 succeeding fiscal years, to carry out this section. Funds appropriated under the authority of this subsection shall remain available until expended.
 
-(Pub. L. 89 10, title IX, §9204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3798.)
+(Pub. L. 89–10, title IX, §9204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3798.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i>So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

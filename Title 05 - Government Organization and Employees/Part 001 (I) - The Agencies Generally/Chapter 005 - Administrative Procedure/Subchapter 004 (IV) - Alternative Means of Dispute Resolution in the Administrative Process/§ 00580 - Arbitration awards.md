@@ -14,19 +14,19 @@
 
 (f) An arbitral award that is vacated under subsection (c) shall not be admissible in any proceeding relating to the issues in controversy with respect to which the award was made.
 
-(g) If an agency head vacates an award under subsection (c), a party to the arbitration (other than the United States) may within 30 days of such action petition the agency head for an award of fees and other expenses (as defined in section 504(b)(1)(A) of this title) incurred in connection with the arbitration proceeding. Theagency head shall award the petitioning party those fees and expenses that would not have been incurred in the absence of such arbitration proceeding, unless the agency head or his or her designee finds that special circumstances make such an award unjust. The procedures for reviewing applications for awards shall, where appropriate, be consistent with those set forth in subsection (a)(2) and (3) of section 504 of this title. Such fees and expenses shall be paid from the funds of the agency that vacated the award.
+(g) If an agency head vacates an award under subsection (c), a party to the arbitration (other than the United States) may within 30 days of such action petition the agency head for an award of fees and other expenses (as defined in section 504(b)(1)(A) of this title) incurred in connection with the arbitration proceeding. The agency head shall award the petitioning party those fees and expenses that would not have been incurred in the absence of such arbitration proceeding, unless the agency head or his or her designee finds that special circumstances make such an award unjust. The procedures for reviewing applications for awards shall, where appropriate, be consistent with those set forth in subsection (a)(2) and (3) of section 504 of this title. Such fees and expenses shall be paid from the funds of the agency that vacated the award.
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2743, §590; renumbered §580 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(3), Aug. 26, 1992, 106 Stat. 944, 946.)
 
-#### Termination of Section
-
-<i>For termination of section by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note set out under section 571 of this title.</i>
-
 #### Amendments
 
-1992—Pub. L. 102–354, §3(b)(2), renumbered section 590 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §3(b)(2), renumbered section 590 of this title as this section.
 
 Subsec. (g). Pub. L. 102–354, §5(b)(3), substituted “fees and other expenses” for “attorney fees and expenses”.
+
+#### Termination Date; Savings Provision
+
+For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
 
 #### Section Referred to in Other Sections
 

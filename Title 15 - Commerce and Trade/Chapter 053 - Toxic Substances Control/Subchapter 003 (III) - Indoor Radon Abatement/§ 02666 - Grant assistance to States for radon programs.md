@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For each fiscal year, upon application of the Governor of a State, the Administrator may make a grant, subject to such terms and conditions as the Administrator considers appropriate, under this section to the State for the purpose of assisting the State in the development and implementation of programs for the assessment and mitigation of radon.
+For each fiscal year, upon application of the Governor of a State, the Administrator may make a grant, subject to such terms and conditions as the Administrator considers appropriate, under this section to the State for thepurpose of assisting the State in the development and implementation of programs for the assessment and mitigation of radon.
 
 #### (b) Application
 
@@ -44,7 +44,7 @@ Activities eligible for grant assistance under this section are the following:
 
 #### (d) Preference to certain States
 
-Beginning in fiscal year 1991, the Administrator shall give a preference for grant assistance under this section to States that havemade reasonable efforts to ensure the adoption, by the authorities which regulate building construction within that State or political subdivisions within States, of the model construction standards and techniques for new buildings developed under section 2664 of this title.
+Beginning in fiscal year 1991, the Administrator shall give a preference for grant assistance under this section to States that have made reasonable efforts to ensure the adoption, by the authorities which regulate building construction within that State or political subdivisions within States, of the model construction standards and techniques for new buildings developed under section 2664 of this title.
 
 #### (e) Priority activities and projects
 
@@ -72,7 +72,7 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 (2) Any State receiving funds under this section shall provide to the Administrator all radon-related information generated in its activities, including the results of radon surveys, mitigation demonstration projects, and risk communication studies.
 
-(3) Any State receiving funds under this section shall maintain, and make available to the public, a list of firms and individuals within the State that have received a passing rating under the Environmental Protection Agency proficiency rating program referred to in section 2665(a)(2) of this title. The list shall also include the address and phone number of such firms and individuals, together with the proficiency rating received by each. The Administrator shall make such list available to the public at appropriate locations in each State which does not receive funds under this section unless the State assumes such responsibility.
+(3) Any State receiving funds under this section shall maintain, and make available to the public, a list of firms and individuals within the State that have received a passing rating under the Environmental Protection Agency proficiency rating program referred to in section 2665(a)(2) of this title. The list shall also include the address and phone number of such firms and individuals, together with the proficiency ratingreceived by each. The Administrator shall make such list available to the public at appropriate locations in each State which does not receive funds under this section unless the State assumes such responsibility.
 
 #### (i) Limitations
 
@@ -96,7 +96,7 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 (5) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under section 2665(a)(2) of this title.
 
-(Pub. L. 94 469, title III, §306, as added Pub. L. 100 551, §1(a), Oct. 28, 1988, 102 Stat. 2758.)
+(Pub. L. 94–469, title III, §306, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2758.)
 
 #### Section Referred to in Other Sections
 

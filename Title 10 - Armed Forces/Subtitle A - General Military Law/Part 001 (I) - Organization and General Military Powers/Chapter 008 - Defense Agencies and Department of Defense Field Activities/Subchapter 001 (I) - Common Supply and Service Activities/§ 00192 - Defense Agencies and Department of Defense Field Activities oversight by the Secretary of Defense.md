@@ -22,7 +22,7 @@ Periodic Review.—(1) Periodically (and not less often than every two years), t
 
 &emsp;(A) there is a continuing need for each such agency and activity; and
 
-&emsp;(B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or ofmeeting the requirements for combat readiness of the armed forces.
+&emsp;(B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or of meeting the requirements for combat readiness of the armed forces.
 
 (2) Paragraph (1) shall apply to the National Security Agency as determined appropriate by the Secretary, in consultation with the Director of Central Intelligence. The Secretary shall establish procedures under which information required for review of the National Security Agency shall be obtained.
 

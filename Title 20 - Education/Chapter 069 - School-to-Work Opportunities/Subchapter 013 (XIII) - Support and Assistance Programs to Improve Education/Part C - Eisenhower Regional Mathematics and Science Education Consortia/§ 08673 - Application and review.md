@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each eligible entity desiring a grant or contract under this part shall submit an application to the Secretary at such time, in such manner, and accompanied by such additional informationas the Secretary may reasonably require. Each such application shall—
+Each eligible entity desiring a grant or contract under this part shall submit an application to the Secretary at such time, in such manner, and accompanied by such additional information as the Secretary may reasonably require. Each such application shall—
 
 &emsp;(1) demonstrate that the eligible entity has demonstrated expertise in the fields of mathematics and science education;
 
@@ -34,11 +34,11 @@ Each eligible entity desiring a grant or contract under this part shall submit a
 
 &emsp;(B) Each panel appointed under subparagraph (A) shall include participation, to the extent feasible, from each region.
 
-(Pub. L. 89 10, title XIII, §13303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3884.)
+(Pub. L. 89–10, title XIII, §13303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3884.)
 
 #### References in Text
 
-The Star Schools Program Assistance Act (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (a)(6), is title IX of Pub. L. 98 377, as added by Pub. L. 100 297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, as amended, which was classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title, prior to repeal by Pub. L. 103 382, title III, §364, Oct. 20, 1994, 108 Stat. 3975.
+The Star Schools Program Assistance Act (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (a)(6), is title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, as amended, which was classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title, prior to repeal by Pub. L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Section Referred to in Other Sections
 

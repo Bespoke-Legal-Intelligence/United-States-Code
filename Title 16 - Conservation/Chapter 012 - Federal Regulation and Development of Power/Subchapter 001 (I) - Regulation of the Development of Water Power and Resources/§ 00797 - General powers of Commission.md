@@ -16,7 +16,7 @@ To cooperate with the executive departments and other agencies of State or Natio
 
 #### (d) Publication of information, etc.; reports to Congress
 
-To make public from time to time the information secured hereunder, and to provide for the publication of its reports and investigations in such form and manner as may be best adapted for public information and use. The Commission, on or before the 3d day of January of each year, shall submit to Congress for the fiscal year preceding a classified report showing the permits and licenses issued under this subchapter, and in each case the parties thereto, the terms prescribed, and the moneys received if any, or account thereof.
+To make public from time to time the information secured hereunder, and to provide forthe publication of its reports and investigations in such form and manner as may be best adapted for public information and use. The Commission, on or before the 3d day of January of each year, shall submit to Congress for the fiscal year preceding a classified report showing the permits and licenses issued under this subchapter, and in each case the parties thereto, the terms prescribed, and the moneys received if any, or account thereof.
 
 #### (e) Issue of licenses for construction, etc., of dams, conduits, reservoirs, etc.
 
@@ -88,11 +88,11 @@ Executive and administrative functions of Federal Power Commission, with certain
 
 #### Improvement at Existing Federal Facilities
 
-Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585, provided that:
+Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, provided that:
 
 “(a)
 
-Studies of Opportunities for Increased Hydroelectric Generation.—The Secretary, in consultation with the Secretary of the Interior and the Secretary of the Army, shall perform reconnaissance level studies of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities. Such studies shall be completed within 2 years after the date of enactment of this Act \[Oct. 24, 1992\] and transmitted to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and to the Committee on Energy and Commerce \[now Committee on Commerce\], the Committee on Natural Resources \[now Committee on Resources\], and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the United States House of Representatives. An individual study shall be prepared for each of the Nation's principal river basins. Each such study shall identify and describe with specificity the following matters:
+Studies of Opportunities for Increased Hydroelectric Generation.—The Secretary of the Interior and the Secretary of the Army, in consultation with the Secretary, shall perform reconnaissance level studies of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities. Such studies shall be completed within 2 years after the date of enactment of this Act \[Oct. 24, 1992\] and transmitted to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and to the Committee on Energy and Commerce \[now Committee on Commerce\], the Committee on Natural Resources \[now Committee on Resources\], and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the United States House of Representatives. An individual study shall be prepared for each of the Nation's principal river basins. Each such study shall identify and describe with specificity the following matters:
 
 &emsp;“(1) opportunities to improve the efficiency of hydroelectric generation at such facilities through, but not limited to, mechanical, structural, or operational changes;
 
@@ -104,7 +104,7 @@ Studies of Opportunities for Increased Hydroelectric Generation.—The Secretary
 
 “(b)
 
-Exception for Previous Studies.—In those cases where studies of the type required by this section have been prepared by any agency of the United States and published within the ten years prior to the date of enactment of this Act \[Oct. 24, 1992\], the Secretary maychoose not to perform new studies but incorporate the information developed by such studies into the study reports required by this section.
+Exception for Previous Studies.—In those cases where studies of the type required by this section have been prepared by any agency of the United States and published within the ten years prior to the date of enactment of this Act \[Oct. 24, 1992\], the Secretary of the Interior, or the Secretary of the Army, may choose not to perform new studies but incorporate the information developed by such studies into the study reports required by this section.
 
 “(c)
 

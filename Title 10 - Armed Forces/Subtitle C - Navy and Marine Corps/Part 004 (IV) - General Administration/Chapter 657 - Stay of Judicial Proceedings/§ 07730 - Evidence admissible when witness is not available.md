@@ -1,4 +1,4 @@
-### §7730 . Evidence admissible when witness is not available
+### §7730. Evidence admissible when witness is not available
 
 Whenever the court is satisfied by appropriate evidence or by agreement of counsel that the United States or the claimant is unable after reasonable efforts to secure the testimony of a witness and—
 

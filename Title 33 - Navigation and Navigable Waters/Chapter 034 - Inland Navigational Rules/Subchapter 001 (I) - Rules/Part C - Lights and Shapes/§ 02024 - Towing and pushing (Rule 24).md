@@ -66,7 +66,7 @@ An inconspicuous, partly submerged vessel or object being towed shall exhibit:
 
 #### (h) Alternative lighting of vessel or object being towed
 
-Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of the unlighted vessel or object.
+Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least toindicate the presence of the unlighted vessel or object.
 
 #### (i) Western Rivers or other specified waters; exception
 

@@ -60,7 +60,7 @@ As used in this subchapter:
 
 &emsp;The term “health care provider” means—
 
-&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; or
+&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery\(as appropriate) by the State in which the doctor practices; or
 
 &emsp;&emsp;(B) any other person determined by the Secretary to be capable of providing health care services.
 
@@ -100,7 +100,17 @@ As used in this subchapter:
 
 &emsp;The term “spouse” means a husband or wife, as the case may be.
 
-(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7.)
+(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9.)
+
+#### Amendment of Paragraph (4)(A)
+
+<i>Pub. L. 104–1, title II, §202(c)(1)(A), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, paragraph (4)(A) of this section is amended by striking “and” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “; and”, and by adding after clause (iii) the following:</i>
+
+(iv) includes the General Accounting Office and the Library of Congress.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2.
 
 #### Effective Date
 
@@ -108,5 +118,5 @@ Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 sections 60m, 60n; title 42 section 12631.
+This section is referred to in title 2 section 1312; title 42 section 12631.
 

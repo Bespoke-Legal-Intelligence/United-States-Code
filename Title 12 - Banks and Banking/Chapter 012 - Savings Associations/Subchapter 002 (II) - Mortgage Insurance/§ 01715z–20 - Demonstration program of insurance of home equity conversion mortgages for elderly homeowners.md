@@ -24,7 +24,7 @@ For purposes of this section:
 
 &emsp;(2) The terms “mortgage”, “mortgagee”, “mortgagor”, and “State” have the meanings given such terms in section 1707 of this title.
 
-&emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
+&emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housingcreditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
 
 #### (c) Insurance authority
 
@@ -92,7 +92,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
-&emsp;(4) prior to loan closing, a statement of the projected total cost of the mortgage to thehomeowner based on the projected total future loan balance (such cost expressed as a single average annual interest rate for at least 2 different appreciation rates for the term of the mortgage) for not less than 2 projected loan terms, as the Secretary shall determine, which shall include—
+&emsp;(4) prior to loan closing, a statement of the projected total cost of the mortgage to the homeowner based on the projected total future loan balance (such cost expressed as a single average annual interest rate for at least 2 different appreciation rates for the term of the mortgage) for not less than 2 projected loan terms, as the Secretary shall determine, which shall include—
 
 &emsp;&emsp;(A) the cost for a short-term mortgage; and
 
@@ -166,7 +166,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 &emsp;(A) describe the types of mortgages appropriate for inclusion in such program;
 
-&emsp;(B) describe any changes in the insurance programs under this subchapter, or in otherFederal regulatory provisions, determined to be appropriate;
+&emsp;(B) describe any changes in the insurance programs under this subchapter, or in other Federal regulatory provisions, determined to be appropriate;
 
 &emsp;(C) describe any risk created under such mortgages to mortgagors and mortgagees or the insurance programs under this subchapter, and whether the risk is adequately covered by the premiums under the insurance programs;
 

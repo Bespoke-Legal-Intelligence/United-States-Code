@@ -1,6 +1,6 @@
 ### §3753. Applicability
 
-Single family mortgages encumbering real estate located in any State may be foreclosed by the Secretary in accordance with this chapter, or pursuant to other foreclosure procedures available, at the option of the Secretary.
+Single family mortgages encumbering real estate located in any State may be foreclosed bythe Secretary in accordance with this chapter, or pursuant to other foreclosure procedures available, at the option of the Secretary.
 
 (Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 

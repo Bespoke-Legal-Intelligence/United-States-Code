@@ -18,7 +18,7 @@ Excess defense articles may be transferred under subsection (a) of this section 
 
 #### (c) Uses of excess defense articles
 
-Excess defense articles may be furnished to a country under subsection (a) of this section onlyif that country ensures that those excess defense articles will be used primarily in support of antinarcotics activities.
+Excess defense articles may be furnished to a country under subsection (a) of this section only if that country ensures that those excess defense articles will be used primarily in support of antinarcotics activities.
 
 #### (d) Role of the Secretary of State
 
@@ -94,5 +94,5 @@ Subsecs. (j), (k). Pub. L. 102–583, §9(a)(6), added subsecs. (j) and (k).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

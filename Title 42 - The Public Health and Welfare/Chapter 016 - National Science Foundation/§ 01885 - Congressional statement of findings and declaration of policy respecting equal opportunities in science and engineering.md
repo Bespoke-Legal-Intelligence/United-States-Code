@@ -14,7 +14,7 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 1985—Subsec. (a). Pub. L. 99–159, §111(b)(2), substituted “engineering” for “technology” and “scientific and engineering talents and skills” for “scientific talent and technical skills”.
 
-Subsec. (b). Pub. L. 99–159, §111(b)(3)–(5), inserted “, engineering,” after “skills in science”, substituted“engineering” for “technical”, “scientific and engineering literacy” for “scientific literacy”, and “engineering” for “technology” wherever appearing, and inserted “and engineering” after “highest quality science”.
+Subsec. (b). Pub. L. 99–159, §111(b)(3)–(5), inserted “, engineering,” after “skills in science”, substituted “engineering” for “technical”, “scientific and engineering literacy” for “scientific literacy”, and “engineering” for “technology” wherever appearing, and inserted “and engineering” after “highest quality science”.
 
 #### Short Title
 

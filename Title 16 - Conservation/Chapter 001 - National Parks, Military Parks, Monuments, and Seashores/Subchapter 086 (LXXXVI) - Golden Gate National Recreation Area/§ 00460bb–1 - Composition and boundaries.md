@@ -1,4 +1,4 @@
-### §460bb–1 . Composition and boundaries
+### §460bb–1. Composition and boundaries
 
 #### (a) Areas included and excluded
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 96–607, §1001(2), substituted “maps” for “map”.
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Short Title of 1992 Amendment
 

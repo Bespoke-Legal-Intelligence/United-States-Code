@@ -34,7 +34,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;(B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2) of this section.
 
-(2) The Federal Trade Commission and the Assistant Attorney General may, in individual cases, terminate the waiting period specified inparagraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
+(2) The Federal Trade Commission and the Assistant Attorney General may, in individual cases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
 
 (3) As used in this section—
 
@@ -92,7 +92,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (f) Preliminary injunctions; hearings
 
-If a proceeding is instituted or an action is filed by the Federal Trade Commission, allegingthat a proposed acquisition violates section 18 of this title, or section 45 of this title, or an action is filed by the United States, alleging that a proposed acquisition violates such section 18 of this title, or section 1 or 2 of this title, and the Federal Trade Commission or the Assistant Attorney General (1) files a motion for a preliminary injunction against consummation of such acquisition pendente lite, and (2) certifies the United States district court for the judicial district within which the respondent resides or carries on business, or in which the action is brought, that it or he believes that the public interest requires relief pendente lite pursuant to this subsection, then upon the filing of such motion and certification, the chief judge of such district court shall immediately notify the chief judge of the United States court of appeals for the circuit in which such district court is located, who shall designate a United States district judge to whom such action shall be assigned for all purposes.
+If a proceeding is instituted or an action is filed by the Federal Trade Commission, alleging that a proposed acquisition violates section 18 of this title, or section 45 of this title, or an action is filed by the United States, alleging that a proposed acquisition violates such section 18 of this title, or section 1 or 2 of this title, and the Federal Trade Commission or the Assistant Attorney General (1) files a motion for a preliminary injunction against consummation of such acquisition pendente lite, and (2) certifies the United States district court for the judicial district within which the respondent resides or carries on business, or in which the action is brought, that it or he believes that the public interest requires relief pendente lite pursuant to this subsection, then upon the filing of such motion and certification, the chief judge of such district court shall immediately notify the chief judge of the United States court of appeals for the circuit in which such district court is located, who shall designate a United States district judge to whom such action shall be assigned for all purposes.
 
 #### (g) Civil penalty; compliance; power of court
 
@@ -140,7 +140,7 @@ The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–
 
 Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
-1984—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedenceover all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+1984—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
 
 #### Effective Date of 1984 Amendment
 

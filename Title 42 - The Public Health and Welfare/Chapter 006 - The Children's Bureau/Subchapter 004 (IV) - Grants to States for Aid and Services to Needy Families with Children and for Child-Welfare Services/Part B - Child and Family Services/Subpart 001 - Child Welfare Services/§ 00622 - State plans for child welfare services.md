@@ -8,7 +8,7 @@ In order to be eligible for payment under this subpart, a State must have a plan
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of theState agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
 &emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State plan approved under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
@@ -64,7 +64,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(10) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\].
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), (d), 81 Stat. 912, 915; Jan. 4, 1975, Pub. L. 93–647, §3(a)(6), (7), (h), 88 Stat. 2348, 2349; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 517; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(b)(1), 103 Stat. 2488; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(1), 107 Stat. 655; Oct. 20, 1994, Pub. L. 103–382, title V, §554, 108 Stat.4057; Oct. 31, 1994, Pub. L. 103–432, title II, §§202(a), 204(a), 108 Stat. 4453, 4456.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), (d), 81 Stat. 912, 915; Jan. 4, 1975, Pub. L. 93–647, §3(a)(6), (7), (h), 88 Stat. 2348, 2349; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 517; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(b)(1), 103 Stat. 2488; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(1), 107 Stat. 655; Oct. 20, 1994, Pub. L. 103–382, title V, §554, 108 Stat. 4057; Oct. 31, 1994, Pub. L. 103–432, title II, §§202(a), 204(a), 108 Stat. 4453, 4456.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Section 240(e)(3) of Pub. L. 90–248 provided that: “The amendments made by p
 
 #### Guam, Puerto Rico, Virgin Islands, and Commonwealth of Northern Mariana Islands
 
-Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and theCommonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
+Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
 
 “(1) provide that (A) the State agency designated pursuant to section 602(a)(3) of this title to administer or supervise the administration of the plan of the State approved under part A of this subchapter will administer or supervise the administration of such plan for child welfare services, and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering such plan for child welfare services, the organizational unit in such State or local agency established pursuant to section 602(a)(15) of this title will be responsible for furnishing such child welfare services;”.
 

@@ -1,0 +1,266 @@
+### §301. Land grant aid of colleges
+
+There is granted to the several States, for the purposes hereinafter mentioned in this subchapter, an amount of public land, to be apportioned to each State a quantity equal to thirty thousand acres for each Senator and Representative in Congress to which the States are respectively entitled by the apportionment under the census of 1860: <i>Provided,</i> That no mineral lands shall be selected or purchased under the provisions of said sections.
+
+(July 2, 1862, ch. 130, §1, 12 Stat. 503.)
+
+#### Codification
+
+Act July 2, 1862, with the exception of section 7, was not incorporated into the Revised Statutes, probably because the grants made thereby were regarded as executed, and the provisions incidental thereto as temporary. By act Mar. 3, 1883, ch. 102, 22 Stat. 484, however, section 4 of the original act was amended to read as set out under section 304 of this title.
+
+#### Short Title
+
+Act July 2, 1862, as amended, which is classified to this subchapter, is popularly known as the “Morrill Act” and also as the “First Morrill Act”.
+
+#### Equity in Educational Land Grant Status
+
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, provided that:
+
+#### “SEC. 531. SHORT TITLE.
+
+“This part may be cited as the ‘Equity in Educational Land-Grant Status Act of 1994’.
+
+#### “SEC. 532. DEFINITION.
+
+“As used in this part, the term ‘1994 Institutions’ means any one of the following colleges:
+
+&emsp;“(1) Bay Mills Community College.
+
+&emsp;“(2) Blackfeet Community College.
+
+&emsp;“(3) Cheyenne River Community College.
+
+&emsp;“(4) D–Q University.
+
+&emsp;“(5) Dullknife Memorial College.
+
+&emsp;“(6) Fond Du Lac Community College.
+
+&emsp;“(7) Fort Belknap Community College.
+
+&emsp;“(8) Fort Berthold Community College.
+
+&emsp;“(9) Fort Peck Community College.
+
+&emsp;“(10) LacCourte Orielles Ojibwa Community College.
+
+&emsp;“(11) Little Big Horn Community College.
+
+&emsp;“(12) Little Hoop Community College.
+
+&emsp;“(13) Nebraska Indian Community College.
+
+&emsp;“(14) Northwest Indian College.
+
+&emsp;“(15) Oglala Lakota College.
+
+&emsp;“(16) Salish Kootenai College.
+
+&emsp;“(17) Sinte Gleska University.
+
+&emsp;“(18) Sisseton Wahpeton Community College.
+
+&emsp;“(19) Standing Rock College.
+
+&emsp;“(20) Stonechild Community College.
+
+&emsp;“(21) Turtle Mountain Community College.
+
+&emsp;“(22) Navajo Community College.
+
+&emsp;“(23) United Tribes Technical College.
+
+&emsp;“(24) Southwest Indian Polytechnic Institute.
+
+&emsp;“(25) Institute of American Indian and Alaska Native Culture and Arts Development.
+
+&emsp;“(26) Crownpoint Institute of Technology.
+
+&emsp;“(27) Haskell Indian Junior College.
+
+&emsp;“(28) Leech Lake Tribal College.
+
+&emsp;“(29) College of the Menominee Nation.
+
+#### “SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Status of 1994 institutions.—Except as provided in paragraph (2), 1994 Institutions shall be considered land-grant colleges established for the benefit of agriculture and the mechanic arts in accordance with the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act).
+
+&emsp;“(2) 1994
+
+institutions.—(A) 1994 Institutions shall not be considered as land-grant colleges that are eligible to receive funding under—
+
+&emsp;&emsp;“(i) the Act of March 2, 1887 (24 Stat. 440, chapter 314; 7 U.S.C. 361a et seq.);
+
+&emsp;&emsp;“(ii) the Act of May 8, 1914 (38 Stat. 373, chapter 79; 7 U.S.C. 343), except as provided under section 3(b)(3) of such Act \[7 U.S.C. 343(b)(3)\] (as added by section 534(b)(1) of this part); or
+
+&emsp;&emsp;“(iii) the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act).
+
+&emsp;“(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scrip for the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated $4,600,000 for each of fiscal years 1996 through 2000. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+
+“(c)
+
+Endowment.—
+
+&emsp;“(1)
+
+In general.—In accordance with this subsection, the Secretary of the Treasury shall establish a 1994 Institutions Endowment Fund (hereafter in this subsection referred to as the ‘endowment fund’). The Secretary may enter into such agreements as are necessary to carry out this subsection.
+
+&emsp;“(2)
+
+Deposit to the endowment fund.—The Secretary shall deposit in the endowment fund any—
+
+&emsp;&emsp;“(A) amounts made available by appropriations pursuant to subsection (b) (hereafter in this subsection referred to as the ‘endowment fund corpus’); and
+
+&emsp;&emsp;“(B) interest earned on the endowment fund corpus.
+
+&emsp;“(3)
+
+Investments.—The Secretary shall invest the endowment fund corpus and income in interest-bearing obligations of the United States.
+
+&emsp;“(4)
+
+Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
+
+&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 390(3) of the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2397h(3)) for each 1994 Institution for the fiscal year.
+
+&emsp;&emsp;“(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
+
+#### “SEC. 534. APPROPRIATIONS.
+
+“(a)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—For fiscal year 1996, and for each fiscal year thereafter, there are authorized to be appropriated to the Department of the Treasury an amount equal to—
+
+&emsp;&emsp;“(A) $50,000; multiplied by
+
+&emsp;&emsp;“(B) the number of 1994 Institutions.
+
+&emsp;“(2)
+
+Payments.—For each fiscal year, the Secretary of the Treasury shall pay to the treasurer of each 1994 Institution an amount equal to—
+
+&emsp;&emsp;“(A) the total amount made available by appropriations pursuant to paragraph (1); divided by
+
+&emsp;&emsp;“(B) the number of 1994 Institutions.
+
+&emsp;“(3)
+
+Use of funds; requirements.—The amounts authorized to be appropriated under this subsection shall be used in the same manner as is prescribed for colleges under the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act), and, except as otherwise provided in this subsection, the requirements of such Act shall apply to 1994 Institutions.
+
+“(b)
+
+Funding.—\[Amended section 343 of this title.\]
+
+#### “SEC. 535. INSTITUTIONAL CAPACITY BUILDING GRANTS.
+
+“(a)
+
+Definitions.—As used in this section:
+
+&emsp;“(1)
+
+Federal share.—The term ‘Federal share’ means, with respect to a grant awarded under subsection (b), the share of the grant that is provided from Federal funds.
+
+&emsp;“(2)
+
+Non-federal share.—The term ‘non-Federal share’ means, with respect to a grant awarded under subsection (b), the matching funds paid with funds other than funds referred to in paragraph (1), as determined by the Secretary.
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.
+
+“(b)
+
+In General.—
+
+&emsp;“(1)
+
+Institutional capacity building grants.—For each of fiscal years 1996 through 2000, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+
+&emsp;“(2)
+
+Requirements for grants.—The Secretary shall make grants under this section—
+
+&emsp;&emsp;“(A) on the basis of a competitive application process under which appropriate officials of 1994 Institutions may submit applications to the Secretary in such form and manner as the Secretary may prescribe; and
+
+&emsp;&emsp;“(B) in such manner as to ensure geographic diversity with respect to the 1994 Institutions that are the subject of the grants.
+
+&emsp;“(3)
+
+Demonstration of need.—The Secretary shall require, as part of an application for a grant under this subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtainfunding for a project after making a reasonable effort to otherwise obtain the funding.
+
+&emsp;“(4)
+
+Payment of non-federal share.—A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount specified by the Secretary.
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, $1,700,000 for each of fiscal years 1996 through 2000.”
+
+#### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
+
+Pub. L. 96–374, title XIII, §1361(c), (d), Oct. 3, 1980, 94 Stat. 1502, as amended by Pub. L. 99–396, §9(c), Aug. 27, 1986, 100 Stat. 840, provided that:
+
+“(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
+
+“(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuila and Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\].”
+
+\[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+
+#### College of the Virgin Islands, Community College of American Samoa, College of Micronesia, Northern Marianas College, and University of Guam; Land-Grant Status; Authorization of Appropriations
+
+Section 506(a), (b) of Pub. L. 92–318, title V, June 23, 1972, 86 Stat. 350, as amended by Pub. L. 96–374, title XIII, §1361(a), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 99–396, §9(a), Aug. 27, 1986, 100 Stat. 840, as amended by Pub. L. 102–247, title III, §305, Feb. 24, 1992, 106 Stat. 39, provided that:
+
+“(a) The College of the Virgin Islands, the Community College of American Samoa, the College of Micronesia\[,\] the Northern Marianas College, and the University of Guam shall be considered land-grant colleges established for the benefit or agriculture and mechanic arts in accordance with the provisions of the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C. 301–305, 307, 308).
+
+“(b) In lieu of extending to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands those provisions of the Act of July 2, 1862, as amended, relating to donations of public land or land scrip for the endowment and maintenance of colleges or the benefit of agriculture and the mechanic arts, there is authorized to be appropriated $3,000,000 to the Virgin Islands and $3,000,000 to Guam and an equal amount to American Samoa, Micronesia, and to the Northern Mariana Islands. Amounts appropriated pursuant to this section shall be held and considered to have been granted to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands subject to the provisions of that Act applicable to the proceeds from the sale of land or land scrip.”
+
+#### Exchange of Land in Missouri
+
+Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands (as determined by the Secretary) situated within such State.
+
+“
+
+Sec. 2. Any exchange authorized by the first section of this Act shall be made in accordance with the applicable provisions of section 7 of the Act of March 1, 1911, commonly referred to as the Weeks Law (16 U.S.C., sec. 516), and the applicable provisions of the Act entitled ‘An Act to consolidate national forest lands’, approved March 20, 1922 (16 U.S.C., secs. 485 and 486).
+
+“
+
+Sec. 3. Any land conveyed to the State of Missouri under authority of this Act shall, upon acceptance of such conveyance by such State, be held and considered to be granted to such State subject to the provisions of the Act of July 2, 1862, referred to in the first section of this Act.”
+
+#### Cooperation in Placement of Domestic Farm Labor
+
+Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
+
+#### Admission of Alaska as State; Grants Not To Extend to Alaska
+
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+
+Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6<i>(l)</i> of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
+
+#### Cross References
+
+Agricultural experiment stations, see section 361a et seq. of this title.
+
+Agricultural extension work appropriation, see sections 341 to 343, 344 to 346, and 348 of this title.
+
+College-aid annual appropriation, see sections 321 to 326 and 328 of this title.
+
+Research and study grants to land-grant colleges for farm housing research, see note set out under section 1476 of Title 42, The Public Health and Welfare.
+
+Water resources research and technology institutes, establishment at colleges or universities founded in accordance with this subchapter, see section 10303(a) of Title 42.
+

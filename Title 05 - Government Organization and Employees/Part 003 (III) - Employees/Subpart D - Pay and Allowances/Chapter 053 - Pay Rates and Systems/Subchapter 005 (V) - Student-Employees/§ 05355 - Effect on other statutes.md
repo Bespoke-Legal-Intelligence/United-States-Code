@@ -30,5 +30,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

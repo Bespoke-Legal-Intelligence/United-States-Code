@@ -14,7 +14,7 @@ The historical park shall consist of lands and interests therein as follows:
 
 &emsp;(3)(A) Sites designated by the Secretary as provided in subparagraph (B).
 
-&emsp;(B)(i) No later than 18 months after October 31, 1994, the Secretary is directed to complete a national historic landmark evaluation of sites associated with jazz in and around New Orleans as identified in the document entitled “New Orleans Jazz Special Resource Study”, prepared by the National Park Service pursuant to Public Law 101–499. In undertaking the evaluation, the Secretary shall, to the extent practicable, utilize existing information relating to such sites.
+&emsp;(B)(i) No later than 18 months after October 31, 1994, the Secretary is directed to complete a national historic landmark evaluation of sites associated with jazz in and around New Orleans as identified in the document entitled “New Orleans Jazz Special Resource Study”, prepared by the National Park Service pursuant to Public Law 101–499. In undertaking theevaluation, the Secretary shall, to the extent practicable, utilize existing information relating to such sites.
 
 &emsp;(ii) If any of the sites evaluated are found to meet the standards of the National Historic Landmark program and National Park Service tests of suitability and feasibility, and offer outstanding opportunities to further the purposes of this subchapter, the Secretary may designate such sites as part of the historical park, following consultation with the owners of such sites, the city of New Orleans, the Smithsonian Institution, and the New Orleans Jazz Commission, and notification to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives.
 
@@ -26,7 +26,7 @@ Public Law 101–499, referred to in subsec. (b)(3)(B)(i), is Pub. L. 101–499,
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

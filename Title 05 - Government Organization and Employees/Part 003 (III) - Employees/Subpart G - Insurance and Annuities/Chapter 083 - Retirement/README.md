@@ -4,7 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 8301\. | Uniform retirement date. |
+| [8301\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2008301%20-%20Uniform%20retirement%20date.md) | Uniform retirement date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -12,8 +12,8 @@
 
 |  |  |
 | :--- | ---: |
-| 8311\. | Definitions. |
-| 8312\. | Conviction of certain offenses. |
+| [8311\.](Subchapter%20002%20%28II%29%20-%20Forfeiture%20of%20Annuities%20and%20Retired%20Pay/%C2%A7%2008311%20-%20Definitions.md) | Definitions. |
+| [8312\.](Subchapter%20002%20%28II%29%20-%20Forfeiture%20of%20Annuities%20and%20Retired%20Pay/%C2%A7%2008312%20-%20Conviction%20of%20certain%20offenses.md) | Conviction of certain offenses. |
 | [8313\.](Subchapter%20002%20%28II%29%20-%20Forfeiture%20of%20Annuities%20and%20Retired%20Pay/%C2%A7%2008313%20-%20Absence%20from%20the%20United%20States%20to%20avoid%20prosecution.md) | Absence from the United States to avoid prosecution. |
 | [8314\.](Subchapter%20002%20%28II%29%20-%20Forfeiture%20of%20Annuities%20and%20Retired%20Pay/%C2%A7%2008314%20-%20Refusal%20to%20testify.md) | Refusal to testify. |
 | [8315\.](Subchapter%20002%20%28II%29%20-%20Forfeiture%20of%20Annuities%20and%20Retired%20Pay/%C2%A7%2008315%20-%20Falsifying%20employment%20applications.md) | Falsifying employment applications. |
@@ -33,15 +33,15 @@
 | :--- | ---: |
 | [8331\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008331%20-%20Definitions.md) | Definitions. |
 | [8332\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008332%20-%20Creditable%20service.md) | Creditable service. |
-| 8333\. | Eligibility for annuity. |
-| 8334\. | Deductions, contributions, and deposits. |
+| [8333\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008333%20-%20Eligibility%20for%20annuity.md) | Eligibility for annuity. |
+| [8334\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008334%20-%20Deductions%2C%20contributions%2C%20and%20deposits.md) | Deductions, contributions, and deposits. |
 | [8335\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008335%20-%20Mandatory%20separation.md) | Mandatory separation. |
 | [8336\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008336%20-%20Immediate%20retirement.md) | Immediate retirement. |
 | [8337\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008337%20-%20Disability%20retirement.md) | Disability retirement. |
 | [8338\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008338%20-%20Deferred%20retirement.md) | Deferred retirement. |
 | [8339\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008339%20-%20Computation%20of%20annuity.md) | Computation of annuity. |
-| 8340\. | Cost-of-living adjustment of annuities. |
-| 8341\. | Survivor annuities. |
+| [8340\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008340%20-%20Cost-of-living%20adjustment%20of%20annuities.md) | Cost-of-living adjustment of annuities. |
+| [8341\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008341%20-%20Survivor%20annuities.md) | Survivor annuities. |
 | [8342\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008342%20-%20Lump-sum%20benefits%3B%20designation%20of%20beneficiary%3B%20order%20of%20precedence.md) | Lump-sum benefits; designation of beneficiary; order of precedence. |
 | [8343\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008343%20-%20Additional%20annuities%3B%20voluntary%20contributions.md) | Additional annuities; voluntary contributions. |
 | [8343a.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008343a%20-%20Alternative%20forms%20of%20annuities.md) | Alternative forms of annuities. |
@@ -58,7 +58,7 @@
 
 #### Amendments
 
-1986—Pub. L. 99–335, title II, §§201(b)(2), 204(b)(1), 205(b), 206(a)(2), June 6, 1986, 100 Stat. 591–594, added items 8343a, 8349, 8350, and 8351.
+<b>1986</b>—Pub. L. 99–335, title II, §§201(b)(2), 204(b)(1), 205(b), 206(a)(2), June 6, 1986, 100 Stat. 591–594, added items 8343a, 8349, 8350, and 8351.
 
 #### Chapter Referred to in Other Sections
 

@@ -56,17 +56,17 @@ The Treasury, Post Office, and Executive Office Appropriation Act, 1966, referre
 
 #### Amendments
 
-1992—Pub. L. 102–378, §2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
+<b>1992</b>—Pub. L. 102–378, §2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
 
 Subsec. (a)(1). Pub. L. 102–378, §2(11)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provided for in section 5108(c)(2) of this title;”.
 
-1990—Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
+<b>1990</b>—Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
 
 Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(i)\], substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18”.
 
-1979—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
+<b>1979</b>—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 #### Effective Date of 1992 Amendment
 

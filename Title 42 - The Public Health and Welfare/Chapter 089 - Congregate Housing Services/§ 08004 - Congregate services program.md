@@ -2,11 +2,11 @@
 
 #### (a) Essential services for maintaining independent living
 
-Congregate services programs assisted under this chapter must include full meal service adequate to meet nutritional needs, and may also include housekeeping aid, personal assistance,and other services essential for maintaining independent living.
+Congregate services programs assisted under this chapter must include full meal service adequate to meet nutritional needs, and may also include housekeeping aid, personal assistance, and other services essential for maintaining independent living.
 
 #### (b) Duplication of services
 
-No services funded under this chapter may duplicate services which are already affordable, accessible, and sufficiently available on a long-term basis to eligible project residents under programs administered by or receiving appropriations through any department, agency, or instrumentality of the Federal Government or any other public or private department, agency, or organization.
+No services funded under this chapter may duplicate services which are already affordable, accessible, and sufficiently available on a long-term basis to eligible project residents underprograms administered by or receiving appropriations through any department, agency, or instrumentality of the Federal Government or any other public or private department, agency, or organization.
 
 #### (c) Consultation with Area Agency on Aging or other appropriate State agency
 

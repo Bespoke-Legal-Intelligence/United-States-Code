@@ -194,7 +194,7 @@
 
 #### (B) Bonds issued to finance manufacturing facilities and farm property
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any bond issued as part of an issue 95 percent ormore of the net proceeds of which are to be used to provide—
+&emsp;&emsp;Subparagraph (A) shall not apply to any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
 &emsp;&emsp;&emsp;(i) any manufacturing facility, or
 
@@ -214,7 +214,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term “qualified student loan bond” means any bond issued as part of an issue the applicable percentage or more of the net proceeds of which are to be used directly or indirectly to make or finance student loans under—
+&emsp;The term “qualified student loan bond” means any bond issued as part of an issue theapplicable percentage or more of the net proceeds of which are to be used directly or indirectly to make or finance student loans under—
 
 &emsp;&emsp;(A) a program of general application to which the Higher Education Act of 1965 applies if—
 
@@ -278,7 +278,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B)(i) the payment of the principal and interest on such issue is primarily secured by taxes of general applicability imposed by a general purpose governmental unit, or
 
-&emsp;&emsp;(ii) any increase in real property tax revenues (attributable to increases in assessedvalue) by reason of the carrying out of such purposes in such area is reserved exclusively for debt service on such issue (and similar issues) to the extent such increase does not exceed such debt service,
+&emsp;&emsp;(ii) any increase in real property tax revenues (attributable to increases in assessed value) by reason of the carrying out of such purposes in such area is reserved exclusively for debt service on such issue (and similar issues) to the extent such increase does not exceed such debt service,
 
 &emsp;&emsp;(C) each interest in real property located in such area—
 
@@ -374,7 +374,7 @@ For purposes of this part—
 
 &emsp;Section 147(c) (other than paragraphs (1)(B) and (2) thereof) shall not apply to any qualified redevelopment bond.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227,title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432.)
 
 #### References in Text
 
@@ -456,7 +456,7 @@ Section 1013(a)(4)(B)(iii) of Pub. L. 100–647 provided that: “A refunding bo
 
 #### Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)
 
-Section 1013(c)(12)(B) of Pub. L. 100–647 provided that: “The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
+Section 1013(c)(12)(B) of Pub. L. 100–647 provided that: “The date applicable under section 144(a)(12)(B) of the1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
 
 #### Section Referred to in Other Sections
 

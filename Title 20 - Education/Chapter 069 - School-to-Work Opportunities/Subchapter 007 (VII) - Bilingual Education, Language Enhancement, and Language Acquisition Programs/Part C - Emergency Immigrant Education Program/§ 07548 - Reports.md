@@ -8,5 +8,5 @@ Each State educational agency receiving funds under this part shall submit, once
 
 The Secretary shall submit, once every two years, a report to the appropriate committees of the Congress concerning programs assisted under this part in accordance with section 8941 of this title.
 
-(Pub. L. 89 10, title VII, §7308, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3744.)
+(Pub. L. 89–10, title VII, §7308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3744.)
 

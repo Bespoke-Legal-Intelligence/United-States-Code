@@ -18,7 +18,7 @@ A basic State plan under this chapter shall—
 
 &emsp;(5) provide that priority will be given to programs and projects—
 
-&emsp;&emsp;(A) that improve access to public library resources and services for the least served populations in the State, including programs for individuals with limited English-speaking proficiency (as defined in section 703(a) of the Bilingual Education Act)<sup>1</sup> or handicapping conditions, and programs and projects in urban and rural areas;
+&emsp;&emsp;(A) that improve access to public library resources and services for the least served populations in the State, including programs for individuals with limited English-speaking proficiency (as defined in section 703(a) of the Bilingual Education Act) <sup>1</sup> or handicapping conditions, and programs and projects in urban and rural areas;
 
 &emsp;&emsp;(B) that serve the elderly;
 
@@ -80,63 +80,63 @@ Whenever the Secretary, after reasonable notice and opportunity for hearing to t
 
 The Secretary shall coordinate programs under subchapters V and VI of this chapter with the programs assisted by subchapters I, II, and III of this chapter, and shall provide to the head of the State library administrative agency the opportunity to comment on any application fora grant under subchapter V or VI of this chapter prior to the awarding of the grant, in order to assure that such grants from the Secretary are for purposes consistent with the long-range program required under subsection (d) of this section.
 
-(June 19, 1956, ch. 407, §6, as added Dec. 30, 1970, Pub. L. 91 600, §2(b), 84 Stat. 1663; amended May 3, 1973, Pub. L. 93 29, title VIII, §801(c), 87 Stat. 59; Aug. 21, 1974, Pub. L. 93 380, title VIII, §841(b), 88 Stat. 609; Oct. 17, 1984, Pub. L. 98 480, title I, §§103(b), 106, 98 Stat. 2237, 2239; Nov. 22, 1985, Pub. L. 99 159, title III, §302(b), 99 Stat. 903; Mar. 15, 1990, Pub. L. 101 254, §§4(b) 6, 104 Stat. 102, 103.)
+(June 19, 1956, ch. 407, §6, as added Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1663; amended May 3, 1973, Pub. L. 93–29, title VIII, §801(c), 87 Stat. 59; Aug. 21, 1974, Pub. L. 93–380, title VIII, §841(b), 88 Stat. 609; Oct. 17, 1984, Pub. L. 98–480, title I, §§103(b), 106, 98 Stat. 2237, 2239; Nov. 22, 1985, Pub. L. 99–159, title III, §302(b), 99 Stat. 903; Mar. 15, 1990, Pub. L. 101–254, §§4(b)–6, 104 Stat. 102, 103.)
 
 #### References in Text
 
-Section 703(a) of the Bilingual Education Act, referred to in subsec. (b)(5)(A), is section 703(a) of Pub. L. 89 10, title VII, as added by Pub. L. 95 561, title VII, §701, Nov. 1, 1978, 92 Stat. 2269, as amended, which was classified to section 3223(a) of this title prior to the complete revision of Pub. L. 89 10 by Pub. L. 100 297, Apr. 28, 1988, 102 Stat. 140. For provisions defining “limited English proficiency”, see section 7601 of this title.
+Section 703(a) of the Bilingual Education Act, referred to in subsec. (b)(5)(A), is section 703(a) of Pub. L. 89–10, title VII, as added by Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2269, as amended, which was classified to section 3223(a) of this title prior to the complete revision of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For provisions defining “limited English proficiency”, see section 7601 of this title.
 
 #### Codification
 
-Another section 801(c) of Pub. L. 93 29 amended section 351c of this title. See 1973 Amendment note set out under section 351c of this title.
+Another section 801(c) of Pub. L. 93–29 amended section 351c of this title. See 1973 Amendment note set out under section 351c of this title.
 
 #### Amendments
 
-1990—Subsec. (b)(4), (5). Pub. L. 101 254, §5, added par. (4) and redesignated former par. (4) as (5).
+1990—Subsec. (b)(4), (5). Pub. L. 101–254, §5, added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d)(1). Pub. L. 101 254, §6(1), substituted “, construction, and interlibrary cooperation and resource sharing” for “and construction”.
+Subsec. (d)(1). Pub. L. 101–254, §6(1), substituted “, construction, and interlibrary cooperation and resource sharing” for “and construction”.
 
-Subsec. (g)(2). Pub. L. 101 254, §4(b), inserted “in the same fiscal year in which it has received an allocation under section 351c(c)(1) of this title” after “section 351c(c)(2) of this title”.
+Subsec. (g)(2). Pub. L. 101–254, §4(b), inserted “in the same fiscal year in which it has received an allocation under section 351c(c)(1) of this title” after “section 351c(c)(2) of this title”.
 
-Subsec. (h). Pub. L. 101 254, §6(2), added subsec. (h).
+Subsec. (h). Pub. L. 101–254, §6(2), added subsec. (h).
 
-1985—Subsec. (b)(4)(A). Pub. L. 99 159 inserted reference to section 3223(a) of this title.
+1985—Subsec. (b)(4)(A). Pub. L. 99–159 inserted reference to section 3223(a) of this title.
 
-1984—Subsec. (a). Pub. L. 98 480, §106(2), substituted “subchapters I, II, and III” for “subchapters I, II, III, and IV”.
+1984—Subsec. (a). Pub. L. 98–480, §106(2), substituted “subchapters I, II, and III” for “subchapters I, II, III, and IV”.
 
-Subsec. (b)(3). Pub. L. 98 480, §103(b)(1), substituted “Secretary” for “Commissioner” in two places.
+Subsec. (b)(3). Pub. L. 98–480, §103(b)(1), substituted “Secretary” for “Commissioner” in two places.
 
-Subsec. (b)(4). Pub. L. 98 480, §106(3), substituted provisions enumerating the types of programs and projects to be given priority by a State plan under this chapter for provisions which required that the State plan under this chapter set forth the criteria to be used in determining the adequacy of public library services in geographical areas and for groups of persons in the State, including criteria designed to assure that priority would be given to programs or projects which served urban and rural areas with high concentrations of low-income families, and to programs and projects which served areas with high concentrations of persons of limited English-speaking ability (as defined in section 3223(a) of this title).
+Subsec. (b)(4). Pub. L. 98–480, §106(3), substituted provisions enumerating the types of programs and projects to be given priority by a State plan under this chapter for provisions which required that the State plan under this chapter set forth the criteria to be used in determining the adequacy of public library services in geographical areas and for groups of persons in the State, including criteria designed to assure that priority would be given to programs or projects which served urban and rural areas with high concentrations of low-income families, and to programs and projects which served areas with high concentrations of persons of limited English-speaking ability (as defined in section 3223(a) of this title).
 
-Subsecs. (c)(1), (3), (d), (e). Pub. L. 98 480, §103(b)(1), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsecs. (c)(1), (3), (d), (e). Pub. L. 98–480, §103(b)(1), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsec. (f). Pub. L. 98 480, §103(b), substituted “Secretary's” for “Commissioner's” in par. (1) and substituted “Secretary” for “Commissioner” two places in par. (1), three places in par. (2), and in par. (3).
+Subsec. (f). Pub. L. 98–480, §103(b), substituted “Secretary's” for “Commissioner's” in par. (1) and substituted “Secretary” for “Commissioner” two places in par. (1), three places in par. (2), and in par. (3).
 
-Subsec. (g). Pub. L. 98 480, §106(4), added subsec. (g).
+Subsec. (g). Pub. L. 98–480, §106(4), added subsec. (g).
 
-1974—Subsec. (b)(4). Pub. L. 93 380 required basic State plan to include criteria to assure that priority will be given to programs and projects which serve areas with high concentrations of persons of limited English-speaking ability (as defined in section 880b 1(a) of this title).
+1974—Subsec. (b)(4). Pub. L. 93–380 required basic State plan to include criteria to assure that priority will be given to programs and projects which serve areas with high concentrations of persons of limited English-speaking ability (as defined in section 880b–1(a) of this title).
 
-1973—Subsec. (a). Pub. L. 93 29 inserted reference to subchapter IV of this chapter.
+1973—Subsec. (a). Pub. L. 93–29 inserted reference to subchapter IV of this chapter.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 254 effective Oct. 1, 1990, see section 25 of Pub. L. 101 254, set out as a note under section 351a of this title.
+Amendment by Pub. L. 101–254 effective Oct. 1, 1990, see section 25 of Pub. L. 101–254, set out as a note under section 351a of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93 380 effective on and after July 1, 1974, see section 841(c) of Pub. L. 93 380.
+Amendment by Pub. L. 93–380 effective on and after July 1, 1974, see section 841(c) of Pub. L. 93–380.
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93 29 effective after June 30, 1973, see section 801(e) of Pub. L. 93 29, set out as an Effective Date note under section 351b of this title.
+Amendment by Pub. L. 93–29 effective after June 30, 1973, see section 801(e) of Pub. L. 93–29, set out as an Effective Date note under section 351b of this title.
 
 #### Effective Date
 
-Section effective after June 30, 1971, see section 2(c)(1) of Pub. L. 91 600, set out as an Effective Date of 1970 Amendment note under section 351 of this title.
+Section effective after June 30, 1971, see section 2(c)(1) of Pub. L. 91–600, set out as an Effective Date of 1970 Amendment note under section 351 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 351a, 351e, 352, 353, 354, 355a, 355c, 355e, 355e 2, 355e 3, 355e 4, 386a of this title.
+This section is referred to in sections 351a, 351e, 352, 353, 354, 355a, 355c, 355e, 355e–2, 355e–3, 355e–4, 386a of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

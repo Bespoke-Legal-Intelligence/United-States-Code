@@ -1,4 +1,4 @@
-### \[§§3305 to 3309 . Repealed. Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880\]
+### \[§§3305 to 3309. Repealed. Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880\]
 
 Section 3305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 189; Aug. 21, 1957, Pub. L. 85–155, title I, §101(16), 71 Stat. 379; Nov. 8, 1967, Pub. L. 90–130, §1(10)(D), (E), 81 Stat. 375, related to promotion of officers in regular grade of lieutenant colonel to grade of colonel. See section 619 et seq. of this title.
 

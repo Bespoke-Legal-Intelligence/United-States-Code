@@ -2,7 +2,7 @@
 
 #### (a) High-cost natural gas
 
-No price paid in any first sale of high-cost natural gas (as defined in section 3317(c)<sup>1</sup> of this title, as such section was in effect on January 1, 1989) may be taken into account in applying any indefinite price escalator clause (as defined in section 3315(b)(3)(B)<sup>1</sup> of this title, as such section was in effect on January 1, 1989) with respect to any first sale of any natural gas other than high-cost natural gas (as defined in section 3317(c)<sup>1</sup> of this title, as such section was in effect on January 1, 1989).
+No price paid in any first sale of high-cost natural gas (as defined in section 3317(c) <sup>1</sup> of this title, as such section was in effect on January 1, 1989) may be taken into account in applying any indefinite price escalator clause (as defined in section 3315(b)(3)(B) <sup>1</sup> of this title, as such section was in effect on January 1, 1989) with respect to any first sale of any natural gas other than high-cost natural gas (as defined in section 3317(c) <sup>1</sup> of this title, as such section was in effect on January 1, 1989).
 
 #### (b) Other transactions
 
@@ -12,21 +12,21 @@ No price paid—
 
 &emsp;(2) pursuant to any order issued under section 3363(b), (c), (d), or (g) of this title,
 
-> may be taken into account in applying any indefinite price escalator clause (as defined in section 3315(b)(3)(B)<sup>1</sup> of this title, as such section was in effect on January 1, 1989).
+> may be taken into account in applying any indefinite price escalator clause (as defined in section 3315(b)(3)(B) <sup>1</sup> of this title, as such section was in effect on January 1, 1989).
 
-(Pub. L. 95 621, title III, §313, Nov. 9, 1978, 92 Stat. 3392; Pub. L. 101 60, §3(b)(3), July 26, 1989, 103 Stat. 159.)
+(Pub. L. 95–621, title III, §313, Nov. 9, 1978, 92 Stat. 3392; Pub. L. 101–60, §3(b)(3), July 26, 1989, 103 Stat. 159.)
 
 #### References in Text
 
-Sections 3315 and 3317 of this title, referred to in text, were repealed effective Jan. 1, 1993, by Pub. L. 101 60, §2(b), July 26, 1989, 103 Stat. 158.
+Sections 3315 and 3317 of this title, referred to in text, were repealed effective Jan. 1, 1993, by Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158.
 
 #### Amendments
 
-1989—Pub. L. 101 60 inserted “, as such section was in effect on January 1, 1989” in four places.
+1989—Pub. L. 101–60 inserted “, as such section was in effect on January 1, 1989” in four places.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101 60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101 60, set out as a note under section 3372 of this title.
+Amendment by Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as a note under section 3372 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;Property shall not be treated as qualified clean-fuel vehicle property unless—
 
-&emsp;&emsp;(A) the motor vehicle of which it is a part meets any applicable Federal or State emissions standards with respect to each fuel bywhich such vehicle is designed to be propelled, or
+&emsp;&emsp;(A) the motor vehicle of which it is a part meets any applicable Federal or State emissions standards with respect to each fuel by which such vehicle is designed to be propelled, or
 
 &emsp;&emsp;(B) in the case of property described in paragraph (1)(A), such property meets applicable Federal and State emissions-related certification, testing, and warranty requirements.
 

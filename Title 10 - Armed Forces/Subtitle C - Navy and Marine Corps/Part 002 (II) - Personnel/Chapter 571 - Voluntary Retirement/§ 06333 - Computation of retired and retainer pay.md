@@ -1,4 +1,4 @@
-### §6333 . Computation of retired and retainer pay
+### §6333. Computation of retired and retainer pay
 
 (a) The monthly retired pay or retainer pay of a member entitled to such pay under this chapter or under section 6383 of this title is computed in accordance with the following table.
 
@@ -9,9 +9,9 @@
 | &nbsp; | For | Column 1 | Column 2 |
 | Formula | sections | Take | Multiply by |
 |  |  |  |  |
-| A | 6325(a) 6326&nbsp;&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | 75 percent. |
+| A | 6325(a)6326&nbsp;&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | 75 percent. |
 |  |  |  |  |
-| B | 6323    6325(b) 6383&nbsp;&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
+| B | 6323   6325(b)6383&nbsp;&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
 |  |  |  |  |
 | C | 6330&nbsp;&nbsp;&nbsp; | Retainer pay base computed under section 1406(d) or 1407 | Retainer pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405..<sup>1</sup> |
 

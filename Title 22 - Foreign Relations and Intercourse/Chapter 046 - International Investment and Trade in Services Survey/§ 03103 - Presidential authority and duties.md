@@ -40,7 +40,7 @@ The President shall conduct a study of the feasibility of establishing a system 
 
 #### (e) Report on cost of monitoring and compiling data on legislation enacted by foreign nations regulating and restricting foreign inward investment
 
-The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretary deems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
+The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretarydeems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
 
 #### (f) Reporting, recordkeeping, and documentation
 
@@ -54,7 +54,7 @@ In collecting information under this chapter, the President shall give due regar
 
 (1) The President, or the designee of the President responsible for monitoring the impact of foreign investment in the United States, coordinating implementation of United States policy on investment, and investigating foreign acquisitions under section 2170 of title 50, Appendix, may request a report from the Bureau of Economic Analysis of the Department of Commerce. When such request is made in connection with an investigation under such section 2170, the report shall be provided within 14 days after the request is made. When such request is not made in connection with an investigation under such section 2170, the report shall be provided within 60 days after the request.
 
-(2) A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of totalinvestment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
+(2) A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
 
 (Pub. L. 94–472, §4, Oct. 11, 1976, 90 Stat. 2060; Pub. L. 95–381, §2, Sept. 22, 1978, 92 Stat. 726; H. Res. 89, Feb. 5, 1979; Pub. L. 97–33, §§1–3, Aug. 7, 1981, 95 Stat. 170; Pub. L. 97–70, Oct. 26, 1981, 95 Stat. 1045; Pub. L. 98–573, title III, §306(b)(3), (4), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, §6(b), (c), Nov. 7, 1990, 104 Stat. 2348.)
 
@@ -88,7 +88,7 @@ Subsecs. (e) to (g). Pub. L. 97–33, §3, added subsec. (e) and redesignated su
 
 #### Change of Name
 
-Committees on Energy and Commerce and Foreign Affairs of House of Representatives changed to Committees on Commerce and International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

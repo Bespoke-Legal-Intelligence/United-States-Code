@@ -24,7 +24,7 @@ The committee shall consist of five members, of whom—
 
 #### (c) Access
 
-The Secretary shall ensure that the members of the committee have full and free access to theIndian human remains and Indian funerary objects subject to section 80q–9 of this title and to any related evidence, including scientific and historical documents.
+The Secretary shall ensure that the members of the committee have full and free access to the Indian human remains and Indian funerary objects subject to section 80q–9 of this title and to any related evidence, including scientific and historical documents.
 
 #### (d) Pay and expenses of members
 

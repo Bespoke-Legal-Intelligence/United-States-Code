@@ -1,14 +1,14 @@
-### §1219 . Coverage of Presidential appointees
+### §1219. Coverage of Presidential appointees
 
 #### (a) In general
 
 #### (1) Application
 
-&emsp;The rights, protections, and remedies provided pursuant to section 1202 and 1207(h) of this title shall apply with respect to employment of Presidential appointees.
+&emsp;The rights, protections, and remedies provided pursuant to section 1202 of this title shall apply with respect to employment of Presidential appointees.
 
 #### (2) Enforcement by administrative action
 
-&emsp;Any Presidential appointee may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, or such other entity as is designated by the President by Executive Order, which, in accordance with the principles and procedures set forth in sections 554 through 557of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission, or such other entity as is designated by the President pursuant to this section, determines that a violation has occurred, the final order shall also provide for appropriate relief.
+&emsp;Any Presidential appointee may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, or such other entity as is designated by the President by Executive Order, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission, or such other entity as is designated by the President pursuant to this section, determines that a violation has occurred, the final order shall also provide for appropriate relief.
 
 #### (3) Judicial review
 
@@ -22,7 +22,7 @@
 
 #### (C) Standard of review
 
-&emsp;&emsp;To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under paragraph (2) if it is determined that the order was—
+&emsp;&emsp;To the extent necessary to decision and when presented, the reviewing court shalldecide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under paragraph (2) if it is determined that the order was—
 
 &emsp;&emsp;&emsp;(i) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 
@@ -46,13 +46,21 @@ For purposes of this section, the term “Presidential appointee” means any of
 
 &emsp;(3) who is a member of the uniformed services.
 
-(Pub. L. 102–166, title III, §320, Nov. 21, 1991, 105 Stat. 1096.)
+(Pub. L. 102–166, title III, §303, formerly §320, Nov. 21, 1991, 105 Stat. 1096; renumbered §303 and amended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
 
 #### References in Text
 
 Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (b)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Prior Provisions
+
+A prior section 303 of Pub. L. 102–166 was classified to section 1203 of this title prior to repeal by Pub. L. 104–1.
+
+#### Amendments
+
+1995—Subsec. (a)(1). Pub. L. 104–1, §504(a)(4), struck out “and 1207(h) of this title” before “shall apply”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1214, 1221, 1224 of this title.
+This section is referred to in section 1202 of this title.
 

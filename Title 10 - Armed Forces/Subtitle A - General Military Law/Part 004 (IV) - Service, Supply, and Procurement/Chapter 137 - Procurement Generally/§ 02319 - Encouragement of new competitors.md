@@ -38,7 +38,7 @@
 
 (2) The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costs under paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act (15 U.S.C. 632).
 
-(e) Within seven years after the establishment of a qualification requirement under subsection\(b) or within seven years following an agency's enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
+(e) Within seven years after the establishment of a qualification requirement under subsection (b) or within seven years following an agency's enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 
 (f) Except in an emergency as determined by the head of the agency, whenever the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not thereafter enforce that qualification requirement unless the agency complies with the requirements of subsection (b).
 

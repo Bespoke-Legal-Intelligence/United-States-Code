@@ -1,4 +1,4 @@
-### \[§§5531 to 5535 . Repealed. Pub. L. 90–235, §2(a)(3), (b), Jan. 2, 1968, 81 Stat. 756\]
+### \[§§5531 to 5535. Repealed. Pub. L. 90–235, §2(a)(3), (b), Jan. 2, 1968, 81 Stat. 756\]
 
 Section 5531, act Aug. 10, 1956, ch. 1041, 70A Stat. 318, provided for recruiting campaigns to obtain enlistments in the Regular Navy and the Regular Marine Corps.
 

@@ -24,7 +24,7 @@ People all over the world recognize the flag of the United States as symbolic of
 
 The effective prosecution of the war requires a proper understanding by the people of other countries of the material assistance being given by the Government of the United States:
 
-NOW, THEREFORE, by virtue of the power vested in me by the Constitution and laws of the United States,particularly by the Joint Resolution approved June 22, 1942, as amended by the Joint Resolution approved December 22, 1942 \[sections 171 to 178 of this title\], as President and Commander in Chief, it is hereby proclaimed as follows:
+NOW, THEREFORE, by virtue of the power vested in me by the Constitution and laws of the United States, particularly by the Joint Resolution approved June 22, 1942, as amended by the Joint Resolution approved December 22, 1942 \[sections 171 to 178 of this title\], as President and Commander in Chief, it is hereby proclaimed as follows:
 
 1\. The use of the flag of the United States or any representation thereof, if approved by the Foreign Economic Administration, on labels, packages, cartons, cases, or other containers for articles or products of the United States intended for export as lend-lease aid, as relief and rehabilitation aid, or as emergency supplies for the Territories and possessions of the United States, or similar purposes, shall be considered a proper use of the flag of the United States and consistent with the honor and respect due to the flag.
 

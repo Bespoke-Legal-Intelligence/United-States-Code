@@ -13,7 +13,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(5), Oct. 5, 1994, 108 Stat. 3016, struck out items 8541 “National Guard Bureau: assignment of officers of regular or reserve components”, and 8542 “Chief and assistant chief of staff of wings of Air National Guard in Federal service: detail”.
+1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(5), Oct. 5, 1994, 108 Stat. 3016, struck out items 8541 “National Guard Bureau: assignment of officers of regular or reserve components” and 8542 “Chief and assistant chief of staff of wings of Air National Guard in Federal service: detail”.
 
 1991—Pub. L. 102–190, div. A, title V, §531(a)(2), Dec. 5, 1991, 105 Stat. 1365, struck out item 8549 “Duties: female members; limitations”.
 

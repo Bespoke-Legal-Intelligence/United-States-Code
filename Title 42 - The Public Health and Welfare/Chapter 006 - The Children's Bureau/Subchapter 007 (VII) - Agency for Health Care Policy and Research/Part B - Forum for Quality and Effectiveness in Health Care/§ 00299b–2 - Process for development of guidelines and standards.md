@@ -40,17 +40,7 @@ Section 5(f)(1)(B) of Pub. L. 102–410 provided that: “The amendments made by
 
 #### Study of Process
 
-Section 5(f)(2) of Pub. L. 102–410 provided that:
-
-“(A) The Administrator for Health Care Policy and Research shall conduct or support a study to evaluate the process described in section 913 of the Public Health Service Act \[this section\] for the development of guidelines, standards, and review criteria. The evaluation shall address—
-
-&emsp;“(i) the optimal methods for setting priorities for guideline topics;
-
-&emsp;“(ii) the different methods for generating guidelines, comparing the cost of producing the guidelines and the validity and utility of the guidelines produced; and
-
-&emsp;“(iii) the methods for assessing the quality of practice guidelines, including an evaluation of the validity, reliability, and impact of the guidelines.
-
-“(B) Not later than June 1, 1995, the Administrator for Health Care Policy and Research shall submit to the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report concerning the study conducted under subparagraph (A).”
+Section 5(f)(2) of Pub. L. 102–410 directed Administrator for Health Care Policy and Research to submit to Congress, not later than June 1, 1995, study and report on process described in this section for development of guidelines, standards, and review criteria, which was to address optimal methods for setting priorities for guideline topics, different methods for generating guidelines, comparing cost of producing guidelines and validity and utility of guidelines produced, and methods for assessing quality of practice guidelines, including evaluation of validity, reliability, and impact of guidelines.
 
 #### Section Referred to in Other Sections
 

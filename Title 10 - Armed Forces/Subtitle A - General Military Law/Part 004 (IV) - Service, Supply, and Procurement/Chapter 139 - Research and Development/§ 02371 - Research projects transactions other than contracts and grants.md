@@ -24,7 +24,7 @@ Conditions.—The Secretary of Defense shall ensure that—
 
 &emsp;(1) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense;
 
-&emsp;(2) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreementcontaining a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction; and
+&emsp;(2) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction; and
 
 &emsp;(3) a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 102–190, §826(c), struck out subsec. (g) which read as f
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

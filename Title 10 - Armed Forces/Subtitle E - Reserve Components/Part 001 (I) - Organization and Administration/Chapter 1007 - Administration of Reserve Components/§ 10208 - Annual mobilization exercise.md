@@ -8,5 +8,5 @@
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 98–525, title V, §552(e), Oct. 19, 1984, 98 Stat. 2531, which was set out in a note under section 12001 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(B).
+Provisions similar to those in this section were contained in Pub. L. 98–525, title V, §552(e), Oct. 19, 1984, 98 Stat. 2531, which was set out in a note under section 12001 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(B).
 

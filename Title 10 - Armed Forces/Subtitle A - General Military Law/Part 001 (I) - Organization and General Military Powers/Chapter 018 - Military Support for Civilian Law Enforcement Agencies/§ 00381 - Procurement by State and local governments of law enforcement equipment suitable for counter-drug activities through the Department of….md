@@ -16,7 +16,7 @@ Procedures.—(1) The Secretary of Defense shall establish procedures in accorda
 
 &emsp;(D) A State requesting law enforcement equipment shall be responsible for arranging and paying for shipment of the equipment to the State and localities within the State.
 
-(2) In establishing the procedures, the Secretary of Defense shall coordinate with the General Services Administration and other Federal agencies for purposes of avoiding duplication of effort.
+(2) In establishing the procedures, the Secretary of Defense shall coordinate with the General Services Administration and other Federalagencies for purposes of avoiding duplication of effort.
 
 (b)
 

@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “parachute payment” means any payment in the nature of compensation to\(or for the benefit of) a disqualified individual if—
+&emsp;&emsp;The term “parachute payment” means any payment in the nature of compensation to (or for the benefit of) a disqualified individual if—
 
 &emsp;&emsp;&emsp;(i) such payment is contingent on a change—
 
@@ -110,7 +110,7 @@ For purposes of this section, the term “disqualified individual” means any i
 
 &emsp;(2) is an officer, shareholder, or highly-compensated individual.
 
-> For purposes of this section, a personal service corporation (or similar entity) shall be treated as an individual. For purposes of paragraph (2), the term “highly-compensated individual” only includes an individual who is (or would be if the individual were an employee) a member of the group consisting of the highest paid 1 percent of the employees of the corporation or, if less, the highest paid 250 employees of the corporation.
+> For purposes of this section, a personal service corporation (or similar entity) shall be treated as an individual. For purposes of paragraph (2),the term “highly-compensated individual” only includes an individual who is (or would be if the individual were an employee) a member of the group consisting of the highest paid 1 percent of the employees of the corporation or, if less, the highest paid 250 employees of the corporation.
 
 #### (d) Other definitions and special rules
 

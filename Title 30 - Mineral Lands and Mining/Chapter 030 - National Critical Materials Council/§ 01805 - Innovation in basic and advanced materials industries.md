@@ -4,7 +4,7 @@
 
 (1) In order to promote the use of more cost-effective, advanced technology and other means of providing for innovation and increased productivity within the basic and advanced materials industries, the Council shall evaluate and make recommendations regarding the establishment of Centers for Industrial Technology as provided in Public Law 96–480 (15 U.S.C. 3705).
 
-(2) The activities of such Centers shall focus on, but not be limited to, the following genericmaterials areas: corrosion; welding and joining of materials; advanced processing and fabrication technologies; microfabrication; and fracture and fatigue.
+(2) The activities of such Centers shall focus on, but not be limited to, the following generic materials areas: corrosion; welding and joining of materials; advanced processing and fabrication technologies; microfabrication; and fracture and fatigue.
 
 #### (b) Mechanism for dissemination of data; establishment; computerization
 

@@ -20,7 +20,7 @@
 
 #### (2) Priorities
 
-&emsp;(A) The Secretary shall establish research and demonstration priorities for makinggrants or contracts for purposes of carrying out paragraph (1)(A) and activities under section 5106 of this title.
+&emsp;(A) The Secretary shall establish research and demonstration priorities for making grants or contracts for purposes of carrying out paragraph (1)(A) and activities under section 5106 of this title.
 
 &emsp;(B) In establishing research and demonstration priorities as required by subparagraph (A), the Secretary shall—
 
@@ -98,7 +98,7 @@ The Secretary shall, through the Center, provide technical assistance to public 
 
 &emsp;(A) The Secretary shall provide grants and contracts under this section from among the projects which the peer review panels established under paragraph (1)(A) have determined to have merit.
 
-&emsp;(B) In the instance in which the Secretary approves an application for a program withouthaving approved all applications ranked above such application (as determined under subsection (e)(2)(B) of this section), the Secretary shall append to the approved application a detailed explanation of the reasons relied on for approving the application and for failing to approve each pending application that is superior in merit, as indicated on the list under subsection (e)(2)(B) of this section.
+&emsp;(B) In the instance in which the Secretary approves an application for a program without having approved all applications ranked above such application (as determined under subsection (e)(2)(B) of this section), the Secretary shall append to the approved application a detailed explanation of the reasons relied on for approving the application and for failing to approve each pending application that is superior in merit, as indicated on the list under subsection (e)(2)(B) of this section.
 
 (Pub. L. 93–247, title I, §105, formerly §6, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §105, Apr. 24, 1978, 92 Stat. 207; Pub. L. 98–457, title I, §105, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 99–401, title I, §104, Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 106; renumbered title I, §105, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(3), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §§112, 141(5), May 28, 1992, 106 Stat. 190, 200.)
 
@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 102–295, §141(5), substituted “disabilities” for “
 
 Subsec. (e)(1)(A). Pub. L. 102–295, §112(c)(1)(A), inserted “and reviewing” after “evaluating”.
 
-Subsec. (e)(1)(B). Pub. L. 102–295, §112(c)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Members of peer review panels shall be appointed by the Secretary from among individuals who are not officers or employees of the Office of Human Development Services. In making appointments to such panels, the Secretary shall include only experts in the field of child abuse and neglect.”
+Subsec. (e)(1)(B). Pub. L. 102–295, §112(c)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Members of peer review panelsshall be appointed by the Secretary from among individuals who are not officers or employees of the Office of Human Development Services. In making appointments to such panels, the Secretary shall include only experts in the field of child abuse and neglect.”
 
 Subsec. (e)(2)(A). Pub. L. 102–295, §112(c)(2)(A), inserted “and evaluate” after “determine”.
 
@@ -156,7 +156,7 @@ Section 103 of Pub. L. 100–294 directed Director of National Center on Child A
 
 #### Study of Guardian-Ad-Litem
 
-Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use ofguardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
+Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
 
 #### High Risk Study
 

@@ -72,7 +72,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 > &emsp;begins before the year 2000; and
 
-&emsp;(ii) the plan sponsor has not established to the satisfaction of the corporation that, during the period of 10 consecutive plan years (or of such lesser number of plan years for which the plan was maintained) immediately preceding the first plan year to which the minimumfunding standards of section 412 of title 26 apply, the total amount of the contributions required under the plan for each plan year was at least equal to the sum of—
+&emsp;(ii) the plan sponsor has not established to the satisfaction of the corporation that, during the period of 10 consecutive plan years (or of such lesser number of plan years for which the plan was maintained) immediately preceding the first plan year to which the minimum funding standards of section 412 of title 26 apply, the total amount of the contributions required under the plan for each plan year was at least equal to the sum of—
 
 &emsp;&emsp;(I) the normal cost for that plan year, and
 
@@ -136,7 +136,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) If an increase in premiums is not so enacted, the revised guarantee schedule described in subparagraph (A)(i) shall go into effect on the first day of the second calendar year following the year in which such revised guarantee schedule was submitted to the Congress.
 
-(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
+(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee onWays and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
 
 &emsp;(i) a revised schedule of increases in the basic-benefit guarantees which can be supported by the existing schedule of basic-benefit premiums for multiemployer plans, and
 
@@ -232,7 +232,7 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted “joint” for
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1989 Amendment
 

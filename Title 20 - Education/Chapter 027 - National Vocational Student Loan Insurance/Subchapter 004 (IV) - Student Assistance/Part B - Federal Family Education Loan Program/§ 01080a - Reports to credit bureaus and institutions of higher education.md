@@ -32,7 +32,7 @@ A guaranty agency, eligible lender, or subsequent holder or credit bureau organi
 
 #### (e) Disclosure to institutions
 
-The Secretary and each guaranty agency, eligible lender, and subsequent holder of a loan are authorized to disclose information described in subsections (a) and (b) of this section concerning student borrowers to the eligible institutions such borrowers attend or previously attended. To further the purpose of this section, an eligible institution may enter into an arrangement with any or all of the holders of delinquent loans made to borrowers who attend or previously attended such institution for the purpose of providing current information regardingthe borrower's location or employment or for the purpose of assisting the holder in contacting and influencing borrowers to avoid default.
+The Secretary and each guaranty agency, eligible lender, and subsequent holder of a loan are authorized to disclose information described in subsections (a) and (b) of this section concerning student borrowers to the eligible institutions such borrowers attend or previously attended. To further the purpose of this section, an eligible institution may enter into an arrangement with any or all of the holders of delinquent loans made to borrowers who attend or previously attended such institution for the purpose of providing current information regarding the borrower's location or employment or for the purpose of assisting the holder in contacting and influencing borrowers to avoid default.
 
 #### (f) Duration of authority
 
@@ -44,33 +44,33 @@ Notwithstanding paragraphs (4) and (6) of subsection (a) of section 605 of the F
 
 &emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 years from the date the loan entered default such subsequent time.
 
-(Pub. L. 89 329, title IV, §430A, as added Pub. L. 99 498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100 50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102 325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103 208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467.)
+(Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467.)
 
 #### References in Text
 
-The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90 321, as added by Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Prior Provisions
 
-A prior section 1080a, Pub. L. 89 329, title IV, §430A, as added Pub. L. 99 272, title XVI, §16023, Apr. 7, 1986, 100 Stat. 349; amended Pub. L. 99 320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–272, title XVI, §16023, Apr. 7, 1986, 100 Stat. 349; amended Pub. L. 99–320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (f)(1). Pub. L. 103 208 substituted a semicolon for the comma at end.
+1993—Subsec. (f)(1). Pub. L. 103–208 substituted a semicolon for the comma at end.
 
-1992—Subsec. (f). Pub. L. 102 325 struck out “or” at end of par. (1), added pars. (2) and (3), and struck out former par. (2) which read as follows: “with regard to an account on a loan on which the Secretary or the guaranty agency has paid a claim but not reported the account to a consumer reporting agency on or before October 1, 1985, 7 years from that date.”
+1992—Subsec. (f). Pub. L. 102–325 struck out “or” at end of par. (1), added pars. (2) and (3), and struck out former par. (2) which read as follows: “with regard to an account on a loan on which the Secretary or the guaranty agency has paid a claim but not reported the account to a consumer reporting agency on or before October 1, 1985, 7 years from that date.”
 
-1987—Subsec. (e). Pub. L. 100 50 inserted sentence at end permitting an eligible institution to enter into arrangements with holders of delinquent loans made to borrowers for purpose of providing current information on borrower's location or employment or to assist holder in contacting and influencing borrower to avoid default.
+1987—Subsec. (e). Pub. L. 100–50 inserted sentence at end permitting an eligible institution to enter into arrangements with holders of delinquent loans made to borrowers for purpose of providing current information on borrower's location or employment or to assist holder in contacting and influencing borrower to avoid default.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1077, 1078 3, 1087cc of this title.
+This section is referred to in sections 1077, 1078–3, 1087cc of this title.
 

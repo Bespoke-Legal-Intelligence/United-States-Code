@@ -6,7 +6,7 @@ The several district courts of the United States are invested with jurisdiction,
 
 #### Prior Provisions
 
-Two prior sections 11 of Pub. L. 89–92 were redesignated section 12 by section 5(a) of Pub. L. 98–474 and are classified to section 1340 of this title and as an Effective Date note under section 1331 of this title.
+Two prior sections 11 of Pub. L. 89–92 were renumbered section 12 by section 5(a) of Pub. L. 98–474 and are classified to section 1340 of this title and as an Effective Date note under section 1331 of this title.
 
 #### Amendments
 

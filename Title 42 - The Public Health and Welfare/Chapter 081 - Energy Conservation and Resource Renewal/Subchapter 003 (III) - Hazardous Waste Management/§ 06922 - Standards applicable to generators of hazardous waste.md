@@ -30,7 +30,7 @@ Effective September 1, 1985, the manifest required by subsection (a)(5) of this 
 
 &emsp;(1) the generator of the hazardous waste has a program in place to reduce the volume or quantity and toxicity of such waste to the degree determined by the generator to be economically practicable; and
 
-&emsp;(2) the proposed method of treatment, storage, or disposal is that practicable methodcurrently available to the generator which minimizes the present and future threat to human health and the environment.
+&emsp;(2) the proposed method of treatment, storage, or disposal is that practicable method currently available to the generator which minimizes the present and future threat to human health and the environment.
 
 (Pub. L. 89–272, title II, §3002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2806; amended Pub. L. 95–609, §7(f), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §8, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §224(a), Nov. 8, 1984, 98 Stat. 3252.)
 

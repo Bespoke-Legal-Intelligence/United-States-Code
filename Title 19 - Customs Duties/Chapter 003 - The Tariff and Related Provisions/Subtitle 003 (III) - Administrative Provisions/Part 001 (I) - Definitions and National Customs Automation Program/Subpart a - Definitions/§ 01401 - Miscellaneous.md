@@ -64,7 +64,7 @@ The term “controlled substance” has the meaning given that term in section 8
 
 #### (n) Electronic transmission
 
-The term “electronic transmission” means the transfer of data or information through an authorized electronic data interchange systemconsisting of, but not limited to, computer modems and computer networks.
+The term “electronic transmission” means the transfer of data or information through an authorized electronic data interchange system consisting of, but not limited to, computer modems and computer networks.
 
 #### (<i>o</i>) Electronic entry
 
@@ -104,7 +104,7 @@ Words “the Philippine Islands” formerly set out in subsec. (h) were omitted 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42 Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42 Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
 
 Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, amending the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, was repealed by section 643 of the act of Sept. 21, 1922, ch. 356, title IV, 42 Stat. 989.
 

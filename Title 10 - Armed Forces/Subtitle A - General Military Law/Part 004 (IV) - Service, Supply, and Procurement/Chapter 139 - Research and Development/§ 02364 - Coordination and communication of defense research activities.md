@@ -2,7 +2,7 @@
 
 (a)
 
-Coordination of Department of Defense Technological Data.—The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
+Coordination of Department of Defense Technological Data.—The Secretary of Defense shall promote, monitor, and evaluate programsfor the communication and exchange of technological data—
 
 &emsp;(1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
 

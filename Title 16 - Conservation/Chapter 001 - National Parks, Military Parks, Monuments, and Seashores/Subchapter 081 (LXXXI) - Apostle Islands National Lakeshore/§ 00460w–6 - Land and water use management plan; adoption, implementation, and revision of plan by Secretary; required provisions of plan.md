@@ -6,7 +6,7 @@ In the administration, protection, and development of the lakeshore, the Secreta
 
 &emsp;(b) development of facilities to provide the benefits of public recreation together with such access roads as he deems appropriate; and
 
-&emsp;(c) preservation of the unique flora and fauna and the physiographic and geologic conditions now prevailing on the Apostle Islands within the lakeshore: <i>Provided</i>, That the Secretary may provide for the public enjoyment and understanding of the unique natural, historical, scientific, and archeological featuresof the Apostle Islands through the establishment of such trails, observation points, exhibits, and services as he may deem desirable.
+&emsp;(c) preservation of the unique flora and fauna and the physiographic and geologic conditions now prevailing on the Apostle Islands within the lakeshore: <i>Provided</i>, That the Secretary may provide for the public enjoyment and understanding of the unique natural, historical, scientific, and archeological features of the Apostle Islands through the establishment of such trails, observation points, exhibits, and services as he may deem desirable.
 
 (Pub. L. 91–424, §7, Sept. 26, 1970, 84 Stat. 881.)
 

@@ -72,11 +72,11 @@ When the Secretary arranges for services pursuant to this section, the Secretary
 
 Any bypass determination by the Secretary under chapter 2 of title I of this Act (as such chapter was in effect on the day preceding October 20, 1994) shall, to the extent consistent with the purposes of this subchapter, apply to programs under this subchapter.
 
-(Pub. L. 89 10, title VI, §6402, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3713.)
+(Pub. L. 89–10, title VI, §6402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3713.)
 
 #### References in Text
 
-Chapter 2 of title I of this Act (as such chapter was in effect on the day preceding October 20, 1994), referred to in subsec. (i), means chapter 2 of title I of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 203, as amended, which was classified generally to div. 2 (§2911 et seq.) of subchapter I of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Chapter 2 of title I of this Act (as such chapter was in effect on the day preceding October 20, 1994), referred to in subsec. (i), means chapter 2 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 203, as amended, which was classified generally to div. 2 (§2911 et seq.) of subchapter I of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 

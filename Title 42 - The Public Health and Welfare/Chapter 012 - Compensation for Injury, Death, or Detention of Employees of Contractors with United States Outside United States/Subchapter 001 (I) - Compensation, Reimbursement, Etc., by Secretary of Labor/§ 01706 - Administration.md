@@ -2,7 +2,7 @@
 
 #### (a) Rules and regulations
 
-The provisions of this subchapter shall be administered by the Secretary of Labor, and theSecretary is authorized to make rules and regulations for the administration thereof and to contract with insurance carriers for the use of the service facilities of such carriers for the purpose of facilitating administration.
+The provisions of this subchapter shall be administered by the Secretary of Labor, and the Secretary is authorized to make rules and regulations for the administration thereof and to contract with insurance carriers for the use of the service facilities of such carriers for the purpose of facilitating administration.
 
 #### (b) Agreements and working arrangements with other agencies, etc.
 

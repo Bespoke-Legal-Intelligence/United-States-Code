@@ -6,7 +6,7 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 &emsp;(2) in the case of a reserve officer who is on the active-duty list or, if not on the active-duty list, is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the officer is involuntarily discharged or released from active duty or full-time National Guard (other than a release from active duty or full-time National Guard duty incident to a transfer to retired status) under other than adverse conditions, as characterized by the Secretary concerned;
 
-&emsp;(3) in the case of a regular enlisted member serving on active duty, the member is (A) denied reenlistment, or (B) involuntarily discharged under other than adverse conditions,as characterized by the Secretary concerned; and
+&emsp;(3) in the case of a regular enlisted member serving on active duty, the member is (A) denied reenlistment, or (B) involuntarily discharged under other than adverse conditions, as characterized by the Secretary concerned; and
 
 &emsp;(4) in the case of a reserve enlisted member who is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the member (A) is denied reenlistment, or (B) is involuntarily discharged or released from active duty (or full-time National Guard) under other than adverse conditions, as characterized by the Secretary concerned.
 
@@ -24,5 +24,5 @@ Section 542(e) of Pub. L. 103–337 provided that: “This section \[amending th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1174a, 1175 of this title; title 20 section 932; title 29 section 1662d–1; title 37 sections 404, 406; title 38 section 3018A.
+This section is referred to in sections 1174a, 1175 of this title; title 20 section 932; title 29 section 1662d–1; title 37 sections 404, 406; title 38 section 3018A; title 42 section 3796dd.
 

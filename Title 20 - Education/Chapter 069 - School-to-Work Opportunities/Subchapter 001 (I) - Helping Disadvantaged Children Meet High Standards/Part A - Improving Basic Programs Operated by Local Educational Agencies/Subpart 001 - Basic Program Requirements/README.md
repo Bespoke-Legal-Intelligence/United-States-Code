@@ -1,6 +1,6 @@
 subpart 1—basic program requirements
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
 
 ---

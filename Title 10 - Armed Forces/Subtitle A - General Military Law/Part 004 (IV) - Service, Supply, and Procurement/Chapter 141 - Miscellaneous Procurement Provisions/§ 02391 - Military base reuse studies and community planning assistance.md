@@ -10,7 +10,7 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
-(3) In the case of a publicly announced planned reduction in Department of Defense spending, the closure or significantly reduced operationsof a defense facility, the cancellation or termination of a Department of Defense contract, or the failure to proceed with a previously approved major defense acquisition program, assistance may be made under paragraph (1) only if the reduction, cancellation, termination, or failure will have a direct and significant adverse impact on a community and will result in the loss of—
+(3) In the case of a publicly announced planned reduction in Department of Defense spending, the closure or significantly reduced operations of a defense facility, the cancellation or termination of a Department of Defense contract, or the failure to proceed with a previously approved major defense acquisition program, assistance may be made under paragraph (1) only if the reduction, cancellation, termination, or failure will have a direct and significant adverse impact on a community and will result in the loss of—
 
 &emsp;(A) 2,500 or more employee positions, in the case of a Metropolitan Statistical Area or similar area (as defined by the Director of the Office of Management and Budget);
 
@@ -52,7 +52,7 @@ Annual Report.—The Secretary of Defense shall submit a report not later than D
 
 Definitions.—In this section:
 
-&emsp;(1) The term “military installation” means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.
+&emsp;(1) The term “military installation” means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any ofthe several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.
 
 &emsp;(2) The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.
 
@@ -62,7 +62,7 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat.2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871.)
 
 #### References in Text
 
@@ -118,7 +118,7 @@ Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesign
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -142,7 +142,7 @@ Section 4301(f) of Pub. L. 102–484 provided that: “Nothing in this section \
 
 #### Pilot Project To Improve Economic Adjustment Planning
 
-Section 4302 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1323(a), Nov. 30, 1993, 107Stat. 1790, authorized Secretary of Defense, during fiscal years 1993 and 1994, to conduct a pilot project to examine methods to improve the provision of economic adjustment and diversification assistance under 10 U.S.C. 2391(b)(1) to State and local governments adversely affected by the closure of military installations, the cancellation or completion of defense contracts, or reductions in defense spending.
+Section 4302 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1323(a), Nov. 30, 1993, 107 Stat. 1790, authorized Secretary of Defense, during fiscal years 1993 and 1994, to conduct a pilot project to examine methods to improve the provision of economic adjustment and diversification assistance under 10 U.S.C. 2391(b)(1) to State and local governments adversely affected by the closure of military installations, the cancellation or completion of defense contracts, or reductions in defense spending.
 
 #### Donation of Real Property to Nonprofit Entities Providing Support to Children With Life-Threatening Diseases
 
@@ -350,7 +350,7 @@ Authorization.—There are authorized to be appropriated to the Secretary of Def
 
 “(b)
 
-Administrative Expenses.—Of amounts appropriated pursuant to this section, not more than five percent may be retained by the Secretary of Labor forthe administration of the activities authorized by the amendment made by section 4202.
+Administrative Expenses.—Of amounts appropriated pursuant to this section, not more than five percent may be retained by the Secretary of Labor for the administration of the activities authorized by the amendment made by section 4202.
 
 #### “TITLE XLIII—EXPANSION OF BUSINESS CAPITAL ASSISTANCE PROGRAMS
 
@@ -430,7 +430,7 @@ Section 2819 of Pub. L. 100–456, as amended by Pub. L. 101–510, div. B, titl
 
 “(a)
 
-Establishment of Commission.—Within 30 days after the date of the enactment of this Act \[Sept. 29, 1988\], the President shall establish a Commission on Alternative Utilization of Military Facilities. The Commission shall be composed of representatives from the Department of Defense, the Bureau of Prisons of the Department of Justice, the National Institute on DrugAbuse of the Department of Health and Human Services, and the General Services Administration.
+Establishment of Commission.—Within 30 days after the date of the enactment of this Act \[Sept. 29, 1988\], the President shall establish a Commission on Alternative Utilization of Military Facilities. The Commission shall be composed of representatives from the Department of Defense, the Bureau of Prisons of the Department of Justice, the National Institute on Drug Abuse of the Department of Health and Human Services, and the General Services Administration.
 
 “(b)
 
@@ -492,7 +492,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Function of the Secretary of Defense</i>. The Secretary of Defense shall, through the Economic Adjustment Committee, design and establish a Defense Economic Adjustment Program.
 
-Sec. 2. <i>Purpose of the Defense Economic Adjustment Program</i>. The Defense Economic Adjustment Program shall assist in the alleviation of serious community socioeconomic effects that result from major Defense base closures, realignments, and Defense contract-related adjustments, and the encroachment of the civilian community on the mission of military installations.
+Sec. 2. <i>Purpose of the Defense Economic Adjustment Program</i>. The Defense Economic Adjustment Program shall assist in the alleviation of serious community socioeconomic effects that result from major Defense base closures, realignments, and Defense contract-relatedadjustments, and the encroachment of the civilian community on the mission of military installations.
 
 Sec. 3. <i>Functions of the Defense Economic Adjustment Program</i>. The Defense Economic Adjustment Program shall:
 

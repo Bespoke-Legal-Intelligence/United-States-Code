@@ -54,7 +54,7 @@ In addition to any other actions taken by the Director (including actions under 
 
 #### (c) Effective date
 
-This section shall take effect upon the first classification of the enterprises within capital classifications that occurs under section 4614 of this title.
+This section shall take effect upon the first classification of the enterprises within capitalclassifications that occurs under section 4614 of this title.
 
 (Pub. L. 102–550, title XIII, §1366, Oct. 28, 1992, 106 Stat. 3978.)
 

@@ -1,6 +1,6 @@
 ### §7272. Restriction on licensing requirement for certain defense activities and facilities
 
-None of the funds authorized to be appropriated by this or any other Act may be used forany purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
+None of the funds authorized to be appropriated by this or any other Act may be used for any purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
 
 (Pub. L. 96–540, title II, §210, Dec. 17, 1980, 94 Stat. 3202.)
 

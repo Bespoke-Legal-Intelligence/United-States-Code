@@ -2,5 +2,5 @@
 
 Where an application for mortgage or loan insurance in connection with a conversion or purchase of a rental housing project being undertaken by a tenants’ organization is submitted, the Secretary of Housing and Urban Development shall expedite the processing of the application in every way and shall make a final decision on such application at the earliest practicable time.
 
-(Pub. L. 96 399, title VI, §607, Oct. 8, 1980, 94 Stat. 1676.)
+(Pub. L. 96–399, title VI, §607, Oct. 8, 1980, 94 Stat. 1676.)
 

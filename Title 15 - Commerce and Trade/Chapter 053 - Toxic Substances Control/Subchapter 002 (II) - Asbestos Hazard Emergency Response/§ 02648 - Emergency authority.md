@@ -14,7 +14,7 @@
 
 #### (2) Limitations on Governor's action
 
-&emsp;The Governor of a State shall notify the Administrator within a reasonable period of time before the Governor plans to take an emergency action under this subsection. After such notification, if the Administrator takes an emergency action with respect to the same hazard, the Governor may not carry out (or continue to carry out, if the action has been started) the emergency action.
+&emsp;The Governor of a State shall notify the Administrator within a reasonable period of time before the Governor plans to take an emergency action under this subsection. After suchnotification, if the Administrator takes an emergency action with respect to the same hazard, the Governor may not carry out (or continue to carry out, if the action has been started) the emergency action.
 
 #### (3) Notification
 
@@ -38,5 +38,5 @@ Upon receipt of evidence that the presence of airborne asbestos or the condition
 
 > to secure such relief as may be necessary to respond to the hazard. The district court of the United States in the district in which the response will be carried out shall have jurisdiction to grant such relief, including injunctive relief.
 
-(Pub. L. 94 469, title II, §208, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2985.)
+(Pub. L. 94–469, title II, §208, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2985.)
 

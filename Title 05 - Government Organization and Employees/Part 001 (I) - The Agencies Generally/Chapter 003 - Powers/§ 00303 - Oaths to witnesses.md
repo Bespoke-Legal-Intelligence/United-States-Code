@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1976—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Cross References
 

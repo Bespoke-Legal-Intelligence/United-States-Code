@@ -6,7 +6,7 @@ Before any such special license to unlade shall be granted, the master, owner, o
 
 #### Prior Provisions
 
-Provisions similar to those of this section, but applying also to the issuance of a permit for immediate lading or unlading after preliminary entry, were contained in act Feb. 13, 1911, ch. 46, §3, 36 Stat. 900, which was superseded in part by act Sept. 21, 1922, ch. 356, title IV, §451, 42 Stat. 954, and was repealed by section 643 thereof. Section 451 of the 1922 act was superseded by section 451 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section, but applying also to the issuance of a permit for immediate lading or unlading after preliminary entry, were contained in act Feb. 13, 1911, ch. 46, §3, 36 Stat. 900, which was superseded in part by act Sept. 21, 1922, ch. 356, title IV, §451, 42 Stat. 954, and was repealed by section 643 thereof. Section 451 of the 1922 act was superseded by section 451 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

@@ -1,0 +1,16 @@
+### §1303. Parity payments
+
+If and when appropriations are made therefor, the Secretary is authorized and directed to make payments to producers of corn, wheat, cotton, rice, or tobacco, on their normal production of such commodities in amounts which, together with the proceeds thereof, will provide a return to such producers which is as nearly equal to parity price as the funds so made available will permit. All funds available for such payments with respect to these commodities shall unless otherwise provided by law, be apportioned to these commodities in proportion to the amount by which each fails to reach the parity income. Such payments shall be in addition to and not in substitution for any other payments authorized by law.
+
+(Feb. 16, 1938, ch. 30, title III, §303, 52 Stat. 45.)
+
+#### Cross References
+
+Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
+
+Rental or benefit payments, see section 608 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 12 section 1150a.
+

@@ -2,7 +2,7 @@
 
 (a)
 
-Uniformity of Regulations.—The Secretary of Transportation may not prescribe a safety regulation related to a motor vehicle subject to subchapter II of chapter 105 of this title that differs from a motor vehicle safety standard prescribed under this chapter. However, the Secretary may prescribe, for a motor vehicle operated by a carrier subject to subchapter II of chapter 105, a safety regulation that imposes a higher standard of performance after manufacture than that required by an applicable standard in effect at the time of manufacture.
+Uniformity of Regulations.—The Secretary of Transportation may not prescribe a safety regulation related to a motor vehicle subject to subchapter I of chapter 135 of this title that differs from a motor vehicle safety standard prescribed under this chapter. However, the Secretary may prescribe, for a motor vehicle operated by a carrier subject to subchapter I of chapter 135, a safety regulation that imposes a higher standard of performance after manufacture than that required by an applicable standard in effect at the time of manufacture.
 
 (b)
 
@@ -26,7 +26,7 @@ Warranty Obligations and Additional Legal Rights and Remedies.—Sections 30117(
 
 Common Law Liability.—Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 943.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 943; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -81,6 +81,14 @@ Subsection (b)(2) is substituted for 15:1392(d) (2d sentence) for consistency an
 In subsection (c), the words “be deemed to” and “of the United States” are omitted as surplus.
 
 In subsection (d), the words “United States” are substituted for “Federal” in 15:1420 for consistency. The words “Consumer” in 15:1420, “not in lieu of” in 15:1410a(e) and 1420, and “not in substitution for” in 15:1394(a)(6) are omitted as surplus. The word “other” is added for clarity.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in two places.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

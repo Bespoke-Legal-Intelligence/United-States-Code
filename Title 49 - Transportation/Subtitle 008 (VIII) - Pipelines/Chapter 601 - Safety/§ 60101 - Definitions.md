@@ -324,7 +324,7 @@ The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(A)(ii), (9)(A) a
 
 #### Effective Date of 1994 Amendment
 
-Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective.
+Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on thedate the regulation required under subsec. (b) of this section is effective.
 
 #### Section Referred to in Other Sections
 

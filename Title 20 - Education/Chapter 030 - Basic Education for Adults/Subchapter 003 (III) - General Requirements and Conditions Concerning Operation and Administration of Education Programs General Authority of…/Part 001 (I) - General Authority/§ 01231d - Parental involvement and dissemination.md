@@ -8,17 +8,17 @@ In the case of any applicable program in which the Secretary determines that par
 
 &emsp;(3) set forth policies and procedures for adequate dissemination of program plans and evaluations to such parents and the public.
 
-(Pub. L. 90 247, title IV, §434, formerly §415, as added Pub. L. 91 230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered §425, Pub. L. 92 318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §427, Pub. L. 93 380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; renumbered §434 and amended Pub. L. 103 382, title II, §§212(b)(1), 244, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, §434, formerly §415, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered §425, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §427, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; renumbered §434 and amended Pub. L. 103–382, title II, §§212(b)(1), 244, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 #### Prior Provisions
 
-A prior section 434 of Pub. L. 90 247 was renumbered section 440, and is classified to section 1232c of this title.
+A prior section 434 of Pub. L. 90–247 was renumbered section 440, and is classified to section 1232c of this title.
 
-Another prior section 434 of Pub. L. 90 247 was renumbered section 444, and was classified to section 1233c of this title prior to repeal by Pub. L. 103 382.
+Another prior section 434 of Pub. L. 90–247 was renumbered section 444, and was classified to section 1233c of this title prior to repeal by Pub. L. 103–382.
 
-Another prior section 434 of Pub. L. 90 247 was classified to section 1232c of this title prior to repeal by Pub. L. 95 561.
+Another prior section 434 of Pub. L. 90–247 was classified to section 1232c of this title prior to repeal by Pub. L. 95–561.
 
 #### Amendments
 
-1994—Pub. L. 103 382, §244, substituted “Secretary determines” for “Commissioner determines” and “the Secretary shall” for “he shall” and inserted “is made” after “such determination”.
+1994—Pub. L. 103–382, §244, substituted “Secretary determines” for “Commissioner determines” and “the Secretary shall” for “he shall” and inserted “is made” after “such determination”.
 

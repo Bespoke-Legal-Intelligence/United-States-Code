@@ -30,7 +30,7 @@ The Secretary shall not deny such license in order to protect any existing licen
 
 (3) A designation made by the Secretary under paragraph (1) shall not be inconsistent with any contract or other arrangement entered into between a United States Government agency and the licensee.
 
-(Pub. L. 102 555, title II, §201, Oct. 28, 1992, 106 Stat. 4171.)
+(Pub. L. 102–555, title II, §201, Oct. 28, 1992, 106 Stat. 4171.)
 
 #### Section Referred to in Other Sections
 

@@ -52,7 +52,7 @@
 
 #### (d) Modification and termination authority
 
-The President may modify or terminate any action taken under subsection (a) of this section if, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
+The President may modify or terminate any action taken under subsection (a) of this sectionif, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
 
 #### (e) Report
 
@@ -66,7 +66,7 @@ Subtitle A, referred to in subsec. (a)(1), is subtitle A (§§1101–1125) of ti
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-Title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.), referred to in subsec. (b)(1)(D), (E), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, popularly known as the Buy American Act, which enacted sections 10a to 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.), referred to in subsec. (b)(1)(D), (E), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(E), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 

@@ -1,4 +1,4 @@
-### §272d . Administration, protection, and development; report to President
+### §272d. Administration, protection, and development; report to President
 
 (a) The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.
 

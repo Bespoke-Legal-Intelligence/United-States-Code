@@ -32,7 +32,7 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;&emsp;(B) other Federal, State, local, and private assistance available for such individuals;
 
-&emsp;(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) of this section in a manner so that local governments, Indian tribes, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient State with such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2) of this section;
+&emsp;(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) of this section in a manner so that local governments, Indian tribes, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient Statewith such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2) of this section;
 
 &emsp;(5) it will develop and implement procedures to ensure the confidentiality of records pertaining to any individual provided family violence prevention or treatment services under any project assisted under this part and that the address or location of any family violence shelter project assisted under this part will, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public;
 
@@ -42,7 +42,7 @@ Each recipient shall certify to the Secretary that—
 
 #### (d) Participation of homeless individuals
 
-The Secretary shall, by regulation, require each recipient that is not a State to provide for the participation of not less than 1 homeless individual or former homeless individual on theboard of directors or other equivalent policymaking entity of such recipient, to the extent that such entity considers and makes policies and decisions regarding any facility, services, or other assistance of the recipient assisted under this part. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+The Secretary shall, by regulation, require each recipient that is not a State to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of such recipient, to the extent that such entity considers and makes policies and decisions regarding any facility, services, or other assistance of the recipient assisted under this part. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (e) Termination of assistance
 

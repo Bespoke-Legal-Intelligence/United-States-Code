@@ -1,4 +1,4 @@
-### §153 . Chairman: functions
+### §153. Chairman: functions
 
 (a)
 
@@ -28,7 +28,7 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 &emsp;(4)
 
-Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, under section 163(b)(2) of this title, on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
+Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, undersection 163(b)(2) of this title, on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
 
 &emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
 

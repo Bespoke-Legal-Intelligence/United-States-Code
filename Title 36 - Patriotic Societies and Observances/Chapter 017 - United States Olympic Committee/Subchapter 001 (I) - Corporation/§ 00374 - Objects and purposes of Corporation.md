@@ -6,7 +6,7 @@ The objects and purposes of the Corporation shall be to—
 
 &emsp;(2) coordinate and develop amateur athletic activity in the United States directly relating to international amateur athletic competition, so as to foster productive working relationships among sports-related organizations;
 
-&emsp;(3) exercise exclusive jurisdiction, either directly or through its constituent members of committees, over all matters pertaining to the participation of the United States in the Olympic Games and in the Pan-American Games, including the representation of the United States in such games, and over the organization of the Olympic Games and the Pan-American Games when held in the United States;
+&emsp;(3) exercise exclusive jurisdiction, either directly or through its constituent members of committees, over all matters pertaining to the participation of the United States in theOlympic Games and in the Pan-American Games, including the representation of the United States in such games, and over the organization of the Olympic Games and the Pan-American Games when held in the United States;
 
 &emsp;(4) obtain for the United States, either directly or by delegation to the appropriate national governing body, the most competent amateur representation possible in each competition and event of the Olympic Games and of the Pan-American Games;
 

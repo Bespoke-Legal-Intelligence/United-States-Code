@@ -8,7 +8,7 @@
 
 #### (2) Matching requirement
 
-&emsp;No advance shall be made after June 30, 1968, unless matched by an equal amount from non-Federal sources. Such equal amount may include the unencumbered non-Federal portion of a reserve fund. As used in the preceding sentence, the term “unencumbered non-Federalportion” means the amount (determined as of the time immediately preceding the making of the advance) of the reserve fund less the greater of—
+&emsp;No advance shall be made after June 30, 1968, unless matched by an equal amount from non-Federal sources. Such equal amount may include the unencumbered non-Federal portion of a reserve fund. As used in the preceding sentence, the term “unencumbered non-Federal portion” means the amount (determined as of the time immediately preceding the making of the advance) of the reserve fund less the greater of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) any amount which is required to be maintained in such fund pursuant to State law or regulation, or by agreement with lenders, as a reserve against the insurance of outstanding loans.
 
-> &emsp;Except as provided in section 1078(c)(10)(E)<sup>1</sup> or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.
+> &emsp;Except as provided in section 1078(c)(10)(E) <sup>1</sup> or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.
 
 #### (3) Terms and conditions; repayment
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(A) in accordance with section 1078(j) of this title, in order to ensure that the guaranty agency shall make loans as the lender-of-last-resort during the transition from the Federal Family Education Loan Program under this part to the Federal Direct Student Loan Program under part C of this subchapter; or
 
-&emsp;&emsp;(B) if the Secretary is seeking to terminate the guaranty agency's agreement, or assuming the guaranty agency's functions, in accordance with section 1078(c)(10)(F)(v)<sup>2</sup> of this title, in order to assist the agency in meeting its immediate cash needs, ensure the uninterrupted payment of claims, or ensure that the guaranty agency shall make loans as described in subparagraph (A).
+&emsp;&emsp;(B) if the Secretary is seeking to terminate the guaranty agency's agreement, or assuming the guaranty agency's functions, in accordance with section 1078(c)(10)(F)(v) <sup>2</sup> of this title, in order to assist the agency in meeting its immediate cash needs, ensure the uninterrupted payment of claims, or ensure that the guaranty agency shall make loans as described in subparagraph (A).
 
 #### (d) Recovery of advances during fiscal years 1988 and 1989
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claims under section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy suchagency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
+&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claims under section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
 
 #### (2) Amount
 
@@ -160,57 +160,57 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (3) Penalties
 
-&emsp;Violation of any direction issued by the Secretary under this subsection may be subject tothe penalties described in section 1097 of this title.
+&emsp;Violation of any direction issued by the Secretary under this subsection may be subject to the penalties described in section 1097 of this title.
 
 #### (4) Availability of funds
 
 &emsp;Any funds that are returned or otherwise recovered by the Secretary pursuant to this subsection shall be available for expenditure for expenses pursuant to section 1087h of this title.
 
-(Pub. L. 89 329, title IV, §422, as added Pub. L. 99 498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100 203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330 36, 1330 38; Pub. L. 102 325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103 66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103 208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460.)
+(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460.)
 
 #### References in Text
 
-Section 1078(c)(10) of this title, referred to in subsecs. (a)(2) and (c)(7)(B), was redesignated section 1078(c)(9) of this title by Pub. L. 103 66, title IV, §4107(a)(2), Aug. 10, 1993, 107 Stat. 368.
+Section 1078(c)(10) of this title, referred to in subsecs. (a)(2) and (c)(7)(B), was redesignated section 1078(c)(9) of this title by Pub. L. 103–66, title IV, §4107(a)(2), Aug. 10, 1993, 107 Stat. 368.
 
 #### Codification
 
-Amendment by Pub. L. 103 208 (which was effective as if included in Pub. L. 102 325) was executed to this section as amended by Pub. L. 102 325 and Pub. L. 103 66, to reflect the probable intent of Congress.
+Amendment by Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 1072, Pub. L. 89 329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89 752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90 575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94 482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95 43, §1(a)(11) (13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95 561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96 374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99 272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insuranceprograms, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (c)(7). Pub. L. 103 66, §4041(a)(2)(A), substituted “to a guaranty agency—” and subpars. (A) and (B) for “to a guaranty agency in accordance with section 1078(c)(10)(F)(v) of this title in order to assist the agency in meeting its immediate cash needs and ensure the uninterrupted payment of default claims by lenders.”
+1993—Subsec. (c)(7). Pub. L. 103–66, §4041(a)(2)(A), substituted “to a guaranty agency—” and subpars. (A) and (B) for “to a guaranty agency in accordance with section 1078(c)(10)(F)(v) of this title in order to assist the agency in meeting its immediate cash needs and ensure the uninterrupted payment of default claims by lenders.”
 
-Subsec. (c)(7)(B). Pub. L. 103 208 substituted a period for semicolon at end. See Codification note above.
+Subsec. (c)(7)(B). Pub. L. 103–208 substituted a period for semicolon at end. See Codification note above.
 
-Subsec. (g). Pub. L. 103 66, §4042, added subsec. (g).
+Subsec. (g). Pub. L. 103–66, §4042, added subsec. (g).
 
-1992—Subsec. (a)(2). Pub. L. 102 325, §412(1), inserted at end “Except as provided in section 1078(c)(10)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.”
+1992—Subsec. (a)(2). Pub. L. 102–325, §412(1), inserted at end “Except as provided in section 1078(c)(10)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.”
 
-Subsec. (c)(5), (7). Pub. L. 102 325, §416(p)(8), substituted “Except as provided in paragraph (7), advances” for “Advances” in par. (5) and added par. (7).
+Subsec. (c)(5), (7). Pub. L. 102–325, §416(p)(8), substituted “Except as provided in paragraph (7), advances” for “Advances” in par. (5) and added par. (7).
 
-Subsecs. (e), (f). Pub. L. 102 325, §412(2), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 102–325, §412(2), added subsecs. (e) and (f).
 
-1987—Subsec. (e). Pub. L. 100 203, §3002(a), struck out subsec. (e) which related to reduction of excess cash reserves.
+1987—Subsec. (e). Pub. L. 100–203, §3002(a), struck out subsec. (e) which related to reduction of excess cash reserves.
 
-Pub. L. 100 203, §3001(a), added subsec. (e).
+Pub. L. 100–203, §3001(a), added subsec. (e).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 3002(a) of Pub. L. 100 203 provided that the amendment made by that section 3002(a) is effective Sept. 30, 1989.
+Section 3002(a) of Pub. L. 100–203 provided that the amendment made by that section 3002(a) is effective Sept. 30, 1989.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1071, 1073, 1078, 1081, 1087h of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

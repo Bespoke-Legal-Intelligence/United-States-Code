@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in paragraph (2), the sum of the amounts obligated in any fiscal year for administrative expenses of the National Institutes of Health may not exceed an amount which is 5.5 percent of the total amount appropriated for such fiscal year for the National Institutes of Health.
 
-(2) Paragraph (1) does not apply to the National Library of Medicine, the National Center for Nursing Research, the John E. Fogarty International Center for Advanced Study in the Health Sciences, the Warren G. Magnuson Clinical Center, and the Office of Medical Applications of Research.
+(2) Paragraph (1) does not apply to the National Library of Medicine, the National Center for Nursing Research, the John E. Fogarty International Center for Advanced Study in theHealth Sciences, the Warren G. Magnuson Clinical Center, and the Office of Medical Applications of Research.
 
 (3) For purposes of paragraph (1), the term “administrative expenses” means expenses incurred for the support of activities relevant to the award of grants, contracts, and cooperative agreements and expenses incurred for general administration of the scientific programs and activities of the National Institutes of Health. In identifying expenses incurred for such support and administration the Secretary shall consult with the Comptroller General of the United States.
 
@@ -20,7 +20,7 @@
 
 “(1)(A) For the National Cancer Institute (other than its programs under section 285a–1 of this title), there are authorized to be appropriated $1,194,000,000 for fiscal year 1986, $1,270,000,000 for fiscal year 1987, and $1,344,000,000 for fiscal year 1988.
 
-“(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
+“(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000 for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
 
 “(2)(A) For the National Heart, Lung, and Blood Institute (other than its programs under section 285b–1 of this title), there are authorized to be appropriated $809,000,000 for fiscal year 1986, $871,000,000 for fiscal year 1987, and $927,000,000 for fiscal year 1988. Of the amount appropriated under this subsection for such fiscal year, not less than 15 percent of such amount shall be reserved for programs respecting diseases of the lung and not less than 15 percent of such amount shall be reserved for programs respecting blood diseases and blood resources.
 

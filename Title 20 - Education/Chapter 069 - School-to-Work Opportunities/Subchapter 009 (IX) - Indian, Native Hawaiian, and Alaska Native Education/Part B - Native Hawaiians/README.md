@@ -2,7 +2,7 @@ Part B—Native Hawaiians
 
 #### Prior Provisions
 
-Provisions similar to those in this part were contained in chapter 61 (§4901 et seq.) of this title prior to repeal by Pub. L. 103 382, §363.
+Provisions similar to those in this part were contained in chapter 61 (§4901 et seq.) of this title prior to repeal by Pub. L. 103–382, §363.
 
 #### Part Referred to in Other Sections
 

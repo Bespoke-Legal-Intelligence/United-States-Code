@@ -12,7 +12,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(i) a maximum contaminant level, if, in the judgment of the Administrator, it is economically and technologically feasible to ascertain the level of such contaminant in water in public water systems, or
 
-&emsp;&emsp;&emsp;(ii) if, in the judgment of the Administrator, it is not economically or technologically feasible to so ascertain the level of such contaminant, each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1 of this title; and
+&emsp;&emsp;&emsp;(ii) if, in the judgment of the Administrator, it is not economically or technologically feasible to so ascertain the level of such contaminant, each treatment technique known to the Administrator whichleads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1 of this title; and
 
 &emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
 
@@ -78,7 +78,7 @@ Section 2(e) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Sho
 
 #### Safe Drinking Water Amendments of 1977 as Not Affecting Authority of Administrator With Respect to Contaminants
 
-Section 3(e)(2) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act \[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
+Section 3(e)(2) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act\[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
 
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations
 

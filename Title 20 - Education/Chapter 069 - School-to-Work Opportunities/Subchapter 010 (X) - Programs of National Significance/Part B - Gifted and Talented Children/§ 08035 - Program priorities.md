@@ -12,5 +12,5 @@ In the administration of this part the Secretary shall give highest priority—
 
 In approving applications for assistance under section 8034(a)(2) of this title, the Secretary shall assure that in each fiscal year at least one-half of the applications approved under such section address the priority described in subsection (a)(1) of this section.
 
-(Pub. L. 89 10, title X, §10205, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3823.)
+(Pub. L. 89–10, title X, §10205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3823.)
 

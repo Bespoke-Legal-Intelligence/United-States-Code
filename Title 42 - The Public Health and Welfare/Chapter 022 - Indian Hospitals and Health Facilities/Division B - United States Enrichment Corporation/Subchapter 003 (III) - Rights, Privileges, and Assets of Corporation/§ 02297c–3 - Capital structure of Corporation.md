@@ -30,7 +30,7 @@ Except as otherwise specifically provided in this division, the Corporation shal
 
 #### (d) Sole recovery of unrecovered costs
 
-Receipt by the United States of the proceeds from the sale of stock issued by the Corporation under subsection (a)(1) of this section, and the dividends paid under subsection (b) of this section, shall constitute the sole recovery by the United States of previously unrecovered costs (including depreciation and imputed interest on original plant investments in the Department's gaseous diffusion plants) that have been incurred by the United States for uranium enrichment activities prior to the transition date.
+Receipt by the United States of the proceeds from the sale of stock issued by the Corporationunder subsection (a)(1) of this section, and the dividends paid under subsection (b) of this section, shall constitute the sole recovery by the United States of previously unrecovered costs (including depreciation and imputed interest on original plant investments in the Department's gaseous diffusion plants) that have been incurred by the United States for uranium enrichment activities prior to the transition date.
 
 (Aug. 1, 1946, ch. 724, title II, §1404, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2935.)
 

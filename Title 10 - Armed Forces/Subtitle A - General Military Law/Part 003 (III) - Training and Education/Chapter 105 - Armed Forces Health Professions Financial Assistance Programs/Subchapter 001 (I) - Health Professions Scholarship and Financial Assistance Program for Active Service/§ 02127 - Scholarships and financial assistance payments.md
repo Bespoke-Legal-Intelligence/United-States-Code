@@ -8,7 +8,7 @@
 
 (d) When the Secretary of Defense determines, under regulations prescribed by the Secretary of Health and Human Services, that an accredited civilian educational institution has increased its total enrollment for the sole purpose of accepting members of the program covered by this subchapter, he may provide under a contract with such an institution for additional payments to cover the portion of the increased costs of the additional enrollment which are not covered by the institution's normal tuition and fees.
 
-(e) A person participating as a member of the program in specialized training shall be paid an annual grant of $15,000 in addition to the stipend under section 2121(d) of this title. The amount of the grant shall be increased annually by the Secretary of Defense, effective July 1 of each year, in the same manner as provided for stipends.
+(e) A person participating as a member of the program in specialized training shall be paid an annual grant of $15,000 in addition to the stipend under section 2121(d) of this title. The amount of the grant shall be increased annually by theSecretary of Defense, effective July 1 of each year, in the same manner as provided for stipends.
 
 (Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, §3(b)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(d)(1), (2), Nov. 29, 1989, 103 Stat. 1479.)
 

@@ -70,7 +70,7 @@ The Administration may, upon such terms and conditions as it may prescribe, adop
 
 (1) Each participating surety shall make reports to the Administration at such times and in such form as the Administration may require.
 
-(2) The Administration may at all reasonable times audit, in the offices of a participating surety, all documents, files, books, records, andother material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.
+(2) The Administration may at all reasonable times audit, in the offices of a participating surety, all documents, files, books, records, and other material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.
 
 (3) Each surety participating under the authority of paragraph (3) of subsection (a) of this section shall be audited at least once each year by examiners selected and approved by the Administration.
 
@@ -116,11 +116,11 @@ Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 
 1974—Subsec. (a). Pub. L. 93–386, §6(a)(3), substituted “$1,000,000” for “$500,000”.
 
-Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
+Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be doneto make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Section 207 of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188, provided that: “The provisions contained in section 411(a)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective after September 30, 1995.”
+Section 207 of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297, provided that: “The provisions contained in section 411(a)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective after September 30, 1997.”
 
 Section 209 of title II of Pub. L. 100–590 provided that: “Except as otherwise provided in this title, the provisions of this title \[amending this section and section 694c of this title and enacting provisions set out as notes under this section\], shall become effective upon expiration of one hundred and eighty days after the date of its enactment \[Nov. 3, 1988\].”
 
@@ -134,141 +134,11 @@ Section 205 of title II of Pub. L. 100–590 provided that: “The Administratio
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, provided that:
-
-#### “SEC. 301. SHORT TITLE.
-
-“This subtitle may be cited as the ‘Small Business Access to Surety Bonding Survey Act of 1992’.
-
-#### “SEC. 302. SURVEY.
-
-“(a)
-
-In General.—The Comptroller General shall conduct a comprehensive survey of business firms, including using a questionnaire described in subsection (b), to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms.
-
-“(b)
-
-Content of Survey Questionnaire.—In addition to such other questions as the Comptroller General deems appropriate to ensure a comprehensive survey under subsection (a), the questionnaire used by the Comptroller General shall include questions to obtain information from a surveyed business on—
-
-&emsp;“(1) the frequency with which the firm was requested to provide a corporate surety bond in fiscal year 1992;
-
-&emsp;“(2) whether the frequency with which the firm was requested to provide a corporate surety bond increased or decreased in fiscal years 1990, 1991, and 1992 and the reason for any increase or decrease, if known;
-
-&emsp;“(3) the frequency with which the firm provided a corporate surety bond in fiscal year 1992;
-
-&emsp;“(4) whether the frequency with which the firm provided a corporate surety bond increased or decreased in fiscal years 1990, 1991, and 1992 and the reason for any increase or decrease, if known;
-
-&emsp;“(5) the average size of corporate surety bonds provided by the firm in fiscal year 1992;
-
-&emsp;“(6) whether the average size of the corporate surety bonds provided by the firm increased or decreased during fiscal years 1990, 1991, and 1992 and the reason for any increase or decrease, if known;
-
-&emsp;“(7) the dollar amount of the largest corporate surety bond provided by the firm in fiscal year 1992;
-
-&emsp;“(8) whether the dollar amount of the largest corporate surety bond provided by the firm increased or decreased in fiscal years 1990, 1991, and 1992 and the reason for any increase or decrease, if known;
-
-&emsp;“(9) the dollar amount of work performed by the firm by type of construction owner, including the Federal Government, State and local governments, other public entities, and private entities, in each of fiscal years 1990, 1991, and 1992;
-
-&emsp;“(10) the dollar amount of such work bonded by a corporate surety company for the firm by type of construction owner, including construction owners referred to in paragraph (9), for each of fiscal years 1990, 1991, and 1992;
-
-&emsp;“(11) whether the firm purchased its corporate surety bonds through an insurance agent or directly from a surety company;
-
-&emsp;“(12) the means used by the firm to identify its source for the purchase of corporate surety bonds;
-
-&emsp;“(13) the average corporate surety bond premium (expressed as a percentage of contract amount) paid by the firm in fiscal year 1992;
-
-&emsp;“(14) any increase or decrease in the average corporate surety bond premium (expressed as a percentage of the contract amount) paid by the firm in fiscal years 1990, 1991, and 1992 and the reason for any increase or decrease, if known;
-
-&emsp;“(15) whether or not the underwriting requirements (including state of accounts receivable, financial procedures, need for personal indemnification, and requirements for collateral) changed in fiscal year 1990, 1991, or 1992;
-
-&emsp;“(16) the nature of any changes in underwriting requirements experienced by the firm in fiscal years 1990, 1991, and 1992 and the reason for any such changes, if known;
-
-&emsp;“(17) whether or not the source of surety bonds (a surety agent or company) provided reasons for such changes in underwriting requirements and whether these reasons were provided orally or in writing;
-
-&emsp;“(18) whether or not the bonding capacity (total dollar amount and number of bonds) for the firm changed in fiscal year 1990, 1991, or 1992;
-
-&emsp;“(19) whether or not the source of surety bonds (a surety agent or company) provided reasons for any changes in bonding capacity and whether these reasons were provided orally or in writing;
-
-&emsp;“(20) the services provided and advice given by the firm's source of corporate surety bonds in fiscal years 1990, 1991, and 1992;
-
-&emsp;“(21) whether or not the firm obtained a corporate surety bond with the assistance of a Federal program (such as the surety bond guarantee program of the Small Business Administration and the bonding assistance program of the Department of Transportation) or a State or local program in fiscal year 1990, 1991, or 1992;
-
-&emsp;“(22) whether or not the firm used any alternative to corporate surety bonds (such as individual surety bonds, letters of credit, certificates of deposit, and government securities) in fiscal year 1990, 1991, or 1992;
-
-&emsp;“(23) if the firm has not provided any corporate surety bonds in fiscal year 1990, 1991, or 1992, the reasons the firm has not done so;
-
-&emsp;“(24) the number of times the firm has had an application for a corporate surety bond denied in fiscal years 1990, 1991, and 1992, and the reason for any such denial, if known;
-
-&emsp;“(25) whether or not the proposed source for the corporate surety bond (a surety agent or company) provided the reasons for its denial of that application and whether that explanation was provided orally or in writing;
-
-&emsp;“(26) the length of time the firm has been in business;
-
-&emsp;“(27) the number of years of construction experience of the firm's officers (if a corporation), partners, or owner (if a sole proprietorship), and those responsible for managing the execution of the firm's construction operations, and how many years of such experience is in the type of construction that provides the majority of the firm's annual sales volume;
-
-&emsp;“(28) the approximate annual sales volume of the firm in fiscal years 1990, 1991, and 1992;
-
-&emsp;“(29) the net worth (total assets less total liabilities) of the firm at the close of the firm's most recent fiscal year;
-
-&emsp;“(30) the working capital (current assets less current liabilities) of the firm at the close of the firm's most recent fiscal year;
-
-&emsp;“(31) the average age of the firm's accounts receivable (the average number of days required to collect payments due);
-
-&emsp;“(32) whether the firm made a profit in fiscal year 1990, 1991, or 1992;
-
-&emsp;“(33) the form and frequency of such firm's financial statements (statements audited and certified by an independent certified public accountant, statements reviewed by such a certified public accountant, compilation financial statements, or other forms of financial statements), and whether such statements were furnished with applications for bonding, if requested; and
-
-&emsp;“(34) the 4-digit standard industrial classification code in which the firm performs the majority of its work.
-
-“(c)
-
-Firms To Be Surveyed.—The Comptroller General shall develop a statistically valid sample of business firms from the most recent list of construction firms maintained by the Dun and Bradstreet Company (identified as the ‘DUN Market Identifier’ file) for which data regarding sales is available.
-
-#### “SEC. 303. REPORT.
-
-“(a)
-
-In General.—Not later than 18 months after the date of enactment of this Act \[Sept. 4, 1992\], the Comptroller General, in consultation with the Small Business Administration, shall conduct an assessment of the data obtained in the survey conducted pursuant to section 302 and submit to the Committees on Small Business of the Senate and the House of Representatives a report on the results of such assessment.
-
-“(b)
-
-Contents of the Report.—
-
-&emsp;“(1)
-
-In general.—The report required by subsection (a) shall contain—
-
-&emsp;&emsp;“(A) a summary of responses of business firms to the survey conducted pursuant to section 302; and
-
-&emsp;&emsp;“(B) a description of any trends found by the Comptroller General in such responses.
-
-&emsp;“(2)
-
-Information on small business concerns.—In presenting summaries of responses and descriptions of trends pursuant to paragraph (1), the Comptroller General shall provide specific information on the responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
-
-#### “SEC. 304. DEFINITIONS.
-
-“For purposes of this subtitle—
-
-&emsp;“(1) the term ‘fiscal year’ means the fiscal year of the business firm being surveyed;
-
-&emsp;“(2) the term ‘small business concern’ has the same meaning as in section 3 of the Small Business Act (15 U.S.C. 632);
-
-&emsp;“(3) the term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the same meaning as in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)) (as redesignated by section 232(a)(6) of this Act); and
-
-&emsp;“(4) the term ‘small business concern owned and controlled by women’ has the same meaning as in section 127(d) of the Small Business Administration Reauthorization and Amendment Act of 1988 (15 U.S.C. 637 note).”
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 
-Section 206 of title II of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, provided that:
-
-“(a) not \[sic\] later than three years after the date of enactment of this Act \[Nov. 3, 1988\] the Comptroller General of the United States shall transmit a report to the Small Business Committees of the Senate and House of Representatives, which evaluates—
-
-&emsp;“(1) the amendments made by this title \[amending this section and section 694c of this title\],
-
-&emsp;“(2) whether participation in the program by standard surety firms has been expanded, and
-
-&emsp;“(3) whether access to bonds by small business concerns especially small business concerns owned and controlled by socially and economically disadvantaged individuals has been improved.
-
-“(b) The report required by subsection (a) shall be transmitted not later than March 1, 1994 and cover the period October 1, 1990 through September 30, 1993.”
+Section 206 of title II of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
 
 #### Section Referred to in Other Sections
 

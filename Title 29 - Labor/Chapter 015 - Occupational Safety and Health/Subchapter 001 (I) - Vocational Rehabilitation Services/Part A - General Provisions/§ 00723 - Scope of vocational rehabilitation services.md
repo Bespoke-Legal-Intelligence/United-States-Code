@@ -100,7 +100,7 @@ Subsec. (a)(13) to (16). Pub. L. 102–569, §124(a)(6), (8), added pars. (13) t
 
 Subsec. (b)(1). Pub. L. 102–569, §§102(p)(9)(B), 124(b)(1), substituted “In the case” for “in the case”, “disabilities” for “handicaps”, and a period for semicolon at end.
 
-Subsec. (b)(2). Pub. L. 102–569, §124(b)(2), substituted “The establishment, development, or improvement of community rehabilitation programs, including, under special circumstances, the construction of a facility, and the provision of other services (including services offered at community rehabilitation programs)” for “the construction or establishment of public or nonprofit rehabilitation facilities and the provision of other facilities and services (including services offered at rehabilitation facilities)” and a period for semicolon after “disability” and inserted at end “Such programsshall be used to provide services that promote integration and competitive employment.”
+Subsec. (b)(2). Pub. L. 102–569, §124(b)(2), substituted “The establishment, development, or improvement of community rehabilitation programs, including, under special circumstances, the construction of a facility, and the provision of other services (including services offered at community rehabilitation programs)” for “the construction or establishment of public or nonprofit rehabilitation facilities and the provision of other facilities and services (including services offered at rehabilitation facilities)” and a period for semicolon after “disability” and inserted at end “Such programs shall be used to provide services that promote integration and competitive employment.”
 
 Pub. L. 102–569, §102(p)(9)(A), substituted “individual with a disability” for “individual with handicaps”.
 

@@ -16,7 +16,7 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(A) procure the temporary or intermittent services of experts or consultants under section 3109 of title 5;
 
-&emsp;(B) make agreements and other transactions necessary to carry out this chapter withoutregard to section 3709 of the Revised Statutes (41 U.S.C. 5);
+&emsp;(B) make agreements and other transactions necessary to carry out this chapter without regard to section 3709 of the Revised Statutes (41 U.S.C. 5);
 
 &emsp;(C) use, when appropriate, available services, equipment, personnel, and facilities of a department, agency, or instrumentality of the United States Government on a reimbursable or other basis;
 
@@ -40,7 +40,7 @@ Submission of Certain Copies to Congress.—When the Board submits to the Presid
 
 (d)
 
-Liaison Committees.—The Chairman may determine the number of committees that are appropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
+Liaison Committees.—The Chairman may determine the number of committees that areappropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
 
 (e)
 
@@ -136,7 +136,7 @@ In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is
 
 In subsection (b)(1)(B), the words “make agreements and other transactions” are substituted for “enter into . . . such contracts, leases, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “to carry out this chapter” are substituted for “in the conduct of the functions and the duties of the Board under this chapter” for consistency. The words “with any government entity or any person” are omitted as surplus.
 
-In subsection (b)(1)(C), the words “Department of Transportation and of other” are omitted as surplus.The words “department, agency, or instrumentality of the United States Government” are substituted for “civilian or military agencies and instrumentalities of the Federal Government” in 49 App.:1903(b)(6)(A) for consistency in the revised title and with other titles of the Code. The text of 49 App.:1441(b) (words after semicolon) is omitted as superseded by 49 App.:1903(b)(6)(A).
+In subsection (b)(1)(C), the words “Department of Transportation and of other” are omitted as surplus. The words “department, agency, or instrumentality of the United States Government” are substituted for “civilian or military agencies and instrumentalities of the Federal Government” in 49 App.:1903(b)(6)(A) for consistency in the revised title and with other titles of the Code. The text of 49 App.:1441(b) (words after semicolon) is omitted as superseded by 49 App.:1903(b)(6)(A).
 
 In subsection (b)(1)(D), the word “available” is omitted as surplus.
 

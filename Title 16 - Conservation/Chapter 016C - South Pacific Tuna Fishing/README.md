@@ -27,6 +27,7 @@
 | (e) | Allocation system. |
 | (f) | Minimum fees required to be received in initial year of implementation for forwarding and transmittal of license applications. |
 | (g) | Grounds for denial of forwarding of license application. |
+| (h) | Grandfathering of vessels documented before November 3, 1995. |
 | [973h.](%C2%A7%2000973h%20-%20Enforcement.md) | Enforcement. |
 | (a) | Federal responsibilities; utilization of personnel, etc., of other Federal and State agencies. |
 | (b) | Investigation and report of alleged Treaty infringement involving U.S. vessel; notice requirements to operator of vessel; comments, information, or evidence by operator. |

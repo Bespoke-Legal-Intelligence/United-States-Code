@@ -18,7 +18,7 @@ In order to encourage the commercial production of electric and hybrid vehicles,
 
 #### (c) Maximum amount of loan guarantee
 
-Any guarantee under this section shall apply only to so much of the principal amount of theloan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
+Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
 
 #### (d) Terms and conditions of guarantee
 
@@ -54,7 +54,7 @@ As used in this section, the term “qualified borrower” means any partnership
 
 #### (g) Payment of principal and interest; default; recovery of losses
 
-(1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges whichbecome due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
+(1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges which become due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
 
 &emsp;(A) that the borrower is unable to meet principal and interest charges, that it is in the public interest to permit the borrower to continue to pursue the purposes of the project, and that the probable net cost to the Federal Government in paying such principal will be less than that which would result in the event of a default; and
 
@@ -74,31 +74,31 @@ An applicant seeking a guarantee under this section must be a citizen or nationa
 
 The full faith and credit of the United States is pledged to the payment of all obligations incurred under this section.
 
-(Pub. L. 94 413, §10, Sept. 17, 1976, 90 Stat. 1267; Pub. L. 95 91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95 238, title VI, §603, Feb. 25, 1978, 92 Stat. 93; Pub. L. 103 437, §5(d)(2), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 94–413, §10, Sept. 17, 1976, 90 Stat. 1267; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, §603, Feb. 25, 1978, 92 Stat. 93; Pub. L. 103–437, §5(d)(2), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### Codification
 
-In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-1994—Subsec. (e)(1). Pub. L. 103 437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
+1994—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
 
-1978—Subsec. (e)(3). Pub. L. 95 238, §603(a)(1), added par. (3).
+1978—Subsec. (e)(3). Pub. L. 95–238, §603(a)(1), added par. (3).
 
-Subsec. (g). Pub. L. 95 238, §603(b), inserted provisions relating to payment of principal by the Administrator.
+Subsec. (g). Pub. L. 95–238, §603(b), inserted provisions relating to payment of principal by the Administrator.
 
-Subsec. (h). Pub. L. 95 238, §603(c), substituted “7” for “5”.
+Subsec. (h). Pub. L. 95–238, §603(c), substituted “7” for “5”.
 
-Subsec. (j). Pub. L. 95 238, §603(a)(2), added subsec. (j).
+Subsec. (j). Pub. L. 95–238, §603(a)(2), added subsec. (j).
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Administrator” in subsecs. (b), (d), (e)(1), (f), and (i) pursuant to section 301(a) of Pub. L. 95 91, see Codification note set out under section 2502 of this title.
+“Secretary of Energy” substituted for “Administrator” in subsecs. (b), (d), (e)(1), (f), and (i) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
 #### Section Referred to in Other Sections
 

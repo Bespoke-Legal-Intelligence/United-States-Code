@@ -34,11 +34,11 @@ The Secretary shall consult with agencies and organizations that are engaged in 
 
 The Secretary shall provide for the continuation of data collection on limited English proficient students as part of the data systems operated by the Department.
 
-(Pub. L. 89 10, title VII, §7132, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3729.)
+(Pub. L. 89–10, title VII, §7132, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3729.)
 
 #### Research Relating to Bilingual Education
 
-Section 6211 of title VI of Pub. L. 100 297 provided that:
+Section 6211 of title VI of Pub. L. 100–297 provided that:
 
 “(a)
 

@@ -6,7 +6,7 @@ The Director of each facility that is maintained as a separate establishment of 
 
 &emsp;(1) A will or other instrument of a testamentary nature involving property rights executed by a resident shall be promptly delivered, upon the death of the resident, to the proper court of record.
 
-&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shallretain all property left by the decedent for a three-year period beginning on the date of the death. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
+&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shall retain all property left by the decedent for a three-year period beginning on the date of the death. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
 
 &emsp;&emsp;(A) The surviving spouse or legal representative.
 
@@ -93,4 +93,8 @@ Subsec. (b). Pub. L. 103–160, §366(e), amended heading and text of subsec. (b
 #### Effective Date
 
 Section applicable to estate of each resident of Armed Forces Retirement Home, including United States Soldiers’ and Airmen's Home and Naval Home, who dies after Nov. 29, 1989, see section 1541(d) of Pub. L. 101–510, set out as a note under section 401 of this title.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 

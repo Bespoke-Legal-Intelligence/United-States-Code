@@ -8,7 +8,7 @@ The President shall issue, and may alter and amend, such regulations as may be n
 
 As a condition of participation in the distribution of assistance or supplies under this chapter or of receiving assistance under this chapter, governmental bodies and other organizations shall be required to comply with regulations relating to nondiscrimination promulgated by the President, and such other regulations applicable to activities within an area affected by a major disaster or emergency as he deems necessary for the effective coordination of relief efforts.
 
-(Pub. L. 93–288, title III, §308, formerly §311, May 22, 1974, 88 Stat. 150; renumbered §308 andamended Pub. L. 100–707, title I, §105(f), Nov. 23, 1988, 102 Stat. 4691.)
+(Pub. L. 93–288, title III, §308, formerly §311, May 22, 1974, 88 Stat. 150; renumbered §308 and amended Pub. L. 100–707, title I, §105(f), Nov. 23, 1988, 102 Stat. 4691.)
 
 #### Prior Provisions
 

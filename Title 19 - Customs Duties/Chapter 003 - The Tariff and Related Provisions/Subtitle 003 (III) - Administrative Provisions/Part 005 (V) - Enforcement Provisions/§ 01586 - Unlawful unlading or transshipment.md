@@ -28,9 +28,9 @@ Whenever any part of the cargo or stores of a vessel has been unladen or transsh
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §§586, 587,42 Stat. 980, 981. These sections were superseded by section 586 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §§586, 587,42 Stat. 980, 981. These sections were superseded by section 586 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions somewhat similar to those of this section, but applicable only to vessels “bound to the United States” were contained in R.S. §2867, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provisions somewhat similar to those in this section, but applicable only to vessels “bound to the United States” were contained in R.S. §2867, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 Provisions substantially the same in effect as those contained in the act of 1922, §587, except that the penalty was treble the value of the merchandise, and the provision for forfeiture applied only to the vessel was contained in R.S. §2868, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

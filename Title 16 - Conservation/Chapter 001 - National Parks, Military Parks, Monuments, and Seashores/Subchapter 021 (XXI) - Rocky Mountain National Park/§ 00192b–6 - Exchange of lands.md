@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to exchange in the manner and to the
 
 (2) In exchange for the foregoing, the Secretary is authorized to accept from the Colorado Transportation Company the land and interests therein located in Rocky Mountain National Park, described in section 192b–8 of this title as parcels C and D, together with such other privately owned land and interests in land within the park as he may designate;
 
-(3) In exchange for the Government property conveyed pursuant to sections 192b–6 to 192b–8 of this title the United States shall receive other property of approximately equal value and such differences as there may be in values shall be equalized by a payment of funds: <i>Provided</i>, That all procedures and rights authorized in sections 192b–6 to 192b–8 of this title shall be in conformity with that agreement entered into under date of February 7, 1961, by and between the United States of America and the Colorado Transportation Company.
+(3) In exchange for the Government property conveyed pursuant to sections 192b–6 to 192b–8 of this title the United States shall receive other property of approximately equal value and such differences as there may be in values shall be equalized by a payment of funds: <i>Provided</i>, That all procedures and rights authorized in sections192b–6 to 192b–8 of this title shall be in conformity with that agreement entered into under date of February 7, 1961, by and between the United States of America and the Colorado Transportation Company.
 
 (Pub. L. 87–146, §1, Aug. 17, 1961, 75 Stat. 383.)
 

@@ -46,7 +46,7 @@ Records pertaining to administrative proceedings under this subchapter shall be 
 
 #### (d) Status of Boards
 
-The provisions of the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) and section552b of title 5 (relating to open meetings) shall not apply to any Board.
+The provisions of the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) and section 552b of title 5 (relating to open meetings) shall not apply to any Board.
 
 (Pub. L. 99–399, title III, §303, Aug. 27, 1986, 100 Stat. 859.)
 

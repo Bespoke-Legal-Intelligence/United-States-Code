@@ -34,5 +34,5 @@ Except as otherwise provided, for the purposes of this part:
 
 &emsp;&emsp;(C) enrolls between 25,000 and 30,000 students and serves a central city with a population of at least 140,000 in a metropolitan statistical area.
 
-(Pub. L. 89 10, title X, §10952, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3847.)
+(Pub. L. 89–10, title X, §10952, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3847.)
 

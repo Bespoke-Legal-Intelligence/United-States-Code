@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) the section 1231 losses shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply.
 
-&emsp;&emsp;(B) Losses (including losses not compensated for by insurance or otherwise) on the destruction, in whole or in part, theft or seizure, or requisition or condemnation of—
+&emsp;&emsp;(B) Losses (including losses not compensated for by insurance or otherwise) onthe destruction, in whole or in part, theft or seizure, or requisition or condemnation of—
 
 &emsp;&emsp;&emsp;(i) property used in the trade or business, or
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 1984—Subsec. (a). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
+Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plusthe recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
 
 &emsp;“(1) in determining under this subsection whether gains exceed losses, the gains described therein shall be included only if and to the extent taken into account in computing gross income and the losses described therein shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply; and
 

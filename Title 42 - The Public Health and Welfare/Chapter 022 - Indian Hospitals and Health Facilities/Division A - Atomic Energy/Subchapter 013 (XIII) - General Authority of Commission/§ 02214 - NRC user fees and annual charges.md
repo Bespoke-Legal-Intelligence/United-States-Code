@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), the Nuclear Regulatory Commission (in this sectionreferred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c) of this section.
+&emsp;Except as provided in paragraph (3), the Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c) of this section.
 
 #### (2) First assessment
 

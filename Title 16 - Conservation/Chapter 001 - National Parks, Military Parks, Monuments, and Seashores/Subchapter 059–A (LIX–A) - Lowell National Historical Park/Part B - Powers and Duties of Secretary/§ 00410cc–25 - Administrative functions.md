@@ -1,4 +1,4 @@
-### §410cc–25 . Administrative functions
+### §410cc–25. Administrative functions
 
 #### (a) Implementation of park management plan; emergency assistance for protection of property owners; availability of funds for Commission
 

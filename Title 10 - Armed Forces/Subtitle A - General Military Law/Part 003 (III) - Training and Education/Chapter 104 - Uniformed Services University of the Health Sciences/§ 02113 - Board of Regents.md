@@ -36,7 +36,7 @@
 
 (j)(1) The Board also is authorized—
 
-&emsp;(A) to enter into contracts with, accept grants from, and make grants to the Henry M. Jackson Foundation for the Advancement of Military Medicine established under section 178 of this title, or any other nonprofit entity, for the purpose of carrying out cooperative enterprises in medical research, medical consultation, and medical education;
+&emsp;(A) to enter into contracts with, accept grants from, and make grants to the Henry M. Jackson Foundation for the Advancement ofMilitary Medicine established under section 178 of this title, or any other nonprofit entity, for the purpose of carrying out cooperative enterprises in medical research, medical consultation, and medical education;
 
 &emsp;(B) to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, on such terms and conditions as the Board determines appropriate, such space, facilities, equipment, and support services within the University as the Board considers necessary to accomplish cooperative enterprises undertaken by such Foundation and the University;
 
@@ -44,7 +44,7 @@
 
 &emsp;(D) to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
 
-&emsp;(E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entitymay be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
+&emsp;(E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
 
 &emsp;(F) to accept the voluntary services of guest scholars and other persons.
 

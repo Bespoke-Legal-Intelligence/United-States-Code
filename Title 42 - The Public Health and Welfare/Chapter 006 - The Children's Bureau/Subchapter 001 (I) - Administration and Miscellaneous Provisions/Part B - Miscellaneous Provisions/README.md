@@ -17,7 +17,7 @@ This part was classified to subchapter XXV (§300aaa et seq.) of this chapter pr
 - [&sect; 00238e - Transfer of funds](%C2%A7%2000238e%20-%20Transfer%20of%20funds.md)
 - [&sect; 00238f - Availability of appropriations](%C2%A7%2000238f%20-%20Availability%20of%20appropriations.md)
 - [&sect; 00238g - Wearing of uniforms](%C2%A7%2000238g%20-%20Wearing%20of%20uniforms.md)
-- [&sect; 00238h - Annual report of Surgeon General](%C2%A7%2000238h%20-%20Annual%20report%20of%20Surgeon%20General.md)
+- [&sect; 00238h - Biennial report](%C2%A7%2000238h%20-%20Biennial%20report.md)
 - [&sect; 00238i - Memorials and other acknowledgments for contributions to health of Nation](%C2%A7%2000238i%20-%20Memorials%20and%20other%20acknowledgments%20for%20contributions%20to%20health%20of%20Nation.md)
 - [&sect; 00238j - Evaluation of programs](%C2%A7%2000238j%20-%20Evaluation%20of%20programs.md)
 - [&sect; 00238k - Contract authority](%C2%A7%2000238k%20-%20Contract%20authority.md)

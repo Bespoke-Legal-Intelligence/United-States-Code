@@ -2,11 +2,7 @@
 
 #### Codification
 
-Section, act May 11, 1926, ch. 286, 44 Stat. 512, authorized the Secretary of Agriculture to permit exportation of timber and other products from State or Territory when cut or removed from national forests situated therein. The provisions were from Department of Agriculture Appropriation Act, 1927, and were not repeated in subsequent appropriations. See section 616 of this title.
-
-#### Similar Provisions
-
-Similar provisions were contained in the following prior appropriation acts:
+Section, act May 11, 1926, ch. 286, 44 Stat. 512, which authorized Secretary of Agriculture to permit exportation of timber and other products from State or Territory when cut or removed from national forests situated therein, was from Department of Agriculture Appropriation Act, 1927, and was not repeated in subsequent appropriations. See section 616 of this title. Similar provisions were contained in the following prior appropriation acts:
 
 &emsp;Feb. 10, 1925, ch. 200, 43 Stat. 834.
 

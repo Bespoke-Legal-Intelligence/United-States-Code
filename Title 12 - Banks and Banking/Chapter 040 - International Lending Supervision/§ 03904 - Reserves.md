@@ -1,4 +1,4 @@
-### §3904 . Reserves
+### §3904. Reserves
 
 #### (a) Establishment and maintenance of special reserves
 

@@ -8,9 +8,13 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78d, 78e to 78<i>l</i>, 78m to 78<i>o</i>, and 78<i>o</i>–3 to 78hh of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. Although these latter provisions were set out as a separate title, they were part of the act; hence, they are technically a part of the “Securities Exchange Act of 1934”.
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–67, §1(a), Dec. 22, 1995, 109 Stat. 737, provided that: “This Act \[enacting sections 77z–1, 77z–2, 78j–1, 78u–4, and 78u–5 of this title, amending sections 77k, 77<i>l</i>, 77t, 78<i>o</i>, 78t, 78u, and 78u–4 of this title and section 1964 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 77k, 77<i>l</i>, and 78j–1 of this title\] may be cited as the ‘Private Securities Litigation Reform Act of 1995’.”
+
 #### Short Title of 1994 Amendments
 
-Pub. L. 103–389, §1, Oct. 22, 1994, 108 Stat. 4081, provided that: “This Act \[amending section 78<i>l</i> of thistitle\] may be cited as the ‘Unlisted Trading Privileges Act of 1994’.”
+Pub. L. 103–389, §1, Oct. 22, 1994, 108 Stat. 4081, provided that: “This Act \[amending section 78<i>l</i> of this title\] may be cited as the ‘Unlisted Trading Privileges Act of 1994’.”
 
 Pub. L. 103–325, title II, §201, Sept. 23, 1994, 108 Stat. 2198, provided that: “This subtitle \[subtitle A (§§201–210) of title II of Pub. L. 103–325 enacting section 1835 of Title 12, Banks and Banking, amending sections 77r–1, 78c, 78g, 78h, and 78k of this title and sections 24, 1464, and 1757 of Title 12, and enacting provisions set out as notes under section 78b of this title and section 3305 of Title 12\] may be cited as the ‘Small Business Loan Securitization and Secondary Market Enhancement Act of 1994’.”
 
@@ -66,11 +70,11 @@ Pub. L. 95–213, title II, §201, Dec. 19, 1977, 91 Stat. 1498, provided that: 
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–29, June 4, 1975, 89 Stat. 97, provided: “That this Act \[enacting sections 78k–1, 78<i>o</i>–4, 78q–1, and 78kk of this title, amending sections 77d, 77x, 77yyy, 78b, 78c, 78d–1, 78f, 78h, 78k, 78<i>l</i>, 78m, 78<i>o</i>, 78<i>o</i>–3, 78q, 78s, 78u, 78w, 78x, 78y, 78bb, 78ee, 78ff, 78iii, 79z–3, 80a–9, 80a–10, 80a–13, 80a–15, 80a–16, 80a–18, 80a–31, 80a–35, 80a–48, 80b–3, 80b–4, and 80b–17 of this title, and enacting provisions set out as notes under sections 78b and 78f of this title\] may be cited as the ‘Securities Acts Amendments of 1975’.”
+Section 1 of Pub. L. 94–29, June 4, 1975, 89 Stat. 97, provided: “That this Act \[enacting sections 78k–1,78<i>o</i>–4, 78q–1, and 78kk of this title, amending sections 77d, 77x, 77yyy, 78b, 78c, 78d–1, 78f, 78h, 78k, 78<i>l</i>, 78m, 78<i>o</i>, 78<i>o</i>–3, 78q, 78s, 78u, 78w, 78x, 78y, 78bb, 78ee, 78ff, 78iii, 79z–3, 80a–9, 80a–10, 80a–13, 80a–15, 80a–16, 80a–18, 80a–31, 80a–35, 80a–48, 80b–3, 80b–4, and 80b–17 of this title, and enacting provisions set out as notes under sections 78b and 78f of this title\] may be cited as the ‘Securities Acts Amendments of 1975’.”
 
 #### Short Title of 1964 Amendment
 
-Section 1 of Pub. L. 88–467, Aug. 20, 1964, 78 Stat. 565, provided: “That this Act \[amending sections 77d, 78c, 78<i>l</i> to 78<i>o</i>, 78<i>o</i>–3, 78p, 78t, 78w, and 78ff of this title andenacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Securities Acts Amendments of 1964’.”
+Section 1 of Pub. L. 88–467, Aug. 20, 1964, 78 Stat. 565, provided: “That this Act \[amending sections 77d, 78c, 78<i>l</i> to 78<i>o</i>, 78<i>o</i>–3, 78p, 78t, 78w, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Securities Acts Amendments of 1964’.”
 
 #### Short Title of 1936 Amendment
 

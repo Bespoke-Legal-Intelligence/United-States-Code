@@ -38,7 +38,7 @@
 
 (4) Each maximum contaminant level goal established under this subsection shall be set at the level at which no known or anticipated adverse effects on the health of persons occur and which allows an adequate margin of safety. Each national primary drinking water regulation for a contaminant for which a maximum contaminant level goal is established under this subsection shall specify a maximum level for such contaminant which is as close to the maximum contaminant level goal as is feasible.
 
-(5) For the purposes of this subsection, the term “feasible” means feasible with the use of the best technology, treatment techniques and other means which the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration). For the purpose of paragraph (4), granular activated carbon is feasible for the control of synthetic organic chemicals, and any technology, treatment technique, or other means found to be the best available for the control ofsynthetic organic chemicals must be at least as effective in controlling synthetic organic chemicals as granular activated carbon.
+(5) For the purposes of this subsection, the term “feasible” means feasible with the use of the best technology, treatment techniques and other means which the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration). For the purpose of paragraph (4), granular activated carbon is feasible for the control of synthetic organic chemicals, and any technology, treatment technique, or other means found to be the best available for the control of synthetic organic chemicals must be at least as effective in controlling synthetic organic chemicals as granular activated carbon.
 
 (6) Each national primary drinking water regulation which establishes a maximum contaminant level shall list the technology, treatment techniques, and other means which the Administrator finds to be feasible for purposes of meeting such maximum contaminant level, but a regulation under this paragraph shall not require that any specified technology, treatment technique, or other means be used for purposes of meeting such maximum contaminant level.
 
@@ -46,7 +46,7 @@
 
 (B) Any schedule referred to in this subsection for the promulgation of a national primary drinking water regulation for any contaminant shall apply in the same manner if the regulation requires a treatment technique in lieu of establishing a maximum contaminant level.
 
-(C)(i) Not later than 18 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations specifying criteria under which filtration (including coagulation and sedimentation, as appropriate) is required as a treatment technique for public water systems supplied by surface water sources. In promulgating such rules, the Administrator shall consider the quality of source waters, protection afforded by watershed management, treatment practices (such as disinfection and length of water storage) and other factors relevant to protection of health.
+(C)(i) Not later than 18 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations specifying criteria under which filtration (including coagulation and sedimentation, as appropriate) is required as a treatment technique for public water systems supplied by surfacewater sources. In promulgating such rules, the Administrator shall consider the quality of source waters, protection afforded by watershed management, treatment practices (such as disinfection and length of water storage) and other factors relevant to protection of health.
 
 (ii) In lieu of the provisions of section 300g–4 of this title the Administrator shall specify procedures by which the State determines which public water systems within its jurisdiction shall adopt filtration under the criteria of clause (i). The State may require the public water system to provide studies or other information to assist in this determination. The procedures shall provide notice and opportunity for public hearing on this determination. If the State determines that filtration is required, the State shall prescribe a schedule for compliance by the public water system with the filtration requirement. A schedule shall require compliance within 18 months of a determination made under clause (iii).
 
@@ -54,7 +54,7 @@
 
 (iv) If a State does not have primary enforcement responsibility for public water systems, the Administrator shall have the same authority to make the determination in clause (ii) in such State as the State would have under that clause. Any filtration requirement or schedule under this subparagraph shall be treated as if it were a requirement of a national primary drinking water regulation.
 
-(8) Not later than 36 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems. The Administrator shall simultaneously promulgate a rule specifying criteria that will be used by the Administrator (or delegated State authorities) to grant variances from this requirement according to the provisions of sections 300g–4(a)(1)(B) and 300g–4(a)(3) of this title. In implementing section 300j–1(g) of this title the Administrator or the delegated State authority shall, where appropriate, give special consideration to providing technical assistance to small public water systems in complying with the regulations promulgated under this paragraph.
+(8) Not later than 36 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems. The Administrator shall simultaneously promulgate a rule specifying criteria that will be used by the Administrator (or delegated State authorities) to grant variances from this requirement according to the provisions of sections 300g–4(a)(1)(B) and 300g–4(a)(3) of this title. In implementing section 300j–1(g) <sup>1</sup> of this title the Administrator or the delegated State authority shall, where appropriate, give special consideration to providing technical assistance to small public water systems in complying with the regulations promulgated under this paragraph.
 
 (9) National primary drinking water regulations shall be amended whenever changes in technology, treatment techniques, and other means permit greater protection of the health of persons, but in any event such regulations shall be reviewed at least once every 3 years. Such review shall include an analysis of innovations or changes in technology, treatment techniques or other activities that have occurred over the previous 3-year period and that may provide for greater protection of the health of persons. The findings of such review shall be published in the Federal Register. If, after opportunity for public comment, the Administrator concludes that the technology, treatment techniques, or other means resulting from such innovations or changes are not feasible within the meaning of paragraph (5), an explanation of such conclusion shall be published in the Federal Register.
 
@@ -64,7 +64,7 @@
 
 #### (c) Secondary regulations; publication of proposed regulations; promulgation; amendments
 
-The Administrator shall publish proposed national secondary drinking water regulations within 270 days after December 16, 1974. Within 90 days after publication of any such regulation, he shall promulgate such regulation with suchmodifications as he deems appropriate. Regulations under this subsection may be amended from time to time.
+The Administrator shall publish proposed national secondary drinking water regulations within 270 days after December 16, 1974. Within 90 days after publication of any such regulation, he shall promulgate such regulation with such modifications as he deems appropriate. Regulations under this subsection may be amended from time to time.
 
 #### (d) Regulations; public hearings; administrative consultations
 
@@ -79,6 +79,8 @@ The Administrator shall request comments from the Science Advisory Board (establ
 #### References in Text
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(3)(B), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+
+Section 300j–1(g) of this title, referred to in subsec. (b)(8), was redesignated section 300j–1(e) by Pub. L. 104–66, title II, §2021(h)(3), Dec. 21, 1995, 109 Stat. 727.
 
 The Environmental Research, Development, and Demonstration Act of 1978, referred to in subsec. (e), probably means the Environmental Research, Development, and Demonstration Authorization Act of 1978 which is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended. Provisions of the Act establishing the Science Advisory Board are classified to section 4365 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -107,4 +109,6 @@ Subsec. (e). Pub. L. 99–339, §101(e), amended subsec. (e) generally, substitu
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300f, 300g–2, 300g–3, 300g–4, 300g–5, 300j–1, 300j–2, 300j–3, 300j–3b, 300j–4 of this title; title 21 section 349.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

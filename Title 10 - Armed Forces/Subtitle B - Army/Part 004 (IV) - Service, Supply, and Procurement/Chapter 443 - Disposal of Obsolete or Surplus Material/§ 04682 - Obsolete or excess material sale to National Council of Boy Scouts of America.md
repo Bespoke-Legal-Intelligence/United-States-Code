@@ -1,4 +1,4 @@
-### §4682 . Obsolete or excess material: sale to National Council of Boy Scouts of America
+### §4682. Obsolete or excess material: sale to National Council of Boy Scouts of America
 
 Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Army, under such conditions as he may prescribe, may sell obsolete or excess material to the National Council of the Boy Scouts of America. Sales under this section shall be at fair value to the Department of the Army, including packing, handling, and transportation.
 
@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 May 15, 1937, ch. 193, 50 Stat. 167; Oct. 31, 1951, ch. 654, §2(7), 65 Stat. 707.
 
-The words “obsolete or excess material” are substituted for the words “such obsolete material as may not be needed by the Department of the Army, and such other material as may be spared” to conform to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.). The words “in his discretion” are omitted as surplusage.
+The words “obsolete or excess material” are substituted for the words “such obsolete material as may not be needed by the Department of the Army, and suchother material as may be spared” to conform to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.). The words “in his discretion” are omitted as surplusage.
 
 #### Amendments
 

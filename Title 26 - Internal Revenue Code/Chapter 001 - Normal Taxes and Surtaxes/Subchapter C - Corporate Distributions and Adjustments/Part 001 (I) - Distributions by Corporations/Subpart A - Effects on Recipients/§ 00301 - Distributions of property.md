@@ -224,7 +224,7 @@ Amendment by section 905(b)(2) of Pub. L. 91–172 effective with respect to dis
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
-Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect of expenditures paid or incurred after such date, see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
+Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect ofexpenditures paid or incurred after such date, see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
 
 #### Effective Date of 1964 Amendments
 

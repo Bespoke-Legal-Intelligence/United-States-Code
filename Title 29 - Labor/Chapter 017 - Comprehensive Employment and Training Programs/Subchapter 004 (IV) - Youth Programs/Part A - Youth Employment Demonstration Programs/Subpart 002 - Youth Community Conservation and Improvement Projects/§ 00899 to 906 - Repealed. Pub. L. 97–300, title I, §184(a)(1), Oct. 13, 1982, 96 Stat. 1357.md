@@ -14,7 +14,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 902, Pub. L. 93–203, title IV, §424, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1980, authorized Secretary to enter into agreements with eligible applicants to pay the costs of community conversation and improvement youth employment projects.
 
-Provisions similar to those comprising this section were contained in former section 893c of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 893c of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 903, Pub. L. 93–203, title IV, §425, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1980, related to applications for youth community conservation and improvement projects.
 

@@ -6,11 +6,11 @@ The Secretary shall, through the Office of Educational Research and Improvement,
 
 #### (b) Research concerning special needs
 
-In addition to the responsibilities of the Assistant Secretary for Educational Research and Improvement under section 1221e<sup>1</sup> of this title, the Assistant Secretary may, with funds available under that section, with funds available under other Federal programs, or with funds set aside under section 1201b(d) of this title, support research on the special needs of persons requiring adult education including a study of the magnitude and nature of the needs of adults with learning disabilities who are eligible for participation in adult education programs. The Assistant Secretary may support such research directly or through grants to, or contracts or cooperative agreements with, public or private institutions, agencies, or organizations.
+In addition to the responsibilities of the Assistant Secretary for Educational Research and Improvement under section 1221e <sup>1</sup> of this title, the Assistant Secretary may, with funds available under that section, with funds available under other Federal programs, or with funds set aside under section 1201b(d) of this title, support research on the special needs of persons requiring adult education including a study of the magnitude and nature of the needs of adults with learning disabilities who are eligible for participation in adult education programs. The Assistant Secretary may support such research directly or through grants to, or contracts or cooperative agreements with, public or private institutions, agencies, or organizations.
 
 #### (c) Establishment of National Institute for Literacy
 
-(1) There is established the National Institute for Literacy (in this section referred to as the “Institute”). The Institute shall be administered under the terms of an interagency agreement entered into by the Secretary with the Secretary of Labor and the Secretary of Health and Human Services (in this section referred to as the “Interagency Group”). The head of any other agency designated by the President may be involved in the operation of the Institute as fits the involvement of such agency in accomplishing the purposes of the Institute. The Secretary may include in the Institute any research and development center supported under section 1221e(d)(4)(A)(ii)<sup>1</sup> of this title and any other center, institute, or clearinghouse established within the Department of Education whose purpose is determined by the Secretary to be related to the purpose of the Institute.
+(1) There is established the National Institute for Literacy (in this section referred to as the “Institute”). The Institute shall be administered under the terms of an interagency agreement entered into by the Secretary with the Secretary of Labor and the Secretary of Health and Human Services (in this section referred to as the “Interagency Group”). The head of any other agency designated by the President may be involved in the operation of the Institute as fits the involvement of such agency in accomplishing the purposes of the Institute. The Secretary may include in the Institute any research and development center supported under section 1221e(d)(4)(A)(ii) <sup>1</sup> of this title and any other center, institute, or clearinghouse established within the Department of Education whose purpose is determined by the Secretary to be related to the purpose of the Institute.
 
 (2) The Institute shall have offices separate from the offices of any agency or department involved in the operation of the Institute.
 
@@ -20,7 +20,7 @@ In addition to the responsibilities of the Assistant Secretary for Educational R
 
 (1) The Institute is authorized, in order to improve and expand the system for delivery of literacy services, to—
 
-&emsp;(A) assist appropriate Federal agencies in setting specific objectives and strategies for meeting the goals of this chapter and in measuring the progress of such agencies in meeting such goals;
+&emsp;(A) assist appropriate Federal agencies in setting specific objectives and strategies formeeting the goals of this chapter and in measuring the progress of such agencies in meeting such goals;
 
 &emsp;(B) conduct basic and applied research and demonstrations on literacy, including—
 
@@ -60,7 +60,7 @@ In addition to the responsibilities of the Assistant Secretary for Educational R
 
 &emsp;&emsp;(ii) be coordinated with activities conducted by—
 
-&emsp;&emsp;&emsp;(I) regional educational laboratories supported under section 1221e(d)(4)(A)(i)\~<sup>2</sup> of this title;
+&emsp;&emsp;&emsp;(I) regional educational laboratories supported under section 1221e(d)(4)(A)(i)�7E<sup>2</sup> of this title;
 
 &emsp;&emsp;&emsp;(II) curriculum centers assisted under section 2341(a)(8) of this title; and
 
@@ -140,7 +140,7 @@ In addition to the responsibilities of the Assistant Secretary for Educational R
 
 #### (g) Gifts, bequests, and devises
 
-The Institute and the Board may accept (but not solicit), use, and dispose of gifts, bequests, or devises of services or property, both real andpersonal, for the purpose of aiding or facilitating the work of the Institute or the Board, respectively. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Institute or the Board, respectively.
+The Institute and the Board may accept (but not solicit), use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Institute or the Board, respectively. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Institute or the Board, respectively.
 
 #### (h) Mails
 
@@ -152,7 +152,7 @@ The Interagency Group, after considering recommendations made by the Board, shal
 
 #### (j) Applicability of certain civil service laws
 
-The Director and staff of the Institute may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the annual rate of basic pay payable for GS 18 of the General Schedule.
+The Director and staff of the Institute may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
 
 #### (k) Experts and consultants
 
@@ -178,29 +178,29 @@ The Institute shall not duplicate any functions carried out by the Secretary pur
 
 (2) Any amounts appropriated to the Secretary, the Secretary of Labor, the Secretary of Health and Human Services, or any other department that participates in the Institute for purposes that the Institute is authorized to perform under this section may be provided to the Institute for such purposes.
 
-(Pub. L. 89 750, title III, §384, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 319; amended Pub. L. 102 73, title I, §102(c), July 25, 1991, 105 Stat. 334; Pub. L. 103 382, title III, §335(b), Oct. 20, 1994, 108 Stat. 3966.)
+(Pub. L. 89–750, title III, §384, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 319; amended Pub. L. 102–73, title I, §102(c), July 25, 1991, 105 Stat. 334; Pub. L. 103–382, title III, §335(b), Oct. 20, 1994, 108 Stat. 3966.)
 
 #### References in Text
 
-Section 1221e of this title, referred to in subsecs. (b), (c)(1), and (d)(1)(D)(ii)(I), was repealed by Pub. L. 103 227, title IX, §911(a), Mar. 31, 1994, 108 Stat. 213.
+Section 1221e of this title, referred to in subsecs. (b), (c)(1), and (d)(1)(D)(ii)(I), was repealed by Pub. L. 103–227, title IX, §911(a), Mar. 31, 1994, 108 Stat. 213.
 
-This Act, referred to in subsec. (f)(1)(B)(i)(I), means Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
+This Act, referred to in subsec. (f)(1)(B)(i)(I), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (j), are classified to section 3301 et seq. of Title 5.
 
 #### Amendments
 
-1994—Subsec. (n)(1). Pub. L. 103 382 substituted “1995, and 1996” for “and 1995”.
+1994—Subsec. (n)(1). Pub. L. 103–382 substituted “1995, and 1996” for “and 1995”.
 
-1991—Subsec. (a). Pub. L. 102 73, §102(c)(1), inserted “the operation of the Institute established by subsection (c) of this section and”.
+1991—Subsec. (a). Pub. L. 102–73, §102(c)(1), inserted “the operation of the Institute established by subsection (c) of this section and”.
 
-Subsecs. (c) to (n). Pub. L. 102 73, §102(c)(2), added subsecs. (c) to (n).
+Subsecs. (c) to (n). Pub. L. 102–73, §102(c)(2), added subsecs. (c) to (n).
 
 #### Purpose and Findings Regarding Literacy Amendments and National Institute for Literacy
 
-Section 102(a), (b) of Pub. L. 102 73 provided that:
+Section 102(a), (b) of Pub. L. 102–73 provided that:
 
 “(a)
 
@@ -222,7 +222,7 @@ Findings.—The Congress finds that—
 
 #### Family Literacy Public Broadcasting Program
 
-Section 304 of Pub. L. 102 73 provided that:
+Section 304 of Pub. L. 102–73 provided that:
 
 “(a)
 
@@ -242,11 +242,11 @@ Program Authorized.—(1) The Secretary is authorized, subject to the availabili
 
 Authorization of Appropriations.—There are authorized to be appropriated $2,000,000 for fiscal year 1992 to carry out the provisions of subsection (i) \[probably should be “(a)”\], of which $100,000 shall be reserved for reproducing and distributing programming or audio and video instructional media materials.”
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

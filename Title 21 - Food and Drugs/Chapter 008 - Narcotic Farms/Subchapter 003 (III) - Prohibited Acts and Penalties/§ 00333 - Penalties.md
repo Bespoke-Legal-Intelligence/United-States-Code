@@ -112,7 +112,7 @@ Subsec. (b)(5). Pub. L. 102–353, §3(b)(3), substituted “the institution of 
 
 Subsec. (c). Pub. L. 102–353, §3(b)(4), substituted “subsection (a)(1) of this section” for “subsection (a) of this section”.
 
-Subsec. (d). Pub. L. 102–353, §3(b)(4), (5), substituted “subsection (a)(1) of this section” for “subsection (a) of this section” and struck out “, and no person shall be subject to the penalties of subsection (b) of this section for such a violation unless the violation is committedwith the intent to defraud or mislead” after “advertising”.
+Subsec. (d). Pub. L. 102–353, §3(b)(4), (5), substituted “subsection (a)(1) of this section” for “subsection (a) of this section” and struck out “, and no person shall be subject to the penalties of subsection (b) of this section for such a violation unless the violation is committed with the intent to defraud or mislead” after “advertising”.
 
 1990—Subsec. (e). Pub. L. 101–647, as amended by Pub. L. 103–322, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 

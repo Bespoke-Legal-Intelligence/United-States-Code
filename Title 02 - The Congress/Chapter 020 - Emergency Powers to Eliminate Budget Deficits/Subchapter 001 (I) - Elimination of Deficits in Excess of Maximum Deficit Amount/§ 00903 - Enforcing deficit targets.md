@@ -40,7 +40,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
 
-&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
+&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it hasbeen reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
@@ -72,7 +72,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 
-&emsp;&emsp;(D) For each fiscal year the adjustments required to be made with the submission of the President's budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technicalassumptions in the President's budget for that year.
+&emsp;&emsp;(D) For each fiscal year the adjustments required to be made with the submission of the President's budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technical assumptions in the President's budget for that year.
 
 > &emsp;Each adjustment shall be made by increasing or decreasing the maximum deficit amounts set forth in section 665 of this title.
 

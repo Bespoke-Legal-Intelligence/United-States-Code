@@ -30,5 +30,5 @@ Funds under this section shall be used to enhance the capacity of States and loc
 
 Recipients of funds under this section shall coordinate the activities assisted under this section with activities carried out by comprehensive regional assistance centers assisted under part A of subchapter XIII of this chapter.
 
-(Pub. L. 89 10, title VII, §7133, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3730.)
+(Pub. L. 89–10, title VII, §7133, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3730.)
 

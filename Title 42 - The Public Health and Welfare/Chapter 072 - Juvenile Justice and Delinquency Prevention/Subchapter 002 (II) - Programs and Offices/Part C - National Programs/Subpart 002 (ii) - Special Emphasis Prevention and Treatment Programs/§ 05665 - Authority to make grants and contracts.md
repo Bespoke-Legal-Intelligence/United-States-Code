@@ -48,7 +48,7 @@ Except as provided in subsection (f) of this section, the Administrator is autho
 
 &emsp;(2) develop and implement, in coordination with the Secretary of Education, model programs and methods to keep students in elementary and secondary schools, to assist in identifying learning difficulties (including learning disabilities), to prevent unwarranted and arbitrary suspensions and expulsions, and to encourage new approaches and techniques with respect to the prevention of school violence and vandalism;
 
-&emsp;(3) develop, implement, and support, in conjunction with the Secretary of Labor, other public and private agencies, organizations, business, and industry, programs for the employment of juveniles;
+&emsp;(3) develop, implement, and support, in conjunction with the Secretary of Labor, otherpublic and private agencies, organizations, business, and industry, programs for the employment of juveniles;
 
 &emsp;(4) develop and support programs designed to encourage and assist State legislatures to consider and establish policies consistent with this subchapter, both by amending State laws, if necessary, and devoting greater resources to effectuate such policies;
 

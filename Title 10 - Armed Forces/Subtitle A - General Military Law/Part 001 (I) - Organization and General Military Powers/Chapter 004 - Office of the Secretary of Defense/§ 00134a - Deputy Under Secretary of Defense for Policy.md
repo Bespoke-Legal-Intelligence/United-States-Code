@@ -1,4 +1,4 @@
-### §134a . Deputy Under Secretary of Defense for Policy
+### §134a. Deputy Under Secretary of Defense for Policy
 
 (a) There is a Deputy Under Secretary of Defense for Policy, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 

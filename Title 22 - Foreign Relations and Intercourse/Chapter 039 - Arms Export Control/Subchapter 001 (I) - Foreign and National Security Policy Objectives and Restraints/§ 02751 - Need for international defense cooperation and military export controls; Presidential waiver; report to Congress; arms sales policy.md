@@ -22,7 +22,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
-(Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053;Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Section 41 of Pub. L. 90–629 provided that: “This Act \[enacting this chapte
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
 #### Short Title
 
@@ -88,7 +88,7 @@ Content of Report.—Each report under subsection (a) shall include the followin
 
 &emsp;“(6) Each specific Department of Energy program that the Secretary of Energy plans to develop to initial operating capability and each such program that the Secretary does not plan to develop to initial operating capability.
 
-&emsp;“(7) For each technology program scheduled to reach initial operational capability, a recommendation from the Chairman of the Joint Chiefs of Staff that represents the views of the commanders of the unified and specified commands regarding the utility and requirement of the program.
+&emsp;“(7) For each technology program scheduled to reach initial operational capability, a recommendation from the Chairman of the Joint Chiefs of Staffthat represents the views of the commanders of the unified and specified commands regarding the utility and requirement of the program.
 
 “(c)
 
@@ -134,6 +134,10 @@ Definitions.—As used in this section—
 
 Effective Date.—This section shall take effect 1 year after the date of enactment of this Act \[Apr. 30, 1994\].”
 
+\[Certifications and determinations relating to suspension of application by President under section 564 of Pub. L. 103–236, set out above, were contained in the following:
+
+\[Determination of President of the United States, No. 95–20, May 1, 1995, 60 F.R. 22245.\]
+
 #### Counterproliferation Policy and Programs of United States
 
 Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919, provided that:
@@ -156,7 +160,7 @@ Counterproliferation Studies.—Studies and analysis programs under this section
 
 “(c)
 
-Designation of Coordinator.—The Under Secretary of Defense for Policy, subject to the supervisionand control of the Secretary of Defense, shall coordinate the policy studies and analysis of the Department of Defense on countering proliferation of weapons of mass destruction and their delivery systems.
+Designation of Coordinator.—The Under Secretary of Defense for Policy, subject to the supervision and control of the Secretary of Defense, shall coordinate the policy studies and analysis of the Department of Defense on countering proliferation of weapons of mass destruction and their delivery systems.
 
 “(d)
 
@@ -294,7 +298,7 @@ Matters To Be Covered.—Each such report shall cover—
 
 &emsp;“(2) international transfers of MTCR equipment or technology to any country that is seeking to acquire such equipment or any other system that the Secretary has reason to believe may be used to deliver NBC weapons; and
 
-&emsp;“(3) the transfer of technology, test equipment, radioactive materials, feedstocks and cultures, and all other specialized materials that the Secretary has reason to believe could be used to manufacture NBC weapons.
+&emsp;“(3) the transfer of technology, test equipment, radioactive materials, feedstocks and cultures, andall other specialized materials that the Secretary has reason to believe could be used to manufacture NBC weapons.
 
 “(c)
 
@@ -346,7 +350,7 @@ Repeal of Superseded Law.—Section 1704 of the National Defense Authorization A
 
 #### Conventional Arms Transfers
 
-Pub. L. 99–83, title I, §129, Aug. 8, 1985, 99 Stat. 206, directed President, at the earliest possible date, in consultation with United States allies, to initiate discussions with the Soviet Union and France aimed at beginning multilateral negotiations to limit and control the transfer of conventional arms to less developed countries, and, within one year after Aug. 8, 1985, submit toSpeaker of House of Representatives and chairman of Committee on Foreign Relations of Senate a report which specifies steps being taken to fulfill such requirements and which examines and analyzes, among specified matters, United States policies concerning the export of conventional arms, especially sophisticated weapons, and possible approaches to developing multilateral limitations on conventional arms sales.
+Pub. L. 99–83, title I, §129, Aug. 8, 1985, 99 Stat. 206, directed President, at the earliest possible date, in consultation with United States allies, to initiate discussions with the Soviet Union and France aimed at beginning multilateral negotiations to limit and control the transfer of conventional arms to less developed countries, and, within one year after Aug. 8, 1985, submit to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate a report which specifies steps being taken to fulfill such requirements and which examines and analyzes, among specified matters, United States policies concerning the export of conventional arms, especially sophisticated weapons, and possible approaches to developing multilateral limitations on conventional arms sales.
 
 #### Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law
 
@@ -398,7 +402,7 @@ Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
-Section 5 of Pub. L. 91–672 provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in orderto meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
+Section 5 of Pub. L. 91–672 provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
 
 #### Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade
 

@@ -32,5 +32,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1975—Subsec. (b)(2). Pub. L. 94–183 substituted “3702” for “324”.
+<b>1975</b>—Subsec. (b)(2). Pub. L. 94–183 substituted “3702” for “324”.
 

@@ -28,7 +28,7 @@ Prior to termination of any franchise or nonrenewal of any franchise relationshi
 
 &emsp;(A) furnish notification to the franchisee not less than 180 days prior to the date on which such termination or nonrenewal takes effect; and
 
-&emsp;(B) promptly provide a copy of such notification, together with a plan describing theschedule and conditions under which the franchisor will withdraw from the marketing of motor fuel through retail outlets in the relevant geographic area, to the Governor of each State which contains a portion of such area.
+&emsp;(B) promptly provide a copy of such notification, together with a plan describing the schedule and conditions under which the franchisor will withdraw from the marketing of motor fuel through retail outlets in the relevant geographic area, to the Governor of each State which contains a portion of such area.
 
 #### (c) Manner and form of notification
 
@@ -52,7 +52,7 @@ Notification under this section—
 
 (2) In the case of summaries required to be furnished under the provisions of section 2802(b)(2)(D) of this title or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.
 
-(Pub. L. 95 297, title I, §104, June 19, 1978, 92 Stat. 329.)
+(Pub. L. 95–297, title I, §104, June 19, 1978, 92 Stat. 329.)
 
 #### Section Referred to in Other Sections
 

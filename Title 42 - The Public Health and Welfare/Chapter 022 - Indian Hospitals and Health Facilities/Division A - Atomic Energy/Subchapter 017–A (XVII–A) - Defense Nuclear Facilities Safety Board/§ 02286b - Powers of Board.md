@@ -8,7 +8,7 @@
 
 (B) Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
-(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt of the court.
+(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or isguilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt of the court.
 
 (D) The subpoenas of the Board shall be served in the manner provided for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
 
@@ -42,7 +42,7 @@ With the consent of and under appropriate support arrangements with the Nuclear 
 
 #### (g) Assistance from organizations outside Federal Government
 
-Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may enter into an agreement with the National Research Council of the National Academy of Sciences or any other appropriate group or organization of experts outside the Federal Government chosen by the Board to assist theBoard in carrying out its responsibilities under this subchapter.
+Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may enter into an agreement with the National Research Council of the National Academy of Sciences or any other appropriate group or organization of experts outside the Federal Government chosen by the Board to assist the Board in carrying out its responsibilities under this subchapter.
 
 #### (h) Resident inspectors
 

@@ -18,5 +18,5 @@ Funds appropriated pursuant to this section may be made available to the Nationa
 
 > <i>Provided</i>, That the Administrator determines that such funds will be used to carry out the statutory purposes of the Foundation in a manner consistent with the goals, objectives and programs of this chapter.
 
-(Pub. L. 101 619, §11, Nov. 16, 1990, 104 Stat. 3339.)
+(Pub. L. 101–619, §11, Nov. 16, 1990, 104 Stat. 3339.)
 

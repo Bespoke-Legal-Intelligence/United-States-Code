@@ -14,7 +14,7 @@ The Director may appoint with the approval of the Board, a Deputy Director who s
 
 #### (d) Restrictions on outside employment activities of Director and Deputy Director
 
-Neither the Director nor the Deputy Director shall engage in any other business, vocation, or employment than that of serving as such Director or Deputy Director, as the case may be; norshall the Director or Deputy Director, except with the approval of the Board, hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other arrangement under this chapter.
+Neither the Director nor the Deputy Director shall engage in any other business, vocation, or employment than that of serving as such Director or Deputy Director, as the case may be; nor shall the Director or Deputy Director, except with the approval of the Board, hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other arrangement under this chapter.
 
 (Pub. L. 92–484, §5, Oct. 13, 1972, 86 Stat. 799.)
 

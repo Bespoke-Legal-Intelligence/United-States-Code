@@ -36,9 +36,9 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–508 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-1978—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 

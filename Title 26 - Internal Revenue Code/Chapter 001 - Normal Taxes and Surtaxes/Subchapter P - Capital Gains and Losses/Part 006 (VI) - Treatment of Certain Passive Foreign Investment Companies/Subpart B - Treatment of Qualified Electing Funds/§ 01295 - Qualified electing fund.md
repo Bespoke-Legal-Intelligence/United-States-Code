@@ -46,7 +46,7 @@ In general.—A passive foreign investment company may make an election under th
 
 “(2)
 
-When made.—An election under this subsection may be made for any taxable year at any time before the 15th day of the 3rd month of the following taxable year. To the extent provided in regulations, such an election may be made later than as required by the preceding sentence in cases where the company failed tomake a timely election because it reasonably believed it was not a passive foreign investment company.”
+When made.—An election under this subsection may be made for any taxable year at any time before the 15th day of the 3rd month of the following taxable year. To the extent provided in regulations, such an election may be made later than as required by the preceding sentence in cases where the company failed to make a timely election because it reasonably believed it was not a passive foreign investment company.”
 
 Pub. L. 100–647, §1012(p)(37)(A), inserted sentence at end of par. (2) permitting a later election when a company reasonably believed it was not a passive foreign investment company.
 

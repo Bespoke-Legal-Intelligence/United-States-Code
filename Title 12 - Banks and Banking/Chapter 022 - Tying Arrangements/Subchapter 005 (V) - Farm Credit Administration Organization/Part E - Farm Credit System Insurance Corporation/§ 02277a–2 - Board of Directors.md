@@ -1,19 +1,5 @@
 ### §2277a–2. Board of Directors
 
-#### (a) Establishment
-
-The Corporation shall be managed by a Board of Directors that shall consist of the members of the Farm Credit Administration Board.
-
-#### (b) Chairman
-
-The Board of Directors shall be chaired by any Board member other than the Chairman of the Farm Credit Administration Board.
-
-(Pub. L. 92–181, title V, §5.53, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 102–552, title II, §201(a), Oct. 28, 1992, 106 Stat. 4104.)
-
-#### Amendment of Section
-
-<i>Pub. L. 102–552, title II, §201(a), (c)(1), Oct. 28, 1992, 106 Stat. 4104, 4105, provided that, effective Jan. 1, 1996, this section is amended to read as follows:</i>
-
 #### (a) In general
 
 #### (1) Establishment
@@ -81,6 +67,20 @@ The Board of Directors shall be chaired by any Board member other than the Chair
 #### (4) Expenses
 
 &emsp;Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the official duties of the member without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States.
+
+(Pub. L. 92–181, title V, §5.53, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 102–552, title II, §201(a), Oct. 28, 1992, 106 Stat. 4104.)
+
+#### Amendments
+
+1992—Pub. L. 102–552 amended section generally. Prior to amendment, section read as follows:
+
+“(a)
+
+Establishment.—The Corporation shall be managed by a Board of Directors that shall consist of the members of the Farm Credit Administration Board.
+
+“(b)
+
+Chairman.—The Board of Directors shall be chaired by any Board member other than the Chairman of the Farm Credit Administration Board.”
 
 #### Effective Date of 1992 Amendment; Transition Provision
 

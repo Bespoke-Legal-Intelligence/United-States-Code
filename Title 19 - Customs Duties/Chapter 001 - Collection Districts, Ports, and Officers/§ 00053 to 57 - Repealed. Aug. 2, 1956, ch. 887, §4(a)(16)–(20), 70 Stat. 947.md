@@ -1,6 +1,6 @@
 ### §§53 to 57. Repealed. Aug. 2, 1956, ch. 887, §4(a)(16)–(20), 70 Stat. 947
 
-Section 53, R.S. §2687, provided for apportionment of compensation according to time served. See, generally,sections 5504 and 6101 of Title 5, Government Organization and Employees.
+Section 53, R.S. §2687, provided for apportionment of compensation according to time served. See, generally, sections 5504 and 6101 of Title 5, Government Organization and Employees.
 
 Section 54, R.S. §2646, related to books to be furnished to collectors and other officers. See section 481 of Title 40, Public Buildings, Property, and Works.
 

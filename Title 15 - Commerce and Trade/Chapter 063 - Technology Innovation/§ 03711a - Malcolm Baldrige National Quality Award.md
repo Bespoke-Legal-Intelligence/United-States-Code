@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Malcolm Baldrige National Quality Award, which shall be evidenced by a medal bearing the inscriptions “Malcolm Baldrige National Quality Award” and “The Quest for Excellence”. The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
+There is hereby established the Malcolm Baldrige National Quality Award, which shall beevidenced by a medal bearing the inscriptions “Malcolm Baldrige National Quality Award” and “The Quest for Excellence”. The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
 
 #### (b) Making and presentation of award
 
@@ -36,7 +36,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 &emsp;(C) meets such requirements and specifications as the Secretary, after receiving recommendations from the Board of Overseers established under paragraph (2)(B) and the Director of the National Institute of Standards and Technology, determines to be appropriate to achieve the objectives of this section.
 
-> In applying the provisions of subparagraph (C) with respect to any organization, the Director of the National Institute of Standards and Technology shall rely upon an intensive evaluation by a competent board of examiners which shall review the evidence submitted by the organization and, through a site visit, verify the accuracy of the quality improvements claimed. The examination should encompass all aspects of the organization's current practice of quality management, as well as the organization's provision for quality management in its future goals. The award shall be given only to organizations which have made outstanding improvements inthe quality of their goods or services (or both) and which demonstrate effective quality management through the training and involvement of all levels of personnel in quality improvement.
+> In applying the provisions of subparagraph (C) with respect to any organization, the Director of the National Institute of Standards and Technology shall rely upon an intensive evaluation by a competent board of examiners which shall review the evidence submitted by the organization and, through a site visit, verify the accuracy of the quality improvements claimed. The examination should encompass all aspects of the organization's current practice of quality management, as well as the organization's provision for quality management in its future goals. The award shall be given only to organizations which have made outstanding improvements in the quality of their goods or services (or both) and which demonstrate effective quality management through the training and involvement of all levels of personnel in quality improvement.
 
 (2)(A) The Director of the National Institute of Standards and Technology shall, under appropriate contractual arrangements, carry out the Director's responsibilities under subparagraphs (A) and (B) of paragraph (1) through one or more broad-based nonprofit entities which are leaders in the field of quality management and which have a history of service to society.
 
@@ -52,19 +52,19 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 #### (g) Report
 
-The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
+The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conductedpursuant to this section along with recommendations for possible modifications thereof.
 
-(Pub. L. 96 480, §17, formerly §16, as added Pub. L. 100 107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100 418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102 245, title III, §305, Feb. 14, 1992, 106 Stat. 20.)
+(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20.)
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102 245 inserted at end “The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.”
+1992—Subsec. (f). Pub. L. 102–245 inserted at end “The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.”
 
-1988—Subsecs. (d), (e). Pub. L. 100 418, §5115(b)(2)(A), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
+1988—Subsecs. (d), (e). Pub. L. 100–418, §5115(b)(2)(A), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
 #### Findings and Purposes
 
-Section 2 of Pub. L. 100 107 provided that:
+Section 2 of Pub. L. 100–107 provided that:
 
 “(a)
 

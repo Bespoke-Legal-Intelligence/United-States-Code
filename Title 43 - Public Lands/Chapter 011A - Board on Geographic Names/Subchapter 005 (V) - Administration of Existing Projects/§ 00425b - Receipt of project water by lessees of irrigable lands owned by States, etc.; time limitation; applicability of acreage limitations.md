@@ -1,6 +1,6 @@
 ### §425b. Receipt of project water by lessees of irrigable lands owned by States, etc.; time limitation; applicability of acreage limitations
 
-Lessees of irrigable lands owned by States, political subdivisions, and agencies thereof which are held to be subject to the acreage limitation provisions of Federal reclamation law and forwhich recordable contracts to sell have not been made may receive project water from July 7, 1970, subject to the same acreage limitation provisions of Federal reclamation law as private landowners.
+Lessees of irrigable lands owned by States, political subdivisions, and agencies thereof which are held to be subject to the acreage limitation provisions of Federal reclamation law and for which recordable contracts to sell have not been made may receive project water from July 7, 1970, subject to the same acreage limitation provisions of Federal reclamation law as private landowners.
 
 (Pub. L. 91–310, §3, July 7, 1970, 84 Stat. 411; Pub. L. 97–293, title II, §224(d), Oct. 12, 1982, 96 Stat. 1272.)
 

@@ -108,13 +108,13 @@ For the purposes of this part—
 
 (18) The term “technical assistance costs” means costs incurred for the use of existing personnel or the temporary employment of other qualified personnel (or both such types of personnel) necessary for providing technical assistance.
 
-(19) The term “energy conservation maintenance and operating procedure” means modification or modifications in the maintenanceand operations of a building, and any installations therein, which are designed to reduce energy consumption in such building and which require no significant expenditure of funds.
+(19) The term “energy conservation maintenance and operating procedure” means modification or modifications in the maintenance and operations of a building, and any installations therein, which are designed to reduce energy consumption in such building and which require no significant expenditure of funds.
 
 (20) The term “Secretary” means the Secretary of Energy or his designee.
 
 (21) The term “Governor” means the chief executive officer of a State or his designee.
 
-(Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239; amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011.)
+(Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239;amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011.)
 
 #### Amendments
 

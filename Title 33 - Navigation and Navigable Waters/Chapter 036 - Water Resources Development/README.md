@@ -84,11 +84,10 @@
 | [2235\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002235%20-%20Construction%20in%20usable%20increments.md) | Construction in usable increments. |
 | [2236\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002236%20-%20Port%20or%20harbor%20dues.md) | Port or harbor dues. |
 | (a) | Consent of Congress. |
-| (b) | Audits. |
-| (c) | Jurisdiction. |
-| (d) | Collection of duties. |
-| (e) | Enforcement. |
-| (f) | Maritime lien. |
+| (b) | Jurisdiction. |
+| (c) | Collection of duties. |
+| (d) | Enforcement. |
+| (e) | Maritime lien. |
 | [2237\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002237%20-%20Information%20for%20national%20security.md) | Information for national security. |
 | [2238\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Trust fund. |

@@ -6,7 +6,7 @@ In any fiscal year in which the appropriations for this subpart do not equal or 
 
 #### (b) State grant program
 
-In any fiscal year in which the appropriations for this subpart equal or exceed $50,000,000, the Secretary is authorized, in accordance with the provisions of this subpart, to make grants to State educational agencies from allocations under subsection (c) of this section to carry out Teacher Corps activities.
+In any fiscal year in which the appropriations for this subpart equal or exceed $50,000,000, theSecretary is authorized, in accordance with the provisions of this subpart, to make grants to State educational agencies from allocations under subsection (c) of this section to carry out Teacher Corps activities.
 
 #### (c) Allocation
 
@@ -26,17 +26,17 @@ For the purpose of this subpart the term “Teacher Corps school” means a publ
 
 &emsp;A recipient of a scholarship under this subpart shall be referred to as a “Teacher Corps member”.
 
-(Pub. L. 89 329, title V, §541, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 687.)
+(Pub. L. 89–329, title V, §541, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 687.)
 
 #### Prior Provisions
 
-A prior section 1106, Pub. L. 89 329, title V, §516, Nov. 8, 1965, 79 Stat. 1258, related to supervision and control of members by local educational agencies, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+A prior section 1106, Pub. L. 89–329, title V, §516, Nov. 8, 1965, 79 Stat. 1258, related to supervision and control of members by local educational agencies, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-A prior section 541 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1503; amended Pub. L. 100 50, §16(1), June 3, 1987, 101 Stat. 358; Pub. L. 101 226, §20, Dec. 12, 1989, 103 Stat. 1936, related to purpose of leadership in educational administration development program and was classified to section 1109 of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 541 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1503; amended Pub. L. 100–50, §16(1), June 3, 1987, 101 Stat. 358; Pub. L. 101–226, §20, Dec. 12, 1989, 103 Stat. 1936, related to purpose of leadership in educational administration development program and was classified to section 1109 of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 541 of Pub. L. 89 329, title V, as added Pub. L. 96 374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1461, authorized grants to State educational agencies to train teachers for handicapped children and was classified to section 1119b of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 541 of Pub. L. 89–329, title V, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1461, authorized grants to State educational agencies to train teachers for handicapped children and was classified to section 1119b of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 541 of Pub. L. 89 329, title V, as added Pub. L. 90 35, §6, June 29, 1967, 81 Stat. 93, authorized grants or contracts with institutions of higher education for training programs and projects for higher education personnel and was classified to section 1119b of this title, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152.
+Another prior section 541 of Pub. L. 89–329, title V, as added Pub. L. 90–35, §6, June 29, 1967, 81 Stat. 93, authorized grants or contracts with institutions of higher education for training programs and projects for higher education personnel and was classified to section 1119b of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152.
 
 #### Section Referred to in Other Sections
 

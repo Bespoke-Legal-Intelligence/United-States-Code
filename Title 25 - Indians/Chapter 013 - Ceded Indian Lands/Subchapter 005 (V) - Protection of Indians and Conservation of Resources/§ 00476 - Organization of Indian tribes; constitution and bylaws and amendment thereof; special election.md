@@ -32,7 +32,7 @@ Any constitution or bylaws ratified and approved by the Secretary shall be revoc
 
 (1) If an election called under subsection (a) of this section results in the adoption by the tribe of the proposed constitution and bylaws or amendments thereto, the Secretary shall approve the constitution and bylaws or amendments thereto within forty-five days after the election unless the Secretary finds that the proposed constitution and bylaws or any amendments are contrary to applicable laws.
 
-(2) If the Secretary does not approve or disapprove the constitution and bylaws or amendments within the forty-five days, the Secretary's approval shall be considered as given.Actions to enforce the provisions of this section may be brought in the appropriate Federal district court.
+(2) If the Secretary does not approve or disapprove the constitution and bylaws or amendments within the forty-five days, the Secretary's approval shall be considered as given. Actions to enforce the provisions of this section may be brought in the appropriate Federal district court.
 
 #### (e) Vested rights and powers; advisement of presubmitted budget estimates
 
@@ -64,7 +64,7 @@ May 31, 1994, referred to in subsec. (g), was in the original “the date of ena
 
 #### Definitions Applicable
 
-Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out as a note below\], the term—
+Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below\], the term—
 
 &emsp;“(1) ‘applicable laws’ means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, and any other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
 
@@ -74,7 +74,7 @@ Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of
 
 #### Amendment of Tribal Constitution and Bylaws
 
-Section 103 of title I of Pub. L. 100–581 provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out as a note above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
+Section 103 of title I of Pub. L. 100–581 provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
 
 #### Cross References
 

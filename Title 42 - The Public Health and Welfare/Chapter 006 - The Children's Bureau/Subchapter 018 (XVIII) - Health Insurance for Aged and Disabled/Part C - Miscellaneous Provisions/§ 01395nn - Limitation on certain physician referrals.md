@@ -34,7 +34,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(A) that are furnished—
 
-&emsp;&emsp;&emsp;(i) personally by the referring physician, personally by a physician who is a member of the same group practice as the referring physician, or personally by individuals who are directly supervised by the physician or by another physician in the group practice, and
+&emsp;&emsp;&emsp;(i) personally by the referring physician, personally by a physician who is a member of the same group practice as the referring physician, or personally by individualswho are directly supervised by the physician or by another physician in the group practice, and
 
 &emsp;&emsp;&emsp;(ii)(I) in a building in which the referring physician (or another physician who is a member of the same group practice) furnishes physicians’ services unrelated to the furnishing of designated health services, or
 
@@ -60,7 +60,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(C) receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization, or
 
-&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) of this title) to an individual enrolled with the organization.
+&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization.
 
 #### (4) Other permissible exceptions
 
@@ -140,7 +140,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (2) Bona fide employment relationships
 
-&emsp;Any amount paid by an employer to a physician (or an immediate family member of suchphysician) who has a bona fide employment relationship with the employer for the provision of services if—
+&emsp;Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
 
 &emsp;&emsp;(A) the employment is for identifiable services,
 
@@ -182,7 +182,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation may be determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the entity.
+&emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medicallynecessary services provided with respect to a specific individual enrolled with the entity.
 
 &emsp;&emsp;&emsp;&emsp;(II) In the case of a plan that places a physician or a physician group at substantial financial risk as determined by the Secretary pursuant to section 1395mm(i)(8)(A)(ii) of this title, the plan complies with any requirements the Secretary may impose pursuant to such section.
 
@@ -210,13 +210,13 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;In the case of an isolated financial transaction, such as a one-time sale of property or practice, if—
 
-&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are metwith respect to the entity in the same manner as they apply to an employer, and
+&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are met with respect to the entity in the same manner as they apply to an employer, and
 
 &emsp;&emsp;(B) the transaction meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
 #### (7) Certain group practice arrangements with a hospital
 
-#### (A) <sup>1</sup> In general
+#### (A) <sup>2</sup> In general
 
 &emsp;&emsp;An arrangement between a hospital and a group under which designated health services are provided by the group but are billed by the hospital if—
 
@@ -250,7 +250,7 @@ Each entity providing covered items or services for which payment may be made un
 
 &emsp;(2) the names and unique physician identification numbers of all physicians with an ownership or investment interest (as described in subsection (a)(2)(A) of this section), or with a compensation arrangement (as described in subsection (a)(2)(B) of this section), in the entity, or whose immediate relatives have such an ownership or investment interest or who have such a compensation relationship with the entity.
 
-> Such information shall be provided in such form, manner, and at such times as the Secretary shall specify. The requirement of this subsection shall not apply to designated health services provided outside the United States or to entities which the Secretary determines provides <sup>2</sup> services for which payment may be made under this subchapter very infrequently.
+> Such information shall be provided in such form, manner, and at such times as the Secretary shall specify. The requirement of thissubsection shall not apply to designated health services provided outside the United States or to entities which the Secretary determines provides <sup>3</sup> services for which payment may be made under this subchapter very infrequently.
 
 #### (g) Sanctions
 
@@ -268,7 +268,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
-&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penaltyor proceeding under section 1320a–7a(a) of this title.
+&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (5) Failure to report information
 
@@ -310,7 +310,7 @@ For purposes of this section:
 
 #### (3) Fair market value
 
-&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
+&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rentalproperty for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
 
 #### (4) Group practice
 
@@ -338,7 +338,7 @@ For purposes of this section:
 
 #### (ii) Faculty practice plans
 
-&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution ofhigher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
+&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
 
 #### (5) Referral; referring physician
 
@@ -384,7 +384,9 @@ For purposes of this section:
 
 #### References in Text
 
-Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) ofPub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
+
+Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
 
@@ -402,7 +404,7 @@ Subsec. (f)(2). Pub. L. 103–432, §152(a)(2), (3), inserted “, or with a co
 
 Subsec. (h)(6). Pub. L. 103–432, §152(b), in subpar. (D), substituted “services, including magnetic resonance imaging, computerized axial tomography scans, and ultrasound services” for “or other diagnostic services”, and in subpars. (E), (F), and (H), inserted “and supplies” before period at end.
 
-1993—Subsecs. (a) to (e). Pub. L. 103–66, §13562(a)(1), amended headings and text of subsecs. (a) to (e) generally, substituting present provisions for provisions which related to: prohibition of certain referrals in subsec. (a), general exceptions to both ownership and compensation arrangement prohibitions in subsec. (b), general exception related only to ownership or investment prohibition for ownership in publicly-traded securitiesin subsec. (c), additional exceptions related only to ownership or investment prohibition in subsec. (d), and exceptions relating to other compensation arrangements in subsec. (e).
+1993—Subsecs. (a) to (e). Pub. L. 103–66, §13562(a)(1), amended headings and text of subsecs. (a) to (e) generally, substituting present provisions for provisions which related to: prohibition of certain referrals in subsec. (a), general exceptions to both ownership and compensation arrangement prohibitions in subsec. (b), general exception related only to ownership or investment prohibition for ownership in publicly-traded securities in subsec. (c), additional exceptions related only to ownership or investment prohibition in subsec. (d), and exceptions relating to other compensation arrangements in subsec. (e).
 
 Subsec. (f). Pub. L. 103–66, §13562(a)(3), substituted “designated health services” for “clinical laboratory services” in concluding provisions.
 
@@ -472,7 +474,7 @@ Section 6204(c) of Pub. L. 101–239 provided that:
 
 #### Deadline for Certain Regulations
 
-Section 6204(d) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly§4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
+Section 6204(d) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly §4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
 
 #### GAO Study of Ownership by Referring Physicians
 
@@ -486,7 +488,9 @@ Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV,
 
 This section is referred to in section 1396b of this title.
 
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “provide”.</i>
+<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “provide”.</i>
 

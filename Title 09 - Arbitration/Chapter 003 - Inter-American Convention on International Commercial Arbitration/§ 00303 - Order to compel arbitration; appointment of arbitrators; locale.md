@@ -1,4 +1,4 @@
-### §303 . Order to compel arbitration; appointment of arbitrators; locale
+### §303. Order to compel arbitration; appointment of arbitrators; locale
 
 (a) A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. The court may also appoint arbitrators in accordance with the provisions of the agreement.
 

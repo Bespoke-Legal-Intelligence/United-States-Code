@@ -52,7 +52,7 @@ For the purpose of this section, an error consists of—
 
 &emsp;(7) any other error described in regulations of the Board.
 
-(Pub. L. 90 321, title IX, §908, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733.)
+(Pub. L. 90–321, title IX, §908, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733.)
 
 #### Section Referred to in Other Sections
 

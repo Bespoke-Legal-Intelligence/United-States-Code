@@ -22,9 +22,9 @@ It is the purpose of this part—
 
 &emsp;(3) to build models, in a few cities and States, that demonstrate new organizational arrangements and deep investments in teachers necessary to better prepare teachers for new standards and assessments.
 
-(Pub. L. 89 10, title II, §2301, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3633.)
+(Pub. L. 89–10, title II, §2301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3633.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (a)(1), (3), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (a)(1), (3), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

@@ -30,7 +30,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (3) In rem jurisdiction
 
-&emsp;A vessel used in violating this chapter or any regulation or permit issued under this chapter shall be liable in rem for any civilpenalty assessed for such violation. Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
+&emsp;A vessel used in violating this chapter or any regulation or permit issued under this chapter shall be liable in rem for any civil penalty assessed for such violation. Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
 #### (4) Review of civil penalty
 
@@ -68,7 +68,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(A) Notwithstanding any other law, amounts received by the United States as civil penalties, forfeitures of property, and costs imposed under paragraph (2) shall be retained by the Secretary in the manner provided for in section 9607(f)(1) of title 42.
 
-&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
+&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph\(2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
 
 &emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
 

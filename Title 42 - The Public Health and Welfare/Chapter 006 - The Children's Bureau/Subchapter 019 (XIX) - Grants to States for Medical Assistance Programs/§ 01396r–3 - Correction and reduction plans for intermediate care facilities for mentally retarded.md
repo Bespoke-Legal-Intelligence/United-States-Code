@@ -12,7 +12,7 @@ If the Secretary finds that an intermediate care facility for the mentally retar
 
 As conditions of approval of any reduction plan submitted pursuant to subsection (a)(2) of this section, the State must—
 
-&emsp;(1) provide for a hearing to be held at the affected facility at least 35 days prior to submission of the reduction plan, with reasonable notice thereof to the staff and residents of the facility, responsible members of the residents’ families, and the general public;
+&emsp;(1) provide for a hearing to be held at the affected facility at least 35 days prior to submission of the reduction plan, with reasonable notice thereof to the staff and residents of thefacility, responsible members of the residents’ families, and the general public;
 
 &emsp;(2) demonstrate that the State has successfully provided home and community services similar to the services proposed to be provided under the reduction plan for similar individuals eligible for medical assistance; and
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 100–647, §8433(a)(3), substituted “by January 1, 1990�
 
 Section 8433(b) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1988\], and shall apply to any proceeding where there has not yet been a final determination by the Secretary (as defined for purposes of judicial review) as of the date of the enactment of this Act.”
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 

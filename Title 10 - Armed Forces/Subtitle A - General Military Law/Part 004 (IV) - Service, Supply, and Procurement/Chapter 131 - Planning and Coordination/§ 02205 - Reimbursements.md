@@ -1,4 +1,4 @@
-### §2205 . Reimbursements
+### §2205. Reimbursements
 
 (a)
 

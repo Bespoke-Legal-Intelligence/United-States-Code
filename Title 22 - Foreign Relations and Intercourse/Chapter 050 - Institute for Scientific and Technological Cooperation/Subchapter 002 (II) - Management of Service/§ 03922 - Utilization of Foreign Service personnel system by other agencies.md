@@ -40,7 +40,7 @@ The Board of the Foreign Service and the Board of Examiners for the Foreign Serv
 
 Ex. Ord. No. 10522, Mar. 26, 1954, 19 F.R. 1689, provided:
 
-Section 1. The Director of the United States Information Agency is hereby authorized to carry out the functions of the Board of the Foreign Service, provided for by the Foreign Service Act of 1946 (60 Stat. 999) \[this chapter\], with respect to personnel appointed or assigned for service in the United States Information Agency under the provisions of such Act, as amended \[this chapter\]: <i>Provided</i>, That nothing herein contained shall be construed as transferring to the said Directorany function of the said Board relating to any Foreign Service Officer.
+Section 1. The Director of the United States Information Agency is hereby authorized to carry out the functions of the Board of the Foreign Service, provided for by the Foreign Service Act of 1946 (60 Stat. 999) \[this chapter\], with respect to personnel appointed or assigned for service in the United States Information Agency under the provisions of such Act, as amended \[this chapter\]: <i>Provided</i>, That nothing herein contained shall be construed as transferring to the said Director any function of the said Board relating to any Foreign Service Officer.
 
 Sec. 2. The Director of the United States Information Agency is hereby authorized to prescribe such regulations and issue such orders and instructions, not inconsistent with law, as may be necessary or desirable for carrying out his functions under section 1 of this order.
 

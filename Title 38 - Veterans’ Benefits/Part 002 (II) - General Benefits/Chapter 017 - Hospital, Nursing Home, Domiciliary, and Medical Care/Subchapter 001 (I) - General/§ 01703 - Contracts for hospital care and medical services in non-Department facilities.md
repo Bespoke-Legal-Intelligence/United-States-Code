@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 100–322, §112(a), added subsec. (c).
 
 1986—Subsec. (a)(5). Pub. L. 99–272, §19012(c)(5)(A), made conforming amendment to Pub. L. 99–166, §102(b)(1). See 1985 Amendment note below.
 
-1985—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
+1985—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary toprevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
 
 #### Effective Date of 1988 Amendments
 

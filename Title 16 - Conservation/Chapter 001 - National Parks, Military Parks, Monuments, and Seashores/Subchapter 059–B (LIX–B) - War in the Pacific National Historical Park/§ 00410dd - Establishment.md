@@ -2,7 +2,7 @@
 
 #### (a) Statement of purposes
 
-In order to commemorate the bravery and sacrifice of those participating in the campaigns of the Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of presentand future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the “park”) is hereby established.
+In order to commemorate the bravery and sacrifice of those participating in the campaigns of the Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the “park”) is hereby established.
 
 #### (b) Boundaries; revisions of boundary; publication in Federal Register
 
@@ -72,7 +72,7 @@ Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 103–197, §3(b), added subsecs. (<i
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Congressional Findings
 

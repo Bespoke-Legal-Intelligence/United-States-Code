@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 &emsp;(4) “compensation” means cash benefits payable to an individual with respect to his unemployment including any portion thereof payable with respect to dependents;
 
-&emsp;(5) “benefit year” means the benefit year as defined by the applicable State unemployment compensation law, and if not so defined the term means the period prescribed in the agreement under this subchapter with a State or, in the absence of such an agreement, the period prescribed by the Secretary of Labor;
+&emsp;(5) “benefit year” means the benefit year as defined by the applicable State unemploymentcompensation law, and if not so defined the term means the period prescribed in the agreement under this subchapter with a State or, in the absence of such an agreement, the period prescribed by the Secretary of Labor;
 
 &emsp;(6) “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands;
 
@@ -98,13 +98,13 @@ Section 609(b)(1) of the Foreign Service Act of 1980, referred to in par. (1)(C)
 
 #### Amendments
 
-1980—Par. (1)(B). Pub. L. 96–215 inserted “or the Commissioned Corps of the National Oceanic and Atmospheric Administration” after “armed forces”.
+<b>1980</b>—Par. (1)(B). Pub. L. 96–215 inserted “or the Commissioned Corps of the National Oceanic and Atmospheric Administration” after “armed forces”.
 
 Par. (1)(C). Pub. L. 96–465 substituted “members of the Foreign Service for whom payments are provided under section 609(b)(1) of the Foreign Service Act of 1980” for “Foreign Service personnel for whom special separation allowances are provided under chapter 14 of title 22”.
 
-1978—Par. (1)(E). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Par. (1)(E). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1976—Par. (6). Pub. L. 94–566, §116(e)(1), added the Virgin Islands in definition of “State”.
+<b>1976</b>—Par. (6). Pub. L. 94–566, §116(e)(1), added the Virgin Islands in definition of “State”.
 
 Par. (8). Pub. L. 94–566, §214(b), added par. (8).
 

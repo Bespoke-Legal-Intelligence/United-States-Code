@@ -4,7 +4,7 @@ The responsibilities of the Administrator shall include, but not be limited to�
 
 &emsp;(1) exercising central responsibility for policy planning, coordination, support, and management of research and development programs respecting all energy sources, including assessing the requirements for research and development in regard to various energy sources in relation to near-term and long-range needs, policy planning in regard to meeting those requirements, undertaking programs for the optimal development of the various forms of energy sources, managing such programs, and disseminating information resulting therefrom;
 
-&emsp;(2) encouraging and conducting research and development, including demonstration of commercial feasibility and practical applications of the extraction, conversion, storage, transmission, and utilization phases related to thedevelopment and use of energy from fossil, nuclear, solar, geothermal, and other energy sources;
+&emsp;(2) encouraging and conducting research and development, including demonstration of commercial feasibility and practical applications of the extraction, conversion, storage, transmission, and utilization phases related to the development and use of energy from fossil, nuclear, solar, geothermal, and other energy sources;
 
 &emsp;(3) engaging in and supporting environmental, biomedical, physical, and safety research related to the development of energy sources and utilization technologies;
 
@@ -28,7 +28,7 @@ The responsibilities of the Administrator shall include, but not be limited to�
 
 #### Amendments
 
-1992—Pars. (7) to (12). Pub. L. 102–486 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows: “establishing, in accordance with the National Energy Extension Service Act, an Energy Extension Service to provide technical assistance, instruction, and practical demonstrations on energy conservation measures and alternative energy systems to individuals, businesses, and State and local government officials;”.
+1992—Pars. (7) to (12). Pub. L. 102–486 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows: “establishing,in accordance with the National Energy Extension Service Act, an Energy Extension Service to provide technical assistance, instruction, and practical demonstrations on energy conservation measures and alternative energy systems to individuals, businesses, and State and local government officials;”.
 
 1977—Pars. (7) to (12). Pub. L. 95–39 added par. (7) and redesignated former pars. (7) to (11) as (8) to (12), respectively.
 

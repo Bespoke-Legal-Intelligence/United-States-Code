@@ -1,6 +1,6 @@
 ### §278d. Construction and improvement of buildings and facilities
 
-Within the limits of funds which are appropriated for the Institute, the Secretary of Commerce is authorized to undertake such construction of buildings and other facilities and to make such improvements to existing buildings,grounds, and other facilities occupied or used by the Institute as are necessary for the proper and efficient conduct of the activities authorized herein.
+Within the limits of funds which are appropriated for the Institute, the Secretary of Commerce is authorized to undertake such construction of buildings and other facilities and to make such improvements to existing buildings, grounds, and other facilities occupied or used by the Institute as are necessary for the proper and efficient conduct of the activities authorized herein.
 
 (Mar. 3, 1901, ch. 872, §14, as added Sept. 2, 1958, Pub. L. 85–890, §1, 72 Stat. 1711; amended June 22, 1972, Pub. L. 92–317, §3(d), 86 Stat. 235; Oct. 15, 1980, Pub. L. 96–461, §8, 94 Stat. 2051; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433; Feb. 14, 1992, Pub. L. 102–245, title I, §104(f), 106 Stat. 11.)
 

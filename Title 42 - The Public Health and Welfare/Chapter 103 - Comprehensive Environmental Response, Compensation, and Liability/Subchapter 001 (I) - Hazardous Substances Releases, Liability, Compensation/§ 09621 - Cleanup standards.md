@@ -36,7 +36,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (2)(A) With respect to any hazardous substance, pollutant or contaminant that will remain onsite, if—
 
-&emsp;(i) any standard, requirement, criteria, or limitation under any Federal environmental law, including, but not limited to, the ToxicSubstances Control Act \[15 U.S.C. 2601 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Clean Water Act \[33 U.S.C. 1251 et seq.\], the Marine Protection, Research and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\]; or
+&emsp;(i) any standard, requirement, criteria, or limitation under any Federal environmental law, including, but not limited to, the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Clean Water Act \[33 U.S.C. 1251 et seq.\], the Marine Protection, Research and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\]; or
 
 &emsp;(ii) any promulgated standard, requirement, criteria, or limitation under a State environmental or facility siting law that is more stringent than any Federal standard, requirement, criteria, or limitation, including each such State standard, requirement, criteria, or limitation contained in a program approved, authorized or delegated by the Administrator under a statute cited in subparagraph (A), and that has been identified to the President by the State in a timely manner,
 
@@ -96,7 +96,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (1) No Federal, State, or local permit shall be required for the portion of any removal or remedial action conducted entirely onsite, where such remedial action is selected and carried out in compliance with this section.
 
-(2) A State may enforce any Federal or State standard, requirement, criteria, or limitation to which the remedial action is required to conform under this chapter in the United States district court for the district in which the facility is located. Any consent decree shall require the parties to attempt expeditiously to resolve disagreements concerning implementation of the remedial action informally with the appropriate Federal and State agencies. Where the parties agree, the consent decree may provide for administrative enforcement. Each consent decree shall also contain stipulated penalties for violations of the decree in an amount not to exceed $25,000 per day, which may be enforced by either the President or the State. Such stipulated penalties shall not be construed to impair or affect the authority of the court to order compliance with the specific terms of any such decree.
+(2) A State may enforce any Federal or State standard, requirement, criteria, or limitation to which the remedial action is required to conform under this chapter in the United Statesdistrict court for the district in which the facility is located. Any consent decree shall require the parties to attempt expeditiously to resolve disagreements concerning implementation of the remedial action informally with the appropriate Federal and State agencies. Where the parties agree, the consent decree may provide for administrative enforcement. Each consent decree shall also contain stipulated penalties for violations of the decree in an amount not to exceed $25,000 per day, which may be enforced by either the President or the State. Such stipulated penalties shall not be construed to impair or affect the authority of the court to order compliance with the specific terms of any such decree.
 
 #### (f) State involvement
 
@@ -128,7 +128,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
 
-> Prior to the promulgation of such regulations, the President shall provide notice to the Stateof negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
+> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
 
 (2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title. At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 
@@ -140,7 +140,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (B) If the State does not concur in such selection as provided in subparagraph (A), and desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
 
-&emsp;(i) If the President has notified the State of selection of such a remedial action, the State may bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States district court for the district in which the facility is located.
+&emsp;(i) If the President has notified the State of selection of such a remedial action, the State may bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States districtcourt for the district in which the facility is located.
 
 &emsp;(ii) If the State establishes, on the administrative record, that the President's finding is not supported by substantial evidence, the remedial action shall be modified to conform to such standard, requirement, criteria, or limitation.
 
@@ -162,7 +162,7 @@ The Clean Air Act, referred to in subsec. (d)(2)(A)(i), is act July 14, 1955, ch
 
 The Clean Water Act, referred to in subsec. (d)(2)(A)(i), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33.For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Effective Date
 

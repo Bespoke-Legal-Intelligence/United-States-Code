@@ -42,7 +42,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 &emsp;(A) The Secretary of Labor shall make, not later than 20 days before the date such labor or services are first required to be performed, the certification described in subsection (a)(1) of this section if—
 
-&emsp;&emsp;(i) the employer has complied with the criteria for certification (including criteria for the recruitment of eligible individuals as prescribed by the Secretary), and
+&emsp;&emsp;(i) the employer has complied with the criteria for certification (including criteria forthe recruitment of eligible individuals as prescribed by the Secretary), and
 
 &emsp;&emsp;(ii) the employer does not actually have, or has not been provided with referrals of, qualified eligible individuals who have indicated their availability to perform such labor or services on the terms and conditions of a job offer which meets the requirements of the Secretary.
 

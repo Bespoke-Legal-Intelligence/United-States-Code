@@ -18,7 +18,7 @@ There is hereby established a National Environmental Education Advisory Council 
 
 &emsp;(B) the terms of the members first taking office shall expire as follows: four shall expire 3 years after November 16, 1990, four shall expire 2 years after November 16, 1990, and three shall expire 1 year after November 16, 1990, as designated by the Administrator at the time of appointment.
 
-(5) Members of the Advisory Council appointed under this section shall, while attending meetings of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS 18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b)<sup>1</sup> of title 5.
+(5) Members of the Advisory Council appointed under this section shall, while attending meetings of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
 
 (6) Section 14(a) of the Federal Advisory Committee Act relating to termination, shall not apply to the Advisory Council.
 
@@ -64,21 +64,21 @@ There is hereby established a National Environmental Education Advisory Council 
 
 (2) The Federal Task Force on Environmental Education shall review and comment on a draft of the report to Congress.
 
-(Pub. L. 101 619, §9, Nov. 16, 1990, 104 Stat. 3333.)
+(Pub. L. 101–619, §9, Nov. 16, 1990, 104 Stat. 3333.)
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94 22, May 19, 1975, §4, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, May 19, 1975, §4, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (b)(6), is section 14(a) of Pub. L. 92 463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (b)(6), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5503, 5505, 5507 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ To enable the Environmental Protection Agency to carry out subsections (b), (c),
 
 #### (1) Clean coal
 
-&emsp;The Secretary of Energy shall cooperate with Polish officials and experts to retrofit a coal-fired commercial powerplant in the Krakow, Poland, region with advanced clean coal technology that has been successfully demonstrated at a comparably scaled powerplant in the United States. Such retrofit shall be carried out by one or more United States companies using United States technology andequipment manufactured in the United States. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
+&emsp;The Secretary of Energy shall cooperate with Polish officials and experts to retrofit a coal-fired commercial powerplant in the Krakow, Poland, region with advanced clean coal technology that has been successfully demonstrated at a comparably scaled powerplant in the United States. Such retrofit shallbe carried out by one or more United States companies using United States technology and equipment manufactured in the United States. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
 
 #### (2) Equipment assessment
 

@@ -6,5 +6,5 @@ The general purpose of the National Institute of Diabetes and Digestive and Kidn
 
 #### Review of Disease Research Programs of the National Institute of Diabetes and Digestive and Kidney Diseases
 
-Section 10 of Pub. L. 99–158 provided that: “The Secretary of Health and Human Services shall conduct an administrative review of the disease research programsof the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act \[Nov. 20, 1985\].”
+Section 10 of Pub. L. 99–158 provided that: “The Secretary of Health and Human Services shall conduct an administrative review of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act \[Nov. 20, 1985\].”
 

@@ -2,7 +2,7 @@
 
 #### (a) Applications
 
-Any tribally controlled postsecondary vocational institution that desires to receive a grant under this part shall submit an application to the Secretary. Such application shall include a description of recordkeeping procedures for the expenditure of funds received under this part which will allow the Secretary to audit and monitor programs.
+Any tribally controlled postsecondary vocational institution that desires to receive a grantunder this part shall submit an application to the Secretary. Such application shall include a description of recordkeeping procedures for the expenditure of funds received under this part which will allow the Secretary to audit and monitor programs.
 
 #### (b) Initial grants
 
@@ -16,7 +16,7 @@ In making grants pursuant to this part, the Secretary shall, to the extent pract
 
 Amounts made available under grants made pursuant to this part shall not be used in connection with religious worship or sectarian instruction.
 
-(Pub. L. 88 210, title III, §385, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 800.)
+(Pub. L. 88–210, title III, §385, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800.)
 
 #### Section Referred to in Other Sections
 

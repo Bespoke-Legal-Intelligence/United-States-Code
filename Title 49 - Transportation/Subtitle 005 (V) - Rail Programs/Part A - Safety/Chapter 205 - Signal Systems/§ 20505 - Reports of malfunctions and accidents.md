@@ -24,7 +24,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(f) (words before last semicolon); adde
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(6)(A), 80 Stat. 939.
 
-The words “signal system” are substituted for “such systems, devices, or appliances” because of the definition of “signal system” in section 20501 of the revised title. The word “indicate” is omitted as being included in “function”. The words “or incident” are added for consistency in this part. The word “individual” is substituted for “person”, and the word “immediately” is substituted for “forthwith”, for consistency in the revised title and with other titles of the United States Code.
+The words “signal system” are substituted for “such systems, devices, or appliances” because of the definition of “signal system” in section 20501 of the revised title. The word “indicate” is omitted as being includedin “function”. The words “or incident” are added for consistency in this part. The word “individual” is substituted for “person”, and the word “immediately” is substituted for “forthwith”, for consistency in the revised title and with other titles of the United States Code.
 
 #### Section Referred to in Other Sections
 

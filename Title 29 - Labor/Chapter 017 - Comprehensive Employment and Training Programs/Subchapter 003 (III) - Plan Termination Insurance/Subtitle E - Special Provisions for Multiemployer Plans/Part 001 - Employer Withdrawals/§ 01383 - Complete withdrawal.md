@@ -42,7 +42,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 &emsp;(B) such other entertainment activities as the corporation may determine to be appropriate.
 
-(3) The corporation may by regulation exclude a group or class of employers described in thepreceding sentence from the application of this subsection if the corporation determines that such exclusion is necessary—
+(3) The corporation may by regulation exclude a group or class of employers described in the preceding sentence from the application of this subsection if the corporation determines that such exclusion is necessary—
 
 &emsp;(A) to protect the interest of the plan's participants and beneficiaries, or
 

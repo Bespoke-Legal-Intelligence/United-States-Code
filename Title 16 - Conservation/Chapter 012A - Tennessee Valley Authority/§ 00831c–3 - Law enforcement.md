@@ -1,4 +1,4 @@
-### §831c–3 . Law enforcement
+### §831c–3. Law enforcement
 
 #### (a) Designation of law enforcement agents
 

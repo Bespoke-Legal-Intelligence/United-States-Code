@@ -12,7 +12,7 @@
 
 #### (3) Maps and descriptions
 
-&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundary description of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
+&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundarydescription of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
 
 #### (b) Administration
 

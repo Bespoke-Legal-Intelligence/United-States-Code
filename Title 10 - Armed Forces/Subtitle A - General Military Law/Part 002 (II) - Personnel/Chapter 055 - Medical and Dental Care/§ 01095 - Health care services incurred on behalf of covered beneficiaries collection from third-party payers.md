@@ -104,7 +104,7 @@ Subsec. (f)(2) to (4). Pub. L. 101–510, §713(b), added pars. (2) and (3) and 
 
 Subsec. (g). Pub. L. 101–510, §713(a)(1), substituted “health care services” for “inpatient hospital care”.
 
-Subsecs. (h), (i). Pub. L. 101–510, §713(c), added subsecs. (h) and (i) and struck out former subsec. (h) which read as follows: “In this section, the term ‘third-party payer’ means an entity that provides an insurance,medical service, or health plan by contract or agreement.”
+Subsecs. (h), (i). Pub. L. 101–510, §713(c), added subsecs. (h) and (i) and struck out former subsec. (h) which read as follows: “In this section, the term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement.”
 
 1989—Subsec. (g). Pub. L. 101–189, §727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 

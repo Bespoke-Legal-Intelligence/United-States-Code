@@ -46,7 +46,7 @@ The customs laws, referred to in subsec. (b), are classified generally to this t
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42 Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42 Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

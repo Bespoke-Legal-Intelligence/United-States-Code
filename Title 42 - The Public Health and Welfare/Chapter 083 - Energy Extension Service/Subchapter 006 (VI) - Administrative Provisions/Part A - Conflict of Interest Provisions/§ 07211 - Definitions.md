@@ -38,7 +38,7 @@ For purposes of this subchapter the term “energy concern” includes—
 
 #### (d) Knowledge of interest, status, or position
 
-For the purposes of section 7212(a) of this title an individual shall be deemed to have known ofor knowingly committed a described act or to have known of or knowingly held a described interest, status, or position if the employee knew or should have known of such act, interest, status, or position. For the purposes of section 7212(a) of this title an officer or employee shall be deemed to have known of or knowingly held an interest in an energy concern if such interest is sold or otherwise transferred to his spouse or dependent while such officer or employee is, or within six months prior to the date on which such officer or employee becomes, an officer or employee of the Department.
+For the purposes of section 7212(a) of this title an individual shall be deemed to have known of or knowingly committed a described act or to have known of or knowingly held a described interest, status, or position if the employee knew or should have known of such act, interest, status, or position. For the purposes of section 7212(a) of this title an officer or employee shall be deemed to have known of or knowingly held an interest in an energy concern if such interest is sold or otherwise transferred to his spouse or dependent while such officer or employee is, or within six months prior to the date on which such officer or employee becomes, an officer or employee of the Department.
 
 (Pub. L. 95–91, title VI, §601, Aug. 4, 1977, 91 Stat. 591; Pub. L. 103–160, div. C, title XXXI, §3161(c)(1)(A), (B), Nov. 30, 1993, 107 Stat. 1958.)
 

@@ -1,4 +1,4 @@
-### §4335 . Dean of Academic Board
+### §4335. Dean of Academic Board
 
 (a) The Dean of the Academic Board shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.
 

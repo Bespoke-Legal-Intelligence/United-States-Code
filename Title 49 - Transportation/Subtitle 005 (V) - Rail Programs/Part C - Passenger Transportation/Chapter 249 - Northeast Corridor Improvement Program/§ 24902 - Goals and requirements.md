@@ -46,7 +46,7 @@ Passenger Radio Mobile Telephone Service.—The President and departments, agenc
 
 Priorities in Selecting and Scheduling Projects.—When selecting and scheduling specific projects, Amtrak shall apply the following considerations, in the following order of priority:
 
-&emsp;(1) Safety-related items should be completed before other items because the safety of the passengers and users of the Northeast Corridor is paramount.
+&emsp;(1) Safety-related items should be completed before other items because the safety of thepassengers and users of the Northeast Corridor is paramount.
 
 &emsp;(2) Activities that benefit the greatest number of passengers should be completed before activities involving fewer passengers.
 
@@ -297,6 +297,10 @@ In subsection (k)(1), before clause (A), the words “take all steps necessary t
 The Communications Act of 1934, referred to in subsec. (d), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (h) and (i), is section 703(1)(E) of Pub. L. 94–210, which was classified to section 853(1)(E) of Title 45, Railroads, and was repealed and reenacted as subsec. (h) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 932, 1379.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -270,7 +270,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (p)(
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Oct. 3, 1913, ch. 16, §IV, O, 38 Stat. 200, which was superseded by act Sept. 21, 1922, ch. 356, title III, §313, 42 Stat. 940, and repealed by section 321 thereof. Section 313 of the 1922 act was superseded by section 313 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, O, 38 Stat. 200, which was superseded by act Sept. 21, 1922, ch. 356, title III, §313, 42 Stat. 940, and repealed by section 321 thereof. Section 313 of the 1922 act was superseded by section 313 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36 Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended by act Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -354,7 +354,7 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 
 Section 404(e)(5)(B) of Pub. L. 103–465 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the earlier of the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\] or January 1, 1995.”
 
-Amendment by section 422(d) of Pub. L. 103–465 effective beginning on the effective date of the Presidential proclamation, authorized under section 421 of Pub. L. 103–465 (set out as a note under section 2135 of this title), establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco, see section 422(e) of Pub. L. 103–465, set out as a note under section 1314i of Title 7, Agriculture.
+Amendment by section 422(d) of Pub. L. 103–465 effective Sept. 13, 1995, see section 422(e) of Pub. L. 103–465, set out as a note under section 1314i of Title 7, Agriculture.
 
 #### Effective Date of 1993 Amendment
 

@@ -1,5 +1,5 @@
 
-6 U.S.C.<br>United States Code, 1994 Edition<br>Title 6 - SURETY BONDS \[REPEALED\]<br>From the U.S. Government Publishing Office, www.gpo.gov
+6 U.S.C.<br>United States Code, 1995 Edition<br>Title 6 - SURETY BONDS \[REPEALED\]<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 6—SURETY BONDS \[REPEALED\]
 

@@ -1,0 +1,34 @@
+### §2344. Review of orders; time; notice; contents of petition; service
+
+On the entry of a final order reviewable under this chapter, the agency shall promptly give notice thereof by service or publication in accordance with its rules. Any party aggrieved by the final order may, within 60 days after its entry, file a petition to review the order in the court of appeals wherein venue lies. The action shall be against the United States. The petition shall contain a concise statement of—
+
+&emsp;(1) the nature of the proceedings as to which review is sought;
+
+&emsp;(2) the facts on which venue is based;
+
+&emsp;(3) the grounds on which relief sought; and
+
+&emsp;(4) the relief prayed.
+
+> The petitioner shall attach to the petition, as exhibits, copies of the order, report, or decision of the agency. The clerk shall serve a true copy of the petition on the agency and on the Attorney General by registered mail, with request for a return receipt.
+
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 1034.
+
+Dec. 29, 1950, ch. 1189, §4, 64 Stat. 1130.
+
+The section is reorganized, with minor changes in phraseology. The words “as prescribed by section 1033 of this title” are omitted as surplusage. The words “of the United States” following “Attorney General” are omitted as unnecessary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2342 of this title; title 2 section 1407; title 7 sections 2149, 3804, 3805.
+

@@ -24,7 +24,7 @@ Merit Competition.—Applications for assistance under this section shall be eva
 
 Selection Criteria.—The Secretary shall select institutions for the award of financial assistance under this section from among institutions submitting applications for such assistance that—
 
-&emsp;(1) demonstrate that the proposed activities are of an appropriate scale and a sufficient quality to ensure long term improvement in the applicant's capability to serve the education and training needs of United States manufacturing firms in the same region as the applicant;
+&emsp;(1) demonstrate that the proposed activities are of an appropriate scale and a sufficientquality to ensure long term improvement in the applicant's capability to serve the education and training needs of United States manufacturing firms in the same region as the applicant;
 
 &emsp;(2) demonstrate a significant level of industry involvement and support;
 
@@ -40,7 +40,7 @@ Federal Support.—The amount of financial assistance furnished to an institutio
 
 Manufacturing Expert Defined.—In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
 
-(Added Pub. L. 102–190, div. A, title VIII, §825(a)(1), Dec. 5, 1991, 105 Stat. 1440; amendedPub. L. 102–484, div. D, title XLII, §4238(a), (b)(1), Oct. 23, 1992, 106 Stat. 2694.)
+(Added Pub. L. 102–190, div. A, title VIII, §825(a)(1), Dec. 5, 1991, 105 Stat. 1440; amended Pub. L. 102–484, div. D, title XLII, §4238(a), (b)(1), Oct. 23, 1992, 106 Stat. 2694.)
 
 #### Amendments
 

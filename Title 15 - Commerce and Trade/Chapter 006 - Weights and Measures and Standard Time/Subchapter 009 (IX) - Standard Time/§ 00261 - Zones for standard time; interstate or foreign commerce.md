@@ -24,7 +24,7 @@ Act Mar. 31, 1949, ch. 43, 63 Stat. 29, authorized the Board of Commissioners \[
 
 #### Return to Standard Time
 
-Act Sept. 25, 1945, ch. 388, 59 Stat. 537, provided, that, notwithstanding the provisions of act Jan. 20, 1942, ch. 7, 56 Stat. 9, which provided for war time, the standard time for each zone as provided for in sections 261 to 264 of this title should again become effective as of Sept. 30, 1945, at 2:00 A.M.
+Act Sept. 25, 1945, ch. 388, 59 Stat. 537, provided, that, notwithstanding the provisions of act Jan. 20, 1942, ch.7, 56 Stat. 9, which provided for war time, the standard time for each zone as provided for in sections 261 to 264 of this title should again become effective as of Sept. 30, 1945, at 2:00 A.M.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §5945 . Staff corps officers: limitation on power to command
+### §5945. Staff corps officers: limitation on power to command
 
 An officer in a staff corps may command only such activities as are appropriate to his corps.
 

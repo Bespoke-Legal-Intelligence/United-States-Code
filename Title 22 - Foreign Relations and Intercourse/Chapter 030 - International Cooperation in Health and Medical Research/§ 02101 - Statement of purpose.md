@@ -38,7 +38,7 @@ Pub. L. 94–302, title III, §301, May 31, 1976, 90 Stat. 596, provided that:
 
 &emsp;“(3) the global nature of swine influenza demands international cooperation and coordination in the investigation and planning for effective control of swine influenza;
 
-&emsp;“(4) the Public Health Service of the United States has invited the World Health Organization of theUnited Nations and its International Influenza Reference Centers to participate in the investigation and planning for the control of swine influenza;
+&emsp;“(4) the Public Health Service of the United States has invited the World Health Organization of the United Nations and its International Influenza Reference Centers to participate in the investigation and planning for the control of swine influenza;
 
 &emsp;“(5) special collaboration has already been established among the United States, the United Kingdom, and Canada for mutual participation in the investigation and planning for the control of swine influenza;
 

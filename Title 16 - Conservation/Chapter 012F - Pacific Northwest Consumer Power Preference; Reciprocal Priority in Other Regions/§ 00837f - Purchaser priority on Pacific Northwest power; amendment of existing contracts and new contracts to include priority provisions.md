@@ -6,5 +6,5 @@ The Secretary shall offer to amend, without imposing any other requirements as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 839f of this title.
+This section is referred to in sections 832m, 839f of this title.
 

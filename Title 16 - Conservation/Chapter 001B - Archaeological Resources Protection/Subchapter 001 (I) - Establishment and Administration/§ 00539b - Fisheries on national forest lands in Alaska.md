@@ -32,7 +32,7 @@ Because of the large scale of contemplated mining operations and the proximity o
 
 &emsp;(B) the Secretary shall review such plan and mining activities on at least an annual basis. With respect to any mining or associated activities, the Secretary, if he determines upon notice and hearing, that the activities are harmful to the continued productivity of anadromous fish, or other foodfish populations or fishery habitat, shall require a modification of the plan to eliminate or mitigate, if necessary, the harmful effects of such activities; and
 
-&emsp;(5) upon a finding by the Secretary that a mining activity conducted as a part of a mining operation exists which constitutes a threat of irreparable harm to anadromous fish, orother foodfish populations or their habitat, and that immediate correction is required to prevent such harm, he may require such activity to be suspended for not to exceed seven days, provided the activity may be resumed at the end of said seven-day period unless otherwise required by a United States district court.
+&emsp;(5) upon a finding by the Secretary that a mining activity conducted as a part of a mining operation exists which constitutes a threat of irreparable harm to anadromous fish, or other foodfish populations or their habitat, and that immediate correction is required to prevent such harm, he may require such activity to be suspended for not to exceed seven days, provided the activity may be resumed at the end of said seven-day period unless otherwise required by a United States district court.
 
 #### (c) Authority of State of Alaska to manage fish and wildlife
 

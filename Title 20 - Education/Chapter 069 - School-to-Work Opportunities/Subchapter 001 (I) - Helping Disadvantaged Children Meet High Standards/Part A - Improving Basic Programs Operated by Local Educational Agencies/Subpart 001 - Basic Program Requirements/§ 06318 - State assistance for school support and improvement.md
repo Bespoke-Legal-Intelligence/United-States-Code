@@ -72,9 +72,9 @@ In order to implement this section funds reserved under section 6303(a) of this 
 
 #### (e) Alternatives
 
-The State may devise additional approaches to providing the assistance described in paragraphs\(1) and (3) of subsection (c) of this section, such as providing assistance through institutions of higher education and educational service agencies or other local consortia, and the State may seek approval from the Secretary to use funds reserved under section 6303 of this title and funds made available under section 6302(f) of this title for such approaches as part of the State plan.
+The State may devise additional approaches to providing the assistance described in paragraphs (1) and (3) of subsection (c) of this section, such as providing assistance through institutions of higher education and educational service agencies or other local consortia, and the State may seek approval from the Secretary to use funds reserved under section 6303 of this title and funds made available under section 6302(f) of this title for such approaches as part of the State plan.
 
-(Pub. L. 89 10, title I, §1117, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3548.)
+(Pub. L. 89–10, title I, §1117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3548.)
 
 #### Section Referred to in Other Sections
 

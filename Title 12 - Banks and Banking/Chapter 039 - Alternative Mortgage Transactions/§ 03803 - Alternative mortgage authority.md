@@ -1,4 +1,4 @@
-### §3803 . Alternative mortgage authority
+### §3803. Alternative mortgage authority
 
 #### (a) General authority; compliance by banks, credit unions and all other housing creditors with applicable regulations
 

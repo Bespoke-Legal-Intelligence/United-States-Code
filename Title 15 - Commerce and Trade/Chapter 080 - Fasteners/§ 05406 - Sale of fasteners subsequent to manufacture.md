@@ -30,7 +30,7 @@ It shall be unlawful for a manufacturer to sell any shipment of fasteners (excep
 
 &emsp;(A) the manufacturer provides to the importer or private label distributor a manufacturer's certificate certifying that the fasteners have been manufactured according to the requirements of the applicable standards and specifications; and
 
-&emsp;(B) the importer or private label distributor assumes responsibility in writing for the inspection and testing of such lot or portion by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title.
+&emsp;(B) the importer or private label distributor assumes responsibility in writing for the inspection and testing of such lot or portion by a laboratory accredited in accordance with theprocedures and conditions specified by the Secretary under section 5405 of this title.
 
 (2) If the importer or private distributor assumes the responsibility in writing for the inspection and testing of such lot or portion, the provisions of section 5404(a) of this title and subsections (a) and (b) of this section shall apply to the importer or private label distributor in the same manner and extent as to a manufacturer; except that the importer or private label distributor shall provide to the testing laboratory the manufacturer's certificate described under paragraph (1) of this subsection.
 
@@ -54,7 +54,7 @@ It shall be unlawful for a manufacturer to sell any shipment of fasteners (excep
 
 &emsp;(B) for assembling components of a product or structure for sale,
 
-> unless the container of fasteners sold is conspicously<sup>1</sup> marked with the number of the lot from which such fasteners were taken, except that this requirement shall not apply to sales by original equipment manufacturers to their authorized dealers for use in assembling or servicing products produced by the original equipment manufacturer.
+> unless the container of fasteners sold is conspicously <sup>1</sup> marked with the number of the lot from which such fasteners were taken, except that this requirement shall not apply to sales by original equipment manufacturers to their authorized dealers for use in assembling or servicing products produced by the original equipment manufacturer.
 
 (2) If a person who purchases fasteners for purposes other than those described in paragraph (1)(A) and (B) so requests either prior to the sale or at the time of sale, the seller shall conspicuously mark the container of fasteners with the lot number from which such fasteners were taken.
 
@@ -62,11 +62,11 @@ It shall be unlawful for a manufacturer to sell any shipment of fasteners (excep
 
 The Secretary may issue such regulations as may be necessary to ensure compliance with the provisions of this section.
 
-(Pub. L. 101 592, §7, Nov. 16, 1990, 104 Stat. 2948.)
+(Pub. L. 101–592, §7, Nov. 16, 1990, 104 Stat. 2948.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5404 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “conspicuously”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
 

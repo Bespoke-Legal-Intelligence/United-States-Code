@@ -34,7 +34,7 @@ The provisions of subsections (c), (d), (e), and (f) of section 1743 of this tit
 
 #### References in Text
 
-Section 1709(b)(2)(D) of this title, referred to in subsec. (b)(4), is a reference to subsec. (b)(2)(D) of section 1709 prior to amendment by section 104 of act Aug. 2, 1954, ch. 649, 68 Stat. 590.
+Section 1709(b)(2)(D) of this title, referred to in subsec. (b)(4), is a reference to subsec. (b)(2)(D) of section1709 prior to amendment by section 104 of act Aug. 2, 1954, ch. 649, 68 Stat. 590.
 
 #### Amendments
 

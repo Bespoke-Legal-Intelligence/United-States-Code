@@ -4,7 +4,7 @@
 
 Applications To Begin or Keep Transportation.—(1) A State, a regional or local authority, or another person may apply to Amtrak and request Amtrak to provide rail passenger transportation or keep any part of a train, route, or service that Amtrak intends to discontinue under section 24706(a) or (b) or 24707(a) or (b) of this title. An application shall—
 
-&emsp;(A) assure Amtrak that the State, authority, or person has sufficient resources to meet its share of the cost of the transportation for the time the transportation will be provided;
+&emsp;(A) assure Amtrak that the State, authority, or person has sufficient resources to meet itsshare of the cost of the transportation for the time the transportation will be provided;
 
 &emsp;(B) contain a market analysis acceptable to Amtrak to ensure that there is adequate demand for the transportation; and
 
@@ -14,7 +14,7 @@ Applications To Begin or Keep Transportation.—(1) A State, a regional or local
 
 (b)
 
-Actions on Applications.—(1) Amtrak shall review each application submitted undersubsection (a) of this section to decide whether—
+Actions on Applications.—(1) Amtrak shall review each application submitted under subsection (a) of this section to decide whether—
 
 &emsp;(A) the application complies with subsection (a); and
 

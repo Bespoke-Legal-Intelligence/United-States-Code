@@ -24,7 +24,7 @@ An application filed by a local educational agency under subsection (a) of this 
 
 Subject to the limitations and requirements of this subchapter, a local educational agency shall have complete discretion in determining how funds under this part shall be divided among the areas of targeted assistance. In exercising such discretion, a local educational agency shall ensure that expenditures under this part carry out the purposes of this subchapter and are used to meet the educational needs within the schools of such local educational agency.
 
-(Pub. L. 89 10, title VI, §6303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3711.)
+(Pub. L. 89–10, title VI, §6303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711.)
 
 #### Section Referred to in Other Sections
 

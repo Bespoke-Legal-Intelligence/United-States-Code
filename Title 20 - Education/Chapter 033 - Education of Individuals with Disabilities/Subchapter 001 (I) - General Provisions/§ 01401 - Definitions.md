@@ -14,9 +14,9 @@
 
 &emsp;&emsp;(ii) who, by reason thereof, need special education and related services.
 
-&emsp;(2) Repealed. Pub. L. 98 199, §2(2), Dec. 2, 1983, 97 Stat. 1357.
+&emsp;(2) Repealed. Pub. L. 98–199, §2(2), Dec. 2, 1983, 97 Stat. 1357.
 
-&emsp;(3) Repealed. Pub. L. 100 630, title I, §101(a)(2), Nov. 7, 1988, 102 Stat. 3289.
+&emsp;(3) Repealed. Pub. L. 100–630, title I, §101(a)(2), Nov. 7, 1988, 102 Stat. 3289.
 
 &emsp;(4) The term “construction”, except where otherwise specified, means (A) erection of new or expansion of existing structures, and the acquisition and installation of equipment therefor; or (B) acquisition of existing structures not owned by any agency or institution making application for assistance under this chapter; or (C) remodeling or alteration (including the acquisition, installation, modernization, or replacement of equipment) of existing structures; or (D) acquisition of land in connection with activities in clauses (A), (B), and (C); or (E) a combination of any two or more of the foregoing.
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(C) a statement of the specific educational services to be provided to such child, and the extent to which such child will be able to participate in regular educational programs,
 
-&emsp;&emsp;(D) a statement of the needed transition services for students beginning no later than age 16 and annually thereafter (and, when determined appropriate for the individual, beginning at age 14 or younger), including, when appropriate, a statement of the interagency reponsibilities<sup>1</sup> or linkages (or both) before the student leaves the school setting,
+&emsp;&emsp;(D) a statement of the needed transition services for students beginning no later than age 16 and annually thereafter (and, when determined appropriate for the individual, beginning at age 14 or younger), including, when appropriate, a statement of the interagency reponsibilities <sup>1</sup> or linkages (or both) before the student leaves the school setting,
 
 &emsp;&emsp;(E) the projected date for initiation and anticipated duration of such services, and
 
@@ -102,9 +102,9 @@
 
 &emsp;&emsp;(B) any State or local funds expended for programs that would qualify for assistance under such subchapter, chapter, or title.
 
-&emsp;(22) The term “native language” has the meaning given that term by section 7003(a)(2)<sup>2</sup> of the Bilingual Education Act.
+&emsp;(22) The term “native language” has the meaning given that term by section 7003(a)(2) <sup>2</sup> of the Bilingual Education Act.
 
-&emsp;(23) The term “intermediate educational unit” means any public authority, other than a local educational agency, which is under the general supervision of a State educational agency, which is established by State law for the purpose of providing free public education on a regional basis, and which provides special education and related services to children with disabilities within that State.
+&emsp;(23) The term “intermediate educational unit” means any public authority, other thana local educational agency, which is under the general supervision of a State educational agency, which is established by State law for the purpose of providing free public education on a regional basis, and which provides special education and related services to children with disabilities within that State.
 
 &emsp;(24)(A) The term “public or private nonprofit agency or organization” includes an Indian tribe and the Bureau of Indian Affairs of the Department of the Interior (when acting on behalf of schools operated by the Bureau for children and students on Indian reservations) and tribally controlled schools funded by the Department of the Interior.
 
@@ -136,49 +136,49 @@
 
 &emsp;(2) is enrolled in the seventh or higher grade in school.
 
-(Pub. L. 91 230, title VI, §602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94 142, §4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98 199, §§2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99 457, title IV, §402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100 630, title I, §101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101 476, title I, §101, title IX, §901(b)(10) (20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102 73, title VIII, §802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102 119, §§3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103 382, title III, §391(f)(1), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 91–230, title VI, §602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98–199, §§2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99–457, title IV, §402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, §101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, title I, §101, title IX, §901(b)(10)–(20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102–73, title VIII, §802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103–382, title III, §391(f)(1), Oct. 20, 1994, 108 Stat. 4023.)
 
 #### References in Text
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec. (a)(6), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (a)(11), is Pub. L. 95 471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (a)(11), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(21)(A)(ii) and (iii), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Titles I and VII of the Act are classified generally to subchapters I (§6301 et seq.) and VII (§7401 et seq.), respectively, of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(21)(A)(ii) and (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Titles I and VII of the Act are classified generally to subchapters I (§6301 et seq.) and VII (§7401 et seq.), respectively, of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-Section 7003(a)(2) of the Bilingual Education Act, referred to in subsec. (a)(22), is section 7003(a)(2) of Pub. L. 89 10, title VII, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 276, as amended, which was classified to section 3283(a)(2) of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions defining “native language”, see section 7601(11) of this title.
+Section 7003(a)(2) of the Bilingual Education Act, referred to in subsec. (a)(22), is section 7003(a)(2) of Pub. L. 89–10, title VII, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 276, as amended, which was classified to section 3283(a)(2) of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions defining “native language”, see section 7601(11) of this title.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a)(24)(C), is Pub. L. 92 203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a)(24)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
 
-1994—Subsec. (a)(21)(A)(ii). Pub. L. 103 382 substituted “title I” for “chapter 1 of title I”.
+1994—Subsec. (a)(21)(A)(ii). Pub. L. 103–382 substituted “title I” for “chapter 1 of title I”.
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 102 119, §25(a)(1)(A), inserted comma after “thereof” in subpar. (A)(ii).
+Subsec. (a)(1). Pub. L. 102–119, §25(a)(1)(A), inserted comma after “thereof” in subpar. (A)(ii).
 
-Pub. L. 102 119, §3, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+Pub. L. 102–119, §3, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
-Subsec. (a)(6). Pub. L. 102 73, which directed the substitution of “or Palau (until the Compact of Free Association with Palau takes effect pursuant to section 1931(a) of title 48)” for “or the Trust Territory of the Pacific Islands” in section 602(a)(6) of the “Education of the Handicapped Act”, was executed to this section, which is section 602 of the Individuals with Disabilities Education Act, to reflect the probable intent of Congress, and the corresponding change in the Short Title of that Act. See section 1400(a) of this title.
+Subsec. (a)(6). Pub. L. 102–73, which directed the substitution of “or Palau (until the Compact of Free Association with Palau takes effect pursuant to section 1931(a) of title 48)” for “or the Trust Territory of the Pacific Islands” in section 602(a)(6) of the “Education of the Handicapped Act”, was executed to this section, which is section 602 of the Individuals with Disabilities Education Act, to reflect the probable intent of Congress, and the corresponding change in the Short Title of that Act. See section 1400(a) of this title.
 
-Subsec. (a)(17). Pub. L. 102 119, §25(a)(1)(B), substituted “, social work services, counseling services, including rehabilitation counseling, and medical services,” for “and social work services, and medical and counseling services, including rehabilitation counseling,” and was executed by making the substitution for the quoted words which in the original contained two commas after “counseling services”, to reflect the probable intent of Congress.
+Subsec. (a)(17). Pub. L. 102–119, §25(a)(1)(B), substituted “, social work services, counseling services, including rehabilitation counseling, and medical services,” for “and social work services, and medical and counseling services, including rehabilitation counseling,” and was executed by making the substitution for the quoted words which in the original contained two commas after “counseling services”, to reflect the probable intent of Congress.
 
-Subsec. (a)(22). Pub. L. 102 119, §25(a)(1)(C), substituted “section 7003(a)(2)” for “section 703(a)(2)”.
+Subsec. (a)(22). Pub. L. 102–119, §25(a)(1)(C), substituted “section 7003(a)(2)” for “section 703(a)(2)”.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Subsec. (a)(1). Pub. L. 101 476, §901(b)(10), which directed substitution of “children with disabilities” for “handicapped children”, could not be executed because “handicapped children” did not appear following general amendment by Pub. L. 101 476, §101(a). See below.
+Subsec. (a)(1). Pub. L. 101–476, §901(b)(10), which directed substitution of “children with disabilities” for “handicapped children”, could not be executed because “handicapped children” did not appear following general amendment by Pub. L. 101–476, §101(a). See below.
 
-Pub. L. 101 476, §101(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘handicapped children’ means mentally retarded, hard of hearing, deaf, speech or language impaired, visually handicapped, seriously emotionally disturbed, orthopedically impaired, or other health impaired children, or children with specific learning disabilities, who by reason thereof require special education and related services.”
+Pub. L. 101–476, §101(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘handicapped children’ means mentally retarded, hard of hearing, deaf, speech or language impaired, visually handicapped, seriously emotionally disturbed, orthopedically impaired, or other health impaired children, or children with specific learning disabilities, who by reason thereof require special education and related services.”
 
-Subsec. (a)(13). Pub. L. 101 476, §901(b)(11), substituted “children with disabilities” for “handicapped children”.
+Subsec. (a)(13). Pub. L. 101–476, §901(b)(11), substituted “children with disabilities” for “handicapped children”.
 
-Subsec. (a)(15). Pub. L. 101 476, §901(b)(12), substituted “perceptual disabilities” for “perceptual handicaps” and “motor disabilities” for “motor handicaps”.
+Subsec. (a)(15). Pub. L. 101–476, §901(b)(12), substituted “perceptual disabilities” for “perceptual handicaps” and “motor disabilities” for “motor handicaps”.
 
-Subsec. (a)(16). Pub. L. 101 476, §901(b)(13), substituted “child with a disability” for “handicapped child”.
+Subsec. (a)(16). Pub. L. 101–476, §901(b)(13), substituted “child with a disability” for “handicapped child”.
 
-Pub. L. 101 476, §101(b), substituted “including—
+Pub. L. 101–476, §101(b), substituted “including—
 
 &emsp;“(A) instruction conducted in the classroom, in the home, in hospitals and institutions, and in other settings; and
 
@@ -186,83 +186,83 @@ Pub. L. 101 476, §101(b), substituted “including—
 
 > for “including classroom instruction, instruction in physical education, home instruction, and instruction in hospitals and institutions”.
 
-Subsec. (a)(17). Pub. L. 101 476, §901(b)(14), (15), substituted “child with a disability” for “handicapped child” and “disabling” for “handicapping”.
+Subsec. (a)(17). Pub. L. 101–476, §901(b)(14), (15), substituted “child with a disability” for “handicapped child” and “disabling” for “handicapping”.
 
-Pub. L. 101 476, §101(c), inserted “including therapeutic recreation and social work services,” after “recreation,” and “, including rehabilitation counseling,” after “counseling services,”.
+Pub. L. 101–476, §101(c), inserted “including therapeutic recreation and social work services,” after “recreation,” and “, including rehabilitation counseling,” after “counseling services,”.
 
-Subsec. (a)(19). Pub. L. 101 476, §101(d), added par. (19). Former par. (19) redesignated (20).
+Subsec. (a)(19). Pub. L. 101–476, §101(d), added par. (19). Former par. (19) redesignated (20).
 
-Subsec. (a)(20). Pub. L. 101 476, §901(b)(16), (17), which directed the substitution of “child with a disability” for “handicapped child” and “children with disabilities” for “handicapped children” in par. (19), was executed by making the substitutions in par. (20) to reflect the probable intent of Congress and the intervening redesignation of par. (19) as (20) by Pub. L. 101 476, §101(d). See below.
+Subsec. (a)(20). Pub. L. 101–476, §901(b)(16), (17), which directed the substitution of “child with a disability” for “handicapped child” and “children with disabilities” for “handicapped children” in par. (19), was executed by making the substitutions in par. (20) to reflect the probable intent of Congress and the intervening redesignation of par. (19) as (20) by Pub. L. 101–476, §101(d). See below.
 
-Pub. L. 101 476, §101(d), (e), redesignated par. (19) as (20), added subpar. (D), redesignated former subpars. (D) and (E) as (E) and (F), respectively, and inserted after subpar. (F) “In the case where a participating agency, other than the educational agency, fails to provide agreed upon services, the educational agency shall reconvene the IEP team to identify alternative strategies to meet the transition objectives.” Former par. (20) redesignated (21).
+Pub. L. 101–476, §101(d), (e), redesignated par. (19) as (20), added subpar. (D), redesignated former subpars. (D) and (E) as (E) and (F), respectively, and inserted after subpar. (F) “In the case where a participating agency, other than the educational agency, fails to provide agreed upon services, the educational agency shall reconvene the IEP team to identify alternative strategies to meet the transition objectives.” Former par. (20) redesignated (21).
 
-Subsec. (a)(21), (22). Pub. L. 101 476, §101(d), redesignated pars. (20) and (21) as (21) and (22), respectively. Former par. (22) redesignated (23).
+Subsec. (a)(21), (22). Pub. L. 101–476, §101(d), redesignated pars. (20) and (21) as (21) and (22), respectively. Former par. (22) redesignated (23).
 
-Subsec. (a)(23). Pub. L. 101 476, §901(b)(18), which directed the substitution of “children with disabilities” for “handicapped children” in par. (22), was executed by making the substitution in par. (23) to reflect the probable intent of Congress and the intervening redesignation of par. (22) as (23) by Pub. L. 101 476, §101(d). See below.
+Subsec. (a)(23). Pub. L. 101–476, §901(b)(18), which directed the substitution of “children with disabilities” for “handicapped children” in par. (22), was executed by making the substitution in par. (23) to reflect the probable intent of Congress and the intervening redesignation of par. (22) as (23) by Pub. L. 101–476, §101(d). See below.
 
-Pub. L. 101 476, §101(d), redesignated par. (22) as (23). Former par. (23) redesignated (24).
+Pub. L. 101–476, §101(d), redesignated par. (22) as (23). Former par. (23) redesignated (24).
 
-Subsec. (a)(24). Pub. L. 101 476, §101(d), (f), redesignated par. (23) as (24) and inserted before period at end of subpar. (A) “and the Bureau of Indian Affairs of the Department of the Interior (when acting on behalf of schools operated by the Bureau for children and students on Indian reservations) and tribally controlled schools funded by the Department of the Interior”.
+Subsec. (a)(24). Pub. L. 101–476, §101(d), (f), redesignated par. (23) as (24) and inserted before period at end of subpar. (A) “and the Bureau of Indian Affairs of the Department of the Interior (when acting on behalf of schools operated by the Bureau for children and students on Indian reservations) and tribally controlled schools funded by the Department of the Interior”.
 
-Subsec. (a)(25) to (27). Pub. L. 101 476, §101(g) (i), added pars. (25) to (27).
+Subsec. (a)(25) to (27). Pub. L. 101–476, §101(g)–(i), added pars. (25) to (27).
 
-Subsec. (b). Pub. L. 101 476, §901(b)(19), (20), substituted “youth with a disability” for “handicapped youth” and “child with a disability” for “handicapped child”.
+Subsec. (b). Pub. L. 101–476, §901(b)(19), (20), substituted “youth with a disability” for “handicapped youth” and “child with a disability” for “handicapped child”.
 
-1988—Subsec. (a). Pub. L. 100 630, §101(a)(1), realigned margins of all pars.
+1988—Subsec. (a). Pub. L. 100–630, §101(a)(1), realigned margins of all pars.
 
-Subsec. (a)(3). Pub. L. 100 630, §101(a)(2), struck out par. (3) which read as follows: “The term ‘Advisory Committee’ means the National Advisory Committee on the Education of Handicapped Children.”
+Subsec. (a)(3). Pub. L. 100–630, §101(a)(2), struck out par. (3) which read as follows: “The term ‘Advisory Committee’ means the National Advisory Committee on the Education of Handicapped Children.”
 
-Subsec. (a)(6). Pub. L. 100 630, §101(a)(3), substituted “Commonwealth of the Northern Mariana Islands” for “Northern Mariana Islands”.
+Subsec. (a)(6). Pub. L. 100–630, §101(a)(3), substituted “Commonwealth of the Northern Mariana Islands” for “Northern Mariana Islands”.
 
-Subsec. (a)(11). Pub. L. 100 630, §101(a)(4), (5), realigned margins of subpars. (A) to (E), in subpar. (D) inserted “and” after “other nonprofit institution;”, in subpar. (E) substituted “the Secretary shall appoint” for “he shall appoint”, “which the Secretary determines” for “which he determines”, and a period for “; and”, struck out subpar. (F) which related to community colleges receiving funding from Secretary of the Interior under Public Law 95 471, and inserted at end “The term includes community colleges receiving funding from the Secretary of the Interior under the Tribally Controlled Community College Assistance Act of 1978.”
+Subsec. (a)(11). Pub. L. 100–630, §101(a)(4), (5), realigned margins of subpars. (A) to (E), in subpar. (D) inserted “and” after “other nonprofit institution;”, in subpar. (E) substituted “the Secretary shall appoint” for “he shall appoint”, “which the Secretary determines” for “which he determines”, and a period for “; and”, struck out subpar. (F) which related to community colleges receiving funding from Secretary of the Interior under Public Law 95–471, and inserted at end “The term includes community colleges receiving funding from the Secretary of the Interior under the Tribally Controlled Community College Assistance Act of 1978.”
 
-Subsec. (a)(18). Pub. L. 100 630, §101(a)(6), substituted “services that—” for “services which”, added subpars. (A) to (D), and struck out cls. (A) to (D) which read as follows: “(A) have been provided at public expense, under public supervision and direction, and without charge, (B) meet the standards of the State educational agency, (C) include an appropriate preschool, elementary, or secondary school education in the State involved, and (D) are provided in conformity with the individualized education program required under section 1414(a)(5) of this title.”
+Subsec. (a)(18). Pub. L. 100–630, §101(a)(6), substituted “services that—” for “services which”, added subpars. (A) to (D), and struck out cls. (A) to (D) which read as follows: “(A) have been provided at public expense, under public supervision and direction, and without charge, (B) meet the standards of the State educational agency, (C) include an appropriate preschool, elementary, or secondary school education in the State involved, and (D) are provided in conformity with the individualized education program required under section 1414(a)(5) of this title.”
 
-Subsec. (a)(19). Pub. L. 100 630, §101(a)(7), substituted “statement shall include—” for “statement shall include”, added subpars. (A) to (E), and struck out cls. (A) to (E) which read as follows: “(A) a statement of the present levels of educational performance of such child, (B) a statement of annual goals, including short-term instructional objectives, (C) a statement of the specific educational services to be provided to such child, and the extent to which such child will be able to participate in regular educational programs, (D) the projected date for initiation and anticipated duration of such services, and (E) appropriate objective criteria and evaluation procedures and schedules for determining, on at least an annual basis, whether instructional objectives are being achieved.”
+Subsec. (a)(19). Pub. L. 100–630, §101(a)(7), substituted “statement shall include—” for “statement shall include”, added subpars. (A) to (E), and struck out cls. (A) to (E) which read as follows: “(A) a statement of the present levels of educational performance of such child, (B) a statement of annual goals, including short-term instructional objectives, (C) a statement of the specific educational services to be provided to such child, and the extent to which such child will be able to participate in regular educational programs, (D) the projected date for initiation and anticipated duration of such services, and (E) appropriate objective criteria and evaluation procedures and schedules for determining, on at least an annual basis, whether instructional objectives are being achieved.”
 
-Subsec. (a)(20). Pub. L. 100 630, §101(a)(8), substituted “after deducting—” for “after deducting”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows: “(A) amounts received under this subchapter or under title I or title VII of the Elementary and Secondary Education Act of 1965, and (B) any State or local funds expended for programs which would qualify for assistance under this subchapter or under such titles.”
+Subsec. (a)(20). Pub. L. 100–630, §101(a)(8), substituted “after deducting—” for “after deducting”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows: “(A) amounts received under this subchapter or under title I or title VII of the Elementary and Secondary Education Act of 1965, and (B) any State or local funds expended for programs which would qualify for assistance under this subchapter or under such titles.”
 
-Subsec. (a)(21). Pub. L. 100 630, §101(a)(9), made technical amendment to reference to section 703(a)(2) of the Bilingual Education Act to delete an obsolete United States Code citation, requiring no change in text.
+Subsec. (a)(21). Pub. L. 100–630, §101(a)(9), made technical amendment to reference to section 703(a)(2) of the Bilingual Education Act to delete an obsolete United States Code citation, requiring no change in text.
 
-Subsec. (a)(23). Pub. L. 100 630, §101(a)(10), realigned margins of subpars. (A) to (C).
+Subsec. (a)(23). Pub. L. 100–630, §101(a)(10), realigned margins of subpars. (A) to (C).
 
-Subsec. (b). Pub. L. 100 630, §101(a)(11), made technical amendment to reference to subsection (a)(1) of this section, requiring no change in text.
+Subsec. (b). Pub. L. 100–630, §101(a)(11), made technical amendment to reference to subsection (a)(1) of this section, requiring no change in text.
 
-1986—Subsec. (a)(11)(F). Pub. L. 99 457, §402(1), added subpar. (F).
+1986—Subsec. (a)(11)(F). Pub. L. 99–457, §402(1), added subpar. (F).
 
-Subsec. (a)(23). Pub. L. 99 457, §402(2), added par. (23).
+Subsec. (a)(23). Pub. L. 99–457, §402(2), added par. (23).
 
-1983—Subsec. (a). Pub. L. 98 199, §2(6), designated existing provisions as subsec. (a).
+1983—Subsec. (a). Pub. L. 98–199, §2(6), designated existing provisions as subsec. (a).
 
-Subsec. (a)(1). Pub. L. 98 199, §2(1), included language impaired children within term “handicapped children”.
+Subsec. (a)(1). Pub. L. 98–199, §2(1), included language impaired children within term “handicapped children”.
 
-Subsec. (a)(2). Pub. L. 98 199, §2(2), struck out definition of “Commissioner” as meaning the Commissioner of Education.
+Subsec. (a)(2). Pub. L. 98–199, §2(2), struck out definition of “Commissioner” as meaning the Commissioner of Education.
 
-Subsec. (a)(3). Pub. L. 98 199, §2(3), inserted “the Education of” after “Committee on”.
+Subsec. (a)(3). Pub. L. 98–199, §2(3), inserted “the Education of” after “Committee on”.
 
-Subsec. (a)(6). Pub. L. 98 199, §2(4), included the Northern Mariana Islands within term “State”.
+Subsec. (a)(6). Pub. L. 98–199, §2(4), included the Northern Mariana Islands within term “State”.
 
-Subsec. (a)(11)(E). Pub. L. 98 199, §3(b), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (a)(11)(E). Pub. L. 98–199, §3(b), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsec. (a)(14). Pub. L. 98 199, §2(5), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
+Subsec. (a)(14). Pub. L. 98–199, §2(5), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (b). Pub. L. 98 199, §2(7), added subsec. (b).
+Subsec. (b). Pub. L. 98–199, §2(7), added subsec. (b).
 
-1975—Par. (1). Pub. L. 94 142, §4(a)(1), substituted “orthopedically impaired” for “crippled” and inserted reference to children with specific learning disabilities.
+1975—Par. (1). Pub. L. 94–142, §4(a)(1), substituted “orthopedically impaired” for “crippled” and inserted reference to children with specific learning disabilities.
 
-Par. (5). Pub. L. 94 142, §4(a)(2), inserted reference to telecommunications, sensory, and other technological aids and devices.
+Par. (5). Pub. L. 94–142, §4(a)(2), inserted reference to telecommunications, sensory, and other technological aids and devices.
 
-Par. (15). Pub. L. 94 142, §4(a)(3), added children with learning problems which are primarily the result of cultural or economic disadvantage to the enumeration of children not to be included within term “children with specific learning disabilities”.
+Par. (15). Pub. L. 94–142, §4(a)(3), added children with learning problems which are primarily the result of cultural or economic disadvantage to the enumeration of children not to be included within term “children with specific learning disabilities”.
 
-Pars. (16) to (22). Pub. L. 94 142, §4(a)(4), added pars. (16) to (22).
+Pars. (16) to (22). Pub. L. 94–142, §4(a)(4), added pars. (16) to (22).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1983 Amendment
 
-Section 18 of Pub. L. 98 199, as amended by Pub. L. 101 476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that:
+Section 18 of Pub. L. 98–199, as amended by Pub. L. 101–476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that:
 
 “(a) Except as provided in subsection (b), the provisions of this Act \[enacting sections 1407 and 1427 of this title, amending this section and sections 1402 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title; repealing section 1461 of this title; omitting section 1436 of this title; enacting a provision set out as a note under section 1400 of this title; and amending provisions set out as notes under sections 101, 681, and 1411 of this title\] shall take effect on the date of enactment of this Act \[Dec. 2, 1983\].
 
@@ -272,13 +272,13 @@ Section 18 of Pub. L. 98 199, as amended by Pub. L. 101 476, title IX, §901(a)(
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94 142 effective Oct. 1, 1977, see section 8(c) of Pub. L. 94 142, set out as a note under section 1411 of this title.
+Amendment by Pub. L. 94–142 effective Oct. 1, 1977, see section 8(c) of Pub. L. 94–142, set out as a note under section 1411 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1087ee, 1087ii, 1415, 1425, 1603, 5802, 6063, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff 2, 1396n, 5116, 5117c, 9835, 12511.
+This section is referred to in sections 1087ee, 1087ii, 1415, 1425, 5802, 6063, 6103, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 5116, 5117c, 9835, 12511.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “responsibilities”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “responsibilities”.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -110,7 +110,7 @@ For purposes of paragraph (2) of subsection (a)—
 
 &emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, titleI, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ In general.—The amount by which the deduction allowable under section 170 or 6
 
 “(B)
 
-Capital gain property.—For purposes of subparagraph (A), the term ‘capital gain property’ has the meaning given to such term by section 170(b)(1)(C)(iv). Such term shall not include any property to which an election under section 170(b)(1)(C)(iii) applies. In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property. In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+Capital gain property.—For purposes of subparagraph (A), the term ‘capital gain property’ has the meaning given to such term by section 170(b)(1)(C)(iv). Such term shall not include any property to which an election under section 170(b)(1)(C)(iii) applies. In thecase of any taxable year beginning in 1991, such term shall not include any tangible personal property. In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
 
 Subsec. (a)(8). Pub. L. 103–66, §13171(a), redesignated par. (8) as (7).
 
@@ -184,7 +184,7 @@ For provisions that nothing in amendment by sections 11801 and 11815 of Pub. L. 
 
 Section 1007(f)(4) of Pub. L. 100–647 provided that:
 
-“(A) If any property to which this paragraph applies is placed in service in a taxable year which begins before January 1, 1987, and ends on or after August 1, 1986, the item of tax preference determined under section 57(a) of the Internal Revenue Code of 1954 (as in effecton the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) with respect to such property shall be the excess of—
+“(A) If any property to which this paragraph applies is placed in service in a taxable year which begins before January 1, 1987, and ends on or after August 1, 1986, the item of tax preference determined under section 57(a) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) with respect to such property shall be the excess of—
 
 &emsp;“(i) the amount allowable as a deduction for depreciation or amortization for such taxable year, over
 

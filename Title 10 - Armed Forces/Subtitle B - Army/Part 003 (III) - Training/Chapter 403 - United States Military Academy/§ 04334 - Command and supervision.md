@@ -1,4 +1,4 @@
-### §4334 . Command and supervision
+### §4334. Command and supervision
 
 (a) The supervision and charge of the Academy is in the Department of the Army, under officers of the Army detailed to that duty by the Secretary of the Army.
 

@@ -1,4 +1,4 @@
-### §8114 . Computation of pay
+### §8114. Computation of pay
 
 (a) For the purpose of this section—
 
@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1966—Subsec. (e). Pub. L. 89–737 inserted reference to premium pay under section 5545(c)(1) of this title.
+<b>1966</b>—Subsec. (e). Pub. L. 89–737 inserted reference to premium pay under section 5545(c)(1) of this title.
 
 #### Effective Date of 1966 Amendment
 

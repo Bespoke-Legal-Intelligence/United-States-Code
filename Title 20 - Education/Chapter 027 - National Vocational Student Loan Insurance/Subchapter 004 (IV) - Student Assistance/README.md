@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1011a, 1058, 1066, 1069b, 1102b, 1104c, 1106d, 1111c, 1132i 2, 1145, 6031, 6103 of this title; title 8 section 1255a; title 10 sections 1151, 1598, 2410c; title 15 section 1603; title 25 section 3353; title 38 section 3698; title 42 sections 7274e, 12604; title 48 section 1905; title 50 App. section 462.
+This subchapter is referred to in sections 1011a, 1058, 1066, 1069b, 1102b, 1104c, 1106d, 1111c, 1132i–2, 1145, 6031, 6103 of this title; title 8 section 1255a; title 10 sections 1151, 1598, 2410c; title 15 section 1603; title 25 section 3353; title 38 section 3698; title 42 sections 7274e, 12604; title 48 section 1905; title 50 App. section 462.
 
 
 ---

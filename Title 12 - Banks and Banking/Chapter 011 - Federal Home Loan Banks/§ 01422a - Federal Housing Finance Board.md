@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The directors appointed pursuant to paragraph (1)(B) shall be from among persons with extensive experience or training in housing finance or with a commitment to providing specialized housing credit. An appointed director shall not hold any other appointed office during his or her term as director. Not more than 3 directors shall be members of the same political party. Notmore than 1 appointed director shall be from any single district of the Federal Home Loan Bank System. Nominations pursuant to this subparagraph shall be referred in the Senate to the Committee on Banking, Housing, and Urban Affairs.
+&emsp;&emsp;The directors appointed pursuant to paragraph (1)(B) shall be from among persons with extensive experience or training in housing finance or with a commitment to providing specialized housing credit. An appointed director shall not hold any other appointed office during his or her term as director. Not more than 3 directors shall be members of the same political party. Not more than 1 appointed director shall be from any single district of the Federal Home Loan Bank System. Nominations pursuant to this subparagraph shall be referred in the Senate to the Committee on Banking, Housing, and Urban Affairs.
 
 #### (B) Consumer representative
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;The President shall designate 1 of the appointed directors to be the Chairperson of the Board. The Chairperson shall designate another director to serve as Acting Chairperson during the absence or disability of the Chairperson.
+&emsp;The President shall designate 1 of the appointed directors to be the Chairperson of theBoard. The Chairperson shall designate another director to serve as Acting Chairperson during the absence or disability of the Chairperson.
 
 #### (2) Transitional provision
 

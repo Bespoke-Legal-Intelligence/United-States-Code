@@ -1,6 +1,6 @@
 ### §1053. Service marks registrable
 
-Subject to the provisions relating to the registration of trade-marks, so far as they are applicable, service marks shall be registrable, in the same manner and with the same effect asare trade-marks, and when registered they shall be entitled to the protection provided in this chapter in the case of trade-marks. Applications and procedure under this section shall conform as nearly as practicable to those prescribed for the registration of trade-marks.
+Subject to the provisions relating to the registration of trade-marks, so far as they are applicable, service marks shall be registrable, in the same manner and with the same effect as are trade-marks, and when registered they shall be entitled to the protection provided in this chapter in the case of trade-marks. Applications and procedure under this section shall conform as nearly as practicable to those prescribed for the registration of trade-marks.
 
 (July 5, 1946, ch. 540, title I, §3, 60 Stat. 429; Nov. 16, 1988, Pub. L. 100–667, title I, §105, 102 Stat. 3938.)
 

@@ -6,9 +6,9 @@ Except as otherwise provided in section 4017 of this title, nothing in this subc
 
 &emsp;(2) affect the rights of any party under any other law.
 
-(Pub. L. 98 377, title V, §510, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101 637, §14(a)(10), Nov. 28, 1990, 104 Stat. 4594.)
+(Pub. L. 98–377, title V, §510, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §14(a)(10), Nov. 28, 1990, 104 Stat. 4594.)
 
 #### Amendments
 
-1990—Pub. L. 101 637 inserted section catchline.
+1990—Pub. L. 101–637 inserted section catchline.
 

@@ -36,7 +36,7 @@
 
 (4) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the following reports on the evaluation under this subsection:
 
-&emsp;(A) Not later than February 1, 1993, an interim report containing information obtained during the first four years of the evaluation and any conclusions that the Secretary has drawn on the basis of that information.
+&emsp;(A) Not later than February 1, 1993, an interim report containing information obtainedduring the first four years of the evaluation and any conclusions that the Secretary has drawn on the basis of that information.
 
 &emsp;(B) Not later than March 31, 1998, a final report containing information obtained during the evaluation and the determinations and conclusions of the Secretary based on that information.
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 99–166, §101(a)(2), substituted “September 30, 1988”
 
 Pub. L. 99–108 substituted “October 31, 1985” for “the last day of the fifth fiscal year following the fiscal year in which the pilot program authorized by such subsection is initiated”.
 
-Subsec. (f). Pub. L. 99–166, §101(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on thefindings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
+Subsec. (f). Pub. L. 99–166, §101(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on the findings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
 
 1982—Subsec. (d)(1). Pub. L. 97–258 substituted “sections 1535 and 1536 of title 31” for “the Act of March 4, 1915 (31 U.S.C 686)” after “provisions of”.
 

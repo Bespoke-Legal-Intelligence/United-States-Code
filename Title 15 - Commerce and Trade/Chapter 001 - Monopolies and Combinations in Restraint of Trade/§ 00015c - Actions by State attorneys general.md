@@ -48,7 +48,7 @@ Amendment by Pub. L. 96–349 applicable only with respect to actions commenced 
 
 #### Effective Date
 
-Section 304 of Pub. L. 94–435 provided that: “The amendments to the Clayton Act made by section 301 ofthis Act \[enacting this section and sections 15d to 15h of this title\] shall not apply to any injury sustained prior to the date of enactment of this Act \[Sept. 30, 1976\].”
+Section 304 of Pub. L. 94–435 provided that: “The amendments to the Clayton Act made by section 301 of this Act \[enacting this section and sections 15d to 15h of this title\] shall not apply to any injury sustained prior to the date of enactment of this Act \[Sept. 30, 1976\].”
 
 #### Section Referred to in Other Sections
 

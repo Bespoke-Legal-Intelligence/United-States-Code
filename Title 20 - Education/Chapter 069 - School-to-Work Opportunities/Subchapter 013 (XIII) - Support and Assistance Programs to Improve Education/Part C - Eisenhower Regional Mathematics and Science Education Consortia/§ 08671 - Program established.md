@@ -30,11 +30,11 @@ Grants or contracts under this part shall be awarded for a period of not more th
 
 In awarding grants or contracts under this part, the Secretary shall ensure that there is a relatively equal distribution of the funds made available among the regions, except that the Secretary may award additional funds to a regional consortium on the basis of population and geographical conditions of the region being served.
 
-(Pub. L. 89 10, title XIII, §13301, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3882.)
+(Pub. L. 89–10, title XIII, §13301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3882.)
 
 #### Clubs for Boys and Girls Interested in Science; Authorization of Appropriations; Purposes; Personnel and Facilities
 
-Pub. L. 85 875, Sept. 2, 1958, 72 Stat. 1700, provided: “That in order to strengthen future scientific accomplishment in our Nation by assisting in the development of a body of boys and girls with a special interest in science, there is hereby authorized to be appropriated for the fiscal year ending June 30, 1959, and for each fiscal year thereafter, such sums, not in excess of $50,000, as may be necessary to enable the Commissioner of Education \[now Secretary of Education\] to encourage, foster, and assist in the establishment in localities throughout the Nation of clubs which are composed of boys and girls who have an especial interest in science.
+Pub. L. 85–875, Sept. 2, 1958, 72 Stat. 1700, provided: “That in order to strengthen future scientific accomplishment in our Nation by assisting in the development of a body of boys and girls with a special interest in science, there is hereby authorized to be appropriated for the fiscal year ending June 30, 1959, and for each fiscal year thereafter, such sums, not in excess of $50,000, as may be necessary to enable the Commissioner of Education \[now Secretary of Education\] to encourage, foster, and assist in the establishment in localities throughout the Nation of clubs which are composed of boys and girls who have an especial interest in science.
 
 “
 

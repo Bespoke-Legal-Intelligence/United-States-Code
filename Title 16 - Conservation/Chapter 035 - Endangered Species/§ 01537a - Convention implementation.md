@@ -24,7 +24,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 (2) The Secretary and the Secretary of State shall, in cooperation with the contracting parties to the Western Convention and, to the extent feasible and appropriate, with the participation of State agencies, take such steps as are necessary to implement the Western Convention. Such steps shall include, but not be limited to—
 
-&emsp;(A) cooperation with contracting parties and international organizations for the purpose of developing personnel resources and programs that will facilitate implementation of the Western Convention;
+&emsp;(A) cooperation with contracting parties and international organizations for the purpose ofdeveloping personnel resources and programs that will facilitate implementation of the Western Convention;
 
 &emsp;(B) identification of those species of birds that migrate between the United States and other contracting parties, and the habitats upon which those species depend, and the implementation of cooperative measures to ensure that such species will not become endangered or threatened; and
 
@@ -50,7 +50,7 @@ Section 5(b) of Pub. L. 97–304 provided that: “The amendment made by paragra
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Endangered Species Scientific Authority; Interim Performance of Functions of Commission
 

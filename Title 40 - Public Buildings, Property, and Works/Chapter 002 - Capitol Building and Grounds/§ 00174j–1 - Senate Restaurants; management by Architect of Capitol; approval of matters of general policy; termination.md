@@ -6,7 +6,7 @@ Effective August 1, 1961, the management of the Senate Restaurants and all matte
 
 #### Distribution of Unused Senate Cafeterias Food by Private Distribution Organization
 
-Pub. L. 100–458, title I, §5, Oct. 1, 1988, 102 Stat. 2161, provided that: “The Committee on Rules and Administration of the Senate may provide for the distributionof unused food from the Senate cafeterias under the jurisdiction of the committee to the needy of the District of Columbia through an appropriate private distribution organization selected by the committee.”
+Pub. L. 100–458, title I, §5, Oct. 1, 1988, 102 Stat. 2161, provided that: “The Committee on Rules and Administration of the Senate may provide for the distribution of unused food from the Senate cafeterias under the jurisdiction of the committee to the needy of the District of Columbia through an appropriate private distribution organization selected by the committee.”
 
 Similar provisions were contained in the following prior appropriation act:
 

@@ -10,7 +10,7 @@ Plants established under this part shall not be located on any premises where di
 
 #### (c) Entry and examination of premises
 
-The provisions of section 5203(b), (c), and (d), relating to right of entry and examination, furnishing facilities and assistance, and authorityto break up grounds or walls, shall be applicable to all premises established under this part, and to all proprietors thereof, and their workmen or other persons employed by them.
+The provisions of section 5203(b), (c), and (d), relating to right of entry and examination, furnishing facilities and assistance, and authority to break up grounds or walls, shall be applicable to all premises established under this part, and to all proprietors thereof, and their workmen or other persons employed by them.
 
 #### (d) Registration of stills
 

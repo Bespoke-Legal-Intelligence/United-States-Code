@@ -10,7 +10,7 @@ In entering into agreements with museums and other educational and cultural orga
 
 &emsp;(3) provide training or technical assistance;
 
-> the Board of Regents shall give priority to agreements with Indian organizations, including Indian tribes, museums, cultural centers, educational institutions, libraries, and archives. Such agreements may provide that loans orservices to such organizations may be furnished by the Smithsonian Institution at minimal or no cost.
+> the Board of Regents shall give priority to agreements with Indian organizations, including Indian tribes, museums, cultural centers, educational institutions, libraries, and archives. Such agreements may provide that loans or services to such organizations may be furnished by the Smithsonian Institution at minimal or no cost.
 
 #### (b) Indian programs
 

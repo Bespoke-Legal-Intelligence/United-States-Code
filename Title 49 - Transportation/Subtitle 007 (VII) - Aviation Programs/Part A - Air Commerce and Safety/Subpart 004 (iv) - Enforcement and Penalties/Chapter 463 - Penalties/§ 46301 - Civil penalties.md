@@ -62,7 +62,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938, 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and includingany assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938, 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 

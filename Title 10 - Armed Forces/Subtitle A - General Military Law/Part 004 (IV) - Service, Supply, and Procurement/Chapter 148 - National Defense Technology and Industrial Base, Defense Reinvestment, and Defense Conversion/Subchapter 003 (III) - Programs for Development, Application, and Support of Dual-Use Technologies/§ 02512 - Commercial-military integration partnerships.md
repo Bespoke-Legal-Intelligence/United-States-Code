@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Partnerships.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by providing for the establishment of cooperative arrangements (hereinafter in this section referred to as “partnerships”) between the Department of Defense and one or more eligible firms and nonprofit research corporations referred to in section 2511(b) of this title. A partnership may also include, as determined appropriate by the Secretary of Defense, a Federal laboratory or laboratories, institutions of higher education, agencies of State governments, and other entities that participate in the partnership by supporting the activities conducted by such firms or corporations under this section.
+Establishment of Partnerships.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by providing for the establishment of cooperative arrangements (hereinafter in this section referred to as“partnerships”) between the Department of Defense and one or more eligible firms and nonprofit research corporations referred to in section 2511(b) of this title. A partnership may also include, as determined appropriate by the Secretary of Defense, a Federal laboratory or laboratories, institutions of higher education, agencies of State governments, and other entities that participate in the partnership by supporting the activities conducted by such firms or corporations under this section.
 
 (b)
 
@@ -68,7 +68,7 @@ A prior section 2512, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), 
 
 1994—Subsec. (c)(3)(C). Pub. L. 103–337 added subpar. (C).
 
-1993—Subsec. (c)(3)(B). Pub. L. 103–160 added subpar. (B) and struck out former subpar. (B) which read as follows: “The regulations shall also ensure that the in-kind contributions of nonprofit institutions and small businesses are considered included, to the maximum extent practicable, in the non-Federal Government share of the cost of the partnership.”
+1993—Subsec. (c)(3)(B). Pub. L. 103–160 added subpar. (B) and struck out former subpar. (B) which read as follows: “The regulations shall also ensure that the in-kind contributions of nonprofit institutions and smallbusinesses are considered included, to the maximum extent practicable, in the non-Federal Government share of the cost of the partnership.”
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 

@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) in 1978, an estimated one million one hundred thousand teenagers became pregnant, more than five hundred thousand teenagerscarried their babies to term, and over one-half of the babies born to such teenagers were born out of wedlock;
+&emsp;(1) in 1978, an estimated one million one hundred thousand teenagers became pregnant, more than five hundred thousand teenagers carried their babies to term, and over one-half of the babies born to such teenagers were born out of wedlock;
 
 &emsp;(2) adolescents aged seventeen and younger accounted for more than one-half of the out of wedlock births to teenagers;
 
@@ -24,7 +24,7 @@
 
 &emsp;(9) a wide array of educational, health, and supportive services are not available to adolescents with such problems or to their families, or when available frequently are fragmented and thus are of limited effectiveness in discouraging adolescent premarital sexual relations and the consequences of such relations;
 
-&emsp;(10)(A) prevention of adolescent sexual activity and adolescent pregnancy depends primarily upon developing strong family values and close family ties, and since the family is the basic social unit in which the values and attitudes of adolescents concerning sexuality and pregnancy are formed, programs designed to deal with issues of sexuality and pregnancy will be successful to the extent that such programs encourage and sustain the role of the family in dealing with adolescent sexual activity and adolescent pregnancy;
+&emsp;(10)(A) prevention of adolescent sexual activity and adolescent pregnancy depends primarily upon developing strong family values and close family ties, and since the family isthe basic social unit in which the values and attitudes of adolescents concerning sexuality and pregnancy are formed, programs designed to deal with issues of sexuality and pregnancy will be successful to the extent that such programs encourage and sustain the role of the family in dealing with adolescent sexual activity and adolescent pregnancy;
 
 &emsp;(B) Federal policy therefore should encourage the development of appropriate health, educational, and social services where such services are now lacking or inadequate, and the better coordination of existing services where they are available; and
 

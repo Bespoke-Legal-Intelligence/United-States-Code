@@ -118,7 +118,7 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (18) Local educational agency
 
-&emsp;(A) The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, orother political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
+&emsp;(A) The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
 
 &emsp;(B) The term includes any other public institution or agency having administrative control and direction of a public elementary or secondary school.
 
@@ -168,11 +168,11 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (29) Technology
 
-&emsp;The term “technology” means the latest state-of-the-art technology products and services, such as closed circuit television systems, educational television or radio programs and services, cable television, satellite, copper fiber optic transmission, computer hardware and software, video and audio laser and CD ROM disks, video and audio tapes, including interactive forms of such products and services, or other technologies.
+&emsp;The term “technology” means the latest state-of-the-art technology products and services, such as closed circuit television systems, educational television or radio programs and services, cable television, satellite, copper fiber optic transmission, computer hardware and software, video and audio laser and CD–ROM disks, video and audio tapes, including interactive forms of such products and services, or other technologies.
 
-(Pub. L. 89 10, title XIV, §14101, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3887.)
+(Pub. L. 89–10, title XIV, §14101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3887.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1687, 2471, 4020, 5502, 5802, 8821, 9001 of this title; title 10 section 2194; title 15 sections 2642, 2662; title 29 sections 761a, 794, 1503, 2618; title 42 sections 300j 21, 2000d 4a, 3030g 12, 3030<i>o</i>, 6107, 7382b, 9855.
+This section is referred to in sections 1687, 2471, 4020, 5502, 5802, 8821, 9001 of this title; title 10 section 2194; title 15 sections 2642, 2662; title 29 sections 761a, 794, 1503, 2618; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9855, 9877, 12511.
 

@@ -12,7 +12,7 @@
 
 > &emsp;SURGEON GENERAL'S WARNING: Cigarette Smoke Contains Carbon Monoxide.
 
-(2) It shall be unlawful for any manufacturer or importer of cigarettes to advertise or cause to be advertised (other than through the use of outdoor billboards) within the United States any cigarette unless the advertising bears, in accordance with the requirements of this section, one of the following labels:
+(2) It shall be unlawful for any manufacturer or importer of cigarettes to advertise or cause to be advertised (other than through the use ofoutdoor billboards) within the United States any cigarette unless the advertising bears, in accordance with the requirements of this section, one of the following labels:
 
 > &emsp;SURGEON GENERAL'S WARNING: Smoking Causes Lung Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy.
 
@@ -34,7 +34,7 @@
 
 #### (b) Conspicuous statement; label statement format; outdoor billboard statement format
 
-(1) Each label statement required by paragraph (1) of subsection (a) of this section shall be located in the place label statements were placed on cigarette packages as of October 12, 1984. The phrase “Surgeon General's Warning” shall appear in capital letters and the size of all other letters in the label shall be the same as the size of such letters as of October 12, 1984. All the letters in the label shall appear in conspicuous and legible type in contrast by typography,layout, or color with all other printed material on the package.
+(1) Each label statement required by paragraph (1) of subsection (a) of this section shall be located in the place label statements were placed on cigarette packages as of October 12, 1984. The phrase “Surgeon General's Warning” shall appear in capital letters and the size of all other letters in the label shall be the same as the size of such letters as of October 12, 1984. All the letters in the label shall appear in conspicuous and legible type in contrast by typography, layout, or color with all other printed material on the package.
 
 (2) The format of each label statement required by paragraph (2) of subsection (a) of this section shall be the format required for label statements in cigarette advertising as of October 12, 1984, except that the phrase “Surgeon General's Warning” shall appear in capital letters, the area of the rectangle enclosing the label shall be 50 per centum larger in size with a corresponding increase in the size of the type in the label, the width of the rule forming the border around the label shall be twice that in effect on October 12, 1984, and the label may be placed at a distance from the outer edge of the advertisement which is one-half the distance permitted on October 12, 1984. Each label statement shall appear in conspicuous and legible type in contrast by typography, layout, or color with all other printed material in the advertisement.
 

@@ -18,5 +18,5 @@
 
 A State or local educational agency may use and allocate funds received under this part only so as to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds made available under this part, be made available from non-Federalsources, and in no case may such funds be used so as to supplant funds from non-Federal sources.
 
-(Pub. L. 89 10, title VI, §6401, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3712.)
+(Pub. L. 89–10, title VI, §6401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3712.)
 

@@ -24,7 +24,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(A) segregate the A horizon of the natural soil, except where it can be shown that other available soil materials will create a final soil having a greater productive capacity; and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
 
-&emsp;&emsp;(B) segregate the B horizon of the natural soil, or underlying C horizons or other strata, or a combination of such horizons or other strata that are shown to be both texturally and chemically suitable for plant growth and that can be shown to be equally or more favorable for plant growth than the B horizon, in sufficient quantities to create in the regraded final soil a root zone of comparable depth and quality to that which existed in the natural soil; and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
+&emsp;&emsp;(B) segregate the B horizon of the natural soil, or underlying C horizons or other strata, or a combination of such horizons or other strata that are shown to be both texturally and chemically suitable for plant growth and that can be shown to be equallyor more favorable for plant growth than the B horizon, in sufficient quantities to create in the regraded final soil a root zone of comparable depth and quality to that which existed in the natural soil; and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
 
 &emsp;&emsp;(C) replace and regrade the root zone material described in (B) above with proper compaction and uniform depth over the regraded spoil material; and
 
@@ -66,7 +66,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(E) avoiding channel deepening or enlargement in operations requiring the discharge of water from mines;
 
-&emsp;&emsp;(F) preserving throughout the mining and reclamation process the essential hydrologicfunctions of alluvial valley floors in the arid and semiarid areas of the country; and
+&emsp;&emsp;(F) preserving throughout the mining and reclamation process the essential hydrologic functions of alluvial valley floors in the arid and semiarid areas of the country; and
 
 &emsp;&emsp;(G) such other actions as the regulatory authority may prescribe;
 
@@ -110,7 +110,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(C) if variances granted under the provisions of this subsection are to be reviewed by the regulatory authority not more than three years from the date of issuance of the permit; and
 
-&emsp;&emsp;(D) if liability under the bond filed by the applicant with the regulatory authority pursuant to section 1259(b) of this title shall be for the duration of the underground mining operations and until the requirements of this subsection and section 1269 of this title have been fully complied with.<sup>4</sup>
+&emsp;&emsp;(D) if liability under the bond filed by the applicant with the regulatory authority pursuant to section 1259(b) of this title shall be for the duration of the underground mining operations and until the requirements ofthis subsection and section 1269 of this title have been fully complied with.<sup>4</sup>
 
 &emsp;(17) insure that the construction, maintenance, and postmining conditions of access roads into and across the site of operations will control or prevent erosion and siltation, pollution of water, damage to fish or wildlife or their habitat, or public or private property;
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) $20,688 in the case of a veteran with one dependent, plus $1,150 for each additional dependent.
 
-(2) For a calendar year beginning after December 31, 1990, the amounts in effect for purposes of this subsection shall be the amounts in effect for the preceding calendar year as adjusted under subsection (c) of this section.
+(2) For a calendar year beginning after December 31, 1990, the amounts in effect for purposes ofthis subsection shall be the amounts in effect for the preceding calendar year as adjusted under subsection (c) of this section.
 
 (c) Effective on January 1 of each year, the amounts in effect under subsection (b) of this section shall be increased by the percentage by which the maximum rates of pension were increased under section 5312(a) of this title during the preceding calendar year.
 

@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, the term “investment base” means, with respect to any year, the amount of money and the adjusted basis of other property (reduced by any liability to which such other property is subject) contributed by the investor as of the close of such year.
+&emsp;&emsp;Except as provided in this paragraph, the term “investment base” means, with respect to any year, the amount of money and the adjusted basis of other property (reduced byany liability to which such other property is subject) contributed by the investor as of the close of such year.
 
 #### (B) Certain borrowed amounts excluded
 

@@ -1,12 +1,14 @@
 ### §1344. Status of Conrail after sale
 
-The Corporation shall be a rail carrier as defined in section 10102(19) <sup>1</sup> of title 49, notwithstanding this subchapter.
+The Corporation shall be a rail carrier as defined in section 10102 of title 49, notwithstanding this subchapter.
 
-(Pub. L. 99–509, title IV, §4036, Oct. 21, 1986, 100 Stat. 1909.)
+(Pub. L. 99–509, title IV, §4036, Oct. 21, 1986, 100 Stat. 1909; Pub. L. 104–88, title III, §332, Dec. 29, 1995, 109 Stat. 953.)
 
-#### References in Text
+#### Amendments
 
-Section 10102 of title 49, referred to in text, was subsequently amended, and section 10102(19) no longer defines “rail carrier”. However, such term is defined elsewhere in that section.
+1995—Pub. L. 104–88 substituted “section 10102” for “section 10102(19)”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 

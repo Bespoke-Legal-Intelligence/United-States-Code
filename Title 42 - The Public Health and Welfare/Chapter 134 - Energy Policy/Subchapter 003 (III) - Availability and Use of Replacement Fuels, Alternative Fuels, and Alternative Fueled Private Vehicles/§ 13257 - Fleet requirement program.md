@@ -2,7 +2,7 @@
 
 #### (a) Fleet program purchase goals
 
-(1) Except as provided in paragraph (2), the following percentages of new light duty motor vehicles acquired in each model year for a fleet, other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person subject to section 13251 of this title, shall be alternative fueled vehicles:
+(1) Except as provided in paragraph (2), the following percentages of new light duty motor vehicles acquired in each model year for a fleet,other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person subject to section 13251 of this title, shall be alternative fueled vehicles:
 
 &emsp;(A) 20 percent of the motor vehicles acquired in model years 1999, 2000, and 2001;
 
@@ -58,7 +58,7 @@
 
 Not later than April 1, 1998, the Secretary shall publish an advance notice of proposed rulemaking for the purpose of—
 
-&emsp;(1) evaluating the progress toward achieving the goals of replacement fuel use described insection 13252(b)(2) of this title, as modified under section 13254 of this title;
+&emsp;(1) evaluating the progress toward achieving the goals of replacement fuel use described in section 13252(b)(2) of this title, as modified under section 13254 of this title;
 
 &emsp;(2) identifying the problems associated with achieving those goals;
 
@@ -110,11 +110,11 @@ If the Secretary determines, based on findings under subsection (b) or (e) of th
 
 (3) Nothing in this subchapter shall be construed as requiring any fleet to acquire alternative fueled vehicles or alternative fuels that do not meet the normal business requirements and practices and needs of that fleet.
 
-(4) A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] shall not be considered an alternative fueled vehicle under subsection (b) of this section or this subsection, except that the Secretary, as part of the rule under subsection (b) of this section or this subsection, may determine that such vehicle should be treated as an alternative fueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act \[42 U.S.C. 7581 et seq.\], taking into consideration the impact on energy security and the goals stated in section 13252(a) of this title.
+(4) A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] shall not be considered an alternative fueled vehicle under subsection (b) of this section or this subsection, except that the Secretary, as part of the rule under subsection (b) of this section or this subsection, may determine that such vehicle shouldbe treated as an alternative fueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act \[42 U.S.C. 7581 et seq.\], taking into consideration the impact on energy security and the goals stated in section 13252(a) of this title.
 
 #### (h) Extension of deadlines
 
-The Secretary may, by notice published in the Federal Register, extend the deadlines established under subsections (e), (f)(2), and (g) of thissection for an additional 90 days if the Secretary is unable to meet such deadlines. Such extension shall not be reviewable.
+The Secretary may, by notice published in the Federal Register, extend the deadlines established under subsections (e), (f)(2), and (g) of this section for an additional 90 days if the Secretary is unable to meet such deadlines. Such extension shall not be reviewable.
 
 #### (i) Exemptions
 
@@ -154,7 +154,7 @@ As part of the rule promulgated either pursuant to subsection (b) or (g) of this
 
 #### (<i>o</i>) Mandatory State fleet programs
 
-(1) Pursuant to a rule promulgated by the Secretary, beginning in calendar year 1995 (when model year 1996 begins), the following percentages of new light duty motor vehicles acquired annually for State government fleets, including agencies thereof, but not municipal fleets, shall be alternative fueled vehicles:
+(1) Pursuant to a rule promulgated by the Secretary, beginning in calendar year 1995 (when model year 1996 begins), the following percentages of new light duty motor vehicles acquired annually for State government fleets, includingagencies thereof, but not municipal fleets, shall be alternative fueled vehicles:
 
 &emsp;(A) 10 percent of the motor vehicles acquired in model year 1996;
 

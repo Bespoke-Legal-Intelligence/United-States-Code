@@ -38,7 +38,7 @@ In the event that the Secretary proposes to amend a rule for which a waiver or m
 
 #### (i) Expiration of waivers and modifications
 
-No waiver or modification of a rule under this section shall remain in effect for a longer period than the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
+No waiver or modification of a rule under this section shall remain in effect for a longer periodthan the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
 
 #### (j) Definitions
 
@@ -60,5 +60,5 @@ For purposes of this section:
 
 #### References in Text
 
-The Housing Act of 1949, referred to in subsecs. (a) and (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, asamended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsecs. (a) and (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 

@@ -56,7 +56,7 @@ Sec. 3. (a) Nothing in this Act shall terminate or affect any lease, permit, con
 
 “(c) Section 1862 of title 18 of the United States Code is hereby repealed.
 
-“(d) Except as otherwise provided for herein, this Act shall take precedence over and supersede all State and local laws dealing with or affecting the subject matter of this Act.
+“(d) Except as otherwise provided for herein, this Act shall take precedence over and supersede all State andlocal laws dealing with or affecting the subject matter of this Act.
 
 “(e) Challenge to actions taken by any governmental unit or official under the provisions of this Act shall not be sustained by any court except upon a showing or arbitrary, unreasonable, capricious, or illegal action or an absence of substantial good faith compliance with the procedural provisions hereof substantially prejudicing the rights of an interested party.”
 

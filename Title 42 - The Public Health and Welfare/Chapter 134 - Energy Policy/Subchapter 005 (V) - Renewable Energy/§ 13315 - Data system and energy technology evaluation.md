@@ -12,7 +12,7 @@ The Secretary of Commerce, in his or her role as a member of the interagency wor
 
 &emsp;&emsp;(B) an inventory of United States technologies and services to meet those needs;
 
-&emsp;&emsp;(C) an update on the status of ongoing bilateral and multilateral programs which promote United States exports of renewable energy and energy efficiency products and technologies; and
+&emsp;&emsp;(C) an update on the status of ongoing bilateral and multilateral programs whichpromote United States exports of renewable energy and energy efficiency products and technologies; and
 
 &emsp;&emsp;(D) an evaluation of current programs (and recommendations for future programs) that develop and promote energy efficiency and sustainable use of indigenous renewable energy resources in foreign countries to reduce the generation of greenhouse gases.
 

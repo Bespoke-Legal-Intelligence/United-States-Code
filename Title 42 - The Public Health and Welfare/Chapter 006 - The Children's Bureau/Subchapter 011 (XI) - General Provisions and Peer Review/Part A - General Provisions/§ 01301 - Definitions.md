@@ -2,7 +2,7 @@
 
 (a) When used in this chapter—
 
-&emsp;(1) The term “State”, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico, and when used in subchapters IV, V, VII, XI, and XIX of this chapter includes the Virgin Islands and Guam. Such term when used in subchapters III, IX, and XII of this chapter also includes the Virgin Islands. Such term when used in subchapter V and in part B of this subchapter of this chapter also includes American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. Such term when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and American Samoa. In the case of Puerto Rico, the Virgin Islands, and Guam, subchapters I, X, and XIV, and subchapter XVI of this chapter (as in effect without regard tothe amendment made by section 301 of the Social Security Amendments of 1972) shall continue to apply, and the term “State” when used in such subchapters (but not in subchapter XVI of this chapter as in effect pursuant to such amendment after December 31, 1973) includes Puerto Rico, the Virgin Islands, and Guam. Such term when used in subchapter XX of this chapter also includes the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. Such term when used in subchapter IV of this chapter also includes American Samoa.
+&emsp;(1) The term “State”, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico, and when used in subchapters IV, V, VII, XI, and XIX of this chapter includes the Virgin Islands and Guam. Such term when used in subchapters III, IX, and XII of this chapter also includes the Virgin Islands. Such term when used in subchapter V and in part B of this subchapter of this chapter also includes American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. Such term when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and American Samoa. In the case of Puerto Rico, the Virgin Islands, and Guam, subchapters I, X, and XIV, and subchapter XVI of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972) shall continue to apply, and the term “State” when used in such subchapters (but not in subchapter XVI of this chapter as in effect pursuant to such amendment after December 31, 1973) includes Puerto Rico, the Virgin Islands, and Guam. Such term when used in subchapter XX of this chapter also includes the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. Such term when used in subchapter IV of this chapter also includes American Samoa.
 
 &emsp;(2) The term “United States” when used in a geographical sense means, except where otherwise provided, the States.
 
@@ -46,7 +46,7 @@
 
 (b) The terms “includes” and “including” when used in a definition contained in this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined.
 
-(c) Whenever under this chapter or any Act of Congress, or under the law of any State, an employer is required or permitted to deduct any amount from the remuneration of an employee and to pay the amount deducted to the United States, a State, or any political subdivision thereof, then for the purposes of this chapter the amount so deducted shall be considered to havebeen paid to the employee at the time of such deduction.
+(c) Whenever under this chapter or any Act of Congress, or under the law of any State, an employer is required or permitted to deduct any amount from the remuneration of an employee and to pay the amount deducted to the United States, a State, or any political subdivision thereof, then for the purposes of this chapter the amount so deducted shall be considered to have been paid to the employee at the time of such deduction.
 
 (d) Nothing in this chapter shall be construed as authorizing any Federal official, agent, or representative, in carrying out any of the provisions of this chapter, to take charge of any child over the objection of either of the parents of such child, or of the person standing in loco parentis to such child.
 
@@ -216,7 +216,7 @@ Section 541 of Pub. L. 86–778 provided that the amendment made by that section
 
 Amendment by section 30(d) of Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub. L. 86–624, set out as a note under section 201 of this title.
 
-Amendment by section 30(a)(1) of Pub. L. 86–624 applicable in the case of promulgations or computations ofFederal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after Aug. 21, 1959, see section 47(a) of Pub. L. 86–624.
+Amendment by section 30(a)(1) of Pub. L. 86–624 applicable in the case of promulgations or computations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after Aug. 21, 1959, see section 47(a) of Pub. L. 86–624.
 
 Section 47(b) of Pub. L. 86–624 provided that: “The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[subsec. (a)(8)(B) of this section\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.”
 
@@ -262,7 +262,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Provisions Relating to Federal Security Administrator
 
-Section 2663(<i>l</i>) of Pub. L. 98–369 provided that: “Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[subchapter II, IV, VII, or XI of this chapter\] (other than section 1101(a)(6) of such Act \[subsec. (a)(6) of this section\]) is amended—
+Section 2663(<i>l</i>) of Pub. L. 98–369 provided that: “Any reference to the Federal Security Administrator whichmay remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[subchapter II, IV, VII, or XI of this chapter\] (other than section 1101(a)(6) of such Act \[subsec. (a)(6) of this section\]) is amended—
 
 &emsp;“(1) by substituting ‘Secretary’ or ‘Secretary's’ for the term ‘Administrator’ or ‘Administrator's’, where the reference is to that term alone;
 

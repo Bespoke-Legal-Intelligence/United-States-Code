@@ -78,7 +78,7 @@ Section 1 of Pub. L. 100–294 provided that: “This Act \[enacting sections 51
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the ‘Children's Justice and Assistance Act of 1986’.”
+Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter IV of this chapter and section10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the ‘Children's Justice and Assistance Act of 1986’.”
 
 Section 101 of title I of Pub. L. 99–401 provided that: “This title \[enacting section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Children's Justice Act’.”
 
@@ -140,7 +140,7 @@ Section 127 of Pub. L. 98–457 provided that:
 
 “(a) No provision of this Act or any amendment made by this Act \[See Short Title of 1984 Amendment note above\] is intended to affect any right or protection under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\].
 
-“(b) No provision of this Act or any amendment made by this Act may be so construed as to authorize theSecretary or any other governmental entity to establish standards prescribing specific medical treatments for specific conditions, except to the extent that such standards are authorized by other laws.
+“(b) No provision of this Act or any amendment made by this Act may be so construed as to authorize the Secretary or any other governmental entity to establish standards prescribing specific medical treatments for specific conditions, except to the extent that such standards are authorized by other laws.
 
 “(c) If the provisions of any part of this Act or any amendment made by this Act or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.”
 

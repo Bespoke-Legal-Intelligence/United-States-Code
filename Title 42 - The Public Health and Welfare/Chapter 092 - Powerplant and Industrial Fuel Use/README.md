@@ -253,9 +253,7 @@
 | [8454\.](Subchapter%20007%20%28VII%29%20-%20Administration%20and%20Enforcement/Part%20E%20-%20Studies/%C2%A7%2008454%20-%20Study%20of%20compliance%20problem%20of%20small%20electric%20utility%20systems.md) | Study of compliance problem of small electric utility systems. |
 | (a) | Study. |
 | (b) | Authorization of appropriations. |
-| [8455\.](Subchapter%20007%20%28VII%29%20-%20Administration%20and%20Enforcement/Part%20E%20-%20Studies/%C2%A7%2008455%20-%20Emissions%20monitoring.md) | Emissions monitoring. |
-| (a) | Monitoring program. |
-| (b) | Appropriations authorizations. |
+| [8455\.](Subchapter%20007%20%28VII%29%20-%20Administration%20and%20Enforcement/Part%20E%20-%20Studies/%C2%A7%2008455%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72021%28j%29%281%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20727.md) | Repealed. |
 | [8456\.](Subchapter%20007%20%28VII%29%20-%20Administration%20and%20Enforcement/Part%20E%20-%20Studies/%C2%A7%2008456%20-%20Socioeconomic%20impacts%20of%20increased%20coal%20production%20and%20other%20energy%20development.md) | Socioeconomic impacts of increased coal production and other energy development. |
 | (a) | Committee. |
 | (b) | Functions of committee. |
@@ -291,8 +289,7 @@
 
 |  |  |
 | :--- | ---: |
-| [8481\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2008481%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9342%2C%20%C2%A71%28a%29%287%29%2C%20May%2021%2C%201987%2C%20101%20Stat.%20310.md) | Repealed. |
-| [8482\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2008482%20-%20Annual%20report.md) | Annual report. |
+| 8481, 8482. Repealed. |  |
 | [8483\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2008483%20-%20Submission%20of%20reports.md) | Submission of reports. |
 | [8484\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2008484%20-%20Electric%20utility%20conservation%20plan.md) | Electric utility conservation plan. |
 | (a) | Applicability. |

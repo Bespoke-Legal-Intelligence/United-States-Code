@@ -84,7 +84,7 @@ Section 4(d) of Pub. L. 95–559 provided that: “The amendments made by this s
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that the amendment of subsec. (a)(1), (2) of this section by section 107(c) of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under this section and sections 300e–2 and 300e–3 of this title for fiscal years beginning after Sept. 30, 1976, and except that the amendment of subsec. (a)(1), (2) of this section by section 109(a)(1) of Pub. L. 94–460 applicable with respect to loan guarantees made under this section after Sept. 30, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
+Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that the amendment of subsec. (a)(1), (2) of this section by section 107(c) of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under this section and sections 300e–2 and 300e–3 of this title for fiscal years beginning after Sept. 30, 1976, and except that the amendment of subsec.\(a)(1), (2) of this section by section 109(a)(1) of Pub. L. 94–460 applicable with respect to loan guarantees made under this section after Sept. 30, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
 
 #### Section Referred to in Other Sections
 

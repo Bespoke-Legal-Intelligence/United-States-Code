@@ -10,7 +10,7 @@
 
 &emsp;(3) 25 per centum within three years of such date of opening.
 
-> Any advance made to a State under this subsection shall be from the funds apportioned to said State for the Interstate System. So much of any advance made to a State under this subsection required to be repaid shall be repaidwith interest at a rate determined by the Secretary. If a State receives any advance under this subsection with respect to any toll bridge, tunnel, or approach thereto, then the provisions of section 103(e)(4) of this title shall not apply to such bridge, tunnel, or approach.
+> Any advance made to a State under this subsection shall be from the funds apportioned to said State for the Interstate System. So much of any advance made to a State under this subsection required to be repaid shall be repaid with interest at a rate determined by the Secretary. If a State receives any advance under this subsection with respect to any toll bridge, tunnel, or approach thereto, then the provisions of section 103(e)(4) of this title shall not apply to such bridge, tunnel, or approach.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 95–599, title I, §118, Nov. 6, 1978, 92 Stat. 2699.)
 
@@ -20,5 +20,5 @@
 
 #### Acceleration of Projects
 
-Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, as amended by Pub. L. 95–599, title I, §136, Nov. 6, 1978, 92 Stat. 2709, provided that: “Not later than six months after the completion of such project, the Secretary of Transportation shall submit a report to Congress which includes, but is not limited to, a description of the methods used to reduce the time necessary for the completion of such project, recommendations for applying such methods to other highway projects, and any changes which may be necessary to existing law to permit further reductions in the time necessary to complete highway projects.”
+Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, as amended by Pub. L. 95–599, title I, §136, Nov. 6, 1978, 92 Stat. 2709, provided that: “Not later than six monthsafter the completion of such project, the Secretary of Transportation shall submit a report to Congress which includes, but is not limited to, a description of the methods used to reduce the time necessary for the completion of such project, recommendations for applying such methods to other highway projects, and any changes which may be necessary to existing law to permit further reductions in the time necessary to complete highway projects.”
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every United States person who owns (or is treated under section 1297(a) as owning) stockof a qualified electing fund at any time during the taxable year of such fund shall include in gross income—
+&emsp;Every United States person who owns (or is treated under section 1297(a) as owning) stock of a qualified electing fund at any time during the taxable year of such fund shall include in gross income—
 
 &emsp;&emsp;(A) as ordinary income, such shareholder's pro rata share of the ordinary earnings of such fund for such year, and
 

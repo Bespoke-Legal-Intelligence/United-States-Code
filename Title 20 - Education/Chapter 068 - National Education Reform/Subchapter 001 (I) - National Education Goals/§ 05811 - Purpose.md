@@ -2,5 +2,5 @@
 
 The purpose of this subchapter is to establish National Education Goals.
 
-(Pub. L. 103 227, title I, §101, Mar. 31, 1994, 108 Stat. 130.)
+(Pub. L. 103–227, title I, §101, Mar. 31, 1994, 108 Stat. 130.)
 

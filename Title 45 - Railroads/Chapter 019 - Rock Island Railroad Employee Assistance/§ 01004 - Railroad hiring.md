@@ -10,6 +10,10 @@
 
 1983—Subsec. (a). Pub. L. 97–468 substituted “January 1, 1984” for “January 1, 1981”.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Exemption of National Railroad Passenger Corporation in Hiring Qualified Train and Engine Employees
 
 Section inapplicable to National Railroad Passenger Corporation in hiring of qualified train and engine employees holding seniority rights to work in intercity rail passenger service in connection with the assumption by such Corporation of functions previously performed under contract by other carriers, see section 4011(c) of Pub. L. 99–272, set out as a note under section 797b of this title.

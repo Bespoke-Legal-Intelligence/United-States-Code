@@ -8,7 +8,7 @@ The Counsel shall advise, consult, and cooperate with—
 
 &emsp;(2) the committee of the Senate with the responsibility to identify any court proceeding or action which is of vital interest to the Senate;
 
-&emsp;(3) the Comptroller General, the General Accounting Office, the Office of Legislative Counsel of the Senate, and the Congressional Research Service, except that none of the responsibilities and authority assigned by this chapter to the Counsel shall be construed to affect or infringe upon any functions, powers, or duties of the aforementioned;
+&emsp;(3) the Comptroller General, the General Accounting Office, the Office of LegislativeCounsel of the Senate, and the Congressional Research Service, except that none of the responsibilities and authority assigned by this chapter to the Counsel shall be construed to affect or infringe upon any functions, powers, or duties of the aforementioned;
 
 &emsp;(4) any Member, officer, or employee of the Senate not represented under section 288c of this title with regard to obtaining private legal counsel for such Member, officer, or employee;
 

@@ -96,7 +96,7 @@ A prior section 2603 of act July 1, 1944, was successively renumbered by subsequ
 
 1992—Subsec. (a)(3)(B)(i). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-1990—Subsec. (a)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+1990—Subsec. (a)(3). Pub. L. 101–502 amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
 “(A)
 

@@ -32,7 +32,7 @@
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
 Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
 

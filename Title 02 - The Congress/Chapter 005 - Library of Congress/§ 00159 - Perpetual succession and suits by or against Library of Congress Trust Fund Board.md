@@ -2,7 +2,7 @@
 
 The board shall have perpetual succession, with all the usual powers and obligations of a trustee, including the power to sell, except as herein limited, in respect of all property, moneys, or securities which shall be conveyed, transferred, assigned, bequeathed, delivered, or paid over to it for the purposes above specified. The board may be sued in the United States District Court for the District of Columbia, which is given jurisdiction of such suits, for the purpose of enforcing the provisions of any trust accepted by it.
 
-(Mar. 3, 1925, ch. 423, §3, 43 Stat. 1108; Jan. 27, 1926, ch. 6, §1, 44 Stat. 2; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32 (a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
+(Mar. 3, 1925, ch. 423, §3, 43 Stat. 1108; Jan. 27, 1926, ch. 6, §1, 44 Stat. 2; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
 #### Amendments
 

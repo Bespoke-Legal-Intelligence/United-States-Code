@@ -124,7 +124,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 #### (18) Cultural centers
 
-&emsp;Contributions toward the establishment of reciprocal cultural centers that can facilitateeducational and cultural exchange and expanded understanding of Western social democracy.
+&emsp;Contributions toward the establishment of reciprocal cultural centers that can facilitate educational and cultural exchange and expanded understanding of Western social democracy.
 
 #### (19) Sister institutions
 

@@ -6,7 +6,7 @@ The owner of a trade-mark used in commerce may apply to register his or her trad
 
 &emsp;(1) By filing in the Patent and Trademark Office—
 
-&emsp;&emsp;(A) a written application, in such form as may be prescribed by the Commissioner, verified by the applicant, or by a member of the firm or an officer of the corporation or association applying, specifying applicant's domicile and citizenship, the date of applicant's first use of the mark, the date of applicant's first use of the mark in commerce, the goods in connection with which the mark is used and the mode or manner in which the mark is used in connection with such goods, and including a statement to the effect that the person making the verification believes himself, or the firm, corporation, or association in whose behalf he makes the verification, to be the owner of the mark sought to be registered, that the mark is in use in commerce, and that no other person, firm, corporation, or association, to the best of his knowledge and belief, has the right to use such mark in commerce either in the identical form thereof or in such near resemblance thereto as to be likely, when used on or in connection with the goods of such other person, to cause confusion, or to cause mistake, or to deceive: <i>Provided</i>, That in the case of every application claiming concurrent use the applicant shall state exceptions to his claim of exclusive use, in which he shall specify, to the extent of his knowledge, any concurrent use by others, the goods on or in connection with which and the areas in which each concurrent use exists, the periods of each use, and the goods and area for which the applicant desires registration;
+&emsp;&emsp;(A) a written application, in such form as may be prescribed by the Commissioner, verified by the applicant, or by a member of the firm or an officer of the corporation or association applying, specifying applicant's domicile and citizenship, the date of applicant's first use of the mark, the date of applicant's first use of the mark in commerce, the goods in connection with which the mark is used and the mode or manner in which the mark is used in connection with such goods, and including a statement to the effect that the person making the verification believes himself, or the firm, corporation, or association in whose behalf he makes the verification, to be the owner of the mark sought to be registered, that the mark is in use in commerce, and that no other person, firm, corporation, or association, to the best of his knowledge and belief, has the right to use such mark in commerce either in the identical form thereof or in such near resemblance thereto as to be likely, when used on or in connection with the goods of such other person, to cause confusion, or to cause mistake, or to deceive: <i>Provided</i>, That in the case of every application claiming concurrent use the applicant shall state exceptions to his claim of exclusive use, in which he shall specify, to the extent of his knowledge, any concurrent use by others, the goods on or in connection withwhich and the areas in which each concurrent use exists, the periods of each use, and the goods and area for which the applicant desires registration;
 
 &emsp;&emsp;(B) a drawing of the mark; and
 
@@ -46,7 +46,7 @@ At any time during examination of an application filed under subsection (b) of t
 
 #### (e) Designation of resident for service of process and notices
 
-If the applicant is not domiciled in the United States he shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with him or mailing to him a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Commissioner.
+If the applicant is not domiciled in the United States he shall designate by a written documentfiled in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with him or mailing to him a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Commissioner.
 
 (July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Oct. 9, 1962, Pub. L. 87–772, §1, 76 Stat. 769; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 16, 1988, Pub. L. 100–667, title I, §103, 102 Stat. 3935.)
 
@@ -80,6 +80,10 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–98, §1, Jan. 16, 1996, 109 Stat. 985, provided that: “This Act \[amending sections 1125 and 1127 of this title and enacting provisions set out as a note under section 1125 of this title\] may be cited as the ‘Federal Trademark Dilution Act of 1995’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act \[enacting section 1122 of this title, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Trademark Remedy Clarification Act’.”
@@ -98,7 +102,7 @@ Act July 5, 1946, ch. 540, 60 Stat. 427, which is classified to this chapter, is
 
 #### Repeal of Inconsistent Provisions; Certain Provisions Not Affected
 
-Section 46(a) of act July 5, 1946, provided in part that all acts and parts of acts inconsistent with this chapterare repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trade-marks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
+Section 46(a) of act July 5, 1946, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trade-marks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
 
 Section 48 of act July 5, 1946, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’, and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
 
@@ -112,7 +116,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Pending Proceedings and Existing Registration and Rights Under Prior Acts
 
-Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
+Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder exceptas provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
 
 Sections 46(b) and 47 of act July 5, 1946, provided:
 

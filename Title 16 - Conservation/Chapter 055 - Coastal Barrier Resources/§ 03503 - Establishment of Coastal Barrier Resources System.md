@@ -44,7 +44,7 @@ Maps Described.—The maps described in this subsection are maps that—
 
 &emsp;“(1) are included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990; and
 
-&emsp;“(2) related to the following units of the Coastal Barrier Resources System: AL–01P, FL–05P, P11A, P17, P17A, P18P, P19P, FL–15, FL–95P, FL–36P, P31P, FL–72P, MI21, NY75, and VA62P.”
+&emsp;“(2) related to the following units of the Coastal Barrier Resources System: AL–01P, FL–05P, P11A,P17, P17A, P18P, P19P, FL–15, FL–95P, FL–36P, P31P, FL–72P, MI21, NY75, and VA62P.”
 
 Pub. L. 102–440, title III, §303, Oct. 23, 1992, 106 Stat. 2234, provided that:
 
@@ -140,7 +140,7 @@ Provision of maps by secretary.—Not later than 180 days after the date of the 
 
 Elections.—Not later than 18 months after the date of the enactment of this Act, a local government and the Governor of any State referred to in paragraph (1), and any qualified organization—
 
-&emsp;&emsp;“(A) may each elect to add to the System, as a new unit or as an addition to an existing unit, any area of qualified coastal barrier (or any portionthereof) which is owned or held by the local government, State, or qualified organization, respectively;
+&emsp;&emsp;“(A) may each elect to add to the System, as a new unit or as an addition to an existing unit, any area of qualified coastal barrier (or any portion thereof) which is owned or held by the local government, State, or qualified organization, respectively;
 
 &emsp;&emsp;“(B) shall notify the Secretary of that election; and
 
@@ -268,7 +268,7 @@ Contents.—The report required under paragraph (1) shall include the following:
 
 &emsp;&emsp;“(C) An estimate and comparison of the costs to the Federal Government with respect to developed coastal barriers on which are located units of the System, for the period from 1975 to 1990, which shall include costs of shore protection activities, beach renourishment activities, evacuation services, disaster assistance, and flood insurance subsidies under the national flood insurance program.
 
-&emsp;&emsp;“(D) A determination of the number of structures for which flood insurance under the national flood insurance program has been unavailable since the enactment of the National Flood Insurance Act of 1968 \[Aug. 1, 1968\] because of the prohibition, under section 1321 of such Act \[42 U.S.C. 4028\], of the provision of insurance for structures located on coastal barriers within the System.
+&emsp;&emsp;“(D) A determination of the number of structures for which flood insurance under the national floodinsurance program has been unavailable since the enactment of the National Flood Insurance Act of 1968 \[Aug. 1, 1968\] because of the prohibition, under section 1321 of such Act \[42 U.S.C. 4028\], of the provision of insurance for structures located on coastal barriers within the System.
 
 &emsp;&emsp;“(E) An estimate of the number of existing structures located on coastal barriers that are included within the System because of the expansion of the System under this Act and the amendments made by this Act \[see Short Title of 1990 Amendment note set out under section 3501 of this title\].
 

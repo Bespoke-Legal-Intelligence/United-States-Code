@@ -68,7 +68,7 @@ Section 311 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 
 
 #### Amendments
 
-1986—Subsecs. (i), (j). Pub. L. 99–509 added subsecs. (i) and (j).
+<b>1986</b>—Subsecs. (i), (j). Pub. L. 99–509 added subsecs. (i) and (j).
 
 #### Effective Date of 1986 Amendment
 
@@ -92,7 +92,7 @@ Section 701 of Pub. L. 99–335, as amended by Pub. L. 99–500, §101(m) \[titl
 
 “(a)
 
-Temporary Alternative Funding.—Notwithstanding section 8434(c)(3) \[probably should be “section 8437(c)(3)”\] of title 5, United States Code (as added by section 101 of this Act), the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under subchapter VII ofchapter 84 of such title (as so added) during fiscal years 1986 and 1987 may be paid from sums appropriated pursuant to subsection (b).
+Temporary Alternative Funding.—Notwithstanding section 8434(c)(3) \[probably should be “section 8437(c)(3)”\] of title 5, United States Code (as added by section 101 of this Act), the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under subchapter VII of chapter 84 of such title (as so added) during fiscal years 1986 and 1987 may be paid from sums appropriated pursuant to subsection (b).
 
 “(b)
 

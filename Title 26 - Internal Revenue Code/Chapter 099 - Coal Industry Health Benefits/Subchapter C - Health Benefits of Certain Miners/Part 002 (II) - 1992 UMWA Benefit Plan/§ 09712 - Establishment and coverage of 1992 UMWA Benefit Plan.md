@@ -100,7 +100,7 @@
 
 #### (4) Joint and several liability
 
-&emsp;A 1988 last signatory operator or last signatory operator described in paragraph (3), and any related person to any such operator, shall be jointly and severally liable with such operator for any amount required to be paid by such operator under this section.
+&emsp;A 1988 last signatory operator or last signatory operator described in paragraph (3), andany related person to any such operator, shall be jointly and severally liable with such operator for any amount required to be paid by such operator under this section.
 
 #### (5) Deductibility
 

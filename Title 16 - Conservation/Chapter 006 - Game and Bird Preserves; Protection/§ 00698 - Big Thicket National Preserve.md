@@ -6,7 +6,7 @@ In order to assure the preservation, conservation, and protection of the natural
 
 #### (b) Location; boundaries; publication in Federal Register
 
-The Big Thicket National Preserve (hereafter referred to as the “preserve”) shall include the units generally depicted on the map entitled “Big Thicket National Preserve”, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the “Secretary”) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary shall, as soon as practicable, but no later than six months after October 11, 1974, publish a detailed description of the boundaries of the preserve in the Federal Register. In establishing such boundaries, the Secretary shall locate stream corridor unit boundaries referenced from the stream bank on each side thereof and he shall further make every reasonable effort to exclude from the units hereafter described any improved year-round residential properties which he determines, in his discretion, are notnecessary for the protection of the values of the area or for its proper administration. The preserve shall consist of the following units:
+The Big Thicket National Preserve (hereafter referred to as the “preserve”) shall include the units generally depicted on the map entitled “Big Thicket National Preserve”, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the “Secretary”) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary shall, as soon as practicable, but no later than six months after October 11, 1974, publish a detailed description of the boundaries of the preserve in the Federal Register. In establishing such boundaries, the Secretary shall locate stream corridor unit boundaries referenced from the stream bank on each side thereof and he shall further make every reasonable effort to exclude from the units hereafter described any improved year-round residential properties which he determines, in his discretion, are not necessary for the protection of the values of the area or for its proper administration. The preserve shall consist of the following units:
 
 &emsp;Big Sandy Creek unit, Polk County, Texas, comprising approximately fourteen thousand three hundred acres;
 
@@ -48,7 +48,7 @@ Within sixty days after July 1, 1993, the Secretary and the Secretary of Agricul
 
 #### (e) Indian Springs Youth Camp
 
-With respect to the thirty-seven-acre area owned by the Louisiana-Pacific Corporation or its subsidiary, Kirby Forest Industries, Inc., on Big Sandy Creek in Hardin County, Texas, and now utilized as part of the Indian Springs Youth Camp (H.G. King Abstract 822), the Secretary shall not acquire such area without the consentof the owner so long as the area is used exclusively as a youth camp.
+With respect to the thirty-seven-acre area owned by the Louisiana-Pacific Corporation or its subsidiary, Kirby Forest Industries, Inc., on Big Sandy Creek in Hardin County, Texas, and now utilized as part of the Indian Springs Youth Camp (H.G. King Abstract 822), the Secretary shall not acquire such area without the consent of the owner so long as the area is used exclusively as a youth camp.
 
 (Pub. L. 93–439, §1, Oct. 11, 1974, 88 Stat. 1254; Pub. L. 98–489, §1(a), Oct. 17, 1984, 98 Stat. 2267; Pub. L. 103–46, §2(a), (b), July 1, 1993, 107 Stat. 229, 230; Pub. L. 103–437, §6(a)(6), Nov. 2, 1994, 108 Stat. 4583.)
 
@@ -66,7 +66,7 @@ Subsecs. (d) and (e). Pub. L. 103–46, §2(b)(2), added subsecs. (d) and (e).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Short Title of 1993 Amendment
 

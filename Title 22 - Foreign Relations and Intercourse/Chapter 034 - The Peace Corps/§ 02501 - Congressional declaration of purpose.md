@@ -22,7 +22,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date
 
-Section 28, formerly section 27, of Pub. L. 87–293, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug.8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
+Section 28, formerly section 27, of Pub. L. 87–293, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
 
 #### Short Title of 1978 Amendment
 
@@ -54,7 +54,7 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U
 
 Peace Corps
 
-1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out as a note under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out as a note under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out as a note under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
+1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
 
 1–102. All references to the “Director” in Part 1–1 of this Order shall refer to the Director of the Peace Corps for whom provision is made in Section 4(a) of the Act (22 U.S.C. 2503).
 
@@ -96,7 +96,7 @@ Reservation of Functions to the President
 
 (c) The authority conferred on the President by Section 5(f)(1)(B) of the Act (22 U.S.C. 2504(f)(1)(B)).
 
-(d) The authority conferred by Section 10(f) of the Act (22 U.S.C. 2509(f)) to direct any agency of theUnited States Government to provide services, facilities, and commodities to officers carrying out functions under the Act \[this chapter\].
+(d) The authority conferred by Section 10(f) of the Act (22 U.S.C. 2509(f)) to direct any agency of the United States Government to provide services, facilities, and commodities to officers carrying out functions under the Act \[this chapter\].
 
 (e) The authority conferred by Section 19 of the Act (22 U.S.C. 2518) to adopt and alter an official seal or emblem of the Peace Corps.
 
@@ -158,7 +158,7 @@ General Provisions
 
 #### Executive Order No. 12468
 
-Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in theAppendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

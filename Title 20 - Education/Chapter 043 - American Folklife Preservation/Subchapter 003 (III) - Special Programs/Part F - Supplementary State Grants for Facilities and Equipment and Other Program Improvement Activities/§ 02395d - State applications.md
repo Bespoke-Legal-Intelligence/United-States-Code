@@ -20,5 +20,5 @@ Each State that desires to receive a grant under this part shall submit to the S
 
 An application submitted by the State under subsection (a) of this section shall be for a period of not more than 3 years and shall be amended annually.
 
-(Pub. L. 88 210, title III, §355, as added Pub. L. 101 392, title III, §309, Sept. 25, 1990, 104 Stat. 793.)
+(Pub. L. 88–210, title III, §355, as added Pub. L. 101–392, title III, §309, Sept. 25, 1990, 104 Stat. 793.)
 

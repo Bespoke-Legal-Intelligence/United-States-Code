@@ -14,7 +14,7 @@ The Secretary may convey lands and interests in lands within the park authorized
 
 (2) If any such Federal lands or interests are not exchanged within five years after August 17, 1990, the Secretary may sell any or all such lands or interests to the highest bidder, in accordance with such regulations as the Secretary may prescribe, but any such conveyance shall be at not less than the fair market value of the land or interest, as determined by the Secretary.
 
-(3) All Federal lands and interests sold or exchanged pursuant to this subsection shall be subject to such terms and conditions as will assure the use of the property in a manner which, in the judgment of the Secretary, will protect the park and the Gettysburg Battlefield Historic District (hereafter in sections 430g–5 to 430g–10 of this title referred to as the “historic district”). Notwithstanding any other provision of law, the net proceeds from any such sale or exchange shall be used, subject to appropriations, to acquire lands and interests within the park.
+(3) All Federal lands and interests sold or exchanged pursuant to this subsection shall besubject to such terms and conditions as will assure the use of the property in a manner which, in the judgment of the Secretary, will protect the park and the Gettysburg Battlefield Historic District (hereafter in sections 430g–5 to 430g–10 of this title referred to as the “historic district”). Notwithstanding any other provision of law, the net proceeds from any such sale or exchange shall be used, subject to appropriations, to acquire lands and interests within the park.
 
 #### (d) Relinquishment of legislative jurisdiction to Pennsylvania
 

@@ -4,9 +4,9 @@
 
 (b) Nothing contained in this section shall be construed to impair or otherwise interfere with any program carried into effect by the Secretary of Health and Human Services under other provisions of law in cooperation with State governments or agencies, instrumentalities, or political subdivisions thereof.
 
-(Pub. L. 89 755, §9, Nov. 3, 1966, 80 Stat. 1301; Pub. L. 96 88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 89–755, §9, Nov. 3, 1966, 80 Stat. 1301; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96 88, which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

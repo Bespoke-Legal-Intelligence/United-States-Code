@@ -68,7 +68,7 @@ To the extent provided in regulations prescribed by the Secretary—
 
 #### (2) Deduction for estate tax
 
-&emsp;If stock to which subsection (a) applies is acquired from a decedent, the taxpayer shall, under regulations prescribed by the Secretary or his delegate, be allowed (for the taxable year of the sale or exchange) a deduction from gross income equal to that portion of the decedent's estate tax deemed paid which is attributable to the excess of (A) the value at which such stock was taken into account for purposes of determining the value of the decedent's gross estate, over (B) the value at which it would have been so taken into account if such value had been reduced by the amount described in paragraph (1).
+&emsp;If stock to which subsection (a) applies is acquired from a decedent, the taxpayer shall, under regulations prescribed by the Secretary or his delegate, be allowed (for the taxable year of the sale or exchange) a deduction from gross income equal to that portion of the decedent's estate tax deemed paid which is attributable to the excess of (A) the value at whichsuch stock was taken into account for purposes of determining the value of the decedent's gross estate, over (B) the value at which it would have been so taken into account if such value had been reduced by the amount described in paragraph (1).
 
 #### (f) Information with respect to certain foreign investment companies
 
@@ -148,7 +148,7 @@ Section 832(b) of Pub. L. 97–34 provided that: “The amendment made by subsec
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 2005(a)(5) of Pub. L. 94–455 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 2005(a)(5) of Pub. L. 94–455 and the amendments madethereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1976 Amendment
 

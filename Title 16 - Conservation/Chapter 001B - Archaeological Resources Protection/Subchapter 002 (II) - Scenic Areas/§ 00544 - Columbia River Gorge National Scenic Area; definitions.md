@@ -22,7 +22,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;(f) “forest lands” means lands designated as forest lands pursuant to section 544d of this title;
 
-&emsp;(g) “Indian tribes” means the Nez Perce Tribe, the Confederated Tribes and Bands of the Yakama Indian Nation, the Confederated Tribes of the Warm Springs of Oregon, and the Confederated Tribes of the Umatilla Indian Reservation;
+&emsp;(g) “Indian tribes” means the Nez Perce Tribe, the Confederated Tribes and Bands of the Yakama Indian Nation, the ConfederatedTribes of the Warm Springs of Oregon, and the Confederated Tribes of the Umatilla Indian Reservation;
 
 &emsp;(h) “interim guidelines” means any interim guidelines developed by the Secretary pursuant to section 544h of this title, and any amendment, revision, or variance;
 

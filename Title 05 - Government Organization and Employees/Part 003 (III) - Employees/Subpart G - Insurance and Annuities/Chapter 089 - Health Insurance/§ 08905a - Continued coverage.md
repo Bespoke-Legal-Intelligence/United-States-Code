@@ -78,7 +78,7 @@
 
 &emsp;(ii) the agency which last employed the individual shall pay the remaining portion of the amount required under paragraph (1)(A).
 
-(B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before—
+(B) This paragraph shall apply with respect to any individual whose continued coverage isbased on a separation occurring on or after the date of enactment of this paragraph and before—
 
 &emsp;(i) October 1, 1999; or
 
@@ -136,9 +136,9 @@ The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is th
 
 #### Amendments
 
-1994—Subsec. (d)(4)(B). Pub. L. 103–337 substituted “October 1, 1999” for “October 1, 1997” in cls. (i) and (ii) and “February 1, 2000” for “February 1, 1998” in cl. (ii).
+<b>1994</b>—Subsec. (d)(4)(B). Pub. L. 103–337 substituted “October 1, 1999” for “October 1, 1997” in cls. (i) and (ii) and “February 1, 2000” for “February 1, 1998” in cl. (ii).
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–484, §4438(a)(1), substituted “Except as provided in paragraph (4), an individual” for “An individual”.
+<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–484, §4438(a)(1), substituted “Except as provided in paragraph (4), an individual” for “An individual”.
 
 Subsec. (d)(2). Pub. L. 102–484, §4438(a)(2), substituted “in accordance with paragraph (1) or (4), as the case may be)” for “in accordance with paragraph (1))”.
 

@@ -4,7 +4,7 @@ The Comptroller General may—
 
 &emsp;(1) prescribe regulations to carry out the duties and powers of the Comptroller General;
 
-&emsp;(2) delegate the duties and powers of the Comptroller General to officers and employeesof the General Accounting Office as the Comptroller General decides is necessary to carry out those duties and powers;
+&emsp;(2) delegate the duties and powers of the Comptroller General to officers and employees of the General Accounting Office as the Comptroller General decides is necessary to carry out those duties and powers;
 
 &emsp;(3) regulate the practice of representatives of persons before the Office; and
 

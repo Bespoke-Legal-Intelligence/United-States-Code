@@ -150,7 +150,7 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 Funds received under this section may be used to pay 100 percent of the cost of a planning grant and not more than 75 percent of the cost of operating an Academy in the first 2 years an eligible entity receives a grant under this subpart and not more than 50 percent of such cost in such third and fourth years. The remaining share shall be provided from non-Federal sources, and may be in-kind, fairly valued.
 
-(Pub. L. 89 329, title V, §508, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 670.)
+(Pub. L. 89–329, title V, §508, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 670.)
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) provide rates of pay for the FBI–DEA Senior Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
 
-&emsp;(4) provide a performance appraisal system for the FBI–DEA Senior Executive Servicethat conforms to the provisions of subchapter II of chapter 43;
+&emsp;(4) provide a performance appraisal system for the FBI–DEA Senior Executive Service that conforms to the provisions of subchapter II of chapter 43;
 
 &emsp;(5) provide for—
 
@@ -64,7 +64,7 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Amendments
 
-1989—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
+<b>1989</b>—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
 
 #### Effective Date of 1989 Amendment
 

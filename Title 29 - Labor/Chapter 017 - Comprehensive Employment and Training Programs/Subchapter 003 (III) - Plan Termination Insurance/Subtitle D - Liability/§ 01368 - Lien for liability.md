@@ -2,11 +2,11 @@
 
 #### (a) Creation of lien
 
-If any person liable to the corporation under section 1362, 1363, or 1364 of this title neglects or refuses to pay, after demand, the amount of such liability (including interest), there shall be a lien in favor of the corporation in the amount ofsuch liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title <sup>1</sup>
+If any person liable to the corporation under section 1362, 1363, or 1364 of this title neglects or refuses to pay, after demand, the amount of such liability (including interest), there shall be a lien in favor of the corporation in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title <sup>1</sup>
 
 #### (b) Term of lien
 
-The lien imposed by subsection (a) of this section arises on the date of termination of a plan, and continues until the liability imposed under section 1362, 1363, or 1364 of this title is satisfied or becomes unenforceable by reason of lapse of time.
+The lien imposed by subsection (a) of this section arises on the date of termination of a plan,and continues until the liability imposed under section 1362, 1363, or 1364 of this title is satisfied or becomes unenforceable by reason of lapse of time.
 
 #### (c) Priority
 
@@ -56,11 +56,11 @@ For purposes of this section—
 
 #### Codification
 
-A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203, §9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L.101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
+A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203, §9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L. 101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
+1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property andrights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
 
 Pub. L. 101–239, §7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
 

@@ -70,7 +70,7 @@ For purposes of subsection (a)—
 
 #### (B) Treatment of certain workmen's compensation benefits
 
-&emsp;&emsp;For purposes of subparagraph (A), any amount treated as a social security benefit under section 86(d)(3) shall be treated as a disability benefit received under title II of the Social Security Act.
+&emsp;&emsp;For purposes of subparagraph (A), any amount treated as a social security benefitunder section 86(d)(3) shall be treated as a disability benefit received under title II of the Social Security Act.
 
 #### (d) Adjusted gross income limitation
 
@@ -108,7 +108,7 @@ No credit shall be allowed under this section to any nonresident alien.
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act isclassified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 98–21 in amending section generally, redesignated former 
 
 Subsec. (d). Pub. L. 98–21 in amending section generally redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 98–21 in amending section generally, redesignated former subsec. (d) as (e) and struck out provision that “joint return” meant the joint return of a husband and wife made under section 6013 and inserted provisions defining permanent and total disability. Former subsec. (e), which provided for an election of prior law with respect to public retirement system income, was struck out.
+Subsec. (e). Pub. L. 98–21 in amending section generally, redesignated former subsec. (d) as (e) and struckout provision that “joint return” meant the joint return of a husband and wife made under section 6013 and inserted provisions defining permanent and total disability. Former subsec. (e), which provided for an election of prior law with respect to public retirement system income, was struck out.
 
 Subsec. (f). Pub. L. 98–21 reenacted subsec. (f) without change.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1974, see section 2002(i)(2) of 
 
 Amendment by section 113(a) of Pub. L. 88–272, except for purposes of section 21 \[now 15\] of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
-Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall apply with respect to dividends received after December 31, 1964, in taxable years ending after such date”.
+Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years endingafter December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall apply with respect to dividends received after December 31, 1964, in taxable years ending after such date”.
 
 Section 202(b) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 

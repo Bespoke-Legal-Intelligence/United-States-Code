@@ -44,7 +44,7 @@ Percentage Distribution.—The Secretary of Transportation shall apportion amoun
 
 &emsp;&emsp;(B) 50 percent in other urbanized areas eligible for assistance under section 5336(b)(2)(A) of this title if the areas contain fixed guideway systems placed in revenue service at least 7 years before the fiscal year in which amounts are made available and in any other urbanized area if, before the first day of the fiscal year, the area satisfies the Secretary that the area has modernization needs that cannot be met adequately with amounts received as provided in section 5336(b)(2)(A).
 
-&emsp;(4) Remaining amounts shall be apportioned in each urbanized area eligible for assistanceunder paragraphs (1)–(3) of this subsection as provided in section 5336(b)(2)(A) of this title.
+&emsp;(4) Remaining amounts shall be apportioned in each urbanized area eligible for assistance under paragraphs (1)–(3) of this subsection as provided in section 5336(b)(2)(A) of this title.
 
 (b)
 

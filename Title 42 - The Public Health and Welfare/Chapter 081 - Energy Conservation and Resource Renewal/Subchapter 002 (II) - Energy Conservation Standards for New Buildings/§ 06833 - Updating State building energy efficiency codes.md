@@ -32,7 +32,7 @@
 
 (B)(i) If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency in accordance with the revised standard for which such determination was made. Such certification shall include a demonstration that the provisions of such State's commercial building code regarding energy efficiency meet or exceed such revised standard.
 
-(ii) If the Secretary makes a determination under subparagraph (A) that such revised standard will not improve energy efficiency in commercial buildings, State commercial building code provisions regarding energy efficiency shallmeet or exceed ASHRAE Standard 90.1–1989, or if such standard has been revised, the last revised standard for which the Secretary has made an affirmative determination under subparagraph (A).
+(ii) If the Secretary makes a determination under subparagraph (A) that such revised standard will not improve energy efficiency in commercial buildings, State commercial building code provisions regarding energy efficiency shall meet or exceed ASHRAE Standard 90.1–1989, or if such standard has been revised, the last revised standard for which the Secretary has made an affirmative determination under subparagraph (A).
 
 #### (c) Extensions
 

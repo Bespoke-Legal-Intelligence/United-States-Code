@@ -10,7 +10,7 @@ The Association shall be directed by a Board of Directors. The individuals desig
 
 #### (c) Status
 
-The Association shall be a government corporation of the District of Columbia subject, to the extent not inconsistent with this subchapter, to the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\]. Except as otherwise provided, employees of the Association shall not be deemed employees of the Federal Government. The Association shall havesuccession until dissolved by Act of Congress, shall maintain its principal office in the District of Columbia, and shall be deemed to be a resident of the District of Columbia with respect to venue in any legal proceeding.
+The Association shall be a government corporation of the District of Columbia subject, to the extent not inconsistent with this subchapter, to the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\]. Except as otherwise provided, employees of the Association shall not be deemed employees of the Federal Government. The Association shall have succession until dissolved by Act of Congress, shall maintain its principal office in the District of Columbia, and shall be deemed to be a resident of the District of Columbia with respect to venue in any legal proceeding.
 
 #### (d) Board of Directors
 
@@ -102,7 +102,7 @@ Subsec. (j)(4). Pub. L. 96–448, §508(c)(3), struck out provision that any ref
 
 Pub. L. 94–210, §603(b)(2), substituted “acting directly or at any time through” for “or”.
 
-Subsec. (h). Pub. L. 94–555, §211(c), struck out “The Secretary and the Chairman of the Commission may act in such capacity directly or at any time through their duly authorized representatives” after “members of the Board”.
+Subsec. (h). Pub. L. 94–555, §211(c), struck out “The Secretary and the Chairman of the Commission mayact in such capacity directly or at any time through their duly authorized representatives” after “members of the Board”.
 
 Pub. L. 94–210, §603(b)(1), inserted provision authorizing Secretary and Chairman to act directly or through their duly authorized representatives.
 
@@ -122,11 +122,15 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L. 94–555, set out as a note under section 702 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

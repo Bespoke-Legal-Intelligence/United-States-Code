@@ -12,25 +12,25 @@ Except when express provision is made in a statute of the United States, in any 
 
 The remedies provided for in this section shall be in addition to and not in lieu of any other remedies provided by common law or under Federal or State law.
 
-(Pub. L. 92 573, §23, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94 284, §10(c), May 11, 1976, 90 Stat. 507; Pub. L. 96 486, §3, Dec. 1, 1980, 94 Stat. 2369; Pub. L. 97 35, title XII, §1211(h)(3)(B), Aug. 13, 1981, 95 Stat. 723.)
+(Pub. L. 92–573, §23, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94–284, §10(c), May 11, 1976, 90 Stat. 507; Pub. L. 96–486, §3, Dec. 1, 1980, 94 Stat. 2369; Pub. L. 97–35, title XII, §1211(h)(3)(B), Aug. 13, 1981, 95 Stat. 723.)
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97 35 substituted “section 2060(f) of this title” for “section 2059(e)(4) of this title”.
+1981—Subsec. (a). Pub. L. 97–35 substituted “section 2060(f) of this title” for “section 2059(e)(4) of this title”.
 
-1980—Subsec. (a). Pub. L. 96 486, §3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
+1980—Subsec. (a). Pub. L. 96–486, §3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
 
-Subsecs. (b), (c). Pub. L. 96 486, §3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 96–486, §3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1976—Subsec. (a). Pub. L. 94 284 substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
+1976—Subsec. (a). Pub. L. 94–284 substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Effective Date of 1980 Amendment; Applicability
 
-For effective date and applicability of amendment by Pub. L. 96 486, see section 4 of Pub. L. 96 486, set out as an Effective Date of 1980 Amendment note under section 1331 of Title 28, Judiciary and Judicial Procedure.
+For effective date and applicability of amendment by Pub. L. 96–486, see section 4 of Pub. L. 96–486, set out as an Effective Date of 1980 Amendment note under section 1331 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

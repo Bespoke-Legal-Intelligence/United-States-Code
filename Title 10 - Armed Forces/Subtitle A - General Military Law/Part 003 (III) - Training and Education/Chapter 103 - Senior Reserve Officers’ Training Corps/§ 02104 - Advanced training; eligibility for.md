@@ -30,11 +30,11 @@
 
 (d) This section does not apply to cadets and midshipmen appointed under section 2107, or foreign students enrolled under section 2103(b), of this title.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X,§1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, §543(a), title XIV, §1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, §1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, §543(a), title XIV, §1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619.)
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (b)(7) of this section were contained in the following appropriation acts:
+Provisions similar to those in subsec. (b)(7) of this section were contained in the following appropriation acts:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8018\], 98 Stat. 1904, 1926.
 

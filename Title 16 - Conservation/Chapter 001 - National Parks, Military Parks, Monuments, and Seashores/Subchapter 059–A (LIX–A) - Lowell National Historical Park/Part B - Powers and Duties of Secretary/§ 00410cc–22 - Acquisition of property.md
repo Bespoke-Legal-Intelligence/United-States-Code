@@ -1,4 +1,4 @@
-### §410cc–22 . Acquisition of property
+### §410cc–22. Acquisition of property
 
 #### (a) Specified property; manner of acquisition
 

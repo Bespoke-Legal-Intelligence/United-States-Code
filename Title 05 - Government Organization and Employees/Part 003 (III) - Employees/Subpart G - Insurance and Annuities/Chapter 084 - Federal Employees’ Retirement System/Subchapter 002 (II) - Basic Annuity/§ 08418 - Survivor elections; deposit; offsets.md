@@ -4,7 +4,7 @@
 
 (2) Interest under paragraph (1) shall be computed at the rate of 6 percent a year.
 
-(b) The Office shall, by regulation, provide for payment of the deposit required under subsection (a) by a reduction in the annuity of the employee or Member. The reduction shall, to theextent practicable, be designed so that the present value of the future reduction is actuarially equivalent to the deposit required under subsection (a), except that the total reductions in the annuity of an employee or Member to pay deposits required by this section shall not exceed 25 percent of the annuity computed under section 8415 or section 8452, including adjustments under section 8462. The reduction required by this subsection, which shall be effective at the same time as the election under section 8416(b) and (c) or section 8417(b), shall be permanent and unaffected by any future termination of the marriage or the entitlement of the former spouse. Such reduction shall be independent of and in addition to the reduction required under section 8416(b) and (c) or section 8417(b).
+(b) The Office shall, by regulation, provide for payment of the deposit required under subsection (a) by a reduction in the annuity of the employee or Member. The reduction shall, to the extent practicable, be designed so that the present value of the future reduction is actuarially equivalent to the deposit required under subsection (a), except that the total reductions in the annuity of an employee or Member to pay deposits required by this section shall not exceed 25 percent of the annuity computed under section 8415 or section 8452, including adjustments under section 8462. The reduction required by this subsection, which shall be effective at the same time as the election under section 8416(b) and (c) or section 8417(b), shall be permanent and unaffected by any future termination of the marriage or the entitlement of the former spouse. Such reduction shall be independent of and in addition to the reduction required under section 8416(b) and (c) or section 8417(b).
 
 (c) Subsections (a) and (b) shall not apply if—
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–66, §11004(b)(1), struck out “, before the expiration of the 2-year period involved,” after “into the Fund”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §11004(b)(1), struck out “, before the expiration of the 2-year period involved,” after “into the Fund”.
 
 Subsec. (b). Pub. L. 102–66, §11004(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the electing individual does not make the deposit required under subsection (a), the Office shall collect such amount by offset against such individual's annuity, up to a maximum of 25 percent of the net annuity otherwise payable, and the individual is deemed to consent to such offset.”
 

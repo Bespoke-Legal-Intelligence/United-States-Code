@@ -8,7 +8,7 @@
 
 (3) The return of cultural items covered by this chapter shall be in consultation with the requesting lineal descendant or tribe or organization to determine the place and manner of delivery of such items.
 
-(4) Where cultural affiliation of Native American human remains and funerary objects has not been established in an inventory prepared pursuant to section 3003 of this title, or the summary pursuant to section 3004 of this title, or where Native American human remains and funerary objects are not included upon any such inventory, then, upon request and pursuant to subsections (b) and (e) of this section and, in the case of unassociated funerary objects, subsection (c) of this section, such Native American human remains and funerary objects shall be expeditiously returned where the requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion.
+(4) Where cultural affiliation of Native American human remains and funerary objects has not been established in an inventory prepared pursuant to section 3003 of this title, or the summary pursuant to section 3004 of this title, or where Native American human remains and funerary objects are not included upon any such inventory, then, upon request and pursuant to subsections (b) and (e) of this section and, in the case of unassociated funerary objects, subsection (c) of this section, such Native American human remains and funerary objects shall be expeditiously returned where the requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship,biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion.
 
 (5) Upon request and pursuant to subsections (b), (c) and (e) of this section, sacred objects and objects of cultural patrimony shall be expeditiously returned where—
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) the requesting Indian tribe or Native Hawaiian organization can show that the object was owned or controlled by the tribe or organization; or
 
-&emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacred object was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants ofsaid member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
+&emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacred object was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
 
 #### (b) Scientific study
 

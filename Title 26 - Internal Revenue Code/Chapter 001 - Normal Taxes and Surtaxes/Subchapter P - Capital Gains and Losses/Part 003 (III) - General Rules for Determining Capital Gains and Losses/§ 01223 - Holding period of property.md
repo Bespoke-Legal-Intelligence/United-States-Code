@@ -8,7 +8,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(B) a distribution to which section 355 (or so much of section 356 as relates to section 355) applies shall be treated as an exchange.
 
-&emsp;(2) In determining the period for which the taxpayer has held property however acquired there shall be included the period for which such property was held by any other person, if under this chapter such property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as it would have in the hands of such other person.
+&emsp;(2) In determining the period for which the taxpayer has held property however acquired there shall be included the period for whichsuch property was held by any other person, if under this chapter such property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as it would have in the hands of such other person.
 
 &emsp;(3) In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c) (or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution.
 
@@ -44,7 +44,7 @@ For purposes of this subtitle—
 
 > &emsp;then the person making such sale or other disposition shall be considered to have held such property for more than 1 year.
 
-&emsp;(13) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part ofthe gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
+&emsp;(13) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
 
 &emsp;(14) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
 

@@ -30,13 +30,13 @@ No grants may be made to a State under this section unless the Secretary has app
 
 No grant may be made under this section for any use unless an amount at least equal to such grant is made available from non-Federal sources for the same purpose and for concurrent use.
 
-(Pub. L. 88 560, title VIII, §803, Sept. 2, 1964, 78 Stat. 803; Pub. L. 89 117, title XI, §1103(b), Aug. 10, 1965, 79 Stat. 503; Pub. L. 91 152, title III, §307, Dec. 24, 1969, 83 Stat. 393; Pub. L. 91 609, title IX, §904, Dec. 31, 1970, 84 Stat. 1809.)
+(Pub. L. 88–560, title VIII, §803, Sept. 2, 1964, 78 Stat. 803; Pub. L. 89–117, title XI, §1103(b), Aug. 10, 1965, 79 Stat. 503; Pub. L. 91–152, title III, §307, Dec. 24, 1969, 83 Stat. 393; Pub. L. 91–609, title IX, §904, Dec. 31, 1970, 84 Stat. 1809.)
 
 #### Amendments
 
-1970—Subsecs. (b) to (d). Pub. L. 91 609 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+1970—Subsecs. (b) to (d). Pub. L. 91–609 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1969—Pub. L. 91 152 substituted provisions authorizing the Secretary to make matching grants to States to assist in programs providing special training in community development and to support State and local research, provisions setting forth the required contents of any plan submitted to the Secretary in order to obtain grants, and provisions requiring the matching from non-Federal sources of any grant made pursuant to this section, for provisions requiring not more than 10 per centum of the total amount appropriated be used for making grants to any one State. The former provisions of this section are now set forth in section 804 of this title with minor amendments.
+1969—Pub. L. 91–152 substituted provisions authorizing the Secretary to make matching grants to Statesto assist in programs providing special training in community development and to support State and local research, provisions setting forth the required contents of any plan submitted to the Secretary in order to obtain grants, and provisions requiring the matching from non-Federal sources of any grant made pursuant to this section, for provisions requiring not more than 10 per centum of the total amount appropriated be used for making grants to any one State. The former provisions of this section are now set forth in section 804 of this title with minor amendments.
 
-1965—Pub. L. 89 117 substituted “appropriated for the purposes of this subchapter” for “authorized to be appropriated by section 802(d) of this title”.
+1965—Pub. L. 89–117 substituted “appropriated for the purposes of this subchapter” for “authorized to be appropriated by section 802(d) of this title”.
 

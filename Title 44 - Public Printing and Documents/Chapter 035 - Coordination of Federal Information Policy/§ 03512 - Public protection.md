@@ -1,12 +1,20 @@
 ### §3512. Public protection
 
-Notwithstanding any other provision of law, no person shall be subject to any penalty for failing to maintain or provide information to any agency if the information collection request involved was made after December 31, 1981, and does not display a current control number assigned by the Director, or fails to state that such request is not subject to this chapter.
+(a) Notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information that is subject to this chapter if—
 
-(Added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822.)
+&emsp;(1) the collection of information does not display a valid control number assigned by the Director in accordance with this chapter; or
+
+&emsp;(2) the agency fails to inform the person who is to respond to the collection of informationthat such person is not required to respond to the collection of information unless it displays a valid control number.
+
+(b) The protection provided by this section may be raised in the form of a complete defense, bar, or otherwise at any time during the agency administrative process or judicial action applicable thereto.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 181.)
 
 #### Prior Provisions
 
-A prior section 3512, added Pub. L. 93–153, title IV, §409(b), Nov. 16, 1973, 87 Stat. 593, related to information for independent regulatory agencies, prior to the general amendment of this chapter by Pub. L. 96–511, §2(a).
+A prior section 3512, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822, related to protection of persons failing to maintain or provide information if information collection request did not display current control number prior to the general amendment of this chapter by Pub. L. 104–13.
+
+Another prior section 3512, added Pub. L. 93–153, title IV, §409(b), Nov. 16, 1973, 87 Stat. 593, related to information for independent regulatory agencies, prior to the general amendment of this chapter by Pub. L. 96–511.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ No action may be commenced—
 
 &emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice of such action to the Administrator,
 
-> except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of sections 1316 and 1317(a) of this title. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation.
+> except that such action may be brought immediately after such notification in the case of an action under this section respecting a violationof sections 1316 and 1317(a) of this title. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation.
 
 #### (c) Venue; intervention by Administrator; United States interests protected
 
@@ -32,7 +32,7 @@ No action may be commenced—
 
 (3)
 
-Protection of interests of united states.—Whenever any action is brought under this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General and the Administrator. No consent judgment shall be entered in an action in which the United States is not a party priorto 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator.
+Protection of interests of united states.—Whenever any action is brought under this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General and the Administrator. No consent judgment shall be entered in an action in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator.
 
 #### (d) Litigation costs
 

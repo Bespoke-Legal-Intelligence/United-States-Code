@@ -36,5 +36,5 @@ As used in this subchapter—
 
 &emsp;(11) the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer's account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer's account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
 
-(Pub. L. 90 321, title IX, §903, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728.)
+(Pub. L. 90–321, title IX, §903, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728.)
 

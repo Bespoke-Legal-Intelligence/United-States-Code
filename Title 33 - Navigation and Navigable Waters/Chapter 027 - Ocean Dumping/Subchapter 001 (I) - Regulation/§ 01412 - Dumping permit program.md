@@ -62,7 +62,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (4) General site management plan requirement; prohibitions
 
-&emsp;After January 1, 1995, no site shall receive a final designation unless a management plan has been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for a site unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.
+&emsp;After January 1, 1995, no site shall receive a final designation unless a management planhas been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for a site unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.
 
 #### (5) Management plans for previously designated sites
 

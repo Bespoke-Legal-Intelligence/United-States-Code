@@ -12,7 +12,7 @@
 
 > The Secretary may enter into such agreements when the Secretary determines the public interest will be benefited.
 
-(2) In such cooperative agreements, the Secretary is authorized to advance or reimburse funds to contractors from any appropriated funds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities or equipment without regard to the provisions of section 3324, title 31, relating to the advance of public moneys.
+(2) In such cooperative agreements, the Secretary is authorized to advance or reimburse funds to contractors from any appropriatedfunds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities or equipment without regard to the provisions of section 3324, title 31, relating to the advance of public moneys.
 
 #### (b) Supervision
 

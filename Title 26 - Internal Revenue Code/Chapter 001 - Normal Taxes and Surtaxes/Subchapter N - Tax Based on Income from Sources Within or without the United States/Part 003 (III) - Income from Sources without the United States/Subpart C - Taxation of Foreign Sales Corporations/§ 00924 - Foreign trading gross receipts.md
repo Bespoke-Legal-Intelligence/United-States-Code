@@ -44,7 +44,7 @@ Except as otherwise provided in this section, for purposes of this subpart, the 
 
 #### (ii) Allocation of limitation
 
-&emsp;&emsp;&emsp;If the foreign trading gross receipts of a small FSC exceed the limitation of clause (i), the corporation may allocate such limitation among such gross receipts in such manner as it may select (at such time and in such manner as may be prescribed in regulations).
+&emsp;&emsp;&emsp;If the foreign trading gross receipts of a small FSC exceed the limitation of clause (i), the corporation may allocate such limitation among such gross receipts in suchmanner as it may select (at such time and in such manner as may be prescribed in regulations).
 
 #### (iii) Receipts of controlled group aggregated
 

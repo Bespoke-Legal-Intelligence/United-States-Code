@@ -16,21 +16,21 @@ Any obligation acquired by the fund may be sold by the Secretary at the market p
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 99 661, div. A, title XIV, §1408, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 102 190, div. A, title X, §1089(2), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 102 484, div. A, title X, §1054(h), Oct. 23, 1992, 106 Stat. 2503.)
+(Pub. L. 99–661, div. A, title XIV, §1408, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 102–190, div. A, title X, §1089(2), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 102–484, div. A, title X, §1054(h), Oct. 23, 1992, 106 Stat. 2503.)
 
 #### Codification
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102 484 struck out “(except special obligations issued exclusively to the fund)” after “by the fund”.
+1992—Subsec. (c). Pub. L. 102–484 struck out “(except special obligations issued exclusively to the fund)” after “by the fund”.
 
-1991—Subsec. (b). Pub. L. 102 190, §1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
+1991—Subsec. (b). Pub. L. 102–190, §1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
 
-Subsec. (c). Pub. L. 102 190, §1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
+Subsec. (c). Pub. L. 102–190, §1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
 
-Pub. L. 102 190, §1089(2)(B)(i), which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
+Pub. L. 102–190, §1089(2)(B)(i), which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
 
 #### Section Referred to in Other Sections
 

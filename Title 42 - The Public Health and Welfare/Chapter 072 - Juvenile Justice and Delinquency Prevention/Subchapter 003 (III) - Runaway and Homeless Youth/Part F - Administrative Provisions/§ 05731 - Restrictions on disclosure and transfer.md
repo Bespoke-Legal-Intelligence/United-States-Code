@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1977—Pub. L. 95–115 substituted provisions relating to restrictions on disclosure and transfer of records, forprovisions relating to scope, etc., of statistical report to Congress.
+1977—Pub. L. 95–115 substituted provisions relating to restrictions on disclosure and transfer of records, for provisions relating to scope, etc., of statistical report to Congress.
 
 #### Effective Date of 1977 Amendment
 

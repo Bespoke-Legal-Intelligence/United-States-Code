@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, an implementation plan or plan revis
 
 #### (b) Attainment of ozone levels
 
-Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to an ozone nonattainment area in such State, such State would have attained the national ambient air quality standard for ozone by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7511(a)(2) or (5) of this title or section 7511d of this title.
+Notwithstanding any other provision of law, any State that establishes to the satisfaction ofthe Administrator that, with respect to an ozone nonattainment area in such State, such State would have attained the national ambient air quality standard for ozone by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7511(a)(2) or (5) of this title or section 7511d of this title.
 
 #### (c) Attainment of carbon monoxide levels
 
@@ -36,7 +36,7 @@ Monitoring and Remediation.—
 
 &emsp;“(1)
 
-Monitoring.—The monitoring component of the program conducted under this section shall identify and determine sources of pollutants for which national ambient air quality standards (hereinafter referred to as ‘NAAQS’) and other air quality goals have been established in regions along the border between the United States and Mexico. Any such monitoring component of the program shall include, but not be limited to, the collection of meteorologicaldata, the measurement of air quality, the compilation of an emissions inventory, and shall be sufficient to the extent necessary to successfully support the use of a state-of-the-art mathematical air modeling analysis. Any such monitoring component of the program shall collect and produce data projecting the level of emission reductions necessary in both Mexico and the United States to bring about attainment of both primary and secondary NAAQS, and other air quality goals, in regions along the border in the United States. Any such monitoring component of the program shall include to the extent possible, data from monitoring programs undertaken by other parties.
+Monitoring.—The monitoring component of the program conducted under this section shall identify and determine sources of pollutants for which national ambient air quality standards (hereinafter referred to as ‘NAAQS’) and other air quality goals have been established in regions along the border between the United States and Mexico. Any such monitoring component of the program shall include, but not be limited to, the collection of meteorological data, the measurement of air quality, the compilation of an emissions inventory, and shall be sufficient to the extent necessary to successfully support the use of a state-of-the-art mathematical air modeling analysis. Any such monitoring component of the program shall collect and produce data projecting the level of emission reductions necessary in both Mexico and the United States to bring about attainment of both primary and secondary NAAQS, and other air quality goals, in regions along the border in the United States. Any such monitoring component of the program shall include to the extent possible, data from monitoring programs undertaken by other parties.
 
 &emsp;“(2)
 

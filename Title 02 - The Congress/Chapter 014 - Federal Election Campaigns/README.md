@@ -4,7 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 431\. | Definitions. |
+| [431\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000431%20-%20Definitions.md) | Definitions. |
 | [432\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000432%20-%20Organization%20of%20political%20committees.md) | Organization of political committees. |
 | (a) | Treasurer; vacancy; official authorizations. |
 | (b) | Account of contributions; segregated funds. |
@@ -12,7 +12,7 @@
 | (d) | Preservation of records and copies of reports. |
 | (e) | Principal and additional campaign committees; designations, status of candidate, authorized committees, etc. |
 | (f) | Filing with and receipt of designations, statements, and reports by principal campaign committee. |
-| (g) | Filing with and receipt of designations, statements, and reports by Clerk of House of Representatives or Secretary of Senate; forwarding to Commission; filing requirements with Commission; public inspection and preservation of designations, etc. |
+| (g) | Filing with and receipt of designations, statements, and reports by Secretary of Senate; forwarding to Commission; filing requirements with Commission; public inspection and preservation of designations, etc. |
 | (h) | Campaign depositories; designations, maintenance of accounts, etc.; petty cash fund for disbursements; record of disbursements. |
 | (i) | Reports and records, compliance with requirements based on best efforts. |
 | [433\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000433%20-%20Registration%20of%20political%20committees.md) | Registration of political committees. |
@@ -59,7 +59,10 @@
 | (d) | Rules, regulations, or forms; issuance, procedures applicable, etc. |
 | (e) | Scope of protection for good faith reliance upon rules or regulations. |
 | (f) | Promulgation of rules, regulations, and forms by Commission and Internal Revenue Service; report to Congress on cooperative efforts. |
-| [439\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000439%20-%20Statements%20filed%20with%20State%20officers%3B%20%E2%80%9Cappropriate%20State%E2%80%9D%20defined%3B%20duties%20of%20State%20officers.md) | Statements filed with State officers; “appropriate State” defined; duties of State officers. |
+| [439\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000439%20-%20Statements%20filed%20with%20State%20officers%3B%20%E2%80%9Cappropriate%20State%E2%80%9D%20defined%3B%20duties%20of%20State%20officers%3B%20waiver%20of%20duplicate%20filing%20requirement%E2%80%A6.md) | Statements filed with State officers; “appropriate State” defined; duties of State officers; waiver of duplicate filing requirement for States with electronic access. |
+| (a) | Statements filed; “appropriate State” defined. |
+| (b) | Duties of State officers. |
+| (c) | Waiver; electronic access. |
 | [439a.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000439a%20-%20Use%20of%20contributed%20amounts%20for%20certain%20purposes.md) | Use of contributed amounts for certain purposes. |
 | [439b.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000439b%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93187%2C%20title%20I%2C%20%C2%A7105%281%29%2C%20Jan.%208%2C%201980%2C%2093%20Stat.%201354.md) | Repealed. |
 | [439c.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000439c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

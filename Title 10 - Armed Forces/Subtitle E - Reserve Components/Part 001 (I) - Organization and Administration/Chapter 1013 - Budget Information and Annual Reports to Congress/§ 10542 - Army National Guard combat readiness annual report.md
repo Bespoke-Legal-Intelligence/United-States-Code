@@ -1,4 +1,4 @@
-### §10542 . Army National Guard combat readiness: annual report
+### §10542. Army National Guard combat readiness: annual report
 
 (a)
 
@@ -24,7 +24,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
 
-&emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) suchadditional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
+&emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
 
 &emsp;(6) The number of officers for whom recommendations were made during the preceding fiscal year for a unit vacancy promotion to a grade above first lieutenant and, of those recommendations, the number and percentage that were concurred in by an active-duty officer under section 1113(a) of ANGCRRA, shown separately for each of the three categories of officers set forth in section 1113(b) of ANGCRRA.
 
@@ -72,7 +72,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(20) A listing, for each Army National Guard combat unit, of the active-duty combat unit associated with that Army National Guard unit in accordance with section 1131(a) of ANGCRRA, shown by State and to be accompanied, for each such National Guard unit, by—
 
-&emsp;&emsp;(A) the assessment of the commander of that associated active-duty unit of the manpower, equipment, and training resource requirements of that National Guard unit inaccordance with section 1131(b)(3) of ANGCRRA; and
+&emsp;&emsp;(A) the assessment of the commander of that associated active-duty unit of the manpower, equipment, and training resource requirements of that National Guard unit in accordance with section 1131(b)(3) of ANGCRRA; and
 
 &emsp;&emsp;(B) the results of the validation by the commander of that associated active-duty unit of the compatibility of that National Guard unit with active duty forces in accordance with section 1131(b)(4) of ANGCRRA.
 

@@ -88,7 +88,7 @@ The Secretary may use funds available to carry out this part for—
 
 &emsp;(14) joint activities with other Federal agencies and entities engaged in or supporting similar professional development efforts.
 
-(Pub. L. 89 10, title II, §2102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3615.)
+(Pub. L. 89–10, title II, §2102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3615.)
 
 #### Section Referred to in Other Sections
 

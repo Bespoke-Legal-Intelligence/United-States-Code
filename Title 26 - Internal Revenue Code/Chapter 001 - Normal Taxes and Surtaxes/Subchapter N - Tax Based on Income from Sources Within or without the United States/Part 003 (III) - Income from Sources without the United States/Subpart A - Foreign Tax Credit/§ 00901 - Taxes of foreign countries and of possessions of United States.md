@@ -18,7 +18,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (3) Alien resident of the United States or Puerto Rico
 
-&emsp;In the case of an alien resident of the United States and in the case of an alien individual who is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
+&emsp;In the case of an alien resident of the United States and in the case of an alien individualwho is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
 
 #### (4) Nonresident alien individuals and foreign corporations
 
@@ -86,7 +86,7 @@ Notwithstanding subsection (b) and sections 902 and 960, the amount of any incom
 
 #### (2) Possessions corporation
 
-&emsp;For purposes of paragraph (1), a corporation shall be treated as a possessions corporation for any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
+&emsp;For purposes of paragraph (1), a corporation shall be treated as a possessions corporationfor any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
 
 #### (h) Taxes paid with respect to foreign trade income
 
@@ -154,7 +154,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Sept. 14, 1960, Pub. L. 86–780, §3(a), (b), 74 Stat. 1013; Oct. 16, 1962, Pub. L. 87–834, §§9(d)(3), 12(b)(1), 76 Stat. 1001, 1031; Feb. 26, 1964, Pub. L. 88–272, title II, §207(b)(7), 78 Stat. 42; Apr. 8, 1966, Pub. L. 89–384, §1(c)(2), 80 Stat. 102; Nov. 13, 1966, Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), 80 Stat. 1569; Dec. 30, 1969, Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), 83 Stat. 585, 634; Dec. 10, 1971, Pub. L. 92–178, title V, §502(b)(1), 85 Stat. 549; Sept. 2, 1974, Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), 88 Stat. 957, 968, 991; Mar. 29, 1975, Pub. L. 94–12, title VI, §601(b), 89 Stat. 57; Oct. 4, 1976, Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), 90 Stat. 1622, 1645, 1791, 1803; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(u)(1)(A), (B), 92 Stat. 2912; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), 96 Stat. 420, 547, renumbered §201(d)(8)(A), Jan. 12, 1983, Pub. L. 97–448, title III, §306(a)(1)(A)(i), 96 Stat. 2400; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), 98 Stat. 843, 912, 957, 995; Oct. 21, 1986, Pub. L. 99–509, title VIII, §8041(a), 100 Stat. 1962; Oct. 22, 1986, Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), 100 Stat. 2109, 2532, 2902; Dec. 22, 1987, Pub. L. 100–203, title X, §10231(a), (b), 101 Stat. 1330–418, 1330–419; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), 102 Stat. 3512, 3598; Nov. 23, 1993, Pub. L. 103–149, §4(b)(8)(A), 107 Stat. 1505.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Sept. 14, 1960, Pub. L. 86–780, §3(a), (b), 74 Stat. 1013; Oct. 16, 1962, Pub. L. 87–834, §§9(d)(3), 12(b)(1), 76 Stat. 1001, 1031; Feb. 26, 1964, Pub. L. 88–272, title II, §207(b)(7), 78 Stat. 42; Apr. 8, 1966, Pub. L. 89–384, §1(c)(2), 80 Stat. 102; Nov. 13, 1966, Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), 80 Stat. 1569; Dec. 30, 1969, Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), 83 Stat. 585, 634; Dec. 10, 1971, Pub. L. 92–178, title V, §502(b)(1), 85 Stat. 549; Sept. 2, 1974, Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), 88 Stat. 957, 968, 991; Mar. 29, 1975, Pub. L. 94–12, title VI, §601(b), 89 Stat. 57; Oct. 4, 1976, Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), 90 Stat. 1622, 1645, 1791, 1803; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(u)(1)(A), (B), 92 Stat. 2912; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), 96 Stat. 420, 547, renumbered §201(d)(8)(A), Jan. 12, 1983, Pub. L. 97–448, title III, §306(a)(1)(A)(i), 96 Stat. 2400; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), 98 Stat. 843, 912, 957, 995; Oct. 21, 1986, Pub. L. 99–509, title VIII, §8041(a), 100 Stat. 1962; Oct. 22, 1986, Pub. L.99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), 100 Stat. 2109, 2532, 2902; Dec. 22, 1987, Pub. L. 100–203, title X, §10231(a), (b), 101 Stat. 1330–418, 1330–419; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), 102 Stat. 3512, 3598; Nov. 23, 1993, Pub. L. 103–149, §4(b)(8)(A), 107 Stat. 1505.)
 
 #### References in Text
 
@@ -236,7 +236,7 @@ Subsecs. (e), (f). Pub. L. 91–172, §506(a), added subsec. (e) and redesignate
 
 1966—Subsec. (a). Pub. L. 89–384 added the additional tax imposed under section 1351 (relating to recoveries of foreign expropriation losses) to the list of taxes against which the foreign tax credit may not be allowed.
 
-Subsec. (b)(3). Pub. L. 89–809, §106(b)(1), struck out provisions which made the allowance of the credit dependent upon whether the foreign country of which the alien resident was a citizen or subject, in imposing such taxes, allowed a similar credit to citizens of the United States residing in such country.
+Subsec. (b)(3). Pub. L. 89–809, §106(b)(1), struck out provisions which made the allowance of the credit dependent upon whether the foreign country of which the alien resident was a citizen or subject, in imposing suchtaxes, allowed a similar credit to citizens of the United States residing in such country.
 
 Subsec. (b)(4), (5). Pub. L. 89–809, §106(a)(4), (5), added par. (4), redesignated former par. (4) as (5) and inserted reference to par. (4).
 
@@ -340,7 +340,7 @@ Amendment by section 12(b)(1) of Pub. L. 87–834 applicable with respect to tax
 
 #### Effective Date of 1960 Amendment
 
-Amendment by section 3(a) of Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1960, andamendment by section 3(b) of Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 4 of Pub. L. 86–780, set out as a note under section 904 of this title.
+Amendment by section 3(a) of Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1960, and amendment by section 3(b) of Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 4 of Pub. L. 86–780, set out as a note under section 904 of this title.
 
 #### Effect of Amendment by Pub. L. 103–149 on Revenue Ruling 92–62
 

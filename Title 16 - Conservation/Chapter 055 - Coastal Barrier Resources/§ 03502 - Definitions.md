@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 &emsp;(6) The term “System” means the Coastal Barrier Resources System established by section 3503(a) of this title.
 
-&emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers,included within the Coastal Barrier Resources System established by section 3503 of this title.
+&emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the Coastal Barrier Resources System established by section 3503 of this title.
 
 (Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931.)
 
@@ -58,9 +58,9 @@ Par. (3). Pub. L. 99–272 struck out subpar. (A) relating to general revenue-sh
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272, set out as a Termination of General Revenue Sharing note under section 6701 of Title 31, Money and Finance.
+Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

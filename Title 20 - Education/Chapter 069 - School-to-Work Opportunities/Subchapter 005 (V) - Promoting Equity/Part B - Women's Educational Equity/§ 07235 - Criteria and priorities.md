@@ -60,11 +60,11 @@ Research activities supported under this part—
 
 Nothing in this part shall be construed as prohibiting men and boys from participating in any programs or activities assisted with funds under this part.
 
-(Pub. L. 89 10, title V, §5205, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3699.)
+(Pub. L. 89–10, title V, §5205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3699.)
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92 318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title of 1972 Amendment note set out under section 1001 of this title and Tables.
 
-Part C of title IX of this Act (as such part was in effect on October 1, 1988), referred to in subsec. (b)(1), is part C of title IX of Pub. L. 89 10, as added by Pub. L. 95 561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2298, as amended, known as the Women's Educational Equity Act of 1978, which was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, prior to the general revision of Pub. L. 89 10 by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
+Part C of title IX of this Act (as such part was in effect on October 1, 1988), referred to in subsec. (b)(1), is part C of title IX of Pub. L. 89–10, as added by Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2298, as amended, known as the Women's Educational Equity Act of 1978, which was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
 

@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(7) State and local education improvement efforts must incorporate strategies for providing all students and families with coordinated access to appropriate social services, health care, nutrition, and early childhood education, and child care to remove preventable barriers to learning and enhance school readiness for all students;
 
-&emsp;(8) States and local educational agencies, working together, must immediately set about developing and implementing such systemwideimprovement strategies if our Nation is to educate all children to meet their full potential and achieve the National Education Goals described in subchapter I of this chapter;
+&emsp;(8) States and local educational agencies, working together, must immediately set about developing and implementing such systemwide improvement strategies if our Nation is to educate all children to meet their full potential and achieve the National Education Goals described in subchapter I of this chapter;
 
 &emsp;(9) State and local systemic improvement strategies must provide all students with effective mechanisms and appropriate paths to the work force as well as to higher education;
 
@@ -42,9 +42,9 @@ The Congress finds that—
 
 &emsp;(16) quality education management services are being utilized by local educational agencies and schools through contractual agreements among local educational agencies or schools and businesses providing quality education management services.
 
-(Pub. L. 103 227, title III, §301, Mar. 31, 1994, 108 Stat. 157.)
+(Pub. L. 103–227, title III, §301, Mar. 31, 1994, 108 Stat. 157.)
 
 #### References in Text
 
-This chapter, referred to in pars. (11) and (12), was in the original “this Act”, meaning Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in pars. (11) and (12), was in the original “this Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

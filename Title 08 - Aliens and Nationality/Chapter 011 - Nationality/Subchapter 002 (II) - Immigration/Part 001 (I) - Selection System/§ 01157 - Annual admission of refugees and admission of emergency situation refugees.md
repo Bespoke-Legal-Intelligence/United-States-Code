@@ -12,7 +12,7 @@
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
-If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President mayfix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
+If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
 
 #### (c) Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child
 
@@ -36,7 +36,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (e) “Appropriate consultation” defined
 
-For purposes of this section, the term “appropriate consultation” means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
+For purposes of this section, the term “appropriate consultation” means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing thatthe proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
 
 &emsp;(1) A description of the nature of the refugee situation.
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “appropriate consultation” means, wit
 
 #### Prior Provisions
 
-A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Stat. 181, which prohibited issuance of immigrant visas to other immigrants in lieu of immigrants excluded from admission, immigrants deported, immigrants failing to apply for admission to the United States, or immigrants found to be nonquota immigrants after having previously been found to be quota immigrants, was repealed by Pub. L. 89–236, §7, Oct. 3, 1965, 79 Stat. 916.
+A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Stat. 181, prohibited issuance of immigrant visas to other immigrants in lieu of immigrants excluded from admission, immigrants deported, immigrants failing to apply for admission to the United States, or immigrants found to be nonquota immigrants after having previously been found to be quota immigrants, prior to repeal by Pub. L. 89–236, §7, Oct. 3, 1965, 79 Stat. 916.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Establishment of Categories.—
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, and 1996 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, and 1996 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -141,6 +141,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 95–48, Sept. 29, 1995, 60 F.R. 53091.
 
 Presidential Determination No. 95–1, Oct. 1, 1994, 59 F.R. 52393.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) damage caused by a vessel of, or in the service of, the Department of the Army or by other property under the jurisdiction of the Department of the Army;
 
-&emsp;(2) compensation for towage and salvage service, including contract salvage, renderedto a vessel of, or in the service of, the Department of the Army or to other property under the jurisdiction of the Department of the Army; or
+&emsp;(2) compensation for towage and salvage service, including contract salvage, rendered to a vessel of, or in the service of, the Department of the Army or to other property under the jurisdiction of the Department of the Army; or
 
 &emsp;(3) damage caused by a maritime tort committed by any agent or employee of the Department of the Army or by property under the jurisdiction of the Department of the Army.
 

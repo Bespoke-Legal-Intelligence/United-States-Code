@@ -28,7 +28,7 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
-1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards formembers of armed forces for suggestions, inventions, or scientific achievements.
+1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal
 
@@ -151,6 +151,24 @@ Sec. 3. No more than one award of the Military Outstanding Volunteer Service Med
 Sec. 4. The Military Outstanding Volunteer Service Medal may be awarded posthumously, and when so awarded, may be presented to such representatives of the deceased as may be deemed appropriate by the Secretary of Defense or, in the case of a member of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 12985. Establishing Armed Forces Service Medal
+
+Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including my authority as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Service Medal with accompanying ribbons and appurtenances, for award to members of the Armed Forces of the United States who, on or after June 1, 1992, in the opinion of the Joint Chiefs of Staff: (a) Participate, or have participated, as members of United States military units in a United States military operation in which personnel of any Armed Force participate that is deemed to be significant activity; and
+
+(b) Encounter no foreign armed opposition or imminent hostile action.
+
+Sec. 2. <i>Approval and Award</i>. The medal, with ribbons and appurtenances, shall be of an appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Armed Forces Service Medal in an order of precedence immediately before the Humanitarian Service Medal.
+
+Sec. 3. <i>Criteria</i>. The medal shall be awarded only for operations for which no other United States service medal is approved. For operations in which personnel of only one Military Department or the Coast Guard participate, the medal shall be awarded only if there is no other suitable award available to the department or the Coast Guard. No more than one medal shall be awarded to any one person, but for each succeeding operationjustifying such award a suitable device may be awarded to be worn on the medal or ribbon as prescribed by appropriate regulations.
+
+Sec. 4. <i>Posthumous Provision</i>. The medal may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 

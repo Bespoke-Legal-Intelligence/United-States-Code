@@ -8,21 +8,19 @@ Funds may not be available to the United Nations High Commissioner for Refugees 
 
 &emsp;(2) such audits are made available through the Department of State for inspection by the Comptroller General of the United States.
 
-#### (b) Inspection and report by Comptroller General
-
-The Comptroller General of the United States shall inspect each such audit and submit a report of that inspection to the Congress.
-
-#### (c) First program audit
+#### (b) First program audit
 
 The first program audit pursuant to subsection (a)(1) of this section shall begin not later than June 1, 1986.
 
-(Pub. L. 87–510, §8, as added Pub. L. 99–93, title I, §113, Aug. 16, 1985, 99 Stat. 411; amended Pub. L. 101–246, title VII, §701, Feb. 16, 1990, 104 Stat. 74.)
+(Pub. L. 87–510, §8, as added Pub. L. 99–93, title I, §113, Aug. 16, 1985, 99 Stat. 411; amended Pub. L. 101–246, title VII, §701, Feb. 16, 1990, 104 Stat. 74; Pub. L. 104–66, title I, §1111(a), Dec. 21, 1995, 109 Stat. 723.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Amendments
+
+1995—Subsecs. (b), (c). Pub. L. 104–66 redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Comptroller General of the United States shall inspect each such audit and submit a report of that inspection to the Congress.”
 
 1990—Subsec. (a). Pub. L. 101–246 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds may not be made available to the United Nations High Commissioner for Refugees under this chapter or any other Act unless by June 1, 1986, the High Commissioner provides for—
 

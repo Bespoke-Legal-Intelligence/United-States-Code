@@ -18,13 +18,13 @@ Audits.—The Secretary and the Comptroller General shall make regular financial
 
 (c)
 
-Information.—The Interstate Commerce Commission shall provide the Secretary with information the Secretary requests to assist incarrying out this chapter. The Commission shall provide the information not later than 30 days after receiving a request from the Secretary.
+Information.—The Surface Transportation Board shall provide the Secretary with information the Secretary requests to assist in carrying out this chapter. The Board shall provide the information not later than 30 days after receiving a request from the Secretary.
 
 (d)
 
-List of Rail Lines.—Not later than August 1 of each year, each rail carrier subject to subchapter I of chapter 105 of this title shall submit to the Secretary a list of the rail lines of the carrier that carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
+List of Rail Lines.—Not later than August 1 of each year, each rail carrier subject to part A of subtitle IV of this title shall submit to the Secretary a list of the rail lines of the carrier that carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 898.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 898; Pub. L. 104–88, title III, §308(f)(4), (5), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -57,4 +57,14 @@ In subsection (a), before clause (1), the words “an arrangement” are substit
 Subsection (b) is substituted for 49 App.:1654(k)(2) and (3) because of 31:ch. 75.
 
 In subsection (d), the words “Not later than” are substituted for “On or before” for clarity. The word “submit” is substituted for “prepare, update, and submit” to eliminate unnecessary words. The words “based on level of usage” are omitted as surplus.
+
+#### Amendments
+
+1995—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
+
+Subsec. (d). Pub. L. 104–88, §308(f)(5), substituted “part A of subtitle IV” for “subchapter I of chapter 105”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 

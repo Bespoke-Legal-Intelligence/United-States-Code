@@ -30,7 +30,7 @@ Extent of Credit.—The amount of the credit given toward the attainment of any 
 
 &emsp;(1) in the case of work performed as described in subsection (a)(1), the value of the work performed; and
 
-&emsp;(2) in the case of a contract or subcontract undertaken to be performed by a joint venture as described in subsection (a)(2), an amount equal to the amount of the contract or subcontract multiplied by the percentage of the tribe's or tribally owned corporation's ownership interest in the joint venture.
+&emsp;(2) in the case of a contract or subcontract undertaken to be performed by a joint ventureas described in subsection (a)(2), an amount equal to the amount of the contract or subcontract multiplied by the percentage of the tribe's or tribally owned corporation's ownership interest in the joint venture.
 
 (d)
 

@@ -44,7 +44,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(A) an area extending not less than one hundred feet on both sides of the center line of any main line or branch line of the Alaska Railroad; or
 
-&emsp;&emsp;(B) an area extending on both sides of the center line of any main line or branch line of the Alaska Railroad appropriated or retained by or for the Alaska Railroad that, as a result of military jurisdiction over, or non-Federal ownership of, lands abutting the main line or branch line, is of a width lessthan that described in subparagraph (A) of this paragraph;
+&emsp;&emsp;(B) an area extending on both sides of the center line of any main line or branch line of the Alaska Railroad appropriated or retained by or for the Alaska Railroad that, as a result of military jurisdiction over, or non-Federal ownership of, lands abutting the main line or branch line, is of a width less than that described in subparagraph (A) of this paragraph;
 
 &emsp;(12) “Secretary” means the Secretary of Transportation;
 

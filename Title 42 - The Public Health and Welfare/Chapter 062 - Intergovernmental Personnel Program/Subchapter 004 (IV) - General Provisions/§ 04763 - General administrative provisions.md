@@ -14,7 +14,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(1) issue such standards and regulations as may be necessary to carry out the purposes of this chapter;
 
-&emsp;(2) consent to the modification of any contract entered into pursuant to this chapter,such consent being subject to any specific limitations of this chapter;
+&emsp;(2) consent to the modification of any contract entered into pursuant to this chapter, such consent being subject to any specific limitations of this chapter;
 
 &emsp;(3) include in any contract made pursuant to this chapter such covenants, conditions, or provisions as it deems necessary to assure that the purposes of this chapter will be achieved; and
 

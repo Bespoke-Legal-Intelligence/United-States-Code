@@ -10,7 +10,7 @@ Funds available for use in carrying out the purpose of this section shall be lim
 
 #### (c) Limitation on expenditures
 
-(1) The Secretary may make expenditures and carry out the purposes of this section in suchStates where requests are made by the Governor or governing body of an Indian tribe for those reclamation projects which meet the priorities stated in section 1233(a)(1) of this title, except that for the purposes of this section the reference to coal in section 1233(a)(1) of this title shall not apply.
+(1) The Secretary may make expenditures and carry out the purposes of this section in such States where requests are made by the Governor or governing body of an Indian tribe for those reclamation projects which meet the priorities stated in section 1233(a)(1) of this title, except that for the purposes of this section the reference to coal in section 1233(a)(1) of this title shall not apply.
 
 (2) The provisions of section 1234 of this title shall apply to this section, with the exception that such mined lands need not have been mined for coal.
 
@@ -18,7 +18,7 @@ Funds available for use in carrying out the purpose of this section shall be lim
 
 #### (d) Disposal of mine wastes
 
-In those instances where mine waste piles are being reworked for conservation purposes, the incremental costs of disposing of the wastes from such operations by filling voids and sealing tunnels may be eligible for funding providing that the disposal of these wastes meets the purposes of this section.
+In those instances where mine waste piles are being reworked for conservation purposes, theincremental costs of disposing of the wastes from such operations by filling voids and sealing tunnels may be eligible for funding providing that the disposal of these wastes meets the purposes of this section.
 
 #### (e) Land acquisition
 

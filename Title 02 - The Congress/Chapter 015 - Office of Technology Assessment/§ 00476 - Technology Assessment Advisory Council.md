@@ -14,7 +14,7 @@ The Office shall establish a Technology Assessment Advisory Council (hereinafter
 
 The Council, upon request by the Board, shall—
 
-&emsp;(1) review and make recommendations to the Board on activities undertaken by the Officeor on the initiation thereof in accordance with section 472(d) of this title;
+&emsp;(1) review and make recommendations to the Board on activities undertaken by the Office or on the initiation thereof in accordance with section 472(d) of this title;
 
 &emsp;(2) review and make recommendations to the Board on the findings of any assessment made by or for the Office; and
 

@@ -20,7 +20,7 @@
 
 (c)(1) An election, change of election, or modification of the commencement date of a deferred annuity shall not be effective under this subchapter to the extent that the election, change, modification, or transfer conflicts with any court decree, order, or agreement described in paragraph (2).
 
-(2) A court decree, order, or agreement referred to in paragraph (1) is, with respect to an employee or Member (or former employee or Member), a court decree of divorce, annulment,or legal separation issued in the case of such employee or Member (or former employee or Member) and any former spouse of the employee or Member (or former employee or Member) or any court order or court-approved property settlement agreement incident to such decree if—
+(2) A court decree, order, or agreement referred to in paragraph (1) is, with respect to an employee or Member (or former employee or Member), a court decree of divorce, annulment, or legal separation issued in the case of such employee or Member (or former employee or Member) and any former spouse of the employee or Member (or former employee or Member) or any court order or court-approved property settlement agreement incident to such decree if—
 
 &emsp;(A) the decree, order, or agreement expressly relates to any portion of the balance in the employee's or Member's (or former employee's or Member's) account; and
 
@@ -80,7 +80,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
 
 Subsec. (a)(1)(B). Pub. L. 103–226, §9(i)(9), substituted “subsection (b)” for “subsection (c)”.
 
@@ -126,9 +126,9 @@ Subsec. (g). Pub. L. 103–226, §9(d)(3), (i)(15), redesignated subsec. (h) as 
 
 Subsecs. (h), (i). Pub. L. 103–226, §9(d)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-1992—Subsec. (c)(2)(A). Pub. L. 102–484 inserted “, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “8451 of this title”.
+<b>1992</b>—Subsec. (c)(2)(A). Pub. L. 102–484 inserted “, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “8451 of this title”.
 
-1990—Subsec. (c)(1). Pub. L. 101–335, §5(c)(1), inserted “an annuity contract is purchased to provide for” after “the date on which” and struck out “commences” after “former Member's annuity”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–335, §5(c)(1), inserted “an annuity contract is purchased to provide for” after “the date on which” and struck out “commences” after “former Member's annuity”.
 
 Subsec. (d)(2)(B)(ii). Pub. L. 101–335, §5(c)(2), substituted “an annuity contract is purchased to provide for the annuity” for “the annuity commences”.
 
@@ -136,7 +136,7 @@ Subsecs. (h), (i). Pub. L. 101–335, §6(a)(3), added subsec. (h) and redesigna
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1992 Amendment
 

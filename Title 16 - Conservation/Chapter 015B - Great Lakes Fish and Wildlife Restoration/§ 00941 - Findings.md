@@ -10,7 +10,7 @@ The Congress finds and declares the following:
 
 &emsp;(4) The Great Lakes Basin contains important breeding and migration habitat for all types of migratory birds. Many migratory bird species dependent on deteriorating Great Lakes Basin habitat have suffered serious population declines in recent years.
 
-&emsp;(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyed and such losses continue at a rate of 20,000 acres annually.
+&emsp;(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyedand such losses continue at a rate of 20,000 acres annually.
 
 &emsp;(6) Contaminant burdens in the fish and wildlife resources of the Great Lakes Basin are substantial and the impacts of those contaminants on the life functions of important fish and wildlife resources are poorly understood. Concern over the effects of those contaminants on human health have resulted in numerous public health advisories recommending restricted or no consumption of Great Lakes fish.
 

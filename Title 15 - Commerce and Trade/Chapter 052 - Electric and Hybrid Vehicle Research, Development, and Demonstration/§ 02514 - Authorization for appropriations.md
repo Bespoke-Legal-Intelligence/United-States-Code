@@ -4,15 +4,15 @@
 
 (b) Any moneys received by the Secretary of Energy from vehicle sales or leases or other activities under this chapter may be retained and used for purposes of carrying out this chapter, notwithstanding the provisions of section 3302(b) of title 31, and may remain available until expended; but the amount authorized to be appropriated for any fiscal year under subsection (a) of this section shall be reduced by the amount of the moneys so received in that year.
 
-(Pub. L. 94 413, §16, Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95 91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, §16, Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 #### Codification
 
-In subsec. (b), “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 484)”on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 484)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95 91, see Codification note set out under section 2502 of this title.
+“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
 #### Section Referred to in Other Sections
 

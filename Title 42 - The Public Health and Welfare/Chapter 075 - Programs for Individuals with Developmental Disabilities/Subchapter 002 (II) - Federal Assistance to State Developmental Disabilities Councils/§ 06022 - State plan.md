@@ -32,7 +32,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(i) an analysis of such Federal and State priority areas in relation to the degree of support for individuals with developmental disabilities attributable to either physical impairment, mental impairment, or a combination of physical and mental impairments;
 
-&emsp;&emsp;&emsp;(ii) an analysis of criteria for eligibility for services, including specialized services and special adaptation of generic services provided by agencies within the State,that may exclude individuals with developmental disabilities from receiving such services;
+&emsp;&emsp;&emsp;(ii) an analysis of criteria for eligibility for services, including specialized services and special adaptation of generic services provided by agencies within the State, that may exclude individuals with developmental disabilities from receiving such services;
 
 &emsp;&emsp;&emsp;(iii) an analysis of the barriers that impede full participation of members of unserved and underserved groups;
 
@@ -94,7 +94,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (E) Program standards
 
-&emsp;&emsp;The plan shall provide assurances that programs, projects, and activities assistedunder the plan, and the buildings in which such programs, projects, and activities are operated, will meet standards prescribed by the Secretary in regulation and all applicable Federal and State accessibility standards.
+&emsp;&emsp;The plan shall provide assurances that programs, projects, and activities assisted under the plan, and the buildings in which such programs, projects, and activities are operated, will meet standards prescribed by the Secretary in regulation and all applicable Federal and State accessibility standards.
 
 #### (F) Individualized services
 
@@ -154,13 +154,13 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(5)(J), is
 
 #### Prior Provisions
 
-A prior section 122 of Pub. L. 88–164, title I, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 487;amended Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3009, set forth administrative provisions relating to demonstration and training grants and was classified to section 6032 of this title, prior to the general amendment of this chapter by Pub. L. 98–527.
+A prior section 122 of Pub. L. 88–164, title I, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 487; amended Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3009, set forth administrative provisions relating to demonstration and training grants and was classified to section 6032 of this title, prior to the general amendment of this chapter by Pub. L. 98–527.
 
 #### Amendments
 
 1994—Pub. L. 103–230 substituted “State plan” for “State plans” in section catchline and amended text generally, substituting, in subsec. (a), provisions relating to submission of plan to Secretary of Health and Human Services for similar provisions, in subsec. (b), provisions relating to planning cycle for provisions relating to plan requirements and contents, in subsec. (c), provisions relating to plan requirements for provisions relating to approval or final disapproval of plan and to notice and hearing requirements, in subsec. (d), provisions relating to public review, submission, and approval of plan for provisions relating to administration of plan and treatment of expenditures arising therefrom, and struck out former subsecs. (e) and (f), relating, respectively, to continued designation of previously designated State agency and to comprehensive review and analysis of services by State Planning Council and reports of such review.
 
-1991—Subsec. (b)(5)(C). Pub. L. 102–119 substituted reference to the Individuals with Disabilities Education Act for reference to the Education of the Handicapped Act in the original, which for purposes of codification was translated as section 1418 of title 20, thus requiring no change in text.
+1991—Subsec. (b)(5)(C). Pub. L. 102–119 substituted reference to the Individuals with Disabilities EducationAct for reference to the Education of the Handicapped Act in the original, which for purposes of codification was translated as section 1418 of title 20, thus requiring no change in text.
 
 1990—Subsec. (b)(1)(B). Pub. L. 101–496, §11(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The plan must designate the State agency which shall administer or supervise the administration of the State plan (hereafter in this subchapter referred to as the ‘designated State agency’).”
 
@@ -206,7 +206,7 @@ Subsec. (b)(5)(B). Pub. L. 100–146, §202(b)(5)(B), added subpar. (B) and stru
 
 Subsec. (b)(5)(C). Pub. L. 100–146, §202(b)(5)(C), (D), redesignated subpar. (D) as (C) and struck out former subpar. (C) which allowed expenditure during fiscal years 1985, 1986, and 1987 of funds for additional special services.
 
-Subsec. (b)(5)(D). Pub. L. 100–146, §202(b)(5)(D)–(H), redesignated subpar. (E) as (D), in cl. (i), substituted “activities in the Federal priority area of employment activities, and, at the discretion of the State, activities in any or all of the three other Federal priority areas and a State priority area, the conduct of the analyses specified in clauses (i) through (v) of subparagraph (B), and the implementation of paragraph (3) and subsection\(f) of this section” for “service activities in the priority services”, and in cl. (ii), struck out “service activities for persons with developmental disabilities, and” after “be used for”, inserted “priority area activities for”, and substituted “persons with developmental disabilities” for “the provision of such services”. Former subpar. (D) redesignated (C).
+Subsec. (b)(5)(D). Pub. L. 100–146, §202(b)(5)(D)–(H), redesignated subpar. (E) as (D), in cl. (i), substituted “activities in the Federal priority area of employment activities, and, at the discretion of the State, activities in any or all of the three other Federal priority areas and a State priority area, the conduct of the analyses specified in clauses (i) through (v) of subparagraph (B), and the implementation of paragraph (3) and subsection (f) of this section” for “service activities in the priority services”, and in cl. (ii), struck out “service activities for persons with developmental disabilities, and” after “be used for”, inserted “priority area activities for”, and substituted “persons with developmental disabilities” for “the provision of such services”. Former subpar. (D) redesignated (C).
 
 Subsec. (b)(5)(E), (F). Pub. L. 100–146, §202(b)(5)(D), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
@@ -220,7 +220,7 @@ Subsec. (e). Pub. L. 100–146, §202(b)(1)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–146, §202(b)(3)(C), added subsec. (f).
 
-1985—Subsec. (b)(4)(C). Pub. L. 99–91 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Notwithstanding the requirements of subparagraph (B), upon the application of a State, the Secretary, pursuant to regulations which the Secretary shall prescribe, may permit the portion of the funds which must otherwise be expended under the State plan for service activities in a limited number of services to be expended for service activities in additional services if the Secretary determines that the expenditures of the State on service activities in the initially specified services has reasonably met the need for those services in the State in comparison to the extent to which the need for such additional services has been met in such State. Such additional areas shall, to the maximum extent feasible, be areas within the priority services.”
+1985—Subsec. (b)(4)(C). Pub. L. 99–91 amended subpar. (C) generally. Prior to amendment, subpar. (C) read asfollows: “Notwithstanding the requirements of subparagraph (B), upon the application of a State, the Secretary, pursuant to regulations which the Secretary shall prescribe, may permit the portion of the funds which must otherwise be expended under the State plan for service activities in a limited number of services to be expended for service activities in additional services if the Secretary determines that the expenditures of the State on service activities in the initially specified services has reasonably met the need for those services in the State in comparison to the extent to which the need for such additional services has been met in such State. Such additional areas shall, to the maximum extent feasible, be areas within the priority services.”
 
 #### Effective Date of 1987 Amendment
 

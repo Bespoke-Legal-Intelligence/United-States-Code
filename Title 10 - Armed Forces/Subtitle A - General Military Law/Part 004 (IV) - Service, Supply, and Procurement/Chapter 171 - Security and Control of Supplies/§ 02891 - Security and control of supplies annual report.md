@@ -24,7 +24,7 @@
 
 &emsp;(7) An evaluation of the effectiveness of supply inventory control in the fiscal year preceding the fiscal year in which the report is submitted, the criteria used by the Secretary to make such evaluation, and the information considered by the Department in making the evaluation, including the value of supplies lost or stolen or for which accountability has otherwise been lost.
 
-&emsp;(8) The aggregate statistics for all incidents of theft, fraud, or breach of security involvingDepartment of Defense supplies that were investigated by military or civilian law enforcement agencies during the fiscal year preceding the fiscal year in which the report is submitted (including incidents involving munitions), a summary description of all such incidents (including the circumstances under which the incidents occurred), and the lessons learned by the Department of Defense from such incidents.
+&emsp;(8) The aggregate statistics for all incidents of theft, fraud, or breach of security involving Department of Defense supplies that were investigated by military or civilian law enforcement agencies during the fiscal year preceding the fiscal year in which the report is submitted (including incidents involving munitions), a summary description of all such incidents (including the circumstances under which the incidents occurred), and the lessons learned by the Department of Defense from such incidents.
 
 &emsp;(9) A summary description of the cases determined by the Secretary of Defense to be cases of major thefts of Department of Defense supplies during the fiscal year preceding the fiscal year in which the report is submitted, including any case involving a loss in an amount greater than $1,000,000 or a loss of sensitive or classified items.
 
@@ -40,7 +40,7 @@ Subsec. (b)(9), (10). Pub. L. 102–484, §372(b), added pars. (9) and (10).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Defense Supply Management Studies and Modernization Plan
 

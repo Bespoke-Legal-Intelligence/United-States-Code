@@ -16,7 +16,7 @@ The Mutual Security Act of 1954, referred to in subsec. (b), is act Aug. 26, 195
 
 1978—Subsec. (a). Pub. L. 95–424 struck out subsec. (a) which authorized appropriations for necessary administrative expenses of the agency primarily responsible for administering subchapter I of this chapter.
 
-1973—Subsec. (a). Pub. L. 93–189 substituted “for each of the fiscal years 1974 and 1975, $45,000,000”, for “for the fiscal year 1972, $50,000,000, and for the fiscal year 1973, $50,000,000”.
+1973—Subsec. (a). Pub. L. 93–189 substituted “for each of the fiscal years 1974 and 1975, $45,000,000”, for “for thefiscal year 1972, $50,000,000, and for the fiscal year 1973, $50,000,000”.
 
 1972—Subsec. (a). Pub. L. 92–226 authorized appropriations of $50,000,000 for fiscal years 1972 and 1973, and struck out appropriation authorization of $51,125,000 for fiscal years 1970 and 1971.
 

@@ -2,7 +2,7 @@
 
 #### (a) General objectives; persons conducting the evaluation
 
-The Director shall measure and evaluate the impact of all programs authorized by this chapter (including the VISTA Literacy Corps which shall be evaluated as a separate program atleast once every 3 years), their effectiveness in achieving stated goals, in general, and in relation to their cost, their impact on related programs, and their structure and mechanism for delivery of services. Each program shall be evaluated at least once every three years. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.
+The Director shall measure and evaluate the impact of all programs authorized by this chapter (including the VISTA Literacy Corps which shall be evaluated as a separate program at least once every 3 years), their effectiveness in achieving stated goals, in general, and in relation to their cost, their impact on related programs, and their structure and mechanism for delivery of services. Each program shall be evaluated at least once every three years. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.
 
 #### (b) General standards; publication; reports of ensuing actions
 
@@ -68,7 +68,7 @@ Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated 
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

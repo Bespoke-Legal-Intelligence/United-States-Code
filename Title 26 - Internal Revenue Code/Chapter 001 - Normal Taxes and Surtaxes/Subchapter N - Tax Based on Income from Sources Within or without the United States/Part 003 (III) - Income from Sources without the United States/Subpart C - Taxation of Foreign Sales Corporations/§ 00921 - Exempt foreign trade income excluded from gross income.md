@@ -64,7 +64,7 @@ Section 801(d)(10).—The amendment made by section 801(d)(10) \[amending sectio
 
 Section 803.—The amendments made by section 803 \[amending section 441 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
-#### Submission of Biannual Reports to Congress
+#### Quadrennial Reports to Congress
 
 Section 804(a) of title VIII of div. A of Pub. L. 98–369, as amended by Pub. L. 100–647, title VI, §6252(b)(2)(A), Nov. 10, 1988, 102 Stat. 3753, provided that: “The Secretary of the Treasury shall, during 1990 and each fourth calendar year thereafter, submit a report to the Congress (using the most recent information available) setting forth an analysis of the operation and effect of the provisions of this title \[see Effective Date note above for classification\].”
 

@@ -8,3 +8,7 @@ Any person that offers examinations or courses related to applications, licensin
 
 Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 101–336, set out as a note under section 12181 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1331.
+

@@ -80,6 +80,22 @@ Subsec. (g), designated sixth par. as subsec. (g).
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of this title.
 
+#### Delegation of Authority
+
+Memorandum of President of the United States, Oct. 3, 1995, 60 F.R. 52289, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Section 2451 of the Federal Acquisition Streamlining Act of 1994, Public Law 103–355 (\[amending\] 41 U.S.C. 15) (“Act”), provides, in part, that “\[a\]ny contract of the Department of Defense, the General Services Administration, the Department of Energy or any other department or agency of the United States designated by the President, except \[contracts where\] . . . full payment has been made, may, upon a determination of need by the President, provide or be amended without consideration to provide that payments to be made to the assignee of any moneys due or to become due under \[the\] contract shall not be subject to reduction or set-off.”
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby designate all other departments and agencies of the United States as subject to this provision. Furthermore, I hereby delegate to the Secretaries of Defense and Energy, the Administrator of General Services, and the heads of all other departments and agencies, the authority under section 2451 of the Act to make determinations of need for their respective agency's contracts, subject to such further guidance as issued by the Office of Federal Procurement Policy.
+
+The authority delegated by this memorandum may be further delegated within the departments and agencies.
+
+This memorandum shall be published in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Non-Applicability of National Emergencies Act
 
 The provisions of the National Emergencies Act (Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255) not applicable to the powers and authorities conferred by this section and actions taken hereunder, see section 1651 of Title 50, War and National Defense.

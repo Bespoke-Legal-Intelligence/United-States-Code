@@ -12,7 +12,7 @@
 
 &emsp;(5) an employee of the Office of Personnel Management, designated by the Director of the Office of Personnel Management; and
 
-&emsp;(6) five members, designated by the Director of the Office of Personnel Management, from among the employee organizations representing, under exclusive recognition of the Government of the United States, the largest numbers of prevailing rate employees.
+&emsp;(6) five members, designated by the Director of the Office of Personnel Management, fromamong the employee organizations representing, under exclusive recognition of the Government of the United States, the largest numbers of prevailing rate employees.
 
 (b) In designating members from among employee organizations under subsection (a)(6) of this section, the Director of the Office of Personnel Management shall designate, as nearly as practicable, a number of members from a particular employee organization in the same proportion to the total number of employee representatives appointed to the Committee under subsection (a)(6) of this section as the number of prevailing rate employees represented by such organization is to the total number of prevailing rate employees. However, there shall not be more than two members from any one employee organization nor more than four members from a single council, federation, alliance, association, or affiliation of employee organizations.
 
@@ -20,25 +20,27 @@
 
 (d) The members from the employee organizations serve at the pleasure of the Director of the Office of Personnel Management.
 
-(e) The Committee shall study the prevailing rate system and other matters pertinent to the establishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee. The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate.
+(e) The Committee shall study the prevailing rate system and other matters pertinent to the establishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee.
 
 (f) The Committee shall meet at the call of the Chairman. However, a special meeting shall be called by the Chairman if 5 members make a written request to the Chairman to call a special meeting to consider matters within the purview of the Committee.
 
 (g)(1) Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitled to pay from the Government of the United States for services rendered to the Committee.
 
-(2) The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shallbe subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
+(2) The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shall be subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
 
 (h) The Office of Personnel Management shall provide such clerical and professional personnel as the Chairman of the Committee considers appropriate and necessary to carry out its functions under this subchapter. Such personnel shall be responsible to the Chairman of the Committee.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 571; amended Pub. L. 95–454, title IX, §906(a)(1), (2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 102–378, §2(30), Oct. 2, 1992, 106 Stat. 1350.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 571; amended Pub. L. 95–454, title IX, §906(a)(1), (2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 102–378, §2(30), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–66, title II, §2181(d), Dec. 21, 1995, 109 Stat. 732.)
 
 #### Amendments
 
-1992—Subsec. (g). Pub. L. 102–378 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), members” for “Members”, struck out second sentence which read as follows: “The Chairman is entitled to a rate of pay equal to the maximum rate currently paid, from time to time, under the General Schedule.”, and added par. (2).
+<b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out at end “The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate.”
 
-1979—Subsec. (e). Pub. L. 96–54 substituted “Office” for “Commission”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–378 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), members” for “Members”, struck out second sentence which read as follows: “The Chairman is entitled to a rate of pay equal to the maximum rate currently paid, from time to time, under the General Schedule.”, and added par. (2).
 
-1978—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted “Director of the Office of Personnel Management” for “Chairman of the Civil Service Commission” and “Office of Personnel Management” for “Civil Service Commission”, wherever appearing.
+<b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted “Office” for “Commission”.
+
+<b>1978</b>—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted “Director of the Office of Personnel Management” for “Chairman of the Civil Service Commission” and “Office of Personnel Management” for “Civil Service Commission”, wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

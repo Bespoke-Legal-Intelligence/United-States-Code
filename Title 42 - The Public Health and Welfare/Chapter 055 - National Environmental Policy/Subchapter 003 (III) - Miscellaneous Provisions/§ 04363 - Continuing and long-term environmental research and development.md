@@ -14,7 +14,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in the following prior authorization acts:
+Provisions similar to those in this section were contained in the following prior authorization acts:
 
 1980—Pub. L. 96–229, §2(e), Apr. 7, 1980, 94 Stat. 327.
 

@@ -6,7 +6,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;(2) The term “administrative entity” means the entity designated to administer a job training plan under section 1513(b)(1)(B) of this title.
 
-&emsp;(3) The term “area of substantial unemployment” means any area of sufficient size and scope to sustain programs under parts A and C of subchapter II of this chapter and which has an average rate of unemployment of at least 6.5 percent for the most recent twelve months as determined by the Secretary. Determinations of areas of substantial unemployment shall be made once each fiscal year.
+&emsp;(3) The term “area of substantial unemployment” means any area of sufficient size and scope to sustain programs under parts A and C of subchapter II of this chapter and which hasan average rate of unemployment of at least 6.5 percent for the most recent twelve months as determined by the Secretary. Determinations of areas of substantial unemployment shall be made once each fiscal year.
 
 &emsp;(4) The term “chief elected official” includes—
 
@@ -42,7 +42,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;(16) The term “lower living standard income level” means that income level (adjusted for regional, metropolitan, urban, and rural differences and family size) determined annually by the Secretary based on the most recent “lower living family budget” issued by the Secretary.
 
-&emsp;(17) The term “offender” means any adult or juvenile who is or has been subject to any stage of the criminal justice process for whom services under this chapter may be beneficial or who requires assistance in overcoming artificial barriers to employment resulting from a record of arrest or conviction.
+&emsp;(17) The term “offender” means any adult or juvenile who is or has been subject to any stage of the criminal justice process for whom services under this chapter may be beneficialor who requires assistance in overcoming artificial barriers to employment resulting from a record of arrest or conviction.
 
 &emsp;(18) The term “postsecondary institution” means an institution of higher education as that term is defined in section 481(a)(1) of the Higher Education Act of 1965 \[20 U.S.C. 1088(a)(1)\].
 
@@ -82,7 +82,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;&emsp;(B) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
-&emsp;(30) The term “nontraditional employment” as applied to women refers to occupations orfields of work where women comprise less than 25 percent of the individuals employed in such occupation or field of work.
+&emsp;(30) The term “nontraditional employment” as applied to women refers to occupations or fields of work where women comprise less than 25 percent of the individuals employed in such occupation or field of work.
 
 &emsp;(31) The term “basic skills deficient” means, with respect to an individual, that the individual has English reading or computing skills at or below the 8th grade level on a generally accepted standardized test or a comparable score on a criterion-referenced test.
 

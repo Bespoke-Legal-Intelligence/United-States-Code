@@ -36,7 +36,7 @@ Each such application shall—
 
 &emsp;(9) provide assurances that the funds provided will be used to supplement and not supplant funds otherwise available for the purposes of this part.
 
-(June 19, 1956, ch. 407, title VIII, §804, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 108.)
+(June 19, 1956, ch. 407, title VIII, §804, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 108.)
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ Subsec. (d). Pub. L. 98–622, §401(a), inserted “or within one month after t
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pendingbefore or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
+Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pending before or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -30,7 +30,7 @@ Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see sect
 
 #### Effective Date
 
-Chapter effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
+Chapter effective Jan. 24, 1978, and applicable to international and national applications filed on andafter that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 
 #### Section Referred to in Other Sections
 

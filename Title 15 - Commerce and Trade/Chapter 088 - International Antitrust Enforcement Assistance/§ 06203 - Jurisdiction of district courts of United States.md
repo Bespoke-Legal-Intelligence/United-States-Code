@@ -2,7 +2,7 @@
 
 #### (a) Authority of district courts
 
-On the application of the Attorney General made in accordance with an antitrust mutualassistance agreement in effect under this chapter, the United States district court for the district in which a person resides, is found, or transacts business may order such person to give testimony or a statement, or to produce a document or other thing, to the Attorney General to assist a foreign antitrust authority with respect to which such agreement is in effect under this chapter—
+On the application of the Attorney General made in accordance with an antitrust mutual assistance agreement in effect under this chapter, the United States district court for the district in which a person resides, is found, or transacts business may order such person to give testimony or a statement, or to produce a document or other thing, to the Attorney General to assist a foreign antitrust authority with respect to which such agreement is in effect under this chapter—
 
 &emsp;(1) in determining whether a person has violated or is about to violate any of the foreign antitrust laws administered or enforced by the foreign antitrust authority, or
 
@@ -12,7 +12,7 @@ On the application of the Attorney General made in accordance with an antitrust 
 
 #### (1) Use of appointee to receive evidence
 
-&emsp;(A) An order issued under subsection (a) of this section may direct that testimony or a statement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
+&emsp;(A) An order issued under subsection (a) of this section may direct that testimony or astatement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
 
 &emsp;(B) A person appointed under subparagraph (A) shall have power to administer any necessary oath and to take such testimony or such statement.
 
@@ -32,7 +32,7 @@ A person may not be compelled under an order issued under subsection (a) of this
 
 This section does not preclude a person in the United States from voluntarily giving testimony or a statement, or producing a document or other thing, in any manner acceptable to such person for use in an investigation by a foreign antitrust authority.
 
-(Pub. L. 103 438, §4, Nov. 2, 1994, 108 Stat. 4599.)
+(Pub. L. 103–438, §4, Nov. 2, 1994, 108 Stat. 4599.)
 
 #### References in Text
 

@@ -1,4 +1,4 @@
-### §460u–9 . Authorization of appropriations; general management plan; submittal to Congressional committees; feasibility study
+### §460u–9. Authorization of appropriations; general management plan; submittal to Congressional committees; feasibility study
 
 The Secretary may expend such sums as may be necessary from the Land and Water Conservation Fund for acquisition of lands and interests in lands, and not to exceed $27,500,000 for development: <i>Provided</i>, That not more than $500,000 of said amount may be appropriated for the development of the Paul H. Douglas Environmental Education Center authorized pursuant to section 460u–20 of this title. By October 1, 1979, the Secretary shall develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a general management plan detailing the development of the national lakeshore consistent with the preservation objectives of this subchapter, indicating:
 
@@ -10,7 +10,7 @@ The Secretary may expend such sums as may be necessary from the Land and Water C
 
 &emsp;(4) specific opportunities for citizen participation in the planning and development of proposed facilities and in the implementation of the general management plan generally.
 
-The Secretary shall conduct a feasibility study of establishing United States Highway 12 as the “Indiana Dunes Parkway” under the jurisdiction of the National Park Service. The Secretary shall submit the results of such study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the feasibility study.
+The Secretary shall conduct a feasibility study of establishing United States Highway 12 as the “Indiana Dunes Parkway” under the jurisdiction of the National Park Service. The Secretary shall submit the results of such study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1,1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the feasibility study.
 
 (Pub. L. 89–761, §9, formerly §10, Nov. 5, 1966, 80 Stat. 1312; Pub. L. 93–477, title I, §101(6), Oct. 26, 1974, 88 Stat. 1445; renumbered §9 and amended Pub. L. 94–549, §1(7), (9), Oct. 18, 1976, 90 Stat. 2530, 2533; Pub. L. 95–625, title I, §101(16), Nov. 10, 1978, 92 Stat. 3472; Pub. L. 96–612, §1(10), Dec. 28, 1980, 94 Stat. 3576; Pub. L. 99–583, §1(d), Oct. 29, 1986, 100 Stat. 3319; Pub. L. 102–430, §9, Oct. 23, 1992, 106 Stat. 2210.)
 
@@ -38,7 +38,7 @@ A prior section 9 of Pub. L. 89–761 was renumbered section 8 and is classified
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11,1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

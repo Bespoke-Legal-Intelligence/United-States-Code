@@ -6,7 +6,7 @@ The final system plan shall be formulated in such a way as to effectuate the fol
 
 &emsp;(1) the creation, through a process of reorganization, of a financially self-sustaining rail and express service system in the region;
 
-&emsp;(2) the establishment and maintenance of a rail service system adequate to meet the railtransportation needs and service requirements of the region;
+&emsp;(2) the establishment and maintenance of a rail service system adequate to meet the rail transportation needs and service requirements of the region;
 
 &emsp;(3) the establishment of improved high-speed rail passenger service, consonant with the recommendations of the Secretary in his report of September 1971, entitled “Recommendations for Northeast Corridor Transportation”;
 
@@ -16,7 +16,7 @@ The final system plan shall be formulated in such a way as to effectuate the fol
 
 &emsp;(6) the attainment and maintenance of any environmental standards, particularly the applicable national ambient air quality standards and plans established under the Clean Air Act Amendments of 1970, taking into consideration the environmental impact of alternative choices of action;
 
-&emsp;(7) the movement of passengers and freight in rail transportation in the region in the most efficient manner consistent with safe operation, including the requirements of commuter and intercity rail passenger service; the extent to which there should be coordination with the National Railroad Passenger Corporation and similar entities; and the identification of all short-to-medium distance corridors in densely populated areas in which the major upgrading of rail lines for high-speed passenger operation would return substantial public benefits; and
+&emsp;(7) the movement of passengers and freight in rail transportation in the region in the most efficient manner consistent with safe operation, including the requirements of commuter and intercity rail passenger service; the extent to which there should be coordination with the National Railroad Passenger Corporation and similar entities; and the identification of all short-to-medium distance corridors in densely populated areas in which the major upgrading of rail lines for high-speedpassenger operation would return substantial public benefits; and
 
 &emsp;(8) the minimization of job losses and associated increases in unemployment and community benefit costs in areas in the region presently served by rail service.
 
@@ -46,11 +46,11 @@ The final system plan shall designate—
 
 All transfers or conveyances pursuant to the final system plan shall be made in accordance with, and subject to, the following principles:
 
-&emsp;(1) All rail properties to be transferred to the Corporation or any subsidiary thereof by a profitable railroad, by trustees of a railroad in reorganization, or by any railroad leased, operated, or controlled by a railroad in reorganization in the region, shall be transferred in exchange for stock and other securities of theCorporation or any subsidiary thereof (including obligations of the Association) and the other benefits accruing to such railroad by reason of such transfer.
+&emsp;(1) All rail properties to be transferred to the Corporation or any subsidiary thereof by a profitable railroad, by trustees of a railroad in reorganization, or by any railroad leased, operated, or controlled by a railroad in reorganization in the region, shall be transferred in exchange for stock and other securities of the Corporation or any subsidiary thereof (including obligations of the Association) and the other benefits accruing to such railroad by reason of such transfer.
 
 &emsp;(2) All rail properties to be conveyed to a profitable railroad operating in the region by trustees of a railroad in reorganization, or by any railroad leased, operated, or controlled by a railroad in reorganization in the region, shall be conveyed in exchange for compensation from the profitable railroad.
 
-&emsp;(3) Notwithstanding any other provision of this chapter, no acquisition under this chapter shall be made by any profitable railroad operating in the region without a determination with respect to each such transaction and all such transactions cumulatively (A) by the Association, upon adoption and release of the preliminary system plan, that such acquisition or acquisitions will not materially impair the profitability of any other profitable railroad operating in the region or of the Corporation, and (B) by the Commission, which shall be made within 90 days after adoption and release by the Association of the preliminary system plan, that such acquisition or acquisitions will be in full accord and comply with the provisions and standards of subchapter III of chapter 113 of title 49. All determinations made by the Association in the correction to the preliminary system plan published on April 11, 1975 (40 Fed. Reg. 16377), shall be treated for all purposes as if they had been made upon adoption and release by the Association of the preliminary system plan. All determinations made by the Commission with respect to such correction shall be treated for all purposes as if they had been made within 90 days after adoption and release by the Association of the preliminary system plan. All determinations made by the Commission with respect to acquisitions by profitable railroads referred to in any supplement to the preliminary system plan published under section 717(b)(2) of this title shall be deemed to be timely if made prior to the adoption of the final system plan under section 717(c) of this title. The determination by the Association shall not be reviewable in any court. The determination by the Commission shall not be reviewable in any court.
+&emsp;(3) Notwithstanding any other provision of this chapter, no acquisition under this chapter shall be made by any profitable railroad operating in the region without a determination with respect to each such transaction and all such transactions cumulatively (A) by the Association, upon adoption and release of the preliminary system plan, that such acquisition or acquisitions will not materially impair the profitability of any other profitable railroad operating in the region or of the Corporation, and (B) by the Commission, which shall be made within 90 days after adoption and release by the Association of the preliminary system plan, that such acquisition or acquisitions will be in full accord and comply with the provisions and standards of subchapter III <sup>2</sup> of chapter 113 of title 49. All determinations made by the Association in the correction to the preliminary system plan published on April 11, 1975 (40 Fed. Reg. 16377), shall be treated for all purposes as if they had been made upon adoption and release by the Association of the preliminary system plan. All determinations made by the Commission with respect to such correction shall be treated for all purposes as if they had been made within 90 days after adoption and release by the Association of the preliminary system plan. All determinations made by the Commission with respect to acquisitions by profitable railroads referred to in any supplement to the preliminary system plan published under section 717(b)(2) of this title shall be deemed to be timely if made prior to the adoption of the final system plan under section 717(c) of this title. The determination by the Association shall not be reviewable in any court. The determination by the Commission shall not be reviewable in any court.
 
 &emsp;(4) Where the final system plan designates specified rail properties of a railroad in reorganization in the region, or of a railroad leased, operated, or controlled by a railroad in reorganization in the region, to be offered for sale to and operated by a profitable railroad operating in the region, such designation shall terminate 7 days after February 5, 1976, unless, prior to such date, such profitable railroad has notified the Association in writing of its acceptance of such offer. Any such offer may be modified until the date of acceptance thereof, unless such modification results in an offer for the sale of rail properties at less than the net liquidation value thereof. Where the final system plan designates specified rail properties of a profitable railroad operating in the region as authorized to be offered for sale or lease to the Corporation or to other profitable railroads operating in the region, such designation and authorization shall terminate 95 days after the effective date of the final system plan unless, prior to such date, a binding agreement with respect to such properties has been entered into and concluded.
 
@@ -72,7 +72,7 @@ All transfers or conveyances pursuant to the final system plan shall be made in 
 
 The final system plan shall set forth—
 
-&emsp;(1) pro forma earnings for the Corporation, as reasonably projected and considering theadditions or changes in the designation of rail properties to be operated by the Corporation which may be made under subsection (d)(4) of this section;
+&emsp;(1) pro forma earnings for the Corporation, as reasonably projected and considering the additions or changes in the designation of rail properties to be operated by the Corporation which may be made under subsection (d)(4) of this section;
 
 &emsp;(2) the capital structure of the Corporation, based on the pro forma earnings of the Corporation as set forth, including such debt capitalization as shall be reasonably deemed to conform to the requirements of the public interest with respect to railroad debt securities, including the adequacy of coverage of fixed charges; and
 
@@ -84,7 +84,7 @@ The final system plan shall designate the value of all rail properties to be tra
 
 #### (g) Other provisions
 
-The final system plan may recommend arrangements among various railroads for joint use or operation of rail properties on a shared ownership, cooperative, pooled, or condominium-type basis, subject to such terms and conditions as may be specified in the final system plan. The final system plan shall also make such designations as are determined to be necessary in accordance with the provisions of section 762 or 763 <sup>2</sup> of this title.
+The final system plan may recommend arrangements among various railroads for joint use or operation of rail properties on a shared ownership, cooperative, pooled, or condominium-type basis, subject to such terms and conditions as may be specified in the final system plan. The final system plan shall also make such designations as are determined to be necessary in accordance with the provisions of section 762 or 763 <sup>3</sup> of this title.
 
 #### (h) Obligational authority
 
@@ -108,11 +108,9 @@ Section 712(b) of this title, referred to in subsec. (b), which related to addit
 
 Section 714 of this title, referred to in subsec. (b), was omitted from the Code.
 
+Subchapter III of chapter 113 of title 49, referred to in subsec. (d)(3), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, in subsec. (d)(3), “subchapter III of chapter 113 of title 49” was substituted for “section 5 of part I of the Interstate Commerce Act (49 U.S.C. 5)” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1446, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
+
 Sections 762 and 763 of this title, referred to in subsec. (g), were repealed by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
-
-#### Codification
-
-In subsec. (d)(3), “subchapter III of chapter 113 of title 49” substituted for “section 5 of part I of the Interstate Commerce Act (49 U.S.C. 5)” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1446, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
 #### Amendments
 
@@ -150,11 +148,15 @@ Subsec. (j). Pub. L. 94–210, §607(q), added subsec. (j).
 
 #### Effective Date of 1978 Amendment
 
-Section 4(b) of Pub. L. 95–611 provided that: “The amendment made by this Act \[probably meaning this section 4, which amended section 716 of this title\] shall be effective on January 2, 1974.”
+Section 4(b) of Pub. L. 95–611 provided that: “The amendment made by this Act \[probably meaning thissection 4, which amended section 716 of this title\] shall be effective on January 2, 1974.”
 
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L. 94–555, set out as a note under section 702 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
@@ -171,4 +173,6 @@ This section is referred to in sections 702, 717, 718, 725, 743, 744, 745, 747, 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

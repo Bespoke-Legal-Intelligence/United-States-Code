@@ -2,10 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 221\. | Future-years defense program: submission to Congress; consistency in budgeting. |
-| 222\. | Future-years mission budget. |
-| 226\. | Scoring of outlays. |
-| 227\. | Recruiting costs. |
+| [221\.](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md) | Future-years defense program: submission to Congress; consistency in budgeting. |
+| [222\.](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md) | Future-years mission budget. |
+| [226\.](%C2%A7%2000226%20-%20Scoring%20of%20outlays.md) | Scoring of outlays. |
+| [227\.](%C2%A7%2000227%20-%20Recruiting%20costs.md) | Recruiting costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

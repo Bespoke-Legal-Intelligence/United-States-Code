@@ -42,9 +42,9 @@ The Secretary of Commerce shall identify, in the President's annual budget to th
 
 For purposes of this section, “Chesapeake Executive Council” means the representatives from the Commonwealth of Virginia, the State of Maryland, the Commonwealth of Pennsylvania, the Environmental Protection Agency, the District of Columbia, and the Chesapeake Bay Commission, who are signatories to the Chesapeake Bay Agreement, and any future signatories to that Agreement.
 
-(Pub. L. 102 567, title III, §307, Oct. 29, 1992, 106 Stat. 4284.)
+(Pub. L. 102–567, title III, §307, Oct. 29, 1992, 106 Stat. 4284.)
 
 #### Codification
 
-Section is comprised of section 307 of Pub. L. 102 567. Subsec. (d) of section 307 of Pub. L. 102 567 amended section 2 of Pub. L. 98 210, 97 Stat. 1409, which is not classified to the Code.
+Section is comprised of section 307 of Pub. L. 102–567. Subsec. (d) of section 307 of Pub. L. 102–567 amended section 2 of Pub. L. 98–210, 97 Stat. 1409, which is not classified to the Code.
 

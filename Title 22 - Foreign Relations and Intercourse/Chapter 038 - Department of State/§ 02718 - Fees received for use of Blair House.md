@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, funds received by the Department of 
 
 The authority of this section may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title I, §46, as added Feb. 16, 1990, Pub. L. 101–246, title I, §119(2), 104 Stat. 26; amended Oct. 28, 1991, Pub. L. 102–138, title I, §123, 105 Stat. 659.)
+(Aug. 1, 1956, ch. 841, title I, §46, as added Feb. 16, 1990, Pub. L. 101–246, title I, §119(2), 104 Stat. 26;amended Oct. 28, 1991, Pub. L. 102–138, title I, §123, 105 Stat. 659.)
 
 #### References in Text
 

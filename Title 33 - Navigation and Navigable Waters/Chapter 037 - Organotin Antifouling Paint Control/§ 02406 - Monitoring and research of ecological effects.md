@@ -22,7 +22,7 @@ To the extent practicable, the Administrator shall assist States in monitoring w
 
 #### (f) Five-year report
 
-At the end of the 5-year period beginning on June 16, 1988, the Administrator shall submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate providing an assessment of—
+At the end of the 5-year period beginning on June 16, 1988, the Administrator shall submit areport to the Speaker of the House of Representatives and to the President pro tempore of the Senate providing an assessment of—
 
 &emsp;(1) the effectiveness of existing laws and rules concerning organotin compounds in ensuring protection of human health and the environment;
 

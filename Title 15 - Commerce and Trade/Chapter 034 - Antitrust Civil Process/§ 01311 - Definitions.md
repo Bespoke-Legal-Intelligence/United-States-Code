@@ -68,7 +68,7 @@ Section 1 of Pub. L. 96–349 provided: “That this Act \[amending sections 15,
 
 #### Short Title
 
-Section 1 of Pub. L. 94–435 provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending this section, sections 12, 15b, 16, 26, and 1312 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions setout as notes under this section and sections 1, 8, 15c, and 18a of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
+Section 1 of Pub. L. 94–435 provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending this section, sections 12, 15b, 16, 26, and 1312 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1, 8, 15c, and 18a of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
 Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter and amending section 1505 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Antitrust Civil Process Act’.”
 

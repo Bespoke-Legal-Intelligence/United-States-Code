@@ -4,5 +4,5 @@ Section, added Pub. L. 94–455, title XXI, §2124(a)(1), Oct. 4, 1976, 90 Stat.
 
 #### Effective Date of Repeal
 
-Repeal applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after such date, withexceptions, see section 212(e) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 46 of this title.
+Repeal applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after such date, with exceptions, see section 212(e) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 46 of this title.
 

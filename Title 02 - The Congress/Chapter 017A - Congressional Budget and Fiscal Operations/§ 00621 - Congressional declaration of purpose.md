@@ -96,7 +96,7 @@ Confidentiality of Relevant Information.—
 
 Requirement to Report Legislation.—(1) The committees of jurisdiction in the House shall prepare and report to the House no later than September 15, 1991, legislation to ensure the financial soundness of GSEs and to minimize the possibility that a GSE might require future assistance from the Government.
 
-“(2) It is the sense of the Senate that the committees of jurisdiction in the Senate shall prepare and report to the Senate no later than September 15, 1991, legislation to ensure the financial safety and soundness of GSEsand to minimize the possibility that a GSE might require future assistance from the Government.
+“(2) It is the sense of the Senate that the committees of jurisdiction in the Senate shall prepare and report to the Senate no later than September 15, 1991, legislation to ensure the financial safety and soundness of GSEs and to minimize the possibility that a GSE might require future assistance from the Government.
 
 “(f) \[sic\]
 

@@ -38,7 +38,7 @@ The conditions of participation that a home health agency is required to meet un
 
 > &emsp;Such notice shall be given at the time of the change and shall include the identity of each new person or company described in the previous sentence.
 
-&emsp;(3)(A) The agency must not use as a home health aide (on a full-time, temporary, perdiem, or other basis), any individual to provide items or services described in section 1395x(m) of this title on or after January 1, 1990, unless the individual—
+&emsp;(3)(A) The agency must not use as a home health aide (on a full-time, temporary, per diem, or other basis), any individual to provide items or services described in section 1395x(m) of this title on or after January 1, 1990, unless the individual—
 
 &emsp;&emsp;(i) has completed a training and competency evaluation program, or a competency evaluation program, that meets the minimum standards established by the Secretary under subparagraph (D), and
 
@@ -46,7 +46,7 @@ The conditions of participation that a home health agency is required to meet un
 
 > &emsp;For purposes of clause (i), an individual is not considered to have completed a training and competency evaluation program, or a competency evaluation program if, since the individual's most recent completion of such a program, there has been a continuous period of 24 consecutive months during none of which the individual provided items and services described in section 1395x(m) of this title for compensation.
 
-&emsp;(B)(i) The agency must provide, with respect to individuals used as a home health aide by the agency as of July 1, 1989, for a competency evaluation program (as described in subparagraph (A)(i)) and such preparation as may be necessary for the individual to complete such a program by January 1, 1990.
+&emsp;(B)(i) The agency must provide, with respect to individuals used as a home health aide by the agency as of July 1, 1989, for a competency evaluation program (as described in subparagraph (A)(i)) and such preparation as may benecessary for the individual to complete such a program by January 1, 1990.
 
 &emsp;(ii) The agency must provide such regular performance review and regular in-service education as assures that individuals used to provide items and services described in section 1395x(m) of this title are competent to provide those items and services.
 
@@ -138,11 +138,11 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (e) Enforcement
 
-(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) of this section or terminate the certification of the agency, and may provide, in addition, for 1 or moreof the other remedies described in subsection (f)(2)(A) of this section.
+(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) of this section or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A) of this section.
 
 (2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f) of this section, in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section, the Secretary shall terminate the certification of the agency.
 
-(3) If the Secretary determines that a home health agency that is certified for participation under this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) of this section for the days in which it finds that the agency was not in compliance with such requirements.
+(3) If the Secretary determines that a home health agency that is certified for participationunder this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) of this section for the days in which it finds that the agency was not in compliance with such requirements.
 
 (4) The Secretary may continue payments under this subchapter with respect to a home health agency not in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section over a period of not longer than 6 months, if—
 
@@ -182,7 +182,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### Amendments
 
-1990—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted “which, within the previous 2 years—” andsubcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section within the previous 2 years.”
+1990—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section within the previous 2 years.”
 
 Subsec. (a)(6). Pub. L. 101–508, §4206(d)(2), added par. (6).
 
@@ -192,7 +192,7 @@ Subsec. (a)(3)(F). Pub. L. 100–360, §411(d)(1)(A)(ii), inserted “physical o
 
 Subsec. (a)(4) to (6). Pub. L. 100–360, §411(d)(1)(A)(iii), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “With respect to durable medical equipment furnished to individuals for whom the agency provides items and services, suppliers of such equipment do not use (on a full-time, temporary, per diem, or other basis) any individual who does not meet minimum training standards (established by the Secretary by October 1, 1988) for the demonstration and use of any such equipment furnished to individuals with respect to whom payments may be made under this subchapter.”
 
-Subsec. (c)(1). Pub. L. 100–360, §411(d)(2)(A), as amended by Pub. L. 100–485, §608(d)(20)(A), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
+Subsec. (c)(1). Pub. L. 100–360, §411(d)(2)(A), as amended by Pub. L. 100–485, §608(d)(20)(A), amended third sentence generally. Prior to amendment, third sentenceread as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
 
 Subsec. (d)(2)(A). Pub. L. 100–360, §411(d)(2)(B), substituted “1992” for “1991” in introductory provisions.
 

@@ -10,7 +10,7 @@ Upon determining pursuant to subsection (a) of this section that, at any time on
 
 #### (c) Termination of insurance
 
-Notwithstanding any other provision of this subchapter, direct insurance may be continued for the term of the policies written prior to the date of termination of the Director's direct insurance authority under this part, for as long as the insured pays the required direct insurance premiums; except that direct insurance under this part for any risk shall be terminated after notice whenever the Director determines that the standard lines of crime insurance otherwise have become available to such property at affordable rates.
+Notwithstanding any other provision of this subchapter, direct insurance may be continued for the term of the policies written prior to thedate of termination of the Director's direct insurance authority under this part, for as long as the insured pays the required direct insurance premiums; except that direct insurance under this part for any risk shall be terminated after notice whenever the Director determines that the standard lines of crime insurance otherwise have become available to such property at affordable rates.
 
 (June 27, 1934, ch. 847, title XII, §1231, as added Dec. 31, 1970, Pub. L. 91–609, title VI, §602(d), 84 Stat. 1789; amended Nov. 30, 1983, Pub. L. 98–181, title IV, §452(b)(1), 97 Stat. 1230.)
 

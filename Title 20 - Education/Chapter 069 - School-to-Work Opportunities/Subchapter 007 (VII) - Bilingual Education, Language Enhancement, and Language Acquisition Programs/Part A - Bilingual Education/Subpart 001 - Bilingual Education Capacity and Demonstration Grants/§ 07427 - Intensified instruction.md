@@ -10,5 +10,5 @@ In carrying out this subpart, each grant recipient may intensify instruction for
 
 &emsp;(4) providing intensified instruction through supplementary instruction or activities, including educationally enriching extracurricular activities, during times when school is not routinely in session.
 
-(Pub. L. 89 10, title VII, §7117, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3727.)
+(Pub. L. 89–10, title VII, §7117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727.)
 

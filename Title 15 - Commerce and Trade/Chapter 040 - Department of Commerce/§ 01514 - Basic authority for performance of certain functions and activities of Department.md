@@ -14,15 +14,15 @@ Appropriations are authorized for the following activities of the Department of 
 
 &emsp;(f) erecting, altering, repairing, equipping, furnishing, and maintaining, by contract or otherwise, such living and working quarters and facilities as may be necessary to carry out its authorized work at remote localities not on foreign soil where such living and working accommodations are not otherwise available.
 
-(Oct. 26, 1949, ch. 733, 63 Stat. 907; Aug. 30, 1954, ch. 1076, §1(11), 68 Stat. 967; Jan. 2, 1975, Pub. L. 93 608, §1(3), 88 Stat. 1967.)
+(Oct. 26, 1949, ch. 733, 63 Stat. 907; Aug. 30, 1954, ch. 1076, §1(11), 68 Stat. 967; Jan. 2, 1975, Pub. L. 93–608, §1(3), 88 Stat. 1967.)
 
 #### Codification
 
-Section was formerly classified to section 596a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 596a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1975—Subsec. (b). Pub. L. 93 608 struck out proviso requiring an annual report to Congress of the total expenditures made for such supplies and total proceeds from resales.
+1975—Subsec. (b). Pub. L. 93–608 struck out proviso requiring an annual report to Congress of the total expenditures made for such supplies and total proceeds from resales.
 
 1954—Subsec. (c). Act Aug. 30, 1954, struck out proviso requiring the Secretary of Commerce to submit annually to Congress a report showing the expenditures for the establishment, maintenance, and operation of messing facilities in Alaska and other points outside the continental United States.
 

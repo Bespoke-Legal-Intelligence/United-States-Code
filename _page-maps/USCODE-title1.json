@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title1",
- "package": "USCODE-1994-title1",
+ "package": "USCODE-1995-title1",
  "pieces": [
   {
    "id": "1_",
@@ -168,21 +168,17 @@
      ]
     ],
     [
-     "I",
-     128,
-     [
-      [
-       149,
-       "[Page 5]"
-      ]
-     ]
+     "L",
+     138,
+     "[Page 5]",
+     true
     ],
     [
      "I",
-     226,
+     246,
      [
       [
-       158,
+       91,
        "[Page 6]"
       ]
      ]
@@ -199,10 +195,10 @@
    "marks": [
     [
      "I",
-     16,
+     2,
      [
       [
-       464,
+       379,
        "[Page 7]"
       ]
      ]
@@ -261,84 +257,80 @@
   },
   {
    "id": "1_111",
-   "marks": [],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00111 - Repeals as evidence of prior effectiveness.md",
-   "printed_pages": [
-    7,
-    7
-   ]
-  },
-  {
-   "id": "1_112",
    "marks": [
     [
      "I",
      2,
      [
       [
-       708,
+       99,
        "[Page 8]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112 - Statutes at Large; contents; admissibility in evidence.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00111 - Repeals as evidence of prior effectiveness.md",
    "printed_pages": [
     7,
     8
    ]
   },
   {
-   "id": "1_112a",
+   "id": "1_112",
    "marks": [],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112 - Statutes at Large; contents; admissibility in evidence.md",
    "printed_pages": [
     8,
     8
    ]
   },
   {
-   "id": "1_112b",
+   "id": "1_112a",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       501,
-       "[Page 9]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 9]",
+     true
     ]
    ],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence.md",
    "printed_pages": [
     8,
     9
    ]
   },
   {
-   "id": "1_113",
+   "id": "1_112b",
    "marks": [],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00113 - “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
    "printed_pages": [
     9,
     9
    ]
   },
   {
-   "id": "1_114",
+   "id": "1_113",
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 10]",
      true
     ]
    ],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00114 - Sealing of instruments.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00113 - “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence.md",
    "printed_pages": [
     9,
+    10
+   ]
+  },
+  {
+   "id": "1_114",
+   "marks": [],
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00114 - Sealing of instruments.md",
+   "printed_pages": [
+    10,
     10
    ]
   },
@@ -353,26 +345,26 @@
   },
   {
    "id": "1_201",
-   "marks": [],
-   "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00201 - Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements.md",
-   "printed_pages": [
-    10,
-    10
-   ]
-  },
-  {
-   "id": "1_202",
    "marks": [
     [
      "L",
-     12,
+     26,
      "[Page 11]",
      true
     ]
    ],
-   "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00202 - Preparation and publication of Codes and Supplements.md",
+   "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00201 - Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements.md",
    "printed_pages": [
     10,
+    11
+   ]
+  },
+  {
+   "id": "1_202",
+   "marks": [],
+   "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00202 - Preparation and publication of Codes and Supplements.md",
+   "printed_pages": [
+    11,
     11
    ]
   },
@@ -390,7 +382,7 @@
    "marks": [
     [
      "L",
-     58,
+     22,
      "[Page 12]",
      true
     ]
@@ -430,26 +422,30 @@
   },
   {
    "id": "1_208",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       181,
+       "[Page 13]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00208 - Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on….md",
    "printed_pages": [
     12,
-    12
+    13
    ]
   },
   {
    "id": "1_209",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 13]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00209 - Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original.md",
    "printed_pages": [
-    12,
+    13,
     13
    ]
   },
@@ -490,6 +486,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1994-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1995-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 01 - General Provisions"
 }

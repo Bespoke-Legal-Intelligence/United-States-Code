@@ -26,5 +26,5 @@ The Secretary is authorized to determine—
 
 For purposes of this section, “current award year” is defined as the award year during which the participating institution indicates its intention to cease participation.
 
-(Pub. L. 89 329, title IV, §487A, as added Pub. L. 102 325, title IV, §491, July 23, 1992, 106 Stat. 629.)
+(Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629.)
 

@@ -2,7 +2,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 329, 10102, 10561, 10749 of this title; title 14 section 82; title 15 sections 21, 45, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 26 section 9502; title 39 sections 5401, 5402; title 40 App. section 208; title 42 sections 6362, 7572.
+This part is referred to in sections 329, 13102, 13531 of this title; title 14 section 82; title 15 sections 21, 45, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 26 section 9502; title 39 sections 5401, 5402; title 40 App. section 208; title 42 sections 6362, 7572.
 
 
 ---

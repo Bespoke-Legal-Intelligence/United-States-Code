@@ -1,4 +1,4 @@
-### §906 . Exceptions, limitations, and special rules
+### §906. Exceptions, limitations, and special rules
 
 #### (a) Automatic spending increases
 
@@ -26,7 +26,7 @@ Automatic spending increases are increases in outlays due to changes in indexes 
 
 #### (c) Treatment of foster care and adoption assistance programs
 
-Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\]) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act \[42 U.S.C. 674\] (for such fiscal year) for that portion of the State's payments which is attributable to the increases taking effect during that year. No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the SocialSecurity Act which has the effect of changing the fiscal year in which expenditures under such part are made.
+Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\]) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act \[42 U.S.C. 674\] (for such fiscal year) for that portion of the State's payments which is attributable to the increases taking effect during that year. No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.
 
 #### (d) Special rules for Medicare program
 
@@ -216,7 +216,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (B) Reallotment of amounts remaining unallotted after application of general rule
 
-&emsp;&emsp;Any amount made available after sequestration for direct spending pursuant to section 403(<i>l</i>) of the Social Security Act \[42 U.S.C. 603(<i>l</i>)\] for the fiscal year to which the sequestration applies that remains unallotted as a result of subparagraph (A) ofthis paragraph shall be allotted among the States in proportion to the absolute difference between the amount allotted, respectively, to each State as a result of such subparagraph and the amount that would have been allotted to such State pursuant to section 403(k) of such Act had the sequestration not been in effect, except that a State may not be allotted an amount under this subparagraph that results in a total allotment to the State under this paragraph of more than the amount that would have been allotted to such State pursuant to such section 403(k) had the sequestration not been in effect.
+&emsp;&emsp;Any amount made available after sequestration for direct spending pursuant to section 403(<i>l</i>) of the Social Security Act \[42 U.S.C. 603(<i>l</i>)\] for the fiscal year to which the sequestration applies that remains unallotted as a result of subparagraph (A) of this paragraph shall be allotted among the States in proportion to the absolute difference between the amount allotted, respectively, to each State as a result of such subparagraph and the amount that would have been allotted to such State pursuant to section 403(k) of such Act had the sequestration not been in effect, except that a State may not be allotted an amount under this subparagraph that results in a total allotment to the State under this paragraph of more than the amount that would have been allotted to such State pursuant to such section 403(k) had the sequestration not been in effect.
 
 #### (<i>l</i>) Effects of sequestration
 
@@ -224,7 +224,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(1) Budgetary resources sequestered from any account other than a trust or special fund account shall be permanently cancelled.
 
-&emsp;(2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President's budget).
+&emsp;(2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, asdelineated in the most recently submitted President's budget).
 
 &emsp;(3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
 
@@ -264,7 +264,7 @@ Subsec. (b). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of thi
 
 Pub. L. 101–508, §13101(d)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (h).
 
-Subsec. (c). Pub. L. 101–508, §13101(d)(4), inserted after first sentence “No State's matching payments from theFederal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage.”
+Subsec. (c). Pub. L. 101–508, §13101(d)(4), inserted after first sentence “No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage.”
 
 Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 

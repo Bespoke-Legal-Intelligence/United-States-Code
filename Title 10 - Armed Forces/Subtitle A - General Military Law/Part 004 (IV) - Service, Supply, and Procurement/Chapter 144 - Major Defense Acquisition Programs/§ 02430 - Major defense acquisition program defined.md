@@ -16,7 +16,7 @@
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Environmental Consequence Analysis of Major Defense Acquisition Programs
 
@@ -44,7 +44,7 @@ Pub. L. 103–160, div. A, title VIII, §837, Nov. 30, 1993, 107 Stat. 1718, as 
 
 #### Contract Administration: Performance Based Contract Management
 
-Pub. L. 103–160, div. A, title VIII, §838, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V, §5064(b)(3), Oct. 13, 1994, 108 Stat. 3360, provided that: “For at least one participating defense acquisition program for which a determination is made to make payments for work in progress under the authority of section 2307 of title 10, United States Code, the Secretary of Defense should define payment milestones on the basis of quantitative measures of results.”
+Pub. L. 103–160, div. A, title VIII, §838, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V,§5064(b)(3), Oct. 13, 1994, 108 Stat. 3360, provided that: “For at least one participating defense acquisition program for which a determination is made to make payments for work in progress under the authority of section 2307 of title 10, United States Code, the Secretary of Defense should define payment milestones on the basis of quantitative measures of results.”
 
 #### Defense Acquisition Pilot Program
 
@@ -56,7 +56,7 @@ In General.—The Secretary of Defense is authorized to designate the following 
 
 &emsp;“(1)
 
-Fire support combined arms tactical trainer (fscatt).—The Fire Support Combined Arms TacticalTrainer program with respect to all contracts directly related to the procurement of a training simulation system (including related hardware, software, and subsystems) to perform collective training of field artillery gunnery team components, with development of software as required to generate the training exercises and component interfaces.
+Fire support combined arms tactical trainer (fscatt).—The Fire Support Combined Arms Tactical Trainer program with respect to all contracts directly related to the procurement of a training simulation system (including related hardware, software, and subsystems) to perform collective training of field artillery gunnery team components, with development of software as required to generate the training exercises and component interfaces.
 
 &emsp;“(2)
 

@@ -1,4 +1,4 @@
-### §1337a . Repealed. Pub. L. 100–418, title I, §1342(c), Aug. 23, 1988, 102 Stat. 1215
+### §1337a. Repealed. Pub. L. 100–418, title I, §1342(c), Aug. 23, 1988, 102 Stat. 1215
 
 Section, act July 2, 1940, ch. 515, 54 Stat. 724, related to importation of products produced under process covered by claims of unexpired patent.
 

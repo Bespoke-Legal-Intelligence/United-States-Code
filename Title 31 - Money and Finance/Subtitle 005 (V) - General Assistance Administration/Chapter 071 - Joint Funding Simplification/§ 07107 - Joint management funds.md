@@ -1,6 +1,6 @@
 ### §7107. Joint management funds
 
-(a) In supporting a project, a joint management fund may be established to administer more effectively amounts received from more than one assistance program or appropriation. A proportional share of the amount required to pay a grantee shall be transferred periodically to the fund from each program or appropriation. When a project is completed, the grantee shall return to the fund an amount not expended.
+(a) In supporting a project, a joint management fund may be established to administer more effectively amounts received from more than one assistance program or appropriation. A proportional share of the amount required topay a grantee shall be transferred periodically to the fund from each program or appropriation. When a project is completed, the grantee shall return to the fund an amount not expended.
 
 (b) An account in a joint management fund is subject to an agreement made by the heads of the executive agencies providing assistance for the project about the responsibilities of each agency. An agreement shall—
 
@@ -66,7 +66,7 @@ In subsection (b), before clause (1), the words “made by the heads of executiv
 
 In subsection (c), before clause (1), the words “established pursuant to this section” are omitted as unnecessary. The words “amount from” are substituted for “moneys drawn from” for consistency. The word “include” is substituted for “as a minimum, fully disclose” to eliminate unnecessary words. In clause (4), the words “to carry out” are added for clarity. The word “effective” is omitted as unnecessary.
 
-In subsection (d), the word “Records” is substituted for “books, documents, papers, and records”, and the words “shall be made available . . . for inspection and audit” are substituted for “shall have access for thepurpose of audit and examination to”, to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. The word “related” is substituted for “that are pertinent”, and the words “an amount” are substituted for the word “money”, for consistency. The words “of the United States”, and “or any of their duly authorized representatives” are omitted as unnecessary.
+In subsection (d), the word “Records” is substituted for “books, documents, papers, and records”, and the words “shall be made available . . . for inspection and audit” are substituted for “shall have access for the purpose of audit and examination to”, to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. The word “related” is substituted for “that are pertinent”, and the words “an amount” are substituted for the word “money”, for consistency. The words “of the United States”, and “or any of their duly authorized representatives” are omitted as unnecessary.
 
 In subsection (e), the word “For” is substituted for “in the case of” to eliminate unnecessary words. The words “proportional shares” are substituted for “federal share ratios” for clarity.
 

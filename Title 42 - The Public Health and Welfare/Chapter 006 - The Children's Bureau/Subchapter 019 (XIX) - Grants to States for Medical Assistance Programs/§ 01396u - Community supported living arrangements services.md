@@ -30,7 +30,7 @@ The Secretary shall develop criteria to review the applications of States submit
 
 A State selected by the Secretary to provide services under this section shall in order to continue to receive Federal financial participation for providing services under this section be required to establish and maintain a quality assurance program, that provides that—
 
-&emsp;(1) the State will certify and survey providers of services under this section (such surveys to be unannounced and average at least 1 a year);
+&emsp;(1) the State will certify and survey providers of services under this section (such surveysto be unannounced and average at least 1 a year);
 
 &emsp;(2) the State will adopt standards for survey and certification that include—
 
@@ -86,7 +86,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 &emsp;&emsp;&emsp;(i) individuals receiving community supported living arrangements services are protected from neglect, physical and sexual abuse, and financial exploitation;
 
-&emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not useindividuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the provider have histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
+&emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the provider have histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
 
 &emsp;&emsp;&emsp;(iii) individuals or entities delivering such services are not unjustly enriched as a result of abusive financial arrangements (such as owner lease-backs); and
 

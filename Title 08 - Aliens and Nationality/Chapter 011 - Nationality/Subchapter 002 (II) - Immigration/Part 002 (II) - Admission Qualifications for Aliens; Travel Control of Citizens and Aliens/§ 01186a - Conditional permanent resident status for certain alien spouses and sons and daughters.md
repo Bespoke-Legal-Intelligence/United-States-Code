@@ -1,4 +1,4 @@
-### §1186a . Conditional permanent resident status for certain alien spouses and sons and daughters
+### §1186a. Conditional permanent resident status for certain alien spouses and sons and daughters
 
 #### (a) In general
 
@@ -142,11 +142,11 @@
 
 #### (C) Filing of petitions during deportation
 
-&emsp;&emsp;In the case of an alien who is the subject of deportation hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such deportation proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of deportation hearings as a result of failureto file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such deportation proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
-&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in theAttorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 
 #### (e) Treatment of period for purposes of naturalization
 

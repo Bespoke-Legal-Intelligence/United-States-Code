@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
+<b>1978</b>—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
 
 #### Effective Date of 1978 Amendment
 

@@ -16,9 +16,9 @@ An application under this part shall—
 
 &emsp;(7) for applications for assistance under section 7233(b)(1) of this title, describe plans for continuation of the activities assisted under this part with local support following completion of the grant period and termination of Federal support under this part.
 
-(Pub. L. 89 10, title V, §5204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3699.)
+(Pub. L. 89–10, title V, §5204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3699.)
 
 #### References in Text
 
-The School-to-Work Opportunities Act of 1994, referred to in par. (4), is Pub. L. 103 239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The School-to-Work Opportunities Act of 1994, referred to in par. (4), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

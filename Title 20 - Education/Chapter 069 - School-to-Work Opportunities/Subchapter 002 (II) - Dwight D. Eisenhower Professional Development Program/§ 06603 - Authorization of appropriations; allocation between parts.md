@@ -14,5 +14,5 @@ Of the amounts appropriated to carry out this subchapter for any fiscal year, th
 
 &emsp;(3) 1 percent of such amounts to carry out part C of this subchapter except that such 1 percent shall not exceed $3,200,000 in any fiscal year.
 
-(Pub. L. 89 10, title II, §2003, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3614.)
+(Pub. L. 89–10, title II, §2003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3614.)
 

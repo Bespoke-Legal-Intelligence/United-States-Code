@@ -24,7 +24,7 @@ The State educational agency may allocate the amounts of grants under sections 6
 
 If a State educational agency determines that the amount of a grant a local educational agency would receive under sections 6333, 6334, and 6335 of this title is more than such local agency will use, the State educational agency shall make the excess amount available to other local educational agencies in the State that need additional funds in accordance with criteria established by the State educational agency.
 
-(Pub. L. 89 10, title I, §1126, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3577.)
+(Pub. L. 89–10, title I, §1126, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3577.)
 
 #### Section Referred to in Other Sections
 

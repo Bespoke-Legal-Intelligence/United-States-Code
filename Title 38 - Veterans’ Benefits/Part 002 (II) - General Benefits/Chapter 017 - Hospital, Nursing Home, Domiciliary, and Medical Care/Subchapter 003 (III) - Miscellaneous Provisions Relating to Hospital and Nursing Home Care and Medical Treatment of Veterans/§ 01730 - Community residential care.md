@@ -22,7 +22,7 @@
 
 &emsp;(D) Such other criteria as the Secretary determines are appropriate to protect the welfare of veterans placed in a facility under this section.
 
-(3) Payment of the charges of a community residential-care facility for any care or serviceprovided to a veteran whom the Secretary has referred to that facility under this section is not the responsibility of the United States or of the Department.
+(3) Payment of the charges of a community residential-care facility for any care or service provided to a veteran whom the Secretary has referred to that facility under this section is not the responsibility of the United States or of the Department.
 
 (c)(1) In order to determine continued compliance by community residential-care facilities that have been approved under subsection (b) of this section with the standards established in regulations prescribed under this section, the Secretary shall provide for periodic inspection of such facilities.
 
@@ -30,7 +30,7 @@
 
 &emsp;(A) shall cease to refer veterans to such facility; and
 
-&emsp;(B) may, with the permission of the veteran (or the person or entity authorized by law to give permission on behalf of the veteran), assist in removing a veteran from such facility.
+&emsp;(B) may, with the permission of the veteran (or the person or entity authorized by law togive permission on behalf of the veteran), assist in removing a veteran from such facility.
 
 > Regulations prescribed to carry out this paragraph shall provide for reasonable notice and, upon request made on behalf of the facility, a hearing before any action authorized by this paragraph is taken.
 

@@ -1,6 +1,6 @@
 ### §1135. Regulations
 
-Subject to subchapter II of this chapter and section 1029 of this title, the Secretary may prescribe such regulations as he finds necessary or appropriate to carry out the provisions of this subchapter. Among other things, such regulations may define accounting, technical andtrade terms used in such provisions; may prescribe forms; and may provide for the keeping of books and records, and for the inspection of such books and records (subject to section 1134(a) and (b) of this title).
+Subject to subchapter II of this chapter and section 1029 of this title, the Secretary may prescribe such regulations as he finds necessary or appropriate to carry out the provisions of this subchapter. Among other things, such regulations may define accounting, technical and trade terms used in such provisions; may prescribe forms; and may provide for the keeping of books and records, and for the inspection of such books and records (subject to section 1134(a) and (b) of this title).
 
 (Pub. L. 93–406, title I, §505, Sept. 2, 1974, 88 Stat. 894.)
 
@@ -56,7 +56,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;“(1) The term ‘real estate entity’ means an entity which, at any time within two years after the closing of its offering period has invested or has contracted to invest at least 75 percent of the value of its net assets available for investment in direct or indirect ownership of ‘real estate assets’ or ‘interests in real property’.
 
-&emsp;“(2) The term ‘real estate asset’ means real property (including an interest in real property) and any share of stock or beneficial interest, partnership interest, depository receipt, or any other interest in any other real estate entity.
+&emsp;“(2) The term ‘real estate asset’ means real property (including an interest in real property) and anyshare of stock or beneficial interest, partnership interest, depository receipt, or any other interest in any other real estate entity.
 
 &emsp;“(3) The term ‘interest in real property’ includes, directly or indirectly, the following:
 

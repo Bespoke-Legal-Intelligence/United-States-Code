@@ -16,7 +16,7 @@ Each local educational agency desiring a grant under this section shall submit a
 
 &emsp;(6) the training and professional development activities that will be offered to teachers and others involved in the activities assisted under this part;
 
-&emsp;(7) the goals and objectives of the activities assisted under this part, including a description of how such activities will better enable all students to reach challenging State content standards and State student performance standards;
+&emsp;(7) the goals and objectives of the activities assisted under this part, including a description of how such activities will better enableall students to reach challenging State content standards and State student performance standards;
 
 &emsp;(8) the methods by which the applicant will assess progress in meeting such goals and objectives;
 
@@ -42,7 +42,7 @@ Funds under this section may be used—
 
 &emsp;(4) to develop and implement strategies to include parents, business representatives, local institutions of higher education, community-based organizations, and other community members in the smaller learning communities, as facilitators of activities that enable teachers to participate in professional development activities, as well as to provide links between students and their community.
 
-(Pub. L. 89 10, title X, §10105, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3818.)
+(Pub. L. 89–10, title X, §10105, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3818.)
 
 #### Section Referred to in Other Sections
 

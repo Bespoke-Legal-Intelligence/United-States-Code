@@ -20,7 +20,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;&emsp;(II) the maximum number of animals of that species that may be taken without reducing the species below its OSP, and
 
-&emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
+&emsp;&emsp;(ii) the determination required under clause (i) is final and implemented underState law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
 
 &emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
@@ -72,7 +72,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
 
-(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>1</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone,such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\], Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
+(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>1</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>1</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 #### (e) Revocation of transfer of management authority
 
@@ -114,7 +114,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(ii) the regulation of such use, including, but not limited to, licensing of marine mammal hunting guides and the assignment of guiding areas, will, to the maximum extent practicable, provide economic opportunities for the residents of the rural coastal villages of Alaska who engage in subsistence uses of that species.
 
-(2) For purposes of paragraph (1), the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of marine mammals for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of marine mammals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this paragraph—
+(2) For purposes of paragraph (1), the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of marine mammals for direct personal or family consumption as food, shelter, fuel, clothing, tools,or transportation; for the making and selling of handicraft articles out of nonedible byproducts of marine mammals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this paragraph—
 
 &emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or any person living within a household on a permanent basis.
 
@@ -174,7 +174,7 @@ Section 1362(14) of this title, referred to in subsecs. (b)(3)(B)(i) and (d), wa
 
 The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
-The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which is classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. (d)(2), was formerly set out as a note under section 601 of Title 5, Government Organization and Employees, and was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735.
 
@@ -200,7 +200,7 @@ Subsec. (h). Pub. L. 100–711, §5(a), amended subsec. (h) generally. Prior to 
 
 1981—Subsec. (a). Pub. L. 97–58, §4(a)(2), added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
 
-Subsec. (b). Pub. L. 97–58, §4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants toStates by the Secretary, was struck out. See subsec. (j) of this section.
+Subsec. (b). Pub. L. 97–58, §4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
 
 Subsecs. (c), (d). Pub. L. 97–58, §4(a)(1), (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (<i>l</i>), respectively.
 

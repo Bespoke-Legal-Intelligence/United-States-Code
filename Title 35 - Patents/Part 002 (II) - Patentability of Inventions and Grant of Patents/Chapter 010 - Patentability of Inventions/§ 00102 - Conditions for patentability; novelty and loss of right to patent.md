@@ -48,7 +48,7 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 #### Effective Date of 1972 Amendment
 
-Section 3(b) of Pub. L. 92–358 provided that: “Section 2 of this Act \[amending this section\] shall take effect six months from the date when Articles 1 to 12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States \[Aug. 25, 1973\] and shall apply to applications thereafter filed in the United States.”
+Section 3(b) of Pub. L. 92–358 provided that: “Section 2 of this Act \[amending this section\] shall take effect six months from the date when Articles 1 to 12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July14, 1967, come into force with respect to the United States \[Aug. 25, 1973\] and shall apply to applications thereafter filed in the United States.”
 
 #### Savings Provision
 

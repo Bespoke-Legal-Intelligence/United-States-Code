@@ -10,11 +10,11 @@
 
 (b) The Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate by the end of each fiscal year a report on the extent to which each borrowing country guarantees internationally recognized worker rights to its labor force and on progress toward achieving each of the goals described in subsection (a) of this section.
 
-(Pub. L. 95–118, title XVI, §621, as added Pub. L. 103–306, title V, §526(e), Aug. 23, 1994, 108 Stat. 1634.)
+(Pub. L. 95–118, title XVI, §1621, as added Pub. L. 103–306, title V, §526(e), Aug. 23, 1994, 108 Stat. 1634.)
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Definitions
 

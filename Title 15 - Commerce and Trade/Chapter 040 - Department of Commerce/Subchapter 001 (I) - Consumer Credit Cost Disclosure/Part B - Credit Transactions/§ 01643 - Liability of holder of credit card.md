@@ -30,19 +30,19 @@ Nothing in this section imposes liability upon a cardholder for the unauthorized
 
 Except as provided in this section, a cardholder incurs no liability from the unauthorized use of a credit card.
 
-(Pub. L. 90 321, title I, §133, as added Pub. L. 91 508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1126; amended Pub. L. 96 221, title VI, §617, Mar. 31, 1980, 94 Stat. 182.)
+(Pub. L. 90–321, title I, §133, as added Pub. L. 91–508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1126; amended Pub. L. 96–221, title VI, §617, Mar. 31, 1980, 94 Stat. 182.)
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96 221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
+1980—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date
 
-Section 503(2) of Pub. L. 91 508 provided that: “Section 133 of such Act \[this section\] takes effect upon the expiration of 90 days after such date of enactment \[Oct. 26, 1970\].”
+Section 503(2) of Pub. L. 91–508 provided that: “Section 133 of such Act \[this section\] takes effect upon the expiration of 90 days after such date of enactment \[Oct. 26, 1970\].”
 
 #### Section Referred to in Other Sections
 

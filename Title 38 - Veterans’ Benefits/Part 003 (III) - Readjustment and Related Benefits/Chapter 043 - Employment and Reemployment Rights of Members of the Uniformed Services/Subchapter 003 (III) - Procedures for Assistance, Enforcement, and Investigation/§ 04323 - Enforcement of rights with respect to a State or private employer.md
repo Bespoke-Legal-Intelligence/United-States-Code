@@ -1,6 +1,6 @@
 ### §4323. Enforcement of rights with respect to a State or private employer
 
-(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for appropriate relief for such person in an appropriate United States district court.
+(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary referthe complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for appropriate relief for such person in an appropriate United States district court.
 
 (2) A person may commence an action for relief with respect to a complaint if that person—
 
@@ -48,5 +48,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4322, 4332 of this title.
+This section is referred to in sections 4322, 4332 of this title; title 2 section 1316.
 

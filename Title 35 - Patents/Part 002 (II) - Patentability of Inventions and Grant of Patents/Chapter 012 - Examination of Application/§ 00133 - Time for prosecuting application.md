@@ -1,6 +1,6 @@
 ### §133. Time for prosecuting application
 
-Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shortertime, not less than thirty days, as fixed by the Commissioner in such action, the application shall be regarded as abandoned by the parties thereto, unless it be shown to the satisfaction of the Commissioner that such delay was unavoidable.
+Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Commissioner in such action, the application shall be regarded as abandoned by the parties thereto, unless it be shown to the satisfaction of the Commissioner that such delay was unavoidable.
 
 (July 19, 1952, ch. 950, 66 Stat. 801.)
 

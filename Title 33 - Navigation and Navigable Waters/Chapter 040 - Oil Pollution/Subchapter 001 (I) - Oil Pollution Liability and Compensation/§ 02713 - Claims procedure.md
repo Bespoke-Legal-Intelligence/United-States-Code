@@ -34,7 +34,7 @@ If a claim is presented in accordance with subsection (a) of this section and—
 
 #### (d) Uncompensated damages
 
-If a claim is presented in accordance with this section and full and adequate compensation is unavailable, a claim for the uncompensated damages and removal costs may be presented to the Fund.
+If a claim is presented in accordance with this section and full and adequate compensation isunavailable, a claim for the uncompensated damages and removal costs may be presented to the Fund.
 
 #### (e) Procedure for claims against Fund
 

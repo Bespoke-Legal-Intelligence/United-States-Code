@@ -1,6 +1,6 @@
 ### §6245. Reports by Secretary to Congress; contents
 
-(a) The Secretary shall report to the President and the Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part. Such report shall include—
+The Secretary shall report to the President and the Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part. Such report shall include—
 
 &emsp;(1) a detailed statement of the status of the Strategic Petroleum Reserve, including—
 
@@ -26,35 +26,11 @@
 
 &emsp;(5) any recommendations for supplemental legislation deemed necessary or appropriate by the Secretary to implement the provisions of this part.
 
-(b)(1) On or before the fifteenth day of the second calendar quarter which begins after August 13, 1981, and every calendar quarter thereafter, the Secretary shall report to the Congress on activities undertaken with respect to the Strategic Petroleum Reserve under the amendments made by the Strategic Petroleum Reserve Amendments Act of 1981, including—
-
-&emsp;(A) the amounts of petroleum products stored in the Reserve, under contract and in transit at the end of the previous calendar quarter;
-
-&emsp;(B) the projected fill rate for the Strategic Petroleum Reserve for the then current calendar quarter and the previous calendar quarter;
-
-&emsp;(C) the average price of the petroleum products acquired during the previous calendar quarter;
-
-&emsp;(D) existing and projected Strategic Petroleum Reserve storage capacity and plans to accelerate the acquisition or construction of such capacity;
-
-&emsp;(E) an analysis of any existing or anticipated problems associated with acquisition, transportation, and storage of petroleum products in the Reserve and with the expansion of storage capacity for the Reserve; and
-
-&emsp;(F) the amount of funds obligated by the Secretary from the SPR Petroleum Account, as well as other funds available for the Reserve, during the previous calendar quarter and in total under the amendments made by such Act.
-
-(2) The first report submitted under paragraph (1) shall include—
-
-&emsp;(A) a detailed statement on the planned use of the SPR Petroleum Account as well as other funds available for the Strategic Petroleum Reserve;
-
-&emsp;(B) a description of the current Strategic Petroleum Reserve Plan, including any proposed or anticipated amendments to the Plan; and
-
-&emsp;(C) detailed plans of the Secretary for acquisition or new construction of storage and related facilities.
-
-(Pub. L. 94–163, title I, §165, Dec. 22, 1975, 89 Stat. 889; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 97–35, title X, §1035(a), Aug. 13, 1981, 95 Stat. 620; Pub. L. 99–509, title III, §3203, Oct. 21, 1986, 100 Stat. 1890.)
-
-#### References in Text
-
-The Strategic Petroleum Reserve Amendments Act of 1981 and such Act, referred to in subsec. (b)(1), mean subtitle C of title X of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 618, which enacted section 6247 of this title, amended sections 6240, 6245, and 6246 of this title, and enacted provisions set out as notes under sections 6201, 6231, 6240, and 6247 of this title. For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under section 6201 of this title and Tables.
+(Pub. L. 94–163, title I, §165, Dec. 22, 1975, 89 Stat. 889; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 97–35, title X, §1035(a), Aug. 13, 1981, 95 Stat. 620; Pub. L. 99–509, title III, §3203, Oct. 21, 1986, 100 Stat. 1890; Pub. L. 104–66, title I, §1051(j), Dec. 21, 1995, 109 Stat. 717.)
 
 #### Amendments
+
+1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
 
 1986—Subsec. (a)(1). Pub. L. 99–509 amended par. (1) generally, inserting “, including” in introductory text and adding subpars. (A) to (G).
 
@@ -84,7 +60,7 @@ Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the d
 
 > Such analysis shall include projections of the effect of the petroleum supply reduction on the price of motor gasoline, home heating oil, and diesel fuel, and on Federal tax revenues, Federal royalty receipts, and State and local tax revenues.
 
-“(2) Within one year after the date of the enactment of this Act \[Aug. 3, 1982\], the Secretary of Energy shallsubmit a report to the Congress and the President containing the analysis required by this subsection, including a detailed step-by-step description of the procedures by which the policies specified in paragraph (1)(C) would be accomplished in an emergency, along with such recommendations as the Secretary of Energy deems appropriate.
+“(2) Within one year after the date of the enactment of this Act \[Aug. 3, 1982\], the Secretary of Energy shall submit a report to the Congress and the President containing the analysis required by this subsection, including a detailed step-by-step description of the procedures by which the policies specified in paragraph (1)(C) would be accomplished in an emergency, along with such recommendations as the Secretary of Energy deems appropriate.
 
 “(b)
 

@@ -162,7 +162,7 @@ Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchang
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2110(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date.”
+Section 2110(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date.”
 
 #### Effective Date of 1969 Amendment
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 #### Effective Date of 1962 Amendment
 
-Amendment by section 13(f)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, seesection 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
+Amendment by section 13(f)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
 Amendment by section 14(b)(2) of Pub. L. 87–834 applicable with respect to taxable years beginning after Dec. 31, 1962, see section 14(c) of Pub. L. 87–834, set out as an Effective Date note under section 1246 of this title.
 

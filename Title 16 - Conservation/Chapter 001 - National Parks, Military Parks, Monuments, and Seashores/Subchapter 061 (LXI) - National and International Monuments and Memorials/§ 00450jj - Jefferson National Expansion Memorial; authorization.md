@@ -14,7 +14,7 @@ Pub. L. 99–500, §101(h) \[title I, §100\], Oct. 18, 1986, 100 Stat. 1783–2
 
 #### Authorization of Appropriations; Federal and Non-Federal Ratio of Expenditures
 
-Section 11, formerly section 4, of act May 17, 1954, as amended by Pub. L. 85–936, Sept. 6, 1958, 72 Stat. 1794;Pub. L. 89–269, Oct. 19, 1965, 79 Stat. 991; Pub. L. 94–578, title II, §201(6), Oct. 21, 1976, 90 Stat. 2733; and renumbered and amended by Pub. L. 98–398, title II, §201(b), Aug. 24, 1984, 98 Stat. 1471; Pub. L. 102–355, §1(3), Aug. 26, 1992, 106 Stat. 947, provided that:
+Section 11, formerly section 4, of act May 17, 1954, as amended by Pub. L. 85–936, Sept. 6, 1958, 72 Stat. 1794; Pub. L. 89–269, Oct. 19, 1965, 79 Stat. 991; Pub. L. 94–578, title II, §201(6), Oct. 21, 1976, 90 Stat. 2733; and renumbered §11 and amended by Pub. L. 98–398, title II, §201(b), Aug. 24, 1984, 98 Stat. 1471; Pub. L. 102–355, §1(3), Aug. 26, 1992, 106 Stat. 947, provided that:
 
 “(a) There is hereby authorized to be appropriated not to exceed $32,750,000 to carry out the purposes of this Act \[sections 450jj to 450jj–9 of this title\]: <i>Provided</i>, That funds authorized to be appropriated by this Act shall be expended by the United States for construction of the memorial in the ratio of $3 of Federal funds for each $1 of money contributed hereafter by the city of Saint Louis or other non-Federal source for purposes of the memorial, and for such purposes the Secretary is authorized to accept from the said city or other non-Federal sources, and to utilize for purposes of this Act, any money so contributed: <i>Provided further</i>, That the value of any land hereafter contributed by the city of Saint Louis shall be excluded from the computation of the city's share.
 

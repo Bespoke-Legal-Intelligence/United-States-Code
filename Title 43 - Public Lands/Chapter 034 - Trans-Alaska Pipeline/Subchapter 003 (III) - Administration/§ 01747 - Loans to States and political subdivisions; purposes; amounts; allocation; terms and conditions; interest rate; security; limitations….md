@@ -34,7 +34,7 @@ Section is comprised of subsec. (c) of section 317 of Pub. L. 94–579. Subsecs.
 
 #### Amendments
 
-1978—Pars. (1) and (2). Pub. L. 95–352 redesignated par. (1) as pars. (1) and (2), in par. (1) struck out provisions establishing interest rate requirements, and in par. (2) struck out exception for Alaska and requirements for repayment. Former par. (2) redesignated (3).
+1978—Pars. (1) and (2). Pub. L. 95–352 redesignated par. (1) as pars. (1) and (2), in par. (1) struck out provisionsestablishing interest rate requirements, and in par. (2) struck out exception for Alaska and requirements for repayment. Former par. (2) redesignated (3).
 
 Pars. (3) to (11). Pub. L. 95–352 redesignated former pars. (2) and (3) as (3) and (4), respectively, and added pars. (5) to (11).
 

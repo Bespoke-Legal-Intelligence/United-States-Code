@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 99–661, §318(b)(2), substituted “in such amounts as th
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–484 effective Oct. 1, 1992, and to be considered executed immediately following the amendments made by section 328 of Pub. L. 101–510, see section 380(e) of Pub. L. 102–484, set out as a note under section 4308 of this title.
+Amendment by Pub. L. 102–484 effective Oct. 1, 1992, and to be considered executed immediately followingthe amendments made by section 328 of Pub. L. 101–510, see section 380(e) of Pub. L. 102–484, set out as a note under section 4308 of this title.
 
 #### Effective Date of 1990 Amendment
 

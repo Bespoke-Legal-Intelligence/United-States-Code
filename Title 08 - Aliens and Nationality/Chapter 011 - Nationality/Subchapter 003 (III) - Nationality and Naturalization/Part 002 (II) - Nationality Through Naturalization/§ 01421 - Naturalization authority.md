@@ -1,4 +1,4 @@
-### §1421 . Naturalization authority
+### §1421. Naturalization authority
 
 #### (a) Authority in Attorney General
 
@@ -28,7 +28,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 &emsp;&emsp;&emsp;(ii) the Attorney General—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall forward to the court (not later than 10 days after the date of approval of an application for naturalization in the case of a court which has provided notice under paragraph (1)(B)) such informationas may be necessary to administer the oath of allegiance under section 1448(a) of this title, and
+&emsp;&emsp;&emsp;&emsp;(I) shall forward to the court (not later than 10 days after the date of approval of an application for naturalization in the case of a court which has provided notice under paragraph (1)(B)) such information as may be necessary to administer the oath of allegiance under section 1448(a) of this title, and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall promptly forward to the court a certificate of naturalization (prepared by the Attorney General).
 

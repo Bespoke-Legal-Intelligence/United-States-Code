@@ -42,5 +42,5 @@ For purposes of this section:
 
 #### Regulations
 
-Final rule for regulations required in this section to be issued not later than 180 days after June 10, 1993, seesection 165 of Pub. L. 103–43, set out as a note under section 289b of this title.
+Final rule for regulations required in this section to be issued not later than 180 days after June 10, 1993, see section 165 of Pub. L. 103–43, set out as a note under section 289b of this title.
 

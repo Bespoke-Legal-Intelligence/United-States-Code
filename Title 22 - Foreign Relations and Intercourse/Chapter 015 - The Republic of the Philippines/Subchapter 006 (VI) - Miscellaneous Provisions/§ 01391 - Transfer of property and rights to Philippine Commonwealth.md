@@ -14,7 +14,7 @@ Since their independence, the Philippine Islands have been a republic, and are n
 
 #### Prior Provisions
 
-Similar provisions were contained in act Jan. 17, 1933, ch. 11, §5, 47 Stat. 764.
+Provisions similar to those in this section were contained in act Jan. 17, 1933, ch. 11, §5, 47 Stat. 764.
 
 #### Separability
 

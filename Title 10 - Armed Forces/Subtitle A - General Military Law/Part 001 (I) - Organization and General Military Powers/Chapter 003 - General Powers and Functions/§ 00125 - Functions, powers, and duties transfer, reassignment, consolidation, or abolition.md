@@ -1,4 +1,4 @@
-### §125 . Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
+### §125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
 
 (a) Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 401), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 

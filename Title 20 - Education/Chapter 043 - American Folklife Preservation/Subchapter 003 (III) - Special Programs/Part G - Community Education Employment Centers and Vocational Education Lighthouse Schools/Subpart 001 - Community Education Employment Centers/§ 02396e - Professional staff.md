@@ -10,7 +10,7 @@ Each eligible recipient receiving a grant under this part shall only employ prof
 
 (2) Each eligible recipient receiving a grant under this part shall employ a sufficient number of full-time certified or licensed guidance and career counselors to assist, enhance and monitor student progress.
 
-(Pub. L. 88 210, title III, §367, as added Pub. L. 101 392, title III, §310, Sept. 25, 1990, 104 Stat. 797.)
+(Pub. L. 88–210, title III, §367, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 797.)
 
 #### Section Referred to in Other Sections
 

@@ -72,6 +72,10 @@ Section 1 of Pub. L. 93–205 provided: “That this Act \[enacting this chapter
 
 Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, provided that: “The special areas defined in section 3(24) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
 
+#### Minimization of Conflicts With Recreational Fisheries
+
+For provision that all Federal agencies minimize conflicts between recreational fisheries and administration of this chapter, see Ex. Ord. No. 12962, §4, June 7, 1995, 60 F.R. 30770, set out as a note under section 1801 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1539 of this title.

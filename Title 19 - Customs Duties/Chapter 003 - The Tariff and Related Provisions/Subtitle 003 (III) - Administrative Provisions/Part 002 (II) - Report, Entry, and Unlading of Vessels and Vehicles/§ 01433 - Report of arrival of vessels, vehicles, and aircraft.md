@@ -48,11 +48,11 @@ Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving
 
 &emsp;(2) discharge any passenger or merchandise (including baggage).
 
-(June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Oct. 27, 1986, Pub. L. 99–570, title III, §3112, 100 Stat. 3207–80; Dec. 8,1993, Pub. L. 103–182, title VI, §652, 107 Stat. 2209.)
+(June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Oct. 27, 1986, Pub. L. 99–570, title III, §3112, 100 Stat. 3207–80; Dec. 8, 1993, Pub. L. 103–182, title VI, §652, 107 Stat. 2209.)
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §433, 42 Stat. 951. That section was superseded by section 433 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §433, 42 Stat. 951. That section was superseded by section 433 ofact June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 R.S. §2774, requiring a report of arrival, and a further report in the form of a manifest, and imposing a penalty for violations was superseded by act Sept. 21, 1922, ch. 356, title IV, §433, 42 Stat. 951, and repealed by section 642 of that act.
 

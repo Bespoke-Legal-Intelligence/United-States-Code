@@ -132,11 +132,7 @@
 | (c) | Delegation of functions by the Director. |
 | (d) | Access to Director by Congress; requests for appropriations. |
 | [790c.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Energy%20Information%20and%20Analysis/%C2%A7%2000790c%20-%20Analysis%20and%20evaluation%20of%20energy%20information%3B%20establishment%20and%20maintenance%20by%20Director%20of%20professional%2C%20etc.%2C%20capability%3B%20specific%E2%80%A6.md) | Analysis and evaluation of energy information; establishment and maintenance by Director of professional, etc., capability; specific capabilities. |
-| [790d.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Energy%20Information%20and%20Analysis/%C2%A7%2000790d%20-%20Annual%20performance%20audit%20review%20of%20procedures%20and%20methodology%20by%20Professional%20Audit%20Review%20Team.md) | Annual performance audit review of procedures and methodology by Professional Audit Review Team. |
-| (a) | Authorization for review and report by Team. |
-| (b) | Membership, appointment and Chairman of Team. |
-| (c) | Cooperation of Director and Administrator with Team. |
-| (d) | Disclosures of trade secrets or confidential commercial information by members of Team; penalties. |
+| [790d.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Energy%20Information%20and%20Analysis/%C2%A7%2000790d%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28k%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md) | Repealed. |
 | [790e.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Energy%20Information%20and%20Analysis/%C2%A7%2000790e%20-%20Coordination%20by%20Director%20of%20energy%20information%20gathering%20activities%20of%20Federal%20agencies.md) | Coordination by Director of energy information gathering activities of Federal agencies. |
 | (a) | Review. |
 | (b) | Policy recommendations. |

@@ -6,7 +6,7 @@ Each Job Corps center shall provide enrollees with an intensive, well-organized,
 
 #### (b) Use of existing educational agencies providing substantially equivalent training
 
-The Secretary may arrange for enrollee education and vocational training through local public or private educational agencies, vocational educational institutions, or technical institutes, whenever such institutions provide training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
+The Secretary may arrange for enrollee education and vocational training through localpublic or private educational agencies, vocational educational institutions, or technical institutes, whenever such institutions provide training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
 
 #### (c) High school equivalency certificates
 

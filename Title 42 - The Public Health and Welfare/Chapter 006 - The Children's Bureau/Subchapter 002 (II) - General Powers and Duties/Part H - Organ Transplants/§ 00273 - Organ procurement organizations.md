@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(IV) a physician with knowledge or skill in the field of neurology, and
 
-&emsp;&emsp;&emsp;(V) from each transplant center in its service area which has arrangements described in paragraph (2)(G) <sup>1</sup> with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
+&emsp;&emsp;&emsp;(V) from each transplant center in its service area which has arrangements described in paragraph (2)(G) <sup>1</sup> with the organization, a member who is a surgeon who has practicing privileges in such centerand who performs organ transplant surgery,
 
 &emsp;&emsp;(ii) has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (2),<sup>1</sup> and
 
@@ -88,7 +88,7 @@ A prior section 371 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 1990—Pub. L. 101–616, §201(a), substituted “Organ procurement organizations” for “Assistance for organ procurement organizations” in section catchline.
 
-Subsec. (a)(3). Pub. L. 101–616, §201(b)(1), substituted “may make grants to, and enter into contracts with,qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects” for “may make grants for special projects”.
+Subsec. (a)(3). Pub. L. 101–616, §201(b)(1), substituted “may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects” for “may make grants for special projects”.
 
 Subsec. (a)(4). Pub. L. 101–616, §201(b)(2), struck out par. (4) which set forth factors to consider in making grants.
 
@@ -154,7 +154,7 @@ Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, d
 
 #### Bone Marrow Registry Demonstration and Study
 
-Section 401 of Pub. L. 98–507 directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registryto identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
+Section 401 of Pub. L. 98–507 directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
 
 #### Section Referred to in Other Sections
 

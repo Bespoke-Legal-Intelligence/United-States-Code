@@ -26,7 +26,7 @@ Requirement To Consult DOD Employees.—(1) Each officer or employee of the Depa
 
 (2)(A) In the case of employees represented by a labor organization accorded exclusive recognition under section 7111 of title 5, United States Code, consultation with representatives of that labor organization shall satisfy the consultation requirement in paragraph (1).
 
-(B) In the case of employees other than employees referred to in subparagraph (A), consultation with appropriate representatives of those employees shall satisfy the consultation requirement in paragraph (1).
+(B) In the case of employees other than employees referred to in subparagraph (A), consultation with appropriate representatives ofthose employees shall satisfy the consultation requirement in paragraph (1).
 
 (3) The Secretary of Defense shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection or designation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
 

@@ -30,7 +30,7 @@ No benefits shall be paid under this part to the residents of any State which, a
 
 #### (e) Conditions upon payment
 
-No benefits shall be payable to a widow, child, parent, brother, or sister under this part on account of the death of a miner unless (1) benefits under this part were being paid to such miner with respect to disability due to pneumoconiosis prior to his death, (2) the death of such miner occurred prior to January 1, 1974, or (3) any such individual is entitled to benefits under paragraph (5) of section 921(c) of this title.
+No benefits shall be payable to a widow, child, parent, brother, or sister under this part on account of the death of a miner unless (1) benefitsunder this part were being paid to such miner with respect to disability due to pneumoconiosis prior to his death, (2) the death of such miner occurred prior to January 1, 1974, or (3) any such individual is entitled to benefits under paragraph (5) of section 921(c) of this title.
 
 (Pub. L. 91–173, title IV, §414, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§1(c)(1), (6), 5(1)–(3), May 19, 1972, 86 Stat. 151, 152, 155; Pub. L. 95–239, §3(b)(2), Mar. 1, 1978, 92 Stat. 97; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488.)
 

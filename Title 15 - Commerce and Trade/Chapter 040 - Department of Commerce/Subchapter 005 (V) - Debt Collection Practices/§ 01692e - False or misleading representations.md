@@ -42,5 +42,5 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(16) The false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by section 1681a(f) of this title.
 
-(Pub. L. 90 321, title VIII, §807, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 877.)
+(Pub. L. 90–321, title VIII, §807, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877.)
 

@@ -28,7 +28,7 @@ Joint Federal-industry corporations proposed for congressional authorization pur
 
 &emsp;&emsp;(A) a Board of nine directors consisting of individuals who are citizens of the United States, of whom one shall be elected annually by the Board to serve as Chairman. The Board shall be empowered to adopt and amend bylaws. Five members of the Board shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and four members of the Board shall be appointed by the President on the basis of recommendations received by him from any non-Federal entity or entities entering into contractual arrangements to participate in the corporation;
 
-&emsp;&emsp;(B) a President and such other officers and employees as may be named and appointed by the Board (with the rates of compensation of all officers and employees being fixed by the Board); and
+&emsp;&emsp;(B) a President and such other officers and employees as may be named and appointedby the Board (with the rates of compensation of all officers and employees being fixed by the Board); and
 
 &emsp;&emsp;(C) the usual powers conferred upon corporations by the laws of the District of Columbia.
 
@@ -84,7 +84,7 @@ Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to a
 
 #### Price-Support Program To Demonstrate Municipal Solid Waste Reprocessing for Production of Fuels and Energy Intensive Products
 
-Pub. L. 95–39, title I, §107, June 3, 1977, 91 Stat. 185, authorized Administrator, subject to the appropriation of funds pursuant to section 101(7)(I) of Pub. L. 95–39, to establish and implement, under subsection (a)(4) of thissection and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
+Pub. L. 95–39, title I, §107, June 3, 1977, 91 Stat. 185, authorized Administrator, subject to the appropriation of funds pursuant to section 101(7)(I) of Pub. L. 95–39, to establish and implement, under subsection (a)(4) of this section and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
 
 #### Section Referred to in Other Sections
 

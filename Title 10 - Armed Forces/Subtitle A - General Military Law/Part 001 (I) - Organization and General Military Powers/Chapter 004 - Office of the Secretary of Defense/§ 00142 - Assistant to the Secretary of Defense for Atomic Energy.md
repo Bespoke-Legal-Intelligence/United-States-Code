@@ -1,4 +1,4 @@
-### §142 . Assistant to the Secretary of Defense for Atomic Energy
+### §142. Assistant to the Secretary of Defense for Atomic Energy
 
 (a) There is an Assistant to the Secretary of Defense for Atomic Energy, appointed by the President, by and with the advice and consent of the Senate.
 

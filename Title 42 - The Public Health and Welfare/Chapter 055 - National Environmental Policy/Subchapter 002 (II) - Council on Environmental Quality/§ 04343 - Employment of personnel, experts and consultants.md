@@ -1,6 +1,6 @@
 ### §4343. Employment of personnel, experts and consultants
 
-(a) The Council may employ such officers and employees as may be necessary to carry out its functions under this chapter. In addition, theCouncil may employ and fix the compensation of such experts and consultants as may be necessary for the carrying out of its functions under this chapter, in accordance with section 3109 of title 5 (but without regard to the last sentence thereof).
+(a) The Council may employ such officers and employees as may be necessary to carry out its functions under this chapter. In addition, the Council may employ and fix the compensation of such experts and consultants as may be necessary for the carrying out of its functions under this chapter, in accordance with section 3109 of title 5 (but without regard to the last sentence thereof).
 
 (b) Notwithstanding section 1342 of title 31, the Council may accept and employ voluntary and uncompensated services in furtherance of the purposes of the Council.
 
@@ -8,7 +8,7 @@
 
 #### Codification
 
-In subsec. (b), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C.665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

@@ -6,27 +6,27 @@
 
 &emsp;(1) to increase the allotments or reallotments of local educational agencies within the State that are not described in subsection (a) of this section, or the allotments or reallotment of all States, in accordance with the Federal law governing the program; or
 
-&emsp;(2) for grants to local educational agencies of that State in accordance with section 405 of the Civil Rights Act of 1964 \[42 U.S.C. 2000c 4\], or for any other program administered by the Department that is designed to enhance equity in education or redress discrimination on the basis of race, color, national origin, sex, age, or disability.
+&emsp;(2) for grants to local educational agencies of that State in accordance with section 405 of the Civil Rights Act of 1964 \[42 U.S.C. 2000c–4\], or for any other program administered by the Department that is designed to enhance equity in education or redress discrimination on the basis of race, color, national origin, sex, age, or disability.
 
-(Pub. L. 90 247, title IV, §435, formerly §416, as added Pub. L. 91 230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered §426, Pub. L. 92 318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §428, Pub. L. 93 380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; renumbered §435 and amended Pub. L. 103 382, title II, §§212(b)(1), 245, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, §435, formerly §416, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered §426, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §428, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; renumbered §435 and amended Pub. L. 103–382, title II, §§212(b)(1), 245, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88 352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended.Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92 318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94 135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 435 of Pub. L. 90 247 was renumbered section 441, and is classified to section 1232d of this title.
+A prior section 435 of Pub. L. 90–247 was renumbered section 441, and is classified to section 1232d of this title.
 
-Another prior section 435 of Pub. L. 90 247 was renumbered section 423, and is classified to section 1226a 1 of this title.
+Another prior section 435 of Pub. L. 90–247 was renumbered section 423, and is classified to section 1226a–1 of this title.
 
-Another prior section 435 of Pub. L. 90 247 was renumbered section 445, and is classified to section 1233d of this title prior to repeal by Pub. L. 103 382.
+Another prior section 435 of Pub. L. 90–247 was renumbered section 445, and is classified to section 1233d of this title prior to repeal by Pub. L. 103–382.
 
 #### Amendments
 
-1994—Pub. L. 103 382, §245, amended section generally. Prior to amendment, section consisted of single par. relating to use of funds withheld for failure to comply with title VI of the Civil Rights Act of 1964.
+1994—Pub. L. 103–382, §245, amended section generally. Prior to amendment, section consisted of single par. relating to use of funds withheld for failure to comply with title VI of the Civil Rights Act of 1964.
 

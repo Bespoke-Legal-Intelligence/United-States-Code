@@ -10,7 +10,7 @@
 
 &emsp;(3) the complexity of the rule;
 
-&emsp;(4) the extent to which the rule overlaps, duplicates or conflicts with other Federal rules, and, to the extent feasible, with State and local governmental rules; and
+&emsp;(4) the extent to which the rule overlaps, duplicates or conflicts with other Federal rules,and, to the extent feasible, with State and local governmental rules; and
 
 &emsp;(5) the length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule.
 

@@ -26,5 +26,5 @@ The Congress finds the following:
 
 The purpose of this subchapter is to provide elementary and secondary school students and their families better access to the social, health and education services necessary for students to succeed in school and for their families to take an active role in ensuring that such students receive the best possible education.
 
-(Pub. L. 89 10, title XI, §11001, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3867.)
+(Pub. L. 89–10, title XI, §11001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3867.)
 

@@ -40,9 +40,7 @@ Pub. L. 102–396, title IX, §9032, Oct. 6, 1992, 106 Stat. 1908, as amended by
 
 #### Applicability to Contracts Entered Into Pursuant to Solicitation Number MDA–903–87–R–0047
 
-Pub. L. 100–463, title VIII, §8078(b), Oct. 1, 1988, 102 Stat. 2270–30, provided that preemption provisions of 10 U.S.C. 1103 shall apply to contracts entered into pursuant to Solicitation Number MDA–903–87–R–0047 and shall preempt State and local laws or regulations which relate to health insurance or prepaid health care plans.
-
-Similar provisions were contained in the following prior appropriation act:
+Pub. L. 100–463, title VIII, §8078(b), Oct. 1, 1988, 102 Stat. 2270–30, provided that preemption provisions of 10 U.S.C. 1103 shall apply to contracts entered into pursuant to Solicitation Number MDA–903–87–R–0047 and shall preempt State and local laws or regulations which relate to health insurance or prepaid health care plans. Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 100–202, §101(b) \[title VIII, §8104(b)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
 

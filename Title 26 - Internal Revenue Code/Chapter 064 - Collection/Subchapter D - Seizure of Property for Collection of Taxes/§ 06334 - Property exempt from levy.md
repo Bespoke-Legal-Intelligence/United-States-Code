@@ -114,7 +114,7 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act J
 
 The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Section 207 of the Social Security Act is classified to section 407 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19\(§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Subsec. (a)(3). Pub. L. 100–647, §6236(c)(2), substituted “$1,100 ($1,050 i
 
 Subsec. (a)(10)(A). Pub. L. 100–647, §1015(<i>o</i>)(1), substituted “III, IV, V,” for “IV” and added “or” at end.
 
-Subsec. (a)(10)(B), (C). Pub. L. 100–647, §1015(<i>o</i>)(2), (3), redesignated subpar. (C) as (B) and substituted “13, 21,23” for “21”, and struck out former subpar. (B), which read as follows: “subchapter I, II, or III of chapter 19 of such title 38, or”.
+Subsec. (a)(10)(B), (C). Pub. L. 100–647, §1015(<i>o</i>)(2), (3), redesignated subpar. (C) as (B) and substituted “13, 21, 23” for “21”, and struck out former subpar. (B), which read as follows: “subchapter I, II, or III of chapter 19 of such title 38, or”.
 
 Subsec. (a)(11) to (13). Pub. L. 100–647, §6236(c)(4)(A), added pars. (11) to (13).
 

@@ -58,27 +58,27 @@
 
 &emsp;&emsp;(iv) Subsection (f).
 
-(Pub. L. 99 371, title I, §104, as added Pub. L. 102 421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103 73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733.)
+(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1841.3a.
+Section is also set out in D.C. Code, §31–1841.3a.
 
 #### Amendments
 
-1993—Pub. L. 103 73, §203(d)(1), substituted “education” for “educational” in section catchline.
+1993—Pub. L. 103–73, §203(d)(1), substituted “education” for “educational” in section catchline.
 
-Subsec. (a)(1). Pub. L. 103 73, §203(d)(2), in subpar. (A) substituted “deaf or hard” for “deaf and individuals who are hard”, in subpar. (B) inserted “education” after “elementary and secondary” and substituted “non-English-speaking” for “non-English speaking”, and in subpar. (C), in introductory provisions, inserted “education” after “elementary and secondary”, in cl. (i) substituted “students” for “individuals” wherever appearing and “deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent,” for “deaf,”, and in cl. (ii) substituted “students” for “individuals” wherever appearing and “deaf from grades nine through twelve, inclusive,” for “deaf,”.
+Subsec. (a)(1). Pub. L. 103–73, §203(d)(2), in subpar. (A) substituted “deaf or hard” for “deaf and individuals who are hard”, in subpar. (B) inserted “education” after “elementary and secondary” and substituted “non-English-speaking” for “non-English speaking”, and in subpar. (C), in introductory provisions, inserted “education” after “elementary and secondary”, in cl. (i) substituted “students” for “individuals” wherever appearing and “deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent,” for “deaf,”, and in cl. (ii) substituted “students” for “individuals” wherever appearing and “deaf from grades nine through twelve, inclusive,” for “deaf,”.
 
-Subsec. (b)(1). Pub. L. 103 73, §203(d)(3), substituted “infants, children, and youth” for “infants and children” in subpar. (A) and a period for the semicolon at end of subpar. (C).
+Subsec. (b)(1). Pub. L. 103–73, §203(d)(3), substituted “infants, children, and youth” for “infants and children” in subpar. (A) and a period for the semicolon at end of subpar. (C).
 
-Subsec. (b)(4). Pub. L. 103 73, §203(d)(4), substituted “program” for “programs” in subpar. (A), “the child to and from that program” for “students to and from those programs” in subpar. (B), and “a decision” for “decisions” in subpar. (C)(iii).
+Subsec. (b)(4). Pub. L. 103–73, §203(d)(4), substituted “program” for “programs” in subpar. (A), “the child to and from that program” for “students to and from those programs” in subpar. (B), and “a decision” for “decisions” in subpar. (C)(iii).
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 161 of Pub. L. 102 421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
+Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
 

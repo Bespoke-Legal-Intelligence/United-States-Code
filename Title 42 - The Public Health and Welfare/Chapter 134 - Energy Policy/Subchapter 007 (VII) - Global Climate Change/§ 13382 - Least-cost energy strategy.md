@@ -58,7 +58,7 @@ The least-cost energy strategy shall identify Federal priorities, including poli
 
 &emsp;(6) encourage investment in energy efficient equipment and technologies; and
 
-&emsp;(7) encourage the development of energy technologies, such as advanced nuclear fissionand nuclear fusion, that produce energy without greenhouse gases as a byproduct, and encourage the deployment of nuclear electric generating capacity.
+&emsp;(7) encourage the development of energy technologies, such as advanced nuclear fission and nuclear fusion, that produce energy without greenhouse gases as a byproduct, and encourage the deployment of nuclear electric generating capacity.
 
 #### (e) Assumptions
 

@@ -28,7 +28,7 @@ A job search allowance may be granted only—
 
 #### (c) Reimbursement for necessary expenses
 
-The Secretary shall reimburse any adversely affected worker for necessary expenses incurred by such worker in participating in a job search program approved by the Secretary.
+The Secretary shall reimburse any adversely affected worker for necessary expenses incurredby such worker in participating in a job search program approved by the Secretary.
 
 (Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303.)
 

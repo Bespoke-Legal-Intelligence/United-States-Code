@@ -6,9 +6,9 @@
 
 (2) Loans shall be canceled under paragraph (1) for service—
 
-&emsp;(A) as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965<sup>1</sup> exceeds 30 percent of the total enrollment of that school;
+&emsp;(A) as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 <sup>1</sup> exceeds 30 percent of the total enrollment of that school;
 
-&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\] which is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of acomparable employee of the local educational agency;
+&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\] which is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
 
 &emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1476(b)(9) of this title;
 
@@ -64,95 +64,95 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 &emsp;&emsp;(B) in a subsequent year fails to meet the requirements of such subsection,
 
-> &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such subsequent years.
+> &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant tosubsection (a)(1) of this section such subsequent years.
 
-(Pub. L. 89 329, title IV, §465, as added Pub. L. 99 498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100 50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100 369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101 476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101 647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102 119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102 325, title IV, §465(a) (c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103 82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103 208, §2(f)(12) (14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103 382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-Section 111(c) of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), wasclassified to section 2711(c) of this title, prior to its omission in the general revision of the Elementary and Secondary Education Act of 1965 by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
+Section 111(c) of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), was classified to section 2711(c) of this title, prior to its omission in the general revision of the Elementary and Secondary Education Act of 1965 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
 
-The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97 35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87 293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93 113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101 610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Codification
 
-Amendment by section 2(f)(14) of Pub. L. 103 208 (which was effective as if included in Pub. L. 102 325) was executed to this section as amended by Pub. L. 102 325 and Pub. L. 103 82, to reflect the probable intent of Congress.
+Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 1087ee, Pub. L. 89 329, title IV, §465, as added Pub. L. 92 318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95 561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96 374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1994—Subsec. (a)(2)(A). Pub. L. 103 382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of the Education Consolidation and Improvement Act of 1981”.
+1994—Subsec. (a)(2)(A). Pub. L. 103–382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of the Education Consolidation and Improvement Act of 1981”.
 
-1993—Subsec. (a)(2)(A). Pub. L. 103 208, §2(k)(7), amended Pub. L. 102 325, §465(a)(1). See 1992 Amendment note below.
+1993—Subsec. (a)(2)(A). Pub. L. 103–208, §2(k)(7), amended Pub. L. 102–325, §465(a)(1). See 1992 Amendment note below.
 
-Subsec. (a)(2)(D). Pub. L. 103 208, §2(f)(12), substituted “service” for “services”.
+Subsec. (a)(2)(D). Pub. L. 103–208, §2(f)(12), substituted “service” for “services”.
 
-Subsec. (a)(2)(F). Pub. L. 103 208, §2(f)(13), struck out “or” after semicolon at end.
+Subsec. (a)(2)(F). Pub. L. 103–208, §2(f)(13), struck out “or” after semicolon at end.
 
-Subsec. (a)(6). Pub. L. 103 208, §2(f)(14), realigned margin. See Codification note above.
+Subsec. (a)(6). Pub. L. 103–208, §2(f)(14), realigned margin. See Codification note above.
 
-Pub. L. 103 82 added par. (6).
+Pub. L. 103–82 added par. (6).
 
-1992—Subsec. (a)(2)(A). Pub. L. 102 325, §465(a)(1), as amended by Pub. L. 103 208, §2(k)(7), struck out before semicolon at end “and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–325, §465(a)(1), as amended by Pub. L. 103–208, §2(k)(7), struck out before semicolon at end “and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1”.
 
-Subsec. (a)(2)(C). Pub. L. 102 325, §465(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;”.
+Subsec. (a)(2)(C). Pub. L. 102–325, §465(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;”.
 
-Subsec. (a)(2)(G) to (I). Pub. L. 102 325, §465(a)(3) (5), added subpars. (G) to (I).
+Subsec. (a)(2)(G) to (I). Pub. L. 102–325, §465(a)(3)–(5), added subpars. (G) to (I).
 
-Subsec. (a)(3)(A)(i). Pub. L. 102 325, §465(b), substituted “(A), (C), (F), (G), (H), or (I)” for “(A), (C), or (F)”.
+Subsec. (a)(3)(A)(i). Pub. L. 102–325, §465(b), substituted “(A), (C), (F), (G), (H), or (I)” for “(A), (C), or (F)”.
 
-Subsec. (c). Pub. L. 102 325, §465(c), added subsec. (c).
+Subsec. (c). Pub. L. 102–325, §465(c), added subsec. (c).
 
-1991—Subsec. (a)(2). Pub. L. 102 119 substituted “1401(a)(1)” for “1401(1)” in last sentence. The references to section 1401 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
+1991—Subsec. (a)(2). Pub. L. 102–119 substituted “1401(a)(1)” for “1401(1)” in last sentence. The references to section 1401 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
 
-1990—Subsec. (a)(2). Pub. L. 101 476, §901(e), substituted “children with disabilities” for “handicapped children” in two places.
+1990—Subsec. (a)(2). Pub. L. 101–476, §901(e), substituted “children with disabilities” for “handicapped children” in two places.
 
-Subsec. (a)(2)(F). Pub. L. 101 647, §2101(a), which directed amendment of subsec. (a)(2) by adding at the end a new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
+Subsec. (a)(2)(F). Pub. L. 101–647, §2101(a), which directed amendment of subsec. (a)(2) by adding at the end a new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
 
-Subsec. (a)(3)(A)(i). Pub. L. 101 647, §2101(b), which directed amendment of subsec. (a)(3)(i) by substituting “(A), (C), or (F)” for “(A) or (C)”, was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
+Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of subsec. (a)(3)(i) by substituting “(A), (C), or (F)” for “(A) or (C)”, was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
 
-1988—Subsec. (a)(5). Pub. L. 100 369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1988—Subsec. (a)(5). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1987—Subsec. (a)(2)(A). Pub. L. 100 50, §13(j)(1), (2), substituted “chapter 1 of the Education Consolidation and Improvement Act of 1981” for “title I of the Elementary and Secondary Education Act of 1965” and “such chapter 1” for “such title I”.
+1987—Subsec. (a)(2)(A). Pub. L. 100–50, §13(j)(1), (2), substituted “chapter 1 of the Education Consolidation and Improvement Act of 1981” for “title I of the Elementary and Secondary Education Act of 1965” and “such chapter 1” for “such title I”.
 
-Subsec. (a)(2)(B). Pub. L. 100 50, §13(j)(3), substituted “the Head Start Act” for “section 2809(a)(1) of title 42”.
+Subsec. (a)(2)(B). Pub. L. 100–50, §13(j)(3), substituted “the Head Start Act” for “section 2809(a)(1) of title 42”.
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
-Amendment by Pub. L. 103 82 effective Oct. 1, 1993, see section 123 of Pub. L. 103 82, set out as a note under section 1701 of Title 16, Conservation.
+Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 #### Effective Date of 1990 Amendments
 
-Section 2101(c) of Pub. L. 101 647 provided that: “The amendments made by this section \[amending this section\] shall apply only to loans made on or after the date of enactment of this Act \[Nov. 29, 1990\] under part E of title IV of the Higher Education Act of 1965 \[this part\].”
+Section 2101(c) of Pub. L. 101–647 provided that: “The amendments made by this section \[amending this section\] shall apply only to loans made on or after the date of enactment of this Act \[Nov. 29, 1990\] under part E of title IV of the Higher Education Act of 1965 \[this part\].”
 
-Section 1001 of Pub. L. 101 476 provided that: “The amendments made by this Act \[see Short Title of 1990 Amendment note set out under section 1400 of this title\] shall take effect October 1, 1990.”
+Section 1001 of Pub. L. 101–476 provided that: “The amendments made by this Act \[see Short Title of 1990 Amendment note set out under section 1400 of this title\] shall take effect October 1, 1990.”
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99 498, set out as a note under section 1001 of this title.
+Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Subsection (a)(2)(E) of this section applicable only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date, see section 405(b) of Pub. L. 99 498, set out as a note under section 1087dd of this title.
+Subsection (a)(2)(E) of this section applicable only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078 10, 1087, 1087dd, 1087gg, 1092 of this title.
+This section is referred to in sections 1078–10, 1087, 1087dd, 1087gg, 1092 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,53 +26,53 @@ The Council shall—
 
 &emsp;(7) encourage an ongoing dialogue in support of the arts and the humanities among Federal agencies.
 
-(Pub. L. 89 209, §9, Sept. 29, 1965, 79 Stat. 851; Pub. L. 91 346, §9, July 20, 1970, 84 Stat. 446; Pub. L. 93 133, §2(a)(8), Oct. 19, 1973, 87 Stat. 464; Pub. L. 94 462, title II, §208, Oct. 8, 1976, 90 Stat. 1977; 1977 Reorg. Plan No. 2, §7(a)(12), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96 496, title I, §§106, 109(d), Dec. 4, 1980, 94 Stat. 2587, 2591; Pub. L. 97 241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; renumbered title I, §9, and amended Pub. L. 98 306, §§2, 6, May 31, 1984, 98 Stat. 223, 224; renumbered §9 and amended Pub. L. 99 194, title I, §§101(1), 109, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub. L. 101 512, title III, §318 \[title I, §108\], Nov. 5, 1990, 104 Stat. 1960, 1970; Pub. L. 103 171, §3(b)(2), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 89–209, §9, Sept. 29, 1965, 79 Stat. 851; Pub. L. 91–346, §9, July 20, 1970, 84 Stat. 446; Pub. L. 93–133, §2(a)(8), Oct. 19, 1973, 87 Stat. 464; Pub. L. 94–462, title II, §208, Oct. 8, 1976, 90 Stat. 1977; 1977 Reorg. Plan No. 2, §7(a)(12), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–496, title I, §§106, 109(d), Dec. 4, 1980, 94 Stat. 2587, 2591; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; renumbered title I, §9, and amended Pub. L. 98–306, §§2, 6, May 31, 1984, 98 Stat. 223, 224; renumbered §9 and amended Pub. L. 99–194, title I, §§101(1), 109, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub. L. 101–512, title III, §318 \[title I, §108\], Nov. 5, 1990, 104 Stat. 1960, 1970; Pub. L. 103–171, §3(b)(2), Dec. 2, 1993, 107 Stat. 1991.)
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103 171 substituted “Assistant Secretary for Aging” for “Commissioner on Aging”.
+1993—Subsec. (b). Pub. L. 103–171 substituted “Assistant Secretary for Aging” for “Commissioner on Aging”.
 
-1990—Subsec. (c)(7). Pub. L. 101 512, §318 \[title I, §108(a)\], added par. (7).
+1990—Subsec. (c)(7). Pub. L. 101–512, §318 \[title I, §108(a)\], added par. (7).
 
-Subsec. (d). Pub. L. 101 512, §318 \[title I, §108(b)\], struck out subsec. (d) which related to studies on Federal support to museums and the impact of Institute of Museum Services and of conservation and preservation practices.
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §108(b)\], struck out subsec. (d) which related to studies on Federal support to museums and the impact of Institute of Museum Services and of conservation and preservation practices.
 
-1985—Subsec. (b). Pub. L. 99 194, §109(1), substituted “Chairperson” for “Chairman” in two places in first sentence, “presiding officer” for “Chairman” in second sentence, and “the President” for “he” in last sentence.
+1985—Subsec. (b). Pub. L. 99–194, §109(1), substituted “Chairperson” for “Chairman” in two places in first sentence, “presiding officer” for “Chairman” in second sentence, and “the President” for “he” in last sentence.
 
-Subsec. (c)(1). Pub. L. 99 194, §109(2), substituted “Chairperson” for “Chairman” wherever appearing.
+Subsec. (c)(1). Pub. L. 99–194, §109(2), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsec. (d). Pub. L. 99 194, §109(3), added subsec. (d). Former subsec. (d), relating to a study and report to the President and the Congress on artistic employment opportunities, was struck out.
+Subsec. (d). Pub. L. 99–194, §109(3), added subsec. (d). Former subsec. (d), relating to a study and report to the President and the Congress on artistic employment opportunities, was struck out.
 
-Subsec. (e). Pub. L. 99 194, §109(3), struck out subsec. (e) which provided for a study and report to the President and the Congress on arts and artifacts indemnification.
+Subsec. (e). Pub. L. 99–194, §109(3), struck out subsec. (e) which provided for a study and report to the President and the Congress on arts and artifacts indemnification.
 
-1984—Subsec. (b). Pub. L. 98 306, §6(a), inserted “the Director of the Institute of Museum Services,”.
+1984—Subsec. (b). Pub. L. 98–306, §6(a), inserted “the Director of the Institute of Museum Services,”.
 
-Subsec. (c)(4). Pub. L. 98 306, §6(b), struck out “and the Institute of Museum Services” after “Foundation”.
+Subsec. (c)(4). Pub. L. 98–306, §6(b), struck out “and the Institute of Museum Services” after “Foundation”.
 
-1980—Subsec. (b). Pub. L. 96 496, §§106(a), 109(d), inserted “the Commissioner on Aging,” and substituted “Secretary of Education” for “United States Commissioner of Education”.
+1980—Subsec. (b). Pub. L. 96–496, §§106(a), 109(d), inserted “the Commissioner on Aging,” and substituted “Secretary of Education” for “United States Commissioner of Education”.
 
-Subsec. (c)(6). Pub. L. 96 496, §106(b), added par. (6).
+Subsec. (c)(6). Pub. L. 96–496, §106(b), added par. (6).
 
-Subsecs. (d), (e). Pub. L. 96 496, §106(c), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 96–496, §106(c), added subsecs. (d) and (e).
 
-1976—Subsec. (c)(2), (3). Pub. L. 94 462, §208(1), (2), added par. (2), redesignated former par. (2) as (3), and as so redesignated inserted “and the Institute of Museum Services,” after “Humanities,”. Former par. (3) redesignated (4).
+1976—Subsec. (c)(2), (3). Pub. L. 94–462, §208(1), (2), added par. (2), redesignated former par. (2) as (3), and as so redesignated inserted “and the Institute of Museum Services,” after “Humanities,”. Former par. (3) redesignated (4).
 
-Subsec. (c)(4), (5). Pub. L. 94 462, §208(1), (3), redesignated former par. (3) as (4), inserted “and the Institute of Museum Services” after “Foundation”, and redesignated former par. (4) as (5).
+Subsec. (c)(4), (5). Pub. L. 94–462, §208(1), (3), redesignated former par. (3) as (4), inserted “and the Instituteof Museum Services” after “Foundation”, and redesignated former par. (4) as (5).
 
-1973—Subsec. (b). Pub. L. 93 133 included the Commissioner, Public Buildings Service, General Service Administration, a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House, as members of the Federal Council on the Arts and Humanities.
+1973—Subsec. (b). Pub. L. 93–133 included the Commissioner, Public Buildings Service, General Service Administration, a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House, as members of the Federal Council on the Arts and Humanities.
 
-1970—Subsec. (b). Pub. L. 91 346 included the Archivist of the United States as a member of the Federal Council on the Arts and Humanities.
+1970—Subsec. (b). Pub. L. 91–346 included the Archivist of the United States as a member of the Federal Council on the Arts and Humanities.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93 133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93 133, set out a a note under section 951 of this title.
+Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out a a note under section 951 of this title.
 
 #### Transfer of Functions
 
-“Director of the United States Information Agency” substituted in text for “Director of the International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97 241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
+“Director of the United States Information Agency” substituted in text for “Director of the International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
 
 Previously, “Director of the International Communication Agency” was substituted for “Secretary of State” in subsec. (b), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(12), 42 F.R. 62461, 91 Stat. 1637, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before July 1, 1978, at such time as specified by the President, which transferred all functions vested in the Secretary of State under subsec. (b) of this section to the Director of the International Communication Agency.
 

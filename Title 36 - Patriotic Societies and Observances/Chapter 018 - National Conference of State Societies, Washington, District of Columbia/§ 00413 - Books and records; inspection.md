@@ -1,6 +1,6 @@
 ### §413. Books and records; inspection
 
-The corporation shall keep current and complete books and records of account and shall also keep minutes of the proceedings of its members and of the board of representatives or committees having any authority of the board of representatives. It shall keep at its principal office a record of the names and addresses of its members entitled to vote. All books and records of the corporation may be inspected by any member or his agent or attorney for any proper purpose at any reasonable time.
+The corporation shall keep current and complete books and records of account and shall also keep minutes of the proceedings of its members and of the board of representatives or committees having any authority of the board of representatives. It shall keep at its principal office a record of the names and addresses of itsmembers entitled to vote. All books and records of the corporation may be inspected by any member or his agent or attorney for any proper purpose at any reasonable time.
 
 (Apr. 3, 1952, ch. 131, §13, 66 Stat. 40.)
 

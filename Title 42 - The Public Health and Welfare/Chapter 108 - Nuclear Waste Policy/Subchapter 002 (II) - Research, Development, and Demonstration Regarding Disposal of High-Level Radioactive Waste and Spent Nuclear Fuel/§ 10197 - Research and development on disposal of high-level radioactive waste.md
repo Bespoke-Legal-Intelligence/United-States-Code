@@ -28,7 +28,7 @@ The Secretary shall design each test and evaluation facility—
 
 &emsp;(2) to permit full retrieval of solidified high-level radioactive waste, or other radioactive material used by the Secretary for testing, upon completion of the technology demonstration activities; and
 
-&emsp;(3) based upon the principle that the high-level radioactive waste, spent nuclear fuel, or other radioactive material involved shall be isolated from the biosphere in such a way that the initial isolation is provided by engineeredbarriers functioning as a system with the geologic environment.
+&emsp;(3) based upon the principle that the high-level radioactive waste, spent nuclear fuel, or other radioactive material involved shall be isolated from the biosphere in such a way that the initial isolation is provided by engineered barriers functioning as a system with the geologic environment.
 
 #### (c) Operation
 
@@ -62,7 +62,7 @@ During the conducting of siting research activities under section 10194 of this 
 
 #### (e) Engineered barriers
 
-The system of engineered barriers and selected geology used in a test and evaluation facility shall have a design life at least as long as that which the Commission requires by regulations issued under this chapter, or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), for repositories.
+The system of engineered barriers and selected geology used in a test and evaluation facility shall have a design life at least as long as that which the Commission requires by regulations issued under this chapter, or under the AtomicEnergy Act of 1954 (42 U.S.C. 2011 et seq.), for repositories.
 
 #### (f) Role of Commission
 

@@ -12,7 +12,7 @@
 
 (5) All deductions to be made pursuant to this subsection shall be made in full during the fiscal year in which such deductions were incurred.
 
-(Feb. 25, 1920, ch. 85, §35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; July 10, 1957, Pub. L. 85–88, §2, 71 Stat. 282; July 7, 1958, Pub. L. 85–508, §§6(k), 28(b), 72 Stat. 343, 351; Apr. 21, 1976, Pub. L. 94–273, §6(2), 90 Stat. 377; Aug. 4, 1976, Pub. L. 94–377, §9, 90 Stat. 1089; Sept. 28, 1976, Pub. L. 94–422, title III, §301, 90 Stat. 1323; Oct. 21, 1976, Pub. L. 94–579, title III, §317(a), 90 Stat. 2770; Jan. 12, 1983, Pub. L. 97–451, title I, §§104(a), 111(g), 96 Stat. 2451, 2456; Dec. 22, 1987, Pub. L. 100–203, title V, §5109, 101 Stat. 1330–261; Sept. 22, 1988, Pub. L. 100–443, §5(b), 102 Stat. 1768; Aug. 10, 1993, Pub. L. 103–66, title X, §10201, 107 Stat. 407.)
+(Feb. 25, 1920, ch. 85, §35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; July 10, 1957, Pub. L. 85–88, §2, 71 Stat. 282; July 7, 1958, Pub. L. 85–508, §§6(k), 28(b), 72 Stat. 343, 351; Apr. 21, 1976, Pub. L. 94–273, §6(2), 90 Stat. 377; Aug. 4, 1976, Pub. L. 94–377, §9, 90Stat. 1089; Sept. 28, 1976, Pub. L. 94–422, title III, §301, 90 Stat. 1323; Oct. 21, 1976, Pub. L. 94–579, title III, §317(a), 90 Stat. 2770; Jan. 12, 1983, Pub. L. 97–451, title I, §§104(a), 111(g), 96 Stat. 2451, 2456; Dec. 22, 1987, Pub. L. 100–203, title V, §5109, 101 Stat. 1330–261; Sept. 22, 1988, Pub. L. 100–443, §5(b), 102 Stat. 1768; Aug. 10, 1993, Pub. L. 103–66, title X, §10201, 107 Stat. 407.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Pub. L. 94–273 substituted “March” for “December” and “September” 
 
 1950—Act Aug. 3, 1950, in providing that payments to States be made bi-annually instead of annually, substituted “as soon as practicable after December 31 and June 30 of each year” for “after the expiration of each fiscal year”.
 
-1947—Act May 27, 1947, extended provisions by allocating 371/2% of the money received from sales, bonuses, royalties, and rentals of public lands to the Territory of Alaska, for the construction and maintenance ofpublic schools or other public educational institutions and inserted provisions relating to disposition of proceeds or income derived by the United States from mineral school sections in the Territory of Alaska.
+1947—Act May 27, 1947, extended provisions by allocating 371/2% of the money received from sales, bonuses, royalties, and rentals of public lands to the Territory of Alaska, for the construction and maintenance of public schools or other public educational institutions and inserted provisions relating to disposition of proceeds or income derived by the United States from mineral school sections in the Territory of Alaska.
 
 #### Effective Date of 1983 Amendment
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 
 #### Funds Held by Colorado and Utah From Interior Department Oil Shale Test Leases
 
-Section 317(b) of Pub. L. 94–579 provided that: “Funds now held pursuant to said section 35 \[this section\] by the States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
+Section 317(b) of Pub. L. 94–579 provided that: “Funds now held pursuant to said section 35 \[this section\] bythe States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
 
 #### Admission of Alaska as State
 

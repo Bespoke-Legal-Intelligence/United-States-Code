@@ -26,7 +26,7 @@ Each State plan shall contain provisions demonstrating to the satisfaction of th
 
 &emsp;&emsp;(C) operate a monitoring, reporting, and management system which provides an adequate information base for effective program management, review, and evaluation; and
 
-&emsp;&emsp;(D) provide technical assistance and advice to substate grantees, including immediate notification to substate grantees of current or projected permanent closures or substantial layoffs in the substate area of suchgrantee to continue and expand the services initiated by the rapid response teams;
+&emsp;&emsp;(D) provide technical assistance and advice to substate grantees, including immediate notification to substate grantees of current or projected permanent closures or substantial layoffs in the substate area of such grantee to continue and expand the services initiated by the rapid response teams;
 
 &emsp;(4) the State will provide to additional dislocated workers (as defined in section 1651(a)(2) of this title) the services available under this subchapter to eligible dislocated workers only if the Governor of such State determines that such services may be provided to additional dislocated workers without adversely affecting the delivery of such services to eligible dislocated workers;
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 102–367, §702(a)(12), substituted “sections” for “
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–367 effective July 1, 1993, with provisions relating to issuance of revised performance standards under amendments by section 115 of Pub. L. 102–367, see section 701(a) and (b) of Pub. L.102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
+Amendment by Pub. L. 102–367 effective July 1, 1993, with provisions relating to issuance of revised performance standards under amendments by section 115 of Pub. L. 102–367, see section 701(a) and (b) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ Real property owned by the State of Hawaii or any political subdivision thereof 
 
 #### (e) Administration of land acquired
 
-The real property acquired by the Secretary pursuant to this section shall be administeredby the Secretary as part of Hawaii Volcanoes National Park, subject to the laws and regulations applicable to the Park.
+The real property acquired by the Secretary pursuant to this section shall be administered by the Secretary as part of Hawaii Volcanoes National Park, subject to the laws and regulations applicable to the Park.
 
 #### (f) Authorization of appropriations
 

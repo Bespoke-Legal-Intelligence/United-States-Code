@@ -1,6 +1,6 @@
-### §8172 . Employees not citizens or residents of the United States
+### §8172. Employees not citizens or residents of the United States
 
-In case of disability or death, resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2)),<sup>1</sup> occurring to an employee of anonappropriated fund instrumentality described by section 2105(c) of this title who is—
+In case of disability or death, resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2)),<sup>1</sup> occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is—
 
 &emsp;(1) not a citizen or permanent resident of the United States or a territory or possession of the United States; and
 
@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33” in introductory provisions.
+<b>1994</b>—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33” in introductory provisions.
 
 Pub. L. 103–272 substituted “Secretary of Transportation” for “Secretary of the Treasury” in concluding provisions.
 

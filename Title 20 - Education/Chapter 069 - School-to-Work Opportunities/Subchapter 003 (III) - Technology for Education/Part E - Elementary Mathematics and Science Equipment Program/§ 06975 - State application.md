@@ -36,5 +36,5 @@ Each application described in subsection (a) of this section shall—
 
 Not more than 5 percent of the funds allotted to each State educational agency under this part shall be used for the administrative costs of such agency associated with carrying out the program assisted under this part.
 
-(Pub. L. 89 10, title III, §3505, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3668.)
+(Pub. L. 89–10, title III, §3505, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3668.)
 

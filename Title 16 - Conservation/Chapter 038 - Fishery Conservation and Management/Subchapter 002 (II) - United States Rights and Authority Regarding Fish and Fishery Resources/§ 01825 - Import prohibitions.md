@@ -30,7 +30,7 @@ Upon receipt of any certification from the Secretary of State under subsection (
 
 #### (c) Removal of prohibition
 
-If the Secretary of State finds that the reasons for the imposition of any import prohibition under this section no longer prevail, the Secretary of State shall notify the Secretary of theTreasury, who shall promptly remove such import prohibition.
+If the Secretary of State finds that the reasons for the imposition of any import prohibition under this section no longer prevail, the Secretary of State shall notify the Secretary of the Treasury, who shall promptly remove such import prohibition.
 
 #### (d) Definitions
 

@@ -12,7 +12,7 @@ The medium-term goals in the first three Economic Reports and, subject to the pr
 
 &emsp;(2) reducing the rate of inflation, as set forth pursuant to section 1022(e) of this title, to not more than 3 per centum within a period not extending beyond the fifth calendar year after the first such Economic Report: <i>Provided</i>, That policies and programs for reducing the rate of inflation shall be designed so as not to impede achievement of the goals and timetables specified in clause (1) of this subsection for the reduction of unemployment; and
 
-&emsp;(3) reducing the share of the Nation's gross national product accounted for by Federal outlays to 21 per centum or less by 1981, and to 20 per centum or less by 1983 and thereafter, or the lowest level consistent with national needs and priorities: <i>Provided</i>, That policies and programs for achieving the goal specified in this clause shall be designed so as not to impede achievement of the goals and timetables specified in clause (1) of this subsection for the reduction of unemployment.
+&emsp;(3) reducing the share of the Nation's gross national product accounted for by Federaloutlays to 21 per centum or less by 1981, and to 20 per centum or less by 1983 and thereafter, or the lowest level consistent with national needs and priorities: <i>Provided</i>, That policies and programs for achieving the goal specified in this clause shall be designed so as not to impede achievement of the goals and timetables specified in clause (1) of this subsection for the reduction of unemployment.
 
 > For purposes of this subsection, the first Economic Report shall be the Report issued in the first calendar year after October 27, 1978.
 
@@ -62,7 +62,7 @@ CETA, referred to in subsec. (f)(2)(B), means the Comprehensive Employment and T
 
 #### Prior Provisions
 
-A prior section 4 of act Feb. 20, 1946, was renumbered section 10, which is classified to section 1023 of this title.
+A prior section 4 of act Feb. 20, 1946, was renumbered section 10 and is classified to section 1023 of this title.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §8420. Insurable interest reductions
 
-(a)(1) At the time of retiring under section 8412, 8413, or 8414, an employee or Member who is found to be in good health by the Office may elect to have such employee's or Member's annuity (as computed under section 8415) reducedunder paragraph (2) in order to provide an annuity under section 8444 for an individual having an insurable interest in the employee or Member. Such individual shall be designated by the employee or Member in writing.
+(a)(1) At the time of retiring under section 8412, 8413, or 8414, an employee or Member who is found to be in good health by the Office may elect to have such employee's or Member's annuity (as computed under section 8415) reduced under paragraph (2) in order to provide an annuity under section 8444 for an individual having an insurable interest in the employee or Member. Such individual shall be designated by the employee or Member in writing.
 
 (2) The annuity of the employee or Member making the election is reduced by 10 percent, and by 5 percent for each full 5 years the individual named is younger than the retiring employee or Member, except that the total reduction may not exceed 40 percent.
 

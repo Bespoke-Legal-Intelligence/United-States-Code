@@ -54,7 +54,7 @@ Inapplicability to Coast Guard.—This section does not apply to the Coast Guard
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 101–189, div. A, title VI, §661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–510, §1481(c)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title VI, §661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–510, §1481(c)(3).
 
 #### Implementation of Relocation Assistance Programs
 

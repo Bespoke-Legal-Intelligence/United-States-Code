@@ -8,7 +8,7 @@ In accordance with the provisions of sections 2112 and 2191 of this title, the C
 
 #### (1) In general
 
-&emsp;The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
+&emsp;The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted tothe Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
 
 &emsp;&emsp;(A) only rectifications of a formal character or minor technical or clerical changes which do not affect the substance or meaning of the texts as submitted to the Congress on June 19, 1979, or
 
@@ -24,7 +24,7 @@ In accordance with the provisions of sections 2112 and 2191 of this title, the C
 
 #### (3) Limitation on acceptance concerning major industrial countries
 
-&emsp;The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6),\(7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+&emsp;The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
 
 &emsp;&emsp;(A) that country is not a major factor in trade in the products covered by that agreement,
 
@@ -186,7 +186,7 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 
 &emsp;(i) the conditions under section 2(b) of that Act (93 Stat. 147) \[subsec. (b) of this section\] on acceptance of the Agreement on Trade in Civil Aircraft have been fulfilled;
 
-&emsp;(ii) the modifications provided for in section A of Annex II to Proclamation No. 4707 of December 11,1979 \[see note set out under section 2111 of this title\], which were authorized by section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267), shall be effective with respect to articles entered, or withdrawn from warehouse, for consumption on and after January 1, 1980; and
+&emsp;(ii) the modifications provided for in section A of Annex II to Proclamation No. 4707 of December 11, 1979 \[see note set out under section 2111 of this title\], which were authorized by section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267), shall be effective with respect to articles entered, or withdrawn from warehouse, for consumption on and after January 1, 1980; and
 
 &emsp;(iii) the amendment to section 466 of the Tariff Act of 1930 (19 U.S.C. 1466) provided for in section 601(a)(3) of the Trade Agreements Act of 1979 (93 Stat. 268) shall be effective with respect to entries made under section 466 on and after January 1, 1980.
 

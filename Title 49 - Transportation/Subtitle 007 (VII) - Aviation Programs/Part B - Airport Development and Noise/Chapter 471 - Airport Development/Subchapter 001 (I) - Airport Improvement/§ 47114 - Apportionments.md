@@ -26,7 +26,7 @@ Amounts Apportioned to Sponsors.—(1)(A) The Secretary shall apportion to the s
 
 (B) Landed weight under subparagraph (A) of this paragraph is the landed weight of aircraft landing at each of those airports and all those airports during the prior calendar year.
 
-(3)(A) Except as provided in subparagraph (B) of this paragraph, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs\(1) and (2) until the 49.5 percent limit is achieved.
+(3)(A) Except as provided in subparagraph (B) of this paragraph, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 49.5 percent limit is achieved.
 
 (B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved.
 
@@ -66,7 +66,7 @@ Alternative Apportionment for Alaska.—(1) Instead of apportioning amounts for 
 
 (f)
 
-Reducing Apportionments.—An amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section.
+Reducing Apportionments.—An amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to 50 percent of the projected revenues from the fee inthe fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386.)
 

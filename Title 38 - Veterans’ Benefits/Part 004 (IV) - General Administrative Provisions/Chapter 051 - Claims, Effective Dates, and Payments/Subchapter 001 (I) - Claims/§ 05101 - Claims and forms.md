@@ -178,7 +178,7 @@ Travel Expenses.—The members of the commission shall be allowed travel expense
 
 Staff.—(1) The chairman of the commission may, without regard to the civil service laws and regulations, appoint an executive director and such other personnel as may be necessary to enable the commission to perform its duties. The appointment of an executive director shall be subject to approval by the commission.
 
-“(2) The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for theexecutive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+“(2) The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 “(d)
 

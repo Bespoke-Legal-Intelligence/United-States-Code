@@ -6,11 +6,11 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(1) The identity of the creditor required to make disclosure.
 
-&emsp;(2)(A) The “amount financed”, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
+&emsp;(2)(A) The “amount financed”, using that term, which shall be the amount of credit ofwhich the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
 
 &emsp;&emsp;(i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
-&emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principalamount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section 1605 of this title; and
+&emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section 1605 of this title; and
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
@@ -62,23 +62,23 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
-(Pub. L. 90 321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96 221, title VI, §614(a) (c), Mar. 31, 1980, 94 Stat. 178, 179.)
+(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179.)
 
 #### References in Text
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93 533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96 221, §614(a), substituted provisions setting forth required disclosures by the creditor for transactions other than under an open end credit plan, for provisions setting forth required disclosures by the creditor for sales not under open end credit plans.
+1980—Subsec. (a). Pub. L. 96–221, §614(a), substituted provisions setting forth required disclosures by the creditor for transactions other than under an open end credit plan, for provisions setting forth required disclosures by the creditor for sales not under open end credit plans.
 
-Subsec. (b). Pub. L. 96 221, §614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
+Subsec. (b). Pub. L. 96–221, §614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
 
-Subsec. (c). Pub. L. 96 221, §614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
+Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Section Referred to in Other Sections
 

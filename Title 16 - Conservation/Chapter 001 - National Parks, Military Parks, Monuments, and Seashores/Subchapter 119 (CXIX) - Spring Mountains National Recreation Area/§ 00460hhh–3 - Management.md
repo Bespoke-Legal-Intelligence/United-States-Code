@@ -1,4 +1,4 @@
-### §460hhh–3 . Management
+### §460hhh–3. Management
 
 #### (a) In general
 

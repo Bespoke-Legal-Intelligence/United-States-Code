@@ -1,6 +1,6 @@
 ### §5101. Purpose
 
-The purpose of this chapter is to provide adequate protection against the risks to life andproperty inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation.
+The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759.)
 

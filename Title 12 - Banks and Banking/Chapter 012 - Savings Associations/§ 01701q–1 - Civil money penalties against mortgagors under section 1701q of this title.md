@@ -24,9 +24,9 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(B) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(C) Conveyance, assignment, or transfer of any beneficial interest in any trust holdingtitle to the property, or the interest of any general partner in a partnership owning the property, or any right to manage or receive the rents and profits from the mortgaged property, without the prior written approval of the Secretary.
+&emsp;&emsp;(C) Conveyance, assignment, or transfer of any beneficial interest in any trust holding title to the property, or the interest of any general partner in a partnership owning the property, or any right to manage or receive the rents and profits from the mortgaged property, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(D) Remodeling, adding to, reconstructing, or demolishing any part of the mortgaged property or subtracting from any real or personal property of the project, without the prior written approval of the Secretary.
+&emsp;&emsp;(D) Remodeling, adding to, reconstructing, or demolishing any part of the mortgagedproperty or subtracting from any real or personal property of the project, without the prior written approval of the Secretary.
 
 &emsp;&emsp;(E) Requiring, as a condition of the occupancy or leasing of any unit in the project, any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
 
@@ -78,7 +78,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) ofthis section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 

@@ -34,13 +34,13 @@ In awarding grants under this subpart, the Secretary shall give priority to demo
 
 A local educational agency shall use the Federal funds received under this subpart to supplement and not supplant other Federal, State and local funds available to the local educational agency.
 
-(Pub. L. 89 329, title V, §562, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 700.)
+(Pub. L. 89–329, title V, §562, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700.)
 
 #### Prior Provisions
 
-A prior section 1109a, Pub. L. 89 329, title V, §542, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1504; amended Pub. L. 100 50, §16(2), June 3, 1987, 101 Stat. 358, related to allocation of appropriations for leadership in educational administration development program, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1109a, Pub. L. 89–329, title V, §542, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1504; amended Pub. L. 100–50, §16(2), June 3, 1987, 101 Stat. 358, related to allocation of appropriations for leadership in educational administration development program, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 562 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1511, related to use of funds under Christa McAuliffe Fellowship program and was classified to section 1113a of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 562 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1511, related to use of funds under Christa McAuliffe Fellowship program and was classified to section 1113a of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 562 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2894, provided for allocation among States of funds appropriated for Carl D. Perkins Scholarship program and was classified to section 1119d 1 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 562 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2894, provided for allocation among States of funds appropriated for Carl D. Perkins Scholarship program and was classified to section 1119d–1 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 

@@ -1,4 +1,4 @@
-### §305 . Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958
+### §305. Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958
 
 When the requirements for application of both the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958, are met, determination as to which Convention applies shall, unless otherwise expressly agreed, be made as follows:
 

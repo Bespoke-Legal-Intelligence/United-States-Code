@@ -16,11 +16,11 @@
 
 > If a transaction covered by clause (1) or (2) is part of a project, the report must include a summarization  of  the  general  plan  for  that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection to be submitted to the Committees on Armed Services of the Senate and House of Representatives concerning any report of excess real property described in clause (5) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
-(b) The Secretary of each military department shall report annually to the Committees on Armed Services of the Senate and the House of Representatives on transactions described in subsection (a) that involve an estimated value of more than the small purchase threshold under section 2304(g) of this title but not more than $200,000.
+(b) The Secretary of each military department shall report annually to the Committees onArmed Services of the Senate and the House of Representatives on transactions described in subsection (a) that involve an estimated value of more than the small purchase threshold under section 2304(g) of this title but not more than $200,000.
 
 (c) This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
-(d) A statement in an instrument of conveyance, including a lease, that the requirements ofthis section have been met, or that the conveyance is not subject to this section, is conclusive.
+(d) A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
 
 (e) No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $200,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the Committees on Armed Services of the Senate and the House of Representatives.
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 86–500 reenacted subsection without change.
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) Credits and liabilities of the United States accrued as a result of acquisitions and transfers of logistic support, supplies, and services under the authority of this subchapter shall be liquidated not less often than once every 12 months by direct payment to the entity supplying such support, supplies, or services by the entity receiving such support, supplies, or services.
 
-(b) Payment-in-kind or exchange entitlements accrued as a result of acquisitions and transfers of logistic support, supplies, and services under authority of this subchapter shall be satisfied within 12 months after the date of the delivery of the logistic support, supplies, or services.
+(b) Payment-in-kind or exchange entitlements accrued as a result of acquisitions and transfers of logistic support, supplies, and services under authority of this subchapter shall be satisfiedwithin 12 months after the date of the delivery of the logistic support, supplies, or services.
 
 (Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2325; renumbered §2345, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(c), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, §1317(e), Oct. 5, 1994, 108 Stat. 2900.)
 

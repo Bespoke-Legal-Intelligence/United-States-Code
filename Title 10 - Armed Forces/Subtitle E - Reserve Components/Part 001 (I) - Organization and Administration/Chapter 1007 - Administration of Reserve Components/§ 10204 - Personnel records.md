@@ -14,7 +14,7 @@
 
 &emsp;(6) Such other information as the Secretary concerned may prescribe.
 
-(b) Under regulations to be prescribed by the Secretary of Defense, the Secretary of eachmilitary department shall maintain a record of the number of members of each class of each reserve component who, during each fiscal year, have participated satisfactorily in active duty for training and inactive duty training with pay.
+(b) Under regulations to be prescribed by the Secretary of Defense, the Secretary of each military department shall maintain a record of the number of members of each class of each reserve component who, during each fiscal year, have participated satisfactorily in active duty for training and inactive duty training with pay.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2977.)
 

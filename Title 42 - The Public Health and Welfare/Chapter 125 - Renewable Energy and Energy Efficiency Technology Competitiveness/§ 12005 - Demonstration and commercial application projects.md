@@ -52,7 +52,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;&emsp;(ix) associations of firms in the major energy efficiency manufacturing industries.
 
-> &emsp;Nothing in this subparagraph shall be construed to require the Secretary to reestablish the Advisory Committee in place under this subsection as of October 24, 1992, or to perform again any duties performed by such advisory committee before October 24, 1992.
+> &emsp;Nothing in this subparagraph shall be construed to require the Secretary to reestablish the Advisory Committee in place under this subsection as of October 24, 1992, or to performagain any duties performed by such advisory committee before October 24, 1992.
 
 &emsp;(B) Not later than 18 months after October 24, 1992, the Advisory Committee shall provide the Secretary with a report assessing the implementation of the program under this section, including specific recommendations for improvements or changes to the program and solicitation process. The Secretary shall transmit such report and, if any, the Secretary's recommendations to the Congress.
 
@@ -64,7 +64,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;(B) A solicitation for proposals under this paragraph shall establish a closing date for receipt of proposals. The Secretary may, if necessary, extend the closing date for receipt of proposals for a period not to exceed 90 days.
 
-&emsp;(C) Each solicitation under this paragraph shall include a description of the criteria, developed by the Secretary, according to whichproposals will be evaluated. In developing such criteria, the Secretary shall consider—
+&emsp;(C) Each solicitation under this paragraph shall include a description of the criteria, developed by the Secretary, according to which proposals will be evaluated. In developing such criteria, the Secretary shall consider—
 
 &emsp;&emsp;(i) the need for Federal involvement to commercialize the technology or speed commercialization of the technology;
 

@@ -176,7 +176,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (2) Pro rata allocation
 
-&emsp;Except as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6), the determination of which items are to be taken into account for each of the short taxable years referred to in paragraph (1) shall be made—
+&emsp;Except as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6), the determination of which items are to be takeninto account for each of the short taxable years referred to in paragraph (1) shall be made—
 
 &emsp;&emsp;(A) first by determining for the S termination year—
 

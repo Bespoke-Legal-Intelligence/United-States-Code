@@ -6,7 +6,7 @@
 
 &emsp;(1) To address environmental matters of concern to the Department of Defense and the Department of Energy through support for basic and applied research and development of technologies that can enhance the capabilities of the departments to meet their environmental obligations.
 
-&emsp;(2) To identify research, technologies, and other information developed by the Department of Defense and the Department of Energy for national defense purposes that wouldbe useful to governmental and private organizations involved in the development of energy technologies and of technologies to address environmental restoration, waste minimization, hazardous waste substitution, and other environmental concerns, and to share such research, technologies, and other information with such governmental and private organizations.
+&emsp;(2) To identify research, technologies, and other information developed by the Department of Defense and the Department of Energy for national defense purposes that would be useful to governmental and private organizations involved in the development of energy technologies and of technologies to address environmental restoration, waste minimization, hazardous waste substitution, and other environmental concerns, and to share such research, technologies, and other information with such governmental and private organizations.
 
 &emsp;(3) To furnish other governmental organizations and private organizations with data, enhanced data collection capabilities, and enhanced analytical capabilities for use by such organizations in the conduct of environmental research, including research concerning global environmental change.
 

@@ -10,7 +10,7 @@ The Federal funds appropriated pursuant to this subchapter shall be disbursed in
 
 #### (c) Federal, State, local and private contributions held in trust by Secretary
 
-The Secretary shall, on behalf of the Tribe, collect those contributions toward settlementappropriated or received by the State pursuant to section 5.2 of the Settlement Agreement and shall either hold such funds totalling $18,000,000, together with the Federal funds appropriated pursuant to this subchapter, in trust for the Tribe pursuant to the provisions of section 941i of this title or pay such funds pursuant to section 941d(g) of this title.
+The Secretary shall, on behalf of the Tribe, collect those contributions toward settlement appropriated or received by the State pursuant to section 5.2 of the Settlement Agreement and shall either hold such funds totalling $18,000,000, together with the Federal funds appropriated pursuant to this subchapter, in trust for the Tribe pursuant to the provisions of section 941i of this title or pay such funds pursuant to section 941d(g) of this title.
 
 #### (d) Nonpayment of State, local, or private contributions
 

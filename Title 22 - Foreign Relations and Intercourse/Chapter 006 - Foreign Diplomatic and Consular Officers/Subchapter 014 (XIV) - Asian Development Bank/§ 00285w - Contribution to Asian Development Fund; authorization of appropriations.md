@@ -2,7 +2,7 @@
 
 (a) The United States Governor of the Bank is authorized to contribute on behalf of the United States $66,750,000 to the Asian Development Fund, a special fund of the Bank: <i>Provided, however</i>, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
-(b) In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $66,750,000 for payment by the Secretary of the Treasury: <i>Provided, however</i>, That no funds maybe made available for such contribution for the fiscal year 1982.
+(b) In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $66,750,000 for payment by the Secretary of the Treasury: <i>Provided, however</i>, That no funds may be made available for such contribution for the fiscal year 1982.
 
 (Pub. L. 89–369, §26, as added Pub. L. 97–35, title XIII, §1352(a), Aug. 13, 1981, 95 Stat. 744.)
 

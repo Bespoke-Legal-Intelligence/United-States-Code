@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Except as provided in paragraph (2) of this subsection, only the Attorney General may bring a civil action for equitable relief in a district court of the United States when Amtrak or a rail carrier—
+General.—(1) Except as provided in paragraph (2) of this subsection, only the AttorneyGeneral may bring a civil action for equitable relief in a district court of the United States when Amtrak or a rail carrier—
 
 &emsp;(A) engages in or adheres to an action, practice, or policy inconsistent with this part;
 

@@ -468,6 +468,10 @@ Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions
 
 Subsecs. (e)(1) and (g) to (k) effective Jan. 1, 1940, and such subsections effective July 1, 1940, as provided by regulations for certain lithographed labeling and containers bearing certain labeling, see act June 23, 1939, ch. 242, 53 Stat. 853, set out as an Effective Date; Postponement in Certain Cases note under section 301 of this title.
 
+#### Construction of Amendments by Pub. L. 101–535
+
+Section 9 of Pub. L. 101–535 provided that: “The amendments made by this Act \[enacting section 343–1 of this title and amending this section and sections 321, 337, 345, and 371 of this title\] shall not be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], the Federal Meat Inspection Act \[21 U.S.C. 601 et seq.\], the Poultry Products Inspection Act \[21 U.S.C. 451 et seq.\], and the Egg Products Inspection Act \[21 U.S.C. 1031 et seq.\].”
+
 #### Regulations
 
 Section 2(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that:
@@ -480,7 +484,7 @@ Section 2(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §
 
 &emsp;“(C) permit the label or labeling of food to include nutrition information which is in addition to the information required by such section 403(q) and which is of the type described in subparagraph (1) or (2) of such section, and
 
-&emsp;“(D) permit the nutrition information on the label or labeling of a food to remain the same or permit the information to be stated as a range even though (i) there are minor variations in the nutritional value of the food which occur in the normal course of the production or processing of the food, or (ii) the food is comprised of an assortment of similar foods which have variations in nutritional value.
+&emsp;“(D) permit the nutrition information on the label or labeling of a food to remain the same or permit the information to be stated as a range even though (i)there are minor variations in the nutritional value of the food which occur in the normal course of the production or processing of the food, or (ii) the food is comprised of an assortment of similar foods which have variations in nutritional value.
 
 “(2) If the Secretary of Health and Human Services does not promulgate final regulations under paragraph (1) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of new status of the proposed regulations \[see 57 F.R. 56347\].
 
@@ -531,10 +535,6 @@ Section 3(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §
 “(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations \[see 57 F.R. 56347\].”
 
 \[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.\]
-
-#### Construction of Amendments by Pub. L. 101–535
-
-Section 9 of Pub. L. 101–535 provided that: “The amendments made by this Act \[enacting section 343–1 of this title and amending this section and sections 321, 337, 345, and 371 of this title\] shall not be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], the Federal Meat Inspection Act \[21 U.S.C. 601 et seq.\], the Poultry Products Inspection Act \[21 U.S.C. 451 et seq.\], and the Egg Products Inspection Act \[21 U.S.C. 1031 et seq.\].”
 
 #### Transfer of Functions
 

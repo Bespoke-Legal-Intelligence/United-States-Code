@@ -30,7 +30,7 @@ The value of the gross estate shall include the value of all property.
 
 &emsp;&emsp;(B) by a disposition which is of such nature that if it were a transfer of property owned by the decedent such property would be includible in the decedent's gross estate under section 2035, 2036, or 2037,
 
-> &emsp;exercises a power of appointment created after October 21, 1942, by creating another power of appointment which under the applicable local law can be validly exercised so as to postpone the vesting of any estate or interest in suchproperty, or suspend the absolute ownership or power of alienation of such property, for a period ascertainable without regard to the date of the creation of the first power.
+> &emsp;exercises a power of appointment created after October 21, 1942, by creating another power of appointment which under the applicable local law can be validly exercised so as to postpone the vesting of any estate or interest in such property, or suspend the absolute ownership or power of alienation of such property, for a period ascertainable without regard to the date of the creation of the first power.
 
 #### (b) Definitions
 

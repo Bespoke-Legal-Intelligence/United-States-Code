@@ -16,7 +16,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a),
 
 #### Prior Provisions
 
-A prior section 5 of act Feb. 20, 1946, was renumbered section 11, which is classified to section 1024 of this title.
+A prior section 5 of act Feb. 20, 1946, was renumbered section 11 and is classified to section 1024 of this title.
 
 #### Section Referred to in Other Sections
 

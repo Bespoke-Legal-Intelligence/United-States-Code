@@ -74,7 +74,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §813; added Oct. 27, 1992, Pub.
 
 45:657.
 
-In subsection (a), before clause (1), the words “its plan, submitted under section 305(f) of the Rail Passenger Service Act” are substituted for “The Corporation shall, not later than January 1, 1981, develop and submit to the Congress and to the President a comprehensive plan” because of the restatement. In clause (4), the words “on all trains” are omitted as surplus. In clause (6), the words “en route” are omitted as surplus. In clause (7), the words “as soon as practical after September 29, 1979” are omitted as executed. The words “a continuous reduction in losses associated with” are omitted as surplus. In clause (8), the word “authorities” is substituted for “entities” for consistency in the revised title and with other titles of the United States Code. In clause (9), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131. The words “Administrator of the” are added 2 times because of 49:104 and section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086), respectively.
+In subsection (a), before clause (1), the words “its plan, submitted under section 305(f) of the Rail Passenger Service Act” are substituted for “The Corporation shall, not later than January 1, 1981, develop and submit to the Congress and to the President a comprehensive plan” because of the restatement. In clause (4), the words “on all trains” are omitted as surplus. In clause (6), the words “en route” are omitted as surplus. In clause (7), the words “as soon as practical after September 29, 1979” are omitted as executed. The words “acontinuous reduction in losses associated with” are omitted as surplus. In clause (8), the word “authorities” is substituted for “entities” for consistency in the revised title and with other titles of the United States Code. In clause (9), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131. The words “Administrator of the” are added 2 times because of 49:104 and section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086), respectively.
 
 In subsection (b)(2)(A), the word “particular” is omitted as surplus.
 
@@ -88,5 +88,5 @@ Section 305(f) of the Rail Passenger Service Act, referred to in subsec. (a), is
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives, with certain jurisdiction relating to railroads, railway labor, or railway retirement and unemployment given to Committee on Transportation and Infrastructure of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives, in case of provisions of law relating to railroads, railway labor, or railroad retirement and unemployment, by section 1(c)(1) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

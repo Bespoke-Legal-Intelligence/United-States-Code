@@ -72,7 +72,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably means the date of enactment of Pub. L. 95–474, which was approved Oct. 17, 1978.
 
-Rules 9 and 10 of the International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), are set out in Appendix A to Part 81 of Title 33, Code of Federal Regulations.
+For the International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
 
 #### Amendments
 

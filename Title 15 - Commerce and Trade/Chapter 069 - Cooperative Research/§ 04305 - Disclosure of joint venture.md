@@ -48,19 +48,19 @@ Any action taken or not taken by the Attorney General or the Commission with res
 
 (2) No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
 
-(Pub. L. 98 462, §6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103 42, §3(f), June 10, 1993, 107 Stat. 119.)
+(Pub. L. 98–462, §6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103–42, §3(f), June 10, 1993, 107 Stat. 119.)
 
 #### Amendments
 
-1993—Pub. L. 103 42, §3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
+1993—Pub. L. 103–42, §3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
 
-Subsec. (a). Pub. L. 103 42, §3(f)(2), (3), substituted “joint venture” for “joint research and development venture” and “October 11, 1984” for “the date of the enactment of this Act” and added par. (3).
+Subsec. (a). Pub. L. 103–42, §3(f)(2), (3), substituted “joint venture” for “joint research and development venture” and “October 11, 1984” for “the date of the enactment of this Act” and added par. (3).
 
-Subsecs. (d)(2), (e). Pub. L. 103 42, §3(f)(3), substituted “joint venture” for “joint research and development venture”.
+Subsecs. (d)(2), (e). Pub. L. 103–42, §3(f)(3), substituted “joint venture” for “joint research and development venture”.
 
 #### Reports on Joint Ventures and United States Competitiveness
 
-Section 4 of Pub. L. 103 42 provided that:
+Section 4 of Pub. L. 103–42 provided that:
 
 “(a)
 

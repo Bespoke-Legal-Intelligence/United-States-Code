@@ -54,9 +54,9 @@
 
 In each fiscal year after the first fiscal year a grantee receives assistance under this subchapter, the grantee shall demonstrate in the application submitted for each fiscal year after such first year that a portion of the services provided by such grantee is supported through non-Federal contributions, which contributions may be in cash or in kind.
 
-(Pub. L. 103 227, title IV, §402, Mar. 31, 1994, 108 Stat. 187.)
+(Pub. L. 103–227, title IV, §402, Mar. 31, 1994, 108 Stat. 187.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2)(C), was in the original “this Act”, meaning Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsec. (a)(2)(C), was in the original “this Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

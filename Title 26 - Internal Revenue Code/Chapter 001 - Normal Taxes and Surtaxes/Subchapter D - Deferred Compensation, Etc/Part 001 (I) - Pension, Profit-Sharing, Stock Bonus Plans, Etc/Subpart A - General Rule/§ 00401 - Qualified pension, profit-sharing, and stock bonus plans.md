@@ -1726,7 +1726,7 @@ Reference.—The amendment made by subsection (a)(11) \[amending section 404 of 
 
 Section 766(d) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section and sections 1054 and 1322 of Title 29, Labor\] shall apply to plan amendments adopted on or after the date of enactment of this Act \[Dec. 8, 1994\].”
 
-Amendment by section 776(d) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing after final regulations implementing section 776 of Pub. L. 103–465 are prescribed by the Pension Benefit Guaranty Corporation, see section 766(e) of Pub. L. 103–465, set out as a note under section 1056 of Title 29, Labor.
+Amendment by section 776(d) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of Title 29, Labor.
 
 Section 781 of title VII of Pub. L. 103–465 provided that: “Except as otherwise provided in this subtitle \[subtitle F (§§750–781) of title VII of Pub. L. 103–465, enacting sections 1310, 1311, and 1350 of Title 29, Labor, amending this section, sections 404, 411, 412, 415, 417, 4971, and 4972 of this title, and sections 1053 to 1056, 1082, 1132, 1301, 1303, 1305, 1306, 1322, 1341, 1342, and 1343 of Title 29, and enacting provisions set out as notes under this section, sections 1, 411, 412, and 4972 of this title, and sections 1056, 1082, 1303, 1306, 1310, 1311, 1322, 1341, and 1342 of Title 29\], the amendments made by this subtitle shall be effective on the date of enactment of this Act \[Dec. 8, 1994\].”
 
@@ -1784,7 +1784,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Transition rule for certain annuity contracts.—If, as of July 1, 1992, a State law prohibits adirect trustee-to-trustee transfer from an annuity contract described in section 403(b) of the Internal Revenue Code of 1986 which was purchased for an employee by an employer which is a State or a political subdivision thereof (or an agency or instrumentality of any 1 or more of either), the amendments made by this section shall not apply to distributions before the earlier of—
+Transition rule for certain annuity contracts.—If, as of July 1, 1992, a State law prohibits a direct trustee-to-trustee transfer from an annuity contract described in section 403(b) of the Internal RevenueCode of 1986 which was purchased for an employee by an employer which is a State or a political subdivision thereof (or an agency or instrumentality of any 1 or more of either), the amendments made by this section shall not apply to distributions before the earlier of—
 
 &emsp;“(A) 90 days after the first day after July 1, 1992, on which such transfer is allowed under State law, or
 
@@ -1994,7 +1994,7 @@ Transition rules for certain governmental and tax-exempt plans.—Subparagraph (
 
 &emsp;&emsp;“(ii) a tax-exempt organization before July 2, 1986.
 
-> &emsp;In the case of an arrangement described in clause (i), the amendments made by subsections (a), (b)(4), and (d) shall apply to years beginning after December 31,1988. If clause (i) or (ii) applies to any arrangement adopted by a governmental unit, then any cash or deferred arrangement adopted by such unit on or after the date referred to in the applicable clause shall be treated as adopted before such date.
+> &emsp;In the case of an arrangement described in clause (i), the amendments made by subsections (a), (b)(4), and (d) shall apply to years beginning after December 31, 1988. If clause (i) or (ii) applies to any arrangement adopted by a governmental unit, then any cash or deferred arrangement adopted by such unit on or afterthe date referred to in the applicable clause shall be treated as adopted before such date.
 
 “(3)
 
@@ -2212,7 +2212,7 @@ Repeal of section 242 of tefra.—The amendment made by subsection (a)(2) \[repe
 
 “(3)
 
-Transition rule.—A trust forming part of a plan shall not be disqualified under paragraph (9) of section401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a)(1), by reason of distributions under a designation (before January 1, 1984) by any employee in accordance with a designation described in section 242(b)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 (as in efffect \[sic\] before the amendments made by this Act) \[formerly set out as an Effective Date of 1982 Amendment note below\].
+Transition rule.—A trust forming part of a plan shall not be disqualified under paragraph (9) of section 401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a)(1), by reasonof distributions under a designation (before January 1, 1984) by any employee in accordance with a designation described in section 242(b)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 (as in efffect \[sic\] before the amendments made by this Act) \[formerly set out as an Effective Date of 1982 Amendment note below\].
 
 “(4)
 
@@ -2596,7 +2596,7 @@ Payments under section not wages for purposes of—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41, 62, 72, 83, 101, 104, 105, 120, 125, 127, 129, 132, 162, 172, 219, 280G, 318, 402, 403, 404, 404A, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 420, 447, 448, 457, 501, 503, 505, 511, 513, 514, 542, 818, 856, 871, 1042, 1492, 1563, 2503, 3121, 3306, 3401, 3405, 3508, 4941, 4972, 4974, 4975, 4978, 4979, 4980, 4980A, 4980B, 4982, 6033, 6043, 6047, 6058, 6072, 6104, 6324, 7476, 7701 of this title; title 5 section 8440; title 11 section 522; title 12 sections 1464, 1786, 1787, 1821, 1828, 1831f, 4502; title 15 sections 77c, 78c, 78<i>l</i>, 80a–3, 636; title 19 section 2345; title 28 section 3010; title 29 sections 623, 1002, 1053, 1082, 1103, 1107, 1108, 1132, 1167, 1301, 1321, 1322, 1344; title 42 sections 300bb–8, 409; title 45 sections 702, 726, 1347.
+This section is referred to in sections 41, 62, 72, 83, 101, 104, 105, 120, 125, 127, 129, 132, 162, 172, 219, 280G, 318, 402, 403, 404, 404A, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 420, 447, 448, 457, 501, 503, 505, 511, 513, 514, 542, 818, 856, 871, 1042, 1492, 1563, 2503, 3121, 3306, 3401, 3405, 3508, 4941, 4972, 4974, 4975, 4978, 4979, 4980, 4980A, 4980B, 4982, 6033, 6043, 6047, 6058, 6072, 6104, 6324, 7476, 7701 of this title; title 4 section 114; title 5 section 8440; title 11 section 522; title 12 sections 1464, 1786, 1787, 1821, 1828, 1831f, 4502; title 15 sections 77c, 78c, 78<i>l</i>, 80a–3, 636; title 19 section 2345; title 28 section 3010; title 29 sections 623, 1002, 1053, 1082, 1103, 1107, 1108, 1132, 1167, 1301, 1321, 1322, 1344; title 42 sections 300bb–8, 409; title 45 sections 702, 726, 1347.
 
 <i><sup>1</sup></i><i> So in original. Period before semicolon probably should be a closing parenthesis.</i>
 

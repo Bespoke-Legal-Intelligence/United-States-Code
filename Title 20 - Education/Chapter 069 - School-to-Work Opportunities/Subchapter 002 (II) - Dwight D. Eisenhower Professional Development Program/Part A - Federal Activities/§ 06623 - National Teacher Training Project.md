@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(M) in the 20 years of its existence, over 1,100,000 teachers, administrators, and parents have participated in National Writing Project programs;
 
-&emsp;&emsp;(N) less than $16 per teacher was the average cost in Federal dollars for all teacher training at writing projects in academic year 1991 1992;
+&emsp;&emsp;(N) less than $16 per teacher was the average cost in Federal dollars for all teacher training at writing projects in academic year 1991–1992;
 
 &emsp;&emsp;(O) for every dollar in Federal support, the National Writing Project provides over $5 in matching funds from States, local universities and schools, and the private sector;
 
@@ -162,7 +162,7 @@ The selection process for participation in a teacher training program described 
 
 A contractor entering into a contract under subsection (c)(1) of this section shall not spend more than 5 percent of funds received under the contract for administrative costs.
 
-(Pub. L. 89 10, title II, §2103, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3617.)
+(Pub. L. 89–10, title II, §2103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3617.)
 
 #### Section Referred to in Other Sections
 

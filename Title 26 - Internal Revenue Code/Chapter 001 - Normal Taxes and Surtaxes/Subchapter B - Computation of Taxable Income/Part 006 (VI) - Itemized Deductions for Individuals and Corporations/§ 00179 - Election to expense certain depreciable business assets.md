@@ -76,7 +76,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(C) the basis of the property in the hands of the person acquiring it is not determined—
 
-&emsp;&emsp;&emsp;(i) in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or
+&emsp;&emsp;&emsp;(i) in whole or in part by reference to the adjusted basis of such property in thehands of the person from whom acquired, or
 
 &emsp;&emsp;&emsp;(ii) under section 1014(a) (relating to property acquired from a decedent).
 
@@ -150,7 +150,7 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(a)(19), substituted “tangible proper
 
 Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted “in the active conduct of”.
 
-Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted “Treatment of” for “Dollar limitation in case of” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.”
+Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted “Treatment of” for “Dollar limitation in case of” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership andwith respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.”
 
 Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out “before the close of the second taxable year following the taxable year in which it is placed in service by the taxpayer” after “at any time”.
 

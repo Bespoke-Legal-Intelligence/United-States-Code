@@ -38,7 +38,7 @@ The Secretary may make an award of a grant or contract under subsection (a) of t
 
 #### (2) Reports
 
-&emsp;Not later than February 1, 1994, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report describing the progress made by projects under subsection (a) of this section during the preceding fiscal years toward the goals established under paragraph (1). For purposes of the report, the extent of such progress shall be measured through the methodology established under subparagraph (B) of such paragraph.
+&emsp;Not later than February 1, 1994, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor andHuman Resources of the Senate, a report describing the progress made by projects under subsection (a) of this section during the preceding fiscal years toward the goals established under paragraph (1). For purposes of the report, the extent of such progress shall be measured through the methodology established under subparagraph (B) of such paragraph.
 
 (July 1, 1944, ch. 373, title VII, §762, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2046.)
 
@@ -54,7 +54,7 @@ Another prior section 762 of act July 1, 1944, was classified to section 295a of
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

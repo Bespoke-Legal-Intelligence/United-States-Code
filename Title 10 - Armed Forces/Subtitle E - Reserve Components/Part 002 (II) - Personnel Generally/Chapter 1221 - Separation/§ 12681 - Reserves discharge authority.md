@@ -1,6 +1,6 @@
 ### §12681. Reserves: discharge authority
 
-Subject to other provisions of this title, reserve commissioned officers may be discharged at the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
+Subject to other provisions of this title, reserve commissioned officers may be dischargedat the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
 
@@ -102,7 +102,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 “The protections, preferences, and benefits provided for in regulations prescribed in accordance with this subtitle do not apply with respect to a member of the Selected Reserve who is discharged from a reserve component of the Armed Forces or is transferred from the Selected Reserve to another category of the Ready Reserve, to the Standby Reserve, or to the Retired Reserve—
 
-&emsp;“(1) at the request of the member unless such request was made and approved under a provision of this subtitle or section 1331a \[now 12731a\] of title 10, United States Code (as added by section 4417);
+&emsp;“(1) at the request of the member unless such request was made and approved under a provision ofthis subtitle or section 1331a \[now 12731a\] of title 10, United States Code (as added by section 4417);
 
 &emsp;“(2) because the member no longer meets the qualifications for membership in the Selected Reserve set forth in any provision of law as in effect on the day before the date of the enactment of this Act \[Oct. 23, 1992\];
 

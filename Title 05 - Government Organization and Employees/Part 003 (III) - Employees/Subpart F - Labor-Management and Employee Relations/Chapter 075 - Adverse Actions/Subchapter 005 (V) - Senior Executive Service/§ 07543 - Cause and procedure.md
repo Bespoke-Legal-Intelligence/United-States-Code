@@ -22,13 +22,13 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–615 inserted reference to failure to accept a directed reassignment or to accompany a position in a transfer of function.
+<b>1984</b>—Subsec. (a). Pub. L. 98–615 inserted reference to failure to accept a directed reassignment or to accompany a position in a transfer of function.
 
-1981—Subsec. (a). Pub. L. 97–35 substituted “misconduct, neglect of duty, or malfeasance” for “such cause as will promote the efficiency of the service”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “misconduct, neglect of duty, or malfeasance” for “such cause as will promote the efficiency of the service”.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Effective Date of 1981 Amendment
 

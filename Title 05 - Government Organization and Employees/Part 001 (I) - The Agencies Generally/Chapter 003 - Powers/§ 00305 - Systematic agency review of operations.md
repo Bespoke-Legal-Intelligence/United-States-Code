@@ -26,7 +26,7 @@
 
 &emsp;(3) identifying the employees whose personal efforts have caused their units to be outstanding in efficiency and economy of operations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, §615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L.96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, §615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
 
 Historical and Revision Notes
 
@@ -58,9 +58,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1983—Subsec. (a)(3) to (8). Pub. L. 97–468 struck out par. (3), which excluded The Alaska Railroad, and redesignated pars. (4) to (8) as (3) to (7), respectively.
+<b>1983</b>—Subsec. (a)(3) to (8). Pub. L. 97–468 struck out par. (3), which excluded The Alaska Railroad, and redesignated pars. (4) to (8) as (3) to (7), respectively.
 
-1979—Subsec. (a)(7). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (a)(7). Pub. L. 96–70 substituted “Commission” for “Company”.
 
 Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
 

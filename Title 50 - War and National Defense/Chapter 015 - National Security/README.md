@@ -245,6 +245,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—APPLICATION OF SANCTIONS LAWS TO INTELLIGENCE ACTIVITIES
+
+|  |  |
+| :--- | ---: |
+| [441\.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441%20-%20Stay%20of%20sanctions.md) | Stay of sanctions. |
+| [441a.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441a%20-%20Extension%20of%20stay.md) | Extension of stay. |
+| [441b.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441b%20-%20Reports.md) | Reports. |
+| [441c.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441c%20-%20Laws%20subject%20to%20stay.md) | Laws subject to stay. |
+| [441d.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441d%20-%20Application.md) | Application. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -258,3 +270,4 @@
 - [Subchapter 004 (IV) - Protection of Certain National Security Information](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/README.md)
 - [Subchapter 005 (V) - Protection of Operational Files of the Central Intelligence Agency](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files%20of%20the%20Central%20Intelligence%20Agency/README.md)
 - [Subchapter 006 (VI) - Access to Classified Information](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/README.md)
+- [Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/README.md)

@@ -16,7 +16,7 @@
 
 (3) When paragraph (2) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the heads of the major divisions of the Office of the Judge Advocate General, in the order directed by the Secretary of the Air Force, shall perform the duties of the Judge Advocate General, unless otherwise directed by the President.
 
-(e) Under regulations prescribed by the Secretary of Defense, the Secretary of the AirForce, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+(e) Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Sept. 8, 1980, Pub. L. 96–343, §12(a), (b)(1), 94 Stat. 1130, 1131; renumbered §8037, Oct. 1, 1986, Pub. L. 99–433, title V, §522(f), 100 Stat. 1063; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(c), 108 Stat. 2751.)
 
@@ -52,7 +52,7 @@ R.S. 1199.
 
 June 23, 1874, ch. 458, §2, 18 Stat. 244.
 
-In subsection (a), the words “subject to the provisions of section 741 of Title 50” are omitted as surplusage. The words “but may be sooner terminated, or extended, by the President” are substituted for 10:1840(a) (last 11 words of 1st sentence, and 2d sentence). 10:1840(a) (1st 46 words of 3d sentence) is omitted as surplusage. 10:1840(a) (last sentence) is omitted as executed. The words “by the President, by and with the advice and consent of the Senate”, as they relate to the appointment as a major general in the Regular Air Force, are omitted as covered by section 8284 of this title.
+In subsection (a), the words “subject to the provisions of section 741 of Title 50” are omitted as surplusage. The words “but may be sooner terminated, or extended, by the President” are substituted for 10:1840(a) (last 11 words of 1st sentence, and 2d sentence). 10:1840(a) (1st 46 words of 3d sentence) is omitted as surplusage. 10:1840(a) (last sentence) is omitted as executed. The words “by the President, by and with the advice and consent of the Senate”, as they relate to theappointment as a major general in the Regular Air Force, are omitted as covered by section 8284 of this title.
 
 In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage. The words “at least” are substituted for the words “not less than a total”.
 

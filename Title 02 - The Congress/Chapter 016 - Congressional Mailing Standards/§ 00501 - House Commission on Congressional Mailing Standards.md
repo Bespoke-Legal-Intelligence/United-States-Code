@@ -2,7 +2,7 @@
 
 #### (a) Establishment; designation
 
-There is established a special commission of the House of Representatives, designated the“House Commission on Congressional Mailing Standards” (herein referred to as the “Commission”).
+There is established a special commission of the House of Representatives, designated the “House Commission on Congressional MailingStandards” (herein referred to as the “Commission”).
 
 #### (b) Membership; political party representation; Chairman; vacancies; quorum
 
@@ -44,5 +44,5 @@ Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as 
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished and its jurisdiction given primarily to Committee on Government Reform and Oversight by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service with respect to House Commission on Congressional Mailing Standards treated as referring to Committee on House Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 

@@ -2,7 +2,7 @@ Part A—Improving Basic Programs Operated by Local Educational Agencies
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1111a, 1113, 6302, 6362, 6368, 6394, 6396, 6422, 6491, 6493, 6642, 6643, 6645, 6647, 6648, 6649, 6650, 6841, 6894, 6895, 6896, 6952, 6974, 7111, 7713, 8272, 8801, 8826, 8857 of this title; title 29 section 1645; title 42 section 9855b.
+This part is referred to in sections 1111a, 1113, 6302, 6362, 6368, 6394, 6396, 6422, 6491, 6493, 6642, 6643, 6645, 6647, 6648, 6649, 6650, 6841, 6894, 6895, 6896, 6952, 6974, 7111, 7713, 8272, 8801, 8826, 8857 of this title; title 29 section 1645; title 31 section 6703; title 42 section 9855b.
 
 
 ---

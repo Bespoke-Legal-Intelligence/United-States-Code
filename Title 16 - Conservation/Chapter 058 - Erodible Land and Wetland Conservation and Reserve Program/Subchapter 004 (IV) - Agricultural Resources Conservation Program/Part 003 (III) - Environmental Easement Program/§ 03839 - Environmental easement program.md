@@ -32,7 +32,7 @@ The Secretary shall, during the 1991 through 1995 calendar years, formulate and 
 
 #### References in Text
 
-The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended,which is classified generally to chapter 29 (§1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Amendments
 

@@ -70,7 +70,7 @@ For purposes of this part—
 
 &emsp;(10)(A) The term “packaged terminal air conditioner” means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder and intended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability by builder's choice of hot water, steam, or electricity.
 
-&emsp;(B) The term “packaged terminal heat pump” means a packaged terminal air conditioner that utilizes reverse cycle refrigerationas its prime heat source and should have supplementary heat source available to builders with the choice of hot water, steam, or electric resistant heat.
+&emsp;(B) The term “packaged terminal heat pump” means a packaged terminal air conditioner that utilizes reverse cycle refrigeration as its prime heat source and should have supplementary heat source available to builders with the choice of hot water, steam, or electric resistant heat.
 
 &emsp;(11)(A) The term “warm air furnace” means a self-contained oil- or gas-fired furnace designed to supply heated air through ducts to spaces that require it and includes combination warm air furnace/electric air conditioning units but does not include unit heaters and duct furnaces.
 

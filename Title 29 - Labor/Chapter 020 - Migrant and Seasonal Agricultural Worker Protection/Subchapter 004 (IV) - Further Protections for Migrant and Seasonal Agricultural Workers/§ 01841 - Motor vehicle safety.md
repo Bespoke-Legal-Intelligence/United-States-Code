@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), this section applies to the transportation of any migrant or seasonal agricultural worker.
 
-(2) This section does not apply to the transportation of any migrant or seasonal agriculturalworker on a tractor, combine, harvester, picker, or other similar machinery and equipment while such worker is actually engaged in the planting, cultivating, or harvesting of any agricultural commodity or the care of livestock or poultry.
+(2) This section does not apply to the transportation of any migrant or seasonal agricultural worker on a tractor, combine, harvester, picker, or other similar machinery and equipment while such worker is actually engaged in the planting, cultivating, or harvesting of any agricultural commodity or the care of livestock or poultry.
 
 #### (b) Applicability of standards, licensing, and insurance requirements; promulgation of regulations for standards; criteria, etc., for regulations; amount of insurance required
 
@@ -30,11 +30,11 @@
 
 &emsp;(v) the extent to which a proposed standard would cause an undue burden on agricultural employers, agricultural associations, or farm labor contractors.
 
-(C) Standards prescribed by the Secretary under subparagraph (A) shall be in addition to, and shall not supersede or modify, any standard under part II of the Interstate Commerce Act, or any successor provision of subtitle IV of title 49, or regulations issued thereunder, which is independently applicable to transportation to which this section applies. A violation of any such standard shall also constitute a violation under this chapter.
+(C) Standards prescribed by the Secretary under subparagraph (A) shall be in addition to, and shall not supersede or modify, any standard under part B of subtitle IV of title 49, or regulations issued thereunder, which is independently applicable to transportation to which this section applies. A violation of any such standard shall also constitute a violation under this chapter.
 
-(D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 3102 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
+(D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
 
-(3) The level of the insurance required by paragraph (1)(C) shall be at least the amount currently required for common carriers of passengers under part II of the Interstate Commerce Act, and any successor provision of subtitle IV of title 49, and regulations prescribed thereunder.
+(3) The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forth in paragraph (2)(B) and similar farmworker transportation requirements under State law.
 
 #### (c) Adjustments of insurance requirements in the event of workers’ compensation coverage
 
@@ -48,19 +48,33 @@ If an agricultural employer, agricultural association, or farm labor contractor 
 
 The Secretary shall, by regulations promulgated in accordance with section 1861 of this title not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.
 
-(Pub. L. 97–470, title IV, §401, Jan. 14, 1983, 96 Stat. 2594.)
+(Pub. L. 97–470, title IV, §401, Jan. 14, 1983, 96 Stat. 2594; Pub. L. 104–49, §5(a), Nov. 15, 1995, 109 Stat. 434; Pub. L. 104–88, title III, §333, Dec. 29, 1995, 109 Stat. 953.)
 
 #### References in Text
-
-Part II of the Interstate Commerce Act, referred to in subsec. (b)(2)(C), (3), which was classified to chapter 8 (§301 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
 The effective date of this chapter, referred to in subsecs. (b)(2)(D) and (d), is the effective date of Pub. L. 97–470, which is ninety days from the date of enactment of Pub. L. 97–470, which was approved Jan. 14, 1983.
 
 #### Codification
 
-In subsec. (b)(2)(D), “section 3102 of title 49” substituted for “section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, §6(a), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
+In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
+
+#### Amendments
+
+1995—Subsec. (b)(2)(C). Pub. L. 104–88 substituted “part B of subtitle IV of title 49” for “part II of the Interstate Commerce Act, or any successor provision of subtitle IV of title 49”.
+
+Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The level of the insurance required by paragraph (1)(C) shall be at least the amount currently required for common carriers of passengers under part II of the Interstate Commerce Act, and any successor provision of subtitle IV of title 49, and regulations prescribed thereunder.”
+
+#### Effective Date of 1995 Amendments
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+Section 5(c) of Pub. L. 104–49 provided that: “The amendment made by subsection (a) \[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first.”
+
+#### Regulations
+
+Section 5(b) of Pub. L. 104–49 provided that: “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1812 of this title.
+This section is referred to in sections 1812, 1854 of this title.
 

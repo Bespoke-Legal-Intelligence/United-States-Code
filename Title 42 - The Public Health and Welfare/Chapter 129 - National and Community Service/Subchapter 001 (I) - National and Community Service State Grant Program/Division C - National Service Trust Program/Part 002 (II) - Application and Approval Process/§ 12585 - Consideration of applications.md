@@ -40,7 +40,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;(4) The quality of the leadership of the national service program, the past performance of the program, and the extent to which the program builds on existing programs.
 
-&emsp;(5) The extent to which participants of the national service program are recruited from among residents of the communities in which projects are to be conducted, and the extent to which participants and community residents are involved in the design, leadership, and operation of the program.
+&emsp;(5) The extent to which participants of the national service program are recruited from among residents of the communities in whichprojects are to be conducted, and the extent to which participants and community residents are involved in the design, leadership, and operation of the program.
 
 &emsp;(6) The extent to which projects would be conducted in the following areas where they are needed most:
 
@@ -122,7 +122,7 @@ In making assistance available under section 12571 of this title and in providin
 
 #### (2) Resubmission and reconsideration
 
-&emsp;The Corporation shall provide a State Commission notified under paragraph (1) with a reasonable opportunity to revise and resubmit the application. At the request of the State Commission, the Corporation shall provide technical assistance to the State Commission as part of the resubmission process. The Corporation shall promptly reconsider an application resubmitted under this paragraph.
+&emsp;The Corporation shall provide a State Commission notified under paragraph (1) with areasonable opportunity to revise and resubmit the application. At the request of the State Commission, the Corporation shall provide technical assistance to the State Commission as part of the resubmission process. The Corporation shall promptly reconsider an application resubmitted under this paragraph.
 
 #### (3) Reallotment
 

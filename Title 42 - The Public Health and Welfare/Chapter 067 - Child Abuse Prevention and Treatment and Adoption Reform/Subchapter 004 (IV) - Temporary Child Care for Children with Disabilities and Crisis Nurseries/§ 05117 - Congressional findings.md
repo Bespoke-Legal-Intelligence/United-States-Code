@@ -14,7 +14,7 @@ Pub. L. 102–295, title II, §201, May 28, 1992, 106 Stat. 200, provided that: 
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–127, §1, Oct. 25, 1989, 103 Stat. 770, provided that: “This Act \[amending sections 5117a, 5117c, and 5117d of this title, enacting provisions set out as a note under section 5117a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Children With Disabilities Temporary Care Reauthorization Act of 1989’.”
+Pub. L. 101–127, §1, Oct. 25, 1989, 103 Stat. 770, provided that: “This Act \[amending sections 5117a, 5117c, and5117d of this title, enacting provisions set out as a note under section 5117a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Children With Disabilities Temporary Care Reauthorization Act of 1989’.”
 
 #### Short Title
 

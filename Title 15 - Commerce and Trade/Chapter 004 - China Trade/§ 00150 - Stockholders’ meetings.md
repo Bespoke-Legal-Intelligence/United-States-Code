@@ -1,4 +1,4 @@
-### §150 . Stockholders’ meetings
+### §150. Stockholders’ meetings
 
 #### (a) Time of first meeting; quorum
 

@@ -1,4 +1,4 @@
-### §663 . Education
+### §663. Education
 
 (a)
 

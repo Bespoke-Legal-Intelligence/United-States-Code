@@ -28,17 +28,17 @@ It is the purpose of this part—
 
 &emsp;(2) to provide, in a systematic manner, strong, comprehensive links between secondary schools and postsecondary educational institutions.
 
-(Pub. L. 88 210, title III, §342, as added Pub. L. 101 392, title III, §308, Sept. 25, 1990, 104 Stat. 789.)
+(Pub. L. 88–210, title III, §342, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 789.)
 
 #### Prior Provisions
 
-A prior section 342 of Pub. L. 88 210 was renumbered section 332 and is classified to section 2392 of this title.
+A prior section 342 of Pub. L. 88–210 was renumbered section 332 and is classified to section 2392 of this title.
 
 #### Effective Date
 
-Part effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Part effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
 
 #### Short Title
 
-Section 341 of Pub. L. 88 210, as added by Pub. L. 101 392, title III, §308, Sept. 25, 1990, 104 Stat. 788, provided that: “This part \[part E (§§341 347) of title III of Pub. L. 88 210, enacting this part\] may be cited as the ‘Tech-Prep Education Act’.”
+Section 341 of Pub. L. 88–210, as added by Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 788, provided that: “This part \[part E (§§341–347) of title III of Pub. L. 88–210, enacting this part\] may be cited as the ‘Tech-Prep Education Act’.”
 

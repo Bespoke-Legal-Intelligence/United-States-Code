@@ -6,7 +6,7 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 &emsp;(1) has a history of accidents, pollution incidents, or serious repair problems which, as determined by the Secretary, creates reason to believe that such vessel may be unsafe or may create a threat to the marine environment; or
 
-&emsp;(2) fails to comply with any applicable regulation issued under this chapter, chapter 37 of title 46, or under any other applicable law or treaty; or
+&emsp;(2) fails to comply with any applicable regulation issued under this chapter, chapter 37 oftitle 46, or under any other applicable law or treaty; or
 
 &emsp;(3) discharges oil or hazardous material in violation of any law of the United States or in a manner or quantities inconsistent with the provisions of any treaty to which the United States is a party; or
 
@@ -14,7 +14,7 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 &emsp;(5) is manned by one or more officers who are licensed by a certificating state which the Secretary has determined, pursuant to section 9101 of title 46, does not have standards for licensing and certification of seafarers which are comparable to or more stringent than United States standards or international standards which are accepted by the United States; or
 
-&emsp;(6) is not manned in compliance with manning levels as determined by the Secretary tobe necessary to insure the safe navigation of the vessel; or
+&emsp;(6) is not manned in compliance with manning levels as determined by the Secretary to be necessary to insure the safe navigation of the vessel; or
 
 &emsp;(7) while underway, does not have at least one licensed deck officer on the navigation bridge who is capable of clearly understanding English.
 

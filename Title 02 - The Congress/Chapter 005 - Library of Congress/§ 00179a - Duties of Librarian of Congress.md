@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) increasing accessibility of films for educational purposes, and improving nationwide activities in the preservation of works in other media such as videotape.
 
-&emsp;(B) The Librarian shall establish guidelines and procedures under which films may be included in the National Film Registry, except that no film shall be eligible for inclusion in the National Film Registry until 10 years after such film's first publication.
+&emsp;(B) The Librarian shall establish guidelines and procedures under which films may be included in the National Film Registry, exceptthat no film shall be eligible for inclusion in the National Film Registry until 10 years after such film's first publication.
 
 &emsp;(C) The Librarian shall establish procedures under which the general public may make recommendations to the Board regarding the inclusion of films in the National Film Registry.
 

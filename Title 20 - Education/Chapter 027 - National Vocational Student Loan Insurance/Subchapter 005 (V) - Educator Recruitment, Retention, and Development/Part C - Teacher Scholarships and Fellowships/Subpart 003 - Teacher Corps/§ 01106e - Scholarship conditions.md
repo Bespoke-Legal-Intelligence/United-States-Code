@@ -56,11 +56,11 @@ Each individual receiving a scholarship under this subpart shall enter into a wr
 
 The Secretary may provide for the partial or total waiver or suspension of any service obligation or repayment by an individual who received a Teacher Corps scholarship whenever compliance by such individual is impossible or would involve extreme hardship to such individual.
 
-(Pub. L. 89 329, title V, §546, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 691.)
+(Pub. L. 89–329, title V, §546, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 691.)
 
 #### Prior Provisions
 
-A prior section 546 of Pub. L. 89 329, title V, as added Pub. L. 96 374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children and was classified to section 1119b 5 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 546 of Pub. L. 89–329, title V, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children and was classified to section 1119b–5 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Section Referred to in Other Sections
 

@@ -24,11 +24,11 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(11) if appropriate, work with local businesses to develop training and mentoring programs for participating youth.
 
-(Pub. L. 89 10, title I, §1425, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3599.)
+(Pub. L. 89–10, title I, §1425, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3599.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93 415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 

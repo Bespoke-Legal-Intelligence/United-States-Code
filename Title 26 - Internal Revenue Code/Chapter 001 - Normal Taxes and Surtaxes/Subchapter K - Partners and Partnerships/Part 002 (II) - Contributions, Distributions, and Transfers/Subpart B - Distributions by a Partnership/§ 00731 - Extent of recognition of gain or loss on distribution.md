@@ -74,13 +74,13 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (B) Limitation on gain recognized
 
-&emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount taken into account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
+&emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount takeninto account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) such partner's distributive share of the net gain which would be recognized if all of the marketable securities of the same class and issuer as the distributed securities held by the partnership were sold (immediately before the transaction to which the distribution relates) by the partnership for fair market value, over
 
 &emsp;&emsp;&emsp;(ii) such partner's distributive share of the net gain which is attributable to the marketable securities of the same class and issuer as the distributed securities held by the partnership immediately after the transaction, determined by using the same fair market value as used under clause (i).
 
-> &emsp;&emsp;Under regulations prescribed by the Secretary, all marketable securities held by thepartnership may be treated as marketable securities of the same class and issuer as the distributed securities.
+> &emsp;&emsp;Under regulations prescribed by the Secretary, all marketable securities held by the partnership may be treated as marketable securities of the same class and issuer as the distributed securities.
 
 #### (C) Definitions relating to investment partnerships
 

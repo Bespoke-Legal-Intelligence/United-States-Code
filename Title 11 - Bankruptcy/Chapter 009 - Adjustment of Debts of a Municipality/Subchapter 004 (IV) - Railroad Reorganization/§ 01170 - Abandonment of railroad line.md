@@ -8,19 +8,19 @@
 
 &emsp;(2) consistent with the public interest.
 
-(b) If, except for the pendency of the case under this chapter, such abandonment would require approval by the Commission under a law of the United States, the trustee shall initiate an appropriate application for such abandonment with the Commission. The court may fix a time within which the Commission shall report to the court on such application.
+(b) If, except for the pendency of the case under this chapter, such abandonment would require approval by the Board under a law of the United States, the trustee shall initiate an appropriate application for such abandonment with the Board. The court may fix a time within which the Board shall report to the court on such application.
 
-(c) After the court receives the report of the Commission, or the expiration of the time fixed under subsection (b) of this section, whichever occurs first, the court may authorize such abandonment, after notice to the Commission, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing.
+(c) After the court receives the report of the Board, or the expiration of the time fixed under subsection (b) of this section, whichever occurs first, the court may authorize such abandonment, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing.
 
 (d)(1) Enforcement of an order authorizing such abandonment shall be stayed until the time for taking an appeal has expired, or, if an appeal is timely taken, until such order has become final.
 
-(2) If an order authorizing such abandonment is appealed, the court, on request of a party in interest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Commission, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
+(2) If an order authorizing such abandonment is appealed, the court, on request of a party in interest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
 
-(e)(1) In authorizing any abandonment of a railroad line under this section, the court shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11347 of title 49.
+(e)(1) In authorizing any abandonment of a railroad line under this section, the court shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11347 <sup>1</sup> of title 49.
 
 (2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 96–448, title II, §227(a), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 98–353, title III, §521, July 10, 1984, 98 Stat. 388.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 96–448, title II, §227(a), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 98–353, title III, §521, July 10, 1984, 98 Stat. 388; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943.)
 
 #### Historical and Revision Notes
 
@@ -34,7 +34,13 @@ Subsection (c) permits the court to act after it has received the report of the 
 
 Subsection (d) stays the enforcement of an abandonment until the time for taking an appeal has expired, or if an appeal has been taken, until the order has become final. However, the court may, and after notice and a hearing, on request of a party in interest authorize termination of service on the line or a portion of the line pending the determination of the appeal. The notice required is the same as that required under subsection (c). If the court authorizes termination of service pending determination of the appeal, an appellant may not obtain a stay of the enforcement of the order authorizing termination, either by the giving of a supersedeas bond or otherwise, during the pendency of the appeal.
 
+#### References in Text
+
+Section 11347 of title 49, referred to in subsec. (e)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. For provisions similar to those contained in section 11347, see section 11326(a) of Title 49.
+
 #### Amendments
+
+1995—Subsecs. (b), (c), (d)(2). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
 
 1984—Subsec. (a). Pub. L. 98–353, §521(a), inserted “of all or a portion” after “the abandonment”.
 
@@ -44,15 +50,29 @@ Subsec. (d)(2). Pub. L. 98–353, §521(c), substituted “such abandonment” f
 
 1980—Subsec. (e). Pub. L. 96–448 added subsec. (e).
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Section 710 of Pub. L. 96–448 provided that:
+
+“(a) Except as provided in subsections (b), (c), and (d) of this section, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on October 1, 1980.
+
+“(b) Section 206 of this Act \[enacting former section 10712 of Title 49, Transportation\] shall take effect on January 1, 1981.
+
+“(c) Section 218(b) of this Act \[amending former section 10705 of Title 49\] shall take effect on October 1, 1983.
+
+“(d) Section 701 of this Act \[enacting section 1018 of Title 45, Railroads, and amending sections 231f, 825, 906, 913, 914, 1002, 1005, 1007, and 1008 of Title 45\] shall take effect on the date of enactment of this Act \[Oct. 14, 1980\].”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1165, 1166, 1169, 1172 of this title; title 45 sections 904, 915.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

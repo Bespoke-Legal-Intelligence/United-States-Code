@@ -4,7 +4,7 @@ The Secretary of Commerce is authorized, upon the request of any person, firm, o
 
 In the case of nonprofit organizations, research organizations, or public organizations or agencies, the Secretary may engage in joint projects, or perform services, on matters of mutual interest, the cost of which shall be apportioned equitably, as determined by the Secretary, who may, however, waive payment of any portion of such costs by others, when authorized to do so under regulations approved by the Office of Management and Budget.
 
-(Pub. L. 91 412, §1, Sept. 25, 1970, 84 Stat. 864; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
+(Pub. L. 91–412, §1, Sept. 25, 1970, 84 Stat. 864; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
 #### Transfer of Functions
 

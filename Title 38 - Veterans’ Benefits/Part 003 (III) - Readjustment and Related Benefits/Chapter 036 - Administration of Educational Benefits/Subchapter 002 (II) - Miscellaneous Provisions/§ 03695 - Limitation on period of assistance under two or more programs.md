@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(a)(6) of P
 
 #### Effective Date
 
-Section effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub.L. 90–631, set out as a note under section 3500 of this title.
+Section effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub. L. 90–631, set out as a note under section 3500 of this title.
 
 #### Section Referred to in Other Sections
 

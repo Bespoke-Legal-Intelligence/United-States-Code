@@ -8,7 +8,7 @@ Not later than 120 days after September 21, 1994, the Band shall submit to the S
 
 #### (1) In general
 
-&emsp;Not later than 18 months after September 21, 1994, the Band shall submit to the Secretary membership rolls that contain the names of all individuals eligible for membership in such Band. The Band, in consultation with the Secretary, shall determine whether an individual is eligible for membership in the Band on the basis of provisions in the governing documents of the Band that determine the qualifications for inclusion in the membership roll of the Band.
+&emsp;Not later than 18 months after September 21, 1994, the Band shall submit to the Secretarymembership rolls that contain the names of all individuals eligible for membership in such Band. The Band, in consultation with the Secretary, shall determine whether an individual is eligible for membership in the Band on the basis of provisions in the governing documents of the Band that determine the qualifications for inclusion in the membership roll of the Band.
 
 #### (2) Publication of notice
 

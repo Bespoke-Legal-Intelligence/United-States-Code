@@ -32,7 +32,7 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 #### (2) Project sponsors
 
-&emsp;Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of theamounts received for administrative costs relating to carrying out eligible activities under section 12904 of this title, including the costs of staff necessary to carry out eligible activities.
+&emsp;Notwithstanding any other provision of this chapter, each project sponsor receivingamounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities under section 12904 of this title, including the costs of staff necessary to carry out eligible activities.
 
 (Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811.)
 

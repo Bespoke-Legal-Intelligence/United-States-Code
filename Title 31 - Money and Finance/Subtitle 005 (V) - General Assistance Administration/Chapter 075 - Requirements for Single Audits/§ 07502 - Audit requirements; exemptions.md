@@ -28,7 +28,7 @@
 
 > to conduct its audits less frequently than annually, the cognizant agency for such government shall, upon request of such government, permit the government to conduct its audits pursuant to this chapter biennially, except as provided in paragraph (3). Such audits shall cover both years within the biennial period.
 
-(3) Any State or local government that is permitted, under clause (B) of paragraph (2), to conduct its audits pursuant to this chapter biennially by reason of the requirements of a rule, regulation, guideline, standard, or policy, shall, for any of its fiscal years beginning after December 31, 1986, conduct such audits annually unless such State or local government codifies a requirement for biennial audits in its constitution or statutes by January 1, 1987. Audits conducted biennially under the provisions of this paragraph shall cover both years within the biennial period.
+(3) Any State or local government that is permitted, under clause (B) of paragraph (2), to conduct its audits pursuant to this chapter biennially by reason of the requirements of a rule, regulation, guideline, standard, or policy, shall, forany of its fiscal years beginning after December 31, 1986, conduct such audits annually unless such State or local government codifies a requirement for biennial audits in its constitution or statutes by January 1, 1987. Audits conducted biennially under the provisions of this paragraph shall cover both years within the biennial period.
 
 (c) Each audit conducted pursuant to subsection (a) shall be conducted by an independent auditor in accordance with generally accepted government auditing standards, except that, for the purposes of this chapter, such standards shall not be construed to require economy and efficiency audits, program results audits, or program evaluations.
 
@@ -58,7 +58,7 @@
 
 (e)(1) Each State and local government subject to the audit requirements of this chapter, which receives Federal financial assistance and provides $25,000 or more of such assistance in any fiscal year to a subrecipient, shall—
 
-&emsp;(A) if the subrecipient conducts an audit in accordance with the requirements of this chapter, review such audit and ensure that prompt and appropriate corrective action is taken on instances of material noncompliancewith applicable laws and regulations with respect to Federal financial assistance provided to the subrecipient by the State or local government; or
+&emsp;(A) if the subrecipient conducts an audit in accordance with the requirements of this chapter, review such audit and ensure that prompt and appropriate corrective action is taken on instances of material noncompliance with applicable laws and regulations with respect to Federal financial assistance provided to the subrecipient by the State or local government; or
 
 &emsp;(B) if the subrecipient does not conduct an audit in accordance with the requirements of this chapter—
 
@@ -76,7 +76,7 @@
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–272, §4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
+1994—Subsec. (b)(2). Pub. L. 103–272, §4(f)(1)(W), substituted “October 19, 1984” for “the date of enactmentof this chapter” in subpar. (A) and for “such date” in subpar. (B).
 
 Subsec. (d)(5), (6). Pub. L. 103–272, §4(f)(1)(W)(iii), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year.”
 

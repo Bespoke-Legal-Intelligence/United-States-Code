@@ -38,7 +38,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
 
-&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
+&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting onbehalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
 
 #### (2) Liability for actions of foreign subsidiaries, etc.
 
@@ -144,7 +144,7 @@ As used in this section—
 
 &emsp;&emsp;(A) any citizen or permanent resident alien of the United States;
 
-&emsp;&emsp;(B) any sole proprietorship, partnership, company, association, or corporation having its principal place of business within theUnited States or organized under the laws of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States;
+&emsp;&emsp;(B) any sole proprietorship, partnership, company, association, or corporation having its principal place of business within the United States or organized under the laws of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States;
 
 &emsp;&emsp;(C) any other person with respect to that person's actions while in the United States; and
 
@@ -200,7 +200,7 @@ Waiver.—The President may waive the prohibition contained in subsection (a) of
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective and Termination Dates of 1994 Amendment
 

@@ -16,7 +16,7 @@ Prior to issuing any permit under this subchapter, if it appears to the Administ
 
 #### (1) State rights preserved
 
-&emsp;Except as expressly provided in this subsection, nothing in this subchapter shall preclude or deny the right of any State to adoptor enforce any requirements respecting dumping of materials into ocean waters within the jurisdiction of the State.
+&emsp;Except as expressly provided in this subsection, nothing in this subchapter shall preclude or deny the right of any State to adopt or enforce any requirements respecting dumping of materials into ocean waters within the jurisdiction of the State.
 
 #### (2) Federal projects
 

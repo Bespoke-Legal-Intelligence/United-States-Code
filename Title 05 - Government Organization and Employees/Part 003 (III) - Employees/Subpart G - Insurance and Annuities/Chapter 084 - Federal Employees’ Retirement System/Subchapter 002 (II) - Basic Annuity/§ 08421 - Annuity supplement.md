@@ -54,9 +54,9 @@ The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
 
-1989—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as asenior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
 
 #### Effective Date of 1989 Amendment
 

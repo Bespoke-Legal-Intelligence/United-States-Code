@@ -1,4 +1,4 @@
-### §9561 . Rations
+### §9561. Rations
 
 (a) The President may prescribe the components, and the quantities thereof, of the Air Force ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Air Force so require.
 

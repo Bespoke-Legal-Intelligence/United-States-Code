@@ -44,7 +44,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 &emsp;&emsp;(ii) in the case of an owner or public housing agency responsible for determining eligibility for or level of benefits, to inform such owner or public housing agency that an applicant's or participant's eligibility for or level of benefits is uncertain and to request such owner or public housing agency to verify such applicant's or participant's income information.
 
-&emsp;(B) No Federal, State, or local agency, or public housing agency, or owner responsible for determining eligibility for or level of benefits receiving such information may terminate, deny, suspend, or reduce any benefits of an applicant or participant until such agencyor owner has taken appropriate steps to independently verify information relating to—
+&emsp;(B) No Federal, State, or local agency, or public housing agency, or owner responsible for determining eligibility for or level of benefits receiving such information may terminate, deny, suspend, or reduce any benefits of an applicant or participant until such agency or owner has taken appropriate steps to independently verify information relating to—
 
 &emsp;&emsp;(i) the amount of the wages, other earnings or income, or unemployment compensation involved,
 
@@ -76,7 +76,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (e) Conditions of release of information by third parties
 
-An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by third parties as a condition of initial or continuing eligibility for participation in the program unless—
+An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by thirdparties as a condition of initial or continuing eligibility for participation in the program unless—
 
 &emsp;(1) the request for consent is made, and the information secured is maintained, in accordance with this section,<sup>1</sup> section 552a of title 5; and
 
@@ -94,7 +94,7 @@ The amendments made by subsection (c)(1), referred to in subsec. (d)(2), (3), me
 
 Section is comprised of section 904 of Pub. L. 100–628. Subsec. (c)(1) of section 904 of Pub. L. 100–628 amended sections 503 and 504 of this title.
 
-Section was enacted as part of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988, andnot as part of the Department of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 
 #### Amendments
 

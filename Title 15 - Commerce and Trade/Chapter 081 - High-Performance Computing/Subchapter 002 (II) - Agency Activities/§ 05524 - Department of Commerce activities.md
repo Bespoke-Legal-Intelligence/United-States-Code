@@ -16,7 +16,7 @@ As part of the Program described in subchapter I of this chapter—
 
 #### (b) High-performance computing and network security
 
-Pursuant to the Computer Security Act of 1987 (Public Law 100 235; 101 Stat. 1724), the National Institute of Standards and Technology shall be responsible for developing and proposing standards and guidelines needed to assure the cost-effective security and privacy of sensitive information in Federal computer systems.
+Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1724), the National Institute of Standards and Technology shall be responsible for developing and proposing standards and guidelines needed to assure the cost-effective security and privacy of sensitive information in Federal computer systems.
 
 #### (c) Study of impact of Federal procurement regulations
 
@@ -36,9 +36,9 @@ From sums otherwise authorized to be appropriated, there are authorized to be ap
 
 &emsp;(2) to the National Oceanic and Atmospheric Administration for the purposes of the Program $2,500,000 for fiscal year 1992; $3,000,000 for fiscal year 1993; $3,500,000 for fiscal year 1994; $4,000,000 for fiscal year 1995; and $4,500,000 for fiscal year 1996.
 
-(Pub. L. 102 194, title II, §204, Dec. 9, 1991, 105 Stat. 1601.)
+(Pub. L. 102–194, title II, §204, Dec. 9, 1991, 105 Stat. 1601.)
 
 #### References in Text
 
-The Computer Security Act of 1987, referred to in subsec. (b), is Pub. L. 100 235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g 3 and 278g 4 of this title, amended section 272 of this title and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of this title and section 759 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Computer Security Act of 1987, referred to in subsec. (b), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of this title, amended section 272 of this title and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of this title and section 759 of Title 40. For complete classification of this Act to the Code, see Tables.
 

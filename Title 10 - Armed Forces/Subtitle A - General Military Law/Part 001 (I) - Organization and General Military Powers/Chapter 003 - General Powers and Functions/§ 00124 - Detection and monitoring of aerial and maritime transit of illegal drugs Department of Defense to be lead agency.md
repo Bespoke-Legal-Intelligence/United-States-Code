@@ -1,4 +1,4 @@
-### §124 . Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency
+### §124. Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency
 
 (a)
 
@@ -24,9 +24,7 @@ United States Defined.—In this section, the term “United States” means the
 
 #### Prior Provisions
 
-A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 514; amended Pub. L. 98–525, title XIII, §1301(a), Oct. 19, 1984, 98 Stat. 2611; Pub. L. 99–145, title XIII, §1303(a)(1), Nov. 8, 1985, 99 Stat. 738, related to establishment, composition, and functions of combatant commands, prior to repeal by Pub. L. 99–433, §211(c)(1). See section 161 et seq. of this title.
-
-Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1102, Sept. 29, 1988, 102 Stat. 2042, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–189, §1202(b).
+A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 514; amended Pub. L. 98–525, title XIII, §1301(a), Oct. 19, 1984, 98 Stat. 2611; Pub. L. 99–145, title XIII, §1303(a)(1), Nov. 8, 1985, 99 Stat. 738, related to establishment, composition, and functions of combatant commands, prior to repeal by Pub. L. 99–433, §211(c)(1). See section 161 et seq. of this title. Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1102, Sept. 29, 1988, 102 Stat. 2042, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–189, §1202(b).
 
 #### Amendments
 
@@ -58,7 +56,7 @@ Evaluation of Systems.—The Secretary of Defense shall identify and evaluate ex
 
 “(c)
 
-Systems Plan.—Based on the results of the evaluation under subsection (b), the Secretary of Defense shall prepare a plan for the development, acquisition, and use of improved counter-drug detection and monitoring systems by the Armed Forces. In developing the plan, the Secretary shall also make every effort to determine which counter-drug detection and monitoring systems should be eliminated from the counter-drug program based on the results of such evaluation. The plan shall include an estimate by the Secretary of the full cost to implement the plan, including the cost to develop, procure, operate, and maintain equipment used in counter-drug detection and monitoring activities performed under the plan and training and personnel costs associated with such activities.
+Systems Plan.—Based on the results of the evaluation under subsection (b), the Secretary of Defense shall prepare a plan for the development, acquisition, and use of improved counter-drug detection and monitoring systems by the Armed Forces. In developing the plan, the Secretary shall also make every effort to determine which counter-drug detection and monitoringsystems should be eliminated from the counter-drug program based on the results of such evaluation. The plan shall include an estimate by the Secretary of the full cost to implement the plan, including the cost to develop, procure, operate, and maintain equipment used in counter-drug detection and monitoring activities performed under the plan and training and personnel costs associated with such activities.
 
 “(d)
 

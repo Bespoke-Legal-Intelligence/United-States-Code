@@ -14,7 +14,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 #### (c) Services
 
-(1) The services provided under each demonstration project shall be designed to meet the specific needs of individuals infected with the etiologic agent for acquired immune deficiency syndrome, and shall include—
+(1) The services provided under each demonstration project shall be designed to meet thespecific needs of individuals infected with the etiologic agent for acquired immune deficiency syndrome, and shall include—
 
 &emsp;(A) the care and treatment of such individuals by providing—
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 100–527 substituted “Secretary of the Department of Vet
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1988 Amendments
 

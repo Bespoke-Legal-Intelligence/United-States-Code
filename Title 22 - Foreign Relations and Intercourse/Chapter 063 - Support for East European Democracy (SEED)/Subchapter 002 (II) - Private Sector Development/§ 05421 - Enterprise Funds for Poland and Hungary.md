@@ -62,7 +62,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (2) Employee stock ownership plans
 
-&emsp;Funds available to the Enterprise Funds may be used to encourage the establishment ofEmployee Stock Ownership Plans (ESOPs) in Poland and Hungary.
+&emsp;Funds available to the Enterprise Funds may be used to encourage the establishment of Employee Stock Ownership Plans (ESOPs) in Poland and Hungary.
 
 #### (3) Indigenous credit unions
 
@@ -124,7 +124,7 @@ The Enterprise Funds shall ensure—
 
 &emsp;&emsp;(C) such other records as will facilitate an effective audit; and
 
-&emsp;(2) that the Enterprise Funds, or any of their duly authorized representatives, have access for the purpose of audit and examination to any books, documents, papers, and records ofthe recipient that are pertinent to assistance provided through the Enterprise Funds under this section.
+&emsp;(2) that the Enterprise Funds, or any of their duly authorized representatives, have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Enterprise Funds under this section.
 
 #### (p) Annual reports
 

@@ -6,11 +6,11 @@ The Institute shall—
 
 &emsp;(1) have the mission of developing standards, guidelines, and associated methods and techniques for computer systems;
 
-&emsp;(2) except as described in paragraph (3) of this subsection (relating to security standards), develop uniform standards and guidelines for Federal computer systems, except those systems excluded by section 2315 of title 10 or section 3502(2) of title 44;
+&emsp;(2) except as described in paragraph (3) of this subsection (relating to security standards), develop uniform standards and guidelines for Federal computer systems, except those systems excluded by section 2315 of title 10 or section 3502(2) <sup>1</sup> of title 44;
 
 &emsp;(3) have responsibility within the Federal Government for developing technical, management, physical, and administrative standards and guidelines for the cost-effective security and privacy of sensitive information in Federal computer systems except—
 
-&emsp;&emsp;(A) those systems excluded by section 2315 of title 10 or section 3502(2) of title 44; and
+&emsp;&emsp;(A) those systems excluded by section 2315 of title 10 or section 3502(2) <sup>1</sup> of title 44; and
 
 &emsp;&emsp;(B) those systems which are protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
 
@@ -50,7 +50,7 @@ For the purposes of—
 
 &emsp;(2) performing research and conducting studies under subsection (b)(5) of this section,
 
-> the Institute shall draw upon computer system technical security guidelines developed by the National Security Agency to the extent that the Institute determines that such guidelines are consistent with the requirements for protecting sensitive information in Federal computer systems.
+> the Institute shall draw upon computer system technical security guidelines developed by the National Security Agency to the extent that theInstitute determines that such guidelines are consistent with the requirements for protecting sensitive information in Federal computer systems.
 
 #### (d) Definitions
 
@@ -88,6 +88,8 @@ As used in this section—
 
 #### References in Text
 
+Section 3502 of title 44, referred to in subsec. (a)(2), (3)(A), which in par. (2) defined “automatic data processing” and “automatic data processing equipment”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which defines “information technology”.
+
 Section 5 of the Computer Security Act of 1987, referred to in subsecs. (a)(5) and (b)(4), is section 5 of Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1729, which is set out as a note under section 759 of Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
@@ -105,4 +107,6 @@ Nothing in amendment by Pub. L. 100–235 which enacted this section to be const
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 272, 278g–4 of this title; title 40 section 759.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -78,7 +78,7 @@ For provisions directing that, except for any civil action brought for a violati
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12203 of this title.
+This section is referred to in section 12203 of this title; title 2 section 1331.
 
 <i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

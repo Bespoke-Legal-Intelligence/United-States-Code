@@ -42,7 +42,7 @@
 
 Subsec. (d). Pub. L. 98–564, §4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration”.
 
-Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settlesimilar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
+Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
 
 1974—Subsecs. (a), (d). Pub. L. 93–336, §3(1), (2), substituted “$25,000” for “$15,000”.
 
@@ -69,6 +69,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Savings Provision for Claims Arising Before January 1, 1969
 
 Settlement and payment of claims arising under this section before January 1, 1969, see section 3(a) of Pub. L. 90–486, set out as a note under section 709 of this title.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@
 
 (3) A former spouse shall not be qualified for any benefit under this subsection if, before the commencement of any benefit, the former spouse remarries before becoming 55 years of age.
 
-(4)(A) For purposes of title 26, payments to a former spouse under this section shall be treatedas income to the former spouse and not to the participant.
+(4)(A) For purposes of title 26, payments to a former spouse under this section shall be treated as income to the former spouse and not to the participant.
 
 (B) Any reduction in payments to a participant or former participant as a result of payments to a former spouse under this subsection shall be disregarded in calculating—
 
@@ -32,7 +32,7 @@
 
 (B) A former spouse may not elect a method of payment under subchapter II, chapter 84 of title 5, providing for payment of a survivor annuity to any survivor of the former spouse.
 
-(7) The maximum amount payable to any former spouse pursuant to this subsection shall be the difference, if any, between 50 percent of the total benefits authorized to be paid to a former participant by this part, disregarding any apportionment of these benefits to others, and the aggregate amount payable to all others at any one time.
+(7) The maximum amount payable to any former spouse pursuant to this subsection shallbe the difference, if any, between 50 percent of the total benefits authorized to be paid to a former participant by this part, disregarding any apportionment of these benefits to others, and the aggregate amount payable to all others at any one time.
 
 #### (b) Entitlement to survivor benefits; determination of share; disqualification upon remarriage
 

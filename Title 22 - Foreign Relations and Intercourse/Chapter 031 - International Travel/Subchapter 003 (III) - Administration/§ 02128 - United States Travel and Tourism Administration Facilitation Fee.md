@@ -14,7 +14,7 @@ To the extent not inconsistent with treaties or international agreements entered
 
 &emsp;(B) The Secretary shall divide the amount appropriated to the United States Travel and Tourism Administration for the fiscal year during which such determination is made by the number of aliens described in subparagraph (A) expected by the Secretary to enter the United States during the calendar year described in such subparagraph, as estimated by the Secretary under such subparagraph, and shall round the result up to the nearest quarter-dollar.
 
-&emsp;(C) The Secretary shall publish in the Federal Register the estimate required by subparagraph (A), together with a description of the information supporting such estimate, and the amount of the fee determined under subparagraph (B) which shall be applicable during the 12-month period commencing on January 1 of the succeeding calendar year.
+&emsp;(C) The Secretary shall publish in the Federal Register the estimate required by subparagraph (A), together with a description of the information supporting such estimate, and the amount of the fee determined under subparagraph (B) which shall be applicable duringthe 12-month period commencing on January 1 of the succeeding calendar year.
 
 &emsp;(D) For each calendar quarter beginning after December 31, 1991, the Secretary shall charge each commercial airline and passenger cruise ship line an amount equal to the fee amount determined under subparagraph (B) and applicable under subparagraph (C) multiplied by the number of aliens described in section 1101(a)(15)(B) of title 8 arriving at any port within the United States aboard a commercial aircraft or cruise ship of such airline or passenger cruise ship line during that calendar quarter.
 

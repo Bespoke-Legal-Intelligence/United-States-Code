@@ -2,7 +2,7 @@
 
 #### (a) Authority to transfer excess defense articles
 
-Notwithstanding any other provision of law (except title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\]) and subject to subsection (b) of this section, the President may transfer to countries for whom a foreign military financing program was justified for the fiscal year in which the transfer is authorized, such nonlethal excess defense articles as the President determines necessary to help modernize the defense capabilities of such countries, in accordance with the provisions of this section.
+Notwithstanding any other provision of law (except title V of the National Security Act of1947 \[50 U.S.C. 413 et seq.\]) and subject to subsection (b) of this section, the President may transfer to countries for whom a foreign military financing program was justified for the fiscal year in which the transfer is authorized, such nonlethal excess defense articles as the President determines necessary to help modernize the defense capabilities of such countries, in accordance with the provisions of this section.
 
 #### (b) Limitations on transfers
 
@@ -50,7 +50,7 @@ Commencing in 1991, not later than December 15 of each year, the President shall
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (a), is act July 26, 1947, ch. 343, 61 Stat. 495, asamended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
+The National Security Act of 1947, referred to in subsec. (a), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ The National Security Act of 1947, referred to in subsec. (a), is act July 26, 1
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Congressional Findings
 

@@ -22,7 +22,7 @@
 
 &emsp;(B) Projects for which assistance may be provided under subparagraph (A) are—
 
-&emsp;&emsp;(i) projects to improve the distribution, supply, quality, utilization, and efficiency ofhealth personnel in the health services delivery system;
+&emsp;&emsp;(i) projects to improve the distribution, supply, quality, utilization, and efficiency of health personnel in the health services delivery system;
 
 &emsp;&emsp;(ii) projects to encourage the regionalization of educational responsibilities of the health professions schools; and
 
@@ -78,7 +78,7 @@
 
 #### (2) Certain requirements
 
-&emsp;With respect to an area health education center program, a school may not receive an award under paragraph (1) of subsection (a) ofthis section for operational expenses, or an award under paragraph (2) or (3) of such subsection, unless the program—
+&emsp;With respect to an area health education center program, a school may not receive an award under paragraph (1) of subsection (a) of this section for operational expenses, or an award under paragraph (2) or (3) of such subsection, unless the program—
 
 &emsp;&emsp;(A) maintains preceptorship educational experiences for health science students;
 
@@ -142,7 +142,7 @@ Each medical (M.D. and D.O.) school participating in an area health education ce
 
 &emsp;Subject to paragraph (2), in providing financial assistance under this section to a school, the Secretary shall assure that—
 
-&emsp;&emsp;(A) at least 75 percent of the total funds provided to the school are expended by anarea health education center program in the area health education centers, and that the school enters into an agreement with each of such centers for purposes of specifying the allocation of such 75 percent;
+&emsp;&emsp;(A) at least 75 percent of the total funds provided to the school are expended by an area health education center program in the area health education centers, and that the school enters into an agreement with each of such centers for purposes of specifying the allocation of such 75 percent;
 
 &emsp;&emsp;(B) with respect to the operating costs of the area health education program of the school, non-Federal contributions for such costs are made in an amount that is not less than 25 percent of such costs; and
 
@@ -252,7 +252,7 @@ Each medical (M.D. and D.O.) school participating in an area health education ce
 
 For purposes of this section:
 
-&emsp;(1) The term “area health education center program” means a program which is organized as provided in subsection (b) of this section and under which the participating medical (M.D. and D.O.) schools and the area health education centers meet the requirements of subsections (c) and (d) of this section.
+&emsp;(1) The term “area health education center program” means a program which is organizedas provided in subsection (b) of this section and under which the participating medical (M.D. and D.O.) schools and the area health education centers meet the requirements of subsections (c) and (d) of this section.
 
 &emsp;(2) The term “award” means an award of financial assistance.
 

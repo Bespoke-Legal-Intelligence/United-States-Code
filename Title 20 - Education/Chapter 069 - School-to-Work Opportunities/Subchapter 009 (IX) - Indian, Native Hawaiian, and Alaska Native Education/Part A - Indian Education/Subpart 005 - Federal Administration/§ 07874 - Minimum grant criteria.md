@@ -6,5 +6,5 @@ The Secretary may not approve an application for a grant under subpart 2 or 3 of
 
 &emsp;(2) based on relevant research findings.
 
-(Pub. L. 89 10, title IX, §9154, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3793.)
+(Pub. L. 89–10, title IX, §9154, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793.)
 

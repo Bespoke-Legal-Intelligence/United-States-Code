@@ -62,7 +62,7 @@ Subsec. (b). Act May 27, 1936, added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
+Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704, set out as a note under section 78<i>o</i> of this title.
 
 #### Effective Date of 1984 Amendment
 

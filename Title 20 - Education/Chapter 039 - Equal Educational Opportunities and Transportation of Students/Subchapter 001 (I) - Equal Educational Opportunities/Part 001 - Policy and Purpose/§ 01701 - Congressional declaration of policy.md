@@ -12,13 +12,13 @@ The Congress declares it to be the policy of the United States that—
 
 In order to carry out this policy, it is the purpose of this subchapter to specify appropriate remedies for the orderly removal of the vestiges of the dual school system.
 
-(Pub. L. 93 380, title II, §202, Aug. 21, 1974, 88 Stat. 514.)
+(Pub. L. 93–380, title II, §202, Aug. 21, 1974, 88 Stat. 514.)
 
 #### Effective Date
 
-Chapter effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93 380, set out as a note under section 1221 1 of this title.
+Chapter effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under section 1221–1 of this title.
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 93 380 provided that: “This title \[enacting this chapter and section 1228 of this title and amending section 1608 of this title\] may be cited as the ‘Equal Educational Opportunities Act of 1974’.”
+Section 201 of title II of Pub. L. 93–380 provided that: “This title \[enacting this chapter and section 1228 of this title and amending section 1608 of this title\] may be cited as the ‘Equal Educational Opportunities Act of 1974’.”
 

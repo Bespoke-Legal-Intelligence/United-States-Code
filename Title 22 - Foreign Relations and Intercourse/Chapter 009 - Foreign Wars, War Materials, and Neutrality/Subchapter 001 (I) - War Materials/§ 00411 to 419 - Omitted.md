@@ -26,7 +26,7 @@ Section 419, act Mar. 11, 1941, ch. 11, §10, 55 Stat. 33, related to effect of 
 
 #### Additional Defense Aid to Other Countries; Lease of Certain Ships, Barges, Etc.
 
-Acts Feb. 7, 1942, ch. 46, title III, §301, 56 Stat. 82; Oct. 26, 1942, ch. 629, title I, §103, 56 Stat. 994; Feb. 19, 1943, ch. 1, §4, 57 Stat. 4, June 26, 1943, ch. 147, §118, 57 Stat. 217; June 22, 1944, ch. 269, §121, 58 Stat. 322; May 29, 1945, ch. 130, §119, 59 Stat. 222, provided for additional defense aid to countries deemed vital to the defense of the United States and for the lease of ships for periods not extending beyond the termination of the national emergency.
+Acts Feb. 7, 1942, ch. 46, title III, §301, 56 Stat. 82; Oct. 26, 1942, ch. 629, title I, §103, 56 Stat. 994; Feb. 19, 1943, ch. 1, §4, 57 Stat. 4, June 26, 1943, ch. 147, §118, 57 Stat. 217; June 22, 1944, ch. 269, §121, 58 Stat. 322; May 29, 1945, ch. 130, §119, 59 Stat. 222, provided for additional defense aid to countries deemed vital to the defense ofthe United States and for the lease of ships for periods not extending beyond the termination of the national emergency.
 
 #### Limitation on Appropriations
 

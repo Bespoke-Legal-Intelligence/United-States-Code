@@ -1,4 +1,4 @@
-### §1341 . Interference with functions of Commission
+### §1341. Interference with functions of Commission
 
 #### (a) Interfering with or influencing the Commission or its employees
 

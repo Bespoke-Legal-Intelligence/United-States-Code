@@ -22,19 +22,19 @@ If a teacher does not report for service at the beginning of the next school yea
 
 #### (e) Employment in other positions during recess periods
 
-Quarters, quarters allowance, and storage provided under this section shall be in lieu of anyquarters, quarters allowance, and storage to which he otherwise might be entitled by reason of employment in another position during any recess period between two school years.
+Quarters, quarters allowance, and storage provided under this section shall be in lieu of any quarters, quarters allowance, and storage to which he otherwise might be entitled by reason of employment in another position during any recess period between two school years.
 
-(Pub. L. 86 91, §7, July 17, 1959, 73 Stat. 216; Pub. L. 87 172, §1, Aug. 30, 1961, 75 Stat. 409.)
+(Pub. L. 86–91, §7, July 17, 1959, 73 Stat. 216; Pub. L. 87–172, §1, Aug. 30, 1961, 75 Stat. 409.)
 
 #### Codification
 
-In subsecs. (b) and (c)(1), “section 5912 of title 5” substituted for “the Act of June 26, 1930 (5 U.S.C. 118a)” on authority of Pub. L. 89 554, §7(b), June 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (b) and (c)(1), “section 5912 of title 5” substituted for “the Act of June 26, 1930 (5 U.S.C. 118a)” on authority of Pub. L. 89–554, §7(b), June 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2355 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2355 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1961—Subsec. (d). Pub. L. 87 172 inserted “except for reasons beyond his control and acceptable to the Department of Defense”.
+1961—Subsec. (d). Pub. L. 87–172 inserted “except for reasons beyond his control and acceptable to the Department of Defense”.
 
 #### Delegation of Functions
 

@@ -18,15 +18,15 @@ In the case of any petroleum, petroleum products, or other materials vital to th
 
 #### (d) Conventional markets not to be displaced by barters
 
-The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) of this section or any purchase authorized by subsection (b)(2) of this section, existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2) of thissection, as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
+The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) of this section or any purchase authorized by subsection (b)(2) of this section, existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2) of this section, as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
 
 #### (e) Report to Congress
 
 The Secretary of Energy shall report to the Congress on the effect on energy security and on domestic energy supplies of any action taken under this section which results in the acquisition by the Government of petroleum or petroleum products. Such report shall be submitted to the Congress not later than 90 days after such acquisition.
 
-(Pub. L. 99 64, title II, §203, July 12, 1985, 99 Stat. 158.)
+(Pub. L. 99–64, title II, §203, July 12, 1985, 99 Stat. 158.)
 
 #### Codification
 
-Section was enacted as part of the Export Administration Amendments Act of 1985, and not as part of Pub. L. 97 290 which enacted this chapter.
+Section was enacted as part of the Export Administration Amendments Act of 1985, and not as part of Pub. L. 97–290 which enacted this chapter.
 

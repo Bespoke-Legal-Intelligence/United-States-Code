@@ -4,7 +4,7 @@ Any bona fide occupant or claimant of oil or gas bearing lands in the Territory 
 
 The Secretary of the Interior shall neither prescribe nor approve any cooperative or unit plan of development or operation nor any operating, drilling, or development contract establishing different royalty or rental rates for Alaska lands than for similar lands within the States of the United States.
 
-No claimant for a lease who has been guilty of any fraud or who had knowledge or reasonablegrounds to know of any fraud, or who has not acted honestly and in good faith, shall be entitled to any of the benefits of this section.
+No claimant for a lease who has been guilty of any fraud or who had knowledge or reasonable grounds to know of any fraud, or who has not acted honestly and in good faith, shall be entitled to any of the benefits of this section.
 
 (Feb. 25, 1920, ch. 85, §22, 41 Stat. 446; July 3, 1958, Pub. L. 85–505, §10, 72 Stat. 324.)
 

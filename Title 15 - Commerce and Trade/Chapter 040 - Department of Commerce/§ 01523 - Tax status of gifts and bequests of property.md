@@ -2,9 +2,9 @@
 
 For the purpose of Federal income, estate, and gift taxes, property accepted under section 1522 of this title shall be considered as a gift or bequest to or for the use of the United States.
 
-(Pub. L. 88 611, §2, Oct. 2, 1964, 78 Stat. 991.)
+(Pub. L. 88–611, §2, Oct. 2, 1964, 78 Stat. 991.)
 
 #### Codification
 
-Section was formerly classified to section 608b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 608b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

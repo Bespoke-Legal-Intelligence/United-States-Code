@@ -32,7 +32,7 @@ A State, unit of local government, or combination of such units desiring to rece
 
 #### (c) Amount of payment; limitation
 
-Upon approving an application under this section, the Director shall award the amount of assistance so approved, but in no event an amount greater than 20 percent of the cost of construction of the approved correctional facility project, and shall provide for payment to the applicant or, if designated by the applicant, any agency or instrumentality of the applicant. Such amount shall be paid, in advance or by way of reimbursement, and in such installments consistent with the progress of construction as the Director may determine. Funds paid under this subsection for the construction of an approved project shall be used solely for carrying out such project as so approved.
+Upon approving an application under this section, the Director shall award the amount of assistance so approved, but in no event an amount greater than 20 percent of the cost of construction of the approved correctional facility project, and shall provide for payment to the applicant or, if designated by the applicant, any agency or instrumentality of the applicant. Such amount shall be paid, in advance or by wayof reimbursement, and in such installments consistent with the progress of construction as the Director may determine. Funds paid under this subsection for the construction of an approved project shall be used solely for carrying out such project as so approved.
 
 #### (d) Amendment of application; approval
 

@@ -112,7 +112,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 &emsp;&emsp;&emsp;(iv) if such interest is held by the estate of an individual who actively participated in the management of such entity or is held by the estate of an individual if with respect to such individual such interest was at any time described in clause (ii), or
 
-&emsp;&emsp;&emsp;(v) if the Secretary determines (by regulations or otherwise) that such interest should be treated as held by an individual who actively participates in the management of such entity, and that such entity and such interest are not used (or to be used) for tax–avoidance purposes.
+&emsp;&emsp;&emsp;(v) if the Secretary determines (by regulations or otherwise) that such interest should be treated as held by an individual who actively participates in the management of such entity, and that such entityand such interest are not used (or to be used) for tax–avoidance purposes.
 
 > &emsp;&emsp;For purposes of this subparagraph, a legally adopted child of an individual shall be treated as a child of such individual by blood.
 
@@ -122,7 +122,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for suchtaxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
+&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
 
 #### (ii) Carryover of disallowed loss
 
@@ -512,7 +512,7 @@ Determination of deferred tax liability.—If the taxpayer makes an election und
 
 Date for payment of installment.—
 
-&emsp;&emsp;“(A) If an election is made under this subsection, the first installment under subsection (a)(3)(A) shall be paid on or before the due date for filing the return for the taxable year described in paragraph (1), and each succeeding installment shall be paidon or before the date which is one year after the date prescribed for payment of the preceding installment.
+&emsp;&emsp;“(A) If an election is made under this subsection, the first installment under subsection (a)(3)(A) shall be paid on or before the due date for filing the return for the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is one year after the date prescribed for payment of the preceding installment.
 
 &emsp;&emsp;“(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 

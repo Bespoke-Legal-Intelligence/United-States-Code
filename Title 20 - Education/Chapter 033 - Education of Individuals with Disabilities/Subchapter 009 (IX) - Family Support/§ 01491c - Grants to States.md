@@ -64,7 +64,7 @@ To the extent practicable, the Secretary shall award grants to States under this
 
 &emsp;(2) distributes the grants among States that have differing levels of development of statewide systems of family support for families of children with disabilities.
 
-(Pub. L. 91 230, title VI, §704, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3943.)
+(Pub. L. 91–230, title VI, §704, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3943.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Beginning with the next full fiscal year and for each fiscal year thereafter, al
 
 #### (b) Deduction of expenses
 
-The Secretary may pay from the fund any necessary expenses incurred by him in connection with the revenue-producing and revenue-sharing measures.
+The Secretary may pay from the fund any necessary expenses incurred by him in connectionwith the revenue-producing and revenue-sharing measures.
 
 #### (c) Payment to counties
 
@@ -32,7 +32,7 @@ The Secretary may pay from the fund any necessary expenses incurred by him in co
 
 (B) The Secretary shall make the determinations required under this subsection in such manner as the Secretary considers to be equitable and in the public interest. All such determinations shall be final and conclusive.
 
-(5)(A) Each county which receives payments under paragraphs (1) and (2) with respect to any fee area or reserve area shall distribute, under guidelines established by the Secretary, such payments on a proportional basis to those units of local government (including, but not limited to, school districts and the county itself in appropriate cases) which have incurred the loss or reduction of real property tax revenues by reason of the existence of such area. In any case inwhich a unit of local government other than the county acts as the collecting and distributing agency for real property taxes, the payments under paragraphs (1) and (2) shall be made to such other unit which shall distribute the payments in accordance with the guidelines.
+(5)(A) Each county which receives payments under paragraphs (1) and (2) with respect to any fee area or reserve area shall distribute, under guidelines established by the Secretary, such payments on a proportional basis to those units of local government (including, but not limited to, school districts and the county itself in appropriate cases) which have incurred the loss or reduction of real property tax revenues by reason of the existence of such area. In any case in which a unit of local government other than the county acts as the collecting and distributing agency for real property taxes, the payments under paragraphs (1) and (2) shall be made to such other unit which shall distribute the payments in accordance with the guidelines.
 
 (B) The Secretary may prescribe regulations under which payments under this paragraph may be made to units of local government in cases in which subparagraph (A) will not effect the purposes of this paragraph.
 
@@ -48,7 +48,7 @@ If the net receipts in the fund which are attributable to revenue collections fo
 
 #### (f) Terms, conditions, and regulations for execution of revenue producing activities; disposal of animals
 
-The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States. The Secretary may, in accordance with such regulations as the Secretary may prescribe, dispose of animals which are surplus to any such area by exchange of the same or other kinds, gift or loan to public institutions for exhibition or propagation purposes, and for the advancement of knowledge and the dissemination of information relating to the conservation of wildlife.
+The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States. The Secretary may, in accordance with such regulations as the Secretary may prescribe, dispose of animals which are surplus to any such area by exchange of the same or other kinds, gift or loan to public institutions for exhibition or propagation purposes, and for the advancement ofknowledge and the dissemination of information relating to the conservation of wildlife.
 
 #### (g) Definitions
 
@@ -96,7 +96,7 @@ Section was not enacted as part of the “Migratory Bird Conservation Act” whi
 
 Subsec. (b). Pub. L. 95–469, §1(a)(2), substituted “revenue-producing and revenue-sharing measures” for “revenue-producing measures set forth in subsection (a) of this section”.
 
-Subsec. (c). Pub. L. 95–469, §1(a)(3), in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered inpar. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
+Subsec. (c). Pub. L. 95–469, §1(a)(3), in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered in par. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
 
 Subsec. (d). Pub. L. 95–469, §1(a)(3), substituted provision for authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments for prior provision limiting amount payable to the counties to amount of net receipts in the fund for any fiscal year and a proportionate reduction of payments when net receipts are insufficient for aggregate amount of payments for any fiscal year.
 

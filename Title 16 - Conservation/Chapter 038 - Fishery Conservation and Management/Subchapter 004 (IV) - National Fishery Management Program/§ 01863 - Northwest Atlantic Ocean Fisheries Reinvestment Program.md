@@ -16,11 +16,11 @@
 
 (2)
 
-Consultation.—In establishing and implementing the Northwest Fisheries Reinvestment Program, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
+Consultation.—In establishing and implementing the Northwest Fisheries ReinvestmentProgram, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
 
 (3)
 
-Activities Under Program.—Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection <sup>1</sup> (1), under theterms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishing vessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
+Activities Under Program.—Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection <sup>1</sup> (1), under the terms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishing vessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
 
 (4)
 

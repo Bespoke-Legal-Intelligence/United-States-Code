@@ -56,7 +56,7 @@ The Secretary shall conduct evaluations to determine the effectiveness of demons
 
 #### (3) Report
 
-&emsp;Not later than March 1, 1993, the Secretary shall prepare and submit to the appropriate committees of Congress a report that contains a description of the activities carried out under this subchapter, and an assessment of the effectiveness of such programs in preventing initial and prolonged separation of children from their families due to homelessness and other housing problems. At a minimum the report shall contain—
+&emsp;Not later than March 1, 1993, the Secretary shall prepare and submit to the appropriatecommittees of Congress a report that contains a description of the activities carried out under this subchapter, and an assessment of the effectiveness of such programs in preventing initial and prolonged separation of children from their families due to homelessness and other housing problems. At a minimum the report shall contain—
 
 &emsp;&emsp;(A) information describing the localities in which activities are conducted;
 
@@ -82,7 +82,7 @@ The Secretary may not make a grant under section 5118(a) of this title unless th
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

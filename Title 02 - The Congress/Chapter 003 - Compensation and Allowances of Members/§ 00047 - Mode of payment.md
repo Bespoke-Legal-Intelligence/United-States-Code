@@ -1,4 +1,4 @@
-### §47 . Mode of payment
+### §47. Mode of payment
 
 The compensation of Members and Delegates shall be passed as public accounts, and paid out of the public Treasury.
 

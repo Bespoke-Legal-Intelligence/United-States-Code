@@ -10,7 +10,7 @@ The purpose of this section is to enable elderly persons to live with dignity an
 
 #### (b) General authority
 
-The Secretary is authorized to provide assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for the elderly. Such assistance shall be provided as (1) capital advances in accordance with subsection (c)(1) of this section, and (2) contracts for project rental assistance in accordance with subsection (c)(2) of this section. Such assistance may be used to finance the construction, reconstruction, or moderate or substantial rehabilitation of a structure or a portion of a structure, or the acquisition of a structure from the Resolution Trust Corporation, to be used as supportive housing for the elderly in accordance with this section. Assistance may also cover the cost of real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for the elderly.
+The Secretary is authorized to provide assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for the elderly. Such assistance shall be provided as (1) capital advances in accordance with subsection (c)(1) of this section, and (2) contracts for project rental assistance in accordance with subsection (c)(2) of this section. Such assistance may be used to finance the construction, reconstruction, or moderate or substantial rehabilitation of a structure or a portion of a structure, or the acquisition of a structure from the Resolution Trust Corporation, to be used as supportive housing for the elderly inaccordance with this section. Assistance may also cover the cost of real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for the elderly.
 
 #### (c) Forms of assistance
 
@@ -68,7 +68,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(5) the extent to which the applicant has demonstrated that the supportive services identified in subsection (e)(4) of this section will be provided on a consistent, long-term basis;
 
-&emsp;(6) the extent to which the proposed design of the housing will accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons the housing is intended to serve; and
+&emsp;(6) the extent to which the proposed design of the housing will accommodate the provisionof supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons the housing is intended to serve; and
 
 &emsp;(7) such other factors as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively.
 
@@ -128,13 +128,13 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflectchanges in the general level of construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflect changes in the general level of construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
 #### (A) Special housing account
 
-&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) or (2) to calculate the amount of financing to be made available to individual owners. Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special housing account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which—
+&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) or (2) to calculate the amount of financing to be made available to individual owners. Owners which incur actual developmentcosts that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special housing account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which—
 
 &emsp;&emsp;&emsp;(i) exceed the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of title 42;
 
@@ -254,7 +254,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas.
 
-(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h),Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083.)
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c),\(e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73
 
 The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
@@ -324,7 +324,7 @@ Subsec. (h)(2). Pub. L. 102–242 inserted “or from the Federal Deposit Insura
 
 1990—Pub. L. 101–625, §801(a), amended section generally, substituting present provisions for provisions authorizing loans for housing and related facilities for elderly or handicapped families.
 
-Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991, not more than $714,200,000 may be approved in appropriation Acts for such loans.”
+Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000 may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991, not more than $714,200,000 may be approved in appropriation Acts for such loans.”
 
 Subsec. (a)(9). Pub. L. 101–625, §804(b), added par. (9).
 
@@ -404,9 +404,9 @@ Subsec. (d)(8)(A). Pub. L. 96–153, §306(c)(1), substituted “adult day healt
 
 Subsec. (f). Pub. L. 96–153, §306(c)(2), inserted reference to adult day health services.
 
-Subsec. (g). Pub. L. 96–153, §306(d), inserted provisions that at the time of settlement on permanent financing,the Secretary make appropriate adjustment in the amount of assistance to be provided under a contract for annual contributions pursuant to section 8 of the United States Housing Act of 1937 reflecting the difference between interest rate which will actually be charged in connection with such permanent financing and the interest rate which was in effect at the time of the reservation of assistance in connection with the project.
+Subsec. (g). Pub. L. 96–153, §306(d), inserted provisions that at the time of settlement on permanent financing, the Secretary make appropriate adjustment in the amount of assistance to be provided under a contract for annual contributions pursuant to section 8 of the United States Housing Act of 1937 reflecting the difference between interest rate which will actually be charged in connection with such permanent financing and the interest rate which was in effect at the time of the reservation of assistance in connection with the project.
 
-1978—Subsec. (a)(4)(C). Pub. L. 95–557, §205(b), struck out “in any fiscal year” after “The aggregate loans made under this section”, and “for such year” after “lending authority established”.
+1978—Subsec. (a)(4)(C). Pub. L. 95–557, §205(b), struck out “in any fiscal year” after “The aggregate loansmade under this section”, and “for such year” after “lending authority established”.
 
 Subsec. (d)(2). Pub. L. 95–557, §205(d), designated provisions beginning “no part of” as par. (A), substituted “member, founder, contributor, or individual” for “private shareholder, contributor, or individual, if such institution or foundation is approved by the Secretary as to financial responsibility”, and added pars. (B) and (C).
 
@@ -548,7 +548,7 @@ Inapplicability of hud reform act provisions.—Notwithstanding section 102 of t
 
 “(3)
 
-Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National AffordableHousing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
+Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
 
 #### Expedited Financing and Construction
 
@@ -624,11 +624,11 @@ Section 162(a) of Pub. L. 100–242 provided that:
 
 #### Termination of Section 8 Assistance
 
-Section 162(d) of Pub. L. 100–242 provided that: “On and after the first date that amounts approved in an appropriation Act for any fiscal year become available for contracts under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\], as amended by subsection (b) of this section, no project for handicapped (primarily nonelderly) families approved for such fiscal year pursuant to section 202 of such Act shall be provided assistance payments under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], except pursuant to a reservation for a contract to make such assistance payments that was made before thefirst date that amounts for contracts under such section 202(h)(4)(A) became available.”
+Section 162(d) of Pub. L. 100–242 provided that: “On and after the first date that amounts approved in an appropriation Act for any fiscal year become available for contracts under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\], as amended by subsection (b) of this section, no project for handicapped (primarily nonelderly) families approved for such fiscal year pursuant to section 202 of such Act shall be provided assistance payments under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], except pursuant to a reservation for a contract to make such assistance payments that was made before the first date that amounts for contracts under such section 202(h)(4)(A) became available.”
 
 #### Implementation of 1988 Amendment
 
-Section 162(e) of Pub. L. 100–242 provided that: “Not later than the expiration of the 120-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall, to the extent amounts are approved in an appropriation Act for use under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\] for fiscal year 1988, publish in the Federal Register a notice of fund availability to implement the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out above\]. The Secretary shall issue such rules as may be necessary to carry out such provisions and amendments for fiscal year 1989 and thereafter.”
+Section 162(e) of Pub. L. 100–242 provided that: “Not later than the expiration of the 120-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall, to the extent amounts are approved in an appropriationAct for use under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\] for fiscal year 1988, publish in the Federal Register a notice of fund availability to implement the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out above\]. The Secretary shall issue such rules as may be necessary to carry out such provisions and amendments for fiscal year 1989 and thereafter.”
 
 #### Housing for the Elderly or Handicapped Fund
 

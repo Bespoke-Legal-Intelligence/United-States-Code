@@ -70,7 +70,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 #### (1) In general
 
-&emsp;The Committee shall undertake a continuing review of the effectiveness of agreements under section 2602 of this title that have entered into force with respect to the UnitedStates, and of emergency action implemented under section 2603 of this title.
+&emsp;The Committee shall undertake a continuing review of the effectiveness of agreements under section 2602 of this title that have entered into force with respect to the United States, and of emergency action implemented under section 2603 of this title.
 
 #### (2) Action by Committee
 

@@ -20,7 +20,7 @@ The immigration officer shall, if the applicant requests it at the time of filin
 
 It shall be lawful at the time and as a part of the administration by a court of the oath of allegiance under section 1448(a) of this title for the court, in its discretion, upon the bona fide prayer of the applicant included in an appropriate petition to the court, to make a decree changing the name of said person, and the certificate of naturalization shall be issued in accordance therewith.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §336, 66 Stat. 257; Dec. 5, 1969, Pub. L. 91–136, 83 Stat. 283; Dec. 29, 1981, Pub. L. 97–116, §15(d), 95 Stat. 1619; Oct. 24, 1988, Pub. L. 100–525, §9(cc), 102 Stat. 2621; Nov. 29, 1990, Pub. L. 101–649, title IV,§407(c)(17), (d)(14), 104 Stat. 5041, 5044; Dec. 12, 1991, Pub. L. 102–232, title III, §305(g), (h), 105 Stat. 1750.)
+(June 27, 1952, ch. 477, title III, ch. 2, §336, 66 Stat. 257; Dec. 5, 1969, Pub. L. 91–136, 83 Stat. 283;Dec. 29, 1981, Pub. L. 97–116, §15(d), 95 Stat. 1619; Oct. 24, 1988, Pub. L. 100–525, §9(cc), 102 Stat. 2621; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(c)(17), (d)(14), 104 Stat. 5041, 5044; Dec. 12, 1991, Pub. L. 102–232, title III, §305(g), (h), 105 Stat. 1750.)
 
 #### Amendments
 

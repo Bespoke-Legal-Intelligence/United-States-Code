@@ -70,9 +70,9 @@ The purpose of this part is to educate limited English proficient children and y
 
 &emsp;(6) developing programs which strengthen and improve the professional training of educational personnel who work with limited English proficient students.
 
-(Pub. L. 89 10, title VII, §7102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3716.)
+(Pub. L. 89–10, title VII, §7102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3716.)
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(15), is Pub. L. 88 352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(15), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

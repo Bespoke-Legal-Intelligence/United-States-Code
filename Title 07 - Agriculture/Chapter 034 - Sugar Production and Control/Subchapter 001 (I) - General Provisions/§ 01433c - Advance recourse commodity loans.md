@@ -1,0 +1,18 @@
+### §1433c. Advance recourse commodity loans
+
+Notwithstanding any other provision of this Act, the Secretary may make advance recourse loans available to producers of the commodities of the 1986 through 1990 crops for which nonrecourse loans are made available under this Act if the Secretary finds that such action is necessary to ensure that adequate operating credit is available to producers. Such recourse loans may be made available under such reasonable terms and conditions as the Secretary may prescribe, except that the Secretary shall require that a producer obtain crop insurance for the crop as a condition of eligibility for a loan.
+
+(Oct. 31, 1949, ch. 792, title IV, §424, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1003, 99 Stat. 1447.)
+
+#### References in Text
+
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Effective and Termination Dates
+
+Section 1003 of Pub. L. 99–198 provided that this section is effective for the 1986 through 1990 crops.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1433c–1 of this title.
+

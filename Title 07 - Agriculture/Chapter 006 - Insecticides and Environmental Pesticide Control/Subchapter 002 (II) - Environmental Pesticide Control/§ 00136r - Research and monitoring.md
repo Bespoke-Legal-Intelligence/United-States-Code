@@ -1,0 +1,34 @@
+### §136r. Research and monitoring
+
+#### (a) Research
+
+The Administrator shall undertake research including research by grant or contract with other Federal agencies, universities, or others as may be necessary to carry out the purposes of this subchapter, and the Administrator shall conduct research into integrated pest management in coordination with the Secretary of Agriculture. The Administrator shall also take care to ensure that such research does not duplicate research being undertaken by any other Federal agency.
+
+#### (b) National monitoring plan
+
+The Administrator shall formulate and periodically revise, in cooperation with other Federal, State, or local agencies, a national plan for monitoring pesticides.
+
+#### (c) Monitoring
+
+The Administrator shall undertake such monitoring activities, including, but not limited to monitoring in air, soil, water, man, plants, and animals, as may be necessary for the implementation of this subchapter and of the national pesticide monitoring plan. The Administrator shall establish procedures for the monitoring of man and animals and their environment for incidential <sup>1</sup> pesticide exposure, including, but not limited to, the quantification of incidental human and environmental pesticide pollution and the secular trends thereof, and identification of the sources of contamination and their relationship to human and environmental effects. Such activities shall be carried out in cooperation with other Federal, State, and local agencies.
+
+(June 25, 1947, ch. 125, §20, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 996; amended Sept. 30, 1978, Pub. L. 95–396, §20, 92 Stat. 834; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(10), (b)(1), 105 Stat. 1895.)
+
+#### Amendments
+
+1991—Subsec. (a). Pub. L. 102–237 substituted “ensure” for “insure” and “the Administrator” for “he” before “shall conduct”.
+
+1978—Subsec. (a). Pub. L. 95–396, §20(1), substituted in first sentence “shall conduct research into integrated pest management in coordination with the Secretary of Agriculture” for “shall give priority to research to develop biologically integrated alternatives for pest control”.
+
+Subsec. (c). Pub. L. 95–396, §20(2), inserted provision requiring establishment of monitoring procedures and the carrying out of the activities in cooperation with other Federal, State, and local agencies.
+
+#### Effective Date
+
+For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5881 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “incidental”.</i>
+

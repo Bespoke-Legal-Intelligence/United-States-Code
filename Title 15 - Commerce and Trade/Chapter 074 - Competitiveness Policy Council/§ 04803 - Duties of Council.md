@@ -12,7 +12,7 @@ The Council shall—
 
 &emsp;(3) analyze information concerning current and future United States economic competitiveness useful to decision making in government and industry;
 
-&emsp;(4) create a forum where national leaders with experience and background in business,labor, academia, public interest activities, and government shall identify and develop recommendations to address problems affecting the economic competitiveness of the United States;
+&emsp;(4) create a forum where national leaders with experience and background in business, labor, academia, public interest activities, and government shall identify and develop recommendations to address problems affecting the economic competitiveness of the United States;
 
 &emsp;(5) evaluate Federal policies, regulations, and unclassified international agreement on trade, science, and technology to which the United States is a party with respect to the impact on United States competitiveness;
 
@@ -38,5 +38,5 @@ The Council shall—
 
 &emsp;(12) publish their analysis and recommendations in the form of an annual report to the President and the Congress which also comments on the overall competitiveness of the American economy.
 
-(Pub. L. 100 418, title V, §5204, Aug. 23, 1988, 102 Stat. 1456.)
+(Pub. L. 100–418, title V, §5204, Aug. 23, 1988, 102 Stat. 1456.)
 

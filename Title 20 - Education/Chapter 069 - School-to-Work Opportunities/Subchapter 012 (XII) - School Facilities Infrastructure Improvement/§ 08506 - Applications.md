@@ -12,7 +12,7 @@ Each application described in subsection (a) of this section shall contain—
 
 &emsp;(2) a description of each architectural, civil, structural, mechanical, or electrical deficiency to be corrected with funds provided under this subchapter, including the priority for the repair of the deficiency;
 
-&emsp;(3) a description of the criteria used by the applicant to determine the type of correctiveaction necessary to meet the purpose of this subchapter;
+&emsp;(3) a description of the criteria used by the applicant to determine the type of corrective action necessary to meet the purpose of this subchapter;
 
 &emsp;(4) a description of the improvement to be supported with funds provided under this subchapter;
 
@@ -24,7 +24,7 @@ Each application described in subsection (a) of this section shall contain—
 
 &emsp;(8) such other information and assurances as the Secretary may reasonably require.
 
-(Pub. L. 89 10, title XII, §12006, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3872.)
+(Pub. L. 89–10, title XII, §12006, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3872.)
 
 #### Section Referred to in Other Sections
 

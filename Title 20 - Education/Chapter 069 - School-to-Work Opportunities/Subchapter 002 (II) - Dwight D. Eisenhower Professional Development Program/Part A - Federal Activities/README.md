@@ -4,7 +4,7 @@ Part A—Federal Activities
 
 This part is referred to in sections 1102b, 5891, 6212, 6303 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “part A,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “part A,”.</i>
 
 
 ---

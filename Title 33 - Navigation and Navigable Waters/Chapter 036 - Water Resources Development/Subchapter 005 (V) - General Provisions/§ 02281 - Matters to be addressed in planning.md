@@ -10,5 +10,5 @@ Enhancing national economic development (including benefits to particular region
 
 #### Rural Project Evaluation and Selection Criteria
 
-Pub. L. 102–580, title II, §214, Oct. 31, 1992, 106 Stat. 4831, directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas and giving greater emphasis to (A) projected increases in values of property, crop lands, and crops, (B) projected increases in the ability to pay by residents, and (C) other benefits, which would result from completion of a proposed water resources development project.
+Pub. L. 102–580, title II, §214, Oct. 31, 1992, 106 Stat. 4831, directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas and giving greater emphasis to (A) projected increases in values of property, crop lands, and crops, (B) projected increases inthe ability to pay by residents, and (C) other benefits, which would result from completion of a proposed water resources development project.
 

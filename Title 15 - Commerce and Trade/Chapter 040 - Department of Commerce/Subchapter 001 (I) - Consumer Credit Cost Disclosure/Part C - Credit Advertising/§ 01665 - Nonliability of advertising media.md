@@ -2,5 +2,5 @@
 
 There is no liability under this part on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.
 
-(Pub. L. 90 321, title I, §145, May 29, 1968, 82 Stat. 159.)
+(Pub. L. 90–321, title I, §145, May 29, 1968, 82 Stat. 159.)
 

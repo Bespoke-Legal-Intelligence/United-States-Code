@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 These Rules, referred to in text, are the Inland Navigational Rules which are classified to subchapter I of this chapter.
 
-The annexes to the International Regulations, referred to in text, are the annexes to the International Regulations for Preventing Collisions at Sea, 1972, which are set out in Appendix A to Part 81 of Title 33, Code of Federal Regulations.
+The International Regulations, referred to in text, are the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
 

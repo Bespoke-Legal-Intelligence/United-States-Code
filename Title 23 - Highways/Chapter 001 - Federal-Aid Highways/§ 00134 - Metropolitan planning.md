@@ -98,6 +98,8 @@ Factors To Be Considered.—In developing transportation plans and programs purs
 
 &emsp;(15) Capital investments that would result in increased security in transit systems.
 
+&emsp;(16) Recreational travel and tourism.
+
 (g)
 
 Development of Long Range Plan.—
@@ -176,7 +178,7 @@ Transportation Management Areas.—
 
 &emsp;(1)
 
-Designation.—The Secretary shall designate as transportation management areas all urbanized areas over 200,000 population.The Secretary shall designate any additional area as a transportation management area upon the request of the Governor and the metropolitan planning organization designated for such area or the affected local officials. Such additional areas shall include upon such a request the Lake Tahoe Basin as defined by Public Law 96–551.
+Designation.—The Secretary shall designate as transportation management areas all urbanized areas over 200,000 population. The Secretary shall designate any additional area as a transportation management area upon the request of the Governor and the metropolitan planning organization designated for such area or the affected local officials. Such additional areas shall include upon such a request the Lake Tahoe Basin as defined by Public Law 96–551.
 
 &emsp;(2)
 
@@ -212,9 +214,9 @@ Limitation on Statutory Construction.—Nothing in this section shall be constru
 
 (n)
 
-Reprogramming of Set Aside Funds.—Any funds set aside pursuant to section 104(f) of this title that are not used for the purpose of carrying out this section may be made available by the metropolitan planning organization tothe State for the purpose of funding activities under section 135.
+Reprogramming of Set Aside Funds.—Any funds set aside pursuant to section 104(f) of this title that are not used for the purpose of carrying out this section may be made available by the metropolitan planning organization to the State for the purpose of funding activities under section 135.
 
-(Added Pub. L. 87–866, §9(a), Oct. 23, 1962, 76 Stat. 1148; amended Pub. L. 91–605, title I, §143, Dec. 31, 1970, 84 Stat. 1737; Pub. L. 95–599, title I, §169, Nov. 6, 1978, 92 Stat. 2723; Pub. L. 102–240, title I, §1024(a), Dec. 18, 1991, 105 Stat. 1955; Pub. L. 102–388, title V, §502(b), Oct. 6, 1992, 106 Stat. 1566; Pub. L. 103–429, §3(5), Oct. 31, 1994, 108 Stat. 4377.)
+(Added Pub. L. 87–866, §9(a), Oct. 23, 1962, 76 Stat. 1148; amended Pub. L. 91–605, title I, §143, Dec. 31, 1970, 84 Stat. 1737; Pub. L. 95–599, title I, §169, Nov. 6, 1978, 92 Stat. 2723; Pub. L. 102–240, title I, §1024(a), Dec. 18, 1991, 105 Stat. 1955; Pub. L. 102–388, title V, §502(b), Oct. 6, 1992, 106 Stat. 1566; Pub. L. 103–429, §3(5), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §317, Nov. 28, 1995, 109 Stat. 588.)
 
 #### References in Text
 
@@ -229,6 +231,8 @@ Public Law 96–551, referred to in subsec. (i)(1), is Pub. L. 96–551, Dec. 19
 The Federal-Aid Highway Act of 1991, referred to in subsec. (k), was not enacted into law. However, provisions referred to as the Federal-Aid Highway Act of 1991 were contained in several bills and are similar to those appearing in part A of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, which Act is known as the Intermodal Surface Transportation Efficiency Act of 1991. For classification of that Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
 #### Amendments
+
+1995—Subsec. (f)(16). Pub. L. 104–59 added par. (16).
 
 1994—Subsecs. (h)(5), (i)(3), (4). Pub. L. 103–429, §3(5)(A), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
@@ -258,15 +262,15 @@ Section 155 of Pub. L. 95–599 authorized Secretary of Transportation to carry 
 
 #### Reduction of Urban Blight Adjacent to Federal-Aid Primary and Interstate Highways Located in Central Business Districts
 
-Section 159 of Pub. L. 95–599 required the Secretary to conduct a study and submit a report to Congress not later than two years after Nov. 6, 1978, respecting the potential for reducing urban blight adjacent to Federal-aid primary and interstate highways located in central business districts.
+Section 159 of Pub. L. 95–599 directed Secretary to conduct a study and submit a report to Congress not later than two years after Nov. 6, 1978, respecting the potential for reducing urban blight adjacent to Federal-aid primary and interstate highways located in central business districts.
 
 #### Urban System Study
 
-Pub. L. 94–280, title I, §149, May 5, 1976, 90 Stat. 447, authorized Secretary of Transportation to conduct a study of the factors involved in planning, selection, etc., of Federal-aid urban system routes including an analysis of organizations carrying out the planning process, the status of jurisdiction over roads, programing responsibilities under local and State laws, and authority of local units, such study to be submitted to Congress within six months of May 5, 1976.
+Pub. L. 94–280, title I, §149, May 5, 1976, 90 Stat. 447, directed Secretary of Transportation to conduct a study of the factors involved in planning, selection, etc., of Federal-aid urban system routes including an analysis of organizations carrying out the planning process, the status of jurisdiction over roads, programing responsibilities under local and State laws, and authority of local units, such study to be submitted to Congress within six months of May 5, 1976.
 
 #### Fringe Parking Demonstration Projects
 
-Pub. L. 90–495, §11, Aug. 23, 1968, 82 Stat. 820, authorized Secretary to approve construction of publicly owned parking facilities under this title until June 30, 1971, as a demonstration project, authorized the Federal share of any project under this section to be 50%, prevented approval of projects by the Secretary unless the State or political subdivision thereof where the project is located can construct, maintain, and operate the facility, unless the Secretary has entered into an agreement with the State or political subdivision governing the financing, maintenance, and operation of the facility, and unless the Secretary has approved design standards for construction of the facility, defined “parking facilities”, permitted a State or political subdivision to contract for the operation of such facility, prohibited approval of the project by the Secretary unless it is carried on in accordance with section 134 of this title (this section), and required annual reports to Congress on the demonstration projects approved under this section, prior to repeal by Pub. L. 91–605, title I, §134(c), Dec. 31, 1970, 84 Stat. 1734. See section 137 of this title.
+Pub. L. 90–495, §11, Aug. 23, 1968, 82 Stat. 820, authorized Secretary to approve construction of publicly owned parking facilities under this title until June 30, 1971, as a demonstration project, authorized the Federal share of any project under this section to be 50%, prevented approval of projects by the Secretary unless the State or political subdivision thereof where the project is located can construct, maintain, and operatethe facility, unless the Secretary has entered into an agreement with the State or political subdivision governing the financing, maintenance, and operation of the facility, and unless the Secretary has approved design standards for construction of the facility, defined “parking facilities”, permitted a State or political subdivision to contract for the operation of such facility, prohibited approval of the project by the Secretary unless it is carried on in accordance with section 134 of this title (this section), and required annual reports to Congress on the demonstration projects approved under this section, prior to repeal by Pub. L. 91–605, title I, §134(c), Dec. 31, 1970, 84 Stat. 1734. See section 137 of this title.
 
 #### Section Referred to in Other Sections
 

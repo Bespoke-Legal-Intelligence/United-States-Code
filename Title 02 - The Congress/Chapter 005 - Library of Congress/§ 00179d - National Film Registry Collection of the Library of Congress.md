@@ -14,7 +14,7 @@ All copies of films on the National Film Registry that are received by the Libra
 
 #### (d) National Film Registry Collection
 
-All copies of films on the National Film Registry that are received by the Librarian and other materials received by the Librarian under subsection (b) of this section shall be maintained in a special collection in the Library of Congress to be known as the “National Film Registry Collection of the Library of Congress”. The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to films in such collection for scholarly and research purposes.
+All copies of films on the National Film Registry that are received by the Librarian andother materials received by the Librarian under subsection (b) of this section shall be maintained in a special collection in the Library of Congress to be known as the “National Film Registry Collection of the Library of Congress”. The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to films in such collection for scholarly and research purposes.
 
 (Pub. L. 102–307, title II, §206, June 26, 1992, 106 Stat. 270.)
 

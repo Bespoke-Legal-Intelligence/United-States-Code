@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-(1) The head of each executive agency shall ensure that procuring activities of that agency, in awarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 637(a) of title 15, section 2323 of title 10, and section 7102 of the Federal Acquisition Streamlining Act of 1994.
+(1) The head of each executive agency shall ensure that procuring activities of that agency, inawarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 637(a) of title 15, section 2323 of title 10, and section 7102 of the Federal Acquisition Streamlining Act of 1994.
 
 (2) The authority under part 13.106(a)(1) of the Federal Acquisition Regulation (48 C.F.R. 13.106(a)(1)), as in effect on November 18, 1993, to make purchases without securing competitive quotations does not apply to any purchases with a price exceeding the micro-purchase threshold.
 
@@ -38,7 +38,7 @@ For purposes of this section, the micro-purchase threshold is the amount of $2,5
 
 #### References in Text
 
-Section 7102 of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (a)(1), is section 7102of Pub. L. 103–355, which is set out as a note under section 644 of Title 15, Commerce and Trade.
+Section 7102 of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (a)(1), is section 7102 of Pub. L. 103–355, which is set out as a note under section 644 of Title 15, Commerce and Trade.
 
 The Buy American Act, referred to in subsec. (b), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which enacted sections 10a, 10b, 10b–1, and 10c of this title, and enacted provisions set out as notes under section 10c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10a of this title and Tables.
 

@@ -14,13 +14,13 @@ The Secretary of Agriculture is directed, in accordance with authority vested in
 
 #### (d) Interim use of railroad rights-of-way
 
-The Secretary of Transportation, the Chairman of the Interstate Commerce Commission, and the Secretary of the Interior, in administering the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 801 et seq.\], shall encourage State and local agencies and private interests to establish appropriate trails using the provisions of such programs. Consistent with the purposes of that Act, and in furtherance of the national policy to preserve established railroad rights-of-way for future reactivation of rail service, to protect rail transportation corridors, and to encourage energy efficient transportation use, in the case of interim use of any established railroad rights-of-way pursuant to donation, transfer, lease, sale, or otherwise in a manner consistent with this chapter, if such interim use is subject to restoration or reconstruction for railroad purposes, such interim use shall not be treated, for purposes of any law or rule of law, as an abandonment of the use of such rights-of-way for railroad purposes. If a State, political subdivision, or qualified private organization is prepared to assume full responsibility for management of such rights-of-way and for any legal liability arising out of such transfer or use, and for the payment of any and all taxes that may be levied or assessed against such rights-of-way, then the Commission shall impose such terms and conditions as a requirement of any transfer or conveyance for interim use in a manner consistent with this chapter, and shall not permit abandonment or discontinuance inconsistent or disruptive of such use.
+The Secretary of Transportation, the Chairman of the Surface Transportation Board, and the Secretary of the Interior, in administering the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 801 et seq.\], shall encourage State and local agencies and private interests to establish appropriate trails using the provisions of such programs. Consistent with the purposes of that Act, and in furtherance of the national policy to preserve established railroad rights-of-way for future reactivation of rail service, to protect rail transportation corridors, and to encourage energy efficient transportationuse, in the case of interim use of any established railroad rights-of-way pursuant to donation, transfer, lease, sale, or otherwise in a manner consistent with this chapter, if such interim use is subject to restoration or reconstruction for railroad purposes, such interim use shall not be treated, for purposes of any law or rule of law, as an abandonment of the use of such rights-of-way for railroad purposes. If a State, political subdivision, or qualified private organization is prepared to assume full responsibility for management of such rights-of-way and for any legal liability arising out of such transfer or use, and for the payment of any and all taxes that may be levied or assessed against such rights-of-way, then the Board shall impose such terms and conditions as a requirement of any transfer or conveyance for interim use in a manner consistent with this chapter, and shall not permit abandonment or discontinuance inconsistent or disruptive of such use.
 
 #### (e) Designation and marking of trails; approval of Secretary of the Interior
 
 Such trails may be designated and suitably marked as parts of the nationwide system of trails by the States, their political subdivisions, or other appropriate administering agencies with the approval of the Secretary of the Interior.
 
-(Pub. L. 90–543, §8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, §551(22), Nov. 10, 1978, 92 Stat. 3516; Pub. L. 98–11, title II, §208, Mar. 28, 1983, 97 Stat. 48.)
+(Pub. L. 90–543, §8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, §551(22), Nov. 10, 1978, 92 Stat. 3516; Pub. L. 98–11, title II, §208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, §317(1), Dec. 29, 1995, 109 Stat. 949.)
 
 #### References in Text
 
@@ -38,7 +38,13 @@ The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in su
 
 #### Amendments
 
+1995—Subsec. (d). Pub. L. 104–88 substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
+
 1983—Subsecs. (d), (e). Pub. L. 98–11, §208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1978—Subsec. (a). Pub. L. 95–625 inserted “and historic” after “establishing park, forest, and other recreation” and “administered by States, and recreation”, and directed the Secretary to encourage States to consider in their plans and proposals the needs and opportunities for establishing historic trails.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 

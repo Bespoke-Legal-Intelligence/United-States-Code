@@ -244,6 +244,10 @@ Sec. 5. <i>General</i>. The Committee shall function for such period as may be n
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Extension of Term of Trade and Environment Policy Advisory Committee
+
+Term of Trade and Environment Policy Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537 of this title; title 7 sections 1748, 5603; title 8 section 1184; title 50 App. section 2405.

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) assure an exclusive representative the right, in its own behalf or on behalf of any employee in the unit represented by the exclusive representative, to present and process grievances;
 
-&emsp;&emsp;(ii) assure such an employee the right to present a grievance on the employee's own behalf, and assure the exclusive representative the right to be present during the grievance proceeding; and
+&emsp;&emsp;(ii) assure such an employee the right to present a grievance on the employee's ownbehalf, and assure the exclusive representative the right to be present during the grievance proceeding; and
 
 &emsp;&emsp;(iii) provide that any grievance not satisfactorily settled under the negotiated grievance procedure shall be subject to binding arbitration which may be invoked by either the exclusive representative or the agency.
 
@@ -68,19 +68,19 @@
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1211; amended Pub. L. 103–424, §9, Oct. 29, 1994, 108 Stat. 4365.)
 
-#### Partial Suspension of Federal Service Labor-Management Relations
-
-Subsec. (b)(3)(C) of this section suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(d) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
-
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
 
 Subsec. (b). Pub. L. 103–424, §9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
 
 Subsec. (g). Pub. L. 103–424, §9(b), added subsec. (g).
 
+#### Partial Suspension of Federal Service Labor-Management Relations
+
+Subsec. (b)(3)(C) of this section suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(d) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 571, 7116, 7122 of this title; title 22 section 3701.
+This section is referred to in sections 571, 7116, 7122 of this title; title 2 section 1351; title 22 section 3701.
 

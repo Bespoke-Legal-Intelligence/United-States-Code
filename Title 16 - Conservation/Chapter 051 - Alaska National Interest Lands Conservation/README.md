@@ -145,7 +145,7 @@
 | (c) | Pipeline rights-of-way. |
 | [3168\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003168%20-%20Injunctive%20relief.md) | Injunctive relief. |
 | [3169\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003169%20-%20Valid%20existing%20right%20of%20access.md) | Valid existing right of access. |
-| [3170\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003170%20-%20Special%20access%20and%20access%20to%20inholdings.md) | Special access and access to inholdings. |
+| 3170\. | Special access and access to inholdings. |
 | (a) | Use of snowmachines, motorboats, airplanes, nonmotorized surface transportation, etc. for traditional activities and for travel. |
 | (b) | Right of access to State or private owner or occupier. |
 | [3171\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003171%20-%20Temporary%20access.md) | Temporary access. |

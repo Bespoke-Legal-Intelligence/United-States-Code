@@ -18,7 +18,7 @@ To carry out the flood insurance program authorized by this chapter, the Directo
 
 &emsp;(7) for transfers to the National Flood Mitigation Fund, but only to the extent provided in section 4104d(b)(1) of this title; and
 
-&emsp;(8) for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.
+&emsp;(8) for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of$5,000,000 over the 2-year period beginning on September 23, 1994.
 
 #### (b) Credits to Fund
 

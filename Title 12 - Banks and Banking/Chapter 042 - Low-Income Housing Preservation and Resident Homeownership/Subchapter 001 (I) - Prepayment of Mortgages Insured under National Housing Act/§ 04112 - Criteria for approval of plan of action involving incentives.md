@@ -1,4 +1,4 @@
-### §4112 . Criteria for approval of plan of action involving incentives
+### §4112. Criteria for approval of plan of action involving incentives
 
 #### (a) In general
 
@@ -8,7 +8,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;(2) binding commitments have been made to ensure that—
 
-&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
+&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for theremaining useful life of such housing (as determined under subsection (c) of this section);
 
 &emsp;&emsp;(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
 
@@ -38,7 +38,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 > &emsp;&emsp;Subject to subclause (II), payment of this minimum rent shall be a condition of continued occupancy and eligibility for section 8 \[42 U.S.C. 1437f\] assistance.
 
-&emsp;&emsp;(II) Notwithstanding the rents required under subclause (I), a tenant who occupies a unit designated for occupancy by low-income persons and families, and who becomes a very low-income tenant, shall be provided with the next available unit designated for occupancy by very low-income persons and families, and, until such unit becomes available, shall pay for rent not more than the amount chargeable as rent under section 1437a(a) of title 42. Such tenant shall not be evicted for nonpayment of rent if the rent amounts set forth in this subclause are paid. The costs resulting from the difference between rents required under subclause (I) andthe rents permitted under this subclause shall be incorporated into the section 8 \[42 U.S.C. 1437f\] contract for units designated for occupancy by low-income persons or families; and <sup>3</sup>
+&emsp;&emsp;(II) Notwithstanding the rents required under subclause (I), a tenant who occupies a unit designated for occupancy by low-income persons and families, and who becomes a very low-income tenant, shall be provided with the next available unit designated for occupancy by very low-income persons and families, and, until such unit becomes available, shall pay for rent not more than the amount chargeable as rent under section 1437a(a) of title 42. Such tenant shall not be evicted for nonpayment of rent if the rent amounts set forth in this subclause are paid. The costs resulting from the difference between rents required under subclause (I) and the rents permitted under this subclause shall be incorporated into the section 8 \[42 U.S.C. 1437f\] contract for units designated for occupancy by low-income persons or families; and <sup>3</sup>
 
 &emsp;&emsp;(F)(i) to the extent practicable, the units becoming available to new tenants shall be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing;
 
@@ -82,7 +82,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (1) Establishment and inspection
 
-&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition inwhich any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
+&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
 
 #### (2) Sanctions
 

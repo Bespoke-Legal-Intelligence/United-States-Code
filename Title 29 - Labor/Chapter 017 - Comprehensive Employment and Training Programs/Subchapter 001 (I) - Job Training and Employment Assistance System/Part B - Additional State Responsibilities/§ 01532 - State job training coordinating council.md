@@ -36,7 +36,7 @@ The State council shall—
 
 &emsp;(2) recommend to the Governor substate service delivery areas, plan resource allocations not subject to section 1602(b) or 1642(b) of this title, provide management guidance and review for all programs in the State, develop appropriate linkages with other programs, coordinate activities with private industry councils, and develop the Governor's coordination and special services plan and recommend variations in performance standards;
 
-&emsp;(3) advise the Governor and local entities on job training plans and certify the consistency of such plans with criteria under the Governor's coordination and special services planfor coordination of activities under this chapter with other Federal, State, and local employment-related programs, including programs operated in designated enterprise zones;
+&emsp;(3) advise the Governor and local entities on job training plans and certify the consistency of such plans with criteria under the Governor's coordination and special services plan for coordination of activities under this chapter with other Federal, State, and local employment-related programs, including programs operated in designated enterprise zones;
 
 &emsp;(4) review the operation of programs conducted in each service delivery area, and the availability, responsiveness, and adequacy of State services, and make recommendations to the Governor, appropriate chief elected officials, and private industry councils, service providers, the State legislature, and the general public with respect to ways to improve the effectiveness of such programs or services;
 
@@ -76,7 +76,7 @@ Section 1514(b) of this title, referred to in subsec. (b)(5), (6), was amended g
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(8), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of such Act is classified generally to subchapter IV\(§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of such Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (c), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

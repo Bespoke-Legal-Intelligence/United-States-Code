@@ -20,7 +20,7 @@ The programs referred to in subsection (a) of this section are programs leading 
 
 #### (2) Limitation
 
-&emsp;Of the amounts appropriated under paragraph (1), the Secretary may not obligatemore than 10 percent for providing grants or contracts under subsection (a) of this section for programs leading to doctoral degrees.
+&emsp;Of the amounts appropriated under paragraph (1), the Secretary may not obligate more than 10 percent for providing grants or contracts under subsection (a) of this section for programs leading to doctoral degrees.
 
 (July 1, 1944, ch. 373, title VIII, §821, as added July 29, 1975, Pub. L. 94–63, title IX, §931(a), 89 Stat. 361; amended Sept. 29, 1979, Pub. L. 96–76, title I, §106, 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2754, 95 Stat. 930; Aug. 16, 1985, Pub. L. 99–92, §4, 99 Stat. 394; Oct. 22, 1985, Pub. L. 99–129, title II, §227(b), 99 Stat. 548; Nov. 4, 1988, Pub. L. 100–607, title VII, §702, 102 Stat. 3157; Oct. 13, 1992, Pub. L. 102–408, title II, §203, 106 Stat. 2072.)
 

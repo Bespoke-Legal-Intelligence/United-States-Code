@@ -2,7 +2,7 @@
 
 #### (a) Pilot projects for administration of child nutrition programs by contract or direct disbursement
 
-The Secretary may conduct pilot projects in not more than three States in which the Secretary is currently administering programs to evaluate the effects of the Secretary contracting with private profit and nonprofit organizations to act as a State agency under this chapter andthe Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] for schools, institutions, or service institutions referred to in section 1759 of this title and section 5 of the Child Nutrition Act of 1966 \[42 U.S.C. 1774\].
+The Secretary may conduct pilot projects in not more than three States in which the Secretary is currently administering programs to evaluate the effects of the Secretary contracting with private profit and nonprofit organizations to act as a State agency under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] for schools, institutions, or service institutions referred to in section 1759 of this title and section 5 of the Child Nutrition Act of 1966 \[42 U.S.C. 1774\].
 
 #### (b) Extension of eligibility of certain school districts to receive cash or commodity letters of credit assistance for school lunch programs
 
@@ -80,7 +80,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (7)(A) Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary $400,000 for each of fiscal years 1995 through 1998 to carry out this subsection. The Secretary shall be entitled to receive the funds and shall accept the funds.
 
-(B) Any funds provided under subparagraph (A) to carry out projects under this subsection for a fiscal year that are not obligated in the fiscal year shall be used by the Secretary to carry outthe homeless children nutrition program established under section 1766b of this title.
+(B) Any funds provided under subparagraph (A) to carry out projects under this subsection for a fiscal year that are not obligated in the fiscal year shall be used by the Secretary to carry out the homeless children nutrition program established under section 1766b of this title.
 
 (8) As used in this subsection:
 
@@ -120,7 +120,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (C) For the purposes of this paragraph, a universal free school lunch program is a program under which the school operating the program elects to serve all children in that school free lunches under the school lunch program during any period of 3 successive years and pays, from sources other than Federal funds, for the costs of serving such lunches which are in excess of the value of assistance received under this chapter with respect to the number of lunches served during that period.
 
-(4) In addition to the pilot projects described in this subsection, the Secretary may conduct other pilot projects to test alternative counting and claiming procedures.
+(4) In addition to the pilot projects described in this subsection, the Secretary may conductother pilot projects to test alternative counting and claiming procedures.
 
 (5) Each pilot program carried out under this subsection shall be evaluated by the Secretary after it has been in operation for 3 years.
 
@@ -284,7 +284,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (B) The Secretary may not waive a requirement under subparagraph (A) if the waiver would prevent a program participant, a potential program recipient, or a school from receiving all of the benefits and protections of this chapter, the Child Nutrition Act of 1966, or a Federal statute or regulation that protects an individual constitutional right or a statutory civil right.
 
-(C) No child otherwise eligible for free or reduced price meals under section 1758 of this title or under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall be required to paymore under a program carried out under this subsection for such a meal than the child would otherwise pay under section 1758 of this title or under section 4 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773\], respectively.
+(C) No child otherwise eligible for free or reduced price meals under section 1758 of this title or under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall be required to pay more under a program carried out under this subsection for such a meal than the child would otherwise pay under section 1758 of this title or under section 4 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773\], respectively.
 
 (3) To be eligible to receive a grant to conduct a pilot project under this subsection, a school shall—
 
@@ -326,7 +326,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;(i) determine the effect that participation by schools in the pilot projects has on the rate of student participation in the school lunch program and the school breakfast program, in total and by various income groups;
 
-&emsp;(ii) compare the quality of meals served under the pilot project to the quality of meals served under the school lunch program and the school breakfast program during the school year immediately preceding participation in the pilot project;
+&emsp;(ii) compare the quality of meals served under the pilot project to the quality of mealsserved under the school lunch program and the school breakfast program during the school year immediately preceding participation in the pilot project;
 
 &emsp;(iii) summarize the views of students, parents, and administrators with respect to the pilot project;
 
@@ -346,7 +346,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (8) There are authorized to be appropriated to carry out this subsection $9,000,000 for each fiscal year during the period beginning October 1, 1995, and ending July 31, 1998.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Nov. 10, 1977, Pub. L. 95–166, §10(2), 91 Stat. 1336; amended Nov. 10, 1978, Pub. L. 95–627, §11, 92 Stat. 3624; renumbered §18 and amended Oct. 18, 1986, Pub. L. 99–500, title III, §§327, 371(c)(1), 100 Stat. 1783–362, 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §§327, 371(c)(1), 100 Stat. 3341–365,3341–372; renumbered §18 and amended Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), 100 Stat. 4073, 4080; Jan. 8, 1988, Pub. L. 100–237, §5, 101 Stat. 1739; Nov. 10, 1989, Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, 103 Stat. 886, 910, 916; Aug. 14, 1992, Pub. L. 102–342, title I, §101(a), title III, §301, 106 Stat. 911, 913; Oct. 24, 1992, Pub. L. 102–512, title I, §102, 106 Stat. 3363; Nov. 2, 1994, Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, 108 Stat. 4717, 4719.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Nov. 10, 1977, Pub. L. 95–166, §10(2), 91 Stat. 1336; amended Nov. 10, 1978, Pub. L. 95–627, §11, 92 Stat. 3624; renumbered §18 and amended Oct. 18, 1986, Pub. L. 99–500, title III, §§327, 371(c)(1), 100 Stat. 1783–362, 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §§327, 371(c)(1), 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), 100 Stat. 4073, 4080; Jan. 8, 1988, Pub. L. 100–237, §5, 101 Stat. 1739; Nov. 10, 1989, Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, 103 Stat. 886, 910, 916; Aug. 14, 1992, Pub. L. 102–342, title I, §101(a), title III, §301, 106 Stat. 911, 913; Oct. 24, 1992, Pub. L. 102–512, title I, §102, 106 Stat. 3363; Nov. 2, 1994, Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, 108 Stat. 4717, 4719.)
 
 #### References in Text
 
@@ -418,7 +418,7 @@ Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -436,7 +436,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 Section 101(b) of Pub. L. 102–342 provided that:
 
-“(1) The Secretary of Agriculture may conduct demonstration projects other than those required undersection 18(c) of the National School Lunch Act (42 U.S.C. 1769(c)) to identify other effective means of providing food assistance to homeless children residing in temporary shelters.
+“(1) The Secretary of Agriculture may conduct demonstration projects other than those required under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c)) to identify other effective means of providing food assistance to homeless children residing in temporary shelters.
 
 “(2) None of the funds provided under section 18(c)(5)(A) of the National School Lunch Act may be used by the Secretary of Agriculture to conduct a demonstration project under paragraph (1) of this subsection.”
 

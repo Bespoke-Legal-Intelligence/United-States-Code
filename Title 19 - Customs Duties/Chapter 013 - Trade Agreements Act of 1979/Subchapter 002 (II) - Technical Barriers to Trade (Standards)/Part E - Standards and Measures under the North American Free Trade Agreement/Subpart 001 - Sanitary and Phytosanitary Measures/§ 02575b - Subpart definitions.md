@@ -1,4 +1,4 @@
-### §2575b . Subpart definitions
+### §2575b. Subpart definitions
 
 Notwithstanding section 2571 of this title, for purposes of this subpart—
 

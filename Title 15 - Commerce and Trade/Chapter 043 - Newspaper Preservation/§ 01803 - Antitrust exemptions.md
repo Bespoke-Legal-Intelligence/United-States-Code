@@ -12,7 +12,7 @@ It shall be unlawful for any person to enter into, perform, or enforce a joint o
 
 Nothing contained in the chapter shall be construed to exempt from any antitrust law any predatory pricing, any predatory practice, or any other conduct in the otherwise lawful operations of a joint newspaper operating arrangement which would be unlawful under any antitrust law if engaged in by a single entity. Except as provided in this chapter, no joint newspaper operating arrangement or any party thereto shall be exempt from any antitrust law.
 
-(Pub. L. 91 353, §4, July 24, 1970, 84 Stat. 467.)
+(Pub. L. 91–353, §4, July 24, 1970, 84 Stat. 467.)
 
 #### References in Text
 

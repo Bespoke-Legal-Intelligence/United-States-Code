@@ -64,7 +64,7 @@ Financing.—(1) The Secretary shall pay from amounts provided under section 530
 
 &emsp;(A) at least $1,000,000 for the fiscal year ending September 30, 1992, for grants under subsection (c)(2) of this section.
 
-&emsp;(B) at least $4,000,000 for the fiscal year ending September 30, 1993, for the United States Government share of the costs (as determined under section 5309 of this title) if the systems planning, alternatives analysis, preliminary engineering, and design and environmental impact statement are required by law for the project.
+&emsp;(B) at least $4,000,000 for the fiscal year ending September 30, 1993, for the United States Government share of the costs (as determined under section 5309 of this title) if the systemsplanning, alternatives analysis, preliminary engineering, and design and environmental impact statement are required by law for the project.
 
 &emsp;(C) at least $30,000,000 for the fiscal year ending September 30, 1994, as provided in the grant agreement under subsection (e) of this section, for the Government share of the construction costs of the project.
 

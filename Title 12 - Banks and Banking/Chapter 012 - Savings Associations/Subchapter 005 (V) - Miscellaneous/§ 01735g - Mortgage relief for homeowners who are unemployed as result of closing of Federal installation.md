@@ -36,7 +36,7 @@ For the purposes of this section—
 
 &emsp;(B) thirty days after the date on which the mortgagor gives notice in writing to the Federal mortgage agency that he is able to resume his obligation to make payments due under his mortgage; or
 
-&emsp;(C) thirty days after the date on which the Federal mortgage agency determines that themortgagor to whom such certificate was issued has ceased to be a distressed mortgagor as defined in subsection (a)(3) of this section.
+&emsp;(C) thirty days after the date on which the Federal mortgage agency determines that the mortgagor to whom such certificate was issued has ceased to be a distressed mortgagor as defined in subsection (a)(3) of this section.
 
 #### (c) Notice to mortgagee of assumption of mortgagor's obligation by agency; amount of payments; suspension of payments by mortgagor; prohibition against further action to enforce or collect payments; liability of mortgagor upon expiration of certificate; notice of expiration of certificate
 
@@ -86,7 +86,7 @@ Subsec. (b)(4). Pub. L. 89–754 increased the period from one to two years in s
 
 Subsec. (c)(1). Pub. L. 89–754 substituted “payments due under the mortgage” for “payments of principal, and, if so specified in the certificate, of interest, under the mortgage”.
 
-Subsec. (c)(2). Pub. L. 89–754 substituted “may include” for “shall include” and “unpaid payments under such mortgage” for “unpaid principal and interest charges which had accrued and subsequent to the date on which such mortgagor became a distressed mortgagor as defined in subsection (a) of this section”, and authorized payments of reasonable allowance for foreclosure costs actually paid by the mortgagee if a foreclosure action was dismissed as result of issuance of moratorium certificate and taxes and insurance premiums on mortgaged property as deemed necessary when not provided for through payments to a tax and insurance account held by the interested mortgagee.
+Subsec. (c)(2). Pub. L. 89–754 substituted “may include” for “shall include” and “unpaid payments under such mortgage” for “unpaid principal and interestcharges which had accrued and subsequent to the date on which such mortgagor became a distressed mortgagor as defined in subsection (a) of this section”, and authorized payments of reasonable allowance for foreclosure costs actually paid by the mortgagee if a foreclosure action was dismissed as result of issuance of moratorium certificate and taxes and insurance premiums on mortgaged property as deemed necessary when not provided for through payments to a tax and insurance account held by the interested mortgagee.
 
 Subsec. (c)(3). Pub. L. 89–754 substituted “payments due under the mortgage” for “payments of principal, and, if so specified in the certificate, of interest, under the mortgage”.
 

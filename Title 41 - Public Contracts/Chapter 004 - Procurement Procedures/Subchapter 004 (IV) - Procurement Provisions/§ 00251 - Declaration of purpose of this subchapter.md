@@ -40,7 +40,7 @@ Pub. L. 98–369, div. B, title VII, §2751, July 18, 1984, 98 Stat. 1203, provi
 
 “(a) Except as provided in subsection (b), the amendments made by this title \[see Short Title of 1984 Amendments note below\] shall apply with respect to any solicitation for bids or proposals issued after March 31, 1985.
 
-“(b) The amendments made by section 2713 \[amending section 759 of Title 40, Public Buildings, Property, and Works, and enacting provisions set out as a note under section 759 of Title 40\] and subtitle D \[enacting sections 3551 to 3556 of Title 31, Money and Finance\] shall apply with respect to any protest filed after January 14, 1985.”
+“(b) The amendments made by section 2713 \[amending section 759 of Title 40, Public Buildings, Property, andWorks, and enacting provisions set out as a note under section 759 of Title 40\] and subtitle D \[enacting sections 3551 to 3556 of Title 31, Money and Finance\] shall apply with respect to any protest filed after January 14, 1985.”
 
 #### Effective Date
 

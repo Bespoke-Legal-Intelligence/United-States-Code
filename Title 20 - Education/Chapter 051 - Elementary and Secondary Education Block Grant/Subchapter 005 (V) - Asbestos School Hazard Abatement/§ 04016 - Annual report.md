@@ -14,19 +14,19 @@ During each calendar year until 1999, the Administrator shall prepare and submit
 
 &emsp;(6) estimate the number of schools still in need of assistance and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards.
 
-(Pub. L. 98 377, title V, §507, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101 637, §§8, 14(a)(7), Nov. 28, 1990, 104 Stat. 4592, 4594.)
+(Pub. L. 98–377, title V, §507, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101–637, §§8, 14(a)(7), Nov. 28, 1990, 104 Stat. 4592, 4594.)
 
 #### Amendments
 
-1990—Pub. L. 101 637, §14(a)(7), made technical amendment to section catchline.
+1990—Pub. L. 101–637, §14(a)(7), made technical amendment to section catchline.
 
-Pub. L. 101 637, §8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title.”
+Pub. L. 101–637, §8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title.”
 
-Par. (6). Pub. L. 101 637, §8(b), inserted before period at end “and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards”.
+Par. (6). Pub. L. 101–637, §8(b), inserted before period at end “and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards”.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerceof House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

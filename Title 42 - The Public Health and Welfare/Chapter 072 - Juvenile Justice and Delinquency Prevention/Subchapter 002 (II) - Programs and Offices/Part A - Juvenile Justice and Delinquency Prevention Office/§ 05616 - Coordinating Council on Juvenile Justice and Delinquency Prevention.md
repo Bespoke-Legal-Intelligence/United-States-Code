@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-(1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
+(1) There is hereby established, as an independent organization in the executive branch ofthe Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
 
 (2)(A) Nine members shall be appointed, without regard to political affiliation, to the Council in accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the United States.
 
@@ -60,7 +60,7 @@ Of sums available to carry out this part, not more than $200,000 shall be availa
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
+1993—Subsec. (a)(1). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for Nationaland Community Service” for “the Director of the ACTION Agency”.
 
 1992—Subsec. (a)(1). Pub. L. 102–586, §2(d)(1)(A), substituted “the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Director of the ACTION Agency, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2)” for “the Director of the Office of Community Services, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director for the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives of such other agencies as the President shall designate”.
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 100–690, §7254(b), struck out provision that annual repo
 
 Subsec. (g). Pub. L. 100–690, §7254(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “To carry out the purposes of this section there is authorized to be appropriated such sums as may be necessary, not to exceed $200,000 for each fiscal year.”
 
-1984—Subsec. (a)(1). Pub. L. 98–473, §623(a), substituted “Office of Community Services” for “Community Services Administration”, “Assistant Attorney General who heads the Office of Justice Programs” for“Director of the Office of Justice Assistance, Research, and Statistics”, and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
+1984—Subsec. (a)(1). Pub. L. 98–473, §623(a), substituted “Office of Community Services” for “Community Services Administration”, “Assistant Attorney General who heads the Office of Justice Programs” for “Director of the Office of Justice Assistance, Research, and Statistics”, and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
 
 Subsec. (c). Pub. L. 98–473, §623(b), substituted “delinquency programs and, in consultation with the Advisory Board on Missing Children, all Federal programs relating to missing and exploited children” for “delinquency programs”.
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 95–115, §3(d)(4), redesignated former par. (3) as entire
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

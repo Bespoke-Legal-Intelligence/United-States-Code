@@ -8,5 +8,5 @@ The Foundation is authorized, either directly or by contract, to provide for the
 
 The Foundation shall adopt selection procedures which shall assure that at least one Truman scholar shall be selected each year from each State in which there is at least one resident applicant who meets the minimum criteria established by the Foundation.
 
-(Pub. L. 93 642, §7, Jan. 4, 1975, 88 Stat. 2278.)
+(Pub. L. 93–642, §7, Jan. 4, 1975, 88 Stat. 2278.)
 

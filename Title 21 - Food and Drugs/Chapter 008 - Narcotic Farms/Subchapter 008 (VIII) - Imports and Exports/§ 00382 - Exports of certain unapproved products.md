@@ -88,7 +88,7 @@ A drug (including a biological product) intended for human or animal use—
 
 &emsp;(vi) identify the establishments in which the drug is manufactured, and
 
-&emsp;(vii) include a written agreement from each importer to whom the drug is to be exported from the United States that such importer will not export the drug to a country which is not listed under paragraph (4) and will provide notice to the applicant of any knowledge of an export of the drug to such a country by any person and will maintain records of the drug wholesale distributors to which the drug is sold.
+&emsp;(vii) include a written agreement from each importer to whom the drug is to be exported from the United States that such importer will not export the drug to a country which is not listed under paragraph (4) and will provide notice to the applicant of any knowledge of anexport of the drug to such a country by any person and will maintain records of the drug wholesale distributors to which the drug is sold.
 
 (C)(i) Before the expiration of 30 days after the date an application is submitted to the Secretary, the Secretary shall review the application to determine if the application meets the requirements of clauses (i), (ii), (iv), (v), (vi), and (vii) of subparagraph (B) and contains the certifications described in clauses (iii) (other than the certification required by clause (iii)(II)) and (iv). If the Secretary determines that the application meets such requirements and contains such certifications the Secretary shall conditionally approve the application. An application which is so conditionally approved shall be finally approved within 5 days of the submission of the certification required by clause (iii)(II).
 
@@ -166,13 +166,13 @@ A drug (including a biological product) intended for human or animal use—
 
 &emsp;(D) the receipt of any credible information indicating that the drug is being or may have been exported from a country listed under subsection (b)(4) of this section to a country which is not listed under such subsection.
 
-> The reporting of an event described in subparagraph (A), (B), or (C) shall be made within 15days of the occurrence of the event and the reporting of the receipt of information under subparagraph (D) shall be made within 15 days of the receipt of such information.
+> The reporting of an event described in subparagraph (A), (B), or (C) shall be made within 15 days of the occurrence of the event and the reporting of the receipt of information under subparagraph (D) shall be made within 15 days of the receipt of such information.
 
 (2) The holder of an approved application under subsection (b) of this section authorizing the export of a drug shall report annually to the Secretary after the date of the approval of the application of the actions taken by the holder in pursuit of the approval of such drug during the year reported on. Not later than 90 days from the date of the receipt of a report under this paragraph the Secretary shall determine if the holder is actively pursuing the approval of such drug.
 
 #### (d) Export of drug under approved application prohibited
 
-A drug authorized to be exported to a country under an application approved under subsection (b) of this section may not be exported to such country if—
+A drug authorized to be exported to a country under an application approved under subsection\(b) of this section may not be exported to such country if—
 
 &emsp;(1) an approval of such drug is withdrawn by such country,
 
@@ -210,7 +210,7 @@ A drug authorized to be exported to a country under an application approved unde
 
 (B) The authority conferred by subparagraph (A) shall not be delegated by the Secretary. A determination by the Secretary under subparagraph (A) may not be stayed pending final action by a reviewing court.
 
-(5) If the Secretary receives credible evidence that the holder of an application approved under subsection (b) of this section is exporting a drug to a country which is not listed under subsection (b)(4) of this section, the Secretary shall give the holder 60 days to provide information to the Secretary respecting such evidence and shall provide the holder an opportunity for an informal hearing on such evidence. Upon the expiration of such 60 days the Secretary shall prohibit the export of such drug to such country if theSecretary determines that the holder of the application is exporting the drug to a country which is not listed under subsection (b)(4) of this section.
+(5) If the Secretary receives credible evidence that the holder of an application approved under subsection (b) of this section is exporting a drug to a country which is not listed under subsection (b)(4) of this section, the Secretary shall give the holder 60 days to provide information to the Secretary respecting such evidence and shall provide the holder an opportunity for an informal hearing on such evidence. Upon the expiration of such 60 days the Secretary shall prohibit the export of such drug to such country if the Secretary determines that the holder of the application is exporting the drug to a country which is not listed under subsection (b)(4) of this section.
 
 (6) If the Secretary receives credible evidence that an importer is exporting a drug to a country which is not listed under subsection (b)(4) of this section, the Secretary shall notify the holder of the application authorizing the export of such drug of such evidence and shall require the holder to investigate the export by such importer and to report to the Secretary within 14 days of the receipt of such notice the findings of the holder. If the Secretary determines that the importer has exported a drug to such a country, the Secretary shall prohibit such holder from exporting such drug to the importer unless the Secretary determines that the export by the importer was unintentional.
 
@@ -270,7 +270,7 @@ A drug authorized to be exported to a country under an application approved unde
 
 (D) If the Secretary receives credible evidence that the holder of an application approved under paragraph (2) is exporting a drug to a country for which the Secretary cannot make a finding under paragraph (1)(A), the Secretary shall give the holder 60 days to provide information to the Secretary respecting such evidence and shall provide the holder an opportunity for an informal hearing on such evidence. Upon the expiration of such 60 days the Secretary shall prohibit the export of such drug to such country if the Secretary determines the holder is exporting the drug to a country for which the Secretary cannot make a finding under paragraph (1)(A).
 
-(E) If the Secretary receives credible evidence that an importer is exporting a drug to a country for which the Secretary cannot make a finding under paragraph (1)(A), the Secretary shall notify the holder of the application authorizing the export of such drug of such evidence and shall require the holder to investigate the export by such importer and to report to the Secretary within 14 days of the receipt of such notice the findings of the holder. If the Secretary determines that the importer has exported a drug to such a country, the Secretary shall prohibit such holder from exporting such drug to the importer unless the Secretary determines that the export by the importer was unintentional.
+(E) If the Secretary receives credible evidence that an importer is exporting a drug to a country for which the Secretary cannot make a finding under paragraph (1)(A), the Secretary shall notify the holder of the application authorizing the export of such drug of such evidence andshall require the holder to investigate the export by such importer and to report to the Secretary within 14 days of the receipt of such notice the findings of the holder. If the Secretary determines that the importer has exported a drug to such a country, the Secretary shall prohibit such holder from exporting such drug to the importer unless the Secretary determines that the export by the importer was unintentional.
 
 #### (g) Reference to Secretary and holder of application
 

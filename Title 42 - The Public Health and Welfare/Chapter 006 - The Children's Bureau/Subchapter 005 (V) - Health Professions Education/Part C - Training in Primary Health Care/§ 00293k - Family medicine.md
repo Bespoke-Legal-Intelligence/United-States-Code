@@ -28,7 +28,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 #### (c) Duration of award
 
-The period during which payments are made to an entity from an award of a grant or contract under subsection (a) of this section may not exceed 5 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments.
+The period during which payments are made to an entity from an award of a grant or contract under subsection (a) of this section may not exceed 5 years. The provision of such payments shall be subject to annual approval by theSecretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments.
 
 #### (d) Funding
 

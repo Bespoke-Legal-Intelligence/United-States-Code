@@ -14,7 +14,7 @@ The Secretary of Health and Human Services shall consult with the Secretaries of
 
 #### (c) Consultation between and among State agencies; job training, adult education, and vocational education programs
 
-The State agency responsible for administering or supervising the administration of the State plan approved under part A of this subchapter shall consult with the State education agency and the agency responsible for administering job training programs in the State in order to promote coordination of the planning and delivery of services under the program with programs operated under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and with education programs available in the State (including any program under the Adult Education Act \[20 U.S.C. 1201 et seq.\] or Carl D. Perkins Vocational Education Act \[20 U.S.C. 2301 et seq.\]).
+The State agency responsible for administering or supervising the administration of the State plan approved under part A of this subchapter shall consult with the State education agency and the agency responsible for administering job training programs in the State in order to promote coordination of the planningand delivery of services under the program with programs operated under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and with education programs available in the State (including any program under the Adult Education Act \[20 U.S.C. 1201 et seq.\] or Carl D. Perkins Vocational Education Act \[20 U.S.C. 2301 et seq.\]).
 
 (Aug. 14, 1935, ch. 531, title IV, §483, as added Oct. 13, 1988, Pub. L. 100–485, title II, §201(b), 102 Stat. 2369.)
 

@@ -216,9 +216,9 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(i) the redemption of such stock, and the withdrawal of money and other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and
 
-&emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed.
+&emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely heldbusiness shall be considered to be such value reduced by the value of the stock redeemed.
 
-> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of thetax imposed by section 2001 not less than the amount of money and other property distributed.
+> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of the tax imposed by section 2001 not less than the amount of money and other property distributed.
 
 &emsp;&emsp;(C) Subparagraph (A)(i) does not apply to an exchange of stock pursuant to a plan of reorganization described in subparagraph (D), (E), or (F) of section 368(a)(1) nor to an exchange to which section 355 (or so much of section 356 as relates to section 355) applies; but any stock received in such an exchange shall be treated for purposes of subparagraph (A)(i) as an interest qualifying under subsection (a)(1).
 
@@ -370,7 +370,7 @@ Subsec. (j)(5). Pub. L. 97–448, §104(d)(1)(B), added par. (5).
 
 1981—Pub. L. 97–34, §422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
 
-Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
+Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election bemade under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
 
 Subsec. (c). Pub. L. 97–34, §422(a)(2), substituted “20 percent or more” for “more than 20 percent”.
 

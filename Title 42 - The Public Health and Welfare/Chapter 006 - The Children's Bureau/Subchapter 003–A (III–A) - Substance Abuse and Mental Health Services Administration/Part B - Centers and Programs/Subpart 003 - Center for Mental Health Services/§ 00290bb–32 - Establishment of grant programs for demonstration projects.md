@@ -88,7 +88,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Community Mental Health Services Demonstration Projects for Homeless Individuals Who Are Chronically Mentally Ill
 
-Pub. L. 100–77, title VI, §612, July 22, 1987, 101 Stat. 523, as amended by Pub. L. 100–607, title VIII, §821, Nov.4, 1988, 102 Stat. 3171; Pub. L. 100–628, title VI, §621, Nov. 7, 1988, 102 Stat. 3244; Pub. L. 101–93, §5(t)(1), (2), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §521, Nov. 29, 1990, 104 Stat. 4734, provided that:
+Pub. L. 100–77, title VI, §612, July 22, 1987, 101 Stat. 523, as amended by Pub. L. 100–607, title VIII, §821, Nov. 4, 1988, 102 Stat. 3171; Pub. L. 100–628, title VI, §621, Nov. 7, 1988, 102 Stat. 3244; Pub. L. 101–93, §5(t)(1), (2), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §521, Nov. 29, 1990, 104 Stat. 4734, provided that:
 
 “(a)
 

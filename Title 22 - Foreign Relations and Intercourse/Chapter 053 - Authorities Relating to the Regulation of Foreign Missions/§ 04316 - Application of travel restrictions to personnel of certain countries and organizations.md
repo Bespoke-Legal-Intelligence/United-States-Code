@@ -6,7 +6,7 @@ The Secretary shall apply the same generally applicable restrictions to the trav
 
 #### (b) Individuals subject to restrictions
 
-The restrictions required by subsection (a) of this section shall be applied with respect tothose individuals who (as determined by the Secretary) are—
+The restrictions required by subsection (a) of this section shall be applied with respect to those individuals who (as determined by the Secretary) are—
 
 &emsp;(1) the personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;
 

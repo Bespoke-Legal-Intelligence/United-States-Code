@@ -178,7 +178,7 @@ Only for purposes of this section, the term “private activity bond” shall no
 
 #### (1) In general
 
-&emsp;Only for purposes of this section, the term “private activity bond” shall not include any exempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
+&emsp;Only for purposes of this section, the term “private activity bond” shall not include anyexempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
 
 #### (2) Safe harbor for determination of government ownership
 

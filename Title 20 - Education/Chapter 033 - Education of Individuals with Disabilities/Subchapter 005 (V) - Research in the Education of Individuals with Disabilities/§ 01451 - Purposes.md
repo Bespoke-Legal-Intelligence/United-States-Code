@@ -8,7 +8,7 @@ The purposes of this subchapter are to promote—
 
 &emsp;&emsp;(B) providing through these films and television programs enriched educational and cultural experiences through which deaf and hard of hearing individuals can be brought into better touch with the realities of their environment; and
 
-&emsp;&emsp;(C) providing a wholesome and rewarding experience that deaf and hard of hearing individuals may share together; and<sup>1</sup>
+&emsp;&emsp;(C) providing a wholesome and rewarding experience that deaf and hard of hearing individuals may share together; and <sup>1</sup>
 
 &emsp;(2) the educational advancement of individuals with disabilities by—
 
@@ -18,7 +18,7 @@ The purposes of this subchapter are to promote—
 
 &emsp;&emsp;(C) training individuals in the use of educational media for the instruction of individuals with disabilities; and
 
-&emsp;&emsp;(D) utilizing educational media to help eliminate illiteracy among individuals with disabilities;<sup>2</sup>
+&emsp;&emsp;(D) utilizing educational media to help eliminate illiteracy among individuals with disabilities; <sup>2</sup>
 
 &emsp;(3) the general welfare of visually impaired individuals by—
 
@@ -26,23 +26,23 @@ The purposes of this subchapter are to promote—
 
 &emsp;&emsp;(B) ensuring access to television programming and other video materials.
 
-(Pub. L. 91 230, title VI, §651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100 630, title I, §106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101 476, title VI, §601, title IX, §901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102 119, §25(b), Oct. 7, 1991, 105 Stat. 607.)
+(Pub. L. 91–230, title VI, §651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, §106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, §601, title IX, §901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119 amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119 amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-1990—Pub. L. 101 476, §601(1), which directed that subsec. (a) designation be struck out, could not be executed because it had been struck out by Pub. L. 100 630. See 1988 Amendment note below.
+1990—Pub. L. 101–476, §601(1), which directed that subsec. (a) designation be struck out, could not be executed because it had been struck out by Pub. L. 100–630. See 1988 Amendment note below.
 
-Par. (1). Pub. L. 101 476, §601(2)(A) (C), in introductory provisions and subpars. (B) and (C) inserted “and hard of hearing” after “deaf”, in subpar. (A) inserted “and television programs” after “those films”, and in subpar. (B) inserted “and television programs” after “these films”.
+Par. (1). Pub. L. 101–476, §601(2)(A)–(C), in introductory provisions and subpars. (B) and (C) inserted “and hard of hearing” after “deaf”, in subpar. (A) inserted “and television programs” after “those films”, and in subpar. (B) inserted “and television programs” after “these films”.
 
-Par. (2). Pub. L. 101 476, §901(b)(150), as amended by Pub. L. 102 119, which directed the substitution of “individuals with disabilities” for “handicapped individuals” each place such term appears in subsec. (a)(2), was executed to par. (2) to reflect the probable intent of Congress and the prior deletion of the subsec. (a) designation by Pub. L. 100 630. See 1988 Amendment note below.
+Par. (2). Pub. L. 101–476, §901(b)(150), as amended by Pub. L. 102–119, which directed the substitution of “individuals with disabilities” for “handicapped individuals” each place such term appears in subsec. (a)(2), was executed to par. (2) to reflect the probable intent of Congress and the prior deletion of the subsec. (a) designation by Pub. L. 100–630. See 1988 Amendment note below.
 
-Par. (2)(D). Pub. L. 101 476, §601(2)\[(3)\], added subpar. (D).
+Par. (2)(D). Pub. L. 101–476, §601(2)\[(3)\], added subpar. (D).
 
-Par. (3). Pub. L. 101 476, §601(3)\[(4)\], added par. (3).
+Par. (3). Pub. L. 101–476, §601(3)\[(4)\], added par. (3).
 
-1988—Pub. L. 100 630 amended section generally. Prior to amendment, section read as follows:
+1988—Pub. L. 100–630 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The purposes of this subchapter are to promote—
 
@@ -52,9 +52,9 @@ Par. (3). Pub. L. 101 476, §601(3)\[(4)\], added par. (3).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
-<i><sup>1</sup></i><i>So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be followed by “and”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

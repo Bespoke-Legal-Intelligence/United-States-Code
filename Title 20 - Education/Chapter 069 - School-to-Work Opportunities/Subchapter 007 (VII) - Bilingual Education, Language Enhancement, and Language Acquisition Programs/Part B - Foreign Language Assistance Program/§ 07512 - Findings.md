@@ -2,7 +2,7 @@
 
 The Congress finds as follows:
 
-&emsp;(1) Foreign language proficiency is crucial to our Nation's economic competitiveness and national security. Significant improvement in the quantity and quality of foreign language instruction offered in our Nation's elementary and secondary schools is necessary.
+&emsp;(1) Foreign language proficiency is crucial to our Nation's economic competitiveness and national security. Significant improvement in the quantity and quality of foreign languageinstruction offered in our Nation's elementary and secondary schools is necessary.
 
 &emsp;(2) All Americans need a global perspective. To understand the world around us, we must acquaint ourselves with the languages, cultures, and history of other nations.
 
@@ -16,7 +16,7 @@ The Congress finds as follows:
 
 &emsp;(7) Foreign language study can increase childrens’ capacity for critical and creative thinking skills and children who study a second language show greater cognitive development in areas such as mental flexibility, creativity, tolerance, and higher order thinking skills.
 
-&emsp;(8) Children who have studied a foreign language in elementary school achieve expectedgains and score higher on standardized tests of reading, language arts, and mathematics than children who have not studied a foreign language.
+&emsp;(8) Children who have studied a foreign language in elementary school achieve expected gains and score higher on standardized tests of reading, language arts, and mathematics than children who have not studied a foreign language.
 
-(Pub. L. 89 10, title VII, §7202, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3737.)
+(Pub. L. 89–10, title VII, §7202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3737.)
 

@@ -20,7 +20,7 @@ Special Permit.—The Administrator may use the authorities of section 3005(g) o
 
 (c)
 
-Contracts and Grants.—The Secretary may enter into contracts and cooperative agreements with, and make grants to, universities,public and private profit and nonprofit entities, and other persons to carry out the research, development, and demonstration authorized under this section. Such contracts may be entered into only to the extent that appropriated funds are available for that purpose.
+Contracts and Grants.—The Secretary may enter into contracts and cooperative agreements with, and make grants to, universities, public and private profit and nonprofit entities, and other persons to carry out the research, development, and demonstration authorized under this section. Such contracts may be entered into only to the extent that appropriated funds are available for that purpose.
 
 (d)
 

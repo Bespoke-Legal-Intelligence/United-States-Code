@@ -6,7 +6,7 @@ No commemorative work may be established on Federal lands referred to in section
 
 #### (b) Military commemorative works
 
-A military commemorative work may be authorized only to commemorate a war or similarmajor military conflict or to commemorate any branch of the Armed Forces. No commemorative work commemorating a lesser conflict or a unit of an Armed Force shall be authorized. Commemorative works to a war or similar major military conflict shall not be authorized until at least 10 years after the officially designated end of the event.
+A military commemorative work may be authorized only to commemorate a war or similar major military conflict or to commemorate any branch of the Armed Forces. No commemorative work commemorating a lesser conflict or a unit of an Armed Force shall be authorized. Commemorative works to a war or similar major military conflict shall not be authorized until at least 10 years after the officially designated end of the event.
 
 #### (c) Works commemorating events, individuals, or groups
 
@@ -30,7 +30,7 @@ Subsecs. (b) to (d). Pub. L. 103–321, §2(b)(2), added subsecs. (b) and (c) an
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Commemorative Works
 

@@ -20,7 +20,7 @@ The Attorney General shall conduct an investigation to determine whether, by usi
 
 If the Attorney General determines in the report under subsection (b) of this section that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b) of this section.
 
-(Pub. L. 96 270, §8, June 14, 1980, 94 Stat. 495.)
+(Pub. L. 96–270, §8, June 14, 1980, 94 Stat. 495.)
 
 #### Section Referred to in Other Sections
 

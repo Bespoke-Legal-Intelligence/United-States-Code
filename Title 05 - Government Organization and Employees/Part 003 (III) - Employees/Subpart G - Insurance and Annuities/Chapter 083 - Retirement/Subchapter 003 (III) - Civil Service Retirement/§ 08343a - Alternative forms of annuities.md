@@ -30,11 +30,11 @@
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
 Subsec. (f). Pub. L. 103–66, §11002(a)(2), struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
 
-1990—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
 
 Subsec. (f). Pub. L. 101–508 added subsec. (f).
 
@@ -86,7 +86,7 @@ Exceptions.—The Office of Personnel Management shall prescribe regulations to 
 
 &emsp;“(1) in the case of any individual who is separated from Government service involuntarily, other than for cause on charges of misconduct or delinquency; and
 
-&emsp;“(2) in the case of any individual as to whom the application of this section would be against equity and good conscience, due to a life-threatening affliction or other critical medical condition affecting such individual.
+&emsp;“(2) in the case of any individual as to whom the application of this section would be against equityand good conscience, due to a life-threatening affliction or other critical medical condition affecting such individual.
 
 “(d)
 

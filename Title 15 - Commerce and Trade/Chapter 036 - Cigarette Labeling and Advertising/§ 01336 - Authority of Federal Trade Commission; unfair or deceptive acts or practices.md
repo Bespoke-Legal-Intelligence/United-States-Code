@@ -6,7 +6,7 @@ Nothing in this chapter (other than the requirements of section 1333 of this tit
 
 #### Prior Provisions
 
-A prior section 8 of Pub. L. 89–92 was redesignated section 9 and is classified to section 1337 of this title.
+A prior section 8 of Pub. L. 89–92 was renumbered section 9 and is classified to section 1337 of this title.
 
 #### Amendments
 

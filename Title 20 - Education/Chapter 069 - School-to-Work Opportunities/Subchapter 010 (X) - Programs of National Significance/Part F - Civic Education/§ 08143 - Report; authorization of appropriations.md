@@ -20,17 +20,17 @@ The Secretary shall report, on a biennial basis to the Committee on Education an
 
 #### (3) Special rule
 
-&emsp;From funds appropriated under paragraph (1), the Secretary shall make available for fiscal year 1995 and each succeeding fiscal year thereafter for the programs under sections 8141<sup>1</sup> and 8142<sup>1</sup> of this title not less than the amount made available for fiscal year 1994 to carry out such programs under sections 4609 and 1562, respectively, of this Act (as such sections were in effect on the day preceding October 20, 1994).
+&emsp;From funds appropriated under paragraph (1), the Secretary shall make available for fiscal year 1995 and each succeeding fiscal year thereafter for the programs under sections 8141 <sup>1</sup> and 8142 <sup>1</sup> of this title not less than the amount made available for fiscal year 1994 to carry out such programs under sections 4609 and 1562, respectively, of this Act (as such sections were in effect on the day preceding October 20, 1994).
 
-(Pub. L. 89 10, title X, §10603, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3840.)
+(Pub. L. 89–10, title X, §10603, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3840.)
 
 #### References in Text
 
-Sections 8141 and 8142 of this title, referred to in subsec. (b)(3), was in the original “sections 16101 and 16102” meaning sections 16101 and 16102 of Pub. L. 89 10, which has been translated as reading sections 10601 and 10602 of Pub. L. 89 10 to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 16101 or 16102, and funds appropriated under subsec. (b)(1) of this section are to carry out this part which is comprised of sections 8141 and 8142 of this title.
+Sections 8141 and 8142 of this title, referred to in subsec. (b)(3), was in the original “sections 16101 and 16102” meaning sections 16101 and 16102 of Pub. L. 89–10, which has been translated as reading sections 10601 and 10602 of Pub. L. 89–10 to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 16101 or 16102, and funds appropriated under subsec. (b)(1) of this section are to carry out this part which is comprised of sections 8141 and 8142 of this title.
 
-Sections 4609 and 1562 of this Act (as such sections were in effect on the day preceding October 20, 1994), referred to in subsec. (b)(3), means sections 4609 and 1562 of Pub. L. 89 10 which were classified to sections 3156b and 2962, respectively, of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Sections 4609 and 1562 of this Act (as such sections were in effect on the day preceding October 20, 1994), referred to in subsec. (b)(3), means sections 4609 and 1562 of Pub. L. 89–10 which were classified to sections 3156b and 2962, respectively, of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

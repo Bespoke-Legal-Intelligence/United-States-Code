@@ -46,7 +46,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(9) encouraging independent research into the problems of educational and cultural exchange;
 
-&emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreign citizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title; and
+&emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreigncitizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title; and
 
 &emsp;(11) interchanges and visits between the United States and other countries of scientists, scholars, leaders, and other experts in the fields of environmental science and environmental management.
 
@@ -112,9 +112,9 @@ Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized est
 
 Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
-Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352, established Muskie Fellowship Program to award scholarships to graduate students from Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
+Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct.24, 1992, 106 Stat. 3352, established Muskie Fellowship Program to award scholarships to graduate students from Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
-Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424, authorized assistance to UnitedStates graduate and postdoctoral students researching Near and Middle East.
+Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
 
 Pub. L. 102–138, title II, §229, Oct. 28, 1991, 105 Stat. 702, authorized scholarships for Vietnamese residents qualified to study in United States.
 

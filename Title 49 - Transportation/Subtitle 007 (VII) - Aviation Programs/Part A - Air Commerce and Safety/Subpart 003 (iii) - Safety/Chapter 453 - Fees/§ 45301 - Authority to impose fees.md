@@ -28,7 +28,7 @@ Foreign repair station certification and inspection fees.—The Administrator mu
 
 &emsp;(3)
 
-Level of fees.—Fees shall be established under this subsection as necessary to recover the additional cost of providing or carrying out such services outside the United States, as compared to the cost of providing or carrying out such services within the United States; except that the Administrator may for such services as the Administrator designates (and shall for certification and inspection of repair stations outside the United States) establish fees at a level necessary to recover the full cost of providing such services.
+Level of fees.—Fees shall be established under this subsection as necessary to recover the additional cost of providing or carrying out such services outside the United States, ascompared to the cost of providing or carrying out such services within the United States; except that the Administrator may for such services as the Administrator designates (and shall for certification and inspection of repair stations outside the United States) establish fees at a level necessary to recover the full cost of providing such services.
 
 &emsp;(4)
 

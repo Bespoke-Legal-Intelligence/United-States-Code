@@ -1,0 +1,60 @@
+### §1343. Civil rights and elective franchise
+
+(a) The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
+
+&emsp;(1) To recover damages for injury to his person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtherance of any conspiracy mentioned in section 1985 of Title 42;
+
+&emsp;(2) To recover damages from any person who fails to prevent or to aid in preventing any wrongs mentioned in section 1985 of Title 42 which he had knowledge were about to occur and power to prevent;
+
+&emsp;(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
+
+&emsp;(4) To recover damages or to secure equitable or other relief under any Act of Congress providing for the protection of civil rights, including the right to vote.
+
+(b) For purposes of this section—
+
+&emsp;(1) the District of Columbia shall be considered to be a State; and
+
+&emsp;(2) any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
+
+(June 25, 1948, ch. 646, 62 Stat. 932; Sept. 3, 1954, ch. 1263, §42, 68 Stat. 1241; Sept. 9, 1957, Pub. L. 85–315, part III, §121, 71 Stat. 637; Dec. 29, 1979, Pub. L. 96–170, §2, 93 Stat. 1284.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §41(12), (13), and (14) (Mar. 3, 1911, ch. 231, §24, pars. 12, 13, 14, 36 Stat. 1092).
+
+Words “civil action” were substituted for “suits,” “suits at law or in equity” in view of Rule 2 of the Federal Rules of Civil Procedure.
+
+Numerous changes were made in arrangement and phraseology.
+
+#### Amendments
+
+1979—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1957—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
+
+1954—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
+
+#### Effective Date of 1979 Amendment
+
+Section 3 of Pub. L. 96–170 provided that: “The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\].”
+
+#### Cross References
+
+Generally, see section 1981 et seq. of Title 42, The Public Health and Welfare.
+
+Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
+
+Civil action for deprivation of civil rights, see section 1983 of Title 42, The Public Health and Welfare.
+
+Civil action or injunction for deprivation of voting rights, see section 1971 of Title 42.
+
+Conspiracy against rights of citizens constituting federal crime, see section 241 of Title 18, Crimes and Criminal Procedure.
+
+Conspiracy to interfere with civil rights, see section 1985 of Title 42, The Public Health and Welfare.
+
+Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 652 of this title.
+

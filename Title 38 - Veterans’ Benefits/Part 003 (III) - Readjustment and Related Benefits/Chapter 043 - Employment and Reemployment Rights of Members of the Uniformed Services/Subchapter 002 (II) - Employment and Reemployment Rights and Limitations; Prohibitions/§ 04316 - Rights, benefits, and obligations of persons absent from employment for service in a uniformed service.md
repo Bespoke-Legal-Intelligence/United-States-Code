@@ -44,3 +44,7 @@ A prior section 4316 was renumbered section 7616 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that the provisions concerning insurance coverage (other than health) are effective with respect to furloughs or leaves of absence initiated on or after Oct. 13, 1994, and subsec. (b)(2) of this section is applicable only to the rights and benefits provided in subsec. (b)(1)(B) of this section and to persons who leave a position of employment for service in the uniformed services more than 60 days after Oct. 13, 1994, and not applicable to any other right or benefit of a person under this chapter, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1316.
+

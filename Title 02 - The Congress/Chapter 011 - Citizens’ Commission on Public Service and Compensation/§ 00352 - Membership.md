@@ -16,7 +16,7 @@
 
 &emsp;(A) an officer or employee of the Federal Government;
 
-&emsp;(B) registered (or required to register) under the Federal Regulation of Lobbying Act \[2 U.S.C. 261 et seq.\]; or
+&emsp;(B) registered (or required to register) under the Federal Regulation of Lobbying Act; <sup>1</sup> or
 
 &emsp;(C) a parent, sibling, spouse, child, or dependent relative, of anyone under subparagraph (A) or (B).
 
@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which is classified generally to chapter 8A (§261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 261 of this title and Tables.
+The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title, prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -59,4 +59,6 @@ The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 353, 356 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

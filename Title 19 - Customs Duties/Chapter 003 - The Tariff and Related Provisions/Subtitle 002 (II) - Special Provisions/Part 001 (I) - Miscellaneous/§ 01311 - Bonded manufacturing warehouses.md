@@ -40,7 +40,7 @@ Section 204 of the United States-Canada Free-Trade Agreement Implementation Act 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Oct. 3, 1913, ch. 16, §IV, M, 38 Stat. 197, which was superseded by act Sept. 21, 1922, ch. 356, title III, §311, 42 Stat. 938, and repealed by section 321 thereof. Section 311 of the 1922 act was superseded by section 311 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, M, 38 Stat. 197, which was superseded by act Sept. 21, 1922, ch. 356, title III, §311, 42 Stat. 938, and repealed by section 321 thereof. Section 311 of the 1922 act was superseded by section 311 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 88, which superseded those of the Dingley Tariff Act of July 24, 1897, ch. 11, §15, 30 Stat. 207. Similar provisions were contained in the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §9, 28 Stat. 548.
 

@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(2) This essential rail service is threatened with cessation or significant curtailment because of the inability of the trustees of such railroads to formulate acceptable plans for reorganization. This rail service is operated over rail properties which were acquired for a public use, but which have been permitted to deteriorate and now require extensive rehabilitation and modernization.
 
-&emsp;(3) The public convenience and necessity require adequate and efficient rail service in thisregion and throughout the Nation to meet the needs of commerce, the national defense, the environment, and the service requirements of passengers, United States mail, shippers, States and their political subdivisions, and consumers.
+&emsp;(3) The public convenience and necessity require adequate and efficient rail service in this region and throughout the Nation to meet the needs of commerce, the national defense, the environment, and the service requirements of passengers, United States mail, shippers, States and their political subdivisions, and consumers.
 
 &emsp;(4) Continuation and improvement of essential rail service in this region is also necessary to preserve and maintain adequate national rail services and an efficient national rail transportation system.
 
@@ -44,7 +44,7 @@ Pub. L. 95–565, §1, Nov. 1, 1978, 92 Stat. 2397, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–555, title II, §201, Oct. 19, 1976, 90 Stat. 2616, provided that: “This title \[amending sections 702, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] may be cited as the ‘Rail Amendments of 1976’.”
+Pub. L. 94–555, title II, §201, Oct. 19, 1976, 90 Stat. 2616, provided that: “This title \[amending sections 702, 711,716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] may be cited as the ‘Rail Amendments of 1976’.”
 
 #### Short Title of 1975 Amendment
 

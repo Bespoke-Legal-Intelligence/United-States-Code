@@ -74,23 +74,13 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(A) file a schedule of any port or harbor dues levied under this subsection with the Secretary and the Federal Maritime Commission, which the Commission shall make available for public inspection;
 
-&emsp;&emsp;(B) provide to the Comptroller General of the United States on request of the Comptroller General any records or other evidence that the Comptroller General considers to be necessary and appropriate to enable the Comptroller General to carry out the audit required under subsection (b) of this section;
+&emsp;&emsp;(B) provide to the Comptroller General of the United States on request of the Comptroller General any records or other evidence that the Comptroller General considers to be necessary and appropriate to enable the Comptroller General to carry out the audit required under subsection (b) <sup>1</sup> of this section;
 
 &emsp;&emsp;(C) designate an officer or authorized representative, including the Secretary of the Treasury acting on a cost-reimbursable basis, to receive tonnage certificates and cargo manifests from vessels which may be subject to the levy of port or harbor dues, export declarations from shippers, consignors, and terminal operators, and such other documents as the non-Federal interest may by law, regulation, or ordinance require for the imposition, computation, and collection of port or harbor dues; and
 
-&emsp;&emsp;(D) consent expressly to the exclusive exercise of Federal jurisdiction under subsection (c) of this section.
+&emsp;&emsp;(D) consent expressly to the exclusive exercise of Federal jurisdiction under subsection (c) <sup>1</sup> of this section.
 
-#### (b) Audits
-
-The Comptroller General of the United States shall—
-
-&emsp;(1) carry out periodic audits of the operations of non-Federal interests that elect to levy port or harbor dues under this section to determine if the conditions of subsection (a) of this section are being complied with;
-
-&emsp;(2) submit to each House of the Congress a written report containing the findings resulting from each audit; and
-
-&emsp;(3) make any recommendations that the Comptroller General considers appropriate regarding the compliance of those non-Federal interests with the requirements of this section.
-
-#### (c) Jurisdiction
+#### (b) Jurisdiction
 
 (1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdiction over any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
 
@@ -104,7 +94,7 @@ The Comptroller General of the United States shall—
 
 &emsp;(C) grant other appropriate relief or remedy.
 
-#### (d) Collection of duties
+#### (c) Collection of duties
 
 #### (1) Delivery of certificate and manifest
 
@@ -116,7 +106,7 @@ The Comptroller General of the United States shall—
 
 &emsp;&emsp;The shipper, consignor, or terminal operator having custody of any cargo to be loaded on board a vessel while the vessel is in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section shall, within forty-eight hours before departure of that vessel, deliver to the appropriate authorized representative appointed under subsection (a)(6)(C) of this section an export declaration specifying the cargo to be loaded on board that vessel.
 
-#### (e) Enforcement
+#### (d) Enforcement
 
 At the request of an authorized representative referred to in subsection (a)(6)(C) of this section, the Secretary of the Treasury may:
 
@@ -124,13 +114,29 @@ At the request of an authorized representative referred to in subsection (a)(6)(
 
 &emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
 
-#### (f) Maritime Lien
+#### (e) Maritime Lien
 
 Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues levied against cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
 
-(Pub. L. 99–662, title II, §208, Nov. 17, 1986, 100 Stat. 4102.)
+(Pub. L. 99–662, title II, §208, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 104–66, title I, §1021(g), Dec. 21, 1995, 109 Stat. 713.)
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsec. (e)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended,which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+Subsection (b) of this section, referred to in subsec. (a)(6)(B), which related to audits, was struck out by Pub. L. 104–66 and subsec. (c) was redesignated as subsec. (b).
+
+Subsection (c) of this section, referred to in subsec. (a)(6)(D), which related to jurisdiction, was redesignated as subsec. (b) by Pub. L. 104–66.
+
+The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+
+#### Amendments
+
+1995—Subsecs. (b) to (f). Pub. L. 104–66 redesignated subsecs. (c) to (f) as (b) to (e), respectively, and struckout heading and text of former subsec. (b). Text read as follows: “The Comptroller General of the United States shall—
+
+&emsp;“(1) carry out periodic audits of the operations of non-Federal interests that elect to levy port or harbor dues under this section to determine if the conditions of subsection (a) of this section are being complied with;
+
+&emsp;“(2) submit to each House of the Congress a written report containing the findings resulting from each audit; and
+
+&emsp;“(3) make any recommendations that the Comptroller General considers appropriate regarding the compliance of those non-Federal interests with the requirements of this section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

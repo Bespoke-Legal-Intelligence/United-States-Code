@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of the Interior; low-intensity, limited-entry basis for administration
 
-Subject to the provisions of section 410ff of this title, the Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural and cultural resources as he deems appropriate to carry out the purposes of this subchapter. The park shallbe administered on a low-intensity, limited-entry basis.
+Subject to the provisions of section 410ff of this title, the Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural and cultural resources as he deems appropriate to carry out the purposes of this subchapter. The park shall be administered on a low-intensity, limited-entry basis.
 
 #### (b) Limited visitor use; establishment of appropriate visitor carrying capacities
 
@@ -18,5 +18,5 @@ In recognition of the special fragility and sensitivity of the park's resources,
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

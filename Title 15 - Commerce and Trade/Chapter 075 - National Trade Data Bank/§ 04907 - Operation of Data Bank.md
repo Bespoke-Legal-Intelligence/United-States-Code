@@ -24,5 +24,5 @@ The Secretary shall manage the Data Bank to provide the most appropriate data re
 
 &emsp;(4) facilitate dissemination of information through nonprofit organizations with significant outreach programs which complement the regional outreach programs of the United States and Foreign Commercial Service.
 
-(Pub. L. 100 418, title V, §5407, Aug. 23, 1988, 102 Stat. 1466.)
+(Pub. L. 100–418, title V, §5407, Aug. 23, 1988, 102 Stat. 1466.)
 

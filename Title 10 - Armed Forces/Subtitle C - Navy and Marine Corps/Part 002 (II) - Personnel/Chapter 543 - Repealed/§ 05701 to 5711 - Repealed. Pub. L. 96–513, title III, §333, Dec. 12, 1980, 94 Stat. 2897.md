@@ -1,4 +1,4 @@
-### \[§§5701 to 5711 . Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
+### \[§§5701 to 5711. Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
 
 Section 5701, acts Aug. 10, 1956, ch. 1041, 70A Stat. 336; Feb. 26, 1970, Pub. L. 91–199, §1, 84 Stat. 16, related to convening by Secretary of Navy at least annually of selection boards to recommend male officers in line of Navy for promotion and continuation on active list. See section 611 of this title.
 
@@ -14,7 +14,7 @@ Section 5706, acts Aug. 10, 1956, ch. 1041, 70A Stat. 340; Aug. 3, 1961, Pub. L.
 
 Section 5707, acts Aug. 10, 1956, ch. 1041, 70A Stat. 341; Aug. 21, 1957, Pub. L. 85–155, title II, §201(6), 71 Stat. 382; Aug. 3, 1961, Pub. L. 87–123, §5(13), 75 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, §1(18)(L), 81 Stat. 377, related to officers to be recommended for promotion or continuation by selection boards. See section 616 of this title.
 
-Section 5708, acts Aug. 10, 1956, ch. 1041, 70A Stat. 342; Aug. 21, 1957, Pub. L. 85–155, title II, §201(7), 71 Stat. 382; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to required certification of selection board reports. See section 617 of this title.
+Section 5708, acts Aug. 10, 1956, ch. 1041, 70A Stat. 342; Aug. 21, 1957, Pub. L. 85–155, title II, §201(7), 71 Stat. 382;Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to required certification of selection board reports. See section 617 of this title.
 
 Section 5709, acts Aug. 10, 1956, ch. 1041, 70A Stat. 344; Aug. 3, 1961, Pub. L. 87–123, §5(14), 75 Stat. 265, related to retention of rear admirals in Navy and major generals in Marine Corps on active list. See section 611 of this title.
 

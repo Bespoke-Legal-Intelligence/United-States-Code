@@ -1,4 +1,4 @@
-### §460n–3 . Purposes and uses of area
+### §460n–3. Purposes and uses of area
 
 #### (a) Public recreation, benefit, and use
 

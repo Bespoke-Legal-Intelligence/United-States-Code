@@ -16,5 +16,5 @@ The Act entitled “An Act to authorize the establishment of Pecos National Monu
 
 #### References in Text
 
-The Act entitled “An Act to authorize the establishment of Pecos National Monument in the State of NewMexico, and for other purposes” approved June 28, 1965, referred to in subsec. (c), is Pub. L. 89–54, June 28, 1965, 79 Stat. 195, which enacted provisions listed in a Miscellaneous National Monuments table set out under section 431 of this title.
+The Act entitled “An Act to authorize the establishment of Pecos National Monument in the State of New Mexico, and for other purposes” approved June 28, 1965, referred to in subsec. (c), is Pub. L. 89–54, June 28, 1965, 79 Stat. 195, which enacted provisions listed in a Miscellaneous National Monuments table set out under section 431 of this title.
 

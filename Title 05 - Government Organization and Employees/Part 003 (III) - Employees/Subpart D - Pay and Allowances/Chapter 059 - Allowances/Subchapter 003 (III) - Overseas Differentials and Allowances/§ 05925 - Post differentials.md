@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted “under this subsection” before “may not exceed”, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted “under this subsection” before “may not exceed”, and added subsec. (b).
 
 #### Effective Date of 1980 Amendment
 

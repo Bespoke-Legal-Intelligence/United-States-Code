@@ -22,7 +22,7 @@ The amounts collected as support by a State pursuant to a plan approved under th
 
 &emsp;(3) such amounts as are in excess of amounts retained by the State under paragraph (2) and are not in excess of the amount required to be paid during such period to the family by a court or administrative order shall be paid to the family; and
 
-&emsp;(4) such amounts as are in excess of amounts required to be distributed under paragraphs (1), (2), and (3) shall be (A) retained by the State (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing) as reimbursement for any past assistance payments made to the family for which the State has not been reimbursed or (B) if no assistance payments have been made by the State which have not been repaid, such amounts shall be paid to the family.
+&emsp;(4) such amounts as are in excess of amounts required to be distributed under paragraphs (1), (2), and (3) shall be (A) retained by theState (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing) as reimbursement for any past assistance payments made to the family for which the State has not been reimbursed or (B) if no assistance payments have been made by the State which have not been repaid, such amounts shall be paid to the family.
 
 #### (c) Collection after termination of assistance; distribution of support proceeds
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
 1981—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) “as support” for “as child support”.
 
-Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
+Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts ofchild support payments” in two places and “amounts of support so” for “amounts of child support so”.
 
 1977—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
 

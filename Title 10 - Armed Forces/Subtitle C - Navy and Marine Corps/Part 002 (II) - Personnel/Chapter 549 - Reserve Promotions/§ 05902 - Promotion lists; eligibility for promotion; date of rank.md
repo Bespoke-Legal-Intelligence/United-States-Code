@@ -1,4 +1,4 @@
-### §5902 . Promotion lists; eligibility for promotion; date of rank
+### §5902. Promotion lists; eligibility for promotion; date of rank
 
 (a) Officers of the Naval Reserve and the Marine Corps Reserve who are recommended for promotion in the report of a selection board convened under this chapter are considered as selected for promotion upon approval of the report by the President. The names of these officers shall be placed on the promotion list for officers of their grade.
 

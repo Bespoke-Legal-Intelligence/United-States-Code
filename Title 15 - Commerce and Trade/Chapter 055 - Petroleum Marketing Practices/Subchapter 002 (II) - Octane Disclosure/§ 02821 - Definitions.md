@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;(10) The term “manufacturer” means any person who imports, manufactures, or assembles motor vehicles for sale.
 
-&emsp;(11) The term “automotive fuel requirement” means, with respect to automotive fuel for use in a motor vehicle or a class thereof, imported, manufactured, or assembled by a manufacturer, the minimum automotive fuel rating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.
+&emsp;(11) The term “automotive fuel requirement” means, with respect to automotive fuel for use in a motor vehicle or a class thereof,imported, manufactured, or assembled by a manufacturer, the minimum automotive fuel rating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.
 
 &emsp;(12) The term “model year” means a manufacturer's annual production period (as determined by the Federal Trade Commission) for motor vehicles or a class of motor vehicles. If a manufacturer has no annual production period, the term “model year” means the calendar year.
 
@@ -56,45 +56,45 @@ As used in this subchapter:
 
 > &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled “Standard Specification for Diesel Fuel Oils” designated D975 (as in effect on October 24, 1992).
 
-(Pub. L. 95 297, title II, §201, June 19, 1978, 92 Stat. 333; Pub. L. 102 486, title XV, §1501(a) (c)(1), Oct. 24, 1992, 106 Stat. 2996.)
+(Pub. L. 95–297, title II, §201, June 19, 1978, 92 Stat. 333; Pub. L. 102–486, title XV, §1501(a)–(c)(1), Oct. 24, 1992, 106 Stat. 2996.)
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 
-October 24, 1992, referred to in par. (18)(B), was in the original “the date of the enactment of this Act” and “such date”, which were translated as meaning the date of enactment of Pub. L. 102 486, which enacted par. (18), to reflect the probable intent of Congress.
+October 24, 1992, referred to in par. (18)(B), was in the original “the date of the enactment of this Act” and “such date”, which were translated as meaning the date of enactment of Pub. L. 102–486, which enacted par. (18), to reflect the probable intent of Congress.
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102 486, §1501(c)(1)(A), substituted “fuel” for “gasoline”.
+1992—Par. (1). Pub. L. 102–486, §1501(c)(1)(A), substituted “fuel” for “gasoline”.
 
-Par. (2). Pub. L. 102 486, §1501(c)(1)(B), substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
+Par. (2). Pub. L. 102–486, §1501(c)(1)(B), substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
 
-Par. (4). Pub. L. 102 486, §1501(c)(1)(C), substituted “automotive fuel” for first reference to “gasoline” and “fuel” for second reference to “gasoline”.
+Par. (4). Pub. L. 102–486, §1501(c)(1)(C), substituted “automotive fuel” for first reference to “gasoline” and “fuel” for second reference to “gasoline”.
 
-Par. (5). Pub. L. 102 486, §1501(c)(1)(D), added par. (5) and struck out former par. (5) which read as follows: “The term ‘refiner’ means any person engaged in—
+Par. (5). Pub. L. 102–486, §1501(c)(1)(D), added par. (5) and struck out former par. (5) which read as follows: “The term ‘refiner’ means any person engaged in—
 
 &emsp;“(A) the refining of crude oil to produce automotive gasoline; or
 
 &emsp;“(B) the importation of automotive gasoline.”
 
-Par. (6). Pub. L. 102 486, §1501(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘automotive gasoline’ means gasoline of a type distributed for use as a fuel in any motor vehicle.”
+Par. (6). Pub. L. 102–486, §1501(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘automotive gasoline’ means gasoline of a type distributed for use as a fuel in any motor vehicle.”
 
-Par. (11). Pub. L. 102 486, §1501(c)(1)(E), substituted “automotive fuel” for “octane” before “requirement” and before “rating”, and “fuel” for “gasoline” before “for use” and before “which such”.
+Par. (11). Pub. L. 102–486, §1501(c)(1)(E), substituted “automotive fuel” for “octane” before “requirement” and before “rating”, and “fuel” for “gasoline” before “for use” and before “which such”.
 
-Par. (16). Pub. L. 102 486, §1501(c)(1)(F), substituted “automotive fuel” for “gasoline” in two places.
+Par. (16). Pub. L. 102–486, §1501(c)(1)(F), substituted “automotive fuel” for “gasoline” in two places.
 
-Pars. (17), (18). Pub. L. 102 486, §1501(b), added pars. (17) and (18).
+Pars. (17), (18). Pub. L. 102–486, §1501(b), added pars. (17) and (18).
 
 #### Effective Date of 1992 Amendment
 
-Section 1501(d)(1) of Pub. L. 102 486 provided that: “The amendments made by this section \[amending this section and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
+Section 1501(d)(1) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Regulations
 
-Section 1501(d)(2) of Pub. L. 102 486 provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act \[Oct. 24, 1992\], prescribe rules for the purpose of implementing the amendments made in this section \[amending this section and sections 2822 and 2823 of this title\].”
+Section 1501(d)(2) of Pub. L. 102–486 provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act \[Oct. 24, 1992\], prescribe rules for the purpose of implementing the amendments made in this section \[amending this section and sections 2822 and 2823 of this title\].”
 
 #### Section Referred to in Other Sections
 

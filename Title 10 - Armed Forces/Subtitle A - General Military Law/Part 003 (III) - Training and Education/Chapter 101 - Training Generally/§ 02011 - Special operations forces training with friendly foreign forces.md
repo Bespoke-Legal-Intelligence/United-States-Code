@@ -16,7 +16,7 @@ Purpose of Training.—The primary purpose of the training for which payment may
 
 (c)
 
-Regulations.—The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall establish accounting procedures to ensure that theexpenditures pursuant to this section are appropriate.
+Regulations.—The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall establish accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
 
 (d)
 

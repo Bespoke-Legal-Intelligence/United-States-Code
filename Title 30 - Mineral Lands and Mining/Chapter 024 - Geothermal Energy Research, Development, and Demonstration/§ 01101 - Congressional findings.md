@@ -8,7 +8,7 @@ The Congress hereby finds that—
 
 &emsp;(3) electric energy is a clean and convenient form of energy at the location of its use and is the only practicable form of energy in some modern applications, but the demand for electric energy in every region of the United States is taxing all of the alternative energy sources presently available and is projected to increase; some of the sources available for electric power generation are already in short supply, and the development and use of other sources presently involve undesirable environmental impacts;
 
-&emsp;(4) the Nation's critical energy problems can be solved only if a national commitment ismade to dedicate the necessary financial resources, and enlist the cooperation of the private and public sectors, in developing geothermal resources and other nonconventional sources of energy;
+&emsp;(4) the Nation's critical energy problems can be solved only if a national commitment is made to dedicate the necessary financial resources, and enlist the cooperation of the private and public sectors, in developing geothermal resources and other nonconventional sources of energy;
 
 &emsp;(5) the conventional geothermal resources which are presently being used have limited total potential; but geothermal resources which are different from those presently being used, and which have extremely large energy content, are known to exist;
 

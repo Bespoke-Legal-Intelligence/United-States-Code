@@ -28,5 +28,5 @@ For the purpose of this part, the term “eligible partnership” means a partne
 
 &emsp;&emsp;(B) may include a business partner or a nonprofit organization with a demonstrated record in staff development.
 
-(Pub. L. 89 10, title II, §2302, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3633.)
+(Pub. L. 89–10, title II, §2302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3633.)
 

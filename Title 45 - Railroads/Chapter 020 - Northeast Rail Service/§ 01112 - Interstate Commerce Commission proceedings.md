@@ -2,11 +2,11 @@
 
 #### (a) Final decisions involving railroads in bankruptcy
 
-Notwithstanding any other provision of subtitle IV of title 49, in any proceeding before the Commission under section 11344 or 11345 of title 49 involving a railroad in the Region, as defined in section 702 of this title, which was in a bankruptcy proceeding under section 77 of the Bankruptcy Act on November 4, 1979, the Commission shall, with or without a hearing, issue a final decision within a period not to exceed 180 days after receipt of an application under either such section.
+Notwithstanding any other provision of subtitle IV of title 49, in any proceeding before the Commission under section 11324 or 11325 of title 49 involving a railroad in the Region, as defined in section 702 of this title, which was in a bankruptcy proceeding under section 77 of the Bankruptcy Act on November 4, 1979, the Commission shall, with or without a hearing, issue a final decision within a period not to exceed 180 days after receipt of an application under either such section.
 
 #### (b) Final decisions involving profitable railroads
 
-Notwithstanding any other provision of subtitle IV of title 49, in any proceeding before the Commission under section 11344 or 11345 of title 49 involving a profitable railroad in the Region, as defined in section 702 of this title, which received a loan under section 721(a) of this title, the Commission shall, with or without a hearing, issue a final decision within a period not to exceed 180 days after receipt of an application under either such section.
+Notwithstanding any other provision of subtitle IV of title 49, in any proceeding before the Commission under section 11324 or 11325 of title 49 involving a profitable railroad in the Region, as defined in section 702 of this title, which received a loan under section 721(a) of this title, the Commission shall, with or without a hearing, issue a final decision within a period not to exceed 180 days after receipt of an application under either such section.
 
 #### (c) Interest of United States attaching in bankruptcy, liquidation, abandonment, etc.
 
@@ -16,7 +16,7 @@ Notwithstanding any other provision of subtitle IV of title 49, in any proceedin
 
 (3) In carrying out the duties under this subsection, the Secretary may (A) enter into such agreements, (B) in accordance with any such agreements, cancel or cause to be cancelled or amend or cause to be amended any notes or securities currently held by agencies or instrumentalities of the United States, and (C) accept in exchange as substitution therefor such instruments evidencing the indebtedness owed to such agencies or instrumentalities as, in the Secretary's judgment, will effectuate the purposes of this subsection.
 
-(Pub. L. 97–35, title XI, §1164, Aug. 13, 1981, 95 Stat. 685; Pub. L. 97–468, title V, §510, Jan. 14, 1983, 96 Stat. 2554.)
+(Pub. L. 97–35, title XI, §1164, Aug. 13, 1981, 95 Stat. 685; Pub. L. 97–468, title V, §510, Jan. 14, 1983, 96 Stat. 2554; Pub. L. 104–88, title III, §331, Dec. 29, 1995, 109 Stat. 953.)
 
 #### References in Text
 
@@ -24,9 +24,19 @@ Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to 
 
 #### Amendments
 
+1995—Subsecs. (a), (b). Pub. L. 104–88 substituted “section 11324 or 11325” for “section 11344 or 11345”.
+
 1983—Subsec. (c)(1). Pub. L. 97–468, §510(1), substituted “bankruptcy or substantial sale” for “bankruptcy, substantial sale,” after “in the event of”, and in last sentence substituted permission for the Secretary to substitute contingency notes for evidence of the debt for the requirement that the Secretary substitute contingency notes for evidence of the debt and inserted provision that the contingency notes be payable solely from the railroad operating assets then securing such debt, including reinvestments thereof, or be other contingency notes as the Secretary deems appropriate.
 
 Subsec. (c)(2). Pub. L. 97–468, §510(2), substituted permission that new debt may have such higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of such a railroad than the debt described in par. (1) as the Secretary and the railroad may agree for the requirement that such debt have higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of Conrail than the debt described in par. (1).
 
 Subsec. (c)(3). Pub. L. 97–468, §510(3), added par. (3).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 

@@ -8,11 +8,11 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;&emsp;(A) identify eligible students who seek student financial assistance at such institution in accordance with section 1091 of this title;
 
-&emsp;&emsp;(B) estimate the need of each such student as required by part E of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078 8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078 2 of this title (except as otherwise provided in this part), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
+&emsp;&emsp;(B) estimate the need of each such student as required by part E of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078–8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078–2 of this title (except as otherwise provided in this part), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
 
 &emsp;&emsp;(C) provide a statement that certifies the eligibility of any student to receive a loan under this part that is not in excess of the annual or aggregate limit applicable to such loan, except that the institution may, in exceptional circumstances identified by the Secretary, refuse to certify a statement that permits a student to receive a loan under this part, or certify a loan amount that is less than the student's determination of need (as determined under part E of this subchapter), if the reason for such action is documented and provided in written form to such student;
 
-&emsp;&emsp;(D) set forth a schedule for disbursement of the proceeds of the loan in installments, consistent with the requirements of section 1078 7 of this title; and
+&emsp;&emsp;(D) set forth a schedule for disbursement of the proceeds of the loan in installments, consistent with the requirements of section 1078–7 of this title; and
 
 &emsp;&emsp;(E) provide timely and accurate information—
 
@@ -48,23 +48,23 @@ An agreement with any institution of higher education, or consortia thereof, for
 
 The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.
 
-(Pub. L. 89 329, title IV, §454, as added Pub. L. 99 498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 100 50, §12, June 3, 1987, 101 Stat. 348; Pub. L. 102 325, title IV, §451, July 23, 1992, 106 Stat. 571; Pub. L. 103 66, title IV, §4021, Aug. 10, 1993, 107 Stat. 345.)
+(Pub. L. 89–329, title IV, §454, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 100–50, §12, June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 571; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 345.)
 
 #### Amendments
 
-1993—Pub. L. 103 66 amended section generally, substituting provisions relating to agreements with institutions, consisting of subsecs. (a) to (c), for former provisions relating to requirements of agreements, consisting of pars. (1) to (7).
+1993—Pub. L. 103–66 amended section generally, substituting provisions relating to agreements with institutions, consisting of subsecs. (a) to (c), for former provisions relating to requirements of agreements, consisting of pars. (1) to (7).
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to requirements of agreements for former provisions relating to terms of loans under pilot program.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to requirements of agreements for former provisions relating to terms of loans under pilot program.
 
-1987—Subsec. (a)(4). Pub. L. 100 50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
+1987—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

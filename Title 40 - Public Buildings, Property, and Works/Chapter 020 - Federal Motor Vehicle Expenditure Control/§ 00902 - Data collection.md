@@ -6,7 +6,7 @@ The head of each executive agency, including the Department of Defense, shall de
 
 #### (b) Requirements for data systems
 
-The Administrator, in cooperation with the Comptroller General and the Director, shall promulgate requirements governing the establishment and operation by executive agencies of the systems required by subsection (a) of this section, including requirements with respect to data concerning the costs and uses of motor vehicles and with respect to the uniform collection and submission of such data. Requirements promulgated under this section shall be in conformance with accounting principles and standards issued by the Comptroller General. Each executive agency, including the Department of Defense, shall comply with such requirements.
+The Administrator, in cooperation with the Comptroller General and the Director, shall promulgate requirements governing the establishment and operation by executive agencies of thesystems required by subsection (a) of this section, including requirements with respect to data concerning the costs and uses of motor vehicles and with respect to the uniform collection and submission of such data. Requirements promulgated under this section shall be in conformance with accounting principles and standards issued by the Comptroller General. Each executive agency, including the Department of Defense, shall comply with such requirements.
 
 (Pub. L. 99–272, title XV, §15302, Apr. 7, 1986, 100 Stat. 335.)
 

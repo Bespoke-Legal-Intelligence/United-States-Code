@@ -1,4 +1,4 @@
-### §7546 . Loan or gift of articles to ships’ sponsors and donors
+### §7546. Loan or gift of articles to ships’ sponsors and donors
 
 The Secretary of the Navy, under regulations prescribed by him and without expense to the United States, may lend or give—
 

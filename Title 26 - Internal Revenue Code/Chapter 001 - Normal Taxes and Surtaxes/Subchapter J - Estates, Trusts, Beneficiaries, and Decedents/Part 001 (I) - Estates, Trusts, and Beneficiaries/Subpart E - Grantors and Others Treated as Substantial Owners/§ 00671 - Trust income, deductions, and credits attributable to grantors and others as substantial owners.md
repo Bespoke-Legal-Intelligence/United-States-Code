@@ -78,7 +78,7 @@ Special Rules for Taxation of Trust.—
 
 Election treated as a liquidation.—If an election is made under subsection (c) with respect to any entity—
 
-&emsp;&emsp;“(A) such entity shall be treated as having been liquidated into a trust immediately before the period described in subsection (c)(3) in a liquidation to which section 333 of the Internal Revenue Codeof 1954 (as in effect before the amendments made by this Act) applies, and
+&emsp;&emsp;“(A) such entity shall be treated as having been liquidated into a trust immediately before the period described in subsection (c)(3) in a liquidation to which section 333 of the Internal Revenue Code of 1954 (as in effect before the amendments made by this Act) applies, and
 
 &emsp;&emsp;“(B) for purposes of section 333 of such Code (as so in effect)—
 

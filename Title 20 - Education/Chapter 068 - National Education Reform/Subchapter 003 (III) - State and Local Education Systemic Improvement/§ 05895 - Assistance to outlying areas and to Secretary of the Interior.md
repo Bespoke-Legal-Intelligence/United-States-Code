@@ -6,9 +6,9 @@
 
 &emsp;Funds reserved for outlying areas under section 5884(a)(1)(A) of this title shall be distributed among such areas by the Secretary according to relative need of such areas.
 
-#### (2) Inapplicability of Public Law 95 134
+#### (2) Inapplicability of Public Law 95–134
 
-&emsp;The provisions of Public Law 95 134, permitting the consolidation of grants to the insular areas, shall not apply to funds received by such areas under this subchapter.
+&emsp;The provisions of Public Law 95–134, permitting the consolidation of grants to the insularareas, shall not apply to funds received by such areas under this subchapter.
 
 #### (b) Secretary of the Interior
 
@@ -108,33 +108,33 @@ The Secretary shall consult with the Secretary of Defense to ensure that, to the
 
 #### (e) Grants
 
-The Secretary of the Interior may use not more than one percent of the funds received pursuant to section 5884(a)(1)(B) of this title in the first and second fiscal year<sup>1</sup> for which the Secretary of the Interior receives such funds for the purpose of providing grants, if requested by Bureau funded school boards, to enable such school boards to carry out activities of reform planning as such activities are described for States in section 5888(b)(2)(J) of this title, including the feasibility of becoming a contract school pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), or a grant school pursuant to section 2503 of title 25.
+The Secretary of the Interior may use not more than one percent of the funds received pursuant to section 5884(a)(1)(B) of this title in the first and second fiscal year <sup>1</sup> for which the Secretary of the Interior receives such funds for the purpose of providing grants, if requested by Bureau funded school boards, to enable such school boards to carry out activities of reform planning as such activities are described for States in section 5888(b)(2)(J) of this title, including the feasibility of becoming a contract school pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), or a grant school pursuant to section 2503 of title 25.
 
 #### (f) Study
 
-In cooperation with the panel established in subsection (b)(4) of this section, the Secretary of the Interior shall conduct a study to evaluate the feasibility of contracting with a private management firm for the operation of one or more Bureau operated schools to facilitate the achievement of the National Education Goals and the efficient use of funds in the education of Indian children, and to report to the persons identified in subsection (c)(4) of this section and to the panel described in subsection (b)(4) of this section not later than 12 months after October 20, 1994.
+In cooperation with the panel established in subsection (b)(4) of this section, the Secretary of the Interior shall conduct a study to evaluate the feasibility of contracting with a private management firm for the operation of one or more Bureau operated schools to facilitate the achievement of the National Education Goals and the efficient use of funds in the education of Indian children, and to report to the persons identified in subsection (c)(4) of this section and to the panel described in subsection (b)(4) of thissection not later than 12 months after October 20, 1994.
 
-(Pub. L. 103 227, title III, §315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103 382, title III, §384, Oct. 20, 1994, 108 Stat. 4018.)
+(Pub. L. 103–227, title III, §315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103–382, title III, §384, Oct. 20, 1994, 108 Stat. 4018.)
 
 #### References in Text
 
-Public Law 95 134, referred to in subsec. (a)(2), is Pub. L. 95 134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95 134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
-The Indian Self-Determination and Education Assistance Act referred to in subsec. (e), is Pub. L. 93 638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act referred to in subsec. (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103 382, §384(a)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text contained pars. (1) and (2) relating to BIA cost analysis, reserving up to $500,000 for one fiscal year for cost analysis, specifying contents of cost analysis, and directing that such analysis be reported to Congressional committees.
+1994—Subsec. (c). Pub. L. 103–382, §384(a)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text contained pars. (1) and (2) relating to BIA cost analysis, reserving up to $500,000 for one fiscal year for cost analysis, specifying contents of cost analysis, and directing that such analysis be reported to Congressional committees.
 
-Subsecs. (e), (f). Pub. L. 103 382, §384(a)(2), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 103–382, §384(a)(2), added subsecs. (e) and (f).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5802 of this title; title 25 section 2001.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “years”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “years”.</i>
 

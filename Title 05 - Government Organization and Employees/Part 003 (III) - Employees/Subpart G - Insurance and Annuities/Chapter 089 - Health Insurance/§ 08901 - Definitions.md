@@ -50,7 +50,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) an employee who receives monthly compensation under subchapter I of chapter 81 of this title and who is determined by the Secretary of Labor to be unable to return to duty; and
 
-&emsp;&emsp;(D) a member of a family who receives monthly compensation under subchapter I ofchapter 81 of this title as the surviving beneficiary of—
+&emsp;&emsp;(D) a member of a family who receives monthly compensation under subchapter I of chapter 81 of this title as the surviving beneficiary of—
 
 &emsp;&emsp;&emsp;(i) an employee who dies as a result of injury or illness compensable under that subchapter; or
 
@@ -58,7 +58,7 @@ For the purpose of this chapter—
 
 &emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
 
-&emsp;(5) “member of family” means the spouse of an employee or annuitant and an unmarried dependent child under 22 years of age, including—
+&emsp;(5) “member of family” means the spouse of an employee or annuitant and an unmarrieddependent child under 22 years of age, including—
 
 &emsp;&emsp;(A) an adopted child or recognized natural child; and
 
@@ -102,7 +102,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V,§503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355.)
 
 Historical and Revision Notes<br>1966
 
@@ -170,15 +170,15 @@ The date of enactment of section 8903a of this title, referred to in par. (8)(B)
 
 #### Amendments
 
-1992—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
+<b>1992</b>—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
 
 Par. (10)(C)(ii). Pub. L. 102–378, §2(75)(B), inserted comma after “8341(h)”.
 
-1990—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
+<b>1990</b>—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
 
-1988—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
+<b>1988</b>—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
 
-1986—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
 Par. (3)(A). Pub. L. 99–335, §207(<i>l</i>)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
 
@@ -192,19 +192,19 @@ Par. (10)(C)(ii). Pub. L. 99–335, §207(<i>l</i>)(5), substituted “8345(j), 
 
 Par. (11). Pub. L. 99–251 added par. (11).
 
-1985—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+<b>1985</b>—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
 
-1984—Par. (10). Pub. L. 98–615 added par. (10).
+<b>1984</b>—Par. (10). Pub. L. 98–615 added par. (10).
 
-1980—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
+<b>1980</b>—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
 
 Par. (9). Pub. L. 96–179, §2(2)–(4), added par. (9).
 
-1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
+<b>1979</b>—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
 
 Pub. L. 96–54 struck out cl. (G) which related to coverage of a United States Commissioner as an “employee”, and redesignated cl. (H) as (G).
 
-1978—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Par. (3)(A). Pub. L. 95–583 reduced period of service to 5 from 12 years.
 
@@ -212,9 +212,9 @@ Par. (8). Pub. L. 95–454 substituted “Office” for “Commission”.
 
 Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1980” for “before January 1, 1964”.
 
-1973—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
+<b>1973</b>—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
 
-1970—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
+<b>1970</b>—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
 Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
 
@@ -230,7 +230,7 @@ Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or CoastGuard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -266,6 +266,42 @@ Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Ac
 
 Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
 
+#### Continued Coverage for Individuals Enrolled in Plan Administered by Farm Credit Administration
+
+Pub. L. 104–37, title VI, §601, Oct. 21, 1995, 109 Stat. 328, provided that:
+
+“(a) For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Farm Credit Administration prior to the effective date of this Act \[Oct. 21, 1995\] shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
+
+“(b)(1) An individual who, on September 30, 1995, is covered by a health benefits plan administered by the Farm Credit Administration may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
+
+&emsp;“(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
+
+&emsp;“(B) for coverage effective on and after September 30, 1995.
+
+“(2) An individual who, on September 30, 1995, is entitled to continued coverage under a health benefits plan administered by the Farm Credit Administration—
+
+&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, for the same period that would have been permitted under the plan administered by the Farm Credit Administration; and
+
+&emsp;“(B) may enroll in an approved health benefits plan described under sections 8903 or 8903a of such title in accordance with section 8905A of such title for coverage effective on and after September 30, 1995.
+
+“(3) An individual who, on September 30, 1995, is covered as an unmarried dependent child under a health benefits plan administered by the Farm Credit Administration and who is not a member of family as defined under section 8901(5) of title 5, United States Code—
+
+&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had, on September 30, 1995, ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title; and
+
+&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a for continued coverage on and after September 30, 1995.
+
+“(c) The Farm Credit Administration shall transfer to the Federal Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Farm Credit Administration, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amount so transferred shall be held in the Fund and used by the Office in addition to the amounts available under section 8906(g)(1) of such title.
+
+“(d) The Office of Personnel Management—
+
+&emsp;“(1) shall administer the provisions of this section to provide for—
+
+&emsp;&emsp;“(A) a period of notice and open enrollment for individuals affected by this section; and
+
+&emsp;&emsp;“(B) no lapse of health coverage for individuals who enroll in a health benefits plan under chapter 89 of title 5, United States Code, in accordance with this section; and
+
+&emsp;“(2) may prescribe regulations to implement this section.”
+
 #### Continued Coverage for Individuals Enrolled in Plan Administered by Office of the Comptroller of the Currency or Office of Thrift Supervision
 
 Pub. L. 103–409, §5, Oct. 25, 1994, 108 Stat. 4232, provided that:
@@ -274,7 +310,7 @@ Pub. L. 103–409, §5, Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 Enrollment in Chapter 89
 
-Plan.—For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January 7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
+Plan.—For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
 “(b)
 

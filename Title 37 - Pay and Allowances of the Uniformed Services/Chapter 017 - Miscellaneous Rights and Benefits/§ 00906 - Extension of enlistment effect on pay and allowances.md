@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 \[None.\]
 
-In subsection (a), the words “who extends his enlistment” are substituted for the words “While servingunder an enlistment extended”. The words “same pay and allowances as though he had reenlisted” are substituted for the last 31 words of section 3263(b) of title 10 and the last 31 words of section 8263(b) of title 10.
+In subsection (a), the words “who extends his enlistment” are substituted for the words “While serving under an enlistment extended”. The words “same pay and allowances as though he had reenlisted” are substituted for the last 31 words of section 3263(b) of title 10 and the last 31 words of section 8263(b) of title 10.
 
 #### Amendments
 

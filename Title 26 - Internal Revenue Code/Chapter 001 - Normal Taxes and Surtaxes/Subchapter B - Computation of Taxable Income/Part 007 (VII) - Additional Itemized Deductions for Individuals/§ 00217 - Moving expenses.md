@@ -2,7 +2,7 @@
 
 #### (a) Deduction allowed
 
-There shall be allowed as a deduction moving expenses paid or incurred during the taxable year in connection with the commencement of work by the taxpayer as an employee or as a self-employed individual at a new principal place of work.
+There shall be allowed as a deduction moving expenses paid or incurred during the taxable year in connection with the commencement ofwork by the taxpayer as an employee or as a self-employed individual at a new principal place of work.
 
 #### (b) Definition of moving expenses
 
@@ -74,7 +74,7 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 &emsp;(2) any moving and storage expenses which are furnished in kind (or for which reimbursement or an allowance is provided, but only to the extent of the expenses paid or incurred) to such member, his spouse, or his dependents, shall not be includible in gross income, and no reporting with respect to such expenses shall be required by the Secretary of Defense or the Secretary of Transportation, as the case may be; and
 
-&emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to suchmember's spouse and his dependents with regard to moving to a location other than the one to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
+&emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to such member's spouse and his dependents with regard to moving to a location other than the one to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
 
 &emsp;&emsp;(A) as if his spouse commenced work as an employee at a new principal place of work at such location; and
 
@@ -158,7 +158,7 @@ Rule for application of subsections (b)(1)
 
 (c) and (d).—For purposes of subparagraphs (C) and (D) of subsection (b)(1), an individual who commences work at a new principal place of work as a self-employed individual shall be treated as having obtained employment when he has made substantial arrangements to commence such work.”
 
-Subsec. (g)(3). Pub. L. 103–66, §13213(a)(2)(C), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read asfollows: “for purposes of subsection (b)(3), as if such place of work was within the same general location as the member's new principal place of work, and”.
+Subsec. (g)(3). Pub. L. 103–66, §13213(a)(2)(C), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “for purposes of subsection (b)(3), as if such place of work was within the same general location as the member's new principal place of work, and”.
 
 Subsec. (h). Pub. L. 103–66, §13213(a)(2)(D), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out heading and text of former par. (1). Text read as follows: “In the case of a foreign move—
 

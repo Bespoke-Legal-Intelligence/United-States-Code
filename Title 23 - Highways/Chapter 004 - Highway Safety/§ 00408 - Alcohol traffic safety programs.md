@@ -6,7 +6,7 @@
 
 (c) No State may receive grants under this section in more than 5 fiscal years. The Federal share payable for any grant under this section shall not exceed—
 
-&emsp;(1) in the first fiscal year the State receives a grant under this section, 75 per centum ofthe cost of implementing and enforcing in such fiscal year the alcohol and controlled substance traffic safety program adopted by the State pursuant to subsection (a);
+&emsp;(1) in the first fiscal year the State receives a grant under this section, 75 per centum of the cost of implementing and enforcing in such fiscal year the alcohol and controlled substance traffic safety program adopted by the State pursuant to subsection (a);
 
 &emsp;(2) in the second fiscal year the State receives a grant under this section, 50 per centum of the cost of implementing and enforcing in such fiscal year such program; and
 
@@ -87,6 +87,10 @@ Subsec. (d)(3). Pub. L. 98–363, §7(b), added par. (3).
 Subsec. (e)(3). Pub. L. 98–363, §7(c), added par. (3).
 
 Subsec. (f)(8). Pub. L. 98–363, §4(c), added par. (8).
+
+#### Effectiveness of Drunk Driving Laws
+
+Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
 
 #### Minimum Drinking Age
 

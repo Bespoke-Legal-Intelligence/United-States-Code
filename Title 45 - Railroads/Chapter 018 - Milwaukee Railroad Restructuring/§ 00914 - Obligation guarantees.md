@@ -32,7 +32,7 @@ Section 836 of this title shall not apply to any obligation guaranteed under thi
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Section Referred to in Other Sections
 

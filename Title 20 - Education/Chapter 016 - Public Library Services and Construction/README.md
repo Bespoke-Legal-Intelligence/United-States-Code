@@ -63,18 +63,18 @@
 
 |  |  |
 | :--- | ---: |
-| 355e. | Grants to States for interlibrary cooperation and resource sharing. |
-| 355e 1. | Federal share. |
+| [355e.](Subchapter%20002%20%28II%29%20-%20Public%20Library%20Construction%20and%20Technology%20Enhancement/%C2%A7%2000355e%20-%20Grants%20to%20States%20for%20interlibrary%20cooperation%20and%20resource%20sharing.md) | Grants to States for interlibrary cooperation and resource sharing. |
+| 355e–1. | Federal share. |
 | (a) | Payment; use of Federal funds. |
 | (b) | Amount. |
-| 355e 2. | Annual State program for interlibrary cooperation; submission; contents. |
-| 355e 3. | Resource sharing. |
+| 355e–2. | Annual State program for interlibrary cooperation; submission; contents. |
+| 355e–3. | Resource sharing. |
 | (a) | Statewide plan. |
 | (b) | Recommendations. |
 | (c) | Long-range program; identification of objectives; elements of program. |
 | (d) | Participating libraries; reimbursement of expenses. |
 | (e) | Periods when schools are not in session. |
-| 355e 4. | Preservation programs. |
+| 355e–4. | Preservation programs. |
 | (a) | Long-range program and annual program. |
 | (b) | Plan compliance requirements. |
 | (c) | Use of funds. |
@@ -185,7 +185,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3489 of this title; title 40 App. section 214; title 48 section 1666.
+This chapter is referred to in section 3489 of this title; title 40 section 276d–3; title 40 App. section 214; title 48 section 1666.
 
 
 ---

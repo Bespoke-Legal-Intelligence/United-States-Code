@@ -22,11 +22,11 @@ The administrator shall have power to acquire any property or property rights, i
 
 #### (e) Disposal of property
 
-The administrator is authorized, in the name of the United States, to sell, lease, or otherwise dispose of such personal property as in his judgment is not required for the purposes of this chapter and such real property and interests in land acquired in connection with constructionor operation of electric transmission lines or substations as in his judgment are not required for the purposes of this chapter: <i>Provided, however</i>, That before the sale, lease, or disposition of real property or transmission lines, as herein provided, the administrator shall secure the approval of the President of the United States.
+The administrator is authorized, in the name of the United States, to sell, lease, or otherwise dispose of such personal property as in his judgment is not required for the purposes of this chapter and such real property and interests in land acquired in connection with construction or operation of electric transmission lines or substations as in his judgment are not required for the purposes of this chapter: <i>Provided, however</i>, That before the sale, lease, or disposition of real property or transmission lines, as herein provided, the administrator shall secure the approval of the President of the United States.
 
 #### (f) Contracts
 
-Subject only to the provisions of this chapter, the Administrator is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation <sup>1</sup> thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
+Subject only to the provisions of this chapter, the Administrator is authorized to enter intosuch contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation <sup>1</sup> thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
 
 (Aug. 20, 1937, ch. 720, §2, 50 Stat. 732; Mar. 6, 1940, ch. 47, §§1, 2, 54 Stat. 47; Oct. 23, 1945, ch. 433, §§1, 5, 59 Stat. 546, 547; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 4, §§11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321; Aug. 4, 1977, Pub. L. 95–91, title III, §302(a)(1)(D), (2), 91 Stat. 578.)
 

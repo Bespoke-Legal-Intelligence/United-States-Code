@@ -2,7 +2,7 @@
 
 Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease of such property, supplies, or services to the Congress subject to section 111b of this title.
 
-(Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1433.)
+(Pub. L. 104–53, title I, Nov. 19, 1995, 109 Stat. 527.)
 
 #### References in Text
 
@@ -12,9 +12,11 @@ Section 111b of this title, referred to in text, was in the original a reference
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1433.
 
 Pub. L. 103–69, title I, Aug. 11, 1993, 107 Stat. 701.
 

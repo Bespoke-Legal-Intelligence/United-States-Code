@@ -1,4 +1,4 @@
-### §3384 . Regulations
+### §3384. Regulations
 
 The Secretary is authorized to issue regulations to carry out the provisions of this subchapter.
 
@@ -10,7 +10,7 @@ For definition of Secretary, referred to in text, see section 2109 of this title
 
 #### Amendments
 
-1980—Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
+<b>1980</b>—Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
 
 #### Effective Date of 1980 Amendment
 

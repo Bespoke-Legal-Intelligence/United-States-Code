@@ -120,7 +120,7 @@ Grant funds made available under section 8293 of this title may be used by rural
 
 Each eligible entity desiring a grant under section 8293 of this title shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require. Each grant awarded under section 8293 of this title shall be of sufficient size and scope to achieve significant rural school improvement.
 
-(Pub. L. 89 10, title X, §10974, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3854.)
+(Pub. L. 89–10, title X, §10974, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3854.)
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

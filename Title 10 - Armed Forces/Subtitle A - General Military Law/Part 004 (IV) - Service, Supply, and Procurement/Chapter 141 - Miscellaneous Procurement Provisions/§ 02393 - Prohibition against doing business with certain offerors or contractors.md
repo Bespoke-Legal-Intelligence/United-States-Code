@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).” for “above the small purchase amount established in section 2304(g) of this title.” in second sentence and inserted at end “The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).”
+1994—Subsec. (d). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).” for “above the small purchase amount established in section 2304(g) of this title.” in second sentence and inserted at end “The requirement shall not apply in the case of a subcontractfor the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).”
 
 1991—Subsec. (d). Pub. L. 102–190 substituted “Federal Government” for “Federal government”.
 

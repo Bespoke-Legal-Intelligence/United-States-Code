@@ -122,7 +122,7 @@ Subsec. (t). Pub. L. 100–647, §1002(a)(20), redesignated subsec. (s), relatin
 
 Subsec. (a)(4). Pub. L. 99–514, §1802(a)(9)(A), substituted “514(b)” for “514(c)” and “514(a)” for “514(b)”.
 
-Subsec. (a)(5)(B)(iii). Pub. L. 99–514, §1802(a)(5)(B), struck out cl. (iii) which provided that (I) in the case of any aircraft used under a qualifying lease (as defined in section 47(a)(7)(C)) and which is leased to a foreign person or entity before January 1, 1990, clause (i) shall be applied by substituting “3 years” for “6 months” and that (II) for purposes of applying section 47(a)(1) and (5)(B) there shall not be taken into account any period of a lease to which subclause (I) applies.
+Subsec. (a)(5)(B)(iii). Pub. L. 99–514, §1802(a)(5)(B), struck out cl. (iii) which provided that (I) in the case of any aircraft used under a qualifying lease (as defined in section 47(a)(7)(C)) and which is leased to a foreignperson or entity before January 1, 1990, clause (i) shall be applied by substituting “3 years” for “6 months” and that (II) for purposes of applying section 47(a)(1) and (5)(B) there shall not be taken into account any period of a lease to which subclause (I) applies.
 
 Subsec. (a)(5)(D), (E). Pub. L. 99–514, §1802(a)(4)(C), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -154,7 +154,7 @@ Subsec. (r). Pub. L. 99–514, §1879(j)(1), added subsec. (r). Former subsec. (
 
 Subsec. (s). Pub. L. 99–514, §1879(j)(1), redesignated former subsec. (r) as (s).
 
-Subsec. (s)(5). Pub. L. 99–514, §803(b)(2)(B), which directed the general amendment of par. (5) of subsec. (r), was executed by amending par. (5) of subsec. (s) to reflect the probable intent of Congress and the intervening redesignation of subsec. (r) as (s) by Pub. L. 99–514,§1879(j)(1), see note above. Prior to amendment, par. (5) read as follows: “For purposes of this subsection, the term “sound recording” means any sound recording described in section 280(c)(2).”
+Subsec. (s)(5). Pub. L. 99–514, §803(b)(2)(B), which directed the general amendment of par. (5) of subsec. (r), was executed by amending par. (5) of subsec. (s) to reflect the probable intent of Congress and the intervening redesignation of subsec. (r) as (s) by Pub. L. 99–514, §1879(j)(1), see note above. Prior to amendment, par. (5) read as follows: “For purposes of this subsection, the term “sound recording” means any sound recording described in section 280(c)(2).”
 
 1985—Subsec. (g)(2)(A)(i), (B)(v). Pub. L. 99–121 substituted “19” for “18”.
 
@@ -234,7 +234,7 @@ Subsec. (<i>l</i>)(5)(M), (N). Pub. L. 97–424, §546(a)(1), (2), added subpar.
 
 Subsec. (q)(3). Pub. L. 97–448, §306(a)(3), substituted “paragraphs (1) and (2) of this subsection and paragraph (5) of subsection (d)” for “paragraphs (1) and (2)”.
 
-1982—Subsec. (b). Pub. L. 97–248, §209(c), inserted provision that for purposes of determining whether section 38 property subject to a lease is new section 38 property, such property shall be treated as originally placedin service not earlier than the date such property is used under the lease, but only if such property is leased within 3 months after such property is placed in service.
+1982—Subsec. (b). Pub. L. 97–248, §209(c), inserted provision that for purposes of determining whether section 38 property subject to a lease is new section 38 property, such property shall be treated as originally placed in service not earlier than the date such property is used under the lease, but only if such property is leased within 3 months after such property is placed in service.
 
 Subsec. (c)(2)(D). Pub. L. 97–354 substituted “Partnerships and S corporations” for “Partnerships” in subpar. heading, and inserted “A similar rule shall apply in the case of an S corporation and its shareholders”.
 
@@ -260,7 +260,7 @@ Subsec. (a)(3)(D). Pub. L. 97–34, §212(c), added subpar. (D).
 
 Subsec. (a)(4). Pub. L. 97–34, §214(a), inserted provision that, if any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply to that portion of the basis of such building which is attributable to qualified rehabilitation expenditures.
 
-Subsec. (a)(5). Pub. L. 97–34, §214(b), inserted provision that, if any qualified rehabilitated building is used by the governmental unit pursuant to a lease, this paragraph shall not apply to that portion of the basis of such building which is attributable to qualified rehabilitation expenditures.
+Subsec. (a)(5). Pub. L. 97–34, §214(b), inserted provision that, if any qualified rehabilitated building is usedby the governmental unit pursuant to a lease, this paragraph shall not apply to that portion of the basis of such building which is attributable to qualified rehabilitation expenditures.
 
 Subsec. (a)(8). Pub. L. 97–34, §212(d)(2)(A), substituted “or 188” for “188, or 191”.
 
@@ -294,7 +294,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 96–223, §221(b)(1), substituted “For any per
 
 Subsec. (<i>l</i>)(2)(A). Pub. L. 96–223, §222(a), added cls. (vii), (viii), and (ix).
 
-Subsec. (<i>l</i>)(3)(A). Pub. L. 96–223, §222(b), (g)(2), struck out “(other than coke or coke gas)” after “solid fuel” in cl. (iii) and, in cl. (v), substituted provisions relating to equipment which converts coal into a substitute for a petroleum or natural gas derived feedstock for the manufacture of chemicals or other products and equipment which converts coal into methanol, ammonia, or hydroprocessed coal liquid or solid for provisions which had related simply to equipment which used coal as feedstock for the manufacture of chemicals or other products other than coke or coke gas, added cl. (ix), and, following cl. (ix), inserted provision that theequipment described in cl. (vii) includes equipment used for the storage of fuel derived from garbage at the site at which such fuel was produced from garbage.
+Subsec. (<i>l</i>)(3)(A). Pub. L. 96–223, §222(b), (g)(2), struck out “(other than coke or coke gas)” after “solid fuel” in cl. (iii) and, in cl. (v), substituted provisions relating to equipment which converts coal into a substitute for a petroleum or natural gas derived feedstock for the manufacture of chemicals or other products and equipment which converts coal into methanol, ammonia, or hydroprocessed coal liquid or solid for provisions which had related simply to equipment which used coal as feedstock for the manufacture of chemicals or other products other than coke or coke gas, added cl. (ix), and, following cl. (ix), inserted provision that the equipment described in cl. (vii) includes equipment used for the storage of fuel derived from garbage at the site at which such fuel was produced from garbage.
 
 Subsec. (<i>l</i>)(3)(B). Pub. L. 96–223, §222(i)(1)(A), redesignated subpar. (C) as (B). Former subpar. (B), which excluded public utility property from the terms “alternative energy property”, “solar or wind energy property”, or “recycling equipment”, was struck out.
 
@@ -426,7 +426,7 @@ Subsecs. (h) to (k). Pub. L. 89–800, §1(a), added subsecs. (h) to (j) and red
 
 1964—Subsec. (a)(1)(C). Pub. L. 88–272, §203(c)(2), added subpar. (C).
 
-Subsec. (d). Pub. L. 88–272, §203(a)(3)(A), (b), substituted “except as provided in paragraph (2)” for “if such property was constructed by the lessor (or by a corporation which controls or is controlled by the lessor within the meaning of section 368(c))” in par. (1), “if such property is leased by a corporation which is a member of an affiliated group (within the meaning of section 46(a)(5) to another corporation which is a member of the same affiliated group” for “if paragraph (1) does not apply” in par. (2), and deleted provisions which stated that if a lessor made an election under this subsection, subsec. (g) would not apply with respect to such property, and deductions otherwise allowable under section 162 to the lessee for amounts paid the lessor would be adjusted consistent with subsec. (g).
+Subsec. (d). Pub. L. 88–272, §203(a)(3)(A), (b), substituted “except as provided in paragraph (2)” for “if such property was constructed by the lessor (or by acorporation which controls or is controlled by the lessor within the meaning of section 368(c))” in par. (1), “if such property is leased by a corporation which is a member of an affiliated group (within the meaning of section 46(a)(5) to another corporation which is a member of the same affiliated group” for “if paragraph (1) does not apply” in par. (2), and deleted provisions which stated that if a lessor made an election under this subsection, subsec. (g) would not apply with respect to such property, and deductions otherwise allowable under section 162 to the lessee for amounts paid the lessor would be adjusted consistent with subsec. (g).
 
 Subsec. (g). Pub. L. 88–272, §203(a)(1), repealed subsec. (g) which required that the basis of section 38 property be reduced by 7 percent of the qualified investment.
 
@@ -558,7 +558,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Alumina electrolytic cells.—The amendments made by subsection (d)(1) \[amending this section\] shall apply to periods after September 30, 1978, under rules similar to the rules of section 48(m) of such Code.”
 
-Section 223(a)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1979, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
+Section 223(a)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1979,under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
 Section 223(c)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -724,7 +724,7 @@ For applicability of amendment by section 701(e)(4)(C) of Pub. L. 99–514 notwi
 
 #### Special Rule
 
-Section 1879(j)(3) of Pub. L. 99–514 provided that: “If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
+Section 1879(j)(3) of Pub. L. 99–514 provided that: “If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment ofthis Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 

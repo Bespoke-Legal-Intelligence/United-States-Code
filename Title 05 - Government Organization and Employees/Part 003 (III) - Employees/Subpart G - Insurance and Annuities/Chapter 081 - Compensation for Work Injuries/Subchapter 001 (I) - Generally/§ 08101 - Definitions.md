@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay atthe time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -84,7 +84,7 @@ For the purpose of this subchapter—
 
 > &emsp;Such an individual is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 4 months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of study or training during the semester or other enrollment period immediately after the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A student whose 23rd birthday occurs during a semester or other enrollment period is deemed a student until the end of the semester or other enrollment period;
 
-&emsp;(18) “price index” means the Consumer Price Index (all items—United States city average)published monthly by the Bureau of Labor Statistics; and
+&emsp;(18) “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
 &emsp;(19) “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 
@@ -232,13 +232,13 @@ Sections 521–535 of title 4, District of Columbia Code, referred to in par. (1
 
 #### Amendments
 
-1991—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
+<b>1983</b>—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
 
-1980—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
+<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
-1974—Par. (1)(D). Pub. L. 93–416, §1(g), struck out “and” after the semicolon.
+<b>1974</b>—Par. (1)(D). Pub. L. 93–416, §1(g), struck out “and” after the semicolon.
 
 Par. (1)(F). Pub. L. 93–416, §1(a), added par. (1)(F).
 
@@ -246,13 +246,13 @@ Par. (2). Pub. L. 93–416, §1(b), expanded definition of “physician” to in
 
 Par. (3). Pub. L. 93–416, §1(c), included within “medical, surgical, and hospital services and supplies” those supplied by podiatrists, dentists, clinical psychologists, optometrists, and chiropractors and limited the reimbursable services of chiropractors.
 
-Par. (5). Pub. L. 93–416, §1(d), added to definition of “injury” damage to or destruction of medical braces, artificial limbs, and other prosthetic devices and excepted eyeglasses and hearing aids unless damage or destruction is incidental to a personal injury requiring medical services.
+Par. (5). Pub. L. 93–416, §1(d), added to definition of “injury” damage to or destruction of medical braces,artificial limbs, and other prosthetic devices and excepted eyeglasses and hearing aids unless damage or destruction is incidental to a personal injury requiring medical services.
 
 Par. (11). Pub. L. 93–416, §1(e), substituted “the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause because of her desertion” for “one who, because of physical or mental disability, was wholly dependent for support on the employee at the time of her death” as definition of “widower”.
 
 Pars. (20), (21). Pub. L. 93–416, §1(f), added pars. (20) and (21).
 
-1967—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 1980 Amendment
 

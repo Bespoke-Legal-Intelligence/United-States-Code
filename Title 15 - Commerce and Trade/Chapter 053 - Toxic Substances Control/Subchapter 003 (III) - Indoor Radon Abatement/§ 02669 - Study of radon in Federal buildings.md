@@ -40,5 +40,5 @@ Not later than June 1, 1990, the head of each Federal department or agency condu
 
 Not later than October 1, 1990, the Administrator shall submit a report to the Congress describing the results of the studies conducted pursuant to subsection (a) of this section.
 
-(Pub. L. 94 469, title III, §309, as added Pub. L. 100 551, §1(a), Oct. 28, 1988, 102 Stat. 2763.)
+(Pub. L. 94–469, title III, §309, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2763.)
 

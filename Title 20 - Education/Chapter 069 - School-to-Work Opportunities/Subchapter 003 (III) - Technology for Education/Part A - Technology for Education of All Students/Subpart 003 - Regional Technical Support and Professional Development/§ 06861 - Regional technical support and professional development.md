@@ -86,5 +86,5 @@
 
 &emsp;Each consortium receiving a grant under this section shall work collaboratively, and coordinate the services the consortium provides, with appropriate regional and other entities assisted in whole or in part by the Department.
 
-(Pub. L. 89 10, title III, §3141, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3649.)
+(Pub. L. 89–10, title III, §3141, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3649.)
 

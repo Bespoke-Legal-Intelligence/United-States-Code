@@ -3,21 +3,21 @@
 | Sec. |  |
 | :--- | ---: |
 | [131\.](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md) | Office of the Secretary of Defense. |
-| 132\. | Deputy Secretary of Defense. |
-| 133\. | Under Secretary of Defense for Acquisition and Technology. |
-| 133a. | Deputy Under Secretary of Defense for Acquisition and Technology. |
+| [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
+| [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md) | Under Secretary of Defense for Acquisition and Technology. |
+| [133a.](%C2%A7%2000133a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md) | Deputy Under Secretary of Defense for Acquisition and Technology. |
 | \[133b. | Renumbered.\] |
-| 134\. | Under Secretary of Defense for Policy. |
-| 134a. | Deputy Under Secretary of Defense for Policy. |
-| 135\. | Under Secretary of Defense (Comptroller). |
-| 136\. | Under Secretary of Defense for Personnel and Readiness. |
+| [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
+| [134a.](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Deputy Under Secretary of Defense for Policy. |
+| [135\.](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md) | Under Secretary of Defense (Comptroller). |
+| [136\.](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Under Secretary of Defense for Personnel and Readiness. |
 | \[136a. | Renumbered.\] |
-| 137\. | Director of Defense Research and Engineering. |
-| 138\. | Assistant Secretaries of Defense. |
-| 139\. | Director of Operational Test and Evaluation. |
-| 140\. | General Counsel. |
-| 141\. | Inspector General. |
-| 142\. | Assistant to the Secretary of Defense for Atomic Energy. |
+| [137\.](%C2%A7%2000137%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md) | Director of Defense Research and Engineering. |
+| [138\.](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md) | Assistant Secretaries of Defense. |
+| [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
+| [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
+| [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
+| [142\.](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Atomic%20Energy.md) | Assistant to the Secretary of Defense for Atomic Energy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

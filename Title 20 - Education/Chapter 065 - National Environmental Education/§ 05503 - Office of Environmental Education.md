@@ -16,7 +16,7 @@ The Office of Environmental Education shall—
 
 &emsp;(4) develop and support environmental education seminars, training programs, teleconferences, and workshops for environmental education professionals, as provided for in section 5504 of this title;
 
-&emsp;(5) manage Federal grant assistance provided to local education agencies, institutionsof higher education, other not-for-profit organizations, and noncommercial education broadcasting entities, under section 5505 of this title;
+&emsp;(5) manage Federal grant assistance provided to local education agencies, institutions of higher education, other not-for-profit organizations, and noncommercial education broadcasting entities, under section 5505 of this title;
 
 &emsp;(6) administer the environmental internship and fellowship programs provided for in section 5506 of this title;
 
@@ -44,5 +44,5 @@ The Office of Environmental Education shall—
 
 &emsp;(3) be supported by one full-time equivalent employee in each Agency regional office.
 
-(Pub. L. 101 619, §4, Nov. 16, 1990, 104 Stat. 3327.)
+(Pub. L. 101–619, §4, Nov. 16, 1990, 104 Stat. 3327.)
 

@@ -6,5 +6,5 @@ The Secretary of Commerce, acting through the Under Secretary of Commerce for Oc
 
 &emsp;(2) solicit private donations for the support of such activities.
 
-(Pub. L. 102 567, title IV, §406, Oct. 29, 1992, 106 Stat. 4293.)
+(Pub. L. 102–567, title IV, §406, Oct. 29, 1992, 106 Stat. 4293.)
 

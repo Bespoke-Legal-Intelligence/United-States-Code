@@ -2,7 +2,7 @@ Part B—Foreign Language Assistance Program
 
 #### Prior Provisions
 
-Provisions similar to those in this part were contained in part B (§3001 et seq.) of subchapter II of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, §101, and in subpart 1 (§5011 et seq.) of part A of subchapter I of chapter 62 of this title prior to repeal by Pub. L. 103 382, §391(i).
+Provisions similar to those in this part were contained in part B (§3001 et seq.) of subchapter II of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, §101, and in subpart 1 (§5011 et seq.) of part A of subchapter I of chapter 62 of this title prior to repeal by Pub. L. 103–382, §391(i).
 
 
 ---

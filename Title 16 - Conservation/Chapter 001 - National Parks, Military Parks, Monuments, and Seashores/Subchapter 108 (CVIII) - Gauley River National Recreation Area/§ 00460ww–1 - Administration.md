@@ -28,7 +28,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 #### (3) Other locations
 
-&emsp;In addition, in order to provide reasonable public access and vehicle parking for publicuse and enjoyment of the recreation area, consistent with the preservation and enhancement of the natural and scenic values of the recreation area, the Secretary may, with the consent of the owner thereof, acquire such lands and interests in lands to construct such parking and related facilities at other appropriate locations outside the boundaries of, but within one mile of the recreation area as may be necessary and appropriate. Any such lands shall be managed in accordance with the management provisions for the recreation area as defined in subsection (a) of this section.
+&emsp;In addition, in order to provide reasonable public access and vehicle parking for public use and enjoyment of the recreation area, consistent with the preservation and enhancement of the natural and scenic values of the recreation area, the Secretary may, with the consent of the owner thereof, acquire such lands and interests in lands to construct such parking and related facilities at other appropriate locations outside the boundaries of, but within one mile of the recreation area as may be necessary and appropriate. Any such lands shall be managed in accordance with the management provisions for the recreation area as defined in subsection (a) of this section.
 
 #### (f) Properties and facilities of Federal agencies
 

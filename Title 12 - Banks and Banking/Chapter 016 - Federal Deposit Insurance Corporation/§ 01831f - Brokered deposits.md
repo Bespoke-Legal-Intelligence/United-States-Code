@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An insured depository institution that is not well capitalized may not accept funds obtained, directly or indirectly, by or through any deposit broker for deposit into 1 or more deposit accounts.
+An insured depository institution that is not well capitalized may not accept funds obtained, directly or indirectly, by or through any depositbroker for deposit into 1 or more deposit accounts.
 
 #### (b) Renewals and rollovers treated as acceptance of funds
 
@@ -10,7 +10,7 @@ Any renewal of an account in any troubled institution and any rollover of any am
 
 #### (c) Waiver authority
 
-The Corporation may, on a case-by-case basis and upon application by an insured depositoryinstitution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
+The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
 
 #### (d) Limited exception for certain conservatorships
 
@@ -92,7 +92,7 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 &emsp;(2) in the market area in which such deposits would otherwise be accepted.
 
-(Sept. 21, 1950, ch. 967, §2\[29\], as added Aug. 9, 1989, Pub. L. 101–73, title II, §224(a), 103 Stat. 273;amended Dec. 19, 1991, Pub. L. 102–242, title III, §301(a), (c), 105 Stat. 2343, 2345; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1605(a)(1), 106 Stat. 4084; Sept. 23, 1994, Pub. L. 103–325, title III, §337, 108 Stat. 2235.)
+(Sept. 21, 1950, ch. 967, §2\[29\], as added Aug. 9, 1989, Pub. L. 101–73, title II, §224(a), 103 Stat. 273; amended Dec. 19, 1991, Pub. L. 102–242, title III, §301(a), (c), 105 Stat. 2343, 2345; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1605(a)(1), 106 Stat. 4084; Sept. 23, 1994, Pub. L. 103–325, title III, §337, 108 Stat. 2235.)
 
 #### Amendments
 

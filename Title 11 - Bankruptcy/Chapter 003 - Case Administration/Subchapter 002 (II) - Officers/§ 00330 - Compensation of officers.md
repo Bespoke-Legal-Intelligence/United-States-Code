@@ -1,4 +1,4 @@
-### §330 . Compensation of officers
+### §330. Compensation of officers
 
 (a)(1) After notice to the parties in interest and the United States Trustee and a hearing,and subject to sections 326, 328, and 329, the court may award to a trustee, an examiner, a professional person employed under section 327 or 1103—
 

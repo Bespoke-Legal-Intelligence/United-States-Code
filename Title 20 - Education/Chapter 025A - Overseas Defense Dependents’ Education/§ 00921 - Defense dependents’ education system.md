@@ -6,7 +6,7 @@ The Secretary of Defense shall establish and operate a program (hereinafter in t
 
 #### (b) Program purposes and activities
 
-(1) The Secretary shall ensure that individuals eligible to recieve<sup>1</sup> a free public education under subsection (a) of this section receive an education of high quality.
+(1) The Secretary shall ensure that individuals eligible to recieve <sup>1</sup> a free public education under subsection (a) of this section receive an education of high quality.
 
 (2) In establishing the defense dependents’ education system under subsection (a) of this section, the Secretary shall provide programs designed to meet the special needs of—
 
@@ -34,21 +34,21 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
-(Pub. L. 95 561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99 145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102 484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392.)
+(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102 484 added subsec. (d).
+1992—Subsec. (d). Pub. L. 102–484 added subsec. (d).
 
-1985—Subsec. (c). Pub. L. 99 145 added subsec. (c).
+1985—Subsec. (c). Pub. L. 99–145 added subsec. (c).
 
 #### Effective Date
 
-Section 1415 of title XIV of Pub. L. 95 561 provided that:
+Section 1415 of title XIV of Pub. L. 95–561 provided that:
 
 “(a)(1) Except as provided in paragraph (2) this title \[see Short Title note below\] shall take effect on July 1, 1979.
 
@@ -58,11 +58,11 @@ Section 1415 of title XIV of Pub. L. 95 561 provided that:
 
 #### Short Title
 
-Section 1401 of title XIV of Pub. L. 95 561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
+Section 1401 of title XIV of Pub. L. 95–561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 927 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “receive”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “receive”.</i>
 

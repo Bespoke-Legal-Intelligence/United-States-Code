@@ -30,7 +30,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(9) accept responsibility for paying an equitable portion of the indebtedness to United States firms incurred by the former Soviet Union;
 
-&emsp;(10) cooperate with the United States Government in uncovering all evidence regarding Americans listed as prisoners-of-war, or otherwise missing during American operations, who were detained in the former Soviet Union during the Cold War; and
+&emsp;(10) cooperate with the United States Government in uncovering all evidence regardingAmericans listed as prisoners-of-war, or otherwise missing during American operations, who were detained in the former Soviet Union during the Cold War; and
 
 &emsp;(11) terminate support for the communist regime in Cuba, including removal of troops, closing of military facilities, and ceasing trade subsidies and economic, nuclear, and other assistance.
 
@@ -72,7 +72,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 #### Amendments
 
-1994—Subsec. (b)(4). Pub. L. 103–236 temporarily substituted “section 2799aa or 2799aa–1” for “section 2429or 2429a”. See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (b)(4). Pub. L. 103–236 temporarily substituted “section 2799aa or 2799aa–1” for “section 2429 or 2429a”. See Effective and Termination Dates of 1994 Amendment note below.
 
 #### Effective and Termination Dates of 1994 Amendment
 

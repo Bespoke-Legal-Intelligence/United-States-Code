@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty.—(1) A person that violates this chapter or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $2,000 for each violation. A separate violation occurs for each motor vehicle or device involved in the violation. The maximum penalty under this subsection for a related series of violations is $100,000.
+Civil Penalty.—(1) A person that violates this chapter or a regulation prescribed or orderissued under this chapter is liable to the United States Government for a civil penalty of not more than $2,000 for each violation. A separate violation occurs for each motor vehicle or device involved in the violation. The maximum penalty under this subsection for a related series of violations is $100,000.
 
 (2) The Secretary of Transportation shall impose a civil penalty under this subsection. The Attorney General shall bring a civil action to collect the penalty. Before referring a penalty claim to the Attorney General, the Secretary may compromise the amount of the penalty. Before compromising the amount of the penalty, the Secretary shall give the person charged with a violation an opportunity to establish that the violation did not occur.
 
@@ -20,7 +20,7 @@ Criminal Penalty.—A person that knowingly and willfully violates this chapter 
 
 (c)
 
-Civil Actions by Attorney General.—The Attorney General may bring a civil action to enjoin a violation of this chapter or a regulation prescribed or order issued under this chapter. The action may be brought in the United States district court for the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the actionmay be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
+Civil Actions by Attorney General.—The Attorney General may bring a civil action to enjoin a violation of this chapter or a regulation prescribed or order issued under this chapter. The action may be brought in the United States district court for the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 
 (d)
 
@@ -84,7 +84,7 @@ In subsections (c) and (d), the word “enjoin” is substituted for “restrain
 
 In subsection (c), the words “The United States district courts shall have jurisdiction” are omitted because of 28:1331. The words “for cause shown and subject to the provisions of rule 65(a) and (b) of the Federal Rules of Civil Procedure” are omitted as surplus because the rules apply in the absence of an exemption from them. The words “the violation occurred” are substituted for “wherein any act, omission, or transaction constituting the violation occurred”, and the word “resides” is substituted for “is an inhabitant”, to eliminate unnecessary words. The words “may be served in” are substituted for “may run into” for clarity.
 
-In subsection (d)(1), before clause (A), the words “this chapter or a regulation prescribed or order issued under this chapter” are substituted for “requirement imposed under this subchapter” for consistency. The words “civil action” are substituted for “any action” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (d)(1), before clause (A), the words “this chapter or a regulation prescribed or order issued underthis chapter” are substituted for “requirement imposed under this subchapter” for consistency. The words “civil action” are substituted for “any action” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 In subsection (d)(2), the words “without regard to the amount in controversy” are omitted because jurisdiction is now allowed under 28:1331 without regard to the amount in controversy. The words “United States district court” are substituted for “district court of the United States” for consistency with the definition in section 32101 of the revised title and with other provisions of the chapter.
 

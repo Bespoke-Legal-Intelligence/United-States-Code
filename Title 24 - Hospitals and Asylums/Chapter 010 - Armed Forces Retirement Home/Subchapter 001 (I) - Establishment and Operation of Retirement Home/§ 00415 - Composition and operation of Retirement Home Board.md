@@ -66,7 +66,7 @@ Each establishment of the Retirement Home shall have a Board of trustees which s
 
 (C) The chairman may appoint, in addition to such ad hoc committees as the chairman determines to be appropriate, a standing executive committee to act for, and in the name of, the Retirement Home Board at such times and on such matters as the chairman considers necessary to expedite the efficient and timely management of each facility maintained as a separate facility of the Retirement Home.
 
-(D) The chairman may appoint an administrative staff to assist the chairman in the performance of the duties of the chairman. The chairman shall determine the rates of pay applicable to such staff, except that a staff member who is a member of the Armed Forces on active duty or who is a full-time officer or employee of the United States shall receive no additional pay by reason of service on the administrative staff.
+(D) The chairman may appoint an administrative staff to assist the chairman in the performance of the duties of the chairman. The chairman shall determine the rates of pay applicable to such staff, except that a staff member who is a member of the Armed Forces on active duty orwho is a full-time officer or employee of the United States shall receive no additional pay by reason of service on the administrative staff.
 
 (2) The Secretaries of the military departments shall select the chairman for each Local Board from the members of that Board. The term of office of the chairman of a Local Board shall be three years.
 

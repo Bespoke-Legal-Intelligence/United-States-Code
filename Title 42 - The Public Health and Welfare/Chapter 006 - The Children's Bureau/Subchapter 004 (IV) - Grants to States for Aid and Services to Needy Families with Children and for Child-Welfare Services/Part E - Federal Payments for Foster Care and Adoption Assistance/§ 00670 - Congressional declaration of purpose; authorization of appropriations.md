@@ -98,7 +98,7 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 &emsp;“(10) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
 
-&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.
+&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal useof all private resources, and Federal, State, and local resources, to establish and maintain such services.
 
 #### “TITLE I—PROJECTS REGARDING ABANDONMENT OF INFANTS AND YOUNG CHILDREN IN HOSPITALS
 
@@ -122,7 +122,7 @@ In General.—The Secretary of Health and Human Services may make grants to publ
 
 &emsp;“(7) to recruit and train health and social services personnel to work with families, foster care families, and residential care programs for abandoned infants and young children; and
 
-&emsp;“(8) to prevent the abandonment of infants and young children, and to care for the infants and young children who have been abandoned, through model programs providing health, educational, and social services at a single site in a geographic area in which a significant number of infants and young childrendescribed in subsection (b) reside (with special consideration given to applications from entities that will provide the services of the project through community-based organizations).
+&emsp;“(8) to prevent the abandonment of infants and young children, and to care for the infants and young children who have been abandoned, through model programs providing health, educational, and social services at a single site in a geographic area in which a significant number of infants and young children described in subsection (b) reside (with special consideration given to applications from entities that will provide the services of the project through community-based organizations).
 
 “(b)
 
@@ -190,7 +190,7 @@ Dissemination of Information to Individuals With Special Needs.—
 
 &emsp;“(1)(A) The Secretary may enter into contracts or cooperative agreements with public or nonprofit private entities for the development and operation of model projects to disseminate the information described in subparagraph (B) to individuals who are disproportionately at risk of dysfunctional behaviors that lead to the abandonment of infants or young children.
 
-&emsp;“(B) The information referred to in subparagraph (A) is information on the availability to individuals described in such subparagraph, and the families of the individuals, of financial assistance and services under Federal, State, local, and private programs providing health services, mental health services, educational services, housing services, social services, or other appropriate services.
+&emsp;“(B) The information referred to in subparagraph (A) is information on the availability to individuals described in such subparagraph, and the families ofthe individuals, of financial assistance and services under Federal, State, local, and private programs providing health services, mental health services, educational services, housing services, social services, or other appropriate services.
 
 &emsp;“(2) The Secretary may not provide a contract or cooperative agreement under paragraph (1) to an entity unless—
 
@@ -286,7 +286,7 @@ Study.—The Secretary shall conduct a study for the purpose of—
 
 “(b)
 
-Report.—The Secretary shall, not later than 12 months after the date of the enactment of this Act, complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
+Report.—The Secretary shall, not later than 12 months after the date of the enactment of this Act, complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of theHouse of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
 
 #### “TITLE III—GENERAL PROVISIONS
 

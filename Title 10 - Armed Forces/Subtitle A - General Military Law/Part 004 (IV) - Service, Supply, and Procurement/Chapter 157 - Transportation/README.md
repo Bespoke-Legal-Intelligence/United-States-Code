@@ -42,7 +42,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 1965—Pub. L. 89–101, §1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
 
-1962—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
+1962—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnishto commercial steamship companies” in item 2633, and added item 2634.
 
 1957—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 

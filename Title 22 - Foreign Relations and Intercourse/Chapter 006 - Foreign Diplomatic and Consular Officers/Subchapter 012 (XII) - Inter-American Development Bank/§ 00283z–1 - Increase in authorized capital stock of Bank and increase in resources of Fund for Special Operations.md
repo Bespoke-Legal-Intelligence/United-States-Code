@@ -6,7 +6,7 @@ The United States Governor of the Bank is authorized to vote for two resolutions
 
 #### (b) Authorization of appropriations
 
-In order to pay for the increase in the United States subscription and contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury (1) $2,474,287,189 for the United States subscription to the capital stock of the Bank, and (2) $630,000,000 for the United States share of the increase in the resources of the Fund for Special Operations: <i>Provided, however</i>, That for contributions to the Fund for Special Operations, not more than $175,000,000 may be made available for the fiscal year 1982, and not more than $105,000,000 may be made available for the fiscal year 1983.
+In order to pay for the increase in the United States subscription and contribution providedfor in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury (1) $2,474,287,189 for the United States subscription to the capital stock of the Bank, and (2) $630,000,000 for the United States share of the increase in the resources of the Fund for Special Operations: <i>Provided, however</i>, That for contributions to the Fund for Special Operations, not more than $175,000,000 may be made available for the fiscal year 1982, and not more than $105,000,000 may be made available for the fiscal year 1983.
 
 #### (c) Funding requirements
 

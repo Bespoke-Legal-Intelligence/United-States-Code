@@ -16,7 +16,7 @@ The burden of going forward with the evidence to establish that a vehicle, vesse
 
 #### (d) Immunity of Federal, State, local and other officials
 
-Except as provided in section 2234 and 2235 of title 18, no civil or criminal liability shall be imposed by virtue of this subchapter upon any duly authorized Federal officer lawfully engaged in the enforcement of this subchapter, or upon any duly authorized officer of any State, territory, political subdivision thereof, the Districtof Columbia, or any possession of the United States, who shall be lawfully engaged in the enforcement of any law or municipal ordinance relating to controlled substances.
+Except as provided in section 2234 and 2235 of title 18, no civil or criminal liability shall be imposed by virtue of this subchapter upon any duly authorized Federal officer lawfully engaged in the enforcement of this subchapter, or upon any duly authorized officer of any State, territory, political subdivision thereof, the District of Columbia, or any possession of the United States, who shall be lawfully engaged in the enforcement of any law or municipal ordinance relating to controlled substances.
 
 (Pub. L. 91–513, title II, §515, Oct. 27, 1970, 84 Stat. 1279.)
 

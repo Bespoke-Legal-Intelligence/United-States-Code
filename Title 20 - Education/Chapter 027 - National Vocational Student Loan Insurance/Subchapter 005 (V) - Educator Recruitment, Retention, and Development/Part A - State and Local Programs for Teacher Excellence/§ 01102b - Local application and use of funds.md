@@ -104,11 +104,11 @@ Any local educational agency which desires to receive assistance under section 1
 
 &emsp;&emsp;(E) making scholarships available to such military veterans under the same terms and conditions specified in subpart 1 of part C of this subchapter.
 
-(Pub. L. 89 329, title V, §503, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 658.)
+(Pub. L. 89–329, title V, §503, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 658.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(D), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

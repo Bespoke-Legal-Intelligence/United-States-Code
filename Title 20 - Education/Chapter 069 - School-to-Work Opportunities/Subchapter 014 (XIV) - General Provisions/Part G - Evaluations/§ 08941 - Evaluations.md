@@ -92,19 +92,19 @@
 
 The Secretary is authorized to provide guidance, technical assistance, and model programs to recipients of assistance under this chapter to strengthen information for quality assurance and performance information feedback at State and local levels. Such guidance and assistance shall promote the development, measurement and reporting of valid, reliable, timely and consistent performance indicators within a program in order to promote continuous program improvement. Nothing in this subsection shall be construed to establish a national data system.
 
-(Pub. L. 89 10, title XIV, §14701, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3908.)
+(Pub. L. 89–10, title XIV, §14701, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3908.)
 
 #### References in Text
 
-The Improving America's Schools Act of 1994, referred to in subsec. (b)(1)(B)(i), is Pub. L. 103 382, Oct. 20, 1994, 108 Stat. 3518. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
+The Improving America's Schools Act of 1994, referred to in subsec. (b)(1)(B)(i), is Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.)and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103 239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

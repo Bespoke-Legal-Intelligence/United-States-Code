@@ -20,7 +20,7 @@ Funds to carry out the purposes of this section for any fiscal year may be drawn
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–192, §6(a)(2), (3), substituted “eligibility” for “feasibility” and “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
+1983—Subsec. (a). Pub. L. 98–192, §6(a)(2), (3), substituted “eligibility” for “feasibility” and “Secretaryof Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
 
 Subsec. (b). Pub. L. 98–192, §6(a)(2), (4), inserted provision that such positive determination be effective for fiscal year succeeding fiscal year in which such determination is made, and substituted “eligibility” for “feasibility”.
 

@@ -18,7 +18,7 @@ Not later than 30 days following November 29, 1990, the Task Force shall request
 
 #### (b) Consultation
 
-The Task Force shall request that the Great Lakes Fishery Commission provide information to the panel convened under this section on technical and policy matters related to the international fishery resources of the Great Lakes.
+The Task Force shall request that the Great Lakes Fishery Commission provide informationto the panel convened under this section on technical and policy matters related to the international fishery resources of the Great Lakes.
 
 #### (c) Canadian participation
 

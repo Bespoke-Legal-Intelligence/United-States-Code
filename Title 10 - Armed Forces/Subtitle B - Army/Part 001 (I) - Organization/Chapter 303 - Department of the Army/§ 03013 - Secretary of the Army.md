@@ -4,7 +4,7 @@
 
 (2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
-(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Army is responsible for, andhas the authority necessary to conduct, all affairs of the Department of the Army, including the following functions:
+(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Army is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Army, including the following functions:
 
 &emsp;(1) Recruiting.
 
@@ -34,7 +34,7 @@
 
 &emsp;(1) the functioning and efficiency of the Department of the Army;
 
-&emsp;(2) the formulation of policies and programs by the Department of the Army that are fully consistent with national security objectives and policies established by the President or the Secretary of Defense;
+&emsp;(2) the formulation of policies and programs by the Department of the Army that are fullyconsistent with national security objectives and policies established by the President or the Secretary of Defense;
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
 

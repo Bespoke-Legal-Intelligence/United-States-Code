@@ -98,7 +98,7 @@ Oct. 30, 1984, Pub. L. 98–575, 98 Stat. 3055, §4(11); added Nov. 15, 1988, Pu
 
 In this chapter, the word “country” is substituted for “nation” for consistency in the revised title and with other titles of the United States Code.
 
-In clause (1), before subclause (A), the text of 49 App.:2603(9) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In subclauses\(B) and (C), the words “corporation, partnership, joint venture, association, or other” are omitted as surplus. In subclause (C), the words “in regulations” and “in such entity” are omitted as surplus.
+In clause (1), before subclause (A), the text of 49 App.:2603(9) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In subclauses (B) and (C), the words “corporation, partnership, joint venture, association, or other” are omitted as surplus. In subclause (C), the words “in regulations” and “in such entity” are omitted as surplus.
 
 In clause (4), the words “propellants, launch vehicles and components thereof, and other physical” are omitted as surplus.
 

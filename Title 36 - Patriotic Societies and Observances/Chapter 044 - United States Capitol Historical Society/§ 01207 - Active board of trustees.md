@@ -2,7 +2,7 @@
 
 #### (a) Composition; chairman
 
-The control and management of the affairs and funds of the corporation shall be vested in its active board of trustees which, exclusive of ex officio and honorary members, shall consist of not more than forty active members and not less than twelve active members, one of whom shall be elected chairman.
+The control and management of the affairs and funds of the corporation shall be vested in its active board of trustees which, exclusive ofex officio and honorary members, shall consist of not more than forty active members and not less than twelve active members, one of whom shall be elected chairman.
 
 #### (b) Tenure; reelection
 

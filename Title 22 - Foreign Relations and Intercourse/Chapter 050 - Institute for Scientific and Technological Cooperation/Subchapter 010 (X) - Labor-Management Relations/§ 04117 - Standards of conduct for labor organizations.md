@@ -8,7 +8,7 @@ The Department shall accord recognition only to a labor organization that is fre
 
 &emsp;&emsp;(A) provisions for periodic elections to be conducted subject to recognized safeguards, and
 
-&emsp;&emsp;(B) provisions defining and securing the right of individual members to participate inthe affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
+&emsp;&emsp;(B) provisions defining and securing the right of individual members to participate in the affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
 
 &emsp;(2) the exclusion from office in the organization of persons affiliated with Communist or other totalitarian movements and persons identified with corrupt influences;
 

@@ -62,17 +62,17 @@
 
 #### Amendments
 
-1993—Pub. L. 103–94, §2(b)(2), Oct. 6, 1993, 107 Stat. 1004, amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
+<b>1993</b>—Pub. L. 103–94, §2(b)(2), Oct. 6, 1993, 107 Stat. 1004, amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
 
-1989—Pub. L. 101–194, title III, §303(b), Nov. 30, 1989, 103 Stat. 1747, added item 7353.
+<b>1989</b>—Pub. L. 101–194, title III, §303(b), Nov. 30, 1989, 103 Stat. 1747, added item 7353.
 
-1986—Pub. L. 99–570, title VI, §6002(a)(2), Oct. 27, 1986, 100 Stat. 3207–158, added subchapter VI heading and items 7361 to 7363.
+<b>1986</b>—Pub. L. 99–570, title VI, §6002(a)(2), Oct. 27, 1986, 100 Stat. 3207–158, added subchapter VI heading and items 7361 to 7363.
 
-1980—Pub. L. 96–191, §8(e)(2), Feb. 15, 1980, 94 Stat. 33, added item 7328.
+<b>1980</b>—Pub. L. 96–191, §8(e)(2), Feb. 15, 1980, 94 Stat. 33, added item 7328.
 
-1968—Pub. L. 90–351, title V, §1001(b), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter II heading and added item 7313.
+<b>1968</b>—Pub. L. 90–351, title V, §1001(b), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter II heading and added item 7313.
 
-1967—Pub. L. 90–83, §1(46), Sept. 11, 1967, 81 Stat. 209, inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
+<b>1967</b>—Pub. L. 90–83, §1(46), Sept. 11, 1967, 81 Stat. 209, inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
 
 #### Chapter Referred to in Other Sections
 

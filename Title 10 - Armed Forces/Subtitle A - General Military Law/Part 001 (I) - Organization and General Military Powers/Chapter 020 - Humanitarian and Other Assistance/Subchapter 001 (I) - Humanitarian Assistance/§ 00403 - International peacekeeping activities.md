@@ -34,7 +34,7 @@ Determinations Required.—No assistance may be furnished pursuant to subsection
 
 Advance Notice to Congress.—Not less than 30 days before obligating any funds for purposes of subsection (a), the Secretary of Defense shall transmit to Congress a report on the proposed obligation. The report shall—
 
-&emsp;(1) specify the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation;
+&emsp;(1) specify the account, budget activity, and particular program or programs from whichthe funds proposed to be obligated are to be derived and the amount of the proposed obligation;
 
 &emsp;(2) specify the activities and forms of assistance for which the Secretary of Defense plans to obligate such funds; and
 
@@ -56,7 +56,7 @@ A prior section 403 was renumbered section 401(c) of this title.
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–160, §1501(b), struck out “Related to Availability of State Department Funds”after “Limitations” in heading, struck out “and” at end of pars. (1) and (2), substituted a semicolon for period at end of par. (3), and added pars. (4) and (5).
+1993—Subsec. (c). Pub. L. 103–160, §1501(b), struck out “Related to Availability of State Department Funds” after “Limitations” in heading, struck out “and” at end of pars. (1) and (2), substituted a semicolon for period at end of par. (3), and added pars. (4) and (5).
 
 Subsec. (h). Pub. L. 103–160, §1501(c), substituted “September 30, 1994” for “September 30, 1993”.
 

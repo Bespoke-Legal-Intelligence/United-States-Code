@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees to prepare and submit to the Secretary an annual report in such form and containing such information as the Secretary determines (after consultation with the States and the Comptroller General of the United States) to be necessary for—
+The Secretary may not make payments under section 300d–11(a) of this title for a fiscal yearunless the State involved agrees to prepare and submit to the Secretary an annual report in such form and containing such information as the Secretary determines (after consultation with the States and the Comptroller General of the United States) to be necessary for—
 
 &emsp;(1) securing a record and a description of the purposes for which payments received by the State pursuant to such section were expended and of the recipients of such payments; and
 
@@ -24,5 +24,5 @@ The Comptroller General of the United States shall evaluate the expenditures by 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) The term “Corps” means the National Health Service Corps.
 
-&emsp;(B) The term “Corps member” means each of the officers, employees, and individuals ofwhich the Corps consists pursuant to paragraph (1).
+&emsp;(B) The term “Corps member” means each of the officers, employees, and individuals of which the Corps consists pursuant to paragraph (1).
 
 &emsp;(C) The term “health professional shortage area” has the meaning given such term in section 254e(a) of this title.
 
@@ -78,7 +78,7 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(July 1, 1944, ch. 373, title III, §331, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2268; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2701, 95 Stat. 902; Dec. 1, 1987, Pub. L. 100–177, title II, §202(b), title III, §301, 101 Stat. 996, 1003; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], 104 Stat. 3013, 3035.)
+(July 1, 1944, ch. 373, title III, §331, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90Stat. 2268; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2701, 95 Stat. 902; Dec. 1, 1987, Pub. L. 100–177, title II, §202(b), title III, §301, 101 Stat. 996, 1003; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], 104 Stat. 3013, 3035.)
 
 #### References in Text
 

@@ -14,11 +14,11 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;(3) the State program prevents the expenditure of a disproportionate amount of funds available for vessel acquisition on vessels owned by any one person;
 
-&emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishinglicenses attached to the vessel are also sold to the State;
+&emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishing licenses attached to the vessel are also sold to the State;
 
 &emsp;(5) the State program provides that no person may purchase from the State any vessel which that person or a member of that person's immediate family had previously sold to the State;
 
-&emsp;(6) the State program provides that no person may purchase any vessel sold to the State pursuant to the program and use such vessel for commercial or charter salmon fishing in the Washington conservation area, unless State law provides that the use of such vessel could not result in any additional fishing effort in the non-Indian fishing fleet;
+&emsp;(6) the State program provides that no person may purchase any vessel sold to the Statepursuant to the program and use such vessel for commercial or charter salmon fishing in the Washington conservation area, unless State law provides that the use of such vessel could not result in any additional fishing effort in the non-Indian fishing fleet;
 
 &emsp;(7) the State program provides for purchase of vessels at their fair market value;
 

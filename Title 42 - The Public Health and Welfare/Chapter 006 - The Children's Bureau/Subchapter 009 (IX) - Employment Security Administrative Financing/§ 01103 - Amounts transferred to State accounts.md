@@ -38,7 +38,7 @@
 
 (1) Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
 
-(2) A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for the administration of its unemployment compensation law and public employment offices if and only if—
+(2) A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for theadministration of its unemployment compensation law and public employment offices if and only if—
 
 &emsp;(A) the purposes and amounts were specified in the law making the appropriation,
 
@@ -122,7 +122,7 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fisc
 
 1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
 
-Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transferto such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
+Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
 
 Subsec. (c). Pub. L. 86–778 substituted “transferred” for “credited”, wherever appearing, “obligation” for “expenditure” in par. (2)(B), “obligated” for “so used” in par. (2)(D), and “obligated for administration” for “used” in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out “any of” before “such five fiscal years” in par. (2)(D).
 

@@ -4,7 +4,7 @@
 
 (b) The construction authorized by this section shall be under the administration of the Secretary who shall consult with the appropriate officials of the Department of State with respect to matters involving the foreign relations of this Government, and such negotiations with the Governments of the Republic of Panama and Colombia as may be required to carry out the purposes of this section shall be conducted through, or authorized by, the Department of State.
 
-(c) The provisions of this section shall not create nor authorize the creation of any obligations on the part of the Government of the United States with respect to any expenditures for highway survey or construction heretofore or hereafter undertaken in Panama or Colombia,other than the expenditures authorized by the provision of this section.
+(c) The provisions of this section shall not create nor authorize the creation of any obligationson the part of the Government of the United States with respect to any expenditures for highway survey or construction heretofore or hereafter undertaken in Panama or Colombia, other than the expenditures authorized by the provision of this section.
 
 (d) Appropriations made pursuant to any authorization for the Darien Gap Highway shall be available for expenditure by the Secretary for necessary administrative and engineering expenses in connection with the Darien Gap Highway program.
 

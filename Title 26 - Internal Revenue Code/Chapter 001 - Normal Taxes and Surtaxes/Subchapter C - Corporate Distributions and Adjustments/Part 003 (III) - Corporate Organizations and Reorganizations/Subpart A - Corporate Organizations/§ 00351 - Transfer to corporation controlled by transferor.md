@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 96–589, §5(e)(1), redesignated former subsec. (e) as (f)
 
 Subsec. (d). Pub. L. 94–455, §1901(a)(48)(B), among other changes, substituted “Exception” for “Application of June 30, 1967, date” in heading and in text provision that this section does not apply to a transfer of property to an investment company for provisions relating to treatment of a transfer of property to an investment company as made on or before June 30, 1967.
 
-1966—Subsec. (a). Pub. L. 89–809, §203(a), inserted “(including, in the case of transfers made on or before June30, 1967, an investment company)” after “if property is transferred to a corporation”.
+1966—Subsec. (a). Pub. L. 89–809, §203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
 
 Subsecs. (d), (e). Pub. L. 89–809, §203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 

@@ -54,11 +54,11 @@ An application under this section shall contain—
 
 &emsp;(B) A State educational agency may disapprove a local educational agency application under this section in whole or in part and may withhold, limit, or place restrictions on the use of funds allotted to such a local educational agency in a manner the State educational agency determines will best promote the purposes of this part, except that a local educational agency shall be afforded an opportunity to appeal any such disapproval.
 
-(Pub. L. 89 10, title IV, §4115, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3681.)
+(Pub. L. 89–10, title IV, §4115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3681.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (b)(2)(A) and (c)(2)(A), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (b)(2)(A) and (c)(2)(A), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

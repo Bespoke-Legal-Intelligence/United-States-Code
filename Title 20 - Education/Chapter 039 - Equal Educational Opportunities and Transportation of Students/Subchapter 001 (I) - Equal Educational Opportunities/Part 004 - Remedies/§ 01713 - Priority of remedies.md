@@ -16,7 +16,7 @@ In formulating a remedy for a denial of equal educational opportunity or a denia
 
 &emsp;(g) the development and implementation of any other plan which is educationally sound and administratively feasible, subject to the provisions of sections 1714 and 1715 of this title.
 
-(Pub. L. 93 380, title II, §214, Aug. 21, 1974, 88 Stat. 517.)
+(Pub. L. 93–380, title II, §214, Aug. 21, 1974, 88 Stat. 517.)
 
 #### Section Referred to in Other Sections
 

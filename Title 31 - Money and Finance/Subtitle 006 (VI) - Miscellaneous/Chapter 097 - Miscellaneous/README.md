@@ -10,7 +10,7 @@
 
 |  |  |
 | :--- | ---: |
-| [9704\.](%C2%A7%2009704%20-%20Pilot%20projects%20for%20managerial%20accountability%20and%20flexibility.md) | Pilot projects for managerial accountability and flexibility. |
+| 9704\. | Pilot projects for managerial accountability and flexibility. |
 | 9703\.<sup>1</sup> | Department of the Treasury Forfeiture Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,3 +33,4 @@
 - [&sect; 09703 - 1 Managerial accountability and flexibility](%C2%A7%2009703%20-%201%20Managerial%20accountability%20and%20flexibility.md)
 - [&sect; 09704 - Pilot projects for managerial accountability and flexibility](%C2%A7%2009704%20-%20Pilot%20projects%20for%20managerial%20accountability%20and%20flexibility.md)
 - [&sect; 09703 - 1 Department of the Treasury Forfeiture Fund](%C2%A7%2009703%20-%201%20Department%20of%20the%20Treasury%20Forfeiture%20Fund.md)
+- [&sect; 09704](%C2%A7%2009704.md)

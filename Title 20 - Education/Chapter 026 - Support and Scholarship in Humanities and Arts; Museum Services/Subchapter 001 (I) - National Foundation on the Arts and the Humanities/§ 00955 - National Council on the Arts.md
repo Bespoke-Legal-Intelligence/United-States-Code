@@ -36,7 +36,7 @@ Each member shall hold office for a term of six years, and the terms of office s
 
 #### (e) Compensation of members
 
-Members shall receive compensation at a rate to be fixed by the Chairperson but not to exceed the per diem equivalent of the rate authorized for grade GS 18 by section 5332 of title 5 and be allowed travel expenses including per diem in lieu of subsistence, as authorized by law (section 5703 of title 5) for persons in the Government service employed intermittently.
+Members shall receive compensation at a rate to be fixed by the Chairperson but not to exceed the per diem equivalent of the rate authorized for grade GS–18 by section 5332 of title 5 and be allowed travel expenses including per diem in lieu of subsistence, as authorized by law (section 5703 of title 5) for persons in the Government service employed intermittently.
 
 #### (f) Advisory functions; policies, programs, and procedures; recommendations; authority of Chairperson; action by Chairperson pursuant to delegation of authority
 
@@ -46,57 +46,57 @@ The Council shall advise the Chairperson with respect to policies, programs, and
 
 &emsp;(2) the amount of financial assistance the Chairperson should provide with respect to each such application the Council recommends for approval.
 
-> The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application. The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistancerecommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation. In the case of an application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of an expressed and direct delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (A) of paragraph (1) of section 960(a) of this title.
+> The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application. The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation. In the case of an application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of an expressed and direct delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (A) of paragraph (1) of section 960(a) of this title.
 
-(Pub. L. 89 209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90 348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91 346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93 133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94 462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96 496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98 306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99 194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101 512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968.)
+(Pub. L. 89–209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90–348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93–133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94–462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96–496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98–306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99–194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968.)
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101 512, §318 \[title I, §106(a)\], inserted at end “Members of the Council shall be appointed so as to represent equitably all geographical areas in the United States.”
+1990—Subsec. (b). Pub. L. 101–512, §318 \[title I, §106(a)\], inserted at end “Members of the Council shall be appointed so as to represent equitably all geographical areas in the United States.”
 
-Subsec. (d). Pub. L. 101 512, §318 \[title I, §106(b)\], designated existing text as par. (1), inserted at end “All policy meetings of the Council shall be open to the public.”, and added par. (2).
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §106(b)\], designated existing text as par. (1), inserted at end “All policy meetings of the Council shall be open to the public.”, and added par. (2).
 
-Subsec. (f). Pub. L. 101 512, §318 \[title I, §106(c)\], struck out “(1)” and “(2)” before “advise the Chairperson” and “review applications for”, respectively, struck out “thereon” before “to the Chairperson”, inserted before period at end of first sentence “with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant”, struck out “, unless the Council fails to make a recommendation thereon within a reasonable time” after “on such application”, substituted “an expressed and direct delegation” for “a delegation” and “, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that” for “; <i>Provided</i>, That”, inserted “The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation.”, and inserted “The Council shall make recommendations to the Chairperson concerning—” and added pars. (1) and (2) immediately thereafter.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §106(c)\], struck out “(1)” and “(2)” before “advise the Chairperson” and “review applications for”, respectively, struck out “thereon” before “to the Chairperson”, inserted before period at end of first sentence “with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant”, struck out “, unless the Council fails to make a recommendation thereon within a reasonable time” after “on such application”, substituted “an expressed and direct delegation” for “a delegation” and “, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that” for “; <i>Provided</i>, That”, inserted “The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation.”, and inserted “The Council shall make recommendations to the Chairperson concerning—” and added pars. (1) and (2) immediately thereafter.
 
-1985—Subsec. (b). Pub. L. 99 194, §106(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding par. (1), in par. (1) designated existing provisions following “who” as cl. (A) and added cl. (B), and in provisions following par. (3) substituted “the President” for “him” and inserted “In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts.”
+1985—Subsec. (b). Pub. L. 99–194, §106(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding par. (1), in par. (1) designated existingprovisions following “who” as cl. (A) and added cl. (B), and in provisions following par. (3) substituted “the President” for “him” and inserted “In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts.”
 
-Subsec. (c). Pub. L. 99 194, §106(2), substituted “such member's” for “his” wherever appearing.
+Subsec. (c). Pub. L. 99–194, §106(2), substituted “such member's” for “his” wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 99 194, §106(3), (4), substituted “Chairperson” for “Chairman”.
+Subsecs. (d), (e). Pub. L. 99–194, §106(3), (4), substituted “Chairperson” for “Chairman”.
 
-Subsec. (f). Pub. L. 99 194, §106(5), substituted “Chairperson” for “Chairman” wherever appearing, “the Chairperson's” for “his”, “until the Chairperson has received” for “until he has received”, and “$30,000” for “$17,500”.
+Subsec. (f). Pub. L. 99–194, §106(5), substituted “Chairperson” for “Chairman” wherever appearing, “the Chairperson's” for “his”, “until the Chairperson has received” for “until he has received”, and “$30,000” for “$17,500”.
 
-1984—Subsec. (c). Pub. L. 98 306, §5(a), inserted “Notwithstanding any other provision of this subsection, a member shall serve after the expiration of his term until his successor takes office.”
+1984—Subsec. (c). Pub. L. 98–306, §5(a), inserted “Notwithstanding any other provision of this subsection, a member shall serve after the expiration of his term until his successor takes office.”
 
-1980—Subsec. (c). Pub. L. 96 496 provided that the terms of office of all Council members were to expire on the third day of September in the year of expiration.
+1980—Subsec. (c). Pub. L. 96–496 provided that the terms of office of all Council members were to expire on the third day of September in the year of expiration.
 
-1976—Subsec. (b). Pub. L. 94 462 inserted “, by and with the advice and consent of the Senate,” after “by the President”.
+1976—Subsec. (b). Pub. L. 94–462 inserted “, by and with the advice and consent of the Senate,” after “by the President”.
 
-1973—Subsec. (f). Pub. L. 93 133 substituted “$17,500” for “$10,000” and inserted proviso that the terms of delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year.
+1973—Subsec. (f). Pub. L. 93–133 substituted “$17,500” for “$10,000” and inserted proviso that the terms of delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year.
 
-1970—Pub. L. 91 346 generally incorporated into this section the substantive provisions of the National Arts and Cultural Development Act of 1964 except for the independent study authority of the National Council on the Arts under the 1964 Act, provided for the appointment and composition of the Council, prescribed the terms of office for members of the Council, provided that the Council meet at the call of the Chairman at least twice a year, established 14 as the number of members constituting a quorum, set forth provisions governing compensation of persons employed for the Government service on an intermittent basis, and set forth functions and duties of the council essentially similar to the function and duties of the Council as set out in this section prior to this amendment.
+1970—Pub. L. 91–346 generally incorporated into this section the substantive provisions of the National Arts and Cultural Development Act of 1964 except for the independent study authority of the National Council on the Arts under the 1964 Act, provided for the appointment and composition of the Council, prescribed the terms of office for members of the Council, provided that the Council meet at the call of the Chairman at least twice a year, established 14 as the number of members constituting a quorum, set forth provisions governing compensation of persons employed for the Government service on an intermittent basis, and set forth functions and duties of the council essentially similar to the function and duties of the Council as set out in this section prior to this amendment.
 
-1968—Subsec. (b). Pub. L. 90 348 inserted provision which authorized the Chairman, in the case of any application involving $10,000 or less, to approve or disapprove the application if such action is pursuant to the terms of a delegation of authority from the Endowment Council and such action is reviewed by the Endowment Council.
+1968—Subsec. (b). Pub. L. 90–348 inserted provision which authorized the Chairman, in the case of any application involving $10,000 or less, to approve or disapprove the application if such action is pursuant to the terms of a delegation of authority from the Endowment Council and such action is reviewed by the Endowment Council.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93 133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93 133, set out as a note under section 951 of this title.
+Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out as a note under section 951 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Section 5(d)(3)(A) of Pub. L. 91 346 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 954, 959, and 960 of this title\] shall be effective after June 30, 1970.”
+Section 5(d)(3)(A) of Pub. L. 91–346 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 954, 959, and 960 of this title\] shall be effective after June 30, 1970.”
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Continuation of Council as Established Under the National Arts and Cultural Development Act of 1964
 
-Section 5(d)(1) of Pub. L. 91 346 provided that: “The National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], as amended by subsection (b), shall, for any purpose determined to be necessary by the Chairman of the National Endowment for the Arts, be deemed to be a continuation of the National Council on the Arts established under the National Arts and Cultural Development Act of 1964, Public Law 88 579 \[section 781 et seq. of this title\], without interruption.”
+Section 5(d)(1) of Pub. L. 91–346 provided that: “The National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], as amended by subsection (b), shall, for any purpose determined to be necessary by the Chairman of the National Endowment for the Arts, be deemed to be a continuation of the National Council on the Arts established under the National Arts and Cultural Development Act of 1964, Public Law 88–579 \[section 781 et seq. of this title\], without interruption.”
 
 #### Appointees to Council Under National Arts and Cultural Development Act of 1964
 
@@ -104,9 +104,9 @@ Deemed Appointed Under 1965
 
 Act
 
-Section 5(d)(2) of Pub. L. 91 346 provided that: “Members appointed to the National Council on the Arts pursuant to section 5 of the National Arts and Cultural Development Act of 1964 \[section 784 of this title\] shall be deemed to have been appointed as members of the National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], with such terms of office as may be remaining under the prior appointment on the effective date of the amendments made by subsection (b) \[July 1, 1970\].”
+Section 5(d)(2) of Pub. L. 91–346 provided that: “Members appointed to the National Council on the Arts pursuant to section 5 of the National Arts and Cultural Development Act of 1964 \[section 784 of this title\] shall be deemed to have been appointed as members of the National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], with such terms of office as may be remaining under the prior appointment on the effective date of the amendments made by subsection (b) \[July 1, 1970\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 959 of this title.
+This section is referred to in section 959 of this title.
 

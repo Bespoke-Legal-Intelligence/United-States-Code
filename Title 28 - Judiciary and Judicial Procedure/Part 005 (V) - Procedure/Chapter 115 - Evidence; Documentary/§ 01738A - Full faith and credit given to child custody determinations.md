@@ -1,0 +1,94 @@
+### §1738A. Full faith and credit given to child custody determinations
+
+(a) The appropriate authorities of every State shall enforce according to its terms, and shall not modify except as provided in subsection (f) of this section, any child custody determination made consistently with the provisions of this section by a court of another State.
+
+(b) As used in this section, the term—
+
+&emsp;(1) “child” means a person under the age of eighteen;
+
+&emsp;(2) “contestant” means a person, including a parent, who claims a right to custody or visitation of a child;
+
+&emsp;(3) “custody determination” means a judgment, decree, or other order of a court providing for the custody or visitation of a child, and includes permanent and temporary orders, and initial orders and modifications;
+
+&emsp;(4) “home State” means the State in which, immediately preceding the time involved, the child lived with his parents, a parent, or a person acting as parent, for at least six consecutive months, and in the case of a child less than six months old, the State in which the child lived from birth with any of such persons. Periods of temporary absence of any of such persons are counted as part of the six-month or other period;
+
+&emsp;(5) “modification” and “modify” refer to a custody determination which modifies, replaces, supersedes, or otherwise is made subsequent to, a prior custody determination concerning the same child, whether made by the same court or not;
+
+&emsp;(6) “person acting as a parent” means a person, other than a parent, who has physical custody of a child and who has either been awarded custody by a court or claims a right to custody;
+
+&emsp;(7) “physical custody” means actual possession and control of a child; and
+
+&emsp;(8) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
+
+(c) A child custody determination made by a court of a State is consistent with the provisions of this section only if—
+
+&emsp;(1) such court has jurisdiction under the law of such State; and
+
+&emsp;(2) one of the following conditions is met:
+
+&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
+
+&emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State, and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
+
+&emsp;&emsp;(C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child because he has been subjected to or threatened with mistreatment or abuse;
+
+&emsp;&emsp;(D)(i) it appears that no other State would have jurisdiction under subparagraph (A), (B), (C), or (E), or another State has declined to exercise jurisdiction on the ground that the State whose jurisdiction is in issue is the more appropriate forum to determine the custody of the child, and (ii) it is in the best interest of the child that such court assume jurisdiction; or
+
+&emsp;&emsp;(E) the court has continuing jurisdiction pursuant to subsection (d) of this section.
+
+(d) The jurisdiction of a court of a State which has made a child custody determination consistently with the provisions of this section continues as long as the requirement of subsection (c)(1) of this section continues to be met and such State remains the residence of the child or of any contestant.
+
+(e) Before a child custody determination is made, reasonable notice and opportunity to be heard shall be given to the contestants, any parent whose parental rights have not been previously terminated and any person who has physical custody of a child.
+
+(f) A court of a State may modify a determination of the custody of the same child made by a court of another State, if—
+
+&emsp;(1) it has jurisdiction to make such a child custody determination; and
+
+&emsp;(2) the court of the other State no longer has jurisdiction, or it has declined to exercise such jurisdiction to modify such determination.
+
+(g) A court of a State shall not exercise jurisdiction in any proceeding for a custody determination commenced during the pendency of a proceeding in a court of another State where such court of that other State is exercising jurisdiction consistently with the provisions of this section to make a custody determination.
+
+(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569.)
+
+#### Congressional Findings and Declaration of Purpose
+
+Section 7 of Pub. L. 96–611 provided that:
+
+“(a) The Congress finds that—
+
+&emsp;“(1) there is a large and growing number of cases annually involving disputes between persons claiming rights of custody and visitation of children under the laws, and in the courts, of different States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States;
+
+&emsp;“(2) the laws and practices by which the courts of those jurisdictions determine their jurisdiction to decide such disputes, and the effect to be given the decisions of such disputes by the courts of other jurisdictions, are often inconsistent and conflicting;
+
+&emsp;“(3) those characteristics of the law and practice in such cases, along with the limits imposed by a Federal system on the authority of each such jurisdiction to conduct investigations and take other actions outside its own boundaries, contribute to a tendency of parties involved in such disputes to frequently resort to the seizure, restraint, concealment, and interstate transportation of children, the disregard of court orders, excessive relitigation of cases, obtaining of conflicting orders by the courts of various jurisdictions, and interstate travel and communication that is so expensive and time consuming as to disrupt their occupations and commercial activities; and
+
+&emsp;“(4) among the results of those conditions and activities are the failure of the courts of such jurisdictions to give full faith and credit to the judicial proceedings of the other jurisdictions, the deprivation of rights of liberty and property without due process of law, burdens on commerce among such jurisdictions and with foreign nations, and harm to the welfare of children and their parents and other custodians.
+
+“(b) For those reasons it is necessary to establish a national system for locating parents and children who travel from one such jurisdiction to another and are concealed in connection with such disputes, and to establish national standards under which the courts of such jurisdictions will determine their jurisdiction to decide such disputes and the effect to be given by each such jurisdiction to such decisions by the courts of other such jurisdictions.
+
+“(c) The general purposes of sections 6 to 10 of this Act \[enacting this section and section 663 of Title 42, The Public Health and Welfare, amending sections 654 and 655 Title 42, and enacting provisions set out as notes under this section, sections 663 and 1305 of Title 42, and section 1073 of Title 18, Crimes and Criminal Procedure\] are to—
+
+&emsp;“(1) promote cooperation between State courts to the end that a determination of custody and visitation is rendered in the State which can best decide the case in the interest of the child;
+
+&emsp;“(2) promote and expand the exchange of information and other forms of mutual assistance between States which are concerned with the same child;
+
+&emsp;“(3) facilitate the enforcement of custody and visitation decrees of sister States;
+
+&emsp;“(4) discourage continuing interstate controversies over child custody in the interest of greater stability of home environment and of secure family relationships for the child;
+
+&emsp;“(5) avoid jurisdictional competition and conflict between State courts in matters of child custody and visitation which have in the past resulted in the shifting of children from State to State with harmful effects on their well-being; and
+
+&emsp;“(6) deter interstate abductions and other unilateral removals of children undertaken to obtain custody and visitation awards.”
+
+#### State Court Proceedings for Custody Determinations; Priority Treatment; Fees, Costs, and Other Expenses
+
+Section 8(c) of Pub. L. 96–611 provided that: “In furtherance of the purposes of section 1738A of title 28, United States Code, as added by subsection (a) of this section, State courts are encouraged to—
+
+&emsp;“(1) afford priority to proceedings for custody determinations; and
+
+&emsp;“(2) award to the person entitled to custody or visitation pursuant to a custody determination which is consistent with the provisions of such section 1738A, necessary travel expenses, attorneys’ fees, costs of private investigations, witness fees or expenses, and other expenses incurred in connection with such custody determination in any case in which—
+
+&emsp;&emsp;“(A) a contestant has, without the consent of the person entitled to custody or visitation pursuant to a custody determination which is consistent with the provisions of such section 1738A, (i) wrongfully removed the child from the physical custody of such person, or (ii) wrongfully retained the child after a visit or other temporary relinquishment of physical custody; or
+
+&emsp;&emsp;“(B) the court determines it is appropriate.”
+

@@ -30,7 +30,7 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 &emsp;&emsp;(A) if such individual ceases to be a candidate as a result of the operation of the last sentence of section 9032(2); or
 
-&emsp;&emsp;(B) more than 30 days after the date of the second consecutive primary election in which such individual receives less than 10 percent of the number of votes cast for allcandidates of the same party for the same office in such primary election, if such individual permitted or authorized the appearance of his name on the ballot, unless such individual certifies to the Commission that he will not be an active candidate in the primary involved.
+&emsp;&emsp;(B) more than 30 days after the date of the second consecutive primary election in which such individual receives less than 10 percent of the number of votes cast for all candidates of the same party for the same office in such primary election, if such individual permitted or authorized the appearance of his name on the ballot, unless such individual certifies to the Commission that he will not be an active candidate in the primary involved.
 
 #### (2) Qualified campaign expenses; payments to Secretary
 
@@ -42,7 +42,7 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 #### (4) Reestablishment of eligibility
 
-&emsp;(A) In any case in which an individual is ineligible to receive payments under section 9037 as a result of the operation of paragraph (1)(A), the Commission may subsequently determine that such individual is a candidate upon a finding that such individual is actively seeking election to the office of President of the United States in more than one State. The Commission shall make such determination without requiring such individual to reestablish his eligibility to receive payments under subsection (a).
+&emsp;(A) In any case in which an individual is ineligible to receive payments under section 9037 as a result of the operation of paragraph (1)(A), the Commission may subsequently determine that such individual is a candidate upon a finding that such individual is activelyseeking election to the office of President of the United States in more than one State. The Commission shall make such determination without requiring such individual to reestablish his eligibility to receive payments under subsection (a).
 
 &emsp;(B) Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts he would have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
 

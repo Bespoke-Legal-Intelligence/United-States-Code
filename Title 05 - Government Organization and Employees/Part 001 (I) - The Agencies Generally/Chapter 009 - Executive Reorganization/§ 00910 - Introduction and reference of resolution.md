@@ -1,6 +1,6 @@
 ### §910. Introduction and reference of resolution
 
-(a) No later than the first day of session following the day on which a reorganization plan istransmitted to the House of Representatives and the Senate under section 903, a resolution, as defined in section 909, shall be introduced (by request) in the House by the chairman of the Government Operations Committee of the House, or by a Member or Members of the House designated by such chairman; and shall be introduced (by request) in the Senate by the chairman of the Governmental Affairs Committee of the Senate, or by a Member or Members of the Senate designated by such chairman.
+(a) No later than the first day of session following the day on which a reorganization plan is transmitted to the House of Representatives and the Senate under section 903, a resolution, as defined in section 909, shall be introduced (by request) in the House by the chairman of the Government Operations Committee of the House, or by a Member or Members of the House designated by such chairman; and shall be introduced (by request) in the Senate by the chairman of the Governmental Affairs Committee of the Senate, or by a Member or Members of the Senate designated by such chairman.
 
 (b) A resolution with respect to a reorganization plan shall be referred to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House (and all resolutions with respect to the same plan shall be referred to the same committee) by the President of the Senate or the Speaker of the House of Representatives, as the case may be. The committee shall make its recommendations to the House of Representatives or the Senate, respectively, within 75 calendar days of continuous session of Congress following the date of such resolution's introduction.
 
@@ -22,13 +22,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
 
-1977—Pub. L. 95–17 substituted “Introduction and reference of resolution” for “Reference of resolution to committee” in section catchline, designated existing provisions as subsec. (b), substituted “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House” for “a committee” and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution's introduction, and added subsec. (a).
+<b>1977</b>—Pub. L. 95–17 substituted “Introduction and reference of resolution” for “Reference of resolution to committee” in section catchline, designated existing provisions as subsec. (b), substituted “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House” for “a committee” and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution's introduction, and added subsec. (a).
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

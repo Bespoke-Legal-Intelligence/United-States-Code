@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this subchapter $175,000,00
 
 #### (b) Set-asides
 
-Of any amount made available in any fiscal year to carry out this subchapter, not more than6.25 percent of such amount shall be available for grants for federally assisted, low-income housing. Notwithstanding any other provision of law, of any amounts appropriated for drug elimination grants under this subchapter for fiscal years 1993 and 1994, not more than 6.25 percent shall be available for grants for federally assisted low-income housing and 5.0 percent shall be available for public housing youth sports program grants under section 11903a of this title.
+Of any amount made available in any fiscal year to carry out this subchapter, not more than 6.25 percent of such amount shall be available for grants for federally assisted, low-income housing. Notwithstanding any other provision of law, of any amounts appropriated for drug elimination grants under this subchapter for fiscal years 1993 and 1994, not more than 6.25 percent shall be available for grants for federally assisted low-income housing and 5.0 percent shall be available for public housing youth sports program grants under section 11903a of this title.
 
 #### (c) Set-aside for youth sports programs
 

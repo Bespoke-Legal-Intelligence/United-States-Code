@@ -12,7 +12,7 @@
 
 &emsp;(2) not more than $3,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1998, to carry out longitudinal research under section 9844(e) of this title.
 
-(Pub. L. 97–35, title VI, §639, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §102, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §101, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–120, §2, Oct. 23, 1989, 103 Stat. 700; Pub. L. 101–501, title I, §§103, 120(b), 140, Nov. 3, 1990, 104 Stat. 1224,1236, 1242; Pub. L. 103–252, title I, §104, May 18, 1994, 108 Stat. 625.)
+(Pub. L. 97–35, title VI, §639, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §102, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §101, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–120, §2, Oct. 23, 1989, 103 Stat. 700; Pub. L. 101–501, title I, §§103, 120(b), 140, Nov. 3, 1990, 104 Stat. 1224, 1236, 1242; Pub. L. 103–252, title I, §104, May 18, 1994, 108 Stat. 625.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ Section was not enacted as part of the Public Health Service Act which comprises
 
 1984—Subsec. (a). Pub. L. 98–498, §310(b), substituted “by the Public Health Service if” for “at facilities of the Public Health Service: <i>Provided,</i> That”.
 
-Subsec. (b). Pub. L. 98–498, §310(c), struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the PublicHealth Service if” for “at hospitals of the Public Health Service: <i>Provided,</i> That”.
+Subsec. (b). Pub. L. 98–498, §310(c), struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the Public Health Service if” for “at hospitals of the Public Health Service: <i>Provided,</i> That”.
 
 #### Change of Name
 
@@ -86,7 +86,7 @@ Sec. 5. <i>Extent of treatment; dependent members of families; charges.</i> (a) 
 
 (d) Dental treatment may be furnished to the extent that facilities and services at hospitals and outpatient clinics of the Service having full-time dental officers are available to provide such treatment. Dental care will not be furnished under any circumstances in private facilities at the expense of the Service.
 
-Sec. 6. <i>Prior orders.</i> Executive Order No. 9703 of March 12, 1946, prescribing regulations relating to medicalcare of certain personnel of the Coast Guard, Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], Public Health Service, and former Lighthouse Service, is hereby amended to the extent necessary to conform it to the provisions of this order.
+Sec. 6. <i>Prior orders.</i> Executive Order No. 9703 of March 12, 1946, prescribing regulations relating to medical care of certain personnel of the Coast Guard, Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], Public Health Service, and former Lighthouse Service, is hereby amended to the extent necessary to conform it to the provisions of this order.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -26,7 +26,7 @@ Through the General Services Administration's licensing agreements, the Administ
 
 #### (d) Consortium with private entities
 
-If a Federal agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space, the agency or the General Services Administration may enter into a consortium with one or more private entities under which such private entities would assist in defraying the costs associated with the salaries and benefits provided for any personnel providing services at such facility.
+If a Federal agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space,the agency or the General Services Administration may enter into a consortium with one or more private entities under which such private entities would assist in defraying the costs associated with the salaries and benefits provided for any personnel providing services at such facility.
 
 (Pub. L. 100–202, §101(m) \[title VI, §616\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–423; Pub. L. 102–393, title V, §528, Oct. 6, 1992, 106 Stat. 1760.)
 

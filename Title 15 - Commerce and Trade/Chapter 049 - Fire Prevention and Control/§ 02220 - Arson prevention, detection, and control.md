@@ -6,7 +6,7 @@ The Administrator shall—
 
 &emsp;(1) develop arson detection techniques to assist Federal agencies and States and local jurisdictions in improving arson prevention, detection, and control;
 
-&emsp;(2) provide training and instructional materials in the skills and knowledge necessary to assist Federal, State, and local fire service and law enforcement personnel in arson prevention, detection, and control, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses;
+&emsp;(2) provide training and instructional materials in the skills and knowledge necessary to assist Federal, State, and local fire service and law enforcement personnel in arson prevention, detection, and control, with particularemphasis on the needs of volunteer firefighters for improved and more widely available arson training courses;
 
 &emsp;(3) formulate methods for collection of arson data which would be compatible with methods of collection used for the uniform crime statistics of the Federal Bureau of Investigation;
 
@@ -34,15 +34,15 @@ The Administrator shall—
 
 (2) Of the funds authorized to be appropriated in section 2216 of this title, $100,000 shall be available in fiscal year 1979 for carrying out the purposes of paragraph (1) of this subsection.
 
-(Pub. L. 93 498, §24, as added Pub. L. 95 422, §3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103 254, §4, May 19, 1994, 108 Stat. 682.)
+(Pub. L. 93–498, §24, as added Pub. L. 95–422, §3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103–254, §4, May 19, 1994, 108 Stat. 682.)
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103 254 inserted before semicolon at end “, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses”.
+1994—Subsec. (a)(2). Pub. L. 103–254 inserted before semicolon at end “, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses”.
 
 #### Transfer of Functions
 
-Functions of Administrator of United States Fire Administration under this section and section 2221 of this title to remain vested in Administrator and not to be transferred to Director of Federal Emergency Management Agency, pursuant to Reorg. Plan No. 3 of 1978, §§201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §1 103(a), Mar. 31, 1979, 44 F.R. 19367.
+Functions of Administrator of United States Fire Administration under this section and section 2221 of this title to remain vested in Administrator and not to be transferred to Director of Federal Emergency Management Agency, pursuant to Reorg. Plan No. 3 of 1978, §§201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §1–103(a), Mar. 31, 1979, 44 F.R. 19367.
 
 #### Section Referred to in Other Sections
 

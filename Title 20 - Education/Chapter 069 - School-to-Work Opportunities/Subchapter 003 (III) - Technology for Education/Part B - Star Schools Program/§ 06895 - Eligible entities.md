@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) a partnership that will provide telecommunications services and which includes 3 or more of the following entities, at least 1 of which shall be an agency described in clause (i) or (ii):
 
-&emsp;&emsp;&emsp;(i) a local educational agency that serves a significant number of elementary and secondary schools that are eligible for assistance under part A of subchapter I of this chapter, or elementary and secondary schools operated or funded for Indian children by the Department of the Interior eligible under section 6331(b)(2)<sup>1</sup> of this title;
+&emsp;&emsp;&emsp;(i) a local educational agency that serves a significant number of elementary and secondary schools that are eligible for assistance under part A of subchapter I of this chapter, or elementary and secondary schools operated or funded for Indian children by the Department of the Interior eligible under section 6331(b)(2) <sup>1</sup> of this title;
 
 &emsp;&emsp;&emsp;(ii) a State educational agency;
 
@@ -38,7 +38,7 @@
 
 An eligible entity receiving assistance under this part shall be organized on a statewide or multistate basis.
 
-(Pub. L. 89 10, title III, §3205, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3656.)
+(Pub. L. 89–10, title III, §3205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3656.)
 
-<i><sup>1</sup></i><i>So in original. Probably should be section “6331(c)(2)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “6331(c)(2)”.</i>
 

@@ -4,7 +4,7 @@ The Congress finds and declares the following:
 
 &emsp;(1) There is a Federal responsibility to provide opportunities for public recreation at Federal water projects.
 
-&emsp;(2) Some provisions of the Federal Water Project Recreation Act \[16 U.S.C. 460<i>l</i>–12 etseq.\] are outdated because of increases in demand for outdoor recreation and changes in the economic climate for recreation managing entities.
+&emsp;(2) Some provisions of the Federal Water Project Recreation Act \[16 U.S.C. 460<i>l</i>–12 et seq.\] are outdated because of increases in demand for outdoor recreation and changes in the economic climate for recreation managing entities.
 
 &emsp;(3) Provisions of such Act relating to non-Federal responsibility for all costs of operation, maintenance, and replacement of recreation facilities result in an unfair burden, especially in cases where the facilities are old or underdesigned.
 

@@ -32,7 +32,7 @@ Opportunity for State Comment.—The Secretary shall provide, to any appropriate
 
 (d)
 
-Corrective Action Orders.—If the Secretary decides under subsection (a) of this section that a pipeline facility is hazardous, the Secretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
+Corrective Action Orders.—If the Secretary decides under subsection (a) of this section that a pipeline facility is hazardous, theSecretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
 
 (e)
 

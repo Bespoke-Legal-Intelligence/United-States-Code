@@ -58,9 +58,9 @@ The tax imposed by this section shall not apply to any sale or use after Decembe
 
 (Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449.)
 
-#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 1995
+#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 1996
 
-<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 1995, see section 3.10 of Revenue Procedure 94–72, set out as a note under section 1 of this title.</i>
+<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 1996, see section 3.10 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

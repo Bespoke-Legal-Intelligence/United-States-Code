@@ -12,11 +12,11 @@ The Secretary shall, without charge to a State receiving payments under section 
 
 #### (2) Reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments to the State under section 300d–11(a) of this title by an amount equalto the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments to the State under section 300d–11(a) of this title by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 (July 1, 1944, ch. 373, title XII, §1221, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2926.)
 
 #### Prior Provisions
 
-A prior section 300d–21, act July 1, 1944, ch. 373, title XII, §1221, as added Oct. 21, 1976, Pub. L. 94–573, §14(3), 90 Stat. 2718; amended Dec. 12, 1979, Pub. L. 96–142, title I, §107(a)–(c), 93 Stat. 1069, related to programs for burn, trauma, and poison injuries, prior to repeal by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981.
+A prior section 300d–21, act July 1, 1944, ch. 373, title XII, §1221, as added Oct. 21, 1976, Pub. L. 94–573, §14(3), 90 Stat. 2718; amended Dec. 12, 1979, Pub. L. 96–142, titleI, §107(a)–(c), 93 Stat. 1069, related to programs for burn, trauma, and poison injuries, prior to repeal by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981.
 

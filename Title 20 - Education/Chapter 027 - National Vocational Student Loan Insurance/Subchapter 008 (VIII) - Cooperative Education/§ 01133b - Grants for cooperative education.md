@@ -18,7 +18,7 @@
 
 &emsp;(A) The amount of each grant awarded pursuant to paragraph (1)(A) to any institution of higher education or combination of such institutions in any fiscal year shall not exceed $500,000.
 
-&emsp;(B)(i) Except as provided in clauses (ii) and (iii), the Secretary shall award grants in each fiscal year to each institution of higher education described in paragraph (1)(B) that has an application approved under subsection (b) of this section in an amount which bears the same ratio to the amount reserved pursuant to section 1133a(b)(2) of this title for such fiscal year as the number of unduplicated students placed in cooperative education jobs during the preceding fiscal year (other than cooperative education jobs under section 1133c of this title and as determined by the Secretary) by such institution of higher education bears to the total number of all such students placed in such jobs during the preceding fiscal year by all such institutions.
+&emsp;(B)(i) Except as provided in clauses (ii) and (iii), the Secretary shall award grants in each fiscal year to each institution of higher education described in paragraph (1)(B) that has an application approved under subsection (b) of this section in an amount which bears the same ratio to the amount reserved pursuant to section 1133a(b)(2) of this title for such fiscal year as the number of unduplicated students placed in cooperative education jobs during the preceding fiscal year (other than cooperative education jobs under section 1133c of this title and as determined by the Secretary) by such institution of higher education bears to the total number of all such students placed insuch jobs during the preceding fiscal year by all such institutions.
 
 &emsp;(ii) No institution of higher education shall receive a grant pursuant to paragraph (1)(B) in any fiscal year in an amount which exceeds 25 percent of such institution's cooperative education program's personnel and operating budget for the preceding fiscal year.
 
@@ -40,7 +40,7 @@
 
 #### (b) Applications
 
-Each institution of higher education or combination of such institutions desiring to receive agrant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary shall prescribe. Each such application shall—
+Each institution of higher education or combination of such institutions desiring to receive a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary shall prescribe. Each such application shall—
 
 &emsp;(1) set forth the program or activities for which a grant is authorized under this section;
 
@@ -130,29 +130,29 @@ If the Secretary determines that a recipient of funds under this section has fai
 
 &emsp;The Secretary shall also give special consideration to applications from institutions of higher education or combinations of such institutions which demonstrate a commitment to serving special populations such as women, individuals with disabilities, and African American, Mexican-American, Puerto Rican, Cuban, other Hispanic, American Indian, Alaska Native, Aleut, Native Hawaiian, American Samoan, Micronesian, Guamanian (Chamorro), and Northern Marianian students.
 
-(Pub. L. 89 329, title VIII, §803, as added Pub. L. 99 498, title VIII, §801, Oct. 17, 1986, 100 Stat. 1548; amended Pub. L. 102 325, title VIII, §801, July 23, 1992, 106 Stat. 756; Pub. L. 103 208, §2(j)(25), (26), Dec. 20, 1993, 107 Stat. 2482.)
+(Pub. L. 89–329, title VIII, §803, as added Pub. L. 99–498, title VIII, §801, Oct. 17, 1986, 100 Stat. 1548; amended Pub. L. 102–325, title VIII, §801, July 23, 1992, 106 Stat. 756; Pub. L. 103–208, §2(j)(25), (26), Dec. 20, 1993, 107 Stat. 2482.)
 
 #### Prior Provisions
 
-A prior section 1133b, Pub. L. 89 329, title VIII, §803, as added Pub. L. 94 482, title I, §129(b), Oct. 12, 1976, 90 Stat. 2146; amended Pub. L. 96 374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized grants and contracts for training and research related to cooperative education, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 94–482, title I, §129(b), Oct. 12, 1976, 90 Stat. 2146; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized grants and contracts for training and research related to cooperative education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1133b, Pub. L. 89 329, title VIII, §803, as added Pub. L. 90 575, title II, §251, Oct. 16, 1968, 82 Stat. 1043, authorized free or reduced rates for sharing educational or related resources by institutions of higher education, prior to the general revision of this subchapter by Pub. L. 94 482.
+Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1043, authorized free or reduced rates for sharing educational or related resources by institutions of higher education, prior to the general revision of this subchapter by Pub. L. 94–482.
 
 #### Amendments
 
-1993—Subsec. (b)(6)(A). Pub. L. 103 208, §2(j)(25), struck out “data” after “for which the applicant receives a grant”.
+1993—Subsec. (b)(6)(A). Pub. L. 103–208, §2(j)(25), struck out “data” after “for which the applicant receives a grant”.
 
-Subsec. (e)(2). Pub. L. 103 208, §2(j)(26), substituted “Mexican-American” for “Mexican American” and “Northern Marianian” for “Northern Mariana”.
+Subsec. (e)(2). Pub. L. 103–208, §2(j)(26), substituted “Mexican-American” for “Mexican American” and “Northern Marianian” for “Northern Mariana”.
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to grants and contracts for cooperative education programs for provisions relating to demonstration and innovation projects, training and resource centers, and research.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to grants and contracts for cooperative education programs for provisions relating to demonstration and innovation projects, training and resource centers, and research.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

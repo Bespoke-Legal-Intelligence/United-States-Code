@@ -90,7 +90,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 #### (e) Matching funds for participating organizations
 
-(1) The Secretary shall assign each participating organization a defined program year, during which time voluntary contributions from individuals, businesses, and nonprofit or other organizations in the neighborhood, and from neighborhood development funding organizations, shall be eligible for matching.
+(1) The Secretary shall assign each participating organization a defined program year, duringwhich time voluntary contributions from individuals, businesses, and nonprofit or other organizations in the neighborhood, and from neighborhood development funding organizations, shall be eligible for matching.
 
 (2) Subject to paragraph (3), at the end of each three-month period occurring during the program year, the Secretary shall pay to each participating neighborhood development organization the product of—
 
@@ -186,7 +186,7 @@ Subsec. (f). Pub. L. 102–550, §832(b)(6), added subsec. (f) and struck out fo
 
 &emsp;“(1) not later than three months after the end of each fiscal year in which payments are made under this section, an interim report containing a summary of the activities carried out under this section during such fiscal year and any preliminary findings or conclusions drawn from the demonstration program; and
 
-&emsp;“(2) not later than March 15 of the year after the end of the last fiscal year in which such payments are made, a final report containing a summary of all activities carried out under this section, the evaluationrequired in subsection (e)(6)(D) of this section and any findings, conclusions, or recommendations for legislation drawn from the demonstration program.”
+&emsp;“(2) not later than March 15 of the year after the end of the last fiscal year in which such payments are made, a final report containing a summary of all activities carried out under this section, the evaluation required in subsection (e)(6)(D) of this section and any findings, conclusions, or recommendations for legislation drawn from the demonstration program.”
 
 Subsec. (g). Pub. L. 102–550, §832(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “To the extent provided in appropriations Acts, of the amounts made available for assistance under section 5303 of this title, $2,000,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 shall be available to carry out this section.”
 

@@ -30,11 +30,11 @@ Any tribe that supports a public library system shall continue to expend from Fe
 
 Nothing in this chapter shall be construed to prohibit restricted collections of tribal cultural materials with funds made available under this chapter.
 
-(June 19, 1956, ch. 407, title IV, §402, as added Oct. 17, 1984, Pub. L. 98 480, title I, §114, 98 Stat. 2243.)
+(June 19, 1956, ch. 407, title IV, §402, as added Oct. 17, 1984, Pub. L. 98–480, title I, §114, 98 Stat. 2243.)
 
 #### Prior Provisions
 
-A prior section 362, act June 19, 1956, ch. 407, title IV, §402, as added May 3, 1973, Pub. L. 93 29, title VIII, §801(a), 87 Stat. 57, related to use of Federal funds and the amount of the Federal share for the cost of carrying out State plans for the provision of older readers’ services, prior to the general revision of this subchapter by section 114 of Pub. L. 98 480.
+A prior section 362, act June 19, 1956, ch. 407, title IV, §402, as added May 3, 1973, Pub. L. 93–29, title VIII, §801(a), 87 Stat. 57, related to use of Federal funds and the amount of the Federal share for the cost of carrying out State plans for the provision of older readers’ services, prior to the general revision of this subchapter by section 114 of Pub. L. 98–480.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §8311 . Definitions
+### §8311. Definitions
 
 For the purpose of this subchapter—
 
@@ -12,7 +12,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) an individual employed by the government of the District of Columbia;
 
-&emsp;(2) “annuity” means a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which is creditable to an employee toward the benefit under the statute, regulation, or agreementwhich provides the benefit, but does not include—
+&emsp;(2) “annuity” means a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which is creditable to an employee toward the benefit under the statute, regulation, or agreement which provides the benefit, but does not include—
 
 &emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
 
@@ -80,7 +80,7 @@ In paragraph (1)(B), the reference to “Resident Commissioner” is omitted as 
 
 In paragraph (1)(C), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, or the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
-In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
+In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, theCoast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
 The definition of “armed forces” in former section 2281(4) is omitted as unnecessary in view of the definition of “armed forces” in section 2101.
 
@@ -96,7 +96,7 @@ Section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504
 
 #### Amendments
 
-1991—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 #### Section Referred to in Other Sections
 

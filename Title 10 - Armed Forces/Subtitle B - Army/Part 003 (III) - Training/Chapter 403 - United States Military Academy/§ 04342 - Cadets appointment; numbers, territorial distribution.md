@@ -1,4 +1,4 @@
-### §4342 . Cadets: appointment; numbers, territorial distribution
+### §4342. Cadets: appointment; numbers, territorial distribution
 
 (a) The authorized strength of the Corps of Cadets of the Academy is as follows:
 
@@ -74,7 +74,7 @@
 
 (h) The Secretary of the Army shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Sept. 2, 1958, Pub. L. 85–861, §33(a)(26), 72 Stat. 1565; Sept. 14, 1962, Pub. L. 87–663, §1(1), (2), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §1(1), 78 Stat. 148; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(4), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(1), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §1(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §512(13), 94 Stat. 2930; Dec. 24, 1980, Pub. L. 96–600, §2(a), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(a)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(1), (b)(1), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(a)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1672(c)(3), 108 Stat. 3015.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Sept. 2, 1958, Pub. L. 85–861, §33(a)(26), 72 Stat. 1565; Sept.14, 1962, Pub. L. 87–663, §1(1), (2), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §1(1), 78 Stat. 148; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(4), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(1), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §1(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §512(13), 94 Stat. 2930; Dec. 24, 1980, Pub. L. 96–600, §2(a), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(a)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(1), (b)(1), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(a)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1672(c)(3), 108 Stat. 3015.)
 
 Historical and Revision Notes
 
@@ -220,7 +220,7 @@ Subsec. (c). Pub. L. 87–633, §1(2), inserted references to American Samoa, Gu
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -258,7 +258,7 @@ Pub. L. 102–190, div. A, title V, §511(a)–(d), Dec. 5, 1991, 105 Stat. 1359
 
 “(a)
 
-Reduction in Authorized Strengths.—The authorized strength of the Corps of Cadets of the United States Military Academy, the Air Force Cadets of the United States Air Force Academy, and the brigade of midshipmen of the United States Naval Academy may not exceed 4,000 for each service academy for class years beginning after 1994.
+Reduction in Authorized Strengths.—The authorized strength of the Corps of Cadets of the UnitedStates Military Academy, the Air Force Cadets of the United States Air Force Academy, and the brigade of midshipmen of the United States Naval Academy may not exceed 4,000 for each service academy for class years beginning after 1994.
 
 “(b)
 

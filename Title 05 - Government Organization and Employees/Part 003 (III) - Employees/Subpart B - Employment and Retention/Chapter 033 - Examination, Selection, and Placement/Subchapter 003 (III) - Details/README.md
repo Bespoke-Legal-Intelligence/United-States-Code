@@ -2,35 +2,13 @@
 
 #### Annual Report to Congress on Employees or Members of Armed Services Detailed to Executive Agencies; Exemptions
 
-Pub. L. 103–329, title VI, §619, Sept. 30, 1993, 108 Stat. 2420, provided that:
+Provisions directing that each Executive agency detailing personnel submit an annual report to Senate and House Committees on Appropriations on all employees or members of armed services detailed to Executive agencies, listing grade, position, and offices of each person detailed and agency to which each such person was detailed, with exemptions for certain intelligence agencies, were contained in the following appropriations acts:
 
-“(a) Notwithstanding the provisions of sections 112 and 113 of title 3, United States Code, each Executive agency detailing any personnel shall submit a report on an annual basis in each fiscal year to the Senate and House Committees on Appropriations on all employees or members of the armed services detailed to Executive agencies, listing the grade, position, and offices of each person detailed and the agency to which each such person is detailed.
-
-“(b) The provisions of this section shall not apply to Federal employees or members of the armed services detailed to or from—
-
-&emsp;“(1) the Central Intelligence Agency;
-
-&emsp;“(2) the National Security Agency;
-
-&emsp;“(3) the Defense Intelligence Agency;
-
-&emsp;“(4) the offices within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs;
-
-&emsp;“(5) the Bureau of Intelligence and Research of the Department of State;
-
-&emsp;“(6) any agency, office, or unit of the Army, Navy, Air Force, and Marine Corps, the Federal Bureau of Investigation and the Drug Enforcement Administration of the Department of Justice, the Department of the Treasury, the Department of Transportation, and the Department of Energy performing intelligence functions; and
-
-&emsp;“(7) the Director of Central Intelligence.
-
-“(c) The exemptions in part (b) of this section are not intended to apply to information on the use of personnel detailed to or from the intelligence agencies which is currently being supplied to the Senate and House Intelligence and Appropriations Committees by the executive branch through budget justification materials and other reports.
-
-“(d) For the purposes of this section, the term ‘Executive agency’ has the same meaning as defined under section 105 of title 5, United States Code (except that the provisions of section 104(2) of title 5, United States Code, shall not apply), and includes the White House Office, the Executive Residence, and any office, council, or organizational unit of the Executive Office of the President.”
-
-Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 103–329, title VI, §619, Sept. 30, 1993, 108 Stat. 2420.
 
 Pub. L. 103–123, title VI, §617, Oct. 28, 1993, 107 Stat. 1263.
 
-Pub. L. 102–393, title VI, §619, Oct. 6, 1992, 106 Stat. 1769.
+Pub. L. 102–393, title VI, §619, Oct. 6, 1992, 106 Stat. 1769; repealed by Pub. L. 104–66, title III, §3001(h), Dec. 21, 1995, 109 Stat. 734.
 
 Pub. L. 102–141, title VI, §619, Oct. 28, 1991, 105 Stat. 871.
 

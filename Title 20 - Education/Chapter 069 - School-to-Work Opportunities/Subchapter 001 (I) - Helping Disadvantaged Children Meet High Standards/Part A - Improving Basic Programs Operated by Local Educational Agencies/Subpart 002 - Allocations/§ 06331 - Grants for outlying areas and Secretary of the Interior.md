@@ -42,7 +42,7 @@ From the amount appropriated for payments to States for any fiscal year under se
 
 &emsp;&emsp;(B) 48 percent of such expenditure in the United States.
 
-(Pub. L. 89 10, title I, §1121, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3561.)
+(Pub. L. 89–10, title I, §1121, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3561.)
 
 #### Section Referred to in Other Sections
 

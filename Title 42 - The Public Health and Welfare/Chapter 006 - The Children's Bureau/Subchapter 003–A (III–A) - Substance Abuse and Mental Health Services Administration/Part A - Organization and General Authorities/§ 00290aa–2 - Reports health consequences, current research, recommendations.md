@@ -34,23 +34,9 @@ A prior section 503 of act July 1, 1944, which was classified to section 221 of 
 
 #### Regulations
 
-Secretary of Health and Human Services to promulgate regulations, within 90 days of Oct. 19, 1984, for the administration of section 802(28) of Title 21, Food and Drugs, as amended by Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364, and to include in the first report submitted under subsec. (b) of this section after such period the findings of the Secretary with respect to the effect of the amendment by section 301(a) of Pub. L. 98–509, see section 301(b) of Pub. L. 98–509, set out as a note under section 802 of Title 21.
+Secretary of Health and Human Services to promulgate regulations, within 90 days of Oct. 19, 1984, for the administration of section 802(28) of Title 21, Food and Drugs, as amended by Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364, and to include in the first report submitted under subsec. (b) of this section aftersuch period the findings of the Secretary with respect to the effect of the amendment by section 301(a) of Pub. L. 98–509, see section 301(b) of Pub. L. 98–509, set out as a note under section 802 of Title 21.
 
 #### Relationship Between Consumption of Legal and Illegal Drugs
 
-Pub. L. 103–43, title XIX, §1908, June 10, 1993, 107 Stat. 204, provided that:
-
-“(a)
-
-In General.—The Secretary of Health and Human Services shall review and consider all existing relevant data and research concerning whether there is a relationship between an individual's receptivity to use or consume legal drugs and the consumption or abuse by the individual of illegal drugs. On the basis of such review, the Secretary shall determine whether additional research is necessary. If the Secretary determines additional research is required, the Secretary shall conduct a study of those subjects where the Secretary's review indicates additional research is needed, including, if necessary, a review of—
-
-&emsp;“(1) the effect of advertising and marketing campaigns that promote the use of legal drugs on the public;
-
-&emsp;“(2) the correlation of legal drug abuse with illegal drug abuse; and
-
-&emsp;“(3) other matters that the Secretary determines appropriate.
-
-“(b)
-
-Report.—Not later than 12 months after the date of enactment of this Act \[June 10, 1993\], the Secretary shall prepare and submit, to the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives and Committee on Labor and Human Resources of the Senate, a report containing the results of the review conducted under subsection (b)\[(a)\]. If the Secretary determines additional research is required, no later than 2 years after the date of enactment of this Act, the Secretary shall prepare and submit, to the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives and Committee on Labor and Human Resources of the Senate, a report containing the results of the additional research conducted under subsection (b)\[(a)\].”
+Pub. L. 103–43, title XIX, §1908, June 10, 1993, 107 Stat. 204, directed Secretary of Health and Human Services to review and consider all existing relevant data and research concerning whether there is a relationship between an individual's receptivity to use or consume legal drugs and consumption or abuse by the individual of illegal drugs and, on basis of such review, to determine whether additional research is necessary, with Secretary to conduct a study of those subjects where the Secretary's review indicates additional research is needed, and directed Secretary, not later than 12 months after June 10, 1993, to prepare and submit to Congress a report containing results of the review and, no later than 2 years after June 10, 1993, prepare and submit to Congress a report containing results of any additional research.
 

@@ -50,7 +50,7 @@ The Secretary shall append to the plan a detailed statement describing the manne
 
 Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: “That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which—
 
-&emsp;“(1) conveys to the United States the land described in section 2 of the Act entitled ‘An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon’, approved September 4, 1980 (94 Stat. 1073) \[set out as a note below\], and
+&emsp;“(1) conveys to the United States the land described in section 2 of the Act entitled ‘An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon’, approved September 4, 1980 (94 Stat. 1073) \[set out below\], and
 
 &emsp;“(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America.
 

@@ -6,7 +6,7 @@ There is established a working capital fund, to be available without fiscal year
 
 #### Codification
 
-Section was formerly classified to section 622a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+Section was formerly classified to section 622a of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
 #### Amendments
 

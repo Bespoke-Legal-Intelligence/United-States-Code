@@ -6,7 +6,7 @@
 
 (2) One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Navy.
 
-(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of theNavy and shall advise the Secretary of the Navy on financial management.
+(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Navy and shall advise the Secretary of the Navy on financial management.
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047; amended Pub. L. 100–456, div. A, title VII, §702(b)\[(1)\], Sept. 29, 1988, 102 Stat. 1994.)
 

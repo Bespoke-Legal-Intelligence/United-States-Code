@@ -2,9 +2,7 @@
 
 #### Codification
 
-Section, act Aug. 31, 1960, Pub. L. 86–678, title IV, 74 Stat. 569, which related to exchange of funds in connection with establishments abroad, was from the Departments of State and Justice, the Judiciary, and Related Agencies Appropriation Act, 1961, and was not repeated in subsequent appropriation acts.
-
-Similar provisions were contained in the following prior appropriation acts:
+Section, act Aug. 31, 1960, Pub. L. 86–678, title IV, 74 Stat. 569, which related to exchange of funds in connection with establishments abroad, was from the Departments of State and Justice, the Judiciary, and Related Agencies Appropriation Act, 1961, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 July 13, 1959, Pub. L. 86–84, title IV, 73 Stat. 194.
 

@@ -12,11 +12,11 @@ The section is added on authority of former sections 1081, 1082, 1084, and 1091,
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–509 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “This subchapter applies to employees and positions, other than Senior Executive Service positions and positions in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, to which chapter 51 of this title applies.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–509 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “This subchapter applies to employees and positions, other than Senior Executive Service positions and positions in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, to which chapter 51 of this title applies.”
 
-1988—Subsec. (b). Pub. L. 100–325 inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (b). Pub. L. 100–325 inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1978—Subsec. (b). Pub. L. 95–454 inserted reference to Senior Executive Service positions.
+<b>1978</b>—Subsec. (b). Pub. L. 95–454 inserted reference to Senior Executive Service positions.
 
 #### Effective Date of 1990 Amendment
 

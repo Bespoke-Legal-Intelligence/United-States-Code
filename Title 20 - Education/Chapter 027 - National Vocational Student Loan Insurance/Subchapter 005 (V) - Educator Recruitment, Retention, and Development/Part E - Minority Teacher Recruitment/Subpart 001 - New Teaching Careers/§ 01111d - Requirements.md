@@ -14,11 +14,11 @@ An eligible recipient of a grant under this subpart shall require that any parap
 
 The amount of financial assistance awarded under this subpart shall be reduced by the amount that the financial assistance exceeds the student's cost of attendance, as defined in section 1087<i>ll</i> of this title. Financial assistance awarded under this subpart shall not be reduced on the basis of the student's receipt of other forms of Federal student financial assistance but shall be taken into account in determining the eligibility of the student for those other forms of Federal student financial assistance.
 
-(Pub. L. 89 329, title V, §575, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 706.)
+(Pub. L. 89–329, title V, §575, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 706.)
 
 #### Prior Provisions
 
-A prior section 1111d, Pub. L. 89 329, title V, §555, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1508, related to the selection of Congressional teacher scholars, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1111d, Pub. L. 89–329, title V, §555, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1508, related to the selection of Congressional teacher scholars, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 575 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2899, provided for submission and evaluation of applications for talented teacher fellowship assistance and was classified to section 1119e 4 of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 575 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2899, provided for submission and evaluation of applications for talented teacher fellowship assistance and was classified to section 1119e–4 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 

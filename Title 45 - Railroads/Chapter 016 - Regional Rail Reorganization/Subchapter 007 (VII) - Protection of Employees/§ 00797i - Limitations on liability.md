@@ -16,7 +16,11 @@ The liability of the United States under an agreement entered into or benefit sc
 
 Section 797 of this title, referred to in subsecs. (a) and (b)(1), was repealed by Pub. L. 99–509, title IV, §4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987).
 
-Section 797<i>l</i> of this title, referred to in subsec. (a), was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21, 1986, 100 Stat. 1908.
+Section 797<i>l</i> of this title, referred to in subsec. (a), was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21, 1986, 100 Stat. 1908, and a new section 797<i>l</i> of this title was subsequently added by Pub. L. 104–88, §327(5).
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Section Referred to in Other Sections
 

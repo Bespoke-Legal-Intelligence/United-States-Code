@@ -2,7 +2,7 @@
 
 (a) The authority of the Secretary to enter into commitments to insure loans and mortgages under this chapter shall be effective for any fiscal year only to such extent or in such amounts as are or have been provided in appropriation Acts for such fiscal year.
 
-(b) Notwithstanding any other provision of law and subject only to the absence of qualified requests for insurance, to the authority provided in this chapter, and to the limitation in subsection (a) of this section, the Secretary shallenter into commitments to insure mortgages under this chapter with an aggregate principal amount of $110,165,000,000 during fiscal year 1993 and $68,673,868,600 during fiscal year 1994.
+(b) Notwithstanding any other provision of law and subject only to the absence of qualified requests for insurance, to the authority provided in this chapter, and to the limitation in subsection (a) of this section, the Secretary shall enter into commitments to insure mortgages under this chapter with an aggregate principal amount of $110,165,000,000 during fiscal year 1993 and $68,673,868,600 during fiscal year 1994.
 
 (June 27, 1934, ch. 847, title V, §531, as added Aug. 13, 1981, Pub. L. 97–35, title III, §335, 95 Stat. 414; amended Nov. 30, 1983, Pub. L. 98–181, title IV, §402, 97 Stat. 1208; Oct. 17, 1984, Pub. L. 98–479, title I, §104(a)(7), 98 Stat. 2225; Mar. 27, 1986, Pub. L. 99–267, §1(h), 100 Stat. 73; Sept. 30, 1987, Pub. L. 100–122, §2(c), 101 Stat. 793; Feb. 5, 1988, Pub. L. 100–242, title IV, §402, 101 Stat. 1899; Nov. 28, 1990, Pub. L. 101–625, title III, §321, 104 Stat. 4134; Oct. 28, 1992, Pub. L. 102–550, title V, §501, 106 Stat. 3778; Oct. 27, 1993, Pub. L. 103–120, §9, 107 Stat. 1151.)
 

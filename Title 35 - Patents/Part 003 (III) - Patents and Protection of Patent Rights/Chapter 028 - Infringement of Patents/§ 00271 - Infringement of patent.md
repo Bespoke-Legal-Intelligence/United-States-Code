@@ -1,14 +1,14 @@
 ### §271. Infringement of patent
 
-(a) Except as otherwise provided in this title, whoever without authority makes, uses or sells any patented invention, within the United States during the term of the patent therefor, infringes the patent.
+(a) Except as otherwise provided in this title, whoever without authority makes, uses, offers to sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
 
 (b) Whoever actively induces infringement of a patent shall be liable as an infringer.
 
-(c) Whoever sells a component of a patented machine, manufacture, combination or composition, or a material or apparatus for use in practicing a patented process, constituting a material part of the invention, knowing the same to be especially made or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use, shall be liable as a contributory infringer.
+(c) Whoever offers to sell or sells within the United States or imports into the United States a component of a patented machine, manufacture, combination or composition, or a material or apparatus for use in practicing a patented process, constituting a material part of the invention, knowing the same to be especially made or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use, shall be liable as a contributory infringer.
 
 (d) No patent owner otherwise entitled to relief for infringement or contributory infringement of a patent shall be denied relief or deemed guilty of misuse or illegal extension of the patent right by reason of his having done one or more of the following: (1) derived revenue from acts which if performed by another without his consent would constitute contributory infringement of the patent; (2) licensed or authorized another to perform acts which if performed without his consent would constitute contributory infringement of the patent; (3) sought to enforce his patent rights against infringement or contributory infringement; (4) refused to license or use any rights to the patent; or (5) conditioned the license of any rights to the patent or the sale of the patented product on the acquisition of a license to rights in another patent or purchase of a separate product, unless, in view of the circumstances, the patent owner has market power in the relevant market for the patent or patented product on which the license or sale is conditioned.
 
-(e)(1) It shall not be an act of infringement to make, use, or sell a patented invention (other than a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Act of March 4, 1913) which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques) solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs or veterinary biological products.
+(e)(1) It shall not be an act of infringement to make, use, offer to sell, or sell within the United States or import into the United States a patented invention (other than a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Act of March 4, 1913) which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques) solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs or veterinary biological products.
 
 (2) It shall be an act of infringement to submit—
 
@@ -16,17 +16,17 @@
 
 &emsp;(B) an application under section 512 of such Act or under the Act of March 4, 1913 (21 U.S.C. 151–158) for a drug or veterinary biological product which is not primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques and which is claimed in a patent or the use of which is claimed in a patent,
 
-> if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug orveterinary biological product claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.
+> if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug or veterinary biological product claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.
 
-(3) In any action for patent infringement brought under this section, no injunctive or other relief may be granted which would prohibit the making, using, or selling of a patented invention under paragraph (1).
+(3) In any action for patent infringement brought under this section, no injunctive or other relief may be granted which would prohibit the making, using, offering to sell, or selling within the United States or importing into the United States of a patented invention under paragraph (1).
 
 (4) For an act of infringement described in paragraph (2)—
 
 &emsp;(A) the court shall order the effective date of any approval of the drug or veterinary biological product involved in the infringement to be a date which is not earlier than the date of the expiration of the patent which has been infringed,
 
-&emsp;(B) injunctive relief may be granted against an infringer to prevent the commercial manufacture, use, or sale of an approved drug or veterinary biological product, and
+&emsp;(B) injunctive relief may be granted against an infringer to prevent the commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug or veterinary biological product, and
 
-&emsp;(C) damages or other monetary relief may be awarded against an infringer only if there has been commercial manufacture, use, or sale of an approved drug or veterinary biological product.
+&emsp;(C) damages or other monetary relief may be awarded against an infringer only if there has been commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug or veterinary biological product.
 
 > The remedies prescribed by subparagraphs (A), (B), and (C) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
 
@@ -34,7 +34,7 @@
 
 (2) Whoever without authority supplies or causes to be supplied in or from the United States any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
-(g) Whoever without authority imports into the United States or sells or uses within the United States a product which is made by a process patented in the United States shall be liable as an infringer, if the importation, sale, or use of the product occurs during the term of such process patent. In an action for infringement of a process patent, no remedy may be granted for infringement on account of the noncommercial use or retail sale of a product unless there is no adequate remedy under this title for infringement on account of the importation or other use or sale of that product. A product which is made by a patented process will, for purposes of this title, not be considered to be so made after—
+(g) Whoever without authority imports into the United States or offers to sell, sells, or uses within the United States a product which is made by a process patented in the United States shall be liable as an infringer, if the importation, offer to sell, sale, or use of the product occurs during the term of such process patent. In an action for infringement of a process patent, no remedy may be granted for infringement on account of the noncommercial use or retail sale of a product unless there is no adequate remedy under this title for infringement on account of the importation or other use, offer to sell, or sale of that product. A product which is made by a patented process will, for purposes of this title, not be considered to be so made after—
 
 &emsp;(1) it is materially changed by subsequent processes; or
 
@@ -42,41 +42,9 @@
 
 (h) As used in this section, the term “whoever” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Sept. 24, 1984, Pub. L. 98–417, title II, §202, 98 Stat. 1603; Nov. 8, 1984, Pub. L. 98–622, title I, §101(a), 98 Stat. 3383; Aug. 23, 1988, Pub. L. 100–418, title IX, §9003, 102 Stat. 1563; Nov. 16, 1988, Pub. L. 100–670, title II, §201(i), 102 Stat. 3988; Nov. 19, 1988, Pub. L. 100–703, title II, §201, 102 Stat. 4676; Oct. 28, 1992, Pub. L. 102–560, §2(a)(1), 106 Stat. 4230; Dec. 8, 1994, Pub. L. 103–465, title V, §533(a), 108 Stat. 4988.)
-
-#### Amendment of Section
-
-<i>Pub. L. 103–465, title V, §§533(a), 534(a), (b)(3), Dec. 8, 1994, 108 Stat. 4988, 4990, provided that, effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, this section is amended:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) by inserting “, offers to sell,” after “uses”; and</i>
-
-<i>(B) by inserting “or imports into the United States any patented invention” after “the United States”;</i>
-
-<i>(2) in subsection (c), by striking “sells” and inserting “offers to sell or sells within the United States or imports into the United States”;</i>
-
-<i>(3) in subsection (e)—</i>
-
-<i>(A) in paragraph (1), by striking “or sell” and inserting “offer to sell, or sell within the United States or import into the United States”;</i>
-
-<i>(B) in paragraph (3), by striking “or selling” and inserting “offering to sell, or selling within the United States or importing into the United States”;</i>
-
-<i>(C) in paragraph (4)(B), by striking “or sale” and inserting “offer to sell, or sale within the United States or importation into the United States”; and</i>
-
-<i>(D) in paragraph (4)(C), by striking “or sale” and inserting “offer to sell, or sale within the United States or importation into the United States”;</i>
-
-<i>(4) in subsection (g)—</i>
-
-<i>(A) by striking “sells” and inserting “offers to sell, sells,”;</i>
-
-<i>(B) by striking “importation, sale,” and inserting “importation, offer to sell, sale,”; and</i>
-
-<i>(C) by striking “other use or” and inserting “other use, offer to sell, or”; and</i>
-
-<i>(5) by adding at the end the following:</i>
-
 (i) As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
+
+(July 19, 1952, ch. 950, 66 Stat. 811; Sept. 24, 1984, Pub. L. 98–417, title II, §202, 98 Stat. 1603; Nov. 8, 1984, Pub. L. 98–622, title I, §101(a), 98 Stat. 3383; Aug. 23, 1988, Pub. L. 100–418, title IX, §9003, 102 Stat. 1563; Nov. 16, 1988, Pub. L. 100–670, title II, §201(i), 102 Stat. 3988; Nov. 19, 1988, Pub. L. 100–703, title II, §201, 102 Stat. 4676; Oct. 28, 1992, Pub. L. 102–560, §2(a)(1), 106 Stat. 4230; Dec. 8, 1994, Pub. L. 103–465, title V, §533(a), 108 Stat. 4988.)
 
 #### Historical and Revision Notes
 
@@ -91,6 +59,20 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is
 Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are classified generally to chapter 5 (§151 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 #### Amendments
+
+1994—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
+
+Subsec. (c). Pub. L. 103–465, §533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
+
+Subsec. (e)(1). Pub. L. 103–465, §533(a)(3)(A), substituted “offer to sell, or sell within the United States or import into the United States” for “or sell”.
+
+Subsec. (e)(3). Pub. L. 103–465, §533(a)(3)(B), substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
+
+Subsec. (e)(4)(B), (C). Pub. L. 103–465, §533(a)(3)(C), (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
+
+Subsec. (g). Pub. L. 103–465, §533(a)(4), substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
+
+Subsec. (i). Pub. L. 103–465, §533(a)(5), added subsec. (i).
 
 1992—Subsec. (h). Pub. L. 102–560 added subsec. (h).
 

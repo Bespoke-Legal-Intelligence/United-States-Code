@@ -14,7 +14,7 @@ Status.—Amtrak Commuter—
 
 (b)
 
-Application of Safety and Employee Relations Laws and Regulations.—Chapter 105 of this title does not apply to Amtrak Commuter. However, laws and regulations governing safety, employee representation for collective bargaining purposes, the handling of disputes between carriers and employees, employee retirement, annuity, and unemployment systems, and other dealings with employees that apply to a rail carrier providing transportation subject to subchapter I of chapter 105 apply to Amtrak Commuter.
+Application of Safety and Employee Relations Laws and Regulations.—Chapter 105 of this title does not apply to Amtrak Commuter. However, laws and regulations governing safety, employee representation for collective bargaining purposes, the handling of disputes between carriers and employees, employee retirement, annuity, and unemployment systems, and other dealings with employees that apply to a rail carrier providing transportation subject to part A of subtitle IV apply to Amtrak Commuter.
 
 (c)
 
@@ -50,7 +50,7 @@ Tax Exemption for Certain Commuter Authorities.—A commuter authority with whic
 
 Nonapplication of Agreements for Financial Support and Trackage Rights.—An agreement under which financial support was provided on January 2, 1974, to a commuter authority to continue rail passenger transportation does not apply to Amtrak Commuter. However, Amtrak and the Consolidated Rail Corporation retain appropriate trackage rights over rail property owned or leased by the authority. Compensation for the rights shall be reasonable.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 919; Pub. L. 103–429, §6(21), Oct. 31, 1994, 108 Stat. 4379.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 919; Pub. L. 103–429, §6(21), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–88, title III, §308(h), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -134,6 +134,8 @@ The District of Columbia Business Corporation Act, referred to in subsec. (c), i
 
 #### Amendments
 
+1995—Subsec. (b). Pub. L. 104–88 substituted “part A of subtitle IV” for “subchapter I of chapter 105”.
+
 1994—Subsec. (f)(1). Pub. L. 103–429, §6(21)(A), added par. (1) and struck out former par. (1) which read as follows: “In this subsection, ‘additional tax’ means a tax or fee—
 
 &emsp;“(A) on the acquisition, improvement, ownership, or operation of personal property by Amtrak Commuter; and
@@ -141,6 +143,10 @@ The District of Columbia Business Corporation Act, referred to in subsec. (c), i
 &emsp;“(B) on real property, except a tax or fee on the acquisition of real property or on the value of real property not attributable to improvements made, or the operation of those improvements, by Amtrak Commuter.”
 
 Subsec. (f)(2). Pub. L. 103–429, §6(21)(B), inserted “, even if that use is indirect” after “transportation”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Effective Date of 1994 Amendment
 

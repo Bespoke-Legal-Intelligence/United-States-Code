@@ -1,6 +1,6 @@
 ### §2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
 
-(a) The Secretary concerned may lend or give items described in subsection (c) that are not needed by the military department concerned (or by the Coast Guard, in the case of the Secretary of Transportation), to any of the following:
+(a) The Secretary concerned may lend or give items described in subsection (c) that are notneeded by the military department concerned (or by the Coast Guard, in the case of the Secretary of Transportation), to any of the following:
 
 &emsp;(1) A municipal corporation.
 

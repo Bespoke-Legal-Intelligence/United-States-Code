@@ -1,6 +1,6 @@
 ### §2351. Applications
 
-(a)<sup>1</sup> Each community-based organization which desires to receive assistance under this part shall prepare jointly with the appropriate eligible recipient and submit an application to the State board at such time, in such manner, and containing or accompanied by such information as the State board may require. Each such application shall—
+(a) <sup>1</sup> Each community-based organization which desires to receive assistance under this part shall prepare jointly with the appropriate eligible recipient and submit an application to the State board at such time, in such manner, and containing or accompanied by such information as the State board may require. Each such application shall—
 
 &emsp;(1) contain an agreement between the community-based organization and the eligible recipients in the area to be served, which includes the designation of fiscal agents established for the program;
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) provide assurances that the programs conducted by the community-based organization will conform to the applicable standards of performance and measures of effectiveness required of vocational education programs in the State.
 
-(Pub. L. 88 210, title III, §301, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2457.)
+(Pub. L. 88–210, title III, §301, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457.)
 
-<i><sup>1</sup></i><i>So in original. No subsec. (b) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

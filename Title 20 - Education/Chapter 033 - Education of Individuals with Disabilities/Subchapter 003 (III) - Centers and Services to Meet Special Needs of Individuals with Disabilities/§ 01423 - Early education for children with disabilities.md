@@ -74,65 +74,65 @@ For purposes of this section the term “children with disabilities” includes 
 
 #### (h) Organization, integration, and presentation of developed knowledge
 
-The Secretary may make grants to, or enter into contracts or cooperative agreements with, institutions of higher education and nonprofit private organizations to synthesize the knowledge developed under this section and organize,integrate, and present such knowledge so it can be incorporated and imparted to parents, professionals, and others providing or preparing to provide preschool or early intervention services and to persons designing preschool or early intervention programs.
+The Secretary may make grants to, or enter into contracts or cooperative agreements with, institutions of higher education and nonprofit private organizations to synthesize the knowledge developed under this section and organize, integrate, and present such knowledge so it can be incorporated and imparted to parents, professionals, and others providing or preparing to provide preschool or early intervention services and to persons designing preschool or early intervention programs.
 
-(Pub. L. 91 230, title VI, §623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98 199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99 457, title III, §303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100 630, title I, §103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101 476, title III, §303, title IX, §901(b)(100) (106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102 119, §§8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607.)
+(Pub. L. 91–230, title VI, §623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99–457, title III, §303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100–630, title I, §103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §303, title IX, §901(b)(100)–(106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102–119, §§8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 102 119, §8(a)(1), inserted “, including individuals who are at risk of having substantial developmental delays if early intervention services are not provided,” after “disabilities” in introductory provisions.
+Subsec. (a)(1). Pub. L. 102–119, §8(a)(1), inserted “, including individuals who are at risk of having substantial developmental delays if early intervention services are not provided,” after “disabilities” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 102 119, §25(a)(9), struck out “and” after “mode”.
+Subsec. (a)(1)(A). Pub. L. 102–119, §25(a)(9), struck out “and” after “mode”.
 
-Subsec. (a)(1)(F) to (H). Pub. L. 102 119, §8(a)(2)(A), realigned margins of subpars. (F) to (H).
+Subsec. (a)(1)(F) to (H). Pub. L. 102–119, §8(a)(2)(A), realigned margins of subpars. (F) to (H).
 
-Subsec. (a)(1)(I) to (K). Pub. L. 102 119, §8(a)(2)(A) (D), added subpars. (I) and (J), redesignated former subpar. (I) as (K) and realigned its margins.
+Subsec. (a)(1)(I) to (K). Pub. L. 102–119, §8(a)(2)(A)–(D), added subpars. (I) and (J), redesignated former subpar. (I) as (K) and realigned its margins.
 
-Subsecs. (b) to (e). Pub. L. 102 119, §8(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
+Subsecs. (b) to (e). Pub. L. 102–119, §8(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 102 119, §8(b)(1)(A), (2), redesignated subsec. (e) as (f) and substituted “subsections (c) and (d) of this section” for “subsections (b) and (c) of this section”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 102–119, §8(b)(1)(A), (2), redesignated subsec. (e) as (f) and substituted “subsections (c) and (d) of this section” for “subsections (b) and (c) of this section”. Former subsec. (f) redesignated (g).
 
-Subsecs. (g), (h). Pub. L. 102 119, §8(b)(1)(A), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (g), (h). Pub. L. 102–119, §8(b)(1)(A), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Pub. L. 101 476, §901(b)(100), substituted “children with disabilities” for “handicapped children” in section catchline.
+Pub. L. 101–476, §901(b)(100), substituted “children with disabilities” for “handicapped children” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101 476, §§303(a)(1), 901(b)(101), substituted in introductory provisions “children with disabilities” for “handicapped children” and “needs of these children” for “problems of such children”.
+Subsec. (a)(1). Pub. L. 101–476, §§303(a)(1), 901(b)(101), substituted in introductory provisions “children with disabilities” for “handicapped children” and “needs of these children” for “problems of such children”.
 
-Subsec. (a)(1)(A). Pub. L. 101 476, §303(a)(2), inserted “or other communication mode and” after “speech”.
+Subsec. (a)(1)(A). Pub. L. 101–476, §303(a)(2), inserted “or other communication mode and” after “speech”.
 
-Subsec. (a)(1)(B). Pub. L. 101 476, §303(a)(3), inserted “provide family education and include a parent or their representative of such child, as well as” before “encourage”.
+Subsec. (a)(1)(B). Pub. L. 101–476, §303(a)(3), inserted “provide family education and include a parent or their representative of such child, as well as” before “encourage”.
 
-Subsec. (a)(1)(C). Pub. L. 101 476, §303(a)(4), substituted “special needs” for “problems”.
+Subsec. (a)(1)(C). Pub. L. 101–476, §303(a)(4), substituted “special needs” for “problems”.
 
-Subsec. (a)(1)(D). Pub. L. 101 476, §§303(a)(5), 901(b)(102), inserted “, including interdisciplinary models and practices,” after “practices”, substituted “children with disabilities” for “handicapped children”, and inserted “and to the parents of such children” after “age 8”.
+Subsec. (a)(1)(D). Pub. L. 101–476, §§303(a)(5), 901(b)(102), inserted “, including interdisciplinary models and practices,” after “practices”, substituted “children with disabilities” for “handicapped children”, andinserted “and to the parents of such children” after “age 8”.
 
-Subsec. (a)(1)(E). Pub. L. 101 476, §303(a)(6), inserted before period at end “, including the involvement of adult role models with disabilities at all levels of the program”.
+Subsec. (a)(1)(E). Pub. L. 101–476, §303(a)(6), inserted before period at end “, including the involvement of adult role models with disabilities at all levels of the program”.
 
-Subsec. (a)(1)(F) to (I). Pub. L. 101 476, §303(a)(7), added subpars. (F) to (I).
+Subsec. (a)(1)(F) to (I). Pub. L. 101–476, §303(a)(7), added subpars. (F) to (I).
 
-Subsec. (b). Pub. L. 101 476, §§303(b), 901(b)(103), substituted “children with disabilities” for “handicapped children” and inserted at end “This technical assistance development system shall provide assistance to parents of and advocates for infants, toddlers, and children with disabilities, as well as direct service and administrative personnel involved with such children. Information from the system should be aggressively disseminated through established information networks and other mechanisms to ensure both an impact and benefits at the community level. The Secretary shall ensure that the technical assistance provided under this subsection includes assistance to part H State agencies on procedures for use by primary referral sources in referring a child to the appropriate agency within the system for evaluation, assessment, or service.”
+Subsec. (b). Pub. L. 101–476, §§303(b), 901(b)(103), substituted “children with disabilities” for “handicapped children” and inserted at end “This technical assistance development system shall provide assistance to parents of and advocates for infants, toddlers, and children with disabilities, as well as direct service and administrative personnel involved with such children. Information from the system should be aggressively disseminated through established information networks and other mechanisms to ensure both an impact and benefits at the community level. The Secretary shall ensure that the technical assistance provided under this subsection includes assistance to part H State agencies on procedures for use by primary referral sources in referring a child to the appropriate agency within the system for evaluation, assessment, or service.”
 
-Subsec. (c). Pub. L. 101 476, §§303(c), 901(b)(104), substituted “children with disabilities” for “handicapped children” and inserted at end “Such institutes shall disseminate this information in the manner prescribed in section 1409(g) of this title.”
+Subsec. (c). Pub. L. 101–476, §§303(c), 901(b)(104), substituted “children with disabilities” for “handicapped children” and inserted at end “Such institutes shall disseminate this information in the manner prescribed in section 1409(g) of this title.”
 
-Subsec. (d). Pub. L. 101 476, §§303(d), 901(b)(105), substituted “children with disabilities” for “handicapped children” in two places and inserted before period at end “, including programs to integrate children with disabilities into regular preschool programs”.
+Subsec. (d). Pub. L. 101–476, §§303(d), 901(b)(105), substituted “children with disabilities” for “handicapped children” in two places and inserted before period at end “, including programs to integrate children with disabilities into regular preschool programs”.
 
-Subsec. (f). Pub. L. 101 476, §§303(e), 901(b)(106), substituted “children with disabilities” for “handicapped children” and inserted before period at end “, including infants and toddlers with disabilities”.
+Subsec. (f). Pub. L. 101–476, §§303(e), 901(b)(106), substituted “children with disabilities” for “handicapped children” and inserted before period at end “, including infants and toddlers with disabilities”.
 
-Subsec. (g). Pub. L. 101 476, §303(f), added subsec. (g).
+Subsec. (g). Pub. L. 101–476, §303(f), added subsec. (g).
 
-1988—Subsec. (a). Pub. L. 100 630, §103(d)(1), substituted “designed to—” for “designed to” in introductory provisions, added subpars. (A) to (E), and struck out former cls. (1) to (5) which read as follows: “(1) facilitate the intellectual, emotional, physical, mental, social, speech, language development, and self-help skills of such children, (2) encourage the participation of the parents of such children in the development and operation of any such program, and (3) acquaint the community to be served by any such program with the problems and potentialities of such children, (4) offer training about exemplary models and practices to State and local personnel who provide services to handicapped children from birth through eight, and (5) support the adaption of exemplary models and practices in States and local communities.”
+1988—Subsec. (a). Pub. L. 100–630, §103(d)(1), substituted “designed to—” for “designed to” in introductory provisions, added subpars. (A) to (E), and struck out former cls. (1) to (5) which read as follows: “(1) facilitate the intellectual, emotional, physical, mental, social, speech, language development, and self-help skills of such children, (2) encourage the participation of the parents of such children in the development and operation of any such program, and (3) acquaint the community to be served by any such program with the problems and potentialities of such children, (4) offer training about exemplary models and practices to State and local personnel who provide services to handicapped children from birth through eight, and (5) support the adaption of exemplary models and practices in States and local communities.”
 
-Subsec. (d). Pub. L. 100 630, §103(d)(2), inserted “or” before “enter”.
+Subsec. (d). Pub. L. 100–630, §103(d)(2), inserted “or” before “enter”.
 
-Subsec. (e). Pub. L. 100 630, §103(d)(3), substituted “applications” for “application”.
+Subsec. (e). Pub. L. 100–630, §103(d)(3), substituted “applications” for “application”.
 
-1986—Pub. L. 99 457 amended section generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (c).
+1986—Pub. L. 99–457 amended section generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (c).
 
-1983—Pub. L. 98 199, §10, amended section generally. Prior to amendment, section read as follows:
+1983—Pub. L. 98–199, §10, amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary is authorized to arrange by contract, grant, or otherwise with appropriate public agencies and private nonprofit organizations, for the development and carrying out by such agencies and organizations of experimental preschool and early education programs for handicapped children which the Secretary determines show promise of promoting a comprehensive and strengthened approach to the special problems of such children. Such programs shall be distributed to the greatest extent possible throughout the Nation, and shall be carried out both in urban and in rural areas. Such programs shall include activities and services designed to (1) facilitate the intellectual, emotional, physical, mental, social, and language development of such children; (2) encourage the participation of the parents of such children in the development and operation of any such program; and (3) acquaint the community to be served by any such program with the problems and potentialities of such children.
 
@@ -140,15 +140,15 @@ Subsec. (e). Pub. L. 100 630, §103(d)(3), substituted “applications” for �
 
 “(c) No arrangement pursuant to this section shall provide for the payment of more than 90 per centum of the cost of developing, carrying out, or evaluating such a program. Non-Federal contributions may be in cash or in kind, fairly evaluated, including, but not limited to, plant, equipment, and services.”
 
-Subsec. (a). Pub. L. 98 199, §3(b), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (a). Pub. L. 98–199, §3(b), substituted “Secretary” for “Commissioner” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98 199 effective Dec. 2, 1983, with an exception for previously obligated funds and certain interim provisions for financial assistance, see section 18 of Pub. L. 98 199 set out as a note under section 1401 of this title.
+Amendment by Pub. L. 98–199 effective Dec. 2, 1983, with an exception for previously obligated funds and certain interim provisions for financial assistance, see section 18 of Pub. L. 98–199 set out as a note under section 1401 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,9 +16,9 @@
 
 &emsp;(7) the reduction or elimination of discharges during ballasting, deballasting, tank cleaning, cargo handling, or other such activity.
 
-(b) In prescribing regulations under subsection (a) of this section, the Secretary shall considerthe types and grades of cargo permitted to be on board a tank vessel.
+(b) In prescribing regulations under subsection (a) of this section, the Secretary shall consider the types and grades of cargo permitted to be on board a tank vessel.
 
-(c) In prescribing regulations under subsection (a) of this section, the Secretary shall establish procedures for consulting with, and receiving and considering the views of—
+(c) In prescribing regulations under subsection (a) of this section, the Secretary shall establishprocedures for consulting with, and receiving and considering the views of—
 
 &emsp;(1) interested departments, agencies, and instrumentalities of the United States Government;
 
@@ -102,11 +102,11 @@ Pub. L. 101–380, title IV, §4116(c), (d), Aug. 18, 1990, 104 Stat. 523, provi
 
 “(c)
 
-Escorts for Certain Tankers.—Not later than 6 months after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, HaroStrait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
+Escorts for Certain Tankers.—Not later than 6 months after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
 
 “(d)
 
-Tanker Defined.—In this section \[amending section 8502 of this title\] the term ‘tanker’ has the same meaning the term has in section 2101 of title 46, United States Code.”
+Tanker Defined.—In this section \[amending section 8502 of this title\] the term ‘tanker’ has the samemeaning the term has in section 2101 of title 46, United States Code.”
 
 #### Section Referred to in Other Sections
 

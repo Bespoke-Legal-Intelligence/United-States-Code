@@ -1,4 +1,4 @@
-### §3962 . Higher grade for service in special positions
+### §3962. Higher grade for service in special positions
 
 (a) Upon retirement, a commissioned officer of the Army who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 96–513, §502(19)(C), redesignated subsec. (c) as (b).
 
 1965—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Army to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
-1958—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c) which related to retirement of commissioned officerswho served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
+1958—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c) which related to retirement of commissioned officers who served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
 
 #### Effective Date of 1980 Amendment
 
@@ -110,7 +110,7 @@ Section 13(c) of Pub. L. 96–343 provided that:
 
 #### Retired Grade for Certain General Officers
 
-Section 38 of act Aug. 10, 1956, provided that: “The President, by and with the advice and consent of the Senate, may in his discretion extend the privilege granted by sections 3962(a) and 8962(a) of title 10, United States Code, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after December 7, 1941, and before July 1, 1946.”
+Section 38 of act Aug. 10, 1956, provided that: “The President, by and with the advice and consent of the Senate, may in his discretion extend the privilegegranted by sections 3962(a) and 8962(a) of title 10, United States Code, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after December 7, 1941, and before July 1, 1946.”
 
 #### Cross References
 

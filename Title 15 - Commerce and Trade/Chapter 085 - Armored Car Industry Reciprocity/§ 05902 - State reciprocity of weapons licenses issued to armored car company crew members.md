@@ -12,5 +12,5 @@ A State agency meets the minimum State requirements of this subsection if in iss
 
 &emsp;(2) the receipt or possession of a weapon by the crew member would not violate Federal law, determined on the basis of a criminal record background check conducted during the current year.
 
-(Pub. L. 103 55, §3, July 28, 1993, 107 Stat. 276.)
+(Pub. L. 103–55, §3, July 28, 1993, 107 Stat. 276.)
 

@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
+<b>1978</b>—Par. (1). Pub. L. 95–454 inserted “or achieves a significant reduction in paperwork”.
 
 #### Effective Date of 1978 Amendment
 
@@ -48,7 +48,7 @@ Section 1. <i>Medal established.</i> The Medal of Freedom is hereby reestablishe
 
 Sec. 2. <i>Award of the Medal.</i> (a) The Medal may be awarded by the President as provided in this order to any person who has made an especially meritorious contribution to (1) the security or national interests of the United States, or (2) world peace, or (3) cultural or other significant public or private endeavors.
 
-(b) The President may select for the award of the Medal any person recommended to the President for award of the Medal or any person selected by the President upon his own initiative.
+(b) The President may select for the award of the Medal any person recommended to the President foraward of the Medal or any person selected by the President upon his own initiative.
 
 (c) The principal announcement of awards of the Medal shall normally be made annually, on or about July 4 of each year; but such awards may be made at other times, as the President may deem appropriate.
 
@@ -62,7 +62,7 @@ Sec. 3. <i>Distinguished Civilian Service Awards Board.</i> (a) The Distinguishe
 
 Sec. 4. <i>Functions of the Board.</i> (a) Any individual or group may make recommendations to the Board with respect to the award of the Medal, and the Board shall consider such recommendations.
 
-(b) With due regard for the provisions of Section 2 of this Order, the Board shall screen such recommendations and, on the basis of such recommendations or upon its own motion, shall from time to time submit tothe President nominations of individuals for award of the Medal, in appropriate degrees.
+(b) With due regard for the provisions of Section 2 of this Order, the Board shall screen such recommendations and, on the basis of such recommendations or upon its own motion, shall from time to time submit to the President nominations of individuals for award of the Medal, in appropriate degrees.
 
 Sec. 5. <i>Expenses.</i> Necessary administrative expenses of the Board incurred in connection with the recommendation of persons to receive the Presidential Medal of Freedom, including expenses of travel of members of the Board appointed under Section 3(a) of this Order, during the fiscal year 1963, may be paid from the appropriation provided under the heading “Special Projects” in the Executive Office Appropriation Act, 1963, 76 Stat. 315, and during subsequent fiscal years, to the extent permitted by law, from any corresponding or like appropriation made available for such fiscal years. Such payments shall be without regard to the provisions of section 3681 of the Revised Statutes and section 9 of the Act of March 4, 1909, 35 Stat. 1027 (31 U.S.C. 672 and 673) \[31 U.S.C. 1346(a) and (c)\]. Members of the Board appointed under Section 3(a) of this Order shall serve without compensation.
 

@@ -12,5 +12,5 @@ The Commissioner shall issue regular statistical reports to the President and Co
 
 The Commissioner may, whenever the Commissioner considers it appropriate, issue special reports on particular education topics.
 
-(Pub. L. 103 382, title IV, §406, Oct. 20, 1994, 108 Stat. 4033.)
+(Pub. L. 103–382, title IV, §406, Oct. 20, 1994, 108 Stat. 4033.)
 

@@ -30,11 +30,11 @@
 
 #### Amendments
 
-1984—Subsec. (b)(3). Pub. L. 98–615 inserted “, or (with the consent of the senior executive) a commissioned officer in the uniformed services serving on active duty,” and directed that “executive” be struck out which was executed by striking “executive” only where it appeared before “level in the agency”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–615 inserted “, or (with the consent of the senior executive) a commissioned officer in the uniformed services serving on active duty,” and directed that “executive” be struck out which was executed by striking “executive” only where it appeared before “level in the agency”.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Section Referred to in Other Sections
 

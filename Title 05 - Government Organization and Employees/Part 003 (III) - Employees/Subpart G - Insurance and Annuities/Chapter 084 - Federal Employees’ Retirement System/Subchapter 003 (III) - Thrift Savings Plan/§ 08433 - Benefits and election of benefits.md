@@ -54,7 +54,7 @@
 
 (5) A loan may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, titleI, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to i
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
 
 Subsec. (b)(4). Pub. L. 103–226, §9(i)(3), substituted “subsection (c)” for “subsection (e)”.
 
@@ -100,9 +100,9 @@ Subsec. (i). Pub. L. 103–226, §9(b)(2), redesignated subsec. (i) as (g).
 
 Subsec. (i)(4). Pub. L. 103–353, §5(e)(4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1992—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
 
-1990—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
+<b>1990</b>—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
 
 Subsec. (f)(3)(B). Pub. L. 101–335, §5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A modification of a date may not be made under paragraph (2) on or after such date and may not specify a date for the commencement of an annuity earlier than 1 month after the date on which the modification is submitted to the Executive Director.”
 
@@ -114,15 +114,15 @@ Subsec. (h). Pub. L. 101–335, §6(a)(2), amended subsec. (h) generally. Prior 
 
 &emsp;“(3) the employee, Member, former employee, or former Member separates from Government employment.”
 
-1988—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director.”
+<b>1988</b>—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director.”
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applyingamendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
-Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of Title 38.
+Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1992 Amendment
 

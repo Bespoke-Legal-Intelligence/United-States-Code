@@ -18,7 +18,7 @@ Nothing in this subchapter creates a cause of action or in any other way increas
 
 #### (e) Intent of Congress
 
-It is not the intent of Congress that this subchapter or rules, regulations, or orders issuedpursuant to this subchapter be interpreted as influencing, in either the plaintiff's or defendant's favor, the disposition of any civil action for damages relating to asbestos. This subsection does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State law with respect to the admission into evidence or any other use of this subchapter or rules, regulations, or orders issued pursuant to this subchapter.
+It is not the intent of Congress that this subchapter or rules, regulations, or orders issued pursuant to this subchapter be interpreted as influencing, in either the plaintiff's or defendant's favor, the disposition of any civil action for damages relating to asbestos. This subsection does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State law with respect to the admission into evidence or any other use of this subchapter or rules, regulations, or orders issued pursuant to this subchapter.
 
-(Pub. L. 94 469, title II, §209, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2986.)
+(Pub. L. 94–469, title II, §209, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2986.)
 

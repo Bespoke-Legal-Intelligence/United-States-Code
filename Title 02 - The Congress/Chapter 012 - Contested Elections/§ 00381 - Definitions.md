@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-(a) The term “election” means an official general or special election to choose a Representative in or Resident Commissioner to the Congress of the United States, but does not includea primary election, or a caucus or convention of a political party.
+(a) The term “election” means an official general or special election to choose a Representative in or Resident Commissioner to the Congress of the United States, but does not include a primary election, or a caucus or convention of a political party.
 
 (b) The term “candidate” means an individual (1) whose name is printed on the official ballot for election to the House of Representatives of the United States, or (2) notwithstanding his name is not printed on such ballot, who seeks election to the House of Representatives by write-in votes, provided that he is qualified for such office and that, under the law of the State in which the congressional district is located, write-in voting for such office is permitted and he is eligible to receive write-in votes in such election.
 
@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Effective Date
 

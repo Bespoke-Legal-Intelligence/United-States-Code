@@ -14,7 +14,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term “change of permanent station” means the transfer or assignment of a member of the armed forces from a permanent station inside the continental United States to a permanent station outside the continental United States or from a permanent station outside the continental United States to another permanent station. It also includes an authorized change in home port of a vessel, or a transferor assignment between two permanent stations in the continental United States when the member cannot, because of injury or the conditions of the order, drive the motor vehicle between the permanent duty stations.
+&emsp;(1) The term “change of permanent station” means the transfer or assignment of a member of the armed forces from a permanent station inside the continental United States to a permanent station outside the continental United States or from a permanent station outside the continental United States to another permanent station. It also includes an authorized change in home port of a vessel, or a transfer or assignment between two permanent stations in the continental United States when the member cannot, because of injury or the conditions of the order, drive the motor vehicle between the permanent duty stations.
 
 &emsp;(2) The term “continental United States” does not include Alaska.
 
@@ -76,7 +76,7 @@ Section 3 of Pub. L. 89–101 provided that: “This Act \[amending this section
 
 #### Public Health Service
 
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretaryof Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

@@ -1,4 +1,4 @@
-### §2013 . General corporate powers
+### §2013. General corporate powers
 
 Each Farm Credit Bank shall be a body corporate and, subject to regulation by the Farm Credit Administration, shall have power to—
 

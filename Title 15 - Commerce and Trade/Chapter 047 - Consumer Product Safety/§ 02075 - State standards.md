@@ -10,7 +10,7 @@ Subsection (a) of this section does not prevent the Federal Government or the go
 
 #### (c) Exemptions
 
-Upon application of a State or political subdivision of a State, the Commission may byrule, after notice and opportunity for oral presentation of views, exempt from the provisions of subsection (a) of this section (under such conditions as it may impose in the rule) any proposed safety standard or regulation which is described in such application and which is designed to protect against a risk of injury associated with a consumer product subject to a consumer product safety standard under this chapter if the State or political subdivision standard or regulation—
+Upon application of a State or political subdivision of a State, the Commission may by rule, after notice and opportunity for oral presentation of views, exempt from the provisions of subsection (a) of this section (under such conditions as it may impose in the rule) any proposed safety standard or regulation which is described in such application and which is designed to protect against a risk of injury associated with a consumer product subject to a consumer product safety standard under this chapter if the State or political subdivision standard or regulation—
 
 &emsp;(1) provides a significantly higher degree of protection from such risk of injury than the consumer product safety standard under this chapter, and
 
@@ -18,11 +18,11 @@ Upon application of a State or political subdivision of a State, the Commission 
 
 > In determining the burden, if any, of a State or political subdivision standard or regulation on interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this chapter for such consumer product.
 
-(Pub. L. 92 573, §26, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94 284, §17(d), May 11, 1976, 90 Stat. 514.)
+(Pub. L. 92–573, §26, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–284, §17(d), May 11, 1976, 90 Stat. 514.)
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94 284 substituted provision that a standard provide a significantly higher degree of protection from the risk of injury for the provision that the standard impose a higher level of performance.
+1976—Subsec. (b). Pub. L. 94–284 substituted provision that a standard provide a significantly higher degree of protection from the risk of injury for the provision that the standard impose a higher level of performance.
 
-Subsec. (c). Pub. L. 94 284 substituted requirement that a State standard provide a significantly higher degree of protection from the risk of injury than the standard under this chapter for the requirement that the State standard impose a higher level of performance, eliminated the requirement of a compelling local condition, and inserted the requirement that the Commission make specific findings in determining the burden on interstate commerce.
+Subsec. (c). Pub. L. 94–284 substituted requirement that a State standard provide a significantly higher degree of protection from the risk of injury than the standard under this chapter for the requirement that the State standard impose a higher level of performance, eliminated the requirement of a compelling local condition, and inserted the requirement that the Commission make specific findings in determining the burden on interstate commerce.
 

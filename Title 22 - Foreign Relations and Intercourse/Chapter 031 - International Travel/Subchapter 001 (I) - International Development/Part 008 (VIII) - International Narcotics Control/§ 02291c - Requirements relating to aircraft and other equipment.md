@@ -28,7 +28,7 @@
 
 #### (b) Permissible uses of aircraft and other equipment
 
-The President shall take all reasonable steps to ensure that aircraft and other equipmentmade available to foreign countries under this part are used only in ways that are consistent with the purposes for which such equipment was made available.
+The President shall take all reasonable steps to ensure that aircraft and other equipment made available to foreign countries under this part are used only in ways that are consistent with the purposes for which such equipment was made available.
 
 #### (c) Reports
 
@@ -62,7 +62,7 @@ Pub. L. 101–623, §13, Nov. 21, 1990, 104 Stat. 3356, provided that:
 
 “(a)
 
-Instruction Program.—Not less than 90 days after the date of enactment of this Act \[Nov. 21, 1990\], the President shall implement, under chapter 8 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2291 and following; relating to international narcotics control assistance), a detailed program of instruction to train host country pilots, and other flight crew members, to fly host country aircraft involved in counternarcotics efforts in Andean countries. Such program shall be designed to eliminate direct participation of the United States Government (including participation through the use of either direct hire or contract personnel) in the operation of such aircraft.
+Instruction Program.—Not less than 90 days after the date of enactment of this Act \[Nov. 21, 1990\], the President shall implement, under chapter 8 of partI of the Foreign Assistance Act of 1961 (22 U.S.C. 2291 and following; relating to international narcotics control assistance), a detailed program of instruction to train host country pilots, and other flight crew members, to fly host country aircraft involved in counternarcotics efforts in Andean countries. Such program shall be designed to eliminate direct participation of the United States Government (including participation through the use of either direct hire or contract personnel) in the operation of such aircraft.
 
 “(b)
 

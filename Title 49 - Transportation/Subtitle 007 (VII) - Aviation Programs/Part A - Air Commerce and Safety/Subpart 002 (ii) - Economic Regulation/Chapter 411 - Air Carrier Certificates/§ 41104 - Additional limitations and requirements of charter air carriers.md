@@ -6,7 +6,7 @@ Restrictions.—The Secretary of Transportation may prescribe a regulation or is
 
 (b)
 
-Alaska.—An air carrier holding a certificate issued under section 41102 of this title may provide charter air transportation between places in Alaska only to the extent the Secretary decides the transportation is required by public convenience and necessity. The Secretary may make that decision when issuing, amending, or modifying the certificate. This subsection does not apply to a certificate issued under section 41102 to a citizen of the United States who, before July 1, 1977—
+Alaska.—An air carrier holding a certificate issued under section 41102 of this title may provide charter air transportation between places in Alaska only to the extent the Secretary decides the transportation is required by public convenience and necessity. The Secretary may make that decision when issuing, amending, or modifying the certificate. This subsection does not apply to a certificate issuedunder section 41102 to a citizen of the United States who, before July 1, 1977—
 
 &emsp;(1) maintained a principal place of business in Alaska; and
 

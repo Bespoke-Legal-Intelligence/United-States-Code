@@ -12,8 +12,6 @@
 
 This chapter is referred to in title 40 sections 474, 490.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
 
 ---
 

@@ -1,4 +1,4 @@
-### §460p–1 . Designation of area; acreage limitation; boundaries; publication in Federal Register
+### §460p–1. Designation of area; acreage limitation; boundaries; publication in Federal Register
 
 The Secretary of Agriculture (hereinafter called the “Secretary”) shall—
 

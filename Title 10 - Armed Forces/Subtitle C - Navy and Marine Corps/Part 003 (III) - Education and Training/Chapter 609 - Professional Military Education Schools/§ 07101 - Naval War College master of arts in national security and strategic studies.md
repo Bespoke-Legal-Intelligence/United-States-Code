@@ -1,4 +1,4 @@
-### §7101 . Naval War College: master of arts in national security and strategic studies
+### §7101. Naval War College: master of arts in national security and strategic studies
 
 (a)
 

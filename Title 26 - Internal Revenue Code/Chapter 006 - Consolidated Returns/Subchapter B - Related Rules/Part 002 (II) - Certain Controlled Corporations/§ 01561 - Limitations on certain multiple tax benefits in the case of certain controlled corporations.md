@@ -12,7 +12,7 @@ The component members of a controlled group of corporations on a December 31 sha
 
 &emsp;(4) one $2,000,000 amount for purposes of computing the tax imposed by section 59A.
 
-> The amounts specified in paragraph (1), the amount specified in paragraph (3), and the amount specified in paragraph (4) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last sentence of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last sentence shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
+> The amounts specified in paragraph (1), the amount specified in paragraph (3), and the amount specified in paragraph (4) shall be divided equally among the component members of such group on such December 31 unless all ofsuch component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last sentence of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last sentence shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
 
 #### (b) Certain short taxable years
 
@@ -66,7 +66,7 @@ Subsec. (a)(2). Pub. L. 94–12, §304(b), substituted “$150,000” for “$10
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions ofthe Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1986 Amendment
 

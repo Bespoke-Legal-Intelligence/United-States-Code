@@ -76,7 +76,7 @@
 
 (5) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-(6)(A) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degreeof diminished credit and capital opportunities the Administration shall consider, but not be limited to, the assets and net worth of such socially disadvantaged individual. In determining the economic disadvantage of an Indian tribe, the Administration shall consider, where available, information such as the following: the per capita income of members of the tribe excluding judgment awards, the percentage of the local Indian population below the poverty level, and the tribe's access to capital markets.
+(6)(A) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities the Administration shall consider, but not be limited to, the assets and net worth of such socially disadvantaged individual. In determining the economic disadvantage of an Indian tribe, the Administration shall consider, where available, information such as the following: the per capita income of members of the tribe excluding judgment awards, the percentage of the local Indian population below the poverty level, and the tribe's access to capital markets.
 
 (B) Each Program Participant shall annually submit to the Administration—
 
@@ -122,7 +122,7 @@
 
 &emsp;(iv) the denial of a request to issue a waiver pursuant to paragraph (21)(B).
 
-(C) The Administration's proposed action, in any proceeding conducted under the authority of this paragraph, shall be sustained unless it isfound to be arbitrary, capricious, or contrary to law.
+(C) The Administration's proposed action, in any proceeding conducted under the authority of this paragraph, shall be sustained unless it is found to be arbitrary, capricious, or contrary to law.
 
 (D) A decision rendered pursuant to this paragraph shall be the final decision of the Administration and shall be binding upon the Administration and those within its employ.
 
@@ -176,7 +176,7 @@
 
 &emsp;(i) in the case of a contract for services (except construction), at least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the concern; and
 
-&emsp;(ii) in the case of a contract for procurement of supplies (other than procurement from aregular dealer in such supplies), the concern will perform work for at least 50 percent of the cost of manufacturing the supplies (not including the cost of materials).
+&emsp;(ii) in the case of a contract for procurement of supplies (other than procurement from a regular dealer in such supplies), the concern will perform work for at least 50 percent of the cost of manufacturing the supplies (not including the cost of materials).
 
 (B) The Administrator may change the percentage under clause (i) or (ii) of subparagraph (A) if the Administrator determines that such change is necessary to reflect conventional industry practices among business concerns that are below the numerical size standard for businesses in that industry category. A percentage established under the preceding sentence may not differ from a percentage established under section 644(<i>o</i>) of this title.
 
@@ -208,7 +208,7 @@
 
 &emsp;(ii) be a small business concern under the numerical size standard for the Standard Industrial Classification Code assigned to the contract solicitation on which the offer is being made;
 
-&emsp;(iii) be a regular dealer, as defined pursuant to section 35(a) of title 41 (popularly referred to as the Walsh-Healey Public Contracts Act), in the product to be offered the Government or be specifically exempted from such section by section 636(j)(13)(C) of this title; and
+&emsp;(iii) be a regular dealer, as defined pursuant to section 35(a) <sup>1</sup> of title 41 (popularly referred to as the Walsh-Healey Public Contracts Act), in the product to be offered the Government or be specifically exempted from such section by section 636(j)(13)(C) of this title; and
 
 &emsp;(iv) represent that it will supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
 
@@ -244,7 +244,7 @@
 
 (iv) In addition to any other remedy or sanction provided for under law or regulation, any person who falsely certifies pursuant to clause (i) shall be subject to a civil penalty under the Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812).
 
-(19)(A) Any employee of the Administration who has authority to take, direct others to take, recommend, or approve any action with respect to any program or activity conducted pursuant to this subsection or section 636(j) of this title, shall not, with respect to any such action, exercise or threaten to exercise such authority on the basis of the political activity or affiliation of any party. Employees of the Administration shall expeditiously report to the Inspector General of the Administration any such action for which such employee's participation has been solicitated <sup>1</sup> or directed.
+(19)(A) Any employee of the Administration who has authority to take, direct others to take, recommend, or approve any action with respect to any program or activity conducted pursuant to this subsection or section 636(j) of this title, shall not, with respect to any such action, exercise or threaten to exercise such authority on the basis of the political activity or affiliation of any party. Employees of the Administration shall expeditiously report to the Inspector General of the Administration any such action for which such employee's participation has been solicitated <sup>2</sup> or directed.
 
 (B) Any employee who willfully and knowingly violates subparagraph (A) shall be subject to disciplinary action which may consist of separation from service, reduction in grade, suspension, or reprimand.
 
@@ -290,13 +290,13 @@
 
 (D) Concerns performing contracts awarded pursuant to this subsection shall be required to notify the Administration immediately upon entering an agreement (either oral or in writing) to transfer all or part of its stock or other ownership interest to any other party.
 
-(E) Notwithstanding any other provision of law, for the purposes of determining ownershipand control of a concern under this section, any potential ownership interests held by investment companies licensed under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] shall be treated in the same manner as interests held by the individuals upon whom eligibility is based.
+(E) Notwithstanding any other provision of law, for the purposes of determining ownership and control of a concern under this section, any potential ownership interests held by investment companies licensed under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] shall be treated in the same manner as interests held by the individuals upon whom eligibility is based.
 
 #### (b) Procurement and property disposal powers; determination of small-business concerns
 
 It shall also be the duty of the Administration and it is empowered, whenever it determines such action is necessary—
 
-&emsp;(1)(A) to provide technical and managerial aids to small-business concerns, by advising and counseling on matters in connection with Government procurement and property disposal and on policies, principles, and practices of good management, including but not limited to cost accounting, methods of financing, business insurance, accident control, wage incentives, computer security, and methods engineering, by cooperating and advising with voluntary business, professional, educational, and other nonprofit organizations, associations, and institutions and with other Federal and State agencies, by maintaining a clearinghouse for information concerning the managing, financing, and operation of small-business enterprises, including information on the benefits and risks of franchising, by disseminating such information, and by such other activities as are deemed appropriate by the Administration; and <sup>2</sup> In the case of cosponsored activities which include the participation of a Federal, State, or local public official or agency, the Administration shall take such actions as it deems necessary to ensure that the cooperation does not constitute or imply an endorsement by the Administration of or give undue recognition to the public official or agency, and the Administration shall ensure that it receives appropriate recognition in all cosponsored printed materials, whether the participant is a profit making concern or a governmental agency or public official.
+&emsp;(1)(A) to provide technical and managerial aids to small-business concerns, by advising and counseling on matters in connection with Government procurement and property disposal and on policies, principles, and practices of good management, including but not limited to cost accounting, methods of financing, business insurance, accident control, wage incentives, computer security, and methods engineering, by cooperating and advising with voluntary business, professional, educational, and other nonprofit organizations, associations, and institutions and with other Federal and State agencies, by maintaining a clearinghouse for information concerning the managing, financing, and operation of small-business enterprises, including information on the benefits and risks of franchising, by disseminating such information, and by such other activities as are deemed appropriate by the Administration; and <sup>3</sup> In the case of cosponsored activities which include the participation of a Federal, State, or local public official or agency, the Administration shall take such actions as it deems necessary to ensure that the cooperation does not constitute or imply an endorsement by the Administration of or give undue recognition to the public official or agency, and the Administration shall ensure that it receives appropriate recognition in all cosponsored printed materials, whether the participant is a profit making concern or a governmental agency or public official.
 
 &emsp;(B) To establish, conduct, and publicize, and to recruit, select, and train volunteers for (and to enter into contracts, grants, or cooperative agreements therefor), volunteer programs, including a Service Corps of Retired Executives (SCORE) and an Active Corps of Executive (ACE) for the purposes of subparagraph (A); and to facilitate the implementation of such volunteer programs the Administration may maintain at its headquarters and pay the expenses of a team of volunteers subject to such conditions and limitations as the Administration deems appropriate: <i>Provided</i>, That any such payments made pursuant to this subparagraph shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
@@ -328,7 +328,7 @@ It shall also be the duty of the Administration and it is empowered, whenever it
 
 &emsp;(7)(A) To certify to Government procurement officers, and officers engaged in the sale and disposal of Federal property, with respect to all elements of responsibility, including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, and tenacity, of any small business concern or group of such concerns to receive and perform a specific Government contract. A Government procurement officer or an officer engaged in the sale and disposal of Federal property may not, for any reason specified in the preceding sentence preclude any small business concern or group of such concerns from being awarded such contract without referring the matter for a final disposition to the Administration.
 
-&emsp;(B) If a Government procurement officer finds that an otherwise qualified small business concern may be ineligible due to the provisions of section 35(a) of title 41, he shall notify the Administration in writing of such finding. The Administration shall review such finding and shall either dismiss it and certify the small business concern to be an eligible Government contractor for a specific Government contract or if it concurs in the finding, forward the matter to the Secretary of Labor for final disposition, in which case the Administration may certify the small business concern only if the Secretary of Labor finds the small business concern not to be in violation.
+&emsp;(B) If a Government procurement officer finds that an otherwise qualified small business concern may be ineligible due to the provisions of section 35(a) <sup>4</sup> of title 41, he shall notify the Administration in writing of such finding. The Administration shall review such finding and shall either dismiss it and certify the small business concern to be an eligible Government contractor for a specific Government contract or if it concurs in the finding, forward the matter to the Secretary of Labor for final disposition, in which case the Administration may certify the small business concern only if the Secretary of Labor finds the small business concern not to be in violation.
 
 &emsp;(C) In any case in which a small business concern or group of such concerns has been certified by the Administration pursuant to (A) or (B) to be a responsible or eligible Government contractor as to a specific Government contract, the officers of the Government having procurement or property disposal powers are directed to accept such certification as conclusive, and shall let such Government contract to such concern or group of concerns without requiring it to meet any other requirement of responsibility or eligibility. Notwithstanding the first sentence of this subparagraph, the Administration may not establish an exemption from referral or notification or refuse to accept a referral or notification from a Government procurement officer made pursuant to subparagraph (A) or (B) of this paragraph, but nothing in this paragraph shall require the processing of an application for certification if the small business concern to which the referral pertains declines to have the application processed.
 
@@ -338,7 +338,7 @@ It shall also be the duty of the Administration and it is empowered, whenever it
 
 &emsp;(10) to obtain from suppliers of materials information pertaining to the method of filling orders and the bases for allocating their supply, whenever it appears that any small business is unable to obtain materials from its normal sources;
 
-&emsp;(11) to make studies and recommendations to the appropriate Federal agencies to insure that a fair proportion of the total purchases and contracts for property and services for the Government be placed with small-business enterprises, to insure that a fair proportion of Government contracts for research and development be placed with small-business concerns, to insure that a fair proportion of thetotal sales of Government property be made to small-business concerns, and to insure a fair and equitable share of materials, supplies, and equipment to small-business concerns;
+&emsp;(11) to make studies and recommendations to the appropriate Federal agencies to insure that a fair proportion of the total purchases and contracts for property and services for the Government be placed with small-business enterprises, to insure that a fair proportion of Government contracts for research and development be placed with small-business concerns, to insure that a fair proportion of the total sales of Government property be made to small-business concerns, and to insure a fair and equitable share of materials, supplies, and equipment to small-business concerns;
 
 &emsp;(12) to consult and cooperate with all Government agencies for the purpose of insuring that small-business concerns shall receive fair and reasonable treatment from such agencies;
 
@@ -354,7 +354,7 @@ It shall also be the duty of the Administration and it is empowered, whenever it
 
 #### (d) Performance of contracts by small business concerns; inclusion of required contract clause; subcontracting plans; contract eligibility; incentives; breach of contract; review; report to Congress
 
-(1) It is the policy of the United States that small business concerns,,<sup>3</sup> small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall have the maximum practicable opportunity to participate in the performance of contracts let by any Federal agency, including contracts and subcontracts for subsystems, assemblies, components, and related services for major systems. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+(1) It is the policy of the United States that small business concerns,,<sup>5</sup> small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall have the maximum practicable opportunity to participate in the performance of contracts let by any Federal agency, includingcontracts and subcontracts for subsystems, assemblies, components, and related services for major systems. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
 
 (2) The clause stated in paragraph (3) shall be included in all contracts let by any Federal agency except any contract which—
 
@@ -518,7 +518,7 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (e
 
 &emsp;(4) a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) which shall be considered by the agency;
 
-&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; <sup>4</sup>
+&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; <sup>6</sup>
 
 &emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold—
 
@@ -588,11 +588,13 @@ For purposes of this section, the term “executive agency” has the meaning pr
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsecs. (a)(2)(C), (21)(D), and (b)(13), is Pub. L.85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. Title IV of the Small Business Investment Act of 1958 is classified generally to subchapter IV–A (§692 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsecs. (a)(2)(C), (21)(D), and (b)(13), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. Title IV of the Small Business Investment Act of 1958 is classified generally to subchapter IV–A (§692 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Walsh-Healey Public Contracts Act, referred to in subsec. (a)(17)(B)(iii), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
+Section 35(a) of title 41, referred to in subsecs. (a)(17)(B)(iii) and (b)(7)(B), was struck out and former section 35(b) of title 41 redesignated section 35(a) by Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378.
+
+The Walsh-Healey Public Contracts Act, referred to in subsec. (a)(17)(B)(iii), probably means act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, known as the Walsh-Healey Act, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
 The Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812), referred to in subsec. (a)(18)(C)(iv), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, as amended, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
 
@@ -612,7 +614,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 
-Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210, 212 and 216 of act July 30, 1953, ch. 282, title II, 67 Stat. 235–239, as amended by acts Aug. 9, 1955, ch. 628, §§2, 5, 7, 69 Stat. 547, 550; Feb. 2, 1956, ch. 29, §§2, 3, 70 Stat. 10, which were previously classified to this section and sections 636, 639, 641, and 645 of this title. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210, 212 and 216 of act July 30, 1953, ch. 282, title II, 67 Stat. 235–239, as amended by acts Aug. 9, 1955, ch. 628, §§2, 5, 7, 69 Stat. 547, 550; Feb. 2,1956, ch. 29, §§2, 3, 70 Stat. 10, which were previously classified to this section and sections 636, 639, 641, and 645 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
 
@@ -646,7 +648,7 @@ Subsec. (e)(3)(B). Pub. L. 103–355, §4202(d)(1)(B), inserted “in the case o
 
 Subsec. (f)(6). Pub. L. 103–355, §4202(d)(2), added par. (6).
 
-Subsec. (g)(1)(A) to (E). Pub. L. 103–355, §4202(d)(3)(A), (B), added subpars. (A) and (B) and redesignated formersubpars. (A) to (C) as (C) to (E), respectively. Former subpars. (D) and (E) redesignated (F) and (G), respectively.
+Subsec. (g)(1)(A) to (E). Pub. L. 103–355, §4202(d)(3)(A), (B), added subpars. (A) and (B) and redesignated former subpars. (A) to (C) as (C) to (E), respectively. Former subpars. (D) and (E) redesignated (F) and (G), respectively.
 
 Subsec. (g)(1)(F). Pub. L. 103–355, §4202(d)(3)(A), redesignated subpar. (D) as (F). Former subpar. (F) redesignated (H).
 
@@ -680,7 +682,7 @@ Subsecs. (e) to (j). Pub. L. 102–191, which directed the redesignation of subs
 
 1990—Subsec. (a)(1). Pub. L. 101–574, §207(2), struck out after subpar. (C) “No contract may be entered into under subparagraph (B) after September 30, 1988.”
 
-Subsec. (a)(1)(B). Pub. L. 101–574, §207(1), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “to enter into contracts with such agency as shall be designated by the President, to furnish articles, equipment, supplies, services, or materials, or to perform construction work for such agency. In any case in which the Administration certifies to any officer of such agency having procurement powers that the Administration is competent and responsible to perform any specific procurement contract to be let by any such officer, such officer shall let such procurement contract to the Administration upon such terms and conditions as may be agreed upon between the Administration and the procurement officer. If the Administration and such procurement officer fail to agree on such terms and conditions, either the Administration or such officer shall promptly notify, in writing, the head of such agency. The head of such agency shall have five days (exclusive of Saturdays, Sundays, and legal holidays) to establish the terms and conditions upon which such procurement contract may be let to the Administration, and shall communicate in writing to the Administration the terms and conditions so established. Within five days (exclusive of Saturdays, Sundays, and legal holidays) after the receipt of such written communication, the Administration shall decide whether to perform such procurement contract or withdraw its prior certification that the Administration is competent and responsible to perform such contract; and”.
+Subsec. (a)(1)(B). Pub. L. 101–574, §207(1), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “to enter into contracts with such agency as shall be designated by the President, to furnish articles, equipment, supplies, services, or materials, or to perform construction work for such agency. In any case in which the Administration certifies toany officer of such agency having procurement powers that the Administration is competent and responsible to perform any specific procurement contract to be let by any such officer, such officer shall let such procurement contract to the Administration upon such terms and conditions as may be agreed upon between the Administration and the procurement officer. If the Administration and such procurement officer fail to agree on such terms and conditions, either the Administration or such officer shall promptly notify, in writing, the head of such agency. The head of such agency shall have five days (exclusive of Saturdays, Sundays, and legal holidays) to establish the terms and conditions upon which such procurement contract may be let to the Administration, and shall communicate in writing to the Administration the terms and conditions so established. Within five days (exclusive of Saturdays, Sundays, and legal holidays) after the receipt of such written communication, the Administration shall decide whether to perform such procurement contract or withdraw its prior certification that the Administration is competent and responsible to perform such contract; and”.
 
 Subsec. (a)(1)(C). Pub. L. 101–574, §207(4), added subpar. (C). Former subpar. (C) redesignated (B).
 
@@ -718,7 +720,7 @@ Subsec. (a)(20)(A). Pub. L. 101–37, §14, substituted “Business Opportunity 
 
 Subsec. (a)(21). Pub. L. 101–37, §16, in subpar. (B) struck out discretionary authority of the Administrator and preconditions respecting request prior to relinquishment of ownership or control in introductory provisions, added subpar. (C), and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-Subsec. (b)(1)(A). Pub. L. 101–162 amended last sentence generally, substituting “the Administration shallensure that it receives appropriate recognition in all cosponsored printed materials, whether the participant is a profit making concern or a governmental agency or public official” for “that the Administration is given primary recognition in all cosponsored printed materials, whether the participant is a profit-making concern or a governmental agency or official”.
+Subsec. (b)(1)(A). Pub. L. 101–162 amended last sentence generally, substituting “the Administration shall ensure that it receives appropriate recognition in all cosponsored printed materials, whether the participant is a profit making concern or a governmental agency or public official” for “that the Administration is given primary recognition in all cosponsored printed materials, whether the participant is a profit-making concern or a governmental agency or official”.
 
 1988—Subsec. (a)(1)(A). Pub. L. 100–656, §303(d), inserted provisions authorizing Administration appeal from procurement officer's adverse decisions and providing for decision by the Secretary or agency head on the appeal.
 
@@ -754,7 +756,7 @@ Subsec. (a)(20). Pub. L. 100–656, §404, added par. (20).
 
 Subsec. (a)(21). Pub. L. 100–656, §407, added par. (21).
 
-Subsec. (b)(1)(A). Pub. L. 100–590, §131(b), inserted “that any Administration program participating in such cosponsored activities receives appropriate recognition and publicity, and” in provisions preceding cl. (i), inserted “, executed on behalf of the agency by an employee of the agency in Washington, District of Columbia, and who shall also approve, in advance, any printed materials to be distributed at the conference,” in cl. (1), and inserted provisions at end which authorized Administration, in case of cosponsored activities, to ensure that cooperation does not constitute endorsement or give undue recognition to public official or agency, and that Administration is given primary recognition in all cosponsored printed materials.
+Subsec. (b)(1)(A). Pub. L. 100–590, §131(b), inserted “that any Administration program participating insuch cosponsored activities receives appropriate recognition and publicity, and” in provisions preceding cl. (i), inserted “, executed on behalf of the agency by an employee of the agency in Washington, District of Columbia, and who shall also approve, in advance, any printed materials to be distributed at the conference,” in cl. (1), and inserted provisions at end which authorized Administration, in case of cosponsored activities, to ensure that cooperation does not constitute endorsement or give undue recognition to public official or agency, and that Administration is given primary recognition in all cosponsored printed materials.
 
 Subsec. (b)(16). Pub. L. 100–533, §202, and Pub. L. 100–590, §127(b), made identical amendments adding par. (16).
 
@@ -940,7 +942,7 @@ Section 203 of Pub. L. 101–574 provided that:
 
 “(a)
 
-In General.—The Small Business Administration may prescribe a minimum period of time during which a prospective Program Participant must be in operation in order to meet the eligibility requirements of section 8(a)(7)(A) of the Small Business Act (15 U.S.C. 637(a)(7)(A)), only if the Administration provides a waiver of such minimum period as set forth in subsection (b).
+In General.—The Small Business Administration may prescribe a minimum period of time during which a prospective Program Participant must be in operation in order to meet the eligibility requirements of section 8(a)(7)(A) of the Small Business Act (15U.S.C. 637(a)(7)(A)), only if the Administration provides a waiver of such minimum period as set forth in subsection (b).
 
 “(b)
 
@@ -1132,7 +1134,7 @@ Section 118(c)(2) of Pub. L. 96–302 provided that the amendment of subsec. (d)
 
 #### Business Plans; Submittal by Concerns Eligible To Receive Contracts
 
-Concerns eligible to receive contracts pursuant to subsec. (a) of this section required to submit business plans required under section 636(j)(10)(A)(i) of this title within certain time limits, provided that no determination made under this paragraph shall be considered a denial of total participation for the purposes of subsec.\(a)(9) of this section, see section 106(b) of Pub. L. 96–481 set out as a note under section 636 of this title.
+Concerns eligible to receive contracts pursuant to subsec. (a) of this section required to submit business plans required under section 636(j)(10)(A)(i) of this title within certain time limits, provided that no determination made under this paragraph shall be considered a denial of total participation for the purposes of subsec. (a)(9) of this section, see section 106(b) of Pub. L. 96–481 set out as a note under section 636 of this title.
 
 #### Reports to Congress; General Accounting Office Report on Business Development; Quarterly Reports by Small Business Administration to Congressional Committees
 
@@ -1154,13 +1156,17 @@ Similar provisions were contained in Pub. L. 100–533, title II, §204, Oct. 25
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 631, 631b, 633, 634d, 636, 638, 639, 644, 645, 694b of this title; title 10 sections 2304, 2304a, 2319, 2323, 2323a, 2410d, 2855; title 31 section 3718; title 33 section 2302; title 41 sections 253, 253c, 417a; title 42 sections 2473b, 3608, 4370d, 9815, 13556; title 49 section 47113; title 50 App. section 2152.
+This section is referred to in sections 631, 631b, 633, 634d, 636, 638, 639, 644, 645, 694b of this title; title 10 sections 2304, 2304a, 2304b, 2304c, 2319, 2323, 2323a, 2410d, 2855; title 31 sections 3718, 6701; title 33 section 2302; title 41 sections 253, 253c, 253i, 253j, 417a, 428; title 42 sections 2473b, 3608, 4370d, 9815, 13556; title 49 section 47113; title 50 App. section 2152.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “solicited”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The “; and” probably should be a period. See 1984 Amendment note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “solicited”.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. The “; and” probably should be a period. See 1984 Amendment note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
+
+<i><sup>5</sup></i><i> So in original.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

@@ -1,4 +1,4 @@
-### §46g . Telephone, telegraph, and radiotelegraph allowances for House Members
+### §46g. Telephone, telegraph, and radiotelegraph allowances for House Members
 
 Until otherwise provided by law, there shall be paid out of the contingent fund of the House of Representatives, in accordance with regulations prescribed by the Committee on House Administration, such amounts as may be necessary to pay—
 
@@ -6,7 +6,7 @@ Until otherwise provided by law, there shall be paid out of the contingent fund 
 
 &emsp;(2) charges on strictly official telegrams, cablegrams, and radiograms,
 
-> made or sent by or on behalf of each Member of the House of Representatives (including the Resident Commissioner from Puerto Rico), other than the Speaker, the majority leader, the minority leader, the majority whip, and the minority whip, aggregating not to exceed seventythousand units for each session of the House of Representatives, except that, if a Member or Resident Commissioner is elected for a portion of a term, the aggregate number of units to which he is entitled under this section for each portion of a session served by him which is less than a full session shall be a number which is the same percentage of seventy thousand as the number of days of his service in such session less than a full session is of the total number of days of the full session. Such units (including any units less than one hundred and forty thousand to the credit of a Member or Resident Commissioner at the close of the Eighty-ninth Congress) shall accumulate and be available for use by each such Member and Resident Commissioner, from session to session and from term to term (if sessions and terms are consecutive), until the aggregate number of such units to the credit of each such Member or Resident Commissioner at the close of each session is not more than one hundred and forty thousand units; but all units in excess of one hundred and forty thousand at such time shall be forfeited and unavailable for use by such Member or Resident Commissioner. For the purposes of this section—
+> made or sent by or on behalf of each Member of the House of Representatives (including the Resident Commissioner from Puerto Rico), other than the Speaker, the majority leader, the minority leader, the majority whip, and the minority whip, aggregating not to exceed seventy thousand units for each session of the House of Representatives, except that, if a Member or Resident Commissioner is elected for a portion of a term, the aggregate number of units to which he is entitled under this section for each portion of a session served by him which is less than a full session shall be a number which is the same percentage of seventy thousand as the number of days of his service in such session less than a full session is of the total number of days of the full session. Such units (including any units less than one hundred and forty thousand to the credit of a Member or Resident Commissioner at the close of the Eighty-ninth Congress) shall accumulate and be available for use by each such Member and Resident Commissioner, from session to session and from term to term (if sessions and terms are consecutive), until the aggregate number of such units to the credit of each such Member or Resident Commissioner at the close of each session is not more than one hundred and forty thousand units; but all units in excess of one hundred and forty thousand at such time shall be forfeited and unavailable for use by such Member or Resident Commissioner. For the purposes of this section—
 
 &emsp;(A) one minute of a long-distance telephone call shall be four units,
 
@@ -42,7 +42,7 @@ Until otherwise provided by law, there shall be paid out of the contingent fund 
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Effective Date of 1965 Amendment
 

@@ -34,7 +34,7 @@
 
 (d) Lump-sum benefits authorized by subsections (e) through (g) shall be paid to the individual or individuals surviving the employee or Member and alive at the date title to the payment arises in the following order of precedence, and the payment bars recovery by any other individual:
 
-&emsp;First, to the beneficiary or beneficiaries designated by the employee or Member in asigned and witnessed writing received in the Office before the death of such employee or Member. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
+&emsp;First, to the beneficiary or beneficiaries designated by the employee or Member in a signed and witnessed writing received in the Office before the death of such employee or Member. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
 
 &emsp;Second, if there is no designated beneficiary, to the widow or widower of the employee or Member.
 

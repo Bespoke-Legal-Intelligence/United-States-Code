@@ -1,5 +1,5 @@
 
-32 U.S.C.<br>United States Code, 1994 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+32 U.S.C.<br>United States Code, 1995 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 32—NATIONAL GUARD
 
@@ -522,7 +522,7 @@ Rep.
 
 194(b)
 
-109\. Rep. in part
+109\. Rep. in part.
 
 194 (less (b))
 

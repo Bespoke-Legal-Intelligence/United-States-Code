@@ -2,11 +2,11 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 131\. | Collections composing Library; location. |
-| 132\. | Departments of Library. |
-| 132a. | Appropriations for increase of general library. |
+| [131\.](%C2%A7%2000131%20-%20Collections%20composing%20Library%3B%20location.md) | Collections composing Library; location. |
+| [132\.](%C2%A7%2000132%20-%20Departments%20of%20Library.md) | Departments of Library. |
+| [132a.](%C2%A7%2000132a%20-%20Appropriations%20for%20increase%20of%20general%20library.md) | Appropriations for increase of general library. |
 | 132a–1. | Obligations for reimbursable and revolving fund activities; limitation. |
-| 132b. | Joint Committee on the Library. |
+| [132b.](%C2%A7%2000132b%20-%20Joint%20Committee%20on%20the%20Library.md) | Joint Committee on the Library. |
 | [133\.](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md) | Joint Committee during recess of Congress. |
 | [134\.](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md) | Incidental expenses of law library. |
 | [135\.](%C2%A7%2000135%20-%20Purchase%20of%20books%20for%20law%20library.md) | Purchase of books for law library. |
@@ -145,6 +145,12 @@
 | [179i.](%C2%A7%2000179i%20-%20Definitions.md) | Definitions. |
 | [179j.](%C2%A7%2000179j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [179k.](%C2%A7%2000179k%20-%20Effective%20date.md) | Effective date. |
+| [180\.](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md) | Legislative information retrieval system. |
+| (a) | Purpose. |
+| (b) | “Legislative information” defined. |
+| (c) | Development of single system to serve entire Congress. |
+| (d) | Development and approval of plan. |
+| (e) | Availability of information to public. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -256,3 +262,4 @@
 - [&sect; 00179i - Definitions](%C2%A7%2000179i%20-%20Definitions.md)
 - [&sect; 00179j - Authorization of appropriations](%C2%A7%2000179j%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00179k - Effective date](%C2%A7%2000179k%20-%20Effective%20date.md)
+- [&sect; 00180 - Legislative information retrieval system](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md)

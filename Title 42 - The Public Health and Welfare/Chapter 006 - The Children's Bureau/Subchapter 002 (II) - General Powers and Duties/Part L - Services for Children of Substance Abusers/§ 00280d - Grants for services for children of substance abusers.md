@@ -124,7 +124,7 @@ The Federal share of a program carried out under subsection (a) of this section 
 
 #### (f) Coordination with other providers
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees to coordinate its activities with those of the State lead agency, and the State Interagency Coordinating Council, under part H of the Individuals with Disabilities Education Act \[20 U.S.C. 1471 et seq.\].
+The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees to coordinate its activities with those of the State lead agency, and the State Interagency Coordinating Council, under part H of the Individuals with Disabilities Education Act \[20 U.S.C. 1471 et seq.\].
 
 #### (g) Restrictions on use of grant
 
@@ -174,7 +174,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(6) information concerning—
 
-&emsp;&emsp;(A) the number and characteristics of families, parents, and children served, includinga description of the type and severity of childhood disabilities, and an analysis of the number of children served by age;
+&emsp;&emsp;(A) the number and characteristics of families, parents, and children served, including a description of the type and severity of childhood disabilities, and an analysis of the number of children served by age;
 
 &emsp;&emsp;(B) the number of children served who remained with their parents during the period in which entities provided services under this section;
 
@@ -262,7 +262,7 @@ The Secretary shall periodically collect and report on information concerning th
 
 For purposes of this section:
 
-&emsp;(1) The term “caretaker”, with respect to a child of a substance abuser, means any individual acting in a parental role regarding thechild (including any birth parent, foster parent, adoptive parent, relative of such a child, or other individual acting in such a role).
+&emsp;(1) The term “caretaker”, with respect to a child of a substance abuser, means any individual acting in a parental role regarding the child (including any birth parent, foster parent, adoptive parent, relative of such a child, or other individual acting in such a role).
 
 &emsp;(2) The term “children of substance abusers” means—
 
@@ -284,7 +284,7 @@ For purposes of this section:
 
 #### (2) Contingent authority regarding training of certain individuals
 
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year in excess of $25,000,000, the Secretary may make available not more than 15 percent for the training of health care professionals and other personnel (including child welfare providers) who provide services to children and families of substance abusers.
+&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year in excess of $25,000,000, the Secretary may make available not more than 15 percent for the training of health care professionals and other personnel (including child welfare providers) who provideservices to children and families of substance abusers.
 
 (July 1, 1944, ch. 373, title III, §399D, as added July 10, 1992, Pub. L. 102–321, title IV, §401(a), 106 Stat. 419.)
 
@@ -300,7 +300,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (<i>o</i>)(3), i
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

@@ -8,7 +8,7 @@
 
 (3) The Secretary of Transportation, in accordance with regulations issued by him, shall (A) deny entry to any port or place in the United States or navigable waters to, and (B) detain at the port or place in the United States from which it is about to depart for any other port or place in the United States, any vessel subject to this subsection that, upon request, does not produce certification furnished by the President that the financial responsibility provisions of paragraph (1) of this subsection have been complied with.
 
-(4) In addition to the financial responsibility provisions of paragraph (1) of this subsection, the President shall require additional evidence of financial responsibility for incineration vessels in such amounts, and to cover such liabilities recognized by law, as the President deems appropriate, taking into account the potential risks posed by incineration and transport for incineration, and any other factors deemed relevant.
+(4) In addition to the financial responsibility provisions of paragraph (1) of this subsection,the President shall require additional evidence of financial responsibility for incineration vessels in such amounts, and to cover such liabilities recognized by law, as the President deems appropriate, taking into account the potential risks posed by incineration and transport for incineration, and any other factors deemed relevant.
 
 #### (b) Establishment and maintenance by owner or operator of production, etc., facilities; amount; adjustment; consolidated form of responsibility; coverage of motor carriers
 
@@ -20,7 +20,7 @@
 
 (4) Where a facility is owned or operated by more than one person, evidence of financial responsibility covering the facility may be established and maintained by one of the owners or operators, or, in consolidated form, by or on behalf of two or more owners or operators. When evidence of financial responsibility is established in a consolidated form, the proportional share of each participant shall be shown. The evidence shall be accompanied by a statement authorizing the applicant to act for and in behalf of each participant in submitting and maintaining the evidence of financial responsibility.
 
-(5) The requirements for evidence of financial responsibility for motor carriers covered by this chapter shall be determined under section 30 of the Motor Carrier Act of 1980, Public Law 96–296.
+(5) The requirements for evidence of financial responsibility for motor carriers covered by this chapter shall be determined under section 31139 of title 49.
 
 #### (c) Direct action
 
@@ -48,9 +48,11 @@
 
 The Solid Waste Disposal Act, referred to in subsec. (b)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-Section 30 of the Motor Carrier Act of 1980, Public Law 96–296, referred to in subsec. (b)(5), is Pub. L. 96–296, §30, July 1, 1980, 94 Stat. 820, as amended, which is set out as a note under section 10927 of Title 49, Transportation.
-
 The Federal Bankruptcy Code, referred to in subsec. (c)(2), probably means a reference to Title 11, Bankruptcy.
+
+#### Codification
+
+In subsec. (b)(5), “section 31139 of title 49” substituted for “section 30 of the Motor Carrier Act of 1980, Public Law 96–296” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 
@@ -64,7 +66,7 @@ Subsec. (b)(3). Pub. L. 99–499, §108(b), substituted “as quickly as can rea
 
 Subsec. (c). Pub. L. 99–499, §108(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility as required under this section. In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconduct of the owner or operator, but such guarantor may not invoke any other defense that such guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.”
 
-Subsec. (d). Pub. L. 99–499, §108(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any guarantor acting in good faith against which claims under this chapter are asserted as a guarantor shall be liable under section 9607 of this title or section 9612(c) of this title only up to the monetary limits of the policy of insurance or indemnity contract such guarantor has undertaken or of the guaranty of other evidence of financial responsibility furnishedunder this section, and only to the extent that liability is not excluded by restrictive endorsement: <i>Provided</i>, That this subsection shall not alter the liability of any person under section 9607 of this title.”
+Subsec. (d). Pub. L. 99–499, §108(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any guarantor acting in good faith against which claims under this chapter are asserted as a guarantor shall be liable under section 9607 of this title or section 9612(c) of this title only up to the monetary limits of the policy of insurance or indemnity contract such guarantor has undertaken or of the guaranty of other evidence of financial responsibility furnished under this section, and only to the extent that liability is not excluded by restrictive endorsement: <i>Provided</i>, That this subsection shall not alter the liability of any person under section 9607 of this title.”
 
 #### Section Referred to in Other Sections
 

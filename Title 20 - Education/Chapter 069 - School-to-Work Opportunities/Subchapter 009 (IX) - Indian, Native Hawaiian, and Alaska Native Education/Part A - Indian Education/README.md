@@ -2,7 +2,7 @@ Part A—Indian Education
 
 #### Prior Provisions
 
-Provisions similar to those in this part were contained in chapter 28 of Title 25, Indians, prior to repeal by Pub. L. 103 382, §367.
+Provisions similar to those in this part were contained in chapter 28 of Title 25, Indians, prior to repeal by Pub. L. 103–382, §367.
 
 #### Part Referred to in Other Sections
 

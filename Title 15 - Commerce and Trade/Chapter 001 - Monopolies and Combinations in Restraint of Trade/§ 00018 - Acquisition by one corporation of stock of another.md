@@ -10,17 +10,23 @@ Nor shall anything herein contained be construed to prohibit any common carrier 
 
 Nothing contained in this section shall be held to affect or impair any right heretofore legally acquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
 
-Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Communications Commission, Federal Power Commission, Interstate Commerce Commission, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission or Secretary.
+Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Communications Commission, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
-(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Sept. 12, 1980, Pub. L. 96–349, §6(a), 94 Stat. 1157; Oct. 4, 1984, Pub. L. 98–443, §9(<i>l</i>), 98 Stat. 1708.)
+(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Sept. 12, 1980, Pub. L. 96–349, §6(a), 94 Stat. 1157; Oct. 4, 1984, Pub. L. 98–443, §9(<i>l</i>), 98 Stat. 1708; Dec. 29, 1995, Pub. L. 104–88, title III, §318(1), 109 Stat. 949.)
 
 #### Amendments
 
+1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
+
 1984—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
 
-1980—Pub. L. 96–349, substituted “person” for “corporation” wherever appearing in first and second pars.; substituted “persons” for “corporations” in second par.and first sentence of third par.; and inserted “or in any activity affecting commerce” after “commerce” wherever appearing in first, second, and third pars.
+1980—Pub. L. 96–349, substituted “person” for “corporation” wherever appearing in first and second pars.; substituted “persons” for “corporations” in second par. and first sentence of third par.; and inserted “or in any activity affecting commerce” after “commerce” wherever appearing in first, second, and third pars.
 
 1950—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1984 Amendment
 

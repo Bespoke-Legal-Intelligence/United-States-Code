@@ -2,7 +2,7 @@
 
 #### (a) Applicability of approved plan to housing assistance application; procedure upon receipt of application by Secretary of Housing and Urban Development; definitions
 
-(1) The Secretary of Housing and Urban Development, upon receiving an application for housing assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\],<sup>1</sup> section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], or,<sup>2</sup> if the unit of general local government in which the proposed assistance isto be provided has an approved housing assistance plan, shall—
+(1) The Secretary of Housing and Urban Development, upon receiving an application for housing assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\],<sup>1</sup> section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], or,<sup>2</sup> if the unit of general local government in which the proposed assistance is to be provided has an approved housing assistance plan, shall—
 
 &emsp;(A) not later than ten days after receipt of the application, notify the chief executive officer of such unit of general local government that such application is under consideration; and
 
@@ -12,7 +12,7 @@
 
 (2) If the unit of general local government objects to the application on the grounds that it is inconsistent with its housing assistance plan, the Secretary may not approve the application unless he determines that the application is consistent with such housing assistance plan. If the Secretary determines, that such application is consistent with the housing assistance plan, he shall notify the chief executive officer of the unit of general local government of his determination and the reasons therefor in writing. If the Secretary concurs with the objection of the unit of local government, he shall notify the applicant stating the reasons therefor in writing.
 
-(3) If the Secretary does not receive an objection by the close of the period referred to in paragraph (1)(B), he may approve the application unless he finds it inconsistent with the housing assistance plan. If the Secretary determines that an application is inconsistent with a housing assistance plan, he shall notify the applicant stating the reasons therefor in writing.
+(3) If the Secretary does not receive an objection by the close of the period referred to inparagraph (1)(B), he may approve the application unless he finds it inconsistent with the housing assistance plan. If the Secretary determines that an application is inconsistent with a housing assistance plan, he shall notify the applicant stating the reasons therefor in writing.
 
 (4) The Secretary shall make the determinations referred to in paragraphs (2) and (3) within thirty days after he receives an objection pursuant to paragraph (1)(B) or within thirty days after the close of the period referred to in paragraph (1)(B), whichever is earlier.
 
@@ -114,7 +114,7 @@ Subsec. (d)(1)(A). Pub. L. 101–625, §556, designated existing provisions as c
 
 Pub. L. 101–494 inserted after first sentence “The Secretary may allocate assistance under the preceding sentence in such a manner that each State shall receive not less than one-half of one percent of the amount of funds available for each program referred to in subsection (a)(1) of this section in each fiscal year.”
 
-Subsec. (d)(1)(A)(i). Pub. L. 101–625, §804(e), which directed amendment of subpar. (A) by inserting after theperiod at end “The preceding sentence shall not apply to projects acquired from the Resolution Trust Corporation under section 1441a(c) of title 12.”, was executed by making the insertion after the period at end of cl. (i), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–625, §556. See above.
+Subsec. (d)(1)(A)(i). Pub. L. 101–625, §804(e), which directed amendment of subpar. (A) by inserting after the period at end “The preceding sentence shall not apply to projects acquired from the Resolution Trust Corporation under section 1441a(c) of title 12.”, was executed by making the insertion after the period at end of cl. (i), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–625, §556. See above.
 
 1989—Subsec. (a)(1). Pub. L. 101–235, §101(e), struck out “section 235 or 236 of the National Housing Act,” before “section 101 of the Housing and Urban Development Act of 1965”.
 

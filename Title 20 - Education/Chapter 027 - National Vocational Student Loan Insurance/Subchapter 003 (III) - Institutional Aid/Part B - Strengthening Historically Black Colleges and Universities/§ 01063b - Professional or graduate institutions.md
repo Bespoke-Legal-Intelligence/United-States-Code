@@ -94,13 +94,13 @@ Of the amount appropriated to carry out this section for any fiscal year—
 
 &emsp;&emsp;(B) secondly for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section.
 
-(Pub. L. 89 329, title III, §326, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100 50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102 325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103 208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457.)
+(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457.)
 
 #### Amendments
 
-1993—Subsec. (e)(2). Pub. L. 103 208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
+1993—Subsec. (e)(2). Pub. L. 103–208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
 
-1992—Subsec. (e). Pub. L. 102 325, §303(f)(1), substituted “Eligibility” for “Eligible professional or graduate institutions” in heading and amended text generally. Prior to amendment, text read as follows: “Independent professional or graduate institutions eligible for grants under subsection (a) of this section include—
+1992—Subsec. (e). Pub. L. 102–325, §303(f)(1), substituted “Eligibility” for “Eligible professional or graduate institutions” in heading and amended text generally. Prior to amendment, text read as follows: “Independent professional or graduate institutions eligible for grants under subsection (a) of this section include—
 
 &emsp;“(1) Morehouse School of Medicine;
 
@@ -112,23 +112,23 @@ Of the amount appropriated to carry out this section for any fiscal year—
 
 &emsp;“(5) Tuskegee Institute School of Veterinary Medicine.”
 
-Subsec. (f). Pub. L. 102 325, §303(g), added subsec. (f).
+Subsec. (f). Pub. L. 102–325, §303(g), added subsec. (f).
 
-1987—Subsec. (a)(2). Pub. L. 100 50, §2(a)(9), inserted “except that the Morehouse School of Medicine shall receive at least $3,000,000”.
+1987—Subsec. (a)(2). Pub. L. 100–50, §2(a)(9), inserted “except that the Morehouse School of Medicine shall receive at least $3,000,000”.
 
-Subsec. (c)(3). Pub. L. 100 50, §2(a)(10), made technical amendment to reference to section 1065 of this title to correct reference to corresponding section of original act.
+Subsec. (c)(3). Pub. L. 100–50, §2(a)(10), made technical amendment to reference to section 1065 of this title to correct reference to corresponding section of original act.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -260,7 +260,7 @@ Reports of Secretary.—The Secretary shall transmit to the Committee on Energy 
 
 &emsp;“(1) actions taken by the States to implement the recommendations developed under this section and to recommend additional action; and
 
-&emsp;“(2) recommendations for legislative and administrative action, if any, needed to respond to issues raised by the Task Force or to improve consumer protection with respect to long-term health care policies.
+&emsp;“(2) recommendations for legislative and administrative action, if any, needed to respond to issuesraised by the Task Force or to improve consumer protection with respect to long-term health care policies.
 
 > The first report shall be transmitted 18 months after the date the report is made under subsection (d), and the second report shall be transmitted 18 months later.
 

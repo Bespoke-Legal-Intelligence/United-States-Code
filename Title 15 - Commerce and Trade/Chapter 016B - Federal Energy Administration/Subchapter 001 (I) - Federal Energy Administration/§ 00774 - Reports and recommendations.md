@@ -28,7 +28,7 @@ The Administrator shall prepare and submit directly to the Congress and the Pres
 
 &emsp;(5) a summary listing of information-gathering activities conducted under section 772 of this title.
 
-&emsp;(6) an analysis of the energy needs of the United States and the methods by which such needs can be met, including both tax and nontax proposals and energy conservation strategies.
+&emsp;(6) an analysis of the energy needs of the United States and the methods by which suchneeds can be met, including both tax and nontax proposals and energy conservation strategies.
 
 > In the first annual report submitted after August 14, 1976, the Administrator shall include in such report with respect to the analysis referred to in paragraph (6) a specific discussion of the utility and relative benefits of employing a Btu tax as a means for obtaining national energy goals.
 

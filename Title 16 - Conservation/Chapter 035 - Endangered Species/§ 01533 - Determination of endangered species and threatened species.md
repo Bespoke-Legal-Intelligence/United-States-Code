@@ -68,7 +68,7 @@
 
 > &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
-(C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to the Secretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
+(C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to theSecretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
 
 (ii) Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
@@ -138,7 +138,7 @@
 
 #### (c) Lists
 
-(1) The Secretary of the Interior shall publish in the Federal Register a list of all species determined by him or the Secretary of Commerce to be endangered species and a list of all species determined by him or the Secretary of Commerce to be threatened species. Each list shall refer to the species contained therein by scientific and common name or names, if any, specify with respect to each such species over what portion of its range it is endangered orthreatened, and specify any critical habitat within such range. The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
+(1) The Secretary of the Interior shall publish in the Federal Register a list of all species determined by him or the Secretary of Commerce to be endangered species and a list of all species determined by him or the Secretary of Commerce to be threatened species. Each list shall refer to the species contained therein by scientific and common name or names, if any, specify with respect to each such species over what portion of its range it is endangered or threatened, and specify any critical habitat within such range. The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
 
 (2) The Secretary shall—
 
@@ -172,7 +172,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 (1) The Secretary shall develop and implement plans (hereinafter in this subsection referred to as “recovery plans”) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans, shall, to the maximum extent practicable—
 
-&emsp;(A) give priority to those endangered species or threatened species, without regard to taxonomic classification, that are most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other development projects or other forms of economic activity;
+&emsp;(A) give priority to those endangered species or threatened species, without regard to taxonomic classification, that are most likely to benefit from such plans, particularly thosespecies that are, or may be, in conflict with construction or other development projects or other forms of economic activity;
 
 &emsp;(B) incorporate in each plan—
 
@@ -254,7 +254,7 @@ Subsec. (c)(4). Pub. L. 97–304, §2(a)(3)(C), redesignated par. (4) as (2).
 
 Subsec. (d). Pub. L. 97–304, §2(a)(4)(A), substituted “section 1535(c) of this title” for “section 1535(a) of this title”.
 
-Subsec. (f). Pub. L. 97–304, §2(a)(4)(B), (C), (D), redesignated subsec. (g) as (f) and substituted “recoveryplans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2)” for “recovery plans,”. Former subsec. (f), relating to the promulgation of regulations, was struck out.
+Subsec. (f). Pub. L. 97–304, §2(a)(4)(B), (C), (D), redesignated subsec. (g) as (f) and substituted “recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2)” for “recovery plans,”. Former subsec. (f), relating to the promulgation of regulations, was struck out.
 
 Subsec. (g). Pub. L. 97–304, §2(a)(4)(C), (E), redesignated subsec. (h) as (g), substituted reference to subsection (b)(3) of this section for reference to subsection (c)(2) of this section in par. (1), substituted “under subsection (a)(1) of this section” for “for listing” in par. (3), and substituted “subsection (f) of this section” for “subsection (g) of this section” in par. (4). Former subsec. (g) redesignated (f).
 
@@ -306,7 +306,7 @@ Section 2(b) of Pub. L. 97–304 provided that:
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

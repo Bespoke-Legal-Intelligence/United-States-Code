@@ -26,7 +26,7 @@
 
 (2) Except with respect to obligations between participants and former spouses, payments under this part which would otherwise be made to a participant or annuitant based upon his or her service shall be paid (in whole or in part) by the Secretary of State to another individual to the extent expressly provided for in the terms of any order or any court decree of legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of legal separation.
 
-(3) Paragraphs (1) and (2) shall apply only to payments made under this part for periods beginning after the date of receipt by the Secretary of State of written notice of such decree, order, or agreement, and such additional information and such documentation as the Secretary of State may require.
+(3) Paragraphs (1) and (2) shall apply only to payments made under this part for periods beginning after the date of receipt by the Secretary of State of written notice of such decree,order, or agreement, and such additional information and such documentation as the Secretary of State may require.
 
 (4) Any payment under this subsection to an individual bars recovery by any other individual.
 

@@ -2,7 +2,7 @@
 
 (a) For purposes of this chapter:
 
-&emsp;(1) The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
+&emsp;(1) The term “consumer product” means any article, or component part thereof, producedor distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
 
 &emsp;&emsp;(A) any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
 
@@ -58,35 +58,35 @@
 
 (b) A common carrier, contract carrier, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
-(Pub. L. 92 573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94 284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97 35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99 514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92 516, Oct. 21, 1972, 86 Stat. 973, as amended, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, as amended, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-Title 52 of the Revised Statutes, referred to in subsec. (a)(1)(G), consisted of R.S. §§4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98 89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Table at beginning of Title 46.
+Title 52 of the Revised Statutes, referred to in subsec. (a)(1)(G), consisted of R.S. §§4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Table at beginning of Title 46.
 
-The Federal Hazardous Substances Act, referred to in the provisions following subsec. (a)(1)(I), is Pub. L. 86 613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in the provisions following subsec. (a)(1)(I), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 For definition of Canal Zone, referred to in subsec. (a)(10), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 
-In subsec. (a)(1)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of Pub. L. 103 272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(1)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-In subsec. (a)(1)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]”, respectively, on authority of Pub. L. 98 89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
+In subsec. (a)(1)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]”, respectively, on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
 #### Amendments
 
-1986—Subsec. (a)(1)(E). Pub. L. 99 514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsec. (a)(1)(E). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1981—Subsec. (a)(1). Pub. L. 97 35 inserted provisions that term “consumer product” includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site andthat such term does not include such a device which is permanently fixed to a site.
+1981—Subsec. (a)(1). Pub. L. 97–35 inserted provisions that term “consumer product” includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site and that such term does not include such a device which is permanently fixed to a site.
 
-1976—Subsec. (a)(1). Pub. L. 94 284 substituted in subpar. (D) “pesticides” for “economic poisons”, and in provision following subpar. (I) “other limitations” for “limitations”, and inserted provision which limited the authority of the Commission to regulate any product or article described in subpar. (E).
+1976—Subsec. (a)(1). Pub. L. 94–284 substituted in subpar. (D) “pesticides” for “economic poisons”, and in provision following subpar. (I) “other limitations” for “limitations”, and inserted provision which limited the authority of the Commission to regulate any product or article described in subpar. (E).
 
 #### Effective Date of 1981 Amendment
 
-Section 1215 of Pub. L. 97 35 provided that:
+Section 1215 of Pub. L. 97–35 provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this subtitle \[see Short Title of 1981 Amendment note set out under section 2051 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 

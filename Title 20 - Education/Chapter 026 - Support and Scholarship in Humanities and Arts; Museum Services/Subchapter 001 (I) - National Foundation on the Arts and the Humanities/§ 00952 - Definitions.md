@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (a) The term “humanities” includes, but is not limited to, the study and interpretation of the following: language, both modern and classical; linguistics; literature; history; jurisprudence; philosophy; archeology; comparative religion; ethics; the history, criticism, and theory of the arts; those aspects of the social sciences which have humanistic content and employ humanistic methods; and the study and application of the humanities to the human environment with particular attention to reflecting our diverse heritage, traditions, and history and to the relevance of the humanities to the current conditions of national life.
 
-(b) The term “the arts” includes, but is not limited to, music (instrumental and vocal), dance, drama, folk art, creative writing, architecture and allied fields, painting, sculpture, photography, graphic and craft arts, industrial design, costume and fashion design, motion pictures, television, radio, film, video, tape and sound recording, the arts related to the presentation, performance, execution, and exhibitionof such major art forms, all those traditional arts practiced by the diverse peoples of this country.<sup>1</sup> and the study and application of the arts to the human environment.
+(b) The term “the arts” includes, but is not limited to, music (instrumental and vocal), dance, drama, folk art, creative writing, architecture and allied fields, painting, sculpture, photography, graphic and craft arts, industrial design, costume and fashion design, motion pictures, television, radio, film, video, tape and sound recording, the arts related to the presentation, performance, execution, and exhibition of such major art forms, all those traditional arts practiced by the diverse peoples of this country.<sup>1</sup> and the study and application of the arts to the human environment.
 
 (c) The term “production” means plays (with or without music), ballet, dance and choral performances, concerts, recitals, operas, exhibitions, readings, motion pictures, television, radio, film, video, and tape and sound recordings, and any other activities involving the execution or rendition of the arts and meeting such standards as may be approved by the National Endowment for the Arts established by section 954 of this title.
 
@@ -44,53 +44,53 @@ As used in this subchapter—
 
 &emsp;(3) such project, production, workshop, or program, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
 
-(Pub. L. 89 209, §3, Sept. 29, 1965, 79 Stat. 845; Pub. L. 90 348, §§1, 7, June 18, 1968, 82 Stat. 184, 187; Pub. L. 91 346, §3, July 20, 1970, 84 Stat. 443; Pub. L. 93 133, §2(a)(2), Oct. 19, 1973, 87 Stat. 462; Pub. L. 96 496, title I, §101, Dec. 4, 1980, 94 Stat. 2583; renumbered title I, §3, Pub. L. 98 306, §2, May 31, 1984, 98 Stat. 223; renumbered §3 and amended Pub. L. 99 194, title I, §§101(1), 103, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101 512, title III, §318 \[title I, §102\], Nov. 5, 1990, 104 Stat. 1960, 1962.)
+(Pub. L. 89–209, §3, Sept. 29, 1965, 79 Stat. 845; Pub. L. 90–348, §§1, 7, June 18, 1968, 82 Stat. 184, 187; Pub. L. 91–346, §3, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(2), Oct. 19, 1973, 87 Stat. 462; Pub. L. 96–496, title I, §101, Dec. 4, 1980, 94 Stat. 2583; renumbered title I, §3, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §3 and amended Pub. L. 99–194, title I, §§101(1), 103, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §102\], Nov. 5, 1990, 104 Stat. 1960, 1962.)
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101 512, §318 \[title I, §102(a)(1), (b)(1)\], inserted “all those traditional arts practiced by the diverse peoples of this country.” after “forms,” and “film, video,” after “radio,”.
+1990—Subsec. (b). Pub. L. 101–512, §318 \[title I, §102(a)(1), (b)(1)\], inserted “all those traditional arts practiced by the diverse peoples of this country.” after “forms,” and “film, video,” after “radio,”.
 
-Subsec. (c). Pub. L. 101 512, §318 \[title I, §102(b)(2)\], inserted “film, video,” after “radio,”.
+Subsec. (c). Pub. L. 101–512, §318 \[title I, §102(b)(2)\], inserted “film, video,” after “radio,”.
 
-Subsec. (d). Pub. L. 101 512, §318 \[title I, §102(b)(3)(A)\], inserted “the widest” after “enhance”.
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §102(b)(3)(A)\], inserted “the widest” after “enhance”.
 
-Subsec. (d)(2). Pub. L. 101 512, §318 \[title I, §102(b)(3)(B)\], which directed the substitution of “sections 954(p), 956(c)(10),” for “sections 954(1)”, was executed by making the substitution for “sections 954(<i>l</i>)” to reflect the probable intent of Congress.
+Subsec. (d)(2). Pub. L. 101–512, §318 \[title I, §102(b)(3)(B)\], which directed the substitution of “sections 954(p), 956(c)(10),” for “sections 954(1)”, was executed by making the substitution for “sections 954(<i>l</i>)” to reflect the probable intent of Congress.
 
-Subsecs. (h), (i). Pub. L. 101 512, §318 \[title I, §102(a)(2)\], added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 101–512, §318 \[title I, §102(a)(2)\], added subsecs. (h) and (i).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 101 512, §318 \[title I, §102(c)\], added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 101–512, §318 \[title I, §102(c)\], added subsecs. (j) to (<i>l).</i>
 
-1985—Subsec. (a). Pub. L. 99 194, §103(1), substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
+1985—Subsec. (a). Pub. L. 99–194, §103(1), substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
 
-Subsec. (d)(2). Pub. L. 99 194, §103(2), inserted “for purposes of sections 954(<i>l</i>) and 956(h) of this title only,” before “the construction of facilities if”, “or humanistic” after “artistic”, and “and the National Council on the Humanities, as the case may be,” after “the National Council on the Arts”.
+Subsec. (d)(2). Pub. L. 99–194, §103(2), inserted “for purposes of sections 954(<i>l</i>) and 956(h) of this title only,” before “the construction of facilities if”, “or humanistic” after “artistic”, and “and the National Council on the Humanities, as the case may be,” after “the National Council on the Arts”.
 
-1980—Subsec. (a). Pub. L. 96 496, §101(a), substituted “and theory of the arts” for “theory, and practice of the arts”.
+1980—Subsec. (a). Pub. L. 96–496, §101(a), substituted “and theory of the arts” for “theory, and practice of the arts”.
 
-Subsec. (d)(1)(B). Pub. L. 96 496, §101(b), inserted “or the National Council on the Humanities, as the case may be”.
+Subsec. (d)(1)(B). Pub. L. 96–496, §101(b), inserted “or the National Council on the Humanities, as the case may be”.
 
-Subsec. (g). Pub. L. 96 496, §101(c), inserted “the Northern Mariana Islands”.
+Subsec. (g). Pub. L. 96–496, §101(c), inserted “the Northern Mariana Islands”.
 
-1973—Subsec. (d). Pub. L. 93 133 substituted “or purchase of facilities” for “, purchase, renovation, or construction of facilities” and added pars. (1) and (2).
+1973—Subsec. (d). Pub. L. 93–133 substituted “or purchase of facilities” for “, purchase, renovation, or construction of facilities” and added pars. (1) and (2).
 
-1970—Subsec. (a). Pub. L. 91 346 extended term “humanities” to include the study of comparative religion and ethics, and emphasized that particular attention be paid to relevance of humanities to current conditions of national life when engaging in study and application of humanities to human environment.
+1970—Subsec. (a). Pub. L. 91–346 extended term “humanities” to include the study of comparative religion and ethics, and emphasized that particular attention be paid to relevance of humanities to current conditions of national life when engaging in study and application of humanities to human environment.
 
-1968—Subsec. (a). Pub. L. 90 348, §7, extended term “humanities” to include the study and application of enumerated fields to human environment.
+1968—Subsec. (a). Pub. L. 90–348, §7, extended term “humanities” to include the study and application of enumerated fields to human environment.
 
-Subsec. (b). Pub. L. 90 348, §7, extended term “arts” to include study and application of enumerated art forms to human environment.
+Subsec. (b). Pub. L. 90–348, §7, extended term “arts” to include study and application of enumerated art forms to human environment.
 
-Subsec. (f). Pub. L. 90 348, §1, substituted “activity” for “production” in definition of “workshop” and extended enumerated purposes to include promotion of scholarship and teaching among participants.
+Subsec. (f). Pub. L. 90–348, §1, substituted “activity” for “production” in definition of “workshop” and extended enumerated purposes to include promotion of scholarship and teaching among participants.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93 133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93 133, set out as a note under section 951 of this title.
+Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out as a note under section 951 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 954, 956 of this title.
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

@@ -26,5 +26,5 @@ The Secretary shall ensure that the programs under this part are administered wi
 
 &emsp;(4) assist the Assistant Secretary of the Office of Educational Research and Improvement in identifying research priorities which reflect the needs of gifted and talented students.
 
-(Pub. L. 89 10, title X, §10206, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3824.)
+(Pub. L. 89–10, title X, §10206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3824.)
 

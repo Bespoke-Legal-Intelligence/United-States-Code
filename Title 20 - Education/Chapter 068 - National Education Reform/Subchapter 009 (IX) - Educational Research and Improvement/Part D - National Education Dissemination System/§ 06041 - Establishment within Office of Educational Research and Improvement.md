@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;There is established within the Office an Office of Reform Assistance and Dissemination (hereafter in this section referred to as the “Dissemination Office”) through which the Secretary shall carry out all functions and activities described in this section. Such office<sup>1</sup> shall be headed by a Director who shall be appointed by the Assistant Secretary and have demonstrated expertise and experience in dissemination, including promoting the effective use of research in the classroom.
+&emsp;There is established within the Office an Office of Reform Assistance and Dissemination (hereafter in this section referred to as the “Dissemination Office”) through which the Secretary shall carry out all functions and activities described in this section. Such office <sup>1</sup> shall be headed by a Director who shall be appointed by the Assistant Secretary and have demonstrated expertise and experience in dissemination, including promoting the effective use of research in the classroom.
 
 #### (2) Certain duties
 
@@ -112,7 +112,7 @@ The Assistant Secretary shall coordinate a process through which successful educ
 
 &emsp;(C) The Secretary shall establish such panels under paragraph (1) as may be necessary to ensure that each program identified or submitted for evaluation is evaluated.
 
-&emsp;(D) Not less than 2/3 of the membership of a panel established under paragraph (1) shall consist of individuals who are not officers oremployees of the United States. Members of panels under paragraph (1) who are not employees of the United States shall receive compensation for each day they are engaged in carrying out the duties of the panel as well as compensation for their expenses.
+&emsp;(D) Not less than 2/3 of the membership of a panel established under paragraph (1) shall consist of individuals who are not officers or employees of the United States. Members of panels under paragraph (1) who are not employees of the United States shall receive compensation for each day they are engaged in carrying out the duties of the panel as well as compensation for their expenses.
 
 #### (e) Dissemination of exemplary and promising programs
 
@@ -264,7 +264,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;&emsp;(C) the creation of any such additional laboratory region is announced at the time of the announcement of the competition for contracts for all regional educational laboratories;
 
-&emsp;&emsp;(D) the creation of a regional educational laboratory that involves the combination or subdivision of a region or regions in existence on the day preceding March 31, 1994, in which States in 1 such region are combinedwith States in another such region does not result in any region in existence on such date permanently becoming part of a larger region, nor result in any such region permanently subsuming another region, nor creates within the continental United States a region that is smaller than 4 contiguous States, nor partitions a region in existence on the day preceding March 31, 1994, to include less than 4 contiguous States included in the region on the day preceding March 31, 1994;
+&emsp;&emsp;(D) the creation of a regional educational laboratory that involves the combination or subdivision of a region or regions in existence on the day preceding March 31, 1994, in which States in 1 such region are combined with States in another such region does not result in any region in existence on such date permanently becoming part of a larger region, nor result in any such region permanently subsuming another region, nor creates within the continental United States a region that is smaller than 4 contiguous States, nor partitions a region in existence on the day preceding March 31, 1994, to include less than 4 contiguous States included in the region on the day preceding March 31, 1994;
 
 &emsp;&emsp;(E) the Assistant Secretary has published a notice in the Federal Register inviting the public, for a period of not less than 60 days, to make recommendations with respect to the creation of 1 or 2 additional regional educational laboratories;
 
@@ -378,7 +378,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;&emsp;(B) Comply with the standards developed by the Assistant Secretary and approved by the Board under section 6011 of this title.
 
-&emsp;&emsp;(C) Coordinate its activities, collaborate, and regularly exchange information with the Institutes established under section 6041<sup>2</sup> of this title, the National Diffusion Network, and its Developer-Demonstrator and State Facilitator projects, learning grant institutions and district education agents assisted under subsection (i) of this section, the Educational Resources Information Center Clearinghouses, and other entities engaged in technical assistance and dissemination activities which are supported by other offices of the Department of Education.
+&emsp;&emsp;(C) Coordinate its activities, collaborate, and regularly exchange information with the Institutes established under section 6041 <sup>2</sup> of this title, the National Diffusion Network, and its Developer-Demonstrator and State Facilitator projects, learning grant institutions and district education agents assisted under subsection (i) of this section, the Educational Resources Information Center Clearinghouses, and other entities engaged in technical assistance and dissemination activities which are supported by other offices of the Department of Education.
 
 &emsp;&emsp;(D) Allocate the regional educational laboratory's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, local educational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the laboratory.
 
@@ -668,11 +668,11 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;The Secretary shall, within 5 years of March 31, 1994, submit to the Congress a report on the effectiveness of activities assisted under this subsection.
 
-(Pub. L. 103 227, title IX, §941, Mar. 31, 1994, 108 Stat. 243.)
+(Pub. L. 103–227, title IX, §941, Mar. 31, 1994, 108 Stat. 243.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (j)(1)(C), (6), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (j)(1)(C), (6), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

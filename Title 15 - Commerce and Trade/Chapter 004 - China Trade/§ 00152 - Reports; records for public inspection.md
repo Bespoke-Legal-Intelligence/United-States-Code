@@ -1,4 +1,4 @@
-### §152 . Reports; records for public inspection
+### §152. Reports; records for public inspection
 
 (a) For the purposes of this chapter the fiscal year of a China Trade Act corporation shall correspond to the calendar year. The corporation shall make and file with the registrar, in such manner and form and at such time as shall be by regulation prescribed, a report of its business for each such fiscal year and of its financial condition at the close of the year. The corporation shall furnish a true copy of the report to each of its stockholders.
 

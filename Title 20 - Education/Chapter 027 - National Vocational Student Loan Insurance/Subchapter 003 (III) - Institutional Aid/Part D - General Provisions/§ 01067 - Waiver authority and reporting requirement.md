@@ -26,41 +26,41 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(B) contain a list of each institution determined to be an eligible institution under part A of this subchapter including a statement of the reasons for each such determination.
 
-(3) The Secretary may waive the requirement set forth in section 1058(b)(1)(E)<sup>2</sup> of this title inthe case of an institution located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians.
+(3) The Secretary may waive the requirement set forth in section 1058(b)(1)(E) <sup>2</sup> of this title in the case of an institution located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians.
 
-(Pub. L. 89 329, title III, §352, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304; amended Pub. L. 100 50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102 325, title III, §305(b), July 23, 1992, 106 Stat. 478.)
+(Pub. L. 89–329, title III, §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304; amended Pub. L. 100–50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(b), July 23, 1992, 106 Stat. 478.)
 
 #### References in Text
 
-Section 1058(b)(1)(E) of this title, referred to in subsec. (b)(3), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by Pub. L. 102 325, title III, §302(a)(1)(B), (C), July 23, 1992, 106 Stat. 472.
+Section 1058(b)(1)(E) of this title, referred to in subsec. (b)(3), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by Pub. L. 102–325, title III, §302(a)(1)(B), (C), July 23, 1992, 106 Stat. 472.
 
 #### Prior Provisions
 
-A prior section 1067, Pub. L. 89 329, title III, §342, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, set waiver authority and reporting requirements for this part, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1067, Pub. L. 89–329, title III, §342, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, set waiver authority and reporting requirements for this part, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1067, Pub. L. 89 329, title IV, §407, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90 575, title I, §§101(b)(2), 103, 104, Oct. 16, 1968, 82 Stat. 1017, 1018, related to agreements with institutions, required provisions and use of funds as additional Federal capital contribution for student loan fund, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92 318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1067, Pub. L. 89–329, title IV, §407, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I, §§101(b)(2), 103, 104, Oct. 16, 1968, 82 Stat. 1017, 1018, related to agreements with institutions, required provisions and use of funds as additional Federal capital contribution for student loan fund, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102 325 substituted “Secretary may waive” for “Secretary shall waive”.
+1992—Subsec. (a). Pub. L. 102–325 substituted “Secretary may waive” for “Secretary shall waive”.
 
-1987—Subsec. (a)(2). Pub. L. 100 50, §2(a)(14), substituted “low-income” for “low- and middle-income”.
+1987—Subsec. (a)(2). Pub. L. 100–50, §2(a)(14), substituted “low-income” for “low- and middle-income”.
 
-Subsec. (b)(3). Pub. L. 100 50, §2(a)(15), added par. (3).
+Subsec. (b)(3). Pub. L. 100–50, §2(a)(15), added par. (3).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1058 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “part.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “part.”</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

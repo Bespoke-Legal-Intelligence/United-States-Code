@@ -10,17 +10,17 @@ In the case of any teacher who—
 
 > section 5533 of title 5 shall not apply to such teacher by reason of any such employment during a recess period or any such receipt of quarters, allowances, or additional compensation, or both, as the case may be.
 
-(Pub. L. 86 91, §10(b), July 17, 1959, 73 Stat. 217; Pub. L. 88 448, title IV, §401(n), Aug. 19, 1964, 78 Stat. 492.)
+(Pub. L. 86–91, §10(b), July 17, 1959, 73 Stat. 217; Pub. L. 88–448, title IV, §401(n), Aug. 19, 1964, 78 Stat. 492.)
 
 #### Codification
 
-“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act” on authority ofPub. L. 89 554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2358(b) of Title 5 period to the general revision and enactment of Title 5 by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2358(b) of Title 5 period to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1964—Subsec. (b). Pub. L. 88 448 made section 301 of the Dual Compensation Act inapplicable and struck out provisions which referred to former section 62 of title 5 and section 6 of the act of May 10, 1916.
+1964—Subsec. (b). Pub. L. 88–448 made section 301 of the Dual Compensation Act inapplicable and struck out provisions which referred to former section 62 of title 5 and section 6 of the act of May 10, 1916.
 
 #### Section Referred to in Other Sections
 

@@ -56,7 +56,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;Promoting broad-based educational reform at all levels, in particular—
 
-&emsp;&emsp;(A) by assisting the development of curricula and by making available textbooks, other educational materials, and appropriate telecommunications technologies for the delivery of educational and instructional programming; and
+&emsp;&emsp;(A) by assisting the development of curricula and by making available textbooks, other educational materials, and appropriatetelecommunications technologies for the delivery of educational and instructional programming; and
 
 &emsp;&emsp;(B) by assisting the development of the skills necessary to produce educational television programs aimed at promoting basic skills and the human values associated with a democratic society and a free market economy.
 

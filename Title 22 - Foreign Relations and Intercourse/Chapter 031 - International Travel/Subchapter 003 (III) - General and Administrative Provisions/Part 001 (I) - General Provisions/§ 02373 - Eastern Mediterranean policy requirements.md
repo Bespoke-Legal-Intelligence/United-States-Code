@@ -36,7 +36,7 @@ Because progress toward a Cyprus settlement is a high priority of United States 
 
 #### (d) Certification by President to Congress of assistance to Greece and Turkey
 
-In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forthin subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
+In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms ExportControl Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forth in subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
 
 #### (e) Arms sales agreements to prohibit transfer to Cyprus
 
@@ -54,15 +54,7 @@ This chapter, referred to in subsecs. (b)(3) and (d), was in the original “thi
 
 The Arms Export Control Act, referred to in subsecs. (b)(3) and (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-#### Amendments
-
-1987—Subsec. (e). Pub. L. 100–202 added subsec. (e).
-
-#### Delegation of Functions
-
-Functions of President under subsecs. (d) and (e) delegated to Secretary of State by section 1–201(a)(13) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Similar Provisions
+#### Prior Provisions
 
 Provisions similar to those in subsec. (e) of this section were contained in the following appropriation acts:
 
@@ -73,6 +65,14 @@ Pub. L. 101–513, title V, §560, Nov. 5, 1990, 104 Stat. 2026.
 Pub. L. 101–167, title V, §570, Nov. 21, 1989, 103 Stat. 1245.
 
 Pub. L. 100–461, title V, §579, Oct. 1, 1988, 102 Stat. 2268–48.
+
+#### Amendments
+
+1987—Subsec. (e). Pub. L. 100–202 added subsec. (e).
+
+#### Delegation of Functions
+
+Functions of President under subsecs. (d) and (e) delegated to Secretary of State by section 1–201(a)(13) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Special Ambassadorial Commission for Cyprus and the Aegean
 

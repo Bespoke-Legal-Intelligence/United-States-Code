@@ -26,7 +26,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(11) The State may issue a commercial driver's license to an individual who has a commercial driver's license issued by another State only if the individual first returns the driver's license issued by the other State.
 
-&emsp;(12) The State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.
+&emsp;(12) The State may issue a commercial driver's license only to an individual who operatesor will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.
 
 &emsp;(13) The State shall impose penalties the State considers appropriate and the Secretary approves for an individual operating a commercial motor vehicle when the individual—
 
@@ -58,6 +58,8 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.
 
+&emsp;(18) The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(h) of this title.
+
 (b)
 
 State Satisfaction of Requirements.—A State may satisfy the requirements of subsection (a) of this section that the State disqualify an individual from operating a commercial motor vehicle by revoking, suspending, or canceling the driver's license issued to the individual.
@@ -66,7 +68,7 @@ State Satisfaction of Requirements.—A State may satisfy the requirements of su
 
 Notification.—Not later than 30 days after being notified by a State of the proposed issuance of a commercial driver's license to an individual, the Secretary or the operator of the information system under section 31309 of this title, as the case may be, shall notify the State whether the individual has a commercial driver's license issued by another State or has been disqualified from operating a commercial motor vehicle by another State or the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956.)
 
 Historical and Revision Notes
 
@@ -85,6 +87,14 @@ Oct. 27, 1986, Pub. L. 99–570, §12009, 100 Stat. 3207–179; Dec. 18, 1991, P
 Subsection (a)(15) is substituted for 49 App.:2708(a)(15)–(19) for consistency with section 31310(b)–(e) of the revised title and to avoid repeating the language restated in section 31310(b)–(e).
 
 In subsection (b), the words “in accordance with the requirements of such subsection” are omitted as surplus.
+
+#### Amendments
+
+1995—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

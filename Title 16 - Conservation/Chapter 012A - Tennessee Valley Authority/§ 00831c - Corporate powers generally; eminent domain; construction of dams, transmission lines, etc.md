@@ -1,4 +1,4 @@
-### §831c . Corporate powers generally; eminent domain; construction of dams, transmission lines, etc.
+### §831c. Corporate powers generally; eminent domain; construction of dams, transmission lines, etc.
 
 Except as otherwise specifically provided in this chapter, the Corporation—
 
@@ -18,7 +18,7 @@ The board shall select a treasurer and as many assistant treasurers as it deems 
 
 (g) Shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation.
 
-(h) Shall have power in the name of the United States of America to exercise the right of eminent domain, and in the purchase of any real estate or the acquisition of real estate by condemnation proceedings, the title to such real estate shall be taken in the name of the United States of America, and thereupon all such real estate shall be entrusted to the Corporation asthe agent of the United States to accomplish the purposes of this chapter.
+(h) Shall have power in the name of the United States of America to exercise the right of eminent domain, and in the purchase of any real estate or the acquisition of real estate by condemnation proceedings, the title to such real estate shall be taken in the name of the United States of America, and thereupon all such real estate shall be entrusted to the Corporation as the agent of the United States to accomplish the purposes of this chapter.
 
 (i) Shall have power to acquire real estate for the construction of dams, reservoirs, transmission lines, power houses, and other structures, and navigation projects at any point along the Tennessee River, or any of its tributaries, and in the event that the owner or owners of such property shall fail and refuse to sell to the Corporation at a price deemed fair and reasonable by the board, then the Corporation may proceed to exercise the right of eminent domain, and to condemn all property that it deems necessary for carrying out the purposes of this chapter, and all such condemnation proceedings shall be had pursuant to the provisions and requirements hereinafter specified, with reference to any and all condemnation proceedings: <i>Provided</i>, That nothing contained herein or elsewhere in this chapter shall be construed to deprive the Corporation of the rights conferred by sections 258a to 258e–1 of title 40.
 
@@ -58,7 +58,7 @@ Subsec. (<i>l</i>). Act Aug. 31, 1935, §13, added subsec. (<i>l).</i>
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Delegation of Functions
 

@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1978—Pub. L. 95–251, §2(c)(1), Mar. 27, 1978, 92 Stat. 183, substituted “Administrative law judges” for “Hearing examiners” in item 1305.
+<b>1978</b>—Pub. L. 95–251, §2(c)(1), Mar. 27, 1978, 92 Stat. 183, substituted “Administrative law judges” for “Hearing examiners” in item 1305.
 
 
 ---

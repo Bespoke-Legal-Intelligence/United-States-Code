@@ -1,6 +1,6 @@
 ### §732. Applicable laws
 
-The corporation shall be subject to the provisions of this chapter and, to the extent consistent with this chapter, to the District of Columbia Business Corporation Act \[D.C. Code, §29–301 et seq.\]. The right to repeal, alter, or amend this chapter at any time is expressly reserved.
+The corporation shall be subject to the provisions of this chapter and, to the extent consistent with this chapter, to the District of Columbia Business Corporation Act \[D.C. Code, §29–301et seq.\]. The right to repeal, alter, or amend this chapter at any time is expressly reserved.
 
 (Pub. L. 87–624, title III, §302, as added Pub. L. 103–414, title III, §304(b)(2), Oct. 25, 1994, 108 Stat. 4297.)
 

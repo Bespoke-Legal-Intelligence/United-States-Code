@@ -46,7 +46,7 @@
 
 (2) The Secretary of the Army may assign to the Army Staff responsibility for those aspects of the function of research and development that relate to military requirements and test and evaluation.
 
-(3) The Secretary shall establish or designate a single office or other entity within the Officeof the Secretary of the Army to conduct the function specified in paragraph (1).
+(3) The Secretary shall establish or designate a single office or other entity within the Office of the Secretary of the Army to conduct the function specified in paragraph (1).
 
 (4) The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Army and to the Army Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 
@@ -56,7 +56,7 @@
 
 (2) Not more than 1,865 officers of the Army on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff.
 
-(3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection.
+(3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on theArmy Staff may not exceed the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection.
 
 (4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.
 

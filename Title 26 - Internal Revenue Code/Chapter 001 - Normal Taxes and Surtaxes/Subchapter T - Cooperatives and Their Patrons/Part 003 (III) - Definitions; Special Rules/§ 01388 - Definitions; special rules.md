@@ -54,9 +54,9 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 #### (B) Revocation, etc.
 
-&emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first day of the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
+&emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first dayof the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
 
-&emsp;&emsp;&emsp;(ii) Any consent described in paragraph (2)(B) shall not be effective with respect toany patronage occurring (determined without the application of section 1382(e)) after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
+&emsp;&emsp;&emsp;(ii) Any consent described in paragraph (2)(B) shall not be effective with respect to any patronage occurring (determined without the application of section 1382(e)) after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
 
 #### (4) Qualified check
 
@@ -118,7 +118,7 @@ For purposes of this subchapter, the term “per-unit retain certificate” mean
 
 #### (i) Nonqualified per-unit retain certificate
 
-For purposes of this subchapter, the term “nonqualified per-unit retain certificate” means a per-unit retain certificate which is not described in subsection (h).
+For purposes of this subchapter, the term “nonqualified per-unit retain certificate” meansa per-unit retain certificate which is not described in subsection (h).
 
 #### (j) Special rules for the netting of gains and losses by cooperatives
 
@@ -204,7 +204,7 @@ Section 13210(c) of Pub. L. 99–272 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 521 of this title\] shall apply to taxable years beginning after December 31, 1962.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 521 of this title\] shall apply to taxable years beginning after December 31, 1962.
 
 “(2)
 

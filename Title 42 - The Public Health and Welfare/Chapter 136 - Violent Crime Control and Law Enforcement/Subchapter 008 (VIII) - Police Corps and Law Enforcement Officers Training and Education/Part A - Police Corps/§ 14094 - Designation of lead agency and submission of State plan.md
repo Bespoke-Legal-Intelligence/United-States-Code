@@ -12,7 +12,7 @@ A State that desires to participate in the Police Corps program under this part 
 
 A State plan shall—
 
-&emsp;(1) contain assurances that the lead agency shall work in cooperation with the local law enforcement liaisons, representatives of police labor organizations and police management organizations, and other appropriate State and local agencies to develop and implement interagency agreements designed to carry out the program;
+&emsp;(1) contain assurances that the lead agency shall work in cooperation with the local law enforcement liaisons, representatives of police labor organizations and police management organizations, and other appropriate State andlocal agencies to develop and implement interagency agreements designed to carry out the program;
 
 &emsp;(2) contain assurances that the State shall advertise the assistance available under this part;
 

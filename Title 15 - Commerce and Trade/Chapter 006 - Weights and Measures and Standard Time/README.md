@@ -38,9 +38,7 @@
 | (c) | Staff personnel; appointment and compensation. |
 | (d) | Experts and consultants; employment and compensation; annual review of contracts. |
 | [205j.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205j%20-%20Financial%20and%20administrative%20services%3B%20source%20and%20reimbursement.md) | Financial and administrative services; source and reimbursement. |
-| 205j–1. | Agency guidelines to carry out policy. |
-| (a) | Establishment of guidelines; reporting. |
-| (b) | Implementation review by Comptroller General. |
+| 205j–1. | Repealed. |
 | [205k.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205k%20-%20Authorization%20of%20appropriations%3B%20availability.md) | Authorization of appropriations; availability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

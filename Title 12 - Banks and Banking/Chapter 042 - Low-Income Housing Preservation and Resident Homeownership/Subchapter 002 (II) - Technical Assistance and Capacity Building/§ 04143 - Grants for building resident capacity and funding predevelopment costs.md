@@ -20,7 +20,7 @@ A resident capacity grant under subsection (d) of this section may not exceed $3
 
 #### (2) Eligible housing
 
-&emsp;Grants under this subsection may be provided with respect to eligible low-income housing for which the owner has filed a notice of intent under subchapter I of this chapter or title II of the Emergency Low Income HousingPreservation Act of 1987 (pursuant to section 604 of the Cranston-Gonzalez National Affordable Housing Act).
+&emsp;Grants under this subsection may be provided with respect to eligible low-income housing for which the owner has filed a notice of intent under subchapter I of this chapter or title II of the Emergency Low Income Housing Preservation Act of 1987 (pursuant to section 604 of the Cranston-Gonzalez National Affordable Housing Act).
 
 #### (e) Predevelopment grants
 
@@ -42,7 +42,7 @@ Grant applications for assistance under subsections (d) and (e) of this section 
 
 #### (g) Appeal
 
-If an application for assistance under subsections <sup>1</sup> (d) or (e) of this section is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
+If an application for assistance under subsections <sup>1</sup> (d) or (e) of this section is denied, theapplicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
 (Pub. L. 100–242, title II, §253, as added Pub. L. 102–550, title III, §312, Oct. 28, 1992, 106 Stat. 3766.)
 

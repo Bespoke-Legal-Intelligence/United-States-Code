@@ -16,7 +16,7 @@ The Congress makes the following findings:
 
 #### Pilot Program To Furnish Employment and Training Information and Services to Members of Armed Forces Separating From Armed Forces
 
-Pub. L. 101–237, title IV, §408, Dec. 18, 1989, 103 Stat. 2083, provided that:
+Pub. L. 101–237, title IV, §408, Dec. 18, 1989, 103 Stat. 2083, as amended by Pub. L. 104–66, title I, §1101, Dec. 21, 1995, 109 Stat. 722, provided that:
 
 “(a)
 
@@ -28,9 +28,5 @@ Areas To Be Covered by the Program.—The Secretary shall conduct the pilot prog
 
 “(c)
 
-Utilization of Specific Personnel.—The Secretary shall utilize disabled veterans’ outreach program specialists or local veterans’ employment representatives to the maximum extent feasible to furnish employment and training information and services under the pilot program.
-
-“(d)
-
-Report.—Not later than May 1, 1992, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the findings and conclusions reached as a result of such pilot program.”
+Utilization of Specific Personnel.—The Secretary shall utilize disabled veterans’ outreach program specialists or local veterans’ employment representatives to the maximum extent feasible to furnish employment and training information and services under the pilot program.”
 

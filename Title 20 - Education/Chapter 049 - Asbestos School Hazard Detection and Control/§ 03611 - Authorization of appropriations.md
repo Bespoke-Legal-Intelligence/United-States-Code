@@ -12,19 +12,19 @@
 
 #### (b) Programs automatically eligible for contingent extension
 
-Programs under this chapter shall be considered automatically eligible for the one-year contingent extension under section 1226a<sup>1</sup> of this title.
+Programs under this chapter shall be considered automatically eligible for the one-year contingent extension under section 1226a <sup>1</sup> of this title.
 
 #### (c) Greatest financial need as basis for approval of applications in case of insufficient funds
 
-If funds appropriated to carry out this chapter are insufficient to pay the total amount required to make all the grants and loans authorized under this chapter, the Secretary shall establish criteria to be used in determining whichapplicants for grants or loans under this chapter have the greatest financial need for receiving funds under this chapter and shall make determinations regarding the approval of applications for such grants or loans in accordance with such criteria.
+If funds appropriated to carry out this chapter are insufficient to pay the total amount required to make all the grants and loans authorized under this chapter, the Secretary shall establish criteria to be used in determining which applicants for grants or loans under this chapter have the greatest financial need for receiving funds under this chapter and shall make determinations regarding the approval of applications for such grants or loans in accordance with such criteria.
 
 #### (d) Authority of Secretary dependent on specific appropriations
 
 Notwithstanding any other provision of this chapter, the authority of the Secretary to enter into agreements, or to make payments, under this chapter shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 96 270, §12, June 14, 1980, 94 Stat. 497.)
+(Pub. L. 96–270, §12, June 14, 1980, 94 Stat. 497.)
 
 #### References in Text
 
-Section 1226a of this title, referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103 382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
+Section 1226a of this title, referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
 

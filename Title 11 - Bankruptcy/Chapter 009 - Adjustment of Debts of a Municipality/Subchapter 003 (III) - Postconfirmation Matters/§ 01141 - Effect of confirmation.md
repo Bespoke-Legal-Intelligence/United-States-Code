@@ -8,7 +8,7 @@
 
 (d)(1) Except as otherwise provided in this subsection, in the plan, or in the order confirming the plan, the confirmation of a plan—
 
-&emsp;(A) discharges the debtor from any debt that arose before the date of such confirmation,and any debt of a kind specified in section 502(g), 502(h), or 502(i) of this title, whether or not—
+&emsp;(A) discharges the debtor from any debt that arose before the date of such confirmation, and any debt of a kind specified in section 502(g), 502(h), or 502(i) of this title, whether or not—
 
 &emsp;&emsp;(i) a proof of the claim based on such debt is filed or deemed filed under section 501 of this title;
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

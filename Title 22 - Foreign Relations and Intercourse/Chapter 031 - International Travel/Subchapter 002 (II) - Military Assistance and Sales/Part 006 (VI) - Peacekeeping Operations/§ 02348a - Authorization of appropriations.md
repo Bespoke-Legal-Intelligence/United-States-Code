@@ -10,7 +10,7 @@ Amounts appropriated under this section are authorized to remain available until
 
 #### (c) Emergency transfer of funds
 
-If the President determines that, as the result of an unforeseen emergency, the provision of assistance under this part in amounts in excess of funds otherwise available for such assistance is important to the national interests of the United States, the President may (1) exercise the authority of section 2360(a) of this title to transfer funds available to carry out part IV ofthis subchapter for use under this part without regard to the 20-percent increase limitation contained in such section, except that the total amount so transferred in any fiscal year may not exceed $15,000,000; and (2) in the event the President also determines that such unforeseen emergency requires the immediate provision of assistance under this part, direct the drawdown of commodities and services from the inventory and resources of any agency of the United States Government of an aggregate value not to exceed $25,000,000 in any fiscal year.
+If the President determines that, as the result of an unforeseen emergency, the provision of assistance under this part in amounts in excess of funds otherwise available for such assistance is important to the national interests of the United States, the President may (1) exercise the authority of section 2360(a) of this title to transfer funds available to carry out part IV of this subchapter for use under this part without regard to the 20-percent increase limitation contained in such section, except that the total amount so transferred in any fiscal year may not exceed $15,000,000; and (2) in the event the President also determines that such unforeseen emergency requires the immediate provision of assistance under this part, direct the drawdown of commodities and services from the inventory and resources of any agency of the United States Government of an aggregate value not to exceed $25,000,000 in any fiscal year.
 
 #### (d) Reimbursement of applicable appropriation, fund, or account
 
@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 99–83, §105(b)(1)(A), (B), designated existing provision
 
 Subsec. (d). Pub. L. 99–83, §105(b)(1)(C), added subsec. (d).
 
-1981—Subsec. (a). Pub. L. 97–113, §114(a), substituted “$19,000,000 for the fiscal year 1982 and $19,000,000 for the fiscal year 1983” for “$25,000,000 for the fiscal year 1981”.
+1981—Subsec. (a). Pub. L. 97–113, §114(a), substituted “$19,000,000 for the fiscal year 1982 and $19,000,000 for thefiscal year 1983” for “$25,000,000 for the fiscal year 1981”.
 
 Subsec. (b). Pub. L. 97–113, §114(b), increased to $15,000,000 from $10,000,000 amount of funds authorized to be transferred in any fiscal year and deleted restriction on transfer of earmarked funds.
 

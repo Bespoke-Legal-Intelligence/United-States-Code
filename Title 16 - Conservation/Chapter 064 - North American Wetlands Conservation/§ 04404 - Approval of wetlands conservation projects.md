@@ -20,7 +20,7 @@ The Council shall recommend wetlands conservation projects to the Migratory Bird
 
 #### (b) Recommendations to Migratory Bird Conservation Commission
 
-The Council shall submit to the Migratory Bird Conservation Commission by January 1 of each year, a description, including estimated costs, of the wetlands conservation projects which the Council has considered under subsection (a) of this section and which it recommends, in order of priority, that the Migratory Bird Conservation Commission approve for Federal funding under this chapter and section 669b(b) of this title. Solely for the purpose of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), recommendations by the Council for carrying out wetlands conservation projects under section 4405(a) of this title shall be considered Federal actions requiring the preparation of environmental assessments or, where appropriate, environmental impact statements.
+The Council shall submit to the Migratory Bird Conservation Commission by January 1 of each year, a description, including estimated costs, of the wetlands conservation projects which the Council has considered under subsection (a) of this section and which it recommends, in order of priority, that the Migratory Bird Conservation Commission approve for Federal funding under this chapter and section 669b(b) of this title. Solely for the purpose of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), recommendations by theCouncil for carrying out wetlands conservation projects under section 4405(a) of this title shall be considered Federal actions requiring the preparation of environmental assessments or, where appropriate, environmental impact statements.
 
 #### (c) Council procedures
 
@@ -46,7 +46,7 @@ The Migratory Bird Conservation Commission shall submit annually to the appropri
 
 #### References in Text
 
-The Endangered Species Act, referred to in subsec. (a)(5), probably means the Endangered Species Act of1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

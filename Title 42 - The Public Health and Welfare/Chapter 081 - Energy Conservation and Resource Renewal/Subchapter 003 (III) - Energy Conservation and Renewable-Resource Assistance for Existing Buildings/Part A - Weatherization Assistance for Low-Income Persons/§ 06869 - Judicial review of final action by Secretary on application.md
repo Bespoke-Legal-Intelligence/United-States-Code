@@ -6,7 +6,7 @@ If any applicant is dissatisfied with the Secretary's final action with respect 
 
 #### (b) Conclusiveness of findings of Secretary; remand; modified findings by Secretary; certification of record
 
-The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive. The court may, for good cause shown, remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify his previous action. The Secretary shall certify to the court the record of any such further proceedings. Such new or modified findingsof fact shall likewise be conclusive if supported by substantial evidence.
+The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive. The court may, for good cause shown, remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify his previous action. The Secretary shall certify to the court the record of any such further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Power of court to affirm or set aside action of Secretary; appeal to Supreme Court
 

@@ -50,7 +50,7 @@ The Secretary shall award grants for the study, evaluation, and analysis of educ
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Director of the United States Information Agency, is authorized to contract with independent nonprofit educational organizations to carry out the provisions of this subsection.
+&emsp;&emsp;The Secretary, in consultation with the Director of the United States InformationAgency, is authorized to contract with independent nonprofit educational organizations to carry out the provisions of this subsection.
 
 #### (B) Number
 
@@ -118,7 +118,7 @@ The Secretary shall award grants for the study, evaluation, and analysis of educ
 
 &emsp;&emsp;&emsp;&emsp;(II) effective participation in and improvement of an efficient market economy; and
 
-&emsp;&emsp;(C) assist participants from eligible countries and the United States in participating in international conferences on civics and government education and economic education for educational leaders, teacher trainers, scholars in related disciplines, and educational policymakers.
+&emsp;&emsp;(C) assist participants from eligible countries and the United States in participating in international conferences on civics andgovernment education and economic education for educational leaders, teacher trainers, scholars in related disciplines, and educational policymakers.
 
 #### (4) Participants
 
@@ -142,5 +142,5 @@ The Secretary shall award grants for the study, evaluation, and analysis of educ
 
 &emsp;There are authorized to be appropriated $10,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1999, to carry out subsection (c) of this section.
 
-(Pub. L. 103 227, title VI, §601, Mar. 31, 1994, 108 Stat. 200.)
+(Pub. L. 103–227, title VI, §601, Mar. 31, 1994, 108 Stat. 200.)
 

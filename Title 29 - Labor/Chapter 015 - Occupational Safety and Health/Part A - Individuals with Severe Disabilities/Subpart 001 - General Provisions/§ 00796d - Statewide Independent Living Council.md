@@ -8,7 +8,7 @@ To be eligible to receive financial assistance under this part, each State shall
 
 #### (1) Appointment
 
-&emsp;Members of the Council shall be appointed by the Governor or the appropriate entity within the State responsible for making appointments, within 90 days after October 29, 1992. The appointing authority shall select members after soliciting recommendations from representatives of organizations representing a broad range of individuals with disabilities and organizations interested in individuals with disabilities.
+&emsp;Members of the Council shall be appointed by the Governor or the appropriate entity within the State responsible for making appointments, within 90 days after October 29, 1992. The appointing authority shall selectmembers after soliciting recommendations from representatives of organizations representing a broad range of individuals with disabilities and organizations interested in individuals with disabilities.
 
 #### (2) Composition
 
@@ -118,7 +118,7 @@ The Council is authorized to hold such hearings and forums as the Council may de
 
 #### (2) Supervision and evaluation
 
-&emsp;Each Council shall, consistent with State law, supervise and evaluate such staff and other personnel as may be necessary to carry out the functions of the Council under this section.
+&emsp;Each Council shall, consistent with State law, supervise and evaluate such staff andother personnel as may be necessary to carry out the functions of the Council under this section.
 
 #### (3) Conflict of interest
 

@@ -38,11 +38,11 @@
 
 (3) Partnerships under this subsection may include local educational agencies, business concerns, nonprofit private organizations, institutions of higher education, professional mathematic and scientific associations, museums, libraries, educational television stations, and, if the State so desires, appropriate State agencies.
 
-(Pub. L. 98 377, title III, §305, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 100 418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, §305, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 #### Amendments
 
-1988—Subsecs. (a)(1), (b)(1). Pub. L. 100 418 substituted “part” for “subchapter” wherever appearing.
+1988—Subsecs. (a)(1), (b)(1). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
 #### Section Referred to in Other Sections
 

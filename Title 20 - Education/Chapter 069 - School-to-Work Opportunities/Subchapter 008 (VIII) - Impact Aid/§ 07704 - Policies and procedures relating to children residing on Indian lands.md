@@ -34,7 +34,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;(A) Any tribe, or its designee, which has students in attendance at a local educational agency may, in its discretion and without regard to the requirements of any other provision of law, file a written complaint with theSecretary regarding any action of a local educational agency taken pursuant to, or relevant to, the requirements of this section.
+&emsp;(A) Any tribe, or its designee, which has students in attendance at a local educational agency may, in its discretion and without regard to the requirements of any other provision of law, file a written complaint with the Secretary regarding any action of a local educational agency taken pursuant to, or relevant to, the requirements of this section.
 
 &emsp;(B) Within ten working days from receipt of a complaint, the Secretary shall—
 
@@ -74,21 +74,21 @@ The Secretary shall—
 
 #### (9) Rejection of determination
 
-&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
+&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of theEducation Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
 
 #### (f) Construction
 
 This section is based upon the special relationship between the Indian nations and the United States and nothing in this section shall be construed to relieve any State of any duty with respect to any citizens of that State.
 
-(Pub. L. 89 10, title VIII, §8004, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3759.)
+(Pub. L. 89–10, title VIII, §8004, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3759.)
 
 #### References in Text
 
-Section 1101(d) of the Education Amendments of 1978, referred to in subsec. (e)(9), is section 1101(d) of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2315, set out below.
+Section 1101(d) of the Education Amendments of 1978, referred to in subsec. (e)(9), is section 1101(d) of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2315, set out below.
 
 #### Contract Authority of Indian Tribes if Remedial Action Is Not Taken; Election To Have Services Provided by Bureau Schools; Special Regulations
 
-Section 1101(d) of Pub. L. 95 561 directed Secretary of Health, Education, and Welfare, in cooperation with Commissioner of Education, within one year of Nov. 1, 1978, to promulgate special regulations which would provide that where a local educational agency had not undertaken the remedial action required by the Commissioner under 20 U.S.C. 240(b)(3)(C)(vi), the affected tribes could elect for the Bureau of Indian Affairs to provide educational services provided by the local educational agency.
+Section 1101(d) of Pub. L. 95–561 directed Secretary of Health, Education, and Welfare, in cooperation with Commissioner of Education, within one year of Nov. 1, 1978, to promulgate special regulations which would provide that where a local educational agency had not undertaken the remedial action required by the Commissioner under 20 U.S.C. 240(b)(3)(C)(vi), the affected tribes could elect for the Bureau of Indian Affairs to provide educational services provided by the local educational agency.
 
 #### Section Referred to in Other Sections
 

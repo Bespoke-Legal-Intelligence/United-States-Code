@@ -4,7 +4,7 @@ The following provisions are made with respect to the special needs of the lepro
 
 &emsp;(1) So long as the patients may direct, the Secretary shall not permit public visitation to the settlement in excess of one hundred persons in any one day.
 
-&emsp;(2) Health care for the patients shall continue to be provided by the State of Hawaii, with assistance from Federal programs other than those authorized herein.
+&emsp;(2) Health care for the patients shall continue to be provided by the State of Hawaii,with assistance from Federal programs other than those authorized herein.
 
 &emsp;(3) Notwithstanding any other provision of law, the Secretary shall provide patients a first right of refusal to provide revenue-producing visitor services, including such services as providing food, accommodations, transportation, tours, and guides.
 

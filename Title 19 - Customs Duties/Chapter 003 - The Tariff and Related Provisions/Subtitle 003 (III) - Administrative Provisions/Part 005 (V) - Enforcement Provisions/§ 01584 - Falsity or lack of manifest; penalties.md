@@ -36,7 +36,7 @@ Sections 802(17) and 802(15) of title 21, referred to in subsec. (a)(2), were re
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §584, 42 Stat. 980. Section 584 of the 1922 act was superseded by section 584 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §584, 42 Stat. 980. Section 584 of the 1922 act was superseded by section 584 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions dealing with the subject matter of this section were contained in R.S. §2809, imposing a penalty and providing for forfeiture for bringing in merchandise not included in the manifest, or without a manifest; section 2810, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 246, making an exception in case of mistake or accident, etc.; section 2814, imposing penalties for failing to produce, or deliver copies of the manifests, etc.; section 2815, requiring officers to report violations; section 2887, imposing a penalty if any package reported was not found, or if the merchandise did not agree with the report or manifest, etc. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

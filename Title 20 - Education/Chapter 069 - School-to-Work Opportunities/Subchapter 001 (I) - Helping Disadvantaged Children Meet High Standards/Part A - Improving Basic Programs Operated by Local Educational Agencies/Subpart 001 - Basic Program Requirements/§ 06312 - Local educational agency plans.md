@@ -24,13 +24,13 @@ Each local educational agency plan shall include—
 
 &emsp;(2) at the local educational agency's discretion, a description of any other indicators that will be used in addition to the assessments described in paragraph (1) for the uses described in such paragraph;
 
-&emsp;(3) a description of the strategy the local educational agency will use to provide professional development for teachers, and, whereappropriate, pupil services personnel, administrators, parents and other staff, including local educational agency level staff in accordance with section 6320 of this title;
+&emsp;(3) a description of the strategy the local educational agency will use to provide professional development for teachers, and, where appropriate, pupil services personnel, administrators, parents and other staff, including local educational agency level staff in accordance with section 6320 of this title;
 
 &emsp;(4) a description of how the local educational agency will coordinate and integrate services provided under this part with other educational services at the local educational agency or individual school level, such as—
 
 &emsp;&emsp;(A) Even Start, Head Start, and other preschool programs, including plans for the transition of participants in such programs to local elementary school programs, vocational education programs, and school-to-work transition programs; and
 
-&emsp;&emsp;(B) services for children with limited English proficiency or with disabilities, migratory children served under part C of this subchapter or who were formerly eligible for services under part C of this subchapter in the two-year period preceding October 20, 1994, neglected or delinquent youth and youth at risk of dropping out served under part D of this subchapter, homeless children, and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
+&emsp;&emsp;(B) services for children with limited English proficiency or with disabilities, migratory children served under part C of this subchapter or who were formerly eligible for services under part C of this subchapter in the two-year period preceding October 20, 1994, neglected or delinquent youth and youth at risk of dropping out served under part D of this subchapter, homeless children,and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
 
 &emsp;(5) a description of the poverty criteria that will be used to select school attendance areas under section 6313 of this title;
 
@@ -54,7 +54,7 @@ Each local educational agency plan shall include—
 
 &emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State content standards and State student performance standards;
 
-&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6317 of this title, including taking corrective actions under section 6317(c)(4)<sup>1</sup> of this title;
+&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6317 of this title, including taking corrective actions under section 6317(c)(4) <sup>1</sup> of this title;
 
 &emsp;&emsp;(E) coordinate and collaborate, to the extent feasible and necessary as determined by the local educational agency, with other agencies providing services to children, youth, and families, including health and social services;
 
@@ -70,7 +70,7 @@ Each local educational agency plan shall include—
 
 &emsp;&emsp;(A) in fiscal year 1995, shall consult with the Secretary of Health and Human Services on the implementation of such subparagraph and shall establish procedures (taking into consideration existing State and local laws, and local teacher contracts) to assist local educational agencies to comply with such subparagraph; and
 
-&emsp;&emsp;(B) in fiscal year 1996, shall disseminate to local educational agencies the Head Start Performance Standards revised pursuant to section 9836a(a) of title 42, and such agencies effected<sup>2</sup> by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of otherFederal, State, and local funding sources to assist in compliance with such subparagraph.
+&emsp;&emsp;(B) in fiscal year 1996, shall disseminate to local educational agencies the Head Start Performance Standards revised pursuant to section 9836a(a) of title 42, and such agencies effected <sup>2</sup> by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of other Federal, State, and local funding sources to assist in compliance with such subparagraph.
 
 #### (3) Inapplicability
 
@@ -104,19 +104,19 @@ Each local educational agency plan shall—
 
 The local educational agency plan shall reflect the shared responsibility of schools, teachers, and the local educational agency in making decisions regarding activities under sections 6314 and 6315 of this title.
 
-(Pub. L. 89 10, title I, §1112, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3529.)
+(Pub. L. 89–10, title I, §1112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3529.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-Section 9846 of title 42, referred to in subsec. (c)(1)(H), was in the original a reference to section 651 of the Head Start Act, which was amended and renumbered as section 650 by Pub. L. 103 252, title I, §118, May 18, 1994, 108 Stat. 648.
+Section 9846 of title 42, referred to in subsec. (c)(1)(H), was in the original a reference to section 651 of the Head Start Act, which was amended and renumbered as section 650 by Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6311, 6313, 6314, 6317, 6319, 6320, 7814, 8857 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be section “6317(c)(5)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “6317(c)(5)”.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “affected”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “affected”.</i>
 

@@ -26,9 +26,9 @@ The Congress finds that—
 
 In order to protect public safety, to deter the introduction of nonconforming fasteners into commerce, to improve the traceability of fasteners used in critical applications, and generally to provide commercial and governmental customers with greater assurance that fasteners meet stated specifications, it is the purpose of this chapter to create procedures for the testing, certification, and distribution of certain fasteners used in commerce within the United States.
 
-(Pub. L. 101 592, §2, Nov. 16, 1990, 104 Stat. 2943.)
+(Pub. L. 101–592, §2, Nov. 16, 1990, 104 Stat. 2943.)
 
 #### Short Title
 
-Section 1 of Pub. L. 101 592 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Fastener Quality Act’.”
+Section 1 of Pub. L. 101–592 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Fastener Quality Act’.”
 

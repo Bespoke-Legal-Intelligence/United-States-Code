@@ -24,11 +24,11 @@ The Secretary of Energy shall consult with the Administrator of the Environmenta
 
 Nothing contained in this chapter shall be construed to reduce in any way the responsibilities of the Secretary of Energy for automotive research, development, and demonstration under the Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.) and the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.).
 
-(Pub. L. 95 238, title III, §306, Feb. 25, 1978, 92 Stat. 81.)
+(Pub. L. 95–238, title III, §306, Feb. 25, 1978, 92 Stat. 81.)
 
 #### References in Text
 
-The Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.), referred to in subsec. (e), is Pub. L. 93 438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), referred to in subsec. (e), is Pub. L. 93 577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 

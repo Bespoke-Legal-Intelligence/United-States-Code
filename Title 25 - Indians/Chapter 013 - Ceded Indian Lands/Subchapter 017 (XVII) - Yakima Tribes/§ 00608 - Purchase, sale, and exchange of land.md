@@ -20,7 +20,7 @@ Lands and interests in lands acquired by the Secretary pursuant to subsection (a
 
 #### (d) Terms and conditions
 
-The Secretary shall obtain the advice and consent of the Yakima tribal council before entering into any of the above transactions involving the acquisition or disposition of tribal land. The terms and conditions of any such transaction, including the price at which any land is so purchased or sold and the valuation of any lands so exchanged, shall be mutually agreed upon by the Secretary, the Yakima tribal council, and the individual Indian or Indians concerned. Any such exchange of lands shall be effected on the basis of approximately equal consideration with due allowance for the value of improvements in determining the value of such lands.
+The Secretary shall obtain the advice and consent of the Yakima tribal council before entering into any of the above transactions involving the acquisition or disposition of tribal land. The terms and conditions of any such transaction, including the price at which any land is so purchased or sold and the valuation of any lands soexchanged, shall be mutually agreed upon by the Secretary, the Yakima tribal council, and the individual Indian or Indians concerned. Any such exchange of lands shall be effected on the basis of approximately equal consideration with due allowance for the value of improvements in determining the value of such lands.
 
 (July 28, 1955, ch. 423, §1, 69 Stat. 392; Aug. 31, 1964, Pub. L. 88–540, §1, 78 Stat. 747; Nov. 1, 1988, Pub. L. 100–581, title II, §213, 102 Stat. 2941; May 24, 1990, Pub. L. 101–301, §1(a)(3), (b), 104 Stat. 206.)
 

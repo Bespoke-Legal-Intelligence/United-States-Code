@@ -8,7 +8,7 @@ In the case of any estate with respect to which an election has been made under 
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “section 6166 lien property” means interests inreal and other property to the extent such interests—
+&emsp;For purposes of this section, the term “section 6166 lien property” means interests in real and other property to the extent such interests—
 
 &emsp;&emsp;(A) can be expected to survive the deferral period, and
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (2) Required interest amount
 
-&emsp;The term “required interest amount” means the aggregate amount of interest which will be payable over the first 4 years of the deferral period with respect to the deferred amount\(determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
+&emsp;The term “required interest amount” means the aggregate amount of interest which will be payable over the first 4 years of the deferral period with respect to the deferred amount (determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
 
 #### (3) Deferral period
 

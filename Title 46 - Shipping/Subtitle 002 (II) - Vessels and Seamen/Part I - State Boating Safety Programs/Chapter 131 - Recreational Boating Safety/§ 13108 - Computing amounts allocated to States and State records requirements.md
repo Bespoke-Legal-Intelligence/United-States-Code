@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 46:1480
 
-Section 13108 sets forth the manner that the Secretary shall compute the amounts to be allocated to the States, State record requirements, and authority for the General Accounting Office to review the records when conducting audits.
+Section 13108 sets forth the manner that the Secretary shall compute the amounts to be allocated tothe States, State record requirements, and authority for the General Accounting Office to review the records when conducting audits.
 
 #### Amendments
 

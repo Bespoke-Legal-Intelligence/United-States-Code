@@ -10,7 +10,7 @@ The Rules concerning lights shall be complied with from sunset to sunrise, and d
 
 #### (c) Lights during daylight hours in restricted visibility; other circumstances
 
-The lights prescribed by these Rules shall, if carried, also be exhibited from sunrise to sunsetin restricted visibility and may be exhibited in all other circumstances when it is deemed necessary.
+The lights prescribed by these Rules shall, if carried, also be exhibited from sunrise to sunset in restricted visibility and may be exhibited in all other circumstances when it is deemed necessary.
 
 #### (d) Rules concerning shapes; compliance by day
 

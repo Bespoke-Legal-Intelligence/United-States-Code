@@ -8,5 +8,5 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 From the sums appropriated under subsection (a) of this section for any fiscal year, the Secretary shall reserve not less than 25 percent of such funds for such year to carry out subpart 3 of this part.
 
-(Pub. L. 89 10, title VII, §7103, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3718.)
+(Pub. L. 89–10, title VII, §7103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3718.)
 

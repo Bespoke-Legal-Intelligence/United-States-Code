@@ -46,7 +46,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (ii) Qualified deficit
 
-&emsp;&emsp;&emsp;The term “qualified deficit” means any deficit in earnings and profits of the controlled foreign corporation for any prior taxable year which began after December 31, 1986, and for which the controlled foreign corporation was a controlled foreigncorporation; but only to the extent such deficit—
+&emsp;&emsp;&emsp;The term “qualified deficit” means any deficit in earnings and profits of the controlled foreign corporation for any prior taxable year which began after December 31, 1986, and for which the controlled foreign corporation was a controlled foreign corporation; but only to the extent such deficit—
 
 &emsp;&emsp;&emsp;&emsp;(I) is attributable to the same qualified activity as the activity giving rise to the income being offset, and
 
@@ -94,7 +94,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (II) Special rules for affiliated groups
 
-&emsp;&emsp;&emsp;&emsp;In the case of an affiliated group of corporations (within the meaning of section 1504 but without regard to section 1504(b)(3) and by substituting “more than 50 percent” for “at least 80 percent” each place it appears), no election may be made under subclause (I) for any controlled foreign corporation unless such election is made for all other controlled foreign corporations who are members of such group and who were created or organized under the laws of the same country as such controlled foreign corporation. For purposes of clause (v), in determining whether any controlled corporation described in the preceding sentence is a qualified insurance company, all such corporations shall be treated as 1 corporation.
+&emsp;&emsp;&emsp;&emsp;In the case of an affiliated group of corporations (within the meaning of section 1504 but without regard to section 1504(b)(3) and by substituting “more than 50 percent” for “at least 80 percent” each place it appears), no election may be made under subclause (I) for any controlled foreign corporation unless such election is made for all other controlledforeign corporations who are members of such group and who were created or organized under the laws of the same country as such controlled foreign corporation. For purposes of clause (v), in determining whether any controlled corporation described in the preceding sentence is a qualified insurance company, all such corporations shall be treated as 1 corporation.
 
 #### (C) Certain deficits of member of the same chain of corporations may be taken into account
 
@@ -150,7 +150,7 @@ Subsec. (a)(1). Pub. L. 99–514, §1221(b)(3)(A), amended par. (1) generally. P
 
 Subsec. (b). Pub. L. 99–514, §1876(c)(1), inserted last sentence.
 
-Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows: “For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
+Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows:“For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
 
 &emsp;“(1) an amount equal to—
 

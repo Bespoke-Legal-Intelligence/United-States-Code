@@ -2,7 +2,7 @@
 
 #### (a) Fees; determination by President; reduction
 
-A fee shall be charged for each guaranty issued under section 2182 or 2182a of this title inan amount to be determined by the President. In the event the fee to be charged for such type of guaranty is reduced, fees to be paid under existing contracts for the same type of guaranty may be similarly reduced.
+A fee shall be charged for each guaranty issued under section 2182 or 2182a of this title in an amount to be determined by the President. In the event the fee to be charged for such type of guaranty is reduced, fees to be paid under existing contracts for the same type of guaranty may be similarly reduced.
 
 #### (b) Accumulated and existing fees; expenditure of fees; revolving fund account; investments; use of investment income
 
@@ -10,7 +10,7 @@ The amount of $50,000,000 of fees accumulated under prior investment guaranty pr
 
 #### (c) Priorities of funds for guaranty payments
 
-Any payments made to discharge liabilities under guaranties issued under section 2182 of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
+Any payments made to discharge liabilities under guaranties issued under section 2182 of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment madeto discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
 
 #### (d) Guaranties as obligations backed by full faith and credit of United States
 
@@ -50,7 +50,7 @@ Guaranties shall be issued under section 2182 of this title only for housing pro
 
 #### References in Text
 
-The Foreign Assistance Act of 1969, referred to in subsecs. (b), (c), (d), and (g), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of this subpart by the 1969 Act.
+The Foreign Assistance Act of 1969, referred to in subsecs. (b), (c), (d), and (g), is Pub. L. 91–175, Dec. 30, 1969,83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of this subpart by the 1969 Act.
 
 Section 2200 of this title, referred to in subsec. (d), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by section 2182a of this title. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and is classified to section 2200 of this title.
 

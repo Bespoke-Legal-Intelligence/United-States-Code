@@ -24,7 +24,7 @@ The Secretary, subject to the availability of appropriations, shall use amounts 
 
 The Secretary, in consultation with appropriate representatives of industry, the conservation community, the Secretariat of the Convention, and other national and international bodies, shall—
 
-&emsp;(1) review opportunities for a voluntary program of labeling exotic birds, certification of exotic bird breeding facilities and retail outlets, and provision of privately organized orfunded technical assistance to other nations; and
+&emsp;(1) review opportunities for a voluntary program of labeling exotic birds, certification of exotic bird breeding facilities and retail outlets, and provision of privately organized or funded technical assistance to other nations; and
 
 &emsp;(2) report to the Congress the results of this review within 2 years after October 23, 1992.
 

@@ -6,7 +6,7 @@ Nothing in this chapter authorizes the use of Federal law enforcement personnel 
 
 #### (b) Federal supervision
 
-Nothing in this chapter shall be construed to authorize the Attorney General or the Federal law enforcement community to exercise any direction, supervision, or control over any police force or other criminal justice agency of an applicant for Federal law enforcement assistance.
+Nothing in this chapter shall be construed to authorize the Attorney General or the Federallaw enforcement community to exercise any direction, supervision, or control over any police force or other criminal justice agency of an applicant for Federal law enforcement assistance.
 
 #### (c) Racial balance in criminal justice agencies
 

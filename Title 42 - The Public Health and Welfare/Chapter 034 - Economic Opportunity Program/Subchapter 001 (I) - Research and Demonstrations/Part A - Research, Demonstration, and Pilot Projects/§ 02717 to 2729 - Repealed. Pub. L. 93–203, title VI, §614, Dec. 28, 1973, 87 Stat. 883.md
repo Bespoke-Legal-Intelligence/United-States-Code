@@ -1,6 +1,6 @@
 ### §§2717 to 2729. Repealed. Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883
 
-Section 2717, Pub. L. 88–452, title I, §107, Aug. 20, 1964, 78 Stat. 511; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 675, provided for the establishment of Job Corps centers.
+Section 2717, Pub. L. 88–452, title I, §107, Aug. 20, 1964, 78 Stat. 511; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 675, provided for establishment of Job Corps centers.
 
 Section 2718, Pub. L. 88–452, title I, §108, Aug. 20, 1964, 78 Stat. 511; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 676, covered Job Corps program activities.
 
@@ -10,7 +10,7 @@ Section 2720, Pub. L. 88–452, title I, §110, Aug. 20, 1964, 78 Stat. 511; Pub
 
 Section 2721, Pub. L. 88–452, title I, §111, as added Pub. L. 89–794, title I, §110, Nov. 8, 1966, 80 Stat. 1453; amended Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 677, covered community participation in Job Corps activities.
 
-Section 2722, Pub. L. 88–452, title I, §111–1, as added Pub. L. 89–794, title I, §111, Nov. 8, 1966, 80 Stat. 1454, provided for experimental and demonstration projects and required the Director to report to Congress no later than Mar. 1, 1968.
+Section 2722, Pub. L. 88–452, title I, §111–1, as added Pub. L. 89–794, title I, §111, Nov. 8, 1966, 80 Stat. 1454, provided for experimental and demonstration projects and directed Director to report to Congress no later than Mar. 1, 1968.
 
 Section 2723, Pub. L. 88–452, title I, §112, as added Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 678, provided for counseling and job placement.
 

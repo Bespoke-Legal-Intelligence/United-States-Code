@@ -14,7 +14,7 @@
 
 #### Effective Date
 
-Section effective with respect to conduct described in section 53 of this title which occurs on or after Nov. 7, 1986, see section 3(a) of Pub. L. 99–634, set out as an Effective Date of 1986 Amendment note under section 51 of this title.
+Section effective with respect to conduct described in section 53 of this title which occurs on or after Nov. 7,1986, see section 3(a) of Pub. L. 99–634, set out as an Effective Date of 1986 Amendment note under section 51 of this title.
 
 #### Section Referred to in Other Sections
 

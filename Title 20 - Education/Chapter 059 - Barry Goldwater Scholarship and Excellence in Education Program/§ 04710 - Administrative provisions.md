@@ -4,9 +4,9 @@
 
 In order to carry out this chapter, the Foundation may—
 
-&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case may an employee other than the Executive Secretary be compensated at a rate to exceed the maximum rate provided for employees in grade GS 15 of the General Schedule under section 5332 of title 5;
+&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case may an employee other than the Executive Secretary be compensated at a rate to exceed the maximum rate provided for employees in grade GS–15 of the General Schedule under section 5332 of title 5;
 
-&emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS 18 under section 5332 of such title;
+&emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 under section 5332 of such title;
 
 &emsp;(3) prescribe such regulations as it considers necessary governing the manner in which its functions shall be carried out;
 
@@ -24,13 +24,13 @@ In order to carry out this chapter, the Foundation may—
 
 The Foundation shall submit to the President and to Congress an annual report of its operations under this chapter.
 
-(Pub. L. 99 661, div. A, title XIV, §1411, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 103 160, div. A, title XI, §1179(b), Nov. 30, 1993, 107 Stat. 1770.)
+(Pub. L. 99–661, div. A, title XIV, §1411, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 103–160, div. A, title XI, §1179(b), Nov. 30, 1993, 107 Stat. 1770.)
 
 #### Amendments
 
-1993—Subsec. (a)(7). Pub. L. 103 160 substituted “the Washington, District of Columbia, metropolitan area” for “the District of Columbia”.
+1993—Subsec. (a)(7). Pub. L. 103–160 substituted “the Washington, District of Columbia, metropolitan area” for “the District of Columbia”.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -26,7 +26,7 @@ In the performance of their functions, the members, employees, or other personne
 
 #### (e) Designation of Acting Chairman; quorum; seal
 
-The Chairman of the Commission may designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. The Commission shall have an official seal which shall be judicially noticed.
+The Chairman of the Commission may designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. TheCommission shall have an official seal which shall be judicially noticed.
 
 #### (f) Rules
 
@@ -84,9 +84,11 @@ Report.—The Commission shall transmit the study and the model regulations to C
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1719, provided in part: “That notwithstanding any other provision of law, not to exceed $166,173,000 of revenues from fees and annual charges, and other services and collections in fiscal year 1995, shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1995, so as to result in a final fiscal year 1995 appropriation estimated at not more than $0.”
+Pub. L. 104–46, title III, Nov. 13, 1995, 109 Stat. 416, provided in part: “That notwithstanding any other provision of law, not to exceed $131,290,000 of revenues from fees and annual charges, and other services and collections in fiscal year 1996, shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1996 so as to result in a final fiscal year 1996 appropriation estimated at not more than $0.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1719.
 
 Pub. L. 103–126, title III, Oct. 28, 1993, 107 Stat. 1330.
 

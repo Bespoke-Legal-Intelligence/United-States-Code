@@ -116,7 +116,7 @@ Amendment by section 128(d)(3) of Pub. L. 97–248 effective Sept. 3, 1982, see 
 
 #### Effective Date of 1972 Amendment
 
-Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to providers of services for fiscal years beginning after the fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
+Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to providers of services for fiscalyears beginning after the fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
 #### Section Referred to in Other Sections
 

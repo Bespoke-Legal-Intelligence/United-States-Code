@@ -22,7 +22,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Sept. 2, 1958, Pub. L. 85–861, §1(40), 72 Stat. 1456; July 12, 1982, Pub. L. 97–214, §3(d)(2), (3), (e)(2), 96 Stat. 170; Dec. 3, 1985, Pub. L. 99–167, title VII, §702(b), 99 Stat. 985; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(11), 100 Stat. 3993; renumbered §18236 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Sept. 2, 1958, Pub. L. 85–861, §1(40), 72 Stat. 1456; July 12, 1982, Pub. L. 97–214, §3(d)(2), (3), (e)(2), 96Stat. 170; Dec. 3, 1985, Pub. L. 99–167, title VII, §702(b), 99 Stat. 985; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(11), 100 Stat. 3993; renumbered §18236 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), 108 Stat. 3010.)
 
 Historical and Revision Notes<br>1956
 
@@ -114,7 +114,7 @@ Subsec. (b). Pub. L. 85–861 substituted “A contribution made for an armory u
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and toconstruction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
 #### Section Referred to in Other Sections
 

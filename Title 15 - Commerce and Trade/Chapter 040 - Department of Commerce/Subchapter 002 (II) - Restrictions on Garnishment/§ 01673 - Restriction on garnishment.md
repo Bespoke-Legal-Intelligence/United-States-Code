@@ -32,23 +32,23 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 No court of the United States or any State, and no State (or officer or agency thereof), may make, execute, or enforce any order or process in violation of this section.
 
-(Pub. L. 90 321, title III, §303, May 29, 1968, 82 Stat. 163; Pub. L. 95 30, title V, §501(e)(1) (3), May 23, 1977, 91 Stat. 161, 162; Pub. L. 95 598, title III, §312(a), Nov. 6, 1978, 92 Stat. 2676.)
+(Pub. L. 90–321, title III, §303, May 29, 1968, 82 Stat. 163; Pub. L. 95–30, title V, §501(e)(1)–(3), May 23, 1977, 91 Stat. 161, 162; Pub. L. 95–598, title III, §312(a), Nov. 6, 1978, 92 Stat. 2676.)
 
 #### Amendments
 
-1978—Subsec. (b)(1)(B). Pub. L. 95 598 substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
+1978—Subsec. (b)(1)(B). Pub. L. 95–598 substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
 
-1977—Subsec. (b). Pub. L. 95 30, §501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
+1977—Subsec. (b). Pub. L. 95–30, §501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
 
-Subsec. (c). Pub. L. 95 30, §501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
+Subsec. (c). Pub. L. 95–30, §501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95 598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95 598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Effective Date of 1977 Amendments
 
-Section 501(e)(5) of Pub. L. 95 30 provided that: “The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
+Section 501(e)(5) of Pub. L. 95–30 provided that: “The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
 
 #### Cross References
 
@@ -56,5 +56,5 @@ Enforcement of legal obligations to provide child support and make alimony payme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1675 of this title; title 5 section 5520a; title 28 sections 3002, 3003; title 29 section 1056; title 42 sections 665, 666, 1396g 1.
+This section is referred to in section 1675 of this title; title 5 section 5520a; title 28 sections 3002, 3003; title 29 section 1056; title 42 sections 665, 666, 1396g–1.
 

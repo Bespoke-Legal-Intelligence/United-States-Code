@@ -1,6 +1,6 @@
 ### §578. Officers
 
-(a) The officers of the corporation shall consist of a president, vice president, secretary,treasurer, historian, and such other officers as may be determined by bylaw.
+(a) The officers of the corporation shall consist of a president, vice president, secretary, treasurer, historian, and such other officers as may be determined by bylaw.
 
 The officers shall have such powers, consistent with this charter, as may be provided by bylaw.
 

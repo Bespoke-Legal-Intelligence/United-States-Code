@@ -84,7 +84,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that—
 
-&emsp;&emsp;(A) the applicant will establish such fiscal control and fund accounting procedures asmay be necessary to ensure the proper disbursal of, and accounting for, amounts received by the applicant under such section; <sup>2</sup> and
+&emsp;&emsp;(A) the applicant will establish such fiscal control and fund accounting procedures as may be necessary to ensure the proper disbursal of, and accounting for, amounts received by the applicant under such section; <sup>2</sup> and
 
 &emsp;&emsp;(B) upon request, the applicant will provide records maintained pursuant to paragraph (1) to the Secretary or the Comptroller of the United States for purposes of auditing the expenditures by the applicant of the grant.
 

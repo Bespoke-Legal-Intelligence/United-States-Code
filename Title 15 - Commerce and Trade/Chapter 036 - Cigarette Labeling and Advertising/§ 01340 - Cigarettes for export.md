@@ -10,7 +10,7 @@ Another section 12 of Pub. L. 89–92, July 27, 1965, 79 Stat. 284, is set out a
 
 #### Prior Provisions
 
-A prior section 12 of Pub. L. 89–92 was redesignated section 13 and is set out as a Separability note under section 1331 of this title.
+A prior section 12 of Pub. L. 89–92 was renumbered section 13 and is set out as a Separability note under section 1331 of this title.
 
 #### Effective Date
 

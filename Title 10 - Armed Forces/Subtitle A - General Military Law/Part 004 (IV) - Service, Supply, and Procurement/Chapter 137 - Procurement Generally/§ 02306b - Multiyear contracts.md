@@ -48,7 +48,7 @@ Protection of Existing Authority.—The regulations shall provide that, to the e
 
 (f)
 
-Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscalyear, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
+Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
 
 &emsp;(1) appropriations originally available for the performance of the contract concerned;
 
@@ -94,7 +94,7 @@ Multiyear Contract Defined.—For the purposes of this subsection, a multiyear c
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

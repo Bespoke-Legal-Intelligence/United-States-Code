@@ -6,11 +6,11 @@ Congress finds and declares that—
 
 &emsp;(b) the settlement should be accomplished rapidly, with certainty, in conformity with the real economic and social needs of Natives, without litigation, with maximum participation by Natives in decisions affecting their rights and property, without establishing any permanent racially defined institutions, rights, privileges, or obligations, without creating a reservation system or lengthy wardship or trusteeship, and without adding to the categories of property and institutions enjoying special tax privileges or to the legislation establishing special relationships between the United States Government and the State of Alaska;
 
-&emsp;(c) no provision of this chapter shall replace or diminish any right, privilege, or obligation of Natives as citizens of the United States or of Alaska, or relieve, replace, or diminish any obligation of the United States or of the State or Alaska to protect and promote the rights or welfare of Natives as citizens of the United States or of Alaska; the Secretary is authorized and directed, together with other appropriate agencies of the United States Government, to make a study of all Federal programs primarily designed to benefit Native people and to report back to the Congress with his recommendations for the future management and operation of these programs within three years of December 18, 1971;
+&emsp;(c) no provision of this chapter shall replace or diminish any right, privilege, or obligation of Natives as citizens of the United States or of Alaska, or relieve, replace, or diminish any obligation of the United States or of the State or Alaska to protect and promote the rights or welfare of Natives as citizens of the United States or of Alaska; the Secretary is authorized and directed, together with other appropriate agencies of the United States Government, to make a study of all Federal programsprimarily designed to benefit Native people and to report back to the Congress with his recommendations for the future management and operation of these programs within three years of December 18, 1971;
 
 &emsp;(d) no provision of this chapter shall constitute a precedent for reopening, renegotiating, or legislating upon any past settlement involving land claims or other matters with any Native organizations, or any tribe, band, or identifiable group of American Indians;
 
-&emsp;(e) no provision of this chapter shall effect a change or changes in the petroleum reserve policy reflected in sections 7421 through 7438 of title 10 except as specifically provided in this chapter;
+&emsp;(e) no provision of this chapter shall effect a change or changes in the petroleum reserve policy reflected in sections 7421 through 7438 <sup>1</sup> of title 10 except as specifically provided in this chapter;
 
 &emsp;(f) no provision of this chapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, nor to grant implied consent to Natives to sue the United States or any of its officers with respect to the claims extinguished by the operation of this chapter; and
 
@@ -19,6 +19,8 @@ Congress finds and declares that—
 (Pub. L. 92–203, §2, Dec. 18, 1971, 85 Stat. 688.)
 
 #### References in Text
+
+Section 7434 of title 10, referred to in subsec. (e), was repealed by Pub. L. 104–66, title I, §1051(g), Dec. 21, 1995, 109 Stat. 716.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
@@ -114,7 +116,7 @@ Statement of Purpose.—The purpose of the limitation on civil actions establish
 
 Pub. L. 100–241, §17, Feb. 3, 1988, 101 Stat. 1814, provided that:
 
-“(a) No provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see ShortTitle of 1988 Amendment note above\], exercise of authority pursuant to this Act, or change made by, or pursuant to, this Act in the status of land shall be construed to validate or invalidate or in any way affect—
+“(a) No provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\], exercise of authority pursuant to this Act, or change made by, or pursuant to, this Act in the status of land shall be construed to validate or invalidate or in any way affect—
 
 &emsp;“(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 461 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
 
@@ -125,4 +127,6 @@ Pub. L. 100–241, §17, Feb. 3, 1988, 101 Stat. 1814, provided that:
 &emsp;“(1) to diminish or enlarge the ability of the Federal Government to assess, collect, or otherwise enforce any Federal tax, or
 
 &emsp;“(2) to affect, for Federal tax purposes, the valuation of any stock issued by a Native Corporation.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

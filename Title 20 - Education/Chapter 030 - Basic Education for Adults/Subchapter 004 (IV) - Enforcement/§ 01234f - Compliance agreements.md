@@ -22,11 +22,11 @@ A compliance agreement under this section shall contain—
 
 If a recipient fails to comply with the terms and conditions of a compliance agreement under this section, the Secretary may consider that compliance agreement to be no longer in effect, and the Secretary may take any action authorized by law with respect to the recipient.
 
-(Pub. L. 90 247, title IV, §457, as added Pub. L. 100 297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 355.)
+(Pub. L. 90–247, title IV, §457, as added Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 355.)
 
 #### Effective Date
 
-Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100 297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
+Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@
 
 &emsp;(C) the participating employers and employee organization or organizations had no reasonable recourse other than termination.
 
-(4) If the corporation determines, under paragraph (2) or (3), that it will pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980, the corporation—
+(4) If the corporation determines, under paragraph (2) or (3), that it will pay benefits guaranteed under this subchapter with respect to amultiemployer plan which terminates before August 1, 1980, the corporation—
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(ii) had notified a local union representative on May 14, 1980, that the employer had tentatively decided to discontinue operations and relocate to a new facility in another State, and
 
-&emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had been entered into, and construction of the new facility had begun before September 26, 1980,
+&emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had beenentered into, and construction of the new facility had begun before September 26, 1980,
 
 > any withdrawal liability incurred by the employer pursuant to part 1 of subtitle E of this subchapter as a result of the complete or partial withdrawal of the employer from the multiemployer plan before June 30, 1981, shall be void.
 
@@ -164,9 +164,9 @@ Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30,96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
+Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Actions Taken Before Regulations Are Prescribed
 

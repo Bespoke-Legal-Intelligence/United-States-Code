@@ -18,7 +18,7 @@ Fiscal years 1989–1991.—
 
 &emsp;&emsp;(A)
 
-General rule.—In fiscal year <sup>2</sup> 1989, 1990, and 1991 on October 1, or as soon as possible thereafter, the Secretary shall allocate among the States amounts sufficient to ensure that a State's percentage of the total apportionments in each such fiscal year and allocations for the prior fiscal year for Federal-aid highway programs (except allocations for forest highways, Indian reservation roads, and parkways and park roads in accordance with section 202 of this title, highway related safety grants authorized by section 402 of this title, nonconstruction safety grants authorized by sections 402, 406, and 408 of this title, and Bureau of Motor Carrier Safety Grants authorized by section 31104 of title 49) shall not be less than 85 percent of the percentage of estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund, other than the Mass Transit Account, in the latest fiscal year for which data are available.
+General rule.—In fiscal year <sup>2</sup> 1989, 1990, and 1991 on October 1, or as soon as possible thereafter, the Secretary shall allocateamong the States amounts sufficient to ensure that a State's percentage of the total apportionments in each such fiscal year and allocations for the prior fiscal year for Federal-aid highway programs (except allocations for forest highways, Indian reservation roads, and parkways and park roads in accordance with section 202 of this title, highway related safety grants authorized by section 402 of this title, nonconstruction safety grants authorized by sections 402, 406, and 408 of this title, and Bureau of Motor Carrier Safety Grants authorized by section 31104 of title 49) shall not be less than 85 percent of the percentage of estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund, other than the Mass Transit Account, in the latest fiscal year for which data are available.
 
 &emsp;&emsp;(B)
 
@@ -28,7 +28,7 @@ Exception for fiscal year 1989.—Notwithstanding subparagraph (A), the amount a
 
 Thereafter.—In fiscal year 1992 and each fiscal year thereafter on October 1, or as soon as possible thereafter, the Secretary shall allocate among the States amounts sufficient to ensure that a State's percentage of the total apportionments in each such fiscal year and allocations for the prior fiscal year for Interstate construction, Interstate maintenance, Interstate highway substitute, National Highway System, surface transportation program, bridge program, scenic byways, and grants for safety belts and motorcycle helmets shall not be less than 90 percent of the percentage of estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund, other than the Mass Transit Account, in the latest fiscal year for which data are available.
 
-(b) Amounts allocated pursuant to subsection (a) of this section shall be available for obligation when allocated for the year authorized plus the three succeeding fiscal years, shall be subject to the provisions of this title 23 and may be obligated for Interstate highway substitute, National Highway, surface transportation program, Interstate, congestion mitigation and air quality improvement program, bridge, hazard elimination, and rail-highway crossings projects. 1/2 of the amounts allocated pursuant to subsection (a) after September 30, 1991, shall be subject to section 133(d)(3) of this title. Obligation limitations for Federal-aid highways and highway safety construction programs established by this Act or any subsequent Act shall not apply to obligations made under this section, except where the provision of law establishing such limitation specifically amends or limits the applicability of this sentence. Sums allocated pursuant to this section shall not be considered tobe sums allocated for purposes of section 104(b) of the Highway Improvement Act of 1982 and section 4102(c) of the Consolidated Omnibus Budget Reconciliation Act of 1985 and section 105(c) of the Federal-Aid Highway Act of 1987 and section 1002(c) of the Intermodal Surface Transportation Efficiency Act of 1991.
+(b) Amounts allocated pursuant to subsection (a) of this section shall be available for obligation when allocated for the year authorized plus the three succeeding fiscal years, shall be subject to the provisions of this title 23 and may be obligated for Interstate highway substitute, National Highway, surface transportation program, Interstate, congestion mitigation and air quality improvement program, bridge, hazard elimination, and rail-highway crossings projects. 1/2 of the amounts allocated pursuant to subsection (a) after September 30, 1991, shall be subject to section 133(d)(3) of this title. Obligation limitations for Federal-aid highways and highway safety construction programs established by this Act or any subsequent Act shall not apply to obligations made under this section, except where the provision of law establishing such limitation specifically amends or limits the applicability of this sentence. Sums allocated pursuant to this section shall not be considered to be sums allocated for purposes of section 104(b) of the Highway Improvement Act of 1982 and section 4102(c) of the Consolidated Omnibus Budget Reconciliation Act of 1985 and section 105(c) of the Federal-Aid Highway Act of 1987 and section 1002(c) of the Intermodal Surface Transportation Efficiency Act of 1991.
 
 (c)
 
@@ -36,7 +36,7 @@ Limitation on Planning Expenditures.—One-half of 1 percent of amounts allocate
 
 (d)
 
-Treatment of Withheld Apportionments.—For purposes of subsection (a), any funds which, but for section 154(f) or 158(a) of this title or any other provision of law under which Federal-aid highway funds are withheld from apportionment, would be apportioned to a State in a fiscal year under a section referred to in subsection (a) shall be treated as being apportioned in such year.
+Treatment of Withheld Apportionments.—For purposes of subsection (a), any funds which, but for section 154(f) <sup>3</sup> or 158(a) of this title or any other provision of law under which Federal-aid highway funds are withheld from apportionment, would be apportioned to a State in a fiscal year under a section referred to in subsection (a) shall be treated as being apportioned in such year.
 
 (e) In order to carry out this section there is authorized to be appropriated out of the Highway Trust Fund, other than the Mass Transit Account, such sums as may be necessary for each of the fiscal years ending on or after September 30, 1983.
 
@@ -59,6 +59,8 @@ Section 4102(c) of the Consolidated Omnibus Budget Reconciliation Act of 1985, r
 Section 105(c) of the Federal-Aid Highway Act of 1987, referred to in subsec. (b), is section 105(c) of Pub. L. 100–17, which is set out as a note under section 104 of this title.
 
 Section 1002(c) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (b), is section 1002(c) of Pub. L. 102–240, which is set out as a note under section 104 of this title.
+
+Section 154 of this title, referred to in subsec. (d), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577.
 
 #### Amendments
 
@@ -118,7 +120,7 @@ Formula.—The bonus apportionments which are provided under this subsection for
 
 &emsp;“(B)
 
-Applicability of chapter 1 of title 23.—Funds apportioned under this subsection shall be available for obligation in the same manner and forthe same purposes as if such funds were apportioned for the surface transportation program under chapter 1 of title 23, United States Code, except that such funds shall remain available until expended. One-half of the amounts apportioned under this subsection shall be subject to section 133(d)(3) of title 23, United States Code, as added by this Act.”
+Applicability of chapter 1 of title 23.—Funds apportioned under this subsection shall be available for obligation in the same manner and for the same purposes as if such funds were apportioned for the surface transportation program under chapter 1 of title 23, United States Code, except that such funds shall remain available until expended. One-half of the amounts apportioned under this subsection shall be subject to section 133(d)(3) of title 23, United States Code, as added by this Act.”
 
 #### Section Referred to in Other Sections
 
@@ -127,4 +129,6 @@ This section is referred to in section 104 of this title.
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “years”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

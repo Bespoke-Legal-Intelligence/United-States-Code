@@ -40,7 +40,7 @@ Section 101 of title I of Pub. L. 101–437 provided that: “The Congress finds
 
 &emsp;“(5) television station operators and licensees should follow practices in connection with children's television programming and advertising that take into consideration the characteristics of this child audience; and
 
-&emsp;“(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to as the ‘Commission’) take the actions required by this title \[enacting sections 303a and 303b of this title\].”
+&emsp;“(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to asthe ‘Commission’) take the actions required by this title \[enacting sections 303a and 303b of this title\].”
 
 #### Section Referred to in Other Sections
 

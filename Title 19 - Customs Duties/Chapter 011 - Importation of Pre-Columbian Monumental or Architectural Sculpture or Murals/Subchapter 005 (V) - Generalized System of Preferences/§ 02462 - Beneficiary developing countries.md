@@ -54,7 +54,7 @@ No designation shall be made under this section with respect to any of the follo
 
 &emsp;(2) if such country is a member of the Organization of Petroleum Exporting Countries, or a party to any other arrangement of foreign countries, and such country participates in any action pursuant to such arrangement the effect of which is to withhold supplies of vital commodity resources from international trade or to raise the price of such commodities to an unreasonable level and to cause serious disruption of the world economy;
 
-&emsp;(3) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated before January 1, 1976, or that action will be taken before January 1, 1976, to assure that there will be no such significant adverse effect, and he reports those assurances to the Congress;
+&emsp;(3) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or islikely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated before January 1, 1976, or that action will be taken before January 1, 1976, to assure that there will be no such significant adverse effect, and he reports those assurances to the Congress;
 
 &emsp;(4) if such country—
 
@@ -108,7 +108,7 @@ In determining whether to designate any country a beneficiary developing country
 
 #### (d) Exemptions
 
-(1) The President may exempt from the application of paragraph (2) of subsection (b) of this section any country during the period during which such country (A) is a party to a bilateral or multilateral trade agreement to which the United States is also a party if such agreement fulfills the negotiating objectives set forth in section 2118 of this title of assuring the United States fair and equitable access at reasonable prices to supplies of articles of commerce important to the economic requirements of the United States and (B) is not in violation of such agreement by action denying the United States such fair and equitable access.
+(1) The President may exempt from the application of paragraph (2) of subsection (b) of this section any country during the period during which such country (A) is a party to a bilateral or multilateral trade agreement to which the United States is also a party if such agreement fulfills the negotiating objectives set forth in section 2118 of this title of assuring the United States fair and equitable access at reasonable prices to supplies of articles of commerce important to the economic requirements of the UnitedStates and (B) is not in violation of such agreement by action denying the United States such fair and equitable access.
 
 (2) The President may exempt from the application of paragraph (2) of subsection (b) of this section any country that enters into a bilateral product-specific trade agreement with the United States under section 2111 or 2112 of this title before January 3, 1980. The President shall terminate the exemption granted to any country under the preceding sentence if that country interrupts or terminates the delivery of supplies of petroleum and petroleum products to the United States.
 
@@ -186,7 +186,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Executive Order No. 11844
 

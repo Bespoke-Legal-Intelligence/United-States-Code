@@ -22,7 +22,7 @@ Basic Grants.—(1) The Secretary of Transportation may make a grant to a State 
 
 &emsp;&emsp;(ii) the State annually conducts at least one onsite inspection of the testing.
 
-(3) The Secretary shall decide on the amount of a grant in a fiscal year to be made under thissubsection to a State eligible to receive the grant in the fiscal year. However—
+(3) The Secretary shall decide on the amount of a grant in a fiscal year to be made under this subsection to a State eligible to receive the grant in the fiscal year. However—
 
 &emsp;(A) a grant to a State under this subsection shall be at least $100,000 in a fiscal year; and
 

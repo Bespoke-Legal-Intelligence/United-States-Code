@@ -8,5 +8,5 @@ The Secretary may use all or part of any State's allocation under this part to m
 
 &emsp;(3) such arrangements would add substantially to the welfare or educational attainment of such children.
 
-(Pub. L. 89 10, title I, §1307, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3590.)
+(Pub. L. 89–10, title I, §1307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3590.)
 

@@ -1,6 +1,6 @@
 ### §7667. Transfer of prize property to another district for sale
 
-(a) In the case of any prize property ordered to be sold, if the court believes that it will be inthe interest of all parties to have the property sold in a judicial district other than the one in which the proceedings are pending, the court may direct the marshal to transfer the property to the district selected by the court for the sale, and to insure it. In such a case the court shall give the marshal proper orders as to the time and manner of conducting the sale.
+(a) In the case of any prize property ordered to be sold, if the court believes that it will be in the interest of all parties to have the property sold in a judicial district other than the one in which the proceedings are pending, the court may direct the marshal to transfer the property to the district selected by the court for the sale, and to insure it. In such a case the court shall give the marshal proper orders as to the time and manner of conducting the sale.
 
 (b) When so ordered the marshal shall transfer the property and keep it safely. He is responsible for its sale in the same manner as if the property were in his own district and for the deposit of the gross proceeds with the Treasurer of the United States or public depositary nearest to the place of sale, subject to the order of the court for the district where the adjudication is pending.
 

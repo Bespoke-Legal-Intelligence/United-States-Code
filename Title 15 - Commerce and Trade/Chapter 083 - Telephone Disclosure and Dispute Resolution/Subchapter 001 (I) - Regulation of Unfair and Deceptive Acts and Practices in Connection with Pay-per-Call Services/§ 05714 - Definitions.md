@@ -10,5 +10,5 @@ For purposes of this subchapter:
 
 &emsp;(4) The term “Commission” means the Federal Trade Commission.
 
-(Pub. L. 102 556, title II, §204, Oct. 28, 1992, 106 Stat. 4191.)
+(Pub. L. 102–556, title II, §204, Oct. 28, 1992, 106 Stat. 4191.)
 

@@ -10,7 +10,7 @@ There is established the Advisory Commission on Childhood Vaccines. The Commissi
 
 &emsp;&emsp;(B) Three members from the general public, of whom at least two shall be legal representatives of children who have suffered a vaccine-related injury or death.
 
-&emsp;&emsp;(C) Three members who are attorneys, of whom at least one shall be an attorney whose specialty includes representation of persons who have suffered a vaccine-relatedinjury or death and of whom one shall be an attorney whose specialty includes representation of vaccine manufacturers.
+&emsp;&emsp;(C) Three members who are attorneys, of whom at least one shall be an attorney whose specialty includes representation of persons who have suffered a vaccine-related injury or death and of whom one shall be an attorney whose specialty includes representation of vaccine manufacturers.
 
 &emsp;(2) The Director of the National Institutes of Health, the Assistant Secretary for Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs (or the designees of such officials), each of whom shall be a nonvoting ex officio member.
 
@@ -40,7 +40,7 @@ The Commission shall—
 
 &emsp;(2) on its own initiative or as the result of the filing of a petition, recommend changes in the Vaccine Injury Table,
 
-&emsp;(3) advise the Secretary in implementing the Secretary's responsibilities under section 300aa–27 of this title regarding the need for childhood vaccination products that result in fewer or no significant adverse reactions,
+&emsp;(3) advise the Secretary in implementing the Secretary's responsibilities under section 300aa–27 of this title regarding the need forchildhood vaccination products that result in fewer or no significant adverse reactions,
 
 &emsp;(4) survey Federal, State, and local programs and activities relating to the gathering of information on injuries associated with the administration of childhood vaccines, including the adverse reaction reporting requirements of section 300aa–25(b) of this title, and advise the Secretary on means to obtain, compile, publish, and use credible data related to the frequency and severity of adverse reactions associated with childhood vaccines, and
 

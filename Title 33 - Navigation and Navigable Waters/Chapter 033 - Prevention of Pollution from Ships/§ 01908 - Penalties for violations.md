@@ -34,7 +34,7 @@ Notwithstanding subsection (a), (b), or (d) of this section, if the violation is
 
 #### Amendments
 
-1993—Subsec. (e). Pub. L. 103–182 substituted “shall refuse or revoke the clearance required by section 91 oftitle 46, Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
+1993—Subsec. (e). Pub. L. 103–182 substituted “shall refuse or revoke the clearance required by section 91 of title 46, Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
 
 &emsp;“(1) the clearance required by section 91 of title 46, Appendix; or
 

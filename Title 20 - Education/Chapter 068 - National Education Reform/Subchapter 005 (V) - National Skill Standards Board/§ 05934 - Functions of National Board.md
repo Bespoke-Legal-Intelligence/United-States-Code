@@ -106,7 +106,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 #### (2) Endorsement
 
-&emsp;The National Board, after public review and comment, shall endorse those skill standardssystems relating to the occupational clusters identified pursuant to subsection (a) of this section that—
+&emsp;The National Board, after public review and comment, shall endorse those skill standards systems relating to the occupational clusters identified pursuant to subsection (a) of this section that—
 
 &emsp;&emsp;(A) meet the objective endorsement criteria that are developed pursuant to paragraph (1); and
 
@@ -160,13 +160,13 @@ The National Board shall establish cooperative arrangements with the National Ed
 
 &emsp;&emsp;For purposes of this paragraph, the term “costs of administration” means costs relating to staff, supplies, equipment, space, and travel and per diem, costs of conducting meetings and conferences, and other related costs.
 
-(Pub. L. 103 227, title V, §504, Mar. 31, 1994, 108 Stat. 195.)
+(Pub. L. 103–227, title V, §504, Mar. 31, 1994, 108 Stat. 195.)
 
 #### References in Text
 
 Act of August 16, 1937, known as the National Apprenticeship Act, referred to in subsec. (d)(1)(B)(i)(II), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-Subchapter II of this chapter, referred to in subsec. (d)(1)(B)(i)(III), was in the original “title II”, meaning title II of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 133, which enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
+Subchapter II of this chapter, referred to in subsec. (d)(1)(B)(i)(III), was in the original “title II”, meaning title II of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133, which enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
 
 Federal civil rights laws, referred to in subsec. (d)(1)(B)(i)(VII), (ii)(III), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
 

@@ -4,7 +4,7 @@
 
 It shall be unlawful for any registered management company or registered face-amount certificate company to file with the Commission any financial statement signed or certified by an independent public accountant, unless—
 
-&emsp;(1) such accountant shall have been selected at a meeting held within thirty days before or after the beginning of the fiscal year or before the annual meeting of stockholders in thatyear by the vote, cast in person, of a majority of those members of the board of directors who are not interested persons of such registered company;
+&emsp;(1) such accountant shall have been selected at a meeting held within thirty days before or after the beginning of the fiscal year or before the annual meeting of stockholders in that year by the vote, cast in person, of a majority of those members of the board of directors who are not interested persons of such registered company;
 
 &emsp;(2) such selection shall have been submitted for ratification or rejection at the next succeeding annual meeting of stockholders if such meeting be held, except that any vacancy occurring between annual meetings, due to the death or resignation of the accountant, may be filled by the vote of a majority of those members of the board of directors who are not interested persons of such registered company, cast in person at a meeting called for the purpose of voting on such action;
 

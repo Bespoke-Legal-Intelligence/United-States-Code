@@ -8,7 +8,7 @@
 
 #### (2) Determination of taxable income
 
-&emsp;In determining taxable income for purposes of paragraph (1), gross income includes onlygross income which is effectively connected with the conduct of a trade or business within the United States.
+&emsp;In determining taxable income for purposes of paragraph (1), gross income includes only gross income which is effectively connected with the conduct of a trade or business within the United States.
 
 #### (3) \[Cross reference <sup>1</sup>\]
 
@@ -56,7 +56,7 @@ In the case of a foreign corporation, except where the context clearly indicates
 
 &emsp;&emsp;(B) which, but for this subsection, would not be treated as income effectively connected with the conduct of a trade or business within the United States,
 
-> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within the United States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
+> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within theUnited States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
 
 #### (2) Election after revocation, etc.
 
@@ -74,7 +74,7 @@ In the case of a corporation created or organized in, or under the law of, a pos
 
 If any foreign corporation has no office or place of business in the United States but has an agent in the United States, the return required under section 6012 shall be made by the agent.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 282; Nov. 13, 1966, Pub. L. 89–809, title I, §104(b)(1), 80 Stat. 1555; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(13), 92 Stat. 2822; Dec. 5, 1980, Pub. L. 96–499, title XI, §1122(c)(2), 94 Stat. 2687; Jan. 6, 1983, Pub. L. 97–424, title V, §515(b)(6)(F), 96 Stat. 2182; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(19), 98 Stat. 843;Oct. 22, 1986, Pub. L. 99–514, title VII, §701(e)(4)(F), title XII, §1236(a), 100 Stat. 2343, 2576; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(s)(2)(B), title II, §2001(c)(2), title VI, §6133(a), 102 Stat. 3527, 3594, 3721.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 282; Nov. 13, 1966, Pub. L. 89–809, title I, §104(b)(1), 80 Stat. 1555; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(13), 92 Stat. 2822; Dec. 5, 1980, Pub. L. 96–499, title XI, §1122(c)(2), 94 Stat. 2687; Jan. 6, 1983, Pub. L. 97–424, title V, §515(b)(6)(F), 96 Stat. 2182; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(19), 98 Stat. 843; Oct. 22, 1986, Pub. L. 99–514, title VII, §701(e)(4)(F), title XII, §1236(a), 100 Stat. 2343, 2576; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(s)(2)(B), title II, §2001(c)(2), title VI, §6133(a), 102 Stat. 3527, 3594, 3721.)
 
 #### Amendments
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 96–499 applicable to disposition after June 18, 1980, see
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1966 Amendment
 

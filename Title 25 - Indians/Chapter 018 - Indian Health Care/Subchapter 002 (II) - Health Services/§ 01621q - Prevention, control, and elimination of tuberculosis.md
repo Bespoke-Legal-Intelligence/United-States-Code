@@ -20,7 +20,7 @@ To be eligible for a grant under subsection (a) of this section, an applicant mu
 
 &emsp;(1) the applicant will coordinate its activities for the prevention, control, and elimination of tuberculosis with activities of the Centers for Disease Control, and State and local health agencies; and
 
-&emsp;(2) the applicant will submit to the Secretary an annual report on its activities forthe prevention, control, and elimination of tuberculosis.
+&emsp;(2) the applicant will submit to the Secretary an annual report on its activities for the prevention, control, and elimination of tuberculosis.
 
 #### (d) Duties of Secretary
 
@@ -54,7 +54,5 @@ The Secretary may, at the request of a recipient of a grant under subsection (a)
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -62,7 +62,7 @@ Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in 
 
 #### Amendments
 
-1992—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
+<b>1992</b>—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
 
 Subsec. (i). Pub. L. 102–378, §2(34)(B), added subsec. (i).
 
@@ -72,7 +72,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished and its jurisdiction given primarily to Committee on Government Reform and Oversight by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Delegation of Functions
 

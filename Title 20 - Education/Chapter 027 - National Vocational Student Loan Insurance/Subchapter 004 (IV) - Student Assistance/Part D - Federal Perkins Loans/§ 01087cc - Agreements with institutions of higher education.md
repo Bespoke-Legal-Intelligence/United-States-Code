@@ -16,7 +16,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;&emsp;&emsp;(I) is granted permission by the Secretary to participate in an Expanded Lending Option under the program, and
 
-&emsp;&emsp;&emsp;&emsp;(II) has a default rate which does not exceed 7.5 percent for award year 1993 1994 and has a cohort default rate which does not exceed 15 percent for award year 1994 1995 or for any succeeding award year,
+&emsp;&emsp;&emsp;&emsp;(II) has a default rate which does not exceed 7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year,
 
 &emsp;&emsp;&nbsp;in an amount not less than the amount of the Federal capital contributions described in subparagraph (A); or
 
@@ -58,7 +58,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(7) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
 
-&emsp;(8) provide assurances that the institution will comply with the provisions of section 1087cc 1 of this title;
+&emsp;(8) provide assurances that the institution will comply with the provisions of section 1087cc–1 of this title;
 
 &emsp;(9) provide that the institution of higher education will make loans first to students with exceptional need; and
 
@@ -100,49 +100,49 @@ In carrying out the provisions of subsection (a)(10) of this section, the Secret
 
 In carrying out the provisions of subsection (a)(5) of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
 
-(Pub. L. 89 329, title IV, §463, as added Pub. L. 99 498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100 50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102 325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103 208, §2(f)(5) (7), Dec. 20, 1993, 107 Stat. 2471.)
+(Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471.)
 
 #### Prior Provisions
 
-A prior section 1087cc, Pub. L. 89 329, title IV, §463, as added Pub. L. 92 318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94 482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96 374, title IV, §§442(b)(1) (4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99 272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (a)(2)(B)(i)(II). Pub. L. 103 208, §2(f)(5), substituted “7.5 percent for award year 1993 1994 and has a cohort default rate which does not exceed 15 percent for award year 1994 1995 or for any succeeding award year” for “7.5 percent”.
+1993—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted “7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year” for “7.5 percent”.
 
-Subsec. (c)(4). Pub. L. 103 208, §2(f)(6), substituted “shall disclose at least annually” for “shall disclose” in introductory provisions.
+Subsec. (c)(4). Pub. L. 103–208, §2(f)(6), substituted “shall disclose at least annually” for “shall disclose” in introductory provisions.
 
-Subsecs. (d), (e). Pub. L. 103 208, §2(f)(7), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 103–208, §2(f)(7), added subsecs. (d) and (e).
 
-1992—Subsec. (a)(2)(B). Pub. L. 102 325, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution by such institution in an amount equal to not less than one-ninth of the amount of the Federal capital contributions described in subparagraph (A);”.
+1992—Subsec. (a)(2)(B). Pub. L. 102–325, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution by such institution in an amount equal to not less than one-ninth of the amount of the Federal capital contributions described in subparagraph (A);”.
 
-Subsec. (c)(3)(B). Pub. L. 102 325, §463(b)(1), struck out “, if that account has not been previously reported by any other holder of the note” after “agency”.
+Subsec. (c)(3)(B). Pub. L. 102–325, §463(b)(1), struck out “, if that account has not been previously reported by any other holder of the note” after “agency”.
 
-Subsec. (c)(4). Pub. L. 102 325, §463(b)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 
-1987—Subsec. (a)(4). Pub. L. 100 50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
+1987—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
 
-Subsec. (b). Pub. L. 100 50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
+Subsec. (b). Pub. L. 100–50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective July 23, 1992, except that changes made in subsec. (a)(2)(B), relating to the matching of Federal capital contributions, applicable to funds provided for such program for award years beginning on or after July 1, 1993, see section 468 of Pub. L. 102 325, set out as a note under section 1087dd of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(B), relating to the matching of Federal capital contributions, applicable to funds provided for such program for award years beginning on or after July 1, 1993, see section 468 of Pub. L. 102–325, set out as a note under section 1087dd of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99 498, set out as a note under section 1001 of this title.
+Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Subsection (a)(9) of this section applicable only to loans made for periods of enrollment beginning on or after July 1, 1987, see section 405(b) of Pub. L. 99 498, set out as a note under section 1087dd of this title.
+Subsection (a)(9) of this section applicable only to loans made for periods of enrollment beginning on or after July 1, 1987, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1087aa, 1087bb, 1087cc 1, 1087dd, 1087gg, 1091a, 1096 of this title.
+This section is referred to in sections 1087aa, 1087bb, 1087cc–1, 1087dd, 1087gg, 1091a, 1096 of this title.
 

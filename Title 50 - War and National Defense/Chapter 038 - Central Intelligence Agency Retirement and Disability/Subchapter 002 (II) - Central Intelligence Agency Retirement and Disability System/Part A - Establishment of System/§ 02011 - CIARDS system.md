@@ -26,7 +26,7 @@ The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, re
 
 #### Prior Provisions
 
-A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 98–618, title III, §302, Nov. 8,1984, 98 Stat. 3300; Pub. L. 99–335, title V, §501(1), June 6, 1986, 100 Stat. 622, related to rules and regulations and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 98–618, title III, §302, Nov. 8, 1984, 98 Stat. 3300; Pub. L. 99–335, title V, §501(1), June 6, 1986, 100 Stat. 622, related to rules and regulations and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

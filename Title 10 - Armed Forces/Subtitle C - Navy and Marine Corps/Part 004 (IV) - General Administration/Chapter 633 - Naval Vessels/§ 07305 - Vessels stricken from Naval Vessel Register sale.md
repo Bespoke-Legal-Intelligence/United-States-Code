@@ -2,7 +2,7 @@
 
 (a)
 
-Appraisal of Vessels Stricken From Naval Vessel Register.—The Secretary of theNavy shall appraise each vessel stricken from the Naval Vessel Register under section 7304 of this title.
+Appraisal of Vessels Stricken From Naval Vessel Register.—The Secretary of the Navy shall appraise each vessel stricken from the Naval Vessel Register under section 7304 of this title.
 
 (b)
 

@@ -72,15 +72,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (e). Pub. L. 101–376 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employee who is a preference eligible or is in the competitive service and who has been reduced in grade or removed under this section is entitled to appeal the action to the Merit Systems Protection Board under section 7701 of this title.”
+<b>1990</b>—Subsec. (e). Pub. L. 101–376 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employee who is a preference eligible or is in the competitive service and who has been reduced in grade or removed under this section is entitled to appeal the action to the Merit Systems Protection Board under section 7701 of this title.”
 
-1978—Pub. L. 95–454 substituted “Actions based on unacceptable performance” for “Performance-rating plans; requirements for” in section catchline and in text substituted provisions relating to actions based on unacceptable performance, for provisions relating to requirements for performance-rating plans.
+<b>1978</b>—Pub. L. 95–454 substituted “Actions based on unacceptable performance” for “Performance-rating plans; requirements for” in section catchline and in text substituted provisions relating to actions based on unacceptable performance, for provisions relating to requirements for performance-rating plans.
 
 #### Effective Date of 1990 Amendment
 
 Section 2(c) of Pub. L. 101–376 provided that: “The amendments made by this section \[amending this section and section 7511 of this title\] shall apply with respect to any personnel action taking effect on or after the effective date of this Act \[see below\].”
 
-Section 4 of Pub. L. 101–376 provided that: “This Act and the amendments made by this Act \[amending this section, sections 7511 and 7701 of this title, and enacting provisions set out as notes under this section and section 7501 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 17, 1990\], and, except as provided in section 2(c) \[set out above\], shall apply with respect to any appeal or other proceeding brought on or after such date.”
+Section 4 of Pub. L. 101–376 provided that: “This Act and the amendments made by this Act \[amending this section, sections 7511 and 7701 of this title, and enacting provisions set out as notes under this section and section 7501 of this title\] shall become effective on thedate of the enactment of this Act \[Aug. 17, 1990\], and, except as provided in section 2(c) \[set out above\], shall apply with respect to any appeal or other proceeding brought on or after such date.”
 
 #### Effective Date of 1978 Amendment
 

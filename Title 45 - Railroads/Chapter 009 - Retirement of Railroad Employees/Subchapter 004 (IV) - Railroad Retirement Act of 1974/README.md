@@ -6,7 +6,7 @@ This subchapter is comprised of act Aug. 29, 1935, ch. 812, as amended in its en
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 354, 361, 362, 726, 797d, 909, 1207 of this title; title 7 section 2012; title 12 section 3413; title 26 sections 22, 72, 86, 401, 3231, 3304, 6103, 6334, 6050G; title 31 section 3803; title 42 sections 402, 405, 426–1, 1395i–1, 1395r, 1395s, 1395v, 1395gg, 1395kk, 3035r.
+This subchapter is referred to in sections 354, 361, 362, 726, 797d, 909, 1207 of this title; title 7 section 2012; title 12 section 3413; title 26 sections 22, 72, 86, 401, 3231, 3304, 6103, 6334, 6050G; title 31 section 3803; title 42 sections 402, 405, 426–1, 1395i–1, 1395r, 1395s, 1395v, 1395gg, 1395kk, 3035r; title 49 section 10501.
 
 
 ---

@@ -122,13 +122,13 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Failure
 
-&emsp;&emsp;If any 1988 agreement operator fails to meet any obligation under this paragraph, any contributions of such operator to theCombined Fund or any other plan described in section 404(c) shall not be deductible under this title until such time as the failure is corrected.
+&emsp;&emsp;If any 1988 agreement operator fails to meet any obligation under this paragraph, any contributions of such operator to the Combined Fund or any other plan described in section 404(c) shall not be deductible under this title until such time as the failure is corrected.
 
 #### (D) Premium reductions
 
 #### (i) 1st year payments
 
-&emsp;&emsp;&emsp;In the case of a 1988 agreement operator making contributions under subparagraph (A), the premium of such operator under subsection (a) shall be reduced by the amount paid under subparagraph (A) by such operator for the plan year beginning February 1, 1993.
+&emsp;&emsp;&emsp;In the case of a 1988 agreement operator making contributions under subparagraph (A), the premium of such operator undersubsection (a) shall be reduced by the amount paid under subparagraph (A) by such operator for the plan year beginning February 1, 1993.
 
 #### (ii) Deficit payments
 

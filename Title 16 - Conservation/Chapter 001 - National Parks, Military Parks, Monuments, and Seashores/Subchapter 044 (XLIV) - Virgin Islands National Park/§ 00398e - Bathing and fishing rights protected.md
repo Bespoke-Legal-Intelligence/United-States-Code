@@ -1,4 +1,4 @@
-### §398e . Bathing and fishing rights protected
+### §398e. Bathing and fishing rights protected
 
 #### (a) Regulations
 

@@ -10,5 +10,5 @@ Section is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(b)\], Dec. 1
 
 #### Prior Provisions
 
-Similar provisions were contained in section 7209 of this title prior to repeal by section 1(e)(3)(A) of Pub. L. 100–370.
+Provisions similar to those in this section were contained in section 7209 of this title prior to repeal by Pub. L. 100–370, §1(e)(3)(A).
 

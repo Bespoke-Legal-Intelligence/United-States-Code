@@ -40,7 +40,7 @@ The Secretary is authorized to award grants to eligible entities to pay the Fede
 
 &emsp;For purposes of this subpart, the term “eligible entity” means a partnership between—
 
-&emsp;&emsp;(A) a local educational agency or an individual school that is eligible to participate in a schoolwide program under section 6314 of this title; and
+&emsp;&emsp;(A) a local educational agency or an individual school that is eligible to participatein a schoolwide program under section 6314 of this title; and
 
 &emsp;&emsp;(B) at least one institution of higher education, museum, local arts agency, or cultural entity that is accessible to individuals within the school district of such local educational agency or school, and that has a history of providing quality services to the community, which may include—
 
@@ -70,11 +70,11 @@ To be eligible for a grant under this subpart, an eligible entity shall serve—
 
 &emsp;(3) any combination of in-school and out-of-school at-risk children and youth.
 
-(Pub. L. 89 10, title X, §10412, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3833.)
+(Pub. L. 89–10, title X, §10412, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3833.)
 
 #### References in Text
 
-The Head Start Act, referred to in subsec. (b)(1)(E), is subchapter B (§§635 657) of chapter 8 of subtitle A of title VI of Pub. L. 97 35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (b)(1)(E), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(E), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act is classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(E), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act is classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

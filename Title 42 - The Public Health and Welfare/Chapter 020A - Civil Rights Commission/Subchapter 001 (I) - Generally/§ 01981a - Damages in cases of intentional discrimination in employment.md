@@ -8,7 +8,7 @@
 
 #### (2) Disability
 
-&emsp;In an action brought by a complaining party under the powers, remedies, and proceduresset forth in section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] (as provided in section 107(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12117(a)), and section 794a(a)(1) of title 29, respectively) against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) under section 791 of title 29 and the regulations implementing section 791 of title 29, or who violated the requirements of section 791 of title 29 or the regulations implementing section 791 of title 29 concerning the provision of a reasonable accommodation, or section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112), or committed a violation of section 102(b)(5) of the Act, against an individual, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
+&emsp;In an action brought by a complaining party under the powers, remedies, and procedures set forth in section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] (as provided in section 107(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12117(a)), and section 794a(a)(1) of title 29, respectively) against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) under section 791 of title 29 and the regulations implementing section 791 of title 29, or who violated the requirements of section 791 of title 29 or the regulations implementing section 791 of title 29 concerning the provision of a reasonable accommodation, or section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112), or committed a violation of section 102(b)(5) of the Act, against an individual, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
 
 #### (3) Reasonable accommodation and good faith effort
 
@@ -70,7 +70,7 @@ As used in this section:
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classifiedgenerally to subchapter I (§12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Effective Date
 
@@ -78,5 +78,5 @@ Section effective Nov. 21, 1991, except as otherwise provided, see section 402 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1988 of this title; title 2 section 1207.
+This section is referred to in section 1988 of this title; title 2 sections 1202, 1311.
 

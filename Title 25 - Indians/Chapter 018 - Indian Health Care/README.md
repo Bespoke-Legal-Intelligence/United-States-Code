@@ -140,7 +140,7 @@
 | (c) | Health resources deficiency levels. |
 | (d) | Programs administered by Indian tribe. |
 | (e) | Report to Congress. |
-| (f) | Statement for Presidential budget. |
+| (f) | Appropriated funds included in base budget of Service. |
 | (g) | Continuation of Service responsibilities for backlogs and parity. |
 | (h) | Authorization of appropriations. |
 | [1621a.](Subchapter%20002%20%28II%29%20-%20Health%20Services/%C2%A7%2001621a%20-%20Catastrophic%20Health%20Emergency%20Fund.md) | Catastrophic Health Emergency Fund. |
@@ -533,7 +533,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 450<i>l</i> of this title.
+This chapter is referred to in section 450<i>l</i> of this title; title 40 section 276d–3.
 
 
 ---

@@ -1,0 +1,152 @@
+### §13703. Certain collective activities; exemption from antitrust laws
+
+(a)
+
+Agreements.—
+
+&emsp;(1)
+
+Authority to enter.—A motor carrier providing transportation or service subject to jurisdiction under chapter 135 may enter into an agreement with one or more such carriers to establish—
+
+&emsp;&emsp;(A) through routes and joint rates;
+
+&emsp;&emsp;(B) rates for the transportation of household goods;
+
+&emsp;&emsp;(C) classifications;
+
+&emsp;&emsp;(D) mileage guides;
+
+&emsp;&emsp;(E) rules;
+
+&emsp;&emsp;(F) divisions;
+
+&emsp;&emsp;(G) rate adjustments of general application based on industry average carrier costs (so long as there is no discussion of individual markets or particular single-line rates); or
+
+&emsp;&emsp;(H) procedures for joint consideration, initiation, or establishment of matters described in subparagraphs (A) through (G).
+
+&emsp;(2)
+
+Submission of agreement to board; approval.—An agreement entered into under subsection (a) <sup>1</sup> may be submitted by any carrier or carriers that are parties to such agreement to the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
+
+&emsp;(3)
+
+Conditions.—The Board may require compliance with reasonable conditions consistent with this part to assure that the agreement furthers the transportation policy set forth in section 13101.
+
+&emsp;(4)
+
+Independently established rates.—Any carrier which is a party to an agreement under paragraph (1) is not, and may not be, precluded from independently establishing its own rates, classification, and mileages or from adopting and using a noncollectively made classification or mileage guide.
+
+&emsp;(5)
+
+Investigations.—
+
+&emsp;&emsp;(A)
+
+Reasonableness.—The Board may suspend and investigate the reasonableness of any rate, rule, classification, or rate adjustment of general application made pursuant to an agreement under this section.
+
+&emsp;&emsp;(B)
+
+Actions not in the public interest.—The Board may investigate any action taken pursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
+
+&emsp;(6)
+
+Effect of approval.—If the Board approves the agreement or renews approval ofthe agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the antitrust laws, as defined in the first section of the Clayton Act (15 U.S.C. 12), do not apply to parties and other persons with respect to making or carrying out the agreement.
+
+(b)
+
+Records.—The Board may require an organization established or continued under an agreement approved under this section to maintain records and submit reports. The Board, or its delegate, may inspect a record maintained under this section, or monitor any organization's compliance with this section.
+
+(c)
+
+Review.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall change the conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
+
+&emsp;(1) approving an agreement,
+
+&emsp;(2) denying, ending, or changing approval,
+
+&emsp;(3) prescribing the conditions on which approval is granted, or
+
+&emsp;(4) changing those conditions,
+
+> has effect only as related to application of the antitrust laws referred to in subsection (a).
+
+(d)
+
+Expiration of Approvals; Renewals.—Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending.
+
+(e)
+
+Existing Agreements.—Agreements approved under former section 10706(b) and in effect on the day before the effective date of this section shall be treated for purposes of this section as approved by the Board under this section beginning on such effective date.
+
+(f)
+
+Limitations on Statutory Construction.—
+
+&emsp;(1)
+
+Undercharge claims.—Nothing in this section shall serve as a basis for any undercharge claim.
+
+&emsp;(2)
+
+Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on the day before the effective date of this section.
+
+(g)
+
+Industry Standard Guides.—
+
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A)
+
+Public availability.—Routes, rates, classifications, mileage guides, and rules established under agreements approved under this section shall be published and made available for public inspection upon request.
+
+&emsp;&emsp;(B)
+
+Participation of carriers.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A motor carrier of property whose routes, rates, classifications, mileage guides, rules, or packaging are determined or governed by publications established under agreements approved under this section must participate in the determining or governing publication for such provisions to apply.
+
+&emsp;&emsp;&emsp;(ii)
+
+Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrier affirming its participation in the governing publication, and the certification shall be made available for public inspection.
+
+&emsp;(2)
+
+Mileage limitation.—No carrier subject to jurisdiction under subchapter I or III of chapter 135 may enforce collection of its mileage rates unless such carrier—
+
+&emsp;&emsp;(A) is a participant in a publication of mileages formulated under an agreement approved under this section; or
+
+&emsp;&emsp;(B) uses a publication of mileage (other than a publication described in subparagraph (A)) that can be examined by any interested person upon reasonable request.
+
+(h)
+
+Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869.)
+
+#### References in Text
+
+Former section 10706(b), referred to in subsec. (e), probably means section 10706(b) of this title as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 812.
+
+For the effective date of this section, referred to in subsecs. (e) and (f)(2), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+The ICC Termination Act of 1995, referred to in subsec. (f)(2), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 10706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Abolition of Interstate Commerce Commission
+
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 13541, 13701, 14706 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+

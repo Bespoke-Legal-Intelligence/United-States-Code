@@ -12,9 +12,9 @@ The Administrator may, subject to the civil-service laws, appoint such employees
 
 The principal office of the Administrator shall be in the District of Columbia, but he or his duly authorized representative may exercise any or all of his powers in any place.
 
-#### (d) Annual report to Congress; studies of exemptions to hour and wage provisions and means to prevent curtailment of employment opportunities
+#### (d) Biennial report to Congress; studies of exemptions to hour and wage provisions and means to prevent curtailment of employment opportunities
 
-(1) The Secretary shall submit annually in January a report to the Congress covering his activities for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this chapter as he may find advisable. Such report shall contain an evaluation and appraisal by the Secretary of the minimum wages and overtime coverage established by this chapter, together with his recommendations to the Congress. In making such evaluation and appraisal, the Secretary shall take into consideration any changes which may have occurred in the cost of living and in productivity and the level of wages in manufacturing, the ability of employers to absorb wage increases, and such other factors as he may deem pertinent. Such report shall also include a summary of the special certificates issued under section 214(b) of this title.
+(1) The Secretary shall submit biennially in January a report to the Congress covering his activities for the preceding two years and including such information, data, and recommendations for further legislation in connection with the matters covered by this chapter as he may find advisable. Such report shall contain an evaluation and appraisal by the Secretary of the minimum wages and overtime coverage established by this chapter, together with his recommendations to the Congress. In making such evaluation and appraisal, the Secretary shall take into consideration any changes which may have occurred in the cost of living and in productivity and the level of wages in manufacturing, the ability of employers to absorb wage increases, and such other factors as he may deem pertinent. Such report shall also include a summary of the special certificates issued under section 214(b) of this title.
 
 (2) The Secretary shall conduct studies on the justification or lack thereof for each of the special exemptions set forth in section 213 of this title, and the extent to which such exemptions apply to employees of establishments described in subsection (g) of such section and the economic effects of the application of such exemptions to such employees. The Secretary shall submit a report of his findings and recommendations to the Congress with respect to the studies conducted under this paragraph not later than January 1, 1976.
 
@@ -28,7 +28,7 @@ Whenever the Secretary has reason to believe that in any industry under this cha
 
 The Secretary is authorized to enter into an agreement with the Librarian of Congress with respect to individuals employed in the Library of Congress to provide for the carrying out of the Secretary's functions under this chapter with respect to such individuals. Notwithstanding any other provision of this chapter, or any other law, the Director of the Office of Personnel Management is authorized to administer the provisions of this chapter with respect to any individual employed by the United States (other than an individual employed in the Library of Congress, United States Postal Service, Postal Rate Commission, or the Tennessee Valley Authority). Nothing in this subsection shall be construed to affect the right of an employee to bring an action for unpaid minimum wages, or unpaid overtime compensation, and liquidated damages under section 216(b) of this title.
 
-(June 25, 1938, ch. 676, §4, 52 Stat. 1061; Oct. 26, 1949, ch. 736, §4, 63 Stat. 911; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 12, 1955, ch. 867, §2, 69 Stat. 711; May 5, 1961, Pub. L. 87–30, §3, 75 Stat. 66; Apr. 8, 1974, Pub. L. 93–259, §§6(b), 24(c), 27, 88 Stat. 60, 72, 73; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(June 25, 1938, ch. 676, §4, 52 Stat. 1061; Oct. 26, 1949, ch. 736, §4, 63 Stat. 911; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 12, 1955, ch. 867, §2, 69 Stat. 711; May 5, 1961, Pub. L. 87–30, §3, 75 Stat. 66; Apr. 8, 1974, Pub. L. 93–259, §§6(b), 24(c), 27, 88 Stat. 60, 72, 73; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Dec. 21, 1995, Pub. L. 104–66, title I, §1102(a), 109 Stat. 722.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ In subsec. (a), provisions that prescribed the compensation of the Administrator
 In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 #### Amendments
+
+1995—Subsec. (d)(1). Pub. L. 104–66 in first sentence substituted “biennially” and “preceding two years” for “annually” and “preceding year”, respectively.
 
 1974—Subsec. (d)(1). Pub. L. 93–259, §§24(c), 27(1), (2), inserted provision at end of subsec. (d) requiring the report to Congress to include a summary of the special certificates issued under section 214(b) of this title, designated subsec. (d) provisions as subsec. (d)(1), and required the report to contain an evaluation and appraisal of overtime coverage established by this chapter, respectively.
 
@@ -86,7 +88,7 @@ Functions of all other officers of Department of Labor and functions of all agen
 
 Pub. L. 95–151, §2(e), Nov. 1, 1977, 91 Stat. 1246, provided for the establishment, purposes, composition, etc., of the Minimum Wage Study Commission, the submission of reports, with the latest report being submitted to the President and Congress thirty six months after the date of the appointment of the members of the Commission and such appointments being made within 180 days after Nov. 1, 1977, and the Commission to cease to exist thirty days after submission of the report.
 
-#### Secretary of Labor
+#### Definition of “Secretary”
 
-Section 6 of act Aug. 12, 1955, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
+Section 6 of act Aug. 12, 1955, provided that: “The term ‘Secretary’ as used in this Act and in amendmentsmade by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
 

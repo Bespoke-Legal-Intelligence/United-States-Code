@@ -32,7 +32,7 @@ The Administrator may provide for the “President's Environmental Youth Awards�
 
 (3) The Chairman is also authorized to provide a cash award of up to $2,500 to the local education agency employing any teacher selected to receive an award pursuant to this section, which shall be used to fund environmental educational activities and programs. Such awards may not be used for construction costs, general expenses, salaries, bonuses, or other administrative expenses.
 
-(Pub. L. 101 619, §8, Nov. 16, 1990, 104 Stat. 3332.)
+(Pub. L. 101–619, §8, Nov. 16, 1990, 104 Stat. 3332.)
 
 #### Section Referred to in Other Sections
 

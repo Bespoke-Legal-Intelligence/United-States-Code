@@ -8,7 +8,7 @@ The Commissioner may establish one or more national cooperative education statis
 
 The Commissioner, working through the cooperative education statistics system, shall study, design, and pilot a model data system that will yield information about spending for administration at the school and local education agency levels.
 
-(Pub. L. 103 382, title IV, §410, Oct. 20, 1994, 108 Stat. 4036.)
+(Pub. L. 103–382, title IV, §410, Oct. 20, 1994, 108 Stat. 4036.)
 
 #### Section Referred to in Other Sections
 

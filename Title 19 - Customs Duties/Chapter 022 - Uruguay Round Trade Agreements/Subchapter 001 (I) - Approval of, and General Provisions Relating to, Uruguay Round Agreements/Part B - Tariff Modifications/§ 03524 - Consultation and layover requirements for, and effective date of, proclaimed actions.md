@@ -8,7 +8,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 &emsp;&emsp;(B) the International Trade Commission;
 
-&emsp;(2) the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth—
+&emsp;(2) the President has submitted a report to the Committee on Ways and Means of theHouse of Representatives and the Committee on Finance of the Senate that sets forth—
 
 &emsp;&emsp;(A) the action proposed to be proclaimed and the reasons for such actions, and
 
@@ -23,6 +23,10 @@ If a provision of this Act provides that the implementation of an action by the 
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
+
+#### Delegation of Authority
+
+Authority of President under this section delegated to United States Trade Representative by Memorandum of President of the United States, Sept. 29, 1995, 60 F.R. 52061, set out as a note under section 3313 of this title.
 
 #### Section Referred to in Other Sections
 

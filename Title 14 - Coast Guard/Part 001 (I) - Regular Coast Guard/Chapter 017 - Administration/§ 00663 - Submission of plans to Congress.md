@@ -28,9 +28,9 @@ The words “with the fiscal year 1982 budget request” and “subsequent” ar
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Status Reports on Polar Icebreaking Vessels
 
-Pub. L. 99–640, §15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Secretary of the department in whichthe Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard.”
+Pub. L. 99–640, §15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard.”
 

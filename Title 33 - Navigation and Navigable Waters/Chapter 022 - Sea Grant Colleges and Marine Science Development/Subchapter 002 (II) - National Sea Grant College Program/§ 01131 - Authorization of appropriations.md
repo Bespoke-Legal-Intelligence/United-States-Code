@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts; fellowships; international program
 
-There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
+There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127of this title, and section 1124a of this title, an amount—
 
 &emsp;(1) for fiscal year 1991, not to exceed $44,398,000;
 

@@ -56,7 +56,7 @@ Report.—Not later than the expiration of the one-year period beginning on the 
 
 “(f)
 
-Definition.—In this section, the term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Department of the Army or the Department of the Air Force (including the Army and Air Force Exchange Service) which is conducted for the comfort, pleasure,contentment, or physical or mental improvement of members of the Armed Forces.”
+Definition.—In this section, the term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Department of the Army or the Department of the Air Force (including the Army and Air Force Exchange Service) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.”
 
 #### Cross References
 

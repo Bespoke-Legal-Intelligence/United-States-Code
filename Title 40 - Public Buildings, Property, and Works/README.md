@@ -1,5 +1,5 @@
 
-40 U.S.C.<br>United States Code, 1994 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
+40 U.S.C.<br>United States Code, 1995 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
@@ -30,6 +30,7 @@
 | [<b>21.</b>](Chapter%20021%20-%20National%20Capital%20Memorials%20and%20Commemorative%20Works/README.md) | <b>National Capital Memorials and Commemorative Works</b> | <b>1001</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Federal%20Triangle%20Development/README.md) | <b>Federal Triangle Development</b> | <b>1101</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Judiciary%20Office%20Building%20Development/README.md) | <b>Judiciary Office Building Development</b> | <b>1201</b> |
+| [<b>24.</b>](Chapter%20024%20-%20National%20Capital%20Area%20Interest%20Arbitration%20Standards/README.md) | <b>National Capital Area Interest Arbitration Standards</b> | <b>1301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,3 +64,4 @@
 - [Chapter 021 - National Capital Memorials and Commemorative Works](Chapter%20021%20-%20National%20Capital%20Memorials%20and%20Commemorative%20Works/README.md)
 - [Chapter 022 - Federal Triangle Development](Chapter%20022%20-%20Federal%20Triangle%20Development/README.md)
 - [Chapter 023 - Judiciary Office Building Development](Chapter%20023%20-%20Judiciary%20Office%20Building%20Development/README.md)
+- [Chapter 024 - National Capital Area Interest Arbitration Standards](Chapter%20024%20-%20National%20Capital%20Area%20Interest%20Arbitration%20Standards/README.md)

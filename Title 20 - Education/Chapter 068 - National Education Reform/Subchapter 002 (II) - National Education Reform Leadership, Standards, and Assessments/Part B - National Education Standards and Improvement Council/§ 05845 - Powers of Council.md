@@ -36,9 +36,9 @@ The Council may use the research, equipment, services, and facilities of any dep
 
 The Council may accept, administer, and utilize gifts or donations of services, money, or property, whether real or personal, tangible or intangible.
 
-(Pub. L. 103 227, title II, §215, Mar. 31, 1994, 108 Stat. 147; Pub. L. 103 382, title III, §361(b)(1), Oct. 20, 1994, 108 Stat. 3975.)
+(Pub. L. 103–227, title II, §215, Mar. 31, 1994, 108 Stat. 147; Pub. L. 103–382, title III, §361(b)(1), Oct. 20, 1994, 108 Stat. 3975.)
 
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103 382 added subsec. (f).
+1994—Subsec. (f). Pub. L. 103–382 added subsec. (f).
 

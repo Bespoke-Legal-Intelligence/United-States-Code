@@ -8,7 +8,7 @@ For purposes of section 38, the amount of the investment credit determined under
 
 &emsp;(3) the reforestation credit.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963; amended Pub. L. 88–272, title II, §201(d)(4), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–384, §1(c)(1), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–389, §2(b)(5), Apr. 14, 1966, 80 Stat. 114; Pub. L. 89–800, §3, Nov. 8, 1966, 80 Stat. 1514; Pub. L. 90–225, §2(a), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title III, §301(b)(4), title IV, §401(e)(1), title VII, §703(b), Dec. 30, 1969, 83 Stat. 585, 603, 666; Pub. L. 92–178, title I, §§102(a)(1), (b), 105(a)–(c), 106(a)–(c), 107(a)(1), 108(a), Dec. 10, 1971, 85 Stat. 499, 503, 506, 507; Pub. L. 93–406, title II, §§2001(g)(2)(B), 2002(g)(2), 2005(c)(4), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title III, §301(a), (b)(1)–(3), 302(a), (b)(1), Mar. 29, 1975, 89 Stat. 36, 37, 40, 43; Pub. L. 94–455, title V, §503(b)(4), title VIII, §§802(a), (b)(1)–(5), 803(a), (b)(1), 805(a), title XVI, §1607(b)(1)(B), title XVII, §§1701(b), 1703, title XIX, §§1901(a)(4), (b)(1)(C), 1906(b)(13)(A), title XXI, §2112(a)(2), Oct. 4, 1976, 90 Stat. 1562, 1580–1583, 1596, 1756, 1759, 1761, 1764, 1790, 1834, 1905; Pub. L. 95–600, title I, §141(e), (f)(2), title III, §§311(a), (c), 312(a), (b), (c)(2), 313(a), 316(a), (b)(1), (2), title VII, §703(a)(1), (2), (j)(9), Nov. 6, 1978, 92 Stat. 2794, 2795, 2824–2826, 2829, 2939, 2941; Pub. L. 95–618, title II, §241(a), title III, §301(a), (c)(1), Nov. 9, 1978, 92 Stat. 3192, 3194, 3199; Pub. L. 96–222, title I, §§101(a)(7)(A), (L)(iii)(I), (v)(I), (M)(i), 103(a)(2)(A), (B)(i)–(iii), (3), (4)(A), 107(a)(3)(A), Apr. 1, 1980, 94 Stat. 197, 200, 201, 208, 209, 223; Pub. L. 96–223, title II, §§221(a), 222(e)(2), 223(b)(1), Apr. 2, 1980, 94 Stat. 260, 263, 266; Pub. L. 97–34, title II, §§207(c)(1), 211(a)(1), (b), (d), (e)(1), (2), (f)(1), 212(a)(1), (2), title III, §§302(c)(3), (d)(1), 332(a), Aug. 13, 1981, 95 Stat. 225, 227–229, 235, 236, 272, 274, 296; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §§205(b), 265(b)(2)(A)(i), Sept. 3, 1982, 96 Stat. 420, 430, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–354, §5(a)(4)–(6), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §§541(b), 546(b), Jan. 6, 1983, 96 Stat. 2192, 2199; Pub. L. 97–448, title I, §102(e)(1), (f)(5), title II, §202(f), Jan. 12, 1983, 96 Stat. 2370, 2372, 2396; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§16(a), 31(f), 113(b)(2)(B), title IV, §§431(a), (b)(1), (d)(1)–(3), 474(<i>o</i>)(1)–(7), title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 505, 521, 637, 805, 807, 810, 834–836, 957; Pub. L. 99–514, title II, §§201(d)(7)(B), 251(a), title IV, §421(a), (b), title XVIII, §§1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a), Oct. 22, 1986, 100 Stat. 2141, 2183, 2229, 2789, 2855, 2857; Pub. L. 100–647, title I, §§1002(a)(4), (15), (17), (25), 1009(a)(1), 1013(a)(44), title IV, §4006, Nov. 10, 1988, 102 Stat. 3353, 3355, 3356, 3445, 3545, 3652; Pub. L. 101–239, title VII, §§7106, 7814(d), Dec. 19, 1989, 103 Stat. 2306, 2413; Pub. L. 101–508, title XI, §§11406, 11813(a), Nov. 5, 1990, 104 Stat. 1388–474, 1388–536.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963; amended Pub. L. 88–272, title II, §201(d)(4), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–384, §1(c)(1), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–389, §2(b)(5), Apr. 14, 1966, 80 Stat. 114; Pub. L. 89–800, §3, Nov. 8, 1966, 80 Stat. 1514; Pub. L. 90–225, §2(a), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title III, §301(b)(4), title IV, §401(e)(1), title VII, §703(b), Dec. 30, 1969, 83 Stat. 585, 603, 666; Pub. L. 92–178, title I, §§102(a)(1), (b), 105(a)–(c), 106(a)–(c), 107(a)(1), 108(a), Dec. 10, 1971, 85 Stat. 499, 503, 506, 507; Pub. L. 93–406, title II, §§2001(g)(2)(B), 2002(g)(2), 2005(c)(4), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title III, §301(a), (b)(1)–(3), 302(a), (b)(1), Mar. 29, 1975, 89 Stat. 36, 37, 40, 43; Pub. L. 94–455, title V, §503(b)(4), title VIII, §§802(a), (b)(1)–(5), 803(a), (b)(1), 805(a), title XVI, §1607(b)(1)(B), title XVII, §§1701(b), 1703, title XIX, §§1901(a)(4), (b)(1)(C), 1906(b)(13)(A), title XXI, §2112(a)(2), Oct. 4, 1976, 90 Stat. 1562, 1580–1583, 1596, 1756, 1759, 1761, 1764, 1790, 1834, 1905; Pub. L. 95–600, title I, §141(e), (f)(2), title III, §§311(a), (c), 312(a), (b), (c)(2), 313(a), 316(a), (b)(1), (2), title VII, §703(a)(1), (2), (j)(9), Nov. 6, 1978, 92 Stat. 2794, 2795, 2824–2826, 2829, 2939, 2941; Pub. L. 95–618, title II, §241(a), title III, §301(a), (c)(1), Nov. 9, 1978, 92 Stat. 3192, 3194, 3199; Pub. L. 96–222, title I, §§101(a)(7)(A), (L)(iii)(I), (v)(I), (M)(i), 103(a)(2)(A), (B)(i)–(iii), (3), (4)(A), 107(a)(3)(A), Apr. 1, 1980, 94 Stat. 197, 200, 201, 208, 209, 223; Pub. L. 96–223, title II, §§221(a), 222(e)(2), 223(b)(1), Apr. 2, 1980, 94 Stat. 260, 263, 266; Pub. L. 97–34, title II, §§207(c)(1), 211(a)(1), (b), (d), (e)(1), (2), (f)(1), 212(a)(1), (2), title III, §§302(c)(3), (d)(1), 332(a), Aug. 13, 1981, 95 Stat. 225, 227–229, 235, 236, 272, 274, 296; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §§205(b), 265(b)(2)(A)(i), Sept. 3, 1982, 96 Stat. 420, 430, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–354, §5(a)(4)–(6), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §§541(b), 546(b), Jan. 6, 1983, 96 Stat. 2192, 2199; Pub. L. 97–448, title I, §102(e)(1), (f)(5), title II, §202(f), Jan. 12, 1983, 96 Stat. 2370, 2372, 2396; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§16(a), 31(f), 113(b)(2)(B), title IV, §§431(a), (b)(1), (d)(1)–(3), 474(<i>o</i>)(1)–(7), title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 505, 521, 637,805, 807, 810, 834–836, 957; Pub. L. 99–514, title II, §§201(d)(7)(B), 251(a), title IV, §421(a), (b), title XVIII, §§1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a), Oct. 22, 1986, 100 Stat. 2141, 2183, 2229, 2789, 2855, 2857; Pub. L. 100–647, title I, §§1002(a)(4), (15), (17), (25), 1009(a)(1), 1013(a)(44), title IV, §4006, Nov. 10, 1988, 102 Stat. 3353, 3355, 3356, 3445, 3545, 3652; Pub. L. 101–239, title VII, §§7106, 7814(d), Dec. 19, 1989, 103 Stat. 2306, 2413; Pub. L. 101–508, title XI, §§11406, 11813(a), Nov. 5, 1990, 104 Stat. 1388–474, 1388–536.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Pub. L. 99–514, §421(a), inserted table items (viii) to (xi).
 
 Subsec. (b)(2)(E). Pub. L. 99–514, §421(b), added subpar. (E).
 
-Subsec. (b)(4). Pub. L. 99–514, §251(a), in amending par. (4) generally, substituted in subpar. (A) definitionof “rehabilitation percentage” for former table specifying specific rehabilitation percentages, reenacted subpar. (B), and struck out subpar. (C) which related to definitions.
+Subsec. (b)(4). Pub. L. 99–514, §251(a), in amending par. (4) generally, substituted in subpar. (A) definition of “rehabilitation percentage” for former table specifying specific rehabilitation percentages, reenacted subpar. (B), and struck out subpar. (C) which related to definitions.
 
 Subsec. (c)(8)(D)(v). Pub. L. 99–514, §1844(a), substituted “this subparagraph” for “clause (i)”.
 
@@ -82,7 +82,7 @@ Subsec. (c)(8)(D)(i)(I). Pub. L. 98–369, §16(a), repealed amendments made by 
 
 Subsec. (c)(8)(E). Pub. L. 98–369, §431(a), substituted provisions relating to the application of this paragraph to partnerships and subchapter S corporations for provisions defining “related person”.
 
-Subsec. (c)(8)(F)(i). Pub. L. 98–369, §431(d)(1), substituted provisions that subpar. (A) shall not apply with respect to qualified energy property for provisions that subpar. (A) would not apply to amounts borrowed with respect to qualified energy property (other than amounts described in subpar. (B)).
+Subsec. (c)(8)(F)(i). Pub. L. 98–369, §431(d)(1), substituted provisions that subpar. (A) shall not applywith respect to qualified energy property for provisions that subpar. (A) would not apply to amounts borrowed with respect to qualified energy property (other than amounts described in subpar. (B)).
 
 Subsec. (c)(8)(F)(ii)(II). Pub. L. 98–369, §474(<i>o</i>)(2), substituted “subsection (b)(2)” for “section 46(a)(2)(C)”.
 
@@ -268,7 +268,7 @@ Subsec. (d)(4)(D), (6). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his
 
 Subsec. (e)(1)(C). Pub. L. 94–455, §802(b)(4), substituted “subsection (a)(3)” for “subsection (a)(2)”.
 
-Subsec. (e)(2). Pub. L. 94–455, §1607(b)(1)(B), substituted in subpar. (B) “857(b)(2)(B)” for “857(b)(2)(C)”and inserted in provisions following subpar. (C) reference to determine without regard to any deduction for capital gains dividends (as defined in section 857(b)(3)(C)) and by excluding any net capital gain.
+Subsec. (e)(2). Pub. L. 94–455, §1607(b)(1)(B), substituted in subpar. (B) “857(b)(2)(B)” for “857(b)(2)(C)” and inserted in provisions following subpar. (C) reference to determine without regard to any deduction for capital gains dividends (as defined in section 857(b)(3)(C)) and by excluding any net capital gain.
 
 Subsec. (f)(1)(B), (2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -304,7 +304,7 @@ Subsec. (b)(3). Pub. L. 92–178, §106(a), added par. (3).
 
 Subsec. (b)(5). Pub. L. 92–178, §106(c)(1), substituted “Certain taxable years ending in 1969, 1970, or 1971” for “Taxable years beginning after December 31, 1968, and ending after April 18, 1969” in heading; substituted “ending after April 18, 1969, and before January 1, 1972,” for “ending after April 18, 1969,”; and provided that “In the case of a taxable year ending after August 15, 1971, and before January 1, 1972, the percentage contained in the preceding sentence shall be increased by 6 percentage points for each month (or portion thereof) in the taxable year after August 15, 1971”.
 
-Subsec. (b)(6). Pub. L. 92–178, §106(c)(2), substituted “ending after April 18, 1969, and before January 1, 1971,” for “ending after April 18, 1969,” and “following the 7th taxable year after the unused credit year” for “following the last taxable year for which such portion may be added under paragraph (1)”, respectively.
+Subsec. (b)(6). Pub. L. 92–178, §106(c)(2), substituted “ending after April 18, 1969, and before January 1, 1971,” for “ending after April 18, 1969,” and “following the 7thtaxable year after the unused credit year” for “following the last taxable year for which such portion may be added under paragraph (1)”, respectively.
 
 Subsec. (c)(2). Pub. L. 92–178, §102(a)(1), (b), substituted “3 years”, “5 years”, and “7 years” for “4 years” (once), “6 years” (twice), and “8 years” (twice), respectively in tables of first sentence and substituted in second sentence “subpart” for “paragraph” and “useful life of any property shall be the useful life used in computing the allowance for depreciation under section 167 for the taxable year in which the property is placed in service” for “useful life of any property shall be determined as of the time such property is placed in service by the taxpayer”.
 
@@ -344,7 +344,7 @@ Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7814(d) of Pub. L. 101–239 effective, except as otherwise provided, as if included in theprovision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7814(d) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -738,7 +738,7 @@ Section 223(b)(3) of Pub. L. 96–223 provided that: “The amendments made by t
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 141(e), (f)(2) of Pub. L. 95–600 effective with respect to qualified investment for taxable years beginning after Dec. 31, 1978, see section 141(g)(1) of Pub. L. 95–600, set out as an Effective Date note under section 409 of this title.
+Amendment by section 141(e), (f)(2) of Pub. L. 95–600 effective with respect to qualified investment for taxable years beginning after Dec. 31, 1978, see section141(g)(1) of Pub. L. 95–600, set out as an Effective Date note under section 409 of this title.
 
 Section 312(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and sections 48 and 167 of this title and repealing sections 49 and 50 of this title\] shall apply to taxable years ending after December 31, 1978.”
 
@@ -794,7 +794,7 @@ Section 2112(d)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 &emsp;“(A) property acquired by the taxpayer after December 31, 1976, and
 
-&emsp;“(B) property the construction, reconstruction, or erection of which was completed by the taxpayerafter December 31, 1976, (but only to the extent of the basis thereof attributable to construction, reconstruction, or erection after such date), in taxable years beginning after such date.”
+&emsp;“(B) property the construction, reconstruction, or erection of which was completed by the taxpayer after December 31, 1976, (but only to the extent of the basis thereof attributable to construction, reconstruction, or erection after such date), in taxable years beginning after such date.”
 
 #### Effective Date of 1975 Amendment
 
@@ -828,7 +828,7 @@ Section 108(d) of Pub. L. 92–178 provided that: “The amendments made by subs
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 301(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
+Amendment by section 301(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, seesection 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
 Amendment by section 401(e)(1) of Pub. L. 91–172 applicable with respect to taxable years ending on or after Dec. 31, 1970, see section 401(h)(3) of Pub. L. 91–172, set out as a note under section 1561 of this title.
 

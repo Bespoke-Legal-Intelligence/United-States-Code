@@ -1,164 +1,158 @@
 ### §3504. Authority and functions of Director
 
-(a) The Director shall develop and implement Federal information policies, principles, standards, and guidelines and shall provide direction and oversee the review and approval of information collection requests, the reduction of the paperwork burden, Federal statistical activities, records management activities, privacy and security of records, agency sharing and dissemination of information, and acquisition and use of automatic data processing, telecommunications, and other information technology for managing information resources. The authority of the Director under this section shall be exercised consistent with applicable law.
+(a)(1) The Director shall oversee the use of information resources to improve the efficiency and effectiveness of governmental operations to serve agency missions, including burden reduction and service delivery to the public. In performing such oversight, the Director shall—
 
-(b) The general information policy functions of the Director shall include—
+&emsp;(A) develop, coordinate and oversee the implementation of Federal information resources management policies, principles, standards, and guidelines; and
 
-&emsp;(1) developing and implementing uniform and consistent information resources management policies and overseeing the development of information management principles, standards, and guidelines and promoting their use;
+&emsp;(B) provide direction and oversee—
 
-&emsp;(2) initiating and reviewing proposals for changes in legislation, regulations, and agency procedures to improve information practices, and informing the President and the Congress on the progress made therein;
+&emsp;&emsp;(i) the review and approval of the collection of information and the reduction of the information collection burden;
 
-&emsp;(3) coordinating, through the review of budget proposals and as otherwise provided in this section, agency information practices;
+&emsp;&emsp;(ii) agency dissemination of and public access to information;
 
-&emsp;(4) promoting, through the use of the Federal Information Locator System, the review of budget proposals and other methods, greater sharing of information by agencies;
+&emsp;&emsp;(iii) statistical activities;
 
-&emsp;(5) evaluating agency information management practices to determine their adequacy and efficiency, and to determine compliance of such practices with the policies, principles, standards, and guidelines promulgated by the Director; and
+&emsp;&emsp;(iv) records management activities;
 
-&emsp;(6) overseeing planning for, and conduct of research with respect to, Federal collection, processing, storage, transmission, and use of information.
+&emsp;&emsp;(v) privacy, confidentiality, security, disclosure, and sharing of information; and
 
-(c) The information collection request clearance and other paperwork control functions of the Director shall include—
+&emsp;&emsp;(vi) the acquisition and use of information technology.
 
-&emsp;(1) reviewing and approving information collection requests proposed by agencies;
+(2) The authority of the Director under this chapter shall be exercised consistent with applicable law.
 
-&emsp;(2) determining whether the collection of information by an agency is necessary for the proper performance of the functions of the agency, including whether the information will have practical utility for the agency;
+(b) With respect to general information resources management policy, the Director shall—
 
-&emsp;(3) ensuring that all information collection requests—
+&emsp;(1) develop and oversee the implementation of uniform information resources management policies, principles, standards, and guidelines;
 
-&emsp;&emsp;(A) are inventoried, display a control number and, when appropriate, an expiration date;
+&emsp;(2) foster greater sharing, dissemination, and access to public information, including through—
 
-&emsp;&emsp;(B) indicate the request is in accordance with the clearance requirements of section 3507; and
+&emsp;&emsp;(A) the use of the Government Information Locator Service; and
 
-&emsp;&emsp;(C) contain a statement to inform the person receiving the request why the information is being collected, how it is to be used, and whether responses to the request are voluntary, required to obtain a benefit, or mandatory;
+&emsp;&emsp;(B) the development and utilization of common standards for information collection, storage, processing and communication, including standards for security, interconnectivity and interoperability;
 
-&emsp;(4) designating as appropriate, in accordance with section 3509, a collection agency to obtain information for two or more agencies;
+&emsp;(3) initiate and review proposals for changes in legislation, regulations, and agency procedures to improve information resources management practices;
 
-&emsp;(5) setting goals for reduction of the burdens of Federal information collection requests;
+&emsp;(4) oversee the development and implementation of best practices in information resources management, including training; and
 
-&emsp;(6) overseeing action on the recommendations of the Commission on Federal Paperwork; and
+&emsp;(5) oversee agency integration of program and management functions with information resources management functions.
 
-&emsp;(7) designing and operating, in accordance with section 3511, the Federal Information Locator System.
+(c) With respect to the collection of information and the control of paperwork, the Director shall—
 
-(d) The statistical policy and coordination functions of the Director shall include—
+&emsp;(1) review and approve proposed agency collections of information;
 
-&emsp;(1) developing and periodically reviewing and, as necessary, revising long-range plans for the improved coordination and performance of the statistical activities and programs of the Federal Government;
+&emsp;(2) coordinate the review of the collection of information associated with Federal procurement and acquisition by the Office of Information and Regulatory Affairs with the Office of Federal Procurement Policy, with particular emphasis on applying information technology to improve the efficiency and effectiveness of Federal procurement, acquisition and payment, and to reduce information collection burdens on the public;
 
-&emsp;(2) reviewing budget proposals of agencies to assure that the proposals are consistent with such long-range plans;
+&emsp;(3) minimize the Federal information collection burden, with particular emphasis on those individuals and entities most adversely affected;
 
-&emsp;(3) coordinating, through the review of budget proposals and as otherwise provided in this chapter, the functions of the Federal Government with respect to gathering, interpreting, and disseminating statistics and statistical information;
+&emsp;(4) maximize the practical utility of and public benefit from information collected by or for the Federal Government; and
 
-&emsp;(4) developing and implementing Government-wide policies, principles, standards, and guidelines concerning statistical collection procedures and methods, statistical data classification, statistical information presentation and dissemination, and such statistical data sources as may be required for the administration of Federal programs;
+&emsp;(5) establish and oversee standards and guidelines by which agencies are to estimate the burden to comply with a proposed collection of information.
 
-&emsp;(5) evaluating statistical program performance and agency compliance with Government-wide policies, principles, standards, and guidelines;
+(d) With respect to information dissemination, the Director shall develop and oversee the implementation of policies, principles, standards, and guidelines to—
 
-&emsp;(6) integrating the functions described in paragraphs (1) through (5) of this subsection with the other information resources management functions specified in this chapter; and
+&emsp;(1) apply to Federal agency dissemination of public information, regardless of the form or format in which such information is disseminated; and
 
-&emsp;(7) appointing a chief statistician who is a trained and experienced professional statistician to carry out the functions described in paragraphs (1) through (6) of this subsection.
+&emsp;(2) promote public access to public information and fulfill the purposes of this chapter, including through the effective use of information technology.
 
-(e) The records management functions of the Director shall include—
+(e) With respect to statistical policy and coordination, the Director shall—
 
-&emsp;(1) providing advice and assistance to the Archivist of the United States and the Administrator of General Services in order to promote coordination in the administration of chapters 29, 31, and 33 of this title with the information policies, principles, standards, and guidelines established under this chapter;
+&emsp;(1) coordinate the activities of the Federal statistical system to ensure—
 
-&emsp;(2) reviewing compliance by agencies with the requirements of chapters 29, 31, and 33 of this title and with regulations promulgated by the Archivist of the United States and the Administrator of General Services thereunder; and
+&emsp;&emsp;(A) the efficiency and effectiveness of the system; and
 
-&emsp;(3) coordinating records management policies and programs with related information programs such as information collection, statistics, automatic data processing and telecommunications, and similar activities.
+&emsp;&emsp;(B) the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes;
 
-(f) The privacy functions of the Director shall include—
+&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities for maintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
 
-&emsp;(1) developing and implementing policies, principles, standards, and guidelines on information disclosure and confidentiality, and on safeguarding the security of information collected or maintained by or on behalf of agencies;
+&emsp;(3) develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning—
 
-&emsp;(2) providing agencies with advice and guidance about information security, restriction, exchange, and disclosure; and
+&emsp;&emsp;(A) statistical collection procedures and methods;
 
-&emsp;(3) monitoring compliance with section 552a of title 5, United States Code, and related information management laws.
+&emsp;&emsp;(B) statistical data classification;
 
-(g) The Federal automatic data processing (including telecommunications) functions of the Director shall include—
+&emsp;&emsp;(C) statistical information presentation and dissemination;
 
-&emsp;(1) developing and implementing policies, principles, standards, and guidelines for automatic data processing (including telecommunications) functions and activities of the Federal Government, and overseeing the establishment of standards under section 111(d) of the Federal Property and Administrative Services Act of 1949;
+&emsp;&emsp;(D) timely release of statistical data; and
 
-&emsp;(2) monitoring the effectiveness of, and compliance with, directives issued pursuant to sections 110 and 111 of such Act of 1949 and reviewing proposed determinations under section 111(e) of such Act;
+&emsp;&emsp;(E) such statistical data sources as may be required for the administration of Federal programs;
 
-&emsp;(3) providing advice and guidance on the acquisition and use of automatic data processing (including telecommunications) equipment, and coordinating, through the review of budget proposals and other methods, agency proposals for acquisition and use of such equipment;
+&emsp;(4) evaluate statistical program performance and agency compliance with Governmentwide policies, principles, standards and guidelines;
 
-&emsp;(4) promoting the use of automatic data processing (including telecommunications) equipment by the Federal Government to improve the effectiveness of the use and dissemination of data in the operation of Federal programs; and
+&emsp;(5) promote the sharing of information collected for statistical purposes consistent with privacy rights and confidentiality pledges;
 
-&emsp;(5) initiating and reviewing proposals for changes in legislation, regulations, and agency procedures to improve automatic data processing (including telecommunications) practices, and informing the President and the Congress of the progress made therein.
+&emsp;(6) coordinate the participation of the United States in international statistical activities, including the development of comparable statistics;
 
-(h)(1) As soon as practicable, but no later than publication of a notice of proposed rulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information requirement and upon request, information necessary to make the determination required pursuant to this section.
+&emsp;(7) appoint a chief statistician who is a trained and experienced professional statistician to carry out the functions described under this subsection;
 
-(2) Within sixty days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information requirement contained in the proposed rule.
+&emsp;(8) establish an Interagency Council on Statistical Policy to advise and assist the Director in carrying out the functions under this subsection that shall—
 
-(3) When a final rule is published in the Federal Register, the agency shall explain how any collection of information requirement contained in the final rule responds to the comments, if any, filed by the Director or the public, or explain why it rejected those comments.
+&emsp;&emsp;(A) be headed by the chief statistician; and
 
-(4) The Director has no authority to disapprove any collection of information requirement specifically contained in an agency rule, if he has received notice and failed to comment on the rule within sixty days of the notice of proposed rulemaking.
+&emsp;&emsp;(B) consist of—
 
-(5) Nothing in this section prevents the Director, in his discretion—
+&emsp;&emsp;&emsp;(i) the heads of the major statistical programs; and
 
-&emsp;(A) from disapproving any information collection request which was not specifically required by an agency rule;
+&emsp;&emsp;&emsp;(ii) representatives of other statistical agencies under rotating membership; and
 
-&emsp;(B) from disapproving any collection of information requirement contained in an agency rule, if the agency failed to comply with the requirements of paragraph (1) of this subsection; or <sup>1</sup>
+&emsp;(9) provide opportunities for training in statistical policy functions to employees of the Federal Government under which—
 
-&emsp;(C) from disapproving any collection of information requirement contained in a final agency rule, if the Director finds within sixty days of the publication of the final rule thatthe agency's response to his comments filed pursuant to paragraph (2) of this subsection was unreasonable.<sup>2</sup>
+&emsp;&emsp;(A) each trainee shall be selected at the discretion of the Director based on agency requests and shall serve under the chief statistician for at least 6 months and not more than 1 year; and
 
-&emsp;(D) from disapproving any collection of information requirement where the Director determines that the agency has substantially modified in the final rule the collection of information requirement contained in the proposed rule where the agency has not given the Director the information required in paragraph (1), with respect to the modified collection of information requirement, at least sixty days before the issuance of the final rule.
+&emsp;&emsp;(B) all costs of the training shall be paid by the agency requesting training.
 
-(6) The Director shall make publicly available any decision to disapprove a collection of information requirement contained in an agency rule, together with the reasons for such decision.
+(f) With respect to records management, the Director shall—
 
-(7) The authority of the Director under this subsection is subject to the provisions of section 3507(c).
+&emsp;(1) provide advice and assistance to the Archivist of the United States and the Administrator of General Services to promote coordination in the administration of chapters 29, 31, and 33 of this title with the information resources management policies, principles, standards, and guidelines established under this chapter;
 
-(8) This subsection shall apply only when an agency publishes a notice of proposed rulemaking and requests public comments.
+&emsp;(2) review compliance by agencies with—
 
-(9) There shall be no judicial review of any kind of the Director's decision to approve or not to act upon a collection of information requirement contained in an agency rule.
+&emsp;&emsp;(A) the requirements of chapters 29, 31, and 33 of this title; and
 
-(Added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2815; amended Pub. L. 98–497, title I, §107(b)(26), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 99–500, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, 1783–342, and Pub. L. 99–591, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, 3341–342.)
+&emsp;&emsp;(B) regulations promulgated by the Archivist of the United States and the Administrator of General Services; and
+
+&emsp;(3) oversee the application of records management policies, principles, standards, and guidelines, including requirements for archiving information maintained in electronic format, in the planning and design of information systems.
+
+(g) With respect to privacy and security, the Director shall—
+
+&emsp;(1) develop and oversee the implementation of policies, principles, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for agencies;
+
+&emsp;(2) oversee and coordinate compliance with sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note), and related information management laws; and
+
+&emsp;(3) require Federal agencies, consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note), to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+
+(h) With respect to Federal information technology, the Director shall—
+
+&emsp;(1) in consultation with the Director of the National Institute of Standards and Technology and the Administrator of General Services—
+
+&emsp;&emsp;(A) develop and oversee the implementation of policies, principles, standards, and guidelines for information technology functions and activities of the Federal Government, including periodic evaluations of major information systems; and
+
+&emsp;&emsp;(B) oversee the development and implementation of standards under section 111(d) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(d));
+
+&emsp;(2) monitor the effectiveness of, and compliance with, directives issued under sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757 and 759);
+
+&emsp;(3) coordinate the development and review by the Office of Information and Regulatory Affairs of policy associated with Federal procurement and acquisition of information technology with the Office of Federal Procurement Policy;
+
+&emsp;(4) ensure, through the review of agency budget proposals, information resources management plans and other means—
+
+&emsp;&emsp;(A) agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and
+
+&emsp;&emsp;(B) the efficiency and effectiveness of inter-agency information technology initiatives to improve agency performance and the accomplishment of agency missions; and
+
+&emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167.)
 
 #### References in Text
 
-Section 111 of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (g)(1), (2), is classified to section 759 of Title 40, Public Buildings, Property, and Works.
-
-Section 110 of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (g)(2), is classified to section 757 of Title 40.
-
-#### Codification
-
-Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The Computer Security Act of 1987, referred to in subsec. (g)(2), (3), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 759 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511, §2(a). See section 3509 of this title.
+A prior section 3504, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2815; amended Pub. L. 98–497, title I, §107(b)(26), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 99–500, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, 1783–342, and Pub. L. 99–591, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, 3341–342, related to authority and functions of Director prior to the general amendment of this chapter by Pub. L. 104–13.
 
-Provisions similar to those comprising this section were contained in former section 3503 prior to the general amendment of this chapter by Pub. L. 96–511, §2(a).
-
-#### Amendments
-
-1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §814(a)\], amended subsec. (a) generally, substituting “and security of records, agency sharing and dissemination of information, and acquisition and use of automatic data processing, telecommunications, and other information technology for managing information resources. The authority of the Director” for “of records, interagency sharing of information, and acquisition and use of automatic data processing telecommunications, and other technology for managing information resources. The authority”.
-
-Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §814(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The statistical policy and coordination functions of the Director shall include—
-
-&emsp;“(1) developing long range plans for the improved performance of Federal statistical activities and programs;
-
-&emsp;“(2) coordinating, through the review of budget proposals and as otherwise provided in this section, the functions of the Federal Government with respect to gathering, interpreting, and disseminating statistics and statistical information;
-
-&emsp;“(3) developing and implementing Government-wide policies, principles, standards, and guidelines concerning statistical collection procedures and methods, statistical data classifications, and statistical information presentation and dissemination; and
-
-&emsp;“(4) evaluating statistical program performance and agency compliance with Government-wide policies, principles, standards, and guidelines.”
-
-Subsec. (g). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §821(b)(2)\], substituted “section 111(d)” for “section 111(f)” in par. (1) and “section 111(e)” for “section 111(g)” in par. (2).
-
-Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §814(c)\], substituted “(including telecommunications)” for “and telecommunications” in introductory provisions and in pars. (1), (3), (4), and (5).
-
-1984—Subsec. (e)(1), (2). Pub. L. 98–497 inserted “the Archivist of the United States and” before “the Administrator of General Services” wherever appearing.
-
-#### Effective Date of 1986 Amendment
-
-Amendment by section 101(m) \[title VIII, §814\] of Pub. L. 99–500 and Pub. L. 99–591 effective Oct. 18, 1986, and amendment by section 101(m) \[title VIII, §821(b)(2)\] of Pub. L. 99–500 and Pub. L. 99–591 effective Jan. 1, 1987, see section 101(m) \[title VIII, §833\] of Pub. L. 99–500 and Pub. L. 99–591, set out as a note under section 757 of Title 40, Public Buildings, Property, and Works.
-
-#### Effective Date of 1984 Amendment
-
-Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3507, 3514 of this title; title 41 section 421; title 42 section 13271.
-
-<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be “; or”.</i>
+This section is referred to in title 41 section 421; title 42 section 13271.
 

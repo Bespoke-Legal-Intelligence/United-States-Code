@@ -66,7 +66,7 @@ From appropriations under section 6064(a) <sup>1</sup> of this title, the Secre
 
 #### (H) Other areas
 
-&emsp;&emsp;Grants under this subsection for training projects with respect to programs in otherareas of national significance shall be for the purpose of training personnel in an area of special concern to the university affiliated program, and shall be developed in consultation with the State Developmental Disabilities Council.
+&emsp;&emsp;Grants under this subsection for training projects with respect to programs in other areas of national significance shall be for the purpose of training personnel in an area of special concern to the university affiliated program, and shall be developed in consultation with the State Developmental Disabilities Council.
 
 #### (4) Courses, traineeships and fellowships
 
@@ -78,7 +78,7 @@ From appropriations under section 6064(a) <sup>1</sup> of this title, the Secre
 
 #### (5) Prohibited activities
 
-&emsp;Grants awarded under this subsection shall not be used for administrative expenses for the university affiliated program under subsection (a) of this section.
+&emsp;Grants awarded under this subsection shall not be used for administrative expenses for theuniversity affiliated program under subsection (a) of this section.
 
 #### (6) Criteria
 
@@ -136,7 +136,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(F), i
 
 #### Prior Provisions
 
-A prior section 6062, Pub. L. 88–164, title I, §132, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317; amended Pub. L. 94–103, title I, §110(b)–(e)(1),title III, §302(b)(1), Oct. 4, 1975, 89 Stat. 489, 490, 506; Pub. L. 94–278, title XI, §1107(a) Apr. 22, 1976, 90 Stat. 416; Pub. L. 95–602, title V, §510(b), Nov. 6, 1978, 92 Stat. 3010, related to allotments to States, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6025 of this title.
+A prior section 6062, Pub. L. 88–164, title I, §132, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317; amended Pub. L. 94–103, title I, §110(b)–(e)(1), title III, §302(b)(1), Oct. 4, 1975, 89 Stat. 489, 490, 506; Pub. L. 94–278, title XI, §1107(a) Apr. 22, 1976, 90 Stat. 416; Pub. L. 95–602, title V, §510(b), Nov. 6, 1978, 92 Stat. 3010, related to allotments to States, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6025 of this title.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ There is established in the Treasury of the United States the Special Forfeiture
 
 #### (b) Deposits
 
-There shall be deposited into the Fund the amounts specified by section 524(c)(9) of title 28 and section 9307(g) <sup>1</sup> of title 31 and any earnings on the investments authorized by subsection (d) of this section.
+There shall be deposited into the Fund the amounts specified by section 524(c)(9) <sup>1</sup> of title 28 and section 9307(g) <sup>1</sup> of title 31 and any earnings on the investments authorized by subsection (d) of this section.
 
 #### (c) Super surplus
 
@@ -24,15 +24,17 @@ The President shall, in consultation with the Director for National Drug Control
 
 #### (f) Funds provided supplemental
 
-Funds disbursed under this subsection <sup>3</sup> shall not be used to supplant existing funds, but shall be used to supplement the amount of funds that would be otherwise available.
+Funds disbursed under this subsection <sup>3</sup> shall not be used to supplant existing funds, but shallbe used to supplement the amount of funds that would be otherwise available.
 
 #### (g) Annual report
 
 No later than 4 months after the end of each fiscal year, the President shall submit to both Houses of Congress a detailed report on the amounts deposited in the Fund and a description of expenditures made under this subsection.<sup>3</sup>
 
-(Pub. L. 100–690, title VI, §6073, Nov. 18, 1988, 102 Stat. 4323; Pub. L. 101–647, title XX, §2001(b),Nov. 29, 1990, 104 Stat. 4854; Pub. L. 102–393, title VI, §638(c), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 103–322, title IX, §90205(a), (d), Sept. 13, 1994, 108 Stat. 1994, 1995.)
+(Pub. L. 100–690, title VI, §6073, Nov. 18, 1988, 102 Stat. 4323; Pub. L. 101–647, title XX, §2001(b), Nov. 29, 1990, 104 Stat. 4854; Pub. L. 102–393, title VI, §638(c), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 103–322, title IX, §90205(a), (d), Sept. 13, 1994, 108 Stat. 1994, 1995.)
 
 #### References in Text
+
+Section 524(c)(9) of title 28, referred to in subsec. (b), was redesignated section 524(c)(8) by Pub. L. 104–66, title I, §1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
 Section 9307(g) of title 31, referred to in subsec. (b), probably should be a reference to section 9703(g) of title 31, and probably means the section 9703 of title 31 added by section 638(b)(1) of Pub. L. 102–393.
 

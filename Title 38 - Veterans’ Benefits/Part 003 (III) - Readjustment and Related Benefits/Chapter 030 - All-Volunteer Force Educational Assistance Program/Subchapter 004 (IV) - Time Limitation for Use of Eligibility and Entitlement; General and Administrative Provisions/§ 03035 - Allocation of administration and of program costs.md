@@ -4,7 +4,7 @@
 
 (b)(1) Except to the extent provided in paragraphs (2) and (3) of this subsection, payments for entitlement earned under subchapter II of this chapter shall be made from funds appropriated to, or otherwise available to, the Department of Veterans Affairs for the payment of readjustment benefits.
 
-(2) Payments for entitlement earned under subchapter II of this chapter that is established under section 3015(d) of this title at a rate in excess of the rate prescribed under subsection (a) or (b) of section 3015 of this title shall, to the extent of that excess, be made from the Department of Defense Education Benefits Fund established under section 2006 of title 10 or from appropriations made to the Department of Transportation, as appropriate.
+(2) Payments for entitlement earned under subchapter II of this chapter that is establishedunder section 3015(d) of this title at a rate in excess of the rate prescribed under subsection (a) or (b) of section 3015 of this title shall, to the extent of that excess, be made from the Department of Defense Education Benefits Fund established under section 2006 of title 10 or from appropriations made to the Department of Transportation, as appropriate.
 
 (3) Payment for entitlements established under section 3018A or 3018B of this title shall be made—
 

@@ -14,7 +14,7 @@ Any loans made under the provisions of this section shall be subject to the foll
 
 &emsp;(3) No financial assistance shall be extended pursuant to this section unless reasonable financial assistance applied for is not otherwise available on reasonable terms.
 
-&emsp;(4) Loans shall be approved only upon the furnishing of such security or other reasonable assurance of repayment as the Secretary may require considering the objectives of this section which are to upgrade commercial fishing vessels and gear and to provide reasonable financial assistance not otherwise available to commercial fishermen. The proposed collateral for a loan must be of such a nature that, when considered with the integrity and ability of the management, and the applicant's past and prospective earnings, repayment of the loan will be reasonably assured.
+&emsp;(4) Loans shall be approved only upon the furnishing of such security or other reasonable assurance of repayment as the Secretary may require considering the objectives of this section which are to upgrade commercial fishing vessels and gear and to provide reasonable financial assistance not otherwise available tocommercial fishermen. The proposed collateral for a loan must be of such a nature that, when considered with the integrity and ability of the management, and the applicant's past and prospective earnings, repayment of the loan will be reasonably assured.
 
 &emsp;(5) The applicant shall possess the ability, experience, resources, and other qualifications necessary to enable him to operate and maintain new or used commercial fishing vessels or gear.
 
@@ -34,7 +34,7 @@ There is created a fisheries loan fund, which shall be used by the Secretary as 
 
 #### (d) Modification of loan contract
 
-The Secretary, subject to the specific limitations in this section, may consent to the modification, with respect to the rate of interest,time of payment of any installment of principal, or security, of any loan contract to which he is a party.
+The Secretary, subject to the specific limitations in this section, may consent to the modification, with respect to the rate of interest, time of payment of any installment of principal, or security, of any loan contract to which he is a party.
 
 #### (e) Chartering vessels; loans to Alaskan earthquake victims; termination date
 
@@ -94,7 +94,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 #### Loans Under Fish and Wildlife Act of 1956
 
-Pub. L. 96–561, title II, §221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, §103(b), July 12,1983, 97 Stat. 216; Pub. L. 98–498, title IV, §431, Oct. 19, 1984, 98 Stat. 2310, provided that:
+Pub. L. 96–561, title II, §221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, §103(b), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §431, Oct. 19, 1984, 98 Stat. 2310, provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ Loans To Avoid Default on Obligations Covering Fishing Vessels.—(1) The Secret
 
 “(B) If any moneys are available in the fisheries loan fund for each such fiscal year after subparagraph (A) is complied with for that year, the Secretary shall use such moneys for the purpose of making loans described in paragraph (1)(B) during that year.
 
-“(C) At an appropriate time during each of fiscal years 1981, 1982, 1983, 1984, 1985, and 1986, the Secretary shall compare the actual loan experience during that year with the estimate made for that year under subparagraph (A) and if the Secretary determines, on the basis of such comparison, that the demand for loans described in paragraph (1)(A) will be less than estimated, the Secretary shall, for the fiscal year concerned, apply moneys reserved for such loans for the purpose of making loans described in paragraph (1)(B) and, to the extent not utilized for loans described in paragraph (1)(B), for the purpose of making loans under subsection (c).
+“(C) At an appropriate time during each of fiscal years 1981, 1982, 1983, 1984, 1985, and 1986, the Secretary shall compare the actual loan experience during that year with the estimate made for that year under subparagraph (A) and if the Secretary determines, on the basis of such comparison, that the demand for loans described in paragraph (1)(A) will be less than estimated,the Secretary shall, for the fiscal year concerned, apply moneys reserved for such loans for the purpose of making loans described in paragraph (1)(B) and, to the extent not utilized for loans described in paragraph (1)(B), for the purpose of making loans under subsection (c).
 
 “(3) The Secretary may make loans under this subsection only to owners or operators who, in the judgment of the Secretary, have substantial experience and proven ability in the management and financing of fishing operations, and only if (A) loans for the purpose described in paragraph (1) are not otherwise available at reasonable rates which permit continued operations, and (B) the loans are likely to result in the financial viability of the fishing operations of the owners or operators. Each such loan shall be subject to such terms and conditions as the Secretary deems necessary or appropriate to protect the interests of the United States and to carry out the purpose of this subsection. In establishing such terms and conditions, the Secretary shall take into account, among such other factors he deems pertinent, the extent to which the obligations concerned have been retired, and the overall financial condition of the obligors. The interest rate on loans made under the authority of this subsection shall not exceed that rate determined by the Secretary to be sufficient to cover the costs incurred in processing and servicing of such loans.
 

@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (iii) Aggregation of transactions
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, all sales and exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, all sales and exchanges which are part of the same transaction (or a series of relatedtransactions) shall be treated as 1 sale or exchange.
 
 #### (D) Debt instruments which are publicly traded or issued for publicly traded property
 

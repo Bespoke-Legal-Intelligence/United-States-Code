@@ -36,7 +36,7 @@ In paragraph (1), the words “of America” are omitted as unnecessary.
 
 In paragraph (2), the word “agency” is substituted for “Government agency”. The term “Executive agency” is substituted for the reference to “each executive department of the Government, each independent establishment or agency in the executive branch of the Government, including each corporation wholly owned (either directly or through one or more corporations) by the Government”. The exception of “a Government controlled corporation” is added to preserve the application of this subchapter to corporations wholly owned by the Government.
 
-In paragraph (3), the word “employee” is substituted for “individual in the civilian service” in view of the definition of “employee” in section 2105. Reference to “ambassadors, ministers, and officers of the Foreign Service under the Department of State” is omitted as included in the definition of “employee”.
+In paragraph (3), the word “employee” is substituted for “individual in the civilian service” in view of the definition of “employee” in section 2105. Reference to “ambassadors, ministers, and officers of the ForeignService under the Department of State” is omitted as included in the definition of “employee”.
 
 In paragraph (4), the words “of the United States of America” are omitted as unnecessary.
 
@@ -94,7 +94,7 @@ Section 1. The Secretary of State is hereby designated and empowered to perform 
 
 (d) The authority vested in the President by other provisions of law (including section 235(2) \[now 707(a)(2)\] of title 38 of the United States Code) to prescribe regulations governing representation allowances similar to those authorized by section 905 of the Foreign Service Act of 1980 (22 U.S.C. 4085).
 
-(e) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat, fuel, and light, in government-owned or rented buildings).
+(e) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat,fuel, and light, in government-owned or rented buildings).
 
 (f) \[Repealed by Ex. Ord. No. 12292, §4(f), Feb. 23, 1981, 46 F.R. 13967\]
 
@@ -188,7 +188,7 @@ Sec. 202. Regulations approved under authority delegated by the provisions of Se
 
 (c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
 
-(d) Shall not, with respect to any locality, authorize allowances which exceed those prescribed under Executive Order No. 10000 of September 16, 1948, as amended,for other employees of the United States in the same locality.
+(d) Shall not, with respect to any locality, authorize allowances which exceed those prescribed under Executive Order No. 10000 of September 16, 1948, as amended, for other employees of the United States in the same locality.
 
 #### Part III—General Provisions
 

@@ -12,7 +12,7 @@ Whenever credit for personal, family, or household purposes involving a consumer
 
 No person shall be held liable for any violation of this section if he shows by a preponderance of the evidence that at the time of the alleged violation he maintained reasonable procedures to assure compliance with the provisions of subsections (a) and (b) of this section.
 
-(Pub. L. 90 321, title VI, §615, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133.)
 
 #### Section Referred to in Other Sections
 

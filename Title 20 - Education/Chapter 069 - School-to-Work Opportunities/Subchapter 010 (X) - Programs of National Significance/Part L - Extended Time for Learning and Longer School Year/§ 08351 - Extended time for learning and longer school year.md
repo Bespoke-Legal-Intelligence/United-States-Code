@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the Commission on Time and Learning has found that—
 
-&emsp;&emsp;(A) realizing the third National Education Goal, that states all students will leave grades four, eight and twelve having demonstrated competency in challenging subjectmatter, including English, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography, will require considerably more common core learning time than most students now receive;
+&emsp;&emsp;(A) realizing the third National Education Goal, that states all students will leave grades four, eight and twelve having demonstrated competency in challenging subject matter, including English, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography, will require considerably more common core learning time than most students now receive;
 
 &emsp;&emsp;(B) ensuring that all students learn to high standards will require flexibility and innovation in the use of common core learning time, as well as the rest of the time students spend both during and beyond the school day;
 
@@ -154,5 +154,5 @@ For the purpose of this section the term “common core learning time” means h
 
 &emsp;Not less than 80 percent of any amount appropriated under paragraph (1) shall be made available to applicants seeking to extend their school year to not fewer than 210 days.
 
-(Pub. L. 89 10, title X, §10993, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3863.)
+(Pub. L. 89–10, title X, §10993, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3863.)
 

@@ -50,5 +50,5 @@ Definition of Combat Support Agency.—In this section, the term “combat suppo
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 
-Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to besubmitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
 

@@ -18,7 +18,7 @@ The Board of Directors may transfer to the legal entity authorized to be establi
 
 Any authority provided by this chapter to enter into contracts shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 98–525, title XVII, §1710, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 99–498, title XVI, §1601(a)(1), (b), Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–569, title III, §301\[(a)\], Oct. 31, 1988, 102 Stat. 2863;Pub. L. 102–325, title XV, §1554(a), July 23, 1992, 106 Stat. 839; Pub. L. 103–208, §2(k)(14), Dec. 20, 1993, 107 Stat. 2486.)
+(Pub. L. 98–525, title XVII, §1710, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 99–498, title XVI, §1601(a)(1), (b), Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–569, title III, §301\[(a)\], Oct. 31, 1988, 102 Stat. 2863; Pub. L. 102–325, title XV, §1554(a), July 23, 1992, 106 Stat. 839; Pub. L. 103–208, §2(k)(14), Dec. 20, 1993, 107 Stat. 2486.)
 
 #### Amendments
 

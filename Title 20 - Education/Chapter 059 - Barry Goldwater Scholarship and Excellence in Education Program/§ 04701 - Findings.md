@@ -10,9 +10,9 @@ The Congress makes the following findings:
 
 &emsp;(4) It would, therefore, be a fitting tribute to the leadership, courage, and vision of Senator Goldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.
 
-(Pub. L. 99 661, div. A, title XIV, §1402, Nov. 14, 1986, 100 Stat. 4008.)
+(Pub. L. 99–661, div. A, title XIV, §1402, Nov. 14, 1986, 100 Stat. 4008.)
 
 #### Short Title
 
-Section 1401 of title XIV of div. A of Pub. L. 99 661 provided that: “This title \[enacting this chapter\] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
+Section 1401 of title XIV of div. A of Pub. L. 99–661 provided that: “This title \[enacting this chapter\] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
 

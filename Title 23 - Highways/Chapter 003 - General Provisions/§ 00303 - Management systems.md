@@ -24,7 +24,7 @@ Traffic Monitoring.—Not later than 1 year after the date of the enactment of t
 
 (c)
 
-State Requirements.—The Secretary may withhold up to 10 percent of the funds apportioned under this title and under chapter 53 of title 49 for any fiscal year beginning after September 30, 1995, to any State and any recipient of assistance under such Act in the State unless, in the preceding fiscal year, the State was implementing each of the management systems described in subsection (a) and, before January 1 of the preceding fiscal year, the State certified, in writing, to the Secretary, that the State was implementing each of such management systems in the preceding fiscal year.
+State Election.—A State may elect, at any time, not to implement, in whole or in part, 1 or more of the management systems required under this section. The Secretary may not impose any sanction on, or withhold any benefit from, a State on the basis of such an election.
 
 (d)
 
@@ -36,7 +36,15 @@ Intermodal Requirements.—The management system required under this section for
 
 (f)
 
-Annual Report.—Not later than January 1 of each calendar year beginning after December 31, 1992, the Secretary shall transmit to Congress a report on the progress being made by the Secretary and the States in carrying out this section.
+Reports.—
+
+&emsp;(1)
+
+Annual reports.—Not later than January 1 of each calendar year beginning after December 31, 1992, the Secretary shall transmit to Congress a report on the progress being made by the Secretary and the States in carrying out this section.
+
+&emsp;(2)
+
+Report on implementation.—Not later than October 1, 1996, the Comptroller General, in consultation with States, shall transmit to Congress a report on the management systems under this section, including recommendations as to whether, to what extent, and how the management systems should be implemented.
 
 (g)
 
@@ -46,7 +54,7 @@ Funding.—Subject to project approval by the Secretary, a State may obligate fu
 
 Review of Regulations.—Not later than 10 days after the date of issuance of any regulation under this section, the Secretary shall transmit a copy of such regulation to Congress for review.
 
-(Added Pub. L. 102–240, title I, §1034(a), Dec. 18, 1991, 105 Stat. 1977; amended Pub. L. 103–429, §3(8), (9), Oct. 31, 1994, 108 Stat. 4378.)
+(Added Pub. L. 102–240, title I, §1034(a), Dec. 18, 1991, 105 Stat. 1977; amended Pub. L. 103–429, §3(8), (9), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, §205(a), Nov. 28, 1995, 109 Stat. 576.)
 
 #### References in Text
 
@@ -57,6 +65,14 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b), 
 A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, §1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, §305(24), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–605, title I, §114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, §152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–59, §205(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
+
+“(c)
+
+State Requirements.—The Secretary may withhold up to 10 percent of the funds apportioned under this title and under chapter 53 of title 49 for any fiscal year beginning after September 30, 1995, to any State and any recipient of assistance under such Act in the State unless, in the preceding fiscal year, the State was implementing each of the management systems described in subsection (a) and, before January 1 of the preceding fiscal year, the State certified, in writing, to the Secretary, that the State was implementing each of such management systems in the preceding fiscal year.”
+
+Subsec. (f). Pub. L. 104–59, §205(a)(2), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading and realigned margins, and added par. (2).
 
 1994—Subsec. (c). Pub. L. 103–429, §3(8), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 

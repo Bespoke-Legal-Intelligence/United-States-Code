@@ -20,7 +20,7 @@ Grant funds made available under this part may be used by an eligible local educ
 
 Grant funds under this part may be used in accordance with paragraphs (2) and (3) of subsection (a) of this section only if the activities described in such paragraphs are directly related to improving the students’ reading skills or knowledge of mathematics, science, history, geography, English, foreign languages, art, or music, or to improving vocational skills.
 
-(Pub. L. 89 10, title V, §5108, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3693.)
+(Pub. L. 89–10, title V, §5108, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693.)
 
 #### Section Referred to in Other Sections
 

@@ -16,6 +16,10 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 Subsec. (b). Pub. L. 94–5, §6(b), substituted “$282,000,000” for “$85,000,000” and inserted provision that, of amounts authorized to be appropriated under this subsection $50,000,000 be available solely to pay to trustees of railroads in reorganization sums necessary to provide railroads with amounts equal to revenues attributable to tariff increases proposed by railroads and suspended by Interstate Commerce Commission during calendar year 1975, if Secretary determines that payments are necessary to carry out this section.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 725, 743 of this title.

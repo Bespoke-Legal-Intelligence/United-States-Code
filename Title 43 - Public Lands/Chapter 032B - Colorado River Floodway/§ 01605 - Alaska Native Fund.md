@@ -26,7 +26,7 @@ None of the funds paid or distributed pursuant to this section to any of the Reg
 
 #### (c) Distribution of Fund moneys among organized Regional Corporations; basis as relative number of Native enrollees in each region; reserve for payment of attorney and other fees; retention of share in Fund until organization of corporation
 
-After completion of the roll prepared pursuant to section 1604 of this title, all money in the Fund, except money reserved as provided in section 1619 of this title for the payment of attorney and other fees, shall be distributed at the end of each three months of the fiscal year among the Regional Corporations organized pursuant to section 1606 of this title on the basis of the relative numbers of Natives enrolled in each region. The share of a Regional Corporation that has not been organized shall be retained in the Fund until the Regional Corporation is organized.
+After completion of the roll prepared pursuant to section 1604 of this title, all money in the Fund, except money reserved as provided in section 1619 of this title for the payment of attorney and other fees, shall be distributed at the end of each three months of the fiscal year among the Regional Corporations organized pursuant to section 1606 of this title on the basis ofthe relative numbers of Natives enrolled in each region. The share of a Regional Corporation that has not been organized shall be retained in the Fund until the Regional Corporation is organized.
 
 (Pub. L. 92–203, §6, Dec. 18, 1971, 85 Stat. 690; Pub. L. 94–273, §38, Apr. 21, 1976, 90 Stat. 380.)
 

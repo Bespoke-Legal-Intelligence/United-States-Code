@@ -14,7 +14,7 @@ Sums authorized to be appropriated pursuant to section 1287 of this title for ea
 
 (1) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years during the period beginning October 1, 1977, and ending September 30, 1981, shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 27, 1977. Notwithstanding any other provision of law, sums authorized for the fiscal years ending September 30, 1978, September 30, 1979, September 30, 1980, and September 30, 1981, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives.
 
-(2) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981. Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, and September 30, 1986, shall be allotted in accordance with the following table:
+(2) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981. Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, and September 30, 1986,shall be allotted in accordance with the following table:
 
 &nbsp;
 
@@ -154,7 +154,7 @@ Sums allotted to the States for a fiscal year shall remain available for obligat
 
 #### (e) Minimum allotment; additional appropriations; ratio of amount available
 
-For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, no State shall receive less than one-half of 1 percentum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
+For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, no State shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
 
 #### (f) Omitted
 
@@ -182,7 +182,7 @@ Not less than 1/2 of 1 percent of funds allotted to a State for each of the fisc
 
 &emsp;(B) developing an implementation plan to obtain State and local financial and regulatory commitments to implement measures developed under subparagraph (A);
 
-&emsp;(C) determining the nature, extent, and causes of water quality problems in variousareas of the State and interstate region, and reporting on these annually; and
+&emsp;(C) determining the nature, extent, and causes of water quality problems in various areas of the State and interstate region, and reporting on these annually; and
 
 &emsp;(D) determining those publicly owned treatment works which should be constructed with assistance under this subchapter, in which areas and in what sequence, taking into account the relative degree of effluent reduction attained, the relative contributions to water quality of other point or nonpoint sources, and the consideration of alternatives to such construction, and implementing section 1313(e) of this title.
 
@@ -234,7 +234,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 #### (2) Notice requirement
 
-&emsp;The Governor of a State may make a request under paragraph (1) for a deposit into thewater pollution control revolving fund of such State—
+&emsp;The Governor of a State may make a request under paragraph (1) for a deposit into the water pollution control revolving fund of such State—
 
 &emsp;&emsp;(A) in fiscal year 1987 only if no later than 90 days after February 4, 1987, and
 
@@ -296,7 +296,7 @@ Subsecs. (g) to (i). Pub. L. 95–217, §§26(a), 27, 28, added subsecs. (g) to 
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -304,7 +304,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Availability of Allotted Sums in Subsequent Years; Reallotment of Unobligated Sums
 
-Section 7 of Pub. L. 96–483 provided that: “Notwithstanding section 205(d) of the Federal Water Pollution Control Act (33 U.S.C. 1285), sums allotted to the States for the fiscal year 1979 shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twenty-four months. The amount of any allotment not obligated by the end of such thirty-six month period shall be immediately reallotted by the Administrator on the basis of thesame ratio as applicable to sums allotted for the then current fiscal year, except that none of the funds reallotted by the Administrator for fiscal year 1979 shall be allotted to any State which failed to obligate any of the funds being reallotted. Any sum made available to a State by reallotment under this section shall be in addition to any funds otherwise allotted to such State for grants under title II of the Federal Water Pollution Control Act \[this subchapter\] during any fiscal year. This section shall take effect on September 30, 1980.”
+Section 7 of Pub. L. 96–483 provided that: “Notwithstanding section 205(d) of the Federal Water Pollution Control Act (33 U.S.C. 1285), sums allotted to the States for the fiscal year 1979 shall remain available for obligation for the fiscal year for which authorized and forthe period of the next succeeding twenty-four months. The amount of any allotment not obligated by the end of such thirty-six month period shall be immediately reallotted by the Administrator on the basis of the same ratio as applicable to sums allotted for the then current fiscal year, except that none of the funds reallotted by the Administrator for fiscal year 1979 shall be allotted to any State which failed to obligate any of the funds being reallotted. Any sum made available to a State by reallotment under this section shall be in addition to any funds otherwise allotted to such State for grants under title II of the Federal Water Pollution Control Act \[this subchapter\] during any fiscal year. This section shall take effect on September 30, 1980.”
 
 #### Section Referred to in Other Sections
 

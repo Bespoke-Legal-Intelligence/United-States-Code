@@ -36,7 +36,7 @@ In subsection (b), the words “from his place of duty” are omitted as surplus
 
 #### Restoration of Retired Pay to Officers Dropped From Rolls After December 31, 1954 and Before August 25, 1958
 
-Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided: “That notwithstanding any other provisions of law, a former retired officer dropped from the rolls under section 10 of the Act of May 5, 1950, ch. 169 (64 Stat. 146), or section 1161 of title 10, United States Code, after December 31, 1954, and before the date of enactment of this Act \[Aug. 25, 1958\] shall, for the purposes of entitlement to retired or retirement pay after the date of enactment of this Act, be treated as if he had not been dropped from the rolls. Such an officer is also entitled to retroactive retired or retirement pay for the period beginning on the date he was dropped from the rolls and ending on the date of enactment of this Act, as if he had not been dropped from the rolls.
+Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided: “That notwithstanding any other provisions of law, aformer retired officer dropped from the rolls under section 10 of the Act of May 5, 1950, ch. 169 (64 Stat. 146), or section 1161 of title 10, United States Code, after December 31, 1954, and before the date of enactment of this Act \[Aug. 25, 1958\] shall, for the purposes of entitlement to retired or retirement pay after the date of enactment of this Act, be treated as if he had not been dropped from the rolls. Such an officer is also entitled to retroactive retired or retirement pay for the period beginning on the date he was dropped from the rolls and ending on the date of enactment of this Act, as if he had not been dropped from the rolls.
 
 “
 
@@ -54,5 +54,5 @@ Forfeiture of pay when dropped from rolls, see section 803 of Title 37, Pay and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12683 of this title; title 37 section 803.
+This section is referred to in section 12683 of this title; title 37 section 803; title 38 section 4304.
 

@@ -1,4 +1,4 @@
-### §5665 . Naval Reserve and Marine Corps Reserve: active status officers in permanent grades above chief warrant officer, W–5
+### §5665. Naval Reserve and Marine Corps Reserve: active status officers in permanent grades above chief warrant officer, W–5
 
 (a) While in the grade of lieutenant (junior grade) or in a higher grade, each officer in an active status in the Naval Reserve who is not on an active-duty list has a running mate of the same grade from the active-duty list who shall be assigned under regulations prescribed by the Secretary of the Navy.
 

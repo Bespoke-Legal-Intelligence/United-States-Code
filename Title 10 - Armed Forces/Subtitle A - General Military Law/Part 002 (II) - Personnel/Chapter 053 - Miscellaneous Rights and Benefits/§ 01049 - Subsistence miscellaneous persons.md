@@ -16,7 +16,7 @@ The following persons may be provided subsistence at the expense of the United S
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in the following appropriation acts:
+Provisions similar to those in this section were contained in the following appropriation acts:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8006\], 98 Stat. 1904, 1923.
 

@@ -1,6 +1,6 @@
 ### §463d. Restoration of lands in Umatilla Indian Reservation to tribal ownership
 
-The Secretary of the Interior is authorized in his discretion to restore to tribal ownership the undisposed of surplus lands of the Umatilla Indian Reservation, Oregon, heretofore opened to entry or other form of disposal under the public-land laws: <i>Provided</i>, That restoration shall be subject to any existing valid rights.
+The Secretary of the Interior is authorized in his discretion to restore to tribal ownership theundisposed of surplus lands of the Umatilla Indian Reservation, Oregon, heretofore opened to entry or other form of disposal under the public-land laws: <i>Provided</i>, That restoration shall be subject to any existing valid rights.
 
 (Aug. 10, 1939, ch. 662, §1, 53 Stat. 1351.)
 

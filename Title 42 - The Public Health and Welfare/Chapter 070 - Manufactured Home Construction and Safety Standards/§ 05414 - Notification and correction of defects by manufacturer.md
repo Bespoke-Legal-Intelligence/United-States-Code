@@ -12,7 +12,7 @@ The notification required by subsection (a) of this section shall be accomplishe
 
 &emsp;(2) by mail to any other person who is a registered owner of such manufactured home and whose name and address has been ascertained pursuant to procedures established under subsection (f) of this section; and
 
-&emsp;(3) by mail or other more expeditious means to the dealer or dealers of such manufacturer to whom such manufactured home was delivered.
+&emsp;(3) by mail or other more expeditious means to the dealer or dealers of such manufacturerto whom such manufactured home was delivered.
 
 #### (c) Form and requisites of notification
 

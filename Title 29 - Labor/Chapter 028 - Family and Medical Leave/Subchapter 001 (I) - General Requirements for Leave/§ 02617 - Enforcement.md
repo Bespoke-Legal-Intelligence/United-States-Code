@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the interest on the amount described in clause (i) calculated at the prevailing rate; and
 
-&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faithand that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
+&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
 
 &emsp;&emsp;(B) for such equitable relief as may be appropriate, including employment, reinstatement, and promotion.
 
@@ -68,7 +68,7 @@
 
 #### (3) Commencement
 
-&emsp;In determining when an action is commenced by the Secretary under this section for the purposes of this subsection, it shall be considered to be commenced on the date when the complaint is filed.
+&emsp;In determining when an action is commenced by the Secretary under this sectionfor the purposes of this subsection, it shall be considered to be commenced on the date when the complaint is filed.
 
 #### (d) Action for injunction by Secretary
 
@@ -82,9 +82,21 @@ The district courts of the United States shall have jurisdiction, for cause show
 
 The Solicitor of Labor may appear for and represent the Secretary on any litigation brought under this section.
 
-(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15.)
+(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9.)
+
+#### Enactment of Subsection (f)
+
+<i>Pub. L. 104–1, title II, §202(c)(1)(B), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, this section is amended by adding at the end the following:</i>
+
+#### (f) General Accounting Office and Library of Congress
+
+In the case of the General Accounting Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2616, 2618 of this title; title 2 section 60m.
+This section is referred to in sections 2616, 2618 of this title; title 2 section 1312.
 

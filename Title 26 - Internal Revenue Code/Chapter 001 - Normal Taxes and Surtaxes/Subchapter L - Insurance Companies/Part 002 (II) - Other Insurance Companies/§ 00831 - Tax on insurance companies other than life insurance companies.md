@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxableincome of every insurance company other than a life insurance company.
+Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxable income of every insurance company other than a life insurance company.
 
 #### (b) Alternative tax for certain small companies
 
@@ -78,7 +78,7 @@ Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

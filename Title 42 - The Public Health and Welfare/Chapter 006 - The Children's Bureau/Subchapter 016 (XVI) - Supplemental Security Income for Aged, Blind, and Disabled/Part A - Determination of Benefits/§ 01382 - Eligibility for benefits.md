@@ -36,7 +36,7 @@
 
 &emsp;(A) be determined on the basis of the income of the individual and the eligible spouse, if any, of such individual and other relevant circumstances in such month; and
 
-&emsp;(B) in the case of the month in which an application becomes effective or the first month following a period of ineligibility, if such application becomes effective, or eligibility is restored, after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if such application had become effective, or eligibility had been restored, on the first day of such month as the number of days in such month including and following the effective date of such application or restoration of eligibility bears to the total number of days in such month.
+&emsp;(B) in the case of the month in which an application becomes effective or the first monthfollowing a period of ineligibility, if such application becomes effective, or eligibility is restored, after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if such application had become effective, or eligibility had been restored, on the first day of such month as the number of days in such month including and following the effective date of such application or restoration of eligibility bears to the total number of days in such month.
 
 (3) For purposes of this subsection, an increase in the benefit amount payable under subchapter II of this chapter (over the amount payable in the preceding month, or, at the election of the Commissioner of Social Security, the second preceding month) to an individual receiving benefits under this subchapter shall be included in the income used to determine the benefit under this subchapter of such individual for any month which is—
 
@@ -50,7 +50,7 @@
 
 (5) Notwithstanding paragraphs (1) and (2), any income which is paid to or on behalf of an individual in any month pursuant to (A) a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children), (B) section 672 of this title (relating to foster care assistance), (C) section 1522(e) of title 8 (relating to assistance for refugees), (D) section 501(a) of Public Law 96-422 (relating to assistance for Cuban and Haitian entrants), or (E) section 13 of title 25 (relating to assistance furnished by the Bureau of Indian Affairs), shall be taken into account in determining the amount of the benefit under this subchapter of such individual (and his eligible spouse, if any) only for that month, and shall not be taken into account in determining the amount of the benefit for any other month.
 
-(6) The dollar amount in effect under subsection (b) of this section as a result of any increase in benefits under this subchapter by reason of section 1382f of this title shall be used to determine the value of any in-kind support andmaintenance required to be taken into account in determining the benefit payable under this subchapter to an individual (and the eligible spouse, if any, of the individual) for the 1st 2 months for which the increase in benefits applies.
+(6) The dollar amount in effect under subsection (b) of this section as a result of any increase in benefits under this subchapter by reason of section 1382f of this title shall be used to determine the value of any in-kind support and maintenance required to be taken into account in determining the benefit payable under this subchapter to an individual (and the eligible spouse, if any, of the individual) for the 1st 2 months for which the increase in benefits applies.
 
 (7) For purposes of this subsection, an application of an individual for benefits under this subchapter shall be effective on the later of—
 
@@ -72,7 +72,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 &emsp;(i) at a rate not in excess of $360 per year (reduced by the amount of any income not excluded pursuant to section 1382a(b) of this title) in the case of an individual who does not have an eligible spouse;
 
-&emsp;(ii) in the case of an individual who has an eligible spouse, if only one of them is in such a hospital, home or facility throughout such month, at a rate not in excess of the sum of—
+&emsp;(ii) in the case of an individual who has an eligible spouse, if only one of them is in sucha hospital, home or facility throughout such month, at a rate not in excess of the sum of—
 
 &emsp;&emsp;(I) the rate of $360 per year (reduced by the amount of any income, not excluded pursuant to section 1382a(b) of this title, of the one who is in such hospital, home, or facility), and
 
@@ -98,7 +98,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 > may be an eligible individual or eligible spouse for purposes of this subchapter (and entitled to a benefit determined on the basis of the rate applicable under subsection (b) of this section) for the month referred to in subclause (I) or (II) of clause (i) and, if such subclause still applies, for the succeeding month.
 
-(F) An individual who is an eligible individual or an eligible spouse for a month by reason ofsubparagraph (E) shall not be treated as being eligible under section 1382h(a) or (b) of this title for such month for purposes of clause (ii) of such subparagraph.
+(F) An individual who is an eligible individual or an eligible spouse for a month by reason of subparagraph (E) shall not be treated as being eligible under section 1382h(a) or (b) of this title for such month for purposes of clause (ii) of such subparagraph.
 
 (G) A person may be an eligible individual or eligible spouse for purposes of this subchapter, and subparagraphs (A) and (B) shall not apply, with respect to any particular month throughout which he or she is an inmate of a public institution the primary purpose of which is the provision of medical or psychiatric care, or which is a hospital, extended care facility, nursing home, or intermediate care facility receiving payments (with respect to such individual or spouse) under a State plan approved under subchapter XIX of this chapter, if it is determined in accordance with subparagraph (H) that—
 
@@ -112,7 +112,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 (2) No person shall be an eligible individual or eligible spouse for purposes of this subchapter if, after notice to such person by the Commissioner of Social Security that it is likely that such person is eligible for any payments of the type enumerated in section 1382a(a)(2)(B) of this title, such person fails within 30 days to take all appropriate steps to apply for and (if eligible) obtain any such payments.
 
-(3)(A)(i)(I) In the case of any individual eligible for benefits under this subchapter solely by reason of disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled, the individual shall comply with the provisions of this subparagraph. In any case in which an individual is required to comply with the provisions of this subparagraph, the Commissioner of Social Security shall include in the individual's notification of such eligibility a notice informing the individual of such requirement.
+(3)(A)(i)(I) In the case of any individual eligible for benefits under this subchapter solely by reason of disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is disabled, the individual shall comply with the provisions of this subparagraph. In any case in which an individual is required to complywith the provisions of this subparagraph, the Commissioner of Social Security shall include in the individual's notification of such eligibility a notice informing the individual of such requirement.
 
 (II) Notwithstanding any other provision of this subchapter, if an individual who is required under subclause (I) to comply with the requirements of this subparagraph is determined by the Commissioner of Social Security not to be in compliance with the provisions of this subparagraph, the individual's benefits under this subchapter by reason of disability shall be suspended for a period—
 
@@ -218,7 +218,7 @@ In the case of any individual or any individual and his spouse (as the case may 
 
 &emsp;(2) has, since December 31, 1973, continuously resided in the State under the plan of which he or they received such aid or assistance for December 1973, and
 
-&emsp;(3) has, since December 31, 1973, continuously been (except for periods not in excess of six consecutive months) an eligible individual or eligible spouse with respect to whom supplemental security income benefits are payable,
+&emsp;(3) has, since December 31, 1973, continuously been (except for periods not in excess of six consecutive months) an eligible individual oreligible spouse with respect to whom supplemental security income benefits are payable,
 
 > the resources of such individual or such individual and his spouse (as the case may be) shall be deemed not to exceed the amount specified in subsections (a)(1)(B) and (a)(2)(B) of this section during any period that the resources of such individual or such individual and his spouse (as the case may be) does not exceed the maximum amount of resources specified in the State plan, as in effect for October 1972, under which he or they received such aid or assistance for December 1973.
 
@@ -240,7 +240,7 @@ In determining eligibility for, and the amount of, benefits payable under this s
 
 For application and review requirements affecting the eligibility of certain individuals, see section 1383(j) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1611, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1466; amended July 9, 1973, Pub. L. 93–66, title II, §210(a), (b), 87 Stat. 154; Dec. 31, 1973, Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), 87 Stat. 953, 968; Aug. 7, 1974, Pub. L. 93–368, §6(a), 88 Stat. 421; Oct. 20, 1976, Pub. L. 94–566, title V, §§502, 505(a), 90 Stat. 2685, 2686; June 9, 1980, Pub. L. 96–265, title III, §303(c)(2), 94 Stat. 453; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2341(a), 95 Stat. 865; Sept. 3, 1982, Pub. L. 97–248, title I, §§181(a), 183(a), 96 Stat. 404, 405; Apr. 20, 1983, Pub. L. 98–21, title IV, §403(a), 97 Stat. 140; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), 98 Stat. 1130, 1168; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 10, 1986, Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), 100 Stat. 3574, 3577, 3579; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9106(a), 9107, 9113(a), 9115(a), 9119(a), 101Stat. 1330–301, 1330–302, 1330–304, 1330–308; July 1, 1988, Pub. L. 100–360, title III, §303(c)(2), 102 Stat. 762; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8009(a), 8010(b), 103 Stat. 2463, 2464; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13735(a), 107 Stat. 662; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), 108 Stat. 1478, 1502, 1504, 1508.)
+(Aug. 14, 1935, ch. 531, title XVI, §1611, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1466; amended July 9, 1973, Pub. L. 93–66, title II, §210(a), (b), 87 Stat. 154; Dec. 31, 1973, Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), 87 Stat. 953, 968; Aug. 7, 1974, Pub. L. 93–368, §6(a), 88 Stat. 421; Oct. 20, 1976, Pub. L. 94–566, title V, §§502, 505(a), 90 Stat. 2685, 2686; June 9, 1980, Pub. L. 96–265, title III, §303(c)(2), 94 Stat. 453; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2341(a), 95 Stat. 865; Sept. 3, 1982, Pub. L. 97–248, title I, §§181(a), 183(a), 96 Stat. 404, 405; Apr. 20, 1983, Pub. L. 98–21, title IV, §403(a), 97 Stat. 140; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), 98 Stat. 1130, 1168; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 10, 1986, Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), 100 Stat. 3574, 3577, 3579; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9106(a), 9107, 9113(a), 9115(a), 9119(a), 101 Stat. 1330–301, 1330–302, 1330–304, 1330–308; July 1, 1988, Pub. L. 100–360, title III, §303(c)(2), 102 Stat. 762; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8009(a), 8010(b), 103 Stat. 2463, 2464; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13735(a), 107 Stat. 662; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), 108 Stat. 1478, 1502, 1504, 1508.)
 
 #### References in Text
 
@@ -460,7 +460,7 @@ Section 505(e) of Pub. L. 94–566 provided that: “The amendments \[amending t
 
 #### Effective Date of 1973 Amendments
 
-Section 4(b) of Pub. L. 93–233 provided that the amendments made by section 4(b)(1), (2) of Pub. L. 93–233 are effective with respect to payments for months after June 1974.
+Section 4(b) of Pub. L. 93–233 provided that the amendments made by section 4(b)(1), (2) of Pub. L.93–233 are effective with respect to payments for months after June 1974.
 
 Section 210(c) of Pub. L. 93–66, as amended Pub. L. 93–233, §4(a)(1), Dec. 31, 1973, 87 Stat. 953, provided: “The amendments made by this section \[amending this section\] shall apply with respect to payments for months after December 1973.”
 
@@ -628,7 +628,7 @@ Additional requirement for approval of subchapter XIX State plan for medical ass
 
 Section 211 of Pub. L. 93–66, as amended by Pub. L. 93–233, §4(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 953, provided that:
 
-“(a)(1) In determining (for purposes of title XVI of the Social Security Act \[this subchapter\], as in effect after December 1973) the eligibility for and the amount of the supplemental security income benefit payable to any qualified individual (as defined in subsection (b)), with respect to any period for which such individual has in his home an essential person (as defined in subsection (c))—
+“(a)(1) In determining (for purposes of title XVI of the Social Security Act \[this subchapter\], as in effectafter December 1973) the eligibility for and the amount of the supplemental security income benefit payable to any qualified individual (as defined in subsection (b)), with respect to any period for which such individual has in his home an essential person (as defined in subsection (c))—
 
 &emsp;“(A) the dollar amounts specified in subsection (a)(1)(A) and (2)(A), and subsection (b)(1) and (2), of section 1611 of such Act \[this section\], shall each be increased by $876 for each such essential person, and
 
@@ -666,7 +666,7 @@ Section 211 of Pub. L. 93–66, as amended by Pub. L. 93–233, §4(a)(2), (b)(3
 
 > If for any month after December 1973 any person fails to meet the criteria specified in paragraph (2), (3), or (4) of the preceding sentence, such person shall not, for such month or any month thereafter be considered to be an essential person.”
 
-\[Amendment of section 211(a)(1)(A) of Pub. L. 93–66, set out above, by Pub. L. 93–233 effective with respectto payments for months after June 1974, see section 4(b) of Pub. L. 93–233.\]
+\[Amendment of section 211(a)(1)(A) of Pub. L. 93–66, set out above, by Pub. L. 93–233 effective with respect to payments for months after June 1974, see section 4(b) of Pub. L. 93–233.\]
 
 #### Mandatory Minimum State Supplementation of Supplemental Security Income Benefits Program; December 1973 Income; Title XVI Benefit Plus Other Income; Reduction of Amount; Administration Agreement; Payments to Secretary; State Constitutional Restriction
 
@@ -692,7 +692,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 “(B) For purposes of subparagraph (A), an individual's ‘December 1973 income’ means an amount equal to the aggregate of—
 
-&emsp;“(i) the amount of the aid or assistance (in the form of money payments) which such individual would have received (including any part of such amount which is attributable to meeting the needs of any other person whose presence in such individual's home is essential to such individual's well-being) for the month of December 1973 under a plan (approved under title I, X, XIV, or XVI, of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\]) of the State entering into an agreement under this subsection, if the terms and conditions of such plan (relating to eligibility for and amount of such aid or assistance payable thereunder) were, for the month of December 1973, the same as those in effect, under such plan, for the month of June 1973, together with the bonus value of food stamps for January 1972, as defined in section 401(b)(3) of Public Law 92–603 \[set out as a note under section 1382e of this title\], if, for such month, such individual resides in a State which provides State supplementary payments (I) of the type described in section 1616(a) of the Social Security Act \[section 1382e(a) of this title\], and (II) the level of which has been found by the Secretary pursuant to section 8 of Public Law 93–233 \[set out as notes under section 1382e of this title and sections 612c, 1431 and 2012 of Title 7, Agriculture\] to have been specifically increased so as to include the bonus value of food stamps, and
+&emsp;“(i) the amount of the aid or assistance (in the form of money payments) which such individual would have received (including any part of such amount which is attributable to meeting the needs of any other person whose presence in such individual's home is essential to such individual's well-being) for the month of December 1973 under a plan (approved under title I, X, XIV, or XVI, of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\]) ofthe State entering into an agreement under this subsection, if the terms and conditions of such plan (relating to eligibility for and amount of such aid or assistance payable thereunder) were, for the month of December 1973, the same as those in effect, under such plan, for the month of June 1973, together with the bonus value of food stamps for January 1972, as defined in section 401(b)(3) of Public Law 92–603 \[set out as a note under section 1382e of this title\], if, for such month, such individual resides in a State which provides State supplementary payments (I) of the type described in section 1616(a) of the Social Security Act \[section 1382e(a) of this title\], and (II) the level of which has been found by the Secretary pursuant to section 8 of Public Law 93–233 \[set out as notes under section 1382e of this title and sections 612c, 1431 and 2012 of Title 7, Agriculture\] to have been specifically increased so as to include the bonus value of food stamps, and
 
 &emsp;“(ii) the amount of the income of such individual (other than the aid or assistance described in clause (i)) received by such individual in December 1973, minus any such income which did not result, but which if properly reported would have resulted in a reduction in the amount of such aid or assistance.
 
@@ -712,7 +712,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 “(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
 
-“(ii) The amount of the reduction (under clause (i)) of any individual's December 1973 income shall not be inan amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].
+“(ii) The amount of the reduction (under clause (i)) of any individual's December 1973 income shall not be in an amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].
 
 “(4) Any State having an agreement with the Secretary under paragraph (1) may, at its option, include individuals receiving benefits under section 1619 of the Social Security Act \[section 1382h of this title\], or who would be eligible to receive such benefits but for their income, under the agreement as though they are aged, blind, or disabled individuals as specified in paragraph (2)(A).
 
@@ -742,7 +742,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 “(iv) All fees assessed pursuant to this subparagraph shall be transferred to the Secretary at the same time that amounts for such supplementary payments are required to be so transferred.
 
-“(C)(i) The Secretary may charge a State an additional services fee if, at the request of the State, the Secretary provides additional services beyond the level customarily provided, in the administration of State supplementary payments pursuant to this subsection.
+“(C)(i) The Secretary may charge a State an additional services fee if, at the request of the State, theSecretary provides additional services beyond the level customarily provided, in the administration of State supplementary payments pursuant to this subsection.
 
 “(ii) The additional services fee shall be in an amount that the Secretary determines is necessary to cover all costs (including indirect costs) incurred by the Federal Government in furnishing the additional services referred to in clause (i).
 
@@ -842,7 +842,7 @@ The Commissioner of Social Security shall approve any plan which fulfills the co
 
 Subject to the last sentence of subsection (a) of this section, nothing in this subchapter shall be construed to permit a State to have in effect with respect to any period more than one State plan approved under this subchapter.
 
-> (Aug. 14, 1935, ch. 531, title XVI, §1602, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 198; amended Oct. 13, 1964, Pub. L. 88–650, §5(b), 78 Stat. 1078; July 30, 1965, Pub. L. 89–97, title II, §221(d)(3), title IV, §403(e), 79 Stat. 358, 418; Jan. 2, 1968, Pub. L. 90–248, title II, §§210(a)(5), 213(a)(4), 241(d), 81 Stat. 896, 898, 917; Oct. 30, 1972, Pub. L. 92–603, title IV, §§405(d), 406(d), 407(d), 410(d), 413(d), 86 Stat. 1488, 1489, 1491, 1492; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(4), 95 Stat. 817; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2651(h), 98 Stat. 1150; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+> (Aug. 14, 1935, ch. 531, title XVI, §1602, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 198; amended Oct. 13, 1964, Pub. L. 88–650, §5(b), 78 Stat. 1078; July 30, 1965, Pub. L. 89–97, title II, §221(d)(3), title IV,§403(e), 79 Stat. 358, 418; Jan. 2, 1968, Pub. L. 90–248, title II, §§210(a)(5), 213(a)(4), 241(d), 81 Stat. 896, 898, 917; Oct. 30, 1972, Pub. L. 92–603, title IV, §§405(d), 406(d), 407(d), 410(d), 413(d), 86 Stat. 1488, 1489, 1491, 1492; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(4), 95 Stat. 817; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2651(h), 98 Stat. 1150; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
 
 \[Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 

@@ -8,7 +8,7 @@ Upon a finding that an export of uranium depleted in the isotope 235 is incorpor
 
 The Atomic Energy Act of 1954, referred to in text, is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, asamended, which is classified principally to chapter 47 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, as amended, which is classified principally to chapter 47 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to this chapter (§2751 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

@@ -18,7 +18,7 @@ As used in this section, the term “controlled premises” means—
 
 &emsp;(A) to inspect and copy records, reports, and other documents required to be kept or made under this subchapter;
 
-&emsp;(B) to inspect, within reasonable limits and in a reasonable manner, controlled premises and all pertinent equipment, finished and unfinished drugs, listed chemicals, and other substances or materials, containers, and labeling found therein, and, except as provided in paragraph (4) of this subsection, all other things therein (including records, files, papers, processes, controls, and facilities) appropriate for verification of the records, reports, and documents referred to in clause (A) or otherwise bearing on the provisions of this subchapter; and
+&emsp;(B) to inspect, within reasonable limits and in a reasonable manner, controlled premises and all pertinent equipment, finished and unfinished drugs, listed chemicals, and other substances or materials, containers, and labeling found therein, and, except as provided in paragraph (4) of this subsection, all other things therein (including records, files, papers,processes, controls, and facilities) appropriate for verification of the records, reports, and documents referred to in clause (A) or otherwise bearing on the provisions of this subchapter; and
 
 &emsp;(C) to inventory any stock of any controlled substance or listed chemical therein and obtain samples of any such substance or chemical.
 

@@ -54,7 +54,7 @@
 
 &emsp;(B) the fair market value of the lease is (i) unobtainable, or (ii) not compatible with such public benefit.
 
-(3) Before entering into any lease under this subsection, the Secretary shall consult with the Administrator of the Environmental Protection Agency in order to determine whether the environmental condition of the property proposed for leasing is such that the lease of the property is advisable. The Secretary and the Administrator shall enter into a memorandum of understanding setting forth procedures for carrying out the determinations under this paragraph.
+(3) Before entering into any lease under this subsection, the Secretary shall consult with the Administrator of the Environmental Protection Agency in order to determine whether the environmental condition of the property proposedfor leasing is such that the lease of the property is advisable. The Secretary and the Administrator shall enter into a memorandum of understanding setting forth procedures for carrying out the determinations under this paragraph.
 
 (g) In this section, the term “base closure law” means each of the following:
 
@@ -180,7 +180,7 @@ Subsec. (f). Pub. L. 96–513, §511(92)(D), substituted “the Secretary” for
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pendi
 
 #### Leasing of Defense Property; Notification of Congress; Waiver; Report to Congress; Definition
 
-Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, which provided that before the Secretary of a military department exercised his authority under section 2667 of title 10, United States Code, in order to lease defense property to a foreign government for a period of more than six months, the President had to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, a written notification of the particulars of the proposed lease, was repealed by Pub. L. 97–113, title I, §109(d)(1), Dec. 29, 1981, 95 Stat. 1526. See section 2795 et seq. of Title 22, Foreign Relations and Intercourse.
+Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provided that before the Secretary of a military department exercised his authority under section 2667 of title 10, United States Code, in order to lease defense property to a foreign government for a period of more than six months, the President had to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, a written notification of the particulars of the proposed lease, prior to repeal by Pub. L. 97–113, title I, §109(d)(1), Dec. 29, 1981, 95 Stat. 1526. See section 2795 et seq. of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

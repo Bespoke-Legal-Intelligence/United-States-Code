@@ -1,6 +1,6 @@
 ### §287. Limitation on damages and other remedies; marking and notice
 
-(a) Patentees, and persons making or selling any patented article for or under them, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
 (b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
@@ -8,7 +8,7 @@
 
 &emsp;(B) owns or controls, or is owned or controlled by, the person who practiced the patented process; or
 
-&emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, or sale of which constitutes the infringement.
+&emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, offer for sale, or sale of which constitutes the infringement.
 
 (2) No remedies for infringement under section 271(g) of this title shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
 
@@ -30,17 +30,17 @@
 
 > The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
-(4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
+(4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
 
 &emsp;(i) which is made by a person regularly engaged in the United States in the sale of the same type of products as those manufactured by the person to whom the request is directed, or which includes facts showing that the person making the request plans to engage in the sale of such products in the United States;
 
-&emsp;(ii) which is made by such person before the person's first importation, use, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
+&emsp;(ii) which is made by such person before the person's first importation, use, offer for sale, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
 
 &emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
 
 (B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
 
-(C) A person who has marked, in the manner prescribed by subsection (a), the number of the process patent on all products made by the patented process which have been sold by that person in the United States before a request for disclosure is received is not required to respond to the request for disclosure. For purposes of the preceding sentence, the term “all products” does not include products made before the effective date of the Process Patent Amendments Act of 1988.
+(C) A person who has marked, in the manner prescribed by subsection (a), the number of the process patent on all products made by the patented process which have been offered for sale or sold by that person in the United States, or imported by the person into the United States, before a request for disclosure is received is not required to respond to the request for disclosure. For purposes of the preceding sentence, the term “all products” does not include products made before the effective date of the Process Patent Amendments Act of 1988.
 
 (5)(A) For purposes of this subsection, notice of infringement means actual knowledge, or receipt by a person of a written notification, or a combination thereof, of information sufficient to persuade a reasonable person that it is likely that a product was made by a process patented in the United States.
 
@@ -58,28 +58,6 @@
 
 (July 19, 1952, ch. 950, 66 Stat. 813; Aug. 23, 1988, Pub. L. 100–418, title IX, §9004(a), 102 Stat. 1564; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(5), 108 Stat. 4989.)
 
-#### Amendment of Section
-
-<i>Pub. L. 103–465, title V, §§533(b)(5), 534(a), (b)(3), Dec. 8, 1994, 108 Stat. 4989, 4990, provided that, effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, this section is amended:</i>
-
-<i>(A) in subsection (a)—</i>
-
-<i>(i) by striking “making or selling” and inserting “making, offering for sale, or selling within the United States”; and</i>
-
-<i>(ii) by inserting “or importing any patented article into the United States,” after “under them,”; and</i>
-
-<i>(B) in subsection (b)—</i>
-
-<i>(i) in paragraph (1)(C), by striking “use, or sale” and inserting “use, offer for sale, or sale”;</i>
-
-<i>(ii) in paragraph (4)(A), by striking “sold or” and inserting “sold, offered for sale, or” in the matter preceding clause (i);</i>
-
-<i>(iii) in paragraph (4)(A)(ii), by striking “use, or sale” and inserting “use, offer for sale, or sale”;</i>
-
-<i>(iv) in paragraph (4)(C), by striking “have been sold” and inserting “have been offered for sale or sold”; and</i>
-
-<i>(v) in paragraph (4)(C), by striking “United States before” and inserting “United States, or imported by the person into the United States, before”.</i>
-
 #### Historical and Revision Notes
 
 Based on Title 35, U.S.C., 1946 ed., §49 (R.S. 4900, amended Feb. 7, 1927, ch. 67, 44 Stat. 1058).
@@ -88,11 +66,21 @@ Language is changed. The proviso in the corresponding section of existing statut
 
 #### References in Text
 
-Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 of title IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
+Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 oftitle IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
 
 The effective date of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(4)(C), is the effective date of title IX of Pub. L. 100–418. See section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
 
 #### Amendments
+
+1994—Subsec. (a). Pub. L. 103–465, §533(b)(5)(A), substituted “making, offering for sale, or selling within the United States” for “making or selling” and inserted “or importing any patented article into the United States,” after “under them,”.
+
+Subsec. (b)(1)(C). Pub. L. 103–465, §533(b)(5)(B)(i), substituted “use, offer for sale, or sale” for “use, or sale”.
+
+Subsec. (b)(4)(A). Pub. L. 103–465, §533(b)(5)(B)(ii), substituted “sold, offered for sale, or” for “sold or” in introductory provisions.
+
+Subsec. (b)(4)(A)(ii). Pub. L. 103–465, §533(b)(5)(B)(iii), substituted “use, offer for sale, or sale” for “use, or sale”.
+
+Subsec. (b)(4)(C). Pub. L. 103–465, §533(b)(5)(B)(iv), (v), substituted “have been offered for sale or sold” for “have been sold” and “United States, or imported by the person into the United States, before” for “United States before”.
 
 1988—Pub. L. 100–418 inserted “and other remedies” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 

@@ -107,7 +107,7 @@ Pub. L. 97–253, title IV, §406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item
 
 1976—Pub. L. 94–324, §2(b), June 30, 1976, 90 Stat. 720, added item 1807.
 
-1974—Pub. L. 93–569, §§7(b), (c), Dec. 31, 1974, 88 Stat. 1866, substituted “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” for “HOME, FARM, AND BUSINESS LOANS” in chapter heading, and struck out items 1812 “Purchase of farms and farm equipment”, 1813 “Purchase of business property”, 1814 “Loans to refinance delinquent indebtedness”, and 1822 “Recovery of damages”, from chapter analysis.
+1974—Pub. L. 93–569, §§7(b), (c), Dec. 31, 1974, 88 Stat. 1866, substituted “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” for “HOME, FARM, AND BUSINESS LOANS” in chapter heading, and struck out items 1812 “Purchase of farms and farm equipment”,1813 “Purchase of business property”, 1814 “Loans to refinance delinquent indebtedness”, and 1822 “Recovery of damages”, from chapter analysis.
 
 1970—Pub. L. 91–506, §7, Oct. 23, 1970, 84 Stat. 1114, added item 1819.
 

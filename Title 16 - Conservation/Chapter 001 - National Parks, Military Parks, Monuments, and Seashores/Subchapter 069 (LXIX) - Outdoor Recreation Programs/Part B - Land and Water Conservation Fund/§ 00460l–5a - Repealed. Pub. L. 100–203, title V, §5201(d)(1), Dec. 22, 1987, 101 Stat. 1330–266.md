@@ -4,5 +4,5 @@ Section, Pub. L. 96–514, title I, §100, Dec. 12, 1980, 94 Stat. 2960, provide
 
 #### Recreation Use Fees Collected and Deposited in United States Treasury by Corps of Engineers
 
-Pub. L. 97–88, title I, §100, Dec. 4, 1981, 95 Stat. 1136, related to special recreation use fees collected by, and deposited in the Treasury by the Corps of Engineers, prior to repeal by Pub. L. 100–203, title V, §5201(d)(3), Dec. 22, 1987, 101 Stat. 1330–267.
+Pub. L. 97–88, title I, §100, Dec. 4, 1981, 95 Stat. 1136, related to special recreation use fees collected by, anddeposited in the Treasury by the Corps of Engineers, prior to repeal by Pub. L. 100–203, title V, §5201(d)(3), Dec. 22, 1987, 101 Stat. 1330–267.
 

@@ -6,7 +6,7 @@ This section and sections 2192 and 2193 of this title are enacted by the Congres
 
 &emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of implementing bills described in subsection (b)(1) of this section, implementing revenue bills described in subsection (b) (2) of this section, approval resolutions described in subsection (b)(3) of this section, and resolutions described in sections 2192(a) and 2193(a) of this title; and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+&emsp;(2) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
 #### (b) Definitions
 
@@ -44,7 +44,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 (2) The provisions of paragraph (1) shall not apply in the Senate to an implementing revenue bill or resolution. An implementing revenue bill or resolution received from the House shall be referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill or resolution at the close of the 15th day after its receipt by the Senate (or, if later, before the close of the 45th day after the corresponding implementing revenue bill or resolution was introduced in the Senate), such committee or committees shall be automatically discharged from further consideration of such bill or resolution and it shall be placed on the calendar. A vote on final passage of such bill or resolution shall be taken in the Senate on or before the close of the 15th day after such bill or resolution is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill or resolution.
 
-(3) For purposes of paragraphs (1) and (2), in computing a number of days in either House,there shall be excluded any day on which that House is not in session.
+(3) For purposes of paragraphs (1) and (2), in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
 
 #### (f) Floor consideration in the House
 

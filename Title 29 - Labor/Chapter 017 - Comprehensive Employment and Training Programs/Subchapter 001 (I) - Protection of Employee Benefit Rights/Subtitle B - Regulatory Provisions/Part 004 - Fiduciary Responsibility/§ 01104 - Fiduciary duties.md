@@ -32,7 +32,7 @@ In the case of a pension plan which provides for individual accounts and permits
 
 #### (d) Plan terminations
 
-(1) If, in connection with the termination of a pension plan which is a single-employer plan,there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
+(1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
 
 &emsp;(A) In the case of a fiduciary of the terminated plan, any requirement—
 

@@ -50,7 +50,7 @@ No information, if an establishment or person supplying the information or descr
 
 Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title III, §308, as added July 23, 1974, Pub. L. 93–353, title I, §107(a), 88 Stat. 368; amended Apr. 21, 1976, Pub. L. 94–273, §7(2), 90 Stat. 378; Aug. 1, 1977, Pub. L. 95–83, title I, §104, 91 Stat. 384; Nov. 9, 1978, Pub. L. 95–623, §§2, 6(d), 8(b), 92 Stat. 3443, 3451, 3455; Aug. 13, 1981, Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, 95 Stat. 564, 565, 567; Jan. 4, 1983, Pub. L. 97–414, §8(c), 96 Stat. 2060; Oct. 30, 1984, Pub. L. 98–551, §7, 98 Stat. 2820; Dec. 1, 1987, Pub. L. 100–177, title I, §§106(a), 107, 108, 101 Stat. 988–990; Nov. 18, 1988, Pub. L. 100–690, title II, §2612, 102 Stat. 4235; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(4), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(b)(2), (d), 104 Stat. 2328; Dec. 14, 1993, Pub. L. 103–183, title V, §501(c), 107 Stat. 2237.)
+(July 1, 1944, ch. 373, title III, §308, as added July 23, 1974, Pub. L. 93–353, title I, §107(a), 88 Stat. 368; amended Apr. 21, 1976, Pub. L. 94–273, §7(2), 90 Stat. 378; Aug. 1, 1977, Pub. L. 95–83, title I, §104, 91 Stat. 384; Nov. 9, 1978, Pub. L. 95–623, §§2, 6(d), 8(b), 92 Stat. 3443, 3451, 3455; Aug. 13, 1981, Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, 95 Stat. 564, 565, 567; Jan. 4, 1983, Pub. L. 97–414, §8(c), 96 Stat. 2060; Oct. 30, 1984, Pub. L. 98–551, §7, 98 Stat. 2820; Dec. 1, 1987, Pub. L. 100–177, title I, §§106(a), 107, 108, 101 Stat. 988–990;Nov. 18, 1988, Pub. L. 100–690, title II, §2612, 102 Stat. 4235; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(4), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(b)(2), (d), 104 Stat. 2328; Dec. 14, 1993, Pub. L. 103–183, title V, §501(c), 107 Stat. 2237.)
 
 #### References in Text
 
@@ -92,7 +92,7 @@ Subsec. (h). Pub. L. 103–183, §501(c)(5), struck out subsec. (h) which read a
 
 1990—Subsec. (b)(2)(A). Pub. L. 101–527, §7(b)(2)(A), inserted “or for a grant under section 242k(n) of this title,” after “demonstration project,”.
 
-Subsec. (b)(2)(C). Pub. L. 101–527, §7(b)(2)(B), inserted before period at end “, except that peer review groups regarding grants under section 242k(n) of this title mayinclude appropriately qualified such officers and employees”.
+Subsec. (b)(2)(C). Pub. L. 101–527, §7(b)(2)(B), inserted before period at end “, except that peer review groups regarding grants under section 242k(n) of this title may include appropriately qualified such officers and employees”.
 
 Subsec. (b)(3). Pub. L. 101–527, §7(d), struck out par. (3) which related to applications submitted under section 242k of this title for which a grant or contract may be made under another provision of this chapter.
 
@@ -146,7 +146,7 @@ Subsec. (a)(3). Pub. L. 100–177, §106(a)(2), struck out “or (2)” after �
 
 Subsec. (b)(1). Pub. L. 100–177, §107(1), inserted “and unless a peer review group referred to in paragraph (2) has recommended the application for approval” before period at end.
 
-Subsec. (b)(2). Pub. L. 100–177, §107(2), added par. (2) and struck out former par. (2) which read as follows: “Each application submitted for a grant or contract under section 242b or 242c of this title, in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, shall be submitted by the Secretary for review for scientific merit to a panel of experts appointed by him from persons who are not officers or employees of the United States and who possess qualifications relevant to the project for which the application was made. A panel towhich an application is submitted under this paragraph shall report its findings and recommendations respecting the application to the Secretary in such form and manner as the Secretary shall by regulation prescribe.”
+Subsec. (b)(2). Pub. L. 100–177, §107(2), added par. (2) and struck out former par. (2) which read as follows: “Each application submitted for a grant or contract under section 242b or 242c of this title, in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, shall be submitted by the Secretary for review for scientific merit to a panel of experts appointed by him from persons who are not officers or employees of the United States and who possess qualifications relevant to the project for which the application was made. A panel to which an application is submitted under this paragraph shall report its findings and recommendations respecting the application to the Secretary in such form and manner as the Secretary shall by regulation prescribe.”
 
 Subsec. (i). Pub. L. 100–177, §108, amended subsec. (i) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for carrying out activities under sections 242b, 242c, 242k, and 242n of this title for former provisions authorizing appropriations for fiscal years 1975 to 1987 for carrying out activities under those sections.
 
@@ -198,7 +198,7 @@ Section 10 of Pub. L. 95–623, as amended by S. Res. 30, Mar. 7, 1979; H. Res. 
 
 #### Authorization of Appropriations for Fiscal Year Ending June 30, 1977
 
-Section 107(b) of Pub. L. 93–353 provided that: “The authorizations of appropriations provided by section 308(i) of the Public Health Service Act \[subsec. (i) ofthis section\] is extended for the fiscal year ending June 30, 1977, in the amounts authorized for the preceding fiscal year unless before June 30, 1976, Congress has passed legislation repealing this subsection.”
+Section 107(b) of Pub. L. 93–353 provided that: “The authorizations of appropriations provided by section 308(i) of the Public Health Service Act \[subsec. (i) of this section\] is extended for the fiscal year ending June 30, 1977, in the amounts authorized for the preceding fiscal year unless before June 30, 1976, Congress has passed legislation repealing this subsection.”
 
 #### Section Referred to in Other Sections
 

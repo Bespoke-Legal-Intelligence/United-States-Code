@@ -12,7 +12,7 @@
 
 (2) Those regulations shall include the following:
 
-&emsp;(A) A description of the period and geographical area or areas of military service in connection with which compensation under this section may be paid.
+&emsp;(A) A description of the period and geographical area or areas of military service inconnection with which compensation under this section may be paid.
 
 &emsp;(B) A description of the illnesses for which compensation under this section may be paid.
 
@@ -46,7 +46,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446 provided 
 
 &emsp;“(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 \[see Short Title of 1992 Amendments note under section 101 of this title\], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 \[see Tables for classification\], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) \[see Tables for classification\] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium.
 
-&emsp;“(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. Thefinal group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
+&emsp;“(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
 
 &emsp;“(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing.
 
@@ -118,7 +118,7 @@ Evaluation Program.—Subject to subsection (c), the Secretary of the Veterans A
 
 &emsp;&emsp;“(B) is suffering from an illness or disorder;
 
-&emsp;“(2) who is apparently suffering from, or may have suffered from, an illness or disorder (including a birthdefect, miscarriage, or stillbirth) which cannot be disassociated from the veteran's service in the Southwest Asia theater of operations; and
+&emsp;“(2) who is apparently suffering from, or may have suffered from, an illness or disorder (including a birth defect, miscarriage, or stillbirth) which cannot be disassociated from the veteran's service in the Southwest Asia theater of operations; and
 
 &emsp;“(3) who, in the case of a spouse, has granted the Secretary permission to include in the Registry relevant medical data (including a medical history and the results of diagnostic testing and medical examinations) and such other information as the Secretary considers relevant and appropriate with respect to such individual.
 
@@ -206,7 +206,57 @@ Authorization.—There are authorized to be appropriated to the Department such 
 
 #### Report to Congress on Intention To Pay Compensation
 
-Section 106(c) of Pub. L. 103–446 provided that: “Not later than 60 days after the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report stating whether or not the Secretary intends to pay compensation as provided in section 1117 of title 38, United States Code, as added by subsection (a).”
+Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not later than 60 days after Nov. 2, 1994, to submit to Congress a report stating whether or not the Secretary intended to pay compensation as provided in this section.
+
+#### Ex. Ord. No. 12961. Presidential Advisory Committee on Gulf War Veterans’ Illnesses
+
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. (a) There is hereby established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”). The Committee shall be composed of not more than 12 members to be appointed by the President. The members of the Committee shall have expertise relevant to the functions of the Committee and shall not be full-time officials or employees of the executive branch of the Federal Government. The Committee shall be subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
+
+(b) The President shall designate a Chairperson from among the members of the Committee.
+
+Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
+
+(b) The Committee shall provide advice and recommendations based on its review of the following matters:
+
+(1) <i>Research</i>: epidemiological, clinical, and other research concerning Gulf War veterans’ illnesses.
+
+(2) <i>Coordinating Efforts</i>: the activities of the Persian Gulf Veterans Coordinating Board, including the Research Coordinating Council, the Clinical Working Group, and the Disability and Compensation Working Group.
+
+(3) <i>Medical Treatment</i>: medical examinations and treatment in connection with Gulf War veterans’ illnesses, including the Comprehensive Clinical Evaluation Program and the Persian Gulf Registry Medical Examination Program.
+
+(4) <i>Outreach</i>: government-sponsored outreach efforts such as hotlines and newsletters related to Gulf War veterans’ illnesses.
+
+(5) <i>External Reviews</i>: the steps taken to implement recommendations in external reviews by the Institute of Medicine's Committee to Review the Health Consequences of Service During the Persian Gulf War, the Defense Science Board Task Force on Persian Gulf WarHealth Effects, the National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, the Persian Gulf Expert Scientific Committee, and other bodies.
+
+(6) <i>Risk Factors</i>: the possible risks associated with service in the Persian Gulf Conflict in general and, specifically, with prophylactic drugs and vaccines, infectious diseases, environmental chemicals, radiation and toxic substances, smoke from oil well fires, depleted uranium, physical and psychological stress, and other factors applicable to the Persian Gulf Conflict.
+
+(7) <i>Chemical and Biological Weapons</i>: information related to reports of the possible detection of chemical or biological weapons during the Persian Gulf Conflict.
+
+(c) It shall not be a function of the Committee to conduct scientific research. The Committee shall review information and provide advice and recommendations on the activities undertaken related to the matters described in (b) above.
+
+(d) It shall not be a function of the Committee to provide advice or recommendations on any legal liability of the Federal Government for any claims or potential claims against the Federal Government.
+
+(e) As used herein, “Gulf War Veterans’ Illnesses” means the symptoms and illnesses reported by United States uniformed services personnel who served in the Persian Gulf Conflict.
+
+(f) The Committee shall submit an interim report within 6 months of the first meeting of the Committee and a final report by December 31, 1996, unless otherwise provided by the President.
+
+Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Committee with such information as it may require for purposes of carrying out its functions.
+
+(b) Members of the Committee shall be compensated in accordance with Federal law. Committee members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+
+(c) To the extent permitted by law, and subject to the availability of appropriations, the Department of Defense shall provide the Committee with such funds as may be necessary for the performance of its functions.
+
+Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to the Committee, except that of reporting annually to the Congress, shall be performed by the Secretary of Defense, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) The Committee shall terminate 30 days after submitting its final report.
+
+(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

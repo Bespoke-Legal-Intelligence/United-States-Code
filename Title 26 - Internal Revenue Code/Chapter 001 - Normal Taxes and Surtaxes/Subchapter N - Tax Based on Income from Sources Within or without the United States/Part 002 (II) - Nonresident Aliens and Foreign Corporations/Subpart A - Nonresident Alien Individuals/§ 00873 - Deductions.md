@@ -28,7 +28,7 @@ The following deductions shall be allowed whether or not they are connected with
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–369 substituted “for losses” for “, for losses of property not connected with the trade or business if arising from certain casualties or theft,”.
+1984—Subsec. (b)(1). Pub. L. 98–369 substituted “for losses” for “, for losses of property not connected withthe trade or business if arising from certain casualties or theft,”.
 
 1977—Subsec. (c). Pub. L. 95–30 struck out par. (1) which made a cross reference to section 142(b)(1) for disallowance of the standard deduction and struck out “(2)” at beginning of single remaining cross reference.
 

@@ -38,7 +38,7 @@ For purposes of subsection (a), the term “related person” also includes—
 
 #### (e) Patent applications treated as depreciable property
 
-For purposes of this section, a patent application shall be treated as property which, in the hands of the transferee, is of a character which is subject to the allowance for depreciation provided in section 167.
+For purposes of this section, a patent application shall be treated as property which, in thehands of the transferee, is of a character which is subject to the allowance for depreciation provided in section 167.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 332; Sept. 2, 1958, Pub. L. 85–866, title I, §56, 72 Stat. 1645; Oct. 4, 1976, Pub. L. 94–455, title XXI, §2129(a), 90 Stat. 1922; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(v)(1), 92 Stat. 2920; Oct. 19, 1980, Pub. L. 96–471, §5, 94 Stat. 2255; Jan. 12, 1983, Pub. L. 97–448, title III, §301, 96 Stat. 2397; July 18, 1984, Pub. L. 98–369, div. A, title I, §175(a), (b), title IV, §421(b)(6)(A), title V, §557(a), 98 Stat. 708, 794, 898; Oct. 22, 1986, Pub. L. 99–514, title VI, §642(a)(1)(A)–(C), 100 Stat. 2283, 2284.)
 
@@ -98,7 +98,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Transitional rule for binding contracts.—The amendments made by this section shall not apply tosales made after August 14, 1986, which are made pursuant to a binding contract in effect on August 14, 1986, and at all times thereafter.”
+Transitional rule for binding contracts.—The amendments made by this section shall not apply to sales made after August 14, 1986, which are made pursuant to a binding contract in effect on August 14, 1986, and at all times thereafter.”
 
 #### Effective Date of 1984 Amendment
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 97–448 applicable to dispositions made after Oct. 19, 198
 
 #### Effective Date of 1978 Amendment
 
-Section 701(v)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendment made to section 1239 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by section 2129(a) of the Tax Reform Act of 1976 \[section 2129(a) of Pub. L. 94–455\].”
+Section 701(v)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendment made to section 1239 of the Internal Revenue Code of1986 \[formerly I.R.C. 1954\] by section 2129(a) of the Tax Reform Act of 1976 \[section 2129(a) of Pub. L. 94–455\].”
 
 #### Effective Date of 1976 Amendment
 

@@ -598,5 +598,5 @@ Section 307(b) of Pub. L. 95–567 provided that: “Section 396(k)(10) of the C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 397, 398, 399b, 535 of this title; title 20 section 1062.
+This section is referred to in sections 397, 398, 399b, 535 of this title; title 17 section 114; title 20 section 1062.
 

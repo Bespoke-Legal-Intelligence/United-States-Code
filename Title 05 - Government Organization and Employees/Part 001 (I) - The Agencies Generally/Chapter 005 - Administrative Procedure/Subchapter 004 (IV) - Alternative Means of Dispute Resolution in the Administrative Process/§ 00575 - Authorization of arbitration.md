@@ -18,10 +18,6 @@
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2742, §585; renumbered §575, Pub. L. 102–354, §3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Termination of Section
-
-<i>For termination of section by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note set out under section 571 of this title.</i>
-
 #### Codification
 
 Section 575 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2259 of Title 7, Agriculture.
@@ -32,5 +28,9 @@ A prior section 575 was renumbered section 595 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 585 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 585 of this title as this section.
+
+#### Termination Date; Savings Provision
+
+For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
 

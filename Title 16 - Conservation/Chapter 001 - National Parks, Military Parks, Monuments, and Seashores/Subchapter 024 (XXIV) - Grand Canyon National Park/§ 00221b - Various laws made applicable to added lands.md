@@ -1,6 +1,6 @@
 ### §221b. Various laws made applicable to added lands
 
-The provisions of sections 1, 2, 3, 4, 221, 222, 224, 225, 227, 228, and 687 of this title and all acts supplementary to and amendatory of said sections are made applicable to and extended over thelands hereby added to the park: <i>Provided</i>, That the provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not apply to or extend over such lands.
+The provisions of sections 1, 2, 3, 4, 221, 222, 224, 225, 227, 228, and 687 of this title and all acts supplementary to and amendatory of said sections are made applicable to and extended over the lands hereby added to the park: <i>Provided</i>, That the provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not apply to or extend over such lands.
 
 (Feb. 25, 1927, ch. 197, §2, 44 Stat. 1240.)
 

@@ -58,7 +58,7 @@ Except as otherwise provided in this section, the amount of any tax imposed by t
 
 #### (9) Gift tax on certain gifts not shown on return
 
-&emsp;If any gift of property the value of which is determined under section 2701 or 2702 (or any increase in taxable gifts required under section 2701(d)) is required to be shown on a return of tax imposed by chapter 12 (without regard to section 2503(b)), and is not shown onsuch return, any tax imposed by chapter 12 on such gift may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time. The preceding sentence shall not apply to any item not shown as a gift on such return if such item is disclosed in such return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
+&emsp;If any gift of property the value of which is determined under section 2701 or 2702 (or any increase in taxable gifts required under section 2701(d)) is required to be shown on a return of tax imposed by chapter 12 (without regard to section 2503(b)), and is not shown on such return, any tax imposed by chapter 12 on such gift may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time. The preceding sentence shall not apply to any item not shown as a gift on such return if such item is disclosed in such return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
 
 #### (d) Request for prompt assessment
 
@@ -96,7 +96,7 @@ Except as otherwise provided in subsection (c)—
 
 #### (3) Excise taxes
 
-&emsp;In the case of a return of a tax imposed under a provision of subtitle D, if the return omits an amount of such tax properly includible thereon which exceeds 25 percent of the amount of such tax reported thereon, the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time within 6 years after the return is filed. In determining the amount of tax omitted on a return, there shall not be taken into account any amount of tax imposed by chapter 41, 42, 43, or 44 which is omitted from the return if the transaction giving rise to such tax is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the existence and nature of such item.
+&emsp;In the case of a return of a tax imposed under a provision of subtitle D, if the return omits an amount of such tax properly includible thereon which exceeds 25 percent of the amount of such tax reported thereon, the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time within 6 years after the return is filed. In determining the amount of tax omitted on a return, there shallnot be taken into account any amount of tax imposed by chapter 41, 42, 43, or 44 which is omitted from the return if the transaction giving rise to such tax is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the existence and nature of such item.
 
 #### (f) Personal holding company tax
 
@@ -156,7 +156,7 @@ In a case where an amount has been applied, credited, or refunded under section 
 
 #### (3) Certain set-asides described in section 4942(g)(2)
 
-&emsp;In the case of a deficiency attributable to the failure of an amount set aside by a privatefoundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
+&emsp;In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
 
 #### \[(m) Repealed. Pub. L. 100–418, title I, §1941(b)(2)(H), Aug. 23, 1988, 102 Stat. 1323\]
 
@@ -366,7 +366,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 131(d)(2) of Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, intaxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under section 367 of this title.
+Amendment by section 131(d)(2) of Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under section 367 of this title.
 
 Amendment by section 163(b)(1) of Pub. L. 98–369 applicable to expenditures with respect to which the second taxable year described in section 118(b)(2)(B) of this title ends after Dec. 31, 1984, see section 163(c) of Pub. L. 98–369, set out as a note under section 118 of this title.
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 Amendment by section 101(g)(1)–(3) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-Amendment by section 512(e)(1) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(e)(1) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 #### Effective Date of 1967 Amendment
 

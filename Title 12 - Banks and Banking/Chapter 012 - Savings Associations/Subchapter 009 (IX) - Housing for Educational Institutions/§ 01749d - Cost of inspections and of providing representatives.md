@@ -14,9 +14,7 @@ The Housing Act of 1954, as amended, referred to in text, is act Aug. 2, 1954, c
 
 #### Codification
 
-Section was enacted as part of the Independent Offices Appropriation Act, 1964, Pub. L. 88–215, and not as part of the National Housing Act which comprises this chapter.
-
-Similar provisions were contained in the following prior appropriation acts:
+Section was enacted as part of the Independent Offices Appropriation Act, 1964, Pub. L. 88–215, and not as part of the National Housing Act which comprises this chapter. Similar provisions were contained in the following prior appropriation acts:
 
 Oct. 3, 1962, Pub. L. 87–741, title I, 76 Stat. 728.
 

@@ -32,7 +32,7 @@ It shall be unlawful to export from the United States any nonnarcotic controlled
 
 &emsp;(2) the controlled substance is consigned to a holder of such permits or licenses as may be required under the laws of the country of import;
 
-&emsp;(3) substantial evidence is furnished to the Attorney General that (A) the controlled substance is to be applied exclusively to medical, scientific, or other legitimate uses within the country to which exported, (B) it will not be exported from such country, and (C) there is an actual need for the controlled substance formedical, scientific, or other legitimate uses within the country; and
+&emsp;(3) substantial evidence is furnished to the Attorney General that (A) the controlled substance is to be applied exclusively to medical, scientific, or other legitimate uses within the country to which exported, (B) it will not be exported from such country, and (C) there is an actual need for the controlled substance for medical, scientific, or other legitimate uses within the country; and
 
 &emsp;(4) a permit to export the controlled substance in each instance has been issued by the Attorney General.
 

@@ -10,7 +10,7 @@ Each State receiving financial assistance under this chapter shall give priority
 
 #### (c) Community-based organizations
 
-Community-based organizations shall be given the opportunity to compete on an equitable basis with other eligible service providers for grants under this chapter.
+Community-based organizations shall be given the opportunity to compete on an equitablebasis with other eligible service providers for grants under this chapter.
 
 (Pub. L. 101–554, §12, Nov. 15, 1990, 104 Stat. 2756.)
 

@@ -1,0 +1,52 @@
+### §6106. Petition and review
+
+#### (a) Petition
+
+#### (1) In general
+
+&emsp;A person subject to an order issued under this chapter may file with the Secretary a petition—
+
+&emsp;&emsp;(A) stating that the order, any provision of the order, or any obligation imposed in connection with the order, is not in accordance with law; and
+
+&emsp;&emsp;(B) requesting a modification of the order or an exemption from the order.
+
+#### (2) Hearings
+
+&emsp;The petitioner shall be given the opportunity for a hearing on the petition, in accordance with regulations issued by the Secretary.
+
+#### (3) Ruling
+
+&emsp;After such hearing, the Secretary shall make a ruling on the petition, which shall be final if in accordance with law.
+
+#### (b) Review
+
+#### (1) Commencement of action
+
+&emsp;The district courts of the United States in any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business are hereby vested with jurisdiction to review the ruling on such person's petition, if a complaint for that purpose is filed within 20 days after the date of the entry of such ruling of the Secretary under subsection (a) of this section.
+
+#### (2) Process
+
+&emsp;Service of process in such proceedings shall be conducted in accordance with the Federal Rules of Civil Procedure.
+
+#### (3) Remands
+
+&emsp;If the court determines that such ruling is not in accordance with law, the court shall remand the matter to the Secretary with directions either—
+
+&emsp;&emsp;(A) to make such ruling as the court shall determine to be in accordance with law; or
+
+&emsp;&emsp;(B) to take such further action as, in the opinion of the court, the law requires.
+
+#### (4) Enforcement
+
+&emsp;The pendency of proceedings instituted under subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 6107 of this title.
+
+(Pub. L. 101–624, title XIX, §1927, Nov. 28, 1990, 104 Stat. 3862.)
+
+#### References in Text
+
+The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6108 of this title.
+

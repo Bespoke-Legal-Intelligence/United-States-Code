@@ -1,4 +1,4 @@
-### §460x–7 . Acquisition of property
+### §460x–7. Acquisition of property
 
 #### (a) Authority of Secretary; manner of acquisition; procedure for lands partly within designated area
 

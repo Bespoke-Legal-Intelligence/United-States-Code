@@ -18,7 +18,7 @@ The Corporation is hereby authorized to do the following:
 
 (3) Not more than 10 per centum of the maximum contingent liability of investment insurance which the Corporation is permitted to have outstanding under section 2195(a)(1) of this title shall be issued to a single investor.
 
-(4) Before issuing insurance for the first time for loss due to business interruption, and in each subsequent instance in which a significant expansion is proposed in the type of risk to be insured under the definition of “civil strife” or“business interruption”, the Corporation shall, at least sixty days before such insurance is issued, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report with respect to such insurance, including a thorough analysis of the risks to be covered, anticipated losses, and proposed rates and reserves and, in the case of insurance for loss due to business interruption, an explanation of the underwriting basis upon which the insurance is to be offered. Any such report with respect to insurance for loss due to business interruption shall be considered in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
+(4) Before issuing insurance for the first time for loss due to business interruption, and in each subsequent instance in which a significant expansion is proposed in the type of risk to be insured under the definition of “civil strife” or “business interruption”, the Corporation shall, at least sixty days before such insurance is issued, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report with respect to such insurance, including a thorough analysis of the risks to be covered, anticipated losses, and proposed rates and reserves and, in the case of insurance for loss due to business interruption, an explanation of the underwriting basis upon which the insurance is to be offered. Any such report with respect to insurance for loss due to business interruption shall be considered in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
 
 #### (b) Investment guaranties
 
@@ -54,7 +54,7 @@ To administer and manage special projects and programs, including programs of fi
 
 (4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1) of this section.
 
-> The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any onetime an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
+> The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any one time an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
 
 #### (g) Pilot equity finance program
 
@@ -100,7 +100,7 @@ In subsec. (c), “section 1306 of title 31” substituted for “section 1415 o
 
 1992—Subsec. (g)(5). Pub. L. 102–549 amended par. (5) generally, substituting designation “(c)” for “(5)”. Prior to amendment, par. (5) read as follows: “
 
-Creation of fund from corporate revenues.—The Corporationis authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues.”
+Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues.”
 
 1989—Subsec. (e). Pub. L. 101–218 inserted “and including the initiation of incentives, grants, and studies for renewable energy and other small business activities” after “cooperatives” and inserted at end “Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.”
 
@@ -154,7 +154,7 @@ Subsec. (f). Pub. L. 93–390, §2(2)(D), added subsec. (f).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

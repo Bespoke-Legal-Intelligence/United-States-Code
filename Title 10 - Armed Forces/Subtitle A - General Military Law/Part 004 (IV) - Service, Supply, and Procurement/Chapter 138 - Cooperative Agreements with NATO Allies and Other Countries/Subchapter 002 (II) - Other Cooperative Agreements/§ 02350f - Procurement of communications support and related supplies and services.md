@@ -8,7 +8,7 @@
 
 (3) Payments received by the United States shall be credited to the appropriation from which such communications support and related supplies and services have been provided.
 
-(c) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives copies of all documents evidencing an arrangement entered into under subsection (a) not later than 45 days after entering into such an arrangement.
+(c) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives copies ofall documents evidencing an arrangement entered into under subsection (a) not later than 45 days after entering into such an arrangement.
 
 (d) In this section:
 
@@ -46,5 +46,5 @@ Subsec. (d)(1)(C), (2). Pub. L. 101–189, §933(d)(5), added cl. (C) and par. (
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

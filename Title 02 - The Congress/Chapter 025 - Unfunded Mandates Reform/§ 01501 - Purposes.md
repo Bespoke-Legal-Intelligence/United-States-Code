@@ -1,0 +1,38 @@
+### §1501. Purposes
+
+The purposes of this chapter are—
+
+&emsp;(1) to strengthen the partnership between the Federal Government and State, local, and tribal governments;
+
+&emsp;(2) to end the imposition, in the absence of full consideration by Congress, of Federal mandates on State, local, and tribal governments without adequate Federal funding, in a manner that may displace other essential State, local, and tribal governmental priorities;
+
+&emsp;(3) to assist Congress in its consideration of proposed legislation establishing or revising Federal programs containing Federal mandates affecting State, local, and tribal governments, and the private sector by—
+
+&emsp;&emsp;(A) providing for the development of information about the nature and size of mandates in proposed legislation; and
+
+&emsp;&emsp;(B) establishing a mechanism to bring such information to the attention of the Senate and the House of Representatives before the Senate and the House of Representatives vote on proposed legislation;
+
+&emsp;(4) to promote informed and deliberate decisions by Congress on the appropriateness of Federal mandates in any particular instance;
+
+&emsp;(5) to require that Congress consider whether to provide funding to assist State, local, and tribal governments in complying with Federal mandates, to require analyses of the impact of private sector mandates, and through the dissemination of that information provide informed and deliberate decisions by Congress and Federal agencies and retain competitive balance between the public and private sectors;
+
+&emsp;(6) to establish a point-of-order vote on the consideration in the Senate and House of Representatives of legislation containing significant Federal intergovernmental mandates without providing adequate funding to comply with such mandates;
+
+&emsp;(7) to assist Federal agencies in their consideration of proposed regulations affecting State, local, and tribal governments, by—
+
+&emsp;&emsp;(A) requiring that Federal agencies develop a process to enable the elected andother officials of State, local, and tribal governments to provide input when Federal agencies are developing regulations; and
+
+&emsp;&emsp;(B) requiring that Federal agencies prepare and consider estimates of the budgetary impact of regulations containing Federal mandates upon State, local, and tribal governments and the private sector before adopting such regulations, and ensuring that small governments are given special consideration in that process; and
+
+&emsp;(8) to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations of Federal statutes and regulations that impose Federal intergovernmental mandates.
+
+(Pub. L. 104–4, §2, Mar. 22, 1995, 109 Stat. 48.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Short Title
+
+Section 1 of Pub. L. 104–4 provided that: “This Act \[enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title\] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
+

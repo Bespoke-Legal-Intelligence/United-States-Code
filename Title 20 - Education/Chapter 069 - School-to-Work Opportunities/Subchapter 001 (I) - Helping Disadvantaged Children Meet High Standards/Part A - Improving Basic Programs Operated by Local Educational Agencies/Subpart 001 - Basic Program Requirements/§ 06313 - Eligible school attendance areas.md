@@ -32,7 +32,7 @@
 
 #### (5) Measures
 
-&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the Aidto Families with Dependent Children program, or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
+&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the Aid to Families with Dependent Children program, or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
 
 &emsp;&emsp;(A) to identify eligible school attendance areas;
 
@@ -46,7 +46,7 @@
 
 #### (7) Waiver for desegregation plans
 
-&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered or a court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if (A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and (B) the Secretary determines on the basis of a written request from such agency and in accordance with such criteria as the Secretary establishes, that approval of that request would further the purposes of this part.
+&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered or acourt-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if (A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and (B) the Secretary determines on the basis of a written request from such agency and in accordance with such criteria as the Secretary establishes, that approval of that request would further the purposes of this part.
 
 #### (b) Local educational agency discretion
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(C) where appropriate, neglected and delinquent children in community day school programs.
 
-(Pub. L. 89 10, title I, §1113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3532.)
+(Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3532.)
 
 #### References in Text
 

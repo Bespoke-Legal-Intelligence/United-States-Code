@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with any works to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid by the State as a part of its contribution to the total cost of the works.
+(1) Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with anyworks to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid by the State as a part of its contribution to the total cost of the works.
 
 (2) No part of any funds appropriated under any authorization contained in section 4107 of this title may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
 
@@ -34,7 +34,7 @@
 
 #### (b) Restriction
 
-The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a) of this section, except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel,services and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
+The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a) of this section, except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel, services and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
 
 #### (c) Payment
 

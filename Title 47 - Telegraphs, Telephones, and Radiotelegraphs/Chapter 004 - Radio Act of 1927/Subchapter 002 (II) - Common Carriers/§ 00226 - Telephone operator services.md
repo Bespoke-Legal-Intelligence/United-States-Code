@@ -12,7 +12,7 @@ As used in this section—
 
 &emsp;(4) The term “consumer” means a person initiating any interstate telephone call using operator services.
 
-&emsp;(5) The term “equal access” has the meaning given that term in Appendix B of the Modification of Final Judgment entered August 24, 1982, in United States v. Western Electric, Civil Action No. 82–0192 (United States District Court, District of Columbia), as amended by the Court in its orders issued prior to October 17, 1990.
+&emsp;(5) The term “equal access” has the meaning given that term in Appendix B of the Modification of Final Judgment entered August 24, 1982, in United States v. Western Electric, Civil Action No. 82–0192 (United States District Court, District of Columbia), as amendedby the Court in its orders issued prior to October 17, 1990.
 
 &emsp;(6) The term “equal access code” means an access code that allows the public to obtain an equal access connection to the carrier associated with that code.
 
@@ -238,7 +238,7 @@ Section 2 of Pub. L. 101–435 provided that: “The Congress finds that—
 
 &emsp;“(9) the Commission has testified that its actions have been insufficient to correct the problems in the operator services industry to date; and
 
-&emsp;“(10) a combination of industry self-regulation and government regulation is required to ensure thatcompetitive operator services are provided in a fair and reasonable manner.”
+&emsp;“(10) a combination of industry self-regulation and government regulation is required to ensure that competitive operator services are provided in a fair and reasonable manner.”
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ Section 571a, Pub. L. 85–77, title II, July 1, 1957, 71 Stat. 270, which relat
 
 Section 571b, Pub. L. 85–439, title II, June 4, 1958, 72 Stat. 167, which related to maximum allowance for building improvements, was from the Department of the Interior and Related Agencies Appropriation Act, 1959, and was not repeated in subsequent appropriation acts.
 
-#### Similar Provisions
+#### Prior Provisions
 
 Provisions similar to former section 571a of this title were carried in following prior appropriation acts:
 
@@ -46,7 +46,7 @@ June 25, 1940, ch. 421, 54 Stat. 545.
 
 June 30, 1939, ch. 253, title I, 53 Stat. 954.
 
-Similar provisions to former section 571b of this title were contained in the following prior appropriation acts:
+Provisions similar to former section 571b of this title were contained in the following prior appropriation acts:
 
 July 1, 1957, Pub. L. 85–77, title II, 71 Stat. 270.
 

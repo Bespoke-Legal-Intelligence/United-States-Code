@@ -38,7 +38,7 @@ The representatives of the United States on the Fund and the Bank, and the Expor
 
 1983—Subsec. (b)(8). Pub. L. 98–181 added par. (8).
 
-1965—Subsec. (b)(5). Pub. L. 89–126 substituted provisions requiring an annual report, for provisions whichrequired the Council to report from time to time, but not less frequently than every six months.
+1965—Subsec. (b)(5). Pub. L. 89–126 substituted provisions requiring an annual report, for provisions which required the Council to report from time to time, but not less frequently than every six months.
 
 Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special reports on operations and policies of the Fund and Bank and prescribed contents of such reports, and inserted provisions requiring the annual report to contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and the Bank, and such other data and material as deemed appropriate.
 

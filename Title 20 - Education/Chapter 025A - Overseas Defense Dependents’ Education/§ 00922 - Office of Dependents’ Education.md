@@ -34,11 +34,11 @@ The Director shall—
 
 (3) Subject to the approval of the Secretary of Defense, the Office of Dependents’ Education is authorized an appropriate number of civilian employees in its central office and such regional or area office as are established pursuant to paragraph (1).
 
-(Pub. L. 95 561, title XIV, §1403, Nov. 1, 1978, 92 Stat. 2365.)
+(Pub. L. 95–561, title XIV, §1403, Nov. 1, 1978, 92 Stat. 2365.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, probably meaning the “Defense Dependents’ Education Act of 1978”, title XIV of Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2365, as amended. See References in Text note set out under section 921 of this title.
+This chapter, referred to in subsec. (b), was in the original “this Act”, probably meaning the “Defense Dependents’ Education Act of 1978”, title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended. See References in Text note set out under section 921 of this title.
 
-The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86 91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 901 of this title and Tables.
+The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 

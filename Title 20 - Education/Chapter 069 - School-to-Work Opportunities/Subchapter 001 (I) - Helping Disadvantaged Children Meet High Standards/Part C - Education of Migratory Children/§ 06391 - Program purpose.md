@@ -12,5 +12,5 @@ It is the purpose of this part to assist States to—
 
 &emsp;(5) ensure that migratory children benefit from State and local systemic reforms.
 
-(Pub. L. 89 10, title I, §1301, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3585.)
+(Pub. L. 89–10, title I, §1301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3585.)
 

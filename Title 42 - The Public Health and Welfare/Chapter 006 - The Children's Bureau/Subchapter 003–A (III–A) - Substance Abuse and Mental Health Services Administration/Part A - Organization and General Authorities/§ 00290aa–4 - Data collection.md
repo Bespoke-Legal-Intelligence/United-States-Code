@@ -22,7 +22,7 @@ With respect to the activities of the Administrator under subsection (a) of this
 
 #### (c) Requisite areas of data collection on substance abuse
 
-(1) With respect to the activities of the Administrator under subsection (a) of this section relating to substance abuse, the Administratorshall ensure that such activities include, at a minimum, the collection of data on—
+(1) With respect to the activities of the Administrator under subsection (a) of this section relating to substance abuse, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
 
 &emsp;(A) the number of individuals admitted to the emergency rooms of hospitals as a result of the abuse of alcohol or other drugs;
 

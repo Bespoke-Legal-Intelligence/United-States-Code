@@ -1,4 +1,4 @@
-### §392 . Record
+### §392. Record
 
 #### (a) Hearing on papers, depositions, and exhibits
 

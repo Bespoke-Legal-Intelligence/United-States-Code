@@ -92,43 +92,43 @@ As used in this subchapter—
 
 &emsp;(4) The term “Council” means the State Interagency Coordinating Council established under section 1482 of this title.
 
-(Pub. L. 91 230, title VI, §672, as added Pub. L. 99 457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100 630, title I, §108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101 476, title VIII, §801, title IX, §901(b)(162), (163), Oct. 30, 1990, 104 Stat. 1141, 1149; Pub. L. 102 119, §§12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607.)
+(Pub. L. 91–230, title VI, §672, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100–630, title I, §108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, §801, title IX, §901(b)(162), (163), Oct. 30, 1990, 104 Stat. 1141, 1149; Pub. L. 102–119, §§12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Par. (1)(A). Pub. L. 102 119, §12(a), substituted “language and speech development (hereafter in this subchapter referred to as ‘communication development’), psychosocial development (hereafter in this subchapter referred to as ‘social or emotional development’), or self-help skills (hereafter in this subchapter referred to as ‘adaptive development’),” for “language and speech development, psychosocial development, or self-help skills,”.
+Par. (1)(A). Pub. L. 102–119, §12(a), substituted “language and speech development (hereafter in this subchapter referred to as ‘communication development’), psychosocial development (hereafter in this subchapter referred to as ‘social or emotional development’), or self-help skills (hereafter in this subchapter referred to as ‘adaptive development’),” for “language and speech development, psychosocial development, or self-help skills,”.
 
-Par. (2)(C)(iii) to (v). Pub. L. 102 119, §12(b)(1), substituted “communication” for “language and speech” in cl. (iii), “social or emotional” for “psychosocial” in cl. (iv), and “adaptive development” for “self-help skills” in cl. (v).
+Par. (2)(C)(iii) to (v). Pub. L. 102–119, §12(b)(1), substituted “communication” for “language and speech” in cl. (iii), “social or emotional” for “psychosocial” in cl. (iv), and “adaptive development” for “self-help skills” in cl. (v).
 
-Par. (2)(E)(vii). Pub. L. 102 119, §12(b)(2)(A), substituted “case management services (hereafter in this part referred to as ‘service coordination services’),” for “case management services,”.
+Par. (2)(E)(vii). Pub. L. 102–119, §12(b)(2)(A), substituted “case management services (hereafter in this part referred to as ‘service coordination services’),” for “case management services,”.
 
-Par. (2)(E)(xii) to (xiv). Pub. L. 102 119, §12(b)(2)(B), added cls. (xii) to (xiv).
+Par. (2)(E)(xii) to (xiv). Pub. L. 102–119, §12(b)(2)(B), added cls. (xii) to (xiv).
 
-Par. (2)(F)(vii) to (xi). Pub. L. 102 119, §12(b)(3), struck out “and” at end of cls. (vii) and (viii) and added cls. (ix) to (xi).
+Par. (2)(F)(vii) to (xi). Pub. L. 102–119, §12(b)(3), struck out “and” at end of cls. (vii) and (viii) and added cls. (ix) to (xi).
 
-Par. (2)(G), (H). Pub. L. 102 119, §12(b)(4), added subpar. (G) and redesignated former subpar. (G) as (H).
+Par. (2)(G), (H). Pub. L. 102–119, §12(b)(4), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Par. (1). Pub. L. 101 476, §901(b)(162), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
+Par. (1). Pub. L. 101–476, §901(b)(162), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
 
-Par. (2)(C). Pub. L. 101 476, §901(b)(163), substituted “the developmental needs of an infant or toddler witha disability” for “a handicapped infant's or toddler's developmental needs”.
+Par. (2)(C). Pub. L. 101–476, §901(b)(163), substituted “the developmental needs of an infant or toddler with a disability” for “a handicapped infant's or toddler's developmental needs”.
 
-Par. (2)(E)(xi). Pub. L. 101 476, §801, added cl. (xi).
+Par. (2)(E)(xi). Pub. L. 101–476, §801, added cl. (xi).
 
-1988—Par. (1)(A). Pub. L. 100 630, §108(b)(1), substituted “cognitive” for “Cognitive”.
+1988—Par. (1)(A). Pub. L. 100–630, §108(b)(1), substituted “cognitive” for “Cognitive”.
 
-Par. (2). Pub. L. 100 630, §108(b)(2), (3), substituted “The term ‘early intervention services’” for “‘Early intervention services’”, and in subpar. (C)(iv) substituted “psychosocial” for “psycho-social”.
+Par. (2). Pub. L. 100–630, §108(b)(2), (3), substituted “The term ‘early intervention services’ ” for “ ‘Early intervention services’ ”, and in subpar. (C)(iv) substituted “psychosocial” for “psycho-social”.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 12 of Pub. L. 102 119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102 119, set out as a note under section 927 of this title.
+Amendment by section 12 of Pub. L. 102–119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102–119, set out as a note under section 927 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 

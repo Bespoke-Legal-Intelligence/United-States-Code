@@ -8,81 +8,87 @@ The Congress finds that economic stabilization would be enhanced and the competi
 
 The Congress also finds that there has been a recent trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
 
-(Pub. L. 90 321, title I, §102, May 29, 1968, 82 Stat. 146; Pub. L. 93 495, title III, §302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94 240, §2, Mar. 23, 1976, 90 Stat. 257.)
+(Pub. L. 90–321, title I, §102, May 29, 1968, 82 Stat. 146; Pub. L. 93–495, title III, §302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–240, §2, Mar. 23, 1976, 90 Stat. 257.)
 
 #### Amendments
 
-1976—Pub. L. 94 240 designated existing provisions as subsec. (a) and added subsec. (b).
+1976—Pub. L. 94–240 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1974—Pub. L. 93 495 inserted provisions expanding purposes of subchapter to include protection of consumer against inaccurate and unfair credit billing and credit card practices.
+1974—Pub. L. 93–495 inserted provisions expanding purposes of subchapter to include protection of consumer against inaccurate and unfair credit billing and credit card practices.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94 240 effective on expiration of one year after Mar. 23, 1976, see section 6 of Pub. L. 94 240, set out as an Effective Date note under section 1667 of this title.
+Amendment by Pub. L. 94–240 effective on expiration of one year after Mar. 23, 1976, see section 6 of Pub. L. 94–240, set out as an Effective Date note under section 1667 of this title.
 
 #### Effective Date of 1974 Amendment
 
-For effective date of amendment by Pub. L. 93 495, see section 308 of Pub. L. 93 495, set out as an Effective Date note under section 1666 of this title.
+For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
 #### Effective Date
 
-Section 504(a) of Pub. L. 90 321 provided that this part is effective May 29, 1968.
+Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
+
+#### Short Title of 1995 Amendments
+
+Pub. L. 104–29, §1, Sept. 30, 1995, 109 Stat. 271, provided that: “This Act \[enacting section 1649 of this title, amending sections 1605, 1631, 1635, 1640, and 1641 of this title, and enacting provisions set out as notes under section 1605 of this title\] may be cited as the ‘Truth in Lending Act Amendments of 1995’.”
+
+Pub. L. 104–12, §1, May 18, 1995, 109 Stat. 161, provided that: “This Act \[amending section 1640 of this title\] may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103 325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that: “This subtitle \[subtitle B (§§151 158) of title I of Pub. L. 103 325, enacting sections 1639 and 1648 of this title, amending sections 1602, 1604, 1610, 1640, 1641, and 1647 of this title, and enacting provisions set out as notes under this section and section 1602 of this title\] may be cited as the ‘Home Ownership and Equity Protection Act of 1994’.”
+Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, enacting sections 1639 and 1648 of this title, amending sections 1602, 1604,1610, 1640, 1641, and 1647 of this title, and enacting provisions set out as notes under this section and section 1602 of this title\] may be cited as the ‘Home Ownership and Equity Protection Act of 1994’.”
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102 537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act \[enacting section 1681s 1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100 709, §1, Nov. 23, 1988, 102 Stat. 4725, provided that: “This Act \[enacting sections 1637a, 1647, and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under section 1637a of this title\] may be cited as the ‘Home Equity Loan Consumer Protection Act of 1988’.”
+Pub. L. 100–709, §1, Nov. 23, 1988, 102 Stat. 4725, provided that: “This Act \[enacting sections 1637a, 1647, and 1665b of this title, amending sections 1632 and 1637 of this title, and enacting provisions set out as notes under section 1637a of this title\] may be cited as the ‘Home Equity Loan Consumer Protection Act of 1988’.”
 
-Pub. L. 100 583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act \[amending sections 1610, 1632, 1637, 1640, and 1646 of this title and enacting provisions set out as a note under section 1637 of this title\] may be cited as the ‘Fair Credit and Charge Card Disclosure Act of 1988’.”
+Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act \[amending sections 1610, 1632, 1637, 1640, and 1646 of this title and enacting provisions set out as a note under section 1637 of this title\] may be cited as the ‘Fair Credit and Charge Card Disclosure Act of 1988’.”
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97 25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96 221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title\] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
+Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title\] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
 
 #### Short Title of 1976 Amendments
 
-Section 1 of Pub. L. 94 240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
+Section 1 of Pub. L. 94–240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
 
-Pub. L. 94 239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
+Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
 
-Section 1(c) of Pub. L. 94 239 repealed section 501 of Pub. L. 93 495, title V, Oct. 28, 1974, 88 Stat. 1521, which provided that subchapter IV of this chapter and notes set out under section 1691 were to be cited as the “Equal Credit Opportunity Act”.
+Section 1(c) of Pub. L. 94–239 repealed section 501 of Pub. L. 93–495, title V, Oct. 28, 1974, 88 Stat. 1521, which provided that subchapter IV of this chapter and notes set out under section 1691 were to be cited as the “Equal Credit Opportunity Act”.
 
 #### Short Title of 1974 Amendment
 
-Section 301 of title III of Pub. L. 93 495 provided that: “This title \[enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1666 of this title\] may be cited as the ‘Fair Credit Billing Act’.”
+Section 301 of title III of Pub. L. 93–495 provided that: “This title \[enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1666 of this title\] may be cited as the ‘Fair Credit Billing Act’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 90 321 provided that: “This Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be cited as the ‘Consumer Credit Protection Act’.”
+Section 1 of Pub. L. 90–321 provided that: “This Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be cited as the ‘Consumer Credit Protection Act’.”
 
-Section 101 of title I of Pub. L. 90 321 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Truth in Lending Act’.”
+Section 101 of title I of Pub. L. 90–321 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Truth in Lending Act’.”
 
-Section 601 of title VI of Pub. L. 90 321, as added by Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
+Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
 
-Section 709 of title VII of Pub. L. 90 321, as added by section 1(b) of Pub. L. 94 239, Mar. 23, 1976, 90 Stat. 251,provided that: “This title \[enacting subchapter IV of this chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
+Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title \[enacting subchapter IV of this chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
 
-Section 801 of title VIII of Pub. L. 90 321, as added by Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Fair Debt Collection Practices Act’.”
+Section 801 of title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Fair Debt Collection Practices Act’.”
 
-Section 901 of title IX of Pub. L. 90 321, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728, provided that: “This title \[enacting subchapter VI of this chapter\] may be cited as the ‘Electronic Fund Transfer Act’.”
+Section 901 of title IX of Pub. L. 90–321, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728, provided that: “This title \[enacting subchapter VI of this chapter\] may be cited as the ‘Electronic Fund Transfer Act’.”
 
 #### Severability
 
-Section 501 of Pub. L. 90 321 provided that: “If a provision enacted by this Act \[see Short Title note above\], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+Section 501 of Pub. L. 90–321 provided that: “If a provision enacted by this Act \[see Short Title note above\], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
 
 #### Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index
 
-Pub. L. 103 325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180 days after the date of enactment of this Act \[Sept. 23, 1994\] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding—
+Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180 days after the date of enactment of this Act \[Sept. 23, 1994\] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding—
 
 &emsp;“(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of the Truth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
 
@@ -90,7 +96,7 @@ Pub. L. 103 325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: 
 
 #### Hearings on Home Equity Lending
 
-Pub. L. 103 325, title I, §158, Sept. 23, 1994, 108 Stat. 2197, provided that:
+Pub. L. 103–325, title I, §158, Sept. 23, 1994, 108 Stat. 2197, provided that:
 
 “(a)
 
@@ -98,23 +104,23 @@ Hearings.—Not less than once during the 3-year period beginning on the date of
 
 “(b)
 
-Participation.—In conducting hearings required by subsection (a), the Board of Governors of the Federal Reserve System shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
+Participation.—In conducting hearings required by subsection (a), the Board of Governors of the Federal Reserve System shall solicit participation fromconsumers, representatives of consumers, lenders, and other interested parties.”
 
 #### Study by Federal Reserve Board of Governors Covering Effect of Charge Card Transactions Upon Card Issuers, Merchants, and Consumers
 
-Pub. L. 97 25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of Governors of Federal Reserve System, not later than 2 years after July 27, 1981, to prepare a study and submit its findings to Congress on the effect of charge card transactions upon card issuers, merchants, and consumers.
+Pub. L. 97–25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of Governors of Federal Reserve System, not later than 2 years after July 27, 1981, to prepare a study and submit its findings to Congress on the effect of charge card transactions upon card issuers, merchants, and consumers.
 
 #### National Commission on Consumer Finance
 
-Title IV, §§401 407, of Pub. L. 90 321, as amended by Pub. L. 91 344, July 20, 1970, 84 Stat. 440; Pub. L. 92 321, June 30, 1972, 86 Stat. 382, established a bipartisan National Commission on Consumer Finance to study the functioning and structure of the consumer finance industry as well as consumer credit transactions generally and to report on (1) the adequacy of existing arrangements to provide consumer credit at reasonable rates, (2) the adequacy of existing regulatory mechanisms to protect the public from unfair practices and insure the informed use of consumer credit, and (3) the desirability of Federal chartering of consumer finance companies or other Federal regulatory measures. The Commission was to submit a final report by Dec. 31, 1972, and was to cease to exist after submission of such report.
+Title IV, §§401–407, of Pub. L. 90–321, as amended by Pub. L. 91–344, July 20, 1970, 84 Stat. 440; Pub. L. 92–321, June 30, 1972, 86 Stat. 382, established a bipartisan National Commission on Consumer Finance to study the functioning and structure of the consumer finance industry as well as consumer credit transactions generally and to report on (1) the adequacy of existing arrangements to provide consumer credit at reasonable rates, (2) the adequacy of existing regulatory mechanisms to protect the public from unfair practices and insure the informed use of consumer credit, and (3) the desirability of Federal chartering of consumer finance companies or other Federal regulatory measures. The Commission was to submit a final report by Dec. 31, 1972, and was to cease to exist after submission of such report.
 
 #### Inference of Legislative Intent in Section Captions and Catchlines
 
-Section 502 of Pub. L. 90 321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
+Section 502 of Pub. L. 90–321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
 
 #### Grammatical Usages
 
-Section 503 of Pub. L. 90 321 provided that: “In this Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under sections 1601, 1631 and 1671 of this title, and section 891 of Title 18\]:
+Section 503 of Pub. L. 90–321 provided that: “In this Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under sections 1601, 1631 and 1671 of this title, and section 891 of Title 18\]:
 
 &emsp;“(1) The word ‘may’ is used to indicate that an action either is authorized or is permitted.
 

@@ -54,7 +54,7 @@ If the Committee on the Budget of the House of Representatives reports any concu
 
 #### (d) Views and estimates of other committees
 
-Within 6 weeks after the President submits a budget under section 1105(a) of title 31, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions.
+Within 6 weeks after the President submits a budget under section 1105(a) of title 31, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee <sup>3</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
 #### (e) Hearings and report
 
@@ -102,7 +102,7 @@ The Committee on the Budget of the House of Representatives shall consult with t
 
 It shall not be in order in the Senate to consider any concurrent resolution on the budget as reported to the Senate that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625.)
+(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
-This Act, referred to in subsec. (b)(4), (7)(C), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (b)(4), (7)(C), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to theCode, see Short Title note set out under section 621 of this title and Tables.
 
 The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
@@ -118,9 +118,11 @@ The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I
 
 #### Codification
 
-Section was formerly classified to section 1322 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1322 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+1995—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
 1990—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
 
@@ -160,6 +162,10 @@ Subsec. (d). Pub. L. 95–523, §303(a), which directed insertion in subsec. (c)
 
 Subsec. (e). Pub. L. 95–523, §304(b), added subsec. (e).
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as an Effective Date note under section 1511 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Section 13306 of Pub. L. 101–508 provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
@@ -174,7 +180,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Exclusion of Social Security From All Budgets
 
-Section 13301(a) of Pub. L. 101–508 provided that: “Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
+Section 13301(a) of Pub. L. 101–508 provided that: “Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age andSurvivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
 
 &emsp;“(1) the budget of the United States Government as submitted by the President,
 
@@ -192,7 +198,7 @@ In General.—It shall not be in order in the House of Representatives to consid
 
 &emsp;“(1)(A) such legislation under consideration would provide for a net increase in OASDI benefits of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act \[42 U.S.C. 401(c)(2)\], and (B) such legislation under consideration does not provide at least a net increase, for such 75-year period, in OASDI taxes of the amount by which the net increase in such benefits exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period,
 
-&emsp;“(2)(A) such legislation under consideration would provide for a net increase in OASDI benefits (for the 5-year estimating period for such legislation under consideration), (B) such net increase, together with the net increases in OASDI benefits resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislationunder consideration does not provide at least a net increase, for the 5-year estimating period for such legislation under consideration, in OASDI taxes which, together with net increases in OASDI taxes resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net increase derived under subparagraph (B) exceeds $250,000,000;
+&emsp;“(2)(A) such legislation under consideration would provide for a net increase in OASDI benefits (for the 5-year estimating period for such legislation under consideration), (B) such net increase, together with the net increases in OASDI benefits resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net increase, for the 5-year estimating period for such legislation under consideration, in OASDI taxes which, together with net increases in OASDI taxes resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net increase derived under subparagraph (B) exceeds $250,000,000;
 
 &emsp;“(3)(A) such legislation under consideration would provide for a net decrease in OASDI taxes of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act, and (B) such legislation under consideration does not provide at least a net decrease, for such 75-year period, in OASDI benefits of the amount by which the net decrease in such taxes exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period, or
 
@@ -232,7 +238,7 @@ Appeal of ruling of the Chair on point of order raised under subsec. (i) of this
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 
-Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues,spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 
@@ -249,4 +255,6 @@ This section is referred to in sections 622, 633, 634, 635, 636, 641, 655, 665a,
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “old-age,”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

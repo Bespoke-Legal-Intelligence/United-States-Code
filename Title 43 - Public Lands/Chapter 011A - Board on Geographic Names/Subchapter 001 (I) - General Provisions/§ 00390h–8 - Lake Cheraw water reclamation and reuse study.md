@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized, in cooperation with the State of Colorado and appropriate local and regional entities, to conduct a study to assess and develop means of reclaiming the waters of Lake Cheraw, Colorado, or otherwise ameliorating, controlling and mitigating potential negative impacts of pollution in the waters of Lake Cheraw on groundwater resources or the waters of the Arkansas River.
+The Secretary is authorized, in cooperation with the State of Colorado and appropriate local and regional entities, to conduct a study to assess and develop means of reclaiming the waters of Lake Cheraw, Colorado, or otherwise ameliorating, controlling and mitigating potential negative impacts of pollution in the waters ofLake Cheraw on groundwater resources or the waters of the Arkansas River.
 
 #### (b) Federal share
 
@@ -20,7 +20,7 @@ The Secretary shall submit the report authorized by this section to the Committe
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

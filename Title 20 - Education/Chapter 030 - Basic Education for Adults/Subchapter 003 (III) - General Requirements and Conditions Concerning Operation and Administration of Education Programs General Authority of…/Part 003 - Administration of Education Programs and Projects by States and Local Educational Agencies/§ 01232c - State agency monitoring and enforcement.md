@@ -22,31 +22,31 @@ In order to enforce the Federal requirements under any applicable program the St
 
 #### (c) Withholding of payments
 
-Any withholding of payments under subsection (b)(3) of this subsection<sup>1</sup> shall continueuntil the State is satisfied that there is no longer a failure to comply substantially with any of such requirements.
+Any withholding of payments under subsection (b)(3) of this subsection <sup>1</sup> shall continue until the State is satisfied that there is no longer a failure to comply substantially with any of such requirements.
 
-(Pub. L. 90 247, title IV, §440, formerly §434, as added Pub. L. 95 561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2342; renumbered §440 and amended Pub. L. 103 382, title II, §§212(b)(1), 261(e), Oct. 20, 1994, 108 Stat. 3913, 3927.)
+(Pub. L. 90–247, title IV, §440, formerly §434, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2342; renumbered §440 and amended Pub. L. 103–382, title II, §§212(b)(1), 261(e), Oct. 20, 1994, 108 Stat. 3913, 3927.)
 
 #### Prior Provisions
 
-A prior section 1232c, Pub. L. 90 247, title IV, §434, formerly §424, as added Pub. L. 91 230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §434 and amended Pub. L. 92 318, title III, §301(a)(1), title V, §501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93 380, title V, §§510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94 482, title V, §501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95 561.
+A prior section 1232c, Pub. L. 90–247, title IV, §434, formerly §424, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §434 and amended Pub. L. 92–318, title III, §301(a)(1), title V, §501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93–380, title V, §§510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94–482, title V, §501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
 
-A prior section 440 of Pub. L. 90 247 was renumbered section 446, and is classified to section 1232i of this title.
+A prior section 440 of Pub. L. 90–247 was renumbered section 446, and is classified to section 1232i of this title.
 
 #### Amendments
 
-1994—Pub. L. 103 382, §261(e)(1), struck out “educational” after “State” in section catchline.
+1994—Pub. L. 103–382, §261(e)(1), struck out “educational” after “State” in section catchline.
 
-Subsec. (a). Pub. L. 103 382, §261(e)(2)(A), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (a). Pub. L. 103–382, §261(e)(2)(A), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 103 382, §261(e)(2)(B), (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted “subsection (b)(3)” for “paragraph (3)”.
+Subsecs. (b), (c). Pub. L. 103–382, §261(e)(2)(B), (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted “subsection (b)(3)” for “paragraph (3)”.
 
 #### Effective Date
 
-Section 1261 of Pub. L. 95 561 provided that: “The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f 1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\].”
+Section 1261 of Pub. L. 95–561 provided that: “The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\].”
 
 #### Applicability of Administrative Procedure to Office of Education or Actions by Commissioner Unaffected by Subsections (b) to (e)
 
-Pub. L. 93 380, title V, §511(b)(2), Aug. 21, 1974, 88 Stat. 571, provided that nothing in the amendment made by subsec. (a) of section 511 of Pub. L. 93 380, which enacted prior subsecs. (b) to (e) and deleted former subsec. (b) of this section, would be construed to affect the applicability of chapter 5 of Title 5, Government Organization and Employees, to the Office of Education or actions by the Commissioner.
+Pub. L. 93–380, title V, §511(b)(2), Aug. 21, 1974, 88 Stat. 571, provided that nothing in the amendment made by subsec. (a) of section 511 of Pub. L. 93–380, which enacted prior subsecs. (b) to (e) and deleted former subsec. (b) of this section, would be construed to affect the applicability of chapter 5 of Title 5, Government Organization and Employees, to the Office of Education or actions by the Commissioner.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

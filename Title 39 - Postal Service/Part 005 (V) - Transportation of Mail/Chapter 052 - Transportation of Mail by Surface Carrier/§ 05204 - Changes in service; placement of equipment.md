@@ -1,0 +1,8 @@
+### §5204. Changes in service; placement of equipment
+
+(a) The Postal Service may authorize, according to the need therefor, new or additional mail transportation service by carriers at the rate or compensation fixed under this chapter. It may reduce or discontinue service with pro rata reductions in compensation and indemnity for the loss of reasonable investment in equipment used exclusively for mail.
+
+(b) A railroad shall place cars used for full or apartment post office service in position at such times before departure as the Postal Service directs.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769.)
+

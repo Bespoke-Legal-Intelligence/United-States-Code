@@ -62,7 +62,7 @@
 
 1986—Pub. L. 99–514, title I, §123(b)(4), title VI, §612(b)(8), title XI, §1168(b), Oct. 22, 1986, 100 Stat. 2113, 2251, 2512, struck out item 116 “Partial exclusion of dividends received by individuals”, substituted in item 117 “Qualified scholarships” for “Scholarships and fellowship grants”, added item 134, and redesignated former item 134 as 135.
 
-1984—Pub. L. 98–369, div. A, title I, §171(b), title V, §§531(a)(2), 543(b), July 18, 1984, 98 Stat. 699, 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignatedformer item 132 (relating to cross references to other Acts) as item 134.
+1984—Pub. L. 98–369, div. A, title I, §171(b), title V, §§531(a)(2), 543(b), July 18, 1984, 98 Stat. 699, 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
 
 Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repealed an amendment made by Pub. L. 97–34, §302(c). See 1981 Amendment note below.
 

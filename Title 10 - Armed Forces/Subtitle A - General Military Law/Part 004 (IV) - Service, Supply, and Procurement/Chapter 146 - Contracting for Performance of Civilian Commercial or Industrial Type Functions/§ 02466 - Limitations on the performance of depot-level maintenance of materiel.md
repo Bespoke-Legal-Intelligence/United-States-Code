@@ -2,11 +2,11 @@
 
 (a)
 
-Percentage Limitation.—Not more than 40 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
+Percentage Limitation.—Not more than 40 percent of the funds made available in a fiscalyear to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
 
 (b)
 
-Prohibition on Management by End Strength.—The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis of any end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year. Such employees shall be managedsolely on the basis of the available workload and the funds made available for such depot-level maintenance and repair.
+Prohibition on Management by End Strength.—The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis of any end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year. Such employees shall be managed solely on the basis of the available workload and the funds made available for such depot-level maintenance and repair.
 
 (c)
 

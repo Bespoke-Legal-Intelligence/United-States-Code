@@ -6,7 +6,7 @@ It is the policy of the Government, and it shall be the responsibility of the co
 
 #### (b) Establishment of methods and standards
 
-Each contracting agency shall establish methods and standards, suitable to the conditions of various war contractors, for determining fair compensation for the termination of war contracts on the basis of actual, standard, average, or estimated costs, or of a percentage of the contract price based on the estimated percentage of completion of work under the terminated contract, or on any other equitable basis, as it deems appropriate. To the extent that such methods and standards require accounting, they shall be adapted, so far as practicable, to the accounting systems used by war contractors, if consistent with recognized commercial accounting practice.
+Each contracting agency shall establish methods and standards, suitable to the conditions of various war contractors, for determining fair compensation for the termination of war contracts on the basis of actual, standard, average,or estimated costs, or of a percentage of the contract price based on the estimated percentage of completion of work under the terminated contract, or on any other equitable basis, as it deems appropriate. To the extent that such methods and standards require accounting, they shall be adapted, so far as practicable, to the accounting systems used by war contractors, if consistent with recognized commercial accounting practice.
 
 #### (c) Conclusiveness of settlement
 
@@ -42,7 +42,7 @@ The following shall not be included as elements of cost:
 
 The failure specifically to mention in this subsection any item of cost is not intended to imply that it should be allowed or disallowed. The Administrator of General Services may interpret the provisions of this subsection and may provide for the inclusion or exclusion of other costs in accordance with recognized commercial accounting practice.
 
-Where the small size of claims or the nature of production or performance or other factors make it impracticable to apply the principles stated in this subsection to any class of settlements which are subject to this subsection, the contracting agencies may establish alternative methods and standards for determining fair compensation for that class of termination claims. The aggregate amount of compensation allowed in accordance with this subsection (excluding amounts allowed under paragraphs (3) and (4) of this subsection) shall not exceed the total contract price reduced by the amount of payments otherwise made or to be made under the contract.
+Where the small size of claims or the nature of production or performance or other factors make it impracticable to apply the principles stated in this subsection to any class of settlements which are subject to this subsection, the contracting agencies may establish alternative methods and standards for determining faircompensation for that class of termination claims. The aggregate amount of compensation allowed in accordance with this subsection (excluding amounts allowed under paragraphs (3) and (4) of this subsection) shall not exceed the total contract price reduced by the amount of payments otherwise made or to be made under the contract.
 
 #### (e) Settlement by agreement
 
@@ -64,7 +64,7 @@ Section 1191 of the Appendix to title 50, referred to in subsec. (c), was omitte
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) ofact June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947. Reorg. Plan No. 1 of 1947 is set out in the Appendix to Title 5, Government Organization and Employees.
 

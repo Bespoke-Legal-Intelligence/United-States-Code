@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The deductions allowed by sections 243, 244, and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made,or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
+&emsp;The deductions allowed by sections 243, 244, and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
 
 #### (2) Subsection not to apply to certain dividends of Federal Home Loan Banks
 
@@ -18,7 +18,7 @@
 
 #### (B) Dividends out of accumulated earnings and profits
 
-&emsp;&emsp;In the case of any dividend which is paid out of any accumulated earnings and profits of any FHLB, paragraph (1) shall not apply to that portion of the dividend which bears the same ratio to the total dividend as—
+&emsp;&emsp;In the case of any dividend which is paid out of any accumulated earnings and profitsof any FHLB, paragraph (1) shall not apply to that portion of the dividend which bears the same ratio to the total dividend as—
 
 &emsp;&emsp;&emsp;(i) the amount of dividends received by such FHLB from the FHLMC which are out of earnings and profits of the FHLMC—
 
@@ -172,7 +172,7 @@ Subsec. (c)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 1971—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1969—Subsec. (b)(1). Pub. L. 91–172, §512(f)(3), substituted “and 247, and without regard to any capitalloss carryback to the taxable year under section 1212(a)(1)” for “and 247”.
+1969—Subsec. (b)(1). Pub. L. 91–172, §512(f)(3), substituted “and 247, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1)” for “and 247”.
 
 Subsec. (d). Pub. L. 91–172, §434(b)(1), added subsec. (d).
 

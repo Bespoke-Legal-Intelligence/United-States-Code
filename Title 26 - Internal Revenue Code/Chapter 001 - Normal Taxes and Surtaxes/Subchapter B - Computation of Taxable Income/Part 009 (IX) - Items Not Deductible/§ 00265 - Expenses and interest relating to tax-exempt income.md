@@ -14,7 +14,7 @@ No deduction shall be allowed for—
 
 #### (3) Certain regulated investment companies
 
-&emsp;In the case of a regulated investment company which distributes during the taxable year an exempt-interest dividend (including exempt-interest dividends paid after the close of the taxable year as described in section 855), that portion of any amount otherwise allowable as a deduction which the amount of the income of such company wholly exempt from taxes under this subtitle bears to the total of such exempt income and its gross income (excluding from gross income, for this purpose, capital gain net income, as defined in section 1222(9)).
+&emsp;In the case of a regulated investment company which distributes during the taxable yearan exempt-interest dividend (including exempt-interest dividends paid after the close of the taxable year as described in section 855), that portion of any amount otherwise allowable as a deduction which the amount of the income of such company wholly exempt from taxes under this subtitle bears to the total of such exempt income and its gross income (excluding from gross income, for this purpose, capital gain net income, as defined in section 1222(9)).
 
 #### (4) Interest related to exempt-interest dividends
 
@@ -102,7 +102,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(I) a private activity bond (other than a qualified 501(c)(3) bond, as defined in section 145),
 
-&emsp;&emsp;&emsp;&emsp;(II) an obligation to which section 141(a) does not apply by reason of section 1312, 1313, 1316(g), or 1317 of the Tax Reform Act of 1986 and which would (if issued on August 15, 1986) have been an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of such Act) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), as so in effect, but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(A)), or
+&emsp;&emsp;&emsp;&emsp;(II) an obligation to which section 141(a) does not apply by reason of section 1312, 1313, 1316(g), or 1317 of the Tax Reform Act of 1986 and which would (if issued on August 15, 1986) have been an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of suchAct) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), as so in effect, but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(A)), or
 
 &emsp;&emsp;&emsp;&emsp;(III) an obligation issued to refund (other than to advance refund within the meaning of section 149(d)(5)) any obligation to the extent the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation.
 
@@ -246,7 +246,7 @@ Section 1009(b)(3)(B)–(D) of Pub. L. 100–647, as amended by Pub. L. 101–23
 
 > for purposes of section 265(b)(3) of the 1986 Code, such obligation shall be treated as issued on August 8, 1986.
 
-“(D)(i) Except as provided in clause (ii), the following provisions of section 265(b)(3) of the 1986 Code (as amended by this subparagraph (A)) shall apply to obligations issued after June 30, 1987:
+“(D)(i) Except as provided in clause (ii), the following provisions of section 265(b)(3) of the 1986 Code (asamended by this subparagraph (A)) shall apply to obligations issued after June 30, 1987:
 
 &emsp;“(I) subparagraph (C)(ii)(III),
 
@@ -346,7 +346,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 &emsp;“(2)
 
-Conforming amendments.—The amendments made by subsection (b)(6) \[amending sections 584, 643,and 702 of this title\] shall apply to taxable years beginning after December 31, 1981.”
+Conforming amendments.—The amendments made by subsection (b)(6) \[amending sections 584, 643, and 702 of this title\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective and Termination Dates of 1980 Amendment
 
@@ -368,7 +368,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Clarification of Treatment of Amounts Excluded Under Section 597
 
-Section 904(c)(2)(B) of Pub. L. 99–514, which provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, was repealed by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
+Section 904(c)(2)(B) of Pub. L. 99–514 provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excludedfrom gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
 
 #### Cross References
 

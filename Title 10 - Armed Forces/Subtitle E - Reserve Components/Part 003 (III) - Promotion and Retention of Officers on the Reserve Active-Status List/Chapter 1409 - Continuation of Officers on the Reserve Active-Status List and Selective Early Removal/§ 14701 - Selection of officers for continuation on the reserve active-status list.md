@@ -14,7 +14,7 @@ Consideration for Continuation.—(1) Upon application, a reserve officer of the
 
 (6) An officer who is selected for continuation on the reserve active-status list as a result of the convening of a selection board under section 14101(b) of this title but who declines to continue on that list shall be separated in accordance with section 14513 or 14514 of this title, as the case may be.
 
-(7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued onthe active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration of the period for which the officer was continued on the reserve active-status list.
+(7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued on the active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration of the period for which the officer was continued on the reserve active-status list.
 
 (b)
 
@@ -22,7 +22,7 @@ Approval of Secretary Concerned.—Continuation of an officer on the reserve act
 
 (c)
 
-Instructions To Continuation Boards.—A continuation board convened under section 14101(b) of this title to consider officers for continuation on the reserve active-status list under this section shall act in accordance with the instructions and directions provided to the board by the Secretary of the military department concerned.
+Instructions To Continuation Boards.—A continuation board convened under section 14101(b) of this title to consider officers for continuation on the reserve active-status list underthis section shall act in accordance with the instructions and directions provided to the board by the Secretary of the military department concerned.
 
 (d)
 

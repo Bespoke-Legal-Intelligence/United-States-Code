@@ -14,7 +14,7 @@ The Secretary may (subject to the remaining provisions of this section) reduce p
 
 #### (c) Notice
 
-The Secretary shall not make any adjustment in the payment to a State, nor require any adjustment in the payment to an institution or person, pursuant to subsection (b) of this sectionuntil after he has provided adequate notice (which shall be not less than 60 days) to the State agency and the institution or person.
+The Secretary shall not make any adjustment in the payment to a State, nor require any adjustment in the payment to an institution or person, pursuant to subsection (b) of this section until after he has provided adequate notice (which shall be not less than 60 days) to the State agency and the institution or person.
 
 #### (d) Regulations
 

@@ -40,7 +40,7 @@ A security may be registered on a national securities exchange by the issuer fil
 
 #### (c) Additional or alternative information
 
-If in the judgment of the Commission any information required under subsection (b) of this section is inapplicable to any specified class or classes of issuers, the Commission shall require in lieu thereof the submission of such other information of comparable character as it may deem applicable to such class of issuers.
+If in the judgment of the Commission any information required under subsection (b) of thissection is inapplicable to any specified class or classes of issuers, the Commission shall require in lieu thereof the submission of such other information of comparable character as it may deem applicable to such class of issuers.
 
 #### (d) Effective date of registration; withdrawal of registration
 
@@ -104,13 +104,13 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (4) On the application of the issuer of any security for which unlisted trading privileges on any exchange have been continued or extended pursuant to this subsection, or of any broker or dealer who makes or creates a market for such security, or of any other person having a bona fide interest in the question of termination or suspension of such unlisted trading privileges, or on its own motion, the Commission shall by order terminate, or suspend for a period not exceeding twelve months, such unlisted trading privileges for such security if the Commission finds, after appropriate notice and opportunity for hearing, that such termination or suspension is necessary or appropriate in the public interest or for the protection of investors.
 
-(5) In any proceeding under this subsection in which appropriate notice and opportunity for hearing are required, notice of not less than ten days to the applicant in such proceeding, to the issuer of the security involved, to the exchange which is seeking to continue or extend or has continued or extended unlisted trading privileges for such security, and to the exchange, if any, on which such security is listed and registered, shall be deemed adequate notice, and any broker or dealer who makes or creates amarket for such security, and any other person having a bona fide interest in such proceeding, shall upon application be entitled to be heard.
+(5) In any proceeding under this subsection in which appropriate notice and opportunity for hearing are required, notice of not less than ten days to the applicant in such proceeding, to the issuer of the security involved, to the exchange which is seeking to continue or extend or has continued or extended unlisted trading privileges for such security, and to the exchange, if any, on which such security is listed and registered, shall be deemed adequate notice, and any broker or dealer who makes or creates a market for such security, and any other person having a bona fide interest in such proceeding, shall upon application be entitled to be heard.
 
 (6) Any security for which unlisted trading privileges are continued or extended pursuant to this subsection shall be deemed to be registered on a national securities exchange within the meaning of this chapter. The powers and duties of the Commission under this chapter shall be applicable to the rules of an exchange in respect of any such security. The Commission may, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions, or for stated periods, exempt such securities from the operation of any provision of section 78m, 78n, or 78p of this title.
 
 #### (g) Registration of securities by issuer; exemptions
 
-(1) Every issuer which is engaged in interstate commerce, or in a business affecting interstate commerce, or whose securities are traded by use of the mails or any means or instrumentality of interstate commerce shall—
+(1) Every issuer which is engaged in interstate commerce, or in a business affecting interstatecommerce, or whose securities are traded by use of the mails or any means or instrumentality of interstate commerce shall—
 
 &emsp;(A) within one hundred and twenty days after the last day of its first fiscal year ended after July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and
 
@@ -126,7 +126,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 &emsp;(C) any security, other than permanent stock, guaranty stock, permanent reserve stock, or any similar certificate evidencing nonwithdrawable capital, issued by a savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, which is supervised and examined by State or Federal authority having supervision over any such institution.
 
-&emsp;(D) any security of an issuer organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes and not for pecuniary profit, and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+&emsp;(D) any security of an issuer organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes and not for pecuniary profit, and no part of the net earnings of which inures to the benefit of any private shareholder or individual; or any security of a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title.
 
 &emsp;(E) any security of an issuer which is a “cooperative association” as defined in the Agricultural Marketing Act, approved June 15, 1929, as amended \[12 U.S.C. 1141 et seq.\], or a federation of such cooperative associations, if such federation possesses no greater powers or purposes than cooperative associations so defined.
 
@@ -206,7 +206,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 It shall be unlawful for an issuer, any class of whose securities is registered pursuant to this section or would be required to be so registered except for the exemption from registration provided by subsection (g)(2)(B) or (g)(2)(G) of this section, by the use of any means or instrumentality of interstate commerce, or of the mails, to issue, either originally or upon transfer, any of such securities in a form or with a format which contravenes such rules and regulations as the Commission may prescribe as necessary or appropriate for the prompt and accurate clearance and settlement of transactions in securities. The provisions of this subsection shall not apply to variable annuity contracts or variable life policies issued by an insurance company or its separate accounts.
 
-(June 6, 1934, ch. 404, title I, §12, 48 Stat. 892; May 27, 1936, ch. 462, §1, 49 Stat. 1375; Aug. 10, 1954, ch. 667, title II, §202, 68 Stat. 686; Aug. 20, 1964, Pub. L. 88–467, §3, 78 Stat. 565; July 29, 1968, Pub. L. 90–439, §1, 82 Stat. 454; Dec. 14, 1970, Pub. L. 91–547, §28(c), 84 Stat. 1435; Oct. 28, 1974, Pub. L. 93–495, title I, §105(b), 88 Stat. 1503; June 4, 1975, Pub. L. 94–29, §§8, 9, 89 Stat. 117, 118; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 4, 1987, Pub. L. 100–181, title III, §314, 101 Stat. 1256; Aug. 9, 1989, Pub. L. 101–73, title VII, §744(u)(2), 103 Stat. 441; Oct. 16, 1990, Pub. L. 101–432, §2, 104 Stat. 963; Oct. 22, 1994, Pub. L. 103–389, §2, 108 Stat. 4081.)
+(June 6, 1934, ch. 404, title I, §12, 48 Stat. 892; May 27, 1936, ch. 462, §1, 49 Stat. 1375; Aug. 10, 1954, ch. 667, title II, §202, 68 Stat. 686; Aug. 20, 1964, Pub. L. 88–467, §3, 78 Stat. 565; July 29, 1968, Pub. L. 90–439, §1, 82 Stat. 454; Dec. 14, 1970, Pub. L. 91–547, §28(c), 84 Stat. 1435; Oct. 28, 1974, Pub. L. 93–495, title I, §105(b), 88 Stat. 1503; June 4, 1975, Pub. L. 94–29, §§8, 9, 89 Stat. 117, 118; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 4, 1987, Pub. L. 100–181, title III, §314, 101 Stat. 1256; Aug. 9, 1989, Pub. L. 101–73, title VII, §744(u)(2), 103 Stat. 441; Oct. 16, 1990, Pub. L. 101–432, §2, 104 Stat. 963; Oct. 22, 1994, Pub. L. 103–389, §2, 108 Stat. 4081; Dec. 8, 1995, Pub. L. 104–62, §4(d), 109 Stat. 685.)
 
 #### References in Text
 
@@ -219,6 +219,8 @@ The Agricultural Marketing Act, approved June 15, 1929, as amended, referred to 
 The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
 #### Amendments
+
+1995—Subsec. (g)(2)(D). Pub. L. 104–62 inserted before period at end “; or any security of a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title”.
 
 1994—Subsec. (f)(1), (2). Pub. L. 103–389, §2(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to extension of unlisted trading privileges for securities originally listed on another national exchange and approval process for application for extension of such privileges, respectively.
 
@@ -265,6 +267,10 @@ Subsecs. (g) to (i). Pub. L. 88–467, §3(c)–(e), added subsecs. (g) to (i).
 1954—Subsec. (d). Act Aug. 10, 1954, repealed last sentence requiring that rules and regulations limit the registration of unissued security to specified cases.
 
 1936—Subsec. (f). Act May 27, 1936, amended first par. and added subsequent pars.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
 
 #### Effective Date of 1975 Amendment
 

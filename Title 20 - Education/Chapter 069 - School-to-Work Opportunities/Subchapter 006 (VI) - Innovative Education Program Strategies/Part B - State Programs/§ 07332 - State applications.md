@@ -28,7 +28,7 @@ An application filed by the State under subsection (a) of this section shall be 
 
 Local educational agencies receiving less than an average of $5,000 each under this subchapter shall not be audited more frequently than once every five years.
 
-(Pub. L. 89 10, title VI, §6202, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3710.)
+(Pub. L. 89–10, title VI, §6202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3710.)
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,5 @@
 
-29 U.S.C.<br>United States Code, 1994 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
+29 U.S.C.<br>United States Code, 1995 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 29—LABOR
 

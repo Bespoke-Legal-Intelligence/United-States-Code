@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to carry out the provisions of subparts 1, 2, and 3 of this part $4,400,000 for fiscal year 1995 and such sums as may be necessary of<sup>1</sup> each of the four succeeding fiscal years.
+There are authorized to be appropriated to carry out the provisions of subparts 1, 2, and 3 of this part $4,400,000 for fiscal year 1995 and suchsums as may be necessary of <sup>1</sup> each of the four succeeding fiscal years.
 
 #### (b) Special rule
 
 Of the funds appropriated pursuant to subsection (a) of this section, not more than 30 percent may be used for teachers associated with students participating in the programs described in section 8171(a) of this title.
 
-(Pub. L. 89 10, title X, §10742, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3843.)
+(Pub. L. 89–10, title X, §10742, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3843.)
 

@@ -74,7 +74,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Prior Provisions
 
-A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, which authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, was repealed by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 931(c) of Pub. 
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
-Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
+Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed serviceswhether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
 
 #### Effective Date of 1981 Amendment
 

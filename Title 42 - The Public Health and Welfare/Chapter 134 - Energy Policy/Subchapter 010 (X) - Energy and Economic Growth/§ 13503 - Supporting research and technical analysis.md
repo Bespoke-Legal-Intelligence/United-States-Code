@@ -12,7 +12,7 @@
 
 &emsp;(B) The construction of the Advanced Photon Source at the Argonne National Laboratory is hereby authorized.
 
-&emsp;(C) The Secretary shall not change the user fee practice in effect as of October 1, 1991, with respect to user facilities unless the Secretarynotifies Congress 90 days before the effective date of any change.
+&emsp;(C) The Secretary shall not change the user fee practice in effect as of October 1, 1991, with respect to user facilities unless the Secretary notifies Congress 90 days before the effective date of any change.
 
 &emsp;(D) The Secretary shall expedite the design for construction of the Advanced Neutron Source at the Oak Ridge National Laboratory, in order to provide critical research capabilities in support of our national research initiatives for advanced materials and biotechnology, as well as a broad range of research. Such action shall be consistent with the Basic Energy Sciences Advisory Committee's Technical Evaluation of accelerator and reactor neutron source technologies. Within 90 days after October 24, 1992, the Secretary shall submit to the Congress a plan for such design, including a schedule for construction.
 

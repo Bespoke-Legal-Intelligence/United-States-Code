@@ -1,4 +1,4 @@
-### §460n–5 . Regulation of area; violations and penalties
+### §460n–5. Regulation of area; violations and penalties
 
 Such national recreation area shall continue to be administered in accordance with regulations heretofore issued by the Secretary of the Interior relating to such areas, and the Secretary may revise such regulations or issue new regulations to carry out the purposes of this subchapter. In his administration and regulation of the area, the Secretary shall exercise authority, subject to the provisions and limitations of this subchapter, comparable to his general administrative authority relating to areas of the national park system.
 

@@ -2,7 +2,7 @@
 
 The Secretary may, upon application by an agency which is eligible for designation as a Head Start agency pursuant to section 9836 of this title, provide financial assistance to such agency for the planning, conduct, administration, and evaluation of a Head Start program focused primarily upon children from low-income families who have not reached the age of compulsory school attendance which (1) will provide such comprehensive health, education, parental involvement, nutritional, social, and other services as will aid the children to attain their full potential; and (2) will provide for direct participation of the parents of such children in the development, conduct, and overall program direction at the local level.
 
-(Pub. L. 97–35, title VI, §638, Aug. 13, 1981, 95 Stat. 499; Pub. L. 100–297, title II, §2504, Apr. 28, 1988, 102 Stat. 330; Pub. L. 103–252, title I, §§103, 112(c), May 18, 1994, 108 Stat. 625, 641.)
+(Pub. L. 97–35, title VI, §638, Aug. 13, 1981, 95 Stat. 499; Pub. L. 100–297, title II, §2504, Apr. 28,1988, 102 Stat. 330; Pub. L. 103–252, title I, §§103, 112(c), May 18, 1994, 108 Stat. 625, 641.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(4) The United States should actively encourage Hong Kong residents to visit the United States on nonimmigrant visas for such purposes as business, tourism, education, and scientific and academic research, in accordance with applicable United States and Hong Kong laws.
 
-&emsp;(5) Upon the request of the Legislative Council of Hong Kong, the Librarian of Congress, acting through the Congressional Research Service, should seek to expand educational and informational ties with the Council.
+&emsp;(5) Upon the request of the Legislative Council of Hong Kong, the Librarian of Congress,acting through the Congressional Research Service, should seek to expand educational and informational ties with the Council.
 
 (Pub. L. 102–383, title I, §105, Oct. 5, 1992, 106 Stat. 1452.)
 

@@ -38,7 +38,7 @@ The Secretary shall not award a grant which exceeds $2,000,000 to an eligible co
 
 &emsp;&emsp;(B) one shall be a secondary school with experience in teaching critical languages;
 
-&emsp;&emsp;(C) one shall be a secondary school with experience in teaching critical languagesand in which at least 25 percent of the students are eligible to be counted under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
+&emsp;&emsp;(C) one shall be a secondary school with experience in teaching critical languages and in which at least 25 percent of the students are eligible to be counted under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
 
 &emsp;&emsp;(D) one shall be a secondary school in which at least 25 percent of the students are eligible to be counted under title I of the Elementary and Secondary Education Act of 1965.
 
@@ -68,19 +68,19 @@ For purposes of this section, the term “critical language” means each of the
 
 There are authorized to be appropriated $15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out the provisions of this section.
 
-(Pub. L. 89 329, title V, §586, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 712; amended Pub. L. 103 382, title III, §391(e)(8), (9), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 89–329, title V, §586, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 712; amended Pub. L. 103–382, title III, §391(e)(8), (9), Oct. 20, 1994, 108 Stat. 4023.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(1)(C), (D), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(1)(C), (D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-Section 212(d) of the Education for Economic Security Act, referred to in subsec. (g), is section 212(d) of Pub. L. 98 377, title II, Aug. 11, 1984, 98 Stat. 1281, as amended, which was classified to section 3972(d) of this title and was repealed by Pub. L. 100 297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 212(d) of the Education for Economic Security Act, referred to in subsec. (g), is section 212(d) of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1281, as amended, which was classified to section 3972(d) of this title and was repealed by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
 #### Prior Provisions
 
-A prior section 1114, Pub. L. 89 329, title V, §524, Nov. 8, 1965, 79 Stat. 1259; Pub. L. 90 35, §5(e), June 29, 1967, 81 Stat. 91; Pub. L. 90 575, title II, §237, Oct. 16, 1968, 82 Stat. 1040, set forth prerequisites for approval of graduate programs to develop and strengthen training of educational personnel, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+A prior section 1114, Pub. L. 89–329, title V, §524, Nov. 8, 1965, 79 Stat. 1259; Pub. L. 90–35, §5(e), June 29, 1967, 81 Stat. 91; Pub. L. 90–575, title II, §237, Oct. 16, 1968, 82 Stat. 1040, set forth prerequisites for approval of graduate programs to develop and strengthen training of educational personnel, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
 #### Amendments
 
-1994—Subsec. (d)(1)(C), (D). Pub. L. 103 382 substituted “title I of” for “chapter I of title I of”.
+1994—Subsec. (d)(1)(C), (D). Pub. L. 103–382 substituted “title I of” for “chapter I of title I of”.
 

@@ -32,7 +32,7 @@ Each small business investment company shall be examined at least every two year
 
 Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.
 
-(Pub. L. 85–699, title III, §310, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub.L. 89–779, §5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, §208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, §104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016.)
+(Pub. L. 85–699, title III, §310, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, §5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, §208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, §104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016.)
 
 #### References in Text
 

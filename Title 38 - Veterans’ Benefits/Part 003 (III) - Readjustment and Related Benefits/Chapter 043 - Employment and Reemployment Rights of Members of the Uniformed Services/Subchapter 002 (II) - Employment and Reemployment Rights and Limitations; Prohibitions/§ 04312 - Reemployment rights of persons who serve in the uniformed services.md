@@ -20,13 +20,13 @@
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
-&emsp;&emsp;(A) ordered to or retained on active duty under section 672(a), 672(g), 673, 673b, 673c,<sup>1</sup> or 688 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+&emsp;&emsp;(A) ordered to or retained on active duty under section 672(a), 672(g), 673, 673b, 673c,<sup>1</sup> or688 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
 
 &emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;
 
 &emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 673b <sup>1</sup> of title 10;
 
-&emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of acritical mission or requirement of the uniformed services; or
+&emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services; or
 
 &emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 3500 or 8500 <sup>1</sup> of title 10.
 
@@ -78,7 +78,7 @@
 
 (2) Documentation of any matter referred to in paragraph (1) that satisfies regulations prescribed by the Secretary shall satisfy the documentation requirements in such paragraph.
 
-(3)(A) Except as provided in subparagraph (B), the failure of a person to provide documentationthat satisfies regulations prescribed pursuant to paragraph (2) shall not be a basis for denying reemployment in accordance with the provisions of this chapter if the failure occurs because such documentation does not exist or is not readily available at the time of the request of the employer. If, after such reemployment, documentation becomes available that establishes that such person does not meet one or more of the requirements referred to in subparagraphs (A), (B), and (C) of paragraph (1), the employer of such person may terminate the employment of the person and the provision of any rights or benefits afforded the person under this chapter.
+(3)(A) Except as provided in subparagraph (B), the failure of a person to provide documentation that satisfies regulations prescribed pursuant to paragraph (2) shall not be a basis for denying reemployment in accordance with the provisions of this chapter if the failure occurs because such documentation does not exist or is not readily available at the time of the request of the employer. If, after such reemployment, documentation becomes available that establishes that such person does not meet one or more of the requirements referred to in subparagraphs (A), (B), and (C) of paragraph (1), the employer of such person may terminate the employment of the person and the provision of any rights or benefits afforded the person under this chapter.
 
 (B) An employer who reemploys a person absent from a position of employment for more than 90 days may require that the person provide the employer with the documentation referred to in subparagraph (A) before beginning to treat the person as not having incurred a break in service for pension purposes under section 4318(a)(2)(A).
 
@@ -108,7 +108,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4311, 4313, 4314, 4317 of this title.
+This section is referred to in sections 4311, 4313, 4314, 4317 of this title; title 2 section 1316.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,35 +30,35 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;(7) Such additional information as the Secretary may consider necessary.
 
-(Pub. L. 99 371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102 421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103 73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735.)
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1842.4.
+Section is also set out in D.C. Code, §31–1842.4.
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 691f of this title prior to repeal by Pub. L. 99 371.
+Provisions similar to this section were contained in section 691f of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
 
-1993—Par. (1). Pub. L. 103 73, §204(c)(1), substituted “first-time” for “first time”.
+1993—Par. (1). Pub. L. 103–73, §204(c)(1), substituted “first-time” for “first time”.
 
-Par. (2)(G). Pub. L. 103 73, §204(c)(2), substituted “individualized education programs” for “Individualized Education Programs” and “children who are deaf or hard of hearing” for “children who are deaf”.
+Par. (2)(G). Pub. L. 103–73, §204(c)(2), substituted “individualized education programs” for “Individualized Education Programs” and “children who are deaf or hard of hearing” for “children who are deaf”.
 
-Par. (3). Pub. L. 103 73, §204(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The annual audited financial statements of the University and NTID, respectively, together with the auditor's report.”
+Par. (3). Pub. L. 103–73, §204(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The annual audited financial statements of the University and NTID, respectively, together with the auditor's report.”
 
-Par. (6). Pub. L. 103 73, §204(c)(4), substituted “Program funds are” for “Program is”.
+Par. (6). Pub. L. 103–73, §204(c)(4), substituted “Program funds are” for “Program is”.
 
-1992—Pub. L. 102 421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
+1992—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic andEducational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 421 effective Oct. 1, 1992, see section 161 of Pub. L. 102 421, set out as a note under section 4301 of this title.
+Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 96–466, §311(3), added subsec. (c).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except that subsec. (b)(2) of this section, as added by section 311(2)(C) of Pub. L. 96–466, not applicable to any person receiving educational assistance under this chapter on Oct. 1, 1980, for the pursuit of a program of education in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for pursuit of such program, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except that subsec. (b)(2) of this section, as added bysection 311(2)(C) of Pub. L. 96–466, not applicable to any person receiving educational assistance under this chapter on Oct. 1, 1980, for the pursuit of a program of education in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for pursuit of such program, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1976 Amendment
 

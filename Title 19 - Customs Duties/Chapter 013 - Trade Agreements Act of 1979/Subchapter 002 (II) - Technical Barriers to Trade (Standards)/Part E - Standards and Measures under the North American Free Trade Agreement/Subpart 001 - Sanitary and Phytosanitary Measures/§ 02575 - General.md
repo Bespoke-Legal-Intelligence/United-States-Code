@@ -1,4 +1,4 @@
-### §2575 . General
+### §2575. General
 
 Nothing in this subpart may be construed—
 

@@ -100,11 +100,11 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (d) Home and community-based services for elderly
 
-(1) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as “medical assistance” under such plan payment for part or all of the cost of home or community-based services (other than room and board) which are provided pursuant to a written plan of care to individuals 65 years of age or older with respect to whom there has been a determination that but for the provision of such services the individuals would be likely to require the level of care provided in a skilled nursing facility or intermediate care facility the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term “room and board” shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
+(1) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as “medical assistance” under such plan payment for part or all of the cost of home or community-based services (other than room and board) which are provided pursuant to a written plan of care to individuals 65 years of age or older with respect to whom there has been a determination that but for the provision of such services the individuals would be likely to require the level of care provided in a skilled nursing facility or intermediate care facility the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term “room andboard” shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
 
 (2) A waiver shall not be granted under this subsection unless the State provides assurances satisfactory to the Secretary that—
 
-&emsp;(A) necessary safeguards (including adequate standards for provider participation) have been taken to protect the health and welfare of individuals provided services under the waiver and to assure financial accountabilityfor funds expended with respect to such services;
+&emsp;(A) necessary safeguards (including adequate standards for provider participation) have been taken to protect the health and welfare of individuals provided services under the waiver and to assure financial accountability for funds expended with respect to such services;
 
 &emsp;(B) with respect to individuals 65 years of age or older who—
 
@@ -142,13 +142,13 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;(II) the percentage increase between the beginning of the base year and the beginning of the waiver year involved in the number of residents in the State who have attained the age of 65, plus
 
-&emsp;&emsp;(III) 2 percent for each year (rounded to the nearest quarter of a year) beginning after the base year and ending at the end of the waiver year.
+&emsp;&emsp;(III) 2 percent for each year (rounded to the nearest quarter of a year) beginningafter the base year and ending at the end of the waiver year.
 
 &emsp;(iii) The Secretary shall develop and promulgate by regulation (by not later than October 1, 1989)—
 
 &emsp;&emsp;(I) a method, based on an index of appropriately weighted indicators of changes in the wages and prices of the mix of goods and services which comprise both skilled nursing facility services and intermediate care facility services (regardless of the source of payment for such services), for projecting the percentage increase for purposes of clause (i)(I);
 
-&emsp;&emsp;(II) a method, based on an index of appropriately weighted indicators of changes inthe wages and prices of the mix of goods and services which comprise home and community-based services (regardless of the source of payment for such services), for projecting the percentage increase for purposes of clause (ii)(I); and
+&emsp;&emsp;(II) a method, based on an index of appropriately weighted indicators of changes in the wages and prices of the mix of goods and services which comprise home and community-based services (regardless of the source of payment for such services), for projecting the percentage increase for purposes of clause (ii)(I); and
 
 &emsp;&emsp;(III) a method for projecting, on a State specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period.
 
@@ -192,7 +192,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(C) the State will provide to the Secretary annually, consistent with a data collection plan designed by the Secretary, information on the impact of the waiver granted under this subsection on the type and amount of medical assistance provided under the State plan and on the health and welfare of recipients.
 
-(3) A waiver granted under this subsection may include a waiver of the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability). A waiver under this subsection shall be for an initial term of 3 years and, upon the request of a State, shall be extended for additional five-year periods unless the Secretary determines that for the previouswaiver period the assurances provided under paragraph (2) have not been met.
+(3) A waiver granted under this subsection may include a waiver of the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability). A waiver under this subsection shall be for an initial term of 3 years and, upon the request of a State, shall be extended for additional five-year periods unless the Secretary determines that for the previous waiver period the assurances provided under paragraph (2) have not been met.
 
 (4) The provisions of paragraph (6) of subsection (d) of this section shall apply to this subsection in the same manner as it applies to subsection (d) of this section.
 
@@ -438,7 +438,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
+Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989,with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
 Section 9411(e) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section\] shall apply to applications for waivers (or renewals thereof) approved on or after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
@@ -446,7 +446,7 @@ Section 9502(j) of Pub. L. 99–272, as amended by Pub. L. 99–509, title IX, �
 
 “(1)
 
-Habilitation services.—The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section1915(c) of the Social Security Act \[subsec. (c) of this section\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
+Habilitation services.—The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section 1915(c) of the Social Security Act \[subsec. (c) of this section\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
 
 “(2)
 

@@ -26,7 +26,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitive content and student performance standards and strategies that all students will be expected to achieve;
 
-&emsp;&emsp;(C) providing for the establishment of high-quality, internationally competitiveopportunity-to-learn standards that all States, local educational agencies, and schools should achieve;
+&emsp;&emsp;(C) providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;
 
 &emsp;&emsp;(D) encouraging and enabling all State educational agencies and local educational agencies to develop comprehensive improvement plans that will provide a coherent framework for the implementation of reauthorized Federal education and related programs in an integrated fashion that effectively educates all children to prepare them to participate fully as workers, parents, and citizens;
 
@@ -38,13 +38,13 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;(8) assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 
-(Pub. L. 103 227, §2, Mar. 31, 1994, 108 Stat. 128.)
+(Pub. L. 103–227, §2, Mar. 31, 1994, 108 Stat. 128.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103 227 provided that: “This Act (other than titles V and IX) \[enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e 1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, section 5315 of Title 5, Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and section 11901 of Title 42\] may be cited as the ‘Goals 2000: Educate America Act’.”
+Section 1(a) of Pub. L. 103–227 provided that: “This Act (other than titles V and IX) \[enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e–1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, section 5315 of Title 5, Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and section 11901 of Title 42\] may be cited as the ‘Goals 2000: Educate America Act’.”
 

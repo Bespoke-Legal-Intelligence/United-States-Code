@@ -70,7 +70,7 @@ Any new public school established under this subchapter—
 
 &emsp;(3) shall operate under the authority of a State educational agency or local educational agency.
 
-(Pub. L. 103 227, title III, §308, Mar. 31, 1994, 108 Stat. 168.)
+(Pub. L. 103–227, title III, §308, Mar. 31, 1994, 108 Stat. 168.)
 
 #### Section Referred to in Other Sections
 

@@ -24,5 +24,5 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-1980—Pub. L. 96–221, §309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+1980—Pub. L. 96–221, §309(b)(2), substituted “title” for “subchapter”, which for purposes of codification hasbeen editorially translated as “subchapter”, thereby requiring no further change in text.
 

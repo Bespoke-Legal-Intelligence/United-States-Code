@@ -44,7 +44,7 @@ Section 506 of Pub. L. 101–647 provided that: “It is the sense of Congress t
 
 &emsp;“(4) Victims of crime should have the right to a reasonable assurance that the accused will be tried in an expeditious manner.
 
-&emsp;“(5) A victim of crime should have the right to be present at all proceedings related to the offense against him, unless the victim is to testify and the court determines that the victim's testimony wouldbe materially prejudiced by hearing other testimony at the trial.
+&emsp;“(5) A victim of crime should have the right to be present at all proceedings related to the offense against him, unless the victim is to testify and the court determines that the victim's testimony would be materially prejudiced by hearing other testimony at the trial.
 
 &emsp;“(6) Victims of crime should have the right to information about the conviction, sentencing and imprisonment of the person who committed the crime against them.
 

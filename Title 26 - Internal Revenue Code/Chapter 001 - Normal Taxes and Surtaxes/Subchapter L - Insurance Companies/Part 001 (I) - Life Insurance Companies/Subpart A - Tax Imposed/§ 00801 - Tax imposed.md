@@ -44,7 +44,7 @@ A prior section 801, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112;
 
 Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 36, contained provisions similar to this section, prior to the the general revision of this part by Pub. L. 86–69, §2(a).
 
-A prior section 802, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, §3(b)(1), Oct. 23, 1962, 76 Stat. 1136; Pub. L. 88–272, title II, §235(c)(1), Feb. 26, 1964, 78 Stat. 126; Pub. L. 91–172, title V, §511(c)(1), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIX, §1901(a)(95), (b)(33)(E), Oct. 4, 1976, 90 Stat. 1780, 1801; Pub. L. 95–600, title III, §301(b)(8), Nov. 6, 1978, 92 Stat. 2821, contained provisions similar to this section,prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 802, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, §3(b)(1), Oct. 23, 1962, 76 Stat. 1136; Pub. L. 88–272, title II, §235(c)(1), Feb. 26, 1964, 78 Stat. 126; Pub. L. 91–172, title V, §511(c)(1), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIX, §1901(a)(95), (b)(33)(E), Oct. 4, 1976, 90 Stat. 1780, 1801; Pub. L. 95–600, title III, §301(b)(8), Nov. 6, 1978, 92 Stat. 2821, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 38; July 24, 1956, ch. 696, §§1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
@@ -194,7 +194,7 @@ Fresh start adjustment.—For purposes of clause (i), the fresh start adjustment
 
 &emsp;&emsp;“(C)
 
-Related income inclusions not taken into account to the extent deduction disallowed under subparagraph (b).—No premium shall be included in income to the extent such premium is directly related to an increase in a reserve for which a deduction is disallowed by subparagraph (B).
+Related income inclusions not taken into account to the extent deduction disallowedunder subparagraph (b).—No premium shall be included in income to the extent such premium is directly related to an increase in a reserve for which a deduction is disallowed by subparagraph (B).
 
 &emsp;“(3)
 
@@ -218,7 +218,7 @@ In general.—Paragraph (1) shall not apply (and section 807(f) of the Internal 
 
 Treatment of reserve attributable to section 818(c)
 
-election.—In the case of any reserve described in subparagraph (A), for purposes of section 807(f) of the Internal Revenue Code of 1986, any change in the treatment of any contract to which an election under section 818(c) of such Code (as in effect on the day before the date of the enactmentof this Act) applied shall be treated as a change in the basis for determining the amount of any reserve.
+election.—In the case of any reserve described in subparagraph (A), for purposes of section 807(f) of the Internal Revenue Code of 1986, any change in the treatment of any contract to which an election under section 818(c) of such Code (as in effect on the day before the date of the enactment of this Act) applied shall be treated as a change in the basis for determining the amount of any reserve.
 
 &emsp;&emsp;“(C) 10-
 
@@ -312,7 +312,7 @@ In general.—If—
 
 &emsp;&emsp;“(B)
 
-Adjustment to reserves.—If this paragraph applies to any contract, the opening and closingstatutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section 805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
+Adjustment to reserves.—If this paragraph applies to any contract, the opening and closing statutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section 805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
 
 &emsp;&emsp;&emsp;“(i) the prevailing State assumed interest rate (within the meaning of section 807(c)(4) of such Code), for
 
@@ -394,7 +394,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-Interim reports.—The Secretary of the Treasury shall submit interim reports on the study conducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
+Interim reports.—The Secretary of the Treasury shall submit interim reports on the studyconducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
 
 &emsp;&emsp;“(B)
 

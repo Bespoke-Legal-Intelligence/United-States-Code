@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title36",
- "package": "USCODE-1994-title36",
+ "package": "USCODE-1995-title36",
  "pieces": [
   {
    "id": "36_",
@@ -1811,11 +1811,18 @@
   },
   {
    "id": "36_115",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 33]",
+     true
+    ]
+   ],
    "path": "Chapter 007A - Veterans of Foreign Wars of the United States/§ 00115 - Membership.md",
    "printed_pages": [
     32,
-    32
+    33
    ]
   },
   {
@@ -1823,27 +1830,16 @@
    "marks": [],
    "path": "Chapter 007A - Veterans of Foreign Wars of the United States/§ 00116 - Acquisition of assets and liabilities of existing association.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
    "id": "36_117",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 33]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007A - Veterans of Foreign Wars of the United States/§ 00117 - Exclusive right to name, seal, emblems, and badges.md",
    "printed_pages": [
-    32,
+    33,
     33
    ]
   },
@@ -1876,50 +1872,46 @@
   },
   {
    "id": "36_-ch8",
-   "marks": [],
-   "path": "Chapter 008 - American Battle Monuments Commission/README.md",
-   "printed_pages": [
-    33,
-    33
-   ]
-  },
-  {
-   "id": "36_121",
    "marks": [
     [
      "I",
-     2,
+     47,
      [
       [
-       563,
+       43,
        "[Page 34]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 008 - American Battle Monuments Commission/§ 00121 - American Battle Monuments Commission; appointment; secretary; terms of office; vacancies; expenses; designation and employment of personnel.md",
+   "path": "Chapter 008 - American Battle Monuments Commission/README.md",
    "printed_pages": [
     33,
     34
    ]
   },
   {
-   "id": "36_121a",
+   "id": "36_121",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       327,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 35]",
+     true
     ]
    ],
-   "path": "Chapter 008 - American Battle Monuments Commission/§ 00121a - Omitted.md",
+   "path": "Chapter 008 - American Battle Monuments Commission/§ 00121 - American Battle Monuments Commission; appointment; secretary; terms of office; vacancies; expenses; designation and employment of personnel.md",
    "printed_pages": [
     34,
+    35
+   ]
+  },
+  {
+   "id": "36_121a",
+   "marks": [],
+   "path": "Chapter 008 - American Battle Monuments Commission/§ 00121a - Omitted.md",
+   "printed_pages": [
+    35,
     35
    ]
   },
@@ -1937,7 +1929,7 @@
    "marks": [
     [
      "L",
-     112,
+     70,
      "[Page 36]",
      true
     ]
@@ -1970,10 +1962,14 @@
    "id": "36_123",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 37]",
-     true
+     "I",
+     2,
+     [
+      [
+       269,
+       "[Page 37]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - American Battle Monuments Commission/§ 00123 - Powers and duties as to memorials.md",
@@ -1996,7 +1992,7 @@
    "marks": [
     [
      "L",
-     26,
+     12,
      "[Page 38]",
      true
     ]
@@ -2020,14 +2016,10 @@
    "id": "36_125b",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       95,
-       "[Page 39]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 39]",
+     true
     ]
    ],
    "path": "Chapter 008 - American Battle Monuments Commission/§ 00125b - Pacific War Memorial and other historical and memorial sites on Corregidor in Republic of the Philippines.md",
@@ -2085,16 +2077,24 @@
    "id": "36_132",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 40]",
-     true
+     "I",
+     12,
+     [
+      [
+       219,
+       "[Page 40]"
+      ]
+     ]
     ],
     [
-     "L",
-     62,
-     "[Page 41]",
-     true
+     "I",
+     56,
+     [
+      [
+       103,
+       "[Page 41]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - American Battle Monuments Commission/§ 00132 - Transfer of administrative functions, supplies, materials and equipment to Commission; maintenance of cemeteries located in foreign….md",
@@ -2152,14 +2152,10 @@
    "id": "36_138",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       433,
-       "[Page 42]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 42]",
+     true
     ]
    ],
    "path": "Chapter 008 - American Battle Monuments Commission/§ 00138 - Records and archives.md",
@@ -2182,10 +2178,10 @@
    "marks": [
     [
      "I",
-     20,
+     16,
      [
       [
-       110,
+       1141,
        "[Page 43]"
       ]
      ]
@@ -2208,11 +2204,22 @@
   },
   {
    "id": "36_-ch8A",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       41,
+       "[Page 44]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008A - The National Yeomen F/README.md",
    "printed_pages": [
     43,
-    43
+    44
    ]
   },
   {
@@ -2220,38 +2227,24 @@
    "marks": [
     [
      "I",
-     4,
+     18,
      [
       [
-       601,
-       "[Page 44]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     28,
-     [
-      [
-       180,
+       298,
        "[Page 45]"
       ]
      ]
     ],
     [
-     "I",
-     54,
-     [
-      [
-       565,
-       "[Page 46]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 46]",
+     true
     ]
    ],
    "path": "Chapter 008A - The National Yeomen F/§ 00139 - Corporation created; purposes.md",
    "printed_pages": [
-    43,
+    44,
     46
    ]
   },
@@ -2268,10 +2261,14 @@
    "id": "36_139b",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 47]",
-     true
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 47]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008A - The National Yeomen F/§ 00139b - Deposit of historical material.md",
@@ -2330,19 +2327,23 @@
    "marks": [
     [
      "I",
-     30,
+     22,
      [
       [
-       38,
+       48,
        "[Page 48]"
       ]
      ]
     ],
     [
-     "L",
-     126,
-     "[Page 49]",
-     true
+     "I",
+     119,
+     [
+      [
+       144,
+       "[Page 49]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - National Observances/README.md",
@@ -2409,10 +2410,14 @@
    "id": "36_143",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 50]",
-     true
+     "I",
+     2,
+     [
+      [
+       140,
+       "[Page 50]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - National Observances/§ 00143 - First Monday in October designated as Child Health Day.md",
@@ -2470,10 +2475,14 @@
    "id": "36_149",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 51]",
-     true
+     "I",
+     8,
+     [
+      [
+       595,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - National Observances/§ 00149 - April thirteenth for commemoration of Thomas Jefferson's birth.md",
@@ -2529,30 +2538,26 @@
   },
   {
    "id": "36_154",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 52]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - National Observances/§ 00154 - Address to newly naturalized citizens.md",
    "printed_pages": [
     51,
-    51
+    52
    ]
   },
   {
    "id": "36_155",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       184,
-       "[Page 52]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - National Observances/§ 00155 - National Disability Employment Awareness Month.md",
    "printed_pages": [
-    51,
+    52,
     52
    ]
   },
@@ -2576,30 +2581,30 @@
   },
   {
    "id": "36_156",
-   "marks": [],
-   "path": "Chapter 009 - National Observances/§ 00156 - National Freedom Day.md",
-   "printed_pages": [
-    52,
-    52
-   ]
-  },
-  {
-   "id": "36_157",
    "marks": [
     [
      "I",
      2,
      [
       [
-       279,
+       92,
        "[Page 53]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - National Observances/§ 00157 - Flag Day; designation; proclamation; observance.md",
+   "path": "Chapter 009 - National Observances/§ 00156 - National Freedom Day.md",
    "printed_pages": [
     52,
+    53
+   ]
+  },
+  {
+   "id": "36_157",
+   "marks": [],
+   "path": "Chapter 009 - National Observances/§ 00157 - Flag Day; designation; proclamation; observance.md",
+   "printed_pages": [
+    53,
     53
    ]
   },
@@ -2659,11 +2664,22 @@
   },
   {
    "id": "36_162",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       373,
+       "[Page 54]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - National Observances/§ 00162 - Loyalty Day.md",
    "printed_pages": [
     53,
-    53
+    54
    ]
   },
   {
@@ -2671,27 +2687,16 @@
    "marks": [],
    "path": "Chapter 009 - National Observances/§ 00163 - National Forest Products Week.md",
    "printed_pages": [
-    53,
-    53
+    54,
+    54
    ]
   },
   {
    "id": "36_164",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 54]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - National Observances/§ 00164 - Law Day, U.S.A.; designation; proclamation; observance.md",
    "printed_pages": [
-    53,
+    54,
     54
    ]
   },
@@ -2742,11 +2747,22 @@
   },
   {
    "id": "36_169a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       739,
+       "[Page 55]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - National Observances/§ 00169a - Save Your Vision Week.md",
    "printed_pages": [
     54,
-    54
+    55
    ]
   },
   {
@@ -2754,23 +2770,16 @@
    "marks": [],
    "path": "Chapter 009 - National Observances/§ 00169b - American Heart Month.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
    "id": "36_169c",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 55]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - National Observances/§ 00169c - Leif Erikson Day.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
@@ -2821,30 +2830,26 @@
   },
   {
    "id": "36_169i",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 56]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - National Observances/§ 00169i - Federal Lands Cleanup Day; designation, observation, etc.md",
    "printed_pages": [
     55,
-    55
+    56
    ]
   },
   {
    "id": "36_169i-1",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       89,
-       "[Page 56]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - National Observances/§ 00169i–1 - Federal participation in Federal Lands Cleanup Day.md",
    "printed_pages": [
-    55,
+    56,
     56
    ]
   },
@@ -2859,51 +2864,55 @@
   },
   {
    "id": "36_169j-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       84,
+       "[Page 57]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - National Observances/§ 00169j–1 - Martin Luther King, Jr. Federal Holiday Commission.md",
    "printed_pages": [
     56,
-    56
+    57
    ]
   },
   {
    "id": "36_169j-2",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 57]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - National Observances/§ 00169j–2 - Purposes of Martin Luther King, Jr. Federal Holiday Commission.md",
    "printed_pages": [
-    56,
+    57,
     57
    ]
   },
   {
    "id": "36_169j-3",
-   "marks": [],
-   "path": "Chapter 009 - National Observances/§ 00169j–3 - Membership of Martin Luther King, Jr. Federal Holiday Commission.md",
-   "printed_pages": [
-    57,
-    57
-   ]
-  },
-  {
-   "id": "36_169j-4",
    "marks": [
     [
      "L",
-     20,
+     52,
      "[Page 58]",
      true
     ]
    ],
-   "path": "Chapter 009 - National Observances/§ 00169j–4 - Operations of Martin Luther King, Jr. Federal Holiday Commission.md",
+   "path": "Chapter 009 - National Observances/§ 00169j–3 - Membership of Martin Luther King, Jr. Federal Holiday Commission.md",
    "printed_pages": [
     57,
+    58
+   ]
+  },
+  {
+   "id": "36_169j-4",
+   "marks": [],
+   "path": "Chapter 009 - National Observances/§ 00169j–4 - Operations of Martin Luther King, Jr. Federal Holiday Commission.md",
+   "printed_pages": [
+    58,
     58
    ]
   },
@@ -2918,30 +2927,30 @@
   },
   {
    "id": "36_169j-6",
-   "marks": [],
-   "path": "Chapter 009 - National Observances/§ 00169j–6 - Authorization of appropriations.md",
-   "printed_pages": [
-    58,
-    58
-   ]
-  },
-  {
-   "id": "36_169j-7",
    "marks": [
     [
      "I",
-     16,
+     24,
      [
       [
-       101,
+       104,
        "[Page 59]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - National Observances/§ 00169j–7 - Commission report.md",
+   "path": "Chapter 009 - National Observances/§ 00169j–6 - Authorization of appropriations.md",
    "printed_pages": [
     58,
+    59
+   ]
+  },
+  {
+   "id": "36_169j-7",
+   "marks": [],
+   "path": "Chapter 009 - National Observances/§ 00169j–7 - Commission report.md",
+   "printed_pages": [
+    59,
     59
    ]
   },
@@ -2974,26 +2983,39 @@
   },
   {
    "id": "36_169k",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       263,
+       "[Page 60]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - National Observances/§ 00169k - Asian-Pacific American Heritage Month.md",
    "printed_pages": [
     59,
-    59
+    60
    ]
   },
   {
    "id": "36_169l",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 60]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - National Observances/§ 00169l - National Pearl Harbor Remembrance Day.md",
    "printed_pages": [
-    59,
+    60,
+    60
+   ]
+  },
+  {
+   "id": "36_169m",
+   "marks": [],
+   "path": "Chapter 009 - National Observances/§ 00169m - National Korean War Veterans Armistice Day.md",
+   "printed_pages": [
+    60,
     60
    ]
   },
@@ -3017,30 +3039,26 @@
   },
   {
    "id": "36_171",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 61]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Patriotic Customs/§ 00171 - Conduct during playing.md",
    "printed_pages": [
     60,
-    60
+    61
    ]
   },
   {
    "id": "36_172",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       112,
-       "[Page 61]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Patriotic Customs/§ 00172 - Pledge of allegiance to the flag; manner of delivery.md",
    "printed_pages": [
-    60,
+    61,
     61
    ]
   },
@@ -3057,12 +3075,18 @@
    "id": "36_174",
    "marks": [
     [
+     "L",
+     22,
+     "[Page 62]",
+     true
+    ],
+    [
      "I",
-     50,
+     94,
      [
       [
-       657,
-       "[Page 62]"
+       109,
+       "[Page 63]"
       ]
      ]
     ]
@@ -3070,7 +3094,7 @@
    "path": "Chapter 010 - Patriotic Customs/§ 00174 - Time and occasions for display.md",
    "printed_pages": [
     61,
-    62
+    63
    ]
   },
   {
@@ -3078,83 +3102,87 @@
    "marks": [
     [
      "I",
-     8,
+     28,
      [
       [
-       676,
-       "[Page 63]"
+       1068,
+       "[Page 64]"
       ]
      ]
     ],
     [
-     "L",
-     46,
-     "[Page 64]",
-     true
-    ]
-   ],
-   "path": "Chapter 010 - Patriotic Customs/§ 00175 - Position and manner of display.md",
-   "printed_pages": [
-    62,
-    64
-   ]
-  },
-  {
-   "id": "36_176",
-   "marks": [
-    [
      "I",
-     10,
+     86,
      [
       [
-       191,
+       599,
        "[Page 65]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 010 - Patriotic Customs/§ 00175 - Position and manner of display.md",
+   "printed_pages": [
+    63,
+    65
+   ]
+  },
+  {
+   "id": "36_176",
+   "marks": [],
    "path": "Chapter 010 - Patriotic Customs/§ 00176 - Respect for flag.md",
    "printed_pages": [
-    64,
+    65,
     65
    ]
   },
   {
    "id": "36_177",
-   "marks": [],
-   "path": "Chapter 010 - Patriotic Customs/§ 00177 - Conduct during hoisting, lowering or passing of flag.md",
-   "printed_pages": [
-    65,
-    65
-   ]
-  },
-  {
-   "id": "36_178",
    "marks": [
     [
      "I",
-     26,
+     8,
      [
       [
-       102,
+       155,
        "[Page 66]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Patriotic Customs/§ 00178 - Modification of rules and customs by President.md",
+   "path": "Chapter 010 - Patriotic Customs/§ 00177 - Conduct during hoisting, lowering or passing of flag.md",
    "printed_pages": [
     65,
     66
    ]
   },
   {
-   "id": "36_179",
+   "id": "36_178",
    "marks": [],
-   "path": "Chapter 010 - Patriotic Customs/§ 00179 - Design for service flag; persons entitled to display flag.md",
+   "path": "Chapter 010 - Patriotic Customs/§ 00178 - Modification of rules and customs by President.md",
    "printed_pages": [
     66,
     66
+   ]
+  },
+  {
+   "id": "36_179",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       103,
+       "[Page 67]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Patriotic Customs/§ 00179 - Design for service flag; persons entitled to display flag.md",
+   "printed_pages": [
+    66,
+    67
    ]
   },
   {
@@ -3162,23 +3190,16 @@
    "marks": [],
    "path": "Chapter 010 - Patriotic Customs/§ 00180 - Design for service lapel button; persons entitled to wear button.md",
    "printed_pages": [
-    66,
-    66
+    67,
+    67
    ]
   },
   {
    "id": "36_181",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 67]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Patriotic Customs/§ 00181 - Approval of designs by Secretary of Defense; license to manufacture and sell; penalties.md",
    "printed_pages": [
-    66,
+    67,
     67
    ]
   },
@@ -3229,11 +3250,22 @@
   },
   {
    "id": "36_187",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       538,
+       "[Page 68]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Patriotic Customs/§ 00187 - National floral emblem.md",
    "printed_pages": [
     67,
-    67
+    68
    ]
   },
   {
@@ -3241,27 +3273,16 @@
    "marks": [],
    "path": "Chapter 010 - Patriotic Customs/§ 00188 - National march.md",
    "printed_pages": [
-    67,
-    67
+    68,
+    68
    ]
   },
   {
    "id": "36_189",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       265,
-       "[Page 68]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Patriotic Customs/§ 00189 - Recognition of National League of Families POW-MIA flag.md",
    "printed_pages": [
-    67,
+    68,
     68
    ]
   },
@@ -3285,11 +3306,22 @@
   },
   {
    "id": "36_202",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       92,
+       "[Page 69]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Civil Air Patrol/§ 00202 - Objects and purposes of corporation.md",
    "printed_pages": [
     68,
-    68
+    69
    ]
   },
   {
@@ -3297,27 +3329,16 @@
    "marks": [],
    "path": "Chapter 011 - Civil Air Patrol/§ 00203 - Membership.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
    "id": "36_204",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       139,
-       "[Page 69]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Civil Air Patrol/§ 00204 - Prohibition against issuance of stock or business activities; completion of organization.md",
    "printed_pages": [
-    68,
+    69,
     69
    ]
   },
@@ -3359,30 +3380,30 @@
   },
   {
    "id": "36_-ch12",
-   "marks": [],
-   "path": "Chapter 012 - Reserve Officers Association/README.md",
-   "printed_pages": [
-    69,
-    69
-   ]
-  },
-  {
-   "id": "36_221",
    "marks": [
     [
      "I",
-     2,
+     14,
      [
       [
-       1477,
+       60,
        "[Page 70]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 012 - Reserve Officers Association/§ 00221 - Corporation created.md",
+   "path": "Chapter 012 - Reserve Officers Association/README.md",
    "printed_pages": [
     69,
+    70
+   ]
+  },
+  {
+   "id": "36_221",
+   "marks": [],
+   "path": "Chapter 012 - Reserve Officers Association/§ 00221 - Corporation created.md",
+   "printed_pages": [
+    70,
     70
    ]
   },
@@ -3415,11 +3436,18 @@
   },
   {
    "id": "36_225",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 71]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Reserve Officers Association/§ 00225 - Membership.md",
    "printed_pages": [
     70,
-    70
+    71
    ]
   },
   {
@@ -3427,23 +3455,16 @@
    "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00226 - Officers.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
    "id": "36_227",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 71]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00227 - National executive committee.md",
    "printed_pages": [
-    70,
+    71,
     71
    ]
   },
@@ -3485,11 +3506,18 @@
   },
   {
    "id": "36_232",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 72]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Reserve Officers Association/§ 00232 - Liability for acts of officers and agents.md",
    "printed_pages": [
     71,
-    71
+    72
    ]
   },
   {
@@ -3497,8 +3525,8 @@
    "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00233 - Books and records; inspection.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
@@ -3506,8 +3534,8 @@
    "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00234 - Loans to officers; liability.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
@@ -3515,8 +3543,8 @@
    "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00235 - Repealed. Pub. L. 88–504, §4(12), Aug. 30, 1964, 78 Stat. 637.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
@@ -3524,27 +3552,16 @@
    "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00236 - Headquarters; agent for service of process.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
    "id": "36_237",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 72]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Reserve Officers Association/§ 00237 - Agents for service of process.md",
    "printed_pages": [
-    71,
+    72,
     72
    ]
   },
@@ -3586,31 +3603,38 @@
   },
   {
    "id": "36_252",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       234,
+       "[Page 73]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - National Academy of Sciences/§ 00252 - Powers of corporation.md",
    "printed_pages": [
     72,
-    72
+    73
    ]
   },
   {
    "id": "36_253",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       150,
-       "[Page 73]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 74]",
+     true
     ]
    ],
    "path": "Chapter 013 - National Academy of Sciences/§ 00253 - Meeting; duties; expenses and compensation.md",
    "printed_pages": [
-    72,
-    73
+    73,
+    74
    ]
   },
   {
@@ -3618,27 +3642,16 @@
    "marks": [],
    "path": "Chapter 013 - National Academy of Sciences/§ 00254 - Acquisition of property by devise, bequest, donation, or otherwise; limitation of real estate.md",
    "printed_pages": [
-    73,
-    73
+    74,
+    74
    ]
   },
   {
    "id": "36_-ch14",
-   "marks": [
-    [
-     "I",
-     19,
-     [
-      [
-       28,
-       "[Page 74]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Future Farmers of America/README.md",
    "printed_pages": [
-    73,
+    74,
     74
    ]
   },
@@ -3662,30 +3675,30 @@
   },
   {
    "id": "36_273",
-   "marks": [],
-   "path": "Chapter 014 - Future Farmers of America/§ 00273 - Objects and purposes of corporation.md",
-   "printed_pages": [
-    74,
-    74
-   ]
-  },
-  {
-   "id": "36_274",
    "marks": [
     [
      "I",
-     10,
+     16,
      [
       [
-       272,
+       182,
        "[Page 75]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 014 - Future Farmers of America/§ 00274 - Powers of corporation.md",
+   "path": "Chapter 014 - Future Farmers of America/§ 00273 - Objects and purposes of corporation.md",
    "printed_pages": [
     74,
+    75
+   ]
+  },
+  {
+   "id": "36_274",
+   "marks": [],
+   "path": "Chapter 014 - Future Farmers of America/§ 00274 - Powers of corporation.md",
+   "printed_pages": [
+    75,
     75
    ]
   },
@@ -3712,10 +3725,10 @@
    "marks": [
     [
      "I",
-     30,
+     12,
      [
       [
-       267,
+       92,
        "[Page 76]"
       ]
      ]
@@ -3738,11 +3751,18 @@
   },
   {
    "id": "36_279",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Future Farmers of America/§ 00279 - Restrictions.md",
    "printed_pages": [
     76,
-    76
+    77
    ]
   },
   {
@@ -3750,8 +3770,8 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00280 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -3759,8 +3779,8 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00281 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -3768,8 +3788,8 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00282 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -3777,8 +3797,8 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00283 - Books and records; inspection.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -3786,27 +3806,16 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00284 - Repealed. Pub. L. 88–504, §4(13), Aug. 30, 1964, 78 Stat. 637.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
    "id": "36_285",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 77]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00285 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    76,
+    77,
     77
    ]
   },
@@ -3830,11 +3839,18 @@
   },
   {
    "id": "36_288",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 78]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Future Farmers of America/§ 00288 - Availability of personnel, services, and facilities of Department of Education.md",
    "printed_pages": [
     77,
-    77
+    78
    ]
   },
   {
@@ -3842,8 +3858,8 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00289 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    77,
-    77
+    78,
+    78
    ]
   },
   {
@@ -3851,8 +3867,8 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00290 - Effective date.md",
    "printed_pages": [
-    77,
-    77
+    78,
+    78
    ]
   },
   {
@@ -3860,27 +3876,16 @@
    "marks": [],
    "path": "Chapter 014 - Future Farmers of America/§ 00291 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    77,
-    77
+    78,
+    78
    ]
   },
   {
    "id": "36_-ch15",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       24,
-       "[Page 78]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Military Chaplains Association of the United States of America/README.md",
    "printed_pages": [
-    77,
+    78,
     78
    ]
   },
@@ -3913,11 +3918,18 @@
   },
   {
    "id": "36_314",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 79]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - Military Chaplains Association of the United States of America/§ 00314 - Powers of corporation.md",
    "printed_pages": [
     78,
-    78
+    79
    ]
   },
   {
@@ -3925,8 +3937,8 @@
    "marks": [],
    "path": "Chapter 015 - Military Chaplains Association of the United States of America/§ 00315 - Acquisition of assets and liabilities of existing association.md",
    "printed_pages": [
-    78,
-    78
+    79,
+    79
    ]
   },
   {
@@ -3934,8 +3946,8 @@
    "marks": [],
    "path": "Chapter 015 - Military Chaplains Association of the United States of America/§ 00316 - Exclusive right to name.md",
    "printed_pages": [
-    78,
-    78
+    79,
+    79
    ]
   },
   {
@@ -3943,27 +3955,16 @@
    "marks": [],
    "path": "Chapter 015 - Military Chaplains Association of the United States of America/§ 00317 - Annual report.md",
    "printed_pages": [
-    78,
-    78
+    79,
+    79
    ]
   },
   {
    "id": "36_-ch16",
-   "marks": [
-    [
-     "I",
-     9,
-     [
-      [
-       82,
-       "[Page 79]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - American Society of International Law/README.md",
    "printed_pages": [
-    78,
+    79,
     79
    ]
   },
@@ -3987,26 +3988,30 @@
   },
   {
    "id": "36_343",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       185,
+       "[Page 80]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 016 - American Society of International Law/§ 00343 - Executive council; officers.md",
    "printed_pages": [
     79,
-    79
+    80
    ]
   },
   {
    "id": "36_344",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 80]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - American Society of International Law/§ 00344 - Principal office; territorial scope of activities.md",
    "printed_pages": [
-    79,
+    80,
     80
    ]
   },
@@ -4066,11 +4071,18 @@
   },
   {
    "id": "36_351",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 81]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - American Society of International Law/§ 00351 - Acquisition of assets and liabilities of existing association.md",
    "printed_pages": [
     80,
-    80
+    81
    ]
   },
   {
@@ -4078,27 +4090,16 @@
    "marks": [],
    "path": "Chapter 016 - American Society of International Law/§ 00352 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    80,
-    80
+    81,
+    81
    ]
   },
   {
    "id": "36_-ch17",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       22,
-       "[Page 81]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - United States Olympic Committee/README.md",
    "printed_pages": [
-    80,
+    81,
     81
    ]
   },
@@ -4119,7 +4120,7 @@
      4,
      [
       [
-       4536,
+       2777,
        "[Page 82]"
       ]
      ]
@@ -4153,10 +4154,14 @@
    "id": "36_374",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 83]",
-     true
+     "I",
+     8,
+     [
+      [
+       185,
+       "[Page 83]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00374 - Objects and purposes of Corporation.md",
@@ -4167,30 +4172,30 @@
   },
   {
    "id": "36_375",
-   "marks": [],
-   "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00375 - Powers of Corporation.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "36_376",
    "marks": [
     [
      "I",
-     10,
+     40,
      [
       [
-       265,
+       91,
        "[Page 84]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00376 - Membership.md",
+   "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00375 - Powers of Corporation.md",
    "printed_pages": [
     83,
+    84
+   ]
+  },
+  {
+   "id": "36_376",
+   "marks": [],
+   "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00376 - Membership.md",
+   "printed_pages": [
+    84,
     84
    ]
   },
@@ -4225,10 +4230,14 @@
    "id": "36_380",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 85]",
-     true
+     "I",
+     14,
+     [
+      [
+       197,
+       "[Page 85]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00380 - Use of Olympic symbols, emblems, trademarks and names.md",
@@ -4257,11 +4266,22 @@
   },
   {
    "id": "36_382a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       110,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00382a - Annual report to President and Congress on operations; report to Speaker of House and President of Senate on authorized grants.md",
    "printed_pages": [
     85,
-    85
+    86
    ]
   },
   {
@@ -4269,23 +4289,16 @@
    "marks": [],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00382b - Resolution of disputes.md",
    "printed_pages": [
-    85,
-    85
+    86,
+    86
    ]
   },
   {
    "id": "36_383",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 86]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 001 (I) - Corporation/§ 00383 - Change in name of United States Olympic Association.md",
    "printed_pages": [
-    85,
+    86,
     86
    ]
   },
@@ -4311,20 +4324,22 @@
    "id": "36_391",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       90,
-       "[Page 87]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 87]",
+     true
+    ],
+    [
+     "L",
+     46,
+     "[Page 88]",
+     true
     ]
    ],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 00391 - Recognition of amateur sports organizations.md",
    "printed_pages": [
     86,
-    87
+    88
    ]
   },
   {
@@ -4332,34 +4347,27 @@
    "marks": [
     [
      "I",
-     4,
+     50,
      [
       [
-       87,
-       "[Page 88]"
+       100,
+       "[Page 89]"
       ]
      ]
     ]
    ],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 00392 - Duties of national governing bodies.md",
    "printed_pages": [
-    87,
-    88
+    88,
+    89
    ]
   },
   {
    "id": "36_393",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 89]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 00393 - Authority of national governing bodies.md",
    "printed_pages": [
-    88,
+    89,
     89
    ]
   },
@@ -4377,15 +4385,19 @@
    "marks": [
     [
      "L",
-     24,
+     12,
      "[Page 90]",
      true
     ],
     [
-     "L",
-     72,
-     "[Page 91]",
-     true
+     "I",
+     56,
+     [
+      [
+       137,
+       "[Page 91]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - United States Olympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 00395 - Compelling compliance with eligibility requirements and performance of duties by national governing bodies.md",
@@ -4416,10 +4428,14 @@
    "id": "36_401",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 92]",
-     true
+     "I",
+     8,
+     [
+      [
+       484,
+       "[Page 92]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00401 - Corporation created.md",
@@ -4439,11 +4455,18 @@
   },
   {
    "id": "36_403",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 93]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00403 - Powers of corporation.md",
    "printed_pages": [
     92,
-    92
+    93
    ]
   },
   {
@@ -4451,23 +4474,16 @@
    "marks": [],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00404 - Headquarters and principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    92,
-    92
+    93,
+    93
    ]
   },
   {
    "id": "36_405",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 93]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00405 - Membership.md",
    "printed_pages": [
-    92,
+    93,
     93
    ]
   },
@@ -4536,11 +4552,22 @@
   },
   {
    "id": "36_413",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       323,
+       "[Page 94]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00413 - Books and records; inspection.md",
    "printed_pages": [
     93,
-    93
+    94
    ]
   },
   {
@@ -4548,8 +4575,8 @@
    "marks": [],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00414 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    93,
-    93
+    94,
+    94
    ]
   },
   {
@@ -4557,8 +4584,8 @@
    "marks": [],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00415 - Loans to officers; liability.md",
    "printed_pages": [
-    93,
-    93
+    94,
+    94
    ]
   },
   {
@@ -4566,27 +4593,16 @@
    "marks": [],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00416 - Repealed. Pub. L. 88–504, §4(17), Aug. 30, 1964, 78 Stat. 637.md",
    "printed_pages": [
-    93,
-    93
+    94,
+    94
    ]
   },
   {
    "id": "36_417",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 94]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - National Conference of State Societies, Washington, District of Columbia/§ 00417 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    93,
+    94,
     94
    ]
   },
@@ -4655,11 +4671,22 @@
   },
   {
    "id": "36_431",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       84,
+       "[Page 95]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00431 - Corporation created.md",
    "printed_pages": [
     94,
-    94
+    95
    ]
   },
   {
@@ -4667,27 +4694,16 @@
    "marks": [],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00432 - Completion of organization.md",
    "printed_pages": [
-    94,
-    94
+    95,
+    95
    ]
   },
   {
    "id": "36_433",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       90,
-       "[Page 95]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00433 - Objects and purposes of corporation.md",
    "printed_pages": [
-    94,
+    95,
     95
    ]
   },
@@ -4720,26 +4736,30 @@
   },
   {
    "id": "36_437",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       192,
+       "[Page 96]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00437 - National officers.md",
    "printed_pages": [
     95,
-    95
+    96
    ]
   },
   {
    "id": "36_438",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 96]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00438 - Board of Directors.md",
    "printed_pages": [
-    95,
+    96,
     96
    ]
   },
@@ -4799,11 +4819,22 @@
   },
   {
    "id": "36_445",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       185,
+       "[Page 97]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00445 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
     96,
-    96
+    97
    ]
   },
   {
@@ -4811,8 +4842,8 @@
    "marks": [],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00446 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    96,
-    96
+    97,
+    97
    ]
   },
   {
@@ -4820,27 +4851,16 @@
    "marks": [],
    "path": "Chapter 020 - National Conference on Citizenship/§ 00447 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    96,
-    96
+    97,
+    97
    ]
   },
   {
    "id": "36_-ch21",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       61,
-       "[Page 97]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - National Safety Council/README.md",
    "printed_pages": [
-    96,
+    97,
     97
    ]
   },
@@ -4876,10 +4896,10 @@
    "marks": [
     [
      "I",
-     30,
+     10,
      [
       [
-       99,
+       141,
        "[Page 98]"
       ]
      ]
@@ -4913,10 +4933,14 @@
    "id": "36_467",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 99]",
-     true
+     "I",
+     4,
+     [
+      [
+       2106,
+       "[Page 99]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 021 - National Safety Council/§ 00467 - Board of directors.md",
@@ -4999,11 +5023,22 @@
   },
   {
    "id": "36_476",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       145,
+       "[Page 100]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 021 - National Safety Council/§ 00476 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
     99,
-    99
+    100
    ]
   },
   {
@@ -5011,23 +5046,16 @@
    "marks": [],
    "path": "Chapter 021 - National Safety Council/§ 00477 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
    "id": "36_478",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 100]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - National Safety Council/§ 00478 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    99,
+    100,
     100
    ]
   },
@@ -5060,11 +5088,18 @@
   },
   {
    "id": "36_492",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 101]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Pershing Hall Memorial Fund/§ 00492 - Repealed. Pub. L. 86–533, §1(2), June 29, 1960, 74 Stat. 245.md",
    "printed_pages": [
     100,
-    100
+    101
    ]
   },
   {
@@ -5072,15 +5107,15 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 101]",
+     48,
+     "[Page 102]",
      true
     ]
    ],
    "path": "Chapter 022 - Pershing Hall Memorial Fund/§ 00493 - Transfer of Pershing Hall to jurisdiction, custody, and control of Department of Veterans Affairs.md",
    "printed_pages": [
-    100,
-    101
+    101,
+    102
    ]
   },
   {
@@ -5088,27 +5123,16 @@
    "marks": [],
    "path": "Chapter 023 - Board for Fundamental Education/README.md",
    "printed_pages": [
-    101,
-    101
+    102,
+    102
    ]
   },
   {
    "id": "36_501",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       368,
-       "[Page 102]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00501 - Corporation created.md",
    "printed_pages": [
-    101,
+    102,
     102
    ]
   },
@@ -5141,11 +5165,22 @@
   },
   {
    "id": "36_505",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       87,
+       "[Page 103]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00505 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
     102,
-    102
+    103
    ]
   },
   {
@@ -5153,8 +5188,8 @@
    "marks": [],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00506 - Membership; voting rights.md",
    "printed_pages": [
-    102,
-    102
+    103,
+    103
    ]
   },
   {
@@ -5162,23 +5197,16 @@
    "marks": [],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00507 - Board of directors.md",
    "printed_pages": [
-    102,
-    102
+    103,
+    103
    ]
   },
   {
    "id": "36_508",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 103]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00508 - Officers.md",
    "printed_pages": [
-    102,
+    103,
     103
    ]
   },
@@ -5256,11 +5284,22 @@
   },
   {
    "id": "36_517",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       192,
+       "[Page 104]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00517 - Agents for service of process.md",
    "printed_pages": [
     103,
-    103
+    104
    ]
   },
   {
@@ -5268,27 +5307,16 @@
    "marks": [],
    "path": "Chapter 023 - Board for Fundamental Education/§ 00518 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    103,
-    103
+    104,
+    104
    ]
   },
   {
    "id": "36_-ch24",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       72,
-       "[Page 104]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/README.md",
    "printed_pages": [
-    103,
+    104,
     104
    ]
   },
@@ -5312,26 +5340,30 @@
   },
   {
    "id": "36_533",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       638,
+       "[Page 105]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/§ 00533 - Purposes of corporation.md",
    "printed_pages": [
     104,
-    104
+    105
    ]
   },
   {
    "id": "36_534",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 105]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/§ 00534 - Powers of corporation.md",
    "printed_pages": [
-    104,
+    105,
     105
    ]
   },
@@ -5364,11 +5396,18 @@
   },
   {
    "id": "36_538",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 106]",
+     true
+    ]
+   ],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/§ 00538 - Officers.md",
    "printed_pages": [
     105,
-    105
+    106
    ]
   },
   {
@@ -5376,23 +5415,16 @@
    "marks": [],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/§ 00539 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    105,
-    105
+    106,
+    106
    ]
   },
   {
    "id": "36_540",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 106]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/§ 00540 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    105,
+    106,
     106
    ]
   },
@@ -5479,11 +5511,18 @@
   },
   {
    "id": "36_550",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 107]",
+     true
+    ]
+   ],
    "path": "Chapter 024 - Sons of Union Veterans of the Civil War/§ 00550 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
     106,
-    106
+    107
    ]
   },
   {
@@ -5491,28 +5530,24 @@
    "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/README.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
    "id": "36_571",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       451,
-       "[Page 107]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 108]",
+     true
     ]
    ],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00571 - Corporation created.md",
    "printed_pages": [
-    106,
-    107
+    107,
+    108
    ]
   },
   {
@@ -5520,23 +5555,16 @@
    "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00572 - Completion of organization.md",
    "printed_pages": [
-    107,
-    107
+    108,
+    108
    ]
   },
   {
    "id": "36_573",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 108]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00573 - Objects and purposes of corporation.md",
    "printed_pages": [
-    107,
+    108,
     108
    ]
   },
@@ -5560,11 +5588,18 @@
   },
   {
    "id": "36_576",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 109]",
+     true
+    ]
+   ],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00576 - Membership; voting rights.md",
    "printed_pages": [
     108,
-    108
+    109
    ]
   },
   {
@@ -5572,27 +5607,16 @@
    "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00577 - Board of directors.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
    "id": "36_578",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 109]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00578 - Officers.md",
    "printed_pages": [
-    108,
+    109,
     109
    ]
   },
@@ -5661,11 +5685,18 @@
   },
   {
    "id": "36_586",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 110]",
+     true
+    ]
+   ],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00586 - Qualifications for membership.md",
    "printed_pages": [
     109,
-    109
+    110
    ]
   },
   {
@@ -5673,8 +5704,8 @@
    "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00587 - Exclusive right to name.md",
    "printed_pages": [
-    109,
-    109
+    110,
+    110
    ]
   },
   {
@@ -5682,8 +5713,8 @@
    "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00588 - “State” defined.md",
    "printed_pages": [
-    109,
-    109
+    110,
+    110
    ]
   },
   {
@@ -5691,37 +5722,33 @@
    "marks": [],
    "path": "Chapter 025 - The Foundation of the Federal Bar Association/§ 00589 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    109,
-    109
+    110,
+    110
    ]
   },
   {
    "id": "36_-ch26",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       19,
-       "[Page 110]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - National Fund for Medical Education/README.md",
    "printed_pages": [
-    109,
+    110,
     110
    ]
   },
   {
    "id": "36_601",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 111]",
+     true
+    ]
+   ],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00601 - Corporation created.md",
    "printed_pages": [
     110,
-    110
+    111
    ]
   },
   {
@@ -5729,8 +5756,8 @@
    "marks": [],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00602 - Completion of organization.md",
    "printed_pages": [
-    110,
-    110
+    111,
+    111
    ]
   },
   {
@@ -5738,23 +5765,16 @@
    "marks": [],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00603 - Purposes of corporation.md",
    "printed_pages": [
-    110,
-    110
+    111,
+    111
    ]
   },
   {
    "id": "36_604",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 111]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00604 - Powers of corporation.md",
    "printed_pages": [
-    110,
+    111,
     111
    ]
   },
@@ -5778,11 +5798,22 @@
   },
   {
    "id": "36_607",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       92,
+       "[Page 112]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00607 - Board of directors.md",
    "printed_pages": [
     111,
-    111
+    112
    ]
   },
   {
@@ -5790,27 +5821,16 @@
    "marks": [],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00608 - Officers.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
    "id": "36_609",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       285,
-       "[Page 112]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - National Fund for Medical Education/§ 00609 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    111,
+    112,
     112
    ]
   },
@@ -5888,30 +5908,30 @@
   },
   {
    "id": "36_-ch27",
-   "marks": [],
-   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/README.md",
-   "printed_pages": [
-    112,
-    112
-   ]
-  },
-  {
-   "id": "36_631",
    "marks": [
     [
      "I",
-     2,
+     13,
      [
       [
-       545,
+       18,
        "[Page 113]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00631 - Corporation created.md",
+   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/README.md",
    "printed_pages": [
     112,
+    113
+   ]
+  },
+  {
+   "id": "36_631",
+   "marks": [],
+   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00631 - Corporation created.md",
+   "printed_pages": [
+    113,
     113
    ]
   },
@@ -5926,30 +5946,30 @@
   },
   {
    "id": "36_633",
-   "marks": [],
-   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00633 - Principles and objects of corporation.md",
-   "printed_pages": [
-    113,
-    113
-   ]
-  },
-  {
-   "id": "36_634",
    "marks": [
     [
      "I",
-     20,
+     4,
      [
       [
-       95,
+       464,
        "[Page 114]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00634 - Powers of corporation.md",
+   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00633 - Principles and objects of corporation.md",
    "printed_pages": [
     113,
+    114
+   ]
+  },
+  {
+   "id": "36_634",
+   "marks": [],
+   "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00634 - Powers of corporation.md",
+   "printed_pages": [
+    114,
     114
    ]
   },
@@ -5973,11 +5993,22 @@
   },
   {
    "id": "36_637",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       187,
+       "[Page 115]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00637 - Governing body.md",
    "printed_pages": [
     114,
-    114
+    115
    ]
   },
   {
@@ -5985,23 +6016,16 @@
    "marks": [],
    "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00638 - Officers.md",
    "printed_pages": [
-    114,
-    114
+    115,
+    115
    ]
   },
   {
    "id": "36_639",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 115]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00639 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    114,
+    115,
     115
    ]
   },
@@ -6079,11 +6103,18 @@
   },
   {
    "id": "36_648",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 116]",
+     true
+    ]
+   ],
    "path": "Chapter 027 - Legion of Valor of the United States of America, Inc/§ 00648 - Change of name to Legion of Valor of the United States of America, Incorporated.md",
    "printed_pages": [
     115,
-    115
+    116
    ]
   },
   {
@@ -6091,37 +6122,33 @@
    "marks": [],
    "path": "Chapter 028 - National Music Council/README.md",
    "printed_pages": [
-    115,
-    115
+    116,
+    116
    ]
   },
   {
    "id": "36_661",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       85,
-       "[Page 116]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00661 - Corporation created.md",
    "printed_pages": [
-    115,
+    116,
     116
    ]
   },
   {
    "id": "36_662",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 117]",
+     true
+    ]
+   ],
    "path": "Chapter 028 - National Music Council/§ 00662 - Completion of organization.md",
    "printed_pages": [
     116,
-    116
+    117
    ]
   },
   {
@@ -6129,23 +6156,16 @@
    "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00663 - Objects and purposes of Corporation.md",
    "printed_pages": [
-    116,
-    116
+    117,
+    117
    ]
   },
   {
    "id": "36_664",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 117]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00664 - Powers of Corporation.md",
    "printed_pages": [
-    116,
+    117,
     117
    ]
   },
@@ -6187,11 +6207,22 @@
   },
   {
    "id": "36_669",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       189,
+       "[Page 118]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 028 - National Music Council/§ 00669 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
     117,
-    117
+    118
    ]
   },
   {
@@ -6199,8 +6230,8 @@
    "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00670 - Nonpolitical nature of Corporation.md",
    "printed_pages": [
-    117,
-    117
+    118,
+    118
    ]
   },
   {
@@ -6208,8 +6239,8 @@
    "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00671 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    117,
-    117
+    118,
+    118
    ]
   },
   {
@@ -6217,23 +6248,16 @@
    "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00672 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    117,
-    117
+    118,
+    118
    ]
   },
   {
    "id": "36_673",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 118]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 028 - National Music Council/§ 00673 - Books and records; inspection.md",
    "printed_pages": [
-    117,
+    118,
     118
    ]
   },
@@ -6302,30 +6326,30 @@
   },
   {
    "id": "36_-ch29",
-   "marks": [],
-   "path": "Chapter 029 - Boys & Girls Clubs of America/README.md",
-   "printed_pages": [
-    118,
-    118
-   ]
-  },
-  {
-   "id": "36_691",
    "marks": [
     [
      "I",
-     2,
+     12,
      [
       [
-       1154,
+       15,
        "[Page 119]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00691 - Corporation created.md",
+   "path": "Chapter 029 - Boys & Girls Clubs of America/README.md",
    "printed_pages": [
     118,
+    119
+   ]
+  },
+  {
+   "id": "36_691",
+   "marks": [],
+   "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00691 - Corporation created.md",
+   "printed_pages": [
+    119,
     119
    ]
   },
@@ -6349,11 +6373,22 @@
   },
   {
    "id": "36_694",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       234,
+       "[Page 120]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00694 - Powers of corporation.md",
    "printed_pages": [
     119,
-    119
+    120
    ]
   },
   {
@@ -6361,52 +6396,45 @@
    "marks": [],
    "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00695 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    119,
-    119
+    120,
+    120
    ]
   },
   {
    "id": "36_696",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 120]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00696 - Membership; voting rights; benefits of member organizations.md",
    "printed_pages": [
-    119,
+    120,
     120
    ]
   },
   {
    "id": "36_697",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       394,
+       "[Page 121]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00697 - Governing body.md",
    "printed_pages": [
     120,
-    120
+    121
    ]
   },
   {
    "id": "36_698",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 121]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00698 - Officers.md",
    "printed_pages": [
-    120,
+    121,
     121
    ]
   },
@@ -6484,11 +6512,18 @@
   },
   {
    "id": "36_707",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 122]",
+     true
+    ]
+   ],
    "path": "Chapter 029 - Boys & Girls Clubs of America/§ 00707 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
     121,
-    121
+    122
    ]
   },
   {
@@ -6496,48 +6531,45 @@
    "marks": [],
    "path": "Chapter 030 - Presidential Inaugural Ceremonies/README.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
    "id": "36_721",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 122]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Presidential Inaugural Ceremonies/§ 00721 - Short title; definitions.md",
    "printed_pages": [
-    121,
+    122,
     122
    ]
   },
   {
    "id": "36_722",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       213,
+       "[Page 123]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - Presidential Inaugural Ceremonies/§ 00722 - Regulations; licenses; fees; registration tags.md",
    "printed_pages": [
     122,
-    122
+    123
    ]
   },
   {
    "id": "36_723",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 123]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Presidential Inaugural Ceremonies/§ 00723 - Authorization of appropriations.md",
    "printed_pages": [
-    122,
+    123,
     123
    ]
   },
@@ -6555,10 +6587,10 @@
    "marks": [
     [
      "I",
-     12,
+     2,
      [
       [
-       220,
+       86,
        "[Page 124]"
       ]
      ]
@@ -6599,26 +6631,30 @@
   },
   {
    "id": "36_729",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       139,
+       "[Page 125]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - Presidential Inaugural Ceremonies/§ 00729 - Application to other properties; Congressional joint committee request or approval.md",
    "printed_pages": [
     124,
-    124
+    125
    ]
   },
   {
    "id": "36_730",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 125]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Presidential Inaugural Ceremonies/§ 00730 - “Commissioners” defined.md",
    "printed_pages": [
-    124,
+    125,
     125
    ]
   },
@@ -6671,14 +6707,10 @@
    "id": "36_761",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       342,
-       "[Page 126]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 126]",
+     true
     ]
    ],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00761 - Corporation created.md",
@@ -6707,30 +6739,26 @@
   },
   {
    "id": "36_764",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 127]",
+     true
+    ]
+   ],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00764 - Powers of corporation.md",
    "printed_pages": [
     126,
-    126
+    127
    ]
   },
   {
    "id": "36_765",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 127]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00765 - Membership.md",
    "printed_pages": [
-    126,
+    127,
     127
    ]
   },
@@ -6763,11 +6791,22 @@
   },
   {
    "id": "36_769",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       228,
+       "[Page 128]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00769 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
     127,
-    127
+    128
    ]
   },
   {
@@ -6775,27 +6814,16 @@
    "marks": [],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00770 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    127,
-    127
+    128,
+    128
    ]
   },
   {
    "id": "36_771",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 128]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00771 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    127,
+    128,
     128
    ]
   },
@@ -6864,11 +6892,22 @@
   },
   {
    "id": "36_779",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 129]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00779 - Dissolution or liquidation; disposition of property.md",
    "printed_pages": [
     128,
-    128
+    129
    ]
   },
   {
@@ -6876,27 +6915,16 @@
    "marks": [],
    "path": "Chapter 032 - Veterans of World War I of the United States of America/§ 00780 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
    "id": "36_-ch33",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       50,
-       "[Page 129]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - The Congressional Medal of Honor Society of the United States of America/README.md",
    "printed_pages": [
-    128,
+    129,
     129
    ]
   },
@@ -6920,30 +6948,26 @@
   },
   {
    "id": "36_793",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 130]",
+     true
+    ]
+   ],
    "path": "Chapter 033 - The Congressional Medal of Honor Society of the United States of America/§ 00793 - Objects and purposes of corporation.md",
    "printed_pages": [
     129,
-    129
+    130
    ]
   },
   {
    "id": "36_794",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       96,
-       "[Page 130]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - The Congressional Medal of Honor Society of the United States of America/§ 00794 - Powers of corporation.md",
    "printed_pages": [
-    129,
+    130,
     130
    ]
   },
@@ -6976,11 +7000,22 @@
   },
   {
    "id": "36_798",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       92,
+       "[Page 131]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 033 - The Congressional Medal of Honor Society of the United States of America/§ 00798 - Officers.md",
    "printed_pages": [
     130,
-    130
+    131
    ]
   },
   {
@@ -6988,23 +7023,16 @@
    "marks": [],
    "path": "Chapter 033 - The Congressional Medal of Honor Society of the United States of America/§ 00799 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
    "id": "36_800",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 131]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - The Congressional Medal of Honor Society of the United States of America/§ 00800 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    130,
+    131,
     131
    ]
   },
@@ -7073,55 +7101,59 @@
   },
   {
    "id": "36_-ch34",
-   "marks": [],
-   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/README.md",
-   "printed_pages": [
-    131,
-    131
-   ]
-  },
-  {
-   "id": "36_821",
    "marks": [
     [
      "I",
-     6,
+     26,
      [
       [
-       224,
+       72,
        "[Page 132]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00821 - Corporation created.md",
+   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/README.md",
    "printed_pages": [
     131,
     132
    ]
   },
   {
-   "id": "36_822",
+   "id": "36_821",
    "marks": [],
-   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00822 - Completion of organization.md",
+   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00821 - Corporation created.md",
    "printed_pages": [
     132,
     132
    ]
   },
   {
-   "id": "36_823",
+   "id": "36_822",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 133]",
-     true
+     "I",
+     2,
+     [
+      [
+       143,
+       "[Page 133]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00823 - Principles and objects of corporation.md",
+   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00822 - Completion of organization.md",
    "printed_pages": [
     132,
+    133
+   ]
+  },
+  {
+   "id": "36_823",
+   "marks": [],
+   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00823 - Principles and objects of corporation.md",
+   "printed_pages": [
+    133,
     133
    ]
   },
@@ -7145,15 +7177,6 @@
   },
   {
    "id": "36_826",
-   "marks": [],
-   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00826 - Membership.md",
-   "printed_pages": [
-    133,
-    133
-   ]
-  },
-  {
-   "id": "36_827",
    "marks": [
     [
      "L",
@@ -7162,9 +7185,18 @@
      true
     ]
    ],
-   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00827 - Board of directors.md",
+   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00826 - Membership.md",
    "printed_pages": [
     133,
+    134
+   ]
+  },
+  {
+   "id": "36_827",
+   "marks": [],
+   "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00827 - Board of directors.md",
+   "printed_pages": [
+    134,
     134
    ]
   },
@@ -7233,11 +7265,18 @@
   },
   {
    "id": "36_835",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 135]",
+     true
+    ]
+   ],
    "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00835 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
     134,
-    134
+    135
    ]
   },
   {
@@ -7245,8 +7284,8 @@
    "marks": [],
    "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00836 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
@@ -7254,27 +7293,16 @@
    "marks": [],
    "path": "Chapter 034 - Military Order of the Purple Heart of the United States of America/§ 00837 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
    "id": "36_-ch35",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       34,
-       "[Page 135]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Blinded Veterans Association/README.md",
    "printed_pages": [
-    134,
+    135,
     135
    ]
   },
@@ -7282,14 +7310,10 @@
    "id": "36_851",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       364,
-       "[Page 136]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 136]",
+     true
     ]
    ],
    "path": "Chapter 035 - Blinded Veterans Association/§ 00851 - Corporation created.md",
@@ -7318,30 +7342,30 @@
   },
   {
    "id": "36_854",
-   "marks": [],
-   "path": "Chapter 035 - Blinded Veterans Association/§ 00854 - Powers of corporation.md",
-   "printed_pages": [
-    136,
-    136
-   ]
-  },
-  {
-   "id": "36_855",
    "marks": [
     [
      "I",
-     4,
+     12,
      [
       [
-       235,
+       185,
        "[Page 137]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 035 - Blinded Veterans Association/§ 00855 - Principal office; territorial scope of activities; agent for service of process.md",
+   "path": "Chapter 035 - Blinded Veterans Association/§ 00854 - Powers of corporation.md",
    "printed_pages": [
     136,
+    137
+   ]
+  },
+  {
+   "id": "36_855",
+   "marks": [],
+   "path": "Chapter 035 - Blinded Veterans Association/§ 00855 - Principal office; territorial scope of activities; agent for service of process.md",
+   "printed_pages": [
+    137,
     137
    ]
   },
@@ -7374,11 +7398,18 @@
   },
   {
    "id": "36_859",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 138]",
+     true
+    ]
+   ],
    "path": "Chapter 035 - Blinded Veterans Association/§ 00859 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
     137,
-    137
+    138
    ]
   },
   {
@@ -7386,8 +7417,8 @@
    "marks": [],
    "path": "Chapter 035 - Blinded Veterans Association/§ 00860 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    137,
-    137
+    138,
+    138
    ]
   },
   {
@@ -7395,8 +7426,8 @@
    "marks": [],
    "path": "Chapter 035 - Blinded Veterans Association/§ 00861 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    137,
-    137
+    138,
+    138
    ]
   },
   {
@@ -7404,23 +7435,16 @@
    "marks": [],
    "path": "Chapter 035 - Blinded Veterans Association/§ 00862 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    137,
-    137
+    138,
+    138
    ]
   },
   {
    "id": "36_863",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 138]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Blinded Veterans Association/§ 00863 - Books and records; inspection.md",
    "printed_pages": [
-    137,
+    138,
     138
    ]
   },
@@ -7480,11 +7504,22 @@
   },
   {
    "id": "36_881",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       173,
+       "[Page 139]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00881 - Corporation created; short title.md",
    "printed_pages": [
     138,
-    138
+    139
    ]
   },
   {
@@ -7492,27 +7527,16 @@
    "marks": [],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00882 - Completion of organization.md",
    "printed_pages": [
-    138,
-    138
+    139,
+    139
    ]
   },
   {
    "id": "36_883",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       185,
-       "[Page 139]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00883 - Purposes of corporation.md",
    "printed_pages": [
-    138,
+    139,
     139
    ]
   },
@@ -7547,10 +7571,14 @@
    "id": "36_887",
    "marks": [
     [
-     "L",
-     72,
-     "[Page 140]",
-     true
+     "I",
+     4,
+     [
+      [
+       135,
+       "[Page 140]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00887 - Governing body.md",
@@ -7597,11 +7625,18 @@
   },
   {
    "id": "36_892",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 141]",
+     true
+    ]
+   ],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00892 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
     140,
-    140
+    141
    ]
   },
   {
@@ -7609,8 +7644,8 @@
    "marks": [],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00893 - Books and records; inspection.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
@@ -7618,23 +7653,16 @@
    "marks": [],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00894 - Repealed. Pub. L. 88–504, §4(31), Aug. 30, 1964, 78 Stat. 637.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
    "id": "36_895",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 141]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 036 - Big Brothers—Big Sisters of America/§ 00895 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    140,
+    141,
     141
    ]
   },
@@ -7679,10 +7707,10 @@
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       108,
+       341,
        "[Page 142]"
       ]
      ]
@@ -7723,11 +7751,22 @@
   },
   {
    "id": "36_915",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       242,
+       "[Page 143]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 037 - Jewish War Veterans, U.S.a., National Memorial, Inc/§ 00915 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
     142,
-    142
+    143
    ]
   },
   {
@@ -7735,23 +7774,16 @@
    "marks": [],
    "path": "Chapter 037 - Jewish War Veterans, U.S.a., National Memorial, Inc/§ 00916 - Governing body.md",
    "printed_pages": [
-    142,
-    142
+    143,
+    143
    ]
   },
   {
    "id": "36_917",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 143]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 037 - Jewish War Veterans, U.S.a., National Memorial, Inc/§ 00917 - Officers.md",
    "printed_pages": [
-    142,
+    143,
     143
    ]
   },
@@ -7820,11 +7852,18 @@
   },
   {
    "id": "36_925",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 144]",
+     true
+    ]
+   ],
    "path": "Chapter 037 - Jewish War Veterans, U.S.a., National Memorial, Inc/§ 00925 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
     143,
-    143
+    144
    ]
   },
   {
@@ -7832,8 +7871,8 @@
    "marks": [],
    "path": "Chapter 037 - Jewish War Veterans, U.S.a., National Memorial, Inc/§ 00926 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    143,
-    143
+    144,
+    144
    ]
   },
   {
@@ -7841,27 +7880,16 @@
    "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/README.md",
    "printed_pages": [
-    143,
-    143
+    144,
+    144
    ]
   },
   {
    "id": "36_941",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       616,
-       "[Page 144]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00941 - Corporation created.md",
    "printed_pages": [
-    143,
+    144,
     144
    ]
   },
@@ -7885,11 +7913,22 @@
   },
   {
    "id": "36_944",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       327,
+       "[Page 145]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00944 - Powers of corporation.md",
    "printed_pages": [
     144,
-    144
+    145
    ]
   },
   {
@@ -7897,27 +7936,16 @@
    "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00945 - Membership.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
    "id": "36_946",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 145]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00946 - Governing body; composition; meetings.md",
    "printed_pages": [
-    144,
+    145,
     145
    ]
   },
@@ -7950,11 +7978,18 @@
   },
   {
    "id": "36_950",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 146]",
+     true
+    ]
+   ],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00950 - Nonpolitical nature of corporation.md",
    "printed_pages": [
     145,
-    145
+    146
    ]
   },
   {
@@ -7962,8 +7997,8 @@
    "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00951 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
@@ -7971,8 +8006,8 @@
    "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00952 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
@@ -7980,8 +8015,8 @@
    "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00953 - Books and records; inspection.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
@@ -7989,23 +8024,16 @@
    "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00954 - Repealed. Pub. L. 88–504, §4(33), Aug. 30, 1964, 78 Stat. 637.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
    "id": "36_955",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 146]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 038 - Blue Star Mothers of America/§ 00955 - Annual report.md",
    "printed_pages": [
-    145,
+    146,
     146
    ]
   },
@@ -8053,7 +8081,7 @@
      2,
      [
       [
-       3596,
+       1578,
        "[Page 147]"
       ]
      ]
@@ -8085,26 +8113,30 @@
   },
   {
    "id": "36_974",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       96,
+       "[Page 148]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00974 - Powers of corporation.md",
    "printed_pages": [
     147,
-    147
+    148
    ]
   },
   {
    "id": "36_975",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 148]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00975 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    147,
+    148,
     148
    ]
   },
@@ -8155,11 +8187,18 @@
   },
   {
    "id": "36_981",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 149]",
+     true
+    ]
+   ],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00981 - Liability for acts of officers and agents.md",
    "printed_pages": [
     148,
-    148
+    149
    ]
   },
   {
@@ -8167,8 +8206,8 @@
    "marks": [],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00982 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
@@ -8176,8 +8215,8 @@
    "marks": [],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00983 - Books and records; inspection.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
@@ -8185,8 +8224,8 @@
    "marks": [],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00984 - Repealed. Pub. L. 88–504, §4(34), Aug. 30, 1964, 78 Stat. 637.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
@@ -8194,23 +8233,16 @@
    "marks": [],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00985 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
    "id": "36_986",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 149]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 039 - Agricultural Hall of Fame/§ 00986 - Duration of corporation.md",
    "printed_pages": [
-    148,
+    149,
     149
    ]
   },
@@ -8243,11 +8275,22 @@
   },
   {
    "id": "36_1001",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       1279,
+       "[Page 150]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01001 - Corporation created.md",
    "printed_pages": [
     149,
-    149
+    150
    ]
   },
   {
@@ -8255,27 +8298,16 @@
    "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01002 - Completion of organization.md",
    "printed_pages": [
-    149,
-    149
+    150,
+    150
    ]
   },
   {
    "id": "36_1003",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       600,
-       "[Page 150]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01003 - Purposes of corporation.md",
    "printed_pages": [
-    149,
+    150,
     150
    ]
   },
@@ -8308,11 +8340,22 @@
   },
   {
    "id": "36_1007",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       467,
+       "[Page 151]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01007 - Governing board.md",
    "printed_pages": [
     150,
-    150
+    151
    ]
   },
   {
@@ -8320,27 +8363,16 @@
    "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01008 - Officers.md",
    "printed_pages": [
-    150,
-    150
+    151,
+    151
    ]
   },
   {
    "id": "36_1009",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       380,
-       "[Page 151]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01009 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    150,
+    151,
     151
    ]
   },
@@ -8400,11 +8432,22 @@
   },
   {
    "id": "36_1016",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       96,
+       "[Page 152]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01016 - Annual report.md",
    "printed_pages": [
     151,
-    151
+    152
    ]
   },
   {
@@ -8412,8 +8455,8 @@
    "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01017 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
@@ -8421,23 +8464,16 @@
    "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01018 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
    "id": "36_1019",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 152]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic/§ 01019 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    151,
+    152,
     152
    ]
   },
@@ -8470,11 +8506,22 @@
   },
   {
    "id": "36_1042",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 153]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01042 - Objects and purposes of corporation.md",
    "printed_pages": [
     152,
-    152
+    153
    ]
   },
   {
@@ -8482,23 +8529,16 @@
    "marks": [],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01043 - Completion of organization.md",
    "printed_pages": [
-    152,
-    152
+    153,
+    153
    ]
   },
   {
    "id": "36_1044",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 153]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01044 - Powers of corporation.md",
    "printed_pages": [
-    152,
+    153,
     153
    ]
   },
@@ -8531,11 +8571,18 @@
   },
   {
    "id": "36_1048",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 154]",
+     true
+    ]
+   ],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01048 - Officers.md",
    "printed_pages": [
     153,
-    153
+    154
    ]
   },
   {
@@ -8543,8 +8590,8 @@
    "marks": [],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01049 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
@@ -8552,23 +8599,16 @@
    "marks": [],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01050 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
    "id": "36_1051",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 154]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041 - Naval Sea Cadet Corps/§ 01051 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    153,
+    154,
     154
    ]
   },
@@ -8646,26 +8686,30 @@
   },
   {
    "id": "36_-ch41A",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     15,
+     [
+      [
+       62,
+       "[Page 155]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 041A - Little League Baseball, Inc/README.md",
    "printed_pages": [
     154,
-    154
+    155
    ]
   },
   {
    "id": "36_1071",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 155]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01071 - Corporation created.md",
    "printed_pages": [
-    154,
+    155,
     155
    ]
   },
@@ -8698,11 +8742,18 @@
   },
   {
    "id": "36_1075",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 156]",
+     true
+    ]
+   ],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01075 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
     155,
-    155
+    156
    ]
   },
   {
@@ -8710,23 +8761,16 @@
    "marks": [],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01076 - Membership; voting rights.md",
    "printed_pages": [
-    155,
-    155
+    156,
+    156
    ]
   },
   {
    "id": "36_1077",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 156]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01077 - Board of directors.md",
    "printed_pages": [
-    155,
+    156,
     156
    ]
   },
@@ -8786,11 +8830,22 @@
   },
   {
    "id": "36_1084",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       618,
+       "[Page 157]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01084 - Audit of financial transactions.md",
    "printed_pages": [
     156,
-    156
+    157
    ]
   },
   {
@@ -8798,8 +8853,8 @@
    "marks": [],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01085 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    156,
-    156
+    157,
+    157
    ]
   },
   {
@@ -8807,27 +8862,16 @@
    "marks": [],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01086 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    156,
-    156
+    157,
+    157
    ]
   },
   {
    "id": "36_1087",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 157]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041A - Little League Baseball, Inc/§ 01087 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    156,
+    157,
     157
    ]
   },
@@ -8854,30 +8898,33 @@
    "marks": [
     [
      "L",
-     146,
+     96,
      "[Page 158]",
      true
+    ],
+    [
+     "I",
+     228,
+     [
+      [
+       101,
+       "[Page 159]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 042 - Audits of Federally Chartered Corporations/§ 01101 - “Private corporations established under Federal law” defined.md",
    "printed_pages": [
     157,
-    158
+    159
    ]
   },
   {
    "id": "36_1102",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 159]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 042 - Audits of Federally Chartered Corporations/§ 01102 - Audit of accounts; annual audit; independent audit; places of audit; availability of books, records, and other papers, things, or….md",
    "printed_pages": [
-    158,
+    159,
     159
    ]
   },
@@ -8919,30 +8966,26 @@
   },
   {
    "id": "36_1153",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 160]",
+     true
+    ]
+   ],
    "path": "Chapter 043 - Paralyzed Veterans of America/§ 01153 - Objects and purposes of corporation.md",
    "printed_pages": [
     159,
-    159
+    160
    ]
   },
   {
    "id": "36_1154",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       95,
-       "[Page 160]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 043 - Paralyzed Veterans of America/§ 01154 - Powers of corporation.md",
    "printed_pages": [
-    159,
+    160,
     160
    ]
   },
@@ -8993,11 +9036,22 @@
   },
   {
    "id": "36_1160",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       108,
+       "[Page 161]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 043 - Paralyzed Veterans of America/§ 01160 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
     160,
-    160
+    161
    ]
   },
   {
@@ -9005,8 +9059,8 @@
    "marks": [],
    "path": "Chapter 043 - Paralyzed Veterans of America/§ 01161 - Books and records; inspection.md",
    "printed_pages": [
-    160,
-    160
+    161,
+    161
    ]
   },
   {
@@ -9014,27 +9068,16 @@
    "marks": [],
    "path": "Chapter 043 - Paralyzed Veterans of America/§ 01162 - Agents for service of process.md",
    "printed_pages": [
-    160,
-    160
+    161,
+    161
    ]
   },
   {
    "id": "36_1163",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 161]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 043 - Paralyzed Veterans of America/§ 01163 - Extension of privileges and rights granted under other laws.md",
    "printed_pages": [
-    160,
+    161,
     161
    ]
   },
@@ -9085,11 +9128,22 @@
   },
   {
    "id": "36_1201",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       96,
+       "[Page 162]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01201 - Corporation created.md",
    "printed_pages": [
     161,
-    161
+    162
    ]
   },
   {
@@ -9097,27 +9151,16 @@
    "marks": [],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01202 - Completion of organization.md",
    "printed_pages": [
-    161,
-    161
+    162,
+    162
    ]
   },
   {
    "id": "36_1203",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       95,
-       "[Page 162]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01203 - Objects and purposes of corporation.md",
    "printed_pages": [
-    161,
+    162,
     162
    ]
   },
@@ -9150,26 +9193,30 @@
   },
   {
    "id": "36_1207",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       138,
+       "[Page 163]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01207 - Active board of trustees.md",
    "printed_pages": [
     162,
-    162
+    163
    ]
   },
   {
    "id": "36_1208",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 163]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01208 - Officers.md",
    "printed_pages": [
-    162,
+    163,
     163
    ]
   },
@@ -9220,11 +9267,22 @@
   },
   {
    "id": "36_1214",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       333,
+       "[Page 164]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01214 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
     163,
-    163
+    164
    ]
   },
   {
@@ -9232,8 +9290,8 @@
    "marks": [],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01215 - Exclusive right to name, emblems, seals, and insignia.md",
    "printed_pages": [
-    163,
-    163
+    164,
+    164
    ]
   },
   {
@@ -9241,23 +9299,16 @@
    "marks": [],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01216 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    163,
-    163
+    164,
+    164
    ]
   },
   {
    "id": "36_1217",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 164]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 044 - United States Capitol Historical Society/§ 01217 - Annual report.md",
    "printed_pages": [
-    163,
+    164,
     164
    ]
   },
@@ -9293,7 +9344,7 @@
    "marks": [
     [
      "L",
-     108,
+     54,
      "[Page 165]",
      true
     ]
@@ -9317,10 +9368,14 @@
    "id": "36_1303",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 166]",
-     true
+     "I",
+     4,
+     [
+      [
+       89,
+       "[Page 166]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 045 - United Service Organizations, Inc/§ 01303 - Powers of corporation.md",
@@ -9340,11 +9395,18 @@
   },
   {
    "id": "36_1305",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 167]",
+     true
+    ]
+   ],
    "path": "Chapter 045 - United Service Organizations, Inc/§ 01305 - Governance of corporation.md",
    "printed_pages": [
     166,
-    166
+    167
    ]
   },
   {
@@ -9352,23 +9414,16 @@
    "marks": [],
    "path": "Chapter 045 - United Service Organizations, Inc/§ 01306 - Acquisition of assets and liabilities of existing corporation; retention of State corporate status.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
    "id": "36_1307",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 167]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 045 - United Service Organizations, Inc/§ 01307 - Exclusive right to names, insignia, emblems, and badges.md",
    "printed_pages": [
-    166,
+    167,
     167
    ]
   },
@@ -9392,88 +9447,80 @@
   },
   {
    "id": "36_-ch46",
-   "marks": [],
-   "path": "Chapter 046 - United States Holocaust Memorial Council/README.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "36_1401",
    "marks": [
     [
      "I",
-     10,
+     25,
      [
       [
-       112,
+       52,
        "[Page 168]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01401 - Council established; functions.md",
+   "path": "Chapter 046 - United States Holocaust Memorial Council/README.md",
    "printed_pages": [
     167,
     168
    ]
   },
   {
-   "id": "36_1402",
+   "id": "36_1401",
    "marks": [],
-   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01402 - Membership.md",
+   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01401 - Council established; functions.md",
    "printed_pages": [
     168,
     168
    ]
   },
   {
-   "id": "36_1403",
+   "id": "36_1402",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       186,
-       "[Page 169]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 169]",
+     true
     ]
    ],
-   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01403 - Compensation; travel expenses; full-time officers or employees of United States or Members of Congress.md",
+   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01402 - Membership.md",
    "printed_pages": [
     168,
     169
    ]
   },
   {
-   "id": "36_1404",
+   "id": "36_1403",
    "marks": [],
-   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01404 - Administrative provisions.md",
+   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01403 - Compensation; travel expenses; full-time officers or employees of United States or Members of Congress.md",
    "printed_pages": [
     169,
     169
    ]
   },
   {
-   "id": "36_1405",
+   "id": "36_1404",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       109,
-       "[Page 170]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 170]",
+     true
     ]
    ],
-   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01405 - Staff.md",
+   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01404 - Administrative provisions.md",
    "printed_pages": [
     169,
+    170
+   ]
+  },
+  {
+   "id": "36_1405",
+   "marks": [],
+   "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01405 - Staff.md",
+   "printed_pages": [
+    170,
     170
    ]
   },
@@ -9481,10 +9528,14 @@
    "id": "36_1406",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 171]",
-     true
+     "I",
+     12,
+     [
+      [
+       412,
+       "[Page 171]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01406 - Memorial museum.md",
@@ -9522,11 +9573,22 @@
   },
   {
    "id": "36_1410",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       322,
+       "[Page 172]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01410 - Audit of financial transactions.md",
    "printed_pages": [
     171,
-    171
+    172
    ]
   },
   {
@@ -9534,27 +9596,16 @@
    "marks": [],
    "path": "Chapter 046 - United States Holocaust Memorial Council/§ 01411 - Report.md",
    "printed_pages": [
-    171,
-    171
+    172,
+    172
    ]
   },
   {
    "id": "36_-ch47",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       52,
-       "[Page 172]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 047 - National Ski Patrol System, Inc/README.md",
    "printed_pages": [
-    171,
+    172,
     172
    ]
   },
@@ -9623,11 +9674,22 @@
   },
   {
    "id": "36_1508",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       142,
+       "[Page 173]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 047 - National Ski Patrol System, Inc/§ 01508 - Restrictions.md",
    "printed_pages": [
     172,
-    172
+    173
    ]
   },
   {
@@ -9635,8 +9697,8 @@
    "marks": [],
    "path": "Chapter 047 - National Ski Patrol System, Inc/§ 01509 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    172,
-    172
+    173,
+    173
    ]
   },
   {
@@ -9644,23 +9706,16 @@
    "marks": [],
    "path": "Chapter 047 - National Ski Patrol System, Inc/§ 01510 - Books and records; inspection.md",
    "printed_pages": [
-    172,
-    172
+    173,
+    173
    ]
   },
   {
    "id": "36_1511",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 173]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 047 - National Ski Patrol System, Inc/§ 01511 - Annual report.md",
    "printed_pages": [
-    172,
+    173,
     173
    ]
   },
@@ -9738,11 +9793,18 @@
   },
   {
    "id": "36_1605",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 174]",
+     true
+    ]
+   ],
    "path": "Chapter 048 - Gold Star Wives of America/§ 01605 - Membership.md",
    "printed_pages": [
     173,
-    173
+    174
    ]
   },
   {
@@ -9750,8 +9812,8 @@
    "marks": [],
    "path": "Chapter 048 - Gold Star Wives of America/§ 01606 - Board of directors.md",
    "printed_pages": [
-    173,
-    173
+    174,
+    174
    ]
   },
   {
@@ -9759,23 +9821,16 @@
    "marks": [],
    "path": "Chapter 048 - Gold Star Wives of America/§ 01607 - Officers.md",
    "printed_pages": [
-    173,
-    173
+    174,
+    174
    ]
   },
   {
    "id": "36_1608",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 174]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 048 - Gold Star Wives of America/§ 01608 - Restrictions.md",
    "printed_pages": [
-    173,
+    174,
     174
    ]
   },
@@ -9844,11 +9899,22 @@
   },
   {
    "id": "36_1701",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       227,
+       "[Page 175]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01701 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
     174,
-    174
+    175
    ]
   },
   {
@@ -9856,23 +9922,16 @@
    "marks": [],
    "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01702 - Powers of corporation.md",
    "printed_pages": [
-    174,
-    174
+    175,
+    175
    ]
   },
   {
    "id": "36_1703",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 175]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01703 - Objects and purposes of corporation.md",
    "printed_pages": [
-    174,
+    175,
     175
    ]
   },
@@ -9932,42 +9991,6 @@
   },
   {
    "id": "36_1710",
-   "marks": [],
-   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01710 - Books and records; inspection.md",
-   "printed_pages": [
-    175,
-    175
-   ]
-  },
-  {
-   "id": "36_1711",
-   "marks": [],
-   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01711 - Annual report.md",
-   "printed_pages": [
-    175,
-    175
-   ]
-  },
-  {
-   "id": "36_1712",
-   "marks": [],
-   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01712 - Reservation of right to amend or repeal chapter.md",
-   "printed_pages": [
-    175,
-    175
-   ]
-  },
-  {
-   "id": "36_1713",
-   "marks": [],
-   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01713 - “State” defined.md",
-   "printed_pages": [
-    175,
-    175
-   ]
-  },
-  {
-   "id": "36_1714",
    "marks": [
     [
      "L",
@@ -9976,9 +9999,45 @@
      true
     ]
    ],
-   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01714 - Tax-exempt status.md",
+   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01710 - Books and records; inspection.md",
    "printed_pages": [
     175,
+    176
+   ]
+  },
+  {
+   "id": "36_1711",
+   "marks": [],
+   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01711 - Annual report.md",
+   "printed_pages": [
+    176,
+    176
+   ]
+  },
+  {
+   "id": "36_1712",
+   "marks": [],
+   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01712 - Reservation of right to amend or repeal chapter.md",
+   "printed_pages": [
+    176,
+    176
+   ]
+  },
+  {
+   "id": "36_1713",
+   "marks": [],
+   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01713 - “State” defined.md",
+   "printed_pages": [
+    176,
+    176
+   ]
+  },
+  {
+   "id": "36_1714",
+   "marks": [],
+   "path": "Chapter 049 - Italian American War Veterans of the United States/§ 01714 - Tax-exempt status.md",
+   "printed_pages": [
+    176,
     176
    ]
   },
@@ -10047,11 +10106,22 @@
   },
   {
    "id": "36_1806",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       143,
+       "[Page 177]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 050 - United States Submarine Veterans of World War II/§ 01806 - Board of directors.md",
    "printed_pages": [
     176,
-    176
+    177
    ]
   },
   {
@@ -10059,23 +10129,16 @@
    "marks": [],
    "path": "Chapter 050 - United States Submarine Veterans of World War II/§ 01807 - Officers.md",
    "printed_pages": [
-    176,
-    176
+    177,
+    177
    ]
   },
   {
    "id": "36_1808",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 177]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 050 - United States Submarine Veterans of World War II/§ 01808 - Restrictions.md",
    "printed_pages": [
-    176,
+    177,
     177
    ]
   },
@@ -10144,11 +10207,22 @@
   },
   {
    "id": "36_-ch51",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       29,
+       "[Page 178]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 051 - American Council of Learned Societies/README.md",
    "printed_pages": [
     177,
-    177
+    178
    ]
   },
   {
@@ -10156,8 +10230,8 @@
    "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01901 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
@@ -10165,23 +10239,16 @@
    "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01902 - Powers of corporation.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
    "id": "36_1903",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 178]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01903 - Objects and purposes of corporation.md",
    "printed_pages": [
-    177,
+    178,
     178
    ]
   },
@@ -10241,11 +10308,18 @@
   },
   {
    "id": "36_1910",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 179]",
+     true
+    ]
+   ],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01910 - Books and records; inspection.md",
    "printed_pages": [
     178,
-    178
+    179
    ]
   },
   {
@@ -10253,8 +10327,8 @@
    "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01911 - Annual report.md",
    "printed_pages": [
-    178,
-    178
+    179,
+    179
    ]
   },
   {
@@ -10262,8 +10336,8 @@
    "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01912 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    178,
-    178
+    179,
+    179
    ]
   },
   {
@@ -10271,23 +10345,16 @@
    "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01913 - “State” defined.md",
    "printed_pages": [
-    178,
-    178
+    179,
+    179
    ]
   },
   {
    "id": "36_1914",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 179]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 051 - American Council of Learned Societies/§ 01914 - Tax-exempt status.md",
    "printed_pages": [
-    178,
+    179,
     179
    ]
   },
@@ -10356,11 +10423,22 @@
   },
   {
    "id": "36_2007",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 180]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 052 - National Federation of Music Clubs/§ 02007 - Officers.md",
    "printed_pages": [
     179,
-    179
+    180
    ]
   },
   {
@@ -10368,23 +10446,16 @@
    "marks": [],
    "path": "Chapter 052 - National Federation of Music Clubs/§ 02008 - Restrictions.md",
    "printed_pages": [
-    179,
-    179
+    180,
+    180
    ]
   },
   {
    "id": "36_2009",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 180]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 052 - National Federation of Music Clubs/§ 02009 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    179,
+    180,
     180
    ]
   },
@@ -10444,11 +10515,22 @@
   },
   {
    "id": "36_-ch53",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       43,
+       "[Page 181]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 053 - American Ex-Prisoners of War/README.md",
    "printed_pages": [
     180,
-    180
+    181
    ]
   },
   {
@@ -10456,27 +10538,16 @@
    "marks": [],
    "path": "Chapter 053 - American Ex-Prisoners of War/§ 02101 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    180,
-    180
+    181,
+    181
    ]
   },
   {
    "id": "36_2102",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 181]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 053 - American Ex-Prisoners of War/§ 02102 - Powers of corporation.md",
    "printed_pages": [
-    180,
+    181,
     181
    ]
   },
@@ -10527,11 +10598,18 @@
   },
   {
    "id": "36_2108",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 182]",
+     true
+    ]
+   ],
    "path": "Chapter 053 - American Ex-Prisoners of War/§ 02108 - Restrictions.md",
    "printed_pages": [
     181,
-    181
+    182
    ]
   },
   {
@@ -10539,8 +10617,8 @@
    "marks": [],
    "path": "Chapter 053 - American Ex-Prisoners of War/§ 02109 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    181,
-    181
+    182,
+    182
    ]
   },
   {
@@ -10548,27 +10626,16 @@
    "marks": [],
    "path": "Chapter 053 - American Ex-Prisoners of War/§ 02110 - Books and records; inspection.md",
    "printed_pages": [
-    181,
-    181
+    182,
+    182
    ]
   },
   {
    "id": "36_2111",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       166,
-       "[Page 182]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 053 - American Ex-Prisoners of War/§ 02111 - Annual report.md",
    "printed_pages": [
-    181,
+    182,
     182
    ]
   },
@@ -10628,11 +10695,22 @@
   },
   {
    "id": "36_2201",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       107,
+       "[Page 183]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 054 - Former Members of Congress/§ 02201 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
     182,
-    182
+    183
    ]
   },
   {
@@ -10640,8 +10718,8 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02202 - Powers of corporation.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -10649,8 +10727,8 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02203 - Objects and purposes of corporation.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -10658,8 +10736,8 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02204 - Service of process.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -10667,23 +10745,16 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02205 - Membership.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
    "id": "36_2206",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 183]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02206 - Board of directors.md",
    "printed_pages": [
-    182,
+    183,
     183
    ]
   },
@@ -10725,11 +10796,22 @@
   },
   {
    "id": "36_2211",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       328,
+       "[Page 184]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 054 - Former Members of Congress/§ 02211 - Annual report.md",
    "printed_pages": [
     183,
-    183
+    184
    ]
   },
   {
@@ -10737,8 +10819,8 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02212 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -10746,8 +10828,8 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02213 - “State” defined.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -10755,8 +10837,8 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02214 - Tax-exempt status.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -10764,27 +10846,16 @@
    "marks": [],
    "path": "Chapter 054 - Former Members of Congress/§ 02215 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
    "id": "36_-ch55",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       43,
-       "[Page 184]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 055 - National Academy of Public Administration/README.md",
    "printed_pages": [
-    183,
+    184,
     184
    ]
   },
@@ -10844,11 +10915,22 @@
   },
   {
    "id": "36_2307",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       97,
+       "[Page 185]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 055 - National Academy of Public Administration/§ 02307 - Officers.md",
    "printed_pages": [
     184,
-    184
+    185
    ]
   },
   {
@@ -10856,23 +10938,16 @@
    "marks": [],
    "path": "Chapter 055 - National Academy of Public Administration/§ 02308 - Restrictions.md",
    "printed_pages": [
-    184,
-    184
+    185,
+    185
    ]
   },
   {
    "id": "36_2309",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 185]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 055 - National Academy of Public Administration/§ 02309 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    184,
+    185,
     185
    ]
   },
@@ -10941,11 +11016,22 @@
   },
   {
    "id": "36_-ch56",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       67,
+       "[Page 186]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/README.md",
    "printed_pages": [
     185,
-    185
+    186
    ]
   },
   {
@@ -10953,8 +11039,8 @@
    "marks": [],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02401 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    185,
-    185
+    186,
+    186
    ]
   },
   {
@@ -10962,23 +11048,16 @@
    "marks": [],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02402 - Powers of corporation.md",
    "printed_pages": [
-    185,
-    185
+    186,
+    186
    ]
   },
   {
    "id": "36_2403",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 186]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02403 - Objects and purposes of corporation.md",
    "printed_pages": [
-    185,
+    186,
     186
    ]
   },
@@ -11020,11 +11099,18 @@
   },
   {
    "id": "36_2408",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 187]",
+     true
+    ]
+   ],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02408 - Restrictions.md",
    "printed_pages": [
     186,
-    186
+    187
    ]
   },
   {
@@ -11032,8 +11118,8 @@
    "marks": [],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02409 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    187
    ]
   },
   {
@@ -11041,27 +11127,16 @@
    "marks": [],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02410 - Books and records; inspection.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    187
    ]
   },
   {
    "id": "36_2411",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       110,
-       "[Page 187]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 056 - American Gold Star Mothers, Inc/§ 02411 - Annual report.md",
    "printed_pages": [
-    186,
+    187,
     187
    ]
   },
@@ -11130,11 +11205,22 @@
   },
   {
    "id": "36_2503",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       138,
+       "[Page 188]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02503 - Objects and purposes of corporation.md",
    "printed_pages": [
     187,
-    187
+    188
    ]
   },
   {
@@ -11142,8 +11228,8 @@
    "marks": [],
    "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02504 - Service of process.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
@@ -11151,8 +11237,8 @@
    "marks": [],
    "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02505 - Membership; prohibition on discrimination.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
@@ -11160,8 +11246,8 @@
    "marks": [],
    "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02506 - Board of directors.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
@@ -11169,27 +11255,16 @@
    "marks": [],
    "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02507 - Officers.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
    "id": "36_2508",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       192,
-       "[Page 188]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02508 - Restrictions.md",
    "printed_pages": [
-    187,
+    188,
     188
    ]
   },
@@ -11240,42 +11315,6 @@
   },
   {
    "id": "36_2514",
-   "marks": [],
-   "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02514 - Tax-exempt status.md",
-   "printed_pages": [
-    188,
-    188
-   ]
-  },
-  {
-   "id": "36_2515",
-   "marks": [],
-   "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02515 - Failure to comply with restrictions or provisions.md",
-   "printed_pages": [
-    188,
-    188
-   ]
-  },
-  {
-   "id": "36_-ch58",
-   "marks": [],
-   "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/README.md",
-   "printed_pages": [
-    188,
-    188
-   ]
-  },
-  {
-   "id": "36_2601",
-   "marks": [],
-   "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02601 - Recognition as corporation and grant of Federal charter.md",
-   "printed_pages": [
-    188,
-    188
-   ]
-  },
-  {
-   "id": "36_2602",
    "marks": [
     [
      "I",
@@ -11288,9 +11327,45 @@
      ]
     ]
    ],
-   "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02602 - Powers of corporation.md",
+   "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02514 - Tax-exempt status.md",
    "printed_pages": [
     188,
+    189
+   ]
+  },
+  {
+   "id": "36_2515",
+   "marks": [],
+   "path": "Chapter 057 - Polish Legion of American Veterans, U.S.A/§ 02515 - Failure to comply with restrictions or provisions.md",
+   "printed_pages": [
+    189,
+    189
+   ]
+  },
+  {
+   "id": "36_-ch58",
+   "marks": [],
+   "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/README.md",
+   "printed_pages": [
+    189,
+    189
+   ]
+  },
+  {
+   "id": "36_2601",
+   "marks": [],
+   "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02601 - Recognition as corporation and grant of Federal charter.md",
+   "printed_pages": [
+    189,
+    189
+   ]
+  },
+  {
+   "id": "36_2602",
+   "marks": [],
+   "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02602 - Powers of corporation.md",
+   "printed_pages": [
+    189,
     189
    ]
   },
@@ -11323,11 +11398,18 @@
   },
   {
    "id": "36_2606",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 190]",
+     true
+    ]
+   ],
    "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02606 - Board of directors.md",
    "printed_pages": [
     189,
-    189
+    190
    ]
   },
   {
@@ -11335,8 +11417,8 @@
    "marks": [],
    "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02607 - Officers.md",
    "printed_pages": [
-    189,
-    189
+    190,
+    190
    ]
   },
   {
@@ -11344,8 +11426,8 @@
    "marks": [],
    "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02608 - Restrictions.md",
    "printed_pages": [
-    189,
-    189
+    190,
+    190
    ]
   },
   {
@@ -11353,27 +11435,16 @@
    "marks": [],
    "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02609 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    189,
-    189
+    190,
+    190
    ]
   },
   {
    "id": "36_2610",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       270,
-       "[Page 190]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 058 - Catholic War Veterans of the United States of America, Inc/§ 02610 - Books and records; inspection.md",
    "printed_pages": [
-    189,
+    190,
     190
    ]
   },
@@ -11424,11 +11495,22 @@
   },
   {
    "id": "36_-ch59",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     21,
+     [
+      [
+       29,
+       "[Page 191]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/README.md",
    "printed_pages": [
     190,
-    190
+    191
    ]
   },
   {
@@ -11436,8 +11518,8 @@
    "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02701 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    190,
-    190
+    191,
+    191
    ]
   },
   {
@@ -11445,23 +11527,16 @@
    "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02702 - Powers of corporation.md",
    "printed_pages": [
-    190,
-    190
+    191,
+    191
    ]
   },
   {
    "id": "36_2703",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 191]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02703 - Objects and purposes of corporation.md",
    "printed_pages": [
-    190,
+    191,
     191
    ]
   },
@@ -11521,11 +11596,22 @@
   },
   {
    "id": "36_2710",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       271,
+       "[Page 192]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02710 - Books and records; inspection.md",
    "printed_pages": [
     191,
-    191
+    192
    ]
   },
   {
@@ -11533,8 +11619,8 @@
    "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02711 - Annual report.md",
    "printed_pages": [
-    191,
-    191
+    192,
+    192
    ]
   },
   {
@@ -11542,8 +11628,8 @@
    "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02712 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    191,
-    191
+    192,
+    192
    ]
   },
   {
@@ -11551,23 +11637,16 @@
    "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02713 - “State” defined.md",
    "printed_pages": [
-    191,
-    191
+    192,
+    192
    ]
   },
   {
    "id": "36_2714",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 192]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 059 - Jewish War Veterans of the United States of America, Inc/§ 02714 - Tax-exempt status.md",
    "printed_pages": [
-    191,
+    192,
     192
    ]
   },
@@ -11618,11 +11697,22 @@
   },
   {
    "id": "36_2804",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       140,
+       "[Page 193]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02804 - Service of process.md",
    "printed_pages": [
     192,
-    192
+    193
    ]
   },
   {
@@ -11630,8 +11720,8 @@
    "marks": [],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02805 - Membership.md",
    "printed_pages": [
-    192,
-    192
+    193,
+    193
    ]
   },
   {
@@ -11639,8 +11729,8 @@
    "marks": [],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02806 - Board of directors.md",
    "printed_pages": [
-    192,
-    192
+    193,
+    193
    ]
   },
   {
@@ -11648,23 +11738,16 @@
    "marks": [],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02807 - Officers.md",
    "printed_pages": [
-    192,
-    192
+    193,
+    193
    ]
   },
   {
    "id": "36_2808",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 193]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02808 - Restrictions.md",
    "printed_pages": [
-    192,
+    193,
     193
    ]
   },
@@ -11715,11 +11798,18 @@
   },
   {
    "id": "36_2814",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 194]",
+     true
+    ]
+   ],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02814 - Tax-exempt status.md",
    "printed_pages": [
     193,
-    193
+    194
    ]
   },
   {
@@ -11727,8 +11817,8 @@
    "marks": [],
    "path": "Chapter 060 - Navy Wives Clubs of America/§ 02815 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    193,
-    193
+    194,
+    194
    ]
   },
   {
@@ -11736,8 +11826,8 @@
    "marks": [],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/README.md",
    "printed_pages": [
-    193,
-    193
+    194,
+    194
    ]
   },
   {
@@ -11745,23 +11835,16 @@
    "marks": [],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/§ 02901 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    193,
-    193
+    194,
+    194
    ]
   },
   {
    "id": "36_2902",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 194]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/§ 02902 - Powers of corporation.md",
    "printed_pages": [
-    193,
+    194,
     194
    ]
   },
@@ -11812,11 +11895,18 @@
   },
   {
    "id": "36_2908",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 195]",
+     true
+    ]
+   ],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/§ 02908 - Restrictions.md",
    "printed_pages": [
     194,
-    194
+    195
    ]
   },
   {
@@ -11824,8 +11914,8 @@
    "marks": [],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/§ 02909 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    194,
-    194
+    195,
+    195
    ]
   },
   {
@@ -11833,27 +11923,16 @@
    "marks": [],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/§ 02910 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    194,
-    194
+    195,
+    195
    ]
   },
   {
    "id": "36_2911",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       506,
-       "[Page 195]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 061 - National Society, Daughters of the American Colonists/§ 02911 - Books and records; inspection.md",
    "printed_pages": [
-    194,
+    195,
     195
    ]
   },
@@ -11904,11 +11983,22 @@
   },
   {
    "id": "36_-ch62",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       29,
+       "[Page 196]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 062 - 369th Veterans’ Association/README.md",
    "printed_pages": [
     195,
-    195
+    196
    ]
   },
   {
@@ -11916,8 +12006,8 @@
    "marks": [],
    "path": "Chapter 062 - 369th Veterans’ Association/§ 03001 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    195,
-    195
+    196,
+    196
    ]
   },
   {
@@ -11925,8 +12015,8 @@
    "marks": [],
    "path": "Chapter 062 - 369th Veterans’ Association/§ 03002 - Powers of corporation.md",
    "printed_pages": [
-    195,
-    195
+    196,
+    196
    ]
   },
   {
@@ -11934,8 +12024,8 @@
    "marks": [],
    "path": "Chapter 062 - 369th Veterans’ Association/§ 03003 - Objects and purposes of corporation.md",
    "printed_pages": [
-    195,
-    195
+    196,
+    196
    ]
   },
   {
@@ -11943,27 +12033,16 @@
    "marks": [],
    "path": "Chapter 062 - 369th Veterans’ Association/§ 03004 - Service of process.md",
    "printed_pages": [
-    195,
-    195
+    196,
+    196
    ]
   },
   {
    "id": "36_3005",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 196]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 062 - 369th Veterans’ Association/§ 03005 - Membership; prohibition on discrimination.md",
    "printed_pages": [
-    195,
+    196,
     196
    ]
   },
@@ -12014,51 +12093,6 @@
   },
   {
    "id": "36_3011",
-   "marks": [],
-   "path": "Chapter 062 - 369th Veterans’ Association/§ 03011 - Annual report.md",
-   "printed_pages": [
-    196,
-    196
-   ]
-  },
-  {
-   "id": "36_3012",
-   "marks": [],
-   "path": "Chapter 062 - 369th Veterans’ Association/§ 03012 - Reservation of right to amend or repeal chapter.md",
-   "printed_pages": [
-    196,
-    196
-   ]
-  },
-  {
-   "id": "36_3013",
-   "marks": [],
-   "path": "Chapter 062 - 369th Veterans’ Association/§ 03013 - “State” defined.md",
-   "printed_pages": [
-    196,
-    196
-   ]
-  },
-  {
-   "id": "36_3014",
-   "marks": [],
-   "path": "Chapter 062 - 369th Veterans’ Association/§ 03014 - Tax-exempt status.md",
-   "printed_pages": [
-    196,
-    196
-   ]
-  },
-  {
-   "id": "36_3015",
-   "marks": [],
-   "path": "Chapter 062 - 369th Veterans’ Association/§ 03015 - Exclusive right to name, emblems, seals, and badges.md",
-   "printed_pages": [
-    196,
-    196
-   ]
-  },
-  {
-   "id": "36_3016",
    "marks": [
     [
      "I",
@@ -12071,9 +12105,54 @@
      ]
     ]
    ],
-   "path": "Chapter 062 - 369th Veterans’ Association/§ 03016 - Failure to comply with restrictions or provisions.md",
+   "path": "Chapter 062 - 369th Veterans’ Association/§ 03011 - Annual report.md",
    "printed_pages": [
     196,
+    197
+   ]
+  },
+  {
+   "id": "36_3012",
+   "marks": [],
+   "path": "Chapter 062 - 369th Veterans’ Association/§ 03012 - Reservation of right to amend or repeal chapter.md",
+   "printed_pages": [
+    197,
+    197
+   ]
+  },
+  {
+   "id": "36_3013",
+   "marks": [],
+   "path": "Chapter 062 - 369th Veterans’ Association/§ 03013 - “State” defined.md",
+   "printed_pages": [
+    197,
+    197
+   ]
+  },
+  {
+   "id": "36_3014",
+   "marks": [],
+   "path": "Chapter 062 - 369th Veterans’ Association/§ 03014 - Tax-exempt status.md",
+   "printed_pages": [
+    197,
+    197
+   ]
+  },
+  {
+   "id": "36_3015",
+   "marks": [],
+   "path": "Chapter 062 - 369th Veterans’ Association/§ 03015 - Exclusive right to name, emblems, seals, and badges.md",
+   "printed_pages": [
+    197,
+    197
+   ]
+  },
+  {
+   "id": "36_3016",
+   "marks": [],
+   "path": "Chapter 062 - 369th Veterans’ Association/§ 03016 - Failure to comply with restrictions or provisions.md",
+   "printed_pages": [
+    197,
     197
    ]
   },
@@ -12124,11 +12203,22 @@
   },
   {
    "id": "36_3105",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 198]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 063 - Women's Army Corps Veterans’ Association/§ 03105 - Membership.md",
    "printed_pages": [
     197,
-    197
+    198
    ]
   },
   {
@@ -12136,8 +12226,8 @@
    "marks": [],
    "path": "Chapter 063 - Women's Army Corps Veterans’ Association/§ 03106 - Board of directors.md",
    "printed_pages": [
-    197,
-    197
+    198,
+    198
    ]
   },
   {
@@ -12145,23 +12235,16 @@
    "marks": [],
    "path": "Chapter 063 - Women's Army Corps Veterans’ Association/§ 03107 - Officers.md",
    "printed_pages": [
-    197,
-    197
+    198,
+    198
    ]
   },
   {
    "id": "36_3108",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 198]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 063 - Women's Army Corps Veterans’ Association/§ 03108 - Restrictions.md",
    "printed_pages": [
-    197,
+    198,
     198
    ]
   },
@@ -12230,11 +12313,22 @@
   },
   {
    "id": "36_-ch64",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       78,
+       "[Page 199]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 064 - American Chemical Society/README.md",
    "printed_pages": [
     198,
-    198
+    199
    ]
   },
   {
@@ -12242,8 +12336,8 @@
    "marks": [],
    "path": "Chapter 064 - American Chemical Society/§ 03201 - Corporation created.md",
    "printed_pages": [
-    198,
-    198
+    199,
+    199
    ]
   },
   {
@@ -12251,27 +12345,16 @@
    "marks": [],
    "path": "Chapter 064 - American Chemical Society/§ 03202 - Objects of corporation.md",
    "printed_pages": [
-    198,
-    198
+    199,
+    199
    ]
   },
   {
    "id": "36_3203",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       376,
-       "[Page 199]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 064 - American Chemical Society/§ 03203 - Powers of corporation.md",
    "printed_pages": [
-    198,
+    199,
     199
    ]
   },
@@ -12295,11 +12378,22 @@
   },
   {
    "id": "36_3206",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1044,
+       "[Page 200]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 064 - American Chemical Society/§ 03206 - Completion of organization.md",
    "printed_pages": [
     199,
-    199
+    200
    ]
   },
   {
@@ -12307,8 +12401,8 @@
    "marks": [],
    "path": "Chapter 064 - American Chemical Society/§ 03207 - Rights of creditors.md",
    "printed_pages": [
-    199,
-    199
+    200,
+    200
    ]
   },
   {
@@ -12316,8 +12410,8 @@
    "marks": [],
    "path": "Chapter 064 - American Chemical Society/§ 03208 - Annual report.md",
    "printed_pages": [
-    199,
-    199
+    200,
+    200
    ]
   },
   {
@@ -12325,27 +12419,16 @@
    "marks": [],
    "path": "Chapter 064 - American Chemical Society/§ 03209 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    199,
-    199
+    200,
+    200
    ]
   },
   {
    "id": "36_-ch65",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       31,
-       "[Page 200]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 065 - The American National Theater and Academy/README.md",
    "printed_pages": [
-    199,
+    200,
     200
    ]
   },
@@ -12360,42 +12443,6 @@
   },
   {
    "id": "36_3302",
-   "marks": [],
-   "path": "Chapter 065 - The American National Theater and Academy/§ 03302 - Nonprofit and without capital stock; purposes of corporation.md",
-   "printed_pages": [
-    200,
-    200
-   ]
-  },
-  {
-   "id": "36_3303",
-   "marks": [],
-   "path": "Chapter 065 - The American National Theater and Academy/§ 03303 - Powers of corporation.md",
-   "printed_pages": [
-    200,
-    200
-   ]
-  },
-  {
-   "id": "36_3304",
-   "marks": [],
-   "path": "Chapter 065 - The American National Theater and Academy/§ 03304 - Nonpolitical nature of corporation.md",
-   "printed_pages": [
-    200,
-    200
-   ]
-  },
-  {
-   "id": "36_3305",
-   "marks": [],
-   "path": "Chapter 065 - The American National Theater and Academy/§ 03305 - Exclusive right to name.md",
-   "printed_pages": [
-    200,
-    200
-   ]
-  },
-  {
-   "id": "36_3306",
    "marks": [
     [
      "L",
@@ -12404,9 +12451,45 @@
      true
     ]
    ],
-   "path": "Chapter 065 - The American National Theater and Academy/§ 03306 - Headquarters.md",
+   "path": "Chapter 065 - The American National Theater and Academy/§ 03302 - Nonprofit and without capital stock; purposes of corporation.md",
    "printed_pages": [
     200,
+    201
+   ]
+  },
+  {
+   "id": "36_3303",
+   "marks": [],
+   "path": "Chapter 065 - The American National Theater and Academy/§ 03303 - Powers of corporation.md",
+   "printed_pages": [
+    201,
+    201
+   ]
+  },
+  {
+   "id": "36_3304",
+   "marks": [],
+   "path": "Chapter 065 - The American National Theater and Academy/§ 03304 - Nonpolitical nature of corporation.md",
+   "printed_pages": [
+    201,
+    201
+   ]
+  },
+  {
+   "id": "36_3305",
+   "marks": [],
+   "path": "Chapter 065 - The American National Theater and Academy/§ 03305 - Exclusive right to name.md",
+   "printed_pages": [
+    201,
+    201
+   ]
+  },
+  {
+   "id": "36_3306",
+   "marks": [],
+   "path": "Chapter 065 - The American National Theater and Academy/§ 03306 - Headquarters.md",
+   "printed_pages": [
+    201,
     201
    ]
   },
@@ -12448,30 +12531,30 @@
   },
   {
    "id": "36_-ch66",
-   "marks": [],
-   "path": "Chapter 066 - American Symphony Orchestra League/README.md",
-   "printed_pages": [
-    201,
-    201
-   ]
-  },
-  {
-   "id": "36_3401",
    "marks": [
     [
      "I",
-     94,
+     23,
      [
       [
-       93,
+       73,
        "[Page 202]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 066 - American Symphony Orchestra League/§ 03401 - Corporation created.md",
+   "path": "Chapter 066 - American Symphony Orchestra League/README.md",
    "printed_pages": [
     201,
+    202
+   ]
+  },
+  {
+   "id": "36_3401",
+   "marks": [],
+   "path": "Chapter 066 - American Symphony Orchestra League/§ 03401 - Corporation created.md",
+   "printed_pages": [
+    202,
     202
    ]
   },
@@ -12495,11 +12578,18 @@
   },
   {
    "id": "36_3404",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 203]",
+     true
+    ]
+   ],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03404 - Powers of corporation.md",
    "printed_pages": [
     202,
-    202
+    203
    ]
   },
   {
@@ -12507,8 +12597,8 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03405 - Principal office; territorial scope of activities; service of process; authorized agent in District of Columbia.md",
    "printed_pages": [
-    202,
-    202
+    203,
+    203
    ]
   },
   {
@@ -12516,23 +12606,16 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03406 - Membership; voting rights.md",
    "printed_pages": [
-    202,
-    202
+    203,
+    203
    ]
   },
   {
    "id": "36_3407",
-   "marks": [
-    [
-     "L",
-     46,
-     "[Page 203]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03407 - Board of directors.md",
    "printed_pages": [
-    202,
+    203,
     203
    ]
   },
@@ -12565,11 +12648,18 @@
   },
   {
    "id": "36_3411",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 204]",
+     true
+    ]
+   ],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03411 - Liability for acts of officers or agents.md",
    "printed_pages": [
     203,
-    203
+    204
    ]
   },
   {
@@ -12577,8 +12667,8 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03412 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    203,
-    203
+    204,
+    204
    ]
   },
   {
@@ -12586,8 +12676,8 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03413 - Books and records; inspection.md",
    "printed_pages": [
-    203,
-    203
+    204,
+    204
    ]
   },
   {
@@ -12595,8 +12685,8 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03414 - Repealed. Pub. L. 88–504, §4(37), Aug. 30, 1964, 78 Stat. 648.md",
    "printed_pages": [
-    203,
-    203
+    204,
+    204
    ]
   },
   {
@@ -12604,8 +12694,8 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03415 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    203,
-    203
+    204,
+    204
    ]
   },
   {
@@ -12613,27 +12703,16 @@
    "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03416 - Exclusive right to name, emblems, seals, and badges.md",
    "printed_pages": [
-    203,
-    203
+    204,
+    204
    ]
   },
   {
    "id": "36_3417",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       231,
-       "[Page 204]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 066 - American Symphony Orchestra League/§ 03417 - Acquisition of assets and liabilities of existing corporation.md",
    "printed_pages": [
-    203,
+    204,
     204
    ]
   },
@@ -12657,11 +12736,22 @@
   },
   {
    "id": "36_3501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       370,
+       "[Page 205]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 067 - General Federation of Women's Clubs/§ 03501 - Corporation created.md",
    "printed_pages": [
     204,
-    204
+    205
    ]
   },
   {
@@ -12669,27 +12759,16 @@
    "marks": [],
    "path": "Chapter 067 - General Federation of Women's Clubs/§ 03502 - Acquisition of property by devise, bequest, donation, or otherwise.md",
    "printed_pages": [
-    204,
-    204
+    205,
+    205
    ]
   },
   {
    "id": "36_3503",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       232,
-       "[Page 205]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 067 - General Federation of Women's Clubs/§ 03503 - Constitution; bylaws; headquarters.md",
    "printed_pages": [
-    204,
+    205,
     205
    ]
   },
@@ -12722,11 +12801,22 @@
   },
   {
    "id": "36_3602",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       93,
+       "[Page 206]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03602 - Powers of corporation.md",
    "printed_pages": [
     205,
-    205
+    206
    ]
   },
   {
@@ -12734,8 +12824,8 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03603 - Objects and purposes of corporation.md",
    "printed_pages": [
-    205,
-    205
+    206,
+    206
    ]
   },
   {
@@ -12743,27 +12833,16 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03604 - Service of process.md",
    "printed_pages": [
-    205,
-    205
+    206,
+    206
    ]
   },
   {
    "id": "36_3605",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       235,
-       "[Page 206]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03605 - Membership; prohibition on discrimination.md",
    "printed_pages": [
-    205,
+    206,
     206
    ]
   },
@@ -12805,11 +12884,22 @@
   },
   {
    "id": "36_3610",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       323,
+       "[Page 207]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03610 - Books and records; inspection.md",
    "printed_pages": [
     206,
-    206
+    207
    ]
   },
   {
@@ -12817,8 +12907,8 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03611 - Annual report.md",
    "printed_pages": [
-    206,
-    206
+    207,
+    207
    ]
   },
   {
@@ -12826,8 +12916,8 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03612 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    206,
-    206
+    207,
+    207
    ]
   },
   {
@@ -12835,8 +12925,8 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03613 - “State” defined.md",
    "printed_pages": [
-    206,
-    206
+    207,
+    207
    ]
   },
   {
@@ -12844,8 +12934,8 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03614 - Tax-exempt status.md",
    "printed_pages": [
-    206,
-    206
+    207,
+    207
    ]
   },
   {
@@ -12853,23 +12943,16 @@
    "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03615 - Exclusive right to name, seals, emblems, and badges.md",
    "printed_pages": [
-    206,
-    206
+    207,
+    207
    ]
   },
   {
    "id": "36_3616",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 207]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 068 - Pearl Harbor Survivors Association/§ 03616 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    206,
+    207,
     207
    ]
   },
@@ -12902,11 +12985,22 @@
   },
   {
    "id": "36_3703",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       91,
+       "[Page 208]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03703 - Objects and purposes of corporation.md",
    "printed_pages": [
     207,
-    207
+    208
    ]
   },
   {
@@ -12914,8 +13008,8 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03704 - Service of process.md",
    "printed_pages": [
-    207,
-    207
+    208,
+    208
    ]
   },
   {
@@ -12923,8 +13017,8 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03705 - Membership.md",
    "printed_pages": [
-    207,
-    207
+    208,
+    208
    ]
   },
   {
@@ -12932,23 +13026,16 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03706 - Board of directors.md",
    "printed_pages": [
-    207,
-    207
+    208,
+    208
    ]
   },
   {
    "id": "36_3707",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 208]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03707 - Officers.md",
    "printed_pages": [
-    207,
+    208,
     208
    ]
   },
@@ -12981,11 +13068,22 @@
   },
   {
    "id": "36_3711",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       110,
+       "[Page 209]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03711 - Annual report.md",
    "printed_pages": [
     208,
-    208
+    209
    ]
   },
   {
@@ -12993,8 +13091,8 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03712 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    208,
-    208
+    209,
+    209
    ]
   },
   {
@@ -13002,8 +13100,8 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03713 - “State” defined.md",
    "printed_pages": [
-    208,
-    208
+    209,
+    209
    ]
   },
   {
@@ -13011,8 +13109,8 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03714 - Tax-exempt status.md",
    "printed_pages": [
-    208,
-    208
+    209,
+    209
    ]
   },
   {
@@ -13020,27 +13118,16 @@
    "marks": [],
    "path": "Chapter 069 - Daughters of Union Veterans of the Civil War 1861–1865/§ 03715 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    208,
-    208
+    209,
+    209
    ]
   },
   {
    "id": "36_-ch70",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       14,
-       "[Page 209]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/README.md",
    "printed_pages": [
-    208,
+    209,
     209
    ]
   },
@@ -13073,11 +13160,18 @@
   },
   {
    "id": "36_3804",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 210]",
+     true
+    ]
+   ],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03804 - Service of process.md",
    "printed_pages": [
     209,
-    209
+    210
    ]
   },
   {
@@ -13085,8 +13179,8 @@
    "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03805 - Membership.md",
    "printed_pages": [
-    209,
-    209
+    210,
+    210
    ]
   },
   {
@@ -13094,8 +13188,8 @@
    "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03806 - Board of directors.md",
    "printed_pages": [
-    209,
-    209
+    210,
+    210
    ]
   },
   {
@@ -13103,8 +13197,8 @@
    "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03807 - Officers.md",
    "printed_pages": [
-    209,
-    209
+    210,
+    210
    ]
   },
   {
@@ -13112,23 +13206,16 @@
    "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03808 - Prohibition on discrimination.md",
    "printed_pages": [
-    209,
-    209
+    210,
+    210
    ]
   },
   {
    "id": "36_3809",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 210]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03809 - Restrictions.md",
    "printed_pages": [
-    209,
+    210,
     210
    ]
   },
@@ -13188,11 +13275,22 @@
   },
   {
    "id": "36_3816",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       174,
+       "[Page 211]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03816 - Exclusive right to name, seals, emblems, and badges.md",
    "printed_pages": [
     210,
-    210
+    211
    ]
   },
   {
@@ -13200,8 +13298,8 @@
    "marks": [],
    "path": "Chapter 070 - Vietnam Veterans of America, Inc/§ 03817 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    210,
-    210
+    211,
+    211
    ]
   },
   {
@@ -13209,8 +13307,8 @@
    "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/README.md",
    "printed_pages": [
-    210,
-    210
+    211,
+    211
    ]
   },
   {
@@ -13218,8 +13316,8 @@
    "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03901 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    210,
-    210
+    211,
+    211
    ]
   },
   {
@@ -13227,23 +13325,16 @@
    "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03902 - Powers of corporation.md",
    "printed_pages": [
-    210,
-    210
+    211,
+    211
    ]
   },
   {
    "id": "36_3903",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 211]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03903 - Objects and purposes of corporation.md",
    "printed_pages": [
-    210,
+    211,
     211
    ]
   },
@@ -13285,11 +13376,18 @@
   },
   {
    "id": "36_3908",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 212]",
+     true
+    ]
+   ],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03908 - Restrictions.md",
    "printed_pages": [
     211,
-    211
+    212
    ]
   },
   {
@@ -13297,8 +13395,8 @@
    "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03909 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    211,
-    211
+    212,
+    212
    ]
   },
   {
@@ -13306,27 +13404,16 @@
    "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03910 - Books and records; inspection.md",
    "printed_pages": [
-    211,
-    211
+    212,
+    212
    ]
   },
   {
    "id": "36_3911",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       215,
-       "[Page 212]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 071 - Army and Navy Union of the United States of America/§ 03911 - Annual report.md",
    "printed_pages": [
-    211,
+    212,
     212
    ]
   },
@@ -13386,11 +13473,22 @@
   },
   {
    "id": "36_4002",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 213]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04002 - Powers of corporation.md",
    "printed_pages": [
     212,
-    212
+    213
    ]
   },
   {
@@ -13398,8 +13496,8 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04003 - Objects and purposes of corporation.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
@@ -13407,8 +13505,8 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04004 - Service of process.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
@@ -13416,8 +13514,8 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04005 - Membership.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
@@ -13425,27 +13523,16 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04006 - Board of directors.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
    "id": "36_4007",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       98,
-       "[Page 213]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04007 - Officers.md",
    "printed_pages": [
-    212,
+    213,
     213
    ]
   },
@@ -13487,11 +13574,22 @@
   },
   {
    "id": "36_4012",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 214]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04012 - Annual report.md",
    "printed_pages": [
     213,
-    213
+    214
    ]
   },
   {
@@ -13499,8 +13597,8 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04013 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    213,
-    213
+    214,
+    214
    ]
   },
   {
@@ -13508,8 +13606,8 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04014 - “State” defined.md",
    "printed_pages": [
-    213,
-    213
+    214,
+    214
    ]
   },
   {
@@ -13517,8 +13615,8 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04015 - Tax-exempt status.md",
    "printed_pages": [
-    213,
-    213
+    214,
+    214
    ]
   },
   {
@@ -13526,23 +13624,16 @@
    "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04016 - Exclusive right to names, seals, emblems, and badges.md",
    "printed_pages": [
-    213,
-    213
+    214,
+    214
    ]
   },
   {
    "id": "36_4017",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 214]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 072 - Non Commissioned Officers Association of the United States of America, Inc/§ 04017 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    213,
+    214,
     214
    ]
   },
@@ -13575,11 +13666,18 @@
   },
   {
    "id": "36_4103",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 215]",
+     true
+    ]
+   ],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04103 - Objects and purposes of corporation.md",
    "printed_pages": [
     214,
-    214
+    215
    ]
   },
   {
@@ -13587,8 +13685,8 @@
    "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04104 - Membership.md",
    "printed_pages": [
-    214,
-    214
+    215,
+    215
    ]
   },
   {
@@ -13596,8 +13694,8 @@
    "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04105 - Board of directors.md",
    "printed_pages": [
-    214,
-    214
+    215,
+    215
    ]
   },
   {
@@ -13605,23 +13703,16 @@
    "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04106 - Officers.md",
    "printed_pages": [
-    214,
-    214
+    215,
+    215
    ]
   },
   {
    "id": "36_4107",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 215]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04107 - Restrictions.md",
    "printed_pages": [
-    214,
+    215,
     215
    ]
   },
@@ -13663,11 +13754,18 @@
   },
   {
    "id": "36_4112",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 216]",
+     true
+    ]
+   ],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04112 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
     215,
-    215
+    216
    ]
   },
   {
@@ -13675,8 +13773,8 @@
    "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04113 - “State” defined.md",
    "printed_pages": [
-    215,
-    215
+    216,
+    216
    ]
   },
   {
@@ -13684,8 +13782,8 @@
    "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04114 - Tax-exempt status.md",
    "printed_pages": [
-    215,
-    215
+    216,
+    216
    ]
   },
   {
@@ -13693,8 +13791,8 @@
    "marks": [],
    "path": "Chapter 073 - National Mining Hall of Fame and Museum/§ 04115 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    215,
-    215
+    216,
+    216
    ]
   },
   {
@@ -13702,27 +13800,16 @@
    "marks": [],
    "path": "Chapter 074 - American Academy of Arts and Letters/README.md",
    "printed_pages": [
-    215,
-    215
+    216,
+    216
    ]
   },
   {
    "id": "36_4201",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       834,
-       "[Page 216]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 074 - American Academy of Arts and Letters/§ 04201 - Corporation created.md",
    "printed_pages": [
-    215,
+    216,
     216
    ]
   },
@@ -13773,30 +13860,30 @@
   },
   {
    "id": "36_-ch75",
-   "marks": [],
-   "path": "Chapter 075 - Aviation Hall of Fame/README.md",
-   "printed_pages": [
-    216,
-    216
-   ]
-  },
-  {
-   "id": "36_4301",
    "marks": [
     [
      "I",
-     2,
+     7,
      [
       [
-       1767,
+       33,
        "[Page 217]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 075 - Aviation Hall of Fame/§ 04301 - Corporation created.md",
+   "path": "Chapter 075 - Aviation Hall of Fame/README.md",
    "printed_pages": [
     216,
+    217
+   ]
+  },
+  {
+   "id": "36_4301",
+   "marks": [],
+   "path": "Chapter 075 - Aviation Hall of Fame/§ 04301 - Corporation created.md",
+   "printed_pages": [
+    217,
     217
    ]
   },
@@ -13811,11 +13898,18 @@
   },
   {
    "id": "36_4303",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 218]",
+     true
+    ]
+   ],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04303 - Purposes of corporation.md",
    "printed_pages": [
     217,
-    217
+    218
    ]
   },
   {
@@ -13823,8 +13917,8 @@
    "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04304 - Powers of corporation.md",
    "printed_pages": [
-    217,
-    217
+    218,
+    218
    ]
   },
   {
@@ -13832,27 +13926,16 @@
    "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04305 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    217,
-    217
+    218,
+    218
    ]
   },
   {
    "id": "36_4306",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 218]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04306 - Membership; voting rights.md",
    "printed_pages": [
-    217,
+    218,
     218
    ]
   },
@@ -13885,11 +13968,22 @@
   },
   {
    "id": "36_4310",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       136,
+       "[Page 219]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04310 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
     218,
-    218
+    219
    ]
   },
   {
@@ -13897,8 +13991,8 @@
    "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04311 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    218,
-    218
+    219,
+    219
    ]
   },
   {
@@ -13906,8 +14000,8 @@
    "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04312 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    218,
-    218
+    219,
+    219
    ]
   },
   {
@@ -13915,8 +14009,8 @@
    "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04313 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    218,
-    218
+    219,
+    219
    ]
   },
   {
@@ -13924,27 +14018,16 @@
    "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04314 - Books and records; inspection.md",
    "printed_pages": [
-    218,
-    218
+    219,
+    219
    ]
   },
   {
    "id": "36_4315",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 219]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 075 - Aviation Hall of Fame/§ 04315 - Audit of financial transactions.md",
    "printed_pages": [
-    218,
+    219,
     219
    ]
   },
@@ -13977,11 +14060,22 @@
   },
   {
    "id": "36_-ch76",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       38,
+       "[Page 220]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/README.md",
    "printed_pages": [
     219,
-    219
+    220
    ]
   },
   {
@@ -13989,27 +14083,16 @@
    "marks": [],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04401 - Corporation created; objects and purposes.md",
    "printed_pages": [
-    219,
-    219
+    220,
+    220
    ]
   },
   {
    "id": "36_4402",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1275,
-       "[Page 220]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04402 - Powers of corporation.md",
    "printed_pages": [
-    219,
+    220,
     220
    ]
   },
@@ -14024,11 +14107,18 @@
   },
   {
    "id": "36_4404",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 221]",
+     true
+    ]
+   ],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04404 - Board of trustees.md",
    "printed_pages": [
     220,
-    220
+    221
    ]
   },
   {
@@ -14036,8 +14126,8 @@
    "marks": [],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04405 - Misnomer not to affect grant, donation, gift, devise, or bequest.md",
    "printed_pages": [
-    220,
-    220
+    221,
+    221
    ]
   },
   {
@@ -14045,8 +14135,8 @@
    "marks": [],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04406 - Monument.md",
    "printed_pages": [
-    220,
-    220
+    221,
+    221
    ]
   },
   {
@@ -14054,8 +14144,8 @@
    "marks": [],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04407 - Exemption from certain taxes.md",
    "printed_pages": [
-    220,
-    220
+    221,
+    221
    ]
   },
   {
@@ -14063,27 +14153,16 @@
    "marks": [],
    "path": "Chapter 076 - Frederick Douglass Memorial and Historical Association/§ 04408 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    220,
-    220
+    221,
+    221
    ]
   },
   {
    "id": "36_-ch77",
-   "marks": [
-    [
-     "I",
-     22,
-     [
-      [
-       73,
-       "[Page 221]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/README.md",
    "printed_pages": [
-    220,
+    221,
     221
    ]
   },
@@ -14098,11 +14177,22 @@
   },
   {
    "id": "36_4502",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       143,
+       "[Page 222]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04502 - Completion of organization.md",
    "printed_pages": [
     221,
-    221
+    222
    ]
   },
   {
@@ -14110,23 +14200,16 @@
    "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04503 - Objects and purposes of corporation.md",
    "printed_pages": [
-    221,
-    221
+    222,
+    222
    ]
   },
   {
    "id": "36_4504",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 222]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04504 - Powers of corporation.md",
    "printed_pages": [
-    221,
+    222,
     222
    ]
   },
@@ -14159,11 +14242,22 @@
   },
   {
    "id": "36_4508",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       139,
+       "[Page 223]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04508 - Officers.md",
    "printed_pages": [
     222,
-    222
+    223
    ]
   },
   {
@@ -14171,8 +14265,8 @@
    "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04509 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    222,
-    222
+    223,
+    223
    ]
   },
   {
@@ -14180,8 +14274,8 @@
    "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04510 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    222,
-    222
+    223,
+    223
    ]
   },
   {
@@ -14189,8 +14283,8 @@
    "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04511 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    222,
-    222
+    223,
+    223
    ]
   },
   {
@@ -14198,8 +14292,8 @@
    "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04512 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    222,
-    222
+    223,
+    223
    ]
   },
   {
@@ -14207,27 +14301,16 @@
    "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04513 - Books and records; inspection.md",
    "printed_pages": [
-    222,
-    222
+    223,
+    223
    ]
   },
   {
    "id": "36_4514",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 223]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04514 - Audit of financial transactions.md",
    "printed_pages": [
-    222,
+    223,
     223
    ]
   },
@@ -14251,11 +14334,18 @@
   },
   {
    "id": "36_4517",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 224]",
+     true
+    ]
+   ],
    "path": "Chapter 077 - National Council on Radiation Protection and Measurements/§ 04517 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
     223,
-    223
+    224
    ]
   },
   {
@@ -14263,8 +14353,8 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/README.md",
    "printed_pages": [
-    223,
-    223
+    224,
+    224
    ]
   },
   {
@@ -14272,23 +14362,16 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04601 - Corporation created.md",
    "printed_pages": [
-    223,
-    223
+    224,
+    224
    ]
   },
   {
    "id": "36_4602",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 224]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04602 - Completion of organization.md",
    "printed_pages": [
-    223,
+    224,
     224
    ]
   },
@@ -14303,11 +14386,22 @@
   },
   {
    "id": "36_4604",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       142,
+       "[Page 225]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04604 - Powers of corporation.md",
    "printed_pages": [
     224,
-    224
+    225
    ]
   },
   {
@@ -14315,8 +14409,8 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04605 - Board of trustees.md",
    "printed_pages": [
-    224,
-    224
+    225,
+    225
    ]
   },
   {
@@ -14324,23 +14418,16 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04606 - Officers.md",
    "printed_pages": [
-    224,
-    224
+    225,
+    225
    ]
   },
   {
    "id": "36_4607",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 225]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04607 - Principal office; territorial scope of activities; agent for service of process.md",
    "printed_pages": [
-    224,
+    225,
     225
    ]
   },
@@ -14373,11 +14460,22 @@
   },
   {
    "id": "36_4611",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 226]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04611 - Books and records; inspection.md",
    "printed_pages": [
     225,
-    225
+    226
    ]
   },
   {
@@ -14385,8 +14483,8 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04612 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    225,
-    225
+    226,
+    226
    ]
   },
   {
@@ -14394,8 +14492,8 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04613 - Distribution of income or assets to members; loans.md",
    "printed_pages": [
-    225,
-    225
+    226,
+    226
    ]
   },
   {
@@ -14403,23 +14501,16 @@
    "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04614 - Use of assets on dissolution or liquidation.md",
    "printed_pages": [
-    225,
-    225
+    226,
+    226
    ]
   },
   {
    "id": "36_4615",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 226]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 078 - National Tropical Botanical Garden/§ 04615 - Nonpolitical nature of corporation.md",
    "printed_pages": [
-    225,
+    226,
     226
    ]
   },
@@ -14452,30 +14543,30 @@
   },
   {
    "id": "36_4701",
-   "marks": [],
-   "path": "Chapter 079 - Theodore Roosevelt Association/§ 04701 - Corporation created.md",
-   "printed_pages": [
-    226,
-    226
-   ]
-  },
-  {
-   "id": "36_4702",
    "marks": [
     [
      "I",
      2,
      [
       [
-       379,
+       1619,
        "[Page 227]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 079 - Theodore Roosevelt Association/§ 04702 - Name and powers of corporation.md",
+   "path": "Chapter 079 - Theodore Roosevelt Association/§ 04701 - Corporation created.md",
    "printed_pages": [
     226,
+    227
+   ]
+  },
+  {
+   "id": "36_4702",
+   "marks": [],
+   "path": "Chapter 079 - Theodore Roosevelt Association/§ 04702 - Name and powers of corporation.md",
+   "printed_pages": [
+    227,
     227
    ]
   },
@@ -14490,11 +14581,22 @@
   },
   {
    "id": "36_4704",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 228]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 079 - Theodore Roosevelt Association/§ 04704 - Board of trustees; powers.md",
    "printed_pages": [
     227,
-    227
+    228
    ]
   },
   {
@@ -14502,8 +14604,8 @@
    "marks": [],
    "path": "Chapter 079 - Theodore Roosevelt Association/§ 04705 - Prohibition against issuance of stock or payment of dividends.md",
    "printed_pages": [
-    227,
-    227
+    228,
+    228
    ]
   },
   {
@@ -14511,27 +14613,16 @@
    "marks": [],
    "path": "Chapter 079 - Theodore Roosevelt Association/§ 04706 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    227,
-    227
+    228,
+    228
    ]
   },
   {
    "id": "36_4707",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       128,
-       "[Page 228]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 079 - Theodore Roosevelt Association/§ 04707 - Consolidation.md",
    "printed_pages": [
-    227,
+    228,
     228
    ]
   },
@@ -14564,11 +14655,18 @@
   },
   {
    "id": "36_4803",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 229]",
+     true
+    ]
+   ],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04803 - Objects and purposes of corporation.md",
    "printed_pages": [
     228,
-    228
+    229
    ]
   },
   {
@@ -14576,8 +14674,8 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04804 - Service of process.md",
    "printed_pages": [
-    228,
-    228
+    229,
+    229
    ]
   },
   {
@@ -14585,8 +14683,8 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04805 - Membership.md",
    "printed_pages": [
-    228,
-    228
+    229,
+    229
    ]
   },
   {
@@ -14594,8 +14692,8 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04806 - Board of directors.md",
    "printed_pages": [
-    228,
-    228
+    229,
+    229
    ]
   },
   {
@@ -14603,23 +14701,16 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04807 - Officers.md",
    "printed_pages": [
-    228,
-    228
+    229,
+    229
    ]
   },
   {
    "id": "36_4808",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 229]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04808 - Restrictions.md",
    "printed_pages": [
-    228,
+    229,
     229
    ]
   },
@@ -14652,11 +14743,18 @@
   },
   {
    "id": "36_4812",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 230]",
+     true
+    ]
+   ],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04812 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
     229,
-    229
+    230
    ]
   },
   {
@@ -14664,8 +14762,8 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04813 - “State” defined.md",
    "printed_pages": [
-    229,
-    229
+    230,
+    230
    ]
   },
   {
@@ -14673,8 +14771,8 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04814 - Tax-exempt status.md",
    "printed_pages": [
-    229,
-    229
+    230,
+    230
    ]
   },
   {
@@ -14682,8 +14780,8 @@
    "marks": [],
    "path": "Chapter 080 - 82nd Airborne Division Association, Inc/§ 04815 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    229,
-    229
+    230,
+    230
    ]
   },
   {
@@ -14691,8 +14789,8 @@
    "marks": [],
    "path": "Chapter 081 - American Hospital of Paris/README.md",
    "printed_pages": [
-    229,
-    229
+    230,
+    230
    ]
   },
   {
@@ -14700,23 +14798,16 @@
    "marks": [],
    "path": "Chapter 081 - American Hospital of Paris/§ 04901 - Corporation created.md",
    "printed_pages": [
-    229,
-    229
+    230,
+    230
    ]
   },
   {
    "id": "36_4902",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 230]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 081 - American Hospital of Paris/§ 04902 - Powers of corporation.md",
    "printed_pages": [
-    229,
+    230,
     230
    ]
   },
@@ -14749,11 +14840,22 @@
   },
   {
    "id": "36_4906",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       423,
+       "[Page 231]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 081 - American Hospital of Paris/§ 04906 - Completion of organization; officers; tenure.md",
    "printed_pages": [
     230,
-    230
+    231
    ]
   },
   {
@@ -14761,8 +14863,8 @@
    "marks": [],
    "path": "Chapter 081 - American Hospital of Paris/§ 04907 - Duties of board.md",
    "printed_pages": [
-    230,
-    230
+    231,
+    231
    ]
   },
   {
@@ -14770,23 +14872,16 @@
    "marks": [],
    "path": "Chapter 081 - American Hospital of Paris/§ 04908 - Quorum requirement.md",
    "printed_pages": [
-    230,
-    230
+    231,
+    231
    ]
   },
   {
    "id": "36_4909",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 231]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 081 - American Hospital of Paris/§ 04909 - Duration of corporation.md",
    "printed_pages": [
-    230,
+    231,
     231
    ]
   },
@@ -14828,11 +14923,18 @@
   },
   {
    "id": "36_5003",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 232]",
+     true
+    ]
+   ],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05003 - Objects and purposes of corporation.md",
    "printed_pages": [
     231,
-    231
+    232
    ]
   },
   {
@@ -14840,8 +14942,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05004 - Service of process.md",
    "printed_pages": [
-    231,
-    231
+    232,
+    232
    ]
   },
   {
@@ -14849,8 +14951,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05005 - Membership.md",
    "printed_pages": [
-    231,
-    231
+    232,
+    232
    ]
   },
   {
@@ -14858,8 +14960,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05006 - Board of directors.md",
    "printed_pages": [
-    231,
-    231
+    232,
+    232
    ]
   },
   {
@@ -14867,8 +14969,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05007 - Officers.md",
    "printed_pages": [
-    231,
-    231
+    232,
+    232
    ]
   },
   {
@@ -14876,23 +14978,16 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05008 - Prohibition on discrimination.md",
    "printed_pages": [
-    231,
-    231
+    232,
+    232
    ]
   },
   {
    "id": "36_5009",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 232]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05009 - Restrictions.md",
    "printed_pages": [
-    231,
+    232,
     232
    ]
   },
@@ -14925,11 +15020,18 @@
   },
   {
    "id": "36_5013",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 233]",
+     true
+    ]
+   ],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05013 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
     232,
-    232
+    233
    ]
   },
   {
@@ -14937,8 +15039,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05014 - Tax-exempt status.md",
    "printed_pages": [
-    232,
-    232
+    233,
+    233
    ]
   },
   {
@@ -14946,8 +15048,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05015 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    232,
-    232
+    233,
+    233
    ]
   },
   {
@@ -14955,8 +15057,8 @@
    "marks": [],
    "path": "Chapter 082 - Military Order of the World Wars/§ 05016 - “State” defined.md",
    "printed_pages": [
-    232,
-    232
+    233,
+    233
    ]
   },
   {
@@ -14964,27 +15066,16 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/README.md",
    "printed_pages": [
-    232,
-    232
+    233,
+    233
    ]
   },
   {
    "id": "36_5101",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       81,
-       "[Page 233]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05101 - Recognition as corporation and grant of Federal charter.md",
    "printed_pages": [
-    232,
+    233,
     233
    ]
   },
@@ -15026,11 +15117,18 @@
   },
   {
    "id": "36_5106",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 234]",
+     true
+    ]
+   ],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05106 - Board of directors.md",
    "printed_pages": [
     233,
-    233
+    234
    ]
   },
   {
@@ -15038,8 +15136,8 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05107 - Officers.md",
    "printed_pages": [
-    233,
-    233
+    234,
+    234
    ]
   },
   {
@@ -15047,8 +15145,8 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05108 - Prohibition on discrimination.md",
    "printed_pages": [
-    233,
-    233
+    234,
+    234
    ]
   },
   {
@@ -15056,8 +15154,8 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05109 - Restrictions.md",
    "printed_pages": [
-    233,
-    233
+    234,
+    234
    ]
   },
   {
@@ -15065,27 +15163,16 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05110 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    233,
-    233
+    234,
+    234
    ]
   },
   {
    "id": "36_5111",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       88,
-       "[Page 234]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05111 - Books and records.md",
    "printed_pages": [
-    233,
+    234,
     234
    ]
   },
@@ -15118,11 +15205,18 @@
   },
   {
    "id": "36_5115",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 235]",
+     true
+    ]
+   ],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05115 - Exclusive right to names, seals, emblems, and badges.md",
    "printed_pages": [
     234,
-    234
+    235
    ]
   },
   {
@@ -15130,8 +15224,8 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05116 - Failure to comply with restrictions or provisions.md",
    "printed_pages": [
-    234,
-    234
+    235,
+    235
    ]
   },
   {
@@ -15139,8 +15233,8 @@
    "marks": [],
    "path": "Chapter 083 - Retired Enlisted Association, Incorporated/§ 05117 - “State” defined.md",
    "printed_pages": [
-    234,
-    234
+    235,
+    235
    ]
   },
   {
@@ -15148,52 +15242,41 @@
    "marks": [],
    "path": "Chapter 084 - National Fallen Firefighters Foundation/README.md",
    "printed_pages": [
-    234,
-    234
+    235,
+    235
    ]
   },
   {
    "id": "36_5201",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 235]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 084 - National Fallen Firefighters Foundation/§ 05201 - Establishment and purposes of Foundation.md",
    "printed_pages": [
-    234,
+    235,
     235
    ]
   },
   {
    "id": "36_5202",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 236]",
+     true
+    ]
+   ],
    "path": "Chapter 084 - National Fallen Firefighters Foundation/§ 05202 - Board of Directors.md",
    "printed_pages": [
     235,
-    235
+    236
    ]
   },
   {
    "id": "36_5203",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       142,
-       "[Page 236]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 084 - National Fallen Firefighters Foundation/§ 05203 - Rights and obligations of Foundation.md",
    "printed_pages": [
-    235,
+    236,
     236
    ]
   },
@@ -15217,11 +15300,22 @@
   },
   {
    "id": "36_5206",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       138,
+       "[Page 237]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 084 - National Fallen Firefighters Foundation/§ 05206 - Audits, report requirements, and petition of Attorney General for equitable relief.md",
    "printed_pages": [
     236,
-    236
+    237
    ]
   },
   {
@@ -15229,8 +15323,8 @@
    "marks": [],
    "path": "Chapter 084 - National Fallen Firefighters Foundation/§ 05207 - Immunity of United States.md",
    "printed_pages": [
-    236,
-    236
+    237,
+    237
    ]
   },
   {
@@ -15238,28 +15332,24 @@
    "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/README.md",
    "printed_pages": [
-    236,
-    236
+    237,
+    237
    ]
   },
   {
    "id": "36_5301",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 237]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 238]",
+     true
     ]
    ],
    "path": "Chapter 085 - National Education Association of the United States/§ 05301 - Corporation created.md",
    "printed_pages": [
-    236,
-    237
+    237,
+    238
    ]
   },
   {
@@ -15267,8 +15357,8 @@
    "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/§ 05302 - Purpose and object of corporation.md",
    "printed_pages": [
-    237,
-    237
+    238,
+    238
    ]
   },
   {
@@ -15276,27 +15366,16 @@
    "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/§ 05303 - Powers of corporation.md",
    "printed_pages": [
-    237,
-    237
+    238,
+    238
    ]
   },
   {
    "id": "36_5304",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       141,
-       "[Page 238]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/§ 05304 - Tax-exempt status.md",
    "printed_pages": [
-    237,
+    238,
     238
    ]
   },
@@ -15311,30 +15390,26 @@
   },
   {
    "id": "36_5306",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 239]",
+     true
+    ]
+   ],
    "path": "Chapter 085 - National Education Association of the United States/§ 05306 - Officers.md",
    "printed_pages": [
     238,
-    238
+    239
    ]
   },
   {
    "id": "36_5307",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       101,
-       "[Page 239]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/§ 05307 - Permanent Fund of the National Education Association.md",
    "printed_pages": [
-    238,
+    239,
     239
    ]
   },
@@ -15349,11 +15424,22 @@
   },
   {
    "id": "36_5309",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1851,
+       "[Page 240]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 085 - National Education Association of the United States/§ 05309 - Charter.md",
    "printed_pages": [
     239,
-    239
+    240
    ]
   },
   {
@@ -15361,8 +15447,8 @@
    "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/§ 05310 - Rights of creditors.md",
    "printed_pages": [
-    239,
-    239
+    240,
+    240
    ]
   },
   {
@@ -15370,11 +15456,45 @@
    "marks": [],
    "path": "Chapter 085 - National Education Association of the United States/§ 05311 - Reservation of right to amend or repeal chapter.md",
    "printed_pages": [
-    239,
-    239
+    240,
+    240
+   ]
+  },
+  {
+   "id": "36_-ch86",
+   "marks": [],
+   "path": "Chapter 086 - Society of American Florists and Ornamental Horticulturists/README.md",
+   "printed_pages": [
+    240,
+    240
+   ]
+  },
+  {
+   "id": "36_5401",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 241]",
+     true
+    ]
+   ],
+   "path": "Chapter 086 - Society of American Florists and Ornamental Horticulturists/§ 05401 - Corporation created.md",
+   "printed_pages": [
+    240,
+    241
+   ]
+  },
+  {
+   "id": "36_5402",
+   "marks": [],
+   "path": "Chapter 086 - Society of American Florists and Ornamental Horticulturists/§ 05402 - Reservation of right to amend or repeal chapter.md",
+   "printed_pages": [
+    241,
+    241
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1994-title36 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1995-title36 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 36 - Patriotic Societies and Observances"
 }

@@ -32,7 +32,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(i) an opportunity for a public hearing was given to consider the economic, social, and environmental effects of the location and the location's consistency with the objectives of any planning that the community has carried out; and
 
-&emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project;
+&emsp;&emsp;(ii) the airport management board has voting representation from the communities inwhich the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project;
 
 &emsp;(B) only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
 
@@ -54,7 +54,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.
 
-(5) The Secretary may make a finding under paragraph (1)(C) of this subsection only aftercompletely reviewing the matter. The review and finding must be a matter of public record.
+(5) The Secretary may make a finding under paragraph (1)(C) of this subsection only after completely reviewing the matter. The review and finding must be a matter of public record.
 
 (d)
 

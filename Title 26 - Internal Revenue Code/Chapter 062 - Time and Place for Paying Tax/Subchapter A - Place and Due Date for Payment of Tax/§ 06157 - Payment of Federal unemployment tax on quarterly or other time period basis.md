@@ -6,9 +6,9 @@ Every person who for the calendar year is an employer (as defined in section 330
 
 &emsp;(1) if the person is such an employer for the preceding calendar year (determined by only taking into account wages paid and employment during such preceding calendar year), compute the tax imposed by section 3301 for each of the first 3 calendar quarters in the calendar year on wages paid for services which respect to which the person is such an employer for such preceding calendar year (as so determined), and
 
-&emsp;(2) if the person is not such an employer for the preceding calendar year with respect to any services (as so determined), compute the tax imposed by section 3301 on wages paid for services with respect to which the person is not such an employer for the preceding calendar year (as so determined)—
+&emsp;(2) if the person is not such an employer for the preceding calendar year with respect to any services (as so determined), compute thetax imposed by section 3301 on wages paid for services with respect to which the person is not such an employer for the preceding calendar year (as so determined)—
 
-&emsp;&emsp;(A) for the period beginning with the first day of the calendar year and ending with thelast day of the calendar quarter (excluding the last calendar quarter) in which such person becomes such an employer with respect to such services, and
+&emsp;&emsp;(A) for the period beginning with the first day of the calendar year and ending with the last day of the calendar quarter (excluding the last calendar quarter) in which such person becomes such an employer with respect to such services, and
 
 &emsp;&emsp;(B) for the third calendar quarter of such year, if the period specified in subparagraph (A) includes only the first two calendar quarters of the calendar year.
 
@@ -76,7 +76,7 @@ Amendment by section 211(e)(3) of Pub. L. 94–566 effective Oct. 20, 1976, see 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 101(b)(1) of Pub. L. 91–373 applicable with respect to calendar years beginning after Dec. 31, 1971, see section 101(c)(1) of Pub. L. 91–373, set out as a note under section 3306 of this title.
+Amendment by section 101(b)(1) of Pub. L. 91–373 applicable with respect to calendar years beginning afterDec. 31, 1971, see section 101(c)(1) of Pub. L. 91–373, set out as a note under section 3306 of this title.
 
 Section 101(c)(2) of Pub. L. 91–373 provided that: “The amendment made by subsection (b)(2) \[amending this section\] shall apply with respect to calendar years beginning after December 31, 1969.”
 

@@ -20,7 +20,7 @@ In awarding the grant under subsection (a) of this section, the Secretary shall 
 
 &emsp;(6) has plans for conducting scholar-athlete games after 1995 without Federal assistance.
 
-(Pub. L. 89 10, title X, §10104, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3818.)
+(Pub. L. 89–10, title X, §10104, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3818.)
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §8902a . Debarment and other sanctions
+### §8902a. Debarment and other sanctions
 
 (a)(1) For the purpose of this section—
 
@@ -104,7 +104,7 @@
 
 (2) Notwithstanding section 8912, any person adversely affected by a final decision under paragraph (1) may obtain review of such decision in the United States Court of Appeals for the Federal Circuit. A written petition requesting that the decision be modified or set aside must be filed within 60 days after the date on which such person is notified of such decision.
 
-(3) Matters that were raised or that could have been raised in a hearing under paragraph (1) oran appeal under paragraph (2) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
+(3) Matters that were raised or that could have been raised in a hearing under paragraph (1) or an appeal under paragraph (2) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 
 (h) A civil action to recover civil monetary penalties or assessments under subsection (c) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented or where the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the Employees Health Benefits Fund.
 

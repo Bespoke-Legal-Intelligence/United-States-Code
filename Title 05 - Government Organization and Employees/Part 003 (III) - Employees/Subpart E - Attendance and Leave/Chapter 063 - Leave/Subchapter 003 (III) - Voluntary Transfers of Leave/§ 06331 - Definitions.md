@@ -14,7 +14,7 @@ For the purpose of this subchapter—
 
 #### Amendments
 
-1993—Par. (4). Pub. L. 103–103 inserted “the term” after par. designation and inserted before period at end “(disregarding any advanced leave)”.
+<b>1993</b>—Par. (4). Pub. L. 103–103 inserted “the term” after par. designation and inserted before period at end “(disregarding any advanced leave)”.
 
 #### Effective Date of 1993 Amendment
 
@@ -44,7 +44,7 @@ Section 2(c) of Pub. L. 100–566 provided that:
 
 Section 2(e) of Pub. L. 100–566 provided that:
 
-“(1)(A) Within 2 years after the date of the enactment of this Act \[Oct. 31, 1988\] and again no later than 6 months before the scheduled termination date of any program under subchapter III or subchapter IV of chapter 63 of title 5, United States Code (excluding any program under sections 6339 and 6372 of such chapter) the Office of Personnel Management shall submit a writtenreport to the Congress with respect to the operations of such programs.
+“(1)(A) Within 2 years after the date of the enactment of this Act \[Oct. 31, 1988\] and again no later than 6 months before the scheduled termination date of any program under subchapter III or subchapter IV of chapter 63 of title 5, United States Code (excluding any program under sections 6339 and 6372 of such chapter) the Office of Personnel Management shall submit a written report to the Congress with respect to the operations of such programs.
 
 “(B) The Office of Personnel Management may require agencies to maintain such records and to provide such information as the Office may need to carry out subparagraph (A).
 

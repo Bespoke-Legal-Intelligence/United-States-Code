@@ -4,13 +4,13 @@
 
 After September 30, 1996, and not later than December 31, 1999, there shall be a capital distribution of the balance of the loan fund established under an agreement pursuant to section 297a of this title by each school as follows:
 
-(1) The Secretary shall first be paid an amount which bears the same ratio to such balance in such fund at the close of September 30, 1999, as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund derived from such Federal capital contributions and from funds deposited therein pursuant to section 297a(b)(2)(B) of this title.
+(1) The Secretary shall first be paid an amount which bears the same ratio to such balance insuch fund at the close of September 30, 1999, as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund derived from such Federal capital contributions and from funds deposited therein pursuant to section 297a(b)(2)(B) of this title.
 
 (2) The remainder of such balance shall be paid to the school.
 
 #### (b) Payment of principal or interest on loans
 
-After December 31, 1999, each school with which the Secretary has made an agreement under this subpart shall pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the schoolafter September 30, 1999, in payment of principal or interest on loans made from the loan fund established pursuant to such agreement as was determined for the Secretary under subsection (a) of this section.
+After December 31, 1999, each school with which the Secretary has made an agreement under this subpart shall pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school after September 30, 1999, in payment of principal or interest on loans made from the loan fund established pursuant to such agreement as was determined for the Secretary under subsection (a) of this section.
 
 #### (c) Payment of balance of loan fund
 
@@ -74,7 +74,7 @@ Amendment by section 941(h)(1), (2), (4)(B), (i)(1), (5) of Pub. L. 94–63 effe
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–751 effective in the case of payments to student loan funds made after Nov. 3, 1966, except in the case of payments pursuant to commitments (made prior to Nov. 3, 1966) to make loans under section 297f of this title as in effect prior to Nov. 3, 1966, see section 6(e)(1) of Pub. L. 89–751, set out as a note under section 297c of this title.
+Amendment by Pub. L. 89–751 effective in the case of payments to student loan funds made after Nov. 3, 1966,except in the case of payments pursuant to commitments (made prior to Nov. 3, 1966) to make loans under section 297f of this title as in effect prior to Nov. 3, 1966, see section 6(e)(1) of Pub. L. 89–751, set out as a note under section 297c of this title.
 
 #### Section Referred to in Other Sections
 

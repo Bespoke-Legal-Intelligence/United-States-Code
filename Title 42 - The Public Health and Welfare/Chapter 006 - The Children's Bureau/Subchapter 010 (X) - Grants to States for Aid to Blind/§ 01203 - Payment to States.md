@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(3)(C), added subsec. (c).
 
 1956—Subsec. (a). Act Aug. 1, 1956, §303, substituted “during such quarter as aid to the blind in the form of money payments under the State plan” for “during such quarter as aid to the blind under the State plan” in cls. (1) and (2), “who received aid to the blind in the form of money payments for such month” for “who received aid to the blind for such month” in par. (a) of cl. (1), and inserted cl. (4).
 
-Act Aug. 1, 1956, §313(c), struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose” in cl. (3).
+Act Aug. 1, 1956, §313(c), struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering theState plan or for aid to the blind, or both, and for no other purpose” in cl. (3).
 
 Act Aug. 1, 1956, §343, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), substituted “$60” for “$55,” “the product of $30” for “the product of $25”, “Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose”.
 
@@ -162,7 +162,7 @@ Amendment by act June 14, 1948, effective Oct. 1, 1948, see section 3(d) of act 
 
 #### Effective and Termination Date of 1946 Amendment
 
-Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and ending with close of June 30, 1950, see section 504 of act Aug. 10, 1946, as amended, set out as a note under section 303 of this title.
+Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and endingwith close of June 30, 1950, see section 504 of act Aug. 10, 1946, as amended, set out as a note under section 303 of this title.
 
 #### Effective Date of 1939 Amendment
 

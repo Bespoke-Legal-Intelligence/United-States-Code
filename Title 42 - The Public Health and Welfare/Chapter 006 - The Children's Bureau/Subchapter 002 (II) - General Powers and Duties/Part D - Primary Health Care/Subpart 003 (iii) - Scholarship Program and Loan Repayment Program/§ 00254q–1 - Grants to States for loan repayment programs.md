@@ -44,7 +44,7 @@
 
 &emsp;(B) With respect to the limitation established in subparagraph (A) regarding the annual amount of payments that may be provided to a health professional under a contract provided by a State pursuant to subsection (a)(2) of this section, such limitation shall not apply with respect to a contract if—
 
-&emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254<i>l</i>–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
+&emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized insection 254<i>l</i>–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
 
 &emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254<i>l</i> of this title.
 
@@ -84,7 +84,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 &emsp;(A) Before making a grant under subsection (a) of this section to a State for a fiscal year, the Secretary shall determine the number of contracts provided by the State under paragraph (2) of such subsection with respect to which there has been an initial breach by the health professionals involved during the fiscal year preceding the fiscal year for which the State is applying to receive the grant.
 
-&emsp;(B) Subject to paragraph (3), in the case of a State with 1 or more initial breaches for purposes of subparagraph (A), the Secretary shall reduce the amount of a grant under subsection (a) of this section to the State for the fiscal year involved by an amount equal to the sum of the expenditures of Federal funds made regarding the contracts involved and an amount representing interest on the amount of such expenditures, determined with respect to each contract on the basis of the maximum legalrate prevailing for loans made during the time amounts were paid under the contract, as determined by the Treasurer of the United States.
+&emsp;(B) Subject to paragraph (3), in the case of a State with 1 or more initial breaches for purposes of subparagraph (A), the Secretary shall reduce the amount of a grant under subsection (a) of this section to the State for the fiscal year involved by an amount equal to the sum of the expenditures of Federal funds made regarding the contracts involved and an amount representing interest on the amount of such expenditures, determined with respect to each contract on the basis of the maximum legal rate prevailing for loans made during the time amounts were paid under the contract, as determined by the Treasurer of the United States.
 
 #### (3) Waiver regarding reduction in grant
 

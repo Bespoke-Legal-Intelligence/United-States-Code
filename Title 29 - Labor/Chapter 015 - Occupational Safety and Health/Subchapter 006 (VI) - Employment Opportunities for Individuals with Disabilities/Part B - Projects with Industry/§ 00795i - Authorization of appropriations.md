@@ -12,7 +12,7 @@ A prior section 622 of Pub. L. 93–112 was renumbered section 641 and classifie
 
 1992—Pub. L. 102–569, §613(a)(2), substituted “this part, such sums as may be necessary for each of fiscal years 1993 through 1997” for “section 795g of this title, $16,070,000 for fiscal year 1987, $17,010,000 for fiscal year 1988, $18,030,000 for fiscal year 1989, $19,149,000 for fiscal year 1990, $19,925,000 for fiscal year 1991, and such sums as may be necessary for fiscal year 1992, and for section 795h of this title such sums as may be necessary for each of the fiscal years 1987, 1988, 1989, 1990, 1991, and 1992”.
 
-1991—Pub. L. 102–52 inserted “and such sums as may be necessary for fiscal year 1992” after “1991,” and“, and 1992” before the period and struck out “and” after “1990,” in two places.
+1991—Pub. L. 102–52 inserted “and such sums as may be necessary for fiscal year 1992” after “1991,” and “, and 1992” before the period and struck out “and” after “1990,” in two places.
 
 1988—Pub. L. 100–630 inserted comma after “fiscal year 1991” and substituted “1989, 1990, and” for “1989, 1990 and”.
 

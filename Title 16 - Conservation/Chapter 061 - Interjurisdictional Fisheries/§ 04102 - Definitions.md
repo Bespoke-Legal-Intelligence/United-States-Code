@@ -20,7 +20,7 @@ For the purposes of this chapter:
 
 &emsp;(5) The term “interstate commission” means a commission or other administrative body established by an interstate compact.
 
-&emsp;(6) The term “interstate compact” means a compact that has been entered into by two or more States, established for the purposes of conserving and managing interjurisdictional fishery resources throughout their range, and consented to and approved by Congress.
+&emsp;(6) The term “interstate compact” means a compact that has been entered into by two ormore States, established for the purposes of conserving and managing interjurisdictional fishery resources throughout their range, and consented to and approved by Congress.
 
 &emsp;(7) The term “project” means a program for research in support of the management of an interjurisdictional fishery resource or an interstate cooperative fishery management agreement.
 

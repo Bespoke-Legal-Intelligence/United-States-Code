@@ -1,20 +1,230 @@
 ### §114. Scope of exclusive rights in sound recordings
 
-(a) The exclusive rights of the owner of copyright in a sound recording are limited to the rights specified by clauses (1), (2), and (3) of section 106, and do not include any right of performance under section 106(4).
+(a) The exclusive rights of the owner of copyright in a sound recording are limited to the rights specified by clauses (1), (2), (3) and (6) of section 106, and do not include any right of performance under section 106(4).
 
-(b) The exclusive right of the owner of copyright in a sound recording under clause (1) of section 106 is limited to the right to duplicate the sound recording in the form of phonorecords, or of copies of motion pictures and other audiovisual works, that directly or indirectly recapture the actual sounds fixed in the recording. The exclusive right of the owner of copyright in a sound recording under clause (2) of section 106 is limited to the right to prepare a derivative work in which the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in sequence or quality. The exclusive rights of the owner of copyright in a sound recording under clauses (1) and (2) of section 106 do not extend to the making or duplication of another sound recording that consists entirely of an independent fixation of other sounds, even though such sounds imitate or simulate those in the copyrighted sound recording. The exclusive rights of the owner of copyright in a sound recording under clauses (1), (2), and (3) of section 106 do not apply to sound recordings included in educational television and radio programs (as defined in section 397 of title 47) distributed or transmitted by or through public broadcasting entities (as defined by section 118(g)): <i>Provided</i>, That copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.
+(b) The exclusive right of the owner of copyright in a sound recording under clause (1) of section 106 is limited to the right to duplicate the sound recording in the form of phonorecords or copies that directly or indirectly recapture the actual sounds fixed in the recording. The exclusive right of the owner of copyright in a sound recording under clause (2) of section 106 is limited to the right to prepare a derivative work in which the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in sequence or quality. The exclusive rights of the owner of copyright in a sound recording under clauses (1) and (2) of section 106 do not extend to the making or duplication of another sound recording that consists entirely of an independent fixation of other sounds, even though such sounds imitate or simulate those in the copyrighted sound recording. The exclusive rights of the owner of copyright in a sound recording under clauses (1), (2), and (3) of section 106 do not apply to sound recordings included in educational television and radio programs (as defined in section 397 of title 47) distributed or transmitted by or through public broadcasting entities (as defined by section 118(g)): <i>Provided</i>, That copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.
 
 (c) This section does not limit or impair the exclusive right to perform publicly, by means of a phonorecord, any of the works specified by section 106(4).
 
-(d) On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.
+(d)
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560.)
+Limitations on Exclusive Right.—Notwithstanding the provisions of section 106(6)—
+
+&emsp;(1)
+
+Exempt transmissions and retransmissions.—The performance of a sound recording publicly by means of a digital audio transmission, other than as a part of an interactive service, is not an infringement of section 106(6) if the performance is part of—
+
+&emsp;&emsp;(A)(i) a nonsubscription transmission other than a retransmission;
+
+&emsp;&emsp;(ii) an initial nonsubscription retransmission made for direct reception by members of the public of a prior or simultaneous incidental transmission that is not made for direct reception by members of the public; or
+
+&emsp;&emsp;(iii) a nonsubscription broadcast transmission;
+
+&emsp;&emsp;(B) a retransmission of a nonsubscription broadcast transmission: <i>Provided</i>, That, in the case of a retransmission of a radio station's broadcast transmission—
+
+&emsp;&emsp;&emsp;(i) the radio station's broadcast transmission is not willfully or repeatedly retransmitted more than a radius of 150 miles from the site of the radio broadcast transmitter, however—
+
+&emsp;&emsp;&emsp;&emsp;(I) the 150 mile limitation under this clause shall not apply when a nonsubscription broadcast transmission by a radio station licensed by the Federal Communications Commission is retransmitted on a nonsubscription basis by a terrestrial broadcast station, terrestrial translator, or terrestrial repeater licensed by the Federal Communications Commission; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a subscription retransmission of a nonsubscription broadcast retransmission covered by subclause (I), the 150 mile radius shall be measured from the transmitter site of such broadcast retransmitter;
+
+&emsp;&emsp;&emsp;(ii) the retransmission is of radio station broadcast transmissions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obtained by the retransmitter over the air;
+
+&emsp;&emsp;&emsp;&emsp;(II) not electronically processed by the retransmitter to deliver separate and discrete signals; and
+
+&emsp;&emsp;&emsp;&emsp;(III) retransmitted only within the local communities served by the retransmitter;
+
+&emsp;&emsp;&emsp;(iii) the radio station's broadcast transmission was being retransmitted to cable systems (as defined in section 111(f)) by a satellite carrier on January 1, 1995, and that retransmission was being retransmitted by cable systems as a separate and discrete signal, and the satellite carrier obtains the radio station's broadcast transmission in an analog format: <i>Provided</i>, That the broadcast transmission being retransmitted may embody the programming of no more than one radio station; or
+
+&emsp;&emsp;&emsp;(iv) the radio station's broadcast transmission is made by a noncommercial educational broadcast station funded on or after January 1, 1995, under section 396(k) of the Communications Act of 1934 (47 U.S.C. 396(k)), consists solely of noncommercial educational and cultural radio programs, and the retransmission, whether or not simultaneous, is a nonsubscription terrestrial broadcast retransmission; or
+
+&emsp;&emsp;(C) a transmission that comes within any of the following categories—
+
+&emsp;&emsp;&emsp;(i) a prior or simultaneous transmission incidental to an exempt transmission, such as a feed received by and then retransmitted by an exempt transmitter: <i>Provided</i>, That such incidental transmissions do not include any subscription transmission directly for reception by members of the public;
+
+&emsp;&emsp;&emsp;(ii) a transmission within a business establishment, confined to its premises or the immediately surrounding vicinity;
+
+&emsp;&emsp;&emsp;(iii) a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12) of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
+
+&emsp;&emsp;&emsp;(iv) a transmission to a business establishment for use in the ordinary course of its business: <i>Provided</i>, That the business recipient does not retransmit the transmission outside of its premises or the immediately surrounding vicinity, and that the transmission does not exceed the sound recording performance complement. Nothing in this clause shall limit the scope of the exemption in clause (ii).
+
+&emsp;(2)
+
+Subscription transmissions.—In the case of a subscription transmission not exempt under subsection (d)(1), the performance of a sound recording publicly by means of a digital audio transmission shall be subject to statutory licensing, in accordance with subsection (f) of this section, if—
+
+&emsp;&emsp;(A) the transmission is not part of an interactive service;
+
+&emsp;&emsp;(B) the transmission does not exceed the sound recording performance complement;
+
+&emsp;&emsp;(C) the transmitting entity does not cause to be published by means of an advance program schedule or prior announcement the titles of the specific sound recordings or phonorecords embodying such sound recordings to be transmitted;
+
+&emsp;&emsp;(D) except in the case of transmission to a business establishment, the transmitting entity does not automatically and intentionally cause any device receiving the transmission to switch from one program channel to another; and
+
+&emsp;&emsp;(E) except as provided in section 1002(e) of this title, the transmission of the sound recording is accompanied by the information encoded in that sound recording, if any, by or under the authority of the copyright owner of that sound recording, that identifies the title of the sound recording, the featured recording artist who performs on the sound recording, and related information, including information concerning the underlying musical work and its writer.
+
+&emsp;(3)
+
+Licenses for transmissions by interactive services.—
+
+&emsp;&emsp;(A) No interactive service shall be granted an exclusive license under section 106(6) for the performance of a sound recording publicly by means of digital audio transmission for a period in excess of 12 months, except that with respect to an exclusive license granted to an interactive service by a licensor that holds the copyright to 1,000 or fewer sound recordings, the period of such license shall not exceed 24 months: <i>Provided, however</i>, That the grantee of such exclusive license shall be ineligible to receive another exclusive license for the performance of that sound recording for a period of 13 months from the expiration of the prior exclusive license.
+
+&emsp;&emsp;(B) The limitation set forth in subparagraph (A) of this paragraph shall not apply if—
+
+&emsp;&emsp;&emsp;(i) the licensor has granted and there remain in effect licenses under section 106(6) for the public performance of sound recordings by means of digital audio transmission by at least 5 different interactive services: <i>Provided, however</i>, That each such license must be for a minimum of 10 percent of the copyrighted sound recordings owned by the licensor that have been licensed to interactive services, but in no event less than 50 sound recordings; or
+
+&emsp;&emsp;&emsp;(ii) the exclusive license is granted to perform publicly up to 45 seconds of a sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
+
+&emsp;&emsp;(C) Notwithstanding the grant of an exclusive or nonexclusive license of the right of public performance under section 106(6), an interactive service may not publicly perform a sound recording unless a license has been granted for the public performance of any copyrighted musical work contained in the sound recording: <i>Provided</i>, That such license to publicly perform the copyrighted musical work may be granted either by a performing rights society representing the copyright owner or by the copyright owner.
+
+&emsp;&emsp;(D) The performance of a sound recording by means of a retransmission of a digital audio transmission is not an infringement of section 106(6) if—
+
+&emsp;&emsp;&emsp;(i) the retransmission is of a transmission by an interactive service licensed to publicly perform the sound recording to a particular member of the public as part of that transmission; and
+
+&emsp;&emsp;&emsp;(ii) the retransmission is simultaneous with the licensed transmission, authorized by the transmitter, and limited to that particular member of the public intended by the interactive service to be the recipient of the transmission.
+
+&emsp;&emsp;(E) For the purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) a “licensor” shall include the licensing entity and any other entity under any material degree of common ownership, management, or control that owns copyrights in sound recordings; and
+
+&emsp;&emsp;&emsp;(ii) a “performing rights society” is an association or corporation that licenses the public performance of nondramatic musical works on behalf of the copyright owner, such as the American Society of Composers, Authors and Publishers, Broadcast Music, Inc., and SESAC, Inc.
+
+&emsp;(4)
+
+Rights not otherwise limited.—
+
+&emsp;&emsp;(A) Except as expressly provided in this section, this section does not limit or impair the exclusive right to perform a sound recording publicly by means of a digital audio transmission under section 106(6).
+
+&emsp;&emsp;(B) Nothing in this section annuls or limits in any way—
+
+&emsp;&emsp;&emsp;(i) the exclusive right to publicly perform a musical work, including by meansof a digital audio transmission, under section 106(4);
+
+&emsp;&emsp;&emsp;(ii) the exclusive rights in a sound recording or the musical work embodied therein under sections 106(1), 106(2) and 106(3); or
+
+&emsp;&emsp;&emsp;(iii) any other rights under any other clause of section 106, or remedies available under this title, as such rights or remedies exist either before or after the date of enactment of the Digital Performance Right in Sound Recordings Act of 1995.
+
+&emsp;&emsp;(C) Any limitations in this section on the exclusive right under section 106(6) apply only to the exclusive right under section 106(6) and not to any other exclusive rights under section 106. Nothing in this section shall be construed to annul, limit, impair or otherwise affect in any way the ability of the owner of a copyright in a sound recording to exercise the rights under sections 106(1), 106(2) and 106(3), or to obtain the remedies available under this title pursuant to such rights, as such rights and remedies exist either before or after the date of enactment of the Digital Performance Right in Sound Recordings Act of 1995.
+
+(e)
+
+Authority for Negotiations.—
+
+&emsp;(1) Notwithstanding any provision of the antitrust laws, in negotiating statutory licenses in accordance with subsection (f), any copyright owners of sound recordings and any entities performing sound recordings affected by this section may negotiate and agree upon the royalty rates and license terms and conditions for the performance of such sound recordings and the proportionate division of fees paid among copyright owners, and may designate common agents on a nonexclusive basis to negotiate, agree to, pay, or receive payments.
+
+&emsp;(2) For licenses granted under section 106(6), other than statutory licenses, such as for performances by interactive services or performances that exceed the sound recording performance complement—
+
+&emsp;&emsp;(A) copyright owners of sound recordings affected by this section may designate common agents to act on their behalf to grant licenses and receive and remit royalty payments: <i>Provided</i>, That each copyright owner shall establish the royalty rates and material license terms and conditions unilaterally, that is, not in agreement, combination, or concert with other copyright owners of sound recordings; and
+
+&emsp;&emsp;(B) entities performing sound recordings affected by this section may designate common agents to act on their behalf to obtain licenses and collect and pay royalty fees: <i>Provided</i>, That each entity performing sound recordings shall determine the royalty rates and material license terms and conditions unilaterally, that is, not in agreement, combination, or concert with other entities performing sound recordings.
+
+(f)
+
+Licenses for Nonexempt Subscription Transmissions.—
+
+&emsp;(1) No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2000. Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation. Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings. The parties to each negotiation proceeding shall bear their own costs.
+
+&emsp;(2) In the absence of license agreements negotiated under paragraph (1), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (1), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings. In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider the rates and terms for comparable types of digital audio transmission services and comparable circumstances under voluntary license agreements negotiated as provided in paragraph (1). The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings.
+
+&emsp;(3) License agreements voluntarily negotiated at any time between one or more copyright owners of sound recordings and one or more entities performing sound recordings shall be given effect in lieu of any determination by a copyright arbitration royalty panel or decision by the Librarian of Congress.
+
+&emsp;(4)(A) Publication of a notice of the initiation of voluntary negotiation proceedings as specified in paragraph (1) shall be repeated, in accordance with regulations that the Librarian of Congress shall prescribe—
+
+&emsp;&emsp;(i) no later than 30 days after a petition is filed by any copyright owners of sound recordings or any entities performing sound recordings affected by this section indicating that a new type of digital audio transmission service on which sound recordings are performed is or is about to become operational; and
+
+&emsp;&emsp;(ii) in the first week of January, 2000 and at 5-year intervals thereafter.
+
+&emsp;(B)(i) The procedures specified in paragraph (2) shall be repeated, in accordance with regulations that the Librarian of Congress shallprescribe, upon the filing of a petition in accordance with section 803(a)(1) during a 60-day period commencing—
+
+&emsp;&emsp;(I) six months after publication of a notice of the initiation of voluntary negotiation proceedings under paragraph (1) pursuant to a petition under paragraph (4)(A)(i); or
+
+&emsp;&emsp;(II) on July 1, 2000 and at 5-year intervals thereafter.
+
+&emsp;(ii) The procedures specified in paragraph (2) shall be concluded in accordance with section 802.
+
+&emsp;(5)(A) Any person who wishes to perform a sound recording publicly by means of a nonexempt subscription transmission under this subsection may do so without infringing the exclusive right of the copyright owner of the sound recording—
+
+&emsp;&emsp;(i) by complying with such notice requirements as the Librarian of Congress shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or
+
+&emsp;&emsp;(ii) if such royalty fees have not been set, by agreeing to pay such royalty fees as shall be determined in accordance with this subsection.
+
+&emsp;(B) Any royalty payments in arrears shall be made on or before the twentieth day of the month next succeeding the month in which the royalty fees are set.
+
+(g)
+
+Proceeds From Licensing of Subscription Transmissions.—
+
+&emsp;(1) Except in the case of a subscription transmission licensed in accordance with subsection (f) of this section—
+
+&emsp;&emsp;(A) a featured recording artist who performs on a sound recording that has been licensed for a subscription transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the artist's contract; and
+
+&emsp;&emsp;(B) a nonfeatured recording artist who performs on a sound recording that has been licensed for a subscription transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the nonfeatured recording artist's applicable contract or other applicable agreement.
+
+&emsp;(2) The copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission shall allocate to recording artists in the following manner its receipts from the statutory licensing of subscription transmission performances of the sound recording in accordance with subsection (f) of this section:
+
+&emsp;&emsp;(A) 21/2 percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians) who have performed on sound recordings.
+
+&emsp;&emsp;(B) 21/2 percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists) who have performed on sound recordings.
+
+&emsp;&emsp;(C) 45 percent of the receipts shall be allocated, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists’ performance in the sound recordings).
+
+(h)
+
+Licensing to Affiliates.—
+
+&emsp;(1) If the copyright owner of a sound recording licenses an affiliated entity the right to publicly perform a sound recording by means of a digital audio transmission under section 106(6), the copyright owner shall make the licensed sound recording available under section 106(6) on no less favorable terms and conditions to all bona fide entities that offer similar services, except that, if there are material differences in the scope of the requested license with respect to the type of service, the particular sound recordings licensed, the frequency of use, the number of subscribers served, or the duration, then the copyright owner may establish different terms and conditions for such other services.
+
+&emsp;(2) The limitation set forth in paragraph (1) of this subsection shall not apply in the case where the copyright owner of a sound recording licenses—
+
+&emsp;&emsp;(A) an interactive service; or
+
+&emsp;&emsp;(B) an entity to perform publicly up to 45 seconds of the sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
+
+(i)
+
+No Effect on Royalties for Underlying Works.—License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works. It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6).
+
+(j)
+
+Definitions.—As used in this section, the following terms have the following meanings:
+
+&emsp;(1) An “affiliated entity” is an entity engaging in digital audio transmissions covered by section 106(6), other than an interactive service, in which the licensor has any direct or indirect partnership or any ownership interest amounting to 5 percent or more of the outstanding voting or non-voting stock.
+
+&emsp;(2) A “broadcast” transmission is a transmission made by a terrestrial broadcast station licensed as such by the Federal Communications Commission.
+
+&emsp;(3) A “digital audio transmission” is a digital transmission as defined in section 101, thatembodies the transmission of a sound recording. This term does not include the transmission of any audiovisual work.
+
+&emsp;(4) An “interactive service” is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient. The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive. If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.
+
+&emsp;(5) A “nonsubscription” transmission is any transmission that is not a subscription transmission.
+
+&emsp;(6) A “retransmission” is a further transmission of an initial transmission, and includes any further retransmission of the same transmission. Except as provided in this section, a transmission qualifies as a “retransmission” only if it is simultaneous with the initial transmission. Nothing in this definition shall be construed to exempt a transmission that fails to satisfy a separate element required to qualify for an exemption under section 114(d)(1).
+
+&emsp;(7) The “sound recording performance complement” is the transmission during any 3-hour period, on a particular channel used by a transmitting entity, of no more than—
+
+&emsp;&emsp;(A) 3 different selections of sound recordings from any one phonorecord lawfully distributed for public performance or sale in the United States, if no more than 2 such selections are transmitted consecutively; or
+
+&emsp;&emsp;(B) 4 different selections of sound recordings—
+
+&emsp;&emsp;&emsp;(i) by the same featured recording artist; or
+
+&emsp;&emsp;&emsp;(ii) from any set or compilation of phonorecords lawfully distributed together as a unit for public performance or sale in the United States,
+
+> &emsp;&emsp;if no more than three such selections are transmitted consecutively:
+
+> &emsp;<i>Provided</i>, That the transmission of selections in excess of the numerical limits provided for in clauses (A) and (B) from multiple phonorecords shall nonetheless qualify as a sound recording performance complement if the programming of the multiple phonorecords was not willfully intended to avoid the numerical limitations prescribed in such clauses.
+
+&emsp;(8) A “subscription” transmission is a transmission that is controlled and limited to particular recipients, and for which consideration is required to be paid or otherwise given by or on behalf of the recipient to receive the transmission or a package of transmissions including the transmission.
+
+&emsp;(9) A “transmission” includes both an initial transmission and a retransmission.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336.)
 
 #### Historical and Revision Notes
 
 I74house report no. 94–1476
 
-Subsection (a) of Section 114 specified that the exclusive rights of the owner of copyright in a sound recording are limited to the rights to reproduce the sound recording in copies or phonorecords, to prepare derivative works based on the copyrighted sound recording, and to distribute copies or phonorecords of the sound recording to the public. Subsection (a) states explicitly thatthe owner's rights “do not include any right of performance under section 106(4).” The Committee considered at length the arguments in favor of establishing a limited performance right, in the form of a compulsory license, for copyrighted sound recordings, but concluded that the problem requires further study. It therefore added a new subsection (d) to the bill requiring the Register of Copyrights to submit to Congress, on January 3, 1978, “a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners \* \* \* any performance rights” in copyrighted sound recordings. Under the new subsection, the report “should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
+Subsection (a) of Section 114 specified that the exclusive rights of the owner of copyright in a sound recording are limited to the rights to reproduce the sound recording in copies or phonorecords, to prepare derivative works based on the copyrighted sound recording, and to distribute copies or phonorecords of the sound recording to the public. Subsection (a) states explicitly that the owner's rights “do not include any right of performance under section 106(4).” The Committee considered at length the arguments in favor of establishing a limited performance right, in the form of a compulsory license, for copyrighted sound recordings, but concluded that the problem requires further study. It therefore added a new subsection (d) to the bill requiring the Register of Copyrights to submit to Congress, on January 3, 1978, “a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners \* \* \* any performance rights” in copyrighted sound recordings. Under the new subsection, the report “should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
 
 Subsection (b) of section 114 makes clear that statutory protection for sound recordings extends only to the particular sounds of which the recording consists, and would not prevent a separate recording of another performance in which those sounds are imitated. Thus, infringement takes place whenever all or any substantial portion of the actual sounds that go to make up a copyrighted sound recording are reproduced in phonorecords by repressing, transcribing, recapturing off the air, or any other method, or by reproducing them in the soundtrack or audio portion of a motion picture or other audiovisual work. Mere imitation of a recorded performance would not constitute a copyright infringement even where one performer deliberately sets out to simulate another's performance as exactly as possible.
 
@@ -26,6 +236,28 @@ During the 1975 hearings, the Register of Copyrights expressed some concern that
 
 Section 114(c) states explicitly that nothing in the provisions of section 114 should be construed to “limit or impair the exclusive right to perform publicly, by means of a phonorecord, any of the works specified by section 106(4).” This principle is already implicit in the bill, but it is restated to avoid the danger of confusion between rights in a sound recording and rights in the musical composition or other work embodied in the recording.
 
+#### References in Text
+
+The date of enactment of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsecs. (d)(4)(B)(iii), (C) and (f)(1), is the date of enactment of Pub. L. 104–39, which was approved Nov. 1, 1995.
+
+The antitrust laws, referred to in subsec. (e)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+
+For effective date of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsec. (f)(1), see section 6 of Pub. L. 104–39, set out as an Effective Date of 1995 Amendment note under section 101 of this title.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–39, §3(1), substituted “(3) and (6) of section 106” for “and (3) of section 106”.
+
+Subsec. (b). Pub. L. 104–39, §3(2), substituted “phonorecords or copies” for “phonorecords, or of copies of motion pictures and other audiovisual works,” in first sentence.
+
+Subsec. (d). Pub. L. 104–39, §3(3), added subsec. (d) and struck out former subsec. (d), which read as follows: “On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
+
+Subsecs. (e) to (j). Pub. L. 104–39, §3(4), added subsecs. (e) to (j).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, except that provisions of subsecs. (e) and (f) of this section effective Nov. 1, 1995, see section 6 of Pub. L. 104–39, set out as a note under section 101 of this title.
+
 #### Cross References
 
 Ephemeral recordings, see section 112 of this title.
@@ -34,5 +266,5 @@ Exclusive rights in copyrighted work, see section 106 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 112, 501, 511 of this title; title 18 section 2319.
+This section is referred to in sections 106, 111, 112, 115, 119, 501, 511, 801, 802, 803 of this title; title 18 section 2319.
 

@@ -52,7 +52,7 @@
 
 &emsp;(L) upon negotiation with the Center, and if funds are provided pursuant to subsection (d) of this section, such other topics as the Secretary may designate.
 
-(2) The Center conducting the activities described in paragraph (1) shall annually prepare a study on the research conducted on approaches that lead to effective articulation for the education-to-work transition, including tech-prep programs, cooperative education or other work-based programs, such as innovative apprenticeship or mentoring approaches, and shall submit copies of such study to the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Labor and Human Resources of the Senate, and the Committee on Education and Labor of the House of Representatives.
+(2) The Center conducting the activities described in paragraph (1) shall annually prepare astudy on the research conducted on approaches that lead to effective articulation for the education-to-work transition, including tech-prep programs, cooperative education or other work-based programs, such as innovative apprenticeship or mentoring approaches, and shall submit copies of such study to the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Labor and Human Resources of the Senate, and the Committee on Education and Labor of the House of Representatives.
 
 #### (c) Dissemination and training
 
@@ -86,31 +86,31 @@
 
 There are authorized to be appropriated $3,000,000 for the fiscal year 1991 and such sums as may be necessary for each of the fiscal years 1992, 1993, 1994, and 1995 to carry out such additional activities assigned by the Secretary to the National Center in existence on September 25, 1990, until the termination of its grant on December 31, 1992 and to carry out the provisions of subsections (b)(1)(L) and (c)(1)(K) of this section.
 
-(Pub. L. 88 210, title IV, §404, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101 392, title IV, §405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103 382, title III, §351(a)(2), Oct. 20, 1994, 108 Stat. 3966.)
+(Pub. L. 88–210, title IV, §404, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, §405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103–382, title III, §351(a)(2), Oct. 20, 1994, 108 Stat. 3966.)
 
 #### References in Text
 
-Section 427(b)(2) of the Higher Education Amendments of 1992, referred to in subsec. (a)(4)(B), is section 427(b)(2) of Pub. L. 102 325 which is set out as a note under section 1085 of this title.
+Section 427(b)(2) of the Higher Education Amendments of 1992, referred to in subsec. (a)(4)(B), is section 427(b)(2) of Pub. L. 102–325 which is set out as a note under section 1085 of this title.
 
-Section 1085(b) of this title as such section was in effect on July 22, 1992, referred to in subsec. (a)(4)(B), means section 1085(b) of this title as in effect prior to repeal by Pub. L. 102 325, title IV, §427(b)(1), July 23, 1992, 106 Stat. 549.
+Section 1085(b) of this title as such section was in effect on July 22, 1992, referred to in subsec. (a)(4)(B), means section 1085(b) of this title as in effect prior to repeal by Pub. L. 102–325, title IV, §427(b)(1), July 23, 1992, 106 Stat. 549.
 
 #### Amendments
 
-1994—Subsec. (a)(4)(B). Pub. L. 103 382 inserted “, notwithstanding section 427(b)(2) of the Higher Education Amendments of 1992,” before “has” and “as such section was in effect on July 22, 1992” before period at end.
+1994—Subsec. (a)(4)(B). Pub. L. 103–382 inserted “, notwithstanding section 427(b)(2) of the Higher Education Amendments of 1992,” before “has” and “as such section was in effect on July 22, 1992” before period at end.
 
-1990—Pub. L. 101 392 amended section generally, substituting provisions relating to authority of Secretary to award grants for establishment of 1 or 2 national centers in applied research and development and dissemination and training to be operated for period of 5 years, with grant recipients to be selected from competition among institutions of higher education or consortia of such institutions, activities of Centers, and reporting requirements for provisions which related to establishment, support through grants, purpose, and functions of National Center for Research in Vocational Education, a nonprofit entity associated with a public or private nonprofit university which would be prepared to make substantial financial contribution toward its establishment, designated by Secretary from solicited applications once every 5 years, and appointment of advisory committee to advise Secretary and Director of National Center regarding policy issues.
+1990—Pub. L. 101–392 amended section generally, substituting provisions relating to authority of Secretary to award grants for establishment of 1 or 2 national centers in applied research and development and dissemination and training to be operated for period of 5 years, with grant recipients to be selected from competition among institutions of higher education or consortia of such institutions, activities of Centers, and reporting requirements for provisions which related to establishment, support through grants, purpose, and functions of National Center for Research in Vocational Education, a nonprofit entity associated with a public or private nonprofit university which would be prepared to make substantial financial contribution toward its establishment, designated by Secretary from solicited applications once every 5 years, and appointment of advisory committee to advise Secretary and Director of National Center regarding policy issues.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103 382 effective Oct. 20, 1994, except that a State that, prior to such date, distributed funds under section 2341a of this title appropriated for fiscal year 1994 to proprietary institutions of higher education may continue to distribute such funds to such institutions until July 1, 1995, see section 351(b) of Pub. L. 103 382, set out as a note under section 2341a of this title.
+Amendment by Pub. L. 103–382 effective Oct. 20, 1994, except that a State that, prior to such date, distributed funds under section 2341a of this title appropriated for fiscal year 1994 to proprietary institutions of higher education may continue to distribute such funds to such institutions until July 1, 1995, see section 351(b) of Pub. L. 103–382, set out as a note under section 2341a of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -64,7 +64,7 @@
 
 &emsp;(B) stating in a solicitation that award will be made to the offeror that meets the solicitation's mandatory requirements at the lowest cost or price.
 
-(5) The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unless the head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
+(5) The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation ofprices for options to purchase additional property or services under the contract unless the head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
 
 (b)(1) The head of an agency shall evaluate sealed bids and competitive proposals and make an award based solely on the factors specified in the solicitation.
 
@@ -164,7 +164,7 @@ Agency Actions on Protests.—If, in connection with a protest, the head of an a
 
 &emsp;(2) may pay costs described in paragraph (1) of section 3554(c) of title 31 within the limits referred to in paragraph (2) of such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 2, 1958, Pub. L. 85–861, §1(44), 72 Stat. 1457; Mar. 16, 1968, Pub. L. 90–268, §3, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2723(b), 98 Stat. 1191; Oct. 19, 1984, Pub. L. 98–525, title XII, §1213(a), 98 Stat. 2591; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(14), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], 100 Stat. 1783–82, 1783–153, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], 100 Stat. 3341–82, 3341–153; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), 100 Stat. 3853, 3932, 3933, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Sept. 29, 1988, Pub. L. 100–456, div. A, title VIII, §806, 102 Stat. 2010; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(f), 103 Stat. 1519; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §802(a)–(d), 104 Stat. 1588, 1589; Nov. 30, 1993,Pub. L. 103–160, div. A, title XI, §1182(a)(5), 107 Stat. 1771; Oct. 13, 1994, Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), 108 Stat. 3254–3257, 3347.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 2, 1958, Pub. L. 85–861, §1(44), 72 Stat. 1457; Mar. 16, 1968, Pub. L. 90–268, §3, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2723(b), 98 Stat. 1191; Oct. 19, 1984, Pub. L. 98–525, title XII, §1213(a), 98 Stat. 2591; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(14), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], 100Stat. 1783–82, 1783–153, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], 100 Stat. 3341–82, 3341–153; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), 100 Stat. 3853, 3932, 3933, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Sept. 29, 1988, Pub. L. 100–456, div. A, title VIII, §806, 102 Stat. 2010; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(f), 103 Stat. 1519; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §802(a)–(d), 104 Stat. 1588, 1589; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(5), 107 Stat. 1771; Oct. 13, 1994, Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), 108 Stat. 3254–3257, 3347.)
 
 Historical and Revision Notes<br>1956
 
@@ -268,7 +268,7 @@ Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted “competitive
 
 Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within the competitive range, considering only cost or price and the other factors included in the solicitation.
+“(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within thecompetitive range, considering only cost or price and the other factors included in the solicitation.
 
 “(C) In the case of award of a contract under subparagraph (A)(ii), the head of the agency shall award the contract based on the proposals received (and as clarified, if necessary, in discussions conducted for the purpose of minor clarification).”
 
@@ -336,7 +336,7 @@ Research and development contracts, negotiation without advertising, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2320 of this title; title 42 section 1594; title 50 section 403c.
+This section is referred to in section 2320 of this title; title 40 section 759; title 42 section 1594; title 50 section 403c.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,4 +1,4 @@
-### §46g–1 . Telephone allowances for House Members for strictly official telephone service
+### §46g–1. Telephone allowances for House Members for strictly official telephone service
 
 (a) Effective as of April 1, 1971, until otherwise provided by law, the Clerk of the House of Representatives shall reimburse, from the contingent fund of the House—
 
@@ -6,7 +6,7 @@
 
 &emsp;(2) the Delegate from the District of Columbia in an amount not more than $450 quarterly for charges for strictly official telephone service incurred within the District of Columbia.
 
-(b) Any unused portion of each quarterly allowance provided by this section shall lapse. The Committee on House Administration shall make such rules and regulations as the committee considers necessary to carry out this section. The amounts provided by this section shall be in addition to any other amounts provided by law which may be available for payment of charges described in subsection (a) of this section.
+(b) Any unused portion of each quarterly allowance provided by this section shall lapse. The Committee on House Administration shall make such rules and regulations as the committee considers necessary to carry out this section. The amounts provided by this section shall be in addition to any other amounts provided by lawwhich may be available for payment of charges described in subsection (a) of this section.
 
 (Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636.)
 
@@ -20,7 +20,7 @@ A prior section, based on House Resolution No. 161, Ninetieth Congress, May 11, 
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Transfer of Functions
 

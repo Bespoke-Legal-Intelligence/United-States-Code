@@ -4,7 +4,7 @@
 
 Water Conservation Activities.—(1) The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by a utility for the management of water demand or for water conservation.
 
-(2) The Secretary of Defense may authorize a military installation to accept a financial incentive (including an agreement to reduce theamount of a future water bill), goods, or services generally available from a utility, for the purpose of adopting technologies and practices that—
+(2) The Secretary of Defense may authorize a military installation to accept a financial incentive (including an agreement to reduce the amount of a future water bill), goods, or services generally available from a utility, for the purpose of adopting technologies and practices that—
 
 &emsp;(A) relate to the management of water demand or to water conservation; and
 
@@ -16,7 +16,7 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 (B) Subject to the availability of appropriations, a repayment of an advance payment under subparagraph (A) shall be made from funds available to a military department for the purchase of utility services.
 
-(C) An agreement under paragraph (3) shall provide that title to a water-saving device or technology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
+(C) An agreement under paragraph (3) shall provide that title to a water-saving device ortechnology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
 (b)
 
@@ -32,7 +32,11 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Retention of Savings and Rebates
+
+For provisions requiring Director of Office of Management and Budget to develop guidelines and to implement procedures to allow agencies to retain savings from water conservation efforts as provided in this section, see Ex. Ord. No. 12902, §502, Mar. 8, 1994, 59 F.R. 11469, set out as a note under section 6201 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §411 . Joint Committee on Congressional Operations
+### §411. Joint Committee on Congressional Operations
 
 #### (a) Creation
 
@@ -24,7 +24,7 @@ The Joint Committee shall select a chairman and a vice chairman from among its m
 
 #### Effective Date
 
-Chapter effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
+Chapter effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as anEffective Date of 1970 Amendment note under section 72a of this title.
 
 #### Cessation
 

@@ -18,7 +18,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Domestic administrative practices
 
-&emsp;As soon as practicable after the close of the two-year period beginning on the date on which any waiver under section 2511(a) of this title first takes effect, the President shall prepare and transmit to Congress a report containing an evaluation of administrative practices under any provision of law which requires determinations to be made of the country of origin of goods, products, commodities, or other articles of commerce. Such evaluation shall be accompanied by the President's recommendations for legislative and executive measures required to improve and simplify and to make more uniform and consistent such practices. Such evaluation and recommendations shall take into account the special problems affecting insular possessions of the United States with respect to such practices.
+&emsp;As soon as practicable after the close of the two-year period beginning on the date on which any waiver under section 2511(a) of this title first takes effect, the President shall prepare and transmit to Congress a report containing an evaluation of administrative practices under any provision of law which requires determinations to be made of the country of origin of goods, products, commodities, or other articles of commerce. Such evaluation shall be accompanied by the President's recommendations for legislative and executive measures required to improve and simplify and to make more uniform and consistent such practices. Such evaluation and recommendations shall take into account the specialproblems affecting insular possessions of the United States with respect to such practices.
 
 #### (2) Foreign administrative practices
 
@@ -84,7 +84,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (5) Information and advice from Government agencies and United States businesses
 
-&emsp;In developing the annual reports required by this subsection, the President shall seek information and advice from executive agencies through the interagency trade organization established under section 1872(a) of this title, and from United States businesses in the United States and in countries that are signatories to the Agreement and in other foreign countries whose products or services are acquired in significant amounts by the United States Government.
+&emsp;In developing the annual reports required by this subsection, the President shall seek information and advice from executive agenciesthrough the interagency trade organization established under section 1872(a) of this title, and from United States businesses in the United States and in countries that are signatories to the Agreement and in other foreign countries whose products or services are acquired in significant amounts by the United States Government.
 
 #### (6) Impact of noncompliance
 
@@ -224,7 +224,7 @@ The President shall instruct the United States Trade Representative, in conducti
 
 #### (2) Publication of determinations lifting sanctions
 
-&emsp;A notice describing the termination of any sanction under subsection (f)(5) or (g)(3) of this section shall include a copy of the President's determination under such subsection.
+&emsp;A notice describing the termination of any sanction under subsection (f)(5) or (g)(3) of thissection shall include a copy of the President's determination under such subsection.
 
 #### (k) General report on actions under this section
 
@@ -240,7 +240,7 @@ The President shall instruct the United States Trade Representative, in conducti
 
 &emsp;The general report may also include, if appropriate, legislative recommendations for enhancing the usefulness of this section or for other measures to be used as means for eliminating or responding to discriminatory foreign government procurement practices.
 
-(Pub. L. 96–39, title III, §305, July 26, 1979, 93 Stat. 239; Pub. L. 100–418, title VII, §7003, Aug.23, 1988, 102 Stat. 1548; Pub. L. 103–465, title III, §§341, 342(c), 343(c), Dec. 8, 1994, 108 Stat. 4951, 4953, 4955.)
+(Pub. L. 96–39, title III, §305, July 26, 1979, 93 Stat. 239; Pub. L. 100–418, title VII, §7003, Aug. 23, 1988, 102 Stat. 1548; Pub. L. 103–465, title III, §§341, 342(c), 343(c), Dec. 8, 1994, 108 Stat. 4951, 4953, 4955.)
 
 #### Amendment of Section
 

@@ -1,4 +1,4 @@
-### \[§§759a to 761 . Omitted\]
+### \[§§759a to 761. Omitted\]
 
 #### Codification
 

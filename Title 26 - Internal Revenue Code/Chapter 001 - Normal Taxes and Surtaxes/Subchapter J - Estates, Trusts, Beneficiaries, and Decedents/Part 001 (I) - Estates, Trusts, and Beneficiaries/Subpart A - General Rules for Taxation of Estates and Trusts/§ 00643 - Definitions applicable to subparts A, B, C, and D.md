@@ -14,7 +14,7 @@ For purposes of this part, the term “distributable net income” means, with r
 
 #### (3) Capital gains and losses
 
-&emsp;Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extent such losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
+&emsp;Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extentsuch losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
 
 #### (4) Extraordinary dividends and taxable stock dividends
 
@@ -266,9 +266,9 @@ Section 7(j) of Pub. L. 87–834 provided that: “The amendments made by this s
 
 Section 1018(e) of Pub. L. 100–647 provided that: “If—
 
-&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 or more trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
+&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 ormore trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
 
-&emsp;“(2) such trusts would have been required to be so treated but for the amendment made by section1806(b) of the Reform Act \[Pub. L. 99–514, which amended provisions set out as an Effective Date of 1984 Amendment note above\], and
+&emsp;“(2) such trusts would have been required to be so treated but for the amendment made by section 1806(b) of the Reform Act \[Pub. L. 99–514, which amended provisions set out as an Effective Date of 1984 Amendment note above\], and
 
 &emsp;“(3) such trusts did not accumulate any income during such taxable year and did not make any accumulation distributions during such taxable year,
 

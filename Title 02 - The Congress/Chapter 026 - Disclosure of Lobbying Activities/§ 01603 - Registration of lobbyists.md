@@ -1,0 +1,90 @@
+### §1603. Registration of lobbyists
+
+#### (a) Registration
+
+#### (1) General rule
+
+&emsp;No later than 45 days after a lobbyist first makes a lobbying contact or is employed orretained to make a lobbying contact, whichever is earlier, such lobbyist (or, as provided under paragraph (2), the organization employing such lobbyist), shall register with the Secretary of the Senate and the Clerk of the House of Representatives.
+
+#### (2) Employer filing
+
+&emsp;Any organization that has 1 or more employees who are lobbyists shall file a single registration under this section on behalf of such employees for each client on whose behalf the employees act as lobbyists.
+
+#### (3) Exemption
+
+#### (A) General rule
+
+&emsp;&emsp;Notwithstanding paragraphs (1) and (2), a person or entity whose—
+
+&emsp;&emsp;&emsp;(i) total income for matters related to lobbying activities on behalf of a particular client (in the case of a lobbying firm) does not exceed and is not expected to exceed $5,000; or
+
+&emsp;&emsp;&emsp;(ii) total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $20,000,
+
+> &emsp;&emsp;(as estimated under section 1604 of this title) in the semiannual period described in section 1604(a) of this title during which the registration would be made is not required to register under this subsection with respect to such client.
+
+#### (B) Adjustment
+
+&emsp;&emsp;The dollar amounts in subparagraph (A) shall be adjusted—
+
+&emsp;&emsp;&emsp;(i) on January 1, 1997, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) since December 19, 1995; and
+
+&emsp;&emsp;&emsp;(ii) on January 1 of each fourth year occurring after January 1, 1997, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) during the preceding 4-year period,
+
+> &emsp;&emsp;rounded to the nearest $500.
+
+#### (b) Contents of registration
+
+Each registration under this section shall contain—
+
+&emsp;(1) the name, address, business telephone number, and principal place of business of the registrant, and a general description of its business or activities;
+
+&emsp;(2) the name, address, and principal place of business of the registrant's client, and a general description of its business or activities (if different from paragraph (1));
+
+&emsp;(3) the name, address, and principal place of business of any organization, other than the client, that—
+
+&emsp;&emsp;(A) contributes more than $10,000 toward the lobbying activities of the registrant in a semiannual period described in section 1604(a) of this title; and
+
+&emsp;&emsp;(B) in whole or in major part plans, supervises, or controls such lobbying activities.
+
+&emsp;(4) the name, address, principal place of business, amount of any contribution of more than $10,000 to the lobbying activities of the registrant, and approximate percentage of equitable ownership in the client (if any) of any foreign entity that—
+
+&emsp;&emsp;(A) holds at least 20 percent equitable ownership in the client or any organization identified under paragraph (3);
+
+&emsp;&emsp;(B) directly or indirectly, in whole or in major part, plans, supervises, controls, directs, finances, or subsidizes the activities of the client or any organization identified under paragraph (3); or
+
+&emsp;&emsp;(C) is an affiliate of the client or any organization identified under paragraph (3) and has a direct interest in the outcome of the lobbying activity;
+
+&emsp;(5) a statement of—
+
+&emsp;&emsp;(A) the general issue areas in which the registrant expects to engage in lobbying activities on behalf of the client; and
+
+&emsp;&emsp;(B) to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities; and
+
+&emsp;(6) the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 2 years before the date on which such employee first acted (after December 19, 1995) as a lobbyist on behalf of the client, the position in which such employee served.
+
+#### (c) Guidelines for registration
+
+#### (1) Multiple clients
+
+&emsp;In the case of a registrant making lobbying contacts on behalf of more than 1 client, a separate registration under this section shall be filed for each such client.
+
+#### (2) Multiple contacts
+
+&emsp;A registrant who makes more than 1 lobbying contact for the same client shall file a single registration covering all such lobbying contacts.
+
+#### (d) Termination of registration
+
+A registrant who after registration—
+
+&emsp;(1) is no longer employed or retained by a client to conduct lobbying activities, and
+
+&emsp;(2) does not anticipate any additional lobbying activities for such client,
+
+> may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.
+
+(Pub. L. 104–65, §4, Dec. 19, 1995, 109 Stat. 696.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1604, 1609, 1610 of this title.
+

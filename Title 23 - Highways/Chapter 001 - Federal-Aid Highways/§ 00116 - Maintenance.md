@@ -2,13 +2,19 @@
 
 (a) It shall be the duty of the State highway department to maintain, or cause to be maintained, any project constructed under the provisions of this chapter or constructed under the provisions of prior Acts. The State's obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system.
 
-(b) In any State wherein the State highway department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such highway department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located.
+(b) In any State wherein the State highway department is without legal authority to maintaina project constructed on the Federal-aid secondary system, or within a municipality, such highway department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located.
 
 (c) If at any time the Secretary shall find that any project constructed under the provisions of this chapter or constructed under the provisions of prior Acts, is not being properly maintained, he shall call such fact to the attention of the State highway department. If, within ninety days after receipt of such notice, such project has not been put in proper condition of maintenance, the Secretary shall withhold approval of further projects of all types in the State highway district, municipality, county, other political or administrative subdivision of the State, or the entire State in which such project is located, whichever the Secretary deems most appropriate, until such project shall have been put in proper condition of maintenance.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–70, §21(d)(2), (e)(3), June 25, 1959, 73 Stat. 145, 146; Pub. L. 90–495, §26, Aug. 23, 1968, 82 Stat. 829; Pub. L. 95–599, title I, §124(d), Nov. 6, 1978, 92 Stat. 2705; Pub. L. 97–424, title I, §114, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §125(b)(2), Apr. 2, 1987, 101 Stat. 167.)
+(d)
+
+Preventive Maintenance.—A preventive maintenance activity shall be eligible for Federal assistance under this title if the State demonstrates to the satisfaction of the Secretary that the activity is a cost-effective means of extending the useful life of a Federal-aid highway.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–70, §21(d)(2), (e)(3), June 25, 1959, 73 Stat. 145, 146; Pub. L. 90–495, §26, Aug. 23, 1968, 82 Stat. 829; Pub. L. 95–599, title I, §124(d), Nov. 6, 1978, 92 Stat. 2705; Pub. L. 97–424, title I, §114, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §125(b)(2), Apr. 2, 1987, 101 Stat. 167; Pub. L. 104–59, title III, §309, Nov. 28, 1995, 109 Stat. 582.)
 
 #### Amendments
+
+1995—Subsec. (d). Pub. L. 104–59 added subsec. (d).
 
 1987—Subsecs. (d), (e). Pub. L. 100–17 struck out subsecs. (d) and (e) which read as follows:
 

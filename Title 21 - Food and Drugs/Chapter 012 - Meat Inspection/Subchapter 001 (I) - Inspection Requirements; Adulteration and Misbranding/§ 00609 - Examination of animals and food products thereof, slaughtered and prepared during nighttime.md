@@ -1,6 +1,6 @@
 ### §609. Examination of animals and food products thereof, slaughtered and prepared during nighttime
 
-The Secretary shall cause an examination and inspection of all cattle, sheep, swine, goats, horses, mules and other equines, and the food products thereof, slaughtered and prepared in the establishments hereinbefore described for the purposes of commerce to be made during the nighttime as well as during the daytime whenthe slaughtering of said cattle, sheep, swine, goats, horses, mules, and other equines, or the preparation of said food products is conducted during the nighttime.
+The Secretary shall cause an examination and inspection of all cattle, sheep, swine, goats, horses, mules and other equines, and the food products thereof, slaughtered and prepared in the establishments hereinbefore described for the purposes of commerce to be made during the nighttime as well as during the daytime when the slaughtering of said cattle, sheep, swine, goats, horses, mules, and other equines, or the preparation of said food products is conducted during the nighttime.
 
 (Mar. 4, 1907, ch. 2907, title I, §9, formerly 7th par., 34 Stat. 1262; renumbered §9 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 3, 12(a), 81 Stat. 584, 588, 592; Nov. 10, 1986, Pub. L. 99–641, title IV, §403(d)(1), 100 Stat. 3570.)
 

@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2302” for “902” i
 
 1986—Subsec. (a). Pub. L. 99–272 inserted “hospital care in accordance with section 603 of this title or”.
 
-1982—Subsec. (a). Pub. L. 97–306 substituted “When a veteran dies in a Veterans’ Administration facility (as defined in section 601(4) of this title)” for “Where death occurs in a Veterans’ Administration facility” and inserted “or in an institution at which the deceased veteran was receiving nursing home care under section 620 of this title at the expense of the United States at the time of death” after “611(a) of this title.
+1982—Subsec. (a). Pub. L. 97–306 substituted “When a veteran dies in a Veterans’ Administration facility (as defined in section 601(4) of this title)” for “Where deathoccurs in a Veterans’ Administration facility” and inserted “or in an institution at which the deceased veteran was receiving nursing home care under section 620 of this title at the expense of the United States at the time of death” after “611(a) of this title.
 
 1981—Subsec. (b). Pub. L. 97–35 inserted provisions relating to a veteran discharged from active duty for a disability incurred or aggravated in the line of duty, or a war veteran.
 

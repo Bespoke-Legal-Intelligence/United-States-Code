@@ -20,15 +20,15 @@ The Secretary may establish criteria and provide technical assistance for meetin
 
 Nothing in this section shall be construed to alter in any way the rights or responsibilities established under the laws cited in section 1221(d) of this title.
 
-(Pub. L. 90 247, title IV, §427, as added Pub. L. 103 382, title II, §236, Oct. 20, 1994, 108 Stat. 3917.)
+(Pub. L. 90–247, title IV, §427, as added Pub. L. 103–382, title II, §236, Oct. 20, 1994, 108 Stat. 3917.)
 
 #### Prior Provisions
 
-A prior section 427 of Pub. L. 90 247 was renumbered section 434, and is classified to section 1231d of this title.
+A prior section 427 of Pub. L. 90–247 was renumbered section 434, and is classified to section 1231d of this title.
 
-Another prior section 427 of Pub. L. 90 247 was renumbered section 429, and was classified to section 1231f of this title prior to repeal by Pub. L. 103 382.
+Another prior section 427 of Pub. L. 90–247 was renumbered section 429, and was classified to section 1231f of this title prior to repeal by Pub. L. 103–382.
 
 #### Effective Date
 
-Section effective July 1, 1995, for noncompetitive programs in which funds are allocated on the basis of a formula and for programs that are conducted on a competitive basis, with respect to appropriations for use under such programs in fiscal year 1995 and in subsequent fiscal years, see section 3(a)(2) of Pub. L. 103 382, set out as an Effective Date of 1994 Amendment note under section 1221 of this title.
+Section effective July 1, 1995, for noncompetitive programs in which funds are allocated on the basis of a formula and for programs that are conducted on a competitive basis, with respect to appropriations for use under such programs in fiscal year 1995 and in subsequent fiscal years, see section 3(a)(2) of Pub. L. 103–382, set out as an Effective Date of 1994 Amendment note under section 1221 of this title.
 

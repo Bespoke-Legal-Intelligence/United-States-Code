@@ -52,7 +52,7 @@
 
 &emsp;(E) negotiate, conclude, and carry out agreements with foreign countries limiting the export from foreign countries and the import into the United States of such article;
 
-&emsp;(F) proclaim procedures necessary to allocate among importers by the auction of import licenses quantities of the article that are permitted to be imported into the United States;
+&emsp;(F) proclaim procedures necessary to allocate among importers by the auction of import licenses quantities of the article that arepermitted to be imported into the United States;
 
 &emsp;(G) initiate international negotiations to address the underlying cause of the increase in imports of the article or otherwise to alleviate the injury or threat thereof;
 
@@ -62,7 +62,7 @@
 
 &emsp;(J) take any combination of actions listed in subparagraphs (A) through (I).
 
-(4)(A) Subject to subparagraph (B), the President shall take action under paragraph (1) within 60 days (50 days if the President has proclaimed provisional relief under section2252(d)(2)(D) of this title with respect to the article concerned) after receiving a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title (or a determination under such section which he considers to be an affirmative determination by reason of section 1330(d) of this title).
+(4)(A) Subject to subparagraph (B), the President shall take action under paragraph (1) within 60 days (50 days if the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned) after receiving a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title (or a determination under such section which he considers to be an affirmative determination by reason of section 1330(d) of this title).
 
 (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
 
@@ -104,13 +104,13 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 (ii) The effective period of any action under this section, including any extensions thereof, may not, in the aggregate, exceed 8 years.
 
-(2) Action of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
+(2) Action of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
 
 (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
 
 (4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the United States in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
 
-(5) An action described in subsection (a)(3)(A), (B), or (C) of this section that has an effectiveperiod of more than 1 year shall be phased down at regular intervals during the period in which the action is in effect.
+(5) An action described in subsection (a)(3)(A), (B), or (C) of this section that has an effective period of more than 1 year shall be phased down at regular intervals during the period in which the action is in effect.
 
 (6)(A) The suspension, pursuant to any action taken under this section, of—
 

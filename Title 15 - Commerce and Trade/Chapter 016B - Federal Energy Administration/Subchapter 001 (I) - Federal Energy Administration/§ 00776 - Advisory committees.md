@@ -6,7 +6,7 @@ Whenever the Administrator shall establish or utilize any board, task force, com
 
 #### (b) Public meetings; participation of interested persons; closed meetings; determination, national security, reasons
 
-Each meeting of such board, task force, commission, committee, or similar group, shall be open to the public, and interested persons shall be permitted to attend, appear before, and file statements with, such group, except that the Administrator may determine that such meeting shall be closed in the interest of national security. Such determination shall be in writing, shall contain a detailed explanation of reasons in justification of the determination, and shall be made available to the public.
+Each meeting of such board, task force, commission, committee, or similar group, shall be open to the public, and interested persons shall be permitted to attend, appear before, and filestatements with, such group, except that the Administrator may determine that such meeting shall be closed in the interest of national security. Such determination shall be in writing, shall contain a detailed explanation of reasons in justification of the determination, and shall be made available to the public.
 
 #### (c) Public inspection and copying of documents
 

@@ -26,7 +26,7 @@
 
 (b) It is therefore the further declared policy of Congress to provide the necessary resources, leadership, and coordination (1) to develop and implement effective methods of preventing and reducing juvenile delinquency, including methods with a special focus on preserving and strengthening families so that juveniles may be retained in their homes; (2) to develop and conduct effective programs to prevent delinquency, to divert juveniles from the traditional juvenile justice system and to provide critically needed alternatives to institutionalization; (3) to improve the quality of juvenile justice in the United States; (4) to increase the capacity of State and local governments and public and private agencies to conduct effective juvenile justice and delinquency prevention and rehabilitation programs and to provide research, evaluation, and training services in the field of juvenile delinquency prevention; (5) to encourage parental involvement in treatment and alternative disposition programs; and (6) to provide for coordination of services between State, local, and community-based agencies and to promote interagency cooperation in providing such services.
 
-(Pub. L. 93–415, title I, §102, Sept. 7, 1974, 88 Stat. 1110; Pub. L. 96–509, §4, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §612, Oct. 12, 1984, 98 Stat.2108; Pub. L. 102–586, §1(b), Nov. 4, 1992, 106 Stat. 4982.)
+(Pub. L. 93–415, title I, §102, Sept. 7, 1974, 88 Stat. 1110; Pub. L. 96–509, §4, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §612, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 102–586, §1(b), Nov. 4, 1992, 106 Stat. 4982.)
 
 #### References in Text
 

@@ -54,7 +54,7 @@ The Council may certify State content standards and State student performance st
 
 &emsp;&emsp;(C) the extent to which teachers, principals, and administrators have ready and continuing access to professional development, including the best knowledge about teaching, learning, and school improvement;
 
-&emsp;&emsp;(D) the extent to which curriculum, instructional practices, and assessments are aligned to voluntary national content standards;
+&emsp;&emsp;(D) the extent to which curriculum, instructional practices, and assessments arealigned to voluntary national content standards;
 
 &emsp;&emsp;(E) the extent to which school facilities provide a safe and secure environment for learning and instruction and have the requisite libraries, laboratories, and other resources necessary to provide an opportunity-to-learn;
 
@@ -94,7 +94,7 @@ The Council may certify State opportunity-to-learn standards submitted voluntari
 
 #### (e) General provision regarding voluntary national standards
 
-The Council may certify voluntary national content standards, voluntary national student performance standards, and voluntary national opportunity-to-learn standards if such standardsare sufficiently general to be used by any State without restricting State and local control of curriculum and prerogatives regarding instructional methods to be employed.
+The Council may certify voluntary national content standards, voluntary national student performance standards, and voluntary national opportunity-to-learn standards if such standards are sufficiently general to be used by any State without restricting State and local control of curriculum and prerogatives regarding instructional methods to be employed.
 
 #### (f) State assessments
 
@@ -130,7 +130,7 @@ The Council may certify voluntary national content standards, voluntary national
 
 &emsp;&emsp;&emsp;(IV) a description of the other measures the State will use to evaluate student performance; and
 
-&emsp;&emsp;&emsp;(V) evidence that the test or tests which are part of the State assessments are valid, reliable measures of their intended purposes, are aligned with the State content standards, are capable of assessing the progress of all students toward learning the material in the State content standards, and are consistent with relevant nationally recognized professional and technical standards.
+&emsp;&emsp;&emsp;(V) evidence that the test or tests which are part of the State assessments are valid, reliable measures of their intendedpurposes, are aligned with the State content standards, are capable of assessing the progress of all students toward learning the material in the State content standards, and are consistent with relevant nationally recognized professional and technical standards.
 
 &emsp;(D) The Council, at the request of a State prior to the State's submission to the Council of a State assessment for a proposed use, shall review and provide guidance to such State on a proposed package of measures, including tests that will be included in such a system.
 
@@ -168,7 +168,7 @@ In carrying out its responsibilities under this subchapter, the Council shall—
 
 &emsp;(2) work with Federal and non-Federal departments, agencies, or organizations which are conducting research, studies, or demonstration projects to determine internationally competitive standards and assessments, and may establish subject matter and other panels to advise the Council on particular content, student performance, and opportunity-to-learn standards and on State assessments;
 
-&emsp;(3) establish cooperative arrangements with the National Skill Standards Board to promote the coordination of the development of content and student performance standards under this subchapter with the development ofskill standards under subchapter V of this chapter;
+&emsp;(3) establish cooperative arrangements with the National Skill Standards Board to promote the coordination of the development of content and student performance standards under this subchapter with the development of skill standards under subchapter V of this chapter;
 
 &emsp;(4) recommend studies to the Secretary that are necessary to carry out the Council's responsibilities;
 
@@ -188,11 +188,11 @@ In carrying out its responsibilities under this subchapter, the Council shall—
 
 &emsp;Nothing in this chapter shall be construed to create a legally enforceable right for any person against a State, local educational agency, or school based on a standard or assessment certified by the Council or the criteria developed by the Council for such certification.
 
-(Pub. L. 103 227, title II, §213, Mar. 31, 1994, 108 Stat. 142.)
+(Pub. L. 103–227, title II, §213, Mar. 31, 1994, 108 Stat. 142.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

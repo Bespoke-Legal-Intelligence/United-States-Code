@@ -32,7 +32,7 @@ The decisions of a panel convened by the Secretary pursuant to this section shal
 
 #### (d) Payment of costs by the Secretary
 
-The Secretary shall pay all reasonable costs of arbitration under this section in accordancewith a schedule of fees and expenses he shall publish in the Federal Register.
+The Secretary shall pay all reasonable costs of arbitration under this section in accordance with a schedule of fees and expenses he shall publish in the Federal Register.
 
 (June 20, 1936, ch. 638, §6, as added Dec. 7, 1974, Pub. L. 93–516, title II, §206, 88 Stat. 1626; Nov. 21, 1974, Pub. L. 93–651, title II, §206, 89 Stat. 2–11.)
 
@@ -40,7 +40,7 @@ The Secretary shall pay all reasonable costs of arbitration under this section i
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed tohave become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 #### Prior Provisions
 

@@ -42,9 +42,9 @@ The Administrator is authorized to assist the Nation's fire services, directly o
 
 #### (e) Coordination
 
-In establishing and conducting programs under this section, the Administrator shall take full advantage of applicable technological developments made by other departments and agencies of the Federal Government, by State andlocal governments, and by business, industry, and nonprofit associations.
+In establishing and conducting programs under this section, the Administrator shall take full advantage of applicable technological developments made by other departments and agencies of the Federal Government, by State and local governments, and by business, industry, and nonprofit associations.
 
-(Pub. L. 93 498, §8, Oct. 29, 1974, 88 Stat. 1540.)
+(Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540.)
 
 #### Transfer of Functions
 

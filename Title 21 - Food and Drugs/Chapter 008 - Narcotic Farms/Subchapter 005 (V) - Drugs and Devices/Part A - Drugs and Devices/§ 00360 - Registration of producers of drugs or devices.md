@@ -108,13 +108,13 @@ Subsec. (j)(1)(B). Pub. L. 94–295, §4(a)(8)(C), in introductory provisions su
 
 Subsec. (j)(1)(B)(i). Pub. L. 94–295, §4(a)(8)(D), substituted “which drug is subject to section 353(b)(1) of this title, or which device is a restricted device, a copy of all labeling for such drug or device, a representative sampling of advertisements for such drug or device, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product or device, or” for “which is subject to section 353(b)(1) of this title, a copy of all labeling for such drug, a representative sampling of advertisements for such drug, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product, or”.
 
-Subsec. (j)(1)(B)(ii). Pub. L. 94–295, §4(a)(8)(E), substituted “which drug is not subject to section 353(b)(1) of this title or which device is not a restricted device,the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to section 353(b)(1) of this title, the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
+Subsec. (j)(1)(B)(ii). Pub. L. 94–295, §4(a)(8)(E), substituted “which drug is not subject to section 353(b)(1) of this title or which device is not a restricted device, the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to section 353(b)(1) of this title, the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
 
 Subsec. (j)(1)(C). Pub. L. 94–295, §4(a)(8)(F), substituted “an applicable list” for “such list”.
 
 Subsec. (j)(1)(D). Pub. L. 94–295, §4(a)(8)(G), substituted “a list” for “the list”, inserted “or the particular device contained in such list is not subject to a performance standard established under section 360d of this title or to section 360e of this title or is not a restricted device” after “or 360b of this title,”, and substituted “particular drug product or device” for “particular drug product” wherever appearing.
 
-Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or “device” for “drug” in subpars. (A), (B), and (C), and substituted “(each by established name” for “(by established name” in subpar. (C).
+Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or “device” for “drug” in subpars. (A), (B), and\(C), and substituted “(each by established name” for “(by established name” in subpar. (C).
 
 Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 
@@ -168,7 +168,7 @@ Section 2 of Pub. L. 92–387 provided that: “The Federal Government which is 
 
 #### Registration of Certain Persons Owning or Operating Drug Establishments Prior to Oct. 10, 1962
 
-Section 303 of Pub. L. 87–781 provided that any person who, on the day immediately preceding Oct. 10, 1962, owned or operated an establishment which manufactured or processed drugs, registered before the first day of the seventh month following October, 1962, would be deemed to be registered in accordance with subsec. (b)of this section for the calendar year 1962 and if registered within this period and effected in 1963, be deemed in compliance for that calendar year.
+Section 303 of Pub. L. 87–781 provided that any person who, on the day immediately preceding Oct. 10, 1962, owned or operated an establishment which manufactured or processed drugs, registered before the first day of the seventh month following October, 1962, would be deemed to be registered in accordance with subsec. (b) of this section for the calendar year 1962 and if registered within this period and effected in 1963, be deemed in compliance for that calendar year.
 
 #### Section Referred to in Other Sections
 

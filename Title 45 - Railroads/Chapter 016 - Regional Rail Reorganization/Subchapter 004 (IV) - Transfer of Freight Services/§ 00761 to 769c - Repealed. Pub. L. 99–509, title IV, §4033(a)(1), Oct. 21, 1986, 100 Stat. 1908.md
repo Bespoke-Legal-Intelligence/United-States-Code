@@ -2,15 +2,15 @@
 
 Section 761, Pub. L. 93–236, title IV, §401, as added Pub. L. 97–35, title XI, §1142, Aug. 13, 1981, 95 Stat. 654, related to sale of interest of United States in common stock of Consolidated Rail Corporation.
 
-A prior section 761, Pub. L. 93–236, title IV, §401, Jan. 2, 1974, 87 Stat. 1010, which related to Congressional findings and purpose in providing for a program of rail service continuation subsidies, was repealed by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
+A prior section 761, Pub. L. 93–236, title IV, §401, Jan. 2, 1974, 87 Stat. 1010, related to Congressional findings and purpose in providing for a program of rail service continuation subsidies, prior to repeal by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
 
 Section 762, Pub. L. 93–236, title IV, §402, as added Pub. L. 97–35, title XI, §1142, Aug. 13, 1981, 95 Stat. 655, related to debt and preferred stock of Consolidated Rail Corporation.
 
-A prior section 762, Pub. L. 93–236, title IV, §402, Jan. 2, 1974, 87 Stat. 1010; Pub. L. 93–488, §1(d), Oct. 26, 1974, 88 Stat. 1464; Pub. L. 94–210, title VIII, §805(a), Feb. 5, 1976, 90 Stat. 139, which directed the Secretary to provide financial assistance to States and local or regional transportation authorities in facilitating and maintaining main line or local rail service, was repealed by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
+A prior section 762, Pub. L. 93–236, title IV, §402, Jan. 2, 1974, 87 Stat. 1010; Pub. L. 93–488, §1(d), Oct. 26, 1974, 88 Stat. 1464; Pub. L. 94–210, title VIII, §805(a), Feb. 5, 1976, 90 Stat. 139, directed Secretary to provide financial assistance to States and local or regional transportation authorities in facilitating and maintaining main line or local rail service, prior to repeal by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
 
 Section 763, Pub. L. 93–236, title IV, §403, as added Pub. L. 97–35, title XI, §1142, Aug. 13, 1981, 95 Stat. 655, related to determinations about profitability of Consolidated Rail Corporation.
 
-A prior section 763, Pub. L. 93–236, title IV, §403, Jan. 2, 1974, 87 Stat. 1012; Pub. L. 93–488, §1(e), Oct 26, 1974, 88 Stat. 1465; Pub. L. 94–210, title VIII, §805(b), (c), Feb. 5, 1976, 90 Stat. 142, which authorized the Association to provide loans for the acquisition of rail properties by States or local or regional transportation authorities and for the modernization of those acquired properties, was repealed by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
+A prior section 763, Pub. L. 93–236, title IV, §403, Jan. 2, 1974, 87 Stat. 1012; Pub. L. 93–488, §1(e), Oct 26, 1974, 88 Stat. 1465; Pub. L. 94–210, title VIII, §805(b), (c), Feb. 5, 1976, 90 Stat. 142, authorized Association to provide loans for acquisition of rail properties by States or local or regional transportation authorities and for modernization of those acquired properties, prior to repeal by Pub. L. 94–210, title VIII, §806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
 
 Section 764, Pub. L. 93–236, title IV, §404, as added Pub. L. 97–35, title XI, §1142, Aug. 13, 1981, 95 Stat. 656, related to failure to sell interest of United States in common stock of Consolidated Rail Corporation as an entity.
 

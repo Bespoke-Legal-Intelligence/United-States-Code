@@ -24,7 +24,7 @@
 
 &emsp;(C) an estimate of the change in the applicant's costs which will result from such discontinuance and conversion; and
 
-&emsp;(D) reasonable assurance that all laborers and mechanics employed by contractors orsubcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act), and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 276c of title 40;
+&emsp;(D) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act), and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 276c of title 40;
 
 &emsp;(E) such other information as the Secretary may require.
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) if the Secretary is unable to determine that the cost of providing inpatient health services in the health service area in which the applicant is located will be less than if the inpatient health services proposed to be discontinued were not discontinued.
 
-(B) In considering applications of hospitals for grants the Secretary shall consider the recommendations of health systems agencies and State Agencies and shall give special consideration to applications (i) which will assist health systems agencies and State Agencies to meet the goals in their health systems plans and State health plans, or (ii) which will result in the greatest reduction in hospital costs within a health service area.
+(B) In considering applications of hospitals for grants the Secretary shall consider the recommendations of health systems agencies and State Agencies and shall give special consideration to applications (i) which will assist healthsystems agencies and State Agencies to meet the goals in their health systems plans and State health plans, or (ii) which will result in the greatest reduction in hospital costs within a health service area.
 
 #### (c) Certification of protective arrangements for employment benefits and interests; guidelines; satisfactory arrangement determinations
 
@@ -58,7 +58,7 @@
 
 #### (d) Records and audits requirements
 
-The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respectto grants made under subsection (a) of this section.
+The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respect to grants made under subsection (a) of this section.
 
 #### (e) “Hospital” defined
 

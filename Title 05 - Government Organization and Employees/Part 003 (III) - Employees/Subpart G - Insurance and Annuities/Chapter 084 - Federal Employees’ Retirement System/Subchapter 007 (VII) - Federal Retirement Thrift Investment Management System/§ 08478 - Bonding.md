@@ -46,9 +46,9 @@
 
 #### Amendments
 
-1992—Subsec. (a)(2)(B)(iii). Pub. L. 102–378 struck out “Corporation or the Federal Savings and Loan Insurance” before “Corporation”.
+<b>1992</b>—Subsec. (a)(2)(B)(iii). Pub. L. 102–378 struck out “Corporation or the Federal Savings and Loan Insurance” before “Corporation”.
 
-1986—Subsec. (a)(1). Pub. L. 99–556, §108, struck out “(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)” after “each fiduciary”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–556, §108, struck out “(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)” after “each fiduciary”.
 
 Subsec. (c)(2). Pub. L. 99–556, §115, substituted “sections 9304 through 9308 of title 31” for “sections 6 through 13 of title 6”.
 

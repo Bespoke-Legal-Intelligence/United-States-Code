@@ -1,4 +1,4 @@
-### §7311 . Repair or maintenance of naval vessels: handling of hazardous waste
+### §7311. Repair or maintenance of naval vessels: handling of hazardous waste
 
 (a)
 
@@ -32,7 +32,7 @@ Accountability for hazardous wastes.—(A) A provision specifying the following:
 
 Renegotiation of Contract.—The Secretary of the Navy shall renegotiate a contract described in subsection (a) if—
 
-&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardous wastes different in type or amount from those identified in the contract; and
+&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardouswastes different in type or amount from those identified in the contract; and
 
 &emsp;(2) those hazardous wastes originated on, or resulted from material furnished by the Government for, the naval vessel on which the work is being performed.
 
@@ -42,7 +42,7 @@ Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wast
 
 (d)
 
-Relationship to Solid Waste Disposal Act.—Nothing in this section shall be construedas altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
+Relationship to Solid Waste Disposal Act.—Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
 
 (Added Pub. L. 99–661, div. A, title XII, §1202(a), Nov. 14, 1986, 100 Stat. 3967; amended Pub. L. 101–189, div. A, title XVI, §1611(a), Nov. 29, 1989, 103 Stat. 1599.)
 

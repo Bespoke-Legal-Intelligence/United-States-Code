@@ -6,7 +6,7 @@ The Secretary of State shall be responsible for coordinating all assistance rela
 
 #### (b) Reports
 
-Not later than February 1 each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of theCongress on the assistance related to international terrorism which was provided by the United States Government during the preceding fiscal year. Such reports may be provided on a classified basis to the extent necessary, and shall specify the amount and nature of the assistance provided.
+Not later than February 1 each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance related to international terrorism which was provided by the United States Government during the preceding fiscal year. Such reports may be provided on a classified basis to the extent necessary, and shall specify the amount and nature of the assistance provided.
 
 #### (c) Rule of construction
 

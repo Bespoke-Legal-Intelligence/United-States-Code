@@ -13,19 +13,19 @@
 | [3069\.](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment.md) | Army Nurse Corps: composition; chief and assistant chief; appointment. |
 | [3070\.](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md) | Army Medical Specialist Corps: organization; Chief and assistant chiefs. |
 | \[3071. | Repealed.\] |
-| 3072\. | Judge Advocate General's Corps. |
-| 3073\. | Chaplains. |
-| 3074\. | Commands: territorial organization; engineer tactical units. |
-| 3075\. | Regular Army: composition. |
+| [3072\.](%C2%A7%2003072%20-%20Judge%20Advocate%20General%27s%20Corps.md) | Judge Advocate General's Corps. |
+| [3073\.](%C2%A7%2003073%20-%20Chaplains.md) | Chaplains. |
+| [3074\.](%C2%A7%2003074%20-%20Commands%20territorial%20organization%3B%20engineer%20tactical%20units.md) | Commands: territorial organization; engineer tactical units. |
+| [3075\.](%C2%A7%2003075%20-%20Regular%20Army%20composition.md) | Regular Army: composition. |
 | \[3076 to 3080. Repealed.\] |  |
-| 3081\. | Dental Corps: Chief, functions. |
+| [3081\.](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md) | Dental Corps: Chief, functions. |
 | \[3082. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title X, §1070(a)(16), title XVI, §1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States:status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.” before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
+1994—Pub. L. 103–337, div. A, title X, §1070(a)(16), title XVI, §1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.” before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
 
 1993—Pub. L. 103–160, div. A, title V, §521(b), Nov. 30, 1993, 107 Stat. 1655, added item 3082.
 

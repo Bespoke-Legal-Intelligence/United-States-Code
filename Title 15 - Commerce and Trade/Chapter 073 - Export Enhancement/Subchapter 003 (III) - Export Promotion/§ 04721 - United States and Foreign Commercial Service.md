@@ -58,7 +58,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
 
-&emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer<sup>1</sup> as head of each foreign office.
+&emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
 
 &emsp;(C) Upon the request of the Secretary, the Secretary of State shall attach the Commercial Service Officers and other employees of each foreign office to the diplomatic mission of the United States in the country in which that foreign office is located, and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by Foreign Service personnel of comparable rank and salary.
 
@@ -84,7 +84,7 @@ In order to carry out subsection (b)(7) of this section, to lessen the cost of d
 
 #### (f) Cooperation in Federal financing and insurance programs
 
-To assist the Commercial Service in carrying out subsection (b)(9) of this section, and consistent with the provisions of section 635i 7 of title 12, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+To assist the Commercial Service in carrying out subsection (b)(9) of this section, and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
 
 &emsp;(1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
 
@@ -130,27 +130,27 @@ For purposes of this section—
 
 &emsp;(6) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 100 418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102 429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204.)
+(Pub. L. 100–418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204.)
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96 465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
-Section is comprised of section 2301 of Pub. L. 100 418. Subsec. (i) of section 2301 of Pub. L. 100 418 amended section 5315 of Title 5, Government Organization and Employees.
+Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of section 2301 of Pub. L. 100–418 amended section 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1992—Subsec. (b)(8), (9). Pub. L. 102 429, §§202, 203(a), added pars. (8) and (9).
+1992—Subsec. (b)(8), (9). Pub. L. 102–429, §§202, 203(a), added pars. (8) and (9).
 
-Subsec. (d)(1). Pub. L. 102 429, §205, substituted “16” for “8”.
+Subsec. (d)(1). Pub. L. 102–429, §205, substituted “16” for “8”.
 
-Subsecs. (f) to (j). Pub. L. 102 429, §203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4727, 4728 of this title; title 12 section 635i 7.
+This section is referred to in sections 4727, 4728 of this title; title 12 section 635i–7.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “Commercial Service Officer”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Commercial Service Officer”.</i>
 

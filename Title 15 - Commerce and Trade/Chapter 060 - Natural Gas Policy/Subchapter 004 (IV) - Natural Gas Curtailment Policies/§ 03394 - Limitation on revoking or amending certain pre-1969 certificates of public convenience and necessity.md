@@ -8,7 +8,7 @@ The Commission may not, during the 10-year period beginning on November 9, 1978,
 
 The limitation under subsection (a) of this section shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
 
-(Pub. L. 95 621, title IV, §404, Nov. 9, 1978, 92 Stat. 3396.)
+(Pub. L. 95–621, title IV, §404, Nov. 9, 1978, 92 Stat. 3396.)
 
 #### References in Text
 

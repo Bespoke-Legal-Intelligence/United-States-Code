@@ -70,7 +70,7 @@ Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provid
 
 #### Emergency Plans for Regulation of Nationals of Enemy Countries
 
-Attorney General to develop national security emergency plans for regulation of immigration, regulation of nationals of enemy countries, and plans to implement laws for control of persons entering or leaving the United States, see section 1101(4) of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 2251 of Title 50, Appendix, War and National Defense.
+Attorney General to develop national security emergency plans for regulation of immigration, regulation of nationals of enemy countries, and plans to implement laws for control of persons entering or leaving the United States, see section 1101(4) of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Cross References
 

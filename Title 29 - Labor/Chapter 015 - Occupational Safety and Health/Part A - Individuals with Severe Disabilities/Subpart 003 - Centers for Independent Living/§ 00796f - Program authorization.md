@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds appropriated for fiscal year 1994 and for each subsequent fiscal year to carryout this subpart, the Commissioner shall allot such sums as may be necessary to States and other entities in accordance with subsections (b) through (d) of this section.
+From the funds appropriated for fiscal year 1994 and for each subsequent fiscal year to carry out this subpart, the Commissioner shall allot such sums as may be necessary to States and other entities in accordance with subsections (b) through (d) of this section.
 
 #### (b) Training
 
@@ -40,7 +40,7 @@ From the funds appropriated for fiscal year 1994 and for each subsequent fiscal 
 
 #### (C) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart and except as provided in subparagraph (B), for a fiscal year in which the amounts appropriated to carry out this subpart exceed the amounts appropriated for fiscal year 1992 to carry out part B of this subchapter, as in effect on the day before October 29, 1992—
+&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart and except asprovided in subparagraph (B), for a fiscal year in which the amounts appropriated to carry out this subpart exceed the amounts appropriated for fiscal year 1992 to carry out part B of this subchapter, as in effect on the day before October 29, 1992—
 
 &emsp;&emsp;&emsp;(i) if such excess is not less than $8,000,000, the allotment to any State under subparagraph (A) shall be not less than $450,000 or one-third of one percent of the sums made available for the fiscal year for which the allotment is made, whichever is greater, and the allotment of any State under this section for any fiscal year that is less than $450,000 or one-third of one percent of such sums shall be increased to the greater of the two amounts;
 
@@ -56,7 +56,7 @@ From the funds appropriated for fiscal year 1994 and for each subsequent fiscal 
 
 #### (B) Allotment
 
-&emsp;&emsp;Each jurisdiction described in subparagraph (A) shall be allotted under paragraph\(1)(A) not less than one-eighth of one percent of the remainder for the fiscal year for which the allotment is made, except that the Republic of Palau may receive such allotment under this section only until the Compact of Free Association with Palau takes effect.
+&emsp;&emsp;Each jurisdiction described in subparagraph (A) shall be allotted under paragraph (1)(A) not less than one-eighth of one percent of the remainder for the fiscal year for which the allotment is made, except that the Republic of Palau may receive such allotment under this section only until the Compact of Free Association with Palau takes effect.
 
 #### (3) Adjustment for inflation
 

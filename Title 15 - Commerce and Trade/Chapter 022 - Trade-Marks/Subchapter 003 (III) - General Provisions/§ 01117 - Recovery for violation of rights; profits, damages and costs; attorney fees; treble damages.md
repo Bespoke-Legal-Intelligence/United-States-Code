@@ -52,5 +52,5 @@ Damages not recoverable on failure to give notice of registration, see section 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1122 of this title.
+This section is referred to in sections 1122, 1125 of this title.
 

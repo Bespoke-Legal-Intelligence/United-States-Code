@@ -40,7 +40,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 #### (c) Initiation of proceeding; authorization by Attorney General, notice, etc., estoppel, failure to comply with order or procedure
 
-(1) The Secretary may initiate a proceeding to determine whether to impose a civil money penalty, assessment, or exclusion under subsection (a) or (b) of this section only as authorized by the Attorney General pursuant to procedures agreed upon by them. The Secretary may not initiate an action under this section with respect to any claim, request for payment, or other occurrence described in this section later than six years after the date the claim was presented, the request for payment was made, or the occurrence took place. The Secretary may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
+(1) The Secretary may initiate a proceeding to determine whether to impose a civil money penalty, assessment, or exclusion under subsection (a) or (b) of this section only as authorized by the Attorney General pursuant to procedures agreed upon by them. The Secretary may not initiate an action under this section with respect to any claim, request for payment, orother occurrence described in this section later than six years after the date the claim was presented, the request for payment was made, or the occurrence took place. The Secretary may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
 
 (2) The Secretary shall not make a determination adverse to any person under subsection (a) or (b) of this section until the person has been given written notice and an opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.
 
@@ -52,7 +52,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 > the person is estopped from denying the essential elements of the criminal offense.
 
-(4) The official conducting a hearing under this section may sanction a person, including any party or attorney, for failing to complywith an order or procedure, failing to defend an action, or other misconduct as would interfere with the speedy, orderly, or fair conduct of the hearing. Such sanction shall reasonably relate to the severity and nature of the failure or misconduct. Such sanction may include—
+(4) The official conducting a hearing under this section may sanction a person, including any party or attorney, for failing to comply with an order or procedure, failing to defend an action, or other misconduct as would interfere with the speedy, orderly, or fair conduct of the hearing. Such sanction shall reasonably relate to the severity and nature of the failure or misconduct. Such sanction may include—
 
 &emsp;(A) in the case of refusal to provide or permit discovery, drawing negative factual inferences or treating such refusal as an admission by deeming the matter, or certain facts, to be established,
 
@@ -88,7 +88,7 @@ Any person adversely affected by a determination of the Secretary under this sec
 
 Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
 
-&emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX of this chapter, there shall be paid to the State agency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
+&emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX of this chapter, there shall be paid to the Stateagency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
 
 &emsp;(B) In the case of amounts recovered arising out of a claim under an allotment to a State under subchapter V of this chapter, there shall be paid to the State agency an amount equal to three-sevenths of the amount recovered.
 
@@ -134,7 +134,7 @@ Whenever the Secretary has reason to believe that any person has engaged, is eng
 
 A principal is liable for penalties, assessments, and an exclusion under this section for the actions of the principal's agent acting within the scope of the agency.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2105(a), 95 Stat. 789; amended Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(26), 96 Stat. 380; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), 98 Stat. 1073, 1100; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), 100 Stat. 2003, 2008; Aug. 18, 1987, Pub. L. 100–93, §3, 101 Stat. 686; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), 101 Stat. 1330–155, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), 102 Stat. 775, 794, 795; July 1, 1988, Pub. L. 100–360, title II, §202(c)(2), 102 Stat. 715; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), 102 Stat. 2422; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), 103 Stat. 2153; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Oct. 31, 1994, Pub. L. 103–432, title I, §160(d)(4), 108 Stat. 4444.)
+(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2105(a), 95 Stat. 789; amended Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(26), 96 Stat. 380; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), 98 Stat. 1073, 1100; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), 100 Stat. 2003, 2008; Aug. 18, 1987, Pub. L. 100–93, §3, 101 Stat. 686; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), 101 Stat. 1330–155, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), 102 Stat. 775, 794, 795; July 1, 1988, Pub. L. 100–360, title II, §202(c)(2), 102 Stat. 715; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), 102 Stat. 2422; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI,§6003(g)(3)(D)(i), 103 Stat. 2153; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Oct. 31, 1994, Pub. L. 103–432, title I, §160(d)(4), 108 Stat. 4444.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsec. (j). Pub. L. 101–508, §4753, made an amendment to subsec. (j) identic
 
 Pub. L. 101–508, §4207(h), formerly §4027(h), as renumbered by Pub. L. 103–432, designated existing provisions as par. (1) and added par. (2).
 
-1989—Subsec. (a)(1)(D), (2)(C), (4). Pub. L. 101–234 repealed Pub. L. 100–360, §202(c), and provided that theprovisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
+1989—Subsec. (a)(1)(D), (2)(C), (4). Pub. L. 101–234 repealed Pub. L. 100–360, §202(c), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 101–239 substituted “hospital or a rural primary care hospital” for “hospital” in introductory and concluding provisions.
 
@@ -234,7 +234,7 @@ Subsec. (i)(2). Pub. L. 100–203, §4118(e)(10)(B), as added by Pub. L. 100–3
 
 &emsp;“(B) a person, agency, or organization that furnishes an item or service for which medical assistance is provided under subchapter XIX of this chapter, or
 
-&emsp;“(C) a person, agency, or organization that provides an item or service for which payment is made undersubchapter V of this chapter or from an allotment to a State under such subchapter,
+&emsp;“(C) a person, agency, or organization that provides an item or service for which payment is made under subchapter V of this chapter or from an allotment to a State under such subchapter,
 
 > to the United States or a State agency, or agent thereof, for payment for health care services under subchapter XVIII or XIX of this chapter or for any item or service under subchapter V of this chapter”.
 
@@ -316,7 +316,7 @@ Section 201(a) of Pub. L. 101–234 provided that:
 
 “(1)
 
-General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
+General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
 
 “(2)
 

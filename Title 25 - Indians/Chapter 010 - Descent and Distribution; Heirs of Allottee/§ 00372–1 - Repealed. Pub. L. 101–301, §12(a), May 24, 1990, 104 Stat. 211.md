@@ -1,14 +1,6 @@
 ### §372–1. Repealed. Pub. L. 101–301, §12(a), May 24, 1990, 104 Stat. 211
 
-Section, Pub. L. 90–28, title I, June 24, 1967, 81 Stat. 69, provided that, on and after June 24, 1967, hearing officers appointed for Indian probate work did not have to be appointed pursuant to the Administrative Procedure Act, as amended.
-
-#### Savings Provision
-
-Section 12(b) of Pub. L. 101–301 provided that: “Hearing officers heretofore appointed to preside over Indian probate proceedings pursuant to the proviso repealed by subsection (a) \[25 U.S.C. 372–1\], having met the qualifications required for appointment pursuant to section 3105 of title 5, United States Code, shall be deemed to have been appointed pursuant to that section.”
-
-#### Similar Provisions
-
-Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 90–28, title I, June 24, 1967, 81 Stat. 69, provided that, on and after June 24, 1967, hearing officers appointed for Indian probate work did not have to be appointed pursuant to the Administrative Procedure Act, as amended. Similar provisions were contained in the following prior appropriation acts:
 
 May 31, 1966, Pub. L. 89–435, title I, 80 Stat. 181.
 
@@ -35,4 +27,8 @@ June 13, 1956, ch. 380, title I, 70 Stat. 257.
 June 16, 1955, ch. 147, title I, 69 Stat. 141.
 
 Aug. 26, 1954, ch. 935, Ch. VII, 68 Stat. 813.
+
+#### Savings Provision
+
+Section 12(b) of Pub. L. 101–301 provided that: “Hearing officers heretofore appointed to preside over Indianprobate proceedings pursuant to the proviso repealed by subsection (a) \[25 U.S.C. 372–1\], having met the qualifications required for appointment pursuant to section 3105 of title 5, United States Code, shall be deemed to have been appointed pursuant to that section.”
 

@@ -34,7 +34,7 @@ Amounts Recovered Under CERCLA.—Amounts recovered under section 107 of CERCLA 
 
 (f)
 
-Payment of Fines and Penalties.—None of the funds appropriated to the transfer account for fiscal years 1995 through 1999 may be used for the payment of a fine or penalty imposed against the Department of Defense unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the transfer account.
+Payment of Fines and Penalties.—None of the funds appropriated to the transfer accountfor fiscal years 1995 through 1999 may be used for the payment of a fine or penalty imposed against the Department of Defense unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the transfer account.
 
 (Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710.)
 

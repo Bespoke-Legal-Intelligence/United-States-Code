@@ -4,9 +4,9 @@
 
 (b) In the exercise of its functions under this subchapter, the Commission may obtain upon request the views of any other Federal agency which exercises enforcement functions under section 1692<i>l</i> of this title.
 
-(Pub. L. 90 321, title VIII, §815, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 882.)
+(Pub. L. 90–321, title VIII, §815, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 882.)
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsec. (a), is the date occurring on expiration of six months after Sept. 20, 1977. See section 818 of Pub. L.90 321, set out as an Effective Date note under section 1692 of this title.
+The effective date of this subchapter, referred to in subsec. (a), is the date occurring on expiration of six months after Sept. 20, 1977. See section 818 of Pub. L. 90–321, set out as an Effective Date note under section 1692 of this title.
 

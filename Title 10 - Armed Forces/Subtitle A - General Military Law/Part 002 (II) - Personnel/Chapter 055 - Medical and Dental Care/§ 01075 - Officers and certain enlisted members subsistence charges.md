@@ -22,7 +22,7 @@ The word “officer” is substituted for the words “Commissioned officers and
 
 #### Prior Provisions
 
-A prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, and was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

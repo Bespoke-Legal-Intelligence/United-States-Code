@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified replacement property” means any security issued by a domestic operating corporation which—
 
-&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(D)) in excess of 25 percent of the gross receipts of such corporation for such preceding taxable year, and
+&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(D)) in excess of 25 percent of the gross receiptsof such corporation for such preceding taxable year, and
 
 &emsp;&emsp;&emsp;(ii) is not the corporation which issued the qualified securities which such security is replacing or a member of the same controlled group of corporations (within the meaning of section 1563(a)(1)) as such corporation.
 
@@ -176,7 +176,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 &emsp;&emsp;(A) a corporation issuing qualified replacement property disposes of a substantial portion of its assets other than in the ordinary course of its trade or business, and
 
-&emsp;&emsp;(B) any taxpayer owning stock representing control (within the meaning of section304(c)) of such corporation at the time of such disposition holds any qualified replacement property of such corporation at such time,
+&emsp;&emsp;(B) any taxpayer owning stock representing control (within the meaning of section 304(c)) of such corporation at the time of such disposition holds any qualified replacement property of such corporation at such time,
 
 > &emsp;then the taxpayer shall be treated as having disposed of such qualified replacement property at such time.
 
@@ -184,7 +184,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 &emsp;Paragraph (1) shall not apply to any transfer of qualified replacement property—
 
-&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and such property is substituted basis property in the hands of the transferee,
+&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and suchproperty is substituted basis property in the hands of the transferee,
 
 &emsp;&emsp;(B) by reason of the death of the person making such election,
 

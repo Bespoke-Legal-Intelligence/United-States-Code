@@ -208,7 +208,7 @@ For purposes of this section, the term “qualified retirement contribution” m
 
 &emsp;&emsp;(B) who makes deductible contributions to a trust described in section 501(c)(18).
 
-> &emsp;The determination of whether an individual is an active participant shall be made without regard to whether or not such individual's rights under a plan, trust, or contract are nonforfeitable. An eligible deferred compensationplan (within the meaning of section 457(b)) shall not be treated as a plan described in subparagraph (A)(iii).
+> &emsp;The determination of whether an individual is an active participant shall be made without regard to whether or not such individual's rights under a plan, trust, or contract are nonforfeitable. An eligible deferred compensation plan (within the meaning of section 457(b)) shall not be treated as a plan described in subparagraph (A)(iii).
 
 #### (6) Certain individuals not treated as active participants
 
@@ -278,7 +278,7 @@ Subsec. (f)(7). Pub. L. 99–514, §1102(f), added par. (7).
 
 Subsec. (g). Pub. L. 99–514, §1101(a)(1), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 99–514, §1501(d)(1)(B), which directed that subsec. (g) be amended by substituting“6652(g)” for “6652(h)”, was executed by making the substitution in subsec. (h) to reflect the probable intent of Congress and the prior redesignation of former subsec. (g) as (h) by Pub. L. 99–514, §1101(a)(1).
+Subsec. (h). Pub. L. 99–514, §1501(d)(1)(B), which directed that subsec. (g) be amended by substituting “6652(g)” for “6652(h)”, was executed by making the substitution in subsec. (h) to reflect the probable intent of Congress and the prior redesignation of former subsec. (g) as (h) by Pub. L. 99–514, §1101(a)(1).
 
 Pub. L. 99–514, §1101(a)(1), redesignated former subsec. (g) as (h).
 
@@ -344,7 +344,7 @@ Subsec. (e). Pub. L. 97–34, §311(a), added subsec. (e) incorporating former p
 
 Subsec. (f)(1). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(1) as par. (1).
 
-Subsec. (f)(2). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(2) as par. (2) and, as so redesignated, substituted “deduction under subsections (b) and (c)” for “deduction under subsection (b)(1)”, and struck out provision that for purposes of this section, the determination of whether an individual is married shall be made in accordance with the provisions of section 143(a).
+Subsec. (f)(2). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(2) as par. (2) and, as so redesignated,substituted “deduction under subsections (b) and (c)” for “deduction under subsection (b)(1)”, and struck out provision that for purposes of this section, the determination of whether an individual is married shall be made in accordance with the provisions of section 143(a).
 
 Subsec. (f)(3). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(3) as subpar. (A) and, as so redesignated, added subpar. (A) heading “Individual retirement plans”, and “to an individual retirement plan” before “on the last day” in text, and added subpar. (B).
 
@@ -426,7 +426,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Integration rules.—Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954\(as in effect before the amendments made by this section) shall continue to apply for years beginning after December 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
+Integration rules.—Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954 (as in effect before the amendments made by this section) shall continue to apply for years beginning after December 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
 
 Section 1109(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 501 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
@@ -440,7 +440,7 @@ Section 147(d) of Pub. L. 98–369 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 408 of this title\] shall apply to contributions made after December 31, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 408 of this title\] shall apply to contributions made after December 31, 1984.
 
 “(2)
 
@@ -520,7 +520,7 @@ Amendment by section 1501(b)(4) of Pub. L. 94–455 applicable to taxable years 
 
 Section 1503(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
-Amendment by section 1901(a)(32) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, setout as an Effective Date of 1976 Amendment note under section 2 of this title.
+Amendment by section 1901(a)(32) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
 #### Effective Date
 
@@ -544,7 +544,7 @@ Effective Date.—The provisions of subsection (a) shall apply to taxable years 
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

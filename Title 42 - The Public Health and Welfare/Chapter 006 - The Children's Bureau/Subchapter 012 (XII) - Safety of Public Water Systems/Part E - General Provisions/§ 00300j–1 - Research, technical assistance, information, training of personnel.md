@@ -2,7 +2,7 @@
 
 #### (a) Specific powers and duties of Administrator
 
-(1) The Administrator may conduct research, studies, and demonstrations relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and other impairments of man resulting directly or indirectly from contaminants in water, or to theprovision of a dependably safe supply of drinking water, including—
+(1) The Administrator may conduct research, studies, and demonstrations relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and other impairments of man resulting directly or indirectly from contaminants in water, or to the provision of a dependably safe supply of drinking water, including—
 
 &emsp;(A) improved methods (i) to identify and measure the existence of contaminants in drinking water (including methods which may be used by State and local health and water officials), and (ii) to identify the source of such contaminants;
 
@@ -74,11 +74,7 @@ In carrying out this subchapter, the Administrator is authorized to—
 
 &emsp;&emsp;(C) to develop and expand the capability of programs of States and municipalities to carry out the purposes of this subchapter (other than by carrying out State programs of public water system supervision or underground water source protection (as defined in section 300j–2(c) of this title)).
 
-#### (c) Report to Congress on present and projected future availability of safe drinking water; additional contents; utilization of information and data
-
-Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.
-
-#### (d) Establishment of training programs and grants for training; training fees
+#### (c) Establishment of training programs and grants for training; training fees
 
 The Administrator shall—
 
@@ -88,9 +84,7 @@ The Administrator shall—
 
 > Reasonable fees may be charged for training provided under paragraph (1)(B) to persons other than personnel of State or local agencies but such training shall be provided to personnel of State or local agencies without charge.
 
-#### (e) Repealed. Pub. L. 99–339, title III, §304(a), June 19, 1986, 100 Stat. 667
-
-#### (f) Authorization of appropriations
+#### (d) Authorization of appropriations
 
 There are authorized to be appropriated to carry out the provisions of this section other than subsection (a)(2)(B) of this section and provisions relating to research $15,000,000 for the fiscal year ending June 30, 1975; $25,000,000 for the fiscal year ending June 30, 1976; $35,000,000 for the fiscal year ending June 30, 1977; $17,000,000 for each of the fiscal years 1978 and 1979; $21,405,000 for the fiscal year ending September 30, 1980; $30,000,000 for the fiscal year ending September 30, 1981; and $35,000,000 for the fiscal year ending September 30, 1982. There are authorized to be appropriated to carry out subsection (a)(2)(B) of this section $8,000,000 for each of the fiscal years 1978 through 1982. There are authorized to be appropriated to carry out subsection (a)(2)(B) of this section not more than the following amounts:
 
@@ -118,7 +112,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &nbsp;&nbsp;8,050,000
 
-> There are authorized to be appropriated to carry out the provisions of this section (other than subsection (g) of this section, subsection (a)(2)(B) of this section, and provisions relating to research), not more than the following amounts:
+> There are authorized to be appropriated to carry out the provisions of this section (other than subsection (g) <sup>1</sup> of this section, subsection (a)(2)(B) of this section, and provisions relating to research), not more than the following amounts:
 
 > &emsp;Fiscal year:
 
@@ -144,7 +138,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &nbsp;&nbsp;38,020,000
 
-#### (g) Technical assistance for small systems; authorization of appropriations; amount to be utilized for public water systems owned or operated by Indian tribes
+#### (e) Technical assistance for small systems; authorization of appropriations; amount to be utilized for public water systems owned or operated by Indian tribes
 
 The Administrator is authorized to provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with national drinking water regulations. Such assistance may include “circuit-rider” programs, training, and preliminary engineering studies. There are authorized to be appropriated to carry out this subsection $10,000,000 for each of the fiscal years 1987 through 1991. Not less than the greater of—
 
@@ -154,9 +148,11 @@ The Administrator is authorized to provide technical assistance to small public 
 
 > shall be utilized for technical assistance to public water systems owned or operated by Indian tribes.
 
-(July 1, 1944, ch. 373, title XIV, §1442, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1682; amended Nov. 16, 1977, Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, 91 Stat. 1393–1395, 1397–1399; Sept. 6, 1979, Pub. L. 96–63, §1, 93 Stat. 411; Dec. 5, 1980, Pub. L. 96–502, §5, 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), 100 Stat. 651, 663, 665, 667.)
+(July 1, 1944, ch. 373, title XIV, §1442, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1682; amended Nov. 16, 1977, Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, 91 Stat. 1393–1395, 1397–1399; Sept. 6, 1979, Pub. L. 96–63, §1, 93 Stat. 411; Dec. 5, 1980, Pub. L. 96–502, §5, 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), 100 Stat. 651, 663, 665, 667; Dec. 21, 1995, Pub. L. 104–66, title II, §2021(h), 109 Stat. 727.)
 
 #### Amendments
+
+1995—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.”
 
 1986—Subsec. (e). Pub. L. 99–339, §304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
 
@@ -189,4 +185,6 @@ Section 304(b) of Pub. L. 99–339 provided that: “The Administrator of the En
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300g–1, 300j–3b of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
 

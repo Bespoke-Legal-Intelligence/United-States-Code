@@ -98,7 +98,7 @@ Availability of Amounts.—Amounts appropriated under subsection (a)(1) and (2)(
 
 (g)
 
-Authorizations Increased by Prior Year Deficiencies.—An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for anyprior fiscal year is less than the amount authorized for that year.
+Authorizations Increased by Prior Year Deficiencies.—An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for any prior fiscal year is less than the amount authorized for that year.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 937.)
 

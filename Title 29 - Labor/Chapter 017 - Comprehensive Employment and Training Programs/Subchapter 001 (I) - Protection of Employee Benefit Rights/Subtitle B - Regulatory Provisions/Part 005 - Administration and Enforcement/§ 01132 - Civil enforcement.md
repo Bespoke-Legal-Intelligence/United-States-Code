@@ -22,7 +22,7 @@ A civil action may be brought—
 
 &emsp;(7) by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title);
 
-&emsp;(8) by the Secretary, or by an employer or other person referred to in section 1021(f)(1) of this title, (A) to enjoin any act or practice which violates subsection (f) of section 1021 of this title, or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection; or
+&emsp;(8) by the Secretary, or by an employer or other person referred to in section 1021(f)(1) ofthis title, (A) to enjoin any act or practice which violates subsection (f) of section 1021 of this title, or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection; or
 
 &emsp;(9) in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual's status as a participant covered under a pension plan with respect to all or any portion of the participant's pension benefit under such plan constitutes a violation of part 4 of this title <sup>1</sup> or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts.
 
@@ -54,7 +54,7 @@ A civil action may be brought—
 
 #### (e) Jurisdiction
 
-(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
+(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred toin section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
 
 (2) Where an action under this subchapter is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
@@ -134,7 +134,7 @@ In the case of a distribution to a pension plan participant or beneficiary in vi
 
 Section 405(a) of title 26, referred to in subsec. (b)(1), was repealed by Pub. L. 98–369, div. A, title IV, §491(a), July 18, 1984, 98 Stat. 848.
 
-Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)(1), were redesignated as pars. (1)and (4) of section 1166(a) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
+Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)(1), were redesignated as pars. (1) and (4) of section 1166(a) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
 This chapter, referred to in subsec. (k), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 Section 2101(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to any breach of fiduciary responsibility or other violation occurring on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set outas a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

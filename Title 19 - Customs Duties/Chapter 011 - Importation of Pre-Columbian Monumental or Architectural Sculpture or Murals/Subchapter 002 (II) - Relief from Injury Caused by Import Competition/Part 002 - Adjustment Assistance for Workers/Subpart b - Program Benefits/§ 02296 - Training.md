@@ -10,7 +10,7 @@
 
 &emsp;(C) there is a reasonable expectation of employment following completion of such training,
 
-&emsp;(D) training approved by the Secretary is reasonably available to the worker from eithergovernmental agencies or private sources (which may include area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963,<sup>1</sup> and employers) <sup>2</sup>
+&emsp;(D) training approved by the Secretary is reasonably available to the worker from either governmental agencies or private sources (which may include area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963,<sup>1</sup> and employers) <sup>2</sup>
 
 &emsp;(E) the worker is qualified to undertake and complete such training, and
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) such plan or program requires the worker to reimburse the plan or program from funds provided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
 
-(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A of this part at any time after the date on which the group is certified under subpart A of this part, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
+(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A of this partat any time after the date on which the group is certified under subpart A of this part, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
 
 (9) The Secretary shall prescribe regulations which set forth the criteria under each of the subparagraphs of paragraph (1) that will be used as the basis for making determinations under paragraph (1).
 
@@ -76,7 +76,7 @@
 
 The Secretary may, where appropriate, authorize supplemental assistance necessary to defray reasonable transportation and subsistence expenses for separate maintenance when training is provided in facilities which are not within commuting distance of a worker's regular place of residence. The Secretary may not authorize—
 
-&emsp;(1) payments for subsistence that exceed whichever is the lesser of (A) the actual perdiem expenses for subsistence, or (B) payments at 50 percent of the prevailing per diem allowance rate authorized under the Federal travel regulations, or
+&emsp;(1) payments for subsistence that exceed whichever is the lesser of (A) the actual per diem expenses for subsistence, or (B) payments at 50 percent of the prevailing per diem allowance rate authorized under the Federal travel regulations, or
 
 &emsp;(2) payments for travel expenses exceeding the prevailing mileage rate authorized under the Federal travel regulations.
 

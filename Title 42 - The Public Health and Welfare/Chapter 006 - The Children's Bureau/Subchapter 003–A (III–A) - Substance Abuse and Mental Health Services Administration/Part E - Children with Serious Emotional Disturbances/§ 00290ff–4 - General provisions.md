@@ -68,7 +68,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (e), is 
 
 1993—Subsec. (c)(1), (d), (f)(1). Pub. L. 103–43, §2017(2)(A), (B), (C)(i), substituted “this part” for “this subpart”.
 
-Subsec. (f)(2). Pub. L. 103–43, §2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 forthe purpose of carrying out subsection (b) of this section.”
+Subsec. (f)(2). Pub. L. 103–43, §2017(2)(C)(ii), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than $3,000,000 for the purpose of carrying out subsection (b) of this section.”
 
 #### Effective Date
 

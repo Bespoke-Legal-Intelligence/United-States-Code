@@ -8,5 +8,5 @@ The Secretary shall pay from its allotment under section 2311 of this title to e
 
 The Secretary shall pay to each State council of a State which has a State plan approved in accordance with section 2324 of this title, from its allotment under section 2322(f) of this title, an amount equal to the reasonable amounts expended by the State council in carrying out its functions under this chapter in such fiscal year.
 
-(Pub. L. 88 210, title V, §501, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2479.)
+(Pub. L. 88–210, title V, §501, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2479.)
 

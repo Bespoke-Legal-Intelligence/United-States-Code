@@ -8,7 +8,7 @@ Repeal applicable to dispositions in taxable years beginning after Dec. 31, 1987
 
 #### Applicability of Amendments by Pub. L. 100–203 and Pub. L. 100–647
 
-Pub. L. 100–647, title I, §1008(f)(9), Nov. 10, 1988, 102 Stat. 3442, provided that: “For purposes of applying the amendments made by this subsection \[amending this section and provisions set out below\] and the amendments made by section 10202 of the Revenue Act of 1987 \[Pub. L. 100–203, amending sections 56, 381, 453, 453A, and 691 of this title and repealing section 453C of this title\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987 \[Dec. 22, 1987\].”
+Pub. L. 100–647, title I, §1008(f)(9), Nov. 10, 1988, 102 Stat. 3442, provided that: “For purposes of applying the amendments made by this subsection \[amending this section and provisions set out below\] and the amendments made by section 10202 of the Revenue Act of 1987 \[Pub. L. 100–203, amending sections 56, 381, 453, 453A, and 691 of this title and repealing this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987 \[Dec. 22, 1987\].”
 
 #### Effective Date; Allocation of Indebtedness as Payment on Installment Obligation
 

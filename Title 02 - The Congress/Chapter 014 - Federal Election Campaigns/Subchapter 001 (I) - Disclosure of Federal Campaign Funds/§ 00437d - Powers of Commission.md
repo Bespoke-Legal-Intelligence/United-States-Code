@@ -10,7 +10,7 @@ The Commission has the power—
 
 &emsp;(3) to require by subpena, signed by the chairman or the vice chairman, the attendance and testimony of witnesses and the production of all documentary evidence relating to the execution of its duties;
 
-&emsp;(4) in any proceeding or investigation, to order testimony to be taken by deposition before any person who is designated by the Commission and has the power to administer oaths and, in such instances, to compel testimonyand the production of evidence in the same manner as authorized under paragraph (3);
+&emsp;(4) in any proceeding or investigation, to order testimony to be taken by deposition before any person who is designated by the Commission and has the power to administer oaths and, in such instances, to compel testimony and the production of evidence in the same manner as authorized under paragraph (3);
 
 &emsp;(5) to pay witnesses the same fees and mileage as are paid in like circumstances in the courts of the United States;
 

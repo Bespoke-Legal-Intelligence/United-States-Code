@@ -48,9 +48,9 @@ Subsection (c) is substituted for 31:483a(provisos) for clarity and to eliminate
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–393, title VI, §638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section \[enacting section 9703 of this title and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, section 1509 of Title 21, Food and Drugs, section 524 of Title 28, Judiciaryand Judicial Procedure, and section 2003 of Title 39, Postal Service\] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
+Pub. L. 102–393, title VI, §638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section \[enacting section 9703 of this title and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, section 1509 of Title 21, Food and Drugs, section 524 of Title 28, Judiciary and Judicial Procedure, and section 2003 of Title 39, Postal Service\] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 2242a; title 8 section 1455; title 12 section 78n; title 14 section 664; title 16 sections 222, 1862; title 19 section 58c; title 28 section 1828; title 33 section 2607; title 42 sections 2201, 2214, 4370c, 7552; title 46 sections 2110, 12505.
+This section is referred to in title 7 section 2242a; title 8 section 1455; title 12 section 78n; title 14 section 664; title 16 sections 222, 1862; title 19 section 58c; title 28 section 1828; title 33 section 2607; title 42 sections 2201, 2214, 4370c, 7552; title 46 sections 2110, 12505; title 49 section 13908.
 

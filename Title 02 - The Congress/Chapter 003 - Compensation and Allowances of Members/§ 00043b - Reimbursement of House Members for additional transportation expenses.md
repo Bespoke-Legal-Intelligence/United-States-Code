@@ -2,7 +2,7 @@
 
 The contingent fund of the House of Representatives is hereafter made available for reimbursement of transportation expenses incurred by Members (including the Resident Commissioner from Puerto Rico) in traveling, on official business, by the nearest usual route, between Washington, District of Columbia, and any point in the district which he represents, for a number of round trips each year not to exceed the number of months Congress is in session in such year, such reimbursement to be made in accordance with rules and regulations established by the Committee on House Administration of the House of Representatives.
 
-(Pub. L. 85–570, July 31, 1958, 72 Stat. 443; Pub. L. 86–176, Aug. 21, 1959, 73 Stat. 401; Pub. L. 88–70, July 19, 1963, 77 Stat. 82; Pub. L. 89–90, July 27, 1965, 79 Stat. 269; Pub. L. 89–147, §1, Aug. 28, 1965, 79 Stat. 583; Pub. L. 89–545, Aug. 27, 1966, 80 Stat. 358; Pub. L. 90–86, §1, Sept. 17, 1967, 81 Stat. 226; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 343; Pub. L. 92–51, July 9, 1971, 85 Stat. 128; Pub. L. 92–607, ch. V, §§502, 506(k)(2), formerly §506(h)(2), Oct. 31, 1972, 86 Stat. 1504, 1508, renumbered §506(i)(2), Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, renumbered §506(j)(2), Pub. L. 96–304, title I, §101, July 8, 1980, 94 Stat. 889, renumbered §506(k)(2), Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.)
+(Pub. L. 85–570, July 31, 1958, 72 Stat. 443; Pub. L. 86–176, Aug. 21, 1959, 73 Stat. 401; Pub. L. 88–70, July 19, 1963, 77 Stat. 82; Pub. L. 89–90, July 27, 1965, 79 Stat. 269; Pub. L. 89–147, §1, Aug. 28, 1965, 79 Stat. 583; Pub. L. 89–545, Aug. 27, 1966, 80 Stat. 358; Pub. L. 90–86, §1, Sept. 17, 1967, 81 Stat. 226; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 343; Pub. L. 92–51, July 9, 1971, 85 Stat. 128; Pub. L. 92–607, ch. V, §§502, 506(k)(2), formerly §506(h)(2), Oct. 31, 1972, 86 Stat. 1504, 1508, renumbered §506(i)(2), Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, renumbered §506(j)(2), Pub. L. 96–304,title I, §101, July 8, 1980, 94 Stat. 889, renumbered §506(k)(2), Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pub. L. 89–90 increased round trip limitation for Senators from two to six.
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Effective Date of 1972 Amendment
 

@@ -1,0 +1,44 @@
+### §2901. Congressional findings and declaration of policy
+
+(a) Congress finds that—
+
+&emsp;(1) beef and beef products are basic foods that are a valuable part of human diet;
+
+&emsp;(2) the production of beef and beef products plays a significant role in the Nation's economy, beef and beef products are produced by thousands of beef producers and processed by numerous processing entities, and beef and beef products are consumed by millions of people throughout the United States and foreign countries;
+
+&emsp;(3) beef and beef products should be readily available and marketed efficiently to ensure that the people of the United States receive adequate nourishment;
+
+&emsp;(4) the maintenance and expansion of existing markets for beef and beef products are vital to the welfare of beef producers and those concerned with marketing, using, and producing beef products, as well as to the general economy of the Nation;
+
+&emsp;(5) there exist established State and national organizations conducting beef promotion, research, and consumer education programs that are invaluable to the efforts of promoting the consumption of beef and beef products; and
+
+&emsp;(6) beef and beef products move in interstate and foreign commerce, and beef and beef products that do not move in such channels of commerce directly burden or affect interstate commerce of beef and beef products.
+
+(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided herein, of an orderly procedure for financing (through assessments on all cattle sold in the United States and on cattle, beef, and beef products imported into the United States) and carrying out a coordinated program of promotion and research designed to strengthen the beef industry's position in the marketplace and to maintain and expand domestic and foreign markets and uses for beef and beef products. Nothing in this chapter shall be construed to limit the right of individual producers to raise cattle.
+
+(Pub. L. 94–294, §2, May 28, 1976, 90 Stat. 529; Pub. L. 99–198, title XVI, §1601(b), Dec. 23, 1985, 99 Stat. 1597.)
+
+#### Amendments
+
+1985—Pub. L. 99–198 amended section generally.
+
+#### Effective Date of 1985 Amendment
+
+Section 1601(c) of Pub. L. 99–198 provided that: “The amendments made by this section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1986.”
+
+#### Effective Date
+
+Section 21 of Pub. L. 94–294 provided that: “This Act \[enacting this chapter and provisions set out as notesunder this section\] shall take effect upon enactment \[May 28, 1976\]”.
+
+#### Short Title of 1985 Amendment
+
+Section 1601(a) of Pub. L. 99–198 provided that: “This section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] may be cited as the ‘Beef Promotion and Research Act of 1985’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 94–294 provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Beef Research and Information Act’.”
+
+#### Separability
+
+Section 19 of Pub. L. 94–294, which provided that if any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, §1601(b), Dec. 28, 1985, 99 Stat. 1597.
+

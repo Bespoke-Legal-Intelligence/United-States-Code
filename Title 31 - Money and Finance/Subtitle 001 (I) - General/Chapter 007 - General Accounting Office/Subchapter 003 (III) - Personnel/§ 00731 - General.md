@@ -86,7 +86,7 @@ In subsection (c), the words “United States” and “positions at” are omit
 
 In subsection (d), the words “in the General Accounting Office”, “prescribed . . . under section 5315 of title 5”, and “of the Office” are omitted as surplus.
 
-In subsection (e), before clause (1), the words “procure the services of” are substituted for “employ” for consistency with 5:3109. The words “at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently” are omitted as unnecessary because of 5:3109. In clause (1), the word“periods” is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words “and consultants” are added because of 5:3109.
+In subsection (e), before clause (1), the words “procure the services of” are substituted for “employ” for consistency with 5:3109. The words “at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently” are omitted as unnecessary because of 5:3109. In clause (1), the word “periods” is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words “and consultants” are added because of 5:3109.
 
 #### References in Text
 

@@ -6,7 +6,7 @@ In General.—There is authorized to be appropriated for the purposes of this ch
 
 (b)
 
-Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessaryexpenses of the Board, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
+Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
 
 &emsp;(1) $1,000,000 to establish the fund.
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
+The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in thissection referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
 
 #### (b) Grant applications
 
@@ -62,7 +62,7 @@ In issuing a grant under this section, the Secretary shall consider—
 
 &emsp;(2) the population of eligible individuals in such State as a percentage of the population of such State; and
 
-&emsp;(3) in order to ensure the needs of rural areas in such State, the relative costs and special problems associated with addressing the special problems of providing health care information, counseling, and assistance eligible <sup>1</sup> individuals residing in rural areas of such State.
+&emsp;(3) in order to ensure the needs of rural areas in such State, the relative costs and special problems associated with addressing the special problems of providing health care information, counseling, and assistance eligible <sup>1</sup>individuals residing in rural areas of such State.
 
 #### (e) Annual State report
 
@@ -88,7 +88,7 @@ Not later than 180 days after November 5, 1990, and annually thereafter, the Sec
 
 #### (g) Authorization of appropriations for grants
 
-There are authorized to be appropriated, in equal parts from the Federal Hospital InsuranceTrust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
+There are authorized to be appropriated, in equal parts from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
 
 (Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591.)
 
@@ -128,7 +128,7 @@ Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

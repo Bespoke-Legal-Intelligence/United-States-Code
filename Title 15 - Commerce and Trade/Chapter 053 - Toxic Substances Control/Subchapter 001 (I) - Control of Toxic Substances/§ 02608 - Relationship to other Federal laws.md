@@ -24,7 +24,7 @@
 
 #### (b) Laws administered by the Administrator
 
-The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in wholeor in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
+The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in whole or in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
 
 #### (c) Occupational safety and health
 
@@ -34,9 +34,9 @@ In exercising any authority under this chapter, the Administrator shall not, for
 
 In administering this chapter, the Administrator shall consult and coordinate with the Secretary of Health and Human Services and the heads of any other appropriate Federal executive department or agency, any relevant independent regulatory agency, and any other appropriate instrumentality of the Federal Government for the purpose of achieving the maximum enforcement of this chapter while imposing the least burdens of duplicative requirements on those subject to the chapter and for other purposes. The Administrator shall, in the report required by section 2629 of this title, report annually to the Congress on actions taken to coordinate with such other Federal departments, agencies, or instrumentalities, and on actions taken to coordinate the authority under this chapter with the authority granted under other Acts referred to in subsection (b) of this section.
 
-(Pub. L. 94 469, title I, §9, Oct. 11, 1976, 90 Stat. 2030; Pub. L. 96 88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §9, Oct. 11, 1976, 90 Stat. 2030; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d), pursuant to section 509(b) of Pub. L. 96 88, which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

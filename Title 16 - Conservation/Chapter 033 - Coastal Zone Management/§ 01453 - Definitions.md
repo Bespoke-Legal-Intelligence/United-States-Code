@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “coastal zone” means the coastal waters (including the lands therein and thereunder) and the adjacent shorelands (including the waters therein and thereunder), strongly influenced by each other and in proximity to the shorelines of the several coastal states, and includes islands, transitional and intertidal areas, salt marshes, wetlands, and beaches. The zone extends, in Great Lakes waters, to the international boundary between the United States and Canada and, in other areas, seaward to the outer limit of State titleand ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749) \[48 U.S.C. 731 et seq.\], the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 \[48 U.S.C. 1801 et seq.\], or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705), as applicable. The zone extends inland from the shorelines only to the extent necessary to control shorelands, the uses of which have a direct and significant impact on the coastal waters, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise. Excluded from the coastal zone are lands the use of which is by law subject solely to the discretion of or which is held in trust by the Federal Government, its officers or agents.
+&emsp;(1) The term “coastal zone” means the coastal waters (including the lands therein and thereunder) and the adjacent shorelands (including the waters therein and thereunder), strongly influenced by each other and in proximity to the shorelines of the several coastal states, and includes islands, transitional and intertidal areas, salt marshes, wetlands, and beaches. The zone extends, in Great Lakes waters, to the international boundary between the United States and Canada and, in other areas, seaward to the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749) \[48 U.S.C. 731 et seq.\], the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 \[48 U.S.C. 1801 et seq.\], or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705), as applicable. The zone extends inland from the shorelines only to the extent necessary to control shorelands, the uses of which have a direct and significant impact on the coastal waters, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise. Excluded from the coastal zone are lands the use of which is by law subject solely to the discretion of or which is held in trust by the Federal Government, its officers or agents.
 
 &emsp;(2) The term “coastal resource of national significance” means any coastal wetland, beach, dune, barrier island, reef, estuary, or fish and wildlife habitat, if any such area is determined by a coastal state to be of substantial biological or natural storm protective value.
 
@@ -38,7 +38,7 @@ For purposes of this chapter—
 
 &emsp;(10) The term “land use” means activities which are conducted in, or on the shorelands within, the coastal zone, subject to the requirements outlined in section 1456(g) of this title.
 
-&emsp;(11) The term “local government” means any political subdivision of, or any special entity created by, any coastal state which (in whole or part) is located in, or has authority over, such state's coastal zone and which (A) has authority to levy taxes, or to establish and collect user fees, or (B) provides any public facility or public service which is financedin whole or part by taxes or user fees. The term includes, but is not limited to, any school district, fire district, transportation authority, and any other special purpose district or authority.
+&emsp;(11) The term “local government” means any political subdivision of, or any special entity created by, any coastal state which (in whole or part) is located in, or has authority over, such state's coastal zone and which (A) has authority to levy taxes, or to establish and collect user fees, or (B) provides any public facility or public service which is financed in whole or part by taxes or user fees. The term includes, but is not limited to, any school district, fire district, transportation authority, and any other special purpose district or authority.
 
 &emsp;(12) The term “management program” includes, but is not limited to, a comprehensive statement in words, maps, illustrations, or other media of communication, prepared and adopted by the state in accordance with the provisions of this chapter, setting forth objectives, policies, and standards to guide public and private uses of lands and waters in the coastal zone.
 
@@ -62,9 +62,9 @@ The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 6
 
 Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to section 749 of Title 48. For complete classification of this Act to the Code, see Short Title note set out under section 731 of Title 48 and Tables.
 
-Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48. For complete classification of this Act to the Code, see Tables.
+Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48. The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America is set out as a note under section 1801 of Title 48. For complete classification of this Act to the Code, see Tables.
 
-Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
+Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963,77 Stat. 338, which was classified to section 1701 of Title 48, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
 
 #### Amendments
 
@@ -154,5 +154,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1455b of this title; title 33 section 1122.
+This section is referred to in section 1455b of this title; title 33 section 1122; title 43 section 1337.
 

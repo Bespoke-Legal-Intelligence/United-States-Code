@@ -16,7 +16,7 @@ Contents of Report.—Each report under this section shall provide the following
 
 &emsp;(4) A statement of the biosafety level used at each such facility in conducting that research, development, test, and evaluation.
 
-&emsp;(5) A statement that documentation of annual coordination with local health, fire, andpolice officials for the provision of emergency support services has been included in the facility safety plan for each biological defense research facility.
+&emsp;(5) A statement that documentation of annual coordination with local health, fire, and police officials for the provision of emergency support services has been included in the facility safety plan for each biological defense research facility.
 
 (c)
 

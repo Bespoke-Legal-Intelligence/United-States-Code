@@ -36,5 +36,5 @@ Amendment by Pub. L. 102–190 applicable to selection boards convened under sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and applicable with respect to selectionboards convened under section 611(a) of this title on or after that effective date, see section 501(e) of Pub. L. 100–456, set out as a note under section 615 of this title.
+Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and applicable with respect to selection boards convened under section 611(a) of this title on or after that effective date, see section 501(e) of Pub. L. 100–456, set out as a note under section 615 of this title.
 

@@ -1,4 +1,4 @@
-### §4625 . Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans’ orphans
+### §4625. Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans’ orphans
 
 (a) Any branch, office, or officer designated by the Secretary of the Army may sell articles of ordnance property to officers of other armed forces for their use in the service, in the same manner as those articles are sold to officers of the Army.
 

@@ -1,4 +1,4 @@
-### §281 . Establishment
+### §281. Establishment
 
 There is established in the House of Representatives an office to be known as the Office of the Legislative Counsel, referred to hereinafter in this subchapter as the “Office”.
 

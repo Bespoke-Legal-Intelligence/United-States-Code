@@ -8,7 +8,7 @@ A State agency is eligible for assistance under this subpart if such State agenc
 
 &emsp;(3) in adult correctional institutions.
 
-(Pub. L. 89 10, title I, §1411, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3592.)
+(Pub. L. 89–10, title I, §1411, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3592.)
 
 #### Section Referred to in Other Sections
 

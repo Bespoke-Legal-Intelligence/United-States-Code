@@ -1,6 +1,6 @@
 ### §6368. Termination of medical emergency
 
-(a) The medical emergency affecting a leave recipient shall, for purposes of this subchapter, be considered to have terminated on the date as of which—
+(a) The medical emergency affecting a leave recipient shall, for purposes of this subchapter,be considered to have terminated on the date as of which—
 
 &emsp;(1) the leave recipient notifies the Leave Bank Board in writing, that the medical emergency no longer exists;
 

@@ -1,4 +1,4 @@
-### §416 . Office of Placement and Office Management
+### §416. Office of Placement and Office Management
 
 #### (a) Supervision of Joint Committee; Director and other personnel: appointment, duties, pay, and termination of employment
 

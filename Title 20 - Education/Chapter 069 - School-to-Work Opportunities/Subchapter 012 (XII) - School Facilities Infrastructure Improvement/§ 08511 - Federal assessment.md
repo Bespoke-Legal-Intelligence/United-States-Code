@@ -1,6 +1,6 @@
 ### §8511. Federal assessment
 
-The Secretary shall reserve not more than 1 percent of funds appropriated for each fiscal year under section 8513<sup>1</sup> of this title—
+The Secretary shall reserve not more than 1 percent of funds appropriated for each fiscal year under section 8513 <sup>1</sup> of this title—
 
 &emsp;(1) to collect such data as the Secretary determines necessary at the school, local, and State levels;
 
@@ -12,11 +12,11 @@ The Secretary shall reserve not more than 1 percent of funds appropriated for ea
 
 &emsp;(3) to report to the Congress by July 1, 1997, regarding the findings of the studies and evaluations described in paragraph (2).
 
-(Pub. L. 89 10, title XII, §12011, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3875.)
+(Pub. L. 89–10, title XII, §12011, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3875.)
 
 #### References in Text
 
-Section 8513 of this title, referred to in text, was in the original “section 15013”, meaning section 15013 ofPub. L. 89 10, which was translated as reading section 12013 of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 15013, and section 12013 authorizes appropriations to carry out this subchapter.
+Section 8513 of this title, referred to in text, was in the original “section 15013”, meaning section 15013 of Pub. L. 89–10, which was translated as reading section 12013 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 15013, and section 12013 authorizes appropriations to carry out this subchapter.
 
-<i><sup>1</sup></i><i>See References in Text note below</i>
+<i><sup>1</sup></i><i> See References in Text note below</i>
 

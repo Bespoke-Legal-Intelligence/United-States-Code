@@ -74,7 +74,7 @@ Par. (3). Pub. L. 95–630 substituted “$20,000” for “$10,000”.
 
 Par. (4). Pub. L. 95–630 substituted “$10,000” for “$5,000”.
 
-1967—Par. (1). Pub. L. 90–44 rewrote in first sentence of provisions designated as par. (1) the prohibition offormer first sentence against any executive officer borrowing or otherwise becoming indebted to a member bank of which he is an officer and against any member bank making any loan or extending credit in any other manner to any of its own executive officers, authorized member banks to extend credit to such executive officers and to report such extensions to the board of directors, and provided in subpars. (A) to (D) conditions for such extension of credit.
+1967—Par. (1). Pub. L. 90–44 rewrote in first sentence of provisions designated as par. (1) the prohibition of former first sentence against any executive officer borrowing or otherwise becoming indebted to a member bank of which he is an officer and against any member bank making any loan or extending credit in any other manner to any of its own executive officers, authorized member banks to extend credit to such executive officers and to report such extensions to the board of directors, and provided in subpars. (A) to (D) conditions for such extension of credit.
 
 Pars. (2), (3). Pub. L. 90–44 inserted provisions, designated as pars. (2) and (3), for mortgage loans and educational loans, respectively.
 

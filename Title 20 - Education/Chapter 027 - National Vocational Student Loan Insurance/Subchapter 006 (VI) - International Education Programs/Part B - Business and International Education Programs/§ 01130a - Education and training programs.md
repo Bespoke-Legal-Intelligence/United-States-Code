@@ -40,23 +40,23 @@ No grant may be made and no contract may be entered into under this section unle
 
 The Federal share under this part for each fiscal year shall not exceed 50 percent of the cost of such program.
 
-(Pub. L. 89 329, title VI, §613, formerly §612, as added Pub. L. 96 374, title VI, §601(a), Oct. 3, 1980,94 Stat. 1468; amended Pub. L. 99 498, title VI, §611, Oct. 17, 1986, 100 Stat. 1519; renumbered §613 and amended Pub. L. 100 418, title VI, §§6261(1), 6263, Aug. 23, 1988, 102 Stat. 1520, 1523; Pub. L. 102 325, title VI, §601, July 23, 1992, 106 Stat. 732.)
+(Pub. L. 89–329, title VI, §613, formerly §612, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1468; amended Pub. L. 99–498, title VI, §611, Oct. 17, 1986, 100 Stat. 1519; renumbered §613 and amended Pub. L. 100–418, title VI, §§6261(1), 6263, Aug. 23, 1988, 102 Stat. 1520, 1523; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 732.)
 
 #### Prior Provisions
 
-A prior section 613 of Pub. L. 89 329 was renumbered section 614 and is classified to section 1130b of this title.
+A prior section 613 of Pub. L. 89–329 was renumbered section 614 and is classified to section 1130b of this title.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, adding provisions relating to establishment of linkages overseas with institutions of higher education and organizations that contribute to educational objectives of this section and relating to summer institutes in international business, foreign area and other international studies designed to carry out purposes of this section.
+1992—Pub. L. 102–325 amended section generally, adding provisions relating to establishment of linkages overseas with institutions of higher education and organizations that contribute to educational objectives of this section and relating to summer institutes in international business, foreign area and other international studies designed to carry out purposes of this section.
 
-1988—Subsecs. (a), (c), (d). Pub. L. 100 418 substituted “section” for “part” wherever appearing.
+1988—Subsecs. (a), (c), (d). Pub. L. 100–418 substituted “section” for “part” wherever appearing.
 
-1986—Subsec. (b)(10). Pub. L. 99 498 added par. (10).
+1986—Subsec. (b)(10). Pub. L. 99–498 added par. (10).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

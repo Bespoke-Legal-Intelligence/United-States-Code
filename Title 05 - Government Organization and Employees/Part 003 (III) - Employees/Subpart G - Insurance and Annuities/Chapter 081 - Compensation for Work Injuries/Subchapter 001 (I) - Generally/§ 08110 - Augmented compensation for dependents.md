@@ -92,7 +92,7 @@ In subsection (a), the words “Notwithstanding paragraph (3) of this subsection
 
 #### Amendments
 
-1974—Subsec. (a)(2). Pub. L. 93–416 substituted provisions of subpars. (A), (B) and (C) for “wholly dependent on the employee for support because of his own physical or mental disability”.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–416 substituted provisions of subpars. (A), (B) and (C) for “wholly dependent on the employee for support because of his own physical or mental disability”.
 
 #### Effective Date of 1974 Amendment
 

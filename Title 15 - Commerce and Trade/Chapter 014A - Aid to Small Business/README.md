@@ -118,8 +118,8 @@
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | (a) | Annual reports to President and Congressional officers and committees. |
 | (b) | Report of expenditures in conduct of activities; contents; information to Congressional committees. |
-| (c) | Surveys for determination of factors tending to injure small business; reports and recommendations. |
-| (d) | Monthly report of Department of Defense. |
+| (c) | Repealed. |
+| (d) | Annual report of Department of Defense. |
 | (e) | Retention of records. |
 | (f) | Consultation and cooperation with Government departments and agencies. |
 | (g) | Annual report of employee conduct complaints received or acted upon and investigations undertaken by Administration. |
@@ -166,7 +166,7 @@
 | (d) | Enhancing export potential of businesses within State; State Office of International Trade. |
 | (e) | Laboratory assistance; reimbursement for services. |
 | (f) | National Science Foundation; cooperation with Administration and Small Business Development Centers; center support. |
-| (g) | National Aeronautics and Space Administration and industrial application centers; report to Administration and Congress. |
+| (g) | National Aeronautics and Space Administration and regional technology transfer centers. |
 | (h) | Associate Administrator for Small Business Development Centers; appointment and compensation; administration of small business development center program; scope of duties; advice and counsel of Board. |
 | (i) | National Small Business Development Center Advisory Board; establishment; membership; term; Chairman; advisory and counseling functions; meetings; compensation. |
 | (j) | Small business development center advisory board; establishment; chairman; conferences with director on policy. |
@@ -245,7 +245,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 sections 6962, 7661f; title 49 section 10701; title 50 App. section 2017<i>l.</i>
+This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 section 13709; title 50 App. section 2017<i>l.</i>
 
 
 ---

@@ -1,4 +1,4 @@
-### §2577 . Definitions
+### §2577. Definitions
 
 Notwithstanding section 2571 of this title, for purposes of this part—
 

@@ -1,4 +1,4 @@
-### §7542 . Excess clothing: sale for distribution to needy
+### §7542. Excess clothing: sale for distribution to needy
 
 (a) Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may sell, at nominal prices, to recognized charitable organizations, to States and subdivisions thereof, and to municipalities nonregulation and excess clothing that may be available for distribution to the needy. The clothing may be sold only if the purchaser agrees not to resell it but to give it to the needy.
 

@@ -84,7 +84,7 @@ The Commission shall also prepare a report on—
 
 (1)(A) By agreement between the President pro tempore of the Senate and the Speaker of the House of Representatives, the Commission is authorized to secure on a reimbursable basis, office space, clerical personnel, travel expenses, and such supplies and equipment as may be necessary for the Commission to carry out the study.
 
-(B) Subject to such limitations as the President pro tempore of the Senate and the Speaker of the House of Representatives may jointly prescribe, the Commission may appoint such personnel as the Commission deems necessary and fix the compensation at an annual rate that does not exceed the rate of basic pay then payable for GS 18 of the General Schedule under section 5332 of title 5 and may procure by contract the temporary and intermittent services of clerical personnel and experts or consultants, or organizations thereof.
+(B) Subject to such limitations as the President pro tempore of the Senate and the Speaker of the House of Representatives may jointly prescribe, the Commission may appoint such personnel as the Commission deems necessary and fix the compensation at an annual rate that does not exceed the rate of basic pay then payable for GS–18 of the General Schedule under section 5332 of title 5 and may procure by contract the temporary and intermittent services of clerical personnel and experts or consultants, or organizations thereof.
 
 (2) In conducting the study authorized by this section, the Commission is authorized to—
 
@@ -108,25 +108,25 @@ The Commission shall submit a report of the findings and recommendations of the 
 
 There are authorized to be appropriated $1,000,000 to carry out the study authorized by this section.
 
-(Pub. L. 89 329, title XII, §1206, as added Pub. L. 99 498, title XII, §1203, Oct. 17, 1986, 100 Stat. 1573.)
+(Pub. L. 89–329, title XII, §1206, as added Pub. L. 99–498, title XII, §1203, Oct. 17, 1986, 100 Stat. 1573.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 89 329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1145a, Pub. L. 89 329, title XII, §1206, as added Pub. L. 92 318, title I, §197, June 23, 1972, 86 Stat. 325, related to supplying cost-of-education data by institutions of higher education, prior to repeal by Pub. L. 96 374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
+A prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. L. 92–318, title I, §197, June 23, 1972, 86 Stat. 325, related to supplying cost-of-education data by institutions of higher education, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Advisory Commissions
 
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

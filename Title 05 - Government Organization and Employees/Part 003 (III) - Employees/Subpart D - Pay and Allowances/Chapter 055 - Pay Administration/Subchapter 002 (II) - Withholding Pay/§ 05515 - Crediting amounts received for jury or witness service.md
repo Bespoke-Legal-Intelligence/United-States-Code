@@ -20,7 +20,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1970—Pub. L. 91–563 substituted “jury or witness service” for “jury service in State courts” in section catchline.
+<b>1970</b>—Pub. L. 91–563 substituted “jury or witness service” for “jury service in State courts” in section catchline.
 
 Pub. L. 91–563 authorized crediting of amounts received for jury service in courts in the District of Columbia and in territories or possessions of the United States, included amounts received for service as a witness or when performing official duty under section 6322(b) of this title, and excepted individuals whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives.
 

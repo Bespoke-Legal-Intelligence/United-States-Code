@@ -1,6 +1,6 @@
 ### §3363. Preference eligibles; promotion; physical qualifications; waiver
 
-In determining qualifications of a preference eligible for promotion to another position in thecompetitive service, an Executive agency, or the government of the District of Columbia, the Office of Personnel Management or other examining agency shall waive—
+In determining qualifications of a preference eligible for promotion to another position in the competitive service, an Executive agency, or the government of the District of Columbia, the Office of Personnel Management or other examining agency shall waive—
 
 &emsp;(1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
 
@@ -24,15 +24,15 @@ June 27, 1944, ch. 287, §5 (1st 2 sentences, so much as relates to promotion), 
 
 The section is restated to conform to section 3312.
 
-The words “in the competitive service, an Executive agency, or the government of the District of Columbia” are added on authority of former sections 851, 858, and 869, which are carried into this title. The last sentence is added on authority of former section 869.
+The words “in the competitive service, an Executive agency, or the government of the District of Columbia” are added on authority of former sections 851, 858, and869, which are carried into this title. The last sentence is added on authority of former section 869.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-1975—Pub. L. 94–183 struck out “, except an appointment made under section 3311 of title 39” after “or made with the advice and consent of, the Senate”.
+<b>1975</b>—Pub. L. 94–183 struck out “, except an appointment made under section 3311 of title 39” after “or made with the advice and consent of, the Senate”.
 
 #### Effective Date of 1978 Amendment
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 241; title 22 section 1438.
+This section is referred to in title 22 section 1438.
 

@@ -1,0 +1,6 @@
+### §286. Authorization of appropriations
+
+There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
+
+(Aug. 31, 1922, ch. 301, §5, as added June 25, 1976, Pub. L. 94–319, §3, 90 Stat. 710.)
+

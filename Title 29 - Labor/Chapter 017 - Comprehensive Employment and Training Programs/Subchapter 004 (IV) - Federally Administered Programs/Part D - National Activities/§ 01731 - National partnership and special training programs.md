@@ -20,7 +20,7 @@ The Secretary may establish a system of, and award, special grants to eligible e
 
 Programs that are most appropriately administered at the national level include—
 
-&emsp;(1) partnership programs with national organizations with special expertise in developing, organizing, and administering employment and training programs at the national, State, and local levels, such as industry and labor associations, public interest groups, community-based organizations representative of groupsthat encounter special difficulties in the labor market, and other organizations with special knowledge or capabilities in education and training;
+&emsp;(1) partnership programs with national organizations with special expertise in developing, organizing, and administering employment and training programs at the national, State, and local levels, such as industry and labor associations, public interest groups, community-based organizations representative of groups that encounter special difficulties in the labor market, and other organizations with special knowledge or capabilities in education and training;
 
 &emsp;(2) programs that—
 

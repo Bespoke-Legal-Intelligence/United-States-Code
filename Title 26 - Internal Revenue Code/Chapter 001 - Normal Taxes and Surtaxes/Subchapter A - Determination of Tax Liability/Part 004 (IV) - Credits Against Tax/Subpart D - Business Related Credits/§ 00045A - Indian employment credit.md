@@ -2,7 +2,7 @@
 
 #### (a) Amount of credit
 
-For purposes of section 38, the amount of the Indian employment credit determined under this section with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
+For purposes of section 38, the amount of the Indian employment credit determined under thissection with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
 
 &emsp;(1) the sum of—
 

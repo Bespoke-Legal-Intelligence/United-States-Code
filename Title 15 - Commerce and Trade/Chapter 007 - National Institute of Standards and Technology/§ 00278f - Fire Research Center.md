@@ -14,7 +14,7 @@ There is hereby established within the Department of Commerce a Fire Research Ce
 
 &emsp;&emsp;(D) the early stages of fires in buildings and other structures, structural subsystems and structural components in all other types of fires, including, but not limited to, forest fires, brush fires, fires underground, oil blowout fires, and waterborne fires, with the aim of improving early detection capability;
 
-&emsp;&emsp;(E) the behavior of fires involving all types of buildings and other structures and their contents (including mobile homes and highrise buildings, construction materials, floor and wall coverings, coatings, furnishings, and other combustible materials), and all other types of fires, including forest fires,brush fires, fires underground, oil blowout fires, and waterborne fires;
+&emsp;&emsp;(E) the behavior of fires involving all types of buildings and other structures and their contents (including mobile homes and highrise buildings, construction materials, floor and wall coverings, coatings, furnishings, and other combustible materials), and all other types of fires, including forest fires, brush fires, fires underground, oil blowout fires, and waterborne fires;
 
 &emsp;&emsp;(F) the unique fire hazards arising from the transportation and use, in industrial and professional practices, of combustible gases, fluids, and materials;
 

@@ -28,7 +28,7 @@ The Secretary shall award grants competitively under this section on the basis o
 
 #### (d) Timing
 
-Not later than April 1 of any fiscal year, a State may submit to the Secretary an application. Not later than the following June 1, the Secretary shall approve not more than 10 of the applications. Not later than the following July 1, the Secretary shall authorize the applicant tobegin the programs. The Secretary may consider making multiyear grants.
+Not later than April 1 of any fiscal year, a State may submit to the Secretary an application. Not later than the following June 1, the Secretary shall approve not more than 10 of the applications. Not later than the following July 1, the Secretary shall authorize the applicant to begin the programs. The Secretary may consider making multiyear grants.
 
 #### (e) Matching requirement
 

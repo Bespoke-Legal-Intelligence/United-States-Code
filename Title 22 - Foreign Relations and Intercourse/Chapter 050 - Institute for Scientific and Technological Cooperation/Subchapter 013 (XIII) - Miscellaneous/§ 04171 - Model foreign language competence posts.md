@@ -20,7 +20,7 @@ The Secretary of State may authorize exceptions to the requirements of this sect
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and referencesto such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 #### Expansion of Model Foreign Language Competence Posts
 
@@ -28,7 +28,7 @@ Pub. L. 101–246, title I, §161, Feb. 16, 1990, 104 Stat. 46, as amended by Pu
 
 “(a)
 
-Designation of Posts.—In order to carry out the purposes of section 702 of the Foreign Service Act of 1980 \[22 U.S.C. 4022\], and in light of the positive report issued on March 28, 1986, by the Department of State, as required by section 2207 of the Foreign Service Act of 1980 \[22 U.S.C. 4171\], the Secretary of State shall designate as model foreign language competence posts a minimum of six Foreign Service posts, representing the Department of State's five geographic bureaus, in countries where English is not the common language. Such designation shall be made not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], and shall be implemented so that not later than October 1, 1991, in the case of non-hard language posts, and October 1, 1992, in the case of hard language posts, each Government employee permanently assigned to those posts shall possess an appropriate level of competence in the language common to the country where the post is located. The Secretary of State shall determine appropriate levels of language competence for employees assigned to those posts by reference to the nature of their functions and the standards employed by the Foreign Service Institute.
+Designation of Posts.—In order to carry out the purposes of section 702 of the Foreign Service Act of 1980 \[22 U.S.C. 4022\], and in light of the positive report issued on March 28, 1986, by the Department of State, as required by section 2207 of the Foreign Service Act of 1980 \[22 U.S.C. 4171\], the Secretary of State shall designate as model foreign language competence posts a minimum of six Foreign Service posts, representing the Department of State's five geographic bureaus, in countries where English is not the common language. Such designation shall be made not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], and shall be implemented so that not later than October 1, 1991, in the case of non-hard language posts, and October 1, 1992, in the case of hard language posts, each Government employee permanently assigned to those posts shall possess an appropriate level of competence in the language common to the country where the postis located. The Secretary of State shall determine appropriate levels of language competence for employees assigned to those posts by reference to the nature of their functions and the standards employed by the Foreign Service Institute.
 
 “(b)
 

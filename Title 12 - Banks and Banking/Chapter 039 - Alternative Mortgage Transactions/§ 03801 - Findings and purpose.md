@@ -1,4 +1,4 @@
-### §3801 . Findings and purpose
+### §3801. Findings and purpose
 
 (a) The Congress hereby finds that—
 

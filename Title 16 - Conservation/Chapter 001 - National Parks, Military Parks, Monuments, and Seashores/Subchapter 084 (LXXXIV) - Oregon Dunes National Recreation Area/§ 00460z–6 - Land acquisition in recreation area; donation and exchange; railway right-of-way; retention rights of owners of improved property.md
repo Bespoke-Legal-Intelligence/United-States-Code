@@ -2,7 +2,7 @@
 
 #### (a) Land acquisition
 
-Within the boundaries of the recreation area lands, waters, and interests therein owned by orunder the control of the State of Oregon or any political subdivision thereof may be acquired only by donation or exchange.
+Within the boundaries of the recreation area lands, waters, and interests therein owned by or under the control of the State of Oregon or any political subdivision thereof may be acquired only by donation or exchange.
 
 #### (b) Railway right-of-way
 

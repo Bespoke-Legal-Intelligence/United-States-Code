@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each department, agency, and instrumentality of the United States (including the executive, legislative, and judicial branches of government) shall be subject to, and comply with,this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under section 9607 of this title. Nothing in this section shall be construed to affect the liability of any person or entity under sections 9606 and 9607 of this title.
+&emsp;Each department, agency, and instrumentality of the United States (including the executive, legislative, and judicial branches of government) shall be subject to, and comply with, this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under section 9607 of this title. Nothing in this section shall be construed to affect the liability of any person or entity under sections 9606 and 9607 of this title.
 
 #### (2) Application of requirements to Federal facilities
 
@@ -48,7 +48,7 @@ Not later than 18 months after October 17, 1986, the Administrator shall take st
 
 #### (1) RI/FS
 
-&emsp;Not later than 6 months after the inclusion of any facility on the National Priorities List, the department, agency, or instrumentalitywhich owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence a remedial investigation and feasibility study for such facility. In the case of any facility which is listed on such list before October 17, 1986, the department, agency, or instrumentality which owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence such an investigation and study for such facility within one year after October 17, 1986. The Administrator and appropriate State authorities shall publish a timetable and deadlines for expeditious completion of such investigation and study.
+&emsp;Not later than 6 months after the inclusion of any facility on the National Priorities List, the department, agency, or instrumentality which owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence a remedial investigation and feasibility study for such facility. In the case of any facility which is listed on such list before October 17, 1986, the department, agency, or instrumentality which owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence such an investigation and study for such facility within one year after October 17, 1986. The Administrator and appropriate State authorities shall publish a timetable and deadlines for expeditious completion of such investigation and study.
 
 #### (2) Commencement of remedial action; interagency agreement
 
@@ -126,7 +126,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;(i) all remedial action necessary to protect human health and the environment with respect to any such substance remaining on the property has been taken before the date of such transfer, and
 
-&emsp;&emsp;&emsp;(ii) any additional remedial action found to be necessary after the date of such transfer shall be conducted by the United States; and
+&emsp;&emsp;&emsp;(ii) any additional remedial action found to be necessary after the date of suchtransfer shall be conducted by the United States; and
 
 &emsp;&emsp;(C) a clause granting the United States access to the property in any case in which remedial action or corrective action is found to be necessary after the date of such transfer.
 
@@ -146,7 +146,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(v) A physical inspection of property adjacent to the real property, to the extent permitted by owners or operators of such property.
 
-&emsp;&emsp;(vi) Reasonably obtainable Federal, State, and local government records of each adjacent facility where there has been a release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, and which islikely to cause or contribute to a release or threatened release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, on the real property.
+&emsp;&emsp;(vi) Reasonably obtainable Federal, State, and local government records of each adjacent facility where there has been a release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, and which is likely to cause or contribute to a release or threatened release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, on the real property.
 
 &emsp;&emsp;(vii) Interviews with current or former employees involved in operations on the real property.
 
@@ -162,7 +162,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;(iv) In the case of real property described in subparagraphs (E)(i)(II) on which operations are closed or realigned pursuant to a base closure law described in subparagraph (E)(ii)(III) or (E)(ii)(IV), the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made not later than 18 months after the date on which the real property is selected for closure or realignment pursuant to such a base closure law.
 
-&emsp;(D) In the case of the sale or other transfer of any parcel of real property identified under subparagraph (A), the deed entered into for the sale or transfer of such property by the United States to any other person or entity shall contain—
+&emsp;(D) In the case of the sale or other transfer of any parcel of real property identified under subparagraph (A), the deed entered into forthe sale or transfer of such property by the United States to any other person or entity shall contain—
 
 &emsp;&emsp;(i) a covenant warranting that any response action or corrective action found to be necessary after the date of such sale or transfer shall be conducted by the United States; and
 
@@ -210,7 +210,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
-The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82\(§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Title III of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (j), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
@@ -244,7 +244,7 @@ Section 2 of Pub. L. 102–426 provided that: “The Congress finds the followin
 
 &emsp;“(3) Remedial actions, including remedial investigations and feasibility studies, and corrective actions at such Federal facilities should be expedited in a manner to facilitate environmental protection and the sale or transfer of such excess real property for the purpose of mitigating adverse economic effects on the surrounding community.
 
-&emsp;“(4) Each department, agency, or instrumentality of the United States, in accordance with applicablelaw, should make available without delay such excess real property.
+&emsp;“(4) Each department, agency, or instrumentality of the United States, in accordance with applicable law, should make available without delay such excess real property.
 
 &emsp;“(5) In the case of any real property owned by the United States and transferred to another person, the United States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance or petroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer.”
 

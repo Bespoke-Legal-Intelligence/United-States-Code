@@ -16,13 +16,19 @@
 
 &emsp;(7) Inspector—not more than the maximum rate payable for GS–12.
 
+&emsp;(8) Chief—not more than the maximum rate payable for GS–14.
+
 (b) For the purpose of this section, the term “police forces of the Bureau of Engraving and Printing and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
 
-(Added Pub. L. 101–509, title V, §529 \[title I, §109(a)(1)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1451.)
+(Added Pub. L. 101–509, title V, §529 \[title I, §109(a)(1)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1451; amended Pub. L. 104–52, title V, §521, Nov. 19, 1995, 109 Stat. 494.)
 
 #### References in Text
 
-GS–6 to GS–12, referred to in subsec. (a), are contained in the General Schedule which is set out under section 5332 of this title.
+GS–6 to GS–12 and GS–14, referred to in subsec. (a), are contained in the General Schedule which is set out under section 5332 of this title.
+
+#### Amendments
+
+<b>1995</b>—Subsec. (a)(8). Pub. L. 104–52, which directed amendment of this section by adding par. (8), was executed by adding par. (8) at end of subsec. (a) to reflect the probable intent of Congress.
 
 #### Effective Date; Conversion and Savings Provisions
 
@@ -58,7 +64,7 @@ Section 529 \[title I, §109(b)\] of Pub. L. 101–509, as amended by Pub. L. 10
 
 &emsp;“(1) affect any special pay rate under section 5303 of title 5, United States Code, established before this section takes effect; or
 
-&emsp;“(2) impair any authority to fix or adjust special pay rates under such section 5303 (or a succeeding provision of law) for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint.”
+&emsp;“(2) impair any authority to fix or adjust special pay rates under such section 5303 (or a succeeding provision of law) for positions within the police forcesof the Bureau of Engraving and Printing and the United States Mint.”
 
 \[Amendment by Pub. L. 102–378 to section 529 \[title I, §109(b)\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 

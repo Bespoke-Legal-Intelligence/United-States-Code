@@ -74,7 +74,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in Pub. L. 98–212, title VII, §794, Dec. 8, 1983, 97 Stat. 1454, which was set out as a note under section 2304 of this title, prior to repeal by Pub. L. 98–525, §1234(b), eff. Jan. 1, 1985.
+Provisions similar to those in this section were contained in Pub. L. 98–212, title VII, §794, Dec. 8, 1983, 97 Stat. 1454, which was set out as a note under section 2304 of this title, prior to repeal by Pub. L. 98–525, §1234(b), eff. Jan. 1, 1985.
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Subsec. (h)(2), (3). Pub. L. 103–355, §2402(b), added par. (2) and redesignat
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -96,9 +96,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Written Warranties in Prime Contracts for Major Systems Acquisitions for Coast Guard
 
-Pub. L. 102–143, title I, Oct. 28, 1991, 105 Stat. 920, which directed Secretary of Transportation to issue regulations requiring written warranties to be included in all contracts with prime contractors for major systems acquisitions of the Coast Guard, with certain exceptions, was from the Department of Transportation and Related Agencies Appropriations Act, 1992, and was not repeated in subsequent appropriation acts.
-
-Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 102–143, title I, Oct. 28, 1991, 105 Stat. 920, which directed Secretary of Transportation to issueregulations requiring written warranties to be included in all contracts with prime contractors for major systems acquisitions of the Coast Guard, with certain exceptions, was from the Department of Transportation and Related Agencies Appropriations Act, 1992, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 101–516, title I, Nov. 5, 1990, 104 Stat. 2158.
 

@@ -58,7 +58,7 @@ The purpose of this subchapter is to enable schools to provide opportunities for
 
 &emsp;(1) ensuring high standards for all children and aligning the efforts of States, local educational agencies, and schools to help children served under this subchapter to reach such standards;
 
-&emsp;(2) providing children an enriched and accelerated educational program, including, when appropriate, the use of the arts, through schoolwide programs or through additional services that increase the amount and quality of instructional time so that children served under this subchapter receive at least the classroom instruction that other children receive;
+&emsp;(2) providing children an enriched and accelerated educational program, including, when appropriate, the use of the arts, through schoolwide programs or through additionalservices that increase the amount and quality of instructional time so that children served under this subchapter receive at least the classroom instruction that other children receive;
 
 &emsp;(3) promoting schoolwide reform and ensuring access of children (from the earliest grades) to effective instructional strategies and challenging academic content that includes intensive complex thinking and problem-solving experiences;
 
@@ -74,85 +74,85 @@ The purpose of this subchapter is to enable schools to provide opportunities for
 
 &emsp;(9) providing greater decisionmaking authority and flexibility to schools and teachers in exchange for greater responsibility for student performance.
 
-(Pub. L. 89 10, title I, §1001, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.)
+(Pub. L. 89–10, title I, §1001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.)
 
 #### Effective Date
 
-Section 3(a)(1) of Pub. L. 103 382 provided that:
+Section 3(a)(1) of Pub. L. 103–382 provided that:
 
-“(A) Title I \[amending generally Pub. L. 89 10 (formerly chapter 47 of this title, now this chapter) and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of title I that apply to programs under title VIII (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
+“(A) Title I \[amending generally Pub. L. 89–10 (formerly chapter 47 of this title, now this chapter)\] and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of title I that apply to programs under title VIII (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
 
 “(B) Title VIII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by title I of this Act, shall take effect on the date of the enactment of this Act \[Oct. 20, 1994\].”
 
 #### Short Title of 1994 Amendments
 
-Section 1 of Pub. L. 103 382 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Improving America's Schools Act of 1994’.”
+Section 1 of Pub. L. 103–382 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Improving America's Schools Act of 1994’.”
 
-Pub. L. 103 227, title X, §1031, Mar. 31, 1994, 108 Stat. 270, provided that: “This part \[part B (§§1031, 1032) of title X of Pub. L. 103 227, enacting section 3351 of this title and amending sections 3381 to 3384 and 3386 of this title\] may be cited as the ‘Gun-Free Schools Act of 1994’.”
+Pub. L. 103–227, title X, §1031, Mar. 31, 1994, 108 Stat. 270, provided that: “This part \[part B (§§1031, 1032) of title X of Pub. L. 103–227, enacting section 3351 of this title and amending sections 3381 to 3384 and 3386 of this title\] may be cited as the ‘Gun-Free Schools Act of 1994’.”
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102 545, §1, Oct. 27, 1992, 106 Stat. 3586, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Ready to Learn Act’.”
+Pub. L. 102–545, §1, Oct. 27, 1992, 106 Stat. 3586, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Ready to Learn Act’.”
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102 103, title I, §101, Aug. 17, 1991, 105 Stat. 497, provided that: “This title \[see Tables for classification\] may be cited as the ‘National Dropout Prevention Act of 1991’.”
+Pub. L. 102–103, title I, §101, Aug. 17, 1991, 105 Stat. 497, provided that: “This title \[see Tables for classification\] may be cited as the ‘National Dropout Prevention Act of 1991’.”
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101 600, §1, Nov. 16, 1990, 104 Stat. 3042, provided that: “This Act \[see Tables for classification\] may be cited as the ‘School Dropout Prevention and Basic Skills Improvement Act of 1990’.”
+Pub. L. 101–600, §1, Nov. 16, 1990, 104 Stat. 3042, provided that: “This Act \[see Tables for classification\] may be cited as the ‘School Dropout Prevention and Basic Skills Improvement Act of 1990’.”
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101 226, §1, Dec. 12, 1989, 103 Stat. 1928, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Drug-Free Schools and Communities Act Amendments of 1989’.”
+Pub. L. 101–226, §1, Dec. 12, 1989, 103 Stat. 1928, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Drug-Free Schools and Communities Act Amendments of 1989’.”
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100 569, title II, §201, Oct. 31, 1988, 102 Stat. 2862, provided that: “This title \[see Tables for classification\] may be cited as the ‘National Geography Studies Centers Act’.”
+Pub. L. 100–569, title II, §201, Oct. 31, 1988, 102 Stat. 2862, provided that: “This title \[see Tables for classification\] may be cited as the ‘National Geography Studies Centers Act’.”
 
-Pub. L. 100 297, §1(a), Apr. 28, 1988, 102 Stat. 130, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988’.”
+Pub. L. 100–297, §1(a), Apr. 28, 1988, 102 Stat. 130, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988’.”
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98 511, §1, Oct. 19, 1984, 98 Stat. 2366, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1984’.”
+Pub. L. 98–511, §1, Oct. 19, 1984, 98 Stat. 2366, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1984’.”
 
-Pub. L. 98 511, title IV, §401(a), Oct. 19, 1984, 98 Stat. 2389, provided that: “This title \[see Tables for classification\] may be cited as the ‘Women's Educational Equity Amendments of 1984’.”
+Pub. L. 98–511, title IV, §401(a), Oct. 19, 1984, 98 Stat. 2389, provided that: “This title \[see Tables for classification\] may be cited as the ‘Women's Educational Equity Amendments of 1984’.”
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95 561, §1, Nov. 1, 1978, 92 Stat. 2143, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1978’.”
+Pub. L. 95–561, §1, Nov. 1, 1978, 92 Stat. 2143, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1978’.”
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95 112, §1, Sept. 24, 1977, 91 Stat. 911, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1977’.”
+Pub. L. 95–112, §1, Sept. 24, 1977, 91 Stat. 911, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1977’.”
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93 380, §1, Aug. 21, 1974, 88 Stat. 484, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1974’.”
+Pub. L. 93–380, §1, Aug. 21, 1974, 88 Stat. 484, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Education Amendments of 1974’.”
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 121 \[see Tables for classification\], is popularly known as the “Elementary and Secondary Education Amendments of 1970”.
+Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121 \[see Tables for classification\], is popularly known as the “Elementary and Secondary Education Amendments of 1970”.
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90 247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: “This Act \[see Tables for classification\] may becited as the ‘Elementary and Secondary Education Amendments of 1967’.”
+Pub. L. 90–247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Elementary and Secondary Education Amendments of 1967’.”
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89 750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Elementary and Secondary Education Amendments of 1966’.”
+Pub. L. 89–750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Elementary and Secondary Education Amendments of 1966’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 89 10, as added by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Elementary and Secondary Education Act of 1965’.”
+Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Elementary and Secondary Education Act of 1965’.”
 
 #### Transition Provisions
 
-Section 3(b) of Pub. L. 103 382 provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89 10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103 382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
+Section 3(b) of Pub. L. 103–382 provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary EducationAct of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
 
 #### Budget Compliance
 
-Section 561 of Pub. L. 103 382 provided that: “Any authority or requirement to make funds available under this Act \[see Tables for classification\] shall be effective only to the extent provided in appropriations Acts.”
+Section 561 of Pub. L. 103–382 provided that: “Any authority or requirement to make funds available under this Act \[see Tables for classification\] shall be effective only to the extent provided in appropriations Acts.”
 
 #### Section Referred to in Other Sections
 

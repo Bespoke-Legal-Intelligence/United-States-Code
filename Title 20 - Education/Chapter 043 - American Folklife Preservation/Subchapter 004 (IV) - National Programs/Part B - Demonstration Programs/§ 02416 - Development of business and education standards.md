@@ -28,5 +28,5 @@ Each recipient of a grant under this section shall agree to provide for the comm
 
 Any industrial trade association, labor organization, national joint apprenticeship committee, or comparable national organization that desires to receive a grant under this section shall submit to the Secretary an application at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
 
-(Pub. L. 88 210, title IV, §416, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 818.)
+(Pub. L. 88–210, title IV, §416, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 818.)
 

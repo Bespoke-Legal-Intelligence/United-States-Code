@@ -1,0 +1,108 @@
+### §5601. Representation of United States under Convention
+
+#### (a) Commissioners
+
+#### (1) Appointments, generally
+
+&emsp;The Secretary shall appoint not more than 3 individuals to serve as the representatives ofthe United States on the General Council and the Fisheries Commission, who shall each—
+
+&emsp;&emsp;(A) be known as a “United States Commissioner to the Northwest Atlantic Fisheries Organization”; and
+
+&emsp;&emsp;(B) serve at the pleasure of the Secretary.
+
+#### (2) Requirements for appointments
+
+&emsp;(A) The Secretary shall ensure that of the individuals serving as Commissioners—
+
+&emsp;&emsp;(i) at least 1 is appointed from among representatives of the commercial fishing industry;
+
+&emsp;&emsp;(ii) 1 (but no more than 1) is an official of the Government; and
+
+&emsp;&emsp;(iii) 1, other than the individual appointed under clause (ii), is a voting member of the New England Fishery Management Council.
+
+&emsp;(B) The Secretary may not appoint as a Commissioner an individual unless the individual is knowledgeable and experienced concerning the fishery resources to which the Convention applies.
+
+#### (3) Terms
+
+&emsp;(A) The term of an individual appointed as a Commissioner—
+
+&emsp;&emsp;(i) shall be specified by the Secretary at the time of appointment; and
+
+&emsp;&emsp;(ii) may not exceed 4 years.
+
+&emsp;(B) An individual who is not a Government official may not serve more than 2 consecutive terms as a Commissioner.
+
+#### (b) Alternate Commissioners
+
+#### (1) Appointment
+
+&emsp;The Secretary may, for any anticipated absence of a duly appointed Commissioner at a meeting of the General Council or the Fisheries Commission, designate an individual to serve as an Alternate Commissioner.
+
+#### (2) Functions
+
+&emsp;An Alternate Commissioner may exercise all powers and perform all duties of the Commissioner for whom the Alternate Commissioner is designated, at any meeting of the General Council or the Fisheries Commission for which the Alternate Commissioner is designated.
+
+#### (c) Representatives
+
+#### (1) Appointment
+
+&emsp;The Secretary shall appoint not more than 3 individuals to serve as the representatives of the United States on the Scientific Council, who shall each be known as a “United States Representative to the Northwest Atlantic Fisheries Organization Scientific Council”.
+
+#### (2) Eligibility for appointment
+
+&emsp;(A) The Secretary may not appoint an individual as a Representative unless the individual is knowledgeable and experienced concerning the scientific issues dealt with by the Scientific Council.
+
+&emsp;(B) The Secretary shall appoint as a Representative at least 1 individual who is an official of the Government.
+
+#### (3) Term
+
+&emsp;An individual appointed as a Representative—
+
+&emsp;&emsp;(A) shall serve for a term of not to exceed 4 years, as specified by the Secretary at the time of appointment;
+
+&emsp;&emsp;(B) may be reappointed; and
+
+&emsp;&emsp;(C) shall serve at the pleasure of the Secretary.
+
+#### (d) Alternate Representatives
+
+#### (1) Appointment
+
+&emsp;The Secretary may, for any anticipated absence of a duly appointed Representative at a meeting of the Scientific Council, designate an individual to serve as an Alternate Representative.
+
+#### (2) Functions
+
+&emsp;An Alternate Representative may exercise all powers and perform all duties of the Representative for whom the Alternate Representative is designated, at any meeting of the Scientific Council for which the Alternate Representative is designated.
+
+#### (e) Experts and advisers
+
+The Commissioners, Alternate Commissioners, Representatives, and Alternate Representatives may be accompanied at meetings of the Organization by experts and advisers.
+
+#### (f) Coordination and consultation
+
+#### (1) In general
+
+&emsp;In carrying out their functions under the Convention, Commissioners, Alternate Commissioners, Representatives, and Alternate Representatives shall—
+
+&emsp;&emsp;(A) coordinate with the appropriate Regional Fishery Management Councils established by section 1852 of this title; and
+
+&emsp;&emsp;(B) consult with the committee established under section 5607 of this title.
+
+#### (2) Relationship to other law
+
+&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to coordination and consultations under this subsection.
+
+(Pub. L. 104–43, title II, §202, Nov. 3, 1995, 109 Stat. 377.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Short Title
+
+Section 201 of title II of Pub. L. 104–43 provided that: “This title \[enacting this chapter\] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5608, 5609 of this title.
+

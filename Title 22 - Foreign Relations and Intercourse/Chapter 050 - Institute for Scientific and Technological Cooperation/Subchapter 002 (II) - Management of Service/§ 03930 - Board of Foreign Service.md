@@ -14,7 +14,7 @@ The President shall establish a Board of the Foreign Service to advise the Secre
 
 #### Executive Order No. 11264
 
-Ex. Ord. No. 11264, Dec. 31, 1965, 31 F.R. 67, as amended by Ex. Ord. No. 11434, Nov. 8, 1968, 33 F.R. 16485; Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, which provided for the establishment, functions, etc., of the Board of the Foreign Service and Board of Examiners for the Foreign Service, was revoked by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497. See sections 6 and 9 of Ex. Ord. No. 12293, as amended, set out as a note under section 3901 of this title.
+Ex. Ord. No. 11264, Dec. 31, 1965, 31 F.R. 67, as amended by Ex. Ord. No. 11434, Nov. 8, 1968, 33 F.R. 16485; Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12292, Feb. 23,1981, 46 F.R. 13967, which provided for the establishment, functions, etc., of the Board of the Foreign Service and Board of Examiners for the Foreign Service, was revoked by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497. See sections 6 and 9 of Ex. Ord. No. 12293, as amended, set out as a note under section 3901 of this title.
 
 #### Executive Order No. 11434
 

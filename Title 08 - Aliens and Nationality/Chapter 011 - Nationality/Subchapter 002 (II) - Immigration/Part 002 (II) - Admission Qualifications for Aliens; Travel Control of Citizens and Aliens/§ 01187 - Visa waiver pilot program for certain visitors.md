@@ -2,7 +2,7 @@
 
 #### (a) Establishment of pilot program
 
-The Attorney General and the Secretary of State are authorized to establish a pilot program (hereinafter in this section referred to as the “pilot program”) under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a)of this title may be waived by the Attorney General and the Secretary of State, acting jointly and in accordance with this section, in the case of an alien who meets the following requirements:
+The Attorney General and the Secretary of State are authorized to establish a pilot program (hereinafter in this section referred to as the “pilot program”) under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Attorney General and the Secretary of State, acting jointly and in accordance with this section, in the case of an alien who meets the following requirements:
 
 #### (1) Seeking entry as tourist for 90 days or less
 
@@ -90,7 +90,7 @@ An alien may not be provided a waiver under the pilot program unless the alien h
 
 #### (i) Low nonimmigrant visa refusal rate in previous 2-year period
 
-&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous fullfiscal years was less than 2 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
+&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous full fiscal years was less than 2 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
 
 #### (ii) Low nonimmigrant visa refusal rate in each of the 2 previous years
 
@@ -162,7 +162,7 @@ For purposes of this section, the term “pilot program period” means the peri
 
 &emsp;&emsp;(A) The sum of—
 
-&emsp;&emsp;&emsp;(i) the total number of nationals of that country who were excluded from admissionor withdrew their application for admission during the preceding fiscal year as a nonimmigrant visitor, and
+&emsp;&emsp;&emsp;(i) the total number of nationals of that country who were excluded from admission or withdrew their application for admission during the preceding fiscal year as a nonimmigrant visitor, and
 
 &emsp;&emsp;&emsp;(ii) the total number of nationals of that country who were admitted as visitors during the preceding fiscal year and who violated the terms of such admission,
 
@@ -242,7 +242,7 @@ Section 201(d) of Pub. L. 101–649 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Operation of Automated Data Arrival and Departure Control System; Report to Congress
 

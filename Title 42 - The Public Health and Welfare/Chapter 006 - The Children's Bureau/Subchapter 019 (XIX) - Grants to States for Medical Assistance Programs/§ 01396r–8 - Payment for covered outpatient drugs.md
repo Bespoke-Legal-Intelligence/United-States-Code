@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for payment to be available under section 1396b(a) of this title for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall bedeemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall not be effective until the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
+&emsp;In order for payment to be available under section 1396b(a) of this title for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State anda manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall not be effective until the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
 
 #### (2) Effective date
 
@@ -56,7 +56,7 @@
 
 #### (B) Effect of subsequent amendments
 
-&emsp;&emsp;In determining whether a master agreement described in subparagraph (A) meetsthe requirements of section 8126 of title 38, the Secretary shall not take into account any amendments to such section that are enacted after November 4, 1992.
+&emsp;&emsp;In determining whether a master agreement described in subparagraph (A) meets the requirements of section 8126 of title 38, the Secretary shall not take into account any amendments to such section that are enacted after November 4, 1992.
 
 #### (C) Determination of compliance
 
@@ -696,7 +696,7 @@ Subsec. (c)(1)(C). Pub. L. 102–585, §601(a), substituted “(excluding any pr
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Committees on Aging of the Senate and House of Representatives probably mean the Special Committee on Aging of the Senate and the Select Committee on Aging of the House of Representatives which was abolished on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
@@ -716,45 +716,7 @@ Section 601(e) of Pub. L. 102–585 provided that: “The amendments made by thi
 
 #### Reports on Best Price Changes and Payment of Rebates
 
-Section 601(d) of Pub. L. 102–585 provided that:
-
-“(1)
-
-In general.—Not later than 90 days after the expiration of each calendar quarter that begins on or after October 1, 1992, and ends on or before December 31, 1995, the Secretary of Health and Human Services shall submit a report to Congress that contains the following information relating to prescription drugs dispensed in the quarter (subject to paragraph (2)):
-
-&emsp;“(A) With respect to single source drugs and innovator multiple source drugs (as such terms are defined in section 1927(k)(7) of the Social Security Act \[subsec. (k)(7) of this section\])—
-
-&emsp;&emsp;“(i) the percentage of such drugs whose best price (as reported to the Secretary under section 1927(b) of the Social Security Act \[subsec. (b) of this section\]) increased compared to the best price during the previous calendar quarter, and the amount of expenditures under State plans under title XIX of such Act \[this subchapter\] attributable to such drugs;
-
-&emsp;&emsp;“(ii) the percentage of such drugs whose best price (as so reported) decreased compared to the best price during the previous calendar quarter, and the amount of expenditures under State plans under title XIX of such Act attributable to such drugs;
-
-&emsp;&emsp;“(iii) the percentage of such drugs whose best price (as so reported) was the same as the best price during the previous calendar quarter, and the amount of expenditures under State plans under title XIX of such Act attributable to such drugs;
-
-&emsp;&emsp;“(iv) the median and mean percentage increase (or decrease) in the best price of such single source drugs (as so reported) compared to the best price during the previous calendar quarter, unweighted and weighted (in the case of the mean percentage increase or decrease) by the dollar volume of drugs dispensed;
-
-&emsp;&emsp;“(v) the median and mean percentage increase (or decrease) in the best price of such innovator multiple source drugs (as so reported) compared to the best price during the previous calendar quarter, unweighted and weighted (in the case of the mean percentage increase or decrease) by the dollar volume of drugs dispensed; and
-
-&emsp;&emsp;“(vi) the median and mean percentage increase (or decrease) in the best price of all such drugs (as so reported) compared to the best price during the previous calendar quarter, unweighted and weighted (in the case of the mean percentage increase or decrease) by the dollar volume of drugs dispensed.
-
-&emsp;“(B) With respect to all drugs for which manufacturers are required to pay rebates under section 1927(c) of the Social Security Act \[subsec. (c) of this section\], the Secretary's estimate, on a State-by-State and a national aggregate basis, of—
-
-&emsp;&emsp;“(i) the total amount of all rebates paid under such section during the quarter, broken down by the portions of such total amount attributable to rebates described in paragraphs (1), (2), and (3) of such section;
-
-&emsp;&emsp;“(ii) the percentages of such total amount attributable to rebates described in paragraphs (1), (2), and (3) of such section; and
-
-&emsp;&emsp;“(iii) the amount of the portion of such total amount attributable to the rebate described in paragraph (1) of such section that is solely attributable to the application of subclause (II) of clause (i), (ii), (iii), (iv), or (v) of such paragraph.
-
-“(2)
-
-Limitation on drugs subject to report.—No report submitted under paragraph (1) shall include any information relating to any prescription drug unless the Secretary finds that expenditures for the drug are significant expenditures under the medicaid program. In the previous sentence, expenditures for a drug are ‘significant’ if the drug was one of the 1,000 drugs for which the greatest amount of the Federal financial assistance attributable to prescription drugs was paid under section 1903(a) of the Social Security Act \[section 1396b(a) of this title\] during calendar year 1991.
-
-“(3)
-
-Special rule for initial report.—For purposes of the first report required to be submitted under paragraph (1)—
-
-&emsp;“(A) the Secretary shall submit the report not later than May 1, 1993; and
-
-&emsp;“(B) the information contained in the report shall include information on prescription drugs dispensed during each calendar quarter that began on or after January 1, 1991, and ended on or before December 31, 1992.”
+Section 601(d) of Pub. L. 102–585 provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayed the same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary's best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs whichare considered significant expenditures under medicaid program, and contained requirements for initial report.
 
 #### Demonstration Projects To Evaluate Efficiency and Cost-Effectiveness of Prospective Drug Utilization Review
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
 
-> For purposes of clause (B), an export (or attempted export) by a person who is an agent of,or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
+> For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
 (2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) the term “component” means a specific component of a nuclear explosive device.
 
-(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a countrywith respect to the same detonation, transfer, or receipt of a nuclear explosive device.
+(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
 (B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
@@ -106,7 +106,7 @@ Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

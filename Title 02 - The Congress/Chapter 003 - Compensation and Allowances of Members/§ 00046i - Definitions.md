@@ -1,4 +1,4 @@
-### §46i . Definitions
+### §46i. Definitions
 
 As used in section 46g of this title, the term “Member” or “Member of the House of Representatives” includes a Representative in Congress, a Delegate from a Territory, and the Resident Commissioner from Puerto Rico.
 

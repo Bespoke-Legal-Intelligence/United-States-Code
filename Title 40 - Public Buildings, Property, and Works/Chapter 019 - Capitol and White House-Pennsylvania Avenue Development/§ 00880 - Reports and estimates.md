@@ -10,7 +10,7 @@ Within six months after October 31, 1983, the Corporation shall transmit to the 
 
 #### (c) Protection and enhancement of significant historic and architectural values
 
-The report submitted under subsection (a) of this section shall include a detailed discussion of the actions the Corporation has taken within the reporting period to protect and enhance the significant historic and architectural values of structures within the boundaries of the Corporation's jurisdiction, and indicating similar actions it plans to take and issues it anticipates dealing with during the upcoming fiscal year related to historic and architectural preservation. Such report shall indicate the degree to which public concern has been considered and incorporated into decisions made by the Corporation relative to historic and architectural preservation.
+The report submitted under subsection (a) of this section shall include a detailed discussion of the actions the Corporation has taken within the reporting period to protect and enhance the significant historic and architectural values of structures within the boundaries of the Corporation's jurisdiction, and indicating similar actions it plans to take and issues it anticipatesdealing with during the upcoming fiscal year related to historic and architectural preservation. Such report shall indicate the degree to which public concern has been considered and incorporated into decisions made by the Corporation relative to historic and architectural preservation.
 
 (Pub. L. 92–578, §11, Oct. 27, 1972, 86 Stat. 1274; Pub. L. 98–141, §8(d), Oct. 31, 1983, 97 Stat. 910.)
 

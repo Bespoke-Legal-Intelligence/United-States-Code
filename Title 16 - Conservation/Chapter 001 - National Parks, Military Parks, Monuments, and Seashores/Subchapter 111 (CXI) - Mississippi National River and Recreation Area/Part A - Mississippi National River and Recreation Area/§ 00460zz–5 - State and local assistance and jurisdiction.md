@@ -1,4 +1,4 @@
-### §460zz–5 . State and local assistance and jurisdiction
+### §460zz–5. State and local assistance and jurisdiction
 
 #### (a) Grants
 

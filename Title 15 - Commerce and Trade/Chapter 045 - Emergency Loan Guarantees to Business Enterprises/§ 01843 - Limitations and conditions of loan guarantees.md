@@ -18,5 +18,5 @@ Loans guaranteed under this chapter shall be payable in not more than five years
 
 (2) The Board shall prescribe and collect a guarantee fee in connection with each loan guaranteed under this chapter. Such fee shall reflect the Government's administrative expense in making the guarantee and the risk assumed by the Government and shall not be less than an amount which, when added to the amount of interest payable to the lender of such loan, produces a total charge appropriate for loan agreements of comparable risk and maturity if supplied by the normal capital markets.
 
-(Pub. L. 92 70, §4, Aug. 9, 1971, 85 Stat. 178.)
+(Pub. L. 92–70, §4, Aug. 9, 1971, 85 Stat. 178.)
 

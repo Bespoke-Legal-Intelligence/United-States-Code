@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
+There is created as an agency of the United States of America a body corporate to be knownas the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
 
 #### (b) Congressional declaration of purpose
 
@@ -100,7 +100,7 @@ The Secretary of State shall have authority to detail employees of any agency un
 
 #### (q) Establishment of principal and branch offices
 
-The Foundation shall maintain its principal office in the metropolitan Washington, D.C.,area. The Foundation may establish agencies, branch offices, or other offices in any place or places outside the United States in which the Foundation may carry on all or any of its operations and business.
+The Foundation shall maintain its principal office in the metropolitan Washington, D.C., area. The Foundation may establish agencies, branch offices, or other offices in any place or places outside the United States in which the Foundation may carry on all or any of its operations and business.
 
 #### (r) Exemption from tax
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of$50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 

@@ -1,6 +1,6 @@
 ### §§291 to 295. Repealed. Pub. L. 86–694, §2, Sept. 2, 1960, 74 Stat. 739
 
-Section 291, act Mar. 4, 1921, ch. 169, §1, 41 Stat. 1440, established a commission to make recommendationsfor memorials and entombments for Arlington Memorial Amphitheater.
+Section 291, act Mar. 4, 1921, ch. 169, §1, 41 Stat. 1440, established a commission to make recommendations for memorials and entombments for Arlington Memorial Amphitheater.
 
 Section 292, act Mar. 4, 1921, ch. 169, §2, 41 Stat. 1440, provided for a chairman and disbursing officer.
 

@@ -208,7 +208,7 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;(ii) may not be increased after December 31, 1993, and may not be charged after June 29, 1999, with respect to goods that qualify to be marked as goods of Mexico pursuant to such Annex 311, for such time as Mexico is a NAFTA country.
 
-> Any service for which an exemption from such fee is provided by reason of this paragraph maynot be funded with money contained in the Customs User Fee Account.
+> Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
 (11) No fee may be charged under subsection (a)(9) or (10) of this section with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 (1) The Secretary of the Treasury may prescribe such rules and regulations as may be necessary to carry out the provisions of this section. Regulations issued by the Secretary of the Treasury under this subsection with respect to the collection of the fees charged under subsection (a)(5) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
 
-(2) Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations, other than those laws and regulations relating to drawback, shall apply with respect to any fee prescribed under subsection (a) of this section, and with respect to persons liable therefor, as if such fee is a customs duty. For purposes of the preceding sentence, any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the amount of the fee assessed. For purposes of determining the jurisdiction of any court of the United States or any agency of the United States, any fee prescribed under subsection (a) of this section shall be treated as if such fee is a customs duty.
+(2) Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations, other than those laws and regulations relating to drawback, shall apply with respect to any fee prescribed under subsection (a) of this section, and with respect to persons liable therefor, as if such fee is a customs duty. For purposes of the preceding sentence, any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the amount of the fee assessed. For purposes of determining the jurisdiction of any court of theUnited States or any agency of the United States, any fee prescribed under subsection (a) of this section shall be treated as if such fee is a customs duty.
 
 #### (h) Omitted
 
@@ -442,7 +442,7 @@ Subsec. (f)(3)(A)(i)(II). Pub. L. 103–465, §611(a), amended subcl. (II) gener
 
 Subsec. (b)(1). Pub. L. 103–182, §521(a)(2), inserted after subpar. (C) “Subparagraph (A) shall not apply to fiscal years 1994, 1995, 1996, and 1997.”
 
-Subsec. (b)(10). Pub. L. 103–182, §204, amended par. (10) generally. Prior to amendment, par. (10) read as follows: “The fee charged under subsection (a)(9) or (10) of this section with respect to goods of Canadian origin\(as determined under section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988) shall be in accordance with article 403 of the United States-Canada Free-Trade Agreement. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.”
+Subsec. (b)(10). Pub. L. 103–182, §204, amended par. (10) generally. Prior to amendment, par. (10) read as follows: “The fee charged under subsection (a)(9) or (10) of this section with respect to goods of Canadian origin (as determined under section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988) shall be in accordance with article 403 of the United States-Canada Free-Trade Agreement. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.”
 
 Subsec. (f)(1). Pub. L. 103–182, §521(a)(3)(A), substituted “except—” and subpars. (A) and (B) for “except that portion of such fees that is required under paragraph (3) for the direct reimbursement of appropriations.”
 
@@ -602,9 +602,9 @@ Subsec. (f)(1) to (3). Pub. L. 100–203, §9501(a)(3), added pars. (1) to (3) a
 
 “(2)(A) The Secretary of the Treasury shall refund out of the Customs User Fee Account to any appropriation the amount paid out of such appropriation for expenses incurred by the Secretary of the Treasury in providing overtime customs inspectional services for which the recipient of such services is not required to reimburse the Secretary of the Treasury.
 
-“(B) The amounts which are required to be refunded under subparagraph (A) shall be refunded at least quarterly on the basis of estimates made by the Secretary of the Treasury of the expenses referred to in subparagraph (A). Proper adjustments shall be made in the amounts subsequently refunded under subparagraph (A) to the extent prior estimates were in excess of, or less than, the amounts required to be refunded under subparagraph (A).
+“(B) The amounts which are required to be refunded under subparagraph (A) shall be refunded at least quarterly on the basis of estimates made by the Secretary of the Treasury of the expenses referred to in subparagraph (A). Proper adjustments shall be made in theamounts subsequently refunded under subparagraph (A) to the extent prior estimates were in excess of, or less than, the amounts required to be refunded under subparagraph (A).
 
-“(3) Except as provided in paragraph (2), all funds in the Customs User Fee Account shall only be available,to the extent provided for in appropriation Acts, for the salaries and expenses of the United States Customs Service incurred in conducting commercial operations.”
+“(3) Except as provided in paragraph (2), all funds in the Customs User Fee Account shall only be available, to the extent provided for in appropriation Acts, for the salaries and expenses of the United States Customs Service incurred in conducting commercial operations.”
 
 Subsec. (g). Pub. L. 100–203, §9501(a)(4), designated existing provisions as par. (1), substituted “In addition to the regulations required under paragraph (2), the” for “The”, and added par. (2).
 
@@ -702,7 +702,7 @@ Exceptions.—The amendment made by section 111(d) \[amending this section\], an
 
 Section 9001(b) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section, sections 1330, 1332, 1337, 1671, 1677, 1677–2, 2131, 2138, 2212, 2253, 2254, 2296, and 2703 of this title, and provisions set out as notes under sections 1507, 1671, and 2397 of this title\] shall be applied as if such amendments took effect on August 23, 1988.”
 
-Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
@@ -768,9 +768,9 @@ Section 1893(c)(2), (3) of Pub. L. 99–514 provided that:
 
 “(2) Notwithstanding section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(7)), the fee imposed by section 13031(a) of such Act with respect to each customs broker permit held by an individual, partnership, association, or corporate customs broker for calendar year 1986 is $62.50.
 
-“(3)(A) The Secretary of the Treasury shall reinstate any customs broker's license or customs broker permit issued under subsection (b) or (c) of section 641 of the Tariff Act of 1930 (19 U.S.C. 1641) that was suspended or revoked on or before the date of enactment of this Act \[Oct. 22, 1986\] solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985.
+“(3)(A) The Secretary of the Treasury shall reinstate any customs broker's license or customs broker permit issued under subsection (b) or (c) of section 641 of theTariff Act of 1930 (19 U.S.C. 1641) that was suspended or revoked on or before the date of enactment of this Act \[Oct. 22, 1986\] solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985.
 
-“(B) Notwithstanding any other provision of law, the Secretary of the Treasury may not suspend or revokeany customs broker permit issued under section 641(c) of the Tariff Act of 1930 (19 U.S.C. 1641(c)) solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 before the date that is 60 days after the date of enactment of this Act \[Oct. 22, 1986\].”
+“(B) Notwithstanding any other provision of law, the Secretary of the Treasury may not suspend or revoke any customs broker permit issued under section 641(c) of the Tariff Act of 1930 (19 U.S.C. 1641(c)) solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 before the date that is 60 days after the date of enactment of this Act \[Oct. 22, 1986\].”
 
 #### Section Referred to in Other Sections
 

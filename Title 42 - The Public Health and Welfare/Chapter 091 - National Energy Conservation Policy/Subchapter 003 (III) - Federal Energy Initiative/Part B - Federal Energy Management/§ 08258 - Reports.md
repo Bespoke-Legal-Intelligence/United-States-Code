@@ -14,13 +14,17 @@ The Secretary shall report, not later than April 2 of each year, with respect to
 
 &emsp;(1) on all activities carried out under this part and on the progress made toward achievement of the objectives of this part, including—
 
-&emsp;&emsp;(A) a copy of the list of the exclusions made under sections 8253(a)(2) and 8253(c)(3) of this title; and
+&emsp;&emsp;(A) a copy of the list of the exclusions made under sections 8253(a)(2) and 8253(c)(3) of this title;
 
-&emsp;&emsp;(B) a statement detailing the amount of funds awarded to each agency under section 8256(b) of this title, the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures, and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
+&emsp;&emsp;(B) the information required under section 8253(b)(2) of this title; and
 
-&emsp;(2) the number of contracts entered into by all agencies under subchapter VII of this chapter, the difficulties (if any) encountered in attempting to enter into such contracts, and proposed solutions to those difficulties; and
+&emsp;&emsp;(C) a statement detailing the amount of funds awarded to each agency under section 8256(b) of this title, the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures, and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
 
-&emsp;(3) the extent and nature of interagency exchange of information concerning the conservation and efficient utilization of energy.
+&emsp;(2) the number of contracts entered into by all agencies under subchapter VII of this chapter, the difficulties (if any) encountered in attempting to enter into such contracts, and proposed solutions to those difficulties;
+
+&emsp;(3) the extent and nature of interagency exchange of information concerning the conservation and efficient utilization of energy; and
+
+&emsp;(4) the information required under section 8262g(d) of this title.
 
 #### (c) Other report
 
@@ -30,9 +34,13 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 &emsp;(2) not later than 18 months after October 24, 1992, transmit to the Congress a report containing the findings and conclusions of such study, including recommendations for the development of streamlined processes for the consideration of connecting buildings owned or leased by the Federal Government to district heating and cooling systems.
 
-(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851.)
+(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat.3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718.)
 
 #### Amendments
+
+1995—Subsec. (b)(1). Pub. L. 104–66, §1052(d)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (b)(4). Pub. L. 104–66, §1052(d)(2)–(4), added par. (4).
 
 1992—Subsec. (a)(2). Pub. L. 102–486, §152(i)(1)(A), substituted “8256(a)(2)” for “8256(b)”.
 
@@ -46,5 +54,5 @@ Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6361, 8253, 8262c, 8262e of this title.
+This section is referred to in sections 6361, 8253, 8262c, 8262e, 8262g of this title.
 

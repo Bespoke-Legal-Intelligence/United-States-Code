@@ -12,5 +12,5 @@ The Secretary shall issue regulations under this subchapter only to the extent t
 
 Notwithstanding any other provision of law, unless expressly in limitation of this subsection, funds appropriated in any fiscal year to carry out activities under this subchapter shall become available for obligation on July 1 of such fiscal year and shall remain available for obligation until the end of the subsequent fiscal year.
 
-(Pub. L. 89 10, title VI, §6403, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3715.)
+(Pub. L. 89–10, title VI, §6403, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3715.)
 

@@ -52,15 +52,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Subsec. (a)(1)(C). Pub. L. 96–54, §2(a)(19), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+<b>1979</b>—Subsec. (a)(1)(C). Pub. L. 96–54, §2(a)(19), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
 Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted “Office” for “Commission”.
 
-1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1975—Subsec. (a)(2)(B). Pub. L. 94–183 struck out “(except a Postmaster)” after “an individual appointed by the President”.
+<b>1975</b>—Subsec. (a)(2)(B). Pub. L. 94–183 struck out “(except a Postmaster)” after “an individual appointed by the President”.
 
-1967—Subsec. (a)(1)(C). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey.” See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Subsec. (a)(1)(C). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey.” See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 1979 Amendment
 

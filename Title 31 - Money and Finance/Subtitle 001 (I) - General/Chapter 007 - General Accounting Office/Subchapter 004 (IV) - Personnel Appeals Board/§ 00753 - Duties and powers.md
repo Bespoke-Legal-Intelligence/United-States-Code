@@ -18,19 +18,21 @@
 
 &emsp;(8) an issue about Office personnel the Comptroller General by regulation decides the Board shall resolve; and
 
-&emsp;(9) an action involving discrimination prohibited under section 312(e)(2) of the Architect of the Capitol Human Resources Act.
+&emsp;(9) an action involving discrimination prohibited under section 312(e)(2) <sup>1</sup> of the Architect of the Capitol Human Resources Act.
 
-(b) The Board may delegate to a member or a panel of members the authority to act under subsection (a) of this section. A decision of a member or panel under subsection (a) is deemed to be a final decision of the Board unless the Board reconsiders the decision under subsection (c) of this section.
+(b) The Board has no authority to issue a stay of any reduction in force action.
 
-(c) On motion of a party or on its own initiative, the Board may reconsider a decision under subsection (a) of this section by the 30th day after the decision is made.
+(c) The Board may delegate to a member or a panel of members the authority to act under subsection (a) of this section. A decision of a member or panel under subsection (a) is deemed to be a final decision of the Board unless the Board reconsiders the decision under subsection (d) of this section.
 
-(d) The Board shall prescribe regulations—
+(d) On motion of a party or on its own initiative, the Board may reconsider a decision under subsection (a) of this section by the 30th day after the decision is made.
+
+(e) The Board shall prescribe regulations—
 
 &emsp;(1) providing for officer and employee appeals consistent with sections 7701 and 7702 of title 5; and
 
 &emsp;(2) on the operating procedure of the Board.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, §312(e)(4)(B), July 22, 1994, 108 Stat. 1446.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, §312(e)(4)(B), July 22, 1994, 108 Stat. 1446; Pub. L. 104–53, title II, §213, Nov. 19, 1995, 109 Stat. 535.)
 
 Historical and Revision Notes
 
@@ -70,13 +72,25 @@ In subsection (d)(1), the words “the principles of” are omitted as surplus.
 
 #### References in Text
 
-Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), is classified to section 166b–7(e)(2) of Title 40, Public Buildings, Property, and Works.
+Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to section 166b–7(e)(2) of Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2, The Congress.
 
 #### Amendments
 
-1994—Subsec. (a)(9). Pub. L. 103–283 added par. (9).
+1995—Subsec. (b). Pub. L. 104–53, §213(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 104–53, §213(1), (3), redesignated subsec. (b) as (c) and in second sentence substituted “under subsection (d)” for “under subsection (c)”. Former subsec. (c) redesignated (d).
+
+Subsecs. (d), (e). Pub. L. 104–53, §213(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+
+1994—Subsec. (a)(9). Pub. L. 103–283 added par. (9). See Application of Provisions Amended by Pub. L. 103–283 note below.
+
+#### Application of Provisions Amended by Pub. L. 103–283
+
+Provisions of this section amended by section 312(e) of Pub. L. 103–283 to be applied and administered as if section 312(e) and the amendments made by section 312(e) had not been enacted, see section 504(c)(2) of Pub. L. 104–1, set out as a note under section 751 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 754, 755 of this title; title 40 section 166b–7.
+This section is referred to in sections 754, 755 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 231, 351, 354, 355, 362, 401, 404, 726, 797k, 1108, 1207 of this title; title 11 section 1167; title 18 section 1951; title 26 section 3231; title 29 sections 152, 182, 401, 402, 523, 630, 1002, 1415, 2108; title 42 section 2000e; title 49 sections 10722, 20110, 24312, 42111.
+This chapter is referred to in sections 231, 351, 354, 355, 362, 401, 404, 726, 797k, 1108, 1207 of this title; title 11 section 1167; title 18 section 1951; title 26 section 3231; title 29 sections 152, 182, 401, 402, 523, 630, 1002, 1415, 2108; title 42 section 2000e; title 49 sections 10501, 20110, 24312, 42111.
 
 
 ---

@@ -34,15 +34,15 @@ Each program assisted under this part shall—
 
 &emsp;(10) provide for an independent evaluation of the program.
 
-(Pub. L. 89 10, title I, §1205, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3580.)
+(Pub. L. 89–10, title I, §1205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580.)
 
 #### References in Text
 
-The Adult Education Act, referred to in par. (8)(B), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in par. (8)(B), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (8)(B), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (8)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Job Training Partnership Act, referred to in par. (8)(B), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (8)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

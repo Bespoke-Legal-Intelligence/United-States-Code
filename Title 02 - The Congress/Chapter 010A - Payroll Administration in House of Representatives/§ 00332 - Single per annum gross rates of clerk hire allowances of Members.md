@@ -10,7 +10,7 @@ The clerk hire allowance of each Member of the House of Representatives and the 
 
 #### (b) Monthly pay limitation
 
-The aggregate of the payments of pay, for each monthly pay period, to employees, out of the clerk hire allowance of a Member or the Resident Commissioner, shall not be at a rategreater than the single per annum gross rate of clerk hire allowance of that Member or the Resident Commissioner, divided by twelve and adjusted to the nearest lower whole dollar figure, not counting any remaining portion of a dollar.
+The aggregate of the payments of pay, for each monthly pay period, to employees, out of the clerk hire allowance of a Member or the Resident Commissioner, shall not be at a rate greater than the single per annum gross rate of clerk hire allowance of that Member or the Resident Commissioner, divided by twelve and adjusted to the nearest lower whole dollar figure, not counting any remaining portion of a dollar.
 
 #### (c) Yearly pay limitation
 
@@ -28,7 +28,7 @@ Each Member and the Resident Commissioner may, by written notice to the Clerk of
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Transfer of Functions
 
@@ -37,4 +37,6 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 #### Cross References
 
 Adjustment of allowances by Committee on House Administration, see section 57 of this title.
+
+Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance into Members’ Representational Allowance, see section 57b of this title.
 

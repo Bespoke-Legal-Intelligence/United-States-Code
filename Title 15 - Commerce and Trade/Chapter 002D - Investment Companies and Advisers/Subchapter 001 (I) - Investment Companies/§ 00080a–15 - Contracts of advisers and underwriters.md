@@ -6,7 +6,7 @@ It shall be unlawful for any person to serve or act as investment adviser of a r
 
 &emsp;(1) precisely describes all compensation to be paid thereunder;
 
-&emsp;(2) shall continue in effect for a period more than two years from the date of its execution,only so long as such continuance is specifically approved at least annually by the board of directors or by vote of a majority of the outstanding voting securities of such company;
+&emsp;(2) shall continue in effect for a period more than two years from the date of its execution, only so long as such continuance is specifically approved at least annually by the board of directors or by vote of a majority of the outstanding voting securities of such company;
 
 &emsp;(3) provides, in substance, that it may be terminated at any time, without the payment of any penalty, by the board of directors of such registered company or by vote of a majority of the outstanding voting securities of such company on not more than sixty days’ written notice to the investment adviser; and
 
@@ -26,7 +26,7 @@ In addition to the requirements of subsections (a) and (b) of this section, it s
 
 #### (d) Equivalent of vote of majority of outstanding voting securities in case of common-law trust
 
-In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
+In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) ofsection 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
 
 #### (e) Exemption of advisory boards or members from provisions of this section
 
@@ -42,7 +42,7 @@ Nothing contained in this section shall be deemed to require or contemplate any 
 
 (2)(A) For the purpose of paragraph (1)(A) of this subsection, interested persons of a corporate trustee shall be determined in accordance with section 80a–2(a)(19)(B) of this title: <i>Provided</i>, That no person shall be deemed to be an interested person of a corporate trustee solely by reason of (i) his being a member of its board of directors or advisory board or (ii) his membership in the immediate family of any person specified in clause (i) of this subparagraph.
 
-(B) For the purpose of paragraph (1)(B) of this subsection, an unfair burden on a registered investment company includes any arrangement, during the two-year period after the date on which any such transaction occurs, whereby the investment adviser or corporate trustee or predecessor or successor investment advisers or corporate trustee or any interested person of any such adviser or any such corporate trustee receives or is entitled to receive any compensation directly or indirectly (i) from any person in connection with the purchase or sale of securitiesor other property to, from, or on behalf of such company, other than bona fide ordinary compensation as principal underwriter for such company, or (ii) from such company or its security holders for other than bona fide investment advisory or other services.
+(B) For the purpose of paragraph (1)(B) of this subsection, an unfair burden on a registered investment company includes any arrangement, during the two-year period after the date on which any such transaction occurs, whereby the investment adviser or corporate trustee or predecessor or successor investment advisers or corporate trustee or any interested person of any such adviser or any such corporate trustee receives or is entitled to receive any compensation directly or indirectly (i) from any person in connection with the purchase or sale of securities or other property to, from, or on behalf of such company, other than bona fide ordinary compensation as principal underwriter for such company, or (ii) from such company or its security holders for other than bona fide investment advisory or other services.
 
 (3) If—
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 94–29, §28(4), substituted “section 80a–16(c) of thi
 
 Subsec. (f). Pub. L. 94–29, §28(1), added subsec. (f).
 
-1970—Subsec. (a). Pub. L. 91–547, §8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior to March 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
+1970—Subsec. (a). Pub. L. 91–547, §8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior toMarch 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
 
 Subsec. (b). Pub. L. 91–547, §8(b), struck out introductory phrase “After one year from the effective date of this subchapter,” and concluding phrase “, unless in effect prior to March 15, 1940” after “which contract” before item (1), struck out “by such underwriter” after “assignment” in item (2), and substituted “It” for “it”.
 

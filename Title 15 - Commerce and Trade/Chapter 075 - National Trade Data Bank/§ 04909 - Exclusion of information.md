@@ -6,5 +6,5 @@ The Data Bank shall not include any information—
 
 &emsp;(2) that is specifically authorized under criteria established by statute or an Executive order not to be disclosed in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order.
 
-(Pub. L. 100 418, title V, §5409, Aug. 23, 1988, 102 Stat. 1467.)
+(Pub. L. 100–418, title V, §5409, Aug. 23, 1988, 102 Stat. 1467.)
 

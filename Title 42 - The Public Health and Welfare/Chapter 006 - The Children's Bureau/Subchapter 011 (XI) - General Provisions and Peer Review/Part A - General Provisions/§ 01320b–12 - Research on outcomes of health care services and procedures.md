@@ -60,7 +60,7 @@
 
 #### (3) Relationship with medicare program
 
-&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Health Care Financing Administration.
+&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) of this title for the agenda under such section, the Secretary shall assure thatsuch priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Health Care Financing Administration.
 
 #### (c) Methodologies and criteria for evaluations
 

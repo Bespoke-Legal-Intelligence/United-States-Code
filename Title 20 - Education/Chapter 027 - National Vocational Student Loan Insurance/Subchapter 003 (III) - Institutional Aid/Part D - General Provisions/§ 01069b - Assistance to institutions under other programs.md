@@ -14,17 +14,17 @@ Each institution which the Secretary determines to be an institution eligible un
 
 The Secretary shall not waive, under subsection (b) of this section, the non-Federal share requirement for any program for applications which, if approved, would require the expenditure of more than 10 percent of the appropriations for the program for any fiscal year.
 
-(Pub. L. 89 329, title III, §356, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 102 325, title III, §305(d), July 23, 1992, 106 Stat. 478.)
+(Pub. L. 89–329, title III, §356, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 102–325, title III, §305(d), July 23, 1992, 106 Stat. 478.)
 
 #### Prior Provisions
 
-A prior section 1069b, Pub. L. 89 329, title III, §346, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended, prior to the general revision of this subchapter by Pub. L. 99 498. See section 1069c of this title.
+A prior section 1069b, Pub. L. 89–329, title III, §346, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended, prior to the general revision of this subchapter by Pub. L. 99–498. See section 1069c of this title.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102 325 substituted “may be eligible” for “shall be eligible”.
+1992—Subsec. (a). Pub. L. 102–325 substituted “may be eligible” for “shall be eligible”.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

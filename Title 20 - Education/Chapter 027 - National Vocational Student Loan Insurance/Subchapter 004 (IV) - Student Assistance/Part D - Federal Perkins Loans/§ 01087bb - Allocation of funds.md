@@ -20,7 +20,7 @@
 
 &emsp;(i) $5,000;
 
-&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) thenumber of students enrolled at the applicant institution in such fiscal year; or
+&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
 
 &emsp;(iii) 90 percent of the institution's allocation under this part for the preceding fiscal year.
 
@@ -96,7 +96,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;&emsp;(i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expectedfamily contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 
@@ -110,7 +110,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;(H) add the amounts determined under subparagraphs (E) and (G).
 
-(3) To determine the self-help need of an institution's eligible graduate and professional students, the Secretary, for academic year 1988 1989, shall use the procedures employed for academic year 1986 1987, and, for any subsequent academic years, the Secretary shall—
+(3) To determine the self-help need of an institution's eligible graduate and professional students, the Secretary, for academic year 1988–1989, shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years, the Secretary shall—
 
 &emsp;(A) establish various income categories for graduate and professional students;
 
@@ -164,7 +164,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;(A) the total principal amount of defaulted loans; by
 
-&emsp;(B) the total principal amount of loans made under this part, less the principal amount of all loans made to borrowers who are eligiblefor deferment under section 1087dd(c)(2)(A)(i) of this title or are in a grace period preceding repayment.
+&emsp;(B) the total principal amount of loans made under this part, less the principal amount of all loans made to borrowers who are eligible for deferment under section 1087dd(c)(2)(A)(i) of this title or are in a grace period preceding repayment.
 
 (2) For the purpose of paragraph (1)(A), the total principal amount of defaulted loans is equal to the total amount borrowed under loans that have reached repayment status and that are in default, minus—
 
@@ -230,55 +230,55 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 &emsp;If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
-(Pub. L. 89 329, title IV, §462, as added Pub. L. 99 498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100 50, §13(a) (d), June 3, 1987, 101 Stat. 348; Pub. L. 102 325, title IV, §462, July 23,1992, 106 Stat. 576; Pub. L. 103 208, §2(f)(1) (4), Dec. 20, 1993, 107 Stat. 2470, 2471.)
+(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471.)
 
 #### Prior Provisions
 
-A prior section 1087bb, Pub. L. 89 329, title IV, §462, as added Pub. L. 92 318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96 374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (a)(1), (2)(D). Pub. L. 103 208, §2(f)(1), substituted “if the institution has” for “if the institution which has” in closing provisions.
+1993—Subsec. (a)(1), (2)(D). Pub. L. 103–208, §2(f)(1), substituted “if the institution has” for “if the institution which has” in closing provisions.
 
-Subsec. (d)(4)(C). Pub. L. 103 208, §2(f)(2), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
+Subsec. (d)(4)(C). Pub. L. 103–208, §2(f)(2), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
 
-Subsecs. (e)(2), (h)(4)(B). Pub. L. 103 208, §2(f)(3), (4), realigned margins.
+Subsecs. (e)(2), (h)(4)(B). Pub. L. 103–208, §2(f)(3), (4), realigned margins.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102 325, §462(a), substituted “allocated to such institution” for “such institution received”.
+1992—Subsec. (a)(1)(A). Pub. L. 102–325, §462(a), substituted “allocated to such institution” for “such institution received”.
 
-Subsec. (e). Pub. L. 102 325, §462(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Pub. L. 102–325, §462(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f). Pub. L. 102 325, §462(c), substituted “default reduction and default penalties” for “Default penalty” in heading and amended text generally. Prior to amendment, text read as follows: “For any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.”
+Subsec. (f). Pub. L. 102–325, §462(c), substituted “default reduction and default penalties” for “Default penalty” in heading and amended text generally. Prior to amendment, text read as follows: “For any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.”
 
-Subsec. (g). Pub. L. 102 325, §462(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
+Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
 “(1) For award years 1988, 1989, and 1990, the applicable maximum default rate is 20 percent.
 
 “(2) For award year 1991 and subsequent years, the applicable maximum default rate is 15 percent.”
 
-Subsec. (h). Pub. L. 102 325, §462(e), substituted “Definitions of default rate and cohort default rate” for “Definition of default rate” in heading, in par. (1) substituted “For any award year prior to award year 1994, for the purpose” for “For the purpose”, added par. (3), redesignated former par. (3) as (4), substituted “240” for “120” in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: “180 days (in the case of a loan repayable quarterly),”.
+Subsec. (h). Pub. L. 102–325, §462(e), substituted “Definitions of default rate and cohort default rate” for “Definition of default rate” in heading, in par. (1) substituted “For any award year prior to award year 1994, for the purpose” for “For the purpose”, added par. (3), redesignated former par. (3) as (4), substituted “240” for “120” in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: “180 days (in the case of a loan repayable quarterly),”.
 
-Subsec. (j). Pub. L. 102 325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
+Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
 
-1987—Subsec. (a)(1)(A). Pub. L. 100 50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
+1987—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
 
-Subsec. (d)(3), (4). Pub. L. 100 50, §13(b), redesignated par. (3), defining “average cost of attendance” and calculating average undergraduate and graduate and professional tuition and fees, standard living expenses, and allowance for books and supplies, as (4).
+Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining “average cost of attendance” and calculating average undergraduate and graduate and professional tuition and fees, standard living expenses, and allowance for books and supplies, as (4).
 
-Subsec. (e). Pub. L. 100 50, §13(c), struck out “; cash on hand” after “collections” in heading.
+Subsec. (e). Pub. L. 100–50, §13(c), struck out “; cash on hand” after “collections” in heading.
 
-Subsec. (f). Pub. L. 100 50, §13(d), substituted “subsection (g) of this section” for “paragraph (2)”.
+Subsec. (f). Pub. L. 100–50, §13(d), substituted “subsection (g) of this section” for “paragraph (2)”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
-Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section 405(b) of Pub. L. 99 498, as amended, set out as a note under section 1087dd of this title.
+Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section 405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
 
 #### Section Referred to in Other Sections
 

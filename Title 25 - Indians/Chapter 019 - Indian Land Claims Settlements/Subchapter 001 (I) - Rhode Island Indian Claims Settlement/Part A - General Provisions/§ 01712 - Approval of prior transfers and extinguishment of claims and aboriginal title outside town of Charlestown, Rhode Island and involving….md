@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section—
 
 &emsp;(2) to the extent that any transfer of land or natural resources described in paragraph (1) may involve land or natural resources to which such Indian, Indian nation, or tribe of Indians had aboriginal title, paragraph (1) shall be regarded as an extinguishment of such aboriginal title as of the date of said transfer; and
 
-&emsp;(3) by virtue of the approval of such transfers of land or natural resources effected by this subsection or an extinguishment of aboriginal title effected thereby, all claims against the United States, any State or subdivision thereof, or any other person or entity, by any such Indian, Indian nation, or tribe of Indians, arising subsequent to the transfer and based upon any interest in or rights involving such land or natural resources (including but not limited to claims for trespass damages or claims for use and occupancy), shall be regarded as extinguished as of the date of the transfer.
+&emsp;(3) by virtue of the approval of such transfers of land or natural resources effected by this subsection or an extinguishment of aboriginal title effected thereby, all claims against the United States, any State or subdivision thereof, or any other person or entity, by any such Indian, Indian nation, or tribe of Indians, arising subsequent to the transfer and based upon any interest in or rights involving such land or natural resources (including but not limited to claims for trespass damages orclaims for use and occupancy), shall be regarded as extinguished as of the date of the transfer.
 
 #### (b) Exceptions
 

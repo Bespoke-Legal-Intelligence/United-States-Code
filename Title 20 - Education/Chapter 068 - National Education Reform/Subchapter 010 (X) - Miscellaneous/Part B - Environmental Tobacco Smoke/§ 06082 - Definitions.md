@@ -14,7 +14,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(i) administered by either the Secretary of Health and Human Services or the Secretary of Education (other than services provided and funded solely under titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\]); or
 
-&emsp;&emsp;&emsp;(ii) administered by the Secretary of Agriculture in the case of a clinic (as definedin 7 CFR 246.2) under section 17(b)(6) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(b)(6)), or
+&emsp;&emsp;&emsp;(ii) administered by the Secretary of Agriculture in the case of a clinic (as defined in 7 CFR 246.2) under section 17(b)(6) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(b)(6)), or
 
 &emsp;&emsp;(B) that are provided in indoor facilities that are constructed, operated, or maintained with such Federal funds, as determined by the appropriate Secretary in any enforcement action under this subchapter,
 
@@ -32,13 +32,13 @@ As used in this part:
 
 &emsp;The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 103 227, title X, §1042, Mar. 31, 1994, 108 Stat. 271.)
+(Pub. L. 103–227, title X, §1042, Mar. 31, 1994, 108 Stat. 271.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89 642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This subchapter, referred to in par. (2)(B), was in the original “this title”, meaning title X of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 265, which enacted this subchapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, and enacted provisions set out as notes under section 2701 of this title and section 11901 of Title 42.
+This subchapter, referred to in par. (2)(B), was in the original “this title”, meaning title X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 265, which enacted this subchapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, and enacted provisions set out as notes under section 2701 of this title and section 11901 of Title 42.
 

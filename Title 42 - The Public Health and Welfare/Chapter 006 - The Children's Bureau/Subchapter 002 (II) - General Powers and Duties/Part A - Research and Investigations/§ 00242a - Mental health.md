@@ -30,7 +30,7 @@ The Secretary may provide for training, instruction, and traineeships under subs
 
 &emsp;(D) in a Federal or State correctional facility,
 
-> and shall begin within such period after the termination of the traineeship as the Secretary may determine. In developing criteria for determining for which institutions or entities or in which areas, referred to in the preceding sentence, individuals must perform service under paragraph (1), the Secretary shall give preference to institutions, entities, or areas which in his judgment have the greatest need for personnel to perform that service. The Secretary may permit service for or in other institutions,entities, or areas if the Secretary determines that the request for such service is supported by good cause.
+> and shall begin within such period after the termination of the traineeship as the Secretary may determine. In developing criteria for determining for which institutions or entities or in which areas, referred to in the preceding sentence, individuals must perform service under paragraph (1), the Secretary shall give preference to institutions, entities, or areas which in his judgment have the greatest need for personnel to perform that service. The Secretary may permit service for or in other institutions, entities, or areas if the Secretary determines that the request for such service is supported by good cause.
 
 (3) Any individual who fails to perform the service required under this subsection within the period prescribed by the Secretary is obligated to repay to the United States an amount equal to three times the cost of the traineeship (including stipends and allowances) plus interest at the maximum legal rate at the time of payment of the traineeship, multiplied, in any case in which the service so required has been performed in part, by the percentage which the length of the service not so performed is of the length of the service so required to be performed.
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 93–348, §104(a)(2)(B), authorized Secretary to provide f
 
 1956—Subsec. (a). Act Aug. 2, 1956, substituted provisions of par. (1) relating to traineeships in accordance with section 289c(a) of this title and par. (2) relating to grants for research and improved operation of mental institutions for provisions relating to admission of study patients, including patients from St. Elizabeths Hospital, to the National Institute of Mental Health.
 
-Subsec. (b). Act Aug. 2, 1956, substituted provisions relating to recommendation of grants by Council andpayment by Surgeon General for provisions relating to mental health training.
+Subsec. (b). Act Aug. 2, 1956, substituted provisions relating to recommendation of grants by Council and payment by Surgeon General for provisions relating to mental health training.
 
 #### Effective Date of 1992 Amendment
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Effective Date of 1990 Amendment
 
-Section 501 of Pub. L. 101–597 provided that: “This Act and the amendments made by this Act \[enacting sections 254f–1, 254<i>o</i>–1, and 254r of this title, amending sections 242a, 254d to 254i, 254k, 254<i>l</i> to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395<i>l</i>, 1395u, 1395x, 3505d, and 9840 of this title and section 2123 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 201, 254<i>l</i>–1, and 254<i>o</i> of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
+Section 501 of Pub. L. 101–597 provided that: “This Act and the amendments made by this Act \[enacting sections 254f–1, 254<i>o</i>–1, and 254r of this title, amending this section, sections 254d to 254i, 254k, 254<i>l</i> to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395<i>l</i>, 1395u, 1395x, 3505d, and 9840 of this title, and section 2123 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 201, 254<i>l</i>–1, and 254<i>o</i> of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
 
 #### Effective Date of 1980 Amendment
 

@@ -10,9 +10,9 @@ No project or any modification not authorized, of a project for flood control or
 
 Section comprises last two paragraphs of section 202 of act Sept. 3, 1954. First paragraph of section 202 is set out as a note under section 701–1 of this title.
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior acts:
+Provisions similar to those in this section were contained in the following prior acts:
 
 May 17, 1950, ch. 188, title II, §202, 64 Stat. 170.
 

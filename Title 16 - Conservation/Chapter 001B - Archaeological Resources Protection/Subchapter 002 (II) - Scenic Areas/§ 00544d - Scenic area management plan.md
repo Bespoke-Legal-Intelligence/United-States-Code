@@ -2,7 +2,7 @@
 
 #### (a) Studies
 
-Within one year after the date the Commission is established, it shall, in cooperation withthe Secretary, complete the following studies for use in preparing the management plan:
+Within one year after the date the Commission is established, it shall, in cooperation with the Secretary, complete the following studies for use in preparing the management plan:
 
 #### (1) Resource inventory
 

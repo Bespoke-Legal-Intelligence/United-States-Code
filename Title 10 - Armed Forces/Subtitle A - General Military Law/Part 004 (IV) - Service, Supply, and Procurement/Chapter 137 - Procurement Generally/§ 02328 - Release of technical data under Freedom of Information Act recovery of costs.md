@@ -24,7 +24,7 @@ Waiver.—The Secretary of Defense shall waive the payment of costs required by 
 
 &emsp;(3) the Secretary determines, in accordance with section 552(a)(4)(A)(iii) of title 5, that such a waiver is in the interests of the United States.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278.)
+(Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub.L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278.)
 
 #### Codification
 

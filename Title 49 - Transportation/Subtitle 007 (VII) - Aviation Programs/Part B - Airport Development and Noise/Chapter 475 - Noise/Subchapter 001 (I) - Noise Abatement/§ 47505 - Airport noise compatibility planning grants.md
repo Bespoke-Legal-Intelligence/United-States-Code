@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may make a grant to a sponsor of an airport to develop, for planning purposes, information necessary to prepare and submit—
+General Authority.—The Secretary of Transportation may make a grant to a sponsorof an airport to develop, for planning purposes, information necessary to prepare and submit—
 
 &emsp;(1) a noise exposure map and related information under section 47503 of this title, including the cost of obtaining the information; or
 

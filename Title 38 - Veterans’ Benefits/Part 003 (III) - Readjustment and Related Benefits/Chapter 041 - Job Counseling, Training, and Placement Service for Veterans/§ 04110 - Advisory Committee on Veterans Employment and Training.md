@@ -1,6 +1,6 @@
 ### §4110. Advisory Committee on Veterans Employment and Training
 
-(a)(1) There is hereby established within the Department of Labor an advisory committee tobe known as the Advisory Committee on Veterans Employment and Training.
+(a)(1) There is hereby established within the Department of Labor an advisory committee to be known as the Advisory Committee on Veterans Employment and Training.
 
 (2) The advisory committee shall—
 

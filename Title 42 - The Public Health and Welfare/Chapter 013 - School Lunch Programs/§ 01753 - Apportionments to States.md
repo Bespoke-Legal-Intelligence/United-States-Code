@@ -10,7 +10,7 @@
 
 (2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjusted pursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
 
-(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Sept. 25, 1962,Pub. L. 87–688, §3(a), 76 Stat. 587; Oct. 15, 1962, Pub. L. 87–823, §2, 76 Stat. 944; Sept. 26, 1972, Pub. L. 92–433, §4(c), 86 Stat. 726; Nov. 7, 1973, Pub. L. 93–150, §2(a), 87 Stat. 560; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§801(a), 819(g), 95 Stat. 521, 533; Nov. 10, 1989, Pub. L. 101–147, title III, §§301, 312(2), 103 Stat. 913, 916.)
+(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Sept. 25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; Oct. 15, 1962, Pub. L. 87–823, §2, 76 Stat. 944; Sept. 26, 1972, Pub. L. 92–433, §4(c), 86 Stat. 726; Nov. 7, 1973, Pub. L. 93–150, §2(a), 87 Stat. 560; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§801(a), 819(g), 95 Stat. 521, 533; Nov. 10, 1989, Pub. L. 101–147, title III, §§301, 312(2), 103 Stat. 913, 916.)
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Section 820(a) of title VIII of Pub. L. 97–35 provided that: “The provisions
 
 &emsp;“(C) that portion of the amendment made by section 810(d)(1) \[amending section 1766 of this title\] pertaining to the limitation on the number of meals for which reimbursement may be made under the child care food program;
 
-&emsp;“(D) that portion of the amendment made by section 810(d)(3) \[amending section 1766 of this title\] which reduces the meal reimbursement factor by 10 percent; and
+&emsp;“(D) that portion of the amendment made by section 810(d)(3) \[amending section 1766 of this title\]which reduces the meal reimbursement factor by 10 percent; and
 
 &emsp;“(E) section 811 \[amending section 1758 of this title\].
 

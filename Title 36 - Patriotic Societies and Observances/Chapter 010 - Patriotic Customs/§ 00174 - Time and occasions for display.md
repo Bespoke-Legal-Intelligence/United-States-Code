@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 94–344, §1(5), struck out “, weather permitting,” a
 
 #### Valley Forge State Park, Pennsylvania; Display of Flag
 
-Pub. L. 94–53, July 4, 1975, 89 Stat. 259, provided: “That, notwithstanding the rule or custom pertaining to the display of the flag of the United States of America between sunrise and sunset, as set forth in section 2(a) of the joint resolution, entitled, “Joint resolution to codify and emphasize existing rules and customs pertaining to the display and use of the flag of the United States of America”, approved June 22, 1942 (36 U.S.C. 174(a)), the flag of the United States of America may be flown for twenty-four hours of each day on the grounds of the National Memorial Arch in Valley Forge State Park, Valley Forge, Pennsylvania. The flag may not beflown pursuant to the authority contained in this Act during the hours from sunset to sunrise unless it is illuminated.”
+Pub. L. 94–53, July 4, 1975, 89 Stat. 259, provided: “That, notwithstanding the rule or custom pertaining to the display of the flag of the United States of America between sunrise and sunset, as set forth in section 2(a) of the joint resolution, entitled, “Joint resolution to codify and emphasize existing rules and customs pertaining to the display and use of the flag of the United States of America”, approved June 22, 1942 (36 U.S.C. 174(a)), the flag of the United States of America may be flown for twenty-four hours of each day on the grounds of the National Memorial Arch in Valley Forge State Park, Valley Forge, Pennsylvania. The flag may not be flown pursuant to the authority contained in this Act during the hours from sunset to sunrise unless it is illuminated.”
 
 #### Lexington, Massachusetts; Display of Flag
 
@@ -92,7 +92,7 @@ Many people, however, enter our country at night when the flag is not flown, bec
 
 Authority exists to amend that custom. A Congressional joint resolution of June 22, 1942 (56 Stat. 377), as amended (36 U.S.C. 173–178), permits the flag to be displayed at night “upon special occasions when it is desired to produce a patriotic effect.”
 
-I believe it is appropriate that returning citizens and visitors from other countries be welcomed by our flag whether they arrive at their ports of entry by night or by day.
+I believe it is appropriate that returning citizens and visitors from other countries be welcomed by our flagwhether they arrive at their ports of entry by night or by day.
 
 NOW, THEREFORE, I, RICHARD NIXON, President of the United States of America, do hereby proclaim that the flag of the United States of America shall hereafter be displayed at all times during the day and night, except when the weather is inclement, at United States Customs ports of entry which are continually open.
 

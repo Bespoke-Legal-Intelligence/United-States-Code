@@ -64,7 +64,7 @@
 
 #### (1) Grants
 
-&emsp;The Commissioner shall make grants to public or nonprofit agencies and organizations to carry out demonstration programs designed to demonstrate the utility of early intervention in furnishing vocational evaluation, training, and counseling services to working adults recently determined to have chronic and progressive diseases that may be severely disabling, such as multiple sclerosis.
+&emsp;The Commissioner shall make grants to public or nonprofit agencies and organizations to carry out demonstration programs designed to demonstrate the utility of early interventionin furnishing vocational evaluation, training, and counseling services to working adults recently determined to have chronic and progressive diseases that may be severely disabling, such as multiple sclerosis.
 
 #### (2) Grant activities
 
@@ -304,7 +304,7 @@ The Commissioner may award grants to public or nonprofit agencies and organizati
 
 #### (B) Travel expenses
 
-&emsp;&emsp;Each member of the National Commission may receive travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for employees serving intermittently in the Government service, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
+&emsp;&emsp;Each member of the National Commission may receive travel expenses, including per diem in lieu of subsistence, as authorized bysection 5703 of title 5, for employees serving intermittently in the Government service, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 
 #### (5) Staff
 
@@ -370,7 +370,7 @@ The Commissioner may award grants to public or nonprofit agencies and organizati
 
 #### (4) “Workers with disabilities” defined
 
-&emsp;For the purposes of this subsection, the term “workers with disabilities” shall mean individuals with disabilities who are working in competitive employment and who need new or upgraded skills to improve their employment and career advancement opportunities.
+&emsp;For the purposes of this subsection, the term “workers with disabilities” shall mean individuals with disabilities who are working in competitive employment and who need new orupgraded skills to improve their employment and career advancement opportunities.
 
 #### (k) Model systems regarding severe disabilities
 
@@ -386,7 +386,7 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

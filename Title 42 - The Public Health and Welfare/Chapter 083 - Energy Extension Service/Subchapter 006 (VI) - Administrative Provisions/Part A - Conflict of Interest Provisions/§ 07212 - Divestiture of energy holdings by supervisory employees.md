@@ -30,7 +30,7 @@ Any supervisory employee who continues to receive income from any energy concern
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–160, §3161(b), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+1993—Subsec. (c). Pub. L. 103–160, §3161(b), designated existing provisions as par. (1), redesignated formerpars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
 Subsec. (d). Pub. L. 103–160, §3161(c)(1)(C), substituted “ownership to the extent known” for “ownership pursuant to section 7213 of this title”.
 

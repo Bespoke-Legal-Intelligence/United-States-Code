@@ -2,9 +2,9 @@
 
 The Congress finds that—
 
-&emsp;(1) The National Commission on Fire Prevention and Control, established pursuant to Public Law 90 259, has made an exhaustive and comprehensive examination of the Nation's fire problem, has made detailed findings as to the extent of this problem in terms of human suffering and loss of life and property, and has made ninety thoughtful recommendations.
+&emsp;(1) The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, has made an exhaustive and comprehensive examination of the Nation's fire problem, has made detailed findings as to the extent of this problem in terms of human suffering and loss of life and property, and has made ninety thoughtful recommendations.
 
-&emsp;(2) The United States today has the highest per capita rate of death and property loss fromfire of all the major industrialized nations in the world.
+&emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
 &emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
@@ -24,27 +24,27 @@ The Congress finds that—
 
 &emsp;(11) The unacceptably high rates of death, injury, and property loss from fire can be reduced if the Federal Government establishes a coordinated program to support and reinforce the fire prevention and control activities of State and local governments.
 
-(Pub. L. 93 498, §2, Oct. 29, 1974, 88 Stat. 1535.)
+(Pub. L. 93–498, §2, Oct. 29, 1974, 88 Stat. 1535.)
 
 #### References in Text
 
-The National Commission on Fire Prevention and Control, established pursuant to Public Law 90 259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90 259, title II, §§201 207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90 259.
+The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103 254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the ‘Arson Prevention Act of 1994’.”
+Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act \[enacting sections 2221 and 2228 of thistitle, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the ‘Arson Prevention Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101 391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 93 498 provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
+Section 1 of Pub. L. 93–498 provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
 
 #### Arson Prevention and Control; Congressional Findings
 
-Pub. L. 103 254, §2, May 19, 1994, 108 Stat. 679, provided that: “Congress finds that—
+Pub. L. 103–254, §2, May 19, 1994, 108 Stat. 679, provided that: “Congress finds that—
 
 &emsp;“(1) arson is a serious and costly problem, and is responsible for approximately 25 percent of all fires in the United States;
 
@@ -64,7 +64,7 @@ Pub. L. 103 254, §2, May 19, 1994, 108 Stat. 679, provided that: “Congress fi
 
 #### Congressional Findings and Purpose
 
-Pub. L. 101 391, §2, Sept. 25, 1990, 104 Stat. 747, provided that:
+Pub. L. 101–391, §2, Sept. 25, 1990, 104 Stat. 747, provided that:
 
 “(a)
 
@@ -78,7 +78,7 @@ Findings.—Congress finds that—
 
 &emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
 
-&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use ofresidential sprinkler systems and other means of fire prevention and control.
+&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
 
 “(b)
 
@@ -86,11 +86,11 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment not
 
 #### Waiver of Federal Liability
 
-Pub. L. 101 391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
 
 #### Effect on Certain Requirements
 
-Pub. L. 101 391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features.”
+Pub. L. 101–391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features.”
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1978</b>
 
@@ -114,11 +114,11 @@ There shall be within the Agency a Deputy Director, who shall be appointed by th
 
 #### Sec. 104. Associate Directors
 
-There shall be within the Agency not more than four Associate Directors, who shall be appointed by the President, by and with the advice and consent of the Senate, two of whom shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\], one of whom shall be compensated at the rate now or hereafter prescribed by law for level V of the Executive Schedule \[5 U.S.C. 5316\] and one of whom shall be compensated at the rate now or hereafter prescribed by law for GS 18 of the General Schedule \[set out under 5 U.S.C. 5332\]. The Associate Directors shall perform such functions as the Director may from time to time prescribe.
+There shall be within the Agency not more than four Associate Directors, who shall be appointed by the President, by and with the advice and consent of the Senate, two of whom shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\], one of whom shall be compensated at the rate now or hereafter prescribed by law for level V of the Executive Schedule \[5 U.S.C. 5316\] and one of whom shall be compensated at the rate now or hereafter prescribed by law for GS–18 of the General Schedule \[set out under 5 U.S.C. 5332\]. The Associate Directors shall perform such functions as the Director may from time to time prescribe.
 
 #### Sec. 105. Regional Directors
 
-There shall be within the Agency ten regional directors who shall be appointed by the Director in the excepted service and shall be compensated at the rate now or hereafter prescribed by law for GS 16 of the General Schedule \[set out under 5 U.S.C. 5332\].
+There shall be within the Agency ten regional directors who shall be appointed by the Director in the excepted service and shall be compensated at the rate now or hereafter prescribed by law for GS–16 of the General Schedule \[set out under 5 U.S.C. 5332\].
 
 #### Sec. 106. Performance of Functions
 
@@ -180,7 +180,7 @@ I will also transfer all Presidential authorities and functions now delegated to
 
 Several additional transfers of emergency preparedness and mitigation functions would complete the consolidation. These include:
 
-&emsp;Oversight of the Earthquake Hazards Reduction Program, under Public Law 95 124 \[section 7701 et seq. of Title 42\], now carried out by the Office of Science and Technology Policy in the Executive Office of the President.
+&emsp;Oversight of the Earthquake Hazards Reduction Program, under Public Law 95–124 \[section 7701 et seq. of Title 42\], now carried out by the Office of Science and Technology Policy in the Executive Office of the President.
 
 &emsp;Coordination of Federal activities to promote dam safety, carried by the same Office.
 
@@ -226,19 +226,19 @@ Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
-1 101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
+1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 
-1 102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functions transferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
+1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functions transferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
 
-1 103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95 422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95 422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
+1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
 
 (b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
 
-1 104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94 13 at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
+1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
 
-1 105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
+1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
 
-1 106. This Order shall be effective Sunday, April 1, 1979.
+1–106. This Order shall be effective Sunday, April 1, 1979.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

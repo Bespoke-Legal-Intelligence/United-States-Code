@@ -1,4 +1,4 @@
-### §1483 . Prisoners of war and interned enemy aliens
+### §1483. Prisoners of war and interned enemy aliens
 
 The Secretary concerned may provide for the care and disposition of the remains of prisoners of war and interned enemy aliens who die while in his custody and, incident thereto, pay the necessary expenses of—
 

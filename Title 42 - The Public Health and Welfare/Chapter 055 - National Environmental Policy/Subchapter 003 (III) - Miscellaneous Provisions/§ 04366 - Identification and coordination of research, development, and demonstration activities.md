@@ -10,7 +10,7 @@ The Administrator of the Environmental Protection Agency, in consultation and co
 
 &emsp;(3) to determine the additional legislative actions which would be needed to assure such coordination to the maximum extent possible.
 
-> The Administrator shall include in each annual revision of the five-year plan provided for by section 4361 of this title a full and complete report on the actions taken and determinations made during the preceding year under this subsection, and may submit interim reports on such actions and determinations at such other times as he deems appropriate.
+> The Administrator shall include in each annual revision of the five-year plan provided for by section 4361 <sup>1</sup> of this title a full and complete report on the actions taken and determinations made during the preceding year under this subsection, and may submit interim reports on such actions and determinations at such other times as he deems appropriate.
 
 #### (b) Coordination of programs by Administrator
 
@@ -24,6 +24,10 @@ The Administrator of the Environmental Protection Agency shall coordinate enviro
 
 (Pub. L. 95–155, §9, Nov. 8, 1977, 91 Stat. 1261.)
 
+#### References in Text
+
+Section 4361 of this title, referred to in subsec. (a), was repealed by Pub. L. 104–66, title II, §2021(k)(1), Dec. 21, 1995, 109 Stat. 728.
+
 #### Codification
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
@@ -31,4 +35,6 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 #### Coordination of Environmental Research, Development, and Demonstration Efforts; Study and Report
 
 Pub. L. 95–477, §3(c), Oct. 18, 1978, 92 Stat. 1509, authorized to be appropriated to the Environmental Protection Agency for the fiscal year 1979, $1,000,000, and for the fiscal year 1980, $1,000,000, for a study and report, under a contract let by the Administrator, to be conducted outside the Federal Government, on coordination of the Federal Government's efforts in environmental research, development, and demonstration, and the application of the results of such efforts to environmental problems, with the report on the study submitted to the President, the Administrator, and the Congress within two years after Oct. 18, 1978, accompanied by recommendations for action by the President, the Administrator, other agencies, or the Congress, as may be appropriate.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

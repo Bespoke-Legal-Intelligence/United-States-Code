@@ -32,7 +32,7 @@ The issuance of any notice of proposed suspension or revocation of a license for
 
 #### (d) Judicial review
 
-Any determination of the Administrator, after any appropriate administrative review under subsection (b) of this section, to certify or deny certification of an application for the issuanceor transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration or permit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c) of this section, is subject to judicial review as provided in chapter 7 of title 5.
+Any determination of the Administrator, after any appropriate administrative review under subsection (b) of this section, to certify or deny certification of an application for the issuance or transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration or permit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c) ofthis section, is subject to judicial review as provided in chapter 7 of title 5.
 
 (Pub. L. 96–283, title I, §106, June 28, 1980, 94 Stat. 565.)
 

@@ -18,7 +18,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 #### (3) “Coastal State” defined
 
-&emsp;As used in this subsection, the term “coastal State” means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;As used in this subsection, the term “coastal State” means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. Theterm also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; July 18, 1984, Pub. L. 98–369, div. A, title X, §1014(a)(1), 98 Stat. 1015; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Sept. 28, 1988, Pub. L. 100–448, §6(c)(1), 102 Stat. 1840.)
 

@@ -38,13 +38,13 @@ The Board shall collect, publish, and disseminate to the public, on a demonstrat
 
 The Board is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) of this section and to furnish financial assistance in support thereof.
 
-(Pub. L. 90 321, title I, §136, as added Pub. L. 96 221, title VI, §618(a), Mar. 31, 1980, 94 Stat. 183; amended Pub. L. 100 583, §5, Nov. 3, 1988, 102 Stat. 2967.)
+(Pub. L. 90–321, title I, §136, as added Pub. L. 96–221, title VI, §618(a), Mar. 31, 1980, 94 Stat. 183; amended Pub. L. 100–583, §5, Nov. 3, 1988, 102 Stat. 2967.)
 
 #### Amendments
 
-1988—Subsecs. (b), (c). Pub. L. 100 583 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
+1988—Subsecs. (b), (c). Pub. L. 100–583 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
 
 #### Effective Date
 
-Section effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+Section effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 

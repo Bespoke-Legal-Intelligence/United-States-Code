@@ -1,4 +1,4 @@
-### §397 . Establishment; boundaries
+### §397. Establishment; boundaries
 
 When title to such lands located on the island of Hawaii, within the following-described area, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary and suitable for the purpose, shall have been vested in the United States, said lands shall be set apart as the Puuhonua o Honaunau National Historical Park, in the Territory of Hawaii, for the benefit and inspiration of the people:
 
@@ -72,7 +72,7 @@ Beginning at the east end of this right-of-way on the common boundary of the lan
 
 1\. Eighty degrees thirty-six minutes five seconds one hundred and seventeen feet along L. C. Aw. 7712:1 to M. Kekuanaoa, to the Triangulation Station “Ahupuaa” of the B. P. Bishop estate;
 
-2\. Eighty-two degrees twenty minutes seven thousand two hundred eighty-nine and one-tenth feet along same to a one and one-fourth-inch pipe in concrete monument on the east boundary of parcel 1 the coordinates of said point of the end of this six-foot right-of-way referred to Government Triangulation Station “Lae-O-Kanoni” being four thousand one hundred eighty-two and four-tenths feet south and three thousand seven hundred thirty-nine and four-tenths feet east.
+2\. Eighty-two degrees twenty minutes seven thousand two hundred eighty-nine and one-tenthfeet along same to a one and one-fourth-inch pipe in concrete monument on the east boundary of parcel 1 the coordinates of said point of the end of this six-foot right-of-way referred to Government Triangulation Station “Lae-O-Kanoni” being four thousand one hundred eighty-two and four-tenths feet south and three thousand seven hundred thirty-nine and four-tenths feet east.
 
 Area, one and two one-hundredths acres.
 

@@ -1,4 +1,4 @@
-### §460u–17 . Lands within area I–E used for solid waste disposal
+### §460u–17. Lands within area I–E used for solid waste disposal
 
 #### (a) Commitment to reclaim land at no expense to Federal Government
 

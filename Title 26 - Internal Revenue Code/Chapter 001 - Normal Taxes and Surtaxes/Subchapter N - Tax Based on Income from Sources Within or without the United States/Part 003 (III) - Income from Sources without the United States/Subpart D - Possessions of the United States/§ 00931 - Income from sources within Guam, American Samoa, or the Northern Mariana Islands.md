@@ -176,7 +176,7 @@ Amendment by section 1901(a)(117) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enactingprovisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972.”
+Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972.”
 
 #### Effective Date of 1971 Amendment
 
@@ -246,7 +246,7 @@ Mirror system.—For purposes of this section, the mirror system of taxation con
 
 &emsp;“(3)
 
-Special rule for northern mariana islands.—Notwithstanding the provisions of the last clause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
+Special rule for northern mariana islands.—Notwithstanding the provisions of the lastclause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
 
 #### Cross References
 

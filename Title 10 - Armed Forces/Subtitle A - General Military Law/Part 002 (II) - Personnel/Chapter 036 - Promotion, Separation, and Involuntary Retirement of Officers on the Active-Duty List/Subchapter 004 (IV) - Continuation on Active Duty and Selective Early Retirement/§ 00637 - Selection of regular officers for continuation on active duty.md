@@ -1,4 +1,4 @@
-### §637 . Selection of regular officers for continuation on active duty
+### §637. Selection of regular officers for continuation on active duty
 
 (a)(1) An officer subject to discharge or retirement in accordance with section 632 of this title may, subject to the needs of the service, be continued on active duty if he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.
 
@@ -64,5 +64,5 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 611, 632, 633, 634, 635, 636, 638a, of this title.
+This section is referred to in sections 611, 632, 633, 634, 635, 636, 638a of this title.
 

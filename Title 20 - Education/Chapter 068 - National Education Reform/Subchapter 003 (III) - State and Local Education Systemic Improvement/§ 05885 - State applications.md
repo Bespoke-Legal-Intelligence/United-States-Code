@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each State educational agency that desires to receive an allotment under this subchapter shall submit an application to the Secretary at such time and in such manner as the Secretary may determine.
+&emsp;Each State educational agency that desires to receive an allotment under this subchaptershall submit an application to the Secretary at such time and in such manner as the Secretary may determine.
 
 #### (2) Additional information
 
@@ -38,7 +38,7 @@ A State educational agency's application for the second year of assistance under
 
 &emsp;(3) include an explanation of how the State educational agency will use funds received under this subchapter, including how such agency will make subgrants to local educational agencies in accordance with section 5889(a) of this title, and how such agency will use such funds received under this subchapter for education preservice programs and professional development activities in accordance with section 5889(b) of this title.
 
-(Pub. L. 103 227, title III, §305, Mar. 31, 1994, 108 Stat. 159.)
+(Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159.)
 
 #### Section Referred to in Other Sections
 

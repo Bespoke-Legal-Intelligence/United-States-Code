@@ -3,8 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | \[7391 to 7394. Repealed.\] |  |
-| 7395\. | Naval Observatory: administration. |
-| 7396\. | Naval Observatory: exchange of information with foreign offices. |
+| [7395\.](%C2%A7%2007395%20-%20Naval%20Observatory%20administration.md) | Naval Observatory: administration. |
+| [7396\.](%C2%A7%2007396%20-%20Naval%20Observatory%20exchange%20of%20information%20with%20foreign%20offices.md) | Naval Observatory: exchange of information with foreign offices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

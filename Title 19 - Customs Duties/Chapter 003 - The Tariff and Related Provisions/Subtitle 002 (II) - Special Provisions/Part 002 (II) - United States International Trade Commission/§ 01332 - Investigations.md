@@ -56,7 +56,7 @@ Subsection (f) directed the Tariff Commission to ascertain the cost of crude pet
 
 Provisions similar to subsections (a), (b), and (g) of this section were contained in act Sept. 8, 1916, ch. 463, §§702 to 704, 39 Stat. 796. Those sections were superseded by section 332 of act June 17, 1930, comprising this section.
 
-Provisions similar to those of subdivision (c) of this section were contained in act Sept. 8, 1916, ch. 463, §708, 39 Stat. 798. That section was superseded by section 332 of act June 17, 1930, comprising this section.
+Provisions similar to those in subdivision (c) of this section were contained in act Sept. 8, 1916, ch. 463, §708, 39 Stat. 798. That section was superseded by section 332 of act June 17, 1930, comprising this section.
 
 Provisions similar to subdivisions (d) and (e) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. Section 318 of act 1922 was superseded by section 332 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 act.
 

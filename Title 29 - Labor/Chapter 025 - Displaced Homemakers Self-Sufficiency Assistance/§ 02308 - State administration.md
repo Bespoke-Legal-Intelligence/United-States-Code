@@ -28,7 +28,7 @@ Each State administrative entity for displaced homemaker services in a State rec
 
 #### References in Text
 
-The Carl Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2), probablymeans the Carl D. Perkins Vocational and Applied Technology Education Act, which is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, and which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2), probably means the Carl D. Perkins Vocational and Applied Technology Education Act, which is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, and which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 #### Section Referred to in Other Sections
 

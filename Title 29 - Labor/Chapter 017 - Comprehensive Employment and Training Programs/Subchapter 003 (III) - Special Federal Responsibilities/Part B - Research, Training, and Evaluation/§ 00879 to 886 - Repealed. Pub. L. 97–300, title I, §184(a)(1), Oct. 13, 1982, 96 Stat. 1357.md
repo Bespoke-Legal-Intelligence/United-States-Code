@@ -34,7 +34,7 @@ A prior section 884, Pub. L. 93–203, title III, §314, Dec. 28, 1973, 87 Stat.
 
 Section 885, Pub. L. 93–203, title III, §317, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1973, related to voucher demonstration projects.
 
-A prior section 885, Pub. L. 93–203, title III, §315, Dec. 28, 1973, 87 Stat. 863, related to training and technical assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 885, Pub. L. 93–203, title III, §315, Dec. 28, 1973, 87 Stat. 863, related to training and technicalassistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 886, Pub. L. 93–203, title III, §318, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1974, related to employment and training activities to stimulate local private economic development.
 

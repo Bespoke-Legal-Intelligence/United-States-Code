@@ -6,5 +6,5 @@ Inspection shall not be provided under this chapter at any plant for the process
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1037 of this title.
+This section is referred to in section 1037 of this title.
 

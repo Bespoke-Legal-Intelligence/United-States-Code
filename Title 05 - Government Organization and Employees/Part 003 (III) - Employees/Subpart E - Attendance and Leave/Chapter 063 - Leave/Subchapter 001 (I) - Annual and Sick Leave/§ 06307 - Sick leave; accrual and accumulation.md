@@ -56,7 +56,7 @@ The date of the enactment of this subsection, referred to in subsec. (d)(4)(A), 
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–329, §629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1994</b>—Subsec. (c). Pub. L. 103–329, §629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 103–388 added subsec. (d) relating to use of sick leave for purposes relating to family member.
 

@@ -1,4 +1,4 @@
-### §4003 . Safeguard exceptions
+### §4003. Safeguard exceptions
 
 #### (a) New accounts
 
@@ -134,7 +134,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;(D) In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
 
-&emsp;&emsp;(E) In the case of a deposit to which subsection (b)(3) of this section applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph\(1)(A), the notice shall specify the time period for which the exception will apply.
+&emsp;&emsp;(E) In the case of a deposit to which subsection (b)(3) of this section applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
 
 #### (3) Subsequent determinations
 
@@ -158,7 +158,7 @@ Subsec. (f)(2)(D), (E). Pub. L. 102–242, §225(5), added subpars. (D) and (E).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

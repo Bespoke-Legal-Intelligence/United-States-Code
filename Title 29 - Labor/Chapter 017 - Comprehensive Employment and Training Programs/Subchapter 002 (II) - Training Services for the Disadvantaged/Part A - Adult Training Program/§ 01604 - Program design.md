@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) a review of the progress of each participant in meeting the objectives of the service strategy; and
 
-&emsp;&emsp;(D) each of the following services, which shall be provided either directly or througharrangement with other programs to a participant where the assessment and the service strategy indicate such services are appropriate:
+&emsp;&emsp;(D) each of the following services, which shall be provided either directly or through arrangement with other programs to a participant where the assessment and the service strategy indicate such services are appropriate:
 
 &emsp;&emsp;&emsp;(i) Basic skills training.
 
@@ -34,7 +34,7 @@
 
 #### (i) Service providers
 
-&emsp;&emsp;&emsp;Each service provider shall ensure that an eligible applicant who does not meet the enrollment requirements of its particular program or who cannot be served shall be referred to the service delivery area for further assessment, as necessary, and referral to appropriate programs in accordance with subparagraph (A) to meet the basic skills and training needs of the applicant.
+&emsp;&emsp;&emsp;Each service provider shall ensure that an eligible applicant who does not meet the enrollment requirements of its particular program or who cannot be served shall be referred to the service delivery area for further assessment, as necessary, and referral to appropriate programs in accordance with subparagraph (A) to meetthe basic skills and training needs of the applicant.
 
 #### (ii) Service delivery area
 
@@ -122,7 +122,7 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (A) Additional services
 
-&emsp;&emsp;Except as provided in subparagraph (B), work experience, job search assistance, jobsearch skills training, and job club activities provided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant.
+&emsp;&emsp;Except as provided in subparagraph (B), work experience, job search assistance, job search skills training, and job club activities provided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant.
 
 #### (B) Lack of appropriateness and availability
 
@@ -142,7 +142,7 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (5) Prohibition on private actions
 
-&emsp;Nothing in this section shall be construed to establish a right for a participant to bring an action to obtain services described in the assessment or service strategy developed under subsection (a)(1) of this section.
+&emsp;Nothing in this section shall be construed to establish a right for a participant to bring anaction to obtain services described in the assessment or service strategy developed under subsection (a)(1) of this section.
 
 #### (6) Volunteers
 
@@ -198,7 +198,7 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (i) Provisions not applicable
 
-&emsp;&emsp;&emsp;The provisions of section 1514 of this title, subsections (b)(7) and (j) of section 1516 of this title, section 1519 of this title, section 1603 of this title, and subsection\(a)(2) of this section shall not be applicable to programs conducted under this subsection.
+&emsp;&emsp;&emsp;The provisions of section 1514 of this title, subsections (b)(7) and (j) of section 1516 of this title, section 1519 of this title, section 1603 of this title, and subsection (a)(2) of this section shall not be applicable to programs conducted under this subsection.
 
 #### (ii) Governor
 

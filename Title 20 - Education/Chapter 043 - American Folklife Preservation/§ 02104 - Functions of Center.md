@@ -30,9 +30,9 @@ The Librarian is authorized to—
 
 The Librarian shall carry out his functions under this chapter through the Center.
 
-(Pub. L. 94 201, §5, Jan. 2, 1976, 89 Stat. 1131.)
+(Pub. L. 94–201, §5, Jan. 2, 1976, 89 Stat. 1131.)
 
 #### References in Text
 
-The National Foundation on the Arts and the Humanities Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89 209, Sept. 29, 1965, 79 Stat. 845, as amended, which is classified principally to subchapter I (§951 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The National Foundation on the Arts and the Humanities Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, as amended, which is classified principally to subchapter I (§951 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 

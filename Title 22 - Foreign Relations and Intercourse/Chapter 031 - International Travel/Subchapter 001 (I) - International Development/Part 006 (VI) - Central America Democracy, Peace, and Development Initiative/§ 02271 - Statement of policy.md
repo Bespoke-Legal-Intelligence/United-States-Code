@@ -34,7 +34,7 @@ The Congress finds that—
 
 #### (c) Additional Congressional findings
 
-The Congress finds, therefore, that the people of the United States are willing to sustain and expand a program of economic and military assistance in Central America if the recipient countries can demonstrate progress toward and a commitment to these goals.
+The Congress finds, therefore, that the people of the United States are willing to sustain andexpand a program of economic and military assistance in Central America if the recipient countries can demonstrate progress toward and a commitment to these goals.
 
 (Pub. L. 87–195, pt. I, §461, as added Pub. L. 99–83, title VII, §701, Aug. 8, 1985, 99 Stat. 234.)
 

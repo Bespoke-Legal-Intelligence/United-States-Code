@@ -1,4 +1,4 @@
-### §460aaa–4 . Fish and game
+### §460aaa–4. Fish and game
 
 #### (a) In general
 

@@ -142,7 +142,7 @@ Subject to the limitations contained in subsection (d) of this section, services
 
 #### (ii) Formal program of structured job training
 
-&emsp;&emsp;&emsp;On-the-job training authorized under this part shall include a formal program of structured job training that will provide participants with an orderly sequence ofinstruction in work maturity skills, general employment competencies, and occupationally specific skills.
+&emsp;&emsp;&emsp;On-the-job training authorized under this part shall include a formal program of structured job training that will provide participants with an orderly sequence of instruction in work maturity skills, general employment competencies, and occupationally specific skills.
 
 #### (iii) Participation requirement
 

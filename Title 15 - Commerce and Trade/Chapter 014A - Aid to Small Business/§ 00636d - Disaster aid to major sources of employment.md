@@ -16,7 +16,7 @@ Section 4418 of title 42, referred to in subsec. (b), was repealed by Pub. L. 93
 
 #### Codification
 
-Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act whichcomprises this chapter. Section was formerly classified to section 4456 of Title 42, The Public Health and Welfare.
+Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4456 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

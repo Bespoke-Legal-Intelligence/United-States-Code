@@ -40,7 +40,7 @@ In carrying out subsection (a) of this section, the Clerk is authorized—
 
 (1) There is established in the contingent fund of the House of Representatives an account which, subject to appropriation, and except as provided in paragraph (2), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Clerk shall deposit in the account any amounts received under subsection (c) of this section.
 
-(2) with <sup>1</sup> respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
+(2) with <sup>1</sup> respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments aremade for other employees of the House of Representatives.
 
 #### (e) Definitions
 
@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-&emsp;(2) the term “agency of the legislative branch” means the Office of the Architect ofthe Capitol, the Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+&emsp;(2) the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
 
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
@@ -70,7 +70,7 @@ Salaries and Expenses’, not more than $45,000 may be expended to carry out thi
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

@@ -38,7 +38,7 @@
 
 (d) Whenever any person, who is designated by law or regulation to accept service of process to which an agency is subject under this section, is effectively served with any such process or with interrogatories, such person shall respond thereto within thirty days (or within such longer period as may be prescribed by applicable State law) after the date effective service thereof is made, and shall, as soon as possible but not later than fifteen days after the date effective service is made, send written notice that such process has been so served (together with a copy thereof) to the affected employee at his or her duty station or last-known home address.
 
-(e) No employee whose duties include responding to interrogatories pursuant to requirements imposed by this section shall be subject to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by such employee in connection with the carrying out of any of such employee's duties which pertain directly or indirectly to the answering of any such interrogatory.
+(e) No employee whose duties include responding to interrogatories pursuant to requirementsimposed by this section shall be subject to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by such employee in connection with the carrying out of any of such employee's duties which pertain directly or indirectly to the answering of any such interrogatory.
 
 (f) Agencies affected by legal process under this section shall not be required to vary their normal pay and disbursement cycles in order to comply with any such legal process.
 
@@ -74,7 +74,7 @@
 
 #### References in Text
 
-The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment ofPub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
+The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of Pub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
 
 The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, App., War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, App., and Tables.
 

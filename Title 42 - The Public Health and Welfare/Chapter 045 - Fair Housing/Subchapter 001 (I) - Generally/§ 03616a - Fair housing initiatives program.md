@@ -12,7 +12,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (1) In general
 
-&emsp;The Secretary shall use funds made available under this subsection to conduct, through contracts with private nonprofit fair housing enforcement organizations, investigations of violations of the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], and such enforcement activities as appropriate to remedy such violations. The Secretary may enter into multiyear contracts and take such other action as is appropriate to enhance the effectiveness of such investigations and enforcement activities.
+&emsp;The Secretary shall use funds made available under this subsection to conduct, through contracts with private nonprofit fair housingenforcement organizations, investigations of violations of the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], and such enforcement activities as appropriate to remedy such violations. The Secretary may enter into multiyear contracts and take such other action as is appropriate to enhance the effectiveness of such investigations and enforcement activities.
 
 #### (2) Activities
 
@@ -66,7 +66,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 (1) Not less than 30 days before providing a grant or entering into any contract or cooperative agreement to carry out activities authorized by this section, the Secretary shall submit notification of such proposed grant, contract, or cooperative agreement (including a description of the geographical distribution of such contracts) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
 
-(2) The Secretary shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section.
+(2) Repealed. Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.
 
 #### (f) Regulations
 
@@ -146,7 +146,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 &emsp;(5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869.)
+(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
 
 #### References in Text
 
@@ -164,6 +164,8 @@ Section was formerly set out as a note under section 3616 of this title.
 
 #### Amendments
 
+1995—Subsec. (e)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section.”
+
 1992—Subsecs. (b) to (f). Pub. L. 102–550, §905(b)(1), (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
 
 Subsec. (g). Pub. L. 102–550, §905(b)(1), (3), redesignated subsec. (d) as (g) and, in first sentence, substituted “$21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—” and pars. (1) to (4) for “including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
@@ -180,7 +182,7 @@ Subsec. (e). Pub. L. 101–625, §953(b), substituted “1992” for “1989”.
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Congressional Findings
 
@@ -190,7 +192,7 @@ Section 905(a) of Pub. L. 102–550 provided that: “The Congress finds that—
 
 &emsp;“(2) in response to evidence of continuing housing discrimination, the Congress passed the Fair Housing Act Amendments of 1988 \[probably should be the Fair Housing Amendments Act of 1988, Pub. L. 100–430, see Short Title of 1988 Amendment note set out under section 3601 of this title\], to provide for more effective enforcement of fair housing rights through judicial and administrative avenues and to expand the number of protected classes covered under Federal fair housing laws;
 
-&emsp;“(3) in the Financial Institutions Reform, Recovery and Enforcement Act of 1989 \[Pub. L. 101–73, see Short Title of 1989 Amendment note set out under 12 U.S.C. 1811\], the Congress expanded the disclosure provisions under the Home Mortgage Disclosure Act \[probably should be the Home Mortgage Disclosure Act of 1975; 12 U.S.C. 2801 et seq.\] to provide increased information on the mortgage lending patterns of financial institutions;
+&emsp;“(3) in the Financial Institutions Reform, Recovery and Enforcement Act of 1989 \[Pub. L. 101–73, see Short Title of 1989 Amendment note set out under 12 U.S.C. 1811\], the Congress expanded the disclosure provisions under the Home Mortgage Disclosure Act \[probablyshould be the Home Mortgage Disclosure Act of 1975; 12 U.S.C. 2801 et seq.\] to provide increased information on the mortgage lending patterns of financial institutions;
 
 &emsp;“(4) in the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], the Congress provided a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities;
 

@@ -6,5 +6,5 @@ The Secretary shall consult with the Postmaster General of the United States Pos
 
 &emsp;(b) arrange for appropriate use of methane-fueled vehicles at the earliest practicable date.
 
-(Pub. L. 96 512, §8, Dec. 12, 1980, 94 Stat. 2832.)
+(Pub. L. 96–512, §8, Dec. 12, 1980, 94 Stat. 2832.)
 

@@ -30,7 +30,7 @@ The Administrator, in carrying out this subchapter, may make grants to, and ente
 
 #### (2) Other agencies
 
-&emsp;The Administrator, in carrying out this subchapter, may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, or of any foreign government, with or without reimbursement of such agencies.
+&emsp;The Administrator, in carrying out this subchapter, may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, or of any foreign government,with or without reimbursement of such agencies.
 
 #### (e) Consultants
 

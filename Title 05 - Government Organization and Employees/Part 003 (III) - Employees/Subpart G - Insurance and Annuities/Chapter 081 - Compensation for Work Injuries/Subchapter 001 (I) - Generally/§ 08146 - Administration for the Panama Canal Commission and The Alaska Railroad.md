@@ -46,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Pub. L. 96–70, §3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
+<b>1979</b>—Pub. L. 96–70, §3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
 
 Subsec. (a)(1). Pub. L. 96–70, §3302(e)(9)(B), substituted “Panama Canal Commission are concerned to the Commission” for “Canal Zone Government and of the Panama Canal Company are concerned to the Governor of the Canal Zone”.
 

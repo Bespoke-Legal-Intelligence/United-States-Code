@@ -82,7 +82,7 @@ The Secretary is authorized—
 
 &emsp;(i) the individual directly or indirectly controls a substantial ownership interest in the institution;
 
-&emsp;(ii) the individual, either alone or together with other individuals, represents, under a voting trust, power of attorney, proxy, or similar agreement, one or more persons who have, individually or in combination with the other persons represented or the individualrepresenting them, a substantial ownership interest in the institution; or
+&emsp;(ii) the individual, either alone or together with other individuals, represents, under a voting trust, power of attorney, proxy, or similar agreement, one or more persons who have, individually or in combination with the other persons represented or the individual representing them, a substantial ownership interest in the institution; or
 
 &emsp;(iii) the individual is a member of the board of directors, the chief executive officer, or other executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
 
@@ -140,7 +140,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;&emsp;(iii) the Secretary determines that an institution that seeks to renew its certification is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its financial responsibilities under a program participation agreement.
 
-(2) Whenever the Secretary withdraws the approval of any accrediting agency, an institution of higher education which meets the requirements of accreditation, eligibility, and certification on the day prior to such withdrawal, theSecretary may, notwithstanding the withdrawal, continue the eligibility of the institution of higher education to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 for a period not to exceed 18 months from the date of the withdrawal of approval.
+(2) Whenever the Secretary withdraws the approval of any accrediting agency, an institution of higher education which meets the requirements of accreditation, eligibility, and certification on the day prior to such withdrawal, the Secretary may, notwithstanding the withdrawal, continue the eligibility of the institution of higher education to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 for a period not to exceed 18 months from the date of the withdrawal of approval.
 
 (3) If, prior to the end of a period of provisional certification under this subsection, the Secretary determines that the institution is unable to meet its responsibilities under its program participation agreement, the Secretary may terminate the institution's participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -174,31 +174,31 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 (2) The Secretary may waive the requirement of section 1141(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
-(Pub. L. 89 329, title IV, §498, as added Pub. L. 102 325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103 208, §2(i)(9) (14), Dec. 20, 1993, 107 Stat. 2479, 2480.)
+(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480.)
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103 208, §2(i)(9)(A), inserted at end “Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
+1993—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
 
-Subsec. (c)(3). Pub. L. 103 208, §2(i)(9)(B), substituted “The Secretary shall determine” for “The Secretary may determine” in introductory provisions.
+Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted “The Secretary shall determine” for “The Secretary may determine” in introductory provisions.
 
-Subsec. (c)(3)(C). Pub. L. 103 208, §2(i)(9)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “such institution establishes to the satisfaction of the Secretary, with the support of a report of an independent certified public accountant prepared under generally accepted accounting principles, that the institution is a going concern capable of meeting all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary; or”.
+Subsec. (c)(3)(C). Pub. L. 103–208, §2(i)(9)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “such institution establishes to the satisfaction of the Secretary, with the support of a report of an independent certified public accountant prepared under generally accepted accounting principles, that the institution is a going concern capable of meeting all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary; or”.
 
-Subsec. (c)(4) to (6). Pub. L. 103 208, §2(i)(9)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (c)(4) to (6). Pub. L. 103–208, §2(i)(9)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsec. (f). Pub. L. 103 208, §2(i)(10), inserted after second sentence “The Secretary may establish priorities by which institutions are to receive site visits, and may coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.”
+Subsec. (f). Pub. L. 103–208, §2(i)(10), inserted after second sentence “The Secretary may establish priorities by which institutions are to receive site visits, and may coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.”
 
-Subsec. (h)(1)(B)(iii). Pub. L. 103 208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its responsibilities under its program participation agreement.”
+Subsec. (h)(1)(B)(iii). Pub. L. 103–208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its responsibilities under its program participation agreement.”
 
-Subsec. (i)(1). Pub. L. 103 208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 yearsprior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
 
-Subsec. (i)(3)(A). Pub. L. 103 208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
+Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
 
-Subsec. (j)(1). Pub. L. 103 208, §2(i)(14), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, a branch of an eligible institution, as defined pursuant to regulations of the Secretary, is a separate institution of higher education and shall separately meet all the requirementsof this subchapter and part C of subchapter I of chapter 34 of title 42, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+Subsec. (j)(1). Pub. L. 103–208, §2(i)(14), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, a branch of an eligible institution, as defined pursuant to regulations of the Secretary, is a separate institution of higher education and shall separately meet all the requirements of this subchapter and part C of subchapter I of chapter 34 of title 42, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### \[§3582 . Repealed. Pub. L. 96–513, title II, §211, Dec. 12, 1980, 94 Stat. 2885\]
+### \[§3582. Repealed. Pub. L. 96–513, title II, §211, Dec. 12, 1980, 94 Stat. 2885\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 206, provided that a retired officer has no right to command except when on active duty. See section 750 of this title.
 

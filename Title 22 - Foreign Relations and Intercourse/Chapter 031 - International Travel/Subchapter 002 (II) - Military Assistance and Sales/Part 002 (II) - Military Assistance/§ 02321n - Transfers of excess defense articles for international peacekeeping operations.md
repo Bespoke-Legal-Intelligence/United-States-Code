@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The President may transfer to international and regional organizations of which the United States is a member such excess defense articles as the President determines necessary to support international peacekeeping operations and other activities and operations to maintain and restore international peace and security. Such transfers shall be on such terms and conditions as the President may determine, consistent with this section.
+The President may transfer to international and regional organizations of which the United States is a member such excess defense articles as the President determines necessary to support international peacekeeping operations and other activities and operations to maintain and restore international peace and security. Suchtransfers shall be on such terms and conditions as the President may determine, consistent with this section.
 
 #### (b) Conditionality of authority
 
@@ -54,7 +54,7 @@ The President may transfer excess defense articles under this section only if—
 
 #### (2) Timing of notice
 
-&emsp;(A) The President shall notify the designated congressional committees pursuant toparagraph (1) at least 15 days before the excess defense articles are transferred under this section, except as provided in subparagraph (B).
+&emsp;(A) The President shall notify the designated congressional committees pursuant to paragraph (1) at least 15 days before the excess defense articles are transferred under this section, except as provided in subparagraph (B).
 
 &emsp;(B) If the President determines that an unforeseen emergency requires the immediate transfer of excess defense articles under this section, the President—
 
@@ -84,5 +84,5 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives and Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

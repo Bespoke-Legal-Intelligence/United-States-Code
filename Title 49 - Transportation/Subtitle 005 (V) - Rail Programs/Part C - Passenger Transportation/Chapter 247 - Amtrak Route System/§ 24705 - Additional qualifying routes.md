@@ -20,11 +20,7 @@ Short Haul Demonstration Routes.—Notwithstanding this part, Amtrak may provide
 
 &emsp;(2) to the extent available resources allow.
 
-(d)
-
-Routes Discontinued by Rail Carriers.—Amtrak may undertake to provide rail passenger transportation between places served by a rail carrier filing a notice of discontinuance under section 10908 or 10909 of this title.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 926.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 926; Pub. L. 104–88, title III, §308(i), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -79,6 +75,16 @@ In subsection (d), the text of 45:642 is omitted as surplus. The words “On and
 #### References in Text
 
 Section 4 of the Amtrak Improvement Act of 1978, referred to in subsecs. (a)(1) and (b), is section 4 of Pub. L. 95–421, which was set out as a note under section 521 of Title 45, Railroads, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+
+#### Amendments
+
+1995—Subsec. (d). Pub. L. 104–88 struck out subsec. (d) which read as follows: “
+
+Routes Discontinued by Rail Carriers.—Amtrak may undertake to provide rail passenger transportation between places served by a rail carrier filing a notice of discontinuance under section 10908 or 10909 of this title.”
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

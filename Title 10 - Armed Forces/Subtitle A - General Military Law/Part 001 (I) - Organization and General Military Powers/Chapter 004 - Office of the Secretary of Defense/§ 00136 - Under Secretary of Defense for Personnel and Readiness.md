@@ -1,4 +1,4 @@
-### §136 . Under Secretary of Defense for Personnel and Readiness
+### §136. Under Secretary of Defense for Personnel and Readiness
 
 (a) There is an Under Secretary of Defense for Personnel and Readiness, appointed from civilian life by the President, by and with the consent of the Senate.
 

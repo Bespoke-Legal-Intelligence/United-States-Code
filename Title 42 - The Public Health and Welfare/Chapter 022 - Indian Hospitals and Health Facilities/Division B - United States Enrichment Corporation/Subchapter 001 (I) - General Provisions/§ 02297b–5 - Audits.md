@@ -18,7 +18,7 @@
 
 #### (2) Reimbursement by Corporation
 
-&emsp;The Corporation shall reimburse the Comptroller General for the full cost of any audit conducted under this subsection, as determined by the Comptroller General.
+&emsp;The Corporation shall reimburse the Comptroller General for the full cost of any auditconducted under this subsection, as determined by the Comptroller General.
 
 #### (c) Availability of books and records
 

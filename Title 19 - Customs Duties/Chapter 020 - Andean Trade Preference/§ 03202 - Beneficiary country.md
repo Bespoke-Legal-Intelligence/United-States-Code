@@ -46,7 +46,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
-&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under internationallaw with respect to such citizen, corporation, partnership, or association, or
+&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
 
 &emsp;&emsp;&emsp;(iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
 
@@ -92,7 +92,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
 
-&emsp;(11) whether such country has met the narcotics cooperation certification criteria set forth in section 2291(h)(2)(A) <sup>1</sup> of title 22 for eligibility for United States assistance; and
+&emsp;(11) whether such country has met the narcotics cooperation certification criteria setforth in section 2291(h)(2)(A) <sup>1</sup> of title 22 for eligibility for United States assistance; and
 
 &emsp;(12) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 

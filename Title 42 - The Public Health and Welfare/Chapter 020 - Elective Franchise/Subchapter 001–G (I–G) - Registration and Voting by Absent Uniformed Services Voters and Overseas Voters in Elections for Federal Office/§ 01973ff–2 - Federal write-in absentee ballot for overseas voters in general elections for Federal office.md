@@ -18,7 +18,7 @@ Except as otherwise provided in this subchapter, a Federal write-in absentee bal
 
 The following rules shall apply with respect to Federal write-in absentee ballots:
 
-&emsp;(1) In completing the ballot, the overseas voter may designate a candidate by writing in the name of the candidate or by writing in thename of a political party (in which case the ballot shall be counted for the candidate of that political party).
+&emsp;(1) In completing the ballot, the overseas voter may designate a candidate by writing in the name of the candidate or by writing in the name of a political party (in which case the ballot shall be counted for the candidate of that political party).
 
 &emsp;(2) In the case of the offices of President and Vice President, a vote for a named candidate or a vote by writing in the name of a political party shall be counted as a vote for the electors supporting the candidate involved.
 

@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an amount equal to 80 percent of the total amount allocated to a State under section 7111<sup>1</sup> of this title for each fiscal year shall be used by the State educational agency and its local educational agencies for drug and violence prevention activities in accordance with this section.
+&emsp;Except as provided in paragraph (2), an amount equal to 80 percent of the total amount allocated to a State under section 7111 <sup>1</sup> of this title for each fiscal year shall beused by the State educational agency and its local educational agencies for drug and violence prevention activities in accordance with this section.
 
 #### (2) Exception
 
 &emsp;(A) If a State has, on or before January 1, 1994, established an independent State agency for the purpose of administering all of the funds described in section 5121 of this Act (as such section was in effect on the day preceding October 20, 1994), then—
 
-&emsp;&emsp;(i) an amount equal to 80 percent of the total amount allocated to such State under section 7111<sup>1</sup> of this title for each fiscal year shall be used by the State educational agency and its local educational agencies for drug and violence prevention activities in accordance with this section; and
+&emsp;&emsp;(i) an amount equal to 80 percent of the total amount allocated to such State under section 7111 <sup>1</sup> of this title for each fiscal year shall be used by the State educational agency and its local educational agencies for drug and violence prevention activities in accordance with this section; and
 
 &emsp;&emsp;(ii) an amount equal to 20 percent of such total amount shall be used by such independent State agency for drug and violence prevention activities in accordance with this section.
 
@@ -106,17 +106,17 @@ If a local educational agency chooses not to apply to receive the amount allocat
 
 &emsp;&emsp;(B) upon a demonstration of good cause by such agency or consortium, a greater amount approved by the State educational agency.
 
-(Pub. L. 89 10, title IV, §4113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3677.)
+(Pub. L. 89–10, title IV, §4113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3677.)
 
 #### References in Text
 
-Section 7111 of this title, referred to in subsec. (a)(1), (2)(A)(i), was in the original “section 4111”, meaning section 4111 of Pub. L. 89 10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
+Section 7111 of this title, referred to in subsec. (a)(1), (2)(A)(i), was in the original “section 4111”, meaning section 4111 of Pub. L. 89–10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
 
-Section 5121 of this Act (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (a)(2)(A), means section 5121 of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 254, as amended, which was classified to section 3191 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Section 5121 of this Act (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (a)(2)(A), means section 5121 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 254, as amended, which was classified to section 3191 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7112, 7115, 7117 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

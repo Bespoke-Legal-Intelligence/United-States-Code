@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1501, Pub. L. 86–380, §1, Sept. 24, 1959, 73 Stat. 703, which related to establishment of the Advisory Commission on Intergovernmental Relations, wastransferred to section 4271 of Title 42, The Public Health and Welfare.
+Section 1501, Pub. L. 86–380, §1, Sept. 24, 1959, 73 Stat. 703, which related to establishment of the Advisory Commission on Intergovernmental Relations, was transferred to section 4271 of Title 42, The Public Health and Welfare.
 
 Section 1502, Pub. L. 86–380, §2, Sept. 24, 1959, 73 Stat. 703, which related to declaration of purpose, was transferred to section 4272 of Title 42.
 

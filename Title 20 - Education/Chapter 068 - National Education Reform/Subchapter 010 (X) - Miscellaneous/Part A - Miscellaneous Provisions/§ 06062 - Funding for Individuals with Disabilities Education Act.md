@@ -14,9 +14,9 @@ The Congress finds that—
 
 It is the sense of the Congress that the Federal Government should provide States and communities with adequate resources under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\] as soon as reasonably possible, through the reallocation of noneducation funds within the current budget monetary constraints.
 
-(Pub. L. 103 227, title X, §1012, Mar. 31, 1994, 108 Stat. 265.)
+(Pub. L. 103–227, title X, §1012, Mar. 31, 1994, 108 Stat. 265.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

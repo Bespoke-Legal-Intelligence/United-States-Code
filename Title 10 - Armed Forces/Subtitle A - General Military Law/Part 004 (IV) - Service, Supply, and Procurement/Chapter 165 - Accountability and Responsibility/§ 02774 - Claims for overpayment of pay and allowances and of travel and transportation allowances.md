@@ -54,9 +54,11 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Cancellation of Debts Up To $2,500 of Uniformed Service Members Incurred in Connection With Operation Desert Shield/Storm
 
-Pub. L. 103–335, title VIII, §8060, Sept. 30, 1994, 108 Stat. 2633, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: <i>Provided</i>, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member.”
+Pub. L. 104–61, title VIII, §8052, Dec. 1, 1995, 109 Stat. 662, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: <i>Provided</i>, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–335, title VIII, §8060, Sept. 30, 1994, 108 Stat. 2633.
 
 Pub. L. 103–139, title VIII, §8071, Nov. 11, 1993, 107 Stat. 1457.
 

@@ -16,7 +16,7 @@ There are authorized to be appropriated to carry out part C of subchapter II of 
 
 There are authorized to be appropriated to carry out part E of subchapter II of this chapter, such sums as may be necessary for each of the fiscal years 1994 through 1996.
 
-(Pub. L. 93–113, title V, §502, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–135, title II, §205(a), Nov. 28, 1975, 89 Stat. 727; Pub. L. 95–478, title IV, §402(d), Oct.18, 1978, 92 Stat. 1558; Pub. L. 97–35, title VI, §607(b), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §28, May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §9(b)–(d), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 101–204, title VIII, §804, title IX, §902(7), Dec. 7, 1989, 103 Stat. 1824, 1826; Pub. L. 103–82, title III, §382, Sept. 21, 1993, 107 Stat. 914.)
+(Pub. L. 93–113, title V, §502, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–135, title II, §205(a), Nov. 28, 1975, 89 Stat. 727; Pub. L. 95–478, title IV, §402(d), Oct. 18, 1978, 92 Stat. 1558; Pub. L. 97–35, title VI, §607(b), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §28, May 21, 1984, 98 Stat. 197; Pub. L. 99–551, §9(b)–(d), Oct. 27, 1986, 100 Stat. 3077; Pub. L. 101–204, title VIII, §804, title IX, §902(7), Dec. 7, 1989, 103 Stat. 1824, 1826; Pub. L. 103–82, title III, §382, Sept. 21, 1993, 107 Stat. 914.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 101–204, §804(c), inserted “not less than the amount a
 
 1986—Subsec. (a). Pub. L. 99–551, §9(b), inserted “, $32,000,000 for fiscal year 1987, $33,280,000 for fiscal year 1988, and $34,610,000 for fiscal year 1989” and struck out “$30,412,000 for fiscal year 1983, $29,700,000 for fiscal year 1984, $30,400,000 for fiscal year 1985, and” after “to be appropriated”.
 
-Subsec. (b). Pub. L. 99–551, §9(c), inserted “, $60,000,000 for fiscal year 1987, $62,400,000 for fiscal year 1988, and $64,900,000 for fiscal year 1989” and struck out “$52,650,000 for fiscal year 1983, $54,300,000 for fiscal year 1984, $56,700,000 for fiscal year 1985, and” after “to be appropriated”.
+Subsec. (b). Pub. L. 99–551, §9(c), inserted “, $60,000,000 for fiscal year 1987, $62,400,000 for fiscalyear 1988, and $64,900,000 for fiscal year 1989” and struck out “$52,650,000 for fiscal year 1983, $54,300,000 for fiscal year 1984, $56,700,000 for fiscal year 1985, and” after “to be appropriated”.
 
 Subsec. (c). Pub. L. 99–551, §9(d), inserted “, $29,740,000 for fiscal year 1987, $30,930,000 for fiscal year 1988, and $32,170,000 for fiscal year 1989” and struck out “$17,607,000 for fiscal year 1983, $27,800,000 for fiscal year 1984, $28,200,000 for fiscal year 1985, and” after “to be appropriated”.
 

@@ -44,7 +44,7 @@
 
 (1) If, with respect to any State, the Secretary—
 
-&emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within the State that assistance under this chapter be made directly to such tribe or organization; and
+&emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within the State that assistance under thischapter be made directly to such tribe or organization; and
 
 &emsp;(B) determines that the members of such tribe or tribal organization would be better served by means of grants made directly to provide benefits under this chapter;
 

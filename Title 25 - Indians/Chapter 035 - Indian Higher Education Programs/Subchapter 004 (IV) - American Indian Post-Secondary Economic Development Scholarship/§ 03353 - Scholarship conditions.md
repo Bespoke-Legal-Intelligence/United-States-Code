@@ -40,7 +40,7 @@ No scholarship awarded pursuant to this subchapter shall be considered in determ
 
 #### (e) Limitation
 
-Any tribal member selected by an Indian tribe to receive a scholarship under this subchapter shall be eligible to receive a $10,000 scholarship for each academic year of postsecondary education, except that no such member shall receive scholarship assistance under this subchapter for more than 4 years of postsecondary education (including postbaccalaureate).
+Any tribal member selected by an Indian tribe to receive a scholarship under this subchapter shall be eligible to receive a $10,000 scholarshipfor each academic year of postsecondary education, except that no such member shall receive scholarship assistance under this subchapter for more than 4 years of postsecondary education (including postbaccalaureate).
 
 #### (f) Cost of attendance
 

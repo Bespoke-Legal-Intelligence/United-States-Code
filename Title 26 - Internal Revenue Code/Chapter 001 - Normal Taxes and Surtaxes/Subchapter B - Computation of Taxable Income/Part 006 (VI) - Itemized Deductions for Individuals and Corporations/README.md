@@ -75,7 +75,7 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 
 1977—Pub. L. 95–30, title IV, §402(a)(4), May 23, 1977, 91 Stat. 155, struck out “on-the-job training and” after “certain expenditures for” in item 188.
 
-1976—Pub. L. 94–455, title II, §201(b), title XIX, §§1901(b)(11)(B), 1951(c)(2)(D), title XXI, §§2122(b)(1), 2124(a)(3)(A), Oct. 4, 1976, 90 Stat. 1527, 1795, 1841, 1915, 1917, struck out item 168 “Amortization of emergency facilities” and item 187 “Amortization of certain coal mine safety equipment” and added items 189, 190, and 191.
+1976—Pub. L. 94–455, title II, §201(b), title XIX, §§1901(b)(11)(B), 1951(c)(2)(D), title XXI, §§2122(b)(1), 2124(a)(3)(A), Oct. 4, 1976, 90 Stat. 1527, 1795, 1841, 1915, 1917, struck out item 168 “Amortization of emergencyfacilities” and item 187 “Amortization of certain coal mine safety equipment” and added items 189, 190, and 191.
 
 1971—Pub. L. 92–178, title III, §303(c)(6), Dec. 10, 1971, 85 Stat. 522, added item 188.
 

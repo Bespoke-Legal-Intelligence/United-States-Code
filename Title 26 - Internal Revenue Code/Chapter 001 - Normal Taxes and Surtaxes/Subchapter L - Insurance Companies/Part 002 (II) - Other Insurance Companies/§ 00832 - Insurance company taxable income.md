@@ -106,7 +106,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (II) Certain dividends received by foreign corporations
 
-&emsp;&emsp;&emsp;&emsp;A dividend received by a foreign corporation from a domestic corporationwhich would be a 100 percent dividend if section 1504(b)(3) did not apply for purposes of applying section 243(b)(5) <sup>1</sup> shall be treated as a 100 percent dividend.
+&emsp;&emsp;&emsp;&emsp;A dividend received by a foreign corporation from a domestic corporation which would be a 100 percent dividend if section 1504(b)(3) did not apply for purposes of applying section 243(b)(5) <sup>1</sup> shall be treated as a 100 percent dividend.
 
 #### (E) Special rules for dividends subject to proration at subsidiary level
 
@@ -148,7 +148,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (i) Exception to phase-in for companies which were not taxable, etc., before 1987
 
-&emsp;&emsp;&emsp;Subparagraph (C) of paragraph (4) shall not apply to any insurance company which, for each taxable year beginning before January 1, 1987, was not subject to the tax imposed by section 821(a) <sup>2</sup> or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) by reason of being—
+&emsp;&emsp;&emsp;Subparagraph (C) of paragraph (4) shall not apply to any insurance companywhich, for each taxable year beginning before January 1, 1987, was not subject to the tax imposed by section 821(a) <sup>2</sup> or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) by reason of being—
 
 &emsp;&emsp;&emsp;&emsp;(I) subject to tax under section 821(c) <sup>2</sup> (as so in effect), or
 
@@ -230,7 +230,7 @@ In computing the taxable income of an insurance company subject to the tax impos
 
 &emsp;(4) losses incurred, as defined in subsection (b)(5) of this section;
 
-&emsp;(5) capital losses to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+&emsp;(5) capital losses to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold orexchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
 
 &emsp;&emsp;(A) the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets; or
 
@@ -294,7 +294,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 &emsp;&emsp;(D) any amount improperly subtracted from the account under subparagraph (A), (B), or (C) to the extent that tax and loss bonds were redeemed with respect to such amount.
 
-> &emsp;If a company liquidates or otherwise terminates its mortgage guaranty insurance business and does not transfer or distribute such business in an acquisition of assets referred to in section 381(a), the entire amount remaining in such account shall be subtracted. Except in the case where a company transfers or distributes its mortgage guaranty insurance in an acquisition of assets referred to in section 381(a), if the company is not subject to the tax imposed by section 831 for any taxable year, the entire amount in the account at the close ofthe preceding taxable year shall be subtracted from the account in such preceding taxable year.
+> &emsp;If a company liquidates or otherwise terminates its mortgage guaranty insurance business and does not transfer or distribute such business in an acquisition of assets referred to in section 381(a), the entire amount remaining in such account shall be subtracted. Except in the case where a company transfers or distributes its mortgage guaranty insurance in an acquisition of assets referred to in section 381(a), if the company is not subject to the tax imposed by section 831 for any taxable year, the entire amount in the account at the close of the preceding taxable year shall be subtracted from the account in such preceding taxable year.
 
 #### (6) Lease guaranty insurance; insurance of State and local obligations
 
@@ -462,7 +462,7 @@ Adjustments.—In applying section 481 of the Internal Revenue Code of 1986 with
 
 &emsp;&emsp;“(i) only 13 percent of the net amount of adjustments (otherwise required by such section 481 to be taken into account by the taxpayer) shall be taken into account, and
 
-&emsp;&emsp;“(ii) the portion of such net adjustments which is required to be taken into account by the taxpayer (after the application of clause (i)) shall be takeninto account over a period not to exceed 4 taxable years beginning with the taxpayer's 1st taxable year beginning after December 31, 1989.
+&emsp;&emsp;“(ii) the portion of such net adjustments which is required to be taken into account by the taxpayer (after the application of clause (i)) shall be taken into account over a period not to exceed 4 taxable years beginning with the taxpayer's 1st taxable year beginning after December 31, 1989.
 
 “(3)
 
@@ -556,7 +556,7 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Acquisition Date of Certain Stocks or Obligations for Purposes of Subsection (b)(5)(C)(i)
 
-Section 1010(d)(3) of Pub. L. 100–647 provided that: “For purposes of section 832(b)(5)(C)(i) of the 1986 Code,any stock or obligation acquired on or after August 8, 1986, by an insurance company subject to the tax imposed by section 831 of the 1986 Code (hereinafter in this paragraph referred to as the ‘acquiring company’) from another insurance company so subject (hereinafter in this paragraph referred to as the ‘transferor company’) shall be treated as acquired on the date on which such stock or obligation was acquired by the transferor company if—
+Section 1010(d)(3) of Pub. L. 100–647 provided that: “For purposes of section 832(b)(5)(C)(i) of the 1986 Code, any stock or obligation acquired on or after August 8, 1986, by an insurance company subject to the tax imposed by section 831 of the 1986 Code (hereinafter in this paragraph referred to as the ‘acquiring company’) from another insurance company so subject (hereinafter in this paragraph referred to as the ‘transferor company’) shall be treated as acquired on the date on which such stock or obligation was acquired by the transferor company if—
 
 &emsp;“(A) the transferor company acquired such stock or obligation before August 8, 1986, and
 
@@ -608,7 +608,7 @@ Deduction for members of eligible arrangements or associations.—
 
 &emsp;&emsp;“(A)
 
-Payment as trade or business expenses.—To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposes of the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and further reduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which such payment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
+Payment as trade or business expenses.—To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposes of the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and further reduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which suchpayment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
 
 &emsp;&emsp;“(B)
 
@@ -628,7 +628,7 @@ Eligible arrangements or associations.—The terms ‘eligible physicans’ \[si
 
 “(b)
 
-Effective Date.—The provisions of subsection (a) shall apply to payments made to and receipts of physicians’ and surgeons’ mutual protection and interindemnity arrangements or associations, and refunds of payments by such arrangements or associations, afterthe date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.”
+Effective Date.—The provisions of subsection (a) shall apply to payments made to and receipts of physicians’ and surgeons’ mutual protection and interindemnity arrangements or associations, and refunds of payments by such arrangements or associations, after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.”
 
 #### Treatment as Unearned Premiums of Additions to Reserves Required by State Law or Regulations for Mortgage Guaranty Insurance Losses
 

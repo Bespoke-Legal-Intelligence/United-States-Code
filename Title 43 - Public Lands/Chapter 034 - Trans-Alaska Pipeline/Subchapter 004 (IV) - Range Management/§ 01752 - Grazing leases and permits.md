@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 95–514, §8(b), substituted introductory word “In” fo
 
 #### Appeals of Reductions in Grazing Allotments on Public Rangeland; Time; Effective Date of Reductions; Suspension Pending Final Action on Appeal
 
-Provisions requiring appeals of reductions in grazing allotments on public rangelands to be taken within a certain time period; providing that reductions of up to10 per centum in grazing allotments are effective when so designated by the Secretary; suspending proposed reductions in excess of 10 per centum pending final action on appeals; and requiring final action on appeals to be completed within 2 years of filing of the appeal were contained in the following appropriation acts:
+Provisions requiring appeals of reductions in grazing allotments on public rangelands to be taken within a certain time period; providing that reductions of up to 10 per centum in grazing allotments are effective when so designated by the Secretary; suspending proposed reductions in excess of 10 per centum pending final action on appeals; and requiring final action on appeals to be completed within 2 years of filing of the appeal were contained in the following appropriation acts:
 
 Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378.
 

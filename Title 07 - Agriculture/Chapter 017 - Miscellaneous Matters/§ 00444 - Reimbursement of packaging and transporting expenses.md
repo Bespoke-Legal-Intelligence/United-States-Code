@@ -1,0 +1,10 @@
+### §444. Reimbursement of packaging and transporting expenses
+
+With respect to all grain made available pursuant to section 443 of this title, the Commodity Credit Corporation shall be reimbursed by the Secretary of the Interior for its expenses in packaging and transporting such grain for purposes of sections 442 to 445 of this title.
+
+(July 3, 1956, ch. 512, §3, 70 Stat. 492.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 442, 445 of this title.
+

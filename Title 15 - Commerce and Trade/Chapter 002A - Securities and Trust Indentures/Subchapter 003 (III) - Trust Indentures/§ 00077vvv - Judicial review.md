@@ -2,7 +2,7 @@
 
 #### (a) Review of orders
 
-Orders of the Commission under this subchapter (including orders pursuant to the provisions of sections 77eee(b) and 77ggg(c) of this title) shall be subject to review in the samemanner, upon the same conditions, and to the same extent, as provided in section 9 of the Securities Act of 1933 \[15 U.S.C. 77i\], with respect to orders of the Commission under such Act.
+Orders of the Commission under this subchapter (including orders pursuant to the provisions of sections 77eee(b) and 77ggg(c) of this title) shall be subject to review in the same manner, upon the same conditions, and to the same extent, as provided in section 9 of the Securities Act of 1933 \[15 U.S.C. 77i\], with respect to orders of the Commission under such Act.
 
 #### (b) Jurisdiction of offenses and suits
 
@@ -12,7 +12,7 @@ Jurisdiction of offenses and violations under, and jurisdiction and venue of sui
 
 #### References in Text
 
-Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For completeclassification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
 

@@ -454,7 +454,7 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 889, 951, 957, 958, 967, 1115, 1507 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1251; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 22 sections 2291, 2714; title 23 section 410; title 28 section 2901; title 29 section 1111; title 42 sections 201, 1437d, 1437f, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
+This section is referred to in sections 814, 822, 823, 830, 889, 951, 957, 958, 967, 1115, 1507 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1251; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 22 sections 2291, 2714; title 23 section 410; title 28 section 2901; title 29 sections 1111, 1854; title 42 sections 201, 1437d, 1437f, 1769, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “N-Methylephedrine.”</i>
 

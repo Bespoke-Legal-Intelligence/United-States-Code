@@ -10,5 +10,5 @@
 
 #### Effective Date
 
-Section effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 3135 of this title.
+Section effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 3393 of this title.
 

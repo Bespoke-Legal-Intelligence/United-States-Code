@@ -14,7 +14,7 @@ The Secretary may provide the incentive special pay authorized under section 302
 
 #### (c) Work schedules
 
-The Secretary may establish programs to allow the use of flexible work schedules, and compressed work schedules, in accordance with the provisions of subchapter II of chapter 61 of title 5, for health professionals employed by, or assigned to, the Service.
+The Secretary may establish programs to allow the use of flexible work schedules, andcompressed work schedules, in accordance with the provisions of subchapter II of chapter 61 of title 5, for health professionals employed by, or assigned to, the Service.
 
 (Pub. L. 94–437, title I, §116, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4798; amended Pub. L. 102–573, title I, §117(b)(8), title IX, §901(1), Oct. 29, 1992, 106 Stat. 4544, 4590.)
 

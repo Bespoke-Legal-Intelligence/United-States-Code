@@ -1,4 +1,4 @@
-### §3581 . Command: chaplains
+### §3581. Command: chaplains
 
 A chaplain has rank without command.
 

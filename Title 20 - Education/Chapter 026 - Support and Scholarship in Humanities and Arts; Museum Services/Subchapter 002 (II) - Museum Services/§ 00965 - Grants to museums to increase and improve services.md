@@ -30,37 +30,37 @@ Grants, contracts, and cooperative agreements under this section for any fiscal 
 
 #### (d) Review and evaluation procedures
 
-The Director shall establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements made or entered into under this section. Procedures for reviewing grant applications or contracts and cooperative agreements for financial assistance under thissection shall not be subject to any review outside of the Institute.
+The Director shall establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements made or entered into under this section. Procedures for reviewing grant applications or contracts and cooperative agreements for financial assistance under this section shall not be subject to any review outside of the Institute.
 
-(Pub. L. 94 462, title II, §206, Oct. 8, 1976, 90 Stat. 1977; Pub. L. 96 496, title II, §201(d), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 101 512, title III, §318 \[title II, §203\], Nov. 5, 1990, 104 Stat. 1960, 1975.)
+(Pub. L. 94–462, title II, §206, Oct. 8, 1976, 90 Stat. 1977; Pub. L. 96–496, title II, §201(d), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 101–512, title III, §318 \[title II, §203\], Nov. 5, 1990, 104 Stat. 1960, 1975.)
 
 #### Amendments
 
-1990—Subsec. (a)(5). Pub. L. 101 512, §318 \[title II, §203(a)\], substituted “their collections” for “artifacts and art objects”.
+1990—Subsec. (a)(5). Pub. L. 101–512, §318 \[title II, §203(a)\], substituted “their collections” for “artifacts and art objects”.
 
-Subsec. (b)(1). Pub. L. 101 512, §318 \[title II, §203(b)(1)\], substituted “agreements to provide financial assistance in order to undertake projects” for “agreements with professional museum organizations to provide financial assistance to such organizations in order to enable such organizations to undertake projects”.
+Subsec. (b)(1). Pub. L. 101–512, §318 \[title II, §203(b)(1)\], substituted “agreements to provide financial assistance in order to undertake projects” for “agreements with professional museum organizations to provide financial assistance to such organizations in order to enable such organizations to undertake projects”.
 
-Subsec. (b)(2). Pub. L. 101 512, §318 \[title II, §203(b)(2)\], struck out subpar. (A) which read: “No financial assistance may be provided under this subsection for any project for a period in excess of one year.” and struck out subpar. (B) designation before “No financial assistance”, “the” before “operational expenses”, and “of any professional museum organization” after “operational expenses”.
+Subsec. (b)(2). Pub. L. 101–512, §318 \[title II, §203(b)(2)\], struck out subpar. (A) which read: “No financial assistance may be provided under this subsection for any project for a period in excess of one year.” and struck out subpar. (B) designation before “No financial assistance”, “the” before “operational expenses”, and “of any professional museum organization” after “operational expenses”.
 
-Subsec. (b)(3). Pub. L. 101 512, §318 \[title II, §203(b)(3)\], struck out “to professional museum organizations” before “shall not exceed”.
+Subsec. (b)(3). Pub. L. 101–512, §318 \[title II, §203(b)(3)\], struck out “to professional museum organizations” before “shall not exceed”.
 
-Subsec. (b)(4). Pub. L. 101 512, §318 \[title II, §203(b)(4)\], struck out par. (4) which defined “professional museum organization” for purposes of this subsection.
+Subsec. (b)(4). Pub. L. 101–512, §318 \[title II, §203(b)(4)\], struck out par. (4) which defined “professional museum organization” for purposes of this subsection.
 
-1980—Subsecs. (b), (c). Pub. L. 96 496, §201(d)(1), (2), added subsec. (b), redesignated former subsec. (b) as (c), and as so redesignated inserted “, contracts, and cooperative agreements” and “or financial assistance” in two places.
+1980—Subsecs. (b), (c). Pub. L. 96–496, §201(d)(1), (2), added subsec. (b), redesignated former subsec. (b) as (c), and as so redesignated inserted “, contracts, and cooperative agreements” and “or financial assistance” in two places.
 
-Subsec. (d). Pub. L. 96 496, §201(d)(3), added subsec. (d).
+Subsec. (d). Pub. L. 96–496, §201(d)(3), added subsec. (d).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
 #### Institute of Museum Services Regulations
 
-Pub. L. 98 146, title II, Nov. 4, 1983, 97 Stat. 949, provided in part: “That regulations of the Institute shall require (1) an appeal process for applications rejected because of technical deficiency, (2) reconsideration of applications upon receipt of materials in a timely manner if the application was rejected because material did not accompany the application, and (3) waivers of certain records under circumstances which would require such waivers: <i>Provided further,</i> That no regulations may be established that prohibit grants to any institution which is a recipient of a challenge grant from either the National Endowment for the Arts or the National Endowment for the Humanities.”
+Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 949, provided in part: “That regulations of the Institute shall require (1) an appeal process for applications rejected because of technical deficiency, (2) reconsideration of applications upon receipt of materials in a timely manner if the application was rejected because material did not accompany the application, and (3) waivers of certain records under circumstances which would require such waivers: <i>Provided further,</i> That no regulations may be established that prohibit grants to any institution which is a recipient of a challenge grant from eitherthe National Endowment for the Arts or the National Endowment for the Humanities.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 97 394, Dec. 30, 1982, 96 Stat. 1994.
+Pub. L. 97–394, Dec. 30, 1982, 96 Stat. 1994.
 
 #### Section Referred to in Other Sections
 

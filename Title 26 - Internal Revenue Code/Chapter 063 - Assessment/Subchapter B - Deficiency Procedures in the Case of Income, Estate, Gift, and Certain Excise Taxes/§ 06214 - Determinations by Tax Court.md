@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 93–406, §1016(a)(12)(C), inserted reference to chapter 4
 
 1969—Subsec. (a). Pub. L. 91–172, §960(a), inserted reference to exception provided for in section 7463 of this title.
 
-Subsecs. (c), (d). Pub. L. 91–172, §101(j)(43), (44), added subsec. (c), redesignated former subsec. (c) as (d), and,in subsec. (d) as so redesignated, inserted reference to chapter 42.
+Subsecs. (c), (d). Pub. L. 91–172, §101(j)(43), (44), added subsec. (c), redesignated former subsec. (c) as (d), and, in subsec. (d) as so redesignated, inserted reference to chapter 42.
 
 #### Effective Date of 1988 Amendments
 

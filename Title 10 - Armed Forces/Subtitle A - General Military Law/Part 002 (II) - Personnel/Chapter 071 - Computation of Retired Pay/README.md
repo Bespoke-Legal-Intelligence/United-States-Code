@@ -49,7 +49,7 @@ Transfer to inactive status list instead of separation, see section 1209 of this
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 642, 1209, 1275, 1315 of this title; title 33 section 857a; title 42 section 213a.
+This chapter is referred to in sections 642, 1209, 1275, 1315 of this title; title 4 section 114; title 33 section 857a; title 42 section 213a.
 
 
 ---

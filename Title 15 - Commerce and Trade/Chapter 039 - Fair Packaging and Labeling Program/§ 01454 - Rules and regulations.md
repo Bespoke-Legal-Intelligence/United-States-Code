@@ -12,7 +12,7 @@ If the promulgating authority specified in this section finds that, because of t
 
 Whenever the promulgating authority determines that regulations containing prohibitions or requirements other than those prescribed by section 1453 of this title are necessary to prevent the deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
 
-&emsp;(1) establish and define standards for characterization of the size of a package enclosing any consumer commodity, which may be used to supplement the label statement of net quantity of contents of packages containing such commodity, but this paragraph shall not be construed as authorizing any limitation on the size, shape, weight or mass, dimensions, ornumber of packages which may be used to enclose any commodity;
+&emsp;(1) establish and define standards for characterization of the size of a package enclosing any consumer commodity, which may be used to supplement the label statement of net quantity of contents of packages containing such commodity, but this paragraph shall not be construed as authorizing any limitation on the size, shape, weight or mass, dimensions, or number of packages which may be used to enclose any commodity;
 
 &emsp;(2) regulate the placement upon any package containing any commodity, or upon any label affixed to such commodity, of any printed matter stating or representing by implication that such commodity is offered for retail sale at a price lower than the ordinary and customary retail sale price or that a retail sale price advantage is accorded to purchasers thereof by reason of the size of that package or the quantity of its contents;
 
@@ -30,23 +30,23 @@ Whenever the Secretary of Commerce determines that there is undue proliferation 
 
 If (1) after one year after the date on which the Secretary of Commerce first makes the request of manufacturers, packers, and distributors to participate in the development of a voluntary product standard as provided in subsection (d) of this section, he determines that such a standard will not be published pursuant to the provisions of such subsection (d), or (2) if such a standard is published and the Secretary of Commerce determines that it has not been observed, he shall promptly report such determination to the Congress with a statement of the efforts that have been made under the voluntary standards program and his recommendation as to whether Congress should enact legislation providing regulatory authority to deal with the situation in question.
 
-(Pub. L. 89 755, §5, Nov. 3, 1966, 80 Stat. 1298; Pub. L. 96 88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102 245, title I, §107(a)(1), (2), Feb. 14, 1992, 106 Stat. 13; Pub. L. 102 329, §§1(1), (2), 3, Aug. 3, 1991, 106 Stat. 847, 848.)
+(Pub. L. 89–755, §5, Nov. 3, 1966, 80 Stat. 1298; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–245, title I, §107(a)(1), (2), Feb. 14, 1992, 106 Stat. 13; Pub. L. 102–329, §§1(1), (2), 3, Aug. 3, 1991, 106 Stat. 847, 848.)
 
 #### Amendments
 
-1992—Pub. L. 102 245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by Pub. L. 102 329, §3.
+1992—Pub. L. 102–245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by Pub. L. 102–329, §3.
 
-Subsec. (c)(1). Pub. L. 102 329, §1(1), substituted “weight or mass” for “weight”.
+Subsec. (c)(1). Pub. L. 102–329, §1(1), substituted “weight or mass” for “weight”.
 
-Subsec. (d). Pub. L. 102 329, §1(2), substituted “weights or masses” for “weights”.
+Subsec. (d). Pub. L. 102–329, §1(2), substituted “weights or masses” for “weights”.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96 88, which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 329 effective Feb. 14, 1994, but with such amendment to have no effect on the sale or distribution of products whose labels have been printed before such date, no application to unit pricing, advertising, recipe programs, nutrition labeling, or other general pricing information, and no construction requiring changes in package size or affecting in any way the size of packages, see section 2 of Pub. L. 102 329, set out as a note under section 1453 of this title.
+Amendment by Pub. L. 102–329 effective Feb. 14, 1994, but with such amendment to have no effect on the sale or distribution of products whose labels have been printed before such date, no application to unit pricing, advertising, recipe programs, nutrition labeling, or other general pricing information, and no construction requiring changes in package size or affecting in any way the size of packages, see section 2 of Pub. L. 102–329, set out as a note under section 1453 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -26,5 +26,5 @@ In determining the projected total cost of the mortgage to be disclosed to the c
 
 &emsp;(4) any limitation on the liability of the consumer under reverse mortgage transactions (such as nonrecourse limits and equity conservation agreements).
 
-(Pub. L. 90 321, title I, §138, as added Pub. L. 103 325, title I, §154(b), Sept. 23, 1994, 108 Stat. 2196.)
+(Pub. L. 90–321, title I, §138, as added Pub. L. 103–325, title I, §154(b), Sept. 23, 1994, 108 Stat. 2196.)
 

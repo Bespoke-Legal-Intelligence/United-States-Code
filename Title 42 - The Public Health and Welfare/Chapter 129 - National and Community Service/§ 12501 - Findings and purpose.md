@@ -32,7 +32,7 @@ It is the purpose of this chapter to—
 
 &emsp;(6) expand and strengthen existing service programs with demonstrated experience in providing structured service opportunities with visible benefits to the participants and community;
 
-&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and local programs and agencies to expand full-time and part-time service opportunities for all citizens; and
+&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and localprograms and agencies to expand full-time and part-time service opportunities for all citizens; and
 
 &emsp;(8) provide tangible benefits to the communities in which national service is performed.
 
@@ -40,7 +40,7 @@ It is the purpose of this chapter to—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: “This Act \
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–610 provided that: “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 546 of Title 45\] may be cited as the ‘National and Community Service Act of 1990’.”
+Section 1(a) of Pub. L. 101–610 provided that: “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the ‘National and Community Service Act of 1990’.”
 
 Section 110 of subtitle B (§§110–118) of title I of Pub. L. 101–610, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 

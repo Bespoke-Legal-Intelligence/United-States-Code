@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 256, 256a, or 300 of this title, or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 256, 256a, or 300 of this title, or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -106,7 +106,7 @@ With respect to activities for which a grant under subsection (a) of this sectio
 
 #### (m) Duration of grant
 
-The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
+The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annualapproval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
 
 #### (n) Technical assistance, and supplies and services in lieu of grant funds
 
@@ -170,5 +170,5 @@ Subsec. (r)(2). Pub. L. 103–183, §402(b)(2), substituted “1998” for “19
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

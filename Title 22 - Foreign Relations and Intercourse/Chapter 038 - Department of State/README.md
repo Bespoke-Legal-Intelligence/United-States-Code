@@ -23,7 +23,7 @@
 | [2656b.](%C2%A7%2002656b%20-%20Congressional%20declaration%20of%20policy%20regarding%20consequences%20of%20science%20and%20technology%20on%20conduct%20of%20foreign%20policy.md) | Congressional declaration of policy regarding consequences of science and technology on conduct of foreign policy. |
 | [2656c.](%C2%A7%2002656c%20-%20Responsibilities%20of%20President.md) | Responsibilities of President. |
 | (a) | Identification, evaluation and initiation of scientific and technological developments. |
-| (b) | Report to Congress; recommendations. |
+| (b) | Repealed. |
 | (c) | Disclosure of sensitive information. |
 | (d) | Availability to United States Trade Representative of information and recommendations. |
 | [2656d.](%C2%A7%2002656d%20-%20Responsibilities%20of%20Secretary%20of%20State.md) | Responsibilities of Secretary of State. |

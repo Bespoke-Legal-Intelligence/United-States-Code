@@ -1,4 +1,4 @@
-### §8445 . Rights of a former spouse
+### §8445. Rights of a former spouse
 
 (a) Subject to subsections (b) through (e), a former spouse of a deceased employee, Member, or annuitant (or of a former employee or Member who dies after having separated from the service with title to a deferred annuity under section 8413 but before having established a valid claim for annuity) is entitled to an annuity under this section, if and to the extent expressly provided for in an election under section 8417(b), or in the terms of any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the day after the employee, Member, or annuitant, or former employee or Member, dies; or
 
-&emsp;&emsp;(B) the first day of the second month beginning after the date on which the Office receives written notice of the order, decree, agreement, or election, as the case may be, together with such additional informationor documentation as the Office may prescribe;
+&emsp;&emsp;(B) the first day of the second month beginning after the date on which the Office receives written notice of the order, decree, agreement, or election, as the case may be, together with such additional information or documentation as the Office may prescribe;
 
 > &emsp;whichever is later; and
 
@@ -30,7 +30,7 @@
 
 (e) For purposes of this chapter, a decree, order, agreement, or election referred to in subsection (a) shall not be effective, in the case of a former spouse, to the extent that it is inconsistent with any joint waiver previously executed with respect to such former spouse under section 8416(a).
 
-(f)(1) Any amount under section 8442(b)(1)(A) which would otherwise be payable to a widow or widower based on the service of another individual shall be paid (in whole or in part) by the Office to a former spouse of such individual if and to the extent expressly provided for in the terms of a court decree of divorce, annulment, or legal separation, or the terms of a court order or court-approved property settlement incident to any decree of divorce, annulment, or legal separation.
+(f)(1) Any amount under section 8442(b)(1)(A) which would otherwise be payable to a widow or widower based on the service of another individual shall be paid (in whole or in part) by the Office to a former spouse of such individual if and to the extent expressly provided for in the terms of a court decree of divorce, annulment, or legalseparation, or the terms of a court order or court-approved property settlement incident to any decree of divorce, annulment, or legal separation.
 
 (2) Paragraph (1) shall apply only to payments made by the Office after the date of receipt in the Office of written notice of such decree, order, or agreement, and such additional information and documentation as the Office may prescribe.
 

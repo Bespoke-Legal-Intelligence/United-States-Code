@@ -56,7 +56,7 @@ Section 1. With respect to functions authorized by the Foreign Assistance Act of
 
 (7) Section 3735 of the Revised Statutes (41 U.S.C. 13).
 
-(8) Section 304(c) of the Federal Property and Administrative Services Act of 1949, as added by the Act ofOctober 31, 1951, 65 Stat. 700 (41 U.S.C. 254(c)), but only with respect to contracts entered into with foreign governments or agencies thereof for the rendering of services to the United States or an agency thereof within the continental limits of the United States.
+(8) Section 304(c) of the Federal Property and Administrative Services Act of 1949, as added by the Act of October 31, 1951, 65 Stat. 700 (41 U.S.C. 254(c)), but only with respect to contracts entered into with foreign governments or agencies thereof for the rendering of services to the United States or an agency thereof within the continental limits of the United States.
 
 (9) Section 901(a) of the Merchant Marine Act, 1936, 49 Stat. 2015 as amended (46 U.S.C. 1241(a)).
 

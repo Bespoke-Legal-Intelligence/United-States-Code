@@ -12,7 +12,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 &emsp;(i) for any facility, if more than one nuclear incident occurs in any one calendar year; or
 
-&emsp;(ii) for any licensee licensed to operate more than one facility, if the Commission determines that the financial impact of assessing the standard annual deferred premium amountunder paragraph (1) would result in undue financial hardship to such licensee or the ratepayers of such licensee.
+&emsp;(ii) for any licensee licensed to operate more than one facility, if the Commission determines that the financial impact of assessing the standard annual deferred premium amount under paragraph (1) would result in undue financial hardship to such licensee or the ratepayers of such licensee.
 
 (B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
 
@@ -34,7 +34,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 #### (d) Indemnification of contractors by Department of Energy
 
-(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until August 1, 2002, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that arenot subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
+(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until August 1, 2002, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
 
 (B)(i)(I) Beginning 60 days after August 20, 1988, agreements of indemnification under subparagraph (A) shall be the exclusive means of indemnification for public liability arising from activities described in such subparagraph, including activities conducted under a contract that contains an indemnification clause under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] entered into between August 1, 1987, and August 20, 1988.
 
@@ -72,7 +72,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 &emsp;&emsp;(ii) if the amount of financial protection required of the licensee exceeds $60,000,000, $560,000,000 or the amount of financial protection required of the licensee, whichever amount is more.
 
-(2) In the event of a nuclear incident involving damages in excess of the amount of aggregate public liability under paragraph (1), the Congress will thoroughly review the particular incident in accordance with the procedures set forth in subsection (i) of this section and will in accordance with such procedures, take whatever action is determined to be necessary (including approval of appropriate compensation plans andappropriation of funds) to provide full and prompt compensation to the public for all public liability claims resulting from a disaster of such magnitude.
+(2) In the event of a nuclear incident involving damages in excess of the amount of aggregate public liability under paragraph (1), the Congress will thoroughly review the particular incident in accordance with the procedures set forth in subsection (i) of this section and will in accordance with such procedures, take whatever action is determined to be necessary (including approval of appropriate compensation plans and appropriation of funds) to provide full and prompt compensation to the public for all public liability claims resulting from a disaster of such magnitude.
 
 (3) No provision of paragraph (1) may be construed to preclude the Congress from enacting a revenue measure, applicable to licensees of the Commission required to maintain financial protection pursuant to subsection (b) of this section, to fund any action undertaken pursuant to paragraph (2).
 
@@ -222,13 +222,13 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(F) arises out of, results from, or occurs in the course of nuclear waste activities.
 
-> the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant's property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
+> the Commission or the Secretary, as appropriate, may incorporate provisions in indemnityagreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant's property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
 
 (2) With respect to any public liability action arising out of or resulting from a nuclear incident, the United States district court in the district where the nuclear incident takes place, or in the case of a nuclear incident taking place outside the United States, the United States District Court for the District of Columbia, shall have original jurisdiction without regard to the citizenship of any party or the amount in controversy. Upon motion of the defendant or of the Commission or the Secretary, as appropriate, any such action pending in any State court (including any such action pending on August 20, 1988) or United States district court shall be removed or transferred to the United States district court having venue under this subsection. Process of such district court shall be effective throughout the United States. In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in section 1446 of title 28 or within the 30-day period beginning on August 20, 1988, whichever occurs later.
 
 (3)(A) Following any nuclear incident, the chief judge of the United States district court having jurisdiction under paragraph (2) with respect to public liability actions (or the judicial council of the judicial circuit in which the nuclear incident occurs) may appoint a special caseload management panel (in this paragraph referred to as the “management panel”) to coordinate and assign (but not necessarily hear themselves) cases arising out of the nuclear incident, if—
 
-&emsp;(i) a court, acting pursuant to subsection (<i>o</i>) of this section, determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) of this section\(or an equivalent amount in the case of a contractor indemnified under subsection (d) of this section); or
+&emsp;(i) a court, acting pursuant to subsection (<i>o</i>) of this section, determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) of this section (or an equivalent amount in the case of a contractor indemnified under subsection (d) of this section); or
 
 &emsp;(ii) the chief judge of the United States district court (or the judicial council of the judicial circuit) determines that cases arising out of the nuclear incident will have an unusual impact on the work of the court.
 
@@ -258,7 +258,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incident shall not exceed 15 per centum of such limit of liability without the prior approval of such court;
 
-&emsp;(B) The court shall not authorize payments in excess of 15 per centum of such limit of liability unless the court determines that such payments are or will be in accordance with a plan of distribution which has been approved by the court or such payments are not likely to prejudice the subsequent adoption and implementation by the court of a plan of distribution pursuant to subparagraph (C); and
+&emsp;(B) The court shall not authorize payments in excess of 15 per centum of such limit of liability unless the court determines that suchpayments are or will be in accordance with a plan of distribution which has been approved by the court or such payments are not likely to prejudice the subsequent adoption and implementation by the court of a plan of distribution pursuant to subparagraph (C); and
 
 &emsp;(C) The Commission or the Secretary, as appropriate, shall, and any other indemnitor or other interested person may, submit to such district court a plan for the disposition of pending claims and for the distribution of remaining funds available. Such a plan shall include an allocation of appropriate amounts for personal injury claims, property damage claims, and possible latent injury claims which may not be discovered until a later time and shall include establishment of priorities between claimants and classes of claims, as necessary to insure the most equitable allocation of available funds. Such court shall have all power necessary to approve, disapprove, or modify plans proposed, or to adopt another plan; and to determine the proportionate share of funds available for each claimant. The Commission or the Secretary as appropriate, any other indemnitor, and any person indemnified shall be entitled to such orders as may be appropriate to implement and enforce the provisions of this section, including orders limiting the liability of the persons indemnified, orders approving or modifying the plan, orders staying the payment of claims and the execution of court judgments, orders apportioning the payments to be made to claimants, and orders permitting partial payments to be made before final determination of the total claims. The orders of such court shall be effective throughout the United States.
 
@@ -286,7 +286,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 #### (p) Reports to Congress
 
-(1) The Commission and the Secretary shall submit to the Congress by August 1, 1998, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of thenuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
+(1) The Commission and the Secretary shall submit to the Congress by August 1, 1998, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
 
 (2) Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.
 
@@ -312,7 +312,7 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 (2) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
-(Aug. 1, 1946, ch. 724, title I, §170, as added Sept. 2, 1957, Pub. L. 85–256, §4, 71 Stat. 576; amended Aug. 8, 1958, Pub. L. 85–602, §§2, 2\[3\], 72 Stat. 525; Aug. 23, 1958, Pub. L. 85–744, 72 Stat. 837; Sept. 6, 1961, Pub. L. 87–206, §15, 75 Stat. 479; Aug. 29, 1962, Pub. L. 87–615, §§6, 7, 76 Stat. 410; Aug. 1, 1964, Pub. L. 88–394, §§2, 3, 78 Stat. 376; Sept. 29, 1965, Pub. L. 89–210, §§1–5, 79 Stat. 855–857; Oct. 13, 1966, Pub. L. 89–645, §§2, 3, 80 Stat. 891; Dec. 31, 1975, Pub. L. 94–197, §§2–14, 89 Stat. 1111–1115; Aug. 20, 1988, Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), 102 Stat. 1066–1068, 1070–1080; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §170, as added Sept. 2, 1957, Pub. L. 85–256, §4, 71 Stat. 576; amended Aug. 8, 1958, Pub. L. 85–602, §§2, 2\[3\], 72 Stat. 525; Aug. 23, 1958, Pub. L. 85–744, 72 Stat. 837; Sept. 6, 1961, Pub. L. 87–206, §15, 75 Stat. 479; Aug. 29, 1962, Pub. L. 87–615, §§6, 7, 76 Stat. 410; Aug. 1, 1964, Pub. L. 88–394, §§2, 3, 78 Stat. 376; Sept. 29, 1965, Pub. L. 89–210, §§1–5, 79 Stat. 855–857; Oct.13, 1966, Pub. L. 89–645, §§2, 3, 80 Stat. 891; Dec. 31, 1975, Pub. L. 94–197, §§2–14, 89 Stat. 1111–1115; Aug. 20, 1988, Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), 102 Stat. 1066–1068, 1070–1080; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
 
 #### References in Text
 
@@ -482,11 +482,11 @@ This section is popularly known as the “Price-Anderson Act” and also as the 
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 
 #### Termination of Advisory Commissions
 
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, suchcommission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Radiation Exposure Compensation
 
@@ -536,7 +536,7 @@ Availability of the Fund.—Amounts in the Fund shall be available only for disb
 
 “(d)
 
-Termination.—The Fund shall terminate 22 years after the date of the enactment of this Act \[Oct. 15, 1990\]. If all of the amounts in the Fund have not been expended by the end of that 22-year period, investments of amounts in the Fund shall be liquidated and receipts thereof deposited in the Fund and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury.
+Termination.—The Fund shall terminate 22 years after the date of the enactment of this Act \[Oct.15, 1990\]. If all of the amounts in the Fund have not been expended by the end of that 22-year period, investments of amounts in the Fund shall be liquidated and receipts thereof deposited in the Fund and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury.
 
 “(e)
 
@@ -594,7 +594,7 @@ Definitions.—For purposes of this section, the term—
 
 &emsp;&emsp;“(C) that part of Arizona that is north of the Grand Canyon and west of the Colorado River; and
 
-&emsp;“(2) ‘specified disease’ means leukemia (other than chronic lymphocytic leukemia), provided that initial exposure occurred after the age of 20 and the onset of the disease was between 2 and 30 years of first exposure, and the following diseases, provided onset was at least 5 years after first exposure: multiple myeloma, lymphomas (other than Hodgkin's disease), and primary cancer of the: thyroid (provided initial exposure occurred by the age of 20), female breast (provided initial exposure occurred prior to age 40), esophagus (provided low alcohol consumption and not a heavy smoker), stomach (provided initial exposureoccurred before age 30), pharynx (provided not a heavy smoker), small intestine, pancreas (provided not a heavy smoker and low coffee consumption), bile ducts, gall bladder, or liver (except if cirrhosis or hepatitis B is indicated).
+&emsp;“(2) ‘specified disease’ means leukemia (other than chronic lymphocytic leukemia), provided that initial exposure occurred after the age of 20 and the onset of the disease was between 2 and 30 years of first exposure, and the following diseases, provided onset was at least 5 years after first exposure: multiple myeloma, lymphomas (other than Hodgkin's disease), and primary cancer of the: thyroid (provided initial exposure occurred by the age of 20), female breast (provided initial exposure occurred prior to age 40), esophagus (provided low alcohol consumption and not a heavy smoker), stomach (provided initial exposure occurred before age 30), pharynx (provided not a heavy smoker), small intestine, pancreas (provided not a heavy smoker and low coffee consumption), bile ducts, gall bladder, or liver (except if cirrhosis or hepatitis B is indicated).
 
 #### “SEC. 5. CLAIMS RELATING TO URANIUM MINING.
 
@@ -696,7 +696,7 @@ In general.—In the case of an individual who is deceased at the time of paymen
 
 &emsp;&emsp;&emsp;“(ii) If there is no surviving spouse described in clause (i), such payment shall be made in equal shares to all children of the individual who are living at the time of payment.
 
-&emsp;&emsp;&emsp;“(iii) If there is no surviving spouse described in clause (i) and if there are no children described inclause (ii), such payment shall be made in equal shares to the parents of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;“(iii) If there is no surviving spouse described in clause (i) and if there are no children described in clause (ii), such payment shall be made in equal shares to the parents of the individual who are living at the time of payment.
 
 &emsp;&emsp;&emsp;“(iv) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii) or parents described in clause (iii), such payment shall be made in equal shares to all grandchildren of the individual who are living at the time of payment.
 
@@ -810,7 +810,7 @@ Rulemaking Proceeding.—
 
 &emsp;“(1)
 
-Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements undersection 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2111, 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as ‘radiopharmaceutical licensees’).
+Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2111, 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as ‘radiopharmaceutical licensees’).
 
 &emsp;“(2)
 
@@ -842,7 +842,7 @@ Administrative procedures.—To the extent consistent with the provisions of thi
 
 #### Executive Order No. 12658
 
-Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 12665, Jan. 12, 1989, 54 F.R. 1919, which established President's Commission on Catastrophic Nuclear Accidents, was revoked by Ex. Ord. No. 12774, §3(c), Sept. 27, 1991, 56 F.R. 49836, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 12665, Jan. 12, 1989, 54 F.R. 1919, which established President's Commission on Catastrophic Nuclear Accidents, was revoked by Ex. Ord. No. 12774, §3(c), Sept. 27, 1991, 56 F.R. 49836, set out asa note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12891. Advisory Committee on Human Radiation Experiments
 

@@ -38,7 +38,7 @@ The Administrator may appoint, fix the compensation, and remove additional emplo
 
 #### (d) Detailed and temporary personnel
 
-(1) The Board may use, without reimbursement, any personnel of a Federal agency (with the consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
+(1) The Board may use, without reimbursement, any personnel of a Federal agency (withthe consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
 
 (2) The Administrator, after consultation with the Board, may procure temporary and intermittent services under section 3109(b) of title 5 of personnel for the purpose of serving on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
 
@@ -50,7 +50,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretations thereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
 
-(2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricingand administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of $500,000.
+(2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of $500,000.
 
 (B) Subparagraph (A) does not apply to the following contracts or subcontracts:
 
@@ -92,7 +92,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 &emsp;(D) publish a notice of such proposed rulemaking in the Federal Register and provide all parties affected a period of not less than 60 days after such publication to submit their views and comments.
 
-(2) Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines a longer period is necessary. Implementation dates for contractors and subcontractors shall be determined by the Board, but in no event shall such dates be later than the beginning of the second fiscal year of the contractor or subcontractor after the standard becomes effective. Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall be accompanied by prefatory comments and by illustrations, if necessary.
+(2) Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines a longer period is necessary. Implementation dates for contractors and subcontractors shall be determined by the Board, but in no event shall such dates be later than the beginning of the second fiscal year of the contractoror subcontractor after the standard becomes effective. Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall be accompanied by prefatory comments and by illustrations, if necessary.
 
 (3) The functions exercised under this section are excluded from the operation of sections 551, 553 through 559, and 701 through 706 of title 5.
 
@@ -108,7 +108,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (3) Any contract price adjustment undertaken pursuant to paragraph (1)(B) shall be made, where applicable, on relevant contracts between the United States and the contractor that are subject to the cost accounting standards so as to protect the United States from payment, in the aggregate, of increased costs (as defined by the Board). In no case shall the Government recover costs greater than the increased cost (as defined by the Board) to the Government, in the aggregate, on the relevant contracts subject to the price adjustment, unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Government.
 
-(4) The interest rate applicable to any contract price adjustment shall be the annual rate of interest established under section 6621 of title26 for such period. Such interest shall accrue from the time payments of the increased costs were made to the contractor or subcontractor to the time the United States receives full compensation for the price adjustment.
+(4) The interest rate applicable to any contract price adjustment shall be the annual rate of interest established under section 6621 of title 26 for such period. Such interest shall accrue from the time payments of the increased costs were made to the contractor or subcontractor to the time the United States receives full compensation for the price adjustment.
 
 #### (i) Reports to Congress
 

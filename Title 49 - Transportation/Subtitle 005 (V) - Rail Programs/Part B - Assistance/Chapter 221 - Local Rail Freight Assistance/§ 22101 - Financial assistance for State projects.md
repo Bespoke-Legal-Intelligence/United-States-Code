@@ -2,9 +2,9 @@
 
 (a)
 
-General.—The Secretary of Transportation shall provide financial assistance to a State, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to subchapter I of chapter 105 of this title maintains a rail line in the State. The assistance is for the cost of—
+General.—The Secretary of Transportation shall provide financial assistance to a State, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to part A of subtitle IV of this title maintains a rail line in the State. The assistance is for the cost of—
 
-&emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Interstate Commerce Commission has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
+&emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Surface Transportation Board has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
 
 &emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year; and
 
@@ -12,7 +12,7 @@ General.—The Secretary of Transportation shall provide financial assistance to
 
 (b)
 
-Calculating Cost-Benefit Ratio.—The Secretary shall establish a methodology for calculating the ratio of benefits to costs of projects proposed under this chapter. In establishing the methodology, the Secretary shall consider the need for equitable treatment of different regions of the United States and different commodities transported by rail. The establishment of the methodology is committed to the discretion of the Secretary.
+Calculating Cost-Benefit Ratio.—The Secretary shall establish a methodology for calculating the ratio of benefits to costs of projects proposed under this chapter. In establishing the methodology, the Secretary shall consider the need for equitable treatment of different regions of the United States and different commodities transported by rail. The establishment of themethodology is committed to the discretion of the Secretary.
 
 (c)
 
@@ -34,7 +34,7 @@ Conditions.—(1) Assistance for a project shall be provided under this chapter 
 
 Limitations on Amounts.—A State may not receive more than 15 percent of the amounts provided in a fiscal year under this chapter. Not more than 20 percent of the amounts available under this chapter may be provided in a fiscal year for any one project.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 894.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 894; Pub. L. 104–88, title III, §308(f)(1), (2), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -75,6 +75,14 @@ In subsection (b), the words “no later than July 1, 1990” are omitted as exe
 In subsection (c)(1), before clause (A), the words “Assistance for a project shall be provided under this chapter only if” are substituted for “No project shall be provided rail freight assistance under this section unless” because of the restatement.
 
 In subsection (c)(2), the words “If the rail carrier that provided the transportation on the rail line” are substituted for “In a case where the railroad”, and the words “information required by the certification under paragraph (1)(A) of this subsection” are substituted for “such information”, for clarity.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–88 substituted “part A of subtitle IV” for “subchapter I of chapter 105” in introductory provisions and “Surface Transportation Board” for “Interstate Commerce Commission” in par. (1).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 &emsp;(B) 20 years, in the case of a lease not described in subparagraph (A).
 
-(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary. Consideration under such a lease may be provided in whole or in part through consideration in-kind.
+(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary.Consideration under such a lease may be provided in whole or in part through consideration in-kind.
 
 (B) Consideration in-kind may include provision of goods or services of benefit to the Department, including construction, repair, remodeling, or other physical improvements of Department facilities, maintenance of Department facilities, or the provision of office, storage, or other usable space.
 

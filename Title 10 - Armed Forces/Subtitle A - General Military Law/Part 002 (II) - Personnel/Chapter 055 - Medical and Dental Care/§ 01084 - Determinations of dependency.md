@@ -22,7 +22,7 @@ The words “the General Accounting Office” are substituted for the words “a
 
 #### Prior Provisions
 
-A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, which related to administration of former sections 1071 to 1086 of this title, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to administration of former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

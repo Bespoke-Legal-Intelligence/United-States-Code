@@ -1,4 +1,4 @@
-### §208 . Chapter 1; residual application
+### §208. Chapter 1; residual application
 
 Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States.
 

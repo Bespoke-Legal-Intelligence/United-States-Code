@@ -42,13 +42,13 @@ The State shall develop a procedure for ensuring ongoing comment from the Counci
 
 #### (f) Dissemination
 
-The State shall widely disseminate the strategic plan to families of children with disabilities,parent organizations, and other interested persons.
+The State shall widely disseminate the strategic plan to families of children with disabilities, parent organizations, and other interested persons.
 
 #### (g) Construction
 
-Nothing in this section shall be construed to prevent a State from using an existing statewide strategic plan or parts thereof to meet the requirements of this section as long as such plan or the applicable parts thereof are comparable to the specifications of this section.
+Nothing in this section shall be construed to prevent a State from using an existing statewidestrategic plan or parts thereof to meet the requirements of this section as long as such plan or the applicable parts thereof are comparable to the specifications of this section.
 
-(Pub. L. 91 230, title VI, §709, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3951.)
+(Pub. L. 91–230, title VI, §709, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3951.)
 
 #### Section Referred to in Other Sections
 

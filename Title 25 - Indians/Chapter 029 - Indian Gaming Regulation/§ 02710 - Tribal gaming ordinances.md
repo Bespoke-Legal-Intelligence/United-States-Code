@@ -10,7 +10,7 @@
 
 (1) An Indian tribe may engage in, or license and regulate, class II gaming on Indian lands within such tribe's jurisdiction, if—
 
-&emsp;(A) such Indian gaming is located within a State that permits such gaming for any purpose by any person, organization or entity (and such gaming is not otherwise specifically prohibited on Indian lands by Federal law), and
+&emsp;(A) such Indian gaming is located within a State that permits such gaming for any purpose by any person, organization or entity\(and such gaming is not otherwise specifically prohibited on Indian lands by Federal law), and
 
 &emsp;(B) the governing body of the Indian tribe adopts an ordinance or resolution which is approved by the Chairman.
 
@@ -150,7 +150,7 @@
 
 (D)(i) The governing body of an Indian tribe, in its sole discretion and without the approval of the Chairman, may adopt an ordinance or resolution revoking any prior ordinance or resolution that authorized class III gaming on the Indian lands of the Indian tribe. Such revocation shall render class III gaming illegal on the Indian lands of such Indian tribe.
 
-(ii) The Indian tribe shall submit any revocation ordinance or resolution described in clause (i) to the Chairman. The Chairman shall publish such ordinance or resolution in the Federal Register and the revocation provided by such ordinance or resolution shall take effect on the date of such publication.
+(ii) The Indian tribe shall submit any revocation ordinance or resolution described in clause (i) to the Chairman. The Chairman shall publishsuch ordinance or resolution in the Federal Register and the revocation provided by such ordinance or resolution shall take effect on the date of such publication.
 
 (iii) Notwithstanding any other provision of this subsection—
 
@@ -158,7 +158,7 @@
 
 &emsp;(II) any civil action that arises before, and any crime that is committed before, the close of such 1-year period shall not be affected by such revocation ordinance or resolution.
 
-(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which suchlands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
+(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which such lands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
 
 (B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect only when notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
 
@@ -216,7 +216,7 @@
 
 (v) The mediator appointed by the court under clause (iv) shall submit to the State and the Indian tribe the compact selected by the mediator under clause (iv).
 
-(vi) If a State consents to a proposed compact during the 60-day period beginning on the dateon which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
+(vi) If a State consents to a proposed compact during the 60-day period beginning on the date on which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
 
 (vii) If the State does not consent during the 60-day period described in clause (vi) to a proposed compact submitted by a mediator under clause (v), the mediator shall notify the Secretary and the Secretary shall prescribe, in consultation with the Indian tribe, procedures—
 

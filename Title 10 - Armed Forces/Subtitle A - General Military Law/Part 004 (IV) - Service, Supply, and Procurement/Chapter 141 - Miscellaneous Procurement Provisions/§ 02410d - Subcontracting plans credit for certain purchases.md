@@ -18,7 +18,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 2(c) of such Act (41 U.S.C. 47(c)).
 
-&emsp;(3) The term “Javits-Wagner-O'Day Act” means the Act entitled “An Act to create a Committee on Purchases of Blind-made Products, and for other purposes”, approved June 25, 1938 (41 U.S.C. 46–48c), commonly referred to as the Wagner-O'Day Act, that was revised and reenacted in the Act of June 23, 1971 (85Stat. 77), commonly referred to as the Javits-Wagner-O'Day Act.
+&emsp;(3) The term “Javits-Wagner-O'Day Act” means the Act entitled “An Act to create a Committee on Purchases of Blind-made Products, and for other purposes”, approved June 25, 1938 (41 U.S.C. 46–48c), commonly referred to as the Wagner-O'Day Act, that was revised and reenacted in the Act of June 23, 1971 (85 Stat. 77), commonly referred to as the Javits-Wagner-O'Day Act.
 
 (c)
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 261 to 273 were omitted pursuant to section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1, which provided that all laws or parts of laws codified into the Internal Revenue Code of 1939, enacted by act Feb. 10, 1939, to the extent they related exclusively to internal revenue laws, were repealed. The Internal Revenue Code of 1939 was generally repealed by section 7851 of act Aug. 16, 1954, ch. 736, 68A Stat. 919 (section 7851 of Title 26, Internal Revenue Code), which act enacted the Internal Revenue Code of 1954 \[now 1986\]. See section 7807 of Title 26, relating to applicability of rules in effect upon the enactment of the Internal Revenue Code of 1986.
+Sections 261 to 273 were omitted pursuant to section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1, which providedthat all laws or parts of laws codified into the Internal Revenue Code of 1939, enacted by act Feb. 10, 1939, to the extent they related exclusively to internal revenue laws, were repealed. The Internal Revenue Code of 1939 was generally repealed by section 7851 of act Aug. 16, 1954, ch. 736, 68A Stat. 919 (section 7851 of Title 26, Internal Revenue Code), which act enacted the Internal Revenue Code of 1954 \[now 1986\]. See section 7807 of Title 26, relating to applicability of rules in effect upon the enactment of the Internal Revenue Code of 1986.
 
 Section 261, acts June 29, 1937, ch. 405, §1, 50 Stat. 435; Aug. 13, 1940, ch. 664, §§1, 3, 54 Stat. 785, 786, defined terms for purposes of this subchapter.
 

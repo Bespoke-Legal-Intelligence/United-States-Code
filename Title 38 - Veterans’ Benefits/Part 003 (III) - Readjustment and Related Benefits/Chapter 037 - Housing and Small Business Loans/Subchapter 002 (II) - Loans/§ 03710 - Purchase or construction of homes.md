@@ -90,7 +90,7 @@
 
 &emsp;(C) The terms “solar heating and cooling” and “combined solar heating and cooling” have the meaning given such terms in section 3(2) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(2)) and, in addition, include a passive system based on conductive, convective, or radiant energy transfer.
 
-&emsp;(D) The term “passive system” includes window and skylight glazing, thermal floors, walls, and roofs, movable insulation panels (when in conjunction with glazing), portions of a residential structure that serve as solar furnaces so as to add heat to the structure, double-pane window insulation, and such other energy-related components as are determined by the Secretary to enhance the natural transfer of energy for the purpose of heating or heating and cooling a residence.
+&emsp;(D) The term “passive system” includes window and skylight glazing, thermal floors,walls, and roofs, movable insulation panels (when in conjunction with glazing), portions of a residential structure that serve as solar furnaces so as to add heat to the structure, double-pane window insulation, and such other energy-related components as are determined by the Secretary to enhance the natural transfer of energy for the purpose of heating or heating and cooling a residence.
 
 &emsp;(E) The term “residential energy conservation measure” means—
 
@@ -312,7 +312,7 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, except that amendment by 
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 provided that: “Not later than 1 year after the date on which the Secretaryof Veterans Affairs first exercises the authority to guarantee loans under section 3710(d) of title 38, United States Code (as added by subsection (a) of this section), and for each of the 3 years thereafter, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the program under such section. Each such report shall contain information pertaining to—
+Section 9(c) of Pub. L. 102–547 provided that: “Not later than 1 year after the date on which the Secretary of Veterans Affairs first exercises the authority to guarantee loans under section 3710(d) of title 38, United States Code (as added by subsection (a) of this section), and for each of the 3 years thereafter, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the program under such section. Each such report shall contain information pertaining to—
 
 &emsp;“(1) the number of mortgages guaranteed under such section;
 

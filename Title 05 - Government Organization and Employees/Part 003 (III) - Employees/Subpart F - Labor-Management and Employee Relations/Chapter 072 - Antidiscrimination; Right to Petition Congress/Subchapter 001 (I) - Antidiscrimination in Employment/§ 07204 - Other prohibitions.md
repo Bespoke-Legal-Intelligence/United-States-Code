@@ -6,7 +6,7 @@
 
 (c) The Office of Personnel Management may prescribe regulations necessary for the administration of subsection (b) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, §7154; Pub. L. 90–83, §1(44), Sept. 11, 1967, 81 Stat. 208;Pub. L. 92–392, §8, Aug. 19, 1972, 86 Stat. 573; renumbered §7204 and amended Pub. L. 95–454, title VII, §703(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1216, 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, §7154; Pub. L. 90–83, §1(44), Sept. 11, 1967, 81 Stat. 208; Pub. L. 92–392, §8, Aug. 19, 1972, 86 Stat. 573; renumbered §7204 and amended Pub. L. 95–454, title VII, §703(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1216, 1224.)
 
 Historical and Revision Notes<br>1966
 
@@ -44,11 +44,11 @@ This section deletes subsection (a) of 5 U.S.C. 7154 to reflect the repeal of th
 
 #### Amendments
 
-1978—Pub. L. 95–454, §703(a)(1), renumbered section 7154 of this title as this section.
+<b>1978</b>—Pub. L. 95–454, §703(a)(1), renumbered section 7154 of this title as this section.
 
 Subsec. (c). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1972—Subsec. (b). Pub. L. 92–392 inserted reference to subchapter IV of chapter 53 of this title.
+<b>1972</b>—Subsec. (b). Pub. L. 92–392 inserted reference to subchapter IV of chapter 53 of this title.
 
 #### Effective Date of 1978 Amendment
 

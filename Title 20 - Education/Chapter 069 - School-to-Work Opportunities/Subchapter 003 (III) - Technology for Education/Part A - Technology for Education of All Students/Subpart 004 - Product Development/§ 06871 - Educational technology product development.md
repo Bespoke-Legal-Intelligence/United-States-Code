@@ -98,5 +98,5 @@ The Secretary shall provide for the independent evaluation of products developed
 
 The Secretary shall not prohibit an eligible consortium or any of the members of such consortium from receiving financial benefits from the distribution of any products resulting from the assistance received under this section. Notwithstanding any other provision of law, any profits or royalties received by a State educational agency, local educational agency, or other nonprofit member of an eligible consortium receiving assistance under this section shall be used to support further development of curriculum-based learning resources, services, and programming or to provide access to such products for a wider audience.
 
-(Pub. L. 89 10, title III, §3151, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3652.)
+(Pub. L. 89–10, title III, §3151, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3652.)
 

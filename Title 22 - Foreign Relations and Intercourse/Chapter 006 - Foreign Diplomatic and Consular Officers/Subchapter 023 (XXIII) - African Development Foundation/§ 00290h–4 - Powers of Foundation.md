@@ -38,7 +38,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (d) Termination of Foundation and liquidation of assets
 
-Upon termination of the corporate life of the Foundation its assets shall be liquidated and,unless otherwise provided by Congress, shall be transferred to the United States Treasury as the property of the United States.
+Upon termination of the corporate life of the Foundation its assets shall be liquidated and, unless otherwise provided by Congress, shall be transferred to the United States Treasury as the property of the United States.
 
 (Pub. L. 96–533, title V, §506, Dec. 16, 1980, 94 Stat. 3153.)
 

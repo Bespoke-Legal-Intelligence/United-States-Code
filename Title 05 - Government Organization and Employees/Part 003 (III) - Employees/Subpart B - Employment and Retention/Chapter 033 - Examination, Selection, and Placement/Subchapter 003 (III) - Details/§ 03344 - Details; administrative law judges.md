@@ -20,7 +20,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners in section catchline and wherever appearing in text.
 

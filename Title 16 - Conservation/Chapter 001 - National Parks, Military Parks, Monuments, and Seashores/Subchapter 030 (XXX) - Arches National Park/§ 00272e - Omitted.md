@@ -1,4 +1,4 @@
-### §272e . Omitted
+### §272e. Omitted
 
 #### Codification
 

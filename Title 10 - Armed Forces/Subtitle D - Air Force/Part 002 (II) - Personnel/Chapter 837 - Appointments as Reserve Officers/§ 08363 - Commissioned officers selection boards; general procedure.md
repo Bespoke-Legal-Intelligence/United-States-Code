@@ -1,6 +1,6 @@
 ### §8363. Commissioned officers: selection boards; general procedure
 
-(a) An officer in a reserve grade above second lieutenant may not be considered for promotion,or examined for Federal recognition in the next higher grade, until he completes the following number of years of service, computed under section 8360(e) of this title, in his current reserve grade:
+(a) An officer in a reserve grade above second lieutenant may not be considered for promotion, or examined for Federal recognition in the next higher grade, until he completes the following number of years of service, computed under section 8360(e) of this title, in his current reserve grade:
 
 &emsp;(1) First lieutenant—two years.
 
@@ -18,7 +18,7 @@
 
 (b) An officer may not be considered by a selection board for promotion under this chapter more than two years, if in a reserve grade below colonel, or more than one year, if in a reserve grade above lieutenant colonel, before the date on which it is anticipated that he will be promoted if recommended by the selection board.
 
-(c) Except for officers being considered under section 8366, 8372, or 8373 of this title, and except for deferred officers who may not be considered at that time, an officer may not be considered by a selection board for promotion unless the board considers all officers who are senior to him in his reserve grade and who are not on a recommended list.
+(c) Except for officers being considered under section 8366, 8372, or 8373 of this title, and exceptfor deferred officers who may not be considered at that time, an officer may not be considered by a selection board for promotion unless the board considers all officers who are senior to him in his reserve grade and who are not on a recommended list.
 
 (d) The names of officers recommended by a selection board for promotion shall be placed on a recommended list of their grade below the names of those recommended by earlier selection boards and in the same order among themselves as existed when they were considered by the selection board. A name so placed on a list shall be carried thereon until the officer is promoted to the grade for which he is recommended or until his name is removed under another provision of this chapter.
 

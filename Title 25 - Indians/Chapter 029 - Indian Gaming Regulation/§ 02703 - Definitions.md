@@ -40,7 +40,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(II) are not explicitly prohibited by the laws of the State and are played at any location in the State,
 
-> &emsp;&emsp;but only if such card games are played in conformity with those laws and regulations (if any) of the State regarding hours or periods of operation of such card games or limitations on wagers or pot sizes in such card games.
+> &emsp;&emsp;but only if such card games are played in conformity with those laws and regulations\(if any) of the State regarding hours or periods of operation of such card games or limitations on wagers or pot sizes in such card games.
 
 &emsp;(B) The term “class II gaming” does not include—
 
@@ -50,7 +50,7 @@ For purposes of this chapter—
 
 &emsp;(C) Notwithstanding any other provision of this paragraph, the term “class II gaming” includes those card games played in the State of Michigan, the State of North Dakota, the State of South Dakota, or the State of Washington, that were actually operated in such State by an Indian tribe on or before May 1, 1988, but only to the extent of the nature and scope of the card games that were actually operated by an Indian tribe in such State on or before such date, as determined by the Chairman.
 
-&emsp;(D) Notwithstanding any other provision of this paragraph, the term “class II gaming” includes, during the 1-year period beginning on October 17, 1988, any gaming described in subparagraph (B)(ii) that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated requeststhe State, by no later than the date that is 30 days after October 17, 1988, to negotiate a Tribal-State compact under section 2710(d)(3) of this title.
+&emsp;(D) Notwithstanding any other provision of this paragraph, the term “class II gaming” includes, during the 1-year period beginning on October 17, 1988, any gaming described in subparagraph (B)(ii) that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated requests the State, by no later than the date that is 30 days after October 17, 1988, to negotiate a Tribal-State compact under section 2710(d)(3) of this title.
 
 &emsp;(E) Notwithstanding any other provision of this paragraph, the term “class II gaming” includes, during the 1-year period beginning on December 17, 1991, any gaming described in subparagraph (B)(ii) that was legally operated on Indian lands in the State of Wisconsin on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated requested the State, by no later than November 16, 1988, to negotiate a Tribal-State compact under section 2710(d)(3) of this title.
 

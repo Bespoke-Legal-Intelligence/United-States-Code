@@ -84,5 +84,5 @@ The definitions in section 472 of this title apply to this chapter.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 44 sections 3504, 3505.
+This section is referred to in title 44 section 3504.
 

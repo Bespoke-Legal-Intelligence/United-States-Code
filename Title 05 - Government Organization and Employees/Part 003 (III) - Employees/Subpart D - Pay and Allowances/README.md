@@ -2,7 +2,7 @@
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in section 1103 of this title.
+This subpart is referred to in section 1103 of this title; title 10 section 1604.
 
 
 ---

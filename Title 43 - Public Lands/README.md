@@ -1,5 +1,5 @@
 
-43 U.S.C.<br>United States Code, 1994 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
+43 U.S.C.<br>United States Code, 1995 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 43—PUBLIC LANDS
 

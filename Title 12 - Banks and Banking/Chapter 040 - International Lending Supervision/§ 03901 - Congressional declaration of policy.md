@@ -1,4 +1,4 @@
-### §3901 . Congressional declaration of policy
+### §3901. Congressional declaration of policy
 
 (a)(1) It is the policy of the Congress to assure that the economic health and stability of the United States and the other nations of the world shall not be adversely affected or threatened in the future by imprudent lending practices or inadequate supervision.
 

@@ -42,5 +42,5 @@ The Congress finds that—
 
 &emsp;(15) technology has the potential to assist and support the improvement of teaching and learning in schools and other settings.
 
-(Pub. L. 89 10, title III, §3111, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3637.)
+(Pub. L. 89–10, title III, §3111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3637.)
 

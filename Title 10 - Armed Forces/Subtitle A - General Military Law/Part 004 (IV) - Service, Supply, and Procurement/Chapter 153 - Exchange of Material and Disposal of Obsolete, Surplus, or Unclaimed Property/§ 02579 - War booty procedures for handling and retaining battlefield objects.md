@@ -26,7 +26,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations for the 
 
 #### Regulations
 
-Section 1171(b) of Pub. L. 103–160 provided that: “The initial regulations required by section 2579 of title 10,United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act \[Nov. 30, 1993\]. Such regulations shall specifically address the following, consistent with section 2579 of title 10, United States Code, as added by subsection (a):
+Section 1171(b) of Pub. L. 103–160 provided that: “The initial regulations required by section 2579 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act \[Nov. 30, 1993\]. Such regulations shall specifically address the following, consistent with section 2579 of title 10, United States Code, as added by subsection (a):
 
 &emsp;“(1) The general procedures for collection and disposition of weapons and other enemy material.
 

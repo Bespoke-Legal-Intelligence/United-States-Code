@@ -1,4 +1,4 @@
-### §§66 to 77 . Repealed. June 25, 1948, ch. 646, §39, 62 Stat. 992, eff. Sept. 1, 1948
+### §§66 to 77. Repealed. June 25, 1948, ch. 646, §39, 62 Stat. 992, eff. Sept. 1, 1948
 
 Section 66, acts June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, related to appointment and jurisdiction of commissioners. See provisions covering United States magistrate judges in section 631 et seq. of Title 28, Judiciary and Judicial Procedure.
 

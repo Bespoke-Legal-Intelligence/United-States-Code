@@ -112,21 +112,21 @@ Nothing in this chapter shall affect the authority of any State to bring an acti
 
 Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.
 
-(Pub. L. 97 45, §3, Sept. 25, 1981, 95 Stat. 950; Pub. L. 99 563, §§5, 7, 8(a), 12(c), Oct. 27, 1986, 100 Stat. 3172, 3175, 3178.)
+(Pub. L. 97–45, §3, Sept. 25, 1981, 95 Stat. 950; Pub. L. 99–563, §§5, 7, 8(a), 12(c), Oct. 27, 1986, 100 Stat. 3172, 3175, 3178.)
 
 #### Amendments
 
-1986—Subsec. (a)(1)(C). Pub. L. 99 563, §12(c), struck out “product liability or completed operations” before “liability insurance losses”.
+1986—Subsec. (a)(1)(C). Pub. L. 99–563, §12(c), struck out “product liability or completed operations” before “liability insurance losses”.
 
-Subsec. (a)(1)(D). Pub. L. 99 563, §5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
+Subsec. (a)(1)(D). Pub. L. 99–563, §5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
 
-Subsec. (a)(1)(E). Pub. L. 99 563, §5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
+Subsec. (a)(1)(E). Pub. L. 99–563, §5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
 
-Subsec. (a)(1)(F). Pub. L. 99 563, §5(b)(1)(A), (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
+Subsec. (a)(1)(F). Pub. L. 99–563, §5(b)(1)(A), (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
 
-Subsec. (a)(1)(G) to (I). Pub. L. 99 563, §5(b)(1)(A), (e), added subpars. (G) to (I). Former subpar. (G) redesignated (F).
+Subsec. (a)(1)(G) to (I). Pub. L. 99–563, §5(b)(1)(A), (e), added subpars. (G) to (I). Former subpar. (G) redesignated (F).
 
-Subsec. (b). Pub. L. 99 563, §5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The exemptions specified in subsection (a) of this section apply to—
+Subsec. (b). Pub. L. 99–563, §5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The exemptions specified in subsection (a) of this section apply to—
 
 &emsp;“(1) product liability or completed operations liability insurance coverage provided by a risk retention group for—
 
@@ -138,11 +138,11 @@ Subsec. (b). Pub. L. 99 563, §5(a), amended subsec. (b) generally. Prior to ame
 
 &emsp;“(3) the provision of insurance related services or management services for a risk retention group or any member of such group.”
 
-Subsecs. (d) to (h). Pub. L. 99 563, §§5(b)(2), 7, 8(a), added subsecs. (d) to (h).
+Subsecs. (d) to (h). Pub. L. 99–563, §§5(b)(2), 7, 8(a), added subsecs. (d) to (h).
 
 #### Special Rule Regarding Feasibility Study
 
-The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicable with respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99 563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
+The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicable with respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
 
 #### Section Referred to in Other Sections
 

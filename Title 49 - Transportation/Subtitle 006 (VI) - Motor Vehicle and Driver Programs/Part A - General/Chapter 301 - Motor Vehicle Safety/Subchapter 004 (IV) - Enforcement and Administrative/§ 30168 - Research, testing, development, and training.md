@@ -76,7 +76,7 @@ Sept. 9, 1966, Pub. L. 89–563, §301, 80 Stat. 729; restated May 22, 1970, Pub
 
 15:1395(c).
 
-In subsection (a)(1), before clause (A), the words “the purposes of” and “but not limited to” are omitted as surplus. In clause (A), before subclause (i), the words “from any source” are omitted as surplus. In clause (B), the words “(by negotiation or otherwise)” and “purposes” are omitted as surplus. In clause (C), the word “crediting” is substituted for “reimbursing” because it is more appropriate. The words “of such sale or disposal” and “the purposes of” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “the purposes of” and “but not limited to” are omitted as surplus. In clause (A), before subclause (i), the words “from any source” are omitted as surplus. In clause\(B), the words “(by negotiation or otherwise)” and “purposes” are omitted as surplus. In clause (C), the word “crediting” is substituted for “reimbursing” because it is more appropriate. The words “of such sale or disposal” and “the purposes of” are omitted as surplus.
 
 In subsection (a)(2), the words “conduct research, testing, development, and training as authorized to be . . . for the conduct of such research, testing, development, and training” are omitted as surplus. The word “authorities” is substituted for “agencies” for consistency.
 
@@ -90,7 +90,7 @@ In subsection (e), the words “United States Government” are substituted for 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives and Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -284,9 +284,9 @@ Section 726(b), (c) of Pub. L. 97–113, as amended by Pub. L. 99–83, title VI
 
 \[Functions of President under section 726(b) of Pub. L. 97–113, set out above, delegated to Secretary of State, see section 1–201(a)(22) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
-Section 406 of Pub. L. 94–329, as amended by Pub. L. 95–384, §§10(b)(5), 12(c)(5), Sept. 26, 1978, 92 Stat. 735, 737, which set forth limitations with respect to assistance, sales and credit for Chile, was repealed by Pub. L. 97–113, title VII, §726(a), Dec. 29, 1981, 95 Stat. 1554.
+Section 406 of Pub. L. 94–329, as amended by Pub. L. 95–384, §§10(b)(5), 12(c)(5), Sept. 26, 1978, 92 Stat. 735, 737, set forth limitations with respect to assistance, sales and credit for Chile, prior to repeal by Pub. L. 97–113, title VII, §726(a), Dec. 29, 1981, 95 Stat. 1554.
 
-Section 25 of Pub. L. 93–559, which provided that notwithstanding any other provision of law, the total amount of assistance that was to be made available for Chile under this chapter, and the Foreign Military Sales Act, section 2751 et seq. of this title, during fiscal year 1975, was not to exceed $25,000,000, none of which was to be made available for the purpose of providing military assistance (including security supporting assistance, sales, credit sales, or guaranties or the furnishing by any means of excess defense articles or items from stockpiles of the Department of Defense), was repealed by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
+Section 25 of Pub. L. 93–559 provided that notwithstanding any other provision of law, the total amount of assistance that was to be made available for Chile under this chapter, and the Foreign Military Sales Act, section 2751 et seq. of this title, during fiscal year 1975, was not to exceed $25,000,000, none of which was to be made available for the purpose of providing military assistance (including security supporting assistance, sales, credit sales, or guaranties or the furnishing by any means of excess defense articles or items from stockpiles of the Department of Defense), prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Assistance for El Salvador
 
@@ -492,7 +492,21 @@ Pub. L. 91–194, title I, §109, Feb. 9, 1970, 84 Stat. 8, provided that:
 
 “(b) No economic assistance shall be furnished to any nation whose government is based upon that theory of government known as communism under the Foreign Assistance Act of 1961, as amended \[this chapter\] except section 214(b) \[section 2174(b) of this title\], unless the President determines that the withholding of such assistance would be contrary to the national interest and reports such determination to the House of Representatives and the Senate. Reports made pursuant to this subsection shall be published in the Federal Register within seven days of submission to the committees and shall contain a statement by the President of the reasons for such determination.”
 
-Similar provisions were contained in Pub. L. 87–872, title I, §109, Oct. 23, 1962, 76 Stat. 1165; Pub. L. 88–272, title I, §109, Jan. 6, 1964, 77 Stat. 859; Pub. L. 88–634, title I, §109, Oct. 7, 1964, 78 Stat. 1018; Pub. L. 89–273, title I, §109, Oct. 20, 1965, 79 Stat. 1004; Pub. L. 89–691, title I, §109, Oct. 15, 1966, 80 Stat. 1020; Pub. L. 90–249, title I, §109, Jan. 2, 1968, 81 Stat. 939; Pub. L. 90–581, title I, §109, Oct. 17, 1968, 82 Stat. 1140.
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 90–581, title I, §109, Oct. 17, 1968, 82 Stat. 1140.
+
+Pub. L. 90–249, title I, §109, Jan. 2, 1968, 81 Stat. 939.
+
+Pub. L. 89–691, title I, §109, Oct. 15, 1966, 80 Stat. 1020.
+
+Pub. L. 89–273, title I, §109, Oct. 20, 1965, 79 Stat. 1004.
+
+Pub. L. 88–634, title I, §109, Oct. 7, 1964, 78 Stat. 1018.
+
+Pub. L. 88–272, title I, §109, Jan. 6, 1964, 77 Stat. 859.
+
+Pub. L. 87–872, title I, §109, Oct. 23, 1962, 76 Stat. 1165.
 
 #### Restrictions on Assistance to Countries Selling, Furnishing, or Permitting Ships To Carry Certain Items to Cuba or to North Vietnam
 
@@ -502,13 +516,35 @@ Pub. L. 91–194, title I, §107, Feb. 9, 1970, 84 Stat. 8, provided that:
 
 “(b) No economic assistance shall be furnished under the Foreign Assistance Act of 1961, as amended \[this chapter\], to any country which sells, furnishes, or permits any ships under its registry to carry items of economic assistance to Cuba, so long as it is governed by the Castro regime, or to North Vietnam.”
 
-Similar provisions were contained in Pub. L. 87–872, title I, §107, Oct. 23, 1962, 76 Stat. 1165; Pub. L. 88–258, title I, §107, Jan. 6, 1964, 77 Stat. 859; Pub. L. 88–634, title I, §107, Oct. 7, 1964, 78 Stat. 1018; Pub. L. 89–273, title I, §107, Oct. 20, 1965, 79 Stat. 1004; Pub. L. 89–691, title I, §107, Oct. 15, 1966, 80 Stat. 1020; Pub. L. 90–249, title I, §107, Jan. 2, 1968, 81 Stat. 938; Pub. L. 90–581, title I, §107, Oct. 17, 1968, 82 Stat. 1139.
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 90–581, title I, §107, Oct. 17, 1968, 82 Stat. 1139.
+
+Pub. L. 90–249, title I, §107, Jan. 2, 1968, 81 Stat. 938.
+
+Pub. L. 89–691, title I, §107, Oct. 15, 1966, 80 Stat. 1020.
+
+Pub. L. 89–273, title I, §107, Oct. 20, 1965, 79 Stat. 1004.
+
+Pub. L. 88–634, title I, §107, Oct. 7, 1964, 78 Stat. 1018.
+
+Pub. L. 88–258, title I, §107, Jan. 6, 1964, 77 Stat. 859.
+
+Pub. L. 87–872, title I, §107, Oct. 23, 1962, 76 Stat. 1165.
 
 #### Restrictions on Assistance to Countries Selling, Furnishing or Permitting Ships To Carry Certain Items to North Vietnam
 
 Pub. L. 91–194, title I, §116, Feb. 9, 1970, 84 Stat. 10, forbid assistance under the Foreign Assistance Act of 1961, as amended, to any country that sold, furnished or permitted any ships under its registry to carry to North Vietnam certain enumerated items unless the President determined that the withholding of such assistance was contrary to the national interest of the United States and reported such determination to Congress.
 
-Similar provisions were contained in Pub. L. 89–273, title I, §116, Oct. 20, 1965, 79 Stat. 1005; Pub. L. 89–691, title I, §116, Oct. 15, 1966, 80 Stat. 1022; Pub. L. 90–249, title I, §116, Jan. 2, 1968, 81 Stat. 940; Pub. L. 90–581, title I, §116, Oct. 17, 1968, 82 Stat. 1141.
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 90–581, title I, §116, Oct. 17, 1968, 82 Stat. 1141.
+
+Pub. L. 90–249, title I, §116, Jan. 2, 1968, 81 Stat. 940.
+
+Pub. L. 89–691, title I, §116, Oct. 15, 1966, 80 Stat. 1022.
+
+Pub. L. 89–273, title I, §116, Oct. 20, 1965, 79 Stat. 1005.
 
 #### Interdiction of the Delivery of Offensive Weapons to Cuba
 
@@ -524,7 +560,7 @@ WHEREAS the Congress of the United States, in section 620(a) of the Foreign Assi
 
 WHEREAS the United States, in accordance with its international obligations, is prepared to take all necessary actions to promote national and hemispheric security by isolating the present Government of Cuba and thereby reducing the threat posed by its alignment with the communist powers:
 
-NOW, THEREFORE, I, JOHN F. KENNEDY, President of the United States of America, acting under theauthority of section 620(a) of the Foreign Assistance Act of 1961 (75 Stat. 445), as amended \[subsection (a) of this section\], do
+NOW, THEREFORE, I, JOHN F. KENNEDY, President of the United States of America, acting under the authority of section 620(a) of the Foreign Assistance Act of 1961 (75 Stat. 445), as amended \[subsection (a) of this section\], do
 
 1\. Hereby proclaim an embargo upon trade between the United States and Cuba in accordance with paragraphs 2 and 3 of this proclamation.
 
@@ -546,7 +582,7 @@ Inter-American Development Bank increase in resources, loan disapproval by Unite
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 283<i>l</i>, 2151f, 2151v, 2312, 2373, 2398, 2430c, 2878, 4305, 6004, 6008 of this title; title 50 App. section 2304.
+This section is referred to in sections 283<i>l</i>, 2151f, 2151v, 2312, 2373, 2398, 2430c, 4305, 6004, 6008 of this title; title 50 App. section 2304.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

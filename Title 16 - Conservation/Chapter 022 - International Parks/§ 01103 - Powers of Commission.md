@@ -10,7 +10,7 @@ The Commission shall have juridical personality and all powers and capacity nece
 
 &emsp;(d) to appoint its own employees, including an executive secretary who shall act as secretary at meetings of the Commission and to fix the terms and conditions of their employment and compensation;
 
-&emsp;(e) to delegate to the executive secretary or other officials and to authorize the redelegation of such authority respecting the employment and direction of its employees and theother responsibilities of the Commission as it deems desirable and appropriate;
+&emsp;(e) to delegate to the executive secretary or other officials and to authorize the redelegation of such authority respecting the employment and direction of its employees and the other responsibilities of the Commission as it deems desirable and appropriate;
 
 &emsp;(f) to adopt such rules of procedure as it deems desirable to enable it to perform the functions set forth in this agreement;
 

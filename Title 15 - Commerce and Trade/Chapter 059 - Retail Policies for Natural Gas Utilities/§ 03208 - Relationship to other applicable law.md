@@ -2,7 +2,7 @@
 
 Nothing in this chapter prohibits any State regulatory authority or nonregulated gas utility from adopting, pursuant to State law, any standard or rule affecting gas utilities which is different from any standard established by this chapter.
 
-(Pub. L. 95 617, title III, §308, Nov. 9, 1978, 92 Stat. 3153.)
+(Pub. L. 95–617, title III, §308, Nov. 9, 1978, 92 Stat. 3153.)
 
 #### Definitions
 

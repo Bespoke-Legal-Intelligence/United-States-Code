@@ -8,5 +8,5 @@ Nothing in this chapter shall be construed as authorizing the Secretary or any o
 
 Nothing in this chapter shall be construed as granting the Secretary or any other Federal official any authority to promulgate rules of general application to regulate the production, transportation, storage, safety, use or pricing of methane as a transportation fuel or vehicles which use methane as a transportation fuel.
 
-(Pub. L. 96 512, §11, Dec. 12, 1980, 94 Stat. 2833.)
+(Pub. L. 96–512, §11, Dec. 12, 1980, 94 Stat. 2833.)
 

@@ -273,165 +273,165 @@ If a taxpayer has a net capital gain for any taxable year, then the tax imposed 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 5; Feb. 26, 1964, Pub. L. 88–272, title I, §111, 78 Stat. 19; Nov. 13, 1966, Pub. L. 89–809, title I, §103(a)(2), 80 Stat. 1550; Dec. 30, 1969, Pub. L. 91–172, title VIII, §803(a), 83 Stat. 678; May 23, 1977, Pub. L. 95–30, title I, §101(a), 91 Stat. 127; Nov. 6, 1978, Pub. L. 95–600, title I, §101(a), 92 Stat. 2767; Aug. 13, 1981, Pub. L. 97–34, title I, §§101(a), 104(a), 95 Stat. 176, 188; Jan. 12, 1983, Pub. L. 97–448, title I, §101(a)(3), 96 Stat. 2366; Oct. 22, 1986, Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), 100 Stat. 2096, 2218, 2714; Nov. 10, 1988, Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), 102 Stat. 3349, 3561, 3562, 3686; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), 103 Stat. 2411, 2420, 2425; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), 104 Stat. 1388–403 to 1388–406, 1388–408; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), 107 Stat. 457, 459, 461, 467.)
 
-#### Tax Tables for Taxable Years Beginning in 1995
+#### Tax Tables for Taxable Years Beginning in 1996
 
-Revenue Procedure 94–72 provided:
+Revenue Procedure 95–53 provided:
 
 #### Section 1. Purpose
 
-This revenue procedure sets forth inflation adjusted items for 1995.
+This revenue procedure sets forth inflation adjusted items for 1996.
 
-#### Sec. 2. Changes made from preceding year
+#### Section 2. Change made from preceding year
 
-.01 The 36% and 39.6% rates for the tax rate tables are adjusted for inflation for the first time for 1995. The dollar amount limitations for the earned income tax credit are adjusted for inflation for 1995 after having been updated by statute for 1994.
+An amount used to provide an exception to reporting requirements under §6033(e)(3) of the Internal Revenue Code for certain exempt organizations with nondeductible lobbying expenditures is adjusted for inflation for tax years beginning in 1996. See section 3.11 of this revenue procedure.
 
-#### Sec. 3. 1995 adjusted items
+#### Section 3. 1996 adjusted items
 
 #### .01 Tax rate tables.
 
-The following adjusted tax rate tables are prescribed in lieu of the tables in subsections (a), (b), (c), (d), and (e) of §1 of the Internal Revenue Code with respect to tax years beginning in 1995.
+The following adjusted tax rate tables are prescribed in lieu of the tables in subsections (a), (b), (c), (d), and (e) of §1 of the Code with respect to tax years beginning in 1996.
 
 Table 1—Section 1(a).—Married Individuals Filing Joint Returns and Surviving Spouses
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
 | If Taxable Income Is: | The Tax Is: |
-| Not Over $39,000 | 15% of the taxable income |
-| Over $39,000 but not over $94,250 | $5,850 plus 28% of the excess over $39,000 |
-| Over $94,250 but not over $143,600 | $21,320 plus 31% of the excess over $94,250 |
-| Over $143,600 but not over $256,500 | $36,618.50 plus 36% of the excess over $143,600 |
-| Over $256,500 | $77,262.50 plus 39.6% of the excess over $256,500 |
+| Not Over $40,100 | 15% of the taxable income |
+| Over $40,100 but not over $96,900 | $6,015 plus 28% of the excess over $40,100 |
+| Over $96,900 but not over $147,700 | $21,919 plus 31% of the excess over $96,900 |
+| Over $147,700 but not over $236,750 | $37,667 plus 36% of the excess over $147,700 |
+| Over $263,750 | $79,445 plus 39.6% of the excess over $263,750 |
 
 Table 2—Section 1(b).—Heads of Households
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
 | If Taxable Income Is: | The Tax Is: |
-| Not Over $31,250 | 15% of the taxable income |
-| Over $31,250 but not over $80,750 | $4,687.50 plus 28% of the excess over $31,250 |
-| Over $80,750 but not over $130,800 | $18,547.50 plus 31% of the excess over $80,750 |
-| Over $130,800 but not over $256,500 | $34,063 plus 36% of the excess over $130,800 |
-| Over $256,500 | $79,315 plus 39.6% of the excess over $256,500 |
+| Not Over $32,150 | 15% of the taxable income |
+| Over $32,150 but not over $83,050 | $4,822.50 plus 28% of the excess over $32,150 |
+| Over $83,050 but not over $134,500 | $19,074.50 plus 31% of the excess over $83,050 |
+| Over $134,500 but not over $263,750 | $35,024 plus 36% of the excess over $134,500 |
+| Over $263,750 | $81,554 plus 39.6% of the excess over $263,750 |
 
 Table 3—Section 1(c).—Unmarried Individuals (Other Than Surviving Spouses and Heads of Households)
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
 | If Taxable Income Is: | The Tax Is: |
-| Not Over $23,350 | 15% of the taxable income |
-| Over $23,350 but not over $56,550 | $3,502.50 plus 28% of the excess over $23,350 |
-| Over $56,550 but not over $117,950 | $12,798.50 plus 31% of the excess over $56,550 |
-| Over $117,950 but not over $256,500 | $31,832.50 plus 36% of the excess over $117,950 |
-| Over $256,500 | $81,710.50 plus 39.6% of the excess over $256,500 |
+| Not Over $24,000 | 15% of the taxable income |
+| Over $24,000 but not over $58,150 | $3,600 plus 28% of the excess over $24,000 |
+| Over $58,150 but not over $121,300 | $13,162 plus 31% of the excess over $58,150 |
+| Over $121,300 but not over $263,750 | $32,738.50 plus 36% of the excess over $121,300 |
+| Over $263,750 | $84,020.50 plus 39.6% of the excess over $263,750 |
 
 Table 4—Section 1(d).—Married Individuals Filing Separate Returns
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
 | If Taxable Income Is: | The Tax Is: |
-| Not Over $19,500 | 15% of the taxable income |
-| Over $19,500 but not over $47,125 | $2,925 plus 28% of the excess over $19,500 |
-| Over $47,125 but not over $71,800 | $10,660 plus 31% of the excess over $47,125 |
-| Over $71,800 but not over $128,250 | $18,309.25 plus 36% of the excess over $71,800 |
-| Over $128,250 | $38,631.25 plus 39.6% of the excess over $128,250 |
+| Not Over $20,050 | 15% of the taxable income |
+| Over $20,050 but not over $48,450 | $3,007.50 plus 28% of the excess over $20,050 |
+| Over $48,450 but not over $73,850 | $10,959.50 plus 31% of the excess over $48,450 |
+| Over $73,850 but not over $131,875 | $18,833.50 plus 36% of the excess over $73,850 |
+| Over $131,875 | $39,722.50 plus 39.6% of the excess over $131,875 |
 
 Table 5—Section 1(e).—Estates and Trusts
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
 | If Taxable Income Is: | The Tax Is: |
-| Not Over $1,550 | 15% of the taxable income |
-| Over $1,550 but not over $3,700 | $232.50 plus 28% of the excess over $1,550 |
-| Over $3,700 but not over $5,600 | $834.50 plus 31% of the excess over $3,700 |
-| Over $5,600 but not over $7,650 | $1,423.50 plus 36% of the excess over $5,600 |
-| Over $7,650 | $2,161.50 plus 39.6% of the excess over $7,650 |
+| Not Over $1,600 | 15% of the taxable income |
+| Over $1,600 but not over $3,800 | $240 plus 28% of the excess over $1,600 |
+| Over $3,800 but not over $5,800 | $856 plus 31% of the excess over $3,800 |
+| Over $5,800 but not over $7,900 | $1,476 plus 36% of the excess over $5,800 |
+| Over $7,900 | $2,232 plus 39.6% of the excess over $7,900 |
 
 #### .02 Unearned income of minor children taxed as if parent's income (the “kiddie tax”).
 
 (1) Section 1(g) provides that the tax on the net unearned income of a child under the age of 14 is computed at the marginal rate of the child's parent. Under §1(g)(4)(A)(ii), net unearned income generally equals unearned income less the sum of (I) the amount in effect for the tax year under §63(c)(5)(A), plus (II) the greater of the amount described in (I) or certain itemized deductions.
 
-(2) The amount in effect for tax years beginning in 1995 under §63(c)(5)(A) is $650. See section 3.04(2) below. Accordingly, for tax years beginning in 1995 net unearned income will generally equal unearned income less the greater of $1,300 or $650 plus certain itemized deductions.
+(2) The amount in effect for tax years beginning in 1996 under §63(c)(5)(A) is $650. See section 3.04(2) below. Accordingly, for tax years beginning in 1996 net unearned income will generally equal unearned income less the greater of $1,300 or $650 plus certain itemized deductions.
 
-#### .03 Earned income tax credit
+#### .03 Earned income tax credit.
 
-(1) Section 32(a)(1) provides an earned income tax credit amount for certain taxpayers with one child, two or more children, or no children. For tax years beginning in 1995, the “maximum amount of the credit” is calculated by multiplying the “earned income amount” by the “credit percentage” as follows:
+(1) Section 32(a)(1) provides an earned income tax credit amount for certain taxpayers with one child, two or more children, or no children. For tax years beginning in 1996, the “maximum amount of the credit” is calculated by multiplying the “earned income amount” by the “credit percentage” as follows:
 
 &nbsp;
 
 | Type of Taxpayer | Credit Percentage | Earned Income Amount | Maximum Amount of the Credit |
 | :--- | :---: | :---: | ---: |
-| 1 child | 34&nbsp;&nbsp; | $6,160 | $2,094 |
-| 2 or more children | 36&nbsp;&nbsp; | $8,640 | $3,110 |
-| no children | &nbsp;7.65 | $4,100 | $  314 |
+| 1 child | 34&nbsp;&nbsp; | $6,330 | $2,152 |
+| 2 or more children | 40&nbsp;&nbsp; | $8,890 | $3,556 |
+| no children | &nbsp;7.65 | $4,220 | $  323 |
 
-(2) Section 32(a)(2) provides for the phaseout of the earned income tax credit. The amount of the reduction in the maximum amount of the credit caused by the phaseout is calculated by multiplying the “phaseout percentage” by the amount by which the taxpayer's adjusted gross income (or, if greater, earned income) exceeds the “threshold phaseout amount.” For tax years beginning in 1995, the “phaseout percentages,” the “threshold phaseout amounts,” and the “completed phaseout amounts” are as follows:
+(2) Section 32(a)(2) provides for the phaseout of the earned income tax credit. The amount of the reduction in the maximum amount of the credit caused by the phaseout is calculated by multiplying the “phaseout percentage” by the amount by which the taxpayer's adjusted gross income (or, if greater, earned income) exceeds the “threshold phaseout amount.” For tax years beginning in 1996, the “phaseout percentages,” the “threshold phaseout amounts,” and the “completed phaseout amounts” are as follows:
 
 &nbsp;
 
 | Type of Taxpayer | Phaseout Percentage | Threshold Phaseout Amount | Completed Phaseout Amount |
 | :--- | :---: | :---: | ---: |
-| 1 child | 15\.98 | $11,290 | $24,396 |
-| 2 or more children | 20\.22 | $11,290 | $26,673 |
-| no children | &nbsp;7.65 | $ 5,130 | $ 9,230 |
+| 1 child | 15\.98 | $11,610 | $25,078 |
+| 2 or more children | 21\.06 | $11,610 | $28,495 |
+| no children | &nbsp;7.65 | $ 5,280 | $ 9,500 |
 
 (3) The Internal Revenue Service will prescribe tables showing the amount of the earned income tax credit for each type of taxpayer.
 
 #### .04 Standard deduction.
 
-(1) The following adjusted standard deduction amounts are prescribed in lieu of the amounts set forth in §63(c)(2) with respect to tax years beginning in 1995.
+(1) The following adjusted standard deduction amounts are prescribed in lieu of the amounts set forth in §63(c)(2) with respect to tax years beginning in 1996.
 
 &nbsp;
 
 | Filing Status | Standard Deduction |
 | :--- | ---: |
-| Married Individuals Filing Joint Returns and Surviving Spouses | $6,550 |
-| Heads of Households | $5,750 |
-| Unmarried Individuals (Other Than Surviving Spouses and Heads of Households) | $3,900 |
-| Married Individuals Filing a Separate Return | $3,275 |
+| Married Individuals Filing Joint Returns and Surviving Spouses | $6,700 |
+| Heads of Households | $5,900 |
+| Unmarried Individuals (Other Than Surviving Spouses and Heads of Households) | $4,000 |
+| Married Individuals Filing a Separate Return | $3,350 |
 
-(2) Under §63(c)(5) for tax years beginning in 1995, the standard deduction for an individual who may be claimed as a dependent by another taxpayer for a tax year beginning in the calendar year in which the individual's tax year begins, cannot exceed the greater of (A) $650 or (B) the amount of the individual's earned income.
+(2) Under §63(c)(5) for tax years beginning in 1996, the standard deduction for an individual who may be claimed as a dependent by another taxpayer for a tax year beginning in the calendar year in which the individual's tax year begins, cannot exceed the greater of (A) $650 or (B) the amount of the individual's earned income.
 
-(3) Under §63(f) for tax years beginning in 1995, the additional standard deduction amounts for the aged and for the blind are $750 for each. These amounts are each increased to $950 if the individual is also unmarried and not a surviving spouse.
+(3) Under §63(f) for tax years beginning in 1996, the additional standard deduction amounts for the aged and for the blind are $800 for each. These amounts are each increased to $1,000 if the individual is also unmarried and not a surviving spouse.
 
 #### .05 Overall limitation on itemized deductions.
 
 (1) Section 68 provides that the amount of itemized deductions otherwise allowable for the tax year shall be reduced by the lesser of (1) 3 percent of the excess of adjusted gross income over the “applicable amount,” or (2) 80 percent of the amount of certain itemized deductions otherwise allowable for the tax year.
 
-(2) The “applicable amount” for tax years beginning in 1995 is $114,700 ($57,350 in the case of a separate return by a married individual within the meaning of §7703).
+(2) The “applicable amount” for tax years beginning in 1996 is $117,950 ($58,975 in the case of a separate return by a married individual within the meaning of §7703).
 
 #### .06 Qualified transportation fringe.
 
 (1) Section 132(f) provides an exclusion from gross income for certain employer-provided transportation referred to as a “qualified transportation fringe.” A “qualified transportation fringe” means any of the following: transportation in a commuter highway vehicle between the employee's residence and place of employment, any transit pass, and qualified parking. Section 132(f)(2)(A) limits the exclusion for the aggregate of the transportation in a commuter highway vehicle and the transit pass to $60 per month (the “$60 vehicle/transit” limitation). Section 132(f)(2)(B) limits the exclusion for qualified parking to $155 per month (the “$155 parking” limitation).
 
-(2) For tax years beginning in 1995, the “$60 vehicle/transit” limitation is $60 and the “$155 parking” limitation is $160.
+(2) For tax years beginning in 1996, the “$60 vehicle/transit” limitation is $65 and the “$155 parking” limitation is $165.
 
 #### .07 Income from United States savings bonds for taxpayers who pay qualified higher education expenses.
 
 (1) Section 135 provides an exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses. Section 135(b)(2) provides for the phaseout of the exclusion. The amount of the reduction in the exclusion caused by the phaseout is calculated by multiplying the amount otherwise excludable by a fraction. The numerator of the fraction is the excess of the taxpayer's modified adjusted gross income over the threshold amount ($60,000 for joint returns or $40,000 for others) and the denominator is $30,000 for joint returns or $15,000 for others.
 
-(2) For tax years beginning in 1995, the amounts of modified adjusted gross income above which the phaseout of the exclusion begins and the amounts at which the benefit is completely phased out (“completed phaseout amounts”) are as follows:
+(2) For tax years beginning in 1996, the amounts of modified adjusted gross income above which the phaseout of the exclusion begins “(threshold phaseout amounts”) and the amounts at which the benefit is completely phased out (“completed phaseout amounts”) are as follows:
 
 &nbsp;
 
 | Type of Taxpayer | Threshold Phaseout Amount | Completed Phaseout Amount |
 | :--- | :---: | ---: |
-| Code §1(a) | $63,450 | $93,450 |
-| Others | $42,300 | $57,300 |
+| Code §1(a) | $65,250 | $95,250 |
+| Others | $43,500 | $58,500 |
 
 #### .08 Personal exemption.
 
-(1) Section 151(b) generally allows a taxpayer an exemption for himself or herself. Section 151(c) generally allows a taxpayer additional exemptions for dependents as defined in §152. The personal exemption for tax years beginning in 1995 is $2,500.
+(1) Section 151(b) generally allows a taxpayer an exemption for himself or herself. Section 151(c) generally allows a taxpayer additional exemptions for dependents as defined in §152. The personal exemption for tax years beginning in 1996 is $2,550.
 
-(2) Section 151(d)(3) provides for the phaseout of the tax benefit of the personal exemptions allowed by §151. The reduction in the amount of personal exemptions caused by the phaseout is calculated by reducing the total amount of the personal exemptions by 2 percent for each $2,500 increment (or portion thereof) of adjusted gross income in excess of a threshold phaseout amount. For tax years beginning in 1995, the “threshold phaseout amounts” and the “completed phaseout amounts” are as follows:
+(2) Section 151(d)(3) provides for the phaseout of the tax benefit of the personal exemptions allowed by §151. The reduction in the amount of personal exemptions caused by the phaseout is calculated by reducing the total amount of the personal exemptions by 2 percent for each $2,500 increment (or portion thereof) of adjusted gross income in excess of a threshold phaseout amount. For tax years beginning in 1996, the “threshold phaseout amounts” and the “completed phaseout amounts” are as follows:
 
 &nbsp;
 
 | Type of Taxpayer | Threshold Phaseout Amount | Completed Phaseout Amount After |
 | :--- | :---: | ---: |
-| Code §1(a) | $172,050 | $294,550 |
-| Code §1(b) | $143,350 | $265,850 |
-| Code §1(c) | $114,700 | $237,200 |
-| Code §1(d) | $ 86,025 | $147,275 |
+| Code §1(a) | $176,950 | $299,450 |
+| Code §1(b) | $147,450 | $269,950 |
+| Code §1(c) | $117,950 | $240,450 |
+| Code §1(d) | $ 88,475 | $149,725 |
 
 #### .09 Insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns.
 
@@ -445,79 +445,91 @@ Table 5—Section 1(e).—Estates and Trusts
 
 &emsp;(c) In connection with a request for a charitable contribution, the charity mails or otherwise distributes free, unordered items to patrons, and the cost of such items (in the aggregate) distributed to any single patron in a calendar year is not more than a “low cost article” under §513(h)(2).
 
-(3) For tax years beginning in 1995, the “$50 benefit” limitation is $66, the “$25 payment” limitation is $33, and the “low cost article” limitation is $6.60.
+(3) For tax years beginning in 1996, the “$50 benefit” limitation is $67, the “$25 payment” limitation is $33.50, and the “low cost article” limitation is $6.70.
 
 #### .10 Luxury automobile excise tax.
 
 (1) Section 4001(a) imposes an excise tax on the first retail sale of any passenger vehicle to the extent the price exceeds $30,000 (the “$30,000 amount”). Section 4003(a) imposes an excise tax on the installation of parts or accessories on a passenger vehicle within six months of the date after the vehicle was first placed in service, to the extent the price of all parts and accessories, including installation, and the price of the vehicle exceed the “$30,000 amount.”
 
-(2) The “$30,000 amount” for calendar year 1995 is $32,000.
+(2) The “$30,000 amount” for calendar year 1996 is $34,000.
 
-#### Sec. 4. Computation of inflation adjustments
+#### .11 Reporting exception for certain exempt organizations with nondeductible lobbying expenditures.
 
-.01 Section 1(f)(1) provides that not later than December 15 of each calendar year, the Secretary shall prescribe inflation-adjusted tax rate tables that apply in lieu of the tax rate tables in §1 with respect to tax years beginning in the succeeding calendar year.
+(1) Section 6033(e)(1)(A) provides that certain exempt organizations that pay or incur nondeductible lobbying expenditures must include the total of those expenditures on their annual returns and must notify their members with a reasonable estimate of the portion of dues allocated to those expenditures. Section 6033(e)(3) provides that §6033(e)(1)(A) shall not apply to an organizationthat establishes to the satisfaction of the Secretary that substantially all of its dues are nondeductible without regard to the lobbying expenditure restrictions. Section 4.02 of Rev. Proc. 95–35, 1995–32 I.R.B. 51, provides that §501(c)(4) social welfare organizations and §501(c)(5) agricultural and horticultural organizations are treated as satisfying §6033(e)(3) if either (1) more than 90 percent of all annual dues are received from persons, families, or entities who each pay less than $50 (the “$50 exception” amount), or (2) more than 90 percent of all annual dues are received from certain exempt entities.
 
-Under §1(f)(3), the inflation adjustment for a calendar year is the percentage (if any) by which the Consumer Price Index (CPI) for the preceding calendar year exceeds the CPI for the calendar year 1992. However, §1(f)(7)(A) provides that in prescribing the inflation adjustments for the 36 percent and 39.6 percent tax rate brackets, the preceding calendar year's CPI is compared with the CPI for thecalendar year 1993. For purposes of computing the inflation adjustment, §1(f)(4) defines the CPI as the average of the 12 monthly CPIs for the 12-month period ending on August 31 of such calendar year. Under §1(f)(5), the CPI is that for all-urban consumers published by the Department of Labor.
+(2) For tax years beginning in 1996, the “$50 exception” amount is $52.
 
-Section 1(f)(2)(A) provides that the inflation adjustment is reflected in the tax rate tables by increasing the minimum and maximum dollar amounts for each rate bracket. Under §1(f)(6), an adjusted bracket amount is “rounded down” to the nearest multiple of $50 ($25 in the case of married individuals filing separately).
+#### Section 4. Computation of inflation adjustments
 
-.02 Section 1(g)(4) uses the limitation on the standard deduction for certain dependents under §63(c)(5)(A) in computing the “kiddie tax.” That limitation is adjusted for inflation under §63(c)(4). The inflation adjustment computation under §63(c)(4) is described below in section 4.04.
+#### .01 Tax rate tables.
 
-.03 Section 32(i) provides that the “earned income amounts” and “phaseout amounts,” which limit the earned income tax credit, are adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1993. Under §32(i)(2), an adjusted amount is rounded to the nearest multiple of $10 (or, if the adjusted amount is a multiple of $5, it is increased to the next highest multiple of $10).
+(1) Section 1(f)(1) provides that not later than December 15 of each calendar year, the Secretary shall prescribe inflation-adjusted tax rate tables that apply in lieu of the tax rate tables in §1 with respect to tax years beginning in the succeeding calendar year.
 
-.04 Under §63(c)(4), the standard deduction amounts (including the limitation for certain dependents and the additional standard deduction amounts for the aged and for the blind) are adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1987. Under §1(f)(6), an adjusted amount is “rounded down” to the nearest multiple of $50 ($25 in the case of the basic standard deduction for married individuals filing separately).
+(2) Under §1(f)(3), the inflation adjustment for a calendar year is the percentage (if any) by which the Consumer Price Index (CPI) for the preceding calendar year exceeds the CPI for the calendar year 1992. However, §1(f)(7)(A) provides that in prescribing the inflation adjustments for the 36 percent and 39.6 percent tax rate brackets, the preceding calendar year's CPI is compared with the CPI for the calendar year 1993. For purposes of computing the inflation adjustment, §1(f)(4) defines the CPI as the average of the 12 monthly CPIs for the 12-month period ending on August 31 of such calendar year. Under §1(f)(5), the CPI is that for all-urban consumers published by the Department of Labor.
 
-.05 Section 68(b)(2) provides that the “applicable amount” for the overall limitation on itemized deductions is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1990. Under §1(f)(6), the adjusted “applicable amount” is “rounded down” to the nearest multiple of $50 ($25 in the case of married individuals filing separately).
+(3) Section 1(f)(2)(A) provides that the inflation adjustment is reflected in the tax rate tables by increasing the minimum and maximum dollar amounts for each rate bracket. Under §1(f)(6), an adjusted bracket amount is “rounded down” to the nearest multiple of $50 ($25 in the case of married individuals filing separately).
 
-.06 Section 132(f) provides that the limitation on the amount of the exclusion from gross income for a qualified transportation fringe is adjusted for inflation under the method described in §1(f)(3). See section 4.01 above. Under §132(f)(6)(B), an increased amount that is not a multiple of $5 is “rounded down” to the next lowest multiple of $5.
+.02 Kiddie tax. Section 1(g)(4) uses the limitation on the standard deduction for certain dependents under §63(c)(5)(A) in computing the “kiddie tax.” That limitation is adjusted for inflation under §63(c)(4). The inflation adjustment computation under §63(c)(4) is described below in section 4.04.
 
-.07 Section 135(b)(2)(B) provides that the dollar amount at which the phaseout of the exclusion (of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses) begins is adjusted for inflation under the method described in §1(f)(3). The preceding calendar year's CPI is compared with the CPI for the calendar year 1992. The adjusted dollar amount is rounded to the nearest multiple of $50 (if the adjusted figure is a multiple of $25, it is increased to the next highest multiple of $50) under §135(b)(2)(C).
+.03 Earned income tax credit. Section 32(i) provides that the “earned income amounts” and “phaseout amounts,” which limit the earned income tax credit, are adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1993. Under §32(i)(2), an adjusted amount is rounded to the nearest multiple of $10 (or, if the adjusted amount is a multiple of $5, it is increased to the next highest multiple of $10).
 
-.08 Section 151(d)(4)(A) provides that the personal exemption amount is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1988. The adjusted exemption is “rounded down” to the nearest multiple of $50 under §1(f)(6).
+.04 Standard deduction. Under §63(c)(4), the standard deduction amounts (including the limitation for certain dependents and the additional standard deduction amounts for the aged and for the blind) are adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1987. Under §1(f)(6), an adjusted amount is “rounded down” to the nearest multiple of $50 ($25 in the case of the basic standard deduction for married individuals filing separately).
 
-Section 151(d)(4)(B) provides that the “threshold amounts” at which the phaseout of the tax benefit of the personal exemptions begins are adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1990. Under §1(f)(6), an adjusted “threshold amount” is “rounded down” to the nearest multiple of $50 ($25 in the case of married individuals filing separately).
+.05 Overall limitation on itemized deductions. Section 68(b)(2) provides that the “applicable amount” for the overall limitation on itemized deductions is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1990. Under §1(f)(6), the adjusted “applicable amount” is “rounded down” to the nearest multiple of $50 ($25 in the case of married individuals filing separately).
 
-.09 Section 513(h)(2)(C) provides that the maximum cost of a “low cost article” is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1987.
+.06 Qualified transportation fringe. Section 132(f) provides that the limitation on the amount of the exclusion from gross income for a qualified transportation fringe is adjusted for inflation under the method described in §1(f)(3). See section 4.01 above. Under §132(f)(6)(B), an increased amount that is not a multiple of $5 is “rounded down” to the next lowest multiple of $5.
 
-Rev. Proc. 90–12 provides for the adjustment of the “low cost article” and the “$25 payment” limitations in that revenue procedure as provided under §513(h)(2)(C). The “$50 benefit” limitation in that revenue procedure is adjusted in the same manner.
+.07 Income from United States savings bonds for taxpayers who pay qualified higher education expenses. Section 135(b)(2)(B) provides that the dollar amount at which the phaseout of the exclusion (of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses) begins is adjusted for inflation under the method described in §1(f)(3). The preceding calendar year's CPI is compared with the CPI for the calendar year 1992. The adjusted dollar amount is rounded to the nearest multiple of $50 (if the adjusted figure is a multiple of $25, it is increased to the next highest multiple of $50) under §135(b)(2)(C).
 
-.10 Section 4001(e) provides that the “$30,000 amount” threshold for the excise tax on a luxury automobile in §§4001(a) and 4003(a) is adjusted for inflation. The adjustment, before rounding, is the excess of (A) the “$30,000 amount” increased by the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1990, over (B) the dollar amount in effect under §4001(a) for the calendar year. Under §4001(e)(1)(B) the adjusted “$30,000 amount” is “rounded down” to the nearest multiple of $2,000.
+#### .08 Personal exemptions.
 
-Section 4001(e)(1) further provides that the adjusted and rounded amount shall apply to the calendar year subsequent to the year on which the cost of living calculations are based. This means that the inflation adjustment factor for the $30,000 amount for tax years beginning in 1995 is computed by comparing the CPI for calendar year 1993 with the CPI for the calendar year 1990.
+(1) Section 151(d)(4)(A) provides that the personal exemption amount is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1988. The adjusted exemption is “rounded down” to the nearest multiple of $50 under §1(f)(6).
 
-#### Sec. 5. 1995 inflation adjustment factors
+(2) Section 151(d)(4)(B) provides that the “threshold amounts” at which the phaseout of the tax benefit of the personal exemptions begins are adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1990. Under §1(f)(6), an adjusted “threshold amount” is “rounded down” to the nearest multiple of $50 ($25 in the case of married individuals filing separately).
 
-#### .01 1993 base year adjustments.
+#### .09 Insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns.
 
-The CPI for 1994 is 146.9000000000 and the CPI for 1993 is 143.1750000000. This results in an inflation adjustment factor of 1.0260171119. This factor applies to the 36 percent and 39.6 percent brackets of the tax rate tables and to the earned income tax credit for tax years beginning in 1995.
+(1) Section 513(h)(2)(C) provides that the maximum cost of a “low cost article” is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1987.
 
-#### .02 1992 base year adjustments.
+(2) Rev. Proc. 90–12 provides for the adjustment of the “low cost article” and the “$25 payment” limitations in that revenue procedure as provided under §513(h)(2)(C). The “$50 benefit” limitation in that revenue procedure is adjusted in the same manner.
 
-The CPI for 1994 is 146.9000000000 and the CPI for 1992 is 138.9250000000. This results in an inflation adjustment factor of 1.0574050747. This factor applies to the 15 percent, 28 percent, and 31 percent brackets of the tax rate tables, to the qualified higher education expense exclusion, and to the qualified transportation fringe limitations for tax years beginning in 1995.
+#### .10 Luxury automobile excise tax.
 
-#### .03 1990 base year adjustments.
+(1) Section 4001(e) provides that the “$30,000 amount” threshold for the excise tax on a luxury automobile in §§4001(a) and 4003(a) is adjusted for inflation. The adjustment, before rounding, is the excess of (A) the “$30,000 amount” increased by the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1990, over (B) the dollar amount in effect under §4001(a) for the calendar year. Under §4001(e)(1)(B) the adjusted “$30,000 amount” is “rounded down” to the nearest multiple of $2,000.
 
-(1) The CPI for 1994 is 146.9000000000 and the CPI for 1990 is 128.0583333333. This results in an inflation adjustment factor of 1.1471334678. This factor applies to the phaseout of personal exemptions and to the limitation on itemized deductions for tax years beginning in 1995.
+(2) Section 4001(e)(1) further provides that the adjusted and rounded amount shall apply to the calendar year subsequent to the year on which the cost of living calculations are based. This means that the inflation adjustment factor for the $30,000 amount for tax years beginning in 1996 is computed by comparing the CPI for calendar year 1994 with the CPI for the calendar year 1990.
 
-(2) The CPI for 1993 is 143.1750000000 and the CPI for 1990 is 128.0583333333. This results in an inflation adjustment factor of 1.1180451617. This factor applies to the luxury automobile excise tax threshold for tax years beginning in 1995.
+.11 Reporting Exception for Certain Exempt Organizations with Nondeductible Lobbying Expenditures. Section 5.05 of Rev. Proc. 95–35 provides that the “$50 exception” amount is adjusted for inflation under the method described in §1(f)(3), except that the preceding calendar year's CPI is compared with the CPI for the calendar year 1994. The adjusted “$50 exception” amount is rounded up to the next highest dollar.
 
-#### .04 1988 base year adjustments.
+#### Section 5. 1996 inflation adjustment factors
 
-The CPI for 1994 is 146.9000000000 and the CPI for 1988 is 116.6166666667. This results in an inflation adjustment factor of 1.2596827212. This factor applies to the personal exemption for tax years beginning in 1995.
+.01 1994 base year adjustments. The CPI for 1995 is 151.0750000000 and the CPI for 1994 is 146.9000000000. This results in an inflation adjustment factor of 1.0284206943. This factor applies to the reporting exception for certain exempt organizations with nondeductible lobbying expenditures for tax years beginning in 1996.
 
-#### .05 1987 base year adjustments.
+.02 1993 base year adjustments. The CPI for 1995 is 151.0750000000 and the CPI for 1993 is 143.1750000000. This results in an inflation adjustment factor of 1.0551772307. This factor applies to the 36 percent and 39.6 percent brackets of the tax rate tables, and to the earned income tax credit for tax years beginning in 1996.
 
-The CPI for 1994 is 146.9000000000 and the CPI for 1987 is 111.9833333333. This results in an inflation adjustment factor of 1.3118023515. This factor applies to the “kiddie tax,” the standard deduction amounts, and the insubstantial benefit limitations for charitable contributions for tax years beginning in 1995.
+.03 1992 base year adjustments. The CPI for 1995 is 151.0750000000 and the CPI for 1992 is 138.9250000000. This results in an inflation adjustment factor of 1.0874572611. This factor applies to the 15 percent, 28 percent, and 31 percent brackets of the tax rate tables, to the qualified higher education expense exclusion, and to the qualified transportation fringe limitations for tax years beginning in 1996.
 
-#### Sec. 6. Effective date
+#### .04 1990 base year adjustments.
 
-For income tax purposes, this revenue procedure applies to tax years beginning in 1995. For excise tax purposes, this revenue procedure applies to transactions occurring in calendar year 1995.
+(1) The CPI for 1995 is 151.0750000000 and the CPI for 1990 is 128.0583333333. This results in an inflation adjustment factor of 1.1797357975. This factor applies to the phaseout of personal exemptions and to the limitation on itemized deductions for tax years beginning in 1996.
+
+(2) The CPI for 1994 is 146.9000000000 and the CPI for 1990 is 128.0583333333. This results in an inflation adjustment factor of 1.1471334678. This factor applies to the luxury automobile excise tax threshold for tax years beginning in 1996.
+
+.05 1988 base year adjustments. The CPI for 1995 is 151.0750000000 and the CPI for 1988 is 116.6166666667. This results in an inflation adjustment factor of 1.2954837788. This factor applies to the personal exemption for tax years beginning in 1996.
+
+.06 1987 base year adjustments. The CPI for 1995 is 151.0750000000 and the CPI for 1987 is 111.9833333333. This results in an inflation adjustment factor of 1.3490846852. This factor applies to the “kiddie tax,” the standard deduction amounts, and the insubstantial benefit limitations for charitable contributions for tax years beginning in 1996.
+
+#### Section 6. Effective date
+
+For income tax purposes, this revenue procedure applies to tax years beginning in 1996. For excise tax purposes, this revenue procedure applies to transactions occurring in calendar year 1996. Congress is currently considering legislation that may affect this revenue procedure. If that legislation is enacted, this revenue procedure will be updated accordingly.
 
 #### Tax Tables for Certain Tax Years
 
-Revenue Procedure 93–49 provided the following inflation adjusted items for tax years beginning in 1994 (1) the tax rate tables for individuals and for estates and trusts; (2) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (3) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (4) the overall limitation on itemized deductions; (5) the limitation on exclusion for employer-provided qualified transportation fringe; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the personal exemption and the phaseout of the tax benefit of personal exemptions; (8) the insubstantial benefit limitations for contributions associated with charitable fund-faising campaigns; and (9) the luxury automobile excise tax threshold amount.
+Revenue Procedure 94–72 provided the following inflation adjusted items for tax years beginning in 1995 (1) the tax rate tables for individuals and for estates and trusts; (2) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (3) the earned income tax credit and the phaseout of the earned income tax credit; (4) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (5) the overall limitation on itemized deductions; (6) the limitation on exclusion for employer-provided qualified transportation fringe; (7) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (8) the personal exemption and the phaseout of the tax benefit of personal exemptions; (9) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns; and (10) the luxury automobile excise tax threshold amount.
 
-Revenue Procedure 92–102 provided the following inflation adjusted items for tax years beginning in 1993 (1) the tax rate tables for individuals and for estates and trusts; (2) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (3) the personal exemption and the phaseout of the tax benefit of personal exemptions; (4) the earned income credit; (5) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the overall limitation on itemized deductions; and (8) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns.
+Revenue Procedure 93–49 provided the following inflation adjusted items for tax years beginning in 1994 (1) the tax rate tables for individuals and for estates and trusts; (2) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (3) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (4) the overall limitation on itemized deductions; (5) the limitation on exclusion for employer-provided qualified transportation fringe; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the personal exemption and the phaseout of the tax benefit of personal exemptions; (8) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns; and (9) the luxury automobile excise tax threshold amount.
+
+Revenue Procedure 92–102 provided the following inflation adjusted items for tax years beginning in 1993 (1) the tax rate tables for individuals and for estates and trusts; (2) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (3) the personal exemption and the phaseout of the tax benefitof personal exemptions; (4) the earned income credit; (5) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the overall limitation on itemized deductions; and (8) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns.
 
 Revenue Procedure 91–65 provided the following inflation adjusted items for tax years beginning in 1992 (1) the tax rate tables for individuals and for estates and trusts; (2) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (3) the personal exemption and the phaseout of the tax benefit of personal exemptions; (4) the earned income credit; (5) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; and (7) the overall limitation on itemized deductions.
 
@@ -587,7 +599,7 @@ Years to which subsection applies.—This subsection shall apply to—
 
 &emsp;“(A) any taxable year beginning in 1987, and
 
-&emsp;“(B) any taxable year beginning after 1987 if the highest rate of tax set forth in subsection (a), (b), (c), (d), or (e) (whichever applies) for such taxable year exceeds 28 percent.”
+&emsp;“(B) any taxable year beginning after 1987 if the highest rate of tax set forth in subsection (a), (b), (c),\(d), or (e) (whichever applies) for such taxable year exceeds 28 percent.”
 
 1989—Subsec. (f)(6)(B). Pub. L. 101–239, §7831(a), substituted “subsection (c)(4) of section 63 (as it applies to subsections (c)(5)(A) and (f) of such section) and section 151(d)(3)” for “section 63(c)(4)”.
 
@@ -641,7 +653,7 @@ Subsec. (j). Pub. L. 99–514, §302(a), added subsec. (j).
 
 Subsec. (f). Pub. L. 97–34, §104(a), added subsec. (f).
 
-1978—Subsec. (a). Pub. L. 95–600 generally made a downward revision of tax table for married individuals filing joint returns and surviving spouses resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $3,400 orless was substituted for a bottom bracket imposing no tax on taxable income of $3,200 or less.
+1978—Subsec. (a). Pub. L. 95–600 generally made a downward revision of tax table for married individuals filing joint returns and surviving spouses resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $3,400 or less was substituted for a bottom bracket imposing no tax on taxable income of $3,200 or less.
 
 Subsec. (b). Pub. L. 95–600 generally made a downward revision of tax table for heads of household resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $2,300 or less was substituted for a bottom bracket imposing no tax on taxable income of $2,200 or less.
 
@@ -659,7 +671,7 @@ Subsec. (c). Pub. L. 95–30 generally made a downward revision of tax table for
 
 Subsec. (d). Pub. L. 95–30 generally made a downward revision of tax table for married individuals filing separate returns resulting in a table under which, among other changes, a bottom bracket imposing no tax on taxable income of $1,600 or less was substituted for a bottom bracket under which a tax of 14% had been imposed on a taxable income of $500 or less. Provisions making table applicable to estates and trusts were struck out. See subsec. (e).
 
-Subsec. (e). Pub. L. 95–30 added subsec. (e) consisting of table formerly contained in subsec. (d) but without any downward revision and limited so as to apply only to estates and trusts.
+Subsec. (e). Pub. L. 95–30 added subsec. (e) consisting of table formerly contained in subsec. (d) but withoutany downward revision and limited so as to apply only to estates and trusts.
 
 1969—Subsec. (a). Pub. L. 91–172 substituted a table of rates of tax for married individuals filing joint returns and surviving spouses for the tables of rates of tax on individuals. For rates of taxes on unmarried individuals and married persons filing separate returns, see subsecs. (c) and (d) of this section.
 
@@ -707,7 +719,7 @@ General Rule.—Except as otherwise provided in this title, any amendment made b
 
 “(b)
 
-Waiver of Estimated Tax Penalties.—No addition to tax shall be made under section 6654 or 6655 of the 1986 Code for any period before April 16, 1989 (March 16, 1989 in the case of a taxpayer subject to section 6655of the 1986 Code) with respect to any underpayment to the extent such underpayment was created or increased by any provision of this title or title II \[see Tables for classification\].”
+Waiver of Estimated Tax Penalties.—No addition to tax shall be made under section 6654 or 6655 of the 1986 Code for any period before April 16, 1989 (March 16, 1989 in the case of a taxpayer subject to section 6655 of the 1986 Code) with respect to any underpayment to the extent such underpayment was created or increased by any provision of this title or title II \[see Tables for classification\].”
 
 Section 6006(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
 
@@ -745,7 +757,7 @@ Section 109 of title I of Pub. L. 97–448 provided that: “Except as otherwise
 
 #### Effective Date of 1981 Amendment
 
-Section 101(f)(1) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §101(a)(1), Jan. 12, 1983, 96 Stat. 2365, provided that: “The amendments made by subsections (a), (c), and (d) \[amending this section and sections 3, 21, 55, 541, and 1304 of this title and repealing section 1348 of this title\] shall apply to taxable years beginning after December 31, 1981; except that the amendment made by paragraph (3) of subsection (d) \[amending section 21 of this title\] shall apply to taxable years ending after December 31, 1981.”
+Section 101(f)(1) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §101(a)(1), Jan. 12, 1983, 96 Stat. 2365,provided that: “The amendments made by subsections (a), (c), and (d) \[amending this section and sections 3, 21, 55, 541, and 1304 of this title and repealing section 1348 of this title\] shall apply to taxable years beginning after December 31, 1981; except that the amendment made by paragraph (3) of subsection (d) \[amending section 21 of this title\] shall apply to taxable years ending after December 31, 1981.”
 
 Section 104(e) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 63, 151, 6012, and 6013 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
@@ -799,7 +811,7 @@ Pub. L. 102–318, §1, July 3, 1992, 106 Stat. 290, provided that: “This Act 
 
 #### Short Title of 1991 Amendments
 
-Pub. L. 102–240, title VIII, §8001(a), Dec. 18, 1991, 105 Stat. 2203, provided that: “This title \[enacting section 9511 of this title, amending sections 4041, 4051, 4071, 4081, 4091, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, 9503, and 9504 of this title and section 460<i>l</i>–11 of Title 16, Conservation, and enacting provisions set out as notes under section 9503 of this title, section 101 of Title 23, Highways, and section 1601 of former Title 49, Transportation\] may be cited as the ‘Surface Transportation Revenue Act of 1991’.”
+Pub. L. 102–240, title VIII, §8001(a), Dec. 18, 1991, 105 Stat. 2203, provided that: “This title \[enacting section9511 of this title, amending sections 4041, 4051, 4071, 4081, 4091, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, 9503, and 9504 of this title and section 460<i>l</i>–11 of Title 16, Conservation, and enacting provisions set out as notes under section 9503 of this title, section 101 of Title 23, Highways, and section 1601 of former Title 49, Transportation\] may be cited as the ‘Surface Transportation Revenue Act of 1991’.”
 
 Pub. L. 102–227, §1(a), Dec. 11, 1991, 105 Stat. 1686, provided that: “This Act \[amending sections 25, 28, 41, 42, 48, 51, 57, 120, 127, 143, 144, 162, 864, and 6655 of this title and enacting provisions set out as notes under sections 25, 28, 42, 51, 120, 127, 143, 144, 162, 864, and 6655 of this title\] may be cited as the ‘Tax Extension Act of 1991’.”
 
@@ -857,7 +869,7 @@ Pub. L. 97–424, title V, §501(a), Jan. 6, 1983, 96 Stat. 2168, provided that:
 
 #### Short Title of 1982 Amendments
 
-Pub. L. 97–362, §1(a), Oct. 25, 1982, 96 Stat. 1726, provided that: “This Act \[amending sections 8509 and 8521 of Title 5, Government Organization and Employees, sections 48, 172, 4401, 4411, 6051, 7447, 7448, 7456, 7459, and 7463 of this title, and section 601 of former Title 46, Shipping, enacting provisions set out as notes under sections 8509 and 8521 of Title 5 and sections 48, 172, 336, 4401, 4411, 6051, 7448, and 7463 of this title, and amending provisions set out as notes under section 2291 of Title 19, Customs Duties, and section 3306 of this title\] may be cited as the ‘Miscellaneous Revenue Act of 1982’.”
+Pub. L. 97–362, §1(a), Oct. 25, 1982, 96 Stat. 1726, provided that: “This Act \[amending sections 8509 and 8521 of Title 5, Government Organization and Employees, sections 48, 172, 4401, 4411, 6051, 7447, 7448, 7456, 7459, and 7463 of this title, and section 601 of former Title 46,Shipping, enacting provisions set out as notes under sections 8509 and 8521 of Title 5 and sections 48, 172, 336, 4401, 4411, 6051, 7448, and 7463 of this title, and amending provisions set out as notes under section 2291 of Title 19, Customs Duties, and section 3306 of this title\] may be cited as the ‘Miscellaneous Revenue Act of 1982’.”
 
 Pub. L. 97–354, §1(a), Oct. 19, 1982, 96 Stat. 1669, provided that: “This Act \[enacting sections 1361 to 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 29, 31, 40, 41, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1361 of this title\] may be cited as the ‘Subchapter S Revision Act of 1982’.”
 
@@ -883,7 +895,7 @@ Pub. L. 96–499, title XI, §1100, Dec. 5, 1980, 94 Stat. 2660, provided: “Th
 
 Pub. L. 96–499, title XI, subtitle A (§§1101–1104), §1101, Dec. 5, 1980, 94 Stat. 2660, provided: “This subtitle \[enacting section 103A of this title, amending section 103 of this title, and enacting provisions set out as a note under section 103A of this title\] may be cited as the ‘Mortgage Subsidy Bond Tax Act of 1980’.”
 
-Pub. L. 96–499, title XI, §1121, Dec. 5, 1980, 94 Stat. 2682, provided: “This subtitle \[subtitle C (§§1121–1125) of title XI of Pub. L. 96–499, enacting sections 897 and 6039C of this title, amending sections 861, 871, 882, and6652 of this title, and enacting provisions set out as notes under section 897 of this title\] may be cited as the ‘Foreign Investment in Real Property Tax Act of 1980’.”
+Pub. L. 96–499, title XI, §1121, Dec. 5, 1980, 94 Stat. 2682, provided: “This subtitle \[subtitle C (§§1121–1125) of title XI of Pub. L. 96–499, enacting sections 897 and 6039C of this title, amending sections 861, 871, 882, and 6652 of this title, and enacting provisions set out as notes under section 897 of this title\] may be cited as the ‘Foreign Investment in Real Property Tax Act of 1980’.”
 
 Pub. L. 96–471, §1(a), Oct. 19, 1980, 94 Stat. 2247, provided: “This Act \[enacting sections 453 to 453B of this title, amending sections 311, 336, 337, 381, former section 453, sections 453B, 481, 644, 691, 1038, 1239, and 1255 of this title, and enacting provisions set out as notes under sections 453, 691, and 1038 of this title\] may be cited as the ‘Installment Sales Revision Act of 1980’.”
 
@@ -903,7 +915,7 @@ Section 1(a) of Pub. L. 95–618, Nov. 9, 1978, 92 Stat. 3174, provided that: �
 
 Pub. L. 95–615, §1, Nov. 8, 1978, 92 Stat. 3097, provided that: “This Act \[probably meaning sections 1 to 8 of Pub. L. 95–615, amending section 167 of this title, enacting provisions set out as notes under sections 61, 62, and 911 of this title, and amending provisions set out as notes under sections 117, 167, 382, 401, and 911 of this title\] may be cited as the ‘Tax Treatment Extension Act of 1977’.”
 
-Pub. L. 95–615, §201(a), Nov. 8, 1978, 92 Stat. 3098, provided that: “This Act \[probably meaning sections 201 to 210 of Pub. L. 95–615, enacting section 913 of this title, amending sections 43, 62, 119, 217, 911, 1034, 1302, 1304, 1402, 3401, 6011, 6012, and 6091 of this title, and enacting provisions set out as notes under sections 61, 401, and 911 of this title\] may be cited as the ‘Foreign Earned Income Act of 1978’.”
+Pub. L. 95–615, §201(a), Nov. 8, 1978, 92 Stat. 3098, provided that: “This Act \[probably meaning sections 201 to210 of Pub. L. 95–615, enacting section 913 of this title, amending sections 43, 62, 119, 217, 911, 1034, 1302, 1304, 1402, 3401, 6011, 6012, and 6091 of this title, and enacting provisions set out as notes under sections 61, 401, and 911 of this title\] may be cited as the ‘Foreign Earned Income Act of 1978’.”
 
 Section 1(a) of Pub. L. 95–600 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Revenue Act of 1978’.”
 
@@ -973,7 +985,7 @@ For short title of Pub. L. 89–719 as the “Federal Tax Lien Act of 1966”, s
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–44, §1(a), June 21, 1965, 79 Stat. 136, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Excise Tax Reduction Act of 1965’.”
+Pub. L. 89–44, §1(a), June 21, 1965, 79 Stat. 136, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Excise Tax Reduction Act of 1965’.”
 
 #### Short Title of 1964 Amendments
 
@@ -1067,7 +1079,7 @@ In general.—For purposes of this subsection, the term ‘additional 1993 taxes
 
 &emsp;&emsp;“(i) the taxpayer's net chapter 1 liability as shown on the taxpayer's return for the taxpayer's taxable year beginning in calendar year 1993, over
 
-&emsp;&emsp;“(ii) the amount which would have been the taxpayer's net chapter 1 liability for such taxable year if such liability had been determined using the rates which would have been in effect under section 1 of the Internal Revenue Code of 1986 for taxable years beginning in calendar year 1993 but for the amendments made by this section \[amending this section and sections 41, 63, 68, 132, 151, 453A, 513, 531, and 541 of this title\] and section 13202 \[amending this section and sections 531 and 541 of this title\] and such liability had otherwise been determined on the basis of the amounts shown on the taxpayer's return.
+&emsp;&emsp;“(ii) the amount which would have been the taxpayer's net chapter 1 liability for such taxable year if such liability had been determined using the rates which would have been in effect under section 1 of the Internal Revenue Code of 1986 for taxable years beginning in calendar year 1993 but for the amendments made by this section \[amending this section and sections 41, 63, 68, 132, 151, 453A, 513, 531, and 541 of this title\] and section 13202 \[amending this section and sections 531 and 541 of this title\] and such liability had otherwise been determinedon the basis of the amounts shown on the taxpayer's return.
 
 &emsp;“(B)
 

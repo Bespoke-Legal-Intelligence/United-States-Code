@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, any person may commence a 
 
 &emsp;(2) against the Administrator to compel the Administrator to perform any act or duty under this chapter which is not discretionary.
 
-> Any civil action under paragraph (1) shall be brought in the United States district court for the district in which the alleged violation occurred or in which the defendant resides or in which the defendant's principal place of businessis located. Any action brought under paragraph (2) shall be brought in the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the plaintiff is domiciled. The district courts of the United States shall have jurisdiction over suits brought under this section, without regard to the amount in controversy or the citizenship of the parties. In any civil action under this subsection process may be served on a defendant in any judicial district in which the defendant resides or may be found and subpoenas for witnesses may be served in any judicial district.
+> Any civil action under paragraph (1) shall be brought in the United States district court for the district in which the alleged violation occurred or in which the defendant resides or in which the defendant's principal place of business is located. Any action brought under paragraph (2) shall be brought in the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the plaintiff is domiciled. The district courts of the United States shall have jurisdiction over suits brought under this section, without regard to the amount in controversy or the citizenship of the parties. In any civil action under this subsection process may be served on a defendant in any judicial district in which the defendant resides or may be found and subpoenas for witnesses may be served in any judicial district.
 
 #### (b) Limitation
 
@@ -44,13 +44,13 @@ When two or more civil actions brought under subsection (a) of this section invo
 
 > The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
 
-(Pub. L. 94 469, title I, §20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99 519, §3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102 550, title X, §1021(b)(9), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, §20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, §3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(9), Oct. 28, 1992, 106 Stat. 3923.)
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102 550 substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter” in two places.
+1992—Subsec. (a)(1). Pub. L. 102–550 substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter” in two places.
 
-1986—Subsec. (a)(1). Pub. L. 99 519 inserted references to subchapter II of this chapter.
+1986—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
 
 #### Section Referred to in Other Sections
 

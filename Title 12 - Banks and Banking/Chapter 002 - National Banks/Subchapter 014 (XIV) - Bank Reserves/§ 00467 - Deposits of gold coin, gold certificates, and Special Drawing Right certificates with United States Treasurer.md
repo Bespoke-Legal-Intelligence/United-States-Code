@@ -12,11 +12,11 @@ Nothing in this section shall be construed as amending section 6 of Act March 14
 
 Words “this section”, referred to in last par., mean section 16 of act Dec. 23, 1913. For classification to this title of section 16, see Codification note set out under section 411 of this title.
 
-Section 6 of Act Mar. 14, 1900, as amended by Acts Mar. 7, 1907, Mar. 2, 1911, June 12, 1916, referred to in the last par., which was classified to section 429 of formerTitle 31, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section 6 of Act Mar. 14, 1900, as amended by Acts Mar. 7, 1907, Mar. 2, 1911, June 12, 1916, referred to in the last par., which was classified to section 429 of former Title 31, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 #### Codification
 
-Section is comprised of fifteenth to eighteenth pars. of section 16 of act Dec. 23, 1913, as added June 21, 1917. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of fifteenth to eighteenth pars. of section 16 of act Dec. 23, 1913, as added June 21, 1917.For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 

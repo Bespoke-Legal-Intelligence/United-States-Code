@@ -112,7 +112,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 > the Administrator, through attorneys of the Environmental Protection Agency, shall apply to the United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer or processor, as the case may be, of such substance is found, resides, or transacts business for an injunction to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance (or to prohibit or limit any combination of such activities).
 
-(ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effect because objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
+(ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effectbecause objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
 
 (B) A district court of the United States which receives an application under subparagraph (A)(i) for an injunction respecting a chemical substance shall issue such injunction if the court finds that—
 
@@ -212,7 +212,7 @@ If the Administrator has not initiated any action under this section or section 
 
 For purposes of this section, the terms “manufacture” and “process” mean manufacturing or processing for commercial purposes.
 
-(Pub. L. 94 469, title I, §5, Oct. 11, 1976, 90 Stat. 2012; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §5, Oct. 11, 1976, 90 Stat. 2012; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Section Referred to in Other Sections
 

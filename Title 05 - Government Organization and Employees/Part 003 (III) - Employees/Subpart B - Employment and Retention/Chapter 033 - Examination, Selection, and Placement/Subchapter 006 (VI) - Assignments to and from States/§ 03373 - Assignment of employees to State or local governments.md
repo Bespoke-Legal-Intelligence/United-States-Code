@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) to continuation of his insurance under chapter 87 of this title, and coverage under chapter 89 of this title or other applicable authority, so long as he pays currently into the Employee's Life Insurance Fund and the Employee's Health Benefits Fund or other applicable health benefits system (through his employing agency) the amount of the employee contributions;
 
-&emsp;&emsp;(B) to credit the period of his assignment under this subchapter toward periodic step-increases, retention, and leave accrual purposes, and, on payment into the Civil Service Retirement and Disability Fund or other applicable retirement system of the percentage of his State or local government pay, and of his supplemental pay, if any, thatwould have been deducted from a like agency pay for the period of the assignment and payment by the Federal agency into the fund or system of the amount that would have been payable by the agency during the period of the assignment with respect to a like agency pay, to treat his service during that period as service of the type performed in the agency immediately before his assignment; and
+&emsp;&emsp;(B) to credit the period of his assignment under this subchapter toward periodic step-increases, retention, and leave accrual purposes, and, on payment into the Civil Service Retirement and Disability Fund or other applicable retirement system of the percentage of his State or local government pay, and of his supplemental pay, if any, that would have been deducted from a like agency pay for the period of the assignment and payment by the Federal agency into the fund or system of the amount that would have been payable by the agency during the period of the assignment with respect to a like agency pay, to treat his service during that period as service of the type performed in the agency immediately before his assignment; and
 
 &emsp;&emsp;(C) for the purpose of subchapter I of chapter 85 of this title, to credit the service performed during the period of his assignment under this subchapter as Federal service, and to consider his State or local government pay (and his supplemental pay, if any) as Federal wages. To the extent that the service could also be the basis for entitlement to unemployment compensation under a State law, the employee may elect to claim unemployment compensation on the basis of the service under either the State law or subchapter I of chapter 85 of this title.
 
@@ -44,9 +44,9 @@ The Federal Tort Claims Act, referred to in subsec. (a), is classified to sectio
 
 #### Amendments
 
-1992—Pub. L. 102–378 substituted “or local” for “and local” in section catchline.
+<b>1992</b>—Pub. L. 102–378 substituted “or local” for “and local” in section catchline.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454, §603(b), substituted “a Federal” for “an executive” and “Federal agency” for “executive agency”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454, §603(b), substituted “a Federal” for “an executive” and “Federal agency” for “executive agency”.
 
 Subsec. (c). Pub. L. 95–454, §§603(b), 906(a)(2), substituted “Federal agency” for “executive agency” wherever appearing, and “Office of Personnel Management” for “Civil Service Commission”.
 

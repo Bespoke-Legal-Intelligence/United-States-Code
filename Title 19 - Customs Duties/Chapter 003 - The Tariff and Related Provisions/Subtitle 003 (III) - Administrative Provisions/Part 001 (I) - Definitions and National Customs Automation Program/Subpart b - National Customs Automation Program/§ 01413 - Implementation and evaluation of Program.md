@@ -76,7 +76,7 @@ For purposes of this section, the term “Committees” means the Committee on W
 
 #### Codification
 
-December 8, 1993, referred to in subsec. (a)(1), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–182, which enacted this section, to reflect the probable intent of Congress.
+December 8, 1993, referred to in subsec. (a)(1), was in the original “the date of the enactment of this Act”,which was translated as meaning the date of enactment of Pub. L. 103–182, which enacted this section, to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

@@ -14,9 +14,9 @@ The Secretary of Education (hereinafter in this section referred to as the “Se
 
 There are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out the provisions of this section. Funds appropriated pursuant to this section shall remain available until expended.
 
-(Pub. L. 94 482, title V, §525, Oct. 12, 1976, 90 Stat. 2241; Pub. L. 96 88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 94–482, title V, §525, Oct. 12, 1976, 90 Stat. 2241; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 #### Transfer of Functions
 
-“Secretary” substituted for “Commissioner” in subsecs. (a) and (b) pursuant to sections 301(a)(1) and 507 of Pub. L. 96 88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary” substituted for “Commissioner” in subsecs. (a) and (b) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 

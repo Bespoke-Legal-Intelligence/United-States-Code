@@ -124,11 +124,11 @@ Each State or group of States, as appropriate, that desires to receive a grant u
 
 There are authorized to be appropriated to carry out the provisions of this section $25,000,000 for each of the fiscal years 1992 and 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995.
 
-(Pub. L. 89 750, title III, §356, as added Pub. L. 102 73, title I, §103(2), July 25, 1991, 105 Stat. 338.)
+(Pub. L. 89–750, title III, §356, as added Pub. L. 102–73, title I, §103(2), July 25, 1991, 105 Stat. 338.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (h)(3), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (h)(3), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Except as provided in subsection (b) of this section, each State shall use the a
 
 The administrator appointed under section 2321(b)(1) of this title may waive the requirement with respect to age limitations contained in subsection (a)(2) of this section whenever the administrator determines that the waiver is essential to meet the objectives of this section.
 
-(Pub. L. 88 210, title II, §222, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 778.)
+(Pub. L. 88–210, title II, §222, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778.)
 
 #### Section Referred to in Other Sections
 

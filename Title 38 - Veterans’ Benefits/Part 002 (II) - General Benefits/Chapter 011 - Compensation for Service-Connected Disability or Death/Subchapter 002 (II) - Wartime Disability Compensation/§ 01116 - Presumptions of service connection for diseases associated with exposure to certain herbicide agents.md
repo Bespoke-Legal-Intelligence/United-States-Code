@@ -124,7 +124,7 @@ Alternative Contract Scientific Organization.—If the Secretary is unable withi
 
 “(k)
 
-Liability Insurance.—(1) The Secretary may provide liability insurance for the National Academy of Sciences or any other contract scientific organization to cover any claim for money damages for injury, loss of property, personal injury, or death caused by anynegligent or wrongful act or omission of any person referred to in paragraph (2) in carrying out any of the following responsibilities of the Academy or such other organization, as the case may be, under an agreement entered into with the Secretary pursuant to this section:
+Liability Insurance.—(1) The Secretary may provide liability insurance for the National Academy of Sciences or any other contract scientific organization to cover any claim for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission of any person referred to in paragraph (2) in carrying out any of the following responsibilities of the Academy or such other organization, as the case may be, under an agreement entered into with the Secretary pursuant to this section:
 
 &emsp;“(A) The review, summarization, and assessment of scientific evidence referred to in subsection (c).
 
@@ -214,7 +214,7 @@ Funding.—The authority of the Secretary to carry out this section is effective
 
 “(f)
 
-Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on the date on which the first report of the National Academyof Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
+Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on the date on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
 
 &emsp;“(A) determines that it is not feasible or cost-effective to carry out this section or that carrying out this section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
 
@@ -312,7 +312,7 @@ Pub. L. 99–272, title XIX, §19031, Apr. 7, 1986, 100 Stat. 385, provided that
 
 “(a)
 
-Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph (2), the Administrator of Veterans’ Affairs shall provide for the conduct of an epidemiological study of any long-term adverse health effects (particularly gender-specific health effects) which have been experienced by women who served in the Armed Forces of the United States in the Republic of Vietnam during the Vietnam era and whichmay have resulted from traumatic experiences during such service, from exposure during such service to phenoxy herbicides (including the herbicide known as Agent Orange), to other herbicides, chemicals, or medications that may have deleterious health effects, or to environmental hazards, or from any other experience or exposure during such service.
+Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph (2), the Administrator of Veterans’ Affairs shall provide for the conduct of an epidemiological study of any long-term adverse health effects (particularly gender-specific health effects) which have been experienced by women who served in the Armed Forces of the United States in the Republic of Vietnam during the Vietnam era and which may have resulted from traumatic experiences during such service, from exposure during such service to phenoxy herbicides (including the herbicide known as Agent Orange), to other herbicides, chemicals, or medications that may have deleterious health effects, or to environmental hazards, or from any other experience or exposure during such service.
 
 “(B) The Administrator may include in the study conducted under this paragraph an evaluation of the means of detecting and treating long-term adverse health effects (particularly gender-specific health effects) found through the study.
 
@@ -324,7 +324,7 @@ Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph 
 
 “(B) The Administrator is not required to study any aspect of the matters described in paragraph (1) with respect to which a determination is made and a notice is submitted pursuant to subparagraph (A)(i).
 
-“(C) If the Administrator submits to the Congress notice of a determination made pursuant to subparagraph (A) that it is not scientifically feasible to conduct the study described in paragraph (1)(A), this section (effective as of the date of such notice) shall cease to have effect as if repealed by law.
+“(C) If the Administrator submits to the Congress notice of a determination made pursuant to subparagraph (A) that it is not scientifically feasible to conduct thestudy described in paragraph (1)(A), this section (effective as of the date of such notice) shall cease to have effect as if repealed by law.
 
 “(3) The Administrator shall provide for the study to be conducted through contracts or other agreements with private or public agencies or persons.
 

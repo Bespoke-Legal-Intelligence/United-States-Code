@@ -20,7 +20,7 @@
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Captain | 1\.5 percent&nbsp; |
+| Captain | 1\.5 percent  |
 | Commander | 7  percent&nbsp; |
 | Lieutenant commander | 22  percent&nbsp; |
 | Lieutenant | 37  percent&nbsp; |

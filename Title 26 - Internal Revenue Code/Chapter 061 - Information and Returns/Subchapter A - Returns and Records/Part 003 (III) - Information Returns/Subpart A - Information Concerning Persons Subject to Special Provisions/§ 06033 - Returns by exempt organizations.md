@@ -168,6 +168,10 @@ The following organizations shall comply with the requirements of this section i
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 741; Sept. 2, 1958, Pub. L. 85–866, title I, §75(b), 72 Stat. 1661; Dec. 30, 1969, Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), 83 Stat. 519, 520, 529; Sept. 2, 1974, Pub. L. 93–406, title II, §1031(c)(2), 88 Stat. 946; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), 90 Stat. 1722, 1834; Dec. 28, 1980, Pub. L. 96–603, §1(a), 94 Stat. 3503; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(d)(1)(C), 100 Stat. 2740; Dec. 22, 1987, Pub. L. 100–203, title X, §10703(a), 101 Stat. 1330–460; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13222(c), 107 Stat. 480.)
 
+#### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
+
+<i>For adjustment of “$50 exception” amount for tax years beginning in 1996 for determining applicability of subsec. (e) of this section to certain exempt organizations, see section 3.11 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+
 #### References in Text
 
 The internal revenue laws, referred to in subsecs. (a)(2)(B) and (b)(10), are classified generally to this title.
@@ -248,5 +252,5 @@ Publicity of information, see section 6104 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 6104, 6501, 6652 of this title.
+This section is referred to in sections 162, 6104, 6501, 6652 of this title; title 2 sections 1602, 1604, 1610.
 

@@ -40,7 +40,7 @@ To be eligible to receive a grant under this section an entity shall be a privat
 
 &emsp;(2) provides documentation to the Secretary demonstrating experience working directly on issues of domestic violence, particularly in the specific subject area for which it is applying;
 
-&emsp;(3) include on its advisory boards representatives from domestic violence programs in the region who are geographically and culturally diverse; and
+&emsp;(3) include on its advisory boards representatives from domestic violence programs in theregion who are geographically and culturally diverse; and
 
 &emsp;(4) demonstrate the strong support of domestic violence advocates from across the country and the region for their designation as the national or a special issue resource center.
 

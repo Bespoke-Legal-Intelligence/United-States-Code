@@ -18,27 +18,27 @@ The Task Force shall—
 
 &emsp;(3) consider integration of research and development conducted with Federal assistance in the area of vocational education and related areas, including areas of emerging technologies.
 
-#### (d) Report to Congress
-
-The Task Force shall, every 2 years, submit a report on its findings to the appropriate committees of the Congress.
-
-(Pub. L. 101 392, §4, Sept. 25, 1990, 104 Stat. 758.)
+(Pub. L. 101–392, §4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, §1041(f), Dec. 21, 1995, 109 Stat. 715.)
 
 #### References in Text
 
-The Adult Education Act, referred to in subsec. (c)(1), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in subsec. (c)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93 112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (c)(1), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified principally to chapter 4B (§49 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990, and not as part of the Carl D. Perkins Vocational and Applied Technology Education Act which comprises this chapter.
+
+#### Amendments
+
+1995—Subsec. (d). Pub. L. 104–66 struck out heading and text of subsec. (d). Text read as follows: “The Task Force shall, every 2 years, submit a report on its findings to the appropriate committees of the Congress.”
 
 ### SUBCHAPTER I—VOCATIONAL EDUCA-
 

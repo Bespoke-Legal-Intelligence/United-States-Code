@@ -26,7 +26,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 #### (g) Permit sanctions
 
-(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit underany fishery resource law statute enforced by the Secretary has not been paid and is overdue, the Secretary may—
+(1) In any case in which (A) a vessel has been used in the commission of an act prohibitedunder section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue, the Secretary may—
 
 &emsp;(i) revoke any permit issued with respect to such vessel or person, with or without prejudice to the issuance of subsequent permits;
 
@@ -70,5 +70,5 @@ For effective date of this subchapter, see section 312 of Pub. L. 94–265, set 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1827, 3606, 3637, 5103, 5106 of this title.
+This section is referred to in sections 971e, 1827, 3606, 3637, 5103, 5106, 5606 of this title.
 

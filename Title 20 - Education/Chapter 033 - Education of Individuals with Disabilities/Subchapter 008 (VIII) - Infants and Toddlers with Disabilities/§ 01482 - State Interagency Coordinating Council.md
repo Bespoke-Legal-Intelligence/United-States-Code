@@ -58,19 +58,19 @@ No member of the Council shall cast a vote on any matter which would provide dir
 
 To the extent that a State has established a Council before September 1, 1986, that is comparable to the Council described in this section, such Council shall be considered to be in compliance with this section. Within 4 years after the date the State accepts funds under section 1473 of this title, such State shall establish a council that complies in full with this section.
 
-(Pub. L. 91 230, title VI, §682, as added Pub. L. 99 457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1153; amended Pub. L. 100 630, title I, §108(k), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101 476, title IX, §901(b)(182), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102 119, §§18, 25(a)(18), (b), Oct. 7, 1991, 105 Stat. 599, 606, 607.)
+(Pub. L. 91–230, title VI, §682, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1153; amended Pub. L. 100–630, title I, §108(k), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(182), Oct. 30, 1990, 104 Stat. 1150; Pub. L.102–119, §§18, 25(a)(18), (b), Oct. 7, 1991, 105 Stat. 599, 606, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476. See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476. See 1990 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 102 119, §18(1)(A), substituted “at least 15 members but not more than 25 members, unless the State provides sufficient justification for a greater number of members in the application submitted pursuant to section 1478 of this title” for “15 members”.
+Subsec. (a)(1). Pub. L. 102–119, §18(1)(A), substituted “at least 15 members but not more than 25 members, unless the State provides sufficient justification for a greater number of members in the application submitted pursuant to section 1478 of this title” for “15 members”.
 
-Subsec. (a)(2). Pub. L. 102 119, §18(1)(B), struck out “and the chairperson of the Council” before “shall be appointed”.
+Subsec. (a)(2). Pub. L. 102–119, §18(1)(B), struck out “and the chairperson of the Council” before “shall be appointed”.
 
-Subsec. (a)(3). Pub. L. 102 119, §18(1)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 102–119, §18(1)(C), added par. (3).
 
-Subsec. (b). Pub. L. 102 119, §18(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Council shall be composed of—
+Subsec. (b). Pub. L. 102–119, §18(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Council shall be composed of—
 
 &emsp;“(1) at least 3 parents of handicapped infants or toddlers or handicapped children aged 3 through 6, inclusive,
 
@@ -84,27 +84,27 @@ Subsec. (b). Pub. L. 102 119, §18(2), amended subsec. (b) generally. Prior to a
 
 &emsp;“(6) others selected by the Governor.”
 
-Subsec. (d). Pub. L. 102 119, §18(3), substituted “to conduct hearings and forums, to reimburse members of the Council for reasonable and necessary expenses for attending Council meetings and performing Council duties (including child care for parent representatives), to pay compensation to a member of the Council if such member is not employed or must forfeit wages from other employment when performing official Council business, to hire staff, and to obtain” for “to hire staff, and obtain”.
+Subsec. (d). Pub. L. 102–119, §18(3), substituted “to conduct hearings and forums, to reimburse members of the Council for reasonable and necessary expenses for attending Council meetings and performing Council duties (including child care for parent representatives), to pay compensation to a member of the Council if such member is not employed or must forfeit wages from other employment when performing official Council business, to hire staff, and to obtain” for “to hire staff, and obtain”.
 
-Subsec. (e). Pub. L. 102 119, §18(4), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A), (B), and (D), respectively, of par. (1), and added subpar. (C) of par. (1) and par. (2).
+Subsec. (e). Pub. L. 102–119, §18(4), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A), (B), and (D), respectively, of par. (1), and added subpar. (C) of par. (1) and par. (2).
 
-Subsec. (e)(1)(D). Pub. L. 102 119, §25(a)(18), substituted “infants and toddlers” for “infants or toddlers”.
+Subsec. (e)(1)(D). Pub. L. 102–119, §25(a)(18), substituted “infants and toddlers” for “infants or toddlers”.
 
-1990—Subsec. (e)(3). Pub. L. 101 476, as amended by Pub. L. 102 119, §25(b), substituted “infants or toddlers with disabilities” for “handicapped infants and toddlers”.
+1990—Subsec. (e)(3). Pub. L. 101–476, as amended by Pub. L. 102–119, §25(b), substituted “infants or toddlers with disabilities” for “handicapped infants and toddlers”.
 
-1988—Subsec. (b)(4). Pub. L. 100 630, §108(k)(1), struck out “and” at end.
+1988—Subsec. (b)(4). Pub. L. 100–630, §108(k)(1), struck out “and” at end.
 
-Subsec. (b)(5). Pub. L. 100 630, §108(k)(2), substituted “families, and” for “families and others selected by the Governor.”
+Subsec. (b)(5). Pub. L. 100–630, §108(k)(2), substituted “families, and” for “families and others selected by the Governor.”
 
-Subsec. (b)(6). Pub. L. 100 630, §108(k)(3), added par. (6).
+Subsec. (b)(6). Pub. L. 100–630, §108(k)(3), added par. (6).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 18 of Pub. L. 102 119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102 119, set out as a note under section 927 of this title.
+Amendment by section 18 of Pub. L. 102–119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102–119, set out as a note under section 927 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 

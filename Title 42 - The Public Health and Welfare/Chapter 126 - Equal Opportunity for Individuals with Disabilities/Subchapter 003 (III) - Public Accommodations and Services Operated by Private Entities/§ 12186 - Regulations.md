@@ -32,9 +32,9 @@
 
 &emsp;&emsp;&emsp;Subject to section 12185(d) of this title, the regulations issued pursuant to this subparagraph shall take effect—
 
-&emsp;&emsp;&emsp;&emsp;(I) with respect to small providers of transportation (as defined by the Secretary), 7 years after July 26, 1990; and
+&emsp;&emsp;&emsp;&emsp;(I) with respect to small providers of transportation (as defined by the Secretary), 3 years after the date of issuance of final regulations under clause (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to other providers of transportation, 6 years after July 26, 1990.
+&emsp;&emsp;&emsp;&emsp;(II) with respect to other providers of transportation, 2 years after the date of issuance of such final regulations.
 
 #### (C) Limitation on requiring installation of accessible restrooms
 
@@ -62,7 +62,11 @@ Standards included in regulations issued under subsections (a) and (b) of this s
 
 &emsp;If final regulations have not been issued pursuant to this section, a private entity shall be considered to have complied with the requirements of this subchapter, if any, that a vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under section 12204(a) of this title) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with this subchapter and are in effect at the time such design is substantially completed.
 
-(Pub. L. 101–336, title III, §306, July 26, 1990, 104 Stat. 361.)
+(Pub. L. 101–336, title III, §306, July 26, 1990, 104 Stat. 361; Pub. L. 104–59, title III, §341, Nov. 28, 1995, 109 Stat. 608.)
+
+#### Amendments
+
+1995—Subsec. (a)(2)(B)(iii). Pub. L. 104–59 substituted “3 years after the date of issuance of final regulations under clause (ii)” for “7 years after July 26, 1990” in subcl. (I) and “2 years after the date of issuance of such final regulations” for “6 years after July 26, 1990” in subcl. (II).
 
 #### Effective Date
 

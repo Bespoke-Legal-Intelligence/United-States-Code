@@ -30,7 +30,7 @@ Authorized Activities.—An official provided funds under subsection (b) may use
 
 &emsp;(6) Distribution of publications primarily in a theater of operations.
 
-&emsp;(7) Personnel expenses for Department of Defense civilian and military personnel to theextent that those expenses relate to participation in an activity described in paragraph (3), (4), (5), or (6).
+&emsp;(7) Personnel expenses for Department of Defense civilian and military personnel to the extent that those expenses relate to participation in an activity described in paragraph (3), (4), (5), or (6).
 
 &emsp;(8) Reimbursement of military personnel appropriations accounts for the pay and allowances paid to reserve component personnel for service while engaged in any activity referred to in another paragraph of this subsection.
 

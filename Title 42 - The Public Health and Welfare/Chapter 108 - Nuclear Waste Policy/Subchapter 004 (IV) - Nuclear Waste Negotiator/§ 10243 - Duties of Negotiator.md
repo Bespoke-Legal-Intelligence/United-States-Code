@@ -16,7 +16,7 @@
 
 #### (b) Consultation with affected States, subdivisions of States, and tribes
 
-In addition to entering into negotiations under subsection (a) of this section, the Negotiator shall consult with any State, affected unit of local government, or any Indian tribe that the Negotiator determines may be affected by the siting of a repository or monitored retrievable storage facility and may include in any proposed agreement such terms and conditions relating to the interest of such States, affected units of local government, or Indian tribes as the Negotiator determines to be reasonable and appropriate.
+In addition to entering into negotiations under subsection (a) of this section, the Negotiator shall consult with any State, affected unit of local government, or any Indian tribe that the Negotiator determines may be affectedby the siting of a repository or monitored retrievable storage facility and may include in any proposed agreement such terms and conditions relating to the interest of such States, affected units of local government, or Indian tribes as the Negotiator determines to be reasonable and appropriate.
 
 #### (c) Consultation with other Federal agencies
 
@@ -34,7 +34,7 @@ The Negotiator may solicit and consider the comments of the Secretary, the Nucle
 
 (4) Notwithstanding any proposed agreement under this section, the Secretary may construct a repository or monitored retrievable storage facility at a site agreed to under this subchapter only if authorized by the Nuclear Regulatory Commission in accordance with the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], title II of the Energy Reorganization Act of 1982 (42 U.S.C. 5841 et seq.) and any other law applicable to authorization of such construction.
 
-(Pub. L. 97–425, title IV, §403, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat.1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–244.)
+(Pub. L. 97–425, title IV, §403, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–244.)
 
 #### References in Text
 

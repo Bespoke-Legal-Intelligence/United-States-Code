@@ -40,7 +40,7 @@ As used in this section:
 
 #### (f) Naval Petroleum Reserves
 
-Nothing in this section shall be construed to authorize the production of crude oil, or naturalgas, or both, from any Naval Petroleum Reserve subject to the provisions of chapter 641 of title 10.
+Nothing in this section shall be construed to authorize the production of crude oil, or natural gas, or both, from any Naval Petroleum Reserve subject to the provisions of chapter 641 of title 10.
 
 (Pub. L. 94–163, title I, §106, Dec. 22, 1975, 89 Stat. 880.)
 

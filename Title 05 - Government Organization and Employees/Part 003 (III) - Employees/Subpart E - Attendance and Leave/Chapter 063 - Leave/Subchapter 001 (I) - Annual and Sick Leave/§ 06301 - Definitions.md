@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 > Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335,title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
 
 Historical and Revision Notes
 
@@ -96,19 +96,19 @@ Section 312 of the Foreign Service Act of 1980, referred to in text, is classifi
 
 #### Amendments
 
-1991—Par. (2)(v). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+<b>1991</b>—Par. (2)(v). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
-1986—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-1980—Pub. L. 96–465, §2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
+<b>1980</b>—Pub. L. 96–465, §2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
 
 Par. (2)(xii). Pub. L. 96–465, §2314(f)(1), substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under section 866 of title 22”.
 
-1979—Par. (2)(iv). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
+<b>1979</b>—Par. (2)(iv). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
 
-1978—Par. (2)(xiii). Pub. L. 95–519 added cl. (xiii).
+<b>1978</b>—Par. (2)(xiii). Pub. L. 95–519 added cl. (xiii).
 
-1970—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
+<b>1970</b>—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
 
 #### Effective Date of 1986 Amendment
 
@@ -144,7 +144,7 @@ Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Ac
 
 #### Employees of the District of Columbia
 
-Pub. L. 99–335, title II, §207(c)(2), as added Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
+Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
 
 #### Executive Order No. 10540
 

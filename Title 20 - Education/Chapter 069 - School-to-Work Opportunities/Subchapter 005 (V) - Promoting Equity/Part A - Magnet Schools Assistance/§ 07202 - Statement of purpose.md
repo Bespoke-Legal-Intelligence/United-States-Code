@@ -10,7 +10,7 @@ The purpose of this part is to assist in the desegregation of schools served by 
 
 &emsp;(4) courses of instruction within magnet schools that will substantially strengthen the knowledge of academic subjects and the grasp of tangible and marketable vocational skills of students attending such schools.
 
-(Pub. L. 89 10, title V, §5102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3691.)
+(Pub. L. 89–10, title V, §5102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3691.)
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
 
-&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
+&emsp;(2) three other members of the Senate designated by the Vice President or the Presidentpro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
 
 &emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
 
@@ -88,5 +88,5 @@ In subsection (h), the words “called for consultation by the Board in connecti
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

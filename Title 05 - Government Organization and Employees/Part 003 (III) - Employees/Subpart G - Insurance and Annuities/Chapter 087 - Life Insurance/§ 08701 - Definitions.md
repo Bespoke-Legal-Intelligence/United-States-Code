@@ -116,27 +116,27 @@ Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (a)
 
 #### Amendments
 
-1988—Subsec. (a)(10). Pub. L. 100–679 added par. (10).
+<b>1988</b>—Subsec. (a)(10). Pub. L. 100–679 added par. (10).
 
-1986—Subsec. (a)(6). Pub. L. 99–335 amended par. (6) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–335 amended par. (6) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-1984—Subsec. (a)(5) to (9). Pub. L. 98–353 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+<b>1984</b>—Subsec. (a)(5) to (9). Pub. L. 98–353 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
-1980—Pub. L. 96–427, §2(a)(1), substituted “Definitions” for “Definition” in section catchline.
+<b>1980</b>—Pub. L. 96–427, §2(a)(1), substituted “Definitions” for “Definition” in section catchline.
 
 Subsec. (c). Pub. L. 96–427, §2(a)(2), added subsec. (c).
 
 Subsec. (d). Pub. L. 96–427, §8(b), added subsec. (d).
 
-1979—Subsec. (a)(7) to (9). Pub. L. 96–54 struck out cl. (7) which related to coverage within term “employee” of a United States Commissioner, and redesignated cls. (8) and (9) as (7) and (8), respectively.
+<b>1979</b>—Subsec. (a)(7) to (9). Pub. L. 96–54 struck out cl. (7) which related to coverage within term “employee” of a United States Commissioner, and redesignated cls. (8) and (9) as (7) and (8), respectively.
 
 Subsec. (a)(B). Pub. L. 96–70 inserted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, the United States Postal Service, or the Smithsonian Institution in the area which was then known as the Canal Zone.
 
-1978—Subsec. (a)(C). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a)(C). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1973—Subsec. (a)(B). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of the United States and whose permanent duty station is outside the United States and the Panama Canal Zone.
+<b>1973</b>—Subsec. (a)(B). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of the United States and whose permanent duty station is outside the United States and the Panama Canal Zone.
 
-1970—Subsec. (a)(B). Pub. L. 91–418 excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside the Panama Canal Zone.
+<b>1970</b>—Subsec. (a)(B). Pub. L. 91–418 excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside the Panama Canal Zone.
 
 #### Change of Name
 

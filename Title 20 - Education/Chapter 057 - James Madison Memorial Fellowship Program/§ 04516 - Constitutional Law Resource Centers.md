@@ -16,7 +16,7 @@ The professor holding each chair shall file a copy of such articles with the Lib
 
 #### (d) Investment of endowment
 
-That portion of each endowment provided by this chapter<sup>2</sup> and any accumulations attributable to such grant shall be invested by the recipient university in interest bearing obligations of the United States or in obligations guaranteed both as to principal and interest by the United States and shall be subject to audit by the General Accounting Office for the sole purpose of determining that such funds are accounted for or have been used as provided herein. If a grantee university elects to discontinue such chair and support services, the corpus of the endowment attributable to the Federal grant shall revert to the Treasury of the United States.
+That portion of each endowment provided by this chapter <sup>2</sup> and any accumulations attributable to such grant shall be invested by the recipient university in interest bearing obligations of the United States or in obligations guaranteed both as to principal and interest by the United States and shall be subject to audit by the General Accounting Office for the sole purpose of determining that such funds are accounted for or have been used as provided herein. If a grantee university elects to discontinue such chair and support services, the corpus of the endowment attributable to the Federal grant shall revert to the Treasury of the United States.
 
 #### (e) Application for grant of endowment
 
@@ -26,25 +26,25 @@ The application for the grant for an endowment shall require only such informati
 
 The grants for each endowment shall be for $800,000 and shall be offered to Howard University School of Law in Washington, D.C., Drake University School of Law in Des Moines, Iowa, the University of Akron School of Law in Akron, Ohio, and the University of South Carolina School of Law at Columbia, South Carolina.
 
-(Pub. L. 99 500, §101(b) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783 39, 1783 81, and Pub. L. 99 591, §101(b) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341 39, 3341 81.)
+(Pub. L. 99–500, §101(b) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d), was in the original “this Act” and was translated as reading “this title” meaning title VIII of section 101(b) of Pub. L. 99 500 and Pub. L. 99 591 which enacted this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (d), was in the original “this Act” and was translated as reading “this title” meaning title VIII of section 101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Codification
 
-Pub. L. 99 591 is a corrected version of Pub. L. 99 500.
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Temporary Authority To Receive, Review, and Certify for Payment Grant Applications
 
-Pub. L. 100 202, §101(a) \[title V, §501\], Dec. 22, 1987, 101 Stat. 1329, 1329 29, provided in part: “That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission on the Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, Public Law 99 500 and Public Law 99 591 \[20 U.S.C. 4516, 4517\]”.
+Pub. L. 100–202, §101(a) \[title V, §501\], Dec. 22, 1987, 101 Stat. 1329, 1329–29, provided in part: “That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission on the Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, Public Law 99–500 and Public Law 99–591 \[20 U.S.C. 4516, 4517\]”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4517 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

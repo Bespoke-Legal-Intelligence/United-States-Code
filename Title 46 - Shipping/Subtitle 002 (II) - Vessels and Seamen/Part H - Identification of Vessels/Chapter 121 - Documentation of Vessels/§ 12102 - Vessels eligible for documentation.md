@@ -52,7 +52,7 @@ Pub. L. 100–239, §7(a), directed that “(a)” be inserted before “A vesse
 
 #### Effective Date of 1989 Amendment
 
-Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
+Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section 301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
 
 #### Effective Date of 1988 Amendment
 

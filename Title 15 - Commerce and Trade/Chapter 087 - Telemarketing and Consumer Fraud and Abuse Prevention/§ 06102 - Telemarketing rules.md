@@ -54,9 +54,9 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 &emsp;&emsp;&emsp;(i) the terms “broker”, “dealer”, “transfer agent”, “municipal securities dealer”, “municipal securities broker”, “government securities broker”, and “government securities dealer” have the meanings given such terms by paragraphs (4), (5), (25), (30), (31), (43), and (44) of section 78c(a) of this title;
 
-&emsp;&emsp;&emsp;(ii) the term “investment adviser” has the meaning given such term by section 80b 2(a)(11) of this title; and
+&emsp;&emsp;&emsp;(ii) the term “investment adviser” has the meaning given such term by section 80b–2(a)(11) of this title; and
 
-&emsp;&emsp;&emsp;(iii) the term “investment company” has the meaning given such term by section 80a 3(a) of this title.
+&emsp;&emsp;&emsp;(iii) the term “investment company” has the meaning given such term by section 80a–3(a) of this title.
 
 #### (e) Commodity Futures Trading Commission rules
 
@@ -66,11 +66,11 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 #### (2) Omitted
 
-(Pub. L. 103 297, §3, Aug. 16, 1994, 108 Stat. 1545.)
+(Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545.)
 
 #### Codification
 
-Section is comprised of section 3 of Pub. L. 103 297. Subsec. (e)(2) of section 3 of Pub. L. 103 297 enacted section 9b of Title 7, Agriculture.
+Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of section 3 of Pub. L. 103–297 enacted section 9b of Title 7, Agriculture.
 
 #### Section Referred to in Other Sections
 

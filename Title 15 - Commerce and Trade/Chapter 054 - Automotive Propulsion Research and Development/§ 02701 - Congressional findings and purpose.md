@@ -20,11 +20,11 @@
 
 &emsp;(3) supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
 
-(Pub. L. 95 238, title III, §302, Feb. 25, 1978, 92 Stat. 78.)
+(Pub. L. 95–238, title III, §302, Feb. 25, 1978, 92 Stat. 78.)
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 95 238 provided that: “This title \[enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare\] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
+Section 301 of title III of Pub. L. 95–238 provided that: “This title \[enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare\] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
 
 #### Section Referred to in Other Sections
 

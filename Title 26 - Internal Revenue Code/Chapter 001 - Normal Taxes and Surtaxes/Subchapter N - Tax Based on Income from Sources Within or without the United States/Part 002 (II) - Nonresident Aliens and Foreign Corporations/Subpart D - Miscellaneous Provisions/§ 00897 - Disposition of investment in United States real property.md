@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the “first corporation”) holds a controlling interest in a second corporation—
+&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a UnitedStates real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the “first corporation”) holds a controlling interest in a second corporation—
 
 &emsp;&emsp;&emsp;(i) the stock which the first corporation holds in the second corporation shall not be taken into account,
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (C) Constructive ownership rules
 
-&emsp;&emsp;For purposes of determining under paragraph (3) whether any person holds morethan 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting “5 percent” for “50 percent”).
+&emsp;&emsp;For purposes of determining under paragraph (3) whether any person holds more than 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting “5 percent” for “50 percent”).
 
 #### (d) Treatment of distributions by foreign corporations
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not incomplete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 

@@ -22,7 +22,7 @@
 | (a) | Safe harbor. |
 | (b) | Commission authority. |
 | (c) | Extension of compliance date for equipment, facilities, and services. |
-| 1007\. | Enforcement orders. |
+| [1007\.](%C2%A7%2001007%20-%20Enforcement%20orders.md) | Enforcement orders. |
 | (a) | Grounds for issuance. |
 | (b) | Time for compliance. |
 | (c) | Limitations. |
@@ -54,7 +54,7 @@ This chapter is referred to in section 229 of this title; title 18 sections 2518
 - [&sect; 01004 - Systems security and integrity](%C2%A7%2001004%20-%20Systems%20security%20and%20integrity.md)
 - [&sect; 01005 - Cooperation of equipment manufacturers and providers of telecommunications support services](%C2%A7%2001005%20-%20Cooperation%20of%20equipment%20manufacturers%20and%20providers%20of%20telecommunications%20support%20services.md)
 - [&sect; 01006 - Technical requirements and standards; extension of compliance date](%C2%A7%2001006%20-%20Technical%20requirements%20and%20standards%3B%20extension%20of%20compliance%20date.md)
-- [&sect; 11007 - Enforcement orders](%C2%A7%2011007%20-%20Enforcement%20orders.md)
+- [&sect; 01007 - Enforcement orders](%C2%A7%2001007%20-%20Enforcement%20orders.md)
 - [&sect; 01008 - Payment of costs of telecommunications carriers to comply with capability requirements](%C2%A7%2001008%20-%20Payment%20of%20costs%20of%20telecommunications%20carriers%20to%20comply%20with%20capability%20requirements.md)
 - [&sect; 01009 - Authorization of appropriations](%C2%A7%2001009%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01010 - Reports](%C2%A7%2001010%20-%20Reports.md)

@@ -88,7 +88,7 @@ Subsec. (d)(1)(B)(ii). Pub. L. 101–239, §7612(a)(2), substituted “subsectio
 
 Subsec. (d)(1)(B)(iii). Pub. L. 101–239, §7612(b)(1), which directed amendment of cl. (iii) by inserting “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)” after “section 29(d)(5)(B)”, was executed by making the insertion after “section 29(b)(5)(B)”, as the probable intent of Congress.
 
-Subsec. (d)(1)(B)(iv). Pub. L. 101–239, §7612(b)(1), which directed amendment of cl. (iv) by inserting “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)” after “section 29(d)(5)(B)”, was executed by making the insertion after “section29(b)(5)(B)” in subcl. (II), as the probable intent of Congress.
+Subsec. (d)(1)(B)(iv). Pub. L. 101–239, §7612(b)(1), which directed amendment of cl. (iv) by inserting “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)” after “section 29(d)(5)(B)”, was executed by making the insertion after “section 29(b)(5)(B)” in subcl. (II), as the probable intent of Congress.
 
 Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 

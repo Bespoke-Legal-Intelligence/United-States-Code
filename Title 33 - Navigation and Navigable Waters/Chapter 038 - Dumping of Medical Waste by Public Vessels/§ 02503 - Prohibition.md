@@ -8,7 +8,7 @@ After 6 months after November 18, 1988, no public vessel shall dispose of potent
 
 &emsp;(2) the waste is disposed of beyond 50 nautical miles from the nearest land; and
 
-&emsp;(3)(A) in the case of a public vessel which is not a submersible, the waste is sterilized,properly packaged, and sufficiently weighted to prevent the waste from coming ashore after disposal; and
+&emsp;(3)(A) in the case of a public vessel which is not a submersible, the waste is sterilized, properly packaged, and sufficiently weighted to prevent the waste from coming ashore after disposal; and
 
 &emsp;(B) in the case of a public vessel which is a submersible, the waste is properly packaged and sufficiently weighted to prevent the waste from coming ashore after disposal.
 

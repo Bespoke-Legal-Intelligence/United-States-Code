@@ -16,7 +16,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 (1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
-(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
+(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal yearis not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
 
 #### (e) Reallotment
 
@@ -32,35 +32,35 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts received by Howard University under section 123 of this title, relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Self-Government and Governmental Reorganization Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
 
-(Pub. L. 89 329, title III, §324, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99 509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102 325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475.)
+(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475.)
 
 #### References in Text
 
-The District of Columbia Self-Government and Governmental Reorganization Act, referred to in subsec. (g), is Pub. L. 93 198, Dec. 24, 1973, 87 Stat. 774, which is classified principally to the District of Columbia Code. See chapter 2 (§1 201 et seq.) of Title 1, Administration, of the District of Columbia Code. For classification of this Act to the U.S. Code, see Tables.
+The District of Columbia Self-Government and Governmental Reorganization Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, which is classified principally to the District of Columbia Code. See chapter 2 (§1–201 et seq.) of Title 1, Administration, of the District of Columbia Code. For classification of this Act to the U.S. Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 1063, Pub. L. 89 329, title III, §324, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1395, related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1063, Pub. L. 89–329, title III, §324, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1395, related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1063, Pub. L. 89 329, title IV, §403, Nov. 8, 1965, 79 Stat. 1233, related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92 318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 Stat. 1233, related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102 325, §303(c), inserted “, within 5 years of graduation with a baccalaureate degree,” after “in attendance at”.
+1992—Subsec. (c). Pub. L. 102–325, §303(c), inserted “, within 5 years of graduation with a baccalaureate degree,” after “in attendance at”.
 
-Subsec. (d)(1). Pub. L. 102 325, §303(d), substituted “$500,000” for “$350,000”.
+Subsec. (d)(1). Pub. L. 102–325, §303(d), substituted “$500,000” for “$350,000”.
 
-1986—Subsec. (c). Pub. L. 99 509, §7007(4), amended subsec. generally, substituting “percentage of graduates per institution” for “number of graduates” and “percentage of such graduates per institution” for “number of such graduates”.
+1986—Subsec. (c). Pub. L. 99–509, §7007(4), amended subsec. generally, substituting “percentage of graduates per institution” for “number of graduates” and “percentage of such graduates per institution” for “number of such graduates”.
 
-Subsec. (d). Pub. L. 99 509, §7007(1), (2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 99–509, §7007(1), (2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 99 509, §7007(1), (3), redesignated former subsec. (d) as (e), and substituted “subsection (a), (b), (c), or (d) of this section” for “subsection (a), (b), or (c) of this section”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 99–509, §7007(1), (3), redesignated former subsec. (d) as (e), and substituted “subsection (a), (b), (c), or (d) of this section” for “subsection (a), (b), or (c) of this section”. Former subsec. (e) redesignated (f).
 
-Subsecs. (f), (g). Pub. L. 99 509, §7007(1), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (f), (g). Pub. L. 99–509, §7007(1), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

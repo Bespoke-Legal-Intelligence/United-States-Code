@@ -70,7 +70,7 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 > For purposes of paragraph (2), the term “trustee” means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 166; Sept. 2, 1958, Pub. L. 85–866, title I, §30(a), (b), 72 Stat. 1629, 1630; July 14, 1960, Pub. L. 86–667, §2, 74 Stat. 535; Oct. 10, 1962, Pub. L. 87–792, §6, 76 Stat. 827; Dec. 30, 1969, Pub. L. 91–172, title I, §§101(j)(7)–(14),121(b)(6)(B), 83 Stat. 527, 542; Sept. 2, 1974, Pub. L. 93–406, title II, §2003(b), 88 Stat. 978; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(22), 104 Stat. 1388–521.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 166; Sept. 2, 1958, Pub. L. 85–866, title I, §30(a), (b), 72 Stat. 1629, 1630; July 14, 1960, Pub. L. 86–667, §2, 74 Stat. 535;Oct. 10, 1962, Pub. L. 87–792, §6, 76 Stat. 827; Dec. 30, 1969, Pub. L. 91–172, title I, §§101(j)(7)–(14), 121(b)(6)(B), 83 Stat. 527, 542; Sept. 2, 1974, Pub. L. 93–406, title II, §2003(b), 88 Stat. 978; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(22), 104 Stat. 1388–521.)
 
 #### Amendments
 
@@ -154,7 +154,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 “(2)
 
-Exceptions.—Nothing in subsection (a) \[amending this section\] shall be construed to make any transaction a prohibited transaction which, under announcements of the Internal Revenue Service made with respect to section 503(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before the date of the enactment of this Act \[Sept. 2, 1958\], would not constitute a prohibited transaction. In the case of any bond, debenture, note, or certificate or other evidence of indebtedness acquired before the date of the enactment of this Act \[Sept. 2, 1958\], by a trust described in section401(a) of such Code which is held on such date, paragraphs (2) and (3) of section 503(h) of such Code shall be treated as satisfied if such requirements would have been satisfied if such obligation had been acquired on such date of enactment \[Sept. 2, 1958\].”
+Exceptions.—Nothing in subsection (a) \[amending this section\] shall be construed to make any transaction a prohibited transaction which, under announcements of the Internal Revenue Service made with respect to section 503(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before the date of the enactment of this Act \[Sept. 2, 1958\], would not constitute a prohibited transaction. In the case of any bond, debenture, note, or certificate or other evidence of indebtedness acquired before the date of the enactment of this Act \[Sept. 2, 1958\], by a trust described in section 401(a) of such Code which is held on such date, paragraphs (2) and (3) of section 503(h) of such Code shall be treated as satisfied if such requirements would have been satisfied if such obligation had been acquired on such date of enactment \[Sept. 2, 1958\].”
 
 #### Savings Provision
 

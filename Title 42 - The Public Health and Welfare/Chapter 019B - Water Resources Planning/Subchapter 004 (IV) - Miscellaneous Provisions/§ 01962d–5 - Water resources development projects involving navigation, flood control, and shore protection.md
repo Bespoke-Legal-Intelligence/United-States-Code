@@ -6,7 +6,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (b) Local cooperation requirements based on certain estimated Federal first cost of construction
 
-Any water resource development project authorized to be constructed by this section shall be subject to the same requirements of local cooperation as it would be if the estimated Federal first cost of such project were $15,000,000 or more.
+Any water resource development project authorized to be constructed by this section shallbe subject to the same requirements of local cooperation as it would be if the estimated Federal first cost of such project were $15,000,000 or more.
 
 (Pub. L. 89–298, title II, §201, Oct. 27, 1965, 79 Stat. 1073; Pub. L. 94–587, §131, Oct. 22, 1976, 90 Stat. 2928; Pub. L. 103–437, §15(d), Nov. 2, 1994, 108 Stat. 4592.)
 
@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 94–587, §131(b), substituted “$15,000,000” for “$1
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Local Cooperation, Study; Report to Congress
 
@@ -36,7 +36,7 @@ Pub. L. 93–251, title I, §25, Mar. 7, 1974, 88 Stat. 20, provided that the Se
 
 #### National Streambank Erosion Prevention and Control Demonstration Program
 
-Pub. L. 93–251, title I, §32, Mar. 7, 1974, 88 Stat. 21, as amended by Pub. L. 94–587, §§155, 161, Oct. 22, 1976, 90 Stat. 2932, 2933, known as the “Streambank Erosion Control Evaluation and Demonstration Act of 1974”, directed the Secretary of the Army, acting through the Chief of Engineers, to establish and conduct for a period of five fiscal years a national streambank erosion prevention and control demonstration program, to consist of an evaluation of the extent of streambank erosion on navigable rivers and their tributaries; development of new methods and techniques for bank protection, research on soil stability, and identification of the causes of erosion; a report to the Congress on theresults of such studies and the recommendations of the Secretary of the Army on means for the prevention and correction of streambank erosion; and demonstration projects, including bank protection works. The final report to the Congress was to be made by Secretary of the Army no later than Dec. 31, 1981.
+Pub. L. 93–251, title I, §32, Mar. 7, 1974, 88 Stat. 21, as amended by Pub. L. 94–587, §§155, 161, Oct. 22, 1976, 90 Stat. 2932, 2933, known as the “Streambank Erosion Control Evaluation and Demonstration Act of 1974”, directed the Secretary of the Army, acting through the Chief of Engineers, to establish and conduct for a period of five fiscal years a national streambank erosion prevention and control demonstration program, to consist of an evaluation of the extent of streambank erosion on navigable rivers and their tributaries; development of new methods and techniques for bank protection, research on soil stability, and identification of the causes of erosion; a report to the Congress on the results of such studies and the recommendations of the Secretary of the Army on means for the prevention and correction of streambank erosion; and demonstration projects, including bank protection works. The final report to the Congress was to be made by Secretary of the Army no later than Dec. 31, 1981.
 
 #### National Shoreline Erosion Control Development and Demonstration Program
 

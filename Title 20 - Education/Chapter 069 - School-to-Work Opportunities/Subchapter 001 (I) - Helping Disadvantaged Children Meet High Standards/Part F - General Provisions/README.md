@@ -4,7 +4,7 @@ Part F—General Provisions
 
 This part is referred to in sections 6394, 6435 of this title.
 
-<i><sup>1</sup></i><i>So in original. The word “of” probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. The word “of” probably should be a comma.</i>
 
 
 ---

@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) “underrepresentation” means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constituted within the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
+&emsp;(1) “underrepresentation” means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constituted within the labor force of the United States, as determined under the most recent decennial ormid-decade census, or current population survey, under title 13, and
 
 &emsp;(2) “category of civil service employment” means—
 
@@ -58,7 +58,7 @@ The date of the enactment of the Civil Service Reform Act of 1978, referred to i
 
 #### Amendments
 
-1978—Pub. L. 95–454, §703(a)(1), renumbered section 7151 of this title as this section.
+<b>1978</b>—Pub. L. 95–454, §703(a)(1), renumbered section 7151 of this title as this section.
 
 Pub. L. 95–454, §310(1), substituted “Antidiscrimination policy; minority recruitment program” for “Policy” in section catchline.
 
@@ -70,7 +70,7 @@ Amendment by section 310 of Pub. L. 95–454 effective 90 days after Oct. 13, 19
 
 #### Discrimination Prohibited in Employment of Civilian Personnel at Facilities Operated by the Department of Defense in Foreign Countries
 
-Pub. L. 92–129, title I, §106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in theemployment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer's club, non-commissioned officers’ club, post exchange, or commissary store.”
+Pub. L. 92–129, title I, §106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer's club, non-commissioned officers’ club, post exchange, or commissary store.”
 
 #### Cross References
 

@@ -62,11 +62,11 @@
 
 &emsp;An S corporation may elect to have paragraph (1) not apply to all distributions made during a post-termination transition period described in section 1377(b)(1)(A). Such election shall not be effective unless all shareholders of the S corporation to whom distributions are made by the S corporation during such post-termination transition period consent to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, §721(e), (<i>o</i>), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII,§721(e), (<i>o</i>), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555.)
 
 #### Prior Provisions
 
-A prior section 1371, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, §2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, §233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, §902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat.1608, 1609; Pub. L. 95–600, title III, §§341, 342, title VII, §701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, §5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, §102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1371, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, §2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, §233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, §902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§341, 342, title VII, §701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, §5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, §102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
 

@@ -12,5 +12,5 @@ Each State that desires to receive a grant under this part shall submit an appli
 
 &emsp;(5) provide that the State will keep such records and provide such information to the Secretary as may be required for purposes of financial audits and program evaluation.
 
-(Pub. L. 89 329, title I, §123, as added Pub. L. 102 325, title I, §101, July 23, 1992, 106 Stat. 462.)
+(Pub. L. 89–329, title I, §123, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 462.)
 

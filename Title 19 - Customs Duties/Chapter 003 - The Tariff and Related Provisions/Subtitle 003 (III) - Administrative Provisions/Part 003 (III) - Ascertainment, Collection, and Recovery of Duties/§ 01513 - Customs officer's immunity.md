@@ -12,7 +12,7 @@ No customs officer shall be liable in any way to any person for or on account of
 
 #### Prior Provisions
 
-Provisions substantially the same as those of this section, except that they did not specifically refer to rulings or decisions as to appraisement, were contained in act Oct. 3, 1913, ch. 16, §III, Z, 38 Stat. 191, which reenacted without change the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §25, 26 Stat. 141, as reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 103. Section III, Z, of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §513, 42 Stat. 969, and repealed by section 643 thereof. Section 513 of the 1922 act was superseded by section 513 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially the same as those in this section, except that they did not specifically refer to rulings or decisions as to appraisement, were contained in act Oct. 3, 1913, ch. 16, §III, Z, 38 Stat. 191, which reenacted without change the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §25, 26 Stat. 141, as reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 103. Section III, Z, of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §513, 42 Stat. 969, and repealed by section 643 thereof. Section 513 of the 1922 act was superseded by section 513 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

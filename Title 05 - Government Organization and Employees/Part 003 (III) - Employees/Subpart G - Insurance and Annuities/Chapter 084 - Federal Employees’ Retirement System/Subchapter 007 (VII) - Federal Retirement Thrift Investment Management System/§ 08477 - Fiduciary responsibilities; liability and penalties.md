@@ -192,7 +192,7 @@
 
 (7)(A) The district courts of the United States shall have exclusive jurisdiction of civil actions under this subsection.
 
-(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a district court of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found.Process may be served in any other district where a defendant resides or may be found.
+(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a district court of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
 
 (8)(A) A copy of the complaint or petition filed in any action brought under this subsection (other than by the Secretary of Labor) shall be served on the Executive Director, the Secretary of Labor, and the Secretary of the Treasury by certified mail.
 
@@ -218,9 +218,9 @@ Section 114 of the Federal Employees’ Retirement System Technical Corrections 
 
 #### Amendments
 
-1990—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.
+<b>1990</b>—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.
 
-1988—Subsec. (e)(1)(A). Pub. L. 100–238, §133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
+<b>1988</b>—Subsec. (e)(1)(A). Pub. L. 100–238, §133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
 
 Subsec. (e)(1)(B). Pub. L. 100–238, §133(a)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -258,7 +258,7 @@ Subsec. (e)(4) to (8). Pub. L. 100–238, §133(a)(4), (5), added pars. (4) to (
 
 Subsec. (e)(5). Pub. L. 100–366, §3(a)(2), substituted “paragraph (3)” for “paragraphs (3) and (4)”.
 
-1986—Subsec. (c)(3)(E). Pub. L. 99–556, §112, added subpar. (E).
+<b>1986</b>—Subsec. (c)(3)(E). Pub. L. 99–556, §112, added subpar. (E).
 
 Subsec. (e)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

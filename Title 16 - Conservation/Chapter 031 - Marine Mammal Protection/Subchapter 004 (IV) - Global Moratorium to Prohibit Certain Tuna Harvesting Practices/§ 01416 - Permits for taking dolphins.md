@@ -36,5 +36,5 @@ Another section 306 of Pub. L. 92–522 was renumbered section 406 and is classi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1374, 1417 of this title.
+This section is referred to in sections 973g, 1374, 1417 of this title.
 

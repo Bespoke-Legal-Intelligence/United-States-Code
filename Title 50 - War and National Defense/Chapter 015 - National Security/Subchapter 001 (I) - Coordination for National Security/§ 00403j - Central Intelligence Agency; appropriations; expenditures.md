@@ -42,7 +42,7 @@ Pub. L. 99–500, §101(c) \[title IX, §9130\], Oct. 18, 1986, 100 Stat. 1783�
 
 #### Acquisition of Critical Skills
 
-Pub. L. 99–569, title V, §506, Oct. 27, 1986, 100 Stat. 3202, provided that: “Pursuant to the authority granted in section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j), the Director of Central Intelligence shall establish an undergraduate training program with respect to civilian employees of the Central Intelligence Agency similar in purpose, conditions, content, and administration to the program which the Secretary of Defense is authorized to establish under section 16 of the National Security Act of 1959 (50 U.S.C. 402 note) for civilian employees of the National Security Agency.”
+Pub. L. 99–569, title V, §506, Oct. 27, 1986, 100 Stat. 3202, provided that: “Pursuant to the authority grantedin section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j), the Director of Central Intelligence shall establish an undergraduate training program with respect to civilian employees of the Central Intelligence Agency similar in purpose, conditions, content, and administration to the program which the Secretary of Defense is authorized to establish under section 16 of the National Security Act of 1959 (50 U.S.C. 402 note) for civilian employees of the National Security Agency.”
 
 #### Section Referred to in Other Sections
 

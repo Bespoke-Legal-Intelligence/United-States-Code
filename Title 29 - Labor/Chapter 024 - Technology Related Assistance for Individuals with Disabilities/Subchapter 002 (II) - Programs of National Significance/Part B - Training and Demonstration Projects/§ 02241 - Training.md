@@ -14,7 +14,7 @@
 
 #### (2) Eligible activities
 
-&emsp;Activities conducted under grants, contracts, or cooperative agreements described in paragraph (1) may address the training needs of individuals with disabilities and their family members, guardians, advocates, and authorized representatives, individuals who work for public agencies, or for private entities (including insurers), that have contact with individuals with disabilities, educators and related services personnel, technology experts (including engineers), employers, and other appropriate individuals.
+&emsp;Activities conducted under grants, contracts, or cooperative agreements described in paragraph (1) may address the training needsof individuals with disabilities and their family members, guardians, advocates, and authorized representatives, individuals who work for public agencies, or for private entities (including insurers), that have contact with individuals with disabilities, educators and related services personnel, technology experts (including engineers), employers, and other appropriate individuals.
 
 #### (3) Uses of funds
 

@@ -176,7 +176,7 @@ In general.—An individual who—
 
 &emsp;“(2)
 
-Notice by Secretary.—Not later than 90 days after the date of the enactment of this Act \[Dec. 1,1987\], the Secretary of Health and Human Services shall notify in writing individuals who are described in subsection (a) of the opportunity provided by such subsection to be relieved of liability to the United States under section 338E(b) of the Public Health Service Act \[subsec. (b) of this section\] (as redesignated by section 201(2) of this Act). Notice sent to the last known address of such individual shall constitute sufficient notice for the purposes of this section. The Secretary may require that an individual responding to such notice make an election between service under subsection (b) or subsection (c) and provide that such election shall be binding.
+Notice by Secretary.—Not later than 90 days after the date of the enactment of this Act \[Dec. 1, 1987\], the Secretary of Health and Human Services shall notify in writing individuals who are described in subsection (a) of the opportunity provided by such subsection to be relieved of liability to the United States under section 338E(b) of the Public Health Service Act \[subsec. (b) of this section\] (as redesignated by section 201(2) of this Act). Notice sent to the last known address of such individual shall constitute sufficient notice for the purposes of this section. The Secretary may require that an individual responding to such notice make an election between service under subsection (b) or subsection (c) and provide that such election shall be binding.
 
 &emsp;“(3)
 

@@ -8,7 +8,7 @@
 
 (c) Under regulations prescribed by the Secretary of the Army on recommendation of the Chief of Engineers, not more than $30,000 may be expended each fiscal year to install and use in private residences telephones required for official business in constructing and operating locks and dams for navigation, flood control, and related water uses.
 
-(d) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United StatesGovernment and, if necessary for national defense purposes, in other private residences.
+(d) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United States Government and, if necessary for national defense purposes, in other private residences.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 98–407, title VIII, §811(a), Aug. 28, 1984, 98 Stat. 1523.)
 
@@ -63,6 +63,10 @@ In subsection (c), the words “On and after September 22, 1922 the provisions o
 #### Effective Date of 1984 Amendment
 
 Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
+
+#### Employees Authorized To Work at Home
+
+Pub. L. 104–52, title VI, §620, Nov. 19, 1995, 109 Stat. 501, provided that: “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: <i>Provided</i>, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission.”
 
 #### Section Referred to in Other Sections
 

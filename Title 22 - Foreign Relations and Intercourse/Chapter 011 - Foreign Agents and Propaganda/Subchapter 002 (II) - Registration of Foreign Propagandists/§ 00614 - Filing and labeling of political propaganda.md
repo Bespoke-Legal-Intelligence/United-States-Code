@@ -2,19 +2,19 @@
 
 #### (a) Copies to Attorney General; statement as to places, times, and extent of transmission
 
-Every person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter and who transmits or causes to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any political propaganda for or in the interests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons shall, not later than forty-eight hours after the beginning of the transmittal thereof, file with the Attorney General two copies thereof and a statement, duly signed by or on behalf of such agent, setting forth full information as to the places, times, and extent of such transmittal.
+Every person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter and who transmits or causes to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in the interests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons shall, not later than forty-eight hours after the beginning of the transmittal thereof, file with the Attorney General two copies thereof.
 
 #### (b) Identification statement
 
-It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any political propaganda for or in the interests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons, unless such political propaganda is conspicuously marked at its beginning with, or prefaced or accompanied by, a true and accurate statement, in the language or languages used in such political propaganda, setting forth the relationship or connection between the person transmitting the political propaganda or causing it to be transmitted and such propaganda; that the person transmitting such political propaganda or causing it to be transmitted is registered under this subchapter with the Department of Justice, Washington, District of Columbia, as an agent of a foreign principal, together with the name and address of such agent of a foreign principal and of such foreign principal; that, as required by this subchapter, his registration statement is available for inspection at and copies of such political propaganda are being filed with the Department of Justice; and that registration of agents of foreign principals required by the subchapter does not indicate approval by the United States Government of the contents of their political propaganda. The Attorney General, having due regard for the national security and the public interest, may by regulation prescribe the language or languages and the manner and form in which such statement shall be made and require the inclusion of such other information contained in the registration statement identifying such agent of a foreign principal and such political propaganda and its sources as may be appropriate.
+It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in the interests of such foreign principal without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.
 
 #### (c) Public inspection
 
-The copies of political propaganda required by this subchapter to be filed with the Attorney General shall be available for public inspection under such regulations as he may prescribe.
+The copies of informational materials required by this subchapter to be filed with the Attorney General shall be available for public inspection under such regulations as he may prescribe.
 
 #### (d) Library of Congress
 
-For purposes of the Library of Congress, other than for public distribution, the Secretary of the Treasury and the United States Postal Service are authorized, upon the request of the Librarian of Congress, to forward to the Library of Congress fifty copies, or as many fewer thereofas are available, of all foreign prints determined to be prohibited entry under the provisions of section 1305 of title 19 and of all foreign prints excluded from the mails under authority of section 1717 of title 18.
+For purposes of the Library of Congress, other than for public distribution, the Secretary of the Treasury and the United States Postal Service are authorized, upon the request of the Librarian of Congress, to forward to the Library of Congress fifty copies, or as many fewer thereof as are available, of all foreign prints determined to be prohibited entry under the provisions of section 1305 of title 19 and of all foreign prints excluded from the mails under authority of section 1717 of title 18.
 
 Notwithstanding the provisions of section 1305 of title 19 and of section 1717 of title 18, the Secretary of the Treasury is authorized to permit the entry and the United States Postal Service is authorized to permit the transmittal in the mails of foreign prints imported for governmental purposes by authority or for the use of the United States or for the use of the Library of Congress.
 
@@ -26,7 +26,7 @@ It shall be unlawful for any person within the United States who is an agent of 
 
 Whenever any agent of a foreign principal required to register under this subchapter appears before any committee of Congress to testify for or in the interests of such foreign principal, he shall, at the time of such appearance, furnish the committee with a copy of his most recent registration statement filed with the Department of Justice as an agent of such foreign principal for inclusion in the records of the committee as part of his testimony.
 
-(June 8, 1938, ch. 327, §4, 52 Stat. 632; Aug. 7, 1939, ch. 521, §3, 53 Stat. 1246; Apr. 29, 1942, ch. 263, §1, 56 Stat. 255; July 4, 1966, Pub. L. 89–486, §4, 80 Stat. 246; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773.)
+(June 8, 1938, ch. 327, §4, 52 Stat. 632; Aug. 7, 1939, ch. 521, §3, 53 Stat. 1246; Apr. 29, 1942, ch. 263, §1, 56 Stat. 255; July 4, 1966, Pub. L. 89–486, §4, 80 Stat. 246; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773; Dec. 19, 1995, Pub. L. 104–65, §9(4)–(6), 109 Stat. 700.)
 
 #### Codification
 
@@ -37,6 +37,14 @@ Section 1717 of title 18, referred to in subsec. (d), was in the original “sec
 Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section related to retention of statements as public records. Provisions on that subject were incorporated in section 616 of this title by 1942 amendment.
 
 #### Amendments
+
+1995—Subsec. (a). Pub. L. 104–65, §9(4)(B), which directed striking out “and a statement, duly signed by or on behalf of such an agent, setting forth full information as to the places, times, and extent of such transmittal” after “Attorney General two copies thereof”, was executed by striking out such language, which read in part “on behalf of such agent”, to reflect the probable intent of Congress.
+
+Pub. L. 104–65, §9(4)(A), substituted “informational materials” for “political propaganda”.
+
+Subsec. (b). Pub. L. 104–65, §9(5), substituted “informational materials for or” for “political propaganda for or” and substituted “without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.” for cls. (i) and (ii) and concluding provisions which made it unlawful for an agent of a foreign principal to transmit in the United States political propaganda unless the propaganda identified the agent and contained information about the registration of the agent and authorized the Attorney General to prescribe regulations relating to the information to be provided.
+
+Subsec. (c). Pub. L. 104–65, §9(6), substituted “informational materials” for “political propaganda”.
 
 1966—Subsec. (a). Pub. L. 89–486, §4(1), inserted “for or in the interests of such foreign principal” after “political propaganda” and substituted “file with the Attorney General two copies thereof” for “sent to the Librarian of Congress two copies thereof and file with the Attorney General one copy thereof”.
 
@@ -49,6 +57,10 @@ Subsecs. (e), (f). Pub. L. 89–486, §4(4), added subsecs. (e) and (f).
 1942—Act Apr. 29, 1942, amended section generally.
 
 1939—Act Aug. 7, 1939, amended section generally.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
 #### Effective Date of 1966 Amendment
 

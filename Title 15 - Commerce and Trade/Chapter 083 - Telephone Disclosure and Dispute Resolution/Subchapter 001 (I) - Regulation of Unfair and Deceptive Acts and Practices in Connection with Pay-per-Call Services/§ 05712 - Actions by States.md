@@ -14,7 +14,7 @@ Any civil action brought under this section in a district court of the United St
 
 #### (d) Investigatory powers
 
-For purposes of bringing any civil action under this section, nothing in this chapter shall prevent the attorney general from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+For purposes of bringing any civil action under this section, nothing in this chapter shall prevent the attorney general from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or tocompel the attendance of witnesses or the production of documentary and other evidence.
 
 #### (e) Effect on State court proceedings
 
@@ -30,11 +30,11 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 
 (2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) of this section against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
 
-(Pub. L. 102 556, title II, §202, Oct. 28, 1992, 106 Stat. 4190.)
+(Pub. L. 102–556, title II, §202, Oct. 28, 1992, 106 Stat. 4190.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) and (f), was in the original “this Act”, meaning Pub. L. 102 556, Oct. 28, 1992, 106 Stat. 4181, known as the Telephone Disclosure and Dispute Resolution Act. For complete classification of this Act to the Code, see References in Text note set out under section 5701 of this title and Tables.
+This chapter, referred to in subsecs. (d) and (f), was in the original “this Act”, meaning Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181, known as the Telephone Disclosure and Dispute Resolution Act. For complete classification of this Act to the Code, see References in Text note set out under section 5701 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

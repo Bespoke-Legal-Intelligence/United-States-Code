@@ -18,11 +18,11 @@ There shall be, in the Department, an Office of Bilingual Education and Minority
 
 &emsp;The Secretary shall ensure that limited-English-proficient and language-minority students are included in ways that are valid, reliable, and fair under all standards and assessment development conducted or funded by the Department.
 
-(Pub. L. 96 88, title II, §216, as added Pub. L. 103 382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3978.)
+(Pub. L. 96–88, title II, §216, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3978.)
 
 #### Codification
 
-Another section 216 of Pub. L. 96 88 was enacted by Pub. L. 103 227 and is classified to section 3425 of this title.
+Another section 216 of Pub. L. 96–88 was enacted by Pub. L. 103–227 and is classified to section 3425 of this title.
 
 #### Cross References
 

@@ -34,5 +34,5 @@ Whoever—
 
 > shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 99 498, title XV, §1522, Oct. 17, 1986, 100 Stat. 1611.)
+(Pub. L. 99–498, title XV, §1522, Oct. 17, 1986, 100 Stat. 1611.)
 

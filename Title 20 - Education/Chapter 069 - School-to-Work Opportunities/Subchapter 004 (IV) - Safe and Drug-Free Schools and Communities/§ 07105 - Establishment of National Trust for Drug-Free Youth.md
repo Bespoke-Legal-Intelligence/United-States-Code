@@ -50,11 +50,11 @@ The National Trust shall not have authority—
 
 The Board shall submit an annual report and independent audit to the Congress and the President concerning the expenditure of funds under the National Trust.
 
-(Pub. L. 99 570, title IV, §4302, Oct. 27, 1986, 100 Stat. 3207 153.)
+(Pub. L. 99–570, title IV, §4302, Oct. 27, 1986, 100 Stat. 3207–153.)
 
 #### References in Text
 
-Subtitle B, referred to in subsec. (a), is subtitle B of title IV of Pub. L. 99 570, Oct. 27, 1986, 100 Stat. 3207 125, known as the Drug-Free Schools and Communities Act of 1986, which was classified to chapter 58 (§4601 et seq.) of this title, prior to repeal by Pub. L. 100 297, title I, §1003(e), Apr. 28, 1988, 102 Stat. 293. Provisions related to drug-free schools and communities are now contained in this subchapter.
+Subtitle B, referred to in subsec. (a), is subtitle B of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–125, known as the Drug-Free Schools and Communities Act of 1986, which was classified to chapter 58 (§4601 et seq.) of this title, prior to repeal by Pub. L. 100–297, title I, §1003(e), Apr. 28, 1988, 102 Stat. 293. Provisions related to drug-free schools and communities are now contained in this subchapter.
 
 #### Codification
 

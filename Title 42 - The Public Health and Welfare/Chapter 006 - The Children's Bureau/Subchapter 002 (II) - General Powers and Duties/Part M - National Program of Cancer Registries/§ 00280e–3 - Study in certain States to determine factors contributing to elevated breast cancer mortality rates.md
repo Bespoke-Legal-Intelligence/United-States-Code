@@ -24,7 +24,7 @@ Not later than September 30, 1999, the Secretary shall complete the study requir
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Potential Environmental and Other Risks Contributing to Incidence of Breast Cancer
 
@@ -40,7 +40,7 @@ In general.—The Director of the National Cancer Institute (in this section ref
 
 &emsp;&emsp;“(A) the Counties of Nassau and Suffolk, in the State of New York; and
 
-&emsp;&emsp;“(B) the 2 counties in the northeastern United States that, as identified in the report specified inparagraph (2), had the highest age-adjusted mortality rate of such cancer that reflected not less than 30 deaths during the 5-year period for which findings are made in the report.
+&emsp;&emsp;“(B) the 2 counties in the northeastern United States that, as identified in the report specified in paragraph (2), had the highest age-adjusted mortality rate of such cancer that reflected not less than 30 deaths during the 5-year period for which findings are made in the report.
 
 &emsp;“(2)
 

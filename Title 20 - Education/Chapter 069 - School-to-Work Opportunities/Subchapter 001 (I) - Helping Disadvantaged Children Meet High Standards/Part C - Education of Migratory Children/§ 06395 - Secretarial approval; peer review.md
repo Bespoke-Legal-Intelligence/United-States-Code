@@ -8,5 +8,5 @@ The Secretary shall approve each State application that meets the requirements o
 
 The Secretary may review any such application with the assistance and advice of State officials and other individuals with relevant expertise.
 
-(Pub. L. 89 10, title I, §1305, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3588.)
+(Pub. L. 89–10, title I, §1305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3588.)
 

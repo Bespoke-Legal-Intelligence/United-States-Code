@@ -44,7 +44,7 @@ The information and assurances provided by a State in accordance with paragraphs
 
 (2)(A) Nothing in this section shall be construed to authorize the Secretary to require any State to adopt, as a condition for entering into an agreement, or for participation in an applicable program as defined in subsection (f) of this section, a specific State organizational structure for achieving participation in the planning, or administration of programs, or for statewide planning, coordination, governing, regulating, or administering of postsecondary education agencies, institutions, or programs in the State.
 
-(B) Nothing in this section shall be construed as a limitation on the authority of any State to adopt a State organizational structure for postsecondary education agencies, institutions, or programs which is appropriate to the needs, traditions, and circumstances of that State, or as a limitation on the authority of a State entering into an agreement pursuant to this section to modify the State organizational structure atany time subsequent to entering into such an agreement.
+(B) Nothing in this section shall be construed as a limitation on the authority of any State to adopt a State organizational structure for postsecondary education agencies, institutions, or programs which is appropriate to the needs, traditions, and circumstances of that State, or as a limitation on the authority of a State entering into an agreement pursuant to this section to modify the State organizational structure at any time subsequent to entering into such an agreement.
 
 #### (f) “Applicable program” defined
 
@@ -52,29 +52,29 @@ For the purposes of this section an “applicable program” is defined as—
 
 &emsp;(1) subchapter I of this chapter;
 
-&emsp;(2) subpart 3<sup>1</sup> of part A of subchapter IV of this chapter; and
+&emsp;(2) subpart 3 <sup>1</sup> of part A of subchapter IV of this chapter; and
 
 &emsp;(3) part A of subchapter VII of this chapter.
 
-(Pub. L. 89 329, title XII, §1203, as added Pub. L. 96 374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493.)
+(Pub. L. 89–329, title XII, §1203, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493.)
 
 #### References in Text
 
-Subpart 3 of part A of subchapter IV of this chapter, referred to in subsec. (f)(2), was redesignated subpart 4 and subpart 2 of such part was redesignated subpart 3 by Pub. L. 102 325, title IV, §402(a)(2), July 23, 1992, 106 Stat. 482.
+Subpart 3 of part A of subchapter IV of this chapter, referred to in subsec. (f)(2), was redesignated subpart 4 and subpart 2 of such part was redesignated subpart 3 by Pub. L. 102–325, title IV, §402(a)(2), July 23, 1992, 106 Stat. 482.
 
 #### Prior Provisions
 
-A prior section 1143, Pub. L. 89 329, title XII, §1203, formerly title VIII, §803, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1203, Pub. L. 90 575, title II, §251, Oct. 16, 1968, 82 Stat. 1042, provided for delegation of functions by Commissioner of Education and utilization of services and facilities of other agencies, prior to repeal by Pub. L. 91 230, title IV, §401(c)(5), Apr. 13, 1970, 84 Stat. 173. See section 1231 of this title.
+A prior section 1143, Pub. L. 89–329, title XII, §1203, formerly title VIII, §803, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1203, Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042, provided for delegation of functions by Commissioner of Education and utilization of services and facilities of other agencies, prior to repeal by Pub. L. 91–230, title IV, §401(c)(5), Apr. 13, 1970, 84 Stat. 173. See section 1231 of this title.
 
-A prior section 1203 of Pub. L. 89 329, as added Pub. L. 92 318, title I, §196, June 23, 1972, 86 Stat. 325; amended Pub. L. 94 482, title I, §179, Oct. 12, 1976, 90 Stat. 2166; Pub. L. 96 49, §12, Aug. 13, 1979, 93 Stat. 354, related to comprehensive statewide planning and was classified to section 1142b of this title, prior to repeal by section 1201 of Pub. L. 96 374.
+A prior section 1203 of Pub. L. 89–329, as added Pub. L. 92–318, title I, §196, June 23, 1972, 86 Stat. 325; amended Pub. L. 94–482, title I, §179, Oct. 12, 1976, 90 Stat. 2166; Pub. L. 96–49, §12, Aug. 13, 1979, 93 Stat. 354, related to comprehensive statewide planning and was classified to section 1142b of this title, prior to repeal by section 1201 of Pub. L. 96–374.
 
 #### Effective Date
 
-Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96 374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1022 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;(17)(A) The term “job search program” means a job search workshop or job finding club.
 
-&emsp;(B) The term “job search workshop” means a short (1 to 3 days) seminar designed to provide participants with knowledge that will enable the participants to find jobs. Subjects are not limited to, but should include, labor market information, resume writing, interviewing techniques, and techniques for finding job openings.
+&emsp;(B) The term “job search workshop” means a short (1 to 3 days) seminar designed to provide participants with knowledge that will enable the participants to find jobs. Subjects arenot limited to, but should include, labor market information, resume writing, interviewing techniques, and techniques for finding job openings.
 
 &emsp;(C) The term “job finding club” means a job search workshop which includes a period (1 to 2 weeks) of structured, supervised activity in which participants attempt to obtain jobs.
 

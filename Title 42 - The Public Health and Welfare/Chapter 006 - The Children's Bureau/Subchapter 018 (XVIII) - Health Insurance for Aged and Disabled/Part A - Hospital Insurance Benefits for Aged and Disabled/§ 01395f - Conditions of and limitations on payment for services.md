@@ -18,7 +18,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;(3) with respect to inpatient hospital services (other than inpatient psychiatric hospital services) which are furnished over a period of time, a physician certifies that such services are required to be given on an inpatient basis for such individual's medical treatment, or that inpatient diagnostic study is medically required and such services are necessary for such purpose, except that (A) such certification shall be furnished only in such cases, with such frequency, and accompanied by such supporting material, appropriate to the cases involved, as may be provided by regulations, and (B) the first such certification required in accordance with clause (A) shall be furnished no later than the 20th day of such period;
 
-&emsp;(4) in the case of inpatient psychiatric hospital services, the services are those which the records of the hospital indicate were furnished to the individual during periods when he was receiving (A) intensive treatment services, (B) admission and related services necessary for a diagnostic study, or (C) equivalent services;
+&emsp;(4) in the case of inpatient psychiatric hospital services, the services are those which the records of the hospital indicate were furnished to the individual during periods when he was receiving (A) intensive treatment services, (B)admission and related services necessary for a diagnostic study, or (C) equivalent services;
 
 &emsp;(5) with respect to inpatient hospital services furnished such individual after the 20th day of a continuous period of such services, there was not in effect, at the time of admission of such individual to the hospital, a decision under section 1395cc(d) of this title (based on a finding that utilization review of long-stay cases is not being made in such hospital);
 
@@ -38,7 +38,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;&emsp;(iii) in a subsequent extension period, the medical director or physician described in clause (i)(II) recertifies at the beginning of the period that the individual is terminally ill;
 
-&emsp;&emsp;(B) a written plan for providing hospice care with respect to such individual has beenestablished (before such care is provided by, or under arrangements made by, that hospice program) and is periodically reviewed by the individual's attending physician and by the medical director (and the interdisciplinary group described in section 1395x(dd)(2)(B) of this title) of the hospice program; and
+&emsp;&emsp;(B) a written plan for providing hospice care with respect to such individual has been established (before such care is provided by, or under arrangements made by, that hospice program) and is periodically reviewed by the individual's attending physician and by the medical director (and the interdisciplinary group described in section 1395x(dd)(2)(B) of this title) of the hospice program; and
 
 &emsp;&emsp;(C) such care is being or was provided pursuant to such plan of care; and
 
@@ -50,7 +50,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 The amount paid to any provider of services (other than a hospice program providing hospice care, other than a rural primary care hospital providing inpatient rural primary care hospital services, and other than a home health agency with respect to durable medical equipment) with respect to services for which payment may be made under this part shall, subject to the provisions of sections 1395e and 1395ww of this title, be—
 
-&emsp;(1) except as provided in paragraph (3), the lesser of (A) the reasonable cost of such services, as determined under section 1395x(v) of this title and as further limited by section 1395rr(b)(2)(B) of this title, or (B) the customary charges with respect to such services;
+&emsp;(1) except as provided in paragraph (3), the lesser of (A) the reasonable cost of such services, as determined under section 1395x(v) ofthis title and as further limited by section 1395rr(b)(2)(B) of this title, or (B) the customary charges with respect to such services;
 
 &emsp;(2) if such services are furnished by a public provider of services, or by another provider which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low-income (and requests that payment be made under this paragraph), free of charge or at nominal charges to the public, the amount determined on the basis of those items (specified in regulations prescribed by the Secretary) included in the determination of such reasonable cost which the Secretary finds will provide fair compensation to such provider for such services; or
 
@@ -60,7 +60,7 @@ The amount paid to any provider of services (other than a hospice program provid
 
 &emsp;&emsp;(B) the aggregate rate of increase from January 1, 1981, to the most recent date for which annual data are available in such hospitals in costs per hospital inpatient admission of individuals entitled to benefits under this part is greater than such rate of increase for admissions of such individuals with respect to all hospitals in the United States for such period.
 
-> In the case of any State which has had such a demonstration project reimbursement system incontinuous operation since July 1, 1977, the Secretary shall provide under paragraph (3) for continuation of reimbursement to hospitals in the State under such system until the first day of the 37th month beginning after the date the Secretary determines and notifies the Governor of the State that either of the conditions described in subparagraph (A) or (B) of such paragraph has occurred. If, by the end of such 36-month period, the Secretary determines, based on evidence submitted by the Governor of the State, that neither of the conditions described in subparagraph (A) or (B) of paragraph (3) continues to apply, the Secretary shall continue without interruption payment to hospitals in the State under the State's system. If, by the end of such 36-month period, the Secretary determines, based on such evidence, that either of the conditions described in subparagraph (A) or (B) of such paragraph continues to apply, the Secretary shall (i) collect any net excess reimbursement to hospitals in the State during such 36-month period (basing such net excess reimbursement on the net difference, if any, in the rate of increase in costs per hospital inpatient admission under the State system compared to the rate of increase in such costs with respect to all hospitals in the United States over the 36-month period, as measured by including the cumulative savings under the State system based on the difference in the rate of increase in costs per hospital inpatient admission under the State system as compared to the rate of increase in such costs with respect to all hospitals in the United States between January 1, 1981, and the date of the Secretary's initial notice), and (ii) provide a reasonable period, not to exceed 2 years, for transition from the State system to the national payment system.
+> In the case of any State which has had such a demonstration project reimbursement system in continuous operation since July 1, 1977, the Secretary shall provide under paragraph (3) for continuation of reimbursement to hospitals in the State under such system until the first day of the 37th month beginning after the date the Secretary determines and notifies the Governor of the State that either of the conditions described in subparagraph (A) or (B) of such paragraph has occurred. If, by the end of such 36-month period, the Secretary determines, based on evidence submitted by the Governor of the State, that neither of the conditions described in subparagraph (A) or (B) of paragraph (3) continues to apply, the Secretary shall continue without interruption payment to hospitals in the State under the State's system. If, by the end of such 36-month period, the Secretary determines, based on such evidence, that either of the conditions described in subparagraph (A) or (B) of such paragraph continues to apply, the Secretary shall (i) collect any net excess reimbursement to hospitals in the State during such 36-month period (basing such net excess reimbursement on the net difference, if any, in the rate of increase in costs per hospital inpatient admission under the State system compared to the rate of increase in such costs with respect to all hospitals in the United States over the 36-month period, as measured by including the cumulative savings under the State system based on the difference in the rate of increase in costs per hospital inpatient admission under the State system as compared to the rate of increase in such costs with respect to all hospitals in the United States between January 1, 1981, and the date of the Secretary's initial notice), and (ii) provide a reasonable period, not to exceed 2 years, for transition from the State system to the national payment system.
 
 #### (c) No payments to Federal providers of services
 
@@ -168,7 +168,7 @@ The amount paid to any home health agency with respect to durable medical equipm
 
 &emsp;(A) in the case of the first 12-month cost reporting period for which the facility operates as such a hospital, is the reasonable costs of the facility in providing inpatient rural primary care hospital services during such period, as such costs are determined on a per diem basis, and
 
-&emsp;(B) in the case of a later reporting period, is the per diem payment amount establishedunder this paragraph for the preceding 12-month cost reporting period, increased by the applicable percentage increase under section 1395ww(b)(3)(B)(i) of this title for that particular cost reporting period applicable to hospitals located in a rural area.
+&emsp;(B) in the case of a later reporting period, is the per diem payment amount established under this paragraph for the preceding 12-month cost reporting period, increased by the applicable percentage increase under section 1395ww(b)(3)(B)(i) of this title for that particular cost reporting period applicable to hospitals located in a rural area.
 
 > The payment amounts otherwise determined under this paragraph shall be reduced, to the extent necessary, to avoid duplication of any payment made under section 1395i–4(a)(2) of this title (or under section 4005(e) of the Omnibus Budget Reconciliation Act of 1987) to cover the provision of inpatient rural primary care hospital services.
 
@@ -188,7 +188,7 @@ Section 4005(e) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 1994—Subsec. (a)(5). Pub. L. 103–432, §106(b)(1)(A), struck out “and with respect to post-hospital extended care services furnished after such day of a continuous period of such services as may be prescribed in or pursuant to regulations” after “continuous period of such services”, “or skilled nursing facility, as the case may be” after “such individual to the hospital”, and “or facility” after “made in such hospital”.
 
-Subsec. (a)(8). Pub. L. 103–432, §102(a)(3), substituted “the individual may reasonably be expected to be discharged or transferred to a hospital within 72 hours after admission to the rural primary care hospital.” for “such services were required to be immediately furnished on a temporary, inpatient basis.”
+Subsec. (a)(8). Pub. L. 103–432, §102(a)(3), substituted “the individual may reasonably be expected to be discharged or transferred to a hospital within 72 hours after admission to the rural primary care hospital.” for“such services were required to be immediately furnished on a temporary, inpatient basis.”
 
 Subsec. (i)(1)(C)(i). Pub. L. 103–432, §110(d)(1), substituted “September 30, 1990,” for “September 30, 1990,,”.
 
@@ -408,7 +408,7 @@ Section 1(b) of Pub. L. 98–617 provided that: “The amendments made by this A
 
 Section 3(c) of Pub. L. 98–617 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395r, 1395u, 1395x, 1395rr, 1395ww, 1396a, and 1396b of this title and amending provisions set out as notes under sections 1395h and 1395mm of this title\] shall be effective as if they had been originally included in the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
 
-Section 2321(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section 1395zz of this title and amending this section and sections 1395<i>l</i>, 1395x, and 1395cc of this title\] shall apply to items and services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
+Section 2321(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section1395zz of this title and amending this section and sections 1395<i>l</i>, 1395x, and 1395cc of this title\] shall apply to items and services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Section 2335(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 1395x, 1395z, 1395cc, 1396a, and 1396d of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -436,7 +436,7 @@ Section 2122(b) of Pub. L. 97–35 provided that: “The amendments made by this
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 930(e), (f) of Pub. L. 96–499 effective with respect to services furnished on or afterJuly 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
+Amendment by section 930(e), (f) of Pub. L. 96–499 effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
 
 Amendment by section 931(b) of Pub. L. 96–499 effective Apr. 1, 1981, see section 931(e) of Pub. L. 96–499, set out as a note under section 1395d of this title.
 
@@ -516,7 +516,7 @@ Section 122(h)(2) of Pub. L. 97–248 provided that: “In order to provide for 
 
 &emsp;“(A) a description of the care included in ‘hospice care’ and the standards for qualification of a ‘hospice program’, under section 1861(dd) of the Social Security Act \[section 1395x(dd) of this title\], and
 
-&emsp;“(B) the standards for payment for hospice care under part A of title XVIII of such Act \[this part\], pursuant to section 1814(i) of such Act \[subsec. (i) of this section\].”
+&emsp;“(B) the standards for payment for hospice care under part A of title XVIII of such Act \[this part\],pursuant to section 1814(i) of such Act \[subsec. (i) of this section\].”
 
 #### Study and Report Relating to the Reimbursement Method and Benefit Structure for Hospice Care; Supervision of Report by Comptroller General
 

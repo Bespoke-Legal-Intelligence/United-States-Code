@@ -14,5 +14,5 @@ With the consent of the appropriate agency head, the Commission may utilize the 
 
 All Federal agencies shall consult with the Commission before undertaking major Federal actions relating to Arctic research.
 
-(Pub. L. 98 373, title I, §105, July 31, 1984, 98 Stat. 1245.)
+(Pub. L. 98–373, title I, §105, July 31, 1984, 98 Stat. 1245.)
 

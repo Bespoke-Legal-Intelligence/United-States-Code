@@ -22,7 +22,7 @@ In the case of a taxpayer (other than a bank as defined in section 581) no deduc
 
 #### (3) Expenditures
 
-&emsp;For purposes of paragraph (1)(C), the term “expenditures” includes a payment, distribution, loan, advance, deposit, or gift, of money, or anything of value, and includes a contract,promise, or agreement to make an expenditure, whether or not legally enforceable.
+&emsp;For purposes of paragraph (1)(C), the term “expenditures” includes a payment, distribution, loan, advance, deposit, or gift, of money, or anything of value, and includes a contract, promise, or agreement to make an expenditure, whether or not legally enforceable.
 
 #### (c) Exception
 

@@ -2,7 +2,7 @@
 
 #### (a) Enlisted personnel
 
-Gross income does not include compensation received for active service as a member belowthe grade of commissioned officer in the Armed Forces of the United States for any month during any part of which such member—
+Gross income does not include compensation received for active service as a member below the grade of commissioned officer in the Armed Forces of the United States for any month during any part of which such member—
 
 &emsp;(1) served in a combat zone, or
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;(2) The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have (after June 24, 1950) engaged in combat.
 
-&emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
+&emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities inthe combat zone designated in Executive Order 10195.
 
 &emsp;(4) The term “compensation” does not include pensions and retirement pay.
 

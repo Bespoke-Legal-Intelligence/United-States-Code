@@ -64,9 +64,9 @@
 | :--- | ---: |
 | [8441\.](Subchapter%20004%20%28IV%29%20-%20Survivor%20Annuities/%C2%A7%2008441%20-%20Definitions.md) | Definitions. |
 | [8442\.](Subchapter%20004%20%28IV%29%20-%20Survivor%20Annuities/%C2%A7%2008442%20-%20Rights%20of%20a%20widow%20or%20widower.md) | Rights of a widow or widower. |
-| 8443\. | Rights of a child. |
-| 8444\. | Rights of a named individual with an insurable interest. |
-| 8445\. | Rights of a former spouse. |
+| [8443\.](Subchapter%20004%20%28IV%29%20-%20Survivor%20Annuities/%C2%A7%2008443%20-%20Rights%20of%20a%20child.md) | Rights of a child. |
+| [8444\.](Subchapter%20004%20%28IV%29%20-%20Survivor%20Annuities/%C2%A7%2008444%20-%20Rights%20of%20a%20named%20individual%20with%20an%20insurable%20interest.md) | Rights of a named individual with an insurable interest. |
+| [8445\.](Subchapter%20004%20%28IV%29%20-%20Survivor%20Annuities/%C2%A7%2008445%20-%20Rights%20of%20a%20former%20spouse.md) | Rights of a former spouse. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,12 +74,12 @@
 
 |  |  |
 | :--- | ---: |
-| 8451\. | Disability retirement. |
-| 8452\. | Computation of disability annuity. |
-| 8453\. | Application. |
-| 8454\. | Medical examination. |
-| 8455\. | Recovery; restoration of earning capacity. |
-| 8456\. | Military reserve technicians. |
+| [8451\.](Subchapter%20005%20%28V%29%20-%20Disability%20Benefits/%C2%A7%2008451%20-%20Disability%20retirement.md) | Disability retirement. |
+| [8452\.](Subchapter%20005%20%28V%29%20-%20Disability%20Benefits/%C2%A7%2008452%20-%20Computation%20of%20disability%20annuity.md) | Computation of disability annuity. |
+| [8453\.](Subchapter%20005%20%28V%29%20-%20Disability%20Benefits/%C2%A7%2008453%20-%20Application.md) | Application. |
+| [8454\.](Subchapter%20005%20%28V%29%20-%20Disability%20Benefits/%C2%A7%2008454%20-%20Medical%20examination.md) | Medical examination. |
+| [8455\.](Subchapter%20005%20%28V%29%20-%20Disability%20Benefits/%C2%A7%2008455%20-%20Recovery%3B%20restoration%20of%20earning%20capacity.md) | Recovery; restoration of earning capacity. |
+| [8456\.](Subchapter%20005%20%28V%29%20-%20Disability%20Benefits/%C2%A7%2008456%20-%20Military%20reserve%20technicians.md) | Military reserve technicians. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -87,7 +87,7 @@
 
 |  |  |
 | :--- | ---: |
-| 8461\. | Authority of the Office of Personnel Management. |
+| [8461\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008461%20-%20Authority%20of%20the%20Office%20of%20Personnel%20Management.md) | Authority of the Office of Personnel Management. |
 | [8462\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008462%20-%20Cost-of-living%20adjustments.md) | Cost-of-living adjustments. |
 | [8463\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008463%20-%20Rate%20of%20benefits.md) | Rate of benefits. |
 | [8464\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008464%20-%20Commencement%20and%20termination%20of%20annuities%20of%20employees%20and%20Members.md) | Commencement and termination of annuities of employees and Members. |
@@ -120,29 +120,29 @@
 
 #### Amendments
 
-1994—Pub. L. 103–353, §4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
+<b>1994</b>—Pub. L. 103–353, §4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
 
-1992—Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516, substituted “Court of Federal Claims” for “Claims Court” in item 8440c.
+<b>1992</b>—Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516, substituted “Court of Federal Claims” for “Claims Court” in item 8440c.
 
 Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, amended directory language of Pub. L. 101–198, §7(c)(4)(B). See 1991 Amendment note below.
 
-1991—Pub. L. 102–198, §7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
+<b>1991</b>—Pub. L. 102–198, §7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
 
 Pub. L. 102–198, §7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of the United States Court of Veterans Appeals” as item 8440d.
 
 Pub. L. 102–82, §5(a)(2), Aug. 6, 1991, 105 Stat. 376, added item 8440c “Judges of the United States Court of Veterans Appeals”.
 
-1990—Pub. L. 101–650, title III, §306(d)(2), Dec. 1, 1990, 104 Stat. 5111, which directed the amendment of the table of sections for this chapter by adding at the end thereof item 8440b “Claims Court judges”, was executed by adding that item after the first item 8440b.
+<b>1990</b>—Pub. L. 101–650, title III, §306(d)(2), Dec. 1, 1990, 104 Stat. 5111, which directed the amendment of the table of sections for this chapter by adding at the end thereof item 8440b “Claims Court judges”, was executed by adding that item after the first item 8440b.
 
 Pub. L. 101–335, §§2(a)(2), 9(b), July 17, 1990, 104 Stat. 320, 326, added item 8432a and redesignated item 8440a “Bankruptcy judges and magistrates” as item 8440b.
 
-1988—Pub. L. 100–659, §7(b), Nov. 15, 1988, 102 Stat. 3920, added item 8440a “Bankruptcy judges and magistrates”.
+<b>1988</b>—Pub. L. 100–659, §7(b), Nov. 15, 1988, 102 Stat. 3920, added item 8440a “Bankruptcy judges and magistrates”.
 
 Pub. L. 100–654, title IV, §401(b), Nov. 14, 1988, 102 Stat. 3847, added item 8440a “Justices and judges”.
 
 Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, added item 8464a, redesignated item 8457 as 8456, and struck out former item 8456 “Relationship to workers’ compensation”.
 
-1986—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
+<b>1986</b>—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
 
 #### Chapter Referred to in Other Sections
 

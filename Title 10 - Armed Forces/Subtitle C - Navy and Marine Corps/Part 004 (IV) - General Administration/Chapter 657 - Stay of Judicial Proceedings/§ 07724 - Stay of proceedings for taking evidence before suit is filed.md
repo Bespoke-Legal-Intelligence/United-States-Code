@@ -1,4 +1,4 @@
-### §7724 . Stay of proceedings for taking evidence before suit is filed
+### §7724. Stay of proceedings for taking evidence before suit is filed
 
 (a) If in time of war, with respect to any claim against the United States on which a suit described in section 7721 of this title would lie, the Secretary of the Navy certifies to the court, or to a judge of the court, in which proceedings are pending for—
 

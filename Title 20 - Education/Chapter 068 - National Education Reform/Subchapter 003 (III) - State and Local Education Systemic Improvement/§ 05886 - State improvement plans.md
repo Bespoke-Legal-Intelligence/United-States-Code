@@ -60,7 +60,7 @@ Except as provided in section 5885(c)(2) of this title and consistent with the r
 
 #### (9) Monitoring; revisions; reporting
 
-&emsp;After approval of the State improvement plan by the Secretary, the panel shall be informed of progress on such plan by the Stateeducational agency, and such agency, in close consultation with teachers, principals, administrators, advocates and parents in local educational agencies and schools receiving funds under this subchapter, shall monitor the implementation and operation of such plan. The panel shall review such plan, and based on the progress described in the preceding sentence, determine if revisions to such plan are appropriate and necessary. The panel shall periodically report such determination to the public.
+&emsp;After approval of the State improvement plan by the Secretary, the panel shall be informed of progress on such plan by the State educational agency, and such agency, in close consultation with teachers, principals, administrators, advocates and parents in local educational agencies and schools receiving funds under this subchapter, shall monitor the implementation and operation of such plan. The panel shall review such plan, and based on the progress described in the preceding sentence, determine if revisions to such plan are appropriate and necessary. The panel shall periodically report such determination to the public.
 
 #### (c) Teaching, learning, standards, and assessments
 
@@ -192,7 +192,7 @@ Each State improvement plan shall describe—
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall review, within a reasonable period of time, each State improvement plan prepared under this section, andeach application submitted under section 5885 of this title, through a peer review process involving the assistance and advice of State and local education policymakers, educators, classroom teachers, related services personnel, experts on educational innovation and improvement, parents, advocates, and other appropriate individuals. Such peer review process shall be representative of the diversity of the United States with regard to geography, race, ethnicity, gender and disability characteristics. Such peer review process shall include at least 1 site visit to each State, except during the period when a State improvement plan is being developed.
+&emsp;(A) The Secretary shall review, within a reasonable period of time, each State improvement plan prepared under this section, and each application submitted under section 5885 of this title, through a peer review process involving the assistance and advice of State and local education policymakers, educators, classroom teachers, related services personnel, experts on educational innovation and improvement, parents, advocates, and other appropriate individuals. Such peer review process shall be representative of the diversity of the United States with regard to geography, race, ethnicity, gender and disability characteristics. Such peer review process shall include at least 1 site visit to each State, except during the period when a State improvement plan is being developed.
 
 &emsp;(B) Notwithstanding the provisions of subparagraph (A), in the first year that a State educational agency submits an application for development of a State improvement plan under this subchapter the Secretary shall not be required to—
 
@@ -246,17 +246,17 @@ Each State improvement plan shall include a process for periodically reviewing a
 
 #### (2) Special rule
 
-&emsp;(A)<sup>1</sup> If, before March 31, 1994, a State has made substantial progress in developing a plan that meets the intent and purposes of this section, but was developed by a panel that does not meet the requirements of paragraphs (1) through (3) of subsection (b) of this section, the Secretary may, at the request of the Governor and the State educational agency, treat such panel as meeting the requirements of this subchapter if the Secretary determines that there has been statewide involvement of educators, parents, students, advocacy groups, and other interested members of the public in the development of the plan.
+&emsp;(A) <sup>1</sup> If, before March 31, 1994, a State has made substantial progress in developing a plan that meets the intent and purposes of this section, but was developed by a panel that does not meet the requirements of paragraphs (1) through (3) of subsection (b) of this section, the Secretary may, at the request of the Governor and the State educational agency, treat such panel as meeting the requirements of this subchapter if the Secretary determines that there has been statewide involvement of educators, parents, students, advocacy groups, and other interested members of the public in the development of the plan.
 
-(Pub. L. 103 227, title III, §306, Mar. 31, 1994, 108 Stat. 160.)
+(Pub. L. 103–227, title III, §306, Mar. 31, 1994, 108 Stat. 160.)
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (<i>l</i>), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (<i>l</i>), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5885, 5887, 5888, 5890, 5891, 5894, 5895, 5896, 5897 of this title.
 
-<i><sup>1</sup></i><i>So in original. No subpar. (B) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -42,7 +42,7 @@ Under the direction of the National Security Council and in a manner consistent 
 
 The Director shall, in coordination with the heads of departments and agencies with elements in the intelligence community, institute policies and programs within the intelligence community—
 
-&emsp;(1) to provide for the rotation of personnel between the elements of the intelligence community, where appropriate, and to make such rotated service a factor to be considered for promotion to senior positions; and
+&emsp;(1) to provide for the rotation of personnel between the elements of the intelligence community, where appropriate, and to make suchrotated service a factor to be considered for promotion to senior positions; and
 
 &emsp;(2) to consolidate, wherever possible, personnel, administrative, and security programs to reduce the overall costs of these activities within the intelligence community.
 
@@ -58,11 +58,11 @@ A prior section 104 of act July 26, 1947, was renumbered section 108 and is clas
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Separation Pay Program for Voluntary Separation From Service
 
-Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104, as amended by Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118, provided that:
+Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104, as amended by Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968, provided that:
 
 “(a)
 
@@ -124,7 +124,7 @@ Amount and Treatment for Other Purposes.—Such separation pay—
 
 “(f)
 
-Termination.—No amount shall be payable under this section based on any separation occurring after September 30, 1997.
+Termination.—No amount shall be payable under this section based on any separation occurring after September 30, 1999.
 
 “(g)
 
@@ -136,11 +136,15 @@ Reporting Requirements.—
 
 &emsp;“(1)
 
-Offering notification.—The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (d).
+Offering notification.—The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, orother similar limitations or conditions, required by the Director under subsection (d).
 
 &emsp;“(2)
 
-Annual report.—At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.”
+Annual report.—At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.
+
+“(i)
+
+Remittance of Funds.—The Director shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund (in addition to any other payments which the Director is required to make under subchapter III of chapter 83 and subchapter II of chapter 84 of title 5, United States Code), an amount equal to 15 percent of the final basic pay of each employee who, in fiscal year 1998 or fiscal year 1999, retires voluntarily under section 8336, 8412, or 8414 of such title or resigns and to whom a voluntary separation incentive payment has been or is to be paid under this section.”
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;(6) Reasonable special contingency reserves under contracts of group term life insurance or group accident and health insurance which are established and maintained for the provision of insurance on retired lives, for premium stabilization, or for a combination thereof.
 
-> For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit. In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract. For purposes of paragraph (2) and section 805(a)(1), the amount of theunpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.
+> For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit. In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract. For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.
 
 #### (d) Method of computing reserves for purposes of determining income
 
@@ -110,7 +110,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (C) No additional reserve deduction allowed for deficiency reserves
 
-&emsp;&emsp;Nothing in any reserve method described under this paragraph shall permit any increase in the reserve because the net premium (computed on the basis of assumptions required under this subsection) exceeds the actual premiums or other consideration charged for the benefit.
+&emsp;&emsp;Nothing in any reserve method described under this paragraph shall permit any increase in the reserve because the net premium (computed on the basis of assumptionsrequired under this subsection) exceeds the actual premiums or other consideration charged for the benefit.
 
 #### (4) Applicable Federal interest rate; prevailing State assumed interest rate
 
@@ -210,7 +210,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;&emsp;(i) shall be computed separately as though such benefit were under a separate contract, and
 
-&emsp;&emsp;&emsp;(ii) shall, except to the extent otherwise provided in regulations, be the reservetaken into account for purposes of the annual statement approved by the National Association of Insurance Commissioners.
+&emsp;&emsp;&emsp;(ii) shall, except to the extent otherwise provided in regulations, be the reserve taken into account for purposes of the annual statement approved by the National Association of Insurance Commissioners.
 
 #### (B) Supplemental benefits which are not qualified supplemental benefits
 

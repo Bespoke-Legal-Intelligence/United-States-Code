@@ -10,7 +10,7 @@ Upon application by a complainant and in such circumstances as the court may dee
 
 #### (c) Award of damages or other equitable relief; amount; criteria; appeal
 
-(1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiff per violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
+(1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiffper violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
 
 (2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt was made to resolve the issues in dispute before the resort to litigation.
 
@@ -18,25 +18,67 @@ Upon application by a complainant and in such circumstances as the court may dee
 
 #### (d) Workers’ compensation benefits; exclusive remedy
 
-(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
+(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death in accordance with such State's workers’ compensation law.
 
-(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or an injunction.
+(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or equitable relief, except that such relief shall not include back or front pay or in any manner, directly or indirectly, expand or otherwise alter or affect (A) a recovery under a State workers’ compensation law or (B) rights conferred under a State workers’ compensation law.
 
-(Pub. L. 97–470, title V, §504, Jan. 14, 1983, 96 Stat. 2597; Pub. L. 102–392, title III, §325(a), Oct. 6, 1992, 106 Stat. 1728.)
+#### (e) Expansion of statutory damages
+
+If the court finds in an action which is brought by or for a worker under subsection (a) of this section in which a claim for actual damages is precluded because the worker's injury is covered by a State workers’ compensation law as provided by subsection (d) of this section that—
+
+&emsp;(1)(A) the defendant in the action violated section 1841(b) of this title by knowingly requiring or permitting a driver to drive a vehicle for the transportation of migrant or seasonal agricultural workers while under the influence of alcohol or a controlled substance (as defined in section 802 of title 21) and the defendant had actual knowledge of the driver's condition, and
+
+&emsp;(B) such violation resulted in injury to or death of the migrant or seasonal worker by or for whom the action was brought and such injury or death arose out of and in the course of employment as determined under the State workers’ compensation law,
+
+&emsp;(2)(A) the defendant violated a safety standard prescribed by the Secretary under section 1841(b) of this title which the defendant was determined in a previous judicial or administrative proceeding to have violated, and
+
+&emsp;(B) such safety violation resulted in an injury or death described in paragraph (1)(B),
+
+&emsp;(3)(A)(i) the defendant willfully disabled or removed a safety device prescribed by the Secretary under section 1841(b) of this title, or
+
+&emsp;(ii) the defendant in conscious disregard of the requirements of section 1841(b) of this title failed to provide a safety device required under such section, and
+
+&emsp;(B) such disablement, removal, or failure to provide a safety device resulted in an injury or death described in paragraph (1)(B), or
+
+&emsp;(4)(A) the defendant violated a safety standard prescribed by the Secretary under section 1841(b) of this title,
+
+&emsp;(B) such safety violation resulted in an injury or death described in paragraph (1)(B), and
+
+&emsp;(C) the defendant at the time of the violation of section 1841(b) of this title also was—
+
+&emsp;&emsp;(i) an unregistered farm labor contractor in violation of section 1811(a) of this title, or
+
+&emsp;&emsp;(ii) a person who utilized the services of a farm labor contractor of the type specified in clause (i) without taking reasonable steps to determine that the farm labor contractor possessed a valid certificate of registration authorizing the performance of the farm labor contracting activities which the contractor was requested or permitted to perform with the knowledge of such person,
+
+> the court shall award not more than $10,000 per plaintiff per violation with respect to whom the court made the finding described in paragraph (1), (2), (3), or (4), except that multiple infractions of a single provision of this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due to a plaintiff under this subsection and in the case of a class action, the court shall award not more than the lesser of up to $10,000 per plaintiff or up to $500,000 for all plaintiffs in such class action.
+
+#### (f) Tolling of statute of limitations
+
+If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) of this section shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
+
+(Pub. L. 97–470, title V, §504, Jan. 14, 1983, 96 Stat. 2597; Pub. L. 102–392, title III, §325(a), Oct. 6, 1992, 106 Stat. 1728; Pub. L. 104–49, §§1(a)(2), 2(a), 3, Nov. 15, 1995, 109 Stat. 432, 433.)
 
 #### Amendments
 
+1995—Subsec. (d). Pub. L. 104–49, §1(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(d)(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law isapplicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
+
+“(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or an injunction.”
+
+Subsec. (e). Pub. L. 104–49, §2(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 104–49, §3, added subsec. (f).
+
 1992—Subsec. (d). Pub. L. 102–392 added subsec. (d).
+
+#### Effective Date of 1995 Amendment
+
+Section 1(b) of Pub. L. 104–49 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
+
+Section 2(b) of Pub. L. 104–49 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
 
 #### Effective Date of 1992 Amendment
 
-Section 325(c) of Pub. L. 102–392 provided that:
-
-“(1)
-
-In general.—The amendment made by subsection (a) \[amending this section\] shall apply to all actions commenced after the date of the enactment of this Act \[Oct. 6, 1992\] but shall not apply after the expiration of 9 months after such date.
-
-“(2)
-
-Revival.—Notwithstanding any applicable statute of limitations, an action for actual damages brought by a migrant or seasonal worker for loss frombodily injury or death under section 504 of the Migrant and Seasonal Agricultural Worker Protection Act \[this section\] which may not be brought during the 9-month period referred to in paragraph (1) may be commenced, either as part of an earlier action or as an action by itself, after the expiration of such period. A statute of limitations which is waived by the preceding sentence shall be extended for only 9 months from the date of expiration of such statute of limitations.”
+Section 325(c) of Pub. L. 102–392 provided that the amendment of this section by section 325(a) of Pub. L. 102–392 would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by Pub. L. 104–49, §1(a)(1), Nov. 15, 1995, 109 Stat. 432.
 

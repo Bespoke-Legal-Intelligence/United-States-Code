@@ -36,7 +36,7 @@ Small providers are not required by subsection (a) of this section to make signi
 
 The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar.22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029.)
 
 #### References in Text
 

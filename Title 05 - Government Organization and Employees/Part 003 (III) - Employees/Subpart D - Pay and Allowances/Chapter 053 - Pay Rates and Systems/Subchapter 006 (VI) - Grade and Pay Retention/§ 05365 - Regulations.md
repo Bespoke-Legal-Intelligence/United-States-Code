@@ -20,7 +20,7 @@ A prior section 5365, added Pub. L. 91–34, §1(a), June 30, 1969, 83 Stat. 41;
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
 
 #### Effective Date of 1990 Amendment
 

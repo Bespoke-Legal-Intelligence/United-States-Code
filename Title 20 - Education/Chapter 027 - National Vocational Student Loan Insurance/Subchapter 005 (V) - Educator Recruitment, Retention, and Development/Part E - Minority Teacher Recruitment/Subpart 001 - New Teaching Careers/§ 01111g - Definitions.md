@@ -16,11 +16,11 @@ For the purpose of this subpart—
 
 &emsp;(5) the term “shortage area” means (A) an area the Secretary has designated as an area with a shortage of elementary and secondary school teachers, or (B) a shortage in a designated subject area as described in section 1104j of this title.
 
-(Pub. L. 89 329, title V, §576B, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 707.)
+(Pub. L. 89–329, title V, §576B, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 707.)
 
 #### Prior Provisions
 
-A prior section 1111g, Pub. L. 89 329, title V, §558, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1509; amended Pub. L. 100 50, §17(d), June 3, 1987, 101 Stat. 359, related to exceptions to Congressional teacher scholarship repayment provisions, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1111g, Pub. L. 89–329, title V, §558, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1509; amended Pub. L. 100–50, §17(d), June 3, 1987, 101 Stat. 359, related to exceptions to Congressional teacher scholarship repayment provisions, prior to the general revision of this subchapter by Pub. L. 102–325.
 
 #### Section Referred to in Other Sections
 

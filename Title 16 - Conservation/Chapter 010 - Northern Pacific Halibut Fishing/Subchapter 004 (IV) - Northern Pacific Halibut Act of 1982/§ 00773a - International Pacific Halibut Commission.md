@@ -8,7 +8,7 @@ The United States shall be represented on the Commission by three United States 
 
 &emsp;(2) two shall be knowledgeable or experienced concerning the Northern Pacific halibut fishery; of these, one shall be a resident of Alaska and the other shall be a nonresident of Alaska. Of the three commissioners described in paragraphs (1) and (2), one shall be a voting member of the North Pacific Fishery Management Council.
 
-&emsp;(3) Commissioners shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability as provided in section 8101 et seq. of title 5 and section 2671 et seq. of title 28. This subsection shall take effect on the 90th day after May 17, 1982.
+&emsp;(3) Commissioners shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability asprovided in section 8101 et seq. of title 5 and section 2671 et seq. of title 28. This subsection shall take effect on the 90th day after May 17, 1982.
 
 #### (b) Alternate United States Commissioners
 

@@ -12,7 +12,7 @@ The arrangements required by subsection (a) of this section shall apply to each 
 
 &emsp;(2) to provide for final and binding arbitration of any dispute which cannot be settled by the parties, with respect to the interpretation, application, or enforcement of the provisions of the protective arrangements;
 
-&emsp;(3) to provide that an employee who is unable to secure employment by the exercise of his or her seniority rights, as a result of actions taken with financial assistance obtained under this subchapter, shall be offered reassignment and, where necessary, retraining to fill a position comparable to the position held at the time of such adverse effect and for which he is, or by training and retraining can become, physically and mentally qualified, so long as such offer is not in contravention of collective bargaining agreements relating thereto; and
+&emsp;(3) to provide that an employee who is unable to secure employment by the exercise of his or her seniority rights, as a result of actions taken with financial assistance obtained under this subchapter, shall be offered reassignment and, where necessary, retraining to fill a position comparable to the position heldat the time of such adverse effect and for which he is, or by training and retraining can become, physically and mentally qualified, so long as such offer is not in contravention of collective bargaining agreements relating thereto; and
 
 &emsp;(4) to provide that the protection afforded pursuant to this section shall not be applicable to employees benefited solely as a result of the work which is financed by funds provided pursuant to this subchapter.
 

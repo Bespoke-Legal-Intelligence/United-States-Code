@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substitu
 
 1971—Subsec. (b)(4). Pub. L. 92–158 substituted “full-time or half-time course of study” for “full-time course of study” and “1974” for “1971”.
 
-1968—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of thistitle,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
+1968—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of this title,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
 
 Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after “fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
 

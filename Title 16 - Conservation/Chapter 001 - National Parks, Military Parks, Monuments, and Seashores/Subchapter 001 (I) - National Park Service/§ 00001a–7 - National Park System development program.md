@@ -2,7 +2,7 @@
 
 #### (a) Transmittal to Congressional committees
 
-Not later than January 15 of each calendar year, the Secretary of the Interior shall transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a detailed program for the development offacilities, structures, or buildings for each unit of the National Park System consistent with the general management plans required in subsection (b) of this section.
+Not later than January 15 of each calendar year, the Secretary of the Interior shall transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a detailed program for the development of facilities, structures, or buildings for each unit of the National Park System consistent with the general management plans required in subsection (b) of this section.
 
 #### (b) General management plans; preparation and revision by Director of National Park Service; list to Congress; contents
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 95–625, §604(4), substituted “or of five years or more
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §7361 . Naval salvage facilities: contracts for commercial facilities
+### §7361. Naval salvage facilities: contracts for commercial facilities
 
 (a) The Secretary of the Navy may provide, by contract or otherwise, necessary salvage facilities for public and private vessels upon such terms as he determines to be in the best interest of the United States.
 

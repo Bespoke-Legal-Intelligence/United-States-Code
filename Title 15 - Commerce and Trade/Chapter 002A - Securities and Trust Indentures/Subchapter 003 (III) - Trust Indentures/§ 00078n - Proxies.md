@@ -32,11 +32,11 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (8) The provisions of this subsection shall not apply to any offer for, or request or invitation for tenders of, any security—
 
-&emsp;(A) if the acquisition of such security, together with all other acquisitions by the same person of securities of the same class duringthe preceding twelve months, would not exceed 2 per centum of that class;
+&emsp;(A) if the acquisition of such security, together with all other acquisitions by the same person of securities of the same class during the preceding twelve months, would not exceed 2 per centum of that class;
 
 &emsp;(B) by the issuer of such security; or
 
-&emsp;(C) which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
+&emsp;(C) which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered intofor the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
 
 #### (e) Untrue statement of material fact or omission of fact with respect to tender offer
 
@@ -68,7 +68,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;It shall be unlawful for any person to solicit any proxy, consent, or authorization concerning a limited partnership rollup transaction, or to make any tender offer in furtherance of a limited partnership rollup transaction, unless such transaction is conducted in accordance with rules prescribed by the Commission under subsections (a) and (d) of this section as required by this subsection. Such rules shall—
 
-&emsp;&emsp;(A) permit any holder of a security that is the subject of the proposed limited partnership rollup transaction to engage in preliminary communications for the purpose of determining whether to solicit proxies, consents, or authorizations in opposition to the proposed limited partnership rollup transaction, without regard to whether any such communication would otherwise be considered a solicitation of proxies, and without being required to file soliciting material with the Commission prior to making that determination, except that—
+&emsp;&emsp;(A) permit any holder of a security that is the subject of the proposed limited partnership rollup transaction to engage in preliminary communications for the purpose of determining whether to solicit proxies, consents, or authorizations in opposition to the proposed limited partnership rollup transaction, without regard to whether any suchcommunication would otherwise be considered a solicitation of proxies, and without being required to file soliciting material with the Commission prior to making that determination, except that—
 
 &emsp;&emsp;&emsp;(i) nothing in this subparagraph shall be construed to limit the application of any provision of this chapter prohibiting, or reasonably designed to prevent, fraudulent, deceptive, or manipulative acts or practices under this chapter; and
 
@@ -112,9 +112,9 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;(G) provide that, if the general partner or sponsor has obtained any opinion, appraisal, or report as described in subparagraph (F) from any person whose compensation is contingent on the transaction's approval or completion or who has not been given access by the issuer to its personnel and premises and relevant books and records, the general partner or sponsor shall state the reasons therefor;
 
-&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by a statement of such partner's or sponsor's reasons for concluding that such an opinion isnot necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
+&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by a statement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
 
-&emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limited partnership rollup transaction set forth prominently in the fore part thereof;
+&emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rolluptransaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limited partnership rollup transaction set forth prominently in the fore part thereof;
 
 &emsp;&emsp;(J) provide that any solicitation or offering period with respect to any proxy solicitation, tender offer, or information statement in a limited partnership rollup transaction shall be for not less than the lesser of 60 calendar days or the maximum number of days permitted under applicable State law; and
 
@@ -164,7 +164,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;&emsp;(ii) the securities of that entity issued to investors in the transaction do not exceed 20 percent of the total outstanding securities of the entity, exclusive of any securities of such class held by or for the account of the entity or a subsidiary of the entity.
 
-(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Aug. 20, 1964, Pub. L. 88–467, §5, 78 Stat. 569; July 29, 1968, Pub. L. 90–439, §3, 82 Stat. 455; Dec. 22, 1970, Pub. L. 91–567, §§3–5, 84 Stat. 1497; June 6, 1983, Pub. L. 98–38, §2(b), 97 Stat. 205; Dec. 28, 1985, Pub. L. 99–222, §2, 99 Stat. 1737; Nov. 15, 1990, Pub. L. 101–550, title III, §302, 104 Stat. 2721; Dec. 17, 1993, Pub. L. 103–202, title III, §302(a), 107 Stat. 2359.)
+(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Aug. 20, 1964, Pub. L. 88–467, §5, 78 Stat. 569; July 29, 1968, Pub. L. 90–439, §3, 82 Stat. 455; Dec. 22, 1970, Pub. L. 91–567, §§3–5, 84 Stat. 1497; June 6, 1983, Pub. L. 98–38, §2(b), 97 Stat. 205; Dec. 28,1985, Pub. L. 99–222, §2, 99 Stat. 1737; Nov. 15, 1990, Pub. L. 101–550, title III, §302, 104 Stat. 2721; Dec. 17, 1993, Pub. L. 103–202, title III, §302(a), 107 Stat. 2359.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Section 302(b) of Pub. L. 103–202 provided that: “The Securities and Exchang
 
 #### Construction of 1993 Amendment
 
-Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set in an Effective Date of 1993 Amendment note under section 78f of this title.
+Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
 
 #### Transfer of Functions
 
@@ -236,7 +236,7 @@ Evaluation required.—The Comptroller General of the United States shall, withi
 
 &emsp;“(B) the standards which preparers use in making determinations of fairness;
 
-&emsp;“(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costsof preparation, and any limitations imposed by issuers on such preparers;
+&emsp;“(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers;
 
 &emsp;“(D) the nature and quality of disclosures provided with respect to such opinions;
 
@@ -258,13 +258,11 @@ Exemption of securities with unlisted trading privileges from the operation of t
 
 Investment companies, use of mails or instrumentality of interstate commerce to solicit proxies unlawful, see section 80a–20 of this title.
 
-Modification of railroad financial structures, application to, see section 11367 of Title 49, Transportation.
-
 Person soliciting proxies by mail or through interstate commerce respecting plan of reorganization, etc., to file copy with Commission, see section 80a–25 of this title.
 
 Rules and regulations, power of Commission to make, see section 78w of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78f, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78hh of this title; title 49 section 11367.
+This section is referred to in sections 78f, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78hh of this title.
 

@@ -102,7 +102,7 @@ The powers of the Commission shall include the following:
 
 #### (1) In general
 
-&emsp;The Commission shall, within 12 months after funds are made available to carry out this section, prepare and transmit to the President, the Committee on Natural Resources of the House of Representatives, the Committee on Indian Affairs of the Senate, and the Committee on Energy and Natural Resources of the Senate, a report containing therecommendations and proposals specified in subsection (k) of this section.
+&emsp;The Commission shall, within 12 months after funds are made available to carry out this section, prepare and transmit to the President, the Committee on Natural Resources of the House of Representatives, the Committee on Indian Affairs of the Senate, and the Committee on Energy and Natural Resources of the Senate, a report containing the recommendations and proposals specified in subsection (k) of this section.
 
 #### (2) Review and comment
 
@@ -130,7 +130,7 @@ The General Schedule, referred to in subsec. (j)(2), is set out under section 53
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Chairperson”.</i>
 

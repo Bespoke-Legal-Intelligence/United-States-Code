@@ -32,7 +32,7 @@ Program Requirements.—(1) The Secretary of Defense, in consultation with the S
 
 (4) The Secretary of Defense and the Secretary of Commerce shall enter into an agreement for carrying out the program established pursuant to this subsection. The agreement shall include procedures to ensure that the program is fully coordinated with related manufacturing programs of the Department of Commerce.
 
-(Added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1602, §2517; amended Pub. L. 102–190, div. A, title VIII, §824(a), Dec. 5, 1991, 105 Stat. 1436; renumbered §2523 and amended Pub. L. 102–484, div. D, title XLII, §4233(a), (b), Oct. 23, 1992, 106 Stat. 2687; Pub. L. 103–160, div. A, title IX, §904(d)(1), title XI, §1182(b)(2), title XIII, §1315(d), Nov. 30, 1993, 107 Stat. 1728, 1772, 1787.)
+(Added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1602, §2517; amended Pub. L. 102–190, div. A, title VIII, §824(a), Dec. 5, 1991, 105 Stat. 1436; renumbered §2523 and amended Pub. L. 102–484, div. D, titleXLII, §4233(a), (b), Oct. 23, 1992, 106 Stat. 2687; Pub. L. 103–160, div. A, title IX, §904(d)(1), title XI, §1182(b)(2), title XIII, §1315(d), Nov. 30, 1993, 107 Stat. 1728, 1772, 1787.)
 
 #### References in Text
 

@@ -44,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
-Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, §532, Sept. 30, 1994, 108 Stat. 2413, provided that: “The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 1996: <i>Provided</i>, That no later than March 1, 1996, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
+Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, §532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, §5, Nov. 19, 1995, 109 Stat. 490, provided that: “The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 1998: <i>Provided</i>, That no later than March 1, 1998, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
 
 &emsp;“(1) an examination of the pay practices of other employers in the affected areas;
 
@@ -68,7 +68,7 @@ Definitions. As used in this Part, (a) the words “foreign areas” mean all ar
 
 Sec. 102.
 
-Additional Compensation by Reason of Environment. The Secretary of State shall from time to time, subject to applicable law, (a) designate places in foreign areas having conditions of environment which differ substantially from conditions of environment in the United States and warrant additional compensation as a recruitment incentive, (b) fix for each such place the additional rate or rates of compensation to be paid by reason of such environment pursuant to section 207 of the Act, after giving due consideration to the degree of environmental difference, and (c) prescribe such further regulations, governing such compensation, as may be necessary. Additional compensation so fixed is hereafter in this Part referred to as “foreign post differential.”
+Additional Compensation by Reason of Environment. The Secretary of State shall from time to time, subject to applicable law, (a) designate places in foreign areas having conditions of environment which differ substantially from conditions of environment in the United States and warrant additional compensation as a recruitment incentive, (b) fix for each such place the additional rate or rates of compensation to be paidby reason of such environment pursuant to section 207 of the Act, after giving due consideration to the degree of environmental difference, and (c) prescribe such further regulations, governing such compensation, as may be necessary. Additional compensation so fixed is hereafter in this Part referred to as “foreign post differential.”
 
 Sec. 103.
 
@@ -80,7 +80,7 @@ Agencies Covered. Subject to the provisions of section 207 of the Act and of thi
 
 Sec. 105.
 
-Persons Eligible to Receive Foreign Post Differential. (a) In order that an employee be eligible to receive a foreign post differential under this Part, (1) he shall be a citizen or national of the United States,\(2) his residence in the place to which the foreign post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
+Persons Eligible to Receive Foreign Post Differential. (a) In order that an employee be eligible to receive a foreign post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the foreign post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
 
 (b) Subject to the provisions of section 105(a) hereof, the classes of persons eligible to receive the foreign post differentials fixed pursuant to section 102 hereof shall include:
 
@@ -114,7 +114,7 @@ Periodic Review. The Secretary of State shall periodically, but at least annuall
 
 Sec. 109.
 
-Additional Living Cost Compensation. No executive department, independent establishment, or wholly owned Government corporation shall pay, pursuant to section 207 of the Act, additional compensation to any employee located in any foreign area by reason of living costs which are substantially higher than those in the District of Columbia: <i>Provided,</i> That this section shall not be construed to prevent any payment, under section 204 of said Independent Offices Appropriation Act, 1949, or under other appropriate authority.
+Additional Living Cost Compensation. No executive department, independent establishment, or wholly owned Government corporation shall pay, pursuant to section 207 of the Act, additional compensation to any employee located in any foreign area by reason of living costs which are substantially higher than those in the District of Columbia: <i>Provided</i>, That this section shall not be construed to prevent any payment, under section 204 of said Independent Offices Appropriation Act, 1949, or under other appropriate authority.
 
 #### Part II—Additional Compensation in Non-Foreign Areas
 
@@ -138,13 +138,13 @@ Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order tha
 
 (1) Persons recruited or transferred from outside the area concerned.
 
-(2) Persons employed in the area concerned but (a) who were originally recruited from outside such area and have been in substantially continuous employment by other Federal agencies, contractors of Federal agencies, or international organizations in which the U. S. Government participates, and whose conditions of employment provide for their return transportation to places outside the area concerned, or (b) who were at the time of employment temporarily present in the area concerned for purposes of travel or formal study and maintained residence outside such area during the period so present.
+(2) Persons employed in the area concerned but (a) who were originally recruited from outside such areaand have been in substantially continuous employment by other Federal agencies, contractors of Federal agencies, or international organizations in which the U. S. Government participates, and whose conditions of employment provide for their return transportation to places outside the area concerned, or (b) who were at the time of employment temporarily present in the area concerned for purposes of travel or formal study and maintained residence outside such area during the period so present.
 
 (3) Persons who are not normally residents of the area concerned and who are discharged from the military service of the United States in such area to accept employment therein with an agency of the Federal Government.
 
 Sec. 205.
 
-Additional Living Cost Compensation. (a) The Office of Personnel Management shall from time to time, subject to applicable law, (1) designate places in non-foreign areas eligible to receive additional compensation by virtue of living costs that are substantially higher than in the Washington, D.C., area, (2) fix for each place so designated an additional rate or rates of compensation by reason of such higher living costs, and (3) prescribe by regulation such additional policies or procedures as may be necessary to administer suchcompensation. Additional compensation under this section is referred to as a “non-foreign area cost-of-living allowance”.
+Additional Living Cost Compensation. (a) The Office of Personnel Management shall from time to time, subject to applicable law, (1) designate places in non-foreign areas eligible to receive additional compensation by virtue of living costs that are substantially higher than in the Washington, D.C., area, (2) fix for each place so designated an additional rate or rates of compensation by reason of such higher living costs, and (3) prescribe by regulation such additional policies or procedures as may be necessary to administer such compensation. Additional compensation under this section is referred to as a “non-foreign area cost-of-living allowance”.
 
 (b) In fixing the non-foreign area cost-of-living allowances, the Office of Personnel Management shall make appropriate deductions when quarters or subsistence, or commissary or other purchasing privileges are furnished as a result of Federal civilian employment at a cost substantially lower than the prevailing costs in the allowance area concerned.
 

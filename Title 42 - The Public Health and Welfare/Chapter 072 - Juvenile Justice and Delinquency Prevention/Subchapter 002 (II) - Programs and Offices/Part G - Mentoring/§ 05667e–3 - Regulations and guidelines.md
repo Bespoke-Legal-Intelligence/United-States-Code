@@ -20,5 +20,5 @@ Regulations.—The Administrator, after consultation with the Secretary of Healt
 
 “(b)
 
-Guidelines.—The Administrator shall develop and distribute to program participants specific model guidelines for the screening of prospective program mentors.”
+Guidelines.—The Administrator shall develop and distribute to program participants specific modelguidelines for the screening of prospective program mentors.”
 

@@ -50,7 +50,7 @@ Section 122(a) of Pub. L. 102–405 provided that: “In carrying out research a
 
 #### Research Relating to Women Veterans’ Health
 
-Pub. L. 102–585, title I, §109, Nov. 4, 1992, 106 Stat. 4948, provided for initiation and expansion of researchrelating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by Pub. L. 103–452, title I, §102(b)(2), Nov. 2, 1994, 108 Stat. 4786.
+Pub. L. 102–585, title I, §109, Nov. 4, 1992, 106 Stat. 4948, provided for initiation and expansion of research relating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by Pub. L. 103–452, title I, §102(b)(2), Nov. 2, 1994, 108 Stat. 4786.
 
 #### Section Referred to in Other Sections
 

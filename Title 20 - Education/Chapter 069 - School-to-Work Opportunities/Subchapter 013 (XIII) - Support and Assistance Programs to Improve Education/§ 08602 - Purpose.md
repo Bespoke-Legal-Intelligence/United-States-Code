@@ -10,5 +10,5 @@ The purpose of this subchapter is to create a national technical assistance and 
 
 &emsp;(4) adopting, adapting, and implementing promising and proven practices for improving teaching and learning.
 
-(Pub. L. 89 10, title XIII, §13002, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3876.)
+(Pub. L. 89–10, title XIII, §13002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3876.)
 

@@ -462,5 +462,5 @@ Section applicable to taxable years beginning after Dec. 31, 1988, but not appli
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 414, 9707 of this title; title 42 sections 1396a, 1396e.
+This section is referred to in sections 414, 9707 of this title; title 38 section 4317; title 42 sections 1396a, 1396e.
 

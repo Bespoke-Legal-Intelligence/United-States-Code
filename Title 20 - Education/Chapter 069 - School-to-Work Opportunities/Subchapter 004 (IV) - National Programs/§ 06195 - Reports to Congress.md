@@ -14,5 +14,5 @@ The Secretaries shall, at a minimum, include in each such report—
 
 &emsp;(3) information regarding the findings and actions taken as a result of any evaluation conducted by the Secretaries.
 
-(Pub. L. 103 239, title IV, §405, May 4, 1994, 108 Stat. 597.)
+(Pub. L. 103–239, title IV, §405, May 4, 1994, 108 Stat. 597.)
 

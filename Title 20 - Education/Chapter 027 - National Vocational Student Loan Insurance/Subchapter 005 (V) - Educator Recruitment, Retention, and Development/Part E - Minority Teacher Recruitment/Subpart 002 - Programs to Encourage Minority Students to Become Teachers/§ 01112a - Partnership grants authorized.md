@@ -24,7 +24,7 @@ The non-Federal share of each grant awarded under this section may be in cash or
 
 Not more than 5 percent of any grant awarded under this section may be used for administrative expenses.
 
-(Pub. L. 89 329, title V, §578, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 708.)
+(Pub. L. 89–329, title V, §578, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 708.)
 
 #### Section Referred to in Other Sections
 

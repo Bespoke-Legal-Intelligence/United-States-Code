@@ -1,0 +1,20 @@
+### §395. Fees for rabies diagnoses; disposition of moneys
+
+Fees shall be charged for all diagnoses in connection with rabies, except those performed for agencies of the United States Government, in such amounts as the Secretary shall prescribe, and such fees shall be covered into the Treasury as miscellaneous receipts.
+
+(Sept. 21, 1944, ch. 412, title I, §101(e), 58 Stat. 734.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in the following prior Department of Agriculture Appropriation Acts:
+
+June 28, 1944, ch. 296, 58 Stat. 433.
+
+July 12, 1943, ch. 215, 57 Stat. 401.
+
+July 22, 1942, ch. 516, 56 Stat. 674.
+
+#### Appropriations
+
+Section 101(g) of act Sept. 21, 1944, provided that Congress may appropriate such funds as are necessary to accomplish the purpose of this section.
+

@@ -6,7 +6,7 @@ As part of the Program, the National Science Foundation, the Department of Defen
 
 #### (b) Access
 
-Federal agencies and departments shall work with private network service providers, State and local agencies, libraries, educational institutions and organizations, and others, as appropriate, in order to ensure that the researchers, educators, and students have access, as appropriate, to the Network. The Network is to provide users with appropriate access to high-performance computing systems, electronic information resources, other research facilities, and libraries. The Network shall provide access, to the extent practicable, to electronic information resources maintained by libraries, research facilities, publishers, and affiliated organizations.
+Federal agencies and departments shall work with private network service providers, State and local agencies, libraries, educational institutions and organizations, and others, as appropriate, in order to ensure that the researchers, educators, and students have access, as appropriate, to the Network. The Network is to provide users with appropriate access to high-performance computing systems, electronic information resources, other research facilities, andlibraries. The Network shall provide access, to the extent practicable, to electronic information resources maintained by libraries, research facilities, publishers, and affiliated organizations.
 
 #### (c) Network characteristics
 
@@ -60,7 +60,7 @@ Within one year after December 9, 1991, the Director shall report to the Congres
 
 &emsp;(6) appropriate policies to ensure the security of resources available on the Network and to protect the privacy of users of networks.
 
-(Pub. L. 102 194, title I, §102, Dec. 9, 1991, 105 Stat. 1598.)
+(Pub. L. 102–194, title I, §102, Dec. 9, 1991, 105 Stat. 1598.)
 
 #### Section Referred to in Other Sections
 

@@ -44,7 +44,7 @@ Section 201(c) of Pub. L. 103–446 provided that: “Section 7101A(b) of title 
 
 #### Save Pay Provision
 
-Section 201(b) of Pub. L. 103–446 provided that: “The rate of basic pay payable to an individual who is amember of the Board of Veterans’ Appeals on the date of the enactment of this Act \[Nov. 2, 1994\] may not be reduced by reason of the amendments made by this section \[enacting this section and amending section 7101 of this title\] to a rate below the rate payable to such individual on the day before such date.”
+Section 201(b) of Pub. L. 103–446 provided that: “The rate of basic pay payable to an individual who is a member of the Board of Veterans’ Appeals on the date of the enactment of this Act \[Nov. 2, 1994\] may not be reduced by reason of the amendments made by this section \[enacting this section and amending section 7101 of this title\] to a rate below the rate payable to such individual on the day before such date.”
 
 #### Deadline for Establishment of Performance Evaluation Criteria for Board Members
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;<b>(13) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 802, §6420; renumbered §6421, Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; renumbered §6422, June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended Sept. 2, 1958, Pub. L. 85–859, title II, §204(4), 72 Stat. 1429; June 4, 1963, Pub. L. 88–36, title II, §201(c), 77 Stat. 54; Oct. 4, 1976, Pub. L. 94–455, title XVI, §1601(f)(1), title XIX, §§1901(b)(36)(B), 1906(a)(28), 90 Stat.1746, 1802, 1828; Nov. 6, 1978, Pub. L. 95–600, title III, §362(d)(4), 92 Stat. 2852; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(4), 96 Stat. 667; Sept. 13, 1982, Pub. L. 97–258, §3(f)(8), (9), 96 Stat. 1064; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(17)(A), 104 Stat. 1388–527.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 802, §6420; renumbered §6421, Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; renumbered §6422, June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended Sept. 2, 1958, Pub. L. 85–859, title II, §204(4), 72 Stat. 1429; June 4, 1963, Pub. L. 88–36, title II, §201(c), 77 Stat. 54; Oct. 4, 1976, Pub. L. 94–455, title XVI, §1601(f)(1), title XIX, §§1901(b)(36)(B), 1906(a)(28), 90 Stat. 1746, 1802, 1828; Nov. 6, 1978, Pub. L. 95–600, title III, §362(d)(4), 92 Stat. 2852; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(4), 96 Stat. 667; Sept. 13, 1982, Pub. L. 97–258, §3(f)(8), (9), 96 Stat. 1064; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(17)(A), 104 Stat. 1388–527.)
 
 #### References in Text
 

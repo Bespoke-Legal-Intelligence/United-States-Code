@@ -1,4 +1,4 @@
-### §8018 . Administrative Assistant
+### §8018. Administrative Assistant
 
 The Secretary of the Air Force may appoint an Administrative Assistant in the Office of the Secretary of the Air Force. The Administrative Assistant shall perform such duties as the Secretary may prescribe.
 

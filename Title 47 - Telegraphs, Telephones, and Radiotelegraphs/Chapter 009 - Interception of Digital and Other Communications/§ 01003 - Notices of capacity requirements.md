@@ -40,7 +40,7 @@
 
 #### (2) Compliance
 
-&emsp;Within 3 years after notice of increased maximum capacity requirements is published under paragraph (1), or within such longer time period as the Attorney General may specify, a telecommunications carrier shall, subject to subsection (e) of this section, ensure that its systems are capable of expanding to the increased maximum capacity set forth in the notice.
+&emsp;Within 3 years after notice of increased maximum capacity requirements is published under paragraph (1), or within such longer time period as the Attorney General mayspecify, a telecommunications carrier shall, subject to subsection (e) of this section, ensure that its systems are capable of expanding to the increased maximum capacity set forth in the notice.
 
 #### (d) Carrier statement
 
@@ -48,7 +48,7 @@ Within 180 days after the publication by the Attorney General of a notice of cap
 
 #### (e) Reimbursement required for compliance
 
-The Attorney General shall review the statements submitted under subsection (d) of this section and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 1008(e) of thistitle. Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c) of this section.
+The Attorney General shall review the statements submitted under subsection (d) of this section and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 1008(e) of this title. Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c) of this section.
 
 (Pub. L. 103–414, title I, §104, Oct. 25, 1994, 108 Stat. 4282.)
 

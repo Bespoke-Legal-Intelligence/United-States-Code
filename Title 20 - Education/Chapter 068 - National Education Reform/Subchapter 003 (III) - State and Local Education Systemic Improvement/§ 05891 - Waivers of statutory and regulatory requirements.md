@@ -22,7 +22,7 @@
 
 &emsp;(A)(i) To request a waiver under paragraph (1), a local educational agency or school that receives funds under this subchapter, or a local educational agency or school that does not receive funds under this subchapter but is undertaking school reform efforts that the Secretary determines are comparable to the activities described in section 5886 of this title, shall transmit an application for such a waiver to the State educational agency. The State educational agency then shall submit approved applications for waivers under paragraph (1) to the Secretary.
 
-&emsp;(ii) A State educational agency that receives funds under this subchapter may request a waiver under paragraph (1) by submitting an application for such waiver to the Secretary.
+&emsp;(ii) A State educational agency that receives funds under this subchapter may request awaiver under paragraph (1) by submitting an application for such waiver to the Secretary.
 
 &emsp;(B) Each application submitted to the Secretary under subparagraph (A) shall—
 
@@ -110,7 +110,7 @@ The Secretary shall periodically review the performance of any State, local educ
 
 &emsp;&emsp;(A) has developed a State improvement plan under section 5886 of this title that is approved by the Secretary; and
 
-&emsp;&emsp;(B) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
+&emsp;&emsp;(B) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by suchwaivers accountable for the performance of the students who are affected by such waivers.
 
 #### (4) State application
 
@@ -170,19 +170,19 @@ In deciding whether to extend a request for a waiver under subsection (a)(1) of 
 
 #### (g) Publication
 
-A notice of the Secretary's decision to grant waivers under subsection (a)(1) of this section and to authorize State educational agencies to issue waivers under subsection (e) of this section shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, other interested parties, and the public.
+A notice of the Secretary's decision to grant waivers under subsection (a)(1) of this section and to authorize State educational agencies to issue waivers under subsection (e) of this sectionshall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, other interested parties, and the public.
 
-(Pub. L. 103 227, title III, §311, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103 382, title III, §394(f)(5), Oct. 20, 1994, 108 Stat. 4028.)
+(Pub. L. 103–227, title III, §311, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, §394(f)(5), Oct. 20, 1994, 108 Stat. 4028.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (5), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Title VIII of the Act is classified generally to subchapter VIII (§7701 et seq.) of chapter 70 of this title. Part B of title IX of the Act is classified generally to part B (§7901 et seq.) of subchapter IX of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Title VIII of the Act is classified generally to subchapter VIII (§7701 et seq.) of chapter 70 of this title. Part B of title IX of the Act is classified generally to part B (§7901 et seq.) of subchapter IX of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(6), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(6), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (b)(1) to (6). Pub. L. 103 382 amended pars. (1) to (6) generally. Prior to amendment, pars. (1) to (6) read as follows:
+1994—Subsec. (b)(1) to (6). Pub. L. 103–382 amended pars. (1) to (6) generally. Prior to amendment, pars. (1) to (6) read as follows:
 
 “(1) Chapter 1 of title I of the Elementary and Secondary Education Act of 1965, including Even Start.
 

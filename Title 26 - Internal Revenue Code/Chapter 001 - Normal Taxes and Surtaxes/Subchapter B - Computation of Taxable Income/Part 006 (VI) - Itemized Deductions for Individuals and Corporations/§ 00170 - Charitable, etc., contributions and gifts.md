@@ -176,7 +176,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (1) General rule
 
-&emsp;The amount of any charitable contribution of property otherwise taken into accountunder this section shall be reduced by the sum of—
+&emsp;The amount of any charitable contribution of property otherwise taken into account under this section shall be reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of gain which would not have been long-term capital gain if the property contributed had been sold by the taxpayer at its fair market value (determined at the time of such contribution), and
 
@@ -388,7 +388,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (9) Denial of deduction where contribution for lobbying activities
 
-&emsp;No deduction shall be allowed under this section for a contribution to an organizationwhich conducts activities to which section 162(e)(1) applies on matters of direct financial interest to the donor's trade or business, if a principal purpose of the contribution was to avoid Federal income tax by securing a deduction for such activities under this section which would be disallowed by reason of section 162(e) if the donor had conducted such activities directly. No deduction shall be allowed under section 162(a) for any amount for which a deduction is disallowed under the preceding sentence.
+&emsp;No deduction shall be allowed under this section for a contribution to an organization which conducts activities to which section 162(e)(1) applies on matters of direct financial interest to the donor's trade or business, if a principal purpose of the contribution was to avoid Federal income tax by securing a deduction for such activities under this section which would be disallowed by reason of section 162(e) if the donor had conducted such activities directly. No deduction shall be allowed under section 162(a) for any amount for which a deduction is disallowed under the preceding sentence.
 
 #### (g) Amounts paid to maintain certain students as members of taxpayer's household
 
@@ -398,7 +398,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;(A) a member of the taxpayer's household under a written agreement between the taxpayer and an organization described in paragraph (2), (3), or (4) of subsection (c) to implement a program of the organization to provide educational opportunities for pupils or students in private homes, and
 
-&emsp;&emsp;(B) a full-time pupil or student in the twelfth or any lower grade at an educational organization described in section 170(b)(1)(A)(ii) located in the United States,
+&emsp;&emsp;(B) a full-time pupil or student in the twelfth or any lower grade at an educationalorganization described in section 170(b)(1)(A)(ii) located in the United States,
 
 > &emsp;shall be treated as amounts paid for the use of the organization.
 
@@ -562,13 +562,13 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 &emsp;&emsp;<b>(9) For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Sept. 2, 1958, Pub. L. 85–866, title I, §§10(a), 11, 12(a), 72 Stat. 1609, 1610; Sept. 14, 1960, Pub. L. 86–779, §7(a), 74 Stat. 1002; Oct. 16, 1962, Pub. L. 87–834, §13(d), 76 Stat. 1034; Oct. 23, 1962, Pub. L. 87–858, §2(a), (b), 76 Stat. 1134; Feb. 26, 1964, Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), 78 Stat. 43, 45–47, 105; Sept. 12, 1966, Pub. L. 89–570, §1(b)(1), 80 Stat. 762; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), 83 Stat. 526, 549, 558, 565; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; May 23, 1977, Pub. L. 95–30, title III, §309(a), 91 Stat. 154; Nov. 6, 1978, Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), 92 Stat. 2868; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(e)(2), 94 Stat. 2162; Dec. 17, 1980, Pub. L. 96–541, §6(a), (b), 94 Stat. 3206; Aug. 13, 1981, Pub. L. 97–34, title I, §121(a), title II,§§222(a), 263(a), 95 Stat. 196, 248, 264; Sept. 3, 1982, Pub. L. 97–248, title II, §286(b)(1), 96 Stat. 570; Sept. 13, 1982, Pub. L. 97–258, §3(f)(1), 96 Stat. 1064; Oct. 19, 1982, Pub. L. 97–354, §5(a)(21), 96 Stat. 1694; Jan. 12, 1983, Pub. L. 97–448, title I, §102(f)(7), 96 Stat. 2372; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(4), 96 Stat. 2609; July 18, 1984, Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Oct. 22, 1986, Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, 100 Stat. 2120, 2180, 2217, 2851; Dec. 22, 1987, Pub. L. 100–203, title X, §10711(a)(1), 101 Stat. 1330–464; Nov. 10, 1988, Pub. L. 100–647, title VI, §6001(a), 102 Stat. 3683; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), 104 Stat. 1388–520, 1388–523, 1388–554; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13172(a), 13222(b), 107 Stat. 455, 479.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Sept. 2, 1958, Pub. L. 85–866, title I, §§10(a), 11, 12(a), 72 Stat. 1609, 1610; Sept. 14, 1960, Pub. L. 86–779, §7(a), 74 Stat. 1002; Oct. 16, 1962, Pub. L. 87–834, §13(d), 76 Stat. 1034; Oct. 23, 1962, Pub. L. 87–858, §2(a), (b), 76 Stat. 1134; Feb. 26, 1964, Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), 78 Stat. 43, 45–47, 105; Sept. 12, 1966, Pub. L. 89–570, §1(b)(1), 80 Stat. 762; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), 83 Stat. 526, 549, 558, 565; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; May 23, 1977, Pub. L. 95–30, title III, §309(a), 91 Stat. 154; Nov. 6, 1978, Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), 92 Stat. 2868; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(e)(2), 94 Stat. 2162; Dec. 17, 1980, Pub. L. 96–541, §6(a), (b), 94 Stat. 3206; Aug. 13, 1981, Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), 95 Stat. 196, 248, 264; Sept. 3, 1982, Pub. L. 97–248, title II, §286(b)(1), 96 Stat. 570; Sept. 13, 1982, Pub. L. 97–258, §3(f)(1), 96 Stat. 1064; Oct. 19, 1982, Pub. L. 97–354, §5(a)(21), 96 Stat. 1694; Jan. 12, 1983, Pub. L. 97–448, title I, §102(f)(7), 96 Stat. 2372; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(4), 96 Stat. 2609; July 18, 1984, Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Oct. 22, 1986, Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, 100 Stat. 2120, 2180, 2217, 2851; Dec. 22, 1987, Pub. L. 100–203, title X, §10711(a)(1), 101 Stat. 1330–464; Nov. 10, 1988, Pub. L. 100–647, title VI, §6001(a), 102 Stat. 3683; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), 104 Stat. 1388–520, 1388–523, 1388–554; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13172(a), 13222(b), 107 Stat. 455, 479.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, as amended, referred to in subsec. (e)(3)(A)(iv), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 11(a) of the Internal Security Act of 1950 (50 U.S.C. 790), referred to in subsec. (k), was repealed by Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
+Section 11(a) of the Internal Security Act of 1950 (50 U.S.C. 790), referred to in subsec. (k), was repealed byPub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
 
 Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (m)(7), is classified to section 2697 of Title 22, Foreign Relations and Intercourse.
 
@@ -718,7 +718,7 @@ Subsec. (e). Pub. L. 91–172, §201(a)(1)(B), substituted provisions covering c
 
 Subsec. (f). Pub. L. 91–172, §201(a)(1)(B), substituted provisions for the disallowance of the deduction in specified cases for provision covering future interests in tangible personal property.
 
-Subsec. (g). Pub. L. 91–172, §201(a)(2)(A), substituted “subsection (d)(1)” for “subsection (b)(5)” in two placesin par. (1) and struck out par. (2)(B) covering contributions to organizations substantially more than half of the assets and the total income were devoted to charitable purposes.
+Subsec. (g). Pub. L. 91–172, §201(a)(2)(A), substituted “subsection (d)(1)” for “subsection (b)(5)” in two places in par. (1) and struck out par. (2)(B) covering contributions to organizations substantially more than half of the assets and the total income were devoted to charitable purposes.
 
 Subsec. (h). Pub. L. 91–172, §201(a)(1)(A), redesignated subsec. (d) as (h). Former subsec. (h) redesignated (i).
 
@@ -830,7 +830,7 @@ Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided
 
 #### Effective Date of 1982 Amendments
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 Amendment by Pub. L. 97–248 effective Oct. 5, 1976, see section 286(c) of Pub. L. 97–248, set out as a note under section 501 of this title.
 
@@ -906,7 +906,7 @@ Section 201(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(ii) if the property transferred was an irrevocable interest to, or for the use of, an organization described in section 2055(a), or
 
-&emsp;“(iii) if the instrument governing the disposition of the property was not amended by the decedent before October 9, 1972, and the decedent is on such date and at all times thereafter under a mental disability to change the disposition of the property.
+&emsp;“(iii) if the instrument governing the disposition of the property was not amended by the decedent beforeOctober 9, 1972, and the decedent is on such date and at all times thereafter under a mental disability to change the disposition of the property.
 
 “(D) The amendment made by paragraph (3) of subsection (d) \[amending section 2522 of this title\] shall apply to gifts made after December 31, 1969, except that the amendments made to section 2522(c)(2) of the Internal Revenue Code of 1986 shall apply to gifts made after July 31, 1969.
 
@@ -968,7 +968,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Authority To Waive Appraisal Requirement for Certain Charitable Contributions of Property
 
-Section 6281 of Pub. L. 100–647 provided that: “Notwithstanding paragraph (2) of section 155(a) of the Tax Reform Act of 1984 \[section 155(a)(2) of Pub. L. 98–369, set out below\], the Secretary of the Treasury or his delegate may in the regulations prescribed pursuant to such section waive the requirement of a qualified appraisal in the case of a qualified contribution (within the meaning of section 170(e)(3)(A) of the 1986 Code) ofproperty described in section 1221(1) \[probably means section 1221(1) of the 1986 Code\] with a claimed value in excess of $5,000.”
+Section 6281 of Pub. L. 100–647 provided that: “Notwithstanding paragraph (2) of section 155(a) of the Tax Reform Act of 1984 \[section 155(a)(2) of Pub. L. 98–369, set out below\], the Secretary of the Treasury or his delegate may in the regulations prescribed pursuant to such section waive the requirement of a qualified appraisal in the case of a qualified contribution (within the meaning of section 170(e)(3)(A) of the 1986 Code) of property described in section 1221(1) \[probably means section 1221(1) of the 1986 Code\] with a claimed value in excess of $5,000.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1102,7 +1102,7 @@ Transfers to charitable uses deductible from gross estate, see section 2106 of t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 21, 41, 67, 74, 79, 101, 108, 117, 119, 125, 151, 152, 162, 163, 381, 401, 410, 467, 501, 507, 508, 509, 512, 513, 514, 535, 545, 556, 584, 642, 664, 674, 677, 702, 703, 805, 873, 882, 1011, 1255, 1257, 1398, 1441, 2055, 2056, 2503, 4041, 4221, 4253, 4911, 4940, 4941, 4942, 4944, 4945, 4947, 4948, 5214, 6033, 6050L, 6113, 6115, 6664, 7428, 7611, 7701, 7871 of this title; title 2 section 439a; title 12 section 3015; title 16 sections 410yy–8, 1246, 1285; title 20 sections 954, 956; title 22 sections 2876, 3307, 4341, 4603; title 29 sections 1002, 1052; title 42 sections 2996b, 10702.
+This section is referred to in sections 21, 41, 67, 74, 79, 101, 108, 117, 119, 125, 151, 152, 162, 163, 381, 401, 410, 467, 501, 507, 508, 509, 512, 513, 514, 535, 545, 556, 584, 642, 664, 674, 677, 702, 703, 805, 873, 882, 1011, 1255, 1257, 1398, 1441, 2055, 2056, 2503, 4041, 4221, 4253, 4911, 4940, 4941, 4942, 4944, 4945, 4947, 4948, 5214, 6033, 6050L, 6113, 6115, 6664, 7428, 7611, 7701, 7871 of this title; title 2 section 439a; title 12 section 3015; title 15 sections 80a–3, 80a–3a; title 16 sections 410yy–8, 1246, 1285; title 20 sections 954, 956; title 22 sections 3307, 4341, 4603; title 23 section 133; title 29 sections 1002, 1052; title 42 sections 2996b, 10702.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -74,7 +74,7 @@ June 30, 1932, ch. 314, §602(a), (b), (c)(related to §602), 47 Stat. 418.
 
 31:686b(c)(related to 31:686, 686b).
 
-In the section, the word “agency” is substituted for “executive department or independent establishment of the Government” for clarity. See 12 Comp. Gen. 442\(1932) and <i>United States v. Mitchell</i>, 425 F. Supp. 917 (D.D.C. 1976). The words “major organizational unit” or “unit” are substituted for “bureau or office” for consistency in the revised title. The words “to fill the order” or “filling the order” are substituted for “such requisitioned” and “as may be requisitioned” for clarity and because of the restatement. The words “goods or services” are substituted for “materials, supplies, equipment, work, or services” to eliminate unnecessary words.
+In the section, the word “agency” is substituted for “executive department or independent establishment of the Government” for clarity. See 12 Comp. Gen. 442 (1932) and <i>United States v. Mitchell</i>, 425 F. Supp. 917 (D.D.C. 1976). The words “major organizational unit” or “unit” are substituted for “bureau or office” for consistency in the revised title. The words “to fill the order” or “filling the order” are substituted for “such requisitioned” and “as may be requisitioned” for clarity and because of the restatement. The words “goods or services” are substituted for “materials, supplies, equipment, work, or services” to eliminate unnecessary words.
 
 In subsection (a)(4), the words “the head of the agency decides” are added, and the words “commercial enterprise” are substituted for “private agencies”, for clarity. The words “by competitive bids” are omitted as surplus because of various procurement laws.
 
@@ -160,7 +160,7 @@ Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, pro
 
 “(a)
 
-Regulations Required.—Not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary of Defense shall prescribe regulations governing the exercise by the Department of Defense of the authority under section 1535 of title 31, United States Code, to purchase goods and servicesunder contracts entered into or administered by another agency.
+Regulations Required.—Not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary of Defense shall prescribe regulations governing the exercise by the Department of Defense of the authority under section 1535 of title 31, United States Code, to purchase goods and services under contracts entered into or administered by another agency.
 
 “(b)
 
@@ -202,5 +202,5 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1536 of this title; title 2 section 142j; title 7 section 5922; title 10 sections 377, 1104, 2205; title 16 section 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 sections 1720A, 8110; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
+This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205; title 16 section 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 sections 1720A, 8110; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
 

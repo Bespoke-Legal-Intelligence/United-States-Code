@@ -26,5 +26,5 @@ It is the purpose of this subpart to provide financial assistance to rural publi
 
 &emsp;(12) provide for the recruitment and meaningful inservice opportunities for rural public school teachers.
 
-(Pub. L. 89 10, title X, §10972, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3853.)
+(Pub. L. 89–10, title X, §10972, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3853.)
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) If the basic rate of pay of the employee is fixed on a monthly basis, multiply the basic monthly rate of pay by 12 to derive a basic annual rate of pay, divide the basic annual rate of pay by 2,087, and multiply the quotient by one and one-half.
 
-> An employee subject to this subsection whose regular work schedule includes an 8-hour period of service a part of which is on Sunday is entitled to additional pay at the rate of 25 percent of his hourly rate of basic pay for each hour of work performed during that 8-hour period of service. Time spent in a travel status away from the official duty station of an employee subject to this subsection is not hours of work unless the travel (i) involves the performance of work while traveling, (ii) is incident to travel that involves the performance of work while traveling, (iii) is carried out under arduous conditions, or (iv) results from an event which could not be scheduled or controlled administratively. The first and third sentences of this subsection shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to the first and third sentences of this subsection, the Office ofPersonnel Management shall by regulation prescribe what hours shall be deemed to be hours of work and what hours of work shall be deemed to be overtime hours for the purpose of such section 7 so as to ensure that no employee receives less pay by reason of the preceding sentence.
+> An employee subject to this subsection whose regular work schedule includes an 8-hour period of service a part of which is on Sunday is entitled to additional pay at the rate of 25 percent of his hourly rate of basic pay for each hour of work performed during that 8-hour period of service. Time spent in a travel status away from the official duty station of an employee subject to this subsection is not hours of work unless the travel (i) involves the performance of work while traveling, (ii) is incident to travel that involves the performance of work while traveling, (iii) is carried out under arduous conditions, or (iv) results from an event which could not be scheduled or controlled administratively. The first and third sentences of this subsection shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to the first and third sentences of this subsection, the Office of Personnel Management shall by regulation prescribe what hours shall be deemed to be hours of work and what hours of work shall be deemed to be overtime hours for the purpose of such section 7 so as to ensure that no employee receives less pay by reason of the preceding sentence.
 
 (b) An employee under the Office of the Architect of the Capitol who is paid on a daily or hourly basis and who is not subject to chapter 51 and subchapter III of chapter 53 of this title is entitled to overtime pay for overtime work in accordance with subsection (a) of this section. The overtime hourly rate of pay is computed in accordance with subsection (a)(1) of this section.
 
@@ -48,7 +48,7 @@ Sept. 1, 1954, ch. 1208, §205(a), 68 Stat. 1109.
 
 June 30, 1945, ch. 212, §503 (as applicable to §23 of the Act of Mar. 28, 1934, ch. 102, 48 Stat. 522, as amended), 59 Stat. 301.
 
-In subsection (a), former sections 673c (2d proviso) and 913 are combined and restated for clarity and conciseness. The last 28 words of section 205(a) of the Act of Sept. 1, 1954, 68 Stat. 1109, are omitted as executed and covered by technical section 8.
+In subsection (a), former sections 673c (2d proviso) and 913 are combined and restated for clarity and conciseness. The last 28 words of section 205(a) of the Actof Sept. 1, 1954, 68 Stat. 1109, are omitted as executed and covered by technical section 8.
 
 Subsection (b) is restated to conform to subsection (a). In former section 933, the words “Classification Act of 1949” were substituted for “Classification Act of 1923” on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
@@ -78,17 +78,17 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
 Subsec. (a)(2), (3). Pub. L. 102–378, §2(42)(A), substituted “2,087” for “2,080”.
 
 Subsec. (c). Pub. L. 102–378, §2(42)(C), added subsec. (c).
 
-1990—Subsec. (a). Pub. L. 101–509 inserted at end “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 inserted at end “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-1972—Subsec. (a). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under section 5343 or 5349 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under section 5343 or 5349 of this title.
 
-1967—Subsec. (a). Pub. L. 90–206 provided that time spent in a travel status away from the official duty station could not qualify as hours of work unless the travel involved the performance of work while traveling, was incident to travel involving the performance of work while traveling, carried out under arduous conditions, or resulting from an event which could not be scheduled or controlled administratively.
+<b>1967</b>—Subsec. (a). Pub. L. 90–206 provided that time spent in a travel status away from the official duty station could not qualify as hours of work unless the travel involved the performance of work while traveling, was incident to travel involving the performance of work while traveling, carried out under arduous conditions, or resulting from an event which could not be scheduled or controlled administratively.
 
 #### Effective Date of 1992 Amendment
 
@@ -112,5 +112,5 @@ Section 17(3) of Pub. L. 85–550, July 25, 1958, 72 Stat. 411, provided that no
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5541, 6123, 6128 of this title; title 2 section 60e–2b; title 14 section 432;title 15 section 278e; title 20 section 241; title 22 section 3664; title 32 section 709.
+This section is referred to in sections 5541, 6123, 6128 of this title; title 2 sections 60e–2b, 1371; title 14 section 432; title 15 section 278e; title 22 section 3664; title 32 section 709.
 

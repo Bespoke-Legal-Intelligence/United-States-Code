@@ -11,4 +11,4 @@ Part D—Graduate Assistance in Areas of National Need
 - [&sect; 01134o - Criteria for applications](%C2%A7%2001134o%20-%20Criteria%20for%20applications.md)
 - [&sect; 01134p - Awards to graduate students](%C2%A7%2001134p%20-%20Awards%20to%20graduate%20students.md)
 - [&sect; 01134q - Additional assistance for cost of education](%C2%A7%2001134q%20-%20Additional%20assistance%20for%20cost%20of%20education.md)
-- [&sect; 01134q 1 - Authorization of appropriations](%C2%A7%2001134q%201%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01134q&#8211;1 - Authorization of appropriations](%C2%A7%2001134q%E2%80%931%20-%20Authorization%20of%20appropriations.md)

@@ -6,7 +6,7 @@
 
 (2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State with a program approved under section 6991c of this title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
 
-(3) If a violator fails to comply with an order under this subsection within the time specifiedin the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance.
+(3) If a violator fails to comply with an order under this subsection within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance.
 
 #### (b) Procedure
 

@@ -36,7 +36,7 @@ Subsec. (d). Pub. L. 103–337, §542(a)(2)(E), inserted at end “The Secretary
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
@@ -398,7 +398,7 @@ Payment Period.—(1) Except as provided in paragraphs (2) and (3), the implemen
 
 “(2) The implementing official may pay training assistance to an employer on a monthly basis if the implementing official determines (pursuant to regulations prescribed by the implementing official) that the number of employees of the employer is such that the payment of assistance on a quarterly basis would be burdensome to the employer.
 
-“(3) The implementing official shall withhold 25 percent of each payment due under this subsection with respect to an eligible person. The total amount withheld with respect to an eligible person under this paragraph shall be paid to the employer at the end of thefour month period of employment of such person under this subtitle beginning on the date of completion of training, or upon the completion of the 18th month of training under the last training program approved for the person's pursuit with that employer under this subtitle, whichever is earlier.
+“(3) The implementing official shall withhold 25 percent of each payment due under this subsection with respect to an eligible person. The total amount withheld with respect to an eligible person under this paragraph shall be paid to the employer at the end of the four month period of employment of such person under this subtitle beginning on the date of completion of training, or upon the completion of the 18th month of training under the last training program approved for the person's pursuit with that employer under this subtitle, whichever is earlier.
 
 “(c)
 
@@ -460,7 +460,7 @@ Failure To Meet Requirements.—If the implementing official finds at any time t
 
 “(b)
 
-Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons’ successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies,such official shall take into account appropriate data, including—
+Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons’ successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, such official shall take into account appropriate data, including—
 
 &emsp;“(A) the quarterly data provided by the Secretary of Labor with respect to the number of eligible persons who receive counseling in connection with training under this subtitle, are referred to employers under this subtitle, participate in job training under this subtitle, and complete such training or do not complete such training, and the reasons for noncompletion; and
 
@@ -534,13 +534,13 @@ Case Manager.—(1) The implementing official shall provide for a program under 
 
 &emsp;&emsp;“(i) the employer has an appropriate and effective employee assistance program that is available to all eligible persons participating in the employer's programs of job training under this subtitle; or
 
-&emsp;&emsp;“(ii) the rate of eligible persons’ successful completion of the employer's programs of job training under this subtitle, either cumulatively or during the previous program year, is 60 percent or higher.
+&emsp;&emsp;“(ii) the rate of eligible persons’ successful completion of the employer's programs of job trainingunder this subtitle, either cumulatively or during the previous program year, is 60 percent or higher.
 
 “(3) The implementing official shall provide, to the extent feasible, a program of counseling or other services designed to resolve difficulties that may be encountered by eligible persons during their training under this subtitle. Such counseling or other services shall be similar to the counseling and other services provided under sections 1712A, 3697A, 4103A, 4104, 7723, and 7724 of title 38, United States Code, and section 1144 of title 10, United States Code.
 
 “(c)
 
-Case Manager Required.—Before an eligible person who voluntarily terminates from a program ofjob training under this subtitle or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this subtitle, such eligible person must be provided by the Secretary of Labor, after consultation with the implementing official, with a case manager.
+Case Manager Required.—Before an eligible person who voluntarily terminates from a program of job training under this subtitle or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this subtitle, such eligible person must be provided by the Secretary of Labor, after consultation with the implementing official, with a case manager.
 
 #### “SEC. 4494. INFORMATION AND OUTREACH; USE OF AGENCY RESOURCES.
 
@@ -608,7 +608,7 @@ Contingent Amendment.—If a transfer is made in accordance with section 4501(c)
 
 Publication in the Federal Register.—If the transfer described in subsection (a) is made, then the Secretary of Defense shall promptly publish in the Federal Register a notice of such transfer. Such notice shall specify the date on which such transfer occurred.”
 
-\[Section 610(a)(2)(B) of Pub. L. 103–446 provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shallapply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
+\[Section 610(a)(2)(B) of Pub. L. 103–446 provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,14 @@
+### §243. Investigation of warehousing, weighing, classifying, and certification of agricultural products; inspection of warehouses; prescribing duties of warehousemen
+
+The Secretary of Agriculture is authorized to investigate the storage, warehousing, classifying according to grade and otherwise, weighing, and certification of agricultural products; upon application to him by any person applying for license to conduct a warehouse under this chapter, to inspect such warehouse or cause it to be inspected; at any time, with or without application to him, to inspect or cause to be inspected all warehouses licensed under this chapter; to determine whether warehouses for which licenses are applied for or have been issued under this chapter are suitable for the proper storage of any agricultural product or products; to classify warehouses licensed or applying for a license in accordance with their ownership, location, surroundings, capacity, conditions, and other qualities, and as to the kinds of licenses issued or that may be issued for them pursuant to this chapter; and to prescribe, within the limitations of this chapter, the duties of the warehousemen conducting warehouses licensed under this chapter with respect to their care of and responsibility for agricultural products stored therein.
+
+(Aug. 11, 1916, ch. 313, pt. C, §3, 39 Stat. 486.)
+
+#### Cross References
+
+Publication of general investigation of warehousing under this section, see section 266 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 266 of this title.
+

@@ -24,9 +24,9 @@ The transfers of funds between the United States and any specified possession re
 
 In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
-&emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Soldiers’ and Sailors’ Civil Relief Act (50 App. U.S.C. 501 et seq.), and
+&emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Soldiers’ andSailors’ Civil Relief Act (50 App. U.S.C. 501 et seq.), and
 
-&emsp;(2) the amount of the taxes deducted and withheld under chapter 24 with respect toamounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
+&emsp;(2) the amount of the taxes deducted and withheld under chapter 24 with respect to amounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
 
 #### (e) Regulations
 

@@ -1,4 +1,4 @@
-### §1442 . Alien enemies
+### §1442. Alien enemies
 
 #### (a) Naturalization under specified conditions
 

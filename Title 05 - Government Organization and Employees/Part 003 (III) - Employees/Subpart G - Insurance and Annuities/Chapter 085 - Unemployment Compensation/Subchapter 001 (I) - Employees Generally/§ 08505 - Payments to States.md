@@ -6,7 +6,7 @@
 
 (c) The Secretary, from time to time, shall certify to the Secretary of the Treasury the sum payable to each State under this section. The Secretary of the Treasury, before audit or settlement by the General Accounting Office, shall pay the State in accordance with the certification from the funds for carrying out the purposes of this subchapter.
 
-(d) Money paid a State under this subchapter may be used solely for the purposes for which it is paid. Money so paid which is not used for these purposes shall be returned, at the time specified by the agreement, to the Treasury of the United States and credited to current applicable appropriations, funds, or accounts fromwhich payments to States under this subchapter may be made.
+(d) Money paid a State under this subchapter may be used solely for the purposes for which it is paid. Money so paid which is not used for these purposes shall be returned, at the time specified by the agreement, to the Treasury of the United States and credited to current applicable appropriations, funds, or accounts from which payments to States under this subchapter may be made.
 
 (e) An agreement may—
 
@@ -42,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
 
 #### Effective Date of 1976 Amendment
 

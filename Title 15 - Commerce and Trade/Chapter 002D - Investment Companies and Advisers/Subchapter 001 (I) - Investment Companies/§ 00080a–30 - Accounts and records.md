@@ -6,7 +6,7 @@ Every registered investment company, and every underwriter, broker, dealer, or i
 
 #### (b) Examination of records by Commission
 
-All accounts, books, and other records, required to be maintained and preserved by any person pursuant to subsection (a) of this section, shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such records which may be prepared without undue effort, expense, or delay, as the Commission may by order require.
+All accounts, books, and other records, required to be maintained and preserved by any person pursuant to subsection (a) of this section,shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such records which may be prepared without undue effort, expense, or delay, as the Commission may by order require.
 
 #### (c) Uniformity in accounting policies
 

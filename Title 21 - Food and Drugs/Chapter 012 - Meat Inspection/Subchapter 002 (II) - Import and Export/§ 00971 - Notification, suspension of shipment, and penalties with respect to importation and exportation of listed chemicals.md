@@ -22,7 +22,7 @@ A person located in the United States who is a broker or trader for an internati
 
 #### (e) Application of notification requirement to exports of listed chemical; waiver
 
-(1) The Attorney General may by regulation require that the 15-day notification requirement of subsection (a) of this section apply to all exports of a listed chemical to a specified country, regardless of the status of certain customers in such country as regular customers, if the Attorney General finds that such notification is necessary to support effective chemical diversion control programs or is required by treaty or other international agreement to which the United States is a party.
+(1) The Attorney General may by regulation require that the 15-day notification requirement of subsection (a) of this section apply to all exports of a listed chemical to a specified country, regardless of the status of certain customers in such country as regular customers, if the Attorney General finds that such notification is necessary to support effective chemical diversioncontrol programs or is required by treaty or other international agreement to which the United States is a party.
 
 (2) The Attorney General may by regulation waive the 15-day notification requirement for exports of a listed chemical to a specified country if the Attorney General determines that such notification is not required for effective chemical diversion control. If the notification requirement is waived, exporters of the listed chemical shall be required to submit to the Attorney General reports of individual exportations or periodic reports of such exportation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
 

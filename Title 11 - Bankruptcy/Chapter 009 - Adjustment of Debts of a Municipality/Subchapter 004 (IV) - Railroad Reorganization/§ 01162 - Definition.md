@@ -1,16 +1,14 @@
 ### §1162. Definition
 
-In this subchapter, “Commission” means Interstate Commerce Commission.
+In this subchapter, “Board” means the “Surface Transportation Board”.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641.)
+(Added Pub. L. 104–88, title III, §302(1), Dec. 29, 1995, 109 Stat. 943.)
 
-#### Historical and Revision Notes
+#### Prior Provisions
 
-I74legislative statements
+A prior section 1162, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641, defined “Commission”, prior to repeal by Pub. L. 104–88, title III, §302(1), Dec. 29, 1995, 109 Stat. 943.
 
-Section 1162 of the House amendment is derived from section 1162(1) of the Senate bill.
+#### Effective Date
 
-#### senate report no. 95–989
-
-Two definitions are provided: That “Commission” means the Interstate Commerce Commission, and that “person” includes a governmental unit for purposes of the subchapter. The latter definition is made necessary because governmental unit is excluded from the definition of person in section 101(30).
+Section effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as a note under section 701 of Title 49, Transportation.
 

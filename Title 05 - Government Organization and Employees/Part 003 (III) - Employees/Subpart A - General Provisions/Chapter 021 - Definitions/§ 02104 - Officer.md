@@ -26,7 +26,7 @@ The section is supplied for convenience.
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
 
 Subsec. (b). Pub. L. 91–375, §6(c)(3)(C), added subsec. (b).
 

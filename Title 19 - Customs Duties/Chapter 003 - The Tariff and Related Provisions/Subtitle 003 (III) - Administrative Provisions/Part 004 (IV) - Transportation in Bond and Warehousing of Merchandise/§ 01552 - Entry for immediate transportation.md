@@ -6,7 +6,7 @@ Any merchandise, other than explosives and merchandise the importation of which 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §552, 42 Stat. 975. That section was superseded by section 552 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §552, 42 Stat. 975. That section was superseded by section 552 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions for transportation in bond without appraisement of merchandise with certain exceptions,when imported at certain named ports and destined for certain ports, were contained in act June 10, 1880, ch. 190, §§1 (as amended by act June 14, 1880, ch. 214, and act June 20, 1884, ch. 103) 2, 7, and 9, 21 Stat. 173, 174, 175. Sections 5 (as amended by act July 2, 1884, ch. 142, and act Feb. 23, 1887, ch. 215, and act Feb. 2, 1899, ch. 84) and 6 (as amended by act July 2, 1884, ch. 142), regulated the transportation and transfer of the merchandise. The act of June 10, 1880 was amended by act Feb. 23, 1887, ch. 218, 24 Stat. 414, and its provisions were extended by various acts to ports other than those originally named. The act of June 10, 1880, ch. 190, as amended, and the acts of Feb. 23, 1887, ch. 218, and Feb. 2, 1899, ch. 84, were all repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989, and the various acts extending the provisions of the act of June 10, 1880, thereupon became inoperative.
 

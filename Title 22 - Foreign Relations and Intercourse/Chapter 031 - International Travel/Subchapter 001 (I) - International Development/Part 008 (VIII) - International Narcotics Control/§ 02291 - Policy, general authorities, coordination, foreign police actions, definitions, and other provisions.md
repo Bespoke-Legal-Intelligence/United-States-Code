@@ -44,7 +44,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arisewhich are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -210,7 +210,7 @@ Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) a
 
 &emsp;“(ii) required banks and other financial institutions to know and record the identity of customers engaging in significant transactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
 
-&emsp;“(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactionsthrough financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
+&emsp;“(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
 
 &emsp;“(iv) required or allowed financial institutions to report suspicious transactions;
 
@@ -276,7 +276,7 @@ Subsec. (h)(2). Pub. L. 100–690, §4407(a), added par. (2) and struck out form
 
 Subsec. (h)(2)(A)(i)(I). Pub. L. 100–461, §578(g)(3), inserted “or multilateral agreement which achieves the objectives of this subsection,” after “(ii)”.
 
-Subsec. (h)(2)(A)(ii). Pub. L. 100–461, §578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at moneylaundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to take specific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
+Subsec. (h)(2)(A)(ii). Pub. L. 100–461, §578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to take specific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
 
 Subsec. (h)(2)(B). Pub. L. 100–461, §578(i), substituted “subparagraph (A)(i)(II)” for “clause (A)(ii)”.
 
@@ -348,7 +348,7 @@ Subsec. (e)(6). Pub. L. 99–83, §606, added par. (6).
 
 Subsec. (h)(4). Pub. L. 99–83, §618, added par. (4).
 
-1983—Subsec. (a). Pub. L. 98–164, §1003(a), amended subsec. (a) generally, substituting provisions relatingto applicability and implementation of Single Convention on Narcotic Drugs, 1961, and development, promotion and assistance respecting international narcotics control, for provisions relating to agreements, assistance, sanctions, etc., to facilitate international narcotics control.
+1983—Subsec. (a). Pub. L. 98–164, §1003(a), amended subsec. (a) generally, substituting provisions relating to applicability and implementation of Single Convention on Narcotic Drugs, 1961, and development, promotion and assistance respecting international narcotics control, for provisions relating to agreements, assistance, sanctions, etc., to facilitate international narcotics control.
 
 Subsec. (e). Pub. L. 98–164, §1003(b), amended subsec. (e) generally, substituting requirements for annual reports on cultivation and manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances and the specific contents of the reports for requirements for annual reports on the status of United States policy regarding production, interdiction, and interception of trafficking in narcotics.
 
@@ -372,7 +372,7 @@ Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1987 Amendment
 
@@ -518,7 +518,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(1)
 
-Multilateral development bank.—The term ‘multilateral development bank’ means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the African Development Bank, and the Asian Development Bank.
+Multilateral development bank.—The term ‘multilateral development bank’ means the International Bank for Reconstruction and Development, the International Development Association, theInter-American Development Bank, the African Development Bank, and the Asian Development Bank.
 
 &emsp;“(2)
 
@@ -572,7 +572,7 @@ Report to Senate.—The Caucus is authorized and directed to report to the Senat
 
 “(g)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated to the Caucus $325,000for each fiscal year, to remain available until expended, to assist in meeting the expenses of the Caucus for the purpose of carrying out the provisions of this section.
+Authorization of Appropriations.—(1) There are authorized to be appropriated to the Caucus $325,000 for each fiscal year, to remain available until expended, to assist in meeting the expenses of the Caucus for the purpose of carrying out the provisions of this section.
 
 “(2) For purposes of section 502(b) of the Mutual Security Act of 1954 (22 U.S.C. 1754(b)), the Caucus shall be deemed to be a standing committee of the Senate and shall be entitled to the use of funds in accordance with such section.
 
@@ -654,5 +654,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151x–2, 2291a, 2291k, 2321k of this title; title 7 section 1736g–1; title 12section 635; title 31 section 9703; title 48 sections 1902, 1903.
+This section is referred to in sections 2151x–2, 2291a, 2321k of this title; title 7 section 1736g–1; title 12 section 635; title 48 sections 1902, 1903.
 

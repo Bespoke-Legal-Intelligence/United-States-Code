@@ -60,7 +60,7 @@ Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 effective for taxable yea
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable to per-unit retain allocations made during taxable years of an organization described in section 1381(a) of this title (relating to organizations to which part I of subchapter T of chapter 1 applies) beginning after Apr. 30, 1966, withrespect to products delivered during such years, see section 211(e)(1) of Pub. L. 89–809, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 89–809 applicable to per-unit retain allocations made during taxable years of an organization described in section 1381(a) of this title (relating to organizations to which part I of subchapter T of chapter 1 applies) beginning after Apr. 30, 1966, with respect to products delivered during such years, see section 211(e)(1) of Pub. L. 89–809, set out as a note under section 1382 of this title.
 
 #### Effective Date
 

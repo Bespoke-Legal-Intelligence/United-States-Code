@@ -2,7 +2,7 @@
 
 #### (a) Authorization; scope and purposes of activities
 
-The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include,but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
+The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include, but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
 
 &emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
 
@@ -36,7 +36,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(F) foster cooperation among Federal, State, and private researchers and encourage the exchange of scientific information on the effects of atmospheric pollutants on forest ecosystems among the United States, Canada, European nations, and other nations;
 
-&emsp;(G) support the long-term funding of research programs and related efforts to determine the causes of declines in the health and productivity of domestic forest ecosystems and the effects of atmospheric pollutants onthe health and productivity of domestic forest ecosystems; and
+&emsp;(G) support the long-term funding of research programs and related efforts to determine the causes of declines in the health and productivity of domestic forest ecosystems and the effects of atmospheric pollutants on the health and productivity of domestic forest ecosystems; and
 
 &emsp;(H) enlarge the Eastern Hardwood Cooperative by devoting additional resources to field analysis of the response of hardwood species to atmospheric pollution, and other factors that may affect the health and productivity of these ecosystems.
 

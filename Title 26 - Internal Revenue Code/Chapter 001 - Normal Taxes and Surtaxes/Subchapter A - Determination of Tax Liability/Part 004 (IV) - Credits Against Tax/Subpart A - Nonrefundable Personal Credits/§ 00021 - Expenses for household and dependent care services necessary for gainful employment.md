@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (C) Dependent care centers
 
-&emsp;&emsp;Employment-related expenses described in subparagraph (A) which are incurred forservices provided outside the taxpayer's household by a dependent care center (as defined in subparagraph (D)) shall be taken into account only if—
+&emsp;&emsp;Employment-related expenses described in subparagraph (A) which are incurred for services provided outside the taxpayer's household by a dependent care center (as defined in subparagraph (D)) shall be taken into account only if—
 
 &emsp;&emsp;&emsp;(i) such center complies with all applicable laws and regulations of a State or unit of local government, and
 
@@ -236,7 +236,7 @@ Subsec. (e)(2)(A). Pub. L. 97–34, §124(b)(2)(A), substituted “$200” for �
 
 Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted “$400” for “$333”.
 
-1978—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
+1978—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
 
 #### Effective Date of 1988 Amendment
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Section 124(f) of Pub. L. 97–34 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and enacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andenacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
 
 “(2) The amendments made by subsection (e)(2) \[amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1981.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Growth, product, or manufacture of beneficiary countries
 
-(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of theTax Reform Act of 1986, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -40,7 +40,7 @@ The duty-free treatment provided under this chapter shall not apply to—
 
 &emsp;(1) textile and apparel articles which are subject to textile agreements;
 
-&emsp;(2) footwear not designated at the time of the effective date of this chapter \[Aug. 5, 1983\] as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
+&emsp;(2) footwear not designated at the time of the effective date of this chapter \[Aug. 5, 1983\]as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
 
 &emsp;(3) tuna, prepared or preserved in any manner, in airtight containers;
 
@@ -158,7 +158,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 &emsp;(B) be implemented in 5 equal annual stages with the first one-fifth of the aggregate reduction in the rate of duty being applied to entries, or withdrawals from warehouse for consumption, of the article on or after January 1, 1992.
 
-(3) The reduction required under this subsection with respect to the rate of duty on any article is in addition to any reduction in the rate of duty on that article that may be proclaimed by the President as being required or appropriate to carry out any trade agreement entered into under the Uruguay Round of trade negotiations; except that if the reduction so proclaimed—
+(3) The reduction required under this subsection with respect to the rate of duty on anyarticle is in addition to any reduction in the rate of duty on that article that may be proclaimed by the President as being required or appropriate to carry out any trade agreement entered into under the Uruguay Round of trade negotiations; except that if the reduction so proclaimed—
 
 &emsp;(A) is less than 1.5 percent ad valorem, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed 3.5 percent ad valorem, or
 
@@ -170,7 +170,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
 
-The Trade Act of 1974, referred to in subsecs. (b)(2), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the TradeAct of 1974 is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(2), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b)(4) and (c)(1)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -368,7 +368,7 @@ Definitions.—For purposes of this section \[amending this section and General 
 
 &emsp;&emsp;&emsp;“(I) 60,000,000 gallons; or
 
-&emsp;&emsp;&emsp;“(II) an amount (expressed in gallons) equal to 7 percent of the United States domestic market for ethyl alcohol, as determined by the UnitedStates International Trade Commission, during the 12-month period ending on the preceding September 30;
+&emsp;&emsp;&emsp;“(II) an amount (expressed in gallons) equal to 7 percent of the United States domestic market for ethyl alcohol, as determined by the United States International Trade Commission, during the 12-month period ending on the preceding September 30;
 
 &nbsp;&nbsp;that is first entered during that calendar year.
 
@@ -402,7 +402,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Duty-Free Treatment of Imported Rum; Compensation Measures; Presidential Authority; Report to Congress
 
-Section 214(c) of Pub. L. 98–67, as amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 7652(c)\] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title \[this chapter\]. The President shall submit a report to the Congress on the measures he takes.”
+Section 214(c) of Pub. L. 98–67, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 7652(c)\] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title \[this chapter\]. The President shall submit a report to the Congress on the measures he takes.”
 
 #### Section Referred to in Other Sections
 

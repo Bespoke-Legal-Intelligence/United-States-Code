@@ -2,7 +2,7 @@
 
 (a) The Congress finds and declares the following:
 
-&emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fishery resources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
+&emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fisheryresources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
 
 &emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservation measures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
 

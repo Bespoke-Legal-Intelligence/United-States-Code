@@ -16,7 +16,7 @@ No assistance may be provided to any government failing to take appropriate and 
 
 In determining whether or not a government falls within the provisions of subsection (a) of this section and in formulating development assistance programs under subchapter I of this chapter, the Administrator shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor—
 
-&emsp;(1) the extent of cooperation of such government in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations, including the International Committee of the Red Cross, orgroups or persons acting under the authority of the United Nations or of the Organization of American States; and
+&emsp;(1) the extent of cooperation of such government in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations, including the International Committee of the Red Cross, or groups or persons acting under the authority of the United Nations or of the Organization of American States; and
 
 &emsp;(2) specific actions which have been taken by the President or the Congress relating to multilateral or security assistance to a less developed country because of the human rights practices or policies of such country.
 
@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 95–88, §111(b), added subsec. (e).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -116,7 +116,7 @@ Functions of President under subsec. (e) delegated to Director of United States 
 
 #### Report on Human Rights to Committees on Appropriations
 
-Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receiving United States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
+Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receiving United States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are ableto participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
 
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 

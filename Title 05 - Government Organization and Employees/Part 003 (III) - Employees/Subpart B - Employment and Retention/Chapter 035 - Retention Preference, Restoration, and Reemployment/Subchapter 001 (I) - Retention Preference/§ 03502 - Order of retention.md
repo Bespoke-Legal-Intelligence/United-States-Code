@@ -96,7 +96,7 @@ Aug. 19, 1964, Pub. L. 88–448, §202 (1)–(3), (4) (“(c)”), 78 78 Stat. 4
 
 June 27, 1944, ch. 287, §12 (2d proviso), 58 Stat. 390.
 
-In subsection (a), the words “reduction in force” are substituted for “reduction in personnel”. The words “in any civilian service of any Federal agency” are omittedas unnecessary because of the application stated in section 3501. In the second sentence, the word “total” in the phrase “length of service” is omitted for consistency with paragraph (3), and the words “subject to subsection (c) of this section” are omitted as unnecessary in view of the supplied distinction between a competing employee who is not a retired member of a uniformed service and such an employee who is a retired member of a uniformed service. In paragraph (A), the words “total length of time in active service” are substituted for “length of time spent in active service” for consistency with paragraph (B)(ii).
+In subsection (a), the words “reduction in force” are substituted for “reduction in personnel”. The words “in any civilian service of any Federal agency” are omitted as unnecessary because of the application stated in section 3501. In the second sentence, the word “total” in the phrase “length of service” is omitted for consistency with paragraph (3), and the words “subject to subsection (c) of this section” are omitted as unnecessary in view of the supplied distinction between a competing employee who is not a retired member of a uniformed service and such an employee who is a retired member of a uniformed service. In paragraph (A), the words “total length of time in active service” are substituted for “length of time spent in active service” for consistency with paragraph (B)(ii).
 
 In subsections (a) and (b), the references to “performance” ratings and ratings of “satisfactory” are added on authority of former section 2005, which is carried into section 4304.
 
@@ -112,19 +112,19 @@ The Job Training Partnership Act, referred to in subsec. (d)(3), (4), is Pub. L.
 
 #### Amendments
 
-1992—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
+<b>1992</b>—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
 
-1990—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
+<b>1990</b>—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
 
-1986—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
+<b>1986</b>—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
 
-1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
 
 Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
 
-1968—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
 
 Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
 
@@ -228,5 +228,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7512, 7521 of this title; title 10 section 1586; title 20 section 241; title 22 section 1438; title 25 section 472a; title 32 section 709.
+This section is referred to in sections 7512, 7521 of this title; title 10 section 1586; title 22 section 1438; title 25 section 472a; title 32 section 709.
 

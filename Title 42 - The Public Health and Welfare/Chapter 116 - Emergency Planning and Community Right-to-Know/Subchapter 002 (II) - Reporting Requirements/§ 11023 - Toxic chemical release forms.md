@@ -28,7 +28,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (c) Toxic chemicals covered
 
-The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of theSenate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
+The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
 
 #### (d) Revisions by Administrator
 
@@ -184,7 +184,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (5) Notification to Congress
 
-&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for amodification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
+&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
 
 #### (6) Judicial review
 
@@ -245,6 +245,30 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 &emsp;For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
 (Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741.)
+
+#### Expediting Community Right-to-Know Initiatives
+
+Memorandum of President of the United States, Aug. 8, 1995, 60 F.R. 41791, provided:
+
+Memorandum for the Administrator of the Environmental Protection Agency and the Heads of Executive Departments and Agencies
+
+The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
+
+The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
+
+So that consideration of these issues can be fully accomplished during this Administration, I am directing the Administrator of the Environmental Protection Agency, in consultation with the Office of Management and Budget and appropriate Federal agencies with applicable technical and functional expertise, as necessary, to take the following actions:
+
+(a) Continuation on an expedited basis of the public notice and comment rulemaking proceedings to consider whether, as appropriate and consistent with section 313(b) of EPCRA, 42 U.S.C. 11023(b), to add to the list of Standard Industrial Classification (“SIC”) Code designations of 20 through 39 (as in effect on July 1, 1985). For SIC Code designations, see “Standard Industrial Classification Manual” published by the Office of Management and Budget. EPA shall complete the rulemaking process on an accelerated schedule.
+
+(b) Development and implementation of an expedited, open, and transparent process for consideration of reporting under EPCRA on information on the use of toxic chemicals at facilities, including information on mass balance, materials accounting, or other chemical use date \[data\], pursuant to section 313(b)(1)(A) of EPCRA, 42 U.S.C. 11023(b)(1)(A). EPA shall report on the progress of this effort by October 1, 1995, with a goal of obtaining sufficient information to be able to make informed judgments concerning implementation of any appropriate program.
+
+These actions should continue unless specifically prohibited by law. The head of each executive department or agency shall assist the Environmental Protection Agency in implementing this directive as quickly as possible.
+
+This directive is for the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any person.
+
+The Director of the Office of Management and Budget is authorized and directed to publish this Memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

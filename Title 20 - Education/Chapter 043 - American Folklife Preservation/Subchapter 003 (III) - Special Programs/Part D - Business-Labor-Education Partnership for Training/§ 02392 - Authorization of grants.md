@@ -60,21 +60,21 @@ Grants to any State under this part shall be used in accordance with State plans
 
 The Secretary shall prescribe policies for vocational education programs carried out with assistance under this part. Such policies shall include examples of allowable expenses for business-labor-education partnerships.
 
-(Pub. L. 88 210, title III, §332, formerly §342, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2464; amended Pub. L. 99 159, title VII, §709, Nov. 22, 1985, 99 Stat. 906; renumbered §332 and amended Pub. L. 101 392, title III, §307(a)(2), (d), Sept. 25, 1990, 104 Stat. 787.)
+(Pub. L. 88–210, title III, §332, formerly §342, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2464; amended Pub. L. 99–159, title VII, §709, Nov. 22, 1985, 99 Stat. 906; renumbered §332 and amended Pub. L. 101–392, title III, §307(a)(2), (d), Sept. 25, 1990, 104 Stat. 787.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, asamended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Prior Provisions
 
-A prior section 332 of Pub. L. 88 210 was renumbered section 322 and is classified to section 2382 of this title.
+A prior section 332 of Pub. L. 88–210 was renumbered section 322 and is classified to section 2382 of this title.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101 392, §307(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “From the portion of the allotment of each State under section 2311 of this title available for this part, the Secretary shall make grants to the States to carry out industry-education partnership training programs in high-technology occupations in accordance with this part.”
+1990—Subsec. (a). Pub. L. 101–392, §307(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “From the portion of the allotment of each State under section 2311 of this title available for this part, the Secretary shall make grants to the States to carry out industry-education partnership training programs in high-technology occupations in accordance with this part.”
 
-Subsec. (b). Pub. L. 101 392, §307(d)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Grants to any State under this part shall be used, in accordance with State plans which contain assurances to the Secretary that—
+Subsec. (b). Pub. L. 101–392, §307(d)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Grants to any State under this part shall be used, in accordance with State plans which contain assurances to the Secretary that—
 
 &emsp;“(1) funds received under this part will be used solely for vocational education programs designed to train skilled workers and technicians in high-technology occupations (including programs providing related instruction to apprentices) and projects to train skilled workers needed to produce, install, operate, and maintain high-technology equipment, systems, and processes;
 
@@ -86,21 +86,21 @@ Subsec. (b). Pub. L. 101 392, §307(d)(2), amended subsec. (b) generally. Prior 
 
 &emsp;“(5) programs and projects assisted under this part will be developed with the active participation of the State council established pursuant to section 2322 of this title.”
 
-Subsec. (d). Pub. L. 101 392, §307(d)(3), added subsec. (d).
+Subsec. (d). Pub. L. 101–392, §307(d)(3), added subsec. (d).
 
-1985—Subsec. (c). Pub. L. 99 159 substituted “subsection (b)(3)” for “subsection (b)(2)” in pars. (1) and (3).
+1985—Subsec. (c). Pub. L. 99–159 substituted “subsection (b)(3)” for “subsection (b)(2)” in pars. (1) and (3).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99 159 effective July 1, 1985, see section 714(a) of Pub. L. 99 159, set out as a note under section 2311 of this title.
+Amendment by Pub. L. 99–159 effective July 1, 1985, see section 714(a) of Pub. L. 99–159, set out as a note under section 2311 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2393 of this title.
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

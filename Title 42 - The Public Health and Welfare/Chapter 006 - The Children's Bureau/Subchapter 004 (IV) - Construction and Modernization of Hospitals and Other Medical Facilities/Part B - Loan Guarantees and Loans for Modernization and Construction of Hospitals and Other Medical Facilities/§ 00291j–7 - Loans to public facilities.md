@@ -26,7 +26,7 @@
 
 &emsp;(A) to guarantee to such purchaser (and any successor in interest to such purchaser) payment of the principal and interest payable under such loan, and
 
-&emsp;(B) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary, after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
+&emsp;(B) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary,after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
 
 (2) Any such agreement—
 
@@ -44,7 +44,7 @@ The Secretary may, for good cause, waive any right of recovery which he has agai
 
 #### (e) Interest and interest subsidies as gross income under Internal Revenue Code
 
-After any loan to a public agency under this part has been sold and guaranteed, interest paid on such loan and any interest subsidy paid bythe Secretary with respect to such loan which is received by the purchaser thereof (or his successor in interest) shall be included in gross income for the purposes of chapter 1 of title 26.
+After any loan to a public agency under this part has been sold and guaranteed, interest paid on such loan and any interest subsidy paid by the Secretary with respect to such loan which is received by the purchaser thereof (or his successor in interest) shall be included in gross income for the purposes of chapter 1 of title 26.
 
 #### (f) Sales proceeds; deposit and use
 

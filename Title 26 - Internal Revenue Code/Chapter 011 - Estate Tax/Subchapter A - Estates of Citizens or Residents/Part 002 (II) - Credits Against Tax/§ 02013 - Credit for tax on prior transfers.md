@@ -36,7 +36,7 @@ Subject to the limitation prescribed in subsection (c), the credit provided by t
 
 The value of property transferred to the decedent shall be the value used for the purpose of determining the Federal estate tax liability of the estate of the transferor but—
 
-&emsp;(1) there shall be taken into account the effect of the tax imposed by section 2001 or 2101, or any estate, succession, legacy, or inheritance tax, on the net value to the decedent of such property;
+&emsp;(1) there shall be taken into account the effect of the tax imposed by section 2001 or 2101,or any estate, succession, legacy, or inheritance tax, on the net value to the decedent of such property;
 
 &emsp;(2) where such property is encumbered in any manner, or where the decedent incurs any obligation imposed by the transferor with respect to such property, such encumbrance or obligation shall be taken into account in the same manner as if the amount of a gift to the decedent of such property was being determined; and
 

@@ -80,11 +80,11 @@ Penalty.—
 
 &emsp;(1)
 
-Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(1) and a law described in subsection (a)(2), the Secretary shall transfer 11/2 percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
+Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 11/2 percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
 
 &emsp;(2)
 
-Thereafter.—If, at any time in a fiscal year beginning after September 30, 1994, a State does not have in effect a law described in subsection (a)(1) and a law described in subsection (a)(2), the Secretary shall transfer 3 percent of the funds apportioned to the State for the succeeding fiscal year under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
+Thereafter.—If, at any time in a fiscal year beginning after September 30, 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 3 percent of the funds apportioned to the State for the succeeding fiscal year under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
 
 &emsp;(3)
 
@@ -112,7 +112,7 @@ Motorcycle.—The term “motorcycle” means a motor vehicle which is designed 
 
 &emsp;(2)
 
-Motor vehicle.—The term “motor vehicle” has the meaning such term has under section 154 of this title.
+Motor vehicle.—The term “motor vehicle” has the meaning such term has under section 154 <sup>1</sup> of this title.
 
 &emsp;(3)
 
@@ -136,15 +136,25 @@ Applicability of Chapter 1
 
 Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
 
-(Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970.)
+(Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (c) and (i)(3), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
 
+Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577.
+
 #### Prior Provisions
 
 A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 87 Stat. 287; amended Pub. L. 94–280, title I, §131, May 5, 1976, 90 Stat. 441, related to a program for the elimination of roadside obstacles, prior to repeal by Pub. L. 95–599, title I, §168(b), Nov. 6, 1978, 92 Stat. 2723.
+
+#### Amendments
+
+1995—Subsec. (h)(1), (2). Pub. L. 104–59 struck out “a law described in subsection (a)(1) and” after “have in effect”.
+
+#### Effective Date of 1995 Amendment
+
+Section 205(e) of Pub. L. 104–59 provided that the amendment made by that section is effective Sept. 30, 1995.
 
 #### Effective Date
 
@@ -169,4 +179,6 @@ Funding.—Of the amounts authorized to be appropriated for fiscal year 1992 or 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 49 section 31104.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

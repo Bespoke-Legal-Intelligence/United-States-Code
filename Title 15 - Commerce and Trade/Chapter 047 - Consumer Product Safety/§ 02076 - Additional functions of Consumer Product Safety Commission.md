@@ -36,7 +36,7 @@ The Commission shall also have the power—
 
 #### (c) Noncompliance with subpena or Commission order; contempt
 
-Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subjectto subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (d) Disclosure of information
 
@@ -66,7 +66,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (j) Report to President and Congress
 
-The Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
+The Commission shall prepare and submit to the President and the Congress at the beginningof each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
 &emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 
@@ -108,41 +108,41 @@ The Commission shall prepare and submit to the President and the Congress at the
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92 573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94 273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94 284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506 509; Pub. L. 95 631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97 35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
+(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
 
 #### Codification
 
-In subsec. (b)(6), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(6), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97 35, §1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
+1981—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
-Subsec. (j)(10), (11). Pub. L. 97 35, §1209(c), added par. (10) and redesignated former par. (10) as (11).
+Subsec. (j)(10), (11). Pub. L. 97–35, §1209(c), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (<i>l</i>). Pub. L. 97 35, §1207(b), struck out subsec. (<i>l</i>) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
+Subsec. (<i>l</i>). Pub. L. 97–35, §1207(b), struck out subsec. (<i>l</i>) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
 
-Subsec. (m). Pub. L. 97 35, §1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
+Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
 
-1978—Subsec. (m). Pub. L. 95 631 added subsec. (m).
+1978—Subsec. (m). Pub. L. 95–631 added subsec. (m).
 
-1976—Subsec. (b)(7). Pub. L. 94 284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
+1976—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
 
-Subsec. (b)(8), (9). Pub. L. 94 284, §8(b), added par. (8) and redesignated former par. (8) as par (9).
+Subsec. (b)(8), (9). Pub. L. 94–284, §8(b), added par. (8) and redesignated former par. (8) as par (9).
 
-Subsec. (c). Pub. L. 94 284, §11(d), substituted “(subject to subsection (b)(7) of this section)” for “with the concurrence of the Attorney General”.
+Subsec. (c). Pub. L. 94–284, §11(d), substituted “(subject to subsection (b)(7) of this section)” for “with the concurrence of the Attorney General”.
 
-Subsec. (j). Pub. L. 94 273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
+Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 
-Subsec. (<i>l</i>). Pub. L. 94 284, §14, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 94–284, §14, added subsec. (<i>l).</i>
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 1207(b) of Pub. L. 97 35 applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, and amendment by sections 1208, 1209(c), and 1211(d) of Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by section 1207(b) of Pub. L. 97–35 applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, and amendment by sections 1208, 1209(c), and 1211(d) of Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### User Fee Study
 
-Pub. L. 101 608, title I, §119, Nov. 16, 1990, 104 Stat. 3122, provided that: “The Consumer Product Safety Commission shall conduct a study of the feasibility of requiring entities subject to the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\] to pay to the Commission amounts to defray the reasonable costs of particular services provided by the Commission to such entities. The Commission shall complete the study within one year of the date of the enactment of this Act \[Nov. 16, 1990\] and shall report the results of the study to the Congress.”
+Pub. L. 101–608, title I, §119, Nov. 16, 1990, 104 Stat. 3122, directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act (15 U.S.C. 2051 et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
 
 #### Section Referred to in Other Sections
 

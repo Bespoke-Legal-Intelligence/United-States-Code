@@ -38,7 +38,7 @@ The security shall be released (and any amounts thereunder shall be refunded tog
 
 #### (e) Notice
 
-A contributing sponsor which is required to provide security under subsection (a) of this section shall notify the Pension Benefit Guaranty Corporation within 30 days after the amendment requiring such security takes effect. Such notice shall contain such information as the Corporation may require.
+A contributing sponsor which is required to provide security under subsection (a) of this section shall notify the Pension Benefit GuarantyCorporation within 30 days after the amendment requiring such security takes effect. Such notice shall contain such information as the Corporation may require.
 
 #### (f) Definitions
 
@@ -62,7 +62,7 @@ Subsecs. (e), (f). Pub. L. 101–239, §7881(i)(3)(A), added subsec. (e) and red
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

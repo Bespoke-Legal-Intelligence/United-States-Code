@@ -80,11 +80,11 @@ The State board shall—
 
 &emsp;(2) provide technical assistance and design such procedures to ensure that such individuals are given access to the information needed to use such procedures.
 
-(Pub. L. 88 210, title I, §118, as added Pub. L. 101 392, title I, §116, Sept. 25, 1990, 104 Stat. 773.)
+(Pub. L. 88–210, title I, §118, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 773.)
 
 #### Effective Date
 
-Section effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Section effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

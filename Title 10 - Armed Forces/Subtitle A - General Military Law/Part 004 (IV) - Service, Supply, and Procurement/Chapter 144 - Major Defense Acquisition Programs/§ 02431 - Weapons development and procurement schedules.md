@@ -1,6 +1,6 @@
 ### §2431. Weapons development and procurement schedules
 
-(a) The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies, in writing, that such inclusion would not serveany useful purpose and gives his reasons therefor.
+(a) The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budgetjustification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies, in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
 
 (b) Any report required to be submitted under subsection (a) shall include detailed and summarized information with respect to each weapon system covered and shall specifically include each of the following:
 
@@ -24,7 +24,7 @@
 
 #### Prior Provisions
 
-Pub. L. 92–156, title V, §506, Nov. 17, 1971, 85 Stat. 429, provided for weapons development and procurement schedules report and supplemental report, prior to repeal by Pub. L. 93–155, §803(b)(2), and is covered by this section.
+Provisions similar to those in this section were contained in Pub. L. 92–156, title V, §506, Nov. 17, 1971, 85 Stat. 429, prior to repeal by Pub. L. 93–155, §803(b)(2).
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(8) It is a national security priority of the United States to develop and deploy highly effective theater missile defense systems capable of countering the existing and expanding threats posed by modern theater ballistic missiles as soon as is technically possible.
 
-&emsp;“(9) It is essential that the Secretary of Defense immediately undertake and complete a review for compliance with the ABM Treaty of proposed theater missile defense systems, system upgrades, and system components so as to not delay the development anddeployment of such highly effective theater missile defense systems.
+&emsp;“(9) It is essential that the Secretary of Defense immediately undertake and complete a review for compliance with the ABM Treaty of proposed theater missile defense systems, system upgrades, and system components so as to not delay the development and deployment of such highly effective theater missile defense systems.
 
 “(b)
 
@@ -304,7 +304,7 @@ Plan and Reports.—(1) The Secretary of Defense shall develop a plan to coordin
 
 “(c)
 
-Restriction on Funds.—Of the total amount appropriated pursuant to authorizations in this Act \[seeTables for classification\] for theater ballistic missile defense programs, not more than 80 percent may be obligated until—
+Restriction on Funds.—Of the total amount appropriated pursuant to authorizations in this Act \[see Tables for classification\] for theater ballistic missile defense programs, not more than 80 percent may be obligated until—
 
 &emsp;“(1) the report under subsection (b)(2) is submitted to Congress; and
 
@@ -384,7 +384,7 @@ Effective Date.—The provisions of subsections (a), (b), and (c) shall be imple
 
 #### Missile Defense Program
 
-Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as amended by Pub. L. 102–484, div. A, title II, §234(a)–(d)(1), (e), (f), title X, §1053(1), (2), Oct. 23, 1992, 106 Stat. 2356, 2357, 2501; Pub. L. 103–35, title II, §§202(a)(2), 203(b)(1), May 31, 1993, 107 Stat. 101, 102; Pub. L. 103–160, div. A, title II, §§232, 243(e), Nov. 30, 1993, 107 Stat. 1593, 1606; Pub. L. 103–337, div. A, title II, §233, Oct. 5, 1994, 108 Stat. 2700, provided that:
+Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as amended by Pub. L. 102–484, div. A, titleII, §234(a)–(d)(1), (e), (f), title X, §1053(1), (2), Oct. 23, 1992, 106 Stat. 2356, 2357, 2501; Pub. L. 103–35, title II, §§202(a)(2), 203(b)(1), May 31, 1993, 107 Stat. 101, 102; Pub. L. 103–160, div. A, title II, §§232, 243(e), Nov. 30, 1993, 107 Stat. 1593, 1606; Pub. L. 103–337, div. A, title II, §233, Oct. 5, 1994, 108 Stat. 2700, provided that:
 
 #### “SEC. 231. SHORT TITLE.
 
@@ -396,7 +396,7 @@ Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as am
 
 Missile Defense Goals of the United States.—It is a goal of the United States to—
 
-&emsp;“(1) comply with the ABM Treaty, including any protocol or amendment thereto, and not develop,test, or deploy any ballistic missile defense system, or component thereof, in violation of the treaty, as modified by any protocol or amendment thereto, while developing, and maintaining the option to deploy, an anti-ballistic missile system that is capable of providing a highly effective defense of the United States against limited attacks of ballistic missiles;
+&emsp;“(1) comply with the ABM Treaty, including any protocol or amendment thereto, and not develop, test, or deploy any ballistic missile defense system, or component thereof, in violation of the treaty, as modified by any protocol or amendment thereto, while developing, and maintaining the option to deploy, an anti-ballistic missile system that is capable of providing a highly effective defense of the United States against limited attacks of ballistic missiles;
 
 &emsp;“(2) maintain strategic stability; and
 
@@ -482,7 +482,7 @@ Stretchout Impact Statement.—The Secretary of Defense shall submit to Congress
 
 &emsp;“(1) The final year of procurement scheduled for the program at the time the statement is submitted is more than two years later than the final year of procurement for the program as specified in the most recent annual Selected Acquisition Report for that program.
 
-&emsp;“(2) The proposed procurement quantity for that fiscal year is less than 90 percent of the procurement quantity proposed for the same fiscal year in the most recent annual Selected Acquisition Report for that program.
+&emsp;“(2) The proposed procurement quantity for that fiscal year is less than 90 percent of the procurement quantity proposed for the same fiscal year in themost recent annual Selected Acquisition Report for that program.
 
 “(b)
 
@@ -576,7 +576,7 @@ Authority To Contract for FFRDC.—The Secretary of Defense, using funds appropr
 
 Contract Award Requirements.—(1) A contract under subsection (b) shall be awarded using competitive procedures which emphasize cost considerations.
 
-“(2) The Secretary of Defense shall solicit proposals for such contract from existing federally funded research and development centers, from universities,from commercial entities, and from appropriate new organizations and shall make maximum efforts to obtain more than one proposal for such contract.
+“(2) The Secretary of Defense shall solicit proposals for such contract from existing federally funded research and development centers, from universities, from commercial entities, and from appropriate new organizations and shall make maximum efforts to obtain more than one proposal for such contract.
 
 “(3) The Secretary shall submit the three best contract proposals (as determined by the Secretary), together with a copy of the proposed sponsoring agreement for the new FFRDC, for review by three persons designated by the Defense Science Board from a list of six or more persons submitted by the National Academy of Sciences. The persons performing the review—
 
@@ -698,7 +698,7 @@ Comptroller General Report.—The Comptroller General of the United States shall
 
 #### Should-Cost Analyses
 
-Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub. L. 100–26, §11(a)(2), Apr. 21, 1987, 101 Stat. 288, which required Secretary of Defense to submit to Congress an annual report setting forth Secretary's plan for performance during next fiscal year of cost analyses for major defense acquisition programs for purpose of determining how much production of covered systems under such programs should cost, was repealed by Pub. L. 101–510, div. A, title XIII, §1322(d)(2), Nov. 5, 1990, 104 Stat. 1672.
+Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub. L. 100–26, §11(a)(2), Apr. 21, 1987, 101 Stat. 288, required Secretary of Defense to submit to Congress an annual report setting forth Secretary's plan for performance during next fiscal year of cost analyses for major defense acquisition programs for purpose of determining how much production of covered systems under such programs should cost, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(d)(2), Nov. 5, 1990, 104 Stat. 1672.
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
@@ -758,7 +758,7 @@ Content of Report.—Each such report shall include the following:
 
 &emsp;&emsp;“(C) Defending against a limited but militarily effective attack by the Soviet Union aimed at disrupting the National Command Authority or other valuable military assets.
 
-&emsp;&emsp;“(D) Providing sufficient warning and tracking information to defend or effectively evade possibleattacks by the Soviet Union against military satellites, including those in high orbits.
+&emsp;&emsp;“(D) Providing sufficient warning and tracking information to defend or effectively evade possible attacks by the Soviet Union against military satellites, including those in high orbits.
 
 &emsp;&emsp;“(E) Providing early warning and attack assessment information and the necessary survivable command, control, and communications to facilitate the use of United States military forces in defense against possible conventional or strategic attacks by the Soviet Union.
 
@@ -780,7 +780,7 @@ Similar provisions were contained in the following prior authorization act:
 
 Pub. L. 100–180, div. A, title II, §231(a), Dec. 4, 1987, 101 Stat. 1059.
 
-Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, which required Secretary of Defense, at time of his annual budget presentation to Congress beginning with fiscal year 1986 and ending with fiscal year 1990, to transmit to Committees on Armed Services and Foreign Affairs of House of Representatives and Committees on Armed Services and Foreign Relations of Senate, a detailed report on programs that constitute SDI, was repealed by Pub. L. 100–180, div. A, title II, §231(b), Dec. 4, 1987, 101 Stat. 1060.
+Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secretary of Defense, at time of his annual budget presentation to Congress beginning with fiscal year 1986 and ending with fiscal year 1990, to transmit to Committees on Armed Services and Foreign Affairs of House of Representatives and Committees on Armed Services and Foreign Relations of Senate, a detailed report on programs that constitute SDI, prior to repeal by Pub. L. 100–180, div. A, title II, §231(b), Dec. 4, 1987, 101 Stat. 1060.
 
 #### Plans for Management of Technical Data and Computer Capability Improvements
 
@@ -832,7 +832,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 “(a) Notwithstanding any other provision of law, none of the funds appropriated or made available in this or any other Act may be obligated or expended to test against an object in space the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President determines and certifies to Congress—
 
-&emsp;“(1) that the United States is endeavoring, in good faith, to negotiate with the Soviet Union a mutual and verifiable agreement with the strictest possible limitations on anti-satellite weapons consistent with the national security interests of the United States;
+&emsp;“(1) that the United States is endeavoring, in good faith, to negotiate with the Soviet Union a mutualand verifiable agreement with the strictest possible limitations on anti-satellite weapons consistent with the national security interests of the United States;
 
 &emsp;“(2) that, pending agreement on such strict limitations, testing against objects in space of the F–15 launched miniature homing vehicle anti-satellite warhead by the United States is necessary to avert clear and irrevocable harm to the national security;
 
@@ -840,7 +840,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 &emsp;“(4) that such testing is fully consistent with the rights and obligations of the United States under the Anti-Ballistic Missile Treaty of 1972 as those rights and obligations exist at the time of such testing.
 
-“(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniaturehoming vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
+“(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
 
 “(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease to apply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
 

@@ -32,7 +32,7 @@ Not later than 45 days after an antitrust mutual assistance agreement is entered
 
 An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) of this section shall not be considered to be in effect under this chapter.
 
-(Pub. L. 103 438, §7, Nov. 2, 1994, 108 Stat. 4600.)
+(Pub. L. 103–438, §7, Nov. 2, 1994, 108 Stat. 4600.)
 
 #### Section Referred to in Other Sections
 

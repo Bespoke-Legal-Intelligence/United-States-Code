@@ -34,7 +34,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 #### (f) Supplemental remedies and requirements; other provisions and available remedies unaffected
 
-Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.
+Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal anyother remedy available to the United States or any other person, except as expressly provided in this chapter.
 
 (Pub. L. 96–478, §8, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 100–220, title II, §2104, Dec. 29, 1987, 101 Stat. 1462; Pub. L. 101–225, title II, §201(2), (3), Dec. 12, 1989, 103 Stat. 1910.)
 

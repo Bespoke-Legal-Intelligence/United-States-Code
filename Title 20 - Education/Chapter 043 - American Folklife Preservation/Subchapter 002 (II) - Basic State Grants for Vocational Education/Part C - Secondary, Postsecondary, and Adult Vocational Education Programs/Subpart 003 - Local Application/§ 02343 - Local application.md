@@ -46,11 +46,11 @@ Any eligible recipient desiring financial assistance under this part shall, acco
 
 &emsp;(14) describe how the eligible recipient will monitor the provision of vocational education to individuals who are members of special populations.
 
-(Pub. L. 88 210, title II, §240, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 784.)
+(Pub. L. 88–210, title II, §240, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 784.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in par. (7), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (7), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

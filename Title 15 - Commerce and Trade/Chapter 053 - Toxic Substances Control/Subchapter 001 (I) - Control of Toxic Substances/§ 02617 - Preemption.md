@@ -6,7 +6,7 @@
 
 (2) Except as provided in subsection (b) of this section—
 
-&emsp;(A) if the Administrator requires by a rule promulgated under section 2603 of this titlethe testing of a chemical substance or mixture, no State or political subdivision may, after the effective date of such rule, establish or continue in effect a requirement for the testing of such substance or mixture for purposes similar to those for which testing is required under such rule; and
+&emsp;(A) if the Administrator requires by a rule promulgated under section 2603 of this title the testing of a chemical substance or mixture, no State or political subdivision may, after the effective date of such rule, establish or continue in effect a requirement for the testing of such substance or mixture for purposes similar to those for which testing is required under such rule; and
 
 &emsp;(B) if the Administrator prescribes a rule or order under section 2604 or 2605 of this title (other than a rule imposing a requirement described in subsection (a)(6) of section 2605 of this title) which is applicable to a chemical substance or mixture, and which is designed to protect against a risk of injury to health or the environment associated with such substance or mixture, no State or political subdivision of a State may, after the effective date of such requirement, establish or continue in effect, any requirement which is applicable to such substance or mixture, or an article containing such substance or mixture, and which is designed to protect against such risk unless such requirement (i) is identical to the requirement prescribed by the Administrator, (ii) is adopted under the authority of the Clean Air Act \[42 U.S.C. 7401 et seq.\] or any other Federal law, or (iii) prohibits the use of such substance or mixture in such State or political subdivision (other than its use in the manufacture or processing of other substances or mixtures).
 
@@ -18,9 +18,9 @@ Upon application of a State or political subdivision of a State the Administrato
 
 &emsp;(2) the State or political subdivision requirement (A) provides a significantly higher degree of protection from such risk than the requirement under this chapter described in subsection (a)(2) of this section and (B) does not, through difficulties in marketing, distribution, or other factors, unduly burden interstate commerce.
 
-(Pub. L. 94 469, title I, §18, Oct. 11, 1976, 90 Stat. 2038; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §18, Oct. 11, 1976, 90 Stat. 2038; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

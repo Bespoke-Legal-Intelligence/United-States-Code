@@ -34,5 +34,5 @@ The Secretary may fund the activities described in subsection (a) of this sectio
 
 &emsp;&emsp;(B) activities assisted under this part.
 
-(Pub. L. 89 10, title III, §3207, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3660.)
+(Pub. L. 89–10, title III, §3207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3660.)
 

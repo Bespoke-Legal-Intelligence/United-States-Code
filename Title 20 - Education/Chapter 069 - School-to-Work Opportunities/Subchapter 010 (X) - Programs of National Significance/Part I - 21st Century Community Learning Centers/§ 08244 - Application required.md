@@ -28,5 +28,5 @@ To be eligible to receive a grant under this part, an elementary or secondary sc
 
 The Secretary shall give priority to applications describing projects that offer a broad selection of services which address the needs of the community.
 
-(Pub. L. 89 10, title X, §10904, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3845.)
+(Pub. L. 89–10, title X, §10904, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3845.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual report on foreign direct investment in United States
 
-Not later than 6 months after November 7, 1990, and not later than the end of each 1-year period occurring thereafter, the Secretary of Commerce shall submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress a report on the role and significance of foreign direct investment in the United States. Such report shall address the history, scope, trends, market concentrations, and effects on the United States economy of such investment. In addition, the Secretary of Commerce shall, if requested by any such committee, appear before that committee to provide testimony with respect to any report under this subsection.
+Not later than 6 months after November 7, 1990, and not later than the end of each 1-year period occurring thereafter, the Secretary of Commerce shall submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress a report on the role and significance of foreign direct investment in the United States. Such report shall address the history, scope, trends, market concentrations, and effects on the United States economy of such investment. In addition, the Secretary of Commerce shall, if requested byany such committee, appear before that committee to provide testimony with respect to any report under this subsection.
 
 #### (b) Sources of data
 
@@ -52,7 +52,7 @@ The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subse
 
 #### Change of Name
 
-Committees on Energy and Commerce and Foreign Affairs of House of Representatives changed to Committees on Commerce and International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

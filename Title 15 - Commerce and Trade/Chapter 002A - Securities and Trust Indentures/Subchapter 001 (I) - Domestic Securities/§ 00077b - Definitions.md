@@ -14,7 +14,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(6) The term “Territory” means Puerto Rico, the Virgin Islands, and the insular possessions of the United States.
 
-&emsp;(7) The term “interstate commerce” means trade or commerce in securities or any transportation or communication relating theretoamong the several States or between the District of Columbia or any Territory of the United States and any State or other Territory, or between any foreign country and any State, Territory, or the District of Columbia, or within the District of Columbia.
+&emsp;(7) The term “interstate commerce” means trade or commerce in securities or any transportation or communication relating thereto among the several States or between the District of Columbia or any Territory of the United States and any State or other Territory, or between any foreign country and any State, Territory, or the District of Columbia, or within the District of Columbia.
 
 &emsp;(8) The term “registration statement” means the statement provided for in section 77f of this title, and includes any amendment thereto and any report, document, or memorandum filed as part of such statement or incorporated therein by reference.
 
@@ -46,7 +46,7 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (15)(i)
 
 #### Codification
 
-Words “Philippine Islands” deleted from definition of term “Territory” under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
+Words “Philippine Islands” deleted from definition of term “Territory” under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ The laws of the several States, Territories, possessions, and the District of Co
 
 #### References in Text
 
-Act of June 25, 1910, referred to in subsec. (a), is act June 25, 1910, ch. 431, 36 Stat. 855, as amended, which enacted sections 47, 93, 151, 202, 337, 344a, 351, 352, 353, 372, 403, 406, 407, and 408 of this title, sections 6a–1 and 16a of Title 41, Public Contracts, and section 148 of Title 43, Public Lands, and amended sections 191, 312, 331, 333, and 336 of this title and sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure.Sections 104 and 107 of former title 18 were repealed and reenacted as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. For complete classification of this Act to the Code, see Tables.
+Act of June 25, 1910, referred to in subsec. (a), is act June 25, 1910, ch. 431, 36 Stat. 855, as amended, which enacted sections 47, 93, 151, 202, 337, 344a, 351, 352, 353, 372, 403, 406, 407, and 408 of this title, sections 6a–1 and 16a of Title 41, Public Contracts, and section 148 of Title 43, Public Lands, and amended sections 191, 312, 331, 333, and 336 of this title and sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure. Sections 104 and 107 of former title 18 were repealed and reenacted as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. For complete classification of this Act to the Code, see Tables.
 
 Act of February 14, 1913, referred to in subsec. (a), is act Feb. 14, 1913, ch. 55, 37 Stat. 678, which amended section 373 of this title. For complete classification of this Act to the Code, see Tables.
 

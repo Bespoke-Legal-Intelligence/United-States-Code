@@ -24,7 +24,7 @@
 
 &emsp;(B) To the extent practicable, the Secretary shall ensure that at least one contractor, or a portion of one contract, under this paragraph will serve graduate and professional students.
 
-&emsp;(C) As part of the procurement process for the 1993 1994 award year, and for all procurements thereafter pertaining to the contracts under this paragraph, the Secretary shall require all entities competing for such contracts to comply with all requirements of this subsection and to—
+&emsp;(C) As part of the procurement process for the 1993–1994 award year, and for all procurements thereafter pertaining to the contracts under this paragraph, the Secretary shall require all entities competing for such contracts to comply with all requirements of this subsection and to—
 
 &emsp;&emsp;(i) use the common financial reporting form as prescribed in paragraph (1), which shall be clearly identified as the “Free Application for Federal Student Aid”; and
 
@@ -54,7 +54,7 @@ Copies of all rules, regulations, guidelines, instructions, and application form
 
 #### (d) Toll-free information
 
-The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to theservices provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1433(c) of this title.
+The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing theapplication form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1433(c) of this title.
 
 #### (e) Preparer
 
@@ -62,71 +62,71 @@ Any financial aid application required to be made under this subchapter and part
 
 #### (f) Special rule
 
-Nothing in section 1544<sup>1</sup> of the Higher Education Amendments of 1992 shall relieve processors or institutions of higher education of any or all obligations under this section.
+Nothing in section 1544 <sup>1</sup> of the Higher Education Amendments of 1992 shall relieve processors or institutions of higher education of any or all obligations under this section.
 
-(Pub. L. 89 329, title IV, §483, as added Pub. L. 99 498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100 50, §15(3) (6), June 3, 1987, 101 Stat. 356; Pub. L. 102 325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103 208, §2(h)(8) (12), Dec. 20, 1993, 107 Stat. 2476.)
+(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476.)
 
 #### References in Text
 
-Section 1544 of the Higher Education Amendments of 1992, referred to in subsec. (f), is section 1544 of Pub. L. 102 325, which was set out as a note under section 1088 of this title, prior to repeal by Pub. L. 103 382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061.
+Section 1544 of the Higher Education Amendments of 1992, referred to in subsec. (f), is section 1544 of Pub. L. 102–325, which was set out as a note under section 1088 of this title, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061.
 
 #### Prior Provisions
 
-A prior section 1090, Pub. L. 89 329, title IV, §483, as added Pub. L. 96 374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103 208, §2(h)(8), made technical amendment to reference to section 1070a(d) of this title to correct reference to corresponding section of original act.
+1993—Subsec. (a)(1). Pub. L. 103–208, §2(h)(8), made technical amendment to reference to section 1070a(d) of this title to correct reference to corresponding section of original act.
 
-Subsec. (a)(2). Pub. L. 103 208, §2(h)(9), inserted at end “No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).”
+Subsec. (a)(2). Pub. L. 103–208, §2(h)(9), inserted at end “No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).”
 
-Subsec. (a)(3). Pub. L. 103 208, §2(h)(10), inserted at end “Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
+Subsec. (a)(3). Pub. L. 103–208, §2(h)(10), inserted at end “Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
 
-Subsecs. (d), (e). Pub. L. 103 208, §2(h)(12), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 103–208, §2(h)(12), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-Subsec. (f). Pub. L. 103 208, §2(h)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 103–208, §2(h)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 103 208, §2(h)(11), substituted “address or employer's address, social security number or employer identification number,” for “address, social security number,”.
+Pub. L. 103–208, §2(h)(11), substituted “address or employer's address, social security number or employer identification number,” for “address, social security number,”.
 
-Subsec. (g). Pub. L. 103 208, §2(h)(12), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 103–208, §2(h)(12), redesignated subsec. (g) as (f).
 
-1992—Subsec. (a). Pub. L. 102 325, §483(a), added subsec. (a) and struck out former subsec. (a) which contained pars. (1) to (5) relating to a common financial aid form and processing of financial aid applications.
+1992—Subsec. (a). Pub. L. 102–325, §483(a), added subsec. (a) and struck out former subsec. (a) which contained pars. (1) to (5) relating to a common financial aid form and processing of financial aid applications.
 
-Subsec. (b). Pub. L. 102 325, §483(a), added subsec. (b) and struck out former subsec. (b) which related to certifications of capability of systems for determining expected family contributions.
+Subsec. (b). Pub. L. 102–325, §483(a), added subsec. (b) and struck out former subsec. (b) which related to certifications of capability of systems for determining expected family contributions.
 
-Subsec. (d). Pub. L. 102 325, §483(b)(1), struck out subsec. (d) which related to provision of early notice to students of their potential eligibility for financial aid.
+Subsec. (d). Pub. L. 102–325, §483(b)(1), struck out subsec. (d) which related to provision of early notice to students of their potential eligibility for financial aid.
 
-Subsec. (e). Pub. L. 102 325, §483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
+Subsec. (e). Pub. L. 102–325, §483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
-Subsecs. (f), (g). Pub. L. 102 325, §483(b)(1), (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
+Subsecs. (f), (g). Pub. L. 102–325, §483(b)(1), (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
 
-1987—Subsec. (a)(1). Pub. L. 100 50, §15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after “that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
+1987—Subsec. (a)(1). Pub. L. 100–50, §15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after “that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
 
-Subsec. (a)(2). Pub. L. 100 50, §15(5), substituted “not less than 5” for “not less than 3” and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
+Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted “not less than 5” for “not less than 3” and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
 
-Subsecs. (b) to (f). Pub. L. 100 50, §15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99 498, set out as a note under section 1001 of this title.
+Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99 498, set out as a note under section 1091 of this title.
+Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1070a 71, 1087e, 1087ss, 1098 of this title.
+This section is referred to in sections 1070a–71, 1087e, 1087ss, 1098 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

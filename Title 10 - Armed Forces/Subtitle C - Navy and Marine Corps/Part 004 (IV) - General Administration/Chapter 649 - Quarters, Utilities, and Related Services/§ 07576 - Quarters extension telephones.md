@@ -1,6 +1,6 @@
 ### §7576. Quarters: extension telephones
 
-(a) Under regulations prescribed by the Secretary of the Navy appropriated funds may be used to pay the cost of installation and use, other than for personal long distance calls, ofextension telephones connecting public quarters occupied by personnel in the following categories with the switchboards of their official stations:
+(a) Under regulations prescribed by the Secretary of the Navy appropriated funds may be used to pay the cost of installation and use, other than for personal long distance calls, of extension telephones connecting public quarters occupied by personnel in the following categories with the switchboards of their official stations:
 
 &emsp;(1) Members of the naval service.
 

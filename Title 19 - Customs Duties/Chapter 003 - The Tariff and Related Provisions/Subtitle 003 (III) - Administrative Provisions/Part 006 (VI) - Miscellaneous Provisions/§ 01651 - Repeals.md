@@ -54,5 +54,5 @@ The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, c
 
 #### Prior Provisions
 
-Provisions similar to those of subd. (c) of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §641, 42 Stat. 989. That section was superseded by section 651 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in subd. (c) of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §641, 42 Stat. 989. That section was superseded by section 651 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 

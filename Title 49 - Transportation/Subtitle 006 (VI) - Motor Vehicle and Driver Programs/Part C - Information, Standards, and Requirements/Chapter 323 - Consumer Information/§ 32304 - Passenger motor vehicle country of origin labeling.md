@@ -70,7 +70,7 @@ Definitions.—In this section—
 
 (b)
 
-Manufacturer Requirement.—(1) Each manufacturer of a new passenger motor vehicle manufactured after September 30, 1994, and distributed in commerce for sale in the United States, shall establish each year for each model year and cause to be attached in a prominent place on each of those vehicles, at least onelabel. The label shall contain the following information:
+Manufacturer Requirement.—(1) Each manufacturer of a new passenger motor vehicle manufactured after September 30, 1994, and distributed in commerce for sale in the United States, shall establish each year for each model year and cause to be attached in a prominent place on each of those vehicles, at least one label. The label shall contain the following information:
 
 &emsp;(A) the percentage (by value) of passenger motor vehicle equipment of United States/Canadian origin installed on vehicles in the carline to which that vehicle belongs, identified by the words “U.S./Canadian content”.
 

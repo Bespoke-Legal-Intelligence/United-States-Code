@@ -8,7 +8,7 @@ No monuments or memorials shall be erected upon any lands of the park, or remain
 
 #### Codification
 
-Act Mar. 3, 1891, and act Apr. 15, 1926, provided for a reduced area of the park and provided that title to such reduced area should be procured by the Secretary ofWar \[now Army\] as provided and that the Secretary of War \[now Army\] should proceed with the establishment of the park as rapidly as jurisdiction of the roads and approaches and title to the land might be obtained.
+Act Mar. 3, 1891, and act Apr. 15, 1926, provided for a reduced area of the park and provided that title to such reduced area should be procured by the Secretary of War \[now Army\] as provided and that the Secretary of War \[now Army\] should proceed with the establishment of the park as rapidly as jurisdiction of the roads and approaches and title to the land might be obtained.
 
 The first sentence of the last paragraph relating to the erection of monuments or memorials was added by act Feb. 26, 1896.
 

@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the protection of public health and welfare, the preservation of national security, and the regulation of interstate commerce require the establishment of a program for the expended <sup>1</sup> use, consistent with applicable environmental requirements, of coal and other alternate fuels as primary energy sources for existing and new electric powerplants; and
 
-&emsp;(2) the purposes of this chapter are furthered in cases in which coal or other alternate fuelsare used by electric powerplants, consistent with applicable environmental requirements, as primary energy sources in lieu of natural gas or petroleum.
+&emsp;(2) the purposes of this chapter are furthered in cases in which coal or other alternate fuels are used by electric powerplants, consistent with applicable environmental requirements, as primary energy sources in lieu of natural gas or petroleum.
 
 #### (b) Statement of purposes
 
@@ -54,7 +54,7 @@ Subsec. (b)(7) to (10). Pub. L. 100–42, §1(c)(1)(B), redesignated former pars
 
 #### Effective Date
 
-Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note set out below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
+Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note setout below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
 
 #### Short Title
 
@@ -76,7 +76,7 @@ Exemptions in the Case of Certain Powerplants.—In the case of—
 
 “(b)
 
-Exemptions Under Section 211(d).—The Secretary may receive, consider, and grant (or deny) anypetition for any exemption under section 211(d) \[section 8321(d) of this title\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as a note above\], or the fact that all rules related to such petition have not been prescribed at the time.”
+Exemptions Under Section 211(d).—The Secretary may receive, consider, and grant (or deny) any petition for any exemption under section 211(d) \[section 8321(d) of this title\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as a note above\], or the fact that all rules related to such petition have not been prescribed at the time.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “expanded”.</i>
 

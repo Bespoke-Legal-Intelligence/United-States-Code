@@ -22,7 +22,7 @@ As used in this section:
 
 #### (4) Incarcerated person
 
-&emsp;The term “incarcerated person” means any individual incarcerated in a Federal or State correctional institution who is charged with or convicted of any criminal offense.
+&emsp;The term “incarcerated person” means any individual incarcerated in a Federal or Statecorrectional institution who is charged with or convicted of any criminal offense.
 
 #### (c) Establishment of Office
 

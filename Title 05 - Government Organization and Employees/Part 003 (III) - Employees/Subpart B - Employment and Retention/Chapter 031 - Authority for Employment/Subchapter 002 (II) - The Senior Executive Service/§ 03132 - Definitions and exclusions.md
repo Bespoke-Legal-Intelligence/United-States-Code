@@ -90,25 +90,25 @@ The date of the enactment of the Civil Service Reform Act of 1978, referred to i
 
 #### Amendments
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
 
 Subsec. (a)(1)(D). Pub. L. 102–550 inserted “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development,” after “Farm Credit Administration,”.
 
-1990—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
+<b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
 
 Subsec. (a)(2). Pub. L. 101–509 substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18 of the General Schedule”.
 
-1989—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
+<b>1989</b>—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
 
 Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: “any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);”.
 
-1980—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
+<b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 
-1979—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
+<b>1979</b>—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
 
 #### Effective Date of 1990 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2101a, 3104, 3133, 3135, 3151, 3372, 3391, 3591, 4311, 4507, 4508, 5304, 5347, 5376, 5381, 5724, 7323, 8432 of this title; title 10 sections 1590, 1601, 3014, 5014, 8014; title 20 section 1402; title 22 section 2664a; title 31 section 733; title 38 sections 308, 7281; title 42 section 904; title 44 section 2103.
+This section is referred to in sections 2101a, 3104, 3133, 3151, 3372, 3391, 3591, 4311, 4507, 4508, 5304, 5347, 5376, 5381, 5724, 7323, 8432 of this title; title 10 sections 1590, 1601, 3014, 5014, 8014; title 20 section 1402; title 22 section 2664a; title 31 section 733; title 38 sections 308, 7281; title 42 section 904; title 44 section 2103.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

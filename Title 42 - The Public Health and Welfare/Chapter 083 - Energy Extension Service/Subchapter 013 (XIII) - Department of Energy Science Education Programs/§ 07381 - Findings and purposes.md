@@ -34,7 +34,7 @@ The purposes of this subchapter are—
 
 #### References in Text
 
-This subchapter, referred to in subsec. (b), was in the original “this part”, meaning part E of title XXXI ofdiv. C of Pub. L. 101–510, which is classified principally to this subchapter. For complete classification of part E to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in subsec. (b), was in the original “this part”, meaning part E of title XXXI of div. C of Pub. L. 101–510, which is classified principally to this subchapter. For complete classification of part E to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

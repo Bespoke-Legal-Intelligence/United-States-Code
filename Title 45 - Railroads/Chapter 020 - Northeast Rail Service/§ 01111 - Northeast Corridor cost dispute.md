@@ -22,7 +22,7 @@ Any determination by the Commission under this section shall be final and shall 
 
 #### References in Text
 
-Section 205(d) of the Regional Rail Reorganization Act of 1973 \[45 U.S.C. 715(d)\], referred to in subsec. (a)(1), was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation. Provisions of such section 205(d) are covered by section 10362(a)(1), (b)(1)–(6), (8), (c) of Title 49.
+Section 205(d) of the Regional Rail Reorganization Act of 1973 \[45 U.S.C. 715(d)\], referred to in subsec. (a)(1), was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
 #### Codification
 
@@ -30,7 +30,11 @@ In subsec. (a)(1), “and sections 24308(a)(1) and (2) and 24904(c) of title 49�
 
 #### Amendments
 
-1986—Subsec. (a)(2). Pub. L. 99–272 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Within 120 days after August 13, 1981, the Commission shall determine a fair and equitable costing methodology for compensation to Amtrak by Conrail for the right-of-way related costs for the operation of rail freight service over the Northeast Corridor, unless Conrail and Amtrak have otherwise agreed on such a methodology by that date. In making its determination, the Commission shall take into consideration the industry-wide average compensation for freight trackage rights and any additional costs associated with high-speed service provided over the Northeast Corridor.”
+1986—Subsec. (a)(2). Pub. L. 99–272 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Within 120 days after August 13, 1981, the Commission shall determine a fair and equitable costing methodology for compensation to Amtrak by Conrail for the right-of-way related costs for the operation of rail freight service over the Northeast Corridor, unless Conrail and Amtrak have otherwise agreed on such a methodology by that date. In making its determination, the Commission shall take into consideration the industry-wide average compensation for freight trackage rightsand any additional costs associated with high-speed service provided over the Northeast Corridor.”
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Continued Effectiveness of Decisions Issued Prior to April 7, 1986
 

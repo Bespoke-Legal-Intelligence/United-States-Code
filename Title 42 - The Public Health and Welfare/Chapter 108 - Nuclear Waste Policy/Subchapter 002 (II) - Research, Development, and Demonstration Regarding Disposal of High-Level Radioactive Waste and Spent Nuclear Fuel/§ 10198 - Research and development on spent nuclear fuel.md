@@ -2,7 +2,7 @@
 
 #### (a) Demonstration and cooperative programs
 
-The Secretary shall establish a demonstration program, in cooperation with the private sector, for the dry storage of spent nuclear fuel at civilian nuclear power reactor sites, with the objective of establishing one or more technologies that the Commission may, by rule, approve for use at the sites of civilian nuclear power reactors without, to the maximum extent practicable, the need for additional site-specific approvals by the Commission. Not later than 1 year after January 7, 1983, the Secretary shall select at least 1, but not more than 3, sites evaluated under section 10194 of this title at such power reactors. In selecting such site or sites, the Secretary shall give preference to civilian nuclear power reactors that will soon have a shortage of interim storage capacity for spent nuclear fuel. Subject to reaching agreement as provided in subsection (b) of this section, the Secretary shall undertake activities to assist such power reactors with demonstration projects at such sites, which may use one of the following types of alternate storage technologies: spent nuclear fuel storage casks, caissons, or silos. The Secretary shall also undertake a cooperative program with civilian nuclear power reactors to encourage the development of the technology for spent nuclear fuel rod consolidation in existing power reactor water storage basins.
+The Secretary shall establish a demonstration program, in cooperation with the private sector, for the dry storage of spent nuclear fuel at civilian nuclear power reactor sites, with the objective of establishing one or more technologies that the Commission may, by rule, approve for use at the sites of civilian nuclear power reactors without, to the maximum extent practicable, the need for additional site-specific approvals by the Commission. Not later than 1 year after January 7, 1983, the Secretary shall select at least 1, but not more than 3, sites evaluated under section 10194 of this title at such power reactors. In selecting such site or sites, the Secretary shall give preference to civilian nuclear power reactors that will soon have a shortage of interim storage capacity for spent nuclear fuel. Subject to reaching agreement asprovided in subsection (b) of this section, the Secretary shall undertake activities to assist such power reactors with demonstration projects at such sites, which may use one of the following types of alternate storage technologies: spent nuclear fuel storage casks, caissons, or silos. The Secretary shall also undertake a cooperative program with civilian nuclear power reactors to encourage the development of the technology for spent nuclear fuel rod consolidation in existing power reactor water storage basins.
 
 #### (b) Cooperative agreements
 
@@ -18,7 +18,7 @@ To carry out the programs described in subsection (a) of this section, the Secre
 
 (1) The consultative and technical assistance referred to in subsection (b)(2) of this section may include, but shall not be limited to, the establishment of a research and development program for the dry storage of not more than 300 metric tons of spent nuclear fuel at facilities owned by the Federal Government on January 7, 1983. The purpose of such program shall be to collect necessary data to assist the utilities involved in the licensing process.
 
-(2) To the extent available, and consistent with the provisions of section 10155 of this title,the Secretary shall provide spent nuclear fuel for the research and development program authorized in this subsection from spent nuclear fuel received by the Secretary for storage under section 10155 of this title. Such spent nuclear fuel shall not be subject to the provisions of section 10155(e) of this title.
+(2) To the extent available, and consistent with the provisions of section 10155 of this title, the Secretary shall provide spent nuclear fuel for the research and development program authorized in this subsection from spent nuclear fuel received by the Secretary for storage under section 10155 of this title. Such spent nuclear fuel shall not be subject to the provisions of section 10155(e) of this title.
 
 #### (d) Funding
 
@@ -40,7 +40,7 @@ The spent nuclear fuel storage program authorized in section 10155 of this title
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

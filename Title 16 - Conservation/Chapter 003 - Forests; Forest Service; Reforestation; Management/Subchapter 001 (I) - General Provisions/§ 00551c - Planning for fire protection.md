@@ -16,7 +16,7 @@ Not later than one year after May 9, 1990—
 
 &emsp;(2) the Secretary of the Interior shall submit to the Congress information with respect to the Bureau of Land Management public lands on a State-by-State basis and each region of the National Park System
 
-> that documents mobilization plans that provide for the use of firefighting equipment in cases of fire emergencies that may occur in each such area that may be highly prone to disastrous forest fires.
+> that documents mobilization plans that provide for the use of firefighting equipment in cases of fire emergencies that may occur in each sucharea that may be highly prone to disastrous forest fires.
 
 #### (d) Presuppression needs
 

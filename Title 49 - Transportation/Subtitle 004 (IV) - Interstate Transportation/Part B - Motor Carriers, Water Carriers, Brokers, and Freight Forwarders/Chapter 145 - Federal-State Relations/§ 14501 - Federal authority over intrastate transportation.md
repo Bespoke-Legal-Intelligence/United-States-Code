@@ -1,0 +1,90 @@
+### §14501. Federal authority over intrastate transportation
+
+(a)
+
+Motor Carriers of Passengers.—No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route or relating to the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required. This subsection shall not apply to intrastate commuter bus operations.
+
+(b)
+
+Freight Forwarders and Brokers.—
+
+&emsp;(1)
+
+General rule.—Subject to paragraph (2) of this subsection, no State or political subdivision thereof and no intrastate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to intrastate rates, intrastate routes, or intrastate services of any freight forwarder or broker.
+
+&emsp;(2)
+
+Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii to continue to regulate a motor carrier operating within the State of Hawaii.
+
+(c)
+
+Motor Carriers of Property.—
+
+&emsp;(1)
+
+General rule.—Except as provided in paragraphs (2) and (3), a State, political subdivision of a State, or political authority of 2 or more States may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of any motor carrier (other than a carrier affiliated with a direct air carrier covered by section 41713(b)(4)) or any motor private carrier, broker, or freight forwarder with respect to the transportation of property.
+
+&emsp;(2)
+
+Matters not covered.—Paragraph (1)—
+
+&emsp;&emsp;(A) shall not restrict the safety regulatory authority of a State with respect to motor vehicles, the authority of a State to impose highway route controls or limitations based on the size or weight of the motor vehicle or the hazardous nature of the cargo, or the authority of a State to regulate motor carriers with regard to minimum amounts of financial responsibility relating to insurance requirements and self-insurance authorization;
+
+&emsp;&emsp;(B) does not apply to the transportation of household goods; and
+
+&emsp;&emsp;(C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorization of the owner or operator of the motor vehicle.
+
+&emsp;(3)
+
+State standard transportation practices.—
+
+&emsp;&emsp;(A)
+
+Continuation.—Paragraph (1) shall not affect any authority of a State, political subdivision of a State, or political authority of 2 or more States to enact or enforce a law, regulation, or other provision, with respect to the intrastate transportation of property by motor carriers, related to—
+
+&emsp;&emsp;&emsp;(i) uniform cargo liability rules,
+
+&emsp;&emsp;&emsp;(ii) uniform bills of lading or receipts for property being transported,
+
+&emsp;&emsp;&emsp;(iii) uniform cargo credit rules,
+
+&emsp;&emsp;&emsp;(iv) antitrust immunity for joint line rates or routes, classifications, mileage guides, and pooling, or
+
+&emsp;&emsp;&emsp;(v) antitrust immunity for agent-van line operations (as set forth in section 13907),
+
+> &emsp;&emsp;if such law, regulation, or provision meets the requirements of subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Requirements.—A law, regulation, or provision of a State, political subdivision, or political authority meets the requirements of this subparagraph if—
+
+&emsp;&emsp;&emsp;(i) the law, regulation, or provision covers the same subject matter as, and compliance with such law, regulation, or provision is no more burdensome than compliance with, a provision of this part or a regulation issued by the Secretary or the Board under this part; and
+
+&emsp;&emsp;&emsp;(ii) the law, regulation, or provision only applies to a carrier upon request of such carrier.
+
+&emsp;&emsp;(C)
+
+Election.—Notwithstanding any other provision of law, a carrier affiliated with a direct air carrier through common controlling ownership may elect to be subject to a law, regulation, or provision of a State, political subdivision, or political authority under this paragraph.
+
+&emsp;(4)
+
+Nonapplicability to hawaii.—This subsection shall not apply with respect to the State of Hawaii.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899.)
+
+#### References in Text
+
+The Surface Freight Forwarder Deregulation Act of 1986, referred to in subsec. (b)(2), is Pub. L. 99–521, Oct. 22, 1986, 100 Stat. 2993. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 10101 of this title and Tables.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 11501 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date
+
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 13902 of this title.
+

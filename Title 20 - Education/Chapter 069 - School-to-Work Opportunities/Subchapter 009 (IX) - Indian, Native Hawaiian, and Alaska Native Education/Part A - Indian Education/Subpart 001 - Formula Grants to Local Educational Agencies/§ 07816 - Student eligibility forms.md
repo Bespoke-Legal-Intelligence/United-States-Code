@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart and that otherwise meets the requirements of subsection (b) of this section.
+The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indianchild eligible for assistance under this subpart and that otherwise meets the requirements of subsection (b) of this section.
 
 #### (b) Forms
 
@@ -40,7 +40,7 @@ The Secretary shall require that, as part of an application for a grant under th
 
 #### (3) Failure
 
-&emsp;The failure of an applicant to furnish any information described in this subsection other than the information described in paragraph (2) with respect to any child shall have nobearing on the determination of whether the child is an eligible Indian child for the purposes of determining the amount of a grant award made under section 7813 of this title.
+&emsp;The failure of an applicant to furnish any information described in this subsection other than the information described in paragraph (2) with respect to any child shall have no bearing on the determination of whether the child is an eligible Indian child for the purposes of determining the amount of a grant award made under section 7813 of this title.
 
 #### (c) Statutory construction
 
@@ -48,7 +48,7 @@ Nothing in this section shall be construed to affect a definition contained in s
 
 #### (d) Forms and standards of proof
 
-The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985 1986 academic year to establish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
+The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985–1986 academic year to establish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
 
 &emsp;(1) to establish such eligibility; and
 
@@ -86,13 +86,13 @@ For the purposes of the distribution of funds under this subpart to schools that
 
 &emsp;(2) the Act of April 16, 1934 (48 Stat. 596, chapter 147) \[25 U.S.C. 452 et seq.\],
 
-> the Secretary shall, in lieu of meeting the requirements of this section for counting Indian children, use a count of the number of students in such schools certified by the Bureau of Indian Affairs.
+> the Secretary shall, in lieu of meeting the requirements of this section for counting Indianchildren, use a count of the number of students in such schools certified by the Bureau of Indian Affairs.
 
-(Pub. L. 89 10, title IX, §9116, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3779.)
+(Pub. L. 89–10, title IX, §9116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3779.)
 
 #### References in Text
 
-The Indian Elementary and Secondary School Assistance Act, referred to in subsecs. (d) and (f)(1)(B), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92 318, title IV, §411(a), June 23, 1972, 86 Stat. 335, as amended, which was classified generally to subchapter III (§241aa et seq.) of chapter 13 of this title, prior to repeal by Pub. L. 100 297, title V, §5352(1), Apr. 28, 1988, 102 Stat. 414.
+The Indian Elementary and Secondary School Assistance Act, referred to in subsecs. (d) and (f)(1)(B), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, §411(a), June 23, 1972, 86 Stat. 335, as amended, which was classified generally to subchapter III (§241aa et seq.) of chapter 13 of this title, prior to repeal by Pub. L. 100–297, title V, §5352(1), Apr. 28, 1988, 102 Stat. 414.
 
 Act of April 16, 1934, referred to in subsec. (g)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 452 of Title 25 and Tables.
 

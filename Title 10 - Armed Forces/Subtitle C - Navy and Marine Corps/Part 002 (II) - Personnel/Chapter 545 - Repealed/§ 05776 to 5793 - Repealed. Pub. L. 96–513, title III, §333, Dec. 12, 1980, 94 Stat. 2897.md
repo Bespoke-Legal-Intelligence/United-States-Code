@@ -1,4 +1,4 @@
-### \[§§5776 to 5793 . Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
+### \[§§5776 to 5793. Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
 
 Section 5776, acts Aug. 10, 1956, ch. 1041, 70A Stat. 361; Aug. 21, 1957, Pub. L. 85–155, title II, §201(12), 71 Stat. 383; Aug. 3, 1961, Pub. L. 87–123, §5(22), 75 Stat. 266; Sept. 30, 1966, Pub. L. 89–609, §1(12), 80 Stat. 853; Nov. 8, 1967, Pub. L. 90–130, §1(19)(U)–(W), 81 Stat. 379, related to failure of selection. See section 627 of this title.
 

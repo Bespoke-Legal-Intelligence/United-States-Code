@@ -56,7 +56,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (C) Recapture in lieu of disallowance
 
-&emsp;&emsp;The Secretary may prescribe regulations under which, in lieu of disallowing a loss under subparagraph (A) for a prior taxable year, the gross income of the liquidating corporation for the taxable year in which the plan of complete liquidation is adopted shall be increased by the amount of the disallowed loss.
+&emsp;&emsp;The Secretary may prescribe regulations under which, in lieu of disallowing a loss under subparagraph (A) for a prior taxable year, the gross income of the liquidatingcorporation for the taxable year in which the plan of complete liquidation is adopted shall be increased by the amount of the disallowed loss.
 
 #### (3) Special rule in case of liquidation to which section 332 applies
 
@@ -134,7 +134,7 @@ In general.—The amendments made by this subtitle shall not apply to—
 
 &emsp;&emsp;“(B) any distribution or sale or exchange made by any corporation if more than 50 percent of the voting stock (by value) of such corporation is acquired on or after August 1, 1986, pursuant to a written binding contract in effect before such date and if such corporation is completely liquidated before January 1, 1988,
 
-&emsp;&emsp;“(C) any distribution or sale or exchange made by any corporation if substantially all of the assets ofsuch corporation are sold on or after August 1, 1986, pursuant to 1 or more written binding contracts in effect before such date and if such corporation is completely liquidated before January 1, 1988, or
+&emsp;&emsp;“(C) any distribution or sale or exchange made by any corporation if substantially all of the assets of such corporation are sold on or after August 1, 1986, pursuant to 1 or more written binding contracts in effect before such date and if such corporation is completely liquidated before January 1, 1988, or
 
 &emsp;&emsp;“(D) any transaction described in section 338 of the Internal Revenue Code of 1986 with respect to any target corporation if a qualified stock purchase of such target corporation is made on or after August 1, 1986, pursuant to a written binding contract in effect before such date and the acquisition date (within the meaning of such section 338) is before January 1, 1988.
 

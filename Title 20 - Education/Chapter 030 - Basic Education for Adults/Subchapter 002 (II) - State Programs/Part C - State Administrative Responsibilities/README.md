@@ -1,6 +1,6 @@
 Part C—State Administrative Responsibilities
 
-<i><sup>1</sup></i><i>So in original. Probably should be preceded by subsection designation “(a)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by subsection designation “(a)”.</i>
 
 
 ---

@@ -1,6 +1,6 @@
 ### §870. Grants of land in aid of common or public schools; extension to those mineral in character; effect of leases
 
-Subject to the provisions of subsections (a), (b), and (c) of this section, the several grants tothe States of numbered sections in place for the support or in aid of common or public schools be, and they are, extended to embrace numbered school sections mineral in character, unless land has been granted to and/or selected by and certified or approved, to any such State or States as indemnity or in lieu of any land so granted by numbered sections.
+Subject to the provisions of subsections (a), (b), and (c) of this section, the several grants to the States of numbered sections in place for the support or in aid of common or public schools be, and they are, extended to embrace numbered school sections mineral in character, unless land has been granted to and/or selected by and certified or approved, to any such State or States as indemnity or in lieu of any land so granted by numbered sections.
 
 (a) The grant of numbered mineral sections under this section shall be of the same effect as prior grants for the numbered nonmineral sections, and titles to such numbered mineral sections shall vest in the States at the time and in the manner and be subject to all the rights of adverse parties recognized by existing law in the grants of numbered nonmineral sections.
 
@@ -16,7 +16,7 @@ Subject to the provisions of subsections (a), (b), and (c) of this section, the 
 
 (4) The Secretary of the Interior shall, upon application by a State, issue patents to the State for the lands granted by this section and section 871 of this title, in accordance with section 871a <sup>1</sup> of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
 
-(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
+(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by asingle lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
 
 (6) As used in this subsection, “lease” includes “permit” and “lessor” includes “grantor”.
 
@@ -44,7 +44,7 @@ Section 2 of act May 2, 1932, provided that: “This amendatory Act \[amending t
 
 #### Admission of Alaska as State
 
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Section Referred to in Other Sections
 

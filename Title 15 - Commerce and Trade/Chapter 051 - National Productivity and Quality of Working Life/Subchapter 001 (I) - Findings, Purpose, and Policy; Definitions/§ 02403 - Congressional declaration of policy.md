@@ -12,5 +12,5 @@ It is the continuing responsibility of the Federal Government to use all practic
 
 The laws, rules, regulations, and policies of the United States shall be so interpreted as to give full force and effect to this policy.
 
-(Pub. L. 94 136, title I, §103, Nov. 28, 1975, 89 Stat. 734.)
+(Pub. L. 94–136, title I, §103, Nov. 28, 1975, 89 Stat. 734.)
 

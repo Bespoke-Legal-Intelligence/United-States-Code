@@ -4,7 +4,7 @@
 
 Prior to the expenditure of, or the making of any firm commitment to expend, any funds appropriated for the planning, design, construction, or renovation of facilities pursuant to section 13 of this title, the Secretary, acting through the Service, shall—
 
-&emsp;(1) consult with any Indian tribe that would be significantly affected by such expenditure for the purpose of determining and, whenever practicable, honoring tribal preferences concerning size, location, type, and other characteristics of any facility on which such expenditure is to be made, and
+&emsp;(1) consult with any Indian tribe that would be significantly affected by such expenditurefor the purpose of determining and, whenever practicable, honoring tribal preferences concerning size, location, type, and other characteristics of any facility on which such expenditure is to be made, and
 
 &emsp;(2) ensure, whenever practicable, that such facility meets the standards of the Joint Commission on Accreditation of Health Care Organizations by not later than 1 year after the date on which the construction or renovation of such facility is completed.
 
@@ -76,7 +76,7 @@ Subsec. (c). Pub. L. 102–573, §301(3), redesignated subsec. (d) as (c) and st
 
 Subsec. (c)(1). Pub. L. 102–573, §301(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall submit to the Congress an annual report which sets forth—”.
 
-Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the Presidentsubmits the budget to the Congress under section 1105 of title 31.”
 
 Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
 

@@ -18,7 +18,7 @@ Not later than 18 months after November 15, 1990, the Administrator shall establ
 
 #### (e) Allowances and permits
 
-The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d) of this section, in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651<i>l</i>, and 7651m of this title.
+The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d) of this section, in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under thissection shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651<i>l</i>, and 7651m of this title.
 
 #### (f) Limitation
 

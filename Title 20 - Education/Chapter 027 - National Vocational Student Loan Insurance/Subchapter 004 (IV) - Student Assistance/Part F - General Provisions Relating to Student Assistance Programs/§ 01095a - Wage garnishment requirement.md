@@ -22,7 +22,7 @@ Notwithstanding any provision of State law, a guaranty agency, or the Secretary 
 
 #### (b) Hearing requirements
 
-A hearing described in subsection (a)(5) of this section shall be provided prior to issuance of a garnishment order if the individual, on or before the 15th day following the mailing of the notice described in subsection (a)(2) of this section, and in accordance with such procedures as the Secretary or the head of the guaranty agency, as appropriate, may prescribe, files a petition requesting such a hearing. If the individual does not file a petition requesting a hearing prior to such date, the Secretary or the guaranty agency, as appropriate, shall provide the individual a hearing under subsection (a)(5) of this section upon request, but such hearing need not be provided prior to issuance of a garnishment order. A hearing under subsection (a)(5) of this section may not be conducted by an individual under the supervision or control of the head of the guaranty agency, except that nothing in this sentence shall be construed to prohibit the appointment of an administrative law judge. The hearing official shall issue a final decision at the earliest practicable date, but not later than 60 days after the filing of the petition requesting the hearing.
+A hearing described in subsection (a)(5) of this section shall be provided prior to issuance of a garnishment order if the individual, on or before the 15th day following the mailing of the notice described in subsection (a)(2) of this section, and in accordance with such procedures as the Secretary or the head of the guaranty agency, as appropriate, may prescribe, files a petition requesting such a hearing. If the individual doesnot file a petition requesting a hearing prior to such date, the Secretary or the guaranty agency, as appropriate, shall provide the individual a hearing under subsection (a)(5) of this section upon request, but such hearing need not be provided prior to issuance of a garnishment order. A hearing under subsection (a)(5) of this section may not be conducted by an individual under the supervision or control of the head of the guaranty agency, except that nothing in this sentence shall be construed to prohibit the appointment of an administrative law judge. The hearing official shall issue a final decision at the earliest practicable date, but not later than 60 days after the filing of the petition requesting the hearing.
 
 #### (c) Notice requirements
 
@@ -32,5 +32,5 @@ The notice to the employer of the withholding order shall contain only such info
 
 For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by law to be withheld.
 
-(Pub. L. 89 329, title IV, §488A, as added Pub. L. 102 164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066.)
+(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066.)
 

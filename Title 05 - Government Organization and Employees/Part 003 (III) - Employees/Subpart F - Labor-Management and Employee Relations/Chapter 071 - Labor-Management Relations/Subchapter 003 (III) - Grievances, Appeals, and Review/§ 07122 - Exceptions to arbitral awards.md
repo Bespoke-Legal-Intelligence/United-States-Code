@@ -14,9 +14,9 @@
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–224 amended subsec. (b) generally, substituting “beginning on the date the award is served on the party” for “beginning on the date of such award”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–224 amended subsec. (b) generally, substituting “beginning on the date the award is served on the party” for “beginning on the date of such award”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7105, 7123 of this title.
+This section is referred to in sections 7105, 7123 of this title; title 2 section 1351.
 

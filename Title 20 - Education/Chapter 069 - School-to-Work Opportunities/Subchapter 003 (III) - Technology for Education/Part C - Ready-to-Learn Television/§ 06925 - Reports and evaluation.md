@@ -20,5 +20,5 @@ The Secretary shall prepare and submit to the relevant committees of Congress a 
 
 &emsp;(2) a description of the training materials made available under section 6923(3) of this title, the manner in which outreach has been conducted to inform parents and child care providers of the availability of such materials, and the manner in which such materials have been distributed in accordance with such section.
 
-(Pub. L. 89 10, title III, §3305, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3665.)
+(Pub. L. 89–10, title III, §3305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3665.)
 

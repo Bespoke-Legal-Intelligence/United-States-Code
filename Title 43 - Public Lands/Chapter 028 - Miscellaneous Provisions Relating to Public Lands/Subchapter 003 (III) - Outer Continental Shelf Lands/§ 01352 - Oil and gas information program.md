@@ -22,13 +22,13 @@
 
 #### (b) Processing, analyzing, and interpreting information; availability of summary of data to affected States and local government
 
-(1) Data and information provided to the Secretary pursuant to subsection (a) of this section shall be processed, analyzed, and interpreted bythe Secretary for purposes of carrying out his duties under this subchapter.
+(1) Data and information provided to the Secretary pursuant to subsection (a) of this section shall be processed, analyzed, and interpreted by the Secretary for purposes of carrying out his duties under this subchapter.
 
 (2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves in areas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
 
 #### (c) Confidentiality of information; regulations
 
-The Secretary shall prescribe regulations to (1) assure that the confidentiality of privileged or proprietary information received by the Secretary under this section will be maintained, and (2) set forth the time periods and conditions which shall be applicable to the release of such information. Such regulations shall include a provision that no such information will be transmitted to any affected State unless the lessee, or the permittee and all persons to whom such permittee has sold such information under promise of confidentiality, agree to such transmittal.
+The Secretary shall prescribe regulations to (1) assure that the confidentiality of privileged or proprietary information received by the Secretary under this section will be maintained, and (2) set forth the time periods and conditions which shall be applicable to the release of such information. Such regulations shall include a provision that no such information will be transmitted to any affected State unless the lessee, or the permittee and all persons to whom such permittee has sold such information underpromise of confidentiality, agree to such transmittal.
 
 #### (d) Transmittal of information to affected State; protection of competitive position
 

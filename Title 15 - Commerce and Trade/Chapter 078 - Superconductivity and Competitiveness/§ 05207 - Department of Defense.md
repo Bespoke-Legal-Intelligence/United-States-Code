@@ -20,5 +20,5 @@ The Director of the Defense Advanced Research Projects Agency shall, in conforma
 
 &emsp;(2) develop criteria for operational prototype testing within the Department of Defense.
 
-(Pub. L. 100 697, §8, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, §8, Nov. 19, 1988, 102 Stat. 4615.)
 

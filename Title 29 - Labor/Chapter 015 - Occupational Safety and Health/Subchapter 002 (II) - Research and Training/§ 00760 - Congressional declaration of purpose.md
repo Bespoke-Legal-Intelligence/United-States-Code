@@ -6,7 +6,7 @@ The purpose of this subchapter is to—
 
 &emsp;(2) provide for a comprehensive and coordinated approach to the support and conduct of such research, demonstration projects, training, and related activities and to ensure that the approach is in accordance with the long-range plan for research developed under section 761a(g) of this title;
 
-&emsp;(3) promote the transfer of rehabilitation technology to individuals with disabilities through research and demonstration projects relating to—
+&emsp;(3) promote the transfer of rehabilitation technology to individuals with disabilitiesthrough research and demonstration projects relating to—
 
 &emsp;&emsp;(A) the procurement process for the purchase of rehabilitation technology;
 
@@ -26,7 +26,7 @@ The purpose of this subchapter is to—
 
 &emsp;(6) increase opportunities for researchers who are members of traditionally underserved populations, including researchers who are members of minority groups and researchers who are individuals with disabilities.
 
-(Pub. L. 93–112, title II, §200, Sept. 26, 1973, 87 Stat. 374; Pub. L. 95–602, title I, §107, Nov. 6, 1978,92 Stat. 2962; Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title II, §201, Oct. 29, 1992, 106 Stat. 4398.)
+(Pub. L. 93–112, title II, §200, Sept. 26, 1973, 87 Stat. 374; Pub. L. 95–602, title I, §107, Nov. 6, 1978, 92 Stat. 2962; Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title II, §201, Oct. 29, 1992, 106 Stat. 4398.)
 
 #### Amendments
 

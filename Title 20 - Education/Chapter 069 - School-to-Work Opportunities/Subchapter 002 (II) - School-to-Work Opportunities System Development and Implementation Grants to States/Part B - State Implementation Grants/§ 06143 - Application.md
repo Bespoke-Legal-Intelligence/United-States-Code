@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
-&emsp;&emsp;(B) allow such individuals and entities to submit to the Governor, not later than the end of the 30-day period beginning on the date on which the Governor provides such individuals and entities with copies of suchapplication under subparagraph (A), comments on those portions of the plan that address matters that, under State or other applicable law, are under the jurisdiction of such individuals or entities; and
+&emsp;&emsp;(B) allow such individuals and entities to submit to the Governor, not later than the end of the 30-day period beginning on the date on which the Governor provides such individuals and entities with copies of such application under subparagraph (A), comments on those portions of the plan that address matters that, under State or other applicable law, are under the jurisdiction of such individuals or entities; and
 
 &emsp;&emsp;(C) include any such comments in the application in accordance with subsection (b)(5) of this section.
 
@@ -92,7 +92,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;&emsp;(F) the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
 
-&emsp;&emsp;(G) the National Skills<sup>1</sup> Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
+&emsp;&emsp;(G) the National Skills <sup>1</sup> Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
 
 &emsp;&emsp;(H) the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
@@ -138,37 +138,37 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;(23) describe the procedures to facilitate the entry of students participating in a School-to-Work Opportunities program into additional training or postsecondary education programs, as well as to facilitate the transfer of the students between education and training programs.
 
-(Pub. L. 103 239, title II, §213, May 4, 1994, 108 Stat. 583.)
+(Pub. L. 103–239, title II, §213, May 4, 1994, 108 Stat. 583.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. Title VII of the Act is classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. Title VII of the Act is classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsecs. (c) and (d)(6)(F), (8), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (c) and (d)(6)(F), (8), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Adult Education Act, referred to in subsec. (d)(6)(A), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally tochapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in subsec. (d)(6)(A), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (d)(6)(B), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (d)(6)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6)(C), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(6)(D), is Pub. L. 89 329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(6)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (d)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The National Skill Standards Act of 1994, referred to in subsec. (d)(6)(G), (8), (16), is title V of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in subsec. (d)(6)(G), (8), (16), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(6)(H), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(6)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (d)(6)(J), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(K), is Pub. L. 93 112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(K), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (d)(6)(L), is Pub. L. 101 610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (d)(6)(L), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6103, 6125, 6142, 6144, 6146, 6173, 6192, 6211, 6215 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “Skill”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Skill”.</i>
 

@@ -86,7 +86,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;&emsp;(i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
-&emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into such a participation agreement plan and is qualified to receive such payments.
+&emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into sucha participation agreement plan and is qualified to receive such payments.
 
 &emsp;(B)(i) In the case of an entity making an agreement pursuant to subparagraph (A)(ii) regarding the provision of services, the requirement established in such subparagraph regarding a participation agreement shall be waived by the Director if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
@@ -208,7 +208,7 @@ A prior section 508 of act July 1, 1944, which was classified to section 290aaâ€
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104â€“14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

@@ -154,5 +154,5 @@ For the purposes of this subchapter, only the following definitions shall apply:
 
 &emsp;The term “unserved and underserved populations” includes populations such as individuals from racial and ethnic minority backgrounds, economically disadvantaged individuals, individuals with limited-English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with disabilities, including individuals with disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
 
-(Pub. L. 91 230, title VI, §703, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3939.)
+(Pub. L. 91–230, title VI, §703, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3939.)
 

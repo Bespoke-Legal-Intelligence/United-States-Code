@@ -1,4 +1,4 @@
-### §6329 . Officers not to be retired for misconduct
+### §6329. Officers not to be retired for misconduct
 
 No officer of the Navy or the Marine Corps may be retired because of misconduct for which trial by court-martial would be appropriate.
 

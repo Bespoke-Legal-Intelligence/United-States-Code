@@ -1,8 +1,8 @@
-### §1220 . Coverage of previously exempt State employees
+### §1220. Coverage of previously exempt State employees
 
 #### (a) Application
 
-The rights, protections, and remedies provided pursuant to section 1202 and 1207(h) of this title shall apply with respect to employment of any individual chosen or appointed, by a person elected to public office in any State or political subdivision of any State by the qualified voters thereof—
+The rights, protections, and remedies provided pursuant to section 1202 of this title shall apply with respect to employment of any individual chosen or appointed, by a person elected to public office in any State or political subdivision of any State by the qualified voters thereof—
 
 &emsp;(1) to be a member of the elected official's personal staff;
 
@@ -32,7 +32,7 @@ Any party aggrieved by a final order under subsection (b) of this section may ob
 
 #### (d) Standard of review
 
-To the extent necessary to decision and when presented, the reviewing court shall decide allrelevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under subsection (b) of this section if it is determined that the order was—
+To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under subsection (b) of this section if it is determined that the order was—
 
 &emsp;(1) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 
@@ -46,9 +46,17 @@ To the extent necessary to decision and when presented, the reviewing court shal
 
 If the individual referred to in subsection (a) of this section is the prevailing party in a proceeding under this subsection, attorney's fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of title 42.
 
-(Pub. L. 102–166, title III, §321, Nov. 21, 1991, 105 Stat. 1097.)
+(Pub. L. 102–166, title III, §304, formerly §321, Nov. 21, 1991, 105 Stat. 1097; renumbered §304 and amended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
+
+#### Prior Provisions
+
+A prior section 304 of Pub. L. 102–166 was classified to section 1204 of this title prior to repeal by Pub. L. 104–1.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–1, §504(a)(4), struck out “and 1207(h) of this title” before “shall apply” in introductory provisions.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1214 of this title.
+This section is referred to in section 1202 of this title.
 

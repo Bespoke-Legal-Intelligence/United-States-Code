@@ -8,7 +8,7 @@ No fastener which is required by the standards and specifications to which it wa
 
 The Secretary shall establish, by regulation, a program to provide for the recordation of the insignias of manufacturers and private label distributors described in subsection (a) of this section, to ensure the traceability of a fastener to its manufacturer or private label distributor.
 
-(Pub. L. 101 592, §8, Nov. 16, 1990, 104 Stat. 2950.)
+(Pub. L. 101–592, §8, Nov. 16, 1990, 104 Stat. 2950.)
 
 #### Section Referred to in Other Sections
 

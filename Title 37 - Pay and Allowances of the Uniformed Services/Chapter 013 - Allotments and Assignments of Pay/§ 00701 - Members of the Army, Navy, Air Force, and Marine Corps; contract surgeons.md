@@ -78,7 +78,7 @@ Historical and Revision Notes
 
 1985—Pub. L. 99–145, §683(a)(2), inserted reference to Navy and Marine Corps in section catchline.
 
-Subsec. (a). Pub. L. 99–145, §683(a)(1)(A), (C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be” and “commissioned officer of the Army, Navy, Air Force, or Marine Corps” for “commissioned officer of the Army or the Air Force”.
+Subsec. (a). Pub. L. 99–145, §683(a)(1)(A), (C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be” and “commissionedofficer of the Army, Navy, Air Force, or Marine Corps” for “commissioned officer of the Army or the Air Force”.
 
 Subsec. (b). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 

@@ -24,9 +24,9 @@ The Administrator may provide voucher award recipients with such assistance, inc
 
 The Administrator shall conduct an ongoing review of the program established under this section, and shall, not later than January 31, 1995, report to Congress the results of such a review, together with recommendations for further action relating to the program.
 
-(Pub. L. 102 588, title V, §504, Nov. 4, 1992, 106 Stat. 5124.)
+(Pub. L. 102–588, title V, §504, Nov. 4, 1992, 106 Stat. 5124.)
 
 #### “Administrator” Defined
 
-Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102 588, 106 Stat. 5110.
+Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102–588, 106 Stat. 5110.
 

@@ -1,0 +1,144 @@
+### §2461. Mode of recovery
+
+(a) Whenever a civil fine, penalty or pecuniary forfeiture is prescribed for the violation of an Act of Congress without specifying the mode of recovery or enforcement thereof, it may be recovered in a civil action.
+
+(b) Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
+
+(June 25, 1948, ch. 646, 62 Stat. 974.)
+
+#### Historical and Revision Notes
+
+Subsection (a) was drafted to clarify a serious ambiguity in existing law and is based upon rulings of the Supreme Court. Numerous sections in the United States Code prescribe civil fines, penalties, and pecuniary forfeitures for violation of certain sections without specifying the mode of recovery or enforcement thereof. See, for example, section 567 of title 12, U.S.C., 1940 ed., Banks and Banking, section 64 of title 14, U.S.C., 1940 ed., Coast Guard, and section 180 of title 25, U.S.C., 1940 ed., Indians. Compare section 1 (21) of title 49, U.S.C., 1940 ed., Transportation.
+
+A civil fine, penalty, or pecuniary forfeiture is recoverable in a civil action. <i>United States ex rel. Marcus v. Hess</i> et al., 1943, 63 S.Ct. 379, 317 U.S. 537, 87 L.Ed. 433, rehearing denied 63 S.Ct. 756, 318 U.S. 799, 87 L.Ed. 1163; <i>Hepner v. United States</i>, 1909, 29 S.Ct. 474, 213 U.S. 103, 53 L.Ed. 720, and cases cited therein.
+
+Forfeiture of bail bonds in criminal cases are enforceable by procedure set out in Rule 46 of the Federal Rules of Criminal Procedure.
+
+If the statute contemplates a criminal fine, it can only be recovered in a criminal proceeding under the Federal Rules of Criminal Procedure, after a conviction. The collection of civil fines and penalties, however, may not be had under the Federal Rules of Criminal Procedure, Rule 54(b)(5), but enforcement of a criminal fine imposed in a criminal case may be had by execution on the judgment rendered in such case, as in civil actions. (See section 569 of title 18, U.S.C., 1940 ed., Crimes and Criminal Procedure, incorporated in section 3565 of H.R. 1600, 80th Congress, for revision of the Criminal Code. See also Rule 69 of Federal Rules of Civil Procedure and Advisory Committee Note thereunder, as to execution in civil actions.)
+
+Subsection (b) was drafted to cover the subject of forfeiture of property generally. Sections in the United States Code specifically providing a mode of enforcement of forfeiture of property for their violation and other procedural matters will, of course, govern and subsection (b) will not affect them. It will only cover cases where no mode of recovery is prescribed.
+
+Words “Unless otherwise provided by enactment of Congress” were inserted at the beginning of subsection (b) to exclude from its application instances where a libel in admiralty is not required. For example, under sections 1607, 1609, and 1610 of title 19, U.S.C., 1940 ed., Customs Duties, the collector of customs may, by summary procedure, sell at public auction, without previous declaration of forfeiture or libel proceedings, any vessel, etc., under $1,000 in value in cases where no claim for the same is filed or bond given as required by customs laws.
+
+Rule 81 of the Federal Rules of Civil Procedure makes such rules applicable to the appeals in cases of seizures on land. (See also <i>443 Cans of Frozen Egg Product v. United States</i>, 1912, 33 S.Ct. 50, 226 U.S. 172, 57 L.Ed. 174, and <i>Eureka Productions v. Mulligan</i>, C.C.A. 1940, 108 F.2d 760.) The proceeding, which resembles a suit in admiralty in that it is begun by a libel, is, strictly speaking, an “action at law” (The Sarah, 1823, 8 Wheat. 391, 21 U.S. 391, 5 L.Ed. 644; Morris's Cotton, 1869, 8 Wall. 507, 75 U.S. 507, 19 L.Ed. 481; Confiscation cases, 1873, 20 Wall. 92, 87 U.S. 92, 22 L.Ed. 320; <i>Eureka Productions v. Mulligan</i>, supra), even though the statute may direct that the proceedings conform to admiralty as near as may be. <i>In re Graham</i>, 1870, 10 Wall. 541, 19 L.Ed. 981, and <i>443 Cans of Frozen Egg Product v. United States</i>, supra.
+
+Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rules, which recognizes that a libel may be filed upon seizure for any breach of any enactment of Congress, whether on land or on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States. Such rule also permits an information to be filed, but is rarely, if ever, used at present. Consequently, “information” has been omitted from the text and only “libel” is incorporated.
+
+#### Federal Civil Penalties Inflation Adjustment
+
+Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, provided that:
+
+#### “short title
+
+“Section 1. This Act may be cited as the ‘Federal Civil Penalties Inflation Adjustment Act of 1990’.
+
+#### “findings and purpose
+
+“Sec. 2. (a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) the power of Federal agencies to impose civil monetary penalties for violations of Federal law and regulations plays an important role in deterring violations and furthering the policy goals embodied in such laws and regulations;
+
+&emsp;“(2) the impact of many civil monetary penalties has been and is diminished due to the effect of inflation;
+
+&emsp;“(3) by reducing the impact of civil monetary penalties, inflation has weakened the deterrent effect of such penalties; and
+
+&emsp;“(4) the Federal Government does not maintain comprehensive, detailed accounting of the efforts of Federal agencies to assess and collect civil monetary penalties.
+
+“(b)
+
+Purpose.—The purpose of this Act is to establish a mechanism that shall—
+
+&emsp;“(1) allow for regular adjustment for inflation of civil monetary penalties;
+
+&emsp;“(2) maintain the deterrent effect of civil monetary penalties and promote compliance with the law; and
+
+&emsp;“(3) improve the collection by the Federal Government of civil monetary penalties.
+
+#### “definitions
+
+“Sec. 3. For purposes of this Act, the term—
+
+&emsp;“(1) ‘agency’ means an Executive agency as defined under section 105 of title 5, United States Code, and includes the United States Postal Service;
+
+&emsp;“(2) ‘civil monetary penalty’ means any penalty, fine, or other sanction that—
+
+&emsp;&emsp;“(A)(i) is for a specific monetary amount as provided by Federal law; or
+
+&emsp;&emsp;“(ii) has a maximum amount provided for by Federal law; and
+
+&emsp;&emsp;“(B) is assessed or enforced by an agency pursuant to Federal law; and
+
+&emsp;&emsp;“(C) is assessed or enforced pursuant to an administrative proceeding or a civil action in the Federal courts; and
+
+&emsp;“(3) ‘Consumer Price Index’ means the Consumer Price Index for all-urban consumers published by the Department of Labor.
+
+#### “civil monetary penalty inflation adjustment reports
+
+“Sec. 4. Within 6 months after the date of the enactment of this Act \[Oct. 5, 1990\], and on January 1 of each fifth calendar year thereafter, the President shall submit a report on civil monetary penalty inflation adjustment to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives. Such report shall include—
+
+&emsp;“(1) each civil monetary penalty as defined under section 3(2);
+
+&emsp;“(2) the date each civil monetary penalty was most recently set pursuant to law;
+
+&emsp;“(3) the maximum amount of each civil monetary penalty or, if applicable, the range of the minimum and maximum amounts of each civil monetary penalty in effect on the date of the submission of such report;
+
+&emsp;“(4) the amount of each civil monetary penalty described under paragraph (3) other than any such penalty for which inflation adjustment is provided by law, if each such penalty is increased by the adjustment described under section 5; and
+
+&emsp;“(5) a listing of the modifications to Federal law that would be required to—
+
+&emsp;&emsp;“(A) increase each penalty described in paragraph (1) by the adjustments described under section 5, excluding any penalty for which inflation adjustment is provided by law or that has been increased within the 5-year period immediately preceding the date of the submission of such report; and
+
+&emsp;&emsp;“(B) provide that any increase in any civil monetary penalty shall apply only to violations which occur after the date any such increase takes effect.
+
+#### “cost-of-living adjustments of civil monetary penalties
+
+“Sec. 5. (a)
+
+Adjustment.—The adjustment described under paragraphs (4) and (5)(A) of section 4 shall be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest—
+
+&emsp;“(1) multiple of $10 in the case of penalties less than or equal to $100;
+
+&emsp;“(2) multiple of $100 in the case of penalties greater than $100 but less than or equal to $1,000;
+
+&emsp;“(3) multiple of $1,000 in the case of penalties greater than $1,000 but less than or equal to $10,000;
+
+&emsp;“(4) multiple of $5,000 in the case of penalties greater than $10,000 but less than or equal to $100,000;
+
+&emsp;“(5) multiple of $10,000 in the case of penalties greater than $100,000 but less than or equal to $200,000; and
+
+&emsp;“(6) multiple of $25,000 in the case of penalties greater than $200,000.
+
+“(b)
+
+Definition.—For purposes of subsection (a), the term ‘cost-of-living adjustment’ means the percentage (if any) for each civil monetary penalty by which—
+
+&emsp;“(1) the Consumer Price Index for the month of June of the calendar year preceding the adjustment, exceeds
+
+&emsp;“(2) the Consumer Price Index for the month of June of the calendar year in which the amount of such civil monetary penalty was last set or adjusted pursuant to law.
+
+#### “annual report
+
+“Sec. 6. No later than January 1 of each year, the President shall submit a report on civil monetary penalties to the Congress which shall include—
+
+&emsp;“(1) to the extent possible, the number and amount of civil monetary penalties imposed pursuant to each provision of law providing for such civil monetary penalties, during the complete fiscal year preceding the submission of such report;
+
+&emsp;“(2) to the extent possible, the number and amount of such civil penalties collected during such fiscal year; and
+
+&emsp;“(3) any recommendations that the President determines appropriate to—
+
+&emsp;&emsp;“(A) eliminate obsolete civil monetary penalties;
+
+&emsp;&emsp;“(B) modify the amount of any civil monetary penalty; or
+
+&emsp;&emsp;“(C) make any other legislative modifications concerning civil monetary penalties.”
+
+\[Memorandum of President of the United States, May 3, 1991, 56 F.R. 21911, delegated to Director of Office of Management and Budget responsibility of President for submitting reports on civil monetary penalties to Committee on Governmental Affairs of the Senate and Committee on Government Operations of the House of Representatives and to Congress as required by sections 4 and 6 of the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above.\]
+
+\[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
+
+#### Federal Rules of Civil Procedure
+
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Appendix to this title.
+

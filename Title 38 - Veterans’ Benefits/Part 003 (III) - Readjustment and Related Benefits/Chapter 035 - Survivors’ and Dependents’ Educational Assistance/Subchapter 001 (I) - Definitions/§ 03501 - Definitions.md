@@ -28,13 +28,13 @@
 
 &emsp;(5) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill the requirements for the attainment of a predetermined and identified educational, professional, or vocational objective.
 
-&emsp;(6) The term “educational institution” means any public or private secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professionalschool, university, or scientific or technical institution, or any other institution if it furnishes education at the secondary school level or above.
+&emsp;(6) The term “educational institution” means any public or private secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or any other institution if it furnishes education at the secondary school level or above.
 
 &emsp;(7) The term “special restorative training” means training furnished under subchapter V of this chapter.
 
 &emsp;(8) The term “total disability permanent in nature” means any disability rated total for the purposes of disability compensation which is based upon an impairment reasonably certain to continue throughout the life of the disabled person.
 
-&emsp;(9) The term “training establishment” means any establishment providing apprentice or other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
+&emsp;(9) The term “training establishment” means any establishment providing apprentice or other training on the job, including thoseunder the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
 
 &emsp;(10) The term “institution of higher learning” means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educational programs at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
@@ -70,7 +70,7 @@ Subsec. (a)(11). Pub. L. 102–83, §5(c)(1), substituted “3675” for “1775
 
 1989—Subsecs. (a)(4), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1983—Subsec. (a)(1)(A)(iii), (C). Pub. L. 98–160, §702(12)(A), struck out “, United States Code,” after“title 37” and inserted a comma after “regulations issued thereunder”.
+1983—Subsec. (a)(1)(A)(iii), (C). Pub. L. 98–160, §702(12)(A), struck out “, United States Code,” after “title 37” and inserted a comma after “regulations issued thereunder”.
 
 Subsec. (a)(9). Pub. L. 98–160, §702(12)(B), substituted “the Act of August 16, 1937, popularly known as the ‘National Apprenticeship Act’ (29 U.S.C. 50 et seq.)” for “chapter 4C of title 29”.
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
 #### Eligible Person
 
-Pub. L. 86–785, §5, Sept. 14, 1960, 74 Stat. 1024, as amended by Pub. L. 87–815, §2(b), Oct. 15, 1962, 76 Stat.927, which contained a savings clause which granted five years of educational training to certain children of veterans dying of disabilities incurred subsequent to the Korean War, was repealed by Pub. L. 91–24, §14(c), June 11, 1969, 83 Stat. 35, effective June 11, 1969, except as to any indebtedness which may be due the Government as the result of any benefits granted thereunder.
+Pub. L. 86–785, §5, Sept. 14, 1960, 74 Stat. 1024, as amended by Pub. L. 87–815, §2(b), Oct. 15, 1962, 76 Stat. 927, which contained a savings clause which granted five years of educational training to certain children of veterans dying of disabilities incurred subsequent to the Korean War, was repealed by Pub. L. 91–24, §14(c), June 11, 1969, 83 Stat. 35, effective June 11, 1969, except as to any indebtedness which may be due the Government as the result of any benefits granted thereunder.
 
 #### Children of Spanish-American War Veterans
 
@@ -164,7 +164,7 @@ Period of eligibility for educational assistance of children of Spanish-American
 
 #### Termination of Eligibility Period
 
-Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
+Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, seesection 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
 
 The period referred to in section 1712 \[now 3512\] of this title as ending five years from Nov. 8, 1965, in the case of any individual who is an “eligible person” within the meaning of subsec. (a)(1) of this section solely by virtue of the amendment made by section 1 of Pub. L. 89–349 to this section, and who is above the age of seventeen years and below the age of twenty-three years on Nov. 8, 1965, see section 2 of Pub. L. 89–349, set out as a note under section 3512 of this title.
 

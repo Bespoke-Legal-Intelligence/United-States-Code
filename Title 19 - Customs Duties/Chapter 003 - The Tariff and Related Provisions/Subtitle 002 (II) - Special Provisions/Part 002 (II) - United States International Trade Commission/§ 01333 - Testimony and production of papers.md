@@ -40,7 +40,7 @@ As originally enacted subsec. (b) contained a reference to the Supreme Court of 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 8, 1916, ch. 463, §706, 39 Stat. 797, as amended by act Sept. 21, 1922, ch. 356, title III, §318(f), 42 Stat. 947. These acts were superseded by section 333 of act June 17, 1930, comprising this section, and section 318(f) of the 1922 act was repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 8, 1916, ch. 463, §706, 39 Stat. 797, as amended by act Sept. 21, 1922, ch. 356, title III, §318(f), 42 Stat. 947. These acts were superseded by section 333 of act June 17, 1930, comprising this section, and section 318(f) of the 1922 act was repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

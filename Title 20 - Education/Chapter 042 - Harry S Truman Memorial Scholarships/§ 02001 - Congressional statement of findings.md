@@ -8,9 +8,9 @@ The Congress finds that—
 
 &emsp;because of the desirability of encouraging young people to recognize and provide service in the highest and best traditions of the American political system at all levels of government, it is especially appropriate to honor former President Harry S Truman through the creation of a perpetual education scholarship program to develop increased opportunities for young Americans to prepare and pursue careers in public service.
 
-(Pub. L. 93 642, §2, Jan. 4, 1975, 88 Stat. 2276.)
+(Pub. L. 93–642, §2, Jan. 4, 1975, 88 Stat. 2276.)
 
 #### Short Title
 
-Section 1 of Pub. L. 93 642 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Harry S Truman Memorial Scholarship Act’.”
+Section 1 of Pub. L. 93–642 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Harry S Truman Memorial Scholarship Act’.”
 

@@ -20,7 +20,7 @@ Fifty percent of the total amount of funds appropriated to carry out this part f
 
 #### (3) Transfer of unused formula funds
 
-&emsp;On September 30 of each of fiscal years 1996, 1997, 1998, 1999, and 2000, the Attorney Generalshall transfer to the discretionary program under paragraph (2) any funds made available for allocation under paragraph (1) that are not allocated to an eligible State under paragraph (1).
+&emsp;On September 30 of each of fiscal years 1996, 1997, 1998, 1999, and 2000, the Attorney General shall transfer to the discretionary program under paragraph (2) any funds made available for allocation under paragraph (1) that are not allocated to an eligible State under paragraph (1).
 
 (Pub. L. 103–322, title II, §20103, Sept. 13, 1994, 108 Stat. 1817.)
 

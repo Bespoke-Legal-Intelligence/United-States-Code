@@ -8,11 +8,11 @@ As used in this part—
 
 &emsp;(3) the term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-(Pub. L. 98 377, title III, §303, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 99 159, title II, §232, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100 418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, §303, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 99–159, title II, §232, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 #### Amendments
 
-1988—Pub. L. 100 418 substituted “part” for “subchapter” in introductory text.
+1988—Pub. L. 100–418 substituted “part” for “subchapter” in introductory text.
 
-1985—Pub. L. 99 159 struck out pars. (3), (4), and (5) which defined “Foundation”, “institution of higher education”, and “States”, respectively, and redesignated par. (6) as (3).
+1985—Pub. L. 99–159 struck out pars. (3), (4), and (5) which defined “Foundation”, “institution of higher education”, and “States”, respectively, and redesignated par. (6) as (3).
 

@@ -18,7 +18,7 @@ Composition and Appointment.—(1) The Technical Pipeline Safety Standards Commi
 
 &emsp;(C) 6 individuals selected from the general public.
 
-(4)(A) Two of the individuals selected for each committee under paragraph (3)(A) of this subsection must be State commissioners. The Secretary shall consult with the national organization of State commissions (referred to in section 10344(f) of this title) before selecting those 2 individuals.
+(4)(A) Two of the individuals selected for each committee under paragraph (3)(A) of this subsection must be State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.
 
 (B) At least 3 of the individuals selected for each committee under paragraph (3)(B) of this subsection must be currently in the active operation of natural gas pipelines or hazardous liquid pipeline facilities, as appropriate.
 
@@ -50,7 +50,7 @@ Meetings.—Each committee shall meet with the Secretary at least twice annually
 
 Pay and Expenses.—The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5. A member is entitled to expenses under section 5703 of title 5. A payment under this subsection does not make a member an officer or employee of the Government. This subsection does not apply to members regularly employed by the Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1319.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1319; Pub. L. 104–88, title III, §308(m), Dec. 29, 1995, 109 Stat. 948.)
 
 Historical and Revision Notes
 
@@ -142,7 +142,7 @@ In subsection (a), the words “Not later than 12 months after November 30, 1979
 
 In subsection (b)(3)(A)–(C), the word “individuals” is substituted for “members” for consistency.
 
-In subsection (b)(3)(A), the words “departments, agencies, and instrumentalities of the United States Government and of the States” are substituted for “governmental agencies, including State and FederalGovernments” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(3)(A), the words “departments, agencies, and instrumentalities of the United States Government and of the States” are substituted for “governmental agencies, including State and Federal Governments” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(3)(B), the words “as appropriate” are added because of the restatement.
 
@@ -161,4 +161,12 @@ In subsection (d), the words “for his consideration” are omitted as surplus.
 In subsection (e), the words “(or his designee)” are omitted as surplus because of 49:322(b). The words “at least” are substituted for “not less frequently than” to eliminate unnecessary words. The word “calendar” is omitted as surplus.
 
 In subsection (f), the words “The Secretary may establish the pay” are substituted for “may be compensated at a rate to be fixed by the Secretary” for consistency and to eliminate unnecessary words. The words “of the Committee” after “Members”, “actual”, and “then currently” are omitted as surplus. The reference to section 5376 of title 5 is substituted for the reference to section 5332 of title 5 because of section 529 of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442). The words “A member is entitled to expenses under section 5703 of title 5” are substituted for 49 App.:1673(c) (2d sentence) and 2003(c) (2d sentence) to eliminate unnecessary words. The words “for any purpose” are omitted as surplus. The words “This subsection does not apply to members regularly employed by the Government” are substituted for “other than Federal employees” for clarity.
+
+#### Amendments
+
+1995—Subsec. (b)(4)(A). Pub. L. 104–88 struck out “(referred to in section 10344(f) of this title)” after “commissions”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 

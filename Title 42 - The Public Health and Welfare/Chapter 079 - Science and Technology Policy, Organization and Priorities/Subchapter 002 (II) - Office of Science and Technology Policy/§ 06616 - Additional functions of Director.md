@@ -10,7 +10,7 @@ The Director shall, in addition to the other duties and functions set forth in t
 
 #### (b) Advice to National Security Council
 
-For the purpose of assuring the optimum contribution of science and technology to the national security, the Director, at the request of the National Security Council, shall advise the National Security Council in such matters concerning science and technology as relate to national security.
+For the purpose of assuring the optimum contribution of science and technology to the national security, the Director, at the request of the National Security Council, shall advise theNational Security Council in such matters concerning science and technology as relate to national security.
 
 #### (c) Officers and employees; services; contracts; payments
 

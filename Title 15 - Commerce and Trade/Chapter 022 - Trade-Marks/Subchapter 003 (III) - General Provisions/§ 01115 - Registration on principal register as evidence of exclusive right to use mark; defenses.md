@@ -16,7 +16,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(4) That the use of the name, term, or device charged to be an infringement is a use, otherwise than as a mark, of the party's individual name in his own business, or of the individual name of anyone in privity with such party, or of a term or device which is descriptive of and used fairly and in good faith only to describe the goods or services of such party, or their geographic origin; or
 
-&emsp;(5) That the mark whose use by a party is charged as an infringement was adopted without knowledge of the registrant's prior use and has been continuously used by such party orthose in privity with him from a date prior to (A) the date of constructive use of the mark established pursuant to section 1057(c) of this title, (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C) publication of the registered mark under subsection (c) of section 1062 of this title: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which such continuous prior use is proved; or
+&emsp;(5) That the mark whose use by a party is charged as an infringement was adopted without knowledge of the registrant's prior use and has been continuously used by such party or those in privity with him from a date prior to (A) the date of constructive use of the mark established pursuant to section 1057(c) of this title, (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C) publication of the registered mark under subsection (c) of section 1062 of this title: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which such continuous prior use is proved; or
 
 &emsp;(6) That the mark whose use is charged as an infringement was registered and used prior to the registration under this chapter or publication under subsection (c) of section 1062 of this title of the registered mark of the registrant, and not abandoned: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which the mark was used prior to such registration or such publication of the registrant's mark; or
 
@@ -30,7 +30,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
-The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one year after Nov. 16, 1988. See section 136 of Pub. L. 100–667, set out as an Effective Date of 1988 Amendment note under section 1051 of this title.
+The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one yearafter Nov. 16, 1988. See section 136 of Pub. L. 100–667, set out as an Effective Date of 1988 Amendment note under section 1051 of this title.
 
 The antitrust laws, referred to in subsec. (b)(7), are classified generally to chapter 1 (§1 et seq.) of this title.
 

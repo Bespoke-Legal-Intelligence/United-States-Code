@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) personal property,
 
-&emsp;&emsp;(B) other property (not including a building or its structural components) but only if such other property is tangible and has an adjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
+&emsp;&emsp;(B) other property (not including a building or its structural components) but only if such other property is tangible and has anadjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
 
 &emsp;&emsp;&emsp;(i) was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
 
@@ -100,9 +100,9 @@
 
 &emsp;&emsp;(B) the fair market value of property acquired which is not section 1245 property and which is not taken into account under subparagraph (A).
 
-#### (5) Section 1071 and 1081 transactions
+#### (5) Section 1081 transactions
 
-&emsp;Under regulations prescribed by the Secretary, rules consistent with paragraphs (3) and (4) of this subsection shall apply in the case of transactions described in section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or section 1081 (relating to exchanges in obedience to SEC orders).
+&emsp;Under regulations prescribed by the Secretary, rules consistent with paragraphs (3) and (4) of this subsection shall apply in the case of transactions described in section 1081 (relating to exchanges in obedience to SEC orders).
 
 #### (6) Property distributed by a partnership to a partner
 
@@ -140,7 +140,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539.)
+(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93.)
 
 #### References in Text
 
@@ -149,6 +149,8 @@ Section 185 of this title, referred to in subsec. (a)(3)(C), was repealed by Pub
 The Revenue Reconciliation Act of 1990, referred to in subsec. (a)(3)(C), is title XI of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–400. Section 11801(a)(13) of the Act repealed section 188 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+1995—Subsec. (b)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
 
 1993—Subsec. (a)(2)(C). Pub. L. 103–66, §13261(f)(4), substituted “or 193” for “193, or 1253(d)(2) or (3)”.
 
@@ -243,6 +245,10 @@ Subsec. (a)(3)(D). Pub. L. 92–178, §303(c)(2), inserted reference to section 
 Subsec. (a)(3). Pub. L. 91–172, §§212(a)(2), 704(b)(4)(C)–(F), struck out “(other than livestock)” after “means any property” and substituted “section 167 (or subject to the allowance of amortization provided in section 185)” for “section 167” and added subpar. (D).
 
 1964—Subsec. (a)(2), (3)(C). Pub. L. 88–272 redefined “recomputed basis” with respect to elevators or escalators in par. (2), and inserted subpar. (C) in par. (3).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–7 applicable to sales and exchanges on or after January 17, 1995, and to sales and exchanges before such date if FCC tax certificate with respect to such sale or exchange was issued on or after such date, but not applicable with respect to certain binding contracts, see section 2(d) of Pub. L. 104–7, set out as an Effective Date of Repeal note under section 1071 of this title.
 
 #### Effective Date of 1993 Amendment
 

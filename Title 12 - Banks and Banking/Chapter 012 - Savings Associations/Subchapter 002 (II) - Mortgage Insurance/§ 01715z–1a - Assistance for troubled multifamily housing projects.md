@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purposes of this section are to provide assistance to restore or maintain the financialsoundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
+The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
 
 #### (b) Availability of financial assistance
 
@@ -136,7 +136,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 &emsp;(ii) such interest rate plus such allowance shall not exceed 6 percent per annum nor be less than 3 percent per annum.
 
-(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
+(C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shallnot be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
 (D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
@@ -196,7 +196,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (<i>o</i>) Coordination of assistance
 
-The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
+The Secretary shall coordinate the allocation of assistance under this section with assistancemade available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
 
 (Pub. L. 95–557, title II, §201, Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title II, §§205(a), 211(c), Dec. 21, 1979, 93 Stat. 1108, 1110; Pub. L. 96–399, title II, §204(a), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §§321(f)(1), (2), 329C, Aug. 13, 1981, 95 Stat. 399, 400, 409; Pub. L. 98–181, title II, §217(a), (b), Nov. 30, 1983, 97 Stat. 1186; Pub. L. 98–479, title II, §204(n)(1), (2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–242, title I, §§185, 186(b), Feb. 5, 1988, 101 Stat. 1873, 1877; Pub. L. 100–628, title X, §1011(a), Nov. 7, 1988, 102 Stat. 3268; Pub. L. 101–235, title I, §109(c), title II, §203(a)(2), Dec. 15, 1989, 103 Stat. 2011, 2037; Pub. L. 101–625, title V, §578(b), (c), Nov. 28, 1990, 104 Stat. 4244, 4245; Pub. L. 102–550, title IV, §§405, 406, 408(a), Oct. 28, 1992, 106 Stat. 3776, 3778; Pub. L. 103–233, title I, §103(b), Apr. 11, 1994, 108 Stat. 359.)
 
@@ -252,7 +252,7 @@ Subsec. (n). Pub. L. 103–233, §103(b)(3), amended subsec. (n) generally. Prio
 
 &emsp;“(C) The extent of physical improvements needed by the project as evidenced by the comprehensive needs assessment submitted in accordance with title IV of the Housing and Community Development Act of 1992.
 
-&emsp;“(D) The extent to which there is evidence that there will be significant opportunities for residents (including a resident council or resident management corporation, as appropriate) to be involved in management of the project (except that this paragraph shall have no application to projects that are owned as cooperatives).
+&emsp;“(D) The extent to which there is evidence that there will be significant opportunities for residents (including a resident council or resident managementcorporation, as appropriate) to be involved in management of the project (except that this paragraph shall have no application to projects that are owned as cooperatives).
 
 &emsp;“(E) The extent to which there is evidence that the project owner has provided competent management and complied with all regulatory and administrative instructions (including such instructions with respect to the comprehensive servicing of multifamily projects as the Secretary may issue).
 
@@ -314,7 +314,7 @@ Subsec. (a). Pub. L. 100–242, §185(a), inserted “to permit capital improvem
 
 Pub. L. 100–242, §186(b)(1), inserted reference to Housing Act of 1959.
 
-Subsec. (c)(1)(A). Pub. L. 100–242, §186(b)(2), inserted before semicolon at end “, or received a loan under section 202 of the Housing Act of 1959 more than 15 yearsbefore the date on which assistance is made available under this section”.
+Subsec. (c)(1)(A). Pub. L. 100–242, §186(b)(2), inserted before semicolon at end “, or received a loan under section 202 of the Housing Act of 1959 more than 15 years before the date on which assistance is made available under this section”.
 
 Subsec. (c)(1)(B). Pub. L. 100–242, §185(b), inserted “section 23 of the United States Housing Act of 1937, as in effect immediately before January 1, 1975,” after “is assisted under”.
 
@@ -540,7 +540,7 @@ Review.—The Secretary shall annually conduct a comprehensive review of—
 
 &emsp;“(2)
 
-Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described in section 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
+Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described insection 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
 
 #### Funding of Multifamily Housing Projects; Operating, Capital Improvement and Loan Management Assistance; Amounts
 

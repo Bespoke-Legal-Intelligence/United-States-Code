@@ -17,5 +17,5 @@ This subpart is referred to in section 2302 of this title.
 - [&sect; 02396e - Professional staff](%C2%A7%2002396e%20-%20Professional%20staff.md)
 - [&sect; 02396f - Eligibility](%C2%A7%2002396f%20-%20Eligibility.md)
 - [&sect; 02396g - Application](%C2%A7%2002396g%20-%20Application.md)
-- [&sect; 02396h - Evaluation and report](%C2%A7%2002396h%20-%20Evaluation%20and%20report.md)
+- [&sect; 02396h - Evaluation](%C2%A7%2002396h%20-%20Evaluation.md)
 - [&sect; 02396i - Definitions](%C2%A7%2002396i%20-%20Definitions.md)

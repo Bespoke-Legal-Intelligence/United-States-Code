@@ -6,7 +6,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(1) to adopt, use, and alter a corporate seal;
 
-&emsp;(2) to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contract<sup>1</sup> without regard to section 3324 of title 31;
+&emsp;(2) to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contract <sup>1</sup> without regard to section 3324 of title 31;
 
 &emsp;(3) any other provision of law to the contrary notwithstanding, to enter into joint development ventures with public or private commercial or noncommercial entities for development of facilities to meet the plan required under section 4426 of this title, if the ventures are related to and further the mission of the Institute;
 
@@ -28,7 +28,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(12) to the extent not already provided by law, to obtain insurance to cover all activities of the Institute, including coverage relating to property and liability, or make other provisions against losses;
 
-&emsp;(13) to use any funds or property received by the Institute to carry out the purpose of this chapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federally appropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
+&emsp;(13) to use any funds or property received by the Institute to carry out the purpose of thischapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federally appropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
 
 &emsp;(14) to exercise all other lawful powers necessarily or reasonably related to the establishment of the Institute in order to carry out the provisions of this chapter and the exercise of the powers, purposes, functions, duties, and authorized activities of the Institute.
 
@@ -38,49 +38,49 @@ Any funds received by, or under the control of, the Institute that are not Feder
 
 #### (c) Interest and investments
 
-Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12)<sup>2</sup> of this section shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12)<sup>2</sup> of this section.
+Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) <sup>2</sup> of this section shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12) <sup>2</sup> of this section.
 
-(Pub. L. 99 498, title XV, §1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100 297, title V, §5406(e), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101 644, title V, §501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102 325, title XIII, §1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103 208, §2(<i>l</i>), Dec. 20, 1993, 107 Stat. 2486.)
+(Pub. L. 99–498, title XV, §1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100–297, title V, §5406(e), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, §1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103–208, §2(<i>l</i>), Dec. 20, 1993, 107 Stat. 2486.)
 
 #### References in Text
 
-Subsection (a)(12) of this section, referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102 325, title XIII, §1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
+Subsection (a)(12) of this section, referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102–325, title XIII, §1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
 
 #### Amendments
 
-1993—Subsec. (a)(12). Pub. L. 103 208 substituted semicolon for period at end.
+1993—Subsec. (a)(12). Pub. L. 103–208 substituted semicolon for period at end.
 
-1992—Subsec. (a)(2). Pub. L. 102 325, §1331(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contracts without regard to section 3324 of title 31;”.
+1992—Subsec. (a)(2). Pub. L. 102–325, §1331(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contracts without regard to section 3324 of title 31;”.
 
-Subsec. (a)(3) to (12). Pub. L. 102 325, §1331(b)(1)(A), (B), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively. Former par. (12) redesignated (13).
+Subsec. (a)(3) to (12). Pub. L. 102–325, §1331(b)(1)(A), (B), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively. Former par. (12) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 102 325, §1331(b)(1)(C), added par. (13) and struck out former par. (13) which read as follows: “to use any funds or property received by the Institute to carry out the purpose of this chapter; and”.
+Subsec. (a)(13). Pub. L. 102–325, §1331(b)(1)(C), added par. (13) and struck out former par. (13) which read as follows: “to use any funds or property received by the Institute to carry out the purpose of this chapter; and”.
 
-Pub. L. 102 325, §1331(b)(1)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+Pub. L. 102–325, §1331(b)(1)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-Subsec. (14). Pub. L. 102 325, §1331(b)(1)(A), redesignated par. (13) as (14).
+Subsec. (14). Pub. L. 102–325, §1331(b)(1)(A), redesignated par. (13) as (14).
 
-Subsec. (c). Pub. L. 102 325, §1331(b)(2), substituted “shall be expended” for “may be expended”.
+Subsec. (c). Pub. L. 102–325, §1331(b)(2), substituted “shall be expended” for “may be expended”.
 
-1990—Subsec. (a)(11). Pub. L. 101 644, §501(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “to obtain insurance or make other provisions against losses;”.
+1990—Subsec. (a)(11). Pub. L. 101–644, §501(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “to obtain insurance or make other provisions against losses;”.
 
-Subsec. (c). Pub. L. 101 644, §501(a), added subsec. (c).
+Subsec. (c). Pub. L. 101–644, §501(a), added subsec. (c).
 
-1988—Pub. L. 100 297 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+1988—Pub. L. 100–297 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100 297, see section 6303 of Pub. L. 100 297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “contracts”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “contracts”.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

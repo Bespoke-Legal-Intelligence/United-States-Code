@@ -14,5 +14,5 @@ Section 5 of act June 22, 1948, as it read prior to amendment by act June 22, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 577d–1, 577h, 1133 of this title; title 31 section 6903.
+This section is referred to in sections 577d–1, 577h, 1133 of this title; title 31 section 6903.
 

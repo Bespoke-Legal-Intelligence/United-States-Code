@@ -2,7 +2,7 @@
 
 #### (a) Waiver of State plan requirements; costs regarded as State plan expenditures; availability of appropriations
 
-In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting the objectives of subchapter I, X, XIV, XVI, or XIX of this chapter, or part A or D of subchapter IV of this chapter, in a State or States—
+In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting the objectives of subchapter I, X, XIV, XVI, or XIXof this chapter, or part A or D of subchapter IV of this chapter, in a State or States—
 
 &emsp;(1) the Secretary may waive compliance with any of the requirements of section 302, 602, 654, 1202, 1352, 1382, or 1396a of this title, as the case may be, to the extent and for the period he finds necessary to enable such State or States to carry out such project, and
 
@@ -42,7 +42,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 &emsp;(ii) 60 days after the date on which such application is submitted to the Secretary unless, during such 60 day period, he denies the application.
 
-(B) Notwithstanding the provisions of paragraph (2)(A), the Secretary may review any waiver made by a State under such paragraph. Upon a finding that any such waiver is inconsistent with the purposes of this subsection and the purposes of part A of subchapter IV of this chapter, the Secretary may disapprove such waiver. The project with respect to which any such disapproved waiver was made shall be terminated by such State not later than the last day of the month following the month in which such waiver was disapproved.
+(B) Notwithstanding the provisions of paragraph (2)(A), the Secretary may review any waiver made by a State under such paragraph. Upon a finding that any such waiver is inconsistent with the purposes of this subsection andthe purposes of part A of subchapter IV of this chapter, the Secretary may disapprove such waiver. The project with respect to which any such disapproved waiver was made shall be terminated by such State not later than the last day of the month following the month in which such waiver was disapproved.
 
 (4) Any amount payable to a State under section 603(a) of this title on behalf of an individual participating in a project under this section shall not be increased by reason of the participation of such individual in any demonstration project conducted under this subsection over the amount which would be payable if such individual were receiving aid to families with dependent children and not participating in such project.
 
@@ -82,7 +82,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 Parts A and D of subchapter IV of this chapter, referred to in text, are classified to sections 601 et seq. and 651 et seq., respectively, of this title.
 
-Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
+Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974.The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Pub. L. 98–369, §2663(e)(5), struck out “803,” after “603,”.
 
 Subsec. (c). Pub. L. 98–378, §10(b), added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–35 substituted in provision preceding par. (1) “or XIX of this chapter” for “XIX, or XX of this chapter”, in par. (1) “or 1396a of this title” for “1396a, 1397a, 1397b, or 1397c of this title”, and in par. (2) “or 1396b of this title” for “1396b, or1397a of this title” and in par. (2) struck out “or expenditures with respect to which payment shall be made under section 1397a of this title,” before “as may be appropriate”.
+1981—Subsec. (a). Pub. L. 97–35 substituted in provision preceding par. (1) “or XIX of this chapter” for “XIX, or XX of this chapter”, in par. (1) “or 1396a of this title” for “1396a, 1397a, 1397b, or 1397c of this title”, and in par. (2) “or 1396b of this title” for “1396b, or 1397a of this title” and in par. (2) struck out “or expenditures with respect to which payment shall be made under section 1397a of this title,” before “as may be appropriate”.
 
 1977—Pub. L. 95–216 designated existing provisions as subsec. (a) and existing pars. (a) and (b) thereof as pars. (1) and (2), respectively, and added subsec. (b).
 
@@ -164,7 +164,7 @@ Demonstration Projects To Test the Effect of Early Childhood Development Program
 
 “(b)
 
-State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[section 602 of this title\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
+State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[section 602 of this title\], any State may establish and conduct one or more demonstration projects, targeted to such children, designedto test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
 
 “(c)
 
@@ -332,7 +332,7 @@ Duration.—A demonstration project conducted under this section shall be commen
 
 “(h)
 
-Authorization of Appropriations.—For the purpose of funding in equal amounts each State demonstration project conducted under this section, there is authorized to be appropriated not to exceed $1,500,000 for each of the fiscal years 1990, 1991, and 1992.”
+Authorization of Appropriations.—For the purpose of funding in equal amounts each State demonstration project conducted under this section, thereis authorized to be appropriated not to exceed $1,500,000 for each of the fiscal years 1990, 1991, and 1992.”
 
 #### Continuation of Federal Financial Participation in Experimental, Pilot, or Demonstration Projects Approved Before October 1, 1973, for Period On-And-After December 31, 1973, Without Denial or Reduction on Account of Subchapter XVI Provisions for Supplemental Security Income for the Aged, Blind and Disabled; Waiver of Subchapter XVI Restrictions for Individuals; Federal Payments of Non-Federal Share as Supplementary Payments
 
@@ -342,7 +342,7 @@ Section 11 of Pub. L. 93–233 provided that:
 
 &emsp;“(1) which (prior to October 1, 1973) has been approved by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’), for a period which ends on or after December 31, 1973, as being a project with respect to which the authority conferred upon him by subsection (a) or (b) of such section 1115 \[subsec. (a) or (b) of this section\] will be exercised, and
 
-&emsp;“(2) with respect to the costs of which Federal financial participation would (except for the provisionsof this section) be denied or reduced on account of the enactment of section 301 of the Social Security Amendments of 1972 \[enacting subchapter XVI of this chapter\],
+&emsp;“(2) with respect to the costs of which Federal financial participation would (except for the provisions of this section) be denied or reduced on account of the enactment of section 301 of the Social Security Amendments of 1972 \[enacting subchapter XVI of this chapter\],
 
 > then, for any period (after December 31, 1973) with respect to which such project is approved by the Secretary, Federal financial participation in the costs of such project shall be continued in like manner as if—
 

@@ -66,7 +66,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;&emsp;&emsp;(I) section 1028, 1029, or 1030 or <sup>4</sup> title 18;
 
-&emsp;&emsp;&emsp;&emsp;(II) any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
+&emsp;&emsp;&emsp;&emsp;(II) any law of the United States relating to coins, obligations, or securities ofthe United States or of a foreign government; or
 
 &emsp;&emsp;&emsp;&emsp;(III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
 
@@ -202,9 +202,9 @@ Appropriations.—
 
 &emsp;&emsp;(B) $50,000,000 for each fiscal year after fiscal year 1993.
 
-&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transferfrom the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
+&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
 
-&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
+&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only tothe extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
 &emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 1993, and at the end of each fiscal year thereafter, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year.
 
@@ -260,11 +260,11 @@ Limitation of Liability.—The United States shall not be liable in any action r
 
 (<i>l</i>)
 
-Authority To Warrant Title.—Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary'sdiscretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
+Authority To Warrant Title.—Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary's discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
 
 (m)
 
-Forfeited Property.—For purposes of this section and notwithstanding section 524(c)(11) of title 28 or any other law—
+Forfeited Property.—For purposes of this section and notwithstanding section 524(c)(11) <sup>9</sup> of title 28 or any other law—
 
 &emsp;(1) during fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by the United States Customs Service if it is forfeited pursuant to—
 
@@ -338,6 +338,8 @@ Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)
 
 The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
+Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, §1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
+
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–329 redesignated subpars. (G) and (J) of par. (2) as (I) and (J) of par. (1), respectively, and subpars. (H) and (I) of par. (2) as (G) and (H) of par. (2), respectively.
@@ -371,4 +373,6 @@ This section is referred to in title 21 section 1509; title 28 section 524; titl
 <i><sup>7</sup></i><i> See References in Text note below.</i>
 
 <i><sup>8</sup></i><i> So in original. Probably should be “or”.</i>
+
+<i><sup>9</sup></i><i> See References in Text note below.</i>
 

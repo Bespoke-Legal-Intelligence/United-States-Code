@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | \[8721, 8722. Repealed.\] |  |
-| 8723\. | When Secretary may require. |
+| [8723\.](%C2%A7%2008723%20-%20When%20Secretary%20may%20require.md) | When Secretary may require. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

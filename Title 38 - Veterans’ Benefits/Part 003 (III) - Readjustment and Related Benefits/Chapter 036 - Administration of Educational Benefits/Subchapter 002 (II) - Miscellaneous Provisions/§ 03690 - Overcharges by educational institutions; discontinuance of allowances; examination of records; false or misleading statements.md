@@ -4,11 +4,11 @@
 
 (a) If the Secretary finds that an educational institution has—
 
-&emsp;(1) charged or received from any eligible veteran or eligible person pursuing a program ofeducation under this chapter or chapter 34 or 35 of this title any amount for any course in excess of the charges for tuition and fees which such institution requires similarly circumstanced nonveterans not receiving assistance under such chapters who are enrolled in the same course to pay, or
+&emsp;(1) charged or received from any eligible veteran or eligible person pursuing a program of education under this chapter or chapter 34 or 35 of this title any amount for any course in excess of the charges for tuition and fees which such institution requires similarly circumstanced nonveterans not receiving assistance under such chapters who are enrolled in the same course to pay, or
 
 &emsp;(2) instituted, after October 24, 1972, a policy or practice with respect to the payment of tuition, fees, or other charges in the case of eligible veterans and the Secretary finds that the effect of such policy or practice substantially denies to veterans the benefits of the advance allowances under such section,
 
-> the Secretary may disapprove such educational institution for the enrollment of any eligible veteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
+> the Secretary may disapprove such educational institution for the enrollment of any eligibleveteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
 
 ### Discontinuance of Allowances
 
@@ -38,7 +38,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1684; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, §4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(<i>o</i>), Mar. 3, 1966, 80 Stat. 25; provisionssimilar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
+Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1684; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, §4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(<i>o</i>), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
 
 #### Amendments
 

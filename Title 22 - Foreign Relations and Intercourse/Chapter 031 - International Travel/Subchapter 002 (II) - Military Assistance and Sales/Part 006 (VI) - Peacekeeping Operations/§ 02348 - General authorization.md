@@ -10,7 +10,7 @@ The President is authorized to furnish assistance to friendly countries and inte
 
 #### Delegation of Functions
 
-Functions of President under this part delegated to Secretary of State by section 1–201(a)(8) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+Functions of President under this part delegated to Secretary of State by section 1–201(a)(8) of Ex. Ord. No.12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
 
 #### United States Proposal for the Early Warning System in Sinai
 

@@ -12,7 +12,7 @@
 
 (2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant, or entering into an enlistment, in any uniformed service.
 
-(3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
+(3) Payment may not be made to a member for any leave he elects to have carried over to a newenlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
 (4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
 
@@ -104,7 +104,7 @@ Aug. 9, 1946, ch. 931, §3(b) (proviso); added Sept. 23, 1950, ch. 998, §1 (pro
 
 July 1, 1944, ch. 373, §219(c) (last sentence), (d) (as applicable to (c) (last sentence)); added Aug. 9, 1950, ch. 654, §2 (last sentence of 3d par., and 4th par., as applicable to last sentence of 3d par.), 64 Stat. 426.
 
-In subsection (a), the word “officer” is substituted for the words “commissioned officer or warrant officer”, in section 32(b) of existing title 37. The words “personsmay be treated as parents for the purposes of this clause” are substituted for the words “parents may receive the benefits provided under said sections” in section 32(e) of existing title 37.
+In subsection (a), the word “officer” is substituted for the words “commissioned officer or warrant officer”, in section 32(b) of existing title 37. The words “persons may be treated as parents for the purposes of this clause” are substituted for the words “parents may receive the benefits provided under said sections” in section 32(e) of existing title 37.
 
 In subsections (b)–(d) and (f), the word “payment” is substituted for the word “settlement”.
 
@@ -168,7 +168,7 @@ Subsec. (d). Pub. L. 89–718, §65, substituted “60” for “sixty”.
 
 1965—Subsec. (a)(1). Pub. L. 89–151, §1, added subpar. (C).
 
-Subsec. (d). Pub. L. 89–151, §2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title 10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
+Subsec. (d). Pub. L. 89–151, §2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
 
 #### Effective Date of 1984 Amendment
 

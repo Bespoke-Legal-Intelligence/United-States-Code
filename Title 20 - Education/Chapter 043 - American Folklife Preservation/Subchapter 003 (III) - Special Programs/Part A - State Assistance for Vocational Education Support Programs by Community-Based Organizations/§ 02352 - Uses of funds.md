@@ -24,15 +24,15 @@ Funds provided under this section may be used in accordance with State plans for
 
 &emsp;(8) guidance and counseling to assist students with occupational choices and with the selection of a vocational education program.
 
-(Pub. L. 88 210, title III, §302, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101 392, title III, §301, Sept. 25, 1990, 104 Stat. 786.)
+(Pub. L. 88–210, title III, §302, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101–392, title III, §301, Sept. 25, 1990, 104 Stat. 786.)
 
 #### Amendments
 
-1990—Subsec. (b)(6) to (8). Pub. L. 101 392 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+1990—Subsec. (b)(6) to (8). Pub. L. 101–392 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -44,6 +44,8 @@ Act Dec. 5, 1924, ch. 4, §4, 43 Stat. 701, as amended, which enacted this secti
 
 #### Western Water Policy Review
 
+Pub. L. 104–46, title V, §502, Nov. 13, 1995, 109 Stat. 419, provided that: “Notwithstanding the provisions of any other law, the report referred to in title 30 \[XXX\] of Public Law 102–575 \[set out below\] shall be submitted within five years from the date of enactment of that Act \[Oct. 30, 1992\].”
+
 Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594, provided that:
 
 #### “SEC. 3001. SHORT TITLE.
@@ -178,9 +180,9 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 “There are hereby authorized to be appropriated not to exceed $10,000,000 to carry out the purposes of sections 3001 through 3009 of this title.”
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
-\[Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.\]
+\[Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.\]
 
 #### Act Referred to in Other Sections
 

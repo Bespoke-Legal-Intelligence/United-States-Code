@@ -1,4 +1,4 @@
-### §4683 . Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations
+### §4683. Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations
 
 (a) The Secretary of the Army, under regulations to be prescribed by him, may—
 

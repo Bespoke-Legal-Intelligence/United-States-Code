@@ -6,7 +6,7 @@ The Secretary of State shall establish a health care program to promote and main
 
 #### (b) Services provided
 
-Any such health care program may include (1) medical examinations for applicants for employment, (2) medical examinations and inoculations or vaccinations, and other preventive and remedial care and services as necessary, for members of the Service and employees of the Department who are citizens of the United States and for members of their families, and (3) examinations necessary in order to establish disability or incapacity of participants in the Foreign Service Retirement and Disability System or Foreign Service Pension System or to provide survivor benefits under subchapter VIII of this chapter.
+Any such health care program may include (1) medical examinations for applicants for employment, (2) medical examinations and inoculationsor vaccinations, and other preventive and remedial care and services as necessary, for members of the Service and employees of the Department who are citizens of the United States and for members of their families, and (3) examinations necessary in order to establish disability or incapacity of participants in the Foreign Service Retirement and Disability System or Foreign Service Pension System or to provide survivor benefits under subchapter VIII of this chapter.
 
 #### (c) Facilities; employment of personnel
 

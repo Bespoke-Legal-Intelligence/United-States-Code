@@ -170,7 +170,7 @@ Furnishing or inspection of transcript by witness.—Upon payment of reasonable 
 
 &emsp;(7)
 
-Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
+Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such personrefuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
 
 &emsp;(B) If such person refuses to answer any question on the grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of part V of title 18.
 
@@ -184,7 +184,7 @@ Custodians of Documents, Answers, and Transcripts.—
 
 &emsp;(1)
 
-Designation.—The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additional false claims law investigators as the Attorney General determines from time to time to benecessary to serve as deputies to the custodian.
+Designation.—The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additional false claims law investigators as the Attorney General determines from time to time to be necessary to serve as deputies to the custodian.
 
 &emsp;(2)
 

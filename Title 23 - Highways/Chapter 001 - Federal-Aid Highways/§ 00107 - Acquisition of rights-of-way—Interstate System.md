@@ -22,7 +22,7 @@ Act of February 26, 1931, 46 Stat. 1421, referred to in subsec. (a), is act Feb.
 
 Subsection (c) of section 120 of this title, referred to in subsec. (a)(2), was struck out and a new subsec. (c) was added by Pub. L. 102–240, title I, §1021(a), Dec. 18, 1991, 105 Stat. 1950.
 
-The Federal-Aid Highway Act of 1956, referred to in subsec. (b), is act June 29, 1956, ch. 462, 70 Stat. 374. Forcomplete classification of this Act to the Code, see Tables. Section 108(b) of the Federal-Aid Highway Act of 1956 is set out as a note under section 101 of this title.
+The Federal-Aid Highway Act of 1956, referred to in subsec. (b), is act June 29, 1956, ch. 462, 70 Stat. 374. For complete classification of this Act to the Code, see Tables. Section 108(b) of the Federal-Aid Highway Act of 1956 is set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

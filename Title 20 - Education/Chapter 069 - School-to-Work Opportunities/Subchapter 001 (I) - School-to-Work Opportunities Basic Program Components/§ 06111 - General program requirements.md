@@ -12,9 +12,9 @@ A School-to-Work Opportunities program under this chapter shall—
 
 &emsp;(5) provide all students with equal access to the full range of such program components (including both school-based and work-based learning components) and related activities, such as recruitment, enrollment, and placement activities, except that nothing in this chapter shall be construed to provide any individual with an entitlement to services under this chapter.
 
-(Pub. L. 103 239, title I, §101, May 4, 1994, 108 Stat. 576.)
+(Pub. L. 103–239, title I, §101, May 4, 1994, 108 Stat. 576.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103 239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

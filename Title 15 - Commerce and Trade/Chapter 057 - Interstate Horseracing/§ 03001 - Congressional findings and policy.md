@@ -6,15 +6,15 @@
 
 &emsp;(2) the Federal Government should prevent interference by one State with the gambling policies of another, and should act to protect identifiable national interests; and
 
-&emsp;(3) in the limited area of interstate off-track wagering on horseraces, there is a need for Federal action to ensure States will continue to cooperate with one another in the acceptance of legal interstate wagers.
+&emsp;(3) in the limited area of interstate off-track wagering on horseraces, there is a need for Federal action to ensure States will continueto cooperate with one another in the acceptance of legal interstate wagers.
 
 (b) It is the policy of the Congress in this chapter to regulate interstate commerce with respect to wagering on horseracing, in order to further the horseracing and legal off-track betting industries in the United States.
 
-(Pub. L. 95 515, §2, Oct. 25, 1978, 92 Stat. 1811.)
+(Pub. L. 95–515, §2, Oct. 25, 1978, 92 Stat. 1811.)
 
 #### Effective Date
 
-Section 9 of Pub. L. 95 515 provided that:
+Section 9 of Pub. L. 95–515 provided that:
 
 “(a) The provisions of this Act \[this chapter\] shall take effect on the date of enactment of this Act \[Oct. 25, 1978\], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
 
@@ -26,5 +26,5 @@ Section 9 of Pub. L. 95 515 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 95 515 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Interstate Horseracing Act of 1978’.”
+Section 1 of Pub. L. 95–515 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Interstate Horseracing Act of 1978’.”
 

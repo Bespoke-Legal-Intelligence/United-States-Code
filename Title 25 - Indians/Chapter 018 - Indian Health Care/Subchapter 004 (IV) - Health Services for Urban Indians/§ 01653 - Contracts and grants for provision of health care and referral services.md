@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indianorganizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
+Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
 
 &emsp;(1) estimate the population of urban Indians residing in the urban center in which such organization is situated who are or could be recipients of health care or referral services;
 
@@ -76,7 +76,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 (1) The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
 
-(2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, thebarriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
+(2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, the barriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
 
 (3) Grants may be made under this subsection—
 
@@ -128,7 +128,7 @@ Subsec. (a). Pub. L. 102–573, §501(b)(1)(A), inserted “, or make grants to
 
 Subsec. (b). Pub. L. 102–573, §501(b)(1)(B), inserted “or receive grants” after “enter into contracts” in introductory provisions and “or to meet the requirements for receiving a grant” after “Secretary” in par. (5).
 
-Subsec. (c). Pub. L. 102–573, §505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
+Subsec. (c). Pub. L. 102–573, §505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” andstruck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
 Subsec. (c)(1). Pub. L. 102–573, §501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a) of this section”.
 

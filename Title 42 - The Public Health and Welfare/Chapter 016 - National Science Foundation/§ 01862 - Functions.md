@@ -20,7 +20,7 @@ The Foundation is authorized and directed—
 
 #### (b) Contracts, grants, loans, etc., for scientific and engineering activities; financing of programs
 
-The Foundation is authorized to initiate and support specific scientific and engineering activities in connection with matters relating to international cooperation, national security, and the effects of scientific and engineering applications upon society by making contracts or other arrangements (including grants, loans, and other forms of assistance) for the conduct of such activities. When initiated or supported pursuant to requests made by any other Federal department or agency, including the Office of Technology Assessment, such activities shall be financed whenever feasible from funds transferred to the Foundation by the requesting official as provided in section 1873(f) of this title, and any such activities shall be unclassified and shall be identified by the Foundation as being undertaken at the request of the appropriate official.
+The Foundation is authorized to initiate and support specific scientific and engineering activities in connection with matters relating to international cooperation, national security, and the effects of scientific and engineering applications upon society by making contracts or other arrangements (including grants, loans, and other forms of assistance) for the conduct of such activities. When initiated or supported pursuant to requests made by any other Federal department or agency, including the Office of Technology Assessment, such activities shall be financed whenever feasible from funds transferred to the Foundation by the requesting official as provided in section 1873(f) of this title, and any such activities shall be unclassified and shall be identified by the Foundation as beingundertaken at the request of the appropriate official.
 
 #### (c) Scientific and engineering research programs at academic and other nonprofit institutions; applied scientific and engineering research programs by Presidential directive; employment of consulting services; coordination of activities
 
@@ -36,7 +36,7 @@ In exercising the authority and discharging the functions referred to in the for
 
 #### (f) Annual report to the President and Congress
 
-The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it maydeem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
+The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
 
 #### (g) Support of access to computer networks
 
@@ -148,7 +148,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(5) new and existing programs using radio or television to increase public understanding of public policy issues with significant scientific and technical components; and
 
-&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating to the scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
+&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating tothe scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
 
 #### Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”
 
@@ -248,11 +248,11 @@ Sec. 10. The National Science Foundation shall provide leadership in the effecti
 
 #### Executive Order No. 10807
 
-Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out as a note above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, set out as a note below, which abolished the Federal Council for Science and Technology.
+Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, set out below, which abolished the Federal Council for Science and Technology.
 
 #### Abolition of Federal Council for Science and Technology
 
-Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
+Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science andTechnology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;&emsp;&emsp;(iv) section 34 of title 40, and
 
-&emsp;&emsp;&emsp;(v) section 254(a) and (c) of title 41, and
+&emsp;&emsp;&emsp;(v) section 254(a) and (c) <sup>1</sup> of title 41, and
 
 &emsp;&emsp;(B) to establish or to acquire proprietary corporations or business entities as part of the undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31;
 
@@ -75,4 +75,10 @@ For purposes of subsection (d) of this section—
 > &emsp;except that subparagraphs (A) and (B) shall not apply with respect to the report required under paragraph (2) of subsection (d) of this section.
 
 (Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90.)
+
+#### References in Text
+
+Section 254(c) of title 41, referred to in subsec. (a)(1)(A)(v), was repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320. See section 254d of Title 41, Public Contracts.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

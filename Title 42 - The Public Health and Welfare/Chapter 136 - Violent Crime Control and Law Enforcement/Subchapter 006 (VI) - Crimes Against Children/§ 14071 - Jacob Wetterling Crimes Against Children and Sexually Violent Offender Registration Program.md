@@ -40,13 +40,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) chooses to include such an offense in those which are criminal offenses against a victim who is a minor for the purposes of this section.
 
-> &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminal offense if the perpetrator is 18 years of age or younger.
+> &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminaloffense if the perpetrator is 18 years of age or younger.
 
 &emsp;&emsp;(B) The term “sexually violent offense” means any criminal offense that consists of aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242 of title 18 or as described in the State criminal code) or an offense that has as its elements engaging in physical contact with another person with intent to commit aggravated sexual abuse or sexual abuse (as described in such sections of title 18 or as described in the State criminal code).
 
 &emsp;&emsp;(C) The term “sexually violent predator” means a person who has been convicted of a sexually violent offense and who suffers from a mental abnormality or personality disorder that makes the person likely to engage in predatory sexually violent offenses.
 
-&emsp;&emsp;(D) The term “mental abnormality” means a congenital or acquired condition ofa person that affects the emotional or volitional capacity of the person in a manner that predisposes that person to the commission of criminal sexual acts to a degree that makes the person a menace to the health and safety of other persons.
+&emsp;&emsp;(D) The term “mental abnormality” means a congenital or acquired condition of a person that affects the emotional or volitional capacity of the person in a manner that predisposes that person to the commission of criminal sexual acts to a degree that makes the person a menace to the health and safety of other persons.
 
 &emsp;&emsp;(E) The term “predatory” means an act directed at a stranger, or a person with whom a relationship has been established or promoted for the primary purpose of victimization.
 

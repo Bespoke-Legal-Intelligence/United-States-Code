@@ -68,7 +68,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 &emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
-(July 1, 1944, ch. 373, title XXII, §2202, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 233; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), 100 Stat. 2937–2939; Dec. 19, 1989, Pub. L. 101–239, titleVI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), 103 Stat. 2295, 2297.)
+(July 1, 1944, ch. 373, title XXII, §2202, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 233; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), 100 Stat. 2937–2939; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), 103 Stat. 2295, 2297.)
 
 #### References in Text
 

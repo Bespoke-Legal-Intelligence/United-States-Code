@@ -64,7 +64,7 @@ Section 1007(c)(2) of Pub. L. 100–690 provided that: “The White House Office
 
 #### Executive Order No. 12696
 
-Ex. Ord. No. 12696, Nov. 13, 1989, 54 F.R. 47507, as amended by Ex. Ord. No. 12756, Mar. 18, 1991, 56 F.R.11903, which established the President's Drug Advisory Council, was revoked by Ex. Ord. No. 12869, §4(d), Sept. 30, 1993, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12696, Nov. 13, 1989, 54 F.R. 47507, as amended by Ex. Ord. No. 12756, Mar. 18, 1991, 56 F.R. 11903, which established the President's Drug Advisory Council, was revoked by Ex. Ord. No. 12869, §4(d), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12911. Seal for Office of National Drug Control Policy
 
@@ -81,6 +81,8 @@ This design is appropriate for the Office of National Drug Control Policy. The d
 Sec. 2. The seal shall be of the design that is attached hereto and made a part of this order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[Image not captured: ]
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Secretary of Defense or the Secretary of a military department may not enter
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, which was set out as a note under section 2401 of this title, prior to repeal by Pub. L. 103–355, §3065(b).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, which was set out as a note under section 2401 of this title, prior to repeal by Pub. L. 103–355, §3065(b).
 
 A prior section 2401a was renumbered section 2350f of this title.
 

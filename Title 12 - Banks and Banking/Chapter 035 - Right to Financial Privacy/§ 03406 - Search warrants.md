@@ -26,5 +26,5 @@ The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c),
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 3409, 3421 of this title.
+This section is referred to in sections 3402, 3409 of this title.
 

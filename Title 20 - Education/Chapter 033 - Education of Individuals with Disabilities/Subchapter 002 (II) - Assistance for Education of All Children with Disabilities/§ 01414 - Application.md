@@ -66,7 +66,7 @@ A local educational agency or an intermediate educational unit which desires to 
 
 #### (c) Consolidated applications
 
-(1) A State educational agency may, for purposes of the consideration and approval of applications under this section, require local educational agencies to submit a consolidated application for payments if such State educational agency determines that any individual application submitted by any such local educational agency will be disapproved because such local educational agency is ineligible to receive payments because of the application of section 1411(c)(4)(A)(i) of this title or such local educational agency would be unable to establish and maintain programs of sufficient size andscope to effectively meet the educational needs of children with disabilities.
+(1) A State educational agency may, for purposes of the consideration and approval of applications under this section, require local educational agencies to submit a consolidated application for payments if such State educational agency determines that any individual application submitted by any such local educational agency will be disapproved because such local educational agency is ineligible to receive payments because of the application of section 1411(c)(4)(A)(i) of this title or such local educational agency would be unable to establish and maintain programs of sufficient size and scope to effectively meet the educational needs of children with disabilities.
 
 (2)(A) In any case in which a consolidated application of local educational agencies is approved by a State educational agency under paragraph (1), the payments which such local educational agencies may receive shall be equal to the sum of payments to which each such local educational agency would be entitled under section 1411(d) of this title if an individual application of any such local educational agency had been approved.
 
@@ -94,55 +94,55 @@ Whenever a State educational agency determines that a local educational agency i
 
 Notwithstanding the provisions of subsection (a)(2)(B)(ii) of this section, any local educational agency which is required to carry out any program for the education of children with disabilities pursuant to a State law shall be entitled to receive payments under section 1411(d) of this title for use in carrying out such program, except that such payments may not be used to reduce the level of expenditures for such program made by such local educational agency from State or local funds below the level of such expenditures for the fiscal year prior to the fiscal year for which such local educational agency seeks such payments.
 
-(Pub. L. 91 230, title VI, §614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94 142, §5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98 199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100 630, title I, §102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101 476, title IX, §901(b)(59) (70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102 119, §§6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607.)
+(Pub. L. 91–230, title VI, §614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101–476, title IX, §901(b)(59)–(70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102–119, §§6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Subsec. (a)(5). Pub. L. 102 119, §6, inserted “(or, if consistent with State policy and at the discretion of the local educational agency or intermediate educational unit, and with the concurrence of the parents or guardian, an individualized family service plan described in section 1477(d) of this title for each child with a disability aged 3 to 5, inclusive)” after “disability”.
+Subsec. (a)(5). Pub. L. 102–119, §6, inserted “(or, if consistent with State policy and at the discretion of the local educational agency or intermediate educational unit, and with the concurrence of the parents or guardian, an individualized family service plan described in section 1477(d) of this title for each child with a disability aged 3 to 5, inclusive)” after “disability”.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Subsec. (a)(1)(A). Pub. L. 101 476, §901(b)(59), (60), substituted “disabled” and “disability” for “handicapped” and “handicap”, respectively.
+Subsec. (a)(1)(A). Pub. L. 101–476, §901(b)(59), (60), substituted “disabled” and “disability” for “handicapped” and “handicap”, respectively.
 
-Subsec. (a)(1)(C). Pub. L. 101 476, §901(b)(61) (63), in introductory provisions substituted “children with disabilities” for “handicapped children” and in cl. (ii) substituted “children with disabilities” for “handicapped children” in three places and “disabilities” for “handicaps”.
+Subsec. (a)(1)(C). Pub. L. 101–476, §901(b)(61)–(63), in introductory provisions substituted “children with disabilities” for “handicapped children” and in cl. (ii) substituted “children with disabilities” for “handicapped children” in three places and “disabilities” for “handicaps”.
 
-Subsec. (a)(2)(B)(i), (ii), (3). Pub. L. 101 476, §901(b)(64), (65), substituted “children with disabilities” for “handicapped children”.
+Subsec. (a)(2)(B)(i), (ii), (3). Pub. L. 101–476, §901(b)(64), (65), substituted “children with disabilities” for “handicapped children”.
 
-Subsec. (a)(5). Pub. L. 101 476, §901(b)(66), substituted “child with a disability” for “handicapped child”.
+Subsec. (a)(5). Pub. L. 101–476, §901(b)(66), substituted “child with a disability” for “handicapped child”.
 
-Subsecs. (c)(1), (d) to (f). Pub. L. 101 476, §901(b)(67) (70), substituted “children with disabilities” for “handicapped children” wherever appearing.
+Subsecs. (c)(1), (d) to (f). Pub. L. 101–476, §901(b)(67)–(70), substituted “children with disabilities” for “handicapped children” wherever appearing.
 
-1988—Subsec. (a)(2). Pub. L. 100 630, §102(d)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide satisfactory assurance that (A) the control of funds provided under this subchapter, and title to property derived from such funds, shall be in a public agency for the uses and purposes provided in this subchapter, and that a public agency will administer such funds and property, (B) Federal funds expended by local educational agencies and intermediate educational units for programs under this subchapter (i)shall be used to pay only the excess costs directly attributable to the education of handicapped children, and (ii) shall be used to supplement and, to the extent practicable, increase the level of State and local funds expended for the education of handicapped children, and in no case to supplant such State and local funds, and (C) State and local funds will be used in the jurisdiction of the local educational agency or intermediate educational unit to provide services in program areas which, taken as a whole, are at least comparable to services being provided in areas of such jurisdiction which are not receiving funds under this subchapter;”.
+1988—Subsec. (a)(2). Pub. L. 100–630, §102(d)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide satisfactory assurance that (A) the control of funds provided under this subchapter, and title to property derived from such funds, shall be in a public agency for the uses and purposes provided in this subchapter, and that a public agency will administer such funds and property, (B) Federal funds expended by local educational agencies and intermediate educational units for programs under this subchapter (i) shall be used to pay only the excess costs directly attributable to the education of handicapped children, and (ii) shall be used to supplement and, to the extent practicable, increase the level of State and local funds expended for the education of handicapped children, and in no case to supplant such State and local funds, and (C) State and local funds will be used in the jurisdiction of the local educational agency or intermediate educational unit to provide services in program areas which, taken as a whole, are at least comparable to services being provided in areas of such jurisdiction which are not receiving funds under this subchapter;”.
 
-Subsec. (a)(3). Pub. L. 100 630, §102(d)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+Subsec. (a)(3). Pub. L. 100–630, §102(d)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
 “(A) provide for furnishing such information (which, in the case of reports relating to performance, is in accordance with specific performance criteria related to program objectives), as may be necessary to enable the State educational agency to perform its duties under this subchapter, including information relating to the educational achievement of handicapped children participating in programs carried out under this subchapter; and
 
 “(B) provide for keeping such records, and provide for affording such access to such records, as the State educational agency may find necessary to assure the correctness and verification of such information furnished under subclause (A);”.
 
-Subsec. (a)(5). Pub. L. 100 630, §102(d)(3), struck out comma after “establish” and inserted a comma after “if appropriate”.
+Subsec. (a)(5). Pub. L. 100–630, §102(d)(3), struck out comma after “establish” and inserted a comma after “if appropriate”.
 
-1983—Subsec. (b)(1). Pub. L. 98 199 substituted “Secretary” for “Commissioner”.
+1983—Subsec. (b)(1). Pub. L. 98–199 substituted “Secretary” for “Commissioner”.
 
-1975—Pub. L. 94 142, effective Oct. 1, 1977, completely revised section so as to incorporate within its provisions the process through which local educational agencies and intermediate educational units desiring to receive payments submit applications to the appropriate State educational agency and so as to strike out former provisions covering State matching funds.
+1975—Pub. L. 94–142, effective Oct. 1, 1977, completely revised section so as to incorporate within its provisions the process through which local educational agencies and intermediate educational units desiring to receive payments submit applications to the appropriate State educational agency and so as to strike out former provisions covering State matching funds.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98 199 effective Dec. 2, 1983, see section 18 of Pub. L. 98 199, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 98–199 effective Dec. 2, 1983, see section 18 of Pub. L. 98–199, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1975 Amendment
 
-Complete revision of this section by section 5(a) of Pub. L. 94 142 effective Oct. 1, 1977, see section 8(c) of Pub. L. 94 142, set out as a note under section 1411 of this title.
+Complete revision of this section by section 5(a) of Pub. L. 94–142 effective Oct. 1, 1977, see section 8(c) of Pub. L. 94–142, set out as a note under section 1411 of this title.
 
 #### Maintenance of Effort
 
-Pub. L. 99 506, title X, §1005, Oct. 21, 1986, 100 Stat. 1845, directed that Secretary and State educational agency, in the case of subsec. (a)(2)(B)(ii) of this section, not include expenditures made from an accrued fund reserve surplus after July 1, 1983, and prior to Oct. 1, 1985, which were used for services for handicapped children.
+Pub. L. 99–506, title X, §1005, Oct. 21, 1986, 100 Stat. 1845, directed that Secretary and State educational agency, in the case of subsec. (a)(2)(B)(ii) of this section, not include expenditures made from an accrued fund reserve surplus after July 1, 1983, and prior to Oct. 1, 1985, which were used for services for handicapped children.
 
 #### Section Referred to in Other Sections
 

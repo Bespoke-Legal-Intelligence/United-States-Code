@@ -22,7 +22,7 @@ The words “other than that of the member or former member concerned” are sub
 
 #### Prior Provisions
 
-A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, which related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

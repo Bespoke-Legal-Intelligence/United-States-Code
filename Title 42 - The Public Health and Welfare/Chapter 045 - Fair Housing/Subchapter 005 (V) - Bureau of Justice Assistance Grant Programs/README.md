@@ -56,7 +56,7 @@ Section 3761, Pub. L. 90–351, title I, §513, June 19, 1968, 82 Stat. 207; Pub
 
 Section 3762, Pub. L. 90–351, title I, §514, June 19, 1968, 82 Stat. 207; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213, provided for reimbursement of Federal agencies.
 
-Section 3763, Pub. L. 90–351, title I, §515, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, §7(4), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213;Pub. L. 94–503, title I, §124, Oct. 15, 1976, 90 Stat. 2421, provided for functions, powers, and duties of Law Enforcement Assistance Administration.
+Section 3763, Pub. L. 90–351, title I, §515, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, §7(4), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213; Pub. L. 94–503, title I, §124, Oct. 15, 1976, 90 Stat. 2421, provided for functions, powers, and duties of Law Enforcement Assistance Administration.
 
 Section 3764, Pub. L. 90–351, title I, §516, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, §7(5), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 213, provided for making of payments under this chapter.
 
@@ -68,7 +68,7 @@ Section 3767, Pub. L. 90–351, title I, §519, June 19, 1968, 82 Stat. 208; Pub
 
 Section 3768, Pub. L. 90–351, title I, §520, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, §1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, §7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 93–415, title V, §544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, §3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, §126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations.
 
-Section 3769, Pub. L. 90–351, title I, §521, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, §7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements.
+Section 3769, Pub. L. 90–351, title I, §521, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, §7(9), Jan. 2, 1971, 84Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements.
 
 Section 3770, Pub. L. 90–351, title I, §523, as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215, provided for use of unobligated Federal funds for 90 percent of costs.
 

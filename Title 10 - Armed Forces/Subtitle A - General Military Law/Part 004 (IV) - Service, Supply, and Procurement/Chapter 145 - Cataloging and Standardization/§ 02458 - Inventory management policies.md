@@ -1,4 +1,4 @@
-### §2458 . Inventory management policies
+### §2458. Inventory management policies
 
 (a)
 
@@ -12,7 +12,7 @@ Policy Required.—The Secretary of Defense shall issue a single, uniform policy
 
 (b)
 
-Personnel Evaluations.—The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.
+Personnel Evaluations.—The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminatewasteful practices and achieve cost savings in the acquisition and management of inventory items.
 
 (Added Pub. L. 101–510, div. A, title III, §323(a)(1), Nov. 5, 1990, 104 Stat. 1530; amended Pub. L. 102–190, div. A, title III, §347(a), Dec. 5, 1991, 105 Stat. 1347.)
 
@@ -22,7 +22,7 @@ Personnel Evaluations.—The Secretary of Defense shall establish procedures to 
 
 #### Implementation of 1991 Amendment
 
-Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c)of Pub. L. 102–190, set out as a note under section 2721 of this title.
+Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c) of Pub. L. 102–190, set out as a note under section 2721 of this title.
 
 #### Date of Issuance of Policy
 

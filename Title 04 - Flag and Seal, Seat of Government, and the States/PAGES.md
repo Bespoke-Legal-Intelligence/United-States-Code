@@ -1,6 +1,6 @@
 # Printed pages - Title 04 - Flag and Seal, Seat of Government, and the States
 
-GPO's 1994 edition (laws in effect as of 1995-01-04), from its printed page marks. The exact position of
+GPO's 1995 edition (laws in effect as of 1996-01-16), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title4.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -32,10 +32,11 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00111 - Same; taxation affecting Federal employees; income tax](Chapter%20004%20-%20The%20States/%C2%A7%2000111%20-%20Same%3B%20taxation%20affecting%20Federal%20employees%3B%20income%20tax.md) | 6 |
 | [&sect; 00112 - Compacts between States for cooperation in prevention of crime; consent of Congress](Chapter%20004%20-%20The%20States/%C2%A7%2000112%20-%20Compacts%20between%20States%20for%20cooperation%20in%20prevention%20of%20crime%3B%20consent%20of%20Congress.md) | 6–7 |
 | [&sect; 00113 - Residence of Members of Congress for State income tax laws](Chapter%20004%20-%20The%20States/%C2%A7%2000113%20-%20Residence%20of%20Members%20of%20Congress%20for%20State%20income%20tax%20laws.md) | 7 |
-| [Chapter 005 - Official Territorial Papers](Chapter%20005%20-%20Official%20Territorial%20Papers/README.md) | 7 |
-| [&sect; 00141 - Collection, preparation and publication](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000141%20-%20Collection%2C%20preparation%20and%20publication.md) | 7–8 |
-| [&sect; 00142 - Appointment of experts](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000142%20-%20Appointment%20of%20experts.md) | 8 |
-| [&sect; 00143 - Employment and utilization of other personnel; cost of copy reading and indexing](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000143%20-%20Employment%20and%20utilization%20of%20other%20personnel%3B%20cost%20of%20copy%20reading%20and%20indexing.md) | 8 |
-| [&sect; 00144 - Cooperation of departments and agencies](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000144%20-%20Cooperation%20of%20departments%20and%20agencies.md) | 8 |
-| [&sect; 00145 - Printing and distribution](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000145%20-%20Printing%20and%20distribution.md) | 8–9 |
+| [&sect; 00114 - Limitation on State income taxation of certain pension income](Chapter%20004%20-%20The%20States/%C2%A7%2000114%20-%20Limitation%20on%20State%20income%20taxation%20of%20certain%20pension%20income.md) | 7–8 |
+| [Chapter 005 - Official Territorial Papers](Chapter%20005%20-%20Official%20Territorial%20Papers/README.md) | 8 |
+| [&sect; 00141 - Collection, preparation and publication](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000141%20-%20Collection%2C%20preparation%20and%20publication.md) | 8 |
+| [&sect; 00142 - Appointment of experts](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000142%20-%20Appointment%20of%20experts.md) | 8–9 |
+| [&sect; 00143 - Employment and utilization of other personnel; cost of copy reading and indexing](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000143%20-%20Employment%20and%20utilization%20of%20other%20personnel%3B%20cost%20of%20copy%20reading%20and%20indexing.md) | 9 |
+| [&sect; 00144 - Cooperation of departments and agencies](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000144%20-%20Cooperation%20of%20departments%20and%20agencies.md) | 9 |
+| [&sect; 00145 - Printing and distribution](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000145%20-%20Printing%20and%20distribution.md) | 9 |
 | [&sect; 00146 - Authorization of appropriations](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000146%20-%20Authorization%20of%20appropriations.md) | 9 |

@@ -30,7 +30,7 @@
 
 #### (b) General administrative funds study and report
 
-Upon the date of completion of the pilot model data system described in section 9009(b) of this title, the Secretary shall study the information obtained through the use of such data system and other relevant information, as well as any other data systems which are in use on such date that account for administrative expenses at the school, local educational agency, and State educational agency level, and shall report to the Congress not later than July 1, 1997, regarding—
+Upon the date of completion of the pilot model data system described in section 9009(b) of thistitle, the Secretary shall study the information obtained through the use of such data system and other relevant information, as well as any other data systems which are in use on such date that account for administrative expenses at the school, local educational agency, and State educational agency level, and shall report to the Congress not later than July 1, 1997, regarding—
 
 &emsp;(1) the potential for the reduction of administrative expenses at the school, local educational agency, and State educational agency levels;
 
@@ -40,5 +40,5 @@ Upon the date of completion of the pilot model data system described in section 
 
 &emsp;(4) if appropriate, steps which may be taken to assist schools, local educational agencies and State educational agencies to account for and reduce administrative expenses.
 
-(Pub. L. 89 10, title XIV, §14204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3892.)
+(Pub. L. 89–10, title XIV, §14204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3892.)
 

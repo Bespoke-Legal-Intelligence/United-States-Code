@@ -2,18 +2,18 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 8011\. | Organization. |
-| 8012\. | Department of the Air Force: seal. |
-| 8013\. | Secretary of the Air Force. |
-| 8014\. | Office of the Secretary of the Air Force. |
-| 8015\. | Under Secretary of the Air Force. |
-| 8016\. | Assistant Secretaries of the Air Force. |
-| 8017\. | Secretary of the Air Force: successors to duties. |
-| 8018\. | Administrative Assistant. |
-| 8019\. | General Counsel. |
-| 8020\. | Inspector General. |
-| 8021\. | Air Force Reserve Forces Policy Committee. |
-| 8022\. | Financial management. |
+| [8011\.](%C2%A7%2008011%20-%20Organization.md) | Organization. |
+| [8012\.](%C2%A7%2008012%20-%20Department%20of%20the%20Air%20Force%20seal.md) | Department of the Air Force: seal. |
+| [8013\.](%C2%A7%2008013%20-%20Secretary%20of%20the%20Air%20Force.md) | Secretary of the Air Force. |
+| [8014\.](%C2%A7%2008014%20-%20Office%20of%20the%20Secretary%20of%20the%20Air%20Force.md) | Office of the Secretary of the Air Force. |
+| [8015\.](%C2%A7%2008015%20-%20Under%20Secretary%20of%20the%20Air%20Force.md) | Under Secretary of the Air Force. |
+| [8016\.](%C2%A7%2008016%20-%20Assistant%20Secretaries%20of%20the%20Air%20Force.md) | Assistant Secretaries of the Air Force. |
+| [8017\.](%C2%A7%2008017%20-%20Secretary%20of%20the%20Air%20Force%20successors%20to%20duties.md) | Secretary of the Air Force: successors to duties. |
+| [8018\.](%C2%A7%2008018%20-%20Administrative%20Assistant.md) | Administrative Assistant. |
+| [8019\.](%C2%A7%2008019%20-%20General%20Counsel.md) | General Counsel. |
+| [8020\.](%C2%A7%2008020%20-%20Inspector%20General.md) | Inspector General. |
+| [8021\.](%C2%A7%2008021%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md) | Air Force Reserve Forces Policy Committee. |
+| [8022\.](%C2%A7%2008022%20-%20Financial%20management.md) | Financial management. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

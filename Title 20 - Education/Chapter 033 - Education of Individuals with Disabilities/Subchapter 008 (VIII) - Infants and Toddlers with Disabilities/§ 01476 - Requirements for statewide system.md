@@ -34,7 +34,7 @@ The statewide system required by subsection (a) of this section shall include, a
 
 &emsp;(9) a single line of responsibility in a lead agency designated or established by the Governor for carrying out—
 
-&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1473 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs or activities are receiving assistance made available under section 1473 of this title, to ensure that the State complies with this subchapter,
+&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1473 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs oractivities are receiving assistance made available under section 1473 of this title, to ensure that the State complies with this subchapter,
 
 &emsp;&emsp;(B) the identification and coordination of all available resources within the State from Federal, State, local and private sources,
 
@@ -60,55 +60,55 @@ The statewide system required by subsection (a) of this section shall include, a
 
 &emsp;(14) a system for compiling data on the numbers of infants and toddlers with disabilities and their families in the State in need of appropriate early intervention services (which may be based on a sampling of data), the numbers of such infants and toddlers and their families served, the types of services provided (which may be based on a sampling of data), and other information required by the Secretary.
 
-(Pub. L. 91 230, title VI, §676, as added Pub. L. 99 457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1148; amended Pub. L. 100 630, title I, §108(d), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101 476, title VIII, §802, title IX, §901(b)(166) (173), Oct. 30, 1990, 104 Stat. 1141, 1150; Pub. L. 102 119, §§13, 19(a)(2), 25(a)(17), (b), Oct. 7, 1991, 105 Stat. 596, 601, 606, 607.)
+(Pub. L. 91–230, title VI, §676, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1148; amended Pub. L. 100–630, title I, §108(d), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, §802, title IX, §901(b)(166)–(173), Oct. 30, 1990, 104 Stat. 1141, 1150; Pub. L. 102–119, §§13, 19(a)(2), 25(a)(17), (b), Oct. 7, 1991, 105 Stat. 596, 601, 606, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Subsec. (a). Pub. L. 102 119, §19(a)(2)(A), inserted “, including Indian infants and toddlers with disabilities on reservations,” after “families”.
+Subsec. (a). Pub. L. 102–119, §19(a)(2)(A), inserted “, including Indian infants and toddlers with disabilities on reservations,” after “families”.
 
-Subsec. (b)(2). Pub. L. 102 119, §19(a)(2)(B), inserted “, including Indian infants and toddlers with disabilities on reservations,” after “State”.
+Subsec. (b)(2). Pub. L. 102–119, §19(a)(2)(B), inserted “, including Indian infants and toddlers with disabilities on reservations,” after “State”.
 
-Subsec. (b)(4). Pub. L. 102 119, §25(a)(17)(A), substituted “infant and toddler with a disability” for “handicapped infant and toddler”.
+Subsec. (b)(4). Pub. L. 102–119, §25(a)(17)(A), substituted “infant and toddler with a disability” for “handicapped infant and toddler”.
 
-Pub. L. 102 119, §13(1), substituted “service coordination” for “case management”.
+Pub. L. 102–119, §13(1), substituted “service coordination” for “case management”.
 
-Subsec. (b)(6). Pub. L. 102 119, §25(a)(17)(B), struck out “as required under this paragraph” before “to parents of infants”.
+Subsec. (b)(6). Pub. L. 102–119, §25(a)(17)(B), struck out “as required under this paragraph” before “to parents of infants”.
 
-Subsec. (b)(8). Pub. L. 102 119, §13(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “a comprehensive system of personnel development, including training of primary referral sources respecting the basic components of early intervention services available in the State,”.
+Subsec. (b)(8). Pub. L. 102–119, §13(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “a comprehensive system of personnel development, including training of primary referral sources respecting the basic components of early intervention services available in the State,”.
 
-Subsec. (b)(9)(A). Pub. L. 102 119, §13(3)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the general administration, supervision, and monitoring of programs and activities receiving assistance under section 1473 of this title to ensure compliance with this subchapter,”.
+Subsec. (b)(9)(A). Pub. L. 102–119, §13(3)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the general administration, supervision, and monitoring of programs and activities receiving assistance under section 1473 of this title to ensure compliance with this subchapter,”.
 
-Subsec. (b)(9)(C). Pub. L. 102 119, §13(3)(B), inserted “in accordance with section 1478(a)(2) of this title” after “responsibility” and substituted “agencies,” for “agency,”.
+Subsec. (b)(9)(C). Pub. L. 102–119, §13(3)(B), inserted “in accordance with section 1478(a)(2) of this title” after “responsibility” and substituted “agencies,” for “agency,”.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Subsecs. (a), (b)(2). Pub. L. 101 476, §901(b)(166), (167), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
+Subsecs. (a), (b)(2). Pub. L. 101–476, §901(b)(166), (167), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
 
-Subsec. (b)(3). Pub. L. 101 476, §901(b)(168), (169), substituted “infant and toddler with a disability” and “infant or toddler with a disability” for “handicapped infant and toddler” and “handicapped infant or toddler”, respectively.
+Subsec. (b)(3). Pub. L. 101–476, §901(b)(168), (169), substituted “infant and toddler with a disability” and “infant or toddler with a disability” for “handicapped infant and toddler” and “handicapped infant or toddler”, respectively.
 
-Subsec. (b)(4). Pub. L. 101 476, §901(b)(170), which directed the substitution of “infants and toddlers with disabilities” for “handicapped infants and toddlers”, could not be executed because the phrase “handicapped infants and toddlers” did not appear in text.
+Subsec. (b)(4). Pub. L. 101–476, §901(b)(170), which directed the substitution of “infants and toddlers with disabilities” for “handicapped infants and toddlers”, could not be executed because the phrase “handicapped infants and toddlers” did not appear in text.
 
-Subsec. (b)(6). Pub. L. 101 476, §901(b)(171), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
+Subsec. (b)(6). Pub. L. 101–476, §901(b)(171), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
 
-Pub. L. 101 476, §802(1), inserted before comma at end “, including the preparation and dissemination by the lead agency to all primary referral sources of information materials for parents on the availability of early intervention services, and procedures for determining the extent to which primary referral sources, especially hospitals and physicians, disseminate information on the availability of early intervention services as required under this paragraph to parents of infants with disabilities”.
+Pub. L. 101–476, §802(1), inserted before comma at end “, including the preparation and dissemination by the lead agency to all primary referral sources of information materials for parents on the availability of early intervention services, and procedures for determining the extent to which primary referral sources, especially hospitals and physicians, disseminate information on the availability of early intervention services as required under this paragraph to parents of infants with disabilities”.
 
-Subsec. (b)(8). Pub. L. 101 476, §802(2), inserted before comma at end “, including training of primary referral sources respecting the basic components of early intervention services available in the State”.
+Subsec. (b)(8). Pub. L. 101–476, §802(2), inserted before comma at end “, including training of primary referral sources respecting the basic components of early intervention services available in the State”.
 
-Subsec. (b)(9)(D), (14). Pub. L. 101 476, §901(b)(172), (173), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
+Subsec. (b)(9)(D), (14). Pub. L. 101–476, §901(b)(172), (173), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
 
-1988—Subsec. (b)(5). Pub. L. 100 630, §108(d)(1), made technical amendment to reference to subchapter II of this chapter resulting in no change in text and substituted “for participation by” for “for the participation by”.
+1988—Subsec. (b)(5). Pub. L. 100–630, §108(d)(1), made technical amendment to reference to subchapter II ofthis chapter resulting in no change in text and substituted “for participation by” for “for the participation by”.
 
-Subsec. (b)(12). Pub. L. 100 630, §108(d)(2), struck out “and” at end.
+Subsec. (b)(12). Pub. L. 100–630, §108(d)(2), struck out “and” at end.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 13 of Pub. L. 102 119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102 119, set out as a note under section 927 of this title.
+Amendment by section 13 of Pub. L. 102–119 effective July 1, 1992, except that each State has option to have amendment apply earlier than such date, see section 27(b) of Pub. L. 102–119, set out as a note under section 927 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ For purposes of this part, the term “waived funding deficiency” means the po
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan other than a multiemployer plan, if an employer is a member of acontrolled group, the temporary substantial business hardship requirements of subsection (a) of this section shall be treated as met only if such requirements are met—
+&emsp;&emsp;In the case of a plan other than a multiemployer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of subsection (a) of this section shall be treated as met only if such requirements are met—
 
 &emsp;&emsp;&emsp;(i) with respect to such employer, and
 

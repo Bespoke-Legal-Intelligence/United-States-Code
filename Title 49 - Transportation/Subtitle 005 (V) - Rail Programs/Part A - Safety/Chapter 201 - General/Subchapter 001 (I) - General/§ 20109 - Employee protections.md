@@ -92,7 +92,7 @@ In subsections (a) and (b), the words “railroad carrier” are substituted for
 
 In subsection (a)(1), the words “under or” are omitted as surplus.
 
-In subsection (b)(1)(B), before subclause (i), the words “the hazardous condition is of such a nature that” areomitted as surplus. The word “individual” is substituted for “person” as being more appropriate. In subclause (ii), the words “resort to” are omitted as surplus.
+In subsection (b)(1)(B), before subclause (i), the words “the hazardous condition is of such a nature that” are omitted as surplus. The word “individual” is substituted for “person” as being more appropriate. In subclause (ii), the words “resort to” are omitted as surplus.
 
 In subsection (b)(1)(C), the words “his apprehension of” are omitted as surplus.
 

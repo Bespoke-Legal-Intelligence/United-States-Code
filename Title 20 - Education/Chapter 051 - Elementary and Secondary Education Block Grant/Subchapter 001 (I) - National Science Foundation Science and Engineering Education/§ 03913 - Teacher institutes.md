@@ -16,9 +16,9 @@ Institutes assisted under this subchapter may, to the extent possible, involve t
 
 In making grants under this subchapter, the Foundation shall require assurances that local education agencies will be involved in the planning and development of the institute in the case of applications submitted by other eligible applicants described in subsection (a) of this section, or that one or more such applicants will be involved in the planning and development of the institute in the case of applications submitted by State or local education agencies.
 
-(Pub. L. 98 377, title I, §103, as added Pub. L. 99 159, title II, §201, Nov. 22, 1985, 99 Stat. 894.)
+(Pub. L. 98–377, title I, §103, as added Pub. L. 99–159, title II, §201, Nov. 22, 1985, 99 Stat. 894.)
 
 #### Prior Provisions
 
-A prior section 3913, Pub. L. 98 377, title I, §113, Aug., 11, 1984, 98 Stat. 1269, related to distribution of assistance and limitation on grants, prior to the general revision of this subchapter by section 201 of Pub. L. 99 159. See subsec. (b) of this section.
+A prior section 3913, Pub. L. 98–377, title I, §113, Aug., 11, 1984, 98 Stat. 1269, related to distribution of assistance and limitation on grants, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See subsec. (b) of this section.
 

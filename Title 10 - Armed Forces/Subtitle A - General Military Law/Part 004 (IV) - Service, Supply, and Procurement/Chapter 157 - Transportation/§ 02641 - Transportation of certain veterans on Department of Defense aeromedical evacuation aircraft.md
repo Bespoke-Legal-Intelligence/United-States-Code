@@ -4,7 +4,7 @@
 
 (b) Transportation under this section shall be provided in accordance with an agreement entered into between the Secretary of Defense and the Secretary of Veterans Affairs. Such an agreement shall provide that transportation may be furnished to a veteran (or for the remains of a veteran) on an aircraft referred to in subsection (a) only if—
 
-&emsp;(1) the Secretary of Veterans Affairs notifies the Secretary of Defense that the veteran needs or has been furnished medical care or services in a Department of Veterans Affairs facility and the Secretary of Veterans Affairs requests such transportation in connection with the travel of such veteran (or of the remains of such veteran) to or from the Department of Veterans Affairs facility where thecare or services are to be furnished or were furnished to such veteran;
+&emsp;(1) the Secretary of Veterans Affairs notifies the Secretary of Defense that the veteran needs or has been furnished medical care or services in a Department of Veterans Affairs facility and the Secretary of Veterans Affairs requests such transportation in connection with the travel of such veteran (or of the remains of such veteran) to or from the Department of Veterans Affairs facility where the care or services are to be furnished or were furnished to such veteran;
 
 &emsp;(2) there is space available for the veteran (or the remains of the veteran) on the aircraft; and
 

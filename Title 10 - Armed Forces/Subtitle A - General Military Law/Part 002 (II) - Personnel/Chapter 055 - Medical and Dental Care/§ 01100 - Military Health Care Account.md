@@ -18,7 +18,7 @@ Allocation of Amounts in Account for Provision of Medical Care by Service Secret
 
 (d)
 
-Expenditure of Amounts From Account by Service Secretaries.—The Secretary of amilitary department shall provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for a fiscal year quarter from amounts appropriated to the Secretary and from amounts from the account made available for that quarter to the Secretary by the Secretary of Defense. If the Secretary of a military department exhausts the amounts from the account made available to the Secretary for a fiscal year quarter, the Secretary shall transfer to the account from amounts appropriated to the Secretary an amount sufficient to provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for the remainder of the fiscal year quarter.
+Expenditure of Amounts From Account by Service Secretaries.—The Secretary of a military department shall provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for a fiscal year quarter from amounts appropriated to the Secretary and from amounts from the account made available for that quarter to the Secretary by the Secretary of Defense. If the Secretary of a military department exhausts the amounts from the account made available to the Secretary for a fiscal year quarter, the Secretary shall transfer to the account from amounts appropriated to the Secretary an amount sufficient to provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for the remainder of the fiscal year quarter.
 
 (e)
 

@@ -26,7 +26,7 @@ The Congress makes the following findings:
 
 &emsp;(12) The growing extent of drug abuse indicates an urgent need for prevention and intervention programs designed to reach the general population and members of high risk populations such as youth, women, and the elderly.
 
-&emsp;(13) Effective control of drug abuse requires high-level coordination of Federal international and domestic activities relating toboth supply of, and demand for, commonly abused drugs.
+&emsp;(13) Effective control of drug abuse requires high-level coordination of Federal international and domestic activities relating to both supply of, and demand for, commonly abused drugs.
 
 &emsp;(14) Local governments with high concentrations of drug abuse should be actively involved in the planning and coordination of efforts to combat drug abuse.
 

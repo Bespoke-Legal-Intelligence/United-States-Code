@@ -8,5 +8,5 @@
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1184 of this title prior to the complete revision of this chapter by Pub. L. 98–129.
+Provisions similar to this section were contained in section 1184 of this title, prior to the complete revision of this chapter by Pub. L. 98–129.
 

@@ -28,7 +28,7 @@
 
 (e) Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[titleI, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350.)
 
 #### References in Text
 
@@ -38,9 +38,9 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 
 #### Amendments
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–378 substituted “section 166b–3a” for “section 166b–3”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–378 substituted “section 166b–3a” for “section 166b–3”.
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
 
 #### Effective Date of 1990 Amendment
 

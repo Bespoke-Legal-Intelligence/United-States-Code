@@ -54,7 +54,7 @@
 
 #### (c) Dissemination
 
-The Administrator shall promote and support the dissemination of the guidelines, standards, performance measures, and review criteria described in section 299b–1(a) of this title. Suchdissemination shall be carried out through organizations representing health care providers, organizations representing health care consumers, peer review organizations, accrediting bodies, and other appropriate entities.
+The Administrator shall promote and support the dissemination of the guidelines, standards, performance measures, and review criteria described in section 299b–1(a) of this title. Such dissemination shall be carried out through organizations representing health care providers, organizations representing health care consumers, peer review organizations, accrediting bodies, and other appropriate entities.
 
 #### (d) Pilot testing
 

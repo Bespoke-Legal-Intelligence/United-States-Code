@@ -64,5 +64,5 @@ Patent Office, referred to in subsec. (e), redesignated Patent and Trademark Off
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 31 section 330; title 38 section 5901; title 49 section 10308.
+This section is referred to in title 31 section 330; title 38 section 5901; title 49 section 703.
 

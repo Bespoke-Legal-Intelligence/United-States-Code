@@ -8,7 +8,7 @@ The Secretary shall establish an Advisory Commission of no more than fifteen mem
 
 (1) The advisory commission shall include an elected official for each County within which any part of the park is located, a representative of the owners of private properties located within or immediately adjacent to the park, and other members representing persons actively engaged in grazing and range management, mineral exploration and development, and persons with expertise in relevant fields, including geology, biology, ecology, law enforcement, and the protection and management of National Park resources and values.
 
-(2) Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
+(2) Vacancies in the advisory commission shall be filled by the Secretary so as to maintain thefull diversity of views required to be represented on the advisory commission.
 
 #### (c) Applicability of Federal Advisory Committee Act
 

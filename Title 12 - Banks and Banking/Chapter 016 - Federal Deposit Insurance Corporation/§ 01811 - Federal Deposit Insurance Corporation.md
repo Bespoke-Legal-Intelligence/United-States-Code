@@ -58,7 +58,7 @@ Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: “This Ac
 
 Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
 
-Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: “This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the ‘Bank Enterprise Act of 1991’.”
+Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: “This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834,1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the ‘Bank Enterprise Act of 1991’.”
 
 #### Short Title of 1990 Amendment
 
@@ -144,7 +144,7 @@ Matters studied.—The study required under paragraph (1) shall include consider
 
 &emsp;&emsp;“(A) the changes underway in the national and international economies and the financial services industry, and how those changes affect the financial services system's ability to efficiently meet the needs of the national economy and the system's users during the next 10 years and beyond; and
 
-&emsp;&emsp;“(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system's users effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
+&emsp;&emsp;“(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system'susers effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
 
 &emsp;“(3)
 
@@ -270,7 +270,7 @@ Title X of Pub. L. 101–73, as amended by Pub. L. 103–328, title I, §108(a),
 
 “(a)
 
-In General.—The Secretary of the Treasury, in consultation with the Comptroller of the Currency, the Chairman of the Board of Governors of the Federal Reserve System, the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, the Chairman of the National Credit Union Administration Board, the Director of the Office of Management and Budget, and individuals from the private sector, shall conduct a study of the Federal deposit insurance system.
+In General.—The Secretary of the Treasury, in consultation with the Comptroller of the Currency, theChairman of the Board of Governors of the Federal Reserve System, the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, the Chairman of the National Credit Union Administration Board, the Director of the Office of Management and Budget, and individuals from the private sector, shall conduct a study of the Federal deposit insurance system.
 
 “(b)
 
@@ -484,7 +484,7 @@ Minority.—The term ‘minority’ means any Black American, Native American, H
 
 &emsp;“(4)
 
-Low-income credit union.—The term ‘low-income credit union’ means any depository institution described in section 19(b)(1)(A)(iv) of the Federal Reserve Act which serves predominately low-income members (as defined by the National Credit Union Administration Board pursuant to section 101(5) of the Federal Credit Union Act \[12 U.S.C. 1752(5)\]).
+Low-income credit union.—The term ‘low-income credit union’ means any depository institutiondescribed in section 19(b)(1)(A)(iv) of the Federal Reserve Act which serves predominately low-income members (as defined by the National Credit Union Administration Board pursuant to section 101(5) of the Federal Credit Union Act \[12 U.S.C. 1752(5)\]).
 
 &emsp;“(5)
 

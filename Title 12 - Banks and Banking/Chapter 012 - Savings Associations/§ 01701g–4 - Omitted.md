@@ -1,4 +1,4 @@
-### §1701g–4 . Omitted
+### §1701g–4. Omitted
 
 #### Codification
 

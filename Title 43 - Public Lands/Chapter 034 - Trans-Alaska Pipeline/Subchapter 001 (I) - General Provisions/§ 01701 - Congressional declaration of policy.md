@@ -80,7 +80,7 @@ Section 701 of Pub. L. 94–579 provided that:
 
 “(i) The adequacy of reports required by this Act to be submitted to the Congress or its committees shall not be subject to judicial review.
 
-“(j) Nothing in this Act shall be construed as affecting the distribution of livestock grazing revenues tolocal governments under the Granger-Thye Act (64 Stat. 85, 16 U.S.C. 580h), under the Act of May 23, 1908 (35 Stat. 260, as amended; 16 U.S.C. 500), under the Act of March 4, 1913 (37 Stat. 843, as amended; 16 U.S.C. 501), and under the Act of June 20, 1910 (36 Stat. 557).”
+“(j) Nothing in this Act shall be construed as affecting the distribution of livestock grazing revenues to local governments under the Granger-Thye Act (64 Stat. 85, 16 U.S.C. 580h), under the Act of May 23, 1908 (35 Stat. 260, as amended; 16 U.S.C. 500), under the Act of March 4, 1913 (37 Stat. 843, as amended; 16 U.S.C. 501), and under the Act of June 20, 1910 (36 Stat. 557).”
 
 #### Severability
 

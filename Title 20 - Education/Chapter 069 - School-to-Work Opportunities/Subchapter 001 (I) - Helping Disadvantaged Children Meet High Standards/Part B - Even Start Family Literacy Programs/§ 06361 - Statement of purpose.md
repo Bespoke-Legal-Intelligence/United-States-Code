@@ -8,5 +8,5 @@ It is the purpose of this part to help break the cycle of poverty and illiteracy
 
 &emsp;(3) assist children and adults from low-income families to achieve to challenging State content standards and challenging State student performance standards.
 
-(Pub. L. 89 10, title I, §1201, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3578.)
+(Pub. L. 89–10, title I, §1201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578.)
 

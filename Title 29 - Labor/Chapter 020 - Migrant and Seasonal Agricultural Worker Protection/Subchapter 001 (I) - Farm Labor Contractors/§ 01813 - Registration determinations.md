@@ -6,7 +6,7 @@ In accordance with regulations, the Secretary may refuse to issue or renew, or m
 
 &emsp;(1) has knowingly made any misrepresentation in the application for such certificate;
 
-&emsp;(2) is not the real party in interest in the application or certificate of registration and the real party in interest is a person who has beenrefused issuance or renewal of a certificate, has had a certificate suspended or revoked, or does not qualify under this section for a certificate;
+&emsp;(2) is not the real party in interest in the application or certificate of registration and the real party in interest is a person who has been refused issuance or renewal of a certificate, has had a certificate suspended or revoked, or does not qualify under this section for a certificate;
 
 &emsp;(3) has failed to comply with this chapter or any regulation under this chapter;
 
@@ -20,7 +20,7 @@ In accordance with regulations, the Secretary may refuse to issue or renew, or m
 
 &emsp;&emsp;(A) of any crime under State or Federal law relating to gambling, or to the sale, distribution or possession of alcoholic beverages, in connection with or incident to any farm labor contracting activities; or
 
-&emsp;&emsp;(B) of any felony under State or Federal law involving robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, prostitution, peonage, or smuggling or harboring individuals who have entered the United States illegally; or
+&emsp;&emsp;(B) of any felony under State or Federal law involving robbery, bribery, extortion,embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, prostitution, peonage, or smuggling or harboring individuals who have entered the United States illegally; or
 
 &emsp;(6) has been found to have violated paragraph (1) or (2) of section 1324a(a) of title 8.
 

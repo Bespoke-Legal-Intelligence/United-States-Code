@@ -50,7 +50,7 @@ Each application under this section shall include the local educational agency's
 
 &emsp;&emsp;(H) describe how the program funded under this part will be coordinated, as appropriate, with—
 
-&emsp;&emsp;&emsp;(i) activities conducted under section 2131<sup>1</sup> and other services of institutions of higher education;
+&emsp;&emsp;&emsp;(i) activities conducted under section 2131 <sup>1</sup> and other services of institutions of higher education;
 
 &emsp;&emsp;&emsp;(ii) similar State and local activities;
 
@@ -76,19 +76,19 @@ Each application under this section shall include the local educational agency's
 
 &emsp;&emsp;(B) be periodically reviewed and revised by the local educational agency, as necessary, to reflect changes in the local educational agency's strategies and programs under this part.
 
-(Pub. L. 89 10, title II, §2208, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3626.)
+(Pub. L. 89–10, title II, §2208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3626.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-Section 2131, referred to in subsec. (d)(1)(H)(i), means section 2131 of the Elementary and Secondary Education Act of 1965, Pub. L. 89 10. However, Pub. L. 89 10, which is classified to this chapter, does not contain a section 2131. See section 2211 of Pub. L. 89 10 which is classified to section 6651 of this title.
+Section 2131, referred to in subsec. (d)(1)(H)(i), means section 2131 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. However, Pub. L. 89–10, which is classified to this chapter, does not contain a section 2131. See section 2211 of Pub. L. 89–10 which is classified to section 6651 of this title.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(1)(H)(vii), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(1)(H)(vii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6650 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

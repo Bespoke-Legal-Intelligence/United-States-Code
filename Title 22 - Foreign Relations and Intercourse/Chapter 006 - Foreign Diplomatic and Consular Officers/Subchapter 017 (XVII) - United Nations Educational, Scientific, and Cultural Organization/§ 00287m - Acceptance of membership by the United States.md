@@ -62,7 +62,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 1\. Membership of the United Nations Organisation shall carry with it the right to membership of the United Nations Educational, Scientific and Cultural Organisation.
 
-2\. Subject to the conditions of the agreement between this Organisation and the United Nations Organisation, approved pursuant to Article X of this Constitution, States not members of the United Nations Organisation may be admitted to membership of the Organisation,upon recommendation of the Executive Board, by a two-thirds majority vote of the General Conference.
+2\. Subject to the conditions of the agreement between this Organisation and the United Nations Organisation, approved pursuant to Article X of this Constitution, States not members of the United Nations Organisation may be admitted to membership of the Organisation, upon recommendation of the Executive Board, by a two-thirds majority vote of the General Conference.
 
 3\. Members of the Organisation which are suspended from the exercise of the rights and privileges of membership of the United Nations Organisation shall, upon the request of the latter, be suspended from the rights and privileges of this Organisation.
 
@@ -152,7 +152,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 2\. The Director-General shall be nominated by the Executive Board and appointed by the General Conference for a period of six years, under such conditions as the Conference may approve, and shall be eligible for re-appointment. He shall be the chief administrative officer of the Organisation.
 
-3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. He shall formulate proposals for appropriate action by the Conference and the Board.
+3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. Heshall formulate proposals for appropriate action by the Conference and the Board.
 
 4\. The Director-General shall appoint the staff of the Secretariat in accordance with staff regulations to be approved by the General Conference. Subject to the paramount consideration of securing the highest standards of integrity, efficiency and technical competence, appointment to the staff shall be on as wide a geographical basis as possible.
 

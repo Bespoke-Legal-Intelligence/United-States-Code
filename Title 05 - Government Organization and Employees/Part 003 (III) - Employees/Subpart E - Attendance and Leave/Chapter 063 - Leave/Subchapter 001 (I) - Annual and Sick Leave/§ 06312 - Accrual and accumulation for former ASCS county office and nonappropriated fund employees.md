@@ -6,7 +6,7 @@
 
 &emsp;(2) service under a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) by an employee who has moved without a break in service of more than 3 days to a position subject to this subchapter in the Department of Defense or the Coast Guard, respectively.
 
-(b) The provisions of subsections (a) and (b) of section 6308 for transfer of leave between leave systems shall apply to the leave systems established for such county office employees and employees of such Department of Defense and Coast Guard nonappropriated fund instrumentalities, respectively.
+(b) The provisions of subsections (a) and (b) of section 6308 for transfer of leave between leavesystems shall apply to the leave systems established for such county office employees and employees of such Department of Defense and Coast Guard nonappropriated fund instrumentalities, respectively.
 
 (Added Pub. L. 90–367, §2(a), June 29, 1968, 82 Stat. 277; amended Pub. L. 90–623, §1(25), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 99–251, title III, §306(c), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(i)(1), Nov. 5, 1990, 104 Stat. 1388–337.)
 
@@ -18,11 +18,11 @@ Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(1),
 
 #### Amendments
 
-1990—Pub. L. 101–508 inserted “and nonappropriated fund” after “office” in section catchline and amended text generally. Prior to amendment, text read as follows: “Service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7, shall be included in determining years of service for the purpose of section 6303(a) of this title. The provisions of section 6308 of this title for transfer of annual and sick leave between leave systems shall apply to the leave system established for such employees.”
+<b>1990</b>—Pub. L. 101–508 inserted “and nonappropriated fund” after “office” in section catchline and amended text generally. Prior to amendment, text read as follows: “Service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7, shall be included in determining years of service for the purpose of section 6303(a) of this title. The provisions of section 6308 of this title for transfer of annual and sick leave between leave systems shall apply to the leave system established for such employees.”
 
-1986—Pub. L. 99–251 struck out “in the case of any officer or employee in or under the Department of Agriculture” at end of first sentence.
+<b>1986</b>—Pub. L. 99–251 struck out “in the case of any officer or employee in or under the Department of Agriculture” at end of first sentence.
 
-1968—Pub. L. 90–623 substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
+<b>1968</b>—Pub. L. 90–623 substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
 
 #### Effective Date of 1990 Amendment
 

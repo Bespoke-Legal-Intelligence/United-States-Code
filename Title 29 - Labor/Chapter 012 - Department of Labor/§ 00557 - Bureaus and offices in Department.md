@@ -30,7 +30,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Bureau of Employees’ Compensation transferred to Department of Labor from Federal Security Agency by Reorg. Plan No. 19 of 1950, §1, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662, the subject matter of which is covered by section 8101 et seq. of Title 5. Subsequently, Bureau of Compensation absorbed by Employment Standards Administration in Department of Labor.
 
-Bureau of Labor Standards established in Department of Labor by departmental order in 1934, and its functions absorbed by Occupational Safety and Health Administration in May 1971.
+Bureau of Labor Standards established in Department of Labor by departmental order in 1934, and itsfunctions absorbed by Occupational Safety and Health Administration in May 1971.
 
 Division of Public Contracts established in Department of Labor by virtue of act June 30, 1936, and was consolidated with Wage and Hour Division by order of Secretary of Labor on Aug. 21, 1942. Subsequently, by order of Secretary of Labor in May 1971, Division of Public Contracts absorbed by Wage and Hour Division.
 

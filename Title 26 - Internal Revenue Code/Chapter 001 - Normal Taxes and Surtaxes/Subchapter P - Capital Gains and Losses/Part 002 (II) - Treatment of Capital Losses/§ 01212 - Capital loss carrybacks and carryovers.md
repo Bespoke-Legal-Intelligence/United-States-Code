@@ -34,7 +34,7 @@
 
 #### (B) Portion of loss attributable to foreign expropriation capital loss
 
-&emsp;&emsp;For purposes of paragraph (1), the portion of any net capital loss for any taxable yearattributable to a foreign expropriation capital loss is the amount of the foreign expropriation capital loss for such year (but not in excess of the net capital loss for such year).
+&emsp;&emsp;For purposes of paragraph (1), the portion of any net capital loss for any taxable year attributable to a foreign expropriation capital loss is the amount of the foreign expropriation capital loss for such year (but not in excess of the net capital loss for such year).
 
 #### (C) Priority of application
 
@@ -58,7 +58,7 @@
 
 &emsp;If a taxpayer other than a corporation has a net capital loss for any taxable year—
 
-&emsp;&emsp;(A) the excess of the net short-term capital loss over the net long-term capital gain for such year shall be a short-term capital loss in the succeeding taxable year, and
+&emsp;&emsp;(A) the excess of the net short-term capital loss over the net long-term capital gainfor such year shall be a short-term capital loss in the succeeding taxable year, and
 
 &emsp;&emsp;(B) the excess of the net long-term capital loss over the net short-term capital gain for such year shall be a long-term capital loss in the succeeding taxable year.
 
@@ -202,7 +202,7 @@ Subsec. (a)(1). Pub. L. 91–172, §512(a), provided for a 3-year capital loss c
 
 Subsec. (a)(3), (4). Pub. L. 91–172, §512(b), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, struck out determination of a short-term capital gain as an amount equal to the excess allowed for the taxable year under former section 1211(b) over the gains from sales or exchanges of capitalassets, struck out par. (2) treating as a short-term capital loss in the first taxable year beginning after Dec. 31, 1963, any amount which is treated as a short-term capital loss in such year under this subchapter as in effect immediately before the enactment of the Revenue Act of 1964, added new par. (2) dealing with special rules for determining the excesses referred to in par. (1)(A) and par. (1)(B) and added par. (3).
+Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, struck out determination of a short-term capital gain as an amount equal to the excess allowed for the taxable year under former section 1211(b) over the gains from sales or exchanges of capital assets, struck out par. (2) treating as a short-term capital loss in the first taxable year beginning after Dec. 31, 1963, any amount which is treated as a short-term capital loss in such year under this subchapter as in effect immediately before the enactment of the Revenue Act of 1964, added new par. (2) dealing with special rules for determining the excesses referred to in par. (1)(A) and par. (1)(B) and added par. (3).
 
 1964—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisions that net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
 
@@ -218,7 +218,7 @@ Amendment by section 301(b)(11) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 102(e)(3) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
+Amendment by section 102(e)(3) of Pub. L. 98–369 applicable to positions established after July 18, 1984, intaxable years after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
 Section 1002(b) of Pub. L. 98–369 provided that: “The repeal made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 

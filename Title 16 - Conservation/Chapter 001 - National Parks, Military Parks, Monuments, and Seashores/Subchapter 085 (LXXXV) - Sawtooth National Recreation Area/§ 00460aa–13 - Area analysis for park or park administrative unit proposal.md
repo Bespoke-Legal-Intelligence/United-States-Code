@@ -1,4 +1,4 @@
-### §460aa–13 . Area analysis for park or park administrative unit proposal
+### §460aa–13. Area analysis for park or park administrative unit proposal
 
 #### (a) Report to Congress
 

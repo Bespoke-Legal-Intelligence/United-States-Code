@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 &emsp;(7) The term “settlement funds” means those funds which the State of Florida and the South Florida Water Management District have agreed to pay to the tribe under the Settlement Agreement.
 
-&emsp;(8) The term “compact” means the Compact incorporated in the Settlement Agreement between the tribe, the State, and the district, which specifically defines the nature and extent of Seminole water rights and the manner of their use within the confines of the area of the district.
+&emsp;(8) The term “compact” means the Compact incorporated in the Settlement Agreement between the tribe, the State, and the district, which specifically defines the nature and extent of Seminole water rights and the mannerof their use within the confines of the area of the district.
 
 (Pub. L. 100–228, §3, Dec. 31, 1987, 101 Stat. 1557.)
 

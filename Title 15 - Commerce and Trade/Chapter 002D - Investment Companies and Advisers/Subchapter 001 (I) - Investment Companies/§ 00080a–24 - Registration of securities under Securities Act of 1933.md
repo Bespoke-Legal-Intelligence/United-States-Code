@@ -10,7 +10,7 @@ In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any s
 
 #### (b) Filing of three copies of advertisement, pamphlet, etc. in connection with public offering; time of filing
 
-It shall be unlawful for any of the following companies, or for any underwriter for such a company, in connection with a public offering of any security of which such company is the issuer, to make use of the mails or any means or instrumentalities of interstate commerce, to transmit any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors unless three copies of the full text thereof have been filed with the Commission or are filed with the Commission within ten days thereafter:
+It shall be unlawful for any of the following companies, or for any underwriter for such acompany, in connection with a public offering of any security of which such company is the issuer, to make use of the mails or any means or instrumentalities of interstate commerce, to transmit any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors unless three copies of the full text thereof have been filed with the Commission or are filed with the Commission within ten days thereafter:
 
 &emsp;(1) any registered open-end company;
 

@@ -52,7 +52,7 @@
 
 &emsp;Nothing in this section shall restrict the right of the Secretary, the Comptroller General of the United States, the Director of the Congressional Budget Office, and the Librarian of Congress, to gain access to any reports or other records, including information identifying individuals, in the Center's possession, except that the same restrictions on disclosure that apply under paragraphs (1) and (6) shall apply to such individuals.
 
-(Pub. L. 103 382, title IV, §408, Oct. 20, 1994, 108 Stat. 4034.)
+(Pub. L. 103–382, title IV, §408, Oct. 20, 1994, 108 Stat. 4034.)
 
 #### Section Referred to in Other Sections
 

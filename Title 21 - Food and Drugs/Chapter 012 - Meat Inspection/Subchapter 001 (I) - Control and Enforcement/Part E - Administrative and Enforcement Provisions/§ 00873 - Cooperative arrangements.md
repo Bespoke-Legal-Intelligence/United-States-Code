@@ -6,7 +6,7 @@ The Attorney General shall cooperate with local, State, and Federal agencies con
 
 &emsp;(1) arrange for the exchange of information between governmental officials concerning the use and abuse of controlled substances;
 
-&emsp;(2) cooperate in the institution and prosecution of cases in the courts of the United States and before the licensing boards and courts of the several States;
+&emsp;(2) cooperate in the institution and prosecution of cases in the courts of the United Statesand before the licensing boards and courts of the several States;
 
 &emsp;(3) conduct training programs on controlled substance law enforcement for local, State, and Federal personnel;
 
@@ -77,6 +77,10 @@ Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided t
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 102–396, title IX, §9078, Oct. 6, 1992, 106 Stat. 1919.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 14081.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -566,7 +566,7 @@ Limitation on retirement income inapplicable to any amount excluded under this s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 101, 104, 219, 280G, 401, 402, 404, 406, 407, 408, 412, 414, 415, 457, 818, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 4974, 4975, 4979, 4980, 4980A, 6047, 6104, 7476, 7871 of this title; title 11 section 522; title 12 section 1831f; title 15 sections 77c, 78c; title 28 section 3010; title 29 sections 1103, 1132, 1344; title 42 section 409.
+This section is referred to in sections 72, 101, 104, 219, 280G, 401, 402, 404, 406, 407, 408, 412, 414, 415, 457, 818, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 4974, 4975, 4979, 4980, 4980A, 6047, 6104, 7476, 7871 of this title; title 4 section 114; title 11 section 522; title 12 section 1831f; title 15 sections 77c, 78c; title 28 section 3010; title 29 sections 1103, 1132, 1344; title 42 section 409.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

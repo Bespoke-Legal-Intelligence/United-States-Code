@@ -20,7 +20,7 @@ Annual Certification.—(1) A State authority's annual certification must includ
 
 &emsp;&emsp;(i) the name and address of each railroad carrier subject to the safety jurisdiction of the authority;
 
-&emsp;&emsp;(ii) each accident or incident reported during the prior 12 months by a railroad carrier involving a fatality, personal injury requiring hospitalization, or property damage ofmore than $750 (or a higher amount prescribed by the Secretary), and a summary of the authority's investigation of the cause and circumstances surrounding the accident or incident;
+&emsp;&emsp;(ii) each accident or incident reported during the prior 12 months by a railroad carrier involving a fatality, personal injury requiring hospitalization, or property damage of more than $750 (or a higher amount prescribed by the Secretary), and a summary of the authority's investigation of the cause and circumstances surrounding the accident or incident;
 
 &emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by the authority to aid the Secretary in enforcing railroad safety regulations prescribed and orders issued by the Secretary, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
 
@@ -118,5 +118,5 @@ In subsection (e), the words “out of funds appropriated pursuant to this subch
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 20108, 20113, 20116, 20117 of this title; title 45 section 54a.
+This section is referred to in sections 20108, 20113, 20117 of this title; title 45 section 54a.
 

@@ -14,7 +14,7 @@ In this chapter:
 
 &emsp;(6) The term “eligible person” means a citizen or national of the United States or a permanent resident alien of the United States.
 
-(Pub. L. 99 661, div. A, title XIV, §1403, Nov. 14, 1986, 100 Stat. 4008.)
+(Pub. L. 99–661, div. A, title XIV, §1403, Nov. 14, 1986, 100 Stat. 4008.)
 
 #### Termination of Trust Territory of the Pacific Islands
 

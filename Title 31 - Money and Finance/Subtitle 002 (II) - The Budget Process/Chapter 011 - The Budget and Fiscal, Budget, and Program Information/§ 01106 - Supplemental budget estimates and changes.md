@@ -18,13 +18,7 @@
 
 (b) Before July 16 of each year, the President shall submit to Congress a statement of changes in budget authority requested, estimated budget outlays, and estimated receipts for the fiscal year for which the budget is submitted (including prior changes proposed for the executive branch of the Government) that the President decides are necessary and appropriate based on current information. The statement shall include the effect of those changes on the information submitted under section 1105(a)(1)–(14) and (b) of this title and shall include supporting information as practicable. The statement submitted before July 16 may be included in the information submitted under subsection (a)(1) of this section.
 
-(c) Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.
-
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 99–177, title II, §242, Dec. 12, 1985, 99 Stat. 1063.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -54,9 +48,9 @@ In subsection (b), the words “Before April 11 and July 16” are substituted f
 
 1985—Subsec. (b). Pub. L. 99–177, §242(a), struck out “April 11 and” before “July 16”.
 
-Subsec. (c). Pub. L. 99–177, §§242(b), 275(b), temporarily added subsec. (c). See Effective and Termination Dates of 1985 Amendment note below.
+Subsec. (c). Pub. L. 99–177, §§242(b), 275(b), temporarily added subsec. (c), which read as follows: “Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.” See Effective and Termination Dates of 1985 Amendment note below.
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 1995, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 1995, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
 

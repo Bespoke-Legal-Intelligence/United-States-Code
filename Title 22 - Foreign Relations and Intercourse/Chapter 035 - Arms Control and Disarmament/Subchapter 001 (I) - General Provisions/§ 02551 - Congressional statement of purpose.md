@@ -2,7 +2,7 @@
 
 An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by creating a new agency of peace to deal with the problem of reduction and control of armaments looking toward ultimate world disarmament.
 
-Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy.
+Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations uponour foreign policies, our national security policies, and our economy.
 
 This organization must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. It shall have the authority, under the direction of the President and the Secretary of State, to carry out the following primary functions:
 
@@ -100,7 +100,7 @@ Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L
 
 Findings.—The Congress finds—
 
-&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, andPresident Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
+&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, and President Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
 
 &emsp;“(2) that the profound changes underway in the Soviet Union pose three types of danger to nuclear safety and stability, as follows: (A) ultimate disposition of nuclear weapons among the Soviet Union, its republics, and any successor entities that is not conducive to weapons safety or to international stability; (B) seizure, theft, sale, or use of nuclear weapons or components; and (C) transfers of weapons, weapons components, or weapons know-how outside of the territory of the Soviet Union, its republics, and any successor entities, that contribute to worldwide proliferation; and
 
@@ -176,7 +176,7 @@ Reimbursement Arrangements.—Assistance provided under part B to the Soviet Uni
 
 “(b)
 
-Natural Resources, Etc.—The President shall encourage the satisfaction of such reimbursement arrangements through the provision of natural resources, such as oil and petroleum products and critical and strategic materials, and industrial goods. Materials received by the United States Government pursuant to this section that are suitable for inclusion in the Strategic Petroleum Reserve or the National Defense Stockpile may be deposited in the reserve or stockpile without reimbursement. Other material and services received may be sold or traded on the domestic or international market with the proceeds to be deposited in the General Fund of the Treasury.
+Natural Resources, Etc.—The President shall encourage the satisfaction of such reimbursement arrangements through the provision of natural resources, such as oil and petroleum products and critical and strategic materials, and industrial goods. Materials received by the United States Government pursuant to this section that are suitable for inclusion in the Strategic Petroleum Reserve or the National DefenseStockpile may be deposited in the reserve or stockpile without reimbursement. Other material and services received may be sold or traded on the domestic or international market with the proceeds to be deposited in the General Fund of the Treasury.
 
 #### “SEC. 223. DIRE EMERGENCY SUPPLEMENTAL APPROPRIATIONS.
 
@@ -213,6 +213,36 @@ Pub. L. 93–559, §51, Dec. 30, 1974, 88 Stat. 1817, as amended by Pub. L. 97�
 &emsp;“(2) establishing a mechanism through which such limitations could be effectively monitored.
 
 “(c) \[Repealed. Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.\]”
+
+#### Ex. Ord. No. 12946. President's Advisory Board on Arms Proliferation Policy
+
+Ex. Ord. No. 12946, Jan. 20, 1995, 60 F.R. 4829, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1601 of the National Defense Authorization Act, Fiscal Year 1994 (Public Law 103–160) \[107 Stat. 1841\], and the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (“Act”), except that subsections (e) and (f) of section 10 of such Act do not apply, and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established within the Department of Defense the “President's Advisory Board on Arms Proliferation Policy” (“Board”). The Board shall consist of five members who shall be appointed by the President from among persons in private life who are noted for their stature and expertise regarding the proliferation of strategic and advanced conventional weapons and are from diverse backgrounds. The President shall designate one of the members as Chairperson of the Board.
+
+Sec. 2. <i>Functions</i>. The Board shall advise the President on implementation of United States conventional arms transfer policy, other issues related to arms proliferation policy, and on other matters deemed appropriate by the President. The Board shall report to the President through the Assistant to the President for National Security Affairs.
+
+Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the extent permitted by law, provide to the Board such information as it may require for the purpose of carrying out its functions.
+
+(b) Members of the Board shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law, including 5 U.S.C. 5701–5707 and section 7(d) of the Act, for persons serving intermittently in government service.
+
+(c) The Department of Defense or the head of any other Federal department or agency may detail to the Board, upon request of the Chairperson of the Board, any of the personnel of the department or agency to assist the Board in carrying out its duties.
+
+(d) The Secretary of Defense shall designate a federally funded research and development center with expertise in the matters covered by the Board to provide the Board with such support services as the Board may need to carry out its duties.
+
+(e) The Department of Defense shall provide the Board with administrative services, facilities, staff, and other support services necessary for the performance of its functions.
+
+Sec. 4. <i>General</i>. (a) The Board shall terminate 30 days after the date on which the President submits the final report of the Board to the Congress.
+
+(b) For reasons of national security or for such other reasons as specified in section 552(b) of title 5, United States Code, the Board shall not provide public notice or access to meetings at which national security information will be discussed. Authority to make such determinations shall reside with the Secretary of Defense or his designee who must be an official required to be appointed by and with the advice and consent of the Senate.
+
+(c) Information made available to the Board shall be given all necessary security protection in accordance with applicable laws and regulations.
+
+(d) Each member of the Board and each member of the Board's staff shall execute an agreement not to reveal any classified information obtained by virtue of his or her service with the Board except as authorized by applicable law and regulations.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

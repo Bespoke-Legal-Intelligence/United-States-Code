@@ -2,7 +2,7 @@
 
 #### (a) Authority to enter into contracts
 
-Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, the Commission is authorized to enter into contracts for such periods of time as the Commission may deem necessary or desirable, for the purpose of making available fission products from Commission reactors, with or without charge for commercial application.
+Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, the Commission is authorized to enter into contracts for such periods of time as the Commission may deem necessary or desirable, for the purpose of making available fission productsfrom Commission reactors, with or without charge for commercial application.
 
 #### (b) Cancellation
 
@@ -30,5 +30,5 @@ Section was not enacted as part of the Atomic Energy Act of 1954 which comprises
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 

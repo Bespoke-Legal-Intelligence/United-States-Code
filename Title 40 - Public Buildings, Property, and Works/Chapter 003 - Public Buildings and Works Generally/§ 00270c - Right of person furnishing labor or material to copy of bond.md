@@ -8,7 +8,7 @@ The department secretary or agency head of the contracting agency is authorized 
 
 1984—Pub. L. 98–269 substituted “department secretary or agency head of the contracting agency” for “Comptroller General” in two places.
 
-1959—Pub. L. 86–135 struck out “, and, in case final settlement of such contract, has been made, a certified statement of the date of such settlement, which shall be conclusive as to such date upon the parties” and “and certified statements” after “original” and “certified copies”, respectively.
+1959—Pub. L. 86–135 struck out “, and, in case final settlement of such contract, has been made, a certifiedstatement of the date of such settlement, which shall be conclusive as to such date upon the parties” and “and certified statements” after “original” and “certified copies”, respectively.
 
 #### Effective Date
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) the acquisition costs of such lands, in the case of lands of the System which were purchased by the United States with funds from the migratory bird conservation fund, or fair market value, whichever is greater; or
 
-&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the date of the transfer or disposal), in the case of lands of the System which were donated to the System.
+&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the dateof the transfer or disposal), in the case of lands of the System which were donated to the System.
 
 > The Secretary shall pay into the migratory bird conservation fund the aggregate amount of the proceeds of any transfer or disposal referred to in the preceding sentence.
 
@@ -42,7 +42,7 @@ In administering the System, the Secretary is authorized—
 
 #### (c) Prohibited and permitted activities; application of mining and mineral leasing laws, hunting or fishing regulations, and State laws or regulations
 
-No person shall knowingly disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply priorto October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations. The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.
+No person shall knowingly disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply prior to October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations. The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.
 
 #### (d) Use of areas; administration of migratory bird sanctuaries as game taking areas; rights of way, easements, and reservations; payment of fair market value
 
@@ -68,7 +68,7 @@ Regulations applicable to areas of the System that are in effect on October 15, 
 
 #### (h) National conservation recreational area provisions; amendment, repeal, or modification
 
-Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 (76 Stat.653; 16 U.S.C. 460k—460k–4) which authorizes the Secretary of the Interior to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said sections.
+Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 (76 Stat. 653; 16 U.S.C. 460k—460k–4) which authorizes the Secretary of the Interior to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said sections.
 
 #### (i) Exemption from State water laws
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Section 2 of Pub. L. 90–404 provided that: “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiatedand completed after the date of their enactment \[July 18, 1968\].”
+Section 2 of Pub. L. 90–404 provided that: “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\].”
 
 #### Short Title of 1974 Amendment
 
@@ -152,7 +152,7 @@ Conveyance to State of New Hampshire.—
 
 &emsp;“(1)
 
-Conveyance.—Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the United States in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
+Conveyance.—Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the UnitedStates in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
 
 &emsp;“(2)
 
@@ -210,6 +210,8 @@ Brandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, §�
 
 Cache River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941.
 
+Don Edwards San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, §1, June 28, 1980, 94 Stat. 607; Pub. L. 100–556, title II, §§201–203, Oct. 28, 1988, 102 Stat. 2780; Pub. L. 104–78, §1, Dec. 28, 1995, 109 Stat. 790.
+
 Edwin B. Forsythe National Wildlife Refuge, New Jersey.—Pub. L. 98–293, May 22, 1984, 98 Stat. 207.
 
 Egmont Key National Wildlife Refuge, Florida.—Pub. L. 93–341, July 10, 1974, 88 Stat. 295.
@@ -255,8 +257,6 @@ Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, §1, Oct. 
 Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961.
 
 Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, §2, July 25, 1980, 94 Stat. 957.
-
-San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, June 28, 1980, §1, 94 Stat. 607; Pub. L. 100–556, title II, §§201–203, Oct. 28, 1988, 102 Stat. 2780.
 
 Seal Beach National Wildlife Refuge, California.—Pub. L. 92–408, Aug. 29, 1972, 86 Stat. 633.
 

@@ -28,7 +28,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 #### (5) Director
 
-&emsp;The term “Director” means the Director of the Office of Bilingual Education and Minority Languages Affairs established under section 3420<sup>1</sup> of this title.
+&emsp;The term “Director” means the Director of the Office of Bilingual Education and Minority Languages Affairs established under section 3420 <sup>1</sup> of this title.
 
 #### (6) Family education program
 
@@ -40,7 +40,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(II) to provide instruction on how parents and family members can facilitate the educational achievement of their children;
 
-&emsp;&emsp;(ii) when feasible, uses instructional programs such as the models developed under the Even Start Family Literacy Programs, which promote adult literacy and train parents to support the educational growth of their children and the Parents as Teachers Program and the Home Instruction Program for Preschool Youngsters; and
+&emsp;&emsp;(ii) when feasible, uses instructional programs such as the models developed under the Even Start Family Literacy Programs,which promote adult literacy and train parents to support the educational growth of their children and the Parents as Teachers Program and the Home Instruction Program for Preschool Youngsters; and
 
 &emsp;&emsp;(iii) gives preference to participation by parents and immediate family members of children attending school.
 
@@ -104,19 +104,19 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;(C) is particularly appropriate for schools where the diversity of the limited English proficient students’ native languages and the small number of students speaking each respective language makes bilingual education impractical and where there is a critical shortage of bilingual education teachers.
 
-(Pub. L. 89 10, title VII, §7501, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3745.)
+(Pub. L. 89–10, title VII, §7501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3745.)
 
 #### References in Text
 
-Section 4009 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, as such Act was in effect on the day preceding October 20, 1994, referred to in par. (3), means section 4009 of Pub. L. 100 297, which was classified to section 4909 of this title prior to repeal by Pub. L. 103 382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
+Section 4009 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, as such Act was in effect on the day preceding October 20, 1994, referred to in par. (3), means section 4009 of Pub. L. 100–297, which was classified to section 4909 of this title prior to repeal by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (4), is Pub. L. 95 471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (4), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-Section 3420 of this title, referred to in par. (5), was in the original “section 210 of the Department of Education Organization Act”, meaning section 210 of Pub. L. 96 88, which was translated as reading section 209 of that Act to reflect the probable intent of Congress and the renumbering of section 210 as section 209 by Pub. L. 103 382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.
+Section 3420 of this title, referred to in par. (5), was in the original “section 210 of the Department of Education Organization Act”, meaning section 210 of Pub. L. 96–88, which was translated as reading section 209 of that Act to reflect the probable intent of Congress and the renumbering of section 210 as section 209 by Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1206a, 2471 of this title.
+This section is referred to in sections 1206a, 2471 of this title; title 42 section 12899f.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 #### (3) Crediting certain periods of separation
 
-&emsp;A participant or former participant who returns to Government duty after a period of separation shall have included in the participant or former participant's period of service that part of the period of separation in which the participant or former participant was receiving benefits under chapter 81 of title 5.
+&emsp;A participant or former participant who returns to Government duty after a period ofseparation shall have included in the participant or former participant's period of service that part of the period of separation in which the participant or former participant was receiving benefits under chapter 81 of title 5.
 
 #### (b) Extra credit for periods served at unhealthful posts overseas
 

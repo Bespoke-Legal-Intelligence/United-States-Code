@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a National, State, or local committee of a political party; or
 
-&emsp;&emsp;(C) a committee, association, or organization, whether incorporated or not, which directly or indirectly accepts contributions (as defined in section 271(b)(2)) or make expenditures (as defined in section 271(b)(3)) for the purpose of influencing or attempting to influence the selection, nomination, or election of any individual to any Federal, State, or local elective public office, or the electionof presidential and vice-presidential electors, whether or not such individual or electors are selected, nominated, or elected.
+&emsp;&emsp;(C) a committee, association, or organization, whether incorporated or not, which directly or indirectly accepts contributions (as defined in section 271(b)(2)) or make expenditures (as defined in section 271(b)(3)) for the purpose of influencing or attempting to influence the selection, nomination, or election of any individual to any Federal, State, or local elective public office, or the election of presidential and vice-presidential electors, whether or not such individual or electors are selected, nominated, or elected.
 
 #### (2) Proceeds inuring to or for the use of political candidates
 

@@ -16,7 +16,7 @@ No payment to which a State is otherwise entitled under this part for any period
 
 #### (c) Good faith effort to comply
 
-No State shall be found, prior to January 1, 1977, to have failed substantially to comply with the requirements of section 602(a)(27) of this title if, in the judgment of the Secretary, such State is making a good faith effort to implement the program required by such section.
+No State shall be found, prior to January 1, 1977, to have failed substantially to comply withthe requirements of section 602(a)(27) of this title if, in the judgment of the Secretary, such State is making a good faith effort to implement the program required by such section.
 
 #### (d) Reduction in amount payable
 

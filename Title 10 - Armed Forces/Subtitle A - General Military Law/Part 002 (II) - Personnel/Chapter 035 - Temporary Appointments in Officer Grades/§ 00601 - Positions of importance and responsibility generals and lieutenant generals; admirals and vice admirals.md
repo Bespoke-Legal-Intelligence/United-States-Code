@@ -14,7 +14,7 @@
 
 (c)(1) An appointment of an officer under subsection (a) does not vacate the permanent grade held by the officer.
 
-(2) An officer serving in a grade above major general or rear admiral who holds the permanent grade of brigadier general or rear admiral (lower half) shall be considered for promotion tothe permanent grade of major general or rear admiral, as appropriate, as if he were serving in his permanent grade.
+(2) An officer serving in a grade above major general or rear admiral who holds the permanent grade of brigadier general or rear admiral (lower half) shall be considered for promotion to the permanent grade of major general or rear admiral, as appropriate, as if he were serving in his permanent grade.
 
 (d)(1) When an officer is recommended to the President for an initial appointment to the grade of lieutenant general or vice admiral, or for an initial appointment to the grade of general or admiral, the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of that officer as a member of the Joint Staff and in other joint duty assignments. The Secretary of Defense shall submit the Chairman's evaluation to the President at the same time the recommendation for the appointment is submitted to the President.
 

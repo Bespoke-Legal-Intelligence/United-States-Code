@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(1) any person other than a United States person, who—
 
-&emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section;
+&emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as amember of a foreign power as defined in subsection (a)(4) of this section;
 
 &emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person's presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities; or
 
@@ -30,7 +30,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for or on behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
 
-&emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities thatare in preparation therefor, for or on behalf of a foreign power; or
+&emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power; or
 
 &emsp;&emsp;&emsp;(D) knowingly aids or abets any person in the conduct of activities described in subparagraph (A), (B), or (C) or knowingly conspires with any person to engage in activities described in subparagraph (A), (B), or (C).
 
@@ -88,7 +88,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than twenty-four hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
 
-&emsp;(i) “United States person” means a citizen of the United States, an alien lawfully admittedfor permanent residence (as defined in section 1101(a)(20) of title 8), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3) of this section.
+&emsp;(i) “United States person” means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3) of this section.
 
 &emsp;(j) “United States”, when used in a geographic sense, means all areas under the territorial sovereignty of the United States and the Trust Territory of the Pacific Islands.
 
@@ -110,7 +110,7 @@ Section 401, formerly section 301 of Pub. L. 95–511, as renumbered §401 and a
 
 #### Short Title
 
-Section 1 of Pub. L. 95–511 provided: “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
+Section 1 of Pub. L. 95–511 provided: “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -118,5 +118,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828 of this title; title 12 section 3414; title 18 sections 794, 2511, 2709.
+This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709.
 

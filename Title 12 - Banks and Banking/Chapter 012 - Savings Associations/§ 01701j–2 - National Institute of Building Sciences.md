@@ -6,7 +6,7 @@
 
 (2) The Congress further finds, however, that while an authoritative source of technical findings is needed, various private organizations and institutions, private industry, labor, and Federal and other governmental agencies and entities are presently engaged in building research, technology development, testing, and evaluation, standards and model code development and promulgation, and information dissemination. These existing activities should be encouraged and these capabilities effectively utilized wherever possible and appropriate to the purposes of this section.
 
-(3) The Congress declares that an authoritative nongovernmental instrument needs to be created to address the problems and issues described in paragraph (1), that the creation of such an instrument should be initiated by the Government, with the advice and assistance of the National Academy of Sciences-National Academy of Engineering-National Research Council (hereinafter referred to as the “Academies-Research Council”) and of the various sectors of the building community, including labor and management, technical experts in building science and technology, and the various levels of government.
+(3) The Congress declares that an authoritative nongovernmental instrument needs to be created to address the problems and issues described in paragraph (1), that the creation ofsuch an instrument should be initiated by the Government, with the advice and assistance of the National Academy of Sciences-National Academy of Engineering-National Research Council (hereinafter referred to as the “Academies-Research Council”) and of the various sectors of the building community, including labor and management, technical experts in building science and technology, and the various levels of government.
 
 #### (b) Establishment; advice and assistance of Academies-Research Council and other agencies and organizations knowledgeable in building technology
 
@@ -22,9 +22,9 @@
 
 (2) The members of the initial Board shall serve as incorporators and shall take whatever actions are necessary to establish the Institute as provided for under subsection (b)(1) of this section.
 
-(3) The term of office of each member of the initial and succeeding Boards shall be three years; except that (A) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and (B) the terms of office of members first taking office shall begin on the date of incorporation and shall expire, as designated at the time of their appointment, one-third at the end of one year, one-third at the end of two years, and one-third at the end of three years.No member shall be eligible to serve in excess of three consecutive terms of three years each. Notwithstanding the preceding provisions of this subsection, a member whose term has expired may serve until his successor has qualified.
+(3) The term of office of each member of the initial and succeeding Boards shall be three years; except that (A) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and (B) the terms of office of members first taking office shall begin on the date of incorporation and shall expire, as designated at the time of their appointment, one-third at the end of one year, one-third at the end of two years, and one-third at the end of three years. No member shall be eligible to serve in excess of three consecutive terms of three years each. Notwithstanding the preceding provisions of this subsection, a member whose term has expired may serve until his successor has qualified.
 
-(4) Any vacancy in the initial and succeeding Boards shall not affect its power, but shall be filled in the manner in which the original appointments were made, or, after the first five years of operation, as provided for by the organizational rules and procedures of the Institute; except that, notwithstanding any such rules and procedures as may be adopted by the Institute, the President of the United States, by and with the advice and consent of the Senate, shall appoint, as representative of the public interest, two of the members of the Board of Directors selected each year for terms commencing in that year.
+(4) Any vacancy in the initial and succeeding Boards shall not affect its power, but shall befilled in the manner in which the original appointments were made, or, after the first five years of operation, as provided for by the organizational rules and procedures of the Institute; except that, notwithstanding any such rules and procedures as may be adopted by the Institute, the President of the United States, by and with the advice and consent of the Senate, shall appoint, as representative of the public interest, two of the members of the Board of Directors selected each year for terms commencing in that year.
 
 (5) The President shall designate one of the members appointed to the initial Board as Chairman; thereafter, the members of the initial and succeeding Boards shall annually elect one of their number as Chairman. The members of the Board shall also elect one or more of their Members as Vice Chairman. Terms of the Chairman and Vice Chairman shall be for one year and no individual shall serve as Chairman or Vice Chairman for more than two consecutive terms.
 
@@ -64,7 +64,7 @@
 
 (2) The Institute may, in accordance with rates and schedules established with guidance as provided under subsection (b)(2) of this section, establish fees and other charges for services provided by the Institute or under its authorization.
 
-(3) Amounts received by the Institute under this section shall be in addition to any amounts which may be appropriated to provide its initial operating capital under subsection (h) of this section.
+(3) Amounts received by the Institute under this section shall be in addition to any amountswhich may be appropriated to provide its initial operating capital under subsection (h) of this section.
 
 #### (g) Technical findings and performance criteria and standards; applicability and use by Federal departments, agencies, and establishments, and State and local governments; supporting grants and contracts
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(i) provide the Federal agency with a 5-year guarantee from the technology manufacturer that—
 
-&emsp;&emsp;&emsp;&emsp;(I) all necessary corrections to the technology will be made in the design, installation, and maintenance of the technology;
+&emsp;&emsp;&emsp;&emsp;(I) all necessary corrections to the technology will be made in the design,installation, and maintenance of the technology;
 
 &emsp;&emsp;&emsp;&emsp;(II) all malfunctions will be repaired without delay; and
 

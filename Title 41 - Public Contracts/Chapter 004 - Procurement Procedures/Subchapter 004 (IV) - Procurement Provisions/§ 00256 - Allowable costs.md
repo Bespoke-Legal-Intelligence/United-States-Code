@@ -42,7 +42,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(A) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
-&emsp;(B) Costs incurred to influence (directly or indirectly) legislative action on any matterpending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
+&emsp;(B) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
 &emsp;(C) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the United States where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
@@ -188,7 +188,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 (3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
 
-(4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, thatthe costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the executive agency.
+(4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the executive agency.
 
 (5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
 

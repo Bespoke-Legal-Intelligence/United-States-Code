@@ -8,7 +8,7 @@ As used in this chapter—
 
 (c) The term “law” includes any law of the United States or of any State (including any rule of law or of equity).
 
-(d) The term “mortgage” includes such classes of liens as are commonly given or are legally effective to secure advances on, or the unpaid purchase price of, real estate under the laws of theState in which the real estate is located or a manufactured home that is personal property under the laws of the State in which the manufactured home is located together with the credit instruments, if any, secured thereby, and includes interests in mortgages.
+(d) The term “mortgage” includes such classes of liens as are commonly given or are legally effective to secure advances on, or the unpaid purchase price of, real estate under the laws of the State in which the real estate is located or a manufactured home that is personal property under the laws of the State in which the manufactured home is located together with the credit instruments, if any, secured thereby, and includes interests in mortgages.
 
 (e) The term “organization” means any corporation, partnership, association, business trust, or business entity.
 
@@ -36,7 +36,7 @@ The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub.
 
 #### Amendments
 
-1992—Subsec. (h). Pub. L. 102–550 substituted “purchased from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined insection 210(11) of the National Energy Conservation Policy Act) in residential real estate” for “made by a public utility and purchased by the Corporation pursuant to the first sentence of section 1454(a)(1) of this title”.
+1992—Subsec. (h). Pub. L. 102–550 substituted “purchased from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) of the National Energy Conservation Policy Act) in residential real estate” for “made by a public utility and purchased by the Corporation pursuant to the first sentence of section 1454(a)(1) of this title”.
 
 1986—Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -54,7 +54,7 @@ Subsec. (<i>l</i>). Pub. L. 98–440, §202(c), added subsec. (<i>l).</i>
 
 1979—Subsec. (h). Pub. L. 96–153 expanded definition of residential mortgage to include a mortgage, lien, or other security interest on the stock or membership certificate issued to a tenant-stockholder or resident-member by a cooperative housing corporation, and on the proprietary lease, occupancy agreement, or right of tenancy in the dwelling unit of the tenant-stockholder or resident-member in such cooperative housing corporation.
 
-1978—Subsec. (h). Pub. L. 95–630 inserted provisions expanding definition of “residential mortgage” to include a secured loan or advance of credit the proceeds of which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under first sentence of this subsection, provisions relating to the maximum principal obligation of loans, and provisions defining “secured loan or advance of credit”.
+1978—Subsec. (h). Pub. L. 95–630 inserted provisions expanding definition of “residential mortgage” to include a secured loan or advance of credit the proceedsof which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under first sentence of this subsection, provisions relating to the maximum principal obligation of loans, and provisions defining “secured loan or advance of credit”.
 
 Pub. L. 95–619 inserted provisions relating to loans or advances of credit insured under title I of the National Housing Act whose original proceeds were applied for to finance energy conserving improvements or solar energy systems and provisions relating to certain loans or advances of credit for such purposes not so insured.
 

@@ -12,7 +12,7 @@
 
 #### (b) Approval as precondition of awards
 
-The Administrator may not approve an application described in subsection (a)(1) of this section unless the application is recommended forapproval by a peer review group established under subsection (c) of this section.
+The Administrator may not approve an application described in subsection (a)(1) of this section unless the application is recommended for approval by a peer review group established under subsection (c) of this section.
 
 #### (c) Establishment of peer review groups
 
@@ -26,7 +26,7 @@ The Administrator may not approve an application described in subsection (a)(1) 
 
 #### (3) Duration
 
-&emsp;Notwithstanding section 14(a) of the Federal Advisory Committee Act, peer review groups established under this section shall continue in existence until otherwise provided by law.
+&emsp;Notwithstanding section 14(a) of the Federal Advisory Committee Act, peer review groupsestablished under this section shall continue in existence until otherwise provided by law.
 
 #### (d) Categories of review
 

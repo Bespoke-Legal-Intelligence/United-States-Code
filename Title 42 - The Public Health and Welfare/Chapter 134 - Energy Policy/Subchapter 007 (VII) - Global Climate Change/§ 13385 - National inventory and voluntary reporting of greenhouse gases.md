@@ -2,7 +2,7 @@
 
 #### (a) National inventory
 
-Not later than one year after October 24, 1992, the Secretary, through the Energy Information Administration, shall develop, based on data available to, and obtained by, the Energy Information Administration, an inventory of the national aggregate emissions of each greenhouse gas for each calendar year of the baseline period of 1987 through 1990. The Administrator of the Energy Information Administration shall annually update and analyze such inventory using available data. This subsection does not provide any new data collection authority.
+Not later than one year after October 24, 1992, the Secretary, through the Energy Information Administration, shall develop, based on data available to, and obtained by, the Energy Information Administration, an inventory of the national aggregate emissions of each greenhouse gas for each calendar year of the baseline periodof 1987 through 1990. The Administrator of the Energy Information Administration shall annually update and analyze such inventory using available data. This subsection does not provide any new data collection authority.
 
 #### (b) Voluntary reporting
 
@@ -16,7 +16,7 @@ Not later than one year after October 24, 1992, the Secretary, through the Energ
 
 &emsp;&emsp;&emsp;(ii) for subsequent calendar years on an annual basis;
 
-&emsp;&emsp;(B) annual reductions of greenhouse gas emissions and carbon fixation achieved through any measures, including fuel switching, forest management practices, tree planting, use of renewable energy, manufacture or use of vehicles with reducedgreenhouse gas emissions, appliance efficiency, energy efficiency, methane recovery, cogeneration, chlorofluorocarbon capture and replacement, and power plant heat rate improvement;
+&emsp;&emsp;(B) annual reductions of greenhouse gas emissions and carbon fixation achieved through any measures, including fuel switching, forest management practices, tree planting, use of renewable energy, manufacture or use of vehicles with reduced greenhouse gas emissions, appliance efficiency, energy efficiency, methane recovery, cogeneration, chlorofluorocarbon capture and replacement, and power plant heat rate improvement;
 
 &emsp;&emsp;(C) reductions in greenhouse gas emissions achieved as a result of—
 

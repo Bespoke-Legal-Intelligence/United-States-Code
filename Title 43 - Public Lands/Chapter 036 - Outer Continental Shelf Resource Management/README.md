@@ -38,8 +38,7 @@
 | (g) | Place of proceeding. |
 | (h) | Certification and disbursement of award; subrogation of rights; payment of costs of proceedings. |
 | (i) | Judicial review. |
-| [1846\.](Subchapter%20002%20%28II%29%20-%20Fishermen%27s%20Contingency%20Fund/%C2%A7%2001846%20-%20Annual%20report.md) | Annual report. |
-| [1847\.](Subchapter%20002%20%28II%29%20-%20Fishermen%27s%20Contingency%20Fund/%C2%A7%2001847%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93212%2C%20%C2%A76%28a%29%2C%20June%2030%2C%201982%2C%2096%20Stat.%20147.md) | Repealed. |
+| 1846, 1847. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -10,7 +10,7 @@ Whoever, being connected in any capacity with the Corporation or any of its prog
 
 #### (c) Larceny; conversion of property
 
-Whoever shall willfully steal, conceal, remove, dispose of, or convert to his own use or to that of another any property owned or held by, or mortgaged or pledged to, the Corporation, or any property mortgaged or pledged as security for any promissory note, or other evidence of indebtedness, which the Corporation has guaranteed or is obligated to purchase upon tender, shall, upon conviction thereof, if such property be of an amount or value in excess of $500, be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, and, if such property be of an amount or value of $500 or less, be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+Whoever shall willfully steal, conceal, remove, dispose of, or convert to his own use or to that of another any property owned or held by, or mortgaged or pledged to, the Corporation, or any property mortgaged or pledged as security for any promissory note, or other evidence of indebtedness, which the Corporation has guaranteed or is obligated to purchase upon tender, shall, upon conviction thereof, if such property be of an amount or value in excess of $500, bepunished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, and, if such property be of an amount or value of $500 or less, be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
 #### (d) Conspiracy to commit offense
 
@@ -22,7 +22,7 @@ All the general penal statutes relating to crimes and offenses against the Unite
 
 #### (f) Use of words “Commodity Credit Corporation”
 
-No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of amisdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of a misdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
 (June 29, 1948, ch. 704, §15, 62 Stat. 1074; June 7, 1949, ch. 175, §6, 63 Stat. 157; Aug. 1, 1956, ch. 815, §2, 70 Stat. 783.)
 

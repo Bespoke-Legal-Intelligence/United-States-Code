@@ -182,5 +182,5 @@ Section 2 of Pub. L. 101–453 provided that: “The purpose of this Act \[see S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 653.
+This section is referred to in title 2 section 658.
 

@@ -42,5 +42,5 @@
 
 &emsp;&emsp;(B) coordinate closely with other Department offices in the collection of data.
 
-(Pub. L. 103 382, title IV, §405, Oct. 20, 1994, 108 Stat. 4032.)
+(Pub. L. 103–382, title IV, §405, Oct. 20, 1994, 108 Stat. 4032.)
 

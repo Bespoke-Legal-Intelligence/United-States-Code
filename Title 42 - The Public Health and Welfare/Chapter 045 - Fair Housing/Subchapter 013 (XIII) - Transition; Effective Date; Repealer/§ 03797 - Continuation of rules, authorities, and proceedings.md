@@ -16,7 +16,7 @@ The Director of the Bureau of Justice Statistics may award new grants, enter int
 
 #### (d) Obligation by Administrator of Law Enforcement Assistance Administration of previously appropriated unused or reversionary funds or presently appropriated funds for continuation of projects or purposes of this chapter
 
-The Administrator of the Law Enforcement Assistance Administration may award new grants, enter into new contracts or cooperative agreements, approve comprehensive plans for the fiscal year beginning October 1, 1979, and otherwise obligate previously appropriated unused or reversionary funds or funds appropriated for the fiscal year beginning October 1, 1979, for the continuation of projects in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, or for purposes consistent with provisions of this chapter.
+The Administrator of the Law Enforcement Assistance Administration may award new grants, enter into new contracts or cooperative agreements, approve comprehensive plans for the fiscal year beginning October 1, 1979, and otherwise obligate previously appropriated unused or reversionary funds or funds appropriated for the fiscal year beginning October 1, 1979, for the continuation of projects in accordance withthe provisions of this chapter, as in effect on the day before December 27, 1979, or for purposes consistent with provisions of this chapter.
 
 #### (e) Pending suits, actions, or other proceedings unaffected
 
@@ -52,7 +52,7 @@ Subchapter V of this chapter, referred to in subsec. (h), was repealed and forme
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (i), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 5601 of this title and Tables.
 
-Section 3744(c)(3) of this title, referred to in subsec. (j), is a reference to section 3744(c)(3) of this title as in effect prior to the general amendment of section 3744 ofthis title by Pub. L. 98–473, and subsequent repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
+Section 3744(c)(3) of this title, referred to in subsec. (j), is a reference to section 3744(c)(3) of this title as in effect prior to the general amendment of section 3744 of this title by Pub. L. 98–473, and subsequent repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
 #### Amendments
 

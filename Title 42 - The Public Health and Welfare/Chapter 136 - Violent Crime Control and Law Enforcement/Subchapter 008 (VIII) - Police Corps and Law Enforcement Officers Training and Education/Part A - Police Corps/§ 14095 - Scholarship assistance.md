@@ -2,7 +2,7 @@
 
 #### (a) Scholarships authorized
 
-(1) The Director may award scholarships to participants who agree to work in a State orlocal police force in accordance with agreements entered into pursuant to subsection (d) of this section.
+(1) The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d) of this section.
 
 (2)(A) Except as provided in subparagraph (B), each scholarship payment made under this section for each academic year shall not exceed—
 

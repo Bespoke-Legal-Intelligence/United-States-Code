@@ -1,6 +1,6 @@
 ### §9102. Establishing and acquiring corporations
 
-An agency may establish or acquire a corporation to act as an agency only by or under a lawof the United States specifically authorizing the action.
+An agency may establish or acquire a corporation to act as an agency only by or under a law of the United States specifically authorizing the action.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1042.)
 

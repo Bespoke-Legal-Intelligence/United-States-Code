@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation may make a grant under this
 
 (b)
 
-Amounts of Grants.—The Secretary shall decide on the amount of a grant in a fiscal year to be made under this section to a State eligible to receive the grant in the fiscal year. However—
+Amounts of Grants.—The Secretary shall decide on the amount of a grant in a fiscal yearto be made under this section to a State eligible to receive the grant in the fiscal year. However—
 
 &emsp;(1) a grant to a State under this section shall be at least $100,000 in a fiscal year; and
 

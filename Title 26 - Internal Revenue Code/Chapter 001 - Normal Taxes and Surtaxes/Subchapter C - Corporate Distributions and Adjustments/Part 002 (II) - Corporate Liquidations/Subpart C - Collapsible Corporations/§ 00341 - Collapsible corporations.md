@@ -104,7 +104,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;&emsp;(C) if the shareholder owns more than 20 percent in value of the outstanding stock of the corporation and owns, or at any time during the preceding 3-year period owned, more than 20 percent in value of the outstanding stock of any other corporation more than 70 percent in value of the assets of which are, or were at any time during which such shareholder owned during such 3-year period more than 20 percent in value of the outstanding stock, assets similar or related in service or use to assets comprising more than 70 percent in value of the assets of the corporation, the net unrealized appreciation in assets of the corporation (other than assets described in subparagraph (A)) which would be subsection (e) assets under clauses (i) and (iii) of paragraph (5)(A) if the determination whether the property, in the hands of such shareholder, would be property gain from the sale or exchange of which would under any provision of this chapter be considered in whole or in part as ordinary income, were made—
 
-&emsp;&emsp;&emsp;(i) by treating any sale or exchange by such shareholder of stock in such othercorporation within the preceding 3-year period (but only if at the time of such sale or exchange the shareholder owned more than 20 percent in value of the outstanding stock in such other corporation) as a sale or exchange by such shareholder of his proportionate share of the assets of such other corporation, and
+&emsp;&emsp;&emsp;(i) by treating any sale or exchange by such shareholder of stock in such other corporation within the preceding 3-year period (but only if at the time of such sale or exchange the shareholder owned more than 20 percent in value of the outstanding stock in such other corporation) as a sale or exchange by such shareholder of his proportionate share of the assets of such other corporation, and
 
 &emsp;&emsp;&emsp;(ii) by treating any liquidating sale or exchange of property by such other corporation within such 3-year period (but only if at the time of such sale or exchange the shareholder owned more than 20 percent in value of the outstanding stock in such other corporation) as a sale or exchange by such shareholder of his proportionate share of the property sold or exchanged,
 
@@ -160,7 +160,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;&emsp;(B) all its liabilities at the close of such day.
 
-> &emsp;For purposes of this paragraph, the net worth of a corporation as of any day shall not takeinto account any increase in net worth during the one-year period ending on such day to the extent attributable to any amount received by it for stock, or as a contribution to capital or as paid-in surplus, if it appears that there was not a bona fide business purpose for the transaction in respect of which such amount was received.
+> &emsp;For purposes of this paragraph, the net worth of a corporation as of any day shall not take into account any increase in net worth during the one-year period ending on such day to the extent attributable to any amount received by it for stock, or as a contribution to capital or as paid-in surplus, if it appears that there was not a bona fide business purpose for the transaction in respect of which such amount was received.
 
 #### (8) Related person defined
 
@@ -226,7 +226,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (A) In general
 
-&emsp;&emsp;The term “subsection (f) asset” means any property which, as of the date of any sale of stock referred to in paragraph (1), is not a capital asset and is property owned by, or subject to an option to acquire held by, the consenting corporation. For purposes of this subparagraph, land or any interest in realproperty (other than a security interest), and unrealized receivables or fees (as defined in subsection (b)(4)), shall be treated as property which is not a capital asset.
+&emsp;&emsp;The term “subsection (f) asset” means any property which, as of the date of any sale of stock referred to in paragraph (1), is not a capital asset and is property owned by, or subject to an option to acquire held by, the consenting corporation. For purposes of this subparagraph, land or any interest in real property (other than a security interest), and unrealized receivables or fees (as defined in subsection (b)(4)), shall be treated as property which is not a capital asset.
 
 #### (B) Property under construction
 
@@ -290,11 +290,11 @@ Pub. L. 98–369, §43(c)(1), substituted “1254(a), and 1276(a)” for “and 
 
 Subsec. (f)(8). Pub. L. 98–369, §135(a), added par. (8).
 
-1982—Subsec. (a)(2). Pub. L. 97–248 designated existing provisions as subpars. (A) and (B), relating to complete and partial liquidation, respectively, of a collapsiblecorporation, in subpars. (A) and (B) as so designated, substituted “if such distribution” for “which distribution”, and in subpar. (B) as so designated, inserted “(within the meaning of section 302(e))” before “of a collapsible corporation” and substituted “under section 302(b)(4)” for “under this part”.
+1982—Subsec. (a)(2). Pub. L. 97–248 designated existing provisions as subpars. (A) and (B), relating to complete and partial liquidation, respectively, of a collapsible corporation, in subpars. (A) and (B) as so designated, substituted “if such distribution” for “which distribution”, and in subpar. (B) as so designated, inserted “(within the meaning of section 302(e))” before “of a collapsible corporation” and substituted “under section 302(b)(4)” for “under this part”.
 
 1981—Subsec. (c)(2)(B). Pub. L. 97–34 struck out “(and governmental obligations described in section 1221(5))” after “corporation”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1402(b)(1)(B), (2), 1901(b)(3)(I), in provisions following par. (3), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977 and “9 months” would be changed to “1 year” for taxable years beginning after Dec. 31, 1977, and substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+1976—Subsec. (a). Pub. L. 94–455, §§1402(b)(1)(B), (2), 1901(b)(3)(I), in provisions following par. (3), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977 and “9 months” would be changed to “1 year” for taxable years beginningafter Dec. 31, 1977, and substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
 
 Subsec. (e)(1)(C), (5)(A), (6)(D). Pub. L. 94–455, §1901(b)(3)(A), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231(b)” wherever appearing.
 
@@ -384,7 +384,7 @@ Section 20(b) of Pub. L. 85–866 provided that: “The amendment made by subsec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

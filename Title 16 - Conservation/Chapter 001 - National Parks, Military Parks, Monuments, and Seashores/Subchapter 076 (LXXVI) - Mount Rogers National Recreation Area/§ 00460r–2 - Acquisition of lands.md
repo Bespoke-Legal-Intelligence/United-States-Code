@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, any Federal property located within 
 
 #### (c) Exchange of property
 
-In exercising his authority to acquire lands by exchange the Secretary may accept title to non-Federal property within the recreation area and convey to the grantor of such property any federally owned property in the State of Virginia under his jurisdiction.
+In exercising his authority to acquire lands by exchange the Secretary may accept title to non-Federal property within the recreation area andconvey to the grantor of such property any federally owned property in the State of Virginia under his jurisdiction.
 
 (Pub. L. 89–438, §3, May 31, 1966, 80 Stat. 190.)
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–317, §204(e)(1), substituted provisions authorizing appropriations for thischapter of $10,000,000 for fiscal year 1976, $12,000,000 for fiscal year 1977, and $14,000,000 for fiscal year 1978 for provisions authorizing appropriations for subchapter I of this chapter not to exceed $3,330,000 for fiscal year 1971, $6,660,000 for fiscal year 1972, and $25,000,000 for each of fiscal years 1974 and 1975.
+1976—Subsec. (a). Pub. L. 94–317, §204(e)(1), substituted provisions authorizing appropriations for this chapter of $10,000,000 for fiscal year 1976, $12,000,000 for fiscal year 1977, and $14,000,000 for fiscal year 1978 for provisions authorizing appropriations for subchapter I of this chapter not to exceed $3,330,000 for fiscal year 1971, $6,660,000 for fiscal year 1972, and $25,000,000 for each of fiscal years 1974 and 1975.
 
 Subsec. (b). Pub. L. 94–317, §204(e)(1), (2), redesignated subsec. (d) as (b). Former subsec. (b), which provided authorization of appropriations for subchapter II of this chapter not to exceed $5,000,000 for fiscal year 1971, $10,000,000 for fiscal year 1972, and $35,000,000 for each of fiscal years 1974 and 1975, was struck out.
 

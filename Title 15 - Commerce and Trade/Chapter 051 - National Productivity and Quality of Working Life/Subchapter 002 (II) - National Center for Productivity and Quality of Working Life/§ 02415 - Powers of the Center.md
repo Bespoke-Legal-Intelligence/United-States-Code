@@ -12,5 +12,5 @@ In carrying out its functions, the Center is authorized—
 
 &emsp;(5) to undertake such other studies, reviews, activities, and to make such recommendations and reports as may be required to carry out the functions of the Center.
 
-(Pub. L. 94 136, title II, §205, Nov. 28, 1975, 89 Stat. 739.)
+(Pub. L. 94–136, title II, §205, Nov. 28, 1975, 89 Stat. 739.)
 

@@ -24,7 +24,7 @@ The membership roll of the tribe is established and open.
 
 (3) After the first election of the members of the tribal governing body is held pursuant to section 713d(d) of this title, the provisions of the constitution and bylaws adopted in accordance with section 713d(a) of this title shall govern the verification of any requirements for membership in the tribe. The Interim Council and the Secretary shall deliver their records and files and any other material relating to the enrollment of tribal members to such tribal governing body.
 
-(4) Not less than sixty days before the election under section 713d(a) of this title, the Secretary shall publish in the Federal Register a certified copy of the membership roll of the tribe as ofthe date of such publication. Such membership roll shall include the names of all individuals who were enrolled by the Secretary, either directly under paragraph (1) or pursuant to an appeal under paragraph (2), and by the Interim Council under paragraph (2).
+(4) Not less than sixty days before the election under section 713d(a) of this title, the Secretary shall publish in the Federal Register a certified copy of the membership roll of the tribe as of the date of such publication. Such membership roll shall include the names of all individuals who were enrolled by the Secretary, either directly under paragraph (1) or pursuant to an appeal under paragraph (2), and by the Interim Council under paragraph (2).
 
 #### (d) Voting rights of member
 

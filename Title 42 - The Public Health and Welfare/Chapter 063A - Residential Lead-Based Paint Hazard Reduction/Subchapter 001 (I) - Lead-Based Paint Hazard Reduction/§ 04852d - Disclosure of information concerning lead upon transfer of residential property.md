@@ -40,7 +40,7 @@
 
 #### (1) Monetary penalty
 
-&emsp;Any person who knowingly violates any provision of this section shall be subject to civilmoney penalties in accordance with the provisions of section 3545 of this title.
+&emsp;Any person who knowingly violates any provision of this section shall be subject to civil money penalties in accordance with the provisions of section 3545 of this title.
 
 #### (2) Action by Secretary
 

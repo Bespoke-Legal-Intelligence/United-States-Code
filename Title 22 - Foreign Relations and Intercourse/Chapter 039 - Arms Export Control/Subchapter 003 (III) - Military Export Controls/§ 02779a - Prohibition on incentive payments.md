@@ -10,7 +10,7 @@ Any person who violates the provisions of this section shall be subject to the i
 
 #### (c) Presidential authority
 
-In the enforcement of this section, the President is authorized to exercise the same powersconcerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979 \[50 App. U.S.C. 2410(c), (d), (e), (f)\], and section 12(a) of such Act \[50 App. U.S.C. 2411(a)\], subject to the same terms and conditions as are applicable to such powers under that Act \[50 App. U.S.C. 2401 et seq.\], except that notwithstanding section 11(c) of that Act \[50 App. U.S.C. 2410(c)\], the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
+In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979 \[50 App. U.S.C. 2410(c), (d), (e), (f)\], and section 12(a) of such Act \[50 App. U.S.C. 2411(a)\], subject to the same terms and conditions as are applicable to such powers under that Act \[50 App. U.S.C. 2401 et seq.\], except that notwithstanding section 11(c) of that Act \[50 App. U.S.C. 2410(c)\], the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
 
 #### (d) Definitions
 

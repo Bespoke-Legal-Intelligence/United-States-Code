@@ -134,7 +134,7 @@ For delegation to Secretary of the Treasury of authority vested in President, se
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting“at least 15 years” for “at least 20 years” in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting “at least 15 years” for “at least 20 years” in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
 
 #### Cross References
 

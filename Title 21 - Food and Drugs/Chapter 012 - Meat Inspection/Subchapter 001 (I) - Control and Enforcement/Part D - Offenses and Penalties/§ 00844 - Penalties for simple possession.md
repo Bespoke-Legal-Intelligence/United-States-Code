@@ -36,5 +36,5 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 841, 844a, 885 of this title; title 18 sections 3553, 3607.
+This section is referred to in sections 841, 844a, 885 of this title; title 18 sections 3553, 3607; title 42 section 14052.
 

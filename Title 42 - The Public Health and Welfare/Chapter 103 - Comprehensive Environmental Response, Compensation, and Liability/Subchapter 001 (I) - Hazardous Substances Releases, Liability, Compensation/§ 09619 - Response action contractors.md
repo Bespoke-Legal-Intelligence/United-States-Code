@@ -78,7 +78,7 @@
 
 #### (ii) Conditions
 
-&emsp;&emsp;&emsp;The President may pay a claim under an indemnification agreement referred to in clause (i) for the amount determined under clause (i) only if the contractor has exhausted all administrative, judicial, and common law claims for indemnification against all potentially responsible partiesparticipating in the clean-up of the facility with respect to the liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. Such indemnification agreement shall require such contractor to pay any deductible established under subparagraph (B) before the contractor may recover any amount from the potentially responsible party or under the indemnification agreement.
+&emsp;&emsp;&emsp;The President may pay a claim under an indemnification agreement referred to in clause (i) for the amount determined under clause (i) only if the contractor has exhausted all administrative, judicial, and common law claims for indemnification against all potentially responsible parties participating in the clean-up of the facility with respect to the liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. Such indemnification agreement shall require such contractor to pay any deductible established under subparagraph (B) before the contractor may recover any amount from the potentially responsible party or under the indemnification agreement.
 
 #### (D) RCRA facilities
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (1) Response action contract
 
-&emsp;The term “response action contract” means any written contract or agreement entered into by a response action contractor (as defined in paragraph (2)(A) of this subsection) with—
+&emsp;The term “response action contract” means any written contract or agreement enteredinto by a response action contractor (as defined in paragraph (2)(A) of this subsection) with—
 
 &emsp;&emsp;(A) the President;
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (f) Competition
 
-Response action contractors and subcontractors for program management, constructionmanagement, architectural and engineering, surveying and mapping, and related services shall be selected in accordance with title IX of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 541 et seq.\]. The Federal selection procedures shall apply to appropriate contracts negotiated by all Federal governmental agencies involved in carrying out this chapter. Such procedures shall be followed by response action contractors and subcontractors.
+Response action contractors and subcontractors for program management, construction management, architectural and engineering, surveying and mapping, and related services shall be selected in accordance with title IX of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 541 et seq.\]. The Federal selection procedures shall apply to appropriate contracts negotiated by all Federal governmental agencies involved in carrying out this chapter. Such procedures shall be followed by response action contractors and subcontractors.
 
 #### (g) Surety bonds
 
@@ -162,7 +162,7 @@ Response action contractors and subcontractors for program management, construct
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generallyto chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
 

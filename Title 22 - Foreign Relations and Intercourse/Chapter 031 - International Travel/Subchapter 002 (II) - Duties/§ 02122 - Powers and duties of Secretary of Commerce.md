@@ -4,7 +4,7 @@ In order to carry out the national tourism policy established by section 2121(b)
 
 &emsp;(1) develop, plan, and carry out a comprehensive program designed to stimulate and encourage travel to the United States by residents of foreign countries for the purpose of study, culture, recreation, business, and other activities as a means of promoting friendly understanding and good will among peoples of foreign countries and of the United States;
 
-&emsp;(2) provide export promotion services that will increase the number of States, local governments (as defined in section 3371(2) of title 5), and companies in the United States that sell their tourism services in the international market, expand the number of foreign markets in which exporting States, cities, and companies are active, and inform States, cities, andcompanies in the United States regarding the specialized services the international market requires;
+&emsp;(2) provide export promotion services that will increase the number of States, local governments (as defined in section 3371(2) of title 5), and companies in the United States that sell their tourism services in the international market, expand the number of foreign markets in which exporting States, cities, and companies are active, and inform States, cities, and companies in the United States regarding the specialized services the international market requires;
 
 &emsp;(3) encourage the development of receptive, linguistic, informational, currency exchange, meal, and package tour services required by the international market;
 

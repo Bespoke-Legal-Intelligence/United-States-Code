@@ -40,23 +40,23 @@ The Secretary shall take such action as the Secretary determines appropriate to 
 
 The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
 
-(Pub. L. 90 247, title IV, §445, formerly §439, as added Pub. L. 93 380, title V, §514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95 561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103 227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103 382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21,1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 #### Prior Provisions
 
-A prior section 445 of Pub. L. 90 247 was classified to section 1233d of this title prior to repeal by Pub. L. 103 382.
+A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this title prior to repeal by Pub. L. 103–382.
 
 #### Amendments
 
-1994—Pub. L. 103 227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
+1994—Pub. L. 103–227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
 
-1978—Pub. L. 95 561 designated existing provisions as subsec. (a) and added subsec. (b).
+1978—Pub. L. 95–561 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95 561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95 561, set out as a note under section 1221e 3 of this title.
+Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as a note under section 1221e–3 of this title.
 
 #### Effective Date
 
-Section 514(b) of Pub. L. 93 380 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
+Section 514(b) of Pub. L. 93–380 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
 

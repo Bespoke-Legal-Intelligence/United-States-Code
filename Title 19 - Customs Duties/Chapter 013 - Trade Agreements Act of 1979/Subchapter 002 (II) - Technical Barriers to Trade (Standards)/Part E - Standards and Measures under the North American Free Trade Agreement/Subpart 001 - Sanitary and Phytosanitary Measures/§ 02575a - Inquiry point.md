@@ -1,4 +1,4 @@
-### §2575a . Inquiry point
+### §2575a. Inquiry point
 
 The standards information center maintained under section 2544 of this title shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 

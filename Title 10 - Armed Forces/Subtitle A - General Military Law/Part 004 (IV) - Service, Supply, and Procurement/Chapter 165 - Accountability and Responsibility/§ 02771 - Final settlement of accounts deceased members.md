@@ -130,6 +130,8 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §8(
 
 #### Transfer of Functions
 
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
 #### Final Settlement of Accounts of Members Who Died Before January 1, 1960

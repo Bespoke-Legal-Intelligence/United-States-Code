@@ -1,0 +1,318 @@
+### §1506. General powers
+
+#### (a) Succession
+
+The Corporation shall have succession in its corporate name.
+
+#### (b) Corporate seal
+
+The Corporation may adopt, alter, and use a corporate seal, which shall be judicially noticed.
+
+#### (c) Property
+
+The Corporation may purchase or lease and hold such real and personal property as it deems necessary or convenient in the transaction of its business, and may dispose of such property held by it upon such terms as it deems appropriate.
+
+#### (d) Suit
+
+The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+
+#### (e) Bylaws and regulations
+
+The Corporation may adopt, amend, and repeal bylaws, rules, and regulations governing the manner in which its business may be conducted and the powers granted to it by law may be exercised and enjoyed.
+
+#### (f) Mails
+
+The Corporation shall be entitled to the use of the United States mails in the same manner as the other executive agencies of the Government.
+
+#### (g) Assistance
+
+The Corporation, with the consent of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this chapter.
+
+#### (h) Data collection
+
+The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+
+#### (i) Expenditures
+
+The Corporation shall determine the character and necessity for its expenditures under this chapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing the expenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
+
+#### (j) Settling claims
+
+The Corporation shall have the authority to make final and conclusive settlement and adjustment of any claim by or against the Corporation or a fiscal officer of the Corporation.
+
+#### (k) Other powers
+
+The Corporation shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation and all such incidental powers as are customary in corporations generally.
+
+#### (<i>l</i>) Contracts
+
+The Corporation may enter into and carry out contracts or agreements, and issue regulations, necessary in the conduct of its business, as determined by the Board. State and local laws or rules shall not apply to contracts, agreements, or regulations of the Corporation or the parties thereto to the extent that such contracts, agreements, or regulations provide that such laws or rules shall not apply, or to the extent that such laws or rules are inconsistent with such contracts, agreements, or regulations.
+
+#### (m) Submission of certain information
+
+#### (1) Social security account and employer identification numbers
+
+&emsp;The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) <sup>1</sup> of title 42, and employer identification numbers, subject to the requirements of section 6109(f) of title 26.
+
+#### (2) Notification by policyholders
+
+&emsp;Each policyholder shall notify each individual or other entity that acquires or holds a substantial beneficial interest in such policyholder of the requirements and limitations under this chapter.
+
+#### (3) Identification of holders of substantial interests
+
+&emsp;The Manager of the Corporation may require each policyholder to provide to the Manager, at such times and in such manner as prescribed by the Manager, the name of each individual that holds or acquires a substantial beneficial interest in the policyholder.
+
+#### (4) “Substantial beneficial interest” defined
+
+&emsp;For purposes of this subsection, the term “substantial beneficial interest” means not less than 5 percent of all beneficial interests in the policyholder.
+
+#### (n) Penalties
+
+#### (1) False information
+
+&emsp;If a person willfully and intentionally provides any false or inaccurate information to the Corporation or to any insurer with respect to an insurance plan or policy under this chapter, the Corporation may, after notice and an opportunity for a hearing on the record—
+
+&emsp;&emsp;(A) impose a civil fine of not to exceed $10,000 on the person; and
+
+&emsp;&emsp;(B) disqualify the person from purchasing catastrophic risk protection or receiving noninsured assistance for a period of not to exceed 2 years, or from receiving any other benefit under this chapter for a period of not to exceed 10 years.
+
+#### (2) Assessment of penalty
+
+&emsp;In assessing penalties under this subsection, the Corporation shall consider the gravity of the violation.
+
+#### (<i>o</i>) Actuarial soundness
+
+#### (1) Projected loss ratio as of October 1, 1995
+
+&emsp;The Corporation shall take such actions as are necessary to improve the actuarial soundness of Federal multiperil crop insurance coverage made available under this chapter to achieve, on and after October 1, 1995, an overall projected loss ratio of not greater than 1.1, including—
+
+&emsp;&emsp;(A) instituting appropriate requirements for documentation of the actual production history of insured producers to establish recorded or appraised yields for Federal crop insurance coverage that more accurately reflect the associated actuarial risk, except that the Corporation may not carry out this paragraph in a manner that would prevent beginning farmers (as defined by the Secretary) from obtaining Federal crop insurance;
+
+&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area inwhich the farm of the insured producer is located;
+
+&emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers, agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
+
+&emsp;&emsp;(D) taking any other measures authorized by law to improve the actuarial soundness of the Federal crop insurance program while maintaining fairness and effective coverage for agricultural producers.
+
+#### (2) Projected loss ratio as of October 1, 1998
+
+&emsp;The Corporation shall take such actions, including the establishment of adequate premiums, as are necessary to improve the actuarial soundness of Federal multiperil crop insurance made available under this chapter to achieve, on and after October 1, 1998, an overall projected loss ratio of not greater than 1.075.
+
+#### (3) Nonstandard classification system
+
+&emsp;To the extent that the Corporation uses the nonstandard classification system, the Corporation shall apply the system to all insured producers in a fair and consistent manner.
+
+#### (p) Regulations
+
+The Secretary and the Corporation are each authorized to issue such regulations as are necessary to carry out this chapter.
+
+#### (q) Program compliance
+
+#### (1) Timeliness
+
+&emsp;The Corporation shall work actively with approved insurance providers to address program compliance and integrity issues as the issues develop.
+
+#### (2) Notification of compliance problems
+
+&emsp;The Corporation shall notify in writing any approved insurance provider with whom the Corporation has an agreement under this chapter of any error, omission, or failure to follow Corporation regulations or procedures for which the approved insurance provider may be responsible and which may result in a debt owed the Corporation. The notice shall be given within 3 years of the end of the insurance period during which the error, omission, or failure is alleged to have occurred, except that this time limit shall not apply with respect to errors, omissions, or procedural violations that are willful or intentional. The failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
+
+#### (r) Purchase of American-made equipment and products
+
+#### (1) Sense of Congress
+
+&emsp;It is the sense of Congress that, to the greatest extent practicable, all equipment and products purchased by the Corporation using funds made available to the Corporation should be American-made.
+
+#### (2) Notice requirement
+
+&emsp;In providing financial assistance to, or entering into any contract with, any entity for the purchase of equipment and products to carry out this chapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
+
+(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Sept. 26, 1980, Pub. L. 96–365, title I, §§103, 107(a), 94 Stat. 1313, 1317; Nov. 28, 1990, Pub. L. 101–624, title XXII, §§2201(a), 2202, 104 Stat. 3951, 3954; Dec. 13, 1991, Pub. L. 102–237, title VI, §601(1), (2), 105 Stat. 1878; Aug. 10, 1993, Pub. L. 103–66, title XIV, §1403(a), 107 Stat. 333; Oct. 13, 1994, Pub. L. 103–354, title I, §§104, 119(f)(1), 108 Stat. 3181, 3208.)
+
+#### References in Text
+
+Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
+
+#### Amendments
+
+1994—Subsec. (d). Pub. L. 103–354, §119(f)(1), substituted “1508(j)” for “1508(f)” in first sentence.
+
+Subsec. (j). Pub. L. 103–354, §104(2), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 103–354, §104(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l).</i>
+
+Subsec. (<i>l</i>). Pub. L. 103–354, §104(1), (3), redesignated subsec. (k) as (<i>l</i>), in first sentence inserted “, and issue regulations,” after “agreements”, and in second sentence substituted “contracts, agreements, or regulations” for “contracts or agreements” wherever appearing. Former subsec. (<i>l</i>) redesignated (m).
+
+Subsec. (m). Pub. L. 103–354, §104(1), redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+
+Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o).</i>
+
+Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
+
+Subsec. (<i>o</i>). Pub. L. 103–354, §104(1), (5)(B), redesignated subsec. (n) as (<i>o</i>) and reenacted heading without change.
+
+Subsec. (<i>o</i>)(1). Pub. L. 103–354, §104(5)(B), designated existing provisions as par. (1) and inserted heading. Former par. (1) redesignated subpar. (A).
+
+Subsec. (<i>o</i>)(1)(A). Pub. L. 103–354, §104(5)(A), (C), redesignated former par. (1) as subpar. (A) and substituted “(as defined by the Secretary) from obtaining Federal crop insurance” for “from obtaining adequate Federal crop insurance, as determined by the Corporation”.
+
+Subsec. (<i>o</i>)(1)(B). Pub. L. 103–354, §104(5)(A), redesignated former par. (2) as subpar. (B).
+
+Subsec. (<i>o</i>)(1)(C). Pub. L. 103–354, §104(5)(A), (D), redesignated former par. (3) as subpar. (C) and inserted “, agents, and loss adjusters” after “participating producers” and after “identify insured producers”.
+
+Subsec. (<i>o</i>)(1)(D). Pub. L. 103–354, §104(5)(A), redesignated former par. (4) as subpar. (D).
+
+Subsec. (<i>o</i>)(2) to (4). Pub. L. 103–354, §104(5)(A), (E), added pars. (2) and (3) and redesignated former pars. (2) to (4) as subpars. (B) to (D), respectively, of par. (1) and realigned their margins.
+
+Subsecs. (p) to (r). Pub. L. 103–354, §104(6), added subsecs. (p) to (r).
+
+1993—Subsec. (n). Pub. L. 103–66 added subsec. (n).
+
+1991—Subsec. (d). Pub. L. 102–237, §601(1), substituted “section 1508(f)” for “section 1508(c)” and a period for semicolon at end.
+
+Subsec. (m)(1). Pub. L. 102–237, §601(2), in introductory provisions substituted “willfully” for “wilfully” and in subpar. (A) struck out “to” after “exceed”.
+
+1990—Pub. L. 101–624, §2202(b)(1), substituted “General powers” for “General powers of Corporation” as section catchline and struck out “The Corporation—” before subsec. (a).
+
+Subsec. (a). Pub. L. 101–624, §2202(b)(2), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+
+Subsec. (b). Pub. L. 101–624, §2202(b)(3), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+
+Subsec. (c). Pub. L. 101–624, §2202(b)(4), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+
+Subsec. (d). Pub. L. 101–624, §2202(b)(5), inserted heading and “The Corporation,”.
+
+Subsec. (e). Pub. L. 101–624, §2202(b)(6), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+
+Subsec. (f). Pub. L. 101–624, §2202(b)(7), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+
+Subsec. (g). Pub. L. 101–624, §2202(b)(8), (13), inserted heading and “The Corporation,” and substituted period for semicolon at end.
+
+Subsec. (h). Pub. L. 101–624, §2202(b)(9), (13), inserted heading and “The Corporation” and substituted period for semicolon at end.
+
+Subsec. (i). Pub. L. 101–624, §2202(b)(10), (14), inserted heading and “The Corporation” and substituted period for “; and” at end.
+
+Subsec. (j). Pub. L. 101–624, §2202(b)(11), (14), inserted heading and “The Corporation” and substituted period for “; and” at end.
+
+Subsec. (k). Pub. L. 101–624, §2202(b)(12), inserted heading and “The Corporation”.
+
+Subsec. (<i>l</i>). Pub. L. 101–624, §2201(a), added subsec. (<i>l).</i>
+
+Subsec. (m). Pub. L. 101–624, §2202(a), added subsec. (m).
+
+1980—Subsec. (c). Pub. L. 96–365, §103(1), substituted “may purchase” for “may make contracts and purchase”. See subsec. (k) of this section.
+
+Subsec. (d). Pub. L. 96–365, §103(2), substituted provision granting exclusive original jurisdiction to district courts of the United States, including district courts of the District of Columbia and of any territory or possession, for prior grant to any State court of record having general jurisdiction or any United States district court, authorized intervention by the Corporation in proceedings, and required suits against the Corporation to be brought in the District of Columbia or in district wherein plaintiff resides or is engaged in business.
+
+Subsec. (f). Pub. L. 96–365, §103(3), substituted “use of the United States mails” for “free use of the United States mails”.
+
+Subsec. (h). Pub. L. 96–365, §107(a), struck out authority for conducting researches, surveys, and investigations relating to crop insurance. See section 1508(i) of this title.
+
+Subsec. (k). Pub. L. 96–365, §103(4), added subsec. (k).
+
+1949—Subsec. (h). Act Aug. 25, 1949, struck out obsolete language and included authority for a study of the possibility of developing some type of livestock insurance.
+
+1947—Subsec. (d). Act Aug. 1, 1947, provided for suits in State courts of general jurisdiction or in United States district courts regardless of amount in controversy.
+
+1941—Subsec. (h). Act June 21, 1941, substituted “and preparatory to the application of the chapter to other basic commodities when so provided by law, shall assemble data relative to field corn, for the purpose of establishing a satisfactory actuarial basis for such commodity” for “for wheat and other agricultural commodities.”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
+
+#### Effective Date of 1993 Amendment
+
+Section 1403(c)(1) of Pub. L. 103–66 provided that: “Except as provided in paragraph (2), this section \[amending this section and sections 1508 and 1508a of this title\] and the amendments made by this section shall become effective on October 1, 1993.”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. L. 96–365, set out as a note under section 1504 of this title.
+
+#### Regulations
+
+Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\].”
+
+#### Transfer of Functions
+
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
+
+#### Crop Insurance Provider Evaluation
+
+Section 118 of Pub. L. 103–354 provided that:
+
+“(a)
+
+In General.—The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the ‘Corporation’) shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+
+“(b)
+
+Collection of Information and Proposals.—The Corporation shall require private insurance providers and agents to supply, and the private insurance providers and agents shall supply, records and information necessary to make the determinations and evaluations required under this section. The Corporation shall solicit from the approved insurance providers and agents proposals for modifying or altering the requirements, regulations, procedures, and processes related to implementing the Federal Crop Insurance Act to reduce the operating and administrative costs of the providers and agents.
+
+“(c)
+
+Initial Report.—Not later than 180 days after receipt of information and cost-reduction proposals under subsection (b), the Corporation shall evaluate the information and proposals obtained and report the results of the evaluation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+“(d)
+
+Final Report.—Not later than 2 years after the date of enactment of this Act \[Oct. 13, 1994\], the Comptroller General and the Corporation shall submit a final report that provides the evaluation required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. In making the evaluation, the Comptroller General and the Corporation shall—
+
+&emsp;“(1) consider the changes made by the Corporation in response to increased program participation resulting from the enactment of this Act;
+
+&emsp;“(2) include an evaluation and opinion of the accuracy and reasonableness of—
+
+&emsp;&emsp;“(A) the average actual costs for approved insurance providers to deliver multiple peril crop insurance;
+
+&emsp;&emsp;“(B) the cost per policy of complying with the requirements, regulations, procedures, and processes of the Federal Crop Insurance Act;
+
+&emsp;&emsp;“(C) the cost differences for various provider firm sizes and any business delivered by the Federal Government;
+
+&emsp;&emsp;“(D) the adequacy of the standard reimbursement for potential new providers; and
+
+&emsp;&emsp;“(E) the identification of any new costs related to the enactment of this Act not previously identified in the information reported by the providers;
+
+&emsp;“(3) compare delivery costs of multiple peril crop insurance to other insurance coverages that the provider may sell and determine the extent, if any, to which any funds provided to carry out the Federal Crop Insurance Act are being used to fund any other business enterprise operated by the provider;
+
+&emsp;“(4)(A) assess alternative methods for reimbursing providers for reasonable and necessary expenses associated with delivery of multiple peril crop insurance;
+
+&emsp;“(B) recommend changes under this paragraph that reasonably demonstrate the need to achieve the greatest operating efficiencies on the part of the provider and the Corporation has been recognized; and
+
+&emsp;“(C) identify areas for improved operating efficiencies, if any, in the requirements made by the Corporation for compliance and program integrity;
+
+&emsp;“(5) assess the potential for alternative forms of reinsurance arrangements for providers of different firm sizes, taking into consideration—
+
+&emsp;&emsp;“(A) the need to achieve a reasonable return on the capital of the provider compared to other lines of insurance;
+
+&emsp;&emsp;“(B) the relative risk borne by the provider for the different lines of insurance;
+
+&emsp;&emsp;“(C) the availability and price of commercial reinsurance; and
+
+&emsp;&emsp;“(D) any additional costs that may be incurred by the Federal Government in carrying out the Federal Crop Insurance Act; and
+
+&emsp;“(6) include an analysis of the effect of the current or proposed reinsurance arrangements on providers having different business levels.
+
+“(e)
+
+Information.—
+
+&emsp;“(1)
+
+Privacy.—In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information.
+
+&emsp;“(2)
+
+Subpoenas.—The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information.”
+
+#### Cross References
+
+Amount in controversy, generally, see section 1332 of Title 28, Judiciary and Judicial Procedure.
+
+Amount in controversy immaterial in action arising under Act regulating commerce, see section 1337 of Title 28.
+
+Jurisdiction of district court of action by corporation organized under federal law, see section 1349 of Title 28.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1521 of this title; title 26 section 6109; title 42 section 405.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

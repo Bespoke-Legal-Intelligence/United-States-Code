@@ -2,7 +2,7 @@
 
 (a) Current applicable appropriations of the Department of Defense may be credited with proceeds of the disposals of supplies that are not financed by stock funds established under section 2208 of this title.
 
-(b) Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursements to stock funds in such amounts and for such period as the Secretary ofDefense, with the approval of the President, may determine to be necessary to maintain stock levels consistently with planned operations for the next fiscal year.
+(b) Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursements to stock funds in such amounts and for such period as the Secretary of Defense, with the approval of the President, may determine to be necessary to maintain stock levels consistently with planned operations for the next fiscal year.
 
 (Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, §511(72), Dec. 12, 1980, 94 Stat. 2926.)
 

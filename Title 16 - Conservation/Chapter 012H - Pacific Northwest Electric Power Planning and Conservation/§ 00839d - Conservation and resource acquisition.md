@@ -80,7 +80,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 #### (e) Effectuation of priorities; use of customers and local entities
 
-(1) In order to effectuate the priority given to conservation measures and renewable resources under this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
+(1) In order to effectuate the priority given to conservation measures and renewable resourcesunder this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
 
 (2) To the extent conservation measures or acquisition of resources require direct arrangements with consumers, the Administrator shall make maximum practicable use of customers and local entities capable of administering and carrying out such arrangements.
 
@@ -114,7 +114,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 (1) If a customer so requests, the Administrator shall grant billing credits to such customer, and provide services to such customer at rates established for such services, for—
 
-&emsp;(A) conservation activities independently undertaken or continued after December 5,1980, by such customer or political subdivision served by such customer which reduce the obligation of the Administrator that would otherwise have existed to acquire other resources under this chapter, or
+&emsp;(A) conservation activities independently undertaken or continued after December 5, 1980, by such customer or political subdivision served by such customer which reduce the obligation of the Administrator that would otherwise have existed to acquire other resources under this chapter, or
 
 &emsp;(B) resources constructed, completed, or acquired after December 5, 1980, by a customer, an entity acting on behalf of such customer, or political subdivision served by the customer which reduce the obligation of the Administrator to acquire resources under this chapter. Such resources shall be renewable resources or multipurpose projects or other resources which are not inconsistent with the plan or, in the absence of a plan, not inconsistent with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
 
@@ -156,7 +156,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 #### (k) Equitable distribution of benefits
 
-In the exercise of his authorities pursuant to this section, the Administrator shall, consistentwith the provisions of this chapter and the Administrator's obligations to particular customer classes, insure that benefits under this section, including financial and technical assistance, conduct of conservation demonstrations, and experimental projects, services, and billing credits, are distributed equitably throughout the region.
+In the exercise of his authorities pursuant to this section, the Administrator shall, consistent with the provisions of this chapter and the Administrator's obligations to particular customer classes, insure that benefits under this section, including financial and technical assistance, conduct of conservation demonstrations, and experimental projects, services, and billing credits, are distributed equitably throughout the region.
 
 #### (<i>l</i>) Investigations
 
@@ -164,7 +164,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (2) The Administrator is authorized and directed to investigate periodically opportunities for mutually beneficial interregional exchanges of electric power that reduce the need for additional generation or generating capacity in the Pacific Northwest and the regions with which such exchanges may occur. The Council shall take into consideration in formulating a plan such investigations.
 
-(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of this subsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
+(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of thissubsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 

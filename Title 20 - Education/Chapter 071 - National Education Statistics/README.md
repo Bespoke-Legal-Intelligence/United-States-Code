@@ -60,7 +60,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this chapter were contained in section 1221e 1 of this title prior to repeal by Pub. L. 103 382, §212(a)(1).
+Provisions similar to those in this chapter were contained in section 1221e–1 of this title prior to repeal by Pub. L. 103–382, §212(a)(1).
 
 
 ---

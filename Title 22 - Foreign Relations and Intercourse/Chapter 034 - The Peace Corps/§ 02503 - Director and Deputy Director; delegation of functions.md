@@ -20,7 +20,7 @@ The President may exercise any functions vested in him by this chapter through t
 
 #### (d) Prohibition on performance of services more usefully performed by other agencies
 
-Except with the approval of the Secretary of State, the Peace Corps shall not be assigned to perform services which could more usefully be performed by other available agencies of the United States Government in the country concerned.
+Except with the approval of the Secretary of State, the Peace Corps shall not be assigned to perform services which could more usefully be performed by other available agencies of theUnited States Government in the country concerned.
 
 (Pub. L. 87–293, title I, §4, Sept. 22, 1961, 75 Stat. 612; Pub. L. 88–426, title III, §305(27), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–352, §2, July 24, 1970, 84 Stat. 464; Pub. L. 97–113, title VI, §601(d)(1), Dec. 29, 1981, 95 Stat. 1541.)
 
@@ -30,7 +30,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vested in him under this chapter through the Director of thePeace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
+1981—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vested in him under this chapter through the Director of the Peace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
 
 1970—Subsec. (c). Pub. L. 91–352 added par. (4).
 

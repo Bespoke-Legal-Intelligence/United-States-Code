@@ -1,4 +1,4 @@
-### §5589 . Regular Navy and Regular Marine Corps: officers designated for limited duty
+### §5589. Regular Navy and Regular Marine Corps: officers designated for limited duty
 
 (a) Original appointments as regular officers of the Navy in a grade below lieutenant commander in the line and in staff corps established by the Secretary of the Navy under section 5150(b) of this title and designated by the Secretary for the purposes of this section may be made from—
 
@@ -48,7 +48,7 @@
 
 (g) The Secretary shall prescribe regulations for the appointment, designation, and assignment of officers under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 326; Aug. 3, 1961, Pub. L. 87–123, §5(10), 75 Stat. 265; Dec. 12, 1980, Pub. L. 96–513, title III, §325, 94 Stat. 2893; Oct. 1, 1986, Pub. L. 99–433, title V, §514(c)(3), 100 Stat. 1055; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §502, 108 Stat. 2748.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 326; Aug. 3, 1961, Pub. L. 87–123, §5(10), 75 Stat. 265; Dec. 12, 1980,Pub. L. 96–513, title III, §325, 94 Stat. 2893; Oct. 1, 1986, Pub. L. 99–433, title V, §514(c)(3), 100 Stat. 1055; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §502, 108 Stat. 2748.)
 
 Historical and Revision Notes
 

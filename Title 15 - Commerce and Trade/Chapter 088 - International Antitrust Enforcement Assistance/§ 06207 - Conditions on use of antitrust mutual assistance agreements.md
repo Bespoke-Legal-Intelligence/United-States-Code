@@ -22,7 +22,7 @@ Neither the Attorney General nor the Commission may disclose in violation of an 
 
 If the Attorney General or the Commission receives a notice described in section 6211(2)(H) of this title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
 
-(Pub. L. 103 438, §8, Nov. 2, 1994, 108 Stat. 4601.)
+(Pub. L. 103–438, §8, Nov. 2, 1994, 108 Stat. 4601.)
 
 #### Section Referred to in Other Sections
 

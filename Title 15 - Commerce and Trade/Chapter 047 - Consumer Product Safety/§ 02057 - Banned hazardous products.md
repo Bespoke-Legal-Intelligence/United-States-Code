@@ -8,15 +8,15 @@ Whenever the Commission finds that—
 
 > the Commission may, in accordance with section 2058 of this title, promulgate a rule declaring such product a banned hazardous product.
 
-(Pub. L. 92 573, §8, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 97 35, title XII, §1203(c), Aug. 13, 1981, 95 Stat. 713.)
+(Pub. L. 92–573, §8, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 97–35, title XII, §1203(c), Aug. 13, 1981, 95 Stat. 713.)
 
 #### Amendments
 
-1981—Pub. L. 97 35 substituted “may, in accordance with” for “may propose and, in accordance with”.
+1981—Pub. L. 97–35 substituted “may, in accordance with” for “may propose and, in accordance with”.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Section Referred to in Other Sections
 

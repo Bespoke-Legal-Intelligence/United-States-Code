@@ -100,7 +100,7 @@ Subsecs. (i) to (k). Pub. L. 95–268, §7(3), added subsecs. (i) to (k).
 
 Subsec. (<i>l</i>). Pub. L. 95–268, §8, added subsec. (<i>l).</i>
 
-1974—Subsec. (b). Pub. L. 93–390, §2(5)(A), inserted provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by thePresident of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
+1974—Subsec. (b). Pub. L. 93–390, §2(5)(A), inserted provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
 
 Subsec. (h). Pub. L. 93–390, §2(5)(B), added subsec. (h).
 

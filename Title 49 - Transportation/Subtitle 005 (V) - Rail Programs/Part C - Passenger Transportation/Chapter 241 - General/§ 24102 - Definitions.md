@@ -10,7 +10,7 @@ In this part—
 
 &emsp;(2) “avoidable loss” means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.
 
-&emsp;(3) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.
+&emsp;(3) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system ortransportation that Amtrak makes using the route and service criteria.
 
 &emsp;(4) “commuter authority” means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
 
@@ -131,6 +131,10 @@ Clause (9) is added to eliminate repetition of the words “fares or charges” 
 Section 4 of the Amtrak Improvement Act of 1978, referred to in par. (3), is section 4 of Pub. L. 95–421, which was set out as a note under section 521 of Title 45, Railroads, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 Section 404(c)(1)–(3)(A) of the Rail Passenger Service Act, referred to in par. (11), is section 404(c)(1)–(3)(A) of Pub. L. 91–518, which was classified to section 564(c)(1)–(3)(A) of Title 45, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

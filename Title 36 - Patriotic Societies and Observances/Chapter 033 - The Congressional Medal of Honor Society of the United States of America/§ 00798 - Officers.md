@@ -10,7 +10,7 @@ The officers shall have such powers consistent with this charter, as may be dete
 
 #### (c) Election; tenure; duties
 
-The officers of the corporation shall be elected in such manner and have such terms and with such duties as may be prescribed in the bylaws of the corporation.
+The officers of the corporation shall be elected in such manner and have such terms and withsuch duties as may be prescribed in the bylaws of the corporation.
 
 (Pub. L. 85–642, §8, Aug. 14, 1958, 72 Stat. 599.)
 

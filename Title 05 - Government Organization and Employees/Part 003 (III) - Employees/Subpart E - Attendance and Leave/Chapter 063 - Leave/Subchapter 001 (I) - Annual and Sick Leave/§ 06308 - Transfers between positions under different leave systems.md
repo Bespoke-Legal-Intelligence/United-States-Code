@@ -36,9 +36,9 @@ Sections 521–535 of title 4, District of Columbia Code, referred to in subsec.
 
 #### Amendments
 
-1990—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1990 Amendment
 

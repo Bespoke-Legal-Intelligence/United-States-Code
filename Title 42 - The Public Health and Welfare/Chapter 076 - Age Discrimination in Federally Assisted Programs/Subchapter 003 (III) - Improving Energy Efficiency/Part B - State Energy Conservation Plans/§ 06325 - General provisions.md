@@ -10,7 +10,7 @@ In carrying out the provisions of sections 6322 and 6324 of this title and subse
 
 #### (c) Annual report
 
-The Secretary shall report annually to the President and the Congress, and shall furnish copies of such report to the Governor of each State, on the operation of the program under this part. Such report shall include an estimate of the energy conservation achieved, the degree of State participation and achievement, a description of innovative conservation programs undertaken by individual States, and the recommendations of the Secretary, if any, for additional legislation.
+The Secretary shall, as part of the report required under section 7267 of this title, report to the President and the Congress, and shall furnish copies of such report to the Governor of each State, on the operation of the program under this part. Such report shall include an estimate of the energy conservation achieved, the degree of State participation and achievement, a description of innovative conservation programs undertaken by individual States, and the recommendations of the Secretary, if any, for additional legislation.
 
 #### (d) Duty of Federal Trade Commission to prevent unfair or deceptive practices or acts relating to implementation of energy measures
 
@@ -64,7 +64,7 @@ Within 90 days after August 14, 1976, the Secretary shall—
 
 (9) The Board shall continue until terminated by law.
 
-(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841.)
+(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718.)
 
 #### References in Text
 
@@ -73,6 +73,8 @@ The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1
 The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–66 substituted “, as part of the report required under section 7267 of this title, report” for “report annually” in first sentence.
 
 1992—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
@@ -92,5 +94,5 @@ Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6323a, 6326, 6371, 6865, 6881 of this title; title 12 section 1701z–8.
+This section is referred to in sections 6323a, 6326, 6371, 6865, 6881, 7267 of this title; title 12 section 1701z–8.
 

@@ -12,7 +12,7 @@
 
 #### (b) Determination of amount; reduction for Federal education program payments; reimbursement by Federal departments or agencies
 
-(1) The amount of the grant provided to each tribe or tribal organization under this section for each fiscal year shall be determined by applying the administrative cost percentage rate of the tribe or tribal organization to the aggregate of the Bureau elementary and secondary functions operated by the tribe or tribal organization for which funds are received from or through the Bureau. The administrative cost percentage rate determined under subsection (c) of this section does not apply to other programs operated by the tribe or tribal organization.
+(1) The amount of the grant provided to each tribe or tribal organization under this sectionfor each fiscal year shall be determined by applying the administrative cost percentage rate of the tribe or tribal organization to the aggregate of the Bureau elementary and secondary functions operated by the tribe or tribal organization for which funds are received from or through the Bureau. The administrative cost percentage rate determined under subsection (c) of this section does not apply to other programs operated by the tribe or tribal organization.
 
 (2) The Secretary shall—
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) if such programs have not been operated by the tribe or tribal organization during the 2 preceding fiscal years, the first fiscal year preceding such fiscal year.
 
-&emsp;(B) In the case of Bureau elementary or secondary education functions which have notpreviously been operated by a tribe or tribal organization under contract, grant, or agreement with the Bureau, the direct cost base for the initial year shall be the projected aggregate direct cost program funding for all Bureau elementary and secondary functions to be operated by the tribe or tribal organization during that fiscal year.
+&emsp;(B) In the case of Bureau elementary or secondary education functions which have not previously been operated by a tribe or tribal organization under contract, grant, or agreement with the Bureau, the direct cost base for the initial year shall be the projected aggregate direct cost program funding for all Bureau elementary and secondary functions to be operated by the tribe or tribal organization during that fiscal year.
 
 &emsp;(4) The term “maximum base rate” means 50 percent.
 
@@ -154,7 +154,7 @@ For purposes of this section:
 
 &emsp;(D) identify, and quantify in terms of percentages of direct program costs, any general factors arising from geographic isolation, or numbers of programs administered, independent of program size factors used to compute a base administrative cost percentage in such formula; and
 
-&emsp;(E) identify any other incremental cost factors substantially affecting the costs of required administrative cost functions at any of the tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
+&emsp;(E) identify any other incremental cost factors substantially affecting the costs of required administrative cost functions at any ofthe tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
 
 (3) In carrying out the studies required under this subsection, the Secretary shall obtain the input of, and afford an opportunity to participate to, the Inspector General of the Department of the Interior.
 
@@ -162,7 +162,7 @@ For purposes of this section:
 
 (5) Upon completion of the studies conducted under paragraph (1), but in no case later than October 1, 1989, the Secretary shall submit to the Congress a report on the findings of the studies, together with determinations based upon such findings that would affect the definitions of terms used in the formula that is set forth in subsection (c) of this section.
 
-(6) The Secretary shall include in the Bureau's justification for each appropriations request for each fiscal year beginning after fiscal year 1989, a projection of the overall costs associated with the formula set forth in subsection (c) of thissection for all tribal elementary or secondary educational programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+(6) The Secretary shall include in the Bureau's justification for each appropriations request for each fiscal year beginning after fiscal year 1989, a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary educational programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
 
 (7) For purposes of this subsection, the size of tribal elementary or secondary educational programs is determined by the aggregate direct cost program funding level for all Bureau funded programs which share common administrative cost functions.
 
@@ -242,7 +242,7 @@ Prior sections 2008 and 2008a were omitted in the general amendment of this chap
 
 Section 2008, Pub. L. 95–561, title XI, §1128, Nov. 1, 1978, 92 Stat. 2320; Pub. L. 96–46, §2(b)(7), (8), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, §505, Oct. 19, 1984, 98 Stat. 2394; Pub. L. 99–89, §5, Aug. 15, 1985, 99 Stat. 381; Pub. L. 99–228, §1, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 100–297, title V, §§5107(a), 5108(b), (c), Apr. 28, 1988, 102 Stat. 368, 375; Pub. L. 100–427, §§2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, 102 Stat. 1604, 1605; Pub. L. 101–301, §5(d)(1), May 24, 1990, 104 Stat. 208; Pub. L. 103–382, title III, §393(b), Oct. 20, 1994, 108 Stat. 4026, related to allotment formula.
 
-Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, title V, §5108(a), Apr. 28, 1988, 102Stat. 369; amended Pub. L. 100–427, §4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, §5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
+Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, title V, §5108(a), Apr. 28, 1988, 102 Stat. 369; amended Pub. L. 100–427, §4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, §5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
 
 #### Section Referred to in Other Sections
 

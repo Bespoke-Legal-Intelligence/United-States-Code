@@ -16,7 +16,7 @@ The plan referred to in subsection (a) of this section shall—
 
 &emsp;(4) propose a management strategy for a permanent organizational structure to enhance and coordinate such resources, and aviation-related properties, and institutions;
 
-&emsp;(5) recommend methods for establishing partnerships with Federal, State, and local governments and the private sector to fosterdevelopment and to preserve and enhance such resources;
+&emsp;(5) recommend methods for establishing partnerships with Federal, State, and local governments and the private sector to foster development and to preserve and enhance such resources;
 
 &emsp;(6) propose transportation links, including pedestrian facilities and bicycle trails among historic aviation sites including an interurban between the Wright-Dunbar Historic District and the historic resources at Wright-Patterson Air Force Base;
 

@@ -14,37 +14,37 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 &emsp;(6) include the results of the program evaluations conducted in accordance with section 8941 of this title.
 
-(Pub. L. 90 247, title IV, §425, formerly §417, as added Pub. L. 93 380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95 561, title XII, §1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96 46, §4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96 374, title XIII, §1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98 511, title VII, §705, Oct. 19, 1984, 98 Stat. 2406; renumbered §425 and amended Pub. L. 103 382, title II, §§212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103 437, §7(a)(2), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 90–247, title IV, §425, formerly §417, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95–561, title XII, §1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–46, §4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–374, title XIII, §1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98–511, title VII, §705, Oct. 19, 1984, 98 Stat. 2406; renumbered §425 and amended Pub. L. 103–382, title II, §§212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103–437, §7(a)(2), Nov. 2, 1994, 108 Stat. 4587.)
 
 #### Prior Provisions
 
-A prior section 425 of Pub. L. 90 247 was renumbered section 432, and is classified to section 1231b 2 of this title.
+A prior section 425 of Pub. L. 90–247 was renumbered section 432, and is classified to section 1231b–2 of this title.
 
-Another prior section 425 of Pub. L. 90 247 was renumbered section 434, and is classified to section 1231d of this title.
+Another prior section 425 of Pub. L. 90–247 was renumbered section 434, and is classified to section 1231d of this title.
 
-Another prior section 425 of Pub. L. 90 247 was renumbered section 423, and is classified to section 1226a 1 of this title.
+Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is classified to section 1226a–1 of this title.
 
 #### Amendments
 
-1994—Pub. L. 103 437, which directed that section 417(a) of Pub. L. 90 247 be amended by substituting “Labor and Human Resources” for “Human Resources”, could not be executed because this section, which was section 417 of Pub. L. 90 247, was renumbered section 425 and amended generally by Pub. L. 103 382.
+1994—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Human Resources”, could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103 382, §235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
+Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
 
-1984—Subsec. (a). Pub. L. 98 511 substituted “December 31” for “November 1”.
+1984—Subsec. (a). Pub. L. 98–511 substituted “December 31” for “November 1”.
 
-1980—Subsec. (a)(F). Pub. L. 96 374 inserted “, including tabulations of available data to indicatethe effectiveness of the programs and projects by the sex, race, and age of its beneficiaries” after “detailed data and appendices”.
+1980—Subsec. (a)(F). Pub. L. 96–374 inserted “, including tabulations of available data to indicate the effectiveness of the programs and projects by the sex, race, and age of its beneficiaries” after “detailed data and appendices”.
 
-1979—Subsec. (a). Pub. L. 96 46 substituted “(a) Not later than” for “(a)(1) Not later than” and struck out par. (2) which provided that, in the case of programs and projects assisted under title I of the Elementary and Secondary Education Act of 1965, the report include a survey of how many children counted under section 103(c) of such Act do or do not participate in such programs and projects and how many disadvantaged children do or do not participate in such programs and projects.
+1979—Subsec. (a). Pub. L. 96–46 substituted “(a) Not later than” for “(a)(1) Not later than” and struck out par. (2) which provided that, in the case of programs and projects assisted under title I of the Elementary and Secondary Education Act of 1965, the report include a survey of how many children counted under section 103(c) of such Act do or do not participate in such programs and projects and how many disadvantaged children do or do not participate in such programs and projects.
 
-1978—Subsec. (a)(1). Pub. L. 95 561 inserted “(including compliance with provisions of law requiring the maintenance of non-Federal expenditures for the purposes of such applicable programs)” after “effectiveness of applicable programs” and substituted “Committee on Human Resources” for “Committee on Labor and Public Welfare” in provisions preceding subpar. (A).
+1978—Subsec. (a)(1). Pub. L. 95–561 inserted “(including compliance with provisions of law requiring the maintenance of non-Federal expenditures for the purposes of such applicable programs)” after “effectiveness of applicable programs” and substituted “Committee on Human Resources” for “Committee on Labor and Public Welfare” in provisions preceding subpar. (A).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 
-Section 711 of Pub. L. 98 511 provided that:
+Section 711 of Pub. L. 98–511 provided that:
 
 “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on the date of enactment of this Act \[Oct. 19, 1984\] or October 1, 1984, whichever occurs later.
 
@@ -52,13 +52,13 @@ Section 711 of Pub. L. 98 511 provided that:
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96 374, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 46 effective Oct. 1, 1978, see section 8 of Pub. L. 96 46, set out as a note under section 930 of this title.
+Amendment by Pub. L. 96–46 effective Oct. 1, 1978, see section 8 of Pub. L. 96–46, set out as a note under section 930 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95 561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95 561, set out as a note under section 1221e 3 of this title.
+Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as a note under section 1221e–3 of this title.
 

@@ -36,7 +36,7 @@ It shall also be the responsibility of the Board to—
 
 &emsp;(8) solicit advice and information from the educational field, to define research needs and suggestions for research topics, and shall involve educational practitioners, particularly teachers, in this process;
 
-&emsp;(9) solicit advice from practitioners, policymakers, and researchers, and recommend missions for the national research centers assisted under this subchapter by identifyingtopics which require long-term, sustained, systematic, programmatic, and integrated research and dissemination efforts;
+&emsp;(9) solicit advice from practitioners, policymakers, and researchers, and recommend missions for the national research centers assisted under this subchapter by identifying topics which require long-term, sustained, systematic, programmatic, and integrated research and dissemination efforts;
 
 &emsp;(10) provide recommendations for translating research findings into workable, adaptable models for use in policy and in practice across different settings, and recommendations for other forms of dissemination; and
 
@@ -110,7 +110,7 @@ The Board shall consist of 15 members appointed by the Secretary. Of the members
 
 #### (2) Request for additional nominations
 
-&emsp;In the event that the Secretary determines that none of the individuals nominated by theNational Academy of Sciences meets the qualifications for membership on the Board specified in subsection (g) of this section, the Secretary may request that such organization make additional nominations.
+&emsp;In the event that the Secretary determines that none of the individuals nominated by the National Academy of Sciences meets the qualifications for membership on the Board specified in subsection (g) of this section, the Secretary may request that such organization make additional nominations.
 
 #### (i) Nominations for Board membership
 
@@ -184,15 +184,15 @@ The Board shall select a Chair from among its appointed members who shall serve 
 
 &emsp;The Government in the Sunshine Act (5 U.S.C. 552b) shall apply to meetings of the Board.
 
-(Pub. L. 103 227, title IX, §921, Mar. 31, 1994, 108 Stat. 223.)
+(Pub. L. 103–227, title IX, §921, Mar. 31, 1994, 108 Stat. 223.)
 
 #### References in Text
 
 Level V of the Executive Schedule, referred to in subsec. (e)(1), is set out in section 5316 of Title 5, Government Organization and Employees.
 
-The Ethics in Government Act of 1978, referred to in subsec. (f)(4), is Pub. L. 95 521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95 521 in the Appendix to Title 5.
+The Ethics in Government Act of 1978, referred to in subsec. (f)(4), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5.
 
-The Government in the Sunshine Act, referred to in subsec. (m)(4), is Pub. L. 94 409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92 463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552b of Title 5 and Tables.
+The Government in the Sunshine Act, referred to in subsec. (m)(4), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552b of Title 5 and Tables.
 
 #### Section Referred to in Other Sections
 

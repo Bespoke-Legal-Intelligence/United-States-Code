@@ -2,7 +2,7 @@
 
 #### (a) Plan
 
-The Secretary shall prepare a comprehensive 5-year program management plan for researchand development activities, which shall be conducted over a period of no less than 5 years and shall be consistent with the provisions of sections 12403 and 12404 of this title. In the preparation of such plan, the Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Secretary of Transportation, the Hydrogen Technical Advisory Panel established under section 12407 of this title, and the heads of such other Federal agencies and such public and private organizations as he deems appropriate. The plan shall be structured to identify and address areas of research critical to the realization of a domestic hydrogen production capability within the shortest time practicable.
+The Secretary shall prepare a comprehensive 5-year program management plan for research and development activities, which shall be conducted over a period of no less than 5 years and shall be consistent with the provisions of sections 12403 and 12404 of this title. In the preparation of such plan, the Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Secretary of Transportation, the Hydrogen Technical Advisory Panel established under section 12407 of this title, and the heads of such other Federal agencies and such public and private organizations as he deems appropriate. The plan shall be structured to identify and address areas of research critical to the realization of a domestic hydrogen production capability within the shortest time practicable.
 
 #### (b) Contents of plan
 
@@ -36,7 +36,7 @@ The Secretary shall, in consultation with the Secretary of Transportation, the A
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

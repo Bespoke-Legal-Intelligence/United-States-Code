@@ -32,7 +32,7 @@ No obligation shall be guaranteed and no commitment shall be made to guarantee a
 
 &emsp;(2) payment of the obligation is required by its terms to be made within 25 years from the date of its execution;
 
-&emsp;(3) the financing or refinancing is justified by the present and probable future demand for rail services or high-speed rail services to be rendered by the applicant and will serve to meet demonstrable needs for rail services or high-speed rail services and to provide shippers or passengers with improved service;
+&emsp;(3) the financing or refinancing is justified by the present and probable future demand forrail services or high-speed rail services to be rendered by the applicant and will serve to meet demonstrable needs for rail services or high-speed rail services and to provide shippers or passengers with improved service;
 
 &emsp;(4) the applicant has given reasonable assurances that the facilities or equipment to be acquired, rehabilitated, improved, developed, or established with the proceeds of the obligation will be economically and efficiently utilized;
 
@@ -86,7 +86,7 @@ The Secretary shall charge and collect from each applicant such amounts as he de
 
 #### (<i>l</i>) Premium charge
 
-The Secretary shall assess and collect from the obligor an annual premium charge on each obligation guaranteed under this section. The amount of such premium may not exceed an annual rate of 1 percent on the unpaid principal balance of such obligation at the time payment is due. Payment is due initially when the obligation is guaranteed by the Secretary, and, thereafter, on the anniversary date of such guarantee.
+The Secretary shall assess and collect from the obligor an annual premium charge on each obligation guaranteed under this section. The amount of such premium may not exceed an annual rate of 1 percent on the unpaid principal balance of such obligation at the time paymentis due. Payment is due initially when the obligation is guaranteed by the Secretary, and, thereafter, on the anniversary date of such guarantee.
 
 #### (m) Administrative costs
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Effective Date of 1976 Amendment
 
@@ -192,7 +192,7 @@ Section 702 of Pub. L. 96–448 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 721, 832, 833, 838, 914 of this title; title 49 section 308.
+This section is referred to in sections 721, 832, 833, 838, 914 of this title; title 49 section 26105.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@ By virtue of the authority vested in me as President of the United States and as
 
 2\. The Bronze Star Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense, and shall be awarded under such regulations as the Secretary concerned may prescribe. Such regulations shall, so far as practicable, be uniform, and those of the military departments shall be subject to the approval of the Secretary of Defense.
 
-3\. No more than one Bronze Star Medal shall be awarded to any one person, but for each succeeding heroic or meritorious achievement or service justifying such an award a suitable device may be awarded to be worn with the medal as prescribed by appropriate regulations.
+3\. No more than one Bronze Star Medal shall be awarded to any one person, but for each succeeding heroic or meritorious achievement or service justifyingsuch an award a suitable device may be awarded to be worn with the medal as prescribed by appropriate regulations.
 
 4\. The Bronze Star Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of the department concerned.
 

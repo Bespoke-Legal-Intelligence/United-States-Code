@@ -16,9 +16,9 @@ Any obligation acquired by the fund (except special obligations issued exclusive
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 93 642, §10, Jan. 4, 1975, 88 Stat. 2279.)
+(Pub. L. 93–642, §10, Jan. 4, 1975, 88 Stat. 2279.)
 
 #### Codification
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

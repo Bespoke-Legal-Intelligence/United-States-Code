@@ -56,19 +56,19 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 The provisions of subsections (e) and (f) of section 10,<sup>1</sup> of the Federal Advisory Committee Act shall not apply to the Council.
 
-(Pub. L. 100 418, title V, §5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101 382, title I, §133(c), Aug. 20, 1990, 104 Stat. 649.)
+(Pub. L. 100–418, title V, §5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, §133(c), Aug. 20, 1990, 104 Stat. 649.)
 
 #### References in Text
 
 The Federal antitrust laws, referred to in subsec. (g)(5), is classified generally to chapter 1 (§1 et seq.) of this title.
 
-The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101 382 redesignated subsec. (d) as (c), and substituted “120” for “60”.
+1990—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted “120” for “60”.
 
-Subsecs. (d) to (i). Pub. L. 101 382, §133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
+Subsecs. (d) to (i). Pub. L. 101–382, §133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

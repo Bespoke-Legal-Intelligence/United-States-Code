@@ -12,7 +12,7 @@ The Secretary is authorized to award a grant, on a competitive basis, to an elig
 
 &emsp;&emsp;(A) An institution eligible for assistance under part B of subchapter III of this chapter.
 
-&emsp;&emsp;(B) An institution of higher education which serves substantial numbers of African American or other underrepresented minority students.
+&emsp;&emsp;(B) An institution of higher education which serves substantial numbers of AfricanAmerican or other underrepresented minority students.
 
 &emsp;&emsp;(C) An institution of higher education with programs in training foreign service professionals.
 
@@ -30,17 +30,17 @@ Grants made pursuant to this section shall be awarded for a period not to exceed
 
 #### (e) Match required
 
-The eligible recipient of a grant under this section shall contribute to the conduct of the program supported by the grant an amount from non-Federal sources equal to at least one-fourththe amount of the grant, which contribution may be in cash or in kind.
+The eligible recipient of a grant under this section shall contribute to the conduct of the program supported by the grant an amount from non-Federal sources equal to at least one-fourth the amount of the grant, which contribution may be in cash or in kind.
 
-(Pub. L. 89 329, title VI, §621, as added Pub. L. 102 325, title VI, §601, July 23, 1992, 106 Stat. 734.)
+(Pub. L. 89–329, title VI, §621, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 734.)
 
 #### Prior Provisions
 
-A prior section 1131, Pub. L. 89 329, title VI, §621, as added Pub. L. 96 374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1469; amended Pub. L. 97 241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 99 498, title VI, §613, Oct. 17, 1986, 100 Stat. 1519, related to advisory board on the conduct of programs under this subchapter, prior to repeal by Pub. L. 101 392, title VI, §§612, 702(a), Sept. 25, 1990, 104 Stat. 842, 843, effective July 1, 1991.
+A prior section 1131, Pub. L. 89–329, title VI, §621, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1469; amended Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 99–498, title VI, §613, Oct. 17, 1986, 100 Stat. 1519, related to advisory board on the conduct of programs under this subchapter, prior to repeal by Pub. L. 101–392, title VI, §§612, 702(a), Sept. 25, 1990, 104 Stat. 842, 843, effective July 1, 1991.
 
-Another prior section 1131, Pub. L. 89 329, title VI, §621, Nov. 8, 1965, 79 Stat. 1266, related to grants for operating faculty development program workshops and institutes, prior to the general revision of this subchapter by Pub. L. 96 374.
+Another prior section 1131, Pub. L. 89–329, title VI, §621, Nov. 8, 1965, 79 Stat. 1266, related to grants for operating faculty development program workshops and institutes, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Effective Date
 
-Part effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Part effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 

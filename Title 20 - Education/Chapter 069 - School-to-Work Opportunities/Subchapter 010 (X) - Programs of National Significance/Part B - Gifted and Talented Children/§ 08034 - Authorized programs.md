@@ -22,7 +22,7 @@ Programs and projects assisted under this section may include—
 
 &emsp;(2) establishment and operation of model projects and exemplary programs for serving gifted and talented students, including innovative methods for identifying and educating students who may not be served by traditional gifted and talented programs, summer programs, mentoring programs, service learning programs, and cooperative programs involving business, industry, and education;
 
-&emsp;(3) training of personnel and parents involved in gifted and talented programs with respect to the impact of gender role socialization on the educational needs of gifted and talented children and in gender equitable education methods, techniques and practices;
+&emsp;(3) training of personnel and parents involved in gifted and talented programs withrespect to the impact of gender role socialization on the educational needs of gifted and talented children and in gender equitable education methods, techniques and practices;
 
 &emsp;(4) implementing innovative strategies, such as cooperative learning, peer tutoring and service learning;
 
@@ -58,11 +58,11 @@ Research activities supported under this section—
 
 &emsp;(2) may include collaborative research activities which are jointly funded and carried out with such Office.
 
-(Pub. L. 89 10, title X, §10204, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3822.)
+(Pub. L. 89–10, title X, §10204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3822.)
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93 638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,54 @@
+### §1865. Qualifications for jury service
+
+(a) The chief judge of the district court, or such other district court judge as the plan may provide, on his initiative or upon recommendation of the clerk or jury commission, shall determine solely on the basis of information provided on the juror qualification form and other competent evidence whether a person is unqualified for, or exempt, or to be excused from jury service. The clerk shall enter such determination in the space provided on the juror qualification form and in any alphabetical list of names drawn from the master jury wheel. If a person did not appear in response to a summons, such fact shall be noted on said list.
+
+(b) In making such determination the chief judge of the district court, or such other district court judge as the plan may provide, shall deem any person qualified to serve on grand and petit juries in the district court unless he—
+
+&emsp;(1) is not a citizen of the United States eighteen years old who has resided for a period of one year within the judicial district;
+
+&emsp;(2) is unable to read, write, and understand the English language with a degree of proficiency sufficient to fill out satisfactorily the juror qualification form;
+
+&emsp;(3) is unable to speak the English language;
+
+&emsp;(4) is incapable, by reason of mental or physical infirmity, to render satisfactory jury service; or
+
+&emsp;(5) has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
+
+(June 25, 1948, ch. 646, 62 Stat. 952; Mar. 27, 1968, Pub. L. 90–274, §101, 82 Stat. 58; Apr. 6, 1972, Pub. L. 92–269, §1, 86 Stat. 117; Nov. 2, 1978, Pub. L. 95–572, §3(a), 92 Stat. 2453; Nov. 19, 1988, Pub. L. 100–702, title VIII, §803(b), 102 Stat. 4658.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §§181, 413 (Mar. 3, 1911, ch. 231, §§100, 277, 36 Stat. 1121, 1164).
+
+Section consolidates a part of section 181 with section 413 of title 28, U.S.C., 1940 ed. Other provisions of said section 181 are incorporated in section 115 of this title.
+
+Word “jurors” was changed to “grand and petit jurors” upon authority of <i>Agnew v. United States</i>, 1897, 17 S.Ct. 235, 165 U.S. 36, 41 L.Ed. 624, construing such term to include both types of jurors.
+
+The last sentence of subsection (a) was added to conform with existing practice in many districts. Subsection (b) extends to all districts a provision of section 181 of title 28, U.S.C., 1940 ed., which was designed for the convenience of the districts in Ohio and permitted jurors drawn for service at Cleveland, Toledo, and Columbus to serve at Youngstown, Lima, and Steubenville, respectively.
+
+Changes were made in phraseology.
+
+#### Amendments
+
+1988—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
+
+1978—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
+
+1972—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
+
+1968—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
+
+Subsec. (b). Pub. L. 90–274 substituted provisions setting out the conditions of ineligibility for jury service for provisions authorizing the service of jurors in a place within the district other than the place for which the jurors were summoned.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juror summoned for service or actually serving on or after Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as an Effective Date note under section 1363 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1866, 1876 of this title.
+

@@ -1,4 +1,4 @@
-### §132 . Departments of Library
+### §132. Departments of Library
 
 The Library of Congress shall be arranged in two departments, a general library and a law library.
 

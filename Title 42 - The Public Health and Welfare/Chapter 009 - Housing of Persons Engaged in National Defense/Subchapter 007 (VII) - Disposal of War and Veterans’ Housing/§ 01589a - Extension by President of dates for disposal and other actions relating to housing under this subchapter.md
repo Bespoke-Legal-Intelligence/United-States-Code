@@ -1,6 +1,6 @@
 ### §1589a. Extension by President of dates for disposal and other actions relating to housing under this subchapter
 
-Notwithstanding any other provision of law, the President is authorized to extend, for suchperiod or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
+Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
 
 (Oct. 14, 1940, ch. 862, title VI, §611, as added Sept. 1, 1951, ch. 378, title VI, §603(d), 65 Stat. 314; amended July 14, 1952, ch. 723, §6, 66 Stat. 603; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
 
@@ -56,9 +56,9 @@ Ex. Ord. No. 10425, Jan. 16, 1953, 18 F.R. 405, provided:
 
 1\. The time stipulated in subsection (c) of section 601 of the act \[section 1581(c) of this title\] on or before which requests must be filed under subsections (a), (b), (g), and (h) of that section is extended to June 30, 1953.
 
-2\. The time stipulated in section 606(a)(1) of the action or before which conveyance of the housing projects listed in section 606(a)(3) of the act \[section 1586(2)(1) of this title\] must be requested by the governing body of the municipality or county and on or before which the need for low-rent housing must be demonstrated to the satisfaction of the Administrator is extended to June 30, 1953.
+2\. The time stipulated in section 606(a)(1) of the action or before which conveyance of the housing projects listed in section 606(a)(3) of the act \[section 1586(2)(1) of this title\] must be requested by the governing body of the municipality or county and on or before which the need for low-rent housing must be demonstrated to thesatisfaction of the Administrator is extended to June 30, 1953.
 
-This order supersedes paragraphs 1 and 6 of Executive Order No. 10339 of April 5, 1952 \[set out above\], and paragraph 1 of Executive Order No. 10395 of September 18, 1952 \[set out as a note above\].
+This order supersedes paragraphs 1 and 6 of Executive Order No. 10339 of April 5, 1952 \[set out above\], and paragraph 1 of Executive Order No. 10395 of September 18, 1952 \[set out above\].
 
 #### Ex. Ord. No. 10462. Delegation of Functions to the Housing and Home Finance Administrator
 

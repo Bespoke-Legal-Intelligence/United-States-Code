@@ -28,21 +28,21 @@ The Board may authorize the use of rate tables or charts which may provide for t
 
 In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d) of this section, the Board may authorize other reasonable tolerances.
 
-(Pub. L. 90 321, title I, §107, May 29, 1968, 82 Stat. 149; Pub. L. 96 221, title VI, §607, Mar. 31, 1980, 94 Stat. 170.)
+(Pub. L. 90–321, title I, §107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, §607, Mar. 31, 1980, 94 Stat. 170.)
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96 221, §607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
+1980—Subsec. (c). Pub. L. 96–221, §607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
 
-Subsec. (e). Pub. L. 96 221, §607(b), struck out reference to subsection (c) of this section.
+Subsec. (e). Pub. L. 96–221, §607(b), struck out reference to subsection (c) of this section.
 
-Subsec. (f). Pub. L. 96 221, §607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
+Subsec. (f). Pub. L. 96–221, §607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1607, 1611, 1637, 1638 of this title.
+This section is referred to in sections 1607, 1611, 1637, 1638, 1640 of this title.
 

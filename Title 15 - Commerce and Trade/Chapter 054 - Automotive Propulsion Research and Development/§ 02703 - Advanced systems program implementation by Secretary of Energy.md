@@ -46,19 +46,19 @@ The Department of Energy shall intensify research in key basic science areas in 
 
 (6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to February 25, 1978, or with respect to any renewal or extension thereof.
 
-(Pub. L. 95 238, title III, §304, Feb. 25, 1978, 92 Stat. 79; Pub. L. 103 437, §5(b)(4), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 95–238, title III, §304, Feb. 25, 1978, 92 Stat. 79; Pub. L. 103–437, §5(b)(4), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### References in Text
 
-This Act, referred to in subsec. (f), is Pub. L. 95 238, Feb. 25, 1978, 92 Stat. 47, known as the Department of Energy Act of 1978—Civilian Applications. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (f), is Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 47, known as the Department of Energy Act of 1978—Civilian Applications. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1994—Subsec. (f)(3). Pub. L. 103 437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+1994—Subsec. (f)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

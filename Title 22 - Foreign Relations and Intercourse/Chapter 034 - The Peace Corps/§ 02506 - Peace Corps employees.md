@@ -48,7 +48,7 @@ In each country or area in which volunteers serve abroad, the President may appo
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The effective date of this paragraph, referred to in subsec. (a)(4), probably means the effective date of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 359, section 302 of which added subsec. (a)(4) and which became effective Oct. 1, 1979, see Effective Date of 1979 Amendment note below.
 

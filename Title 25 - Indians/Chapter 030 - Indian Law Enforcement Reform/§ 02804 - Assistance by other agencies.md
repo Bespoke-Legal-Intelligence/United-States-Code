@@ -26,7 +26,7 @@ The head of a Federal agency with law enforcement personnel or facilities may en
 
 #### (f) Status of person as Federal employee
 
-While acting under authority granted by the Secretary under subsection (a) of this section, a person who is not otherwise a Federal employee shall be considered to be—
+While acting under authority granted by the Secretary under subsection (a) of this section, aperson who is not otherwise a Federal employee shall be considered to be—
 
 &emsp;(1) an employee of the Department of the Interior only for purposes of—
 

@@ -1,6 +1,6 @@
 ### §3030p. Program authorized
 
-The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title to carry out a program to provide supportive activities for caretakers who provide in-home services to frail older individuals (including older individuals who are victims of Alzheimer'sdisease or related disorders with neurological and organic brain dysfunction). Such supportive activities may include—
+The Assistant Secretary shall carry out a program for making grants to States under Stateplans approved under section 3027 of this title to carry out a program to provide supportive activities for caretakers who provide in-home services to frail older individuals (including older individuals who are victims of Alzheimer's disease or related disorders with neurological and organic brain dysfunction). Such supportive activities may include—
 
 &emsp;(1) providing training and counseling for such caretakers;
 

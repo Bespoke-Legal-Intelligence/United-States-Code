@@ -2,7 +2,7 @@
 
 #### (a) Conditions for availability of funds to educational agencies or institutions; inspection and review of education records; specific information to be made available; procedure for access to education records; reasonableness of time for such access; hearings; written explanations by parents; definitions
 
-(1)(A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, the parents of students who are or have been in attendance at a school of such agency or at such institution, as the case may be, the right to inspect and review the education records of their children. If any material or document in the education record of a student includes information on more than one student, the parents of one of such students shall have the right to inspect and review only such part of such material or document as relates to such student or to be informed of the specific information contained in such part of such material. Each educational agency or institution shall establish appropriate procedures for the granting of a request by parents for access to the education records of their children within a reasonable period of time, but in no case more than forty-five days after the request has been made.
+(1)(A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, the parents of students who are or have been in attendance at a school of such agency or at such institution, as the case may be, the right to inspect and review the education records of their children. If any material or document in the education record of a student includes information on more than one student, the parents of one ofsuch students shall have the right to inspect and review only such part of such material or document as relates to such student or to be informed of the specific information contained in such part of such material. Each educational agency or institution shall establish appropriate procedures for the granting of a request by parents for access to the education records of their children within a reasonable period of time, but in no case more than forty-five days after the request has been made.
 
 (B) No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectively prevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance at any school of an educational agency or institution that is subject to the provisions of this section.
 
@@ -44,7 +44,7 @@
 
 (5)(A) For the purposes of this section the term “directory information” relating to a student includes the following: the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
 
-(B) Any educational agency or institution making public directory information shall give public notice of the categories of information which it has designated as such information with respect to each student attending the institution or agency and shall allow a reasonable period of time after such notice has been given for a parent to inform the institution or agency that any or all of the information designated should not be released without the parent's prior consent.
+(B) Any educational agency or institution making public directory information shall give public notice of the categories of information which it has designated as such information with respect to each student attending the institution or agency and shall allow a reasonableperiod of time after such notice has been given for a parent to inform the institution or agency that any or all of the information designated should not be released without the parent's prior consent.
 
 (6) For the purposes of this section, the term “student” includes any person with respect to whom an educational agency or institution maintains education records or personally identifiable information, but does not include a person who has not been in attendance at such agency or institution.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(II) the officials and authorities to whom such information is disclosed certify in writing to the educational agency or institution that the information will not be disclosed to any other party except as provided under State law without the prior written consent of the parent of the student.<sup>1</sup>
 
-&emsp;(F) organizations conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests, administering student aid programs, and improving instruction, if such studies are conducted insuch a manner as will not permit the personal identification of students and their parents by persons other than representatives of such organizations and such information will be destroyed when no longer needed for the purpose for which it is conducted;
+&emsp;(F) organizations conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests, administering student aid programs, and improving instruction, if such studies are conducted in such a manner as will not permit the personal identification of students and their parents by persons other than representatives of such organizations and such information will be destroyed when no longer needed for the purpose for which it is conducted;
 
 &emsp;(G) accrediting organizations in order to carry out their accrediting functions;
 
@@ -88,7 +88,7 @@
 
 &emsp;(A) there is written consent from the student's parents specifying records to be released, the reasons for such release, and to whom, and with a copy of the records to be released to the student's parents and the student if desired by the parents, or
 
-&emsp;(B) except as provided in paragraph (1)(J), such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency.
+&emsp;(B) except as provided in paragraph (1)(J), such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of thecompliance therewith by the educational institution or agency.
 
 (3) Nothing contained in this section shall preclude authorized representatives of (A) the Comptroller General of the United States, (B) the Secretary, or (C) State educational authorities from having access to student or other records which may be necessary in connection with the audit and evaluation of Federally-supported education programs, or in connection with the enforcement of the Federal legal requirements which relate to such programs: <i>Provided</i>, That except when collection of personally identifiable information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements.
 
@@ -128,97 +128,97 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 &emsp;(2) disclosing such information to teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student.
 
-(Pub. L. 90 247, title IV, §444, formerly §438, as added Pub. L. 93 380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93 568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96 46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101 542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102 325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103 382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928.)
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928.)
 
 #### Prior Provisions
 
-A prior section 444 of Pub. L. 90 247 was classified to section 1233c of this title prior to repeal by Pub. L. 103 382.
+A prior section 444 of Pub. L. 90–247 was classified to section 1233c of this title prior to repeal by Pub. L. 103–382.
 
 #### Amendments
 
-1994—Subsec. (a)(1)(B). Pub. L. 103 382, §249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
+1994—Subsec. (a)(1)(B). Pub. L. 103–382, §249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (a)(1)(C). Pub. L. 103 382, §249(1)(A)(i), (iii), redesignated subpar. (B) as (C) and substituted “subparagraph (D)” for “subparagraph (C)” in cl. (iii). Former subpar. (C) redesignated (D).
+Subsec. (a)(1)(C). Pub. L. 103–382, §249(1)(A)(i), (iii), redesignated subpar. (B) as (C) and substituted “subparagraph (D)” for “subparagraph (C)” in cl. (iii). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(1)(D). Pub. L. 103 382, §249(1)(A)(i), (iv), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
+Subsec. (a)(1)(D). Pub. L. 103–382, §249(1)(A)(i), (iv), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
-Subsec. (a)(2). Pub. L. 103 382, §249(1)(B), substituted “privacy rights” for “privacy or other rights”.
+Subsec. (a)(2). Pub. L. 103–382, §249(1)(B), substituted “privacy rights” for “privacy or other rights”.
 
-Subsec. (a)(4)(B)(ii). Pub. L. 103 382, §261(h)(1), substituted semicolon for period at end.
+Subsec. (a)(4)(B)(ii). Pub. L. 103–382, §261(h)(1), substituted semicolon for period at end.
 
-Subsec. (b)(1)(A). Pub. L. 103 382, §249(2)(A)(i), inserted before semicolon “, including the educational interests of the child for whom consent would otherwise be required”.
+Subsec. (b)(1)(A). Pub. L. 103–382, §249(2)(A)(i), inserted before semicolon “, including the educational interests of the child for whom consent would otherwise be required”.
 
-Subsec. (b)(1)(C). Pub. L. 103 382, §261(h)(2)(A), substituted “or (iii)” for “(iii) an administrative head of an education agency (as defined in section 1221e 3(c) of this title), or (iv)”.
+Subsec. (b)(1)(C). Pub. L. 103–382, §261(h)(2)(A), substituted “or (iii)” for “(iii) an administrative head of an education agency (as defined in section 1221e–3(c) of this title), or (iv)”.
 
-Subsec. (b)(1)(E). Pub. L. 103 382, §249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials or authorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
+Subsec. (b)(1)(E). Pub. L. 103–382, §249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials or authorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
 
-Subsec. (b)(1)(H). Pub. L. 103 382, §261(h)(2)(B), substituted “the Internal Revenue Code of 1986” for “the Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (b)(1)(H). Pub. L. 103–382, §261(h)(2)(B), substituted “the Internal Revenue Code of 1986” for “the Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (b)(1)(J). Pub. L. 103 382, §249(2)(A)(iii) (v), added subpar. (J).
+Subsec. (b)(1)(J). Pub. L. 103–382, §249(2)(A)(iii)–(v), added subpar. (J).
 
-Subsec. (b)(2). Pub. L. 103 382, §249(2)(B)(i), which directed amendment of matter preceding subpar. (A) by substituting “, unless—” for the period, was executed by substituting a comma for the period before “unless—” to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 103–382, §249(2)(B)(i), which directed amendment of matter preceding subpar. (A) by substituting “, unless—” for the period, was executed by substituting a comma for the period before “unless—” to reflect the probable intent of Congress.
 
-Subsec. (b)(2)(B). Pub. L. 103 382, §249(2)(B)(ii), inserted “except as provided in paragraph (1)(J),” before “such information”.
+Subsec. (b)(2)(B). Pub. L. 103–382, §249(2)(B)(ii), inserted “except as provided in paragraph (1)(J),” before “such information”.
 
-Subsec. (b)(3). Pub. L. 103 382, §261(h)(2)(C), substituted “or (C)” for “(C) an administrative head of an education agency or (D)” and “education programs” for “education program”.
+Subsec. (b)(3). Pub. L. 103–382, §261(h)(2)(C), substituted “or (C)” for “(C) an administrative head of an education agency or (D)” and “education programs” for “education program”.
 
-Subsec. (b)(4). Pub. L. 103 382, §249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
+Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
 
-Subsec. (c). Pub. L. 103 382, §249(3), substituted “Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which” for “The Secretary shall adopt appropriate regulations to”.
+Subsec. (c). Pub. L. 103–382, §249(3), substituted “Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which” for “The Secretary shall adopt appropriate regulations to”.
 
-Subsec. (d). Pub. L. 103 382, §261(h)(3), inserted a comma after “education”.
+Subsec. (d). Pub. L. 103–382, §261(h)(3), inserted a comma after “education”.
 
-Subsec. (e). Pub. L. 103 382, §249(4), inserted “effectively” before “informs”.
+Subsec. (e). Pub. L. 103–382, §249(4), inserted “effectively” before “informs”.
 
-Subsec. (f). Pub. L. 103 382, §261(h)(4), struck out “, or an administrative head of an education agency,” after “The Secretary” and substituted “enforce this section” for “enforce provisions of this section”, “in accordance with” for “according to the provisions of”, and “comply with this section” for “comply with the provisions of this section”.
+Subsec. (f). Pub. L. 103–382, §261(h)(4), struck out “, or an administrative head of an education agency,” after “The Secretary” and substituted “enforce this section” for “enforce provisions of this section”, “in accordance with” for “according to the provisions of”, and “comply with this section” for “comply with the provisions of this section”.
 
-Subsec. (g). Pub. L. 103 382, §261(h)(5), struck out “of Health, Education, and Welfare” after “the Department” and “the provisions of” after “adjudicating violations of”.
+Subsec. (g). Pub. L. 103–382, §261(h)(5), struck out “of Health, Education, and Welfare” after “the Department” and “the provisions of” after “adjudicating violations of”.
 
-Subsec. (h). Pub. L. 103 382, §249(5), added subsec. (h).
+Subsec. (h). Pub. L. 103–382, §249(5), added subsec. (h).
 
-1992—Subsec. (a)(4)(B)(ii). Pub. L. 102 325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the records and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not made available to persons other than law enforcement officials of the same jurisdiction;”.
+1992—Subsec. (a)(4)(B)(ii). Pub. L. 102–325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the records and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not made available to persons other than law enforcement officials of the same jurisdiction;”.
 
-1990—Subsec. (b)(6). Pub. L. 101 542 added par. (6).
+1990—Subsec. (b)(6). Pub. L. 101–542 added par. (6).
 
-1979—Subsec. (b)(5). Pub. L. 96 46 added par. (5).
+1979—Subsec. (b)(5). Pub. L. 96–46 added par. (5).
 
-1974—Subsec. (a)(1). Pub. L. 93 568, §2(a)(1)(A) (C), (2)(A) (C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
+1974—Subsec. (a)(1). Pub. L. 93–568, §2(a)(1)(A)–(C), (2)(A)–(C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
 
-Subsec. (a)(2). Pub. L. 93 568, §2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institution or agency to challenge the contents of the student's education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
+Subsec. (a)(2). Pub. L. 93–568, §2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institution or agency to challenge the contents of the student's education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
 
-Subsec. (a)(3) to (6). Pub. L. 93 568, §2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
+Subsec. (a)(3) to (6). Pub. L. 93–568, §2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
 
-Subsec. (b)(1). Pub. L. 93 568, §2(a)(1)(D), (2)(D), (6), (8)(A) (C), (10)(A), in provisions preceding subpar. (A), substituted “educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a) of this section)” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)”, in subpar. (A), substituted “educational agency, who have been determined by such agency or institution to have” for “educational agency who have”, in subpar. (B), substituted “the student seeks or intends to” for “the student intends to”, in subpar. (C), substituted reference to “section 408(c)” for reference to “section 409 of this Act” which for purposes of codification has been translated as “section 1221e 3(c) of this title”, and added subpars. (E) to (I).
+Subsec. (b)(1). Pub. L. 93–568, §2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted “educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a) of this section)” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)”, in subpar. (A), substituted “educational agency, who have been determined by such agency or institution to have” for “educational agency who have”, in subpar. (B), substituted “the student seeks or intends to” for “the student intends to”, in subpar. (C), substituted reference to “section 408(c)” for reference to “section 409 of this Act” which for purposes of codification has been translated as “section 1221e–3(c) of this title”, and added subpars. (E) to (I).
 
-Subsec. (b)(2). Pub. L. 93 568, §2(a)(1)(E), (2)(E), substituted “educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section”.
+Subsec. (b)(2). Pub. L. 93–568, §2(a)(1)(E), (2)(E), substituted “educational agency or institution which hasa policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section”.
 
-Subsec. (b)(3). Pub. L. 93 568, §2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
+Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
 
-Subsec. (b)(4). Pub. L. 93 568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
+Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
 
-Subsec. (e). Pub. L. 93 568, §2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
+Subsec. (e). Pub. L. 93–568, §2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
 
-Subsec. (g). Pub. L. 93 568, §2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
+Subsec. (g). Pub. L. 93–568, §2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
 
 #### Effective Date of 1992 Amendment
 
-Section 1555(b) of Pub. L. 102 325 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 23, 1992\].”
+Section 1555(b) of Pub. L. 102–325 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 23, 1992\].”
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 46 effective Oct. 1, 1978, see section 8 of Pub. L. 96 46, set out as a note under section 930 of this title.
+Amendment by Pub. L. 96–46 effective Oct. 1, 1978, see section 8 of Pub. L. 96–46, set out as a note under section 930 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Section 2(b) of Pub. L. 93 568 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective, and retroactive to, November 19, 1974.”
+Section 2(b) of Pub. L. 93–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective, and retroactive to, November 19, 1974.”
 
 #### Effective Date
 
-Section 513(b)(1) of Pub. L. 93 380 provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1221 of this title\] shall become effective ninety days after the date of enactment \[Aug. 21, 1974\] of section 438 \[now 444\] of the General Education Provisions Act \[this section\].”
+Section 513(b)(1) of Pub. L. 93–380 provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1221 of this title\] shall become effective ninety days after the date of enactment \[Aug. 21, 1974\] of section 438 \[now 444\] of the General Education Provisions Act \[this section\].”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1232i, 1417, 5917 of this title; title 25 section 3205; title 42 section 11432.
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -36,7 +36,7 @@ Ex. Ord. No. 11287, eff. June 28, 1966, 31 F.R. 8995, as amended by Ex. Ord. No.
 
 By virtue of the authority vested in me by the Act of August 25, 1959, entitled “An Act To Establish a National Medal of Science To Provide Recognition for Individuals Who Make Outstanding Contributions in the Physical, Biological, Mathematical, and Engineering Sciences,” 73 Stat. 431 (hereinafter referred to as the Act) \[42 U.S.C. 1880, 1881\], and as President of the United States, it is ordered as follows:
 
-Section 1. <i>Award of Medal.</i> (a) The President shall award the National Medal of Science (hereinafter referred to as the Medal) established by the Act, the specifications of which are prescribed by Executive Order No. 10910 of January 17, 1961, as amended, on the basisof recommendations received by him in accordance with the provisions of this Order to individuals who in his judgment are deserving of special recognition by reason of their outstanding contributions to knowledge in the physical, biological, mathematical, or engineering sciences.
+Section 1. <i>Award of Medal.</i> (a) The President shall award the National Medal of Science (hereinafter referred to as the Medal) established by the Act, the specifications of which are prescribed by Executive Order No. 10910 of January 17, 1961, as amended, on the basis of recommendations received by him in accordance with the provisions of this Order to individuals who in his judgment are deserving of special recognition by reason of their outstanding contributions to knowledge in the physical, biological, mathematical, or engineering sciences.
 
 (b) The following-described criteria shall govern the award of the Medal—
 
@@ -70,7 +70,7 @@ Sec. 2. <i>The President's Committee.</i> (a) There is hereby established the Pr
 
 Sec. 3. <i>Preliminary Procedure.</i> (a) The Committee shall receive, on behalf of the President, (1) the recommendations made by the National Academy of Sciences respecting the award of the Medal pursuant to the provisions of Section 2(a) of the Act \[subsec. (a) of this section\], and (2) such similar recommendations as may be made by any other nationally representative scientific or engineering organization or other qualified source. Each such recommendation shall include or be accompanied by such appropriate supporting material as the Committee may from time to time specify.
 
-(b) On the basis of such criteria, information, and evidence as it may deem appropriate, and subject to the provisions of Section 1 of this Order, the Committee shall designate, from among the individuals who are recommended in accordance with Section 3(a) of this Order, those individuals whom the Committee recommends for the award of the Medal and shall transmit the names of those individuals to the President, together with its recommendations. In so transmitting its recommendations, the Committee (1) shall include expressions of its views concerning, and such other information as may be pertinent to, its recommendations, and (2) may arrange the names of all or some of the recommended individuals in a sequence deemed by it to indicate the order of precedence in which the individuals involved deserve to receive the Medal.
+(b) On the basis of such criteria, information, and evidence as it may deem appropriate, and subject to the provisions of Section 1 of this Order, the Committee shall designate, from among the individuals who are recommended in accordance with Section 3(a) of this Order, those individuals whom the Committee recommends for the award of the Medal and shall transmit the names of those individuals to the President, together with its recommendations. In so transmitting its recommendations, the Committee (1) shall include expressions of its views concerning, and such other information as may be pertinent to, its recommendations, and (2) may arrange the names of all or some of the recommended individuals in a sequence deemed byit to indicate the order of precedence in which the individuals involved deserve to receive the Medal.
 
 (c) Each recommendation respecting the award of the Medal to an individual which is transmitted to the President by the Committee shall be accompanied by a draft of a citation describing the contributions which are being recognized by the award.
 
@@ -96,7 +96,7 @@ Term of the President's Committee on the National Medal of Science extended unti
 
 Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1987, by Ex.Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -104,5 +104,7 @@ Term of the President's Committee on the National Medal of Science extended unti
 
 Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

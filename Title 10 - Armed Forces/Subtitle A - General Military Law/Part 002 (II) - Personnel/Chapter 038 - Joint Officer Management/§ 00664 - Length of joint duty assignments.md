@@ -1,4 +1,4 @@
-### §664 . Length of joint duty assignments
+### §664. Length of joint duty assignments
 
 (a)
 
@@ -178,7 +178,7 @@ Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consulta
 
 “(3) The Secretary, after consultation with the Chairman of the Joint Chiefs of Staff, may give credit for service in a joint duty assignment under paragraph (1) in the case of an officer recommended for such credit by the Chief of Staff of the Army (for officers in the Army), the Chief of Naval Operations (for officers in the Navy), the Chief of Staff of the Air Force (for officers in the Air Force), and the Commandant of the Marine Corps (for officers in the Marine Corps). Any such credit shall be granted by the Secretary on a case-by-case basis.
 
-“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service ina joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of a full tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
+“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service in a joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of a full tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
 
 “(b)
 
@@ -212,7 +212,7 @@ Duration of Authority.—The authority of the Secretary of Defense under this se
 
 #### Length of Joint Duty Assignments
 
-Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
+Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code\(as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

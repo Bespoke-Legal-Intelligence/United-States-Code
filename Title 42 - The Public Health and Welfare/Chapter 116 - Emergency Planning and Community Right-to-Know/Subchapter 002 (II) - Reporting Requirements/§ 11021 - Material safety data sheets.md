@@ -28,7 +28,7 @@
 
 &emsp;An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
 
-&emsp;&emsp;(A) Submitting a material safety data sheet for, or identifying on a list, each element or compound in the mixture which is ahazardous chemical. If more than one mixture has the same element or compound, only one material safety data sheet, or one listing, of the element or compound is necessary.
+&emsp;&emsp;(A) Submitting a material safety data sheet for, or identifying on a list, each element or compound in the mixture which is a hazardous chemical. If more than one mixture has the same element or compound, only one material safety data sheet, or one listing, of the element or compound is necessary.
 
 &emsp;&emsp;(B) Submitting a material safety data sheet for, or identifying on a list, the mixture itself.
 
@@ -48,7 +48,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 #### (d) Initial submission and updating
 
-(1) The initial material safety data sheet or list required under this section with respect to a hazardous chemical shall be provided before the later of—
+(1) The initial material safety data sheet or list required under this section with respect to ahazardous chemical shall be provided before the later of—
 
 &emsp;(A) 12 months after October 17, 1986, or
 

@@ -26,7 +26,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (d) Establishment of Advisory Council; functions and composition
 
-(1) The Board of Governors shall establish an Advisory Council composed of specialists in ocean and coastal resources from the academic community.
+(1) The Board of Governors shall establish an Advisory Council composed of specialists inocean and coastal resources from the academic community.
 
 (2) To the maximum extent practicable, the Advisory Council shall be composed of such specialists from every coastal region of the Nation.
 

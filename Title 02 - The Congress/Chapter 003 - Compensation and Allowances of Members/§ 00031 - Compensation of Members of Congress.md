@@ -24,7 +24,7 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in par. (2)(A), 
 
 #### Prior Provisions
 
-A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301; May 17, 1932, ch. 190, 47 Stat. 158, related to compensation of Members of Congress, prior to enactment of act Aug. 2, 1946.
+A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301; May 17,1932, ch. 190, 47 Stat. 158, related to compensation of Members of Congress, prior to enactment of act Aug. 2, 1946.
 
 #### Amendments
 
@@ -92,7 +92,9 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Salary Increases
 
-1995—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1995.
+1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1996.
+
+1995—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for the adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5.
 
 1994—Pub. L. 103–6, §7, Mar. 4, 1993, 107 Stat. 35, provided that:
 
@@ -102,9 +104,9 @@ Cost of Living Adjustment.—Notwithstanding section 601(a)(2) of the Legislativ
 
 “(b)
 
-Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.”
+Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 
-1993—Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for the adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+1993—Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for the adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 1992—Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for the adjustment of pay rates effective Jan. 1, 1992, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, formerly set out as a note under section 5332 of Title 5.
 
@@ -148,9 +150,9 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 
 1978—Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, which provided for the adjustment of pay rates effective Oct. 1, 1978, was superseded by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, formerly set out as a note under section 5332 of Title 5.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above Level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
+Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above Level V of the Executive Schedule, see section 304 of Pub. L. 95–391and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
 
-1977—Salary of Speaker of House of Representatives increased to $75,000 per annum;  salaries of President pro tempore of Senate, majority leader and minority leader of Senate, and majority leader and minority leader of House of Representatives increased to $65,000 per annum;  and salaries of Senators, Members of Houseof Representatives, Delegate to House of Representatives and Resident Commissioner from Puerto Rico increased to $57,500 per annum, on recommendation of the President of the United States effective at the beginning of the first pay period beginning after the 30th day following Jan. 17, 1977, set out as a note under section 358 of this title.
+1977—Salary of Speaker of House of Representatives increased to $75,000 per annum;  salaries of President pro tempore of Senate, majority leader and minority leader of Senate, and majority leader and minority leader of House of Representatives increased to $65,000 per annum;  and salaries of Senators, Members of House of Representatives, Delegate to House of Representatives and Resident Commissioner from Puerto Rico increased to $57,500 per annum, on recommendation of the President of the United States effective at the beginning of the first pay period beginning after the 30th day following Jan. 17, 1977, set out as a note under section 358 of this title.
 
 Pub. L. 95–66, §1(2), July 11, 1977, 91 Stat. 270, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that the first adjustment which, but for the enactment of Pub. L. 95–66, would have been made in the annual rate of pay for Members of Congress under paragraph (2) of this section after July 11, 1977, would not take effect.
 

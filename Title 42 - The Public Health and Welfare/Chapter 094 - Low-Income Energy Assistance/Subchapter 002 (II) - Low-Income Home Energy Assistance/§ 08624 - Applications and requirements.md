@@ -144,7 +144,7 @@ The State shall repay to the United States amounts found not to have been expend
 
 #### (h) Periodic evaluation of expenditures by Comptroller General
 
-The Comptroller General of the United States shall, from time to time (but not less frequently than every three years), evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
+The Comptroller General of the United States shall, from time to time <sup>4</sup> evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
 
 #### (i) Certain recipients of supplemental security income ineligible for payments or assistance
 
@@ -178,7 +178,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 > for residential weatherization or other energy-related home repair for low-income households.
 
-(B) For purposes of subparagraph (A), the Secretary may grant a waiver to a State for a fiscal year if the State submits a written request to the Secretary after March 31 of such fiscal yearand if the Secretary determines, after reviewing such request and any public comments, that—
+(B) For purposes of subparagraph (A), the Secretary may grant a waiver to a State for a fiscal year if the State submits a written request tothe Secretary after March 31 of such fiscal year and if the Secretary determines, after reviewing such request and any public comments, that—
 
 &emsp;(i)(I) the number of households in the State that will receive benefits, other than weatherization and energy-related home repair, under this subchapter in such fiscal year will not be fewer than the number of households in the State that received benefits, other than weatherization and energy-related home repair, under this subchapter in the preceding fiscal year;
 
@@ -196,7 +196,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721.)
 
 #### References in Text
 
@@ -220,13 +220,15 @@ In subsec. (b)(6), “August 12, 1981” substituted for “the day before the d
 
 #### Amendments
 
+1995—Subsec. (h). Pub. L. 104–66 struck out “(but not less frequently than every three years),” after “from time to time”.
+
 1994—Subsec. (b). Pub. L. 103–252, §311(c)(4), which directed the transfer of the sentence that immediately precedes par. (15) to appear as a flush sentence immediately after par. (16), was executed by transferring the two sentences that appeared before par. (15) so as to appear as a flush provision immediately after par. (16), to reflect the probable intent of Congress.
 
 Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
-Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs inrelation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
+Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State maynot exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
 Subsec. (b)(3). Pub. L. 103–252, §§306(b), 311(c)(3), substituted “disabled” for “handicapped” and “and households with high home energy burdens, are made aware” for “are made aware”.
 
@@ -302,7 +304,7 @@ Subsec. (c)(2). Pub. L. 98–558, §605(b)(2), inserted “and each substantial 
 
 Subsec. (d). Pub. L. 98–558, §605(c), in amending subsec. (d) generally, substituted provisions that the State shall expend funds in accordance with the State plan or revisions thereto for former provisions which related to waiver of requirements.
 
-Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that the audits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
+Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that theaudits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
 
 Subsec. (f). Pub. L. 98–558, §605(e), inserted “unless enacted in express limitation of this paragraph”.
 
@@ -359,4 +361,6 @@ This section is referred to in sections 8623, 8626a, 8626b, 8627, 8629 of this t
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

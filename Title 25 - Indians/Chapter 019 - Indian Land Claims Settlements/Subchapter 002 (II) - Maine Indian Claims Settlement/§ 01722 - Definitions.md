@@ -2,7 +2,7 @@
 
 For purposes of this subchapter, the term—
 
-&emsp;(a) “Houlton Band of Maliseet Indians” means the sole successor to the Maliseet Tribe of Indians as constituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Houlton Band of Maliseet Indians is represented, as of October 10, 1980, as to lands within the United States, by the Houlton Band Council of the Houlton Band of Maliseet Indians;
+&emsp;(a) “Houlton Band of Maliseet Indians” means the sole successor to the Maliseet Tribe of Indians as constituted in aboriginal times in what is now the State of Maine, and all itspredecessors and successors in interest. The Houlton Band of Maliseet Indians is represented, as of October 10, 1980, as to lands within the United States, by the Houlton Band Council of the Houlton Band of Maliseet Indians;
 
 &emsp;(b) “land or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including but without limitation minerals and mineral rights, timber and timber rights, water and water rights, and hunting and fishing rights;
 

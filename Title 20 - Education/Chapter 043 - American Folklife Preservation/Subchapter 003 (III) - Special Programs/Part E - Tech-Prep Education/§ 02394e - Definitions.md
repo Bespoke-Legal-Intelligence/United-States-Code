@@ -22,5 +22,5 @@ For purposes of this part:
 
 &emsp;(4) The terms “institution of higher education” and “higher education” include institutions offering apprenticeship programs of at least 2 years beyond the completion of secondary school.
 
-(Pub. L. 88 210, title III, §347, as added Pub. L. 101 392, title III, §308, Sept. 25, 1990, 104 Stat. 792.)
+(Pub. L. 88–210, title III, §347, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 792.)
 

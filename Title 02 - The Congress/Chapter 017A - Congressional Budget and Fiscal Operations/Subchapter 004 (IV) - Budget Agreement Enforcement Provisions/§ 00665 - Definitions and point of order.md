@@ -80,15 +80,19 @@ A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, 
 
 1993—Subsec. (a)(2)(F). Pub. L. 103–66, §14002(a), added subparagraph (F).
 
-Subsec. (b)(1). Pub. L. 103–66, §14002(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (3), it shall not be in order in the Senate to consider any concurrent resolution on the budget for fiscal year 1992, 1993, 1994, or 1995 (or amendment, motion, or conference report on such a resolution), or any appropriations bill or resolution (or amendment, motion, or conference report on such an appropriations bill or resolution) for fiscal year 1992 or 1993 that would exceed the allocations in thissection or the suballocations made under section 665a(b) of this title based on these allocations.”
+Subsec. (b)(1). Pub. L. 103–66, §14002(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (3), it shall not be in order in the Senate to consider any concurrent resolution on the budget for fiscal year 1992, 1993, 1994, or 1995 (or amendment, motion, or conference report on such a resolution), or any appropriations bill or resolution (or amendment, motion, or conference report on such an appropriations bill or resolution) for fiscal year 1992 or 1993 that would exceed the allocations in this section or the suballocations made under section 665a(b) of this title based on these allocations.”
 
 #### Effective Date
 
 Section 607 of title VI of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 102–66, title XIV, §14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that: “This title \[enacting this subchapter\] shall take effect upon its date of enactment \[Nov. 5, 1990\] and shall apply to fiscal years 1991 to 1998.”
 
+#### Downward Adjustments in Discretionary Spending Limits
+
+Pub. L. 104–19, title II, §2003, July 27, 1995, 109 Stat. 247, provided that: “Upon the enactment of this Act \[July 27, 1995\], the Director of the Office of Management and Budget shall make downward adjustments in the discretionary spending limits (new budget authority and outlays) specified in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\] for each of the fiscal years 1995 through 1998 by the aggregate amount of estimated reductions in new budget authority and outlays for discretionary programs resulting from the provisions of this Act \[see Tables for classification\] (other than emergency appropriations) for such fiscal year, as calculated by the Director.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665d, 665e, 900, 903 of this title; title 12 sections 4718, 4750; title 22 sections 5853, 5859a; title 42 section 14211.
+This section is referred to in sections 665d, 665e, 900, 903 of this title; title 12 sections 4718, 4750; title 22 sections 5853, 5859a; title 42 sections 14211, 14212.
 
 <i><sup>1</sup></i><i> Subsec. (b) enacted without a par. (2).</i>
 

@@ -34,17 +34,17 @@
 
 Grants made under this section shall be awarded on the basis of recommendations made by peer review panels composed of broadly representative professionals.
 
-(Pub. L. 89 329, title VI, §605, as added Pub. L. 99 498, title VI, §605(2), Oct. 17, 1986, 100 Stat. 1517; amended Pub. L. 102 325, title VI, §601, July 23, 1992, 106 Stat. 725.)
+(Pub. L. 89–329, title VI, §605, as added Pub. L. 99–498, title VI, §605(2), Oct. 17, 1986, 100 Stat. 1517; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 725.)
 
 #### Prior Provisions
 
-A prior section 605 of Pub. L. 89 329 was renumbered section 606 and is classified to section 1125 of this title.
+A prior section 605 of Pub. L. 89–329 was renumbered section 606 and is classified to section 1125 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, inserting subsec. headings and reenacting text without substantial change.
+1992—Pub. L. 102–325 amended section generally, inserting subsec. headings and reenacting text without substantial change.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

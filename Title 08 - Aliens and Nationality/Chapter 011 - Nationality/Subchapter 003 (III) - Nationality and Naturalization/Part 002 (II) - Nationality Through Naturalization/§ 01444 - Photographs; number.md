@@ -1,4 +1,4 @@
-### §1444 . Photographs; number
+### §1444. Photographs; number
 
 (a) Three identical photographs of the applicant shall be signed by and furnished by each applicant for naturalization or citizenship. One of such photographs shall be affixed by the Attorney General to the original certificate of naturalization issued to the naturalized citizen and one to the duplicate certificate of naturalization required to be forwarded to the Service.
 
@@ -30,7 +30,7 @@ One such photograph shall be affixed to each such certificate issued by the Atto
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 #### Cross References
 

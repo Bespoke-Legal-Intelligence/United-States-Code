@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(iii) by conducting joint initiatives with the national education and outreach programs of the Very Special Arts, an entity affiliated with the John F. Kennedy Center for the Performing Arts which has an established program for the identification, development, and implementation of model programs and projects in the arts for disabled individuals;
 
-&emsp;&emsp;(C) strive to ensure that the education and outreach programs and policies of the JohnF. Kennedy Center for the Performing Arts meet the highest level of excellence and reflect the cultural diversity of the United States;
+&emsp;&emsp;(C) strive to ensure that the education and outreach programs and policies of the John F. Kennedy Center for the Performing Arts meet the highest level of excellence and reflect the cultural diversity of the United States;
 
 &emsp;&emsp;(D) provide facilities for other civic activities at the John F. Kennedy Center for the Performing Arts;
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) information and interpretation; and
 
-&emsp;&emsp;&emsp;(ii) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations.
+&emsp;&emsp;&emsp;(ii) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a buildingwalkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations.
 
 #### (2) Administrative powers and duties
 

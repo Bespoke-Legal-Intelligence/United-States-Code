@@ -5,16 +5,16 @@
 | [4331\.](%C2%A7%2004331%20-%20Establishment%3B%20Superintendent%3B%20faculty.md) | Establishment; Superintendent; faculty. |
 | [4332\.](%C2%A7%2004332%20-%20Departments%20and%20professors%20titles.md) | Departments and professors: titles. |
 | [4333\.](%C2%A7%2004333%20-%20Superintendent%3B%20faculty%20appointment%20and%20detail.md) | Superintendent; faculty: appointment and detail. |
-| 4334\. | Command and supervision. |
-| 4335\. | Dean of Academic Board. |
-| 4336\. | Permanent professors; director of admissions. |
-| 4337\. | Chaplain. |
-| 4338\. | Civilian faculty: number; compensation. |
+| [4334\.](%C2%A7%2004334%20-%20Command%20and%20supervision.md) | Command and supervision. |
+| [4335\.](%C2%A7%2004335%20-%20Dean%20of%20Academic%20Board.md) | Dean of Academic Board. |
+| [4336\.](%C2%A7%2004336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md) | Permanent professors; director of admissions. |
+| [4337\.](%C2%A7%2004337%20-%20Chaplain.md) | Chaplain. |
+| [4338\.](%C2%A7%2004338%20-%20Civilian%20faculty%20number%3B%20compensation.md) | Civilian faculty: number; compensation. |
 | \[4339. | Repealed.\] |
-| 4340\. | Quartermaster. |
-| 4341\. | Faculty and other officers: leaves of absence. |
-| 4341a. | Cadets: appointment by the President. |
-| 4342\. | Cadets: appointment; numbers, territorial distribution. |
+| [4340\.](%C2%A7%2004340%20-%20Quartermaster.md) | Quartermaster. |
+| [4341\.](%C2%A7%2004341%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md) | Faculty and other officers: leaves of absence. |
+| [4341a.](%C2%A7%2004341a%20-%20Cadets%20appointment%20by%20the%20President.md) | Cadets: appointment by the President. |
+| [4342\.](%C2%A7%2004342%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md) | Cadets: appointment; numbers, territorial distribution. |
 | [4343\.](%C2%A7%2004343%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md) | Cadets: appointment; to bring Corps to full strength. |
 | [4344\.](%C2%A7%2004344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
 | \[4345. | Repealed.\] |

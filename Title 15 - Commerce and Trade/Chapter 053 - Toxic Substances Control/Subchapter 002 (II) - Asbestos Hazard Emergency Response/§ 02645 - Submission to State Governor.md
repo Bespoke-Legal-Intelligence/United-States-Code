@@ -24,7 +24,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;(B) does not assure that contractors who are accredited pursuant to this subchapter will be used to carry out the plan, or
 
-&emsp;&emsp;(C) does not contain a response action schedule which is reasonable and timely, taking into account circumstances relevant to the speed at which the friable asbestos-containing material in the school buildings under the local educational agency's authority should be responded to, including human exposure to the asbestos while the friable asbestos-containing material remains in the school building, and the ability of the localeducational agency to continue to provide educational services to the community.
+&emsp;&emsp;(C) does not contain a response action schedule which is reasonable and timely, taking into account circumstances relevant to the speed at which the friable asbestos-containing material in the school buildings under the local educational agency's authority should be responded to, including human exposure to the asbestos while the friable asbestos-containing material remains in the school building, and the ability of the local educational agency to continue to provide educational services to the community.
 
 #### (2) Revision of plan
 
@@ -74,7 +74,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (4) Submission and review of plan
 
-&emsp;A local educational agency whose deferral request is approved shall submit a management plan to the Governor not later than May9, 1989. Such management plan shall include a copy of the deferral request and the statement accompanying such request. Such management plan shall be reviewed in accordance with subsection (c) of this section, except that the Governor may extend the 30-day period for revision of the plan under subsection (c)(2) of this section for only an additional 30 days (for a total of 60 days).
+&emsp;A local educational agency whose deferral request is approved shall submit a management plan to the Governor not later than May 9, 1989. Such management plan shall include a copy of the deferral request and the statement accompanying such request. Such management plan shall be reviewed in accordance with subsection (c) of this section, except that the Governor may extend the 30-day period for revision of the plan under subsection (c)(2) of this section for only an additional 30 days (for a total of 60 days).
 
 #### (5) Implementation of plan
 
@@ -112,13 +112,13 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;(D) A list containing each local educational agency that failed to submit a management plan as of October 9, 1989.
 
-(Pub. L. 94 469, title II, §205, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2979; amended Pub. L. 100 368, §§1(a), 2, July 18, 1988, 102 Stat. 829, 831.)
+(Pub. L. 94–469, title II, §205, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2979; amended Pub. L. 100–368, §§1(a), 2, July 18, 1988, 102 Stat. 829, 831.)
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100 368, §1(a), added subsec. (d).
+1988—Subsec. (d). Pub. L. 100–368, §1(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 100 368, §2, added subsec. (e).
+Subsec. (e). Pub. L. 100–368, §2, added subsec. (e).
 
 #### Section Referred to in Other Sections
 

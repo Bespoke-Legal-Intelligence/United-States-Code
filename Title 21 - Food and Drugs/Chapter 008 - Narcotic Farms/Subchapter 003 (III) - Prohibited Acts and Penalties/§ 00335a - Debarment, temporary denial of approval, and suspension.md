@@ -62,7 +62,7 @@
 
 > &emsp;&emsp;if the Secretary finds, on the basis of the conviction of such individual and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
-&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) of this section or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient tofind that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
+&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts thatwere the basis for a conviction for an offense described in subsection (a) of this section or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(E) whether the person to be debarred is able to present adequate evidence that current production of drugs subject to abbreviated drug applications and all pending abbreviated drug applications are free of fraud or material false statements, and
 
-&emsp;&emsp;(F) prior convictions under this chapter or under other Acts involving matters withinthe jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;(F) prior convictions under this chapter or under other Acts involving matters within the jurisdiction of the Food and Drug Administration.
 
 #### (d) Termination of debarment
 

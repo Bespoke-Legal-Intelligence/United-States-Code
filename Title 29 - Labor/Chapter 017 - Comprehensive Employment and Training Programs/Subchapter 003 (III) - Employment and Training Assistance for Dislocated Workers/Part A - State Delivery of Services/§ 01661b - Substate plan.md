@@ -30,7 +30,7 @@ The substate plan shall contain a statement of—
 
 &emsp;&emsp;(D) establishment of regional centers for the purpose of providing such outreach, assessment, and early readjustment assistance;
 
-&emsp;(8) a description of the methods by which the other parties to the agreement described in section 1661a(b) of this title may be involved in activities of the substate grantee;
+&emsp;(8) a description of the methods by which the other parties to the agreement described insection 1661a(b) of this title may be involved in activities of the substate grantee;
 
 &emsp;(9) a description of training services to be provided, including—
 

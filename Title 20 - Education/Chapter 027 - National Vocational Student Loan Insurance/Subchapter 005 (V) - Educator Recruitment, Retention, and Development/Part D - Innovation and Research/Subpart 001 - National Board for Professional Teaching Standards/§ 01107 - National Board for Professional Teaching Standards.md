@@ -6,7 +6,7 @@ For the purpose of this subpart—
 
 &emsp;(1) The term “Board” means the National Board for Professional Teaching Standards.
 
-&emsp;(2) The term “Committee” means the Fund for Improvement and Reform of Schools and Teaching Board established in section 4831<sup>1</sup> of this title.
+&emsp;(2) The term “Committee” means the Fund for Improvement and Reform of Schools and Teaching Board established in section 4831 <sup>1</sup> of this title.
 
 &emsp;(3) The term “Director” means the Director of the National Science Foundation.
 
@@ -124,7 +124,7 @@ The Board shall consult at least twice annually with the Committee on the design
 
 #### (1) National Board for Professional Teaching Standards report
 
-&emsp;The Board shall submit an annual report to the appropriate committees of the Congress not later than June 30 of any fiscal year in which Federal funds are expended pursuant to this subpart. The Board shall disseminate the report for review and comment to the Department of Education, the National Science Foundation, the National Research Council, and the education research community. The report shall—
+&emsp;The Board shall submit an annual report to the appropriate committees of the Congressnot later than June 30 of any fiscal year in which Federal funds are expended pursuant to this subpart. The Board shall disseminate the report for review and comment to the Department of Education, the National Science Foundation, the National Research Council, and the education research community. The report shall—
 
 &emsp;&emsp;(A) include a detailed financial statement and a report of the audit practices described in subsection (b)(2)(B)(vii) of this section;
 
@@ -198,45 +198,45 @@ Notwithstanding any other provision of this subpart, voluntary participation in 
 
 #### (k) Authorization of appropriations
 
-There are authorized to be appropriated $20,000,000 for the period beginning October 1, 1992, and ending September 30, 1997, to carry out the provisions of this subpart.
+There are authorized to be appropriated $20,000,000 for the period beginning October 1,1992, and ending September 30, 1997, to carry out the provisions of this subpart.
 
-(Pub. L. 89 329, title V, §551, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 693; amended Pub. L. 103 227, title X, §1013, Mar. 31, 1994, 108 Stat. 265.)
+(Pub. L. 89–329, title V, §551, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 693; amended Pub. L. 103–227, title X, §1013, Mar. 31, 1994, 108 Stat. 265.)
 
 #### References in Text
 
-Section 4831 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 103 382, title III, §365, Oct. 20, 1994, 108 Stat. 3975.
+Section 4831 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 103–382, title III, §365, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Prior Provisions
 
-A prior section 1107, Pub. L. 89 329, title V, §531, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100Stat. 1500, related to purpose and authority for professional development resource centers program, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1107, Pub. L. 89–329, title V, §531, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1500, related to purpose and authority for professional development resource centers program, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 551 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1506; amended Pub. L. 100 50, §17(a), June 3, 1987, 101 Stat. 359, set forth the purpose of the Congressional teacher scholarship program and was classified to section 1111 of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 551 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1506; amended Pub. L. 100–50, §17(a), June 3, 1987, 101 Stat. 359, set forth the purpose of the Congressional teacher scholarship program and was classified to section 1111 of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 551 of Pub. L. 89 329, title V, as added Pub. L. 96 374, title V, §506, Oct. 3, 1980, 94 Stat. 1464, stated Congressional findings concerning Federal programs to train education professionals and was classified to section 1119c of this title, prior to the general revision of this subchapter by Pub. L. 99 498.
+Another prior section 551 of Pub. L. 89–329, title V, as added Pub. L. 96–374, title V, §506, Oct. 3, 1980, 94 Stat. 1464, stated Congressional findings concerning Federal programs to train education professionals and was classified to section 1119c of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 551 of Pub. L. 89 329, title V, as added Pub. L. 90 576, title II, §201, Oct. 16, 1968, 82 Stat. 1091, stated the Congressional declaration of purpose and was classified to section 1119c of this title, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Another prior section 551 of Pub. L. 89–329, title V, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1091, stated the Congressional declaration of purpose and was classified to section 1119c of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
-Another prior section 1107, Pub. L. 89 329, title V, §517, Nov. 8, 1965, 79 Stat. 1258; Pub. L. 90 35, §3(a)(3), June 29, 1967, 81 Stat. 85, prohibited members of the Teacher Corps from acting as replacements for teachers, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Another prior section 1107, Pub. L. 89–329, title V, §517, Nov. 8, 1965, 79 Stat. 1258; Pub. L. 90–35, §3(a)(3), June 29, 1967, 81 Stat. 85, prohibited members of the Teacher Corps from acting as replacements for teachers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-Sections 1107a to 1107d were omitted in the general revision of this subchapter by Pub. L. 102 325.
+Sections 1107a to 1107d were omitted in the general revision of this subchapter by Pub. L. 102–325.
 
-Section 1107a, Pub. L. 89 329, title V, §532, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1501, related to geographical distribution of grants to establish and operate professional development resource centers.
+Section 1107a, Pub. L. 89–329, title V, §532, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1501, related to geographical distribution of grants to establish and operate professional development resource centers.
 
-Another prior section 1107a, Pub. L. 89 329, title V, §517A, as added Pub. L. 90 35, §3(i), June 29, 1967, 81 Stat. 87, related to teaching children of migratory agricultural workers, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Another prior section 1107a, Pub. L. 89–329, title V, §517A, as added Pub. L. 90–35, §3(i), June 29, 1967, 81 Stat. 87, related to teaching children of migratory agricultural workers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-Section 1107b, Pub. L. 89 329, title V, §533, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1501, related to grant requirements for professional development resource centers.
+Section 1107b, Pub. L. 89–329, title V, §533, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1501, related to grant requirements for professional development resource centers.
 
-Section 1107c, Pub. L. 89 329, title V, §534, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1502, related to requirement for professional development policy boards.
+Section 1107c, Pub. L. 89–329, title V, §534, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1502, related to requirement for professional development policy boards.
 
-Section 1107d, Pub. L. 89 329, title V, §535, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1502, related to submission and approval of applications for grants to establish and operate professional development resource centers.
+Section 1107d, Pub. L. 89–329, title V, §535, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1502, related to submission and approval of applications for grants to establish and operate professional development resource centers.
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103 227, §1013(1), struck out “the Federal share of” after “in order to pay”.
+1994—Subsec. (b)(1). Pub. L. 103–227, §1013(1), struck out “the Federal share of” after “in order to pay”.
 
-Subsec. (e)(1)(B). Pub. L. 103 227, §1013(2), which directed substitution of “contributions described in subsection (f) of this section are” for “share of the cost of the activities of the Board is”, was executed by making the substitution for “share of the cost of activities of the Board is”, to reflect the probable intent of Congress.
+Subsec. (e)(1)(B). Pub. L. 103–227, §1013(2), which directed substitution of “contributions described in subsection (f) of this section are” for “share of the cost of the activities of the Board is”, was executed by making the substitution for “share of the cost of activities of the Board is”, to reflect the probable intent of Congress.
 
-Subsec. (f). Pub. L. 103 227, §1013(3), amended heading and text of subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 103–227, §1013(3), amended heading and text of subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(f)
 
@@ -252,5 +252,5 @@ Amount of federal share.—The Federal share shall be 50 percent of the costs of
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

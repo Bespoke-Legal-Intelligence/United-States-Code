@@ -66,7 +66,7 @@ Subsec. (i). Pub. L. 103–438 added subsec. (i).
 
 Pub. L. 100–86, §715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in section 57a(f)(4) of this title and reference to in business as a Federal credit union.
 
-1980—Subsec. (f). Pub. L. 96–252, §3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
+1980—Subsec. (f). Pub. L. 96–252, §3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial informationwhich is obtained from any person and which is privileged or confidential.
 
 Pub. L. 96–252, §§3(b)–5(a), inserted three undesignated paragraphs following subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
 
@@ -86,7 +86,7 @@ Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted “
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 

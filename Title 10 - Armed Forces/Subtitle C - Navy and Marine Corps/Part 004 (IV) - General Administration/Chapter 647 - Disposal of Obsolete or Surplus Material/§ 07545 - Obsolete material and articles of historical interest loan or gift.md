@@ -1,4 +1,4 @@
-### §7545 . Obsolete material and articles of historical interest: loan or gift
+### §7545. Obsolete material and articles of historical interest: loan or gift
 
 (a) Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—
 

@@ -64,7 +64,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) subsections (a)(1)(B) and (b)(2) shall be applied by taking into account the fair market value and the adjusted basis of such other property, and
 
-&emsp;&emsp;(C) the amount determined under subsection (b)(2) with respect to such other property shall be allocated (under regulations prescribed by the Secretary) among such other property and all properties held by the trust which have a basis determined in whole or in part by reference to the basis of such other property.
+&emsp;&emsp;(C) the amount determined under subsection (b)(2) with respect to such otherproperty shall be allocated (under regulations prescribed by the Secretary) among such other property and all properties held by the trust which have a basis determined in whole or in part by reference to the basis of such other property.
 
 #### (e) Exceptions
 

@@ -58,7 +58,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;(IV) a lower income family on the waiting list of such public housing agency for public housing or assistance under section 1437f of this title, with priority given in the order in which the family appears on the waiting list.
 
-&emsp;(iii) Each resident management corporation shall provide each family described in clause (ii) with a notice of the eligibility of the family to purchase a dwelling unit under this paragraph.
+&emsp;(iii) Each resident management corporation shall provide each family described in clause\(ii) with a notice of the eligibility of the family to purchase a dwelling unit under this paragraph.
 
 &emsp;(B) A purchase under subparagraph (A) may be made under any of the following arrangements:
 
@@ -112,7 +112,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (3) Rental assistance
 
-&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) a certificate under section 1437f(b)(1) of this title or a housing voucher under section 1437f(<i>o</i>) of this title for as longas the family continues to reside in the building. The Secretary may adjust the fair market rent for such certificate to take into account conditions under which the building was purchased.
+&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) a certificate under section 1437f(b)(1) of this title or a housing voucher under section 1437f(<i>o</i>) of this title for as long as the family continues to reside in the building. The Secretary may adjust the fair market rent for such certificate to take into account conditions under which the building was purchased.
 
 #### (4) Rental and relocation assistance
 
@@ -134,33 +134,33 @@ This section shall not apply to the turnkey III, the mutual help, or any other h
 
 The Secretary shall issue such regulations as may be necessary to carry out the provisions of this section. Such regulations may establish any additional terms and conditions for homeownership or resident management under this section that are determined by the Secretary to be appropriate.
 
-#### (f) Annual report
-
-The Secretary shall annually submit to the Congress a report setting forth—
-
-&emsp;(1) the number, type, and cost of units sold;
-
-&emsp;(2) the income, race, gender, children, and other characteristics of families purchasing or moving and not purchasing;
-
-&emsp;(3) the amount and type of financial assistance provided;
-
-&emsp;(4) the need for subsidy to ensure continued affordability and meet future maintenance and repair costs;
-
-&emsp;(5) any need for the development of additional public housing dwelling units as a result of the sale of public housing dwelling units under this section;
-
-&emsp;(6) recommendations of the Secretary for additional budget authority to carry out such development;
-
-&emsp;(7) recommendations of the Secretary to ensure decent homes and decent neighborhoods for low-income families; and
-
-&emsp;(8) the recommendations of the Secretary for statutory and regulatory improvements to the program.
+#### (f) Repealed. Pub. L. 104–66, title I, §1071(a), Dec. 21, 1995, 109 Stat. 720
 
 #### (g) Limitation
 
 Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
 
-(Sept. 1, 1937, ch. 896, title I, §21, as added Feb. 5, 1988, Pub. L. 100–242, title I, §123, 101 Stat. 1842; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Nov. 28, 1990, Pub. L. 101–625, title IV, §416, title V, §572(1), 104 Stat. 4161, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §118, 106 Stat. 3695.)
+(Sept. 1, 1937, ch. 896, title I, §21, as added Feb. 5, 1988, Pub. L. 100–242, title I, §123, 101 Stat. 1842; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Nov. 28, 1990, Pub. L. 101–625, title IV, §416, title V, §572(1), 104 Stat. 4161, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §118, 106 Stat. 3695; Dec. 21, 1995, Pub. L. 104–66, title I, §1071(a), 109 Stat. 720.)
 
 #### Amendments
+
+1995—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: “The Secretary shall annually submit to the Congress a report setting forth—
+
+&emsp;“(1) the number, type, and cost of units sold;
+
+&emsp;“(2) the income, race, gender, children, and other characteristics of families purchasing or moving and not purchasing;
+
+&emsp;“(3) the amount and type of financial assistance provided;
+
+&emsp;“(4) the need for subsidy to ensure continued affordability and meet future maintenance and repair costs;
+
+&emsp;“(5) any need for the development of additional public housing dwelling units as a result of the sale of public housing dwelling units under this section;
+
+&emsp;“(6) recommendations of the Secretary for additional budget authority to carry out such development;
+
+&emsp;“(7) recommendations of the Secretary to ensure decent homes and decent neighborhoods for low-income families; and
+
+&emsp;“(8) the recommendations of the Secretary for statutory and regulatory improvements to the program.”
 
 1992—Subsec. (a)(2)(C), (3)(C). Pub. L. 102–550 substituted “February 4, 1991” for “the effective date of the regulations implementing subchapter II–A of this chapter” and “after such date” for “after such effective date” and made technical amendment to reference to November 28, 1990, to reflect correction of corresponding provisions of original act.
 

@@ -26,9 +26,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate” for “Committee on Government Operations of the Senate”.
+<b>1994</b>—Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate” for “Committee on Government Operations of the Senate”.
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
 

@@ -10,7 +10,7 @@ Notwithstanding any other provision of this subchapter—
 
 &emsp;(1) the Secretary may, consistent with section 903(e) of this title, at any time allow frequencies allocated on a primary basis for Federal Government use to be used by non-Federal licensees on a mixed-use basis for the purpose of facilitating the prompt implementation of new technologies or services and for other purposes; and
 
-&emsp;(2) the Commission shall make any allocation and licensing decisions with respect tosuch frequencies in a timely manner and in no event later than the date required by section 157 of this title.
+&emsp;(2) the Commission shall make any allocation and licensing decisions with respect to such frequencies in a timely manner and in no event later than the date required by section 157 of this title.
 
 (Pub. L. 102–538, title I, §117, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 386.)
 

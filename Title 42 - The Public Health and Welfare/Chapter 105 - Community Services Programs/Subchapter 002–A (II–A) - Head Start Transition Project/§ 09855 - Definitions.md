@@ -30,7 +30,7 @@ As used in this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B of title I of Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1238, known as the Head Start Transition Project Act, which is classifiedgenerally to this subchapter. For complete classification of subtitle B to the Code, see Short Title of 1990 Amendment note set out under section 9801 of this title and Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B of title I of Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1238, known as the Head Start Transition Project Act, which is classified generally to this subchapter. For complete classification of subtitle B to the Code, see Short Title of 1990 Amendment note set out under section 9801 of this title and Tables.
 
 The Head Start Act, referred to in par. (3), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 

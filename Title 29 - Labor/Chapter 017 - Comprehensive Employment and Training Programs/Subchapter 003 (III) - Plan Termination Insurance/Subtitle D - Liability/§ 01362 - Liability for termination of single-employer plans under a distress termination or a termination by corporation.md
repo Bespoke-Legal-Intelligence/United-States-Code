@@ -24,7 +24,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the liability to the corporation under this subsection shall be due and payable to the corporation as of the termination date, in cash or securities acceptable to the corporation.
+&emsp;&emsp;Except as provided in subparagraph (B), the liability to the corporation under thissubsection shall be due and payable to the corporation as of the termination date, in cash or securities acceptable to the corporation.
 
 #### (B) Special rule
 
@@ -78,11 +78,11 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 &emsp;&emsp;(B) for any fiscal year of an organization described in section 501(c) of title 26, the excess of income over expenses (as such terms are defined for such organizations under generally accepted accounting principles),
 
-> &emsp;before provision for or deduction of Federal or other income tax, any contribution to any single-employer plan of which such person is a contributing sponsor at any time during the period beginning on the termination date and ending with the end of such fiscal year, and any amounts required to be paid for such fiscal year under this section. The corporation may by regulation require such information to be filed on such forms as may be necessary todetermine the existence and amount of such pre-tax profits.
+> &emsp;before provision for or deduction of Federal or other income tax, any contribution to any single-employer plan of which such person is a contributing sponsor at any time during the period beginning on the termination date and ending with the end of such fiscal year, and any amounts required to be paid for such fiscal year under this section. The corporation may by regulation require such information to be filed on such forms as may be necessary to determine the existence and amount of such pre-tax profits.
 
 #### (e) Treatment of substantial cessation of operations
 
-If an employer ceases operations at a facility in any location and, as a result of such cessation of operations, more than 20 percent of the total number of his employees who are participants under a plan established and maintained by him are separated from employment, the employer shall be treated with respect to that plan as if he were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
+If an employer ceases operations at a facility in any location and, as a result of such cessationof operations, more than 20 percent of the total number of his employees who are participants under a plan established and maintained by him are separated from employment, the employer shall be treated with respect to that plan as if he were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
 
 (Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445.)
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Special Delayed Payment Rule
 
-Section 11012(d) of Pub. L. 99–272 provided that: “In the case of a distress termination under section 4041(c) of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989.”
+Section 11012(d) of Pub. L. 99–272 provided that: “In the case of a distress termination under section 4041(c)of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989.”
 
 #### Section Referred to in Other Sections
 

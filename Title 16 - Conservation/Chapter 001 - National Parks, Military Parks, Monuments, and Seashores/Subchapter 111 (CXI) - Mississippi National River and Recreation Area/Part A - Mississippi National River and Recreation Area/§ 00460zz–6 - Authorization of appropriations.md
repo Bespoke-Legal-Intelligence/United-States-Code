@@ -1,4 +1,4 @@
-### §460zz–6 . Authorization of appropriations
+### §460zz–6. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary to carry out this part.
 

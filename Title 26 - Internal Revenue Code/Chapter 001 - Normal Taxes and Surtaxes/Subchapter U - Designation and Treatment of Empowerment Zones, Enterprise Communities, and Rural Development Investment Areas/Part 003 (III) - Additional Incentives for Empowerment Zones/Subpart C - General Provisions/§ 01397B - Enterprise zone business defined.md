@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (e) Nonqualified financial property
 
-For purposes of this section, the term “nonqualified financial property” means debt, stock,partnership interests, options, futures contracts, forward contracts, warrants, notional principal contracts, annuities, and other similar property specified in regulations; except that such term shall not include—
+For purposes of this section, the term “nonqualified financial property” means debt, stock, partnership interests, options, futures contracts, forward contracts, warrants, notional principal contracts, annuities, and other similar property specified in regulations; except that such term shall not include—
 
 &emsp;(1) reasonable amounts of working capital held in cash, cash equivalents, or debt instruments with a term of 18 months or less, or
 

@@ -24,11 +24,11 @@ The term “net earnings from self-employment” means the gross income derived 
 
 &emsp;(5) if—
 
-&emsp;&emsp;(A) any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife; and
+&emsp;&emsp;(A) any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such grossincome and deductions shall be treated as the gross income and deductions of the wife; and
 
 &emsp;&emsp;(B) any portion of a partner's distributive share of the ordinary income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
 
-&emsp;(6) a resident of Puerto Rico shall compute his net earnings from self-employment in thesame manner as a citizen of the United States but without regard to section 933;
+&emsp;(6) a resident of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to section 933;
 
 &emsp;(7) the deduction for personal exemptions provided in section 151 shall not be allowed;
 
@@ -66,7 +66,7 @@ The term “net earnings from self-employment” means the gross income derived 
 
 &emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) applies) is not more than $2,400, his distributive share of income described in section 702(a)(8) derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
-&emsp;(iv) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) applies) is more than $2,400 and his distributive share (whether or not distributed) of income described in section 702(a)(8) derived from such trade or business (computed under this subsection without regard to this sentence) is less than $1,600, his distributive share of income described in section 702(a)(8) derived from such trade or business may, at his option, be deemed to be $1,600.
+&emsp;(iv) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) applies) is more than $2,400 and his distributive share (whether or not distributed) of income described in section 702(a)(8) derived from such trade or business (computedunder this subsection without regard to this sentence) is less than $1,600, his distributive share of income described in section 702(a)(8) derived from such trade or business may, at his option, be deemed to be $1,600.
 
 > For purposes of the preceding sentence, gross income means—
 
@@ -104,7 +104,7 @@ The term “trade or business”, when used with reference to self-employment in
 
 &emsp;&emsp;(D) service described in paragraph (4) of this subsection,
 
-&emsp;&emsp;(E) service performed by an individual as an employee of a State or a political subdivision thereof in a position compensated solely on a fee basis with respect to fees received in any period in which such service is not covered under an agreement entered into by such State and the Commissioner of Social Security pursuant to section 218 of the Social Security Act,
+&emsp;&emsp;(E) service performed by an individual as an employee of a State or a political subdivision thereof in a position compensated solely on a fee basis with respect to fees received in any period in which such service is not covered under an agreement entered into bysuch State and the Commissioner of Social Security pursuant to section 218 of the Social Security Act,
 
 &emsp;&emsp;(F) service described in section 3121(b) (20), and
 
@@ -362,7 +362,7 @@ Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(155)(B), redesignated subsec. (i)
 
 Pub. L. 93–66 substituted “$12,600” for “$12,000”.
 
-1972—Subsec. (a)(8), (11). Pub. L. 92–603, §§121(b)(1), 124(b), 140(b), in par. (8), struck out limitation underwhich provisions authorizing the computation of net earnings without regard to sections 911 and 931 were limited to citizens of the United States performing religious service as employees of an American employer or as ministers in a foreign country having a congregation predominantly of citizens of the United States, added par. (11), and extended the application of provisions relating to agricultural labor to trade or business carried on by individuals, self-employed or in partnership, with certain exceptions.
+1972—Subsec. (a)(8), (11). Pub. L. 92–603, §§121(b)(1), 124(b), 140(b), in par. (8), struck out limitation under which provisions authorizing the computation of net earnings without regard to sections 911 and 931 were limited to citizens of the United States performing religious service as employees of an American employer or as ministers in a foreign country having a congregation predominantly of citizens of the United States, added par. (11), and extended the application of provisions relating to agricultural labor to trade or business carried on by individuals, self-employed or in partnership, with certain exceptions.
 
 Subsec. (b)(1)(F). Pub. L. 92–336, §203(b)(1)(A), inserted “and before 1973” after “1971”.
 
@@ -498,7 +498,7 @@ Section 10204(a)(2) of Pub. L. 101–239 provided that: “The amendments made b
 
 Amendment by section 3043(c)(1) of Pub. L. 100–647 applicable to all periods beginning before, on, or after Nov. 10, 1988, with no inference created as to existence or nonexistence or scope of any exemption from tax for income derived from fishing rights secured as of Mar. 17, 1988, by any treaty, law, or Executive Order, see section 3044 of Pub. L. 100–647, set out as an Effective Date note under section 7873 of this title.
 
-Section 8007(d) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[enacting section 3127 of this title and renumbering former section 3127 of this title as section 3128\] shall apply to wages paid after December 31, 1988. The amendments made by subsection (b) \[amending section 402 of Title 42, The Public Health and Welfare\] shall apply to benefits paid for (and items and services furnished in) months after December 1988. The amendments made by subsection (c) \[amending this section\] shall apply to applications for exemptions filed on or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 8007(d) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[enacting section 3127 of this title and renumbering former section 3127 of this title as section 3128\] shall apply to wages paid afterDecember 31, 1988. The amendments made by subsection (b) \[amending section 402 of Title 42, The Public Health and Welfare\] shall apply to benefits paid for (and items and services furnished in) months after December 1988. The amendments made by subsection (c) \[amending this section\] shall apply to applications for exemptions filed on or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -506,7 +506,7 @@ Section 9022(c) of Pub. L. 100–203 provided that: “The amendments made by th
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 301(b)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
+Amendment by section 301(b)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
 Amendment by section 1272(d)(8), (9) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -588,7 +588,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginn
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 108(b)(1) of Pub. L. 90–248 applicable only with respect to taxable years ending after1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
+Amendment by section 108(b)(1) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
 Section 115(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 411 of Title 42\] shall apply only with respect to taxable years ending after 1967.”
 
@@ -634,7 +634,7 @@ Section 202(b) of Pub. L. 87–64 provided that: “The amendment made by subsec
 
 #### Effective Date of 1960 Amendment
 
-Section 101(f) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically indicated therein) only with respect to certificates (and supplemental certificates) filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Sept. 13, 1960\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of suchamendments, and no lump-sum death payment under such title shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[Sept. 13, 1960\].”
+Section 101(f) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically indicated therein) only with respect to certificates (and supplemental certificates) filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Sept. 13, 1960\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendments, and no lump-sum death payment under such title shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 Amendment by section 103(k) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as such enactment involves the nonapplication of section 932 of this title to the Virgin Islands for purposes of section 1401 et seq. of this title and section 411 of Title 42, such enactment shall be effective in the case of all taxable years with respect to which such chapter 2 (and corresponding provisions of prior law) and section 411 of Title 42 are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
 
@@ -646,9 +646,9 @@ Amendment by section 106(b) of Pub. L. 86–778 applicable only with respect to 
 
 Section 403(b) of Pub. L. 85–840, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply only with respect to individuals who die after the date of the enactment of this Act \[August 28, 1958\].
+“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply only with respect to individuals who die after the date of the enactment of this Act \[Aug. 28, 1958\].
 
-“(2) In the case of an individual who died after 1955 and on or before the date of the enactment of this Act \[August 28, 1958\], the amendment made by subsection (a) \[amending this section\] shall apply only if—
+“(2) In the case of an individual who died after 1955 and on or before the date of the enactment of this Act \[Aug. 28, 1958\], the amendment made by subsection (a) \[amending this section\] shall apply only if—
 
 &emsp;“(A) before January 1, 1960, there is filed a return (or amended return) of the tax imposed by chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 1401 et seq. of this title\] for the taxable year ending as a result of his death, and
 
@@ -682,7 +682,7 @@ Amendment by section 201(e)(2), (f) of act Aug. 1, 1956, applicable with respect
 
 #### Effective Date of 1954 Amendment
 
-Section 201(d) of act Sept. 1, 1954, provided that: “The amendments made by subsections (a), (b) and (c) of this section \[amending this section\] shall be applicable only with respect to taxable years ending after 1954.”
+Section 201(d) of act Sept. 1, 1954, provided that: “The amendments made by subsections (a), (b) and (c) of thissection \[amending this section\] shall be applicable only with respect to taxable years ending after 1954.”
 
 #### Limited Exemption for Canadian Ministers From Certain Self-Employment Tax Liability
 
@@ -742,7 +742,7 @@ Section 316 of Pub. L. 95–216, as amended by Pub. L. 99–514, §2, Oct. 22, 1
 
 &emsp;“(2) no later than the due date of the Federal income tax return (including any extension thereof) for the applicant's first taxable year beginning after the date of the enactment of this Act \[Dec. 20, 1977\].
 
-> Any such revocation shall be effective (for purposes of chapter 2 of the Internal Revenue Code of 1986 \[this chapter\] and title II of the Social Security Act \[section 401 et seq. of Title 42\]), as specified in the application, either with respect to the applicant's first taxable year ending on or after the date of the enactment of this Act \[Dec. 20, 1977\] or with respect to the applicant's first taxable year beginning after such date, and for all succeeding taxable years; and the applicant for any such revocation may not thereafter again file application for an exemption under such section 1402(e)(1). If the application is filed on or after the due date of the applicant's first taxable year ending on or after the date of the enactment of this Act \[Dec. 20, 1977\] and is effective with respect to that taxable year, it shall include or be accompanied by payment in full of an amount equal to the total of the taxes that would have been imposed by section 1401 of the Internal Revenue Code of 1986 with respect to all of the applicant's income derived in that taxable year which would have constituted net earnings from self-employment for purposes of chapter 2 of such Code \[this chapter\] (notwithstanding section1402(c)(4) or (c)(5) of such Code) except for the exemption under section 1402(e)(1) of such Code.
+> Any such revocation shall be effective (for purposes of chapter 2 of the Internal Revenue Code of 1986 \[this chapter\] and title II of the Social Security Act \[section401 et seq. of Title 42\]), as specified in the application, either with respect to the applicant's first taxable year ending on or after the date of the enactment of this Act \[Dec. 20, 1977\] or with respect to the applicant's first taxable year beginning after such date, and for all succeeding taxable years; and the applicant for any such revocation may not thereafter again file application for an exemption under such section 1402(e)(1). If the application is filed on or after the due date of the applicant's first taxable year ending on or after the date of the enactment of this Act \[Dec. 20, 1977\] and is effective with respect to that taxable year, it shall include or be accompanied by payment in full of an amount equal to the total of the taxes that would have been imposed by section 1401 of the Internal Revenue Code of 1986 with respect to all of the applicant's income derived in that taxable year which would have constituted net earnings from self-employment for purposes of chapter 2 of such Code \[this chapter\] (notwithstanding section 1402(c)(4) or (c)(5) of such Code) except for the exemption under section 1402(e)(1) of such Code.
 
 “(b) Subsection (a) shall apply with respect to service performed (to the extent specified in such subsection) in taxable years ending on or after the date of the enactment of this Act \[Dec. 20, 1977\], and with respect to monthly insurance benefits payable under title II of the Social Security Act \[section 401 et seq. of Title 42\] on the basis of the wages and self-employment income of any individual for months in or after the calendar year in which such individual's application for revocation (as described in such subsection) is filed (and lump-sum death payments payable under such title on the basis of such wages and self-employment income in the case of deaths occurring in or after such calendar year).”
 

@@ -14,7 +14,7 @@
 
 #### (2) Authority to withhold financing
 
-&emsp;The procedures established under paragraph (1) shall permit the Board of Directors, in its judgment, to withhold financing from a project for environmental reasons or to approve financing after considering the potential environmental effects of a project.
+&emsp;The procedures established under paragraph (1) shall permit the Board of Directors, in its judgment, to withhold financing from aproject for environmental reasons or to approve financing after considering the potential environmental effects of a project.
 
 #### (b) Use of Bank programs to encourage certain exports
 

@@ -54,7 +54,7 @@
 
 &emsp;(C) the arbitration hearing shall be open to the public.
 
-(2) The arbitrators in any arbitration are empowered to settle any dispute arising under the provisions of this chapter prior to making a final award, if mutually agreed to by the parties to the proceeding and achieved in a manner not inconsistent with the constitution and bylaws of the Corporation.
+(2) The arbitrators in any arbitration are empowered to settle any dispute arising under the provisions of this chapter prior to making afinal award, if mutually agreed to by the parties to the proceeding and achieved in a manner not inconsistent with the constitution and bylaws of the Corporation.
 
 (3) Each contesting party may be represented by counsel or by any other duly authorized representative at the arbitration proceeding. The parties may offer any evidence which they desire and shall produce any additional evidence as the arbitrators believe necessary to an understanding and determination of the dispute. The arbitrators shall be the sole judges of the relevancy and materiality of the evidence offered. Conformity to legal rules of evidence shall not be necessary.
 

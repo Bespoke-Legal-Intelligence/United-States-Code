@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under section 141 of this title.
 
-#### Similar Provisions
+#### Prior Provisions
 
 Provisions relating to reserve cities and central reserve cities were contained in R.S. §§5191, 5192, and act Mar. 3, 1887, ch. 378, §§1, 2, 24 Stat. 559, 560.
 

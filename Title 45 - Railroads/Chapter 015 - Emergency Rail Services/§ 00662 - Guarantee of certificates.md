@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; prerequisites; procedures; waiver
 
-The trustees of any railroad undergoing reorganization under section 77 of the Bankruptcy Act, as amended, upon approval of the court, may apply to the Secretary for the guarantee of certificates. The Secretary, after consultation with the Commission, is authorized to guarantee such certificates upon findings in writing that—
+The trustees of any railroad undergoing reorganization under section 77 of the Bankruptcy Act, as amended, upon approval of the court, may apply to the Secretary for the guarantee of certificates. The Secretary, after consultation with the Board, is authorized to guarantee such certificates upon findings in writing that—
 
 &emsp;(1) cessation of essential transportation services by the railroad would endanger the public welfare;
 
@@ -20,15 +20,15 @@ The trustees of any railroad undergoing reorganization under section 77 of the B
 
 #### (b) Conditions to guarantee
 
-As a condition to a guarantee, the Secretary, after consultation with the Commission, shall require that:
+As a condition to a guarantee, the Secretary, after consultation with the Board, shall require that:
 
-&emsp;(1) the proceeds of the sale of certificates guaranteed under this chapter, will be used solely for meeting payroll and other expenses which, if not met, would preclude continuedprovision of essential transportation services by the railroad;
+&emsp;(1) the proceeds of the sale of certificates guaranteed under this chapter, will be used solely for meeting payroll and other expenses which, if not met, would preclude continued provision of essential transportation services by the railroad;
 
 &emsp;(2) other revenues of the railroad will be used, to the fullest extent possible, for such expenses;
 
 &emsp;(3) proceeds from the sale of assets will be devoted to the fullest extent possible to the provision of essential transportation services by the railroad; and
 
-&emsp;(4) in the event of actual or threatened cessation of essential transportation services by the railroad, the Secretary shall have the option to procure by purchase or lease trackage rights over the lines of the railroad and such equipment as may be necessary to provide such services by the Secretary or his assignee, and, in the event of a default in the payment of principal or interest as provided by the certificates, the money paid or expenses incurred by the United States as a result thereof shall be deemed to have been applied to the purchase or lease price. The terms of purchase or lease shall be subject to the approval of the reorganization court and the operation over the lines shall be subject to the approval of the Commission pursuant to the provisions of subchapter III of chapter 113 of title 49, but in no event shall the rendition of services by the Secretary or his assignee await the outcome of proceedings before the reorganization court or the Commission.
+&emsp;(4) in the event of actual or threatened cessation of essential transportation services by the railroad, the Secretary shall have the option to procure by purchase or lease trackage rights over the lines of the railroad and such equipment as may be necessary to provide such services by the Secretary or his assignee, and, in the event of a default in the payment of principal or interest as provided by the certificates, the money paid or expenses incurred by the United States as a result thereof shall be deemed to have been applied to the purchase or lease price. The terms of purchase or lease shall be subject to the approval of the reorganization court and the operation over the lines shall be subject to the approval of the Board pursuant to subchapter II of chapter 113 of title 49, but in no event shall the rendition of services by the Secretary or his assignee await the outcome of proceedings before the reorganization court or the Board.
 
 #### (c) Certificate as administrative expense; priority of certificate
 
@@ -46,17 +46,17 @@ At any one time the outstanding aggregate principal amount of all certificates g
 
 The Secretary shall issue such rules and regulations as are appropriate to carry out the authority granted by this chapter.
 
-(Pub. L. 91–663, §3, Jan. 8, 1971, 84 Stat. 1975; Pub. L. 95–598, title III, §333, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 95–611, §3(b), Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–86, §115(a), Oct. 12, 1979, 93 Stat. 662; Pub. L. 96–101, §7(a)–(c), Nov. 4, 1979, 93 Stat. 739, 740.)
+(Pub. L. 91–663, §3, Jan. 8, 1971, 84 Stat. 1975; Pub. L. 95–598, title III, §333, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 95–611, §3(b), Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–86, §115(a), Oct. 12, 1979, 93 Stat. 662; Pub. L. 96–101, §7(a)–(c), Nov. 4, 1979, 93 Stat. 739, 740; Pub. L. 104–88, title III, §325(2), Dec. 29, 1995, 109 Stat. 951.)
 
 #### References in Text
 
-The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
-
-#### Codification
-
-In subsec. (b), “subchapter III of chapter 113 of title 49” substituted for “section 5 of the Interstate Commerce Act \[49 U.S.C. 5\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
+The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
+
+1995—Subsec. (a). Pub. L. 104–88, §325(2)(B), substituted “Board” for “Commission” in introductory provisions.
+
+Subsec. (b). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing and “subchapter II of chapter 113 of title 49” for “the provisions of section 5 of the Interstate Commerce Act” in par. (4).
 
 1979—Subsec. (a). Pub. L. 96–101, §7(a), struck out “upon a finding that the guarantee of certificates is necessary in order for a railroad which has received continued loan advances, pursuant to section 721(d)(1) of this title, to maintain rail services in the region (as such term is defined in section 702(15) of this title)” after “of this subsection” and provision requiring that Secretary not make any waiver under preceding sentence after Dec. 31, 1979.
 
@@ -69,6 +69,10 @@ Pub. L. 96–86 provided that, with respect to a railroad which filed a petition
 1978—Subsec. (a). Pub. L. 95–611 inserted provision authorizing Secretary to waive requirements of paragraphs (1), (5), and (6) of subsec. (a) until Dec. 31, 1979.
 
 Subsec. (c). Pub. L. 95–598 struck out subsec. (c) which related to treatment of a certificate as an administrative expense and priority of the certificate.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1978 Amendment
 

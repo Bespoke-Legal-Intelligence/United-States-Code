@@ -44,7 +44,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) an alternative diploma or certificate for students with disabilities for whom such alternative diploma or certificate is appropriate;
 
-&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years of postsecondary education (if appropriate); and
+&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years ofpostsecondary education (if appropriate); and
 
 &emsp;&emsp;&emsp;(iii) a skill certificate; and
 
@@ -126,7 +126,7 @@ As used in this chapter:
 
 #### (16) Rural community with low population density
 
-&emsp;The term “rural community with low population density” means a county, block numberarea in a nonmetropolitan county, or consortium of counties or of such block number areas, that has a population density of 20 or fewer individuals per square mile.
+&emsp;The term “rural community with low population density” means a county, block number area in a nonmetropolitan county, or consortium of counties or of such block number areas, that has a population density of 20 or fewer individuals per square mile.
 
 #### (17) School dropout
 
@@ -168,21 +168,21 @@ As used in this chapter:
 
 &emsp;The term “workplace mentor” means an employee or other individual, approved by the employer at a workplace, who possesses the skills and knowledge to be mastered by a student, and who instructs the student, critiques the performance of the student, challenges the student to perform well, and works in consultation with classroom teachers and the employer of the student.
 
-(Pub. L. 103 239, §4, May 4, 1994, 108 Stat. 572; Pub. L. 103 382, title III, §394(j)(1), Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 103–239, §4, May 4, 1994, 108 Stat. 572; Pub. L. 103–382, title III, §394(j)(1), Oct. 20, 1994, 108 Stat. 4029.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in par. (3), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in par. (3), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in pars. (11)(B)(viii) and (12), is Pub. L. 89 329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in pars. (11)(B)(viii) and (12), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pub. L. 92 203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Job Training Partnership Act, referred to in par. (20)(B), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part B of title IV of the Act is classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part B of title IV of the Act is classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
 #### Amendments
 
-1994—Par. (15). Pub. L. 103 382 substituted “section 1401(a)(17)” for “section 1401(17)”.
+1994—Par. (15). Pub. L. 103–382 substituted “section 1401(a)(17)” for “section 1401(17)”.
 

@@ -12,7 +12,7 @@
 
 #### (b) Regulations to insure compliance with noise emission standards
 
-The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title49 and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
+The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title 49 and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
 
 #### (c) State and local standards and controls
 
@@ -22,9 +22,9 @@ The Secretary of Transportation, after consultation with the Administrator shall
 
 #### (d) “Motor carrier” defined
 
-For purposes of this section, the term “motor carrier” includes a common carrier by motor vehicle, a contract carrier by motor vehicle, and a private carrier of property by motor vehicle as those terms are defined by section 10102 of title 49.
+For purposes of this section, the term “motor carrier” includes a motor carrier and motor private carrier as those terms are defined in section 13102 of title 49.
 
-(Pub. L. 92–574, §18, Oct. 27, 1972, 86 Stat. 1249.)
+(Pub. L. 92–574, §18, Oct. 27, 1972, 86 Stat. 1249.; Pub. L. 104–88, title III, §339, Dec. 29, 1995, 109 Stat. 955.)
 
 #### References in Text
 
@@ -32,7 +32,15 @@ The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89�
 
 #### Codification
 
-In subsecs. (b) and (d), “subtitle IV of title 49” and “section 10102 of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” and “paragraphs (14), (15), and (17) of section 203(a) of the Interstate Commerce Act (49 U.S.C. 303(a))”, respectively, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+
+#### Amendments
+
+1995—Subsec. (d). Pub. L. 104–88 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this section, the term ‘motor carrier’ includes a common carrier by motor vehicle, a contract carrier by motor vehicle, and a private carrier of property by motor vehicle as those terms are defined by section 10102 of title 49.”
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Section Referred to in Other Sections
 

@@ -29,6 +29,10 @@
 
 A prior chapter 67, consisting of sections 6701 to 6724, related to revenue sharing, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 42 section 14214.
+
 
 ---
 

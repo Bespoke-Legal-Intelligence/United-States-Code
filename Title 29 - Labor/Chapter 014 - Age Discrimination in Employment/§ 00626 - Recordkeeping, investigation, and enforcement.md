@@ -30,7 +30,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 #### (f) Waiver
 
-(1) An individual may not waive any right or claim under this chapter unless the waiver is knowing and voluntary. Except as provided in paragraph (2), a waiver may not be considered knowing and voluntary unless at a minimum—
+(1) An individual may not waive any right or claim under this chapter unless the waiver isknowing and voluntary. Except as provided in paragraph (2), a waiver may not be considered knowing and voluntary unless at a minimum—
 
 &emsp;(A) the waiver is part of an agreement between the individual and the employer that is written in a manner calculated to be understood by such individual, or by the average individual eligible to participate;
 
@@ -62,7 +62,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 (3) In any dispute that may arise over whether any of the requirements, conditions, and circumstances set forth in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H) of paragraph (1), or subparagraph (A) or (B) of paragraph (2), have been met, the party asserting the validity of a waiver shall have the burden of proving in a court of competent jurisdiction that a waiver was knowing and voluntary pursuant to paragraph (1) or (2).
 
-(4) No waiver agreement may affect the Commission's rights and responsibilities to enforcethis chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
+(4) No waiver agreement may affect the Commission's rights and responsibilities to enforce this chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
 
 (Pub. L. 90–202, §7, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, §4(a), (b)(1), (c)(1), Apr. 6, 1978, 92 Stat. 190, 191; 1978 Reorg. Plan No. 1, §2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 101–433, title II, §201, Oct. 16, 1990, 104 Stat. 983; Pub. L. 102–166, title I, §115, Nov. 21, 1991, 105 Stat. 1079.)
 
@@ -94,7 +94,7 @@ Section 4(c)(2) of Pub. L. 95–256 provided that: “The amendment made by para
 
 #### Transfer of Functions
 
-“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaningSecretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 #### Rule on Waivers
 
@@ -106,5 +106,5 @@ Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 633 of this title.
+This section is referred to in section 633 of this title; title 2 section 1311.
 

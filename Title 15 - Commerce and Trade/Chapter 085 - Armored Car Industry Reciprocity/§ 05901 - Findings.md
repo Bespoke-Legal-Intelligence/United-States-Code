@@ -14,9 +14,9 @@ Congress finds that—
 
 &emsp;(6) there is a need for each State to reciprocally accept weapons licenses of other States for armored car crew members to assure the free and safe transport of valuable items in interstate commerce.
 
-(Pub. L. 103 55, §2, July 28, 1993, 107 Stat. 276.)
+(Pub. L. 103–55, §2, July 28, 1993, 107 Stat. 276.)
 
 #### Short Title
 
-Section 1 of Pub. L. 103 55 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Armored Car Industry Reciprocity Act of 1993’.”
+Section 1 of Pub. L. 103–55 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Armored Car Industry Reciprocity Act of 1993’.”
 

@@ -42,7 +42,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 #### Termination of Eligibility Period
 
-Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
+Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, seesection 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
 
 #### Section Referred to in Other Sections
 

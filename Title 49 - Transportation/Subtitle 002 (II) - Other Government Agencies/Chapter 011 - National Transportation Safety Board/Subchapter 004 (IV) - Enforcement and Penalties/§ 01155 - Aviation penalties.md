@@ -10,7 +10,7 @@ Civil Penalty.—(1) A person violating section 1132 or 1134(b) or (f)(1) (relat
 
 (4) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
 
-(5) A civil penalty under this subsection may be collected by bringing a civil action againstthe person liable for the penalty. The action shall conform as nearly as practicable to a civil action in admiralty.
+(5) A civil penalty under this subsection may be collected by bringing a civil action against the person liable for the penalty. The action shall conform as nearly as practicable to a civil action in admiralty.
 
 (b)
 

@@ -82,7 +82,7 @@ An executive agency, in issuing a solicitation for a contract to be awarded usin
 
 1994—Subsec. (b). Pub. L. 103–355, §4402(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 103–355, §1061(a)(1)(A), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: “all significant factors (including price) which the executive agency reasonably expects to consider in evaluating sealed bids or competitive proposals; and”.
+Subsec. (b)(1)(A). Pub. L. 103–355, §1061(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “all significant factors (including price) which the executive agency reasonably expects to consider in evaluating sealed bids or competitive proposals; and”.
 
 Subsec. (b)(1)(B). Pub. L. 103–355, §1061(a)(1)(B), substituted “factors and subfactors” for “factors”.
 

@@ -2,7 +2,7 @@
 
 (a) The Division of Naval Reactors established pursuant to section 2035 of this title, and responsible for research, design, development, health, and safety matters pertaining to naval nuclear propulsion plants and assigned civilian power reactor programs is transferred to the Department under the Assistant Secretary to whom the Secretary has assigned the function listed in section 7133(a)(2)(E) of this title, and such organizational unit shall be deemed to be an organizational unit established by this chapter.
 
-(b) The Division of Military Application, established by section 2035 of this title, and the functions of the Energy Research and Development Administration with respect to the Military Liaison Committee, established by section 2037 <sup>1</sup> of this title, are transferred to the Department under the Assistant Secretary to whomthe Secretary has assigned those functions listed in section 7133(a)(5) of this title, and such organizational units shall be deemed to be organizational units established by this chapter.
+(b) The Division of Military Application, established by section 2035 of this title, and the functions of the Energy Research and Development Administration with respect to the Military Liaison Committee, established by section 2037 <sup>1</sup> of this title, are transferred to the Department under the Assistant Secretary to whom the Secretary has assigned those functions listed in section 7133(a)(5) of this title, and such organizational units shall be deemed to be organizational units established by this chapter.
 
 (Pub. L. 95–91, title III, §309, Aug. 4, 1977, 91 Stat. 581.)
 
@@ -48,7 +48,7 @@ Sec. 7. Within the Department of the Navy, the Secretary of the Navy shall assig
 
 (a) research, development, design, procurement, specification, construction, inspection, installation, certification, testing, overhaul, refueling, operating practices and procedures, maintenance, supply support, and ultimate disposition, of naval nuclear propulsion plants, including components thereof, and any special maintenance and service facilities related thereto; and
 
-(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence in the selection, training, qualification, and assignment of personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
+(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence in the selection, training, qualification, and assignmentof personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
 
 Sec. 8. Within the Department of the Navy, the Secretary of the Navy shall assign to the director responsibility within the Navy for:
 

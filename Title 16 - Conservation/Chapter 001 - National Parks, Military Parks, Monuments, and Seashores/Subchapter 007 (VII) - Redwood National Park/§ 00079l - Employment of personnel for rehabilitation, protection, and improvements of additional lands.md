@@ -88,7 +88,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 
-Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior, except for purposes of subsecs. (d) to (i) of this section, where reference to Secretary shall refer to Secretary of the Department of Labor, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
+Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior, except for purposes of subsecs. (d) to (i) of this section,where reference to Secretary shall refer to Secretary of the Department of Labor, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “filling”.</i>
 

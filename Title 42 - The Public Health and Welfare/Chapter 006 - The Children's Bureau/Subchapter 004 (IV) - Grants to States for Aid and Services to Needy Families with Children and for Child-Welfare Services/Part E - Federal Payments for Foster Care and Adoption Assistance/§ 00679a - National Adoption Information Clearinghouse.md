@@ -1,6 +1,6 @@
 ### §679a. National Adoption Information Clearinghouse
 
-The Secretary of Health and Human Services shall establish, either directly or by grant or contract, a National Adoption Information Clearinghouse. The Clearinghouse shall—
+The Secretary of Health and Human Services shall establish, either directly or by grant orcontract, a National Adoption Information Clearinghouse. The Clearinghouse shall—
 
 &emsp;(1) collect, compile, and maintain information obtained from available research, studies, and reports by public and private agencies, institutions, or individuals concerning all aspects of infant adoption and adoption of children with special needs;
 
@@ -30,5 +30,5 @@ The Secretary of Health and Human Services shall establish, either directly or b
 
 #### Codification
 
-Section was enacted as part of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 andalso as part of the Omnibus Budget Reconciliation Act of 1986, and not as part of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and also as part of the Omnibus Budget Reconciliation Act of 1986, and not as part of the Social Security Act which comprises this chapter.
 

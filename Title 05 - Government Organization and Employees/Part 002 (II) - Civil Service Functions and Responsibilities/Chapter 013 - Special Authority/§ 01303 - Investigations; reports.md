@@ -28,7 +28,7 @@ Standard changes are made to conform with the definition applicable and the styl
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted in opening par. “Office of Personnel Management, Merit Systems Protection Board, and Special Counsel” for “Civil Service Commission” and in par. (1) “Office of Personnel Management” for “Commission”.
+<b>1978</b>—Pub. L. 95–454 substituted in opening par. “Office of Personnel Management, Merit Systems Protection Board, and Special Counsel” for “Civil Service Commission” and in par. (1) “Office of Personnel Management” for “Commission”.
 
 #### Effective Date of 1978 Amendment
 

@@ -16,5 +16,5 @@ It is the purpose of this part to establish a mechanism to—
 
 &emsp;&emsp;(B) are valid, reliable, and consistent with relevant, nationally recognized, professional and technical standards for assessment when used for their intended purposes.
 
-(Pub. L. 103 227, title II, §211, Mar. 31, 1994, 108 Stat. 139.)
+(Pub. L. 103–227, title II, §211, Mar. 31, 1994, 108 Stat. 139.)
 

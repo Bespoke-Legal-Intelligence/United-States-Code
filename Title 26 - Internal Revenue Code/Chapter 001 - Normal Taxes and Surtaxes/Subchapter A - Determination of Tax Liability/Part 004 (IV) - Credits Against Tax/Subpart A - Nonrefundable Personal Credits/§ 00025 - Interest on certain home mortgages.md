@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) except to the extent provided in regulations, which provides that a mortgage credit certificate is not transferrable, and
 
-&emsp;&emsp;&emsp;(vii) if the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and thehomebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.
+&emsp;&emsp;&emsp;(vii) if the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and the homebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.
 
 > &emsp;&emsp;Under regulations, rules similar to the rules of subparagraphs (B) and (C) of section 143(a)(2) shall apply to the requirements of this subparagraph.
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 #### (10) Manufactured housing
 
-&emsp;For purposes of this section, the term “single family residence” includes any manufactured home which has a minimum of 400 square feet of living space and a minimum width in excess of 102 inches and which is of a kind customarily used at a fixed location. Nothing in the preceding sentence shall be construed as providing that such a home will be taken into account in making determinations under section 143.
+&emsp;For purposes of this section, the term “single family residence” includes any manufactured home which has a minimum of 400 square feet of living space and a minimum width in excess of 102 inches and which is of a kind customarily used at a fixed location.Nothing in the preceding sentence shall be construed as providing that such a home will be taken into account in making determinations under section 143.
 
 #### (f) Reduction in aggregate amount of qualified mortgage bonds which may be issued where certain requirements not met
 
@@ -356,7 +356,7 @@ Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) “Additi
 
 &emsp;“(B) issued qualified mortgage bonds in an aggregate amount less than $150,000,000 for calendar year 1983,
 
-> the certificate credit rate for any mortgage credit certificate shall not exceed 20 percent unless the issuing authority submits a plan to the Secretary to ensure that the weighted average of the certificate creditrates in such mortgage credit certificate program does not exceed 20 percent and the Secretary approves such plan.”
+> the certificate credit rate for any mortgage credit certificate shall not exceed 20 percent unless the issuing authority submits a plan to the Secretary to ensure that the weighted average of the certificate credit rates in such mortgage credit certificate program does not exceed 20 percent and the Secretary approves such plan.”
 
 Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) “Limitations” read as follows: “The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.”
 
@@ -402,7 +402,7 @@ Amendment by section 4005(g)(7) of Pub. L. 100–647 applicable to financing pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug. 15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug. 15, 1986, and amendment by section 1301(f)(2) of Pub. L.99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

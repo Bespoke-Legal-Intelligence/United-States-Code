@@ -6,7 +6,7 @@ A prior section 811, Pub. L. 93–203, title I, §101, Dec. 28, 1973, 87 Stat. 8
 
 Provisions similar to those comprising this section were contained in former section 812 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 812, Pub. L. 93–203, title I, §102, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1918, related to authority of the Secretary to provide services.
+Section 812, Pub. L. 93–203, title I, §102, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1918, related to authority of Secretary to provide services.
 
 A prior section 812, Pub. L. 93–203, title I, §102, Dec. 28, 1973, 87 Stat. 841, related to prime sponsors, prior to the general revision of Pub. L. 93–203, by Pub. L. 95–524.
 
@@ -16,7 +16,7 @@ Section 813, Pub. L. 93–203, title I, §103, as added Pub. L. 95–524, §2, O
 
 A prior section 813, Pub. L. 93–203, title I, §103, Dec. 28, 1973, 87 Stat. 842, provided for allocation of funds with respect to comprehensive manpower services program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Provisions similar to those comprising this section were contained in former section 815 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 815 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 814, Pub. L. 93–203, title I, §104, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1922, related to review of comprehensive employment and training plans.
 

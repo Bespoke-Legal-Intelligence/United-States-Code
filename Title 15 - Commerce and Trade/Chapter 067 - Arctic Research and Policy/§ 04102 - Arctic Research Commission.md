@@ -36,7 +36,7 @@ The President shall establish an Arctic Research Commission (hereafter referred 
 
 #### (d) Compensation and travel expenses; Federal employee status; meetings; observer-designees
 
-(1) Members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. A member of the Commission not presently employed for compensation shall be compensated at a rate equal to the daily equivalent of the rate for GS 18 of the General Schedule under section 5332 of title 5 for each day the member is engaged in the actual performance of his duties as a member of the Commission, not to exceed 90 days of service each year. Except for the purposes of chapter 81 of title 5 (relating to compensation for work injuries) and chapter 171 of title 28 (relating to tort claims), a member of the Commission shall not be considered an employee of the United States for any purpose.
+(1) Members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. A member of the Commission not presently employed for compensation shall be compensated at a rate equal to the daily equivalent of the rate for GS–18 of the General Schedule under section 5332 of title 5 for each day the member is engaged in the actual performance of his duties as a member of the Commission, not to exceed 90 days of service each year. Except for the purposes of chapter 81 of title 5 (relating to compensation for work injuries) and chapter 171 of title 28 (relating to tort claims), a member of the Commission shall not be considered an employee of the United States for any purpose.
 
 (2) The Commission shall meet at the call of its Chairman or a majority of its members.
 
@@ -44,15 +44,15 @@ The President shall establish an Arctic Research Commission (hereafter referred 
 
 (4) The Commission shall conduct at least one public meeting in the State of Alaska annually.
 
-(Pub. L. 98 373, title I, §103, July 31, 1984, 98 Stat. 1243; Pub. L. 101 609, §§2, 3, Nov. 16, 1990, 104 Stat. 3125.)
+(Pub. L. 98–373, title I, §103, July 31, 1984, 98 Stat. 1243; Pub. L. 101–609, §§2, 3, Nov. 16, 1990, 104 Stat. 3125.)
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101 609, §2, in introductory provisions, substituted “seven” for “five”, in subpar. (A), substituted “four” for “three”, and in subpar. (C), substituted “two members” for “one member”.
+1990—Subsec. (b)(1). Pub. L. 101–609, §2, in introductory provisions, substituted “seven” for “five”, in subpar. (A), substituted “four” for “three”, and in subpar. (C), substituted “two members” for “one member”.
 
-Subsec. (d)(1). Pub. L. 101 609, §3, substituted “GS 18” for “GS 16”.
+Subsec. (d)(1). Pub. L. 101–609, §3, substituted “GS–18” for “GS–16”.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

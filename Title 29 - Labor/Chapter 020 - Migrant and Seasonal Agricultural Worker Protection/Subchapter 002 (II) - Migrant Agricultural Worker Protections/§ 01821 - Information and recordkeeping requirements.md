@@ -14,9 +14,13 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 &emsp;(5) the transportation, housing, and any other employee benefit to be provided, if any, and any costs to be charged for each of them;
 
-&emsp;(6) the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment; and
+&emsp;(6) the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment;
 
-&emsp;(7) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers.
+&emsp;(7) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and
+
+&emsp;(8) whether State workers’ compensation insurance is provided, and, if so, the name of the State workers’ compensation insurance carrier, the name of the policyholder of such insurance, the name and the telephone number of each person who must be notified of an injury or death, and the time period within which such notice must be given.
+
+> Compliance with the disclosure requirement of paragraph (8) for a migrant agricultural worker may be met if such worker is given a photocopy of any notice regarding workers’ compensation insurance required by law of the State in which such worker is employed. Such worker shall be given such disclosure regarding workers’ compensation at the time of recruitment or if sufficient information is unavailable at that time, at the earliest practicable time but in no event later than the commencement of work.
 
 #### (b) Posting requirements imposed upon employers
 
@@ -58,7 +62,15 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 The information required to be disclosed by subsections (a) through (c) of this section to migrant agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to migrant agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
-(Pub. L. 97–470, title II, §201, Jan. 14, 1983, 96 Stat. 2590.)
+(Pub. L. 97–470, title II, §201, Jan. 14, 1983, 96 Stat. 2590; Pub. L. 104–49, §4(a), Nov. 15, 1995, 109 Stat. 434.)
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–49 added par. (8) and concluding provisions.
+
+#### Effective Date of 1995 Amendment
+
+Section 4(c) of Pub. L. 104–49 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1831 of this title\] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments.”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ In general.—The Secretary is authorized to use funds appropriated to carry out
 
 &emsp;(2)
 
-Additional authority.—In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for—
+Additional authority.—In addition, the Secretary may use the funds appropriated tocarry out this section, either independently or in cooperation with other Federal departments or agencies, for—
 
 &emsp;&emsp;(A) training or education of highway safety personnel,
 
@@ -26,7 +26,7 @@ Additional authority.—In addition, the Secretary may use the funds appropriate
 
 &emsp;(3)
 
-Safety defined.—As used in this section, the term “safety” includes highway safety andhighway safety-related research and development, including research and development relating to highway and driver characteristics, crash investigations, communications, emergency medical care, and transportation of the injured.
+Safety defined.—As used in this section, the term “safety” includes highway safety and highway safety-related research and development, including research and development relating to highway and driver characteristics, crash investigations, communications, emergency medical care, and transportation of the injured.
 
 (b)
 
@@ -142,7 +142,7 @@ State Participation.—The Secretary shall solicit the participation of States f
 
 “(c)
 
-State Selection Process.—The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretary shall attempt to solicit States which meet the following criteria:
+State Selection Process.—The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretaryshall attempt to solicit States which meet the following criteria:
 
 &emsp;“(1) One of the States shall be a western State which is one of the 3 most populous States, with numerous large cities, with at least one city exceeding 7,000,000 people. The State should have a diverse demographic population with larger than average drug use according to reliable surveys.
 
@@ -214,23 +214,15 @@ State.—The term ‘State’ has the meaning such term has when used in chapter
 
 #### Drug and Highway Safety Study and Report
 
-Pub. L. 99–570, title III, §3402, Oct. 27, 1986, 100 Stat. 3207–102, provided that:
-
-“(a)
-
-Study.—The Secretary of Transportation shall conduct a study to determine the relationship between the usage of controlled substances and highway safety. Such study shall include a simulation of driving conditions, emergency situations, and driver performance under various drug and dosage conditions. Such study shall determine the incidence of controlled substance usage in highway accidents resultng \[sic\] in fatalities and the dosage levels for controlled substances which are most likely to result in impairment of driver performance.
-
-“(b)
-
-Report.—Not later than one year after the date of the enactment of this Act \[Oct. 27, 1986\], the Secretary of Transportation shall submit to Congress a report on the results of the study conducted under subsection (a).”
+Pub. L. 99–570, title III, §3402, Oct. 27, 1986, 100 Stat. 3207–102, directed Secretary of Transportation to conduct a study to determine relationship between usage of controlled substances and highway safety and, not later than one year after Oct. 27, 1986, submit to Congress a report on results of study.
 
 #### National Driver Register Study
 
-Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, provided that the Secretary of Transportation make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals and that the Secretary issue a final report to Congress not later than one year after Nov. 6, 1978.
+Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
 
 #### Detection and Prevention of Marijuana and Other Drug Use by Operators of Motor Vehicles
 
-Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, provided that the Secretary report to Congress not later than Dec. 31, 1979, concerning the progress of efforts to detect and prevent marijuana and drug use by motor vehicle operators, capabilities of law enforcement officials to detect the use of marijuana and drugs by motor vehicle operators, and a description of Federal and State projects undertaken into methods of detection and prevention.
+Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secretary to report to Congress not later than Dec. 31, 1979, concerning the progress of efforts to detect and prevent marijuana and drug use by motor vehicle operators, capabilities of law enforcement officials to detect the use of marijuana and drugs by motor vehicle operators, and a description of Federal and State projects undertaken into methods of detection and prevention.
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 

@@ -28,15 +28,15 @@ In order to effectuate the purposes of this subchapter, the Administrator may al
 
 &emsp;(3) periodic reporting with respect to the activities that have taken place using funds loaned or granted under this subchapter.
 
-(Pub. L. 98 377, title V, §506, Aug. 11, 1984, 98 Stat. 1292; Pub. L. 101 637, §§7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, 104 Stat. 4592, 4594, 4595.)
+(Pub. L. 98–377, title V, §506, Aug. 11, 1984, 98 Stat. 1292; Pub. L. 101–637, §§7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, 104 Stat. 4592, 4594, 4595.)
 
 #### Amendments
 
-1990—Pub. L. 101 637 inserted section catchline.
+1990—Pub. L. 101–637 inserted section catchline.
 
-Subsec. (a). Pub. L. 101 637, §14(b)(8), inserted heading.
+Subsec. (a). Pub. L. 101–637, §14(b)(8), inserted heading.
 
-Subsec. (b). Pub. L. 101 637, §7(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Administrator shall also establish—
+Subsec. (b). Pub. L. 101–637, §7(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Administrator shall also establish—
 
 &emsp;“(1) procedures to be used by local educational agencies, in programs for which financial assistance is made available under section 4014 of this title for—
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 101 637, §7(2), added subsec. (b) and struck out former su
 
 &emsp;“(3) nothing contained in this subchapter shall be construed, interpreted or applied to diminish in any way the level of protection required under State or Federal worker protection laws.”
 
-Subsec. (c). Pub. L. 101 637, §7(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 101–637, §7(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 101 637, §§7(1), 14(b)(9), redesignated subsec. (c) as (d), inserted heading, and inserted a comma after “standards” in introductory provisions.
+Subsec. (d). Pub. L. 101–637, §§7(1), 14(b)(9), redesignated subsec. (c) as (d), inserted heading, and inserted a comma after “standards” in introductory provisions.
 

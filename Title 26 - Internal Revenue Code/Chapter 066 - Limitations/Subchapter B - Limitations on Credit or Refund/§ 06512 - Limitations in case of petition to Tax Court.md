@@ -56,7 +56,7 @@ Pub. L. 100–418, §1941(b)(2)(J), substituted “or of tax imposed by chapter 
 
 Subsec. (b)(1). Pub. L. 100–647, §6244(a), substituted “paragraph (3)” for “paragraph (2)”.
 
-Pub. L. 100–418, §1941(b)(2)(K), substituted “or of tax imposed by chapter 41” for “of tax imposed by chapter41” and struck out “, or of tax imposed by chapter 45 for the same taxable period” after “to which such petition relates”.
+Pub. L. 100–418, §1941(b)(2)(K), substituted “or of tax imposed by chapter 41” for “of tax imposed by chapter 41” and struck out “, or of tax imposed by chapter 45 for the same taxable period” after “to which such petition relates”.
 
 Subsec. (b)(2), (3). Pub. L. 100–647, §6244(a), added par. (2) and redesignated former par. (2) as (3).
 

@@ -32,7 +32,7 @@ For purposes of this section and part IV—
 
 &emsp;The term “State” includes the District of Columbia and any possession of the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 29; June 28, 1968, Pub. L. 90–364, title I, §107(a), 82 Stat. 266; Oct. 24, 1968, Pub. L. 90–634, title IV, §401(a), 82 Stat. 1349; Dec. 30, 1969, Pub. L. 91–172, title VI, §601(a), 83 Stat. 656; Dec. 10, 1971, Pub. L. 92–178, title III, §315(a), (b), 85 Stat. 529; Dec. 23, 1975, Pub. L. 94–164, §7(a), 89 Stat. 976; Dec. 31, 1975, Pub. L. 94–182, title III, §301(a), 89 Stat. 1056; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Aug. 8, 1978, Pub. L. 95–339, title II, §201(a), 92 Stat. 467; Nov. 6, 1978, Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), 92 Stat. 2839–2841, 2941, 2944; Apr. 1, 1980, Pub. L. 96–222, title I, §107(a)(3)(C), 94 Stat. 223; Apr. 2, 1980, Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), 94 Stat. 281, 283, 286; Dec. 5, 1980, Pub. L. 96–499, title XI, §1103, 94 Stat. 2669; Aug. 13, 1981, Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), 95 Stat. 349, 350; Sept. 3, 1982, Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Jan. 6, 1983, Pub. L. 97–424, title V, §547(a), 96 Stat. 2199; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(2), 96 Stat. 2609; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13209(e), 100 Stat. 323; Oct. 22, 1986, Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Nov. 10, 1988, Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), 102 Stat. 3544, 3547.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 29; June 28, 1968, Pub. L. 90–364, title I, §107(a), 82 Stat. 266; Oct. 24, 1968, Pub. L. 90–634, title IV, §401(a), 82 Stat. 1349; Dec. 30, 1969, Pub. L. 91–172, title VI, §601(a), 83 Stat. 656; Dec. 10, 1971, Pub. L. 92–178, title III, §315(a), (b), 85 Stat. 529; Dec. 23, 1975, Pub. L. 94–164, §7(a), 89 Stat. 976; Dec. 31, 1975, Pub. L. 94–182, title III, §301(a), 89 Stat. 1056; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c),2137(d), 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Aug. 8, 1978, Pub. L. 95–339, title II, §201(a), 92 Stat. 467; Nov. 6, 1978, Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), 92 Stat. 2839–2841, 2941, 2944; Apr. 1, 1980, Pub. L. 96–222, title I, §107(a)(3)(C), 94 Stat. 223; Apr. 2, 1980, Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), 94 Stat. 281, 283, 286; Dec. 5, 1980, Pub. L. 96–499, title XI, §1103, 94 Stat. 2669; Aug. 13, 1981, Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), 95 Stat. 349, 350; Sept. 3, 1982, Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Jan. 6, 1983, Pub. L. 97–424, title V, §547(a), 96 Stat. 2199; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(2), 96 Stat. 2609; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13209(e), 100 Stat. 323; Oct. 22, 1986, Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Nov. 10, 1988, Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), 102 Stat. 3544, 3547.)
 
 #### Amendments
 
@@ -278,7 +278,7 @@ Section 1013(a)(34)(B) of Pub. L. 100–647 provided that: “Subparagraph (A) \
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except asotherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by sections 1864(b)–(e), 1865(a), 1869(a), (b), 1870, and 1871(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -304,7 +304,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 Exception.—The amendments made by this section shall not apply to obligations issued for the Essex County New Jersey Resource Recovery Project authorized by the Port Authority of New York and New Jersey on November 10, 1983, as part of an agreement approved by Essex County, New Jersey, on July 7, 1981, and approved by the State of New Jersey on December 31, 1981. The aggregate face amount of bonds to which this paragraph applies shall not exceed $350,000,000.”
 
-Section 626(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XIII, §1317(22), title XVIII, §1869(c)(5), Oct. 22, 1986, 100 Stat. 2095, 2698, 2890; Pub. L. 100–647, title I, §1013(g)(24), Nov. 10, 1988, 102 Stat. 3554, provided that:
+Section 626(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XIII, §1317(22), title XVIII, §1869(c)(5), Oct. 22, 1986, 100 Stat. 2095, 2698, 2890; Pub. L. 100–647,title I, §1013(g)(24), Nov. 10, 1988, 102 Stat. 3554, provided that:
 
 “(1)
 
@@ -511,7 +511,7 @@ Provisions of This Subtitle Not To Apply to Certain Property.—The amendments m
 
 &emsp;“(1) Any property described in paragraph (5), (6), or (7) of section 31(g) of this Act \[set out as an Effective Date of 1984 Amendment note under section 168 of this title\].
 
-&emsp;“(2) Any property described in paragraph (4), (8), or (17) of section 31(g) of this Act \[set out as an Effective Date of 1984 Amendment note under section 168 of this title\] but only if the obligation is issued before January 1, 1985, and only if before June 19, 1984, the issuer had evidenced an intent to issue obligations exempt from taxation under the Internal Revenue Code of 1986 in connection with such property.
+&emsp;“(2) Any property described in paragraph (4), (8), or (17) of section 31(g) of this Act \[set out as an EffectiveDate of 1984 Amendment note under section 168 of this title\] but only if the obligation is issued before January 1, 1985, and only if before June 19, 1984, the issuer had evidenced an intent to issue obligations exempt from taxation under the Internal Revenue Code of 1986 in connection with such property.
 
 &emsp;“(3) Any property described in paragraph (3) of section 216(b) of the Tax Equity and Fiscal Responsibility Act of 1982 \[set out as an Effective Date of 1982 Amendment note under section 168 of this title\].
 
@@ -627,7 +627,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(3)
 
-Exception for certain warrants, etc.—The amendments made by subsection (b) \[enacting section 4701 of this title and amending this section and sections 163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for ‘August 10, 1982’.
+Exception for certain warrants, etc.—The amendments made by subsection (b) \[enacting section 4701 of this title and amending this section and sections 163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registrationunder the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for ‘August 10, 1982’.
 
 “(4) \[Repealed. Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 8.\]”
 
@@ -789,7 +789,7 @@ Limitations.—
 
 &emsp;“(A) In the case of a solid waste disposal facility described in paragraph (2)(A), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $65,000,000.
 
-&emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate faceamount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
+&emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
 
 &emsp;“(C) In the case of a solid waste disposal facility described in paragraph (2)(C), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $75,000,000.
 
@@ -811,7 +811,7 @@ Section 1866 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §10
 
 #### Exception From 1984 Amendment for Downtown Muskogee Revitalization Project
 
-Section 1867(b) of Pub. L. 99–514 provided that: “The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
+Section 1867(b) of Pub. L. 99–514 provided that: “The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project forwhich a UDAG grant was preliminarily approved on May 5, 1981, if—
 
 &emsp;“(1) such obligation is issued before January 1, 1986, or
 
@@ -1249,5 +1249,5 @@ Mutual insurance companies, taxable income as gross investment income minus, amo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 42, 45, 48, 57, 143, 144, 145, 148, 149, 150, 168, 265, 465, 593, 643, 667, 811, 832, 834, 842, 851, 871, 1275, 1276, 1278, 4940, 4942, 6049, 7478, 7518, 7701, 7871 of this title; title 7 section 608c; title 12 sections 1441a, 1831q; title 15 sections 77c, 78c; title 16 sections 839f, 2708; title 19 section 2345; title 45 section 1207; title 46 App. section 1177; title 48 sections 1574, 1670.
+This section is referred to in sections 29, 42, 45, 48, 57, 143, 144, 145, 148, 149, 150, 168, 265, 465, 593, 643, 667, 811,832, 834, 842, 851, 871, 1275, 1276, 1278, 4940, 4942, 6049, 7478, 7518, 7701, 7871 of this title; title 7 section 608c; title 12 sections 1441a, 1831q; title 15 sections 77c, 78c; title 16 sections 839f, 2708; title 19 section 2345; title 45 section 1207; title 46 App. section 1177; title 48 sections 1574, 1670.
 

@@ -24,7 +24,7 @@ For purposes of this section, the term “Commission” means the Consultative C
 
 #### (c) Negotiations
 
-The President is authorized to direct the United States representative to the Organization of American States to initiate negotiations with the Organization of American States for the establishment of a Consultative Commission on Western Hemisphere Energy and Environment under the auspices of the Organization of American States.
+The President is authorized to direct the United States representative to the Organization of American States to initiate negotiations with the Organization of American States for the establishment of a Consultative Commissionon Western Hemisphere Energy and Environment under the auspices of the Organization of American States.
 
 #### (d) The Commission
 
@@ -70,7 +70,5 @@ The President shall, within one year after October 24, 1992, report to the Commi
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

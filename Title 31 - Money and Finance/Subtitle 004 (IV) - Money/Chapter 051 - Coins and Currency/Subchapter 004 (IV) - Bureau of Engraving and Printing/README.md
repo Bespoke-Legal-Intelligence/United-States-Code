@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING
 
+<i><sup>1</sup></i><i> So in original. Probably should be “activities”.</i>
+
 
 ---
 

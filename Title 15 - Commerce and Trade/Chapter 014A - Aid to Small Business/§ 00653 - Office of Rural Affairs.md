@@ -16,7 +16,7 @@ The Office shall—
 
 &emsp;(2) to the extent practicable, compile annual statistics on rural areas, including statistics concerning the population, poverty, job creation and retention, unemployment, business failures, and business startups;
 
-&emsp;(3) provide information to industries, organizations, and State and local governments concerning the assistance available to rural small business concerns through the Administrationand through other Federal departments and agencies;
+&emsp;(3) provide information to industries, organizations, and State and local governments concerning the assistance available to rural small business concerns through the Administration and through other Federal departments and agencies;
 
 &emsp;(4) provide information to industries, organizations, educational institutions, and State and local governments concerning programs administered by private organizations, educational institutions, and Federal, State, and local governments which improve the economic opportunities of rural citizens; and
 

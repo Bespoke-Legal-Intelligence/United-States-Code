@@ -92,7 +92,3 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the case of a small owner-operator, notwithstanding section 513(f)(2) of Pub. L. 97–424, see section 901(b)(2) of Pub. L. 98–369, set out as a note under section 4481 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 10530.
-

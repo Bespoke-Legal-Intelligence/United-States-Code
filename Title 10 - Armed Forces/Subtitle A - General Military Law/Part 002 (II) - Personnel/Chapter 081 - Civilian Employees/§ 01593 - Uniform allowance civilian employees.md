@@ -24,7 +24,7 @@ Use of Appropriated Funds for Allowance.—Amounts appropriated annually to the 
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (d) of this section were contained in Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which was set out as a note below, prior to repeal by Pub. L. 101–510, div. A, title XIV, §1481(d)(4)(B), Nov. 5, 1990, 104 Stat. 1706.
+Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which was set out as a note below, prior to repeal by Pub. L. 101–510, §1481(d)(4)(B).
 
 #### Amendments
 

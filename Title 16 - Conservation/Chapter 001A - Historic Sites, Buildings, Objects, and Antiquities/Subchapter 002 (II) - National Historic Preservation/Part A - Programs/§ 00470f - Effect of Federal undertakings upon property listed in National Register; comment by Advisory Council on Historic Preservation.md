@@ -14,5 +14,5 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 407dd, 470a, 470h–2, 470s, 470w–3 of this title; title 42 section 5320.
+This section is referred to in sections 407dd, 470a, 470h–2, 470s, 470w–3 of this title; title 23 section 133; title 42 section 5320.
 

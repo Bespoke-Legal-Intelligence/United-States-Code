@@ -4,3 +4,7 @@ An employee enrolled in a health benefits plan under chapter 89 who is placed in
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 23.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1371.
+

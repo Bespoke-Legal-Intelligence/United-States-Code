@@ -34,7 +34,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;&emsp;(II) the methodologies for laboratory examinations and other procedures employed, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the qualifications (educational background, training, and experience) ofthe personnel directing and supervising the laboratory and performing the laboratory examinations and other procedures, and
+&emsp;&emsp;&emsp;&emsp;(III) the qualifications (educational background, training, and experience) of the personnel directing and supervising the laboratory and performing the laboratory examinations and other procedures, and
 
 &emsp;&emsp;&emsp;(iii) that contains such other information as the Secretary may require to determine compliance with this section, and
 
@@ -180,7 +180,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -242,7 +242,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (2) Compliance with requirements and standards
 
-&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
+&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accreditedunder subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
 
 #### (h) Intermediate sanctions
 
@@ -312,7 +312,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (j) Injunctions
 
-Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to the public health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated to enjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
+Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to the public health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated toenjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
 
 #### (k) Judicial review
 
@@ -374,7 +374,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 > &emsp;together with a statement of the reasons for the revocation, suspension, limitation, or sanction,
 
-&emsp;(3) a list of laboratories subject to intermediate sanctions under subsection (h) of this section together with a statement of the reasons for the sanctions,
+&emsp;(3) a list of laboratories subject to intermediate sanctions under subsection (h) of thissection together with a statement of the reasons for the sanctions,
 
 &emsp;(4) a list of laboratories whose accreditation has been withdrawn or revoked together with a statement of the reasons for the withdrawal or revocation,
 
@@ -410,7 +410,7 @@ The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
@@ -418,7 +418,7 @@ Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (
 
 #### Effective Date
 
-Section 5(b) of Pub. L. 90–174 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after suchmonth \[December 1967\] in which the amendment is enacted.”
+Section 5(b) of Pub. L. 90–174 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
 
 #### Short Title
 

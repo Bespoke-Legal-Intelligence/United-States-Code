@@ -26,7 +26,7 @@
 
 #### (1) Establishment and membership
 
-&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as “the Board”), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of theFoundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
+&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as “the Board”), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
 
 &emsp;(B) The Administrator of the Environmental Protection Agency shall, pursuant to paragraph (2), appoint the Director of the Office of Environmental Education established pursuant to section 5502 of this title as an ex-officio member of the Board. Ex officio membership shall also be offered to other Federal agencies or departments with an interest and/or experience in environmental education and training.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS 18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -138,7 +138,7 @@ The Administrator may accept, without regard to the civil service classification
 
 #### (h) Audits and petition of Attorney General for equitable relief
 
-For purposes of the Act entitled “An Act for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (Public Law 88 504; 36 U.S.C. 1101 1103), the Foundation shall be treated as a private corporation established under Federal law.
+For purposes of the Act entitled “An Act for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103), the Foundation shall be treated as a private corporation established under Federal law.
 
 #### (i) United States release from liability
 
@@ -148,7 +148,7 @@ The United States shall not be liable for any debts, defaults, acts, or omission
 
 The Congress expressly reserves the right to repeal or amend this section at any time.
 
-(Pub. L. 101 619, §10, Nov. 16, 1990, 104 Stat. 3335.)
+(Pub. L. 101–619, §10, Nov. 16, 1990, 104 Stat. 3335.)
 
 #### References in Text
 
@@ -156,17 +156,17 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 The civil service classification laws, referred to in subsec. (g), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
-The Act entitled “An Act for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (Public Law 88 504, 36 U.S.C. 1101 1103), referred to in subsec. (h), is Pub. L. 88 504, Aug. 30, 1964, 78 Stat. 635, as amended, which is classified principally to chapter 42 (§1101 et seq.) of Title 36, Patriotic Societies and Observances. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (Public Law 88–504, 36 U.S.C. 1101–1103), referred to in subsec. (h), is Pub. L. 88–504, Aug. 30, 1964, 78 Stat. 635, as amended, which is classified principally to chapter 42 (§1101 et seq.) of Title 36, Patriotic Societies and Observances. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

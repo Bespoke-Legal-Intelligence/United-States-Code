@@ -1,0 +1,6 @@
+### §515e. Availability of Department of Agriculture records and facilities to compacting States
+
+The Secretary is authorized, upon the request of the commission of any compacting State, or at the request of any association referred to in section 515d of this title, to make available to the commission of any State or to any such association such records and information, whether published or unpublished, and such facilities of the United States Department of Agriculture as the Secretary deems appropriate in aiding such commission or association.
+
+(Apr. 25, 1936, ch. 249, §6, 49 Stat. 1241.)
+

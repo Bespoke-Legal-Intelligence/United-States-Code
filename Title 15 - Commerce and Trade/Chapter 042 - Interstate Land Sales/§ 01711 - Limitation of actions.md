@@ -12,13 +12,13 @@ No action shall be maintained under section 1709 of this title with respect to�
 
 No action shall be maintained under section 1709 of this title to enforce a right created under subsection (b), (c), (d), or (e) of section 1703 of this title unless brought within three years after the signing of the contract or lease, notwithstanding delivery of a deed to a purchaser.
 
-(Pub. L. 90 448, title XIV, §1412, Aug. 1, 1968, 82 Stat. 596; Pub. L. 96 153, title IV, §406, Dec. 21, 1979, 93 Stat. 1131.)
+(Pub. L. 90–448, title XIV, §1412, Aug. 1, 1968, 82 Stat. 596; Pub. L. 96–153, title IV, §406, Dec. 21, 1979, 93 Stat. 1131.)
 
 #### Amendments
 
-1979—Pub. L. 96 153 designated existing provisions as subsec. (a), substituted provisions setting forth limitations relating to any action maintained under section 1709 of this title, for provisions setting forth limitations relating to any action maintained to enforce any liability created under section 1709(a) or (b)(2) of this title, and added subsec. (b).
+1979—Pub. L. 96–153 designated existing provisions as subsec. (a), substituted provisions setting forth limitations relating to any action maintained under section 1709 of this title, for provisions setting forth limitations relating to any action maintained to enforce any liability created under section 1709(a) or (b)(2) of this title, and added subsec. (b).
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96 153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 

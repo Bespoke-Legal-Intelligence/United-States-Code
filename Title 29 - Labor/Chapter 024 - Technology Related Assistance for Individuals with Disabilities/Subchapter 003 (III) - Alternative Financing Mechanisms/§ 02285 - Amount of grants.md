@@ -12,7 +12,7 @@
 
 #### (b) Excess funds
 
-If funds appropriated under section 2288 of this title for a fiscal year exceed the amount necessary to fund the activities described in acceptable applications submitted under section 2282 of this title for such year, the Secretary shallmake such excess amount available, on a competitive basis, to States receiving grants under section 2281 of this title for such year. A State that desires to receive additional funds under this subsection shall amend and resubmit to the Secretary the application submitted under section 2282 of this title. Such amended application shall contain an assurance that the State will provide an additional amount for the purpose of supporting the alternative financing mechanisms covered by the grant that is not less than the amount of any additional funds paid to the State by the Secretary under this subsection.
+If funds appropriated under section 2288 of this title for a fiscal year exceed the amount necessary to fund the activities described in acceptable applications submitted under section 2282 of this title for such year, the Secretary shall make such excess amount available, on a competitive basis, to States receiving grants under section 2281 of this title for such year. A State that desires to receive additional funds under this subsection shall amend and resubmit to the Secretary the application submitted under section 2282 of this title. Such amended application shall contain an assurance that the State will provide an additional amount for the purpose of supporting the alternative financing mechanisms covered by the grant that is not less than the amount of any additional funds paid to the State by the Secretary under this subsection.
 
 #### (c) Insufficient funds
 

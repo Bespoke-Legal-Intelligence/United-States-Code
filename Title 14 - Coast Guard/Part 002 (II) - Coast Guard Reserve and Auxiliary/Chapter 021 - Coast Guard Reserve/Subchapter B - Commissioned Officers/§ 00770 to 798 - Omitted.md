@@ -1,4 +1,4 @@
-### \[§§770 to 798 . Omitted\]
+### \[§§770 to 798. Omitted\]
 
 #### Codification
 
@@ -26,7 +26,7 @@ Section 778, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550, relat
 
 Section 779, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550, related to sea or foreign service requirements.
 
-Section 780, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550; amended Pub. L. 91–402, §1(6), Sept. 18, 1970, 84 Stat. 839; Pub. L. 93–174, §2(5), (6), Dec. 5, 1973, 87 Stat. 692, related to recommendations of selection boards. See section 729 of this title.
+Section 780, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550; amended Pub. L. 91–402, §1(6), Sept. 18,1970, 84 Stat. 839; Pub. L. 93–174, §2(5), (6), Dec. 5, 1973, 87 Stat. 692, related to recommendations of selection boards. See section 729 of this title.
 
 Section 781, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1551; amended Pub. L. 91–402, §1(7), Sept. 18, 1970, 84 Stat. 840, related to precedence in grades of officers. See section 725 of this title.
 

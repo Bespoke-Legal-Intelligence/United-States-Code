@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) display any charges for pay-per-call services in a part of the consumer's bill that is identified as not being related to local and long distance telephone charges; and
 
-&emsp;&emsp;&emsp;(ii) for each charge so displayed, specify, at a minimum, the type of service, the amount of the charge, and the date, time, and duration of the call;
+&emsp;&emsp;&emsp;(ii) for each charge so displayed, specify, at a minimum, the type of service, theamount of the charge, and the date, time, and duration of the call;
 
 &emsp;&emsp;(I) be liable for refunds to consumers who have been billed for pay-per-call services pursuant to programs that have been found to have violated the regulations prescribed pursuant to this section or subchapter II of this chapter or any other Federal law; and
 
@@ -102,7 +102,7 @@ The Commission shall prescribe the rules under subsection (a) of this section wi
 
 Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under section 45 of this title. Notwithstanding section 45(a)(2) of this title, communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
 
-(Pub. L. 102 556, title II, §201, Oct. 28, 1992, 106 Stat. 4187.)
+(Pub. L. 102–556, title II, §201, Oct. 28, 1992, 106 Stat. 4187.)
 
 #### Section Referred to in Other Sections
 

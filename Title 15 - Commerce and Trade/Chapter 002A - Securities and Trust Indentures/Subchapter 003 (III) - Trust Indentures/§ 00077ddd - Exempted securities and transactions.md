@@ -46,7 +46,7 @@ The Commission may, by rules or regulations upon its own motion, or by order on 
 
 #### (e) Securities issued by small investment company
 
-The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
+The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in thissection any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
 (May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Aug. 21, 1958, Pub. L. 85–699, title III, §307(b), 72 Stat. 694; Sept. 13, 1960, Pub. L. 86–760, 74 Stat. 902; Nov. 3, 1966, Pub. L. 89–754, title V, §504(b), 80 Stat. 1278; Dec. 22, 1970, Pub. L. 91–567, §6(c), 84 Stat. 1499; Oct. 21, 1980, Pub. L. 96–477, title III, §302, 94 Stat. 2291; Nov. 15, 1990, Pub. L. 101–550, title IV, §403, 104 Stat. 2722.)
 

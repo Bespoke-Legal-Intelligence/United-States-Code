@@ -30,9 +30,9 @@ Each institution of higher education desiring a grant under this section shall s
 
 There are authorized to be appropriated to carry out this subpart $5,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(Pub. L. 89 329, title V, §593, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 715.)
+(Pub. L. 89–329, title V, §593, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 715.)
 
 #### Prior Provisions
 
-A prior section 1116, Pub. L. 89 329, title V, §526, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 92 318, title I, §131(d)(2)(C),June 23, 1972, 86 Stat. 260, prohibited award of fellowships for study at divinity school or department, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+A prior section 1116, Pub. L. 89–329, title V, §526, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 92–318, title I, §131(d)(2)(C), June 23, 1972, 86 Stat. 260, prohibited award of fellowships for study at divinity school or department, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 

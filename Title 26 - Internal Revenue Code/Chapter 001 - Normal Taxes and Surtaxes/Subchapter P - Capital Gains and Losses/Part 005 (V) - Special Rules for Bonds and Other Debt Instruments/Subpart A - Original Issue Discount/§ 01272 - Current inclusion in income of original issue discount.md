@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost of such debt instrument incurred by the purchaser, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the issue price of such debt instrument, increased by the portion of original issue discount previously includible in the gross income of any holder (computed without regard to this paragraph), and
+&emsp;&emsp;&emsp;&emsp;(II) the issue price of such debt instrument, increased by the portion of original issue discount previously includiblein the gross income of any holder (computed without regard to this paragraph), and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is the sum of the daily portions for such debt instrument for all days after the date of such purchase and ending on the stated maturity date (computed without regard to this paragraph).
 

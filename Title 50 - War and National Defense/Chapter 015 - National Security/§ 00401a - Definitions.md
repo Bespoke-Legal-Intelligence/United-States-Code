@@ -10,7 +10,7 @@ As used in this Act:
 
 &emsp;(4) The term “intelligence community” includes—
 
-&emsp;&emsp;(A) the Office of the Director of Central Intelligence, which shall include the Office of the Deputy Director of Central Intelligence, the National Intelligence Council (as provided for in section 403–5(b)(3) <sup>1</sup> of this title), and such other offices as the Director may designate;
+&emsp;&emsp;(A) the Office of the Director of Central Intelligence, which shall include the Office of the Deputy Director of Central Intelligence, the National Intelligence Council (as provided for in section 403–5(b)(3) <sup>1</sup> of this title),and such other offices as the Director may designate;
 
 &emsp;&emsp;(B) the Central Intelligence Agency;
 

@@ -1,4 +1,4 @@
-### §12208 . Officers: appointment upon transfer
+### §12208. Officers: appointment upon transfer
 
 (a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be appointed as an officer of any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be appointed as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
 
@@ -6,7 +6,7 @@
 
 (c) This section does not change any term of service under an appointment, enlistment, or agreement, including an agreement made before or at the time when the member entered upon a program authorized by an armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §595; Dec. 12, 1980, Pub. L. 96–513, title V, §511(17), 94 Stat. 2921; renumbered §12208, Oct. 5, 1994, Pub. L.103–337, div. A, title XVI, §1662(c)(2), 108 Stat. 2990.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §595; Dec. 12, 1980, Pub. L. 96–513, title V, §511(17), 94 Stat. 2921; renumbered §12208, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), 108 Stat. 2990.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Subject to the provisions of this section, the Secretary shall make grants to those States which adopt and implement effective programs to reduce traffic safetyproblems resulting from persons driving while under the influence of alcohol or a controlled substance. Such grants may only be used by recipient States to implement and enforce such programs.
+General Authority.—Subject to the provisions of this section, the Secretary shall make grants to those States which adopt and implement effective programs to reduce traffic safety problems resulting from persons driving while under the influence of alcohol or a controlled substance. Such grants may only be used by recipient States to implement and enforce such programs.
 
 (b)
 
@@ -32,7 +32,7 @@ Basic Grant Eligibility.—A State is eligible for a basic grant under this sect
 
 &emsp;&emsp;(D) after serving notice and taking possession of a driver's license in accordance with subparagraph (A), the law enforcement officer immediately shall report to the State entity responsible for administering drivers’ licenses all information relevant to the action taken in accordance with this clause;
 
-&emsp;&emsp;(E) in the case of a person who, in any 5-year period beginning after the date of enactment of this section, is determined on the basis of a chemical test to have been operating a motor vehicle under the influence of alcohol or is determined to have refused to submit to such a test as proposed by the law enforcement officer, the State entity responsible for administering drivers’ licenses, upon receipt of the report of the law enforcement officer—
+&emsp;&emsp;(E) in the case of a person who, in any 5-year period beginning after December 18, 1991, is determined on the basis of a chemical test to have been operating a motor vehicle under the influence of alcohol or is determined to have refused to submit to such a test as proposed by the law enforcement officer, the State entity responsible for administering drivers’ licenses, upon receipt of the report of the law enforcement officer—
 
 &emsp;&emsp;&emsp;(i) shall suspend the driver's license of such person for a period of not less than 90 days if such person is a first offender in such 5-year period; and
 
@@ -44,13 +44,25 @@ Basic Grant Eligibility.—A State is eligible for a basic grant under this sect
 
 &emsp;(B) For each of the last two fiscal years in which a grant is received, any person with a blood alcohol concentration of 0.08 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated.
 
-&emsp;(3) A statewide program for stopping motor vehicles on a nondiscriminatory, lawful basis for the purpose of determining whether or not the operators of such motor vehicles are driving while under the influence of alcohol.
+&emsp;(3)(A) A statewide program for stopping motor vehicles on a nondiscriminatory, lawful basis for the purpose of determining whether or not the operators of such motor vehicles are driving while under the influence of alcohol.
+
+&emsp;(B) A State shall be treated as having met the requirement of this paragraph if—
+
+&emsp;&emsp;(i) the State provides to the Secretary a written certification that the highest court of the State has issued a decision indicating that implementation of subparagraph (A) would constitute a violation of the constitution of the State; and
+
+&emsp;&emsp;(ii) the State demonstrates to the satisfaction of the Secretary that—
+
+&emsp;&emsp;&emsp;(I) the alcohol fatal crash involvement rate in the State has decreased in each of the 3 most recent calendar years for which statistics for determining such rate are available; and
+
+&emsp;&emsp;&emsp;(II) the alcohol fatal crash involvement rate in the State has been lower than the average such rate for all States in each of such calendar years.
 
 &emsp;(4) A self-sustaining drunk driving prevention program under which a significant portion of the fines or surcharges collected from individuals apprehended and fined for operating a motor vehicle while under the influence of alcohol are returned, or an equivalent amount of non-Federal funds are provided, to those communities which have comprehensive programs for the prevention of such operations of motor vehicles.
 
 &emsp;(5) An effective system for preventing operators of motor vehicles under age 21 from obtaining alcoholic beverages. Such system may include the issuance of drivers’ licenses to individuals under age 21 that are easily distinguishable in appearance from drivers’ licenses issued to individuals age 21 years of age or older.
 
 &emsp;(6) Establishment of a mandatory sentence, which shall not be subject to suspension or probation, of (A) imprisonment for not less than 48 consecutive hours, or (B) not less than 10 days of community service, of any person convicted of driving while intoxicated more than once in any 5-year period.
+
+&emsp;(7) Any individual under age 21 with a blood alcohol concentration of 0.02 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated or driving under the influence of alcohol.
 
 (e)
 
@@ -62,17 +74,13 @@ Supplemental Grants.—
 
 &emsp;(1)
 
-Blood alcohol concentration for persons under age 21.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and provides that any person under age 21 with a blood alcohol concentration of 0.02 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated.
-
-&emsp;(2)
-
 Open container laws.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and makes unlawful the possession of any open alcoholic beverage container, or the consumption of any alcoholic beverage, in the passenger area of any motor vehicle located on a public highway or the right-of-way of a public highway, except—
 
 &emsp;&emsp;(A) as allowed in the passenger area, by persons (other than the driver), of any motor vehicle designed to transport more than 10 passengers (including the driver) while being used to provide charter transportation of passengers; or
 
 &emsp;&emsp;(B) as otherwise specifically allowed by such State, with the approval of the Secretary, but in no event may the driver of such motor vehicle be allowed to possess or consume an alcoholic beverage in the passenger area.
 
-&emsp;(3)
+&emsp;(2)
 
 Suspension of registration and return of license plates.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and provides for the suspension of the registration of, and the return to such State of the license plates for an individual who—
 
@@ -82,11 +90,11 @@ Suspension of registration and return of license plates.—Subject to subsection
 
 > &emsp;A State may provide limited exceptions to such suspension of registration or return of license plates on an individual basis to avoid undue hardship to any individual (including any family member of the convicted individual and any co-owner of the motor vehicle) who is completely dependent on the motor vehicle for the necessities of life. Such exceptions may not result in unrestricted reinstatement of the registration of the motor vehicle, unrestricted return of the license plates of the motor vehicle, or unrestricted return of the motor vehicle.
 
-&emsp;(4)
+&emsp;(3)
 
 Mandatory blood alcohol concentration testing programs.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and provides for mandatory blood alcohol concentration testing whenever a law enforcement officer has probable cause under State law to believe that a driver of a motor vehicle involved in an accident resulting in the loss of human life or, as determined by the Secretary, serious bodily injury, has committed an alcohol-related traffic offense.
 
-&emsp;(5)
+&emsp;(4)
 
 Drugged driving prevention.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and—
 
@@ -94,7 +102,7 @@ Drugged driving prevention.—Subject to subsection (c), a State shall be eligib
 
 &emsp;&emsp;&emsp;(i) a person shall not drive or be in actual physical control of a motor vehicle while under the influence of alcohol, a controlled substance, a combination of controlled substances, or any combination of alcohol and controlled substances;
 
-&emsp;&emsp;&emsp;(ii) any person who operates a motor vehicle upon the highways of the State shall be deemed to have given consent to a test or tests of his or her blood, breath, or urine for the purpose of determining the blood alcohol concentration or the presence of controlled substances in his or her body; and
+&emsp;&emsp;&emsp;(ii) any person who operates a motor vehicle upon the highways of the State shall be deemed to have given consent to a test or tests of his or her blood, breath, orurine for the purpose of determining the blood alcohol concentration or the presence of controlled substances in his or her body; and
 
 &emsp;&emsp;&emsp;(iii) the driver's license of a person shall be suspended promptly, for a period of not less than 90 days in the case of a first offender and not less than 1 year in the case of any repeat offender, when a law enforcement officer has probable cause under State law to believe such person has committed a traffic offense relating to controlled substances use, and such person (I) is determined, on the basis of 1 or more chemical tests, to have been under the influence of controlled substances while operating a motor vehicle, or (II) refuses to submit to such a test as proposed by the officer;
 
@@ -132,11 +140,11 @@ Drugged driving prevention.—Subject to subsection (c), a State shall be eligib
 
 &emsp;&emsp;&emsp;(iii) An effective program, as determined by the Secretary, for the rehabilitation and treatment of those convicted of driving under the influence of controlled substances.
 
-&emsp;(6)
+&emsp;(5)
 
 Blood alcohol concentration level percentage.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and requires that any person with a blood alcohol concentration of .08 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated in each of the first three fiscal years in which a basic grant is received.
 
-&emsp;(7)
+&emsp;(6)
 
 Video equipment for detection of drunk and drugged drivers.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and provides a program to acquire video equipment to be used in detecting persons who operate motor vehicles while under the influence of alcohol or a controlled substance and in effectively prosecuting those persons, and to train personnel in the use of that equipment.
 
@@ -154,7 +162,7 @@ In general.—Except as otherwise provided in this subsection, all provisions of
 
 &emsp;(2)
 
-Inconsistent provisions.—If the Secretary determines that a provision of chapter 1 of this title is inconsistent with this section, such provision shall not apply to funds authorized to be appropriated to carry out this section.
+Inconsistent provisions.—If the Secretary determines that a provision of chapter1 of this title is inconsistent with this section, such provision shall not apply to funds authorized to be appropriated to carry out this section.
 
 &emsp;(3)
 
@@ -182,7 +190,7 @@ Controlled substances.—The term “controlled substances” has the meaning su
 
 &emsp;(3)
 
-Motor vehicle.—The term “motor vehicle” has the meaning such term has under section 154(b) of this title.
+Motor vehicle.—The term “motor vehicle” has the meaning such term has under section 154(b) <sup>1</sup> of this title.
 
 &emsp;(4)
 
@@ -198,15 +206,27 @@ Open alcoholic beverage container.—The term “open alcoholic beverage contain
 
 Authorization of Appropriations.—For purposes of carrying out this section, there is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $25,000,000 for each of fiscal years 1994 through 1997. Amounts made available to carry out this section are authorized to remain available until expended.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591.)
 
 #### References in Text
 
-The date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (b) and (f)(3)(A), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
+The date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (b) and (f)(2)(A), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
 
-The date of enactment of this section, referred to in subsec. (d)(1)(E), probably means the date of enactment of Pub. L. 102–240, which amended this section generally and was approved Dec. 18, 1991.
+Section 154 of this title, referred to in subsec. (i)(3), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577.
 
 #### Amendments
+
+1995—Subsec. (d)(1)(E). Pub. L. 104–59, §324(a), substituted “December 18, 1991” for “the date of enactment of this section” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 104–59, §324(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (d)(7). Pub. L. 104–59, §324(b)(2), added par. (7).
+
+Subsec. (f). Pub. L. 104–59, §324(c), redesignated pars. (2) to (7) as (1) to (6), respectively, and struck out former par. (1) which read as follows:
+
+“(1)
+
+Blood alcohol concentration for persons under age 21.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and provides that any person under age 21 with a blood alcohol concentration of 0.02 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated.”
 
 1992—Subsec. (c). Pub. L. 102–388, §601(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -224,7 +244,7 @@ Subsec. (j). Pub. L. 102–388, §606, amended subsec. (j) generally. Prior to a
 
 Funding for Fiscal Years 1993–1997.—From sums made available to carry out section 402 of this title, the Secretary shall make available $25,000,000 for each of fiscal years 1993 through 1997 to carry out this section.”
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Drunk driving prevention programs” and amended text generally, substituting present provisions for provisions authorizing grants to those States which adopt and implement drunk driving prevention programs described in this section, requiring States to maintain expenditures for drunk driving prevention programs, providing for Federal share payable, maximum amount of basic grants and eligibility for basic grants, providing for supplemental grants to States which implement specific measures to fight drunk driving, and providing for definitions and appropriations for this section.
+1991—Pub. L. 102–240 substituted section catchline for one which read: “Drunk driving prevention programs” and amended text generally, substituting present provisions for provisions authorizing grants to those States which adopt and implement drunk driving preventionprograms described in this section, requiring States to maintain expenditures for drunk driving prevention programs, providing for Federal share payable, maximum amount of basic grants and eligibility for basic grants, providing for supplemental grants to States which implement specific measures to fight drunk driving, and providing for definitions and appropriations for this section.
 
 1990—Subsec. (e)(1)(C). Pub. L. 101–516 struck out “within the time period specified in subparagraph (F)” after “revocation”.
 

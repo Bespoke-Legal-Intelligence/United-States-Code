@@ -64,5 +64,5 @@ Pub. L. 102–366, title IV, §417(b), Sept. 4, 1992, 106 Stat. 1019, provided t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 662, 682, 683, 687, 687b, 687j, 687<i>l</i>, 697f of this title; title 11 section 109; title 12 sections 1431, 1464; title 26 sections 1044, 1202; title 42 sections 5305, 9815.
+This section is referred to in sections 662, 682, 683, 687, 687b, 687j, 687<i>l</i>, 697f of this title; title 11 section 109; title12 sections 1431, 1464; title 26 sections 1044, 1202; title 42 sections 5305, 9815.
 

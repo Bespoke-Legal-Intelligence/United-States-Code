@@ -12,7 +12,7 @@ Any cash or funds received by the Secretary under subsection (a) of this section
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 

@@ -30,7 +30,7 @@ Each funding agreement shall—
 
 &emsp;(5) specify the services to be provided, the functions to be performed, and the responsibilities of the tribe and the Secretary pursuant to the agreement;
 
-&emsp;(6) authorize the tribe and the Secretary to reallocate funds or modify budget allocationswithin any year, and specify the procedures to be used;
+&emsp;(6) authorize the tribe and the Secretary to reallocate funds or modify budget allocations within any year, and specify the procedures to be used;
 
 &emsp;(7) allow for retrocession of programs or portions of programs pursuant to section 450j(e) of this title;
 
@@ -122,7 +122,7 @@ Title III of this Act, referred to in subsec. (g)(2), is title III of Pub. L. 93
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

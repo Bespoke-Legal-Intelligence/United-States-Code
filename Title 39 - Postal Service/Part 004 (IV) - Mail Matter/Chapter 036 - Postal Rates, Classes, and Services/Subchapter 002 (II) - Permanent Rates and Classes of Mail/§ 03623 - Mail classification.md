@@ -1,0 +1,36 @@
+### §3623. Mail classification
+
+(a) Within 2 years after the effective date of this subchapter, the Postal Service shall request the Postal Rate Commission to make a recommended decision on establishing a mail classification schedule in accordance with the provisions of this section.
+
+(b) Following the establishment of the mail classification schedule requested under subsection (a) of this section, the Postal Service may from time to time request that the Commission submit, or the Commission may submit to the Governors on its own initiative, a recommended decision on changes in the mail classification schedule.
+
+(c) The Commission shall make a recommended decision on establishing or changing the schedule in accordance with the policies of this title and the following factors:
+
+&emsp;(1) the establishment and maintenance of a fair and equitable classification system for all mail;
+
+&emsp;(2) the relative value to the people of the kinds of mail matter entered into the postal system and the desirability and justification for special classifications and services of mail;
+
+&emsp;(3) the importance of providing classifications with extremely high degrees of reliability and speed of delivery;
+
+&emsp;(4) the importance of providing classifications which do not require an extremely high degree of reliability and speed of delivery;
+
+&emsp;(5) the desirability of special classifications from the point of view of both the user and of the Postal Service; and
+
+&emsp;(6) such other factors as the Commission may deem appropriate.
+
+(d) The Postal Service shall maintain one or more classes of mail for the transmission of letters sealed against inspection. The rate for each such class shall be uniform throughout the United States, its territories, and possessions. One such class shall provide for the most expeditious handling and transportation afforded mail matter by the Postal Service. No letter of such a class of domestic origin shall be opened except under authority of a search warrant authorized by law, or by an officer or employee of the Postal Service for the sole purpose of determining an address at which the letter can be delivered, or pursuant to the authorization of the addressee.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 761; Pub. L. 94–421, §8, Sept. 24, 1976, 90 Stat. 1310.)
+
+#### References in Text
+
+The effective date of this subchapter, referred to in subsec. (a), is Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
+
+#### Amendments
+
+1976—Subsec. (b). Pub. L. 94–421 substituted “Governors on” for “Postal Service on”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3624, 3641 of this title.
+

@@ -12,10 +12,10 @@
 | [578\.](%C2%A7%2000578%20-%20Promotions%20how%20made%3B%20effective%20date.md) | Promotions: how made; effective date. |
 | [579\.](%C2%A7%2000579%20-%20Removal%20from%20a%20promotion%20list.md) | Removal from a promotion list. |
 | [580\.](%C2%A7%2000580%20-%20Regular%20warrant%20officers%20twice%20failing%20of%20selection%20for%20promotion%20involuntary%20retirement%20or%20separation.md) | Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation. |
-| 580a. | Enhanced authority for selective early discharges. |
-| 581\. | Selective retirement. |
-| 582\. | Warrant officer active-duty list: exclusions. |
-| 583\. | Definitions. |
+| [580a.](%C2%A7%2000580a%20-%20Enhanced%20authority%20for%20selective%20early%20discharges.md) | Enhanced authority for selective early discharges. |
+| [581\.](%C2%A7%2000581%20-%20Selective%20retirement.md) | Selective retirement. |
+| [582\.](%C2%A7%2000582%20-%20Warrant%20officer%20active-duty%20list%20exclusions.md) | Warrant officer active-duty list: exclusions. |
+| [583\.](%C2%A7%2000583%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@ There is a Medical Service Corps in the Army. The Medical Service Corps consists
 
 &emsp;&emsp;(E) other sections considered necessary by the Secretary of the Army.
 
-(Added Pub. L. 89–603, §1(1), Sept. 24, 1966, 80 Stat. 846, and amended Pub. L. 97–295, §1(37), Oct. 12, 1982, 96 Stat. 1296.)
+(Added Pub. L. 89–603, §1(1), Sept. 24, 1966, 80 Stat. 846; amended Pub. L. 97–295, §1(37), Oct. 12, 1982, 96 Stat. 1296.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,7 @@ In subsection (c), the words “is the Surgeon General's consultant” are subst
 
 #### Prior Provisions
 
-A prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7, 1962, Pub. L. 87–649, §6(a)(1), 76 Stat. 494, contained substantially the same provisions as the present section but placed the upper limit for the rank of officers of the Medical Service Corps at colonel, prior to Pub. L. 89–603.
+A prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7, 1962, Pub. L. 87–649, §6(a)(1), 76 Stat. 494, contained substantially the same provisions as the present section but placed the upper limit for the rank of officers of the Medical Service Corps at colonel, prior to repeal by Pub. L. 89–603.
 
 #### Amendments
 

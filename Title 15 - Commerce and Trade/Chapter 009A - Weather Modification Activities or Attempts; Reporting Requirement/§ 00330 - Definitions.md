@@ -112,7 +112,7 @@ Report.
 
 “(a)
 
-In General.—The Secretary shall prepare and submit to the President and the Congress, within 1 year after the date of enactment of this Act \[Oct. 13, 1976\],a final report on the findings, conclusions, and recommendations of the study conducted pursuant to section 4. Such report shall include:
+In General.—The Secretary shall prepare and submit to the President and the Congress, within 1 year after the date of enactment of this Act \[Oct. 13, 1976\], a final report on the findings, conclusions, and recommendations of the study conducted pursuant to section 4. Such report shall include:
 
 &emsp;“(1) a summary of the findings made with respect to each of the areas of investigation specified in section 4;
 

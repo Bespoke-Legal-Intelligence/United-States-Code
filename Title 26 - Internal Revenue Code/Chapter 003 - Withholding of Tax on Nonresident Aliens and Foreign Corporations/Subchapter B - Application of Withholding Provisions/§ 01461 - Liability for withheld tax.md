@@ -10,7 +10,7 @@ Every person required to deduct and withhold any tax under this chapter is hereb
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to payments occurring after Dec. 31, 1966, see section103(n)(3) of Pub. L. 89–809, set out as a note under section 871 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to payments occurring after Dec. 31, 1966, see section 103(n)(3) of Pub. L. 89–809, set out as a note under section 871 of this title.
 
 #### Section Referred to in Other Sections
 

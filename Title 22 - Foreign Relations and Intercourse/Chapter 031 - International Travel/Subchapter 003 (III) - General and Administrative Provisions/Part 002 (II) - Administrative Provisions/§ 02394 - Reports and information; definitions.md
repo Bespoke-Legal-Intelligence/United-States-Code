@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 95–424, §502(a)(2), substituted definitions of “foreig
 
 Subsec. (c). Pub. L. 95–424, §502(a)(1), struck out “(c)” at beginning of subsection and transferred the remainder of subsection to section 2393a of this title.
 
-Subsecs. (d) to (h). Pub. L. 95–424, §502(a)(2), struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President's recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating to military assistance to South Vietnam, Thailand, and Laos.
+Subsecs. (d) to (h). Pub. L. 95–424, §502(a)(2), struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President's recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating tomilitary assistance to South Vietnam, Thailand, and Laos.
 
 1976—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign Assistance Act of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
 

@@ -6,7 +6,7 @@ The Secretary shall set aside, out of sums available to the Department for any f
 
 #### (b) Availability of funds for State labor market information
 
-Funds available for purposes of this part shall also be available for purposes of section 1535 of this title (relating to State labor market information).
+Funds available for purposes of this part shall also be available for purposes of section 1535 ofthis title (relating to State labor market information).
 
 #### (c) Funds available from other programs
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish and maintain a program by which he may, upon application of aprivate lender, insure loans (including loans made in accordance with a mortgage) made by such lender to finance any project for the preservation of a property included on the National Register.
+The Secretary shall establish and maintain a program by which he may, upon application of a private lender, insure loans (including loans made in accordance with a mortgage) made by such lender to finance any project for the preservation of a property included on the National Register.
 
 #### (b) Loan qualifications
 

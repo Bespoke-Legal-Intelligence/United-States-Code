@@ -10,7 +10,7 @@ No payment may be made under part B of subchapter XVIII of this chapter for item
 
 &emsp;&emsp;(A) on the identity of any other entities providing items or services for which payment may be made under subchapter XVIII of this chapter with respect to which such person or managing employee is a person with an ownership or control interest at the time such information is supplied or at any time during the 3-year period ending on the date such information is supplied, and
 
-&emsp;&emsp;(B) as to whether any penalties, assessments, or exclusions have been assessedagainst such person or managing employee under section 1320a–7, 1320a–7a, or 1320a–7b of this title.
+&emsp;&emsp;(B) as to whether any penalties, assessments, or exclusions have been assessed against such person or managing employee under section 1320a–7, 1320a–7a, or 1320a–7b of this title.
 
 #### (b) Updates to information supplied
 

@@ -20,7 +20,7 @@ As an integral part of such program, the Department of Energy, under the general
 
 #### (d) Authorization of appropriations
 
-For the purposes of carrying out this section, there is authorized to be appropriated such sums as are contained in annual authorization Acts for the Department of Energy, including such sums which have been authorized for such purposes under previous legislation.
+For the purposes of carrying out this section, there is authorized to be appropriated such sumsas are contained in annual authorization Acts for the Department of Energy, including such sums which have been authorized for such purposes under previous legislation.
 
 #### (e) Coordination with related United States activities abroad
 

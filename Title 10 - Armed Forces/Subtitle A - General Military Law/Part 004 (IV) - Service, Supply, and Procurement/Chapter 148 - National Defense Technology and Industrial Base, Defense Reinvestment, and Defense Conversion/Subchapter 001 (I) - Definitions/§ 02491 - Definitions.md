@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;(4) The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, or production activities.
 
-&emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
+&emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such termsinclude a federally funded research and development center sponsored by a Federal agency.
 
 &emsp;(6) The term “critical technology” means a technology that is—
 
@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
-&emsp;(8) The term “defense critical technology” means a technology that appears on the list ofcritical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title.
+&emsp;(8) The term “defense critical technology” means a technology that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title.
 
 &emsp;(9) The term “eligible firm” means a company or other business entity that, as determined by the Secretary of Commerce—
 
@@ -70,7 +70,7 @@ In this chapter:
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, §4202(a).
+Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Section 1101 of title XI of div. A of Pub. L. 103–337 provided that: “This t
 
 #### Short Title of 1993 Amendment
 
-Section 1301 of title XIII of div. A of Pub. L. 103–160 provided that: “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
+Section 1301 of title XIII of div. A of Pub. L. 103–160 provided that: “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a ofthe Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
 
 #### Short Title
 

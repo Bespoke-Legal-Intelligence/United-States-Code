@@ -1,4 +1,4 @@
-### §8031 . The Air Staff: function; composition
+### §8031. The Air Staff: function; composition
 
 (a) There is in the executive part of the Department of the Air Force an Air Staff. The function of the Air Staff is to assist the Secretary of the Air Force in carrying out his responsibilities.
 

@@ -1,10 +1,10 @@
 Part B—National Educational Research Policy and Priorities Board
 
-<i><sup>1</sup></i><i>So in original. Probably should be “Education”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Education”.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “mean”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “mean”.</i>
 
-<i><sup>3</sup></i><i>So in original. Probably should be “through”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “through”.</i>
 
 
 ---

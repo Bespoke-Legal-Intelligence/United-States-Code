@@ -56,7 +56,7 @@
 
 (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
 
-(g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agencies and any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
+(g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agenciesand any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
 
 (Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659.)
 

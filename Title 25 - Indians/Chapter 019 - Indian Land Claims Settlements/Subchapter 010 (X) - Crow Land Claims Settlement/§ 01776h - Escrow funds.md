@@ -26,11 +26,11 @@ As soon as practicable after the Settlement Agreement is executed and approved p
 
 #### (1) In general
 
-&emsp;Beginning with fiscal year 1995, and ending on the date on which the total amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d) of this section), the Secretary and the Secretary of the Treasury shall make necessary and proper arrangements for the monthly payment, transfer, or deposit (or any combination thereof) into each of the Suspension Accounts of an amount equal to one-half of the royalties received and retained by the United States for the immediately preceding month, as determined in accordance with section 1776d(b)(1) of this title, by the date specified under section 1776d(b)(3) of this title.
+&emsp;Beginning with fiscal year 1995, and ending on the date on which the total amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for eachsuch account (as specified in subsection (d) of this section), the Secretary and the Secretary of the Treasury shall make necessary and proper arrangements for the monthly payment, transfer, or deposit (or any combination thereof) into each of the Suspension Accounts of an amount equal to one-half of the royalties received and retained by the United States for the immediately preceding month, as determined in accordance with section 1776d(b)(1) of this title, by the date specified under section 1776d(b)(3) of this title.
 
 #### (2) Subsequent deposits
 
-&emsp;At such time as the amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d) of thissection), in accordance with section 1776d(b)(1) of this title, the Secretary and the Secretary of the Treasury shall thereafter deposit any remaining amounts determined under section 1776d(b)(1) of this title in the Crow Tribal Trust Fund established under section 1776d(a) of this title.
+&emsp;At such time as the amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d) of this section), in accordance with section 1776d(b)(1) of this title, the Secretary and the Secretary of the Treasury shall thereafter deposit any remaining amounts determined under section 1776d(b)(1) of this title in the Crow Tribal Trust Fund established under section 1776d(a) of this title.
 
 #### (d) Limitation
 

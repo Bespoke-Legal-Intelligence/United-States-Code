@@ -16,7 +16,7 @@ It is the purpose of the Foundation to—
 
 &emsp;(7) develop resources to properly train Native American and Alaska Native professionals in health care and public policy.
 
-(Pub. L. 102 259, §6, Mar. 19, 1992, 106 Stat. 80.)
+(Pub. L. 102–259, §6, Mar. 19, 1992, 106 Stat. 80.)
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ Pub. L. 101–12, §8(a), (b), Apr. 10, 1989, 103 Stat. 34, as amended by Pub. L
 
 Authorization of Appropriations.—There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated—
 
-&emsp;“(1) for each of fiscal years 1993, 1994, 1995, 1996, and 1997, such sums as necessary to carry out subchapterI of chapter 12 of title 5, United States Code (as amended by this Act); and
+&emsp;“(1) for each of fiscal years 1993, 1994, 1995, 1996, and 1997, such sums as necessary to carry out subchapter I of chapter 12 of title 5, United States Code (as amended by this Act); and
 
 &emsp;“(2) for each of fiscal years 1993, 1994, 1995, 1996, and 1997, such sums as necessary to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act).
 

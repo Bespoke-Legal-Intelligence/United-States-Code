@@ -1,8 +1,8 @@
-### §410pp–1 . Acquisition of leasehold
+### §410pp–1. Acquisition of leasehold
 
 #### (a) Authority of Secretary
 
-If, no later than 51/2 years after October 31, 1988, the Zuni Tribe, after consultation with the Bureau of Indian Affairs, offers to the Secretary a leasehold interest in trust lands of the Zuni Indian Reservation, in New Mexico, meeting therequirements of this subchapter, the Secretary is authorized and directed to accept such leasehold on behalf of the National Park Service and to publish in the Federal Register a notice of such acceptance.
+If, no later than 51/2 years after October 31, 1988, the Zuni Tribe, after consultation with the Bureau of Indian Affairs, offers to the Secretary a leasehold interest in trust lands of the Zuni Indian Reservation, in New Mexico, meeting the requirements of this subchapter, the Secretary is authorized and directed to accept such leasehold on behalf of the National Park Service and to publish in the Federal Register a notice of such acceptance.
 
 #### (b) Requirements
 
@@ -34,7 +34,7 @@ The Secretary, after consultation with the Advisory Commission and with the agre
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -20,5 +20,5 @@ Each plan revision submitted under this section shall contain such contingency p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7407 of this title.
+This section is referred to in sections 7407, 7506 of this title; title 23 section 109.
 

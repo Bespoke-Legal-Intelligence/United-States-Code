@@ -1,4 +1,4 @@
-### \[§5507 . Repealed. Pub. L. 87–649, §14c(26), Sept. 7, 1962, 76 Stat. 501\]
+### \[§5507. Repealed. Pub. L. 87–649, §14c(26), Sept. 7, 1962, 76 Stat. 501\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 316, related to pay and allowances of rear admirals. See section 202 of Title 37, Pay and Allowances of the Uniformed Services.
 

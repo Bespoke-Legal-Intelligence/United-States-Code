@@ -8,57 +8,53 @@ The Administrator of the Environmental Protection Agency shall establish a Scien
 
 Such Board shall be composed of at least nine members, one of whom shall be designated Chairman, and shall meet at such times and places as may be designated by the Chairman of the Board in consultation with the Administrator. Each member of the Board shall be qualified by education, training, and experience to evaluate scientific and technical information on matters referred to the Board under this section.
 
-#### (c) Review and comment on plan for research, development, and demonstration and annual revisions; transmission to Congress
-
-In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.
-
-#### (d) Repealed. Pub. L. 103–437, §15(<i>o</i>)(2), Nov. 2, 1994, 108 Stat. 4593
-
-#### (e) Proposed environmental criteria document, standard, limitation, or regulation; functions respecting in conjunction with Administrator
+#### (c) Proposed environmental criteria document, standard, limitation, or regulation; functions respecting in conjunction with Administrator
 
 (1) The Administrator, at the time any proposed criteria document, standard, limitation, or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
 
 (2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on the adequacy of the scientific and technical basis of the proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
 
-#### (f) Utilization of technical and scientific capabilities of Federal agencies and national environmental laboratories for determining adequacy of scientific and technical basis of proposed criteria document, etc.
+#### (d) Utilization of technical and scientific capabilities of Federal agencies and national environmental laboratories for determining adequacy of scientific and technical basis of proposed criteria document, etc.
 
 In preparing such advice and comments, the Board shall avail itself of the technical and scientific capabilities of any Federal agency, including the Environmental Protection Agency and any national environmental laboratories.
 
-#### (g) Member committees and investigative panels; establishment; chairmenship
+#### (e) Member committees and investigative panels; establishment; chairmenship
 
 The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.
 
-#### (h) Appointment and compensation of secretary and other personnel; compensation of members
+#### (f) Appointment and compensation of secretary and other personnel; compensation of members
 
 (1) Upon the recommendation of the Board, the Administrator shall appoint a secretary, and such other employees as deemed necessary to exercise and fulfill the Board's powers and responsibilities. The compensation of all employees appointed under this paragraph shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 (2) Members of the Board may be compensated at a rate to be fixed by the President but not in excess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5.
 
-#### (i) Consultation and coordination with Scientific Advisory Panel
+#### (g) Consultation and coordination with Scientific Advisory Panel
 
 In carrying out the functions assigned by this section, the Board shall consult and coordinate its activities with the Scientific Advisory Panel established by the Administrator pursuant to section 136w(d) of title 7.
 
-(Pub. L. 95–155, §8, Nov. 8, 1977, 91 Stat. 1260; Pub. L. 96–569, §3, Dec. 22, 1980, 94 Stat. 3337; Pub. L. 103–437, §15(<i>o</i>), Nov. 2, 1994, 108 Stat. 4593.)
+(Pub. L. 95–155, §8, Nov. 8, 1977, 91 Stat. 1260; Pub. L. 96–569, §3, Dec. 22, 1980, 94 Stat. 3337; Pub. L. 103–437, §15(<i>o</i>), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 104–66, title II, §2021(k)(3), Dec. 21, 1995, 109 Stat. 728.)
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (e)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (e)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Resource Conservation and Recovery Act of 1976, referred to in subsec. (e)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
+The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
 
-The Noise Control Act, referred to in subsec. (e)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
+The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
 
-The Toxic Substances Control Act, referred to in subsec. (e)(1), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (c)(1), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (e)(1), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(1), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+
+1995—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: “In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.”
 
 1994—Subsec. (a). Pub. L. 103–437, §15(<i>o</i>)(1), substituted “Committee on Science, Space, and Technology, on Energy and Commerce, or on” for “Committees on Science and Technology, Interstate and Foreign Commerce, or”.
 
@@ -68,11 +64,11 @@ Subsec. (d). Pub. L. 103–437, §15(<i>o</i>)(2), struck out subsec. (d) which 
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Termination of Advisory Boards
 

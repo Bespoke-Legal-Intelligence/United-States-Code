@@ -46,7 +46,7 @@ Full faith and credit shall be accorded by the courts of the States and the cour
 
 #### (h) Remedies under Convention not exclusive
 
-The remedies established by the Convention and this chapter shall be in addition to remedies available under other laws or international agreements.
+The remedies established by the Convention and this chapter shall be in addition to remediesavailable under other laws or international agreements.
 
 (Pub. L. 100–300, §4, Apr. 29, 1988, 102 Stat. 438.)
 

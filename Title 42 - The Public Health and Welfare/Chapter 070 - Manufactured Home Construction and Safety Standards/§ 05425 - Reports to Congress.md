@@ -12,7 +12,7 @@ The report required by subsection (a) of this section shall contain such recomme
 
 In order to assure a continuing and effective national manufactured home construction and safety program, it is the policy of Congress to encourage the adoption of State inspection of used manufactured homes. Therefore, to that end the Secretary shall conduct a thorough study and investigation to determine the adequacy of manufactured home construction and safety standards and manufactured home inspection requirements and procedures applicable to used manufactured homes in each State, and the effect of programs authorized by this chapter upon such standards, requirements, and procedures for used manufactured homes, and report to Congress as soon as practicable, but not later than one year after August 22, 1974, the results of such study, and recommendations for such additional legislation as he deems necessary to carry out the purposes of this chapter. Such report shall also include recommendations by the Secretary relating to the problems of disposal of used manufactured homes.
 
-(Pub. L. 93–383, title VI, §626, Aug. 22, 1974, 88 Stat. 714; Pub. L. 95–557, title IX, §901, Oct. 31, 1978, 92 Stat. 2124; Pub. L. 96–399, title III,§308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417.)
+(Pub. L. 93–383, title VI, §626, Aug. 22, 1974, 88 Stat. 714; Pub. L. 95–557, title IX, §901, Oct. 31, 1978, 92 Stat. 2124; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417.)
 
 #### Codification
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) the Commission on Proposals for the National Academy of Peace and Conflict Resolution, created by the Education Amendments of 1978, recommended establishing an academy as a highly desirable investment to further the Nation's interest in promoting international peace;
 
-&emsp;(8) an institute strengthening and symbolizing the fruitful relation between the world of learning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promotethe peaceful resolution of international conflicts; and
+&emsp;(8) an institute strengthening and symbolizing the fruitful relation between the world of learning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promote the peaceful resolution of international conflicts; and
 
 &emsp;(9) the establishment of such an institute is an appropriate investment by the people of this Nation to advance the history, science, art, and practice of international peace and the resolution of conflicts among nations without the use of violence.
 

@@ -30,11 +30,11 @@ The Congress finds that—
 
 &emsp;(7) excellence in education, high educational achievements and standards, and the full participation of women and girls in American society, cannot be achieved without educational equity for women and girls.
 
-(Pub. L. 89 10, title V, §5201, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
+(Pub. L. 89–10, title V, §5201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695.)
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (b)(1), is Pub. L. 92 318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (b)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
 
-The Women's Educational Equity Act, referred to in subsec. (b)(2), is part A of title IV of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 234, which was classified generally to part A (§3041 et seq.) of subchapter IV of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+The Women's Educational Equity Act, referred to in subsec. (b)(2), is part A of title IV of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 234, which was classified generally to part A (§3041 et seq.) of subchapter IV of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 

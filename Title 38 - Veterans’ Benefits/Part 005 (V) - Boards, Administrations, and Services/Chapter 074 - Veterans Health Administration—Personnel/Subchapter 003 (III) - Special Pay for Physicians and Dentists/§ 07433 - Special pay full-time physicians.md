@@ -22,7 +22,7 @@
 
 &emsp;(3)(A) For service in a medical specialty with respect to which there are extraordinary difficulties (on a nationwide basis or on the basis of the needs of a specific medical facility) in the recruitment or retention of qualified physicians, an annual rate of not more than $40,000.
 
-&emsp;(B) For service by a physician who serves only a portion of a year in a medical specialtyfor which special pay is paid under subparagraph (A), the annual rate shall be calculated on the basis of the proportion of time served in the specialty for which the special pay is paid.
+&emsp;(B) For service by a physician who serves only a portion of a year in a medical specialty for which special pay is paid under subparagraph (A), the annual rate shall be calculated on the basis of the proportion of time served in the specialty for which the special pay is paid.
 
 &emsp;(4)(A) For service in any of the following executive positions, an annual rate not to exceed the rate applicable to that position as follows:
 

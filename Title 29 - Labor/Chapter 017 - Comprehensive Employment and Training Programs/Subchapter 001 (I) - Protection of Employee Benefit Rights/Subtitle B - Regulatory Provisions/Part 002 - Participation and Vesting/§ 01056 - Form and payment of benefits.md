@@ -168,7 +168,7 @@ In the case of a plan covered by subchapter III of this chapter, the plan shall 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitleII of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and which was classified principally to subchapter III (§228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. For complete classification of these acts to the Code, see Tables.
 
@@ -224,7 +224,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Contributing sponsor.—The amendment made by subsection (a)(11) \[amending section 1301 of this title\] shall be effective as if included in the Pension Protection Act \[Pub. L. 100–203, title IX, subtitle D, part II, §§9302–9346\].”
 
-Section 776(e) of Pub. L. 103–465 provided that: “The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title and section 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation.”
+Section 776(e) of Pub. L. 103–465 provided that: “The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title and section 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation.” \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
 
 #### Effective Date of 1989 Amendment
 

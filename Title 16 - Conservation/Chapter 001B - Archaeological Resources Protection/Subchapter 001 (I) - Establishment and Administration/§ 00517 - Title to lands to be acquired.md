@@ -10,7 +10,7 @@ This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as
 
 #### Codification
 
-Section was amended by act Dec. 11, 1926, ch. 5, 44 Stat. 919. The amendment added a proviso at the end of this section which is set out as section 517a of this title.
+Section was amended by act Dec. 11, 1926, ch. 5, 44 Stat. 919. The amendment added a proviso at the end ofthis section which is set out as section 517a of this title.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §1396i. Certification and approval of rural health clinics and intermediate care facilities for mentally retarded
 
-(a)(1) Whenever the Secretary certifies a facility in a State to be qualified as a rural healthclinic under subchapter XVIII of this chapter, such facility shall be deemed to meet the standards for certification as a rural health clinic for purposes of providing rural health clinic services under this title.
+(a)(1) Whenever the Secretary certifies a facility in a State to be qualified as a rural health clinic under subchapter XVIII of this chapter, such facility shall be deemed to meet the standards for certification as a rural health clinic for purposes of providing rural health clinic services under this title.
 
 (2) The Secretary shall notify the State agency administering the medical assistance plan of his approval or disapproval of any facility in that State which has applied for certification by him as a qualified rural health clinic.
 
@@ -44,7 +44,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except asotherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1977 Amendment
 

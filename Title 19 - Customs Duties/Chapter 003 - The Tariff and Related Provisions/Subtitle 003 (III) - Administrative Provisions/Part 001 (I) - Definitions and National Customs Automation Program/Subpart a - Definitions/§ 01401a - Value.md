@@ -94,7 +94,7 @@
 
 &emsp;(B) exported to the United States at or about the time that the merchandise being appraised is exported to the United States.
 
-(2) Transaction values determined under this subsection shall be based on sales of identical merchandise or similar merchandise, as the case may be, at the same commercial level and in substantially the same quantity as the sales of the merchandise being appraised. If no such sale is found, sales of identical merchandise or similar merchandise at either a different commercial level or in different quantities, or both, shall be used, but adjusted to take account of any such difference. Any adjustment made under this paragraph shall be based on sufficient information. If in applying this paragraph with respect to any imported merchandise, two or more transaction values for identical merchandise, or for similar merchandise, are determined, such imported merchandise shall be appraised on the basis of the lower or lowest of such values.
+(2) Transaction values determined under this subsection shall be based on sales of identical merchandise or similar merchandise, as the case may be, at the same commercial level and in substantially the same quantity as the sales ofthe merchandise being appraised. If no such sale is found, sales of identical merchandise or similar merchandise at either a different commercial level or in different quantities, or both, shall be used, but adjusted to take account of any such difference. Any adjustment made under this paragraph shall be based on sufficient information. If in applying this paragraph with respect to any imported merchandise, two or more transaction values for identical merchandise, or for similar merchandise, are determined, such imported merchandise shall be appraised on the basis of the lower or lowest of such values.
 
 #### (d) Deductive value
 
@@ -138,7 +138,7 @@
 
 &emsp;(A) the cost or value of the materials and the fabrication and other processing of any kind employed in the production of the imported merchandise;
 
-&emsp;(B) an amount for profit and general expenses equal to that usually reflected in sales of merchandise of the same class or kind as the imported merchandise that are made bythe producers in the country of exportation for export to the United States;
+&emsp;(B) an amount for profit and general expenses equal to that usually reflected in sales of merchandise of the same class or kind as the imported merchandise that are made by the producers in the country of exportation for export to the United States;
 
 &emsp;(C) any assist, if its value is not included under subparagraph (A) or (B); and
 
@@ -298,7 +298,7 @@ As used in this section—
 
 Section 2 of Pub. L. 96–490 provided in part that the amendment made by that section is “effective on the latest of—
 
-&emsp;“(1) the date on which the amendments made by title II of the Trade Agreements Act of 1979 (exceptthe amendments made by section 223(b)) take effect \[July 1, 1980\],
+&emsp;“(1) the date on which the amendments made by title II of the Trade Agreements Act of 1979 (except the amendments made by section 223(b)) take effect \[July 1, 1980\],
 
 &emsp;“(2) the date on which the President accepts the Protocol \[to the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade\] for the United States \[Dec. 30, 1980\], or
 

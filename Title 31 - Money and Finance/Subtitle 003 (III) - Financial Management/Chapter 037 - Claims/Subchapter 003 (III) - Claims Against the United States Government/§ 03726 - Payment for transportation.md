@@ -12,9 +12,11 @@
 
 (b) Not later than 3 years (excluding time of war) after the time a bill is paid, the Government may deduct from an amount subsequently due a carrier or freight forwarder an amount paid on the bill that was greater than the rate allowed under—
 
-&emsp;(1) a lawful tariff on file with the Interstate Commerce Commission, the Secretary of Transportation with respect to foreign air transportation (as defined in section 40102(a) of title 49), the Federal Maritime Commission, or a State transportation authority; or
+&emsp;(1) a lawful tariff under title 49 or on file with the Secretary of Transportation with respect to foreign air transportation (as defined in section 40102(a) of title 49), the Federal Maritime Commission, or a State transportation authority;
 
-&emsp;(2) sections 10721–10724 of title 49 or an equivalent arrangement or an exemption.
+&emsp;(2) a lawfully quoted rate subject to the jurisdiction of the Surface Transportation Board; or
+
+&emsp;(3) sections 10721, 13712, and 15504 of title 49 or an equivalent arrangement or an exemption.
 
 (c) Expenses of transportation audit postpayment contracts and contract administration, and the expenses of all other transportation audit and audit-related functions conferred upon the Administrator of General Services, shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds, not to exceed collections. Payment to any contractor for audit services shall not exceed 50 percent of the overpayment identified by contract audit.
 
@@ -28,7 +30,7 @@
 
 (2) This section does not prevent the Comptroller General from conducting an audit under chapter 35 of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5,1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, §306, Dec. 29, 1995, 109 Stat. 945.)
 
 Historical and Revision Notes
 
@@ -78,6 +80,12 @@ In subsection (d)(2), the words “Comptroller General” are substituted for �
 
 #### Amendments
 
+1995—Subsec. (b)(1). Pub. L. 104–88, §306(1), (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
+
+Subsec. (b)(2). Pub. L. 104–88, §306(4), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(3). Pub. L. 104–88, §306(3), (5), redesignated par. (2) as (3) and substituted “sections 10721, 13712, and 15504” for “sections 10721–10724”.
+
 1994—Subsec. (b)(1). Pub. L. 103–272, §5(i)(2), substituted “section 40102(a) of title 49” for “the Federal Aviation Act of 1958”.
 
 Subsec. (d). Pub. L. 103–272, §4(f)(1)(N), which directed the substitution of “miscellaneous receipts” for “miscellaneous receipt”, was repealed by Pub. L. 103–429.
@@ -94,6 +102,10 @@ Subsecs. (c) to (g). Pub. L. 99–627, §1(2), (3), added subsecs. (c) to (e) an
 
 1984—Subsec. (b)(1). Pub. L. 98–443 substituted “Secretary of Transportation with respect to foreign air transportation (as defined in the Federal Aviation Act of 1958)” for “Civil Aeronautics Board”.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1994 Amendment
 
 Section 7(a) of Pub. L. 103–429 provided that the amendment made by that section is effective July 5, 1994.
@@ -101,6 +113,10 @@ Section 7(a) of Pub. L. 103–429 provided that the amendment made by that secti
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
 
 #### Task Force
 
@@ -120,11 +136,11 @@ Section 2 of Pub. L. 99–627 provided that:
 
 “(d) Each department, agency, and instrumentality of the Federal Government shall furnish to the task force, upon its request, such data, reports, and other information (not otherwise prohibited by law) as the task force deems necessary to carry out its functions under this section.
 
-“(e) The head of each such department, agency, and instrumentality may provide to the task force such services and personnel as the task force requests on such basis (reimbursable or otherwise) as may beagreed upon between such department, agency, or instrumentality and the task force.
+“(e) The head of each such department, agency, and instrumentality may provide to the task force such services and personnel as the task force requests on such basis (reimbursable or otherwise) as may be agreed upon between such department, agency, or instrumentality and the task force.
 
 “(f) The task force shall submit a final report on the results of its study and investigation to the Congress not later than July 1, 1988.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3528 of this title; title 2 sections 142b, 142e, 142f; title 44 section 308; title 49 section 11706.
+This section is referred to in section 3528 of this title; title 2 sections 142b, 142e, 142f; title 44 section 308; title 49 sections 11705, 14705, 15905.
 

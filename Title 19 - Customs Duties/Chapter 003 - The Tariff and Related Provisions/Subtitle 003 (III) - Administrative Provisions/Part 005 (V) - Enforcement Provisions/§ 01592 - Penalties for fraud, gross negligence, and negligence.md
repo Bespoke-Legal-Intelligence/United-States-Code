@@ -150,7 +150,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded by section 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded by section 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 The provisions of section III, H, of the 1913 act were substituted for provisions of the same nature made by the Customs Administrative Act of June 10, 1890, ch. 407, §§6, 9, 26 Stat. 134, 135, amended and reenacted by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95, 97.
 

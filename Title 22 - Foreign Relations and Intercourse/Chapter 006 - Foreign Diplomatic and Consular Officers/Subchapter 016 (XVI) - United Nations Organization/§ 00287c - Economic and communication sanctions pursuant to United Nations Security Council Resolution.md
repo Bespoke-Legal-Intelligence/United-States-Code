@@ -56,7 +56,7 @@ Pub. L. 96–107, title VIII, §818, Nov. 9, 1979, 93 Stat. 818, provided that: 
 
 #### Sanctions Against Zimbabwe-Rhodesia; Report to Congress
 
-Pub. L. 96–60, title IV, §408, Aug. 15, 1979, 93 Stat. 405, which provided for termination of sanctions against Zimbabwe-Rhodesia by Nov. 15, 1979, unless the President determined and reported to Congress that termination of sanctions would not be in the national interest, with provision authorizing Congress to reject such Presidential determination, was repealed by Pub. L. 97–241, title V, §505(a)(1), Aug. 24, 1982, 96 Stat. 298.
+Pub. L. 96–60, title IV, §408, Aug. 15, 1979, 93 Stat. 405, provided for termination of sanctions against Zimbabwe-Rhodesia by Nov. 15, 1979, unless the President determined and reported to Congress that termination of sanctions would not be in the national interest, with provision authorizing Congress to reject such Presidential determination, prior to repeal by Pub. L. 97–241, title V, §505(a)(1), Aug. 24, 1982, 96 Stat. 298.
 
 #### Determinations Respecting Future Enforcement of Sanctions Against Rhodesia
 

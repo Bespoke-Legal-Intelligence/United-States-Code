@@ -14,7 +14,7 @@
 
 &emsp;(2) that his death is prescribed or determined under section 555 of this title.
 
-(c) A member is not entitled to pay and allowances under subsection (a) for a period during which he is officially determined to be absentfrom his post of duty without authority, and he is indebted to the United States for payments from amounts credited to his account for that period.
+(c) A member is not entitled to pay and allowances under subsection (a) for a period during which he is officially determined to be absent from his post of duty without authority, and he is indebted to the United States for payments from amounts credited to his account for that period.
 
 (d) A member who is performing full-time training duty or inactive-duty training is entitled to the benefits of this section only when he is officially determined to be in a missing status that results from the performance of duties prescribed by competent authority.
 

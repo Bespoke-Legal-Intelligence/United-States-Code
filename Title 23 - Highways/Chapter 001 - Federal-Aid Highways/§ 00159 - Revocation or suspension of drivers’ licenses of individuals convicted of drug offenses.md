@@ -18,7 +18,7 @@ Requirements.—A State meets the requirements of this paragraph if—
 
 &emsp;&emsp;(A) the State has enacted and is enforcing a law that requires in all circumstances, or requires in the absence of compelling circumstances warranting an exception—
 
-&emsp;&emsp;&emsp;(i) the revocation, or suspension for at least 6 months, of the driver's license of any individual who is convicted, after the enactment of such law, of—
+&emsp;&emsp;&emsp;(i) the revocation, or suspension for at least 6 months, of the driver's license ofany individual who is convicted, after the enactment of such law, of—
 
 &emsp;&emsp;&emsp;&emsp;(I) any violation of the Controlled Substances Act, or
 
@@ -98,7 +98,7 @@ Convicted.—The term “convicted” includes adjudicated under juvenile procee
 
 The effective date of this section, referred to in subsec. (a)(1), (2), (3)(B)(i), is Nov. 5, 1990. See section 333(e) of Pub. L. 102–143, set out as a note below.
 
-The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) ofchapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 

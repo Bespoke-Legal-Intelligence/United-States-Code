@@ -58,11 +58,11 @@ In evaluating the applications submitted under this section, the Secretary shall
 
 &emsp;The total amount of the grant awarded under this section to any institution of higher education for any 1 year shall not be less than $500,000 nor more than $1,000,000.
 
-(Pub. L. 89 329, title V, §596, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 716.)
+(Pub. L. 89–329, title V, §596, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 716.)
 
 #### Prior Provisions
 
-A prior section 1117, Pub. L. 89 329, title V, §527, Nov. 8, 1965, 79 Stat. 1260, set forth conditions imposed upon fellowship recipient, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+A prior section 1117, Pub. L. 89–329, title V, §527, Nov. 8, 1965, 79 Stat. 1260, set forth conditions imposed upon fellowship recipient, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
 #### Section Referred to in Other Sections
 

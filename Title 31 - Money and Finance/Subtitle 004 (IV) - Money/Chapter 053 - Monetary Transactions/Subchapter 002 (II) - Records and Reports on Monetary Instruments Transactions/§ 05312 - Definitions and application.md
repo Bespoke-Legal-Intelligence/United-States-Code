@@ -166,7 +166,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5327 of this title; title 12 section 1953; title 18 sections 986, 1956; title 19 sections 1401, 1607; title 26 section 6050I.
+This section is referred to in section 5327 of this title; title 12 section 1953; title 18 sections 986, 1956; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 (b) Enrollees in the training program established under this section shall be drawn from law enforcement and correctional personnel (including volunteer lay personnel), teachers and special education personnel, family counselors, child welfare workers, juvenile judges and judicial personnel, persons associated with law-related education, youth workers, and representatives of private agencies and organizations with specific experience in the prevention and treatment of juvenile delinquency.
 
-(Pub. L. 93–415, title II, §245, formerly §249, Sept. 7, 1974, 88 Stat. 1128; renumbered §248 and amended Pub. L. 95–115, §§3(a)(3)(B), 5(e)(1), (f), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, §19(n), Dec. 8, 1980, 94 Stat. 2765; renumbered §247 and amended Pub. L. 98–473, title II, §637, Oct. 12, 1984, 98 Stat. 2120; renumbered §245, Pub.L. 100–690, title VII, §7263(a)(2)(E), Nov. 18, 1988, 102 Stat. 4443; Pub. L. 102–586, §2(g)(4), Nov. 4, 1992, 106 Stat. 4996.)
+(Pub. L. 93–415, title II, §245, formerly §249, Sept. 7, 1974, 88 Stat. 1128; renumbered §248 and amended Pub. L. 95–115, §§3(a)(3)(B), 5(e)(1), (f), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, §19(n), Dec. 8, 1980, 94 Stat. 2765; renumbered §247 and amended Pub. L. 98–473, title II, §637, Oct. 12, 1984, 98 Stat. 2120; renumbered §245, Pub. L. 100–690, title VII, §7263(a)(2)(E), Nov. 18, 1988, 102 Stat. 4443; Pub. L. 102–586, §2(g)(4), Nov. 4, 1992, 106 Stat. 4996.)
 
 #### Prior Provisions
 

@@ -80,3 +80,7 @@ Amendment by Pub. L. 99–185 effective Oct. 1, 1985, except that no coins may b
 
 Amendment by Pub. L. 99–61 effective Oct. 1, 1985, with exception as to issuance or sale of coins under section 5112(e) of this title, see section 205 of Pub. L. 99–61, set out as a note under section 5112 of this title.
 
+#### Termination of Coinage Metal Fund
+
+All assets and liabilities of Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and such coinage fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
+

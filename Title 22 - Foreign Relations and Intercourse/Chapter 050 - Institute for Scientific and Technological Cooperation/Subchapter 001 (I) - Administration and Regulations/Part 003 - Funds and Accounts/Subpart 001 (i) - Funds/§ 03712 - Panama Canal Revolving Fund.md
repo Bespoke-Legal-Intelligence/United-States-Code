@@ -26,7 +26,7 @@
 
 &emsp;(C) the assets and liabilities recorded before January 1, 1988, under the “Panama Canal Commission Fund” shall be recorded under the Panama Canal Revolving Fund; and
 
-&emsp;(D) the Panama Canal Emergency Fund shall be terminated and the remaining balance shall be transferred to the Panama Canal Revolving Fund.
+&emsp;(D) the Panama Canal Emergency Fund shall be terminated and the remaining balanceshall be transferred to the Panama Canal Revolving Fund.
 
 #### (b) Interest and nonreimbursed appropriations deposited into Treasury
 
@@ -60,7 +60,7 @@ The Committee on Appropriations of each House of Congress shall review the annua
 
 #### (f) Costs of implementation
 
-(1) It is the sense of the Congress that the additional costs resulting from implementation ofthe Panama Canal Treaty of 1977 and related agreements should be kept to the absolute minimum level. To this end, the Congress declares that the direct appropriated costs of implementation to be borne by the taxpayers over the life of such Treaty should be kept to a level no greater than the March 1979 estimate of those costs ($870,700,000) presented to the Congress by the executive branch during consideration of this chapter by the Congress, less personnel retirement costs of $205,000,000, which were subtracted and charged to tolls, therefore resulting in the net taxpayer cost of approximately $665,700,000, plus appropriate adjustment for inflation.
+(1) It is the sense of the Congress that the additional costs resulting from implementation of the Panama Canal Treaty of 1977 and related agreements should be kept to the absolute minimum level. To this end, the Congress declares that the direct appropriated costs of implementation to be borne by the taxpayers over the life of such Treaty should be kept to a level no greater than the March 1979 estimate of those costs ($870,700,000) presented to the Congress by the executive branch during consideration of this chapter by the Congress, less personnel retirement costs of $205,000,000, which were subtracted and charged to tolls, therefore resulting in the net taxpayer cost of approximately $665,700,000, plus appropriate adjustment for inflation.
 
 (2) It is further the sense of the Congress that the actual costs of implementation be consistent with the obligations of the United States to operate the Panama Canal safely and efficiently and keep it secure.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 #### Effective Date of 1985 Amendment
 
-Section 2 of Pub. L. 99–195 provided that: “The amendments made by this Act \[amending this section and section 3793 of this title\] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
+Section 2 of Pub. L. 99–195 provided that: “The amendments made by this Act \[amending this sectionand section 3793 of this title\] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
 
 #### Section Referred to in Other Sections
 

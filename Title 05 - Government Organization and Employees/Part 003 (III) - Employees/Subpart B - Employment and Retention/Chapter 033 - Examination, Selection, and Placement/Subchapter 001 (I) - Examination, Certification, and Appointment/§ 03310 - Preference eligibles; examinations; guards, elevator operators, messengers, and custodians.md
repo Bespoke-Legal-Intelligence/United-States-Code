@@ -28,5 +28,5 @@ Restriction on contract for services, see section 490c of Title 40, Public Build
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3320 of this title; title 20 section 241; title 22 section 1438.
+This section is referred to in section 3320 of this title; title 22 section 1438.
 

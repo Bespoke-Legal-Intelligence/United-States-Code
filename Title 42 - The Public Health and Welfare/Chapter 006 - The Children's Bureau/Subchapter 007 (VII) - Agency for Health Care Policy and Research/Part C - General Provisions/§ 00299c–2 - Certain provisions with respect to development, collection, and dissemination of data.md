@@ -8,7 +8,7 @@
 
 #### (2) Relationship with medicare program
 
-&emsp;In any case where guidelines under paragraph (1) may affect the administration of theprogram under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the guidelines shall be in the form of recommendations to the Secretary for such program.
+&emsp;In any case where guidelines under paragraph (1) may affect the administration of the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the guidelines shall be in the form of recommendations to the Secretary for such program.
 
 #### (b) Statistics
 
@@ -26,7 +26,7 @@ Upon the request of a public or nonprofit private entity, the Administrator may 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

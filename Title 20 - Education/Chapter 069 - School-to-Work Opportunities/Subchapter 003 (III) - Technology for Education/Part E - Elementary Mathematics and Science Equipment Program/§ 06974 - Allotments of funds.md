@@ -44,11 +44,11 @@ For the purposes of this part the term “State” means each of the 50 States, 
 
 The number of children aged 5 to 17, inclusive, in the State and in all States shall be determined by the Secretary on the basis of the most recent satisfactory data available to the Secretary.
 
-(Pub. L. 89 10, title III, §3504, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3667.)
+(Pub. L. 89–10, title III, §3504, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3667.)
 
 #### References in Text
 
-The Education for Economic Security Act, referred to in subsec. (b)(2)(B), is Pub. L. 98 377, Aug. 11, 1984, 98 Stat. 1267, as amended. Title II of the Act was classified generally to subchapter II (§3961 et seq.) of chapter 52 of this title, prior to repeal by Pub. L. 100 297, title II, §2303, Apr. 28, 1988, 102 Stat. 324. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Education for Economic Security Act, referred to in subsec. (b)(2)(B), is Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1267, as amended. Title II of the Act was classified generally to subchapter II (§3961 et seq.) of chapter 52 of this title, prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

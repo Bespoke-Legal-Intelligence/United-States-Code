@@ -1,0 +1,26 @@
+### §1033. Sale of reserved mineral interests
+
+Notwithstanding any other provisions of law, the Secretary of Agriculture (referred to in sections 1033 to 1035 and 1037 to 1039 of this title as the “Secretary”) is authorized and directed to sell, as provided in said sections, all mineral interests now owned by the United States, which have been reserved or acquired by it under any program heretofore administered by the Resettlement Administration, or the Farm Security Administration, or now administered by the Farmers Home Administration, except the program administered pursuant to sections 1010 to 1012 of this title and the program for the liquidation of labor camps pursuant to Public Law 298, Eightieth Congress.
+
+(Sept. 6, 1950, ch. 897, §1, 64 Stat. 769.)
+
+#### References in Text
+
+Public Law 298, Eightieth Congress, referred to in text, means act July 31, 1947, ch. 413, 61 Stat. 694, which was set out as a note under section 1017 of this title and was repealed by act Apr. 20, 1950, ch. 94, title II, §205(a), 64 Stat. 73.
+
+#### Codification
+
+Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
+
+#### Authorization of Appropriations
+
+Section 8 of act Sept. 6, 1950, ch. 897, 64 Stat. 770, provided that: “There is authorized to be appropriated to the Secretary such sums as Congress may from time to time determine to be necessary to enable the Secretary to carry out the provisions of this Act \[sections 1033 to 1039 of this title\].”
+
+#### Cross References
+
+Conveyances under 1946 amendment to this chapter to include all mineral rights, see section 1031 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1035, 1037, 1038, 1039 of this title.
+

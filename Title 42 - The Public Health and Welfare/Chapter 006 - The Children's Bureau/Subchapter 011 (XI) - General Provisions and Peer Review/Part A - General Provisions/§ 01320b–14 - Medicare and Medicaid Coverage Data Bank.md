@@ -94,7 +94,7 @@ In this section:
 
 #### (2) Medicaid beneficiary
 
-&emsp;The term “medicaid beneficiary” means an individual entitled to benefits under a State plan for medical assistance under subchapter XIX of this chapter (including a State plan operating under a statewide waiver under section 1315 of this title).
+&emsp;The term “medicaid beneficiary” means an individual entitled to benefits under a Stateplan for medical assistance under subchapter XIX of this chapter (including a State plan operating under a statewide waiver under section 1315 of this title).
 
 #### (3) Group health plan
 

@@ -1,6 +1,6 @@
 ### §1826. Congressional oversight
 
-On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate concerning all physical searches conducted pursuant to this subchapter.On a semiannual basis the Attorney General shall also provide to those committees and the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding six-month period—
+On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate concerning all physical searches conducted pursuant to this subchapter. On a semiannual basis the Attorney General shall also provide to those committees and the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding six-month period—
 
 &emsp;(1) the total number of applications made for orders approving physical searches under this subchapter;
 

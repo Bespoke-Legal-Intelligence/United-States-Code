@@ -1,0 +1,40 @@
+### §1351. Consuls, vice consuls, and members of a diplomatic mission as defendant
+
+The district courts shall have original jurisdiction, exclusive of the courts of the States, of all civil actions and proceedings against—
+
+&emsp;(1) consuls or vice consuls of foreign states; or
+
+&emsp;(2) members of a mission or members of their families (as such terms are defined in section 2 of the Diplomatic Relations Act).
+
+(June 25, 1948, ch. 646, 62 Stat. 934; May 24, 1949, ch. 139, §80(c), 63 Stat. 101; Sept. 30, 1978, Pub. L. 95–393, §8(a)(1), 92 Stat. 810.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §§41(18), 371(8) (Mar. 3, 1911, ch. 231, §§24, par. 18, 256, par. 8, 36 Stat. 1093, 1160).
+
+Words “civil action” were substituted for “suits,” and “all suits and proceedings” in view of Rule 2 of the Federal Rules of Civil Procedure.
+
+Changes were made in phraseology.
+
+#### References in Text
+
+Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classified to section 254a of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+1978—Pub. L. 95–393 substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in section catchline, designated existing provisions as introductory provision preceding par. (1), and in such introductory provision as so designated, substituted “civil actions and proceedings against—” for “actions and proceedings against consuls or vice consuls of foreign states”, and added pars. (1) and (2).
+
+1949—Act May 24, 1949, substituted “of all actions and proceedings” for “of any civil action”.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–393 effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
+
+#### Cross References
+
+Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
+
+Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
+
+Judicial power extended in cases affecting consuls, see Const. Art. 3, §2, cl. 1.
+

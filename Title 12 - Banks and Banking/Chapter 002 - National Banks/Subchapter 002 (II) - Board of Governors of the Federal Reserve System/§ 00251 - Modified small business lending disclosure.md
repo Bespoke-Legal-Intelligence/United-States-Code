@@ -1,6 +1,6 @@
 ### §251. Modified small business lending disclosure
 
-The Board of Governors of the Federal Reserve System shall collect and publish, on an annual basis, information on the availability of credit to small businesses. The information shall, to the extent practicable—
+The Board of Governors of the Federal Reserve System shall collect and publish, on an annualbasis, information on the availability of credit to small businesses. The information shall, to the extent practicable—
 
 &emsp;(1) include information on commercial loans to small businesses, agricultural loans to small farms, and loans to minority-owned small businesses;
 

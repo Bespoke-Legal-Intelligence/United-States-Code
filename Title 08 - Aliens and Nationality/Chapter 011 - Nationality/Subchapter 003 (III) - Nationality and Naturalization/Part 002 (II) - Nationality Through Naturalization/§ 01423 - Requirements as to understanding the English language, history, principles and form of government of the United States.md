@@ -46,5 +46,5 @@ Naturalization defined, see section 1101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1255a of this title; title 20 section 3283.
+This section is referred to in section 1255a of this title.
 

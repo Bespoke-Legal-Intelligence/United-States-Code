@@ -8,5 +8,5 @@ The Secretary shall evaluate in accordance with section 8941 of this title, and 
 
 The Secretary shall ensure that the activities assisted under this part are administered within the Department by a person who has recognized professional qualifications and experience in the field of gender equity education.
 
-(Pub. L. 89 10, title V, §5207, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3700.)
+(Pub. L. 89–10, title V, §5207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3700.)
 

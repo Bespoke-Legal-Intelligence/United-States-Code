@@ -22,11 +22,11 @@ If the consumer notifies the debt collector in writing within the thirty-day per
 
 The failure of a consumer to dispute the validity of a debt under this section may not be construed by any court as an admission of liability by the consumer.
 
-(Pub. L. 90 321, title VIII, §809, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 879.)
+(Pub. L. 90–321, title VIII, §809, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879.)
 
 #### Effective Date
 
-Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 818 of Pub. L. 90 321, set out as a note under section 1692 of this title.
+Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 818 of Pub. L. 90–321, set out as a note under section 1692 of this title.
 
 #### Section Referred to in Other Sections
 

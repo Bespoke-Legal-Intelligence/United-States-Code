@@ -1,6 +1,0 @@
-### §1214 . Exercise of rulemaking power
-
-The provisions of this chapter, except for sections 1209, 1219, 1220, and 1221 of this title, are enacted by the Senate as an exercise of the rulemaking power of the Senate, with full recognition of the right of the Senate to change its rules, in the same manner, and to the same extent, as in the case of any other rule of the Senate. Notwithstanding any other provision of law, except as provided in section 1209 of this title, enforcement and adjudication with respect to the discriminatory practices prohibited by section 1202 of this title, and arising out of Senate employment, shall be within the exclusive jurisdiction of the United States Senate.
-
-(Pub. L. 102–166, title III, §314, Nov. 21, 1991, 105 Stat. 1095.)
-

@@ -186,7 +186,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 &emsp;“(C) shall require that the vessel be documented (and remain documented) under the laws of the United States.
 
-“(2) The Secretary may enter into a charter under paragraph (1) only through the use of competitive bidding procedures that ensure that the highest charter rates are obtained by the United States consistent with good business practice, except that the Secretary may operate the vessel (or contract to have the vessel operated) in direct support of United States military forces during a time of war or national emergency and at other times when the Administrator of the Maritime Administration determines that that operation would not unfairly compete with another United States-flag vessel.
+“(2) The Secretary may enter into a charter under paragraph (1) only through the use of competitive bidding procedures that ensure that the highest charter rates are obtained by the United States consistent with good business practice, except that the Secretary may operate the vessel (or contract to have the vessel operated) in direct support of United States military forcesduring a time of war or national emergency and at other times when the Administrator of the Maritime Administration determines that that operation would not unfairly compete with another United States-flag vessel.
 
 “(3) If the Secretary determines that a vessel previously chartered under the program no longer has commercial utility, the Secretary may transfer the vessel to the National Defense Reserve Fleet.
 
@@ -196,7 +196,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 Reports To Congress.—(1) Not later than six months after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of the Navy shall submit to Congress a report describing the Secretary's plan for implementing the fast sealift program authorized by this section.
 
-“(2) Not later than three years after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the implementation of the plandescribed in the report submitted under paragraph (1). The report shall include a description of vessels built or under contract to be built pursuant to this section, the use of such vessels, and the operating experience and manning of such vessels.
+“(2) Not later than three years after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the implementation of the plan described in the report submitted under paragraph (1). The report shall include a description of vessels built or under contract to be built pursuant to this section, the use of such vessels, and the operating experience and manning of such vessels.
 
 “(3) The reports under paragraphs (1) and (2) shall be prepared in consultation with the Administrator of the Maritime Administration.
 
@@ -218,9 +218,7 @@ Applicability.—Subsection (a) shall apply only with respect to appropriations 
 
 #### Depot-Level Maintenance of Ships
 
-Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1601, directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States.
-
-Similar provisions were contained in Pub. L. 100–456, div. A, title XII, §1226, Sept. 29, 1988, 102 Stat. 2055, which was repealed by Pub. L. 101–189, div. A, title XVI, §1614(c), Nov. 29, 1989, 103 Stat. 1601.
+Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1601, directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained in Pub. L. 100–456, div. A, title XII, §1226, Sept. 29, 1988, 102 Stat. 2055, which was repealed by Pub. L. 101–189, div. A, title XVI, §1614(c), Nov. 29, 1989, 103 Stat. 1601.
 
 #### Reports on Effects of Naval Shipbuilding Plans on Maritime Industries
 
@@ -260,11 +258,11 @@ Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that:
 
 &emsp;“(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 
-&emsp;“(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as a note under this section\], in order that the Congress may more properly appropriate the funds necessary to reach a six hundred-ship goal at least by the end of the present century.”
+&emsp;“(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as anote under this section\], in order that the Congress may more properly appropriate the funds necessary to reach a six hundred-ship goal at least by the end of the present century.”
 
 #### Construction of Advanced, Versatile, Survivable, and Cost-Effective Combatant Ships; Plans and Programs; Presidential Conclusions and Recommendations To Accompany Ship Authorization Requests
 
-Pub. L. 95–485, title VIII, §810(a), (b), Oct. 20, 1978, 92 Stat. 1623, which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship's possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as section 7310 ofthis title by Pub. L. 97–295, §§1(49)(A), 6(b), Oct. 12, 1982, 96 Stat. 1298, 1315.
+Pub. L. 95–485, title VIII, §810(a), (b), Oct. 20, 1978, 92 Stat. 1623, which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship's possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as section 7310 of this title by Pub. L. 97–295, §§1(49)(A), 6(b), Oct. 12, 1982, 96 Stat. 1298, 1315.
 
 #### Conversion, Overhaul, or Repair Work Under Service Life Extension Program or DDG–2
 

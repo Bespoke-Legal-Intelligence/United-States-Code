@@ -2,5 +2,5 @@
 
 With respect to the implementation of section 6922 of this title, entities receiving a grant, contract, or cooperative agreement from the Secretary may use not more than 5 percent of the amounts received under such section for the normal and customary expenses of administering the grant, contract, or cooperative agreement.
 
-(Pub. L. 89 10, title III, §3306, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3665.)
+(Pub. L. 89–10, title III, §3306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3665.)
 

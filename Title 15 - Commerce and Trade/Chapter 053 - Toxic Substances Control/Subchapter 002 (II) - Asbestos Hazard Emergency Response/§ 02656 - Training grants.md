@@ -8,9 +8,9 @@ The Administrator is authorized to award grants under this section to nonprofit 
 
 Of such sums as are authorized to be appropriated pursuant to section 4021(a) of title 20 for the fiscal years 1991, 1992, 1993, 1994, and 1995, not more than $5,000,000 are authorized to be appropriated to carry out this section in each such fiscal year.
 
-(Pub. L. 94 469, title II, §216, as added Pub. L. 101 637, §16(a)(1), Nov. 28, 1990, 104 Stat. 4597.)
+(Pub. L. 94–469, title II, §216, as added Pub. L. 101–637, §16(a)(1), Nov. 28, 1990, 104 Stat. 4597.)
 
 #### Effective Date
 
-Section 16(b) of Pub. L. 101 637 provided that: “Section 216 of the Toxic Substances Control Act \[this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 28, 1990\].”
+Section 16(b) of Pub. L. 101–637 provided that: “Section 216 of the Toxic Substances Control Act \[this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 28, 1990\].”
 

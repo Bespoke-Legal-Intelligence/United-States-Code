@@ -8,7 +8,7 @@
 
 (b) The amount of the royalty referred to in subsection (a)(2) shall be determined by the court in a civil action for infringement unless the parties resolve the issue by voluntary negotiation, mediation, or binding arbitration.
 
-(c) The immunity of an innocent purchaser from liability referred to in subsection (a)(1) and the limitation of remedies with respect to an innocent purchaser referred to in subsection (a)(2) shall extend to any person who directly or indirectly purchases an infringing semiconductor chip product from an innocent purchaser.
+(c) The immunity of an innocent purchaser from liability referred to in subsection (a)(1) andthe limitation of remedies with respect to an innocent purchaser referred to in subsection (a)(2) shall extend to any person who directly or indirectly purchases an infringing semiconductor chip product from an innocent purchaser.
 
 (d) The provisions of subsections (a), (b), and (c) apply only with respect to those units of an infringing semiconductor chip product that an innocent purchaser purchased before having notice of protection with respect to the mask work embodied in the semiconductor chip product.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each member of the Board shall be paid at the rate of pay payable for level III of the Executive Schedule for each day (including travel time) such member is engaged in the work of the Board.
+Each member of the Board shall be paid at the rate of pay payable for level III of the ExecutiveSchedule for each day (including travel time) such member is engaged in the work of the Board.
 
 #### (b) Travel expenses
 

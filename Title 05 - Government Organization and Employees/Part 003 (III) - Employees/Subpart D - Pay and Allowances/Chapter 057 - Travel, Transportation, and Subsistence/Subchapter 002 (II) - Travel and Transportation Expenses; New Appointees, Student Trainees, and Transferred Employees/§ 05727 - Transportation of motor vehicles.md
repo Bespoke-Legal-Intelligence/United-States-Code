@@ -52,7 +52,7 @@ Sept. 6, 1960, Pub. L. 86–707, §321, 74 Stat. 797.
 
 Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8.
 
-In subsection (a), the proviso in former section 73c is omitted as superseded by section 2634 of title 10, and byformer section 73b–1(f), which is carried into subsections (b)–(e).
+In subsection (a), the proviso in former section 73c is omitted as superseded by section 2634 of title 10, and by former section 73b–1(f), which is carried into subsections (b)–(e).
 
 In subsection (b), the words “including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title” are substituted for “including any new appointee, in accordance with section 73b–3 of this title” for clarity and reflect the codification of former section 73b–3 in this title. The words “at Government expense” are inserted for clarity.
 
@@ -62,7 +62,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1980—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
+<b>1980</b>—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
 
 #### Effective Date of 1980 Amendment
 

@@ -22,5 +22,5 @@ The Secretary is authorized to award grants to national nonprofit, nonpartisan o
 
 Each organization receiving a grant under this section shall present awards to outstanding student and parent mock election projects.
 
-(Pub. L. 89 10, title X, §10106, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3820.)
+(Pub. L. 89–10, title X, §10106, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3820.)
 

@@ -18,7 +18,7 @@ In order to meet the requirements of this subsection, an agreement shall—
 
 #### (c) Basis
 
-Property acquired by a taxpayer described in subsection (a), in a transaction described in thatsubsection, shall have the same basis as the property transferred by that taxpayer.
+Property acquired by a taxpayer described in subsection (a), in a transaction described in that subsection, shall have the same basis as the property transferred by that taxpayer.
 
 (Added Pub. L. 95–345, §2(d)(1), Aug. 15, 1978, 92 Stat. 482.)
 

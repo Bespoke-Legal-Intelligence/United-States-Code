@@ -1,6 +1,6 @@
 ### §2656. Management of foreign affairs
 
-The Secretary of State shall perform such duties as shall from time to time be enjoined on or intrusted to him by the President relative to correspondences, commissions, or instructions to or with public ministers or consuls from the United States, or to negotiations with public ministers from foreign states or princes, or to memorials or other applications from foreign public ministers or other foreigners, or to such other matters respecting foreign affairs as the President of the United States shall assign to the department, and he shall conduct the business of the department in such manner as the President shall direct.
+The Secretary of State shall perform such duties as shall from time to time be enjoined on or intrusted to him by the President relative to correspondences, commissions, or instructions to or with public ministers or consuls from the United States, or to negotiations with public ministers from foreign states or princes, or to memorials or other applications from foreign public ministers or other foreigners, or to such other matters respecting foreign affairs as the President of the United States shall assign to the Department, and he shall conduct the business of the Department in such manner as the President shall direct.
 
 (R.S. §202.)
 
@@ -16,7 +16,7 @@ Functions of President respecting certain facilities constructed and maintained 
 
 #### Authority of Director of United States Information Agency
 
-Exercise of authority available under this section by Director of United States Information Agency, see Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, set out as a note under section 1472 of this title.
+Exercise of authority available under this section by Director of United States Information Agency, see Ex.Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, set out as a note under section 1472 of this title.
 
 #### Presidential Directive
 
@@ -74,7 +74,7 @@ Specific Actions Urged.—To that end, the Congress urges the President—
 
 “(a)
 
-Establishment.—(1) None of the funds authorized to be appropriated by this Act for ‘Diplomatic andConsular Programs’ shall be available for obligation or expenditure during fiscal years 1994 and 1995 unless, not later than 90 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State has established within the Department of State under the Assistant Secretary for East Asia and Pacific Affairs (or any successor Assistant Secretary) the Office of Cambodian Genocide Investigation (hereafter in this part referred to as the ‘Office’).
+Establishment.—(1) None of the funds authorized to be appropriated by this Act for ‘Diplomatic and Consular Programs’ shall be available for obligation or expenditure during fiscal years 1994 and 1995 unless, not later than 90 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State has established within the Department of State under the Assistant Secretary for East Asia and Pacific Affairs (or any successor Assistant Secretary) the Office of Cambodian Genocide Investigation (hereafter in this part referred to as the ‘Office’).
 
 “(2) The Office may carry out its activities inside or outside of Cambodia, except that not less than 75 percent of the funds made available for the Office and its activities shall be used to carry out activities within Cambodia.
 
@@ -140,11 +140,11 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, which prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, was repealed by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
-Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, which directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, was repealed by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
+Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
 
 #### Closure of Mission in Antigua and Barbuda Not in United States Interests
 
@@ -218,7 +218,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress re
 
 “(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
 
-“(d) The heads of the appropriate departments of the United States Government that furnish military and law enforcement training to foreign personnel, particularly personnel from countries where the practice of torture has been a documented concern, shall include in such training, when relevant, instruction regardinginternational human rights standards and the policy of the United States with respect to torture.”
+“(d) The heads of the appropriate departments of the United States Government that furnish military and law enforcement training to foreign personnel, particularly personnel from countries where the practice of torture has been a documented concern, shall include in such training, when relevant, instruction regarding international human rights standards and the policy of the United States with respect to torture.”
 
 \[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.\]
 

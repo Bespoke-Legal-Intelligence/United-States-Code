@@ -1,4 +1,4 @@
-### §460u–10 . Rights-of-way and easements; existing property rights of Northern Indiana Public Service Company
+### §460u–10. Rights-of-way and easements; existing property rights of Northern Indiana Public Service Company
 
 Nothing in this subchapter shall diminish any existing (as of March 1, 1975) rights-of-way or easements which are necessary for high voltage electrical transmission, pipelines, water mains, or line haul railroad operations and maintenance. Nothing in this subchapter shall be construed to diminish the existing property rights of Northern Indiana Public Service Company (as of October 1, 1986) with respect to—
 

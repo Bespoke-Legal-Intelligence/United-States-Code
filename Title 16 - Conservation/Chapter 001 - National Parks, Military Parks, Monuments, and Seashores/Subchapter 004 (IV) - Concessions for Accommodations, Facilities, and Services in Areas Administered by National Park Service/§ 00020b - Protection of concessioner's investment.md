@@ -14,7 +14,7 @@ The reasonableness of a concessioner's rates and charges to the public shall, un
 
 #### (d) Determination of franchise fees; reconsideration every five years or oftener
 
-Franchise fees, however stated, shall be determined upon consideration of the probable value to the concessioner of the privileges granted by the particular contract or permit involved. Such value is the opportunity for net profit in relation to both gross receipts and capital invested. Consideration of revenue to the United States shall be subordinate to the objectives of protecting and preserving the areas and of providing adequate and appropriate services for visitors at reasonable rates. Appropriate provisions shall be made for reconsideration of franchise fees atleast every five years unless the contract is for a lesser period of time.
+Franchise fees, however stated, shall be determined upon consideration of the probable value to the concessioner of the privileges granted by the particular contract or permit involved. Such value is the opportunity for net profit in relation to both gross receipts and capital invested. Consideration of revenue to the United States shall be subordinate to the objectives of protecting and preserving the areas and of providing adequate and appropriate services for visitors at reasonable rates. Appropriate provisions shall be made for reconsideration of franchise fees at least every five years unless the contract is for a lesser period of time.
 
 (Pub. L. 89–249, §3, Oct. 9, 1965, 79 Stat. 969.)
 

@@ -40,7 +40,7 @@ Par. (2). Pub. L. 95–632 substituted provision authorizing appropriations of n
 
 1976—Par. (1). Pub. L. 94–325, §1(1), redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
 
-Par. (2). Pub. L. 94–325, §1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
+Par. (2). Pub. L. 94–325, §1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation forthe fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
 
 #### Section Referred to in Other Sections
 

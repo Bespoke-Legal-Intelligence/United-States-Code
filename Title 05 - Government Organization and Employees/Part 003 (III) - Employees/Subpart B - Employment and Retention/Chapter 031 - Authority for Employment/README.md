@@ -27,7 +27,7 @@
 | [3132\.](Subchapter%20002%20%28II%29%20-%20The%20Senior%20Executive%20Service/%C2%A7%2003132%20-%20Definitions%20and%20exclusions.md) | Definitions and exclusions. |
 | [3133\.](Subchapter%20002%20%28II%29%20-%20The%20Senior%20Executive%20Service/%C2%A7%2003133%20-%20Authorization%20of%20positions%3B%20authority%20for%20appointment.md) | Authorization of positions; authority for appointment. |
 | [3134\.](Subchapter%20002%20%28II%29%20-%20The%20Senior%20Executive%20Service/%C2%A7%2003134%20-%20Limitations%20on%20noncareer%20and%20limited%20appointments.md) | Limitations on noncareer and limited appointments. |
-| [3135\.](Subchapter%20002%20%28II%29%20-%20The%20Senior%20Executive%20Service/%C2%A7%2003135%20-%20Biennial%20report.md) | Biennial report. |
+| \[3135. | Repealed.\] |
 | [3136\.](Subchapter%20002%20%28II%29%20-%20The%20Senior%20Executive%20Service/%C2%A7%2003136%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,15 +43,17 @@
 
 #### Amendments
 
-1988—Pub. L. 100–325, §1(b), May 30, 1988, 102 Stat. 581, added subchapter III heading and items 3151 and 3152.
+<b>1995</b>—Pub. L. 104–66, title II, §2181(a)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 3135 “Biennial report”.
 
-1980—Pub. L. 96–523, §1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
+<b>1988</b>—Pub. L. 100–325, §1(b), May 30, 1988, 102 Stat. 581, added subchapter III heading and items 3151 and 3152.
 
-1978—Pub. L. 95–454, title III, §§301(b), 302(b)(1), 307(b)(3), title IV, §402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
+<b>1980</b>—Pub. L. 96–523, §1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
+
+<b>1978</b>—Pub. L. 95–454, title III, §§301(b), 302(b)(1), 307(b)(3), title IV, §402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
 
 Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted “administrative law judges” for “hearing examiners” in item 3105.
 
-1967—Pub. L. 90–206, title II, §221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
+<b>1967</b>—Pub. L. 90–206, title II, §221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
 
 
 ---

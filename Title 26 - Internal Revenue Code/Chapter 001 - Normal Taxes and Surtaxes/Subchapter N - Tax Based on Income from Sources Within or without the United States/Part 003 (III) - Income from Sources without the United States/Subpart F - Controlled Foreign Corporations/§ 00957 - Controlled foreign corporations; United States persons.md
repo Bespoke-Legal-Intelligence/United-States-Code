@@ -34,7 +34,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
+1986—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)),or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
 
 Subsec. (b). Pub. L. 99–514, §1222(a)(2), inserted “(or more than 25 percent of the total value of stock)”.
 

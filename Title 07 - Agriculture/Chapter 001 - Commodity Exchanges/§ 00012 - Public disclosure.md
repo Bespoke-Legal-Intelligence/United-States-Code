@@ -1,0 +1,124 @@
+### §12. Public disclosure
+
+#### (a) Investigations respecting operations of boards of trade and others subject to this chapter; publication of results; restrictions; information received from foreign futures authorities; undercover operations
+
+(1) For the efficient execution of the provisions of this chapter, and in order to provide information for the use of Congress, the Commission may make such investigations as it deems necessary to ascertain the facts regarding the operations of boards of trade and other persons subject to the provisions of this chapter. The Commission may publish from time to time the results of any such investigation and such general statistical information gathered therefrom as it deems of interest to the public: <i>Provided</i>, That except as otherwise specifically authorized in this chapter, the Commission may not publish data and information that would separately disclose the business transactions or market positions of any person and trade secrets or names of customers: <i>Provided further</i>, That the Commission may withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person. The Commission shall not be compelled to disclose any information or data obtained from a foreign futures authority if—
+
+&emsp;(A) the foreign futures authority has in good faith determined and represented to the Commission that disclosure of such information or data by that foreign futures authority would violate the laws applicable to that foreign futures authority; and
+
+&emsp;(B) the Commission obtains such information pursuant to—
+
+&emsp;&emsp;(i) such procedure as the Commission may authorize for use in connection with the administration or enforcement of this chapter; or
+
+&emsp;&emsp;(ii) a memorandum of understanding with that foreign futures authority;
+
+> except that nothing in this subsection shall prevent the Commission from disclosing publicly any information or data obtained by the Commission from a foreign futures authority when such disclosure is made in connection with a congressional proceeding, an administrative or judicial proceeding commenced by the United States or the Commission, in any receivership proceeding commenced involving a receiver appointed in a judicial proceeding by the United States or the Commission, or in any proceeding under title 11 in which the Commission has intervened or in which the Commission has the right to appear and be heard. Nothing in this subsection shall be construed to authorize the Commission to withhold information or data from Congress. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of section 552.
+
+(2) In conducting investigations authorized under this subsection or any other provision of this chapter, the Commission shall continue, as the Commission determines necessary, to request the assistance of and cooperate with the appropriate Federal agencies in the conduct of such investigations, including undercover operations by such agencies. The Commission and the Department of Justice shall assess the effectiveness of such undercover operations and, within two years of October 28, 1992, shall recommend to Congress any additional undercover or other authority for the Commission that the Commission or the Department of Justice believes to be necessary.
+
+#### (b) Business matters; congressional, administrative, judicial, and bankruptcy proceedings
+
+The Commission may disclose publicly any data or information that would separately disclose the market positions, business transactions, trade secrets, or names of customers of any person when such disclosure is made in connection with a congressional proceeding, in an administrative or judicial proceeding brought under this chapter, in any receivership proceeding involving a receiver appointed in a judicial proceeding brought under this chapter, or in any bankruptcy proceeding in which the Commission has intervened or in which the Commission has the right to appear and be heard under title 11. This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.
+
+#### (c) Reports respecting conduct of boards of trade or transactions of violators; contents
+
+The Commission may make or issue such reports as it deems necessary, or such opinions or orders as may be required under other provisions of law, relative to the conduct of any board of trade or to the transactions of any person found guilty of violating the provisions of this chapter or the rules, regulations, or orders of the Commission thereunder in proceedings brought under sections 8, 9 and 15 of this title. In any such report or opinion, the Commission may set forth the facts as to any actual transaction or any information referred to in subsection (b) of this section, if such facts or information have previously been disclosed publicly in connection with a congressional proceeding, or in an administrative or judicial proceeding brought under this chapter.
+
+#### (d) Investigations respecting marketing conditions of commodities and commodity products and byproducts; reports
+
+The Commission, upon its own initiative or in cooperation with existing governmental agencies, shall investigate the marketing conditions of commodities and commodity products and byproducts, including supply and demand for these commodities, cost to the consumer, and handling and transportation charges. It shall also compile and furnish to producers, consumers, and distributors, by means of regular or special reports, or by such other methods as it deems most effective, information respecting the commodity markets, together with information on supply, demand, prices, and other conditions in this and other countries that affect the markets.
+
+#### (e) Names and addresses of traders of boards of trade previously disclosed; disclosure to Congress and agencies or departments of States or foreign governments or foreign futures authority
+
+The Commission may disclose and make public, where such information has previously been disclosed publicly in accordance with the provisions of this section, the names and addresses of all traders on the boards of trade on the commodity markets with respect to whom the Commission has information, and any other information in the possession of the Commission relating to the amount of commodities purchased or sold by each such trader. Upon the request of any committee of either House of Congress, acting within the scope of its jurisdiction, the Commission shall furnish to such committee the names and addresses of all traders on such boards of trade with respect to whom the Commission has information, and any other information in the possession of the Commission relating to the amount of any commodity purchased or sold by each such trader. Upon the request of any department or agency of the Government of the United States, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. However, any information furnished under this subsection to any Federal department or agency shall not be disclosed by such department or agency except in any action or proceeding under the laws of the United States to which it, the Commission, or the United States is a party. Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, any foreign futures authority, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such foreign futures authority, department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a foreign futures authority or to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such foreign futures authority, department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof, or foreign futures authority.<sup>1</sup> is a party.
+
+#### (f) Compliance with subpoena after notice to informant; congressional subpoenas and requests for information excepted
+
+The Commission shall disclose information in its possession pursuant to a subpoena or summons only if—
+
+&emsp;(1) a copy of the subpoena or summons has been mailed to the last known home or business address of the person who submitted the information that is the subject of the subpoena or summons, if the address is known to the Commission, or, if such mailing would be unduly burdensome, the Commission provides other appropriate notice of the subpoena or summons to such person, and
+
+&emsp;(2) at least fourteen days have expired from the date of such mailing of the subpoena or summons, or such other notice.
+
+> This subsection shall not apply to congressional subpoenas or congressional requests for information.
+
+#### (g) Requests for information by State agencies or subdivisions; volunteering of information by Commission
+
+The Commission shall provide any registration information maintained by the Commission on any registrant upon reasonable request made by any department or agency of any State or any political subdivision thereof. Whenever the Commission determines that such information may be appropriate for use by any department or agency of a State or political subdivision thereof, the Commission shall provide such information without request.
+
+#### (h) Annual report to Congress
+
+The Commission shall submit to Congress a written report within one hundred and twenty days after the end of each fiscal year detailing the operations of the Commission during such fiscal year. The Commission shall include in such report such information, data, and legislative recommendations as it deems advisable with respect to the administration of this chapter and its powers and functions under this chapter.
+
+#### (i) Review and audits by Comptroller General
+
+The Comptroller General of the United States shall conduct reviews and audits of the Commission and make reports thereon. For the purpose of conducting such reviews and audits, the Comptroller General shall be furnished such information regarding the powers, duties, organizations, transactions, operations, and activities of the Commission as the Comptroller General may require and the Comptroller General and the duly authorized representatives of the Comptroller General shall, for the purpose of securing such information, have access to and the right to examine any books, documents, papers, or records of the Commission, except that in reports the Comptroller General shall not include data and information that would separately disclose the business transactions of any person and trade secrets or names of customers, although such data shall be provided upon request by any committee of either House of Congress acting within the scope of its jurisdiction.
+
+(Sept. 21, 1922, ch. 369, §8, 42 Stat. 1003; June 15, 1936, ch. 545, §2, 49 Stat. 1491; Feb. 19, 1968, Pub. L. 90–258, §19(a), 82 Stat. 32; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (e), 88 Stat. 1392; Sept. 30, 1978, Pub. L. 95–405, §16, 92 Stat. 873; Jan. 11, 1983, Pub. L. 97–444, title II, §222, 96 Stat. 2309; Oct. 28, 1992, Pub. L. 102–546, title II, §205, title III, §§304, 305, title IV, §402(7), 106 Stat. 3600, 3623, 3624.)
+
+#### References in Text
+
+Sections 8, 9, and 15 of this title, referred to in subsec. (c), were in the original “section 6 of this Act” meaning section 6 of act Sept. 21, 1922, ch. 369, which is classified to sections 8, 9, 9a, 13b, and 15 of this title. See Codification note set out under section 8 of this title.
+
+#### Codification
+
+Section is comprised of first par. of section 8 of act Sept. 21, 1922. Second, third, and fourth pars. of section 8 are classified to sections 12–1, 12–2, and 12–3 of this title, respectively.
+
+#### Amendments
+
+1992—Subsec. (a). Pub. L. 102–546, §§205, 304(1), designated existing provisions as par. (1), inserted provisions at end relating to disclosure of information received from foreign futures authorities, and added par. (2).
+
+Subsec. (b). Pub. L. 102–546, §304(2), inserted at end “This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.”
+
+Subsec. (e). Pub. L. 102–546, §305, inserted references to foreign futures authority in fifth and last sentences.
+
+Subsec. (f). Pub. L. 102–546, §402(7), substituted “subpoena” for “subpena” wherever appearing and “subpoenas” for “subpenas” in last sentence.
+
+1983—Subsec. (a). Pub. L. 97–444, §222(1), inserted proviso authorizing Commission to withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person.
+
+Subsec. (b). Pub. L. 97–444, §222(2), inserted references to receivership proceedings involving a receiver appointed in a judicial proceeding brought under this chapter and to bankruptcy proceedings in which the Commission has intervened or in which Commission has right to appear and be heard under title 11.
+
+Subsec. (e). Pub. L. 97–444, §222(3), struck out “of the Executive Branch” after “Upon the request of any department or agency” and inserted “Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party.”
+
+Subsecs. (f), (g). Pub. L. 97–444, §222(5), added subsecs. (f) and (g). Former subsecs. (f) and (g) were redesignated (h) and (i), respectively.
+
+Subsecs. (h), (i). Pub. L. 97–444, §222(4), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
+
+1978—Pub. L. 95–405 consolidated under this section provisions formerly contained in this section and sections 12–1, 12–2, and 12–3 of this title, generally revised provisions thus consolidated to clarify and expand disclosure to public of traders and their positions on boards of trade, and divided provisions thus consolidated and revised into subsecs. (a) to (g).
+
+1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”, “it” for “he”, “its” for “his”, and “It” for “He”.
+
+1968—Pub. L. 90–258 authorized investigations to ascertain facts regarding operations of other persons subject to any provisions of this chapter.
+
+1936—Act June 15, 1936, substituted “commodity” for “grain” wherever appearing.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under section 2 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a note under section 2 of this title.
+
+#### Effective Date of 1974 Amendment
+
+For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 93–463, set out as a note under section 2 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as a note under section 2 of this title.
+
+#### Effective Date of 1936 Amendment
+
+Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of act June 15, 1936, set out as a note under section 1 of this title.
+
+#### Cross References
+
+Publication of harmful acts notwithstanding the provisions of this section, see section 12a of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6f, 12a, 20 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+

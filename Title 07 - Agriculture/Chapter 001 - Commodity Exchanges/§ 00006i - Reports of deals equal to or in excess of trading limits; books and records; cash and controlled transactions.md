@@ -1,0 +1,40 @@
+### §6i. Reports of deals equal to or in excess of trading limits; books and records; cash and controlled transactions
+
+It shall be unlawful for any person to make any contract for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market—
+
+&emsp;(1) if such person shall directly or indirectly make such contracts with respect to any commodity or any future of such commodity during any one day in an amount equal to or in excess of such amount as shall be fixed from time to time by the Commission, and
+
+&emsp;(2) if such person shall directly or indirectly have or obtain a long or short position in any commodity or any future of such commodity equal to or in excess of such amount as shall be fixed from time to time by the Commission,
+
+> unless such person files or causes to be filed with the properly designated officer of the Commission such reports regarding any transactions or positions described in clauses (1) and (2) hereof as the Commission may by rule or regulation require and unless, in accordance with rules and regulations of the Commission, such person shall keep books and records of all such transactions and positions and transactions and positions in any such commodity traded on or subject to the rules of any other board of trade, and of cash or spot transactions in, and inventories and purchase and sale commitments of such commodity. Such books and records shall show complete details concerning all such transactions, positions, inventories, and commitments, including the names and addresses of all persons having any interest therein, and shall be open at all times to inspection by any representative of the Commission or the Department of Justice. For the purposes of this section, the futures and cash or spot transactions and positions of any person shall include such transactions and positions of any persons directly or indirectly controlled by such person.
+
+(Sept. 21, 1922, ch. 369, §4i, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Feb. 19, 1968, Pub. L. 90–258, §9, 82 Stat. 28; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (f), 88 Stat. 1392; Jan. 11, 1983, Pub. L. 97–444, title II, §211, 96 Stat. 2303.)
+
+#### Amendments
+
+1983—Pub. L. 97–444 amended section generally by substantially restating provisions and inserting requirement that persons whose transactions and positions in any cash commodity or commodity future are equal to or in excess of amounts fixed by the Commission, must keep books and records of such transactions and positions as well as books and records of any such commodity traded on or subject to rules of any other board of trade, whether or not such person is required to file reports with the Commission concerning such transactions and positions.
+
+1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
+
+1968—Pub. L. 90–258 required recordkeeping of positions and of cash or spot transactions in commodities entered into, and inventories and purchase and sale commitments of commodities held, in any month in which reports are required to be kept, including details concerning positions, inventories, and commitments, and included controlled transactions and positions in the futures and cash or spot transactions and positions of any person.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under section 2 of this title.
+
+#### Effective Date of 1974 Amendment
+
+For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 93–463, set out as a note under section 2 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as a note under section 2 of this title.
+
+#### Effective Date
+
+For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
+
+#### Cross References
+
+Punishment for violating the provisions of this section, see section 13 of this title.
+

@@ -10,7 +10,7 @@ To provide a permanent endowment for the Eisenhower Exchange Fellowship Program,
 
 &emsp;&emsp;(B) an amount equal to contributions to Eisenhower Exchange Fellowships, Incorporated, from private sector sources during the 4-year period beginning on October 24, 1990.
 
-(Pub. L. 101 454, §5, Oct. 24, 1990, 104 Stat. 1064.)
+(Pub. L. 101–454, §5, Oct. 24, 1990, 104 Stat. 1064.)
 
 #### Section Referred to in Other Sections
 

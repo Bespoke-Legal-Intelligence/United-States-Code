@@ -1,4 +1,4 @@
-### §460t–2 . Administration
+### §460t–2. Administration
 
 #### (a) Coordination
 

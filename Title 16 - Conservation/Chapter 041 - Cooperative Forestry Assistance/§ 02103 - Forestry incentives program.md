@@ -34,7 +34,7 @@ The Secretary may, if the Secretary determines that doing so will contribute to 
 
 #### (i) Applicability of other Federal authorities in implementation of provisions
 
-In implementing this section, the Secretary may use the authorities provided in sections 1001, 1002, 1003, 1004, and 1008 of the Agricultural Act of 1970 \[16 U.S.C. 1501, 1502, 1503, 1504, and 1508\], as added by the Agriculture and Consumer Protection Act of 1973.
+In implementing this section, the Secretary may use the authorities provided in sections 1001, 1002, 1003, 1004, and 1008 of the AgriculturalAct of 1970 \[16 U.S.C. 1501, 1502, 1503, 1504, and 1508\], as added by the Agriculture and Consumer Protection Act of 1973.
 
 #### (j) Authorization of appropriations
 

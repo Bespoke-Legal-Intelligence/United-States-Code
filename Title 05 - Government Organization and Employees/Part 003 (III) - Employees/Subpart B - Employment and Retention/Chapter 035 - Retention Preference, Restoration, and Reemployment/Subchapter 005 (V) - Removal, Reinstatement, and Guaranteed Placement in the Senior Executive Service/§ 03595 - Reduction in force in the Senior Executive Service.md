@@ -1,6 +1,6 @@
 ### §3595. Reduction in force in the Senior Executive Service
 
-(a) An agency shall establish competitive procedures for determining who shall be removed from the Senior Executive Service in any reduction in force of career appointees within that agency. The competitive procedures shall be designed to assure that such determinations areprimarily on the basis of performance, as determined under subchapter II of chapter 43 of this title.
+(a) An agency shall establish competitive procedures for determining who shall be removed from the Senior Executive Service in any reduction in force of career appointees within that agency. The competitive procedures shall be designed to assure that such determinations are primarily on the basis of performance, as determined under subchapter II of chapter 43 of this title.
 
 (b)(1) This subsection applies to any career appointee who has successfully completed the probationary period prescribed under section 3393(d) of this title.
 
@@ -32,7 +32,7 @@ A prior section 3595, added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978,
 
 #### Amendments
 
-1984—Subsec. (b)(3)(B). Pub. L. 98–615, §303(c)(1), struck out the designation “(i)” before provisions relating to placement in any agency in any vacant Executive Service position, and struck out former cl. (ii), which had related to detailing by the Office of Personnel Management to any vacant Senior Executive Service position for which the Office deemed the employee to be qualified in any agency for a period not to exceed 60 days, and placement in such position by the Office after the period of such detail, unless the head of the agency determined that the career appointee was not qualified for such position.
+<b>1984</b>—Subsec. (b)(3)(B). Pub. L. 98–615, §303(c)(1), struck out the designation “(i)” before provisions relating to placement in any agency in any vacant Executive Service position, and struck out former cl. (ii), which had related to detailing by the Office of Personnel Management to any vacant Senior Executive Service position for which the Office deemed the employeeto be qualified in any agency for a period not to exceed 60 days, and placement in such position by the Office after the period of such detail, unless the head of the agency determined that the career appointee was not qualified for such position.
 
 Subsec. (b)(4). Pub. L. 98–615, §303(c)(2), struck out “and the civil service” after “removed from the Senior Executive Service”, struck out the designation “(A)” before “the career appointee declines”, and substituted a period for the semicolon and “or” at the end thereof. Former subpar. (B) redesignated par. (5).
 
@@ -42,13 +42,13 @@ Subsec. (c). Pub. L. 98–615, §303(d), struck out the designation “(1)” be
 
 Subsec. (e). Pub. L. 98–615, §304(b), added subsec. (e).
 
-1982—Subsec. (b)(3)(B). Pub. L. 97–346, §5(a), designated as cl. (i) existing provisions relating to placement in any agency in any vacant Executive Service position, and added cl. (ii).
+<b>1982</b>—Subsec. (b)(3)(B). Pub. L. 97–346, §5(a), designated as cl. (i) existing provisions relating to placement in any agency in any vacant Executive Service position, and added cl. (ii).
 
 Subsec. (c)(3). Pub. L. 97–346, §5(b), designated as subpar. (A) existing provisions relating to taking of all reasonable steps by Office of Personnel Management, and added subpar. (B).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 303(c), (d) of Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, and amendment by section 304(b) of Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Amendment by section 303(c), (d) of Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, and amendment by section 304(b) of Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -56,7 +56,7 @@ Section 5(c) of Pub. L. 97–346 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 15, 1982\].
 
-“(2) The amendments made by this section \[amending this section\] shall apply to an individual who is a career appointee on or after September 30, 1982, except that any individual who is a career appointee on September 30, 1982, and who is described in section3595(b)(3) of title 5, United States Code, may not be removed before December 15, 1982, due to a reduction in force, unless the removal is under section 3595(b)(4)(A) of such title on the grounds the individual declined a reasonable placement offer.”
+“(2) The amendments made by this section \[amending this section\] shall apply to an individual who is a career appointee on or after September 30, 1982, except that any individual who is a career appointee on September 30, 1982, and who is described in section 3595(b)(3) of title 5, United States Code, may not be removed before December 15, 1982, due to a reduction in force, unless the removal is under section 3595(b)(4)(A) of such title on the grounds the individual declined a reasonable placement offer.”
 
 #### Effective Date
 
@@ -72,5 +72,5 @@ Section 1704(e) of Pub. L. 97–35 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3135, 3151, 3393, 3593, 3594, 7542 of this title; title 10 section 1590.
+This section is referred to in sections 3151, 3393, 3593, 3594, 7542 of this title; title 10 section 1590.
 

@@ -24,7 +24,7 @@ Quarterly Reports.—Not later than 30 days after the last day of each calendar 
 
 (c)
 
-Biennial Needs Report.—In January 1993 and in January of every 2d year after 1993, the Comptroller General shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing an evaluation of the extent to which current mass transportation needs are addressed adequately and an estimate of the future mass transportation needs of the United States, including mass transportation needs in rural areas (particularly access to health care facilities). The report shall include—
+Biennial Needs Report.—In January 1993 and in January of every 2d year after 1993, the Comptroller General shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs ofthe Senate a report containing an evaluation of the extent to which current mass transportation needs are addressed adequately and an estimate of the future mass transportation needs of the United States, including mass transportation needs in rural areas (particularly access to health care facilities). The report shall include—
 
 &emsp;(1) an assessment of needs related to rail modernization, guideway modernization, replacing, rehabilitating, and buying buses and related equipment, constructing bus related facilities, and constructing new fixed guideway systems and extensions to existing fixed guideway systems;
 
@@ -128,7 +128,7 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

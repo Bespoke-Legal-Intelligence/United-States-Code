@@ -1,6 +1,6 @@
 ### §5148. Judge Advocate General's Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
 
-(a) The Judge Advocate General's Corps is a Staff Corps of the Navy, and shall be organizedin accordance with regulations prescribed by the Secretary of the Navy.
+(a) The Judge Advocate General's Corps is a Staff Corps of the Navy, and shall be organized in accordance with regulations prescribed by the Secretary of the Navy.
 
 (b) There is in the executive part of the Department of the Navy the Office of the Judge Advocate General of the Navy. The Judge Advocate General shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years. He shall be appointed from judge advocates of the Navy or the Marine Corps who are members of the bar of a Federal court or the highest court of a State or Territory and who have had at least eight years of experience in legal duties as commissioned officers. If an officer appointed as the Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.
 
@@ -88,7 +88,7 @@ Section 8 of Pub. L. 90–179 provided that:
 
 #### Savings Provision
 
-Section 10 of Pub. L. 90–179 provided that: “This Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897 and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5149 of this title\] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act \[set out as a note under this section\] shall not operate to change the computation of his service for any purpose.”
+Section 10 of Pub. L. 90–179 provided that: “This Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896,5897 and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5149 of this title\] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act \[set out as a note under this section\] shall not operate to change the computation of his service for any purpose.”
 
 #### Women Officers in Judge Advocate General's Corps of Navy
 

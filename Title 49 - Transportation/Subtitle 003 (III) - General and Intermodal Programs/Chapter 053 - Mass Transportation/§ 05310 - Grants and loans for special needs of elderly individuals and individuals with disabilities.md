@@ -30,7 +30,7 @@ Eligible Capital Expenses.—A recipient of amounts under this section may inclu
 
 (e)
 
-Application of Section 5309.—(1) A grant or loan under subsection (a)(1) of this section is subject to all requirements of a grant or loan under section 5309 of this title, and is deemed to have been made under section 5309.
+Application of Section 5309.—(1) A grant or loan under subsection (a)(1) of this section issubject to all requirements of a grant or loan under section 5309 of this title, and is deemed to have been made under section 5309.
 
 (2) A grant or loan under subsection (a)(2) of this section is subject to requirements similar to those under paragraph (1) of this subsection to the extent the Secretary considers appropriate.
 
@@ -142,5 +142,5 @@ Section 165(b) of the Federal-Aid Highway Act of 1973, referred to in subsec. (f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5301, 5307, 5323, 5333, 5334, 5338 of this title; title 42 sections 3013, 3035<i>l.</i>
+This section is referred to in sections 5301, 5307, 5323, 5333, 5334, 5338, 31138 of this title; title 42 sections 3013, 3035<i>l.</i>
 

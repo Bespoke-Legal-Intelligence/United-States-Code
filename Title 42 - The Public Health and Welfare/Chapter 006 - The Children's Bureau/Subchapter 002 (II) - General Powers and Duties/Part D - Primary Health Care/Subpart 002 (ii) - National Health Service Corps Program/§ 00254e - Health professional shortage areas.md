@@ -6,7 +6,7 @@
 
 (2) For purposes of this subsection, the term “medical facility” means a facility for the delivery of health services and includes—
 
-&emsp;(A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-termcare, community mental health center, migrant health center, facility operated by a city or county health department, and community health center;
+&emsp;(A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, community mental health center, migrant health center, facility operated by a city or county health department, and community health center;
 
 &emsp;(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\];
 
@@ -68,7 +68,7 @@ Any person may recommend to the Secretary the designation of an area, population
 
 #### (h) Public information programs in designated areas
 
-The Secretary may conduct such information programs in areas, among population groups, and in medical facilities and other public facilities designated under this section as health professional shortage areas as may be necessary to inform public and nonprofit private entitieswhich are located or have a demonstrated interest in such areas of the assistance available under this subchapter by virtue of the designation of such areas.
+The Secretary may conduct such information programs in areas, among population groups, and in medical facilities and other public facilities designated under this section as health professional shortage areas as may be necessary to inform public and nonprofit private entities which are located or have a demonstrated interest in such areas of the assistance available under this subchapter by virtue of the designation of such areas.
 
 (July 1, 1944, ch. 373, title III, §332, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2270; amended Oct. 25, 1977, Pub. L. 95–142, §7(d), 91 Stat. 1193; July 10, 1979, Pub. L. 96–32, §7(d), 93 Stat. 84; Aug. 13, 1981, Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), 95 Stat. 603, 903, 904; July 22, 1987, Pub. L. 100–77, title VI, §602, 101 Stat. 515; Dec. 1, 1987, Pub. L. 100–177, title III, §302, 101 Stat. 1003; Nov. 4, 1988, Pub. L. 100–607, title VIII, §802(b)(2), 102 Stat. 3169; Nov. 7, 1988, Pub. L. 100–628, title VI, §602(b)(2), 102 Stat. 3242; Nov. 16, 1990, Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], 104 Stat. 3014, 3035.)
 
@@ -150,7 +150,7 @@ Section 7(e)(1) of Pub. L. 95–142 provided that: “The amendment made by subs
 
 #### Evaluation of Criteria Used To Designate Health Manpower Shortage Areas; Report to Congress
 
-Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnelin an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
+Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
 
 #### Section Referred to in Other Sections
 

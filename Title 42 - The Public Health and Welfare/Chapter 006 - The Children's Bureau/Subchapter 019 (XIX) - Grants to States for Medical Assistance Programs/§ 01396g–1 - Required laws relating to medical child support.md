@@ -22,7 +22,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;&emsp;(i) such court or administrative order is no longer in effect, or
 
-&emsp;&emsp;&emsp;(ii) the child is or will be enrolled in comparable health coverage through another insurer which will take effect not later than the effective date of such disenrollment.
+&emsp;&emsp;&emsp;(ii) the child is or will be enrolled in comparable health coverage through another insurer which will take effect notlater than the effective date of such disenrollment.
 
 &emsp;(3) In any case in which a parent is required by a court or administrative order to provide health coverage for a child and the parent is eligible for family health coverage through an employer doing business in the State, a law that requires such employer—
 

@@ -1,4 +1,4 @@
-### §7207 . Administration of liberated and occupied areas
+### §7207. Administration of liberated and occupied areas
 
 (a) The Secretary of the Navy may, out of any appropriation made for the purpose, provide for the administration of liberated and occupied areas by the Department of the Navy.
 

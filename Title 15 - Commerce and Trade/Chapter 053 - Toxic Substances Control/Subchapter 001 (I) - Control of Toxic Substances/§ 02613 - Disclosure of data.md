@@ -32,7 +32,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 > This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
 
-(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 for information which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
+(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 forinformation which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
 
 #### (c) Designation and release of confidential data
 
@@ -48,13 +48,13 @@ Except as provided by subsection (b) of this section, any information reported t
 
 (1) Any officer or employee of the United States or former officer or employee of the United States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
 
-(2) For the purposes of paragraph (1), any contractor with the United States who is furnishedinformation as authorized by subsection (a)(2) of this section, and any employee of any such contractor, shall be considered to be an employee of the United States.
+(2) For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2) of this section, and any employee of any such contractor, shall be considered to be an employee of the United States.
 
 #### (e) Access by Congress
 
 Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
 
-(Pub. L. 94 469, title I, §14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Section Referred to in Other Sections
 

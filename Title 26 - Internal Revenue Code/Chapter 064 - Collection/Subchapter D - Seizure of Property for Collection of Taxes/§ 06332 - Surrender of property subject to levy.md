@@ -12,7 +12,7 @@ Except as otherwise provided in this section, any person in possession of (or ob
 
 #### (2) Satisfaction of levy
 
-&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
+&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date suchorganization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
 
 #### (3) Enforcement proceedings
 
@@ -94,7 +94,7 @@ Amendment by section 1209(d)(3) of Pub. L. 94–455 effective only with respect 
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date of 1966 Amendment
 

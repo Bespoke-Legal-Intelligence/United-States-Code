@@ -22,7 +22,7 @@ Section 1857i, act July 14, 1955, ch. 360, title III, §310, formerly §10, as a
 
 Section 1857j, act July 14, 1955, ch. 360, title III, §311, formerly §11, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered title III, §304, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §311 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to records and audits, was transferred to section 7611 of this title.
 
-Section 1857j–1, act July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L.90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to cost studies, was transferred to section 7612 of this title.
+Section 1857j–1, act July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to cost studies, was transferred to section 7612 of this title.
 
 Section 1857j–2, act July 14, 1955, ch. 360, title III, §313, formerly §306, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §313 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to additional reports to Congress, was transferred to section 7613 of this title.
 

@@ -48,7 +48,7 @@ Chairman, Quorum, Meetings, and Pay.—(1) The Secretary is the Chairman of the 
 
 Personnel, Office Space, and Support Services.—On request of the Panel, the Secretary shall—
 
-&emsp;(1) detail personnel of the Department of Transportation to the Panel as necessary to assist the Panel in carrying out its duties and powers; and
+&emsp;(1) detail personnel of the Department of Transportation to the Panel as necessary toassist the Panel in carrying out its duties and powers; and
 
 &emsp;(2) provide office space, supplies, equipment, and other support services to the Panel as necessary for the Panel to carry out its duties and powers.
 
@@ -108,5 +108,5 @@ In subsection (f), the words “or affirmations” are omitted as unnecessary be
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -1,4 +1,4 @@
-### §8746 . Silver star: award
+### §8746. Silver star: award
 
 The President may award a silver star of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, is cited for gallantry in action that does not warrant a medal of honor or Air Force cross—
 

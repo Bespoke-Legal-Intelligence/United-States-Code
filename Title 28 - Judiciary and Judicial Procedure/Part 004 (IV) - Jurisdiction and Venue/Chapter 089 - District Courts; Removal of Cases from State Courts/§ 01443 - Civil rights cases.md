@@ -1,0 +1,34 @@
+### §1443. Civil rights cases
+
+Any of the following civil actions or criminal prosecutions, commenced in a State court may be removed by the defendant to the district court of the United States for the district and division embracing the place wherein it is pending:
+
+&emsp;(1) Against any person who is denied or cannot enforce in the courts of such State a right under any law providing for the equal civil rights of citizens of the United States, or of all persons within the jurisdiction thereof;
+
+&emsp;(2) For any act under color of authority derived from any law providing for equal rights, or for refusing to do any act on the ground that it would be inconsistent with such law.
+
+(June 25, 1948, ch. 646, 62 Stat. 938.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §74 (Mar. 3, 1911, ch. 231, §31, 36 Stat. 1096).
+
+Other provisions of section 74 of title 28, U.S.C., 1940 ed., are incorporated in sections 1446 and 1447 of this title.
+
+Words “or in the part of the State where such suit or prosecution is pending” after “courts of such States,” were omitted as unnecessary.
+
+Changes were made in phraseology.
+
+#### Federal Rules of Civil Procedure
+
+Application of rules, see rule 81, Appendix to this title.
+
+Continuation of section under rule 81, see note by Advisory Committee under rule 81.
+
+#### Cross References
+
+Stay of State court proceedings, see section 2283 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1447 of this title.
+

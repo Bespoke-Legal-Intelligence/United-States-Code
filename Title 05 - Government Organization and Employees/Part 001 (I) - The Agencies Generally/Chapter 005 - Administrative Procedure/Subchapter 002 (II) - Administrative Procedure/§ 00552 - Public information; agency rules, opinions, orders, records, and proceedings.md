@@ -50,7 +50,7 @@
 
 &emsp;(II) for any request described in clause (ii) (II) or (III) of this subparagraph for the first two hours of search time or for the first one hundred pages of duplication.
 
-(v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or theagency has determined that the fee will exceed $250.
+(v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or the agency has determined that the fee will exceed $250.
 
 (vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specifically providing for setting the level of fees for particular types of records.
 
@@ -92,7 +92,7 @@
 
 &emsp;(2) related solely to the internal personnel rules and practices of an agency;
 
-&emsp;(3) specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;
+&emsp;(3) specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires thatthe matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;
 
 &emsp;(4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
@@ -138,7 +138,7 @@
 
 &emsp;(7) such other information as indicates efforts to administer fully this section.
 
-> The Attorney General shall submit an annual report on or before March 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved ineach case, the disposition of such case, and the cost, fees, and penalties assessed under subsections (a)(4)(E), (F), and (G). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.
+> The Attorney General shall submit an annual report on or before March 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subsections (a)(4)(E), (F), and (G). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.
 
 (f) For purposes of this section, the term “agency” as defined in section 551(1) of this title includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.
 
@@ -188,19 +188,19 @@ Section 552 of former Title 5, Executive Departments and Government Officers and
 
 #### Amendments
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
+<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
 
 Subsec. (b)(7). Pub. L. 99–570, §1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
 
 Subsecs. (c) to (f). Pub. L. 99–570, §1802(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1984—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
+<b>1984</b>—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
 
-1978—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to the Civil Service Commission wherever appearing and reference to his findings for reference to its findings.
+<b>1978</b>—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to the Civil Service Commission wherever appearing and reference to his findings for reference to its findings.
 
-1976—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
+<b>1976</b>—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
-1974—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
 
 Subsec. (a)(3). Pub. L. 93–502, §1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
 
@@ -216,7 +216,7 @@ Subsec. (b), foll. par. (9). Pub. L. 93–502, §2(c), inserted provision relati
 
 Subsecs. (d), (e). Pub. L. 93–502, §3, added subsecs. (d) and (e).
 
-1967—Subsec. (a). Pub. L. 90–23 substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
+<b>1967</b>—Subsec. (a). Pub. L. 90–23 substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
 
 Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1) in (A), inserting requirement of publication of names of officers as sources of information and provision for public to obtain decisions, and striking out publication requirement for delegations by the agency of final authority; former subsec. (b)(2), introductory part, in (B); former subsec. (b)(2), concluding part, in (C), inserting publication requirement for rules of procedure and descriptions of forms available or the places at which forms may be obtained; former subsec. (b)(3), introductory part, in (D), inserting requirement of general applicability of substantive rules and interpretations, added clause (E), substituted exemption of any person from failure to resort to any matter or from being adversely affected by any matter required to be published in the Federal Register but not so published for former subsec. (b)(3), concluding part, excepting from publication rules addressed to and served upon named persons in accordance with laws and final sentence reading “A person may not be required to resort to organization or procedure not so published” and inserted provision deeming matter, which is reasonably available, as published in the Federal Register when such matter is incorporated by reference in the Federal Register with the approval of its Director.
 
@@ -274,7 +274,7 @@ Pub. L. 103–236, title V, §533, Apr. 30, 1994, 108 Stat. 480, provided that:
 
 “(a)
 
-In General.—Data with respect to a foreign country collected by sensors during observation flights conducted in connection with the Treaty on Open Skies, including flights conducted prior to entry intoforce of the treaty, shall be exempt from disclosure under the Freedom of Information Act—
+In General.—Data with respect to a foreign country collected by sensors during observation flights conducted in connection with the Treaty on Open Skies, including flights conducted prior to entry into force of the treaty, shall be exempt from disclosure under the Freedom of Information Act—
 
 &emsp;“(1) if the country has not disclosed the data to the public; and
 
@@ -293,6 +293,10 @@ Definitions.—For the purposes of this section—
 &emsp;“(2) the term ‘Open Skies Consultative Commission’ means the commission established pursuant to Article X of the Treaty on Open Skies; and
 
 &emsp;“(3) the term ‘Treaty on Open Skies’ means the Treaty on Open Skies, signed at Helsinki on March 24, 1992.”
+
+#### Classified National Security Information
+
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 12958, §3.7, Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
 
 #### Executive Order No. 12174
 
@@ -344,7 +348,7 @@ Sec. 8. The notice requirements of this Order need not be followed if:
 
 (e) The information requested is not designated by the submitter as exempt from disclosure in accordance with agency regulations promulgated pursuant to section 7, when the submitter had an opportunity to do so at the time of submission of the information or a reasonable time thereafter, unless the agency has substantial reason to believe that disclosure of the information would result in competitive harm; or
 
-(f) The designation made by the submitter in accordance with agency regulations promulgated pursuant tosection 7 appears obviously frivolous; except that, in such case, the agency must provide the submitter with written notice of any final administrative disclosure determination within a reasonable number of days prior to the specified disclosure date.
+(f) The designation made by the submitter in accordance with agency regulations promulgated pursuant to section 7 appears obviously frivolous; except that, insuch case, the agency must provide the submitter with written notice of any final administrative disclosure determination within a reasonable number of days prior to the specified disclosure date.
 
 Sec. 9. Whenever an agency notifies a submitter that it may be required to disclose information pursuant to section 1 of this Order, the agency shall also notify the requester that notice and an opportunity to comment are being provided the submitter. Whenever an agency notifies a submitter of a final decision pursuant to section 5 of this Order, the agency shall also notify the requester.
 
@@ -360,5 +364,5 @@ Section applicable to functions exercised under International Wheat Agreement Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 509, 608d, 948, 958, 1314g, 1314i, 1508, 1642, 5651, 5662, 5906; title 10 sections 128, 424, 1034, 1102, 2304, 2305, 2306a, 2328, 2506; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304; title 18 sections 207, 208; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 2422, 2836, 6512; title 21 sections 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2297b–13, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206; title 46 sections 4309, 7702, 9303; title 46 App. section 1705; title 49 sections 10310, 10706, 11164, 11346; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
+This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 499f, 509, 608d, 948, 1314g, 1314i, 1508, 1642, 5651, 5662, 5906; title 10 sections 128, 424, 1034, 1102, 2304, 2305, 2306a, 2328, 2506; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304; title 18 sections 207, 208; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 2422, 6512; title 21 sections 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2297b–13, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 7702, 9303; title 46 App. section 1705; title 49 sections 706, 10706, 10709, 11162, 14123; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
 

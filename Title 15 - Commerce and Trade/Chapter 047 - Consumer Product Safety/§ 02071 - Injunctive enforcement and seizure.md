@@ -22,13 +22,13 @@ Any consumer product—
 
 > when introduced into or while in commerce or while held for sale after shipment in commerce shall be liable to be proceeded against on libel of information and condemned in any district court of the United States within the jurisdiction of which such consumer product is found. Proceedings in cases instituted under the authority of this subsection shall conform as nearly as possible to proceedings in rem in admiralty. Whenever such proceedings involving substantially similar consumer products are pending in courts of two or more judicial districts they shall be consolidated for trial by order of any such court upon application reasonably made by any party in interest upon notice to all other parties in interest.
 
-(Pub. L. 92 573, §22, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94 284, §§11(b), 12(c), May 11, 1976, 90 Stat. 507, 508.)
+(Pub. L. 92–573, §22, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, §§11(b), 12(c), May 11, 1976, 90 Stat. 507, 508.)
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94 284, §§11(b), 12(c)(1), designated existing provision as par. (1) and (3), added par. (2), and in provision following par. (3) substituted “(without regard to section 2076(b)(7)(A) of this title)” for “(with the concurrence of the Attorney General)”.
+1976—Subsec. (a). Pub. L. 94–284, §§11(b), 12(c)(1), designated existing provision as par. (1) and (3), added par. (2), and in provision following par. (3) substituted “(without regard to section 2076(b)(7)(A) of this title)” for “(with the concurrence of the Attorney General)”.
 
-Subsec. (b). Pub. L. 94 284, §12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
+Subsec. (b). Pub. L. 94–284, §12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
 
 #### Federal Rules of Civil Procedure
 

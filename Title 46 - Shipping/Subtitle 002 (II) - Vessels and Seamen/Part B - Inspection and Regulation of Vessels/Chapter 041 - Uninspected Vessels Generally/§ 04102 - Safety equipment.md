@@ -8,9 +8,9 @@
 
 (d) Each uninspected vessel using a volatile liquid as fuel shall be provided with the means prescribed by regulation for properly and efficiently ventilating the bilges of the engine and fuel tank compartments, so as to remove any explosive or flammable gases.
 
-(e) Each manned uninspected vessel operating on the high seas or beyond three nautical milesfrom the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.
+(e) Each manned uninspected vessel operating on the high seas or beyond three nautical miles from the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L. 100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L.100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719.)
 
 Historical and Revision Notes
 

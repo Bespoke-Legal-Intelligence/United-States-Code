@@ -34,7 +34,7 @@
 
 (ii) Of the members of the Board who are first appointed under this paragraph, one each shall be appointed for terms ending five, ten, and fifteen years, respectively, after the date of appointment, as designated by the Secretary of Defense at the time of appointment.
 
-(C) A member of the Board who is not otherwise an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5, for each day the member is engaged inthe performance of duties vested in the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of title 5.
+(C) A member of the Board who is not otherwise an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5, for each day the member is engaged in the performance of duties vested in the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of title 5.
 
 (2) The Board shall report to the Secretary of Defense annually on the actuarial status of the Fund and shall furnish its advice and opinion on matters referred to it by the Secretary.
 

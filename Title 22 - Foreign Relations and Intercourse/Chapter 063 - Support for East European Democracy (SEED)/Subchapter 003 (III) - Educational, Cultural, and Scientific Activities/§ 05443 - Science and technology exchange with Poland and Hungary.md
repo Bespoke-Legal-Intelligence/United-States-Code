@@ -2,7 +2,7 @@
 
 #### (a) Agreement with Poland
 
-There are authorized to be appropriated to the Secretary of State for purposes of continuing to implement the 1987 United States-Polish science and technology agreement—
+There are authorized to be appropriated to the Secretary of State for purposes of continuing toimplement the 1987 United States-Polish science and technology agreement—
 
 &emsp;(1) $1,500,000 for fiscal year 1990,
 

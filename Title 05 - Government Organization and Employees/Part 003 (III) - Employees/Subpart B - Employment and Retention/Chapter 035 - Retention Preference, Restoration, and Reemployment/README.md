@@ -62,15 +62,15 @@
 
 #### Amendments
 
-1994—Pub. L. 103–353, §2(b)(2)(C), Oct. 13, 1994, 108 Stat. 3169, struck out item for subchapter II “RESTORATION AFTER ACTIVE DUTY OR TRAINING DUTY” and item 3551 “Restoration; Reserves and National Guardsmen”.
+<b>1994</b>—Pub. L. 103–353, §2(b)(2)(C), Oct. 13, 1994, 108 Stat. 3169, struck out item for subchapter II “RESTORATION AFTER ACTIVE DUTY OR TRAINING DUTY” and item 3551 “Restoration; Reserves and National Guardsmen”.
 
-1984—Pub. L. 98–615, title III, §306(c)(2), Nov. 8, 1984, 98 Stat. 3220, added item 3595a.
+<b>1984</b>—Pub. L. 98–615, title III, §306(c)(2), Nov. 8, 1984, 98 Stat. 3220, added item 3595a.
 
-1981—Pub. L. 97–35, title XVII, §1704(a)(2), Aug. 13, 1981, 95 Stat. 757, redesignated item 3595 as 3596, and added item 3595.
+<b>1981</b>—Pub. L. 97–35, title XVII, §1704(a)(2), Aug. 13, 1981, 95 Stat. 757, redesignated item 3595 as 3596, and added item 3595.
 
-1980—Pub. L. 96–465, title II, §2301(b), Oct. 17, 1980, 94 Stat. 2164, added item for subchapter VI and item 3597.
+<b>1980</b>—Pub. L. 96–465, title II, §2301(b), Oct. 17, 1980, 94 Stat. 2164, added item for subchapter VI and item 3597.
 
-1978—Pub. L. 95–454, title IV, §404(c), Oct. 13, 1978, 92 Stat. 1167, added item for subchapter V and items 3591 to 3595.
+<b>1978</b>—Pub. L. 95–454, title IV, §404(c), Oct. 13, 1978, 92 Stat. 1167, added item for subchapter V and items 3591 to 3595.
 
 
 ---

@@ -22,7 +22,7 @@ The Congress further finds that—
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450<i>l</i> of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and section 458aa of this title\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
+Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450<i>l</i> of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out asnotes under this section and section 458aa of this title\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
 
 Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title \[enacting section 450<i>l</i> of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
 
@@ -80,7 +80,7 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 
 The head of each executive department and agency shall ensure that the department or agency's bureaus and components are fully aware of this memorandum, through publication or other means, and that they are in compliance with its requirements.
 
-This memorandum is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+This memorandum is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right orbenefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
 

@@ -344,5 +344,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1516a, 1671b, 1673e, 1677, 1677n, 3432, 3451 of this title; title 28 section 1581, 1584, 2631, 2635, 2636, 2640, 2643.
+This section is referred to in sections 1516a, 1671b, 1673e, 1677, 1677n, 3432, 3451 of this title; title 28 sections 1581, 1584, 2631, 2635, 2636, 2640, 2643.
 

@@ -28,7 +28,7 @@
 
 &emsp;(K) contain such additional information and assurances as the Secretary may find necessary to carry out the purposes of this subsection.
 
-(3)(A) From the sums appropriated for such purpose for each fiscal year, the several States shall be entitled to allotments determined, in accordance with regulations, on the basis of the population and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
+(3)(A) From the sums appropriated for such purpose for each fiscal year, the several States shall be entitled to allotments determined, in accordance with regulations, on the basis of thepopulation and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
 
 (B) The amount of any allotment to a State under subparagraph (A) for any fiscal year which the Secretary determines will not be required by the State, during the period for which it is available, for the purposes for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as he may fix, to other States with respect to which such a determination has not been made, in proportion to the original allotments to such States under subparagraph (A) for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State from funds appropriated pursuant to this subsection for a fiscal year shall be deemed part of its allotment under subparagraph (A) for such fiscal year.
 
@@ -42,7 +42,7 @@
 
 (2)(A) In order to be approved under this subsection, an application for a grant under this subsection must contain or be supported by reasonable assurances that there has been or will be established, in or for the area with respect to which such grant is sought, an areawide health planning council. The membership of such council shall include representatives of public, voluntary, and nonprofit private agencies, institutions, and organizations concerned with health (including representatives of the interests of local government of the regional medical program for such area, and of consumers of health services). A majority of the members of such council shall consist of representatives of consumers of health services.
 
-(B) In addition, an application for a grant under this subsection must contain or be supported by reasonable assurances that the areawide health planning agency has made provision for assisting health care facilities in its area to develop a program for capital expenditures for replacement, modernization, and expansion which is consistent with an overall State plan which will meet the needs of the State and the area for health care facilities, equipment, and services without duplication and otherwise in the most efficient and economical manner.
+(B) In addition, an application for a grant under this subsection must contain or be supported by reasonable assurances that the areawide health planning agency has made provision for assisting health care facilities in its area to develop a program for capital expenditures for replacement, modernization, and expansion which is consistent with an overall State plan which will meet the needs of the State and thearea for health care facilities, equipment, and services without duplication and otherwise in the most efficient and economical manner.
 
 #### (c) Project grants for training, studies, and demonstrations; authorization of appropriations
 
@@ -62,7 +62,7 @@ The Secretary is also authorized, during the period beginning July 1, 1966, and 
 
 1979—Subsec. (d)(2)(C)(ii). Pub. L. 96–32, §6(e), substituted “uniform national health program reporting system” for “uniform national reporting system”.
 
-Subsec. (d)(4)(A). Pub. L. 96–32, §6(f), in provision following subd. (II) of cl. (ii), substituted “the preceding provisions of this subparagraph” for “clauses (i) and (ii)” and “amount” for “amounts” and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amountwhich bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
+Subsec. (d)(4)(A). Pub. L. 96–32, §6(f), in provision following subd. (II) of cl. (ii), substituted “the preceding provisions of this subparagraph” for “clauses (i) and (ii)” and “amount” for “amounts” and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amount which bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
 
 Subsec. (g)(2)(D)(iv). Pub. L. 96–79 substituted “a plan which is consistent with the State health plan in effect for the State under section 300m–3(c) of this title and” for “a plan”.
 
@@ -82,7 +82,7 @@ Subsec. (d)(7)(B). Pub. L. 95–83, §302(b), substituted provision for an appro
 
 1976—Subsec. (g)(4)(B). Pub. L. 94–484 defined “State” to include the Northern Mariana Islands.
 
-1975—Subsec. (d). Pub. L. 94–63, §§102, 701(a), substituted provisions relating to grants made pursuant to allotments to State health and mental health authorities for meeting the costs of providing comprehensive public health services, for provisions relating to grants made pursuant to appropriations for fiscal year ending June 30, 1968 to fiscal year ending June 30, 1975, to State health or mental health authorities to aid in the establishment and maintenance of adequate public health services, including the training of personnel for State and local health work.
+1975—Subsec. (d). Pub. L. 94–63, §§102, 701(a), substituted provisions relating to grants made pursuant toallotments to State health and mental health authorities for meeting the costs of providing comprehensive public health services, for provisions relating to grants made pursuant to appropriations for fiscal year ending June 30, 1968 to fiscal year ending June 30, 1975, to State health or mental health authorities to aid in the establishment and maintenance of adequate public health services, including the training of personnel for State and local health work.
 
 Subsec. (e). Pub. L. 94–63, §§501(b), 701(b), struck out subsec. (e) which authorized appropriations from fiscal year ending June 30, 1968 through fiscal year ending June 30, 1975 for project grants for health services and related training, set forth procedures for making such grants, and prohibited grants after the fiscal year ending June 30, 1975, for provisions of this chapter amended by title VII of the Health Revenue Sharing and Health Services Act of 1975.
 
@@ -140,7 +140,7 @@ Subsec. (b). Pub. L. 90–174, §2(b)(1), (2), extended period for making grants
 
 Subsec. (c). Pub. L. 90–174, §2(c), extended period for making grants to public or nonprofit private organizations from June 30, 1968, to June 30, 1970, and authorized appropriations of $5,000,000 and $7,500,000 for fiscal years ending June 30, 1969, and 1970, respectively.
 
-Subsec. (d)(1). Pub. L. 90–174, §§2(d)(1), 8(a), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $70,000,000, and authorized appropriations of $90,000,000 and $100,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, and made program evaluation funds available for any fiscal year ending after June 30, 1968, respectively.
+Subsec. (d)(1). Pub. L. 90–174, §§2(d)(1), 8(a), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $70,000,000, and authorized appropriations of $90,000,000 and $100,000,000 for fiscal years ending June 30, 1969, and 1970, respectively,and made program evaluation funds available for any fiscal year ending after June 30, 1968, respectively.
 
 Subsec. (d)(5). Pub. L. 90–174, §2(d)(2), made Federal share of 662/3 per centum applicable to the Trust Territory of the Pacific Islands.
 
@@ -250,7 +250,7 @@ Section 4(b) of Pub. L. 87–688 provided that: “The amendments made by this s
 
 #### Effective and Termination Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–544 provided that: “The amendment made by the first section of this Act\[amending this section\] shall be applicable only to the fiscal years beginning July 1, 1958, and July 1, 1959.”
+Section 2 of Pub. L. 85–544 provided that: “The amendment made by the first section of this Act \[amending this section\] shall be applicable only to the fiscal years beginning July 1, 1958, and July 1, 1959.”
 
 #### Effective Date of 1956 Amendment
 
@@ -278,7 +278,7 @@ Section 201(b)(1) of Pub. L. 95–626 provided that: “The Congress finds and d
 
 &emsp;“(B) the Federal Government and the States and their communities share in the financial responsibility for funding public health programs;
 
-&emsp;“(C) the Federal contribution to funds for public health programs should serve as an incentive to an additional investment by State and local governments;
+&emsp;“(C) the Federal contribution to funds for public health programs should serve as an incentive to anadditional investment by State and local governments;
 
 &emsp;“(D) existing categorical programs of Federal financial assistance to combat specific public health problems should be supplemented by a national program of stable generic support for such public health activities as the prevention and control of environmental health hazards, prevention and control of diseases, prevention and control of health problems of particularly vulnerable population groups, and development and regulation of health care facilities and health services delivery systems; and
 

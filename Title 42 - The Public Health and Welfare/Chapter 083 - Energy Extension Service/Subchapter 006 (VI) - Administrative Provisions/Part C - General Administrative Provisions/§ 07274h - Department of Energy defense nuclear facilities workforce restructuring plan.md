@@ -30,7 +30,7 @@ In preparing the plan required under subsection (a) of this section, the Secreta
 
 &emsp;(3) Employees shall, to the extent practicable, be retrained for work in environmental restoration and waste management activities at such facilities or other facilities of the Department of Energy.
 
-&emsp;(4) The Department of Energy should provide relocation assistance to employees who are transferred to other Department of Energy facilities as a result of the plan.
+&emsp;(4) The Department of Energy should provide relocation assistance to employees who aretransferred to other Department of Energy facilities as a result of the plan.
 
 &emsp;(5) The Department of Energy should assist terminated employees in obtaining appropriate retraining, education, and reemployment assistance (including employment placement assistance).
 
@@ -48,7 +48,7 @@ The Secretary shall, subject to the availability of appropriations for such purp
 
 #### (e) Plan updates
 
-Not later than one year after issuing a plan referred to in subsection (a) of this section and onan annual basis thereafter, the Secretary shall issue an update of the plan. Each updated plan under this subsection shall—
+Not later than one year after issuing a plan referred to in subsection (a) of this section and on an annual basis thereafter, the Secretary shall issue an update of the plan. Each updated plan under this subsection shall—
 
 &emsp;(1) be guided by the objectives referred to in subsection (c) of this section, taking into account any changes in the function or mission of the Department of Energy defense nuclear facilities and any other changes in circumstances that the Secretary determines to be relevant;
 

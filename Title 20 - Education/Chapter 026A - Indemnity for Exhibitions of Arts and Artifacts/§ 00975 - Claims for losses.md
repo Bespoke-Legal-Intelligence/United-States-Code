@@ -8,7 +8,7 @@ The Council shall prescribe regulations providing for prompt adjustment of valid
 
 In the case of a claim of loss with respect to an item which is covered by an agreement made pursuant to section 974 of this title, the Council shall certify the validity of the claim and the amount of the loss to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
-(Pub. L. 94 158, §6, Dec. 20, 1975, 89 Stat. 845.)
+(Pub. L. 94–158, §6, Dec. 20, 1975, 89 Stat. 845.)
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### \[§§5751 to 5758 . Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
+### \[§§5751 to 5758. Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
 
 Section 5751, acts Aug. 10, 1956, ch. 1041, 70A Stat. 346; Aug. 3, 1961, Pub. L. 87–123, §5(16), 75 Stat. 266, related to eligibility for consideration by a selection board for promotion of male officers in line of Navy and male officers in Marine Corps. See section 619 of this title.
 

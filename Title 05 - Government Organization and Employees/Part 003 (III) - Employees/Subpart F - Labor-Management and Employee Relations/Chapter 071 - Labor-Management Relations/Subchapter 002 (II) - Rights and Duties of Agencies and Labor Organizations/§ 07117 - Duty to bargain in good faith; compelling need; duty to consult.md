@@ -40,7 +40,7 @@
 
 (5) A hearing may be held in the discretion of the Authority, before a determination is made under this subsection. If a hearing is held, it shall not include the General Counsel as a party.
 
-(6) The Authority shall expedite proceedings under this subsection to the extent practicable and shall issue to the exclusive representative and to the agency a written decision on the allegation and specific reasons therefore at the earliest practicable date.
+(6) The Authority shall expedite proceedings under this subsection to the extent practicable and shall issue to the exclusive representativeand to the agency a written decision on the allegation and specific reasons therefore at the earliest practicable date.
 
 (d)(1) A labor organization which is the exclusive representative of a substantial number of employees, determined in accordance with criteria prescribed by the Authority, shall be granted consultation rights by any agency with respect to any Government-wide rule or regulation issued by the agency effecting any substantive change in any condition of employment. Such consultation rights shall terminate when the labor organization no longer meets the criteria prescribed by the Authority. Any issue relating to a labor organization's eligibility for, or continuation of, such consultation rights shall be subject to determination by the Authority.
 
@@ -64,5 +64,5 @@ Subsec. (b) of this section suspended with regard to any regulation governing th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5514, 7105 of this title.
+This section is referred to in sections 5514, 7105 of this title; title 2 section 1351.
 

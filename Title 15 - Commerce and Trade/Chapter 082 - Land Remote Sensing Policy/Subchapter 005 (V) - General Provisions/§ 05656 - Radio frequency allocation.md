@@ -2,7 +2,7 @@
 
 #### (a) Application to Federal Communications Commission
 
-To the extent required by the Communications Act of 1934 (47 U.S.C. 151 et seq.), an application shall be filed with the Federal Communications Commission for any radio facilities involved with commercial remote sensing spacesystems licensed under subchapter II of this chapter.
+To the extent required by the Communications Act of 1934 (47 U.S.C. 151 et seq.), an application shall be filed with the Federal Communications Commission for any radio facilities involved with commercial remote sensing space systems licensed under subchapter II of this chapter.
 
 #### (b) Deadline for FCC action
 
@@ -10,13 +10,13 @@ It is the intent of Congress that the Federal Communications Commission complete
 
 #### (c) Development and construction of United States systems
 
-Authority shall not be required from the Federal Communications Commission for the development and construction of any United States land remote sensing space system (or component thereof), other than radio transmitting facilities or components, while any licensing determination is being made.
+Authority shall not be required from the Federal Communications Commission for the development and construction of any United States land remote sensing space system (or componentthereof), other than radio transmitting facilities or components, while any licensing determination is being made.
 
 #### (d) Consistency with international obligations and public interest
 
 Frequency allocations made pursuant to this section by the Federal Communications Commission shall be consistent with international obligations and with the public interest.
 
-(Pub. L. 102 555, title V, §506, Oct. 28, 1992, 106 Stat. 4177.)
+(Pub. L. 102–555, title V, §506, Oct. 28, 1992, 106 Stat. 4177.)
 
 #### References in Text
 

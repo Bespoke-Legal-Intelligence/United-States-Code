@@ -58,7 +58,7 @@ Subsec. (b)(3) to (5). Pub. L. 96–180, §2(c)(3), added pars. (3) and (4) and 
 
 #### Short Title of 1980 Amendment
 
-Section 1(a) of Pub. L. 96–180 provided that: “This Act \[enacting section 4594, amending this section and sections 4551 to 4553, 4561, 4571 to 4573, 4576 to 4578, 4585, 4587, and 4588 of this title, and enacting provisions setout as notes under this section and section 4552 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1979’.”
+Section 1(a) of Pub. L. 96–180 provided that: “This Act \[enacting section 4594, amending this section and sections 4551 to 4553, 4561, 4571 to 4573, 4576 to 4578, 4585, 4587, and 4588 of this title, and enacting provisions set out as notes under this section and section 4552 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1979’.”
 
 #### Short Title of 1976 Amendment
 
@@ -70,7 +70,7 @@ Section 101 of title I of Pub. L. 93–282 provided that: “This title \[enacti
 
 #### Short Title
 
-Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
+Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this titleand amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
 
 #### National Commission on Alcoholism and Other Alcohol-Related Problems; Establishment; Executive Secretary; Interim and Final Reports of Study; Termination; Authorization of Appropriations
 

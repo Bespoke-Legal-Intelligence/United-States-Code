@@ -16,7 +16,7 @@ The filing with the Secretary of a statement of record, or of an amendment there
 
 The information contained in or filed with any statement of record shall be made available to the public under such regulations as the Secretary may prescribe and copies thereof shall be furnished to every applicant at such reasonable charge as the Secretary may prescribe.
 
-(Pub. L. 90 448, title XIV, §1405, Aug. 1, 1968, 82 Stat. 592.)
+(Pub. L. 90–448, title XIV, §1405, Aug. 1, 1968, 82 Stat. 592.)
 
 #### Section Referred to in Other Sections
 

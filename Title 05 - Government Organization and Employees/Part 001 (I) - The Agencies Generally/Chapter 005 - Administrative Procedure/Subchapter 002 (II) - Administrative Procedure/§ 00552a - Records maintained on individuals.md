@@ -38,7 +38,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) matches performed, by an agency (or component thereof) which performs as its principal function any activity pertaining to the enforcement of criminal laws, subsequent to the initiation of a specific criminal or civil law enforcement investigation of a named person or persons for the purpose of gathering evidence against such person or persons;
 
-&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 464 or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by theDirector of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
+&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 464 or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, andhearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
 
 &emsp;&emsp;&emsp;(v) matches—
 
@@ -166,7 +166,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;(I) the categories of sources of records in the system;
 
-&emsp;(5) maintain all records which are used by the agency in making any determinationabout any individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to assure fairness to the individual in the determination;
+&emsp;(5) maintain all records which are used by the agency in making any determination about any individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to assure fairness to the individual in the determination;
 
 &emsp;(6) prior to disseminating any record about an individual to any person other than an agency, unless the dissemination is made pursuant to subsection (b)(2) of this section, make reasonable efforts to assure that such records are accurate, complete, timely, and relevant for agency purposes;
 
@@ -216,7 +216,7 @@ Civil Remedies.—Whenever any agency
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
-(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examinethe contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
+(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portionthereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -258,7 +258,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
-&emsp;(3) maintained in connection with providing protective services to the President of theUnited States or other individuals pursuant to section 3056 of title 18;
+&emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
 &emsp;(4) required by statute to be maintained and used solely as statistical records;
 
@@ -310,7 +310,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 &emsp;(F) procedures for the retention and timely destruction of identifiable records created by a recipient agency or non-Federal agency in such matching program;
 
-&emsp;(G) procedures for ensuring the administrative, technical, and physical security of therecords matched and the results of such programs;
+&emsp;(G) procedures for ensuring the administrative, technical, and physical security of the records matched and the results of such programs;
 
 &emsp;(H) prohibitions on duplication and redisclosure of records provided by the source agency within or outside the recipient agency or the non-Federal agency, except where required by law or essential to the conduct of the matching program;
 
@@ -380,7 +380,7 @@ Report on New Systems and Matching Programs.—Each agency that proposes to esta
 
 (s)
 
-Biennial Report.—The President shall biennially submit to the Speaker of the House ofRepresentatives and the President pro tempore of the Senate a report—
+Biennial Report.—The President shall biennially submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report—
 
 &emsp;(1) describing the actions of the Director of the Office of Management and Budget pursuant to section 6 of the Privacy Act of 1974 during the preceding 2 years;
 
@@ -488,11 +488,11 @@ Section 552a of former Title 5, Executive Departments and Government Officers an
 
 #### Amendments
 
-1993—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
+<b>1993</b>—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
 
-1990—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
+<b>1990</b>—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
 
-1988—Subsec. (a)(8) to (13). Pub. L. 100–503, §5, added pars. (8) to (13).
+<b>1988</b>—Subsec. (a)(8) to (13). Pub. L. 100–503, §5, added pars. (8) to (13).
 
 Subsec. (e)(12). Pub. L. 100–503, §3(a), added par. (12).
 
@@ -514,17 +514,17 @@ Subsec. (u). Pub. L. 100–503, §4, added subsec. (u).
 
 Subsec. (v). Pub. L. 100–503, §6(a), added subsec. (v).
 
-1984—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
+<b>1984</b>—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 98–497, §107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
 
 Subsec. (q). Pub. L. 98–477 designated existing provisions as par. (1) and added par. (2).
 
-1983—Subsec. (b)(12). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
+<b>1983</b>—Subsec. (b)(12). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
 Subsec. (m)(2). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
-1982—Subsec. (b)(12). Pub. L. 97–365, §2(a), added par. (12).
+<b>1982</b>—Subsec. (b)(12). Pub. L. 97–365, §2(a), added par. (12).
 
 Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or revision” for “at least annually” after “Federal Register”.
 
@@ -532,11 +532,11 @@ Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1
 
 Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
-1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
+<b>1975</b>—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -610,7 +610,7 @@ Section 7201(c) of Pub. L. 101–508 provided that: “Section 552a(p)(1)(A)(ii)
 
 Pub. L. 101–366, title II, §206(d), Aug. 15, 1990, 104 Stat. 442, provided that:
 
-“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, theamendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 \[Pub. L. 100–503\] (other than the amendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
+“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and PrivacyProtection Act of 1988 \[Pub. L. 100–503\] (other than the amendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
 
 “(2) For purposes of this subsection, the term ‘matching program’ has the same meaning provided in section 552a(a)(8) of title 5, United States Code.”
 
@@ -686,9 +686,13 @@ Section 7 of Pub. L. 93–579 provided that:
 
 Section 9 of Pub. L. 93–579, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
 
+#### Classified National Security Information
+
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 12958, §3.7, Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 section 2204b; title 10 sections 424, 1102, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections1080a, 1221e–1, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3718, 3729, 3733; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 3544, 9660; title 44 sections 2906, 3501, 3504; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 section 2204b; title 10 sections 424, 1102, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3718, 3729, 3733; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 3544, 9660; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

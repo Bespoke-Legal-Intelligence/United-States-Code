@@ -2,7 +2,7 @@
 
 #### (a) State reports
 
-Each State shall submit to the Secretary an annual report on the operation of the programunder this part in such State during the preceding year. Such report shall include such information as the Secretary may require by regulation.
+Each State shall submit to the Secretary an annual report on the operation of the program under this part in such State during the preceding year. Such report shall include such information as the Secretary may require by regulation.
 
 #### (b) Evaluation and dissemination
 
@@ -22,5 +22,5 @@ Each State shall submit to the Secretary an annual report on the operation of th
 
 &emsp;The Secretary may reserve up to 3 percent of the amount appropriated under section 1011h of this title to carry out this subsection.
 
-(Pub. L. 89 329, title I, §128, as added Pub. L. 102 325, title I, §101, July 23, 1992, 106 Stat. 464.)
+(Pub. L. 89–329, title I, §128, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 464.)
 

@@ -6,15 +6,15 @@ In accordance with an antitrust mutual assistance agreement in effect under this
 
 &emsp;(2) in enforcing any of such foreign antitrust laws.
 
-(Pub. L. 103 438, §2, Nov. 2, 1994, 108 Stat. 4597.)
+(Pub. L. 103–438, §2, Nov. 2, 1994, 108 Stat. 4597.)
 
 #### References in Text
 
-This chapter, referred to in text, was in original “this Act”, meaning Pub. L. 103 438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in original “this Act”, meaning Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 
-Section 1 of Pub. L. 103 438 provided that: “This Act \[enacting this chapter and amending sections 46, 57b 1, 1311, and 1312 of this title\] may be cited as the ‘International Antitrust Enforcement Assistance Act of 1994’.”
+Section 1 of Pub. L. 103–438 provided that: “This Act \[enacting this chapter and amending sections 46, 57b–1, 1311, and 1312 of this title\] may be cited as the ‘International Antitrust Enforcement Assistance Act of 1994’.”
 
 #### Section Referred to in Other Sections
 

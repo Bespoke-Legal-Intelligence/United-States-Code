@@ -1,0 +1,34 @@
+### §401. General powers of the Postal Service
+
+The Postal Service shall have the following general powers:
+
+&emsp;(1) to sue and be sued in its official name;
+
+&emsp;(2) to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;
+
+&emsp;(3) to enter into and perform contracts, execute instruments, and determine the character of, and necessity for, its expenditures;
+
+&emsp;(4) to determine and keep its own system of accounts and the forms and contents of its contracts and other business documents, except as otherwise provided in this title;
+
+&emsp;(5) to acquire, in any lawful manner, such personal or real property, or any interest therein, as it deems necessary or convenient in the transaction of its business; to hold, maintain, sell, lease, or otherwise dispose of such property or any interest therein; and to provide services in connection therewith and charges therefor;
+
+&emsp;(6) to construct, operate, lease, and maintain buildings, facilities, equipment, and other improvements on any property owned or controlled by it, including, without limitation, any property or interest therein transferred to it under section 2002 of this title;
+
+&emsp;(7) to accept gifts or donations of services or property, real or personal, as it deems, necessary or convenient in the transaction of its business;
+
+&emsp;(8) to settle and compromise claims by or against it;
+
+&emsp;(9) to exercise, in the name of the United States, the right of eminent domain for the furtherance of its official purposes; and to have the priority of the United States with respect to the payment of debts out of bankrupt, insolvent, and decedents’ estates; and
+
+&emsp;(10) to have all other powers incidental, necessary, or appropriate to the carrying on of its functions or the exercise of its specific powers.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722.)
+
+#### Effective Date
+
+Cls. (1) and (3) to (10) effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and cl. (2) effective Aug. 12, 1970. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to the Postmaster General, see Parts 1, 2, and 26 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+

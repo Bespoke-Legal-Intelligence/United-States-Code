@@ -36,5 +36,5 @@ The requirements that apply to the content of meal supplements served under chil
 
 #### Regulations
 
-Section 106(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
+Section 106(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agricultureshall issue final regulations to implement section 17A of the National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 

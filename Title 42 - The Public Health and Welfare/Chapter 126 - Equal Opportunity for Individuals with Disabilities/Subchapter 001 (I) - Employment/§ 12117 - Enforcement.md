@@ -16,5 +16,5 @@ The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 12203 of this title.
+This section is referred to in sections 1981a, 12203 of this title; title 2 section 1311.
 

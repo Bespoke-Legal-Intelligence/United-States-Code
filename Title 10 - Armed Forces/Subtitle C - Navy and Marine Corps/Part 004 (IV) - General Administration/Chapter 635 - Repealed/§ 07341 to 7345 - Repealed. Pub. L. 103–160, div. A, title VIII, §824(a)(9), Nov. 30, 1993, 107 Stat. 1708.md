@@ -1,4 +1,4 @@
-### \[§§7341 to 7345 . Repealed. Pub. L. 103–160, div. A, title VIII, §824(a)(9), Nov. 30, 1993, 107 Stat. 1708\]
+### \[§§7341 to 7345. Repealed. Pub. L. 103–160, div. A, title VIII, §824(a)(9), Nov. 30, 1993, 107 Stat. 1708\]
 
 Section 7341, act Aug. 10, 1956, ch. 1041, 70A Stat. 453, related to authorized number of naval airplanes and lighter-than-air crafts.
 

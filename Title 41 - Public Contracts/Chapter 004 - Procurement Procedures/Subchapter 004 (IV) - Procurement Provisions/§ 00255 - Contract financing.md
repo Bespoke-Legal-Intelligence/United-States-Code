@@ -36,7 +36,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 #### (f) Conditions for payments for commercial items
 
-(1) Payments under subsection (a) of this section for commercial items may be made under such terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+(1) Payments under subsection (a) of this section for commercial items may be made undersuch terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
 (2) Advance payments made under subsection (a) of this section for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
@@ -106,7 +106,7 @@ Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as
 
 #### Exemption of Functions
 
-Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, eff. May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
+Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, eff.May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
 
 #### Relationship to Prompt Payment Requirements
 

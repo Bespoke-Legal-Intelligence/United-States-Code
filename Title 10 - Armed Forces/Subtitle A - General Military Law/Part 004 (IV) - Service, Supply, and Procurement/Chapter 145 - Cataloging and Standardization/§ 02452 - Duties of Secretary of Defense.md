@@ -1,4 +1,4 @@
-### §2452 . Duties of Secretary of Defense
+### §2452. Duties of Secretary of Defense
 
 The Secretary of Defense shall—
 
@@ -74,7 +74,7 @@ Pub. L. 98–94, title XII, §1215, Sept. 24, 1983, 97 Stat. 688, as amended by 
 
 “(2) The Secretary may provide in such regulations for the waiver of the prohibition in subsection (a)(1) and compliance with the requirements of subsection (a)(2) in the case of a purchase of any spare part or replacement equipment made or to be made through competitive procedures.
 
-“(c) Not less than 30 days before the Secretary publishes such regulations in accordance with subsection\(b), the Secretary shall submit the text of the proposed regulations to the Committees on Armed Services of the Senate and House of Representatives.”
+“(c) Not less than 30 days before the Secretary publishes such regulations in accordance with subsection (b), the Secretary shall submit the text of the proposed regulations to the Committees on Armed Services of the Senate and House of Representatives.”
 
 #### Report on Management of Acquisition of Spare Parts
 

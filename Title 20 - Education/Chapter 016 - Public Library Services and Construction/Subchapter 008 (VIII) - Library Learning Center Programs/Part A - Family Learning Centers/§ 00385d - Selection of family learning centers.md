@@ -16,5 +16,5 @@ In making grants under this subchapter, the Secretary shall assure that there is
 
 No grant made under this subchapter for any fiscal year shall exceed $200,000.
 
-(June 19, 1956, ch. 407, title VIII, §805, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 109.)
+(June 19, 1956, ch. 407, title VIII, §805, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 109.)
 

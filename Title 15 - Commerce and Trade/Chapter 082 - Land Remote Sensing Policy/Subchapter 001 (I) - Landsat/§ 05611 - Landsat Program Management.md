@@ -6,7 +6,7 @@ The Administrator and the Secretary of Defense shall be responsible for manageme
 
 #### (b) Management plan
 
-The Administrator, the Secretary of Defense, and any other United States Government official the President designates as responsible for part of the Landsat program, shall establish, through a management plan, the roles, responsibilities, and funding expectations for the Landsat Program<sup>1</sup> of the appropriate UnitedStates Government agencies. The management plan shall—
+The Administrator, the Secretary of Defense, and any other United States Government official the President designates as responsible for part of the Landsat program, shall establish, through a management plan, the roles, responsibilities, and funding expectations for the Landsat Program <sup>1</sup> of the appropriate United States Government agencies. The management plan shall—
 
 &emsp;(1) specify that the fundamental goal of the Landsat Program Management is the continuity of unenhanced Landsat data through the acquisition and operation of a Landsat 7 satellite as quickly as practicable which is, at a minimum, functionally equivalent to the Landsat 6 satellite, with the addition of a tracking and data relay satellite communications capability;
 
@@ -70,23 +70,23 @@ The Landsat Program Management may, subject to appropriations and only under the
 
 &emsp;&emsp;&emsp;(iii) any recommendations for policy or programmatic changes to improve the utility and operation of the Landsat system.
 
-(Pub. L. 102 555, title I, §101, Oct. 28, 1992, 106 Stat. 4166.)
+(Pub. L. 102–555, title I, §101, Oct. 28, 1992, 106 Stat. 4166.)
 
 #### References in Text
 
-The Global Change Research Act of 1990, referred to in subsec. (c)(4), is Pub. L. 101 606, Nov. 16, 1990, 104 Stat. 3096, which is classified generally to chapter 56A (§2921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2921 of this title and Tables.
+The Global Change Research Act of 1990, referred to in subsec. (c)(4), is Pub. L. 101–606, Nov. 16, 1990, 104 Stat. 3096, which is classified generally to chapter 56A (§2921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2921 of this title and Tables.
 
 #### Landsat Remote-Sensing Satellite Program
 
-Pub. L. 103 139, title VIII, §8060, Nov. 11, 1993, 107 Stat. 1453, authorized Department of Defense to develop and procure the Landsat 7 vehicle, prior to repeal by Pub. L. 103 335, title VIII, §8051, Sept. 30, 1994, 108 Stat. 2629. Similar provisions were contained in the following prior acts:
+Pub. L. 103–139, title VIII, §8060, Nov. 11, 1993, 107 Stat. 1453, authorized Department of Defense to develop and procure the Landsat 7 vehicle, prior to repeal by Pub. L. 103–335, title VIII, §8051, Sept. 30, 1994, 108 Stat. 2629. Similar provisions were contained in the following prior acts:
 
-Pub. L. 102 484, div. A, title II, §243, Oct. 23, 1992, 106 Stat. 2360, as amended by Pub. L. 103 35, title II, §202(a)(3), May 31, 1993, 107 Stat. 101.
+Pub. L. 102–484, div. A, title II, §243, Oct. 23, 1992, 106 Stat. 2360, as amended by Pub. L. 103–35, title II, §202(a)(3), May 31, 1993, 107 Stat. 101.
 
-Pub. L. 102 396, title IX, §9082A, Oct. 6, 1992, 106 Stat. 1920.
+Pub. L. 102–396, title IX, §9082A, Oct. 6, 1992, 106 Stat. 1920.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5602, 5614 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -1,4 +1,4 @@
-### §3383 . Determinations; review procedures
+### §3383. Determinations; review procedures
 
 (a) An air traffic controller subject to a determination by the Secretary under section 3381(a) or section 3382 of this title, shall be furnished a written notice of the determination and the reasons therefor, and a notification that the controller has 15 days after the receipt of the notification within which to file a written request for reconsideration of the determination. Unless the controller files such a request within the 15 days, or unless the determination is rescinded by the Secretary within the 15 days, the determination shall be final.
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) a representative of the Merit Systems Protection Board, designated by the Chairman, who shall serve as chairman of the board of review.
 
-(c) The board of review shall review evidence supporting and inconsistent with the determination of the Secretary and, within a period of 30 days after being convened, shall issue its findings and furnish copies thereof to the Secretary and the controller. The board may approve orrescind the determination of the Secretary. A decision by the board under this subsection is final. The Secretary shall take such action as may be necessary to carry out the decision of the board.
+(c) The board of review shall review evidence supporting and inconsistent with the determination of the Secretary and, within a period of 30 days after being convened, shall issue its findings and furnish copies thereof to the Secretary and the controller. The board may approve or rescind the determination of the Secretary. A decision by the board under this subsection is final. The Secretary shall take such action as may be necessary to carry out the decision of the board.
 
 (d) Except as provided under section 3382 of this title, the review procedure of this section is in addition to any other review or appeal procedures provided under any other provision of law, but is the sole and exclusive administrative remedy available to a controller within the Executive agency in which such controller is employed.
 
@@ -22,13 +22,13 @@ For definition of Secretary, referred to in text, see section 2109 of this title
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–347, §1(b), substituted “Secretary under” for “Secretary of Transportation under”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–347, §1(b), substituted “Secretary under” for “Secretary of Transportation under”.
 
 Subsec. (b)(2). Pub. L. 96–347, §1(c)(2), substituted “the Executive agency in which the controller is employed” for “the Department of Transportation”.
 
 Subsec. (d). Pub. L. 96–347, §1(c)(3), substituted “within the Executive agency in which such controller is employed” for “within the Department of Transportation”.
 
-1978—Subsec. (b)(3). Pub. L. 95–454 substituted “Merit Systems Protection Board” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–454 substituted “Merit Systems Protection Board” for “Civil Service Commission”.
 
 #### Effective Date of 1980 Amendment
 

@@ -22,7 +22,7 @@
 
 #### (1) Limited examination of application
 
-&emsp;Within a period of 45 days from the date on which an application for an adjustment is filed under subsection (a), the Secretary shall make, to the extent he deems practicable in such period, a limited examination of the application to discover omissions and errors therein, and shall determine the amount of the adjustment upon the basis of the application and the examination; except that the Secretary may disallow, without further action,any application which he finds contains material omissions or errors which he deems cannot be corrected within such 45 days.
+&emsp;Within a period of 45 days from the date on which an application for an adjustment is filed under subsection (a), the Secretary shall make, to the extent he deems practicable in such period, a limited examination of the application to discover omissions and errors therein, and shall determine the amount of the adjustment upon the basis of the application and the examination; except that the Secretary may disallow, without further action, any application which he finds contains material omissions or errors which he deems cannot be corrected within such 45 days.
 
 #### (2) Adjustment credited or refunded
 

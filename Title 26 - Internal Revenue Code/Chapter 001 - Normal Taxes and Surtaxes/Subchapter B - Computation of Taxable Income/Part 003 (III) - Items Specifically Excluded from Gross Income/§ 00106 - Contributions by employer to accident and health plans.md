@@ -22,7 +22,7 @@ Subsec. (b)(1). Pub. L. 99–514, §1114(b)(1), substituted “highly compensate
 
 Section 7862(c)(1)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1161 of Title 29, Labor\] shall apply to years beginning after December 31, 1986.”
 
-Section 7863 of Pub. L. 101–239 provided that: “Except as otherwise provided in this subpart any amendment made by this subpart \[subpart A (§§7861–7863) of part V of title VII of Pub. L. 101–239, amending this section and sections 162, 411, 417, and 4980B of this title and sections 1052 to 1055, 1161, 1162, 1167, 1398, and 1461 of Title 29, Labor, enacting provisions set out as notes under this section and sections 162, 417, 1167, 4980, and 4980B of this title, and amending provisions set out as notes under sections 401 and 411 of this title and sections 1001 and 1054 of Title 29\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.”
+Section 7863 of Pub. L. 101–239 provided that: “Except as otherwise provided in this subpart any amendment made by this subpart \[subpart A (§§7861–7863) of part Vof title VII of Pub. L. 101–239, amending this section and sections 162, 411, 417, and 4980B of this title and sections 1052 to 1055, 1161, 1162, 1167, 1398, and 1461 of Title 29, Labor, enacting provisions set out as notes under this section and sections 162, 417, 1167, 4980, and 4980B of this title, and amending provisions set out as notes under sections 401 and 411 of this title and sections 1001 and 1054 of Title 29\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.”
 
 #### Effective Date of 1988 Amendment
 

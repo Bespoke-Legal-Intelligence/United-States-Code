@@ -1,0 +1,58 @@
+### §1331. Federal question
+
+The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
+
+(June 25, 1948, ch. 646, 62 Stat. 930; July 25, 1958, Pub. L. 85–554, §1, 72 Stat. 415; Oct. 21, 1976, Pub. L. 94–574, §2, 90 Stat. 2721; Dec. 1, 1980, Pub. L. 96–486, §2(a), 94 Stat. 2369.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, §1, 48 Stat. 775; Aug. 21, 1937, ch. 726, §1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+
+Jurisdiction of federal questions arising under other sections of this chapter is not dependent upon the amount in controversy. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq., §§30–43. See, also, reviser's note under section 1332 of this title.)
+
+Words “wherein the matter in controversy exceeds the sum or value of $3,000, exclusive of interest and costs,” were added to conform to rulings of the Supreme Court. See construction of provision relating to jurisdictional amount requirement in cases involving a Federal question in <i>United States v. Sayward</i>, 16 S.Ct. 371, 160 U.S. 493, 40 L.Ed. 508; <i>Fishback v. Western Union Tel. Co</i>., 16 S.Ct. 506, 161 U.S. 96, 40 L.Ed. 630; and <i>Halt v. Indiana Manufacturing Co</i>., 1900, 20 S.Ct. 272, 176 U.S. 68, 44 L.Ed. 374.
+
+Words “all civil actions” were substituted for “all suits of a civil nature, at common law or in equity” to conform with Rule 2 of the Federal Rules of Civil Procedure.
+
+Words “or treaties” were substituted for “or treaties made, or which shall be made under their authority,” for purposes of brevity.
+
+The remaining provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporated in sections 1332, 1341, 1342, 1345, 1354, and 1359 of this title.
+
+Changes were made in arrangement and phraseology.
+
+#### Amendments
+
+1980—Pub. L. 96–486 struck out “; amount in controversy; costs” in section catchline, struck out minimum amount in controversy requirement of $10,000 for original jurisdiction in federal question cases which necessitated striking the exception to such required minimum amount that authorized original jurisdiction in actions brought against the United States, any agency thereof, or any officer or employee thereof in an official capacity, struck out provision authorizing the district court except where express provision therefore was made in a federal statute to deny costs to a plaintiff and in fact impose such costs upon such plaintiff where plaintiff was adjudged to be entitled to recover less than the required amount in controversy, computed without regard to set-off or counterclaim and exclusive of interests and costs, and struck out existing subsection designations.
+
+1976—Subsec. (a). Pub. L. 94–574 struck out $10,000 jurisdictional amount where action is brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.
+
+1958—Pub. L. 85–554 included costs in section catchline, designated existing provisions as subsec. (a), substituted “$10,000” for “$3,000”, and added subsec. (b).
+
+#### Effective Date of 1980 Amendment; Applicability
+
+Section 4 of Pub. L. 96–486 provided: “This Act \[amending this section and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1 of this title\] shall apply to any civil action pending on the date of enactment of this Act \[Dec. 1, 1980\].”
+
+#### Effective Date of 1958 Amendment
+
+Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
+
+#### Cross References
+
+Controversies involving pollution of waters, jurisdiction of actions by States, see section 466g–1 of Title 33, Navigation and Navigable Waters.
+
+Convention on the Settlement of Investment Disputes, exclusive jurisdiction of district courts over actions and proceedings for enforcement of arbitration awards under the Convention, regardless of amount in controversy, see section 1650a of Title 22, Foreign Relations and Intercourse.
+
+Federal Deposit Insurance Corporation as party, see section 1819 of Title 12, Banks and Banking.
+
+Federal reserve bank as party, see section 632 of Title 12.
+
+International Finance Corporation as party, see section 282f of Title 22, Foreign Relations and Intercourse.
+
+International or foreign banking transactions, see section 632 of Title 12, Banks and Banking.
+
+Reclamation projects, compensation for rights-of-way, see section 945b of Title 43, Public Lands.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1441 of this title; title 15 section 2064; title 25 section 416a; title 42 section 405; title 49 section 10709.
+

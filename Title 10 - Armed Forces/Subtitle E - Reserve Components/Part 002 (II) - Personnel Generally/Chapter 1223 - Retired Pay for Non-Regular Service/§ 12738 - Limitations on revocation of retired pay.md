@@ -1,4 +1,4 @@
-### §12738 . Limitations on revocation of retired pay
+### §12738. Limitations on revocation of retired pay
 
 (a) After a person is granted retired pay under this chapter, or is notified in accordance with section 12731(d) of this title that the person has completed the years of service required for eligibility for retired pay under this chapter, the person's eligibility for retired pay may not be denied or revoked on the basis of any error, miscalculation, misinformation, or administrative determination of years of service performed as required by section 12731(a)(2) of this title, unless it resulted directly from the fraud or misrepresentation of the person.
 

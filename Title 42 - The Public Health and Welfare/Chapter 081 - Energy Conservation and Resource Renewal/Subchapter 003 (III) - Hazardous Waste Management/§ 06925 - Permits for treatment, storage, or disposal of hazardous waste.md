@@ -28,7 +28,7 @@ Each application for a permit under this section shall contain such information 
 
 &emsp;(ii) four years after November 8, 1984 (in the case of a facility referred to in subparagraph (B)).
 
-(3) Any permit under this section shall be for a fixed term, not to exceed 10 years in the case of any land disposal facility, storage facility, or incinerator or other treatment facility. Each permit for a land disposal facility shall be reviewed five years after date of issuance or reissuance and shall be modified as necessary toassure that the facility continues to comply with the currently applicable requirements of this section and section 6924 of this title. Nothing in this subsection shall preclude the Administrator from reviewing and modifying a permit at any time during its term. Review of any application for a permit renewal shall consider improvements in the state of control and measurement technology as well as changes in applicable regulations. Each permit issued under this section shall contain such terms and conditions as the Administrator (or the State) determines necessary to protect human health and the environment.
+(3) Any permit under this section shall be for a fixed term, not to exceed 10 years in the case of any land disposal facility, storage facility, or incinerator or other treatment facility. Each permit for a land disposal facility shall be reviewed five years after date of issuance or reissuance and shall be modified as necessary to assure that the facility continues to comply with the currently applicable requirements of this section and section 6924 of this title. Nothing in this subsection shall preclude the Administrator from reviewing and modifying a permit at any time during its term. Review of any application for a permit renewal shall consider improvements in the state of control and measurement technology as well as changes in applicable regulations. Each permit issued under this section shall contain such terms and conditions as the Administrator (or the State) determines necessary to protect human health and the environment.
 
 #### (d) Permit revocation
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a) through (e) of this section, any surface coal min
 
 &emsp;(B) shall provide for the receipt and treatment by the facility of only those types and quantities of hazardous waste which the Administrator deems necessary for purposes of determining the efficacy and performance capabilities of the technology or process and the effects of such technology or process on human health and the environment, and
 
-&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including, but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>3</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testingand providing of information to the Administrator with respect to the operation of the facility.
+&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including, but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>3</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testing and providing of information to the Administrator with respect to the operation of the facility.
 
 > The Administrator may apply the criteria set forth in this paragraph in establishing the conditions of each permit without separate establishment of regulations implementing such criteria.
 
@@ -138,7 +138,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (10) Any incremental cost attributable to the requirements of this subsection or section 6924(<i>o</i>) of this title shall not be considered by the Administrator (or the State, in the case of a State with an authorized program under section 1342 of title 33)—
 
-&emsp;(A) in establishing effluent limitations and standards under section 1311, 1314, 1316, 1317, or 1342 of title 33 based on effluent limitationsguidelines and standards promulgated any time before twelve months after November 8, 1984; or
+&emsp;(A) in establishing effluent limitations and standards under section 1311, 1314, 1316, 1317, or 1342 of title 33 based on effluent limitations guidelines and standards promulgated any time before twelve months after November 8, 1984; or
 
 &emsp;(B) in establishing any other effluent limitations to carry out the provisions of section 1311, 1317, or 1342 of title 33 on or before October 1, 1986.
 
@@ -160,7 +160,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 &emsp;(iii) such system utilizes activated sludge treatment in the first portion of secondary treatment.
 
-(C) For the purposes of this subsection, the term “underground source or <sup>5</sup> drinking water” has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
+(C) For the purposes of this subsection, the term “underground source or <sup>5</sup> drinking water”has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
 
 (13) The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984, has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
 

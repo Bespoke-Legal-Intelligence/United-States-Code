@@ -42,7 +42,7 @@ Findings.—Congress makes the following findings:
 
 Policy.—A member of the armed forces shall be separated from the armed forces under regulations prescribed by the Secretary of Defense if one or more of the following findings is made and approved in accordance with procedures set forth in such regulations:
 
-&emsp;(1) That the member has engaged in, attempted to engage in, or solicited another toengage in a homosexual act or acts unless there are further findings, made and approved in accordance with procedures set forth in such regulations, that the member has demonstrated that—
+&emsp;(1) That the member has engaged in, attempted to engage in, or solicited another to engage in a homosexual act or acts unless there are further findings, made and approved in accordance with procedures set forth in such regulations, that the member has demonstrated that—
 
 &emsp;&emsp;(A) such conduct is a departure from the member's usual and customary behavior;
 

@@ -1,4 +1,4 @@
-### §§44, 45 . Transferred
+### §§44, 45. Transferred
 
 #### Codification
 

@@ -2,14 +2,14 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 2451\. | Defense supply management. |
-| 2452\. | Duties of Secretary of Defense. |
-| 2453\. | Supply catalog: distribution and use. |
-| 2454\. | Supply catalog: new or obsolete items. |
+| [2451\.](%C2%A7%2002451%20-%20Defense%20supply%20management.md) | Defense supply management. |
+| [2452\.](%C2%A7%2002452%20-%20Duties%20of%20Secretary%20of%20Defense.md) | Duties of Secretary of Defense. |
+| [2453\.](%C2%A7%2002453%20-%20Supply%20catalog%20distribution%20and%20use.md) | Supply catalog: distribution and use. |
+| [2454\.](%C2%A7%2002454%20-%20Supply%20catalog%20new%20or%20obsolete%20items.md) | Supply catalog: new or obsolete items. |
 | \[2455. | Repealed.\] |
-| 2456\. | Coordination with General Services Administration. |
-| 2457\. | Standardization of equipment with North Atlantic Treaty Organization members. |
-| 2458\. | Inventory management policies. |
+| [2456\.](%C2%A7%2002456%20-%20Coordination%20with%20General%20Services%20Administration.md) | Coordination with General Services Administration. |
+| [2457\.](%C2%A7%2002457%20-%20Standardization%20of%20equipment%20with%20North%20Atlantic%20Treaty%20Organization%20members.md) | Standardization of equipment with North Atlantic Treaty Organization members. |
+| [2458\.](%C2%A7%2002458%20-%20Inventory%20management%20policies.md) | Inventory management policies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

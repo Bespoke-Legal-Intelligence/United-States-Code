@@ -16,7 +16,7 @@ The Secretary of the Interior, in consultation with the Landsat Program Manageme
 
 #### (c) Determination of content of basic data set
 
-In determining the initial content of, or in upgrading, the basic data set, the Secretary of<sup>1</sup> Interior shall—
+In determining the initial content of, or in upgrading, the basic data set, the Secretary of <sup>1</sup> Interior shall—
 
 &emsp;(1) use as a baseline the data archived on October 28, 1992;
 
@@ -36,11 +36,11 @@ In determining the initial content of, or in upgrading, the basic data set, the 
 
 After the expiration of any exclusive right to sell, or after relinquishment of such right, the data provided to the National Satellite Land Remote Sensing Data Archive shall be in the public domain and shall be made available to requesting parties by the Secretary of the Interior at the cost of fulfilling user requests.
 
-(Pub. L. 102 555, title V, §502, Oct. 28, 1992, 106 Stat. 4176.)
+(Pub. L. 102–555, title V, §502, Oct. 28, 1992, 106 Stat. 4176.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5602 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

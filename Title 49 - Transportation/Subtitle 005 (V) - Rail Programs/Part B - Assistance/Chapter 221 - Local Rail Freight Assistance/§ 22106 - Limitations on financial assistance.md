@@ -14,7 +14,7 @@ Payment of Unused Money and Accumulated Interest.—The State may pay the Secret
 
 (d)
 
-Encouraging Participation.—To the maximum extent possible, the State shall encourage the participation of shippers, rail carriers, and local communities in paying the State share of assistance costs.
+Encouraging Participation.—To the maximum extent possible, the State shall encourage the participation of shippers, rail carriers, andlocal communities in paying the State share of assistance costs.
 
 (e)
 

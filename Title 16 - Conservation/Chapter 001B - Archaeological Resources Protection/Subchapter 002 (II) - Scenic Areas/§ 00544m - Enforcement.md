@@ -12,7 +12,7 @@
 
 #### (3) Civil penalties
 
-&emsp;Any person or entity who willfully violates the management plan or any land use ordinance or any implementation measure or any order issued by the Commission pursuant to sections 544 to 544p of this title may be assessed a civil penalty by the Commission not to exceed $10,000 for each violation. No penalty may be assessed under this subsection unlesssuch person or entity is given notice and opportunity for a public hearing with respect to such violation. The Commission may compromise, modify, or remit, with or without conditions, any penalty imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the violator to remedy the violation in a timely manner.
+&emsp;Any person or entity who willfully violates the management plan or any land use ordinance or any implementation measure or any order issued by the Commission pursuant to sections 544 to 544p of this title may be assessed a civil penalty by the Commission not to exceed $10,000 for each violation. No penalty may be assessed under this subsection unless such person or entity is given notice and opportunity for a public hearing with respect to such violation. The Commission may compromise, modify, or remit, with or without conditions, any penalty imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the violator to remedy the violation in a timely manner.
 
 #### (b) Judicial remedies
 
@@ -20,7 +20,7 @@
 
 &emsp;(A) Except as otherwise limited by sections 544 to 544p of this title, the Attorney General of the United States may, at the request of the Secretary, institute a civil action for an injunction or other appropriate order to prevent any person or entity from utilizing lands within the special management areas in violation of the provisions of sections 544 to 544p of this title, interim guideline adopted or other action taken by the Secretary pursuant to sections 544 to 544p of this title.
 
-&emsp;(B) The Commission, or, at the request of the Commission, or the attorney general of Oregon or Washington, may institute a civil action for an injunction or other appropriate order to prevent any person or entity from utilizing lands within the scenic area outside urban areas in violation of the provisions of sections 544 to 544p of this title, the management plan, or any land use ordinance or interim guideline adopted or other action taken by the Commission or any county pursuant to sections 544 to 544p of this title.
+&emsp;(B) The Commission, or, at the request of the Commission, or the attorney general ofOregon or Washington, may institute a civil action for an injunction or other appropriate order to prevent any person or entity from utilizing lands within the scenic area outside urban areas in violation of the provisions of sections 544 to 544p of this title, the management plan, or any land use ordinance or interim guideline adopted or other action taken by the Commission or any county pursuant to sections 544 to 544p of this title.
 
 #### (2) Citizens suits
 

@@ -110,7 +110,7 @@ Subsec. (a) is derived from subsec. (r) of former section 264 of this title. See
 
 1991—Subsec. (h). Pub. L. 102–242 added subsec. (h).
 
-1989—Subsec. (a). Pub. L. 101–73, §220(a)(1), added heading and text and struck out former subsec. (a) which read as follows: “The Corporation shall annually make a report of its operations to the Congress as soon as practicable after the 1st day of January in each year.”
+1989—Subsec. (a). Pub. L. 101–73, §220(a)(1), added heading and text and struck out former subsec. (a) which read as follows: “The Corporation shall annuallymake a report of its operations to the Congress as soon as practicable after the 1st day of January in each year.”
 
 Subsecs. (b) to (g). Pub. L. 101–73, §220(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (d) as (e) to (g), respectively.
 

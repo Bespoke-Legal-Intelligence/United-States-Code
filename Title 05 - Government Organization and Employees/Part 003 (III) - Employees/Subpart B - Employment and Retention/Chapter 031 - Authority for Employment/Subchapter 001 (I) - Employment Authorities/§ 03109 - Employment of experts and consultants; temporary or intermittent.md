@@ -54,13 +54,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Subsecs. (d), (e). Pub. L. 102–378 added subsecs. (d) and (e).
+<b>1992</b>—Subsecs. (d), (e). Pub. L. 102–378 added subsecs. (d) and (e).
 
-1988—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1982—Subsec. (a)(2). Pub. L. 97–258 substituted “section 9104” for “section 849”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–258 substituted “section 9104” for “section 849”.
 
-1978—Subsec. (c). Pub. L. 95–454 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 added subsec. (c).
 
 #### Effective Date of 1978 Amendment
 
@@ -120,15 +120,9 @@ Pub. L. 102–377, title V, §504, Oct. 2, 1992, 106 Stat. 1342, provided that: 
 
 #### Cross References
 
-Employment of experts or consultants by Director of the Administrative Office of the United States Courts, see note set out under section 602 of Title 28, Judiciary and Judicial Procedure.
-
-General Accounting Office authorized to credit accounts of the special disbursing agent of Saint Elizabeths Hospital with certain amounts, notwithstanding this section, see section 168 of Title 24, Hospitals and Asylums.
-
-International Health Research Act of 1960, application of section to, see sections 2102 and 2103 of Title 22, Foreign Relations and Intercourse, and section 242<i>l</i> of Title 42, The Public Health and Welfare.
-
 Travel expenses of consultants or experts, see section 5703 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 595, 5102, 7342, 8474 of this title; title 2 sections 136c, 179h, 1108; title 3 sections 105, 106, 107, 108; title 7 sections 16, 2225a, 5902; title 10 section 129b; title 12 section 2405; title 15 sections 205i, 634d, 636, 2206, 2218, 2451, 4105, 4805; title 16 sections 410cc–36, 410ww–24, 410yy–8, 410ccc–22, 460zz–2, 469b, 469j, 470m, 825q–1, 1052, 1406; title 18 sections 3153, 3168, 4204, 4352; title 19 sections 1331, 2171; title 20 sections 959, 1098, 1213c, 1221e–1, 1233d, 1505, 2012, 2106, 2839, 3413, 3425, 3462, 3463, 3702, 4355, 4414, 4513, 4710, 5608, 5708, 5826, 5848, 5933, 6031; title 21 sections 1305, 1502; title 22 sections 272a, 277d–3, 280b, 280i, 280k, 290b, 290f, 290h–5, 1469, 1474, 1622d, 2024, 2083, 2102, 2103, 2386, 2512, 2581, 2669, 2873, 2905, 3106, 3712, 4308, 4341, 4832; title 25 sections 640d–11, 2707, 3505; title 28 sections 602, 625, 994; title 29 sections 656, 671, 676, 783, 1302, 1774; title 30 section 1807; title 31 sections 332, 731, 1352, 5112; title 36 section 1404; title 38 section 7281; title 40 sections 71a, 822, 873, 1106; title 41 section 422; title 42 sections 242b, 242<i>l</i>, 282, 285a–2, 285b–3, 290aa, 299c–4, 300v–2, 904, 1320b–9, 1962a–4, 1975b, 1975d, 2286b, 2473, 3211, 3788, 4276, 4343, 5149, 5612, 5816, 6616, 7171, 7211, 7233, 10163, 10248, 10267, 10412, 11314, 12651f, 14196; title 43 section 377b; title 44 sections 2105, 2706, 3319, 3520; title 47 section 154; title 49 sections 323, 1113, 10384, 31134; title 50 App. section 2158.
+This section is referred to in sections 595, 5102, 7342, 8474 of this title; title 2 sections 136c, 179h, 1108, 1553;title 3 sections 105, 106, 107, 108; title 7 sections 16, 2225a, 5902; title 10 section 129b; title 12 section 2405; title 15 sections 205i, 634d, 636, 2206, 2218, 2451, 4105, 4805; title 16 sections 410cc–36, 410ww–24, 410yy–8, 410ccc–22, 460zz–2, 469b, 469j, 470m, 825q–1, 1052, 1406; title 18 sections 3153, 3168, 4204, 4352; title 19 sections 1331, 2171; title 20 sections 959, 1098, 1213c, 1505, 2012, 2106, 3413, 3425, 3462, 3463, 3702, 4355, 4414, 4513, 4710, 5608, 5708, 5826, 5848, 5933, 6031; title 21 sections 1305, 1502; title 22 sections 272a, 277d–3, 280b, 280i, 280k, 290b, 290f, 290h–5, 1469, 1474, 1622d, 2024, 2083, 2102, 2103, 2386, 2512, 2581, 2669, 2905, 3106, 3712, 4308, 4341, 4832; title 25 sections 640d–11, 2707, 3505; title 28 sections 602, 625, 994; title 29 sections 656, 671, 676, 783, 1302, 1774; title 30 section 1807; title 31 sections 332, 731, 1352, 5112; title 36 section 1404; title 38 section 7281; title 40 sections 71a, 822, 873, 1106; title 41 section 422; title 42 sections 242b, 242<i>l</i>, 282, 285a–2, 285b–3, 290aa, 299c–4, 300v–2, 904, 1320b–9, 1962a–4, 1975b, 2286b, 2473, 3211, 3788, 4276, 4343, 5149, 5612, 5816, 6616, 7171, 7211, 7233, 10163, 10248, 10267, 10412, 11314, 12651f, 14196; title 43 section 377b; title 44 sections 2105, 2706, 3319; title 47 section 154; title 49 sections 323, 1113, 31134; title 50 App. section 2158.
 

@@ -4,7 +4,7 @@
 
 (1) Nothing in this subchapter shall be construed to supersede, limit, or otherwise affect administration and enforcement of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or to limit the applicability of the National Trails System Act \[16 U.S.C. 1241 et seq.\] to any lands within the conservation area.
 
-(2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], or the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
+(2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act\[16 U.S.C. 470 et seq.\], the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], or the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
 (3) Nothing in this subchapter shall be construed as by itself altering the status of any lands that on August 4, 1993, were not managed by the Bureau of Land Management.
 

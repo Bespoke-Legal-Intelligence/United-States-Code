@@ -20,7 +20,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 (3) No such action shall be brought or maintained against any person other than the recipient of such compensation or payments, and no damages or other relief shall be granted against any person other than the recipient of such compensation or payments. No award of damages shall be recoverable for any period prior to one year before the action was instituted. Any award of damages against such recipient shall be limited to the actual damages resulting from the breach of fiduciary duty and shall in no event exceed the amount of compensation or payment received from such investment company, or the security holders thereof, by such recipient.
 
-(4) This subsection shall not apply to compensation or payments made in connection with transactions subject to section 80a–17 of this title, or rules, regulations, or orders thereunder,or to sales loads for the acquisition of any security issued by a registered investment company.
+(4) This subsection shall not apply to compensation or payments made in connection with transactions subject to section 80a–17 of this title, or rules, regulations, or orders thereunder, or to sales loads for the acquisition of any security issued by a registered investment company.
 
 (5) Any action pursuant to this subsection may be brought only in an appropriate district court of the United States.
 

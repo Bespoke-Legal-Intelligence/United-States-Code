@@ -27,7 +27,6 @@
 
 - [Chapter 025 - Amendment and Correction of Patents](Chapter%20025%20-%20Amendment%20and%20Correction%20of%20Patents/README.md)
 - [Chapter 026 - Ownership and Assignment](Chapter%20026%20-%20Ownership%20and%20Assignment/README.md)
-- [Chapter 026 - Ownership and Assignment (2)](Chapter%20026%20-%20Ownership%20and%20Assignment%20%282%29/README.md)
 - [Chapter 027 - Government Interests in Patents](Chapter%20027%20-%20Government%20Interests%20in%20Patents/README.md)
 - [Chapter 028 - Infringement of Patents](Chapter%20028%20-%20Infringement%20of%20Patents/README.md)
 - [Chapter 029 - Remedies for Infringement of Patent, and Other Actions](Chapter%20029%20-%20Remedies%20for%20Infringement%20of%20Patent%2C%20and%20Other%20Actions/README.md)

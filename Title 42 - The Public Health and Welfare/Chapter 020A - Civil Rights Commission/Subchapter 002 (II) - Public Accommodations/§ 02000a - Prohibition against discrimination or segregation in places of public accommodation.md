@@ -8,7 +8,7 @@ All persons shall be entitled to the full and equal enjoyment of the goods, serv
 
 Each of the following establishments which serves the public is a place of public accommodation within the meaning of this subchapter if its operations affect commerce, or if discrimination or segregation by it is supported by State action:
 
-&emsp;(1) any inn, hotel, motel, or other establishment which provides lodging to transient guests, other than an establishment located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor of such establishment as his residence;
+&emsp;(1) any inn, hotel, motel, or other establishment which provides lodging to transientguests, other than an establishment located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor of such establishment as his residence;
 
 &emsp;(2) any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility principally engaged in selling food for consumption on the premises, including, but not limited to, any such facility located on the premises of any retail establishment; or any gasoline station;
 

@@ -32,7 +32,7 @@ In reviewing applications for grants and contracts under section 5667c(a) of thi
 
 &emsp;(1) submitted by, or substantially involving, community-based organizations experienced in providing services to juveniles;
 
-&emsp;(2) based on the incidence and severity of crimes committed by gangs whose membership is composed primarily of juveniles in the geographical area in which the applicants proposeto carry out the programs and activities for which such grants and contracts are requested; and
+&emsp;(2) based on the incidence and severity of crimes committed by gangs whose membership is composed primarily of juveniles in the geographical area in which the applicants propose to carry out the programs and activities for which such grants and contracts are requested; and
 
 &emsp;(3) for assistance for programs and activities that—
 

@@ -8,7 +8,7 @@ The Secretary shall develop and implement written procedures for receiving, inve
 
 Such resolution may be appealed by an interested party to the Secretary not later than 30 days after the State educational agency resolves the complaint or fails to resolve the complaint within a reasonable period of time. Such appeal shall be accompanied by a copy of the State educational agency's resolution, and a complete statement of the reasons supporting the appeal. The Secretary shall investigate and resolve each such appeal not later than 120 days after receipt of the appeal.
 
-(Pub. L. 89 10, title XIV, §14505, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3904.)
+(Pub. L. 89–10, title XIV, §14505, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3904.)
 
 #### Section Referred to in Other Sections
 

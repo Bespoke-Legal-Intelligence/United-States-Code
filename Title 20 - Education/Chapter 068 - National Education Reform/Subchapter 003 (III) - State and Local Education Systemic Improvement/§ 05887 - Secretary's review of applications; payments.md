@@ -10,7 +10,7 @@ The Secretary shall approve the State educational agency's first year applicatio
 
 #### (b) Second through fifth years
 
-The Secretary shall approve the State educational agency's second year application undersection 5885(c)(1) of this title for the second through fifth years of participation only if—
+The Secretary shall approve the State educational agency's second year application under section 5885(c)(1) of this title for the second through fifth years of participation only if—
 
 &emsp;(1)(A) the Secretary has approved the State improvement plan under section 5886(n) of this title; or
 
@@ -22,5 +22,5 @@ The Secretary shall approve the State educational agency's second year applicati
 
 For any fiscal year for which a State has an approved application under this subchapter, the Secretary shall provide an allotment to the State educational agency in the amount determined under section 5884(b) of this title.
 
-(Pub. L. 103 227, title III, §307, Mar. 31, 1994, 108 Stat. 167.)
+(Pub. L. 103–227, title III, §307, Mar. 31, 1994, 108 Stat. 167.)
 

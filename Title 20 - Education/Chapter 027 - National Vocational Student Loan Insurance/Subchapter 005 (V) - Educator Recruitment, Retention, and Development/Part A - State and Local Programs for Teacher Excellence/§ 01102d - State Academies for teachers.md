@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) does not require a separate location from another Academy or other training program; and
 
-&emsp;&emsp;(B) the term “eligible entity” means a local educational agency, an institution ofhigher education, a museum, a private nonprofit educational organization of demonstrated effectiveness, or a consortium of any 2 or more of such entities.
+&emsp;&emsp;(B) the term “eligible entity” means a local educational agency, an institution of higher education, a museum, a private nonprofit educational organization of demonstrated effectiveness, or a consortium of any 2 or more of such entities.
 
 #### (b) Application required
 
@@ -106,7 +106,7 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 #### (e) Cost sharing
 
-Funds received for this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this section, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remaining share shall be provided from non-Federal sources, and may be in cash or in-kind contributions, fairly valued.
+Funds received for this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this section, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remainingshare shall be provided from non-Federal sources, and may be in cash or in-kind contributions, fairly valued.
 
 #### (f) Special rules
 
@@ -114,7 +114,7 @@ Funds received for this section may be used to pay not more than 75 percent of t
 
 #### (A) Key academic subjects
 
-&emsp;&emsp;At least 70 percent of funds received for this section shall be used for enhancement ofparticipant knowledge in key academic subjects.
+&emsp;&emsp;At least 70 percent of funds received for this section shall be used for enhancement of participant knowledge in key academic subjects.
 
 #### (B) Other subjects
 
@@ -172,15 +172,15 @@ Funds received for this section may be used to pay not more than 75 percent of t
 
 &emsp;&emsp;&emsp;(VII) other criteria as developed by the Academies and approved by the State educational agency.
 
-(Pub. L. 89 329, title V, §505, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 663; amended Pub. L. 103 208, §2(j)(1), Dec. 20, 1993, 107 Stat. 2480.)
+(Pub. L. 89–329, title V, §505, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 663; amended Pub. L. 103–208, §2(j)(1), Dec. 20, 1993, 107 Stat. 2480.)
 
 #### Amendments
 
-1993—Subsec. (b)(2)(D)(iii). Pub. L. 103 208 substituted semicolon for period at end.
+1993—Subsec. (b)(2)(D)(iii). Pub. L. 103–208 substituted semicolon for period at end.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Section Referred to in Other Sections
 

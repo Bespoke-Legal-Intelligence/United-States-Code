@@ -60,13 +60,13 @@
 
 &emsp;Any local plan referred to in paragraph (1) may, if necessary, be submitted as an amendment to the local educational agency's improvement plan under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
 
-(Pub. L. 89 10, title XIV, §14307, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3898.)
+(Pub. L. 89–10, title XIV, §14307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3898.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in section catchline and text, is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in section catchline and text, is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The School-to-Work Opportunities Act of 1994, referred to in subsec. (a)(1), is Pub. L. 103 239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The School-to-Work Opportunities Act of 1994, referred to in subsec. (a)(1), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(1), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 

@@ -50,7 +50,7 @@ Funds provided under this chapter shall only be used for activities which are in
 
 #### (e) Area eligibility; limited exceptions; agreements
 
-(1) Only eligible individuals residing in the service delivery area may be served by employment and training activities funded under subchapter II of this chapter, except that the jobtraining plan may provide for limited exceptions to this requirement, including exceptions necessary to permit services to homeless individuals who cannot prove residence within the service delivery area.
+(1) Only eligible individuals residing in the service delivery area may be served by employment and training activities funded under subchapter II of this chapter, except that the job training plan may provide for limited exceptions to this requirement, including exceptions necessary to permit services to homeless individuals who cannot prove residence within the service delivery area.
 
 (2) Any service delivery area may enter into an agreement or contract with another service delivery area (including a service delivery area that is a city or county within the same labor market) to pay or share the cost of educating, training, or placing individuals participating in programs assisted under this chapter, including the provision of supportive services. Such agreement or contract shall be approved by each private industry council providing guidance to the service delivery area and shall be described in the job training plan under section 1514 of this title.
 
@@ -112,7 +112,7 @@ The Secretary shall not provide financial assistance for any program under this 
 
 #### (n) Notification of service delivery area activity
 
-The Secretary shall notify the Governor and the appropriate private industry councils and chief elected officials of, and consult with the Governor and such councils and officials concerning, any activity to be funded by the Secretary under this chapter within the State or service delivery area; and the Governor shall notify the appropriate private industry councils and chief elected officials of, and consult with such concerning, any activity to be funded by the Governor under this chapter within the service delivery area.
+The Secretary shall notify the Governor and the appropriate private industry councils andchief elected officials of, and consult with the Governor and such councils and officials concerning, any activity to be funded by the Secretary under this chapter within the State or service delivery area; and the Governor shall notify the appropriate private industry councils and chief elected officials of, and consult with such concerning, any activity to be funded by the Governor under this chapter within the service delivery area.
 
 #### (<i>o</i>) State and local education standards applicable
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Job Training Regulations
 
-Section 7 of Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2491, provided that: “Notwithstanding section 629.38(e)(2)(iii) of title 20 of the Code of Federal Regulations, relating to allowable training costs under the Job Training Partnership Act \[this chapter\], payment for training packages purchased competitively pursuant to section 141(d)(3) of such Act \[29 U.S.C. 1536(d)(3)\] in the case of youth shall include payment for the full unit price if the training results in either placement in unsubsidized employment or the attainment of an outcome specified in section 106(b)(2) of such Act \[29 U.S.C. 1516(b)(2)\].”
+Section 7 of Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2491, provided that: “Notwithstanding section 629.38(e)(2)(iii)of title 20 of the Code of Federal Regulations, relating to allowable training costs under the Job Training Partnership Act \[this chapter\], payment for training packages purchased competitively pursuant to section 141(d)(3) of such Act \[29 U.S.C. 1536(d)(3)\] in the case of youth shall include payment for the full unit price if the training results in either placement in unsubsidized employment or the attainment of an outcome specified in section 106(b)(2) of such Act \[29 U.S.C. 1516(b)(2)\].”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Volunteer activities; limitation
 
-The Director shall prescribe regulations and shall carry out the provisions of this chapter soas to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers and which will not supplant the hiring of or result in the displacement of employed workers, or impair existing contracts for service.
+The Director shall prescribe regulations and shall carry out the provisions of this chapter so as to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers and which will not supplant the hiring of or result in the displacement of employed workers, or impair existing contracts for service.
 
 #### (b) Support costs
 

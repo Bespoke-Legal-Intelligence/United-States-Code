@@ -94,7 +94,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 #### (g) Performance of personal services
 
-The contracts authorized under section 450f of this title and grants pursuant to section 450h of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employeesincluding, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
+The contracts authorized under section 450f of this title and grants pursuant to section 450h of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
 
 #### (h) Fair and uniform provision by tribal organization of services and assistance to covered Indians
 
@@ -162,7 +162,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(iv) In the case of a fixed-price contract, a fair profit determined by taking into consideration the relevant risks and local market conditions.
 
-&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity for an appeal pursuant to section 450f(b) of this title).
+&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity foran appeal pursuant to section 450f(b) of this title).
 
 #### (n) Rental rates for housing for Government employees in Alaska
 
@@ -188,7 +188,7 @@ The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), proba
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a noteunder section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -214,7 +214,7 @@ Subsecs. (i) to (n). Pub. L. 103–413, §102(13), added subsecs. (i) to (n).
 
 1990—Subsec. (a). Pub. L. 101–301 substituted “sub-contracts of such a construction contract” for “sub-contracts in such cases where the tribal contractor has sub-contracted the activity”.
 
-Subsec. (c)(1)(B). Pub. L. 101–644, §203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
+Subsec. (c)(1)(B). Pub. L. 101–644, §203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “for an indefinite term in the case of a mature contract.”
 
 Subsec. (d). Pub. L. 101–644, §203(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 

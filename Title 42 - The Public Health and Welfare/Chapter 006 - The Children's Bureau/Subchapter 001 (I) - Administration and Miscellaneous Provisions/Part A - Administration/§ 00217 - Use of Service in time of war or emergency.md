@@ -30,15 +30,15 @@ Ex. Ord. No. 10349, eff. Apr. 28, 1952, 17 F.R. 3769, superseded Ex. Ord. No. 95
 
 #### Executive Order No. 10356
 
-Ex. Ord. No. 10356, eff. June 2, 1952, 17 F.R. 4967, amended Ex. Ord. No. 10349, and extended from June 1, 1952, to June 15, 1952 the period during which the Commissioned Corps of the Public Health Service was subject to the provisions of the Uniform Code of Military justice.
+Ex. Ord. No. 10356, eff. June 2, 1952, 17 F.R. 4967, amended Ex. Ord. No. 10349, and extended from June 1, 1952, to June 15, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the provisions of the Uniform Code of Military justice.
 
 #### Executive Order No. 10362
 
-Ex. Ord. No. 10362, eff. June 14, 1952, 17 F.R. 5413, amended Ex. Ord. No. 10356, and extended from June 15, 1952 to June 30, 1952 the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
+Ex. Ord. No. 10362, eff. June 14, 1952, 17 F.R. 5413, amended Ex. Ord. No. 10356, and extended from June 15, 1952, to June 30, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
 
 #### Executive Order No. 10367
 
-Ex. Ord. No. 10367, eff. June 30, 1952, 17 F.R. 5929, amended Ex. Ord. No. 10362, and extended from June 30, 1952 to July 3, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
+Ex. Ord. No. 10367, eff. June 30, 1952, 17 F.R. 5929, amended Ex. Ord. No. 10362, and extended from June 30,1952, to July 3, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
 
 #### Cross References
 

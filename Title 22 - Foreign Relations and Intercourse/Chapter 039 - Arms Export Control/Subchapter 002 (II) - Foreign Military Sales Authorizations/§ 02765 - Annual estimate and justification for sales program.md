@@ -74,7 +74,7 @@ Pub. L. 99–83, §113(2), added subsec. (d) relating to transmittal of informat
 
 1981—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no later than Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
 
-Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of this section. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
+Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of thissection. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
 
 Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title, covered in par. (5).
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 97–113 incorporated, in subsec. (a) introductory text and
 
 1980—Subsec. (a)(3) to (5). Pub. L. 96–533, §104(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (d)(1). Pub. L. 96–533, §107(d), included coverage of licensed commercial exports and substituted“letter of offer or of an export license” for “letter of offer”.
+Subsec. (d)(1). Pub. L. 96–533, §107(d), included coverage of licensed commercial exports and substituted “letter of offer or of an export license” for “letter of offer”.
 
 1979—Subsec. (d). Pub. L. 96–92, §13(1)–(4), designated existing provision as par. (1), substituted “major weapons or weapons-related defense equipment” for “major defense equipment” and “weapons or weapons-related defense equipment” for “defense articles or defense services”, required identification of sales likely to result in issuance of a letter of offer in the furnished reports, and added par. (2).
 
@@ -114,7 +114,7 @@ Subsec. (d). Pub. L. 95–384, §18(a), added subsec. (d).
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

@@ -4,5 +4,5 @@ Section, acts July 1, 1954, ch. 445, §2, 68 Stat. 360; June 21, 1955, ch. 169, 
 
 #### Actions Commenced Prior to October 11, 1962
 
-Section 257(f) of Pub. L. 87–794 provided in part that: “Any action (including any investigation begun) under section 2 \[section 1352a of this title\] before the date ofthe enactment of this Act \[Oct. 11, 1962\] shall be considered as having been taken or begun under section 232 \[section 1862 of this title\].”
+Section 257(f) of Pub. L. 87–794 provided in part that: “Any action (including any investigation begun) under section 2 \[section 1352a of this title\] before the date of the enactment of this Act \[Oct. 11, 1962\] shall be considered as having been taken or begun under section 232 \[section 1862 of this title\].”
 

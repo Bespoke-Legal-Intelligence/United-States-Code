@@ -6,7 +6,7 @@
 
 (2) If a private landowner consents to the inclusion in an agreement of the stipulations provided in subsections (b)(1), (b)(2), (b)(4), (b)(5), and (b)(7) of this section, and if such owner does not insist on any additional terms which are unacceptable to the Secretary or the State, as appropriate, the owner shall be entitled to enter into an agreement pursuant to this section. If an agreement is not executed within one hundred and twenty days of the date on which a private landowner communicates in writing his consent to the stipulations referred to in the preceding sentence, the appropriate Secretary or State agency head shall execute an agreement. Upon such execution, the private owner shall receive the benefits provided in subsection (c) hereof.
 
-(3) No agreement under this section shall be construed as affecting any land, or any right or interest in land, of any owner not a party to such agreement.
+(3) No agreement under this section shall be construed as affecting any land, or any right orinterest in land, of any owner not a party to such agreement.
 
 #### (b) Terms of agreement
 
@@ -78,7 +78,7 @@ Definitions.—(A) For purposes of this subsection, the term—
 
 &emsp;&emsp;(II) the receipt of fees related to hunting, fishing, and guiding activities conducted on such land;
 
-&emsp;(ii) land upon which timber resources are being harvested shall be considered developedonly during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation; and
+&emsp;(ii) land upon which timber resources are being harvested shall be considered developed only during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation; and
 
 &emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel.
 

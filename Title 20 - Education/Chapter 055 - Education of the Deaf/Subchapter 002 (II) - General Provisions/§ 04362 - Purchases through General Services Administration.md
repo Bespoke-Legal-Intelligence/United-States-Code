@@ -2,7 +2,7 @@
 
 On and after September 8, 1978, Gallaudet University and the National Technical Institute for the Deaf are authorized to make purchases through the General Services Administration.
 
-(Pub. L. 95 355, title I, §100, Sept. 8, 1978, 92 Stat. 531; Pub. L. 99 371, title I, §101(a), Aug. 4, 1986, 100 Stat. 781.)
+(Pub. L. 95–355, title I, §100, Sept. 8, 1978, 92 Stat. 531; Pub. L. 99–371, title I, §101(a), Aug. 4, 1986, 100 Stat. 781.)
 
 #### Codification
 
@@ -12,5 +12,5 @@ Section, as it relates to Gallaudet University, was formerly classified to secti
 
 #### Change of Name
 
-“Gallaudet University” substituted in text for “Gallaudet College” pursuant to section 101(a) of Pub. L. 99 371, which is classified to section 4301(a) of this title.
+“Gallaudet University” substituted in text for “Gallaudet College” pursuant to section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of this title.
 

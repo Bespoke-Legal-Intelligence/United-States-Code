@@ -2,7 +2,7 @@
 
 As used in this chapter:
 
-(1) the<sup>1</sup> term “Administrator” means the Administrator of the Environmental Protection Agency.
+(1) the <sup>1</sup> term “Administrator” means the Administrator of the Environmental Protection Agency.
 
 (2)(A) Except as provided in subparagraph (B), the term “chemical substance” means any organic or inorganic substance of a particular molecular identity, including—
 
@@ -32,7 +32,7 @@ As used in this chapter:
 
 (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
-(6) The term “health and safety study” means any study of any effect of a chemical substance or mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
+(6) The term “health and safety study” means any study of any effect of a chemical substanceor mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
 
 (7) The term “manufacture” means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 
@@ -70,11 +70,11 @@ As used in this chapter:
 
 (14) The term “United States”, when used in the geographic sense, means all of the States.
 
-(Pub. L. 94 469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99 514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100 418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156.)
+(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156.)
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92 516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapterII (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
@@ -84,13 +84,13 @@ For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Compa
 
 #### Amendments
 
-1988—Par. (7). Pub. L. 100 418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
+1988—Par. (7). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
-1986—Par. (2)(B)(v). Pub. L. 99 514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Par. (2)(B)(v). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100 418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
-<i><sup>1</sup></i><i>So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

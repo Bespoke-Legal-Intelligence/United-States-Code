@@ -2,7 +2,7 @@
 
 The working group established under section 2223b of this title shall, within 1 year after October 22, 1990, submit a report to the Administrator and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate presenting the results of the review carried out under sections 2223a to 2223e of this title, along with recommendations to ensure that response information disseminated to emergency response personnel is appropriate for operational personnel at the local level.
 
-(Pub. L. 101 446, §4, Oct. 22, 1990, 104 Stat. 1045.)
+(Pub. L. 101–446, §4, Oct. 22, 1990, 104 Stat. 1045.)
 
 #### Codification
 
@@ -10,7 +10,7 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ For the purpose of subsection (b) of this section—
 
 (B) For purposes of applying this subsection with respect to any rationing contingency plan (other than pursuant to section 6261(d)(2)(B) <sup>1</sup> of this title), the term “resolution” means only a joint resolution described in clause (i) or (ii) of this subparagraph with respect to such plan.
 
-&emsp;(i) A joint resolution of either House of the Congress (I) which is entitled: “Joint resolution relating to a rationing contingency plan.”, (II) which does not contain a preamble, and (III) the matter after the resolving clause of which is: “That the Congress of the United States disapproves the rationing contingency plan transmitted to the Congress on\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.”, the blank spaces therein appropriately filled.
+&emsp;(i) A joint resolution of either House of the Congress (I) which is entitled: “Joint resolution relating to a rationing contingency plan.”, (II) which does not contain a preamble, and (III) the matter after the resolving clause of which is: “That the Congress of the United States disapproves the rationing contingency plan transmitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.”, the blank spaces therein appropriately filled.
 
 &emsp;(ii) A joint resolution of either House of the Congress (I) which is entitled: “Joint resolution relating to a rationing contingency plan.”, (II) which does not contain a preamble, and (III) the matter after the resolving clause of which is: “That the Congress of the United States does not object to the rationing contingency plan transmitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.”, the blank spaces therein appropriately filled.
 

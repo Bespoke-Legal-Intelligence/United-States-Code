@@ -22,10 +22,13 @@
 | [1597\.](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md) | Civilian positions: guidelines for reductions. |
 | [1598\.](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides. |
 | [1599\.](%C2%A7%2001599%20-%20Postemployment%20assistance%20certain%20terminated%20intelligence%20employees.md) | Postemployment assistance: certain terminated intelligence employees. |
+| [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–93, title V, §505(b), Jan. 6, 1996, 109 Stat. 974, added item 1599a.
 
 1994—Pub. L. 103–359, title VIII, §806(a)(2), Oct. 14, 1994, 108 Stat. 3442, added item 1599.
 
@@ -86,3 +89,4 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 - [&sect; 01597 - Civilian positions guidelines for reductions](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md)
 - [&sect; 01598 - Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers&#8217; aides](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md)
 - [&sect; 01599 - Postemployment assistance certain terminated intelligence employees](%C2%A7%2001599%20-%20Postemployment%20assistance%20certain%20terminated%20intelligence%20employees.md)
+- [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)

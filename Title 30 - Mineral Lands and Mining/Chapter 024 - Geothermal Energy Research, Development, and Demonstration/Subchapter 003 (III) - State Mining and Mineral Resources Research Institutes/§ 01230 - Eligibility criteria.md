@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The Mining and Mineral Resources Research Institute Amendments of 1988, referred to in subsec. (b), is Pub. L. 100–483, Oct. 12, 1988, 102 Stat. 2339. Section 11(a)(2) and (3) of the Mining and Mineral Resources Research Institute Amendments of 1988 is set out as a note under section 1229 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1201 of this title and Tables.
+The Mining and Mineral Resources Research Institute Amendments of 1988, referred to in subsec. (b), is Pub. L. 100–483, Oct. 12, 1988, 102 Stat. 2339. Section 11(a)(2) and (3) of the Mining and Mineral Resources Research Institute Amendments of 1988 is set out as a note under section 1229 of this title. For complete classification of this Act to the Code, see Short Title of1988 Amendment note set out under section 1201 of this title and Tables.
 
 #### Codification
 

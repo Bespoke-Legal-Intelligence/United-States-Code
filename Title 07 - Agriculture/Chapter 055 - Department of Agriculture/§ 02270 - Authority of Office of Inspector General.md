@@ -1,0 +1,24 @@
+### §2270. Authority of Office of Inspector General
+
+Any person who is employed in the Office of the Inspector General, Department of Agriculture, who conducts investigations of alleged or suspected felony criminal violations of statutes, including but not limited to the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], administered by the Secretary of Agriculture or any agency of the Department of Agriculture and who is designated by the Inspector General of the Department of Agriculture may—
+
+&emsp;(1) make an arrest without a warrant for any such criminal felony violation if such violation is committed, or if such employee has probable cause to believe that such violation is being committed, in the presence of such employee;
+
+&emsp;(2) execute a warrant for an arrest, for the search of premises, or the seizure of evidence if such warrant is issued under authority of the United States upon probable cause to believe that such violation has been committed; and
+
+&emsp;(3) carry a firearm;
+
+> in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.
+
+(Pub. L. 97–98, title XIII, §1337, Dec. 22, 1981, 95 Stat. 1294.)
+
+#### References in Text
+
+The Food Stamp Act of 1977, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under 2011 of this title and Tables.
+
+Sections 6 and 9 of the Inspector General Act of 1978, referred to in text, are sections 6 and 9 of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective on such date as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title.
+

@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Section 6225 shall not apply to any adjustment necessary to correct a mathematical or clerical error (as defined in section 6213(g)(2)) appearing on the partnership return.
+&emsp;Section 6225 shall not apply to any adjustment necessary to correct a mathematical orclerical error (as defined in section 6213(g)(2)) appearing on the partnership return.
 
 #### (2) Exception
 
@@ -102,7 +102,7 @@ The failure of the tax matters partner, a pass-thru partner, the representative 
 
 #### (g) Date decision of court becomes final
 
-For purposes of section 6229(d)(1) and section 6230(c)(2)(B), the principles of section 7481(a)shall be applied in determining the date on which a decision of a district court or the Court of Federal Claims becomes final.
+For purposes of section 6229(d)(1) and section 6230(c)(2)(B), the principles of section 7481(a) shall be applied in determining the date on which a decision of a district court or the Court of Federal Claims becomes final.
 
 #### (h) Examination authority not limited
 

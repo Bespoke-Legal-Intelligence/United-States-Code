@@ -32,7 +32,7 @@ To be eligible to receive a grant from the Corporation in the circumstances desc
 
 #### (2) Submission
 
-&emsp;Such application shall be submitted at such time and in such manner, and shall containsuch information, as the agency, tribe, or entity may reasonably require.
+&emsp;Such application shall be submitted at such time and in such manner, and shall contain such information, as the agency, tribe, or entity may reasonably require.
 
 #### (d) Regulations
 

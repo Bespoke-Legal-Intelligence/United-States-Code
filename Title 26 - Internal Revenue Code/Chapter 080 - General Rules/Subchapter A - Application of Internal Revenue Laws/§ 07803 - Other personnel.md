@@ -34,9 +34,11 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 103–329, title I, §2, Sept. 30, 1994, 108 Stat. 2388, provided that: “The Internal Revenue Service shall institute and maintain a training program to insure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+Pub. L. 104–52, title I, §2, Nov. 19, 1995, 109 Stat. 474, provided that: “The Internal Revenue Service shall institute and maintain a training program to insure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–329, title I, §2, Sept. 30, 1994, 108 Stat. 2388.
 
 Pub. L. 103–123, title I, §2, Oct. 28, 1993, 107 Stat. 1232.
 
@@ -84,7 +86,7 @@ Findings.—The Congress hereby finds that—
 
 “(b) It is the sense of the Congress that:
 
-&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year 1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
+&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
 
 &emsp;“(2) The Internal Revenue Service offer improved taxpayer assistance and enforcement efforts by using the aforementioned outlays in areas recommended by, or consistent with the recommendations of, the ‘Dorgan Task Force Report’. Taxpayer assistance efforts would include providing expanded taxpayer education programs, instituting pilot programs of taxmobiles in rural areas, and upgrading the quality of telephone assistance. Taxpayer enforcement efforts would include raising the audit rate from 1.1 percent toward 2.5 percent, restoring resources to criminal investigations, and the collection of delinquent accounts.
 
@@ -154,7 +156,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(2) The term ‘elderly individual’ means an individual who has attained the age of 60 years as of the close of his taxable year.
 
-&emsp;“(3) The term ‘Federal income tax return’ means any return required under chapter 61 of the InternalRevenue Code of 1986 with respect to the tax imposed on an individual under chapter 1 of such Code.
+&emsp;“(3) The term ‘Federal income tax return’ means any return required under chapter 61 of the Internal Revenue Code of 1986 with respect to the tax imposed on an individual under chapter 1 of such Code.
 
 “(f)
 

@@ -3,16 +3,16 @@
 | Sec. |  |
 | :--- | ---: |
 | [111\.](%C2%A7%2000111%20-%20Executive%20department.md) | Executive department. |
-| 112\. | Department of Defense: seal. |
-| 113\. | Secretary of Defense. |
+| [112\.](%C2%A7%2000112%20-%20Department%20of%20Defense%20seal.md) | Department of Defense: seal. |
+| [113\.](%C2%A7%2000113%20-%20Secretary%20of%20Defense.md) | Secretary of Defense. |
 | [114\.](%C2%A7%2000114%20-%20Annual%20authorization%20of%20appropriations.md) | Annual authorization of appropriations. |
 | \[114a. | Renumbered.\] |
-| 115\. | Personnel strengths: requirement for annual authorization. |
-| 115a. | Annual manpower requirements report. |
+| [115\.](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md) | Personnel strengths: requirement for annual authorization. |
+| [115a.](%C2%A7%2000115a%20-%20Annual%20manpower%20requirements%20report.md) | Annual manpower requirements report. |
 | \[115b. | Renumbered.\] |
-| 116\. | Annual operations and maintenance report. |
+| [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
 | \[117, 118. | Repealed.\] |
-| 119\. | Special access programs: congressional oversight. |
+| [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

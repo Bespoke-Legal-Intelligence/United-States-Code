@@ -8,7 +8,7 @@ Section 1973cc–23, act Aug. 9, 1955, ch. 656, title III, §303, 69 Stat. 588, 
 
 Section 1973cc–24, act Aug. 9, 1955, ch. 656, title III, §304, 69 Stat. 589, provided that acts done in good faith do not constitute a violation of any provision of law relating to elective franchise.
 
-Section 1973cc–25, act Aug. 9, 1955, ch. 656, title III, §305, 69 Stat. 589, provided that no undue influence be used by any officer but that nothing in this subchapterbe deemed to prohibit free discussion regarding political issues or candidates for public office. See section 609 of Title 18, Crimes and Criminal Procedure.
+Section 1973cc–25, act Aug. 9, 1955, ch. 656, title III, §305, 69 Stat. 589, provided that no undue influence be used by any officer but that nothing in this subchapter be deemed to prohibit free discussion regarding political issues or candidates for public office. See section 609 of Title 18, Crimes and Criminal Procedure.
 
 Section 1973cc–26, act Aug. 9, 1955, ch. 656, title III, §308, 69 Stat. 589, authorized appropriations as necessary to carry out this subchapter.
 

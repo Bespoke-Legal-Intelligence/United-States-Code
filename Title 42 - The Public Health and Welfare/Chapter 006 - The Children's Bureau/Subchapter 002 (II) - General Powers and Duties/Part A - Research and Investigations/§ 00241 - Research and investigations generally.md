@@ -20,11 +20,11 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(8) adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
-> The Secretary may make available to individuals and entities, for biomedical and behavioralresearch, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
+> The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
-(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
+(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substancesfor carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
 
 (2)(A) The Secretary shall establish a comprehensive program of research into the biological effects of low-level ionizing radiation under which program the Secretary shall conduct such research and may support such research by others through grants and contracts.
 
@@ -58,7 +58,7 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 The Secretary may authorize persons engaged in biomedical, behavioral, clinical, or other research (including research on mental health, including research on the use and effect of alcohol and other psychoactive drugs) to protect the privacy of individuals who are the subject of such research by withholding from all persons not connected with the conduct of such research the names or other identifying characteristics of such individuals. Persons so authorized to protect the privacy of such individuals may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceedings to identify such individuals.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Sept. 15, 1960, Pub. L. 86–798, 74 Stat. 1053; Oct. 17, 1962, Pub. L. 87–838, §2, 76 Stat. 1073; Aug. 9, 1965, Pub. L. 89–115, §3, 79 Stat. 448; Dec. 5, 1967, Pub. L. 90–174, §9, 81 Stat. 540; Oct. 27, 1970, Pub. L. 91–513, title I, §3(a), 84 Stat. 1241; Oct. 30, 1970, Pub. L. 91–515, title II, §292, 84 Stat. 1308; Dec. 23, 1971, Pub. L. 92–218, §6(a)(2), 85 Stat. 785; Sept. 19, 1972, Pub. L. 92–423, §7(b), 86 Stat. 687; May 14, 1974, Pub. L. 93–282, title I, §122(b), 88 Stat. 132; July 12, 1974, Pub. L. 93–348, title I, §104(a)(1), 88 Stat. 346; July 23, 1974, Pub. L. 93–352, title I, §111, 88 Stat. 360; Apr. 22, 1976, Pub. L. 94–278, title I, §111, 90 Stat. 405; Nov. 9, 1978, Pub. L. 95–622, title II, §§261, 262, 92 Stat.3434; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Nov. 20, 1985, Pub. L. 99–158, §3(a)(5), 99 Stat. 879; Oct. 27, 1986, Pub. L. 99–570, title IV, §4021(b)(2), 100 Stat. 3207–124; Nov. 14, 1986, Pub. L. 99–660, title I, §104, 100 Stat. 3751; Nov. 4, 1988, Pub. L. 100–607, title I, §163(1), (2), 102 Stat. 3062; June 10, 1993, Pub. L. 103–43, title XX, §2009, 107 Stat. 213.)
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Sept. 15, 1960, Pub. L. 86–798, 74 Stat. 1053; Oct. 17, 1962, Pub. L. 87–838, §2, 76 Stat. 1073; Aug. 9, 1965, Pub. L. 89–115, §3, 79 Stat. 448; Dec. 5, 1967, Pub. L. 90–174, §9, 81 Stat. 540; Oct. 27, 1970, Pub. L. 91–513, title I, §3(a), 84 Stat. 1241; Oct. 30, 1970, Pub. L. 91–515, title II, §292, 84 Stat. 1308; Dec. 23, 1971, Pub. L. 92–218, §6(a)(2), 85 Stat. 785; Sept. 19, 1972, Pub. L. 92–423, §7(b), 86 Stat. 687; May 14, 1974, Pub. L. 93–282, title I, §122(b), 88 Stat. 132; July 12, 1974, Pub. L. 93–348, title I, §104(a)(1), 88 Stat. 346; July 23, 1974, Pub. L. 93–352, title I, §111, 88 Stat. 360; Apr. 22, 1976, Pub. L. 94–278, title I, §111, 90 Stat. 405; Nov. 9, 1978, Pub. L. 95–622, title II, §§261, 262, 92 Stat. 3434; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Nov. 20, 1985, Pub. L. 99–158, §3(a)(5), 99 Stat. 879; Oct. 27, 1986, Pub. L. 99–570, title IV, §4021(b)(2), 100 Stat. 3207–124; Nov. 14, 1986, Pub. L. 99–660, title I, §104, 100 Stat. 3751; Nov. 4, 1988, Pub. L. 100–607, title I, §163(1), (2), 102 Stat. 3062; June 10, 1993, Pub. L. 103–43, title XX, §2009, 107 Stat. 213.)
 
 #### Amendments
 
@@ -158,31 +158,7 @@ Report.—Not later than 4 years after the date of enactment of this Act \[June 
 
 #### Study of Thyroid Morbidity for Hanford, Washington
 
-Section 161 of Pub. L. 100–607, as amended by Pub. L. 102–531, title III, §312(e)(1), Oct. 27, 1992, 106 Stat. 3506, provided that:
-
-“(a)
-
-In General.—In carrying out the purposes of section 301 of the Public Health Service Act (42 U.S.C. 241), the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention (hereafter referred to in this section as the ‘Director’), shall conduct a study of thyroid morbidity of the population (including Indian tribes and tribal organizations) in the vicinity of Hanford, in the State of Washington, during the years 1944 through 1957.
-
-“(b)
-
-Peer Review.—As soon as is practicable after the date of the enactment of this Act \[Nov. 4, 1988\], the Director shall establish a peer review committee that shall, along with the Centers for Disease Control and Prevention, make any determinations as to the conduct of the study required under this section.
-
-“(c)
-
-Contracts.—
-
-&emsp;“(1)
-
-In general.—Except as provided in paragraph (2), the Director may contract out any portion of the study required under this section if the Director considers such appropriate, except that such contractor shall not have any direct or indirect interest in the outcome of such study including, contracts with the Department of Energy.
-
-&emsp;“(2)
-
-Relationships.—Contractors that currently are parties to contracts with the Department of Energy (or who have previously been parties to such) shall be given consideration pursuant to paragraph (1), except that the Director shall make a determination in each such circumstance that the relationship of the contractor with the Department of Energy does not represent a conflict of interest or the appearance of such a conflict regarding the conduct of the study required under this section.
-
-“(d)
-
-Report.—Not later than 42 months after the date of enactment of this section \[Nov. 4, 1988\], the Director shall transmit a report including such study to the Congress, the chief executive officers of the States of Oregon and Washington, and the governing officials of the Indian tribes in the vicinity of Hanford, Washington.”
+Section 161 of Pub. L. 100–607, as amended by Pub. L. 102–531, title III, §312(e)(1), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
 
 #### National Commission on Sleep Disorders Research
 
@@ -194,7 +170,7 @@ Section 632 of Pub. L. 100–607 provided that with respect to any program of re
 
 #### Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse
 
-Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30,1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
+Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
 
 #### Analysis of Thyroid Cancer; Creation and Publication of Radioepidemiological Tables
 

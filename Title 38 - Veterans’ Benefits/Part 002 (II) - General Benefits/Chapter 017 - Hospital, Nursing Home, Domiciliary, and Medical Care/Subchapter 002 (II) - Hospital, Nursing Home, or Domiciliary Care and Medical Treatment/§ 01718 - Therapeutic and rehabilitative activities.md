@@ -124,7 +124,7 @@ Eligible Veterans.—The veterans for whom therapeutic transitional housing may 
 
 “(c)
 
-Authority to Operate Residences as Therapeutic Transitional Housing.—Under the demonstration program, the Secretary, in connection with the conduct of compensated work therapy programs, may operate residences as therapeutic transitional housing solely for veterans described in subsection (b) of this section. The Secretary may operate no more than 50 residences as therapeutic transitional housing under this subsection.
+Authority to Operate Residences as Therapeutic Transitional Housing.—Under the demonstration program, the Secretary, in connection with the conduct of compensated work therapy programs, may operate residences as therapeutic transitional housingsolely for veterans described in subsection (b) of this section. The Secretary may operate no more than 50 residences as therapeutic transitional housing under this subsection.
 
 “(d)
 

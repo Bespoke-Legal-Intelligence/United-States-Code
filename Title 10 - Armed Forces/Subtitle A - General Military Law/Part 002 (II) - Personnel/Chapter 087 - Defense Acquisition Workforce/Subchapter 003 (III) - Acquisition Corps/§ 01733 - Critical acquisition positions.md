@@ -12,7 +12,7 @@ Designation of Critical Acquisition Positions.—(1) The Secretary of Defense sh
 
 &emsp;&emsp;(i) in the case of employees, is required to be filled by an employee in a position within grade GS–14 or above of the General Schedule, or in the Senior Executive Service; or
 
-&emsp;&emsp;(ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the gradeof lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
+&emsp;&emsp;(ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
 
 &emsp;(B) Other selected acquisition positions not covered by subparagraph (A), including the following:
 

@@ -28,7 +28,7 @@ In identifying priority foreign countries under subsection (a) of this section, 
 
 > if information available to the Trade Representative indicates that such action is appropriate.
 
-(2) The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of any identification of any foreign country as a priority foreign country.
+(2) The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of anyidentification of any foreign country as a priority foreign country.
 
 #### (d) Report to Congress
 

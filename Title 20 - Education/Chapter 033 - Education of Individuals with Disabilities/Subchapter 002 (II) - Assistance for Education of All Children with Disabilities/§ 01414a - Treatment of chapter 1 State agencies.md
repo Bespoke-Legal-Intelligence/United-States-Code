@@ -16,13 +16,13 @@ Any State agency which desires to receive payments under section 1411(d) of this
 
 Section 1411(c)(4) of this title shall not apply with respect to a State agency that is eligible for a payment under this subchapter by application of this section.
 
-(Pub. L. 91 230, title VI, §614A, as added Pub. L. 103 382, title III, §312, Oct. 20, 1994, 108 Stat. 3934.)
+(Pub. L. 91–230, title VI, §614A, as added Pub. L. 103–382, title III, §312, Oct. 20, 1994, 108 Stat. 3934.)
 
 #### References in Text
 
-Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as such subpart was in existence on the day preceding October 20, 1994), referred to in subsec. (a), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as such subpart was in existence on the day preceding October 20, 1994), referred to in subsec. (a), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Effective Date
 
-Section effective July 1, 1995, see section 3(a)(3)(A) of Pub. L. 103 382, set out as an Effective Date of 1994 Amendment note under section 1411 of this title.
+Section effective July 1, 1995, see section 3(a)(3)(A) of Pub. L. 103–382, set out as an Effective Date of 1994 Amendment note under section 1411 of this title.
 

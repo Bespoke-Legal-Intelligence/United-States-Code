@@ -2,7 +2,7 @@
 
 #### (a) Establishment; residents as members of committees
 
-The Administrator shall as soon as practicable appoint a special industry committee to recommend the minimum rate or rates of wages to be paid under section 206 of this title to employees in American Samoa engaged in commerce or in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce or the Administrator may appoint separate industry committees to recommend the minimum rate or rates of wages to be paid under said section to employees therein engaged in commerceor in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce in particular industries. An industry committee appointed under this subsection shall be composed of residents of American Samoa where the employees with respect to whom such committee was appointed are employed and residents of the United States outside of American Samoa. In determining the minimum rate or rates of wages to be paid, and in determining classifications, such industry committees shall be subject to the provisions of section 208 of this title.
+The Administrator shall as soon as practicable appoint a special industry committee to recommend the minimum rate or rates of wages to be paid under section 206 of this title to employees in American Samoa engaged in commerce or in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce or the Administrator may appoint separate industry committees to recommend the minimum rate or rates of wages to be paid under said section to employees therein engaged in commerce or in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce in particular industries. An industry committee appointed under this subsection shall be composed of residents of American Samoa where the employees with respect to whom such committee was appointed are employed and residents of the United States outside of American Samoa. In determining the minimum rate or rates of wages to be paid, and in determining classifications, such industry committees shall be subject to the provisions of section 208 of this title.
 
 #### (b) Appointment of committee without regard to other laws pertaining to the appointment and compensation of employees of the United States; composition of committees
 
@@ -52,9 +52,9 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
-#### Secretary of Labor
+#### Definition of “Administrator”
 
-The term “Secretary” as meaning the Secretary of Labor, see section 6 of act Aug. 12, 1955, set out as a note under section 204 of this title.
+The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@ The Secretary shall establish a demonstration program under which Indian tribes,
 
 #### (e) Report
 
-The Secretary shall submit a final report at the end of fiscal year 1996, on the activities carried out under the demonstration program described in subsection (a) of this section which shall include an evaluation of whether such activities have fulfilled the objectives of such program. In such report the Secretary shall provide a recommendation, based upon the results of such demonstration program, as to whether direct billing of, and reimbursement by, the medicare and medicaid programs and other third-party payors should be authorized for all Indian tribes and Alaska Native health organizationswhich are contracting the entire operation of a facility of the Service.
+The Secretary shall submit a final report at the end of fiscal year 1996, on the activities carried out under the demonstration program described in subsection (a) of this section which shall include an evaluation of whether such activities have fulfilled the objectives of such program. In such report the Secretary shall provide a recommendation, based upon the results of such demonstration program, as to whether direct billing of, and reimbursement by, the medicare and medicaid programs and other third-party payors should be authorized for all Indian tribes and Alaska Native health organizations which are contracting the entire operation of a facility of the Service.
 
 #### (f) Retrocession of contract
 

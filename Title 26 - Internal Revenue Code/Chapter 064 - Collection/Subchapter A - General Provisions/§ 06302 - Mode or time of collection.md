@@ -154,7 +154,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 #### (B) Additional requirement
 
-&emsp;&emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirementsof the second sentence of paragraph (1)(A) of this subsection are satisfied.
+&emsp;&emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
 #### (i) Cross references
 

@@ -84,7 +84,7 @@ This section and section 501(c)(20) shall not apply to taxable years beginning a
 
 #### Prior Provisions
 
-A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statutory subsistence allowance received by police, prior to repeal by Pub. L. 85–866, title I, §3(a), (c), Sept. 2, 1958, 72 Stat. 1607, effective with respect to taxable years ending after Sept. 30, 1958, but only with respect to amounts received as a statutory subsistence allowance for any day after Sept. 30, 1958.
+A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statutory subsistence allowance receivedby police, prior to repeal by Pub. L. 85–866, title I, §3(a), (c), Sept. 2, 1958, 72 Stat. 1607, effective with respect to taxable years ending after Sept. 30, 1958, but only with respect to amounts received as a statutory subsistence allowance for any day after Sept. 30, 1958.
 
 #### Amendments
 
@@ -210,7 +210,7 @@ Section 104(a)(2) of Pub. L. 102–227 provided that: “In the case of any taxa
 
 #### Special Rule for Taxable Years Beginning in 1990
 
-Section 7102(a)(2) of Pub. L. 101–239, which provided that in the case of any taxable year beginning in 1990, only amounts paid before October 1, 1990, by the employer for coverage for the employee, his spouse, or his dependents under a qualified group legal services plan for periods before October 1, 1990, would be taken into account in determining the amount excluded under this section with respect to such employee for such taxable year, was repealed by Pub. L. 101–508, title XI, §11404(b), Nov. 5, 1990, 104 Stat. 1388–473.
+Section 7102(a)(2) of Pub. L. 101–239 provided that in the case of any taxable year beginning in 1990, only amounts paid before October 1, 1990, by the employer for coverage for the employee, his spouse, or his dependents under a qualified group legal services plan for periods before October 1, 1990, would be taken into account in determining the amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11404(b), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) change in corpus of estate shall be the last day of the calendar year in which the change occurred;
 
-&emsp;(5) by reason of a change in disability or employability of a veteran in receipt of pension shall be the last day of the month in which discontinuance of the award is approved;
+&emsp;(5) by reason of a change in disability or employability of a veteran in receipt of pensionshall be the last day of the month in which discontinuance of the award is approved;
 
 &emsp;(6) by reason of change in law or administrative issue, change in interpretation of a law or administrative issue, or, for compensation purposes, a change in service-connected or employability status or change in physical condition shall be the last day of the month following sixty days from the date of notice to the payee (at the payee's last address of record) of the reduction or discontinuance;
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 89–730 effective first day of second calendar month follo
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
+Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962,see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 

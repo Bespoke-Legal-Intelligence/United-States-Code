@@ -8,7 +8,7 @@ The Secretary shall undertake forest land management activities on Indian forest
 
 Indian forest land management activities undertaken by the Secretary shall be designed to achieve the following objectives—
 
-&emsp;(1) the development, maintenance, and enhancement of Indian forest land in a perpetually productive state in accordance with the principles of sustained yield and with the standards and objectives set forth in forest management plans by providing effective management and protection through the application of sound silvicultural and economic principles to—
+&emsp;(1) the development, maintenance, and enhancement of Indian forest land in a perpetually productive state in accordance with theprinciples of sustained yield and with the standards and objectives set forth in forest management plans by providing effective management and protection through the application of sound silvicultural and economic principles to—
 
 &emsp;&emsp;(A) the harvesting of forest products,
 

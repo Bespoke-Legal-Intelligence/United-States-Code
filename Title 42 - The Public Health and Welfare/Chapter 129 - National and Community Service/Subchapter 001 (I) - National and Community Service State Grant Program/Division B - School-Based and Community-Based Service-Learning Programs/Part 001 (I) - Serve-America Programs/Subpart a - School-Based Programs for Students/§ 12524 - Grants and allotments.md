@@ -46,7 +46,7 @@ Notwithstanding subsections (a) and (b) of this section, if less than $20,000,00
 
 #### References in Text
 
-For ratification of Compact of Free Association with Palau, referred to in subsec. (a), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For ratification of Compact of Free Association with Palau, referred to in subsec. (a), see Proc. No. 6726,Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 

@@ -48,7 +48,7 @@ An order approving an electronic surveillance under this section shall—
 
 #### (c) Exclusion of certain information respecting foreign power targets
 
-Whenever the target of the electronic surveillance is a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, and each of the facilities or places at which the surveillance is directed is owned, leased, or exclusively used by that foreign power, the order need not contain the information required by subparagraphs (C), (D), and (F) of subsection (b)(1) of this section, but shall generally describe the informationsought, the communications or activities to be subjected to the surveillance, and the type of electronic surveillance involved, including whether physical entry is required.
+Whenever the target of the electronic surveillance is a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, and each of the facilities or places at which the surveillance is directed is owned, leased, or exclusively used by that foreign power, the order need not contain the information required by subparagraphs (C), (D), and (F) of subsection (b)(1) of this section, but shall generally describe the information sought, the communications or activities to be subjected to the surveillance, and the type of electronic surveillance involved, including whether physical entry is required.
 
 #### (d) Duration of order; extensions; review of circumstances under which information was acquired, retained or disseminated
 

@@ -80,11 +80,11 @@ The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of Jul
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378 struck out “(not to exceed 517)” after “positions” in first sentence andamended second sentence generally, substituting provisions authorizing establishment of positions by Director and by agency action for provisions specifying that only Director may establish positions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 struck out “(not to exceed 517)” after “positions” in first sentence and amended second sentence generally, substituting provisions authorizing establishment of positions by Director and by agency action for provisions specifying that only Director may establish positions.
 
-1986—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted “subsection (a) of this section” for “paragraph (1) of this subsection” wherever appearing in subsecs. (b) and (c) as redesignated.
+<b>1986</b>—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted “subsection (a) of this section” for “paragraph (1) of this subsection” wherever appearing in subsecs. (b) and (c) as redesignated.
 
-1978—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
 
 Subsec. (b). Pub. L. 95–454, §414(a)(2)(B), (C), struck out subsec. (b), redesignated subsec. (c) as (b), and substituted in subsec. (b), as redesignated, “to fix under section 5361 of this title the pay for positions established under this section” for “to establish and fix the pay of positions under this section and section 5361 of this title”.
 
@@ -92,7 +92,7 @@ Pub. L. 95–454, §801(a)(3)(C), substituted in subsec. (b), as redesignated, �
 
 Subsec. (c). Pub. L. 95–454, §414(a)(2)(C)(i), redesignated subsec. (c) as (b).
 
-1970—Subsec. (a)(5). Pub. L. 91–375 repealed provision for employment in Post Office Department in scientific or professional positions of not more than 6 qualified individuals.
+<b>1970</b>—Subsec. (a)(5). Pub. L. 91–375 repealed provision for employment in Post Office Department in scientific or professional positions of not more than 6 qualified individuals.
 
 #### Effective Date of 1978 Amendment
 

@@ -20,7 +20,7 @@
 
 #### Effective Date
 
-Section effective Feb. 15, 1981, except that subsec. (a), for purposes of implementing section 4151 of this title,is effective Oct. 17, 1980, see section 2403(a) and (d)(2) of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+Section effective Feb. 15, 1981, except that subsec. (a), for purposes of implementing section 4151 of this title, is effective Oct. 17, 1980, see section 2403(a) and (d)(2) of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
 #### Establishment of Salary Classes With Titles for Senior Foreign Service
 

@@ -6,5 +6,5 @@ For the purpose of this part, the term “community learning center” means an 
 
 &emsp;(2) is operated by a local educational agency in conjunction with local governmental agencies, businesses, vocational education programs, institutions of higher education, community colleges, and cultural, recreational, and other community and human service entities.
 
-(Pub. L. 89 10, title X, §10906, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3846.)
+(Pub. L. 89–10, title X, §10906, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3846.)
 

@@ -32,7 +32,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (m)(1) Have authority to suspend the license of any operator upon proof sufficient to satisfy the Commission that the licensee—
 
-&emsp;(A) has violated, or caused, aided, or abetted the violation of, any provision of any Act, treaty, or convention binding on the United States, which the Commission is authorized to administer, or any regulation made by the Commission under any such Act, treaty, or convention; or
+&emsp;(A) has violated, or caused, aided, or abetted the violation of, any provision of any Act, treaty, or convention binding on the United States, which the Commission is authorized toadminister, or any regulation made by the Commission under any such Act, treaty, or convention; or
 
 &emsp;(B) has failed to carry out a lawful order of the master or person lawfully in charge of the ship or aircraft on which he is employed; or
 
@@ -66,7 +66,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (u) Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.
 
-(June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Aug. 28, 1958, Pub. L. 85–817, §1, 72 Stat. 981; Apr. 27, 1962, Pub. L. 87–445, 76 Stat. 64; July 10, 1962, Pub. L. 87–529, §1, 76 Stat. 150; May 28, 1964, Pub. L. 88–313, §1, 78 Stat. 202; Aug. 22, 1964, Pub. L. 88–487, §2, 78 Stat. 602; Oct. 19, 1965, Pub. L. 89–268, 79 Stat. 990; Aug. 10, 1971, Pub. L. 92–81, §1, 85 Stat. 302; Nov. 30, 1974, Pub. L. 93–505, §1, 88 Stat. 1576; Sept. 13, 1982, Pub. L. 97–259, title I, §§109–111(a), 113(b), 96 Stat. 1092, 1093; Sept. 28, 1990, Pub. L. 101–396, §8(a), 104 Stat. 850; Oct. 15, 1990, Pub. L. 101–431, §3, 104 Stat. 960; Oct. 27,1992, Pub. L. 102–538, title II, §210(a), 106 Stat. 3544.)
+(June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Aug. 28, 1958, Pub. L. 85–817, §1, 72 Stat. 981; Apr. 27, 1962, Pub. L. 87–445, 76 Stat. 64; July 10, 1962, Pub. L. 87–529, §1, 76 Stat. 150; May 28, 1964, Pub. L. 88–313, §1, 78 Stat. 202; Aug. 22, 1964, Pub. L. 88–487, §2, 78 Stat. 602; Oct. 19, 1965, Pub. L. 89–268, 79 Stat. 990; Aug. 10, 1971, Pub. L. 92–81, §1, 85 Stat. 302; Nov. 30, 1974, Pub. L. 93–505, §1, 88 Stat. 1576; Sept. 13, 1982, Pub. L. 97–259, titleI, §§109–111(a), 113(b), 96 Stat. 1092, 1093; Sept. 28, 1990, Pub. L. 101–396, §8(a), 104 Stat. 850; Oct. 15, 1990, Pub. L. 101–431, §3, 104 Stat. 960; Oct. 27, 1992, Pub. L. 102–538, title II, §210(a), 106 Stat. 3544.)
 
 #### Codification
 
@@ -140,7 +140,7 @@ Pub. L. 102–356, §16(a), Aug. 26, 1992, 106 Stat. 954, provided that: “The 
 
 &emsp;“(2) between 6 a.m. and 12 midnight on any day for any radio or television broadcasting station not described in paragraph (1).
 
-> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5, United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
+> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5,United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
 
 #### Congressional Findings Regarding Access by Hearing-Impaired People to Television Medium
 

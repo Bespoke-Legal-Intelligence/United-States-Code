@@ -124,15 +124,15 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, titleII, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430.)
 
 #### Amendments
 
-1994—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
+<b>1994</b>—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
 
-1991—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1980—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
+<b>1980</b>—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
 
 #### Change of Name
 
@@ -148,7 +148,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No.12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -420,7 +420,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
-Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
+Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of andas a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
 
 Sec. 3. <i>Amendment of Executive Order No. 12171</i>. Executive Order No. 12171 is amended by deleting Section 1–209 and inserting in its place:
 
@@ -432,5 +432,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 7 section 7011; title 22 section 3701; title 38 section 711.
+This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 7 section 7011; title 22 section 3701; title 38 section 711.
 

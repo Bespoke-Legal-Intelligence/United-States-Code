@@ -8,7 +8,7 @@
 
 &emsp;(2) maintain continuing liaison with other executive branch agencies concerned with international communications and information policy and with the Federal Communications Commission, as appropriate;
 
-&emsp;(3) in accordance with such authority as may be delegated by the President pursuant to Executive order, supervise and coordinate the activities of any senior interagency policymaking group on international telecommunications and information policy and chair suchinteragency meetings as may be necessary to coordinate actions on pending issues;; <sup>1</sup>
+&emsp;(3) in accordance with such authority as may be delegated by the President pursuant to Executive order, supervise and coordinate the activities of any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;; <sup>1</sup>
 
 &emsp;(4) coordinate the activities of, and assist as appropriate, interagency working level task forces and committees concerned with specific aspects of international communications and information policy;
 
@@ -28,7 +28,7 @@ A prior section 35 of act Aug. 1, 1956, was renumbered section 36 by section 124
 
 1994—Subsec. (a). Pub. L. 103–236, §162(k)(1)(A), struck out subsec. (a) which read as follows: “The Secretary of State shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the ‘Under Secretary’).”
 
-Subsec. (b). Pub. L. 103–236, §162(k)(1)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: “The Secretary of State shall establish, within the Department of State, an Office of the Coordinator for International Communications and Information Policy, headed by a Coordinator who shall be responsible to the Under Secretary. The Coordinator shall be appointed by the President, by and with the advice and consent of the Senate, and shall have the rank of ambassador. The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5. The Coordinator shall be responsible, on behalf of the Under Secretary, for formulation, coordination, and oversight of international communications and information policy assigned to the Under Secretary. On behalf  of  the  Under  Secretary,  the  Coordinator  shall—”.
+Subsec. (b). Pub. L. 103–236, §162(k)(1)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: “The Secretary of State shall establish, within the Department of State, an Office of the Coordinator for International Communications and Information Policy, headed by a Coordinator who shall be responsible to the Under Secretary. The Coordinator shall be appointed by thePresident, by and with the advice and consent of the Senate, and shall have the rank of ambassador. The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5. The Coordinator shall be responsible, on behalf of the Under Secretary, for formulation, coordination, and oversight of international communications and information policy assigned to the Under Secretary. On behalf  of  the  Under  Secretary,  the  Coordinator  shall—”.
 
 Subsec. (b)(1). Pub. L. 103–236, §162(k)(1)(B)(iv), added par. (1). Former par. (1) redesignated (2).
 

@@ -1,4 +1,4 @@
-### §460q–2 . Establishment of units; publication in Federal Register; boundary descriptions
+### §460q–2. Establishment of units; publication in Federal Register; boundary descriptions
 
 #### (a) Shasta; Clair Engle-Lewiston
 

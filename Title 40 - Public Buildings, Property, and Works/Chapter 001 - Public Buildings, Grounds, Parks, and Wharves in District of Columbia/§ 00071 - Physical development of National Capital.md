@@ -34,7 +34,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Ex. Ord. No. 6166, set out as a note under section 901 of Title 5, abolished Office of Public Buildings and Public Parks of National Capital and transferred functions thereof to Office of National Parks, Buildings and Reservations of Department of the Interior, and act Mar. 2, 1934, changed name of latter office to National Park Service.
 
-Function of disbursement of moneys of United States by any agency except War Department, Navy Department, and Panama Canal, transferred to Treasury Department and, together with Office of Disbursing Clerk of that Department, consolidated in a Division of Disbursements, by section 4 of Ex. Ord. No. 6166 and Ex. Ord. No. 6728, May 29, 1934. Division of Disbursements consolidated in Fiscal Service by Reorg. Plan No. III of 1940, §1(a)(3), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231,set out in the Appendix to Title 5. See section 306 of Title 31, Money and Finance.
+Function of disbursement of moneys of United States by any agency except War Department, Navy Department, and Panama Canal, transferred to Treasury Department and, together with Office of Disbursing Clerk of that Department, consolidated in a Division of Disbursements, by section 4 of Ex. Ord. No. 6166 and Ex. Ord. No. 6728, May 29, 1934. Division of Disbursements consolidated in Fiscal Service by Reorg. Plan No. III of 1940, §1(a)(3), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5. See section 306 of Title 31, Money and Finance.
 
 #### Study Commission To Investigate and Study Sites and Plans for Facilities and Services for Visitors and Students Coming to Washington, D.C.
 

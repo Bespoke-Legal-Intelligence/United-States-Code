@@ -1,6 +1,6 @@
 ### §7635. Service in other agencies
 
-(a) The Secretary, with the consent of the participant or individual involved and the consent of the head of the department or agency involved, may permit—
+(a) The Secretary, with the consent of the participant or individual involved and the consentof the head of the department or agency involved, may permit—
 
 &emsp;(1) a period of obligated service required under this chapter to be performed in the Veterans Health Administration to be performed in another Federal department or agency or in the Armed Forces in lieu of performance of such service in the Veterans Health Administration; and
 

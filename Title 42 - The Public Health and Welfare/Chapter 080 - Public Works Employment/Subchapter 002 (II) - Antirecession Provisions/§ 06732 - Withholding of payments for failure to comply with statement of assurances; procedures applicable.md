@@ -6,5 +6,5 @@ Whenever the Secretary, after affording reasonable notice and an opportunity for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6733, 6736 of this title.
+This section is referred to in section 6736 of this title.
 

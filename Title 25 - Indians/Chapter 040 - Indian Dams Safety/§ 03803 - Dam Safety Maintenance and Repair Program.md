@@ -20,7 +20,7 @@ The Secretary shall develop a maintenance action plan, which shall include a pri
 
 #### (1) Development of list
 
-&emsp;The Secretary shall develop a comprehensive list of dams located on Indian lands that describes the dam safety condition classificationof each dam, as specified in paragraph (2), the risk hazard classification of each dam, as specified in paragraph (3), and the conditions resulting from maintenance deficiencies.
+&emsp;The Secretary shall develop a comprehensive list of dams located on Indian lands that describes the dam safety condition classification of each dam, as specified in paragraph (2), the risk hazard classification of each dam, as specified in paragraph (3), and the conditions resulting from maintenance deficiencies.
 
 #### (2) Dam safety condition classifications
 
@@ -68,7 +68,7 @@ Work authorized by this chapter shall be for the purpose of dam safety maintenan
 
 #### (g) Technical assistance
 
-To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
+To carry out the purposes of this chapter, the Secretary may obtain technical assistance on anonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
 
 #### (h) Contract authority
 
@@ -92,5 +92,5 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Subcommittee on Native American Affairs changed to Subcommittee on Native American and Insular Affairs.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Subcommittee on Native American Affairs changed to Subcommittee on Native American and Insular Affairs.
 

@@ -43,11 +43,7 @@
 | (m) | Definitions. |
 | (n) | Report concerning applicability of existing patent policies to energy programs; time for submission to President and appropriate Congressional committees. |
 | [5909\.](%C2%A7%2005909%20-%20Relationship%20to%20antitrust%20laws.md) | Relationship to antitrust laws. |
-| [5910\.](%C2%A7%2005910%20-%20Environmental%20evaluations%20by%20Administrator%20of%20Environmental%20Protection%20Agency.md) | Environmental evaluations by Administrator of Environmental Protection Agency. |
-| (a) | Continuing analysis of effect of nonnuclear energy technologies. |
-| (b) | Employment of consultants or contractors and services of other Federal agencies for studies and investigations. |
-| (c) | Annual public hearings on conduct of energy research and development and environmental consequences; availability of transcript. |
-| (d) | Reports to President, Secretary, and Congress; inclusion by President in annual Environmental Quality Report. |
+| [5910\.](%C2%A7%2005910%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72021%28i%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20727.md) | Repealed. |
 | [5911\.](%C2%A7%2005911%20-%20Allocation%20or%20acquisition%20of%20essential%20materials%20and%20equipment%20pursuant%20to%20Presidential%20rule%20or%20order%3B%20transmission%20to%20Congress%20and%E2%80%A6.md) | Allocation or acquisition of essential materials and equipment pursuant to Presidential rule or order; transmission to Congress and effective date of proposed rule or order; disapproval by Congress. |
 | [5912\.](%C2%A7%2005912%20-%20Water%20resource%20assessments.md) | Water resource assessments. |
 | (a) | Assessments by Water Resources Council of water resource requirements and water supply availability for nonnuclear energy technologies; preparation requirements. |
@@ -128,7 +124,7 @@ This chapter is referred to in sections 5903d, 5907a, 6981, 7135a, 8837, 13435, 
 - [&sect; 05907a - Small grant program](%C2%A7%2005907a%20-%20Small%20grant%20program.md)
 - [&sect; 05908 - Patents and inventions](%C2%A7%2005908%20-%20Patents%20and%20inventions.md)
 - [&sect; 05909 - Relationship to antitrust laws](%C2%A7%2005909%20-%20Relationship%20to%20antitrust%20laws.md)
-- [&sect; 05910 - Environmental evaluations by Administrator of Environmental Protection Agency](%C2%A7%2005910%20-%20Environmental%20evaluations%20by%20Administrator%20of%20Environmental%20Protection%20Agency.md)
+- [&sect; 05910 - Repealed. Pub. L. 104&#8211;66, title II, &sect;2021(i), Dec. 21, 1995, 109 Stat. 727](%C2%A7%2005910%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72021%28i%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20727.md)
 - [&sect; 05911 - Allocation or acquisition of essential materials and equipment pursuant to Presidential rule or order; transmission to Congress and&#8230;](%C2%A7%2005911%20-%20Allocation%20or%20acquisition%20of%20essential%20materials%20and%20equipment%20pursuant%20to%20Presidential%20rule%20or%20order%3B%20transmission%20to%20Congress%20and%E2%80%A6.md)
 - [&sect; 05912 - Water resource assessments](%C2%A7%2005912%20-%20Water%20resource%20assessments.md)
 - [&sect; 05913 - Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary&#8230;](%C2%A7%2005913%20-%20Evaluation%20by%20National%20Institute%20of%20Standards%20and%20Technology%20of%20energy-related%20inventions%20prior%20to%20awarding%20of%20grants%20by%20Secretary%E2%80%A6.md)

@@ -32,7 +32,7 @@
 
 #### (2) Report
 
-&emsp;The Administrator shall submit to Congress a report on the findings of the monitoringunder paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) of this section and biennially thereafter.
+&emsp;The Administrator shall submit to Congress a report on the findings of the monitoring under paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) of this section and biennially thereafter.
 
 (Pub. L. 102–580, title V, §503, Oct. 31, 1992, 106 Stat. 4865.)
 
@@ -148,7 +148,7 @@ Report.—Within 2 years after the date of the enactment of this Act \[Oct. 31, 
 
 #### Authorization of Appropriations
 
-Section 509(b) of Pub. L. 102–580 provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
+Section 509(b) of Pub. L. 102–580 provided that: “There is authorized to be appropriated to the Administratorto carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
 
 #### “Secretary” Defined
 

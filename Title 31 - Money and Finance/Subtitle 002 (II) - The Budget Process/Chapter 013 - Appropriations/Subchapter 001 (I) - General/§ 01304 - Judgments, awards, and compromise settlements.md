@@ -92,6 +92,10 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section 2(m) of Pub. L. 97–258 provided that the amendment made by that section is effective Oct. 1, 1982.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2; title 23 section 307; title 28 section 1961; title 32 sections 334, 715; title 40 section 759; title 41 section 612.

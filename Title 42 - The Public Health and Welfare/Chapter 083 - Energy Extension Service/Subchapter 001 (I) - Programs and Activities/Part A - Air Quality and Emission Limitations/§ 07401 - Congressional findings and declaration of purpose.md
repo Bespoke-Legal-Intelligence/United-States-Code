@@ -86,7 +86,7 @@ Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, is popularly known as the “C
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–23, §1, July 17, 1981, 95 Stat. 139, provided: “That this Act \[amending sections 7410 and 7413 of this title\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
+Pub. L. 97–23, §1, July 17, 1981, 95 Stat. 139, provided: “That this Act \[amending sections 7410 and 7413 of thistitle\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -108,7 +108,7 @@ Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: “That this Act \
 
 Section 317, formerly section 14, of act July 14, 1955, as added by section 1 of Pub. L. 88–206, renumbered section 307 by section 101(4) of Pub. L. 89–272, renumbered section 310 by section 2 of Pub. L. 90–148, and renumbered section 317 by Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1705, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Clean Air Act’.”
 
-Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992,and amended by Pub. L. 90–148, §2, Nov. 2, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
+Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992, and amended by Pub. L. 90–148, §2, Nov. 2, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
 
 Section 401 of title IV of act July 14, 1955, as added Dec. 31, 1970, Pub. L. 91–604, §14, 84 Stat. 1709, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Noise Pollution and Abatement Act of 1970’.”
 

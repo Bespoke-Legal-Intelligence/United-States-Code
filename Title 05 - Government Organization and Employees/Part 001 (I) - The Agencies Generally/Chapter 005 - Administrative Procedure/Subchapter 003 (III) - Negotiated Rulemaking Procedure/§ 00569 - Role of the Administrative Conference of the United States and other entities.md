@@ -68,13 +68,17 @@ Use of Funds of the Conference.—The Administrative Conference of the United St
 
 #### Amendments
 
-1992—Pub. L. 102–354, §3(a)(2), renumbered section 589 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 589 of this title as this section.
 
 Subsec. (d)(2). Pub. L. 102–354, §3(a)(5)(A), substituted “section 566” for “section 586”.
 
 Subsec. (f)(2). Pub. L. 102–354, §3(a)(5)(B), substituted “section 568(c)” for “section 588(c)”.
 
 Subsec. (g). Pub. L. 102–354, §3(a)(5)(C), substituted “section 595(c)(12)” for “section 575(c)(12)”.
+
+#### Termination of Administrative Conference of United States
+
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of this title.
 
 #### Section Referred to in Other Sections
 

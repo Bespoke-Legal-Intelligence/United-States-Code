@@ -120,7 +120,7 @@ Subsec. (b). Pub. L. 100–485, §202(c)(3), struck out “and services provided
 
 Subsecs. (d), (e). Pub. L. 100–485, §601(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1987—Subsec. (c). Pub. L. 100–203 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount certified by the Secretary under subchapter XIX of this chapter with respect to a fiscal year for payment to—
+1987—Subsec. (c). Pub. L. 100–203 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount certified by the Secretaryunder subchapter XIX of this chapter with respect to a fiscal year for payment to—
 
 &emsp;“(1) Puerto Rico shall not exceed $63,400,000;
 
@@ -140,7 +140,7 @@ Subsec. (c)(5). Pub. L. 97–248, §136(b), added par. (5).
 
 1981—Subsec. (a). Pub. L. 97–35, §2353(f), substituted in provision preceding par. (1) “The total amount certified by the Secretary of Health and Human Services” for “Except as provided in section 1397a(a)(2)(C) of this title, the total amount certified by the Secretary of Health, Education, and Welfare”.
 
-Subsec. (c). Pub. L. 97–35, §2162(b)(1), in par. (1) increased the amount from not to exceed $2,000,000 to notto exceed $45,000,000, in par. (2) increased the amount from not to exceed $65,000 to not to exceed $1,500,000, in par. (3) increased the amount from not to exceed $90,000 to not to exceed $1,400,000, and added par. (4).
+Subsec. (c). Pub. L. 97–35, §2162(b)(1), in par. (1) increased the amount from not to exceed $2,000,000 to not to exceed $45,000,000, in par. (2) increased the amount from not to exceed $65,000 to not to exceed $1,500,000, in par. (3) increased the amount from not to exceed $90,000 to not to exceed $1,400,000, and added par. (4).
 
 Subsec. (d). Pub. L. 97–35, §2193(c)(1), substituted “section 621 of this title” for “sections 702(a) and 712(a) of this title, and the provisions of sections 621, 703(1), and 704(1) of this title as amended by the Social Security Amendments of 1967”.
 

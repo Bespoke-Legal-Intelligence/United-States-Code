@@ -14,7 +14,7 @@ From amounts available under section 2303(c) of this title, the Secretary shall 
 
 &emsp;(5) the range of services identified during the assessment process as necessary for displaced homemakers, and
 
-&emsp;(6) the services received by displaced homemakers and appropriate outcomes, including type of training and education received, andtype of job and wage-at-placement for displaced homemakers placed.
+&emsp;(6) the services received by displaced homemakers and appropriate outcomes, including type of training and education received, and type of job and wage-at-placement for displaced homemakers placed.
 
 (Pub. L. 101–554, §13, Nov. 15, 1990, 104 Stat. 2756.)
 

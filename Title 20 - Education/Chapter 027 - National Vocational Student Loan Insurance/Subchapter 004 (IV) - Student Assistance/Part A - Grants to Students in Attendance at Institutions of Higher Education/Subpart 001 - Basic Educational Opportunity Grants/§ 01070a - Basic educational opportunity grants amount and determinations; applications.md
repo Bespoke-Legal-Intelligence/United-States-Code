@@ -10,19 +10,19 @@
 
 #### (b) Purpose and amount of grants
 
-(1) The purpose of this subpart is to provide a basic grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087<i>ll</i> of this title), unless the institution determines that a greater amount of assistance would better serve the purposes of section 1070<sup>1</sup> of this title.
+(1) The purpose of this subpart is to provide a basic grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087<i>ll</i> of this title), unless the institution determines that a greater amount of assistance would better serve the purposes of section 1070 <sup>1</sup> of this title.
 
 (2)(A) The amount of the basic grant for a student eligible under this part shall be—
 
-&emsp;(i) $3,700 for academic year 1993 1994,
+&emsp;(i) $3,700 for academic year 1993–1994,
 
-&emsp;(ii) $3,900 for academic year 1994 1995,
+&emsp;(ii) $3,900 for academic year 1994–1995,
 
-&emsp;(iii) $4,100 for academic year 1995 1996,
+&emsp;(iii) $4,100 for academic year 1995–1996,
 
-&emsp;(iv) $4,300 for academic year 1996 1997, and
+&emsp;(iv) $4,300 for academic year 1996–1997, and
 
-&emsp;(v) $4,500 for academic year 1997 1998,
+&emsp;(v) $4,500 for academic year 1997–1998,
 
 > less an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) the student completes course work toward completion of an associate or baccalaureate degree that exceeds the requirements for a full academic year as defined by the institution.
 
-(7) Notwithstanding any other provision of this subpart, the Secretary shall allow the amount of the basic grant to be exceeded for students participating in a program of study abroad approved for credit by the institution at which the student is enrolled when the reasonable costs of such program are greater than the cost of attendance at the student's home institution, except that the amount of such basic grant in any fiscal year shall not exceed the grant level specified in the appropriate Appropriation Act for this subpart for such year. If the preceding sentence applies, the financial aid administrator at the home institution may use the cost of the study abroad program, rather than the home institution's cost, to determine the cost of attendance of the student.
+(7) Notwithstanding any other provision of this subpart, the Secretary shall allow theamount of the basic grant to be exceeded for students participating in a program of study abroad approved for credit by the institution at which the student is enrolled when the reasonable costs of such program are greater than the cost of attendance at the student's home institution, except that the amount of such basic grant in any fiscal year shall not exceed the grant level specified in the appropriate Appropriation Act for this subpart for such year. If the preceding sentence applies, the financial aid administrator at the home institution may use the cost of the study abroad program, rather than the home institution's cost, to determine the cost of attendance of the student.
 
 (8) No basic grant shall be awarded under this subpart to any individual who is incarcerated in any Federal or State penal institution.
 
@@ -86,7 +86,7 @@ Payments under this section shall be made in accordance with regulations promulg
 
 (2) Whenever a student receives an award under this subpart that, due to recalculation errors by the institution of higher education, is in excess of the amount which the student is entitled to receive under this subpart, such institution of higher education shall pay to the Secretary the amount of such excess unless such excess can be resolved in a subsequent disbursement to the institution.
 
-(3) Each contractor processing applications for awards under this subpart shall for each academic year after academic year 1986 1987 prepare and submit a report to the Secretary on the correctness of the computations of amount of the expected family contribution, and on the accuracy of the questions on the application form under this subpart for the previous academic year for which the contractor is responsible. The Secretary shall transmit the report, together with the comments and recommendations of the Secretary, to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Education and Labor of the House of Representatives.
+(3) Each contractor processing applications for awards under this subpart shall for each academic year after academic year 1986–1987 prepare and submit a report to the Secretary on the correctness of the computations of amount of the expected family contribution, and on the accuracy of the questions on the application form under this subpart for the previous academic year for which the contractor is responsible. The Secretary shall transmit the report, together with the comments and recommendations of the Secretary, to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Education and Labor of the House of Representatives.
 
 #### (g) Insufficient appropriations
 
@@ -94,77 +94,77 @@ If, for any fiscal year, the funds appropriated for payments under this subpart 
 
 #### (h) Use of excess funds
 
-(1) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by 15 percent or less, then all of the excess funds shall remain available for making payments under this subpart during the next succeeding fiscal year.
+(1) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligiblestudents by 15 percent or less, then all of the excess funds shall remain available for making payments under this subpart during the next succeeding fiscal year.
 
 (2) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by more than 15 percent, then all of such funds shall remain available for making such payments but payments may be made under this paragraph only with respect to entitlements for that fiscal year.
 
 #### (i) Treatment of institutions and students under other laws
 
-Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institution the amounts those students are eligible to receive under this subpart shall not be deemed, by virtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of subtitle D of title V of Public Law 100 690 \[41 U.S.C. 701 et seq.\].
+Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institution the amounts those students are eligible to receive under this subpart shall not be deemed, by virtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of subtitle D of title V of Public Law 100–690 \[41 U.S.C. 701 et seq.\].
 
-(Pub. L. 89 329, title IV, §401, formerly §411, as added Pub. L. 99 498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100 50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102 325, title IV, §§401(a) (h), 402(a)(3), July 23, 1992, 106 Stat. 479 482; Pub. L. 103 208, §2(b)(1) (5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103 322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828.)
+(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828.)
 
 #### References in Text
 
-Section 1070 of this title, referred to in subsec. (b)(1), was in the original a reference to section 401, meaning section 401 of the Higher Education Act of 1965, Pub. L. 89 329. Sections 401 and 411 of that Act were renumbered as sections 400 and 401, respectively, by Pub. L. 102 325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482, and are classified to sections 1070 and 1070a of this title, respectively.
+Section 1070 of this title, referred to in subsec. (b)(1), was in the original a reference to section 401, meaning section 401 of the Higher Education Act of 1965, Pub. L. 89–329. Sections 401 and 411 of that Act were renumbered as sections 400 and 401, respectively, by Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482, and are classified to sections 1070 and 1070a of this title, respectively.
 
-Subtitle D of title V of Public Law 100 690, referred to in subsec. (i), is subtitle D (§§5151 5160) of title V of Pub. L. 100 690, Nov. 18, 1988, 102 Stat. 4304, commonly known as the Drug-Free Workplace Act of 1988, which is classified generally to chapter 10 (§701 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 41 and Tables.
+Subtitle D of title V of Public Law 100–690, referred to in subsec. (i), is subtitle D (§§5151–5160) of title V of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4304, commonly known as the Drug-Free Workplace Act of 1988, which is classified generally to chapter 10 (§701 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 41 and Tables.
 
 #### Prior Provisions
 
-A prior section 1070a, Pub. L. 89 329, title IV, §411, as added Pub. L. 92 318, title I, §131(b)(1), June 23, 1972, 86 Stat. 248; amended Pub. L. 94 328, §2(f), June 30, 1976, 90 Stat. 727; Pub. L. 94 482, title I, §121(a), (b)(1), (c) (i), Oct. 12, 1976, 90 Stat. 2091 2093; Pub. L. 95 43, §1(a)(5), June 15, 1977, 91 Stat. 213; Pub. L. 95 566, §2, Nov. 1, 1978, 92 Stat. 2402; Pub. L. 96 49, §5(a)(1), (2)(A), Aug. 13, 1979, 93 Stat. 351; Pub. L. 96 374, title IV, §402, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503; Pub. L. 97 301, §8(a), Oct. 13, 1982, 96 Stat. 1402, related to basic educational opportunity grants, amount and determinations, and applications, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1070a, Pub. L. 89–329, title IV, §411, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 248; amended Pub. L. 94–328, §2(f), June 30, 1976, 90 Stat. 727; Pub. L. 94–482, title I, §121(a), (b)(1), (c)–(i), Oct. 12, 1976, 90 Stat. 2091–2093; Pub. L. 95–43, §1(a)(5), June 15, 1977, 91 Stat. 213; Pub. L. 95–566, §2, Nov. 1, 1978, 92 Stat. 2402; Pub. L. 96–49, §5(a)(1), (2)(A), Aug. 13, 1979, 93 Stat. 351; Pub. L. 96–374, title IV, §402, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503; Pub. L. 97–301, §8(a), Oct. 13, 1982, 96 Stat. 1402, related to basic educational opportunity grants, amount and determinations, and applications, prior to the general revision of this part by Pub. L. 99–498.
 
-A prior section 401 of Pub. L. 89 329 was renumbered section 400 by section 402(a)(3) of Pub. L. 102 325 and is classified to section 1070 of this title.
+A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 402(a)(3) of Pub. L. 102–325 and is classified to section 1070 of this title.
 
-Another prior section 401 of Pub. L. 89 329, title IV, as added and amended Pub. L. 92 318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94 482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96 374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to section 1070 of this title, prior to the general revision of this part by Pub. L. 99 498.
+Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to section 1070 of this title, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1994—Subsec. (b)(8). Pub. L. 103 322 amended par. (8) generally. Prior to amendment, par. (8) read as follows:
+1994—Subsec. (b)(8). Pub. L. 103–322 amended par. (8) generally. Prior to amendment, par. (8) read as follows:
 
 “(8)(A) No basic grant shall be awarded to an incarcerated student under this subpart that exceeds the sum of the amount of tuition and fees normally assessed by the institution of higher education for the course of study such student is pursuing plus an allowance (determined in accordance with regulations issued by the Secretary) for books and supplies associated with such course of study, except that no basic grant shall be awarded to any incarcerated student serving under sentence of death or any life sentence without eligibility for parole or release.
 
-“(B) Basic grants under this subpart shall only be awarded to incarcerated individuals in a State if suchgrants are used to supplement and not supplant the level of postsecondary education assistance provided by such State to incarcerated individuals in fiscal year 1988.”
+“(B) Basic grants under this subpart shall only be awarded to incarcerated individuals in a State if such grants are used to supplement and not supplant the level of postsecondary education assistance provided by such State to incarcerated individuals in fiscal year 1988.”
 
-1993—Subsec. (a)(1). Pub. L. 103 208, §2(b)(1), inserted before period at end of second sentence “, except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment”.
+1993—Subsec. (a)(1). Pub. L. 103–208, §2(b)(1), inserted before period at end of second sentence “, except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment”.
 
-Subsec. (b)(2)(B). Pub. L. 103 208, §2(k)(1), amended directory language of Pub. L. 102 325, §401(d)(2)(A). See 1992 Amendment note below.
+Subsec. (b)(2)(B). Pub. L. 103–208, §2(k)(1), amended directory language of Pub. L. 102–325, §401(d)(2)(A). See 1992 Amendment note below.
 
-Subsec. (b)(6). Pub. L. 103 208, §2(b)(2) (4), substituted “single award year” for “single 12-month period” in introductory provisions, “an associate or baccalaureate” for “a baccalaureate” in subpar. (A), and “an associate or baccalaureate” for “a bachelor's” in subpar. (B).
+Subsec. (b)(6). Pub. L. 103–208, §2(b)(2)–(4), substituted “single award year” for “single 12-month period” in introductory provisions, “an associate or baccalaureate” for “a baccalaureate” in subpar. (A), and “an associate or baccalaureate” for “a bachelor's” in subpar. (B).
 
-Subsec. (i). Pub. L. 103 208, §2(b)(5), substituted “subtitle D of title V” for “part D of title V”.
+Subsec. (i). Pub. L. 103–208, §2(b)(5), substituted “subtitle D of title V” for “part D of title V”.
 
-1992—Subsec. (a)(1). Pub. L. 102 325, §401(a), substituted “September 30, 1998” for “September 30, 1992” and “subsection (b) of this section” for “paragraph (2)”.
+1992—Subsec. (a)(1). Pub. L. 102–325, §401(a), substituted “September 30, 1998” for “September 30, 1992” and “subsection (b) of this section” for “paragraph (2)”.
 
-Subsec. (a)(3). Pub. L. 102 325, §401(b), substituted “Federal Pell Grants” for “Pell Grants”.
+Subsec. (a)(3). Pub. L. 102–325, §401(b), substituted “Federal Pell Grants” for “Pell Grants”.
 
-Subsec. (b)(1). Pub. L. 102 325, §401(c), struck out “(A) as determined under paragraph (2), will meet 60 percent of a student's cost of attendance (as defined in section 1070a 6 of this title); and (B)” after “basic grant that” and substituted “family and student” for “parental or independent student”, “subparts 3 and 4” for “subparts 2 and 3”, and “will meet at least 75 percent” for “will meet 75 percent”.
+Subsec. (b)(1). Pub. L. 102–325, §401(c), struck out “(A) as determined under paragraph (2), will meet 60 percent of a student's cost of attendance (as defined in section 1070a–6 of this title); and (B)” after “basic grant that” and substituted “family and student” for “parental or independent student”, “subparts 3 and 4” for “subparts 2 and 3”, and “will meet at least 75 percent” for “will meet 75 percent”.
 
-Subsec. (b)(2)(A)(i) to (v). Pub. L. 102 325, §401(d)(1), added cls. (i) to (v) and struck out former cls. (i) to (v) which read as follows:
+Subsec. (b)(2)(A)(i) to (v). Pub. L. 102–325, §401(d)(1), added cls. (i) to (v) and struck out former cls. (i) to (v) which read as follows:
 
-“(i) $2,300 for academic year 1987 1988,
+“(i) $2,300 for academic year 1987–1988,
 
-“(ii) $2,500 for academic year 1988 1989,
+“(ii) $2,500 for academic year 1988–1989,
 
-“(iii) $2,700 for academic year 1989 1990,
+“(iii) $2,700 for academic year 1989–1990,
 
-“(iv) $2,900 for academic year 1990 1991, and
+“(iv) $2,900 for academic year 1990–1991, and
 
-“(v) $3,100 for academic year 1991 1992,”.
+“(v) $3,100 for academic year 1991–1992,”.
 
-Subsec. (b)(2)(B). Pub. L. 102 325, §401(d)(2)(A), as amended by Pub. L. 103 208, §2(k)(1), inserted “(including a student who attends an institution of higher education on less than a half-time basis)” in first sentence after “full-time basis” the first time appearing.
+Subsec. (b)(2)(B). Pub. L. 102–325, §401(d)(2)(A), as amended by Pub. L. 103–208, §2(k)(1), inserted “(including a student who attends an institution of higher education on less than a half-time basis)” in first sentence after “full-time basis” the first time appearing.
 
-Pub. L. 102 325, §401(d)(2)(B), inserted “, computed in accordance with this subpart” before period at end of first sentence.
+Pub. L. 102–325, §401(d)(2)(B), inserted “, computed in accordance with this subpart” before period at end of first sentence.
 
-Subsec. (b)(3). Pub. L. 102 325, §401(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The amount of a basic grant to which a student is entitled under this subpart for any academic year shall not exceed 60 percent of the cost of attendance (as defined in section 1070a 6 of this title) at the institution at which the student is in attendance for that year.”
+Subsec. (b)(3). Pub. L. 102–325, §401(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The amount of a basic grant to which a student is entitled under this subpart for any academic year shall not exceed 60 percent of the cost of attendance (as defined in section 1070a–6 of this title) at the institution at which the student is in attendance for that year.”
 
-Subsec. (b)(4). Pub. L. 102 325, §401(d)(4), substituted “section 1087<i>ll</i>” for “section 1070a 6”.
+Subsec. (b)(4). Pub. L. 102–325, §401(d)(4), substituted “section 1087<i>ll</i>” for “section 1070a–6”.
 
-Subsec. (b)(5). Pub. L. 102 325, §401(d)(5), substituted “$400, except that a student who is eligible for a basic grant that is equal to or greater than $200 but less than $400 shall be awarded a basic grant of $400” for “$200”.
+Subsec. (b)(5). Pub. L. 102–325, §401(d)(5), substituted “$400, except that a student who is eligible for a basic grant that is equal to or greater than $200 but less than $400 shall be awarded a basic grant of $400” for “$200”.
 
-Subsec. (b)(6) to (8). Pub. L. 102 325, §401(d)(6), added pars. (6) to (8) and struck out former pars. (6) and (7) which limited or prohibited basic grants from funds appropriated for fiscal years prior to 1992 to students attending on a less than half-time basis.
+Subsec. (b)(6) to (8). Pub. L. 102–325, §401(d)(6), added pars. (6) to (8) and struck out former pars. (6) and (7) which limited or prohibited basic grants from funds appropriated for fiscal years prior to 1992 to students attending on a less than half-time basis.
 
-Subsec. (c)(1). Pub. L. 102 325, §401(e)(1), substituted “any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.” for “—
+Subsec. (c)(1). Pub. L. 102–325, §401(e)(1), substituted “any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.” for “—
 
 &emsp;“(A) such period may not exceed the full-time equivalent of—
 
@@ -182,13 +182,13 @@ Subsec. (c)(1). Pub. L. 102 325, §401(e)(1), substituted “any period during w
 
 &emsp;&emsp;“(iii) special circumstances as determined by the institution.”
 
-Subsec. (c)(2). Pub. L. 102 325, §401(e)(2), inserted at end “Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.”
+Subsec. (c)(2). Pub. L. 102–325, §401(e)(2), inserted at end “Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.”
 
-Subsec. (f)(1). Pub. L. 102 325, §401(f)(1), substituted “, as a part of its regular output document, the expected family contribution” for “an estimate of the eligibility index” in introductory provisions and “expected family contribution” for “eligibility index” in subpars. (A), (B), and (D).
+Subsec. (f)(1). Pub. L. 102–325, §401(f)(1), substituted “, as a part of its regular output document, the expected family contribution” for “an estimate of the eligibility index” in introductory provisions and “expected family contribution” for “eligibility index” in subpars. (A), (B), and (D).
 
-Subsec. (f)(3). Pub. L. 102 325, §401(f)(2), substituted “expected family contribution” for “eligibility index”.
+Subsec. (f)(3). Pub. L. 102–325, §401(f)(2), substituted “expected family contribution” for “eligibility index”.
 
-Subsec. (g). Pub. L. 102 325, §401(g), struck out “Adjustments for” before “insufficient appropriations” in heading and amended text generally. Prior to amendment, text read as follows:
+Subsec. (g). Pub. L. 102–325, §401(g), struck out “Adjustments for” before “insufficient appropriations” in heading and amended text generally. Prior to amendment, text read as follows:
 
 “(1) If, for any fiscal year, the funds appropriated for payments under this subpart are insufficient to satisfy fully all entitlements, as calculated under subsection (b) of this section, the amount paid with respect to each entitlement shall be—
 
@@ -198,41 +198,41 @@ Subsec. (g). Pub. L. 102 325, §401(g), struck out “Adjustments for” before 
 
 “(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shall contain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made.”
 
-Subsec. (i). Pub. L. 102 325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100 690.”
+Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
 
-1987—Subsec. (g)(2). Pub. L. 100 50 substituted “paragraph (1)(B)” for “paragraph (1)”.
+1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
-Section 20411(b) of Pub. L. 103 322 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to periods of enrollment beginning on or after the date of enactment of this Act \[Sept. 13, 1994\].”
+Section 20411(b) of Pub. L. 103–322 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to periods of enrollment beginning on or after the date of enactment of this Act \[Sept. 13, 1994\].”
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 2(b)(1), (3) (5), (k)(1) of Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, and amendment by section 2(b)(2) of Pub. L. 103 208 effective on and after Dec. 20, 1993, see section 5(a), (b)(2) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by section 2(b)(1), (3)–(5), (k)(1) of Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, and amendment by section 2(b)(2) of Pub. L. 103–208 effective on and after Dec. 20, 1993, see section 5(a), (b)(2) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 410 of Pub. L. 102 325 provided that: “The changes made in part A of title IV of the Act \[20 U.S.C.1070 et seq.\] by the amendments made by this part \[part A (§§401 410) of title IV of Pub. L. 102 325, see Tables for classification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
+Section 410 of Pub. L. 102–325 provided that: “The changes made in part A of title IV of the Act \[20 U.S.C. 1070 et seq.\] by the amendments made by this part \[part A (§§401–410) of title IV of Pub. L. 102–325, see Tables for classification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
 
 &emsp;“(1) as otherwise provided in such part A;
 
 &emsp;“(2) that the changes made in section 411 \[this section\], relating to Pell Grants, shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1993; and
 
-&emsp;“(3) that the changes in section 413C(a)(2) \[20 U.S.C. 1070b 2(a)(2)\], relating to the Federal share for the supplemental educational opportunity grant program, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993.”
+&emsp;“(3) that the changes in section 413C(a)(2) \[20 U.S.C. 1070b–2(a)(2)\], relating to the Federal share for the supplemental educational opportunity grant program, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993.”
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99 498, set out as a note under section 1001 of this title.
+Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Section 401(b)(3), (4) of Pub. L. 99 498 provided that:
+Section 401(b)(3), (4) of Pub. L. 99–498 provided that:
 
 “(3) Section 411(c) of the Act \[20 U.S.C. 1070a(c)\] as amended by this section shall apply only to individuals who receive a Pell Grant for the first time for a period of enrollment beginning on or after July 1, 1987.
 
@@ -240,31 +240,31 @@ Section 401(b)(3), (4) of Pub. L. 99 498 provided that:
 
 #### Study of Pell Grant Eligibility for Less Than Half-Time Students
 
-Section 1306 of Pub. L. 99 498 directed Secretary to conduct a study and report to Congress not later than Sept. 30, 1988, on the number of less than half-time students who would be eligible for Pell grants by reason of having an expected family contribution of $0 and of $0 $200 for the appropriate academic years.
+Section 1306 of Pub. L. 99–498 directed Secretary to conduct a study and report to Congress not later than Sept. 30, 1988, on the number of less than half-time students who would be eligible for Pell grants by reason of having an expected family contribution of $0 and of $0–$200 for the appropriate academic years.
 
 #### Maximum Pell Grants
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
 
-Pub. L. 103 333, title III, Sept. 30, 1994, 108 Stat. 2564.
+Pub. L. 103–333, title III, Sept. 30, 1994, 108 Stat. 2564.
 
-Pub. L. 103 112, title III, Oct. 21, 1993, 107 Stat. 1104.
+Pub. L. 103–112, title III, Oct. 21, 1993, 107 Stat. 1104.
 
-Pub. L. 102 394, title III, Oct. 6, 1992, 106 Stat. 1816.
+Pub. L. 102–394, title III, Oct. 6, 1992, 106 Stat. 1816.
 
-Pub. L. 102 170, title III, Nov. 26, 1991, 105 Stat. 1131.
+Pub. L. 102–170, title III, Nov. 26, 1991, 105 Stat. 1131.
 
-Pub. L. 101 517, title III, Nov. 5, 1990, 104 Stat. 2212.
+Pub. L. 101–517, title III, Nov. 5, 1990, 104 Stat. 2212.
 
-Pub. L. 101 166, title III, Nov. 21, 1989, 103 Stat. 1182.
+Pub. L. 101–166, title III, Nov. 21, 1989, 103 Stat. 1182.
 
-Pub. L. 100 436, title III, Sept. 20, 1988, 102 Stat. 1704.
+Pub. L. 100–436, title III, Sept. 20, 1988, 102 Stat. 1704.
 
-Pub. L. 100 202, §101(h) \[title III\], Dec. 22, 1987, 101 Stat. 1329 256, 1329 279.
+Pub. L. 100–202, §101(h) \[title III\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1070a 24, 1090 of this title.
+This section is referred to in sections 1070a–24, 1090 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

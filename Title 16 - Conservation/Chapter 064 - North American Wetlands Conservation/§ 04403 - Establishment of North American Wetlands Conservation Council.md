@@ -4,7 +4,7 @@
 
 (1) There shall be established a North American Wetlands Conservation Council (hereinafter in this chapter referred to as the “Council”) which shall consist of nine members who may not receive compensation as members of the Council. Of the Council members—
 
-&emsp;(A) one shall be the Director of the United States Fish and Wildlife Service, who shall be the responsible Federal official for ensuringCouncil compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+&emsp;(A) one shall be the Director of the United States Fish and Wildlife Service, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
 &emsp;(B) one shall be the Secretary of the Board of the National Fish and Wildlife Foundation appointed pursuant to section 3702(2)(B) <sup>1</sup> of this title;
 

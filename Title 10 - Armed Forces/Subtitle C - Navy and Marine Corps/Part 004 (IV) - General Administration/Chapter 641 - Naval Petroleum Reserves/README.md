@@ -2,8 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 7420\. | Definitions. |
-| 7421\. | Jurisdiction and control. |
+| [7420\.](%C2%A7%2007420%20-%20Definitions.md) | Definitions. |
+| [7421\.](%C2%A7%2007421%20-%20Jurisdiction%20and%20control.md) | Jurisdiction and control. |
 | [7422\.](%C2%A7%2007422%20-%20Administration.md) | Administration. |
 | [7423\.](%C2%A7%2007423%20-%20Periodic%20re-examination%20of%20production%20requirements.md) | Periodic re-examination of production requirements. |
 | [7424\.](%C2%A7%2007424%20-%20Protection%20of%20oil%20reserves%3B%20contracts%20for%20conservation.md) | Protection of oil reserves; contracts for conservation. |
@@ -21,7 +21,12 @@
 | [7431\.](%C2%A7%2007431%20-%20Requirements%20as%20to%20consultation%20and%20approval.md) | Requirements as to consultation and approval. |
 | [7432\.](%C2%A7%2007432%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 | [7433\.](%C2%A7%2007433%20-%20Disposition%20of%20royalties.md) | Disposition of royalties. |
-| [7434\.](%C2%A7%2007434%20-%20Annual%20report%20to%20Armed%20Services%20Committees.md) | Annual report to Armed Services Committees. |
+| [7434\.](%C2%A7%2007434%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28g%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20716.md) | Annual report to Armed Services Committees.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [7435\.](%C2%A7%2007435%20-%20Foreign%20interest.md) | Foreign interest. |
 | [7436\.](%C2%A7%2007436%20-%20Regulations.md) | Regulations. |
 | [7437\.](%C2%A7%2007437%20-%20Violations%20by%20lessee.md) | Violations by lessee. |
@@ -51,6 +56,8 @@ This chapter is referred to in title 30 section 353; title 42 sections 6214, 715
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
+<i><sup>2</sup></i><i> Section repealed by Pub. L. 104–66 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -70,7 +77,7 @@ This chapter is referred to in title 30 section 353; title 42 sections 6214, 715
 - [&sect; 07431 - Requirements as to consultation and approval](%C2%A7%2007431%20-%20Requirements%20as%20to%20consultation%20and%20approval.md)
 - [&sect; 07432 - Authorizations of appropriations](%C2%A7%2007432%20-%20Authorizations%20of%20appropriations.md)
 - [&sect; 07433 - Disposition of royalties](%C2%A7%2007433%20-%20Disposition%20of%20royalties.md)
-- [&sect; 07434 - Annual report to Armed Services Committees](%C2%A7%2007434%20-%20Annual%20report%20to%20Armed%20Services%20Committees.md)
+- [&sect; 07434 - Repealed. Pub. L. 104&#8211;66, title I, &sect;1051(g), Dec. 21, 1995, 109 Stat. 716](%C2%A7%2007434%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28g%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20716.md)
 - [&sect; 07435 - Foreign interest](%C2%A7%2007435%20-%20Foreign%20interest.md)
 - [&sect; 07436 - Regulations](%C2%A7%2007436%20-%20Regulations.md)
 - [&sect; 07437 - Violations by lessee](%C2%A7%2007437%20-%20Violations%20by%20lessee.md)

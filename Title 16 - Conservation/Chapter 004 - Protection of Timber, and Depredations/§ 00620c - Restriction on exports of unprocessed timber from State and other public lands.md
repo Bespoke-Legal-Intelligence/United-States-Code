@@ -110,7 +110,7 @@ Nothing in this section shall be construed to supersede section 2406(i) of title
 
 #### (g) Presidential authority
 
-The President is authorized, after suitable notice and a public comment period of not lessthan 120 days, to suspend the provisions of this section if a panel of experts has reported to the Contracting Parties to the General Agreement on Tariffs and Trade, or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
+The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Contracting Parties to the General Agreement on Tariffs and Trade, or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 
 #### (h) Removal or modifications of State restrictions
 

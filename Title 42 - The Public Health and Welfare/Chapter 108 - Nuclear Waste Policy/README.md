@@ -283,7 +283,7 @@
 | (e) | “Non-nuclear weapon state” defined. |
 | (f) | Unauthorized actions. |
 | [10204\.](Subchapter%20002%20%28II%29%20-%20Research%2C%20Development%2C%20and%20Demonstration%20Regarding%20Disposal%20of%20High-Level%20Radioactive%20Waste%20and%20Spent%20Nuclear%20Fuel/%C2%A7%2010204%20-%20Subseabed%20disposal.md) | Subseabed disposal. |
-| (a) | Study. |
+| (a) | Repealed. |
 | (b) | Office of Subseabed Disposal Research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -306,7 +306,7 @@
 | (a) | Establishment. |
 | (b) | Functions of Director. |
 | (c) | Annual report to Congress. |
-| (d) | Annual audit by Comptroller General. |
+| (d) | Audit by GAO. |
 | [10225\.](Subchapter%20003%20%28III%29%20-%20Other%20Provisions%20Relating%20to%20Radioactive%20Waste/%C2%A7%2010225%20-%20Location%20of%20test%20and%20evaluation%20facility.md) | Location of test and evaluation facility. |
 | (a) | Report to Congress. |
 | (b) | Procedures. |

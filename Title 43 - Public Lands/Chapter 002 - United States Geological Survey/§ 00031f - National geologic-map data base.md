@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Survey shall establish a national geologic-map data base. Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title,the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate.
+The Survey shall establish a national geologic-map data base. Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title, the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate.
 
 #### (b) Standardization
 

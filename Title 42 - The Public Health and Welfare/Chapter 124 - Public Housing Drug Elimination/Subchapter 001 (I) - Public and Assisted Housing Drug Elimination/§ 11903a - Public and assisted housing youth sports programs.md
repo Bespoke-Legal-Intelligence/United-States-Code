@@ -36,7 +36,7 @@ Grants under this section may be made only to—
 
 &emsp;&emsp;(A) The sports program shall serve primarily youths from the public housing project in which the program assisted by the grant is operated.
 
-&emsp;&emsp;(B) The sports program shall provide positive sports activities or positive cultural,recreational, or other activities, designed to appeal to youths as alternatives to the drug environment in the public housing project.
+&emsp;&emsp;(B) The sports program shall provide positive sports activities or positive cultural, recreational, or other activities, designed to appeal to youths as alternatives to the drug environment in the public housing project.
 
 &emsp;&emsp;(C) The sports program shall be operated as, in conjunction with, or in furtherance of, an organized program or plan designed to eliminate drugs and drug-related problems in the public housing project or projects within the public housing agency.
 
@@ -274,7 +274,7 @@ The Secretary shall issue any regulations necessary to carry out this section.
 
 &emsp;To be eligible to receive a grant under paragraph (1)(A), an eligible entity shall submit to the Secretary an application in the form and manner required by the Secretary (after consultation with the Advisory Committee), which shall include—
 
-&emsp;&emsp;(A) a description of the midnight basketball league program to be carried out by theentity, including a description of the employment counseling, job training, and other educational services to be provided;
+&emsp;&emsp;(A) a description of the midnight basketball league program to be carried out by the entity, including a description of the employment counseling, job training, and other educational services to be provided;
 
 &emsp;&emsp;(B) letters of agreement from service providers to provide training and counseling services required under paragraph (4) and a description of such service providers;
 

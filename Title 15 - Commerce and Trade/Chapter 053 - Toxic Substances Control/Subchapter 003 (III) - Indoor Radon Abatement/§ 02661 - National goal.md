@@ -2,11 +2,11 @@
 
 The national long-term goal of the United States with respect to radon levels in buildings is that the air within buildings in the United States should be as free of radon as the ambient air outside of buildings.
 
-(Pub. L. 94 469, title III, §301, as added Pub. L. 100 551, §1(a), Oct. 28, 1988, 102 Stat. 2755.)
+(Pub. L. 94–469, title III, §301, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2755.)
 
 #### Report on Recommended Policy for Dealing With Radon in Assisted Housing
 
-Pub. L. 100 628, title X, §1091, Nov. 7, 1988, 102 Stat. 3283, provided that:
+Pub. L. 100–628, title X, §1091, Nov. 7, 1988, 102 Stat. 3283, provided that:
 
 “(a)
 
@@ -30,7 +30,7 @@ Applicability.—The housing covered by this section is—
 
 &emsp;&emsp;“(C) housing receiving project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
 
-&emsp;&emsp;“(D) housing assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z 1\]; and
+&emsp;&emsp;“(D) housing assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; and
 
 &emsp;&emsp;“(E) housing assisted under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\].
 

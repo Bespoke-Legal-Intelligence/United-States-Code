@@ -32,7 +32,7 @@
 
 #### (c) Duties and functions of Commission; public hearings in different geographical areas; broad spectrum of witnesses and testimony
 
-(1) It shall be the duty and function of the Commission to serve as a forum on behalf of thechildren of the Nation and to conduct the studies and issue the report required by subsection (d) of this section.
+(1) It shall be the duty and function of the Commission to serve as a forum on behalf of the children of the Nation and to conduct the studies and issue the report required by subsection (d) of this section.
 
 (2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
 
@@ -120,7 +120,7 @@ The Commission shall submit to the President, and to the Committees on Finance a
 
 &emsp;(6) In addition to addressing the questions specified in paragraphs (1) through (5), the Commission shall—
 
-&emsp;&emsp;(A) seek to identify ways in which public and private organizations and institutions can work together at the community level to identify deficiencies in existing services for families and children and to develop recommendations to ensure that the needs of families and children are met, using allavailable resources, in a coordinated and comprehensive manner, and
+&emsp;&emsp;(A) seek to identify ways in which public and private organizations and institutions can work together at the community level to identify deficiencies in existing services for families and children and to develop recommendations to ensure that the needs of families and children are met, using all available resources, in a coordinated and comprehensive manner, and
 
 &emsp;&emsp;(B) assess the existing capacities of agencies to collect and analyze data on the status of children and on relevant programs, identify gaps in the data collection system, and recommend ways to improve the collection of data and the coordination among agencies in the collection and utilization of data.
 
@@ -216,9 +216,7 @@ Subsec. (j). Pub. L. 100–647, §8201(5), inserted “for each of fiscal years 
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives and Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

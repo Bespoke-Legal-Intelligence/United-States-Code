@@ -3,9 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | \[7521. | Repealed.\] |
-| 7522\. | Contracts for research. |
-| 7523\. | Tolls and fares: payment or reimbursement. |
-| 7524\. | Marine mammals: use for national defense purposes. |
+| [7522\.](%C2%A7%2007522%20-%20Contracts%20for%20research.md) | Contracts for research. |
+| [7523\.](%C2%A7%2007523%20-%20Tolls%20and%20fares%20payment%20or%20reimbursement.md) | Tolls and fares: payment or reimbursement. |
+| [7524\.](%C2%A7%2007524%20-%20Marine%20mammals%20use%20for%20national%20defense%20purposes.md) | Marine mammals: use for national defense purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@ The North Pacific Fishery Management Council may prepare, in consultation with t
 
 (2) Any system of fees established under this section shall—
 
-&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
+&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented undersubsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
 
 &emsp;(B) be fair and equitable to all participants in the fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 

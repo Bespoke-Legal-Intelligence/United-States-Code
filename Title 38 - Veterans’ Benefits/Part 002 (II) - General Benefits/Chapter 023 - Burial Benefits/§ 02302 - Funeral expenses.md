@@ -22,13 +22,13 @@
 
 1989—Subsec. (a). Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
-1982—Subsec. (a). Pub. L. 97–306 substituted requirement of a deceased veteran who at the time of deathwas in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or was in receipt of pension, or who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Administrator determines that there is no next of kin or other person claiming the body of the deceased veteran, and that there are not available sufficient resources to cover burial and funeral expenses, for requirement of a veteran who dies in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or in receipt of pension.
+1982—Subsec. (a). Pub. L. 97–306 substituted requirement of a deceased veteran who at the time of death was in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or was in receipt of pension, or who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Administrator determines that there is no next of kin or other person claiming the body of the deceased veteran, and that there are not available sufficient resources to cover burial and funeral expenses, for requirement of a veteran who dies in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or in receipt of pension.
 
 1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to death of a veteran in receipt of compensation or a pension, for provisions relating to a veteran who dies of a service-connected disability, or who was a veteran of any war, discharged for a disability incurred or aggravated in line of duty, or in receipt of disability compensation.
 
 1978—Subsec. (a). Pub. L. 95–479 substituted “$300” for “$250”.
 
-Pub. L. 95–476, §203(b)(1), (2), substituted “in the Administrator's discretion” and “as the Administrator prescribes” for “in his discretion” and “as he prescribes”, respectively.
+Pub. L. 95–476, §203(b)(1), (2), substituted “in the Administrator's discretion” and “as the Administratorprescribes” for “in his discretion” and “as he prescribes”, respectively.
 
 Subsec. (b). Pub. L. 95–476, §203(b)(3), substituted “the death of such veteran” for “his death”.
 

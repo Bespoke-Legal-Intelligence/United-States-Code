@@ -14,7 +14,7 @@ The Secretary of State is authorized to—
 
 &emsp;(f) pay expenses incident to the relief, protection, and burial of American seamen, and alien seamen from United States vessels in foreign countries and in the United States Territories and possessions;
 
-&emsp;(g) pay the expenses incurred in the acknowledgment of the services of officers andcrews of foreign vessels and aircraft in rescuing American seamen, airmen, or citizens from shipwreck or other catastrophe abroad or at sea;
+&emsp;(g) pay the expenses incurred in the acknowledgment of the services of officers and crews of foreign vessels and aircraft in rescuing American seamen, airmen, or citizens from shipwreck or other catastrophe abroad or at sea;
 
 &emsp;(h) rent or lease, for periods of less than ten years, such offices, buildings, grounds, and living quarters for the use of the Foreign Service abroad as he may deem necessary, and make payments therefor in advance;
 
@@ -50,7 +50,7 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1978 Amendment
 

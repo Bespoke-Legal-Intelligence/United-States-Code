@@ -16,7 +16,7 @@
 
 (2) This subsection shall apply notwithstanding any other provision of law or regulation of any State or of any locality within a State, or any other law of the United States.
 
-(3)(A) Upon request by a State or locality, the Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation shall enter into an agreement with such State or locality to indemnify and hold harmless such State or locality, and its officers, employees and agents, from any claim against such State or locality, or its officer, employee or agent, for damages, costs and other monetary loss, whether or not suit is instituted, arising from the disclosure or use by such department, office, agency, or bureau of criminal history record information obtained from the State or locality pursuant to this subsection, if the laws of such State or locality, as of the date of enactment of this section, otherwise have the effect of prohibiting the disclosure of such criminal history record information to such department, office, agency, or bureau.
+(3)(A) Upon request by a State or locality, the Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation shall enter into an agreement with such State or locality to indemnify and hold harmless such State or locality, and its officers, employees and agents, from any claim against such State or locality, or its officer, employee or agent, for damages, costs and other monetary loss, whether or not suit is instituted, arising from the disclosure or use by such department, office, agency, or bureau of criminal history record information obtained from the State or locality pursuant to this subsection, ifthe laws of such State or locality, as of the date of enactment of this section, otherwise have the effect of prohibiting the disclosure of such criminal history record information to such department, office, agency, or bureau.
 
 (B) When the Department of Defense, the Department of State, the Office of Personnel Management, the Central Intelligence Agency, or the Federal Bureau of Investigation and a State or locality have entered into an agreement described in subparagraph (A), and a claim described in such subparagraph is made against such State or locality, or its officer, employee, or agent, the State or locality shall expeditiously transmit notice of such claim to the Attorney General and to the United States Attorney of the district embracing the place wherein the claim is made, and the United States shall have the opportunity to make all determinations regarding the settlement or defense of such claim.
 
@@ -34,11 +34,11 @@
 
 #### Amendments
 
-1990—Subsecs. (b)(1), (3)(A), (B), (c). Pub. L. 101–246, §114(1), inserted “the Department of State,” after “Defense,” wherever appearing.
+<b>1990</b>—Subsecs. (b)(1), (3)(A), (B), (c). Pub. L. 101–246, §114(1), inserted “the Department of State,” after “Defense,” wherever appearing.
 
 Subsec. (e). Pub. L. 101–246, §114(2), added subsec. (e).
 
-1986—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
+<b>1986</b>—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
 
 #### Effective Date of 1986 Amendment
 

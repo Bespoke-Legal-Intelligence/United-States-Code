@@ -58,7 +58,7 @@ Amendment by section 7894(d)(3) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable in the case of any application submitted after Dec. 17, 1987, and any waiver granted pursuant to such an application,see section 9306(f) of Pub. L. 100–203, set out as a note under section 412 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 100–203 applicable in the case of any application submitted after Dec. 17, 1987, and any waiver granted pursuant to such an application, see section 9306(f) of Pub. L. 100–203, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
-&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
+&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development,to incorporate scientific and technological knowledge in the national decisionmaking process;
 
 &emsp;(3) the scientific and technological capabilities of the United States, when properly fostered, applied, and directed, can effectively assist in improving the quality of life, in anticipating and resolving critical and emerging international, national, and local problems, in strengthening the Nation's international economic position, and in furthering its foreign policy objectives;
 
@@ -46,7 +46,7 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 94–282 provided that: “This Act \[enacting this chapter, amending section 1863 of this title, repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under section 1861 of this title, and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under section 5195 of this title, and enacting provisions set out as notes under sections 6601, 1862, and 6611 of this title\] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
+Section 1 of Pub. L. 94–282 provided that: “This Act \[enacting this chapter, amending section 1863 of this title, repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under section 1861 of this title, and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under section 5195 of this title, and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title\] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
 
 Section 201 of title II of Pub. L. 94–282 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Presidential Science and Technology Advisory Organization Act of 1976’.”
 
@@ -54,7 +54,7 @@ Section 201 of title II of Pub. L. 94–282 provided that: “This title \[enact
 
 Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, as amended by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
 
-By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 7 of Reorganization Plan No. 1 of 1977\(42 FR 56101 (October 21, 1977)) \[set out in Appendix of Title 5, Government Organization and Employees\], Section 301 of Title 3 of the United States Code, and Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and as President of the United States of America, in order to provide for the transfer of certain science and technology functions, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 7 of Reorganization Plan No. 1 of 1977 (42 FR 56101 (October 21, 1977)) \[set out in Appendix of Title 5, Government Organization and Employees\], Section 301 of Title 3 of the United States Code, and Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and as President of the United States of America, in order to provide for the transfer of certain science and technology functions, it is hereby ordered as follows:
 
 Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1 of 1977 (42 FR 56101) \[set out in Appendix of Title 5, Government Organization and Employees\], of certain functions under the National Science and Technology Policy, Organization, and Priorities Act of 1976, hereinafter referred to as the Act (90 Stat. 459, 42 U.S.C. 6601 et seq.), from the Office of Science and Technology Policy and its Director to the Director of the National Science Foundation is hereby effective.
 
@@ -62,7 +62,7 @@ Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1
 
 Sec. 2. (a) The intergovernmental science, engineering, and technology functions under Section 205(b)(1) of the Act (42 U.S.C. 6614(b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy; <i>Except that,</i> the responsibility for fostering any policies to facilitate the transfer and utilization of research and development results is delegated to the Director of the Office of Management and Budget.
 
-(b) The functions vested by subsection (a) of this Section in the Director of the Office of Management and Budget shall be performed in accord with the Director's responsibilities under the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 42 U.S.C. 4201 et seq.) \[31 U.S.C. 6501 et seq.\]. The Director of the Office of Science and Technology Policy shall advise the Director of the Office of Management and Budget with respect to the needs of State, regional, and local governments which may be assisted by the utilization of science, engineering, and technology research and development results.
+(b) The functions vested by subsection (a) of this Section in the Director of the Office of Management and Budget shall be performed in accord with the Director'sresponsibilities under the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 42 U.S.C. 4201 et seq.) \[31 U.S.C. 6501 et seq.\]. The Director of the Office of Science and Technology Policy shall advise the Director of the Office of Management and Budget with respect to the needs of State, regional, and local governments which may be assisted by the utilization of science, engineering, and technology research and development results.
 
 (c) The functions vested by subsection (a) of this Section in the Director of the Office of Science and Technology Policy shall be performed in coordination with the Director of the Office of Management and Budget and with others as designated by the President.
 
@@ -177,6 +177,70 @@ Sec. 4. <i>General</i>. (a) I have determined that the Committee shall be establ
 (b) PCAST shall terminate 2 years from the date of this order unless extended prior to that date.
 
 (c) Executive Orders Nos. 12700, 12768, and Section 2 of Executive Order No. 12869 \[set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees\] are hereby revoked.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Committee of Advisors on Science and Technology
+
+Term of the President's Committee of Advisors on Science and Technology extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Ex. Ord. No. 12975. Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission
+
+Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Review of Policies and Procedures</i>. (a) Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall promptly review the protections of the rights and welfare of human research subjects that are afforded by the department's or agency's existing policies and procedures. In conducting this review, departments and agencies shall take account of the recommendations contained in the report of the Advisory Committee on Human Radiation Experiments.
+
+(b) Within 120 days of the date of this order, each department and agency that conducts, supports, or regulates research involving human subjects shall report the results of the review required by paragraph (a) of this section to the National Bioethics Advisory Commission, created pursuant to this order. The report shall include an identification of measures that the department or agency plans or proposes to implement to enhance human subject protections. As set forth in section 5 of this order, the National Bioethics Advisory Commission shall pursue, as its first priority, protection of the rights and welfare of human research subjects.
+
+(c) For purposes of this order, the terms “research” and “human subject” shall have the meaning set forth in the 1991 Federal Policy for the Protection of Human Subjects.
+
+Sec. 2. <i>Research Ethics</i>. Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall, to the extent practicable and appropriate, develop professional and public educational programs to enhance activities related to human subjects protection, provide forums for addressing ongoing and emerging issues in human subjects research, and familiarize professionals engaged in nonfederally-funded research with the ethical considerations associated with conducting research involving human subjects. Where appropriate, such professional and educational programs should be organized and conducted with the participation of medical schools, universities, scientific societies, voluntary health organizations, or other interested parties.
+
+Sec. 3. <i>Establishment of National Bioethics Advisory Commission</i>. (a) There is hereby established a National Bioethics Advisory Commission (“NBAC”). NBAC shall be composed of not more than 15 members to be appointed by the President. NBAC shall be subject to the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+
+(b) The President shall designate a Chairperson from among the members of NBAC.
+
+Sec. 4. <i>Functions</i>. (a) NBAC shall provide advice and make recommendations to the National Science and Technology Council and to other appropriate government entities regarding the following matters:
+
+(1) the appropriateness of departmental, agency, or other governmental programs, policies, assignments, missions, guidelines, and regulations as they relate tobioethical issues arising from research on human biology and behavior; and
+
+(2) applications, including the clinical applications, of that research.
+
+(b) NBAC shall identify broad principles to govern the ethical conduct of research, citing specific projects only as illustrations for such principles.
+
+(c) NBAC shall not be responsible for the review and approval of specific projects.
+
+(d) In addition to responding to requests for advice and recommendations from the National Science and Technology Council, NBAC also may accept suggestions of issues for consideration from both the Congress and the public. NBAC also may identify other bioethical issues for the purpose of providing advice and recommendations, subject to the approval of the National Science and Technology Council.
+
+Sec. 5. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attention to consideration of: protection of the rights and welfare of human research subjects; and issues in the management and use of genetic information, including but not limited to, human gene patenting.
+
+(b) NBAC shall consider four criteria in establishing the other priorities for its activities:
+
+(1) the public health or public policy urgency of the bioethical issue;
+
+(2) the relation of the bioethical issue to the goals for Federal investment in science and technology;
+
+(3) the absence of another entity able to deliberate appropriately on the bioethical issue; and
+
+(4) the extent of interest in the issue within the Federal Government.
+
+Sec. 6. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide NBAC with such information as it may require for purposes of carrying out its functions.
+
+(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
+
+(c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Health and Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
+
+(d) Members of NBAC shall be compensated in accordance with Federal law. Members of NBAC may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
+
+(e) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide NBAC with such funds as may be necessary for the performance of its functions. The Secretary of Health and Human Services shall provide management and support services to NBAC.
+
+Sec. 7. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to NBAC, except that of reporting annually to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) NBAC shall terminate two years from the date of this order unless extended prior to that date.
+
+(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

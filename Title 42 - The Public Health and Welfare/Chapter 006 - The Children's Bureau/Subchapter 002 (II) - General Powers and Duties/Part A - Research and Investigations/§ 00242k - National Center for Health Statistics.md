@@ -76,7 +76,7 @@ The Center may provide to public and nonprofit private entities technical assist
 
 #### (j) Coordination of health statistical and epidemiological activities
 
-In carrying out the requirements of section 242b(c) of this title and paragraph (1) of subsection (e) of this section, the Secretary shall coordinate health statistical and epidemiological activities of the Department of Health and Human Services by—
+In carrying out the requirements of section 242b(c) of this title and paragraph (1) of subsection (e) of this section, the Secretary shallcoordinate health statistical and epidemiological activities of the Department of Health and Human Services by—
 
 &emsp;(1) establishing standardized means for the collection of health information and statistics under laws administered by the Secretary;
 
@@ -86,7 +86,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(4) in the case of proposed health data collections of the Department which are required to be reviewed by the Director of the Office of Management and Budget under section 3509 <sup>2</sup> of title 44, reviewing such proposed collections to determine whether they conform with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3), and if any such proposed collection is found not to be in conformance, by taking such action as may be necessary to assure that it will conform to such sets of data and standards, and
 
-&emsp;(5) periodically reviewing ongoing health data collections of the Department, subject to review under such section 3509, to determine if the collections are being conducted in accordance with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3) and, if any such collection is found not to be in conformance, by taking such action as may be necessary to assure that the collection will conform to such sets of data and standards not later than the ninetieth day after the date of the completion of the review of the collection.
+&emsp;(5) periodically reviewing ongoing health data collections of the Department, subject to review under such section 3509,<sup>2</sup> to determine if the collections are being conducted in accordance with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3) and, if any such collection is found not to be in conformance, by taking such action as may be necessary to assure that the collection will conform to such sets of data and standards not later than the ninetieth day after the date of the completion of the review of the collection.
 
 #### (k) National Committee on Vital and Health Statistics; establishment; membership; term of office; compensation; functions; consultations of Secretary with Committee and professional advisory groups
 
@@ -104,7 +104,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(C) to determine, approve, and revise the terms, definitions, classifications, and guidelines for assessing health status and health services, their distribution and costs, for use (i) within the Department of Health and Human Services, (ii) by all programs administered or funded by the Secretary, including the Federal-State-local cooperative health statistics system referred to in subsection (e) of this section, and (iii) to the extent possible as determined by the head of the agency involved, by the Department of Veterans Affairs, the Department of Defense, and other Federal agencies concerned with health and health services;
 
-&emsp;(D) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and HumanServices, with respect to the Cooperative Health Statistics System established under subsection (e) of this section, and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1) of this section;
+&emsp;(D) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and Human Services, with respect to the Cooperative Health Statistics System established under subsection (e) of this section, and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1) of this section;
 
 &emsp;(E) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation by local, State, national, or international agencies;
 
@@ -142,7 +142,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 #### References in Text
 
-Section 3509 of title 44, referred to in subsec. (j)(4), (5), was a part of chapter 35 of title 44 which was revised and amended generally by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2412. Provisions formerly contained in section 3509 are covered by section 3507 of Title 44, Public Printing and Documents.
+Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new section 3509 of Title 44 relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in section 3507 of Title 44.
 
 #### Prior Provisions
 
@@ -164,7 +164,7 @@ Subsec. (<i>l</i>). Pub. L. 103–183, §501(a)(5)(A)–(C), redesignated subsec
 
 Subsec. (m). Pub. L. 103–183, §501(a)(5)(B), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l).</i>
 
-Subsecs. (n), (<i>o</i>). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesignated subsec. (<i>o</i>) as (n), in par. (1) substituted “(<i>l</i>)” for “(m)” and “1998” for “1993”, and in par. (2)substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
+Subsecs. (n), (<i>o</i>). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesignated subsec. (<i>o</i>) as (n), in par. (1) substituted “(<i>l</i>)” for “(m)” and “1998” for “1993”, and in par. (2) substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
 
 1991—Subsec. (k)(4)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -224,7 +224,7 @@ Subsec. (<i>l</i>). Pub. L. 95–623, §8(a), added subsec. (<i>l).</i>
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 

@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Transfer of Functions
 
-“Director”, meaning Director of the United States International Development Cooperation Agency, substituted for “Administrator”, meaning Administrator of the Agency for International Development, in subsec. (d), pursuant to Reorg. Plan No. 2 of 1979, §6(a)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred functions and authorities of Administrator of Agency for International Development under subsec. (d) of this section to Director ofUnited States International Development Cooperation Agency.
+“Director”, meaning Director of the United States International Development Cooperation Agency, substituted for “Administrator”, meaning Administrator of the Agency for International Development, in subsec. (d), pursuant to Reorg. Plan No. 2 of 1979, §6(a)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred functions and authorities of Administrator of Agency for International Development under subsec. (d) of this section to Director of United States International Development Cooperation Agency.
 
 #### Delegation of Functions
 

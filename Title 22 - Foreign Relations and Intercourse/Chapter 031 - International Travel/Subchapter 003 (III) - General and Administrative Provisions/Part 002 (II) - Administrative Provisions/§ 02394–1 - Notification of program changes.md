@@ -2,11 +2,11 @@
 
 #### (a) Covered programs; content of notifications
 
-None of the funds appropriated to carry out the purposes of this chapter (except for programs under subpart III or subpart IV of part II of subchapter I of this chapter, part V of subchapter I of this chapter, and programs of disaster relief and rehabilitation) or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be obligated for any activities, programs, projects, types of materiel assistance, countries, or other operations not justified, or in excess of the amount justified, to the Congress for obligation under this chapter or the Arms Export Control Act for any fiscal year unless the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of the Congress are notified fifteen days in advance of such obligation. Whenever a proposed reprograming exceeds $1,000,000 and the total amount proposed for obligation for a country under this chapter in a fiscal year exceeds by more than $5,000,000 the amount specified for that country in the report required by section 2413(a) of this title, notifications of such proposed reprogramings shall specify—
+None of the funds appropriated to carry out the purposes of this chapter (except for programs under subpart III or subpart IV of part II of subchapter I of this chapter, part V of subchapter I of this chapter, and programs of disaster relief and rehabilitation) or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be obligated for any activities, programs, projects, types of materiel assistance, countries, or other operations not justified, or in excess of the amount justified, to the Congress for obligation under this chapter or the Arms Export Control Act for any fiscal year unless the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of the Congress are notified fifteen days in advance of such obligation. Whenever aproposed reprograming exceeds $1,000,000 and the total amount proposed for obligation for a country under this chapter in a fiscal year exceeds by more than $5,000,000 the amount specified for that country in the report required by section 2413(a) of this title, notifications of such proposed reprogramings shall specify—
 
 &emsp;(1) the nature and purpose of such proposed obligation, and
 
-&emsp;(2) to the extent possible at the time of the proposed obligation, the country for whichsuch funds would otherwise have been obligated.
+&emsp;(2) to the extent possible at the time of the proposed obligation, the country for which such funds would otherwise have been obligated.
 
 #### (b) Exceptions
 
@@ -46,7 +46,7 @@ Section was formerly classified to section 2429b of this title.
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

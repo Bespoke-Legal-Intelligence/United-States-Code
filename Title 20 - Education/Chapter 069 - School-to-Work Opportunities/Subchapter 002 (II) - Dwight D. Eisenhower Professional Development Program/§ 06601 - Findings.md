@@ -28,5 +28,5 @@ The Congress finds as follows:
 
 &emsp;(9) Parental involvement is an important aspect of school reform and improvement. There is a need for special attention to ensure the effective involvement of parents in the education of their children. Professional development should include methods and strategies to better prepare teachers and, where appropriate, administrators, to enable parents to participate fully and effectively in their children's education.
 
-(Pub. L. 89 10, title II, §2001, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3612.)
+(Pub. L. 89–10, title II, §2001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3612.)
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;With respect to each qualified empowerment zone, the Secretary shall make—
 
-&emsp;&emsp;&emsp;(i) 1 grant under this section to each State in which the zone lies, on the date ofthe designation of the zone under part I of subchapter U of chapter 1 of the Internal Revenue Code of 1986; and
+&emsp;&emsp;&emsp;(i) 1 grant under this section to each State in which the zone lies, on the date of the designation of the zone under part I of subchapter U of chapter 1 of the Internal Revenue Code of 1986; and
 
 &emsp;&emsp;&emsp;(ii) 1 grant under this section to each such State, on the 1st day of the 1st fiscal year that begins after the date of the designation.
 

@@ -1,4 +1,4 @@
-### §133a . Deputy Under Secretary of Defense for Acquisition and Technology
+### §133a. Deputy Under Secretary of Defense for Acquisition and Technology
 
 (a) There is a Deputy Under Secretary of Defense for Acquisition and Technology, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 

@@ -28,15 +28,15 @@ The Secretary may enter into contracts for—
 
 &emsp;(5) such other aspects of the direct student loan program as the Secretary determines are necessary to ensure the successful operation of the program.
 
-(Pub. L. 89 329, title IV, §456, as added Pub. L. 102 325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103 66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352.)
+(Pub. L. 89–329, title IV, §456, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352.)
 
 #### Amendments
 
-1993—Pub. L. 103 66 amended section generally, substituting provisions relating to contracts for former provisions relating to terms and conditions.
+1993—Pub. L. 103–66 amended section generally, substituting provisions relating to contracts for former provisions relating to terms and conditions.
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §410nn–3 . Advisory Commission
+### §410nn–3. Advisory Commission
 
 #### (a) Establishment
 
@@ -8,7 +8,7 @@ There is hereby established the Advisory Commission of the San Francisco Maritim
 
 &emsp;(2) 2 members appointed for terms of 4 years from recommendations submitted by the Governor of the State of California, at least one of whom shall have professional expertise in maritime historic preservation.
 
-&emsp;(3) 4 members appointed for terms of 5 years from recommendations submitted by the Mayor of San Francisco with special consideration given to individuals with knowledge of museum and/or maritime issues and who represent the local fishing industry, recreational users, the business community, and neighborhood groups.
+&emsp;(3) 4 members appointed for terms of 5 years from recommendations submitted by the Mayor of San Francisco with special consideration given to individuals with knowledge of museum and/or maritime issues and who represent the local fishing industry, recreationalusers, the business community, and neighborhood groups.
 
 &emsp;(4) 1 member appointed for a term of 5 years from recommendations from the Secretary of Commerce, who shall have professional expertise in the maritime industry.
 
@@ -30,7 +30,7 @@ The Commission shall meet at the call of the Chair or a majority of its members,
 
 #### (e) Bylaws and charter
 
-The Commission may make such bylaws, rules, and regulations as it considers necessaryto carry out its functions under this subchapter. The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Commission.
+The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Commission.
 
 #### (f) Functions
 

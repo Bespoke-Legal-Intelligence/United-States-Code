@@ -2,7 +2,7 @@
 
 #### (a) Commission, Board, or Secretary authorized to enforce compliance
 
-Authority to enforce compliance with sections 13, 14, 18, and 19 of this title by the persons respectively subject thereto is vested in the Interstate Commerce Commission where applicable to common carriers subject to subtitle IV of title 49; in the Federal Communications Commission where applicable to common carriers engaged in wire or radio communication or radio transmission of energy; in the Secretary of Transportation where applicable to air carriers and foreign air carriers subject to part A of subtitle VII of title 49; in the Board of Governors of the Federal Reserve System where applicable to banks, banking associations, and trust companies; and in the Federal Trade Commission where applicable to all other character of commerce to be exercised as follows:
+Authority to enforce compliance with sections 13, 14, 18, and 19 of this title by the persons respectively subject thereto is vested in the Surface Transportation Board where applicable to common carriers subject to jurisdiction under subtitle IV of title 49; in the Federal Communications Commission where applicable to common carriers engaged in wire or radio communication or radio transmission of energy; in the Secretary of Transportation where applicable to air carriers and foreign air carriers subject to part A of subtitle VII of title 49; in the Board of Governors of the Federal Reserve System where applicable to banks, banking associations, and trust companies; and in the Federal Trade Commission where applicable to all other character of commerce to be exercised as follows:
 
 #### (b) Issuance of complaints for violations; hearing; intervention; filing of testimony; report; cease and desist orders; reopening and alteration of reports or orders
 
@@ -42,7 +42,7 @@ If the Supreme Court directs that the order of the commission, board, or Secreta
 
 #### (i) Finality of orders modified by Court of Appeals
 
-If the order of the commission, board, or Secretary is modified or set aside by the court of appeals, and if (1) the time allowed for filing a petition for certiorari has expired and no such petition has been duly filed, or (2) the petition for certiorari has been denied, or (3) the decision of the court has been affirmed by the Supreme Court then the order of the commission, board, or Secretary rendered in accordance with the mandate of the court of appeals shall becomefinal on the expiration of thirty days from the time such order of the commission, board, or Secretary was rendered, unless within such thirty days either party has instituted proceedings to have such order corrected so that it will accord with the mandate, in which event the order of the commission, board, or Secretary shall become final when so corrected.
+If the order of the commission, board, or Secretary is modified or set aside by the court of appeals, and if (1) the time allowed for filing a petition for certiorari has expired and no such petition has been duly filed, or (2) the petition for certiorari has been denied, or (3) the decision of the court has been affirmed by the Supreme Court then the order of the commission, board, or Secretary rendered in accordance with the mandate of the court of appeals shall become final on the expiration of thirty days from the time such order of the commission, board, or Secretary was rendered, unless within such thirty days either party has instituted proceedings to have such order corrected so that it will accord with the mandate, in which event the order of the commission, board, or Secretary shall become final when so corrected.
 
 #### (j) Finality of orders issued on rehearing ordered by Court of Appeals or Supreme Court
 
@@ -56,7 +56,7 @@ As used in this section the term “mandate”, in case a mandate has been recal
 
 Any person who violates any order issued by the commission, board, or Secretary under subsection (b) of this section after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
 
-(Oct. 15, 1914, ch. 323, §11, 38 Stat. 734; June 19, 1934, ch. 652, title VII, §702(d), formerly title VI, §602(d), 48 Stat. 1102; renumbered Oct. 30, 1984, Pub. L. 98–549, §6(a), 98 Stat. 2804; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 23, 1938, ch. 601, §1107(g), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1401(b), 72 Stat. 806; Aug. 28, 1958, Pub. L. 85–791, §4, 72 Stat. 943; July 23, 1959, Pub. L. 86–107, §1, 73 Stat. 243; Oct. 4, 1984, Pub. L. 98–443, §9(m), 98 Stat. 1708; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(10)(B), 98 Stat. 3358.)
+(Oct. 15, 1914, ch. 323, §11, 38 Stat. 734; June 19, 1934, ch. 652, title VII, §702(d), formerly title VI, §602(d), 48 Stat. 1102; renumbered Oct. 30, 1984, Pub. L. 98–549, §6(a), 98 Stat. 2804; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 23, 1938, ch. 601, §1107(g), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1401(b), 72 Stat. 806; Aug. 28, 1958, Pub. L. 85–791, §4, 72 Stat. 943; July 23, 1959, Pub. L. 86–107, §1, 73 Stat. 243; Oct. 4, 1984, Pub. L. 98–443, §9(m), 98 Stat. 1708; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(10)(B), 98 Stat. 3358; Dec. 29, 1995, Pub. L. 104–88, title III, §318(2), 109 Stat. 949.)
 
 #### References in Text
 
@@ -64,11 +64,11 @@ The antitrust laws, referred to in subsec. (e), are defined in section 12 of thi
 
 #### Codification
 
-In subsec. (a), “subtitle IV of title 49” substituted for “the Interstate Commerce Act, as amended” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
-
 In subsec. (a), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
+
+1995—Subsec. (a). Pub. L. 104–88 substituted “Surface Transportation Board where applicable to common carriers subject to jurisdiction under subtitle IV of title 49” for “Interstate Commerce Commission where applicable to common carriers subject to the Interstate Commerce Act, as amended”.
 
 1984—Subsec. (a). Pub. L. 98–443, §9(m)(1), substituted “Secretary of Transportation where applicable to air carriers and foreign air carriers subject to the Federal Aviation Act of 1958” for “Civil Aeronautics Board where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938”.
 
@@ -103,6 +103,10 @@ Pub. L. 85–791, §4(d), substituted in fifth par., “Upon the filing of the r
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1984 Amendments
 

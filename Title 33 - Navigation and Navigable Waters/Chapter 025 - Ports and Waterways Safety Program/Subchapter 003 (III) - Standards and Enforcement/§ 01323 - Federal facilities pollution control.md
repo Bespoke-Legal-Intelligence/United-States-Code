@@ -20,7 +20,7 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### Executive Order No. 11258
 
-Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483, which related to prevention, control, and abatement of waterpollution by federal activities, was superseded by Ex. Ord. No. 11286, July 2, 1966, 31 F.R. 9261.
+Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483, which related to prevention, control, and abatement of water pollution by federal activities, was superseded by Ex. Ord. No. 11286, July 2, 1966, 31 F.R. 9261.
 
 #### Executive Order No. 11288
 

@@ -46,7 +46,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (1) Application before 115th anniversary
 
-&emsp;No payment shall be made from the fund unless an application for benefits based on theservice of the participant is received by the Director before the 115th anniversary of the participant's birth.
+&emsp;No payment shall be made from the fund unless an application for benefits based on the service of the participant is received by the Director before the 115th anniversary of the participant's birth.
 
 #### (2) Application within 30 years
 

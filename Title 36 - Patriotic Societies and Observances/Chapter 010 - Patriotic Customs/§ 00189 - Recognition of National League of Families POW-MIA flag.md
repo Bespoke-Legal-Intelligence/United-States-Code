@@ -10,7 +10,7 @@ Pub. L. 102–190, div. A, title X, §1084, Dec. 5, 1991, 105 Stat. 1482, provid
 
 “(a)
 
-Display of POW/MIA Flag.—The POW/MIA flag, having been recognized and designated in section 2 of Public Law 101–355 (104 Stat. 416) \[36 U.S.C. 189\] as the symbol of the Nation's concern and commitment to resolving as fully as possible the fates of Americans stillprisoner, missing, and unaccounted for, thus ending the uncertainty for their families and the Nation, shall be displayed—
+Display of POW/MIA Flag.—The POW/MIA flag, having been recognized and designated in section 2 of Public Law 101–355 (104 Stat. 416) \[36 U.S.C. 189\] as the symbol of the Nation's concern and commitment to resolving as fully as possible the fates of Americans still prisoner, missing, and unaccounted for, thus ending the uncertainty for their families and the Nation, shall be displayed—
 
 &emsp;“(1) at each national cemetery and at the National Vietnam Veterans Memorial each year on Memorial Day and Veterans Day and on any day designated by law as National POW/MIA Recognition Day; and
 

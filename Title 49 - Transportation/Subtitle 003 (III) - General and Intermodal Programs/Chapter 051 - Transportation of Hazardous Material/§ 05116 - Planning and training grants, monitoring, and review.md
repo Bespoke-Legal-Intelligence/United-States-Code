@@ -12,7 +12,7 @@ Planning Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 &emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the United States Government) to develop, improve, and carry out emergency plans under the Act will at least equal the average level of expenditure for the last 2 fiscal years; and
 
-&emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of the Act (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
+&emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of theAct (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
 
 (3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergency planning conducted by adjacent States and Indian tribes.
 
@@ -22,7 +22,7 @@ Training Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 (2) The Secretary of Transportation may make a grant under paragraph (1) of this subsection in a fiscal year—
 
-&emsp;(A) to a State or Indian tribe only if the State or tribe certifies that the total amount the State or tribe expends (except amounts of the Government) to train public sector employees to respond to an accident or incident involving hazardous material will at leastequal the average level of expenditure for the last 2 fiscal years;
+&emsp;(A) to a State or Indian tribe only if the State or tribe certifies that the total amount the State or tribe expends (except amounts of the Government) to train public sector employees to respond to an accident or incident involving hazardous material will at least equal the average level of expenditure for the last 2 fiscal years;
 
 &emsp;(B) to a State or Indian tribe only if the State or tribe makes an agreement with the Secretary that the State or tribe will use in that fiscal year, for training public sector employees to respond to an accident or incident involving hazardous material—
 
@@ -216,7 +216,7 @@ In subsection (h), the words “including coordination of training programs” a
 
 #### References in Text
 
-The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), istitle III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1729, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
+The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1729, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
 
 #### Amendments
 

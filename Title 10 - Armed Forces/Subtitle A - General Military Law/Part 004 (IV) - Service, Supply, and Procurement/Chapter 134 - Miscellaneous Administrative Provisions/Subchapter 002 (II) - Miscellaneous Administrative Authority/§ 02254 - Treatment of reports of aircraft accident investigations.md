@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) Whenever the Secretary of a military department conducts an accident investigation of an accident involving an aircraft under the jurisdiction of the Secretary, the records and report of the investigations shall be treated in accordance with this section.
+In General.—(1) Whenever the Secretary of a military department conducts an accidentinvestigation of an accident involving an aircraft under the jurisdiction of the Secretary, the records and report of the investigations shall be treated in accordance with this section.
 
 (2) For purposes of this section, an accident investigation is any form of investigation of an aircraft accident other than an investigation (known as a “safety investigation”) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
 
@@ -24,7 +24,7 @@ Public Disclosure of Certain Accident Investigation Information.—(1) The Secre
 
 Opinions Regarding Causation of Accident.—Following a military aircraft accident—
 
-&emsp;(1) if the evidence surrounding the accident is sufficient for the investigators who conduct the accident investigation to come to an opinion (or opinions) as to the cause or causes ofthe accident, the final report of the accident investigation shall set forth the opinion (or opinions) of the investigators as to the cause or causes of the accident; and
+&emsp;(1) if the evidence surrounding the accident is sufficient for the investigators who conduct the accident investigation to come to an opinion (or opinions) as to the cause or causes of the accident, the final report of the accident investigation shall set forth the opinion (or opinions) of the investigators as to the cause or causes of the accident; and
 
 &emsp;(2) if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
 

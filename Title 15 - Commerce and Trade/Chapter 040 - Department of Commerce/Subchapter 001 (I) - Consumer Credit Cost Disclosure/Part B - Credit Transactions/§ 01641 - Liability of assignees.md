@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites
 
-Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought isapparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
+Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
 
 #### (b) Proof of compliance with statutory provisions
 
@@ -38,17 +38,57 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 &emsp;Any person who sells or otherwise assigns a mortgage referred to in section 1602(aa) of this title shall include a prominent notice of the potential liability under this subsection as determined by the Board.
 
-(Pub. L. 90 321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96 221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103 325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195.)
+#### (e) Liability of assignee for consumer credit transactions secured by real property
+
+#### (1) In general
+
+&emsp;Except as otherwise specifically provided in this subchapter, any civil action against acreditor for a violation of this subchapter, and any proceeding under section 1607 of this title against a creditor, with respect to a consumer credit transaction secured by real property may be maintained against any assignee of such creditor only if—
+
+&emsp;&emsp;(A) the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement provided in connection with such transaction pursuant to this subchapter; and
+
+&emsp;&emsp;(B) the assignment to the assignee was voluntary.
+
+#### (2) Violation apparent on the face of the disclosure described
+
+&emsp;For the purpose of this section, a violation is apparent on the face of the disclosure statement if—
+
+&emsp;&emsp;(A) the disclosure can be determined to be incomplete or inaccurate by a comparison among the disclosure statement, any itemization of the amount financed, the note, or any other disclosure of disbursement; or
+
+&emsp;&emsp;(B) the disclosure statement does not use the terms or format required to be used by this subchapter.
+
+#### (f) Treatment of servicer
+
+#### (1) In general
+
+&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as an assignee of such obligation for purposes of this section unless the servicer is or was the owner of the obligation.
+
+#### (2) Servicer not treated as owner on basis of assignment for administrative convenience
+
+&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
+
+#### (3) “Servicer” defined
+
+&emsp;For purposes of this subsection, the term “servicer” has the same meaning as in section 2605(i)(2) of title 12.
+
+#### (4) Applicability
+
+&emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
+
+(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274.)
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103 325 added subsec. (d).
+1995—Subsec. (e). Pub. L. 104–29, §7(a), added subsec. (e).
 
-1980—Pub. L. 96 221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
+Subsec. (f). Pub. L. 104–29, §7(b), added subsec. (f).
+
+1994—Subsec. (d). Pub. L. 103–325 added subsec. (d).
+
+1980—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Section Referred to in Other Sections
 

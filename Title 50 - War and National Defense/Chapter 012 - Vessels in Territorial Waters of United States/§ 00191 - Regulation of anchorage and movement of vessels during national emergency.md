@@ -36,10 +36,6 @@ Section 4 of act Aug. 9, 1950, provided that: “The provisions of this Act \[am
 
 Act July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
-#### Separability
-
-Section 4 of title XIII of act June 15, 1917, provided: “If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.”
-
 #### Regulations—Post-War Generally
 
 For regulations relating to safeguarding of vessels, harbors, ports, and waterfront facilities, under a finding that the security of the United States is endangered by reason of subversive activity, see Ex. Ord. No. 10173, Oct. 18, 1950, 15 F.R. 7005.
@@ -51,6 +47,10 @@ Proc. No. 2732, June 2, 1947, 12 F.R. 3583, 61 Stat. 1069, revoked Proc. No. 241
 #### Regulations—World War I
 
 A proclamation was issued under this section on December 3, 1917.
+
+#### Separability
+
+Section 4 of title XIII of act June 15, 1917, provided: “If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.”
 
 #### Transfer of Functions
 

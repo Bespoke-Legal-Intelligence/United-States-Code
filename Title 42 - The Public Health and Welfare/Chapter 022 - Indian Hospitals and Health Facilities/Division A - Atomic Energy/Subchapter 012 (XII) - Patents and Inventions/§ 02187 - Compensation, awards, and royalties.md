@@ -10,7 +10,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 (2) Any person seeking to obtain the just compensation provided in section 2181 of this title shall make application therefor to the Commission in accordance with such procedures as the Commission may by regulation establish.
 
-(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, an award. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
+(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, anaward. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
 
 #### (c) Standards
 
@@ -40,7 +40,7 @@ Provisions similar to this section were contained in section 1811(e)(1) to (3) o
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Patent Compensation Board established by this section transferred to Energy Research and Development Administration and functions of Atomic Energy Commission with respect thereto transferred to Administrator by section 5814(d) of this title. See also Transfer of Functions notes set out under sections 5814 and 5841 of this title. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Patent Compensation Board established by this section transferred to Energy Research and Development Administration and functions of Atomic Energy Commission with respect thereto transferred to Administrator by section 5814(d) of this title. See, also, notes set out under sections 5814 and 5841 of this title. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Termination of Advisory Committees
 

@@ -26,7 +26,7 @@
 
 (c) The head of each agency may also employ or assign one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
-(d)(1) In the case of any handicapped employee (including a blind or deaf employee) traveling on official business, the head of the agency may authorize the payment to an individual to accompany or assist (or both) the handicapped employee for all or a portion of the travel periodinvolved. Any payment under this subsection to such an individual may be made either directly to that individual or by advancement or reimbursement to the handicapped employee.
+(d)(1) In the case of any handicapped employee (including a blind or deaf employee) traveling on official business, the head of the agency may authorize the payment to an individual to accompany or assist (or both) the handicapped employee for all or a portion of the travel period involved. Any payment under this subsection to such an individual may be made either directly to that individual or by advancement or reimbursement to the handicapped employee.
 
 (2) With respect to any individual paid to accompany or assist a handicapped employee under paragraph (1) of this subsection—
 
@@ -64,15 +64,15 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is
 
 #### Amendments
 
-1986—Subsec. (a)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1982—Subsec. (b)(1)(C). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
+<b>1982</b>—Subsec. (b)(1)(C). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
-1980—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for”, in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
+<b>1980</b>—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for”, in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
 
-1979—Subsec. (a)(2). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-1978—Pub. L. 95–454, §302(b)(2), substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in section catchline.
+<b>1978</b>—Pub. L. 95–454, §302(b)(2), substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in section catchline.
 
 Subsec. (a)(4), (5). Pub. L. 95–454, §302(a)(1), added par. (4) and redesignated former par. (4) as (5).
 
@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 95–454, §302(a)(3), inserted “or deaf” after “blin
 
 Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
-1968—Subsec. (a)(2). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
+<b>1968</b>—Subsec. (a)(2). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
 
 #### Effective Date of 1980 Amendment
 

@@ -30,11 +30,11 @@ The Commission may provide to another Federal agency or a State or local agency 
 
 > which the agency or authority makes available to any member of the public. No Federal agency or State or local agency or authority may disclose to the public any information contained in a report received by the agency or authority under this subsection unless with respect to such information the Commission has complied with the applicable requirements of section 2055(b) of this title.
 
-(Pub. L. 92 573, §29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94 284, §15, May 11, 1976, 90 Stat. 510; Pub. L. 100 418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 92–573, §29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, §15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100 418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+1988—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1976—Subsec. (e). Pub. L. 94 284 added subsec. (e).
+1976—Subsec. (e). Pub. L. 94–284 added subsec. (e).
 

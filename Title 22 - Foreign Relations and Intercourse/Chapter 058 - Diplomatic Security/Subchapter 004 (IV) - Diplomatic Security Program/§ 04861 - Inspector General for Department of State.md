@@ -2,11 +2,11 @@
 
 #### (a) Direction to establish
 
-The Congress directs the Secretary of State to proceed immediately to establish an Office of Inspector General of the Department of State not later than October 1, 1986. Not later than January 31, 1987, the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on theprogress in establishing that office. Such report shall include an accounting of the obligation of funds for fiscal year 1987 for that office.
+The Congress directs the Secretary of State to proceed immediately to establish an Office of Inspector General of the Department of State not later than October 1, 1986. Not later than January 31, 1987, the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the progress in establishing that office. Such report shall include an accounting of the obligation of funds for fiscal year 1987 for that office.
 
 #### (b) Duties and responsibilities
 
-The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in the Inspector General Act of 1978.
+The Inspector General of the Department of State (as established by the amendment madeby section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in the Inspector General Act of 1978.
 
 #### (c) Earmark
 
@@ -34,5 +34,5 @@ Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e)
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, shall establish a program for the training of individuals from developing countries in the operation and maintenance of renewable energy and energy efficiency technologies in accordance with this section. The Secretary and the Administrator of the Agency for International Development shall, within one year after October 24, 1992, enter into a written agreement to carry out this program.
+The Secretary, through the Agency for International Development, shall establish a programfor the training of individuals from developing countries in the operation and maintenance of renewable energy and energy efficiency technologies in accordance with this section. The Secretary and the Administrator of the Agency for International Development shall, within one year after October 24, 1992, enter into a written agreement to carry out this program.
 
 #### (b) Purpose
 
-The purpose of the program established under this section shall be to train appropriate persons in the system design, operation, and maintenance of renewable energy and energy efficiency equipment manufactured in the United States, including equipment for water pumping, heatingand purification, and the production of electric power in remote areas.
+The purpose of the program established under this section shall be to train appropriate persons in the system design, operation, and maintenance of renewable energy and energy efficiency equipment manufactured in the United States, including equipment for water pumping, heating and purification, and the production of electric power in remote areas.
 
 #### (c) Authorization of appropriations
 

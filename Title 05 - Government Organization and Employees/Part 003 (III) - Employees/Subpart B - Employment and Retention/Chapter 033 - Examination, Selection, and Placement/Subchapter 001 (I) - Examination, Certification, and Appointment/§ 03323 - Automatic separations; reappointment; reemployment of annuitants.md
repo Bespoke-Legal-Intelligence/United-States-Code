@@ -60,11 +60,11 @@ Section 812 of the Foreign Service Act of 1980, referred to in subsec. (c), is c
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–378 substituted “annuitant, as defined by section 8331 or 8401,” for “annuitant as defined by section 8331 of this title”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–378 substituted “annuitant, as defined by section 8331 or 8401,” for “annuitant as defined by section 8331 of this title”.
 
-1984—Subsec. (b). Pub. L. 98–224 designated existing provisions as par. (1), substituted “the annuitant” for “he” and inserted “, other than an annuitant reappointed under paragraph (2) of this subsection,”, and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–224 designated existing provisions as par. (1), substituted “the annuitant” for “he” and inserted “, other than an annuitant reappointed under paragraph (2) of this subsection,”, and added par. (2).
 
-1980—Subsec. (c). Pub. L. 96–465 substituted “member of the Foreign Service retired under section 812 of the Foreign Service Act of 1980” for “Foreign Service officer retired under section 1001 or 1002 of title 22 or a Foreign Service staff officer or employee retired under section 1063 of title 22”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–465 substituted “member of the Foreign Service retired under section 812 of the Foreign Service Act of 1980” for “Foreign Service officer retired under section 1001 or 1002 of title 22 or a Foreign Service staff officer or employee retired under section 1063 of title 22”.
 
 #### Effective Date of 1980 Amendment
 

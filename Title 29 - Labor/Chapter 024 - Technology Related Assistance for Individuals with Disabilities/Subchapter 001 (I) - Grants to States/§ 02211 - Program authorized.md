@@ -2,7 +2,7 @@
 
 #### (a) Grants to States
 
-The Secretary of Education shall make grants to States in accordance with the provisions of this subchapter to support systems change and advocacy activities designed to assist States in developing and implementing consumer-responsive comprehensive statewide programs of technology-related assistance that accomplish the purposes described in section 2201(b)(1) of this title.
+The Secretary of Education shall make grants to States in accordance with the provisions of this subchapter to support systems change and advocacy activities designed to assist States indeveloping and implementing consumer-responsive comprehensive statewide programs of technology-related assistance that accomplish the purposes described in section 2201(b)(1) of this title.
 
 #### (b) Activities
 
@@ -84,7 +84,7 @@ Any State that receives a grant under section 2212 or 2213 of this title shall u
 
 &emsp;&emsp;(D) information on the cost of providing assistive technology devices and assistive technology services to all individuals with disabilities within the State who need such devices and services;
 
-&emsp;&emsp;(E) a description of State and local public resources and private resources (including insurance) that are available to establish aconsumer-responsive comprehensive statewide program of technology-related assistance;
+&emsp;&emsp;(E) a description of State and local public resources and private resources (including insurance) that are available to establish a consumer-responsive comprehensive statewide program of technology-related assistance;
 
 &emsp;&emsp;(F) information identifying Federal and State laws, regulations, policies, practices, procedures, and organizational structures, that facilitate or interfere with the operation of a consumer-responsive comprehensive statewide program of technology-related assistance;
 
@@ -142,7 +142,7 @@ Any State that receives a grant under section 2212 or 2213 of this title shall u
 
 #### (7) Training and technical assistance
 
-&emsp;The State may carry out directly, or may provide support to a public or private entity to carry out, training and technical assistance activities—
+&emsp;The State may carry out directly, or may provide support to a public or private entity tocarry out, training and technical assistance activities—
 
 &emsp;&emsp;(A) that—
 
@@ -212,7 +212,7 @@ Any State that receives a grant under section 2212 or 2213 of this title shall u
 
 #### (B) Electronic communication
 
-&emsp;&emsp;The State may operate or participate in a computer system through which the State may electronically communicate with other States to gain technical assistance in a timely fashion and to avoid the duplication of efforts already undertaken in other States.
+&emsp;&emsp;The State may operate or participate in a computer system through which the State may electronically communicate with other States to gain technical assistance in a timely fashion and to avoid the duplicationof efforts already undertaken in other States.
 
 #### (11) Partnerships and cooperative initiatives
 
@@ -238,7 +238,7 @@ In carrying out systems change and advocacy activities under this subchapter, th
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and H of the Act are classified generally to subchapters II (§1411 et seq.) and VIII (§1471 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 

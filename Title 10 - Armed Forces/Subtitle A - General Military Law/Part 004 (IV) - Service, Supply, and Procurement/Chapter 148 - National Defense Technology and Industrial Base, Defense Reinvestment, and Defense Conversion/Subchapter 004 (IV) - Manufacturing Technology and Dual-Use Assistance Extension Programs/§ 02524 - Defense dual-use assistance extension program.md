@@ -42,7 +42,7 @@ Assistance Authorized.—(1) The Secretary may make grants, enter into contracts
 
 (d)
 
-Financial Commitment of Non-Federal Government Participants.—(1) The Secretary shall ensure that the amount of funds provided by the Secretary to a program under this section does not exceed 50 percent of the total cost of the program.
+Financial Commitment of Non-Federal Government Participants.—(1) The Secretary shall ensure that the amount of funds providedby the Secretary to a program under this section does not exceed 50 percent of the total cost of the program.
 
 (2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a program under this section for the purpose of calculating the share of the costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of the program. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the program from non-Federal sources.
 

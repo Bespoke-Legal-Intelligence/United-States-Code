@@ -22,7 +22,7 @@ Whenever after any determination date for a determination under subsection (a)(1
 
 &emsp;(2) 340,560,000 liters (single strength equivalent) in any of calendar years 2003 through 2007;
 
-> the rate of duty on Mexican articles of frozen concentrated orange juice that are entered afterthe date on which the applicable limitation in paragraph (1) or (2) is reached and before the determination date for the related determination under subsection (a)(1)(B) of this section shall be the rate of duty specified in subsection (c) of this section.
+> the rate of duty on Mexican articles of frozen concentrated orange juice that are entered after the date on which the applicable limitation in paragraph (1) or (2) is reached and before the determination date for the related determination under subsection (a)(1)(B) of this section shall be the rate of duty specified in subsection (c) of this section.
 
 #### (c) Rate of duty
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available for the maintenance of equipment for Federal, State, and local civilian law enforcement officials, including equipment made available under section 372 of this title.
 
-(b)(1) Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 of this title) with respect to—
+(b)(1) Subject to paragraph (2) and in accordance with other applicable law, the Secretary ofDefense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 of this title) with respect to—
 
 &emsp;(A) a criminal violation of a provision of law specified in paragraph (4)(A); or
 
@@ -122,7 +122,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 104–61, title VIII, §8096(a), Dec. 1, 1995, 109 Stat. 671, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Additional Support for Counter-Drug Activities
 
@@ -158,7 +162,7 @@ Types of Support.—The purposes for which the Secretary may provide support und
 
 &emsp;“(4) The establishment (including unspecified minor construction) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities within or outside the United States.
 
-&emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
+&emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees andthe provision of materials necessary to carry out such training.
 
 &emsp;“(6) The detection, monitoring, and communication of the movement of—
 
@@ -180,7 +184,7 @@ Limitation on Counter-Drug Requirements.—The Secretary of Defense may not limi
 
 “(d)
 
-Contract Authority.—In carrying out subsection (a), the Secretary of Defense may acquire services or equipment by contract for support provided under that subsection if the Department of Defensewould normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department of Defense.
+Contract Authority.—In carrying out subsection (a), the Secretary of Defense may acquire services or equipment by contract for support provided under that subsection if the Department of Defense would normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department of Defense.
 
 “(e)
 
@@ -198,11 +202,11 @@ Relationship to Other Laws.—(1) The authority provided in this section for the
 
 #### Communications Network
 
-Section 1103 of Pub. L. 100–456, which related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, was repealed by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+Section 1103 of Pub. L. 100–456 related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
 
 #### Enhanced Drug Interdiction and Enforcement Role for National Guard
 
-Section 1105 of Pub. L. 100–456, which related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, was repealed by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
+Section 1105 of Pub. L. 100–456 related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, repealed by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 

@@ -48,6 +48,10 @@ Subsection (b)(2)(B) is substituted for 31:227(3d sentence) for consistency and 
 
 In subsection (c), the words “for debt and costs”, “thereon”, and “from the plaintiff” are omitted as surplus.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 6422.

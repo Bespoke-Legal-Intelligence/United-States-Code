@@ -30,7 +30,7 @@ Of amounts appropriated under section 704(a)(1) and (2) of the Railroad Revitali
 
 #### (e) Reports to Congress; commitment of Federal funds
 
-Within twelve months following December 29, 1981, the Secretary of Transportation shall submit a report to the Congress on the results of the engineering survey and planning and market feasibility studies carried out under this section. Such report shall be referred to the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate and the Committees on Energy and Commerce and Public Works and Transportation of the House, respectively. Such report shall include a specific commitment of Federal funds for completion of the rehabilitation of the historic Union Station building, together with any necessary request for appropriations, in the amount determined by the Secretary of Transportation to be necessary in light of the survey and studies carried out under this section, from either or both of the following sources:
+Within twelve months following December 29, 1981, the Secretary of Transportation shall submit a report to the Congress on the results of the engineering survey and planning and market feasibility studies carried out under this section. Such report shall be referred to the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate and the Committees on Energy and Commerce and Public Works and Transportation of the House, respectively. Such report shall include a specific commitment of Federal funds for completion of the rehabilitation of the historic Union Station building, together with anynecessary request for appropriations, in the amount determined by the Secretary of Transportation to be necessary in light of the survey and studies carried out under this section, from either or both of the following sources:
 
 &emsp;(1) funds authorized to be appropriated and not yet appropriated under section 704(a) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)) that are in excess of the amounts set out in the last sentence of such section 704(a); and
 
@@ -46,7 +46,5 @@ Section 704(a) of the Railroad Revitalization and Regulatory Reform Act of 1976,
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

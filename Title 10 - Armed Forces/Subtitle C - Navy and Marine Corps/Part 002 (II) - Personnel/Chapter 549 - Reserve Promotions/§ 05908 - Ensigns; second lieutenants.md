@@ -1,4 +1,4 @@
-### §5908 . Ensigns; second lieutenants
+### §5908. Ensigns; second lieutenants
 
 (a) An ensign in the Naval Reserve or a second lieutenant in the Marine Corps Reserve is eligible for promotion to the grade of lieutenant (junior grade) or first lieutenant, as appropriate, upon completing three years of service in grade in an active status computed from his date of rank in the grade of ensign or second lieutenant.
 

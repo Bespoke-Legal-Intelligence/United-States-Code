@@ -90,7 +90,7 @@ Pub. L. 89–53, §5, June 28, 1965, 79 Stat. 194.
 
 #### Denial of Financial Assistance to Campus Disrupters
 
-Pub. L. 92–304, §6, May 19, 1972, 86 Stat. 161, provided generally that any institution of higher education deny for a two year period payment under programs authorized by the National Aeronautics and Space Act of 1958 to any individual attending or employed by such institution who has been convicted of any crime committed after May 19, 1972, which involved the use of force, disruption or seizure of property to prevent officers or students from engaging in their duties or pursuing their studies. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 92–304, §6, May 19, 1972, 86 Stat. 161, provided generally that any institution of higher education denyfor a two year period payment under programs authorized by the National Aeronautics and Space Act of 1958 to any individual attending or employed by such institution who has been convicted of any crime committed after May 19, 1972, which involved the use of force, disruption or seizure of property to prevent officers or students from engaging in their duties or pursuing their studies. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 92–68, §6, Aug. 6, 1971, 85 Stat. 177.
 

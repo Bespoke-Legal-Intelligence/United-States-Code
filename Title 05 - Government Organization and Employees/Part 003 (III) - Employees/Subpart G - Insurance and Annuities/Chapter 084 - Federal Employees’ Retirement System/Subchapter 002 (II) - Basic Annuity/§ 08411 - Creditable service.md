@@ -48,7 +48,7 @@
 
 > creditable service of the deceased employee or Member shall include each period of military service includable under subparagraph (A) or (B) of paragraph (1) or under paragraph (3). In carrying out this subparagraph, any amount deposited under section 8422(e)(5) shall be taken into account.
 
-(B) A survivor annuity computed based on an amount which, under authority of subparagraph (A), takes into consideration any period of military service shall be reduced by the amount of any survivor's benefits—
+(B) A survivor annuity computed based on an amount which, under authority of subparagraph\(A), takes into consideration any period of military service shall be reduced by the amount of any survivor's benefits—
 
 &emsp;(i) payable to a survivor (other than a child) under a retirement system for members of the uniformed services;
 
@@ -86,7 +86,7 @@
 
 #### References in Text
 
-Section 204(a)(1) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983\[Pub. L. 98–168\], referred to in subsec. (b)(2), is set out as a note under section 8331 of this title.
+Section 204(a)(1) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[Pub. L. 98–168\], referred to in subsec. (b)(2), is set out as a note under section 8331 of this title.
 
 Subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 99–335\], referred to in subsec. (b)(3), amended section 8331(1) and (2) of this title.
 
@@ -104,21 +104,21 @@ The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 
 
 #### Amendments
 
-1994—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
-1993—Subsec. (b)(3). Pub. L. 103–82, §371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
+<b>1993</b>—Subsec. (b)(3). Pub. L. 103–82, §371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
 
 Subsec. (h). Pub. L. 103–82, §371(b)(1)(B), added subsec. (h).
 
-1991—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
+<b>1991</b>—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
 
 Subsec. (g). Pub. L. 102–242 added subsec. (g).
 
-1988—Subsec. (c)(4)(A). Pub. L. 100–238, §104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
+<b>1988</b>—Subsec. (c)(4)(A). Pub. L. 100–238, §104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
 
 Subsec. (f)(1). Pub. L. 100–238, §105(a), inserted at end “A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.”
 
-1986—Subsec. (b)(2). Pub. L. 99–556, §103(1), inserted “except as provided in subsection (f),”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–556, §103(1), inserted “except as provided in subsection (f),”.
 
 Subsec. (c)(4). Pub. L. 99–556, §502(b), added par. (4).
 

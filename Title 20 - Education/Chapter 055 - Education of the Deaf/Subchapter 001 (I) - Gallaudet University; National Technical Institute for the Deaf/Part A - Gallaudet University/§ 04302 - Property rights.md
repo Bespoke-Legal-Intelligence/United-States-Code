@@ -10,21 +10,21 @@ Gallaudet University is vested with all the property and the rights of property,
 
 (2) The proceeds of any such disposition shall be considered a part of the capital structure of the corporation, and may be used solely for the acquisition of real estate for the use of the corporation, for the construction, equipment, or improvement of buildings for such use, or for investment purposes, but, if invested, only the income from the investment may be used for current expenses of the corporation.
 
-(Pub. L. 99 371, title I, §102, Aug. 4, 1986, 100 Stat. 781; Pub. L. 103 73, title II, §203(b), Aug. 11, 1993, 107 Stat. 733.)
+(Pub. L. 99–371, title I, §102, Aug. 4, 1986, 100 Stat. 781; Pub. L. 103–73, title II, §203(b), Aug. 11, 1993, 107 Stat. 733.)
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1841.2.
+Section is also set out in D.C. Code, §31–1841.2.
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 691b of this title, prior to repeal by Pub. L. 99 371.
+Provisions similar to this section were contained in section 691b of this title, prior to repeal by Pub. L. 99–371.
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103 73, §203(b)(1), substituted “Secretary” for “Secretary of Education”.
+1993—Subsec. (b)(1). Pub. L. 103–73, §203(b)(1), substituted “Secretary” for “Secretary of Education”.
 
-Subsec. (b)(2). Pub. L. 103 73, §203(b)(2), substituted “but, if invested,” for “but if invested”.
+Subsec. (b)(2). Pub. L. 103–73, §203(b)(2), substituted “but, if invested,” for “but if invested”.
 
 #### Real Property Provisions
 
@@ -34,7 +34,7 @@ July 1, 1916, ch. 209, 39 Stat. 310.
 
 Aug. 3, 1939, ch. 414, 53 Stat. 1179.
 
-Sept. 13, 1960, Pub. L. 86 776, §§1, 2, 74 Stat. 916, 917.
+Sept. 13, 1960, Pub. L. 86–776, §§1, 2, 74 Stat. 916, 917.
 
-Nov. 20, 1981, Pub. L. 97 80, title II, §202(a)(1), 95 Stat. 1082.
+Nov. 20, 1981, Pub. L. 97–80, title II, §202(a)(1), 95 Stat. 1082.
 

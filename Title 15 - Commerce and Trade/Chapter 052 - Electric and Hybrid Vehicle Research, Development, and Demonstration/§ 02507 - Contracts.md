@@ -14,33 +14,33 @@ Each contract under this section shall be entered into in accordance with such r
 
 #### (d) Purchase or lease of demonstration vehicles pursuant to agreements and utilization of Federal forms of assistance and participation authorized under other statutory provisions
 
-In addition to contracting for the purchase or lease of vehicles when conducting the demonstrations established under section 2506 of this title, the Secretary of Energy may acquire or secure use of such vehicles, or have such vehicles acquired or used by others, by making agreements and utilizing various forms of Federal assistance and participation which is authorized under the Energy Reorganization Act of 1974 (Public Law 93 438) \[42 U.S.C. 5801 et seq.\] and the Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93 577) \[42 U.S.C. 5901 et seq.\].
+In addition to contracting for the purchase or lease of vehicles when conducting the demonstrations established under section 2506 of this title, the Secretary of Energy may acquire or secure use of such vehicles, or have such vehicles acquired or used by others, by making agreements and utilizing various forms of Federal assistance and participation which is authorized under the Energy Reorganization Act of 1974 (Public Law 93–438) \[42 U.S.C. 5801 et seq.\] and the Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577) \[42 U.S.C. 5901 et seq.\].
 
 #### (e) Cost-sharing and use of American materials for demonstrations
 
-When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy mayenter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a 10c).
+When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c).
 
-(Pub. L. 94 413, §8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95 91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95 238, title VI, §602, Feb. 25, 1978, 92 Stat. 92.)
+(Pub. L. 94–413, §8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, §602, Feb. 25, 1978, 92 Stat. 92.)
 
 #### References in Text
 
-The Energy Reorganization Act of 1974 (Public Law 93 438), referred to in subsec. (d), is Pub. L. 93 438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93 577), referred to in subsec. (d), is Pub. L. 93 577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
-Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a 10c), referred to in subsec. (e), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, popularly known as the Buy American Act, which enacted sections 10a, 10b, 10b 1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c), referred to in subsec. (e), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 #### Codification
 
-In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95 91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
+In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view ofthe termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
 #### Amendments
 
-1978—Subsecs. (d), (e). Pub. L. 95 238 added subsecs. (d) and (e).
+1978—Subsecs. (d), (e). Pub. L. 95–238 added subsecs. (d) and (e).
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Administrator” in subsecs. (a) to (c) and the first time it appears in subsec. (e) pursuant to section 301(a) of Pub. L. 95 91, see Codification note set out under section 2502 of this title.
+“Secretary of Energy” substituted for “Administrator” in subsecs. (a) to (c) and the first time it appears in subsec. (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
 #### Section Referred to in Other Sections
 

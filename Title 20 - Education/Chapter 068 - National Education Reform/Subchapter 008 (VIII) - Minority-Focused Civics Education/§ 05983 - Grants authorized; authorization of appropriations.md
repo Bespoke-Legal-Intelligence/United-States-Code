@@ -14,5 +14,5 @@
 
 There are authorized to be appropriated $5,000,000 for fiscal 1995, and such sums as may be necessary for each of the fiscal years 1996, 1997, and 1998, to carry out this subchapter.
 
-(Pub. L. 103 227, title VIII, §803, Mar. 31, 1994, 108 Stat. 210.)
+(Pub. L. 103–227, title VIII, §803, Mar. 31, 1994, 108 Stat. 210.)
 

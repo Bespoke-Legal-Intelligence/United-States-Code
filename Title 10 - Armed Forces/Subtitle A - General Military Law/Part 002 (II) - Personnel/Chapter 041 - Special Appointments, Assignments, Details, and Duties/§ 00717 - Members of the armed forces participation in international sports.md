@@ -1,6 +1,6 @@
-### §717 . Members of the armed forces: participation in international sports
+### §717. Members of the armed forces: participation in international sports
 
-(a) The Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in—
+(a) The Secretary of Defense, or the Secretary of Transportation with respect to the CoastGuard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in—
 
 &emsp;(1) Pan-American Games and Olympic Games and qualifying events and preparatory competition for those games; and
 
@@ -44,7 +44,7 @@ Mar. 14, 1955, ch. 11 (less last 2 pars.), 69 Stat. 11.
 
 In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation contained in subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other \* \* \* not specified in (1) above”.
 
-In subsection (b), the word “entry” is substituted for the word “commitment” for clarity. The words “or theSecretary of the Treasury, as the case may be” are inserted since, under subsection (a), the Secretary of the Treasury has the prescribed authority with respect to members of the Coast Guard when it is not operating as a service in the Navy.
+In subsection (b), the word “entry” is substituted for the word “commitment” for clarity. The words “or the Secretary of the Treasury, as the case may be” are inserted since, under subsection (a), the Secretary of the Treasury has the prescribed authority with respect to members of the Coast Guard when it is not operating as a service in the Navy.
 
 In subsection (c), the words “materiel, and equipment” are omitted as covered by the word “supplies” as defined in section 101(26) of this title.
 

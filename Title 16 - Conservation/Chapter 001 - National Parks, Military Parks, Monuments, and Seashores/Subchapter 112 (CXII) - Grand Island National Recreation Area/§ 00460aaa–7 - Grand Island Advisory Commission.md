@@ -1,4 +1,4 @@
-### §460aaa–7 . Grand Island Advisory Commission
+### §460aaa–7. Grand Island Advisory Commission
 
 #### (a) Establishment
 

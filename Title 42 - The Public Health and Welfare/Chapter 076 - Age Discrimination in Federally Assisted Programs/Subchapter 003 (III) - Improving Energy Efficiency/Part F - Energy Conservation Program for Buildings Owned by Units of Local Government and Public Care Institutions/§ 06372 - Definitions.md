@@ -56,7 +56,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this part \[enacting sections 6371j and 6372 to 6372i of this title\] to authorize grants to States and units of local government and public care institutions to assist them in conducting preliminary energy audits and energy audits in identifying and implementing energy conservation maintenance and operating procedures and in evaluating energy conservation measures to reduce the energy useand anticipated energy costs of buildings owned by units of local government and public care institutions.”
+Purpose.—It is the purpose of this part \[enacting sections 6371j and 6372 to 6372i of this title\] to authorize grants to States and units of local government and public care institutions to assist them in conducting preliminary energy audits and energy audits in identifying and implementing energy conservation maintenance and operating procedures and in evaluating energy conservation measures to reduce the energy use and anticipated energy costs of buildings owned by units of local government and public care institutions.”
 
 #### Application of Davis-Bacon Act
 

@@ -14,7 +14,7 @@ No State shall deny equal educational opportunity to an individual on account of
 
 &emsp;(f) the failure by an educational agency to take appropriate action to overcome language barriers that impede equal participation by its students in its instructional programs.
 
-(Pub. L. 93 380, title II, §204, Aug. 21, 1974, 88 Stat. 515.)
+(Pub. L. 93–380, title II, §204, Aug. 21, 1974, 88 Stat. 515.)
 
 #### Section Referred to in Other Sections
 

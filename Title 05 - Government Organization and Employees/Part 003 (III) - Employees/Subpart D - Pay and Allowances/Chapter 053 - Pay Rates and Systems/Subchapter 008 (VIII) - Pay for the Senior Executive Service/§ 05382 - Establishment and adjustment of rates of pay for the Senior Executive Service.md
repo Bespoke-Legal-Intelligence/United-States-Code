@@ -18,37 +18,37 @@ The General Schedule, referred to in subsec. (c), is set out under section 5332 
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–509, §529 \[title I, §101(b)(6)(A), (9)(I)\], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509, §529 \[title I, §101(b)(6)(A), (9)(I)\], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
 
 Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Pay Increases
 
-1995—The President, under Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of this title, continued the rates of basic pay for the Senior Executive Service as follows:
+<b>1996</b>—The President, under Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1996, as follows:
 
 ES–1
 
-$92,900&nbsp;
+$94,800&nbsp;
 
 ES–2
 
-97,400&nbsp;
+99,300&nbsp;
 
 ES–3
 
-101,800&nbsp;
+103,800&nbsp;
 
 ES–4
 
-107,300&nbsp;
+109,400&nbsp;
 
 ES–5
 
-111,800&nbsp;
+114,000&nbsp;
 
 ES–6
 
@@ -56,39 +56,41 @@ ES–6
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-1993—Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, set out as a note under section 5332 of this title.
+<b>1995</b>—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which continued pay rates, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of this title.
 
-1992—Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for adjustment of pay rates effective Jan. 1, 1992, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
+<b>1993</b>—Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
 
-1991—Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, which provided for adjustment of pay rates effective Jan. 1, 1991, was superseded by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
+<b>1992</b>—Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for adjustment of pay rates effective Jan. 1, 1992, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
 
-1990—Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, which provided for adjustment of pay rates effective Jan. 1, 1990, was superseded by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
+<b>1991</b>—Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, which provided for adjustment of pay rates effective Jan. 1, 1991, was superseded by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
 
-1989—Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, which provided for adjustment of pay rates effective Jan. 1, 1989, was superseded by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
+<b>1990</b>—Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, which provided for adjustment of pay rates effective Jan. 1, 1990, was superseded by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
 
-1988—Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, which provided for adjustment of pay rates effective Jan. 1, 1988, was superseded by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
+<b>1989</b>—Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, which provided for adjustment of pay rates effective Jan. 1, 1989, was superseded by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
 
-1987—Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+<b>1988</b>—Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, which provided for adjustment of pay rates effective Jan. 1, 1988, was superseded by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
 
-1985—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
+<b>1987</b>—Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
 
-1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
+<b>1985</b>—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
-1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
+<b>1984</b>—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
+
+<b>1982</b>—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
 Maximum rate payable after Dec. 17, 1982, increased from $58,500 to $67,200, see Pub. L. 97–377, title I, §129(b)–(d), set out as a note under section 5318 of this title.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
-1981—Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, which provided for adjustment of pay rates effective Oct. 1, 1981, was superseded by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981.
+<b>1981</b>—Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, which provided for adjustment of pay rates effective Oct. 1, 1981, was superseded by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
 
-1980—Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, which provided for adjustment of pay rates effective Oct. 1, 1980, was superseded by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921.
+<b>1980</b>—Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, which provided for adjustment of pay rates effective Oct. 1, 1980, was superseded by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
 
-1979—Ex. Ord. No. 12165, Oct, 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, which provided for adjustment of pay rates effective Oct. 1, 1979, was superseded by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199.
+<b>1979</b>—Ex. Ord. No. 12165, Oct, 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, which provided for adjustment of pay rates effective Oct. 1, 1979, was superseded by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199.
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 

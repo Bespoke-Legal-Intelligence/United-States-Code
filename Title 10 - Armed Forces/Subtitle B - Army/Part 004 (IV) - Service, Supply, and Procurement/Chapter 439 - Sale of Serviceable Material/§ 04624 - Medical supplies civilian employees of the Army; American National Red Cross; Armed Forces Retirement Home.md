@@ -1,4 +1,4 @@
-### §4624 . Medical supplies: civilian employees of the Army; American National Red Cross; Armed Forces Retirement Home
+### §4624. Medical supplies: civilian employees of the Army; American National Red Cross; Armed Forces Retirement Home
 
 (a) Under regulations to be prescribed by the Secretary of the Army, a civilian employee of the Department of the Army who is stationed at an Army post may buy necessary medical supplies from the Army when they are prescribed by an officer of the Medical Corps on active duty.
 
@@ -42,7 +42,7 @@ In subsection (a) the words “an officer of the Medical Corps” are substitute
 
 In subsection (b) the words “rates of charge”, “to cover the cost of purchase, inspection, and so forth”, and “as can be spared without detriment to the military service” are omitted as surplusage. The words “the contract prices paid therefor” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.) The word “equipments” is omitted as covered by the word “supplies”.
 
-In subsection (c), the words “in the District of Columbia” are omitted as surplusage, since there is only one Soldiers’ Home. The words “Upon proper application therefor” are omitted as surplusage. The words “its contract prices” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+In subsection (c), the words “in the District of Columbia” are omitted as surplusage, since there is only one Soldiers’ Home. The words “Upon proper application therefor” are omitted as surplusage. The words “its contract prices” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel\(Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 #### Amendments
 

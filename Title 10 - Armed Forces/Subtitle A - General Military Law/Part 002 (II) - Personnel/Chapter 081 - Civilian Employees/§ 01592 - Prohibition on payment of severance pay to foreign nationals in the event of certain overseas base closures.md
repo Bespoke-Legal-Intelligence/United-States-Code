@@ -32,5 +32,5 @@ Prohibition.—Funds available to the Department of Defense may not be used to p
 
 “(b)
 
-Prohibition on Allowance of Certain Severance Pay as Contract Costs.—Funds available to theDepartment of Defense may not be used to pay the costs of severance pay paid by a contractor to a foreign national employed by the contractor under a defense service contract in the Philippines if the discontinuation of the employment of the foreign national is the result of the termination of basing rights of the United States military in the Philippines.”
+Prohibition on Allowance of Certain Severance Pay as Contract Costs.—Funds available to the Department of Defense may not be used to pay the costs of severance pay paid by a contractor to a foreign national employed by the contractor under a defense service contract in the Philippines if the discontinuation of the employment of the foreign national is the result of the termination of basing rights of the United States military in the Philippines.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Keeping near to outer limit of channel or fairway which lies on vessel's starboard side; exception
 
-(i) A vessel proceeding along the course of a narrow channel or fairway shall keep as near tothe outer limit of the channel or fairway which lies on her starboard side as is safe and practicable.
+(i) A vessel proceeding along the course of a narrow channel or fairway shall keep as near to the outer limit of the channel or fairway which lies on her starboard side as is safe and practicable.
 
 (ii) Notwithstanding paragraph (a)(i) and Rule 14(a), a power-driven vessel operating in narrow channels or fairways on the Great Lakes, Western Rivers, or waters specified by the Secretary, and proceeding downbound with a following current shall have the right-of-way over an upbound vessel, shall propose the manner and place of passage, and shall initiate the maneuvering signals prescribed by Rule 34(a)(i), as appropriate. The vessel proceeding upbound against the current shall hold as necessary to permit safe passing.
 

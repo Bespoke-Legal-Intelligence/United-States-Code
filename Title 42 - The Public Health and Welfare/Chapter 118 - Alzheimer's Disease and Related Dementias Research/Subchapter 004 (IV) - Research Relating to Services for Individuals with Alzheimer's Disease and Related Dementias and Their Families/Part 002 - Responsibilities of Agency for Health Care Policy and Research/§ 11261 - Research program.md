@@ -20,7 +20,7 @@ The Administrator of the Agency for Health Care Policy and Research shall ensure
 
 &emsp;(4) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning the role of physicians in caring for persons with Alzheimer's disease and related dementias and for their families, including the role of a physician in connecting such persons with appropriate health care and supportive services, including those supported through State and area agencies on aging designated under section 3025(a)(1) and (2)(A) of this title; and
 
-&emsp;(5) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer's disease and related dementias and facing their families.
+&emsp;(5) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging,concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer's disease and related dementias and facing their families.
 
 (Pub. L. 99–660, title IX, §934, as added Pub. L. 102–507, §7(b)(1)(B), Oct. 24, 1992, 106 Stat. 3285.)
 

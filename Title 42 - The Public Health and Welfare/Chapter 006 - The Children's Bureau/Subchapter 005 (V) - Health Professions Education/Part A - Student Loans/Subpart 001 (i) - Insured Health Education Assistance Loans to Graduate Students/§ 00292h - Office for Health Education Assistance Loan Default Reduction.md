@@ -46,7 +46,7 @@ In conjunction with the report submitted under subsection (b) of this section, t
 
 #### (d) Allocation of funds for Office
 
-In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering the Office, including 7 full-time equivalent employment positions for such Office. With respect to such purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
+In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering theOffice, including 7 full-time equivalent employment positions for such Office. With respect to such purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
 
 (July 1, 1944, ch. 373, title VII, §709, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2006.)
 
@@ -60,7 +60,7 @@ A prior section 709 of act July 1, 1944, was classified to section 292i of this 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings
 
-The Congress finds that (1) serious unemployment and economic disadvantages exist among members of Indian, Alaskan Native, and Hawaiian Native communities; (2) there is a compelling need for the establishment of comprehensive training and employment programs for members of those communities; and (3) such programs are essential to the reduction of economic disadvantages among individual members of those communities and to the advancement ofeconomic and social development in the communities consistent with their goals and lifestyles.
+The Congress finds that (1) serious unemployment and economic disadvantages exist among members of Indian, Alaskan Native, and Hawaiian Native communities; (2) there is a compelling need for the establishment of comprehensive training and employment programs for members of those communities; and (3) such programs are essential to the reduction of economic disadvantages among individual members of those communities and to the advancement of economic and social development in the communities consistent with their goals and lifestyles.
 
 #### (b) Congressional declaration of guidelines
 
@@ -12,7 +12,7 @@ The Congress therefore declares that, because of the special relationship betwee
 
 (1)(A) In carrying out responsibilities under this section, the Secretary shall, wherever possible, utilize Indian tribes, bands, or groups on Federal or State reservations, Oklahoma Indians, and including for the purpose of this chapter, Alaska Native villages or groups as defined in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], having a governing body for the provision of employment and training services under this section. When the Secretary determines that such tribe, band, or group has demonstrated the capability to effectively administer a comprehensive employment and training program, the Secretary shall require such tribe, band, or group to submit a comprehensive plan meeting such requirements as the Secretary prescribes.
 
-(B) The Secretary shall arrange for programs to meet the employment and training needs of Hawaiian natives through such organizations as the Secretary determines will best meet their needs.
+(B) The Secretary shall arrange for programs to meet the employment and training needs of Hawaiian natives through such organizations asthe Secretary determines will best meet their needs.
 
 (2) In carrying out responsibilities under this section, the Secretary shall make arrangements with organizations (meeting requirements prescribed by the Secretary) serving nonreservation Native Americans for programs and projects designed to meet the needs of such Native Americans for employment and training and related services.
 

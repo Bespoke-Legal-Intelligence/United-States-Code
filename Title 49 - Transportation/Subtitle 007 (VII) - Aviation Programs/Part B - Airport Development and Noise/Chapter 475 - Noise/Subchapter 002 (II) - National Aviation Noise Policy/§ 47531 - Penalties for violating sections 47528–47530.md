@@ -1,6 +1,6 @@
 ### §47531. Penalties for violating sections 47528–47530
 
-A person violating section 47528, 47529, or 47530 of this title or a regulation prescribed under any of those sections is subject to the same civilpenalties and procedures under chapter 463 of this title as a person violating section 44701(a) or (b) or any of sections 44702–44716 of this title.
+A person violating section 47528, 47529, or 47530 of this title or a regulation prescribed under any of those sections is subject to the same civil penalties and procedures under chapter 463 of this title as a person violating section 44701(a) or (b) or any of sections 44702–44716 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1293; Pub. L. 103–429, §6(73), Oct. 31, 1994, 108 Stat. 4388.)
 

@@ -20,5 +20,5 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4303 of this title.
+This section is referred to in section 4303 of this title; title 2 section 1316.
 

@@ -40,7 +40,7 @@
 
 &emsp;(4) to the extent that the Secretary considers advisable, the name of each regular or reserve officer on active duty in a grade above lieutenant colonel who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment.
 
-> From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
+> From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or ifthe officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 163; Oct. 22, 1965, Pub. L. 89–288, §1, 79 Stat. 1050; Nov. 2, 1966, Pub. L. 89–718, §24, 80 Stat. 1119; Oct. 12, 1982, Pub. L. 97–295, §1(38), 96 Stat. 1296; Nov. 17, 1986, Pub. L. 99–662, title IX, §922, 100 Stat. 4194; Apr. 21, 1987, Pub. L. 100–26, §7(a)(10), 101 Stat. 278; Oct. 31, 1992, Pub. L. 102–580, title II, §211, 106 Stat. 4831.)
 
@@ -122,7 +122,7 @@ The first sentence is restated to clarify that the Secretary concerned is the Se
 
 &emsp;“(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 
-&emsp;“(B) the services are provided on a reimbursable basis.” for “United States and, on a reimbursable basis, to a State or political subdivision thereof.Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
+&emsp;“(B) the services are provided on a reimbursable basis.” for “United States and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
 
 &emsp;“(1) the work to be undertaken on behalf of non-Federal interests involves Federal assistance; and
 

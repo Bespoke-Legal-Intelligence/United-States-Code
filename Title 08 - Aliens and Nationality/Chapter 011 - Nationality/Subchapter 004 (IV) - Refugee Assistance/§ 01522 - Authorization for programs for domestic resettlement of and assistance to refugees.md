@@ -34,7 +34,7 @@
 
 (D) With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) of this section shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
 
-(3) In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e) of this section. In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
+(3) In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migrationof refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e) of this section. In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
 
 (4)(A) No grant or contract may be awarded under this section unless an appropriate proposal and application (including a description of the agency's ability to perform the services specified in the proposal) are submitted to, and approved by, the appropriate administering official. Grants and contracts under this section shall be made to those agencies which the appropriate administering official determines can best perform the services. Payments may be made for activities authorized under this subchapter in advance or by way of reimbursement. In carrying out this section, the Director, the Secretary of State, and any such other appropriate administering official are authorized—
 
@@ -96,7 +96,7 @@
 
 &emsp;(ii) fiscal year 1982 and succeeding fiscal years, the Director (except as provided in subparagraph (B)) is authorized,
 
-> to make grants to, and contracts with, public or private nonprofit agencies for initial resettlement (including initial reception and placement with sponsors) of refugees in the United States. Grants to, or contracts with, private nonprofit voluntary agencies under this paragraph shall be made consistent with the objectives of this subchapter, taking into account the different resettlement approaches and practices of such agencies. Resettlement assistance under this paragraph shall be provided in coordination with the Director's provision of other assistance under this subchapter. Funds provided to agencies under such grants and contracts may only be obligated or expended during the fiscal year in which they are provided (or the subsequent fiscal year or such subsequent fiscal period as the Federal contracting agency may approve) to carry out the purposes of this subsection.
+> to make grants to, and contracts with, public or private nonprofit agencies for initial resettlement (including initial reception and placement with sponsors) of refugees in the United States. Grants to, or contracts with, private nonprofit voluntary agencies under this paragraph shall be made consistent with the objectives of this subchapter, taking into account the different resettlement approaches and practices of such agencies. Resettlement assistance under this paragraph shall be provided in coordination with the Director's provision of other assistance under this subchapter. Funds provided to agencies under such grants and contracts may only be obligated or expended during the fiscal yearin which they are provided (or the subsequent fiscal year or such subsequent fiscal period as the Federal contracting agency may approve) to carry out the purposes of this subsection.
 
 (B) If the President determines that the Director should not administer the program under this paragraph, the authority of the Director under the first sentence of subparagraph (A) shall be exercised by such officer as the President shall from time to time specify.
 
@@ -146,7 +146,7 @@
 
 > The agency administering paragraph (1) shall promptly forward a copy of each annual report transmitted under subparagraph (E) to the Committees on the Judiciary of the House of Representatives and of the Senate.
 
-(8) The Federal agency administering paragraph (1) shall establish criteria for the performance of agencies under grants and contracts under that paragraph, and shall include criteria relating to an agency's—
+(8) The Federal agency administering paragraph (1) shall establish criteria for the performance of agencies under grants and contractsunder that paragraph, and shall include criteria relating to an agency's—
 
 &emsp;(A) efforts to reduce welfare dependency among refugees resettled by that agency,
 
@@ -310,7 +310,7 @@ Subsec. (b)(7). Pub. L. 99–605, §5(b)(1), added par. (7).
 
 Subsec. (b)(8). Pub. L. 99–605, §5(c), added par. (8).
 
-Subsec. (c)(1). Pub. L. 99–605, §6(a), designated existing provision as par. (1)(A), redesignated former pars. (1) to (3) as cls. (i) to (iii), respectively, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 99–605, §6(a), designated existing provision as par. (1)(A), redesignated former pars.\(1) to (3) as cls. (i) to (iii), respectively, and added subpar. (B).
 
 Subsec. (c)(1)(C). Pub. L. 99–605, §6(b), added subpar. (C).
 
@@ -326,7 +326,7 @@ Subsec. (e)(2)(A)(ii). Pub. L. 99–605, §8(b), inserted “or targeted assista
 
 Subsec. (e)(2)(C). Pub. L. 99–605, §9(a)(2), added subpar. (C).
 
-Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months orlonger if determined to be disproportionately dependent on welfare.
+Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months or longer if determined to be disproportionately dependent on welfare.
 
 Subsec. (e)(8). Pub. L. 99–605, §9(b), added par. (8).
 
@@ -360,9 +360,11 @@ Subsec. (e)(2). Pub. L. 97–363, §6(b), redesignated existing provisions of pa
 
 Subsec. (e)(6). Pub. L. 97–363, §6(c), added par. (6).
 
-#### Effective Date of 1994 Amendment
+#### Effective Date of 1994 Amendments
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1988 Amendment
 
@@ -444,7 +446,7 @@ Section 401 of Pub. L. 96–212 provided that:
 
 #### Eligibility of Certain Cuban-Haitian Entrants Entering After Nov. 1, 1979
 
-Pub. L. 97–35, title V, §§543(a)(2), 547, Aug. 13, 1981, 95 Stat. 459, 463, eff. Oct. 1, 1981, provided that: “For purposes of the Refugee Education Assistance Act of 1980 \[set out as a note below\], an alien who entered the United States on or after November 1, 1979, and is in the United States with the immigration status of a Cuban-Haitian entrant (status pending) shall be considered to be an eligible participant (within the meaning of section 101(3) of such Act) but only during the 36-month period beginning with the first month in which the alien entered the United States as such an entrant or otherwise first acquired such status.”
+Pub. L. 97–35, title V, §§543(a)(2), 547, Aug. 13, 1981, 95 Stat. 459, 463, eff. Oct. 1, 1981, provided that: “For purposes of the Refugee Education Assistance Act of 1980 \[set out below\], an alien who entered the United States on or after November 1, 1979, and is in the United States with the immigration status of a Cuban-Haitian entrant (status pending) shall be considered to be an eligible participant (within the meaning of section 101(3) of such Act) but only during the 36-month period beginning with the first month in which the alien entered the United States as such an entrant or otherwise first acquired such status.”
 
 #### Cuban Refugees; Incarceration and Deportation of Certain Cubans
 
@@ -524,7 +526,7 @@ I74“state entitlements
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
-“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment\(or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
 #### “applications
 
@@ -534,7 +536,7 @@ I74“state entitlements
 
 &emsp;“(2) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with the formula established by the Secretary under section 201, subject to any reductions in payments for those local educational agencies identified under paragraph (3) to which funds described by section 201(b)(2) are made available for the same purposes under other Federal laws;
 
-&emsp;“(3) specify the amount of funds described by section 201(b)(2) which are made available under other Federal laws for expenditure within the State for the same purposes as those for which funds are madeavailable under this title and the local educational agencies to which such funds are made available;
+&emsp;“(3) specify the amount of funds described by section 201(b)(2) which are made available under other Federal laws for expenditure within the State for the same purposes as those for which funds are made available under this title and the local educational agencies to which such funds are made available;
 
 &emsp;“(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting the application for such funds reasonable notice and opportunity for a hearing; and
 
@@ -574,7 +576,7 @@ I74“state entitlements
 
 &emsp;“(B) at least 5 percent of the total number of students enrolled in such public or nonpublic schools during such fiscal year;
 
-> whichever number is less. Notwithstanding the provisions of this paragraph, the local educational agencies referred to in paragraph (1) shall include local educational agencies eligible to receive assistance by reason of the last sentence of section 3(b) and section 3(c)(2)(B) of the Act of September 30, 1950 (Public Law 874, Eighty-first Congress) \[20 U.S.C. 238(b) and (c)(2)(B)\], relating to Federal impact aid, subject to paragraph (5) of this subsection.
+> whichever number is less. Notwithstanding the provisions of this paragraph, the local educational agencies referred to in paragraph (1) shall include local educational agencies eligible to receive assistance by reason of the last sentence of section 3(b) and section 3(c)(2)(B) of the Act of September 30, 1950 (Public Law 874, Eighty-first Congress) \[formerly 20 U.S.C. 238(b) and (c)(2)(B)\], relating to Federal impact aid, subject to paragraph (5) of this subsection.
 
 “(3) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available under any other Federal law to agencies or other entities for educational, or education-related, services or activities within the State because of the significant concentration of eligible participants. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
@@ -582,13 +584,13 @@ I74“state entitlements
 
 “(5) The amount of the grant to which a State educational agency is entitled as a result of the last sentence of paragraph (2) shall be limited to eligible participants who meet the requirements of section 101(4).
 
-“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(3) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(3) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because ofan underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
 “(d) Whenever the Secretary determines that any amount of a payment made to a State under this title for a fiscal year will not be used by such State for carrying out the purpose for which the payment was made, the Secretary shall make such amount available for carrying out such purpose to one or more other States to the extent the Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this title, be regarded as part of such State's payment (as determined under subsection (b)) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 #### “uses of funds
 
-“Sec. 302. (a) Payments made under this title to any State may be used in accordance with applications approved under section 303 for supplementary educational services and costs, as described under subsection (b) of this section, for eligible participants enrolled in theelementary and secondary public schools under the jurisdiction of the local educational agencies of the State described in section 301(b)(2) and in elementary and secondary nonpublic schools of that State within the districts served by such agencies.
+“Sec. 302. (a) Payments made under this title to any State may be used in accordance with applications approved under section 303 for supplementary educational services and costs, as described under subsection (b) of this section, for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of the State described in section 301(b)(2) and in elementary and secondary nonpublic schools of that State within the districts served by such agencies.
 
 “(b) Financial assistance provided under this title shall be available to meet the costs of providing eligible participants supplementary educational services, including but not limited to—
 
@@ -640,7 +642,7 @@ I74“state entitlements
 
 I74“state entitlements
 
-“Sec. 401. (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1982, and for each subsequent fiscal year for the purposes of providing for the operation of adult education programs as described under section 402 for eligible participants aged 16 or older. Payments made under this title to any State shall be used in accordance with applications approved under section 403.
+“Sec. 401. (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1982, and for eachsubsequent fiscal year for the purposes of providing for the operation of adult education programs as described under section 402 for eligible participants aged 16 or older. Payments made under this title to any State shall be used in accordance with applications approved under section 403.
 
 “(b)(1) Except as provided in subsection (c) of this section, the amount of the grant to which a State educational agency is entitled under this Act, for any fiscal year described in subsection (a), shall be equal to the product of—
 
@@ -650,7 +652,7 @@ I74“state entitlements
 
 &emsp;“(B) $300.
 
-“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A)such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
 
@@ -696,7 +698,7 @@ I74“authorities for other programs and activities
 
 “(b) In addition, the President may, by regulation, provide that benefits granted under any law of the United States (other than the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]) with respect to individuals admitted to the United States under section 207(c) of the Immigration and Nationality Act \[8 U.S.C. 1157(c)\] shall be granted in the same manner and to the same extent with respect to Cuban and Haitian entrants.
 
-“(c)(1)(A) Any Federal agency may, under the direction of the President, provide assistance (in the form of materials, supplies, equipment, work, services, facilities, or otherwise) for the processing, care, maintenance, security, transportation, and initial reception and placement in the United States of Cuban and Haitian entrants. Such assistance shall be provided on such terms and conditions as the President may determine.
+“(c)(1)(A) Any Federal agency may, under the direction of the President, provide assistance (in the form ofmaterials, supplies, equipment, work, services, facilities, or otherwise) for the processing, care, maintenance, security, transportation, and initial reception and placement in the United States of Cuban and Haitian entrants. Such assistance shall be provided on such terms and conditions as the President may determine.
 
 “(B) Funds available to carry out this subsection shall be used to reimburse State and local governments for expenses which they incur for the purposes described in subparagraph (A). Such funds may be used to reimburse Federal agencies for assistance which they provide under subparagraph (A).
 

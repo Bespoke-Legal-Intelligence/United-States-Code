@@ -18,7 +18,7 @@ A mortgagee may foreclose the mortgage on, or acquire by deed in lieu of foreclo
 
 For purposes of this section, the term “lower income families” has the meaning given such term in section 1437a(b)(2) of title 42.
 
-(June 27, 1934, ch. 847, title II, §250, as added Nov. 30, 1983, Pub. L. 98–181, title IV, §433, 97 Stat. 1221; amended Feb. 5, 1988, Pub. L. 100–242, title II, §261, 101 Stat. 1890; Dec. 15, 1989, Pub. L. 101–235, title II, §202(d)(1), 103 Stat. 2037; Nov. 28, 1990, Pub. L. 101–625, title VI, §602(b), (c), 104 Stat. 4277.)
+(June 27, 1934, ch. 847, title II, §250, as added Nov. 30, 1983, Pub. L. 98–181, title IV, §433, 97 Stat. 1221; amended Feb. 5, 1988, Pub. L. 100–242,title II, §261, 101 Stat. 1890; Dec. 15, 1989, Pub. L. 101–235, title II, §202(d)(1), 103 Stat. 2037; Nov. 28, 1990, Pub. L. 101–625, title VI, §602(b), (c), 104 Stat. 4277.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of a sale of export property to a FSC by a person described in section 482, thetaxable income of such FSC and such person shall be based upon a transfer price which would allow such FSC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of—
+In the case of a sale of export property to a FSC by a person described in section 482, the taxable income of such FSC and such person shall be based upon a transfer price which would allow such FSC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of—
 
 &emsp;(1) 1.83 percent of the foreign trading gross receipts derived from the sale of such property by such FSC,
 

@@ -2,9 +2,9 @@
 
 Subject to the limitations contained in subtitle A of this title, there are authorized to be appropriated for fiscal years 1982, 1983, and 1984 such sums as may be necessary to carry out each of the following provisions of law:
 
-&emsp;(1) the Act of September 30, 1950 (Public Law 874, 81st Congress);
+&emsp;(1) the Act of September 30, 1950 <sup>1</sup> (Public Law 874, 81st Congress);
 
-&emsp;(2) the Act of September 23, 1950 (Public Law 815, 81st Congress);
+&emsp;(2) the Act of September 23, 1950 <sup>1</sup> (Public Law 815, 81st Congress);
 
 &emsp;(3) the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
 
@@ -20,7 +20,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(9) the Joint Resolution of October 19, 1972 (86 Stat. 907);
 
-&emsp;(10) the Vocational Education Act of 1963;
+&emsp;(10) the Vocational Education Act of 1963; <sup>1</sup>
 
 &emsp;(11) title IV of the Civil Rights Act of 1964 \[42 U.S.C. 2000c et seq.\];
 
@@ -28,45 +28,45 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(13) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
 
-&emsp;(14) part C of title IX of the Elementary and Secondary Education Act of 1965, relating to Women's Educational Equity; and
+&emsp;(14) part C of title IX of the Elementary and Secondary Education Act of 1965,<sup>1</sup> relating to Women's Educational Equity; and
 
-&emsp;(15) title VII of the Elementary and Secondary Education Act of 1965.
+&emsp;(15) title VII of the Elementary and Secondary Education Act of 1965.<sup>1</sup>
 
-(Pub. L. 97 35, title V, §528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98 211, §20, Dec. 8, 1983, 97 Stat. 1418.)
+(Pub. L. 97–35, title V, §528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, §20, Dec. 8, 1983, 97 Stat. 1418.)
 
 #### References in Text
 
-Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97 35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by Aug. 12, 1958, Pub. L. 85 620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§631 et seq.) of this title, prior to repeal by Pub. L. 103 382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by Aug. 12, 1958, Pub. L. 85–620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§631 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-The General Education Provisions Act, referred to in par. (3), is title IV of Pub. L. 90 247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in par. (3), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Indian Education Act, referred to in par. (4), is Pub. L. 92 318, title IV, June 23, 1972, 86 Stat. 334, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 241aa of this title and Tables.
+The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334, as amended. For complete classification of this Act to theCode, see Short Title note set out under section 241aa of this title and Tables.
 
-The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c 1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
+The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
-The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96 374, Oct. 3, 1980, 94 Stat. 1367, as amended. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96 374, title XIII, §§1371 1373, 1376, 1377, 1381 1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367, as amended. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96–374, title XIII, §§1371–1373, 1376, 1377, 1381–1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
 
-The Adult Education Act, referred to in par. (6), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in par. (6), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Asbestos School Hazards Detection and Control Act, referred to in par. (8), is Pub. L. 96 270, June 14, 1980, 94 Stat. 487, which is classified generally to chapter 49 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Asbestos School Hazards Detection and Control Act, referred to in par. (8), is Pub. L. 96–270, June 14, 1980, 94 Stat. 487, which is classified generally to chapter 49 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Joint Resolution of October 19, 1972 (86 Stat. 907), referred to in par. (9), is Pub. L. 92 506, Oct. 19, 1972, 86 Stat. 907, which is not classified to the Code.
+The Joint Resolution of October 19, 1972 (86 Stat. 907), referred to in par. (9), is Pub. L. 92–506, Oct. 19, 1972, 86 Stat. 907, which is not classified to the Code.
 
-The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94 482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. Subsequently, Pub. L. 101 392, Sept. 25, 1990, 104 Stat. 753, amended the Act to be cited as the Carl D. Perkins Vocational and Applied Technology Education Act. For additional details, see the Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. Subsequently, Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, amended the Act to be cited as the Carl D. Perkins Vocational and Applied Technology Education Act. For additional details, see the Codification note preceding section 2301 of this title.
 
-The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88 352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Library Services and Construction Act, referred to in par. (12), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended, which is classified generally to chapter 16 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
-The Navajo Community College Act, referred to in par. (13), is Pub. L. 92 189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+The Navajo Community College Act, referred to in par. (13), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (13), is Pub. L. 95 471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (13), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (14) and (15), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100 297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (14) and (15), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
 
 #### Codification
 
@@ -74,17 +74,17 @@ Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 
 
 #### Amendments
 
-1983—Par. (15). Pub. L. 98 211 added par. (15).
+1983—Par. (15). Pub. L. 98–211 added par. (15).
 
 #### Short Title
 
-Section 501 of title V of Pub. L. 97 35 provided that: “This title \[see Tables for classification of sections 501 to 596 of Pub. L. 97 35\] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
+Section 501 of title V of Pub. L. 97–35 provided that: “This title \[see Tables for classification of sections 501 to 596 of Pub. L. 97–35\] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
 
 #### Applicability to Other Laws; General Restrictions
 
-Section 502 of subtitle A of title V of Pub. L. 97 35 provided that:
+Section 502 of subtitle A of title V of Pub. L. 97–35 provided that:
 
-“(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97 35\] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
+“(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97–35\] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
 
 “(b) Notwithstanding any authorization of appropriations for fiscal year 1982, 1983, or 1984 contained in any provision of law which is specified in this subtitle (including any authorization of appropriations contained in section 528 of this title \[this section\]), no funds are authorized to be appropriated in excess of the limitations imposed upon appropriations by the provisions of this subtitle.
 

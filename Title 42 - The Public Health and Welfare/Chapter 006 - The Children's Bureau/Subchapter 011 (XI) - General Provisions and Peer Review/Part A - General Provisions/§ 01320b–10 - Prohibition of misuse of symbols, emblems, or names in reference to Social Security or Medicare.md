@@ -6,7 +6,7 @@
 
 &emsp;(A) the words “Social Security”, “Social Security Account”, “Social Security System”, “Social Security Administration”, “Medicare”, “Health Care Financing Administration”, “Department of Health and Human Services”, “Health and Human Services”, “Supplemental Security Income Program”, or “Medicaid”, the letters “SSA”, “HCFA”, “DHHS”, “HHS”, or “SSI”, or any other combination or variation of such words or letters, or
 
-&emsp;(B) a symbol or emblem of the Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services (including the design of, or a reasonable facsimile of the design of, the social security card issued pursuant to section 405(c)(2)(F) of this title or the Medicare card,,<sup>1</sup> the check used for payment of benefits under subchapter II of this chapter, or envelopes or other stationery used by the Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services), or any other combination or variation of such symbols or emblems,
+&emsp;(B) a symbol or emblem of the Social Security Administration, Health Care Financing Administration, or Department of Health andHuman Services (including the design of, or a reasonable facsimile of the design of, the social security card issued pursuant to section 405(c)(2)(F) of this title or the Medicare card,,<sup>1</sup> the check used for payment of benefits under subchapter II of this chapter, or envelopes or other stationery used by the Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services), or any other combination or variation of such symbols or emblems,
 
 > in a manner which such person knows or should know would convey, or in a manner which reasonably could be interpreted or construed as conveying, the false impression that such item is approved, endorsed, or authorized by the Social Security Administration, the Health Care Financing Administration, or the Department of Health and Human Services or that such person has some connection with, or authorization from, the Social Security Administration, the Health Care Financing Administration, or the Department of Health and Human Services. The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.
 
@@ -46,7 +46,7 @@ Subsec. (a)(1). Pub. L. 103–296, §312(c), (d), in closing provisions substitu
 
 Subsec. (a)(1)(A). Pub. L. 103–296, §312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’, the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
 
-Subsec. (a)(1)(B). Pub. L. 103–296, §312(b)(2), substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health CareFinancing Administration” before “, or any other”, and inserted “or the Medicare card,” after “section 405(c)(2)(F) of this title”.
+Subsec. (a)(1)(B). Pub. L. 103–296, §312(b)(2), substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health Care Financing Administration” before “, or any other”, and inserted “or the Medicare card,” after “section 405(c)(2)(F) of this title”.
 
 Subsec. (a)(2). Pub. L. 103–296, §304(b), substituted “405(c)(2)(F)” for “405(c)(2)(E)”.
 
@@ -114,7 +114,7 @@ When due.—The reports required by paragraph (1) shall be submitted not later t
 
 #### Consultation by United States Postal Service Regarding Prevention of Deceptive Mailings
 
-United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health andHuman Services note under section 3001 of Title 39, Postal Service.
+United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health and Human Services note under section 3001 of Title 39, Postal Service.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

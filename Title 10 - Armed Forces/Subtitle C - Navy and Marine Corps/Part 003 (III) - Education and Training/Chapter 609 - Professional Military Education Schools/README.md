@@ -2,8 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 7101\. | Naval War College: master of arts in national security and strategic studies. |
-| 7102\. | Marine Corps University: master of military studies. |
+| [7101\.](%C2%A7%2007101%20-%20Naval%20War%20College%20master%20of%20arts%20in%20national%20security%20and%20strategic%20studies.md) | Naval War College: master of arts in national security and strategic studies. |
+| [7102\.](%C2%A7%2007102%20-%20Marine%20Corps%20University%20master%20of%20military%20studies.md) | Marine Corps University: master of military studies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -44,7 +44,7 @@
 
 > The provisions of this paragraph shall not apply to the public disclosure of information with respect to a consumer product which is the subject of an action brought under section 2061 of this title, or which the Commission has reasonable cause to believe is in violation of section 2068(a) of this title, or information in the course of or concerning a judicial proceeding.
 
-(6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish procedures designed to ensure that such information is accurate and not misleading.
+(6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish proceduresdesigned to ensure that such information is accurate and not misleading.
 
 (7) If the Commission finds that, in the administration of this Act, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product or class of consumer products, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner equivalent to that in which such disclosure was made, take reasonable steps to publish a retraction of such inaccurate or misleading information.
 
@@ -78,51 +78,51 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 (5) Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title, who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
 
-(Pub. L. 92 573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97 35, title XII, §1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97 414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101 608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116.)
+(Pub. L. 92–573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, §1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116.)
 
 #### References in Text
 
-The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92 573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, as amended, which is classified generally to chapter 25 (§1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
 
-The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91 601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified generally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified generally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86 613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 #### Amendments
 
-1990—Subsec. (a)(8). Pub. L. 101 608, §106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
+1990—Subsec. (a)(8). Pub. L. 101–608, §106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
 
-Subsec. (e). Pub. L. 101 608, §112(c), added subsec. (e).
+Subsec. (e). Pub. L. 101–608, §112(c), added subsec. (e).
 
-1983—Subsec. (b)(1). Pub. L. 97 414 substituted “paragraph (4)” for “paragraph (2)”.
+1983—Subsec. (b)(1). Pub. L. 97–414 substituted “paragraph (4)” for “paragraph (2)”.
 
-1981—Subsec. (a)(1). Pub. L. 97 35 amended par. (1) generally, substituting “shall be construed” for “shall be deemed”.
+1981—Subsec. (a)(1). Pub. L. 97–35 amended par. (1) generally, substituting “shall be construed” for “shall be deemed”.
 
-Subsec. (a)(2). Pub. L. 97 35 amended par. (2) generally, substituting “title 18, or subject to section 552(b)(4) of title 5, shall be considered confidential and shall not be disclosed” for “title 18 shall be considered confidential and shall not be disclosed, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this chapter shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees of the Congress”.
+Subsec. (a)(2). Pub. L. 97–35 amended par. (2) generally, substituting “title 18, or subject to section 552(b)(4) of title 5, shall be considered confidential and shall not be disclosed” for “title 18 shall be considered confidential and shall not be disclosed, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this chapter shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees of the Congress”.
 
-Subsec. (a)(3) to (8). Pub. L. 97 35 added pars. (3) to (8).
+Subsec. (a)(3) to (8). Pub. L. 97–35 added pars. (3) to (8).
 
-Subsec. (b)(1). Pub. L. 97 35 amended par. (1) generally, substituting “notice and publishes such a finding in the Federal Register),” for “notice),”, and “In disclosing any information under this subsection, the Commission may, and upon the request of the manufacturer or private labeler shall, include with the disclosure any comments or other information or a summary thereof submitted by such manufacturer or private labeler to the extent permitted by and subject to the requirements of this section” for “If the Commission finds that, in the administration of this chapter, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner similar to that in which such disclosure was made, publish a retraction of such inaccurate or misleading information”.
+Subsec. (b)(1). Pub. L. 97–35 amended par. (1) generally, substituting “notice and publishes such a finding in the Federal Register),” for “notice),”, and “In disclosing any information under this subsection, the Commission may, and upon the request of the manufacturer or private labeler shall, include with the disclosure any comments or other information or a summary thereof submitted by such manufacturer or private labeler to the extent permitted by and subject to the requirements of this section” for “If the Commission finds that, in the administration of this chapter, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner similar to that in which such disclosure was made, publish a retraction of such inaccurate or misleading information”.
 
-Subsec. (b)(2) to (4). Pub. L. 97 35 added pars. (2) and (3), redesignated former par. (2) as (4) and substituted “Paragraphs (1) through (3) of this subsection” for “Paragraph (1) (except for the last sentence thereof)” and “a rulemaking proceeding (which shall commence upon the publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking), an adjudicatory proceeding (which shall commence upon the issuance of a complaint) or other administrative or judicial proceeding under this chapter” for “any administrative or judicial proceeding under this chapter”.
+Subsec. (b)(2) to (4). Pub. L. 97–35 added pars. (2) and (3), redesignated former par. (2) as (4) and substituted “Paragraphs (1) through (3) of this subsection” for “Paragraph (1) (except for the last sentence thereof)” and “a rulemaking proceeding (which shall commence upon the publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking), an adjudicatory proceeding (which shall commence upon the issuance of a complaint) or other administrative or judicial proceeding under this chapter” for “any administrative or judicial proceeding under this chapter”.
 
-Subsec. (b)(5) to (8). Pub. L. 97 35 added pars. (5) to (8).
+Subsec. (b)(5) to (8). Pub. L. 97–35 added pars. (5) to (8).
 
-Subsecs. (c), (d). Pub. L. 97 35 reenacted subsec. (c) without change and added subsec. (d).
+Subsecs. (c), (d). Pub. L. 97–35 reenacted subsec. (c) without change and added subsec. (d).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Confidentiality Protections for Information Reported on Incidents of Children Choking
 
-For purposes of subsection (b)(5) of this section, information reported to Consumer Product Safety Commission on incidents of children choking on a marble, small ball, latex balloon, or other small part contained in a toy or game, to be treated as information submitted pursuant to section 2064(b) of this title, see section 102 of Pub. L. 103 267, set out as a Reporting Requirements note under section 2064 of this title.
+For purposes of subsection (b)(5) of this section, information reported to Consumer Product Safety Commission on incidents of children choking on a marble, small ball, latex balloon, or other small part contained in a toy or game, to be treated as information submitted pursuant to section 2064(b) of this title, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
 
 #### Section Referred to in Other Sections
 

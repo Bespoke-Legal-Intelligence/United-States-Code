@@ -164,7 +164,7 @@ Any State that desires to receive a grant under this section shall submit an app
 
 #### (A) In general
 
-&emsp;&emsp;An assurance that the State will use funds made available under this section or section2213 of this title to accomplish the purposes described in section 2201(b)(1) of this title and the goals, objectives, and outcomes described in paragraph (6), and to carry out the systems change and advocacy activities described in paragraph (6)(B), in a manner that is consumer-responsive.
+&emsp;&emsp;An assurance that the State will use funds made available under this section or section 2213 of this title to accomplish the purposes described in section 2201(b)(1) of this title and the goals, objectives, and outcomes described in paragraph (6), and to carry out the systems change and advocacy activities described in paragraph (6)(B), in a manner that is consumer-responsive.
 
 #### (B) Particular activities
 
@@ -270,7 +270,7 @@ Any State that desires to receive a grant under this section shall submit an app
 
 &emsp;&emsp;(A) an assurance that the State will annually provide, from the funds made available to the State through a grant made under this section or section 2213 of this title, an amount calculated in accordance with subsection (f)(4) of this section, in order to make a grant to, or enter into a contract with, an entity to support protection and advocacy services through the systems established to provide protection and advocacy under the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.), the Protection and Advocacy for Mentally Ill Individuals Act (42 U.S.C. 10801 et seq.), and section 794e of this title; or
 
-&emsp;&emsp;(B) at the discretion of the State, a request that the Secretary annually reserve, from the funds made available to the State through a grant made under this section or section 2213 of this title, an amount calculated in accordance with subsection (f)(4) of this section, in order for the Secretary to make a grant to or enter into a contract with such a system to support protection and advocacy services.
+&emsp;&emsp;(B) at the discretion of the State, a request that the Secretary annually reserve, from the funds made available to the Statethrough a grant made under this section or section 2213 of this title, an amount calculated in accordance with subsection (f)(4) of this section, in order for the Secretary to make a grant to or enter into a contract with such a system to support protection and advocacy services.
 
 #### (21) Training activities
 
@@ -350,7 +350,7 @@ Any State that desires to receive a grant under this section shall submit an app
 
 #### (3) Consultation with State programs
 
-&emsp;Before making a grant or entering into a contract under subsection (e)(20)(B) of this section to support the protection and advocacy services described in subsection (e)(20)(A) of this section in a State, the Secretary shall solicit and consider the opinions of the lead agency in the State with respect to the terms of the grant or contract.
+&emsp;Before making a grant or entering into a contract under subsection (e)(20)(B) of this section to support the protection and advocacy services described in subsection (e)(20)(A)of this section in a State, the Secretary shall solicit and consider the opinions of the lead agency in the State with respect to the terms of the grant or contract.
 
 #### (4) Calculation of expenditures
 

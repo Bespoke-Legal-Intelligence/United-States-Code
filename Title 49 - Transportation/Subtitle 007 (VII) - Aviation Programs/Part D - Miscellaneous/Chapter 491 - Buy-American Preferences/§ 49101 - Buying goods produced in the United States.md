@@ -52,7 +52,7 @@ In this chapter, the word “goods” is substituted for “product” and “pr
 
 In subsection (a), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “after November 5, 1990” are omitted as obsolete.
 
-In subsection (b), before clause (1), the words “The Secretary may waive” are substituted for “shall notapply” for consistency. In clause (2), the words “steel and goods” are substituted for “materials and products” for consistency. In clause (4), the word “contract” is omitted as surplus.
+In subsection (b), before clause (1), the words “The Secretary may waive” are substituted for “shall not apply” for consistency. In clause (2), the words “steel and goods” are substituted for “materials and products” for consistency. In clause (4), the word “contract” is omitted as surplus.
 
 #### References in Text
 

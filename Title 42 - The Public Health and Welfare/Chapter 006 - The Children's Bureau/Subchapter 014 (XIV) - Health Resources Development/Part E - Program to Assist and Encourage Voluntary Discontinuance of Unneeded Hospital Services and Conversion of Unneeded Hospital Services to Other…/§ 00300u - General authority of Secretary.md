@@ -28,7 +28,7 @@ The Secretary shall—
 
 &emsp;(C) in providing such technical assistance, give preference to small businesses;
 
-&emsp;(8) foster the exchange of information respecting, and foster cooperation in the conduct of, research, demonstration, and training programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
+&emsp;(8) foster the exchange of information respecting, and foster cooperation in the conduct of, research, demonstration, and trainingprograms respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
 &emsp;(9) provide technical assistance in the programs referred to in paragraph (8);
 
@@ -54,7 +54,7 @@ For the purpose of carrying out this section and sections 300u–1 through 300u�
 
 No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title XVII, §1701, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat.695; amended July 10, 1979, Pub. L. 96–32, §7(n), 93 Stat. 85; Sept. 29, 1979, Pub. L. 96–76, title II, §209, 93 Stat. 584; Oct. 30, 1984, Pub. L. 98–551, §2(a), 98 Stat. 2815; Nov. 4, 1988, Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), 102 Stat. 3113, 3114; Nov. 26, 1991, Pub. L. 102–168, title I, §101, 105 Stat. 1102; Oct. 27, 1992, Pub. L. 102–531, title III, §311(b)(1), 106 Stat. 3503.)
+(July 1, 1944, ch. 373, title XVII, §1701, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 695; amended July 10, 1979, Pub. L. 96–32, §7(n), 93 Stat. 85; Sept. 29, 1979, Pub. L. 96–76, title II, §209, 93 Stat. 584; Oct. 30, 1984, Pub. L. 98–551, §2(a), 98 Stat. 2815; Nov. 4, 1988, Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), 102 Stat. 3113, 3114; Nov. 26, 1991, Pub. L. 102–168, title I, §101, 105 Stat. 1102; Oct. 27, 1992, Pub. L. 102–531, title III, §311(b)(1), 106 Stat. 3503.)
 
 #### Codification
 

@@ -1,4 +1,4 @@
-### §101 . Definitions
+### §101. Definitions
 
 (a)
 
@@ -256,7 +256,7 @@ July 26, 1947, ch. 343, §§205(c) (for definition purposes), 206(a) (for defini
 
 50:1112(b) (for definition purposes).
 
-5:181–3(b) (less last sentence); 10:1a(b) (less last sentence) 10:1801(b) (less last sentence); 37:231(c) (1st sentence, for definition purposes); 50:901(g).
+5:181–3(b) (less last sentence); 10:1a(b) (less last sentence); 10:1801(b) (less last sentence); 37:231(c) (1st sentence, for definition purposes); 50:901(g).
 
 July 26, 1947, ch. 343, §201(b) (last 31 words of clause (1), for definition purposes); restated Aug. 10, 1949, ch. 412, §4 (last 31 words of clause (1) of 201(b), for definition purposes), 63 Stat. 579.
 

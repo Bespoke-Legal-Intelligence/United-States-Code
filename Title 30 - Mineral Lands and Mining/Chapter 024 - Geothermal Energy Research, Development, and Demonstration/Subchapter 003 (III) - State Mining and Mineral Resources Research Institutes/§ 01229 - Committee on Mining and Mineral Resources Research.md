@@ -24,11 +24,11 @@ The Committee shall consult with, and make recommendations to, the Secretary on 
 
 #### (c) Compensation, travel, subsistence and related expenses
 
-Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent ofthe maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5, and shall be fully reimbursed for travel, subsistence, and related expenses.
+Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5, and shall be fully reimbursed for travel, subsistence, and related expenses.
 
 #### (d) Chairmanship of Committee
 
-The Committee shall be jointly chaired by the Assistant Secretary of the Interior responsible for minerals and mining and a person to be elected by the Committee from among the members referred to in paragraphs (5), (6), and (7) of subsection (a) of this section.
+The Committee shall be jointly chaired by the Assistant Secretary of the Interior responsible for minerals and mining and a person to beelected by the Committee from among the members referred to in paragraphs (5), (6), and (7) of subsection (a) of this section.
 
 #### (e) National plan for research
 

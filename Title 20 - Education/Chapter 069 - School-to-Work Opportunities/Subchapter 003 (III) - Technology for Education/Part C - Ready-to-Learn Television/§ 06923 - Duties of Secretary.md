@@ -26,11 +26,11 @@ The Secretary is authorized—
 
 &emsp;&emsp;(B) provide information to recipients of funds under Federal programs that have major training components for early childhood development, including Head Start, Even Start, and State training activities funded under the Child Care Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\] regarding the availability and utilization of materials developed under paragraph (3) to enhance parent and child care provider skills in early childhood development and education.
 
-(Pub. L. 89 10, title III, §3303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3664.)
+(Pub. L. 89–10, title III, §3303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3664.)
 
 #### References in Text
 
-The Child Care Development and Block Grant Act of 1990, referred to in par. (4)(B), probably means the Child Care and Development Block Grant Act of 1990, which is subchapter C (§§658A 658R) of chapter 8 of subtitle A of title VI of Pub. L. 97 35, as added by Pub. L. 101 508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388 236, as amended, and which is classified generally to subchapter II B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care Development and Block Grant Act of 1990, referred to in par. (4)(B), probably means the Child Care and Development Block Grant Act of 1990, which is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, and which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 

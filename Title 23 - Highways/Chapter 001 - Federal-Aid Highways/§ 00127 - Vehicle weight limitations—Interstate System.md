@@ -14,7 +14,7 @@ W=500
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, exceptthat two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater. Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(1) <sup>1</sup> of this title. This section shall not be construed to deny apportionment to any State allowing the operation within such State of any vehicles or combinations thereof, other than vehicles or combinations subject to subsection (d) of this section, which the State determines could be lawfully operated within such State on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974. With respect to the State of Hawaii, laws or regulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956. With respect to the State of Michigan, laws or regulations in effect on May 1, 1982, shall be applicable for the purposes of this subsection. With respect to the State of Maryland, laws and regulations in effect on June 1, 1993, shall be applicable for the purposes of this subsection.
+> where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater. Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(1) <sup>1</sup> of this title. This section shall not be construed to deny apportionment to any State allowing the operation within such State of any vehicles or combinations thereof, other than vehicles or combinations subject to subsection (d) of this section, which the State determines could be lawfully operated within such State on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974. With respect to the State of Hawaii, laws or regulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956. With respect to the State of Michigan, laws or regulations in effect on May 1, 1982, shall be applicable for the purposes of this subsection. With respect to the State of Maryland, laws and regulations in effect on June 1, 1993, shall be applicable for the purposes of this subsection.
 
 (b)
 
@@ -51,6 +51,10 @@ Ohio.—In addition to vehicles which the State of Ohio may continue to allow to
 &emsp;&emsp;(E)
 
 Alaska.—In addition to vehicles which the State of Alaska may continue to allow to be operated under subparagraph (A), such State may allow the operation of longer combination vehicles which were not in actual operation on June 1, 1991, but which were in actual operation prior to July 5, 1991.
+
+&emsp;&emsp;(F)
+
+Iowa.—In addition to vehicles that the State of Iowa may continue to allow to be operated under subparagraph (A), the State may allow longer combination vehicles that were not in actual operation on June 1, 1991, to be operated on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska.
 
 &emsp;(2)
 
@@ -100,13 +104,21 @@ Regulations regarding minor adjustments.—Not later than 180 days after the dat
 
 Operation of Certain Specialized Hauling Vehicles on Interstate Route 68.—The single axle, tandem axle, and bridge formula limits set forth in subsection (a) shall not apply to the operation on Interstate Route 68 in Garrett and Allegany Counties, Maryland, of any specialized vehicle equipped with a steering axle and a tridem axle and used for hauling coal, logs, and pulpwood if such vehicle is of a type of vehicle as was operating in such counties on United States Route 40 or 48 for such purpose on August 1, 1991.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377.)
+(f)
+
+Operation of Certain Specialized Hauling Vehicles on Certain Wisconsin Highways.—If the 104-mile portion of Wisconsin State Route 78 and United States Route 51 between Interstate Route 94 near Portage, Wisconsin, and Wisconsin State Route 29 south of Wausau, Wisconsin, is designated as part of the Interstate System under section 139(a), the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits set forth in subsection (a) shall not apply to the 104-mile portion with respect to the operation of any vehicle that could legally operate on the 104-mile portion before the date of the enactment of this subsection.
+
+(g)
+
+Operation of Certain Specialized Hauling Vehicles on Certain Pennsylvania Highways.—If the segment of United States Route 220 between Bedford and Bald Eagle, Pennsylvania, is designated as part of the Interstate System, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits set forth in subsection (a) shall not apply to that segment with respect to the operation of any vehicle which could have legally operated on that segment before the date of the enactment of this subsection.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956.)
 
 #### References in Text
 
 The date of enactment of Federal-Aid Highway Amendments of 1974, referred to in subsec. (a), means Jan. 4, 1975, the date on which Pub. L. 93–643 was approved.
 
-Section 118(b) of this title, referred to in subsec. (a), was struck out and a new subsec. (b) was added by Pub. L. 102–240, title I, §1020(a), Dec. 18, 1991, 105 Stat. 1948. Provisions formerly contained in subsec. (b)(1) of section 118 appear in subsec. (b)(2).
+Section 118(b) of this title, referred to in subsec. (a), was struck out and a new subsec. (b) was added by Pub. L. 102–240, title I, §1020(a), Dec. 18, 1991, 105 Stat. 1948.Provisions formerly contained in subsec. (b)(1) of section 118 appear in subsec. (b)(2).
 
 The date of the enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
@@ -114,13 +126,25 @@ Section 335 of the Department of Transportation and Related Agencies Appropriati
 
 The date of the enactment of this subsection, referred to in subsec. (d)(3)(A), (B), (D), (5), is the date of the enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
 
+The date of the enactment of this subsection, referred to in subsec. (f), is the date of enactment of Pub. L. 104–59, which was approved Nov. 28, 1995.
+
+The date of the enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 104–88, which was approved Dec. 29, 1995.
+
 #### Amendments
+
+1995—Subsec. (a). Pub. L. 104–59, §312(a)(1), in proviso of second sentence substituted “except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those” for “except for those”.
+
+Subsec. (d)(1)(F). Pub. L. 104–59, §312(a)(2), added subpar. (F).
+
+Subsec. (f). Pub. L. 104–59, §312(b), as amended by Pub. L. 104–88, §405(a)(1), added subsec. (f).
+
+Subsec. (g). Pub. L. 104–88, §404, added subsec. (g).
 
 1994—Subsec. (a). Pub. L. 103–331 inserted at end “With respect to the State of Maryland, laws and regulations in effect on June 1, 1993, shall be applicable for the purposes of this subsection.”
 
 Subsec. (d)(2)(A). Pub. L. 103–429 substituted “sections 31111–31114 of title 49” for “sections 411, 412, and 416 of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311, 2312, and 2316)”.
 
-1991—Subsec. (a). Pub. L. 102–240, §1023(a), substituted “funds shall be apportioned in any fiscal year undersection 104(b)(1) of this title” for “funds authorized to be appropriated for any fiscal year under provisions of the Federal-Aid Highway Act of 1956 shall be apportioned” in first sentence and inserted “, other than vehicles or combinations subject to subsection (d) of this section,” after “thereof” in fourth sentence.
+1991—Subsec. (a). Pub. L. 102–240, §1023(a), substituted “funds shall be apportioned in any fiscal year under section 104(b)(1) of this title” for “funds authorized to be appropriated for any fiscal year under provisions of the Federal-Aid Highway Act of 1956 shall be apportioned” in first sentence and inserted “, other than vehicles or combinations subject to subsection (d) of this section,” after “thereof” in fourth sentence.
 
 Subsecs. (d), (e). Pub. L. 102–240, §1023(b), (d), added subsecs. (d) and (e).
 
@@ -150,17 +174,23 @@ Subsec. (b). Pub. L. 97–424 added subsec. (b).
 
 1960—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by section 404 of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+Section 405(a) of Pub. L. 104–88 provided that the amendment made by that section is effective Nov. 28, 1995.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Public Transit Vehicles
 
-Section 1023(h) of Pub. L. 102–240, as added by Pub. L. 102–388, title III, §341, Oct. 6, 1992, 106 Stat. 1552, provided that:
+Section 1023(h) of Pub. L. 102–240, as added by Pub. L. 102–388, title III, §341, Oct. 6, 1992, 106 Stat. 1552; amended by Pub. L. 104–59, title III, §326, Nov. 28, 1995, 109 Stat. 592, provided that:
 
 “(1)
 
-Temporary exemption.—The second sentence of section 127 of title 23, United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply, for the 2-year period beginning on the date of enactment of this Act \[probably means Pub. L. 102–388, Oct. 6, 1992\], to any vehicle which is regularly and exclusively used as an intrastate public agency transit passenger bus. The Secretary may extend such 2-year period for an additional year.
+Temporary exemption.—The second sentence of section 127 of title 23, United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply, for the period beginning on October 6, 1992, and ending on the date on which Federal-aid highway and transit programs are reauthorized after the date of the enactment of the National Highway System Designation Act of 1995 \[Nov. 28, 1995\], to any vehicle which is regularly and exclusively used as an intrastate public agency transit passenger bus.
 
 “(2)
 
@@ -196,15 +226,7 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 
 #### Study Pertaining to Transporters of Water Well Drilling Rigs
 
-Section 1023(g) of Pub. L. 102–240 provided that:
-
-“(1)
-
-Study.—The Secretary shall conduct a study of State and Federal regulations pertaining to transporters of water well drilling rigs on public highways for the purpose of identifying requirements which place a burden on such transporters without enhancing safety or preservation of public highways.
-
-“(2)
-
-Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any legislative and administrative recommendations of the Secretary.”
+Section 1023(g) of Pub. L. 102–240 directed Secretary to conduct a study of State and Federal regulations pertaining to transporters of water well drilling rigs on public highways for the purpose of identifying requirements which place a burden on such transporters without enhancing safety or preservation of public highways, and, not later than 2 years after Dec. 18, 1991, report to Congress on the results of the study, together with any legislative and administrative recommendations.
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 

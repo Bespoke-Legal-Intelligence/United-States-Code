@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter—
 
-&emsp;(1) The veteran population of each State shall be determined on the basis of the latestfigures certified by the Department of Commerce.
+&emsp;(1) The veteran population of each State shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
 &emsp;(2) The term “State” does not include any possession of the United States.
 

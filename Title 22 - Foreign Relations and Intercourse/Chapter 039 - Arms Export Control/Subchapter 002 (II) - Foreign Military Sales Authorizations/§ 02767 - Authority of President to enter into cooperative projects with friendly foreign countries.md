@@ -14,7 +14,7 @@ As used in this section—
 
 &emsp;&emsp;(B) for concurrent production in the United States and in another member country of a defense article jointly developed in accordance with subparagraph (A); or
 
-&emsp;&emsp;(C) for procurement by the United States of a defense article or defense service from another member country or for procurementby the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization;
+&emsp;&emsp;(C) for procurement by the United States of a defense article or defense service from another member country or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization;
 
 &emsp;(2) the term “cooperative project”, in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
 
@@ -76,7 +76,7 @@ The authority under this section is in addition to the authority under sections 
 
 (1) The President may enter into a cooperative project agreement with any friendly foreign country not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
 
-(2) Not later than January 1 of each year, the President shall submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report specifying (A) the countries eligible for participation in such a cooperative project agreement under this subsection, and (B) the criteria used to determine the eligibility of such countries.
+(2) Not later than January 1 of each year, the President shall submit to the Committees onArmed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report specifying (A) the countries eligible for participation in such a cooperative project agreement under this subsection, and (B) the criteria used to determine the eligibility of such countries.
 
 (Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468.)
 
@@ -108,11 +108,11 @@ Subsec. (j). Pub. L. 99–661, §1103(a)(1)(D), added subsec. (j).
 
 1985—Pub. L. 99–83 amended section generally, substituting in subsec. (a) provisions relating to authority of the President, for provisions defining “cooperative project”, substituting in subsec. (b) provisions defining “cooperative project” and “other participant”, for provisions relating to reduction or waiver of charges, sales not subject to compensatory increases in administrative surcharges, and contribution requirements, substituting in subsec. (c) provisions relating to agreements for equitable share of costs and limiting the nature of such agreements, for provisions relating to transmission of numbered certification of proposed agreement, contents of such certification, and statutory provisions applicable to sales, and adding subsecs. (d) to (i).
 
-Pub. L. 99–145, §1102(a)(1), which enacted a general amendment of this section similar to that provided in Pub. L. 99–83 was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 setout as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, §1102(a)(1), which enacted a general amendment of this section similar to that provided in Pub. L. 99–83 was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
 #### Change of Name
 
-Committees on Armed Services and Foreign Affairs of House of Representatives changed to Committees on National Security and International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

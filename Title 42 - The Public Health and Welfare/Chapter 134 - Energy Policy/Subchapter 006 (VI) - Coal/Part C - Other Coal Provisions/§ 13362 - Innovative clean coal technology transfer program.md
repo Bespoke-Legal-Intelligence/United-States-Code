@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, and in consultation with the other members of the CCT Subgroup, shall establish a clean coal technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate United States agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+The Secretary, through the Agency for International Development, and in consultation with the other members of the CCT Subgroup, shall establish a clean coal technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate United States agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement,each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
 
 #### (b) Purposes of program
 
@@ -72,7 +72,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (f) Assistance to United States firms
 
-Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and inconsultation with the CCT Subgroup, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the CCT Subgroup, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
 
 #### (g) Other program requirements
 
@@ -148,7 +148,7 @@ For purposes of this section, the term “host country” means a foreign countr
 
 #### (m) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out the program required bythis section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
 
 (Pub. L. 102–486, title XIII, §1332, Oct. 24, 1992, 106 Stat. 2979.)
 

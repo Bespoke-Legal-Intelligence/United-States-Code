@@ -24,9 +24,35 @@ Limitation on Estimates for Construction Engineering.—Items included in all su
 
 (d) In such cases as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid system shall be accompanied by a value engineering or other cost reduction analysis.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 88–157, §7(a), Oct. 24, 1963, 77 Stat. 278; Pub. L. 91–605, title I, §§106(e), 142, Dec. 31, 1970, 84 Stat. 1717, 1737; Pub. L. 94–280, title I, §114, May 5, 1976, 90 Stat. 436; Pub. L. 100–17, title I, §133(b)(4), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §§1016(b), 1018(a), Dec. 18, 1991, 105 Stat. 1945, 1948.)
+(e)
+
+Life-Cycle Cost Analysis.—
+
+&emsp;(1)
+
+Establishment.—The Secretary shall establish a program to require States to conduct an analysis of the life-cycle costs of each usable project segment on the National Highway System with a cost of $25,000,000 or more.
+
+&emsp;(2)
+
+Analysis of the life-cycle costs defined.—In this subsection, the term “analysis of the life-cycle costs” means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
+
+(f)
+
+Value Engineering for NHS.—
+
+&emsp;(1)
+
+Requirement.—The Secretary shall establish a program to require States to carry out a value engineering analysis for all projects on the National Highway System with an estimated total cost of $25,000,000 or more.
+
+&emsp;(2)
+
+Value engineering defined.—In this subsection, the term “value engineering analysis” means a systematic process of review and analysis of a project during its design phase by a multidisciplined team of persons not involved in the project in order to provide suggestions for reducing the total cost of the project and providing a project of equal or better quality. Such suggestions may include combining or eliminating otherwise inefficient or expensive parts of the original proposed design for the project and total redesign of the proposed project using different technologies, materials, or methods so as to accomplish the original purpose of the project.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 88–157, §7(a), Oct. 24, 1963, 77 Stat. 278; Pub. L. 91–605, title I, §§106(e), 142, Dec. 31, 1970, 84 Stat. 1717, 1737; Pub. L. 94–280, title I, §114, May 5, 1976, 90 Stat. 436; Pub. L. 100–17, title I, §133(b)(4), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §§1016(b), 1018(a), Dec. 18, 1991, 105 Stat. 1945, 1948; Pub. L. 104–59, title III, §303, Nov. 28, 1995, 109 Stat. 578.)
 
 #### Amendments
+
+1995—Subsecs. (e), (f). Pub. L. 104–59 added subsecs. (e) and (f).
 
 1991—Subsec. (a). Pub. L. 102–240, §1016(b)(1), inserted “this section and” before “section 117”.
 
@@ -46,7 +72,7 @@ Subsec. (d). Pub. L. 91–605, §142, added subsec. (d).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Study of Value Engineering
 
@@ -62,9 +88,9 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 
-Pub. L. 89–574, §5(b), Sept. 13, 1966, 80 Stat. 767, as amended Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized Secretary to modify project agreements entered into prior to Sept. 13, 1966, pursuant to section 106 of this title for purpose of effectuating amendment made by this section (amending section 109(b) of this title to add a requirement of four lanes of traffic) with respect to as much of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] as may be possible.
+Pub. L. 89–574, §5(b), Sept. 13, 1966, 80 Stat. 767, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized Secretary to modify project agreements entered into prior to Sept. 13, 1966, pursuant to section 106 of this title for purpose of effectuating amendment made by this section (amending section 109(b) of this title to add a requirement of four lanes of traffic) with respect to as much of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] as may be possible.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 109, 112, 117, 121, 141, 143, 154 of this title; title 40 App. section 201.
+This section is referred to in sections 109, 112, 117, 121, 143 of this title; title 40 App. section 201.
 

@@ -10,7 +10,7 @@ In accordance with regulations prescribed pursuant to section 353 of this title,
 
 #### (c) Cancellation of contract; contracts for completion of original contract; liability of original contractor for additional cost
 
-In addition, when a violation is found of any contract stipulation, the contract is subject upon written notice to cancellation by the contracting agency. Whereupon, the United Statesmay enter into other contracts or arrangements for the completion of the original contract, charging any additional cost to the original contractor.
+In addition, when a violation is found of any contract stipulation, the contract is subject upon written notice to cancellation by the contracting agency. Whereupon, the United States may enter into other contracts or arrangements for the completion of the original contract, charging any additional cost to the original contractor.
 
 (Pub. L. 89–286, §3, Oct. 22, 1965, 79 Stat. 1035.)
 

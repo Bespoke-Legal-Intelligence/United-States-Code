@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) any other right or remedy against the Corporation, against the United States under applicable law, or against any person other than a person described in paragraph (1) participating in such transactions.
 
-> &emsp;This subsection shall not be construed to limit or alter in any way the immunities that are available under applicable law for Federal officials and employees not described in this subsection.
+> &emsp;This subsection shall not be construed to limit or alter in any way the immunities that areavailable under applicable law for Federal officials and employees not described in this subsection.
 
 (Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Sept. 8, 1959, Pub. L. 86–230, §19, 73 Stat. 460; Nov. 30, 1983, Pub. L. 98–181, title VII, §702(a), 97 Stat. 1267; Aug. 9, 1989, Pub. L. 101–73, title II, §203(a), 103 Stat. 188; Mar. 23, 1991, Pub. L. 102–18, title I, §103(b), 105 Stat. 60.)
 

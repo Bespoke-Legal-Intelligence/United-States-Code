@@ -1,0 +1,22 @@
+### §1731. Handwriting
+
+The admitted or proved handwriting of any person shall be admissible, for purposes of comparison, to determine genuineness of other handwriting attributed to such person.
+
+(June 25, 1948, ch. 646, 62 Stat. 945.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §638 (Feb. 26, 1913, ch. 79, 37 Stat. 683).
+
+Words “as a basis for comparison by witnesses, or by the jury, court, or officer conducting such proceeding”, were omitted as superfluous.
+
+Changes were made in phraseology.
+
+#### Federal Rules of Civil Procedure
+
+Evidence, civil actions, see rule 43, Appendix to this title.
+
+#### Federal Rules of Criminal Procedure
+
+Criminal proceedings, see rule 26, Title 18, Appendix, Crimes and Criminal Procedure.
+

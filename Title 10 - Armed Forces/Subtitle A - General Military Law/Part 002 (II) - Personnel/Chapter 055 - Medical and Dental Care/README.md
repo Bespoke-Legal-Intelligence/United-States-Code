@@ -12,10 +12,10 @@
 | [1074d.](%C2%A7%2001074d%20-%20Primary%20and%20preventive%20health%20care%20services%20for%20women.md) | Primary and preventive health care services for women. |
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
-| 1076a. | Dependents’ dental program. |
-| 1077\. | Medical care for dependents: authorized care in facilities of uniformed services. |
-| 1078\. | Medical and dental care for dependents: charges. |
-| 1078a. | Continued health benefits coverage. |
+| [1076a.](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md) | Dependents’ dental program. |
+| [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
+| [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
+| [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
 | [1079\.](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md) | Contracts for medical care for spouses and children: plans. |
 | [1080\.](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md) | Contracts for medical care for spouses and children: election of facilities. |
 | [1081\.](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md) | Contracts for medical care for spouses and children: review and adjustment of payments. |
@@ -65,7 +65,7 @@
 
 Pub. L. 100–26, §7(e)(2), Apr. 21, 1987, 101 Stat. 281, redesignated item 1095 “Medical care: members held as captives and their dependents” as item 1095a.
 
-1986—Pub. L. 99–661, div. A, title VI, §604(a)(2), title VII, §§701(a)(2), 705(a)(2), Nov. 14, 1986, 100 Stat. 3875,3897, 3904 substituted “active duty for a period of more than 30 days” for “active duty; injuries, diseases, and illnesses incident to duty” in item 1074a and added items 1096 to 1102.
+1986—Pub. L. 99–661, div. A, title VI, §604(a)(2), title VII, §§701(a)(2), 705(a)(2), Nov. 14, 1986, 100 Stat. 3875, 3897, 3904 substituted “active duty for a period of more than 30 days” for “active duty; injuries, diseases, and illnesses incident to duty” in item 1074a and added items 1096 to 1102.
 
 Pub. L. 99–399, title VIII, §801(c)(2), Aug. 27, 1986, 100 Stat. 886, added item 1095 “Medical care: members held as captives and their dependents”.
 

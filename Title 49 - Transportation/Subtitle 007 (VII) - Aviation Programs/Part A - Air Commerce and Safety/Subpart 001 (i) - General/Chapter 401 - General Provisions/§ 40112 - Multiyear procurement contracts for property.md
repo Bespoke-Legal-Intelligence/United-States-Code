@@ -20,7 +20,7 @@ Required Findings.—The Administrator may make a contract under this section if
 
 (c)
 
-Regulations.—The Administrator shall prescribe regulations for acquiring property under this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellationprovision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may include consideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
+Regulations.—The Administrator shall prescribe regulations for acquiring property under this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellation provision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may include consideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
 
 &emsp;(1) to broaden the aviation industrial base—
 
@@ -130,5 +130,5 @@ In subsection (f), the words “canceled or” and “cancellation or” are omi
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

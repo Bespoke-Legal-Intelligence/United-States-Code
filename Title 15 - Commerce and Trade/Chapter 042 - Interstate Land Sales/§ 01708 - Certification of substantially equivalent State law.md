@@ -32,17 +32,17 @@ The Secretary shall periodically review the laws and regulations, and the admini
 
 Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Secretary shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
 
-(Pub. L. 90 448, title XIV, §1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96 153, title IV, §404, Dec. 21, 1979, 93 Stat. 1129.)
+(Pub. L. 90–448, title XIV, §1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96–153, title IV, §404, Dec. 21, 1979, 93 Stat. 1129.)
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96 153 substituted provisions setting forth criteria for determinations respecting certifications of substantially equivalent State law for purposes of disclosure requirements of this chapter, for provisions relating to cooperation with State authorities in administering this chapter.
+1979—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria for determinations respecting certifications of substantially equivalent State law for purposes of disclosure requirements of this chapter,for provisions relating to cooperation with State authorities in administering this chapter.
 
-Subsec. (b). Pub. L. 96 153 substituted provisions relating to filing requirements for State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements, for provisions relating to the jurisdiction of the particular State real estate commission or similar body.
+Subsec. (b). Pub. L. 96–153 substituted provisions relating to filing requirements for State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements, for provisions relating to the jurisdiction of the particular State real estate commission or similar body.
 
-Subsecs. (c) to (e). Pub. L. 96 153 added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96 153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 

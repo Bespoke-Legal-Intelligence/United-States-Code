@@ -76,7 +76,7 @@
 
 #### (1) In general
 
-&emsp;In order to determine whether Head Start agencies meet standards established underthis subchapter with respect to program, administrative, financial management, and other requirements, the Secretary shall conduct the following reviews of designated Head Start agencies, and of the Head Start programs operated by such agencies:
+&emsp;In order to determine whether Head Start agencies meet standards established under this subchapter with respect to program, administrative, financial management, and other requirements, the Secretary shall conduct the following reviews of designated Head Start agencies, and of the Head Start programs operated by such agencies:
 
 &emsp;&emsp;(A) A full review of each such agency at least once during each 3-year period.
 

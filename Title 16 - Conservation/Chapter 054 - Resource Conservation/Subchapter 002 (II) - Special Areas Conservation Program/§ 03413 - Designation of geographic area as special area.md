@@ -12,5 +12,5 @@ In designating a geographic area as a special area under this subchapter, the Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3412, 3414, 3415 of this title.
+This section is referred to in sections 3412, 3414 of this title.
 

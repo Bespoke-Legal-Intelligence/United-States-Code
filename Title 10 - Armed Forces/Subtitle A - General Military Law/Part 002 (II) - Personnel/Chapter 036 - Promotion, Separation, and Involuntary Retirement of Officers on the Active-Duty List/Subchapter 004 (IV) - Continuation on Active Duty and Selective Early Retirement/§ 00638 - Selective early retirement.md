@@ -1,4 +1,4 @@
-### §638 . Selective early retirement
+### §638. Selective early retirement
 
 (a)(1) A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
 

@@ -24,7 +24,7 @@ A State plan for aid and services to needy families with children must—
 
 &emsp;&emsp;(C) may, in the case of a family claiming or receiving aid under this part for any month, take into consideration as income (to the extent the State determines appropriate, as specified in such plan, and notwithstanding any other provision of law)—
 
-&emsp;&emsp;&emsp;(i) an amount not to exceed the value of the family's monthly allotment of foodstamp coupons, to the extent such value duplicates the amount for food included in the maximum amount that would be payable under the State plan to a family of the same composition with no other income; and
+&emsp;&emsp;&emsp;(i) an amount not to exceed the value of the family's monthly allotment of food stamp coupons, to the extent such value duplicates the amount for food included in the maximum amount that would be payable under the State plan to a family of the same composition with no other income; and
 
 &emsp;&emsp;&emsp;(ii) an amount not to exceed the value of any rent or housing subsidy provided to such family, to the extent such value duplicates the amount for housing included in the maximum amount that would be payable under the State plan to a family of the same composition with no other income;
 
@@ -60,7 +60,7 @@ A State plan for aid and services to needy families with children must—
 
 &emsp;&emsp;&emsp;(a) under subclause (II) of subparagraph (A)(iv), in a case where such subclause has already been applied to the income of the persons involved for four consecutive months while they were receiving aid under the plan, or
 
-&emsp;&emsp;&emsp;(b) under subclause (I) of subparagraph (A)(iv), in a case where such subclause has already been applied to the income of the persons involved for twelve consecutivemonths while they were receiving aid under the plan,
+&emsp;&emsp;&emsp;(b) under subclause (I) of subparagraph (A)(iv), in a case where such subclause has already been applied to the income of the persons involved for twelve consecutive months while they were receiving aid under the plan,
 
 > &emsp;&emsp;any earned income of any of the persons specified in subparagraph (A)(ii), if, with respect to such month, the income of the persons so specified was in excess of their need, as determined by the State agency pursuant to paragraph (7) (without regard to subparagraph (A)(iv) of this paragraph), unless the persons received aid under the plan in one or more of the four months preceding such month; and
 
@@ -80,7 +80,7 @@ A State plan for aid and services to needy families with children must—
 
 &emsp;(13) provide, at the option of the State and with respect to such category or categories as the State may select and identify in the State plan, that—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), the State agency (i) will determine a family's eligibility for aid for a month on the basis of the family's income, composition, resources, and other similar relevant circumstances during such month, and (ii) will determine the amount of such aid on the basis of the income and other relevant circumstances in the first or, at the option of the State (but only where the Secretary determines it to be appropriate), second month preceding such month; and
+&emsp;&emsp;(A) except as provided in subparagraph (B), the State agency (i) will determine a family's eligibility for aid for a month on the basis of the family's income, composition, resources, and other similar relevant circumstances during such month, and (ii) will determine the amount of such aid on the basis of the income and other relevant circumstances in the first or, at the option ofthe State (but only where the Secretary determines it to be appropriate), second month preceding such month; and
 
 &emsp;&emsp;(B) in the case of the first month, or at the option of the State (but only where the Secretary determines it to be appropriate), the first and second months, in a period of consecutive months for which aid is payable, the State agency will determine the amount of aid on the basis of the family's income and other relevant circumstances in such first or second month;
 
@@ -210,11 +210,11 @@ A State plan for aid and services to needy families with children must—
 
 &emsp;&emsp;(A) that, for purposes of this part, participation in a strike shall not constitute good cause to leave, or to refuse to seek or accept employment; and
 
-&emsp;&emsp;(B)(i) that aid to families with dependent children is not payable to a family for any month in which any caretaker relative with whom the child is living is, on the last day of such month, participating in a strike, and (ii) that no individual's needs shall be included in determining the amount of aid payable for any month to a family under the plan if, on the last day of such month, such individual is participating in a strike;
+&emsp;&emsp;(B)(i) that aid to families with dependent children is not payable to a family for any month in which any caretaker relative withwhom the child is living is, on the last day of such month, participating in a strike, and (ii) that no individual's needs shall be included in determining the amount of aid payable for any month to a family under the plan if, on the last day of such month, such individual is participating in a strike;
 
 &emsp;(22) provide that the State agency will promptly take all necessary steps to correct any overpayment or underpayment of aid under the State plan, and, in the case of—
 
-&emsp;&emsp;(A) an overpayment to an individual who is a current recipient of such aid (includinga current recipient whose overpayment occurred during a prior period of eligibility), recovery will be made by repayment by the individual or by reducing the amount of any future aid payable to the family of which he is a member, except that such recovery shall not result in the reduction of aid payable for any month, such that the aid, when added to such family's liquid resources and to its income (without application of paragraph (8)), is less than 90 percent of the amount payable under the State plan to a family of the same composition with no other income (and, in the case of an individual to whom no payment is made for a month solely by reason of recovery of an overpayment, such individual shall be deemed to be a recipient of aid for such month);
+&emsp;&emsp;(A) an overpayment to an individual who is a current recipient of such aid (including a current recipient whose overpayment occurred during a prior period of eligibility), recovery will be made by repayment by the individual or by reducing the amount of any future aid payable to the family of which he is a member, except that such recovery shall not result in the reduction of aid payable for any month, such that the aid, when added to such family's liquid resources and to its income (without application of paragraph (8)), is less than 90 percent of the amount payable under the State plan to a family of the same composition with no other income (and, in the case of an individual to whom no payment is made for a month solely by reason of recovery of an overpayment, such individual shall be deemed to be a recipient of aid for such month);
 
 &emsp;&emsp;(B) an overpayment to any individual who is no longer receiving aid under the plan, recovery shall be made by appropriate action under State law against the income or resources of the individual or the family; and
 
@@ -238,7 +238,7 @@ A State plan for aid and services to needy families with children must—
 
 &emsp;(27) provide that the State has in effect a plan approved under part D of this subchapter and operates a child support program in substantial compliance with such plan;
 
-&emsp;(28) provide that, in determining the amount of aid to which an eligible family is entitled, any portion of the amounts collected in any particular month as child support pursuant to a plan approved under part D of this subchapter, and retained by the State under section 657 of this title, which (under the State plan approved under this part as in effect both during July 1975 and during that particular month) would not have caused a reduction in the amount of aid paid to the family if such amounts had been paid directly to the family, shall be added to the amount of aid otherwise payable to such family under the State plan approved under this part;
+&emsp;(28) provide that, in determining the amount of aid to which an eligible family is entitled, any portion of the amounts collected in anyparticular month as child support pursuant to a plan approved under part D of this subchapter, and retained by the State under section 657 of this title, which (under the State plan approved under this part as in effect both during July 1975 and during that particular month) would not have caused a reduction in the amount of aid paid to the family if such amounts had been paid directly to the family, shall be added to the amount of aid otherwise payable to such family under the State plan approved under this part;
 
 &emsp;(29) Repealed. Pub. L. 98–369, div. B, title VI, §2651(b)(2), July 18, 1984, 98 Stat. 1149
 
@@ -262,7 +262,7 @@ A State plan for aid and services to needy families with children must—
 
 &emsp;&emsp;(A) any parent of such child, and
 
-&emsp;&emsp;(B) any brother or sister of such child, if such brother or sister meets the conditionsdescribed in clauses (1) and (2) of section 606(a) of this title or in section 607(a) of this title,
+&emsp;&emsp;(B) any brother or sister of such child, if such brother or sister meets the conditions described in clauses (1) and (2) of section 606(a) of this title or in section 607(a) of this title,
 
 > &emsp;if such parent, brother, or sister is living in the same home as the dependent child, and any income of or available for such parent, brother, or sister shall be included in making such determination and applying such paragraph with respect to the family (notwithstanding section 405(j) of this title, in the case of benefits provided under subchapter II of this chapter);
 
@@ -306,11 +306,11 @@ A State plan for aid and services to needy families with children must—
 
 #### (b) Approval by Secretary
 
-The Secretary shall approve any plan which fulfills the conditions specified in subsection (a) of this section, except that he shall not approve any plan which imposes as a condition of eligibility for aid to families with dependent children, a residence requirement which denies aid with respect to any child residing in the State (1) who has resided in the State for one year immediately preceding the application for such aid, or (2) who was born within one year immediately preceding the application, if the parent or other relative with whom the child is living has resided in the State for one year immediately preceding the birth.
+The Secretary shall approve any plan which fulfills the conditions specified in subsection (a)of this section, except that he shall not approve any plan which imposes as a condition of eligibility for aid to families with dependent children, a residence requirement which denies aid with respect to any child residing in the State (1) who has resided in the State for one year immediately preceding the application for such aid, or (2) who was born within one year immediately preceding the application, if the parent or other relative with whom the child is living has resided in the State for one year immediately preceding the birth.
 
 #### (c) Compilation of data; publishing of findings; reports to Congress
 
-The Secretary shall, on the basis of his review of the reports received from the States underparagraph (15) of subsection (a) of this section, compile such data as he believes necessary and from time to time publish his findings as to the effectiveness of the programs developed and administered by the States under such paragraph. The Secretary shall annually report to the Congress (with the first such report being made on or before July 1, 1970) on the programs developed and administered by each State under such paragraph (15).
+The Secretary shall, on the basis of his review of the reports received from the States under paragraph (15) of subsection (a) of this section, compile such data as he believes necessary and from time to time publish his findings as to the effectiveness of the programs developed and administered by the States under such paragraph. The Secretary shall annually report to the Congress (with the first such report being made on or before July 1, 1970) on the programs developed and administered by each State under such paragraph (15).
 
 #### (d) Repealed. Pub. L. 100–485, title IV, §402(c)(2)(A), Oct. 13, 1988, 102 Stat. 2397
 
@@ -404,7 +404,7 @@ The Secretary shall, on the basis of his review of the reports received from the
 
 (ii) In the case of amounts expended for child care pursuant to paragraph (1)(A)(ii) (relating to the provision of child care for certain families which cease to receive aid under this part) by any State to which section 1308 of this title applies, the applicable rate for purposes of section 603(a) of this title shall be the Federal medical assistance percentage (as defined in section 1318 of this title).
 
-(B) In the case of any amounts expended by the State agency for child care under this subsection, only such amounts as are within such limits as the State may prescribe (subject to the limitations of paragraph (1)(C)) shall be treated as amounts for which payment may be made to a State under this part and they may be so treated only to the extent that—
+(B) In the case of any amounts expended by the State agency for child care under this subsection, only such amounts as are within such limits as the State may prescribe (subject to the limitations of paragraph (1)(C)) shall be treatedas amounts for which payment may be made to a State under this part and they may be so treated only to the extent that—
 
 &emsp;(i) such amounts do not exceed the applicable local market rate (as determined by the State in accordance with regulations issued by the Secretary);
 
@@ -520,7 +520,7 @@ The Secretary shall, on the basis of his review of the reports received from the
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (a)(8)(A)(v), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(8)(A)(v), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat.1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 Parts B, D, E, and F of this subchapter, referred to in subsecs. (a)(9), (11), (19)(A), (B)(i), (20), (27), (28), (44)(A) and (g)(1)(A)(i)(II), (2), are classified to sections 620 et seq., 651 et seq., 670 et seq., and 681 et seq., respectively, of this title.
 
@@ -596,7 +596,7 @@ Subsec. (g)(1)(A). Pub. L. 101–239, §10403(a)(1)(C), substituted “received 
 
 Subsec. (a)(8)(A)(iii). Pub. L. 100–485, §402(a), inserted “after applying the other clauses of this subparagraph,” before “shall disregard”, substituted “$175” for “$160”, and inserted “, or, in the case such child is under age 2, $200” before semicolon at end.
 
-Subsec. (a)(8)(A)(iv). Pub. L. 100–485, §202(b)(1), struck out “(but excluding, for purposes of this subparagraph,earned income derived from participation on a project maintained under the programs established by section 632(b)(2) and (3) of this title)” after “the remainder thereof”.
+Subsec. (a)(8)(A)(iv). Pub. L. 100–485, §202(b)(1), struck out “(but excluding, for purposes of this subparagraph, earned income derived from participation on a project maintained under the programs established by section 632(b)(2) and (3) of this title)” after “the remainder thereof”.
 
 Subsec. (a)(8)(A)(vi). Pub. L. 100–485, §102(a), substituted “of any child support payments for such month received in that month, and the first $50 of child support payments for each prior month received in that month if such payments were made by the absent parent in the month when due,” for “of any child support payments received in such month”.
 
@@ -674,7 +674,7 @@ Pub. L. 99–603, §302(b)(1)(A), inserted reference to subsection (f) of sectio
 
 Subsec. (f)(2). Pub. L. 99–603, §303(e)(1)(B), (C), inserted reference to aliens disqualified from receiving aid under subsection (d)(7) of section 1161 of title 8 and reference to adjustment of status under section 1161 of title 8.
 
-Pub. L. 99–603, §302(b)(1)(B), (C), inserted reference to aliens disqualified from receiving aid under subsection\(f) of section 1160 of title 8 and reference to adjustment of status under section 1160 of title 8.
+Pub. L. 99–603, §302(b)(1)(B), (C), inserted reference to aliens disqualified from receiving aid under subsection (f) of section 1160 of title 8 and reference to adjustment of status under section 1160 of title 8.
 
 1984—Subsec. (a). Pub. L. 98–369, §2663(c)(1)(E)(i), (ii), substituted “must—” for “must” preceding par. (1) and restructured and realigned the margins of all subdivisions of subsec. (a).
 
@@ -742,7 +742,7 @@ Subsec. (a)(19)(G)(iv). Pub. L. 98–369, §2663(c)(1)(D), struck out the comma 
 
 Subsec. (a)(22). Pub. L. 98–369, §2633, inserted “(including a current recipient whose overpayment occurred during a prior period of eligibility)” after “current recipient of such aid” in subpar. (A) and “except that no recovery need be attempted or carried out under subparagraph (B) in any case, other than a case involving fraud on the part of the recipient, where (as determined by the State agency in accordance with criteria for determining cost-effectiveness, and with dollar limitations, which shall be prescribed by the Secretary in regulations) the cost of recovery would equal or exceed the amount of the overpayment involved;” after subpar. (C).
 
-Subsec. (a)(25). Pub. L. 98–369, §2651(b)(1), in amending par. (25) generally, substituted “provide that information is requested and exchanged for purposes of income an eligibility verification in accordance with a State system which meets the requirements of section 1320b–7 of this title” for “provide (A) that, as a condition of eligibility under the plan, each applicant for or recipientof aid shall furnish to the State agency his social security account number (or numbers, if he has more than one such number), and (B) that such State agency shall utilize such account numbers, in addition to any other means of identification it may determine to employ in the administration of such plan”.
+Subsec. (a)(25). Pub. L. 98–369, §2651(b)(1), in amending par. (25) generally, substituted “provide that information is requested and exchanged for purposes of income an eligibility verification in accordance with a State system which meets the requirements of section 1320b–7 of this title” for “provide (A) that, as a condition of eligibility under the plan, each applicant for or recipient of aid shall furnish to the State agency his social security account number (or numbers, if he has more than one such number), and (B) that such State agency shall utilize such account numbers, in addition to any other means of identification it may determine to employ in the administration of such plan”.
 
 Subsec. (a)(26)(B). Pub. L. 98–369, §2663(c)(3)(B)(ii), substituted “clauses (A) through (D)” for “subparagraphs (A) through (E)”.
 
@@ -794,9 +794,9 @@ Pub. L. 97–35, §2353(b)(1), struck out par. (13) as in effect to Puerto Rico,
 
 Subsec. (a)(14). Pub. L. 97–35, §2315(a), added par. (14).
 
-Pub. L. 97–35, §2353(b)(1), struck out par. (14) as in effect in Puerto Rico, Guam, and the Virgin Islands, which required the State plan to provide for the development and application of a program of such family services and child-welfare services for each child and relative who receives aid to families with dependent children and each appropriate individual living in the same home as a relative or child receiving such aid whose needs are taken into account in making the determination under cl. (7), as may be necessary in light of the particular home conditions and other needs of such child, relative, and individual in order to assist such child, relative, and individual to attain or retain capability for self-support and care to maintain and strengthen family life and to foster child development.
+Pub. L. 97–35, §2353(b)(1), struck out par. (14) as in effect in Puerto Rico, Guam, and the Virgin Islands,which required the State plan to provide for the development and application of a program of such family services and child-welfare services for each child and relative who receives aid to families with dependent children and each appropriate individual living in the same home as a relative or child receiving such aid whose needs are taken into account in making the determination under cl. (7), as may be necessary in light of the particular home conditions and other needs of such child, relative, and individual in order to assist such child, relative, and individual to attain or retain capability for self-support and care to maintain and strengthen family life and to foster child development.
 
-Subsec. (a)(15). Pub. L. 97–35, §2353(c), struck out “as part of the program of the State for the provision of services under subchapter XX of this chapter” after“(15) provide” and “or clause (14)” after “provided under this clause”.
+Subsec. (a)(15). Pub. L. 97–35, §2353(c), struck out “as part of the program of the State for the provision of services under subchapter XX of this chapter” after “(15) provide” and “or clause (14)” after “provided under this clause”.
 
 Pub. L. 97–35, §2353(b)(1), struck out par. (15) as in effect in Puerto Rico, Guam, and the Virgin Islands, which required the State plan to provide for the development of a program for preventing births out of wedlock and otherwise strengthening family life, to implement such program by assuring that in all appropriate cases family planning services are offered and provided promptly to all individuals voluntarily requesting such services, with acceptance of such services not a prerequisite to eligibility for or receipt of any other services under the plan, and to the extent that services provided under this clause and cl. (14) are furnished by the staff of the State agency or local agency administering the State plan, to establish a single organizational unit in each State or local agency responsible for furnishing such services.
 
@@ -856,7 +856,7 @@ Subsec. (a)(15). Pub. L. 93–647, §3(a)(8), except with respect to Puerto Rico
 
 Subsec. (a)(17), (18). Pub. L. 93–647, §101(c)(8), repealed pars. (17) and (18) which provided for the development and implementation of a state agency program for support and establishment of paternity of children born out of wedlock or abandoned by their parents, a single organizational unit in the local agency to be responsible for administration of such program, and cooperative arrangements with courts and law enforcement officials to assist in the administration of the program.
 
-Subsec. (a)(21), (22). Pub. L. 93–647, §101(c)(8), repealed pars. (21) and (22) which provided for report by State agency to Secretary of names and social security numbers of unlocated parents with dependent children against whom an order of support has been issued, andfor cooperation with State agency in administration of the plan of another State in locating and securing compliance with parents in another State with such support order.
+Subsec. (a)(21), (22). Pub. L. 93–647, §101(c)(8), repealed pars. (21) and (22) which provided for report by State agency to Secretary of names and social security numbers of unlocated parents with dependent children against whom an order of support has been issued, and for cooperation with State agency in administration of the plan of another State in locating and securing compliance with parents in another State with such support order.
 
 Subsec. (a)(24). Pub. L. 93–647, §101(c)(5)(B), inserted “provide that” after “(24)”.
 
@@ -898,7 +898,7 @@ Subsec. (a)(9) to (12). Pub. L. 90–248, §202(a), redesignated former pars. (8
 
 Subsec. (a)(13). Pub. L. 90–248, §§201(a)(2), 202(a), redesignated former par. (12) as (13), and struck out “(if any)” after “description of the services”. Former par. (13) redesignated (14).
 
-Subsec. (a)(14). Pub. L. 90–248, §§201(a)(1), 202(a), redesignated former par. (13) as (14), substituted “family services, as defined in section 606(d) of this title, and child-welfare services, as defined in section 625 of this title,” for “welfare and related services” and “other needs of such child, relative, and individual to attain or retain capability for self-support and care and in order to maintain and strengthen family life and to foster child development” for “other needs of such child, and provided for coordination of such programs, and any other services provided for children under the State plan, with the child-welfare services plan developed as provided in sections 721–728 of this title, with a view toward providing welfare and related services which will best promote the welfare of such child and his family”, and extended the program to each relative and each appropriate individual (living in the same home as a relative and child receiving such aid whose needs are taken into account in making the determination under cl. (7)).
+Subsec. (a)(14). Pub. L. 90–248, §§201(a)(1), 202(a), redesignated former par. (13) as (14), substituted “family services, as defined in section 606(d) of this title, and child-welfare services, as defined in section 625 of this title,” for “welfare and related services” and “other needs of such child, relative, and individual to attain or retain capability for self-support and care and in orderto maintain and strengthen family life and to foster child development” for “other needs of such child, and provided for coordination of such programs, and any other services provided for children under the State plan, with the child-welfare services plan developed as provided in sections 721–728 of this title, with a view toward providing welfare and related services which will best promote the welfare of such child and his family”, and extended the program to each relative and each appropriate individual (living in the same home as a relative and child receiving such aid whose needs are taken into account in making the determination under cl. (7)).
 
 Subsec. (a)(15) to (23). Pub. L. 90–248, §§201(a)(1)(C), 204(b), 205(a), 211(a), 213(b), added pars. (15) to (18), (19), (20), (21) and (22), and (23), respectively.
 
@@ -960,7 +960,7 @@ Amendment by sections 201(a) and 202(b)(1)–(3) of Pub. L. 100–485 effective 
 
 Section 303(f) of Pub. L. 100–485, as amended by Pub. L. 101–239, title VI, §6411(i)(2), Dec. 19, 1989, 103 Stat. 2273, provided that:
 
-“(1) The amendments made by this section \[enacting section 1396r–6 of this title, amending sections 1396a and 1396d of this title\] (other than subsections (b)(3), (d), and (e) \[amending this section and section 1396a of this title and provisions set out as a note under section 606 of this title\]) shall apply to payments under title XIX of the Social Security Act \[section 1396 et seq. of this title\] for calendar quarters beginning on or after April 1, 1990 (or, in the case of the Commonwealth of Kentucky, October 1, 1990) (without regard to whether regulations to implement such amendments are promulgated by such date), with respect to families that cease to be eligible for aid under part A of title IV of the Social Security Act \[this part\] on or after such date.
+“(1) The amendments made by this section \[enacting section 1396r–6 of this title, amending sections 1396aand 1396d of this title\] (other than subsections (b)(3), (d), and (e) \[amending this section and section 1396a of this title and provisions set out as a note under section 606 of this title\]) shall apply to payments under title XIX of the Social Security Act \[section 1396 et seq. of this title\] for calendar quarters beginning on or after April 1, 1990 (or, in the case of the Commonwealth of Kentucky, October 1, 1990) (without regard to whether regulations to implement such amendments are promulgated by such date), with respect to families that cease to be eligible for aid under part A of title IV of the Social Security Act \[this part\] on or after such date.
 
 “(2)(A) The amendment made by subsection (b)(3) \[amending this section\] shall become effective on April 1, 1990, but such amendment shall not apply with respect to families that cease to be eligible for aid under part A of title IV of the Social Security Act before such date.
 
@@ -1036,9 +1036,9 @@ Section 2624(b) of Pub. L. 98–369 provided that:
 
 “(1) The amendments made by this section \[amending this section\] shall apply with respect to months beginning on or after October 1, 1984.
 
-“(2) Such amendments shall apply with respect to families which ceased to receive aid under the applicable State plan (for the reason stated in section 402(a)(37) of the Social Security Act \[subsec. (a)(37) of this section\] as added by subsection (a) of this section) before October 1, 1984, as well as with respect to families which cease to receive aid (for that reason) on or after that date; but any family which ceased to receive such aid before that date, in order to be eligible to be treated as receiving aid under the plan for any period after ceasing to receive such aid (as provided for in such section 402(a)(37))—
+“(2) Such amendments shall apply with respect to families which ceased to receive aid under the applicable State plan (for the reason stated in section 402(a)(37) of the Social Security Act \[subsec. (a)(37) of this section\] as added by subsection (a) of this section)before October 1, 1984, as well as with respect to families which cease to receive aid (for that reason) on or after that date; but any family which ceased to receive such aid before that date, in order to be eligible to be treated as receiving aid under the plan for any period after ceasing to receive such aid (as provided for in such section 402(a)(37))—
 
-&emsp;“(A) must make its application for such treatment no later than the end of the sixth month after the month in which final regulations governing the application of such section 402(a)(37) are promulgated by the Secretary of Health and Human Services (and inthe case of any such family the term ‘last month for which the family actually received such aid’ as used in such section 402(a)(37) means the month before the month in which the family makes such application);
+&emsp;“(A) must make its application for such treatment no later than the end of the sixth month after the month in which final regulations governing the application of such section 402(a)(37) are promulgated by the Secretary of Health and Human Services (and in the case of any such family the term ‘last month for which the family actually received such aid’ as used in such section 402(a)(37) means the month before the month in which the family makes such application);
 
 &emsp;“(B) must be a family that would have been continuously eligible for aid under the State plan (without regard to the amendments made by this section), from the time it ceased to receive such aid to the time of its application under subparagraph (A), if section 402(a)(8)(A)(iv) of such Act applied; and
 
@@ -1096,7 +1096,7 @@ Section 401(i) of Pub. L. 96–265 provided that: “The amendments made by this
 
 Section 403(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 1397b of this title\] shall take effect on September 1, 1980.”
 
-Amendment by section 406(b) of Pub. L. 96–265 effective with respect to expenditures made during calendarquarters beginning on or after July 1, 1981, see section 406(d) of Pub. L. 96–265, set out as an Effective Date note under section 613 of this title.
+Amendment by section 406(b) of Pub. L. 96–265 effective with respect to expenditures made during calendar quarters beginning on or after July 1, 1981, see section 406(d) of Pub. L. 96–265, set out as an Effective Date note under section 613 of this title.
 
 Section 101(b)(1)(B) of Pub. L. 96–222 provided that: “The amendments made by subparagraphs (A) and (B) of subsection (a)(2) \[amending this section and section 1382a of this title\] shall apply to payments for months beginning after December 31, 1979.”
 
@@ -1170,11 +1170,11 @@ Section 233 of Pub. L. 103–432 provided that:
 
 “(a)
 
-In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall provide for a demonstration project for a qualified program to be conducted in Milwaukee, Wisconsin, in accordance with this section.
+In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall provide for a demonstration project for aqualified program to be conducted in Milwaukee, Wisconsin, in accordance with this section.
 
 “(b)
 
-Payments.—For each calendar quarter in which there is a qualified program approved under this subsection, the Secretary shall pay to the operator of the qualified program, for no more than 20 calendar quarters, an amount equal to the aggregate amount that would otherwise have been payable to the State with respect to participants in the program for such calendar quarter, in the absence of the program, for cash assistance and child care under part A of title IV of theSocial Security Act \[this part\], for medical assistance under title XIX of such Act \[subchapter XIX of this chapter\], and for administrative expenses related to such assistance. The amount payable to the operator of the program under this section shall not include the costs of evaluating the effects of the program.
+Payments.—For each calendar quarter in which there is a qualified program approved under this subsection, the Secretary shall pay to the operator of the qualified program, for no more than 20 calendar quarters, an amount equal to the aggregate amount that would otherwise have been payable to the State with respect to participants in the program for such calendar quarter, in the absence of the program, for cash assistance and child care under part A of title IV of the Social Security Act \[this part\], for medical assistance under title XIX of such Act \[subchapter XIX of this chapter\], and for administrative expenses related to such assistance. The amount payable to the operator of the program under this section shall not include the costs of evaluating the effects of the program.
 
 “(c)
 
@@ -1290,7 +1290,7 @@ Eligibility extended for project participants with increased employment income.�
 
 &emsp;&emsp;“(B)
 
-Eligibility extended for persons leaving project because of increased receipt of childsupport.—Each family whose participation in the project is terminated by reason of the collection or increased collection of child support under part D of title IV of the Social Security Act \[part D of this subchapter\] will be treated as a recipient of aid to families with dependent children for purposes of title XIX of such Act \[subchapter XIX of this chapter\] for an additional 4 calendar months beginning with the month in which the termination occurs.
+Eligibility extended for persons leaving project because of increased receipt of child support.—Each family whose participation in the project is terminated by reason of the collection or increased collection of child support under part D of title IV of the Social Security Act \[part D of this subchapter\] will be treated as a recipient of aid to families with dependent children for purposes of title XIX of such Act \[subchapter XIX of this chapter\] for an additional 4 calendar months beginning with the month in which the termination occurs.
 
 &emsp;“(8)
 
@@ -1380,7 +1380,7 @@ AFDC waivers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the Secretary of Health and Human Services shall, with respect to the demonstration project under this section, waive any requirement of part A or F of title IV of the Social Security Act \[this part or part F of this subchapter\] that, if applied, would prevent the State from (i) carrying out the project in accordance with subsection (b), or (ii) effectively achieving its purposes, but only to the extent necessary to enable the State to carry out the project.
+In general.—Except as provided in subparagraph (B), the Secretary of Health and Human Services shall, with respect to the demonstration project under this section, waive any requirement of part A or F of title IV of the Social Security Act\[this part or part F of this subchapter\] that, if applied, would prevent the State from (i) carrying out the project in accordance with subsection (b), or (ii) effectively achieving its purposes, but only to the extent necessary to enable the State to carry out the project.
 
 &emsp;&emsp;“(B)
 
@@ -1388,7 +1388,7 @@ Limitations.—The Secretary of Health and Human Services may not, with respect 
 
 &emsp;&emsp;&emsp;“(i) waive any requirement of section 402(a)(4) \[subsec. (a)(4) of this section\] or 482(h) of the Social Security Act \[section 682(h) of this title\];
 
-&emsp;&emsp;&emsp;“(ii) except when a sanction is implemented under the 1989 Minnesota Laws, subdivision 3 ofsection 10 of article 5 of chapter 282, permit the State to provide assistance to any family under the project in an amount less than the aggregate value of the assistance that would have been provided to such family under the State plan approved under section 402(a) of such Act and under the food stamp program established under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\] in the absence of the project; or
+&emsp;&emsp;&emsp;“(ii) except when a sanction is implemented under the 1989 Minnesota Laws, subdivision 3 of section 10 of article 5 of chapter 282, permit the State to provide assistance to any family under the project in an amount less than the aggregate value of the assistance that would have been provided to such family under the State plan approved under section 402(a) of such Act and under the food stamp program established under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\] in the absence of the project; or
 
 &emsp;&emsp;&emsp;“(iii) waive any requirement of subparagraph (C), (D), or (E) of section 402(a)(19) of such Act (except that the exemption for a parent with a child under 1 year of age need not be specified in the State plan).
 
@@ -1462,7 +1462,7 @@ Description of Study.—The study conducted under subsection (a) shall assess th
 
 &emsp;“(1) the goal of budget neutrality may be preserved by repealing the programs included in, but not limited to, the programs described in the amendments proposed by section 301 of the bill described in subsection (a) over a more gradual period of time in conjunction with corresponding increases (up to 90 percent) in the Federal matching rates under part A of title IV \[this part\], and title XIX \[subchapter XIX of this chapter\], of the Social Security Act; and
 
-&emsp;“(2) the effects on local governments of repealing Federal programs could be mitigated by providing, over a period of time that corresponds with more gradual increases in the Federal matching ratesunder such part A and title XIX, general revenue supplements to those localities with the lowest levels of fiscal capacity and pass-throughs to units of local government.
+&emsp;“(2) the effects on local governments of repealing Federal programs could be mitigated by providing, over a period of time that corresponds with more gradual increases in the Federal matching rates under such part A and title XIX, general revenue supplements to those localities with the lowest levels of fiscal capacity and pass-throughs to units of local government.
 
 “(c)
 
@@ -1526,9 +1526,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Section 1883(b)(11) of Pub. L. 99–514 provided that:
 
-“(A) The failure by a State to comply with the provisions of any amendment made by paragraph (1), (2), (3), or (10) \[enacting section 678 of this title and amending this section\] or the imposition by a State of any requirement inconsistent with such provisions, in the administration of its plan approved under section 402(a) of the Social Security Act \[subsec. (a) of this section\] during the period beginning October 1, 1984, and ending on the day preceding the date of the enactment of this Act \[Oct. 22, 1986\], shall not be considered to be failure to comply substantially with a provision required to be included in the State's plan, or to constitute (solely by reason of such inconsistency) the imposition of a prohibited requirement in the administration of the plan, for purposes of section 404(a) of such Act \[section 604(a) of this title\].
+“(A) The failure by a State to comply with the provisions of any amendment made by paragraph (1), (2), (3), or (10) \[enacting section 678 of this title and amending this section\] or the imposition by a State of any requirement inconsistent with such provisions, in the administration of its plan approved under section 402(a) of the Social Security Act \[subsec. (a) of this section\] during the period beginning October 1, 1984, and ending onthe day preceding the date of the enactment of this Act \[Oct. 22, 1986\], shall not be considered to be failure to comply substantially with a provision required to be included in the State's plan, or to constitute (solely by reason of such inconsistency) the imposition of a prohibited requirement in the administration of the plan, for purposes of section 404(a) of such Act \[section 604(a) of this title\].
 
-“(B) No State shall be considered to have made any overpayment or underpayment of aid, under its plan approved under section 402(a) of the Social Security Act, by reason of its compliance or noncompliance with the provisions of any amendment made by paragraph (1), (2), (3), or (10) (or solely because of the extent to which its requirements are consistent or inconsistentwith such provisions) in the administration of the plan during the period specified in subparagraph (A).”
+“(B) No State shall be considered to have made any overpayment or underpayment of aid, under its plan approved under section 402(a) of the Social Security Act, by reason of its compliance or noncompliance with the provisions of any amendment made by paragraph (1), (2), (3), or (10) (or solely because of the extent to which its requirements are consistent or inconsistent with such provisions) in the administration of the plan during the period specified in subparagraph (A).”
 
 #### AFDC Guidelines
 
@@ -1576,7 +1576,7 @@ Pub. L. 95–30, title IV, §401(a), May 23, 1977, 91 Stat. 154, as amended by P
 
 Section 201(a), (b) of Pub. L. 94–88 provided that:
 
-“(a) If the Governor of any State, which has an approved State plan under part A of title IV of the Social Security Act \[this part\], submits to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’), a request that any provision of section 402(a)(26) of the Social Security Act or section 402(a)(27) of such Act \[subsec. (a)(26) or (a)(27) of this section\] not be made applicable to such State prior to a date specified in the request (which shall not be later than June 30, 1976) and—
+“(a) If the Governor of any State, which has an approved State plan under part A of title IV of the Social Security Act \[this part\], submits to the Secretary ofHealth, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’), a request that any provision of section 402(a)(26) of the Social Security Act or section 402(a)(27) of such Act \[subsec. (a)(26) or (a)(27) of this section\] not be made applicable to such State prior to a date specified in the request (which shall not be later than June 30, 1976) and—
 
 &emsp;“(1) such request is accompanied by a certification, with respect to such provision, of the Governor that the State cannot implement such provision because of the lack of authority to do so under State law, and
 
@@ -1622,7 +1622,7 @@ Section 202(d) of Pub. L. 90–248 provided that: “Effective with respect to q
 
 #### Disregarding Income in Determination of Need in Puerto Rico, the Virgin Islands, and Guam
 
-Section 248(c) of Pub. L. 90–248 provided that: “Effective July 1, 1969, neither the provisions of clauses (A) through (C) of section 402(a)(7) of such Act \[subsec. (a)(7) of this section\] as in effect before the enactment of this Act \[Jan. 2, 1968\] nor the provisions of section 402(a)(8) of such Act \[subsec. (a)(8) of this section\] as amended by section 202(b) of this Act shall apply in the case of Puerto Rico, the Virgin Islands, or Guam. Effective no later than July 1, 1972, the State plans of Puerto Rico, the Virgin Islands, and Guam approved under section 402 of such Act \[this section\] shall provide for the disregarding of income in making the determination under section 402(a)(7) of such Act \[subsec. (a)(7) of this section\] in amounts (agreed to between the Secretary and the State agencies involved) sufficiently lower than the amounts specified in section 402(a)(8) of such Act \[subsec. (a)(8) of this section\] to reflect appropriately the applicable differences in income levels.”
+Section 248(c) of Pub. L. 90–248 provided that: “Effective July 1, 1969, neither the provisions of clauses (A) through (C) of section 402(a)(7) of such Act \[subsec. (a)(7) of this section\] as in effect before the enactment of this Act \[Jan. 2, 1968\] nor the provisions of section402(a)(8) of such Act \[subsec. (a)(8) of this section\] as amended by section 202(b) of this Act shall apply in the case of Puerto Rico, the Virgin Islands, or Guam. Effective no later than July 1, 1972, the State plans of Puerto Rico, the Virgin Islands, and Guam approved under section 402 of such Act \[this section\] shall provide for the disregarding of income in making the determination under section 402(a)(7) of such Act \[subsec. (a)(7) of this section\] in amounts (agreed to between the Secretary and the State agencies involved) sufficiently lower than the amounts specified in section 402(a)(8) of such Act \[subsec. (a)(8) of this section\] to reflect appropriately the applicable differences in income levels.”
 
 #### Public Access to State Disbursement Records
 

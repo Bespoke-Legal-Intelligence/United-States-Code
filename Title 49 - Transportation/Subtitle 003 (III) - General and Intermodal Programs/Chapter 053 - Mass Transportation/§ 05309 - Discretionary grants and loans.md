@@ -20,7 +20,7 @@ General Authority.—The Secretary of Transportation may make grants and loans u
 
 &emsp;(6) mass transportation projects planned, designed, and carried out to meet the special needs of elderly individuals and individuals with disabilities; and
 
-&emsp;(7) the development of corridors to support fixed guideway systems, including protecting rights of way through acquisition, construction of dedicated bus and high occupancy vehicle lanes and park and ride lots, and other nonvehicular capital improvements that the Secretary may decide would result in increased mass transportation usage in the corridor.
+&emsp;(7) the development of corridors to support fixed guideway systems, including protectingrights of way through acquisition, construction of dedicated bus and high occupancy vehicle lanes and park and ride lots, and other nonvehicular capital improvements that the Secretary may decide would result in increased mass transportation usage in the corridor.
 
 (b)
 
@@ -30,7 +30,7 @@ Loans for Real Property Interests.—(1) The Secretary of Transportation may mak
 
 (3) An applicant for a loan under this subsection shall provide a copy of the application to the planning agency for the community affected by the project at the same time the application is submitted to the Secretary of Transportation. If the planning agency submits comments to the Secretary not later than 30 days after the application is submitted, or, if the agency requests more time within those 30 days, within a period the Secretary establishes, the Secretary shall consider those comments before taking final action on the application.
 
-(4) A loan agreement under this subsection shall provide that a capital project on the property will be started not later than 10 years after the fiscal year in which the agreement is made. If an interest in property acquired under this subsection is not used for the purpose for which it was acquired, an appraisal of the current value of the property or interest shall be madewhen a decision is made about the use. The decision shall be made within the 10-year period. Two-thirds of the increase in value shall be paid to the Secretary of Transportation for deposit in the Treasury as miscellaneous receipts.
+(4) A loan agreement under this subsection shall provide that a capital project on the property will be started not later than 10 years after the fiscal year in which the agreement is made. If an interest in property acquired under this subsection is not used for the purpose for which it was acquired, an appraisal of the current value of the property or interest shall be made when a decision is made about the use. The decision shall be made within the 10-year period. Two-thirds of the increase in value shall be paid to the Secretary of Transportation for deposit in the Treasury as miscellaneous receipts.
 
 (5) A loan under this subsection must be repaid not later than 10 years after the date of the loan agreement or on the date a grant agreement for a capital project on the property is made, whichever is earlier. Payments made to repay the loan shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -104,7 +104,7 @@ Criteria for Grants and Loans for Fixed Guideway Systems.—(1) This subsection 
 
 &emsp;(i) the project is located in an extreme or severe nonattainment area and is a transportation control measure (as defined by the Clean Air Act (42 U.S.C. 7401 et seq.)) required to carry out an approved State Implementation Plan; or
 
-&emsp;(ii) assistance provided under this section is less than $25,000,000 or one-third of the totalcost of the project or an appropriate program of projects as decided by the Secretary of Transportation.
+&emsp;(ii) assistance provided under this section is less than $25,000,000 or one-third of the total cost of the project or an appropriate program of projects as decided by the Secretary of Transportation.
 
 (B) The simultaneous evaluation of projects in at least 2 corridors in a metropolitan area may not be limited and the Secretary of Transportation shall make decisions under this subsection with expedited procedures that will promote carrying out an approved State Implementation Plan in a timely way if a project is—
 
@@ -156,7 +156,7 @@ Letters of Intent, Full Financing Grant Agreements, and Early Systems Work Agree
 
 &emsp;(ii) the terms of the work agreement will promote ultimate completion of the project more rapidly and at less cost.
 
-(B) A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary of Transportation decides are appropriate to make efficient, long-term project management easier. A work agreement shall cover the period of time the Secretary considers appropriate. The period may extend beyond the period of current authorization. Interest and other financing costs of efficiently carrying out the work agreement within a reasonable time are acost of carrying out the agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Government payments made under the work agreement plus reasonable interest and penalty charges the Secretary establishes in the agreement.
+(B) A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary of Transportation decides are appropriate to make efficient, long-term project management easier. A work agreement shall cover the period of time the Secretary considers appropriate. The period may extend beyond the period of current authorization. Interest and other financing costs of efficiently carrying out the work agreement within a reasonable time are a cost of carrying out the agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Government payments made under the work agreement plus reasonable interest and penalty charges the Secretary establishes in the agreement.
 
 (4) The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full financing grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(a) of this title to carry out this section or 50 percent of the uncommitted cash balance remaining in the Mass Transit Account of the Highway Trust Fund (including amounts received from taxes and interest earned that are more than amounts previously obligated), less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full financing grant agreements and early systems work agreements may be not more than a limitation specified in law.
 
@@ -186,7 +186,7 @@ Fiscal Capacity Considerations.—If the Secretary of Transportation gives prior
 
 (m)
 
-Allocating Amounts.—(1) Of the amounts available for grants and loans under this section for each of the fiscal years ending September 30, 1993–1997—
+Allocating Amounts.—(1) Of the amounts available for grants and loans under this sectionfor each of the fiscal years ending September 30, 1993–1997—
 
 &emsp;(A) 40 percent is available for fixed guideway modernization;
 
@@ -426,13 +426,13 @@ In subsection (n)(2), the words “Subject to the provisions of this paragraph�
 
 The Clean Air Act, referred to in subsec. (e)(6)(A)(i), (B)(ii), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-Part A of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec.\(e)(6)(C), is part A (§§1001 to 1109) of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1915, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
+Part A of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e)(6)(C), is part A (§§1001 to 1109) of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1915, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Encouragement of Adversely Affected Industries To Compete for Contracts
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary of each military department shall make available appropriate forms on which those members of the Armed Forces who so desire may indicate their desire to be buried within the area to be designated under subsection (a).
 
-(Added Pub. L. 101–237, title V, §502(a), Dec. 18, 1989, 103 Stat. 2093, §1010; amended Pub. L.102–54, §14(b)(22), June 13, 1991, 105 Stat. 284; renumbered §2410, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 101–237, title V, §502(a), Dec. 18, 1989, 103 Stat. 2093, §1010; amended Pub. L. 102–54, §14(b)(22), June 13, 1991, 105 Stat. 284; renumbered §2410, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

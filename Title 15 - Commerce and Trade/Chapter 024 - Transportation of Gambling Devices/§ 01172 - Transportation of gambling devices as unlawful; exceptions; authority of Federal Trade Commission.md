@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-It shall be unlawful knowingly to transport any gambling device to any place in a State or a possession of the United States from any place outside of such State or possession: <i>Provided</i>, That this section shall not apply to transportation of any gambling device to a place in any State which has enacted a law providing for the exemption of such State from the provisions of this section, or to a place in any subdivision of a State if the State in which such subdivision is located has enacted a law providing for the exemption of such subdivision from the provisions of this section, nor shall this section apply to any gambling device used or designed for use at and transported to licensed gambling establishments where betting is legal under applicable State laws: <i>Provided, further</i>, That it shall not be unlawful to transport in interstate or foreign commerce any gambling device into any State in which the transported gambling device is specifically enumerated as lawful in a statute of that State.
+It shall be unlawful knowingly to transport any gambling device to any place in a State or a possession of the United States from any place outside of such State or possession: <i>Provided</i>, That this section shall not apply to transportation of any gambling device to a place in any State which has enacted a law providing for theexemption of such State from the provisions of this section, or to a place in any subdivision of a State if the State in which such subdivision is located has enacted a law providing for the exemption of such subdivision from the provisions of this section, nor shall this section apply to any gambling device used or designed for use at and transported to licensed gambling establishments where betting is legal under applicable State laws: <i>Provided, further</i>, That it shall not be unlawful to transport in interstate or foreign commerce any gambling device into any State in which the transported gambling device is specifically enumerated as lawful in a statute of that State.
 
 #### (b) Authority of Federal Trade Commission
 
@@ -20,7 +20,7 @@ This section does not prohibit the transport of a gambling device to a place in 
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
 

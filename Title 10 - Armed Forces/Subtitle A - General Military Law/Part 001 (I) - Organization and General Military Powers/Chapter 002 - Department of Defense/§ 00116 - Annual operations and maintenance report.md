@@ -1,4 +1,4 @@
-### §116 . Annual operations and maintenance report
+### §116. Annual operations and maintenance report
 
 (a)(1) The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, and Marine Corps for the next fiscal year. The Secretary shall include in each such report recommendations for—
 

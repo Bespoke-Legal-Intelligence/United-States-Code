@@ -1,4 +1,4 @@
-### §2016 . Interest rates and other charges
+### §2016. Interest rates and other charges
 
 #### (a) In general
 

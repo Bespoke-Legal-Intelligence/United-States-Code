@@ -2,7 +2,7 @@
 
 #### (a) Qualified business unit
 
-For purposes of this subpart, the term “qualified business unit” means any separate and clearly identified unit of a trade or business of a taxpayer which maintains separate books and records.
+For purposes of this subpart, the term “qualified business unit” means any separate andclearly identified unit of a trade or business of a taxpayer which maintains separate books and records.
 
 #### (b) Appropriate exchange rate
 

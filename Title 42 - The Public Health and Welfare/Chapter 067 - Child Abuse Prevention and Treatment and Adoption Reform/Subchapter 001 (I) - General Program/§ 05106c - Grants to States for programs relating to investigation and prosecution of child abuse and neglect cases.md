@@ -2,7 +2,7 @@
 
 #### (a) Grants to States
 
-The Secretary, acting through the Center and in consultation with the Attorney General, isauthorized to make grants to the States for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
+The Secretary, acting through the Center and in consultation with the Attorney General, is authorized to make grants to the States for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
 
 &emsp;(1) the handling of child abuse and neglect cases, particularly cases of child sexual abuse and exploitation, in a manner which limits additional trauma to the child victim;
 
@@ -74,7 +74,7 @@ Before a State receives assistance under this section, and at three year interva
 
 &emsp;&emsp;(B) experimental, model and demonstration programs for testing innovative approaches and techniques which may improve the prompt and successful resolution of civil and criminal court proceedings or enhance the effectiveness of judicial and administrative action in child abuse and neglect cases, particularly child sexual abuse and exploitation cases, including the enhancement of performance of court-appointed attorneys and guardians ad litem for children, and which also ensure procedural fairness to the accused; and
 
-&emsp;&emsp;(C) reform of State laws, ordinances, regulations, protocols and procedures to providecomprehensive protection for children from abuse, particularly child sexual abuse and exploitation, while ensuring fairness to all affected persons.
+&emsp;&emsp;(C) reform of State laws, ordinances, regulations, protocols and procedures to provide comprehensive protection for children from abuse, particularly child sexual abuse and exploitation, while ensuring fairness to all affected persons.
 
 #### (2) Exemption
 

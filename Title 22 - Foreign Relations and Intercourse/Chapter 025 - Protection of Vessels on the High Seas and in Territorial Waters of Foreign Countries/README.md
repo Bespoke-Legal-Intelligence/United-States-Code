@@ -37,6 +37,18 @@
 | (e) | Surcharge on foreign fishing vessels. |
 | (f) | Fishing Vessel and Gear Damage Compensation Fund; requirements, etc. |
 | (g) | Penalty for false or misleading statements. |
+| [1980a.](%C2%A7%2001980a%20-%20Reimbursement%20of%20owner%20for%20fee%20paid%20to%20navigate%20foreign%20waters%20if%20fee%20inconsistent%20with%20international%20law.md) | Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law. |
+| (a) | Reimbursable fees. |
+| (b) | Documentation. |
+| (c) | Timeliness. |
+| (d) | Funding; appropriations. |
+| (e) | Claim against foreign government. |
+| (f) | “Owner” defined. |
+| [1980b.](%C2%A7%2001980b%20-%20Sanctions%20for%20imposition%20of%20conditions%20on%20U.S.%20fishing%20vessel%20found%20inconsistent%20with%20international%20law.md) | Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law. |
+| (a) | Certification. |
+| (b) | Sanctions. |
+| (c) | “Fishing vessel” defined. |
+| (d) | Sanctions commensurate with conditions certified. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,3 +71,5 @@ This chapter is referred to in title 16 section 972c; title 48 section 1904.
 - [&sect; 01978 - Restriction on importation of fishery or wildlife products from countries which violate international fishery or endangered or threatened&#8230;](%C2%A7%2001978%20-%20Restriction%20on%20importation%20of%20fishery%20or%20wildlife%20products%20from%20countries%20which%20violate%20international%20fishery%20or%20endangered%20or%20threatened%E2%80%A6.md)
 - [&sect; 01979 - Fishermen's Protective Fund](%C2%A7%2001979%20-%20Fishermen%27s%20Protective%20Fund.md)
 - [&sect; 01980 - Compensation for loss or destruction of commercial fishing vessel or gear](%C2%A7%2001980%20-%20Compensation%20for%20loss%20or%20destruction%20of%20commercial%20fishing%20vessel%20or%20gear.md)
+- [&sect; 01980a - Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law](%C2%A7%2001980a%20-%20Reimbursement%20of%20owner%20for%20fee%20paid%20to%20navigate%20foreign%20waters%20if%20fee%20inconsistent%20with%20international%20law.md)
+- [&sect; 01980b - Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law](%C2%A7%2001980b%20-%20Sanctions%20for%20imposition%20of%20conditions%20on%20U.S.%20fishing%20vessel%20found%20inconsistent%20with%20international%20law.md)

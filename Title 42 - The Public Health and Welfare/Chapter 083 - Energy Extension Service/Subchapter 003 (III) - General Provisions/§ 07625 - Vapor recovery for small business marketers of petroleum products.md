@@ -16,7 +16,7 @@ Nothing in subsection (a) of this section shall be construed to prohibit any Sta
 
 #### (c) Refiners
 
-For purposes of this section, an independent small business marketer of gasoline is a personengaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 of this title or under regulations of the Administrator, unless such person—
+For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 of this title or under regulations of the Administrator, unless such person—
 
 &emsp;(1)(A) is a refiner, or
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (3) Expenditures must be reasonable
 
-&emsp;Amounts paid or incurred for the purposes described in paragraph (2) shall include onlyexpenditures which are reasonable and shall not include expenditures which are unnecessary to accomplish such purposes.
+&emsp;Amounts paid or incurred for the purposes described in paragraph (2) shall include only expenditures which are reasonable and shall not include expenditures which are unnecessary to accomplish such purposes.
 
 #### (4) Expenses in connection with new construction are not eligible
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (3) Partnerships and S corporations
 
-&emsp;In the case of a partnership, the limitation under subsection (a) shall apply with respect to the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
+&emsp;In the case of a partnership, the limitation under subsection (a) shall apply with respectto the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
 
 #### (4) Short years
 

@@ -10,7 +10,7 @@
 
 (2) The Office of Management and Budget shall seek to facilitate planning for the design, procurement, maintenance, deployment, and operations of icebreakers needed to provide a platform for Arctic research by allocating all funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, to the Coast Guard.
 
-(Pub. L. 98 373, title I, §110, July 31, 1984, 98 Stat. 1248.)
+(Pub. L. 98–373, title I, §110, July 31, 1984, 98 Stat. 1248.)
 
 #### Section Referred to in Other Sections
 

@@ -72,7 +72,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 The content of Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617, including provisions thereof which amended various sections of this chapter and enacted provisions set out as notes under this section, was originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353), H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353), H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L.93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
 
 #### Prior Provisions
 
@@ -116,7 +116,7 @@ Pub. L. 102–52, §1, June 6, 1991, 105 Stat. 260, provided that: “This Act \
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–506 provided that: “This Act \[enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and section 2000d–7 of Title 42, The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740,741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of Title 36, Patriotic Societies and Observances, repealing section 751 of this title, and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and section 1414 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
+Section 1(a) of Pub. L. 99–506 provided that: “This Act \[enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and section 2000d–7 of Title 42, The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740, 741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of Title 36, Patriotic Societies and Observances, repealing section 751 of this title, and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and section 1414 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
 
 #### Short Title of 1984 Amendment
 
@@ -132,7 +132,7 @@ Pub. L. 94–230, §1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act \
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
+Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706,720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
 
 An identical provision is contained in Pub. L. 93–651, title I, §100, Nov. 21, 1974, 89 Stat. 2–3. See Codification note above.
 

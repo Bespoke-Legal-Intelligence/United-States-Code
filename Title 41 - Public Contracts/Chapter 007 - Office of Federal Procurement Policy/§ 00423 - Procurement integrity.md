@@ -44,7 +44,7 @@ During the conduct of any Federal agency procurement of property or services, no
 
 #### (d) Disclosure to unauthorized persons
 
-During the conduct of any Federal agency procurement of property or services, no person who is given authorized or unauthorized access to proprietary or source selection information regarding such procurement, shall knowingly disclose such information, directly or indirectly, to any person other than a person authorized by the head of such agency or the contracting officer to receive such information.
+During the conduct of any Federal agency procurement of property or services, no person who is given authorized or unauthorized access toproprietary or source selection information regarding such procurement, shall knowingly disclose such information, directly or indirectly, to any person other than a person authorized by the head of such agency or the contracting officer to receive such information.
 
 #### (e) Certification and enforcement matters
 
@@ -60,7 +60,7 @@ During the conduct of any Federal agency procurement of property or services, no
 
 &emsp;&emsp;(ii) will report immediately to the officer or employee of the competing contractor responsible for the offer or bid for any contract or the modification or extension of such contract, as the case may be, any information concerning a violation or possible violation of subsection (a), (b), (d), or (f) of this section, or such applicable implementing regulations, pertaining to such procurement.
 
-(2) A Federal agency may not award a contract for the procurement of property or services, or agree to any modification or extension of anysuch contract, unless the contracting officer responsible for such procurement—
+(2) A Federal agency may not award a contract for the procurement of property or services, or agree to any modification or extension of any such contract, unless the contracting officer responsible for such procurement—
 
 &emsp;(A) certifies in writing to the head of such agency that the contracting officer has no information concerning a violation or possible violation of subsection (a), (b), (d), or (f) of this section, or applicable implementing regulations, pertaining to such procurement; or
 
@@ -184,7 +184,7 @@ Whoever, during the conduct of a Federal agency procurement of property or servi
 
 &emsp;(1) being a competing contractor or an officer, employee, representative, agent, or consultant of a competing contractor, knowingly and willfully solicits or obtains, directly or indirectly, from any officer or employee of such agency any proprietary or source selection information (as such terms are defined in subsection (p) of this section and in regulations prescribed pursuant to subsection (<i>o</i>) of this section), or
 
-&emsp;(2) being an officer or employee of such agency, knowingly and willfully discloses or promises to disclose, directly or indirectly, to anycompeting contractor or any officer, employee, representative, agent, or consultant of a competing contractor any proprietary or source selection information,
+&emsp;(2) being an officer or employee of such agency, knowingly and willfully discloses or promises to disclose, directly or indirectly, to any competing contractor or any officer, employee, representative, agent, or consultant of a competing contractor any proprietary or source selection information,
 
 > shall be imprisoned for not more than 5 years, or fined in accordance with title 18, or both.
 

@@ -2,7 +2,7 @@
 
 #### (a) Release of Washington Terminal Company from its obligation to construct a new railroad passenger station
 
-The Secretary of Transportation is authorized, on such terms and conditions as he may prescribe, to release the Washington Terminal Company from any or all of its obligations under agreements and leases entered into under part A of this subchapter, including, without limitation, the obligation to construct a new railroad passenger station as provided in section 802(a)(4) of this title.
+The Secretary of Transportation is authorized, on such terms and conditions as he may prescribe, to release the Washington Terminal Company from any or all of its obligations under agreements and leases entered into under part A of this subchapter, including, without limitation, the obligation to construct a newrailroad passenger station as provided in section 802(a)(4) of this title.
 
 #### (b) Waiver of statutory and contractual restrictions on the use of the parking facility
 

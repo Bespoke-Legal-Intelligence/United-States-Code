@@ -16,7 +16,7 @@ Conversion Plans.—The Secretary of Defense may prepare comprehensive plans for
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title prior to repeal by Pub. L. 103–160, §822(a)(2).
+Provisions similar to those in this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
 
 #### Section Referred to in Other Sections
 

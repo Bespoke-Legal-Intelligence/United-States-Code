@@ -1,4 +1,4 @@
-### §7102 . Marine Corps University: master of military studies
+### §7102. Marine Corps University: master of military studies
 
 (a)
 

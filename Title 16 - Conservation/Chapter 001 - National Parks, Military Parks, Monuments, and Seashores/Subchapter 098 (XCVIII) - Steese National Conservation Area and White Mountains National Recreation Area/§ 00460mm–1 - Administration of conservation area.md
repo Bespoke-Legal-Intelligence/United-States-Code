@@ -20,7 +20,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), 
 
 The Mineral Leasing Act of 1920, as amended, and supplemented, referred to in subsec. (b), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-The Materials Act of 1947, as amended, referred to in subsec. (b), is act July 31, 1947, ch. 406, 61 Stat. 681, asamended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+The Materials Act of 1947, as amended, referred to in subsec. (b), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 #### Section Referred to in Other Sections
 

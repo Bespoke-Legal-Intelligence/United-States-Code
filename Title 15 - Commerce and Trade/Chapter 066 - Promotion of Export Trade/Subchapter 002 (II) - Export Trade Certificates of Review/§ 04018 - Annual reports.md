@@ -2,9 +2,9 @@
 
 Every person to whom a certificate of review is issued shall submit to the Secretary an annual report, in such form and at such time as the Secretary may require, that updates where necessary the information required by section 4012(a) of this title.
 
-(Pub. L. 97 290, title III, §308, Oct. 8, 1982, 96 Stat. 1244.)
+(Pub. L. 97–290, title III, §308, Oct. 8, 1982, 96 Stat. 1244.)
 
 #### Effective Date
 
-Section effective Oct. 8, 1982, see section 312 of Pub. L. 97 290, set out as a note under section 4011 of this title.
+Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 

@@ -1,4 +1,4 @@
-### §5502 . Marine Corps: grades above chief warrant officer, W–5
+### §5502. Marine Corps: grades above chief warrant officer, W–5
 
 The commissioned grades in the Marine Corps above the grade of chief warrant officer, W–5, are:
 

@@ -14,7 +14,7 @@ Technical and financial assistance, including loans, may be provided by the Secr
 
 &emsp;(5) the cost of the land or an interest in the land acquired or to be acquired under such plan by any State, local unit of government, or local nonprofit organization is borne by such State, local unit of government, or local nonprofit organization; and
 
-&emsp;(6) the State, local unit of government, or local nonprofit organization participating inan area plan agrees to maintain and operate all works of improvement installed under such plan.
+&emsp;(6) the State, local unit of government, or local nonprofit organization participating in an area plan agrees to maintain and operate all works of improvement installed under such plan.
 
 #### (b) Terms and conditions of loans
 

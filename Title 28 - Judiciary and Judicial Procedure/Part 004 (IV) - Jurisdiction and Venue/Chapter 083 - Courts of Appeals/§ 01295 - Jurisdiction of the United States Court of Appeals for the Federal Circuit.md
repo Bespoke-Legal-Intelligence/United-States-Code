@@ -1,0 +1,110 @@
+### §1295. Jurisdiction of the United States Court of Appeals for the Federal Circuit
+
+(a) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction—
+
+&emsp;(1) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a case involving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;
+
+&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
+
+&emsp;(3) of an appeal from a final decision of the United States Court of Federal Claims;
+
+&emsp;(4) of an appeal from a decision of—
+
+&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
+
+&emsp;&emsp;(B) the Commissioner of Patents and Trademarks or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
+
+&emsp;&emsp;(C) a district court to which a case was directed pursuant to section 145 or 146 of title 35;
+
+&emsp;(5) of an appeal from a final decision of the United States Court of International Trade;
+
+&emsp;(6) to review the final determinations of the United States International Trade Commission relating to unfair practices in import trade, made under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337);
+
+&emsp;(7) to review, by appeal on questions of law only, findings of the Secretary of Commerce under U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States (relating to importation of instruments or apparatus);
+
+&emsp;(8) of an appeal under section 71 of the Plant Variety Protection Act (7 U.S.C. 2461);
+
+&emsp;(9) of an appeal from a final order or final decision of the Merit Systems Protection Board, pursuant to sections 7703(b)(1) and 7703(d) of title 5;
+
+&emsp;(10) of an appeal from a final decision of an agency board of contract appeals pursuant to section 8(g)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 607(g)(1));
+
+&emsp;(11) of an appeal under section 211 of the Economic Stabilization Act of 1970;
+
+&emsp;(12) of an appeal under section 5 of the Emergency Petroleum Allocation Act of 1973;
+
+&emsp;(13) of an appeal under section 506(c) of the Natural Gas Policy Act of 1978; and
+
+&emsp;(14) of an appeal under section 523 of the Energy Policy and Conservation Act.
+
+(b) The head of any executive department or agency may, with the approval of the Attorney General, refer to the Court of Appeals for the Federal Circuit for judicial review any final decision rendered by a board of contract appeals pursuant to the terms of any contract with the United States awarded by that department or agency which the head of such department or agency has concluded is not entitled to finality pursuant to the review standards specified in section 10(b) of the Contract Disputes Act of 1978 (41 U.S.C. 609(b)). The head of each executive department or agency shall make any referral under this section within one hundred and twenty days after the receipt of a copy of the final appeal decision.
+
+(c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 10(b) of the Contract Disputes Act of 1978. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
+
+(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516.)
+
+#### References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+Section 211 of the Economic Stabilization Act of 1970, referred to in subsec. (a)(11), is section 211 of Pub. L. 91–379, title II, as amended, formerly set out as an Economic Stabilization Program note under section 1904 of Title 12, Banks and Banking.
+
+Section 5 of the Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(12), is section 5 of Pub. L. 93–159, as amended, which was classified to section 754 of Title 15, Commerce and Trade, and was omitted from the Code.
+
+Section 506(c) of the Natural Gas Policy Act of 1978, referred to in subsec. (a)(13), is classified to section 3416(c) of Title 15.
+
+Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a)(14), is classified to section 6393 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+1992—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+Subsec. (a)(11) to (14). Pub. L. 102–572, §102(c), added pars. (11) to (14).
+
+1988—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
+
+Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States” for “headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States”.
+
+1984—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by section 102(c) of Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
+
+Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of Title 35, Patents.
+
+Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 7 of Title 35.
+
+#### Effective Date
+
+Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
+
+#### Abolition of Temporary Emergency Court of Appeals
+
+Section 102(d), (e) of Pub. L. 102–572 provided that:
+
+“(d)
+
+Abolition of Court.—The Temporary Emergency Court of Appeals created by section 211(b) of the Economic Stabilization Act of 1970 \[Pub. L. 91–379, formerly set out as a note under section 1904 of Title 12, Banks and Banking\] is abolished, effective 6 months after the date of the enactment of this Act \[Oct. 29, 1992\].
+
+“(e)
+
+Pending Cases.—(1) Any appeal which, before the effective date of abolition described in subsection (d), is pending in the Temporary Emergency Court of Appeals but has not been submitted to a panel of such court as of that date shall be assigned to the United States Court of Appeals for the Federal Circuit as though the appeal had originally been filed in that court.
+
+“(2) Any case which, before the effective date of abolition described in subsection (d), has been submitted to a panel of the Temporary Emergency Court of Appeals and as to which the mandate has not been issued as of that date shall remain with that panel for all purposes and, notwithstanding the provisions of sections 291 and 292 of title 28, United States Code, that panel shall be assigned to the United States Court of Appeals for the Federal Circuit for the purpose of deciding such case.”
+
+#### Termination of United States District Court for the District of the Canal Zone
+
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1291, 1292, 1294 of this title; title 41 section 607.
+

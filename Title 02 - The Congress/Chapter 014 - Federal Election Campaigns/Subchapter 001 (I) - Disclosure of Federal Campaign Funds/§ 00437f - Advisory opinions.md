@@ -22,7 +22,7 @@ Any rule of law which is not stated in this Act or in chapter 95 or chapter 96 o
 
 #### (d) Requests made public; submission of written comments by interested public
 
-The Commission shall make public any request made under subsection (a) of this section for an advisory opinion. Before rendering an advisory opinion, the Commission shall accept written comments submitted by any interested party within the 10-day period following the date the request is made public.
+The Commission shall make public any request made under subsection (a) of this section for an advisory opinion. Before rendering an advisory opinion, the Commission shall accept written comments submitted by any interestedparty within the 10-day period following the date the request is made public.
 
 (Pub. L. 92–225, title III, §308, formerly §313, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1283; renumbered §312 and amended Pub. L. 94–283, title I, §§105, 108(a), May 11, 1976, 90 Stat. 481, 482; renumbered §308 and amended Pub. L. 96–187, title I, §§105(4), 107(a), Jan. 8, 1980, 93 Stat. 1354, 1357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

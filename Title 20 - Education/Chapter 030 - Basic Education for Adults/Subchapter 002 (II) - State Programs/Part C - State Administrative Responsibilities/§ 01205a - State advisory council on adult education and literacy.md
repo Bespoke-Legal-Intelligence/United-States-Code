@@ -58,7 +58,7 @@ Members shall be appointed for fixed and staggered terms and may serve until the
 
 Each State advisory council shall—
 
-&emsp;(1) meet with the State agencies responsible for literacy training during the planning year to advise on the development of a State plan for literacy and for adult education that fulfills the literacy and adult education needs of the State, especially with respect to the needs of the labor market, economic development goals, and the needs of the individuals in the State;
+&emsp;(1) meet with the State agencies responsible for literacy training during the planning year to advise on the development of a State planfor literacy and for adult education that fulfills the literacy and adult education needs of the State, especially with respect to the needs of the labor market, economic development goals, and the needs of the individuals in the State;
 
 &emsp;(2) advise the Governor, the State educational agency, and other State agencies concerning—
 
@@ -92,25 +92,25 @@ Each State advisory council shall—
 
 (2) Funds under this subchapter may be allotted to the State Council to carry out such duties and the other duties of the State Council if the Governor and the head of the State agency responsible for carrying out programs under this Act agree to such an allotment.
 
-(Pub. L. 89 750, title III, §332, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 307; amended Pub. L. 102 73, title III, §301(d), July 25, 1991, 105 Stat. 346; Pub. L. 102 367, title VI, §601(b)(2), Sept. 7, 1992, 106 Stat. 1103.)
+(Pub. L. 89–750, title III, §332, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 307; amended Pub. L. 102–73, title III, §301(d), July 25, 1991, 105 Stat. 346; Pub. L. 102–367, title VI, §601(b)(2), Sept. 7, 1992, 106 Stat. 1103.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (g)(1), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title VII of the Act is classified generally to subchapter VI (§1792 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (g)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title VII of the Act is classified generally to subchapter VI (§1792 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-This Act, referred to in subsec. (g)(2), means Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
+This Act, referred to in subsec. (g)(2), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 
 #### Amendments
 
-1992—Subsec. (g). Pub. L. 102 367, which directed that subsec. (g) be added at end of “section 332(d) of the Adult Education Act (20 U.S.C. 1205a(d))”, was executed by adding subsec. (g) at end of this section to reflect the probable intent of Congress.
+1992—Subsec. (g). Pub. L. 102–367, which directed that subsec. (g) be added at end of “section 332(d) of the Adult Education Act (20 U.S.C. 1205a(d))”, was executed by adding subsec. (g) at end of this section to reflect the probable intent of Congress.
 
-1991—Pub. L. 102 73, §301(d)(1), inserted “and literacy” after “education” in section catchline.
+1991—Pub. L. 102–73, §301(d)(1), inserted “and literacy” after “education” in section catchline.
 
-Subsec. (a)(1). Pub. L. 102 73, §301(d)(2)(A), (B), substituted “adult education and literacy, appointed by, and responsible to, the Governor” for “adult education, appointed by the Governor”, inserted “and literacy” after “interest in adult education”, and substituted “consist of—” and cls. (i) to (viii) for “consist of representatives of public education; private and public sector employment; recognized State labor organizations; private, voluntary, or community literacy organizations; libraries; and State economic development agencies.”
+Subsec. (a)(1). Pub. L. 102–73, §301(d)(2)(A), (B), substituted “adult education and literacy, appointed by, and responsible to, the Governor” for “adult education, appointed by the Governor”, inserted “and literacy” after “interest in adult education”, and substituted “consist of—” and cls. (i) to (viii) for “consist of representatives of public education; private and public sector employment; recognized State labor organizations; private, voluntary, or community literacy organizations; libraries; and State economic development agencies.”
 
-Subsec. (d). Pub. L. 102 73, §301(d)(2)(C), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the State advisory council shall, using procedures agreed upon, elect their own chairperson. The State advisory council shall determine its own procedures, staffing needs (subject to funding levels authorized by the Governor), and the number, time, place, and conduct of meetings, except that it shall hold at least 1 public meeting each year at which the general public is given an opportunity to express views concerning adult education programs in the State. In approving the plan for the evaluations under subsection (f)(3)(A) of this section, the council shall ensure that persons knowledgeable of the daily operation of adult education programs are involved.”
+Subsec. (d). Pub. L. 102–73, §301(d)(2)(C), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the State advisory council shall, using procedures agreed upon, elect their own chairperson. The State advisory council shall determine its own procedures, staffing needs (subject to funding levels authorized by the Governor), and the number, time, place, and conduct of meetings, except that it shall hold at least 1 public meeting each year at which the general public is given an opportunity to express views concerning adult education programs in the State. In approving the plan for the evaluations under subsection (f)(3)(A) of this section, the council shall ensure that persons knowledgeable of the daily operation of adult education programs are involved.”
 
-Subsec. (f)(1), (2). Pub. L. 102 73, §301(d)(2)(D)(i), (ii), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+Subsec. (f)(1), (2). Pub. L. 102–73, §301(d)(2)(D)(i), (ii), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) meet with the State agency or its representatives during the planning year to advise on the development of the State plan;
 
@@ -120,11 +120,11 @@ Subsec. (f)(1), (2). Pub. L. 102 73, §301(d)(2)(D)(i), (ii), amended pars. (1) 
 
 &emsp;“(B) initiatives and methods the private sector could undertake to assist the State's improvement of adult education programs; and”.
 
-Subsec. (f)(3) to (7). Pub. L. 102 73, §301(d)(2)(D)(iii), (iv), added pars. (3) to (6) and redesignated former par. (3) as (7).
+Subsec. (f)(3) to (7). Pub. L. 102–73, §301(d)(2)(D)(iii), (iv), added pars. (3) to (6) and redesignated former par. (3) as (7).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 367 effective July 1, 1993, see section 701(a) of Pub. L. 102 367, set out as a note under section 1501 of Title 29, Labor.
+Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as a note under section 1501 of Title 29, Labor.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ No payment may be made to a State under this part in excess of the payment made 
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 103–432, title II, §202(d)(1), (e), Oct. 31, 1994, 108 Stat. 4454, provided that, effective</i><i>with respect to fiscal years beginning on or after Apr. 1, 1996, subsection (a) of this section is amended by striking out “and in section 627 of this title”.</i>
+<i>Pub. L. 103–432, title II, §202(d)(1), (e), Oct. 31, 1994, 108 Stat. 4454, provided that, effective with respect to fiscal years beginning on or after Apr. 1, 1996, subsection (a) of this section is amended by striking out “and in section 627 of this title”.</i>
 
 #### Amendments
 

@@ -12,7 +12,7 @@ In the case of an individual, there shall be allowed as a deduction all the ordi
 
 #### Denial of Deduction for Amounts Paid or Incurred on Judgments in Suits Brought To Recover Price Increases in Purchase of New Principal Residence
 
-No deductions to be allowed in computing taxable income for two-thirds of any amount paid or incurred ona judgment entered against any person in a suit brought under section 208(b) of Pub. L. 94–12, see section 208(c) of Pub. L. 94–12, set out as a note under section 44 of this title.
+No deductions to be allowed in computing taxable income for two-thirds of any amount paid or incurred on a judgment entered against any person in a suit brought under section 208(b) of Pub. L. 94–12, see section 208(c) of Pub. L. 94–12, set out as a note under section 44 of this title.
 
 #### Cross References
 

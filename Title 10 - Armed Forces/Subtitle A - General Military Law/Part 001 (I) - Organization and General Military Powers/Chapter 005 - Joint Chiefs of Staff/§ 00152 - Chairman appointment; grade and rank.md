@@ -1,4 +1,4 @@
-### §152 . Chairman: appointment; grade and rank
+### §152. Chairman: appointment; grade and rank
 
 (a)
 

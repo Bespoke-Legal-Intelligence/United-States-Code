@@ -6,7 +6,7 @@ The Congress recognizes that poor health conditions and uncontrolled population 
 
 Large families in developing countries are the result of complex social and economic factors which change relatively slowly among the poor majority least affected by economic progress, as well as the result of a lack of effective birth control. Therefore, effective family planning depends upon economic and social change as well as the delivery of services and is often a matter of political and religious sensitivity. While every country has the right to determine its own policies with respect to population growth, voluntary population planning programs can make a substantial contribution to economic development, higher living standards, and improved health and nutrition.
 
-Good health conditions are a principal element in improved quality of life and contributeto the individual's capacity to participate in the development process, while poor health and debilitating disease can limit productivity.
+Good health conditions are a principal element in improved quality of life and contribute to the individual's capacity to participate in the development process, while poor health and debilitating disease can limit productivity.
 
 #### (b) Assistance for voluntary population planning
 
@@ -66,7 +66,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -140,7 +140,7 @@ Section 103(d) of Pub. L. 95–88 provided that: “The amendment made by subsec
 
 #### Delegation of Functions; Allocation of Funds
 
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept.29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 

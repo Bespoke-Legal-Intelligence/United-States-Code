@@ -6,7 +6,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (b) Membership of Board; designation of Chairman
 
-The Board shall consist of three members, who are broadly representative of the public interest,appointed by the President, by and with the advice and consent of the Senate. In appointing the members of the Board, the President shall designate the Chairman. Not more than two members of the Board shall be members of the same political party.
+The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointing the members of the Board, the President shalldesignate the Chairman. Not more than two members of the Board shall be members of the same political party.
 
 #### (c) Term of office
 
@@ -44,7 +44,7 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
-1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
+1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit UnionAdministration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 
 #### Effective Date of 1978 Amendment
 

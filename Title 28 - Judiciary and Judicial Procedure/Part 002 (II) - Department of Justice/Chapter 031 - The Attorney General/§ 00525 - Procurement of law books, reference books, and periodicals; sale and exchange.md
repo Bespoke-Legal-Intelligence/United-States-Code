@@ -1,0 +1,20 @@
+### §525. Procurement of law books, reference books, and periodicals; sale and exchange
+
+In the procurement of law books, reference books, and periodicals, the Attorney General may exchange or sell similar items and apply the exchange allowances or proceeds of such sales in whole or in part payment therefor.
+
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 341e.
+
+July 28, 1950, ch. 503, §3, 64 Stat. 380.
+
+The words “Attorney General” are substituted for “Department of Justice”.
+

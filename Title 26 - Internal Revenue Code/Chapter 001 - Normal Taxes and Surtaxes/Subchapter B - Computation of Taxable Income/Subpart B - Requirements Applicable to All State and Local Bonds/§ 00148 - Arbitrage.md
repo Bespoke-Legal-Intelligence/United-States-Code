@@ -96,7 +96,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) at no time during any bond year may the amount invested in nonpurpose investments with a yield materially higher than the yield on the issue exceed 150 percent of the debt service on the issue for the bond year, and
 
-&emsp;&emsp;&emsp;(ii) the aggregate amount invested as provided in clause (i) is promptly and appropriately reduced as the amount of outstanding bonds of the issue is reduced (or, in the case of a qualified mortgage bond or a qualified veterans’ mortgage bond, as the mortgages are repaid).
+&emsp;&emsp;&emsp;(ii) the aggregate amount invested as provided in clause (i) is promptly and appropriately reduced as the amount of outstanding bonds of the issue is reduced (or,in the case of a qualified mortgage bond or a qualified veterans’ mortgage bond, as the mortgages are repaid).
 
 #### (C) Exceptions for temporary period
 
@@ -174,7 +174,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the gross proceeds of such issue are expended for the governmental purposes for which the issue was issued no later than the day which is 6 months after the date of issuance of the issue, and
+&emsp;&emsp;&emsp;&emsp;(I) the gross proceeds of such issue are expended for the governmental purposesfor which the issue was issued no later than the day which is 6 months after the date of issuance of the issue, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements of paragraph (2) are met with respect to amounts not required to be spent as provided in subclause (I) (other than earnings on amounts in any bona fide debt service fund).
 
@@ -294,7 +294,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Yield restriction at close of temporary period
 
-&emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which isnot spent for the governmental purposes of the issue as of the close of such initial temporary period is invested at a yield not exceeding the yield on the issue or which is invested in any tax-exempt bond which is not investment property.
+&emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which is not spent for the governmental purposes of the issue as of the close of such initial temporary period is invested at a yield not exceeding the yield on the issue or which is invested in any tax-exempt bond which is not investment property.
 
 #### (III) Redemption of bonds at earliest call date
 
@@ -312,7 +312,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(IV) the issuer makes an election under this clause before the close of the initial temporary period and not later than 90 days after the date the construction is substantially completed,
 
-&emsp;&emsp;&nbsp;then clauses (vii) and (viii) shall be applied to the available construction proceeds so identified as if the initial temporary period ended as of the date the election is made.
+&emsp;&emsp;&nbsp;then clauses (vii) and (viii) shall be applied to the available construction proceeds soidentified as if the initial temporary period ended as of the date the election is made.
 
 #### (x) Failure to pay penalties
 
@@ -386,7 +386,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(II) all bonds issued by a governmental unit to make loans to other governmental units with general taxing powers not subordinate to such unit shall, for purposes of applying such subclause to such unit, be treated as not issued by such unit.
 
-&emsp;&emsp;&emsp;&emsp;(III) all bonds issued by a subordinate entity shall, for purposes of applying such subclause to each other entity to which such entity is subordinate, be treated as issued by such other entity, and
+&emsp;&emsp;&emsp;&emsp;(III) all bonds issued by a subordinate entity shall, for purposes of applying such subclause to each other entity to which such entity is subordinate, betreated as issued by such other entity, and
 
 &emsp;&emsp;&emsp;&emsp;(IV) an entity formed (or, to the extent provided by the Secretary, availed of) to avoid the purposes of such subclause (IV) and all other entities benefiting thereby shall be treated as 1 issuer.
 
@@ -426,7 +426,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(II) no bond issued as part of such issue was an industrial development bond (as defined in section 103(b)(2), but without regard to subparagraph (B) of section 103(b)(3)) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(C)), and
 
-&emsp;&emsp;&emsp;&emsp;(III) the aggregate face amount of all tax-exempt bonds (other than bonds described in subclause (II)) issued by suchunit during the calendar year in which such issue was issued did not exceed $5,000,000.
+&emsp;&emsp;&emsp;&emsp;(III) the aggregate face amount of all tax-exempt bonds (other than bonds described in subclause (II)) issued by such unit during the calendar year in which such issue was issued did not exceed $5,000,000.
 
 &emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similar to the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
 
@@ -506,7 +506,7 @@ For purposes of this section, the yield on an issue shall be determined on the b
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b),title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513.)
 
 #### References in Text
 
@@ -524,7 +524,7 @@ Subsec. (f)(4)(B)(i). Pub. L. 101–508, §11701(j)(2), substituted in last sent
 
 Subsec. (f)(4)(B)(i)(II). Pub. L. 101–508, §11701(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the requirements of paragraph (2) are met after such 6 months with respect to earnings on amounts in any reasonably required reserve or replacement fund.”
 
-Subsec. (f)(4)(B)(iv). Pub. L. 101–508, §11701(j)(4), amended cl. (iv) generally, substituting present provisions for provisions which provided for a special rule to be applied during a 2-year period for certain construction bonds from issues in which at least 75 percent of the net proceeds of the issue were to be used for construction expenditures with respect to property which was owned by a governmental unit or a 501(c)(3) organization.
+Subsec. (f)(4)(B)(iv). Pub. L. 101–508, §11701(j)(4), amended cl. (iv) generally, substituting present provisions for provisions which provided for a special rule to be applied during a 2-year period for certain construction bonds from issues in which at least 75 percent ofthe net proceeds of the issue were to be used for construction expenditures with respect to property which was owned by a governmental unit or a 501(c)(3) organization.
 
 Subsec. (f)(4)(C) to (E). Pub. L. 101–508, §11701(j)(3)(A), (B), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -576,7 +576,7 @@ Subsec. (f)(7)(B). Pub. L. 100–647, §1013(a)(19), substituted “not due” f
 
 Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
-Section 11701(j)(8) of Pub. L. 101–508 provided that: “Section 148(f)(4)(C)(xiii)(II) of such Code (as added bythis subsection) shall apply only to refunding bonds issued after August 3, 1990.”
+Section 11701(j)(8) of Pub. L. 101–508 provided that: “Section 148(f)(4)(C)(xiii)(II) of such Code (as added by this subsection) shall apply only to refunding bonds issued after August 3, 1990.”
 
 #### Effective Date of 1989 Amendment
 
@@ -598,7 +598,7 @@ Section 1013(a)(43)(C) of Pub. L. 100–647 provided that: “The amendments mad
 
 Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amounts elected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
+Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amounts elected, after Dec. 31, 1988, see section 4005(h)(1) of Pub.L. 100–647, set out as a note under section 143 of this title.
 
 Amendment by section 5053(b) of Pub. L. 100–647 applicable, with certain exceptions, to obligations issued after Oct. 21, 1988, see section 5053(c) of Pub. L. 100–647, set out as a note under section 145 of this title.
 

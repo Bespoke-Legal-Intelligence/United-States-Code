@@ -1,4 +1,4 @@
-### §151 . Joint Chiefs of Staff: composition; functions
+### §151. Joint Chiefs of Staff: composition; functions
 
 (a)
 

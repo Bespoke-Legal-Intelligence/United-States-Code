@@ -22,33 +22,33 @@
 | [4105\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004105%20-%20Federal%20cost%20limits%20and%20limitations%20on%20plans%20of%20action.md) | Federal cost limits and limitations on plans of action. |
 | (a) | Determination of relationship to Federal cost limits. |
 | (b) | Limitations on action pursuant to Federal cost limits. |
-| 4106\. | Information from Secretary. |
+| [4106\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004106%20-%20Information%20from%20Secretary.md) | Information from Secretary. |
 | (a) | Information to owners terminating affordability restrictions. |
 | (b) | Information to owners extending low-income affordability restrictions. |
 | (c) | Availability to tenants. |
 | (d) | Second notice of intent. |
-| 4107\. | Plan of action. |
+| [4107\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004107%20-%20Plan%20of%20action.md) | Plan of action. |
 | (a) | Submission to Secretary. |
 | (b) | Contents. |
 | (c) | Revisions. |
-| 4108\. | Prepayment and voluntary termination. |
+| [4108\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004108%20-%20Prepayment%20and%20voluntary%20termination.md) | Prepayment and voluntary termination. |
 | (a) | Approval. |
 | (b) | Standards and procedure for written findings. |
 | (c) | Disapproval. |
-| 4109\. | Incentives to extend low-income use. |
+| [4109\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004109%20-%20Incentives%20to%20extend%20low-income%20use.md) | Incentives to extend low-income use. |
 | (a) | Agreements by Secretary. |
 | (b) | Permissible incentives. |
-| 4110\. | Incentives for transfer to qualified purchasers. |
+| [4110\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004110%20-%20Incentives%20for%20transfer%20to%20qualified%20purchasers.md) | Incentives for transfer to qualified purchasers. |
 | (a) | In general. |
 | (b) | Right of first offer to priority purchasers. |
 | (c) | Right of refusal for other qualified purchasers. |
 | (d) | Assistance. |
-| 4111\. | Mandatory sale for housing exceeding Federal cost limits. |
+| [4111\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004111%20-%20Mandatory%20sale%20for%20housing%20exceeding%20Federal%20cost%20limits.md) | Mandatory sale for housing exceeding Federal cost limits. |
 | (a) | In general. |
 | (b) | Right of first refusal to priority purchasers. |
 | (c) | Right of refusal for other qualified purchasers. |
 | (d) | Assistance. |
-| 4112\. | Criteria for approval of plan of action involving incentives. |
+| [4112\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004112%20-%20Criteria%20for%20approval%20of%20plan%20of%20action%20involving%20incentives.md) | Criteria for approval of plan of action involving incentives. |
 | (a) | In general. |
 | (b) | Implementation. |
 | (c) | Determination of remaining useful life. |

@@ -12,11 +12,11 @@ Section 1 of Pub. L. 95–568 provided: “That this Act \[enacting sections 271
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: “This Act \[amending sections 2996, 2996c, and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of thistitle\] may be cited as the ‘Legal Services Corporation Act Amendments of 1977’.”
+Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: “This Act \[amending sections 2996, 2996c, and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of this title\] may be cited as the ‘Legal Services Corporation Act Amendments of 1977’.”
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: “This Act \[enacting section 2985c–1 of this title, amending sections 2706, 2707, 2712, 2714, 2781, 2790, 2809, 2812, 2814, 2828, 2829, 2855, 2901, 2902, 2928c, 2928f, 2928<i>l</i>, 2928n, 2930e, 2930f, 2941, 2942, 2943, 2944, 2948, 2951, 2971f, 2971g, 2982a, 2982c, 2984, 2984a, and 2985 to 2985g of this title, enacting provision set out as a note under this section, and amending provisions set out as notes under this section and section 2942 of this title\] may be cited as the ‘Community Services Act Technical Amendments of 1976’.”
+Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: “This Act \[enacting section 2985c–1 of this title, amending sections 2706, 2707, 2712, 2714, 2781, 2790, 2809, 2812, 2814, 2828, 2829, 2855, 2901, 2902, 2928c, 2928f, 2928<i>l</i>, 2928n, 2930e, 2930f, 2941, 2942, 2943, 2944, 2948, 2951, 2971f, 2971g, 2982a, 2982c, 2984, 2984a, and 2985 to 2985g of this title, enacting provision set out as a note under thissection, and amending provisions set out as notes under this section and section 2942 of this title\] may be cited as the ‘Community Services Act Technical Amendments of 1976’.”
 
 #### Short Title of 1975 Amendments
 

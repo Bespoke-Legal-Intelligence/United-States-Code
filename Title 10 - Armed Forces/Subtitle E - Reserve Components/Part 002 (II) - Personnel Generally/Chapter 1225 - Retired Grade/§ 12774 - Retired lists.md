@@ -1,4 +1,4 @@
-### §12774 . Retired lists
+### §12774. Retired lists
 
 (a) Under regulations prescribed by the Secretary concerned, there shall be maintained retired lists containing the names of the Reserves of the armed forces under the Secretary's jurisdiction who are in the Retired Reserve.
 

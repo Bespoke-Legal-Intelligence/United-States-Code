@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) expenditures for all purposes other than personal services;
 
-> &emsp;which are attributable to the function, activity, or authority and which will be required tobe effected by the Executive agency in connection with the performance thereof; and
+> &emsp;which are attributable to the function, activity, or authority and which will be required to be effected by the Executive agency in connection with the performance thereof; and
 
 &emsp;(B) such other statement, discussion, explanation, or other information as is considered advisable by the appropriate authority of the executive branch or that is required by Congress or a committee thereof.
 

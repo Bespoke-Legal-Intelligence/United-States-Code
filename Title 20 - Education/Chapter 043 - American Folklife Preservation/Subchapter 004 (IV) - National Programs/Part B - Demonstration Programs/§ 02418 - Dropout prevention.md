@@ -26,5 +26,5 @@ In awarding grants under this section, the Secretary shall give priority to part
 
 &emsp;(2) utilize measures to integrate basic and academic skills instruction with work experience and vocational education.
 
-(Pub. L. 88 210, title IV, §418, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 819.)
+(Pub. L. 88–210, title IV, §418, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 819.)
 

@@ -1,4 +1,4 @@
-### §630 . Discharge of regular commissioned officers with less then five years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade)
+### §630. Discharge of regular commissioned officers with less then five years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade)
 
 The Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense—
 

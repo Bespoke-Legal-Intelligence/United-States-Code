@@ -40,7 +40,7 @@ The Tribe, in consultation with the Secretary, shall take such actions as are re
 
 #### (f) Terms and conditions of acquisition
 
-All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribe and the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
+All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribeand the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
 
 #### (g) Authority to erect permanent improvements on Existing and Expanded Reservation land and non-Reservation land held in trust
 

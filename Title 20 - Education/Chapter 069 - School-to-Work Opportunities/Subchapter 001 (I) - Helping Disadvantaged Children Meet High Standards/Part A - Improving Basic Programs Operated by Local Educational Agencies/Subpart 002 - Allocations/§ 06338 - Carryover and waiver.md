@@ -16,5 +16,5 @@ A State educational agency may, once every three years, waive the percentage lim
 
 The percentage limitation under subsection (a) of this section shall not apply to any local educational agency that receives less than $50,000 under this subpart for any fiscal year.
 
-(Pub. L. 89 10, title I, §1127, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3577.)
+(Pub. L. 89–10, title I, §1127, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3577.)
 

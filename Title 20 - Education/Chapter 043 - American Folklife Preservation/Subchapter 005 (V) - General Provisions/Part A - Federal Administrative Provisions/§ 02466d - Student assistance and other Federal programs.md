@@ -12,9 +12,9 @@ The attendance costs described in this subsection are—
 
 &emsp;(2) an allowance for books, supplies, transportation, dependent care, and miscellaneous personal expenses for a student attending the institution on at least a half-time basis, as determined by the institution.
 
-(Pub. L. 88 210, title V, §507, as added Pub. L. 101 392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831.)
+(Pub. L. 88–210, title V, §507, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831.)
 
 #### Effective Date
 
-Section effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Section effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
 

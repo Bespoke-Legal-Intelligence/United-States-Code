@@ -18,7 +18,7 @@ Subject to section 2343 of this title and subject to the availability of appropr
 
 #### Amendments
 
-1994—Par. (1). Pub. L. 103–337 substituted a comma for “and” after “countries” and inserted “, and from the United Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
+1994—Par. (1). Pub. L. 103–337 substituted a comma for “and” after “countries” and inserted “, and from theUnited Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
 
 1992—Par. (1). Pub. L. 102–484, §1312(a)(1), substituted “outside the United States” for “in Europe and adjacent waters”.
 
@@ -48,9 +48,7 @@ Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which author
 
 #### Overseas Workload Program
 
-Pub. L. 101–510, div. A, title XIV, §1465, Nov. 5, 1990, 104 Stat. 1700, as amended by Pub. L. 102–190, div. A, title X, §1085, Dec. 5, 1991, 105 Stat. 1483; Pub. L. 102–484, div. A, title XIII, §1353, Oct. 23, 1992, 106 Stat. 2559, which related to eligibility of a firm of any member nation of North Atlantic Treaty Organization (NATO) or of any major non-NATO ally to bid on any contract for maintenance, repair, or overhaul of equipment of the Department of Defense to be awarded under competitive procedures as part of the Overseas Workload Program, was repealed and restated in section 2349 of this title by Pub. L. 103–160, div. A, title XIV, §1431(a)(1), (b)(1), Nov. 30, 1993, 107 Stat. 1832, 1833.
-
-Similar provisions were contained in the following authorization or appropriation acts:
+Pub. L. 101–510, div. A, title XIV, §1465, Nov. 5, 1990, 104 Stat. 1700, as amended by Pub. L. 102–190, div. A, title X, §1085, Dec. 5, 1991, 105 Stat. 1483; Pub. L. 102–484, div. A, title XIII, §1353, Oct. 23, 1992, 106 Stat. 2559, which related to eligibility of a firm of any member nation of North Atlantic Treaty Organization (NATO) or of any major non-NATO ally to bid on any contract for maintenance, repair, or overhaul of equipment of the Department of Defense to be awarded under competitive procedures as part of the Overseas Workload Program, was repealed and restated in section 2349 of this title by Pub. L. 103–160, div. A, title XIV, §1431(a)(1), (b)(1), Nov. 30, 1993, 107 Stat. 1832, 1833. Similar provisions were contained in the following authorization or appropriation acts:
 
 Pub. L. 102–396, title IX, §9130, Oct. 6, 1992, 106 Stat. 1935, as amended by Pub. L. 103–160, div. A, title XIV, §1431(b)(2), Nov. 30, 1993, 107 Stat. 1833.
 

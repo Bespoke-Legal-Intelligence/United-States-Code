@@ -72,7 +72,7 @@ The Tax Reduction Act of 1975, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 
 
 Subsec. (a)(1)(C). Pub. L. 103–66, §13231(a), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: “For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year.”
+Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: “For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during whichthe corporation is a controlled foreign corporation bears to the entire year.”
 
 1988—Subsec. (b). Pub. L. 100–647 substituted “section 957(c)” for “section 957(d)”.
 

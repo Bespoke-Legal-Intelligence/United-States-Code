@@ -74,19 +74,19 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 Notwithstanding any other provisions of law, any funds expended prior to July 1, 1995, under part B of the Drug-Free Schools and Communities Act of 1986 (as in effect prior to October 20, 1994) for the support of a comprehensive school health program shall be deemed to have been authorized by part B of such Act.
 
-(Pub. L. 89 10, title IV, §4116, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3682.)
+(Pub. L. 89–10, title IV, §4116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3682.)
 
 #### References in Text
 
-Part B of the Drug-Free Schools and Communities Act of 1986 (as in effect prior to October 20, 1994), referred to in subsec. (d), means part B of title V of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 254, as amended, which was classified generally to part B (§3191 et seq.) of subchapter V of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Part B of the Drug-Free Schools and Communities Act of 1986 (as in effect prior to October 20, 1994), referred to in subsec. (d), means part B of title V of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 254, as amended, which was classified generally to part B (§3191 et seq.) of subchapter V of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Codification
 
-October 20, 1994, referred to in subsec. (d), was in the original “enactment of the Improving America's Schools Act”, which was translated as meaning enactment of the Improving America's Schools Act of 1994, Pub. L. 103 382, to reflect the probable intent of Congress.
+October 20, 1994, referred to in subsec. (d), was in the original “enactment of the Improving America's Schools Act”, which was translated as meaning enactment of the Improving America's Schools Act of 1994, Pub. L. 103–382, to reflect the probable intent of Congress.
 
 #### Development of Model Program of Strategies and Tactics
 
-Pub. L. 101 647, title XV, §1501, Nov. 29, 1990, 104 Stat. 4836, provided that:
+Pub. L. 101–647, title XV, §1501, Nov. 29, 1990, 104 Stat. 4836, provided that:
 
 “(a)
 

@@ -48,7 +48,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 &emsp;&emsp;The partial tax shall be reduced by an amount which is equal to the pre-death portion of the partial tax multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is that portion of the tax imposed by chapter 11 or 13, as the case may be, which is attributable (on a proportionate basis) to amounts included in the accumulation distribution, and
+&emsp;&emsp;&emsp;(i) the numerator of which is that portion of the tax imposed by chapter 11 or 13,as the case may be, which is attributable (on a proportionate basis) to amounts included in the accumulation distribution, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is the amount of the accumulation distribution which is subject to the tax imposed by chapter 11 or 13, as the case may be.
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 95–600, §701(q)(1)(B), added subsec. (d).
 
 Subsec. (e). Pub. L. 95–600, §701(r)(1), added subsec. (e).
 
-1977—Subsec. (b)(2). Pub. L. 95–30 substituted “not less than (A) in the case of a beneficiary who is an individual, the zero bracket amount for such year, or (B) inthe case of a beneficiary who is a corporation, zero” for “not less than zero”.
+1977—Subsec. (b)(2). Pub. L. 95–30 substituted “not less than (A) in the case of a beneficiary who is an individual, the zero bracket amount for such year, or (B) in the case of a beneficiary who is a corporation, zero” for “not less than zero”.
 
 1976—Pub. L. 94–455, §§701(a)(1), 1014(a), substituted provisions relating to the treatment of amounts deemed distributed by trust in preceding years for provisions that no refund or credit be allowed to a trust for any preceding taxable year by reason of a distribution deemed to have been made by such trust in such year under section 666 or 669 and that there be allowed as a credit against the tax imposed by this subtitle on the beneficiary an amount equal to the amount of the taxes deemed distributed to such beneficiary by the trust under sections 666(b) and (c) and 669(d) and (e) during preceding taxable years of the trust on the last day of which the beneficiary was in being, reduced by the amount of the taxes deemed distributed to such beneficiary for such preceding taxable years to the extent that such taxes are taken into account under sections 668(b)(1) and 669(b) in determining the amount of the tax imposed by section 668. See section 666(e) of this title.
 

@@ -8,5 +8,5 @@ Each entity desiring assistance under this subpart shall submit an application t
 
 Before submitting an application under subsection (a) of this section to the Secretary, the entity shall submit its application to the State educational agency. The State educational agency may comment on such application, however if such agency comments on such application such agency shall comment on all applications submitted by entities within the State and shall provide such comments to the appropriate local educational agency, which local educational agency shall be given an opportunity to respond to such comments.
 
-(Pub. L. 89 10, title IX, §9118, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3782.)
+(Pub. L. 89–10, title IX, §9118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3782.)
 

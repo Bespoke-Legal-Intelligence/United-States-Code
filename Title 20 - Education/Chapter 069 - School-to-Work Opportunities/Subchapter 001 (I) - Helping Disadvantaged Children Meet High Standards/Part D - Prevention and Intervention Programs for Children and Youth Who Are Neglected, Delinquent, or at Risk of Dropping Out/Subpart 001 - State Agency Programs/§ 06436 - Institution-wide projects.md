@@ -18,7 +18,7 @@ A State agency that provides free public education for children and youth in an 
 
 &emsp;(8) includes an assurance that the State agency has provided for appropriate training for teachers and other instructional and administrative personnel to enable such teachers and personnel to carry out the project effectively.
 
-(Pub. L. 89 10, title I, §1416, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3596.)
+(Pub. L. 89–10, title I, §1416, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3596.)
 
 #### Section Referred to in Other Sections
 

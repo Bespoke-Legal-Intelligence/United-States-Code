@@ -1,4 +1,4 @@
-### §7211 . Attendance at meetings of technical, professional, or scientific organizations
+### §7211. Attendance at meetings of technical, professional, or scientific organizations
 
 (a) The Secretary of the Navy may authorize—
 

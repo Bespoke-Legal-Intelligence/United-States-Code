@@ -22,7 +22,7 @@ In administering programs receiving funds under this section, each State correct
 
 &emsp;(4) in cooperation with eligible recipients, administer and coordinate vocational education services to offenders before and after their release.
 
-(Pub. L. 88 210, title II, §225, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 778.)
+(Pub. L. 88–210, title II, §225, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778.)
 
 #### Section Referred to in Other Sections
 

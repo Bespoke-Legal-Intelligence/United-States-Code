@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Military Recruiting on Campus
 
@@ -66,5 +66,5 @@ Pub. L. 96–342, title III, §302(d), Sept. 8, 1980, 94 Stat. 1083, provided th
 
 &emsp;“(1) that secondary educational institutions in the United States, the Commonwealth of Puerto Rico, and the territories of the United States should cooperate with the Armed Forces by allowing recruiting personnel access to such institutions; and
 
-&emsp;“(2) that it is appropriate for such institutions to release to the Armed Forces information regardingstudents at such institutions (including such data as names, addresses, and education levels) which is relevant to recruiting individuals for service in the Armed Forces.”
+&emsp;“(2) that it is appropriate for such institutions to release to the Armed Forces information regarding students at such institutions (including such data as names, addresses, and education levels) which is relevant to recruiting individuals for service in the Armed Forces.”
 

@@ -24,7 +24,7 @@ July 9, 1952, ch. 608, §207(c), 66 Stat. 483.
 
 Pub. L. 103–337, §1662(e)(2), renumbered section 675 of this title as this section.
 
-1989—Pub. L. 101–189 inserted at end “A member of the Ready Reserve (other than a member transferred to the Retired Reserve under section 1001(b) of this title) who is ordered to active duty or other appropriate duty in a retired status may be credited under chapter 67 of this title with service performed pursuant to such order. A member in a retired status is not eligible for promotion (or for consideration for promotion) as a Reserve.”
+1989—Pub. L. 101–189 inserted at end “A member of the Ready Reserve (other than a member transferred to the Retired Reserve under section 1001(b) of this title)who is ordered to active duty or other appropriate duty in a retired status may be credited under chapter 67 of this title with service performed pursuant to such order. A member in a retired status is not eligible for promotion (or for consideration for promotion) as a Reserve.”
 
 1983—Pub. L. 98–94 inserted reference to section 688.
 

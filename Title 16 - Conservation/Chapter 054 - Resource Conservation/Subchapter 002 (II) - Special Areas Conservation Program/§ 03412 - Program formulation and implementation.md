@@ -38,7 +38,7 @@ The landowner or operator, in any contract entered into under this subchapter, s
 
 #### (e) Cost sharing under contract
 
-In return for such agreement by the landowner or operator, the Secretary shall agree to share the cost of carrying out those conservation practices and measures set forth in the contract for which the Secretary determines that cost sharing is appropriate and in the public interest.The portion of the costs to be shared shall be that part which the Secretary determines is necessary and appropriate to effectuate the implementation, and, if applicable, the maintenance of the conservation practices and measures under the contract, including the cost of labor. In determining the share of costs to be borne by the Federal Government, the Secretary shall take into consideration the particular social, economic, and environmental conditions of the geographic area involved and the degree of conservation to be achieved. The Secretary shall determine the maximum amount of cost-share assistance that may be provided to any single recipient. If adjustments from cultivated crops to permanent vegetative cover or changes in crop varieties are undertaken as a conservation practice or measure under the contract, cost-share assistance may be provided under such contract with regard to the income lost as a result of such adjustments.
+In return for such agreement by the landowner or operator, the Secretary shall agree to share the cost of carrying out those conservation practices and measures set forth in the contract for which the Secretary determines that cost sharing is appropriate and in the public interest. The portion of the costs to be shared shall be that part which the Secretary determines is necessary and appropriate to effectuate the implementation, and, if applicable, the maintenance of the conservation practices and measures under the contract, including the cost of labor. In determining the share of costs to be borne by the Federal Government, the Secretary shall take into consideration the particular social, economic, and environmental conditions of the geographic area involved and the degree of conservation to be achieved. The Secretary shall determine the maximum amount of cost-share assistance that may be provided to any single recipient. If adjustments from cultivated crops to permanent vegetative cover or changes in crop varieties are undertaken as a conservation practice or measure under the contract, cost-share assistance may be provided under such contract with regard to the income lost as a result of such adjustments.
 
 #### (f) Termination, modification, etc., of contract
 
@@ -52,5 +52,5 @@ The Secretary may also enter into contracts with landowners or operators for the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3414, 3415 of this title.
+This section is referred to in section 3414 of this title.
 

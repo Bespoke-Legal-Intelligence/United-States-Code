@@ -2,7 +2,7 @@
 
 #### (a) Information; consultations; separate official views; partial report concerning uranium mill tailings provisions
 
-Beginning on January 1, 1980, and each year thereafter until January 1, 1986, the Secretaryshall submit a report to the Congress with respect to the status of the actions required to be taken by the Secretary, the Commission, the Secretary of the Interior, the Administrator, and the States and Indian tribes under this chapter and any amendments to other laws made by this Act. Each report shall—
+Beginning on January 1, 1980, and each year thereafter until January 1, 1986, the Secretary shall submit a report to the Congress with respect to the status of the actions required to be taken by the Secretary, the Commission, the Secretary of the Interior, the Administrator, and the States and Indian tribes under this chapter and any amendments to other laws made by this Act. Each report shall—
 
 &emsp;(1) include data on the actual and estimated costs of the program authorized by this subchapter;
 
@@ -40,9 +40,9 @@ Title II of this Act, referred to in subsec. (a), is title II (§§201–209) of
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “radioactive”.</i>
 

@@ -34,7 +34,7 @@ The National Diffusion Network State Facilitators shall provide professional dev
 
 &emsp;(2) securing the technical assistance and professional development services that can best fulfill such needs by utilizing the services of the comprehensive regional assistance centers, the regional education laboratories, the Eisenhower regional consortia, State Literacy Resource Centers authorized under the National Literacy Act of 1991 and other technical assistance providers, including local providers of professional development services;
 
-&emsp;(3) identifying educational technology needs and securing the necessary technical assistance to address such needs in coordination with the Eisenhower regional consortia under part C of this subchapter and the regional technical assistance and professional development consortia under subpart 3<sup>1</sup> of subchapter III of this chapter; and
+&emsp;(3) identifying educational technology needs and securing the necessary technical assistance to address such needs in coordination with the Eisenhower regional consortia under part C of this subchapter and the regional technical assistance and professional development consortia under subpart 3 <sup>1</sup> of subchapter III of this chapter; and
 
 &emsp;(4) utilizing technology, including regional and national electronic networks, to increase such entities’ access to technical assistance, professional development services, and dissemination of effective programs and promising practices.
 
@@ -70,15 +70,15 @@ In addition, National Diffusion Network State Facilitators shall—
 
 &emsp;&emsp;(B) local educational agencies and Bureau-funded schools with the highest percentages or numbers of children in poverty.
 
-(Pub. L. 89 10, title XIII, §13201, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3880.)
+(Pub. L. 89–10, title XIII, §13201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3880.)
 
 #### References in Text
 
-The National Literacy Act of 1991, referred to in subsec. (e)(2), is Pub. L. 102 73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of this title and Tables.
+The National Literacy Act of 1991, referred to in subsec. (e)(2), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8622, 8623 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “subpart 3 of part A”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subpart 3 of part A”.</i>
 

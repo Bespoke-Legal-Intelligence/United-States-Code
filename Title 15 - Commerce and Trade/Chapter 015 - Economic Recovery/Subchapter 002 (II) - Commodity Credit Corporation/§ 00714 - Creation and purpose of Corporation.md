@@ -22,5 +22,5 @@ For exception of functions of corporations of Department of Agriculture from tra
 
 #### Establishing Quality as Goal for Commodity Credit Corporation Programs
 
-Pub. L. 101–624, title XXV, §2518, Nov. 28, 1990, 104 Stat. 4078, provided that: “In carrying out its activities the Commodity Credit Corporation shall, to the extent practicable, provide for program provisions that promote quality in the production and marketing of crops and livestock in the United States.”
+Pub. L. 101–624, title XXV, §2517, formerly §2518, Nov. 28, 1990, 104 Stat. 4078, as renumbered by Pub. L. 104–66, title I, §1011(h), Dec. 21, 1995, 109 Stat. 710, provided that: “In carrying out its activities the Commodity Credit Corporation shall, to the extent practicable, provide for program provisions that promote quality in the production and marketing of crops and livestock in the United States.”
 

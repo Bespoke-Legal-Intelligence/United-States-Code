@@ -2,5 +2,5 @@
 
 Section 5908 of title 42 shall apply to any contract (including any assignment, substitution of parties, or subcontract thereunder) or grant, entered into, made, or issued by the Secretary of Energy under this chapter.
 
-(Pub. L. 95 238, title III, §308, Feb. 25, 1978, 92 Stat. 82.)
+(Pub. L. 95–238, title III, §308, Feb. 25, 1978, 92 Stat. 82.)
 

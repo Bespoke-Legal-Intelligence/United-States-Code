@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to provide for allotments to support State Developmental Disabilities Councils in each State to promote, through systemic change, capacity building, and advocacy activities that are consistent with the policy under section 6000(c)(2) of this title, the development of a consumer and family-centered, comprehensive system and a coordinated array of culturally competent services, supports, and other assistance designed to achieve independence, productivity, and integration and inclusion into the community for individuals with developmental disabilities.
 
-(Pub. L. 88–164, title I, §121, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2670; amended Pub. L. 100–146, title II, §201(a), Oct. 29, 1987, 101 Stat. 845; Pub. L. 101–496, §10, Oct. 31, 1990, 104 Stat. 1195; Pub. L. 103–230, title II, §202, Apr. 6, 1994, 108 Stat. 297.)
+(Pub. L. 88–164, title I, §121, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2670; amendedPub. L. 100–146, title II, §201(a), Oct. 29, 1987, 101 Stat. 845; Pub. L. 101–496, §10, Oct. 31, 1990, 104 Stat. 1195; Pub. L. 103–230, title II, §202, Apr. 6, 1994, 108 Stat. 297.)
 
 #### Prior Provisions
 

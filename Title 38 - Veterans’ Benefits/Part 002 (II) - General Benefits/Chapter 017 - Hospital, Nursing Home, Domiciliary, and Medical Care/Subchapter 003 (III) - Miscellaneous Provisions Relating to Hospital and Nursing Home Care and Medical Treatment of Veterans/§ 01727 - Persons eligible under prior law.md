@@ -1,6 +1,6 @@
 ### §1727. Persons eligible under prior law
 
-Persons who have a status which would, under the laws in effect on December 31, 1957, entitlethem to the medical services, hospital and domiciliary care, and other benefits, provided for in this chapter, but who do not meet the service requirements contained in this chapter, shall be entitled to such benefits notwithstanding failure to meet such service requirements.
+Persons who have a status which would, under the laws in effect on December 31, 1957, entitle them to the medical services, hospital and domiciliary care, and other benefits, provided for in this chapter, but who do not meet the service requirements contained in this chapter, shall be entitled to such benefits notwithstanding failure to meet such service requirements.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §627; Pub. L. 94–581, title II, §202(m), Oct. 21, 1976, 90 Stat. 2856; renumbered §1727 Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

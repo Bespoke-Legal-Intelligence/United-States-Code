@@ -28,7 +28,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 #### (2) Implementation of plan for programs
 
-&emsp;(A) The Director of the Institute shall ensure that the research programs described in paragraph (1) are implemented in accordance with a plan for the programs. Such plan shall include comments and recommendations that the Director of the Institute considers appropriate, with due consideration provided to the professional judgment needs of the Institute as expressed in the annual budget estimate prepared in accordance with section 285a–2(9) <sup>2</sup> of this title. The Director of the Institute, in consultation with the National Cancer Advisory Board, shall periodically review and revise such plan.
+&emsp;(A) The Director of the Institute shall ensure that the research programs described in paragraph (1) are implemented in accordance with a plan for the programs. Such plan shall include comments and recommendations thatthe Director of the Institute considers appropriate, with due consideration provided to the professional judgment needs of the Institute as expressed in the annual budget estimate prepared in accordance with section 285a–2(9) <sup>2</sup> of this title. The Director of the Institute, in consultation with the National Cancer Advisory Board, shall periodically review and revise such plan.
 
 &emsp;(B) Not later than October 1, 1993, the Director of the Institute shall submit a copy of the plan to the President's Cancer Panel, the Secretary and the Director of NIH.
 
@@ -68,7 +68,7 @@ The Director of the Institute shall prepare, for inclusion in the biennial repor
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

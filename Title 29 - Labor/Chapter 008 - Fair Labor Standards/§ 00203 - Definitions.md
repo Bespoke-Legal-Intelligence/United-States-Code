@@ -20,11 +20,13 @@ As used in this chapter—
 
 &emsp;&emsp;(ii) in any executive agency (as defined in section 105 of such title),
 
-&emsp;&emsp;(iii) in any unit of the legislative or judicial branch of the Government which has positions in the competitive service,
+&emsp;&emsp;(iii) in any unit of the judicial branch of the Government which has positions in the competitive service,
 
-&emsp;&emsp;(iv) in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces, or
+&emsp;&emsp;(iv) in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces,
 
-&emsp;&emsp;(v) in the Library of Congress;
+&emsp;&emsp;(v) in the Library of Congress, or
+
+&emsp;&emsp;(vi) the <sup>1</sup> Government Printing Office;
 
 &emsp;(B) any individual employed by the United States Postal Service or the Postal Rate Commission; and
 
@@ -54,7 +56,7 @@ As used in this chapter—
 
 (B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
-(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or inconjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvestingof any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
 (g) “Employ” includes to suffer or permit to work.
 
@@ -78,7 +80,7 @@ As used in this chapter—
 
 (q) “Secretary” means the Secretary of Labor.
 
-(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, and agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brand name of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
+(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one ormore establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, and agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brand name of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
 
 (2) For purposes of paragraph (1), the activities performed by any person or persons—
 
@@ -112,9 +114,11 @@ As used in this chapter—
 
 (x) “Public agency” means the Government of the United States; the government of a State or political subdivision thereof; any agency of the United States (including the United States Postal Service and Postal Rate Commission), a State, or a political subdivision of a State; or any interstate governmental agency.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; May 5, 1961, Pub. L. 87–30, §2, 75 Stat. 65; Sept. 23, 1966, Pub. L. 89–601, title I, §§101–103, title II, §215(a), 80 Stat. 830–832, 837; June 23, 1972, Pub. L. 92–318, title IX, §906(b)(2), (3), 86 Stat. 375; Apr. 8, 1974, Pub. L. 93–259, §§6(a), 13(e), 88 Stat. 58, 64; Nov. 1, 1977, Pub. L. 95–151, §§3(a), (b), 9(a)–(c), 91 Stat. 1249, 1251; Nov. 13, 1985, Pub. L. 99–150, §§4(a), 5, 99 Stat. 790; Nov. 17, 1989, Pub. L. 101–157, §§3(a), (d), 5, 103 Stat. 938, 939, 941.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; May 5, 1961, Pub. L. 87–30, §2, 75 Stat. 65; Sept. 23, 1966, Pub. L. 89–601, title I, §§101–103, title II, §215(a), 80 Stat. 830–832, 837; June 23, 1972, Pub. L. 92–318, title IX, §906(b)(2), (3), 86 Stat. 375; Apr. 8, 1974, Pub. L. 93–259, §§6(a), 13(e), 88 Stat. 58, 64; Nov. 1, 1977, Pub. L. 95–151, §§3(a), (b), 9(a)–(c), 91 Stat. 1249, 1251; Nov. 13, 1985, Pub. L. 99–150, §§4(a), 5, 99 Stat. 790; Nov. 17, 1989, Pub. L. 101–157, §§3(a), (d), 5, 103 Stat. 938, 939, 941; Jan. 23, 1995, Pub. L. 104–1, title II, §203(d), 109 Stat. 10.)
 
 #### Amendments
+
+1995—Subsec. (e)(2)(A). Pub. L. 104–1 struck out “legislative or” before “judicial branch” in cl. (iii) and added cl. (vi).
 
 1989—Subsec. (m). Pub. L. 101–157, §5, substituted “in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991,” for “in excess of 40 per centum of the applicable minimum wage rate,”.
 
@@ -130,7 +134,7 @@ Subsec. (e)(4). Pub. L. 99–150, §4(a)(2), added par. (4).
 
 1977—Subsec. (m). Pub. L. 95–151, §3(b), substituted “45 per centum” for “50 per centum”, effective Jan. 1, 1979, and “40 per centum” for “45 per centum”, effective Jan. 1, 1980.
 
-Subsec. (s). Pub. L. 95–151, §9(a)–(c), in par. (1) inserted exception for enterprises comprised exclusivelyof retail or service establishments and described in par. (2), added par. (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and in text following par. (6), as so redesignated, inserted provisions relating to coverage of retail or service establishments subject to section 206(a)(1) of this title on June 30, 1978, and provisions relating to violations of such coverage requirements.
+Subsec. (s). Pub. L. 95–151, §9(a)–(c), in par. (1) inserted exception for enterprises comprised exclusively of retail or service establishments and described in par. (2), added par. (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and in text following par. (6), as so redesignated, inserted provisions relating to coverage of retail or service establishments subject to section 206(a)(1) of this title on June 30, 1978, and provisions relating to violations of such coverage requirements.
 
 Subsec. (t). Pub. L. 95–151, §3(a), substituted “$30” for “$20”.
 
@@ -178,7 +182,7 @@ Subsecs. (p) to (s). Pub. L. 87–30, §2(c), added subsecs. (p) to (s).
 
 Subsec. (j). Act Oct. 26, 1949, §3(b), inserted “closely related” before “process” and substituted “directly essential” for “necessary” after “occupation”.
 
-Subsec. (<i>l</i>)(1). Act Oct. 26, 1949, §3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
+Subsec. (<i>l</i>)(1). Act Oct. 26, 1949, §3(c), included parental employment of a child under 16 years of age in anoccupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
 
 Subsecs. (n), (<i>o</i>). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (<i>o).</i>
 
@@ -262,7 +266,7 @@ Section 15(c) of Pub. L. 95–151 provided that: “On and after the date of the
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Section 602 of Pub. L. 89–601 provided in part that: “On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regardto the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\].”
+Section 602 of Pub. L. 89–601 provided in part that: “On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\].”
 
 #### Cross References
 
@@ -271,4 +275,6 @@ Portal-to-Portal Act of 1947, sections 251 to 262 of this title, as affected by 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1802, 2001, 2611 of this title; title 8 sections 1101, 1186; title 26 section 45B; title 49 sections 3101, 31501.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “in”.</i>
 

@@ -1,0 +1,34 @@
+### §5203. Authorization of service by carrier
+
+(a) The Postal Service may establish mail routes and authorize mail transportation service thereon.
+
+(b) A carrier shall transport mail offered for transportation by the Postal Service in the manner, under the conditions, and with the service prescribed by the Postal Service. A carrier is entitled to receive fair and reasonable compensation for the transportation and service connected therewith.
+
+(c) The Postal Service shall determine the trains or motor vehicles upon which mail shall be transported, except that no carrier shall be compelled to transport mail on any train or vehicle which is operated exclusively for the transportation of passengers and their baggage.
+
+(d) A carrier shall transport with due speed such mail as the Postal Service directs under this section.
+
+(e) No carrier shall be required to serve territory it is not otherwise authorized to serve, to provide service for the Postal Service at a rate which is less than compensatory cost, or to provide service at a detriment to the carrier or its other customers.
+
+(f) Any order or determination of the Postal Service providing for the transportation of mail by a motor carrier shall be filed with the Board. If the Board finds, within 90 days after the filing, that the order or determination will be detrimental to the motor carrier or its other customers, or that such carrier does not operate equipment suitable for the transportation of mail, the order or determination shall be terminated.
+
+(g) An order or determination of the Postal Service under this section shall be consistent with the orders of the Board under sections 5207 and 5208 of this title.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(D), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §307(10), (14), Dec. 29, 1995, 109 Stat. 946.)
+
+#### Amendments
+
+1995—Subsec. (f). Pub. L. 104–88 substituted “motor carrier” for “motor common carrier” in two places and “Board” for “Commission” in two places.
+
+Subsec. (g). Pub. L. 104–88, §307(14), substituted “Board” for “Commission”.
+
+1978—Subsec. (f). Pub. L. 95–473 substituted “motor common carrier” for “motor carrier” in two places.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5206 of this title.
+

@@ -18,7 +18,7 @@ Any State wishing to receive a grant shall, through its State library administra
 
 &emsp;&emsp;(C) give priority in the selection of local public libraries to participate in the literacy materials and equipment loan program to public libraries within the State which serve those in greatest need;
 
-&emsp;&emsp;(D) coordinate the distribution of equipment and materials;<sup>1</sup>
+&emsp;&emsp;(D) coordinate the distribution of equipment and materials; <sup>1</sup>
 
 &emsp;&emsp;(E) provide training to local public library personnel;
 
@@ -38,11 +38,11 @@ The Secretary shall give priority to applicants whose applications comply with t
 
 &emsp;(B) low per capita income, or high concentrations of unemployment or underemployment.
 
-(June 19, 1956, ch. 407, title VIII, §813, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 110.)
+(June 19, 1956, ch. 407, title VIII, §813, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 110.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 386a, 386f of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “; and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b), no gain or loss shall be recognized to a corporation onthe distribution (not in complete liquidation) with respect to its stock of—
+Except as provided in subsection (b), no gain or loss shall be recognized to a corporation on the distribution (not in complete liquidation) with respect to its stock of—
 
 &emsp;(1) its stock (or rights to acquire its stock), or
 
@@ -188,7 +188,7 @@ Definitions.—For purposes of this paragraph—
 
 &emsp;&emsp;“(ii) The term ‘controlled corporation’ means a corporation with respect to which 50 percent or more of the outstanding stock of its common parent is tendered for pursuant to a tender offer outstanding on March 7, 1984.
 
-&emsp;&emsp;“(iii) The term ‘subsidiary controlled corporation’ means any corporation with respect to which the controlled corporation has control (within themeaning of section 368(c) of such Code) on March 7, 1984.
+&emsp;&emsp;“(iii) The term ‘subsidiary controlled corporation’ means any corporation with respect to which the controlled corporation has control (within the meaning of section 368(c) of such Code) on March 7, 1984.
 
 “(6)
 

@@ -110,11 +110,11 @@ In subsection (b)(2), the words “head of an agency” are substituted for “h
 
 #### Amendments
 
-1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1975—Subsec. (a)(4). Pub. L. 94–183 substituted “educational” for “education”.
+<b>1975</b>—Subsec. (a)(4). Pub. L. 94–183 substituted “educational” for “education”.
 
-1972—Subsec. (a)(1). Pub. L. 92–392 defined “employee” to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees “except as specifically provided under this paragraph”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–392 defined “employee” to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees “except as specifically provided under this paragraph”.
 
 #### Termination Date of 1982 Amendment
 
@@ -138,7 +138,7 @@ Functions vested in Office of Personnel Management under this section insofar as
 
 #### Federal Employees Flexible and Compressed Work Schedules
 
-Pub. L. 95–390, §§1–306, Sept. 29, 1978, 92 Stat. 755–762, as amended Pub. L. 97–160, Mar. 26, 1982, 96 Stat. 21, provided that:
+Pub. L. 95–390, §§1–306, Sept. 29, 1978, 92 Stat. 755–762, as amended by Pub. L. 97–160, Mar. 26, 1982, 96 Stat. 21, provided that:
 
 #### “short title
 
@@ -186,7 +186,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(c) The Commission shall provide educational material, and technical aids and assistance, for use by an agency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
 
-“(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agency in carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
+“(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agency in carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by theCommission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
 
 #### “TITLE I—FLEXIBLE SCHEDULING OF WORK HOURS
 
@@ -260,7 +260,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “credit hours; accumulation and compensation
 
-“Sec. 106. (a) Subject to any limitation prescribed by the Commission or the agency, a full-time employee on a flexible schedule can accumulate not more than 10 credit hours, and a part-time employee can accumulate not more than one-eighth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
+“Sec. 106. (a) Subject to any limitation prescribed by the Commission or the agency, a full-time employee on a flexible schedule can accumulate not more than 10 credit hours, and a part-time employee can accumulatenot more than one-eighth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
 
 “(b) Any employee who is on a flexible schedule experiment under this title and who is no longer subject to such an experiment shall be paid at such employee's then current rate of basic pay for—
 
@@ -398,5 +398,5 @@ Overtime and other premium pay, see section 5541 et seq. of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5504, 6122, 6127 of this title; title 20 section 241; title 32 section 709; title 40 sections 166b–1d, 166b–1e.
+This section is referred to in sections 5504, 6122, 6127 of this title; title 32 section 709; title 40 sections 166b–1d, 166b–1e.
 

@@ -54,7 +54,7 @@ The Congress declares that, in order to expedite and facilitate the implementati
 
 &emsp;(9) The Federal Government should support applied scientific research, when appropriate, in proportion to the probability of its usefulness, insofar as this probability can be determined; but while maximizing the beneficial consequences of technology, the Government should act to minimize foreseeable injurious consequences.
 
-&emsp;(10) Federal departments, agencies, and instrumentalities should establish procedures to insure among them the systematic interchange of scientific data and technological findings developed under their programs.
+&emsp;(10) Federal departments, agencies, and instrumentalities should establish procedures toinsure among them the systematic interchange of scientific data and technological findings developed under their programs.
 
 (Pub. L. 94–282, title I, §102, May 11, 1976, 90 Stat. 460.)
 

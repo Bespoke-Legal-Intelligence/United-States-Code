@@ -1,4 +1,4 @@
-### §7854 . Availability of material for Naval Militia
+### §7854. Availability of material for Naval Militia
 
 Under regulations prescribed by the Secretary of the Navy, vessels, material, armament, equipment, and other facilities of the Navy and the Marine Corps available to the Naval Reserve and the Marine Corps Reserve may also be made available for issue or loan to any State, any Territory, or the District of Columbia for the use of its Naval Militia if—
 

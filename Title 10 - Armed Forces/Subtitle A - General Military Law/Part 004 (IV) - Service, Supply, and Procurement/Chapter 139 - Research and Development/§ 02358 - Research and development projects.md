@@ -116,7 +116,7 @@ Eligible States.—(1) The Director of the National Science Foundation shall des
 
 “(2) The Director of the National Science Foundation shall designate a State as an eligible State if, as determined by the Director—
 
-&emsp;“(A) the institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in theState for the fiscal year preceding the fiscal year for which the designation is effective, or for the last fiscal year for which statistics are available, is less than the amount equal to 60 percent of the national institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in the United States for such preceding or last fiscal year, as the case may be;
+&emsp;“(A) the institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in the State for the fiscal year preceding the fiscal year for which the designation is effective, or for the last fiscal year for which statistics are available, is less than the amount equal to 60 percent of the national institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in the United States for such preceding or last fiscal year, as the case may be;
 
 &emsp;“(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State; and
 
@@ -190,7 +190,7 @@ Funding.—Of the amounts authorized to be appropriated under section 201 \[107 
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 
-Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
+Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense,potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
 
 #### Relationship of Research Projects or Studies to Military Function or Operation
 
@@ -198,7 +198,7 @@ Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 Stat. 908, which provided th
 
 #### Herbicides and Defoliation Program; Comprehensive Study and Investigation; Report by January 31, 1972; Transmittal to President and Congress by March 1, 1972
 
-Pub. L. 91–441, title V, §506(c), Oct. 7, 1970, 84 Stat. 913, directed Secretary of Defense to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation to determine (A) ecological and physiological dangers inherent in use of herbicides, and (B) ecological and physiological effects of defoliation program carriedout by Department of Defense in South Vietnam, with a report on the study to be transmitted to President and Congress by Mar. 1, 1972.
+Pub. L. 91–441, title V, §506(c), Oct. 7, 1970, 84 Stat. 913, directed Secretary of Defense to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation to determine (A) ecological and physiological dangers inherent in use of herbicides, and (B) ecological and physiological effects of defoliation program carried out by Department of Defense in South Vietnam, with a report on the study to be transmitted to President and Congress by Mar. 1, 1972.
 
 #### Campuses Barring Military Recruiters; Cessation of Payments; Notification of Secretary of Defense
 

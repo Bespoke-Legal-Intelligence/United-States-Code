@@ -4,7 +4,7 @@
 
 (b) The Secretary shall—
 
-&emsp;(1) collect and disseminate information on civil aeronautics (other than that collected and disseminated by the National Transportation Safety Board under chapter 11 of this title) including, at a minimum, information on (A) the origin and destination of passengers in interstate air transportation (as those terms are used in such Act),<sup>1</sup> and (B) the number of passengers traveling by air between any two points in interstate air transportation; except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;
+&emsp;(1) collect and disseminate information on civil aeronautics (other than that collected and disseminated by the National Transportation Safety Board under chapter 11 of this title) including, at a minimum, information on (A) the origin and destination of passengers in interstate air transportation (as those terms are used in such Act),<sup>1</sup> and (B) the number of passengers traveling by air between anytwo points in interstate air transportation; except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;
 
 &emsp;(2) study the possibilities of developing air commerce and the aeronautical industry; and
 
@@ -24,7 +24,7 @@
 
 (d) To assist in carrying out duties and powers under part A of subtitle VII of this title, the Secretary of Transportation shall maintain separate cooperative agreements with the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration for the timely exchange of information on their programs, policies, and requirements directly related to carrying out that Act.<sup>2</sup>
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L.98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366.)
 
 Historical and Revision Notes
 
@@ -84,7 +84,7 @@ Section 4(j)(7) amends 49:329 to omit references to overseas air transportation 
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(7)(A), substituted “chapter 11 of this title” for “title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
+1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(7)(A), substituted “chapter 11 of this title” for “title VII of theFederal Aviation Act of 1958 (49 U.S.C. 1441 et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
 
 Subsec. (d). Pub. L. 103–272, §4(j)(7)(B), substituted “part A of subtitle VII of this title” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)”.
 

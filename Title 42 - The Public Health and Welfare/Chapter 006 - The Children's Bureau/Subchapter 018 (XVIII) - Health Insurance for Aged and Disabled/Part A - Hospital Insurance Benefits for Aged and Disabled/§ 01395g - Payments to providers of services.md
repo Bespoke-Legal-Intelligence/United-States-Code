@@ -14,7 +14,7 @@ No payment which may be made to a provider of services under this subchapter for
 
 #### (d) Accrual of interest on balance of excess or deficit not paid
 
-Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
+Whenever a final determination is made that the amount of payment made under this part toa provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
 
 #### (e) Periodic interim payments
 
@@ -38,7 +38,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;&emsp;(iii) requests payment on such basis,
 
-> &emsp;but only if the hospital was being paid for inpatient hospital services on such a periodic interim payment basis as of June 30, 1987, andcontinues to meet the requirements (in effect as of October 1, 1986) applicable to payment on such a basis.
+> &emsp;but only if the hospital was being paid for inpatient hospital services on such a periodic interim payment basis as of June 30, 1987, and continues to meet the requirements (in effect as of October 1, 1986) applicable to payment on such a basis.
 
 (2) The Secretary shall provide (or continue to provide) for payment on a periodic interim payment basis (under the standards established under section 405.454(j) of title 42, Code of Federal Regulations, as in effect on October 1, 1986) with respect to—
 
@@ -90,7 +90,7 @@ Section 9311(a)(2) of Pub. L. 99–509 provided that: “The amendment made by p
 
 #### Effective Date of 1982 Amendment
 
-Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending thissection and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contracts entered into or renewed on or after Sept. 3, 1982, see section 149 of Pub. L. 97–248, set out as an Effective Date note under section 1320c of this title.
 

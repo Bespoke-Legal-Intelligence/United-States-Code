@@ -1,8 +1,8 @@
-### §661 . Management policies for joint specialty officers
+### §661. Management policies for joint specialty officers
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers ofthe Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title). Such officers shall be identified or designated (in addition to their principal military occupational specialty) in such manner as the Secretary of Defense directs. For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the “joint specialty”.
+Establishment.—The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title). Such officers shall be identified or designated (in addition to their principal military occupational specialty) in such manner as the Secretary of Defense directs. For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the “joint specialty”.
 
 (b)
 
@@ -30,7 +30,7 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 (2)(A) An officer (other than a general or flag officer) who has a military occupational specialty that is a critical occupational specialty involving combat operations (as designated by the Secretary of Defense) and who is nominated for the joint specialty may be selected for the joint specialty after successful completion of a full tour of duty in a joint duty assignment (as described in section 664(f)(2) of this title) and successful completion of a program under paragraph (1)(A).
 
-(B) The Secretary may not for the purposes of this paragraph designate a military occupational specialty as a critical occupational specialty involving combat operations unless that occupational specialty is within the combat arms, in the case of the Army, or the equivalent, in the case of the Navy, Air Force, and Marine Corps. In determining for the purposes of this paragraph what military occupational specialties within the combat arms (or the equivalent) are critical, the Secretary shall designate as critical any military occupational specialty experiencing severe shortages of trained officers.
+(B) The Secretary may not for the purposes of this paragraph designate a military occupational specialty as a critical occupational specialty involving combat operations unless that occupational specialty is within the combat arms, in the case of the Army, or the equivalent, in the case of the Navy, Air Force, and Marine Corps. In determining for the purposes of thisparagraph what military occupational specialties within the combat arms (or the equivalent) are critical, the Secretary shall designate as critical any military occupational specialty experiencing severe shortages of trained officers.
 
 (3)(A) In the case of an officer who has completed both a program of education referred to in paragraph (1)(A) and a full tour of duty in a joint duty assignment (as described in section 664(f) of this title (other than in paragraph (2) thereof)) and is subsequently nominated for the joint specialty, the Secretary of Defense may waive the requirement in paragraph (1)(B) that the tour of duty in a joint duty assignment be performed after the officer completes the program of education if the Secretary determines that the waiver is necessary in the interests of sound personnel management.
 
@@ -58,7 +58,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 &emsp;&emsp;(ii) have a military occupational specialty that is designated under subsection (c)(2)(A) as a critical occupational specialty involving combat operations.
 
-(2)(A) The Secretary shall designate not fewer than 1,000 joint duty assignment positions ascritical joint duty assignment positions. Such designation shall be made by examining each joint duty assignment position and designating under the preceding sentence those positions for which, considering the duties and responsibilities of the position, it is highly important that the occupant be particularly trained in, and oriented toward, joint matters.
+(2)(A) The Secretary shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Such designation shall be made by examining each joint duty assignment position and designating under the preceding sentence those positions for which, considering the duties and responsibilities of the position, it is highly important that the occupant be particularly trained in, and oriented toward, joint matters.
 
 (B) Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
 
@@ -88,7 +88,7 @@ Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint
 
 (f)
 
-Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619(e)(1) of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
+Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint dutyassignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619(e)(1) of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
 
 (Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556.)
 
@@ -132,7 +132,7 @@ Section 406(a)–(c) of Pub. L. 99–433, as amended by Pub. L. 100–456, div. 
 
 Joint Duty Assignments.—(1) Section 661(d) of title 10, United States Code, shall be implemented as rapidly as possible and (except as provided under paragraph (2)) not later than October 1, 1989.
 
-“(2) The first sentence of section 661(d)(2)(B) of such title shall apply with respect to positions designatedunder the first sentence of section 661(d)(2)(A) of that title as critical joint duty assignment positions which become vacant after January 1, 1989.
+“(2) The first sentence of section 661(d)(2)(B) of such title shall apply with respect to positions designated under the first sentence of section 661(d)(2)(A) of that title as critical joint duty assignment positions which become vacant after January 1, 1989.
 
 “(b)
 

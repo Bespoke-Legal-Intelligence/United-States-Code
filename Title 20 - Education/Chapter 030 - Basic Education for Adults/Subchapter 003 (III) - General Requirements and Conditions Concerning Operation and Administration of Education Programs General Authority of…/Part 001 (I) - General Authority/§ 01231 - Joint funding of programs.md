@@ -20,7 +20,7 @@ The Secretary may not construe the provisions of this section to take precedence
 
 #### (d) Congressional notice
 
-(1) The Secretary shall provide notice to the Committee on Education and Labor of the Houseof Representatives and to the Committee on Labor and Human Resources of the Senate of each joint funding agreement made with other Federal agencies not later than 60 days after the making of such agreements.
+(1) The Secretary shall provide notice to the Committee on Education and Labor of the House of Representatives and to the Committee on Labor and Human Resources of the Senate of each joint funding agreement made with other Federal agencies not later than 60 days after the making of such agreements.
 
 (2) Such notice shall include—
 
@@ -30,23 +30,23 @@ The Secretary may not construe the provisions of this section to take precedence
 
 &emsp;(C) the criteria developed to govern the award of contracts and grants.
 
-(Pub. L. 90 247, title IV, §430, formerly §411, as added Pub. L. 91 230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered §421 and amended Pub. L. 92 318, title III, §§301(a)(1), 302(a), June 23, 1972, 86 Stat. 326, 332; renumbered §421A, Pub. L. 93 380, title V, §507(a), Aug. 21, 1974, 88 Stat. 565; renumbered §430 and amended Pub. L. 103 382, title II, §§212(b)(1), 241, Oct. 20, 1994, 108 Stat. 3913, 3921.)
+(Pub. L. 90–247, title IV, §430, formerly §411, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered §421 and amended Pub. L. 92–318, title III, §§301(a)(1), 302(a), June 23, 1972, 86 Stat. 326, 332; renumbered §421A, Pub. L. 93–380, title V, §507(a), Aug. 21, 1974, 88 Stat. 565; renumbered §430 and amended Pub. L. 103–382, title II, §§212(b)(1), 241, Oct. 20, 1994, 108 Stat. 3913, 3921.)
 
 #### Prior Provisions
 
-A prior section 430 of Pub. L. 90 247 was renumbered section 436, and is classified to section 1231g of this title.
+A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is classified to section 1231g of this title.
 
 #### Amendments
 
-1994—Pub. L. 103 382, §241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
+1994—Pub. L. 103–382, §241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
 
-1972—Subsec. (c). Pub. L. 92 318, §302(a), added subsec. (c).
+1972—Subsec. (c). Pub. L. 92–318, §302(a), added subsec. (c).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
 
-Section 302(c) of Pub. L. 92 318 provided that: “The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
+Section 302(c) of Pub. L. 92–318 provided that: “The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
 

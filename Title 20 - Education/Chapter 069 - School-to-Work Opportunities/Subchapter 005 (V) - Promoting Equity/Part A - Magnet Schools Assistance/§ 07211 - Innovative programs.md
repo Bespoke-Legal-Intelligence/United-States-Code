@@ -24,7 +24,7 @@ Each local educational agency or consortia of such agencies desiring a grant und
 
 The Secretary shall reserve not more than 5 percent of the funds appropriated under section 7213(a) of this title for each fiscal year to award grants under this section.
 
-(Pub. L. 89 10, title V, §5111, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3694.)
+(Pub. L. 89–10, title V, §5111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3694.)
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

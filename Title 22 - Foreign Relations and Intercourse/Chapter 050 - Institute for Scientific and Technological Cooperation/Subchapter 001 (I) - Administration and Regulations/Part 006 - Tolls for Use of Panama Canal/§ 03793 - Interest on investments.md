@@ -28,7 +28,7 @@ The value of property transferred to the Commission by any other department or a
 
 #### (d) Payment and deposit of interest
 
-The Panama Canal Commission shall pay to the Treasury of the United States interest on the investment of the United States, as determined under this section. Such interest shall be deposited in the general fund of the Treasury.
+The Panama Canal Commission shall pay to the Treasury of the United States interest onthe investment of the United States, as determined under this section. Such interest shall be deposited in the general fund of the Treasury.
 
 (Pub. L. 96–70, title I, §1603, Sept. 27, 1979, 93 Stat. 490; Pub. L. 99–195, §1(b), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5425(a), Dec. 22, 1987, 101 Stat. 1330–274.)
 

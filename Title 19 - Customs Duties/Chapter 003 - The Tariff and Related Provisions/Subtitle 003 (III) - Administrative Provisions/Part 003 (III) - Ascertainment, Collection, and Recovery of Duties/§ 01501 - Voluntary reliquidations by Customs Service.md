@@ -6,13 +6,13 @@ A liquidation made in accordance with section 1500 of this title or any reliquid
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §501, 42 Stat. 966. That section was superseded by section 501 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §501, 42 Stat. 966. That section was superseded by section 501 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions for appeals to reappraisement and for a further appeal to be assigned to a board of general appraisers, with further provisions as to the fee to be paid, the proceedings on appeal, and the conclusiveness of decisions, were contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 The provisions of section III, M, of the 1913 act, were substituted for provisions of the same nature made by the Customs Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99.
 
-Provisions similar to some extent to those of section 13 of the Customs Administrative Act of 1890 were contained in R.S. §§2929, 2930, prior to repeal by section 29 of that Act.
+Provisions similar to some extent to those in section 13 of the Customs Administrative Act of 1890 were contained in R.S. §§2929, 2930, prior to repeal by section 29 of that Act.
 
 R.S. §2950 provided that the certificate of the appraiser should be deemed to be the appraisement. It was superseded by the provisions relating to appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §13, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, and the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

@@ -24,7 +24,7 @@ Based upon the study prepared pursuant to subsection (a) of this section, the Se
 
 #### (c) Transmission to Congress
 
-The proposals prepared under subsection (b) of this section, shall be transmitted, together withany legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a) of this section. Such proposals shall be accompanied by an analyses<sup>1</sup> of—
+The proposals prepared under subsection (b) of this section, shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a) of this section. Such proposals shall be accompanied by an analyses <sup>1</sup> of—
 
 &emsp;(1) the projected savings (if any) in consumption of natural gas, and other energy resources,
 
@@ -36,15 +36,15 @@ The proposals prepared under subsection (b) of this section, shall be transmitte
 
 The Secretary shall provide for public participation in the conduct of the study under subsection (a) of this section, and the preparation of proposals under subsection (b) of this section.
 
-(Pub. L. 95 617, title III, §306, Nov. 9, 1978, 92 Stat. 3152.)
+(Pub. L. 95–617, title III, §306, Nov. 9, 1978, 92 Stat. 3152.)
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(3), is Pub. L. 95 617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
+This Act, referred to in subsec. (c)(3), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
 
 #### Definitions
 
 The definitions of Secretary and Commission in section 2602 of Title 16, Conservation, apply to this section.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “analysis”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “analysis”.</i>
 

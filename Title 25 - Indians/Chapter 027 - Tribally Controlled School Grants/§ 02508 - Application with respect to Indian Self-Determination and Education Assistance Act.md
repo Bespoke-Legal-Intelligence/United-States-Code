@@ -14,7 +14,7 @@ All provisions of sections 5, 6, 7, 104, 105(f), 106(f), 109, and 111 of the Ind
 
 &emsp;(B) the date that is 60 days after the date of such election.
 
-(3) In any case in which the 60-day period referred to in paragraph (2)(B) is less than 60 days before the beginning of the succeeding fiscal year, such election shall not take effect until the fiscal year after the fiscal year succeeding the election. For fiscal year 1989, the Secretary may waive this paragraph for elections received prior to September 30, 1988.
+(3) In any case in which the 60-day period referred to in paragraph (2)(B) is less than 60 daysbefore the beginning of the succeeding fiscal year, such election shall not take effect until the fiscal year after the fiscal year succeeding the election. For fiscal year 1989, the Secretary may waive this paragraph for elections received prior to September 30, 1988.
 
 #### (c) No duplication
 
@@ -26,7 +26,7 @@ No funds may be provided under any contract entered into under the Indian Self-D
 
 (2) A tribe or tribal organization assuming the operation of a contract school with assistance under this chapter shall be entitled to the transfer or use of the buildings, equipment, supplies, and materials that were used in the operation of the contract school to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
-(3) Any tribe or tribal organization which assumes operation of a Bureau school with assistance under this chapter and any tribe or tribal organization which elects to operate a school with assistance under this chapter rather than to continue as a contract school shall be entitled to any funds which would carryover fromthe previous fiscal year as if such school were operated as a contract school.
+(3) Any tribe or tribal organization which assumes operation of a Bureau school with assistance under this chapter and any tribe or tribal organization which elects to operate a school with assistance under this chapter rather than to continue as a contract school shall be entitled to any funds which would carryover from the previous fiscal year as if such school were operated as a contract school.
 
 #### (e) Exceptions, problems, and disputes
 

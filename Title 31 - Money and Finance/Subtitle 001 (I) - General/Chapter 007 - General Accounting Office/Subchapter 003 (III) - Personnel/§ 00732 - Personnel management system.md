@@ -62,7 +62,9 @@
 
 (g) An officer or employee of the General Accounting Office completing at least one year of continuous service under a nontemporary appointment under the personnel management system acquires a competitive status for appointment to a position in the competitive service for which the officer or employee is qualified.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 897; Pub. L. 98–326, §1(b), June 22, 1984, 98 Stat. 269; Pub. L. 100–426, title III, §§302, 303, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1439.)
+(h) Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 897; Pub. L. 98–326, §1(b), June 22, 1984, 98 Stat. 269; Pub. L. 100–426, title III, §§302, 303, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 104–53, title II, §212(a), Nov. 19, 1995, 109 Stat. 535.)
 
 Historical and Revision Notes
 
@@ -135,6 +137,8 @@ In subsection (g), the words “Notwithstanding any other provision of law” ar
 The General Schedule, referred to in subsec. (c)(3), (4), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1995—Subsec. (h). Pub. L. 104–53 added subsec. (h).
 
 1990—Subsec. (b)(6). Pub. L. 101–509 substituted “5301” for “5301(a)”.
 

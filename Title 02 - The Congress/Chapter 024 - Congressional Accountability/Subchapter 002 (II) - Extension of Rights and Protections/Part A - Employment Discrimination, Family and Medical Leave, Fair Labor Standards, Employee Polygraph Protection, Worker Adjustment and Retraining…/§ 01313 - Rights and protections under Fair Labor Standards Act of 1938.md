@@ -1,0 +1,50 @@
+### §1313. Rights and protections under Fair Labor Standards Act of 1938
+
+#### (a) Fair labor standards
+
+#### (1) In general
+
+&emsp;The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, and section 12(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
+
+#### (2) Interns
+
+&emsp;For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c) of this section.
+
+#### (3) Compensatory time
+
+&emsp;Except as provided in regulations under subsection (c)(3) of this section, covered employees may not receive compensatory time in lieu of overtime compensation.
+
+#### (b) Remedy
+
+The remedy for a violation of subsection (a) of this section shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)).
+
+#### (c) Regulations to implement section
+
+#### (1) In general
+
+&emsp;The Board shall, pursuant to section 1384 of this title, issue regulations to implement this section.
+
+#### (2) Agency regulations
+
+&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+
+#### (3) Irregular work schedules
+
+&emsp;The Board shall issue regulations for covered employees whose work schedules directly depend on the schedule of the House of Representatives or the Senate that shall be comparable to the provisions in the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] that apply to employees who have irregular work schedules.
+
+#### (d) Omitted
+
+#### (e) Effective date
+
+Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+
+(Pub. L. 104–1, title II, §203, Jan. 23, 1995, 109 Stat. 10.)
+
+#### References in Text
+
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
+#### Codification
+
+Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 203 of Pub. L. 104–1 amended section 203 of Title 29, Labor.
+

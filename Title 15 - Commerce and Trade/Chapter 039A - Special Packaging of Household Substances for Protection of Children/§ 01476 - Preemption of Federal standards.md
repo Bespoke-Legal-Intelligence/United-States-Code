@@ -20,7 +20,7 @@ The Federal Government and the government of any State or political subdivision 
 
 (2) A regulation under paragraph (1) granting an exemption for a standard or requirement of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with section 553(b) of title 5 notice with respect to the promulgation of the regulation and has provided opportunity for the oral presentation of views respecting its promulgation.
 
-(Pub. L. 91 601, §7, formerly §8, Dec. 30, 1970, 84 Stat. 1673; Pub. L. 92 573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94 284, §17(c), May 11, 1976, 90 Stat. 513; renumbered §7, Pub. L. 97 35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716.)
+(Pub. L. 91–601, §7, formerly §8, Dec. 30, 1970, 84 Stat. 1673; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §17(c), May 11, 1976, 90 Stat. 513; renumbered §7, Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716.)
 
 #### References in Text
 
@@ -28,9 +28,9 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 #### Amendments
 
-1976—Pub. L. 94 284 substituted “(a) Except as provided in subsections (b) and (c) of this section, whenever” for “Whenever” in existing provision, and added subsecs. (b) and (c).
+1976—Pub. L. 94–284 substituted “(a) Except as provided in subsections (b) and (c) of this section, whenever” for “Whenever” in existing provision, and added subsecs. (b) and (c).
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary” in subsec. (a) pursuant to section 30(a) of Pub. L. 92 573, which is classified to section 2079(a) of this title and whichtransferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary” in subsec. (a) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 

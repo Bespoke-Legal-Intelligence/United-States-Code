@@ -8,13 +8,13 @@ It shall be lawful for the Secretary to receive for internal revenue taxes, or i
 
 #### (1) Ultimate liability
 
-&emsp;If a check or money order so received is not duly paid, the person by whom such check or money order has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check or money order had not been tendered.
+&emsp;If a check or money order so received is not duly paid, the person by whom such check ormoney order has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check or money order had not been tendered.
 
 #### (2) Liability of banks and others
 
 &emsp;If any certified, treasurer's, or cashier's check (or other guaranteed draft) or any money order so received is not duly paid, the United States shall, in addition to its right to exact payment from the party originally indebted therefor, have a lien for the amount of such check (or draft) upon all the assets of the financial institution on which drawn or for the amount of such money order upon all the assets of the issuer thereof; and such amount shall be paid out of such assets in preference to any other claims whatsoever against such financial institution or issuer except the necessary costs and expenses of administration and the reimbursement of the United States for the amount expended in the redemption of the circulating notes of such financial institution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 777; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat.1834; July 18, 1984, Pub. L. 98–369, div. A, title IV, §448(a), 98 Stat. 817.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 777; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; July 18, 1984, Pub. L. 98–369, div. A, title IV, §448(a), 98 Stat. 817.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; time, manner, etc., of transfer
 
-Subject to the provisions of this chapter, the United States, through the Secretary, shall transfer all rail properties of the Alaska Railroad to the State. Such transfer shall occur as soon as practicable after the Secretary has made the certifications required by subsection (d) of this section and shall be accomplished in the manner specified in subsection (b) of this section.
+Subject to the provisions of this chapter, the United States, through the Secretary, shalltransfer all rail properties of the Alaska Railroad to the State. Such transfer shall occur as soon as practicable after the Secretary has made the certifications required by subsection (d) of this section and shall be accomplished in the manner specified in subsection (b) of this section.
 
 #### (b) Simultaneous and interim transfers, conveyances, etc.
 
@@ -58,7 +58,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 &emsp;(v) for credit during the two-year period commencing on the date of transfer for accrued annual and sick leave, seniority rights, and relocation and turnaround travel allowances which have been accrued during their period of Federal employment by transfered <sup>2</sup> employees retained by the State-owned railroad (except for officers of the Alaska Railroad, who shall receive such credit for one year following the date of transfer);
 
-&emsp;(vi) for payment to transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, including for one year officers retained or separated under subparagraph (E) of this paragraph, of an amount equivalent to the cost-of-living allowance to which they are entitled as Federal employees on the day before the date of transfer, in accordance with theprovisions of subparagraph (D) of this paragraph; and
+&emsp;(vi) for payment to transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, including for one year officers retained or separated under subparagraph (E) of this paragraph, of an amount equivalent to the cost-of-living allowance to which they are entitled as Federal employees on the day before the date of transfer, in accordance with the provisions of subparagraph (D) of this paragraph; and
 
 &emsp;(vii) for health and life insurance programs for transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, substantially equivalent to the Federal health and life insurance programs available to employees on the day before the date of transfer (except for officers of the Alaska Railroad, who shall receive such credit for one year following the date of transfer).
 
@@ -68,7 +68,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (D) Payment to transferred employees pursuant to subparagraph (A)(vi) of this paragraph shall not exceed the percentage of any transferred employee's base salary level provided by the United States as a cost-of-living allowance on the day before the date of transfer, unless the parties agree to the contrary.
 
-(E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as the State-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
+(E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as theState-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
 
 (4) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to allow representatives of the Secretary adequate access to employees and records of the Alaska Railroad when needed for the performance of functions related to the period of Federal ownership.
 

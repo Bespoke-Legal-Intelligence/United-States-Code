@@ -1,0 +1,6 @@
+### §115. Index to House daily calendar
+
+The index to the daily calendar of business of the House of Representatives shall be printed only on Monday of each week.
+
+(Mar. 1, 1921, ch. 89, §1, 41 Stat. 1181.)
+

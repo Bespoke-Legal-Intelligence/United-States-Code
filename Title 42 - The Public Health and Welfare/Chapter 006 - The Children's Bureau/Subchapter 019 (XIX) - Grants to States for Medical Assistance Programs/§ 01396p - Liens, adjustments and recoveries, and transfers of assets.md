@@ -40,7 +40,7 @@
 
 &emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
 
-&emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, which provided for the disregard of any assets or resources—
+&emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistanceunder a State plan of a State which had a State plan amendment approved as of May 14, 1993, which provided for the disregard of any assets or resources—
 
 &emsp;&emsp;(I) to the extent that payments are made under a long-term care insurance policy; or
 
@@ -100,7 +100,7 @@
 
 &emsp;(I) the total, cumulative uncompensated value of all assets transferred by the individual (or individual's spouse) on or after the look-back date specified in subparagraph (B)(i), divided by
 
-&emsp;(II) the average monthly cost to a private patient of nursing facility services in theState (or, at the option of the State, in the community in which the individual is institutionalized) at the time of application.
+&emsp;(II) the average monthly cost to a private patient of nursing facility services in the State (or, at the option of the State, in the community in which the individual is institutionalized) at the time of application.
 
 (iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) with respect to the disposal of an asset shall be reduced—
 
@@ -144,7 +144,7 @@
 
 (1) For purposes of determining an individual's eligibility for, or amount of, benefits under a State plan under this subchapter, subject to paragraph (4), the rules specified in paragraph (3) shall apply to a trust established by such individual.
 
-(2)(A) For purposes of this subsection, an individual shall be considered to have established a trust if assets of the individual were used to form all or part of the corpus of the trust and if any of the following individuals established such trust other than by will:
+(2)(A) For purposes of this subsection, an individual shall be considered to have established a trust if assets of the individual were used to form all or part of the corpus of the trust and ifany of the following individuals established such trust other than by will:
 
 &emsp;(i) The individual.
 
@@ -154,7 +154,7 @@
 
 &emsp;(iv) A person, including any court or administrative body, acting at the direction or upon the request of the individual or the individual's spouse.
 
-(B) In the case of a trust the corpus of which includes assets of an individual (as determinedunder subparagraph (A)) and assets of any other person or persons, the provisions of this subsection shall apply to the portion of the trust attributable to the assets of the individual.
+(B) In the case of a trust the corpus of which includes assets of an individual (as determined under subparagraph (A)) and assets of any other person or persons, the provisions of this subsection shall apply to the portion of the trust attributable to the assets of the individual.
 
 (C) Subject to paragraph (4), this subsection shall apply without regard to—
 
@@ -214,13 +214,13 @@
 
 In this section, the following definitions shall apply:
 
-&emsp;(1) The term “assets”, with respect to an individual, includes all income and resources of the individual and of the individual's spouse, including any income or resources which the individual or such individual's spouse is entitled to but does not receive because of action—
+&emsp;(1) The term “assets”, with respect to an individual, includes all income and resources ofthe individual and of the individual's spouse, including any income or resources which the individual or such individual's spouse is entitled to but does not receive because of action—
 
 &emsp;&emsp;(A) by the individual or such individual's spouse,
 
 &emsp;&emsp;(B) by a person, including a court or administrative body, with legal authority to act in place of or on behalf of the individual or such individual's spouse, or
 
-&emsp;&emsp;(C) by any person, including any court or administrative body, acting at the directionor upon the request of the individual or such individual's spouse.
+&emsp;&emsp;(C) by any person, including any court or administrative body, acting at the direction or upon the request of the individual or such individual's spouse.
 
 &emsp;(2) The term “income” has the meaning given such term in section 1382a of this title.
 
@@ -274,7 +274,7 @@ Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out
 
 1988—Subsec. (c). Pub. L. 100–360, §303(b), amended subsec. (c) generally, substituting pars. (1) to (4) relating to taking into account certain transfers of assets, for former pars. (1) to (3) relating to denial of medical assistance, period of eligibility, and exceptions.
 
-Subsec. (c)(1). Pub. L. 100–485, §608(d)(16)(B)(i), substituted “period of ineligibility for nursing facility services and for a level of care in a medical institution equivalent to that of nursing facility services and for services under section 1396n(c) of this title in the case of an institutionalized individual (as defined in paragraph (3)) who, at any time during or after the 30-month period immediately before the date the individual becomes an institutionalized individual (if the individual is entitled to medical assistance under the State plan on such date) or, if the individual is not so entitled, the date the individual applies for such assistance while an institutionalized individual” for “period of ineligibility in the case of an institutionalized individual (as defined in paragraph (3)) who, at any time during the 30-month period immediately before the individual's application for medical assistance under the State plan”.
+Subsec. (c)(1). Pub. L. 100–485, §608(d)(16)(B)(i), substituted “period of ineligibility for nursing facilityservices and for a level of care in a medical institution equivalent to that of nursing facility services and for services under section 1396n(c) of this title in the case of an institutionalized individual (as defined in paragraph (3)) who, at any time during or after the 30-month period immediately before the date the individual becomes an institutionalized individual (if the individual is entitled to medical assistance under the State plan on such date) or, if the individual is not so entitled, the date the individual applies for such assistance while an institutionalized individual” for “period of ineligibility in the case of an institutionalized individual (as defined in paragraph (3)) who, at any time during the 30-month period immediately before the individual's application for medical assistance under the State plan”.
 
 Subsec. (c)(2)(A)(ii). Pub. L. 100–485, §608(d)(16)(B)(ii), inserted subcl. (I) and (II) designations.
 

@@ -54,7 +54,7 @@ In subsec. (b), “section 1644a(b)(1) or (c)(1) of this title” substituted fo
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §459, 42 Stat. 956. That section was superseded by section 459 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §459, 42 Stat. 956. That section was superseded by section 459 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 R.S. §3109, as amended by act Feb. 17, 1898, ch. 26, §4, 30 Stat. 248, was omitted from the Code as superseded by this section. It read as follows: “The master of any foreign vessel, laden or in ballast, arriving, whether by sea or otherwise, in the waters of the United States from any foreign territory adjacent to the northern, northeastern, or northwestern frontiers of the United States, shall report at the office of any collector or deputy collector of the customs, which shall be nearest to the point at which such vessel may enter such waters; and such vessel shall not transfer her cargo or passengers to another vessel or proceed farther inland, either to unlade or take in cargo, without a special permit from such collector or deputy collector, issued under and in accordance with such general or special regulations as the Secretary of the Treasury may, in his discretion, from time to time prescribe. This section shall also apply to trade with or through Alaska. For any violation of this section such vessel shall be seized and forfeited.”
 

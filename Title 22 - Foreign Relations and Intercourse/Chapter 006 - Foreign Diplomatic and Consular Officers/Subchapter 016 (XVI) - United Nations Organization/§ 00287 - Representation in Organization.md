@@ -18,7 +18,7 @@ The President may also appoint from time to time such other persons as he may de
 
 #### (e) Appointment of representative to European office of United Nations; rank, status, and tenure; duties
 
-The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the European office of the United Nations, with appropriate rank and status who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such person shall, at the direction of the Secretary of State, represent the United States at the European office of the United Nations, and perform such other functions there in connection with the participation of the United States in international organizations as the Secretary of State may, from time to time, direct.
+The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the European office of the United Nations, with appropriate rank and status who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such person shall, at the direction of the Secretary of State, represent the United States at the European office of the United Nations, and perform such other functions there in connection with the participationof the United States in international organizations as the Secretary of State may, from time to time, direct.
 
 #### (f) Representation by President or Secretary of State
 
@@ -72,7 +72,7 @@ Section 1 of act Dec. 20, 1945, provided that: “This Act \[enacting this subch
 
 #### United States Commission on Improving the Effectiveness of the United Nations
 
-Pub. L. 100–204, title VII, part B, Dec. 22, 1987, 101 Stat. 1391, as amended by Pub. L. 101–246, title IV, §409, Feb. 16, 1990, 104 Stat. 68, provided for establishment,membership, etc., of United States Commission on Improving the Effectiveness of the United Nations to examine the United Nations system as a whole and identify and evaluate its strengths and weaknesses and to transmit to President and Congress, not later than 18 months after the date on which all members of the Commission have been appointed, a report containing a detailed statement of the findings, conclusions, and recommendations of the Commission, which report was dated Sept. 10, 1993, and the Commission terminated Sept. 30, 1993.
+Pub. L. 100–204, title VII, part B, Dec. 22, 1987, 101 Stat. 1391, as amended by Pub. L. 101–246, title IV, §409,Feb. 16, 1990, 104 Stat. 68, provided for establishment, membership, etc., of United States Commission on Improving the Effectiveness of the United Nations to examine the United Nations system as a whole and identify and evaluate its strengths and weaknesses and to transmit to President and Congress, not later than 18 months after the date on which all members of the Commission have been appointed, a report containing a detailed statement of the findings, conclusions, and recommendations of the Commission, which report was dated Sept. 10, 1993, and the Commission terminated Sept. 30, 1993.
 
 #### Soviet Mission at the United Nations
 
@@ -430,9 +430,7 @@ Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, a
 
 #### UN Membership for Communist China
 
-Section 105 of Pub. L. 91–472, title I, Oct. 21, 1970, 84 Stat. 1044, provided that it was the sense of the Congress that the United Nations should not admit the Communist Chinese Government to membership as the representative of China.
-
-Similar provisions were contained in the following prior acts:
+Section 105 of Pub. L. 91–472, title I, Oct. 21, 1970, 84 Stat. 1044, provided that it was the sense of the Congress that the United Nations should not admit the Communist Chinese Government to membership as the representative of China. Similar provisions were contained in the following prior acts:
 
 Dec. 24, 1969, Pub. L. 91–153, title I, §105, 83 Stat. 407.
 
@@ -504,7 +502,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 4\. Whenever information disclosed with respect to any person being investigated is derogatory, within the standard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
 
-5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forthin Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
+5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with thereasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
 
 6\. At any stage during the investigation or Board proceeding, the Board may transmit to the Secretary of State, for forwarding to the Secretary General, in as much detail as the Board determines that security considerations permit, the derogatory information disclosed by investigation. This shall be for the purpose of assisting the Secretary General in determining whether or not he should take action with respect to the employee, or the person being considered for employment, prior to the completion of the procedures outlined in this order. The making available of any such information shall be without prejudice to the right of full hearing as provided for herein.
 

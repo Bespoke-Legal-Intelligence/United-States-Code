@@ -132,6 +132,8 @@ Pub. L. 89–381, §2, Mar. 30, 1966, 80 Stat. 97, during fiscal years 1967 thro
 
 Provisions specifying the maximum number of aircraft on hand at any one time, exclusive of planes and parts stored to meet future attrition, were contained in the following appropriation acts:
 
+Nov. 15, 1995, Pub. L. 104–50, title I, 109 Stat. 438.
+
 Sept. 30, 1994, Pub. L. 103–331, title I, 108 Stat. 2473.
 
 Oct. 27, 1993, Pub. L. 103–122, title I, 107 Stat. 1201.

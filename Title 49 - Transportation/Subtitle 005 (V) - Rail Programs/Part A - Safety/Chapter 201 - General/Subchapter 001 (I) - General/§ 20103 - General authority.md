@@ -114,5 +114,5 @@ Report.—If, on the basis of the proceeding required under paragraph (1) of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 20104, 20116, 20135 of this title; title 45 section 1207.
+This section is referred to in sections 20104, 20135 of this title; title 45 section 1207.
 

@@ -6,5 +6,5 @@ Former Members of Congress, organized and incorporated under the Nonprofit Corpo
 
 #### References in Text
 
-The Nonprofit Corporation Act of the District of Columbia, referred to in text, probably means the District of Columbia Nonprofit Corporation Act, Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The Nonprofit Corporation Act of the District of Columbia, referred to in text, probably means the Districtof Columbia Nonprofit Corporation Act, Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
 

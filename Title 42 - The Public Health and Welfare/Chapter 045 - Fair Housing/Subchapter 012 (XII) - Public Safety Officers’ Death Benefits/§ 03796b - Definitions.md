@@ -56,7 +56,7 @@ Pars. (3) to (7). Pub. L. 101–647, §1301(c)(1), redesignated pars. (2) to (6)
 
 1988—Pars. (2) to (7). Pub. L. 100–690, §6105(d), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) defining a “dependent” as any individual substantially reliant for support upon income of deceased public safety officer.
 
-1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employeemember of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
+1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
 
 #### Effective Date of 1990 Amendment
 

@@ -6,7 +6,7 @@ The Commission is authorized to repossess any property sold by it in accordance 
 
 #### Amendments
 
-1956—Act July 25, 1956, specifically enumerated powers of the Commission in relation to properties acquired pursuant to this chapter, authorized final collection of claims by way of compromise or otherwise, toprovide that expenses authorized by this section shall be considered nonadministrative expenses, and excepted contracts that do not exceed $1,000 from provisions of section 5 of title 41.
+1956—Act July 25, 1956, specifically enumerated powers of the Commission in relation to properties acquired pursuant to this chapter, authorized final collection of claims by way of compromise or otherwise, to provide that expenses authorized by this section shall be considered nonadministrative expenses, and excepted contracts that do not exceed $1,000 from provisions of section 5 of title 41.
 
 #### Transfer of Functions
 

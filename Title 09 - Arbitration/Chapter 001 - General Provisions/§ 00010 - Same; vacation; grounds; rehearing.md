@@ -16,10 +16,6 @@
 
 (July 30, 1947, ch. 392, 61 Stat. 672; Nov. 15, 1990, Pub. L. 101–552, §5, 104 Stat. 2745; Aug. 26, 1992, Pub. L. 102–354, §5(b)(4), 106 Stat. 946.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Termination Date of 1990 Amendment; Savings Provision note below.</i>
-
 #### Derivation
 
 Act Feb. 12, 1925, ch. 213, §10, 43 Stat. 885.
@@ -28,11 +24,11 @@ Act Feb. 12, 1925, ch. 213, §10, 43 Stat. 885.
 
 1992—Subsec. (b). Pub. L. 102–354 substituted “section 580” for “section 590” and “section 572” for “section 582”.
 
-1990—Pub. L. 101–552 temporarily designated existing provisions as subsec. (a), in introductory provisions substituted “In any” for “In either”, redesignated former subsecs. (a) to (e) as pars. (1) to (5), respectively, and added subsec. (b). See Termination Date of 1990 Amendment; Savings Provision note below.
+1990—Pub. L. 101–552 temporarily designated existing provisions as subsec. (a), in introductory provisions substituted “In any” for “In either”, redesignated former subsecs. (a) to (e) as pars. (1) to (5), respectively, and added subsec. (b) which read as follows: “The United States district court for the district wherein an award was made that was issued pursuant to section 580 of title 5 may make an order vacating the award upon the application of a person, other than a party to the arbitration, who is adversely affected or aggrieved by the award, if the use of arbitration or the award is clearly inconsistent with the factors set forth in section 572 of title 5.” See Termination Date of 1990 Amendment; Savings Provision note below.
 
-#### Termination Date of 1990 Amendment; Savings Provision
+#### Termination Date; Savings Provision
 
-For termination of amendments by Pub. L. 101–552 and authority to use dispute resolution proceedings on Oct. 1, 1995, except with respect to certain pending proceedings, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
+For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
 
 #### Section Referred to in Other Sections
 

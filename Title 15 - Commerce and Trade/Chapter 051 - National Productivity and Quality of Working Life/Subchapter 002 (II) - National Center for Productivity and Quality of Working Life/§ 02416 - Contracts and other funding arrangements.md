@@ -18,5 +18,5 @@ No contract or other funding arrangement shall be made or entered into pursuant 
 
 Any non-Federal share of a project may be in cash or in kind, fairly evaluated, including, but not limited to, plant, equipment, or services.
 
-(Pub. L. 94 136, title II, §206, Nov. 28, 1975, 89 Stat. 739.)
+(Pub. L. 94–136, title II, §206, Nov. 28, 1975, 89 Stat. 739.)
 

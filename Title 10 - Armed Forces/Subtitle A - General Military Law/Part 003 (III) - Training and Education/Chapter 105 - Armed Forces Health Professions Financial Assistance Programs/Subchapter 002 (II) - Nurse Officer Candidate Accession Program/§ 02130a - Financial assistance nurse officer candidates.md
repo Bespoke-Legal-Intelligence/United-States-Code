@@ -24,7 +24,7 @@ Required Agreement.—The agreement referred to in subsection (a) shall provide 
 
 &emsp;(2) That, upon acceptance of the agreement by the Secretary concerned, the person will enlist in a reserve component of an armed force.
 
-&emsp;(3) That the person will accept an appointment as an officer in the Nurse Corps of the Army or the Navy or as an officer designated as a nurse officer in the Air Force or commissioned corps of the Public Health Service, as the case may be, upon graduation from the nursing degree program.
+&emsp;(3) That the person will accept an appointment as an officer in the Nurse Corps of the Army or the Navy or as an officer designated as a nurse officer in the Air Force or commissioned corps of the Public Health Service, asthe case may be, upon graduation from the nursing degree program.
 
 &emsp;(4) That the person will serve on active duty as such an officer—
 

@@ -12,9 +12,9 @@ Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of
 
 (Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1054.)
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior appropriation act:
+Provisions similar to those in this section were contained in the following prior appropriation act:
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2168.
 

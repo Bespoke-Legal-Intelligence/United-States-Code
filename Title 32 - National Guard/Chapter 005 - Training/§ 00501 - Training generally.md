@@ -36,7 +36,7 @@ Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as a
 
 “(a)
 
-Pilot Program.—The Chief of the National Guard Bureau shall enter into an agreement, approvedby the Secretary of Defense, with each of the Governors of one or more States to carry out a pilot program during fiscal years 1993, 1994, and 1995 to provide training and professional development opportunities for members of the National Guard through the provision of health care to residents of medically underserved communities in those States with the use of personnel and equipment of the National Guard.
+Pilot Program.—The Chief of the National Guard Bureau shall enter into an agreement, approved by the Secretary of Defense, with each of the Governors of one or more States to carry out a pilot program during fiscal years 1993, 1994, and 1995 to provide training and professional development opportunities for members of the National Guard through the provision of health care to residents of medically underserved communities in those States with the use of personnel and equipment of the National Guard.
 
 “(b)
 
@@ -136,7 +136,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;“(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-“(2) In the case of a person selected for training in a National Guard civilian youth opportunities program conducted under the pilot program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12611 et seq.\] (as added by section 1092(a)), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act \[42 U.S.C. 12618(f), (g)\].
+“(2) In the case of a person selected for training in a National Guard civilian youth opportunities program conducted under the pilot program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12611 et seq.\] (as added by section 1092(a)), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in theCorps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act \[42 U.S.C. 12618(f), (g)\].
 
 “(g)
 

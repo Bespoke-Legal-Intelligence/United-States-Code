@@ -12,5 +12,5 @@ Fellowships shall be granted for such periods as the Foundation may prescribe bu
 
 The Foundation may provide, directly or by contract, for the conduct of a nationwide competition for the selection of fellowship recipients.
 
-(Pub. L. 102 281, title IV, §424, May 13, 1992, 106 Stat. 143.)
+(Pub. L. 102–281, title IV, §424, May 13, 1992, 106 Stat. 143.)
 

@@ -18,13 +18,13 @@ A consumer reporting agency may furnish a consumer report under the following ci
 
 &emsp;(E) otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.
 
-(Pub. L. 90 321, title VI, §604, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101 73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506.)
 
 #### Amendments
 
-1989—Par. (1). Pub. L. 101 73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
+1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681a, 1681e, 1681f, 1681s 1, 1692d of this title.
+This section is referred to in sections 1681a, 1681e, 1681f, 1681s–1, 1681u, 1692d of this title.
 

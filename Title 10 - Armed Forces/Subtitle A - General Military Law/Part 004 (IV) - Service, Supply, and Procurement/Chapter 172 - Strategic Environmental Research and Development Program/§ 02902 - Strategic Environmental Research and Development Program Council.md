@@ -104,7 +104,7 @@
 
 &emsp;(A) A description of the actions to be taken during the five-year period covered by the plan in order to prevent duplication of research and development activities referred to in the policies and procedures prescribed pursuant to subsection (d)(1).
 
-&emsp;(B) A description of the involvement with Federal interagency coordinating entitiessuch as the Federal Coordinating Council on Science, Engineering, and Technology.
+&emsp;(B) A description of the involvement with Federal interagency coordinating entities such as the Federal Coordinating Council on Science, Engineering, and Technology.
 
 &emsp;(C) A description of each project selected or recommended by the Council for support and funding, including the duration of, and the total estimated or (if known) actual cost of—
 

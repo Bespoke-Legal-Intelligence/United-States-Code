@@ -8,7 +8,7 @@
 
 &emsp;(B) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
 
-&emsp;(C) that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State's or subdivision's expense for personal injuries suffered as the result of such crime;
+&emsp;(C) that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State's or subdivision's expense forpersonal injuries suffered as the result of such crime;
 
 &emsp;(D) that is incurred by a veteran—
 
@@ -66,7 +66,7 @@
 
 (3) Sums in the Fund shall be available to the Secretary for the following:
 
-&emsp;(A) Payment of necessary expenses for the identification, billing, and collection of thecost of care and services furnished under this chapter, and for the administration and collection of payments required under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services, and under section 1722A of this title for medications, including—
+&emsp;(A) Payment of necessary expenses for the identification, billing, and collection of the cost of care and services furnished under this chapter, and for the administration and collection of payments required under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services, and under section 1722A of this title for medications, including—
 
 &emsp;&emsp;(i) the costs of computer hardware and software, word processing and telecommunications equipment, other equipment, supplies, and furniture;
 

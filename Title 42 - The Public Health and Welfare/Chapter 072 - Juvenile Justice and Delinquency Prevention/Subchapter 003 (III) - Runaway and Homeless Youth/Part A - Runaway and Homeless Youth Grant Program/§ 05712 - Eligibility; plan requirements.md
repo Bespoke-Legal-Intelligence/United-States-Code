@@ -78,7 +78,7 @@ To be eligible for assistance under section 5711(d) of this title, an applicant 
 
 &emsp;(3) to establish in partnership with the families of runaway youth and youth at risk of family separation, objectives and measures of success to be achieved as a result of participating in such project;
 
-&emsp;(4) to provide informational and health educational material to runaway youth and youthat risk of family separation in need of services;
+&emsp;(4) to provide informational and health educational material to runaway youth and youth at risk of family separation in need of services;
 
 &emsp;(5) to provide initial and periodic training of staff who provide services under the project;
 
@@ -112,7 +112,7 @@ Subsec. (b)(2). Pub. L. 102–586, §3(c)(2)(A), amended par. (2) generally. Pri
 
 Subsec. (b)(3). Pub. L. 102–586, §3(c)(2)(B), substituted “parents or other relatives of the youth and ensuring” for “child's parents or relatives and assuring” and “youth” for “child” after “the” in two places.
 
-Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;”.
+Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: “shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;”.
 
 Subsec. (b)(5). Pub. L. 102–586, §3(c)(2)(D), substituted “providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring” for “aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring” and “youth” for “children” after “those”.
 

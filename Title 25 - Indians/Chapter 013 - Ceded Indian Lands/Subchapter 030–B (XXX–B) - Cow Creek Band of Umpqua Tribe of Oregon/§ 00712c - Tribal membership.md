@@ -12,7 +12,7 @@ Within three hundred and sixty-five days after October 26, 1987, the Secretary s
 
 &emsp;(2) are the descendants of any individuals listed pursuant to paragraph (1) born on or prior to December 29, 1982; or
 
-&emsp;(3)(A) are the descendants of any individual considered to be a member of the Cow Creek Band of Umpqua Tribe of Indians for the purposes of the treaty entered between such Band and the United States on September 18, 1853; (B) have applied to the Secretary for inclusion in the roll pursuant to subsection (c) of this section; and (C) meet the requirements formembership provided in the tribe's governing documents.
+&emsp;(3)(A) are the descendants of any individual considered to be a member of the Cow Creek Band of Umpqua Tribe of Indians for the purposes of the treaty entered between such Band and the United States on September 18, 1853; (B) have applied to the Secretary for inclusion in the roll pursuant to subsection (c) of this section; and (C) meet the requirements for membership provided in the tribe's governing documents.
 
 #### (c) Regulations governing application process
 

@@ -26,5 +26,5 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(vi) has demonstrated and sustained a sense of responsibility to such urban area and contiguous areas and the people of such areas.
 
-(Pub. L. 89 329, title XI, §1108, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 787.)
+(Pub. L. 89–329, title XI, §1108, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 787.)
 

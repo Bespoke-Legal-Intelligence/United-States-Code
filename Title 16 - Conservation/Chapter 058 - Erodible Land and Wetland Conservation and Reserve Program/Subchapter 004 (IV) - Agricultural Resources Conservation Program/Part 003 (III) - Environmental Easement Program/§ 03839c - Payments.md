@@ -16,7 +16,7 @@ In making cost sharing payments to owners under this part, the Secretary may pay
 
 #### (1) Determination of amount
 
-&emsp;The Secretary shall determine the amount payable to owners in the form of easement payments under this part, and in making such determination may consider, among otherthings, the amount necessary to encourage owners to participate in the easement program.
+&emsp;The Secretary shall determine the amount payable to owners in the form of easement payments under this part, and in making such determination may consider, among other things, the amount necessary to encourage owners to participate in the easement program.
 
 #### (2) Acceptability of offers
 

@@ -12,7 +12,7 @@ Pub. L. 103–252, title I, §101(a), May 18, 1994, 108 Stat. 624, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–401, §1, Oct. 7, 1992, 106 Stat. 1956, provided that: “This Act \[amending sections 9835 to 9839, 9846,9846a, and 9858n of this title and enacting provisions set out as notes under sections 9835 and 9836 of this title\] may be cited as the ‘Head Start Improvement Act of 1992’.”
+Pub. L. 102–401, §1, Oct. 7, 1992, 106 Stat. 1956, provided that: “This Act \[amending sections 9835 to 9839, 9846, 9846a, and 9858n of this title and enacting provisions set out as notes under sections 9835 and 9836 of this title\] may be cited as the ‘Head Start Improvement Act of 1992’.”
 
 #### Short Title of 1990 Amendment
 
@@ -48,7 +48,7 @@ Section 658A of subchapter C (§§658A–658R) of chapter 8 of subtitle A of tit
 
 Section 661 of subchapter D \[formerly C\] (§§661–670) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter III of this chapter could be cited as the “Follow Through Act”, prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
 
-Section 670H of subchapter E \[formerly D\] (§§670A–670H) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 99–425, title III, §304, Sept. 30, 1986, 100 Stat. 968, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: “This subchapter \[enacting subchapter IV of this chapter\] may be cited as the ‘State Dependent Care Development Grants Act’.”
+Section 670H of subchapter E \[formerly D\] (§§670A–670H) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 99–425, title III, §304, Sept. 30, 1986, 100 Stat. 968, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: “This subchapter \[enacting subchapter IV of this chapter\] may be cited as the ‘State Dependent Care Development Grants Act’.”
 
 Section 670M of subchapter F \[formerly E\] (§§670M–670T) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 325, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter V of this chapter could be cited as the “Comprehensive Child Development Act”, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(B), May 18, 1994, 108 Stat. 640, 641.
 

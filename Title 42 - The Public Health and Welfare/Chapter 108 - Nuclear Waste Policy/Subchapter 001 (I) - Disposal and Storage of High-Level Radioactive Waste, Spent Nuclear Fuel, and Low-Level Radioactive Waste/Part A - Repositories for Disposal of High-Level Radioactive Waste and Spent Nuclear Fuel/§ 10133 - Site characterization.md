@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall carry out, in accordance with the provisions of this section, appropriate site characterization activities at the Yucca Mountain site. The Secretary shall consider fully the comments received under subsection (b)(2) of this section and section 10132(b)(2) ofthis title and shall, to the maximum extent practicable and in consultation with the Governor of the State of Nevada, conduct site characterization activities in a manner that minimizes any significant adverse environmental impacts identified in such comments or in the environmental assessment submitted under subsection (b)(1) of this section.
+The Secretary shall carry out, in accordance with the provisions of this section, appropriate site characterization activities at the Yucca Mountain site. The Secretary shall consider fully the comments received under subsection (b)(2) of this section and section 10132(b)(2) of this title and shall, to the maximum extent practicable and in consultation with the Governor of the State of Nevada, conduct site characterization activities in a manner that minimizes any significant adverse environmental impacts identified in such comments or in the environmental assessment submitted under subsection (b)(1) of this section.
 
 #### (b) Commission and States
 
@@ -60,7 +60,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) of this section shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>1</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
-(Pub. L. 97–425, title I, §113, Jan. 7, 1983, 96 Stat. 2211; Pub. L. 100–202, §101(d) \[title III, §300\], Dec.22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(e)–(g), Dec. 22, 1987, 101 Stat. 1330–228.)
+(Pub. L. 97–425, title I, §113, Jan. 7, 1983, 96 Stat. 2211; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(e)–(g), Dec. 22, 1987, 101 Stat. 1330–228.)
 
 #### References in Text
 

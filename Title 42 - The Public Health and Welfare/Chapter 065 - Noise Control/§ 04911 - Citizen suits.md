@@ -2,7 +2,7 @@
 
 #### (a) Authority to commence suits
 
-Except as provided in subsection (b) of this section, any person (other than the United States) may commence a civil action on his own behalf—
+Except as provided in subsection (b) of this section, any person (other than the UnitedStates) may commence a civil action on his own behalf—
 
 &emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup> of this section), or
 
@@ -48,7 +48,7 @@ For purposes of this section, the term “noise control requirement” means par
 
 #### Codification
 
-In subsecs. (a)(2)(B), (b)(1)(A), (c), and (f), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958” and “such section 611” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat.1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsecs. (a)(2)(B), (b)(1)(A), (c), and (f), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958” and “such section 611” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Section Referred to in Other Sections
 

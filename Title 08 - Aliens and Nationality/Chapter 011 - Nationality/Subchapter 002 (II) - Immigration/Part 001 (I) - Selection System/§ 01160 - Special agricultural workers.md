@@ -72,7 +72,7 @@
 
 #### (B) Outside the United States
 
-&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) of this section at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
+&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) of this section at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's statusadjusted upon entry as may be necessary to carry out the provisions of this section.
 
 #### (2) Designation of entities to receive applications
 
@@ -210,7 +210,7 @@
 
 #### (B) Standard for review
 
-&emsp;&emsp;Such administrative appellate review shall be based solely upon the administrative record established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
+&emsp;&emsp;Such administrative appellate review shall be based solely upon the administrativerecord established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
 
 #### (3) Judicial review
 
@@ -278,7 +278,7 @@ Subsec. (c)(2)(C). Pub. L. 101–649, §603(a)(5)(H), substituted “1182(a)(4)�
 
 1989—Subsec. (a)(3). Pub. L. 101–238, §4(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b)(6)(A). Pub. L. 101–238, §4(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “use the information furnished pursuant to an application filed under this section for any purpose other than to make a determination on the application or for enforcement of paragraph (7),”.
+Subsec. (b)(6)(A). Pub. L. 101–238, §4(b), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “use the information furnished pursuant to an application filed under this section for any purpose other than to make a determination on the application or for enforcement of paragraph (7),”.
 
 1988—Subsec. (g). Pub. L. 100–525 substituted “subsections (a)(5) and (f)” for “subsections (b)(3) and (f)”.
 
@@ -374,7 +374,7 @@ Meetings of Commission.—(1) Five members of the Commission shall constitute a 
 
 Staff.—(1) The Chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other additional personnel as may be necessary to enable the Commission to carry out its functions, without regard to the laws, rules, and regulations governing appointment and compensation and other conditions of service in the competitive service. Any Federal employee subject to those laws, rules, and regulations may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
-“(2) The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the minimum annual rate of basic pay payable for GS–18 of the General Schedule.
+“(2) The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the minimum annualrate of basic pay payable for GS–18 of the General Schedule.
 
 “(g)
 
@@ -414,7 +414,7 @@ Definitions.—In this section:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1182, 1324a, 1324b of this title; title 42 sections 408, 602, 672.
+This section is referred to in sections 1151, 1182, 1255, 1324a, 1324b of this title; title 42 sections 408, 602, 672.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -32,11 +32,11 @@ The application described in subsection (a) of this section shall include a plan
 
 The Secretaries may use amounts reserved under section 6235(b)(4) of this title for the review of applications submitted under subsection (a) of this section.
 
-(Pub. L. 103 239, title III, §303, May 4, 1994, 108 Stat. 593.)
+(Pub. L. 103–239, title III, §303, May 4, 1994, 108 Stat. 593.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 103 239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

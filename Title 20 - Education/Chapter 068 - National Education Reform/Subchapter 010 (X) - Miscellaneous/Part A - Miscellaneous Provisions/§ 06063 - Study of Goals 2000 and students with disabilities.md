@@ -36,9 +36,9 @@ The Secretary shall request the National Academy of Sciences or the National Aca
 
 From funds appropriated to the Secretary for research related to individuals with disabilities the Secretary shall make available $600,000 for fiscal year 1994, and such sums as may be necessary for fiscal year 1995, to carry out this section. Amounts made available under this subsection shall remain available until expended.
 
-(Pub. L. 103 227, title X, §1015, Mar. 31, 1994, 108 Stat. 266.)
+(Pub. L. 103–227, title X, §1015, Mar. 31, 1994, 108 Stat. 266.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to this chapter (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Forcomplete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to this chapter (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

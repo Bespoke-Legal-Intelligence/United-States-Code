@@ -52,7 +52,7 @@ Each State may reserve for the proper and efficient performance of its duties un
 
 &emsp;(2) $400,000, or $50,000 in the case of the outlying areas.
 
-(Pub. L. 89 10, title I, §1603, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3611.)
+(Pub. L. 89–10, title I, §1603, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3611.)
 
 #### Section Referred to in Other Sections
 

@@ -94,7 +94,7 @@ Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 
 #### Prior Provisions
 
-A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which defined terms used in former sections 1071 to 1086 of this title, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -170,7 +170,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Transitional Provisions for Qualification for Conversion Health Policies; Preexisting Conditions
 
@@ -188,7 +188,7 @@ Section 731(e) of Pub. L. 101–189 provided that:
 
 #### Dependent; Qualification as; Effective Date
 
-Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, which provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, was repealed by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
+Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@
 
 #### (d) Confidentiality of informant
 
-The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent ofthe individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
+The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
 
 (Pub. L. 101–630, title IV, §404, Nov. 28, 1990, 104 Stat. 4547.)
 

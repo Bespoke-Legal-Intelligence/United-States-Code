@@ -10,7 +10,7 @@ The Architect of the Capitol is hereby authorized and directed to transfer, as t
 
 #### (c) Special deposit account
 
-All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed upon such other official, authority, or authorities as the Committee on House Administration may designate.
+All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed upon such other official, authority, or authorities asthe Committee on House Administration may designate.
 
 #### (d) Effective date
 
@@ -50,7 +50,7 @@ House Resolution 186, agreed to April 24, 1941, authorized the establishment of 
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Food Service Operations; Election by Certain Affected Employees; Disability and Retirement Benefits; Promulgation of Regulations
 

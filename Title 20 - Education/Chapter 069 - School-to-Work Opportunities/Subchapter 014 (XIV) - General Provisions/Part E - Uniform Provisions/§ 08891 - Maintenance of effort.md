@@ -22,7 +22,7 @@ The Secretary may waive the requirements of this section if the Secretary determ
 
 &emsp;(2) a precipitous decline in the financial resources of the local educational agency.
 
-(Pub. L. 89 10, title XIV, §14501, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3901.)
+(Pub. L. 89–10, title XIV, §14501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3901.)
 
 #### Section Referred to in Other Sections
 

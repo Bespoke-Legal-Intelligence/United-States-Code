@@ -42,7 +42,7 @@ The duties of the Institute shall include the following:
 
 &emsp;(4) Provision, upon the request of the Director of the Office of Science and Technology Policy, of technical support and assistance—
 
-&emsp;&emsp;(A) to the committees and panels of the President's Council of Advisers on Science and Technology that provide advice to the Executive branch on technology policy; and
+&emsp;&emsp;(A) to the committees and panels of the President's Council of Advisers on Scienceand Technology that provide advice to the Executive branch on technology policy; and
 
 &emsp;&emsp;(B) to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.
 

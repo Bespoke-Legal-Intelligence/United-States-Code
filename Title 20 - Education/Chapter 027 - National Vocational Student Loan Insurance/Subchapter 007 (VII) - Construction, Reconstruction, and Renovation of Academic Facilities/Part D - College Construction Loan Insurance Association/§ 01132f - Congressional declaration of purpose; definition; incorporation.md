@@ -12,19 +12,19 @@ The Congress hereby declares that it is the purpose of this part to authorize pa
 
 #### (b) Status as non-governmental entity
 
-The Corporation shall not be an agency, instrumentality, or establishment of the UnitedStates Government and shall not be a “Government corporation” nor a “Government controlled corporation” as defined in section 103 of title 5. No action under section 1491 of title 28 (commonly known as the Tucker Act) shall be allowable against the United States based on the actions of the Corporation.
+The Corporation shall not be an agency, instrumentality, or establishment of the United States Government and shall not be a “Government corporation” nor a “Government controlled corporation” as defined in section 103 of title 5. No action under section 1491 of title 28 (commonly known as the Tucker Act) shall be allowable against the United States based on the actions of the Corporation.
 
 #### (c) Corporate powers and limitations
 
-The Corporation shall be subject to the provisions of this part and, to the extent not inconsistent with this part, to the District of Columbia Business Corporation Act \[D.C. Code, §29 301 et seq.\]. The business activities of the Corporation shall always be limited to the purposes set forth in subsection (a) of this section. It shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act as from time to time in effect in order to conduct its corporate affairs and to carry out its purposes and activities incidental thereto.
+The Corporation shall be subject to the provisions of this part and, to the extent not inconsistent with this part, to the District of Columbia Business Corporation Act \[D.C. Code, §29–301 et seq.\]. The business activities of the Corporation shall always be limited to the purposes set forth in subsection (a) of this section. It shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act as from time to time in effect in order to conduct its corporate affairs and to carry out its purposes and activities incidental thereto.
 
 #### (d) “Education facilities purpose” defined
 
 As used in this section, an “education facilities purpose” includes any activity (including activities related to the payment of financing or transaction costs) relating to the construction, reconstruction, renovation, acquisition, or purchase of (1) education, training, or research facilities or housing for students, faculty, or staff, (2) any underlying real property or any interest therein, (3) furniture, fixtures, and equipment to be used in connection with any education or training facility or housing for students, faculty, or staff, and (4) instructional equipment and research instrumentation including site preparation for such equipment and instrumentation.
 
-(Pub. L. 89 329, title VII, §751, as added Pub. L. 99 498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528.)
+(Pub. L. 89–329, title VII, §751, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528.)
 
 #### References in Text
 
-The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29 301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
 

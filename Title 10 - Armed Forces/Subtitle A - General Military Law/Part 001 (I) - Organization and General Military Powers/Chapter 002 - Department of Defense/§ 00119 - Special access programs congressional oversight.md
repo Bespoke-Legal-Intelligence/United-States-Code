@@ -1,4 +1,4 @@
-### §119 . Special access programs: congressional oversight
+### §119. Special access programs: congressional oversight
 
 (a)(1) Not later than February 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 101–510, §1482(a)(1), redesignated subsec. (f) as (g).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security ofHouse of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
@@ -94,5 +94,5 @@ Five-Year Reference Amounts.—The first report under subsection (a) of section 
 
 “(c)
 
-Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
+Initial Report on Special Access Program Designations.—The first report under subsection (b) ofsection 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
 

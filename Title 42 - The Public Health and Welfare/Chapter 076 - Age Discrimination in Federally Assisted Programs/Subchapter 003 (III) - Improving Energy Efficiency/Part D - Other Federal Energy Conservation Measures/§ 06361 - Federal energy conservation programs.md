@@ -26,7 +26,7 @@ The Secretary shall include in the report required under section 8258(b) of this
 
 #### (d) Applicability of plan to Executive agencies
 
-The plan developed by the President pursuant to subsection (a)(2) of this section shall be applicable to Executive agencies as defined in section105 of title 5 and to the United States Postal Service.
+The plan developed by the President pursuant to subsection (a)(2) of this section shall be applicable to Executive agencies as defined in section 105 of title 5 and to the United States Postal Service.
 
 #### (e) Authorization of appropriations
 

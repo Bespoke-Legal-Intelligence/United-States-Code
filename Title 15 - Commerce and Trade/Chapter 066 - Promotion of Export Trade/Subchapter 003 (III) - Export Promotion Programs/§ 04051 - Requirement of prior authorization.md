@@ -22,7 +22,7 @@ For purposes of this subchapter, the term “export promotion program” means a
 
 &emsp;(1) trade development (except for the trade adjustment assistance program) and dissemination of foreign marketing opportunities and other marketing information to United States producers of goods and services, including the expansion of foreign markets for United States textiles and apparel and any other United States products;
 
-&emsp;(2) the development of regional and multilateral economic policies which enhanceUnited States trade and investment interests, and the provision of marketing services with respect to foreign countries and regions;
+&emsp;(2) the development of regional and multilateral economic policies which enhance United States trade and investment interests, and the provision of marketing services with respect to foreign countries and regions;
 
 &emsp;(3) the exhibition of United States goods in other countries;
 
@@ -40,15 +40,15 @@ For purposes of this subchapter, the term “export promotion program” means a
 
 (2) Any fees received by the Secretary pursuant to paragraph (1) shall be deposited in a separate account or accounts which may be used to defray directly the costs incurred in conducting activities authorized by paragraph (1) or to repay or make advances to appropriations or other funds available for such activities.
 
-(Pub. L. 99 64, title II, §201, July 12, 1985, 99 Stat. 157; Pub. L. 100 418, title II, §§2305(a), 2308(a), Aug. 23, 1988, 102 Stat. 1344, 1346.)
+(Pub. L. 99–64, title II, §201, July 12, 1985, 99 Stat. 157; Pub. L. 100–418, title II, §§2305(a), 2308(a), Aug. 23, 1988, 102 Stat. 1344, 1346.)
 
 #### Codification
 
-Section was enacted as part of the Export Administration Amendments Act of 1985, and not as part of Pub. L. 97 290 which enacted this chapter.
+Section was enacted as part of the Export Administration Amendments Act of 1985, and not as part of Pub. L. 97–290 which enacted this chapter.
 
 #### Amendments
 
-1988—Subsec. (d)(5). Pub. L. 100 418, §2305(a), added par. (5).
+1988—Subsec. (d)(5). Pub. L. 100–418, §2305(a), added par. (5).
 
-Subsec. (e). Pub. L. 100 418, §2308(a), added subsec. (e).
+Subsec. (e). Pub. L. 100–418, §2308(a), added subsec. (e).
 

@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 46:1482
 
-Section 13110 establishes the National Boating Safety Advisory Council, the membership of the council, and compensation for individuals serving on the council.This council is to be established consistent with the Federal Advisory Committee Act (P.L. 92–463; 5 U.S.C. App.).
+Section 13110 establishes the National Boating Safety Advisory Council, the membership of the council, and compensation for individuals serving on the council. This council is to be established consistent with the Federal Advisory Committee Act (P.L. 92–463; 5 U.S.C. App.).
 
 #### Amendments
 

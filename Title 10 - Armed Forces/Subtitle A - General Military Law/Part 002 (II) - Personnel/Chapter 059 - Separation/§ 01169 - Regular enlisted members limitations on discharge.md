@@ -1,4 +1,4 @@
-### §1169 . Regular enlisted members: limitations on discharge
+### §1169. Regular enlisted members: limitations on discharge
 
 No regular enlisted member of an armed force may be discharged before his term of service expires, except—
 

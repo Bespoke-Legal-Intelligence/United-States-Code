@@ -8,13 +8,13 @@ No advertisement to aid, promote, or assist directly or indirectly the extension
 
 &emsp;(3) Any other term that the Board may by regulation require to be disclosed.
 
-(Pub. L. 90 321, title I, §143, May 29, 1968, 82 Stat. 158; Pub. L. 96 221, title VI, §§613(f), 619(a), Mar. 31, 1980, 94 Stat. 177, 183.)
+(Pub. L. 90–321, title I, §143, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §§613(f), 619(a), Mar. 31, 1980, 94 Stat. 177, 183.)
 
 #### Amendments
 
-1980—Pub. L. 96 221 in existing introductory text struck out applicability of rate determined under section 1637(a)(5) of this title, and amended section generally substituting items setting forth minimum or fixed amount, etc., set out in pars. (1) to (3), for items time period, etc., set out in pars. (1) to (5).
+1980—Pub. L. 96–221 in existing introductory text struck out applicability of rate determined under section 1637(a)(5) of this title, and amended section generally substituting items setting forth minimum or fixed amount, etc., set out in pars. (1) to (3), for items time period, etc., set out in pars. (1) to (5).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 

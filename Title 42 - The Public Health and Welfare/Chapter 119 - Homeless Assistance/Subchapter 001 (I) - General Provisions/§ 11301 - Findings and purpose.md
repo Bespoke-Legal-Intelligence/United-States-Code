@@ -24,7 +24,7 @@ It is the purpose of this chapter—
 
 &emsp;(2) to use public resources and programs in a more coordinated manner to meet the critically urgent needs of the homeless of the Nation; and
 
-&emsp;(3) to provide funds for programs to assist the homeless, with special emphasis on elderly persons, handicapped persons, families with children, Native Americans, and veterans.
+&emsp;(3) to provide funds for programs to assist the homeless, with special emphasis on elderlypersons, handicapped persons, families with children, Native Americans, and veterans.
 
 (Pub. L. 100–77, title I, §102, July 22, 1987, 101 Stat. 484.)
 
@@ -42,7 +42,7 @@ Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: “This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the ‘Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992’.”
+Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: “This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the ‘Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992’.”
 
 #### Short Title of 1990 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 103–120, §2, Oct. 27, 1993, 107 Stat. 1144, directed Secretary of Hou
 
 #### Strategy To Eliminate Unfit Transient Facilities
 
-Pub. L. 101–625, title VIII, §825, Nov. 28, 1990, 104 Stat. 4356, as amended by Pub. L. 102–550, title XIV, §1412, Oct. 28, 1992, 106 Stat. 4039, directed Secretary of Housing and Urban Development, not more than 9 months after Oct. 28, 1992, to identify the States and units of general local government using unfit transient facilities as housing for homeless families with children and develop and publish in the Federal Register a strategy to eliminate such use by July 1, 1994, and in developing such strategy, to consult with the Secretary of the Department of Health and Human Services, the Administrator of the Federal Emergency Management Agency, other appropriate Federal officials, appropriate States and units of general local government, major organizations representing homeless persons and other experts.
+Pub. L. 101–625, title VIII, §825, Nov. 28, 1990, 104 Stat. 4356, as amended by Pub. L. 102–550, title XIV, §1412, Oct. 28, 1992, 106 Stat. 4039, directed Secretary of Housing and Urban Development, not more than 9 monthsafter Oct. 28, 1992, to identify the States and units of general local government using unfit transient facilities as housing for homeless families with children and develop and publish in the Federal Register a strategy to eliminate such use by July 1, 1994, and in developing such strategy, to consult with the Secretary of the Department of Health and Human Services, the Administrator of the Federal Emergency Management Agency, other appropriate Federal officials, appropriate States and units of general local government, major organizations representing homeless persons and other experts.
 
 #### Report on Effect of Rent Control on Homelessness
 

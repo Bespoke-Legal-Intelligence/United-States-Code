@@ -10,7 +10,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(B) the amount of earnings and profits described in section 959(c)(1)(B) with respect to such shareholder, or
 
-&emsp;(2) such shareholder's pro rata share of the applicable earnings of such controlled foreigncorporation determined after the application of section 951(a)(1)(B).
+&emsp;(2) such shareholder's pro rata share of the applicable earnings of such controlled foreign corporation determined after the application of section 951(a)(1)(B).
 
 #### (b) Applicable earnings
 

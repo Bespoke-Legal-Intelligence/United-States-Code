@@ -6,7 +6,7 @@ There shall be a Director of Acquisition Career Management for each military dep
 
 #### Level of Director of Acquisition Career Management Before November 6, 1993
 
-Section 1209(a) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(A), Apr. 6, 1991, 105 Stat.119, provided that: “Before November 6, 1993, the position of Director of Acquisition Career Management (as established by section 1705 of title 10, United States Code, as added by section 1202) may be held only by—
+Section 1209(a) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(A), Apr. 6, 1991, 105 Stat. 119, provided that: “Before November 6, 1993, the position of Director of Acquisition Career Management (as established by section 1705 of title 10, United States Code, as added by section 1202) may be held only by—
 
 &emsp;“(1) a civilian employee in a position in the Civil Service the rate of pay for which is equal to or greater than the rate of basic pay payable for positions in level V of the Executive Schedule under section 5316 of title 5, United States Code; or
 

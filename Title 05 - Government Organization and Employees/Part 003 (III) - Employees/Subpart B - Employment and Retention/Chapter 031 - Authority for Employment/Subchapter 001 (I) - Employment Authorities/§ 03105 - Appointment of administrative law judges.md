@@ -22,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners in section catchline and wherever appearing in text.
+<b>1978</b>—Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners in section catchline and wherever appearing in text.
 
 #### References to Hearing Examiner Deemed References to Administrative Law Judge
 
@@ -76,5 +76,5 @@ Use of administrative law judges from other agencies in case of temporary or occ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 554, 556, 559, 1104, 1204, 1215, 1305, 3132, 3323, 3344, 4301, 5102, 5304, 5372, 7105, 7132, 7521, 7701 of this title; title 7 section 2023; title 15 sections 327, 1715; title 16 section 823b; title 19 section 1641; title 20 section 1234; title 29 sections 214, 661, 792; title 30 sections 804, 823, 932a; title 31 sections 3801, 6712, 6713, 6720; title 33 sections 873, 919; title 41 section 607; title 42 sections 2000e–4, 2282a, 3608, 3612, 6303, 8433; title 47 section 410; title 49 sections 10305, 10344, 11346, 46104; title 50 App. section 2412.
+This section is referred to in sections 554, 556, 559, 1104, 1204, 1215, 1305, 3132, 3323, 3344, 4301, 5102, 5304, 5372, 7105, 7132, 7521, 7701 of this title; title 7 section 2023; title 15 sections 327, 1715; title 16 section 823b; title 19 section 1641; title 20 section 1234; title 29 sections 214, 661, 792; title 30 sections 804, 823, 932a; title 31 sections 3801, 6712, 6713, 6720; title 33 sections 873, 919; title 41 section 607; title 42 sections 2000e–4, 2282a, 3608, 3612, 6303, 8433; title 47 section 410; title 49 section 46104; title 50 App. section 2412.
 

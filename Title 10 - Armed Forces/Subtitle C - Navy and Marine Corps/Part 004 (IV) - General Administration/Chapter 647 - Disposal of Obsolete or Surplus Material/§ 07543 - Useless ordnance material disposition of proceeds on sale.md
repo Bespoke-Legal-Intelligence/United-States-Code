@@ -1,4 +1,4 @@
-### §7543 . Useless ordnance material: disposition of proceeds on sale
+### §7543. Useless ordnance material: disposition of proceeds on sale
 
 The net proceeds of sales of useless ordnance material by the Department of the Navy shall be covered into the Treasury.
 

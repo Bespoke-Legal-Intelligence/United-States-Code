@@ -26,15 +26,15 @@ The Secretary of Defense may by regulation identify classes of children who shal
 
 (2) Notwithstanding subsection (c) of this section, the Secretary may not waive the tuition requirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).
 
-(Pub. L. 95 561, title XIV, §1404, Nov. 1, 1978, 92 Stat. 2366; Pub. L. 99 145, title XII, §1205, Nov. 8, 1985, 99 Stat. 721; Pub. L. 101 189, div. A, title III, §325(b), Nov. 29, 1989, 103 Stat. 1415.)
+(Pub. L. 95–561, title XIV, §1404, Nov. 1, 1978, 92 Stat. 2366; Pub. L. 99–145, title XII, §1205, Nov. 8, 1985, 99 Stat. 721; Pub. L. 101–189, div. A, title III, §325(b), Nov. 29, 1989, 103 Stat. 1415.)
 
 #### Amendments
 
-1989—Subsec. (d)(1)(A). Pub. L. 101 189 substituted “(other than civilian officers and employees who are sponsors under section 932(2) of this title)” for “(including employees of nonappropriated fund activities of the Department of Defense)”.
+1989—Subsec. (d)(1)(A). Pub. L. 101–189 substituted “(other than civilian officers and employees who are sponsors under section 932(2) of this title)” for “(including employees of nonappropriated fund activities of the Department of Defense)”.
 
-1985—Subsec. (d). Pub. L. 99 145 added subsec. (d).
+1985—Subsec. (d). Pub. L. 99–145 added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 
-Section 325(c) of Pub. L. 101 189 provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
+Section 325(c) of Pub. L. 101–189 provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
 

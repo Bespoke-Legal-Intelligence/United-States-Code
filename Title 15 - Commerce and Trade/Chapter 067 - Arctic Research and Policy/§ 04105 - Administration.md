@@ -12,7 +12,7 @@ The Commission may—
 
 &emsp;(5) appoint, and accept without compensation the services of, scientists and engineering specialists to be advisors to the Commission. Each advisor may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. Except for the purposes of chapter 81 of title 5 (relating to compensation for work injuries) and chapter 171 of title 28 (relating to tort claims), an advisor appointed under this paragraph shall not be considered an employee of the United States for any purpose.
 
-(Pub. L. 98 373, title I, §106, July 31, 1984, 98 Stat. 1245; Pub. L. 101 609, §5, Nov. 16, 1990, 104 Stat. 3125.)
+(Pub. L. 98–373, title I, §106, July 31, 1984, 98 Stat. 1245; Pub. L. 101–609, §5, Nov. 16, 1990, 104 Stat. 3125.)
 
 #### References in Text
 
@@ -20,5 +20,5 @@ The civil service laws, referred to in par. (1), are set forth in Title 5, Gover
 
 #### Amendments
 
-1990—Par. (5). Pub. L. 101 609 added par. (5).
+1990—Par. (5). Pub. L. 101–609 added par. (5).
 

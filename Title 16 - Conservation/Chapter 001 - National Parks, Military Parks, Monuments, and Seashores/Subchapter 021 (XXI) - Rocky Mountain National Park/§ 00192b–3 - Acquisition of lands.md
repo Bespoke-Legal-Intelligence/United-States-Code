@@ -1,6 +1,6 @@
 ### §192b–3. Acquisition of lands
 
-The Secretary of the Interior is authorized to acquire lands and interests in lands by donationor with donated funds, by purchase with Federal funds, or otherwise, in his discretion, for development of an appropriate eastern approach to the park, described as follows:
+The Secretary of the Interior is authorized to acquire lands and interests in lands by donation or with donated funds, by purchase with Federal funds, or otherwise, in his discretion, for development of an appropriate eastern approach to the park, described as follows:
 
 sixth principal meridian
 

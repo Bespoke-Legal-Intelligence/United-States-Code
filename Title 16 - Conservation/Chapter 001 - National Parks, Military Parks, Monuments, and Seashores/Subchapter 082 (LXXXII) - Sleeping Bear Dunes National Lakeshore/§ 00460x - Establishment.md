@@ -1,4 +1,4 @@
-### §460x . Establishment
+### §460x. Establishment
 
 #### (a) Purpose; administration
 

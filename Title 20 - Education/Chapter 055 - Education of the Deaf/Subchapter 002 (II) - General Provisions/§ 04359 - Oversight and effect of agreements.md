@@ -8,19 +8,19 @@ Nothing in this chapter shall be construed to diminish the oversight activities 
 
 The agreements described in subsection (a) of this section shall continue in effect, to the extent that such agreements are not inconsistent with this chapter.
 
-(Pub. L. 99 371, title II, §209, formerly title IV, §409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §209, Pub. L. 102 421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103 73, title II, §204(g), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §209, formerly title IV, §409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §209, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103–73, title II, §204(g), Aug. 11, 1993, 107 Stat. 735.)
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1842.9.
+Section is also set out in D.C. Code, §31–1842.9.
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103 73, §204(g)(1), substituted “an agreement under part B of subchapter I of this chapter” for “an agreement under title II”.
+1993—Subsec. (a). Pub. L. 103–73, §204(g)(1), substituted “an agreement under part B of subchapter I of this chapter” for “an agreement under title II”.
 
-Subsec. (b). Pub. L. 103 73, §204(g)(2), struck out “the provisions of” after “inconsistent with”.
+Subsec. (b). Pub. L. 103–73, §204(g)(2), struck out “the provisions of” after “inconsistent with”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

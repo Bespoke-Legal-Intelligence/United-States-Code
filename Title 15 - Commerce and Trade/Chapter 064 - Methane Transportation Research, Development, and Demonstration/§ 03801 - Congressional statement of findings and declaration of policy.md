@@ -28,7 +28,7 @@
 
 &emsp;(5) supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
 
-(Pub. L. 96 512, §2, Dec. 12, 1980, 94 Stat. 2827.)
+(Pub. L. 96–512, §2, Dec. 12, 1980, 94 Stat. 2827.)
 
 #### References in Text
 
@@ -36,5 +36,5 @@ The Clean Air Act, as amended, referred to in subsec. (b)(4), is act July 14, 19
 
 #### Short Title
 
-Section 1 of Pub. L. 96 512 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Methane Transportation Research, Development, and Demonstration Act of 1980’.”
+Section 1 of Pub. L. 96–512 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Methane Transportation Research, Development, and Demonstration Act of 1980’.”
 

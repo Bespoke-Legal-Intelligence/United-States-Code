@@ -6,9 +6,7 @@
 | [590b.](%C2%A7%2000590b%20-%20Lands%20on%20which%20preventive%20measures%20may%20be%20taken.md) | Lands on which preventive measures may be taken. |
 | [590c.](%C2%A7%2000590c%20-%20Conditions%20under%20which%20benefits%20of%20law%20extended%20to%20nongovernment%20controlled%20lands.md) | Conditions under which benefits of law extended to nongovernment controlled lands. |
 | [590d.](%C2%A7%2000590d%20-%20Cooperation%20of%20governmental%20agencies%3B%20officers%20and%20employees%2C%20appointment%20and%20compensation%3B%20expenditures%20for%20personal%20services%20and%E2%80%A6.md) | Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies. |
-| [590e.](%C2%A7%2000590e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7246%28f%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203225.md) | Repealed. |
-| 590e–1. | Limitations on cost of construction, purchase, or improvement of buildings for Soil Conservation Service. |
-| 590e–2. | Employment of local engineers. |
+| 590e to 590e–2. Repealed or Omitted. |  |
 | [590f.](%C2%A7%2000590f%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
 | [590g.](%C2%A7%2000590g%20-%20Additional%20policies%20and%20purposes%20of%20chapter.md) | Additional policies and purposes of chapter. |
 | (a) | Purposes enumerated. |
@@ -78,8 +76,7 @@ This chapter is referred to in title 7 sections 624, 1282, 1364, 1385, 1388, 139
 - [&sect; 00590c - Conditions under which benefits of law extended to nongovernment controlled lands](%C2%A7%2000590c%20-%20Conditions%20under%20which%20benefits%20of%20law%20extended%20to%20nongovernment%20controlled%20lands.md)
 - [&sect; 00590d - Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and&#8230;](%C2%A7%2000590d%20-%20Cooperation%20of%20governmental%20agencies%3B%20officers%20and%20employees%2C%20appointment%20and%20compensation%3B%20expenditures%20for%20personal%20services%20and%E2%80%A6.md)
 - [&sect; 00590e - Repealed. Pub. L. 103&#8211;354, title II, &sect;246(f)(1), Oct. 13, 1994, 108 Stat. 3225](%C2%A7%2000590e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7246%28f%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203225.md)
-- [&sect; 00590e&#8211;1 - Limitations on cost of construction, purchase, or improvement of buildings for Soil Conservation Service](%C2%A7%2000590e%E2%80%931%20-%20Limitations%20on%20cost%20of%20construction%2C%20purchase%2C%20or%20improvement%20of%20buildings%20for%20Soil%20Conservation%20Service.md)
-- [&sect; 00590e&#8211;2 - Employment of local engineers](%C2%A7%2000590e%E2%80%932%20-%20Employment%20of%20local%20engineers.md)
+- [&sect; 00590e&#8211;1, 590e&#8211;2 - Omitted](%C2%A7%2000590e%E2%80%931%2C%20590e%E2%80%932%20-%20Omitted.md)
 - [&sect; 00590f - Authorization of appropriation](%C2%A7%2000590f%20-%20Authorization%20of%20appropriation.md)
 - [&sect; 00590g - Additional policies and purposes of chapter](%C2%A7%2000590g%20-%20Additional%20policies%20and%20purposes%20of%20chapter.md)
 - [&sect; 00590g&#8211;1, 590g&#8211;2 - Omitted](%C2%A7%2000590g%E2%80%931%2C%20590g%E2%80%932%20-%20Omitted.md)

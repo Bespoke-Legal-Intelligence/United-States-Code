@@ -44,21 +44,21 @@
 
 &emsp;To the extent that appropriations under this part are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded by subsection (b)(2) of this section.
 
-(Pub. L. 89 329, title IX, §942, as added Pub. L. 99 498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1555; amended Pub. L. 100 369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102 325, title IX, §901, July 23, 1992, 106 Stat. 768.)
+(Pub. L. 89–329, title IX, §942, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1555; amended Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 768.)
 
 #### Prior Provisions
 
-A prior section 1134m, Pub. L. 89 329, title IX, §942, as added Pub. L. 96 374, title IX, §904, Oct. 3, 1980, 94 Stat. 1487, authorized appropriations for fiscal years 1981 to 1985 for program of assistance for training in legal profession, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1134m, Pub. L. 89–329, title IX, §942, as added Pub. L. 96–374, title IX, §904, Oct. 3, 1980, 94 Stat. 1487, authorized appropriations for fiscal years 1981 to 1985 for program of assistance for training in legal profession, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1134m, Pub. L. 89 329, title IX, §945, as added Pub. L. 92 318, title I, §181(a), June 23, 1972, 86 Stat. 309, related to conditions attached to public service fellowships, prior to repeal by section 902(b) of Pub. L. 96 374.
+Another prior section 1134m, Pub. L. 89–329, title IX, §945, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 309, related to conditions attached to public service fellowships, prior to repeal by section 902(b) of Pub. L. 96–374.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, inserting par. headings and in subsec. (b)(2) substituting “$750,000 per fiscal year.” for “$500,000 per fiscal year”.
+1992—Pub. L. 102–325 amended section generally, inserting par. headings and in subsec. (b)(2) substituting “$750,000 per fiscal year.” for “$500,000 per fiscal year”.
 
-1988—Subsec. (a)(2)(A). Pub. L. 100 369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1988—Subsec. (a)(2)(A). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification wastranslated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

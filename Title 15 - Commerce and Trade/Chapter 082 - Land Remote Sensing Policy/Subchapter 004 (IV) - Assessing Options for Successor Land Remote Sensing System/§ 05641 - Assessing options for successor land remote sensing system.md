@@ -26,5 +26,5 @@ In carrying out subsection (a) of this section, the Landsat Program Management s
 
 If a successor land remote sensing system to Landsat 7 can be funded and managed by the private sector while still achieving the goals stated in subsection (b) of this section without jeopardizing the domestic, national security, and foreign policy interests of the United States, preference should be given to the development of such a system by the private sector without competition from the United States Government.
 
-(Pub. L. 102 555, title IV, §401, Oct. 28, 1992, 106 Stat. 4175.)
+(Pub. L. 102–555, title IV, §401, Oct. 28, 1992, 106 Stat. 4175.)
 

@@ -56,7 +56,7 @@ An order approving a physical search under this section shall—
 
 #### (d) Emergency orders
 
-(1)(A) Notwithstanding any other provision of this subchapter, whenever the Attorney Generalreasonably makes the determination specified in subparagraph (B), the Attorney General may authorize the execution of an emergency physical search if—
+(1)(A) Notwithstanding any other provision of this subchapter, whenever the Attorney General reasonably makes the determination specified in subparagraph (B), the Attorney General may authorize the execution of an emergency physical search if—
 
 &emsp;(i) a judge having jurisdiction under section 1803 of this title is informed by the Attorney General or the Attorney General's designee at the time of such authorization that the decision has been made to execute an emergency search, and
 
@@ -88,7 +88,7 @@ Applications made and orders granted under this subchapter shall be retained for
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

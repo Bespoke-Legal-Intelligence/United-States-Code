@@ -113,9 +113,9 @@ Adjusted Net Worth of a Business or Farm
 | If the net worth of a business or farm is— | Then the adjusted net worth is— |
 | :--- | ---: |
 | Less than $1 | $0 |
-| $1 $75,000 | 40 percent of NW |
-| $75,001 $225,000 | $30,000 plus 50 percent of NW over $75,000 |
-| $225,001 $375,000 | $105,000 plus 60 percent of NW over $225,000 |
+| $1–$75,000 | 40 percent of NW |
+| $75,001–$225,000 | $30,000 plus 50 percent of NW over $75,000 |
+| $225,001–$375,000 | $105,000 plus 60 percent of NW over $225,000 |
 | $375,001 or more | $195,000 plus 100 percent of NW over $375,000 |
 
 #### (3) Asset protection allowance
@@ -130,7 +130,7 @@ Asset Protection Allowances for Families and Students
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the allowance is— |  |  |
 |  |  |  |
 |  |  |  |
-| 25 or less | &nbsp;$ 0 | &nbsp;&nbsp;$0 |
+| 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
 | 26 | &nbsp;2,200 | &nbsp;1,600 |
 | 27 | &nbsp;4,300 | &nbsp;3,200 |
 | 28 | &nbsp;6,500 | &nbsp;4,700 |
@@ -196,55 +196,55 @@ Assessment From Adjusted Available Income (AAI)
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.
 
-(Pub. L. 89 329, title IV, §477, as added Pub. L. 99 498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100 50, §14(1) (6), (8), (18), (19), June 3, 1987, 101 Stat. 349 351; Pub. L. 102 325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103 208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472.)
+(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472.)
 
 #### Amendments
 
-1993—Subsec. (b)(4). Pub. L. 103 208, §2(g)(2), substituted “$9,510” for “9,510” in table.
+1993—Subsec. (b)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
 
-Subsec. (e). Pub. L. 103 208, §2(g)(7), added subsec. (e).
+Subsec. (e). Pub. L. 103–208, §2(g)(7), added subsec. (e).
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to family contribution for independent students with dependents other than a spouse for provisions relating to family contribution for independent students with dependents (including a spouse).
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to family contribution for independent students with dependents other than a spouse for provisions relating to family contribution for independent students with dependents (including a spouse).
 
-1987—Subsec. (a)(1)(C). Pub. L. 100 50, §14(18), added subpar. (C).
+1987—Subsec. (a)(1)(C). Pub. L. 100–50, §14(18), added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 100 50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+Subsec. (b)(2). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
-Subsec. (b)(5)(A). Pub. L. 100 50, §14(19), substituted “$2,100” for “$2,000”.
+Subsec. (b)(5)(A). Pub. L. 100–50, §14(19), substituted “$2,100” for “$2,000”.
 
-Subsec. (b)(7). Pub. L. 100 50, §14(2), struck out “National” before “Center”.
+Subsec. (b)(7). Pub. L. 100–50, §14(2), struck out “National” before “Center”.
 
-Subsec. (c)(2)(B). Pub. L. 100 50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
+Subsec. (c)(2)(B). Pub. L. 100–50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
 
-Subsec. (c)(2)(C). Pub. L. 100 50, §14(1), (4), substituted “section 1087rr of this title” for “section 1087ss of this title” in text, added table, and struck out former table which read as follows:
+Subsec. (c)(2)(C). Pub. L. 100–50, §14(1), (4), substituted “section 1087rr of this title” for “section 1087ss of this title” in text, added table, and struck out former table which read as follows:
 
 “Adjusted Net Worth of a Business or Farm
 
 | If the net worth of a business or farm is— | Then the adjusted net worth is: |
 | :--- | ---: |
 | Less than $1 | $0 |
-| $1 $65,000 | 40 percent of NW |
-| $65,001 $195,000 | $26,000 plus 50 percent of NW over $65,000 |
-| $195,001 $325,000 | $91,000 plus 60 percent of NW over $195,000 |
+| $1–$65,000 | 40 percent of NW |
+| $65,001–$195,000 | $26,000 plus 50 percent of NW over $65,000 |
+| $195,001–$325,000 | $91,000 plus 60 percent of NW over $195,000 |
 | $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
 
-Subsec. (c)(4)(B). Pub. L. 100 50, §14(5), substituted “$15,999” for “$15,000”.
+Subsec. (c)(4)(B). Pub. L. 100–50, §14(5), substituted “$15,999” for “$15,000”.
 
-Subsec. (c)(4)(C). Pub. L. 100 50, §14(6), substituted “$16,000” for “$15,000” in three places.
+Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$15,000” in three places.
 
-Subsec. (d). Pub. L. 100 50, §14(1), (8), substituted “section 1087rr of this title” for “section 1087ss of this title” in text and inserted a minus sign before “$3,409” in two places in table.
+Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted “section 1087rr of this title” for “section 1087ss of this title” in text and inserted a minus sign before “$3,409” in two places in table.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102 325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,5 +20,5 @@ The Congress finds that—
 
 The purpose of this part is to authorize an education improvement program for the outlying areas which will assist in developing programs which will enhance student learning, increase the standard of education, and improve the performance levels of all students.
 
-(Pub. L. 89 10, title X, §10801, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3844.)
+(Pub. L. 89–10, title X, §10801, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3844.)
 

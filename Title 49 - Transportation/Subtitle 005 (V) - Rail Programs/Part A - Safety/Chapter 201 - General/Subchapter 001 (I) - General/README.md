@@ -20,5 +20,5 @@
 - [&sect; 20113 - Enforcement by the States](%C2%A7%2020113%20-%20Enforcement%20by%20the%20States.md)
 - [&sect; 20114 - Judicial procedures](%C2%A7%2020114%20-%20Judicial%20procedures.md)
 - [&sect; 20115 - User fees](%C2%A7%2020115%20-%20User%20fees.md)
-- [&sect; 20116 - Biennial report](%C2%A7%2020116%20-%20Biennial%20report.md)
+- [&sect; 20116 - Repealed. Pub. L. 104&#8211;66, title I, &sect;1121(g)(1), Dec. 21, 1995, 109 Stat. 724](%C2%A7%2020116%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71121%28g%29%281%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20724.md)
 - [&sect; 20117 - Authorization of appropriations](%C2%A7%2020117%20-%20Authorization%20of%20appropriations.md)

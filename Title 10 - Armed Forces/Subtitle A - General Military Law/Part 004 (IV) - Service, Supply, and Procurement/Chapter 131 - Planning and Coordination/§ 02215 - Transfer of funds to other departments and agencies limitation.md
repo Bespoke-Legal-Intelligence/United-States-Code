@@ -8,9 +8,9 @@ Funds available for military functions of the Department of Defense may not be m
 
 A prior section 2215, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to reports on unobligated balances, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(7), Nov. 5, 1990, 104 Stat. 1668.
 
-Similar provisions were contained in Pub. L. 101–189, div. A, title XVI, §1604, Nov. 29, 1989, 103 Stat. 1598, which was set out as a note under section 1531 of Title 31, Money and Finance, prior to repeal by Pub. L. 103–160, §1106(b).
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XVI, §1604, Nov. 29, 1989, 103 Stat. 1598, which was set out as a note under section 1531 of Title 31, Money and Finance, prior to repeal by Pub. L. 103–160, §1106(b).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

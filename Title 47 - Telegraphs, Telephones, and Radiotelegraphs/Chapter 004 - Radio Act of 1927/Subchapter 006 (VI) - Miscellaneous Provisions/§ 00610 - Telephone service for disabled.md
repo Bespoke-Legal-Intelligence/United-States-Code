@@ -66,7 +66,7 @@ The Commission shall periodically review the regulations established pursuant to
 
 #### (g) Recovery of reasonable and prudent costs
 
-Any common carrier or connecting carrier may provide specialized terminal equipment needed by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
+Any common carrier or connecting carrier may provide specialized terminal equipmentneeded by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
 
 #### (h) State enforcement
 
@@ -76,7 +76,7 @@ The Commission shall delegate to each State commission the authority to enforce 
 
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103–414 substituted “The Commission” for “The Commission shall complete rulemaking actions required by this section and issue specific and detailed rules and regulations resultingtherefrom within one year after January 3, 1983. The Commission shall complete rulemaking actions required to implement the amendments made by the Hearing Aid Compatibility Act of 1988 within nine months after August 16, 1988. Thereafter, the Commission”.
+1994—Subsec. (f). Pub. L. 103–414 substituted “The Commission” for “The Commission shall complete rulemaking actions required by this section and issue specific and detailed rules and regulations resulting therefrom within one year after January 3, 1983. The Commission shall complete rulemaking actions required to implement the amendments made by the Hearing Aid Compatibility Act of 1988 within nine months after August 16, 1988. Thereafter, the Commission”.
 
 1988—Subsec. (b). Pub. L. 100–394, §3(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Commission shall require that essential telephones provide internal means for effective use with hearing aids that are specially designed for telephone use. For purposes of this subsection, the term ‘essential telephones’ means only coin-operated telephones, telephones provided for emergency use, and other telephones frequently needed for use by persons using such hearing aids.”
 

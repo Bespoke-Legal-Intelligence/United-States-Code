@@ -322,7 +322,7 @@ Section 104(a)(2) of Pub. L. 99–659 provided that: “The amendments made by p
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -338,7 +338,7 @@ Section 113 of Pub. L. 99–659 provided that: “Notwithstanding section 302 of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 971b, 1362, 1379, 1433, 1445a, 1802, 2803, 2804, 3602, 5102 of this title; title 30 section 1415.
+This section is referred to in sections 971b, 1362, 1379, 1433, 1445a, 1802, 2803, 2804, 3602, 5102, 5601 of this title; title 30 section 1415.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

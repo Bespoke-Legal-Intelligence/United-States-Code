@@ -12,7 +12,7 @@
 
 &emsp;(D) Providing services to victims of sex offenses and for prevention of sex offenses.
 
-&emsp;(E) With respect to activities described in any of subparagraphs (A) through (D), relatedplanning, administration, and educational activities.
+&emsp;(E) With respect to activities described in any of subparagraphs (A) through (D), related planning, administration, and educational activities.
 
 &emsp;(F) Monitoring and evaluation of activities carried out under any of subparagraphs (A) through (E) <sup>1</sup>
 

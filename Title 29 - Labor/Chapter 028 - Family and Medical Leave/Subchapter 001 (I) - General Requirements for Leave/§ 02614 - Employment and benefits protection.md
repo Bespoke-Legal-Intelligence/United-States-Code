@@ -44,7 +44,7 @@
 
 #### (2) Affected employees
 
-&emsp;An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
+&emsp;An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75miles of the facility at which the employee is employed.
 
 #### (c) Maintenance of health benefits
 
@@ -92,5 +92,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2618, 2632 of this title; title 2 sections 60m, 60n.
+This section is referred to in sections 2618, 2632 of this title; title 2 section 1312.
 

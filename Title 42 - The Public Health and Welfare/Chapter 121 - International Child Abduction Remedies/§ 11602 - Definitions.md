@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) the term “applicant” means any person who, pursuant to the Convention, files an application with the United States Central Authority or a Central Authority of any other party to the Convention for the return of a child alleged to have been wrongfully removed or retained or for arrangements for organizing or securing the effective exercise of rights of access pursuant to the Convention;
 
-&emsp;(2) the term “Convention” means the Convention on the Civil Aspects of InternationalChild Abduction, done at The Hague on October 25, 1980;
+&emsp;(2) the term “Convention” means the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980;
 
 &emsp;(3) the term “Parent Locator Service” means the service established by the Secretary of Health and Human Services under section 653 of this title;
 

@@ -6,15 +6,15 @@
 
 &emsp;A local educational agency may use funds under this part, in combination with other Federal, State, and local funds, in order to upgrade the entire educational program in a school described in subparagraph (A) or (B) if, for the initial year of the schoolwide program, the school meets either of the following criteria:
 
-&emsp;&emsp;(A) For the school year 1995 1996—
+&emsp;&emsp;(A) For the school year 1995–1996—
 
 &emsp;&emsp;&emsp;(i) the school serves an eligible school attendance area in which not less than 60 percent of the children are from low-income families; or
 
 &emsp;&emsp;&emsp;(ii) not less than 60 percent of the children enrolled in the school are from such families.
 
-&emsp;&emsp;(B) For the school year 1996 1997 and subsequent years—
+&emsp;&emsp;(B) For the school year 1996–1997 and subsequent years—
 
-&emsp;&emsp;&emsp;(i) the school serves an eligible school attendance area in which not less than 50 percent of the children are from low-income families; or
+&emsp;&emsp;&emsp;(i) the school serves an eligible school attendance area in which not less than 50percent of the children are from low-income families; or
 
 &emsp;&emsp;&emsp;(ii) not less than 50 percent of the children enrolled in the school are from such families.
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(II) address how the school will determine if such needs have been met; and
 
-&emsp;&emsp;&emsp;(vii)<sup>1</sup> are consistent with, and are designed to implement, the State and local improvement plans, if any, approved under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
+&emsp;&emsp;&emsp;(vii) <sup>1</sup> are consistent with, and are designed to implement, the State and local improvement plans, if any, approved under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
 
 &emsp;&emsp;(C) Instruction by highly qualified professional staff.
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(i) developed during a one-year period, unless—
 
-&emsp;&emsp;&emsp;(I) the local educational agency, after considering the recommendation of the technical assistance providers under subsections (c) and (e) of section 6318 of this title, determines that less time is neededto develop and implement the schoolwide program; or
+&emsp;&emsp;&emsp;(I) the local educational agency, after considering the recommendation of the technical assistance providers under subsections (c) and (e) of section 6318 of this title, determines that less time is needed to develop and implement the schoolwide program; or
 
 &emsp;&emsp;&emsp;(II) the school is operating a schoolwide program on the day preceding the date of enactment of the Improving America's Schools Act of 1994 \[Oct. 20, 1994\], in which case such school may continue to operate such program, but shall develop a new plan during the first year of assistance under such Act to reflect the provisions of this section;
 
@@ -138,25 +138,25 @@
 
 A schoolwide program under this section shall be subject to the school improvement provisions of section 6317 of this title.
 
-(Pub. L. 89 10, title I, §1114, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3534.)
+(Pub. L. 89–10, title I, §1114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3534.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(4)(A), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Improving America's Schools Act of 1994, referred to in subsec. (b)(2)(C)(i)(II), is Pub. L. 103 382, Oct. 20, 1994, 108 Stat. 3518. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
+The Improving America's Schools Act of 1994, referred to in subsec. (b)(2)(C)(i)(II), is Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
 
-The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(2)(C)(v), is Pub. L. 103 239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(2)(C)(v), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(2)(C)(v), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(2)(C)(v), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(C)(v), is Pub. L. 101 610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(C)(v), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6311, 6312, 6313, 6315, 6319, 6320, 6322, 6394, 6396, 6493, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g 12, 9855c.
+This section is referred to in sections 6311, 6312, 6313, 6315, 6319, 6320, 6322, 6394, 6396, 6493, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g–12, 9855c.
 
-<i><sup>1</sup></i><i>So in original. No cls. (v) and (vi) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. No cls. (v) and (vi) have been enacted.</i>
 

@@ -50,7 +50,7 @@ For the purposes of this chapter, the term—
 
 (t) “Settlement Trust” means a trust—
 
-&emsp;(1) established and registered by a Native Corporation under the laws of the State ofAlaska pursuant to a resolution of its shareholders, and
+&emsp;(1) established and registered by a Native Corporation under the laws of the State of Alaska pursuant to a resolution of its shareholders, and
 
 &emsp;(2) operated for the sole benefit of the holders of the corporation's Settlement Common Stock in accordance with section 1629e of this title and the laws of the State of Alaska.
 

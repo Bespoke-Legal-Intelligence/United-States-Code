@@ -126,13 +126,17 @@ Each recipient of funds awarded pursuant to subsection (a) of this section shall
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, §411, Nov. 28, 1990, 104 Stat. 4553.)
+(Pub. L. 101–630, title IV, §411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190.)
 
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Amendments
+
+1995—Subsec. (i). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
 #### Section Referred to in Other Sections
 

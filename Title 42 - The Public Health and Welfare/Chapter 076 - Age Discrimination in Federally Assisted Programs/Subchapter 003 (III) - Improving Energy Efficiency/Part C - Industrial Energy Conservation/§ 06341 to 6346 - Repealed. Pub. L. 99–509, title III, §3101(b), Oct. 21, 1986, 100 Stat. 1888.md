@@ -1,6 +1,6 @@
 ### §§6341 to 6346. Repealed. Pub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888
 
-Section 6341, Pub. L. 94–163, title III, §371, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(c),691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288, defined terms used in this part.
+Section 6341, Pub. L. 94–163, title III, §371, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(c), 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288, defined terms used in this part.
 
 Section 6342, Pub. L. 94–163, title III, §372, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288, directed Secretary to establish and maintain an energy efficient program.
 

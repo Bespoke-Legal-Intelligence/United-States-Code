@@ -64,7 +64,7 @@ It is the purpose of this section to assist the United States in expanding emplo
 
 #### (3) Special rule
 
-&emsp;No demonstration program under this subsection shall be assisted under this section for a period of more than 7 years. No pilot program under this subsection shall be assistedunder this section for a period of more than 3 years.
+&emsp;No demonstration program under this subsection shall be assisted under this section for a period of more than 7 years. No pilot program under this subsection shall be assisted under this section for a period of more than 3 years.
 
 #### (d) Evaluation
 

@@ -22,7 +22,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 #### (1) Highway sanctions
 
-&emsp;(A) The Administrator may impose a prohibition, applicable to a nonattainment area, on the approval by the Secretary of Transportation of any projects or the awarding by the Secretary of any grants, under title 23 other than projects or grants for safety where the Secretary determines, based on accident or other appropriate data submitted by the State, that the principal purpose of the project is an improvement in safety to resolve a demonstrated safety problem and likely will result in a significant reduction in, or avoidance of, accidents. Such prohibition shall become effective upon the selection by the Administrator of this sanction.
+&emsp;(A) The Administrator may impose a prohibition, applicable to a nonattainment area, on the approval by the Secretary of Transportation of any projects or the awarding by the Secretary of any grants, under title 23 other than projects or grants for safety where the Secretary determines, based on accident or other appropriate data submitted by the State, that the principal purpose of the project is an improvement in safety to resolve a demonstrated safety problem and likely willresult in a significant reduction in, or avoidance of, accidents. Such prohibition shall become effective upon the selection by the Administrator of this sanction.
 
 &emsp;(B) In addition to safety, projects or grants that may be approved by the Secretary, notwithstanding the prohibition in subparagraph (A), are the following—
 
@@ -50,7 +50,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 #### (c) Notice of failure to attain
 
-(1) As expeditiously as practicable after the applicable attainment date for any nonattainment area, but not later than 6 months aftersuch date, the Administrator shall determine, based on the area's air quality as of the attainment date, whether the area attained the standard by that date.
+(1) As expeditiously as practicable after the applicable attainment date for any nonattainment area, but not later than 6 months after such date, the Administrator shall determine, based on the area's air quality as of the attainment date, whether the area attained the standard by that date.
 
 (2) Upon making the determination under paragraph (1), the Administrator shall publish a notice in the Federal Register containing such determination and identifying each area that the Administrator has determined to have failed to attain. The Administrator may revise or supplement such determination at any time based on more complete information or analysis concerning the area's air quality as of the attainment date.
 

@@ -4,7 +4,7 @@
 
 Any individual director, or responsible officer of a firm constructing, owning, operating, or supplying the components of any facility or activity which is licensed or otherwise regulated pursuant to the Atomic Energy Act of 1954 as amended \[42 U.S.C. 2011 et seq.\], or pursuant to this chapter, who obtains information reasonably indicating that such facility or activity or basic components supplied to such facility or activity—
 
-&emsp;(1) fails to comply with the Atomic Energy Act of 1954, as amended, or any applicablerule, regulation, order, or license of the Commission relating to substantial safety hazards, or
+&emsp;(1) fails to comply with the Atomic Energy Act of 1954, as amended, or any applicable rule, regulation, order, or license of the Commission relating to substantial safety hazards, or
 
 &emsp;(2) contains a defect which could create a substantial safety hazard, as defined by regulations which the Commission shall promulgate,
 

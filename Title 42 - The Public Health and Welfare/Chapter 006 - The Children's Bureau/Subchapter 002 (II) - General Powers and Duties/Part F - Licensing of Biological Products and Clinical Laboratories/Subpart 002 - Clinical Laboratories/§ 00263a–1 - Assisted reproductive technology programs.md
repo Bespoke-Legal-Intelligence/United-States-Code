@@ -6,7 +6,7 @@ Effective 2 years after October 24, 1992, each assisted reproductive technology 
 
 &emsp;(1) pregnancy success rates achieved by such program through each assisted reproductive technology, and
 
-&emsp;(2) the identity of each embryo laboratory (as defined in section 263a–7 <sup>1</sup> of this title) used by such program and whether the laboratory is certified under section 263a–2 of this title or has applied for such certification.
+&emsp;(2) the identity of each embryo laboratory (as defined in section 263a–7 <sup>1</sup> of this title) usedby such program and whether the laboratory is certified under section 263a–2 of this title or has applied for such certification.
 
 #### (b) Pregnancy success rates
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) are within the boundaries of the Dodson/Warrendale Special Purchase Unit; or
 
-&emsp;(D) are owned by an Indian tribe, held in trust by the United States for an Indian tribe or member of an Indian tribe, or otherwise administered by the United States for the benefit of an Indian tribe or member of an Indian tribe.
+&emsp;(D) are owned by an Indian tribe, held in trust by the United States for an Indian tribeor member of an Indian tribe, or otherwise administered by the United States for the benefit of an Indian tribe or member of an Indian tribe.
 
 #### (c) Hardship cases
 
@@ -34,7 +34,7 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 (2) In exercising this authority to acquire forest lands pursuant to this subsection, the Secretary may accept title to such lands and convey to the owner federally owned lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located. Forest lands exchanged pursuant to this subsection shall be of approximately equal value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize minor differences in the values of the properties exchanged: <i>Provided further</i>, That the Secretary may reserve in any conveyance pursuant to this subsection such easements, subsurface rights, and any other interests in land deemed necessary or desirable: <i>Provided further</i>, That the valuation of lands exchanged shall be determined in terms of forest uses for timber.
 
-(3) It is the intention of Congress that land exchanges pursuant to this subsection shall be completed no later than five years after November 17, 1986. No later than sixty days after November 17, 1986, and every one hundred eighty days thereafter, the Secretary shall report in writing to the Committee on Energy and Natural Resources of the United States Senate and the Committees on Agriculture and Interior and Insular Affairs of the United States House of Representatives, on the status of negotiations with owners of non-Federal lands to effect the exchanges authorized by this subsection.
+(3) It is the intention of Congress that land exchanges pursuant to this subsection shall be completed no later than five years after November 17, 1986.
 
 (4) In the event that exchanges authorized by this section leave any private forest land owner with ownership of an uneconomic remnant of forest land contiguous to a special management area, the Secretary is authorized to acquire such forest lands as if they were within the boundaries of a special management area.
 
@@ -160,7 +160,7 @@ Zig-Zag Area
 
 For the purposes of section 460<i>l</i>–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
-(Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287.)
+(Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710.)
 
 #### References in Text
 
@@ -172,9 +172,9 @@ Laws pertaining to mineral leasing, referred to in subsec. (d)(5), have been def
 
 Laws pertaining to geothermal leasing, referred to in subsec. (d)(5), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
-#### Change of Name
+#### Amendments
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+1995—Subsec. (d)(3). Pub. L. 104–66 struck out provision at end requiring Secretary to report to Congress on status of negotiations with owners of non-Federal lands regarding land exchanges.
 
 #### Section Referred to in Other Sections
 

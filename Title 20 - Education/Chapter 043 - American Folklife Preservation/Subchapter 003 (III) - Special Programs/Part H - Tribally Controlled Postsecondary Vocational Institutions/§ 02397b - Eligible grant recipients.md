@@ -12,5 +12,5 @@ To be eligible for assistance under this part a tribally controlled postsecondar
 
 &emsp;(5) enroll the full-time equivalency of not less than 100 students, of whom a majority are Indians.
 
-(Pub. L. 88 210, title III, §384, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 800.)
+(Pub. L. 88–210, title III, §384, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800.)
 

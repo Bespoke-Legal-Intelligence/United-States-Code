@@ -214,9 +214,9 @@ Title I, referred to in subsec. (g)(2)(C), means title I of act June 17, 1930, c
 
 #### Prior Provisions
 
-Provisions substantially the same, in most respects, as those of this section, were contained in act Oct. 3, 1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3, 1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions similar to those of this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
+Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
 

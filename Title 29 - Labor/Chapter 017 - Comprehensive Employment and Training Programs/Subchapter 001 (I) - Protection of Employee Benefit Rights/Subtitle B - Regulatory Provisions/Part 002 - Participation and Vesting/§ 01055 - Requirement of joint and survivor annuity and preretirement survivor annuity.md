@@ -202,7 +202,7 @@ Applicable interest rate.—The term “applicable interest rate” means the an
 
 &emsp;(B)
 
-Exception.—In the case of a distribution from a plan that was adopted and in effect prior to December 8, 1994, the present value of any distribution made before the earlier of—
+Exception.—In the case of a distribution from a plan that was adopted and in effectprior to December 8, 1994, the present value of any distribution made before the earlier of—
 
 &emsp;&emsp;(i) the later of when a plan amendment applying subparagraph (A) is adopted or made effective, or
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
-&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shallbe treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 &emsp;(3) The term “earliest retirement age” means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 
@@ -374,7 +374,7 @@ Amendment by section 1898(b)(6)(B) of Pub. L. 99–514 applicable to plan years 
 
 Amendment by section 1898(b)(8)(B) of Pub. L. 99–514 applicable to distributions after Oct. 22, 1986, see section 1898(b)(8)(C) of Pub. L. 99–514, as added, set out as a note under section 417 of Title 26.
 
-Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except asotherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
+Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 
 #### Effective Date of 1984 Amendment
 

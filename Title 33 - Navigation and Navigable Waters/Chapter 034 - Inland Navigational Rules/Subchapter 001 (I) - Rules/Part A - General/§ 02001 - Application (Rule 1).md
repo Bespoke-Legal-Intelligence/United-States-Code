@@ -32,7 +32,7 @@ The Secretary may accept a certificate of alternative compliance issued by a con
 
 These Rules, referred to in pars. (a), (b), (c), and (e), are the Inland Navigational Rules which are classified to this subchapter.
 
-The International Regulations, referred to in pars. (b) and (f), are the International Regulations for Preventing Collisions at Sea, 1972, which are set out in Appendix A to Part 81 of Title 33, Code of Federal Regulations.
+The International Regulations, referred to in pars. (b) and (f), are the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
 
 #### Codification
 

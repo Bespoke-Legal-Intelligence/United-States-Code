@@ -1,4 +1,4 @@
-### §742e . Transfer of functions to Secretary
+### §742e. Transfer of functions to Secretary
 
 #### (a) Functions of Secretaries of Agriculture, Commerce, etc.
 

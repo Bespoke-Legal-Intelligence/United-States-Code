@@ -6,7 +6,7 @@ If the property was acquired by gift after December 31, 1920, the basis shall be
 
 #### (b) Transfer in trust after December 31, 1920
 
-If the property was acquired after December 31, 1920, by a transfer in trust (other than by atransfer in trust by a gift, bequest, or devise), the basis shall be the same as it would be in the hands of the grantor increased in the amount of gain or decreased in the amount of loss recognized to the grantor on such transfer under the law applicable to the year in which the transfer was made.
+If the property was acquired after December 31, 1920, by a transfer in trust (other than by a transfer in trust by a gift, bequest, or devise), the basis shall be the same as it would be in the hands of the grantor increased in the amount of gain or decreased in the amount of loss recognized to the grantor on such transfer under the law applicable to the year in which the transfer was made.
 
 #### (c) Gift or transfer in trust before January 1, 1921
 
@@ -36,7 +36,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 #### (5) Application to gifts before 1955
 
-&emsp;With respect to any property acquired by gift before 1955, references in this subsection to any provision of this title shall be deemed to refer to the corresponding provision of the Internal Revenue Code of 1939 or prior revenue laws which was effective for the year in which such gift was made.
+&emsp;With respect to any property acquired by gift before 1955, references in this subsection to any provision of this title shall be deemedto refer to the corresponding provision of the Internal Revenue Code of 1939 or prior revenue laws which was effective for the year in which such gift was made.
 
 #### (6) Special rule for gifts made after December 31, 1976
 

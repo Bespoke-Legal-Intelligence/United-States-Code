@@ -2,14 +2,14 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 7541\. | Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League. |
-| 7541a. | Uniform clothing: sale to Naval Sea Cadet Corps. |
-| 7542\. | Excess clothing: sale for distribution to needy. |
-| 7543\. | Useless ordnance material: disposition of proceeds on sale. |
-| 7544\. | Devices and trophies: transfer to other agencies. |
-| 7545\. | Obsolete material and articles of historical interest: loan or gift. |
-| 7546\. | Loan or gift of articles to ships’ sponsors and donors. |
-| 7547\. | Equipment for instruction in seamanship: loan to military schools. |
+| [7541\.](%C2%A7%2007541%20-%20Obsolete%20and%20other%20material%20gift%20or%20sale%20to%20Boy%20Scouts%20of%20America%2C%20Naval%20Sea%20Cadet%20Corps%20and%20Young%20Marines%20of%20the%20Marine%20Corps%20League.md) | Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League. |
+| [7541a.](%C2%A7%2007541a%20-%20Uniform%20clothing%20sale%20to%20Naval%20Sea%20Cadet%20Corps.md) | Uniform clothing: sale to Naval Sea Cadet Corps. |
+| [7542\.](%C2%A7%2007542%20-%20Excess%20clothing%20sale%20for%20distribution%20to%20needy.md) | Excess clothing: sale for distribution to needy. |
+| [7543\.](%C2%A7%2007543%20-%20Useless%20ordnance%20material%20disposition%20of%20proceeds%20on%20sale.md) | Useless ordnance material: disposition of proceeds on sale. |
+| [7544\.](%C2%A7%2007544%20-%20Devices%20and%20trophies%20transfer%20to%20other%20agencies.md) | Devices and trophies: transfer to other agencies. |
+| [7545\.](%C2%A7%2007545%20-%20Obsolete%20material%20and%20articles%20of%20historical%20interest%20loan%20or%20gift.md) | Obsolete material and articles of historical interest: loan or gift. |
+| [7546\.](%C2%A7%2007546%20-%20Loan%20or%20gift%20of%20articles%20to%20ships%E2%80%99%20sponsors%20and%20donors.md) | Loan or gift of articles to ships’ sponsors and donors. |
+| [7547\.](%C2%A7%2007547%20-%20Equipment%20for%20instruction%20in%20seamanship%20loan%20to%20military%20schools.md) | Equipment for instruction in seamanship: loan to military schools. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

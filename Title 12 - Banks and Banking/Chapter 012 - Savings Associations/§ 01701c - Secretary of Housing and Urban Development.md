@@ -1,10 +1,10 @@
-### §1701c . Secretary of Housing and Urban Development
+### §1701c. Secretary of Housing and Urban Development
 
 In carrying out his functions, powers, and duties—
 
 #### (a) Employment of personnel; delegation of functions
 
-The Secretary of Housing and Urban Development may appoint such officers and employees as he may find necessary, which appointments shall be subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5. The Secretary may make such expenditures as may be necessary to carry out his functions, powers, and duties, and there are authorized to be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out such functions, powers, and duties and for administrative expenses in connection therewith. The Secretary, without in any way relieving himself from final responsibility, may delegate any of his functions and powers to such officers, agents, or employees as he may designate, may authorize such successive redelegations of such functions and powers, as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
+The Secretary of Housing and Urban Development may appoint such officers and employeesas he may find necessary, which appointments shall be subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5. The Secretary may make such expenditures as may be necessary to carry out his functions, powers, and duties, and there are authorized to be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out such functions, powers, and duties and for administrative expenses in connection therewith. The Secretary, without in any way relieving himself from final responsibility, may delegate any of his functions and powers to such officers, agents, or employees as he may designate, may authorize such successive redelegations of such functions and powers, as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
 
 #### (b) Omitted
 
@@ -38,7 +38,7 @@ Section was enacted as part of the Housing Act of 1948, and not as part of the N
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–73, §306(a), which directed the substitution of “Director of the Office ofThrift Supervision” for “Federal Home Loan Bank Board (which term as used in this section shall also include and refer to the Federal Savings and Loan Insurance Corporation, the Home Owners Loan Corporation, and the Chairman of the Federal Home Loan Bank Board)”, was executed as directed, except that “Home Owners’ ” rather than “Home Owners” appeared in the original in the language struck out.
+1989—Subsec. (c). Pub. L. 101–73, §306(a), which directed the substitution of “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board (which term as used in this section shall also include and refer to the Federal Savings and Loan Insurance Corporation, the Home Owners Loan Corporation, and the Chairman of the Federal Home Loan Bank Board)”, was executed as directed, except that “Home Owners’ ” rather than “Home Owners” appeared in the original in the language struck out.
 
 Subsec. (c)(1). Pub. L. 101–73, §306(b), substituted “of any Federal, State, or local” for “of any State or local”.
 
@@ -46,7 +46,7 @@ Subsec. (c)(1). Pub. L. 101–73, §306(b), substituted “of any Federal, State
 
 Subsec. (c)(2). Pub. L. 100–242, §570(a)(3), inserted “and” at end.
 
-1984—Subsec. (a). Pub. L. 98–479, §202(b)(1), substituted “chapter 51 and subchapter III of chapter 53 of title 5” for “the Classification Act of 1949, as amended”.
+1984—Subsec. (a). Pub. L. 98–479, §202(b)(1), substituted “chapter 51 and subchapter III of chapter 53 oftitle 5” for “the Classification Act of 1949, as amended”.
 
 Subsec. (c)(1). Pub. L. 98–479, §202(b)(2), substituted “section 5703 of title 5” for “5 U.S.C. 73b–2”.
 

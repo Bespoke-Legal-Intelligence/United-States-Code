@@ -36,7 +36,7 @@
 
 #### Amendments
 
-1994—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
+1994—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
 
 1992—Subsec. (c)(1). Pub. L. 102–405, §303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
 

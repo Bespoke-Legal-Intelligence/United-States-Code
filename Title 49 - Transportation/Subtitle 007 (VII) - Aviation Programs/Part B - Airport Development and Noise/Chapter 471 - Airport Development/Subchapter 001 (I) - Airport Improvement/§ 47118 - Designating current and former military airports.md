@@ -26,7 +26,7 @@ Terminal Building Facilities.—Notwithstanding section 47109(c) <sup>1</sup> o
 
 (f)
 
-Parking Lots, Fuel Farms, and Utilities.—Not more than a total of $4,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for the fiscal years ending September 30, 1993–1996, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, and utilities.
+Parking Lots, Fuel Farms, and Utilities.—Not more than a total of $4,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for the fiscal years ending September 30, 1993–1996, is available to the sponsor of a current or former military airport the Secretary designates underthis section to construct, improve, or repair airport surface parking lots, fuel farms, and utilities.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579.)
 
@@ -80,7 +80,7 @@ Section 47109(c) of this title, referred to in subsec. (e), was repealed by Pub.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–305, §116(b), substituted “15” for “12” and inserted at end “The Secretary mayonly designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
+1994—Subsec. (a). Pub. L. 103–305, §116(b), substituted “15” for “12” and inserted at end “The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
 
 Subsec. (d). Pub. L. 103–305, §116(c), struck out at end “If an airport does not have a level of passengers getting on aircraft during that 5-year period that qualifies the airport as a small hub airport (as defined on January 1, 1990) or reliever airport, the Secretary may redesignate the airport for grants for additional fiscal years that the Secretary decides.”
 

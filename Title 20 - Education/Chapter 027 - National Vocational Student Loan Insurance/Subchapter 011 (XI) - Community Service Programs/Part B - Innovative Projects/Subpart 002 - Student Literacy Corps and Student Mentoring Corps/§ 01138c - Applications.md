@@ -70,15 +70,15 @@ Each institution of higher education desiring to receive a grant under this subp
 
 Notwithstanding any other provision of law, in any fiscal year in which funds are appropriated under this subpart but not expended by the end of such fiscal year, at least 75 percent of such funds shall remain available in the succeeding fiscal year to carry out this subpart.
 
-(Pub. L. 89 329, title XI, §1144, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 789; amended Pub. L. 103 382, title III, §391(e)(10), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 89–329, title XI, §1144, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 789; amended Pub. L. 103–382, title III, §391(e)(10), Oct. 20, 1994, 108 Stat. 4023.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1)(B)(iv)(I), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1)(B)(iv)(I), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (b)(1)(B)(iv)(I). Pub. L. 103 382 substituted “title I of” for “chapter 1 of title I of”.
+1994—Subsec. (b)(1)(B)(iv)(I). Pub. L. 103–382 substituted “title I of” for “chapter 1 of title I of”.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a) The money mentioned by this subchapter is not assignable, either in law or equity, except under the provisions of subsections (h) and (j) of section 8345 of this title, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
 
-(b) Recovery of payments under this subchapter may not be made from an individual when, in the judgment of the Office of Personnel Management, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money mentioned by this subchapter on account of a certification or payment made by a former employee of the United States in the discharge of his official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
+(b) Recovery of payments under this subchapter may not be made from an individualwhen, in the judgment of the Office of Personnel Management, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money mentioned by this subchapter on account of a certification or payment made by a former employee of the United States in the discharge of his official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 94–166, §2, Dec. 23, 1975, 89 Stat. 1002; Pub. L. 95–366, §1(b), Sept. 15, 1978, 92 Stat. 600; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
@@ -24,11 +24,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–366 substituted references to subsecs. (h) and (j) of section 8345 for reference to subsec. (g) of section 8345.
+<b>1978</b>—Subsec. (a). Pub. L. 95–366 substituted references to subsecs. (h) and (j) of section 8345 for reference to subsec. (g) of section 8345.
 
 Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-1975—Subsec. (a). Pub. L. 94–166 inserted “except under the provisions of section 8345(g) of this title,” after “equity”, and “, except as otherwise may be provided by Federal laws” after “process”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–166 inserted “except under the provisions of section 8345(g) of this title,” after “equity”, and “, except as otherwise may be provided by Federal laws” after “process”.
 
 #### Effective Date of 1978 Amendments
 

@@ -68,7 +68,7 @@ In order to determine the estimated number of migratory children residing in eac
 
 &emsp;(4) conduct an analysis of the options for adjusting the formula so as to better direct services to the child whose education has been interrupted.
 
-(Pub. L. 89 10, title I, §1303, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3585.)
+(Pub. L. 89–10, title I, §1303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3585.)
 
 #### Section Referred to in Other Sections
 

@@ -14,15 +14,15 @@ With respect to any loan—
 
 The Secretary shall continue to attempt to collect any loan referred, transferred, or assigned under paragraph (5)(A), (5)(B)(i), or (6) of section 1087cc(a) of this title until all appropriate collection efforts, as determined by the Secretary, have been expended.
 
-(Pub. L. 89 329, title IV, §467, as added Pub. L. 99 498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102 325, title IV, §467, July 23, 1992, 106 Stat. 584.)
+(Pub. L. 89–329, title IV, §467, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §467, July 23, 1992, 106 Stat. 584.)
 
 #### Amendment of Section
 
-<i>Pub. L. 102 325, title IV, §§467, 468(4), July 23, 1992, 106 Stat. 584, 585, provided that effective Sept. 15, 1997, the section catchline is amended to read as follows: “Collection of defaulted loans: Perkins Loan Revolving Fund” and subsection (c) is added to read as follows:</i>
+<i>Pub. L. 102–325, title IV, §§467, 468(4), July 23, 1992, 106 Stat. 584, 585, provided that effective Sept. 15, 1997, the section catchline is amended to read as follows: “Collection of defaulted loans: Perkins Loan Revolving Fund” and subsection (c) is added to read as follows:</i>
 
 #### (c) Perkins Loan Revolving Fund
 
-(1) There is established a Perkins Loan Revolving Fund which shall be available without fiscal yearlimitation to the Secretary to make payments under this part, in accordance with paragraph (2) of this subsection. There shall be deposited in the Perkins Revolving Loan Fund—
+(1) There is established a Perkins Loan Revolving Fund which shall be available without fiscal year limitation to the Secretary to make payments under this part, in accordance with paragraph (2) of this subsection. There shall be deposited in the Perkins Revolving Loan Fund—
 
 &emsp;(A) all funds collected by the Secretary on any loan referred, transferred, or assigned under paragraph (5)(A), (5)(B)(i), or (6) of section 1087cc(a) of this title;
 
@@ -40,11 +40,11 @@ The Secretary shall continue to attempt to collect any loan referred, transferre
 
 #### Prior Provisions
 
-A prior section 1087gg, Pub. L. 89 329, title IV, §467, as added Pub. L. 96 49, §5(d)(3)(A), Aug. 13, 1979, 93 Stat. 352; amended Pub. L. 96 374, title IV, §445(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1442, 1503; Pub. L. 99 272, title XVI, §16029, Apr. 7, 1986, 100 Stat. 354, related to collection of defaulted loans, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1087gg, Pub. L. 89–329, title IV, §467, as added Pub. L. 96–49, §5(d)(3)(A), Aug. 13, 1979, 93 Stat. 352; amended Pub. L. 96–374, title IV, §445(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1442, 1503; Pub. L. 99–272, title XVI, §16029, Apr. 7, 1986, 100 Stat. 354, related to collection of defaulted loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 to this section, relating to creation of Perkins Loan Revolving Fund, effective Sept. 15, 1997, see section 468(4) of Pub. L. 102 325, set out as a note under section 1087dd of this title.
+Amendment by Pub. L. 102–325 to this section, relating to creation of Perkins Loan Revolving Fund, effective Sept. 15, 1997, see section 468(4) of Pub. L. 102–325, set out as a note under section 1087dd of this title.
 
 #### Section Referred to in Other Sections
 

@@ -36,11 +36,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 574 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 574 of this title as this section.
 
 Par. (4). Pub. L. 102–403 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “enter into arrangements with any administrative agency or major organizational unit within an administrative agency pursuant to which the Conference performs any of the functions described in paragraphs (1), (2), and (3).”
 
 Par. (5). Pub. L. 102–403 which directed addition of par. (5) at end of section, was executed by adding par. (5) after par. (4) and before concluding provisions, to reflect the probable intent of Congress.
 
-1990—Pub. L. 101–422 added par. (4) and concluding provisions.
+<b>1990</b>—Pub. L. 101–422 added par. (4) and concluding provisions.
 

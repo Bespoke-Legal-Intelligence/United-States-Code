@@ -28,7 +28,7 @@ For each eligible local educational agency that applies for a payment under this
 
 #### (2) Ratable reduction
 
-&emsp;(A) If the amount appropriated to carry out this section for any fiscal year is insufficient to pay the full payment that all eligible local educational agencies are eligible to receiveunder this section for such year, then the Secretary shall ratably reduce the payments to such agencies for such year.
+&emsp;(A) If the amount appropriated to carry out this section for any fiscal year is insufficient to pay the full payment that all eligible local educational agencies are eligible to receive under this section for such year, then the Secretary shall ratably reduce the payments to such agencies for such year.
 
 &emsp;(B) If additional funds become available for making payments under paragraph (1) for such fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
 
@@ -46,7 +46,7 @@ For each eligible local educational agency that applies for a payment under this
 
 &emsp;&emsp;(B) by the Secretary to the affected local educational agencies.
 
-(Pub. L. 89 10, title VIII, §8006, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3762.)
+(Pub. L. 89–10, title VIII, §8006, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3762.)
 
 #### Section Referred to in Other Sections
 

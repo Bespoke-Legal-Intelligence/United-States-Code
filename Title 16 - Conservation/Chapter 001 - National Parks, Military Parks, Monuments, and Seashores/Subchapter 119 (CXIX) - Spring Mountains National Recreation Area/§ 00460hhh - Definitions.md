@@ -1,4 +1,4 @@
-### §460hhh . Definitions
+### §460hhh. Definitions
 
 As used in this subchapter:
 

@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;Assistance other than technical assistance shall be matched with funds from sources other than the Federal Government on the basis of not less than one dollar for each dollar provided by the Fund. Such matching funds shall be at least comparable in form and value to assistance provided by the Fund. The Fund shall provide no assistance (other than technical assistance) until a community development financial institution has secured firm commitments for the matching funds required.
+&emsp;Assistance other than technical assistance shall be matched with funds from sources other than the Federal Government on the basis of not less than one dollar for each dollar provided by the Fund. Such matching funds shall be at least comparable in form and value to assistance provided by the Fund. The Fundshall provide no assistance (other than technical assistance) until a community development financial institution has secured firm commitments for the matching funds required.
 
 #### (2) Exception
 
@@ -178,7 +178,7 @@
 
 #### (g) Authority to sell equity investments and loans
 
-The Fund may, at any time, sell its equity investments and loans, but the Fund shall retainthe power to enforce limitations on assistance entered into in accordance with the requirements of this subchapter until the performance goals related to the investment or loan have been met.
+The Fund may, at any time, sell its equity investments and loans, but the Fund shall retain the power to enforce limitations on assistance entered into in accordance with the requirements of this subchapter until the performance goals related to the investment or loan have been met.
 
 #### (h) No authority to limit supervision and regulation
 

@@ -8,9 +8,9 @@ The Secretary, in carrying out the provisions of this chapter, shall utilize, to
 
 The Secretary may, upon request, provide technical and other nonfinancial assistance (including the lending of equipment on such terms and conditions as the Secretary determines is appropriate) to any State to assist it in administering and enforcing any law of such State designed to prohibit conduct described in section 1824 of this title.
 
-(Pub. L. 91 540, §8, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94 360, §8, July 13, 1976, 90 Stat. 920.)
+(Pub. L. 91–540, §8, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, §8, July 13, 1976, 90 Stat. 920.)
 
 #### Amendments
 
-1976—Pub. L. 94 360 designated existing provisions as subsec. (a) and added subsec. (b).
+1976—Pub. L. 94–360 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -50,7 +50,7 @@ In this chapter—
 
 &emsp;(6) “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
-&emsp;(7) “motor carrier” means a motor common carrier, motor contract carrier, motor private carrier, and freight forwarder as those terms are defined in section 10102 of this title.
+&emsp;(7) “motor carrier” means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in section 13102 of this title.
 
 &emsp;(8) “national response team” means the national response team established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605).
 
@@ -82,7 +82,7 @@ In this chapter—
 
 &emsp;(13) “United States” means all of the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 104–88, title III, §308(d), Dec. 29, 1996, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -159,6 +159,8 @@ In clause (9), before subclause (A), the words “including any trustee, receive
 In clause (12), the words “by any mode” are omitted as surplus.
 
 #### Amendments
+
+1995—Par. (7). Pub. L. 104–88 substituted “motor carrier, motor private” for “motor common carrier, motor contract carrier, motor private” and “section 13102” for “section 10102”.
 
 1994—Pars. (3)(C)(ii), (4)(A)(iii). Pub. L. 103–311 substituted “packagings” for “packages”.
 

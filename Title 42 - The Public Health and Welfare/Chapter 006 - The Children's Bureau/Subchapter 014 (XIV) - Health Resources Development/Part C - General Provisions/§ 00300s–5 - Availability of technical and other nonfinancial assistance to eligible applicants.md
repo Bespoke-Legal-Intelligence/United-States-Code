@@ -2,7 +2,7 @@
 
 The Secretary shall provide (either through the Department of Health and Human Services or by contract) all necessary technical and other nonfinancial assistance to any public or other entity which is eligible to apply for assistance under this subchapter to assist such entity in developing applications to be submitted to the Secretary under section 300s–1 or 300t–12 of this title. The Secretary shall make every effort to inform eligible applicants of the availability of assistance under this subchapter.
 
-(July 1, 1944, ch. 373, title XVI, §1626, formerly §1635, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88Stat. 2273; renumbered §1626 and amended Oct. 4, 1979, Pub. L. 96–79, title II, §§202(b), 203(f), 93 Stat. 632, 635; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 1, 1944, ch. 373, title XVI, §1626, formerly §1635, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2273; renumbered §1626 and amended Oct. 4, 1979, Pub. L. 96–79, title II, §§202(b), 203(f), 93 Stat. 632, 635; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
 
 #### Amendments
 

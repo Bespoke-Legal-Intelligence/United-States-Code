@@ -24,7 +24,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 #### (c) Disposal of surplus Federal property
 
-(1) Effective upon October 31, 1994, and until all State School lands identified in paragraph\(b)(1) of this section are acquired, no Federal lands or interests therein within the State of California may be disposed of from Federal ownership unless—
+(1) Effective upon October 31, 1994, and until all State School lands identified in paragraph (b)(1) of this section are acquired, no Federal lands or interests therein within the State of California may be disposed of from Federal ownership unless—
 
 &emsp;(A) the Secretary is notified of the availability of such lands or interest therein;
 
@@ -56,5 +56,5 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

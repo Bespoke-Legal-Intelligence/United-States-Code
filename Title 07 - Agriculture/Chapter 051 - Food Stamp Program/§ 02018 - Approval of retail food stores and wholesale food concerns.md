@@ -1,0 +1,104 @@
+### §2018. Approval of retail food stores and wholesale food concerns
+
+#### (a) Applications; qualifications; certificate of approval; periodic reauthorization
+
+(1) Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem coupons under the food stamp program and for the approval of those applicants whose participation will effectuate the purposes of the food stamp program. In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following: (A) the nature and extent of the food business conducted by the applicant; (B) the volume of coupon business which may reasonably be expected to be conducted by the applicant food store or wholesale food concern; and (C) the business integrity and reputation of the applicant. Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval.
+
+(2) The Secretary shall issue regulations providing for—
+
+&emsp;(A) the periodic reauthorization of retail food stores and wholesale food concerns; and
+
+&emsp;(B) periodic notice to participating retail food stores and wholesale food concerns of the definitions of “retail food store”, “staple foods”, “eligible foods”, and “perishable foods”.
+
+#### (b) Effective and efficient operation of program; effect of disqualification; posting of bond
+
+(1) No wholesale food concern may be authorized to accept and redeem coupons unless the Secretary determines that its participation is required for the effective and efficient operation of the food stamp program. No co-located wholesale-retail food concern may be authorized to accept and redeem coupons as a retail food store, unless (A) the concern does a substantial level of retail food business, or (B) the Secretary determines that failure to authorize such a food concern as a retail food store would cause hardship to food stamp households. In addition, no firm may be authorized to accept and redeem coupons as both a retail food store and as a wholesale food concern at the same time.
+
+(2)(A) A buyer or transferee (other than a bona fide buyer or transferee) of a retail food store or wholesale food concern that has been disqualified under section 2021(a) of this title may not accept or redeem coupons until the Secretary receives full payment of any penalty imposed on such store or concern.
+
+(B) A buyer or transferee may not, as a result of the sale or transfer of such store or concern, be required to furnish a bond under section 2021(d) of this title.
+
+#### (c) Information submitted by applicants; safeguards; disclosure to and use by State agencies
+
+Regulations issued pursuant to this chapter shall require an applicant retail food store or wholesale food concern to submit information which will permit a determination to be made as to whether such applicant qualifies, or continues to qualify, for approval under the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide for safeguards which limit the use or disclosure of information obtained under the authority granted by this subsection to purposes directly connected with administration and enforcement of the provisions of this chapter or the regulations issued pursuant to this chapter, except that such information may be disclosed to and used by Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and State agencies that administer the special supplemental nutrition program for women, infants and children, authorized under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\], for purposes of administering the provisions of that Act \[42 U.S.C. 1771 et seq.\] and the regulations issued under that Act. Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
+
+#### (d) Hearing upon failure of applicant to receive approval
+
+Any retail food store or wholesale food concern which has failed upon application to receive approval to participate in the food stamp program may obtain a hearing on such refusal as provided in section 2023 of this title.
+
+#### (e) Reporting of abuses by public
+
+Approved retail food stores shall display a sign providing information on how persons may report abuses they have observed in the operation of the food stamp program.
+
+#### (f) Limitation on participation of house-to-house trade routes
+
+In those areas in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the operation of house-to-house trade routes damages the program's integrity, the Secretary shall limit the participation of house-to-house trade routes to those routes that are reasonably necessary to provide adequate access to households.
+
+(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746.)
+
+#### References in Text
+
+That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+#### Amendments
+
+1994—Subsec. (a)(2). Pub. L. 103–225, §202, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary is authorized to issue regulations providing for a periodic reauthorization of retail food stores and wholesale food concerns.”
+
+Subsec. (c). Pub. L. 103–448 in second sentence substituted “special supplemental nutrition program” for “special supplemental food program”.
+
+Pub. L. 103–225, §203, in second sentence inserted “Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and” after “disclosed to and used by”, inserted after second sentence “Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.”, and in last sentence substituted “The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit” for “Such purposes shall not exclude”.
+
+1991—Subsec. (a)(1). Pub. L. 102–237 redesignated cls. (1) to (3) as (A) to (C), respectively.
+
+1990—Subsec. (a). Pub. L. 101–624, §1733, designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (b)(1). Pub. L. 101–624, §1734, inserted after first sentence “No co-located wholesale-retail food concern may be authorized to accept and redeem coupons as a retail food store, unless (A) the concern does a substantial level of retail food business, or (B) the Secretary determines that failure to authorize such a food concern as a retail food store would cause hardship to food stamp households.”
+
+1986—Subsec. (g). Pub. L. 99–570, §1102(d), (f)(3), temporarily added subsec. (g) which read as follows: “In an area in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the participation of an establishment or shelter described in section 2012(g)(9) of this title damages the program's integrity, the Secretaryshall limit the participation of such establishment or shelter in the food stamp program, unless the establishment or shelter is the only establishment or shelter serving the area.”. See Effective and Termination Dates of 1986 Amendment note below.
+
+1985—Subsec. (b). Pub. L. 99–198, §1532(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (c). Pub. L. 99–198, §1521, inserted provisions relating to disclosure of information to, and the use by, State agencies which administer the special supplemental food program for women, infants, and children, authorized under section 17 of the Child Nutrition Act of 1966.
+
+1982—Subsec. (f). Pub. L. 97–253 added subsec. (f).
+
+1981—Subsec. (c). Pub. L. 97–98, §1313, inserted provision that such purposes not exclude the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
+
+Subsec. (e). Pub. L. 97–98, §1314, added subsec. (e).
+
+1977—Pub. L. 95–113 substituted revised provisions covering approval of retail food stores and wholesale food concerns for provisions relating to redemption of coupons which are now covered by section 2019 of this title.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see section 1781(a) of Pub. L. 101–624, set out as a note under section 2012 of this title.
+
+#### Effective and Termination Dates of 1986 Amendment
+
+Amendment by Pub. L. 99–570 effective, and to be implemented by issuance of final regulations, not later than Apr. 1, 1987, and cease to be effective after Sept. 30, 1990, see section 11002(f)(1), (2) of Pub. L. 99–570, set out as a note under section 2012 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub. L. 97–253, set out as a note under section 2012 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
+
+Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
+
+#### Effective Date of 1977 Amendment
+
+Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2023 of this title; title 26 section 6109; title 42 sections 405, 8011.
+

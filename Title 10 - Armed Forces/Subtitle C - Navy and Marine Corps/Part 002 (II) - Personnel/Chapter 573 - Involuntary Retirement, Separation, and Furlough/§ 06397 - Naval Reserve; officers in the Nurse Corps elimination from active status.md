@@ -42,7 +42,7 @@ The act of August 9, 1955, ch. 654, section 1 (69 Stat. 579) authorized the appo
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “in this title for the separation from the active-duty list of aregular officer in the same grade” for “by this chapter for the separation from the active list of an officer on the active list of the Navy in the same grade in the Nurse Corps”.
+1980—Subsec. (a). Pub. L. 96–513 substituted “in this title for the separation from the active-duty list of a regular officer in the same grade” for “by this chapter for the separation from the active list of an officer on the active list of the Navy in the same grade in the Nurse Corps”.
 
 1966—Subsec. (b). Pub. L. 89–609 substituted “the person” for “he” in three places.
 

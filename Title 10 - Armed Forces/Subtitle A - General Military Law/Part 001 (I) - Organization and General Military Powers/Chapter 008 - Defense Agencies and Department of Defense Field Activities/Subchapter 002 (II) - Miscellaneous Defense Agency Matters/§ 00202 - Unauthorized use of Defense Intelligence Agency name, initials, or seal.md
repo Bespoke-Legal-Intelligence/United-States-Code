@@ -1,4 +1,4 @@
-### §202 . Unauthorized use of Defense Intelligence Agency name, initials, or seal
+### §202. Unauthorized use of Defense Intelligence Agency name, initials, or seal
 
 (a) No person may, except with the written permission of the Secretary of Defense, knowingly use the words “Defense Intelligence Agency”, the initials “DIA”, the seal of the Defense Intelligence Agency, or any colorable imitation of such words, initials or seal in connection with any merchandise, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary of Defense.
 

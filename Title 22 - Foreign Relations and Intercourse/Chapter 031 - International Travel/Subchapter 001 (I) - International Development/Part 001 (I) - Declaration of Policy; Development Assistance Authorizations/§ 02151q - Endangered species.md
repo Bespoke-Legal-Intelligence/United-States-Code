@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings and purposes
 
-The Congress finds the survival of many animal and plant species is endangered by over-hunting, by the presence of toxic chemicals in water, air and soil, and by the destruction of habitats. The Congress further finds that the extinction of animal and plant species is an irreparable loss with potentially serious environmental and economic consequences for developing and developed countries alike. Accordingly, the preservation of animal and plant species through the regulation of the hunting and trade in endangered species, through limitations on the pollution of natural ecosystems, and through the protection of wildlife habitats should be an important objective of the United States development assistance.
+The Congress finds the survival of many animal and plant species is endangered by over-hunting, by the presence of toxic chemicals in water, air and soil, and by the destruction of habitats. The Congress further finds that the extinction of animal and plant species is an irreparable loss with potentially serious environmental and economic consequences for developing and developed countries alike. Accordingly, the preservation of animal and plant species through the regulation of the hunting and trade in endangered species, through limitations on the pollution of natural ecosystems, and through the protection of wildlife habitatsshould be an important objective of the United States development assistance.
 
 #### (b) Remedial measures
 
@@ -36,7 +36,7 @@ The Administrator of the Agency for International Development shall—
 
 &emsp;(2) look to the World Conservation Strategy as an overall guide for actions to conserve biological diversity;
 
-&emsp;(3) engage in dialogues and exchanges of information with recipient countries which stress the importance of conserving biologicaldiversity for the long-term economic benefit of those countries and which identify and focus on policies of those countries which directly or indirectly contribute to loss of biological diversity;
+&emsp;(3) engage in dialogues and exchanges of information with recipient countries which stress the importance of conserving biological diversity for the long-term economic benefit of those countries and which identify and focus on policies of those countries which directly or indirectly contribute to loss of biological diversity;
 
 &emsp;(4) support training and education efforts which improve the capacity of recipient countries to prevent loss of biological diversity;
 
@@ -64,7 +64,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Prior Provisions
 
-A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88, title I, §114, Aug. 3, 1977, 91 Stat. 538; amended Pub. L. 95–424, title I, §111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§104(c), 107, Aug. 14, 1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147.
+A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88, title I, §114, Aug. 3, 1977, 91 Stat.538; amended Pub. L. 95–424, title I, §111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§104(c), 107, Aug. 14, 1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147.
 
 #### Amendments
 

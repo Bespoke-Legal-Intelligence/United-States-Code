@@ -18,5 +18,5 @@ Each entity or consortium desiring assistance under this part shall submit an ap
 
 &emsp;(5) provide such other information as the Secretary may require.
 
-(Pub. L. 89 10, title XIII, §13103, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3879.)
+(Pub. L. 89–10, title XIII, §13103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3879.)
 

@@ -14,7 +14,7 @@ The Administrator shall prepare and submit to the President and the Congress on 
 
 &emsp;(6) such recommendations for additional legislation as the Administrator deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 94 469, title I, §30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Section Referred to in Other Sections
 

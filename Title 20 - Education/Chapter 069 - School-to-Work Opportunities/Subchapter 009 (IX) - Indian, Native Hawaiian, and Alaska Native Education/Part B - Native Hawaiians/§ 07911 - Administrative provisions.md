@@ -8,5 +8,5 @@ No grant may be made under this part, nor any contract be entered into under thi
 
 Each application submitted under this subchapter shall be accompanied by the comments of each local educational agency serving students who will participate in the project for which assistance is sought.
 
-(Pub. L. 89 10, title IX, §9211, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3804.)
+(Pub. L. 89–10, title IX, §9211, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3804.)
 

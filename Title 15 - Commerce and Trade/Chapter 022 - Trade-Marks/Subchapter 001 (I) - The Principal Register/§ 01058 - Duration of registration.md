@@ -2,7 +2,7 @@
 
 #### (a) Affidavit of continuing use
 
-Each certificate of registration shall remain in force for ten years: <i>Provided</i>, That the registration of any mark under the provisions of this chapter shall be canceled by the Commissioner at the end of six years following its date, unless within one year next preceding the expiration of such six years the registrant shall file in the Patent and Trademark Office an affidavit setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and attaching tothe affidavit a specimen or facsimile showing current use of the mark, or showing that any nonuse is due to special circumstances which excuse such nonuse and is not due to any intention to abandon the mark. Special notice of the requirement for such affidavit shall be attached to each certificate of registration.
+Each certificate of registration shall remain in force for ten years: <i>Provided</i>, That the registration of any mark under the provisions of this chapter shall be canceled by the Commissioner at the end of six years following its date, unless within one year next preceding the expiration of such six years the registrant shall file in the Patent and Trademark Office an affidavit setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any nonuse is due to special circumstances which excuse such nonuse and is not due to any intention to abandon the mark. Special notice of the requirement for such affidavit shall be attached to each certificate of registration.
 
 #### (b) Registration published under other provisions of law
 
@@ -20,7 +20,7 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–667 substituted “ten” for “twenty” and “setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any” for “showing that said mark is in use in commerce or showing that its”.
+1988—Subsec. (a). Pub. L. 100–667 substituted “ten” for “twenty” and “setting forth those goods or servicesrecited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any” for “showing that said mark is in use in commerce or showing that its”.
 
 1982—Subsecs. (a), (b). Pub. L. 97–247 struck out “still” after “showing that said mark is”, and inserted “in commerce” after “use”.
 

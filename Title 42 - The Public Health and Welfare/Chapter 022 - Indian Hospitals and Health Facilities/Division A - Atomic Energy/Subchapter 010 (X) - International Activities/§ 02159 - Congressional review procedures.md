@@ -50,7 +50,7 @@ This section is enacted by Congress—
 
 (1) For the purposes of this subsection, the term “joint resolution” means a joint resolution, the matter after the resolving clause of which is as follows: “That the Congress (does or does not) favor the proposed agreement for cooperation transmitted to the Congress by the President on       .”, with the date of the transmission of the proposed agreement for cooperation inserted in the blank, and the affirmative or negative phrase within the parenthetical appropriately selected.
 
-(2) On the day on which a proposed agreement for cooperation is submitted to the House of Representatives and the Senate under section 2153(d) of this title, a joint resolution with respect to such agreement for cooperation shall be introduced (by request) in the House by the chairman of the Committee on Foreign Affairs, for himself and the ranking minority member of the Committee, or by Members of the House designated by the chairman and ranking minority member; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such an agreement for cooperation is submitted, the joint resolution shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session.
+(2) On the day on which a proposed agreement for cooperation is submitted to the House ofRepresentatives and the Senate under section 2153(d) of this title, a joint resolution with respect to such agreement for cooperation shall be introduced (by request) in the House by the chairman of the Committee on Foreign Affairs, for himself and the ranking minority member of the Committee, or by Members of the House designated by the chairman and ranking minority member; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such an agreement for cooperation is submitted, the joint resolution shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session.
 
 (3) All joint resolutions introduced in the House of Representatives shall be referred to the appropriate committee or committees, and all joint resolutions introduced in the Senate shall be referred to the Committee on Foreign Relations and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title, the Committee on Armed Services.
 
@@ -82,9 +82,7 @@ Subsec. (i). Pub. L. 99–64, §301(c)(2)(B), added subsec. (i).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

@@ -12,7 +12,7 @@ For the purpose of carrying out subparts 2, 3, and 4 of this part, there are aut
 
 For the purpose of carrying out subpart 5 of this part, there are authorized to be appropriated to the Department of Education $3,775,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
-(Pub. L. 89 10, title IX, §9162, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3794.)
+(Pub. L. 89–10, title IX, §9162, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3794.)
 
 #### Section Referred to in Other Sections
 

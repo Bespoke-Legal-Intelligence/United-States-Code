@@ -8,7 +8,7 @@
 
 (d) When seniority determined under subsection (c) is the same, the Secretary of the Air Force shall fix the seniority.
 
-(e) For promotion purposes, the years of service computed under section 8360(e) of this titleof a reserve commissioned officer who is returned to an active status are reduced, so far as necessary, so that one year after the date on which he is returned to that status he will not have more than four years of that service if he is in the reserve grade of first lieutenant, or seven years of that service if he is in reserve grade of captain or major. Notwithstanding any other provision of this title, such a reserve commissioned officer may not be considered for promotion until at least one year after the date on which he is returned to an active status.
+(e) For promotion purposes, the years of service computed under section 8360(e) of this title of a reserve commissioned officer who is returned to an active status are reduced, so far as necessary, so that one year after the date on which he is returned to that status he will not have more than four years of that service if he is in the reserve grade of first lieutenant, or seven years of that service if he is in reserve grade of captain or major. Notwithstanding any other provision of this title, such a reserve commissioned officer may not be considered for promotion until at least one year after the date on which he is returned to an active status.
 
 (Added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1522; amended Pub. L. 86–559, §1(50), June 30, 1960, 74 Stat. 275.)
 
@@ -46,7 +46,7 @@ Sept. 3, 1954, ch. 1257, §504, 68 Stat. 1173; June 30, 1955, ch. 247, §4(c), 6
 
 50:1334(b).
 
-In subsection (e), the words “are reduced” are substituted for the words “suffer \* \* \* and a reduction in his”. The words “he will not have” are substituted for the words “the years of \* \* \* with which he is entitled to be credited for promotion purposes shall not be”. The words “loss of precedence” are omitted as surplusage.
+In subsection (e), the words “are reduced” are substituted for the words “suffer \* \* \* and a reduction inhis”. The words “he will not have” are substituted for the words “the years of \* \* \* with which he is entitled to be credited for promotion purposes shall not be”. The words “loss of precedence” are omitted as surplusage.
 
 #### Amendments
 

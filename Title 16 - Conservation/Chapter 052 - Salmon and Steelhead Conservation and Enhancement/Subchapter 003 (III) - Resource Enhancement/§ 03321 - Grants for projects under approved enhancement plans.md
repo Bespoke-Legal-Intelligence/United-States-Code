@@ -48,7 +48,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 (3) The Secretary, in consultation with the Secretary of Commerce, shall not approve a comprehensive enhancement plan unless the State of Washington or the State of Oregon, or both, as appropriate, and the treaty tribes, acting through the appropriate tribal coordinating body, agree not to undertake any salmon or steelhead enhancement project, using funds provided pursuant to this subchapter or otherwise, that would be inconsistent with the plan.
 
-(4) The Secretary may not approve a comprehensive plan unless the Secretary of Commerce concurs that such plan satisfactorily complies with standards (1), (6), and (7) of subsection (d) of this section.
+(4) The Secretary may not approve a comprehensive plan unless the Secretary of Commerceconcurs that such plan satisfactorily complies with standards (1), (6), and (7) of subsection (d) of this section.
 
 #### (f) Review, modification, or revisions
 

@@ -48,7 +48,7 @@ For purposes of this subchapter—
 
 &emsp;(C) a student.
 
-> The term “student” means a “full-time student” as defined in section 402(d)(7) of title 42, ora “student” as defined in section 8101(17) of title 5. The determination of an individual's status as the “child” of the miner or widow, as the case may be, shall be made in accordance with section 416(h)(2) or (3) of title 42 as if such miner or widow were the “insured individual” referred to therein.
+> The term “student” means a “full-time student” as defined in section 402(d)(7) of title 42, or a “student” as defined in section 8101(17) of title 5. The determination of an individual's status as the “child” of the miner or widow, as the case may be, shall be made in accordance with section 416(h)(2) or (3) of title 42 as if such miner or widow were the “insured individual” referred to therein.
 
 (h) The term “fund” means the Black Lung Disability Trust Fund established by section 9501 of title 26.
 
@@ -62,7 +62,7 @@ For purposes of this subchapter—
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
+1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for“where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
 
 1986—Subsecs. (h), (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

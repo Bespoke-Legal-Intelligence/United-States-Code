@@ -26,7 +26,7 @@ Section effective July 1, 1931, see section 7 of act Feb. 23, 1931, set out as a
 
 #### Transfer of Functions
 
-Function of disbursement of moneys of the United States of any agency (with certain exceptions) transferred to Treasury Department by Ex. Ord. No. 6166, §4, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. Section 4 of Ex. Ord. No. 6166 was repealed by Pub. L .97–258,§5(b), Sept. 13, 1982, 96 Stat. 1086, the first section of which enacted Title 31, Money and Finance. See section 3321 of Title 31.
+Function of disbursement of moneys of the United States of any agency (with certain exceptions) transferred to Treasury Department by Ex. Ord. No. 6166, §4, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. Section 4 of Ex. Ord. No. 6166 was repealed by Pub. L .97–258, §5(b), Sept. 13, 1982, 96 Stat. 1086, the first section of which enacted Title 31, Money and Finance. See section 3321 of Title 31.
 
 #### Section Referred to in Other Sections
 

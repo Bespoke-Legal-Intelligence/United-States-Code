@@ -2,7 +2,7 @@
 
 (a)
 
-General Rules.—Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consigneenamed in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—
+General Rules.—Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consignee named in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—
 
 &emsp;(1) offers in good faith to satisfy the lien of the carrier on the goods;
 
@@ -12,7 +12,7 @@ General Rules.—Except to the extent a common carrier establishes an excuse pro
 
 (b)
 
-Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, a common carrier may deliver the goods covered by a bill of lading to—
+Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, acommon carrier may deliver the goods covered by a bill of lading to—
 
 &emsp;(1) a person entitled to their possession;
 

@@ -82,7 +82,7 @@ In subsection (b)(1), the words “pursuant to law” are omitted as surplus.
 
 In subsection (b)(2), the words “may make a contract” are substituted for “is authorized in his discretion to employ by contract” to eliminate unnecessary words.
 
-In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” aresubstituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
+In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
 
 Subsection (d) is substituted for 31:850(1st sentence proviso words before 7th comma) because of the restatement.
 
@@ -110,7 +110,7 @@ Pub. L. 100–233 added par. (4).
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -122,7 +122,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of General Accounting Office
 
-Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
+Pub. L. 104–53, title II, Nov. 19, 1995, 109 Stat. 534, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440.
 
 #### Section Referred to in Other Sections
 

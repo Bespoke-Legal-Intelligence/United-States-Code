@@ -1,4 +1,4 @@
-### §352 . Promotion
+### §352. Promotion
 
 Enlisted members shall be advanced in rating by the Commandant under regulations prescribed by the Secretary.
 

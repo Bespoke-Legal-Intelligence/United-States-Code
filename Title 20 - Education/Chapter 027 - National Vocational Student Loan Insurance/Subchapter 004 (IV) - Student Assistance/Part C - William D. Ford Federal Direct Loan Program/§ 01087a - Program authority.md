@@ -14,27 +14,27 @@ There are hereby made available, in accordance with the provisions of this part,
 
 &emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as “Federal Direct Stafford/Ford Loans”.
 
-(Pub. L. 89 329, title IV, §451, as added Pub. L. 99 498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102 325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103 66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103 382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968.)
+(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968.)
 
 #### Prior Provisions
 
-A prior section 1087a, Pub. L. 89 329, title IV, §451, as added Pub. L. 90 575, title I, §141, Oct. 16, 1968, 82 Stat. 1031; amended Pub. L. 92 318, title I, §136(a), (b)(1), June 23, 1972, 86 Stat. 272, authorized appropriations for cooperative education programs from the fiscal year ending June 30, 1969, through the fiscal year ending prior to July 1, 1975, prior to repeal by Pub. L. 94 482, title I, §129(a), Oct. 12, 1976, 90 Stat. 2144, eff. 30 days after Oct. 12, 1976.
+A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–575, title I, §141, Oct. 16, 1968, 82 Stat. 1031; amended Pub. L. 92–318, title I, §136(a), (b)(1), June 23, 1972, 86 Stat. 272, authorized appropriations for cooperative education programs from the fiscal year ending June 30, 1969, through the fiscal year ending prior to July 1, 1975, prior to repeal by Pub. L. 94–482, title I, §129(a), Oct. 12, 1976, 90 Stat. 2144, eff. 30 days after Oct. 12, 1976.
 
 #### Amendments
 
-1994—Pub. L. 103 382 designated existing provisions as subsec. (a), added heading, and added subsec. (b).
+1994—Pub. L. 103–382 designated existing provisions as subsec. (a), added heading, and added subsec. (b).
 
-1993—Pub. L. 103 66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
+1993—Pub. L. 103–66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Income Contingent Loan Distribution of Funds
 
-Section 452 of Pub. L. 102 325 provided that:
+Section 452 of Pub. L. 102–325 provided that:
 
 “(a)
 

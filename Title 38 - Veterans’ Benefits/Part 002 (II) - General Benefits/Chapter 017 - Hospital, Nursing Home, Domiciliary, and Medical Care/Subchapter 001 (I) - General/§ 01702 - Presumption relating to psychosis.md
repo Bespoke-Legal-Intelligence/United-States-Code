@@ -2,7 +2,7 @@
 
 For the purposes of this chapter, any veteran of World War II, the Korean conflict, the Vietnam era, or the Persian Gulf War who developed an active psychosis (1) within two years after discharge or release from the active military, naval, or air service, and (2) before July 26, 1949, in the case of a veteran of World War II, before February 1, 1957, in the case of a veteran of the Korean conflict, before May 8, 1977, in the case of a Vietnam era veteran, or before the end of the two-year period beginning on the last day of the Persian Gulf War, in the case of a veteran of the Persian Gulf War, shall be deemed to have incurred such disability in the active military, naval, or air service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §602; Pub. L. 90–77, title II, §203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, §4(16), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, §701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III,§334(b), Apr. 6, 1991, 105 Stat. 88; renumbered §1702, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §602; Pub. L. 90–77, title II, §203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, §4(16), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, §701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III, §334(b), Apr. 6, 1991, 105 Stat. 88; renumbered §1702, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

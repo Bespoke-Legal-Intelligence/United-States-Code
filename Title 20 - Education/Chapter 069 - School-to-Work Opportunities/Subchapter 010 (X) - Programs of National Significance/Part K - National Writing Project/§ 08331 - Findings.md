@@ -40,5 +40,5 @@ The Congress finds that—
 
 &emsp;(19) during 1991, the first year of Federal support for the National Writing Project, the National Writing Project matched the $1,951,975 in Federal support with $9,485,504 in matching funds from State, local, and other sources.
 
-(Pub. L. 89 10, title X, §10991, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3859.)
+(Pub. L. 89–10, title X, §10991, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3859.)
 

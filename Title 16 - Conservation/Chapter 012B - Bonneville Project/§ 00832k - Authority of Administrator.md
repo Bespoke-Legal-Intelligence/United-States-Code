@@ -26,5 +26,5 @@ One form of civil action, see rule 2, Title 28, Appendix, Judiciary and Judicial
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 838i of title.
+This section is referred to in section 838i of this title.
 

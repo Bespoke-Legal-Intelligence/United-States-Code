@@ -122,5 +122,5 @@ In subsection (c)(5), the words “be construed to” are omitted as surplus. Th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10903, 11347, 24704 of this title.
+This section is referred to in sections 10903, 11326, 24704 of this title.
 

@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (a), is title XIII of Pub. L. 90–448, Aug
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Directorshall make a report to the Congress and such report shall—
+1989—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
 
 &emsp;“(1) state the reasons for such determination,
 

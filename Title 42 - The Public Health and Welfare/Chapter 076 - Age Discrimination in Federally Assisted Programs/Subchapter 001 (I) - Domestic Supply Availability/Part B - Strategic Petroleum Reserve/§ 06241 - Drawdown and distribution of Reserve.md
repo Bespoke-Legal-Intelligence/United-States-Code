@@ -26,7 +26,7 @@ Drawdown and distribution of the Early Storage Reserve may be made in accordance
 
 #### (e) Price levels and allocation procedures
 
-The Secretary may, by rule, provide for the allocation of any petroleum product withdrawn from the Strategic Petroleum Reserve in amounts specified in (or determined in a manner prescribed by) and at prices specified in (or determined in a manner prescribed by) such rules.Such price levels and allocation procedures shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in section 753(b)(1) <sup>1</sup> of title 15.
+The Secretary may, by rule, provide for the allocation of any petroleum product withdrawn from the Strategic Petroleum Reserve in amounts specified in (or determined in a manner prescribed by) and at prices specified in (or determined in a manner prescribed by) such rules. Such price levels and allocation procedures shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in section 753(b)(1) <sup>1</sup> of title 15.
 
 #### (f) Removal or disposal of products in Industrial Petroleum Reserve
 

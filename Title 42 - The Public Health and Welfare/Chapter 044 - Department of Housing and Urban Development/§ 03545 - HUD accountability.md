@@ -20,7 +20,7 @@
 
 &emsp;(B) The Secretary shall ensure that documentation and other information regarding each application for assistance is sufficient to indicate the basis on which any award or allocation was made or denied. The preceding sentence shall apply to—
 
-&emsp;&emsp;(i) any application for an award or allocation of assistance made by the Secretary to a State, unit of general local government, or other recipient of assistance, and
+&emsp;&emsp;(i) any application for an award or allocation of assistance made by the Secretary toa State, unit of general local government, or other recipient of assistance, and
 
 &emsp;&emsp;(ii) any application for a subsequent award or allocation of such assistance by such State, unit of general local government or other recipient.
 
@@ -106,7 +106,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;The Secretary shall establish standards and procedures governing the imposition of civilmoney penalties under subsection (f) of this section. These standards and procedures—
+&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (f) of this section. These standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Secretary to make the determination to impose the penalty or to use an administrative entity to make the determination;
 

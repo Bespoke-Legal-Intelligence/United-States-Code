@@ -1,0 +1,26 @@
+### §3002a. Nonmailability of locksmithing devices
+
+(a) Any locksmithing device is nonmailable mail, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless such device is mailed to—
+
+&emsp;(1) a lock manufacturer or distributor;
+
+&emsp;(2) a bona fide locksmith;
+
+&emsp;(3) a bona fide repossessor; or
+
+&emsp;(4) a motor vehicle manufacturer or dealer.
+
+(b) For the purpose of this section, “locksmithing device” means—
+
+&emsp;(1) a device or tool (other than a key) designed to manipulate the tumblers in a lock into the unlocked position through the keyway of such lock;
+
+&emsp;(2) a device or tool (other than a key or a device or tool under paragraph (1)) designed for the unauthorized opening or bypassing of a lock or similar security device; and
+
+&emsp;(3) a device or tool designed for making an impression of a key or similar security device to duplicate such key or device.
+
+(Added Pub. L. 100–690, title VII, §7090(a), Nov. 18, 1988, 102 Stat. 4409.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 1716A.
+

@@ -18,7 +18,7 @@ Prior provisions similar to sections 179 to 179k of this title were contained in
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 102–307 provided that: “This title \[enacting sections 179 to 179k of this title and repealing sections 178 to 178<i>l</i> of this title and provisions set out as a note under section 178 of this title\] may be cited as the ‘National Film Preservation Act of 1992’.”
+Section 201 of title II of Pub. L. 102–307 provided that: “This title \[enacting this section and sections 179a to 179k of this title and repealing sections 178 to 178<i>l</i> of this title and provisions set out as a note under section 178 of this title\] may be cited as the ‘National Film Preservation Act of 1992’.”
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ Section 315b, act May 31, 1938, ch. 298, §3, 52 Stat. 589, set out terms, execu
 
 Section 315c, act May 31, 1938, ch. 298, §4, 52 Stat. 590, laid upon governing body of each district duty of levying taxes to provide payment of interest and principal on bonds.
 
-Section 315d, act May 31, 1938, ch. 298, §5, 52 Stat. 590, repealed laws inconsistent with sections 315 to 315d and restricted effect of any limitation placed upon powers granted thereby to such powers and not to powers granted by any other sections.
+Section 315d, act May 31, 1938, ch. 298, §5, 52 Stat. 590, repealed laws inconsistent with sections 315 to 315d andrestricted effect of any limitation placed upon powers granted thereby to such powers and not to powers granted by any other sections.
 
 Section 315e, acts Jan. 17, 1940, ch. 3, §1, 54 Stat. 14; Aug. 18, 1958, Pub. L. 85–675, §1, 72 Stat. 625, authorized issuance of refunding bonds by municipal corporations and public utility districts.
 

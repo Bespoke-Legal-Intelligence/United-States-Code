@@ -16,7 +16,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (b) Other administration expenses
 
-Subject to the limitations in paragraph (1) of subsection (c), there shall be deducted in determining the taxable estate amounts representing expenses incurred in administering property notsubject to claims which is included in the gross estate to the same extent such amounts would be allowable as a deduction under subsection (a) if such property were subject to claims, and such amounts are paid before the expiration of the period of limitation for assessment provided in section 6501.
+Subject to the limitations in paragraph (1) of subsection (c), there shall be deducted in determining the taxable estate amounts representing expenses incurred in administering property not subject to claims which is included in the gross estate to the same extent such amounts would be allowable as a deduction under subsection (a) if such property were subject to claims, and such amounts are paid before the expiration of the period of limitation for assessment provided in section 6501.
 
 #### (c) Limitations
 
@@ -62,7 +62,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (B) Cross references
 
-&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
+&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State</b><b>death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
 
 #### (e) Marital rights
 

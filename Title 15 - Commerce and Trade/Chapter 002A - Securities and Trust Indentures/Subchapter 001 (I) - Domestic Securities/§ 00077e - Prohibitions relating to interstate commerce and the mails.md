@@ -12,7 +12,7 @@ Unless a registration statement is in effect as to a security, it shall be unlaw
 
 It shall be unlawful for any person, directly or indirectly—
 
-&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
+&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry ortransmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
 
 &emsp;(2) to carry or cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless accompanied or preceded by a prospectus that meets the requirements of subsection (a) of section 77j of this title.
 
@@ -38,8 +38,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Cross References
 
-Certificates of deposit issued in proceedings for modification of railroad financial structures, exemption of, see section 11367 of Title 49, Transportation.
-
 Civil liabilities for selling securities in violation of this section, see section 77<i>l</i> of this title.
 
 Intrastate issue of securities as exempt from this subchapter, see section 77c of this title.
@@ -58,5 +56,5 @@ Trust Indenture Act of 1939, exempted securities and transactions, see section 7
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77b, 77c, 77d, 77j, 77<i>l</i>, 77ddd, 80a–3, 80a–24, 3904 of this title; title 11 sections 364, 1129, 1145; title 42 section 9675; title 45 section 791; title 49 section 11367.
+This section is referred to in sections 77b, 77c, 77d, 77j, 77<i>l</i>, 77ddd, 80a–3, 80a–24, 3904 of this title; title 11 sections 364, 1129, 1145; title 42 section 9675; title 45 section 791.
 

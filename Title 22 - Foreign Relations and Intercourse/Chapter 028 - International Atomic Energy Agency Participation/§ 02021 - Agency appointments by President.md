@@ -14,7 +14,7 @@ The President may also appoint or designate from time to time such other persons
 
 #### (d) Compensation; allowances and benefits
 
-All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by thePresident upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
+All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
 
 (Pub. L. 85–177, §2, Aug. 28, 1957, 71 Stat. 453; Pub. L. 96–465, title II, §2206(a)(7)(A), Oct. 17, 1980, 94 Stat. 2161.)
 
@@ -40,7 +40,7 @@ Entitlement of Agency to privileges, exemptions, and immunities as an internatio
 
 #### Termination of Authority Under This Section
 
-Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see section 2026 of this title.
+Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to anamendment to the Statute of the Agency, see section 2026 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Background file document
 
-&emsp;The term “background file document” with respect to a written determination includesthe request for that written determination, any written material submitted in support of the request, and any communication (written or otherwise) between the Internal Revenue Service and persons outside the Internal Revenue Service in connection with such written determination (other than any communication between the Department of Justice and the Internal Revenue Service relating to a pending civil or criminal case or investigation) received before issuance of the written determination.
+&emsp;The term “background file document” with respect to a written determination includes the request for that written determination, any written material submitted in support of the request, and any communication (written or otherwise) between the Internal Revenue Service and persons outside the Internal Revenue Service in connection with such written determination (other than any communication between the Department of Justice and the Internal Revenue Service relating to a pending civil or criminal case or investigation) received before issuance of the written determination.
 
 #### (3) Reference and general written determinations
 
@@ -66,13 +66,13 @@ Before making any written determination or background file document open or avai
 
 #### (e) Background file documents
 
-Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of that person, any background file document relating to the written determination.
+Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of thatperson, any background file document relating to the written determination.
 
 #### (f) Resolution of disputes relating to disclosure
 
 #### (1) Notice of intention to disclose
 
-&emsp;The Secretary shall upon issuance of any written determination, or upon receipt of a request for a background file document, mail anotice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
+&emsp;The Secretary shall upon issuance of any written determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
 
 #### (2) Administrative remedies
 
@@ -116,13 +116,13 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (6) Publicity of Tax Court proceedings
 
-&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connection with proceedings under this section may be closed to the public or to inspection by the public.
+&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connection with proceedings under this section may beclosed to the public or to inspection by the public.
 
 #### (g) Time for disclosure
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the text of any written determination or any background file document (as modified undersubsection (c)) shall be open or available to public inspection—
+&emsp;Except as otherwise provided in this section, the text of any written determination or any background file document (as modified under subsection (c)) shall be open or available to public inspection—
 
 &emsp;&emsp;(A) no earlier than 75 days, and no later than 90 days, after the notice provided in subsection (f)(1) is mailed, or, if later,
 
@@ -192,7 +192,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (4) Notice that prior written determinations are open to public inspection
 
-&emsp;Notwithstanding the provisions of subsections (f)(1) and (f)(3)(A), not less than 90 days before making any portion of a written determination described in this subsection open to public inspection, the Secretary shall issue public notice in the Federal Register that such written determination is to be made open to public inspection. The person who received a written determination may, within 75 days after the date of publication of notice under this paragraph, file a petition in the United States Tax Court (anonymously, if appropriate) for a determination with respect to that portion of such written determination which is to be made open to public inspection. The provisions of subsections (f)(3)(B), (5), and (6) shall apply if such a petition is filed. If no petition is filed, the text of any written determination shall be open to public inspection no earlier than 90 days, and no later than 120 days, after notice is published in the Federal Register.
+&emsp;Notwithstanding the provisions of subsections (f)(1) and (f)(3)(A), not less than 90 days before making any portion of a written determination described in this subsection open to public inspection, the Secretary shall issue public notice in the Federal Register that such written determination is to be made open to public inspection. The person who received a written determination may, within 75 days after the date of publication of notice under this paragraph, file a petition in the United States Tax Court (anonymously, if appropriate) for a determination with respect to that portion of such written determinationwhich is to be made open to public inspection. The provisions of subsections (f)(3)(B), (5), and (6) shall apply if such a petition is filed. If no petition is filed, the text of any written determination shall be open to public inspection no earlier than 90 days, and no later than 120 days, after notice is published in the Federal Register.
 
 #### (5) Exclusion
 
@@ -264,7 +264,7 @@ Except as otherwise provided in this title, or with respect to a discovery order
 
 #### References in Text
 
-The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Codewas classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 (a) Logistics support, supplies, and services may be acquired or transferred by the United States under the authority of this subchapter on a reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
 
-(b)(1) In entering into agreements with the Government of another North Atlantic Treaty Organization country or other foreign country for the acquisition or transfer of logistic support, supplies, and services on a reimbursement basis, the Secretary of Defense shall negotiate for adoption of the following pricing principles for reciprocal application:
+(b)(1) In entering into agreements with the Government of another North Atlantic Treaty Organization country or other foreign countryfor the acquisition or transfer of logistic support, supplies, and services on a reimbursement basis, the Secretary of Defense shall negotiate for adoption of the following pricing principles for reciprocal application:
 
 &emsp;(A) The price charged by a supplying country for logistics support, supplies, and services specifically procured by the supplying country from its contractors for a recipient country shall be no less favorable than the price for identical items or services charged by such contractors to the armed forces of the supplying country, taking into account price differentials due to delivery schedules, points of delivery, and other similar considerations.
 
@@ -10,7 +10,7 @@
 
 (2) To the extent that the Secretary of Defense is unable to obtain mutual acceptance by the other country involved of the reciprocal pricing principles for reimbursable transactions set forth in paragraph (1)—
 
-&emsp;(A) the United States may not acquire from such country any logistic support, supply, or service not governed by such reciprocal pricing principles unless the United States forcescommander acquiring such support, supply, or service determines (after price analysis) that the price thereof is fair and reasonable; and
+&emsp;(A) the United States may not acquire from such country any logistic support, supply, or service not governed by such reciprocal pricing principles unless the United States forces commander acquiring such support, supply, or service determines (after price analysis) that the price thereof is fair and reasonable; and
 
 &emsp;(B) transfers by the United States to such country under this subchapter of any logistic support, supply, or service that is not governed by such reciprocal pricing principles shall be subject to the pricing provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 

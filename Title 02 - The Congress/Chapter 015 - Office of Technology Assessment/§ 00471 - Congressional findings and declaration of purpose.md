@@ -28,6 +28,18 @@ The Congress hereby finds and declares that:
 
 Section 1 of Pub. L. 92–484 provided: “That this Act \[enacting this chapter and amending section 1862 of Title 42, The Public Health and Welfare\] may be cited as the ‘Technology Assessment Act of 1972’.”
 
+#### Termination of Office of Technology Assessment
+
+Pub. L. 104–53, title I, §§113, 114, Nov. 19, 1995, 109 Stat. 526, provided that:
+
+“
+
+Sec. 113. Upon enactment of this Act \[Nov. 19, 1995\] all employees of the Office of Technology Assessment for 183 days preceding termination of employment who are terminated as a result of the elimination of the Office and who are not otherwise gainfully employed may continue to be paid by the Office of Technology Assessment at their respective salaries for a period not to exceed 60 calendar days following the employee's date of termination or until the employee becomes otherwise gainfully employed whichever is earlier. Any day for which a former employee receives a payment under this section shall be counted as Federal service for purposes of determining entitlement to benefits, including retirement, annual and sick leave earnings, and health and life insurance. A statement in writing to the Director of the Office of Technology Assessment or his designee by any such employee that he was not gainfully employed during such period or the portion thereof for which payment is claimed shall be accepted as prima facie evidence that he was not so employed.
+
+“
+
+Sec. 114. Notwithstanding the provisions of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], or any other provision of law, upon the abolition of the Office of Technology Assessment, all records and property of the Office (including the Unix system, all computer hardware and software, all library collections and research materials, and all photocopying equipment), shall be under the administrative control of the Architect of the Capitol. Not later than December 31, 1995, the Architect shall submit a proposal to transfer such records and property to appropriate support agencies of the Legislative Branch which request such transfer, and shall carry out such transfer subject to the approval of the Committees on Appropriations of the House of Representatives and the Senate.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 472 of this title.

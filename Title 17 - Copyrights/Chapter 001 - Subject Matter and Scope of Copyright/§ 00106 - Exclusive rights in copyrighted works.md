@@ -8,11 +8,13 @@ Subject to sections 107 through 120, the owner of copyright under this title has
 
 &emsp;(3) to distribute copies or phonorecords of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending;
 
-&emsp;(4) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and other audiovisual works, to perform the copyrighted work publicly; and
+&emsp;(4) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and other audiovisual works, to perform the copyrighted work publicly;
 
-&emsp;(5) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works, including the individual images of a motion picture or other audiovisual work, to display the copyrighted work publicly.
+&emsp;(5) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works, including the individual images of a motion picture or other audiovisual work, to display the copyrighted work publicly; and
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134.)
+&emsp;(6) in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, §2, Nov. 1, 1995, 109 Stat. 336.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +24,7 @@ I74house report no. 94–1476
 
 The approach of the bill is to set forth the copyright owner's exclusive rights in broad terms in section 106, and then to provide various limitations, qualifications, or exemptions in the 12 sections that follow. Thus, everything in section 106 is made “subject to sections 107 through 118”, and must be read in conjunction with those provisions.
 
-The exclusive rights accorded to a copyright owner under section 106 are “to do and to authorize” any of the activities specified in the five numbered clauses. Use of the phrase “to authorize” is intended to avoid any questions as to the liability of contributory infringers. For example, a person who lawfully acquires an authorized copy of a motion picture would be an infringer if he or she engages in the business of renting it to others for purposes of unauthorized public performance.
+The exclusive rights accorded to a copyright owner under section 106 are “to do and to authorize” any ofthe activities specified in the five numbered clauses. Use of the phrase “to authorize” is intended to avoid any questions as to the liability of contributory infringers. For example, a person who lawfully acquires an authorized copy of a motion picture would be an infringer if he or she engages in the business of renting it to others for purposes of unauthorized public performance.
 
 <b>Rights of Reproduction, Adaptation, and Publication</b>. The first three clauses of section 106, which cover all rights under a copyright except those of performance and display, extend to every kind of copyrighted work. The exclusive rights encompassed by these clauses, though closely related, are independent; they can generally be characterized as rights of copying, recording, adaptation, and publishing. A single act of infringement may violate all of these rights at once, as where a publisher reproduces, adapts, and sells copies of a person's copyrighted work as part of a publishing venture. Infringement takes place when any one of the rights is violated: where, for example, a printer reproduces copies without selling them or a retailer sells copies without having anything to do with their reproduction. The references to “copies or phonorecords,” although in the plural, are intended here and throughout the bill to include the singular (1 U.S.C. §1).
 
@@ -46,7 +48,7 @@ The exclusive right of public performance is expanded to include not only motion
 
 <i>Right of Public Display</i>.—Clause (5) of section 106 represents the first explicit statutory recognition in American copyright law of an exclusive right to show a copyrighted work, or an image of it, to the public. The existence or extent of this right under the present statute is uncertain and subject to challenge. The bill would give the owners of copyright in “literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works”, including the individual images of a motion picture or other audiovisual work, the exclusive right “to display the copyrighted work publicly.”
 
-<b>Definitions</b>. Under the definitions of “perform,” “display,” “publicly,” and “transmit” in section 101, the concepts of public performance and public display cover not only the initial rendition or showing, but also any further act by which that rendition or showing is transmitted or communicated to the public. Thus, for example: a singer is performing when he or she sings a song; a broadcasting network is performing when it transmits his or her performance (whether simultaneously or from records); a local broadcaster is performing when it transmits the network broadcast; a cable television system is performing when it retransmits the broadcast to its subscribers; and any individual is performing whenever he or she plays a phonorecord embodying the performance or communicates the performance by turning on a receiving set. Although any act by which the initial performance or display is transmitted, repeated, or made to recur would itself be a “performance” or “display” under the bill, it would not be actionable as an infringement unless it were done “publicly,” as defined in section 101. Certain other performances and displays, in addition to those that are “private,” are exempted or given qualified copyright control under sections 107 through 118.
+<b>Definitions</b>. Under the definitions of “perform,” “display,” “publicly,” and “transmit” in section 101, the concepts of public performance and public display cover not only the initial rendition or showing, but also any further act by which that rendition or showing is transmitted or communicated to the public. Thus, for example: a singer is performing when he or she sings a song; a broadcasting network is performing when it transmits his or her performance (whether simultaneously or from records); a local broadcaster is performing when it transmits the network broadcast; a cable television system is performing when it retransmits the broadcast to its subscribers; and any individual is performing whenever he or she plays a phonorecord embodying the performance or communicates the performance by turning on a receiving set. Although any act by which the initial performance or display is transmitted, repeated, or made to recur would itself be a “performance” or “display” under the bill, it wouldnot be actionable as an infringement unless it were done “publicly,” as defined in section 101. Certain other performances and displays, in addition to those that are “private,” are exempted or given qualified copyright control under sections 107 through 118.
 
 To “perform” a work, under the definition in section 101, includes reading a literary work aloud, singing or playing music, dancing a ballet or other choreographic work, and acting out a dramatic work or pantomime. A performance may be accomplished “either directly or by means of any device or process,” including all kinds of equipment for reproducing or amplifying sounds or visual images, any sort of transmitting apparatus, any type of electronic retrieval system, and any other techniques and systems not yet in use or even invented.
 
@@ -58,13 +60,19 @@ Under clause (1) of the definition of “publicly” in section 101, a performan
 
 Clause (2) of the definition of “publicly” in section 101 makes clear that the concepts of public performance and public display include not only performances and displays that occur initially in a public place, but also acts that transmit or otherwise communicate a performance or display of the work to the public by means of any device or process. The definition of “transmit”—to communicate a performance or display “by any device or process whereby images or sound are received beyond the place from which they are sent”—is broad enough to include all conceivable forms and combinations of wired or wireless communications media, including but by no means limited to radio and television broadcasting as we know them. Each and every method by which the images or sounds comprising a performance or display are picked up and conveyed is a “transmission,” and if the transmission reaches the public in my \[any\] form, the case comes within the scope of clauses (4) or (5) of section 106.
 
-Under the bill, as under the present law, a performance made available by transmission to the public at large is “public” even though the recipients are notgathered in a single place, and even if there is no proof that any of the potential recipients was operating his receiving apparatus at the time of the transmission. The same principles apply whenever the potential recipients of the transmission represent a limited segment of the public, such as the occupants of hotel rooms or the subscribers of a cable television service. Clause (2) of the definition of “publicly” is applicable “whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.”
+Under the bill, as under the present law, a performance made available by transmission to the public at large is “public” even though the recipients are not gathered in a single place, and even if there is no proof that any of the potential recipients was operating his receiving apparatus at the time of the transmission. The same principles apply whenever the potential recipients of the transmission represent a limited segment of the public, such as the occupants of hotel rooms or the subscribers of a cable television service. Clause (2) of the definition of “publicly” is applicable “whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.”
 
 #### Amendments
+
+1995—Par. (6). Pub. L. 104–39 added par. (6).
 
 1990—Pub. L. 101–650 substituted “120” for “119” in introductory provisions.
 
 Pub. L. 101–318 substituted “119” for “118” in introductory provisions.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section 6 of Pub. L. 104–39, set out as a note under section 101 of this title.
 
 #### Effective Date of 1990 Amendments
 

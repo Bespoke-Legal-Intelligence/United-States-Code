@@ -50,7 +50,7 @@ The import relief that the President is authorized to provide under this section
 
 When import relief under this subpart is terminated with respect to a Mexican article—
 
-&emsp;(1) the rate of duty on that article after such termination and on or before December 31 of the year in which termination occurs shall be the rate that, according to the United StatesSchedule to Annex 302.2 of the Agreement for the staged elimination of the tariff, would have been in effect 1 year after the initiation of the import relief action under section 3352 of this title; and
+&emsp;(1) the rate of duty on that article after such termination and on or before December 31 of the year in which termination occurs shall be the rate that, according to the United States Schedule to Annex 302.2 of the Agreement for the staged elimination of the tariff, would have been in effect 1 year after the initiation of the import relief action under section 3352 of this title; and
 
 &emsp;(2) the tariff treatment for that article after December 31 of the year in which termination occurs shall be, at the discretion of the President, either—
 

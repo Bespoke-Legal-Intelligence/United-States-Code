@@ -12,7 +12,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 #### (1) Transitional provision
 
-&emsp;Until the date that is 3 years after December 18, 1991, a State shall be eligible to receive moneys under this chapter <sup>1</sup> only if such State's application proposes to use the moneys as provided in subsection (e) of this section.
+&emsp;Until the date that is 3 years after December 18, 1991, a State shall be eligible to receivemoneys under this chapter only if such State's application proposes to use the moneys as provided in subsection (e) of this section.
 
 #### (2) Permanent provision
 
@@ -20,11 +20,19 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 &emsp;&emsp;(A) a recreational trail advisory board on which both motorized and nonmotorized recreational trail users are represented exists within the State;
 
-&emsp;&emsp;(B) in the case of a State that imposes a tax on nonhighway recreational fuel, the State by law reserves a reasonable estimation of the revenues from that tax for use in providing and maintaining recreational trails;
+&emsp;&emsp;(B) the Governor of the State has designated the State official or officials who will be responsible for administering moneys received under this chapter; and
 
-&emsp;&emsp;(C) the Governor of the State has designated the State official or officials who will be responsible for administering moneys received under this chapter <sup>1</sup>; and
+&emsp;&emsp;(C) the State's application proposes to use moneys received under this chapter as provided in subsection (e) of this section.
 
-&emsp;&emsp;(D) the State's application proposes to use moneys received under this chapter as provided in subsection (e) of this section.
+#### (3) Federal share
+
+#### (A) Prior to fiscal year 2001
+
+&emsp;&emsp;Prior to October 1, 2000, the Federal share of the cost of a project under this section shall be 50 percent.
+
+#### (B) Fiscal year 2001 and thereafter
+
+&emsp;&emsp;For fiscal year 2001 and each fiscal year thereafter, a State shall be eligible to receive moneys under this chapter for a fiscal year only if the State agrees to expend from non-Federal sources for carrying out projects under this chapter an amount equal to 20 percent of the amount received by the State under this chapter in that fiscal year.
 
 #### (d) Allocation of moneys in Fund
 
@@ -36,9 +44,11 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 &emsp;&emsp;(B) paying expenses of the National Recreational Trails Advisory Committee;
 
-&emsp;&emsp;(C) conducting national surveys of nonhighway recreational fuel consumption by State, for use in making determinations and estimations pursuant to this chapter; and
+&emsp;&emsp;(C) conducting national surveys of nonhighway recreational fuel consumption by State, for use in making determinations and estimations pursuant to this chapter;
 
-&emsp;&emsp;(D) if any such funds remain unexpended, research on methods to accommodate multiple trail uses and increase the compatibility of those uses, information dissemination, technical assistance, and preparation of a national trail plan as required by the National Trails System Act (16 U.S.C. 1241 et al).
+&emsp;&emsp;(D) contracting for services with other land management agencies; and
+
+&emsp;&emsp;(E) if any such funds remain unexpended, research on methods to accommodate multiple trail uses and increase the compatibility of those uses, information dissemination, technical assistance, and preparation of a national trail plan as required by the National Trails System Act (16 U.S.C. 1241 et al).
 
 #### (2) Allocation to States
 
@@ -100,7 +110,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 &emsp;&emsp;(J) construction of new trails on State, county, municipal, or private lands, where a recreational need for such construction is shown; and
 
-&emsp;&emsp;(K) only as otherwise permissible, and where necessary and required by a State Comprehensive Outdoor Recreation plan,<sup>2</sup> construction of new trails crossing Federal lands, where such construction is approved by the administering agency of the State, and the Federal agency or agencies charged with management of all impacted lands, such approval to be contingent upon compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act (42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act (43 U.S.C. 1701 et seq.).
+&emsp;&emsp;(K) only as otherwise permissible, and where necessary and required by a State Comprehensive Outdoor Recreation plan,<sup>1</sup>construction of new trails crossing Federal lands, where such construction is approved by the administering agency of the State, and the Federal agency or agencies charged with management of all impacted lands, such approval to be contingent upon compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act (42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act (43 U.S.C. 1701 et seq.).
 
 #### (2) Use not permitted
 
@@ -134,9 +144,19 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 #### (4) Assured access to funds
 
-&emsp;Except as provided under paragraphs (6) and (8)(B), not less than 30 percent of the moneys received annually by a State under this chapter shall be reserved for uses relating to motorized recreation, and not less than 30 percent of those moneys shall be reserved for uses relating to non-motorized recreation.
+&emsp;Except as provided under paragraphs (7) and (9)(B), not less than 30 percent of the moneys received annually by a State under this chapter shall be reserved for uses relating to motorized recreation, and not less than 30 percent of those moneys shall be reserved for uses relating to non-motorized recreation.
 
-#### (5) Diversified trail use
+#### (5) Environmental mitigation
+
+#### (A) Requirement
+
+&emsp;&emsp;To the extent practicable and consistent with other requirements of this section, in complying with paragraph (4), a State should give consideration to project proposals that provide for the redesign, reconstruction, nonroutine maintenance, or relocation of trails in order to mitigate and minimize the impact to the natural environment.
+
+#### (B) Guidance
+
+&emsp;&emsp;A recreational trail advisory board satisfying the requirements of subsection (c)(2)(A) of this section shall issue guidance to a State for the purposes of implementing subparagraph (A).
+
+#### (6) Diversified trail use
 
 #### (A) Requirement
 
@@ -152,19 +172,19 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 &emsp;&emsp;The State shall receive guidance for determining compliance with subparagraph (A) from the recreational trail advisory board satisfying the requirements of subsection (c)(2)(A) of this section.
 
-#### (6) Small State exclusion
+#### (7) Small State exclusion
 
 &emsp;Any State with a total land area of less than 3,500,000 acres, and in which nonhighway recreational fuel use accounts for less than 1 percent of all such fuel use in the United States, shall be exempted from the requirements of paragraph (4) of this subsection upon application to the Secretary by the State demonstrating that it meets the conditions of this paragraph.
 
-#### (7) Continuing recreational use
+#### (8) Continuing recreational use
 
-&emsp;At the option of each State, moneys made available pursuant to this chapter may betreated as Land and Water Conservation Fund moneys for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–8(f)(3)\].
+&emsp;At the option of each State, moneys made available pursuant to this chapter may be treated as Land and Water Conservation Fund moneys for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–8(f)(3)\].
 
-#### (8) Return of moneys not expended
+#### (9) Return of moneys not expended
 
-&emsp;(A) Except as provided in subparagraph (B), moneys paid to a State that are not expended or dedicated to a specific project within 4 years after receipt for the purposes stated in this subsection shall be returned to the Fund and shall thereafter be reallocated under the formula stated in subsection (d) of this section.
+&emsp;(A) Except as provided in subparagraph (B), moneys paid to a State that are not expendedor dedicated to a specific project within 4 years after receipt for the purposes stated in this subsection shall be returned to the Fund and shall thereafter be reallocated under the formula stated in subsection (d) of this section.
 
-&emsp;(B) If approved by the State recreational trail advisory board satisfying the requirements of subsection (c)(2)(A) of this section, may <sup>3</sup> be exempted from the requirements of paragraph (4) and expended or committed to projects for purposes otherwise stated in this subsection for a period not to extend beyond 4 years after receipt, after which any remaining moneys not expended or dedicated shall be returned to the Fund and shall thereafter be reallocated under the formula stated in subsection (d) of this section.
+&emsp;(B) If approved by the State recreational trail advisory board satisfying the requirements of subsection (c)(2)(A) of this section, the State may be exempted from the requirements of paragraph (4).
 
 #### (f) Coordination of activities
 
@@ -210,15 +230,13 @@ For the purposes of this section—
 
 &emsp;The term “motorized recreation” may not include motorized conveyances used by persons with disabilities, such as self-propelled wheelchairs, at the discretion of each State.
 
-(Pub. L. 102–240, title I, §1302, Dec. 18, 1991, 105 Stat. 2064.)
+(Pub. L. 102–240, title I, §1302, Dec. 18, 1991, 105 Stat. 2064; Pub. L. 104–59, title III, §337(a)–(d), Nov. 28, 1995, 109 Stat. 602, 603; Pub. L. 104–88, title IV, §405(a)(5), Dec. 29, 1995, 109 Stat. 957.)
 
 #### References in Text
 
 The Land and Water Conservation Fund Act, referred to in subsec. (b), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-This chapter, referred to in subsec. (c)(1), (2)(C), was in the original “this Act”, and was translated as reading “this part” meaning part B of title I of Pub. L. 102–240, which enacted this chapter, to reflect the probable intent of Congress.
-
-The National Trails System Act, referred to in subsec. (d)(1)(D), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
+The National Trails System Act, referred to in subsec. (d)(1)(E), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
 The National Environmental Policy Act, referred to in subsec. (e)(1)(K), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -226,17 +244,35 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 The Federal Land Policy and Management Act, referred to in subsec. (e)(1)(K), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
+#### Amendments
+
+1995—Subsec. (c)(1), (2). Pub. L. 104–59, §337(a)(1), made technical amendment to references to this chapter in pars. (1) and (2)(C) to correct reference to corresponding provisions of original act.
+
+Subsec. (c)(2)(B) to (D). Pub. L. 104–59, §337(a)(2), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “in the case of a State that imposes a tax on nonhighway recreational fuel, the State by law reserves a reasonable estimation of the revenues from that tax for use in providing and maintaining recreational trails;”.
+
+Subsec. (c)(3). Pub. L. 104–59, §337(a)(3), added par. (3).
+
+Subsec. (d)(1)(C) to (E). Pub. L. 104–59, §337(b), struck out “and” at end of subpar. (C), added subpar. (D), and redesignated former subpar. (D) as (E).
+
+Subsec. (e)(4). Pub. L. 104–59, §337(c)(2), substituted “paragraphs (7) and (9)(B)” for “paragraphs (6) and (8)(B)”.
+
+Subsec. (e)(5). Pub. L. 104–59, §337(c)(1)(B), as amended by Pub. L. 104–88, added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (e)(6) to (9). Pub. L. 104–59, §337(c)(1), redesignated pars. (5) to (8) as (6) to (9), respectively.
+
+Subsec. (e)(9)(B). Pub. L. 104–59, §337(d), inserted “the State” before “may be exempted” and struck out before period at end “and expended or committed to projects for purposes otherwise stated in this subsection for a period not to extend beyond 4 years after receipt, after which any remaining moneys not expended or dedicated shall be returned to the Fund and shall thereafter be reallocated under the formula stated in subsection (d) of this section”.
+
+#### Effective Date of 1995 Amendment
+
+Section 405(a) of Pub. L. 104–88 provided that the amendment made by that section is effective Nov. 28, 1995.
+
 #### Short Title
 
 Section 1301 of Pub. L. 102–240 provided that: “This part \[part B (§§1301–1303) of title I of Pub. L. 102–240, enacting this chapter\] may be cited as the ‘Symms National Recreational Trails Act of 1991’.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1262 of this title; title 26 sections 9503, 9511.
+This section is referred to in section 1262 of this title; title 23 section 104; title 26 sections 9503, 9511.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “moneys paid to a State may”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

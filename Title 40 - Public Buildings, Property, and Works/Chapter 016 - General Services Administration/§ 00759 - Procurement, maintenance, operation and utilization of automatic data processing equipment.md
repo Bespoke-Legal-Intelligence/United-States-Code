@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iv) involves equipment which is an integral part of a weapon or weapons system; or
 
-&emsp;&emsp;(v) is critical to the direct fulfillment of military or intelligence missions, provided that this exclusion shall not include automatic data processing equipment used forroutine administrative and business applications such as payroll, finance, logistics, and personnel management; or
+&emsp;&emsp;(v) is critical to the direct fulfillment of military or intelligence missions, provided that this exclusion shall not include automatic data processing equipment used for routine administrative and business applications such as payroll, finance, logistics, and personnel management; or
 
 &emsp;(D) the procurement of automatic data processing equipment or services by the Central Intelligence Agency.
 
@@ -52,7 +52,7 @@
 
 (2) The Administrator may delegate to one or more Federal agencies authority to operate automatic data processing equipment pools and automatic data processing centers, and to lease, purchase, or maintain individual automatic data processing systems or specific units of equipment, including such equipment used in automatic data processing pools and automatic data processing centers, when such action is determined by the Administrator to be necessary for the economy and efficiency of operations, or when such action is essential to national defense or national security. The Administrator may delegate to one or more Federal agencies authority to lease, purchase, or maintain automatic data processing equipment to the extent to which he determines such action to be necessary and desirable to allow for the orderly implementation of a program for the utilization of such equipment.
 
-(3) If the Administrator finds that a senior official of an agency designated pursuant to section 3506(b) of title 44 is sufficiently independent of program responsibility and has sufficient experience, resources, and ability to carry out fairly and effectively procurements under this section, the Administrator may delegate to such official the authority to lease, purchase, or maintain automatic data processing equipment pursuant to paragraph (2) of this subsection, except that any such delegation shall not relieve the Administrator of the responsibilities assigned to the Administrator under this section. A delegation by the Administrator under this subsection shall not preclude the Administrator from reviewing individual procurement requests if the Administrator determines that circumstances warrant such a review. The Administrator shall retain authority to revoke such delegations, both in general and with regard to any specific matter, including the authority to revoke a delegation of authority with respect to a particular contract after award of the contract, except that the Administrator may revoke a delegation of authority after the contract is awarded only when there is a finding of a violation of law or regulation in connection with the contract award..<sup>1</sup> In acting for the Administrator, any official to whom approval authority has been delegated under this subsection shall comply fully with the rules and regulations promulgated by the Administrator.
+(3) If the Administrator finds that a senior official of an agency designated pursuant to section 3506(b) <sup>1</sup> of title 44 is sufficiently independent of program responsibility and has sufficient experience, resources, and ability to carry out fairly and effectively procurements under this section, the Administrator may delegate to such official the authority to lease, purchase, or maintain automatic data processing equipment pursuant to paragraph (2) of this subsection, except that any such delegation shall not relieve the Administrator of the responsibilities assigned to the Administrator under this section. A delegation by the Administrator under this subsection shall not preclude the Administrator from reviewing individual procurement requests if the Administrator determines that circumstances warrant such a review. The Administrator shall retain authority to revoke such delegations, both in general and with regard to any specific matter, including the authority to revoke a delegation of authority with respect to a particular contract after award of the contract, except that the Administrator may revoke a delegation of authority after the contract is awarded only when there is a finding of a violation of law or regulation in connection with the contract award..<sup>2</sup> In acting for the Administrator, any official to whom approval authority has been delegated under this subsection shall comply fully with the rules and regulations promulgated by the Administrator.
 
 #### (c) Inapplicability of other inconsistent provisions of law
 
@@ -64,7 +64,7 @@ The proviso following paragraph (4) in section 481(a) of this title and the prov
 
 (2) The head of a Federal agency may employ standards for the cost-effective security and privacy of sensitive information in a Federal computer system within or under the supervision of that agency that are more stringent than the standards promulgated by the Secretary of Commerce, if such standards contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Secretary of Commerce.
 
-(3) The standards determined to be compulsory and binding may be waived by the Secretary of Commerce in writing upon a determination that compliance would adversely affect the accomplishment of the mission of an operator of a Federal computer system, or cause a major adverse financial impact on the operator which is not offset by Government-wide savings. The Secretary may delegate to the head of one or more Federal agencies authority to waive such standards to the extent to which the Secretary determines such action to be necessary and desirable to allow for timely and effective implementation of Federal computer systems standards. The head of such agency may redelegate such authority only to a senior official designated pursuant to section 3506(b) of title 44. Notice of each such waiver and delegation shall be transmitted promptly to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate and shall be published promptly in the Federal Register.
+(3) The standards determined to be compulsory and binding may be waived by the Secretary of Commerce in writing upon a determination that compliance would adversely affect the accomplishment of the mission of an operator of a Federal computer system, or cause a major adverse financial impact on the operator which is not offset by Government-wide savings. The Secretary may delegate to the head of one or more Federal agencies authority to waive such standards to the extent to which the Secretary determines such action to be necessary and desirable to allow for timely and effective implementation of Federal computer systems standards. The head of such agency may redelegate suchauthority only to a senior official designated pursuant to section 3506(b) of title 44. Notice of each such waiver and delegation shall be transmitted promptly to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate and shall be published promptly in the Federal Register.
 
 (4) The Administrator shall revise the Federal information resources management regulations (41 CFR ch. 201) to be consistent with the standards and guidelines promulgated by the Secretary of Commerce under this subsection.
 
@@ -96,7 +96,7 @@ The authority conferred upon the Administrator and the Secretary of Commerce by 
 
 &emsp;(II) the fifth day after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
 
-(iii) The board shall hold the requested hearing within 5 days after the date of the filing ofthe protest or, in the case of a request for debriefing under the provisions of section 2305(b)(5) of title 10 or section 303B(e) of this Act \[41 U.S.C. 253b(e)\], within 5 days after the later of the date of the filing of the protest or the date of the debriefing.
+(iii) The board shall hold the requested hearing within 5 days after the date of the filing of the protest or, in the case of a request for debriefing under the provisions of section 2305(b)(5) of title 10 or section 303B(e) of this Act \[41 U.S.C. 253b(e)\], within 5 days after the later of the date of the filing of the protest or the date of the debriefing.
 
 (B) The board shall suspend the procurement authority of the Administrator or the Administrator's delegation of procurement authority to acquire any goods or services under the contract which are not previously delivered and accepted unless the Federal agency concerned establishes that urgent and compelling circumstances which significantly affect interests of the United States will not permit waiting for the decision of the board.
 
@@ -128,7 +128,7 @@ The authority conferred upon the Administrator and the Secretary of Commerce by 
 
 (C) Nothing contained in this subsection shall affect the board's power to order any additional relief which it is authorized to provide under any statute or regulation. However, the procedures set forth in this subsection shall only apply to procurements conducted under the authority contained in this section. In addition, nothing contained in this subsection shall affect the right of any interested party to file a protest with the contracting agency or to file an action in a district court of the United States or the United States Court of Federal Claims.
 
-(7)(A) The board shall adopt and issue such rules and procedures as may be necessary to theexpeditious disposition of protests filed under the authority of this subsection.
+(7)(A) The board shall adopt and issue such rules and procedures as may be necessary to the expeditious disposition of protests filed under the authority of this subsection.
 
 (B) The procedures shall provide that, in the computation of any period described in this subsection—
 
@@ -208,9 +208,11 @@ The justifications and approvals required by section 253(f)(1) of title 41 shall
 
 This section may be cited as the “Brooks Automatic Data Processing Act”.
 
-(June 30, 1949, ch. 288, title I, §111, as added Oct. 30, 1965, Pub. L. 89–306, 79 Stat. 1127; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2713(a), 98 Stat. 1182; Nov. 8, 1985, Pub. L. 99–145, title IX, §961(c), title XIII, §1304(c)(1), 99 Stat. 703, 742; Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VIII, §§821(b)(1), 822–825\], 100 Stat. 1783–308, 1783–342 to 1783–344, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VIII, §§821(b)(1), 822–825\], 100 Stat. 3341–308, 3341–342 to 3341–344; Jan. 8, 1988, Pub. L. 100–235, §4, 101 Stat. 1728; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; Oct. 13, 1994, Pub. L. 103–355, title I, §§1431–1439, title X, §10005(f)(3), 108 Stat. 3291–3295, 3409.)
+(June 30, 1949, ch. 288, title I, §111, as added Oct. 30, 1965, Pub. L. 89–306, 79 Stat. 1127; amended1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2713(a), 98 Stat. 1182; Nov. 8, 1985, Pub. L. 99–145, title IX, §961(c), title XIII, §1304(c)(1), 99 Stat. 703, 742; Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VIII, §§821(b)(1), 822–825\], 100 Stat. 1783–308, 1783–342 to 1783–344, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VIII, §§821(b)(1), 822–825\], 100 Stat. 3341–308, 3341–342 to 3341–344; Jan. 8, 1988, Pub. L. 100–235, §4, 101 Stat. 1728; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; Oct. 13, 1994, Pub. L. 103–355, title I, §§1431–1439, title X, §10005(f)(3), 108 Stat. 3291–3295, 3409.)
 
 #### References in Text
+
+Section 3506 of title 44, referred to in subsec. (b)(3), which in subsec. (b) related to designation of senior officials of agencies, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3506 of Title 44 which in subsec. (a) contains provisions relating to designation of senior officials of agencies.
 
 This Act, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
@@ -270,7 +272,7 @@ Subsec. (b)(3). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §
 
 Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §821(b)(1)\], redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for establishment of automatic data processing fund and uses of fund and required an annual report.
 
-Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §821(b)(1)\], redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to capital of automatic data processing fund, credits for fund, and transfer of net income to Treasury at close of each fiscal year.
+Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §821(b)(1)\], redesignated subsec. (f) as (d) andstruck out former subsec. (d) which related to capital of automatic data processing fund, credits for fund, and transfer of net income to Treasury at close of each fiscal year.
 
 Subsec. (e). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title VIII, §821(b)(1)(B)\], redesignated subsec. (g) as (e). Former subsec. (e) redesignated (c).
 
@@ -292,7 +294,7 @@ Subsec. (i). Pub. L. 99–145, §961(c), added subsec. (i).
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -322,9 +324,9 @@ Functions, authority, and responsibility of Director of Office of Management and
 
 Functions of Office of Management and Budget approving standards on behalf of President pursuant to subsec. (f)(2) of this section transferred to Secretary of Commerce, see section 2 of Ex. Ord. No. 11717, May 9, 1973, 38 F.R. 12315, set out as a note under section 501 of Title 31, Money and Finance.
 
-#### Definitions
+#### Procurement of Automatic Data Processing Equipment for Tax Systems Modernization Program; Delegation of Authority
 
-The definitions in section 472 of this title apply to this chapter.
+Pub. L. 104–52, title V, §526, Nov. 19, 1995, 109 Stat. 495, provided that: “Notwithstanding any other provision of law, the Administrator of General Services shall delegate the authority to procure automatic data processing equipment for the Tax Systems Modernization Program to the Secretary of the Treasury: <i>Provided</i>, That the Director of the Office of Management and Budget shall have the authority to revoke such delegation upon the written recommendation of the Administrator that the Secretary's actions under such delegation are inconsistent with the goals of economic and efficient procurement and utilization of automatic data processing equipment: <i>Provided further</i>, That for all other purposes, a procurement conducted under such delegation shall be treated as if made under a delegation by the Administrator pursuant to 40 U.S.C. 759.”
 
 #### Computer Security
 
@@ -350,7 +352,7 @@ Specific Purposes.—The purposes of this Act are—
 
 &emsp;“(3) to require establishment of security plans by all operators of Federal computer systems that contain sensitive information; and
 
-&emsp;“(4) to require mandatory periodic training for all persons involved in management, use, or operation ofFederal computer systems that contain sensitive information.
+&emsp;“(4) to require mandatory periodic training for all persons involved in management, use, or operation of Federal computer systems that contain sensitive information.
 
 #### “SEC. 5. FEDERAL COMPUTER SYSTEM SECURITY TRAINING.
 
@@ -402,9 +404,15 @@ Security Plan.—Within one year after the date of enactment of this Act \[Jan. 
 
 &emsp;&emsp;“(C) public domain information.”
 
+#### Definitions
+
+The definitions in section 472 of this title apply to this chapter.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 757 of this title; title 10 sections 2305, 2306b, 2315; title 15 section 278g–3; title 28 section 612; title 31 sections 1558, 3552; title 38 section 310; title 41 section 253b; title 42 section 8287; title 44 sections 3502, 3504, 3505, 3506, 3518; title 49 section 40112; title 50 section 403c.
+This section is referred to in section 757 of this title; title 10 sections 2305, 2306b, 2315; title 15 section 278g–3; title 28 section 612; title 31 sections 1558, 3552; title 38 section 310; title 41 section 253b; title 42 section 8287; title 44 sections 3502, 3504, 3518; title 49 section 40112; title 50 section 403c.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

@@ -36,13 +36,13 @@ No law school may receive more than $250,000 in any fiscal year pursuant to this
 
 For the purpose of this part, the term “accredited law school” means any law school which is accredited by a nationally recognized accrediting agency or association approved by the Secretary for this purpose, including any combination or consortium of such schools.
 
-(Pub. L. 89 329, title IX, §971, as added Pub. L. 99 498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1560; amended Pub. L. 102 325, title IX, §901, July 23, 1992, 106 Stat. 776.)
+(Pub. L. 89–329, title IX, §971, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1560; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 776.)
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions authorizing law school clinical experience programs for provisions authorizing appropriations for this subchapter.
+1992—Pub. L. 102–325 amended section generally, substituting provisions authorizing law school clinical experience programs for provisions authorizing appropriations for this subchapter.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

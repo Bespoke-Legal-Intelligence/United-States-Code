@@ -66,37 +66,37 @@ The assessment required under subsection (a) of this section shall include descr
 
 (3) The study required under paragraph (1) shall be completed by January 1, 1994.
 
-(Pub. L. 88 210, title IV, §403, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2467; amendedPub. L. 101 392, title IV, §404, Sept. 25, 1990, 104 Stat. 807.)
+(Pub. L. 88–210, title IV, §403, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2467; amended Pub. L. 101–392, title IV, §404, Sept. 25, 1990, 104 Stat. 807.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(2), is Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Adult Education Act, referred to in subsec. (b)(9), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in subsec. (b)(9), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (b)(9), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(9), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The National Apprenticeship Act, referred to in subsec. (b)(9), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(9), is Pub. L. 93 112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(9), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (b)(9), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Amendments
 
-1990—Pub. L. 101 392 amended section generally, substituting provisions relating to national assessment of vocational education programs by Office of Education Research and Improvement through studies and analyses conducted independently through competitive awards, appointment of independent advisory panel to advise on implementation of assessment, contents of assessment, consultation with Congressional committees and reports to Congress, and study of distribution of Federal vocational education funds to States to be included in assessment for provisions which related to national assessment of vocational education programs by Secretary through independent studies and analyses by National Institute of Education, contents of assessment, consultation with Congressional committees and reports to Congress, analysis of State plans by Secretary with suggestions to State boards for improvements in planning or program operation, prohibition of review of reports outside National Institute of Education before transmittal to Congress, authority of President and Secretary to make additional recommendations to Congress regarding assessment, and limitation on expenditure of funds to carry out assessment.
+1990—Pub. L. 101–392 amended section generally, substituting provisions relating to national assessment of vocational education programs by Office of Education Research and Improvement through studies and analyses conducted independently through competitive awards, appointment of independent advisory panel to advise on implementation of assessment, contents of assessment, consultation with Congressional committees and reports to Congress, and study of distribution of Federal vocational education funds to States to be included in assessment for provisions which related to national assessment of vocational education programs by Secretary through independent studies and analyses by National Institute of Education, contents of assessment, consultation with Congressional committees and reports to Congress, analysis of State plans by Secretary with suggestions to State boards for improvements in planning or program operation, prohibition of review of reports outside National Institute of Education before transmittal to Congress, authority of President and Secretary to make additional recommendations to Congress regarding assessment, and limitation on expenditure of funds to carry out assessment.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Study of Dual System of Vocational Education in Federal Republic of Germany
 
-Section 611 of Pub. L. 101 392 provided that:
+Section 611 of Pub. L. 101–392 provided that:
 
 “(a)
 

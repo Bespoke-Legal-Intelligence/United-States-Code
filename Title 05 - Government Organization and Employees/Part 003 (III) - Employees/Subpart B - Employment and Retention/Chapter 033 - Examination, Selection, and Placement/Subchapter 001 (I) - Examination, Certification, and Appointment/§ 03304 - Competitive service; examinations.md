@@ -28,7 +28,15 @@
 
 (e) Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–65, §16, Dec. 19, 1995, 109 Stat. 703, provided that, effective 2 years after Dec. 19, 1995, this section is amended by repealing subsection (c) of this section and redesignating subsection (d) as (c).</i>
+
+<i>Pub. L. 104–65, §17, Dec. 19, 1995, 109 Stat. 703, provided that, effective 2 years after Dec. 19, 1995, with certain exceptions, this section is amended by adding at the end thereof the following new subsection:</i>
+
+(d) The Office of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
 
 Historical and Revision Notes
 
@@ -90,9 +98,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1986—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1986</b>—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1978—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
+
+#### Effective Date of 1995 Amendment
+
+Section 16(c) of Pub. L. 104–65 provided that: “The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\].”
+
+Section 17(b) of Pub. L. 104–65 provided that: “The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
+
+&emsp;“(1) conduct a study on excepted service considerations for competitive service appointments relating to such amendment; and
+
+&emsp;“(2) take all necessary actions for the regulations described under such amendment to take effect as final regulations on the effective date of this section.”
 
 #### Effective Date of 1978 Amendment
 
@@ -108,5 +126,5 @@ President's power to grant exceptions from provisions of subsec. (a) of this sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3302 of this title; title 22 section 3008; title 38 section 4303; title 40 section 42.
+This section is referred to in section 3302 of this title; title 22 section 3008; title 40 section 42.
 

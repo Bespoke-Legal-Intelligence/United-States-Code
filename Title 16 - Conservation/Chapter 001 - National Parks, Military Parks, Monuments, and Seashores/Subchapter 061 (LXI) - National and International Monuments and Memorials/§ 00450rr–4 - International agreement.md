@@ -18,17 +18,17 @@ The Secretary and the Administrator shall report semiannually to the Committee o
 
 #### (d) Notification of agreement and recommendations to Congressional committees
 
-Upon adoption of an international agreement as described in subsection (a) of this section, the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committee on Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
+Upon adoption of an international agreement as described in subsection (a) of this section, the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committeeon Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
 
 (Pub. L. 99–513, §6, Oct. 21, 1986, 100 Stat. 2083.)
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §460<i>o</i>–2 . Designation of area; boundaries
+### §460<i>o</i>–2. Designation of area; boundaries
 
 #### (a) Publication in Federal Register; description of boundaries; administration of transferred lands and waters
 

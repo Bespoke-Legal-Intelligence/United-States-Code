@@ -1,16 +1,16 @@
 ### §3509. Designation of central collection agency
 
-The Director may designate a central collection agency to obtain information for two or more agencies if the Director determines that the needs of such agencies for information will be adequately served by a single collection agency, and such sharing of data is not inconsistent with any applicable law. In such cases the Director shall prescribe (with reference to the collection of information) the duties and functions of the collection agency so designated and of the agencies for which it is to act as agent (including reimbursement for costs). While the designation is in effect, an agency covered by it may not obtain for itself information which it is the duty of the collection agency to obtain. The Director may modify the designation from time to time as circumstances require. The authority herein is subject to the provisions of section 3507(c) of this chapter.
+The Director may designate a central collection agency to obtain information for two or more agencies if the Director determines that the needs of such agencies for information will be adequately served by a single collection agency, and such sharing of data is not inconsistent with applicable law. In such cases the Director shall prescribe (with reference to the collection of information) the duties and functions of the collection agency so designated and of the agencies for which it is to act as agent (including reimbursement for costs). While the designation is in effect, an agency covered by the designation may not obtain for itself information for the agency which is the duty of the collection agency to obtain. The Director may modify the designation from time to time as circumstances require. The authority to designate under this section is subject to the provisions of section 3507(f) of this chapter.
 
-(Added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2821.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 180.)
 
 #### Prior Provisions
 
-A prior section 3509, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, related to plans or forms for collecting information, submission to Director, and his approval, prior to the general amendment of this chapter by Pub. L. 96–511, §2(a).
+A prior section 3509, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2821, related to designation of central collection agency prior to the general amendment of this chapter by Pub. L. 104–13.
 
-Provisions similar to those comprising this section were contained in former sections 3504 and 3505 prior to the general amendment of this chapter by Pub. L. 96–511, §2(a).
+Another prior section 3509, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, related to plans or forms for collecting information, submission to Director, and his approval, prior to the general amendment of this chapter by Pub. L. 96–511.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3504, 3507 of this title; title 42 section 242k.
+This section is referred to in title 42 section 242k.
 

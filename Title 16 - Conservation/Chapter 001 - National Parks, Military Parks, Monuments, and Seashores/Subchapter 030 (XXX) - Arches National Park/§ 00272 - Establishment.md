@@ -1,4 +1,4 @@
-### §272 . Establishment
+### §272. Establishment
 
 #### (a) Description of area
 

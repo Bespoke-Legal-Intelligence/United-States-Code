@@ -34,7 +34,7 @@ For purposes of this section and section 244—
 
 #### (B) Certain stock issued on or after October 1, 1942
 
-&emsp;&emsp;Stock issued on or after October 1, 1942, shall be deemed for purposes of this paragraph to have been issued before October 1, 1942, if it was issued to refund or replacebonds or debentures issued before October 1, 1942, or to refund or replace other preferred stock (including stock which is preferred stock by reason of this subparagraph or subparagraph (D)), but only to the extent that the par or stated value of the new stock does not exceed the par, stated, or face value of the bonds or debentures issued before October 1, 1942, or the other preferred stock, which such new stock is issued to refund or replace.
+&emsp;&emsp;Stock issued on or after October 1, 1942, shall be deemed for purposes of this paragraph to have been issued before October 1, 1942, if it was issued to refund or replace bonds or debentures issued before October 1, 1942, or to refund or replace other preferred stock (including stock which is preferred stock by reason of this subparagraph or subparagraph (D)), but only to the extent that the par or stated value of the new stock does not exceed the par, stated, or face value of the bonds or debentures issued before October 1, 1942, or the other preferred stock, which such new stock is issued to refund or replace.
 
 #### (C) Determination under regulations
 

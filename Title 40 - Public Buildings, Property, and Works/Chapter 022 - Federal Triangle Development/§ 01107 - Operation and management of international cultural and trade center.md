@@ -52,7 +52,7 @@
 
 #### (4) Reference facility and cultural events
 
-&emsp;The Commission may establish in a portion of the space leased from the Administratorunder this section a centralized foreign trade reference facility and conference and meeting facilities and audio-visual facilities for translating foreign languages. The Commission may permit cultural events and other activities to be held in a portion of such space. The Commission shall establish in accordance with subsection (c) of this section fees and charges for—
+&emsp;The Commission may establish in a portion of the space leased from the Administrator under this section a centralized foreign trade reference facility and conference and meeting facilities and audio-visual facilities for translating foreign languages. The Commission may permit cultural events and other activities to be held in a portion of such space. The Commission shall establish in accordance with subsection (c) of this section fees and charges for—
 
 &emsp;&emsp;(A) the use of such facilities and auditorium, and
 
@@ -108,13 +108,13 @@
 
 #### (h) <sup>2</sup> Annual report and budget
 
-The Commission shall prepare and transmit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives (1) an annual report in January of each calendar year on the operation and management of the space leased by the Commission under subsection (a) of this section and the international cultural and trade center, and (2) a budget for such fiscal year for operation, maintenance, and alteration of such center, including amounts received and projected to be received by the Commission in such fiscal year and expenses incurred and projected to be incurred by the Commission in such fiscal year.
+The Commission shall prepare and transmit to the Committee on Environment and PublicWorks of the Senate and the Committee on Public Works and Transportation of the House of Representatives (1) an annual report in January of each calendar year on the operation and management of the space leased by the Commission under subsection (a) of this section and the international cultural and trade center, and (2) a budget for such fiscal year for operation, maintenance, and alteration of such center, including amounts received and projected to be received by the Commission in such fiscal year and expenses incurred and projected to be incurred by the Commission in such fiscal year.
 
 (Pub. L. 100–113, §8, Aug. 21, 1987, 101 Stat. 744.)
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

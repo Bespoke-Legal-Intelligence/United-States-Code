@@ -10,7 +10,7 @@ The Chairperson of the Goals Panel, without regard to the provisions of title 5 
 
 &emsp;(A) The Director may appoint not more than 4 additional employees to serve as staff to the Goals Panel without regard to the provisions of title 5 governing appointments in the competitive service.
 
-&emsp;(B) The employees appointed under subparagraph (A) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, but shall not be paid a rate that exceeds the maximum rate of basic pay payable for GS 15 of the General Schedule.
+&emsp;(B) The employees appointed under subparagraph (A) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, but shall not be paid a rate that exceeds the maximum rate of basic pay payable for GS–15 of the General Schedule.
 
 #### (2) Additional employees
 
@@ -24,7 +24,7 @@ The Goals Panel may procure temporary and intermittent services of experts and c
 
 Upon the request of the Goals Panel, the head of any department or agency of the United States may detail any of the personnel of such agency to the Goals Panel to assist the Goals Panel in its duties under this part.
 
-(Pub. L. 103 227, title II, §206, Mar. 31, 1994, 108 Stat. 138.)
+(Pub. L. 103–227, title II, §206, Mar. 31, 1994, 108 Stat. 138.)
 
 #### References in Text
 

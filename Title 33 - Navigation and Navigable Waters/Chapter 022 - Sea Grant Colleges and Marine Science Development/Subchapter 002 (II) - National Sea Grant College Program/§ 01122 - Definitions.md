@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(3) the <sup>1</sup> term “director of a sea grant college” means a person designated by their university or institution to direct a sea grant college, programs, or regional consortium.
 
-&emsp;(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marinetechnology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.
+&emsp;(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.
 
 &emsp;(5) The term “includes” and variants thereof should be read as if the phrase “but is not limited to” were also set forth.
 
@@ -76,7 +76,7 @@ As used in this subchapter—
 
 <i>(3) by inserting immediately after subparagraph (E) the following new subparagraph:</i>
 
-(F) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured; and
+(F) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet SocialistRepublics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured; and
 
 #### Amendments
 
@@ -86,7 +86,7 @@ As used in this subchapter—
 
 Par. (4). Pub. L. 100–220, §3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
 
-Par. (6). Pub. L. 100–220, §3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil,and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
+Par. (6). Pub. L. 100–220, §3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil, and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
 
 Par. (7). Pub. L. 100–220, §3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: “The term ‘ocean and coastal resource’ means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances.”
 

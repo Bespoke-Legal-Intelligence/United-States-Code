@@ -90,11 +90,11 @@
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
-(c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the publicinterest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
+(c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each majorprogram that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -152,7 +152,7 @@
 
 &emsp;(C) the term “rehabilitation” includes the alteration of or correction of deficiencies in an existing structure or facility so as to extend the useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
 
-(f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.
+\[(f) Omitted.\]
 
 (g)(1) The Director of the Office of Management and Budget shall establish the funding for advisory and assistance services for each department and agency as a separate object class in each budget annually submitted to the Congress under this section.
 
@@ -177,8 +177,6 @@
 #### Amendment of Section
 
 <i>For repeal of amendment by section 1506 of Title 21, Food and Drugs, see Effective and Termination Dates of 1988 Amendments note below.</i>
-
-<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -300,7 +298,7 @@ In subsection (a)(21), the words “the totality of” are omitted as surplus.
 
 In subsection (a)(22), the words “budget outlays” are substituted for “outlays” for consistency. The words “beginning with the fiscal year ending September 30, 1979” are omitted as executed.
 
-In subsection (a)(23), the words “for appropriations” are substituted for “amounts required for appropriations” to eliminate unnecessary words. The words “for mine health and safety” and “for occupational safety and health” are omitted as unnecessary because of the restatement.
+In subsection (a)(23), the words “for appropriations” are substituted for “amounts required for appropriations” to eliminate unnecessary words. The words “formine health and safety” and “for occupational safety and health” are omitted as unnecessary because of the restatement.
 
 In subsection (a)(24), the words “(as defined in section 9101(2) of this title)” are added because the subsection is based on a law to which the defined term applies. The words “decides are desirable” are substituted for “may wish to make” for consistency.
 
@@ -338,8 +336,6 @@ Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(2
 
 Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(31), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of this title, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
-
 #### Amendments
 
 1994—Subsec. (a)(26), (27). Pub. L. 103–272 renumbered par. (26) as (27).
@@ -354,13 +350,13 @@ Subsec. (g). Pub. L. 103–355 added subsec. (g).
 
 Subsec. (a)(28). Pub. L. 101–576 added par. (28).
 
-Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, substituting “The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.” for
 
-“(1) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared on the basis of the best estimates then available, in such a manner as to ensure that the deficit for such fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974.
+“(f)(1) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared on the basis of the best estimates then available, in such a manner as to ensure that the deficit for such fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974.
 
 “(2) The deficit set forth in the budget so transmitted for any fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974, with budget outlays and Federal revenues at such levels as the President may consider most desirable and feasible.
 
-“(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain thedifferences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget on August 25 of the calendar year in which the fiscal year begins.
+“(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget on August 25 of the calendar year in which the fiscal year begins.
 
 “(4) Paragraphs (1) and (2) shall not apply with respect to fiscal year 1989 if the budget transmitted for such fiscal year provides for deficit reduction from a budget baseline deficit for such fiscal year (as defined by section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and based on laws in effect on January 1, 1988) equal to or greater than $36,000,000,000.
 
@@ -440,7 +436,7 @@ Pub. L. 103–69, title III, §308, Aug. 11, 1993, 107 Stat. 710, provided that:
 
 &emsp;“(2) the term ‘Budget’ means the Budget of the United States Government, submitted under section 1105 of title 31, United States Code; and
 
-&emsp;“(3) the term ‘entity of the legislative branch’ means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including theBotanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the General Accounting Office, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment.”
+&emsp;“(3) the term ‘entity of the legislative branch’ means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the General Accounting Office, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment.”
 
 #### Separate Object Class for Consulting Services in Annual Budgets
 
@@ -464,7 +460,7 @@ Opinion of Congress.—It is the opinion of the Congress that the programs and a
 
 Submission of 2
 
-\-Year Budget by President.—The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to section 1105 of title 31, United States Code, a single proposed budget for the Coast Guard for fiscal years 1990 and 1991. Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
+\-Year Budget by President.—The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to section 1105 of title 31, United States Code, a single proposed budget for the Coast Guard for fiscal years 1990 and 1991.Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
 
 “(c)
 
@@ -528,7 +524,7 @@ For provisions requiring annual review of direct spending and receipts to be par
 
 Ex. Ord. No. 6715, May 23, 1934, provided:
 
-(1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file suchadditional charts from time to time, as may be necessary to show all changes made therein.
+(1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file such additional charts from time to time, as may be necessary to show all changes made therein.
 
 (2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the head thereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
 
@@ -536,5 +532,5 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 665b, 900, 901, 904; title 5 sections 1204, 8472; title 10 sections 113, 114, 119, 139, 168, 179, 221, 222, 226, 227, 1465, 1741, 2006, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2506, 2515, 2521, 2703, 2721, 2809, 2835, 2836, 2859, 2891, 2902; title 14 sections 663, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1502, 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908; title 41 sections 253h, 253i; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7274c, 7274g, 8255, 11710; title 50 sections 404a, 404b, 404d, 1906.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 665b, 900, 901, 904; title 5 sections 1204, 8472; title 10 sections 113, 114, 119, 139, 168, 179, 221, 222, 226, 227, 1465, 1741, 2006, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2506, 2515, 2521, 2703, 2721, 2809, 2835, 2836, 2859, 2891, 2902; title 14 sections 663, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1502, 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908; title 41 sections 253h, 253i; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7274c, 7274g, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906.
 

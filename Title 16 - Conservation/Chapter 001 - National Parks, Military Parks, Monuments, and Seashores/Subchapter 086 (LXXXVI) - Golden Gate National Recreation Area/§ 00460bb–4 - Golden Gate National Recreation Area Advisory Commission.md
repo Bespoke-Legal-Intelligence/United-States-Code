@@ -1,4 +1,4 @@
-### §460bb–4 . Golden Gate National Recreation Area Advisory Commission
+### §460bb–4. Golden Gate National Recreation Area Advisory Commission
 
 #### (a) Establishment
 

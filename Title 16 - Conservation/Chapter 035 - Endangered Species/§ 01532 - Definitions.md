@@ -12,7 +12,7 @@ For the purpose of this chapter—
 
 &emsp;(5)(A) The term “critical habitat” for a threatened or endangered species means—
 
-&emsp;&emsp;(i) the specific areas within the geographical area occupied by the species, at the time it is listed in accordance with the provisions of section 1533 of this title, on which are found those physical or biological features\(I) essential to the conservation of the species and (II) which may require special management considerations or protection; and
+&emsp;&emsp;(i) the specific areas within the geographical area occupied by the species, at the time it is listed in accordance with the provisions of section 1533 of this title, on which are found those physical or biological features (I) essential to the conservation of the species and (II) which may require special management considerations or protection; and
 
 &emsp;&emsp;(ii) specific areas outside the geographical area occupied by the species at the time it is listed in accordance with the provisions of section 1533 of this title, upon a determination by the Secretary that such areas are essential for the conservation of the species.
 

@@ -32,7 +32,7 @@ In the case of drugs for rare diseases or conditions the Board shall—
 
 #### (d) Consultation
 
-The Board shall consult with interested persons respecting the activities of the Board underthis section and as part of such consultation shall provide the opportunity for the submission of oral views.
+The Board shall consult with interested persons respecting the activities of the Board under this section and as part of such consultation shall provide the opportunity for the submission of oral views.
 
 #### (e) Annual report; contents
 
@@ -44,7 +44,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 &emsp;(3) containing the results of the evaluations carried out by the Board.
 
-> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
+> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual reportshall be submitted by June 1 of each year for the preceding calendar year.
 
 (July 1, 1944, ch. 373, title II, §227, as added Jan. 4, 1983, Pub. L. 97–414, §3, 96 Stat. 2051; amended Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 10, 1992, Pub. L. 102–321, title I, §163(b)(1), 106 Stat. 375; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(1), 106 Stat. 3504.)
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, s
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 
@@ -210,7 +210,7 @@ Information.—The Commission may secure directly from any department or agency 
 
 Report.—The Commission shall transmit to the Secretary and to each House of the Congress a report not later than February 1, 1989, on the activities of the Commission. The report shall contain a detailed statement of the findings and conclusions of the Commission, together with its recommendations for—
 
-&emsp;“(1) a long range plan for the use of public and private resources to improve research into rare diseasesand to assist in the prevention, diagnosis, and treatment of rare diseases; and
+&emsp;“(1) a long range plan for the use of public and private resources to improve research into rare diseases and to assist in the prevention, diagnosis, and treatment of rare diseases; and
 
 &emsp;“(2) such legislation or administrative actions as it considers appropriate.
 

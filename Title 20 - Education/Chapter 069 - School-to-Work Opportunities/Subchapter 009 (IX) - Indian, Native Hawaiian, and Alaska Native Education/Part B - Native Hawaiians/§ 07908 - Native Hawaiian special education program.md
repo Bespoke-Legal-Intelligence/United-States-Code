@@ -32,9 +32,9 @@ Not more than 7 percent of the funds appropriated to carry out the provisions of
 
 In addition to any other amount authorized to be appropriated for the program described in this section, there are authorized to be appropriated $2,000,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years, to carry out this section. Funds appropriated under the authority of this subsection shall remain available until expended.
 
-(Pub. L. 89 10, title IX, §9208, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3802.)
+(Pub. L. 89–10, title IX, §9208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3802.)
 
 #### References in Text
 
-The Education of Individuals with Disabilities Education Act, referred to in subsec. (a)(3), probably means the Individuals with Disabilities Education Act, which is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Education of Individuals with Disabilities Education Act, referred to in subsec. (a)(3), probably means the Individuals with Disabilities Education Act, which is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment and Terms.—Amtrak Commuter has a President and other officers thatare named and appointed by the board of directors of Amtrak Commuter. An officer of Amtrak Commuter must be a citizen of the United States. Officers of Amtrak Commuter serve at the pleasure of the board.
+Appointment and Terms.—Amtrak Commuter has a President and other officers that are named and appointed by the board of directors of Amtrak Commuter. An officer of Amtrak Commuter must be a citizen of the United States. Officers of Amtrak Commuter serve at the pleasure of the board.
 
 (b)
 

@@ -1,6 +1,6 @@
 ### §10319. Costs of a criminal conviction
 
-In a proceeding about a seaman's wages, if it is shown that the seaman was convicted during the voyage of an offense by a competent tribunal and sentenced by the tribunal, the court hearing the case may direct that a part of the wages due the seaman, but not more than $15, be applied to reimburse the master for costs properly incurred in procuring the conviction and sentence.
+In a proceeding about a seaman's wages, if it is shown that the seaman was convicted during the voyage of an offense by a competent tribunal and sentenced by the tribunal, the court hearing the case may direct that a part of the wages due the seaman, but not more than $15, beapplied to reimburse the master for costs properly incurred in procuring the conviction and sentence.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 569.)
 

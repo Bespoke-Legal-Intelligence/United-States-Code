@@ -6,7 +6,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(1)(A) against any person (including (a) the United States, and (b) any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any permit, standard, regulation, condition, requirement, prohibition, or order which has become effective pursuant to this chapter; or
 
-&emsp;(B) against any person, including the United States and any other governmental instrumentality or agency, to the extent permittedby the eleventh amendment to the Constitution, and including any past or present generator, past or present transporter, or past or present owner or operator of a treatment, storage, or disposal facility, who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste which may present an imminent and substantial endangerment to health or the environment; or
+&emsp;(B) against any person, including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution, and including any past or present generator, past or present transporter, or past or present owner or operator of a treatment, storage, or disposal facility, who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste which may present an imminent and substantial endangerment to health or the environment; or
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator.
 
@@ -60,7 +60,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(iii) has incurred costs to initiate a Remedial Investigation and Feasibility Study under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9604\] and is diligently proceeding with a remedial action under that Act \[42 U.S.C. 9601 et seq.\].
 
-(D) No action may be commenced under subsection (a)(1)(B) of this section by any person\(other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
+(D) No action may be commenced under subsection (a)(1)(B) of this section by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
 
 (E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
 
@@ -84,7 +84,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (g) Transporters
 
-A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
+A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arisingfrom a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
 
 (Pub. L. 89–272, title II, §7002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2825; amended Pub. L. 95–609, §7(p), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 98–616, title IV, §401, Nov. 8, 1984, 98 Stat. 3268.)
 
@@ -114,7 +114,7 @@ Subsec. (e). Pub. L. 95–609, §7(p)(2), substituted “require” for “requi
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural GasTransportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
 
 #### Section Referred to in Other Sections
 

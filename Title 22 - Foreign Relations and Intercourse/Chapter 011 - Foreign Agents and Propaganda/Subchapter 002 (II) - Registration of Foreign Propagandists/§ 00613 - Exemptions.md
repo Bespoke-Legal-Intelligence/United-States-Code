@@ -28,15 +28,27 @@ Any person, or employee of such person, whose foreign principal is a government 
 
 #### (g) Persons qualified to practice law
 
-Any person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principal before any court of law or any agency of the Government of the United States: <i>Provided</i>, That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of established agency proceedings, whether formal or informal.
+Any person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principal before any court of law or any agency of the Government of the United States: <i>Provided</i>, That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
 
-(June 8, 1938, ch. 327, §3, 52 Stat. 632; Aug. 7, 1939, ch. 521, §2, 53 Stat. 1245; Apr. 29, 1942, ch. 263, §1, 56 Stat. 254; Oct. 4, 1961, Pub. L. 87–366, §2, 75 Stat. 784; July 4, 1966, Pub. L. 89–486, §3, 80 Stat. 246.)
+#### (h) Agents of foreign principals
+
+Any agent of a person described in section 611(b)(2) of this title or an entity described in section 611(b)(3) of this title if the agent is required to register and does register under the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1601 et seq.\] in connection with the agent's representation of such person or entity.
+
+(June 8, 1938, ch. 327, §3, 52 Stat. 632; Aug. 7, 1939, ch. 521, §2, 53 Stat. 1245; Apr. 29, 1942, ch. 263, §1, 56 Stat. 254; Oct. 4, 1961, Pub. L. 87–366, §2, 75 Stat. 784; July 4, 1966, Pub. L. 89–486, §3, 80 Stat. 246; Dec. 19, 1995, Pub. L. 104–65, §9(2), (3), 109 Stat. 700.)
+
+#### References in Text
+
+The Lobbying Disclosure Act of 1995, referred to in subsec. (h), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
 #### Prior Provisions
 
 Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section related to additional registration statements after each six months period. Provisions on that subject were incorporated in section 612 of this title by 1942 amendment.
 
 #### Amendments
+
+1995—Subsec. (g). Pub. L. 104–65, §9(2), substituted “judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record” for “established agency proceedings, whether formal or informal”.
+
+Subsec. (h). Pub. L. 104–65, §9(3), added subsec. (h).
 
 1966—Subsec. (d). Pub. L. 89–486, §3(a), designated existing provisions as cls. (1) and (3), struck out “financial or mercantile” before “activities” in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
 
@@ -48,6 +60,10 @@ Subsec. (g). Pub. L. 89–486, §3(b), added subsec. (g).
 
 1939—Act Aug. 7, 1939, amended section generally.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
+
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
@@ -58,5 +74,5 @@ Registration functions of the Secretary of State transferred to the Attorney Gen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 611 of this title; title 15 section 4809.
+This section is referred to in title 15 section 4809.
 

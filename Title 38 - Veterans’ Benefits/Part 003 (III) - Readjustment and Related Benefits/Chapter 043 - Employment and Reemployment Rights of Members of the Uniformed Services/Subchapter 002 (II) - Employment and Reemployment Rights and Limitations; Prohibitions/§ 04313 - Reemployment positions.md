@@ -14,9 +14,9 @@
 
 &emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
-&emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, such service, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
+&emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, suchservice, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
 
-&emsp;&emsp;(A) in any other position which is equivalent in seniority, status, and pay, the duties of which the person is qualified to performor would become qualified to perform with reasonable efforts by the employer; or
+&emsp;&emsp;(A) in any other position which is equivalent in seniority, status, and pay, the duties of which the person is qualified to perform or would become qualified to perform with reasonable efforts by the employer; or
 
 &emsp;&emsp;(B) if not employed under subparagraph (A), in a position which is the nearest approximation to a position referred to in subparagraph (A) in terms of seniority, status, and pay consistent with circumstances of such person's case.
 
@@ -42,5 +42,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4312, 4314, 4315 of this title.
+This section is referred to in sections 4312, 4314, 4315 of this title; title 2 section 1316.
 

@@ -1,12 +1,12 @@
 ### §1206. “Aid to the blind” defined
 
-For the purposes of this subchapter, the term “aid to the blind” means money payments to blind individuals who are needy, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution) or any individual who is a patient in an institution for tuberculosis or mental diseases. Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1202 of this title includes provision for—
+For the purposes of this subchapter, the term “aid to the blind” means money payments toblind individuals who are needy, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution) or any individual who is a patient in an institution for tuberculosis or mental diseases. Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1202 of this title includes provision for—
 
 &emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such aid through payments described in this sentence;
 
 &emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of aid to the blind to be paid (and in conjunction with other income and resources), meet all the need <sup>1</sup> of the individuals with respect to whom such payments are made;
 
-&emsp;(3) undertaking and continuing special efforts to protect the welfare of such individualand to improve, to the extent possible, his capacity for self-care and to manage funds;
+&emsp;(3) undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
 
 &emsp;(4) periodic review by such State agency of the determination under paragraph (1) of this subsection to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title, if and when it appears that such action will best serve the interests of such needy individual; and
 
@@ -46,5 +46,5 @@ Amendment by section 156(c) of Pub. L. 87–543 applicable in the case of applic
 
 #### Effective Date of 1950 Amendment
 
-Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
+Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the SocialSecurity Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
 

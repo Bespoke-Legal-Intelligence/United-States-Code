@@ -26,7 +26,7 @@ This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–616, §1, Nov. 8, 1978, 92 Stat. 3110, provided: “That this Act \[enacting sections 695j–1, 712, 742<i>l</i> of this title and amending sections 460k–3, 666g, 668a, 668dd, 690e, 695i, 706, 715d, 715i, 715j, 718b, 718c, 718f, 742f, 753a of this title and sections 1114, 3112 of Title 18, Crimesand Criminal Procedure\] may be cited as the ‘Fish and Wildlife Improvement Act of 1978’.”
+Pub. L. 95–616, §1, Nov. 8, 1978, 92 Stat. 3110, provided: “That this Act \[enacting sections 695j–1, 712, 742<i>l</i> of this title and amending sections 460k–3, 666g, 668a, 668dd, 690e, 695i, 706, 715d, 715i, 715j, 718b, 718c, 718f, 742f, 753a of this title and sections 1114, 3112 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Fish and Wildlife Improvement Act of 1978’.”
 
 #### Short Title
 

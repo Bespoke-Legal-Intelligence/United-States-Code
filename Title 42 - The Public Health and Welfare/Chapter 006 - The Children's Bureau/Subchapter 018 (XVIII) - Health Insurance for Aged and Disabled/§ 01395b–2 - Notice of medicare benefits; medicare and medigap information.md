@@ -40,7 +40,7 @@ Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health a
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 
-Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
+Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health andHuman Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
 
 #### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
 

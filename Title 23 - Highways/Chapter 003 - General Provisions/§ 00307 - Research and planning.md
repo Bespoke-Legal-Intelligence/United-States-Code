@@ -70,7 +70,7 @@ Mandatory Contents of Research Program.—
 
 &emsp;(1)
 
-Inclusion of certain studies.—The Secretary shall include in the highway research program under subsection (a) studies of economic highway geometrics, structures, and desirable weight and size standards for vehicles using the public highways and of the feasibility of uniformity in State regulations with respect to such standards. The highway research program shall also include studies to identify and measure, quantitatively and qualitatively, those factors which relate to economic, social,environmental, and other impacts of highway projects.
+Inclusion of certain studies.—The Secretary shall include in the highway research program under subsection (a) studies of economic highway geometrics, structures, and desirable weight and size standards for vehicles using the public highways and of the feasibility of uniformity in State regulations with respect to such standards. The highway research program shall also include studies to identify and measure, quantitatively and qualitatively, those factors which relate to economic, social, environmental, and other impacts of highway projects.
 
 &emsp;(2)
 
@@ -134,7 +134,7 @@ General rule.—2 percent of the sums apportioned for each fiscal year beginning
 
 &emsp;(2)
 
-Minimum expenditures on research, development, and technology transfer activities.—Not less than 25 percent of the funds which are apportioned to a State for a fiscal year and are subject to paragraph (1) shall be expended by the State for research, development, and technology transfer activities described in paragraph (1) relating to highway, public transportation, and intermodal transportation systems unless the State certifies to the Secretary for such fiscal year that total expenditures by the State for transportationplanning under sections 134 and 135 will exceed 75 percent of the amount of such funds and the Secretary accepts such certification.
+Minimum expenditures on research, development, and technology transfer activities.—Not less than 25 percent of the funds which are apportioned to a State for a fiscal year and are subject to paragraph (1) shall be expended by the State for research, development, and technology transfer activities described in paragraph (1) relating to highway, public transportation, and intermodal transportation systems unless the State certifies to the Secretary for such fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the amount of such funds and the Secretary accepts such certification.
 
 &emsp;(3)
 
@@ -166,7 +166,7 @@ Set aside.—As soon as practicable after the date of the enactment of the Feder
 
 &emsp;(5)
 
-Annual report.—The Secretary shall transmit a report annually beginning on January 1, 1988, to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives which provides information on the progress and research findings the <sup>1</sup> program conducted under this subsection.
+Annual report.—The Secretary shall transmit a report annually beginning on January 1, 1988, to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives which provides information on the progress and research findings the <sup>1</sup> program conducted under this subsection.
 
 &emsp;(6)
 
@@ -174,7 +174,7 @@ Limitation of remedies.—
 
 &emsp;&emsp;(A)
 
-Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28, United States Code, for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission arising from activities conducted under or in connection with this subsection. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of such title.
+Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28, United States Code, for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission arising from activities conducted under or inconnection with this subsection. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of such title.
 
 &emsp;&emsp;(B)
 
@@ -190,7 +190,7 @@ Removal.—Upon certification by the Attorney General that a civil action or pro
 
 &emsp;&emsp;(E)
 
-Sources of payments.—Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in subparagraph (A) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this subsection, and then from sums made available under section 1304 of title 31, United StatesCode. For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28, United States Code. The Secretary may establish a reserve of funds made available to carry out this subsection for making payments under this paragraph.
+Sources of payments.—Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in subparagraph (A) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this subsection, and then from sums made available under section 1304 of title 31, United States Code. For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28, United States Code. The Secretary may establish a reserve of funds made available to carry out this subsection for making payments under this paragraph.
 
 (e)
 
@@ -268,7 +268,7 @@ Technical assistance.—The Secretary shall provide technical assistance to Stat
 
 &emsp;(11)
 
-Annual report.—Not later than 1 year after the date of the enactment of this subsection, and annually thereafter, the Secretary shall transmit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the progress and research findings of the program carried out under this subsection.
+Annual report.—Not later than 1 year after the date of the enactment of this subsection, and annually thereafter, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the progress and research findings of the program carried out under this subsection.
 
 &emsp;(12)
 
@@ -276,7 +276,7 @@ Federal share.—The Federal share of the cost of a project carried out under th
 
 &emsp;(13)
 
-Funding.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title and funds made available under section 5313(a) of title 49, “$35,000,000 <sup>3</sup> for fiscal year 1992 and $41,000,000 per fiscal year for each of fiscal years 1993, 1994, 1995, 1996, and 1997 to carry out this subsection. Of such amounts, in each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997, the Secretary shall expend not less than $4,000,000 per fiscal year to carry out projects related to heated bridge technologies under paragraph (4), not less than $2,500,000 per fiscalyear to carry out projects related to thin bonded overlay and surface lamination of pavements under paragraph (7), and not less than $2,000,000 per fiscal year to carry out projects related to all weather pavement markings under paragraph (8). Amounts made available under this subsection shall remain available until expended and shall not be subject to any obligation limitation.
+Funding.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title and funds made available under section 5313(a) of title 49, “$35,000,000 <sup>3</sup> for fiscal year 1992 and $41,000,000 per fiscal year for each of fiscal years 1993, 1994, 1995, 1996, and 1997 to carry out this subsection. Of such amounts, in each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997, the Secretary shall expend not less than $4,000,000 per fiscal year to carry out projects related to heated bridge technologies under paragraph (4), not less than $2,500,000 per fiscal year to carry out projects related to thin bonded overlay and surface lamination of pavements under paragraph (7), and not less than $2,000,000 per fiscal year to carry out projects related to all weather pavement markings under paragraph (8). Amounts made available under this subsection shall remain available until expended and shall not be subject to any obligation limitation.
 
 (f)
 
@@ -308,9 +308,9 @@ Report.—Not later than 2 years after the date of the enactment of this section
 
 (g) As used in this section the term “safety” includes, but is not limited to, highway safety systems, research and development relating to vehicle, highway, and driver characteristics, accident investigations, communications, emergency medical care, and transportation of the injured.
 
-(h) The Secretary shall report to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives in January 1983, and in January of every second year thereafter, estimates of the future highway needs of the Nation. The biennial reports required under this subsection shall provide the means, including all necessary information, to relate and compare the conditions and service measures used in different years when such measures are changed.
+(h) The Secretary shall report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives in January 1983, and in January of every second year thereafter, estimates of the future highway needs of the Nation. The biennial reports required under this subsection shall provide the means, including all necessary information, to relate and compare the conditions and service measures used in different years when such measures are changed.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, §11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, §103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, §151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470, title I, §112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, §3(10), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, §11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, §103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, §151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470,title I, §112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, §3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, §325(d), Nov. 28, 1995, 109 Stat. 592.)
 
 #### References in Text
 
@@ -326,6 +326,8 @@ The date of the enactment of this section, referred to in subsec. (f)(5), probab
 
 #### Amendments
 
+1995—Subsecs. (d)(5), (e)(11), (h). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation”.
+
 1994—Subsec. (e)(13). Pub. L. 103–429 substituted “section 5313(a) of title 49” for “section 26(a)(1) of the Federal Transit Act”.
 
 1991—Subsec. (a). Pub. L. 102–240, §6001, amended subsec. (a) generally, substituting present provisions for provisions authorizing research on all phases of highway construction, modernization, development, design, maintenance, safety, financing, and traffic conditions, providing for grants for research fellowships and funding for such grants, and providing for inapplicability of 41 U.S.C. 5 to contracts or agreements made under this subsection.
@@ -336,7 +338,7 @@ Subsec. (c). Pub. L. 102–240, §6001, amended subsec. (c) generally, substitut
 
 Subsecs. (e) to (g). Pub. L. 102–240, §6005(a), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively.
 
-Subsec. (h). Pub. L. 102–240, §6005, redesignated subsec. (f) as (h) and inserted provisions at end directingthat the biennial reports required under this subsection provide the means, including all necessary information, to relate and compare the conditions and service measures used in different years when such measures are changed.
+Subsec. (h). Pub. L. 102–240, §6005, redesignated subsec. (f) as (h) and inserted provisions at end directing that the biennial reports required under this subsection provide the means, including all necessary information, to relate and compare the conditions and service measures used in different years when such measures are changed.
 
 1987—Subsec. (c)(1). Pub. L. 100–17, §129, inserted reference to highway projects under section 103(e)(4).
 
@@ -370,17 +372,13 @@ Subsec. (d). Pub. L. 89–564, §103(2), added subsec. (d).
 
 1962—Subsec. (c). Pub. L. 87–866 designated existing provisions as par. (1), substituted “each fiscal year prior to the fiscal year 1964” for “any year”, and added pars. (2) to (4).
 
-#### Change of Name
-
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
 #### Report to Congress on Quality Improvement
 
 Section 1043 of Pub. L. 102–240 directed Comptroller General to submit within 24 months following Dec. 18, 1991, a report to Congress addressing means for improving quality of highways constructed with Federal assistance and addressing Federal design standards, engineering and design services, and construction of Federal-aid highway projects.
 
 #### Surface Transportation Research and Development Planning
 
-Section 6009 of title VI of Pub. L. 102–240 provided that:
+Section 6009 of title VI of Pub. L. 102–240, as amended by Pub. L. 104–59, title III, §338(c)(1), Nov. 28, 1995, 109 Stat. 604, provided that:
 
 “(a)
 
@@ -396,7 +394,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;“(D) the role of federally funded research and development in ensuring that appropriate transportation systems are developed and implemented;
 
-&emsp;“(2) the population of the United States is projected to increase by over 30,000,000 people within the next 20 years, mostly in existing major metropolitan areas, which will result in increased traffic congestion within and between urban areas, more accidents, loss of productive time, and increased cost of transportation unless new technologies are developed to improve public transportation within cities and to move people and goods between cities;
+&emsp;“(2) the population of the United States is projected to increase by over 30,000,000 people within the next 20 years, mostly in existing major metropolitan areas,which will result in increased traffic congestion within and between urban areas, more accidents, loss of productive time, and increased cost of transportation unless new technologies are developed to improve public transportation within cities and to move people and goods between cities;
 
 &emsp;“(3) 18,000,000 crashes, 4,000,000 injuries, and 45,000 fatalities each year on the Nation's highways are intolerable and substantial research is required in order to develop safer technologies in their most useful and economic forms;
 
@@ -404,7 +402,7 @@ Findings.—Congress finds that—
 
 &emsp;“(5) a more active, focused surface transportation research and development program involving cooperation among the Federal Government, United States based industry, and United States universities should be organized on a priority basis;
 
-&emsp;“(6) intelligent vehicle highway systems represent the best near-term technology for improving surface transportation for public benefit by providing equipment which can improve traffic flow and provide for enhanced safety;
+&emsp;“(6) intelligent transportation systems represent the best near-term technology for improving surface transportation for public benefit by providing equipment which can improve traffic flow and provide for enhanced safety;
 
 &emsp;“(7) research and development programs related to surface transportation are fragmented and dispersed throughout government and need to be strengthened and incorporated in an integrated framework within which a consensus on the goals of a national surface transportation research and development program must be developed;
 
@@ -472,7 +470,7 @@ Section 6011 of Pub. L. 102–240 provided that:
 
 “(a)
 
-Establishment.—Not later than 180 days after the date of transmittal of the report to Congress under section 6010 \[of Pub. L. 102–240, formerly set out above\], the Secretary shall establish an independent surface transportation research advisory committee (hereinafter in this section referred to as the ‘advisory committee’).
+Establishment.—Not later than 180 days after the date of transmittal of the report to Congress undersection 6010 \[of Pub. L. 102–240, formerly set out above\], the Secretary shall establish an independent surface transportation research advisory committee (hereinafter in this section referred to as the ‘advisory committee’).
 
 “(b)
 
@@ -554,13 +552,15 @@ Annual Report to Congress.—Not later than 180 days after the date of the enact
 
 Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
 
-#### Intelligent Vehicle-Highway Systems
+#### Intelligent Transportation Systems
 
-Pub. L. 103–311, title I, §109, Aug. 26, 1994, 108 Stat. 1675, provided that:
+Section 351(a) of Pub. L. 104–59 provided that: “In implementing the Intelligent Transportation Systems Act of 1991 (23 U.S.C. 307 note; 105 Stat. 2189–2195) \[part B of title VI of Pub. L. 102–240\], the Secretary shall ensure that the national intelligent transportation systems program addresses, in a comprehensive and coordinated manner, the use of intelligent transportation technologies to promote safety at railroad-highway grade crossings. The Secretary shall ensure that 2 or more operational tests funded under such Act are designed to promote highway traffic safety and railroad safety.”
+
+Pub. L. 103–311, title I, §109, Aug. 26, 1994, 108 Stat. 1675, as amended by Pub. L. 104–59, title III, §338(c)(4), Nov. 28, 1995, 109 Stat. 605, provided that:
 
 “(a)
 
-In General.—In implementing the Intelligent Vehicle-Highway Systems Act of 1991 (23 U.S.C. 307 note) \[Part B of title VI of Pub. L. 102–240\], the Secretary of Transportation shall ensure that the National Intelligent Vehicle-Highway Systems Program addresses, in a comprehensive and coordinated manner, the use of intelligent vehicle-highway system technologies to promote hazardous materials transportation safety. The Secretary of Transportation shall ensure that 2 or more operational tests funded under such Act shall promote such safety and advance technology for providing information to persons who provide emergency response to hazardous materials transportation incidents.
+In General.—In implementing the Intelligent Transportation Systems Act of 1991 (23 U.S.C. 307 note) \[part B of title VI of Pub. L. 102–240\], the Secretary of Transportation shall ensure that the National Intelligent Transportation Systems Program addresses, in a comprehensive and coordinated manner, the use of intelligent transportation system technologies to promote hazardous materials transportation safety. The Secretary of Transportation shall ensure that 2 or more operational tests funded under such Act shall promote such safety and advance technology for providing information to persons who provide emergency response to hazardous materials transportation incidents.
 
 “(b)
 
@@ -580,35 +580,35 @@ Grants for Certain Emergency Response Information Technologies.—
 
 &emsp;“(3) To the maximum extent practicable, the Secretary of Transportation shall coordinate a project under this subsection with any existing Federal, State, and local government projects and private projects which are similar to the project under this subsection. The Secretary may require that a project under this subsection be carried out in conjunction with such similar Federal, State, and local government projects and private projects.”
 
-Part B of title VI of Pub. L. 102–240, as amended by Pub. L. 102–388, title IV, §404, Oct. 6, 1992, 106 Stat. 1564, provided that:
+Part B of title VI of Pub. L. 102–240, as amended by Pub. L. 102–388, title IV, §404, Oct. 6, 1992, 106 Stat. 1564; Pub. L. 104–59, title III, §338(a), (b), (c)(2), Nov. 28, 1995, 109 Stat. 603, 604, provided that:
 
 #### “SEC. 6051. SHORT TITLE.
 
-“This part may be cited as the ‘Intelligent Vehicle-Highway Systems Act of 1991’.
+“This part may be cited as the ‘Intelligent Transportation Systems Act of 1991’.
 
 #### “SEC. 6052. ESTABLISHMENT AND SCOPE OF PROGRAM.
 
 “(a)
 
-Establishment.—Subject to the provisions of this part, the Secretary shall conduct a program to research, develop, and operationally test intelligent vehicle-highway systems and promote implementation of such systems as a component of the Nation's surface transportation systems.
+Establishment.—Subject to the provisions of this part, the Secretary shall conduct a program to research, develop, and operationally test intelligent transportation systems and promote implementation of such systems as a component of the Nation's surface transportation systems.
 
 “(b)
 
 Goals.—The goals of the program to be carried out under this part shall include, but not be limited to—
 
-&emsp;“(1) the widespread implementation of intelligent vehicle-highway systems to enhance the capacity, efficiency, and safety of the Federal-aid highway system and to serve as an alternative to additional physical capacity of the Federal-aid highway system;
+&emsp;“(1) the widespread implementation of intelligent transportation systems to enhance the capacity, efficiency, and safety of the Federal-aid highway system and to serve as an alternative to additional physical capacity of the Federal-aid highway system;
 
 &emsp;“(2) the enhancement, through more efficient use of the Federal-aid highway system, of the efforts of the several States to attain air quality goals established pursuant to the Clean Air Act \[42 U.S.C. 7401 et seq.\];
 
 &emsp;“(3) the enhancement of safe and efficient operation of the Nation's highway systems with a particular emphasis on aspects of systems that will increase safety and identification of aspects of the system that may degrade safety;
 
-&emsp;“(4) the development and promotion of intelligent vehicle-highway systems and an intelligent vehicle-highway systems industry in the United States, using authority provided under section 307 of title 23, United States Code;
+&emsp;“(4) the development and promotion of intelligent transportation systems and an intelligent transportation systems industry in the United States, using authority provided under section 307 of title 23, United States Code;
 
 &emsp;“(5) the reduction of societal, economic, and environmental costs associated with traffic congestion;
 
 &emsp;“(6) the enhancement of United States industrial and economic competitiveness and productivity by improving the free flow of people and commerce and by establishing a significant United States presence in an emerging field of technology;
 
-&emsp;“(7) the development of a technology base for intelligent vehicle-highway systems and the establishment of the capability to perform demonstration experiments, using existing national laboratory capabilities where appropriate; and
+&emsp;“(7) the development of a technology base for intelligent transportation systems and the establishment of the capability to perform demonstration experiments, using existing national laboratory capabilities where appropriate; and
 
 &emsp;“(8) the facilitation of the transfer of transportation technology from national laboratories to the private sector.
 
@@ -620,7 +620,7 @@ Cooperation.—In carrying out the program under this part, the Secretary shall 
 
 “(b)
 
-Standards.—The Secretary shall develop and implement standards and protocols to promote the widespread use and evaluation of intelligent vehicle-highway systems technology as a component of the Nation's surface transportation systems. To the extent practicable, such standards and protocols shall promote compatibility among intelligent vehicle-highway systems technologies implemented throughout the States. In carrying out this subsection, the Secretary may use the services of such existing standards-setting organizations as the Secretary determines appropriate.
+Standards.—The Secretary shall develop and implement standards and protocols to promote the widespread use and evaluation of intelligent transportation systems technology as a component of the Nation's surface transportation systems. To the extent practicable, such standards and protocols shall promote compatibility among intelligent transportation systems technologies implemented throughout the States. In carrying out this subsection, the Secretary may use the services of such existing standards-setting organizations as the Secretary determines appropriate.
 
 “(c)
 
@@ -640,7 +640,7 @@ Delegation of authority.—The Secretary may delegate the responsibility of the 
 
 “(e)
 
-Advisory Committees.—The Secretary may utilize one or more advisory committees in carrying out this part. Any advisory committee so utilized shall be subject to the Federal Advisory Committee Act \[5 App. U.S.C.\]. Funding provided for any such committee shall be available from moneys appropriated for advisory committees as specified in relevant appropriations Acts and from funds allocated for research, development, and implementation activities in connection with the intelligent vehicle-highway systems program under this part.
+Advisory Committees.—The Secretary may utilize one or more advisory committees in carrying out this part. Any advisory committee so utilized shall be subject to the Federal Advisory Committee Act \[5 App. U.S.C.\]. Funding provided for any such committee shall be available from moneys appropriated for advisory committees as specified in relevant appropriations Acts and from funds allocated for research, development, and implementation activities in connection with the intelligent transportation systems program under this part.
 
 #### “SEC. 6054. STRATEGIC PLAN, IMPLEMENTATION, AND REPORT TO CONGRESS.
 
@@ -650,25 +650,25 @@ Strategic Plan.—
 
 &emsp;“(1)
 
-Development and implementation.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall develop, submit to Congress, and commence implementation of a plan for the intelligent vehicle-highway systems program.
+Development and implementation.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall develop, submit to Congress, and commence implementation of a plan for the intelligent transportation systems program.
 
 &emsp;“(2)
 
 Scope.—The plan shall—
 
-&emsp;&emsp;“(A) specify the goals, objectives, and milestones of the intelligent vehicle-highway program and how specific projects relate to the goals, objectives, and milestones, including consideration of the 5- 10- and 20-year timeframes for the goals and objectives;
+&emsp;&emsp;“(A) specify the goals, objectives, and milestones of the intelligent transportation systems program and how specific projects relate to the goals, objectives, and milestones, including consideration of the 5- 10- and 20-year timeframes for the goals and objectives;
 
 &emsp;&emsp;“(B) detail the status of and challenges and nontechnical constraints facing the program;
 
 &emsp;&emsp;“(C) establish a course of action necessary to achieve the program's goals and objectives;
 
-&emsp;&emsp;“(D) provide for the development of standards and protocols to promote and ensure compatibility in the implementation of intelligent vehicle-highway systems technologies; and
+&emsp;&emsp;“(D) provide for the development of standards and protocols to promote and ensure compatibility in the implementation of intelligent transportation systems technologies; and
 
 &emsp;&emsp;“(E) provide for the accelerated use of advanced technology to reduce traffic congestion along heavily populated and traveled corridors.
 
 “(b)
 
-Intelligent Vehicle Highway Systems.—The Secretary shall develop an automated highway and vehicle prototype from which future fully automated intelligent vehicle-highway systems can be developed. Such development shall include research in human factors to ensure the success of the man-machine relationship. The goal of this program is to have the first fully automated roadway or an automated test track in operation by 1997. This system shall accommodate installation of equipment in new and existing motor vehicles.
+Intelligent Transportation Systems.—The Secretary shall develop an automated highway and vehicle prototype from which future fully automated intelligent transportation systems can be developed. Such development shall include research in human factors to ensure the success of the man-machine relationship. The goal of this program is to have the first fully automated roadway or an automated test track in operation by 1997. This system shall accommodate installation of equipment in new and existing motor vehicles.
 
 “(c)
 
@@ -682,7 +682,7 @@ In general.—Not later than 2 years after the date of the enactment of this Act
 
 Scope of implementation reports.—In preparing reports under this subsection, the Secretary shall—
 
-&emsp;&emsp;“(A) analyze the possible and actual accomplishments of intelligent vehicle-highway systems projects in achieving congestion, safety, environmental, and energy conservation goals and objectives of the program;
+&emsp;&emsp;“(A) analyze the possible and actual accomplishments of intelligent transportation systems projects in achieving congestion, safety, environmental, and energy conservation goals and objectives of the program;
 
 &emsp;&emsp;“(B) specify cost-sharing arrangements made, including the scope and nature of Federal investment, in any research, development, or implementation project under the program;
 
@@ -696,13 +696,13 @@ Nontechnical Constraints.—
 
 &emsp;“(1)
 
-Report to congress.—In cooperation with the Attorney General and the Secretary of Commerce, the Secretary shall prepare and submit, not later than 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a report to Congress addressing the nontechnical constraints and barriers to implementation of the intelligent vehicle-highway systems program.
+Report to congress.—In cooperation with the Attorney General and the Secretary of Commerce, the Secretary shall prepare and submit, not later than 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a report to Congress addressing the nontechnical constraints and barriers to implementation of the intelligent transportation systems program.
 
 &emsp;“(2)
 
 Scope of report.—The report shall—
 
-&emsp;&emsp;“(A) address antitrust, privacy, educational and staffing needs, patent, liability, standards, and other constraints, barriers, or concerns relating to the intelligent vehicle-highway systems program;
+&emsp;&emsp;“(A) address antitrust, privacy, educational and staffing needs, patent, liability, standards, and other constraints, barriers, or concerns relating to the intelligent transportation systems program;
 
 &emsp;&emsp;“(B) recommend legislative and administrative actions necessary to further the program; and
 
@@ -712,15 +712,19 @@ Scope of report.—The report shall—
 
 Update of report.—Not later than 5 years after the date of the enactment of this Act, the Secretary shall prepare and submit to Congress an update of the report under this subsection.
 
+“(e)
+
+Collaborative Research and Development.—In carrying out this part, the Secretary may carry out collaborative research and development in accordance with section 307(a)(2) of title 23, United States Code.
+
 #### “SEC. 6055. TECHNICAL, PLANNING, AND OPERATIONAL TESTING PROJECT ASSISTANCE.
 
 “(a)
 
-Technical Assistance and Information.—The Secretary may provide planning and technical assistance and information to State and local governments seeking to use and evaluate intelligent vehicle-highway systems technologies. In doing so, the Secretary shall assist State and local officials in developing plans for areawide traffic management control centers, necessary laws pertaining to establishment and implementation of such systems, and plans for infrastructure for such systems and in conducting other activities necessary for the intelligent vehicle-highway systems program.
+Technical Assistance and Information.—The Secretary may provide planning and technical assistance and information to State and local governments seeking to use and evaluate intelligent transportation systems technologies. In doing so, the Secretary shall assist State and local officials in developing plans for areawide traffic management control centers, necessary laws pertaining to establishment and implementation of such systems, and plans for infrastructure for such systems and in conducting other activities necessary for the intelligent transportation systems program.
 
 “(b)
 
-Planning Grants.—The Secretary may make grants to State and local governments for feasibility and planning studies for development and implementation of intelligent vehicle-highway systems. Such grants shall be made at such time, in such amounts, and subject to such conditions as the Secretary may determine.
+Planning Grants.—The Secretary may make grants to State and local governments for feasibility and planning studies for development and implementation of intelligent transportation systems. Such grants shall be made at such time, in such amounts, and subject to such conditions as the Secretary may determine.
 
 “(c)
 
@@ -728,7 +732,7 @@ Eligibility of Certain Traffic Management Entities.—Any interagency traffic an
 
 “(d)
 
-Operational Testing Projects.—The Secretary may make grants to non-Federal entities, including State and local governments, universities, and other persons, for operational tests relating to intelligent vehicle-highway systems. In deciding which projects to fund under this subsection, the Secretary shall—
+Operational Testing Projects.—The Secretary may make grants to non-Federal entities, including State and local governments, universities, and other persons, for operational tests relating to intelligent transportation systems. In deciding which projects to fund under this subsection, the Secretary shall—
 
 &emsp;“(1) give the highest priority to those projects that—
 
@@ -738,21 +742,21 @@ Operational Testing Projects.—The Secretary may make grants to non-Federal ent
 
 &emsp;“(2) seek to fund operational tests that advance the current state of knowledge and, where appropriate, build on successes achieved in previously funded work involving such systems; and
 
-&emsp;“(3) require that operational tests utilizing Federal funds under this part have a written evaluation of the intelligent vehicle-highway systems technologies investigated and of the results of the investigation which is consistent with the guidelines developed pursuant to section 6053(c).
+&emsp;“(3) require that operational tests utilizing Federal funds under this part have a written evaluation of the intelligent transportation systems technologies investigated and of the results of the investigation which is consistent with the guidelines developed pursuant to section 6053(c).
 
 “(e)
 
-Authority To Use Funds.—Each State and eligible local entity is authorized to use funds provided under this part for implementation purposes in connection with the intelligent vehicle-highway systems program.
+Authority To Use Funds.—Each State and eligible local entity is authorized to use funds provided under this part for implementation purposes in connection with the intelligent transportation systems program.
 
 #### “SEC. 6056. APPLICATIONS OF TECHNOLOGY.
 
 “(a)
 
-IVHS Corridors Program.—The Secretary shall designate transportation corridors in which application of intelligent vehicle-highway systems will have particular benefit and, through financial and technical assistance under this part, shall assist in the development and implementation of such systems.
+ITS Corridors Program.—The Secretary shall designate transportation corridors in which application of intelligent transportation systems will have particular benefit and, through financial and technical assistance under this part, shall assist in the development and implementation of such systems.
 
 “(b)
 
-Priorities.—In providing funding for corridors under this section, the Secretary shall allocate not less than 50 percent of the funds made available to carry out this section to eligible State or local entities for application of intelligent vehicle-highway systems in not less than 3 but not more than 10 corridors with the following characteristics:
+Priorities.—In providing funding for corridors under this section, the Secretary shall allocate not less than 50 percent of the funds made available to carry out this section to eligible State or local entities for application of intelligent transportation systems in not less than 3 but not more than 10 corridors with the following characteristics:
 
 &emsp;“(1) Traffic density (as a measurement of vehicle miles traveled per highway mile) at least 1.5 times the national average for such class of highway.
 
@@ -770,7 +774,7 @@ Priorities.—In providing funding for corridors under this section, the Secreta
 
 “(c)
 
-Other Corridors and Areas.—After the allocation pursuant to subsection (b), the balance of funds made available to carry out this section shall be allocated to eligible State and local entities for application of intelligent vehicle-highway systems in corridors and areas where the application of such systems and associated technologies will make a potential contribution to the implementation of the Secretary's plan for the intelligent vehicle-highway systems program under section 6054 and demonstrate benefits related to any of the following:
+Other Corridors and Areas.—After the allocation pursuant to subsection (b), the balance of funds made available to carry out this section shall be allocated to eligible State and local entities for application of intelligent transportation systems in corridors and areas where the application of such systems and associated technologies will make a potential contribution to the implementation of the Secretary's plan for the intelligent transportation systems program under section 6054 and demonstrate benefits related to any of the following:
 
 &emsp;“(1) Improved operational efficiency.
 
@@ -798,11 +802,11 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[D
 
 “(a)
 
-IVHS Corridors Program.—There is authorized to be appropriated to the Secretary for carrying out section 6056, out of the Highway Trust Fund (other than the Mass Transit Account), $71,000,000 for fiscal year 1992 and $86,000,000 per fiscal year for each of fiscal years 1993 through 1997. In addition to amounts made available by subsection (b), any amounts authorized by this subsection and not allocated by the Secretary for carrying out section 6056 for fiscal years 1992 and 1993 may be used by the Secretary for carrying out other activities authorized under this part.
+ITS Corridors Program.—There is authorized to be appropriated to the Secretary for carrying out section 6056, out of the Highway Trust Fund (other than the Mass Transit Account), $71,000,000 for fiscal year 1992 and $86,000,000 per fiscal year for each of fiscal years 1993 through 1997. In addition to amounts made available by subsection (b), any amounts authorized by this subsection and not allocated by the Secretary for carrying out section 6056 for fiscal years 1992 and 1993 may be used by the Secretary for carrying out other activities authorized under this part.
 
 “(b)
 
-Other IVHS Activities.—There is authorized to be appropriated to the Secretary for carrying out this part (other than section 6056), out of the Highway Trust Fund (other than the Mass Transit Account), $23,000,000 for fiscal year 1992 and $27,000,000 per fiscal year for each of fiscal years 1993 through 1997.
+Other ITS Activities.—There is authorized to be appropriated to the Secretary for carrying out this part (other than section 6056), out of the Highway Trust Fund (other than the Mass Transit Account), $23,000,000 for fiscal year 1992 and $27,000,000 per fiscal year for each of fiscal years 1993 through 1997.
 
 “(c)
 
@@ -814,13 +818,25 @@ Federal Share Payable.—The Federal share payable on account of activities carr
 
 “(e)
 
-Applicability of Title 23.—Funds authorized by this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any activity under this section shall be determined in accordance with this section and such funds shall remain available until expended. Such funds shall be subject to the obligation limitation imposed by section 102 of this Act \[probably means section 1002 of Pub. L. 102–240, set out as a note under section 104 of this title\].
+Applicability of Title 23.—Funds authorized by this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any activity under this section shall be determined in accordance with this section and such funds shall remain available for obligation in accordance with this section. Such funds shall be subject to the obligation limitation imposed by section 102 of this Act \[probably means section 1002 of Pub. L. 102–240, set out as a note under section 104 of this title\].
+
+“(f)
+
+Obligation of Funds.—
+
+&emsp;“(1)
+
+In general.—Funds made available pursuant to subsections (a) and (b) on or after the date of the enactment of this subsection \[Nov. 28, 1995\] and other funds made available on or after that date to carry out specific intelligent transportation systems projects shall be obligated not later than the last day of the fiscal year following the fiscal year for which the funds are made available. Funds made available pursuant to subsections (a) and (b) before such date of enactment shall remain available until expended.
+
+&emsp;“(2)
+
+Reallocation of funds.—If funds described in paragraph (1) are not obligated by the date described in the paragraph, the Secretary may make the funds available to carry out any other project with respect to which funds may be made available under subsection (a) or (b).
 
 #### “SEC. 6059. DEFINITIONS.
 
 “For the purposes of this part, the following definitions apply:
 
-&emsp;“(1) IVHS.—The term ‘intelligent vehicle-highway systems’ means the development or application of electronics, communications, or information processing (including advanced traffic management systems, commercial vehicle operations, advanced traveler information systems, commercial and advanced vehicle control systems, advanced public transportation systems, satellite vehicle tracking systems, and advanced vehicle communications systems) used singly or in combination to improve the efficiency and safety of surface transportation systems.
+&emsp;“(1) ITS.—The term ‘intelligent transportation systems’ means the development or application of electronics, communications, or information processing (including advanced traffic management systems, commercial vehicle operations, advanced traveler information systems, commercial and advanced vehicle control systems, advanced public transportation systems, satellite vehicle tracking systems, and advanced vehicle communications systems) used singly or in combination to improve the efficiency and safety of surface transportation systems.
 
 &emsp;“(2)
 
@@ -890,7 +906,7 @@ Section 119 of Pub. L. 91–605 provided that:
 
 #### Study of Relationship of Highway Construction to Public Transportation Services; Report to Congress
 
-Section 144 of Pub. L. 91–605 directed Secretary to undertake a study and analysis of use of existing highway facilities for highway public transportation service, need for additional highway facilities or adjustment of existing facilities to accommodate such service, and appropriate funding of such additional highway facilities and to report to Congress his findings and recommendations not later than Jan. 1, 1972.
+Section 144 of Pub. L. 91–605 directed Secretary to undertake a study and analysis of use of existing highwayfacilities for highway public transportation service, need for additional highway facilities or adjustment of existing facilities to accommodate such service, and appropriate funding of such additional highway facilities and to report to Congress his findings and recommendations not later than Jan. 1, 1972.
 
 #### Authorization of Additional Appropriations
 

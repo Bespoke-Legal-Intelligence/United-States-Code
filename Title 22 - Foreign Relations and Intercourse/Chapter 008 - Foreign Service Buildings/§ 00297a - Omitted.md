@@ -2,11 +2,7 @@
 
 #### Codification
 
-Section, which related to leaseholds of not less than ten years, was from the Department of State Appropriation Act, 1953, act July 10, 1952, ch. 651, title I, 66 Stat. 550, and was not repeated in subsequent appropriation acts.
-
-#### Similar Provisions
-
-Similar provisions were contained in the following prior appropriation acts:
+Section, which related to leaseholds of not less than ten years, was from the Department of State Appropriation Act, 1953, act July 10, 1952, ch. 651, title I, 66 Stat. 550, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 1951—Oct. 22, 1951, ch. 533, title I, 65 Stat. 577.
 

@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (B) Certification
 
-&emsp;&emsp;A project shall not be treated as a qualified enhanced oil recovery project unless theoperator submits to the Secretary (at such times and in such manner as the Secretary provides) a certification from a petroleum engineer that the project meets (and continues to meet) the requirements of subparagraph (A).
+&emsp;&emsp;A project shall not be treated as a qualified enhanced oil recovery project unless the operator submits to the Secretary (at such times and in such manner as the Secretary provides) a certification from a petroleum engineer that the project meets (and continues to meet) the requirements of subparagraph (A).
 
 #### (3) At-risk limitation
 

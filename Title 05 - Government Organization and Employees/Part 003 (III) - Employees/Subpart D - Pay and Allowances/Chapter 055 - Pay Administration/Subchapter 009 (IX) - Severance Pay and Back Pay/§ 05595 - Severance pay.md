@@ -98,7 +98,7 @@
 
 &emsp;(C) The term “nonappropriated fund instrumentality” means a nonappropriated fund instrumentality described in section 2105(c) of this title.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442;Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470;Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721.)
 
 Historical and Revision Notes
 
@@ -144,21 +144,21 @@ Section 609(b)(1) of the Foreign Service Act of 1980, referred to in subsec. (a)
 
 #### Amendments
 
-1994—Subsec. (h). Pub. L. 103–337 added subsec. (h).
+<b>1994</b>—Subsec. (h). Pub. L. 103–337 added subsec. (h).
 
-1990—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
+<b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
 
 Subsec. (a)(2)(i). Pub. L. 101–509 substituted “employee (other” for “employee, other”, inserted “or an employee whose pay is fixed under section 5376)” before “whose rate”, and substituted “the Executive Schedule” for “GS–18”.
 
 Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end “However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section.”
 
-1988—Subsec. (a)(2)(i). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+<b>1988</b>—Subsec. (a)(2)(i). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-1980—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
+<b>1980</b>—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
 
-1979—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+<b>1979</b>—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
-1978—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
+<b>1978</b>—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
 
 #### Effective Date of 1994 Amendment
 

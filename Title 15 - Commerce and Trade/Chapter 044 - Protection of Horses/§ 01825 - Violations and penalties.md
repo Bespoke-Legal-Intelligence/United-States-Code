@@ -44,15 +44,15 @@ In addition to any fine, imprisonment, or civil penalty authorized under this se
 
 (2) Any equipment, device, paraphernalia, or substance which was used in violation of any provision of this chapter or any regulation issued under this chapter or which contributed to the soring of any horse at or prior to any horse show, horse exhibition, or horse sale or auction, shall be liable to be proceeded against, by process of libel for the seizure and condemnation of such equipment, device, paraphernalia, or substance, in any United States district court within the jurisdiction of which such equipment, device, paraphernalia, or substance is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
-(Pub. L. 91 540, §6, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94 360, §7, July 13, 1976, 90 Stat. 918.)
+(Pub. L. 91–540, §6, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, §7, July 13, 1976, 90 Stat. 918.)
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94 360 substituted provisions increasing the maximum amount of fine that can be imposed and the maximum length of imprisonment that can be ordered for knowingly performing enumerated activities prohibited under this chapter, for provisions authorizing a maximum civil penalty of $1,000 for each unintentional violation of this chapter, requiring notice to an alleged violator prior to assessment of any penalty and authorizing the institution of civil actions by the Attorney General to enforce such penalties.
+1976—Subsec. (a). Pub. L. 94–360 substituted provisions increasing the maximum amount of fine that can be imposed and the maximum length of imprisonment that can be ordered for knowingly performing enumerated activities prohibited under this chapter, for provisions authorizing a maximum civil penalty of $1,000 for each unintentional violation of this chapter, requiring notice to an alleged violator prior to assessment of any penalty and authorizing the institution of civil actions by the Attorney General to enforce such penalties.
 
-Subsec. (b). Pub. L. 94 360 substituted provisions relating to imposition of civil penalties up to $2,000, criteria for imposition of particular amounts, and procedures for review and enforcement of civil penalties, for provisions authorizing fines up to $2,000 and/or imprisonment up to six months for intentional violations of provisions of this chapter or any regulation issued thereunder.
+Subsec. (b). Pub. L. 94–360 substituted provisions relating to imposition of civil penalties up to $2,000, criteria for imposition of particular amounts, and procedures for review and enforcement of civil penalties, for provisions authorizing fines up to $2,000 and/or imprisonment up to six months for intentional violations of provisions of this chapter or any regulation issued thereunder.
 
-Subsecs. (c) to (e). Pub. L. 94 360 added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 94–360 added subsecs. (c) to (e).
 
 #### Federal Rules of Civil Procedure
 

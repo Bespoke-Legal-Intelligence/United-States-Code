@@ -12,5 +12,5 @@ As used in this chapter, the term—
 
 &emsp;(5) “Program” means the National High-Performance Computing Program described in section 5511 of this title.
 
-(Pub. L. 102 194, §4, Dec. 9, 1991, 105 Stat. 1595.)
+(Pub. L. 102–194, §4, Dec. 9, 1991, 105 Stat. 1595.)
 

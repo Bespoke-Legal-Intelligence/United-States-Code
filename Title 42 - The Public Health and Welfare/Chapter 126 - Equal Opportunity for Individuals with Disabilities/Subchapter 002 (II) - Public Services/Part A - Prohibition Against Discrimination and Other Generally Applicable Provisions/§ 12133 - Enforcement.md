@@ -6,5 +6,5 @@ The remedies, procedures, and rights set forth in section 794a of title 29 shall
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12203 of this title.
+This section is referred to in sections 12203, 12209 of this title; title 2 section 1331.
 

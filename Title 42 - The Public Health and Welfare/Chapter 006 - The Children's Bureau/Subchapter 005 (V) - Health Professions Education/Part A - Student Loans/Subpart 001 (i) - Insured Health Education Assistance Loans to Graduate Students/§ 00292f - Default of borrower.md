@@ -28,7 +28,7 @@ For purposes of this section:
 
 #### (f) Reductions in Federal reimbursements or payments for defaulting borrowers
 
-The Secretary shall, after notice and opportunity for a hearing, cause to be reduced Federal reimbursements or payments for health services under any Federal law to borrowers who are practicing their professions and have defaulted on their loans insured under this subpart in amounts up to the remaining balance of suchloans. Procedures for reduction of payments under the medicare program are provided under section 1395ccc of this title. Notwithstanding such section 1395ccc of this title, any funds recovered under this subsection shall be deposited in the insurance fund established under section 292i of this title.
+The Secretary shall, after notice and opportunity for a hearing, cause to be reduced Federal reimbursements or payments for health services under any Federal law to borrowers who are practicing their professions and have defaulted on their loans insured under this subpart in amounts up to the remaining balance of such loans. Procedures for reduction of payments under the medicare program are provided under section 1395ccc of this title. Notwithstanding such section 1395ccc of this title, any funds recovered under this subsection shall be deposited in the insurance fund established under section 292i of this title.
 
 #### (g) Conditions for discharge of debt in bankruptcy
 
@@ -70,7 +70,7 @@ Notwithstanding any other provision of Federal or State law, there shall be no l
 
 #### (j) School collection assistance
 
-An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title. The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
+An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past andpresent lenders and holders of the borrower's loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title. The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
 
 (July 1, 1944, ch. 373, title VII, §707, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2002; amended June 10, 1993, Pub. L. 103–43, title XX, §2014(a)(2), 107 Stat. 215.)
 

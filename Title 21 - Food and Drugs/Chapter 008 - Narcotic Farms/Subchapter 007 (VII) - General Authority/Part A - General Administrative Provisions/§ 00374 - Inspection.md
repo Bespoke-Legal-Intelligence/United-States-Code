@@ -6,7 +6,7 @@
 
 (2) The provisions of the second sentence of paragraph (1) shall not apply to—
 
-&emsp;(A) pharmacies which maintain establishments in conformance with any applicable local laws regulating the practice of pharmacy and medicine and which are regularly engaged in dispensing prescription drugs or devices, upon prescriptions of practitioners licensed to administer such drugs or devices to patients under the care of such practitioners in the course of their professional practice, and which do not, either through a subsidiary or otherwise, manufacture, prepare, propagate,compound, or process drugs or devices for sale other than in the regular course of their business of dispensing or selling drugs or devices at retail;
+&emsp;(A) pharmacies which maintain establishments in conformance with any applicable local laws regulating the practice of pharmacy and medicine and which are regularly engaged in dispensing prescription drugs or devices, upon prescriptions of practitioners licensed to administer such drugs or devices to patients under the care of such practitioners in the course of their professional practice, and which do not, either through a subsidiary or otherwise, manufacture, prepare, propagate, compound, or process drugs or devices for sale other than in the regular course of their business of dispensing or selling drugs or devices at retail;
 
 &emsp;(B) practitioners licensed by law to prescribe or administer drugs, or prescribe or use devices, as the case may be, and who manufacture, prepare, propagate, compound, or process drugs, or manufacture or process devices, solely for use in the course of their professional practice;
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 94–295, §6(d), added subsec. (e).
 
 Subsec. (b). Pub. L. 87–781, §201(b), inserted “consulting laboratory” after “warehouse”.
 
-1953—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspectionshall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
+1953—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspection shall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
 
 #### Effective Date of 1962 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 203 of Pub. L
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food andDrug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
 
 #### Authority of Secretary Prior to October 10, 1962
 

@@ -18,7 +18,7 @@ In the administration of this subchapter:
 
 #### References in Text
 
-The Indian Child Welfare Act of 1978, referred to in par. (3), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, asamended, which is classified principally to chapter 21 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Indian Child Welfare Act of 1978, referred to in par. (3), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Act of June 18, 1934, referred to in par. (4), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 

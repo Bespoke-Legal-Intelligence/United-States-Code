@@ -62,11 +62,11 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 Civil money penalties collected under this section shall be paid to the Secretary and, upon approval in an appropriation Act, may be used by the Secretary to cover all or part of the cost of rendering services under this chapter.
 
-(Pub. L. 90 448, title XIV, §1418a, as added Pub. L. 101 235, title I, §111(a), Dec. 15, 1989, 103 Stat. 2014.)
+(Pub. L. 90–448, title XIV, §1418a, as added Pub. L. 101–235, title I, §111(a), Dec. 15, 1989, 103 Stat. 2014.)
 
 #### Effective Date
 
-Section 111(b) of Pub. L. 101 235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Section 111(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
 &emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 

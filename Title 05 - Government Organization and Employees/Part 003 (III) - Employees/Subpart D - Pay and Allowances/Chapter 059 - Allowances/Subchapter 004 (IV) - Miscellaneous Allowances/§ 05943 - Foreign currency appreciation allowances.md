@@ -38,7 +38,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–54, §2(a)(37)(A), struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(37)(A), struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
 
 Subsec. (d). Pub. L. 96–54, §2(a)(37)(B), substituted “President” for “Director of the Bureau of the Budget”.
 

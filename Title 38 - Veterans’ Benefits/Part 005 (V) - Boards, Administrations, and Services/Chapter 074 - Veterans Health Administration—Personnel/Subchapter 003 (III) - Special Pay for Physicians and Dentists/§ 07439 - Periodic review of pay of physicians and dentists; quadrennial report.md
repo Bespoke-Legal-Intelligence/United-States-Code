@@ -1,8 +1,8 @@
 ### §7439. Periodic review of pay of physicians and dentists; quadrennial report
 
-(a) In order to make possible the recruitment and retention of a well-qualified work force of physicians and dentists capable of providing quality care for eligible veterans, it is the policy of Congress to ensure that the levels of total pay for physicians and dentists of the Veterans Health Administration are fixed at levels reasonably comparable—
+(a) In order to make possible the recruitment and retention of a well-qualified work force of physicians and dentists capable of providingquality care for eligible veterans, it is the policy of Congress to ensure that the levels of total pay for physicians and dentists of the Veterans Health Administration are fixed at levels reasonably comparable—
 
-&emsp;(1) with the levels of total pay of physicians and dentists employed by or serving in otherdepartments and agencies of the Federal Government; and
+&emsp;(1) with the levels of total pay of physicians and dentists employed by or serving in other departments and agencies of the Federal Government; and
 
 &emsp;(2) with the income of non-Federal physicians and dentists for the performance of services as physicians and dentists.
 

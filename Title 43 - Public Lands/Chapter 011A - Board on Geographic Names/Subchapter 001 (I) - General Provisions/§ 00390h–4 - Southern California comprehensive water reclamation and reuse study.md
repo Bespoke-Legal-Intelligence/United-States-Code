@@ -6,7 +6,7 @@ The Secretary is authorized to conduct a study to assess the feasibility of a co
 
 #### (b) Cooperation with State; Federal share
 
-The Secretary shall conduct the study authorized by this section in cooperation with the State of California and appropriate local and regional entities. The Federal share of the costs associated with this study shall not exceed 50 per centum of the total.
+The Secretary shall conduct the study authorized by this section in cooperation with theState of California and appropriate local and regional entities. The Federal share of the costs associated with this study shall not exceed 50 per centum of the total.
 
 #### (c) Report
 
@@ -20,7 +20,7 @@ The Secretary shall submit the report authorized by this section to the Committe
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Reuse of Waste Water
 

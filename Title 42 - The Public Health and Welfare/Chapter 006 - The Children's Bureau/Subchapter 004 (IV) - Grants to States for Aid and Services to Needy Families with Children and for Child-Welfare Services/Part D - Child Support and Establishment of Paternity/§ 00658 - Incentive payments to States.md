@@ -28,7 +28,7 @@ In order to encourage and reward State child support enforcement programs which 
 
 #### (c) Increase in percentage; laboratory costs
 
-If the total amount of a State's AFDC collections or non-AFDC collections for any fiscal year bears a ratio to the total amount expended by the State in that year for the operation of its plan approved under section 654 of this title for which payment may be made under section 655 of this title (with the total amount so expended in any fiscal year being hereafter referred to in this section as the State's “combined AFDC/non-AFDC administrative costs” for that year) which is equal to or greater than 1.4, the relevant percent specified in subparagraph (A) or (B) of subsection (b)(1) of this section (with respect to such collections) shall be increased to—
+If the total amount of a State's AFDC collections or non-AFDC collections for any fiscal year bears a ratio to the total amount expended by the State in that year for the operation of its plan approved under section 654 of this title for which payment may be made under section 655 of this title (with the total amount so expendedin any fiscal year being hereafter referred to in this section as the State's “combined AFDC/non-AFDC administrative costs” for that year) which is equal to or greater than 1.4, the relevant percent specified in subparagraph (A) or (B) of subsection (b)(1) of this section (with respect to such collections) shall be increased to—
 
 &emsp;(1) 6.5 percent, plus
 
@@ -74,7 +74,7 @@ Subsecs. (d), (e). Pub. L. 98–378, §5(a), in amending section generally, adde
 
 Subsec. (c). Pub. L. 96–272, §307(c), added subsec. (c).
 
-1977—Subsec. (a). Pub. L. 95–30, §503(a)(1), altered formula for arriving at amount to be paid for enforcementand collection of assigned support rights by substituting a formula calling for an amount equal to 15 per centum of any amount collected and required to be distributed as provided in section 657 of this title to reduce or repay assistance payments for a formula calling for an amount equal to 25 per centum of any amount collected (and required to be distributed as provided in section 657 of this title to reduce or repay assistance payments) attributable to the support obligation owed for 12 months and an amount equal to 10 per centum of any amount collected (and required to be distributed as provided in section 657 of this title to reduce or repay assistance payments) attributable to the support obligation owed for any month after the first twelve months for which such collections were made.
+1977—Subsec. (a). Pub. L. 95–30, §503(a)(1), altered formula for arriving at amount to be paid for enforcement and collection of assigned support rights by substituting a formula calling for an amount equal to 15 per centum of any amount collected and required to be distributed as provided in section 657 of this title to reduce or repay assistance payments for a formula calling for an amount equal to 25 per centum of any amount collected (and required to be distributed as provided in section 657 of this title to reduce or repay assistance payments) attributable to the support obligation owed for 12 months and an amount equal to 10 per centum of any amount collected (and required to be distributed as provided in section 657 of this title to reduce or repay assistance payments) attributable to the support obligation owed for any month after the first twelve months for which such collections were made.
 
 Subsec. (b). Pub. L. 95–30, §503(a)(2), substituted “determined under subsection (a) of this section” for “determined under paragraphs (1) and (2) of subsection (a) of this section”.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 97–248 applicable with respect to amounts collected on or
 
 #### Effective Date of 1977 Amendment
 
-Section 503(b) of Pub. L. 95–30 provided that: “The amendments made by subsection (a) \[amending this section\] shall be applicable with respect to amounts collected on and after October 1, 1977.”
+Section 503(b) of Pub. L. 95–30 provided that: “The amendments made by subsection (a) \[amending thissection\] shall be applicable with respect to amounts collected on and after October 1, 1977.”
 
 #### Construction of Reference to Section 657(b) of This Title
 

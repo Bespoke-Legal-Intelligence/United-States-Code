@@ -28,7 +28,7 @@
 
 (g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Secretary of Health and Human Services under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 1998.
 
-(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414.)
+(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L.102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ Section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code, referred to in 
 
 Subsec. (c)(2). Pub. L. 102–83 substituted “1315” for “415”.
 
-Subsec. (c)(3). Pub. L. 102–83 substituted “1710(a)(1)(I)”, “1710(a)(2)”, “1710(b)”, and“1712(a)(2)(B)” for “610(a)(1)(I)”, “610(a)(2)”, “610(b)”, and “612(a)(2)(B)”, respectively.
+Subsec. (c)(3). Pub. L. 102–83 substituted “1710(a)(1)(I)”, “1710(a)(2)”, “1710(b)”, and “1712(a)(2)(B)” for “610(a)(1)(I)”, “610(a)(2)”, “610(b)”, and “612(a)(2)(B)”, respectively.
 
 #### Notification Prior to Use of Income Information From Other Federal Agencies
 

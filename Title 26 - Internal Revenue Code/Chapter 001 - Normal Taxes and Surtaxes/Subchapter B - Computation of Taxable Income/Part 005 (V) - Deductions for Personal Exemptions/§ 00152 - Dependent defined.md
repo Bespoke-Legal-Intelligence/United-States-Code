@@ -120,7 +120,7 @@ For purposes of subsection (a), in the case of any individual who is—
 
 &emsp;&emsp;<b>For provision treating child as dependent of both parents for purposes of medical expense deduction, see section 213(d)(5).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Sept. 2, 1958, Pub. L. 85–866, title I, §4(a)–(c), 72 Stat. 1607; Sept. 23, 1959, Pub. L. 86–376, §1(a), 73 Stat. 699; Aug. 31, 1967, Pub. L. 90–78, §1, 81 Stat. 191; Dec. 30, 1969, Pub. L. 91–172, title IX, §912(a), 83 Stat. 722; Oct. 27, 1972, Pub. L. 92–580, §1(a), 86 Stat. 1276; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), 90 Stat. 1767, 1794, 1834, 1932; July 18, 1984, Pub.L. 98–369, div. A, title IV, §§423(a), 482(b)(2), 98 Stat. 799, 848; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), 100 Stat. 2104, 2105, 2658.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Sept. 2, 1958, Pub. L. 85–866, title I, §4(a)–(c), 72 Stat. 1607; Sept. 23, 1959, Pub. L. 86–376, §1(a), 73 Stat. 699; Aug. 31, 1967, Pub. L. 90–78, §1, 81 Stat. 191; Dec. 30, 1969, Pub. L. 91–172, title IX, §912(a), 83 Stat. 722; Oct. 27, 1972, Pub. L. 92–580, §1(a), 86 Stat. 1276; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), 90 Stat. 1767, 1794, 1834, 1932; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), 98 Stat. 799, 848; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), 100 Stat. 2104, 2105, 2658.)
 
 #### Amendments
 

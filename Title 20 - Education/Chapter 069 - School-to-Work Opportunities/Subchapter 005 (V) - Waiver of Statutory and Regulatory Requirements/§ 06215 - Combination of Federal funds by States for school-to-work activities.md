@@ -52,5 +52,5 @@ The authority of a State to combine funds under this section shall not exceed 5 
 
 Nothing in this section shall be construed to relieve a State of an obligation to conduct the activities required under section 2331(b) of this title.
 
-(Pub. L. 103 239, title V, §505, May 4, 1994, 108 Stat. 602.)
+(Pub. L. 103–239, title V, §505, May 4, 1994, 108 Stat. 602.)
 

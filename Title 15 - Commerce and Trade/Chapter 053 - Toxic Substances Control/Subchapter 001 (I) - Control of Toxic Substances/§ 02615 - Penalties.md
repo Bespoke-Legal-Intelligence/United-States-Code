@@ -2,7 +2,7 @@
 
 #### (a) Civil
 
-(1) Any person who violates a provision of section 2614 or 2689 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day such a violation continues shall, for purposes of this subsection, constitute a separate violation of section 2614 or 2689 of this title.
+(1) Any person who violates a provision of section 2614 or 2689 of this title shall be liable tothe United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day such a violation continues shall, for purposes of this subsection, constitute a separate violation of section 2614 or 2689 of this title.
 
 (2)(A) A civil penalty for a violation of section section 2614 or 2689 of this title shall be assessed by the Administrator by an order made on the record after opportunity (provided in accordance with this subparagraph) for a hearing in accordance with section 554 of title 5. Before issuing such an order, the Administrator shall give written notice to the person to be assessed a civil penalty under such order of the Administrator's proposal to issue such order and provide such person an opportunity to request, within 15 days of the date the notice is received by such person, such a hearing on the order.
 
@@ -24,11 +24,11 @@
 
 Any person who knowingly or willfully violates any provision of section 2614 or 2689 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) of this section for such violation, be subject, upon conviction, to a fine of not more than $25,000 for each day of violation, or to imprisonment for not more than one year, or both.
 
-(Pub. L. 94 469, title I, §16, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99 519, §3(c)(1),Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102 550, title X, §1021(b)(5), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, §16, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(5), Oct. 28, 1992, 106 Stat. 3923.)
 
 #### Amendments
 
-1992—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102 550 substituted “section 2614 or 2689 of this title” for “section 2614 of this title” wherever appearing.
+1992—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102–550 substituted “section 2614 or 2689 of this title” for “section 2614 of this title” wherever appearing.
 
 #### Section Referred to in Other Sections
 

@@ -70,7 +70,7 @@ For purposes of this subpart, the term “investment income” means—
 
 &emsp;(6) gains from the sale or exchange of stock or securities,
 
-&emsp;(7) gains from futures transactions in any commodity on, or subject to the rules of, a board of trade or commodity exchange (other than gains which arise out of a bona fide hedging transaction reasonably necessary to conduct the business of the FSC in the manner in which such business is customarily conducted by others),
+&emsp;(7) gains from futures transactions in any commodity on, or subject to the rules of, a board of trade or commodity exchange (otherthan gains which arise out of a bona fide hedging transaction reasonably necessary to conduct the business of the FSC in the manner in which such business is customarily conducted by others),
 
 &emsp;(8) amounts includible in computing the taxable income of the corporation under part I of subchapter J, and
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 103–66 applicable to sales, exchanges, or other dispositi
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(8)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in the provision of the Tax Reform Act of 1984 \[Pub. L. 98–369\] to which it relates.”
+Section 1012(bb)(8)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply as if included in the provision of the Tax Reform Act of 1984 \[Pub. L. 98–369\] to which it relates.”
 
 #### Effective Date of 1986 Amendment
 

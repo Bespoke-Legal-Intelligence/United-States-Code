@@ -6,5 +6,5 @@ Section, Pub. L. 93–236, title II, §204, Jan. 2, 1974, 87 Stat. 993, directed
 
 #### Delaware-Maryland-Virginia Peninsula Rail Study; Report to Congress
 
-Pub. L. 94–555, title III, §302, Oct. 19, 1976, 90 Stat. 2631, authorized the Interstate Commerce Commission to submit a report to Congress, within six months of Oct. 19, 1976, regarding the problems of and need for rail transportation services on the Delaware-Maryland-Virginia peninsula.
+Pub. L. 94–555, title III, §302, Oct. 19, 1976, 90 Stat. 2631, directed Interstate Commerce Commission to submit a report to Congress, within six months of Oct. 19, 1976, regarding problems of and need for rail transportation services on Delaware-Maryland-Virginia peninsula.
 

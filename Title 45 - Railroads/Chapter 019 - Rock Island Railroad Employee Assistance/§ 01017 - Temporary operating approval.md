@@ -22,6 +22,10 @@ Subsec. (c). Pub. L. 97–468, §214(b), struck out subsec. (c) which defined �
 
 1981—Subsec. (a). Pub. L. 97–130 gave the Commission authority to authorize continued rail service under this section over the lines of the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Termination of Applicability of Amendment to Interstate Commerce Service Order 1498 on May 15, 1982
 
 Section 5(b) of Pub. L. 97–130 provided that: “The applicability of the amendment made by subsection (a) \[amending subsec. (a) of this section\] to Interstate Commerce Commission Service Order 1498 shall expire at the end of May 15, 1982.”

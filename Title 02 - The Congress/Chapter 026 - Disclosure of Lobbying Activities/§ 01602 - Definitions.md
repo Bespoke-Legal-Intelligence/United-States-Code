@@ -1,0 +1,226 @@
+### §1602. Definitions
+
+As used in this chapter:
+
+#### (1) Agency
+
+&emsp;The term “agency” has the meaning given that term in section 551(1) of title 5.
+
+#### (2) Client
+
+&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+
+#### (3) Covered executive branch official
+
+&emsp;The term “covered executive branch official” means—
+
+&emsp;&emsp;(A) the President;
+
+&emsp;&emsp;(B) the Vice President;
+
+&emsp;&emsp;(C) any officer or employee, or any other individual functioning in the capacity of such an officer or employee, in the Executive Office of the President;
+
+&emsp;&emsp;(D) any officer or employee serving in a position in level I, II, III, IV, or V of the Executive Schedule, as designated by statute or Executive order;
+
+&emsp;&emsp;(E) any member of the uniformed services whose pay grade is at or above O–7 under section 201 of title 37; and
+
+&emsp;&emsp;(F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2) of title 5.
+
+#### (4) Covered legislative branch official
+
+&emsp;The term “covered legislative branch official” means—
+
+&emsp;&emsp;(A) a Member of Congress;
+
+&emsp;&emsp;(B) an elected officer of either House of Congress;
+
+&emsp;&emsp;(C) any employee of, or any other individual functioning in the capacity of an employee of—
+
+&emsp;&emsp;&emsp;(i) a Member of Congress;
+
+&emsp;&emsp;&emsp;(ii) a committee of either House of Congress;
+
+&emsp;&emsp;&emsp;(iii) the leadership staff of the House of Representatives or the leadership staff of the Senate;
+
+&emsp;&emsp;&emsp;(iv) a joint committee of Congress; and
+
+&emsp;&emsp;&emsp;(v) a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and
+
+&emsp;&emsp;(D) any other legislative branch employee serving in a position described under section 109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+
+#### (5) Employee
+
+&emsp;The term “employee” means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—
+
+&emsp;&emsp;(A) independent contractors; or
+
+&emsp;&emsp;(B) volunteers who receive no financial or other compensation from the person or entity for their services.
+
+#### (6) Foreign entity
+
+&emsp;The term “foreign entity” means a foreign principal (as defined in section 1(b) of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611(b)).
+
+#### (7) Lobbying activities
+
+&emsp;The term “lobbying activities” means lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others.
+
+#### (8) Lobbying contact
+
+#### (A) Definition
+
+&emsp;&emsp;The term “lobbying contact” means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
+
+&emsp;&emsp;&emsp;(i) the formulation, modification, or adoption of Federal legislation (including legislative proposals);
+
+&emsp;&emsp;&emsp;(ii) the formulation, modification, or adoption of a Federal rule, regulation, Executive order, or any other program, policy, or position of the United States Government;
+
+&emsp;&emsp;&emsp;(iii) the administration or execution of a Federal program or policy (including the negotiation, award, or administration of a Federal contract, grant, loan, permit, or license); or
+
+&emsp;&emsp;&emsp;(iv) the nomination or confirmation of a person for a position subject to confirmation by the Senate.
+
+#### (B) Exceptions
+
+&emsp;&emsp;The term “lobbying contact” does not include a communication that is—
+
+&emsp;&emsp;&emsp;(i) made by a public official acting in the public official's official capacity;
+
+&emsp;&emsp;&emsp;(ii) made by a representative of a media organization if the purpose of the communication is gathering and disseminating news and information to the public;
+
+&emsp;&emsp;&emsp;(iii) made in a speech, article, publication or other material that is distributed and made available to the public, or through radio, television, cable television, or other medium of mass communication;
+
+&emsp;&emsp;&emsp;(iv) made on behalf of a government of a foreign country or a foreign political party and disclosed under the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.);
+
+&emsp;&emsp;&emsp;(v) a request for a meeting, a request for the status of an action, or any other similar administrative request, if the request does not include an attempt to influence a covered executive branch official or a covered legislative branch official;
+
+&emsp;&emsp;&emsp;(vi) made in the course of participation in an advisory committee subject to the Federal Advisory Committee Act;
+
+&emsp;&emsp;&emsp;(vii) testimony given before a committee, subcommittee, or task force of the Congress, or submitted for inclusion in the public record of a hearing conducted by such committee, subcommittee, or task force;
+
+&emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
+
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency;
+
+&emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
+
+&emsp;&emsp;&emsp;(xi) not possible to report without disclosing information, the unauthorized disclosure of which is prohibited by law;
+
+&emsp;&emsp;&emsp;(xii) made to an official in an agency with regard to—
+
+&emsp;&emsp;&emsp;&emsp;(I) a judicial proceeding or a criminal or civil law enforcement inquiry, investigation, or proceeding; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a filing or proceeding that the Government is specifically required by statute or regulation to maintain or conduct on a confidential basis,
+
+&emsp;&emsp;&nbsp;if that agency is charged with responsibility for such proceeding, inquiry, investigation, or filing;
+
+&emsp;&emsp;&emsp;(xiii) made in compliance with written agency procedures regarding an adjudication conducted by the agency under section 554 of title 5 or substantially similar provisions;
+
+&emsp;&emsp;&emsp;(xiv) a written comment filed in the course of a public proceeding or any other communication that is made on the record in a public proceeding;
+
+&emsp;&emsp;&emsp;(xv) a petition for agency action made in writing and required to be a matter of public record pursuant to established agency procedures;
+
+&emsp;&emsp;&emsp;(xvi) made on behalf of an individual with regard to that individual's benefits, employment, or other personal matters involving only that individual, except that this clause does not apply to any communication with—
+
+&emsp;&emsp;&emsp;&emsp;(I) a covered executive branch official, or
+
+&emsp;&emsp;&emsp;&emsp;(II) a covered legislative branch official (other than the individual's elected Members of Congress or employees who work under such Members’ direct supervision),
+
+&emsp;&emsp;&nbsp;with respect to the formulation, modification, or adoption of private legislation for the relief of that individual;
+
+&emsp;&emsp;&emsp;(xvii) a disclosure by an individual that is protected under the amendments made by the Whistleblower Protection Act of 1989, under the Inspector General Act of 1978, or under another provision of law;
+
+&emsp;&emsp;&emsp;(xviii) made by—
+
+&emsp;&emsp;&emsp;&emsp;(I) a church, its integrated auxiliary, or a convention or association of churches that is exempt from filing a Federal income tax return under paragraph 2(A)(i) of section 6033(a) of title 26, or
+
+&emsp;&emsp;&emsp;&emsp;(II) a religious order that is exempt from filing a Federal income tax return under paragraph (2)(A)(iii) of such section 6033(a); and
+
+&emsp;&emsp;&emsp;(xix) between—
+
+&emsp;&emsp;&emsp;&emsp;(I) officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act \[15 U.S.C. 78c(a)(26)\]) that is registered with or established by the Securities and Exchange Commission as required by that Act \[15 U.S.C. 78a et seq.\] or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Securities and Exchange Commission or the Commodities Future Trading Commission, respectively;
+
+&emsp;&emsp;&nbsp;relating to the regulatory responsibilities of such organization under that Act.
+
+#### (9) Lobbying firm
+
+&emsp;The term “lobbying firm” means a person or entity that has 1 or more employees who are lobbyists on behalf of a client other than that person or entity. The term also includes a self-employed individual who is a lobbyist.
+
+#### (10) Lobbyist
+
+&emsp;The term “lobbyist” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a six month period.
+
+#### (11) Media organization
+
+&emsp;The term “media organization” means a person or entity engaged in disseminating information to the general public through a newspaper, magazine, other publication, radio, television, cable television, or other medium of mass communication.
+
+#### (12) Member of Congress
+
+&emsp;The term “Member of Congress” means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.
+
+#### (13) Organization
+
+&emsp;The term “organization” means a person or entity other than an individual.
+
+#### (14) Person or entity
+
+&emsp;The term “person or entity” means any individual, corporation, company, foundation, association, labor organization, firm, partnership, society, joint stock company, group of organizations, or State or local government.
+
+#### (15) Public official
+
+&emsp;The term “public official” means any elected official, appointed official, or employee of—
+
+&emsp;&emsp;(A) a Federal, State, or local unit of government in the United States other than—
+
+&emsp;&emsp;&emsp;(i) a college or university;
+
+&emsp;&emsp;&emsp;(ii) a government-sponsored enterprise (as defined in section 622(8) of this title);
+
+&emsp;&emsp;&emsp;(iii) a public utility that provides gas, electricity, water, or communications;
+
+&emsp;&emsp;&emsp;(iv) a guaranty agency (as defined in section 1085(j) of title 20), including any affiliate of such an agency; or
+
+&emsp;&emsp;&emsp;(v) an agency of any State functioning as a student loan secondary market pursuant to section 1085(d)(1)(F) of title 20;
+
+&emsp;&emsp;(B) a Government corporation (as defined in section 9101 of title 31);
+
+&emsp;&emsp;(C) an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
+
+&emsp;&emsp;(D) an Indian tribe (as defined in section 450b(e) of title 25; <sup>1</sup>
+
+&emsp;&emsp;(E) a national or State political party or any organizational unit thereof; or
+
+&emsp;&emsp;(F) a national, regional, or local unit of any foreign government.
+
+#### (16) State
+
+&emsp;The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(D), are set out in sections 5312, 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
+
+Section 109(13) of the Ethics in Government Act of 1978, referred to in par. (4)(D), is section 109(13) of Pub. L. 95–521, which is set out in the Appendix to Title 5.
+
+The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+
+The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The Whistleblower Protection Act of 1989, referred to in par. (8)(B)(xvii), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, as amended, which enacted subchapters II \[5 U.S.C. 1211 et seq.\] and III \[5 U.S.C. 1221 et seq.\] of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
+
+The Inspector General Act of 1978, referred to in par. (8)(B)(xvii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5.
+
+The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1610 of this title; title 15 section 4804; title 18 section 219; title 22 section 4002.
+
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
+

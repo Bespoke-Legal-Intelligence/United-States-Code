@@ -18,13 +18,15 @@ General Limitations.—A State may not allow by any means the operation, on any 
 
 (c)
 
-Special Rules for Wyoming, Ohio, and Alaska.—In addition to the vehicles allowed under subsection (b) of this section—
+Special Rules for Wyoming, Ohio, Alaska, and Iowa.—In addition to the vehicles allowed under subsection (b) of this section—
 
 &emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
 
-&emsp;(2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike; and
+&emsp;(2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
-&emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991.
+&emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that werenot in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
+
+&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991.
 
 (d)
 
@@ -60,9 +62,9 @@ Limitations on Statutory Construction.—This section may not be construed—
 
 Regulations.—(1) In carrying out this section only, the Secretary shall define by regulation loads that cannot be dismantled easily or divided easily.
 
-(2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteriafor a State to follow in making minor adjustments under subsection (d) of this section.
+(2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584.)
 
 Historical and Revision Notes
 
@@ -115,6 +117,10 @@ In this section, the word “property” is substituted for “cargo”, and the
 In subsections (b), before clause (1), and (g)(1), the words “dismantled easily or divided easily” are substituted for “easily dismantled or divided” for clarity.
 
 In subsection (e)(4), the words “Except as revised under this paragraph or paragraph (5) of this subsection” are substituted for “Except as modified pursuant to subparagraph (B) or (E) of this subsection” for clarity.
+
+#### Amendments
+
+1995—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
 
 #### Section Referred to in Other Sections
 

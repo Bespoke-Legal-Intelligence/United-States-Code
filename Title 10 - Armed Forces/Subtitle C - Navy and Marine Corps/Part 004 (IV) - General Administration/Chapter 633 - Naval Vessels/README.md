@@ -20,11 +20,11 @@
 | [7307\.](%C2%A7%2007307%20-%20Disposals%20to%20foreign%20nations.md) | Disposals to foreign nations. |
 | [7308\.](%C2%A7%2007308%20-%20Chief%20of%20Naval%20Operations%20certification%20required%20for%20disposal%20of%20combatant%20vessels.md) | Chief of Naval Operations: certification required for disposal of combatant vessels. |
 | [7309\.](%C2%A7%2007309%20-%20Construction%20of%20vessels%20in%20foreign%20shipyards%20prohibition.md) | Construction of vessels in foreign shipyards: prohibition. |
-| 7310\. | Overhaul, repair, etc. of vessels in foreign shipyards: restrictions. |
-| 7311\. | Repair or maintenance of naval vessels: handling of hazardous waste. |
+| [7310\.](%C2%A7%2007310%20-%20Overhaul%2C%20repair%2C%20etc.%20of%20vessels%20in%20foreign%20shipyards%20restrictions.md) | Overhaul, repair, etc. of vessels in foreign shipyards: restrictions. |
+| [7311\.](%C2%A7%2007311%20-%20Repair%20or%20maintenance%20of%20naval%20vessels%20handling%20of%20hazardous%20waste.md) | Repair or maintenance of naval vessels: handling of hazardous waste. |
 | \[7312. | Repealed.\] |
-| 7313\. | Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work. |
-| 7314\. | Overhaul of naval vessels: competition between public and private shipyards. |
+| [7313\.](%C2%A7%2007313%20-%20Ship%20overhaul%20work%20availability%20of%20appropriations%20for%20unusual%20cost%20overruns%20and%20for%20changes%20in%20scope%20of%20work.md) | Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work. |
+| [7314\.](%C2%A7%2007314%20-%20Overhaul%20of%20naval%20vessels%20competition%20between%20public%20and%20private%20shipyards.md) | Overhaul of naval vessels: competition between public and private shipyards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,7 +32,7 @@
 
 1994—Pub. L. 103–355, title II, §2001(j)(3)(A), title III, §§3023(b), 3024(b), Oct. 13, 1994, 108 Stat. 3303, 3333, 3334, struck out items 7299 “Contracts: application of Public Contracts Act”, 7302 “Construction on Pacific Coast”, and 7312 “Repair or maintenance of naval vessels: progress payments under certain contracts”.
 
-1993—Pub. L. 103–160, div. A, title VIII, §828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items 7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair of vessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
+1993—Pub. L. 103–160, div. A, title VIII, §828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items 7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair ofvessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
 
 1989—Pub. L. 101–189, div. A, title XVI, §1622(a), Nov. 29, 1989, 103 Stat. 1604, redesignated item 7313 “Overhaul of naval vessels: competition between public and private shipyards” as 7314.
 

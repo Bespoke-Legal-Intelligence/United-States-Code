@@ -36,17 +36,17 @@ For purposes of this section:
 
 There are authorized to be appropriated $3,000,000 for each of fiscal years 1991, 1992, and 1993.
 
-(Pub. L. 89 750, title III, §373, as added Pub. L. 102 26, §7, Apr. 9, 1991, 105 Stat. 127.)
+(Pub. L. 89–750, title III, §373, as added Pub. L. 102–26, §7, Apr. 9, 1991, 105 Stat. 127.)
 
 #### References in Text
 
-This Act, referred to in subsec. (d), means Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
+This Act, referred to in subsec. (d), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 
 The National Apprenticeship Act of 1937, referred to in subsec. (e)(1), probably means the National Apprenticeship Act, act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Codification
 
-In subsecs. (a), (d), and (e)(2), “chapter 313 of title 49” substituted for “the Commercial Motor Vehicle Safety Act of 1986 \[49 App. U.S.C. 2701 et seq.\]” and “the Commercial Motor Vehicle Driver Safety Act of 1986 \[49 App. U.S.C. 2701 et seq.\] on authority of Pub. L. 103 272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsecs. (a), (d), and (e)(2), “chapter 313 of title 49” substituted for “the Commercial Motor Vehicle Safety Act of 1986 \[49 App. U.S.C. 2701 et seq.\]” and “the Commercial Motor Vehicle Driver Safety Act of 1986 \[49 App. U.S.C. 2701 et seq.\] on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-Pub. L. 102 26, known as the “Higher Education Technical Amendments of 1991”, enacted section 373 of the Adult Education Act \[this section\]. Another section 373 of the Adult Education Act, with substantially identical text, was enacted by Pub. L. 102 73, title IV, §401(a), July 25, 1991, 105 Stat. 354. However, section 401(b) of Pub. L. 102 73 provided that the section 373 of the Adult Education Act enacted by section 401(a) of Pub. L. 102 73 would “not take effect if the Higher Education Amendments of 1991 are enacted before the enactment of this Act”. Although Pub. L. 102 73 referred to the earlier law as the “Higher Education Amendments of 1991” instead of the “Higher Education Technical Amendments of 1991”, only the section 373 of the Adult Education Act as enacted by Pub. L. 102 26 is set out in text, to reflect the probable intent of Congress.
+Pub. L. 102–26, known as the “Higher Education Technical Amendments of 1991”, enacted section 373 of the Adult Education Act \[this section\]. Another section 373 of the Adult Education Act, with substantially identical text, was enacted by Pub. L. 102–73, title IV, §401(a), July 25, 1991, 105 Stat. 354. However, section 401(b) of Pub. L. 102–73 provided that the section 373 of the Adult Education Act enacted by section 401(a) of Pub. L. 102–73 would “not take effect if the Higher Education Amendments of 1991 are enacted before the enactment of this Act”. Although Pub. L. 102–73 referred to the earlier law as the “Higher Education Amendments of 1991” instead of the “Higher Education Technical Amendments of 1991”, only the section 373 of the Adult Education Act as enacted by Pub. L. 102–26 is set out in text, to reflect the probable intent of Congress.
 

@@ -30,11 +30,11 @@ Funds made available under this part shall be used to support planning, applied 
 
 &emsp;(B) Amelioration of existing attitudinal barriers that prevent full inclusion by individuals with disabilities with their community.
 
-(Pub. L. 89 329, title XI, §1104, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 786.)
+(Pub. L. 89–329, title XI, §1104, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 786.)
 
 #### Prior Provisions
 
-A prior section 1136c, Pub. L. 89 329, title XI, §1104, as added Pub. L. 96 374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, placed geographical limitations on assistance to urban universities, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1136c, Pub. L. 89–329, title XI, §1104, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, placed geographical limitations on assistance to urban universities, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Section Referred to in Other Sections
 

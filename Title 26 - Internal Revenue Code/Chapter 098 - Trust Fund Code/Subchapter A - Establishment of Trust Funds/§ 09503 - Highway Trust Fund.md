@@ -82,7 +82,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;&emsp;(ii) the credits allowed under section 34 (relating to credit for certain uses of gasoline, special fuels, and lubricating oil) with respect to gasoline, special fuels, and lubricating oil used before October 1, 1999 (or with respect to qualified diesel-powered highway vehicles purchased before January 1, 1999).
 
-> &emsp;&emsp;The amounts payable from the Highway Trust Fund under this subparagraph or paragraph (3) shall be determined by taking into account only the Highway Trust Fund financing rate applicable to any fuel.
+> &emsp;&emsp;The amounts payable from the Highway Trust Fund under this subparagraph or paragraph (3) shall be determined by taking intoaccount only the Highway Trust Fund financing rate applicable to any fuel.
 
 #### (B) Transfers based on estimates
 
@@ -146,7 +146,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (E) Determination
 
-&emsp;&emsp;The amount of payments made under this paragraph after October 1, 1986 shall be determined by the Secretary in accordance with the methodology described in the Treasury Department's Report to Congressof June 1986 entitled “Gasoline Excise Tax Revenues Attributable to Fuel Used in Recreational Motorboats.”
+&emsp;&emsp;The amount of payments made under this paragraph after October 1, 1986 shall be determined by the Secretary in accordance with the methodology described in the Treasury Department's Report to Congress of June 1986 entitled “Gasoline Excise Tax Revenues Attributable to Fuel Used in Recreational Motorboats.”
 
 #### (5) Transfers from the Trust Fund for small-engine fuel taxes
 
@@ -270,7 +270,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Transfers to Mass Transit Account
 
-&emsp;The Secretary of the Treasury shall transfer to the Mass Transit Account the mass transit portion of the amounts appropriated to the Highway Trust Fund under subsection (b) which are attributable to taxes under sections 4041 and 4081 imposed after March 31, 1983. For purposes of the preceding sentence, the term “mass transit portion” means an amount determined at the rate of 1.5 cents for each gallon with respect to which tax was imposed under section 4041 or 4081.
+&emsp;The Secretary of the Treasury shall transfer to the Mass Transit Account the mass transit portion of the amounts appropriated to the Highway Trust Fund under subsection (b) which are attributable to taxes under sections 4041 and 4081 imposed after March 31, 1983. For purposes of the preceding sentence, the term “mass transit portion” means an amount determined at the rate of 2 cents for each gallon with respect to which tax was imposed under section 4041 or 4081.
 
 #### (3) Expenditures from Account
 
@@ -280,7 +280,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;(B) the Intermodal Surface Transportation Efficiency Act of 1991,
 
-> &emsp;as such Acts are in effect on the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991.
+> &emsp;as such Acts <sup>3</sup> are in effect on the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991.
 
 #### (4) Limitation
 
@@ -360,10 +360,6 @@ For purposes of this section—
 
 (Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378.)
 
-#### Amendment of Subsection (e)(2)
-
-<i>Pub. L. 103–66, title XIII, §13244, Aug. 10, 1993, 107 Stat. 529, provided that, applicable to amounts attributable to taxes imposed on or after Oct. 1, 1995, subsection (e)(2) of this section is amended by striking “1.5 cents” and inserting “2 cents”.</i>
-
 #### References in Text
 
 Section 4061, referred to in subsec. (b)(1)(C), was repealed by Pub. L. 98–369, div. A, title VII, §735(a)(1), July 18, 1984, 98 Stat. 980.
@@ -404,7 +400,9 @@ Subsec. (c)(5)(B). Pub. L. 103–66, §13242(d)(39), substituted “rate” for 
 
 Subsec. (c)(6)(D). Pub. L. 103–66, §13242(d)(37), substituted “and 4081” for “, 4081, and 4091” in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 103–66, §13242(d)(40), substituted “and 4081” for “, 4081, and 4091” and “or 4081” for “, 4081, or 4091”.
+Subsec. (e)(2). Pub. L. 103–66, §13244(a), substituted “2 cents” for “1.5 cents”.
+
+Pub. L. 103–66, §13242(d)(40), substituted “and 4081” for “, 4081, and 4091” and “or 4081” for “, 4081, or 4091”.
 
 Subsec. (f). Pub. L. 103–66, §13242(d)(41), added subsec. (f).
 
@@ -462,7 +460,7 @@ Subsec. (e)(5). Pub. L. 100–17, §504, added par. (5).
 
 1986—Subsec. (b)(4). Pub. L. 99–499, §521(b)(1)(A), added par. (4).
 
-Subsec. (c)(4)(A)(ii). Pub. L. 99–640, §7(a)(1), substituted “$60,000,000” for Fiscal Year 1987 only and$45,000,000 for each Fiscal Year thereafter;” for “$45,000,000” in two places.
+Subsec. (c)(4)(A)(ii). Pub. L. 99–640, §7(a)(1), substituted “$60,000,000” for Fiscal Year 1987 only and $45,000,000 for each Fiscal Year thereafter;” for “$45,000,000” in two places.
 
 Subsec. (c)(4)(D). Pub. L. 99–499, §521(b)(1)(B), inserted “(to the extent attributable to the Highway Trust Fund financing rate)” after “section 4081”.
 
@@ -484,11 +482,11 @@ Subsec. (e)(2). Pub. L. 98–369, §911(d)(1)(A), amended par. (2) generally, su
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13242(d)(34) to (41) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
+Amendment by section 13242(d)(34) to (41) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub.L. 103–66, set out as a note under section 4041 of this title.
 
 Section 13244(b) of Pub. L. 103–66 provided that: “The amendment made by this section \[amending this section\] shall apply to amounts attributable to taxes imposed on or after October 1, 1995.”
 
@@ -549,4 +547,6 @@ This section is referred to in sections 9504, 9511 of this title; title 16 secti
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “such section and such Act”.</i>
 

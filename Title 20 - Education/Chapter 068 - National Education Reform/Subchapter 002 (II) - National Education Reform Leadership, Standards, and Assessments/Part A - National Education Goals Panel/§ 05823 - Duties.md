@@ -4,7 +4,7 @@
 
 The Goals Panel shall—
 
-&emsp;(1) report to the President, the Secretary, and the Congress regarding the progress the Nation and the States are making toward achieving the National Education Goals established under subchapter I of this chapter, including issuing an annual report;
+&emsp;(1) report to the President, the Secretary, and the Congress regarding the progress theNation and the States are making toward achieving the National Education Goals established under subchapter I of this chapter, including issuing an annual report;
 
 &emsp;(2) report on State opportunity-to-learn standards and strategies and the progress of States that are implementing such standards and strategies to help all students meet State content standards and State student performance standards;
 
@@ -38,5 +38,5 @@ The Goals Panel shall—
 
 &emsp;Reports shall be presented in a form, and include data, that is understandable to parents and the general public.
 
-(Pub. L. 103 227, title II, §203, Mar. 31, 1994, 108 Stat. 136.)
+(Pub. L. 103–227, title II, §203, Mar. 31, 1994, 108 Stat. 136.)
 

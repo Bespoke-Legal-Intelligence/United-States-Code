@@ -32,7 +32,7 @@ The First War Powers Act, 1941, referred to in subsec. (a), is act Dec. 18, 1941
 
 #### Codification
 
-In subsec. (f), “section 205 of title 18” substituted for “section 109 of the Criminal Code (18 U.S.C. 198)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, thefirst section of which enacted Title 18, Crimes and Criminal Procedure, and on authority of Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126.
+In subsec. (f), “section 205 of title 18” substituted for “section 109 of the Criminal Code (18 U.S.C. 198)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure, and on authority of Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126.
 
 Subsec. (g), relating to the duties of Smaller War Plants Corporation, omitted on authority of section 207 of act June 30, 1947, which provided: “The liquidation of the affairs of the Smaller War Plants Corporation administered by the Reconstruction Finance Corporation pursuant to Executive Order 9665 shall be carried out by the Reconstruction Finance Corporation, notwithstanding the provisions of the last paragraph of section 5 of the First War Powers Act, 1941 \[section 605 of Title 50, Appendix, War and National Defense\]. The Smaller War Plants Corporation is hereby abolished.”
 

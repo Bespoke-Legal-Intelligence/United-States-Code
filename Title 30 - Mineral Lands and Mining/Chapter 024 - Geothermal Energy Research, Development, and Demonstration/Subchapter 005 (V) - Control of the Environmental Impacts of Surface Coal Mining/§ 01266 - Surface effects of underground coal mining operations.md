@@ -40,7 +40,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(11) to the extent possible using the best technology currently available, minimize disturbances and adverse impacts of the operation on fish, wildlife, and related environmental values, and achieve enhancement of such resources where practicable;
 
-&emsp;(12) locate openings for all new drift mines working acid-producing or iron-producing coalseams in such a manner as to prevent a gravity discharge of water from the mine.
+&emsp;(12) locate openings for all new drift mines working acid-producing or iron-producing coal seams in such a manner as to prevent a gravity discharge of water from the mine.
 
 #### (c) Suspension of underground coal mining operations in urbanized areas
 

@@ -1,4 +1,4 @@
-### §2576 . General
+### §2576. General
 
 #### (a) No bar to engaging in standards activity
 

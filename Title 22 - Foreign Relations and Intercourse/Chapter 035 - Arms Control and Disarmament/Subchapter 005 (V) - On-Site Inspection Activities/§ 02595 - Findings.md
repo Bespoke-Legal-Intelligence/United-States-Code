@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) under this chapter, the United States Arms Control and Disarmament Agency is charged with the “formulation and implementation of United States arms control and disarmament policy in a manner which will promote the national security”;
 
-&emsp;(2) as defined in this chapter, the terms “arms control” and “disarmament” mean “the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control”;
+&emsp;(2) as defined in this chapter, the terms “arms control” and “disarmament” mean “the identification, verification, inspection, limitation, control, reduction, or elimination,of armed forces and armaments of all kinds under international agreement to establish an effective system of international control”;
 
 &emsp;(3) the On-Site Inspection Agency was established in 1988 pursuant to the INF Treaty to implement, on behalf of the United States, the inspection provisions of the INF Treaty;
 
@@ -72,7 +72,7 @@ Findings Concerning On-Site Inspection Personnel.—Congress makes the following
 
 &emsp;“(5) On-site inspection procedures are likely to be an integral part of any future arms control treaty or agreement.
 
-&emsp;“(6) Personnel requirements will be extensive for such on-site inspection procedures, both in terms of numbers of personnel and technical and linguistic skills. Since verification requirements for the INF Treaty are already placing severe stress on current personnel resources, the requirements for verification under START and other possible future treaties and agreements may quickly exceed the current number of verification personnel having necessary technical and language skills.
+&emsp;“(6) Personnel requirements will be extensive for such on-site inspection procedures, both in terms ofnumbers of personnel and technical and linguistic skills. Since verification requirements for the INF Treaty are already placing severe stress on current personnel resources, the requirements for verification under START and other possible future treaties and agreements may quickly exceed the current number of verification personnel having necessary technical and language skills.
 
 &emsp;“(7) There is a clear need for a database of the names of individuals who are members of the Armed Forces or civilian employees of the United States Government, or of other citizens and nationals of the United States, who are qualified (by reason of technical or language skills) to participate in on-site inspections under an arms control treaty or agreement.
 

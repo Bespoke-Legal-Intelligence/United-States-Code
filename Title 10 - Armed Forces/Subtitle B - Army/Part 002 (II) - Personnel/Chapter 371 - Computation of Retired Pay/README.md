@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 3991\. | Computation of retired pay. |
+| [3991\.](%C2%A7%2003991%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
 | [3992\.](%C2%A7%2003992%20-%20Recomputation%20of%20retired%20pay%20to%20reflect%20advancement%20on%20retired%20list.md) | Recomputation of retired pay to reflect advancement on retired list. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

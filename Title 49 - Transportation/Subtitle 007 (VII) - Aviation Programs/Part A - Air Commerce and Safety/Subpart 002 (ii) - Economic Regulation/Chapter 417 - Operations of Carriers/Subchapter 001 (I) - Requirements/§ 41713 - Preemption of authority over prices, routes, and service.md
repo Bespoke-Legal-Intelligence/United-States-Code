@@ -26,7 +26,7 @@ Matters not covered.—Subparagraph (A)—
 
 &emsp;&emsp;(i) shall not restrict the safety regulatory authority of a State with respect to motor vehicles, the authority of a State to impose highway route controls or limitations based on the size or weight of the motor vehicle or the hazardous nature of the cargo, or the authority of a State to regulate motor carriers with regard to minimum amounts of financial responsibility relating to insurance requirements and self-insurance authorization; and
 
-&emsp;&emsp;(ii) does not apply to the transportation of household goods, as defined in section 10102 of this title.
+&emsp;&emsp;(ii) does not apply to the transportation of household goods, as defined in section 10102 <sup>1</sup> of this title.
 
 &emsp;(C)
 
@@ -80,6 +80,10 @@ In subsection (b)(1), the word “rule” is omitted as being synonymous with �
 
 In subsection (b)(2), the words “pursuant to a certificate issued by the Board”, “by air of persons, property, or mail”, and “the State of” are omitted as surplus.
 
+#### References in Text
+
+Section 10102 of this title, referred to in subsec. (b)(4)(B)(ii), was omitted and a new section 10102 enacted in the general amendment of subtitle IV of this title by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 806. The new section 10102 does not define “household goods”. However, that term is defined in section 13102 of this title.
+
 #### Amendments
 
 1994—Subsec. (b)(2). Pub. L. 103–305, §601(b)(2)(A), substituted “Paragraphs (1) and (4) of this subsection do” for “Paragraph (1) of this subsection does”.
@@ -92,5 +96,7 @@ Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 11501 of this title.
+This section is referred to in section 14501 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Section 3002 of Pub. L. 102–587 provided that: “The Congress finds the follo
 
 &emsp;“(3) An accurate assessment of marine mammal health, health trends in marine mammal populations in the wild, and causes of marine mammal unusual mortality events cannot be made without adequate reference data on marine mammals and the environment in which they live.
 
-&emsp;“(4) A systematic assessment of the sources, presence, levels, and effects of potentially harmful contaminants on marine mammals would provide a better understanding of some of the causes of marine mammal unusual mortality events and may serve as an indicator of the general health of our coastal and marine environments.
+&emsp;“(4) A systematic assessment of the sources, presence, levels, and effects of potentially harmful contaminants on marine mammals would provide a better understanding of some of the causes of marinemammal unusual mortality events and may serve as an indicator of the general health of our coastal and marine environments.
 
 &emsp;“(5) Responses to marine mammal unusual mortality events are often uncoordinated, due to the lack of sufficient contingency planning.
 

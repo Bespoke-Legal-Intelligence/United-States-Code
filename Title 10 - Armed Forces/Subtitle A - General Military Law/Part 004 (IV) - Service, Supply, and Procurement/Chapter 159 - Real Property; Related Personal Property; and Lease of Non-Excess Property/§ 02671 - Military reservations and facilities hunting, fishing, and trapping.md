@@ -1,6 +1,6 @@
 ### §2671. Military reservations and facilities: hunting, fishing, and trapping
 
-(a) The Secretary of Defense shall, with respect to each military installation or facilityunder the jurisdiction of any military department in a State or Territory—
+(a) The Secretary of Defense shall, with respect to each military installation or facility under the jurisdiction of any military department in a State or Territory—
 
 &emsp;(1) require that all hunting, fishing, and trapping at that installation or facility be in accordance with the fish and game laws of the State or Territory in which it is located;
 

@@ -44,5 +44,5 @@ In subsection (b)(1), the reference to section 31136 was in the original “sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31132, 31134 of this title.
+This section is referred to in sections 31102, 31132, 31134 of this title.
 

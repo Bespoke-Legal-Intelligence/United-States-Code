@@ -8,3 +8,31 @@ The President is authorized to utilize the services of the Federal Highway Admin
 
 1973—Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads”.
 
+#### Pan American Highway Study
+
+Pub. L. 104–59, title III, §359(a), Nov. 28, 1995, 109 Stat. 626, provided that:
+
+“(1)
+
+Study.—The Secretary shall conduct a study on the adequacy of and the need for improvements to the Pan American Highway.
+
+“(2)
+
+Elements.—The study shall include, at a minimum, the following elements:
+
+&emsp;“(A) Findings on the benefits of constructing a highway at Darien Gap, Panama and Colombia.
+
+&emsp;“(B) Recommendations for a self-financing arrangement for completion and maintenance of the Pan American Highway.
+
+&emsp;“(C) Recommendations for establishing a Pan American highway authority to monitor financing, construction, maintenance, and operations of the Pan American Highway.
+
+&emsp;“(D) Findings on the benefits to trade and prosperity of a more efficient Pan American Highway.
+
+&emsp;“(E) Findings on the benefits to United States industry resulting from the use of United States technology and equipment in construction of improvements to the Pan American Highway.
+
+&emsp;“(F) Findings on environmental considerations, including environmental considerations relating to Darien Gap.
+
+“(3)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[Nov. 28, 1995\], the Secretary shall transmit to Congress a report on the results of the study.”
+

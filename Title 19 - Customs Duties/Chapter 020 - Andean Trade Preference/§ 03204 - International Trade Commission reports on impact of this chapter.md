@@ -8,7 +8,7 @@ The United States International Trade Commission (hereinafter in this section re
 
 &emsp;(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 3206(b) of this title.
 
-> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insularpossessions of the United States shall be considered to be United States industries.
+> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.
 
 #### (b) Report requirements
 

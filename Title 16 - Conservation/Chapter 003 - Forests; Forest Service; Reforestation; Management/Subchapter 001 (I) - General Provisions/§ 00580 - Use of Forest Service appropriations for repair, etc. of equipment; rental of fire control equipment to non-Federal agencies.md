@@ -8,9 +8,9 @@ Appropriations for the work of the Forest Service available for the operation, r
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.
 
-#### Similar Provisions
+#### Prior Provisions
 
-Provisions similar to this were carried in the following Department of Agriculture Appropriation Acts:
+Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts:
 
 June 28, 1944, ch. 296, 58 Stat. 443.
 

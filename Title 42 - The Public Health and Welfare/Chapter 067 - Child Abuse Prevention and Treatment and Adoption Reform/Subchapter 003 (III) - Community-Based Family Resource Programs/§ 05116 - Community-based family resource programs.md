@@ -8,7 +8,7 @@ The purpose of this subchapter is to assist each State to develop and implement,
 
 The Secretary shall make grants to States on a formula basis for the purpose of—
 
-&emsp;(1) establishing and expanding statewide networks of community-based family resource programs, including funds for the initial costs of providing specific family resource services, that ensure family involvement in the design and operation of family resource programs which are responsive to the unique and diverse strengths of children and families;
+&emsp;(1) establishing and expanding statewide networks of community-based family resource programs, including funds for the initial costs of providing specific family resource services, that ensure family involvement in the design and operation of family resource programswhich are responsive to the unique and diverse strengths of children and families;
 
 &emsp;(2) promoting child abuse and neglect prevention activities;
 
@@ -56,7 +56,7 @@ No grant may be made to any eligible State under this section unless an applicat
 
 &emsp;(1) a description of the agency designated by the Chief Executive Officer of the State to administer the funds provided under this section and assume responsibility for implementation and oversight of the family resource programs and other child abuse and neglect prevention activities, and an assurance that the agency so designated—
 
-&emsp;&emsp;(A) is the trust fund advisory board, or an existing organization created by executiveorder or State statute that is not an existing State agency, that has interdisciplinary governance, including participants from communities, and that integrates family resource services and leverages State, Federal, and private funds for family resource programs; or
+&emsp;&emsp;(A) is the trust fund advisory board, or an existing organization created by executive order or State statute that is not an existing State agency, that has interdisciplinary governance, including participants from communities, and that integrates family resource services and leverages State, Federal, and private funds for family resource programs; or
 
 &emsp;&emsp;(B) with respect to a State without a trust fund mechanism or other organization that meets the requirements of subparagraph (A), is an existing State agency, or other public, quasi-public, or nonprofit private agency responsible for the development and implementation of a statewide network of community-based family resource programs;
 
@@ -240,7 +240,7 @@ As used in this section:
 
 #### (7) Outreach services
 
-&emsp;The term “outreach services” means services provided to ensure (through home visits or other methods) that parents and other caretakers are aware of and able to participate in family resource program activities.
+&emsp;The term “outreach services” means services provided to ensure (through home visitsor other methods) that parents and other caretakers are aware of and able to participate in family resource program activities.
 
 #### (8) Respite services
 
@@ -284,7 +284,7 @@ Section 5116c, Pub. L. 93–247, title II, §204, formerly Pub. L. 98–473, tit
 
 Section 5116d, Pub. L. 93–247, title II, §205, formerly Pub. L. 98–473, title IV, §406, Oct. 12, 1984, 98 Stat. 2198; renumbered §205 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), (2), 4(e), Oct. 25, 1989, 103 Stat. 764, 766, 767; Pub. L. 102–295, title I, §124, May 28, 1992, 106 Stat. 198, related to grant allotments, required use of grants, and grant application requirements.
 
-Section 5116e, Pub. L. 93–247, title II, §206, formerly Pub. L. 98–473, title IV, §407, Oct. 12, 1984, 98 Stat. 2199;renumbered §206 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(f), Oct. 25, 1989, 103 Stat. 764, 766, 768, related to withholding of grant payments upon failure to comply with provisions of this subchapter.
+Section 5116e, Pub. L. 93–247, title II, §206, formerly Pub. L. 98–473, title IV, §407, Oct. 12, 1984, 98 Stat. 2199; renumbered §206 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(f), Oct. 25, 1989, 103 Stat. 764, 766, 768, related to withholding of grant payments upon failure to comply with provisions of this subchapter.
 
 Section 5116f, Pub. L. 93–247, title II, §207, formerly Pub. L. 98–473, title IV, §408, Oct. 12, 1984, 98 Stat. 2199; renumbered §207 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(g), Oct. 25, 1989, 103 Stat. 764, 766, 768, related to audits of grant recipients.
 

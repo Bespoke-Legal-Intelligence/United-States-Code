@@ -6,7 +6,7 @@ It shall be unlawful to make entry of any vessel or to unlade the cargo or any p
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §447, 42 Stat. 953. That section was superseded by section 447 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §447, 42 Stat. 953. That section was superseded by section 447 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions concerning the place of entry and unlading of foreign vessels and vessels from foreign ports were contained in R.S. §§2770 and 2771, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

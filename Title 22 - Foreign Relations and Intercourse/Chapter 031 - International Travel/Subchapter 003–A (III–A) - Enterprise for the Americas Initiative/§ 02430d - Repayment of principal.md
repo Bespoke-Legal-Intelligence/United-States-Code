@@ -6,7 +6,7 @@ The principal amount of each new obligation issued pursuant to section 2430c(b) 
 
 #### (b) Deposit of payments
 
-Principal repayments of new obligations shall be deposited in the United States Government account established for principal repayments of the obligations for which those obligations were exchanged.
+Principal repayments of new obligations shall be deposited in the United States Governmentaccount established for principal repayments of the obligations for which those obligations were exchanged.
 
 (Pub. L. 87–195, pt. IV, §705, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3666.)
 

@@ -1,6 +1,12 @@
 ### §4855. Cost overruns
 
-Any amount required to complete any capital project described in the Department of State's Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year, which is in excess of the amount made available for that project pursuant to section 4851(a)(1) or (3) shall be treated as a reprogramming of funds under section 2706 of this title andshall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogrammings.
+Any amount required to complete any capital project described in the Department of State's Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year, which is in excess of the amount made available for that project pursuant to section 4851(a)(1) or (3) <sup>1</sup> shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogrammings.
 
 (Pub. L. 99–399, title IV, §405, Aug. 27, 1986, 100 Stat. 865.)
+
+#### References in Text
+
+Section 4851(a)(3) of this title, referred to in text, was repealed by Pub. L. 103–236, title I, §101(c), Apr. 30, 1994, 108 Stat. 388.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

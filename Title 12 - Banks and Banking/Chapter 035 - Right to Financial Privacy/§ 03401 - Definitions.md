@@ -76,7 +76,7 @@ Section 1100 of title XI of Pub. L. 95–630 provided that: “This title \[enac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3412 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q; title 18 section 1030.
+This section is referred to in section 3412 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q, 1681u; title 18 section 1030; title 50 section 438.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the Director,”.</i>
 

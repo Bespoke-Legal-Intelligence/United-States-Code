@@ -12,7 +12,7 @@ Within 1 year after October 24, 1992, the Secretary shall establish a program fo
 
 #### (b) Loan terms
 
-The Secretary, to the extent practicable, shall establish reasonable terms for loans made under this subsection, with preference given to repayment schedules that enable such loans to be repaid by the borrower from the cost differential between gasoline and the alternative fuel on which the motor vehicle operates.
+The Secretary, to the extent practicable, shall establish reasonable terms for loans made underthis subsection, with preference given to repayment schedules that enable such loans to be repaid by the borrower from the cost differential between gasoline and the alternative fuel on which the motor vehicle operates.
 
 #### (c) Criteria
 

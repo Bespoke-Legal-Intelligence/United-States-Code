@@ -10,7 +10,7 @@ No grant may be made under this section unless an application therefor is submit
 
 &emsp;(1) provide assurances that the program to be conducted under this section will be operated in areas within the State which are specifically selected to provide convenient locations for the provision of services to the maximum feasible number of individuals who are deaf;
 
-&emsp;(2) include a plan which describes, in sufficient detail, the manner in which interpreter referral services will be coordinated with the information and referral programs required under section 721(a)(22) of this title;
+&emsp;(2) include a plan which describes, in sufficient detail, the manner in which interpreter referral services will be coordinated with theinformation and referral programs required under section 721(a)(22) of this title;
 
 &emsp;(3) provide assurances that the program will seek to enter into contractual or other arrangements, to the extent appropriate, with private nonprofit organizations comprised of primarily hearing-impaired individuals (or private nonprofit organizations which have the primary purpose of providing assistance or services to hearing-impaired individuals) for the operation of such programs;
 
@@ -24,7 +24,7 @@ Any designated State unit receiving funds under this section may provide interpr
 
 #### (d) Restrictions on use of funds
 
-Funds provided to any designated State unit for any program under this section shall not beused for any administrative or related costs, nor shall such funds be used for assistance to individuals who are deaf and who are receiving rehabilitation services under any other provision of this chapter.
+Funds provided to any designated State unit for any program under this section shall not be used for any administrative or related costs, nor shall such funds be used for assistance to individuals who are deaf and who are receiving rehabilitation services under any other provision of this chapter.
 
 (Pub. L. 93–112, title III, §315, as added Pub. L. 95–602, title I, §116(2), Nov. 6, 1978, 92 Stat. 2975; amended Pub. L. 102–569, title I, §102(p)(24), Oct. 29, 1992, 106 Stat. 4359.)
 

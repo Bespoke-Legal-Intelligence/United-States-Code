@@ -66,7 +66,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting underground injection but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
-(July 1, 1944, ch. 373, title XIV, §1423, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1677; amended Dec. 5, 1980, Pub. L. 96–502, §2(b), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §202, 100 Stat. 654.)
+(July 1, 1944, ch. 373, title XIV, §1423, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1677;amended Dec. 5, 1980, Pub. L. 96–502, §2(b), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §202, 100 Stat. 654.)
 
 #### Amendments
 

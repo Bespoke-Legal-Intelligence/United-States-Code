@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Center for Substance Abuse Treatment,may make grants to States for the purpose of increasing the maximum number of individuals to whom public and nonprofit private entities in the States are capable of providing effective treatment for substance abuse.
+&emsp;The Secretary, acting through the Director of the Center for Substance Abuse Treatment, may make grants to States for the purpose of increasing the maximum number of individuals to whom public and nonprofit private entities in the States are capable of providing effective treatment for substance abuse.
 
 #### (2) Eligible States
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (j) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated$86,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of carrying out this section, there are authorized to be appropriated $86,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
 (July 1, 1944, ch. 373, title XIX, §1971, as added July 10, 1992, Pub. L. 102–321, title II, §204, 106 Stat. 410; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(13), 106 Stat. 939.)
 

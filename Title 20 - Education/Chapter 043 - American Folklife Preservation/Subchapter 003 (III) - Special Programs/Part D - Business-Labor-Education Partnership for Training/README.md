@@ -2,7 +2,7 @@ Part D—Business-Labor-Education Partnership for Training
 
 #### Prior Provisions
 
-A prior part D, consisting of sections 2381 to 2383, was redesignated part C by Pub. L. 101 392, title III, §306(a)(1), (b), Sept. 25, 1990, 104 Stat. 786, 787.
+A prior part D, consisting of sections 2381 to 2383, was redesignated part C by Pub. L. 101–392, title III, §306(a)(1), (b), Sept. 25, 1990, 104 Stat. 786, 787.
 
 #### Part Referred to in Other Sections
 

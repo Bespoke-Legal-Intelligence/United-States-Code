@@ -1,4 +1,4 @@
-### §8019 . General Counsel
+### §8019. General Counsel
 
 (a) There is a General Counsel of the Department of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 

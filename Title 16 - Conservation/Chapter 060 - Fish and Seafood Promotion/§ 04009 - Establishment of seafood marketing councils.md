@@ -18,7 +18,7 @@ An application for a charter for a council shall be made by filing with the Secr
 
 &emsp;(5) the identification of those sectors (including the sector consisting of harvesters, the sector consisting of receivers, and, if subject to assessment, the sector consisting of importers) subject to a referendum to establish a council under subsection (e) of this section;
 
-&emsp;(6) a specification for each sector described under paragraph (5) of this subsection of theminimum requirements, as measured by income, volume, or other relevant factors, that a person engaging in business in the sector must meet in order to participate in a referendum;
+&emsp;(6) a specification for each sector described under paragraph (5) of this subsection of the minimum requirements, as measured by income, volume, or other relevant factors, that a person engaging in business in the sector must meet in order to participate in a referendum;
 
 &emsp;(7)(A) a description of the procedures for determining assessment rates under section 4012 of this title;
 
@@ -50,7 +50,7 @@ The Secretary may not approve a proposed charter filed under subsection (a) of t
 
 &emsp;(A) identify, to the extent practicable, those sector participants that meet the requirements for eligibility to participate in the referendum under subsection (e) of this section;
 
-&emsp;(B) determine, to the extent practicable, if the charter is accompanied by a petition comprised of the signatures or corporate certifications, as the case may be, of no less than three sector participants in each sector identified in accordance with subsection (b)(5) of this section who collectively accounted for, in the twelve-month period immediately preceding the month in which the application was filed, not less than 10 percent of the value of the fish or fish products described in accordance with subsection (b)(3) of this section that were handled by each such sector during that period; and
+&emsp;(B) determine, to the extent practicable, if the charter is accompanied by a petition comprised of the signatures or corporate certifications, as the case may be, of no less than three sector participants in each sector identified in accordance with subsection (b)(5) ofthis section who collectively accounted for, in the twelve-month period immediately preceding the month in which the application was filed, not less than 10 percent of the value of the fish or fish products described in accordance with subsection (b)(3) of this section that were handled by each such sector during that period; and
 
 &emsp;(C) determine if the proposed charter is consistent with the provisions of this chapter and any other applicable law.
 
@@ -68,7 +68,7 @@ The Secretary may not approve a proposed charter filed under subsection (a) of t
 
 (3)(A) The Secretary shall pay all costs of a referendum which establishes a council under this subsection. Within two years after a council is established the council shall reimburse the Secretary for any expenses incurred for the conduct of the referendum from assessments collected by the council. Prior to the holding of a referendum under this subsection, the Secretary shall require the applicants to post a bond or other security acceptable to the Secretary, in an amount which the Secretary determines to be sufficient to pay any expenses incurred for the conduct of the referendum, and shall immediately recover such amount if a referendum fails to result in the establishment of a council.
 
-(B) As used in this paragraph, the term “expenses incurred for the conduct of the referendum” does not include salaries of Government employees or other administrative overhead, butis limited to those additional direct costs incurred in connection with conduct of the referendum.
+(B) As used in this paragraph, the term “expenses incurred for the conduct of the referendum” does not include salaries of Government employees or other administrative overhead, but is limited to those additional direct costs incurred in connection with conduct of the referendum.
 
 #### (f) Nominations
 

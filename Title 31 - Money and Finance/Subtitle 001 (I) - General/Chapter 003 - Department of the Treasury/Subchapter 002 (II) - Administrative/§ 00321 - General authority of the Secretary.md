@@ -44,9 +44,11 @@
 
 &emsp;&emsp;(C) paid from the appropriations for suppressing counterfeiting and other crimes may be so detailed;
 
-&emsp;(5) authorize, at rates and under conditions prescribed by the Secretary, the private use of telephone lines controlled by the Department when the use does not interfere with Department business; and
+&emsp;(5) authorize, at rates and under conditions prescribed by the Secretary, the private use of telephone lines controlled by the Department when the use does not interfere with Department business;
 
-&emsp;(6) buy arms and ammunition required by officers and employees of the Department in carrying out their duties and powers.
+&emsp;(6) buy arms and ammunition required by officers and employees of the Department in carrying out their duties and powers; and
+
+&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on thebooks of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if the Secretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
 
 (c) Duties and powers of officers and employees of the Department are vested in the Secretary except duties and powers—
 
@@ -68,7 +70,7 @@
 
 Certain Reorganization Prohibited.—The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, §445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, §307(b), (d), Aug. 9, 1989, 103 Stat. 353.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, §445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, §307(b), (d), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–66, title I, §1132(b), Dec. 21, 1995, 109 Stat. 725.)
 
 Historical and Revision Notes
 
@@ -192,7 +194,7 @@ In subsection (a)(3), the word “issue” is substituted for “shall grant” 
 
 Subsection (a)(4) is included to reflect all the major duties of the Secretary of the Treasury. See chapter 51 of the revised title.
 
-In subsection (a)(5), before subclause (A), the words “prescribe regulations” are substituted for “make and issue from time to time such instructions and regulations” for consistency in the revised title and to eliminate unnecessary words. The words “applicable to anyone” are substituted for “to the several collectors, receivers, depositaries, officers, and others” for clarity and to eliminate unnecessary words. In subclause (A), the words “for the Government” are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase “in behalf of the United States”. In subclause (B), the words “those notes and securities” are substituted for “the same” for clarity.
+In subsection (a)(5), before subclause (A), the words “prescribe regulations” are substituted for “make and issue from time to time such instructions and regulations” for consistency in the revised title and to eliminate unnecessary words. The words “applicable to anyone” are substituted for “to the several collectors, receivers, depositaries, officers, and others” for clarity and to eliminate unnecessary words. In subclause (A),the words “for the Government” are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase “in behalf of the United States”. In subclause (B), the words “those notes and securities” are substituted for “the same” for clarity.
 
 In subsection (a)(6), the word “collect” is substituted for “superintend the collection” because of the source provisions restated in section 321(c) of the revised title. The word “receipts” is substituted for “revenue” for consistency in the revised title.
 
@@ -214,6 +216,8 @@ In subsection (b)(6), the word “buy” is substituted for “make expenditures
 
 #### Amendments
 
+1995—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
+
 1989—Subsec. (c)(3). Pub. L. 101–73, §307(b), added par. (3).
 
 Subsec. (e). Pub. L. 101–73, §307(d), added subsec. (e).
@@ -223,4 +227,8 @@ Subsec. (e). Pub. L. 101–73, §307(d), added subsec. (e).
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Use of Aircraft in Emergency Law Enforcement Support
+
+Pub. L. 104–52, title I, §107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
 

@@ -1,4 +1,4 @@
-### §412 . Duties of Joint Committee
+### §412. Duties of Joint Committee
 
 #### (a) Congressional improvements, study and recommendations; identification of court proceedings
 

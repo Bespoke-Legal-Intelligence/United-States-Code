@@ -6,7 +6,7 @@
 
 (B) The term of office of the Director shall be 4 years. The Director shall be responsible for the discharge of the functions and duties of the Office. He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under section 5332 of title 5.
 
-(3) The Director may appoint, and assign the duties of, employees of such Office, and with the concurrence of the Commission he may fix the compensation of such employees and procuretemporary and intermittent services to the same extent as is authorized under section 3109 of title 5.
+(3) The Director may appoint, and assign the duties of, employees of such Office, and with the concurrence of the Commission he may fix the compensation of such employees and procure temporary and intermittent services to the same extent as is authorized under section 3109 of title 5.
 
 (b)(1) The Director shall coordinate assistance to the public with respect to authorities exercised by the Commission. The Director shall also coordinate assistance available to persons intervening or participating or proposing to intervene or participate in proceedings before the Commission.
 

@@ -16,7 +16,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(7) “Interstate commerce” means commerce between any point in a State and any point outside thereof, or between points within the same State but through any place outside thereof, but only insofar as such commerce takes place within the United States.
 
-&emsp;(8) “State commission” means the regulatory body of the State or municipality having jurisdiction to regulate rates and chargesfor the sale of natural gas to consumers within the State or municipality.
+&emsp;(8) “State commission” means the regulatory body of the State or municipality having jurisdiction to regulate rates and charges for the sale of natural gas to consumers within the State or municipality.
 
 &emsp;(9) “Commission” and “Commissioner” means the Federal Power Commission, and a member thereof, respectively.
 

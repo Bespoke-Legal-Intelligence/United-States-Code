@@ -2,7 +2,7 @@
 
 #### (a) Frequencies; compliance with regulations; stations on vessels
 
-Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to each class by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than acommunication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
+Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to eachclass by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
 
 #### (b) Vessels of Maritime Administration or Inland and Coastwise Waterways Service
 
@@ -64,11 +64,11 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 5. Abolition of Office
 
-That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished. The Director of the Office of Emergency Preparedness shall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
+That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished. The Director of the Office of Emergency Preparednessshall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
 
 #### Sec. 6. Incidental Transfers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, andother funds employed, held, or used by, or available or to be made available to, the Office of Emergency Preparedness in connection with functions affected by the provisions of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Telecommunications Policy at such time or times as he shall direct.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, or used by, or available or to be made available to, the Office of Emergency Preparedness in connection with functions affected by the provisions of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Telecommunications Policy at such time or times as he shall direct.
 
 (b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
@@ -112,7 +112,7 @@ The White House, February 9, 1970.
 
 #### Executive Order No. 10995
 
-Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519, as amended by Ex. Ord. No. 11084, eff. Feb. 18, 1963, 28 F.R. 1531, which related to the assignment of telecommunications management functions, was revoked by Ex. Ord. No. 11556, eff. Sept. 14, 1970, 35 F.R. 14193, formerly set out below.
+Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519, as amended by Ex. Ord. No. 11084, eff. Feb. 18, 1963, 28 F.R.1531, which related to the assignment of telecommunications management functions, was revoked by Ex. Ord. No. 11556, eff. Sept. 14, 1970, 35 F.R. 14193, formerly set out below.
 
 #### Executive Order No. 11556
 

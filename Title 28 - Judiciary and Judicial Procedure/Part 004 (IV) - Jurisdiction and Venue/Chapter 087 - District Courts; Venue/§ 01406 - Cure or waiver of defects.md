@@ -1,0 +1,56 @@
+### §1406. Cure or waiver of defects
+
+(a) The district court of a district in which is filed a case laying venue in the wrong division or district shall dismiss, or if it be in the interest of justice, transfer such case to any district or division in which it could have been brought.
+
+(b) Nothing in this chapter shall impair the jurisdiction of a district court of any matter involving a party who does not interpose timely and sufficient objection to the venue.
+
+(c) As used in this section, “district court” includes the United States District Court for the District of the Canal Zone; and “district” includes the territorial jurisdiction of that court.
+
+(June 25, 1948, ch. 646, 62 Stat. 937; May 24, 1949, ch. 139, §81, 63 Stat. 101; Sept. 13, 1960, Pub. L. 86–770, §1, 74 Stat. 912; Oct. 18, 1962, Pub. L. 87–845, §10, 76A Stat. 699; Apr. 2, 1982, Pub. L. 97–164, title I, §132, 96 Stat. 39.)
+
+#### Historical and Revision Notes
+
+#### 1948 Act
+
+Subsection (a) provides statutory sanction for transfer instead of dismissal, where venue is improperly laid.
+
+Subsection (b) is declaratory of existing law. (See <i>Panama R.R. Co. v. Johnson</i>, 1924, 44 S.Ct. 391, 264 U.S. 375, 68 L.Ed. 748.) It makes clear the intent of Congress that venue provisions are not jurisdictional but may be waived.
+
+#### 1949 Act
+
+This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”, thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer.
+
+#### Amendments
+
+1982—Subsecs. (c), (d). Pub. L. 97–164 redesignated subsec. (d) as (c). Former subsec. (c), which provided that if a case within the exclusive jurisdiction of theCourt of Claims were filed in a district court, the district court, if it were in the interest of justice, was required to transfer the case to the Court of Claims where the case would proceed as if it had been filed in the Court of Claims on the date that it was filed in the district court, was struck out.
+
+1962—Subsec. (d). Pub. L. 87–845 added subsec. (d).
+
+1960—Subsec. (c). Pub. L. 86–770 added subsec. (c).
+
+1949—Subsec. (a). Act May 24, 1949, inserted “dismiss, or if it be in the interest of justice”.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
+
+#### Effective Date of 1962 Amendment
+
+Amendment by Pub. L. 87–845 effective Jan. 2, 1962, see section 25 of Pub. L. 87–845, set out as a note under section 14 of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date of 1960 Amendment
+
+Section 4 of Pub. L. 86–770 provided in part that: “The amendments made by sections 1 and 2 of this Act \[adding subsec. (c) of this section and section 1506 of this title\] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act \[Sept. 13, 1960\] in the district courts or the Court of Claims.”
+
+#### Termination of United States District Court for the District of the Canal Zone
+
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+
+#### Cross References
+
+Equal employment opportunity provisions, judicial district of principal office as district in which action might have been brought, see section 2000e–5 of Title 42, The Public Health and Welfare.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 2000e–5.
+

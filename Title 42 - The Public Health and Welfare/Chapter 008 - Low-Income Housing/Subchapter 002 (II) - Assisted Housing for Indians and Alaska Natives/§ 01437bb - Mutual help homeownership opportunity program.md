@@ -46,7 +46,7 @@ The Secretary shall carry out a mutual help homeownership opportunity program fo
 
 #### (B) Limitation on number of units
 
-&emsp;&emsp;The number of dwelling units in any project assisted under this section that may be occupied by or reserved for families on Indian reservations and other Indian areas whose incomes exceed the levels established for low-income families may not exceed whichever of the following is higher:
+&emsp;&emsp;The number of dwelling units in any project assisted under this section that may be occupied by or reserved for families on Indian reservations and other Indian areaswhose incomes exceed the levels established for low-income families may not exceed whichever of the following is higher:
 
 #### (i) 10 percent
 

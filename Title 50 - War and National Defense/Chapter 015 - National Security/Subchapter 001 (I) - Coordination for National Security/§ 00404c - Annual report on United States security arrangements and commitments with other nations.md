@@ -30,11 +30,9 @@ The President shall include in each such report the following:
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as part of the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as partof the National Security Act of 1947 which comprises this chapter.
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

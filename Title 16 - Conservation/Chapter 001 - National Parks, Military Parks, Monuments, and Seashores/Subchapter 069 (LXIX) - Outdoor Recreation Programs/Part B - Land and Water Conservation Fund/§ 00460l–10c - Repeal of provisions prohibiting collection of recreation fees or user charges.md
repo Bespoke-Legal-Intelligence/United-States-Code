@@ -6,7 +6,7 @@ All provisions of law that prohibit the collection of entrance, admission, or ot
 
 #### Codification
 
-In addition to the text set out in the section above, the original contained provisions directing the repealof section 14 of this title and the deletion of “, without charge,” in the sentence of section 460d of this title beginning “The water areas of all such projects shall be open to public use generally”. The repeals and deletions called for by those provisions were executed as thus directed so that those provisions have been omitted from the text as executed.
+In addition to the text set out in the section above, the original contained provisions directing the repeal of section 14 of this title and the deletion of “, without charge,” in the sentence of section 460d of this title beginning “The water areas of all such projects shall be open to public use generally”. The repeals and deletions called for by those provisions were executed as thus directed so that those provisions have been omitted from the text as executed.
 
 Section formerly constituted the fourth paragraph of section 2(a) of Pub. L. 88–578 which was classified to section 460<i>l</i>–5(a) of this title. The paragraph was lifted out of section 2(a) and redesignated section 10 by section 1(a) of Pub. L. 90–401, which, for purposes of classification, resulted in the designation of the paragraph as section 460<i>l</i>–10c of this title \[this section\].
 

@@ -94,7 +94,7 @@ Section was formerly classified to former section 579 of this title subsequent t
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §514, 42 Stat. 969. That section was superseded by section 514 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §514, 42 Stat. 969. That section was superseded by section 514 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days after payment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in the Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III, N, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

@@ -166,7 +166,7 @@ Section 130007, referred to in subsec. (d), is section 130007 of Pub. L. 103–3
 
 Section 250005, referred to in subsec. (d), is section 230005 of Pub. L. 103–322, 108 Stat. 2086, which is not classified to the Code.
 
-Sections 10001–10003, referred to in subsec. (d), are sections 10001–10003 of Pub. L. 103–322, 108 Stat. 1807, whichenacted subchapter XII–E (§3796dd et seq.) of chapter 46 of this title, amended sections 3793 and 3797 of this title, and enacted provisions set out as notes under sections 3711 and 3796dd of this title.
+Sections 10001–10003, referred to in subsec. (d), are sections 10001–10003 of Pub. L. 103–322, 108 Stat. 1807, which enacted subchapter XII–E (§3796dd et seq.) of chapter 46 of this title, amended sections 3793 and 3797 of this title, and enacted provisions set out as notes under sections 3711 and 3796dd of this title.
 
 Section 210201, referred to in subsec. (d), is section 210201 of Pub. L. 103–322, 108 Stat. 2062, which enacted subchapter XII–K (§3796jj et seq.) of chapter 46 of this title and amended sections 3793 and 3797 of this title.
 

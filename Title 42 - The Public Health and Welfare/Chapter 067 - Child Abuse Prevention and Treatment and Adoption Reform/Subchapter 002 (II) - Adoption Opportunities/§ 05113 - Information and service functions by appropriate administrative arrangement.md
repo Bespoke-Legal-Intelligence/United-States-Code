@@ -20,7 +20,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(6) continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;
 
-&emsp;(7) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried outby such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
+&emsp;(7) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
 
 &emsp;(8) maintain (directly or by grant to or contract with public or private nonprofit agencies or organizations) a National Resource Center for Special Needs Adoption to—
 
@@ -88,7 +88,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 (B) Any payment made to a State under this subsection which is not used by such State for the purpose provided in paragraph (1) during the fiscal year payment is made shall revert to the Secretary on October 1st of the next fiscal year and shall be used to carry out the purposes of this subchapter.
 
-(Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9,1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213.)
+(Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213.)
 
 #### Amendments
 

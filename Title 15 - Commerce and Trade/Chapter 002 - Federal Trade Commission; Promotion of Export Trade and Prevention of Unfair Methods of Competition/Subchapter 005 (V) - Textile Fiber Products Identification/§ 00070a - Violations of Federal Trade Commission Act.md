@@ -2,7 +2,7 @@
 
 #### (a) Introduction or manufacture for introduction into commerce, sale, advertising or offering for sale in commerce
 
-The introduction, delivery for introduction, manufacture for introduction, sale, advertising, or offering for sale, in commerce, or the transportation or causing to be transported in commerce, or the importation into the United States, of any textile fiber product which is misbranded or falsely or deceptively advertised within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method ofcompetition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The introduction, delivery for introduction, manufacture for introduction, sale, advertising, or offering for sale, in commerce, or the transportation or causing to be transported in commerce, or the importation into the United States, of any textile fiber product which is misbranded or falsely or deceptively advertised within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (b) Sale, offering for sale, advertising, delivery, transportation of products advertised for sale in commerce
 
@@ -10,7 +10,7 @@ The sale, offering for sale, advertising, delivery, transportation, or causing t
 
 #### (c) Sale, offering for sale, advertising, delivery, transportation of products after shipment in commerce
 
-The sale, offering for sale, advertising, delivery, transportation, or causing to be transported, after shipment in commerce, of any textile fiber product, whether in its original state or contained in other textile fiber products, which is misbranded or falsely or deceptively advertised, within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The sale, offering for sale, advertising, delivery, transportation, or causing to be transported, after shipment in commerce, of any textile fiber product, whether in its original state or contained in other textile fiber products, which is misbranded or falsely or deceptively advertised, within the meaning of this subchapteror the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (d) Application of section to common carrier, freight forwarder, etc.
 

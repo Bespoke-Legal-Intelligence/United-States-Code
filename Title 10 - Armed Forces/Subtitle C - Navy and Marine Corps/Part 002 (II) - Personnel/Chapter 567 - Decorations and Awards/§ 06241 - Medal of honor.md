@@ -40,3 +40,7 @@ Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 11
 
 Award of Medal of Honor to members of Army and Air Force, see sections 3741 and 8741 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 704.
+

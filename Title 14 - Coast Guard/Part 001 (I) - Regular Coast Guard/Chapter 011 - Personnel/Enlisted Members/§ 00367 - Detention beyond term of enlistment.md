@@ -28,7 +28,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowances for any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972 of Title 10, Armed Forces.
 
-Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) which required enlisted members to make good time lost by unauthorized absence from duty, or by confinement under sentence or pending trial, or by reason of sickness resulting from misconduct. See section 972 of Title 10.
+Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) which required enlisted members to make good time lost by unauthorized absence fromduty, or by confinement under sentence or pending trial, or by reason of sickness resulting from misconduct. See section 972 of Title 10.
 
 1950—Subsec. (c). Act Aug. 3, 1950, added subsec. (c).
 
@@ -38,5 +38,5 @@ Inclusion of conditions in enlistment contract, see section 369 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 366, 369 of this title.
+This section is referred to in sections 366, 369 of this title; title 38 section 4312.
 

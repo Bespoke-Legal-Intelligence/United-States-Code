@@ -66,7 +66,7 @@
 
 &emsp;(I) Except as provided in subclause (II) or (III), the term “unfunded vested benefits” means the amount which would be the unfunded current liability (within the meaning of section 1082(d)(8)(A) of this title) if only vested benefits were taken into account.
 
-&emsp;(II) The interest rate used in valuing vested benefits for purposes of subclause (I) shall be equal to the applicable percentage of the annual yield on 30-year Treasury securities for the month preceding the month in which the plan year begins. For purposes of this subclause, the applicable percentage is 80 percent for plan years beginning before July 1, 1997, 85 percent for plan years beginning after June 30, 1997, and before the 1st plan year to which the first tables prescribed under section 1082(d)(7)(C)(ii)(II) of this title apply, and 100 percent for such 1st plan year and subsequent plan years.
+&emsp;(II) The interest rate used in valuing vested benefits for purposes of subclause (I) shall be equal to the applicable percentage of the annual yield on 30-year Treasury securities for the month preceding the month in which the plan year begins. For purposes of this subclause, the applicable percentage is 80 percent for plan years beginning before July 1, 1997, 85 percent for plan years beginning after June 30, 1997, and before the 1st plan year to which thefirst tables prescribed under section 1082(d)(7)(C)(ii)(II) of this title apply, and 100 percent for such 1st plan year and subsequent plan years.
 
 &emsp;(III) In the case of any plan year for which the applicable percentage under subclause (II) is 100 percent, the value of the plan's assets used in determining unfunded current liability under subclause (I) shall be their fair market value.
 
@@ -116,7 +116,7 @@
 
 (4) A resolution shall be referred to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to moveto discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
+(5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
 (6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
@@ -162,7 +162,7 @@ Subsec. (a)(3)(E)(iv), (v). Pub. L. 103–465, §774(a)(1), redesignated cl. (v)
 
 “(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect to any participant by reason of this subparagraph shall not exceed $53.
 
-“(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st plan year to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each planyear for which such contributions were made in such amount.”
+“(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st planyear to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each plan year for which such contributions were made in such amount.”
 
 1990—Subsec. (a)(3)(A)(i). Pub. L. 101–508, §12021(a)(1), substituted “for plan years beginning after December 31, 1990, an amount equal to the sum of $19” for “for plan years beginning after December 31, 1987, an amount equal to the sum of $16”.
 
@@ -204,7 +204,7 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Transitional Rule
 
-Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by this section \[amending this section\] shall not apply to plan years beginning before the earlier of—
+Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by thissection \[amending this section\] shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(1) January 1, 1998, or
 

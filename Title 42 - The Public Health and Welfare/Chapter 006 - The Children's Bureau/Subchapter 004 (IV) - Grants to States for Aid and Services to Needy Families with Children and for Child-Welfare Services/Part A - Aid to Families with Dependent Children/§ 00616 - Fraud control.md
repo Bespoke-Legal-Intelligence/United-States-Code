@@ -20,7 +20,7 @@ The State agency involved shall proceed against any individual alleged to have c
 
 #### (d) Duration of period of sanctions; review
 
-Any period for which sanctions are imposed under subsection (b) of this section shall remainin effect, without possibility of administrative stay, unless and until the finding upon which the sanctions were imposed is subsequently reversed by a court of appropriate jurisdiction; but in no event shall the duration of the period for which such sanctions are imposed be subject to review.
+Any period for which sanctions are imposed under subsection (b) of this section shall remain in effect, without possibility of administrative stay, unless and until the finding upon which the sanctions were imposed is subsequently reversed by a court of appropriate jurisdiction; but in no event shall the duration of the period for which such sanctions are imposed be subject to review.
 
 #### (e) Additional sanctions provided by law
 

@@ -34,21 +34,21 @@ An academic department or program of an institution of higher education, in its 
 
 &emsp;(9) include such other information as the Secretary may prescribe.
 
-(Pub. L. 89 329, title IX, §944, as added Pub. L. 99 498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1556; amended Pub. L. 102 325, title IX, §901, July 23, 1992, 106 Stat. 770.)
+(Pub. L. 89–329, title IX, §944, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1556; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 770.)
 
 #### Prior Provisions
 
-A prior section 1134<i>o</i>, Pub. L. 89 329, title IX, §952, as added Pub. L. 96 374, title IX, §905, Oct. 3, 1980, 94 Stat. 1488, related to applications for assistance for law school clinical experience programs, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1134<i>o</i>, Pub. L. 89–329, title IX, §952, as added Pub. L. 96–374, title IX, §905, Oct. 3, 1980, 94 Stat. 1488, related to applications for assistance for law school clinical experience programs, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1134<i>o</i>, Pub. L. 89 329, title IX, §962, as added Pub. L. 92 318, title I, §181(a), June 23, 1972, 86 Stat. 310, related to the award of fellowships for other purposes, prior to repeal by section 902(b) of Pub. L. 96 374.
+Another prior section 1134<i>o</i>, Pub. L. 89–329, title IX, §962, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 310, related to the award of fellowships for other purposes, prior to repeal by section 902(b) of Pub. L. 96–374.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, adding par. (8) and redesignating former par. (8) as (9).
+1992—Pub. L. 102–325 amended section generally, adding par. (8) and redesignating former par. (8) as (9).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

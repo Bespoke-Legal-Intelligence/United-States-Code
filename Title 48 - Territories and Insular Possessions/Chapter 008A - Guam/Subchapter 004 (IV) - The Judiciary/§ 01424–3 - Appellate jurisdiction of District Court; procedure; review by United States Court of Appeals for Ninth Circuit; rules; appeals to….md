@@ -10,7 +10,7 @@ Appeals to the District Court of Guam shall be heard and determined by an appell
 
 #### (c) United States Court of Appeals for Ninth Circuit; jurisdiction; appeals; rules
 
-The United States Court of Appeals for the Ninth Circuit shall have jurisdiction of appeals from all final decisions of the appellate division of the district court. The United States Court of Appeals for the Ninth Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this subsection.
+The United States Court of Appeals for the Ninth Circuit shall have jurisdiction of appeals from all final decisions of the appellate division of the district court. The United States Court ofAppeals for the Ninth Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this subsection.
 
 #### (d) Appeals to appellate court; effect on District Court
 

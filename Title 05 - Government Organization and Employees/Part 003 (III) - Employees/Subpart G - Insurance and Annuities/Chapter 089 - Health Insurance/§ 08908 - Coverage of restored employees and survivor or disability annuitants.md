@@ -28,15 +28,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1985—Pub. L. 99–53, §3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
+<b>1985</b>—Pub. L. 99–53, §3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
 
 Subsec. (b). Pub. L. 99–53, §2(a), inserted reference to section 8903a of this title.
 
 Subsec. (c). Pub. L. 99–53, §3(a)(1), added subsec. (c).
 
-1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1976—Pub. L. 94–342 designated existing provisions as subsec. (a), added subsec. (b), and substituted “employees and survivor annuitants” for “employee” in section catchline.
+<b>1976</b>—Pub. L. 94–342 designated existing provisions as subsec. (a), added subsec. (b), and substituted “employees and survivor annuitants” for “employee” in section catchline.
 
 #### Effective Date of 1978 Amendment
 

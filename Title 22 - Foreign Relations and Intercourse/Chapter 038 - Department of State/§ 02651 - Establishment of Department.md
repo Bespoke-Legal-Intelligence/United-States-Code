@@ -12,7 +12,7 @@ Section was formerly classified to section 151 of Title 5 prior to the general r
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\].”
+Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act \[see Short Title of 1987 Amendment notebelow\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\].”
 
 #### Short Title of 1994 Amendment
 
@@ -32,7 +32,7 @@ Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: “This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, section 208 of Title 3, The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, section 1622 of Title 50, War and National Defense, and section 39 of Title 50, Appendix, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291,2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, section 1182 of Title 8, Aliens and Nationality, section 3181 of Title 18, Crimes and Criminal Procedure, section 701 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and section 1701 of Title 50, amending provisions set out as notes under sections 287, 287e, and 2651 of this title, and repealing provisions set out as a note under section 3901 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1986 and 1987’.”
+Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: “This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, section 208 of Title 3, The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, section 1622 of Title 50, War and National Defense, and section 39 of Title 50, Appendix, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, section 1182 of Title 8, Aliens and Nationality, section 3181 of Title 18, Crimes and Criminal Procedure, section 701 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and section 1701 of Title 50, amending provisions set out as notes under sections 287, 287e, and 2651 of this title, and repealing provisions set out as a note under section 3901 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1986 and 1987’.”
 
 #### Short Title of 1976 Amendment
 
@@ -48,7 +48,7 @@ Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: “That this Act 
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–126, §1, Oct. 18, 1973, 87 Stat. 451, provided: “That this Act \[enacting sections 287e–1, 901a, 2655a, and 2685 of this title and amending sections 276, 277d–28, 277d–29, 277d–31, 993, 1754, and 2823 of this title, section 194a of Title 2, The Congress, section 5924 of Title 5, Government Organization and Employees, and provisions set out as a note under section 214 of this title\] may be cited as the ‘Department of State Appropriations Authorization Act of 1973’.”
+Pub. L. 93–126, §1, Oct. 18, 1973, 87 Stat. 451, provided: “That this Act \[enacting sections 287e–1, 901a, 2655a, and 2685 of this title and amending sections 276, 277d–28,277d–29, 277d–31, 993, 1754, and 2823 of this title, section 194a of Title 2, The Congress, section 5924 of Title 5, Government Organization and Employees, and provisions set out as a note under section 214 of this title\] may be cited as the ‘Department of State Appropriations Authorization Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 

@@ -8,7 +8,7 @@ The Board is authorized to inspect and copy all accounts, books, records, memora
 
 The General Accounting Office shall make a detailed audit of all accounts, books, records, and transactions of any borrower with respect to which an application for a loan guarantee is made under this chapter. The General Accounting Office shall report the results of such audit to the Board and to the Congress.
 
-(Pub. L. 92 70, §7, Aug. 9, 1971, 85 Stat. 180.)
+(Pub. L. 92–70, §7, Aug. 9, 1971, 85 Stat. 180.)
 
 #### Section Referred to in Other Sections
 

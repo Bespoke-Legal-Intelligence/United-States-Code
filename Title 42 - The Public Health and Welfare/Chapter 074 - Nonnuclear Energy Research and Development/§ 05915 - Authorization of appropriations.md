@@ -4,7 +4,7 @@
 
 (b) Of the amounts appropriated pursuant to subsection (a) of this section—
 
-&emsp;(1) $500,000 annually shall be made available by fund transfer to the Council on Environmental Quality for the purposes authorized by section 5910 of this title; and
+&emsp;(1) $500,000 annually shall be made available by fund transfer to the Council on Environmental Quality for the purposes authorized by section 5910 <sup>1</sup> of this title; and
 
 &emsp;(2) not to exceed $1,000,000 annually shall be made available by fund transfer to the Water Resources Council for the purposes authorized by section 5912 of this title.
 
@@ -12,9 +12,13 @@
 
 (Pub. L. 93–577, §16, Dec. 31, 1974, 88 Stat. 1894; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
 
+#### References in Text
+
+Section 5910 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 104–66, title II, §2021(i), Dec. 21, 1995, 109 Stat. 727.
+
 #### Transfer of Functions
 
-“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (a) and (c) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (a) and (c) pursuant to sections 301(a), 703,and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 Functions of Council on Environmental Quality and Office of Environmental Quality relating to evaluation provided for by section 5910 of this title transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 1 of 1977, §5E, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by President. Section 6 of Reorg. Plan No. 1 of 1977 authorized Director of Office of Management and Budget to transfer to appropriate agency or department unexpended balances of appropriations, allocations and other funds used, held, or available in connection with functions transferred. Ex. Ord. No. 12040, Feb. 24, 1978, 43 F.R. 8097, set out under section 5910 of this title, provided that transfer of functions of Council on Environmental Quality and Office of Environmental Quality to Administrator of Environmental Protection Agency is effective Feb. 26, 1978.
 
@@ -55,4 +59,6 @@ Pub. L. 96–304, title I, July 8, 1980, 94 Stat. 880–882, as amended Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5821, 5907 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

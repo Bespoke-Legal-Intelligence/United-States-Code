@@ -20,7 +20,7 @@
 | (d) | Duration; recordkeeping requirements. |
 | (e) | Selection of proposed demonstrations; discretionary and mandatory criteria. |
 | [3807\.](%C2%A7%2003807%20-%20Use%20of%20methane-fueled%20vehicles%20by%20Federal%20agencies%20and%20departments.md) | Use of methane-fueled vehicles by Federal agencies and departments. |
-| [3808\.](%C2%A7%2003808%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [3808\.](%C2%A7%2003808%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28p%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md) | Repealed. |
 | [3809\.](%C2%A7%2003809%20-%20Authorization%20of%20appropriations%3B%20required%20funding.md) | Authorization of appropriations; required funding. |
 | [3810\.](%C2%A7%2003810%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | (a) | Modification or waiver. |
@@ -40,6 +40,6 @@
 - [&sect; 03805 - Research and development activities](%C2%A7%2003805%20-%20Research%20and%20development%20activities.md)
 - [&sect; 03806 - Demonstrations](%C2%A7%2003806%20-%20Demonstrations.md)
 - [&sect; 03807 - Use of methane-fueled vehicles by Federal agencies and departments](%C2%A7%2003807%20-%20Use%20of%20methane-fueled%20vehicles%20by%20Federal%20agencies%20and%20departments.md)
-- [&sect; 03808 - Reports to Congress](%C2%A7%2003808%20-%20Reports%20to%20Congress.md)
+- [&sect; 03808 - Repealed. Pub. L. 104&#8211;66, title I, &sect;1051(p), Dec. 21, 1995, 109 Stat. 717](%C2%A7%2003808%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28p%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md)
 - [&sect; 03809 - Authorization of appropriations; required funding](%C2%A7%2003809%20-%20Authorization%20of%20appropriations%3B%20required%20funding.md)
 - [&sect; 03810 - Relationship to other laws](%C2%A7%2003810%20-%20Relationship%20to%20other%20laws.md)

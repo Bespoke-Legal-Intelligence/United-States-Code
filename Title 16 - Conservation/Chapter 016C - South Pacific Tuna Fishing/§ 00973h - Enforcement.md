@@ -12,7 +12,7 @@ The provisions of this chapter shall be enforced by the Secretary in cooperation
 
 &emsp;(A) the nature of the investigation;
 
-&emsp;(B) the right of the operator to submit comments, information, or evidence bearing on the investigation and to receive, upon the operator's timely written request to the Secretary, an opportunity to present such comments, information, or evidence orally to theSecretary or the Secretary's representative within 30 days after receipt of such notification.
+&emsp;(B) the right of the operator to submit comments, information, or evidence bearing on the investigation and to receive, upon the operator's timely written request to the Secretary, an opportunity to present such comments, information, or evidence orally to the Secretary or the Secretary's representative within 30 days after receipt of such notification.
 
 #### (c) Notice requirements to Pacific Island Party concerning institution and outcome of legal proceedings
 

@@ -8,7 +8,7 @@ For the purpose of carrying out this subpart, and subpart III and section 290aa�
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out section 300x–58(a) of this title with respect to mental health and the purposes specified in paragraphs (2) and (3), the Secretary shall obligate 5 percent of the amounts appropriated under subsection (a) of this section for a fiscal year.
+&emsp;For the purpose of carrying out section 300x–58(a) of this title with respect to mentalhealth and the purposes specified in paragraphs (2) and (3), the Secretary shall obligate 5 percent of the amounts appropriated under subsection (a) of this section for a fiscal year.
 
 #### (2) Data collection
 

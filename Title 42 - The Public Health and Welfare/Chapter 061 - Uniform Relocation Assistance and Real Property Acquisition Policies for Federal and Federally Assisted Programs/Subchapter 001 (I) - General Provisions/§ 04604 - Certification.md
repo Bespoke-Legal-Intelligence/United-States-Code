@@ -2,13 +2,13 @@
 
 #### (a) Acceptance of State agency certification
 
-Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agency may discharge any of his responsibilities under this chapter by accepting a certification by a State agency that it will carry out such responsibility, if the head of the lead agency determines that such responsibility will be carried out in accordance with State laws which will accomplish the purpose and effect of this chapter.
+Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agency may discharge any of his responsibilities under this chapter by accepting a certification by a Stateagency that it will carry out such responsibility, if the head of the lead agency determines that such responsibility will be carried out in accordance with State laws which will accomplish the purpose and effect of this chapter.
 
-#### (b) Promulgation of regulations; monitoring and report to Congress on implementation by State agency; availability of information; notice and comment; consultation with local governments
+#### (b) Promulgation of regulations; notice and comment; consultation with local governments
 
 (1) The head of the lead agency shall issue regulations to carry out this section.
 
-(2) The head of the lead agency shall, in coordination with other Federal agencies, monitor from time to time, and report biennially to the Congress on, State agency implementation of this section. A State agency shall make available any information required for such purpose.
+(2) Repealed. Pub. L. 104–66, title I, §1121(f), Dec. 21, 1995, 109 Stat. 724.
 
 (3) Before making a determination regarding any State law under subsection (a) of this section, the head of the lead agency shall provide interested parties with an opportunity for public review and comment. In particular, the head of the lead agency shall consult with interested local general purpose governments within the State on the effects of such State law on the ability of local governments to carry out their responsibilities under this chapter.
 
@@ -18,7 +18,11 @@ Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agen
 
 (2) After consultation with the head of the lead agency, the head of a Federal agency may rescind his acceptance of any certification under this section, in whole or in part, if the State agency fails to comply with such certification or with State law.
 
-(Pub. L. 91–646, title I, §103, as added Pub. L. 100–17, title IV, §403, Apr. 2, 1987, 101 Stat. 248.)
+(Pub. L. 91–646, title I, §103, as added Pub. L. 100–17, title IV, §403, Apr. 2, 1987, 101 Stat. 248; amended Pub. L. 104–66, title I, §1121(f), Dec. 21, 1995, 109 Stat. 724.)
+
+#### Amendments
+
+1995—Subsec. (b)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The head of the lead agency shall, in coordination with other Federal agencies, monitor from time to time, and report biennially to the Congress on, State agency implementation of this section. A State agency shall make available any information required for such purpose.”
 
 #### Effective Date
 

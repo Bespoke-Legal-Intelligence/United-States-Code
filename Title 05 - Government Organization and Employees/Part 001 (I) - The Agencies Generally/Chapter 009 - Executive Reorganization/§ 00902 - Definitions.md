@@ -54,7 +54,7 @@ Section 902(a) of former Title 5, Executive Departments and Government Officers 
 
 #### Amendments
 
-1977—Par. (1)(C). Pub. L. 95–17 struck out subpar. (C) which defined “agency” as any and all parts of the government of the District of Columbia other than the courts thereof.
+<b>1977</b>—Par. (1)(C). Pub. L. 95–17 struck out subpar. (C) which defined “agency” as any and all parts of the government of the District of Columbia other than the courts thereof.
 
 #### Effective Date of 1967 Amendment
 

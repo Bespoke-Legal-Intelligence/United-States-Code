@@ -8,5 +8,5 @@ In the case of any equipment or products that may be authorized to be purchased 
 
 In providing financial assistance under this chapter, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) of this section by the Congress.
 
-(Pub. L. 89 10, title XIV, §14802, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3912.)
+(Pub. L. 89–10, title XIV, §14802, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3912.)
 

@@ -1,6 +1,6 @@
 ### §42. Board of Regents; members
 
-The business of the Institution shall be conducted at the city of Washington by a Board ofRegents, named the Regents of the Smithsonian Institution, to be composed of the Vice President, the Chief Justice of the United States, three Members of the Senate, three Members of the House of Representatives, and nine other persons, other than Members of Congress, two of whom shall be resident in the city of Washington, and seven of whom shall be inhabitants of some State, but no two of them of the same State.
+The business of the Institution shall be conducted at the city of Washington by a Board of Regents, named the Regents of the Smithsonian Institution, to be composed of the Vice President, the Chief Justice of the United States, three Members of the Senate, three Members of the House of Representatives, and nine other persons, other than Members of Congress, two of whom shall be resident in the city of Washington, and seven of whom shall be inhabitants of some State, but no two of them of the same State.
 
 (R.S. §5580; Mar. 12, 1894, ch. 36, 28 Stat. 41; Dec. 15, 1970, Pub. L. 91–551, §1(a), 84 Stat. 1439.)
 

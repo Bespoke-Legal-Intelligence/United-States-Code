@@ -20,5 +20,5 @@ The Secretaries shall provide, through grants, contracts, or otherwise—
 
 &emsp;(4) assistance to States and local partnerships involved in carrying out School-to-Work Opportunities programs to design and implement school-sponsored enterprises.
 
-(Pub. L. 103 239, title IV, §403, May 4, 1994, 108 Stat. 596.)
+(Pub. L. 103–239, title IV, §403, May 4, 1994, 108 Stat. 596.)
 

@@ -1,6 +1,6 @@
 ### §3907. Capital adequacy
 
-(a)(1) Each appropriate Federal banking agency shall cause banking institutions to achieveand maintain adequate capital by establishing minimum levels of capital for such banking institutions and by using such other methods as the appropriate Federal banking agency deems appropriate.
+(a)(1) Each appropriate Federal banking agency shall cause banking institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such banking institutions and by using such other methods as the appropriate Federal banking agency deems appropriate.
 
 (2) Each appropriate Federal banking agency shall have the authority to establish such minimum level of capital for a banking institution as the appropriate Federal banking agency, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the banking institution.
 

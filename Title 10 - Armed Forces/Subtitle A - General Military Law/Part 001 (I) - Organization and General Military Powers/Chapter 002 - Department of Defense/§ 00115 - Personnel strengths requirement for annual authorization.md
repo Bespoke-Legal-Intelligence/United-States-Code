@@ -1,4 +1,4 @@
-### §115 . Personnel strengths: requirement for annual authorization
+### §115. Personnel strengths: requirement for annual authorization
 
 (a) Congress shall authorize personnel strength levels for each fiscal year for each of the following:
 
@@ -64,7 +64,7 @@ A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973
 
 #### Amendments
 
-1991—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength forcivilian personnel for each component of the Department of Defense.”
+1991—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength for civilian personnel for each component of the Department of Defense.”
 
 Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law.”
 
@@ -184,7 +184,7 @@ Definitions.—For purposes of this section:
 
 #### Operation Desert Shield Increase in End Strengths of Active Duty Personnel; Authority; Certification
 
-Section 1117 of Pub. L. 101–510, which authorized Secretary of Defense, after determining that operational requirements of Operation Desert Shield so require, to increase the end strengths of active duty personnel for fiscal year 1991 by an amount not greater than 0.5 percent of the total end strengths authorized by section 401 of Pub. L. 101–510, set out above, and required certification by Secretary to Committees on Armed Services of Senate and House of Representatives of necessity of such increase, was repealed by Pub. L. 102–25, title II, §204, Apr. 6, 1991, 105 Stat. 80.
+Section 1117 of Pub. L. 101–510, authorized Secretary of Defense, after determining that operational requirements of Operation Desert Shield so require, to increase the end strengths of active duty personnel for fiscal year 1991 by an amount not greater than 0.5 percent of the total end strengths authorized by section 401 of Pub. L. 101–510, set out above, and required certification by Secretary to Committees on Armed Services of Senate and House of Representatives of necessity of such increase, prior to repeal by Pub. L. 102–25, title II, §204, Apr. 6, 1991, 105 Stat. 80.
 
 #### Cross References
 

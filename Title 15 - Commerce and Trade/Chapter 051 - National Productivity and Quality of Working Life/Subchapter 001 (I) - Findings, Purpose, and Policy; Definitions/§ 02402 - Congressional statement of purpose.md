@@ -6,7 +6,7 @@ It is the purpose of this chapter—
 
 &emsp;(2) to establish as an independent establishment of the executive branch a National Center for Productivity and Quality of Working Life to focus, coordinate, and promote efforts to improve the rate of productivity growth.
 
-(Pub. L. 94 136, title I, §102, Nov. 28, 1975, 89 Stat. 734.)
+(Pub. L. 94–136, title I, §102, Nov. 28, 1975, 89 Stat. 734.)
 
 #### Section Referred to in Other Sections
 

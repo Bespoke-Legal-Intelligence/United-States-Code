@@ -18,7 +18,7 @@ Section is based on Pub. L. 99–661, div. A, title XII, §1224, Nov. 14, 1986, 
 
 1990—Subsecs. (b), (c). Pub. L. 101–510 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “
 
-Semiannual Report on Costs and Savings.—As soon as practicable after the end of the first six months, and after the end of the second six months, of a fiscal year to which this section applies, the Secretary of Defense shall submit to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives a report showing the estimated savings or loss to the United States, during the preceding six-month period, that is reflected in the data maintained under subsection (a).”
+Semiannual Report on Costs and Savings.—As soon as practicable after the end of the first six months, and after the end of the second sixmonths, of a fiscal year to which this section applies, the Secretary of Defense shall submit to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives a report showing the estimated savings or loss to the United States, during the preceding six-month period, that is reflected in the data maintained under subsection (a).”
 
 1989—Subsec. (b). Pub. L. 101–189 substituted “Committees on Appropriations” for “Committee on Appropriations”.
 

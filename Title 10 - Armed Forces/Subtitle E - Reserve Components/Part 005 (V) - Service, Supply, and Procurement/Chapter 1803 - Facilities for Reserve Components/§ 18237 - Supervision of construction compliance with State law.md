@@ -4,7 +4,7 @@
 
 (b) The construction, expansion, rehabilitation, or conversion of facilities in a State under paragraph (2), (3), (4), (5), or (6) of section 2233(a) <sup>1</sup> of this title shall be done according to the laws of that jurisdiction and under the supervision of its officials, subject to the inspection and approval of the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2237; Sept. 2, 1958, Pub. L. 85–861, §1(41), 72 Stat. 1457; Nov. 2, 1966, Pub. L. 89–718, §19, 80 Stat. 1118; July 12, 1982, Pub. L. 97–214, §3(d)(2), 96 Stat. 170; renumbered §18237 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (9), div. B, title XXVIII, §2852, 108 Stat. 3010, 3011, 3072.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2237; Sept. 2, 1958, Pub. L. 85–861, §1(41), 72 Stat. 1457; Nov.2, 1966, Pub. L. 89–718, §19, 80 Stat. 1118; July 12, 1982, Pub. L. 97–214, §3(d)(2), 96 Stat. 170; renumbered §18237 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (9), div. B, title XXVIII, §2852, 108 Stat. 3010, 3011, 3072.)
 
 Historical and Revision Notes<br>1956
 

@@ -12,7 +12,7 @@ Clause 6(c) of Rule XI of the Rules of the House of Representatives, referred to
 
 #### Codification
 
-Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Ninety-fifth Congress, Jan. 4,1977, which was enacted into permanent law by Pub. L. 95–94.
+Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Ninety-fifth Congress, Jan. 4, 1977, which was enacted into permanent law by Pub. L. 95–94.
 
 #### Prior Provisions
 

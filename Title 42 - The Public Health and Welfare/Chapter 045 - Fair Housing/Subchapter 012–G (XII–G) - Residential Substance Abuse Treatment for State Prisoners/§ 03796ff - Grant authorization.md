@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General may make grants under this subchapter to States, for use by States andunits of local government for the purpose of developing and implementing residential substance abuse treatment programs within State correctional facilities, as well as within local correctional and detention facilities in which inmates are incarcerated for a period of time sufficient to permit substance abuse treatment.
+The Attorney General may make grants under this subchapter to States, for use by States and units of local government for the purpose of developing and implementing residential substance abuse treatment programs within State correctional facilities, as well as within local correctional and detention facilities in which inmates are incarcerated for a period of time sufficient to permit substance abuse treatment.
 
 #### (b) Consultation
 

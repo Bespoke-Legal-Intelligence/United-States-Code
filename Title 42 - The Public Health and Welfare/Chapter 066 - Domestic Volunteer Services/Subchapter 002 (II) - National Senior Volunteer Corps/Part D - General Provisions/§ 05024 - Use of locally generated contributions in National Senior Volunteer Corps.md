@@ -8,7 +8,7 @@ Whenever locally generated contributions made to National Senior Volunteer Corps
 
 1994—Pub. L. 103–304 substituted “National Senior Volunteer Corps projects” for “volunteer projects for older Americans”.
 
-1993—Pub. L. 103–82 amended section catchline and in text directed substitution of “National Senior Volunteer Corps projects” for “volunteer projects for Older Americans”, which could not be executed because thephrase “volunteer projects for Older Americans” did not appear in text.
+1993—Pub. L. 103–82 amended section catchline and in text directed substitution of “National Senior Volunteer Corps projects” for “volunteer projects for Older Americans”, which could not be executed because the phrase “volunteer projects for Older Americans” did not appear in text.
 
 1989—Pub. L. 101–204 substituted “projects” for “programs”.
 

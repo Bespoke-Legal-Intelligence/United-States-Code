@@ -4,7 +4,7 @@ Part C—Monitored Retrievable Storage
 
 This part is referred to in sections 10134, 10175 of this title.
 
-<i><sup>1</sup></i><i> So in original. Section enacted without a subsec. (b).</i>
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 
 
 ---

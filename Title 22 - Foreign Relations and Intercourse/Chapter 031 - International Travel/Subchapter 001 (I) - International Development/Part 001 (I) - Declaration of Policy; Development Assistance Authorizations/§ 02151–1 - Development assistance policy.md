@@ -34,7 +34,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;&emsp;(F) increase in literacy.
 
-&emsp;(5) United States development assistance should focus on critical problems in thosefunctional sectors which affect the lives of the majority of the people in the developing countries; food production and nutrition; rural development and generation of gainful employment; population planning and health; environment and natural resources; education, development administration, and human resource development; and energy development and production.
+&emsp;(5) United States development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of the people in the developing countries; food production and nutrition; rural development and generation of gainful employment; population planning and health; environment and natural resources; education, development administration, and human resource development; and energy development and production.
 
 &emsp;(6) United States assistance shall encourage and promote the participation of women in the national economies of developing countries and the improvement of women's status as an important means of promoting the total development effort.
 

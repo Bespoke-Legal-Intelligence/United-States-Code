@@ -1,6 +1,6 @@
-### §7362 . Commercial use of naval facilities
+### §7362. Commercial use of naval facilities
 
-The Secretary of the Navy may acquire or transfer, by charter or otherwise, for operation by private salvage companies, such vessels and equipment as he considers necessary.
+The Secretary of the Navy may acquire or transfer, by charter or otherwise, for operationby private salvage companies, such vessels and equipment as he considers necessary.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 455.)
 

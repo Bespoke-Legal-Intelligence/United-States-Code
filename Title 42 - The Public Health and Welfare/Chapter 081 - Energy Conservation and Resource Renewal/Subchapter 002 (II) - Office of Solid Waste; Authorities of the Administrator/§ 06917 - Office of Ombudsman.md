@@ -10,7 +10,7 @@ The Ombudsman shall render assistance with respect to the complaints, grievances
 
 #### (c) Effect on procedures for grievances, appeals, or administrative matters
 
-The establishment of the Office of Ombudsman shall not affect any procedures for grievances,appeals, or administrative matters in any other provision of this chapter, any other provision of law, or any Federal regulation.
+The establishment of the Office of Ombudsman shall not affect any procedures for grievances, appeals, or administrative matters in any other provision of this chapter, any other provision of law, or any Federal regulation.
 
 #### (d) Termination
 

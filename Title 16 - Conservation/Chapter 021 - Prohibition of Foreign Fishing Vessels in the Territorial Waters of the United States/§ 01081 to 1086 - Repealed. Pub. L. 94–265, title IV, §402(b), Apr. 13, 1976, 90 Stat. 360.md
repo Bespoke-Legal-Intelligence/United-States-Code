@@ -1,6 +1,6 @@
 ### §§1081 to 1086. Repealed. Pub. L. 94–265, title IV, §402(b), Apr. 13, 1976, 90 Stat. 360
 
-Section 1081, Pub. L. 88–308, §1, May 20, 1964, 78 Stat. 194; Pub. L. 90–427, July 26, 1968, 82 Stat. 445; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, dealt with prohibition against foreign fishing within the territorial waters of the United States and conditions under which exceptions to prohibition will be recognized. See sections 1821 to 1825 of this title.
+Section 1081, Pub. L. 88–308, §1, May 20, 1964, 78 Stat. 194; Pub. L. 90–427, July 26, 1968, 82 Stat. 445; 1970 Reorg.Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, dealt with prohibition against foreign fishing within the territorial waters of the United States and conditions under which exceptions to prohibition will be recognized. See sections 1821 to 1825 of this title.
 
 Section 1082, Pub. L. 88–308, §2, May 20, 1964, 78 Stat. 195; Pub. L. 91–514, §1, Oct. 27, 1970, 84 Stat. 1296, covered violations and penalties, seizure, forfeiture, and condemnation of property belonging to anyone violating the provisions relating to the territorial waters of the United States. See sections 1857 to 1860 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including,but not limited to sections 1, 2, 3, and 4 of this title.
+The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 of this title.
 
 #### (b) Acquisition of lands
 

@@ -46,7 +46,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “2402(4)” for “1002(
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2403” for “1003” in concluding provisions.
 
-1990—Subsecs. (d), (e). Pub. L. 101–508 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “In lieu of furnishing a headstone or marker under subsection (a)(2) or (b) of this section, the Secretary, in the Secretary's discretion, having due regard for the circumstances in each case, may reimburse the person entitled to request such headstone or marker for the cost of acquiring a non-Government headstone or marker for placement in any cemetery other than a national cemetery in connection with the burial or memorialization of the deceased individual. The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual,as the case may be. Reimbursement under this subsection may be made only upon the request of the person entitled to request the headstone or marker and may not be made in an amount in excess of the average actual cost, as determined by the Secretary, of headstones and markers furnished under subsections (a) and (b) of this section.”
+1990—Subsecs. (d), (e). Pub. L. 101–508 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “In lieu of furnishing a headstone or marker under subsection (a)(2) or (b) of this section, the Secretary, in the Secretary's discretion, having due regard for the circumstances in each case, may reimburse the person entitled to request such headstone or marker for the cost of acquiring a non-Government headstone or marker for placement in any cemetery other than a national cemetery in connection with the burial or memorialization of the deceased individual. The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be. Reimbursement under this subsection may be made only upon the request of the person entitled to request the headstone or marker and may not be made in an amount in excess of the average actual cost, as determined by the Secretary, of headstones and markers furnished under subsections (a) and (b) of this section.”
 
 1989—Subsecs. (a) to (c). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator”.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for �
 
 Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
-Subsec. (e)(1). Pub. L. 101–237, §504(a), inserted first sentence and struck out former first sentence which read as follows: “The Secretary may provide a grave liner for any grave in a cemetery within the National Cemetery System in which remains are interred in a casket.”
+Subsec. (e)(1). Pub. L. 101–237, §504(a), inserted first sentence and struck out former first sentence which read as follows: “The Secretary may provide a graveliner for any grave in a cemetery within the National Cemetery System in which remains are interred in a casket.”
 
 Pub. L. 101–237, §313(b)(1), substituted “Secretary may provide” for “Administrator may provide”.
 

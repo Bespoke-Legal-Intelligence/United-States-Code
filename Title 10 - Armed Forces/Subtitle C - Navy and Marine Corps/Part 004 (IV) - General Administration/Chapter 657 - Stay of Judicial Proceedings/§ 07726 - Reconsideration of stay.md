@@ -1,4 +1,4 @@
-### §7726 . Reconsideration of stay
+### §7726. Reconsideration of stay
 
 (a) A claimant or party who considers himself adversely affected by a stay under this chapter may serve a written notice on the Secretary of the Navy at Washington, D.C., requesting him to reconsider the stay previously issued and to issue a new certificate. The notice shall identify the stay by means of an attached copy of the certificate of the Secretary or a sufficient description of the stay. The notice may not contain any recital of the facts or circumstances involved.
 

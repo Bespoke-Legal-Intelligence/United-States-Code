@@ -40,7 +40,7 @@ Transmittal of Medical Information to Department of Veterans Affairs.—In the c
 
 1993—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 of this title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
 
-Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placementprogram established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
+Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
 
 1992—Subsec. (a)(1). Pub. L. 102–484, §4401(a), substituted “As soon as possible before, but in no event later than 90 days before, the date of the discharge” for “Upon the discharge”.
 
@@ -58,7 +58,7 @@ Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, prov
 
 #### Limitation on Funding To Carry Out Section 543 of Pub. L. 103–337
 
-Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\].
+Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\].”
 
 #### Section Referred to in Other Sections
 

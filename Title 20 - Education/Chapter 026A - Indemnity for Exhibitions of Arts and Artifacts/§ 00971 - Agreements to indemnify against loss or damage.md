@@ -14,17 +14,17 @@ The Federal Council on the Arts and Humanities (hereinafter in this chapter refe
 
 (2) For purposes of this chapter, the Secretary of the Smithsonian Institution, the Director of the National Gallery of Art, the member designated by the Chairman of the Senate Commission of Art and Antiquities and the member designated by the Speaker of the House of Representatives shall not serve as members of the Council.
 
-(Pub. L. 94 158, §2, Dec. 20, 1975, 89 Stat. 844; Pub. L. 99 194, title III, §301, Dec. 20, 1985, 99 Stat. 1345.)
+(Pub. L. 94–158, §2, Dec. 20, 1975, 89 Stat. 844; Pub. L. 99–194, title III, §301, Dec. 20, 1985, 99 Stat. 1345.)
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99 194 designated existing provisions as par. (1) and added par. (2).
+1985—Subsec. (b). Pub. L. 99–194 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date
 
-Section 9 of Pub. L. 94 158 provided that: “This Act \[see Short Title note below\] shall become effective 30 days after the date of the enactment of this Act \[Dec. 20, 1975\].”
+Section 9 of Pub. L. 94–158 provided that: “This Act \[see Short Title note below\] shall become effective 30 days after the date of the enactment of this Act \[Dec. 20, 1975\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 94 158 provided that: “This Act \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Arts and Artifacts Indemnity Act’.”
+Section 1 of Pub. L. 94–158 provided that: “This Act \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Arts and Artifacts Indemnity Act’.”
 

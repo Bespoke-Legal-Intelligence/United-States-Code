@@ -6,7 +6,7 @@
 
 &emsp;(2) the income and resources of such child shall be excluded from the income and resources of a family under this part.
 
-(b) Subsection (a) of this section shall not apply in the case of a child with respect to whom adoption assistance payments are made under part E of this subchapter or under State or local law, if application of such subsection would reduce the benefits under this part of the family of which the child would otherwise be regarded as a member.
+(b) Subsection (a) of this section shall not apply in the case of a child with respect to whom adoption assistance payments are madeunder part E of this subchapter or under State or local law, if application of such subsection would reduce the benefits under this part of the family of which the child would otherwise be regarded as a member.
 
 (Aug. 14, 1935, ch. 531, title IV, §409, as added Nov. 5, 1990, Pub. L. 101–508, title V, §5052(a), 104 Stat. 1388–228.)
 

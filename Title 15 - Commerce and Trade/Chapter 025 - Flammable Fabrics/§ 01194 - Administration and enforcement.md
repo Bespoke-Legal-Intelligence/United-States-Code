@@ -2,7 +2,7 @@
 
 #### (a) Enforcement under Federal Trade Commission Act provisions; civil action to enforce standard or regulation
 
-Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of this title shall be enforced by the Commission under rules, regulations and procedures provided for inthe Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
+Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of this title shall be enforced by the Commission under rules, regulations and procedures provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
 
 #### (b) Application of Federal Trade Commission Act provisions
 
@@ -32,7 +32,7 @@ The Commission is authorized to—
 
 (5)(A) The maximum penalty amounts authorized in paragraph (1) shall be adjusted for inflation as provided in this paragraph.
 
-(B) Not later than December 1, 1994, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
+(B) Not later than December 1, 1994, and December 1 of each fifth calendar year thereafter,the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
 
 (C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
 

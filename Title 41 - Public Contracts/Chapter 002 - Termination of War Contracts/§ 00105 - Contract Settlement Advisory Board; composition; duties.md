@@ -24,7 +24,7 @@ In text of this section, references to “Director” changed to “Secretary of
 
 Administrator of Foreign Economic Administration changed to Secretary of State in view of Ex. Ord. No. 9630, as amended by Ex. Ord. No. 9730.
 
-“Secretary of Commerce” substituted for references to Chairman of War Production Board and chairmanand board of directors of Smaller War Plants Corporation. War Production Board functions transferred to Civilian Production Administration, to Office of Temporary Controls, and then to Secretary of Commerce by Ex. Ord. Nos. 9638, 9809, and 9481, respectively. Functions of chairman and Board of Directors of Smaller War Plants Corporation transferred to Secretary of Commerce by Ex. Ord. No. 9665.
+“Secretary of Commerce” substituted for references to Chairman of War Production Board and chairman and board of directors of Smaller War Plants Corporation. War Production Board functions transferred to Civilian Production Administration, to Office of Temporary Controls, and then to Secretary of Commerce by Ex. Ord. Nos. 9638, 9809, and 9481, respectively. Functions of chairman and Board of Directors of Smaller War Plants Corporation transferred to Secretary of Commerce by Ex. Ord. No. 9665.
 
 #### Effective Date of Transfer of Functions
 

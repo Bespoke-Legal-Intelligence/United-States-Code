@@ -1,4 +1,4 @@
-### §12206 . Commissioned officers: appointment of former commissioned officers
+### §12206. Commissioned officers: appointment of former commissioned officers
 
 Under regulations prescribed by the Secretary of Defense, a person who is a former commissioned officer may, if otherwise qualified, be appointed as a reserve officer of the Army, Navy, Air Force, or Marine Corps. A person so appointed—
 

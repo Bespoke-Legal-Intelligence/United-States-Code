@@ -10,5 +10,5 @@ The Comptroller General is authorized to lease or otherwise provide space and se
 
 #### Payments of Reimbursements Incident to Operation of General Accounting Office Building
 
-Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2275, provided in part that “notwithstanding the provisions of section 782 of title 31, United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting OfficeBuilding shall be credited to the appropriation currently available to the General Accounting Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991”.
+Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2275, provided in part that “notwithstanding the provisions of section 782 of title 31, United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the General Accounting Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991”.
 

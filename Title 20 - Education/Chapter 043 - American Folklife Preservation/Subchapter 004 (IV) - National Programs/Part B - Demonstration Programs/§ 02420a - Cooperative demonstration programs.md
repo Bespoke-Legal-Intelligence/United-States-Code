@@ -54,7 +54,7 @@ The Secretary is authorized to carry out, directly or through grants to or contr
 
 (1) Projects described in clause (2) of subsection (a) of this section may include institutional and on-the-job training, supportive services authorized by this chapter, and such other necessary assistance as the Secretary determines to be necessary for the successful completion of the project.
 
-(2) Not less than 25 percent of the cost of the demonstration programs authorized by this subpart<sup>1</sup> shall be provided by the recipient of the grant or contract, and such share may be in the form of cash or in-kind contributions, including facilities, overhead, personnel, and equipment fairly valued.
+(2) Not less than 25 percent of the cost of the demonstration programs authorized by this subpart <sup>1</sup> shall be provided by the recipient of the grant or contract, and such share may be in the form of cash or in-kind contributions, including facilities, overhead, personnel, and equipment fairly valued.
 
 #### (c) Program criteria
 
@@ -68,9 +68,9 @@ All programs assisted under this section shall be—
 
 The Secretary shall disseminate the results of the programs and projects assisted under this section in a manner designed to improve the training of teachers, other instructional personnel, counsellors, and administrators who are needed to carry out the purposes of this chapter.
 
-(Pub. L. 88 210, title IV, §420A, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 820.)
+(Pub. L. 88–210, title IV, §420A, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 820.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (a)(6)(D), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title III of the Act is classified generally to subchapter III (§1651 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(6)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title III of the Act is classified generally to subchapter III (§1651 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 

@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term “government” includes a branch, department, agency, instrumentality,and official (or other person acting under color of law) of the United States, a State, or a subdivision of a State;
+&emsp;(1) the term “government” includes a branch, department, agency, instrumentality, and official (or other person acting under color of law) of the United States, a State, or a subdivision of a State;
 
 &emsp;(2) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States;
 

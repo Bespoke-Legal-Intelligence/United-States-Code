@@ -30,11 +30,11 @@ Each application submitted pursuant to subsection (a) of this section shall demo
 
 &emsp;(3) the program will be designed and operated with the active participation of classroom teachers and will include an in-service training component.
 
-(Pub. L. 89 329, title V, §569, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 703.)
+(Pub. L. 89–329, title V, §569, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 703.)
 
 #### Prior Provisions
 
-A prior section 1110c, Pub. L. 89 329, title V, §520C, as added Pub. L. 90 35, §4, June 29, 1967, 81 Stat. 90, set forth procedure for judicial review of determinations of Commissioner with respect to State plan, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+A prior section 1110c, Pub. L. 89–329, title V, §520C, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 90, set forth procedure for judicial review of determinations of Commissioner with respect to State plan, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
-A prior section 569 of Pub. L. 89 329, title V, as added Pub. L. 98 558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898, related to Federal administration of State programs to make available Carl D. Perkins Scholarships and judicial review thereof and was classified to section 1119d 8 of this title, prior to the general revision of this subchapter by 99 498.
+A prior section 569 of Pub. L. 89–329, title V, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898, related to Federal administration of State programs to make available Carl D. Perkins Scholarships and judicial review thereof and was classified to section 1119d–8 of this title, prior to the general revision of this subchapter by 99–498.
 

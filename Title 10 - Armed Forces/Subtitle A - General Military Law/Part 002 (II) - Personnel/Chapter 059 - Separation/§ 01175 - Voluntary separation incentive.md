@@ -60,7 +60,7 @@
 
 &emsp;(A) such sums as are necessary to pay the current liabilities under this section during such period; and
 
-&emsp;(B) the amount equal to the present value, as of September 30, 1999, of the future benefits payable under this section, as determined by the Board.
+&emsp;(B) the amount equal to the present value, as of September 30, 1999, of the future benefitspayable under this section, as determined by the Board.
 
 (7)(A) For each fiscal year after fiscal year 1999, the Board shall—
 
@@ -130,11 +130,11 @@ Section 4406(c) of Pub. L. 102–484 provided that: “The amendments to section
 
 #### Separation Payments; Reductions and Prohibitions
 
-For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 in case of members who separate from active duty or full-time National Guard duty in a military departmentand prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.
+For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 in case of members who separate from active duty or full-time National Guard duty in a military department and prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.
 
 #### Tax Treatment of Incentive Payment
 
-Section 662(b) of Pub. L. 102–190 provided that: “Notwithstanding the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
+Section 662(b) of Pub. L. 102–190 provided that: “Notwithstanding the Internal Revenue Code of 1986 \[26U.S.C. 1 et seq.\] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
 
 #### Section Referred to in Other Sections
 

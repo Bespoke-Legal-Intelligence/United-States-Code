@@ -1,4 +1,4 @@
-### §2207 . Expenditure of appropriations: limitation
+### §2207. Expenditure of appropriations: limitation
 
 Money appropriated to the Department of Defense may not be spent under a contract other than a contract for personal services unless that contract provides that—
 

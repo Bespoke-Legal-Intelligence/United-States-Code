@@ -1,4 +1,4 @@
-### §431 . Definitions
+### §431. Definitions
 
 When used in this Act:
 
@@ -44,7 +44,7 @@ When used in this Act:
 
 &emsp;(i) the value of services provided without compensation by any individual who volunteers on behalf of a candidate or political committee;
 
-&emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect toany single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
@@ -84,7 +84,7 @@ When used in this Act:
 
 &emsp;(xii) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided,</i> That—
 
-&emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used inconnection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+&emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
 &emsp;&emsp;(2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
 
@@ -204,7 +204,7 @@ Subsec. (d). Pub. L. 93–443, §201(a)(3), inserted reference to “club,” be
 
 Subsec. (e). Pub. L. 93–443, §201(a)(4), transferred the word “means” after introductory word “contribution” to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of any person as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of “funds received by a political committee which are transferred to such committee from another political committee or other source” for “a transfer of funds between political committees”; inserted at end of par. (4) the word “but”; and added par. (5.)
 
-Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word “means” following introductory word “expenditure” to become the initial word in pars. (1) to (3); inpar. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading ”, or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States”; in par. (2), provided for express or implied transactions; in par. (3), substituted “the transfer of funds by a political committee to another political committee; but” for “a transfer of funds between political committees”; and added par. (4).
+Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word “means” following introductory word “expenditure” to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading ”, or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States”; in par. (2), provided for express or implied transactions; in par. (3), substituted “the transfer of funds by a political committee to another political committee; but” for “a transfer of funds between political committees”; and added par. (4).
 
 Subsec. (g). Pub. L. 93–443, §208(c)(1), substituted definition of “Commission” for “supervisory officer”.
 
@@ -264,7 +264,7 @@ Section 303 of Pub. L. 96–187 provided that:
 
 #### Voting System Study; Report to Congress; Cost of Study
 
-Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433,provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
+Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
 
 #### Section Referred to in Other Sections
 

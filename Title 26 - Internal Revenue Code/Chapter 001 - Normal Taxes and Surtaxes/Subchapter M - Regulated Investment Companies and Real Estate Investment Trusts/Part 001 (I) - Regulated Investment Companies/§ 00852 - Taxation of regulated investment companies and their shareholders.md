@@ -48,7 +48,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (B) Treatment of capital gain dividends by shareholders
 
-&emsp;&emsp;A capital gain dividend shall be treated by the shareholders as a gain from the sale or exchange of a capital asset held for more than 1 year.
+&emsp;&emsp;A capital gain dividend shall be treated by the shareholders as a gain from the sale orexchange of a capital asset held for more than 1 year.
 
 #### (C) Definition of capital gain dividend
 
@@ -56,7 +56,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (D) Treatment by shareholders of undistributed capital gains
 
-&emsp;&emsp;(i) Every shareholder of a regulated investment company at the close of the company'staxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the company's taxable year falls, such amount as the company shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after close of its taxable year, but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A) which he would have received if all of such amount had been distributed as capital gain dividends by the company to the holders of such shares at the close of its taxable year.
+&emsp;&emsp;(i) Every shareholder of a regulated investment company at the close of the company's taxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the company's taxable year falls, such amount as the company shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after close of its taxable year, but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A) which he would have received if all of such amount had been distributed as capital gain dividends by the company to the holders of such shares at the close of its taxable year.
 
 &emsp;&emsp;(ii) For purposes of this title, every such shareholder shall be deemed to have paid, for his taxable year under clause (i), the tax imposed by subparagraph (A) on the amounts required by this subparagraph to be included in respect of such shares in computing his long-term capital gains for that year; and such shareholder shall be allowed credit or refund, as the case may be, for the tax so deemed to have been paid by him.
 
@@ -98,7 +98,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (E) Authority to shorten required holding period
 
-&emsp;&emsp;In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) to the extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
+&emsp;&emsp;In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) tothe extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
 
 #### (5) Exempt-interest dividends
 
@@ -168,7 +168,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year and with such other adjustments as the Secretary may by regulations prescribe. The preceding sentence shall apply—
+&emsp;For purposes of applying this chapter to distributions made by a regulated investmentcompany with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year and with such other adjustments as the Secretary may by regulations prescribe. The preceding sentence shall apply—
 
 &emsp;&emsp;(A) only to the extent that the amount distributed by the company with respect to the calendar year does not exceed the required distribution for such calendar year (as determined under section 4982 by substituting “100 percent” for each percentage set forth in section 4982(b)(1)), and
 
@@ -272,7 +272,7 @@ In the case of a unit investment trust—
 
 #### (C) Nonrecognition transactions
 
-&emsp;&emsp;If the taxpayer acquires stock in a regulated investment company from another person in a transaction in which gain or loss is not recognized, the taxpayer shall succeed tothe treatment of such other person under this subsection.
+&emsp;&emsp;If the taxpayer acquires stock in a regulated investment company from another person in a transaction in which gain or loss is not recognized, the taxpayer shall succeed to the treatment of such other person under this subsection.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Sept. 2, 1958, Pub. L. 85–866, title I, §§39(a), 101(a), (b), 72 Stat. 1638, 1674; Sept. 14, 1960, Pub. L. 86–779, §10(b)(2), (3), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §229(a)(1), (2), (b), 78 Stat. 99; Dec. 30, 1969, Pub. L. 91–172, title V, §511(c)(2), 83 Stat. 637; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Nov. 6, 1978, Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), 92 Stat. 2822, 2851, 2911; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(3)(B), 94 Stat. 215; Jan. 6, 1983, Pub. L. 97–424, title V, §547(b)(2), 96 Stat. 2199; July 18, 1984, Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Oct. 22, 1986, Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), 102 Stat. 3413–3415, 3491, 3585; Dec. 19, 1989, Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), 103 Stat. 2334, 2335; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13221(c)(1), 107 Stat. 477.)
 
@@ -312,7 +312,7 @@ Subsec. (b)(1). Pub. L. 99–514, §1878(j)(2), substituted last sentence for fo
 
 Subsec. (b)(3)(C). Pub. L. 99–514, §655(a)(1), substituted “60 days” for “45 days”.
 
-Pub. L. 99–514, §651(b)(3), inserted provision for determination of the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) and made such provision applicable also for purposes of computing regulated investment company taxable income.
+Pub. L. 99–514, §651(b)(3), inserted provision for determination of the amount of the net capital gain for ataxable year (to which an election under section 4982(e)(4) does not apply) and made such provision applicable also for purposes of computing regulated investment company taxable income.
 
 Subsec. (b)(3)(D)(i). Pub. L. 99–514, §655(a)(1), substituted “60 days” for “45 days”.
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after 
 
 #### Effective Date of 1989 Amendment
 
-Section 7204(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to charges incurred after October 3, 1989, in taxable years ending after such date.”
+Section 7204(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to charges incurred after October 3, 1989, in taxable years ending after such date.”
 
 Section 7204(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to dividends in cases where the stock becomes ex-dividend after the date of the enactment of this Act \[Dec. 19, 1989\].”
 

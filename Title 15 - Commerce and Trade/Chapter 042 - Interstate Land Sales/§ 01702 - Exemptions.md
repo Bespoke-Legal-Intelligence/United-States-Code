@@ -90,7 +90,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(C) the purchaser or lessee (or spouse thereof) has made a personal on-the-lot inspection of the lot to be purchased or leased;
 
-&emsp;&emsp;(D) each purchase or lease agreement contains (i) a clear and specific statement describing a good faith estimate of the year of completion of and the party responsible for providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and (ii) a nonwaivable provision specifying that the contract or agreement may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws;
+&emsp;&emsp;(D) each purchase or lease agreement contains (i) a clear and specific statement describing a good faith estimate of the year of completion of and the party responsible for providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and (ii) a nonwaivable provision specifying that thecontract or agreement may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws;
 
 &emsp;&emsp;(E) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing receipt of a written statement by the developer setting forth (i) in descriptive and concise terms all liens, reservations, taxes, assessments, beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, and adverse claims which are applicable to the lot to be purchased or leased, and (ii) good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot;
 
@@ -102,33 +102,33 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 The Secretary may from time to time, pursuant to rules and regulations issued by him, exempt from any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
 
-(Pub. L. 90 448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91 152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93 383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95 557, title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96 153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123.)
+(Pub. L. 90–448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123.)
 
 #### References in Text
 
-The effective date of this subsection, referred to in subsec. (b)(2), probably means the effective date of title IV of Pub. L. 96 153, section 402 of which amended subsec. (b) of this section generally. For the effective date of title IV, see section 410 of Pub. L. 96 153, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+The effective date of this subsection, referred to in subsec. (b)(2), probably means the effective date of title IV of Pub. L. 96–153, section 402 of which amended subsec. (b) of this section generally. For the effective date of title IV, see section 410 of Pub. L. 96–153, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96 153 revised existing provisions formerly set out as pars. (1) to (11) into pars. (1) to (8) and, as so revised, substituted provisions relating to sale or lease of lots in a subdivision containing less than twenty-five lots, etc., for provisions relating to sale or lease of real estate not pursuant to a common promotional plan to offer or sell fifty or more lots in a subdivision, etc.
+1979—Subsec. (a). Pub. L. 96–153 revised existing provisions formerly set out as pars. (1) to (11) into pars. (1) to (8) and, as so revised, substituted provisions relating to sale or lease of lots in a subdivision containing less than twenty-five lots, etc., for provisions relating to sale or lease of real estate not pursuant to a common promotional plan to offer or sell fifty or more lots in a subdivision, etc.
 
-Subsec. (b). Pub. L. 96 153 revised existing provisions formerly set out as pars. (1) to (7) into pars. (1) to (8) and, as so revised, substituted provisions setting forth criteria respecting sale or lease of lots subject to other statutory registration and disclosure requirements, for provisions setting forth criteria respecting sale or lease of lots in municipality or county with minimum standards.
+Subsec. (b). Pub. L. 96–153 revised existing provisions formerly set out as pars. (1) to (7) into pars. (1) to (8) and, as so revised, substituted provisions setting forth criteria respecting sale or lease of lots subject to other statutory registration and disclosure requirements, for provisions setting forth criteria respecting sale or lease of lots in municipality or county with minimum standards.
 
-1978—Subsec. (a)(3). Pub. L. 95 557, §907(a)(1), inserted “condominium” after “commercial”.
+1978—Subsec. (a)(3). Pub. L. 95–557, §907(a)(1), inserted “condominium” after “commercial”.
 
-Subsec. (a)(10). Pub. L. 95 557, §907(a)(2), inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
+Subsec. (a)(10). Pub. L. 95–557, §907(a)(2), inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
 
-Subsec. (a)(11). Pub. L. 95 557, §907(a)(3), inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
+Subsec. (a)(11). Pub. L. 95–557, §907(a)(3), inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
 
-Subsecs. (b), (c). Pub. L. 95 557, §907(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 95–557, §907(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1974—Subsec. (a)(11). Pub. L. 93 383 added par. (11).
+1974—Subsec. (a)(11). Pub. L. 93–383 added par. (11).
 
-1969—Subsec. (a)(10). Pub. L. 91 152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
+1969—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96 153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 #### (b) Rulemaking schedule and procedure
 
-The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
+The Commission shall prescribe the rules under subsection (a) of this section within 270days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
 
 #### (c) Enforcement
 
@@ -46,11 +46,11 @@ In prescribing rules under this section, the Commission shall consider, with res
 
 &emsp;(10) The extent to which the regulations should diverge from requirements under the Truth in Lending and Fair Credit Billing Acts \[15 U.S.C. 1601 et seq., 1666 et seq.\] in order to protect customers, and in order to be cost effective to billing entities.
 
-(Pub. L. 102 556, title III, §301, Oct. 28, 1992, 106 Stat. 4191.)
+(Pub. L. 102–556, title III, §301, Oct. 28, 1992, 106 Stat. 4191.)
 
 #### References in Text
 
-The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90 321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Fair Credit Billing Act, referred to in subsecs. (a)(2) and (d)(10), is title III of Pub. L. 93 495, Oct. 28, 1974, 88 Stat. 1511, which is classified principally to part D (§1666 et seq.) of subchapter I of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
+The Fair Credit Billing Act, referred to in subsecs. (a)(2) and (d)(10), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which is classified principally to part D (§1666 et seq.) of subchapter I of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
 

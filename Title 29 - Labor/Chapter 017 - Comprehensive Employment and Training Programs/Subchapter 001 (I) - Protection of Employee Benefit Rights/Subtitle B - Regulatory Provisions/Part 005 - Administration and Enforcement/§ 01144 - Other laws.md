@@ -2,7 +2,7 @@
 
 #### (a) Supersedure; effective date
 
-Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
+Except as provided in subsection (b) of this section, the provisions of this subchapter andsubchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
 
 #### (b) Construction and application
 
@@ -48,7 +48,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(A) with respect to which the State exercises its acquired rights under section 1169(b)(3) of this title with respect to a group health plan (as defined in section 1167(1) of this title), or
 
-&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed before payment with respect to such items or services by the group health plan.
+&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed beforepayment with respect to such items or services by the group health plan.
 
 #### (c) Definitions
 
@@ -132,5 +132,5 @@ Section 301(b) of Pub. L. 97–473 provided that: “The amendment made by this 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1114 of this title.
+This section is referred to in section 1114 of this title; title 4 section 114.
 

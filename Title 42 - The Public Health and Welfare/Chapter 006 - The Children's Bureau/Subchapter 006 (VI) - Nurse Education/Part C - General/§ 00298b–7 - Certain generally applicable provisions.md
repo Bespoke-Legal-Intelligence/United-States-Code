@@ -12,7 +12,7 @@ The Secretary may make an award of a grant, cooperative agreement, or contract u
 
 #### (2) Limitation
 
-&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contractunder this subchapter, paragraph (1) shall apply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
+&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, paragraph (1) shall apply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
 
 #### (c) Breach of agreements for obligated service
 

@@ -10,5 +10,5 @@ For exception of functions of corporations of Department of Agriculture from tra
 
 #### Cross References
 
-Transfer of nonadministrative funds of Commodity Credit Corporation to appropriations for classifying orgrading of agricultural commodities, see section 414a of Title 7, Agriculture.
+Transfer of nonadministrative funds of Commodity Credit Corporation to appropriations for classifying or grading of agricultural commodities, see section 414a of Title 7, Agriculture.
 

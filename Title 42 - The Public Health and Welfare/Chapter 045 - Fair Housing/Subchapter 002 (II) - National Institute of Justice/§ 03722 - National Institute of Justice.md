@@ -76,7 +76,7 @@ Subsec. (c)(2)(E). Pub. L. 98–473, §604(b)(2)(A)(ii), struck out “the preve
 
 Subsec. (c)(3). Pub. L. 98–473, §604(b)(2)(B), substituted “chapter” for “subchapter”.
 
-Subsec. (c)(4) to (7). Pub. L. 98–473, §604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of thischapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
+Subsec. (c)(4) to (7). Pub. L. 98–473, §604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
 
 Subsec. (c)(8). Pub. L. 98–473, §604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for “subchapter VI of this chapter”. Former par. (8) redesignated (7).
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 #### Anti-Stalking Legislation Evaluation, Model Development, Dissemination and Report
 
-Pub. L. 102–395, title I, §109(b), Oct. 6, 1992, 106 Stat. 1842, directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that is constitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findings and the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
+Pub. L. 102–395, title I, §109(b), Oct. 6, 1992, 106 Stat. 1842, directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that isconstitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findings and the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
 
 #### Section Referred to in Other Sections
 

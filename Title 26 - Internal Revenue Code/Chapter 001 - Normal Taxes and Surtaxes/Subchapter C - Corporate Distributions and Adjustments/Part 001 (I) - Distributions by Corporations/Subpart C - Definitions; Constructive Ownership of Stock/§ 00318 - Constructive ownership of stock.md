@@ -26,7 +26,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 #### (B) From trusts
 
-&emsp;&emsp;&emsp;(i) Stock owned, directly or indirectly, by or for a trust (other than an employees’ trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by its beneficiariesin proportion to the actuarial interest of such beneficiaries in such trust.
+&emsp;&emsp;&emsp;(i) Stock owned, directly or indirectly, by or for a trust (other than an employees’ trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by its beneficiaries in proportion to the actuarial interest of such beneficiaries in such trust.
 
 &emsp;&emsp;&emsp;(ii) Stock owned, directly or indirectly, by or for any portion of a trust of which a person is considered the owner under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners) shall be considered as owned by such person.
 

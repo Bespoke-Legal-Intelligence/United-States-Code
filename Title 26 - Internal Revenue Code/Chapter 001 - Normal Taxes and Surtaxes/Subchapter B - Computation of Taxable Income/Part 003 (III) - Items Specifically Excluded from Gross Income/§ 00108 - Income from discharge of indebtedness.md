@@ -26,7 +26,7 @@
 
 #### (3) Insolvency exclusion limited to amount of insolvency
 
-&emsp;In the case of a discharge to which paragraph (1)(B) applies, the amount excluded under paragraph (1)(B) shall not exceed the amount by which the taxpayer is insolvent.
+&emsp;In the case of a discharge to which paragraph (1)(B) applies, the amount excludedunder paragraph (1)(B) shall not exceed the amount by which the taxpayer is insolvent.
 
 #### (b) Reduction of tax attributes
 
@@ -90,7 +90,7 @@
 
 #### (B) Reductions under subparagraph (A) or (D) of paragraph (2)
 
-&emsp;&emsp;The reductions described in subparagraph (A) or (D) of paragraph (2) (as the case maybe) shall be made first in the loss for the taxable year of the discharge and then in the carryovers to such taxable year in the order of the taxable years from which each such carryover arose.
+&emsp;&emsp;The reductions described in subparagraph (A) or (D) of paragraph (2) (as the case may be) shall be made first in the loss for the taxable year of the discharge and then in the carryovers to such taxable year in the order of the taxable years from which each such carryover arose.
 
 #### (C) Reductions under subparagraphs (B) and (G) of paragraph (2)
 
@@ -300,7 +300,7 @@ For purposes of this title—
 
 #### (C) Stock of parent corporation
 
-&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaning of section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
+&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaningof section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
 
 #### (D) Treatment of successor corporation
 
@@ -384,7 +384,7 @@ For purposes of this title—
 
 #### (B) Adjusted tax attributes
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “adjusted tax attributes” means the sum of the tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) of subsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
+&emsp;&emsp;For purposes of subparagraph (A), the term “adjusted tax attributes” means the sum ofthe tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) of subsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
 
 #### (C) Qualified property
 
@@ -424,7 +424,7 @@ Subsec. (d). Pub. L. 103–66, §13150(c)(3)(B), substituted “certain provisio
 
 Subsec. (d)(6), (7)(A). Pub. L. 103–66, §13150(c)(3)(A), (C), substituted “Certain provisions” for “Subsections (a), (b) and (g)” in heading and “subsections (a), (b), (c), and (g)” for “subsections (a), (b), and (g)” in text.
 
-Subsec. (d)(7)(B). Pub. L. 103–66, §13150(c)(4), inserted at end “The preceding sentence shall not apply to anydischarge to the extent that subsection (a)(1)(D) applies to such discharge.”
+Subsec. (d)(7)(B). Pub. L. 103–66, §13150(c)(4), inserted at end “The preceding sentence shall not apply to any discharge to the extent that subsection (a)(1)(D) applies to such discharge.”
 
 Subsec. (d)(9)(A). Pub. L. 103–66, §13150(c)(5), inserted “or under paragraph (3)(B) of subsection (c)” after “subsection (b)”.
 
@@ -456,7 +456,7 @@ Subsec. (a)(2). Pub. L. 100–647, §1004(a)(2), amended par. (2) generally. Pri
 
 Subsec. (b). Pub. L. 100–647, §1004(a)(3), struck out “in title 11 case or insolvency” after “Reduction of tax attributes” in heading and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)” in text of par. (1).
 
-Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for “subsections (a) and (b)” as the probable intent of Congress.
+Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for“subsections (a) and (b)” as the probable intent of Congress.
 
 Subsec. (d)(6). Pub. L. 100–647, §1004(a)(6)(A), (C), substituted “Subsections (a), (b), and (g)” for “Subsections (a) and (b)” in heading and “subsections (a), (b), and (g)” for “subsections (a) and (b)” in text.
 
@@ -636,7 +636,7 @@ Transitional rule.—The amendment made by subsection (a) shall not apply to the
 
 Certain transfers to controlling shareholder.—The amendment made by subsection (a) shall not apply to any transfer before January 1, 1985, by a corporation of its stock in exchange for debt of such corporation if—
 
-&emsp;“(A) such transfer is to another corporation which at all times on June 7, 1984, owned 75 percent or more of the total value of the stock of the corporation making such transfer, and
+&emsp;“(A) such transfer is to another corporation which at all times on June 7, 1984, owned 75 percent or moreof the total value of the stock of the corporation making such transfer, and
 
 &emsp;“(B) immediately after such transfer, the transferee corporation owns 80 percent or more of the total value of the stock of the transferor corporation.
 

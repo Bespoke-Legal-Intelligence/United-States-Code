@@ -48,23 +48,23 @@ It is the purpose of this subchapter—
 
 &emsp;(11) to promote high quality child development and early childhood education specialist training programs, including preschool and early intervention services for infants and toddlers with disabilities.
 
-(Pub. L. 89 329, title V, §500, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 653.)
+(Pub. L. 89–329, title V, §500, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 653.)
 
 #### Prior Provisions
 
-A prior section 1101, Pub. L. 89 329, title V, §501, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1495, related to statement of purpose and applicability of this subchapter, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1101, Pub. L. 89–329, title V, §501, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1495, related to statement of purpose and applicability of this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 1101, Pub. L. 89 329, title V, §511, Nov. 8, 1965, 79 Stat. 1255; Pub. L. 90 35, §3(a)(3), (b), June 29, 1967, 81 Stat. 85; Pub. L. 90 575, title II, §231 (a), (b)(1), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 91 230, title VIII, §§804(b), 805(a), Apr. 13, 1970, 84 Stat. 190, 191; Pub. L. 92 318, title I, §141(a)(1)(A), (c)(1)(C), June 23, 1972, 86 Stat. 284, 285; Pub. L. 93 380, title VIII, §835(a)(1), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94 482, title I, §§151(a)(5)(A), 152(a), Oct. 12, 1976, 90 Stat. 2152; Pub. L. 96 49, §6(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96 374, title V, §501(a), Oct. 3, 1980, 94 Stat. 1459, set forth statement of purpose and authorization of appropriations for Teacher Corps program, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Another prior section 1101, Pub. L. 89–329, title V, §511, Nov. 8, 1965, 79 Stat. 1255; Pub. L. 90–35, §3(a)(3), (b), June 29, 1967, 81 Stat. 85; Pub. L. 90–575, title II, §231 (a), (b)(1), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 91–230, title VIII, §§804(b), 805(a), Apr. 13, 1970, 84 Stat. 190, 191; Pub. L. 92–318, title I, §141(a)(1)(A), (c)(1)(C), June 23, 1972, 86 Stat. 284, 285; Pub. L. 93–380, title VIII, §835(a)(1), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94–482, title I, §§151(a)(5)(A), 152(a), Oct. 12, 1976, 90 Stat. 2152; Pub. L. 96–49, §6(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374,title V, §501(a), Oct. 3, 1980, 94 Stat. 1459, set forth statement of purpose and authorization of appropriations for Teacher Corps program, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-A prior section 1101a, Pub. L. 89 329, title V, §502, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, authorized appropriations for this subchapter, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1101a, Pub. L. 89–329, title V, §502, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, authorized appropriations for this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
 
 #### Effective Date
 
-Subchapter effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Subchapter effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
 #### National Job Bank for Teacher Recruitment
 
-Section 1412 of Pub. L. 102 325 provided that:
+Section 1412 of Pub. L. 102–325 provided that:
 
 “(a)
 
@@ -138,7 +138,7 @@ Authorization.—There are authorized to be appropriated $2,000,000 for fiscal y
 
 #### Training and Technical Assistance for School-Based Decisionmakers Demonstration Program
 
-Section 1531 of Pub. L. 102 325 provided that:
+Section 1531 of Pub. L. 102–325 provided that:
 
 “(a)
 

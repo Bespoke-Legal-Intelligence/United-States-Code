@@ -1,6 +1,6 @@
 ### §932. Commissioners; appointment, number, and compensation; term of office; vacancy
 
-(a)(1) The United States shall be represented on the Commission by 4 Commissioners who shall be appointed by the President and whomay not receive compensation for service as Commissioners. Of the Commissioners—
+(a)(1) The United States shall be represented on the Commission by 4 Commissioners who shall be appointed by the President and who may not receive compensation for service as Commissioners. Of the Commissioners—
 
 &emsp;(A) 1 shall be an official of the United States Government; and
 

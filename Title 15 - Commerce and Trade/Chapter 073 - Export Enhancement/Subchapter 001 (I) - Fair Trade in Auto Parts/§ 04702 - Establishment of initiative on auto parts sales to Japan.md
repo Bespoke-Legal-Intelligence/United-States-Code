@@ -22,7 +22,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(7) submit annual written reports or otherwise report annually to the Congress on the sale of United States-made auto parts in Japanese markets, including the extent to which long-term, commercial relationships exist between United States auto parts manufacturers and Japanese automobile manufacturers.
 
-(Pub. L. 100 418, title II, §2123, Aug. 23, 1988, 102 Stat. 1326.)
+(Pub. L. 100–418, title II, §2123, Aug. 23, 1988, 102 Stat. 1326.)
 
 #### Section Referred to in Other Sections
 

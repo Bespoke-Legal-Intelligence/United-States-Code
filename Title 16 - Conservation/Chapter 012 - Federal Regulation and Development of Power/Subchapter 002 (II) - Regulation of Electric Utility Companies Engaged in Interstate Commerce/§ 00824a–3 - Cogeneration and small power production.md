@@ -8,11 +8,11 @@ Not later than 1 year after November 9, 1978, the Commission shall prescribe, an
 
 &emsp;(2) purchase electric energy from such facilities.
 
-> Such rules shall be prescribed, after consultation with representatives of Federal and State regulatory agencies having ratemaking authority for electric utilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments. Such rules shall include provisions respecting minimum reliability of qualifying cogeneration facilities and qualifying small power production facilities (including reliability ofsuch facilities during emergencies) and rules respecting reliability of electric energy service to be available to such facilities from electric utilities during emergencies. Such rules may not authorize a qualifying cogeneration facility or qualifying small power production facility to make any sale for purposes other than resale.
+> Such rules shall be prescribed, after consultation with representatives of Federal and State regulatory agencies having ratemaking authority for electric utilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments. Such rules shall include provisions respecting minimum reliability of qualifying cogeneration facilities and qualifying small power production facilities (including reliability of such facilities during emergencies) and rules respecting reliability of electric energy service to be available to such facilities from electric utilities during emergencies. Such rules may not authorize a qualifying cogeneration facility or qualifying small power production facility to make any sale for purposes other than resale.
 
 #### (b) Rates for purchases by electric utilities
 
-The rules prescribed under subsection (a) of this section shall insure that, in requiring any electric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
+The rules prescribed under subsection (a) of this section shall insure that, in requiring anyelectric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
 
 &emsp;(1) shall be just and reasonable to the electric consumers of the electric utility and in the public interest, and
 
@@ -100,9 +100,9 @@ For purposes of this section, the term “new dam or diversion” means a dam or
 
 #### (<i>l</i>) Definitions
 
-For purposes of this section, the terms “small power production facility”, “qualifying smallpower production facility”, “qualifying small power producer”, “primary energy source”, “cogeneration facility”, “qualifying cogeneration facility”, and “qualifying cogenerator” have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
+For purposes of this section, the terms “small power production facility”, “qualifying small power production facility”, “qualifying small power producer”, “primary energy source”, “cogeneration facility”, “qualifying cogeneration facility”, and “qualifying cogenerator” have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
 
-(Pub. L. 95–617, title II, §210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, §643(b), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, §2, Nov. 15, 1990, 104 Stat. 2834.)
+(Pub. L. 95–617, title II, §210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, §643(b), June 30,1980, 94 Stat. 770; Pub. L. 99–495, §8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, §2, Nov. 15, 1990, 104 Stat. 2834.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### Calculation of Avoided Cost
 
-Pub. L. 102–486, title XIII, §1335, Oct. 24, 1992, 106 Stat. 2984, provided that: “Nothing in section 210 of the Public Utility Regulatory Policies Act of 1978 (Public Law 95–617) \[16 U.S.C. 824a–3\] requires a State regulatory authority or nonregulated electric utility to treat a cost reasonably identified to be incurred or to have been incurred in the construction or operation of a facility ora project which has been selected by the Department of Energy and provided Federal funding pursuant to the Clean Coal Program authorized by Public Law 98–473 \[see Tables for classification\] as an incremental cost of alternative electric energy.”
+Pub. L. 102–486, title XIII, §1335, Oct. 24, 1992, 106 Stat. 2984, provided that: “Nothing in section 210 of the Public Utility Regulatory Policies Act of 1978 (Public Law 95–617) \[16 U.S.C. 824a–3\] requires a State regulatory authority or nonregulated electric utility to treat a cost reasonably identified to be incurred or to have been incurred in the construction or operation of a facility or a project which has been selected by the Department of Energy and provided Federal funding pursuant to the Clean Coal Program authorized by Public Law 98–473 \[see Tables for classification\] as an incremental cost of alternative electric energy.”
 
 #### Applicability of 1980 Amendment to Facilities Using Solar Energy as Primary Energy Source
 

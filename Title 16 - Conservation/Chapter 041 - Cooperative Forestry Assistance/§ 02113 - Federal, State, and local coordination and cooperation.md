@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish an intradepartmental committee, to be known as the“Forest Resource Coordinating Committee” (hereafter referred to in this section as the “Coordinating Committee”), to coordinate forestry activities.
+&emsp;The Secretary shall establish an intradepartmental committee, to be known as the “Forest Resource Coordinating Committee” (hereafter referred to in this section as the “Coordinating Committee”), to coordinate forestry activities.
 
 #### (2) Composition
 

@@ -6,7 +6,7 @@ An amount (other than a travel, transportation, or per diem allowance) received 
 
 #### Amendments
 
-1992—Pub. L. 102–378 substituted “6323(b) or (c)” for “6323(c) or (d) of this title”.
+<b>1992</b>—Pub. L. 102–378 substituted “6323(b) or (c)” for “6323(c) or (d) of this title”.
 
 #### Section Referred to in Other Sections
 

@@ -87,3 +87,4 @@
 - [&sect; 01629c - Duration of alienability restrictions](%C2%A7%2001629c%20-%20Duration%20of%20alienability%20restrictions.md)
 - [&sect; 01629d - Dissenters rights](%C2%A7%2001629d%20-%20Dissenters%20rights.md)
 - [&sect; 01629e - Settlement Trust option](%C2%A7%2001629e%20-%20Settlement%20Trust%20option.md)
+- [&sect; 01629f - Claims arising from contamination of transferred lands](%C2%A7%2001629f%20-%20Claims%20arising%20from%20contamination%20of%20transferred%20lands.md)

@@ -1,4 +1,4 @@
-### §121 . Regulations
+### §121. Regulations
 
 The President may prescribe regulations to carry out his functions, powers, and duties under this title.
 

@@ -1,4 +1,4 @@
-### §749 . Command: commissioned officers in same grade or corresponding grades on duty at same place
+### §749. Command: commissioned officers in same grade or corresponding grades on duty at same place
 
 (a) When the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, has on duty in the same area, field command, or organization two or more commissioned officers of the same grade who are otherwise eligible to command, the President may assign the command without regard to rank in that grade.
 

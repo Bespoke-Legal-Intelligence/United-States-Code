@@ -38,7 +38,7 @@
 
 #### (c) Annuity supplement
 
-A participant who is entitled to an immediate annuity under subsection (b) of this section shall be entitled to receive an annuity supplement while the annuitant is under 62 years ofage. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
+A participant who is entitled to an immediate annuity under subsection (b) of this section shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
 
 #### (d) Separation for cause based on disloyalty
 
@@ -60,7 +60,7 @@ Subsec. (b)(2). Pub. L. 99–556, §406(b), amended par. (2) by substituting sub
 
 “(A) for all service earned while a participant in this System, at the rate stated in section 8415(d) of title 5; and
 
-“(B) for all service earned while a participant in another retirement system creditable under section 4071c(d) of this title, at the rate which would have been applicable to the individual had that individual remained a participant in the other system; and
+“(B) for all service earned while a participant in another retirement system creditable under section4071c(d) of this title, at the rate which would have been applicable to the individual had that individual remained a participant in the other system; and
 
 “(C) for all volunteer service creditable under section 4071c(c) of this title, at the rate stated in section 8415(a) of title 5.”
 

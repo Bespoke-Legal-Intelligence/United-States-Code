@@ -1,0 +1,14 @@
+### §53. Licensing classifiers; revocation and suspension of license
+
+The Secretary of Agriculture may, upon presentation of satisfactory evidence of competency, issue to any person a license to grade or otherwise classify cotton and to certificate the grade or other class thereof in accordance with the official cotton standards of the United States. Any such license may be suspended or revoked by the Secretary of Agriculture whenever he is satisfied, after reasonable opportunity afforded to the licensee for a hearing, that such licensee is incompetent or has knowingly or carelessly classified cotton improperly, or has violated any provision of this chapter or the regulations thereunder so far as the same may relate to him, or has used his license or allowed it to be used for any improper purpose. Pending investigation the Secretary of Agriculture, whenever he deems necessary, may suspend a license temporarily without a hearing.
+
+(Mar. 4, 1923, ch. 288, §3, 42 Stat. 1517.)
+
+#### Cross References
+
+Charges for licenses issued to classifiers of cotton under this section, see section 55 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 55 of this title.
+

@@ -4,7 +4,7 @@
 
 #### (1) States
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may makegrants to States for the purpose of developing plans that meet the assurances required by the Secretary under section 399B(c)(2).<sup>1</sup>
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States for the purpose of developing plans that meet the assurances required by the Secretary under section 399B(c)(2).<sup>1</sup>
 
 #### (2) Other entities
 

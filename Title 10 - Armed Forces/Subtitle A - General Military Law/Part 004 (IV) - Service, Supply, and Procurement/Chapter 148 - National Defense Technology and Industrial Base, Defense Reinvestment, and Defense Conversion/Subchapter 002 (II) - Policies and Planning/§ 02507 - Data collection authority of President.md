@@ -6,7 +6,7 @@ Authority.—The President shall be entitled, by regulation, subpoena, or otherw
 
 (b)
 
-Condition for Use of Authority.—The President shall issue regulations insuring that the authority of this section will be used only after the scope and purpose of the investigation, inspection, or inquiry to be made have been defined by competent authority and it is assured that no adequate and authoritative data are available from any Federal or other responsible agency.
+Condition for Use of Authority.—The President shall issue regulations insuring that the authority of this section will be used only after the scope and purpose of the investigation, inspection, or inquiry to be made have been defined by competent authority and it is assured that no adequate and authoritative data areavailable from any Federal or other responsible agency.
 
 (c)
 
@@ -14,7 +14,7 @@ Penalty for Noncompliance.—Any person who willfully performs any act prohibite
 
 (d)
 
-Limitations on Disclosure of Information.—Information obtained under section (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of thenational defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.
+Limitations on Disclosure of Information.—Information obtained under section (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of the national defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.
 
 (e)
 

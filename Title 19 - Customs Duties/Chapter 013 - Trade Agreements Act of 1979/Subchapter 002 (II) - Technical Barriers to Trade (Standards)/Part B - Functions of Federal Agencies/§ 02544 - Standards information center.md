@@ -16,7 +16,7 @@ The standards information center shall—
 
 &emsp;(4) in case of such information that is of foreign origin, provide, at such reasonable fee as the Secretary shall prescribe, such translation services as may be necessary;
 
-&emsp;(5) serve as the inquiry point for requests for information regarding standards-related activities, whether adopted or proposed, within the United States, except that in carrying out this paragraph, the Secretary of Commerce shall refer all inquiries regarding agricultural products to the technical office established under section 2542(a)(2) of this title within the Department of Agriculture; and
+&emsp;(5) serve as the inquiry point for requests for information regarding standards-related activities, whether adopted or proposed, within the United States, except that in carrying out this paragraph, the Secretary of Commerceshall refer all inquiries regarding agricultural products to the technical office established under section 2542(a)(2) of this title within the Department of Agriculture; and
 
 &emsp;(6) provide such other services as may be appropriate, including but not limited to, such services to the technical offices established under section 2542 of this title as may be requested by those offices in carrying out their functions.
 
@@ -30,7 +30,7 @@ The standards information center shall—
 
 &emsp;&emsp;(B) the procedures of a Federal agency or an agency of a State or local government for risk assessment and factors the agency considers in conducting the assessment;
 
-&emsp;&emsp;(C) the determination of the levels of protection that a Federal agency or an agencyof a State or local government considers appropriate; and
+&emsp;&emsp;(C) the determination of the levels of protection that a Federal agency or an agency of a State or local government considers appropriate; and
 
 &emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
 

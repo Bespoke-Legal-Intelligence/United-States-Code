@@ -1,4 +1,4 @@
-### §410<i>oo</i>–6 . Authorization of appropriations
+### §410<i>oo</i>–6. Authorization of appropriations
 
 There are hereby authorized to be appropriated not to exceed $12,000,000 to carry out this subchapter.
 

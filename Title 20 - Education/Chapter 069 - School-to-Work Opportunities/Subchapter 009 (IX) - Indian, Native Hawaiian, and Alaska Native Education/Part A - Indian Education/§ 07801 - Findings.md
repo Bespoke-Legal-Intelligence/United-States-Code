@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) meet the special educational and culturally related academic needs of American Indian and Alaska Native students;
 
-&emsp;(2) since the date of enactment of the initial Indian Education Act in 1972, the level of involvement of Indian parents in the planning, development, and implementation of educational programs that affect such parents and their children has increased significantly,and schools should continue to foster such involvement;
+&emsp;(2) since the date of enactment of the initial Indian Education Act in 1972, the level of involvement of Indian parents in the planning, development, and implementation of educational programs that affect such parents and their children has increased significantly, and schools should continue to foster such involvement;
 
 &emsp;(3) although the number of Indian teachers, administrators, and university professors has increased since 1972, teacher training programs are not recruiting, training, or retraining a sufficient number of Indian individuals as educators to meet the needs of a growing Indian student population in elementary, secondary, vocational, adult, and higher education;
 
@@ -20,9 +20,9 @@ The Congress finds that—
 
 &emsp;(6) research related specifically to the education of Indian children and adults is very limited, and much of the research is of poor quality or is focused on limited local or regional issues.
 
-(Pub. L. 89 10, title IX, §9101, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3773.)
+(Pub. L. 89–10, title IX, §9101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3773.)
 
 #### References in Text
 
-The date of enactment of the initial Indian Education Act in 1972, referred to in par. (2), means the date of enactment of title IV of Pub. L. 92 318, which was approved June 23, 1972.
+The date of enactment of the initial Indian Education Act in 1972, referred to in par. (2), means the date of enactment of title IV of Pub. L. 92–318, which was approved June 23, 1972.
 

@@ -38,7 +38,7 @@
 
 #### (c) Expenditures from Boat Safety Account
 
-Amounts in the Boat Safety Account shall be available, as provided by appropriation Acts, for making expenditures before April 1, 1998, to carry out the purposes of section 13106 of title 46, United States Code (as in effect on October 1, 1988).
+Amounts in the Boat Safety Account shall be available, as provided by appropriation Acts, formaking expenditures before April 1, 1998, to carry out the purposes of section 13106 of title 46, United States Code (as in effect on October 1, 1988).
 
 #### (d) Cross reference
 
@@ -90,7 +90,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the NationalRecreational Boating Safety and Facilities Improvement Fund established by section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account.”
+Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account.”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §122. Jurisdiction over public lands; transfer by Federal and District authorities
 
-Federal and District authorities administering properties within the District of Columbia owned by the United States or by the said District are authorized to transfer jurisdiction over parts or all of such properties among or betweenthemselves for purposes of administration and maintenance under such conditions as may be mutually agreed upon: <i>Provided</i>, That prior to the consummation of any transfer hereunder such proposed transfer shall be recommended by the National Capital Planning Commission: <i>Provided further</i>, That all such transfers and agreements shall be reported to Congress by the District authorities concerned.
+Federal and District authorities administering properties within the District of Columbiaowned by the United States or by the said District are authorized to transfer jurisdiction over parts or all of such properties among or between themselves for purposes of administration and maintenance under such conditions as may be mutually agreed upon: <i>Provided</i>, That prior to the consummation of any transfer hereunder such proposed transfer shall be recommended by the National Capital Planning Commission: <i>Provided further</i>, That all such transfers and agreements shall be reported to Congress by the District authorities concerned.
 
 (May 20, 1932, ch. 197, §1, 47 Stat. 161; June 6, 1924, ch. 270, §9, as added July 19, 1952, ch. 949, §1, 66 Stat. 790; Aug. 30, 1954, ch. 1076, §1(20), 68 Stat. 967.)
 

@@ -38,7 +38,7 @@ Not later than 24 months after November 15, 1990, and every 24 months thereafter
 
 #### (f) Appointment of Advisory Council on Clean Air Compliance Analysis
 
-Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the “Council”). In appointing such members, the Administrator shall appoint recognizedexperts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
+Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the “Council”). In appointing such members, the Administrator shall appoint recognized experts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
 
 #### (g) Duties of Advisory Council
 
@@ -50,7 +50,7 @@ The Council shall—
 
 &emsp;(3) prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
 
-(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §224(c), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title VIII, §812(a), 104 Stat. 2691.)
+(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31,1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §224(c), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title VIII, §812(a), 104 Stat. 2691.)
 
 #### Codification
 

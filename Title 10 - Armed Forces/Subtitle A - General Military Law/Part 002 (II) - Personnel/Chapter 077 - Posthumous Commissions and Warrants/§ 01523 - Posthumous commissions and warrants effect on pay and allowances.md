@@ -1,4 +1,4 @@
-### §1523 . Posthumous commissions and warrants: effect on pay and allowances
+### §1523. Posthumous commissions and warrants: effect on pay and allowances
 
 No person is entitled to any bonus, gratuity, pay, or allowance because of a posthumous commission or warrant.
 

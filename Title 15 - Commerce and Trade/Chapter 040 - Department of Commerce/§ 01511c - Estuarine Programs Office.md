@@ -28,5 +28,5 @@ The Estuarine Programs Office shall—
 
 There are authorized to be appropriated to the Administration not to exceed $500,000 for fiscal year 1987, $530,000 for fiscal year 1988, $560,000 for fiscal year 1989, and $600,000 for fiscal year 1990 to carry out the provisions of this section.
 
-(Pub. L. 99 659, title IV, §406, Nov. 14, 1986, 100 Stat. 3738.)
+(Pub. L. 99–659, title IV, §406, Nov. 14, 1986, 100 Stat. 3738.)
 

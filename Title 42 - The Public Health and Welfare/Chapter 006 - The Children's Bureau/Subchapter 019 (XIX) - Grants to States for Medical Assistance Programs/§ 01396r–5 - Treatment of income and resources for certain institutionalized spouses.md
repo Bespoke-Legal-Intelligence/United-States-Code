@@ -22,7 +22,7 @@
 
 #### (A) Application in States operating under demonstration projects
 
-&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of thistitle, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (B) No application in commonwealths and territories
 
@@ -30,7 +30,7 @@
 
 #### (5) Application to individuals receiving services from organizations receiving certain waivers
 
-&emsp;This section applies to individuals receiving institutional or noninstitutional services fromany organization receiving a frail elderly demonstration project waiver under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 or a waiver under section 603(c) of the Social Security Amendments of 1983.
+&emsp;This section applies to individuals receiving institutional or noninstitutional services from any organization receiving a frail elderly demonstration project waiver under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 or a waiver under section 603(c) of the Social Security Amendments of 1983.
 
 #### (b) Rules for treatment of income
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
+Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
 
 #### Effective Date of 1990 Amendment
 

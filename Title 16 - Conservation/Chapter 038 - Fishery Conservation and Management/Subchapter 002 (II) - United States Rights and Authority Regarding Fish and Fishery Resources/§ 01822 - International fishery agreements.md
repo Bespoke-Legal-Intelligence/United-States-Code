@@ -12,7 +12,7 @@ The Secretary of State—
 
 &emsp;(4) shall, upon the request of and in cooperation with the Secretary, initiate and conduct negotiations for the purpose of entering into international fishery agreements—
 
-&emsp;&emsp;(A) which allow fishing vessels of the United States equitable access to fish overwhich foreign nations assert exclusive fishery management authority, and
+&emsp;&emsp;(A) which allow fishing vessels of the United States equitable access to fish over which foreign nations assert exclusive fishery management authority, and
 
 &emsp;&emsp;(B) which provide for the conservation and management of anadromous species and highly migratory species; and
 
@@ -70,7 +70,7 @@ The Secretary of State, in cooperation with the Secretary, may initiate and cond
 
 #### (5) South Pacific tuna treaty
 
-&emsp;It is the sense of the Congress that the United States Government shall, at the earliest opportunity, begin negotiations for the purpose of extending the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed at Port Moresby, Papua New Guinea, April 2, 1987, and it <sup>1</sup> Annexes, Schedules, and implementing agreements for an additional term of 10 years on terms and conditions at least as favorable to vessels of the United States and the United States Government.
+&emsp;It is the sense of the Congress that the United States Government shall, at the earliest opportunity, begin negotiations for the purpose of extending the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed at Port Moresby, Papua New Guinea, April 2, 1987, and it <sup>1</sup> Annexes, Schedules, and implementingagreements for an additional term of 10 years on terms and conditions at least as favorable to vessels of the United States and the United States Government.
 
 #### (f) Nonrecognition
 
@@ -146,7 +146,7 @@ Issuance of Certificates.—For the purposes of subsection (a), a valid certific
 
 “(c)
 
-Bilateral or Multilateral Agreements.—Efforts undertaken by the Secretary of State pursuant to subsection (a) may, at the discretion of the Secretary, be directed toward achieving either bilateral or multilateral agreements, including trade agreements, whichever the Secretary determines to be most likely to result in the earliest possible date or dates of agreementby those nations which individually have in excess of $1,000,000, or the equivalent, in import or export trade in anadromous fish and anadromous fish products.
+Bilateral or Multilateral Agreements.—Efforts undertaken by the Secretary of State pursuant to subsection (a) may, at the discretion of the Secretary, be directed toward achieving either bilateral or multilateral agreements, including trade agreements, whichever the Secretary determines to be most likely to result in the earliest possible date or dates of agreement by those nations which individually have in excess of $1,000,000, or the equivalent, in import or export trade in anadromous fish and anadromous fish products.
 
 “(d)
 
@@ -264,7 +264,7 @@ Information From Foreign Governments.—The Secretary, through the Secretary of 
 
 “(a)
 
-Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation,for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
+Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
 
 &emsp;“(1) the effective monitoring and detection of violations;
 

@@ -4,7 +4,7 @@
 
 The Architect of the Capitol, subject to the direction of the Joint Committee on the Library, is authorized to—
 
-&emsp;(1) construct a National Garden demonstrating the diversity of plans,<sup>1</sup> including the rose, our national flower, to be located between Maryland and Independence Avenues, S.W., and extending from the Botanic Garden Conservatory to Third Streets, S.W., in the District of Columbia; and
+&emsp;(1) construct a National Garden demonstrating the diversity of plants, including the rose, our national flower, to be located between Maryland and Independence Avenues, S.W., and extending from the Botanic Garden Conservatory to Third Streets, S.W., in the District of Columbia; and
 
 &emsp;(2) solicit, receive, accept, and hold gifts, including money, plant material, and other property, on behalf of the Botanic Garden, and to dispose of, utilize, obligate, expend, disburse, and administer such gifts for the benefit of the Botanic Garden, including among other things, the carrying out of any programs, duties, or functions of the Botanic Garden, and for constructing, equipping, and maintaining the National Garden referred to in paragraph (1).
 
@@ -28,13 +28,15 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 Any gift accepted by the Architect of the Capitol under this section shall be considered a gift to the United States for purposes of income, estate, and gift tax laws of the United States.
 
-(Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec. 12, 1991, 105 Stat. 1716.)
+(Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, §201(b), Nov. 19, 1995, 109 Stat. 529.)
 
 #### References in Text
 
 The income, estate, and gift tax laws of the United States, referred to in subsec. (d), are classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1995—Subsec. (a)(1). Pub. L. 104–53 substituted “plants” for “plans”.
 
 1991—Pub. L. 102–229 amended section generally. Prior to amendment, section read as follows: “The Architect of the Capitol, subject to the direction of the Joint Committee on the Library, is authorized to—
 
@@ -44,11 +46,9 @@ The income, estate, and gift tax laws of the United States, referred to in subse
 
 #### Funds Available for Constructing, Equipping, and Maintaining National Garden
 
-Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, provided that: “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c), not more than $6,000,000 shall be accepted and not more than $6,000,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.”
+Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, §201(a), Nov. 19, 1995, 109 Stat. 529, provided that: “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c), not more than $10,000,000 shall be accepted and not more than $10,000,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.”
 
 #### Renovation of Conservatory of Botanic Garden
 
 Section 209(b) of Pub. L. 102–229 provided that: “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 \[40 U.S.C. 216c\], not more than $2,000,000 shall be accepted and not more than $2,000,000 of the amounts accepted shall be available for obligation by the Architect for preparation of working drawings, specifications, and cost estimates for renovation of the Conservatory of the Botanic Garden.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “plants,”.</i>
 

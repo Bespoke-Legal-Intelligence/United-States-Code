@@ -16,7 +16,7 @@ The statement of record shall contain the information and be accompanied by the 
 
 &emsp;(7)(A) copy of its articles of incorporation, with all amendments thereto, if the developer is a corporation; (B) copies of all instruments by which the trust is created or declared, if the developer is a trust; (C) copies of its articles of partnership or association and all other papers pertaining to its organization, if the developer is a partnership, unincorporated association, joint stock company, or any other form of organization; and (D) if the purported holder of legal title is a person other than developer, copies of the above documents for such person;
 
-&emsp;(8) copies of the deed or other instrument establishing title to the subdivision in the developer or other person and copies of any instrument creating a lien or encumbrance upon the title of developer or other person or copies of the opinion or opinions of counsel in respect to the title to the subdivision in the developer or other person or copies of the title insurance policy guaranteeing such title;
+&emsp;(8) copies of the deed or other instrument establishing title to the subdivision in the developer or other person and copies of any instrument creating a lien or encumbrance upon the title of developer or other person or copies of the opinion or opinions of counsel in respect to the title to the subdivision in the developeror other person or copies of the title insurance policy guaranteeing such title;
 
 &emsp;(9) copies of all forms of conveyance to be used in selling or leasing lots to purchasers;
 
@@ -26,11 +26,11 @@ The statement of record shall contain the information and be accompanied by the 
 
 &emsp;(12) such other information and such other documents and certifications as the Secretary may require as being reasonably necessary or appropriate for the protection of purchasers.
 
-(Pub. L. 90 448, title XIV, §1406, Aug. 1, 1968, 82 Stat. 592; Pub. L. 91 609, title IX, §909, Dec. 31, 1970, 84 Stat. 1811.)
+(Pub. L. 90–448, title XIV, §1406, Aug. 1, 1968, 82 Stat. 592; Pub. L. 91–609, title IX, §909, Dec. 31, 1970, 84 Stat. 1811.)
 
 #### Amendments
 
-1970—Par. (5). Pub. L. 91 609 required the statement of record to contain a statement of the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer.
+1970—Par. (5). Pub. L. 91–609 required the statement of record to contain a statement of the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer.
 
 #### Section Referred to in Other Sections
 

@@ -4,14 +4,14 @@
 | :--- | ---: |
 | [627\.](%C2%A7%2000627%20-%20Failure%20of%20selection%20for%20promotion.md) | Failure of selection for promotion. |
 | [628\.](%C2%A7%2000628%20-%20Special%20selection%20boards.md) | Special selection boards. |
-| 629\. | Removal from a list of officers recommended for promotion. |
-| 630\. | Discharge of regular commissioned officers with less than five years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade). |
-| 631\. | Effect of failure of selection for promotion: regular first lieutenants and lieutenants (junior grade). |
-| 632\. | Effect of failure of selection for promotion: regular captains and majors of the Army, Air Force, and Marine Corps and regular lieutenants and lieutenant commanders of the Navy. |
-| 633\. | Retirement for years of service: regular lieutenant colonels and commanders. |
-| 634\. | Retirement for years of service: regular colonels and Navy captains. |
-| 635\. | Retirement for years of service: regular brigadier generals and rear admirals (lower half). |
-| 636\. | Retirement for years of service: regular major generals and rear admirals. |
+| [629\.](%C2%A7%2000629%20-%20Removal%20from%20a%20list%20of%20officers%20recommended%20for%20promotion.md) | Removal from a list of officers recommended for promotion. |
+| [630\.](%C2%A7%2000630%20-%20Discharge%20of%20regular%20commissioned%20officers%20with%20less%20then%20five%20years%20of%20active%20commissioned%20service%20or%20found%20not%20qualified%20for%20promotion%E2%80%A6.md) | Discharge of regular commissioned officers with less than five years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade). |
+| [631\.](%C2%A7%2000631%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20regular%20first%20lieutenants%20and%20lieutenants%20%28junior%20grade%29.md) | Effect of failure of selection for promotion: regular first lieutenants and lieutenants (junior grade). |
+| [632\.](%C2%A7%2000632%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20regular%20captains%20and%20majors%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20regular%20lieutenants%E2%80%A6.md) | Effect of failure of selection for promotion: regular captains and majors of the Army, Air Force, and Marine Corps and regular lieutenants and lieutenant commanders of the Navy. |
+| [633\.](%C2%A7%2000633%20-%20Retirement%20for%20years%20of%20service%20regular%20lieutenant%20colonels%20and%20commanders.md) | Retirement for years of service: regular lieutenant colonels and commanders. |
+| [634\.](%C2%A7%2000634%20-%20Retirement%20for%20years%20of%20service%20regular%20colonels%20and%20Navy%20captains.md) | Retirement for years of service: regular colonels and Navy captains. |
+| [635\.](%C2%A7%2000635%20-%20Retirement%20for%20years%20of%20service%20regular%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md) | Retirement for years of service: regular brigadier generals and rear admirals (lower half). |
+| [636\.](%C2%A7%2000636%20-%20Retirement%20for%20years%20of%20service%20regular%20major%20generals%20and%20rear%20admirals.md) | Retirement for years of service: regular major generals and rear admirals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -30,7 +30,7 @@
 
 (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(e) Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real propertydescribed in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
+(e) Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
 &emsp;(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
 

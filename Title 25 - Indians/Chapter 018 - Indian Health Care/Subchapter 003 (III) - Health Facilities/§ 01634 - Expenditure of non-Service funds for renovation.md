@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-(1) Notwithstanding any other provision of law, the Secretary is authorized to accept any major renovation or modernization by any Indian tribe of any Service facility, or of anyother Indian health facility operated pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], including—
+(1) Notwithstanding any other provision of law, the Secretary is authorized to accept any major renovation or modernization by any Indian tribe of any Service facility, or of any other Indian health facility operated pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], including—
 
 &emsp;(A) any plans or designs for such renovation or modernization; and
 

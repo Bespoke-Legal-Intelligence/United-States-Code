@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; Director
 
-(1) There is established in the Department of Defense an Advisory Council on Dependents’Education (hereinafter in this section referred to as the “Council”). The Council shall be composed of—
+(1) There is established in the Department of Defense an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the “Council”). The Council shall be composed of—
 
 &emsp;(A) the Secretary of Defense and the Secretary of Education, or their respective designees;
 
@@ -40,17 +40,17 @@ The Council shall meet at least two times each year. The functions of the Counci
 
 #### (d) Compensation, etc., of members
 
-Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for grade GS 18 in section 5332 of title 5, including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
+Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
 
 #### (e) Termination
 
 The Council shall continue in existence until terminated by law.
 
-(Pub. L. 95 561, title XIV, §1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96 88, title V, §508(j)(3) (8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99 145, title XII, §1204(b)(3) (5), Nov. 8, 1985, 99 Stat. 720, 721.)
+(Pub. L. 95–561, title XIV, §1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, §508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, §1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721.)
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99 145, §1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
+1985—Subsec. (a). Pub. L. 99–145, §1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
 
 &emsp;“(1) the Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics, and the Administrator of Education for Overseas Dependents of such department, who shall be co-chairman of the Council;
 
@@ -60,33 +60,33 @@ The Council shall continue in existence until terminated by law.
 
 > The Director shall be the Executive Secretary of the Council.”
 
-Subsec. (b)(1). Pub. L. 99 145, §1204(b)(4), inserted reference to Secretary of Defense.
+Subsec. (b)(1). Pub. L. 99–145, §1204(b)(4), inserted reference to Secretary of Defense.
 
-Subsec. (c). Pub. L. 99 145, §1204(b)(5)(A), substituted “two times each year” for “four times each year” in provisions before par. (1).
+Subsec. (c). Pub. L. 99–145, §1204(b)(5)(A), substituted “two times each year” for “four times each year” in provisions before par. (1).
 
-Subsec. (c)(2), (3). Pub. L. 99 145, §1204(b)(5)(B), (C), redesignated par. (3) as (2), and struck out par. (2) which required the Council to make recommendations to the Director and to the Secretary of Education on the orderly transfer of the functions under this chapter to the Secretary and Department of Education.
+Subsec. (c)(2), (3). Pub. L. 99–145, §1204(b)(5)(B), (C), redesignated par. (3) as (2), and struck out par. (2) which required the Council to make recommendations to the Director and to the Secretary of Education on the orderly transfer of the functions under this chapter to the Secretary and Department of Education.
 
-Subsec. (c)(4), (5). Pub. L. 99 145, §1204(b)(5)(C), (D), redesignated par. (5) as (4), and substituted Secretary of Defense for Secretary of Education. Former par. (4) redesignated (3).
+Subsec. (c)(4), (5). Pub. L. 99–145, §1204(b)(5)(C), (D), redesignated par. (5) as (4), and substituted Secretary of Defense for Secretary of Education. Former par. (4) redesignated (3).
 
-1979—Subsec. (a). Pub. L. 96 88, §508(j)(3), substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
+1979—Subsec. (a). Pub. L. 96–88, §508(j)(3), substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 96 88, §508(j)(4), provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
+Subsec. (a)(1). Pub. L. 96–88, §508(j)(4), provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
 
-Subsec. (a)(2). Pub. L. 96 88, §508(j)(5), substituted “Secretary of Education” for “Assistant Secretary”, “demonstrated an interest” for “versed by training or experience”, “parents of dependents” for “sponsors of students”, and “dependents’ education system” for “defense dependents’ education system”.
+Subsec. (a)(2). Pub. L. 96–88, §508(j)(5), substituted “Secretary of Education” for “Assistant Secretary”, “demonstrated an interest” for “versed by training or experience”, “parents of dependents” for “sponsors of students”, and “dependents’ education system” for “defense dependents’ education system”.
 
-Subsec. (a)(3). Pub. L. 96 88, §508(j)(5), required membership on the Council for representatives of the Secretaries of Education and Defense and struck out requirements for representation of the Commissioner ofEducation, Director of the National Institute of Education, Director of the Educational Directorate of the National Science Foundation, Chairman of the National Endowment for the Arts, Chairman of the National Endowment for the Humanities, and the Secretaries of the military departments.
+Subsec. (a)(3). Pub. L. 96–88, §508(j)(5), required membership on the Council for representatives of the Secretaries of Education and Defense and struck out requirements for representation of the Commissioner of Education, Director of the National Institute of Education, Director of the Educational Directorate of the National Science Foundation, Chairman of the National Endowment for the Arts, Chairman of the National Endowment for the Humanities, and the Secretaries of the military departments.
 
-Subsec. (b)(1). Pub. L. 96 88, §508(j)(6), substituted “Secretary of Education” for “Assistant Secretary”.
+Subsec. (b)(1). Pub. L. 96–88, §508(j)(6), substituted “Secretary of Education” for “Assistant Secretary”.
 
-Subsec. (c)(2) to (5). Pub. L. 96 88, §508(j)(7), (8), added par. (2), redesignated former pars. (2), (3), and (4) as (3), (4), and (5), respectively, and in par. (5), as so redesignated, substituted “Secretary of Education” for “Assistant Secretary”.
+Subsec. (c)(2) to (5). Pub. L. 96–88, §508(j)(7), (8), added par. (2), redesignated former pars. (2), (3), and (4) as (3), (4), and (5), respectively, and in par. (5), as so redesignated, substituted “Secretary of Education” for “Assistant Secretary”.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96 88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96 88, set out as an Effective Date note under section 3401 of this title.
+Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-#### References in Other Laws to GS 16, 17, or 18 Pay Rates
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS 16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101 509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

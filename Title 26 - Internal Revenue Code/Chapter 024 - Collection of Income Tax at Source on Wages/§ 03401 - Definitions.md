@@ -10,11 +10,11 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(3) for domestic service in a private home, local college club, or local chapter of a college fraternity or sorority; or
 
-&emsp;(4) for service not in the course of the employer's trade or business performed in any calendar quarter by an employee, unless the cash remuneration paid for such service is $50 or more and such service is performed by an individual who is regularly employed by such employer to perform such service. For purposes of this paragraph, an individual shall be deemed to be regularly employed by an employer during a calendar quarter only if—
+&emsp;(4) for service not in the course of the employer's trade or business performed in anycalendar quarter by an employee, unless the cash remuneration paid for such service is $50 or more and such service is performed by an individual who is regularly employed by such employer to perform such service. For purposes of this paragraph, an individual shall be deemed to be regularly employed by an employer during a calendar quarter only if—
 
 &emsp;&emsp;(A) on each of some 24 days during such quarter such individual performs for such employer for some portion of the day service not in the course of the employer's trade or business; or
 
-&emsp;&emsp;(B) such individual was regularly employed (as determined under subparagraph\(A)) by such employer in the performance of such service during the preceding calendar quarter; or
+&emsp;&emsp;(B) such individual was regularly employed (as determined under subparagraph (A)) by such employer in the performance of such service during the preceding calendar quarter; or
 
 &emsp;(5) for services by a citizen or resident of the United States for a foreign government or an international organization; or
 
@@ -74,7 +74,7 @@ For purposes of this chapter, the term “payroll period” means a period for w
 
 #### (c) Employee
 
-For purposes of this chapter, the term “employee” includes an officer, employee, or electedofficial of the United States, a State, or any political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing. The term “employee” also includes an officer of a corporation.
+For purposes of this chapter, the term “employee” includes an officer, employee, or elected official of the United States, a State, or any political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing. The term “employee” also includes an officer of a corporation.
 
 #### (d) Employer
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. L. 95–615 applicable to remuneration paid after Nov. 8, 1978, but with taxpayers allowed to elect not to have the amendment apply with respect to any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, see section 209(b), (c) of Pub. L. 95–615, set out as a note under section 911 of this title.
+Amendment by Pub. L. 95–615 applicable to remuneration paid after Nov. 8, 1978, but with taxpayers allowed to elect not to have the amendment apply with respect to any taxable year beginning after Dec. 31, 1977, andbefore Jan. 1, 1979, see section 209(b), (c) of Pub. L. 95–615, set out as a note under section 911 of this title.
 
 Amendment by Pub. L. 95–600 applicable with respect to taxable years beginning after Dec. 31, 1978, see section 164(d) of Pub. L. 95–600, set out as a note under section 127 of this title.
 
@@ -310,7 +310,7 @@ Refund or credit of overpayment.—If refund or credit of any overpayment of an 
 
 “(b)
 
-Prohibition Against Regulations and Rulings on Employment Status.—No regulation or Revenue Ruling shall be published on or after the date of the enactment of this Act \[Nov. 6, 1978\] and before the effective date of any law hereafter enacted clarifying the employment status of individuals for purposes of the employment taxes by the Department of the Treasury (including the Internal Revenue Service) with respect to the employment status of any individual for purposes of the employment taxes.
+Prohibition Against Regulations and Rulings on Employment Status.—No regulation or Revenue Ruling shall be published on or after the date of the enactment of this Act \[Nov. 6, 1978\] and before the effective date of any law hereafter enacted clarifying the employment status of individuals for purposes of the employment taxes by the Department of the Treasury\(including the Internal Revenue Service) with respect to the employment status of any individual for purposes of the employment taxes.
 
 “(c)
 
@@ -322,7 +322,7 @@ Employment tax.—The term ‘employment tax’ means any tax imposed by subtitl
 
 &emsp;“(2)
 
-Employment status.—The term ‘employment status’ means the status of an individual, under theusual common law rules applicable in determining the employer-employee relationship, as an employee or as an independent contractor (or other individual who is not an employee).
+Employment status.—The term ‘employment status’ means the status of an individual, under the usual common law rules applicable in determining the employer-employee relationship, as an employee or as an independent contractor (or other individual who is not an employee).
 
 “(d)
 

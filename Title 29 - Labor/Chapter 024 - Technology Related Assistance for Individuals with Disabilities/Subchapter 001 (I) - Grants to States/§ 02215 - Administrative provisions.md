@@ -36,7 +36,7 @@
 
 #### (i) Officers or employees
 
-&emsp;&emsp;&emsp;Members of any onsite monitoring team who are officers or full-time employees ofthe United States shall serve without compensation in addition to that received for their services as officers or employees of the United States, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5702 of title 5 for individuals in the Government service traveling on official business.
+&emsp;&emsp;&emsp;Members of any onsite monitoring team who are officers or full-time employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5702 of title 5 for individuals in the Government service traveling on official business.
 
 #### (ii) Other members
 
@@ -86,7 +86,7 @@
 
 #### (A) Appointment
 
-&emsp;&emsp;Once a State becomes subject to a corrective action plan pursuant to subsection (b) of this section, the Governor of the State, subject to approval by the Secretary, shall appoint, within 30 days after the submission of the plan to the Secretary, a monitoring panel consisting of the following representatives:
+&emsp;&emsp;Once a State becomes subject to a corrective action plan pursuant to subsection (b) ofthis section, the Governor of the State, subject to approval by the Secretary, shall appoint, within 30 days after the submission of the plan to the Secretary, a monitoring panel consisting of the following representatives:
 
 &emsp;&emsp;&emsp;(i) The head of the lead agency designated by the Governor.
 
@@ -188,7 +188,7 @@
 
 &emsp;Such report shall include information on—
 
-&emsp;&emsp;(A) the demonstrated successes of such Federal initiatives at the Federal and Statelevels in improving interagency coordination, streamlining access to funding for assistive technology, and producing beneficial outcomes for users of assistive technology;
+&emsp;&emsp;(A) the demonstrated successes of such Federal initiatives at the Federal and State levels in improving interagency coordination, streamlining access to funding for assistive technology, and producing beneficial outcomes for users of assistive technology;
 
 &emsp;&emsp;(B) the demonstration activities carried out through the Federal initiatives to—
 

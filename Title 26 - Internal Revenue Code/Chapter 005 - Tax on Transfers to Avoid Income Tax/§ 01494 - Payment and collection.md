@@ -2,7 +2,7 @@
 
 #### (a) Time for payment
 
-The tax imposed by section 1491 shall, without assessment or notice and demand, be due and payable by the transferor at the time of the transfer, and shall be assessed, collected, and paid under regulations prescribed by the Secretary.
+The tax imposed by section 1491 shall, without assessment or notice and demand, be due andpayable by the transferor at the time of the transfer, and shall be assessed, collected, and paid under regulations prescribed by the Secretary.
 
 #### (b) Abatement or refund
 

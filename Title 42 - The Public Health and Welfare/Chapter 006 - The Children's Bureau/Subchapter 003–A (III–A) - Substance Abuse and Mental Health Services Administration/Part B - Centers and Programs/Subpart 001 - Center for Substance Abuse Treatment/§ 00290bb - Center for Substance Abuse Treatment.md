@@ -10,7 +10,7 @@ The Director of the Center shall—
 
 &emsp;(1) administer the substance abuse treatment block grant program authorized in section 300x–21 of this title;
 
-&emsp;(2) collaborate with the Director of the Center for Substance Abuse Prevention in order to provide outreach services to identify individuals in need of treatment services, with emphasis on the provision of such services topregnant and postpartum women and their infants and to individuals who abuse drugs intravenously;
+&emsp;(2) collaborate with the Director of the Center for Substance Abuse Prevention in order to provide outreach services to identify individuals in need of treatment services, with emphasis on the provision of such services to pregnant and postpartum women and their infants and to individuals who abuse drugs intravenously;
 
 &emsp;(3) collaborate with the Director of the National Institute on Drug Abuse, with the Director of the National Institute on Alcohol Abuse and Alcoholism, and with the States to promote the study, dissemination, and implementation of research findings that will improve the delivery and effectiveness of treatment services;
 

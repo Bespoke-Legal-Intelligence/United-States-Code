@@ -82,7 +82,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may be granted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
 
-(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
+(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months ata time) in addition to the suspension time under subparagraph (C).
 
 (4)(A) Except as provided in subparagraph (B), information submitted to a special master or the court in a proceeding on a petition may not be disclosed to a person who is not a party to the proceeding without the express written consent of the person who submitted the information.
 
@@ -112,7 +112,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (f) Appeals
 
-The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary orany petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
+The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
 
 #### (g) Notice
 
@@ -142,7 +142,7 @@ A prior section 2112 of act July 1, 1944, was successively renumbered by subsequ
 
 1993—Subsec. (d)(3)(D). Pub. L. 103–66 substituted “30 months (but for not more than 6 months at a time)” for “540 days”.
 
-1992—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”, wherever appearing.
+1992—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for“United States Claims Court” and “Court of Federal Claims” for “Claims Court”, wherever appearing.
 
 1991—Subsec. (d)(3)(D). Pub. L. 102–168, §201(c), (h)(2), realigned margin and substituted “540 days” for “180 days”.
 
@@ -224,7 +224,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Review by 3-Judge Panel
 
-Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
+Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalidbecause the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
 
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 

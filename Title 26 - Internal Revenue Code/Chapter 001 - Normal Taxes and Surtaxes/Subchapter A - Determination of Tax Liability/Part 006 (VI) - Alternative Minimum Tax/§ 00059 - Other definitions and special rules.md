@@ -132,7 +132,7 @@ The limitations of sections 704(d), 465, and 1366(d) (and such other provisions 
 
 #### (i) Special rule for amounts treated as tax preference
 
-For purposes of this subtitle (other than this part), any amount shall not fail to be treated as wholly exempt from tax imposed by this subtitlesolely by reason of being included in alternative minimum taxable income.
+For purposes of this subtitle (other than this part), any amount shall not fail to be treated as wholly exempt from tax imposed by this subtitle solely by reason of being included in alternative minimum taxable income.
 
 #### (j) Treatment of unearned income of minor children
 
@@ -262,7 +262,7 @@ In general.—The amendment made by paragraph (1) \[amending this section\] shal
 
 “(B)
 
-Special rule for year which includes march 31, 1990.—In the case of any taxable year (of a corporation described in subparagraph (C) of section 59(a)(2) of the Internal Revenue Code of 1986 (as added by paragraph (1))) which begins after December 31, 1989, and includes March 31, 1990, the amount determined under clause (ii) of section 59(a)(2)(A) of such Code shall be an amount which bears the same ratio to the amount which would have been determined under such clause without regard to this subparagraph as the number of days in such taxable year on or before March 31, 1990, bears to the total number of days in such taxable year.”
+Special rule for year which includes march 31, 1990.—In the case of any taxable year (of a corporation described in subparagraph (C) of section 59(a)(2) of the Internal Revenue Code of 1986 (as added by paragraph (1))) which begins after December 31, 1989, and includes March 31, 1990, the amount determined under clause (ii)of section 59(a)(2)(A) of such Code shall be an amount which bears the same ratio to the amount which would have been determined under such clause without regard to this subparagraph as the number of days in such taxable year on or before March 31, 1990, bears to the total number of days in such taxable year.”
 
 Amendment by section 7811(d)(1)(A), (j)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 

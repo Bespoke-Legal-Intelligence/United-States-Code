@@ -294,5 +294,5 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 844a, 848, 849, 859, 860, 861, 886 of this title; title 16 section 559c, 559d; title 18 sections 36, 3553, 3599, 5032, 5038; title 28 section 994.
+This section is referred to in sections 844a, 848, 849, 859, 860, 861, 886 of this title; title 16 section 559c, 559d; title 18 sections 36, 3553, 3599, 5032, 5038; title 28 section 994; title 42 section 14052.
 

@@ -24,7 +24,7 @@ Except for sources required to have a permit before construction or modification
 
 #### (e) Copies; availability
 
-A copy of each permit application, compliance plan (including the schedule of compliance), emissions or compliance monitoring report, certification, and each permit issued under this subchapter, shall be available to the public. Ifan applicant or permittee is required to submit information entitled to protection from disclosure under section 7414(c) of this title, the applicant or permittee may submit such information separately. The requirements of section 7414(c) of this title shall apply to such information. The contents of a permit shall not be entitled to protection under section 7414(c) of this title.
+A copy of each permit application, compliance plan (including the schedule of compliance), emissions or compliance monitoring report, certification, and each permit issued under this subchapter, shall be available to the public. If an applicant or permittee is required to submit information entitled to protection from disclosure under section 7414(c) of this title, the applicant or permittee may submit such information separately. The requirements of section 7414(c) of this title shall apply to such information. The contents of a permit shall not be entitled to protection under section 7414(c) of this title.
 
 (July 14, 1955, ch. 360, title V, §503, as added Nov. 15, 1990, Pub. L. 101–549, title V, §501, 104 Stat. 2641.)
 

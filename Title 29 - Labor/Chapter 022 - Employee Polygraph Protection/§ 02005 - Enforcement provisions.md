@@ -38,3 +38,7 @@ The rights and procedures provided by this chapter may not be waived by contract
 
 (Pub. L. 100–347, §6, June 27, 1988, 102 Stat. 647.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1314.
+

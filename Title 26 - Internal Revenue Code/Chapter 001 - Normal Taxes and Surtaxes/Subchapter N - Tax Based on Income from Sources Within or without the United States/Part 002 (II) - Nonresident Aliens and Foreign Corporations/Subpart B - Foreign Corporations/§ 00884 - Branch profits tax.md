@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified resident” means, with respect to any foreign country, any foreign corporation which is a resident of such foreign country unless—
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified resident” means,with respect to any foreign country, any foreign corporation which is a resident of such foreign country unless—
 
 &emsp;&emsp;&emsp;(i) 50 percent or more (by value) of the stock of such foreign corporation is owned (within the meaning of section 883(c)(4)) by individuals who are not residents of such foreign country and who are not United States citizens or resident aliens, or
 

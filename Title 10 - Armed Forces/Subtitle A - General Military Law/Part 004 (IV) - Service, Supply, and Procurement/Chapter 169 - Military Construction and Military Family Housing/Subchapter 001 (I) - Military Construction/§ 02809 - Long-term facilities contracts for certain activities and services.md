@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 99–661, §1343(a)(20)(E), struck out “the authority of 
 
 #### Effective Date of 1991 Amendment
 
-Section 2805(b) of Pub. L. 102–190 provided that: “Section 2809 of title 10, United States Code, as amended by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Section 2805(b) of Pub. L. 102–190 provided that: “Section 2809 of title 10, United States Code, as amended bysubsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Effective Date of 1988 Amendment
 

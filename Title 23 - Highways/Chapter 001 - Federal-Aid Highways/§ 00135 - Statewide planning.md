@@ -64,7 +64,7 @@ Additional Requirements.—Each State in carrying out planning under this sectio
 
 (e)
 
-Long-Range Plan.—The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shalldevelop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan.
+Long-Range Plan.—The State shall develop a long-range transportation plan for allareas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan.
 
 (f)
 
@@ -124,7 +124,7 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted “sections 5303–5306 a
 
 Subsec. (a). Pub. L. 94–280 struck out “within the designated boundaries of urban areas of the State” and “in the urban areas” after “continuing program” and “flow of traffic”, respectively.
 
-Subsec. (b). Pub. L. 94–280 substituted “any project for improvements on any public road which project willdirectly facilitate and control traffic flow on any of the Federal-aid systems” for “any project on an extension of the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title”.
+Subsec. (b). Pub. L. 94–280 substituted “any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems” for “any project on an extension of the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title”.
 
 Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annual report by the Secretary on projects approved under this section with recommendations for further improvement of traffic operations in accordance with this section.
 
@@ -168,7 +168,7 @@ Pub. L. 89–285, title III, §304, Oct. 22, 1965, 79 Stat. 1033, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 103, 108, 133, 134, 149, 217, 307 of this title; title 49 section 5323.
+This section is referred to in sections 103, 108, 115, 133, 134, 149, 217, 307 of this title; title 49 section 5323.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

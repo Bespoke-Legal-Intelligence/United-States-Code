@@ -1,6 +1,6 @@
 ### §3729. Loan fee
 
-(a)(1) Except as provided in subsection (c)(1) of this section, a fee shall be collected from each veteran obtaining a housing loan guaranteed, insured, or made under this chapter, and from each person obtaining a loan under section 3733(a) of this title, and no such loan may be guaranteed, insured, or made under this chapteruntil the fee payable under this section has been remitted to the Secretary.
+(a)(1) Except as provided in subsection (c)(1) of this section, a fee shall be collected from each veteran obtaining a housing loan guaranteed, insured, or made under this chapter, and from each person obtaining a loan under section 3733(a) of this title, and no such loan may be guaranteed, insured, or made under this chapter until the fee payable under this section has been remitted to the Secretary.
 
 (2) Except as provided in paragraphs (4) and (5) of this subsection, the amount of such fee shall be 1.25 percent of the total loan amount, except that—
 

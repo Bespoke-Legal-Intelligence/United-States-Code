@@ -34,7 +34,7 @@
 
 > is requested or demanded in violation of section 3802 of this title in such claim or in a group of related claims which are submitted at the time such claim is submitted.
 
-(2)(A) Except as provided in subparagraph (B) of this paragraph, no allegations of liability against an individual under section 3802 of this title with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual shall be referred to a presiding officer under paragraph (2) of subsection (b).
+(2)(A) Except as provided in subparagraph (B) of this paragraph, no allegations of liability against an individual under section 3802 of thistitle with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual shall be referred to a presiding officer under paragraph (2) of subsection (b).
 
 (B) Allegations of liability against an individual under section 3802 of this title with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual may be referred to a presiding officer under paragraph (2) of subsection (b) if—
 
@@ -130,7 +130,7 @@
 
 &emsp;(B) The provision to any person alleged to be liable under section 3802 of this title of opportunities for the submission of facts, arguments, offers of settlement, or proposals of adjustment.
 
-&emsp;(C) Procedures to ensure that the presiding officer shall not, except to the extent requiredfor the disposition of ex parte matters as authorized by law—
+&emsp;(C) Procedures to ensure that the presiding officer shall not, except to the extent required for the disposition of ex parte matters as authorized by law—
 
 &emsp;&emsp;(i) consult a person or party on a fact in issue, unless on notice and opportunity for all parties to the hearing to participate; or
 
@@ -176,7 +176,7 @@
 
 (C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
 
-(j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this titleagainst a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
+(j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746.)
 
@@ -210,5 +210,5 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1352, 3801, 3802, 3804, 3805, 3806, 3807, 3808, 3809, 3810 of this title; title 50 App. sections 1989b–4, 1989c–5.
+This section is referred to in sections 1352, 3801, 3802, 3804, 3805, 3806, 3807, 3808, 3809 of this title; title 50 App. sections 1989b–4, 1989c–5.
 

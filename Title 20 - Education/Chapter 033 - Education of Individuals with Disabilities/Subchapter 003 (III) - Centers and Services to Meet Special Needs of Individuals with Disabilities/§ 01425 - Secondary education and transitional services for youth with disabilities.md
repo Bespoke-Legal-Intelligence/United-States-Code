@@ -64,7 +64,7 @@ Applications for assistance under subsection (a) of this section other than for 
 
 &emsp;(B) Improve the ability of professionals, parents, and advocates to work with such youth in ways that promote the understanding of and the capability to successfully make the transition from “student” to “adult”.
 
-&emsp;(C) Improve working relationships among education personnel, both within LEAs and in postsecondary training programs, relevant State agencies, the private sector (especially employers), rehabilitation personnel, local and State employment agencies, local Private Industry Councils (PICS) authorized by the Job Training Partnership Act (JTPA) \[29 U.S.C. 1501 et seq.\], and families of students with disabilities and their advocates to identify and achieve consensus on the general nature and specific application of transition services to meet the needs of youth with disabilities.
+&emsp;(C) Improve working relationships among education personnel, both within LEAs and in postsecondary training programs, relevant State agencies, the private sector (especially employers), rehabilitation personnel, local and State employment agencies, local Private Industry Councils (PICS) authorized by the JobTraining Partnership Act (JTPA) \[29 U.S.C. 1501 et seq.\], and families of students with disabilities and their advocates to identify and achieve consensus on the general nature and specific application of transition services to meet the needs of youth with disabilities.
 
 &emsp;(D) Create an incentive for accessing and using the expertise and resources of programs, projects, and activities related to transition funded through this section and with other sources.
 
@@ -88,7 +88,7 @@ Applications for assistance under subsection (a) of this section other than for 
 
 &emsp;(iv) provide for early, ongoing information and training for those involved with or who could be involved with transition services—professionals, parents, youth with disabilities, including self-advocacy training for such youth, and advocates for such youth as well as PICS authorized by the JTPA and local branches of State employment agencies;
 
-&emsp;(v) provide for the early and direct involvement of all relevant parties, including PICS authorized by the JTPA and local branches ofState employment agencies, in operating and planning improvements in transition services, and the early and direct involvement of all relevant parties in planning and implementing transition services for individual youth;
+&emsp;(v) provide for the early and direct involvement of all relevant parties, including PICS authorized by the JTPA and local branches of State employment agencies, in operating and planning improvements in transition services, and the early and direct involvement of all relevant parties in planning and implementing transition services for individual youth;
 
 &emsp;(vi) provide access to training for eligible youth that matches labor market needs in their communities;
 
@@ -104,7 +104,7 @@ Applications for assistance under subsection (a) of this section other than for 
 
 (2) The Secretary shall fund one or more demonstration models designed to establish appropriate methods of providing, or continuing to provide, assistive technology devices and services to secondary school students as they make the transition to vocational rehabilitation, employment, postsecondary education, or adult services. Such demonstration models shall include, as appropriate—
 
-&emsp;(A) cooperative agreements with the Rehabilitation Services Administration and/or State vocational rehabilitation agencies that ensure continuity of funding for assistive technology devices and services to such students; and
+&emsp;(A) cooperative agreements with the Rehabilitation Services Administration and/or State vocational rehabilitation agencies thatensure continuity of funding for assistive technology devices and services to such students; and
 
 &emsp;(B) methods for dissemination of exemplary practices that can be adapted or adopted by transitional programs for secondary school students with disabilities.
 
@@ -130,79 +130,79 @@ Applications for assistance under subsection (a) of this section other than for 
 
 The Secretary, as appropriate, shall coordinate programs described under subsection (a) of this section with projects developed under section 777a of title 29, the Job Training Partnership Act (JTPA) \[29 U.S.C. 1501 et seq.\], and the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\].
 
-(Pub. L. 91 230, title VI, §626, formerly §625, Apr. 13, 1970, 84 Stat. 183, renumbered §626, Pub. L. 93 380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98 199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99 457, title III, §306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100 630, title I, §103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101 476, title III, §306, title IX, §901(b)(119) (127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102 119, §25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607.)
+(Pub. L. 91–230, title VI, §626, formerly §625, Apr. 13, 1970, 84 Stat. 183, renumbered §626, Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100–630, title I, §103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title III, §306, title IX, §901(b)(119)–(127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102–119, §25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a), (e)(3)(C), and (g), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (a), (e)(3)(C), and (g), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The State section 110 and/or title VI, part C program authorized under the Rehabilitation Act of 1973, referred to in subsec. (e)(4)(B)(ix), is a program authorized under section 110 and/or part C (§631 et seq.) of titleVI of Pub. L. 93 112, which are classified generally to section 730 of Title 29 and part C (§795j et seq.) of subchapter VI of chapter 16 of Title 29, respectively.
+The State section 110 and/or title VI, part C program authorized under the Rehabilitation Act of 1973, referred to in subsec. (e)(4)(B)(ix), is a program authorized under section 110 and/or part C (§631 et seq.) of title VI of Pub. L. 93–112, which are classified generally to section 730 of Title 29 and part C (§795j et seq.) of subchapter VI of chapter 16 of Title 29, respectively.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (g), is Pub. L. 88 210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (g), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-Pub. L. 102 119, §25(a)(11), struck out “children and” after “services for” in section catchline.
+Pub. L. 102–119, §25(a)(11), struck out “children and” after “services for” in section catchline.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, §25(b), requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
 
-Pub. L. 101 476, §901(b)(119), in section catchline, substituted provisions relating to children and youth with disabilities for provisions relating to handicapped children and youth.
+Pub. L. 101–476, §901(b)(119), in section catchline, substituted provisions relating to children and youth with disabilities for provisions relating to handicapped children and youth.
 
-Subsec. (a)(1). Pub. L. 101 476, §§306(a), 901(b)(120), substituted “youth with disabilities” for “handicapped youth” and inserted “independent and community living,” after “continuing education,”.
+Subsec. (a)(1). Pub. L. 101–476, §§306(a), 901(b)(120), substituted “youth with disabilities” for “handicapped youth” and inserted “independent and community living,” after “continuing education,”.
 
-Subsec. (a)(3). Pub. L. 101 476, §901(b)(121), substituted “students with disabilities” for “handicapped students”.
+Subsec. (a)(3). Pub. L. 101–476, §901(b)(121), substituted “students with disabilities” for “handicapped students”.
 
-Subsec. (b)(1). Pub. L. 101 476, §901(b)(122), substituted “youth with disabilities” for “handicapped youth”.
+Subsec. (b)(1). Pub. L. 101–476, §901(b)(122), substituted “youth with disabilities” for “handicapped youth”.
 
-Subsec. (b)(2). Pub. L. 101 476, §§306(b)(1), 901(b)(122), inserted “independent living,” after “training,” and substituted “youth with disabilities” for “handicapped youth”.
+Subsec. (b)(2). Pub. L. 101–476, §§306(b)(1), 901(b)(122), inserted “independent living,” after “training,” and substituted “youth with disabilities” for “handicapped youth”.
 
-Subsec. (b)(3). Pub. L. 101 476, §901(b)(122), (123), substituted “disabling” and “youth with disabilities” for “handicapping” and “handicapped youth”, respectively.
+Subsec. (b)(3). Pub. L. 101–476, §901(b)(122), (123), substituted “disabling” and “youth with disabilities” for “handicapping” and “handicapped youth”, respectively.
 
-Subsec. (b)(4), (6), (7). Pub. L. 101 476, §901(b)(122), substituted “youth with disabilities” for “handicapped youth”.
+Subsec. (b)(4), (6), (7). Pub. L. 101–476, §901(b)(122), substituted “youth with disabilities” for “handicapped youth”.
 
-Subsec. (b)(8). Pub. L. 101 476, §§306(b)(2), 901(b)(123), substituted “disabling conditions and reasons why some youth with disabilities remain to complete school programs while others drop out,” for “handicapping conditions and reasons why handicapped youth drop out of school, and”.
+Subsec. (b)(8). Pub. L. 101–476, §§306(b)(2), 901(b)(123), substituted “disabling conditions and reasons why some youth with disabilities remain to complete school programs while others drop out,” for “handicapping conditions and reasons why handicapped youth drop out of school, and”.
 
-Subsec. (b)(9). Pub. L. 101 476, §§306(b)(3), 901(b)(124), substituted “developing curriculum and instructional techniques in special education and related services that will improve the acquisition of skills by students with disabilities necessary” for “developing special education curriculum and instructional techniques that will improve handicapped students’ acquisition of the skills necessary”.
+Subsec. (b)(9). Pub. L. 101–476, §§306(b)(3), 901(b)(124), substituted “developing curriculum and instructional techniques in special education and related services that will improve the acquisition of skills by students with disabilities necessary” for “developing special education curriculum and instructional techniques that will improve handicapped students’ acquisition of the skills necessary”.
 
-Subsec. (b)(10). Pub. L. 101 476, §306(b)(4), substituted “specially designed or adapted physical education and therapeutic recreation programs to facilitate the full participation of youths with disabilities in community programs” for “specially designed physical education and therapeutic recreation programs to increase the potential of handicapped youths for community participation”.
+Subsec. (b)(10). Pub. L. 101–476, §306(b)(4), substituted “specially designed or adapted physical education and therapeutic recreation programs to facilitate the full participation of youths with disabilities in community programs” for “specially designed physical education and therapeutic recreation programs to increase the potential of handicapped youths for community participation”.
 
-Subsec. (b)(11). Pub. L. 101 476, §306(b)(5), added par. (11).
+Subsec. (b)(11). Pub. L. 101–476, §306(b)(5), added par. (11).
 
-Subsec. (d)(2). Pub. L. 101 476, §901(b)(125), substituted “youth with disabilities” for “handicapped youth”.
+Subsec. (d)(2). Pub. L. 101–476, §901(b)(125), substituted “youth with disabilities” for “handicapped youth”.
 
-Subsec. (d)(3). Pub. L. 101 476, §§306(c), 901(b)(126), substituted “students with disabilities” for “handicapped students”, in two places and struck out “to the extent appropriate,” before “provide”.
+Subsec. (d)(3). Pub. L. 101–476, §§306(c), 901(b)(126), substituted “students with disabilities” for “handicapped students”, in two places and struck out “to the extent appropriate,” before “provide”.
 
-Subsec. (e). Pub. L. 101 476, §306(d), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 101–476, §306(d), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101 476, §306(d), (e), redesignated subsec. (e) as (f), designated existing provisions as par. (1), inserted provisions relating to dissemination of materials and information as prescribed under section 1409(g) of this title, and added pars. (2) and (3). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–476, §306(d), (e), redesignated subsec. (e) as (f), designated existing provisions as par. (1), inserted provisions relating to dissemination of materials and information as prescribed under section 1409(g) of this title, and added pars. (2) and (3). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1). Pub. L. 101 476, §901(b)(127), which directed the substitution of “children and youth with disabilities” for “handicapped children and youth” in subsec. (e) was executed to subsec. (f)(1) to reflect the probable intent of Congress and the redesignation of subsec. (e) as (f)(1) by Pub. L. 101 476, §306(d), (e)(1)(A). See above.
+Subsec. (f)(1). Pub. L. 101–476, §901(b)(127), which directed the substitution of “children and youth with disabilities” for “handicapped children and youth” in subsec. (e) was executed to subsec. (f)(1) to reflect the probable intent of Congress and the redesignation of subsec. (e) as (f)(1) by Pub. L. 101–476, §306(d), (e)(1)(A). See above.
 
-Subsec. (g). Pub. L. 101 476, §306(d), (f), redesignated subsec. (f) as (g) and inserted provisions referring to Job Training Partnership Act and Carl D. Perkins Vocational and Applied Technology Education Act.
+Subsec. (g). Pub. L. 101–476, §306(d), (f), redesignated subsec. (f) as (g) and inserted provisions referring to Job Training Partnership Act and Carl D. Perkins Vocational and Applied Technology Education Act.
 
-1988—Subsec. (a). Pub. L. 100 630, §103(g)(1), struck out “(Public Law 97 300)” after “Training Partnership Act” in first sentence, and substituted “throughout the Nation” for “through the Nation” in last sentence.
+1988—Subsec. (a). Pub. L. 100–630, §103(g)(1), struck out “(Public Law 97–300)” after “Training Partnership Act” in first sentence, and substituted “throughout the Nation” for “through the Nation” in last sentence.
 
-Subsec. (b)(6). Pub. L. 100 630, §103(g)(2), substituted “among” for “between” and inserted “and” before “public”.
+Subsec. (b)(6). Pub. L. 100–630, §103(g)(2), substituted “among” for “between” and inserted “and” before “public”.
 
-Subsec. (b)(10). Pub. L. 100 630, §103(g)(3), substituted “specially” for “specifically”.
+Subsec. (b)(10). Pub. L. 100–630, §103(g)(3), substituted “specially” for “specifically”.
 
-Subsec. (c). Pub. L. 100 630, §103(g)(4), inserted “its activities” after “coordinate”.
+Subsec. (c). Pub. L. 100–630, §103(g)(4), inserted “its activities” after “coordinate”.
 
-1986—Pub. L. 99 457, in amending section generally, made the following changes: in subsec. (a), in introductory provision, substituted “may make grants” for “is authorized to make grants”, in par. (1), substituted “coordinate special education” for “coordinate education, training,” inserted “currently in school or who recently left school”, substituted “to assist them in the transition” for “to assist in the transitional process”, inserted “(including supported employment)”, and added par. (3) and closing sentence; in subsec. (b), in introductory provision, substituted “subsection (a) of this section” for “this section”, in par. (1), inserted “vocational rehabilitation,” and “(including supported employment)”, in par. (2), inserted reference to individualized education programs, and added pars. (8) to (10); in subsec. (c), substituted “paragraphs (1) and (2) of subsection (b) of this section” for “subsections (b)(1) and (b)(2) of this section”; in subsec. (d), designated existing provisions as par. (3), inserted introductory provision and pars. (1) and (2), and in par. (3), struck out “Projects funded under this section shall” before “to the extent”; added subsec. (e); and redesignated former subsec. (e) as (f) and substituted “subsection (a) of this section” for “this section”.
+1986—Pub. L. 99–457, in amending section generally, made the following changes: in subsec. (a), in introductory provision, substituted “may make grants” for “is authorized to make grants”, in par. (1), substituted “coordinate special education” for “coordinate education, training,” inserted “currently in school or who recently left school”, substituted “to assist them in the transition” for “to assist in the transitional process”, inserted “(including supported employment)”, and added par. (3) and closing sentence; in subsec. (b), in introductory provision, substituted “subsection (a) of this section” for “this section”, in par. (1), inserted “vocational rehabilitation,” and “(including supported employment)”, in par. (2), inserted reference to individualized education programs, and added pars. (8) to (10); in subsec. (c), substituted “paragraphs (1) and (2) of subsection (b) of this section” for “subsections (b)(1) and (b)(2) of this section”; in subsec. (d), designated existing provisions as par. (3), inserted introductory provision and pars. (1) and (2), and in par. (3), struck out “Projects funded under this section shall” before “to the extent”; added subsec. (e); and redesignated former subsec. (e) as (f) and substituted “subsection (a) of this section” for “this section”.
 
-1983—Pub. L. 98 199, §10, amended section generally, substituting provisions respecting secondary education and transitional services for handicapped youth for provisions requiring evaluation of programs assisted under this subchapter. See section 1426 of this title.
+1983—Pub. L. 98–199, §10, amended section generally, substituting provisions respecting secondary education and transitional services for handicapped youth for provisions requiring evaluation of programs assisted under this subchapter. See section 1426 of this title.
 
-Pub. L. 98 199, §3(b), substituted “Secretary” for “Commissioner”.
+Pub. L. 98–199, §3(b), substituted “Secretary” for “Commissioner”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98 199 effective Dec. 2, 1983, with an exception for previously obligated funds and certain interim provisions for financial assistance, see section 18 of Pub. L. 98 199 set out as a note under section 1401 of this title.
+Amendment by Pub. L. 98–199 effective Dec. 2, 1983, with an exception for previously obligated funds and certain interim provisions for financial assistance, see section 18 of Pub. L. 98–199 set out as a note under section 1401 of this title.
 
 #### Section Referred to in Other Sections
 

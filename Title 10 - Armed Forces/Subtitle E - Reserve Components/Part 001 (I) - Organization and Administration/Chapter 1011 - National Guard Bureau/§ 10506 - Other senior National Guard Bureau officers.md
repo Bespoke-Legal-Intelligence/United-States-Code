@@ -4,7 +4,7 @@
 
 Additional General Officers.—(1) In addition to the Chief and Vice Chief of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
 
-&emsp;(A) two general officers selected by the Secretary of the Army from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom while so serving shall hold the grade of major general and serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
+&emsp;(A) two general officers selected by the Secretary of the Army from officers of the Army National Guard of the United States who have been nominated by their respective Governorsor, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom while so serving shall hold the grade of major general and serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
 
 &emsp;(B) two general officers selected by the Secretary of the Air Force from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom while so serving shall hold the grade of major general and serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
 

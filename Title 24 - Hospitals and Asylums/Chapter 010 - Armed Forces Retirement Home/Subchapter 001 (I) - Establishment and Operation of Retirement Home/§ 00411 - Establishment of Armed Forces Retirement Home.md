@@ -20,11 +20,11 @@ Each facility of the Retirement Home maintained as a separate establishment of t
 
 #### (e) Department of Defense support
 
-The Secretary of Defense may make available to the Retirement Home, on a nonreimbursable basis, administrative support and office services, legal and policy planning assistance, access to investigative facilities of the Inspector General of the Department of Defense and of the military departments, and any other support necessary to enable the Retirement Home to carry out its functions under this chapter.
+The Secretary of Defense may make available to the Retirement Home, on a nonreimbursablebasis, administrative support and office services, legal and policy planning assistance, access to investigative facilities of the Inspector General of the Department of Defense and of the military departments, and any other support necessary to enable the Retirement Home to carry out its functions under this chapter.
 
 #### (f) Accreditation
 
-The Retirement Home Board shall endeavor to secure for each facility of the Retirement Homemaintained as a separate establishment of the Retirement Home for administrative purposes the accreditation of that facility by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.
+The Retirement Home Board shall endeavor to secure for each facility of the Retirement Home maintained as a separate establishment of the Retirement Home for administrative purposes the accreditation of that facility by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.
 
 (Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630.)
 

@@ -18,5 +18,5 @@ Whether an antitrust mutual assistance agreement satisfies section 6211(2)(C) of
 
 &emsp;Nothing in this section shall be construed to affect the availability of judicial review under laws referred to in section 6204 of this title.
 
-(Pub. L. 103 438, §9, Nov. 2, 1994, 108 Stat. 4602.)
+(Pub. L. 103–438, §9, Nov. 2, 1994, 108 Stat. 4602.)
 

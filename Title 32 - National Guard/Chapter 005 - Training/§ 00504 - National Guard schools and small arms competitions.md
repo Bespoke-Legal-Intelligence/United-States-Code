@@ -38,7 +38,7 @@ In subsection (b), the words “Assemblies under subsection (a)” are substitut
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1964—Pub. L. 88–621 substituted provisions authorizing the Secretaries of the Army and of the Air Force to issue regulations, for provisions authorizing the President to issue regulations, and provided that members of the National Guard may conduct or attend schools conducted by the National Guard.
+1964—Pub. L. 88–621 substituted provisions authorizing the Secretaries of the Army and of the Air Force toissue regulations, for provisions authorizing the President to issue regulations, and provided that members of the National Guard may conduct or attend schools conducted by the National Guard.
 
 #### Cross References
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) his position is changed from one grade to another grade.
 
-> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2)of that title, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
+> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
 (b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
@@ -92,19 +92,19 @@ Sections 3182 and 3186(a)(2) of title 42, referred to in subsec. (a), were repea
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
 
 Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to ‘two steps’ or ‘two step-increases’ shall be deemed to mean 6 percent.”
 
-1990—Subsec. (g). Pub. L. 101–508 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-1986—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
 
-1984—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-1979—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
 
-1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of this chapter” for “section 5337 of this title” wherever appearing.
 
@@ -114,13 +114,13 @@ Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 
-1968—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
 
 Subsec. (f). Pub. L. 90–623, §1(24), substituted “section 590h(b) of title 16” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))”.
 
 Pub. L. 90–367 added subsec. (f).
 
-1967—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
+<b>1967</b>—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
 
 #### Effective Date of 1993 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and ServicesAdministration, shall make grants to eligible entities to pay the Federal share of the cost of providing the services specified in subsection (b) of this section to families in which a member is—
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall make grants to eligible entities to pay the Federal share of the cost of providing the services specified in subsection (b) of this section to families in which a member is—
 
 &emsp;&emsp;(A) a pregnant woman at risk of delivering an infant with a health or developmental complication; or
 
@@ -92,7 +92,7 @@ For purposes of subsection (a)(1) of this section, a pregnant woman shall be con
 
 &emsp;In determining which personnel shall be utilized in the delivery of services, the case manager shall consider—
 
-&emsp;&emsp;(A) the stated objective of the project to be operated with the grant, as determined after considering identified gaps in the current service delivery system; and
+&emsp;&emsp;(A) the stated objective of the project to be operated with the grant, as determinedafter considering identified gaps in the current service delivery system; and
 
 &emsp;&emsp;(B) the nature of the needs of the family to be served, as determined at the initial assessment of the family that is conducted by the case manager, and through follow-up contacts by other providers of home visiting services.
 
@@ -260,7 +260,7 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531,49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act is classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 

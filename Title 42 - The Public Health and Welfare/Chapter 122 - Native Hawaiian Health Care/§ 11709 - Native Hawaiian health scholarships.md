@@ -12,7 +12,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 (1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title, provided that—
 
-&emsp;(A) the provision of scholarships in each type of health care profession training shallcorrespond to the need for each type of health care professional to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
+&emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
 
 &emsp;(B) to the maximum extent practicable, the Secretary shall select scholarship recipients from a list of eligible applicants submitted by the Kamehameha Schools/Bishop Estate;
 

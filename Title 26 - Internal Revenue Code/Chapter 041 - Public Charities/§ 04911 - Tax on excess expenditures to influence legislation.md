@@ -65,9 +65,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) making available the results of nonpartisan analysis, study, or research;
 
-&emsp;&emsp;(B) providing of technical advice or assistance (where such advice would otherwise constitute the influencing of legislation) to a governmental body or to a committee or other subdivision thereof in response to a written request by such body or subdivision, as the case may be;
+&emsp;&emsp;(B) providing of technical advice or assistance (where such advice would otherwise constitute the influencing of legislation) to a governmental body or to a committee or other subdivision thereof in response to awritten request by such body or subdivision, as the case may be;
 
-&emsp;&emsp;(C) appearances before, or communications to, any legislative body with respect to apossible decision of such body which might affect the existence of the organization, its powers and duties, tax-exempt status, or the deduction of contributions to the organization;
+&emsp;&emsp;(C) appearances before, or communications to, any legislative body with respect to a possible decision of such body which might affect the existence of the organization, its powers and duties, tax-exempt status, or the deduction of contributions to the organization;
 
 &emsp;&emsp;(D) communications between the organization and its bona fide members with respect to legislation or proposed legislation of direct interest to the organization and such members, other than communications described in paragraph (3); and
 
@@ -171,5 +171,5 @@ Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 501, 6033 of this title; title 7 section 4809.
+This section is referred to in sections 162, 501, 6033 of this title; title 2 section 1610; title 7 section 4809.
 

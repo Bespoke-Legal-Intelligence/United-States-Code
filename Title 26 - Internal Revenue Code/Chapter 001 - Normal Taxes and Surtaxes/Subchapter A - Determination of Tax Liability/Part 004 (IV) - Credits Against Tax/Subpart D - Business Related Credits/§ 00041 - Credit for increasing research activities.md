@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (i) Taxpayers to which subparagraph applies
 
-&emsp;&emsp;&emsp;The fixed-base percentage shall be determined under this subparagraph if there are fewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.
+&emsp;&emsp;&emsp;The fixed-base percentage shall be determined under this subparagraph if there arefewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.
 
 #### (ii) Fixed-base percentage
 
@@ -504,7 +504,7 @@ For purposes of this section—
 
 &emsp;&emsp;If, after December 31, 1983—
 
-&emsp;&emsp;&emsp;(i) a taxpayer disposes of the major portion of any trade or business or the majorportion of a separate unit of a trade or business in a transaction to which subparagraph (A) applies, and
+&emsp;&emsp;&emsp;(i) a taxpayer disposes of the major portion of any trade or business or the major portion of a separate unit of a trade or business in a transaction to which subparagraph (A) applies, and
 
 &emsp;&emsp;&emsp;(ii) the taxpayer furnished the acquiring person such information as is necessary for the application of subparagraph (A),
 
@@ -512,7 +512,7 @@ For purposes of this section—
 
 #### (C) Certain reimbursements taken into account in determining fixed-base percentage
 
-&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
+&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures withsuch person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
 
@@ -564,7 +564,7 @@ Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments
 
-1993—Subsec. (c)(3)(B)(ii). Pub. L. 103–66, §13112(a), amended heading and text of cl. (ii) generally. Prior toamendment, text read as follows: “In a case to which this subparagraph applies, the fixed-base percentage is 3 percent.”
+1993—Subsec. (c)(3)(B)(ii). Pub. L. 103–66, §13112(a), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “In a case to which this subparagraph applies, the fixed-base percentage is 3 percent.”
 
 Subsec. (c)(3)(B)(iii). Pub. L. 103–66, §13112(b)(1), substituted “clauses (i) and (ii)” for “clause (i)”.
 
@@ -644,7 +644,7 @@ Subsec. (d). Pub. L. 99–514, §231(b), inserted “defined” in heading and a
 
 Subsec. (e). Pub. L. 99–514, §231(c)(2), amended subsec. (e) generally, substituting “Credit allowable with respect to certain payments to qualified organizations for basic research” for “Credit available with respect to certain basic research by colleges, universities, and certain research organizations” in heading, and restating and expanding provisions of former pars. (1) to (4) into new pars. (1) to (7).
 
-Subsec. (g). Pub. L. 99–514, §231(d)(3)(C)(ii), amended subsec. (g) generally, substituting provisions relatingto special rule for pass-thru of credit for provisions relating to limitation on amount of credit for research based on amount of tax liability.
+Subsec. (g). Pub. L. 99–514, §231(d)(3)(C)(ii), amended subsec. (g) generally, substituting provisions relating to special rule for pass-thru of credit for provisions relating to limitation on amount of credit for research based on amount of tax liability.
 
 Subsec. (h). Pub. L. 99–514, §231(a)(1), added subsec. (h).
 
@@ -750,7 +750,7 @@ Section 7110(a)(2) of Pub. L. 101–239, which set forth the method of determini
 
 #### Study and Report on Credit Provided by This Section
 
-Section 4007(b) of Pub. L. 100–647 directed Comptroller General of United States to conduct a study of credit provided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Section 4007(b) of Pub. L. 100–647 directed Comptroller General of United States to conduct a study of creditprovided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -16,7 +16,7 @@ There shall be at the head of the Agency an official to be known as the Administ
 
 #### Prior Provisions
 
-A prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
+A prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat.926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
 A prior section 901 of act July 1, 1944, was classified to section 299a of this title prior to repeal by Pub. L. 99–117.
 

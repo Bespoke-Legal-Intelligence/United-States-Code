@@ -14,7 +14,7 @@ The number of elective directorships designated as representing the members loca
 
 #### (d) Terms; rules and regulations governing nominations and elections
 
-The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as an elective director of a Federal home loan bank in any elective directorship or elective directorships and has served for all or part of each of said terms, such person shall not be eligible for election to an elective directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Board is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including,without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
+The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as an elective director of a Federal home loan bank in any elective directorship or elective directorships and has served for all or part of each of said terms, such person shall not be eligible for election to an elective directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Board is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
 
 #### (e) Continuation of existing terms; directorship for the Commonwealth of Puerto Rico
 
@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 86–349, §2, authorized increase in number of appointive 
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–211 provided that: “The amendment made by this Act \[amending this section\]shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act \[Sept. 8, 1961\].”
+Section 2 of Pub. L. 87–211 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act \[Sept. 8, 1961\].”
 
 #### Effective Date of 1935 Amendment
 

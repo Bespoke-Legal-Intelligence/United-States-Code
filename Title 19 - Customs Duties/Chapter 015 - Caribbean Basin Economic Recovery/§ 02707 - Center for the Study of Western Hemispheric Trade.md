@@ -16,7 +16,7 @@ The Center shall be a year-round program operated by an institution located in t
 
 #### (c) Consultation; selection criteria
 
-The Commissioner of Customs shall consult with appropriate officials of the State of Texas and private sector authorities with respect to selecting, planning, and establishing the Center. In selecting the appropriate institution, the Commissioner of Customs shall give consideration to—
+The Commissioner of Customs shall consult with appropriate officials of the State of Texasand private sector authorities with respect to selecting, planning, and establishing the Center. In selecting the appropriate institution, the Commissioner of Customs shall give consideration to—
 
 &emsp;(1) the institution's ability to carry out the programs and activities described in this section; and
 
@@ -28,7 +28,7 @@ The Center shall conduct the following activities:
 
 &emsp;(1) Provide forums for international discussion and debate for representatives from countries in the Western Hemisphere regarding issues which affect trade and other economic relations within the hemisphere, including the impact of the NAFTA on individual economies and the desirability and feasibility of possible accessions to the NAFTA by such countries.
 
-&emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional and national economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urbanstudies, border demographics, social anthropology, and population.
+&emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional and national economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urban studies, border demographics, social anthropology, and population.
 
 &emsp;(3) Publish materials, disseminate information, and conduct seminars and conferences to support and educate representatives from countries in the Western Hemisphere who seek to do business with or invest in other Western Hemisphere countries.
 

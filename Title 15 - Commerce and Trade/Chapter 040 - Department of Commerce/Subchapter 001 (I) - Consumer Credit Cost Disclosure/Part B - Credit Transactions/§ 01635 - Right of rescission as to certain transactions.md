@@ -2,7 +2,7 @@
 
 #### (a) Disclosure of obligor's right to rescind
 
-Except as otherwise provided in this section, in the case of any consumer credit transaction\(including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Board, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Board, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Board, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
+Except as otherwise provided in this section, in the case of any consumer credit transaction (including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Board, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Board, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Board, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
 
 #### (b) Return of money or property following rescission
 
@@ -36,39 +36,69 @@ An obligor's right of rescission shall expire three years after the date of cons
 
 In any action in which it is determined that a creditor has violated this section, in addition to rescission the court may award relief under section 1640 of this title for violations of this subchapter not relating to the right to rescind.
 
-(Pub. L. 90 321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93 495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96 221, title VI, §612(a)(1), (3) (6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98 479, title II, §205, Oct. 17, 1984, 98 Stat. 2234.)
+#### (h) Limitation on rescission
+
+An obligor shall have no rescission rights arising solely from the form of written notice used by the creditor to inform the obligor of the rights of the obligor under this section, if the creditor provided the obligor the appropriate form of written notice published and adopted by the Board, or a comparable written notice of the rights of the obligor, that was properly completed by the creditor, and otherwise complied with all other requirements of this section regarding notice.
+
+#### (i) Rescission rights in foreclosure
+
+#### (1) In general
+
+&emsp;Notwithstanding section 1649 of this title, and subject to the time period provided in subsection (f) of this section, in addition to any other right of rescission available under this section for a transaction, after the initiation of any judicial or nonjudicial foreclosure process on the primary dwelling of an obligor securing an extension of credit, the obligor shall have a right to rescind the transaction equivalent to other rescission rights provided by this section, if—
+
+&emsp;&emsp;(A) a mortgage broker fee is not included in the finance charge in accordance with the laws and regulations in effect at the time the consumer credit transaction was consummated; or
+
+&emsp;&emsp;(B) the form of notice of rescission for the transaction is not the appropriate form of written notice published and adopted by the Board or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice.
+
+#### (2) Tolerance for disclosures
+
+&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f) of this section, for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
+
+#### (3) Right of recoupment under State law
+
+&emsp;Nothing in this subsection affects a consumer's right of rescission in recoupment under State law.
+
+#### (4) Applicability
+
+&emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
+
+(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275.)
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98 479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
+1995—Subsec. (h). Pub. L. 104–29, §5, added subsec. (h).
 
-1980—Subsec. (a). Pub. L. 96 221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
+Subsec. (i). Pub. L. 104–29, §8, added subsec. (i).
 
-Subsec. (b). Pub. L. 96 221, §612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
+1984—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
 
-Subsec. (c). Pub. L. 96 221, §612(a)(5), inserted “information, forms, and” after “whom”.
+1980—Subsec. (a). Pub. L. 96–221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
 
-Subsec. (e). Pub. L. 96 221, §612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
+Subsec. (b). Pub. L. 96–221, §612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
 
-Subsec. (f). Pub. L. 96 221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
+Subsec. (c). Pub. L. 96–221, §612(a)(5), inserted “information, forms, and” after “whom”.
 
-Subsec. (g). Pub. L. 96 221, §612(a)(6), added subsec. (g).
+Subsec. (e). Pub. L. 96–221, §612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 
-1974—Subsecs. (a), (b). Pub. L. 93 495, §404, inserted provisions relating to security interest arising by operation of law.
+Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
 
-Subsec. (e). Pub. L. 93 495, §412, inserted exemption for consumer credit transactions where a State agency is the creditor.
+Subsec. (g). Pub. L. 96–221, §612(a)(6), added subsec. (g).
 
-Subsec. (f). Pub. L. 93 495, §405, added subsec. (f).
+1974—Subsecs. (a), (b). Pub. L. 93–495, §404, inserted provisions relating to security interest arising by operation of law.
+
+Subsec. (e). Pub. L. 93–495, §412, inserted exemption for consumer credit transactions where a State agency is the creditor.
+
+Subsec. (f). Pub. L. 93–495, §405, added subsec. (f).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93 495 effective Oct. 28, 1974, see section 416 of Pub. L. 93 495, set out as an Effective Date note under section 1665a of this title.
+Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1610, 1631, 1639, 1640, 1641 of this title.
+This section is referred to in sections 1605, 1610, 1631, 1639, 1640, 1641, 1649 of this title.
 

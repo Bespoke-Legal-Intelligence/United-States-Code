@@ -1750,7 +1750,7 @@ Tax not imposed.—If the provisions of paragraph (1) apply with respect to any 
 
 &emsp;&emsp;“(C)
 
-Credit against tax.—Under regulations prescribed by the Secretary, there shall be allowed as a one-time credit against the tax imposed on the Corporation under section 3101 or 3111 of the Internal Revenue Code of 1986 (and any interest or penalties imposed thereon) an amount equal to the sum of —
+Credit against tax.—Under regulations prescribed by the Secretary, there shall be allowed as a one-time credit against the tax imposed on the Corporation under section 3101 or 3111 of the Internal Revenue Code of 1986 (and any interest or penalties imposed thereon) an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;“(i) all amounts of tax imposed by section 3101 of such Code which have been paid by the Corporation with respect to wages to which paragraph (1) applies, and
 
@@ -1796,7 +1796,7 @@ Section 312(c) of Pub. L. 95–216, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Remuneration for Services Deemed To Constitute Employment; Services for Organizations Deemed To Have Filed Certificates Under Subsection (k)(5) of This Section
 
-Section 3 of Pub. L. 94–563 as amended by Pub. L. 95–216, title III, §312(e), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where—
+Section 3 of Pub. L. 94–563, as amended by Pub. L. 95–216, title III, §312(e), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where—
 
 &emsp;“(1) an individual performed service, as an employee of an organization which is deemed under section 3121(k)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to have filed a waiver certificate under section 3121(k)(1) of such Code, at any time prior to the period for which such certificate is effective;
 
@@ -1848,7 +1848,7 @@ Section 403 of act Sept. 1, 1954, as amended by acts Aug. 1, 1956, ch. 836, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 45B, 51, 162, 176, 401, 402, 403, 406, 412, 414, 457, 1402, 1563, 3101, 3102, 3111, 3122, 3124, 3125, 3231, 3306, 3401, 3509, 3510, 6051, 6053, 6103, 6413, 6652, 7701, 7871 of this title; title 5 section 8440; title 8 section 1101; title 20 section 125; title 29 sections 1082, 1802; title 42 sections 401, 409, 410, 415, 429, 430, 1320b–14, 1395y, 1395nn; title 45 sections 231b, 231e; title 49 sections 3101, 31501.
+This section is referred to in sections 45B, 51, 162, 176, 401, 402, 403, 406, 412, 414, 457, 1402, 1563, 3101, 3102, 3111, 3122, 3124, 3125, 3231, 3306, 3401, 3509, 3510, 6051, 6053, 6103, 6413, 6652, 7701, 7871 of this title; title 4 section 114; title 5 section 8440; title 8 section 1101; title 20 section 125; title 29 sections 1082, 1802; title 42 sections 401, 409, 410, 415, 429, 430, 1320b–14, 1395y, 1395nn; title 45 sections 231b, 231e; title 49 sections 3101, 31501.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

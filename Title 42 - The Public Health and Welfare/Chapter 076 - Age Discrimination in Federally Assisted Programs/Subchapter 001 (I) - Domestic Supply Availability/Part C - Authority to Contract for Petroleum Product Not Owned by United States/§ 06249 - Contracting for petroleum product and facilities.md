@@ -36,7 +36,7 @@ The Secretary may agree to binding arbitration of disputes under any contract en
 
 #### (f) Availability of funds
 
-The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
+The Secretary may utilize such funds as are available in the SPR Petroleum Account tocarry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
 
 (Pub. L. 94–163, title I, §171, as added Pub. L. 101–383, §6(a)(4), Sept. 15, 1990, 104 Stat. 729; amended Pub. L. 102–486, title XIV, §1403, Oct. 24, 1992, 106 Stat. 2994.)
 

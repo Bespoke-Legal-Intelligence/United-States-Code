@@ -64,5 +64,5 @@ From funds made available to carry out this subpart under section 7104(1) of thi
 
 The Secretary shall submit to the Congress a report every two years which shall contain a detailed statement regarding grants and awards, activities of grant recipients, and an evaluation of programs established under this section.
 
-(Pub. L. 89 10, title IV, §4123, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3687.)
+(Pub. L. 89–10, title IV, §4123, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3687.)
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title40",
- "package": "USCODE-1994-title40",
+ "package": "USCODE-1995-title40",
  "pieces": [
   {
    "id": "40_",
@@ -24,20 +24,20 @@
    "marks": [
     [
      "I",
-     40,
+     38,
      [
       [
-       67,
+       48,
        "[Page 2]"
       ]
      ]
     ],
     [
      "I",
-     125,
+     120,
      [
       [
-       62,
+       64,
        "[Page 3]"
       ]
      ]
@@ -96,30 +96,30 @@
   },
   {
    "id": "40_7",
-   "marks": [],
-   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00007 - Repealed. Oct. 31, 1951, ch. 654, §1(74), 65 Stat. 704.md",
-   "printed_pages": [
-    3,
-    3
-   ]
-  },
-  {
-   "id": "40_7a",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       120,
+       109,
        "[Page 4]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00007a - Omitted.md",
+   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00007 - Repealed. Oct. 31, 1951, ch. 654, §1(74), 65 Stat. 704.md",
    "printed_pages": [
     3,
+    4
+   ]
+  },
+  {
+   "id": "40_7a",
+   "marks": [],
+   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00007a - Omitted.md",
+   "printed_pages": [
+    4,
     4
    ]
   },
@@ -146,7 +146,7 @@
    "marks": [
     [
      "L",
-     12,
+     10,
      "[Page 5]",
      true
     ]
@@ -225,7 +225,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 6]",
      true
     ]
@@ -267,14 +267,10 @@
    "id": "40_13n",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       188,
-       "[Page 7]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 7]",
+     true
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00013n - Policing authority.md",
@@ -296,10 +292,14 @@
    "id": "40_13p",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 8]",
-     true
+     "I",
+     8,
+     [
+      [
+       213,
+       "[Page 8]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00013p - Area of Supreme Court grounds.md",
@@ -348,14 +348,10 @@
    "id": "40_19",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       255,
-       "[Page 9]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 9]",
+     true
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00019 - Supervision of public buildings and grounds in District of Columbia not otherwise provided for by law; eviction of trespassers.md",
@@ -386,10 +382,14 @@
    "id": "40_22a",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 10]",
-     true
+     "I",
+     10,
+     [
+      [
+       260,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00022a - Heat for Corcoran Gallery of Art.md",
@@ -447,10 +447,14 @@
    "id": "40_28_to_30a",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 11]",
-     true
+     "I",
+     8,
+     [
+      [
+       122,
+       "[Page 11]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00028 to 30a - Omitted.md",
@@ -533,30 +537,26 @@
   },
   {
    "id": "40_38_to_40",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 12]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00038 to 40 - Omitted.md",
    "printed_pages": [
     11,
-    11
+    12
    ]
   },
   {
    "id": "40_40a",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       119,
-       "[Page 12]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00040a - Transferred.md",
    "printed_pages": [
-    11,
+    12,
     12
    ]
   },
@@ -600,10 +600,14 @@
    "id": "40_45",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 13]",
-     true
+     "I",
+     2,
+     [
+      [
+       132,
+       "[Page 13]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00045 - Chief of Engineers; charge of Washington Aqueduct and other public works.md",
@@ -652,10 +656,14 @@
    "id": "40_50",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 14]",
-     true
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 14]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00050 - Reports by Chief of Engineers.md",
@@ -695,10 +703,14 @@
    "id": "40_53a",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 15]",
-     true
+     "I",
+     16,
+     [
+      [
+       273,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00053a - MacArthur Boulevard; jurisdiction and control.md",
@@ -766,7 +778,7 @@
    "marks": [
     [
      "L",
-     36,
+     10,
      "[Page 16]",
      true
     ]
@@ -824,30 +836,30 @@
   },
   {
    "id": "40_68",
-   "marks": [],
-   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00068 - Buildings on reservations, parks, or public grounds.md",
-   "printed_pages": [
-    16,
-    16
-   ]
-  },
-  {
-   "id": "40_69,_70",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       112,
+       91,
        "[Page 17]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00069, 70 - Omitted.md",
+   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00068 - Buildings on reservations, parks, or public grounds.md",
    "printed_pages": [
     16,
+    17
+   ]
+  },
+  {
+   "id": "40_69,_70",
+   "marks": [],
+   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00069, 70 - Omitted.md",
+   "printed_pages": [
+    17,
     17
    ]
   },
@@ -856,10 +868,10 @@
    "marks": [
     [
      "I",
-     36,
+     34,
      [
       [
-       487,
+       111,
        "[Page 18]"
       ]
      ]
@@ -876,30 +888,26 @@
    "marks": [
     [
      "I",
-     26,
+     24,
      [
       [
-       91,
+       449,
        "[Page 19]"
       ]
      ]
     ],
     [
-     "I",
-     52,
-     [
-      [
-       561,
-       "[Page 20]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 20]",
+     true
     ],
     [
      "I",
-     112,
+     100,
      [
       [
-       106,
+       208,
        "[Page 21]"
       ]
      ]
@@ -915,10 +923,14 @@
    "id": "40_71b",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 22]",
-     true
+     "I",
+     56,
+     [
+      [
+       112,
+       "[Page 22]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00071b - Omitted.md",
@@ -932,10 +944,10 @@
    "marks": [
     [
      "I",
-     46,
+     44,
      [
       [
-       429,
+       104,
        "[Page 23]"
       ]
      ]
@@ -952,10 +964,10 @@
    "marks": [
     [
      "I",
-     20,
+     16,
      [
       [
-       321,
+       1099,
        "[Page 24]"
       ]
      ]
@@ -981,10 +993,10 @@
    "marks": [
     [
      "I",
-     30,
+     28,
      [
       [
-       103,
+       109,
        "[Page 25]"
       ]
      ]
@@ -1000,10 +1012,14 @@
    "id": "40_71g",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 26]",
-     true
+     "I",
+     36,
+     [
+      [
+       326,
+       "[Page 26]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00071g - Zoning regulations and maps, and subdivision of lands.md",
@@ -1038,7 +1054,7 @@
      10,
      [
       [
-       1014,
+       425,
        "[Page 27]"
       ]
      ]
@@ -1054,14 +1070,10 @@
    "id": "40_72a",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       105,
-       "[Page 28]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 28]",
+     true
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00072a - Acquisition of land by Commission subject to limited rights reserved to grantor; acquisition of limited permanent rights in land….md",
@@ -1090,30 +1102,30 @@
   },
   {
    "id": "40_72d",
-   "marks": [],
-   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00072d - Expenses of land sales.md",
-   "printed_pages": [
-    28,
-    28
-   ]
-  },
-  {
-   "id": "40_72e",
    "marks": [
     [
      "I",
-     2,
+     16,
      [
       [
-       89,
+       560,
        "[Page 29]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00072e - Execution of deeds to lands.md",
+   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00072d - Expenses of land sales.md",
    "printed_pages": [
     28,
+    29
+   ]
+  },
+  {
+   "id": "40_72e",
+   "marks": [],
+   "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00072e - Execution of deeds to lands.md",
+   "printed_pages": [
+    29,
     29
    ]
   },
@@ -1131,7 +1143,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 30]",
      true
     ]
@@ -1182,14 +1194,10 @@
    "id": "40_77a",
    "marks": [
     [
-     "I",
+     "L",
      4,
-     [
-      [
-       496,
-       "[Page 31]"
-      ]
-     ]
+     "[Page 31]",
+     true
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00077a - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 656.md",
@@ -1230,7 +1238,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 32]",
      true
     ]
@@ -1290,14 +1298,10 @@
    "id": "40_100",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       161,
-       "[Page 33]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 33]",
+     true
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00100 - Part of Washington Aqueduct for playground purposes.md",
@@ -1341,7 +1345,7 @@
      2,
      [
       [
-       1128,
+       899,
        "[Page 34]"
       ]
      ]
@@ -1420,10 +1424,14 @@
    "id": "40_114",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 35]",
-     true
+     "I",
+     2,
+     [
+      [
+       113,
+       "[Page 35]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00114 - Repealed. Oct. 31, 1951, ch. 654, §1(88), 65 Stat. 704.md",
@@ -1494,7 +1502,7 @@
      2,
      [
       [
-       234,
+       89,
        "[Page 36]"
       ]
      ]
@@ -1529,10 +1537,10 @@
    "marks": [
     [
      "I",
-     18,
+     16,
      [
       [
-       102,
+       104,
        "[Page 37]"
       ]
      ]
@@ -1573,30 +1581,26 @@
   },
   {
    "id": "40_129",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 38]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00129 - Lease of building space by wholly owned Government corporations; rental.md",
    "printed_pages": [
     37,
-    37
+    38
    ]
   },
   {
    "id": "40_129a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 38]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00129a - Courthouse construction authorized; cost; repayment to United States.md",
    "printed_pages": [
-    37,
+    38,
     38
    ]
   },
@@ -1605,7 +1609,7 @@
    "marks": [
     [
      "L",
-     26,
+     22,
      "[Page 39]",
      true
     ]
@@ -1648,7 +1652,7 @@
    "marks": [
     [
      "L",
-     14,
+     4,
      "[Page 40]",
      true
     ]
@@ -1682,25 +1686,29 @@
    "marks": [
     [
      "L",
-     34,
+     28,
      "[Page 41]",
      true
     ],
     [
      "I",
-     142,
+     138,
      [
       [
-       191,
+       181,
        "[Page 42]"
       ]
      ]
     ],
     [
-     "L",
-     176,
-     "[Page 43]",
-     true
+     "I",
+     170,
+     [
+      [
+       105,
+       "[Page 43]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Public Buildings, Grounds, Parks, and Wharves in District of Columbia/§ 00136 - National Capital Service Area.md",
@@ -1714,29 +1722,33 @@
    "marks": [
     [
      "I",
-     85,
+     78,
      [
       [
-       76,
+       69,
        "[Page 44]"
       ]
      ]
     ],
     [
      "I",
-     181,
+     171,
      [
       [
-       49,
+       71,
        "[Page 45]"
       ]
      ]
     ],
     [
-     "L",
-     290,
-     "[Page 46]",
-     true
+     "I",
+     273,
+     [
+      [
+       68,
+       "[Page 46]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/README.md",
@@ -1774,26 +1786,30 @@
   },
   {
    "id": "40_162-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       97,
+       "[Page 47]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00162–1 - Appointment of Architect of Capitol.md",
    "printed_pages": [
     46,
-    46
+    47
    ]
   },
   {
    "id": "40_162a",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 47]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00162a - Compensation of Architect of Capitol.md",
    "printed_pages": [
-    46,
+    47,
     47
    ]
   },
@@ -1808,26 +1824,30 @@
   },
   {
    "id": "40_163",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 48]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00163 - Care and superintendence of Capitol by Architect of Capitol.md",
    "printed_pages": [
     47,
-    47
+    48
    ]
   },
   {
    "id": "40_163a",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 48]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00163a - Exterior of Capitol, duty of Architect.md",
    "printed_pages": [
-    47,
+    48,
     48
    ]
   },
@@ -1871,34 +1891,22 @@
    "id": "40_166",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       296,
-       "[Page 49]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 49]",
+     true
     ],
     [
-     "I",
-     136,
-     [
-      [
-       1110,
-       "[Page 50]"
-      ]
-     ]
+     "L",
+     122,
+     "[Page 50]",
+     true
     ],
     [
-     "I",
-     172,
-     [
-      [
-       814,
-       "[Page 51]"
-      ]
-     ]
+     "L",
+     160,
+     "[Page 51]",
+     true
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00166 - Architect of Capitol; repairs of Capitol.md",
@@ -1912,7 +1920,7 @@
    "marks": [
     [
      "L",
-     90,
+     30,
      "[Page 52]",
      true
     ]
@@ -1961,30 +1969,30 @@
   },
   {
    "id": "40_166b-1b",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–1b - Conversion by Architect of Capitol of existing basic pay rates to per annum gross pay rates.md",
-   "printed_pages": [
-    52,
-    52
-   ]
-  },
-  {
-   "id": "40_166b-1c",
    "marks": [
     [
      "I",
-     16,
+     2,
      [
       [
-       100,
+       282,
        "[Page 53]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–1c - Obsolete references in existing law to basic pay rates.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–1b - Conversion by Architect of Capitol of existing basic pay rates to per annum gross pay rates.md",
    "printed_pages": [
     52,
+    53
+   ]
+  },
+  {
+   "id": "40_166b-1c",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–1c - Obsolete references in existing law to basic pay rates.md",
+   "printed_pages": [
+    53,
     53
    ]
   },
@@ -2008,109 +2016,105 @@
   },
   {
    "id": "40_166b-1f",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 54]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–1f - Exemptions.md",
    "printed_pages": [
     53,
-    53
+    54
    ]
   },
   {
    "id": "40_166b-2",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       188,
-       "[Page 54]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–2 - Registered nurses compensated under appropriations for Capitol Buildings, Senate Office Buildings, and House Office Buildings….md",
    "printed_pages": [
-    53,
+    54,
     54
    ]
   },
   {
    "id": "40_166b-3",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–3 - Authorization to fix basic rate of compensation for certain positions.md",
-   "printed_pages": [
-    54,
-    54
-   ]
-  },
-  {
-   "id": "40_166b-3a",
    "marks": [
     [
      "L",
-     30,
+     32,
      "[Page 55]",
      true
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–3a - Compensation of certain positions in Office of Architect of Capitol.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–3 - Authorization to fix basic rate of compensation for certain positions.md",
    "printed_pages": [
     54,
+    55
+   ]
+  },
+  {
+   "id": "40_166b-3a",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–3a - Compensation of certain positions in Office of Architect of Capitol.md",
+   "printed_pages": [
+    55,
     55
    ]
   },
   {
    "id": "40_166b-3b",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–3b - Compensation of certain positions under jurisdiction of Architect of Capitol.md",
-   "printed_pages": [
-    55,
-    55
-   ]
-  },
-  {
-   "id": "40_166b-4",
    "marks": [
     [
      "L",
-     6,
+     46,
      "[Page 56]",
      true
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–4 - Gratuities for survivors of deceased employees under jurisdiction of Architect of Capitol.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–3b - Compensation of certain positions under jurisdiction of Architect of Capitol.md",
    "printed_pages": [
     55,
+    56
+   ]
+  },
+  {
+   "id": "40_166b-4",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–4 - Gratuities for survivors of deceased employees under jurisdiction of Architect of Capitol.md",
+   "printed_pages": [
+    56,
     56
    ]
   },
   {
    "id": "40_166b-5",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–5 - Withholding and remittance of State income tax by Architect of Capitol.md",
-   "printed_pages": [
-    56,
-    56
-   ]
-  },
-  {
-   "id": "40_166b-6",
    "marks": [
     [
      "I",
-     2,
+     40,
      [
       [
-       754,
+       373,
        "[Page 57]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–6 - Assignment and reassignment of personnel by Architect of Capitol for personal services.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–5 - Withholding and remittance of State income tax by Architect of Capitol.md",
    "printed_pages": [
     56,
+    57
+   ]
+  },
+  {
+   "id": "40_166b-6",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166b–6 - Assignment and reassignment of personnel by Architect of Capitol for personal services.md",
+   "printed_pages": [
+    57,
     57
    ]
   },
@@ -2119,10 +2123,10 @@
    "marks": [
     [
      "I",
-     52,
+     34,
      [
       [
-       220,
+       144,
        "[Page 58]"
       ]
      ]
@@ -2136,30 +2140,30 @@
   },
   {
    "id": "40_166c",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166c - Acquisition of surplus supplies, materials, etc.; priority.md",
+   "printed_pages": [
+    58,
+    58
+   ]
+  },
+  {
+   "id": "40_166d",
    "marks": [
     [
      "I",
      2,
      [
       [
-       231,
+       135,
        "[Page 59]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166c - Acquisition of surplus supplies, materials, etc.; priority.md",
-   "printed_pages": [
-    58,
-    59
-   ]
-  },
-  {
-   "id": "40_166d",
-   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00166d - Rental or lease of storage space.md",
    "printed_pages": [
-    59,
+    58,
     59
    ]
   },
@@ -2182,6 +2186,15 @@
    ]
   },
   {
+   "id": "40_166g",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00166g - Expenses for flying American flags and providing certification services therefor.md",
+   "printed_pages": [
+    59,
+    59
+   ]
+  },
+  {
    "id": "40_167",
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00167 - Lighting, heating, and ventilating House of Representatives.md",
@@ -2192,26 +2205,26 @@
   },
   {
    "id": "40_167a",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 60]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00167a - Repealed. Pub. L. 90–417, July 23, 1968, 82 Stat. 407.md",
    "printed_pages": [
     59,
-    60
+    59
    ]
   },
   {
    "id": "40_168",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 60]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00168 - Heating and ventilating Senate wing.md",
    "printed_pages": [
-    60,
+    59,
     60
    ]
   },
@@ -2253,18 +2266,11 @@
   },
   {
    "id": "40_171",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 61]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00171 - Transfer of discontinued apparatus to other branches.md",
    "printed_pages": [
     60,
-    61
+    60
    ]
   },
   {
@@ -2272,16 +2278,23 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00172 - Repealed. Oct. 31, 1951, ch. 654, §3(18), 65 Stat. 709.md",
    "printed_pages": [
-    61,
-    61
+    60,
+    60
    ]
   },
   {
    "id": "40_173",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 61]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00173 - Estimates for improvements in grounds.md",
    "printed_pages": [
-    61,
+    60,
     61
    ]
   },
@@ -2308,20 +2321,20 @@
    "marks": [
     [
      "I",
-     16,
+     42,
      [
       [
-       644,
+       146,
        "[Page 62]"
       ]
      ]
     ],
     [
      "I",
-     78,
+     86,
      [
       [
-       366,
+       286,
        "[Page 63]"
       ]
      ]
@@ -2344,26 +2357,30 @@
   },
   {
    "id": "40_174d",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 64]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174d - Assignment of space in Senate Office Building.md",
    "printed_pages": [
     63,
-    64
+    63
    ]
   },
   {
    "id": "40_174d-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       87,
+       "[Page 64]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174d–1 - Assignment of space for meetings of joint committees, conference committees, etc.md",
    "printed_pages": [
-    64,
+    63,
     64
    ]
   },
@@ -2387,30 +2404,26 @@
   },
   {
    "id": "40_174j-1",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       164,
-       "[Page 65]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174j–1 - Senate Restaurants; management by Architect of Capitol; approval of matters of general policy; termination.md",
    "printed_pages": [
     64,
-    65
+    64
    ]
   },
   {
    "id": "40_174j-2",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 65]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174j–2 - Omitted.md",
    "printed_pages": [
-    65,
+    64,
     65
    ]
   },
@@ -2443,18 +2456,11 @@
   },
   {
    "id": "40_174j-6",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 66]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174j–6 - Bond of Architect, Assistant Architect, and other employees.md",
    "printed_pages": [
     65,
-    66
+    65
    ]
   },
   {
@@ -2462,16 +2468,27 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174j–7 - Supersedure of prior provisions for maintenance and operation of Senate Restaurants.md",
    "printed_pages": [
-    66,
-    66
+    65,
+    65
    ]
   },
   {
    "id": "40_174j-8",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 66]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00174j–8 - Management personnel and miscellaneous expenses; availability of appropriations; annual and sick leave.md",
    "printed_pages": [
-    66,
+    65,
     66
    ]
   },
@@ -2488,14 +2505,18 @@
    "id": "40_174k",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 67]",
-     true
+     "I",
+     12,
+     [
+      [
+       325,
+       "[Page 67]"
+      ]
+     ]
     ],
     [
      "L",
-     70,
+     80,
      "[Page 68]",
      true
     ]
@@ -2511,20 +2532,20 @@
    "marks": [
     [
      "I",
-     48,
+     58,
      [
       [
-       268,
+       109,
        "[Page 69]"
       ]
      ]
     ],
     [
      "I",
-     94,
+     102,
      [
       [
-       112,
+       814,
        "[Page 70]"
       ]
      ]
@@ -2577,7 +2598,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 71]",
      true
     ]
@@ -2629,17 +2650,17 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       92,
+       641,
        "[Page 72]"
       ]
      ]
     ],
     [
      "L",
-     60,
+     56,
      "[Page 73]",
      true
     ]
@@ -2664,38 +2685,33 @@
    "marks": [
     [
      "I",
-     50,
+     42,
      [
       [
-       90,
+       279,
        "[Page 74]"
       ]
      ]
+    ],
+    [
+     "L",
+     130,
+     "[Page 75]",
+     true
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00184g - House of Representatives Child Care Center.md",
    "printed_pages": [
     73,
-    74
+    75
    ]
   },
   {
    "id": "40_185",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 75]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00185 - Capitol power plant.md",
    "printed_pages": [
-    74,
+    75,
     75
    ]
   },
@@ -2703,10 +2719,14 @@
    "id": "40_185a",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 76]",
-     true
+     "I",
+     28,
+     [
+      [
+       273,
+       "[Page 76]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00185a - Senate Garage; control, supervision, servicing of official motor vehicles.md",
@@ -2735,55 +2755,55 @@
   },
   {
    "id": "40_188",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188 - Works of fine arts.md",
-   "printed_pages": [
-    76,
-    76
-   ]
-  },
-  {
-   "id": "40_188a",
    "marks": [
     [
      "L",
-     8,
+     16,
      "[Page 77]",
      true
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a - United States Capitol Preservation Commission.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188 - Works of fine arts.md",
    "printed_pages": [
     76,
+    77
+   ]
+  },
+  {
+   "id": "40_188a",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a - United States Capitol Preservation Commission.md",
+   "printed_pages": [
+    77,
     77
    ]
   },
   {
    "id": "40_188a-1",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a–1 - Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "40_188a-2",
    "marks": [
     [
      "I",
-     4,
+     34,
      [
       [
-       91,
+       161,
        "[Page 78]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a–2 - Capitol Preservation Fund.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a–1 - Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property.md",
    "printed_pages": [
     77,
+    78
+   ]
+  },
+  {
+   "id": "40_188a-2",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a–2 - Capitol Preservation Fund.md",
+   "printed_pages": [
+    78,
     78
    ]
   },
@@ -2807,15 +2827,6 @@
   },
   {
    "id": "40_188a-5",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a–5 - “Member of the House of Representatives” defined.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "40_188b",
    "marks": [
     [
      "L",
@@ -2824,9 +2835,18 @@
      true
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188b - Senate Commission on Art.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188a–5 - “Member of the House of Representatives” defined.md",
    "printed_pages": [
     78,
+    79
+   ]
+  },
+  {
+   "id": "40_188b",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00188b - Senate Commission on Art.md",
+   "printed_pages": [
+    79,
     79
    ]
   },
@@ -2834,10 +2854,14 @@
    "id": "40_188b-1",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 80]",
-     true
+     "I",
+     16,
+     [
+      [
+       90,
+       "[Page 80]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00188b–1 - Duties of Commission.md",
@@ -2886,10 +2910,14 @@
    "id": "40_188b-6",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 81]",
-     true
+     "I",
+     4,
+     [
+      [
+       841,
+       "[Page 81]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00188b–6 - Conservation, restoration, replication, or replacement of items in United States Senate Collection.md",
@@ -2936,11 +2964,18 @@
   },
   {
    "id": "40_190a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 82]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00190a - Omitted.md",
    "printed_pages": [
     81,
-    81
+    82
    ]
   },
   {
@@ -2948,27 +2983,16 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00190b - Location of reference library for Senate and House of Representatives.md",
    "printed_pages": [
-    81,
-    81
+    82,
+    82
    ]
   },
   {
    "id": "40_191",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       113,
-       "[Page 82]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00191 - Repealed. Jan. 24, 1934, ch. 4, §34, 48 Stat. 336.md",
    "printed_pages": [
-    81,
+    82,
     82
    ]
   },
@@ -2994,37 +3018,33 @@
    "id": "40_193a",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       1132,
-       "[Page 83]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 83]",
+     true
     ],
     [
      "L",
-     72,
+     58,
      "[Page 84]",
      true
     ],
     [
      "I",
-     122,
+     116,
      [
       [
-       167,
+       662,
        "[Page 85]"
       ]
      ]
     ],
     [
      "I",
-     186,
+     182,
      [
       [
-       395,
+       216,
        "[Page 86]"
       ]
      ]
@@ -3038,30 +3058,26 @@
   },
   {
    "id": "40_193b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 87]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00193b - Public use of Capitol Grounds.md",
    "printed_pages": [
     86,
-    86
+    87
    ]
   },
   {
    "id": "40_193c",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       322,
-       "[Page 87]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00193c - Obstruction of roads; conveyance of goods or merchandise; Capitol Grounds.md",
    "printed_pages": [
-    86,
+    87,
     87
    ]
   },
@@ -3088,7 +3104,7 @@
    "marks": [
     [
      "L",
-     38,
+     30,
      "[Page 88]",
      true
     ]
@@ -3113,10 +3129,10 @@
    "marks": [
     [
      "I",
-     28,
+     22,
      [
       [
-       162,
+       532,
        "[Page 89]"
       ]
      ]
@@ -3157,26 +3173,26 @@
   },
   {
    "id": "40_193l",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193l - Concerts on grounds.md",
-   "printed_pages": [
-    89,
-    89
-   ]
-  },
-  {
-   "id": "40_193m",
    "marks": [
     [
      "L",
-     8,
+     10,
      "[Page 90]",
      true
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193m - Definitions.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193l - Concerts on grounds.md",
    "printed_pages": [
     89,
+    90
+   ]
+  },
+  {
+   "id": "40_193m",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193m - Definitions.md",
+   "printed_pages": [
+    90,
     90
    ]
   },
@@ -3191,11 +3207,18 @@
   },
   {
    "id": "40_193n",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 91]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00193n - Smithsonian Institution; policing of buildings and grounds.md",
    "printed_pages": [
     90,
-    90
+    91
    ]
   },
   {
@@ -3203,27 +3226,16 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00193o - Public use of Smithsonian grounds.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
    "id": "40_193p",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 91]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00193p - Sale of articles; signs; solicitation; Smithsonian grounds.md",
    "printed_pages": [
-    90,
+    91,
     91
    ]
   },
@@ -3256,30 +3268,30 @@
   },
   {
    "id": "40_193t",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193t - Police power; Smithsonian grounds.md",
-   "printed_pages": [
-    91,
-    91
-   ]
-  },
-  {
-   "id": "40_193u",
    "marks": [
     [
      "I",
      2,
      [
       [
-       90,
+       478,
        "[Page 92]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193u - Suspension of regulations; Smithsonian grounds.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193t - Police power; Smithsonian grounds.md",
    "printed_pages": [
     91,
+    92
+   ]
+  },
+  {
+   "id": "40_193u",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00193u - Suspension of regulations; Smithsonian grounds.md",
+   "printed_pages": [
+    92,
     92
    ]
   },
@@ -3287,10 +3299,14 @@
    "id": "40_193v",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 93]",
-     true
+     "I",
+     14,
+     [
+      [
+       452,
+       "[Page 93]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00193v - “Buildings and grounds” defined.md",
@@ -3331,15 +3347,19 @@
    "marks": [
     [
      "L",
-     42,
+     16,
      "[Page 94]",
      true
     ],
     [
-     "L",
-     150,
-     "[Page 95]",
-     true
+     "I",
+     144,
+     [
+      [
+       519,
+       "[Page 95]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00206 - Capitol Police; appointment; Chief of the Capitol Police.md",
@@ -3371,10 +3391,10 @@
    "marks": [
     [
      "I",
-     60,
+     50,
      [
       [
-       101,
+       106,
        "[Page 96]"
       ]
      ]
@@ -3409,10 +3429,10 @@
    "marks": [
     [
      "I",
-     32,
+     12,
      [
       [
-       105,
+       220,
        "[Page 97]"
       ]
      ]
@@ -3444,26 +3464,26 @@
   },
   {
    "id": "40_210",
-   "marks": [],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00210 - Uniform, belts and arms; Capitol Police.md",
-   "printed_pages": [
-    97,
-    97
-   ]
-  },
-  {
-   "id": "40_210a",
    "marks": [
     [
      "L",
-     8,
+     16,
      "[Page 98]",
      true
     ]
    ],
-   "path": "Chapter 002 - Capitol Building and Grounds/§ 00210a - Uniforms to display United States flag or colors.md",
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00210 - Uniform, belts and arms; Capitol Police.md",
    "printed_pages": [
     97,
+    98
+   ]
+  },
+  {
+   "id": "40_210a",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00210a - Uniforms to display United States flag or colors.md",
+   "printed_pages": [
+    98,
     98
    ]
   },
@@ -3489,14 +3509,10 @@
    "id": "40_212a",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       1245,
-       "[Page 99]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 99]",
+     true
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00212a - Policing of Capitol Buildings and Grounds; powers of Capitol Police; arrests by Capitol Police for crimes of violence; arrests by….md",
@@ -3510,7 +3526,7 @@
    "marks": [
     [
      "L",
-     76,
+     36,
      "[Page 100]",
      true
     ]
@@ -3534,14 +3550,10 @@
    "id": "40_212a-3",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       101,
-       "[Page 101]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 101]",
+     true
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00212a–3 - Law enforcement authority of Capitol Police.md",
@@ -3551,11 +3563,20 @@
    ]
   },
   {
+   "id": "40_212a-4",
+   "marks": [],
+   "path": "Chapter 002 - Capitol Building and Grounds/§ 00212a–4 - Security systems for Capitol buildings and grounds.md",
+   "printed_pages": [
+    101,
+    101
+   ]
+  },
+  {
    "id": "40_212b",
    "marks": [
     [
      "L",
-     54,
+     6,
      "[Page 102]",
      true
     ]
@@ -3586,11 +3607,18 @@
   },
   {
    "id": "40_214",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 103]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00214 - Protection of grounds.md",
    "printed_pages": [
     102,
-    102
+    103
    ]
   },
   {
@@ -3598,33 +3626,37 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00214a - Omitted.md",
    "printed_pages": [
-    102,
-    102
+    103,
+    103
    ]
   },
   {
    "id": "40_214b",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 103]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00214b - Designation of Capitol grounds as play area for children of Members and employees of Senate or House of Representatives.md",
    "printed_pages": [
-    102,
+    103,
     103
    ]
   },
   {
    "id": "40_214c",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       227,
+       "[Page 104]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00214c - Senate Employee Child Care Center.md",
    "printed_pages": [
     103,
-    103
+    104
    ]
   },
   {
@@ -3632,38 +3664,27 @@
    "marks": [
     [
      "I",
-     20,
+     32,
      [
       [
-       91,
-       "[Page 104]"
+       154,
+       "[Page 105]"
       ]
      ]
     ]
    ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00214d - Child care center employee benefits.md",
    "printed_pages": [
-    103,
-    104
+    104,
+    105
    ]
   },
   {
    "id": "40_215",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       1287,
-       "[Page 105]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00215 - Supervision of Botanical Garden.md",
    "printed_pages": [
-    104,
+    105,
     105
    ]
   },
@@ -3687,26 +3708,30 @@
   },
   {
    "id": "40_216b",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       275,
+       "[Page 106]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00216b - Utilization of personnel by Architect of Capitol for maintenance and operation of Botanic Garden.md",
    "printed_pages": [
     105,
-    105
+    106
    ]
   },
   {
    "id": "40_216c",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 106]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00216c - National Garden.md",
    "printed_pages": [
-    105,
+    106,
     106
    ]
   },
@@ -3721,11 +3746,22 @@
   },
   {
    "id": "40_217",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       115,
+       "[Page 107]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00217 - Repealed. Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.md",
    "printed_pages": [
     106,
-    106
+    107
    ]
   },
   {
@@ -3733,8 +3769,8 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00217a - Plant material exchanges.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3742,8 +3778,8 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00217b - Repealed. Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3751,8 +3787,8 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00218 to 220 - Repealed. Oct. 31, 1951, ch. 654, §3(19)–(21), 65 Stat. 709.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3760,8 +3796,8 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00221, 222 - Omitted.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3769,8 +3805,8 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00223 - Capitol Grounds shuttle service; purchase, etc., of vehicles.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3778,8 +3814,8 @@
    "marks": [],
    "path": "Chapter 002 - Capitol Building and Grounds/§ 00224 - Transportation of House Pages by Capitol Grounds shuttle service.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3787,8 +3823,8 @@
    "marks": [],
    "path": "Chapter 002A - National Archives/README.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
@@ -3796,66 +3832,66 @@
    "marks": [],
    "path": "Chapter 002A - National Archives/§ 00231 to 232a - Transferred.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
    "id": "40_232b",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       105,
-       "[Page 107]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002A - National Archives/§ 00232b - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 650.md",
    "printed_pages": [
-    106,
+    107,
     107
    ]
   },
   {
    "id": "40_233_to_241",
-   "marks": [],
-   "path": "Chapter 002A - National Archives/§ 00233 to 241 - Transferred.md",
-   "printed_pages": [
-    107,
-    107
-   ]
-  },
-  {
-   "id": "40_-ch3",
    "marks": [
     [
      "I",
-     61,
+     14,
      [
       [
-       58,
+       113,
        "[Page 108]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - Public Buildings and Works Generally/README.md",
+   "path": "Chapter 002A - National Archives/§ 00233 to 241 - Transferred.md",
    "printed_pages": [
     107,
     108
    ]
   },
   {
-   "id": "40_251",
+   "id": "40_-ch3",
    "marks": [],
-   "path": "Chapter 003 - Public Buildings and Works Generally/§ 00251 - Omitted.md",
+   "path": "Chapter 003 - Public Buildings and Works Generally/README.md",
    "printed_pages": [
     108,
     108
+   ]
+  },
+  {
+   "id": "40_251",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       330,
+       "[Page 109]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Public Buildings and Works Generally/§ 00251 - Omitted.md",
+   "printed_pages": [
+    108,
+    109
    ]
   },
   {
@@ -3863,8 +3899,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00252 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 642.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
@@ -3872,8 +3908,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00253 - Detail of members of field force of General Services Administration.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
@@ -3881,8 +3917,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00254 - Repealed. Pub. L. 86–249, §17(6), Sept. 9, 1959, 73 Stat. 484.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
@@ -3890,19 +3926,19 @@
    "marks": [
     [
      "I",
-     8,
+     12,
      [
       [
-       91,
-       "[Page 109]"
+       844,
+       "[Page 110]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00255 - Approval of title prior to Federal land purchases; payment of title expenses; application to Tennessee Valley Authority; Federal….md",
    "printed_pages": [
-    108,
-    109
+    109,
+    110
    ]
   },
   {
@@ -3910,24 +3946,28 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00256 - Repealed. Pub. L. 91–393, §2, Sept. 1, 1970, 84 Stat. 835.md",
    "printed_pages": [
-    109,
-    109
+    110,
+    110
    ]
   },
   {
    "id": "40_257",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 110]",
-     true
+     "I",
+     44,
+     [
+      [
+       178,
+       "[Page 111]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00257 - Condemnation of realty for sites and other uses.md",
    "printed_pages": [
-    109,
-    110
+    110,
+    111
    ]
   },
   {
@@ -3935,27 +3975,16 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258 - Omitted.md",
    "printed_pages": [
-    110,
-    110
+    111,
+    111
    ]
   },
   {
    "id": "40_258a",
-   "marks": [
-    [
-     "I",
-     44,
-     [
-      [
-       182,
-       "[Page 111]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258a - Lands, easements, or rights of way for public use; taking of possession and title in advance of final judgment; authority; procedure.md",
    "printed_pages": [
-    110,
+    111,
     111
    ]
   },
@@ -3970,11 +3999,22 @@
   },
   {
    "id": "40_258c",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       177,
+       "[Page 112]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258c - Obligation of United States to pay ultimate award when fixed.md",
    "printed_pages": [
     111,
-    111
+    112
    ]
   },
   {
@@ -3982,8 +4022,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258d - Taking in advance of final judgment; right as additional to existing rights, powers, and authority.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
@@ -3991,8 +4031,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258e - Taking in advance of final judgment; demolition of buildings thereon; erection of public buildings or works; funds available for purpose.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
@@ -4000,37 +4040,33 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258e–1 - Interest as part of just compensation.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
    "id": "40_258f",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       142,
-       "[Page 112]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00258f - Exclusion of certain property by stipulation of Attorney General.md",
    "printed_pages": [
-    111,
+    112,
     112
    ]
   },
   {
    "id": "40_259,_260",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 113]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00259, 260 - Repealed. Pub. L. 86–249, §17(7), (12), Sept. 9, 1959, 73 Stat. 484, 485.md",
    "printed_pages": [
     112,
-    112
+    113
    ]
   },
   {
@@ -4038,8 +4074,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00261 - Contracts authorized within limit of cost fixed, though appropriations are in part only.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -4047,8 +4083,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00262 to 265 - Repealed. Pub. L. 86–249, §17(8)–(11), Sept. 9, 1959, 73 Stat. 484, 485.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -4056,8 +4092,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00265a - Omitted.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -4065,8 +4101,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00266 - Repealed. Oct. 31, 1951, ch. 654, §1(90), 65 Stat. 705.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -4074,27 +4110,16 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00267 - Repealed. Pub. L. 86–249, §17(12), Sept. 9, 1959, 73 Stat. 485.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
    "id": "40_267a",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       112,
-       "[Page 113]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00267a - Omitted.md",
    "printed_pages": [
-    112,
+    113,
     113
    ]
   },
@@ -4118,11 +4143,22 @@
   },
   {
    "id": "40_269a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       125,
+       "[Page 114]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00269a - Omitted.md",
    "printed_pages": [
     113,
-    113
+    114
    ]
   },
   {
@@ -4130,57 +4166,53 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270 - Repealed. Aug. 24, 1935, ch. 642, §5, 49 Stat. 794.md",
    "printed_pages": [
-    113,
-    113
+    114,
+    114
    ]
   },
   {
    "id": "40_270a",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       111,
-       "[Page 114]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 115]",
+     true
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270a - Bonds of contractors of public buildings or works.md",
-   "printed_pages": [
-    113,
-    114
-   ]
-  },
-  {
-   "id": "40_270b",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       115,
-       "[Page 115]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270b - Rights of persons furnishing labor or material.md",
    "printed_pages": [
     114,
     115
    ]
   },
   {
-   "id": "40_270c",
+   "id": "40_270b",
    "marks": [],
-   "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270c - Right of person furnishing labor or material to copy of bond.md",
+   "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270b - Rights of persons furnishing labor or material.md",
    "printed_pages": [
     115,
     115
+   ]
+  },
+  {
+   "id": "40_270c",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       108,
+       "[Page 116]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270c - Right of person furnishing labor or material to copy of bond.md",
+   "printed_pages": [
+    115,
+    116
    ]
   },
   {
@@ -4188,8 +4220,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270d - “Person” defined.md",
    "printed_pages": [
-    115,
-    115
+    116,
+    116
    ]
   },
   {
@@ -4197,37 +4229,33 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270d–1 - Waiver of sections 270a to 270d with respect to small contracts.md",
    "printed_pages": [
-    115,
-    115
+    116,
+    116
    ]
   },
   {
    "id": "40_270e",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       106,
-       "[Page 116]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270e - Waiver of sections 270a to 270d–1 with respect to Army, Navy, Air Force, or Coast Guard contracts.md",
    "printed_pages": [
-    115,
+    116,
     116
    ]
   },
   {
    "id": "40_270f",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 117]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00270f - Waiver of sections 270a to 270d–1 with respect to transportation contracts.md",
    "printed_pages": [
     116,
-    116
+    117
    ]
   },
   {
@@ -4235,8 +4263,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00271, 272 - Omitted.md",
    "printed_pages": [
-    116,
-    116
+    117,
+    117
    ]
   },
   {
@@ -4244,8 +4272,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00273 - Repealed. Oct. 31, 1951, ch. 654, §1(92), 65 Stat. 705.md",
    "printed_pages": [
-    116,
-    116
+    117,
+    117
    ]
   },
   {
@@ -4253,39 +4281,48 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00274 to 276 - Repealed. Pub. L. 86–249, §17(13)–(15), Sept. 9, 1959, 73 Stat. 485.md",
    "printed_pages": [
-    116,
-    116
+    117,
+    117
    ]
   },
   {
    "id": "40_276a",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 117]",
-     true
-    ],
-    [
-     "L",
-     62,
-     "[Page 118]",
-     true
+     "I",
+     16,
+     [
+      [
+       101,
+       "[Page 118]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a - Rate of wages for laborers and mechanics.md",
    "printed_pages": [
-    116,
+    117,
     118
    ]
   },
   {
    "id": "40_276a-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       166,
+       "[Page 119]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–1 - Termination of work on failure to pay agreed wages; completion of work by Government.md",
    "printed_pages": [
     118,
-    118
+    119
    ]
   },
   {
@@ -4293,8 +4330,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–2 - Payment of wages by Comptroller General from withheld payments; listing contractors violating contracts.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
@@ -4302,8 +4339,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–3 - Effect on other Federal laws.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
@@ -4311,8 +4348,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–4 - Effective date of sections 276a to 276a–5.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
@@ -4320,8 +4357,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–5 - Suspension of sections 276a to 276a–5 during emergency.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
@@ -4329,8 +4366,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–6 - Omitted.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
@@ -4338,37 +4375,33 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276a–7 - Application of sections 276a to 276a–5 to contracts entered into without regard to section 5 of title 41.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
    "id": "40_276b",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       109,
-       "[Page 119]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276b - Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862.md",
    "printed_pages": [
-    118,
+    119,
     119
    ]
   },
   {
    "id": "40_276c",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 120]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276c - Regulations governing contractors and subcontractors.md",
    "printed_pages": [
     119,
-    119
+    120
    ]
   },
   {
@@ -4376,24 +4409,28 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276d - Purpose.md",
    "printed_pages": [
-    119,
-    119
+    120,
+    120
    ]
   },
   {
    "id": "40_276d-1",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 120]",
-     true
+     "I",
+     20,
+     [
+      [
+       375,
+       "[Page 121]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276d–1 - Waiver for individuals who perform volunteer services for public entities.md",
    "printed_pages": [
-    119,
-    120
+    120,
+    121
    ]
   },
   {
@@ -4401,24 +4438,28 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276d–2 - Waiver for individuals who perform volunteer services for nonprofit entities.md",
    "printed_pages": [
-    120,
-    120
+    121,
+    121
    ]
   },
   {
    "id": "40_276d-3",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 121]",
-     true
+     "I",
+     24,
+     [
+      [
+       114,
+       "[Page 122]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00276d–3 - Contracts affected.md",
    "printed_pages": [
-    120,
-    121
+    121,
+    122
    ]
   },
   {
@@ -4426,8 +4467,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00277 - Repealed. Pub. L. 86–249, §17(16), Sept. 9, 1959, 73 Stat. 485.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
@@ -4435,8 +4476,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00277a - Omitted.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
@@ -4444,8 +4485,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00278 - Repealed. Pub. L. 86–249, §17(17), Sept. 9, 1959, 73 Stat. 485.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
@@ -4453,8 +4494,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00278a - Repealed. Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
@@ -4462,8 +4503,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00278b - Omitted.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
@@ -4471,8 +4512,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00278c - Omitted.md",
    "printed_pages": [
-    121,
-    121
+    122,
+    122
    ]
   },
   {
@@ -4480,19 +4521,19 @@
    "marks": [
     [
      "I",
-     2,
+     14,
      [
       [
-       465,
-       "[Page 122]"
+       100,
+       "[Page 123]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00279 - Appropriations for buildings available for use in temporary rented quarters.md",
    "printed_pages": [
-    121,
-    122
+    122,
+    123
    ]
   },
   {
@@ -4500,23 +4541,16 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00280 - Operating supplies, operating force, and repairs.md",
    "printed_pages": [
-    122,
-    122
+    123,
+    123
    ]
   },
   {
    "id": "40_281",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 123]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00281 - Furniture and repairs.md",
    "printed_pages": [
-    122,
+    123,
     123
    ]
   },
@@ -4531,11 +4565,22 @@
   },
   {
    "id": "40_283",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       157,
+       "[Page 124]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00283 - Furniture for new buildings.md",
    "printed_pages": [
     123,
-    123
+    124
    ]
   },
   {
@@ -4543,33 +4588,37 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00284 - Omitted.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
    "id": "40_285",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 124]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00285 - Buildings under control of Administrator of General Services.md",
    "printed_pages": [
-    123,
+    124,
     124
    ]
   },
   {
    "id": "40_285a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       99,
+       "[Page 125]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00285a - Washington City post office under control of United States Postal Service.md",
    "printed_pages": [
     124,
-    124
+    125
    ]
   },
   {
@@ -4577,8 +4626,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00286 - Buildings not to be draped in mourning.md",
    "printed_pages": [
-    124,
-    124
+    125,
+    125
    ]
   },
   {
@@ -4586,8 +4635,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00287 - Repealed. Oct. 31, 1951, ch. 654, §1(93), 65 Stat. 705.md",
    "printed_pages": [
-    124,
-    124
+    125,
+    125
    ]
   },
   {
@@ -4595,24 +4644,28 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00288 - Customhouse wharf at Charleston, South Carolina.md",
    "printed_pages": [
-    124,
-    124
+    125,
+    125
    ]
   },
   {
    "id": "40_289",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 125]",
-     true
+     "I",
+     24,
+     [
+      [
+       204,
+       "[Page 126]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00289 - Buildings for departments; control of space; compensation.md",
    "printed_pages": [
-    124,
-    125
+    125,
+    126
    ]
   },
   {
@@ -4620,8 +4673,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00289a - Transferred.md",
    "printed_pages": [
-    125,
-    125
+    126,
+    126
    ]
   },
   {
@@ -4629,8 +4682,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00290 - State workmen's compensation laws; extension to buildings and works of United States.md",
    "printed_pages": [
-    125,
-    125
+    126,
+    126
    ]
   },
   {
@@ -4638,37 +4691,37 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00291 - Admission of guide dogs accompanied by blind masters.md",
    "printed_pages": [
-    125,
-    125
+    126,
+    126
    ]
   },
   {
    "id": "40_292",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       524,
-       "[Page 126]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00292 - Omitted.md",
    "printed_pages": [
-    125,
+    126,
     126
    ]
   },
   {
    "id": "40_293",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       562,
+       "[Page 127]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00293 - Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration; reimbursement.md",
    "printed_pages": [
     126,
-    126
+    127
    ]
   },
   {
@@ -4676,8 +4729,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00294 - Repealed. Oct. 31, 1951, ch. 654, §1(94), 65 Stat. 705.md",
    "printed_pages": [
-    126,
-    126
+    127,
+    127
    ]
   },
   {
@@ -4685,33 +4738,37 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00295 - Operation of public utility communications services serving governmental activities.md",
    "printed_pages": [
-    126,
-    126
+    127,
+    127
    ]
   },
   {
    "id": "40_296",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 127]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00296 - Transfer of administrative expenses into special account.md",
    "printed_pages": [
-    126,
+    127,
     127
    ]
   },
   {
    "id": "40_297_to_298",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       109,
+       "[Page 128]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00297 to 298 - Repealed. Pub. L. 86–249, §17(18), Sept. 9, 1959, 73 Stat. 486.md",
    "printed_pages": [
     127,
-    127
+    128
    ]
   },
   {
@@ -4719,8 +4776,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00298a - Acceptance of gifts of real, personal, or other property.md",
    "printed_pages": [
-    127,
-    127
+    128,
+    128
    ]
   },
   {
@@ -4728,8 +4785,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00298b - Administrator of General Services to furnish services in continental United States to international bodies.md",
    "printed_pages": [
-    127,
-    127
+    128,
+    128
    ]
   },
   {
@@ -4737,8 +4794,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00298c - Repealed. Pub. L. 86–249, §17(18), Sept. 9, 1959, 73 Stat. 486.md",
    "printed_pages": [
-    127,
-    127
+    128,
+    128
    ]
   },
   {
@@ -4746,8 +4803,8 @@
    "marks": [],
    "path": "Chapter 003 - Public Buildings and Works Generally/§ 00298d - Naming and renaming of buildings.md",
    "printed_pages": [
-    127,
-    127
+    128,
+    128
    ]
   },
   {
@@ -4755,19 +4812,19 @@
    "marks": [
     [
      "I",
-     7,
+     17,
      [
       [
-       87,
-       "[Page 128]"
+       73,
+       "[Page 129]"
       ]
      ]
     ]
    ],
    "path": "Chapter 004 - The Public Property/README.md",
    "printed_pages": [
-    127,
-    128
+    128,
+    129
    ]
   },
   {
@@ -4775,8 +4832,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00301 - Charge of property transferred to the United States.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
@@ -4784,8 +4841,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00302 - Repealed. Oct. 31, 1951, ch. 654, §1(95), 65 Stat. 705.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
@@ -4793,33 +4850,33 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00303 - Repealed. Aug. 5, 1947, ch. 493, §2, 61 Stat. 774.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
    "id": "40_303a",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 129]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00303a - Repealed. Oct. 31, 1951, ch. 654, §1(96), 65 Stat. 705.md",
    "printed_pages": [
-    128,
+    129,
     129
    ]
   },
   {
    "id": "40_303b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 130]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The Public Property/§ 00303b - Lease of buildings by Government; money consideration.md",
    "printed_pages": [
     129,
-    129
+    130
    ]
   },
   {
@@ -4827,8 +4884,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00303c - Maintenance and repair of Government improvements under concession contracts.md",
    "printed_pages": [
-    129,
-    129
+    130,
+    130
    ]
   },
   {
@@ -4836,33 +4893,37 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304 - Disposal of lands acquired by devise.md",
    "printed_pages": [
-    129,
-    129
+    130,
+    130
    ]
   },
   {
    "id": "40_304a",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 130]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304a - Disposition of surplus real property; assignment to governmental agency; lease; sale.md",
    "printed_pages": [
-    129,
+    130,
     130
    ]
   },
   {
    "id": "40_304a-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       377,
+       "[Page 131]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The Public Property/§ 00304a–1 - Expenses of sale; maintenance.md",
    "printed_pages": [
     130,
-    130
+    131
    ]
   },
   {
@@ -4870,8 +4931,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304a–2 - Demolition; historic buildings.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
@@ -4879,15 +4940,15 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 131]",
+     16,
+     "[Page 132]",
      true
     ]
    ],
    "path": "Chapter 004 - The Public Property/§ 00304b - Alterations and repairs to real property assigned; payment by agency.md",
    "printed_pages": [
-    130,
-    131
+    131,
+    132
    ]
   },
   {
@@ -4895,8 +4956,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304c - Payment by agencies of rent, repairs, alterations, maintenance, operation, and moving costs.md",
    "printed_pages": [
-    131,
-    131
+    132,
+    132
    ]
   },
   {
@@ -4904,37 +4965,33 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304d - Regulations under sections 304a to 304e.md",
    "printed_pages": [
-    131,
-    131
+    132,
+    132
    ]
   },
   {
    "id": "40_304e",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       133,
-       "[Page 132]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304e - “Federal agency”, as used in sections 304a to 304e, defined.md",
    "printed_pages": [
-    131,
+    132,
     132
    ]
   },
   {
    "id": "40_304f",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 133]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The Public Property/§ 00304f - Disposition of property abandoned or forfeited to United States; definitions of words used in sections 304f to 304m.md",
    "printed_pages": [
     132,
-    132
+    133
    ]
   },
   {
@@ -4942,8 +4999,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304g - Disposition of property voluntarily abandoned to United States.md",
    "printed_pages": [
-    132,
-    132
+    133,
+    133
    ]
   },
   {
@@ -4951,8 +5008,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304h - Disposition of property forfeited to United States.md",
    "printed_pages": [
-    132,
-    132
+    133,
+    133
    ]
   },
   {
@@ -4960,19 +5017,19 @@
    "marks": [
     [
      "I",
-     8,
+     10,
      [
       [
-       188,
-       "[Page 133]"
+       235,
+       "[Page 134]"
       ]
      ]
     ]
    ],
    "path": "Chapter 004 - The Public Property/§ 00304i - Disposition of property subject to pending court proceedings for forfeiture.md",
    "printed_pages": [
-    132,
-    133
+    133,
+    134
    ]
   },
   {
@@ -4980,8 +5037,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304j - Appropriation available for maintenance, etc., of abandoned and forfeited property, payment of liens and other charges.md",
    "printed_pages": [
-    133,
-    133
+    134,
+    134
    ]
   },
   {
@@ -4989,8 +5046,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304k - Retention or delivery of abandoned or forfeited property deemed sale with respect to informer's fees and mitigation of forfeiture.md",
    "printed_pages": [
-    133,
-    133
+    134,
+    134
    ]
   },
   {
@@ -4998,24 +5055,28 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00304l - Reports by agencies concerning abandoned or forfeited property; rules and regulations.md",
    "printed_pages": [
-    133,
-    133
+    134,
+    134
    ]
   },
   {
    "id": "40_304m",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 134]",
-     true
+     "I",
+     24,
+     [
+      [
+       114,
+       "[Page 135]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The Public Property/§ 00304m - Effect on other laws; abandoned or forfeited property excluded from allocation.md",
    "printed_pages": [
-    133,
-    134
+    134,
+    135
    ]
   },
   {
@@ -5023,8 +5084,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00305 - Power to obtain releases.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
@@ -5032,8 +5093,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00306 - Release of lands in certain cases.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
@@ -5041,8 +5102,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00307 - Omitted.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
@@ -5050,19 +5111,19 @@
    "marks": [
     [
      "I",
-     2,
+     12,
      [
       [
-       1087,
-       "[Page 135]"
+       105,
+       "[Page 136]"
       ]
      ]
     ]
    ],
    "path": "Chapter 004 - The Public Property/§ 00308 - Releasing property from attachment.md",
    "printed_pages": [
-    134,
-    135
+    135,
+    136
    ]
   },
   {
@@ -5070,8 +5131,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00309 - Payment.md",
    "printed_pages": [
-    135,
-    135
+    136,
+    136
    ]
   },
   {
@@ -5079,28 +5140,24 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00310 - Abandoned property.md",
    "printed_pages": [
-    135,
-    135
+    136,
+    136
    ]
   },
   {
    "id": "40_311,_311a",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       112,
-       "[Page 136]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 137]",
+     true
     ]
    ],
    "path": "Chapter 004 - The Public Property/§ 00311, 311a - Repealed. June 30, 1949, ch. 288, title VI, §602(a)(5), (6), formerly title V, §502(a)(5), (6), 63 Stat. 400; renumbered Sept. 5….md",
    "printed_pages": [
-    135,
-    136
+    136,
+    137
    ]
   },
   {
@@ -5108,8 +5165,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00311b - Disposition of unfit horses and mules.md",
    "printed_pages": [
-    136,
-    136
+    137,
+    137
    ]
   },
   {
@@ -5117,8 +5174,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00312 - Repealed. Oct. 31, 1951, ch. 654, §1(97), 65 Stat. 705.md",
    "printed_pages": [
-    136,
-    136
+    137,
+    137
    ]
   },
   {
@@ -5126,33 +5183,33 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00313, 313–1 - Omitted.md",
    "printed_pages": [
-    136,
-    136
+    137,
+    137
    ]
   },
   {
    "id": "40_313-2",
-   "marks": [
-    [
-     "L",
-     48,
-     "[Page 137]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00313–2 - Omitted.md",
    "printed_pages": [
-    136,
+    137,
     137
    ]
   },
   {
    "id": "40_313a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 138]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The Public Property/§ 00313a - Omitted.md",
    "printed_pages": [
     137,
-    137
+    138
    ]
   },
   {
@@ -5160,8 +5217,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00314 - Sale of war supplies, lands, and buildings.md",
    "printed_pages": [
-    137,
-    137
+    138,
+    138
    ]
   },
   {
@@ -5169,37 +5226,33 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00314a, 315 - Omitted.md",
    "printed_pages": [
-    137,
-    137
+    138,
+    138
    ]
   },
   {
    "id": "40_316",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       109,
-       "[Page 138]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00316 - Disposition of securities.md",
    "printed_pages": [
-    137,
+    138,
     138
    ]
   },
   {
    "id": "40_317",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 139]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The Public Property/§ 00317 - Repealed. Pub. L. 88–118, Sept. 6, 1963, 77 Stat. 152.md",
    "printed_pages": [
     138,
-    138
+    139
    ]
   },
   {
@@ -5207,8 +5260,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00318 - Special police.md",
    "printed_pages": [
-    138,
-    138
+    139,
+    139
    ]
   },
   {
@@ -5216,8 +5269,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00318a - Rules and regulations; posting.md",
    "printed_pages": [
-    138,
-    138
+    139,
+    139
    ]
   },
   {
@@ -5225,33 +5278,37 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00318b - Application for protection; detail of special police; utilization of Federal law-enforcement agencies.md",
    "printed_pages": [
-    138,
-    138
+    139,
+    139
    ]
   },
   {
    "id": "40_318c",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 139]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00318c - Penalties.md",
    "printed_pages": [
-    138,
+    139,
     139
    ]
   },
   {
    "id": "40_318d",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       318,
+       "[Page 140]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The Public Property/§ 00318d - Nonuniformed special policemen; powers; arrests without warrant.md",
    "printed_pages": [
     139,
-    139
+    140
    ]
   },
   {
@@ -5259,8 +5316,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00319 - Grant of easements; authority of executive agencies; application; protection of Federal interests; consideration; legislative jurisdiction….md",
    "printed_pages": [
-    139,
-    139
+    140,
+    140
    ]
   },
   {
@@ -5268,28 +5325,24 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00319a - Termination of easements; notice to grantees, successors or assignees; effective date.md",
    "printed_pages": [
-    139,
-    139
+    140,
+    140
    ]
   },
   {
    "id": "40_319b",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       108,
-       "[Page 140]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 141]",
+     true
     ]
    ],
    "path": "Chapter 004 - The Public Property/§ 00319b - Additional easement authority.md",
    "printed_pages": [
-    139,
-    140
+    140,
+    141
    ]
   },
   {
@@ -5297,8 +5350,8 @@
    "marks": [],
    "path": "Chapter 004 - The Public Property/§ 00319c - Definitions for easement provisions.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
@@ -5306,8 +5359,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/README.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
@@ -5315,28 +5368,24 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
    "id": "40_321,_322",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       119,
-       "[Page 141]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 142]",
+     true
     ]
    ],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 001 (I) - General Provisions/§ 00321, 322 - Repealed. Pub. L. 87–581, title II, §203, Aug. 13, 1962, 76 Stat. 360.md",
    "printed_pages": [
-    140,
-    141
+    141,
+    142
    ]
   },
   {
@@ -5344,8 +5393,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 001 (I) - General Provisions/§ 00323 - Omitted.md",
    "printed_pages": [
-    141,
-    141
+    142,
+    142
    ]
   },
   {
@@ -5353,8 +5402,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 001 (I) - General Provisions/§ 00324 to 326 - Repealed. Pub. L. 87–581, title II, §203, Aug. 13, 1962, 76 Stat. 360.md",
    "printed_pages": [
-    141,
-    141
+    142,
+    142
    ]
   },
   {
@@ -5362,8 +5411,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/README.md",
    "printed_pages": [
-    141,
-    141
+    142,
+    142
    ]
   },
   {
@@ -5371,24 +5420,28 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00327 - “Secretary” defined.md",
    "printed_pages": [
-    141,
-    141
+    142,
+    142
    ]
   },
   {
    "id": "40_328",
    "marks": [
     [
-     "L",
+     "I",
      8,
-     "[Page 142]",
-     true
+     [
+      [
+       241,
+       "[Page 143]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00328 - Forty hour week; overtime compensation; contractual conditions; liability of employers for violation; withholding funds to satisfy….md",
    "printed_pages": [
-    141,
-    142
+    142,
+    143
    ]
   },
   {
@@ -5397,14 +5450,14 @@
     [
      "L",
      32,
-     "[Page 143]",
+     "[Page 144]",
      true
     ]
    ],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00329 - Contracts subject to this subchapter; workers covered; exceptions.md",
    "printed_pages": [
-    142,
-    143
+    143,
+    144
    ]
   },
   {
@@ -5413,14 +5466,14 @@
     [
      "L",
      34,
-     "[Page 144]",
+     "[Page 145]",
      true
     ]
    ],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00330 - Report of violations and withholding of funds for unpaid wages and liquidated damages.md",
    "printed_pages": [
-    143,
-    144
+    144,
+    145
    ]
   },
   {
@@ -5428,8 +5481,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00331 - Limitations, variations, tolerances, and exemptions.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
@@ -5437,8 +5490,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00332 - Violations; penalties.md",
    "printed_pages": [
-    144,
-    144
+    145,
+    145
    ]
   },
   {
@@ -5450,7 +5503,7 @@
      [
       [
        186,
-       "[Page 145]"
+       "[Page 146]"
       ]
      ]
     ],
@@ -5460,15 +5513,15 @@
      [
       [
        325,
-       "[Page 146]"
+       "[Page 147]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00333 - Health and safety standards in building trades and construction industry.md",
    "printed_pages": [
-    144,
-    146
+    145,
+    147
    ]
   },
   {
@@ -5476,8 +5529,8 @@
    "marks": [],
    "path": "Chapter 005 - Hours of Labor and Safety on Public Works/Subchapter 002 (II) - Contract Work Hours and Safety Standards/§ 00334 - Contractor certification or contract clause in acquisition of commercial items.md",
    "printed_pages": [
-    146,
-    146
+    147,
+    147
    ]
   },
   {
@@ -5485,8 +5538,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/README.md",
    "printed_pages": [
-    146,
-    146
+    147,
+    147
    ]
   },
   {
@@ -5494,8 +5547,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00341 to 342a - Repealed. Pub. L. 86–249, §17(19), (20), Sept. 9, 1959, 73 Stat. 486.md",
    "printed_pages": [
-    146,
-    146
+    147,
+    147
    ]
   },
   {
@@ -5503,8 +5556,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00343 - Omitted.md",
    "printed_pages": [
-    146,
-    146
+    147,
+    147
    ]
   },
   {
@@ -5512,8 +5565,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00344, 345 - Repealed. Pub. L. 86–249, §17(19), Sept. 9, 1959, 73 Stat. 486.md",
    "printed_pages": [
-    146,
-    146
+    147,
+    147
    ]
   },
   {
@@ -5521,8 +5574,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00345a - Omitted.md",
    "printed_pages": [
-    146,
-    146
+    147,
+    147
    ]
   },
   {
@@ -5534,15 +5587,15 @@
      [
       [
        388,
-       "[Page 147]"
+       "[Page 148]"
       ]
      ]
     ]
    ],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00345b - Disposition of obsolete buildings and sites; purchase price.md",
    "printed_pages": [
-    146,
-    147
+    147,
+    148
    ]
   },
   {
@@ -5550,8 +5603,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00345c - Conveyance or transfer of Federal property to States or political subdivisions.md",
    "printed_pages": [
-    147,
-    147
+    148,
+    148
    ]
   },
   {
@@ -5559,8 +5612,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00346 to 350a - Repealed. Pub. L. 86–249, §17(19), (21)–(23), Sept. 9, 1959, 73 Stat. 486.md",
    "printed_pages": [
-    147,
-    147
+    148,
+    148
    ]
   },
   {
@@ -5568,8 +5621,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00351 - Transferred.md",
    "printed_pages": [
-    147,
-    147
+    148,
+    148
    ]
   },
   {
@@ -5581,15 +5634,15 @@
      [
       [
        114,
-       "[Page 148]"
+       "[Page 149]"
       ]
      ]
     ]
    ],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00352 to 354 - Repealed. Pub. L. 86–249, §17(18), Sept. 9, 1959, 73 Stat. 486.md",
    "printed_pages": [
-    147,
-    148
+    148,
+    149
    ]
   },
   {
@@ -5597,8 +5650,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00355 - Repealed. Pub. L. 87–466, May 31, 1962, 76 Stat. 87.md",
    "printed_pages": [
-    148,
-    148
+    149,
+    149
    ]
   },
   {
@@ -5607,7 +5660,7 @@
     [
      "L",
      30,
-     "[Page 149]",
+     "[Page 150]",
      true
     ],
     [
@@ -5616,15 +5669,15 @@
      [
       [
        209,
-       "[Page 150]"
+       "[Page 151]"
       ]
      ]
     ]
    ],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00356 - Lease purchase contracts.md",
    "printed_pages": [
-    148,
-    150
+    149,
+    151
    ]
   },
   {
@@ -5632,8 +5685,8 @@
    "marks": [],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00356a - Exercise of lease purchase contract authority.md",
    "printed_pages": [
-    150,
-    150
+    151,
+    151
    ]
   },
   {
@@ -5642,14 +5695,14 @@
     [
      "L",
      6,
-     "[Page 151]",
+     "[Page 152]",
      true
     ]
    ],
    "path": "Chapter 006 - Acquisition of Sites for and Construction of Public Buildings/§ 00357 - Effect on Federal construction programs.md",
    "printed_pages": [
-    150,
-    151
+    151,
+    152
    ]
   },
   {
@@ -5657,8 +5710,8 @@
    "marks": [],
    "path": "Chapter 007 - Acquisition of Land in District of Columbia for Use of United States by Condemnation Proceedings/README.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
@@ -5666,8 +5719,8 @@
    "marks": [],
    "path": "Chapter 007 - Acquisition of Land in District of Columbia for Use of United States by Condemnation Proceedings/§ 00361 to 386 - Repealed. Pub. L. 88–241, §21(b), Dec. 23, 1963, 77 Stat. 627.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
@@ -5675,8 +5728,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/README.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
@@ -5684,8 +5737,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 001 (I) - Federal Emergency Administration/README.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
@@ -5693,8 +5746,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 001 (I) - Federal Emergency Administration/§ 00401 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.md",
    "printed_pages": [
-    151,
-    151
+    152,
+    152
    ]
   },
   {
@@ -5703,14 +5756,14 @@
     [
      "L",
      16,
-     "[Page 152]",
+     "[Page 153]",
      true
     ]
    ],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 001 (I) - Federal Emergency Administration/§ 00402 to 411a - Omitted.md",
    "printed_pages": [
-    151,
-    152
+    152,
+    153
    ]
   },
   {
@@ -5718,8 +5771,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 001 (I) - Federal Emergency Administration/§ 00412 - Repealed. June 30, 1947, ch. 166, title II, §206(g), 61 Stat. 208.md",
    "printed_pages": [
-    152,
-    152
+    153,
+    153
    ]
   },
   {
@@ -5727,8 +5780,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 001 (I) - Federal Emergency Administration/§ 00413, 414 - Omitted.md",
    "printed_pages": [
-    152,
-    152
+    153,
+    153
    ]
   },
   {
@@ -5736,8 +5789,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 002 (II) - Slum Clearance and Low Cost Housing Projects/README.md",
    "printed_pages": [
-    152,
-    152
+    153,
+    153
    ]
   },
   {
@@ -5745,8 +5798,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 002 (II) - Slum Clearance and Low Cost Housing Projects/§ 00421 - Jurisdiction of State or political subdivision; civil rights under local law preserved.md",
    "printed_pages": [
-    152,
-    152
+    153,
+    153
    ]
   },
   {
@@ -5755,14 +5808,14 @@
     [
      "L",
      16,
-     "[Page 153]",
+     "[Page 154]",
      true
     ]
    ],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 002 (II) - Slum Clearance and Low Cost Housing Projects/§ 00422 - Payments to State or political subdivision in lieu of taxes; amount.md",
    "printed_pages": [
-    152,
-    153
+    153,
+    154
    ]
   },
   {
@@ -5770,8 +5823,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 002 (II) - Slum Clearance and Low Cost Housing Projects/§ 00423 - Payments in lieu of taxes from receipts from projects.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
@@ -5779,8 +5832,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 002 (II) - Slum Clearance and Low Cost Housing Projects/§ 00424 - Rentals; families acceptable as tenants.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
@@ -5788,8 +5841,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 002 (II) - Slum Clearance and Low Cost Housing Projects/§ 00425 - Dedications and grants in connection with projects.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
@@ -5797,8 +5850,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 003 (III) - Resettlement or Rural Rehabilitation Projects/README.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
@@ -5807,14 +5860,14 @@
     [
      "L",
      8,
-     "[Page 154]",
+     "[Page 155]",
      true
     ]
    ],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 003 (III) - Resettlement or Rural Rehabilitation Projects/§ 00431 to 434 - Repealed. Aug. 14, 1946, ch. 964, §2(a)(1), 60 Stat. 1062.md",
    "printed_pages": [
-    153,
-    154
+    154,
+    155
    ]
   },
   {
@@ -5822,8 +5875,8 @@
    "marks": [],
    "path": "Chapter 008 - Emergency Public Works and Construction Projects/Subchapter 003 (III) - Resettlement or Rural Rehabilitation Projects/§ 00435 to 444 - Omitted.md",
    "printed_pages": [
-    154,
-    154
+    155,
+    155
    ]
   },
   {
@@ -5831,8 +5884,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/README.md",
    "printed_pages": [
-    154,
-    154
+    155,
+    155
    ]
   },
   {
@@ -5840,8 +5893,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    154,
-    154
+    155,
+    155
    ]
   },
   {
@@ -5849,8 +5902,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 001 (I) - General Provisions/§ 00451 to 455 - Omitted.md",
    "printed_pages": [
-    154,
-    154
+    155,
+    155
    ]
   },
   {
@@ -5858,8 +5911,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 001 (I) - General Provisions/§ 00456 - Repealed. Aug. 2, 1954, ch. 649, title VIII, §802(b), 68 Stat. 642.md",
    "printed_pages": [
-    154,
-    154
+    155,
+    155
    ]
   },
   {
@@ -5871,15 +5924,15 @@
      [
       [
        221,
-       "[Page 155]"
+       "[Page 156]"
       ]
      ]
     ]
    ],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 001 (I) - General Provisions/§ 00457 to 459 - Omitted.md",
    "printed_pages": [
-    154,
-    155
+    155,
+    156
    ]
   },
   {
@@ -5887,8 +5940,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 002 (II) - Urban and Rural Planning/README.md",
    "printed_pages": [
-    155,
-    155
+    156,
+    156
    ]
   },
   {
@@ -5896,8 +5949,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 002 (II) - Urban and Rural Planning/§ 00460 - Urban planning and reserve of planned public works; definitions.md",
    "printed_pages": [
-    155,
-    155
+    156,
+    156
    ]
   },
   {
@@ -5905,8 +5958,8 @@
    "marks": [],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 002 (II) - Urban and Rural Planning/§ 00461 - Repealed. Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.md",
    "printed_pages": [
-    155,
-    155
+    156,
+    156
    ]
   },
   {
@@ -5918,7 +5971,7 @@
      [
       [
        231,
-       "[Page 156]"
+       "[Page 157]"
       ]
      ]
     ],
@@ -5928,15 +5981,15 @@
      [
       [
        437,
-       "[Page 157]"
+       "[Page 158]"
       ]
      ]
     ]
    ],
    "path": "Chapter 009 - Non-Federal Public Works/Subchapter 002 (II) - Urban and Rural Planning/§ 00462 - Reserve of planned public works.md",
    "printed_pages": [
-    155,
-    157
+    156,
+    158
    ]
   },
   {
@@ -5948,7 +6001,7 @@
      [
       [
        123,
-       "[Page 158]"
+       "[Page 159]"
       ]
      ]
     ],
@@ -5957,16 +6010,16 @@
      128,
      [
       [
-       55,
-       "[Page 159]"
+       43,
+       "[Page 160]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/README.md",
    "printed_pages": [
-    157,
-    159
+    158,
+    160
    ]
   },
   {
@@ -5974,8 +6027,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    159,
-    159
+    160,
+    160
    ]
   },
   {
@@ -5983,31 +6036,35 @@
    "marks": [
     [
      "L",
-     50,
-     "[Page 160]",
+     46,
+     "[Page 161]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/§ 00471 - Congressional declaration of policy.md",
    "printed_pages": [
-    159,
-    160
+    160,
+    161
    ]
   },
   {
    "id": "40_472",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 161]",
-     true
+     "I",
+     26,
+     [
+      [
+       417,
+       "[Page 162]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/§ 00472 - Definitions.md",
    "printed_pages": [
-    160,
-    161
+    161,
+    162
    ]
   },
   {
@@ -6015,51 +6072,51 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 162]",
+     22,
+     "[Page 163]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/§ 00473 - Applicability of existing procedures.md",
    "printed_pages": [
-    161,
-    162
+    162,
+    163
    ]
   },
   {
    "id": "40_474",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 163]",
-     true
-    ],
-    [
      "I",
-     86,
+     38,
      [
       [
-       223,
+       586,
        "[Page 164]"
       ]
      ]
     ],
     [
+     "L",
+     84,
+     "[Page 165]",
+     true
+    ],
+    [
      "I",
-     156,
+     154,
      [
       [
-       209,
-       "[Page 165]"
+       365,
+       "[Page 166]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/§ 00474 - Congress, departments, agencies, corporations, and persons exempted from provisions.md",
    "printed_pages": [
-    162,
-    165
+    163,
+    166
    ]
   },
   {
@@ -6067,8 +6124,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/§ 00475 - Authorization of appropriations; fund transfer authority.md",
    "printed_pages": [
-    165,
-    165
+    166,
+    166
    ]
   },
   {
@@ -6076,8 +6133,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 001 (I) - General Provisions/§ 00476 - Sex discrimination prohibited.md",
    "printed_pages": [
-    165,
-    165
+    166,
+    166
    ]
   },
   {
@@ -6085,80 +6142,76 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/README.md",
    "printed_pages": [
-    165,
-    165
+    166,
+    166
    ]
   },
   {
    "id": "40_481",
    "marks": [
     [
-     "I",
+     "L",
      6,
-     [
-      [
-       291,
-       "[Page 166]"
-      ]
-     ]
+     "[Page 167]",
+     true
     ],
     [
      "I",
-     56,
+     52,
      [
       [
-       138,
-       "[Page 167]"
+       421,
+       "[Page 168]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00481 - Procurement, warehousing, and related activities.md",
    "printed_pages": [
-    165,
-    167
+    166,
+    168
    ]
   },
   {
    "id": "40_482",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 168]",
-     true
+     "I",
+     8,
+     [
+      [
+       163,
+       "[Page 169]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00482 - Clarification of status of Architect of Capitol under this chapter.md",
    "printed_pages": [
-    167,
-    168
+    168,
+    169
    ]
   },
   {
    "id": "40_483",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       95,
-       "[Page 169]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 170]",
+     true
     ],
     [
      "L",
-     96,
-     "[Page 170]",
+     92,
+     "[Page 171]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00483 - Property utilization.md",
    "printed_pages": [
-    168,
-    170
+    169,
+    171
    ]
   },
   {
@@ -6166,37 +6219,33 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00483a - Repealed. Pub. L. 100–370, §1(k)(3), July 19, 1988, 102 Stat. 849.md",
    "printed_pages": [
-    170,
-    170
+    171,
+    171
    ]
   },
   {
    "id": "40_483b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 172]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00483b - Utilization of excess furniture.md",
    "printed_pages": [
-    170,
-    170
+    171,
+    172
    ]
   },
   {
    "id": "40_483c",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 171]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00483c - Excess personal property held by grantee of Federal agency; certification of authorized use; title to grantee; re-transfer of property….md",
    "printed_pages": [
-    170,
-    171
+    172,
+    172
    ]
   },
   {
@@ -6204,120 +6253,108 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00483d - Dredge vessel disposal.md",
    "printed_pages": [
-    171,
-    171
+    172,
+    172
    ]
   },
   {
    "id": "40_484",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       278,
-       "[Page 172]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 173]",
+     true
     ],
     [
      "I",
-     72,
+     70,
      [
       [
-       334,
-       "[Page 173]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     104,
-     [
-      [
-       238,
+       178,
        "[Page 174]"
       ]
      ]
     ],
     [
      "I",
-     132,
+     102,
      [
       [
-       176,
+       563,
        "[Page 175]"
       ]
      ]
+    ],
+    [
+     "L",
+     130,
+     "[Page 176]",
+     true
     ],
     [
      "I",
      158,
      [
       [
-       898,
-       "[Page 176]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     198,
-     [
-      [
-       275,
+       476,
        "[Page 177]"
       ]
      ]
     ],
     [
+     "L",
+     196,
+     "[Page 178]",
+     true
+    ],
+    [
      "I",
-     226,
+     228,
      [
       [
-       94,
-       "[Page 178]"
+       91,
+       "[Page 179]"
       ]
      ]
     ],
     [
-     "L",
-     268,
-     "[Page 179]",
-     true
-    ],
-    [
-     "L",
-     322,
-     "[Page 180]",
-     true
+     "I",
+     270,
+     [
+      [
+       211,
+       "[Page 180]"
+      ]
+     ]
     ],
     [
      "I",
-     394,
+     316,
      [
       [
-       109,
+       625,
        "[Page 181]"
       ]
      ]
     ],
     [
-     "I",
-     444,
-     [
-      [
-       213,
-       "[Page 182]"
-      ]
-     ]
+     "L",
+     390,
+     "[Page 182]",
+     true
+    ],
+    [
+     "L",
+     440,
+     "[Page 183]",
+     true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00484 - Disposal of surplus property.md",
    "printed_pages": [
-    171,
-    182
+    172,
+    183
    ]
   },
   {
@@ -6325,8 +6362,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00484–1 - Transfer of miscellaneous books to District Public Library.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -6334,8 +6371,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00484a - Omitted.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -6343,24 +6380,28 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00484b - Repealed. Pub. L. 98–181, title I, §126(a)(1), Nov. 30, 1983, 97 Stat. 1175.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
    "id": "40_484c",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 183]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 184]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00484c - Transfer of personnel and other resources from Department of Health, Education, and Welfare to General Services Administration by….md",
    "printed_pages": [
-    182,
-    183
+    183,
+    184
    ]
   },
   {
@@ -6368,8 +6409,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00484d - Donation of forfeited vessels.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -6380,8 +6421,8 @@
      8,
      [
       [
-       1545,
-       "[Page 184]"
+       1213,
+       "[Page 185]"
       ]
      ]
     ],
@@ -6390,25 +6431,32 @@
      46,
      [
       [
-       553,
-       "[Page 185]"
+       229,
+       "[Page 186]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00485 - Proceeds from transfer, sale, etc., of property.md",
    "printed_pages": [
-    183,
-    185
+    184,
+    186
    ]
   },
   {
    "id": "40_485a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 187]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00485a - Payment of expenses of sales from proceeds.md",
    "printed_pages": [
-    185,
-    185
+    186,
+    187
    ]
   },
   {
@@ -6416,61 +6464,81 @@
    "marks": [
     [
      "I",
-     4,
+     58,
      [
       [
-       94,
-       "[Page 186]"
+       104,
+       "[Page 188]"
       ]
      ]
     ],
     [
      "I",
-     62,
+     122,
      [
       [
-       106,
-       "[Page 187]"
+       103,
+       "[Page 189]"
       ]
      ]
     ],
     [
-     "L",
-     100,
-     "[Page 188]",
-     true
-    ],
-    [
-     "L",
-     148,
-     "[Page 189]",
-     true
-    ],
-    [
      "I",
-     220,
+     166,
      [
       [
-       434,
+       324,
        "[Page 190]"
       ]
      ]
     ],
     [
      "I",
-     262,
+     230,
      [
       [
-       105,
+       114,
        "[Page 191]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     286,
+     "[Page 192]",
+     true
+    ],
+    [
+     "I",
+     326,
+     [
+      [
+       111,
+       "[Page 193]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     362,
+     "[Page 194]",
+     true
+    ],
+    [
+     "I",
+     464,
+     [
+      [
+       424,
+       "[Page 195]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00486 - Policies, regulations, and delegations.md",
    "printed_pages": [
-    185,
-    191
+    187,
+    195
    ]
   },
   {
@@ -6478,55 +6546,44 @@
    "marks": [
     [
      "I",
-     4,
+     42,
      [
       [
-       652,
-       "[Page 192]"
+       377,
+       "[Page 196]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00487 - Surveys of Government property and management practices.md",
    "printed_pages": [
-    191,
-    192
+    195,
+    196
    ]
   },
   {
    "id": "40_488",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 193]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00488 - Disposal of property.md",
    "printed_pages": [
-    192,
-    193
+    196,
+    196
    ]
   },
   {
    "id": "40_489",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       565,
-       "[Page 194]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 197]",
+     true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00489 - Civil remedies and penalties.md",
    "printed_pages": [
-    193,
-    194
+    196,
+    197
    ]
   },
   {
@@ -6534,73 +6591,87 @@
    "marks": [
     [
      "I",
-     30,
+     18,
      [
       [
-       234,
-       "[Page 195]"
+       355,
+       "[Page 198]"
       ]
      ]
     ],
     [
-     "L",
-     62,
-     "[Page 196]",
-     true
-    ],
-    [
      "I",
-     104,
+     50,
      [
       [
-       88,
-       "[Page 197]"
+       519,
+       "[Page 199]"
       ]
      ]
     ],
     [
-     "L",
-     136,
-     "[Page 198]",
-     true
-    ],
-    [
-     "L",
-     208,
-     "[Page 199]",
-     true
-    ],
-    [
      "I",
-     270,
+     84,
      [
       [
-       159,
+       469,
        "[Page 200]"
       ]
      ]
     ],
     [
      "I",
-     308,
+     124,
      [
       [
-       1010,
+       373,
        "[Page 201]"
       ]
      ]
     ],
     [
      "L",
-     398,
+     178,
      "[Page 202]",
+     true
+    ],
+    [
+     "L",
+     246,
+     "[Page 203]",
+     true
+    ],
+    [
+     "I",
+     302,
+     [
+      [
+       212,
+       "[Page 204]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     368,
+     [
+      [
+       106,
+       "[Page 205]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     446,
+     "[Page 206]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490 - Operation of buildings and related activities by Administrator.md",
    "printed_pages": [
-    194,
-    202
+    197,
+    206
    ]
   },
   {
@@ -6608,8 +6679,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490a - Transfer of moneys in section 490(f) fund into special account.md",
    "printed_pages": [
-    202,
-    202
+    206,
+    206
    ]
   },
   {
@@ -6617,8 +6688,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490a–1 - Use of resources of Federal Buildings Fund to repay GSA borrowings from Federal Financing Bank.md",
    "printed_pages": [
-    202,
-    202
+    206,
+    206
    ]
   },
   {
@@ -6626,19 +6697,19 @@
    "marks": [
     [
      "I",
-     20,
+     28,
      [
       [
-       91,
-       "[Page 203]"
+       145,
+       "[Page 207]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490b - Child care services for Federal employees in Federal buildings.md",
    "printed_pages": [
-    202,
-    203
+    206,
+    207
    ]
   },
   {
@@ -6646,28 +6717,24 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490c - Guards, elevator operators, messengers, and custodians; restriction on contract for services; exception.md",
    "printed_pages": [
-    203,
-    203
+    207,
+    207
    ]
   },
   {
    "id": "40_490d",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 204]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 208]",
+     true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490d - Funds for payment of rent available for lease of buildings on land owned by United States.md",
    "printed_pages": [
-    203,
-    204
+    207,
+    208
    ]
   },
   {
@@ -6675,8 +6742,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490e - Fiscal year limitation on obligations of funds for lease.md",
    "printed_pages": [
-    204,
-    204
+    208,
+    208
    ]
   },
   {
@@ -6684,8 +6751,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490f - Lease space rent rates and payments; appropriations.md",
    "printed_pages": [
-    204,
-    204
+    208,
+    208
    ]
   },
   {
@@ -6693,8 +6760,17 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490g - Receipt of revenues related to energy savings or materials recycling efforts.md",
    "printed_pages": [
-    204,
-    204
+    208,
+    208
+   ]
+  },
+  {
+   "id": "40_490h",
+   "marks": [],
+   "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00490h - Flexiplace work telecommuting centers; revenues to defray costs.md",
+   "printed_pages": [
+    208,
+    208
    ]
   },
   {
@@ -6705,8 +6781,8 @@
      4,
      [
       [
-       472,
-       "[Page 205]"
+       522,
+       "[Page 209]"
       ]
      ]
     ],
@@ -6715,22 +6791,22 @@
      30,
      [
       [
-       653,
-       "[Page 206]"
+       699,
+       "[Page 210]"
       ]
      ]
     ],
     [
      "L",
      82,
-     "[Page 207]",
+     "[Page 211]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00491 - Motor vehicle pools and transportation systems.md",
    "printed_pages": [
-    204,
-    207
+    208,
+    211
    ]
   },
   {
@@ -6738,8 +6814,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00492 - Reports to Congress.md",
    "printed_pages": [
-    207,
-    207
+    211,
+    211
    ]
   },
   {
@@ -6747,8 +6823,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 002 (II) - Property Management/§ 00493 - Repealed. Pub. L. 100–612, §8, Nov. 5, 1988, 102 Stat. 3182.md",
    "printed_pages": [
-    207,
-    207
+    211,
+    211
    ]
   },
   {
@@ -6756,8 +6832,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 003 (III) - Foreign Excess Property/README.md",
    "printed_pages": [
-    207,
-    207
+    211,
+    211
    ]
   },
   {
@@ -6765,8 +6841,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 003 (III) - Foreign Excess Property/§ 00511 - Disposal of foreign excess property; agency responsibility; foreign policy controlling; use of foreign currencies and credits; duties of….md",
    "printed_pages": [
-    207,
-    207
+    211,
+    211
    ]
   },
   {
@@ -6778,15 +6854,15 @@
      [
       [
        977,
-       "[Page 208]"
+       "[Page 212]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 003 (III) - Foreign Excess Property/§ 00512 - Methods and terms of disposal.md",
    "printed_pages": [
-    207,
-    208
+    211,
+    212
    ]
   },
   {
@@ -6794,8 +6870,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 003 (III) - Foreign Excess Property/§ 00513 - Proceeds from disposals; foreign currencies; United States currency; disposition.md",
    "printed_pages": [
-    208,
-    208
+    212,
+    212
    ]
   },
   {
@@ -6807,15 +6883,15 @@
      [
       [
        90,
-       "[Page 209]"
+       "[Page 213]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 003 (III) - Foreign Excess Property/§ 00514 - General provisions.md",
    "printed_pages": [
-    208,
-    209
+    212,
+    213
    ]
   },
   {
@@ -6823,8 +6899,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 004 (IV) - Reconstruction Finance Corporation Property/README.md",
    "printed_pages": [
-    209,
-    209
+    213,
+    213
    ]
   },
   {
@@ -6832,8 +6908,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 004 (IV) - Reconstruction Finance Corporation Property/§ 00521 to 524 - Repealed. Pub. L. 91–466, §2, Oct. 17, 1970, 84 Stat. 990.md",
    "printed_pages": [
-    209,
-    209
+    213,
+    213
    ]
   },
   {
@@ -6841,8 +6917,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 005 (V) - Urban Land Utilization/README.md",
    "printed_pages": [
-    209,
-    209
+    213,
+    213
    ]
   },
   {
@@ -6851,14 +6927,14 @@
     [
      "L",
      4,
-     "[Page 210]",
+     "[Page 214]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 005 (V) - Urban Land Utilization/§ 00531 - Declaration of purpose and policy.md",
    "printed_pages": [
-    209,
-    210
+    213,
+    214
    ]
   },
   {
@@ -6866,8 +6942,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 005 (V) - Urban Land Utilization/§ 00532 - Disposal of urban lands.md",
    "printed_pages": [
-    210,
-    210
+    214,
+    214
    ]
   },
   {
@@ -6875,8 +6951,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 005 (V) - Urban Land Utilization/§ 00533 - Acquisition or change of use of real property.md",
    "printed_pages": [
-    210,
-    210
+    214,
+    214
    ]
   },
   {
@@ -6884,8 +6960,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 005 (V) - Urban Land Utilization/§ 00534 - Waiver of procedures for disposal of urban lands, acquisition or change of use of real property.md",
    "printed_pages": [
-    210,
-    210
+    214,
+    214
    ]
   },
   {
@@ -6894,14 +6970,14 @@
     [
      "L",
      26,
-     "[Page 211]",
+     "[Page 215]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 005 (V) - Urban Land Utilization/§ 00535 - Definitions.md",
    "printed_pages": [
-    210,
-    211
+    214,
+    215
    ]
   },
   {
@@ -6909,8 +6985,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 006 (VI) - Selection of Architects and Engineers/README.md",
    "printed_pages": [
-    211,
-    211
+    215,
+    215
    ]
   },
   {
@@ -6918,8 +6994,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 006 (VI) - Selection of Architects and Engineers/§ 00541 - Definitions.md",
    "printed_pages": [
-    211,
-    211
+    215,
+    215
    ]
   },
   {
@@ -6927,8 +7003,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 006 (VI) - Selection of Architects and Engineers/§ 00542 - Congressional declaration of policy.md",
    "printed_pages": [
-    211,
-    211
+    215,
+    215
    ]
   },
   {
@@ -6936,8 +7012,8 @@
    "marks": [],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 006 (VI) - Selection of Architects and Engineers/§ 00543 - Requests for data on architectural and engineering services.md",
    "printed_pages": [
-    211,
-    211
+    215,
+    215
    ]
   },
   {
@@ -6946,14 +7022,14 @@
     [
      "L",
      10,
-     "[Page 212]",
+     "[Page 216]",
      true
     ]
    ],
    "path": "Chapter 010 - Management and Disposal of Government Property/Subchapter 006 (VI) - Selection of Architects and Engineers/§ 00544 - Negotiation of contracts for architectural and engineering services.md",
    "printed_pages": [
-    211,
-    212
+    215,
+    216
    ]
   },
   {
@@ -6961,8 +7037,8 @@
    "marks": [],
    "path": "Chapter 011 - Real Property Transactions by Military Departments/README.md",
    "printed_pages": [
-    212,
-    212
+    216,
+    216
    ]
   },
   {
@@ -6970,8 +7046,8 @@
    "marks": [],
    "path": "Chapter 011 - Real Property Transactions by Military Departments/§ 00551 to 554 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    212,
-    212
+    216,
+    216
    ]
   },
   {
@@ -6983,15 +7059,15 @@
      [
       [
        25,
-       "[Page 213]"
+       "[Page 217]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/README.md",
    "printed_pages": [
-    212,
-    213
+    216,
+    217
    ]
   },
   {
@@ -6999,8 +7075,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00601 - Prohibition on construction of buildings except by Administrator of General Services.md",
    "printed_pages": [
-    213,
-    213
+    217,
+    217
    ]
   },
   {
@@ -7012,15 +7088,15 @@
      [
       [
        340,
-       "[Page 214]"
+       "[Page 218]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00601a - Duties of Administrator; Federal agency accommodations; historical and architectural preservation of public buildings; consultation with….md",
    "printed_pages": [
-    213,
-    214
+    217,
+    218
    ]
   },
   {
@@ -7028,8 +7104,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00602 - Acquisition of buildings and their sites.md",
    "printed_pages": [
-    214,
-    214
+    218,
+    218
    ]
   },
   {
@@ -7041,15 +7117,15 @@
      [
       [
        502,
-       "[Page 215]"
+       "[Page 219]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00602a - Purchase contracts.md",
    "printed_pages": [
-    214,
-    215
+    218,
+    219
    ]
   },
   {
@@ -7060,16 +7136,16 @@
      20,
      [
       [
-       431,
-       "[Page 216]"
+       376,
+       "[Page 220]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00603 - Alteration of buildings; acquisition of land; exemption from committee approval.md",
    "printed_pages": [
-    215,
-    216
+    219,
+    220
    ]
   },
   {
@@ -7077,8 +7153,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00604 - Sites.md",
    "printed_pages": [
-    216,
-    216
+    220,
+    220
    ]
   },
   {
@@ -7086,8 +7162,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00605 - Construction of new buildings.md",
    "printed_pages": [
-    216,
-    216
+    220,
+    220
    ]
   },
   {
@@ -7099,7 +7175,7 @@
      [
       [
        708,
-       "[Page 217]"
+       "[Page 221]"
       ]
      ]
     ],
@@ -7109,15 +7185,15 @@
      [
       [
        164,
-       "[Page 218]"
+       "[Page 222]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00606 - Approval of proposed projects by Congress.md",
    "printed_pages": [
-    216,
-    218
+    220,
+    222
    ]
   },
   {
@@ -7129,15 +7205,15 @@
      [
       [
        528,
-       "[Page 219]"
+       "[Page 223]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00607 - Buildings and sites within District of Columbia.md",
    "printed_pages": [
-    218,
-    219
+    222,
+    223
    ]
   },
   {
@@ -7145,8 +7221,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00608 - Authorization for construction or alteration by contract.md",
    "printed_pages": [
-    219,
-    219
+    223,
+    223
    ]
   },
   {
@@ -7155,14 +7231,14 @@
     [
      "L",
      28,
-     "[Page 220]",
+     "[Page 224]",
      true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00609 - Architectural or engineering services.md",
    "printed_pages": [
-    219,
-    220
+    223,
+    224
    ]
   },
   {
@@ -7170,8 +7246,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00610 - Report to Congress; uncompleted projects; building project surveys.md",
    "printed_pages": [
-    220,
-    220
+    224,
+    224
    ]
   },
   {
@@ -7179,15 +7255,15 @@
    "marks": [
     [
      "L",
-     34,
-     "[Page 221]",
+     32,
+     "[Page 225]",
      true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00611 - Continuing investigation and survey of public buildings.md",
    "printed_pages": [
-    220,
-    221
+    224,
+    225
    ]
   },
   {
@@ -7195,28 +7271,24 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00612 - Definitions.md",
    "printed_pages": [
-    221,
-    221
+    225,
+    225
    ]
   },
   {
    "id": "40_612a",
    "marks": [
     [
-     "I",
+     "L",
      10,
-     [
-      [
-       95,
-       "[Page 222]"
-      ]
-     ]
+     "[Page 226]",
+     true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00612a - Additional definitions.md",
    "printed_pages": [
-    221,
-    222
+    225,
+    226
    ]
   },
   {
@@ -7224,8 +7296,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00613 - Exemption of certain public buildings projects.md",
    "printed_pages": [
-    222,
-    222
+    226,
+    226
    ]
   },
   {
@@ -7233,8 +7305,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00614 - Delegation of authority.md",
    "printed_pages": [
-    222,
-    222
+    226,
+    226
    ]
   },
   {
@@ -7243,14 +7315,14 @@
     [
      "L",
      18,
-     "[Page 223]",
+     "[Page 227]",
      true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00615 - Leasing of buildings by and for General Services Administration; authority of Postal Service.md",
    "printed_pages": [
-    222,
-    223
+    226,
+    227
    ]
   },
   {
@@ -7259,14 +7331,14 @@
     [
      "L",
      40,
-     "[Page 224]",
+     "[Page 228]",
      true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00616 - Dwight D. Eisenhower Memorial Bicentennial Civic Center.md",
    "printed_pages": [
-    223,
-    224
+    227,
+    228
    ]
   },
   {
@@ -7275,14 +7347,14 @@
     [
      "L",
      6,
-     "[Page 225]",
+     "[Page 229]",
      true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00617 - State administration of criminal and health and safety laws.md",
    "printed_pages": [
-    224,
-    225
+    228,
+    229
    ]
   },
   {
@@ -7290,8 +7362,8 @@
    "marks": [],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00618 - Special rules for leased buildings.md",
    "printed_pages": [
-    225,
-    225
+    229,
+    229
    ]
   },
   {
@@ -7300,14 +7372,14 @@
     [
      "L",
      44,
-     "[Page 226]",
+     "[Page 230]",
      true
     ]
    ],
    "path": "Chapter 012 - Construction, Alteration, and Acquisition of Public Buildings/§ 00619 - Compliance with nationally recognized codes.md",
    "printed_pages": [
-    225,
-    226
+    229,
+    230
    ]
   },
   {
@@ -7315,8 +7387,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/README.md",
    "printed_pages": [
-    226,
-    226
+    230,
+    230
    ]
   },
   {
@@ -7324,8 +7396,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00651, 652 - Repealed. Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322.md",
    "printed_pages": [
-    226,
-    226
+    230,
+    230
    ]
   },
   {
@@ -7333,8 +7405,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00661 - Repealed. Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322.md",
    "printed_pages": [
-    226,
-    226
+    230,
+    230
    ]
   },
   {
@@ -7342,8 +7414,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00662 - Repealed. Pub. L. 89–774, §5(b), Nov. 6, 1966, 80 Stat. 1353.md",
    "printed_pages": [
-    226,
-    226
+    230,
+    230
    ]
   },
   {
@@ -7351,8 +7423,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00663 to 665 - Repealed. Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322.md",
    "printed_pages": [
-    226,
-    226
+    230,
+    230
    ]
   },
   {
@@ -7360,8 +7432,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00671 - Repealed. Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322.md",
    "printed_pages": [
-    226,
-    226
+    230,
+    230
    ]
   },
   {
@@ -7373,15 +7445,15 @@
      [
       [
        165,
-       "[Page 227]"
+       "[Page 231]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00672 - Omitted.md",
    "printed_pages": [
-    226,
-    227
+    230,
+    231
    ]
   },
   {
@@ -7389,8 +7461,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00681 - Omitted.md",
    "printed_pages": [
-    227,
-    227
+    231,
+    231
    ]
   },
   {
@@ -7398,8 +7470,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00682, 683 - Repealed. Pub. L. 91–143, §8(a)(2), Dec. 9, 1969, 83 Stat. 323.md",
    "printed_pages": [
-    227,
-    227
+    231,
+    231
    ]
   },
   {
@@ -7407,8 +7479,8 @@
    "marks": [],
    "path": "Chapter 013 - National Capital Transportation Program/§ 00684, 685 - Omitted.md",
    "printed_pages": [
-    227,
-    227
+    231,
+    231
    ]
   },
   {
@@ -7416,8 +7488,8 @@
    "marks": [],
    "path": "Chapter 014 - Safety Standards for Motor Vehicles/README.md",
    "printed_pages": [
-    227,
-    227
+    231,
+    231
    ]
   },
   {
@@ -7425,8 +7497,8 @@
    "marks": [],
    "path": "Chapter 014 - Safety Standards for Motor Vehicles/§ 00701 - Prohibition on acquisition or purchase of motor vehicles by Federal Government unless equipped with passenger safety devices.md",
    "printed_pages": [
-    227,
-    227
+    231,
+    231
    ]
   },
   {
@@ -7435,14 +7507,14 @@
     [
      "L",
      6,
-     "[Page 228]",
+     "[Page 232]",
      true
     ]
    ],
    "path": "Chapter 014 - Safety Standards for Motor Vehicles/§ 00702 - Commercial standards for passenger safety devices; publication in Federal Register.md",
    "printed_pages": [
-    227,
-    228
+    231,
+    232
    ]
   },
   {
@@ -7450,8 +7522,8 @@
    "marks": [],
    "path": "Chapter 014 - Safety Standards for Motor Vehicles/§ 00703 - Definitions.md",
    "printed_pages": [
-    228,
-    228
+    232,
+    232
    ]
   },
   {
@@ -7459,8 +7531,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/README.md",
    "printed_pages": [
-    228,
-    228
+    232,
+    232
    ]
   },
   {
@@ -7468,8 +7540,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00721 - Rules and regulations for shipment of valuables.md",
    "printed_pages": [
-    228,
-    228
+    232,
+    232
    ]
   },
   {
@@ -7481,15 +7553,15 @@
      [
       [
        1229,
-       "[Page 229]"
+       "[Page 233]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00722 - Fund for losses; appropriations.md",
    "printed_pages": [
-    228,
-    229
+    232,
+    233
    ]
   },
   {
@@ -7497,8 +7569,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00722a - Payment of Government losses in shipment.md",
    "printed_pages": [
-    229,
-    229
+    233,
+    233
    ]
   },
   {
@@ -7510,15 +7582,15 @@
      [
       [
        110,
-       "[Page 230]"
+       "[Page 234]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00723 - Claim for replacement.md",
    "printed_pages": [
-    229,
-    230
+    233,
+    234
    ]
   },
   {
@@ -7526,8 +7598,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00724 - Government evidences of indebtedness held by United States Postal Service while agent for Treasury Department.md",
    "printed_pages": [
-    230,
-    230
+    234,
+    234
    ]
   },
   {
@@ -7535,8 +7607,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00725 - Agreements of indemnity.md",
    "printed_pages": [
-    230,
-    230
+    234,
+    234
    ]
   },
   {
@@ -7544,8 +7616,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00726 - Purchase of insurance.md",
    "printed_pages": [
-    230,
-    230
+    234,
+    234
    ]
   },
   {
@@ -7554,14 +7626,14 @@
     [
      "L",
      10,
-     "[Page 231]",
+     "[Page 235]",
      true
     ]
    ],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00727 - Presumption of lawful conduct.md",
    "printed_pages": [
-    230,
-    231
+    234,
+    235
    ]
   },
   {
@@ -7569,8 +7641,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00728 - Rules and regulations.md",
    "printed_pages": [
-    231,
-    231
+    235,
+    235
    ]
   },
   {
@@ -7578,8 +7650,8 @@
    "marks": [],
    "path": "Chapter 015 - Government Losses in Shipment/§ 00729 - Definitions.md",
    "printed_pages": [
-    231,
-    231
+    235,
+    235
    ]
   },
   {
@@ -7591,15 +7663,15 @@
      [
       [
        220,
-       "[Page 232]"
+       "[Page 236]"
       ]
      ]
     ]
    ],
    "path": "Chapter 016 - General Services Administration/README.md",
    "printed_pages": [
-    231,
-    232
+    235,
+    236
    ]
   },
   {
@@ -7607,8 +7679,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00751 - General Services Administration.md",
    "printed_pages": [
-    232,
-    232
+    236,
+    236
    ]
   },
   {
@@ -7620,15 +7692,15 @@
      [
       [
        739,
-       "[Page 233]"
+       "[Page 237]"
       ]
      ]
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00752 - Transfer of functions.md",
    "printed_pages": [
-    232,
-    233
+    236,
+    237
    ]
   },
   {
@@ -7640,15 +7712,15 @@
      [
       [
        377,
-       "[Page 234]"
+       "[Page 238]"
       ]
      ]
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00753 - Transfer of affairs of Federal Works Agency; abolition of agencies.md",
    "printed_pages": [
-    233,
-    234
+    237,
+    238
    ]
   },
   {
@@ -7660,15 +7732,15 @@
      [
       [
        211,
-       "[Page 235]"
+       "[Page 239]"
       ]
      ]
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00754 - Redistribution of Administrator's functions.md",
    "printed_pages": [
-    234,
-    235
+    238,
+    239
    ]
   },
   {
@@ -7676,8 +7748,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00755 - Transfer of funds.md",
    "printed_pages": [
-    235,
-    235
+    239,
+    239
    ]
   },
   {
@@ -7685,8 +7757,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00755a - Transfer of unobligated GSA funds; major equipment acquisitions.md",
    "printed_pages": [
-    235,
-    235
+    239,
+    239
    ]
   },
   {
@@ -7698,27 +7770,27 @@
      [
       [
        425,
-       "[Page 236]"
+       "[Page 240]"
       ]
      ]
     ],
     [
      "L",
      30,
-     "[Page 237]",
+     "[Page 241]",
      true
     ],
     [
      "L",
      100,
-     "[Page 238]",
+     "[Page 242]",
      true
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00756 - General Supply Fund.md",
    "printed_pages": [
-    235,
-    238
+    239,
+    242
    ]
   },
   {
@@ -7726,8 +7798,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00756a - Retention of surplus generated from operation of General Supply Fund.md",
    "printed_pages": [
-    238,
-    238
+    242,
+    242
    ]
   },
   {
@@ -7735,8 +7807,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00756b - Periodic reimbursement for cost of equipment purchased for Congressional use; computation.md",
    "printed_pages": [
-    238,
-    238
+    242,
+    242
    ]
   },
   {
@@ -7748,132 +7820,124 @@
      [
       [
        91,
-       "[Page 239]"
+       "[Page 243]"
       ]
      ]
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00757 - Information Technology Fund.md",
    "printed_pages": [
-    238,
-    239
+    242,
+    243
    ]
   },
   {
    "id": "40_758",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 240]",
-     true
+     "I",
+     8,
+     [
+      [
+       99,
+       "[Page 244]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00758 - Personnel.md",
    "printed_pages": [
-    239,
-    240
+    243,
+    244
    ]
   },
   {
    "id": "40_759",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       183,
-       "[Page 241]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 245]",
+     true
     ],
     [
      "I",
      66,
      [
       [
-       457,
-       "[Page 242]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     98,
-     [
-      [
-       94,
-       "[Page 243]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     130,
-     [
-      [
-       91,
-       "[Page 244]"
+       683,
+       "[Page 246]"
       ]
      ]
     ],
     [
      "L",
+     100,
+     "[Page 247]",
+     true
+    ],
+    [
+     "L",
+     134,
+     "[Page 248]",
+     true
+    ],
+    [
+     "I",
      210,
-     "[Page 245]",
-     true
-    ],
-    [
-     "L",
-     276,
-     "[Page 246]",
-     true
+     [
+      [
+       102,
+       "[Page 249]"
+      ]
+     ]
     ],
     [
      "I",
-     352,
+     274,
      [
       [
-       110,
-       "[Page 247]"
+       119,
+       "[Page 250]"
       ]
      ]
+    ],
+    [
+     "L",
+     344,
+     "[Page 251]",
+     true
     ]
    ],
    "path": "Chapter 016 - General Services Administration/§ 00759 - Procurement, maintenance, operation and utilization of automatic data processing equipment.md",
    "printed_pages": [
-    240,
-    247
+    244,
+    251
    ]
   },
   {
    "id": "40_760",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 252]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - General Services Administration/§ 00760 - Federal information centers.md",
    "printed_pages": [
-    247,
-    247
+    251,
+    252
    ]
   },
   {
    "id": "40_761",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       971,
-       "[Page 248]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00761 - Consumer Information Center Fund, General Services Administration.md",
    "printed_pages": [
-    247,
-    248
+    252,
+    252
    ]
   },
   {
@@ -7881,8 +7945,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00762 - Definitions.md",
    "printed_pages": [
-    248,
-    248
+    252,
+    252
    ]
   },
   {
@@ -7890,33 +7954,37 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00762a - Federal telecommunications system requirements.md",
    "printed_pages": [
-    248,
-    248
+    252,
+    252
    ]
   },
   {
    "id": "40_762b",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       232,
+       "[Page 253]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 016 - General Services Administration/§ 00762b - Additional requirements.md",
    "printed_pages": [
-    248,
-    248
+    252,
+    253
    ]
   },
   {
    "id": "40_762c",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 249]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00762c - Inquiry regarding interstate TDD relay system.md",
    "printed_pages": [
-    248,
-    249
+    253,
+    253
    ]
   },
   {
@@ -7924,8 +7992,8 @@
    "marks": [],
    "path": "Chapter 016 - General Services Administration/§ 00762d - TDD installation by Congress.md",
    "printed_pages": [
-    249,
-    249
+    253,
+    253
    ]
   },
   {
@@ -7933,8 +8001,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/README.md",
    "printed_pages": [
-    249,
-    249
+    253,
+    253
    ]
   },
   {
@@ -7942,8 +8010,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    249,
-    249
+    253,
+    253
    ]
   },
   {
@@ -7951,8 +8019,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 001 (I) - General Provisions/§ 00771 - Definitions.md",
    "printed_pages": [
-    249,
-    249
+    253,
+    253
    ]
   },
   {
@@ -7960,8 +8028,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/README.md",
    "printed_pages": [
-    249,
-    249
+    253,
+    253
    ]
   },
   {
@@ -7969,19 +8037,19 @@
    "marks": [
     [
      "I",
-     20,
+     8,
      [
       [
-       84,
-       "[Page 250]"
+       91,
+       "[Page 254]"
       ]
      ]
     ]
    ],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/§ 00781 - Matters relative to transfer.md",
    "printed_pages": [
-    249,
-    250
+    253,
+    254
    ]
   },
   {
@@ -7989,8 +8057,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/§ 00782 - National defense considerations; public interest; qualification of transferee; disqualification of aliens.md",
    "printed_pages": [
-    250,
-    250
+    254,
+    254
    ]
   },
   {
@@ -7998,17 +8066,28 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/§ 00783 - Agreements for transfer; services without interruption, change of rates and charges, and finality of transfer.md",
    "printed_pages": [
-    250,
-    250
+    254,
+    254
    ]
   },
   {
    "id": "40_784",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       176,
+       "[Page 255]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/§ 00784 - Approval of Federal Communications Commission.md",
    "printed_pages": [
-    250,
-    250
+    254,
+    255
    ]
   },
   {
@@ -8016,24 +8095,17 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/§ 00785 - Gross proceeds as miscellaneous receipts in the Treasury.md",
    "printed_pages": [
-    250,
-    250
+    255,
+    255
    ]
   },
   {
    "id": "40_786",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 251]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 002 (II) - Transfer of Government-Owned Long-Lines Communication Facilities in and to Alaska/§ 00786 - Reports to President and Congress.md",
    "printed_pages": [
-    250,
-    251
+    255,
+    255
    ]
   },
   {
@@ -8041,8 +8113,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 003 (III) - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    251,
-    251
+    255,
+    255
    ]
   },
   {
@@ -8050,8 +8122,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 003 (III) - Miscellaneous Provisions/§ 00791 - Communications Act of 1934; nonmodification.md",
    "printed_pages": [
-    251,
-    251
+    255,
+    255
    ]
   },
   {
@@ -8059,8 +8131,8 @@
    "marks": [],
    "path": "Chapter 017 - Alaska Communications Disposal/Subchapter 003 (III) - Miscellaneous Provisions/§ 00792 - Authorization of appropriations.md",
    "printed_pages": [
-    251,
-    251
+    255,
+    255
    ]
   },
   {
@@ -8068,8 +8140,8 @@
    "marks": [],
    "path": "Chapter 017A - Alaska Federal-Civilian Energy Efficiency Swap/README.md",
    "printed_pages": [
-    251,
-    251
+    255,
+    255
    ]
   },
   {
@@ -8077,37 +8149,33 @@
    "marks": [],
    "path": "Chapter 017A - Alaska Federal-Civilian Energy Efficiency Swap/§ 00795 - Definitions.md",
    "printed_pages": [
-    251,
-    251
+    255,
+    255
    ]
   },
   {
    "id": "40_795a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 256]",
+     true
+    ]
+   ],
    "path": "Chapter 017A - Alaska Federal-Civilian Energy Efficiency Swap/§ 00795a - Sale of electric energy; contracting authority; required determinations; pricing policies.md",
    "printed_pages": [
-    251,
-    251
+    255,
+    256
    ]
   },
   {
    "id": "40_795b",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       95,
-       "[Page 252]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017A - Alaska Federal-Civilian Energy Efficiency Swap/§ 00795b - Purchase of electric power; authority; applicable criteria.md",
    "printed_pages": [
-    251,
-    252
+    256,
+    256
    ]
   },
   {
@@ -8115,8 +8183,8 @@
    "marks": [],
    "path": "Chapter 017A - Alaska Federal-Civilian Energy Efficiency Swap/§ 00795c - Implementation powers and limitations.md",
    "printed_pages": [
-    252,
-    252
+    256,
+    256
    ]
   },
   {
@@ -8124,8 +8192,8 @@
    "marks": [],
    "path": "Chapter 017A - Alaska Federal-Civilian Energy Efficiency Swap/§ 00795d - Reports.md",
    "printed_pages": [
-    252,
-    252
+    256,
+    256
    ]
   },
   {
@@ -8133,19 +8201,19 @@
    "marks": [
     [
      "I",
-     41,
+     19,
      [
       [
-       35,
-       "[Page 253]"
+       83,
+       "[Page 257]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/README.md",
    "printed_pages": [
-    252,
-    253
+    256,
+    257
    ]
   },
   {
@@ -8153,8 +8221,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/README.md",
    "printed_pages": [
-    253,
-    253
+    257,
+    257
    ]
   },
   {
@@ -8162,24 +8230,28 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/README.md",
    "printed_pages": [
-    253,
-    253
+    257,
+    257
    ]
   },
   {
    "id": "40_801",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 254]",
-     true
+     "I",
+     20,
+     [
+      [
+       109,
+       "[Page 258]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00801 - National Visitor Center; designation; parking facility; authorization of agreements and leases for use of Union Station.md",
    "printed_pages": [
-    253,
-    254
+    257,
+    258
    ]
   },
   {
@@ -8187,19 +8259,19 @@
    "marks": [
     [
      "I",
-     44,
+     36,
      [
       [
-       420,
-       "[Page 255]"
+       101,
+       "[Page 259]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00802 - Terms and conditions of agreements and leases.md",
    "printed_pages": [
-    254,
-    255
+    258,
+    259
    ]
   },
   {
@@ -8207,8 +8279,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00803 - Administration.md",
    "printed_pages": [
-    255,
-    255
+    259,
+    259
    ]
   },
   {
@@ -8216,19 +8288,19 @@
    "marks": [
     [
      "I",
-     12,
+     2,
      [
       [
-       109,
-       "[Page 256]"
+       731,
+       "[Page 260]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00804 - Interpretive transportation services; Federal areas.md",
    "printed_pages": [
-    255,
-    256
+    259,
+    260
    ]
   },
   {
@@ -8236,8 +8308,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00805 - Continuing study of needs of visitors to Washington metropolitan area; facility recommendations; annual report.md",
    "printed_pages": [
-    256,
-    256
+    260,
+    260
    ]
   },
   {
@@ -8245,8 +8317,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00806 - Repeals.md",
    "printed_pages": [
-    256,
-    256
+    260,
+    260
    ]
   },
   {
@@ -8254,8 +8326,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00807 - Authorization of appropriations.md",
    "printed_pages": [
-    256,
-    256
+    260,
+    260
    ]
   },
   {
@@ -8263,17 +8335,24 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00808 - Labor standards.md",
    "printed_pages": [
-    256,
-    256
+    260,
+    260
    ]
   },
   {
    "id": "40_809",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 261]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part A - National Visitor Center/§ 00809 - Steam for Union Station-National Visitor Center complex; contract; costs.md",
    "printed_pages": [
-    256,
-    256
+    260,
+    261
    ]
   },
   {
@@ -8281,57 +8360,42 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/README.md",
    "printed_pages": [
-    256,
-    256
+    261,
+    261
    ]
   },
   {
    "id": "40_811",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       233,
-       "[Page 257]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00811 - Assignment of right, title, and interest in the Union Station complex to the Secretary of Transportation.md",
    "printed_pages": [
-    256,
-    257
+    261,
+    261
    ]
   },
   {
    "id": "40_812",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 262]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00812 - Rehabilitation and redevelopment of the Union Station complex; goals.md",
    "printed_pages": [
-    257,
-    257
+    261,
+    262
    ]
   },
   {
    "id": "40_813",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 258]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00813 - Authorization of appropriations.md",
    "printed_pages": [
-    257,
-    258
+    262,
+    262
    ]
   },
   {
@@ -8339,19 +8403,19 @@
    "marks": [
     [
      "I",
-     38,
+     32,
      [
       [
-       473,
-       "[Page 259]"
+       638,
+       "[Page 263]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00814 - Studies to determine feasibility of rehabilitation and improvements; implementation of recommendations.md",
    "printed_pages": [
-    258,
-    259
+    262,
+    263
    ]
   },
   {
@@ -8359,28 +8423,24 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00815 - Development agreements.md",
    "printed_pages": [
-    259,
-    259
+    263,
+    263
    ]
   },
   {
    "id": "40_816",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       218,
-       "[Page 260]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 264]",
+     true
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00816 - Acquisition and maintenance of property.md",
    "printed_pages": [
-    259,
-    260
+    263,
+    264
    ]
   },
   {
@@ -8388,8 +8448,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00817 - Union Station Fund; establishment; administration; authority of the Secretary to use income received toward expenses.md",
    "printed_pages": [
-    260,
-    260
+    264,
+    264
    ]
   },
   {
@@ -8397,24 +8457,28 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00818 - Parking facility; completion with interstate highway funds; limitation on apportionment of funds excepted; agreement with District of….md",
    "printed_pages": [
-    260,
-    260
+    264,
+    264
    ]
   },
   {
    "id": "40_819",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 261]",
-     true
+     "I",
+     4,
+     [
+      [
+       313,
+       "[Page 265]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 001 (I) - Union Station/Part B - Union Station Redevelopment/§ 00819 - Waiver or release of obligations under other provisions.md",
    "printed_pages": [
-    260,
-    261
+    264,
+    265
    ]
   },
   {
@@ -8422,8 +8486,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 002 (II) - Advisory Commission/README.md",
    "printed_pages": [
-    261,
-    261
+    265,
+    265
    ]
   },
   {
@@ -8431,8 +8495,8 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 002 (II) - Advisory Commission/§ 00821 - National Visitor Facilities Advisory Commission; establishment; functions.md",
    "printed_pages": [
-    261,
-    261
+    265,
+    265
    ]
   },
   {
@@ -8440,17 +8504,28 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 002 (II) - Advisory Commission/§ 00822 - Composition of Commission.md",
    "printed_pages": [
-    261,
-    261
+    265,
+    265
    ]
   },
   {
    "id": "40_823",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       230,
+       "[Page 266]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 002 (II) - Advisory Commission/§ 00823 - Reports and recommendations.md",
    "printed_pages": [
-    261,
-    261
+    265,
+    266
    ]
   },
   {
@@ -8458,28 +8533,17 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 003 (III) - Capitol Visitor Center/README.md",
    "printed_pages": [
-    261,
-    261
+    266,
+    266
    ]
   },
   {
    "id": "40_831",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       512,
-       "[Page 262]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 003 (III) - Capitol Visitor Center/§ 00831 - Capitol educational and informational center and information and distribution stations; operation agreements.md",
    "printed_pages": [
-    261,
-    262
+    266,
+    266
    ]
   },
   {
@@ -8487,84 +8551,75 @@
    "marks": [],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 004 (IV) - Capitol Guide Service/README.md",
    "printed_pages": [
-    262,
-    262
+    266,
+    266
    ]
   },
   {
    "id": "40_851",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       88,
-       "[Page 263]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 267]",
+     true
+    ],
+    [
+     "L",
+     98,
+     "[Page 268]",
+     true
     ]
    ],
    "path": "Chapter 018 - National Visitor Center Facilities; Union Station Redevelopment; Capitol Guide Service/Subchapter 004 (IV) - Capitol Guide Service/§ 00851 - Capitol Guide Service.md",
    "printed_pages": [
-    262,
-    263
+    266,
+    268
    ]
   },
   {
    "id": "40_-ch19",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       33,
-       "[Page 264]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/README.md",
    "printed_pages": [
-    263,
-    264
+    268,
+    268
    ]
   },
   {
    "id": "40_871",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 265]",
-     true
+     "I",
+     18,
+     [
+      [
+       93,
+       "[Page 269]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00871 - Congressional findings.md",
    "printed_pages": [
-    264,
-    265
+    268,
+    269
    ]
   },
   {
    "id": "40_872",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       93,
-       "[Page 266]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 270]",
+     true
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00872 - Pennsylvania Avenue Development Corporation.md",
    "printed_pages": [
-    265,
-    266
+    269,
+    270
    ]
   },
   {
@@ -8572,57 +8627,61 @@
    "marks": [
     [
      "L",
-     30,
-     "[Page 267]",
+     16,
+     "[Page 271]",
      true
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00873 - Board of Directors.md",
    "printed_pages": [
-    266,
-    267
+    270,
+    271
    ]
   },
   {
    "id": "40_874",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       649,
-       "[Page 268]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 272]",
+     true
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00874 - Development plan.md",
    "printed_pages": [
-    267,
-    268
+    271,
+    272
    ]
   },
   {
    "id": "40_875",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 269]",
-     true
+     "I",
+     16,
+     [
+      [
+       175,
+       "[Page 273]"
+      ]
+     ]
     ],
     [
-     "L",
-     46,
-     "[Page 270]",
-     true
+     "I",
+     42,
+     [
+      [
+       141,
+       "[Page 274]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00875 - Powers of Corporation.md",
    "printed_pages": [
-    268,
-    270
+    272,
+    274
    ]
   },
   {
@@ -8630,24 +8689,28 @@
    "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00876 - Powers of other Federal and local agencies in the development area; certification of new construction, etc.md",
    "printed_pages": [
-    270,
-    270
+    274,
+    274
    ]
   },
   {
    "id": "40_877",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 271]",
-     true
+     "I",
+     8,
+     [
+      [
+       239,
+       "[Page 275]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00877 - Corporation as grantee of property.md",
    "printed_pages": [
-    270,
-    271
+    274,
+    275
    ]
   },
   {
@@ -8655,8 +8718,8 @@
    "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00878 - Local needs, primary consideration; compliance with District laws, ordinances, etc.md",
    "printed_pages": [
-    271,
-    271
+    275,
+    275
    ]
   },
   {
@@ -8664,33 +8727,37 @@
    "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00879 - Tax exemption; payments to District of Columbia government.md",
    "printed_pages": [
-    271,
-    271
+    275,
+    275
    ]
   },
   {
    "id": "40_880",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       380,
+       "[Page 276]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00880 - Reports and estimates.md",
    "printed_pages": [
-    271,
-    271
+    275,
+    276
    ]
   },
   {
    "id": "40_881",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 272]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00881 - Civil service retirement and disability fund; contributions.md",
    "printed_pages": [
-    271,
-    272
+    276,
+    276
    ]
   },
   {
@@ -8698,8 +8765,8 @@
    "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00882 - Assets and funds for conduct of business.md",
    "printed_pages": [
-    272,
-    272
+    276,
+    276
    ]
   },
   {
@@ -8707,8 +8774,8 @@
    "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00883 - Violations and penalties.md",
    "printed_pages": [
-    272,
-    272
+    276,
+    276
    ]
   },
   {
@@ -8716,24 +8783,28 @@
    "marks": [],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00884 - Separability.md",
    "printed_pages": [
-    272,
-    272
+    276,
+    276
    ]
   },
   {
    "id": "40_885",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 273]",
-     true
+     "I",
+     4,
+     [
+      [
+       823,
+       "[Page 277]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Capitol and White House-Pennsylvania Avenue Development/§ 00885 - Authorization of appropriations; prohibition of appropriations from Land and Water Conservation Fund.md",
    "printed_pages": [
-    272,
-    273
+    276,
+    277
    ]
   },
   {
@@ -8741,8 +8812,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/README.md",
    "printed_pages": [
-    273,
-    273
+    277,
+    277
    ]
   },
   {
@@ -8750,33 +8821,37 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00901 - Monitoring system.md",
    "printed_pages": [
-    273,
-    273
+    277,
+    277
    ]
   },
   {
    "id": "40_902",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       181,
+       "[Page 278]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00902 - Data collection.md",
    "printed_pages": [
-    273,
-    273
+    277,
+    278
    ]
   },
   {
    "id": "40_903",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 274]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00903 - Agency statements with respect to motor vehicle use.md",
    "printed_pages": [
-    273,
-    274
+    278,
+    278
    ]
   },
   {
@@ -8784,8 +8859,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00904 - Presidential report.md",
    "printed_pages": [
-    274,
-    274
+    278,
+    278
    ]
   },
   {
@@ -8793,33 +8868,37 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00905 - Study required.md",
    "printed_pages": [
-    274,
-    274
+    278,
+    278
    ]
   },
   {
    "id": "40_906",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       189,
+       "[Page 279]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00906 - Interagency consolidation.md",
    "printed_pages": [
-    274,
-    274
+    278,
+    279
    ]
   },
   {
    "id": "40_907",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 275]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00907 - Reduction of storage and disposal costs.md",
    "printed_pages": [
-    274,
-    275
+    279,
+    279
    ]
   },
   {
@@ -8827,8 +8906,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00908 - Savings.md",
    "printed_pages": [
-    275,
-    275
+    279,
+    279
    ]
   },
   {
@@ -8836,8 +8915,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00909 - Compliance.md",
    "printed_pages": [
-    275,
-    275
+    279,
+    279
    ]
   },
   {
@@ -8845,8 +8924,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00910 - Applicability.md",
    "printed_pages": [
-    275,
-    275
+    279,
+    279
    ]
   },
   {
@@ -8854,8 +8933,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00911 - Cooperation.md",
    "printed_pages": [
-    275,
-    275
+    279,
+    279
    ]
   },
   {
@@ -8863,8 +8942,8 @@
    "marks": [],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00912 - Reports.md",
    "printed_pages": [
-    275,
-    275
+    279,
+    279
    ]
   },
   {
@@ -8872,19 +8951,19 @@
    "marks": [
     [
      "I",
-     18,
+     4,
      [
       [
-       102,
-       "[Page 276]"
+       140,
+       "[Page 280]"
       ]
      ]
     ]
    ],
    "path": "Chapter 020 - Federal Motor Vehicle Expenditure Control/§ 00913 - Definitions.md",
    "printed_pages": [
-    275,
-    276
+    279,
+    280
    ]
   },
   {
@@ -8892,8 +8971,8 @@
    "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/README.md",
    "printed_pages": [
-    276,
-    276
+    280,
+    280
    ]
   },
   {
@@ -8901,62 +8980,58 @@
    "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01001 - Purposes.md",
    "printed_pages": [
-    276,
-    276
+    280,
+    280
    ]
   },
   {
    "id": "40_1002",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 281]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01002 - Definitions.md",
    "printed_pages": [
-    276,
-    276
+    280,
+    281
    ]
   },
   {
    "id": "40_1003",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       84,
-       "[Page 277]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01003 - Congressional authorization of commemorative works.md",
    "printed_pages": [
-    276,
-    277
+    281,
+    281
    ]
   },
   {
    "id": "40_1004",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 282]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01004 - National Capital Memorial Commission.md",
    "printed_pages": [
-    277,
-    277
+    281,
+    282
    ]
   },
   {
    "id": "40_1005",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 278]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01005 - Availability of map depicting Areas I and II.md",
    "printed_pages": [
-    277,
-    278
+    282,
+    282
    ]
   },
   {
@@ -8964,8 +9039,8 @@
    "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01006 - Specific conditions applicable to Area I and Area II.md",
    "printed_pages": [
-    278,
-    278
+    282,
+    282
    ]
   },
   {
@@ -8973,8 +9048,8 @@
    "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01007 - Site and design approval.md",
    "printed_pages": [
-    278,
-    278
+    282,
+    282
    ]
   },
   {
@@ -8982,19 +9057,19 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       331,
-       "[Page 279]"
+       136,
+       "[Page 283]"
       ]
      ]
     ]
    ],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01008 - Criteria for issuance of construction permit.md",
    "printed_pages": [
-    278,
-    279
+    282,
+    283
    ]
   },
   {
@@ -9002,8 +9077,8 @@
    "marks": [],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01009 - Temporary site designation.md",
    "printed_pages": [
-    279,
-    279
+    283,
+    283
    ]
   },
   {
@@ -9011,15 +9086,15 @@
    "marks": [
     [
      "L",
-     32,
-     "[Page 280]",
+     18,
+     "[Page 284]",
      true
     ]
    ],
    "path": "Chapter 021 - National Capital Memorials and Commemorative Works/§ 01010 - Miscellaneous provisions.md",
    "printed_pages": [
-    279,
-    280
+    283,
+    284
    ]
   },
   {
@@ -9027,24 +9102,28 @@
    "marks": [],
    "path": "Chapter 022 - Federal Triangle Development/README.md",
    "printed_pages": [
-    280,
-    280
+    284,
+    284
    ]
   },
   {
    "id": "40_1101",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 281]",
-     true
+     "I",
+     26,
+     [
+      [
+       312,
+       "[Page 285]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Federal Triangle Development/§ 01101 - Findings and purposes.md",
    "printed_pages": [
-    280,
-    281
+    284,
+    285
    ]
   },
   {
@@ -9052,8 +9131,8 @@
    "marks": [],
    "path": "Chapter 022 - Federal Triangle Development/§ 01102 - Federal Triangle property.md",
    "printed_pages": [
-    281,
-    281
+    285,
+    285
    ]
   },
   {
@@ -9061,73 +9140,7 @@
    "marks": [
     [
      "I",
-     56,
-     [
-      [
-       93,
-       "[Page 282]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01103 - Development proposal.md",
-   "printed_pages": [
-    281,
-    282
-   ]
-  },
-  {
-   "id": "40_1104",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 283]",
-     true
-    ]
-   ],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01104 - Construction of building.md",
-   "printed_pages": [
-    282,
-    283
-   ]
-  },
-  {
-   "id": "40_1105",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       90,
-       "[Page 284]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01105 - Lease of building by GSA.md",
-   "printed_pages": [
-    283,
-    284
-   ]
-  },
-  {
-   "id": "40_1106",
-   "marks": [
-    [
-     "I",
-     80,
-     [
-      [
-       91,
-       "[Page 285]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     154,
+     32,
      [
       [
        96,
@@ -9136,108 +9149,14 @@
      ]
     ]
    ],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01106 - International Cultural and Trade Center Commission.md",
+   "path": "Chapter 022 - Federal Triangle Development/§ 01103 - Development proposal.md",
    "printed_pages": [
-    284,
+    285,
     286
    ]
   },
   {
-   "id": "40_1107",
-   "marks": [
-    [
-     "I",
-     54,
-     [
-      [
-       90,
-       "[Page 287]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01107 - Operation and management of international cultural and trade center.md",
-   "printed_pages": [
-    286,
-    287
-   ]
-  },
-  {
-   "id": "40_1108",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       177,
-       "[Page 288]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01108 - Designation of Departmental Auditorium.md",
-   "printed_pages": [
-    287,
-    288
-   ]
-  },
-  {
-   "id": "40_1109",
-   "marks": [],
-   "path": "Chapter 022 - Federal Triangle Development/§ 01109 - Definitions.md",
-   "printed_pages": [
-    288,
-    288
-   ]
-  },
-  {
-   "id": "40_-ch23",
-   "marks": [],
-   "path": "Chapter 023 - Judiciary Office Building Development/README.md",
-   "printed_pages": [
-    288,
-    288
-   ]
-  },
-  {
-   "id": "40_1201",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 289]",
-     true
-    ]
-   ],
-   "path": "Chapter 023 - Judiciary Office Building Development/§ 01201 - Findings and purposes.md",
-   "printed_pages": [
-    288,
-    289
-   ]
-  },
-  {
-   "id": "40_1202",
-   "marks": [
-    [
-     "I",
-     50,
-     [
-      [
-       356,
-       "[Page 290]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 023 - Judiciary Office Building Development/§ 01202 - Construction of building.md",
-   "printed_pages": [
-    289,
-    290
-   ]
-  },
-  {
-   "id": "40_1203",
+   "id": "40_1104",
    "marks": [
     [
      "I",
@@ -9245,15 +9164,173 @@
      [
       [
        86,
-       "[Page 291]"
+       "[Page 287]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 023 - Judiciary Office Building Development/§ 01203 - Lease of building by Architect of the Capitol.md",
+   "path": "Chapter 022 - Federal Triangle Development/§ 01104 - Construction of building.md",
+   "printed_pages": [
+    286,
+    287
+   ]
+  },
+  {
+   "id": "40_1105",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       92,
+       "[Page 288]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 022 - Federal Triangle Development/§ 01105 - Lease of building by GSA.md",
+   "printed_pages": [
+    287,
+    288
+   ]
+  },
+  {
+   "id": "40_1106",
+   "marks": [
+    [
+     "I",
+     58,
+     [
+      [
+       130,
+       "[Page 289]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     134,
+     "[Page 290]",
+     true
+    ]
+   ],
+   "path": "Chapter 022 - Federal Triangle Development/§ 01106 - International Cultural and Trade Center Commission.md",
+   "printed_pages": [
+    288,
+    290
+   ]
+  },
+  {
+   "id": "40_1107",
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       341,
+       "[Page 291]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     110,
+     [
+      [
+       84,
+       "[Page 292]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 022 - Federal Triangle Development/§ 01107 - Operation and management of international cultural and trade center.md",
    "printed_pages": [
     290,
-    291
+    292
+   ]
+  },
+  {
+   "id": "40_1108",
+   "marks": [],
+   "path": "Chapter 022 - Federal Triangle Development/§ 01108 - Designation of Departmental Auditorium.md",
+   "printed_pages": [
+    292,
+    292
+   ]
+  },
+  {
+   "id": "40_1109",
+   "marks": [],
+   "path": "Chapter 022 - Federal Triangle Development/§ 01109 - Definitions.md",
+   "printed_pages": [
+    292,
+    292
+   ]
+  },
+  {
+   "id": "40_-ch23",
+   "marks": [],
+   "path": "Chapter 023 - Judiciary Office Building Development/README.md",
+   "printed_pages": [
+    292,
+    292
+   ]
+  },
+  {
+   "id": "40_1201",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       145,
+       "[Page 293]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 023 - Judiciary Office Building Development/§ 01201 - Findings and purposes.md",
+   "printed_pages": [
+    292,
+    293
+   ]
+  },
+  {
+   "id": "40_1202",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       96,
+       "[Page 294]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     96,
+     "[Page 295]",
+     true
+    ]
+   ],
+   "path": "Chapter 023 - Judiciary Office Building Development/§ 01202 - Construction of building.md",
+   "printed_pages": [
+    293,
+    295
+   ]
+  },
+  {
+   "id": "40_1203",
+   "marks": [],
+   "path": "Chapter 023 - Judiciary Office Building Development/§ 01203 - Lease of building by Architect of the Capitol.md",
+   "printed_pages": [
+    295,
+    295
    ]
   },
   {
@@ -9261,8 +9338,8 @@
    "marks": [],
    "path": "Chapter 023 - Judiciary Office Building Development/§ 01204 - Structural and mechanical care and security.md",
    "printed_pages": [
-    291,
-    291
+    295,
+    295
    ]
   },
   {
@@ -9270,35 +9347,38 @@
    "marks": [
     [
      "I",
-     30,
+     10,
      [
       [
-       136,
-       "[Page 292]"
+       213,
+       "[Page 296]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       86,
+       "[Page 297]"
       ]
      ]
     ]
    ],
    "path": "Chapter 023 - Judiciary Office Building Development/§ 01205 - Allocation of space.md",
    "printed_pages": [
-    291,
-    292
+    295,
+    297
    ]
   },
   {
    "id": "40_1206",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 293]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Judiciary Office Building Development/§ 01206 - Commission for Judiciary Office Building.md",
    "printed_pages": [
-    292,
-    293
+    297,
+    297
    ]
   },
   {
@@ -9306,20 +9386,79 @@
    "marks": [],
    "path": "Chapter 023 - Judiciary Office Building Development/§ 01207 - Funding.md",
    "printed_pages": [
-    293,
-    293
+    297,
+    297
    ]
   },
   {
    "id": "40_1208",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 298]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Judiciary Office Building Development/§ 01208 - Definitions.md",
    "printed_pages": [
-    293,
-    293
+    297,
+    298
+   ]
+  },
+  {
+   "id": "40_-ch24",
+   "marks": [],
+   "path": "Chapter 024 - National Capital Area Interest Arbitration Standards/README.md",
+   "printed_pages": [
+    298,
+    298
+   ]
+  },
+  {
+   "id": "40_1301",
+   "marks": [],
+   "path": "Chapter 024 - National Capital Area Interest Arbitration Standards/§ 01301 - Findings and purposes.md",
+   "printed_pages": [
+    298,
+    298
+   ]
+  },
+  {
+   "id": "40_1302",
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 299]",
+     true
+    ]
+   ],
+   "path": "Chapter 024 - National Capital Area Interest Arbitration Standards/§ 01302 - Definitions.md",
+   "printed_pages": [
+    298,
+    299
+   ]
+  },
+  {
+   "id": "40_1303",
+   "marks": [],
+   "path": "Chapter 024 - National Capital Area Interest Arbitration Standards/§ 01303 - Standards for arbitrators.md",
+   "printed_pages": [
+    299,
+    299
+   ]
+  },
+  {
+   "id": "40_1304",
+   "marks": [],
+   "path": "Chapter 024 - National Capital Area Interest Arbitration Standards/§ 01304 - Procedures for enforcement of awards.md",
+   "printed_pages": [
+    299,
+    299
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1994-title40 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1995-title40 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 40 - Public Buildings, Property, and Works"
 }

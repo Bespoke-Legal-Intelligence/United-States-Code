@@ -110,7 +110,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 159a, 231f, 231g, 231i, 355a, 363a, 366a, 367, 401, 404, 797d, 909, 1207 of this title; title 19 section 2319; title 26 section 6334; title 42 section 10601.
+This chapter is referred to in sections 159a, 231f, 231g, 231i, 355a, 363a, 366a, 367, 401, 404, 797d, 909, 1207 of this title; title 19 section 2319; title 26 section 6334; title 42 section 10601; title 49 section 10501.
 
 
 ---

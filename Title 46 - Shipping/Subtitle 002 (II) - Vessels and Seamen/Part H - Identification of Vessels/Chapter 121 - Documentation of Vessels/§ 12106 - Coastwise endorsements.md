@@ -32,7 +32,7 @@
 
 &emsp;(D) use of the vessel is restricted to—
 
-&emsp;&emsp;(i) the deployment of equipment, supplies, and personnel to recover, contain, or transport oil discharged into the navigable waters of the United States, or within the Exclusive Economic Zone, or
+&emsp;&emsp;(i) the deployment of equipment, supplies, and personnel to recover, contain, or transport oil discharged into the navigable watersof the United States, or within the Exclusive Economic Zone, or
 
 &emsp;&emsp;(ii) for training exercises to prepare to respond to such a discharge.
 

@@ -2,7 +2,7 @@
 
 #### (a) Mandatory exclusion
 
-The Secretary shall exclude the following individuals and entities from participation in any program under subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section):
+The Secretary shall exclude the following individuals and entities from participation in anyprogram under subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section):
 
 #### (1) Conviction of program-related crimes
 
@@ -18,7 +18,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (1) Conviction relating to fraud
 
-&emsp;Any individual or entity that has been convicted, under Federal or State law, in connection with the delivery of a health care item or service or with respect to any act or omissionin a program operated by or financed in whole or in part by any Federal, State, or local government agency, of a criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct.
+&emsp;Any individual or entity that has been convicted, under Federal or State law, in connection with the delivery of a health care item or service or with respect to any act or omission in a program operated by or financed in whole or in part by any Federal, State, or local government agency, of a criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct.
 
 #### (2) Conviction relating to obstruction of an investigation
 
@@ -126,7 +126,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (2)(A) Except as provided in subparagraph (B), such an exclusion shall be effective with respect to services furnished to an individual on or after the effective date of the exclusion.
 
-(B) Unless the Secretary determines that the health and safety of individuals receiving services warrants the exclusion taking effect earlier, an exclusion shall not apply to payments made under subchapter XVIII of this chapter or under a State health care program for—
+(B) Unless the Secretary determines that the health and safety of individuals receiving services warrants the exclusion taking effect earlier, an exclusion shall not apply to payments madeunder subchapter XVIII of this chapter or under a State health care program for—
 
 &emsp;(i) inpatient institutional services furnished to an individual who was admitted to such institution before the date of the exclusion, or
 
@@ -180,7 +180,7 @@ The Secretary shall—
 
 #### (g) Application for termination of exclusion
 
-(1) An individual or entity excluded (or directed to be excluded) from participation under this section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end of the minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
+(1) An individual or entity excluded (or directed to be excluded) from participation under this section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end ofthe minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
 
 (2) The Secretary may terminate the exclusion if the Secretary determines, on the basis of the conduct of the applicant which occurred after the date of the notice of exclusion or which was unknown to the Secretary at the time of the exclusion, that—
 
@@ -270,7 +270,7 @@ Section 206(b)(3) of Pub. L. 103–296 provided that: “The amendments made by 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set outas an Effective Date note under section 1320a–3a of this title.
+Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
 #### Effective Date of 1989 Amendment
 

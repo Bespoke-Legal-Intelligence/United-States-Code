@@ -1,6 +1,6 @@
 ### §1716. Deferral of capital gains
 
-For purposes of title 26, any sale or disposition of private settlement lands pursuant to theterms and conditions of the settlement agreement shall be treated as an involuntary conversion within the meaning of section 1033 of title 26.
+For purposes of title 26, any sale or disposition of private settlement lands pursuant to the terms and conditions of the settlement agreement shall be treated as an involuntary conversion within the meaning of section 1033 of title 26.
 
 (Pub. L. 95–395, title II, §202, as added Pub. L. 96–601, §5(a), Dec. 24, 1980, 94 Stat. 3499; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

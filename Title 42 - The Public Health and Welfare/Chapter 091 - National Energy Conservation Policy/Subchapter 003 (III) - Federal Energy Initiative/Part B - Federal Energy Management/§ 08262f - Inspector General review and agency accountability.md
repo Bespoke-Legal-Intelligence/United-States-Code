@@ -4,7 +4,7 @@
 
 Not later than 120 days after October 24, 1992, each Inspector General created to conduct and supervise audits and investigations relating to the programs and operations of the establishments listed in section 11(2) of the Inspector General Act of 1978 (5 U.S.C. App.), and the Chief Postal Inspector of the United States Postal Service, in accordance with section 8E(f)(1) as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988 (Public Law 100–504) shall—
 
-&emsp;(1) identify agency compliance activities to meet the requirements of section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) and any other matters relevant to implementing the goals of such Act; and
+&emsp;(1) identify agency compliance activities to meet the requirements of section 543 of the National Energy Conservation Policy Act (42U.S.C. 8253) and any other matters relevant to implementing the goals of such Act; and
 
 &emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assess the accuracy and reliability of energy consumption and energy cost figures required under such section.
 
@@ -34,11 +34,11 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ The Secretary shall, directly or by grant or contract—
 
 &emsp;(3) provide assurances that procedures will be developed to guarantee the confidentiality of records pertaining to any individual for whom data are compiled through this subsection.
 
-(Pub. L. 98–457, title III, §313, as added Pub. L. 100–294, title III, §303(c), Apr. 25, 1988, 102 Stat. 125; amended Pub. L. 102–295, title III, §319, May 28, 1992, 106 Stat. 209.)
+(Pub. L. 98–457, title III, §313, as added Pub. L. 100–294, title III, §303(c), Apr. 25, 1988, 102 Stat.125; amended Pub. L. 102–295, title III, §319, May 28, 1992, 106 Stat. 209.)
 
 #### Amendments
 

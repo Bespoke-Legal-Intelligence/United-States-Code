@@ -1,4 +1,4 @@
-### §306 . Applicable rules of Inter-American Commercial Arbitration Commission
+### §306. Applicable rules of Inter-American Commercial Arbitration Commission
 
 (a) For the purposes of this chapter the rules of procedure of the Inter-American Commercial Arbitration Commission referred to in Article 3 of the Inter-American Convention shall, subject to subsection (b) of this section, be those rules as promulgated by the Commission on July 1, 1988.
 

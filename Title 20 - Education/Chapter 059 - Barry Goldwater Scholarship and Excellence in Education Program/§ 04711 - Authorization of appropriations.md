@@ -2,7 +2,7 @@
 
 There is hereby authorized to be appropriated to the fund $40,000,000 to carry out this chapter.
 
-(Pub. L. 99 661, div. A, title XIV, §1412, Nov. 14, 1986, 100 Stat. 4012.)
+(Pub. L. 99–661, div. A, title XIV, §1412, Nov. 14, 1986, 100 Stat. 4012.)
 
 #### Section Referred to in Other Sections
 

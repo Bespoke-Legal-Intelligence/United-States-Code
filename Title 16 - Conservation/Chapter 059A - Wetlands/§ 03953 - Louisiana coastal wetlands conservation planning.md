@@ -26,7 +26,7 @@
 
 &emsp;Upon the date of signing the agreement—
 
-&emsp;&emsp;(A) the Administrator shall, in consultation with the Director, with the funds madeavailable in accordance with section 3955 of this title, make grants during the development of the conservation plan to assist the designated State agency in developing such plan. Such grants shall not exceed 75 percent of the cost of developing the plan; and
+&emsp;&emsp;(A) the Administrator shall, in consultation with the Director, with the funds made available in accordance with section 3955 of this title, make grants during the development of the conservation plan to assist the designated State agency in developing such plan. Such grants shall not exceed 75 percent of the cost of developing the plan; and
 
 &emsp;&emsp;(B) the Secretary, the Director, and the Administrator shall provide technical assistance to the State to assist it in the development of the plan.
 
@@ -100,7 +100,7 @@ A conservation plan approved under this section shall be implemented as provided
 
 #### (2) Report to Congress
 
-&emsp;Twenty-four months after the initial one hundred and eighty day period set forth inparagraph (1), and at the end of each twenty-four-month period thereafter, the Secretary, the Director, and the Administrator shall, report to the Congress on the status of the conservation plan and provide an evaluation of the effectiveness of the plan in meeting the goal of this section.
+&emsp;Twenty-four months after the initial one hundred and eighty day period set forth in paragraph (1), and at the end of each twenty-four-month period thereafter, the Secretary, the Director, and the Administrator shall, report to the Congress on the status of the conservation plan and provide an evaluation of the effectiveness of the plan in meeting the goal of this section.
 
 (Pub. L. 101–646, title III, §304, Nov. 29, 1990, 104 Stat. 4783.)
 

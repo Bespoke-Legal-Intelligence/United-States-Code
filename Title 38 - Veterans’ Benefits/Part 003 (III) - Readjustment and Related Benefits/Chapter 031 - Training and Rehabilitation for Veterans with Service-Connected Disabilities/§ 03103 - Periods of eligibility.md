@@ -8,7 +8,7 @@
 
 &emsp;(A) such veteran had not met the requirement of a discharge or release from active military, naval, or air service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
 
-&emsp;(B) such veteran's discharge or dismissal was, under section 5303 of this title, a bar tobenefits under this title before the Secretary made a determination that such discharge or dismissal is not a bar to such benefits,
+&emsp;(B) such veteran's discharge or dismissal was, under section 5303 of this title, a bar to benefits under this title before the Secretary made a determination that such discharge or dismissal is not a bar to such benefits,
 
 > the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program.
 

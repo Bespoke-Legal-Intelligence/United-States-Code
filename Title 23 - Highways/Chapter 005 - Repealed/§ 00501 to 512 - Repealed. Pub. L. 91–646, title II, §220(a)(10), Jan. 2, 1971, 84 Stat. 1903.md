@@ -38,9 +38,9 @@ Any rights or liabilities existing under provisions repealed by section 220(a) o
 
 #### Eminent Domain
 
-Pub. L. 90–495, §32, Aug. 23, 1968, 82 Stat. 830, which provided that nothing contained in chapter 5 of title 23, United States Code, was to be construed as creating in any condemnation proceedings brought under the power of eminent domain, any element of damages not in existence on Aug. 23, 1968, was repealed by Pub. L. 91–646, title II, §220(a)(11), Jan. 2, 1971, 84 Stat. 1903
+Pub. L. 90–495, §32, Aug. 23, 1968, 82 Stat. 830, provided that nothing contained in chapter 5 of title 23, United States Code, was to be construed as creating in any condemnation proceedings brought under the power ofeminent domain, any element of damages not in existence on Aug. 23, 1968, prior to repeal by Pub. L. 91–646, title II, §220(a)(11), Jan. 2, 1971, 84 Stat. 1903
 
 #### Annual Report to Congress
 
-Pub. L. 90–495, §33, Aug. 23, 1968, 82 Stat. 835, which provided that the Secretary of Transportation was to report annually to Congress, but no later than Jan. 15 of each year, concerning his administration of this chapter, together with his recommendations, including any necessary legislation with respect to this chapter, was repealed by Pub. L. 91–646, title II, §220(a)(11), Jan. 2, 1971, 84 Stat. 1903.
+Pub. L. 90–495, §33, Aug. 23, 1968, 82 Stat. 835, directed Secretary of Transportation to report annually to Congress, but no later than Jan. 15 of each year, concerning administration of this chapter, together with recommendations, including any necessary legislation with respect to this chapter, prior to repeal by Pub. L. 91–646, title II, §220(a)(11), Jan. 2, 1971, 84 Stat. 1903.
 

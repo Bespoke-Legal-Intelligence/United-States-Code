@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 96–465, §2206(a)(9), among other changes, substituted re
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -120,9 +120,9 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (4) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
+(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit tothe Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
 
-(c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extentthat they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
+(c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
 
 (d) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
@@ -200,7 +200,7 @@ Sec. 10. <i>References to orders and acts</i>. Except as may for any reason be i
 
 Sec. 11. <i>Prior directives and actions</i>. (a) This order supersedes Executive Order No. 10716 of June 17, 1957, and Executive Order No. 10912 of January 18, 1961. Except to the extent that they may be inconsistent with law or with this order, other directives, regulations, and actions relating to the functions delegated by this order and in force immediately prior to the issuance of this order shall remain in effect until amended, modified, or revoked by appropriate authority.
 
-(b) This order shall neither limit nor be limited by Executive Order No. 11014 of April 17, 1962 \[set out as a note under this section\].
+(b) This order shall neither limit nor be limited by Executive Order No. 11014 of April 17, 1962 \[formerly set out under this section\].
 
 (c) To the extent not heretofore superseded, there are hereby superseded the provisions of the letters of the President to the Director of the United States Information Agency dated August 16, 1955, and August 21, 1956 (22 F.R. 101–103).
 
@@ -248,9 +248,9 @@ By virtue of the authority vested in me by section 104 of the Mutual Educational
 
 Section 1. The Secretary of the Interior is authorized, with respect to the International Symposium on Geothermal Energy to be held in San Francisco, California, in May 1975, to perform the functions conferred by section 102(b)(5), (7), and (8) of the act \[section 2452(b)(5), (7) and (8) of this title\].
 
-Sec. 2. I find that the delegation made by section 1 of this order is in the interest of the purposes expressed in the act and the efficient administration of the International Symposium on Geothermal Energy.
+Sec. 2. I find that the delegation made by section 1 of this order is in the interest of the purposes expressed inthe act and the efficient administration of the International Symposium on Geothermal Energy.
 
-Sec. 3. The delegation made by this order shall become effective upon the expiration of sixty days while the Congress is in session. In computing that sixty days, there shall be excluded days on which eitherHouse is not in session because of an adjournment of more than three days.
+Sec. 3. The delegation made by this order shall become effective upon the expiration of sixty days while the Congress is in session. In computing that sixty days, there shall be excluded days on which either House is not in session because of an adjournment of more than three days.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

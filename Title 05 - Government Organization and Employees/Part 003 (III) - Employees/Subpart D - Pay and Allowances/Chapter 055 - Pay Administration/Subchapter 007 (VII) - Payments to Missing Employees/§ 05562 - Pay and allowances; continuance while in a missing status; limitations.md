@@ -94,9 +94,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–54 substituted “December 14, 1973,” for “the date of enactment of this sentence”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “December 14, 1973,” for “the date of enactment of this sentence”.
 
-1973—Subsec. (a). Pub. L. 93–181 inserted provisions relating to employees in missing status on or after January 1, 1965.
+<b>1973</b>—Subsec. (a). Pub. L. 93–181 inserted provisions relating to employees in missing status on or after January 1, 1965.
 
 #### Effective Date of 1979 Amendment
 

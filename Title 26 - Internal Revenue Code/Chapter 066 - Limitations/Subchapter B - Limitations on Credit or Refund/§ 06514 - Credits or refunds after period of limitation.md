@@ -10,7 +10,7 @@ A refund of any portion of an internal revenue tax shall be considered erroneous
 
 #### (2) Disallowance of claim and expiration of period for filing suit
 
-&emsp;In the case of a claim filed within the proper time and disallowed by the Secretary, if thecredit or refund was made after the expiration of the period of limitation for filing suit, unless within such period suit was begun by the taxpayer.
+&emsp;In the case of a claim filed within the proper time and disallowed by the Secretary, if the credit or refund was made after the expiration of the period of limitation for filing suit, unless within such period suit was begun by the taxpayer.
 
 #### (3) Recovery of erroneous refunds
 

@@ -6,7 +6,7 @@
 | [3282\.](%C2%A7%2003282%20-%20General%20officers%20title%20of%20office.md) | General officers: title of office. |
 | [3283\.](%C2%A7%2003283%20-%20Commissioned%20officers%20appointment%20without%20specification%20of%20branch%3B%20transfer%20between%20branches.md) | Commissioned officers: appointment without specification of branch; transfer between branches. |
 | \[3284 to 3309. Repealed.\] |  |
-| 3310\. | Warrant officers: original appointment; qualifications. |
+| [3310\.](%C2%A7%2003310%20-%20Warrant%20officers%20original%20appointment%3B%20qualifications.md) | Warrant officers: original appointment; qualifications. |
 | \[3311 to 3314. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

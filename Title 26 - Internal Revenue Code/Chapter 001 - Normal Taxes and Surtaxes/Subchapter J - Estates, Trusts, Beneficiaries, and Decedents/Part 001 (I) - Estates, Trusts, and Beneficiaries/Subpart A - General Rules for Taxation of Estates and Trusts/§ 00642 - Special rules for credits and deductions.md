@@ -266,7 +266,7 @@ Returns by trust claiming charitable deduction under subsection (c) of this sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 67, 153, 170, 507, 508, 542, 643, 644, 651, 661, 662, 663, 681, 683, 901, 904, 1291, 1297, 2055, 2522, 2652, 4947, 4948, 6034 of this title.
+This section is referred to in sections 56, 67, 153, 170, 507, 508, 542, 643, 644, 651, 661, 662, 663, 681, 683, 901, 904, 1291, 1297, 2055, 2522, 2652, 4947, 4948, 6034 of this title; title 15 section 80a–3.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “than”.</i>
 

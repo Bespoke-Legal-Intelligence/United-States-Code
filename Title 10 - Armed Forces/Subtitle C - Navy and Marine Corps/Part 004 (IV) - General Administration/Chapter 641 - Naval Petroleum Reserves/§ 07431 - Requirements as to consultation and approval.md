@@ -24,7 +24,7 @@
 
 &emsp;(3) The status of pipeline construction and procurement and problems related to the availability of transportation facilities.
 
-&emsp;(4) A summary of future plans for exploration, development, production, disposal, and transportation of the production from the naval petroleum reserves.
+&emsp;(4) A summary of future plans for exploration, development, production, disposal, andtransportation of the production from the naval petroleum reserves.
 
 &emsp;(5) Such other information regarding the reserve as the Secretary deems appropriate.
 
@@ -56,7 +56,7 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Contract for Studies of Potential Transfer Out of Federal Control of Facilities and Functions at Elk Hills and Teapot Dome; Restrictions
 

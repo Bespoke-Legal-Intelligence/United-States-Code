@@ -1,0 +1,6 @@
+### §6710. Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1996, to carry out this chapter.
+
+(Pub. L. 101–624, title XXIV, §2412, Nov. 28, 1990, 104 Stat. 4062.)
+

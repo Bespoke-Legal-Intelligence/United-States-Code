@@ -72,7 +72,7 @@
 
 #### (A) IRS funding
 
-&emsp;To the extent that appropriations are enacted that provide additional new budget authority or result in additional outlays (as compared with the CBO baseline constructed in June 1990) for the Internal Revenue Service compliance initiative in any fiscal year, the adjustments for that year shall be thoseamounts, but shall not exceed the amounts set forth below—
+&emsp;To the extent that appropriations are enacted that provide additional new budget authority or result in additional outlays (as compared with the CBO baseline constructed in June 1990) for the Internal Revenue Service compliance initiative in any fiscal year, the adjustments for that year shall be those amounts, but shall not exceed the amounts set forth below—
 
 &emsp;&emsp;(i) for fiscal year 1991, $191,000,000 in new budget authority and $183,000,000 in outlays;
 
@@ -96,7 +96,7 @@
 
 #### (D) Emergency appropriations
 
-&emsp;(i) If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates in statute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
+&emsp;(i) If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates instatute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
 
 &emsp;(ii) The costs for operation Desert Shield are to be treated as emergency funding requirements not subject to the defense spending limits. Funding for Desert Shield will be provided through the normal legislative process. Desert Shield costs should be accommodated through Allied burden-sharing, subsequent appropriation Acts, and if the President so chooses, through offsets within other defense accounts. Emergency Desert Shield costs mean those incremental costs associated with the increase in operations in the Middle East and do not include costs that would be experienced by the Department of Defense as part of its normal operations absent Operation Desert Shield.
 
@@ -116,7 +116,7 @@
 
 #### (G) Net guarantee costs
 
-&emsp;The net costs for fiscal year <sup>3</sup> 1994 and 1995 of the appropriation made under section 2186 of title 22 are not subject to the discretionary spending limits or the Appropriations Committee's Foreign Operations Subcommittee's\[section\] 602(b) \[2 U.S.C. 665a(b)\] allocation in fiscal year <sup>3</sup> 1994 and 1995.
+&emsp;The net costs for fiscal year <sup>3</sup> 1994 and 1995 of the appropriation made under section 2186 of title 22 are not subject to the discretionary spending limits or the Appropriations Committee's Foreign Operations Subcommittee's \[section\] 602(b) \[2 U.S.C. 665a(b)\] allocation in fiscal year <sup>3</sup> 1994 and 1995.
 
 (Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208.)
 
@@ -140,7 +140,7 @@ Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994
 
 1993—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
 
-Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
+Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 103–66, §14002(c)(1)(B)(ii), added cl. (iii).
 
@@ -164,7 +164,7 @@ Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out “and” before “
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Budget of House of Representatives in case of provision relating to establishment, extension, and enforcement of special controls over Federal budget, by section 1(c) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -172,7 +172,7 @@ Section 119(d)(1) of Pub. L. 103–354 provided that the amendment made by that 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665, 665b, 665e, 900, 901a, 902, 903, 904, 905, 908, 922 of this title; title 16 section 556c; title 38 section 113; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
+This section is referred to in sections 665, 665b, 665e, 900, 901a, 902, 903, 904, 905, 908, 922 of this title; title 16 section 556c; title 38 section 113; title 39 section 2009a; title 42 sections 5203, 8621, 14212; title 43 section 1474a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

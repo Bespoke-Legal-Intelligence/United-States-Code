@@ -20,7 +20,7 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (4) Banking agency rulemaking
 
-&emsp;The Secretary of the Treasury may not delay or prevent the issuance of any rule orthe promulgation of any regulation by the Director.
+&emsp;The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Director.
 
 #### (c) Appointment; term
 
@@ -52,7 +52,7 @@ The Director shall not have a direct or indirect financial interest in any insur
 
 The Director shall have all powers which—
 
-&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such) or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
+&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such)or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
 
 &emsp;(2) were not—
 

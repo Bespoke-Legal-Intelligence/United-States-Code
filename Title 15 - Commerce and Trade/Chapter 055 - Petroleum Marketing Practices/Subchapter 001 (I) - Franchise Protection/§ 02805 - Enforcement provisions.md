@@ -80,7 +80,7 @@ In any action under subsection (a) of this section, the franchisee shall have th
 
 (2) No provision of any franchise shall be valid or enforceable if the provision specifies that the interpretation or enforcement of the franchise shall be governed by the law of any State other than the State in which the franchisee has the principal place of business of the franchisee.
 
-(Pub. L. 95 297, title I, §105, June 19, 1978, 92 Stat. 331; Pub. L. 103 371, §4, Oct. 19, 1994, 108 Stat. 3485.)
+(Pub. L. 95–297, title I, §105, June 19, 1978, 92 Stat. 331; Pub. L. 103–371, §4, Oct. 19, 1994, 108 Stat. 3485.)
 
 #### References in Text
 
@@ -88,5 +88,5 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103 371 added subsec. (f).
+1994—Subsec. (f). Pub. L. 103–371 added subsec. (f).
 

@@ -36,7 +36,7 @@ Section 12 of act June 30, 1936, as added by Pub. L. 103–355, title X, §10005
 
 #### Exemptions to Federal Restrictions on Marketability of Prison Made Goods
 
-Provisions of this section creating exemptions to Federal regulations on marketability of prison made goods are not applicable unless representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by thissection and such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services, see section 819(c) of Pub. L. 90–351, set out as a note under section 1761 of Title 18, Crimes and Criminal Procedure.
+Provisions of this section creating exemptions to Federal regulations on marketability of prison made goods are not applicable unless representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section and such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services, see section 819(c) of Pub. L. 90–351, set out as a note under section 1761 of Title 18, Crimes and Criminal Procedure.
 
 #### Exceptions and Exemptions
 

@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
 
-> &emsp;but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for, or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies.
+> &emsp;but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for,or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies.
 
 #### (2) Employee
 
@@ -196,7 +196,7 @@ Section 1(g) of Pub. L. 98–611, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6039D of this title and amending thissection and sections 125, 3231, and 6652 of this title\] shall apply to taxable years beginning after December 31, 1983.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6039D of this title and amending this section and sections 125, 3231, and 6652 of this title\] shall apply to taxable years beginning after December 31, 1983.
 
 “(2)
 
@@ -226,7 +226,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 Section 103(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13101(a)(2), Aug. 10, 1993, 107 Stat. 420.
 
-Section 7101(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
+Section 7101(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year,prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

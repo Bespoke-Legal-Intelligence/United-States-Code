@@ -10,7 +10,7 @@ Any rule specified in subsection (a) of this section shall not take effect if—
 
 &emsp;(1) within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to       and which was transmitted to the Congress on       and disapproves  the  rule  for  the  following  reasons:      .”; or
 
-&emsp;(2) within the 60 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the 30 calendar days of continuous session of the Congress which occur after the date of such transmittal.
+&emsp;(2) within the 60 calendar days of continuous session of the Congress which occur after thedate of the promulgation of such rule, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the 30 calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
 #### (c) Presumptions from Congressional action or inaction
 
@@ -24,9 +24,9 @@ For purposes of this section—
 
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
 
-(Pub. L. 92 573, §36, as added Pub. L. 97 35, title XII, §1207(a), Aug. 13, 1981, 95 Stat. 718.)
+(Pub. L. 92–573, §36, as added Pub. L. 97–35, title XII, §1207(a), Aug. 13, 1981, 95 Stat. 718.)
 
 #### Effective Date
 
-Section applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
+Section applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 

@@ -1,4 +1,4 @@
-### §12733 . Computation of retired pay: computation of years of service
+### §12733. Computation of retired pay: computation of years of service
 
 For the purpose of computing the retired pay of a person under this chapter, the person's years of service and any fraction of such a year are computed by dividing 360 into the sum of the following:
 

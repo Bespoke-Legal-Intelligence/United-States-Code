@@ -2,5 +2,5 @@
 
 The National Aeronautics and Space Administration shall utilize existing programs in technology transfer, aeronautics and space technology, and space commercialization to promote the commercial applications of high-temperature superconductors, including applications relating to thin film technology, communications technology, sensors, space power, and propulsion.
 
-(Pub. L. 100 697, §7, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, §7, Nov. 19, 1988, 102 Stat. 4615.)
 

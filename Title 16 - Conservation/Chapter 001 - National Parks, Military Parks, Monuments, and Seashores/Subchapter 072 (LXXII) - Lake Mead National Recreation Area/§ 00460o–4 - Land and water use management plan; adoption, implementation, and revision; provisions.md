@@ -1,4 +1,4 @@
-### §460<i>o</i>–4 . Land and water use management plan; adoption, implementation, and revision; provisions
+### §460<i>o</i>–4. Land and water use management plan; adoption, implementation, and revision; provisions
 
 In the administration of the area for the purposes of this subchapter, the Secretary of the Interior, subject to provisions of section 460<i>o</i>–3 of this title, shall adopt and implement, and may from time to time revise, a land and water use management plan, which shall include specific provision for, in order of priority—
 

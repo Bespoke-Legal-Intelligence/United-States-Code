@@ -116,7 +116,7 @@ Level IV of the Executive Schedule, referred to in subsec. (h)(9), is set out in
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
+Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1990 Amendment
 

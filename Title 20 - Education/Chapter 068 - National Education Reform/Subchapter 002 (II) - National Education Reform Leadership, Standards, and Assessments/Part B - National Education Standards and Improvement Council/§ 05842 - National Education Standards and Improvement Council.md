@@ -18,7 +18,7 @@ There is established in the executive branch a National Education Standards and 
 
 &emsp;&emsp;(B) The President shall appoint 12 individuals to the Council, of whom—
 
-&emsp;&emsp;&emsp;(i) 4 individuals shall be from nominations received from the Speaker of theHouse of Representatives, of whom 1 individual shall be from each of the categories described in clauses (i) through (iv) of subsection (c)(1)(A) of this section;
+&emsp;&emsp;&emsp;(i) 4 individuals shall be from nominations received from the Speaker of the House of Representatives, of whom 1 individual shall be from each of the categories described in clauses (i) through (iv) of subsection (c)(1)(A) of this section;
 
 &emsp;&emsp;&emsp;(ii) 4 individuals shall be from nominations received from the Majority Leader of the Senate, of whom 1 individual shall be from each of the categories described in clauses (i) through (iv) of subsection (c)(1)(A) of this section; and
 
@@ -102,7 +102,7 @@ A vacancy on the Council shall not affect the powers of the Council, but shall b
 
 #### (i) Compensation
 
-Members of the Council who are not regular full-time employees of the United States may,while attending meetings or hearings of the Council, be provided compensation at a rate fixed by the Secretary, but not exceeding the maximum rate of basic pay payable for GS 15 of the General Schedule.
+Members of the Council who are not regular full-time employees of the United States may, while attending meetings or hearings of the Council, be provided compensation at a rate fixed by the Secretary, but not exceeding the maximum rate of basic pay payable for GS–15 of the General Schedule.
 
 #### (j) Conflict of interest
 
@@ -128,11 +128,15 @@ Each member of the Council may be allowed travel expenses, including per diem in
 
 The members of the Council shall select officers from among its members. The officers of the Council shall serve for one-year terms.
 
-(Pub. L. 103 227, title II, §212, Mar. 31, 1994, 108 Stat. 139.)
+(Pub. L. 103–227, title II, §212, Mar. 31, 1994, 108 Stat. 139.)
 
 #### References in Text
 
 The General Schedule, referred to in subsec. (i), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

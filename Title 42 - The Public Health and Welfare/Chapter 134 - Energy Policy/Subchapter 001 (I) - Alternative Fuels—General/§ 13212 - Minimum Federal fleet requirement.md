@@ -62,7 +62,7 @@ There are authorized to be appropriated for carrying out this section, such sums
 
 #### Ex. Ord. No. 12844. Federal Use of Alternative Fueled Vehicles
 
-Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, provided:
+Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Energy Policy and Conservation Act, as amended (42 U.S.C. 6201 <i>et seq</i>.), the Motor Vehicle Information and Cost Savings Act, as amended (15 U.S.C. 1901 <i>et seq</i>.), the Energy Policy Act of 1992 (Public Law 102–486) \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -84,11 +84,13 @@ Sec. 6. <i>Reporting</i>. The head of each agency shall report annually to the S
 
 Sec. 7. <i>Definitions</i>. For the purpose of this order, the terms “agency” and “alternative fueled vehicle” have the same meanings given such terms in sections 151 and 301 of the Energy Policy Act of 1992 \[42 U.S.C. 8262, 13211\], respectively.
 
-Sec. 8. <i>Exceptions</i>. The Secretary of Defense, the Secretary of the Treasury, and the Attorney General, consistent with the national security and protective and law enforcement activities of their respective agencies, shall determine the extent to which the requirementsof this order apply to the national security and protective and law enforcement activities of their respective agencies.
+Sec. 8. <i>Exceptions</i>. The Secretary of Defense, the Secretary of the Treasury, and the Attorney General, consistent with the national security and protective andlaw enforcement activities of their respective agencies, shall determine the extent to which the requirements of this order apply to the national security and protective and law enforcement activities of their respective agencies.
 
 Sec. 9. <i>Judicial Review</i>. This order is not intended to create any right or benefit, substantive or procedural, enforceable by a non-Federal party against the United States, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[That portion of section 2 of Ex. Ord. No. 12844, set out above, that established the Federal Fleet Conversion Task Force was revoked by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.\]
 
 #### Section Referred to in Other Sections
 

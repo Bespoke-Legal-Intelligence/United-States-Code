@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a signatory operator which was a signatory to the 1988 National Bituminous Coal Wage Agreement,
 
-&emsp;&emsp;(B) an employer in the coal industry which was a signatory to an agreement containing pension and health care contribution and benefit provisions which are the same asthose contained in the 1988 National Bituminous Coal Wage Agreement, or
+&emsp;&emsp;(B) an employer in the coal industry which was a signatory to an agreement containing pension and health care contribution and benefit provisions which are the same as those contained in the 1988 National Bituminous Coal Wage Agreement, or
 
 &emsp;&emsp;(C) an employer from which contributions were actually received after 1987 and before July 20, 1992, by the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan in connection with employment in the coal industry during the period covered by the 1988 National Bituminous Coal Wage Agreement.
 

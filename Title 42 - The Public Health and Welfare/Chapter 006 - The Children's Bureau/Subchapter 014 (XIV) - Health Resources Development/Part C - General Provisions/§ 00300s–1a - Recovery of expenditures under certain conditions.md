@@ -4,7 +4,7 @@
 
 If any facility with respect to which funds have been paid under this subchapter shall, at any time within 20 years after the completion of construction or modernization—
 
-&emsp;(1) be sold or transferred to any entity (A) which is not qualified to file an application under section 300s–1 or 300t–12 of this title or (B) which is not approved as a transferee by the State Agency of the State in which such facility is located, or its successor, or
+&emsp;(1) be sold or transferred to any entity (A) which is not qualified to file an application under section 300s–1 or 300t–12 of this title or\(B) which is not approved as a transferee by the State Agency of the State in which such facility is located, or its successor, or
 
 &emsp;(2) cease to be a public health center or a public or other nonprofit hospital, outpatient facility, facility for long-term care, or rehabilitation facility,
 
@@ -30,7 +30,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(i) in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984, thirty days after such date or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section.<sup>1</sup>
 
-&emsp;(ii) in the case of a facility with respect to which notice is provided in accordance withsubsection (b) of this section, upon the expiration of 180 days after the receipt of such notice, or
+&emsp;(ii) in the case of a facility with respect to which notice is provided in accordance with subsection (b) of this section, upon the expiration of 180 days after the receipt of such notice, or
 
 &emsp;(iii) in the case of a facility with respect to which such notice is not provided as prescribed by subsection (b) of this section, on the date of the sale, transfer, or changes of use for which such notice was to be provided,
 

@@ -10,7 +10,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions
 
 #### Codification
 
-Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 
@@ -44,7 +44,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Performance of Functions of Secretary
 
-The Secretary of Commerce may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of Commerce of any function of the Secretary, including any function transferred to the Secretary by the provisions of this reorganization plan.
+The Secretary of Commerce may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or byany agency or employee, of the Department of Commerce of any function of the Secretary, including any function transferred to the Secretary by the provisions of this reorganization plan.
 
 #### Sec. 3. Administrative Assistant Secretary
 

@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1988—Pub. L. 100–398 inserted “agency” after “Executive” in section catchline and substituted “Executive agency (other than the General Accounting Office)” for “Executive department” in text.
+<b>1988</b>—Pub. L. 100–398 inserted “agency” after “Executive” in section catchline and substituted “Executive agency (other than the General Accounting Office)” for “Executive department” in text.
 
 #### Cross References
 

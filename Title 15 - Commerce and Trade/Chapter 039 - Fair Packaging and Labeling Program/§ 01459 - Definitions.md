@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;(2) shipping containers or outer wrappings used by retailers to ship or deliver any commodity to retail customers if such containers and wrappings bear no printed matter pertaining to any particular commodity; or
 
-&emsp;(3) containers subject to the provisions of the Act of August 3, 1912 (37 Stat. 250, as amended; 15 U.S.C. 231 233), or the Act of March 4, 1915 (38 Stat. 1186, as amended; 15 U.S.C. 234 236).
+&emsp;(3) containers subject to the provisions of the Act of August 3, 1912 (37 Stat. 250, as amended; 15 U.S.C. 231–233), or the Act of March 4, 1915 (38 Stat. 1186, as amended; 15 U.S.C. 234–236).
 
 (c) The term “label” means any written, printed, or graphic matter affixed to any consumer commodity or affixed to or appearing upon a package containing any consumer commodity.
 
@@ -30,13 +30,13 @@ For the purpose of this chapter—
 
 (f) The term “principal display panel” means that part of a label that is most likely to be displayed, presented, shown, or examined under normal and customary conditions of display for retail sale.
 
-(Pub. L. 89 755, §10, Nov. 3, 1966, 80 Stat. 1301; Pub. L. 90 628, §2, Oct. 22, 1968, 82 Stat. 1320.)
+(Pub. L. 89–755, §10, Nov. 3, 1966, 80 Stat. 1301; Pub. L. 90–628, §2, Oct. 22, 1968, 82 Stat. 1320.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92 516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The eighth paragraph under the heading “Bureau of Animal Industry” of the Virus-Serum-Toxin Act, referred to in subsec. (a)(2), is classified to chapter 5 (§151 et seq.) of Title 21, Food and Drugs.
 
@@ -46,9 +46,9 @@ The Federal Seed Act, referred to in subsec. (a)(5), is act Aug. 9, 1939, ch. 61
 
 #### Amendments
 
-1968—Subsec. (b)(3). Pub. L. 90 628 struck out reference to the Act of August 31, 1916, and the Act of May 21, 1928.
+1968—Subsec. (b)(3). Pub. L. 90–628 struck out reference to the Act of August 31, 1916, and the Act of May 21, 1928.
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90 628 effective 60 days after Oct. 22, 1968, see section 3 of Pub. L. 90 628, set out as a note under section 251 of this title.
+Amendment by Pub. L. 90–628 effective 60 days after Oct. 22, 1968, see section 3 of Pub. L. 90–628, set out as a note under section 251 of this title.
 

@@ -16,7 +16,7 @@ For the purpose of obtaining public comment through publication in the Federal R
 
 The Secretary shall publish such proposed procedures, standards, and criteria in the Federal Register.
 
-(Pub. L. 103 227, title II, §216, Mar. 31, 1994, 108 Stat. 148.)
+(Pub. L. 103–227, title II, §216, Mar. 31, 1994, 108 Stat. 148.)
 
 #### Section Referred to in Other Sections
 

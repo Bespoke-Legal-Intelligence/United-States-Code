@@ -76,7 +76,7 @@ Certification and Report.—The Secretary may exercise the authority under subse
 
 &emsp;“(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) \[see Tables for classification\] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 \[set out below\] with the least possible adverse effect on the Armed Forces.”
 
-Pub. L. 99–661, div. A, title IV, §403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, §402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189, div. A, title VI, §653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, §1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that:
+Pub. L. 99–661, div. A, title IV, §403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, §402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189,div. A, title VI, §653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, §1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that:
 
 “(a)
 

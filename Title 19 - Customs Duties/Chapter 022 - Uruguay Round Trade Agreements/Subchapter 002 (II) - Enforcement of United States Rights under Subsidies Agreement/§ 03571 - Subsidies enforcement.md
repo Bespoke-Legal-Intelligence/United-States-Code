@@ -26,7 +26,7 @@ The administering authority shall provide information to the public upon request
 
 #### (2) Request by interested party regarding adverse effects
 
-&emsp;An interested party may request the administering authority to determine if there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causingadverse effects. The request shall contain such information as the administering authority may require to support the allegations contained in the request. At the request of the administering authority, the Commission shall assist the administering authority in analyzing the information pertaining to the existence of such adverse effects. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;An interested party may request the administering authority to determine if there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects. The request shall contain such information as the administering authority may require to support the allegations contained in the request. At the request of the administering authority, the Commission shall assist the administering authority in analyzing the information pertaining to the existence of such adverse effects. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (d) Initiation of section 2411 investigation
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and CountervailingMeasures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 

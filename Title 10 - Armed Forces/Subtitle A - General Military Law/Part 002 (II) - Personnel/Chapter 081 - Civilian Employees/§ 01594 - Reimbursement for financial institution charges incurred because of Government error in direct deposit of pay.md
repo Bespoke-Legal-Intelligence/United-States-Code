@@ -10,11 +10,15 @@
 
 (d) In this section:
 
-&emsp;(1) The term “financial institution” has the meaning given the term “financial organization” in section 3332(a) of title 31.
+&emsp;(1) The term “financial institution” has the meaning given the term “financial organization” in section 3332(a) <sup>1</sup> of title 31.
 
 &emsp;(2) The term “pay” includes allowances.
 
 (Added Pub. L. 101–189, div. A, title VI, §664(b)(1), Nov. 29, 1989, 103 Stat. 1466; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(6), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115.)
+
+#### References in Text
+
+Section 3332 of title 31, referred to in subsec. (d)(1), was amended generally by Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412, and, as so amended, does not contain a definition of “financial organization”.
 
 #### Amendments
 
@@ -25,4 +29,6 @@
 #### Effective Date
 
 Section applicable with respect to pay and allowances deposited (or scheduled to be deposited) on or after first day of first month beginning after Nov. 29, 1989, see section 664(c) of Pub. L. 101–189, set out as an Effective Date of 1989 Amendment note under section 1053 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

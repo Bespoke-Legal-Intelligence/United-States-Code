@@ -1,0 +1,62 @@
+### §1738f. Environmental framework agreements
+
+#### (a) Authority
+
+The President is authorized to enter into an environmental framework agreement with each country eligible for benefits from the Facility concerning the operation and use of an Enterprise for the Americas Environmental Fund (hereafter referred to in this subchapter as the “Environmental Fund”) established under section 1738g of this title for that country. The President shall consult with the Board established under section 1738i of this title when entering into such agreements.
+
+#### (b) Requirements
+
+An environmental framework agreement entered into under this section shall—
+
+&emsp;(1) require the eligible country to establish an Environmental Fund;
+
+&emsp;(2) require the eligible country to make interest payments under section 1738g(a) of this title into the Environmental Fund;
+
+&emsp;(3) require the eligible country to make prompt disbursements from the Environmental Fund to the body described in subsection (c) of this section;
+
+&emsp;(4) where appropriate, seek to maintain the value of the local currency resources deposited into the appropriate Environmental Fund in terms of United States dollars;
+
+&emsp;(5) specify, in accordance with section 1738k of this title, the purposes for which the Environmental Fund may be used; and
+
+&emsp;(6) contain reasonable provisions for the enforcement of the terms of the agreement.
+
+#### (c) Administering body
+
+Funds disbursed from the Environmental Fund in an eligible country shall be administered by a body constituted under the laws of the country. Such body shall—
+
+&emsp;(1) be composed of—
+
+&emsp;&emsp;(A) one or more representatives appointed by the President;
+
+&emsp;&emsp;(B) one or more representatives appointed by the eligible country; and
+
+&emsp;&emsp;(C) representatives from a broad range of environmental and local community development nongovernmental organizations of the host country;
+
+> &emsp;the majority of which shall be local representatives from nongovernmental organizations, and scientific or academic bodies;
+
+&emsp;(2) receive proposals for grant assistance from local organizations, and make grants to such organizations in accordance with the priorities agreed upon in the framework agreement and consistent with the overall purposes of section 1738k of this title;
+
+&emsp;(3) be responsible for the management of the program and oversight of grant activities funded from resources of the Environmental Fund;
+
+&emsp;(4) be subject to fiscal audits by an independent auditor on an annual basis;
+
+&emsp;(5) present an annual program for review by the Board established under section 1738i of this title each year;
+
+&emsp;(6) present an annual report on the activities undertaken during the previous year to the Chairman of the Board established under section 1738i of this title, and the government of the eligible country each year; and
+
+&emsp;(7) have any grant over $100,000 be subject to veto by the United States and the government of the eligible country.
+
+(July 10, 1954, ch. 469, title VI, §607, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3659; amended Dec. 13, 1991, Pub. L. 102–237, title III, §305, 105 Stat. 1855.)
+
+#### Amendments
+
+1991—Subsec. (a). Pub. L. 102–237 moved closing quotation marks in parenthetical phrase from after “Environmental” to after “Fund”.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State by section 3(a) of Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1738e, 1738g, 1738h, 1738i, 1738k of this title; title 12 section 635i–6.
+

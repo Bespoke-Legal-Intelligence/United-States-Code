@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck o
 
 1980—Subsec. (b). Pub. L. 96–222, §104(a)(2)(B)(i), substituted in subsec. (b), as subsec. (b) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”.
 
-Subsec. (c). Pub. L. 96–222, §104(a)(3)(A), substituted in heading “Transitional rule” for “Taxable years which include January 1, 1979”, in provisions preceding par. (2) “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980” for “If for any taxable year beginning before January 1, 1979, and ending after December 31, 1978”, and in par. (2)(A)(ii) “gain or loss properly taken into account for the portion of the taxable year” for “sales and exchanges”.
+Subsec. (c). Pub. L. 96–222, §104(a)(3)(A), substituted in heading “Transitional rule” for “Taxable years which include January 1, 1979”, in provisions preceding par. (2) “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980” for “If for any taxable year beginning before January 1, 1979, and ending after December 31, 1978”, and in par.\(2)(A)(ii) “gain or loss properly taken into account for the portion of the taxable year” for “sales and exchanges”.
 
 Pub. L. 96–222, §104(a)(2)(B)(ii), substituted in subsec. (c), as subsec. (c) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”, redesignated cls. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) as so redesignated, substituted “determined by multiplying the sum referred to in subsection (b)(2)(A) by a fraction” for “equal to 50 percent of the sum referred to in subsection (b)(2)(A)” and added subpars. (A) and (B).
 
@@ -128,7 +128,7 @@ Amendment by section 2004(<i>l</i>) of Pub. L. 100–647 effective, except as ot
 
 Section 311(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 593, 631, 852, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986.”
 
-Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 

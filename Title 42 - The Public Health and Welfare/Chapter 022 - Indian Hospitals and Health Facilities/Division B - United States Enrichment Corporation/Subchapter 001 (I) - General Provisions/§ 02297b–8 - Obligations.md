@@ -36,7 +36,7 @@ Bonds issued by the Corporation under this section shall not be obligations of, 
 
 #### (A) Right of disapproval
 
-&emsp;&emsp;The Corporation may set the terms and conditions of bonds issued under this section, subject to disapproval of such terms and conditions by the Secretary of the Treasury within 5 days after the Secretary of the Treasury is notified of the following terms and conditions of the bonds:
+&emsp;&emsp;The Corporation may set the terms and conditions of bonds issued under this section, subject to disapproval of such terms and conditions by the Secretary of theTreasury within 5 days after the Secretary of the Treasury is notified of the following terms and conditions of the bonds:
 
 &emsp;&emsp;&emsp;(i) Their forms and denominations.
 

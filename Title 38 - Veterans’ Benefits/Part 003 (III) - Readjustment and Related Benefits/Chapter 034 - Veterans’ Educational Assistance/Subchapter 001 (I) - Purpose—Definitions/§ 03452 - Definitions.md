@@ -4,13 +4,13 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (a)(1) The term “eligible veteran” means any veteran who—
 
-&emsp;(A) served on active duty for a period of more than 180 days, any part of which occurred after January 31, 1955, and before January 1, 1977, and was discharged or releasedtherefrom under conditions other than dishonorable; or
+&emsp;(A) served on active duty for a period of more than 180 days, any part of which occurred after January 31, 1955, and before January 1, 1977, and was discharged or released therefrom under conditions other than dishonorable; or
 
 &emsp;(B) contracted with the Armed Forces and was enlisted in or assigned to a reserve component prior to January 1, 1977, and as a result of such enlistment or assignment served on active duty for a period of more than 180 days, any part of which commenced within 12 months after January 1, 1977, and was discharged or released from such active duty under conditions other than dishonorable; or
 
 &emsp;(C) was discharged or released from active duty, any part of which was performed after January 31, 1955, and before January 1, 1977, or following entrance into active service from an enlistment provided for under clause (B) of this paragraph, because of a service-connected disability.
 
-(2) The requirement of discharge or release, prescribed in paragraph (1)(A) or (B), shall be waived in the case of any individual who served more than one hundred and eighty days in an active-duty status for so long as such individual continues on active duty without a break therein.
+(2) The requirement of discharge or release, prescribed in paragraph (1)(A) or (B), shall bewaived in the case of any individual who served more than one hundred and eighty days in an active-duty status for so long as such individual continues on active duty without a break therein.
 
 (3) For purposes of paragraph (1)(A) and section 3461(a), the term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 511(d) <sup>1</sup> of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve unless at some time subsequent to the completion of such period of active duty for training such individual served on active duty for a consecutive period of one year or more (not including any service as a cadet or midshipman at one of the service academies).
 
@@ -32,7 +32,7 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (g) The term “standard college degree” means an associate or higher degree awarded by (1) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (2) an institution of higher learning that is a “candidate” for accreditation as that term is used by the regional or national accrediting agencies; or (3) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II,§201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ Section 511 of title 10, referred to in subsec. (a)(3)(C), was renumbered sectio
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) to (d) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, 1176, which was classified to former sections 1601(a)(2) and 1611(a)(1), and 1601(a)(3), (5), and (6) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a) to (d) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, 1176, which was classified toformer sections 1601(a)(2) and 1611(a)(1), and 1601(a)(3), (5), and (6) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

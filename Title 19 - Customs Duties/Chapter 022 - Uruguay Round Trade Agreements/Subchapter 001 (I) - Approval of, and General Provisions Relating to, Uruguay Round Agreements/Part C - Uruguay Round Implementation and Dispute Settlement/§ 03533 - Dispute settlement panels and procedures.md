@@ -2,7 +2,7 @@
 
 #### (a) Review by President
 
-The President shall review annually the WTO panel roster and shall include the panel roster and the list of persons serving on the AppellateBody in the annual report submitted by the President under section 2213(a) of this title.
+The President shall review annually the WTO panel roster and shall include the panel roster and the list of persons serving on the Appellate Body in the annual report submitted by the President under section 2213(a) of this title.
 
 #### (b) Qualifications of appointees to panels
 
@@ -76,7 +76,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 #### (h) Consultations regarding review of WTO rules and procedures
 
-Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994,together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
+Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994, together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
 
 (Pub. L. 103–465, title I, §123, Dec. 8, 1994, 108 Stat. 4830.)
 

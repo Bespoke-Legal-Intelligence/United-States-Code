@@ -136,6 +136,10 @@ In clause (11), the words “public streets, roads, or” are added for consiste
 
 In clause (12)(C), the words “involving a fatality” are substituted for “arising in connection with a fatal traffic accident” to eliminate unnecessary words.
 
+#### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
+
+For provisions relating to waiver of requirements of this chapter with respect to vehicles used for snow or ice removal, see section 345(a)(5) of Pub. L. 104–59, set out as a note under section 31136 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 521, 31316 of this title; title 21 section 849.

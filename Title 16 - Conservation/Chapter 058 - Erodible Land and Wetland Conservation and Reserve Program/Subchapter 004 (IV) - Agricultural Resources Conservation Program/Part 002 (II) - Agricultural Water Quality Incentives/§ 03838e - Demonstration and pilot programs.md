@@ -2,7 +2,7 @@
 
 #### (a) Demonstration and model farm programs
 
-To the extent practicable and consistent with the requirements of the program established under this part and the priority described in section 3838c(b) of this title, the Secretary may enter into contracts under this part with owners and operators to facilitate the participation by such owners or operators in demonstration or model farm programs that are sponsored by governmental or private nonprofit entities and are designed to provide education on, disseminate information about, and demonstrate the practical application of agricultural production practices that reduce the potential for contamination or degradation of surface water or ground water while emphasizing practices that enhance profitability and productivity.
+To the extent practicable and consistent with the requirements of the program establishedunder this part and the priority described in section 3838c(b) of this title, the Secretary may enter into contracts under this part with owners and operators to facilitate the participation by such owners or operators in demonstration or model farm programs that are sponsored by governmental or private nonprofit entities and are designed to provide education on, disseminate information about, and demonstrate the practical application of agricultural production practices that reduce the potential for contamination or degradation of surface water or ground water while emphasizing practices that enhance profitability and productivity.
 
 #### (b) Pilot programs
 

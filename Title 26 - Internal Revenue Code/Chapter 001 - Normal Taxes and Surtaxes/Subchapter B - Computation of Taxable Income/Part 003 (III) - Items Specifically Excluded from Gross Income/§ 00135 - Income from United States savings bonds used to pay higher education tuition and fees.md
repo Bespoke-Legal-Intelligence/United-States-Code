@@ -20,7 +20,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 #### (B) Applicable fraction
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable fraction” means the fraction thenumerator of which is the amount described in subparagraph (A)(ii) and the denominator of which is the amount described in subparagraph (A)(i).
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable fraction” means the fraction the numerator of which is the amount described in subparagraph (A)(ii) and the denominator of which is the amount described in subparagraph (A)(i).
 
 #### (2) Limitation based on modified adjusted gross income
 
@@ -110,9 +110,9 @@ For purposes of this section—
 
 (Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 1995
+#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 1996
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 1995, see section 3.07 of Revenue Procedure 94–72, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 1996, see section 3.07 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

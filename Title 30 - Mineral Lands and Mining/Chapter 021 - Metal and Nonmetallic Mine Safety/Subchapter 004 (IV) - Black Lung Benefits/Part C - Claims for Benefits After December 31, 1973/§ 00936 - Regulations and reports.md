@@ -6,15 +6,21 @@ The Secretary of Labor, the Commissioner of Social Security, and the Secretary o
 
 #### (b) Annual reports to Congress
 
-Within 120 days following the convening of each session of Congress the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part.
+At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part. Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.
 
 #### (c) Compliance with State workmen's compensation laws; conflicts between State and Federal provisions
 
 Nothing in this subchapter shall relieve any operator of the duty to comply with any State workmen's compensation law, except insofar as such State law is in conflict with the provisions of this subchapter and the Secretary by regulation, so prescribes. The provisions of any State workmen's compensation law which provide greater benefits than the benefits payable under this subchapter shall not thereby be construed or held to be in conflict with the provisions of this subchapter.
 
-(Pub. L. 91–173, title IV, §426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §5(3), May 19, 1972, 86 Stat. 155; Pub. L. 103–296, title I, §108(i)(3), Aug. 15, 1994, 108 Stat. 1488.)
+(Pub. L. 91–173, title IV, §426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §5(3), May 19, 1972, 86Stat. 155; Pub. L. 103–296, title I, §108(i)(3), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–66, title I, §1102(b)(2), Dec. 21, 1995, 109 Stat. 723.)
+
+#### References in Text
+
+Section 942 of title 33, referred to in subsec. (b), was in the original “section 42 of the Longshore Harbor Worker's Compensation Act” and was translated as reading “section 42 of the Longshore and Harbor Workers’ Compensation Act” to reflect the probable intent of Congress.
 
 #### Amendments
+
+1995—Subsec. (b). Pub. L. 104–66 substituted “At the end of each fiscal year, the” for “Within 120 days following the convening of each session of Congress the” and inserted at end “Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.”
 
 1994—Subsec. (a). Pub. L. 103–296, §108(i)(3)(A), substituted “, the Commissioner of Social Security, and the Secretary of Health and Human Services” for “and the Secretary of Health, Education, and Welfare”.
 
@@ -25,4 +31,8 @@ Subsec. (b). Pub. L. 103–296, §108(i)(3)(B), substituted “Commissioner of S
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 33 section 942.
 

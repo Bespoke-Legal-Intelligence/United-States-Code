@@ -4,7 +4,7 @@
 
 Payments made under this chapter may be used to establish and operate the Center, to bring together major independent researchers from the Center's member-institutions focused on the most significant workplace problems with the aim of analysis and synthesis of policy implications and dissemination of findings, and to support the following activities:
 
-&emsp;(1) The coordination and funding of research activities of the Center's member-institutions for collaborative collection and evaluation of data on changes and trends in the workplaceand in the labor force, on established and emerging public policy issues, on the economic and occupational structures, and on work organizations and employment conditions.
+&emsp;(1) The coordination and funding of research activities of the Center's member-institutions for collaborative collection and evaluation of data on changes and trends in the workplace and in the labor force, on established and emerging public policy issues, on the economic and occupational structures, and on work organizations and employment conditions.
 
 &emsp;(2) The analysis of the public policy implications of social and demographic changes in the United States as they relate to the workplace.
 

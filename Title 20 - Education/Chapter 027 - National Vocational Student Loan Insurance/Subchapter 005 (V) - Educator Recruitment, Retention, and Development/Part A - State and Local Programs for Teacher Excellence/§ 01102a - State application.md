@@ -84,17 +84,17 @@ The application required by subsection (a) of this section shall identify the pr
 
 #### (1) Report to Secretary
 
-&emsp;Each State educational agency receiving an allotment under this part shall evaluate the work of each academy that is located in the State and assisted under this part every 2 years, including the impact of each academy's programs on participants, and report the findings of such evaluation to the Secretary. The initial report shall be submitted 3 years after funds are first allotted to such State educational agency under section 1102 of this titleand subsequent reports shall be submitted every 2 years thereafter. Such report shall also describe the characteristics of the participants and activities provided at each academy assisted under this part.
+&emsp;Each State educational agency receiving an allotment under this part shall evaluate thework of each academy that is located in the State and assisted under this part every 2 years, including the impact of each academy's programs on participants, and report the findings of such evaluation to the Secretary. The initial report shall be submitted 3 years after funds are first allotted to such State educational agency under section 1102 of this title and subsequent reports shall be submitted every 2 years thereafter. Such report shall also describe the characteristics of the participants and activities provided at each academy assisted under this part.
 
 #### (2) Report to Congress
 
 &emsp;The Secretary shall submit to the Congress a summary of the reports required under subsection (a) of this section. The initial summary shall be submitted 60 days after the due date of the first report described in subsection (a) of this section and subsequent summaries shall be submitted every 2 years thereafter.
 
-(Pub. L. 89 329, title V, §502, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 656.)
+(Pub. L. 89–329, title V, §502, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 656.)
 
 #### Prior Provisions
 
-A prior section 502 of Pub. L. 89 329, title V, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, authorized appropriations for this subchapter and was classified to section 1101a of this title, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 502 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, authorized appropriations for this subchapter and was classified to section 1101a of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 502 of Pub. L. 89 329, title V, as added Pub. L. 90 35, §2(c), June 29, 1967, 81 Stat. 82; amended Pub. L. 91 230, title IV, §401(h)(4), title VIII, §802, Apr. 13, 1970, 84 Stat. 174, 190; Pub. L. 92 318, title I, §141(c)(1)(A), June 23, 1972, 86 Stat. 285, established National Advisory Council on Education Professions Development and set forth functions, composition, etc., of Council and was classified to section 1091a of this title, prior to repeal by Pub. L. 94 482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+Another prior section 502 of Pub. L. 89–329, title V, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; amended Pub. L. 91–230, title IV, §401(h)(4), title VIII, §802, Apr. 13, 1970, 84 Stat. 174, 190; Pub. L. 92–318, title I, §141(c)(1)(A), June 23, 1972, 86 Stat. 285, established National Advisory Council on Education Professions Development and set forth functions, composition, etc., of Council and was classified to section 1091a of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 

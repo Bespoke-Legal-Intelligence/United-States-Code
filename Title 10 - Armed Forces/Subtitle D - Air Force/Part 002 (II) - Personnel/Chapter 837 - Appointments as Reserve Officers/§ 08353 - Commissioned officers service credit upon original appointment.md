@@ -18,7 +18,7 @@
 
 &emsp;(E) Additional credit for experience as a physician or dentist, if appointed with a view to designation as a medical or dental officer.
 
-(2) Except as authorized by the Secretary of the Air Force in individual cases and under regulations prescribed by the Secretary of Defense in the case of an officer appointed with a view to designation as a medical or dental officer, the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of major.
+(2) Except as authorized by the Secretary of the Air Force in individual cases and under regulations prescribed by the Secretary of Defense in the case of an officer appointed with a view to designation as a medical or dental officer, the amount of constructive service credited an officer under this subsection may not exceed theamount required in order for the officer to be eligible for an original appointment in the grade of major.
 
 (3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer or his designation in or assignment to an officer category in which advanced education or training or special experience is required or will be directly used.
 
@@ -68,7 +68,7 @@ Subsec. (b)(1)(E), (F). Pub. L. 103–160, §509(d)(2), (3), redesignated subpar
 
 1987—Subsec. (b)(1)(B). Pub. L. 100–180 designated existing provisions as cl. (i) and added cl. (ii).
 
-1983—Pub. L. 98–94 substituted “this chapter and chapter 863” for “chapters 837 or 863” and inserted“, the National Oceanic and Atmospheric Administration, or the Public Health Service”.
+1983—Pub. L. 98–94 substituted “this chapter and chapter 863” for “chapters 837 or 863” and inserted “, the National Oceanic and Atmospheric Administration, or the Public Health Service”.
 
 1981—Subsec. (a)(1). Pub. L. 97–22, §7(a)(1)–(4), substituted “For the purpose of chapters 837 and 863 of this title and under regulations prescribed by the Secretary of Defense, a person receiving an original appointment as a reserve commissioned officer in the Air Force, or receiving a designation in or assignment to an officer category in which advanced education or training or special experience is required or will be directly used, shall be credited at the time of such appointment, designation, or assignment with any service as a commissioned officer, except service as a commissioned warrant officer, that he performed as a regular officer on active duty or as a reserve officer in an active status in any armed force before such appointment, designation, or assignment” for “For the purpose of chapters 337 and 363 of this title and under regulations prescribed by the Secretary of Defense, a person receiving an original appointment as a reserve commissioned officer in the Air Force shall be credited at the time of such appointment with any service as a commissioned officer, except service as a commissioned warrant officer, that he performed in an active status in any armed force before such appointment”.
 

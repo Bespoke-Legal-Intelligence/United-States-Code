@@ -26,7 +26,7 @@ This subchapter, referred to in subsec. (c), was in the original “this Act”,
 
 #### Short Title
 
-Section 1 of Pub. L. 96–35 provided that: “This Act \[enacting this subchapter and sections 2349, 2349a, and2349b of this title\] may be cited as the ‘Special International Security Assistance Act of 1979’.”
+Section 1 of Pub. L. 96–35 provided that: “This Act \[enacting this subchapter and sections 2349, 2349a, and 2349b of this title\] may be cited as the ‘Special International Security Assistance Act of 1979’.”
 
 Pub. L. 97–132, §1, Dec. 29, 1981, 95 Stat. 1693, provided that: “This joint resolution \[enacting subchapter II of this chapter\] may be cited as the ‘Multinational Force and Observers Participation Resolution’.”
 

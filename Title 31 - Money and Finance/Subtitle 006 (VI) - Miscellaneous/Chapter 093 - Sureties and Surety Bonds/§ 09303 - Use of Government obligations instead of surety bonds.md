@@ -32,7 +32,7 @@
 
 (d) When security is no longer required, a Government obligation given instead of a surety bond shall be returned to the person giving the obligation. If a person, supplying labor or material to a contractor defaulting under the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d), files with the United States Government the application and affidavit provided under section 3 of the Act (40 U.S.C. 270c), the Government—
 
-&emsp;(1) may return to the contractor the Government obligation given as security (or proceedsof the Government obligation given) under the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d), only after the 90-day period for bringing a civil action under section 2 of the Act (40 U.S.C. 270b); and
+&emsp;(1) may return to the contractor the Government obligation given as security (or proceeds of the Government obligation given) under the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d), only after the 90-day period for bringing a civil action under section 2 of the Act (40 U.S.C. 270b); and
 
 &emsp;(2) if a civil action is brought in the 90-day period, shall hold the Government obligation or the proceeds subject to the order of the court having jurisdiction of the action.
 

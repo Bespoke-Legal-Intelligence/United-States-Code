@@ -28,7 +28,7 @@ Subchapter III of chapter 59 of title 5, relating to overseas differentials and 
 
 #### Coordination of Pay and Employment Practices
 
-For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in orderto develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
+For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
 #### Section Referred to in Other Sections
 

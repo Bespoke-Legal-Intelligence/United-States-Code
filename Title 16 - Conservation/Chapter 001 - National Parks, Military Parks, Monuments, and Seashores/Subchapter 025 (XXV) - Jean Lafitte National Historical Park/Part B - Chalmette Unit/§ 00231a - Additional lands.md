@@ -12,7 +12,7 @@ Chalmette National Historical Park redesignated Chalmette Unit of Jean Lafitte N
 
 Section 5 of Pub. L. 87–759, Oct. 9, 1962, 76 Stat. 756, provided:
 
-“Within the boundaries of Chalmette National Historical Park as designated by the Secretary of the Interior on March 20, 1958, pursuant to the Act of August 10, 1939 (53 Stat. 1342), and depicted on drawing numberedNHP–CHAL–7008, said Secretary, notwithstanding the proviso in section 3 of said Act, is hereby authorized to acquire the following lands and interests in lands with funds heretofore appropriated and otherwise available for such purpose;
+“Within the boundaries of Chalmette National Historical Park as designated by the Secretary of the Interior on March 20, 1958, pursuant to the Act of August 10, 1939 (53 Stat. 1342), and depicted on drawing numbered NHP–CHAL–7008, said Secretary, notwithstanding the proviso in section 3 of said Act, is hereby authorized to acquire the following lands and interests in lands with funds heretofore appropriated and otherwise available for such purpose;
 
 “Beginning at the point of intersection of the west line of Fazendeville Road with a line 50 feet south of southerly boundary of right-of-way of the Louisiana Southern Railway at coordinate point X—2,425,730.76 and Y—467,506.11; (the bearings and coordinates herein stated are in accord with the Louisiana geodetic survey plane grid system); and running thence south 66 degrees 32 minutes 46 seconds east, parallel to said southerly boundary of right-of-way of Louisiana Southern Railway, a distance of 30 feet to coordinate point X—2,425,758.28 and Y—467,494.17; thence south 23 degrees 45 minutes 21 seconds west for a distance of 917.90 feet along the east right-of-way of Fazendeville Road to a point;
 

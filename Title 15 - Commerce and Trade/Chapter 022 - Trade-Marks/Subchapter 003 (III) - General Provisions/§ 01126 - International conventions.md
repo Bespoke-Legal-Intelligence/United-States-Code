@@ -2,7 +2,7 @@
 
 #### (a) Register of marks communicated by international bureaus
 
-The Commissioner shall keep a register of all marks communicated to him by the international bureaus provided for by the conventions for the protection of industrial property, trade-marks, trade and commercial names, and the repression of unfair competition to which the United States is or may become a party, and upon the payment of the fees required by such conventions and the fees required in this chapter may place the marks so communicated upon such register. This register shall show a facsimile of the mark or trade or commercial name; the name, citizenship, and address of the registrant; the number, date, and place of the first registration of the mark, including the dates on which application for such registration was filed and granted and the term of such registration; a list of goods or services to which the mark is applied as shown by the registration inthe country of origin, and such other data as may be useful concerning the mark. This register shall be a continuation of the register provided in section 1(a) of the Act of March 19, 1920.
+The Commissioner shall keep a register of all marks communicated to him by the international bureaus provided for by the conventions for the protection of industrial property, trade-marks, trade and commercial names, and the repression of unfair competition to which the United States is or may become a party, and upon the payment of the fees required by such conventions and the fees required in this chapter may place the marks so communicated upon such register. This register shall show a facsimile of the mark or trade or commercial name; the name, citizenship, and address of the registrant; the number, date, and place of the first registration of the mark, including the dates on which application for such registration was filed and granted and the term of such registration; a list of goods or services to which the mark is applied as shown by the registration in the country of origin, and such other data as may be useful concerning the mark. This register shall be a continuation of the register provided in section 1(a) of the Act of March 19, 1920.
 
 #### (b) Benefits of section to persons whose country of origin is party to convention or treaty
 
@@ -34,7 +34,7 @@ A mark duly registered in the country of origin of the foreign applicant may be 
 
 #### (f) Domestic registration independent of foreign registration
 
-The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) of this section shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
+The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) ofthis section shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
 
 #### (g) Trade or commercial names of foreign nationals protected without registration
 
@@ -52,7 +52,7 @@ Citizens or residents of the United States shall have the same benefits as are g
 
 #### References in Text
 
-Section 1(a) of the Act of March 19, 1920, referred to in subsec. (a), is section 1(a) of act Mar. 19, 1920, ch. 104,41 Stat. 533, which was classified to section 121(a) of this title, and repealed by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444, insofar as inconsistent with this chapter.
+Section 1(a) of the Act of March 19, 1920, referred to in subsec. (a), is section 1(a) of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(a) of this title, and repealed by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444, insofar as inconsistent with this chapter.
 
 #### Prior Provisions
 

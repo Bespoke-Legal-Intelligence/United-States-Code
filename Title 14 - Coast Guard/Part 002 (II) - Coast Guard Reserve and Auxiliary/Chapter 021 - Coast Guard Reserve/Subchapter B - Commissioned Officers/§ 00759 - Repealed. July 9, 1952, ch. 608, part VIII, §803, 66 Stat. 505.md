@@ -1,4 +1,4 @@
-### \[§759 . Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505\]
+### \[§759. Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505\]
 
 Section, act Aug. 4, 1949, ch. 393, 63 Stat. 553, related to uniform allowance.
 

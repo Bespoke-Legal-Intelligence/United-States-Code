@@ -2,7 +2,7 @@
 
 #### (a) Establishment; boundaries
 
-There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled “Boundary Map, Manassas National Battlefield Park”, dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 460<i>l</i>–9(c) of this title, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
+There is established as a unit of the national park system in the Commonwealth of Virginiathe Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled “Boundary Map, Manassas National Battlefield Park”, dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 460<i>l</i>–9(c) of this title, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
 
 #### (b) Addition to park
 
@@ -14,7 +14,7 @@ There is established as a unit of the national park system in the Commonwealth o
 
 (C) In the absence of a negotiated settlement, or an action by the owner, within 1 year after November 10, 1988, the Secretary may initiate a proceeding at anytime seeking in a court of competent jurisdiction a determination of just compensation with respect to the taking of such property.
 
-(3) Not later than 6 months after November 10, 1988, the Secretary shall publish in the Federal Register a detailed description and map depicting the boundaries of the Addition. The mapshall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+(3) Not later than 6 months after November 10, 1988, the Secretary shall publish in the Federal Register a detailed description and map depicting the boundaries of the Addition. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
 #### (c) Use of addition
 

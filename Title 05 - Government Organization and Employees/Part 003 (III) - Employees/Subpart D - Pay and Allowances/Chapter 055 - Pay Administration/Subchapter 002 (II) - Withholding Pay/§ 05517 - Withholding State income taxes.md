@@ -8,7 +8,7 @@
 
 > the Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of the State withholding statute in the case of employees of the agency who are subject to the tax and whose regular place of Federal employment is within the State with which the agreement is made. In the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made”.
 
-(b) This section does not give the consent of the United States to the application of a statute which imposes more burdensome requirementson the United States than on other employers, or which subjects the United States or its employees to a penalty or liability because of this section. An agency of the United States may not accept pay from a State for services performed in withholding State income taxes from the pay of the employees of the agency.
+(b) This section does not give the consent of the United States to the application of a statute which imposes more burdensome requirements on the United States than on other employers, or which subjects the United States or its employees to a penalty or liability because of this section. An agency of the United States may not accept pay from a State for services performed in withholding State income taxes from the pay of the employees of the agency.
 
 (c) For the purpose of this section, “State” means a State or territory or possession of the United States.
 
@@ -50,11 +50,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Subsec. (d)(2). Pub. L. 103–337 substituted “section 10147” for “section 270(a)”.
+<b>1994</b>—Subsec. (d)(2). Pub. L. 103–337 substituted “section 10147” for “section 270(a)”.
 
-1987—Subsec. (d). Pub. L. 100–180 struck out “do not” before “include”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–180 struck out “do not” before “include”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
 
 Subsec. (d). Pub. L. 94–455, §1207(b), added subsec. (d).
 

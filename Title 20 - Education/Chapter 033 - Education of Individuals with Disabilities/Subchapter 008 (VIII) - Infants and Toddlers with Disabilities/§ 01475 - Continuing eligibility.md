@@ -80,7 +80,7 @@ Notwithstanding subsections (a) and (b) of this section, a State which has in ef
 
 #### (A) Fiscal year 1990
 
-&emsp;&emsp;The amount by which the allotment computed under section 1484 of this title for any State for fiscal year 1990 exceeds the amount that such State may be allotted under paragraph (4)(A) of this subsection (and, notwithstanding section 1484(d) of this title, any fiscal year 1990 funds allotted to any State that such State elects not to receive) shall be reallotted, notwithstanding the percentage limitations set forth in sections<sup>1</sup> 1484(a) and (b) of this title, among those States satisfying the eligibility criteria of subsection (b)(1) of this section for the fourth year of participation that have submitted an application by a date that the Secretary may establish in an amount which bears the same ratio to such amount as the amount of such State's allotment under section 1484 of this title as modified by this subsection in such fiscal year bears to the amount of all such States’ allotment under section 1484 of this title as modified by this subsection in such fiscal year.
+&emsp;&emsp;The amount by which the allotment computed under section 1484 of this title for any State for fiscal year 1990 exceeds the amount that such State may be allotted under paragraph (4)(A) of this subsection (and, notwithstanding section 1484(d) of this title, any fiscal year 1990 funds allotted to any State that such State elects not to receive) shall be reallotted, notwithstanding the percentage limitations set forth in sections <sup>1</sup> 1484(a) and (b) of this title, among those States satisfying the eligibility criteria of subsection (b)(1) of this section for the fourth year of participation that have submitted an application by a date that the Secretary may establish in an amount which bears the same ratio to such amount as the amount of such State's allotment under section 1484 of this title as modified by this subsection in such fiscal year bears to the amount of all such States’ allotment under section 1484 of this title as modified by this subsection in such fiscal year.
 
 #### (B) Fiscal year 1991 or 1992
 
@@ -110,37 +110,37 @@ Notwithstanding subsections (a) and (b) of this section, a State which has in ef
 
 &emsp;&emsp;(C) the Department of the Interior.
 
-(Pub. L. 91 230, title VI, §675, as added Pub. L. 99 457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100 630, title I, §108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101 476, title IX, §901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102 52, §10, June 6, 1991, 105 Stat. 263; Pub. L. 102 119, §§19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607.)
+(Pub. L. 91–230, title VI, §675, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100–630, title I, §108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–52, §10, June 6, 1991, 105 Stat. 263; Pub. L. 102–119, §§19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607.)
 
 #### Amendments
 
-1991—Pub. L. 102 119, §25(b), amended directory language of Pub. L. 101 476. See 1990 Amendment note below.
+1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476. See 1990 Amendment note below.
 
-Subsec. (e). Pub. L. 102 52 added subsec. (e).
+Subsec. (e). Pub. L. 102–52 added subsec. (e).
 
-Subsec. (e)(4)(B). Pub. L. 102 119, §19(c)(1)(A), inserted “under this subchapter” after “receive a payment”.
+Subsec. (e)(4)(B). Pub. L. 102–119, §19(c)(1)(A), inserted “under this subchapter” after “receive a payment”.
 
-Subsec. (e)(4)(C). Pub. L. 102 119, §19(c)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)
+Subsec. (e)(4)(C). Pub. L. 102–119, §19(c)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)
 
 Minimum.—Beginning in fiscal year 1991, the payment under this subchapter to each of the 50 States, the District of Columbia, and Puerto Rico shall not be less than $500,000.”
 
-Subsec. (e)(6). Pub. L. 102 119, §19(c)(2)(A), inserted “, except as provided in paragraph (4)(C),” before “means”.
+Subsec. (e)(6). Pub. L. 102–119, §19(c)(2)(A), inserted “, except as provided in paragraph (4)(C),” before “means”.
 
-Subsec. (e)(6)(A). Pub. L. 102 119, §19(c)(2)(B), inserted “the Commonwealth of” before “Puerto Rico”.
+Subsec. (e)(6)(A). Pub. L. 102–119, §19(c)(2)(B), inserted “the Commonwealth of” before “Puerto Rico”.
 
-1990—Subsec. (d). Pub. L. 101 476, as amended by Pub. L. 102 119, §25(b), substituted “children with disabilities” for “handicapped children”.
+1990—Subsec. (d). Pub. L. 101–476, as amended by Pub. L. 102–119, §25(b), substituted “children with disabilities” for “handicapped children”.
 
-1988—Subsec. (a). Pub. L. 100 630, §108(c)(1), substituted “an assurance” for “assurances”.
+1988—Subsec. (a). Pub. L. 100–630, §108(c)(1), substituted “an assurance” for “assurances”.
 
-Subsec. (b)(1)(C). Pub. L. 100 630, §108(c)(2), substituted “in order to comply with” for “with respect to”.
+Subsec. (b)(1)(C). Pub. L. 100–630, §108(c)(2), substituted “in order to comply with” for “with respect to”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1478 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

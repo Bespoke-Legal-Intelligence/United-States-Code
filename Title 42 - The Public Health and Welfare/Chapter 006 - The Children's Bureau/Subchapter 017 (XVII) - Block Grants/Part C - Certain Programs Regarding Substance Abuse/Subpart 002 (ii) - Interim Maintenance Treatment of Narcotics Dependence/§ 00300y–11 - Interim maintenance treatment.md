@@ -26,7 +26,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 #### (2) Evaluation by Secretary
 
-&emsp;In evaluating whether any or all of the conditions described in paragraph (1) have beenmet, the Secretary shall consult with the National Commission on Acquired Immune Deficiency Syndrome.
+&emsp;In evaluating whether any or all of the conditions described in paragraph (1) have been met, the Secretary shall consult with the National Commission on Acquired Immune Deficiency Syndrome.
 
 #### (c) Conditions for obtaining authorization from Secretary
 

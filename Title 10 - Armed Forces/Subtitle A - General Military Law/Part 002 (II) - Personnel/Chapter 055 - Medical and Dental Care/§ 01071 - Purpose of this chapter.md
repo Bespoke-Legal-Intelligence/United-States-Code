@@ -1,6 +1,6 @@
 ### §1071. Purpose of this chapter
 
-The purpose of this chapter is to create and maintain high morale in the uniformed services by providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
+The purpose of this chapter is to create and maintain high morale in the uniformed servicesby providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(34)(A), (B), Dec. 12, 1980, 94 Stat. 2922.)
 

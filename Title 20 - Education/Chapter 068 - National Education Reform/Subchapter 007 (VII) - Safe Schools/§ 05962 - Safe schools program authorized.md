@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From funds appropriated pursuant to the authority of subsection (b)(1) of this section, the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six<sup>1</sup> of the National Education Goals by helping to ensure that all schools are safe and free of violence.
+&emsp;From funds appropriated pursuant to the authority of subsection (b)(1) of this section, the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six <sup>1</sup> of the National Education Goals by helping to ensure that all schools are safe and free of violence.
 
 #### (2) Grant duration and amount
 
@@ -16,7 +16,7 @@
 
 #### (3) Geographic distribution
 
-&emsp;To the extent practicable, grants under this subchapter shall be awarded to eligible localeducational agencies serving rural, as well as urban, areas.
+&emsp;To the extent practicable, grants under this subchapter shall be awarded to eligible local educational agencies serving rural, as well as urban, areas.
 
 #### (b) Authorization of appropriations and reservation
 
@@ -28,11 +28,11 @@
 
 &emsp;The Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title, of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title.
 
-(Pub. L. 103 227, title VII, §702, Mar. 31, 1994, 108 Stat. 204.)
+(Pub. L. 103–227, title VII, §702, Mar. 31, 1994, 108 Stat. 204.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5966 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “Goal Seven”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Goal Seven”.</i>
 

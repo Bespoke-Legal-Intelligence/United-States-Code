@@ -2,11 +2,11 @@
 
 #### (a) Aid, counsel, assistance, etc., to small business concerns
 
-The essence of the American economic system of private enterprise is free competition. Onlythrough full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
+The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
 
 #### (b) Assistance to compete in international markets
 
-(1) It is the declared policy of the Congress that the Federal Government, through the Small Business Administration, acting in cooperation with the Department of Commerce and other relevant State and Federal agencies, should aid and assist small businesses, as defined under this chapter, to increase their ability to compete in international markets by—
+(1) It is the declared policy of the Congress that the Federal Government, through the Small Business Administration, acting in cooperation with the Department of Commerceand other relevant State and Federal agencies, should aid and assist small businesses, as defined under this chapter, to increase their ability to compete in international markets by—
 
 &emsp;(A) enhancing their ability to export;
 
@@ -120,7 +120,7 @@ None of the funds made available pursuant to this chapter may be used to provide
 
 #### Codification
 
-This chapter was originally enacted as title II of act July 30, 1953, ch. 282, 67 Stat. 232, and designated as the “Small Business Act of 1953”. Title II of act July 30, 1953, was amended by acts June 30, 1955, ch. 251, §4, 69 Stat. 225; Aug. 9, 1955, ch. 628, 69 Stat. 547; Feb. 2, 1956, ch. 29, §§1, 2, 70 Stat. 10; Pub. L. 85–4, §§1, 2, Feb. 11, 1957, 71 Stat. 1; Pub. L. 85–120, §§1, 2, Aug. 3, 1957, 71 Stat. 341; Pub. L. 85–335, Feb. 22, 1958, 72 Stat. 27. Section 1 of Pub. L. 85–536 withdrew title II of act July 30, 1953, as part of that act, and made title II a separate act to be known as the “Small Business Act”. The Small Business Act, as amended by Pub. L. 85–536, is classified to this chapter.
+This chapter was originally enacted as title II of act July 30, 1953, ch. 282, 67 Stat. 232, and designated as the “Small Business Act of 1953”. Title II of act July 30, 1953, was amended by acts June 30, 1955, ch. 251, §4, 69Stat. 225; Aug. 9, 1955, ch. 628, 69 Stat. 547; Feb. 2, 1956, ch. 29, §§1, 2, 70 Stat. 10; Pub. L. 85–4, §§1, 2, Feb. 11, 1957, 71 Stat. 1; Pub. L. 85–120, §§1, 2, Aug. 3, 1957, 71 Stat. 341; Pub. L. 85–335, Feb. 22, 1958, 72 Stat. 27. Section 1 of Pub. L. 85–536 withdrew title II of act July 30, 1953, as part of that act, and made title II a separate act to be known as the “Small Business Act”. The Small Business Act, as amended by Pub. L. 85–536, is classified to this chapter.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ In General.—Except as otherwise provided, the following provisions (and the am
 
 &emsp;“(7) Sections 601 and 603 \[amending section 644 of this title\].
 
-&emsp;“(8) Titles VII and VIII \[amending section 632 of this title and section 541 of Title 40, Public Buildings,Property, and Works, enacting provisions set out as notes under sections 632, 636, and 644 of this title, and amending provisions set out as a note under section 644 of this title\].
+&emsp;“(8) Titles VII and VIII \[amending section 632 of this title and section 541 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under sections 632, 636, and 644 of this title, and amending provisions set out as a note under section 644 of this title\].
 
 &emsp;“(9) Sections 7(j)(13)(G) and 7(j)(13)(I) of the Small Business Act \[section 636(j)(13)(G), (I) of this title\] (as added by section 301(b)).
 
@@ -240,6 +240,10 @@ Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 
 
 Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–36, §1, Oct. 12, 1995, 109 Stat. 295, provided that: “This Act \[amending sections 634, 636, and 697 of this title, enacting provisions set out as a note under section 634 of this title, and amending provisions set out as a note under section 694b of this title\] may be cited as the ‘Small Business Lending Enhancement Act of 1995’.”
+
 #### Short Title of 1994 Amendment
 
 Section 1(a) of Pub. L. 103–403 provided that: “This Act \[enacting sections 697d to 697f of this title, amending this section and sections 632 to 634, 634d, 636 to 638, 644, 648, 652, 656, 683, 687, and 697 of this title, repealing section 697e of this title, enacting provisions set out as notes under this section and sections 634b, 636, 637, 644, 661, and 697d to 697f of this title, amending provisions set out as notes under this section and sections 633, 636, 637, and 694b of this title, and repealing provisions set out as a note under section 697 of this title\] may be cited as the ‘Small Business Administration Reauthorization and Amendments Act of 1994’.”
@@ -260,7 +264,7 @@ Pub. L. 102–366, §1(a), Sept. 4, 1992, 106 Stat. 986, provided that: “This 
 
 Pub. L. 102–366, title I, §101, Sept. 4, 1992, 106 Stat. 987, provided that: “This subtitle \[subtitle A (§§101–104) of title I of Pub. L. 102–366, amending section 636 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Small Business Credit Crunch Relief Act of 1992’.”
 
-Pub. L. 102–366, title I, §111, Sept. 4, 1992, 106 Stat. 989, provided that: “This subtitle \[subtitle B (§§111–115) of title I of Pub. L. 102–366, amending section 636 of this title, enacting provisions set out as notes under section636 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Microlending Expansion Act of 1992’.”
+Pub. L. 102–366, title I, §111, Sept. 4, 1992, 106 Stat. 989, provided that: “This subtitle \[subtitle B (§§111–115) of title I of Pub. L. 102–366, amending section 636 of this title, enacting provisions set out as notes under section 636 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Microlending Expansion Act of 1992’.”
 
 #### Short Title of 1991 Amendment
 
@@ -318,7 +322,7 @@ Pub. L. 95–315, §1, July 4, 1978, 92 Stat. 377, provided: “That this Act \[
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–386 provided: “That this Act \[enacting section 694c of this title, amending this section, sections 633, 634, 636, 639, 647, 694, and 694b of this title, and sections 2855, 2942, 2949, and 2982 of Title 42, The Public Health and Welfare, repealing sections 2901, 2902, 2905, 2906, 2906a, 2906b, 2906c, and 2907 of Title 42,and enacting provisions set out as notes under sections 633 and 694 of this title\] may be cited as the ‘Small Business Amendments of 1974’.”
+Section 1 of Pub. L. 93–386 provided: “That this Act \[enacting section 694c of this title, amending this section, sections 633, 634, 636, 639, 647, 694, and 694b of this title, and sections 2855, 2942, 2949, and 2982 of Title 42, The Public Health and Welfare, repealing sections 2901, 2902, 2905, 2906, 2906a, 2906b, 2906c, and 2907 of Title 42, and enacting provisions set out as notes under sections 633 and 694 of this title\] may be cited as the ‘Small Business Amendments of 1974’.”
 
 #### Short Title of 1967 Amendment
 
@@ -614,55 +618,11 @@ Pub. L. 102–366, title I, §103, Sept. 4, 1992, 106 Stat. 988, provided that: 
 
 #### National Seminar on Small Business Exports
 
-Pub. L. 102–366, title II, §224, Sept. 4, 1992, 106 Stat. 1000, provided that:
-
-“(a)
-
-Seminar.—The Administration shall conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo '93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies. The Seminar shall build upon the information collected by the Administration through previously conducted regional small business trade conferences and the prior conference in the State of Washington.
-
-“(b)
-
-Assistance by Experts.—For the purpose of ascertaining facts and developing policy recommendations concerning the expansion of United States exports from small companies, the Seminar shall bring together individuals who are experts in the fields of international trade and small business development and representatives of small businesses, associations, the labor community, academic institutions, and Federal, State and local governments.
-
-“(c)
-
-Recommendations Concerning Utility of International Conference.—The Seminar shall specifically consider the utility of, and make recommendations regarding, a subsequent International Conference on Small Business and Trade that would—
-
-&emsp;“(1) help establish linkages between United States small business owners and small business owners in foreign countries;
-
-&emsp;“(2) enable United States small business owners to learn how others organize themselves for exporting; and
-
-&emsp;“(3) foster greater consideration of small business concerns in the GATT and other international trade agreements to which the United States is a signatory.”
+Pub. L. 102–366, title II, §224, Sept. 4, 1992, 106 Stat. 1000, directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo '93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar to build upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
 
 #### Feasibility Study of Business Cooperation Network
 
-Pub. L. 101–574, title II, §233, Nov. 15, 1990, 104 Stat. 2825, provided that:
-
-“(a)
-
-In General.—The Administrator of the Small Business Administration shall conduct a study of the feasibility of establishing a business cooperation system similar to the Business Cooperation Network developed by the European Economic Community.
-
-“(b)
-
-Purpose.—The purpose of the study shall be to identify—
-
-&emsp;“(1) the total cost to implement such a system in this country;
-
-&emsp;“(2) all existing business data systems at the Federal, state \[sic\] local government levels which would be of assistance in developing a program similar to either the Euro-Info-Centre and/or the European Business Cooperation Network;
-
-&emsp;“(3) all existing business data systems in the private sector which would be of assistance in developing a program similar to either the Euro-Info-Centre and/or the European Business Cooperation Network;
-
-&emsp;“(4) the amount of time it would take to fully implement this program in all fifty States; and
-
-&emsp;“(5) the benefits to the international competitiveness of the United States.
-
-“(c)
-
-Participation.—In conducting the study, the Administrator shall encourage participation of all appropriate Federal departments and agencies, appropriate State departments and agencies, appropriate small business representative groups, and any other public and/or private entities which would play a role in the development of such a system.
-
-“(d)
-
-Report.—Not later than one year after the date of the enactment of this Act \[Nov. 15, 1990\], the Administrator shall transmit to Congress a report containing the results of the study together with recommendations for such legislative and administrative actions as the Administrator considers appropriate.”
+Pub. L. 101–574, title II, §233, Nov. 15, 1990, 104 Stat. 2825, directed Administrator of the Small Business Administration to conduct a study of feasibility of establishing a business cooperation system similar to Business Cooperation Network developed by the European Economic Community, specified the purpose of the study, and directed Administrator, not later than one year after Nov. 15, 1990, to transmit to Congress a report containing the results of the study together with recommendations for such legislative and administrative actions as the Administrator considered appropriate.
 
 #### Development of Women's Business Enterprise
 
@@ -732,7 +692,7 @@ Appointments.—
 
 &emsp;&emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the head of each department and agencylisted in paragraph (1) shall, not later than 45 days after the date of enactment of the Small Business Administration Reauthorization and Amendments Act of 1994 \[Oct. 22, 1994\], designate a representative who shall be a policymaking official within the department or agency.
+In general.—Except as provided in subparagraph (B), the head of each department and agency listed in paragraph (1) shall, not later than 45 days after the date of enactment of the Small Business Administration Reauthorization and Amendments Act of 1994 \[Oct. 22, 1994\], designate a representative who shall be a policymaking official within the department or agency.
 
 &emsp;&emsp;“(B)
 
@@ -840,7 +800,7 @@ Vacancies.—A vacancy on the Council shall, not later than 30 days after the da
 
 “(g)
 
-Reimbursements.—Members of the Council shall serve without pay for such membership, except that members shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Council, inthe same manner as persons serving on advisory boards pursuant to section 8(b) of the Small Business Act \[15 U.S.C. 637(b)\].
+Reimbursements.—Members of the Council shall serve without pay for such membership, except that members shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Council, in the same manner as persons serving on advisory boards pursuant to section 8(b) of the Small Business Act \[15 U.S.C. 637(b)\].
 
 “(h)
 
@@ -888,29 +848,11 @@ Section 504 of Pub. L. 100–533 provided that: “Nothing contained in this Act
 
 #### Globalization of Production; Report to Congress
 
-Section 8009 of Pub. L. 100–418 directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United States subcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Government policy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
+Section 8009 of Pub. L. 100–418 directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United Statessubcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Government policy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
 
 #### National Seminar on Small Business Exports
 
-Section 8011 of Pub. L. 100–418 provided that:
-
-“(a)
-
-Seminar.—The Administration shall conduct a National Seminar on Small Business Exports within one year following enactment of this Act \[Aug. 23, 1988\] in order to develop recommendations designed to stimulate exports from small companies. The Seminar shall build upon the information collected by the Administration through previously conducted regional small business trade conferences.
-
-“(b)
-
-Assistance by Experts.—For the purpose of ascertaining facts and developing policy recommendations concerning the expansion of United States exports from small companies the Seminar shall bring together individuals who are experts in the fields of international trade and small business development and representatives of small businesses, associations, the labor community, academic institutions, and Federal, State and local governments.
-
-“(c)
-
-Recommendations Concerning Utility of International Conference.—The Seminar shall specifically consider the utility of, and make recommendations regarding, a subsequent International Conference on Small Business and Trade that would—
-
-&emsp;“(1) help establish linkages between United States small business owners and small business owners in foreign countries;
-
-&emsp;“(2) enable United States small business owners to learn how others organize themselves for exporting; and
-
-&emsp;“(3) foster greater consideration of small business concerns in the GATT.”
+Section 8011 of Pub. L. 100–418 directed Small Business Administration to conduct a National Seminar on Small Business Exports within one year after Aug. 23, 1988, in order to develop recommendations designed to stimulate exports from small companies.
 
 #### Appointment of Administrator of Small Business Administration to Trade Policy Committee; Special Trade Assistant for Small Business in Office of United States Trade Representative
 
@@ -924,117 +866,7 @@ Section 8012 of Pub. L. 100–418 provided that:
 
 #### White House Conference on Small Business
 
-Pub. L. 101–409, Oct. 5, 1990, 104 Stat. 885, as amended by Pub. L. 103–81, §10, Aug. 13, 1993, 107 Stat. 783, provided: “That this Act may be cited as the ‘White House Conference on Small Business Authorization Act’.
-
-#### “authorization of conference
-
-“
-
-Sec. 2. (a) The President shall call and conduct a National White House Conference on Small Business (hereinafter referred to as the ‘National Conference’) not earlier than May 1, 1995, and not later than September 30, 1995, to carry out the purposes described in section 3 of this Act. The National Conference shall be preceded by State conferences, with at least one such conference being held in each State, and with at least two conferences being held in any State with a population of ten million or more. The State conferences shall be held not earlier than March 1, 1994, and at their conclusion shall be followed by regional meetings of delegates in at least six cities prior to the National Conference.
-
-“(b) Participants in the National Conference and other interested individuals and organizations, are authorized to conduct activities at the State and regional level prior to the date of the National Conference, and shall direct such activities toward the consideration of the purposes of the National Conference.
-
-“(c) The National Conference shall be conducted under the general supervision and direction of the White House Conference on Small Business Commission (hereinafter referred to as the ‘Commission’) established in section 5 of this Act.
-
-#### “purpose of conference
-
-“
-
-Sec. 3. The purpose of the National Conference shall be to increase public awareness of the essential contribution of small business; to identify the problems of small business; to examine the status of minorities and women as small business owners; to assist small business in carrying out its role as the Nation's job creator; to assemble small businesses (particularly those who are not actively involved in small business or trade organizations) to develop such specific and comprehensive recommendations for executive and legislative action as may be appropriate for maintaining and encouraging the economic viability of small business and, thereby, the Nation; and to review the status of recommendations adopted at the 1986 White House Conference on Small Business.
-
-#### “conference participants
-
-“
-
-Sec. 4. (a) In order to carry out the purposes specified in section 3 of this Act, the National Conference shall bring together individuals concerned with issues relating to small business: <i>Provided</i>, That no owner, officer or employee of a small business concern may be denied admission to any State conference, nor may any fee or charge be imposed on any such owner, officer or employee except an amount to cover the cost of any meal provided plus a registration fee of not to exceed $10. The Commission may not impose any fees or charges except as specified in this subsection and may not accept any gifts of money from any source. Amounts collected as fees and charges shall be used solely to pay the cost of meals provided and to defray the expense of meeting rooms. The Commission shall—
-
-&emsp;“(1) keep a record of all receipts and disbursements as directed by the Administrator of the Small Business Administration;
-
-&emsp;“(2) open and maintain an account in an institution whose accounts are insured by an instrumentality of the United States, into which account all receipts shall be deposited and from which all payments shall be disbursed; and
-
-&emsp;“(3) provide such periodic financial reports to the Small Business Administration as the Administrator may request.
-
-“(b) Delegates, including alternates, to the National Conference shall be elected by participants at the State conferences: <i>Provided</i>, That each Governor and each chief executive official of the political subdivisions enumerated in section 4(a) of the Small Business Act \[15 U.S.C. 633(a)\] may appoint one delegate and one alternate: <i>Provided further</i>, That each Member of the United States House of Representatives, including each Delegate, and each Member of the United States Senate may appoint one delegate and one alternate: and <i>Provided further</i>, That the President may appoint one hundred delegates and alternates. Only owners, employees or corporate officers of small businesses shall be eligible for appointment or election pursuant to this subsection, and delegates may be elected only at the conference for the State in which he or she resides.
-
-#### “commission
-
-“
-
-Sec. 5. (a) There is hereby established a White House Conference on Small Business Commission. Subsequent to the date of enactment of this Act \[probably means date of enactment of Pub. L. 103–81, which was approved Aug. 13, 1993\], but not later than 30 days after the date of enactment of this Act, the President shall select and appoint eleven individuals to the Commission. The commissioners shall be responsible for the overall preparation for and conduct of the National Conference, including the issuance of the report specified in section 7 of this Act.
-
-“(b) At least seven of the individuals appointed shall be small business owners, employees or corporate officers of a small business. Other members may include representatives of businesses (other than small), associations, or educational institutions.
-
-“(c) Not more than six of the Commissioners shall be of the same political party. No member shall be an officer or employee of the Federal Government, in either the executive branch or the Congress.
-
-“(d) Commissioners shall be appointed for a term which shall expire on the date the report is submitted, except if the status of any such appointee changes so that he or she would have been ineligible for appointment, such individual may continue as a Commissioner for not longer than a thirty-day period beginning on the date such individual becomes ineligible.
-
-“(e) A vacancy shall be filled in the manner in which the original appointment was made.
-
-“(f) Commissioners shall serve without pay, except they shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their functions in the same manner as persons employed intermittently in the Federal Goverment \[sic\] are allowed expenses under section 5703 of title 5, United States Code.
-
-“(g) Six Commissioners shall constitute a quorum for the transaction of business. Meetings shall be at the call of the Chairperson who shall be designated by the President.
-
-“(h) The Commission shall have an executive director who shall be appointed by the Chairperson, and such other staff as it deems appropriate. The executive director and other personnel may be appointed without regard to section 531(b) \[5311(b)\] of title 5, United States Code, and without regard to the provisions of such title governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
-
-“(i) The Commission may procure temporary and intermittent services under section 3109(b) of title 5 of the United States Code but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
-
-“(j) Upon request of the Chairperson, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of such department or agency to the Commission to assist in carrying out the National Conference without regard to section 3341 of title 5 of the United States Code. Except as otherwise prohibited by law, the Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this Act. Upon the request of the Chairperson, the head of such department or agency shall promptly furnish such information to the Commission.
-
-“(k) The Administrator of the General Service Administration shall provide to the Commission, on a reimbursable basis, such administrative support services as the Commission may request.
-
-#### “planning and administration of conference
-
-“
-
-Sec. 6. (a) In order to facilitate the carrying out of the provisions of this Act, the Administrator of the Small Business Administration—
-
-&emsp;“(1) shall provide such assistance as may be necessary for the organization and conduct of conferences at the State and regional levels as authorized under section 2 of this Act;
-
-&emsp;“(2) is authorized to enter into contracts with public agencies, private organizations, business entities and academic institutions to carry out the provisions of this Act: <i>Provided</i>, That the Administrator shall coordinate any such contracting in advance with the Commission if it has met and organized; and
-
-&emsp;“(3) shall prescribe such financial controls and accounting procedures for the handling of income received by the Commission as fees and charges and the payment by the Commission of authorized meal and meeting room expenses.
-
-“(b) The Chief Counsel for Advocacy shall assist in carrying out the provisions of this Act by preparing and providing background materials for use by participants in the National Conference, as well as by participants in State and regional conferences.
-
-“(c) The White House Conference on Small Business Commission shall conduct appropriate outreach efforts to obtain the participation, at both State conferences and at the National Conference, of individuals who are not actively involved in small business or trade organizations.
-
-“(d)
-
-Expenses.—(1) Each delegate to the National Conference shall pay his or her expenses of attending the Conference. However, prior to the National Conference, any delegate may seek reimbursement from the Conference upon written application establishing that his or her anticipated expenses would constitute a financial burden.
-
-“(2) The Commission shall adopt rules, guidelines, and procedures to implement this provision. No delegate shall be reimbursed for any expense except transportation, meals and lodging and shall not be reimbursed at more than the rates provided to employees of the Federal Government who travel to Washington, DC, on official business during the time when the National Conference is held.
-
-“(3) At the beginning of each State conference, all attendees shall be advised of this provision and any rules or procedures adopted by the Commission to implement it.
-
-“(4) A separate accounting for these reimbursed expenses shall be provided to the Small Business Administration.
-
-#### “reports required
-
-“
-
-Sec. 7. (a) Not more than four months from the date on which the National Conference is convened, a final report of the National Conference shall be submitted to the President and the Congress. The report shall include the findings and recommendations of the delegates as well as proposals for any legislative action necessary to implement their recommendations. The report shall be available to the public.
-
-“(b) At the same time, the Commission shall—
-
-&emsp;“(1) provide a final financial report to the Small Business Administration and shall deliver to the Agency all of its financial books and records; and
-
-&emsp;“(2) deposit in the Treasury of the United States, for crediting as miscellaneous receipts, any monies collected as fees and charges pursuant to the authority of this Act which remain unexpended.
-
-#### “followup actions
-
-“
-
-Sec. 8. The Small Business Administration shall report to the Congress annually during the three-year period following the submission of the final report of the National Conference on the status and implementation of the findings and recommendations.
-
-#### “availability of funds
-
-“
-
-Sec. 9. (a) There are hereby authorized to be appropriated for fiscal year 1992, or any year thereafter, not to exceed $5,000,000 to carry out the provisions of this Act, and such sums shall remain available until expended. New spending authority or authority to enter contracts as provided in this Act shall be effective only to such extent and in such amounts as are provided in advance in appropriations Acts.
-
-“(b) No funds appropriated to the Small Business Administration shall be made available to carry out the provisions of this Act other than funds appropriated specifically for the purpose of conducting the National Conference. Any funds remaining unexpended at the termination of the National Conference, including submission of the report pursuant to section 7, shall be returned to the Treasury of the United States and credited as miscellaneous receipts.”
-
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+Pub. L. 101–409, Oct. 5, 1990, 104 Stat. 885, as amended by Pub. L. 103–81, §10, Aug. 13, 1993, 107 Stat. 783, directed President to conduct National White House Conference on Small Business not earlier than May 1, 1995, and not later than Sept. 30, 1995, to increase public awareness of essential contribution of small business, to identify obstacles to small business, to examine status of women and minorities as small business owners, and to develop specific recommendations for action to maintain and encourage economic viability of small business, further provided for creation of White House Conference on Small Business Commission to oversee preparation for Conference, further provided for selection of Conference participants as well as planning and administration of Conference, further provided for final report to be submitted not later than four months after convening of Conference as well as annual follow-up reports by Small Business Administration for three years after submission of final report, and further provided for authorization of appropriations.
 
 Pub. L. 98–276, May 8, 1984, 98 Stat. 169, directed President to call and conduct a National White House Conference on Small Business not later than Sept. 1, 1986, with Conference to submit a final report to President and Congress not more than six months from date on which Conference convened, and with that final report to include finding and recommendations of Conference as well as proposals for any legislative action necessary to implement Conference's recommendations; and required Small Business Administration to report to Congress annually during the 3-year period following submission of final report on status and implementation of findings and recommendations of Conference.
 
@@ -1048,7 +880,7 @@ Pub. L. 96–185, §17, Jan. 7, 1980, 93 Stat. 1335, directed Administrator of S
 
 #### Executive Order No. 11458
 
-Ex. Ord. No. 11458, Mar. 5, 1969, 34 F.R. 4937, which related to a national program for minority business enterprise, was superseded by Ex. Ord. No. 11625, Oct. 13, 1971, 36 F.R. 19967, set out as a note below.
+Ex. Ord. No. 11458, Mar. 5, 1969, 34 F.R. 4937, which related to a national program for minority business enterprise, was superseded by Ex. Ord. No. 11625, Oct. 13, 1971, 36 F.R. 19967, set out below.
 
 #### Ex. Ord. No. 11625. National Program for Minority Business Enterprise
 
@@ -1178,7 +1010,7 @@ Functions of the Committee
 
 The Committee shall in a manner consistent with law:
 
-1–301. Promote, coordinate and monitor the plans, programs and operations of the departments and agencies of the Executive Branch which may contribute tothe establishment, preservation and strengthening of women's business enterprise. It may, as appropriate, develop comprehensive interagency plans and specific program goals for women's business enterprise with the cooperation of the departments and agencies.
+1–301. Promote, coordinate and monitor the plans, programs and operations of the departments and agencies of the Executive Branch which may contribute to the establishment, preservation and strengthening of women's business enterprise. It may, as appropriate, develop comprehensive interagency plans and specific program goals for women's business enterprise with the cooperation of the departments and agencies.
 
 1–302. Establish such policies, definitions, procedures and guidelines to govern the implementation, interpretation and application of this order, and generally perform such functions and take such steps as the Committee may deem to be necessary or appropriate to achieve the purposes and carry out the provisions hereof.
 
@@ -1190,7 +1022,7 @@ The Committee shall in a manner consistent with law:
 
 1–306. Consider the findings and recommendations of government and private sector investigations and studies of the problems of women entrepreneurs, and promote further research into such problems.
 
-1–307. Design a comprehensive and innovative plan for a joint Federal and private sector effort to develop increased numbers of new women-owned businesses and larger and more successful women-owned businesses. The plan should set specific reasonable targets which can be achieved at reasonable and identifiable costs and should provide for the measurement of progress towards these targets at the end of two and five years. Related outcomes such as income and tax revenues generated, jobs created, new products and services introduced or new domestic or foreign markets created should also be projected and measured in relation to costs wherever possible. The Committee should submit the plan to the President for approval within six months of the effective date of this Order.
+1–307. Design a comprehensive and innovative plan for a joint Federal and private sector effort to develop increased numbers of new women-owned businesses and larger and more successful women-owned businesses. The plan should set specific reasonable targets which can be achieved at reasonable and identifiable costsand should provide for the measurement of progress towards these targets at the end of two and five years. Related outcomes such as income and tax revenues generated, jobs created, new products and services introduced or new domestic or foreign markets created should also be projected and measured in relation to costs wherever possible. The Committee should submit the plan to the President for approval within six months of the effective date of this Order.
 
 #### 1–4.
 

@@ -24,13 +24,13 @@ For purposes of this chapter:
 
 &emsp;(5) The term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 95 561, title XIV, §1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101 189, div. A, title III, §325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101 510, div. A, title V, §504(b), Nov. 5, 1990, 104 Stat. 1559.)
+(Pub. L. 95–561, title XIV, §1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III, §325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, §504(b), Nov. 5, 1990, 104 Stat. 1559.)
 
 #### Amendments
 
-1990—Par. (5). Pub. L. 101 510 added par. (5).
+1990—Par. (5). Pub. L. 101–510 added par. (5).
 
-1989—Par. (2). Pub. L. 101 189 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘sponsor’ means—
+1989—Par. (2). Pub. L. 101–189 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘sponsor’ means—
 
 &emsp;“(A) a member of the Armed Forces serving on active duty, or
 
@@ -38,7 +38,7 @@ For purposes of this chapter:
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101 189 applicable with respect to periods of enrollment in schools of the defense dependents’ education system beginning after Sept. 30, 1989, see section 325(c) of Pub. L. 101 189, set out as a note under section 923 of this title.
+Amendment by Pub. L. 101–189 applicable with respect to periods of enrollment in schools of the defense dependents’ education system beginning after Sept. 30, 1989, see section 325(c) of Pub. L. 101–189, set out as a note under section 923 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

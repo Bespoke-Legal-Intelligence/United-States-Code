@@ -16,7 +16,7 @@ Any project assisted with funds made available under subchapter II of this chapt
 
 (1) Vocational education services and activities authorized in subchapter II of this chapter may include work-site programs such as cooperative vocational education, programs with community-based organizations, work-study, and apprenticeship programs.
 
-(2) Vocational education services and activities described in subchapter II of this chaptermay include placement services for students who have successfully completed vocational education programs.
+(2) Vocational education services and activities described in subchapter II of this chapter may include placement services for students who have successfully completed vocational education programs.
 
 (3) Vocational education services and activities described in subchapter II of this chapter may include programs which involve students in addressing the needs of the community in the production of goods or services which contribute to the community's welfare or which involve the students with other community development planning, institutions, and enterprises.
 
@@ -24,9 +24,9 @@ Any project assisted with funds made available under subchapter II of this chapt
 
 Each State board receiving financial assistance under subchapter II of this chapter may consider granting academic credit for vocational education courses which integrate core academic competencies.
 
-(Pub. L. 88 210, title V, §516, as added Pub. L. 101 392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833.)
+(Pub. L. 88–210, title V, §516, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833.)
 
 #### Effective Date
 
-Section effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Section effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
 

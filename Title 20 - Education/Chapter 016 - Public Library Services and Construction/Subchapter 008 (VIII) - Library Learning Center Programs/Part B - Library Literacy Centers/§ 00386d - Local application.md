@@ -14,7 +14,7 @@ Each such application shall—
 
 &emsp;(3) provide for the establishment of—
 
-&emsp;&emsp;(A) a library literacy loan program through which adults with limited literacyskills or individuals helping illiterate adults to learn to read may borrow books, video tapes, and other learning materials; and
+&emsp;&emsp;(A) a library literacy loan program through which adults with limited literacy skills or individuals helping illiterate adults to learn to read may borrow books, video tapes, and other learning materials; and
 
 &emsp;&emsp;(B) other innovative programs and policies designed to encourage greater use of the library by adults with limited literacy skills or individuals helping illiterate adults learn to read;
 
@@ -30,7 +30,7 @@ Each such application shall—
 
 &emsp;(9) provide assurances that the materials, equipment and training provided will be used to supplement and not supplant materials, equipment and training otherwise available for the purposes of this part.
 
-(June 19, 1956, ch. 407, title VIII, §815, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 111.)
+(June 19, 1956, ch. 407, title VIII, §815, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 111.)
 
 #### Section Referred to in Other Sections
 

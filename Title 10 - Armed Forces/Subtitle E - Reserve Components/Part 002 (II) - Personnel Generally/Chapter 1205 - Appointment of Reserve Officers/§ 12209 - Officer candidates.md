@@ -1,4 +1,4 @@
-### §12209 . Officer candidates
+### §12209. Officer candidates
 
 (a) Within such numbers as the Secretary concerned may prescribe, enlisted Reserves may, with their consent, be selected for training as officer candidates. Enlisted Reserves so selected shall be designated as officer candidates during that training. However, no member of the Army National Guard of the United States or the Air National Guard of the United States may be so selected or designated unless—
 

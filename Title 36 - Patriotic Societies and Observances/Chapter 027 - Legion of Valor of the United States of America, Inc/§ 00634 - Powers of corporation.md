@@ -18,7 +18,7 @@ The corporation shall have power—
 
 &emsp;(8) to transfer, convey, lease, sublease, encumber, and otherwise alienate real, personal or mixed property; and
 
-&emsp;(9) to borrow money for the purposes of the corporation, issue bonds therefor, and securethe same by mortgage, deed of trust, pledge, or otherwise, subject in every case to all applicable provisions of Federal and State laws.
+&emsp;(9) to borrow money for the purposes of the corporation, issue bonds therefor, and secure the same by mortgage, deed of trust, pledge, or otherwise, subject in every case to all applicable provisions of Federal and State laws.
 
 (Aug. 4, 1955, ch. 546, §4, 69 Stat. 487.)
 

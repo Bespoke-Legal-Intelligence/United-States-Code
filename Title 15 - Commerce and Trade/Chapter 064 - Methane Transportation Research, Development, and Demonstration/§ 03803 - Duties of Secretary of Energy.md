@@ -18,7 +18,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 &emsp;(3) determine appropriate means and facilities for safely and economically storing, transporting, and dispensing methane for use as a vehicular fuel;
 
-&emsp;(4) conduct demonstration projects with respect to the feasibility of methane-fueled vehicles and methane transmission, storage and dispensing facilities (A) by providing necessary financial or technical assistance for the construction, modification, or operation of motor vehicles to be methane-fueled for practical use or of methane transmission, storage and dispensing facilities, and (B) by entering into agreements or arrangements with other entities, governmental and nongovernmental, for the demonstration of such vehicles and facilities;
+&emsp;(4) conduct demonstration projects with respect to the feasibility of methane-fueled vehicles and methane transmission, storage and dispensing facilities (A) by providing necessary financial or technical assistance for the construction, modification, or operation of motor vehicles to be methane-fueled for practical use or of methane transmission, storage and dispensing facilities, and (B) by entering into agreements or arrangements with otherentities, governmental and nongovernmental, for the demonstration of such vehicles and facilities;
 
 &emsp;(5) gather performance data, including but not limited to emissions data, on methane-fueled vehicles and related transmission and storage facilities;
 
@@ -42,25 +42,31 @@ In assuring the effective management of this program, the Secretary shall have s
 
 (3) Such certifications shall be available to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The provisions of chapter 5 of title 5 shall not apply to such certifications and no court shall have any jurisdiction to review the preparation or adequacy of such certifications; but section 553 of title 5 and section 5916 of title 42 shall apply to public disclosure of such certifications.
 
-(4) The Secretary of Energy also shall include in the report required by section 3808 of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this chapter satisfies the requirement of this subsection.
+(4) The Secretary of Energy also shall include in the report required by section 3808 <sup>1</sup> of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this chapter satisfies the requirement of this subsection.
 
 (5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 
-(6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiatedprior to the enactment of this chapter, or with respect to any renewal or extension thereof.
+(6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
-(Pub. L. 96 512, §4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97 375, title I, §106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103 437, §5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 96–512, §4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97–375, title I, §106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, §5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
+
+#### References in Text
+
+Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 104–66, title I, §1051(p), Dec. 21, 1995, 109 Stat. 717.
 
 #### Amendments
 
-1994—Subsec. (d)(3). Pub. L. 103 437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+1994—Subsec. (d)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
-1982—Subsec. (c)(8). Pub. L. 97 375 struck out “and report to the Congress on” after “ascertain”.
+1982—Subsec. (c)(8). Pub. L. 97–375 struck out “and report to the Congress on” after “ascertain”.
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3804 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

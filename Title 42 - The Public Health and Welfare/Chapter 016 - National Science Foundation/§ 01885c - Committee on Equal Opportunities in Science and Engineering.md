@@ -6,7 +6,7 @@ There is established within the Foundation a Committee on Equal Opportunities in
 
 #### (b) Membership; Chairperson; term of members
 
-Each member of the Committee shall be appointed by the Director with the concurrence ofthe National Science Board. The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee. Members of the Committee shall be appointed to serve for a three-year term, and may be reappointed to serve one additional term of three years.
+Each member of the Committee shall be appointed by the Director with the concurrence of the National Science Board. The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee. Members of the Committee shall be appointed to serve for a three-year term, and may be reappointed to serve one additional term of three years.
 
 #### (c) Subcommittee on Women in Science and Engineering; purposes; membership
 

@@ -90,7 +90,7 @@ Functions of President under this section, except those functions under subsec. 
 
 #### Reports to Congressional Committees
 
-Section 301 of Pub. L. 100–461 provided: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
+Section 301 of Pub. L. 100–461 provided: “That the Committees on Appropriations shall be furnished onMarch 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
 
 #### Findings by Secretary of State
 

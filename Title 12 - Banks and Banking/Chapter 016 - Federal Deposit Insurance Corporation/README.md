@@ -40,7 +40,7 @@
 | (<i>l)</i> | Designation of fund membership for newly insured depository institutions; definitions. |
 | (m) | Secondary reserve offsets against premiums. |
 | (n) | Collections on behalf of Director of Office of Thrift Supervision. |
-| 1818\. | Termination of status as insured depository institution. |
+| [1818\.](%C2%A7%2001818%20-%20Termination%20of%20status%20as%20insured%20depository%20institution.md) | Termination of status as insured depository institution. |
 | (a) | Termination of insurance. |
 | (b) | Cease-and-desist proceedings. |
 | (c) | Temporary cease-and-desist orders. |

@@ -10,7 +10,7 @@ The Director shall report to the Congress not less than annually on the program 
 
 #### Amendments
 
-1989—Pub. L. 101–137 amended section generally. Prior to amendment, section read as follows: “The Directorshall include at least biennially in his reports to the Congress on the program authorized by this subchapter full and complete information on his operations and activities under this part, together with such recommendations with respect thereto as he may deem appropriate.”
+1989—Pub. L. 101–137 amended section generally. Prior to amendment, section read as follows: “The Director shall include at least biennially in his reports to the Congress on the program authorized by this subchapter full and complete information on his operations and activities under this part, together with such recommendations with respect thereto as he may deem appropriate.”
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
 

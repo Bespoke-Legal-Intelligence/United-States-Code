@@ -10,7 +10,7 @@
 
 &emsp;(C) provided by the Secretary of Health and Human Services under the Act of August 5, 1954 (68 Stat. 674), as amended \[42 U.S.C. 2001 et seq.\];
 
-&emsp;(D) administered by the Secretary for the benefit of Indians for which appropriations are made to agencies other than the Departmentof Health and Human Services or the Department of the Interior; and
+&emsp;(D) administered by the Secretary for the benefit of Indians for which appropriations are made to agencies other than the Department of Health and Human Services or the Department of the Interior; and
 
 &emsp;(E) for the benefit of Indians because of their status as Indians without regard to the agency or office of the Department of Health and Human Services or the Department of the Interior within which it is performed.
 
@@ -52,7 +52,7 @@ Whenever the Secretary declines to enter into a self-determination contract or c
 
 #### (c) Liability insurance; waiver of defense
 
-(1) Beginning in 1990, the Secretary shall be responsible for obtaining or providing liability insurance or equivalent coverage, on the most cost-effective basis, for Indian tribes, tribal organizations, and tribal contractors carrying outcontracts, grant agreements and cooperative agreements pursuant to this subchapter. In obtaining or providing such coverage, the Secretary shall take into consideration the extent to which liability under such contracts or agreements are covered by the Federal Tort Claims Act.
+(1) Beginning in 1990, the Secretary shall be responsible for obtaining or providing liability insurance or equivalent coverage, on the most cost-effective basis, for Indian tribes, tribal organizations, and tribal contractors carrying out contracts, grant agreements and cooperative agreements pursuant to this subchapter. In obtaining or providing such coverage, the Secretary shall take into consideration the extent to which liability under such contracts or agreements are covered by the Federal Tort Claims Act.
 
 (2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises as defined in section 1452 of this title, except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
 
@@ -66,7 +66,7 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 #### (e) Burden of proof at hearing or appeal declining contract; final agency action
 
-(1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) of this section, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for declining the contract proposal (or portion thereof).
+(1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) of this section, the Secretary shall have the burden of proof to establish by clearly demonstrating thevalidity of the grounds for declining the contract proposal (or portion thereof).
 
 (2) Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) of this section shall be made either—
 
@@ -132,7 +132,7 @@ Section 201(b)(2) of Pub. L. 100–472 provided that: “Any reference to sectio
 
 #### Tribal Self-Governance Demonstration Project
 
-Title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended byPub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589, provided that:
+Title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended by Pub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589, provided that:
 
 “
 
@@ -168,7 +168,7 @@ Sec. 303. (a) The Secretaries is \[sic\] directed to negotiate, and to enter int
 
 &emsp;“(6) shall, except as provided in paragraphs (1) and (2), provide for payment by the Secretaries to the tribe of funds from one or more programs, services, functions, or activities in an amount equal to that which the tribe would have been eligible to receive under contracts and grants under this Act \[Pub. L. 93–638, see Short Title note under section 450 of this title\], including direct program costs and indirect costs, and for any funds which are specifically related to the provision by the Secretaries of services and benefits to the tribe and its members: <i>Provided, however</i>, That funds for trust services to individual Indians are available under this written agreement only to the extent that the same services which would have been provided by the Secretaries are provided to individual Indians by the tribe;
 
-&emsp;“(7) shall not allow the Secretaries to waive, modify or diminish in any way the trust responsibility of the United States with respect to Indian tribes and individual Indians which exists under treaties, Executive orders, and Acts of Congress;
+&emsp;“(7) shall not allow the Secretaries to waive, modify or diminish in any way the trust responsibility of the United States with respect to Indian tribes andindividual Indians which exists under treaties, Executive orders, and Acts of Congress;
 
 &emsp;“(8) shall allow for retrocession of programs or portions thereof pursuant to section 105(e) of this Act \[25 U.S.C. 450j(e)\]; and
 
@@ -198,7 +198,7 @@ Sec. 305. The Secretaries shall submit to the Congress a written report on July 
 
 “
 
-Sec. 306. Nothing in this title shall be construed to limit or reduce in any way the services, contracts or funds that any other Indian tribe or tribal organization is eligible to receive under section 102 \[25 U.S.C. 450f\] orany other applicable Federal law and the provisions of section 110 of this Act \[25 U.S.C. 450m–1\] shall be available to any tribe or Indian organization which alleges that a funding agreement is in violation of this section.
+Sec. 306. Nothing in this title shall be construed to limit or reduce in any way the services, contracts or funds that any other Indian tribe or tribal organization is eligible to receive under section 102 \[25 U.S.C. 450f\] or any other applicable Federal law and the provisions of section 110 of this Act \[25 U.S.C. 450m–1\] shall be available to any tribe or Indian organization which alleges that a funding agreement is in violation of this section.
 
 “
 

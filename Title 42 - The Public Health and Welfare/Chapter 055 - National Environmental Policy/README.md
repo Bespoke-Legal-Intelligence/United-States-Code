@@ -38,8 +38,7 @@
 
 |  |  |
 | :--- | ---: |
-| [4361\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004361%20-%20Plan%20for%20research%2C%20development%2C%20and%20demonstration.md) | Plan for research, development, and demonstration. |
-| [4361a.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004361a%20-%20Budget%20projections%20in%20annual%20revisions%20of%20plan%20for%20research%2C%20development%2C%20and%20demonstration.md) | Budget projections in annual revisions of plan for research, development, and demonstration. |
+| 4361, 4361a. Repealed. |  |
 | [4361b.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004361b%20-%20Implementation%20by%20Administrator%20of%20Environmental%20Protection%20Agency%20of%20recommendations%20of%20%E2%80%9CCHESS%E2%80%9D%20Investigative%20Report%3B%20waiver%E2%80%A6.md) | Implementation by Administrator of Environmental Protection Agency of recommendations of “CHESS” Investigative Report; waiver; inclusion of status of implementation requirements in annual revisions of plan for research, development, and demonstration. |
 | [4361c.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004361c%20-%20Staff%20management.md) | Staff management. |
 | (a) | Appointments for educational programs. |
@@ -57,13 +56,11 @@
 | [4365\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004365%20-%20Science%20Advisory%20Board.md) | Science Advisory Board. |
 | (a) | Establishment; requests for advice by Administrator of Environmental Protection Agency and Congressional committees. |
 | (b) | Membership; Chairman; meetings; qualifications of members. |
-| (c) | Review and comment on plan for research, development, and demonstration and annual revisions; transmission to Congress. |
-| (d) | Repealed. |
-| (e) | Proposed environmental criteria document, standard, limitation, or regulation; functions respecting in conjunction with Administrator. |
-| (f) | Utilization of technical and scientific capabilities of Federal agencies and national environmental laboratories for determining adequacy of scientific and technical basis of proposed criteria document, etc. |
-| (g) | Member committees and investigative panels; establishment; chairmenship. |
-| (h) | Appointment and compensation of secretary and other personnel; compensation of members. |
-| (i) | Consultation and coordination with Scientific Advisory Panel. |
+| (c) | Proposed environmental criteria document, standard, limitation, or regulation; functions respecting in conjunction with Administrator. |
+| (d) | Utilization of technical and scientific capabilities of Federal agencies and national environmental laboratories for determining adequacy of scientific and technical basis of proposed criteria document, etc. |
+| (e) | Member committees and investigative panels; establishment; chairmenship. |
+| (f) | Appointment and compensation of secretary and other personnel; compensation of members. |
+| (g) | Consultation and coordination with Scientific Advisory Panel. |
 | [4366\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004366%20-%20Identification%20and%20coordination%20of%20research%2C%20development%2C%20and%20demonstration%20activities.md) | Identification and coordination of research, development, and demonstration activities. |
 | (a) | Consultation and cooperation of Administrator of Environmental Protection Agency with heads of Federal agencies; inclusion of activities in annual revisions of plan for research, etc. |
 | (b) | Coordination of programs by Administrator. |

@@ -6,5 +6,5 @@ The International Trade Commission shall establish and maintain a program to mon
 
 #### Transfer of Functions
 
-East-West Foreign Trade Board abolished by Reorg. Plan No. 3 of 1979, §6, 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. Functions of Board under subsecs. (a) and (b) of section 2441 of this title transferred to interagency organization established under section 1872 of this title, and functions of Board under subsec. (c) of section 2441 of this title transferred to President by section 5(c) and (e) of Reorg. Plan No. 3 of 1979.
+East-West Foreign Trade Board abolished by Reorg. Plan No. 3 of 1979, §6, 44 F.R. 69275, 93 Stat. 1381, eff.Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. Functions of Board under subsecs. (a) and (b) of section 2441 of this title transferred to interagency organization established under section 1872 of this title, and functions of Board under subsec. (c) of section 2441 of this title transferred to President by section 5(c) and (e) of Reorg. Plan No. 3 of 1979.
 

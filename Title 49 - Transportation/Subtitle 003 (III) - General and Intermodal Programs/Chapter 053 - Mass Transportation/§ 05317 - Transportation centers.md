@@ -52,7 +52,7 @@ Grants for University Transportation Centers.—(1) To accelerate the involvemen
 
 (B) The Secretary shall make grants to the University of Idaho to plan, design, and construct a building in which to conduct the research and development activities of the Center.
 
-(C) Amounts authorized by section 5338(e)(2) of this title may be obligated in the same way as amounts apportioned under chapter 1 of title 23 (except that the Government share of the cost of the activities conducted under this paragraph is 80 percent and the amounts remain availableuntil expended) and are not subject to an obligational limitation.
+(C) Amounts authorized by section 5338(e)(2) of this title may be obligated in the same way as amounts apportioned under chapter 1 of title 23 (except that the Government share of the cost of the activities conducted under this paragraph is 80 percent and the amounts remain available until expended) and are not subject to an obligational limitation.
 
 (D) A grant made under this paragraph is not subject to the requirements of this section (except this paragraph).
 

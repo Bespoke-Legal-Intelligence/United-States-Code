@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The Secretary of Transportation may prescribe the period during which a permit issued under section 41302 of this title is in effect. After notice and an opportunity for a hearing, the Secretary may amend, modify, suspend, or revoke the permit if the Secretary finds that action to be in the public interest.
+General.—The Secretary of Transportation may prescribe the period during which a permit issued under section 41302 of this title isin effect. After notice and an opportunity for a hearing, the Secretary may amend, modify, suspend, or revoke the permit if the Secretary finds that action to be in the public interest.
 
 (b)
 
@@ -90,7 +90,7 @@ Aug. 15, 1985, Pub. L. 99–88, §100 (1st complete par. related to permit on p.
 
 In subsection (a), the words “altered” and “cancelled” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “alter” and “condition” are omitted as surplus. In clause (B)(i) and (ii), the words “United States” before “air carriers” and “carriers” are omitted as surplus and for consistency because only a citizen of the United States may be an “air carrier” as defined in section40102(a) of the revised title. In clause (B)(i), the word “impaired” is omitted as surplus.
+In subsection (b)(1), before clause (A), the words “alter” and “condition” are omitted as surplus. In clause (B)(i) and (ii), the words “United States” before “air carriers” and “carriers” are omitted as surplus and for consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title. In clause (B)(i), the word “impaired” is omitted as surplus.
 
 In subsection (c), before clause (1), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “on and after August 15, 1985” are omitted as executed. In clause (1), before subclause (A), the words “law enforcement and other” are omitted as surplus. The words “departments, agencies, and instrumentalities of the Government” are substituted for “agencies” for consistency in the revised title and with other titles of the Code. The words “a foreign air carrier” are substituted for “any carrier” for clarity. In clause (2), the words “of public convenience and necessity” are omitted as surplus. The word “amend” is added for consistency. The words “issued under this chapter” are added for clarity.
 

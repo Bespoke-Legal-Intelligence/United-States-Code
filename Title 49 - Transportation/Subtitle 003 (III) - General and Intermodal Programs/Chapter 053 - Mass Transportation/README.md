@@ -45,7 +45,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 23 sections 103, 133, 134, 135, 142, 303; title 40 section 819; title 42 section 7506.
+This chapter is referred to in title 23 sections 103, 133, 134, 135, 142; title 40 section 819; title 42 section 7506.
 
 
 ---

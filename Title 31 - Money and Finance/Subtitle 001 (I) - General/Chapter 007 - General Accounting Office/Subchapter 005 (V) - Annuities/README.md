@@ -2,6 +2,8 @@
 
 <i><sup>1</sup></i><i> So in original. Second comma probably should follow “(7)”.</i>
 
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

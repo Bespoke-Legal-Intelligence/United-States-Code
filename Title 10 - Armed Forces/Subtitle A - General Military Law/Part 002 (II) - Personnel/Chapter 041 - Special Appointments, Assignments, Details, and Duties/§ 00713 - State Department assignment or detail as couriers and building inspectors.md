@@ -1,4 +1,4 @@
-### §713 . State Department: assignment or detail as couriers and building inspectors
+### §713. State Department: assignment or detail as couriers and building inspectors
 
 (a) Upon the request of the Secretary of State, the Secretary of a military department may assign or detail members of the armed forces under his jurisdiction for duty—
 

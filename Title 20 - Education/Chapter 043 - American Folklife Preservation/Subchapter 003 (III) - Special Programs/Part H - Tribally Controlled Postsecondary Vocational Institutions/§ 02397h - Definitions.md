@@ -18,7 +18,7 @@ For the purposes of this part:
 
 &emsp;&emsp;(E) Credits or clock hours earned in a continuing education program shall be converted to the basis that is in accordance with the institution's system for providing credit for participation in such programs.
 
-(Pub. L. 88 210, title III, §390, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 803.)
+(Pub. L. 88–210, title III, §390, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 803.)
 
 #### Section Referred to in Other Sections
 

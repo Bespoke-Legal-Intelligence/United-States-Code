@@ -12,7 +12,7 @@ In any fiscal year in which a minimal amount is made available by a State for di
 
 For purposes of this section, the term “minimal amount” means not more than 15 percent of the total amount made available for distribution under this part.
 
-(Pub. L. 88 210, title II, §233, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 782.)
+(Pub. L. 88–210, title II, §233, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 782.)
 
 #### Section Referred to in Other Sections
 

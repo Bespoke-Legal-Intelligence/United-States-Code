@@ -88,7 +88,7 @@ From amounts made available in separate appropriation Acts, the Secretary shall 
 
 Each recipient of financial assistance under subsection (d) of this section shall be known as a “National Metal Casting Research Institute”.
 
-(Pub. L. 101 425, §5, Oct. 15, 1990, 104 Stat. 916.)
+(Pub. L. 101–425, §5, Oct. 15, 1990, 104 Stat. 916.)
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 9 of Pub. L. 89–92 was redesignated section 10 and is classified to section 1338 of this title.
+A prior section 9 of Pub. L. 89–92 was renumbered section 10 and is classified to section 1338 of this title.
 
 #### Amendments
 

@@ -28,7 +28,7 @@
 
 (5) Notwithstanding any other law, any method of soliciting voluntary contributions or of facilitating the making of voluntary contributions to a separate segregated fund established by a corporation, permitted by law to corporations with regard to stockholders and executive or administrative personnel, shall also be permitted to labor organizations with regard to their members.
 
-(6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes amethod of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, on written request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
+(6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes a method of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, on written request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
 
 (7) For purposes of this section, the term “executive or administrative personnel” means individuals employed by a corporation who are paid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
 

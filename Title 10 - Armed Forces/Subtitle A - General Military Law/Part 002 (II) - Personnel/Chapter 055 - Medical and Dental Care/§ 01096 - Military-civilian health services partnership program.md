@@ -26,7 +26,7 @@ Computation of Charges.—A covered beneficiary, with respect to care provided t
 
 (d)
 
-Reimbursement for License Fees.—In any case in which it is necessary for a member of the uniformed services to pay a professional license fee imposed by a government in order to providehealth care services at a facility of a civilian health care provider pursuant to an agreement entered into under subsection (a), the Secretary of Defense may reimburse the member for up to $500 of the amount of the license fee paid by the member.
+Reimbursement for License Fees.—In any case in which it is necessary for a member of the uniformed services to pay a professional license fee imposed by a government in order to provide health care services at a facility of a civilian health care provider pursuant to an agreement entered into under subsection (a), the Secretary of Defense may reimburse the member for up to $500 of the amount of the license fee paid by the member.
 
 (Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3894; amended Pub. L. 103–337, div. A, title VII, §712, Oct. 5, 1994, 108 Stat. 2801.)
 

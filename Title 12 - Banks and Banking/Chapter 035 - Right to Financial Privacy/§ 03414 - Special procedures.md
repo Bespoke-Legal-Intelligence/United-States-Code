@@ -1,6 +1,6 @@
 ### §3414. Special procedures
 
-(a)(1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 of this title) shall apply to the production and disclosure of financial records pursuant to requests from—
+(a)(1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 <sup>1</sup> of this title) shall apply to the production and disclosure of financial records pursuant to requests from—
 
 &emsp;(A) a Government authority authorized to conduct foreign counter- or foreign positive-intelligence activities for purposes of conducting such activities; or
 
@@ -38,6 +38,8 @@
 
 #### References in Text
 
+Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 104–66, title III, §3001(d), Dec. 21, 1995, 109 Stat. 734.
+
 Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended, which is set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
@@ -48,5 +50,7 @@ Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 3409, 3421 of this title.
+This section is referred to in sections 3402, 3409 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

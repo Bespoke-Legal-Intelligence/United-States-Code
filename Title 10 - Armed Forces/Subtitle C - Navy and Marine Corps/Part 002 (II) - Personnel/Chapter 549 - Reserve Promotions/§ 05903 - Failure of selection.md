@@ -1,4 +1,4 @@
-### §5903 . Failure of selection
+### §5903. Failure of selection
 
 An officer of the Naval Reserve or the Marine Corps Reserve is considered as having failed of selection for promotion if—
 

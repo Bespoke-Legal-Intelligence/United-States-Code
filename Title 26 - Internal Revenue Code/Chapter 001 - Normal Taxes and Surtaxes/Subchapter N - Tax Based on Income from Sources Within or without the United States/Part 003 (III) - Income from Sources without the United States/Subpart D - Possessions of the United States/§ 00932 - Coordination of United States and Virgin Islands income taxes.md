@@ -20,7 +20,7 @@
 
 #### (3) Extent of income tax liability
 
-&emsp;In the case of an individual to whom this subsection applies in a taxable year for purposes of so much of this title (other than this section and section 7654) as relates to the taxes imposed by this chapter, the UnitedStates shall be treated as including the Virgin Islands.
+&emsp;In the case of an individual to whom this subsection applies in a taxable year for purposes of so much of this title (other than this section and section 7654) as relates to the taxes imposed by this chapter, the United States shall be treated as including the Virgin Islands.
 
 #### (b) Portion of United States tax liability payable to the Virgin Islands
 

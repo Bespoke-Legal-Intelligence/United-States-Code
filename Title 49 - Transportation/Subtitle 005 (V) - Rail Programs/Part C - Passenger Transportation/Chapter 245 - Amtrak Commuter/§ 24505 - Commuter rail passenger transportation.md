@@ -42,7 +42,7 @@ Discontinuance of Commuter Rail Passenger Transportation.—(1) Amtrak Commuter 
 
 (f)
 
-Compensation for Right-of-Way Related Costs.—Compensation by a commuter authority to Amtrak or Amtrak Commuter for right-of-way related costs for transportation over property Amtrak owns shall be determined under a method the Interstate Commerce Commissionestablishes under section 1163 of the Omnibus Budget Reconciliation Act of 1981 (45 U.S.C. 1111) or to which the parties agree.
+Compensation for Right-of-Way Related Costs.—Compensation by a commuter authority to Amtrak or Amtrak Commuter for right-of-way related costs for transportation over property Amtrak owns shall be determined under a method the Interstate Commerce Commission establishes under section 1163 of the Omnibus Budget Reconciliation Act of 1981 (45 U.S.C. 1111) or to which the parties agree.
 
 (g)
 
@@ -105,6 +105,10 @@ In subsection (g), the text of 45:591 (words after 1st comma) is omitted as surp
 #### References in Text
 
 Section 508 of the Rail Passenger Service Act, referred to in subsec. (c), is section 508 of Pub. L. 91–518, title V, as added Pub. L. 97–35, title XI, §1145, Aug. 13, 1981, 95 Stat. 669, which was classified to section 588 of Title 45, Railroads, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
 #### Commuter Service Transferred From Consolidated Rail Corporation; Service Subject to Applicable Laws
 

@@ -1,6 +1,6 @@
-### §271 . Establishment
+### §271. Establishment
 
-There shall be in the Senate an office to be known as the Office of the Legislative Counsel, and to be under the direction of the Legislative Counsel of the Senate.
+There shall be in the Senate an office to be known as the Office of the Legislative Counsel,and to be under the direction of the Legislative Counsel of the Senate.
 
 (Feb. 24, 1919, ch. 18, §1303(a), (d), 40 Stat. 1141; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353.)
 

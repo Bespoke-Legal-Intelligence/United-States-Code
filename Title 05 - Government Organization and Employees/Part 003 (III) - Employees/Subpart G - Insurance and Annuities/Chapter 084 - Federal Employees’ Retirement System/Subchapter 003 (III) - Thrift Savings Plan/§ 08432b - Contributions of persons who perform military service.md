@@ -28,7 +28,7 @@
 
 &emsp;(B) the period of time over which the employee wishes to make contributions under this subsection.
 
-> The employing agency may place a maximum limit on the period of time referred to in subparagraph (B), which cannot be shorter than two times the period referred to in paragraph (2)(B) and not longer than four times such period.
+> The employing agency may place a maximum limit on the period of time referred to in subparagraph (B), which cannot be shorter than twotimes the period referred to in paragraph (2)(B) and not longer than four times such period.
 
 (c) If an employee makes contributions under subsection (b), the employing agency shall make contributions to the Thrift Savings Fund on such employee's behalf—
 

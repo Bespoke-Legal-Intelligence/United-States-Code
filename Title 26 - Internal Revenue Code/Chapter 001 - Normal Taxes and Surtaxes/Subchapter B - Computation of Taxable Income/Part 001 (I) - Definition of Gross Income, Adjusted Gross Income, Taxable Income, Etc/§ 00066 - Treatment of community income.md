@@ -32,7 +32,7 @@ Under regulations prescribed by the Secretary, if—
 
 &emsp;(3) the individual establishes that he or she did not know of, and had no reason to know of, such item of community income, and
 
-&emsp;(4) taking into account all facts and circumstances, it is inequitable to include such itemof community income in such individual's gross income,
+&emsp;(4) taking into account all facts and circumstances, it is inequitable to include such item of community income in such individual's gross income,
 
 > then, for purposes of this title, such item of community income shall be included in the gross income of the other spouse (and not in the gross income of the individual).
 
@@ -66,7 +66,7 @@ Subsecs. (b) to (d). Pub. L. 98–369, §424(b)(1), added subsecs. (b) and (c) a
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies with corresponding provisions deemed to be included in the Internal Revenue Code of 1939 and applicable to all taxable years to which such Code applies, except subsection (b) of this section is applicable to taxable years beginning after December 31, 1984, see section 424(c) of Pub. L. 98–369, set out as a note under section 6013 of this title.
+Amendment by Pub. L. 98–369 applicable to all taxable years to which the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] applies with corresponding provisions deemed to be included in the Internal Revenue Code of 1939 and applicable to all taxable years to which such Code applies, except subsection (b) of this section is applicable to taxable years beginning after December 31, 1984, see section 424(c) of Pub. L. 98–369, set out as a note under section 6013 of this title.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ Fund Purposes.—(1) Funds in the National Defense Sealift Fund shall be availab
 
 (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
 
-(3) Funds obligated and expended for a purpose set forth in subparagraph (B) or (D) of paragraph\(1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
+(3) Funds obligated and expended for a purpose set forth in subparagraph (B) or (D) of paragraph (1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
 
 (d)
 
@@ -122,5 +122,5 @@ Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

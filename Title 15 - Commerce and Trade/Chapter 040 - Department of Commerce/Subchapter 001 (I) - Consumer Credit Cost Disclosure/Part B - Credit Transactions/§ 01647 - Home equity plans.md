@@ -6,7 +6,7 @@ In the case of extensions of credit under an open end consumer credit plan which
 
 #### (b) Grounds for acceleration of outstanding balance
 
-A creditor may not unilaterally terminate any account under an open end consumer credit planunder which extensions of credit are secured by a consumer's principal dwelling and require the immediate repayment of any outstanding balance at such time, except in the case of—
+A creditor may not unilaterally terminate any account under an open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling and require the immediate repayment of any outstanding balance at such time, except in the case of—
 
 &emsp;(1) fraud or material misrepresentation on the part of the consumer in connection with the account;
 
@@ -24,7 +24,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 #### (2) Certain changes not precluded
 
-&emsp;Notwithstanding the provisions of subsection<sup>1</sup> (1), a creditor may make any of the following changes:
+&emsp;Notwithstanding the provisions of subsection <sup>1</sup> (1), a creditor may make any of the following changes:
 
 &emsp;&emsp;(A) Change the index and margin applicable to extensions of credit under such plan if the index used by the creditor is no longer available and the substitute index and margin would result in a substantially similar interest rate.
 
@@ -70,11 +70,11 @@ If any term or condition described in section 1637a(a) of this title which is di
 
 &emsp;For purposes of determining when a nonrefundable fee may be imposed in accordance with this subsection if the disclosures and pamphlet referred to in paragraph (1) are mailed to the consumer, the date of the receipt of the disclosures by such consumer shall be deemed to be 3 business days after the date of mailing by the creditor.
 
-(Pub. L. 90 321, title I, §137, as added Pub. L. 100 709, §3, Nov. 23, 1988, 102 Stat. 4731; amendedPub. L. 103 325, title I, §154(c), Sept. 23, 1994, 108 Stat. 2197.)
+(Pub. L. 90–321, title I, §137, as added Pub. L. 100–709, §3, Nov. 23, 1988, 102 Stat. 4731; amended Pub. L. 103–325, title I, §154(c), Sept. 23, 1994, 108 Stat. 2197.)
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103 325 inserted at end “This subsection does not apply to reverse mortgage transactions.”
+1994—Subsec. (b). Pub. L. 103–325 inserted at end “This subsection does not apply to reverse mortgage transactions.”
 
 #### Effective Date
 
@@ -82,11 +82,11 @@ For effective date of section, see Regulations; Effective Date note below.
 
 #### Regulations; Effective Date
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100 709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100 709, set out as a note under section 1637a of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1637a of this title; title 12 section 1715z 20.
+This section is referred to in section 1637a of this title; title 12 section 1715z–20.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -26,7 +26,7 @@ With respect to any affirmative determination of the Commission under subsection
 
 #### (c) Products of Communist countries
 
-If, at any time, the President finds that there are reasonable grounds to believe, with respect to imports of an article which is the product of a Communist country, that market disruption exists with respect to an article produced by a domestic industry, he shall request the Commission to initiate an investigation under subsection (a) of this section. If the President further finds that emergency action is necessary, he may take action under sections 2252 and 2253 of this title referred to in subsection (b) of this section as if an affirmative determination of the Commission had been made under subsection (a) of this section. Any action taken by the President under the preceding sentence shall cease to apply (1) if a negative determination is made by the Commission under subsection (a) of this section with respect to imports of such article, on the day on which the Commission's report of such determination is submitted to the President, or (2) if an affirmative determination is made by the Commission under subsection (a) of this section with respect to imports of such article, on the day on which the action taken by the President pursuant to such determination becomes effective.
+If, at any time, the President finds that there are reasonable grounds to believe, with respect to imports of an article which is the product of a Communist country, that market disruptionexists with respect to an article produced by a domestic industry, he shall request the Commission to initiate an investigation under subsection (a) of this section. If the President further finds that emergency action is necessary, he may take action under sections 2252 and 2253 of this title referred to in subsection (b) of this section as if an affirmative determination of the Commission had been made under subsection (a) of this section. Any action taken by the President under the preceding sentence shall cease to apply (1) if a negative determination is made by the Commission under subsection (a) of this section with respect to imports of such article, on the day on which the Commission's report of such determination is submitted to the President, or (2) if an affirmative determination is made by the Commission under subsection (a) of this section with respect to imports of such article, on the day on which the action taken by the President pursuant to such determination becomes effective.
 
 #### (d) Petitions to initiate consultations as provided for by safeguard arrangements
 
@@ -90,7 +90,7 @@ Subsec. (e)(2). Pub. L. 100–418, §1411(a)(3), designated existing provisions 
 
 #### Effective Date of 1988 Amendment
 
-Section 1411(c) of Pub. L. 100–418 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations initiated under section 406(a) of the Trade Act of 1974 \[19 U.S.C. 2436(a)\] on or after the date of the enactment of this Act \[Aug. 23, 1988\].”
+Section 1411(c) of Pub. L. 100–418 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations initiated under section 406(a) of the Trade Act of 1974 \[19U.S.C. 2436(a)\] on or after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
 #### Section Referred to in Other Sections
 

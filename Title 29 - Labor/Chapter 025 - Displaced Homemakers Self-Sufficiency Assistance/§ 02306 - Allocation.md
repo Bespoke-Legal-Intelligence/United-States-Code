@@ -14,7 +14,7 @@
 
 &emsp;(A) All allotments and allocations under this chapter shall be based on the latest available data and estimates satisfactory to the Secretary.
 
-&emsp;(B) Whenever the Secretary allots and allocates funds required to be allotted or allocatedby formula or otherwise under this chapter, the Secretary shall publish in a timely fashion in the Federal Register the proposed amount to be distributed to each recipient.
+&emsp;(B) Whenever the Secretary allots and allocates funds required to be allotted or allocated by formula or otherwise under this chapter, the Secretary shall publish in a timely fashion in the Federal Register the proposed amount to be distributed to each recipient.
 
 &emsp;(C) All funds required to be distributed by formula under this chapter shall be allotted within 45 days after the enactment of the appropriations therefor.
 

@@ -38,7 +38,7 @@ In awarding grants under this section the Secretary shall give priority to progr
 
 &emsp;(6) workers who need to improve their skills to obtain jobs in high-growth industries.
 
-(Pub. L. 88 210, title IV, §412, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 812.)
+(Pub. L. 88–210, title IV, §412, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 812.)
 
 #### Section Referred to in Other Sections
 

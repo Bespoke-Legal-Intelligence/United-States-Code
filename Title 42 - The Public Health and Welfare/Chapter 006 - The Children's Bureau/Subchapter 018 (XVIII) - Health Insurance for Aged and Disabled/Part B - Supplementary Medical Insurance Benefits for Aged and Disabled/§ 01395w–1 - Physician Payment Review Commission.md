@@ -78,7 +78,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (4) The Secretary shall develop, in consultation with the Physician Payment Review Commission, the Congressional Budget Office, and the Congressional Research Service of the Library of Congress, a system for providing to each of such entities on a quarterly basis summary data on aggregate expenditures under this part by type of service and by type of provider. Such data shall be provided not later than 90 days after the end of each quarter (for quarters beginning with the calendar quarter ending on March 31, 1989).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1845, as added and amended Apr. 7, 1986, Pub. L. 99–272, title IX, §9305, 100 Stat. 190; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9331(e), 9344(a)(1), 100 Stat. 2021, 2042; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4045(b), 4083(a)(1), (c)(1), 4085(a), (i)(8), 101 Stat. 1330–87, 1330–129, 1330–130, 1330–132; July 1, 1988, Pub. L. 100–360, title IV, §411(i)(4)(A), 102 Stat. 788; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8425(a), 102 Stat. 3803; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4002(g)(3), 4118(j)(1), 104 Stat. 1388–37, 1388–70; Oct. 31, 1994, Pub. L. 103–432, title I, §126(g)(8), 108 Stat. 4416.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1845, as added and amended Apr. 7, 1986, Pub. L. 99–272, title IX, §9305, 100 Stat. 190; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9331(e), 9344(a)(1), 100 Stat. 2021, 2042; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4045(b), 4083(a)(1), (c)(1), 4085(a), (i)(8), 101 Stat. 1330–87, 1330–129, 1330–130, 1330–132; July 1, 1988, Pub. L.100–360, title IV, §411(i)(4)(A), 102 Stat. 788; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8425(a), 102 Stat. 3803; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4002(g)(3), 4118(j)(1), 104 Stat. 1388–37, 1388–70; Oct. 31, 1994, Pub. L. 103–432, title I, §126(g)(8), 108 Stat. 4416.)
 
 #### References in Text
 
@@ -98,7 +98,7 @@ Subsec. (b)(2)(C). Pub. L. 101–508, §4118(j)(1)(C)(iii), (iv), redesignated s
 
 Subsec. (b)(2)(D), (E). Pub. L. 101–508, §4118(j)(1)(C)(iv), redesignated subpars. (H) and (I) as (D) and (E), respectively. Former subpars. (D) and (E) redesignated (A) and (B), respectively.
 
-Subsec. (b)(2)(F). Pub. L. 101–508, §4118(j)(1)(C)(iii), (v), added subpar. (F) and struck out former subpar. (F)which read as follows: “make recommendations respecting the advisability and feasibility of making changes in the payment system for physicians’ services under this part based on (i) the Secretary's study under section 603(b)(2) of the Social Security Amendments of 1983 (relating to payments for physicians’ services furnished to hospital inpatients on the basis of diagnosis-related groups) and (ii) the Office's report under section 2309 of the Deficit Reduction Act of 1984 (relating to physician reimbursement under this part);”.
+Subsec. (b)(2)(F). Pub. L. 101–508, §4118(j)(1)(C)(iii), (v), added subpar. (F) and struck out former subpar. (F) which read as follows: “make recommendations respecting the advisability and feasibility of making changes in the payment system for physicians’ services under this part based on (i) the Secretary's study under section 603(b)(2) of the Social Security Amendments of 1983 (relating to payments for physicians’ services furnished to hospital inpatients on the basis of diagnosis-related groups) and (ii) the Office's report under section 2309 of the Deficit Reduction Act of 1984 (relating to physician reimbursement under this part);”.
 
 Subsec. (b)(2)(G) to (M). Pub. L. 101–508, §4118(j)(1)(C)(v), added subpars. (G) to (M). Former subpars. (G) to (I) redesignated (C) to (E), respectively.
 
@@ -188,7 +188,7 @@ No delay in current study.—The expansion under paragraph (1) shall not be cond
 
 “(3)
 
-Prompt submittal of study results to physician payment review commission.—The Secretary shall submit to the Physician Payment Review Commission a copy of any report submitted to the Secretary pursuant to a cooperative agreement in the fulfillment of the requirement of section 1845(e) of such Act, with all relevant supporting data (including survey data, analyticdata files, and file documentation), by no later than 30 days after the date the final report is received by the Secretary.”
+Prompt submittal of study results to physician payment review commission.—The Secretary shall submit to the Physician Payment Review Commission a copy of any report submitted to the Secretary pursuant to a cooperative agreement in the fulfillment of the requirement of section 1845(e) of such Act, with all relevant supporting data (including survey data, analytic data files, and file documentation), by no later than 30 days after the date the final report is received by the Secretary.”
 
 #### Appointment of Additional Members
 

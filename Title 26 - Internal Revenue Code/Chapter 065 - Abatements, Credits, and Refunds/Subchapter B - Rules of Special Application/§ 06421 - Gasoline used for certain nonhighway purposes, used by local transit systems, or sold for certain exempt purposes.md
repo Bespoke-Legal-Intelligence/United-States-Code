@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (iv) Noncommercial boats
 
-&emsp;&emsp;&emsp;In the case of a boat used predominantly in any activity which is of a type generally considered to constitute entertainment, amusement, or recreation, clause (iii)(II) shall not apply to—
+&emsp;&emsp;&emsp;In the case of a boat used predominantly in any activity which is of a type generallyconsidered to constitute entertainment, amusement, or recreation, clause (iii)(II) shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxes under sections 4041(a)(1) and 4081 for the period after December 31, 1993, and before January 1, 2000, and
 
@@ -152,7 +152,7 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State and </b><b><sup>1</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
-(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Sept. 2, 1958, Pub. L. 85–859, title I, §§163(d)(3), 164(a), 72 Stat. 1312; Sept. 21, 1959, Pub. L. 86–342, title II, §201(d)(2), 73 Stat. 615; June 29, 1961, Pub. L. 87–61, title II, §201(e), 75 Stat. 124; June 28, 1962, Pub. L. 87–508, §5(c)(2), 76 Stat. 118; June 21, 1965, Pub. L. 89–44, title VIII, §809(b), 79 Stat. 166; May 21, 1970, Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), 84 Stat. 241, 242, 248; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(11), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(11), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), 90 Stat. 1827, 1828, 1834; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(10), 92 Stat. 2756; Nov. 9, 1978, Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), 92 Stat. 3186, 3190; Apr. 1, 1980, Pub. L. 96–222, title I, §108(c)(1), 94 Stat. 226; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), 96 Stat. 2170, 2171, 2182, 2183; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(12), 96 Stat. 2610; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(38), 98 Stat. 846; Oct. 17, 1986, Pub. L. 99–499, title V, §521(c)(2), 100 Stat. 1778; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), 100 Stat. 2776, 2777; Apr. 2, 1987, Pub. L. 100–17, title V, §502(b)(7), 101 Stat. 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(d)(9), (10), 101 Stat. 1330–444; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), 102 Stat. 3576, 3577, 3595; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(20), 103 Stat. 2429; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(d)(6), 104 Stat. 1388–427; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(6), 105 Stat. 2203; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), 107 Stat. 454, 512, 524.)
+(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Sept. 2, 1958, Pub. L. 85–859, title I, §§163(d)(3), 164(a), 72 Stat. 1312; Sept. 21, 1959, Pub. L. 86–342, title II, §201(d)(2), 73 Stat. 615; June 29, 1961, Pub. L. 87–61, title II, §201(e), 75 Stat. 124; June 28, 1962, Pub. L. 87–508, §5(c)(2), 76 Stat. 118; June 21, 1965, Pub. L. 89–44, title VIII, §809(b), 79 Stat. 166; May 21, 1970, Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), 84 Stat. 241, 242, 248; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(11), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(11), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), 90 Stat. 1827, 1828, 1834; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(10), 92 Stat. 2756; Nov. 9, 1978, Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), 92 Stat. 3186, 3190; Apr. 1, 1980, Pub. L. 96–222, title I, §108(c)(1), 94 Stat. 226; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), 96 Stat. 2170, 2171, 2182, 2183; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(12), 96 Stat. 2610; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(38), 98 Stat. 846; Oct. 17, 1986, Pub. L. 99–499, title V, §521(c)(2), 100 Stat. 1778; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), 100 Stat. 2776, 2777; Apr. 2, 1987, Pub. L. 100–17, title V, §502(b)(7), 101 Stat. 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(d)(9), (10), 101 Stat. 1330–444; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), 102 Stat. 3576, 3577, 3595; Dec. 19, 1989, Pub. L.101–239, title VII, §7841(d)(20), 103 Stat. 2429; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(d)(6), 104 Stat. 1388–427; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(6), 105 Stat. 2203; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), 107 Stat. 454, 512, 524.)
 
 #### Prior Provisions
 
@@ -324,7 +324,7 @@ Amendment by section 13163(b) of Pub. L. 103–66 effective Jan. 1, 1994, see se
 
 Amendment by section 13241(f)(6), (7) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
-Amendment by section 13242(d)(20), (22)–(24) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
+Amendment by section 13242(d)(20), (22)–(24) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub.L. 103–66, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title asamended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 

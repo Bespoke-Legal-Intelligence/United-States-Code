@@ -2,7 +2,7 @@
 
 #### (a) Annual audits by Comptroller General; access to books, documents, papers, and records
 
-The financial records of the Board and of any corporation established under section 806(i) of this title shall be audited annually by the Comptroller General of the United States (hereinafter in this section referred to as the “ComptrollerGeneral”). The Comptroller General, or any duly authorized representative of the Comptroller General, shall have access for the purpose of audit to any books, documents, papers, and records of the Board or such corporation (or any agent of the Board or such corporation) which, in the opinion of the Comptroller General, may be pertinent to the Congressional Award Program.
+The financial records of the Board and of any corporation established under section 806(i) of this title shall be audited annually by the Comptroller General of the United States (hereinafter in this section referred to as the “Comptroller General”). The Comptroller General, or any duly authorized representative of the Comptroller General, shall have access for the purpose of audit to any books, documents, papers, and records of the Board or such corporation (or any agent of the Board or such corporation) which, in the opinion of the Comptroller General, may be pertinent to the Congressional Award Program.
 
 #### (b) Annual report to Congress on audit results
 

@@ -22,7 +22,7 @@ The aeronautical and space activities of the United States shall be conducted so
 
 &emsp;(3) The development and operation of vehicles capable of carrying instruments, equipment, supplies, and living organisms through space;
 
-&emsp;(4) The establishment of long-range studies of the potential benefits to be gained from, the opportunities for, and the problems involved in the utilization of aeronautical and space activities for peaceful and scientific purposes;
+&emsp;(4) The establishment of long-range studies of the potential benefits to be gained from, theopportunities for, and the problems involved in the utilization of aeronautical and space activities for peaceful and scientific purposes;
 
 &emsp;(5) The preservation of the role of the United States as a leader in aeronautical and space science and technology and in the application thereof to the conduct of peaceful activities within and outside the atmosphere;
 
@@ -524,7 +524,7 @@ Sec. 111. No later than September 30, 1988, the Administrator shall submit a det
 
 “
 
-Sec. 112. The Intergovernmental Agreement currently being negotiated between the United States Government and Canada, Japan, and member governments of the European Space Agency, and the Memorandum of Understanding currently being negotiated between the National Aeronautics and Space Administration and its counterpart agencies in Canada, Japan, and Europe concerning the detailed design, development, construction, operation, or utilization of the space station shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of theHouse of Representatives. No such agreement shall take effect until 30 days have passed after the receipt by such committees of the agreement.”
+Sec. 112. The Intergovernmental Agreement currently being negotiated between the United States Government and Canada, Japan, and member governments of the European Space Agency, and the Memorandum of Understanding currently being negotiated between the National Aeronautics and Space Administration and its counterpart agencies in Canada, Japan, and Europe concerning the detailed design, development, construction, operation, or utilization of the space station shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. No such agreement shall take effect until 30 days have passed after the receipt by such committees of the agreement.”
 
 #### Feasibility Study on Flight Opportunities for Diverse Segment of American Public
 

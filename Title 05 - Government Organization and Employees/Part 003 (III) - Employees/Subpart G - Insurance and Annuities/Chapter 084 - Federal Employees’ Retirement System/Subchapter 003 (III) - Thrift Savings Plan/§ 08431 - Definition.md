@@ -6,7 +6,7 @@ Notwithstanding section 8401 of this title, for the purpose of this subchapter, 
 
 #### Amendments
 
-1990—Pub. L. 101–509 substituted “5303(e), 5304(g),” for “5308”.
+<b>1990</b>—Pub. L. 101–509 substituted “5303(e), 5304(g),” for “5308”.
 
 #### Effective Date of 1990 Amendment
 

@@ -34,7 +34,7 @@ Deposit in Treasury.—Amounts collected under this section shall be deposited i
 
 (f)
 
-Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
+Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating aregulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325.)
 
@@ -112,7 +112,7 @@ In subsection (b)(2), the word “violator” is substituted for “the person f
 
 In subsection (c)(1), the words “The Secretary may request the Attorney General to bring a civil action” are substituted for “in an action brought by the Attorney General on behalf of the United States” for clarity, to eliminate unnecessary words, and because of 28:2461 and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
-In subsection (d), the words “imposed or compromised under this section” are substituted for “of the penalty, when finally determined (or agreed upon in compromise)” to eliminate unnecessary words and forconsistency. The words “liable for the penalty” are substituted for “charged” for clarity.
+In subsection (d), the words “imposed or compromised under this section” are substituted for “of the penalty, when finally determined (or agreed upon in compromise)” to eliminate unnecessary words and for consistency. The words “liable for the penalty” are substituted for “charged” for clarity.
 
 In subsection (f), the words “Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter” are substituted for “Nothing in this title shall be construed to authorize . . . penalties” for clarity.
 

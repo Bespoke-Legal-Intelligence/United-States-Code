@@ -23,7 +23,11 @@ Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provid
 
 #### Military Department Affiliation of War College Students
 
-Pub. L. 103–335, title VIII, §8108A, Sept. 30, 1994, 108 Stat. 2646, provided that: “Notwithstanding any other provision of law, for resident classes entering the war colleges after September 30, 1996, the Department of Defense shall require that not less than 20 percent of the total of United States military students at each war college shall be from military departments other than the hosting military department: <i>Provided</i>, That each military department will recognize the attendance at a sister military department war college as the equivalent of attendance at its own war college for promotion and advancement of personnel.”
+Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667, provided that: “Notwithstanding any other provision of law, for resident classes entering the war colleges after September 30, 1996, the Department of Defense shall require that not less than 20 percent of the total of United States military students at each war college shall be from military departments other than the hosting military department: <i>Provided</i>, That each military department will recognize the attendance at a sister military department war college as the equivalent of attendance at its own war college for promotion and advancement of personnel.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 103–335, title VIII, §8108A, Sept. 30, 1994, 108 Stat. 2646.
 
 #### Authority for Military School Faculty Members and Students To Accept Honoraria for Certain Scholarly and Academic Activities
 

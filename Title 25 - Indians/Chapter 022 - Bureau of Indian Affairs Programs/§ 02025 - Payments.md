@@ -4,7 +4,7 @@
 
 &emsp;(A) one payment to be made not later than July 15 of each year in an amount equal to one-half of the amount which the grantee was entitled to receive during the preceding academic year, and
 
-&emsp;(B) the second payment, consisting of the remainder to which the grantee is entitled forthe academic year, shall be made not later than December 1 of each year.
+&emsp;(B) the second payment, consisting of the remainder to which the grantee is entitled for the academic year, shall be made not later than December 1 of each year.
 
 (2) For any school for which no payment was made from Bureau funds in the preceding academic year, full payment of the amount computed for the first academic year of eligibility under this chapter shall be made not later than December 1 of the academic year.
 

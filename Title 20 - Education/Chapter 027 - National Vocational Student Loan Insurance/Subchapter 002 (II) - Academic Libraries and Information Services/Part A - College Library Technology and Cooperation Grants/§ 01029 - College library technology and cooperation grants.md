@@ -52,15 +52,15 @@ The Secretary shall award grants under this section for a period not to exceed 3
 
 &emsp;The Secretary shall prescribe by regulation criteria for the approval of applications submitted under this section.
 
-(Pub. L. 89 329, title II, §211, as added Pub. L. 96 374, title II, §201, Oct. 3, 1980, 94 Stat. 1384; amended Pub. L. 99 498, title II, §202, Oct. 17, 1986, 100 Stat. 1287; Pub. L. 102 325, title II, §201, July 23, 1992, 106 Stat. 468.)
+(Pub. L. 89–329, title II, §211, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1384; amended Pub. L. 99–498, title II, §202, Oct. 17, 1986, 100 Stat. 1287; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 468.)
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to college library technology and cooperation grants for provisions relating to college library resource grants.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to college library technology and cooperation grants for provisions relating to college library resource grants.
 
-1986—Pub. L. 99 498 amended section generally, substituting “College library resources” for “Resource development grants” in section catchline and revising and restating as subsecs. (a), (b), (d), and (f) provisions of former subsecs. (a), (b), (c), and (d), respectively, and inserting provisions set out in subsecs. (c) and (e).
+1986—Pub. L. 99–498 amended section generally, substituting “College library resources” for “Resource development grants” in section catchline and revising and restating as subsecs. (a), (b), (d), and (f) provisions of former subsecs. (a), (b), (c), and (d), respectively, and inserting provisions set out in subsecs. (c) and (e).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

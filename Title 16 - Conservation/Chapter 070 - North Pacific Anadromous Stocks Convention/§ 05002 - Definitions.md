@@ -36,7 +36,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) any vessel outfitted to engage in any activity described in subparagraph (A);
 
-&emsp;&emsp;(C) any vessel described in subparagraph (A) or (B).
+&emsp;&emsp;(C) any vessel supporting a vessel described in subparagraph (A) or (B).
 
 &emsp;(14) “Incidental taking” means catching, taking, or harvesting a species or stock of fish while conducting directed fishing for another species or stock of fish.
 
@@ -46,7 +46,7 @@ As used in this chapter, the term—
 
 &emsp;(17) “United States Section” means the United States Commissioners of the Commission.
 
-(Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov. 4, 1992, 106 Stat. 5098.)
+(Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, §404(b), Nov. 3, 1995, 109 Stat. 391.)
 
 #### References in Text
 
@@ -55,6 +55,10 @@ Proclamation Numbered 5030, dated March 10, 1983, referred to in par. (10), is s
 #### Codification
 
 Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. This section is based on the text of Pub. L. 102–587.
+
+#### Amendments
+
+1995—Par. (13)(C). Pub. L. 104–43 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any vessel described in subparagraph (A) or (B).”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

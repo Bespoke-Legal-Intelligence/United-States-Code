@@ -34,6 +34,10 @@ During a period of 5 years beginning on October 21, 1986, the following obligati
 
 1989—Subsec. (a)(2). Pub. L. 101–213 struck out par. (2) which set forth circumstances under which Corporation could declare or pay a common or preferred stock dividend and defined terms “common stock dividend” and “preferred stock dividend”.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1324 of this title.

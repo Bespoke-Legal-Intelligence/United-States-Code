@@ -54,7 +54,7 @@ Whoever—
 
 (2) Except as provided in paragraph (3), no cause of action may be brought in any court or administrative agency against any common carrier, or any of its affiliates, including their officers, directors, employees, agents, or authorized representatives on account of—
 
-&emsp;(A) any action which the carrier demonstrates was taken in good faith to restrict access pursuant to paragraph (1) of this subsection; or
+&emsp;(A) any action which the carrier demonstrates was taken in good faith to restrictaccess pursuant to paragraph (1) of this subsection; or
 
 &emsp;(B) any access permitted—
 
@@ -136,7 +136,7 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 
 “(c) The Federal Communications Commission shall issue regulations pursuant to section 223(b)(2) of the Communications Act of 1934 (as added by subsection (a) of this section) \[subsec. (b)(2) of this section\] not later than one hundred and eighty days after the date of the enactment of this Act \[Dec. 8, 1983\].
 
-“(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
+“(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 \[this section\] which are pending on the dateof the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
 
 #### Section Referred to in Other Sections
 

@@ -22,11 +22,11 @@ A recipient shall not be considered in violation of the agreement entered into p
 
 A recipient shall be excused from repayment of any scholarship assistance received under this subpart if the recipient becomes permanently totally disabled as established by sworn affidavit of a qualified physician.
 
-(Pub. L. 89 329, title V, §528, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 681.)
+(Pub. L. 89–329, title V, §528, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 681.)
 
 #### Prior Provisions
 
-A prior section 528 of Pub. L. 89 329, title V, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90 35, §5(g), June 29, 1967, 81 Stat. 91; Pub. L. 90 247, title VII, §704(c)(1), Jan. 2, 1968, 81 Stat. 820; Pub. L. 90 575, title II, §231(a), (b)(2), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92 318, title I, §141(a)(1)(B), June 23, 1972, 86 Stat. 284, authorized appropriations for fiscal years 1966 through 1974 to enable persons who were awarded fellowships prior to July 1, 1972, to complete their study under fellowships and was classified to section 1118 of this title, prior to repeal by Pub. L. 92 318, title I, §141(c)(1)(E), June 23, 1972, 86 Stat. 285, eff. on and after July 1, 1972.
+A prior section 528 of Pub. L. 89–329, title V, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(g), June 29, 1967, 81 Stat. 91; Pub. L. 90–247, title VII, §704(c)(1), Jan. 2, 1968, 81 Stat. 820; Pub. L. 90–575, title II, §231(a), (b)(2), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), June 23, 1972, 86 Stat. 284, authorized appropriations for fiscal years 1966 through 1974 to enable persons who were awarded fellowships prior to July 1, 1972, to complete their study under fellowships and was classified to section 1118 of this title, prior to repeal by Pub. L. 92–318, title I, §141(c)(1)(E), June 23, 1972, 86 Stat. 285, eff. on and after July 1, 1972.
 
 #### Section Referred to in Other Sections
 

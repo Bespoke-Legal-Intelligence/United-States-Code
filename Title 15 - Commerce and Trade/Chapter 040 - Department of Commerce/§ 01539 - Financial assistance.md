@@ -2,7 +2,7 @@
 
 #### (a) Processing of applications
 
-Within 12 months after October 29, 1992, the Secretary of Commerce shall develop and, after notice and opportunity for public comment, promulgate regulations or guidelines to ensure that a completed application for a grant, contract, orother financial assistance under a nondiscretionary assistance program shall be processed and approved or disapproved within 75 days after submission of the application to the responsible program office of the National Oceanic and Atmospheric Administration.
+Within 12 months after October 29, 1992, the Secretary of Commerce shall develop and, after notice and opportunity for public comment, promulgate regulations or guidelines to ensure that a completed application for a grant, contract, or other financial assistance under a nondiscretionary assistance program shall be processed and approved or disapproved within 75 days after submission of the application to the responsible program office of the National Oceanic and Atmospheric Administration.
 
 #### (b) Notification of applicant
 
@@ -20,5 +20,5 @@ In this section, the term “nondiscretionary assistance program” means any pr
 
 &emsp;(2) the recipients of which have customarily been a State or an interstate fishery commission.
 
-(Pub. L. 102 567, title IV, §404, Oct. 29, 1992, 106 Stat. 4292.)
+(Pub. L. 102–567, title IV, §404, Oct. 29, 1992, 106 Stat. 4292.)
 

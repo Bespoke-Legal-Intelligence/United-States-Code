@@ -8,7 +8,7 @@ The Secretary is authorized to award grants to or enter into contracts or cooper
 
 In making such grants, contracts, or cooperative agreements, the Secretary shall ensure that recipients make programming widely available with support materials as appropriate to young children, their parents, child care workers, and Head Start providers to increase the effective use of such programming.
 
-(Pub. L. 89 10, title III, §3301, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3663.)
+(Pub. L. 89–10, title III, §3301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3663.)
 
 #### Section Referred to in Other Sections
 

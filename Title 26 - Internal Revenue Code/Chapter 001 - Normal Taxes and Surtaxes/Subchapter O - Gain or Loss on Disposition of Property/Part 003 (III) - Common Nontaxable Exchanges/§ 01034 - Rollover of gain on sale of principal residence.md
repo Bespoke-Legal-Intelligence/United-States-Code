@@ -52,7 +52,7 @@ For purposes of this section:
 
 #### (e) Basis of new residence
 
-Where the purchase of a new residence results, under subsection (a) or under section 112 (n) of the Internal Revenue Code of 1939, in the nonrecognition of gain on the sale of an old residence, in determining the adjusted basis of the new residence as of any time following the sale of the old residence, the adjustments to basis shall include a reduction by an amount equal to the amount of the gain not so recognized on the sale of the old residence. For this purpose, the amount of the gain not so recognized on the sale of the old residence includes only so much of such gain as is not recognized by reason of the cost, up to such time, of purchasing the new residence.
+Where the purchase of a new residence results, under subsection (a) or under section 112 (n) ofthe Internal Revenue Code of 1939, in the nonrecognition of gain on the sale of an old residence, in determining the adjusted basis of the new residence as of any time following the sale of the old residence, the adjustments to basis shall include a reduction by an amount equal to the amount of the gain not so recognized on the sale of the old residence. For this purpose, the amount of the gain not so recognized on the sale of the old residence includes only so much of such gain as is not recognized by reason of the cost, up to such time, of purchasing the new residence.
 
 #### (f) Tenant-stockholder in a cooperative housing corporation
 
@@ -104,7 +104,7 @@ In the case of the seizure, requisition, or condemnation of a residence, or the 
 
 If the taxpayer during a taxable year sells at a gain property used by him as his principal residence, then—
 
-&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
+&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of suchgain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
 
 &emsp;&emsp;(A) the taxpayer's cost of purchasing the new residence which the taxpayer claims results in nonrecognition of any part of such gain,
 

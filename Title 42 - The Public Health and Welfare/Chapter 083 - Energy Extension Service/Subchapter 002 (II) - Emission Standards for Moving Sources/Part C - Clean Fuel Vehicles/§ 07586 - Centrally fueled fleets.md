@@ -112,11 +112,11 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 #### (5) Early fleet credits
 
-&emsp;The State plan revision shall provide credits under this subsection to fleet operators thatpurchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
+&emsp;The State plan revision shall provide credits under this subsection to fleet operators that purchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
 
 #### (g) Availability to public
 
-At any facility owned or operated by a department, agency, or instrumentality of the United States where vehicles subject to this subsection are supplied with clean alternative fuel, such fuel shall be offered for sale to the public for use in other vehicles during reasonable business times and subject to national security concerns, unless such fuel is commercially available for vehicles in the vicinity of such Federal facilities.
+At any facility owned or operated by a department, agency, or instrumentality of the UnitedStates where vehicles subject to this subsection are supplied with clean alternative fuel, such fuel shall be offered for sale to the public for use in other vehicles during reasonable business times and subject to national security concerns, unless such fuel is commercially available for vehicles in the vicinity of such Federal facilities.
 
 #### (h) Transportation control measures
 

@@ -10,5 +10,5 @@
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–480 struck out par. (2) which read as follows: “If the Secretary of Transportation determines that property under the jurisdiction of the Architect of the Capitol in squares 721 and 722eastward of the historic Union Station building is necessary to carry out the purposes of this part, the Secretary of Transportation may request assignment of such property to the use of the Secretary of Transportation, as a part of the Union Station complex, and subject to the provisions of this part, and the Architect of the Capitol shall so assign such property.”
+1988—Subsec. (a)(2). Pub. L. 100–480 struck out par. (2) which read as follows: “If the Secretary of Transportation determines that property under the jurisdiction of the Architect of the Capitol in squares 721 and 722 eastward of the historic Union Station building is necessary to carry out the purposes of this part, the Secretary of Transportation may request assignment of such property to the use of the Secretary of Transportation, as a part of the Union Station complex, and subject to the provisions of this part, and the Architect of the Capitol shall so assign such property.”
 

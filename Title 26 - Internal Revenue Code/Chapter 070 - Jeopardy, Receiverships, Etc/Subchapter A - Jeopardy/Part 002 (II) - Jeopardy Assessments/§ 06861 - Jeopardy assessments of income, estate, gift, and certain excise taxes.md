@@ -34,7 +34,7 @@ The Secretary may abate the jeopardy assessment if he finds that jeopardy does n
 
 &emsp;&emsp;<b>(2) For provision permitting immediate levy in case of jeopardy, see section 6331(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 834; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(24), 88 Stat. 931;Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 834; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(24), 88 Stat. 931; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
 
 #### Amendments
 

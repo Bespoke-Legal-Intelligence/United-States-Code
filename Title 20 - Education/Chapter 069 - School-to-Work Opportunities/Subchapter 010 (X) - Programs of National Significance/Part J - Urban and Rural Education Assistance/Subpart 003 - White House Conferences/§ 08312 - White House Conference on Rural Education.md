@@ -54,5 +54,5 @@
 
 &emsp;The Conference is authorized to publish and distribute the report described in this section. Copies of the report shall be provided to the Federal depository libraries and made available to local rural school leaders and teachers.
 
-(Pub. L. 89 10, title X, §10982, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3858.)
+(Pub. L. 89–10, title X, §10982, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3858.)
 

@@ -1,4 +1,4 @@
-### §2019 . Purposes for extensions of credit
+### §2019. Purposes for extensions of credit
 
 #### (a) Agricultural or aquatic purposes
 

@@ -16,5 +16,5 @@ The Secretary shall carry out a program of making grants on a competitive basis 
 
 (3) Funds received in the second and third fiscal years in which a State receives a grant under this part shall be matched, on a dollar for dollar basis, from non-Federal sources.
 
-(June 19, 1956, ch. 407, title VIII, §812, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 110.)
+(June 19, 1956, ch. 407, title VIII, §812, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 110.)
 

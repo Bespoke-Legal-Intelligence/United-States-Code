@@ -34,7 +34,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;&emsp;&emsp;(i) disregard local educational agencies with per-pupil expenditures or revenues above the 95th percentile or below the 5th percentile of such expenditures or revenues in the State; and
 
-&emsp;&emsp;&emsp;(ii) take into account the extent to which a program of State aid reflects the additional cost of providing free public education in particular types of local educational agencies, such as those that are geographically isolated, or to particular types of students, such as children with disabilities.
+&emsp;&emsp;&emsp;(ii) take into account the extent to which a program of State aid reflects theadditional cost of providing free public education in particular types of local educational agencies, such as those that are geographically isolated, or to particular types of students, such as children with disabilities.
 
 #### (3) Exception
 
@@ -104,11 +104,11 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;The court shall grant such relief as the court determines is appropriate.
 
-(Pub. L. 89 10, title VIII, §8009, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3764.)
+(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764.)
 
 #### References in Text
 
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsecs. (a)(1), (b)(1), and (d), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103 382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 3 of the Act was classified to section 238 of this title. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsecs. (a)(1), (b)(1), and (d), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, asamended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 3 of the Act was classified to section 238 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Submission to Congress of property transfer document
 
-Any provision of law relating to the transfer and disposal of Federal property to the contrary notwithstanding, the Secretary, after consultation with the Secretary of the department in which the Coast Guard is operating, is authorized to bargain, grant, sell or otherwise convey, on such terms as he deems to be in the best interests of the United States and in furtherance of the purposes of this chapter, any and all right, title, and interest of the United States inand to the property, both real and personal, held by the Secretary on the Pribilof Islands: <i>Provided</i>, That such property is specified in a document entitled “Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions,” which is submitted to the Congress on or before October 31, 1983.
+Any provision of law relating to the transfer and disposal of Federal property to the contrary notwithstanding, the Secretary, after consultation with the Secretary of the department in which the Coast Guard is operating, is authorized to bargain, grant, sell or otherwise convey, on such terms as he deems to be in the best interests of the United States and in furtherance of the purposes of this chapter, any and all right, title, and interest of the United States in and to the property, both real and personal, held by the Secretary on the Pribilof Islands: <i>Provided</i>, That such property is specified in a document entitled “Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions,” which is submitted to the Congress on or before October 31, 1983.
 
 #### (b) Contents of property transfer document
 
@@ -64,7 +64,7 @@ The Secretary shall submit to Congress a report, no later than October 1, 1983, 
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,48 @@
+### §535. Investigation of crimes involving Government officers and employees; limitations
+
+(a) The Attorney General and the Federal Bureau of Investigation may investigate any violation of title 18 involving Government officers and employees—
+
+&emsp;(1) notwithstanding any other provision of law; and
+
+&emsp;(2) without limiting the authority to investigate any matter which is conferred on them or on a department or agency of the Government.
+
+(b) Any information, allegation, or complaint received in a department or agency of the executive branch of the Government relating to violations of title 18 involving Government officers and employees shall be expeditiously reported to the Attorney General by the head of the department or agency, unless—
+
+&emsp;(1) the responsibility to perform an investigation with respect thereto is specifically assigned otherwise by another provision of law; or
+
+&emsp;(2) as to any department or agency of the Government, the Attorney General directs otherwise with respect to a specified class of information, allegation, or complaint.
+
+(c) This section does not limit—
+
+&emsp;(1) the authority of the military departments to investigate persons or offenses over which the armed forces have jurisdiction under the Uniform Code of Military Justice (chapter 47 of title 10); or
+
+&emsp;(2) the primary authority of the Postmaster General to investigate postal offenses.
+
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616.)
+
+Historical and Revision Notes
+
+<i>Derivation</i>
+
+<i>U.S. Code</i>
+
+<i>Revised Statutes and Statutes at Large</i>
+
+5 U.S.C. 311a.
+
+Aug. 31, 1954, ch. 1143, §1, 68 Stat. 998.
+
+The section is reorganized for clarity and continuity.
+
+In subsection (a), the word “may” is substituted for “shall have authority”. The word “is” is substituted for “may have been or may hereafter be”.
+
+In subsection (c), the words “This section does not limit” are substituted for “that the provisions of this section shall not limit, in any way”. The words “(chapter 47 of title 10)” are added after “Uniform Code of Military Justice” to reflect the codification of that Code in title 10, United States Code.
+
+#### Transfer of Functions
+
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 403q.
+

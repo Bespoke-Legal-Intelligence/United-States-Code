@@ -30,5 +30,5 @@ The Secretary shall submit such interim evaluation reports to the President and 
 
 The Secretary shall reserve a total of not more than $1,000,000 from the amounts appropriated pursuant to the authority of section 1104k of this title in fiscal years 1993 through 1997 to carry out this section.
 
-(Pub. L. 89 329, title V, §530, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 682.)
+(Pub. L. 89–329, title V, §530, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 682.)
 

@@ -1,4 +1,4 @@
-### §1677a . Export price and constructed export price
+### §1677a. Export price and constructed export price
 
 #### (a) Export price
 

@@ -10,15 +10,15 @@ The Secretary of Energy shall adopt procedures to provide for timely and efficie
 
 (2) The committees of Congress referred to in paragraph (1) are the Committees on Armed Services of the Senate and House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Pub. L. 100 180, div. C, title I, §3151, Dec. 4, 1987, 101 Stat. 1244; Pub. L. 103 437, §5(b)(6), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 100–180, div. C, title I, §3151, Dec. 4, 1987, 101 Stat. 1244; Pub. L. 103–437, §5(b)(6), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103 437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+1994—Subsec. (b)(2). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

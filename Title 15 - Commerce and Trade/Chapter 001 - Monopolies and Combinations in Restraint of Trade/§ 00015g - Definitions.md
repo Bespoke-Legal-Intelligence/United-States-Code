@@ -20,5 +20,5 @@ Injuries sustained prior to Sept. 30, 1976, not covered by this section, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 15h, 34, 4301 of this title.
+This section is referred to in sections 15h, 34, 37a, 4301 of this title.
 

@@ -59,7 +59,7 @@
 | (g) | Center facilities and their relationship to United States Department of Commerce operations in host countries. |
 | (h) | Use of Market Development Cooperator Program. |
 | (i) | Authorization of appropriations. |
-| (j) | Reports to Congress. |
+| (j) | Repealed. |
 | (k) | Definitions. |
 | [4724\.](Subchapter%20003%20%28III%29%20-%20Export%20Promotion/%C2%A7%2004724%20-%20Trade%20shows.md) | Trade shows. |
 | (a) | Authority of Secretary of Commerce. |

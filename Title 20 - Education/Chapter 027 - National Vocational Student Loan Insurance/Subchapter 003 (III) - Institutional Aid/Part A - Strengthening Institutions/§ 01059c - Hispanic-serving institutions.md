@@ -58,7 +58,7 @@ For the purpose of this section—
 
 #### (1) Institutional eligibility
 
-&emsp;Each Hispanic-serving institution desiring to receive assistance under this chapter shallsubmit to the Secretary such enrollment data as may be necessary to demonstrate that it is a Hispanic-serving institution as defined in paragraph (1) of subsection (b) of this section, along with such other information and data as the Secretary may by regulation require.
+&emsp;Each Hispanic-serving institution desiring to receive assistance under this chapter shall submit to the Secretary such enrollment data as may be necessary to demonstrate that it is a Hispanic-serving institution as defined in paragraph (1) of subsection (b) of this section, along with such other information and data as the Secretary may by regulation require.
 
 #### (2) Applications
 
@@ -76,25 +76,25 @@ For the purpose of this section—
 
 For the purposes of this section, no Hispanic-serving college or university which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.
 
-(Pub. L. 89 329, title III, §316, as added Pub. L. 102 325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103 208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457.)
+(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 89 329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103 208 substituted “(2)
+1993—Subsec. (c). Pub. L. 103–208 substituted “(2)
 
 Examples of authorized activities.—Such programs may include—” for “Such programs may include—”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

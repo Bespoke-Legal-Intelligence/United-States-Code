@@ -8,7 +8,7 @@
 
 &emsp;(3) set forth the grades in which the classes have been placed by the Office.
 
-(b) The Office, after consulting the agencies to the extent considered necessary, shall revise,supplement, or abolish existing standards, or prepare new standards, so that, as nearly as may be practicable, positions existing at any given time will be covered by current published standards.
+(b) The Office, after consulting the agencies to the extent considered necessary, shall revise, supplement, or abolish existing standards, or prepare new standards, so that, as nearly as may be practicable, positions existing at any given time will be covered by current published standards.
 
 (c) The official class titles established under subsection (a)(2) of this section shall be used for personnel, budget, and fiscal purposes. However, this requirement does not prevent the use of organizational or other titles for internal administration, public convenience, law enforcement, or similar purposes.
 
@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

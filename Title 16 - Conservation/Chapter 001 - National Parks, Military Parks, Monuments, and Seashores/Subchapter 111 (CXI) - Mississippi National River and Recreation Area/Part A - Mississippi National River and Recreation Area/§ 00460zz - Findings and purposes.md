@@ -18,7 +18,7 @@ The Congress finds that:
 
 The purposes of this part are:
 
-&emsp;(1) To protect, preserve and enhance the significant values of the waters and land of theMississippi River Corridor within the Saint Paul-Minneapolis Metropolitan Area.
+&emsp;(1) To protect, preserve and enhance the significant values of the waters and land of the Mississippi River Corridor within the Saint Paul-Minneapolis Metropolitan Area.
 
 &emsp;(2) To encourage adequate coordination of all governmental programs affecting the land and water resources of the Mississippi River Corridor.
 

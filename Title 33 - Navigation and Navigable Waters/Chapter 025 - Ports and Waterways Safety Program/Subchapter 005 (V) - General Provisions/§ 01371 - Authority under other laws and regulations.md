@@ -20,7 +20,7 @@ Discharges of pollutants into the navigable waters subject to the Rivers and Har
 
 #### (d) Consideration of international water pollution control agreements
 
-Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may have been entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
+Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may havebeen entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
 
 (June 30, 1948, ch. 758, title V, §511, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 893; amended Jan. 2, 1974, Pub. L. 93–243, §3, 87 Stat. 1069.)
 
@@ -30,7 +30,7 @@ Act of March 3, 1899, referred to in subsec. (a), is act Mar. 3, 1899, ch. 425, 
 
 The Rivers and Harbors Act of 1910, referred to in subsec. (b), probably means act June 23, 1910, ch. 359, 36 Stat. 593.
 
-The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25Stat. 209, as amended, which is classified generally to subchapter III (§441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
+The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25 Stat. 209, as amended, which is classified generally to subchapter III (§441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

@@ -22,11 +22,11 @@ For purposes of this chapter—
 
 &emsp;(10) The term “demand-side management” includes energy conservation, energy efficiency, and load management techniques.
 
-(Pub. L. 95 617, title III, §302, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102 486, title I, §115(a), Oct. 24, 1992, 106 Stat. 2803.)
+(Pub. L. 95–617, title III, §302, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, §115(a), Oct. 24, 1992, 106 Stat. 2803.)
 
 #### Amendments
 
-1992—Pars. (9), (10). Pub. L. 102 486 added pars. (9) and (10).
+1992—Pars. (9), (10). Pub. L. 102–486 added pars. (9) and (10).
 
 #### Additional Definitions
 

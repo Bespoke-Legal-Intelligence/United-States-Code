@@ -12,7 +12,7 @@ As soon as practicable after December 22, 1974, the Secretary shall, with provis
 
 Within the Area, the following subareas shall be established and shall be managed in accord with the following primary management objectives which shall be supplemental to the general management objectives applicable to the entire Area:
 
-&emsp;(1) Estuary and Associated Wetlands Sub-area: An area managed to protect and perpetuate the fish and wildlife, scenic, and research-education values, while allowing dispersed recreation use, such as sport fishing, nonmotorized pleasure boating, waterfowl hunting, and other uses which the Secretary determines are compatible with the protectionand perpetuation of the unique natural values of the subarea. After appropriate study, breaching of existing dikes may be permitted within the subarea.
+&emsp;(1) Estuary and Associated Wetlands Sub-area: An area managed to protect and perpetuate the fish and wildlife, scenic, and research-education values, while allowing dispersed recreation use, such as sport fishing, nonmotorized pleasure boating, waterfowl hunting, and other uses which the Secretary determines are compatible with the protection and perpetuation of the unique natural values of the subarea. After appropriate study, breaching of existing dikes may be permitted within the subarea.
 
 &emsp;(2) Lower Slope-Dispersed Residential Subarea: An area managed to maintain the scenic, soil and watershed, and fish and wildlife values, while allowing dispersed residential occupancy, selective recreation use, and agricultural use.
 

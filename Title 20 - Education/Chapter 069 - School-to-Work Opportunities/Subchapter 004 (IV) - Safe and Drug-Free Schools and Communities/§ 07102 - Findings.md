@@ -22,5 +22,5 @@ The Congress finds as follows:
 
 &emsp;(10) Students must take greater responsibility for their own well-being, health, and safety if schools and communities are to achieve the goals of providing a safe, disciplined, and drug-free learning environment.
 
-(Pub. L. 89 10, title IV, §4002, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3672.)
+(Pub. L. 89–10, title IV, §4002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672.)
 

@@ -18,7 +18,7 @@ Act of March 4, 1913, referred to in subsec. (b), is act Mar. 4, 1913, ch. 145, 
 
 The Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), referred to in subsec. (b), is act June 6, 1896, ch. 337, 29 Stat. 253, as amended, which had been classified to chapter 10 (§1000 et seq.) of Title 26, Internal Revenue, and included as chapter 17 (§2350 et seq.) of Title 26, Internal Revenue Code of 1939. Such chapter 17 was covered by section 4831 et seq. of Title 26, Internal Revenue Code, prior to the repeal of section 4831 et seq. of Title 26 by Pub. L. 93–490, §3(a)(1), Oct. 26, 1974, 88 Stat. 1466.
 
-The Filled Milk Act of March 4, 1923, referred to in subsec. (b), is act Mar. 4, 1923, ch. 262, 42 Stat. 1486, as amended, which is classified generally to chapter 3 (§61 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 61 of this title and Tables.
+The Filled Milk Act of March 4, 1923, referred to in subsec. (b), is act Mar. 4, 1923, ch. 262, 42 Stat. 1486, as amended, which is classified generally to chapter 3 (§61et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 61 of this title and Tables.
 
 The Import Milk Act of February 15, 1927, referred to in subsec. (b), is act Feb. 15, 1927, ch. 155, 44 Stat. 1101, as amended, which is classified generally to subchapter IV (§141 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 141 of this title and Tables.
 

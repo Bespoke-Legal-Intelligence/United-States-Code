@@ -10,7 +10,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;&emsp;(A) will protect human lives by discharging water over the fire area, in accordance with the National Fire Protection Association Standard 13, 13D, or 13R, whichever is appropriate for the type of building and occupancy being protected, or any successor standard thereto; and
 
-&emsp;&emsp;(B) includes an alarm signaling system with appropriate warning signals (to the extent such alarm systems and warning signals are required by Federal, State, or local lawsor regulations) installed in accordance with the National Fire Protection Association Standard 72, or any successor standard thereto.
+&emsp;&emsp;(B) includes an alarm signaling system with appropriate warning signals (to the extent such alarm systems and warning signals are required by Federal, State, or local laws or regulations) installed in accordance with the National Fire Protection Association Standard 72, or any successor standard thereto.
 
 &emsp;(3) The term “equivalent level of safety” means an alternative design or system (which may include automatic sprinkler systems), based upon fire protection engineering analysis, which achieves a level of safety equal to or greater than that provided by automatic sprinkler systems.
 
@@ -108,7 +108,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(II) for which (a) housing assistance is used for such rebuilding, or (b) a binding commitment is made, before commencement of such rebuilding, to provide housing assistance for the rebuilt property.
 
-(C) After the expiration of the 180-day period beginning on October 26, 1992, housing assistance may not be used in connection with any other dwelling unit, unless the unit is protected by a hard-wired or battery-operated smoke detector. For purposes of this subparagraph, housing assistance shall be considered to be used in connection with a particular dwelling unit only if such assistance is provided (i) for the particularunit, in the case of assistance provided on a unit-by-unit basis, or (ii) for the multifamily property in which the unit is located, in the case of assistance provided on a structure-by-structure basis.
+(C) After the expiration of the 180-day period beginning on October 26, 1992, housing assistance may not be used in connection with any other dwelling unit, unless the unit is protected by a hard-wired or battery-operated smoke detector. For purposes of this subparagraph, housing assistance shall be considered to be used in connection with a particular dwelling unit only if such assistance is provided (i) for the particular unit, in the case of assistance provided on a unit-by-unit basis, or (ii) for the multifamily property in which the unit is located, in the case of assistance provided on a structure-by-structure basis.
 
 #### (d) Regulations
 
@@ -140,7 +140,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
 
-(Pub. L. 93 498, §31, as added Pub. L. 102 522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103 254, §6, May 19, 1994, 108 Stat. 682.)
+(Pub. L. 93–498, §31, as added Pub. L. 102–522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, §6, May 19, 1994, 108 Stat. 682.)
 
 #### References in Text
 
@@ -148,13 +148,13 @@ The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934
 
 #### Amendments
 
-1994—Subsec. (c)(1)(A). Pub. L. 103 254, §6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
+1994—Subsec. (c)(1)(A). Pub. L. 103–254, §6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
 
-Subsec. (c)(1)(C), (D). Pub. L. 103 254, §6(2), added subpars. (C) and (D).
+Subsec. (c)(1)(C), (D). Pub. L. 103–254, §6(2), added subpars. (C) and (D).
 
 #### Effective Date
 
-Section 106(b) of Pub. L. 102 522 provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2227\], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act \[Oct. 26, 1992\].”
+Section 106(b) of Pub. L. 102–522 provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2227\], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act \[Oct. 26, 1992\].”
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -10,7 +10,7 @@ After the end of each fiscal year, the Corporation shall submit to the Congress 
 
 &emsp;&emsp;(A) refused to provide any insurance, reinsurance, guaranty, financing, or other financial support, on account of violations of human rights referred to in section 2199(i) of this title; or
 
-&emsp;&emsp;(B) notwithstanding such violations, provided such insurance, reinsurance, guaranty,financing, or financial support, on the basis of a determination (i) that the project will directly benefit the needy people in the country in which the project is located, or (ii) that the national security interest so requires.
+&emsp;&emsp;(B) notwithstanding such violations, provided such insurance, reinsurance, guaranty, financing, or financial support, on the basis of a determination (i) that the project will directly benefit the needy people in the country in which the project is located, or (ii) that the national security interest so requires.
 
 #### (b) Effect of all projects on employment in United States to be included in annual report
 

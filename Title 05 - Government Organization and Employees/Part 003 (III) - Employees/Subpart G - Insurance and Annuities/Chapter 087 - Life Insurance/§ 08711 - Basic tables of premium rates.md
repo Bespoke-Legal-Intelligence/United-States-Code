@@ -1,10 +1,10 @@
-### §8711 . Basic tables of premium rates
+### §8711. Basic tables of premium rates
 
 (a) A policy purchased under this chapter shall include, for the first policy year, basic tables of premium rates as follows:
 
 &emsp;(1) For group life insurance, a schedule of basic premium rates by age which the Office of Personnel Management determines to be consistent with the lowest schedule of basic premium rates generally charged for new group life insurance policies issued to large employers.
 
-&emsp;(2) For group accidental death and dismemberment insurance, a basic premium rate which the Office determines is consistent with the lowest rate generally charged for newgroup accidental death and dismemberment policies issued to large employers.
+&emsp;(2) For group accidental death and dismemberment insurance, a basic premium rate which the Office determines is consistent with the lowest rate generally charged for new group accidental death and dismemberment policies issued to large employers.
 
 > The schedule for group life insurance, except as otherwise provided by this section, shall be applied to the distribution by age of the amounts of group life insurance under the policy at its date of issuance to determine an average basic premium rate per $1,000 of life insurance.
 
@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsecs. (a) to (d). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (d). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

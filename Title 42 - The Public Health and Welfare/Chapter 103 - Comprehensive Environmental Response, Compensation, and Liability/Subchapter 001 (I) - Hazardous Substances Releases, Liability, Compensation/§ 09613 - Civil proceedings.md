@@ -18,7 +18,7 @@ No provision of this chapter shall be deemed or held to moot any litigation conc
 
 #### (e) Nationwide service of process
 
-In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
+In any action by the United States under this chapter, process may be served in any districtwhere the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
 #### (f) Contribution
 
@@ -66,7 +66,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(A) the date of judgment in any action under this chapter for recovery of such costs or damages, or
 
-&emsp;&emsp;(B) the date of an administrative order under section 9622(g) of this title (relating to de minimis settlements) or 9622(h) of this title (relating to cost recovery settlements) or entry of a judicially approved settlement with respect to such costs or damages.
+&emsp;&emsp;(B) the date of an administrative order under section 9622(g) of this title (relating tode minimis settlements) or 9622(h) of this title (relating to cost recovery settlements) or entry of a judicially approved settlement with respect to such costs or damages.
 
 #### (4) Subrogation
 
@@ -100,7 +100,7 @@ No Federal court shall have jurisdiction under Federal law other than under sect
 
 #### (i) Intervention
 
-In any action commenced under this chapter or under the Solid Waste Disposal Act \[42 U.S.C.6901 et seq.\] in a court of the United States, any person may intervene as a matter of right when such person claims an interest relating to the subject of the action and is so situated that the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest, unless the President or the State shows that the person's interest is adequately represented by existing parties.
+In any action commenced under this chapter or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] in a court of the United States, any person may intervene as a matter of right when such person claims an interest relating to the subject of the action and is so situated that the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest, unless the President or the State shows that the person's interest is adequately represented by existing parties.
 
 #### (j) Judicial review
 
@@ -164,7 +164,7 @@ Whenever any action is brought under this chapter in a court of the United State
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796,known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

@@ -48,7 +48,7 @@ Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 701”, 76 Stat. 847.
 
 Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 703 (as applicable to §701)”, 76 Stat. 847.
 
-In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
+In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated thenecessity of referring to rates as scheduled or longevity.
 
 In subsection (a)(B), the words “except a hearing examiner appointed under section 3105 of this title” are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
@@ -86,21 +86,21 @@ The word “officer” is omitted as included in “employee”, and the word �
 
 #### Amendments
 
-1993—Subsec. (e). Pub. L. 103–89, §3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–89, §3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
 
 Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
 
-1990—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
+<b>1990</b>—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
 
 Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-1984—Subsec. (e). Pub. L. 98–615, §204(a)(1), substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–615, §204(a)(1), substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
 Subsec. (f). Pub. L. 98–615, §203, added subsec. (f).
 
-1979—Subsec. (a)(3)(B). Pub. L. 96–54 substituted “an administrative law judge” for “a administrative law judge”.
+<b>1979</b>—Subsec. (a)(3)(B). Pub. L. 96–54 substituted “an administrative law judge” for “a administrative law judge”.
 
-1978—Subsec. (a). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
 Subsec. (b). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 

@@ -1,4 +1,4 @@
-### §133 . Under Secretary of Defense for Acquisition and Technology
+### §133. Under Secretary of Defense for Acquisition and Technology
 
 (a) There is an Under Secretary of Defense for Acquisition and Technology, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive management background in the private sector.
 
@@ -68,9 +68,9 @@ Redesignations.—The office of Under Secretary of Defense for Acquisition in th
 
 “(f)
 
-References in Other Laws.—Any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.”
+References in Other Laws.—Any reference to the Under Secretary of Defense for Acquisition or theDeputy Under Secretary of Defense for Acquisition in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.”
 
 #### Improvement in Defense Research and Procurement Liaison With Israel
 
-Section 1006 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition and Technology, shall designate for duty inIsrael an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel.”
+Section 1006 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition and Technology, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel.”
 

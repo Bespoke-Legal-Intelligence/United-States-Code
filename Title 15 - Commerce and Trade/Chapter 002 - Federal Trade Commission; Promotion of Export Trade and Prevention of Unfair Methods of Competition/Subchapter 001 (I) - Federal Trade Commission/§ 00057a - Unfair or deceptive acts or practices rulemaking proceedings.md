@@ -6,7 +6,7 @@
 
 &emsp;(A) interpretive rules and general statements of policy with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), and
 
-&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
+&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title),except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
 
 (2) The Commission shall have no authority under this subchapter, other than its authority under this section, to prescribe any rule with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title). The preceding sentence shall not affect any authority of the Commission to prescribe rules (including interpretive rules), and general statements of policy, with respect to unfair methods of competition in or affecting commerce.
 
@@ -100,7 +100,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (2)
 
-Enforcement.—Compliance with regulations prescribed under this subsection shall beenforced under section 1818 of title 12, in the case of—
+Enforcement.—Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of—
 
 &emsp;(A) national banks, banks operating under the code of law for the District of Columbia, and Federal branches and Federal agencies of foreign banks, by the division of consumer affairs established by the Office of the Comptroller of the Currency;
 
@@ -112,7 +112,7 @@ Enforcement.—Compliance with regulations prescribed under this subsection shal
 
 (4) Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under sections 1766 and 1786 of title 12.
 
-(5) For the purpose of the exercise by any agency referred to in paragraph (2) of its powers under any Act referred to in that paragraph, a violation of any regulation prescribed under this subsection shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (2), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with any regulation prescribed under this subsection, any other authority conferred on it by law.
+(5) For the purpose of the exercise by any agency referred to in paragraph (2) of its powers under any Act referred to in that paragraph, a violation of any regulation prescribed under thissubsection shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (2), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with any regulation prescribed under this subsection, any other authority conferred on it by law.
 
 (6) The authority of the Board of Governors of the Federal Reserve System to issue regulations under this subsection does not impair the authority of any other agency designated in this subsection to make rules respecting its own procedures in enforcing compliance with regulations prescribed under this subsection.
 
@@ -220,7 +220,7 @@ Subsec. (f)(3) to (6). Pub. L. 96–37, §1(c)(2), added par. (3) and redesignat
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective and Termination Dates of 1980 Amendments
 
-Section 10(e) of Pub. L. 96–252 provided that: “The amendments made in subsection (a) and subsection (c) \[amending this section\] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act \[subsec. (h)(5) of this section\], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
+Section 10(e) of Pub. L. 96–252 provided that: “The amendments made in subsection (a) and subsection (c)\[amending this section\] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act \[subsec. (h)(5) of this section\], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
 
 Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1866, 1870, provided in part that: “Notwithstanding any other provision of law, the provisions of sections 10 \[amending this section and enacting provision set out as first paragraph of this note\], 11(b) \[set out as a note below\], 18 \[set out as a note under section 57c of this title\], 20 \[set out as a note under section 57c of this title\] and 21 \[enacting section 57a–1 of this title and enacting a provision set out as a note under section 57a–1 of this title\], of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374) are hereby extended until the termination date set forth in section 102(c) of H.J. Res. 631 \[Sept. 30, 1983\] as enacted into law \[Pub. L. 97–377\], notwithstanding subsections 10(e) \[see paragraph above\] and 21(i) \[set out as a note under section 57a–1 of this title\] of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374).”
 
@@ -256,7 +256,7 @@ Section 19 of Pub. L. 96–252 prohibited the Federal Trade Commission from usin
 
 #### Oversight Hearings With Respect to Federal Trade Commission
 
-Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendarmonths, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
+Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
 
 #### Applicability of Unfair or Deceptive Acts or Practices Rulemaking Procedures to Rules Classifying Corporations Promulgated Prior to January 4, 1975
 

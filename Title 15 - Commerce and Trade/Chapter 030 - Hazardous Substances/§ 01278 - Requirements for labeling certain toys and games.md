@@ -14,7 +14,7 @@
 
 &emsp;The cautionary statement required by paragraph (1) for a toy or game shall be as follows:
 
-[Image not captured:  ]
+g,w207,d66[Image not captured:  ]
 
 #### (b) Balloons, small balls, and marbles
 
@@ -38,29 +38,29 @@
 
 &emsp;&emsp;In the case of balloons, or toys or games that contain latex balloons, the following cautionary statement applies:
 
-[Image not captured:  ]
+g,w207,d108[Image not captured:  ]
 
 #### (B) Balls
 
 &emsp;&emsp;In the case of balls, the following cautionary statement applies:
 
-[Image not captured:  ]
+g,w207,d66[Image not captured:  ]
 
 #### (C) Marbles
 
 &emsp;&emsp;In the case of marbles, the following cautionary statement applies:
 
-[Image not captured:  ]
+g,w207,d66[Image not captured:  ]
 
 #### (D) Toys and games
 
 &emsp;&emsp;In the case of toys or games containing balls, the following cautionary statement applies:
 
-[Image not captured:  ]
+g,w207,d66[Image not captured:  ]
 
 > &emsp;&emsp;In the case of toys or games containing marbles, the following cautionary statement applies:
 
-[Image not captured:  ]
+g,w207,d66[Image not captured:  ]
 
 #### (c) General labeling requirements
 
@@ -86,11 +86,11 @@
 
 &emsp;(B)(i) In the case of a product to which subsection (a) of this section, subsection (b)(2)(B) of this section, subsection (b)(2)(C) of this section, or subsection (b)(2)(D) of this section applies, the statement specified by this subparagraph is as follows:
 
-[Image not captured:  ]
+g,w207,d36[Image not captured:  ]
 
 &emsp;(ii) In the case of a product to which subsection (b)(2)(A) of this section applies, the statement specified by this subparagraph is as follows:
 
-[Image not captured:  ]
+g,w207,d36[Image not captured:  ]
 
 #### (d) Treatment as misbranded hazardous substance
 

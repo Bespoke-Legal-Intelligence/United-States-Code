@@ -1,8 +1,8 @@
 Part E—National Library of Education
 
-<i><sup>1</sup></i><i>So in original. Probably should be “Dissemination Office”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Dissemination Office”.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be section “6031”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section “6031”.</i>
 
 
 ---

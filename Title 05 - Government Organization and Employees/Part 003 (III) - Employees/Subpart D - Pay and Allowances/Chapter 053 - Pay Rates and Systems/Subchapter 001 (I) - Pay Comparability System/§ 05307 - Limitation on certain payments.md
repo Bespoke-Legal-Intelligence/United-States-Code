@@ -24,13 +24,13 @@ Level I of the Executive Schedule, referred to in subsec. (a)(1), is set out in 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–77, §2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–77, §2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
 
 Subsec. (b)(3). Pub. L. 102–77, §2(4), struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
 
-1982—Subsec. (a). Pub. L. 97–258 substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
 
 #### Effective Date of 1990 Amendment
 

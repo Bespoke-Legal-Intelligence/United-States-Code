@@ -14,7 +14,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;(A) as against a purchaser of such security who at the time of purchase did not have actual notice or knowledge of the existence of such lien; and
 
-&emsp;&emsp;(B) as against a holder of a security interest in such security who, at the time suchinterest came into existence, did not have actual notice or knowledge of the existence of such lien.
+&emsp;&emsp;(B) as against a holder of a security interest in such security who, at the time such interest came into existence, did not have actual notice or knowledge of the existence of such lien.
 
 #### (2) Motor vehicles
 
@@ -66,7 +66,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (10) Passbook loans
 
-&emsp;With respect to a savings deposit, share, or other account, evidenced by a passbook, with an institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account and if such institution has been continuously in possession of such passbook from the time the loan is made.
+&emsp;With respect to a savings deposit, share, or other account, evidenced by a passbook, withan institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account and if such institution has been continuously in possession of such passbook from the time the loan is made.
 
 #### (c) Protection for certain commercial transactions financing agreements, etc.
 
@@ -410,7 +410,7 @@ Section 702(q)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 “(A) The amendments made by this subsection \[amending this section\] shall apply with respect to liens, other security interests, and other interests in real property acquired after the date of the enactment of this Act \[Nov. 6, 1978\].
 
-“(B) If, after the date of the enactment of this Act, there is a change in the application (or nonapplication) of section 6323(f)(4) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] (as amended by paragraph (1)) with respect to any filing jurisdiction, such change shall apply only with respect to liens, other security interests, and other interests in real property acquired after the date of such change.”
+“(B) If, after the date of the enactment of this Act, there is a change in the application (or nonapplication) of section 6323(f)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by paragraph (1)) with respect to any filing jurisdiction, such change shall apply only with respect to liens, other security interests, and other interests in real property acquired after the date of such change.”
 
 #### Effective Date of 1976 Amendment
 

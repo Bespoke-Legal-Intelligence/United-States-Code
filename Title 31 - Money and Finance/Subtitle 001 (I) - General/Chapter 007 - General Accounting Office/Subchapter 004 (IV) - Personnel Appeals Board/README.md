@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 732, 735 of this title; title 40 section 166b–7; title 42 section 12209.
+This subchapter is referred to in sections 732, 735 of this title; title 2 section 1371; title 42 section 12209.
 
 
 ---

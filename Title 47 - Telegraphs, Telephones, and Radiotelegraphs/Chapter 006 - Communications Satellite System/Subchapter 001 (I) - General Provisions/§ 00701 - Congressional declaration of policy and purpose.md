@@ -62,7 +62,7 @@ Preconditions for Intelsat Consultation.—Before consulting with Intelsat for p
 
 Amendment of Intelsat Agreement.—(1) The Secretary of State shall consult with the United States signatory to Intelsat and the Secretary of Commerce regarding the appropriate scope and character of a modification to article V(d) of the Intelsat Agreement which would permit Intelsat to establish cost-based rates for individual traffic routes, as exceptional circumstances warrant, paying particular attention to the need for avoiding significant economic harm to the global system of Intelsat as well as United States national and foreign policy interests.
 
-“(2)(A) To ensure that rates established by Intelsat for such routes are cost-based, the Secretary of State, in consultation with the Secretary of Commerce and the Chairman of the Federal Communications Commission, shall instruct the United States signatory toIntelsat to ensure that sufficient documentation, including documentation regarding revenues and costs, is provided by Intelsat so as to verify that such rates are in fact cost-based.
+“(2)(A) To ensure that rates established by Intelsat for such routes are cost-based, the Secretary of State, in consultation with the Secretary of Commerce and the Chairman of the Federal Communications Commission, shall instruct the United States signatory to Intelsat to ensure that sufficient documentation, including documentation regarding revenues and costs, is provided by Intelsat so as to verify that such rates are in fact cost-based.
 
 “(B) To the maximum extent possible, such documenation \[documentation\] will be made available to interested parties on a timely basis.
 

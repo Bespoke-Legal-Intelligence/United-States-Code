@@ -2,7 +2,7 @@
 
 #### (a) Amount
 
-(1) Except as provided in paragraph (2), from each State's allotment under this part for any fiscal year, the Commissioner shall pay to a State an amount equal to the Federal share of the cost of vocational rehabilitation services under the plan for that State approved under section 721 of this title, including expendituresfor the administration of the State plan and development and implementation of the strategic plan as provided in section 721(a)(34)(A) of this title. Any State that receives such an amount shall expend, for development and implementation of the strategic plan, not less than the percentage of the allotment of the State referred to in section 721(a)(34)(B) of this title.
+(1) Except as provided in paragraph (2), from each State's allotment under this part for any fiscal year, the Commissioner shall pay to a State an amount equal to the Federal share of the cost of vocational rehabilitation services under the plan for that State approved under section 721 of this title, including expenditures for the administration of the State plan and development and implementation of the strategic plan as provided in section 721(a)(34)(A) of this title. Any State that receives such an amount shall expend, for development and implementation of the strategic plan, not less than the percentage of the allotment of the State referred to in section 721(a)(34)(B) of this title.
 
 (2)(A) The total of payments under paragraph (1) to a State for a fiscal year may not exceed its allotment under subsection (a),<sup>1</sup> of section 730 of this title for such year and such payments shall not be made in an amount which would result in a violation of the provisions of the State plan required by section 721(a)(17) of this title.
 

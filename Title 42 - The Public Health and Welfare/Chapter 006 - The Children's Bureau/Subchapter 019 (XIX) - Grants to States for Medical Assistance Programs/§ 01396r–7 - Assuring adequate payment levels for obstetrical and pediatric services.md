@@ -22,7 +22,7 @@
 
 #### (b) Data respecting statewide average payment rates for obstetrical services furnished by various classes of providers
 
-For amendments submitted under subsection (a)(1) of this section in 1992 and thereafter, the data submitted under such subsection must include, for the second previous year, at least the statewide average payment rates under the State plan for obstetrical services furnished by obstetricians, obstetrician-gynecologists, family practitioners, certified family nurse practitioners, and certified nurse midwives, by procedure.Such information shall be provided separately for providers located in each metropolitan statistical area (or similar area) in the State and in the remainder of the State.
+For amendments submitted under subsection (a)(1) of this section in 1992 and thereafter, the data submitted under such subsection must include, for the second previous year, at least the statewide average payment rates under the State plan for obstetrical services furnished by obstetricians, obstetrician-gynecologists, familypractitioners, certified family nurse practitioners, and certified nurse midwives, by procedure. Such information shall be provided separately for providers located in each metropolitan statistical area (or similar area) in the State and in the remainder of the State.
 
 #### (c) Data respecting statewide average payment rates for pediatric services furnished by various classes of providers
 

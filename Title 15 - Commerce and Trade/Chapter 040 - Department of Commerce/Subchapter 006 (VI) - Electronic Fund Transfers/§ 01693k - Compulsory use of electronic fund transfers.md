@@ -6,5 +6,5 @@ No person may—
 
 &emsp;(2) require a consumer to establish an account for receipt of electronic fund transfers with a particular financial institution as a condition of employment or receipt of a government benefit.
 
-(Pub. L. 90 321, title IX, §913, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
+(Pub. L. 90–321, title IX, §913, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
 

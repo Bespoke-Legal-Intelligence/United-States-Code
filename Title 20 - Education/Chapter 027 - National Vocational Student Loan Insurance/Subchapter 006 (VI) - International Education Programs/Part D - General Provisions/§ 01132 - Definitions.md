@@ -24,19 +24,19 @@ As used in this subchapter—
 
 All references to individuals or organizations, unless the context otherwise requires, mean individuals who are citizens or permanent residents of the United States or organizations which are organized or incorporated in the United States.
 
-(Pub. L. 89 329, title VI, §631, as added Pub. L. 102 325, title VI, §601, July 23, 1992, 106 Stat. 736.)
+(Pub. L. 89–329, title VI, §631, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736.)
 
 #### References in Text
 
-Section 212(d) of the Education for Economic Security Act, referred to in subsec. (a)(7), is section 212(d) of Pub. L. 98 377, title II, Aug. 11, 1984, 98 Stat. 1281, as amended, which was classified to section 3972(d) of this title and was repealed by Pub. L. 100 297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 212(d) of the Education for Economic Security Act, referred to in subsec. (a)(7), is section 212(d) of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1281, as amended, which was classified to section 3972(d) of this title and was repealed by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
 #### Prior Provisions
 
-A prior section 1132, Pub. L. 89 329, title VI, §622, as added Pub. L. 96 374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1470; amended Pub. L. 99 498, title VI, §614, Oct. 17, 1986, 100 Stat. 1520, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1132, Pub. L. 89–329, title VI, §622, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1470; amended Pub. L. 99–498, title VI, §614, Oct. 17, 1986, 100 Stat. 1520, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 1132, Pub. L. 89 329, title VI, §622, Nov. 8, 1965, 79 Stat. 1266, related to stipends for persons attending faculty development program institutes, prior to the general revision of this subchapter by Pub. L. 96 374.
+Another prior section 1132, Pub. L. 89–329, title VI, §622, Nov. 8, 1965, 79 Stat. 1266, related to stipends for persons attending faculty development program institutes, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Effective Date
 
-Part effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Part effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 

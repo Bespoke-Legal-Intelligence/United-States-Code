@@ -28,7 +28,7 @@ Special Apportionment Categories.—(1) The Secretary shall use amounts made ava
 
 &emsp;(A) at least 5 percent for grants for reliever airports.
 
-&emsp;(B) at least 12.5 percent for grants for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
+&emsp;(B) at least 12.5 percent for grants for airport noise compatibility planning under section47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
 
 &emsp;(C) at least 1.5 percent for grants for—
 
@@ -46,7 +46,7 @@ Special Apportionment Categories.—(1) The Secretary shall use amounts made ava
 
 (f)
 
-Limitation for Commercial Service Airport in Alaska.—The Secretary may not makea grant for a commercial service airport in Alaska of more than 110 percent of the amount apportioned for the airport for a fiscal year under section 47114(e) of this title.
+Limitation for Commercial Service Airport in Alaska.—The Secretary may not make a grant for a commercial service airport in Alaska of more than 110 percent of the amount apportioned for the airport for a fiscal year under section 47114(e) of this title.
 
 (g)
 

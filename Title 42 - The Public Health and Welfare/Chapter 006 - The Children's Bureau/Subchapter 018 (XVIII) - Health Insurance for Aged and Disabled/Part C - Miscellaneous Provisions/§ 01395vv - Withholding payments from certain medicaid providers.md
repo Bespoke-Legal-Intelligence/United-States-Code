@@ -6,7 +6,7 @@ The Secretary may adjust, in accordance with this section, payments under parts 
 
 &emsp;(1) has (or previously had) in effect an agreement with a State agency to furnish medical care and services under a State plan approved under subchapter XIX of this chapter, and
 
-&emsp;(2) from which (or from whom) such State agency (A) has been unable to recover overpayments made under the State plan, or (B) has been unable to collect the information necessary to enable it to determine the amount (if any) of the overpayments made to such institution or person under the State plan.
+&emsp;(2) from which (or from whom) such State agency (A) has been unable to recover overpayments made under the State plan, or (B)has been unable to collect the information necessary to enable it to determine the amount (if any) of the overpayments made to such institution or person under the State plan.
 
 #### (b) Implementing regulations; notice, opportunity to be heard, etc.
 

@@ -34,7 +34,7 @@ Individuals shall be selected for internships and fellowships based on applicati
 
 In selecting individuals for internships and fellowships, the Administrator shall provide for wide geographic, cultural, and minority representation.
 
-(Pub. L. 101 619, §7, Nov. 16, 1990, 104 Stat. 3331.)
+(Pub. L. 101–619, §7, Nov. 16, 1990, 104 Stat. 3331.)
 
 #### Section Referred to in Other Sections
 

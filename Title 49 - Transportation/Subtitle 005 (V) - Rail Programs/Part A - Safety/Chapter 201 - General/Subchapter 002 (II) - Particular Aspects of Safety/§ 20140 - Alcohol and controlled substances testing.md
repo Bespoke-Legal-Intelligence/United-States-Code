@@ -8,7 +8,7 @@ Definition.—In this section, “controlled substance” means any substance un
 
 General.—(1) In the interest of safety, the Secretary of Transportation shall prescribe regulations and issue orders, not later than October 28, 1992, related to alcohol and controlled substances use in railroad operations. The regulations shall establish a program requiring—
 
-&emsp;(A) a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and
+&emsp;(A) a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation; the regulations shall permit such railroad carriers to conduct preemployment testing of such employees for the use of alcohol; and
 
 &emsp;(B) when the Secretary considers it appropriate, disqualification for an established period of time or dismissal of any employee found—
 
@@ -26,7 +26,7 @@ Testing and Laboratory Requirements.—In carrying out this section, the Secreta
 
 &emsp;(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, including mandatory guidelines establishing—
 
-&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substancestesting and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
+&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
 
 &emsp;&emsp;(B) the minimum list of controlled substances for which individuals may be tested; and
 
@@ -60,7 +60,7 @@ International Obligations and Foreign Laws and Regulations.—In carrying out th
 
 Other Regulations Allowed.—This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed or order issued before October 28, 1991, governing the use of alcohol or a controlled substance in railroad operations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 876.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 876; Pub. L. 104–59, title III, §342(b), Nov. 28, 1995, 109 Stat. 609.)
 
 Historical and Revision Notes
 
@@ -103,6 +103,10 @@ In subsection (c)(3), the words “of any employee” are omitted as surplus.
 In subsection (c)(4), the words “by any employee” are omitted as surplus.
 
 In subsection (c)(5), the word “tested” is substituted for “assayed” for consistency. The words “2d confirmation test” are substituted for “independent test” for clarity and consistency.
+
+#### Amendments
+
+1995—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and”.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 &emsp;(B) immediately commence a review of the management plan or amendment to determine whether it is consistent with the national standards, the other provisions of this chapter, and any other applicable law;
 
-&emsp;(C) immediately publish in the Federal Register a notice stating that the plan or amendment is available and that written data, views, or comments of interested persons on the planor amendment may be submitted to the Secretary during the 60-day period beginning on the receipt date; and
+&emsp;(C) immediately publish in the Federal Register a notice stating that the plan or amendment is available and that written data, views, or comments of interested persons on the plan or amendment may be submitted to the Secretary during the 60-day period beginning on the receipt date; and
 
 &emsp;(D) by the 15th day after the receipt date—
 
@@ -74,7 +74,7 @@
 
 #### (c) Preparation by Secretary
 
-(1) The Secretary may prepare a fishery management plan, with respect to any fishery, or any amendment to any such plan, in accordance with the national standards, the other provisions of this chapter, and any other applicable law, if—
+(1) The Secretary may prepare a fishery management plan, with respect to any fishery, orany amendment to any such plan, in accordance with the national standards, the other provisions of this chapter, and any other applicable law, if—
 
 &emsp;(A) the appropriate Council fails to develop and submit to the Secretary, after a reasonable period of time, a fishery management plan for such fishery, or any necessary amendment to such a plan, if such fishery requires conservation and management; or
 
@@ -188,7 +188,7 @@ The Secretary shall by regulation establish the level of any fees which are auth
 
 (4) The Secretary shall, in cooperation with affected interests, commence a program to design, and evaluate the efficacy of, technological devices and other changes in fishing technology for the reduction of incidental mortality of nontarget fishery resources in the course of shrimp trawl fishing activity. Such program shall take into account local conditions and include evaluation of any reduction in incidental mortality, as well as any reduction or increase in the retention of shrimp in the course of normal fishing activity.
 
-(5) The Secretary shall, upon completion of the programs required by this subsection, submit a detailed report on the results of such programs to the Committee on Commerce, Science,and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
+(5) The Secretary shall, upon completion of the programs required by this subsection, submit a detailed report on the results of such programs to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
 (6)(A) Except as provided in this paragraph, the Secretary may not implement any measures under this chapter to reduce incidental mortality of nontarget fishery resources in the course of shrimp trawl fishing which would restrict the period during which shrimp are harvested or would require the use of any technological device or other change in fishing technology.
 
@@ -254,9 +254,9 @@ Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the 
 
 1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Counciland submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
-Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails tochange such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
+Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 
 Subsec. (c)(2). Pub. L. 97–453, §7(a)(2)(B), amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to section 1855 of this title.
 
@@ -268,7 +268,7 @@ Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsec
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Interim Management of Highly Migratory Species Fisheries
 

@@ -14,7 +14,7 @@
 
 #### (b) Additional credit
 
-In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemployment compensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individualsin his employ, or to a rate of 5.4 percent, whichever rate is lower.
+In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemploymentcompensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
 
 #### (c) Limit on total credits
 
@@ -60,7 +60,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 #### (3) Additional taxes inapplicable where advances are repaid before November 10 of taxable year
 
-&emsp;Paragraph (2) of subsection (c) shall not apply with respect to any State for the taxable year if (as of the beginning of November 10 of such year) there is no balance of advances referred to in such paragraph.
+&emsp;Paragraph (2) of subsection (c) shall not apply with respect to any State for the taxableyear if (as of the beginning of November 10 of such year) there is no balance of advances referred to in such paragraph.
 
 #### (4) Average employer contribution rate
 
@@ -68,7 +68,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;&emsp;(A) the total of the contributions paid into the State unemployment fund with respect to such calendar year, by
 
-&emsp;&emsp;(B)(i) for purposes of subparagraph (B) of subsection (c)(2), the total of the wages (asdetermined without any limitation on amount) attributable to such State subject to contributions under this chapter with respect to such calendar year, and
+&emsp;&emsp;(B)(i) for purposes of subparagraph (B) of subsection (c)(2), the total of the wages (as determined without any limitation on amount) attributable to such State subject to contributions under this chapter with respect to such calendar year, and
 
 &emsp;&emsp;(ii) for purposes of subparagraph (C) of subsection (c)(2), the total of the remuneration subject to contributions under the State unemployment compensation law with respect to such calendar year.
 
@@ -120,7 +120,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;&emsp;(C) the State unemployment tax rate for the taxable year equals or exceeds the average benefit cost ratio for calendar years in the 5-calendar year period ending with the last calendar year before the taxable year, and
 
-&emsp;&emsp;(D) the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxableyear (or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981).
+&emsp;&emsp;(D) the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year (or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981).
 
 > &emsp;The requirements of subparagraphs (C) and (D) shall not apply to taxable years 1981 and 1982.
 
@@ -194,7 +194,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (7) Definitions and special rules
 
-&emsp;The definitions and special rules set forth in subsection (d) shall apply to this subsection in the same manner as they apply to subsection (c).
+&emsp;The definitions and special rules set forth in subsection (d) shall apply to this subsection inthe same manner as they apply to subsection (c).
 
 #### (8) Partial limitation
 
@@ -466,7 +466,7 @@ Qualified small business provision.—For purposes of this paragraph, the term �
 
 &emsp;“(E)
 
-Definition.—For purposes of this paragraph, the term ‘wages’ means the remuneration subject tocontributions under the State unemployment compensation law, except that for purposes of subparagraph (D) the amount of total wages paid by an employer shall be determined without regard to any limitation on the amount subject to contribution.”
+Definition.—For purposes of this paragraph, the term ‘wages’ means the remuneration subject to contributions under the State unemployment compensation law, except that for purposes of subparagraph (D) the amount of total wages paid by an employer shall be determined without regard to any limitation on the amount subject to contribution.”
 
 \[Section 1(b) of Pub. L. 98–601 provided that: “The amendment made by subsection (a) \[amending section 271(d) of Pub. L. 97–248, set out above\] shall apply to remuneration paid after December 31, 1984.”\]
 

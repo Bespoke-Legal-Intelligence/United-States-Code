@@ -28,13 +28,13 @@ As used in this subchapter—
 
 &emsp;(7) The term “location information” means a consumer's place of abode and his telephone number at such place, or his place of employment.
 
-&emsp;(8) The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing.
+&emsp;(8) The term “State” means any State, territory, or possession of the United States, theDistrict of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing.
 
-(Pub. L. 90 321, title VIII, §803, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99 361, July 9, 1986, 100 Stat. 768.)
+(Pub. L. 90–321, title VIII, §803, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99–361, July 9, 1986, 100 Stat. 768.)
 
 #### Amendments
 
-1986—Par. (6). Pub. L. 99 361 in provision preceding cl. (A) substituted “clause (F)” for “clause (G)”, struck out cl. (F) which excluded any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client from term “debt collector”, and redesignated cl. (G) as (F).
+1986—Par. (6). Pub. L. 99–361 in provision preceding cl. (A) substituted “clause (F)” for “clause (G)”, struck out cl. (F) which excluded any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client from term “debt collector”, and redesignated cl. (G) as (F).
 
 #### Section Referred to in Other Sections
 

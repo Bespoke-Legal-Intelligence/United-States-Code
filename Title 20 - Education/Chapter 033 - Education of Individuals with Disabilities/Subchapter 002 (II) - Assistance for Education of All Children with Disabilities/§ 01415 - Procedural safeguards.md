@@ -34,7 +34,7 @@ If the hearing required in paragraph (2) of subsection (b) of this section is co
 
 Any party to any hearing conducted pursuant to subsections (b) and (c) of this section shall be accorded—
 
-&emsp;(1) the right to be accompanied and advised by counsel and by individuals with special knowledge or training with respect to the problems of children with disabilities,
+&emsp;(1) the right to be accompanied and advised by counsel and by individuals with specialknowledge or training with respect to the problems of children with disabilities,
 
 &emsp;(2) the right to present evidence and confront, cross-examine, and compel the attendance of witnesses,
 
@@ -90,63 +90,63 @@ Any party to any hearing conducted pursuant to subsections (b) and (c) of this s
 
 Nothing in this chapter shall be construed to restrict or limit the rights, procedures, and remedies available under the Constitution, title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], or other Federal statutes protecting the rights of children and youth with disabilities, except that before the filing of a civil action under such laws seeking relief that is also available under this subchapter, the procedures under subsections (b)(2) and (c) of this section shall be exhausted to the same extent as would be required had the action been brought under this subchapter.
 
-(Pub. L. 91 230, title VI, §615, as added Pub. L. 94 142, §5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99 372, §§2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100 630, title I, §102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101 476, title IX, §901(b)(71) (75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102 119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103 382, title III, §314(a)(1), Oct. 20, 1994, 108 Stat. 3936.)
+(Pub. L. 91–230, title VI, §615, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, §102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §314(a)(1), Oct. 20, 1994, 108 Stat. 3936.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 314(a)(2) of Pub. L. 103 382, see Effective and Termination Dates of 1994 Amendment note below.</i>
+<i>For termination of amendment by section 314(a)(2) of Pub. L. 103–382, see Effective and Termination Dates of 1994 Amendment note below.</i>
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e)(4)(D)(i), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Rehabilitation Act of 1973, referred to in subsec. (f), is Pub. L. 93 112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Amendments
 
-1994—Subsec. (e)(3). Pub. L. 103 382, §314(a), temporarily amended par. (3) by designating existing provisions as subpar. (A), substituting “Except as provided in subparagraph (B), during” for “During”, and adding subpar. (B). See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (e)(3). Pub. L. 103–382, §314(a), temporarily amended par. (3) by designating existing provisions as subpar. (A), substituting “Except as provided in subparagraph (B), during” for “During”, and adding subpar. (B). See Effective and Termination Dates of 1994 Amendment note below.
 
-1991—Pub. L. 102 119 amended directory language of Pub. L. 101 476, §901(b). See 1990 Amendment note below.
+1991—Pub. L. 102–119 amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
 
-1990—Pub. L. 101 476, §901(b), was amended in its directory language by Pub. L. 102 119, requiring no change in text.
+1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, requiring no change in text.
 
-Subsec. (a). Pub. L. 101 476, §901(b)(71), substituted “children with disabilities” for “handicapped children”.
+Subsec. (a). Pub. L. 101–476, §901(b)(71), substituted “children with disabilities” for “handicapped children”.
 
-Subsec. (b)(1)(A). Pub. L. 101 476, §901(b)(72), substituted “child with a disability” for “handicapped child”.
+Subsec. (b)(1)(A). Pub. L. 101–476, §901(b)(72), substituted “child with a disability” for “handicapped child”.
 
-Subsec. (d)(1). Pub. L. 101 476, §901(b)(73), substituted “children with disabilities” for “handicapped children”.
+Subsec. (d)(1). Pub. L. 101–476, §901(b)(73), substituted “children with disabilities” for “handicapped children”.
 
-Subsec. (e)(4)(B). Pub. L. 101 476, §901(b)(74), substituted “child or youth with a disability” for “handicapped child or youth”.
+Subsec. (e)(4)(B). Pub. L. 101–476, §901(b)(74), substituted “child or youth with a disability” for “handicapped child or youth”.
 
-Subsec. (f). Pub. L. 101 476, §901(b)(75), substituted “children and youth with disabilities” for “handicapped children and youth”.
+Subsec. (f). Pub. L. 101–476, §901(b)(75), substituted “children and youth with disabilities” for “handicapped children and youth”.
 
-1988—Subsec. (b)(1)(D). Pub. L. 100 630, §102(e)(1), substituted “informs” for “inform”.
+1988—Subsec. (b)(1)(D). Pub. L. 100–630, §102(e)(1), substituted “informs” for “inform”.
 
-Subsec. (d). Pub. L. 100 630, §102(e)(2), substituted “shall be accorded—” for “shall be accorded” in introductory provisions, added pars. (1) to (4), and struck out former cls. (1) to (4) which read as follows: “(1) the right to be accompanied and advised by counsel and by individuals with special knowledge or training with respect to the problems of handicapped children, (2) the right to present evidence and confront, cross-examine, and compel the attendance of witnesses, (3) the right to a written or electronic verbatim record of such hearing, and (4) the right to written findings of fact and decisions (which findings and decisions shall also be transmitted to the advisory panel established pursuant to section 1413(a)(12) of this title).”
+Subsec. (d). Pub. L. 100–630, §102(e)(2), substituted “shall be accorded—” for “shall be accorded” in introductory provisions, added pars. (1) to (4), and struck out former cls. (1) to (4) which read as follows: “(1) the right to be accompanied and advised by counsel and by individuals with special knowledge or training with respect to the problems of handicapped children, (2) the right to present evidence and confront, cross-examine, and compel the attendance of witnesses, (3) the right to a written or electronic verbatim record of such hearing, and (4) the right to written findings of fact and decisions (which findings and decisions shall also be transmitted to the advisory panel established pursuant to section 1413(a)(12) of this title).”
 
-1986—Subsec. (e)(4). Pub. L. 99 372, §2, designated existing provision as subpar. (A) and added subpars. (B) to (G).
+1986—Subsec. (e)(4). Pub. L. 99–372, §2, designated existing provision as subpar. (A) and added subpars. (B) to (G).
 
-Subsec. (f). Pub. L. 99 372, §3, added subsec. (f).
+Subsec. (f). Pub. L. 99–372, §3, added subsec. (f).
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Section 314(a)(2) of Pub. L. 103 382 provided that: “Paragraph (1) \[amending this section\] and the amendments made by paragraph (1) shall be effective during the period beginning on the date of enactment of this Act \[Oct. 20, 1994\] and ending on the date of enactment of an Act (enacted after the date of the enactment of this Act) that reauthorizes the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].”
+Section 314(a)(2) of Pub. L. 103–382 provided that: “Paragraph (1) \[amending this section\] and the amendments made by paragraph (1) shall be effective during the period beginning on the date of enactment of this Act \[Oct. 20, 1994\] and ending on the date of enactment of an Act (enacted after the date of the enactment of this Act) that reauthorizes the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 5 of Pub. L. 99 372, as amended by Pub. L. 101 476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “The amendment made by section 2 \[amending this section\] shall apply with respect to actions or proceedings brought under section 615(e) of the Individuals with Disabilities Education Act \[subsec. (e) of this section\] after July 3, 1984, and actions or proceedings brought prior to July 4, 1984, under such section which were pending on July 4, 1984.”
+Section 5 of Pub. L. 99–372, as amended by Pub. L. 101–476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “The amendment made by section 2 \[amending this section\] shall apply with respect to actions or proceedings brought under section 615(e) of the Individuals with Disabilities Education Act \[subsec. (e) of this section\] after July 3, 1984, and actions or proceedings brought prior to July 4, 1984, under such section which were pending on July 4, 1984.”
 
 #### Effective Date
 
-Section effective Oct. 1, 1977, see section 8 of Pub. L. 94 142, set out as an Effective Date of 1975 Amendment note under section 1411 of this title.
+Section effective Oct. 1, 1977, see section 8 of Pub. L. 94–142, set out as an Effective Date of 1975 Amendment note under section 1411 of this title.
 
 #### GAO Study of Attorneys’ Fees Provision
 
-Section 4 of Pub. L. 99 372 required Comptroller General, not later than June 30, 1989, to conduct a study of impact of amendments to 20 U.S.C. 1415 made by section 2 of Pub. L. 99 372.
+Section 4 of Pub. L. 99–372 required Comptroller General, not later than June 30, 1989, to conduct a study of impact of amendments to 20 U.S.C. 1415 made by section 2 of Pub. L. 99–372.
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ Appointment.—The Secretary of Commerce, in consultation with the Secretary of 
 
 &emsp;“(2) Taking actions to assure that United States businesses are fully informed of bidding opportunities for projects for which loans have been made by the multilateral development bank involved.
 
-&emsp;“(3) Taking actions to assure that United States businesses can focus on projects in which they have a particular interest or competitive advantage, and to permit them to compete and have an equal opportunity in submitting timely and conforming bidding documents.
+&emsp;“(3) Taking actions to assure that United States businesses can focus on projects in which they havea particular interest or competitive advantage, and to permit them to compete and have an equal opportunity in submitting timely and conforming bidding documents.
 
 “(b)
 
@@ -44,7 +44,7 @@ Definition.—As used in this section, the term ‘multilateral development bank
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $1,000,000 for each of the fiscal years 1993 and 1994 to carry out this section. Amounts appropriated pursuant to this subsection shall be available only for thepurpose of making the appointment of additional procurement officers required by subsection (a).”
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $1,000,000 for each of the fiscal years 1993 and 1994 to carry out this section. Amounts appropriated pursuant to this subsection shall be available only for the purpose of making the appointment of additional procurement officers required by subsection (a).”
 
 #### Definitions
 

@@ -4,7 +4,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (1) Closure or close
 
-&emsp;The term “closure or close” means the termination of operations at open dumps on Indian land or Alaska Native land and bringing such dumps into compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards and regulations.
+&emsp;The term “closure or close” means the termination of operations at open dumps on Indian land or Alaska Native land and bringingsuch dumps into compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards and regulations.
 
 #### (2) Director
 
@@ -38,7 +38,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (8) Postclosure maintenance
 
-&emsp;The term “postclosure maintenance” means any activity undertaken at a closed solid waste management facility on Indian land or on Alaska Native land to maintain the integrity of containment features, monitor compliance with applicable performance standards,or remedy any situation or occurrence that violates regulations promulgated pursuant to subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.).
+&emsp;The term “postclosure maintenance” means any activity undertaken at a closed solid waste management facility on Indian land or on Alaska Native land to maintain the integrity of containment features, monitor compliance with applicable performance standards, or remedy any situation or occurrence that violates regulations promulgated pursuant to subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.).
 
 #### (9) Service
 

@@ -1,4 +1,4 @@
-### §460uu–21 . Establishment; description of area
+### §460uu–21. Establishment; description of area
 
 (a) In order to protect for the benefit and enjoyment of future generations that area in western New Mexico containing the La Ventana Natural Arch and the other unique and nationally important geological, archeological, ecological, cultural, scenic, scientific, and wilderness resources of the public lands surrounding the Grants Lava Flows, there is hereby established the El Malpais National Conservation Area (hereinafter referred to as the “conservation area”). The conservation area shall consist of approximately 262,690 acres of federally owned land as generally depicted on a map entitled “El Malpais National Monument and National Conservation Area” numbered NM–ELMA–80,001–B and dated May 1987. The map shall be on file and available for inspection in the offices of the Director of the Bureau of Land Management of the Department of the Interior.
 
@@ -8,7 +8,7 @@
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -18,9 +18,9 @@ For the purpose of this subchapter, the term “law enforcement officer” means
 
 #### Amendments
 
-1992—Pub. L. 102–378 amended section generally, substituting in par. (1) “section 5541(3)” for “section 8331(20) or section 8401(17)”.
+<b>1992</b>—Pub. L. 102–378 amended section generally, substituting in par. (1) “section 5541(3)” for “section 8331(20) or section 8401(17)”.
 
-1991—Pub. L. 102–141 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter, the term ‘law enforcement officer’ has the same meaning as under section 5949(a).”
+<b>1991</b>—Pub. L. 102–141 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter, the term ‘law enforcement officer’ has the same meaning as under section 5949(a).”
 
 #### Effective Date
 

@@ -14,7 +14,7 @@
 
 > special assistance payments shall be paid to the State educational agency with respect to the school during the period on the basis of the number of lunches or breakfasts determined under clause (ii) or (iii).
 
-(ii) For purposes of making special assistance payments under clause (i), except as provided in clause (iii), the number of lunches or breakfasts served by a school to children who are eligible for free lunches or breakfasts or reduced price lunches or breakfasts during each school year of the 3-school-year period shall be considered to be equal to the number of lunches or breakfasts served by the school to children eligible for free lunches or breakfasts or reduced price lunches or breakfasts during the first school year of the period.
+(ii) For purposes of making special assistance payments under clause (i), except as provided inclause (iii), the number of lunches or breakfasts served by a school to children who are eligible for free lunches or breakfasts or reduced price lunches or breakfasts during each school year of the 3-school-year period shall be considered to be equal to the number of lunches or breakfasts served by the school to children eligible for free lunches or breakfasts or reduced price lunches or breakfasts during the first school year of the period.
 
 (iii) For purposes of computing the amount of the payments, a school may elect to determine on a more frequent basis the number of children who are eligible for free or reduced price lunches or breakfasts who are served lunches or breakfasts during the 3-school-year period.
 
@@ -28,7 +28,7 @@
 
 (E)(i) In the case of any school that—
 
-&emsp;(I) elects to serve all children in the school free lunches under the school lunch programduring any period of 4 successive school years, or in the case of a school that serves both lunches and breakfasts, elects to serve all children in the school free lunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
+&emsp;(I) elects to serve all children in the school free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school that serves both lunches and breakfasts, elects to serve all children in the school free lunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
 
 &emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
 
@@ -50,7 +50,7 @@
 
 &emsp;(iv) The national average payment rates for supplements (as established under section 1766(c) of this title).
 
-(B) The annual adjustment under this paragraph shall reflect changes in the cost of operating meal programs under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], as indicated by the change in the series for food away from home of the Consumer Price Index for all Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor. Each annual adjustment shall reflect the changes in the series for food away from home for the most recent 12-month period for which such data are available. The adjustments made under this paragraph shall be computed to the nearest one-fourth cent.
+(B) The annual adjustment under this paragraph shall reflect changes in the cost of operating meal programs under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], as indicated by the change in the series for food away from home of the Consumer Price Index for all Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor. Each annual adjustment shall reflect the changes in the series for food away from homefor the most recent 12-month period for which such data are available. The adjustments made under this paragraph shall be computed to the nearest one-fourth cent.
 
 #### (b) Financing cost of free and reduced price lunches on basis of need of school for special assistance; maximum per lunch amount
 
@@ -90,7 +90,7 @@ Subsec. (e)(1). Pub. L. 101–147, §203, substituted “The Secretary, when app
 
 Subsec. (f). Pub. L. 101–147, §312(2), (3), substituted “reduced price” for “reduced-price” and “special assistance” for “special-assistance”.
 
-1981—Subsec. (a). Pub. L. 97–35, §801(b), redesignated existing provisions as par. (1), substituted “(A)” for “(1)” and “(B)” for “(2)”, and struck out provisions relating to special assistance factors, adjustments, etc., for funds for the fiscal year beginning July 1, 1973, and after, and added pars. (2) and (3).
+1981—Subsec. (a). Pub. L. 97–35, §801(b), redesignated existing provisions as par. (1), substituted “(A)” for“(1)” and “(B)” for “(2)”, and struck out provisions relating to special assistance factors, adjustments, etc., for funds for the fiscal year beginning July 1, 1973, and after, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 97–35, §819(a)(1), struck out “financing the cost of” before “providing free”.
 
@@ -138,7 +138,7 @@ Subsec. (h). Pub. L. 91–248 added subsec. (h).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 
@@ -150,7 +150,7 @@ Amendment by section 801 of Pub. L. 97–35 effective Sept. 1, 1981, amendment b
 
 #### Effective Date of 1978 Amendment
 
-Amendment by sections 4 and 5(c) of Pub. L. 95–627 effective Jan. 1, 1979, and July 1, 1979, respectively, see section 14 of Pub. L. 95–627, set out as a note under section 1755 of this title.
+Amendment by sections 4 and 5(c) of Pub. L. 95–627 effective Jan. 1, 1979, and July 1, 1979, respectively, seesection 14 of Pub. L. 95–627, set out as a note under section 1755 of this title.
 
 #### Semiannual Adjustments Reflecting the Consumer Price Index for All Urban Consumers During Fiscal Year Ending September 30, 1981
 

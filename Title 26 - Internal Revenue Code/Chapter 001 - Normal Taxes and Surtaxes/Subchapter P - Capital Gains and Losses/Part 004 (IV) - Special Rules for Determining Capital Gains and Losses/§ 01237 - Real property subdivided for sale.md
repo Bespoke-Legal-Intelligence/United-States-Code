@@ -64,7 +64,7 @@ Amendment by section 1901(a)(138) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1971 Amendment
 
-Section 2(b) of Pub. L. 91–686 provided that: “The amendments made by subsection (a) \[amending thissection\] shall be effective for taxable years beginning after the date of enactment of this Act \[Jan. 12, 1971\].”
+Section 2(b) of Pub. L. 91–686 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for taxable years beginning after the date of enactment of this Act \[Jan. 12, 1971\].”
 
 #### Effective Date of 1958 Amendment
 

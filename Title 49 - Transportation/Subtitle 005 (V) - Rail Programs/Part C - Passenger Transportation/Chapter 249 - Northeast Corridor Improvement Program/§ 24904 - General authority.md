@@ -14,7 +14,7 @@ General.—To carry out this chapter and the Regional Rail Reorganization Act of
 
 &emsp;(5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
 
-&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.);
+&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.);
 
 &emsp;(7) appoint a general manager of the Northeast Corridor improvement program; and
 
@@ -28,7 +28,7 @@ Compensatory Agreements.—Rail freight and commuter rail passenger transportati
 
 Compensation for Transportation Over Certain Rights of Way and Facilities.—(1) An agreement under subsection (a)(6) of this section shall provide for reasonable reimbursement of costs but may not cross-subsidize intercity rail passenger, commuter rail passenger, and rail freight transportation.
 
-(2) If the parties do not agree, the Interstate Commerce Commission shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Commission shall assign to a rail freight carrier obtaining transportation under this subsectionthe costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
+(2) If the parties do not agree, the Interstate Commerce Commission shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Commission shall assign to a rail freight carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
 
 (3) This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Commission makes a decision under this subsection.
 
@@ -143,6 +143,10 @@ The Communications Act of 1934, referred to in subsec. (a)(8), is act June 19, 1
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,11 +8,11 @@ The purposes of this subchapter are to establish procedures for congressional re
 
 The Congress shall initiate or develop such legislation as it deems necessary to implement proposals and objectives pursuant to this chapter and the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\] after such modification in such proposals as it deems desirable. Nothing in this subchapter shall be construed to prevent the Congress or any of its committees from considering or initiating at any time legislative action in furtherance of the goals and purposes of this chapter.
 
-(Pub. L. 95 523, title III, §301, Oct. 27, 1978, 92 Stat. 1904.)
+(Pub. L. 95–523, title III, §301, Oct. 27, 1978, 92 Stat. 1904.)
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 95 523, Oct. 27, 1978, 92 Stat. 1904, which enacted this subchapter and amended sections 632 and 636 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1904, which enacted this subchapter and amended sections 632 and 636 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 3102 of this title.
 

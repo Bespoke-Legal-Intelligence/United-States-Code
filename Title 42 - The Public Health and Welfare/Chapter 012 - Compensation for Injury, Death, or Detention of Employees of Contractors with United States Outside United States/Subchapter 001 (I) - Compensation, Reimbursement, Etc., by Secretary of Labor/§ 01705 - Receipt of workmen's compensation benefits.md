@@ -16,7 +16,7 @@ Where any person specified in section 1701(a) of this title, or any dependent, b
 
 #### (d) Entitlement to benefits by national of a foreign government under foreign laws
 
-Where a national of a foreign government is entitled to benefits on account of injury or death resulting from a war-risk hazard, under the laws of his native country or any other foreign country, the benefits of this subchapter shall not apply.
+Where a national of a foreign government is entitled to benefits on account of injury ordeath resulting from a war-risk hazard, under the laws of his native country or any other foreign country, the benefits of this subchapter shall not apply.
 
 #### (e) Receipt of benefits for prior accident or disease
 

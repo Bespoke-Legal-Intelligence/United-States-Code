@@ -18,7 +18,7 @@ The provisions of subsection (a) of this section shall be applicable only with r
 
 > a State plan for medical assistance, approved under subchapter XIX of this chapter, under which medical assistance is available to such individual only for periods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1133, as added June 17, 1980, Pub. L. 96–272, title III, §310(a)(1), 94 Stat. 532; amended June 13, 1991, Pub. L. 102–54, §13(q)(3)(B)(iii), 105 Stat. 279.)
+(Aug. 14, 1935, ch. 531, title XI, §1133, as added June 17, 1980, Pub. L. 96–272, title III, §310(a)(1),94 Stat. 532; amended June 13, 1991, Pub. L. 102–54, §13(q)(3)(B)(iii), 105 Stat. 279.)
 
 #### References in Text
 

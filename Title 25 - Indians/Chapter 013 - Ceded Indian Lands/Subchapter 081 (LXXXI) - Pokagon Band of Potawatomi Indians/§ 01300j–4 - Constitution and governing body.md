@@ -14,7 +14,7 @@
 
 #### (1) Election
 
-&emsp;Not later than 6 months after the Band adopts a constitution and bylaws pursuant to subsection (a) of this section, the Secretary shall conduct elections by secret ballot for the purpose of electing officials for the Band as provided in the Band's constitution. The election shall be conducted according to the procedures described in subsection (a) of this section, except to the extent that such procedures conflict with the Band's constitution.
+&emsp;Not later than 6 months after the Band adopts a constitution and bylaws pursuant to subsection (a) of this section, the Secretary shall conduct elections by secret ballot for the purpose of electing officials for the Band asprovided in the Band's constitution. The election shall be conducted according to the procedures described in subsection (a) of this section, except to the extent that such procedures conflict with the Band's constitution.
 
 #### (2) Interim government
 

@@ -122,7 +122,7 @@ Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 652, 900 of this title; title 39 section 2009a.
+This section is referred to in sections 652, 900, 1602 of this title; title 39 section 2009a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

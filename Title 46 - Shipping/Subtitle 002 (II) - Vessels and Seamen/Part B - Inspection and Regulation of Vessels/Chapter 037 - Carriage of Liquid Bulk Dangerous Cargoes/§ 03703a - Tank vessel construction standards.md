@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(viii) after January 1, 2002, if the vessel is 28 years old or older and has a single hull, or is 33 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(ix) after January 1, 2003, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(ix) after January 1, 2003, if the vessel is 27 years old or older and has a single hull, or is32 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(x) after January 1, 2004, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides; and
 

@@ -8,15 +8,15 @@
 | [8704\.](%C2%A7%2008704%20-%20Group%20insurance%3B%20amounts.md) | Group insurance; amounts. |
 | [8705\.](%C2%A7%2008705%20-%20Death%20claims%3B%20order%20of%20precedence%3B%20escheat.md) | Death claims; order of precedence; escheat. |
 | [8706\.](%C2%A7%2008706%20-%20Termination%20of%20insurance%3B%20assignment%20of%20ownership.md) | Termination of insurance; assignment of ownership. |
-| 8707\. | Employee deductions; withholding. |
-| 8708\. | Government contributions. |
-| 8709\. | Insurance policies. |
-| 8710\. | Reinsurance. |
-| 8711\. | Basic tables of premium rates. |
-| 8712\. | Annual accounting; special contingency reserve. |
-| 8713\. | Effect of other statutes. |
-| 8714\. | Employees’ Life Insurance Fund. |
-| 8714a. | Optional insurance. |
+| [8707\.](%C2%A7%2008707%20-%20Employee%20deductions%3B%20withholding.md) | Employee deductions; withholding. |
+| [8708\.](%C2%A7%2008708%20-%20Government%20contributions.md) | Government contributions. |
+| [8709\.](%C2%A7%2008709%20-%20Insurance%20policies.md) | Insurance policies. |
+| [8710\.](%C2%A7%2008710%20-%20Reinsurance.md) | Reinsurance. |
+| [8711\.](%C2%A7%2008711%20-%20Basic%20tables%20of%20premium%20rates.md) | Basic tables of premium rates. |
+| [8712\.](%C2%A7%2008712%20-%20Annual%20accounting%3B%20special%20contingency%20reserve.md) | Annual accounting; special contingency reserve. |
+| [8713\.](%C2%A7%2008713%20-%20Effect%20of%20other%20statutes.md) | Effect of other statutes. |
+| [8714\.](%C2%A7%2008714%20-%20Employees%E2%80%99%20Life%20Insurance%20Fund.md) | Employees’ Life Insurance Fund. |
+| [8714a.](%C2%A7%2008714a%20-%20Optional%20insurance.md) | Optional insurance. |
 | [8714b.](%C2%A7%2008714b%20-%20Additional%20optional%20life%20insurance.md) | Additional optional life insurance. |
 | [8714c.](%C2%A7%2008714c%20-%20Optional%20life%20insurance%20on%20family%20members.md) | Optional life insurance on family members. |
 | [8714d.](%C2%A7%2008714d%20-%20Option%20to%20receive%20%E2%80%9Cliving%20benefits%E2%80%9D.md) | Option to receive “living benefits”. |
@@ -27,15 +27,15 @@
 
 #### Amendments
 
-1994—Pub. L. 103–409, §2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.
+<b>1994</b>—Pub. L. 103–409, §2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.
 
-1988—Pub. L. 100–238, title I, §108(a)(2)(B), Jan. 8, 1988, 101 Stat. 1747, added item 8713.
+<b>1988</b>—Pub. L. 100–238, title I, §108(a)(2)(B), Jan. 8, 1988, 101 Stat. 1747, added item 8713.
 
-1984—Pub. L. 98–353, title II, §208(b), July 10, 1984, 98 Stat. 351, inserted “; assignment of ownership” in item 8706.
+<b>1984</b>—Pub. L. 98–353, title II, §208(b), July 10, 1984, 98 Stat. 351, inserted “; assignment of ownership” in item 8706.
 
-1980—Pub. L. 96–427, §§2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
+<b>1980</b>—Pub. L. 96–427, §§2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
 
-1967—Pub. L. 90–206, title IV, §404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
+<b>1967</b>—Pub. L. 90–206, title IV, §404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
 
 Pub. L. 90–83, §1(94), Sept. 11, 1967, 81 Stat. 219, substituted “Advisory committee” for “Advisors” in item 8713.
 

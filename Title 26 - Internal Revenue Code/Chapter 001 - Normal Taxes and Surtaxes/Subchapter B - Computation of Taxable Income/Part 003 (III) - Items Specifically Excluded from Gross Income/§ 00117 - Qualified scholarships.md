@@ -48,7 +48,7 @@ Subsections (a) and (d) shall not apply to that portion of any amount received w
 
 &emsp;In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 38; Sept. 21, 1961, Pub. L. 87–256, §110(a), 75 Stat. 535; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), 90 Stat. 1794, 1803; Dec. 17, 1980, Pub. L. 96–541, §5(a)(1), 94 Stat. 3205; July 18, 1984, Pub. L. 98–369, div. A, title V, §532(a), 98 Stat. 887; Oct.22, 1986, Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), 100 Stat. 2112, 2450, 2506; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), 102 Stat. 3488, 3643; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(1), (2), 103 Stat. 830.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 38; Sept. 21, 1961, Pub. L. 87–256, §110(a), 75 Stat. 535; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), 90 Stat. 1794, 1803; Dec. 17, 1980, Pub. L. 96–541, §5(a)(1), 94 Stat. 3205; July 18, 1984, Pub. L. 98–369, div. A, title V, §532(a), 98 Stat. 887; Oct. 22, 1986, Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), 100 Stat. 2112, 2450, 2506; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), 102 Stat. 3488, 3643; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(1), (2), 103 Stat. 830.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1961 Amendment
 
-Section 110(h)(1) of Pub. L. 87–256 provided that: “The amendments made by subsections (a), (b), and (c) ofthis section \[amending this section and sections 871 and 872 of this title\] shall apply to taxable years beginning after December 31, 1961.”
+Section 110(h)(1) of Pub. L. 87–256 provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 871 and 872 of this title\] shall apply to taxable years beginning after December 31, 1961.”
 
 #### Regulations
 
@@ -166,7 +166,7 @@ Section 1853(f) of Pub. L. 99–514 provided that:
 
 “(1) A tuition reduction plan shall be treated as meeting the requirements of section 117(d)(3) of the Internal Revenue Code of 1954 \[now 1986\] if—
 
-&emsp;“(A) such plan would have met the requirements of such section (as amended by this section but without regard to the lack of evidence that benefits under such plan were the subject of good faith bargaining) on the day on which eligibility to participate in the plan was closed,
+&emsp;“(A) such plan would have met the requirements of such section (as amended by this section but without regard to the lack of evidence that benefits undersuch plan were the subject of good faith bargaining) on the day on which eligibility to participate in the plan was closed,
 
 &emsp;“(B) at all times thereafter, the tuition reductions available under such plan are available on substantially the same terms to all employees eligible to participate in such plan, and
 

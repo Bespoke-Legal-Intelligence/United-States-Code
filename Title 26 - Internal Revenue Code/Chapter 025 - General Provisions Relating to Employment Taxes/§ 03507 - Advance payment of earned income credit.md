@@ -232,5 +232,5 @@ Report.—Not later than 1 year after the date of the enactment of this title \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 32, 6012, 6051, 6302 of this title; title 7 section 2014; title 42 sections 602, 1382a, 1382b, 1383.
+This section is referred to in sections 32, 6012, 6051, 6302 of this title; title 7 section 2014; title 42 sections 602, 1382a, 1382b.
 

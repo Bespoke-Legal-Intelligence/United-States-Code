@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the status of the cultures and languages of Native Americans is unique and the UnitedStates has the responsibility to act together with Native Americans to ensure the survival of these unique cultures and languages;
+&emsp;(1) the status of the cultures and languages of Native Americans is unique and the United States has the responsibility to act together with Native Americans to ensure the survival of these unique cultures and languages;
 
 &emsp;(2) special status is accorded Native Americans in the United States, a status that recognizes distinct cultural and political rights, including the right to continue separate identities;
 

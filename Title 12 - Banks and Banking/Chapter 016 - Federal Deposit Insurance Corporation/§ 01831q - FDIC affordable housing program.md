@@ -82,7 +82,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (1) Notice to clearinghouses
 
-&emsp;Within a reasonable period of time after acquiring title to an eligible multifamily housing property, the Corporation shall provide written notice to clearinghouses. Such notice shall contain basic information about the property, including but not limited to location, number of units (identified by number of bedrooms), and information relating to the estimated fair market value of the property. Each clearinghouse shall make such information available, upon request, to qualifying multifamily purchasers. The Corporation shall allow qualifying multifamily purchasers reasonable access to eligible multifamily housing properties for purposes of inspection.
+&emsp;Within a reasonable period of time after acquiring title to an eligible multifamily housing property, the Corporation shall provide written notice to clearinghouses. Such notice shall contain basic information about the property, including but not limited to location, number of units (identified by number of bedrooms), and information relating to the estimated fair market value of the property. Each clearinghouse shall make such information available, upon request, to qualifying multifamily purchasers. The Corporation shallallow qualifying multifamily purchasers reasonable access to eligible multifamily housing properties for purposes of inspection.
 
 #### (2) Expression of serious interest
 

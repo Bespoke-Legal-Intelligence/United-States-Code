@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454, §906(a)(17), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
+<b>1978</b>—Pub. L. 95–454, §906(a)(17), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 

@@ -1,6 +1,6 @@
 ### §10404. Secretarial responsibilities
 
-(a) The Secretary shall appoint an employee of the Department of Health and Human Services to carry out the provisions of this chapter. The individual appointed under this subsection shall, prior to such appointment, have had expertise in the field of family violence prevention and services.
+(a) The Secretary shall appoint an employee of the Department of Health and Human Servicesto carry out the provisions of this chapter. The individual appointed under this subsection shall, prior to such appointment, have had expertise in the field of family violence prevention and services.
 
 (b) The Secretary shall—
 

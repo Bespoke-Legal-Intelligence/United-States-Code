@@ -1,4 +1,4 @@
-### §460u–1 . Acquisition of property
+### §460u–1. Acquisition of property
 
 #### (a) Authority of Secretary; negotiation for Indiana Dunes State Park; exchange of property; acquisition of land owned for educational purposes
 

@@ -1,4 +1,4 @@
-### §2018 . Security; terms
+### §2018. Security; terms
 
 #### (a) Real estate loans
 

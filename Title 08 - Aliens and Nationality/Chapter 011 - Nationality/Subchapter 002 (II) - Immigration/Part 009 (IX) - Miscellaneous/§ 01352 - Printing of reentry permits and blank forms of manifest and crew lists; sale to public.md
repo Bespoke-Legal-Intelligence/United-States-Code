@@ -1,4 +1,4 @@
-### §1352 . Printing of reentry permits and blank forms of manifest and crew lists; sale to public
+### §1352. Printing of reentry permits and blank forms of manifest and crew lists; sale to public
 
 (a) Reentry permits issued under section 1203 of this title shall be printed on distinctive safety paper and shall be prepared and issued under regulations prescribed by the Attorney General.
 

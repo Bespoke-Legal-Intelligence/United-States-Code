@@ -226,7 +226,7 @@ Par. (52). Pub. L. 96–497 added par. (52).
 
 #### Cross References
 
-For treatment of the National Fish and Wildlife Foundation as a private corporation established under Federal law for purposes of this chapter, see section 3706(a) of Title 16, Conservation.
+For treatment of the National Fish and Wildlife Foundation as a private corporation established underFederal law for purposes of this chapter, see section 3706(a) of Title 16, Conservation.
 
 #### Section Referred to in Other Sections
 

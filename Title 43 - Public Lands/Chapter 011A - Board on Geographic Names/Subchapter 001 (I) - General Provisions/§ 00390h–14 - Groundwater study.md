@@ -32,7 +32,7 @@ The High Plains Groundwater Demonstration Program Act of 1983, referred to in su
 
 Geological Survey redesignated United States Geological Survey by provision of title I of Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 1000, set out as a note under section 31 of this title.
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

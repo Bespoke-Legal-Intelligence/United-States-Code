@@ -10,7 +10,7 @@ Any claim challenging the partition of the joint reservation pursuant to section
 
 (2) Any such claim by the Hoopa Valley Tribe shall be barred 180 days after October 31, 1988, or such earlier date as may be established by the adoption of a resolution waiving such claims pursuant to section 1300i–1(a)(2) of this title.
 
-(3) Any such claim by the Yurok Tribe shall be barred 180 days after the general council meeting of the Yurok Tribe as provided in section1300i–8 of this title or such earlier date as may be established by the adoption of a resolution waiving such claims as provided in section 1300i–8(d)(2) of this title.
+(3) Any such claim by the Yurok Tribe shall be barred 180 days after the general council meeting of the Yurok Tribe as provided in section 1300i–8 of this title or such earlier date as may be established by the adoption of a resolution waiving such claims as provided in section 1300i–8(d)(2) of this title.
 
 #### (c) Report to Congress
 

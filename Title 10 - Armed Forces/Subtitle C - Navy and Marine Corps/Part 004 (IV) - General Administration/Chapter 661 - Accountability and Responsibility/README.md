@@ -2,9 +2,9 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 7861\. | Custody of departmental records and property. |
-| 7862\. | Accounts of paymasters of lost or captured naval vessels. |
-| 7863\. | Disbursements by order of commanding officer. |
+| [7861\.](%C2%A7%2007861%20-%20Custody%20of%20departmental%20records%20and%20property.md) | Custody of departmental records and property. |
+| [7862\.](%C2%A7%2007862%20-%20Accounts%20of%20paymasters%20of%20lost%20or%20captured%20naval%20vessels.md) | Accounts of paymasters of lost or captured naval vessels. |
+| [7863\.](%C2%A7%2007863%20-%20Disbursements%20by%20order%20of%20commanding%20officer.md) | Disbursements by order of commanding officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

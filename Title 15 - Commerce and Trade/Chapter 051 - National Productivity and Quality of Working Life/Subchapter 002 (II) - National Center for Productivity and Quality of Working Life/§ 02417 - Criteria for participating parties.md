@@ -12,5 +12,5 @@ If the Center determines, on the basis of information available to it during any
 
 The Center shall by regulation prescribe the basic criteria for determination of noncompliance by participating parties including appropriate provisions for notice and hearing with respect to such determination.
 
-(Pub. L. 94 136, title II, §207, Nov. 28, 1975, 89 Stat. 739.)
+(Pub. L. 94–136, title II, §207, Nov. 28, 1975, 89 Stat. 739.)
 

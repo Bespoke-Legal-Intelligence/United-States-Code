@@ -76,7 +76,7 @@ Section 424(b) of Pub. L. 97–34 provided that: “The amendment made by subsec
 
 #### Effective Date of 1978 Amendment
 
-Section 702(f)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying afterDecember 31, 1976, except that it shall not apply to transfers made before January 1, 1977.”
+Section 702(f)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976, except that it shall not apply to transfers made before January 1, 1977.”
 
 #### Effective Date of 1976 Amendment
 

@@ -404,7 +404,7 @@ Rio Grande, New Mexico.—The segment from the west section line of Section 15, 
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed andthe report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
@@ -430,7 +430,7 @@ Rio Grande, New Mexico.—The segment from the west section line of Section 15, 
 
 (11) <sup>10</sup> The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) of this section shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990,<sup>11</sup> and shall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
 
-(11) <sup>12</sup> (A) The study of the Delaware River segments and tributaries designated for potential addition to the National Wild and Scenic Rivers System pursuant to subsection (a)( ) of this section shall be completed and the report submitted to Congress not later than one year after October 23, 1992.
+(11) <sup>12</sup> (A) The study of the Delaware River segments and tributaries designated for potential addition to the National Wild and Scenic RiversSystem pursuant to subsection (a)( ) of this section shall be completed and the report submitted to Congress not later than one year after October 23, 1992.
 
 (B) The Secretary shall—
 
@@ -438,7 +438,7 @@ Rio Grande, New Mexico.—The segment from the west section line of Section 15, 
 
 &emsp;(ii) consider previous plans for the protection of affected cultural, recreational, and natural resources (including water supply and water quality) and existing State and local regulations, so as to avoid unnecessary duplication.
 
-(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, NewJersey, to the Southern <sup>13</sup> boundary of Bucks County, Pennsylvania.
+(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, New Jersey, to the Southern <sup>13</sup> boundary of Bucks County, Pennsylvania.
 
 ( ) The study of the Rio Grande in New Mexico shall be completed and the report submitted not later than 3 years after May 4, 1994.
 

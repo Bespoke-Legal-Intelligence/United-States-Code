@@ -30,7 +30,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(C) reliable data are obtained, maintained, and fairly disclosed in reports.
 
-&emsp;(10) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the specialprograms and services provided by the United States to Indians because of their status as Indians.
+&emsp;(10) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, and any other instrumentality of local government.
 
@@ -52,7 +52,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(H) $3,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $1,000,000,000; and
 
-&emsp;&emsp;(I) the larger of (i) $300,000, or (ii) 3 percent of such total expenditures for all programs, in the case of a State or local government for which such total expenditures for all programs exceed $100,000 but are less than or equal to $100,000,000.
+&emsp;&emsp;(I) the larger of (i) $300,000, or (ii) 3 percent of such total expenditures for all programs,in the case of a State or local government for which such total expenditures for all programs exceed $100,000 but are less than or equal to $100,000,000.
 
 &emsp;(13) “public accountants” means those individuals who meet the qualification standards included in generally accepted government auditing standards for personnel performing government audits.
 

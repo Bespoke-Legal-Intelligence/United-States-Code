@@ -58,7 +58,7 @@ There are authorized to be appropriated $1,000,000 for each of the fiscal years 
 
 #### Prior Provisions
 
-A prior section 395, act June 19, 1934, ch. 652, title III, §395, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67; amended Nov. 7, 1967, Pub. L. 90–129, title II, §201(2), 81Stat. 367; June 5, 1976, Pub. L. 94–309, §5, 90 Stat. 684, related to assistance of the Secretary by the Commission, prior to repeal by Pub. L. 95–567, §201.
+A prior section 395, act June 19, 1934, ch. 652, title III, §395, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67;amended Nov. 7, 1967, Pub. L. 90–129, title II, §201(2), 81 Stat. 367; June 5, 1976, Pub. L. 94–309, §5, 90 Stat. 684, related to assistance of the Secretary by the Commission, prior to repeal by Pub. L. 95–567, §201.
 
 #### Effective Date
 

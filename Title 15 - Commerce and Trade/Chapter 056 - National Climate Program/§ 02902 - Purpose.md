@@ -2,5 +2,5 @@
 
 It is the purpose of the Congress in this chapter to establish a national climate program that will assist the Nation and the world to understand and respond to natural and man-induced climate processes and their implications.
 
-(Pub. L. 95 367, §3, Sept. 17, 1978, 92 Stat. 601.)
+(Pub. L. 95–367, §3, Sept. 17, 1978, 92 Stat. 601.)
 

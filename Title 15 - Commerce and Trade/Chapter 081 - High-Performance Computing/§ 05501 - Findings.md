@@ -14,9 +14,9 @@ The Congress finds the following:
 
 &emsp;(6) A 1991 report entitled “Grand Challenges: High-Performance Computing and Communications” by the Office of Science and Technology Policy, outlining a research and development strategy for high-performance computing, provides a framework for a multiagency high-performance computing program. Such a program would provide American researchers and educators with the computer and information resources they need, and demonstrate how advanced computers, high-capacity and high-speed networks, and electronic data bases can improve the national information infrastructure for use by all Americans.
 
-(Pub. L. 102 194, §2, Dec. 9, 1991, 105 Stat. 1594.)
+(Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594.)
 
 #### Short Title
 
-Section 1 of Pub. L. 102 194 provided that: “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
+Section 1 of Pub. L. 102–194 provided that: “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
 

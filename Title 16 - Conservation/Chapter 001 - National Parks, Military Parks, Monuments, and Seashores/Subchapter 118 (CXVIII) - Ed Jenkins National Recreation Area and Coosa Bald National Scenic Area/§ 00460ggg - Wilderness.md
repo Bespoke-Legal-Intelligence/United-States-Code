@@ -1,4 +1,4 @@
-### §460ggg . Wilderness
+### §460ggg. Wilderness
 
 #### (a) Designation
 
@@ -42,5 +42,5 @@ Pub. L. 102–456, Oct. 23, 1992, 106 Stat. 2264, provided that:
 
 #### “SEC. 2. LEGAL REFERENCES.
 
-“Any reference in any law, regulation, document, record, map, or other paper of the United States toSpringer Mountain National Recreation Area is deemed to be a reference to Ed Jenkins National Recreation Area.”
+“Any reference in any law, regulation, document, record, map, or other paper of the United States to Springer Mountain National Recreation Area is deemed to be a reference to Ed Jenkins National Recreation Area.”
 

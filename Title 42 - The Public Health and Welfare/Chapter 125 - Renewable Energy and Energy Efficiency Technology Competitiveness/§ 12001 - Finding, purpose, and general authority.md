@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 102–486, §1202(d)(3), substituted “section 13541 of th
 
 #### Short Title
 
-Section 1 of Pub. L. 101–218 provided: “That this Act \[enacting this chapter and amending sections 6276 and 8243 of this title, section 2857 of Title 10, Armed Forces, and section 2194 of Title 22, Foreign Relations and Intercourse\] may be referred to as the ‘Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989’.”
+Section 1 of Pub. L. 101–218 provided: “That this Act \[enacting this chapter and amending sections 6276 and8243 of this title, section 2857 of Title 10, Armed Forces, and section 2194 of Title 22, Foreign Relations and Intercourse\] may be referred to as the ‘Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989’.”
 
 #### Section Referred to in Other Sections
 

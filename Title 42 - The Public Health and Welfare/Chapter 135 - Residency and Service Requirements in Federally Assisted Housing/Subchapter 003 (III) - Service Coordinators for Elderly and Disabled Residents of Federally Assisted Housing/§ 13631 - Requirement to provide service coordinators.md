@@ -6,7 +6,7 @@ To the extent that amounts are made available to carry out this subtitle <sup>1
 
 #### (b) Responsibilities
 
-Each service coordinator of a covered federally assisted housing project provided pursuant to this subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
+Each service coordinator of a covered federally assisted housing project provided pursuant tothis subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
 
 &emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, any resident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
 
@@ -24,7 +24,7 @@ Supportive services referred to under subsection (b)(1) of this section may incl
 
 #### (d) Covered federally assisted housing
 
-For purposes of this subtitle,<sup>1</sup> the term “covered federally assisted housing” means housingthat is federally assisted housing (as such term is defined in section 13641(2) of this title,<sup>2</sup> except that such term does not include housing described in subparagraphs (C) and (D) of such section.
+For purposes of this subtitle,<sup>1</sup> the term “covered federally assisted housing” means housing that is federally assisted housing (as such term is defined in section 13641(2) of this title,<sup>2</sup> except that such term does not include housing described in subparagraphs (C) and (D) of such section.
 
 (Pub. L. 102–550, title VI, §671, Oct. 28, 1992, 106 Stat. 3826.)
 

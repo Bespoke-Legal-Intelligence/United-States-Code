@@ -18,7 +18,7 @@
 
 &emsp;(2) any other pay system established by or under Federal statute for civilian positions within the executive branch.
 
-(d) Within the limitations applicable under the preceding provisions of this section, rates of payestablished under this section may be revised from time to time by the President or by such agency as he may designate. The actions and revisions have the force and effect of statute.
+(d) Within the limitations applicable under the preceding provisions of this section, rates of pay established under this section may be revised from time to time by the President or by such agency as he may designate. The actions and revisions have the force and effect of statute.
 
 (e) An increase in a rate of basic pay established under this section is not an equivalent increase in pay within the meaning of section 5335.
 
@@ -40,9 +40,9 @@ The provisions of this title governing appointment in the competitive service, r
 
 #### Amendments
 
-1990—Pub. L. 101–509 amended section generally, substituting provisions authorizing President to make special pay increases whenever recruitment or retention efforts are handicapped for provisions requiring annual pay reports and adjustments, authorizing alternative plan in years of emergency or when economic conditions affect the general welfare, and setting forth procedure where Congressional committee disapproves such alternative plan.
+<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions authorizing President to make special pay increases whenever recruitment or retention efforts are handicapped for provisions requiring annual pay reports and adjustments, authorizing alternative plan in years of emergency or when economic conditions affect the general welfare, and setting forth procedure where Congressional committee disapproves such alternative plan.
 
-1975—Subsec. (a)(3). Pub. L. 94–82, §202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
+<b>1975</b>—Subsec. (a)(3). Pub. L. 94–82, §202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
 Subsec. (c)(1). Pub. L. 94–82, §202(c)(2), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 

@@ -1,4 +1,4 @@
-### §2202 . Regulations on procurement, production, warehousing, and supply distribution functions
+### §2202. Regulations on procurement, production, warehousing, and supply distribution functions
 
 The Secretary of Defense shall prescribe regulations governing the performance within the Department of Defense of the procurement, production, warehousing, and supply distribution functions, and related functions, of the Department of Defense.
 

@@ -2,7 +2,7 @@
 
 #### (a) Head Start agency
 
-A Head Start agency shall be eligible for a grant under this subchapter if such Head Start agency has formed a consortium with one or more local educational agencies that received funds under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] and that serves children who have been served by such Head Start agency.
+A Head Start agency shall be eligible for a grant under this subchapter if such Head Start agency has formed a consortium with one ormore local educational agencies that received funds under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] and that serves children who have been served by such Head Start agency.
 
 #### (b) Local educational agency
 

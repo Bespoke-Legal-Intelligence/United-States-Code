@@ -84,7 +84,7 @@ Any person who discloses the content of any record referred to in subsection (c)
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year1991 and such sums as may be necessary for each of fiscal years 1992 and 1993.
+There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1991 and such sums as may be necessary for each of fiscal years 1992 and 1993.
 
 (July 1, 1944, ch. 373, title III, §379, as added Nov. 16, 1990, Pub. L. 101–616, title I, §101(a)(2), 104 Stat. 3279.)
 

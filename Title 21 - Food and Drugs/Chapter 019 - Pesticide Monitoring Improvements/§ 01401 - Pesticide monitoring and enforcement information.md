@@ -34,7 +34,7 @@ The Food and Drug Administration shall use the computerized data management syst
 
 &emsp;(1) information on—
 
-&emsp;&emsp;(A) the types of imported and domestically produced food products analyzed for compliance with the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301et seq.\] regarding the presence of pesticide residues,
+&emsp;&emsp;(A) the types of imported and domestically produced food products analyzed for compliance with the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] regarding the presence of pesticide residues,
 
 &emsp;&emsp;(B) the number of samples of each such food product analyzed for such compliance by country of origin,
 

@@ -34,7 +34,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (B) Special rule for stock of two or more corporations
 
-&emsp;&emsp;For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determining the value of the decedent's gross estate 20 percent or more in value of the outstanding stock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent's death, represents the surviving spouse's interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent's gross estate.
+&emsp;&emsp;For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determiningthe value of the decedent's gross estate 20 percent or more in value of the outstanding stock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent's death, represents the surviving spouse's interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent's gross estate.
 
 #### (3) Relationship of shareholder to estate tax
 
@@ -94,7 +94,7 @@ Subsec. (b)(2)(B). Pub. L. 97–34, §422(b)(2), in heading, substituted “stoc
 
 1976—Subsec. (b)(1)(C). Pub. L. 94–455, §2004(e)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35percent of the gross estate or 50 percent of the taxable estate.
+Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
 
 Subsec. (b)(2)(B). Pub. L. 94–455, §2004(e)(2)(B), substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 94–455, §2006(b)(4), added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1981 Amendment
 

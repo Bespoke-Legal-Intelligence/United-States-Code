@@ -20,7 +20,7 @@
 
 #### (b) Recall service; return of contributions
 
-Whenever an annuitant becomes separated from the Service following a period of recall service without becoming eligible for a supplemental or recomputed annuity under section 4063 of this title, the compulsory contributions of the annuitant to the Fund for such service,together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
+Whenever an annuitant becomes separated from the Service following a period of recall service without becoming eligible for a supplemental or recomputed annuity under section 4063 of this title, the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
 
 #### (c) Difference between annuity and lump-sum credit
 
@@ -36,7 +36,7 @@ If an annuitant who was a former participant dies, any annuity accrued and unpai
 
 #### (f) Order of precedence for payments
 
-Payments under subsections (c) through (e) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
+Payments under subsections (c) through (e) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to thepayment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
 
 &emsp;(1) To the beneficiary or beneficiaries last designated by the participant before or after retirement in a signed and witnessed writing filed with the Secretary of State prior to the death of the participant, for which purpose a designation, change, or cancellation of beneficiary in a will or other document which is not so executed and filed shall have no force or effect.
 
@@ -76,7 +76,7 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 #### Amendment of Section
 
-<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note</i><i>under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
+<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### Amendments
 

@@ -1,2 +1,2 @@
-### \[§133b . Renumbered §118\]
+### \[§133b. Renumbered §118\]
 

@@ -20,7 +20,7 @@
 
 &emsp;(3) may operate and maintain parking facilities.
 
-(c)(1) Except as provided in paragraph (2) of this subsection, each employee, visitor, and other individual having business at a medical facility for which parking fees have been established under subsection (d) or (e) of this section shall be charged the applicable parking fee for the use of a parking facility at such medical facility.
+(c)(1) Except as provided in paragraph (2) of this subsection, each employee, visitor, and other individual having business at a medical facility for which parking fees have been established under subsection (d) or (e) of this section shall be charged the applicable parking fee forthe use of a parking facility at such medical facility.
 
 (2) A parking fee shall not be charged under this subsection for the accommodation of any vehicle used to transport to or from a medical facility—
 
@@ -88,7 +88,7 @@ Section 223(b) of Pub. L. 99–576 provided that:
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1986\].
 
-“(2)(A) The amendments made by this section shall not abrogate the provisions of a collective bargaining agreement which, on the date of the enactment of this Act, is in effect and includes a provision which specifies a termination date for such agreement.
+“(2)(A) The amendments made by this section shall not abrogate the provisions of a collective bargainingagreement which, on the date of the enactment of this Act, is in effect and includes a provision which specifies a termination date for such agreement.
 
 “(B) After the date of the enactment of this Act, if a collective bargaining agreement described in subparagraph (A) is modified, extended, or renewed, such subparagraph shall no longer, as of the date of the modification, extension, or renewal, apply to such agreement.
 

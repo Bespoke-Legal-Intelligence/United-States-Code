@@ -16,7 +16,7 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 #### (c) Action with respect to categories
 
-(1) Any action authorized or required to be taken by the Administrator under any provision of this chapter with respect to a chemical substance or mixture may be taken by the Administrator in accordance with that provision with respect to a category of chemical substances or mixtures. Whenever the Administrator takes action under a provision of this chapter with respect to a category of chemical substances or mixtures, any reference in this chapter to achemical substance or mixture (insofar as it relates to such action) shall be deemed to be a reference to each chemical substance or mixture in such category.
+(1) Any action authorized or required to be taken by the Administrator under any provision of this chapter with respect to a chemical substance or mixture may be taken by the Administrator in accordance with that provision with respect to a category of chemical substances or mixtures. Whenever the Administrator takes action under a provision of this chapter with respect to a category of chemical substances or mixtures, any reference in this chapter to a chemical substance or mixture (insofar as it relates to such action) shall be deemed to be a reference to each chemical substance or mixture in such category.
 
 (2) For purposes of paragraph (1):
 
@@ -64,7 +64,7 @@ Any final order issued under this chapter shall be accompanied by a statement of
 
 (2) The Assistant Administrator to be appointed under paragraph (1) shall be in addition to the Assistant Administrators of the Environmental Protection Agency authorized by section 1(d) of Reorganization Plan No. 3 of 1970.
 
-(Pub. L. 94 469, title I, §26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 96 88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 98 80, §2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 98–80, §2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### References in Text
 
@@ -72,11 +72,11 @@ Reorganization Plan No. 3 of 1970, referred to in text, is set out in the Append
 
 #### Amendments
 
-1983—Subsec. (g)(2). Pub. L. 98 80 struck out “(A)” before “be in addition” and “, and (B) be compensated at the rate of pay authorized for such Assistant Administrators” after “No. 3 of 1970”.
+1983—Subsec. (g)(2). Pub. L. 98–80 struck out “(A)” before “be in addition” and “, and (B) be compensated at the rate of pay authorized for such Assistant Administrators” after “No. 3 of 1970”.
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (e)(1), (3), and “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e)(1), pursuant to section 509(b) of Pub. L. 96 88, which is classified to section 3508(b) of Title 20, Education.
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (e)(1), (3), and “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e)(1), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

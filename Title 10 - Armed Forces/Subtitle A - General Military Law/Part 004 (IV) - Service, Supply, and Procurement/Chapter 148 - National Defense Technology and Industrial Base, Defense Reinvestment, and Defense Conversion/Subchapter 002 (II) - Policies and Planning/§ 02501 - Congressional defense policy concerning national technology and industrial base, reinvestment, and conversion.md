@@ -192,7 +192,7 @@ Maximum department of defense share.—The Secretary of Defense shall ensure tha
 
 &emsp;“(2)
 
-Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
+Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculatingthe share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
 
 #### Armament Retooling and Manufacturing Support Initiative
 
@@ -286,7 +286,7 @@ Advanced Budget Authority.—Loan guarantees under this section may not be commi
 
 “(c)
 
-Program Administration.—(1) The Secretary may enter into agreements with the Administrator of the Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the Rural Development Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this section—
+Program Administration.—(1) The Secretary may enter into agreements with the Administrator ofthe Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the Rural Development Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this section—
 
 &emsp;“(A) process applications for loan guarantees;
 

@@ -80,7 +80,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, §303(g); added Oct. 31, 1992, Pu
 
 In this section, the word “Administrator” in section 303(a)–(d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
 
-In subsection (a), before clause (1), the words “In carrying out this part” are added for clarity. The words “on behalf of the United States . . . where appropriate” are omitted as surplus. In clause (1), the words “made by the Congress”, “by purchase, condemnation . . . or otherwise”, and “easements through or other” are omitted as surplus. In clause (2), the words “by sale, lease, or otherwise” and “real or personal” are omitted as surplus. In clause (3), the word “renovate” is omitted as surplus. The words “and to purchase or otherwise acquire real property required therefor” are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
+In subsection (a), before clause (1), the words “In carrying out this part” are added for clarity. The words “on behalf of the United States . . . where appropriate” are omitted as surplus. In clause (1), the words “madeby the Congress”, “by purchase, condemnation . . . or otherwise”, and “easements through or other” are omitted as surplus. In clause (2), the words “by sale, lease, or otherwise” and “real or personal” are omitted as surplus. In clause (3), the word “renovate” is omitted as surplus. The words “and to purchase or otherwise acquire real property required therefor” are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
 
 In subsection (b)(1), the words “procedures other than competitive procedures” are substituted for “noncompetitive procedures” for consistency with subsection (b)(2)(D) of this section and 41:253(f).
 
@@ -107,6 +107,32 @@ Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted “notwithstanding secti
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Acquisition Management System for Federal Aviation Administration
+
+Pub. L. 104–50, title III, §348, Nov. 15, 1995, 109 Stat. 460, provided that:
+
+“(a) In consultation with such non-governmental experts in acquisition management systems as he may employ, and notwithstanding provisions of Federal acquisition law, the Administrator of the Federal Aviation Administration shall develop and implement, not later than January 1, 1996, an acquisition management system for the Federal Aviation Administration that addresses the unique needs of the agency and, at a minimum, provides for more timely and cost-effective acquisitions of equipment and materials.
+
+“(b) The following provisions of Federal acquisition law shall not apply to the new acquisition management system developed and implemented pursuant to subsection (a):
+
+&emsp;“(1) Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266).
+
+&emsp;“(2) The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
+
+&emsp;“(3) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355) \[see Tables for classification\].
+
+&emsp;“(4) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+
+&emsp;“(5) The Competition in Contracting Act \[probably means Competition in Contracting Act of 1984, Pub. L. 98–369, div. B, title VII, July 18, 1984, 98 Stat. 1175, see Tables for classification\].
+
+&emsp;“(6) Subchapter V of chapter 35 of title 31, relating to the procurement protest system.
+
+&emsp;“(7) The Brooks Automatic Data Processing Act (40 U.S.C. 759).
+
+&emsp;“(8) The Federal Acquisition Regulation and any laws not listed in (a) through (e) of this section providing authority to promulgate regulations in the Federal Acquisition Regulation.
+
+“(c) This section shall take effect on April 1, 1996.”
 
 #### Alternative Procurement and Acquisition Pilot Program
 

@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | \[5651 to 5664. Repealed.\] |  |
-| 5665\. | Naval Reserve and Marine Corps Reserve: active status officers in permanent grades above chief warrant officer, W–5. |
+| [5665\.](%C2%A7%2005665%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20active%20status%20officers%20in%20permanent%20grades%20above%20chief%20warrant%20officer%2C%20W%E2%80%935.md) | Naval Reserve and Marine Corps Reserve: active status officers in permanent grades above chief warrant officer, W–5. |
 | \[5666. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 1980—Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897, substituted “RUNNING MATES FOR RESERVE OFFICERS” for “RUNNING MATES” as chapter heading.
 
-Pub. L. 96–513, title V, §503(31), Dec. 12, 1980, 94 Stat. 2913, struck out items 5651 “Eligibility of officers to be running mates”, 5652 “Regular Navy: lieutenants (junior grade)”, 5652a “Regular Navy: lieutenants (junior grade); Medical and Dental Corps”, 5652b “Regular Navy: lieutenants (junior grade) originally appointed as ensigns under section 2106, 2107, 5573, or 6909 of this title”, 5652c “Regular Navy: officers appointed from the the Naval Reserve or from temporary officers”, 5653 “Regulatory Navy: lieutenants and above”, 5654 “Regular Navy: transfers from line”, 5655 “Naval Reserve: officers ordered to active duty”, 5656 “Reassignment: running mate separated, released, or loses numbers”, 5657 “Reassignment: staff corps officer promoted”, 5658 “Reassignment: staff corps officer not promoted”, 5659 “Reassignment: Staff corps officer loses numbers”, 5660 “Reassignment: running mate advanced”, 5661 “Reassignment: staff corps officer advanced”, 5662 “Suspension: preceding sections”, 5663 “Application: preceding sections”, 5664 “Regular Navy: women staff corps officers appointed under section 5590 of this title”, and 5666 “Appointments for limited duration not considered”.
+Pub. L. 96–513, title V, §503(31), Dec. 12, 1980, 94 Stat. 2913, struck out items 5651 “Eligibility of officers to berunning mates”, 5652 “Regular Navy: lieutenants (junior grade)”, 5652a “Regular Navy: lieutenants (junior grade); Medical and Dental Corps”, 5652b “Regular Navy: lieutenants (junior grade) originally appointed as ensigns under section 2106, 2107, 5573, or 6909 of this title”, 5652c “Regular Navy: officers appointed from the the Naval Reserve or from temporary officers”, 5653 “Regulatory Navy: lieutenants and above”, 5654 “Regular Navy: transfers from line”, 5655 “Naval Reserve: officers ordered to active duty”, 5656 “Reassignment: running mate separated, released, or loses numbers”, 5657 “Reassignment: staff corps officer promoted”, 5658 “Reassignment: staff corps officer not promoted”, 5659 “Reassignment: Staff corps officer loses numbers”, 5660 “Reassignment: running mate advanced”, 5661 “Reassignment: staff corps officer advanced”, 5662 “Suspension: preceding sections”, 5663 “Application: preceding sections”, 5664 “Regular Navy: women staff corps officers appointed under section 5590 of this title”, and 5666 “Appointments for limited duration not considered”.
 
 1964—Pub. L. 88–647, title III, §301(14)(A), Oct. 13, 1964, 78 Stat. 1072, substituted “2106, 2107, 5573” for “5573, 6904, 6906” in item 5652b.
 

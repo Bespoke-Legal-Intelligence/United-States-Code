@@ -30,13 +30,13 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(ii) to approved projects or programs, with respect to the availability of individuals whose applications for service as a volunteer have been approved and who are awaiting an assignment with a specific project or program.
 
-(C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) of this section as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel toindividuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment of volunteers.
+(C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) of this section as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment of volunteers.
 
 (3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
 (4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
-(5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
+(5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) andthe needs and preferences of projects or programs approved for the assignment of such volunteers.
 
 (B) In carrying out subparagraph (A), the Director shall utilize the information system established under paragraph (2)(B).
 
@@ -70,7 +70,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (2) In designing and implementing the activities authorized under this section, the Director shall seek to involve individuals who have formerly served as volunteers under this part to assist in the dissemination of information concerning the program established under this part. The Director may reimburse the costs incurred by such former volunteers for such participation, including expenses incurred for travel.
 
-(3) The Director shall consult with the Director of the Peace Corps to coordinate the recruitment and public awareness activities carried out under this subsection with those of the PeaceCorps and to develop joint procedures and activities for the recruitment of volunteers to serve under this part.
+(3) The Director shall consult with the Director of the Peace Corps to coordinate the recruitment and public awareness activities carried out under this subsection with those of the Peace Corps and to develop joint procedures and activities for the recruitment of volunteers to serve under this part.
 
 (4) Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title.
 
@@ -196,7 +196,7 @@ Subsec. (e). Pub. L. 98–288, §4(c)(1)(A), redesignated subsec. (c) as (e).
 
 Subsec. (f). Pub. L. 98–288, §4(c)(1)(A), (d), redesignated subsec. (d) as (f), and substituted “work in a program or project in any community unless the application for such program or project contains evidence of local support and” for “duties or work in a program or project in any State unless such program or project”.
 
-1979—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
+1979—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and,upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
 
 Subsec. (d). Pub. L. 96–143, §2(b), inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 

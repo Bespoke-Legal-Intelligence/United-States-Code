@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 &emsp;(3) the term “child abuse crime” means a crime committed under any law of a State that involves the physical or mental injury, sexual abuse or exploitation, negligent treatment, or maltreatment of a child by any person;
 
-&emsp;(4) the term “child abuse crime information” means the following facts concerning a person who has been arrested for, or has beenconvicted of, a child abuse crime: full name, race, sex, date of birth, height, weight, fingerprints, a brief description of the child abuse crime or offenses for which the person has been arrested or has been convicted, the disposition of the charge, and any other information that the Attorney General determines may be useful in identifying persons arrested for, or convicted of, a child abuse crime;
+&emsp;(4) the term “child abuse crime information” means the following facts concerning a person who has been arrested for, or has been convicted of, a child abuse crime: full name, race, sex, date of birth, height, weight, fingerprints, a brief description of the child abuse crime or offenses for which the person has been arrested or has been convicted, the disposition of the charge, and any other information that the Attorney General determines may be useful in identifying persons arrested for, or convicted of, a child abuse crime;
 
 &emsp;(5) the term “care” means the provision of care, treatment, education, training, instruction, supervision, or recreation to children, the elderly, or individuals with disabilities;
 
@@ -38,7 +38,7 @@ For the purposes of this subchapter—
 
 &emsp;(10) the term “qualified entity” means a business or organization, whether public, private, for-profit, not-for-profit, or voluntary, that provides care or care placement services, including a business or organization that licenses or certifies others to provide care or care placement services; and
 
-&emsp;(11) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
+&emsp;(11) the term “State” means a State, the District of Columbia, the Commonwealth ofPuerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
 
 (Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133.)
 

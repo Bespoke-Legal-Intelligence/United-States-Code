@@ -10,7 +10,7 @@
 
 &emsp;(3) a summary of the results of the monitoring and evaluation conducted under section 1522(a)(7) of this title during the period for which the report is submitted;
 
-&emsp;(4) a description of (A) the activities, expenditures, and policies of the Office under this subchapter and of the activities of States, voluntary agencies, and sponsors, and (B) theDirector's plans for improvement of refugee resettlement;
+&emsp;(4) a description of (A) the activities, expenditures, and policies of the Office under this subchapter and of the activities of States, voluntary agencies, and sponsors, and (B) the Director's plans for improvement of refugee resettlement;
 
 &emsp;(5) evaluations of the extent to which (A) the services provided under this subchapter are assisting refugees in achieving economic self-sufficiency, achieving ability in English, and achieving employment commensurate with their skills and abilities, and (B) any fraud, abuse, or mismanagement has been reported in the provisions of services or assistance;
 
@@ -33,6 +33,10 @@
 1982—Subsec. (c). Pub. L. 97–363, §3(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 97–363, §7, added subsec. (d).
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1982 Amendment
 

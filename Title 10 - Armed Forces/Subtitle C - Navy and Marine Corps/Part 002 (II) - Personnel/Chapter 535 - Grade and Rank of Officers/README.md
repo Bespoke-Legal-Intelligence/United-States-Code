@@ -2,11 +2,11 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 5501\. | Navy: grades above chief warrant officer, W–5. |
-| 5502\. | Marine Corps: grades above chief warrant officer, W–5. |
-| 5503\. | Navy and Marine Corps: warrant officer grades. |
+| [5501\.](%C2%A7%2005501%20-%20Navy%20grades%20above%20chief%20warrant%20officer%2C%20W%E2%80%935.md) | Navy: grades above chief warrant officer, W–5. |
+| [5502\.](%C2%A7%2005502%20-%20Marine%20Corps%20grades%20above%20chief%20warrant%20officer%2C%20W%E2%80%935.md) | Marine Corps: grades above chief warrant officer, W–5. |
+| [5503\.](%C2%A7%2005503%20-%20Navy%20and%20Marine%20Corps%20warrant%20officer%20grades.md) | Navy and Marine Corps: warrant officer grades. |
 | \[5504 to 5507. Repealed.\] |  |
-| 5508\. | Rank of line and staff corps officers of the Navy and officers of the Marine Corps. |
+| [5508\.](%C2%A7%2005508%20-%20Rank%20of%20line%20and%20staff%20corps%20officers%20of%20the%20Navy%20and%20officers%20of%20the%20Marine%20Corps.md) | Rank of line and staff corps officers of the Navy and officers of the Marine Corps. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

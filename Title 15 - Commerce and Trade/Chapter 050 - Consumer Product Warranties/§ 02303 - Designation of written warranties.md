@@ -20,7 +20,7 @@ In addition to exercising the authority pertaining to disclosure granted in sect
 
 The provisions of subsections (a) and (c) of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $10 and which are not designated “full (statement of duration) warranties”.
 
-(Pub. L. 93 637, title I, §103, Jan. 4, 1975, 88 Stat. 2187.)
+(Pub. L. 93–637, title I, §103, Jan. 4, 1975, 88 Stat. 2187.)
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@
 
 #### (3) Consultation with National Security Education Board
 
-&emsp;The program required under this chapter shall be carried out in consultation with theNational Security Education Board established under section 1903 of this title.
+&emsp;The program required under this chapter shall be carried out in consultation with the National Security Education Board established under section 1903 of this title.
 
 #### (4) Contract authority
 

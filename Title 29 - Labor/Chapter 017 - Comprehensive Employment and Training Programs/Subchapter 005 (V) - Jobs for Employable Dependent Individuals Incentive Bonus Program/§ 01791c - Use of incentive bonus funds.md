@@ -24,7 +24,7 @@ Each service delivery area or Job Corps center may make incentive payments to se
 
 Section 1576 of this title (relating to administrative adjudication) shall apply to the distribution of incentive bonus payments under this section.
 
-(Pub. L. 97–300, title V, §504, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat.3249; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1097.)
+(Pub. L. 97–300, title V, §504, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3249; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1097.)
 
 #### Prior Provisions
 

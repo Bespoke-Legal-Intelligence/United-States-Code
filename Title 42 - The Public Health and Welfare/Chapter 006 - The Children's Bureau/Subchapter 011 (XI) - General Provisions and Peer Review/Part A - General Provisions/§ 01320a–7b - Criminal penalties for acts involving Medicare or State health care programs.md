@@ -32,7 +32,7 @@ Whoever—
 
 &emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under subchapter XVIII of this chapter or a State health care program,
 
-> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
 (3) Paragraphs (1) and (2) shall not apply to—
 
@@ -72,7 +72,7 @@ Whoever knowingly and willfully—
 
 #### (e) Violation of assignment terms
 
-Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of such assignments or agreement, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $2,000 or imprisoned for not more than six months, or both.
+Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of suchassignments or agreement, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $2,000 or imprisoned for not more than six months, or both.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(c), 278(b)(9), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), (b), 91 Stat. 1179, 1181; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; renumbered title XI, §1128B, and amended Aug. 18, 1987, Pub. L. 100–93, §§4(a)–(d), 14(b), 101 Stat. 688, 689, 697; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), 101 Stat. 1330–81, 1330–206; July 1, 1988, Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), 102 Stat. 768; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), 103 Stat. 2153; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), 104 Stat. 1388–94, 1388–102; Oct. 31, 1994, Pub. L. 103–432, title I, §133(a)(2), 108 Stat. 4421.)
 
@@ -80,7 +80,7 @@ Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this titl
 
 Part B of subchapter XVIII of this chapter, referred to in subsec. (b)(3)(D), is classified to section 1395j et seq. of this title.
 
-The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (b)(3)(E), is section 14(a) of Pub. L. 100–93, which is set out below.
 
@@ -156,7 +156,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendments
 
-Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on orafter Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

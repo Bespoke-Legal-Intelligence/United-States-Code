@@ -54,7 +54,7 @@ Adjustments.—The end strengths prescribed by subsection (a) for the Selected R
 
 #### “SEC. 412. END STRENGTHS FOR RESERVES ON ACTIVE DUTY IN SUPPORT OF THE RESERVES.
 
-“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 1995, the following number of Reserves to be serving on full-time active duty or, in the case of members of the National Guard, full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
+“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces areauthorized, as of September 30, 1995, the following number of Reserves to be serving on full-time active duty or, in the case of members of the National Guard, full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
 
 &emsp;“(1) The Army National Guard of the United States, 23,650.
 

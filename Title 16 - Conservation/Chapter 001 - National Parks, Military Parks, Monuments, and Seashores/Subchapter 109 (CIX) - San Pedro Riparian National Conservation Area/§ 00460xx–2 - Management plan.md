@@ -10,7 +10,7 @@ The Secretary shall, in the comprehensive plan referred to in subsection (a) of 
 
 #### (c) Cooperative agreements
 
-The Secretary may enter into cooperative agreements with appropriate State and local agencies, pursuant to section 1737(b) of title 43, to better implement the plan developed pursuant to subsection (a) of this section.
+The Secretary may enter into cooperative agreements with appropriate State and localagencies, pursuant to section 1737(b) of title 43, to better implement the plan developed pursuant to subsection (a) of this section.
 
 #### (d) Research
 

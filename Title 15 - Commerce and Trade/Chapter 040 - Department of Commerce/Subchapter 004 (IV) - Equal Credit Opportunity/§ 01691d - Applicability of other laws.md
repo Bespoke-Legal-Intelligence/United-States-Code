@@ -28,15 +28,15 @@ This subchapter does not annul, alter, or affect, or exempt any person subject t
 
 The Board shall by regulation exempt from the requirements of sections 1691 and 1691a of this title any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter or that such law gives greater protection to the applicant, and that there is adequate provision for enforcement. Failure to comply with any requirement of such State law in any transaction so exempted shall constitute a violation of this subchapter for the purposes of section 1691e of this title.
 
-(Pub. L. 90 321, title VII, §705, as added Pub. L. 93 495, title V, §503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94 239, §5, Mar. 23, 1976, 90 Stat. 253.)
+(Pub. L. 90–321, title VII, §705, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94–239, §5, Mar. 23, 1976, 90 Stat. 253.)
 
 #### Amendments
 
-1976—Subsec. (e). Pub. L. 94 239, §5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
+1976—Subsec. (e). Pub. L. 94–239, §5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
 
-Subsecs. (f), (g). Pub. L. 94 239, §5(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 94–239, §5(2), added subsecs. (f) and (g).
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94 239 effective Mar. 23, 1976, see section 708 of Pub. L. 90 321, set out as an Effective Date note under section 1691 of this title.
+Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as an Effective Date note under section 1691 of this title.
 

@@ -86,7 +86,7 @@ The Secretary may not make a grant under subsection (a) of this section unless, 
 
 &emsp;(D) to purchase or improve real property (other than minor remodeling of existing improvements to real property) or to purchase major medical equipment or motor vehicles.
 
-(2) If the Secretary finds that the purpose described in subsection (a) of this section cannototherwise be carried out, the Secretary may, with respect to an otherwise qualified applicant, waive the restriction established in paragraph (1)(D).
+(2) If the Secretary finds that the purpose described in subsection (a) of this section cannot otherwise be carried out, the Secretary may, with respect to an otherwise qualified applicant, waive the restriction established in paragraph (1)(D).
 
 #### (i) Limitation on charges for services
 
@@ -170,7 +170,7 @@ For purposes of this section:
 
 &emsp;The Secretary may make grants to grantees under subsection (a) of this section for the purpose of assisting such grantees in—
 
-&emsp;&emsp;(A) providing comprehensive health care and support services for the reduction of (i)the incidence of infant mortality, and (ii) morbidity among children who are less than 3 years of age; and
+&emsp;&emsp;(A) providing comprehensive health care and support services for the reduction of (i) the incidence of infant mortality, and (ii) morbidity among children who are less than 3 years of age; and
 
 &emsp;&emsp;(B) developing and coordinating service and referral arrangements between such grantees and other entities for the health management of pregnant women and children described in subparagraph (A).
 

@@ -1,4 +1,4 @@
-### §7421 . Jurisdiction and control
+### §7421. Jurisdiction and control
 
 (a) The Secretary shall take possession of all properties inside the naval petroleum reserves that are or may become subject to the control of and use by the United States for national defense purposes, except as otherwise provided in this chapter.
 

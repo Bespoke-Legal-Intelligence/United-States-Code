@@ -14,7 +14,7 @@ Any district court of the United States in the State of incorporation of a regis
 
 #### (d) Application of section to reorganizations under title 11
 
-Nothing contained in this section shall in any way affect or derogate from the powers of the courts of the United States and the Commission with reference to reorganizations contained in title 11.
+Nothing contained in this section shall in any way affect or derogate from the powers of thecourts of the United States and the Commission with reference to reorganizations contained in title 11.
 
 (Aug. 22, 1940, ch. 686, title I, §25, 54 Stat. 826; Dec. 14, 1970, Pub. L. 91–547, §14, 84 Stat. 1424; Nov. 6, 1978, Pub. L. 95–598, title III, §310(c), 92 Stat. 2676.)
 

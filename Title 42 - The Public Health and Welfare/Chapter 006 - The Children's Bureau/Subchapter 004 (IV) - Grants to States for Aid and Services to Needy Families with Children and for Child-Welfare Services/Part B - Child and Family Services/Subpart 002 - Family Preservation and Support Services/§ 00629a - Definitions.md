@@ -24,7 +24,7 @@ As used in this subpart:
 
 #### (2) Family support services
 
-&emsp;The term “family support services” means community-based services to promote thewell-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a stable and supportive family environment, and otherwise to enhance child development.
+&emsp;The term “family support services” means community-based services to promote the well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents’ confidence and competence in their parenting abilities, to afford children a stable and supportive family environment, and otherwise to enhance child development.
 
 #### (3) State agency
 

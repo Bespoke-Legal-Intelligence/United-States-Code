@@ -34,7 +34,7 @@ In general.—Before any apportionment is made under section 104(b)(1) of this t
 
 &emsp;&emsp;&emsp;(i) the State has obligated or demonstrates that it will obligate in the fiscal year all of its apportionments under section 104(b)(1) other than an amount which, by itself, is insufficient to pay the Federal share of the cost of a project for resurfacing, restoring, rehabilitating, and reconstructing the Interstate System which has been submitted by the State to the Secretary for approval; and
 
-&emsp;&emsp;&emsp;(ii) the applicant is willing and able to (I) obligate the funds within 1 year of the date the funds are made available, (II)apply them to a ready-to-commence project, and (III) in the case of construction work, begin work within 90 days of obligation.
+&emsp;&emsp;&emsp;(ii) the applicant is willing and able to (I) obligate the funds within 1 year of the date the funds are made available, (II) apply them to a ready-to-commence project, and (III) in the case of construction work, begin work within 90 days of obligation.
 
 &emsp;&emsp;(B)
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1979 Amendment
 
-Section 5(b) of Pub. L. 96–106 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply to all amounts apportioned under section 104(b)(5)(B) of title 23, United States Code, for the fiscal year 1978 and for subsequent fiscal years.”
+Section 5(b) of Pub. L. 96–106 provided that: “The amendment made by subsection (a) of this section\[amending this section\] shall apply to all amounts apportioned under section 104(b)(5)(B) of title 23, United States Code, for the fiscal year 1978 and for subsequent fiscal years.”
 
 #### Section Referred to in Other Sections
 

@@ -78,7 +78,7 @@ In subsection (a)(2), the words “United States” are substituted for the word
 
 In subsection (b), the word “accident” is omitted as surplusage. The words “except that claims arising out of accidents or incidents occurring after December 6, 1941, but prior to May 1, 1943, may be presented at any time prior to May 1, 1944” are omitted as executed. Clauses (2) and (3) are substituted for 31:224d (3d proviso).
 
-In subsection (c), the first 28 words of the second proviso of 31:224d and the words “but does not exceed $5,000” are omitted as covered by subsection (a). The words “commanding officer or other” are omitted as surplusage. The word “commissioned” is inserted for clarity. The word “designated” is substituted for the words “may prescribe”.
+In subsection (c), the first 28 words of the second proviso of 31:224d and the words “but does not exceed$5,000” are omitted as covered by subsection (a). The words “commanding officer or other” are omitted as surplusage. The word “commissioned” is inserted for clarity. The word “designated” is substituted for the words “may prescribe”.
 
 In subsection (d), the word “may” is substituted for the words “shall have authority, if he deems”. The words “that would otherwise be covered by this section” are inserted for clarity. The words “to be meritorious” and “character of such” are omitted as surplusage.
 
@@ -136,7 +136,7 @@ Subsec. (d). Pub. L. 93–336 substituted “$25,000” for “$15,000” in two
 
 1970—Subsec. (d). Pub. L. 91–312 authorized the Secretary to pay, without certification to Congress, up to $15,000 towards the settlement of meritorious claims in excess of $15,000.
 
-Subsec. (e). Pub. L. 91–312 excepted claims under subsec. (d) from requirement that all claims paid be accepted by the claimant in full satisfaction, and struckout provision limiting the application of such requirement to claims payable under subsec. (a) of this section.
+Subsec. (e). Pub. L. 91–312 excepted claims under subsec. (d) from requirement that all claims paid be accepted by the claimant in full satisfaction, and struck out provision limiting the application of such requirement to claims payable under subsec. (a) of this section.
 
 1968—Subsec. (a). Pub. L. 90–521, §1, struck out “under his jurisdiction” after “armed forces” in text preceding cl. (1) and permitted an officer to serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but required him to perform his duties under regulations of the department appointing the commission, respectively.
 
@@ -165,6 +165,10 @@ Subsec. (h). Pub. L. 85–861, §1(55)(F), added subsec. (h).
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

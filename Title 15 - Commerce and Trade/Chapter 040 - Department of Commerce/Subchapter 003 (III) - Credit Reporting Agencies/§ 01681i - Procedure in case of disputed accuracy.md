@@ -16,7 +16,7 @@ Whenever a statement of a dispute is filed, unless there is reasonable grounds t
 
 Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) of this section to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information. The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received.
 
-(Pub. L. 90 321, title VI, §611, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132.)
+(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the NationalTransportation Safety Board under this chapter. A person disclosing a substantial interest in the order may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
+General.—The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the National Transportation Safety Board under this chapter. A person disclosing a substantial interest in the order may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
 
 (b)
 
@@ -10,7 +10,7 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 (2) When a petition is filed under paragraph (1) of this subsection, the clerk of the court immediately shall send a copy of the petition to the Board. The Board shall file with the court a record of the proceeding in which the order was issued.
 
-(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief by staying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
+(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief bystaying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
 
 (4) In reviewing an order under this subsection, the court may consider an objection to an order of the Board only if the objection was made in the proceeding conducted by the Board or if there was a reasonable ground for not making the objection in the proceeding.
 
@@ -116,5 +116,5 @@ In subsection (b)(3), the word “amend” is added for consistency in the revis
 
 In subsection (b)(4), the words “made in the proceeding conducted by” are substituted for “urged before” for clarity.
 
-In subsection (c), the source provisions are combined to eliminate unnecessary words and are restated in this chapter to alert the reader to the authority of the Administrator of the Federal Aviation Administration to seek judicial review of an order of the National Transportation Safety Board under section 44709 or 46301(d) of the revised title that the Administrator decides willhave a significant adverse impact on carrying out source provisions restated in this chapter that are derived from title VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 781).
+In subsection (c), the source provisions are combined to eliminate unnecessary words and are restated in this chapter to alert the reader to the authority of the Administrator of the Federal Aviation Administration to seek judicial review of an order of the National Transportation Safety Board under section 44709 or 46301(d) of the revised title that the Administrator decides will have a significant adverse impact on carrying out source provisions restated in this chapter that are derived from title VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 781).
 

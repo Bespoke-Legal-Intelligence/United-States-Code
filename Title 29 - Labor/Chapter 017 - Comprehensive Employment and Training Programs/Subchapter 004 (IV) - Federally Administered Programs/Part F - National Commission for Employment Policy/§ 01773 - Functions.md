@@ -12,7 +12,7 @@ The Commission shall—
 
 &emsp;(5) evaluate the impact of tax policies on employment and training opportunities;
 
-&emsp;(6) examine and evaluate major Federal programs which are intended to, or potentially could, contribute to achieving major objectives of existing employment and training and related legislation or the objectives set forth in the recommendations of the Commission,and particular attention shall be given to the programs which are designed, or could be designed, to develop information and knowledge about employment and training problems through research and demonstration projects or to train personnel in fields (such as occupational counseling, guidance, and placement) which are vital to the success of employment and training programs;
+&emsp;(6) examine and evaluate major Federal programs which are intended to, or potentially could, contribute to achieving major objectives of existing employment and training and related legislation or the objectives set forth in the recommendations of the Commission, and particular attention shall be given to the programs which are designed, or could be designed, to develop information and knowledge about employment and training problems through research and demonstration projects or to train personnel in fields (such as occupational counseling, guidance, and placement) which are vital to the success of employment and training programs;
 
 &emsp;(7) identify the employment and training and vocational education needs of the Nation and assess the extent to which employment and training, vocational education, rehabilitation, and other programs assisted under this chapter and related Acts represent a consistent, integrated, and coordinated approach to meeting such needs.<sup>1</sup>
 
@@ -24,7 +24,7 @@ The Commission shall—
 
 &emsp;(11) study and make recommendations on the use of advanced technology in the management and delivery of services and activities conducted under this chapter.
 
-(Pub. L. 97–300, title IV, §473, Oct. 13, 1982, 96 Stat. 1388; Pub. L. 98–524, §4(a)(8), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(18), Sept. 7, 1992, 106 Stat. 1112.)
+(Pub. L. 97–300, title IV, §473, Oct. 13, 1982, 96 Stat. 1388; Pub. L. 98–524, §4(a)(8), Oct. 19, 1984, 98Stat. 2488; Pub. L. 102–367, title VII, §702(a)(18), Sept. 7, 1992, 106 Stat. 1112.)
 
 #### Amendments
 

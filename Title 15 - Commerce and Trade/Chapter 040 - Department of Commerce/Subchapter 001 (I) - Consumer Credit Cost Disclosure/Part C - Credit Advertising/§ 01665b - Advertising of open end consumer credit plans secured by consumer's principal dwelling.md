@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit aresecured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Board may require:
+If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Board may require:
 
 #### (1) Loan fees and opening cost estimates
 
@@ -54,7 +54,7 @@ For purposes of this section and section 1637a of this title, the term “balloo
 
 &emsp;(2) the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.
 
-(Pub. L. 90 321, title I, §147, as added Pub. L. 100 709, §2(c), Nov. 23, 1988, 102 Stat. 4730.)
+(Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730.)
 
 #### Effective Date
 
@@ -62,7 +62,7 @@ For effective date of section, see Regulations; Effective Date note below.
 
 #### Regulations; Effective Date
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100 709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100 709, set out as a note under section 1637a of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
 #### Section Referred to in Other Sections
 

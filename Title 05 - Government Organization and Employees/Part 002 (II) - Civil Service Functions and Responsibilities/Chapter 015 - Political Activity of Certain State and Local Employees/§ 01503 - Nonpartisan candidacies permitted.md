@@ -1,6 +1,6 @@
 ### §1503. Nonpartisan candidacies permitted
 
-Section 1502(a)(3) of this title does not prohibit any State or local officer or employee from being a candidate in any election if none of the candidates is to be nominated or elected at such election as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected.
+Section 1502(a)(3) of this title does not prohibit any State or local officer or employee frombeing a candidate in any election if none of the candidates is to be nominated or elected at such election as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, §401(b)(1), Oct. 15, 1974, 88 Stat. 1290.)
 
@@ -20,7 +20,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1974—Pub. L. 93–443 substituted “candidacies” for “political activity” in section catchline and provision permitting nonpartisan candidacies for prior provision permitting political activity in connection with (1) an election and the preceding campaign if none of the candidates was to be nominated or elected at that election as representing a party any of whose candidates for presidential elector received votes in the last preceding election at which presidential electors were selected, or (2) a question which was not specifically identified with a National or State political party and deeming questions relating to constitutional amendments, referendums, approval of municipal ordinances, and others of a similar character as not specifically identified with a National or State political party.
+<b>1974</b>—Pub. L. 93–443 substituted “candidacies” for “political activity” in section catchline and provision permitting nonpartisan candidacies for prior provision permitting political activity in connection with (1) an election and the preceding campaign if none of the candidates was to be nominated or elected at that election as representing a party any of whose candidates for presidential elector received votes in the last preceding election at which presidential electors were selected, or (2) a question which was not specifically identified with a National or State political party and deeming questions relating to constitutional amendments, referendums, approval of municipal ordinances, and others of a similar character as not specifically identified with a National or State political party.
 
 #### Effective Date of 1974 Amendment
 

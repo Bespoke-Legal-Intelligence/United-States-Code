@@ -30,11 +30,11 @@ Notice respecting the designation of a drug under subsection (a) of this section
 
 The Secretary shall by regulation promulgate procedures for the implementation of subsection (a) of this section.
 
-(June 25, 1938, ch. 675, §526, as added Jan. 4, 1983, Pub. L. 97–414, §2(a), 96 Stat. 2050; amended Oct.30, 1984, Pub. L. 98–551, §4(a), 98 Stat. 2817; Aug. 15, 1985, Pub. L. 99–91, §3(a)(2), 99 Stat. 387; Apr. 18, 1988, Pub. L. 100–290, §2, 102 Stat. 90.)
+(June 25, 1938, ch. 675, §526, as added Jan. 4, 1983, Pub. L. 97–414, §2(a), 96 Stat. 2050; amended Oct. 30, 1984, Pub. L. 98–551, §4(a), 98 Stat. 2817; Aug. 15, 1985, Pub. L. 99–91, §3(a)(2), 99 Stat. 387; Apr. 18, 1988, Pub. L. 100–290, §2, 102 Stat. 90.)
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–290, §2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under section 355(b) of this title for the drug, the submission of an application for certification of the drug under section 357 of this title, or the submission of an application for licensing of the drug under section 262 of title 42.”
+1988—Subsec. (a)(1). Pub. L. 100–290, §2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under section 355(b) of this title for the drug, the submission of an application for certification of the drug under section 357 of this title, or the submission of anapplication for licensing of the drug under section 262 of title 42.”
 
 Subsecs. (b) to (d). Pub. L. 100–290, §2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

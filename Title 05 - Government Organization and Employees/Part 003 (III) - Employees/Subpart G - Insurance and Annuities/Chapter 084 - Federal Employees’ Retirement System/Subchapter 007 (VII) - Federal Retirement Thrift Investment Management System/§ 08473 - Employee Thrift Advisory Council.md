@@ -54,7 +54,7 @@ Section 14(a)(2) of the Federal Advisory Committee Act \[Pub. L. 92–463\], ref
 
 #### Amendments
 
-1993—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
+<b>1993</b>—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
 
 #### Effective Date of 1993 Amendment
 

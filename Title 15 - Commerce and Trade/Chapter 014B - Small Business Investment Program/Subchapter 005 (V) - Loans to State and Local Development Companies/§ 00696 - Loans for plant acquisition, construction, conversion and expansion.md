@@ -16,7 +16,7 @@ The Administration may, in addition to its authority under section 695 of this t
 
 &emsp;(D) a small business concern (or its owners, stockholders, or affiliates) receiving assistance through bodies authorized under this subchapter.
 
-(4) If the project is to construct a new facility, up to 33 per centum of the total project may be leased, if reasonable projections of growth demonstrate that the assisted small business concern will need additional space within three years and will fully utilize such additional space within ten years.
+(4) If the project is to construct a new facility, up to 33 per centum of the total project may beleased, if reasonable projections of growth demonstrate that the assisted small business concern will need additional space within three years and will fully utilize such additional space within ten years.
 
 (Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822.)
 

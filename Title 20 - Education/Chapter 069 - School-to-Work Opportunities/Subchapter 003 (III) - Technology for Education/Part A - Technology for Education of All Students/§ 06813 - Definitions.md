@@ -24,5 +24,5 @@ For purposes of this subchapter—
 
 &emsp;(11) the term “technology” means state-of-the-art technology products and services, such as closed circuit television systems, educational television and radio programs and services, cable television, satellite, copper and fiber optic transmission, computer hardware and software, video and audio laser and CD-ROM discs, and video and audio tapes.
 
-(Pub. L. 89 10, title III, §3113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3639.)
+(Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639.)
 

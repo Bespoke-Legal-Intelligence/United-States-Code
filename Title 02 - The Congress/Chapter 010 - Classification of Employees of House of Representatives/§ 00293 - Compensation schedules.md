@@ -10,21 +10,21 @@
 
 (2) The rates of compensation for such positions shall be in accordance with such schedule.
 
-(b) The committee shall establish and maintain, and, from time to time, may revise, for positions under the Clerk, the Sergeant at Arms, the Doorkeeper, and the Postmaster, of the House of Representatives, the compensation for which, in the judgment of the committee, should be fixed and adjusted from time to time in accordance with prevailing rates, a compensation schedule providing for per annum or per hour rates, or both, established in accordance with prevailing rates and consisting of such number of compensation levels and steps as the committee deems appropriate, which shall be known as the “House Wage Schedule” and for which the symbol shall be “HWS”. The rates of compensation for such positions shall be in accordance with such schedule.
+(b) The committee shall establish and maintain, and, from time to time, may revise, for positions under the Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, the compensation for which, in the judgment of the committee, should be fixed and adjusted from time to time in accordance with prevailing rates, a compensation schedule providing for per annum or per hour rates, or both, established in accordance with prevailing rates and consisting of such number of compensation levels and steps as the committee deems appropriate, which shall be known as the “House Wage Schedule” and for which the symbol shall be “HWS”. The rates of compensation for such positions shall be in accordance with such schedule.
 
-(Pub. L. 88–652, §4, Oct. 13, 1964, 78 Stat. 1079.)
+(Pub. L. 88–652, §4, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, §108(2), Nov. 19, 1995, 109 Stat. 522.)
+
+#### Amendments
+
+1995—Subsec. (b). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
-#### Abolition of Office of Doorkeeper
+#### Transfer of Functions
 
-Office of Doorkeeper of House of Representatives abolished and functions transferred generally to Sergeant-at-Arms of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-#### Transfer of Functions; Abolition of Office of Postmaster
-
-Certain functions of Officers of House of Representatives transferred to Director of Non-legislative and Financial Services and Office of Postmaster abolished by sections 2 and 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Certain functions of Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Increases in Compensation
 

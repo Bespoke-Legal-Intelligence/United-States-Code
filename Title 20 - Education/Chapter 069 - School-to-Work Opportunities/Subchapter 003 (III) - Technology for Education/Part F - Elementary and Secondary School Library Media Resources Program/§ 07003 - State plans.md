@@ -18,7 +18,7 @@ In order for a State to receive a grant or an allocation of funds under this par
 
 The State plan may be submitted as part of a consolidated application under section 8852 of this title.
 
-(Pub. L. 89 10, title III, §3603, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3671.)
+(Pub. L. 89–10, title III, §3603, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3671.)
 
 #### Section Referred to in Other Sections
 

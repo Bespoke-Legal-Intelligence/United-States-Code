@@ -6,15 +6,15 @@ The Congress finds that—
 
 &emsp;(2) there is a need to fulfill the needs of business for skilled employees who meet certain minimal standards in key occupational areas.
 
-(Pub. L. 88 210, title III, §331, formerly §341, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2463; renumbered §331 and amended Pub. L. 101 392, title III, §307(a)(2), (c), Sept. 25, 1990, 104 Stat. 787.)
+(Pub. L. 88–210, title III, §331, formerly §341, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2463; renumbered §331 and amended Pub. L. 101–392, title III, §307(a)(2), (c), Sept. 25, 1990, 104 Stat. 787.)
 
 #### Prior Provisions
 
-A prior section 331 of Pub. L. 88 210 was renumbered section 321 and is classified to section 2381 of this title.
+A prior section 331 of Pub. L. 88–210 was renumbered section 321 and is classified to section 2381 of this title.
 
 #### Amendments
 
-1990—Pub. L. 101 392, §307(c), amended section generally. Prior to amendment, section read as follows:
+1990—Pub. L. 101–392, §307(c), amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Congress finds that—
 
@@ -26,9 +26,9 @@ A prior section 331 of Pub. L. 88 210 was renumbered section 321 and is classifi
 
 &emsp;“(1) to provide incentives for business and industry and the vocational education community to develop programs to train the skilled workers needed to produce, install, operate, and maintain high-technology equipment, systems, and processes; and
 
-&emsp;“(2) to ensure that such programs are relevant to the labor market and accessible to all segments ofthe population, including women, minorities, the handicapped, and the economically disadvantaged.”
+&emsp;“(2) to ensure that such programs are relevant to the labor market and accessible to all segments of the population, including women, minorities, the handicapped, and the economically disadvantaged.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 

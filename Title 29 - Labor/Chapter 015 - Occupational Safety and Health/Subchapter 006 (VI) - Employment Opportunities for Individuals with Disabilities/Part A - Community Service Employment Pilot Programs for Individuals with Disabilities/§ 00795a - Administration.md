@@ -32,7 +32,7 @@ The Secretary shall not delegate any function of the Secretary under this part t
 
 The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in subsec. (b), is subtitle B (§§671–683) of title VI ofPub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 The effective date of this part, referred to in subsec. (d), probably means the date of enactment of this part, which was Nov. 6, 1978.
 

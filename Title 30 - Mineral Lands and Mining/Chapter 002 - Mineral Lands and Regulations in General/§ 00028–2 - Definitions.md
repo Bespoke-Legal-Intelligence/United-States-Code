@@ -2,9 +2,9 @@
 
 As used in section 28–1 of this title,
 
-(a) The term “geological surveys” means surveys on the ground for mineral deposits by the proper application of the principles and techniques of the science of geology as they relate to the search for and discovery of mineral deposits;
+(a) The term “geological surveys” means surveys on the ground for mineral deposits by theproper application of the principles and techniques of the science of geology as they relate to the search for and discovery of mineral deposits;
 
-(b) The term “geochemical surveys” means surveys on the ground for mineral deposits by the proper application of the principles and techniques of the science of chemistry as theyrelate to the search for and discovery of mineral deposits;
+(b) The term “geochemical surveys” means surveys on the ground for mineral deposits by the proper application of the principles and techniques of the science of chemistry as they relate to the search for and discovery of mineral deposits;
 
 (c) The term “geophysical surveys” means surveys on the ground for mineral deposits through the employment of generally recognized equipment and methods for measuring physical differences between rock types or discontinuities in geological formations;
 

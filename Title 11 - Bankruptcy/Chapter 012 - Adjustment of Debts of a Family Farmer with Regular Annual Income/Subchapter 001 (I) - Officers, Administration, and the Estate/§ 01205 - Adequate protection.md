@@ -4,7 +4,7 @@
 
 (b) In a case under this chapter, when adequate protection is required under section 362, 363, or 364 of this title of an interest of an entity in property, such adequate protection may be provided by—
 
-&emsp;(1) requiring the trustee to make a cash payment or periodic cash payments to such entity, to the extent that the stay under section362 of this title, use, sale, or lease under section 363 of this title, or any grant of a lien under section 364 of this title results in a decrease in the value of property securing a claim or of an entity's ownership interest in property;
+&emsp;(1) requiring the trustee to make a cash payment or periodic cash payments to such entity, to the extent that the stay under section 362 of this title, use, sale, or lease under section 363 of this title, or any grant of a lien under section 364 of this title results in a decrease in the value of property securing a claim or of an entity's ownership interest in property;
 
 &emsp;(2) providing to such entity an additional or replacement lien to the extent that such stay, use, sale, lease, or grant results in a decrease in the value of property securing a claim or of an entity's ownership interest in property;
 

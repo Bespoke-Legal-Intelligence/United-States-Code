@@ -10,7 +10,7 @@
 
 &emsp;(C) will in other respects provide safe drinking water.
 
-> Any such grant awarded before the date of promulgation of such guidelines shall be conditioned on the applicant's agreement to complyto the maximum feasible extent with such guidelines as expeditiously as practicable following the date of promulgation thereof.
+> Any such grant awarded before the date of promulgation of such guidelines shall be conditioned on the applicant's agreement to comply to the maximum feasible extent with such guidelines as expeditiously as practicable following the date of promulgation thereof.
 
 (3) Guidelines under this section may, in the discretion of the Administrator—
 

@@ -16,7 +16,7 @@ If the Commission finds that the requirements of section 1261(p)(1) of this titl
 
 #### (c) Exemption from requirements by regulation
 
-If the Commission finds that, because of the size of the package involved or because of theminor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health and safety, the Commission shall promulgate regulations exempting such substance from these requirements to the extent it determines to be consistent with adequate protection of the public health and safety.
+If the Commission finds that, because of the size of the package involved or because of the minor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health and safety, the Commission shall promulgate regulations exempting such substance from these requirements to the extent it determines to be consistent with adequate protection of the public health and safety.
 
 #### (d) Exemption from requirements of this chapter of substances or containers adequately regulated by other provisions of law
 
@@ -32,7 +32,7 @@ The Commission may exempt from the requirements established by or pursuant to th
 
 (B) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there was no opportunity to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission in a hearing or in such other manner, and upon such terms and conditions, as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendation, if any, for the modification or setting aside of its original determination, with the return of such additional evidence.
 
-(C) Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission in accordance with subparagraphs (A), (B), (C), and (D), of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Commission's determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
+(C) Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission inaccordance with subparagraphs (A), (B), (C), and (D), of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Commission's determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
 
 (D) The judgment of the court affirming or setting aside, in whole or in part, any such determination of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
@@ -46,7 +46,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 &emsp;(3) include information with respect to any existing standard known to the Commission which may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
 
-&emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or morethan 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, the regulatory alternatives being considered, and other possible alternatives for addressing the risk;
+&emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or more than 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, the regulatory alternatives being considered, and other possible alternatives for addressing the risk;
 
 &emsp;(5) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), an existing standard or a portion of a standard as a proposed regulation under section 1261(q)(1) of this title or subsection (e) of this section; and
 
@@ -86,7 +86,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of theSenate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (i) Publication of final regulatory analysis with regulation; required findings; judicial review
 
@@ -120,7 +120,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–35, title XII, §1203(b)(1), Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113.)
+(Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–35, title XII, §1203(b)(1),Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113.)
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Subsec. (d). Pub. L. 89–756, §2(e), inserted “hazardous substance or” bef
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1981 Amendment
 

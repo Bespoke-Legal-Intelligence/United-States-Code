@@ -52,7 +52,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 &emsp;&emsp;(i) a description of the procedures and activities the State agency will undertake to ensure an adequate supply of qualified State rehabilitation professionals and paraprofessionals for the designated State unit, including the development and maintenance of a system for determining, on an annual basis—
 
-&emsp;&emsp;&emsp;(I) the number and type of personnel that are employed by the State agency inthe provision of vocational rehabilitation services, including ratios of counselors to clients; and
+&emsp;&emsp;&emsp;(I) the number and type of personnel that are employed by the State agency in the provision of vocational rehabilitation services, including ratios of counselors to clients; and
 
 &emsp;&emsp;&emsp;(II) the number and type of personnel needed by the State, and a projection of the numbers of such personnel that will be needed in 5 years, based on projections of the number of individuals to be served, the number of such personnel who are expected to retire or leave the field, and other relevant factors;
 
@@ -86,7 +86,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (8) Determination regarding availability of comparable services and benefits under any other program
 
-> &emsp;provide, at a minimum, for the provision of the vocational rehabilitation services specified in paragraphs (1) through (3) and paragraph (12) of section 723(a) of this title, and for the provision of such other services as are specified under such section after a determination that comparable services and benefits are not available under any other program, except that such a determination shall not be required—
+> &emsp;provide, at a minimum, for the provision of the vocational rehabilitation services specified in paragraphs (1) through (3) and paragraph (12) of section 723(a) of this title, and forthe provision of such other services as are specified under such section after a determination that comparable services and benefits are not available under any other program, except that such a determination shall not be required—
 
 &emsp;&emsp;(A) if the determination would delay the provision of such services to any individual at extreme medical risk; or
 
@@ -102,7 +102,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 &emsp;&emsp;(C) such services will be provided under the plan in accordance with such program; and
 
-&emsp;&emsp;(D) records of the characteristics of each applicant will be kept specifying, as to thoseindividuals who apply for services under this subchapter and are determined not to be eligible therefor, the reasons for such determinations in such detail as required by the Commissioner in order for the Commissioner to analyze and evaluate annually the reasons for and numbers of such ineligibility determinations as part of the Commissioner's responsibilities under section 712 of this title, and that the State agency will at least annually categorize and analyze such reasons and numbers and report this information to the Commissioner and will, not later than 12 months after each such determination, review each such ineligibility determination in accordance with the criteria set forth in section 722 of this title;
+&emsp;&emsp;(D) records of the characteristics of each applicant will be kept specifying, as to those individuals who apply for services under this subchapter and are determined not to be eligible therefor, the reasons for such determinations in such detail as required by the Commissioner in order for the Commissioner to analyze and evaluate annually the reasons for and numbers of such ineligibility determinations as part of the Commissioner's responsibilities under section 712 of this title, and that the State agency will at least annually categorize and analyze such reasons and numbers and report this information to the Commissioner and will, not later than 12 months after each such determination, review each such ineligibility determination in accordance with the criteria set forth in section 722 of this title;
 
 #### (10) Reports of State agency; form; scope of information; time of report; correctness and verification
 
@@ -144,7 +144,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 &emsp;(A) provide that vocational rehabilitation services provided under the State plan shall be available to any civil employee of the United States who is disabled while in the performance of the employee's duty on the same terms and conditions as apply to other persons, and
 
-&emsp;(B) provide that special consideration will be given to the rehabilitation under this chapter of an individual with a disability whose disability was sustained in the line of duty while such individual was performing as a public safety officer if the proximate cause of such disability was a criminal act, apparent criminal act, or a hazardous condition resulting directly from the officer's performance of duties in direct connection with the enforcement,execution, and administration of law or fire prevention, firefighting, or related public safety activities;
+&emsp;(B) provide that special consideration will be given to the rehabilitation under this chapter of an individual with a disability whose disability was sustained in the line of duty while such individual was performing as a public safety officer if the proximate cause of such disability was a criminal act, apparent criminal act, or a hazardous condition resulting directly from the officer's performance of duties in direct connection with the enforcement, execution, and administration of law or fire prevention, firefighting, or related public safety activities;
 
 #### (14) Residency requirement; prohibition
 
@@ -234,7 +234,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (25) Use of supported employment funds
 
-> &emsp;provide assurances satisfactory to the Secretary that the State has an acceptable plan for carrying out part C of subchapter VI of this chapter, including the use of funds under that part to supplement funds under part B of this subchapter for the cost of services leading to supported employment;
+> &emsp;provide assurances satisfactory to the Secretary that the State has an acceptable plan for carrying out part C of subchapter VI of this chapter, including the use of funds under that part to supplement funds under part B ofthis subchapter for the cost of services leading to supported employment;
 
 #### (26) Manner of providing personal assistance services
 
@@ -258,7 +258,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (31) Assistive technology devices and services
 
-> &emsp;describe the manner in which assistive technology devices and services will be provided,or worksite assessments will be made as part of the assessment for determining eligibility and vocational rehabilitation needs of an individual;
+> &emsp;describe the manner in which assistive technology devices and services will be provided, or worksite assessments will be made as part of the assessment for determining eligibility and vocational rehabilitation needs of an individual;
 
 #### (32) Modification of State policies and procedures
 
@@ -580,7 +580,7 @@ Subsec. (c). Pub. L. 95–602, §§102(b), 122(b)(1), designated existing provis
 
 Subsec. (d). Pub. L. 95–602, §102(c), substituted provisions authorizing judicial review of determinations by the Commissioner in the Court of Appeals for the circuit in which the State is located provided a petition is filed within thirty days after the date notice of the final determination was received by the State, permitting additional submissions and presentations, and granting the court jurisdiction to administer appropriate relief in accordance with chapter 7 of title 5, except with respect to interim relief for a determination under subsec. (c) and to the standard of relief under section 706(2)(E) of title 5 for provisions authorizing judicial review of the action of the Secretary in the United States district court for the district where the capital of the State is located and providing review of such action be on the record in accordance with chapter 7 of title 5.
 
-1974—Subsec. (a)(6). Pub. L. 93–516, §111(b), inserted parenthetical provisions relating to the requirement that the State take affirmative action to employ and advance in employment qualified handicapped individuals covered under, and on the same terms and conditions as set forth in section 793 of this title.
+1974—Subsec. (a)(6). Pub. L. 93–516, §111(b), inserted parenthetical provisions relating to the requirement that the State take affirmative action to employ andadvance in employment qualified handicapped individuals covered under, and on the same terms and conditions as set forth in section 793 of this title.
 
 Pub. L. 93–651, §111(b), amended subsec. (a)(6) in exactly the same manner as it was amended by Pub. L. 93–516.
 

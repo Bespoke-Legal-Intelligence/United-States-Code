@@ -42,7 +42,7 @@ Pub. L. 100–690, title VI, §6254(a), Nov. 18, 1988, 102 Stat. 4363, provided 
 
 &emsp;&emsp;“(C) is harmful to wildlife;
 
-&emsp;“(3) the Forest Service needs additional authority to adequately deal with the problem of controlled substance production that affects the administration of the National Forest System;
+&emsp;“(3) the Forest Service needs additional authority to adequately deal with the problem of controlledsubstance production that affects the administration of the National Forest System;
 
 &emsp;“(4) the Forest Service needs to be able to exercise its investigative authorities outside the boundaries of the National Forest System for drug-related crimes arising from within the National Forest System in order to be effective in deterring such crime;
 

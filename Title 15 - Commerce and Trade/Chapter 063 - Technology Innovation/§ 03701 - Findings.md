@@ -24,43 +24,43 @@ The Congress finds and declares that:
 
 &emsp;(11) The Nation should give fuller recognition to individuals and companies which have made outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
 
-(Pub. L. 96 480, §2, Oct. 21, 1980, 94 Stat. 2311; Pub. L. 99 502, §9(f)(1), Oct. 20, 1986, 100 Stat. 1797.)
+(Pub. L. 96–480, §2, Oct. 21, 1980, 94 Stat. 2311; Pub. L. 99–502, §9(f)(1), Oct. 20, 1986, 100 Stat. 1797.)
 
 #### Amendments
 
-1986—Par. (10). Pub. L. 99 502 inserted “, which include inventions, computer software, and training technologies,”.
+1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102 245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b 1, 3704b 2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g 1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
+Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
 
-Pub. L. 102 245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b 1, and 3704b 2 of this title, amending sections 278d, 278g, 278g 1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under thissection and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
+Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101 189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: “This part \[part C (§§3131 3133) of title XXXI of div. C of Pub. L. 101 189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
+Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: “This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100 519, title II, §211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 100 519, enacting section 3704b of this title and amending section 3710 of this title\] may be cited as the ‘National Technical Information Act of 1988’.”
+Pub. L. 100–519, title II, §211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title\] may be cited as the ‘National Technical Information Act of 1988’.”
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100 107, §1, Aug. 20, 1987, 101 Stat. 724, provided that: “This Act \[enacting section 3711a of this title, amending section 3708 of this title, and enacting provisions set out as a note under section 3711a of this title\] may be cited as the ‘Malcolm Baldrige National Quality Improvement Act of 1987’.”
+Pub. L. 100–107, §1, Aug. 20, 1987, 101 Stat. 724, provided that: “This Act \[enacting section 3711a of this title, amending section 3708 of this title, and enacting provisions set out as a note under section 3711a of this title\] may be cited as the ‘Malcolm Baldrige National Quality Improvement Act of 1987’.”
 
 #### Short Title of 1986 Amendments
 
-Section 1 of Pub. L. 99 502 provided that: “This Act \[enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title\] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
+Section 1 of Pub. L. 99–502 provided that: “This Act \[enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title\] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
 
-Pub. L. 99 382, §1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act \[amending section 3704 of this title\] may be cited as the ‘Japanese Technical Literature Act of 1986’.”
+Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act \[amending section 3704 of this title\] may be cited as the ‘Japanese Technical Literature Act of 1986’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96 480 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
+Section 1 of Pub. L. 96–480 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
 
 #### Definitions of Terms; 1992 Amendment
 
-Pub. L. 102 245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: “As used in this Act \[see Short Title of 1992 Amendment note above\]—
+Pub. L. 102–245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: “As used in this Act \[see Short Title of 1992 Amendment note above\]—
 
 &emsp;“(1) the term ‘high-resolution information systems’ means equipment and techniques required to create, store, recover, and play back high-resolution images and accompanying sound;
 
@@ -76,11 +76,11 @@ Pub. L. 102 245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: “As used in t
 
 #### Congressional Statement of Policy; 1992 Amendment
 
-Pub. L. 102 245, title I, §102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce's Technology Administration and National Institute of Standards and Technology.”
+Pub. L. 102–245, title I, §102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce's Technology Administration and National Institute of Standards and Technology.”
 
 #### National Commission on Reducing Capital Costs for Emerging Technology
 
-Pub. L. 102 245, title IV, §401, Feb. 14, 1992, 106 Stat. 21, provided that:
+Pub. L. 102–245, title IV, §401, Feb. 14, 1992, 106 Stat. 21, provided that:
 
 “(a)
 
@@ -146,7 +146,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Research, Development, Technology Utilization, and Government Procurement Policy
 
-Pub. L. 102 245, title V, §505, Feb. 14, 1992, 106 Stat. 25, provided that:
+Pub. L. 102–245, title V, §505, Feb. 14, 1992, 106 Stat. 25, provided that:
 
 “(a)
 
@@ -166,7 +166,7 @@ Issues.—The Commission shall address the following issues:
 
 &emsp;“(5) Should Federal Government procurement practices include cooperative efforts between the supplier and the Federal entity to develop products so as to be more easily marketed on a commercial basis? Should a program for the exchange of technical personnel to foster innovation in product development be part of such practices?
 
-&emsp;“(6) To what extent, if any, should Federal Government documents specify standards that are beneficial to domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
+&emsp;“(6) To what extent, if any, should Federal Government documents specify standards that are beneficialto domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
 
 &emsp;“(7) Should Federal Government procurement be linked to the Advanced Technology Program and to technology transfer activities so that specification development can incorporate the latest technical advances available?
 
@@ -212,11 +212,11 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Study of Testing and Certification
 
-Pub. L. 102 245, title V, §508, Feb. 14, 1992, 106 Stat. 29, provided that:
+Pub. L. 102–245, title V, §508, Feb. 14, 1992, 106 Stat. 29, provided that:
 
 “(a)
 
-Contract With National Research Council.—Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address thefollowing issues and make recommendations as appropriate:
+Contract With National Research Council.—Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address the following issues and make recommendations as appropriate:
 
 &emsp;“(1) The impact on United States manufacturers, testing and certification laboratories, certification organizations, and other affected bodies of the European Community's plans for testing and certification of regulated and nonregulated products of non-European origin.
 
@@ -238,7 +238,7 @@ Report.—A report based on the findings and recommendations of the review panel
 
 #### Congressional Findings and Purposes; 1989 Amendment
 
-Pub. L. 101 189, div. C, title XXXI, §3132, Nov. 29, 1989, 103 Stat. 1674, provided that:
+Pub. L. 101–189, div. C, title XXXI, §3132, Nov. 29, 1989, 103 Stat. 1674, provided that:
 
 “(a)
 
@@ -258,7 +258,7 @@ Findings.—Congress finds that—
 
 “(b)
 
-Purposes.—The purposes of this part \[part C (§§3131 3133) of title XXXI of div. C of Pub. L. 101 189, see Short Title of 1989 Amendment note above\] are to—
+Purposes.—The purposes of this part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, see Short Title of 1989 Amendment note above\] are to—
 
 &emsp;“(1) enhance United States national security by promoting technology transfer between Government-owned, contractor-operated laboratories and the private sector in the United States; and
 

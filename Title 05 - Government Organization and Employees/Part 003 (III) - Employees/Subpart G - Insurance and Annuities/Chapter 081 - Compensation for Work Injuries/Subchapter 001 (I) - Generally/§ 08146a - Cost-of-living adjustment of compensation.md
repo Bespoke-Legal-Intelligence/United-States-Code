@@ -54,9 +54,9 @@ Act of September 8, 1959 (73 Stat. 469) which transferred from the Department of
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–499 substituted “Compensation” for “Each month the Secretary of Labor shall determine the percent change in the price index. Effective the first day of the month which begins after the price index change equals a rise of at least 3 percent for 3 consecutive months over the price index for the latest base month, compensation”, “March 1 of each year shall be annually increased” for “that first day shall be increased” and “amount determined by the Secretary of Labor to represent the percent change in the price index published for December of the preceding year over the price index published for the December of the year prior to the preceding year,” for “percent rise in the price index (calculated on the highest level of the price index during the 3 consecutive months)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–499 substituted “Compensation” for “Each month the Secretary of Labor shall determine the percent change in the price index. Effective the first day of the month which begins after the price index change equals a rise of at least 3 percent for 3 consecutive months over the price index for the latest base month, compensation”, “March 1 of each year shall be annually increased” for “that first day shall be increased” and “amount determined by the Secretary of Labor to represent the percent change in the price index published for December of the preceding year over the price index published for the December of the year prior to the preceding year,” for “percent rise in the price index (calculated on the highest level of the price index during the 3 consecutive months)”.
 
-1974—Subsec. (a). Pub. L. 93–416, §21, substituted “Effective the first day of the month” for “Effective the first day of the third month”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416, §21, substituted “Effective the first day of the month” for “Effective the first day of the third month”.
 
 Subsec. (b). Pub. L. 93–416, §21, substituted “regular periodic compensation payments” for “monthly compensation”.
 
@@ -68,7 +68,7 @@ For effective date of amendment by Pub. L. 96–499, see section 422 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974 but only to the period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to the period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Personnel Not Affected by Cost-of-Living Adjustment
 

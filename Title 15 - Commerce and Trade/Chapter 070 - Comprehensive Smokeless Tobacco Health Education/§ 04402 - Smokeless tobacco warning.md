@@ -28,7 +28,7 @@ The Federal Trade Commission shall issue regulations requiring the label stateme
 
 &emsp;&emsp;(B) in the following format:
 
-g,w420,d308[Image not captured:  ]
+g,w420,d308[Image not captured: ]
 
 &emsp;&emsp;(C) the label statement shall appear in capital letters and the area of the circle and arrow shall be determined by the Federal Trade Commission.
 
@@ -54,11 +54,11 @@ This section does not apply to a distributor or a retailer of any smokeless toba
 
 Effective 6 months after February 27, 1986, it shall be unlawful to advertise smokeless tobacco on any medium of electronic communications subject to the jurisdiction of the Federal Communications Commission.
 
-(Pub. L. 99 252, §3, Feb. 27, 1986, 100 Stat. 30.)
+(Pub. L. 99–252, §3, Feb. 27, 1986, 100 Stat. 30.)
 
 #### Effective Date
 
-Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11 of Pub. L. 99 252, set out as a note under section 4401 of this title.
+Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
 #### Section Referred to in Other Sections
 

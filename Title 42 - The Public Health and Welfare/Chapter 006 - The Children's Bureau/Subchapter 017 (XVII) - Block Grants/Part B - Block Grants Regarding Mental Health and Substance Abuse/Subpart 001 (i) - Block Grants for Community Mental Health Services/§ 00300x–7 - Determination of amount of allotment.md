@@ -86,7 +86,7 @@
 
 #### (7) Determination of term “P%”
 
-&emsp;For purposes of paragraph (4), the term “P%” means the percentage constituted bythe ratio of the term “P” determined under paragraph (5) for the State involved to the sum of the respective terms “P” determined for the States.
+&emsp;For purposes of paragraph (4), the term “P%” means the percentage constituted by the ratio of the term “P” determined under paragraph (5) for the State involved to the sum of the respective terms “P” determined for the States.
 
 #### (8) Determination of certain factor
 

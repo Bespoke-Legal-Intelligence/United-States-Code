@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of improving the state of engineering and construction in the United States and consistent with the mission of the Army Corps of Engineers, the Secretary is authorizedto utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
+For the purpose of improving the state of engineering and construction in the United States and consistent with the mission of the Army Corps of Engineers, the Secretary is authorized to utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
 
 #### (b) Administrative provisions
 

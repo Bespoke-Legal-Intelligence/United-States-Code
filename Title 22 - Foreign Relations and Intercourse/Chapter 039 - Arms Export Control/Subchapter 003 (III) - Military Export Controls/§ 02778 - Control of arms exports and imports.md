@@ -10,7 +10,7 @@
 
 #### (b) Registration and licensing requirements for manufacturers, exporters, or importers of designated defense articles and defense services
 
-(1)(A) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) of this section shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
+(1)(A) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engagesin the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) of this section shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
 
 (B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
@@ -28,7 +28,7 @@
 
 &emsp;(ii) the automation of munitions control functions and the processing of munitions control license applications, including the development, procurement, and utilization of computer equipment and related software.
 
-(B) The authority of this paragraph may be exercised only to such extent or in such amountsas are provided in advance in appropriation Acts.
+(B) The authority of this paragraph may be exercised only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (c) Criminal violations; punishment
 
@@ -156,7 +156,7 @@ Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to
 
 Subsec. (h). Pub. L. 101–222, §6, added subsec. (h).
 
-1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and addedsubpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
+1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
 
 Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance of return to United States of certain military firearms, etc., under certain circumstances.
 
@@ -328,7 +328,7 @@ Purpose of the Regime.—The purpose of the multilateral arms transfer and contr
 
 &emsp;“(3) to limit and halt the proliferation of ballistic missile technologies and ballistic missile systems that are capable of delivering conventional, nuclear, biological, or chemical warheads;
 
-&emsp;“(4) to maintain the military balance in the Middle East and Persian Gulf region through reductions of conventional weapons and the elimination of unconventional weapons; and
+&emsp;“(4) to maintain the military balance in the Middle East and Persian Gulf region through reductions ofconventional weapons and the elimination of unconventional weapons; and
 
 &emsp;“(5) to promote regional arms control in the Middle East and Persian Gulf region.
 
@@ -400,7 +400,7 @@ Major Military Equipment.—As used in this title, the term ‘major military eq
 
 “(a)
 
-Quarterly Reports.—Beginning on January 15, 1992, and quarterly thereafter through October 15, 1993,the President shall submit to the relevant congressional committees a report—
+Quarterly Reports.—Beginning on January 15, 1992, and quarterly thereafter through October 15, 1993, the President shall submit to the relevant congressional committees a report—
 
 &emsp;“(1) describing the progress in implementing the purposes of the multilateral arms transfer and control regime as described in section 402(b); and
 
@@ -436,7 +436,7 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 “As used in this title, the term ‘relevant congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
-\[Ex. Ord. No. 12851, §3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reporting functions of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
+\[Ex. Ord. No. 12851, §3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegatedto Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reporting functions of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 
 \[Memorandum of President of the United States, Dec. 27, 1991, 56 F.R. 1069, delegated to Secretary of State, in consultation with heads of other executive agencies and departments, certification and reporting obligations of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 

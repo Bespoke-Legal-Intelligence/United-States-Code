@@ -12,7 +12,7 @@ In the case of any program under this subchapter under which a scholarship, stip
 
 &emsp;&emsp;(B) practice in the specialty for 5 years after completing the residency training program.
 
-&emsp;(3) In the case of an individual who receives such assistance with respect to attendance at a school of dentistry, the individual will practice in general dentistry for 5 years (exclusive of any period during which the individual is attending a residency training program in general dentistry).
+&emsp;(3) In the case of an individual who receives such assistance with respect to attendance at a school of dentistry, the individual will practice in general dentistry for 5 years (exclusiveof any period during which the individual is attending a residency training program in general dentistry).
 
 &emsp;(4) Subsection (b) of this section applies with respect to the breach of agreements made under any of paragraphs (1) through (3).
 

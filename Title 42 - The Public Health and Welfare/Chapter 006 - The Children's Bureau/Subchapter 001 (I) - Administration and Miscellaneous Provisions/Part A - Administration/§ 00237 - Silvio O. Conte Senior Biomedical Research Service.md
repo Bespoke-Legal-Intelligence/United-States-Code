@@ -60,7 +60,7 @@ Subsec. (a). Pub. L. 103–43, §2001(a), amended subsec. (a) generally. Prior t
 
 #### Effective Date
 
-Section effective on the 90th day following Nov. 5, 1990, see section 529 \[title III, §304(c)\] of Pub. L. 101–509,set out as an Effective Date of 1990 Amendment note under section 212 of this title.
+Section effective on the 90th day following Nov. 5, 1990, see section 529 \[title III, §304(c)\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 212 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,7 @@ Except as provided in sections 4705 and 4712 of this title, the Fund shall requi
 
 #### (c) Preapplication outreach program
 
-The Fund shall provide an outreach program to identify and provide information to potentialapplicants and may provide technical assistance to potential applicants, but shall not assist in the preparation of any application.
+The Fund shall provide an outreach program to identify and provide information to potential applicants and may provide technical assistance to potential applicants, but shall not assist in the preparation of any application.
 
 (Pub. L. 103–325, title I, §105, Sept. 23, 1994, 108 Stat. 2170.)
 

@@ -32,13 +32,13 @@
 
 (5) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
 
-(6) The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives at least once every three years.
+(6) The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives.
 
 (f) An agency may use available appropriations to reimburse the Office or the Federal Bureau of Investigation for the cost of investigations, training, and functions performed for them under this section, or to make advances toward their cost. These advances and reimbursements shall be credited directly to the applicable appropriations of the Office or the Federal Bureau of Investigation.
 
 (g) This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
 
-(Pub. L. 89– 554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581.)
+(Pub. L. 89– 554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Apr. 5, 1952, ch. 159, §4, 66 Stat. 44.
 
 Apr. 5, 1952, ch. 159, §3, 66 Stat. 44.
 
-Subsection (a) is based on section 1 of the Act of April 5, 1952, as amended, and is added for clarity. In subsection (a), the reference to section 10(b)(5)(B)(i) and (B)(ii) of the Act of August 1, 1946 (60 Stat. 766) is omitted because of the amendment of the Act of April 5, 1952, by the Act of July 31, 1953, ch. 283, 67 Stat. 240, and the reenactment of the provisions of the Act of April 5, 1952, insofar as they relate to the Atomic Energy Commission as section 145 of the Atomic Energy Act of 1954 (68 Stat. 942; 42 U.S.C. 2165). The references to section 1(2) of the Act of May 22, 1947 (61 Stat. 125), section 1 of the joint resolution of May 21, 1947 (61 Stat. 125), andsection 110(c) of the Act of April 3, 1948 (62 Stat. 137) are omitted as these Acts were repealed by the Act of Aug. 26, 1954, ch. 937 §542(a) (1), (2), and (4), 68 Stat. 861. Reference to section 510 of the Mutual Security Act of 1951 (65 Stat. 381) is omitted because this section was replaced by section 531 of the Mutual Security Act of 1954 (68 Stat. 859) and the latter was repealed by the Act of Sept. 4, 1961, Pub. L. 87–195, §642(2), 75 Stat. 460.
+Subsection (a) is based on section 1 of the Act of April 5, 1952, as amended, and is added for clarity. In subsection (a), the reference to section 10(b)(5)(B)(i) and (B)(ii) of the Act of August 1, 1946 (60 Stat. 766) is omitted because of the amendment of the Act of April 5, 1952, by the Act of July 31, 1953, ch. 283, 67 Stat. 240, and the reenactment of the provisions of the Act of April 5, 1952, insofar as they relate to the Atomic Energy Commission as section 145 of the Atomic Energy Act of 1954 (68 Stat. 942; 42 U.S.C. 2165). The references to section 1(2) of the Act of May 22, 1947 (61 Stat. 125), section 1 of the joint resolution of May 21, 1947 (61 Stat. 125), and section 110(c) of the Act of April 3, 1948 (62 Stat. 137) are omitted as these Acts were repealed by the Act of Aug. 26, 1954, ch. 937 §542(a) (1), (2), and (4), 68 Stat. 861. Reference to section 510 of the Mutual Security Act of 1951 (65 Stat. 381) is omitted because this section was replaced by section 531 of the Mutual Security Act of 1954 (68 Stat. 859) and the latter was repealed by the Act of Sept. 4, 1961, Pub. L. 87–195, §642(2), 75 Stat. 460.
 
 In subsection (d), the references to section 10(b)(5)(B)(i) and (ii) of the Atomic Energy Act of 1946, section 510 of the Mutual Security Act of 1951, a majority of the members of the Atomic Energy Commission, and the Director of Mutual Security (which was changed to Director of the International Cooperation Administration on authority of section 8 of 1953 Reorg. Plan No. 7, 67 Stat. 641, and Executive Order 10610 of May 9, 1955) are omitted because of the disposition of the two sections as explained with reference to subsection (a).
 
@@ -92,19 +92,21 @@ Section 1203(e) of title 6, District of Columbia Code, referred to in subsec. (a
 
 #### Amendments
 
-1994—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
+<b>1995</b>—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.
 
-1984—Subsec. (e)(1). Pub. L. 98–224 struck out cl. (i) designation and struck out cl. (ii) which provided that participation fees imposed by the President's Commission on Executive Exchange for private sector participation in its Executive Exchange Program be collected and credited to the fund, and be available for the costs of education and related travel of exchanged executives, for printing without regard to section 501 of title 44, and, in such amounts as specified in appropriations Acts, for entertainment expenses. See section 4109(d) of this title.
+<b>1994</b>—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
 
-1983—Subsec. (e)(1). Pub. L. 97–412 designated existing provisions as cl. (i) and added cl. (ii).
+<b>1984</b>—Subsec. (e)(1). Pub. L. 98–224 struck out cl. (i) designation and struck out cl. (ii) which provided that participation fees imposed by the President's Commission on Executive Exchange for private sector participation in its Executive Exchange Program be collected and credited to the fund, and be available for the costs of education and related travel of exchanged executives, for printing without regard to section 501 of title 44, and, in such amounts as specified in appropriations Acts, for entertainment expenses. See section 4109(d) of this title.
 
-1979—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
+<b>1983</b>—Subsec. (e)(1). Pub. L. 97–412 designated existing provisions as cl. (i) and added cl. (ii).
 
-1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
 
-1971—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
+<b>1978</b>—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-1969—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
+<b>1971</b>—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
+
+<b>1969</b>—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
 
 Subsec. (f). Pub. L. 91–189, §1(b), authorized an agency to use available appropriations to reimburse the Commission or the Federal Bureau of Investigation for the cost of training and functions performed.
 
@@ -122,7 +124,11 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished and its jurisdiction given primarily to Committee on Government Reform and Oversight by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1104 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

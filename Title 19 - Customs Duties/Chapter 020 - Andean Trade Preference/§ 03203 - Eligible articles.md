@@ -16,7 +16,7 @@
 
 > For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
-(2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out subsection (a) of this section including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
+(2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out subsection (a) of this section including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of abeneficiary country shall be eligible for such treatment by virtue of having merely undergone—
 
 &emsp;(A) simple combining or packaging operations, or
 
@@ -88,7 +88,7 @@ The duty-free treatment provided under this chapter shall not apply to—
 
 #### (e) Emergency relief with respect to perishable products
 
-(1) If a petition is filed with the United States International Trade Commission pursuant tothe provisions of section 201 of the Trade Act of 1974 \[19 U.S.C. 2251\] regarding a perishable product and alleging injury from imports from beneficiary countries, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted pursuant to paragraph (3) of this subsection with respect to such article.
+(1) If a petition is filed with the United States International Trade Commission pursuant to the provisions of section 201 of the Trade Act of 1974 \[19 U.S.C. 2251\] regarding a perishable product and alleging injury from imports from beneficiary countries, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted pursuant to paragraph (3) of this subsection with respect to such article.
 
 (2) Within 14 days after the filing of a petition under paragraph (1) of this subsection—
 

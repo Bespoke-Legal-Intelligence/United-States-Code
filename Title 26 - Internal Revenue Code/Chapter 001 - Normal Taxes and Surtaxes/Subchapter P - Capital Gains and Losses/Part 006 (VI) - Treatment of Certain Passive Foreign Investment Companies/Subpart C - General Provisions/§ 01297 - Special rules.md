@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (4) Options
 
-&emsp;To the extent provided in regulations, if any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
+&emsp;To the extent provided in regulations, if any person has an option to acquire stock, suchstock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
 #### (5) Successive application
 
@@ -108,7 +108,7 @@ For purposes of this part—
 
 #### (B) Qualified stock
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified stock” means any stock in a C corporation which is a domestic corporation and which is not a regulated investment company or real estate investment trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “qualified stock” means any stock in a Ccorporation which is a domestic corporation and which is not a regulated investment company or real estate investment trust.
 
 #### (9) Treatment of certain subpart F inclusions
 

@@ -12,7 +12,7 @@
 
 (1) The provisions of subtitle IV of title 49 and the Bankruptcy Act, are inapplicable (A) to actions taken under this chapter to formulate and implement the final system plan where such action was in compliance with the requirements of such plan, and (B) to actions taken under this chapter to formulate or implement any supplemental transaction.
 
-(2) All securities of the Corporation which are issued to the Association as the initial holder, or which are issued in connection with the transfer to the Corporation or a subsidiary thereof of rail properties under this chapter, shall be deemed for all purposes to have been issued subject to and authorized pursuant to section 11301 of title 49.
+(2) All securities of the Corporation which are issued to the Association as the initial holder, or which are issued in connection with the transfer to the Corporation or a subsidiary thereof of rail properties under this chapter, shall be deemed for all purposes to have been issued subject to and authorized pursuant to section 11301 <sup>1</sup> of title 49.
 
 (3) The provisions of section 77e of title 15, shall not apply to transactions involving the issuance of any security of the Corporation to the Association, transactions involving the issuance of any security of the Corporation that is deposited with the special court pursuant to section 743(a) of this title, or transactions involving the issuance or distribution of any security of the Corporation, where the terms and conditions of such issuance or distribution are approved by the special court pursuant to section 743(c) of this title.
 
@@ -20,7 +20,7 @@
 
 #### (c) Environment
 
-The provisions of section 4332(2)(C) of title 42 shall not apply with respect to any action takenunder authority of this chapter before, and including, the conveyance of rail properties ordered by the special court under section 743 (b)(1) of this title, and shall not apply thereafter to any action taken in compliance with the requirements of the final system plan.
+The provisions of section 4332(2)(C) of title 42 shall not apply with respect to any action taken under authority of this chapter before, and including, the conveyance of rail properties ordered by the special court under section 743 (b)(1) of this title, and shall not apply thereafter to any action taken in compliance with the requirements of the final system plan.
 
 #### (d) Northeast Corridor
 
@@ -50,9 +50,11 @@ Act of June 19, 1936 (ch. 592, 49 Stat. 1526), as amended, referred to in subsec
 
 The Bankruptcy Act, referred to in subsec. (b)(1), (4), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
+Section 11301 of title 49, referred to in subsec. (b)(2), was omitted and a new section 11301 enacted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 837. The new section 11301 does not relate to issuance of securities. Previously, in subsec. (b)(2), “section 11301 of title 49” was substituted for “section 20a of the Interstate Commerce Act (49 U.S.C. 20a)” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
+
 #### Codification
 
-In subsec. (b)(1) and (4), “subtitle IV of title 49” and “section 11301 of title 49” substituted for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)” and “section 20a of the Interstate Commerce Act (49 U.S.C. 20a)”, respectively, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
+In subsec. (b)(1), (4), “subtitle IV of title 49” substituted for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
 A subsec. (e) of section 601 of Pub. L. 93–236, which was designated in the original as “Emergency Service”, amended section 1(16) of former Title 49, Transportation.
 
@@ -66,6 +68,10 @@ Subsec. (c). Pub. L. 94–210, §618(c), substituted provisions relating to inap
 
 Subsec. (d)(1). Pub. L. 94–210, §705(b), substituted mandatory for discretionary authority for purchase of properties by the Corporation and provisions relating to negotiations for properties for transfer pursuant to section 716(c)(1)(C) of this title, for provisions relating to negotiations as provided in the final system plan.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
 See section 1341 of this title.
@@ -77,4 +83,6 @@ Section 619 of title VI of Pub. L. 94–210 provided that: “Nothing in this ti
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 716, 741, 742, 743 of this title; title 11 section 1166; title 49 section 24907.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

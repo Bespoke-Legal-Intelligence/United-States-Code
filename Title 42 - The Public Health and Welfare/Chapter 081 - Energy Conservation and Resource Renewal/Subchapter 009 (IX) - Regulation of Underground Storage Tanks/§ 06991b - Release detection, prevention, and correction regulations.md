@@ -12,7 +12,7 @@ In promulgating regulations under this section, the Administrator may distinguis
 
 The regulations promulgated pursuant to this section shall include, but need not be limited to, the following requirements respecting all underground storage tanks—
 
-&emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
+&emsp;(1) requirements for maintaining a leak detection system, an inventory control systemtogether with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
 
 &emsp;(2) requirements for maintaining records of any monitoring or leak detection system or inventory control system or tank testing or comparable system;
 
@@ -56,7 +56,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 &emsp;(ii) such State is taking steps to establish a fund pursuant to section 6991c(c)(1) of this title to be submitted as evidence of financial responsibility.
 
-> A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
+> A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is notpossible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
 
 #### (e) New tank performance standards
 
@@ -106,7 +106,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;&emsp;&emsp;(iii) capable of carrying out such corrective action properly.
 
-&emsp;&emsp;(B) A situation exists which requires prompt action by the Administrator (or the State) under this paragraph to protect human health and the environment.
+&emsp;&emsp;(B) A situation exists which requires prompt action by the Administrator (or theState) under this paragraph to protect human health and the environment.
 
 &emsp;&emsp;(C) Corrective action costs at a facility exceed the amount of coverage required by the Administrator pursuant to the provisions of subsections (c) and (d)(5) of this section and, considering the class or category of underground storage tank from which the release occurred, expenditures from the Leaking Underground Storage Tank Trust Fund are necessary to assure an effective corrective action.
 
@@ -128,7 +128,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (A) In general
 
-&emsp;&emsp;Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operator of such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construedto be the standard of liability which obtains under section 1321 of title 33.
+&emsp;&emsp;Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operator of such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construed to be the standard of liability which obtains under section 1321 of title 33.
 
 #### (B) Recovery
 
@@ -162,7 +162,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (B) Cost share
 
-&emsp;&emsp;Following the effective date of the regulations under subsection (c) of this section, the State shall pay 10 per centum of the cost of corrective actions undertaken either by the Administrator or by the State under a cooperative agreement, except that the Administrator may take corrective action at a facility where immediate action is necessary to respond to an imminent and substantial endangerment to human health or the environment if the State fails to pay the cost share.
+&emsp;&emsp;Following the effective date of the regulations under subsection (c) of this section, theState shall pay 10 per centum of the cost of corrective actions undertaken either by the Administrator or by the State under a cooperative agreement, except that the Administrator may take corrective action at a facility where immediate action is necessary to respond to an imminent and substantial endangerment to human health or the environment if the State fails to pay the cost share.
 
 #### (8) Emergency procurement powers
 
@@ -178,7 +178,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Leaking Underground Storage Tank Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fundto take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Leaking Underground Storage Tank Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 (Pub. L. 89–272, title II, §9003, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3279; amended Pub. L. 99–499, title II, §205(c), (d), Oct. 17, 1986, 100 Stat. 1697, 1698.)
 
@@ -208,7 +208,7 @@ Study.—The Comptroller General shall conduct a study of the availability of po
 
 “(2)
 
-Report.—The Comptroller General shall report the findings under this subsection to the Congress within 15 months after the enactment of this subsection \[Oct. 17, 1986\]. Such report shall include recommendations for legislative or administrative changes that will enable owners and operators of underground storage tanks to maintain financial responsibility sufficient to provide all clean-up costs and damages that may result from reasonably foreseeable releases and events.”
+Report.—The Comptroller General shall report the findings under this subsection to the Congress within 15 months after the enactment of this subsection \[Oct. 17, 1986\]. Such report shall include recommendations for legislative or administrative changes that will enable owners and operators of undergroundstorage tanks to maintain financial responsibility sufficient to provide all clean-up costs and damages that may result from reasonably foreseeable releases and events.”
 
 #### Section Referred to in Other Sections
 

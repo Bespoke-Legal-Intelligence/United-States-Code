@@ -41,7 +41,7 @@
 | (a) | General responsibilities. |
 | (b) | Collaborative Consortia. |
 | (c) | Technology transfer. |
-| (d) | Annual reports to Congress. |
+| (d) | Reports. |
 | (e) | Authorization of appropriations. |
 | [5524\.](Subchapter%20002%20%28II%29%20-%20Agency%20Activities/%C2%A7%2005524%20-%20Department%20of%20Commerce%20activities.md) | Department of Commerce activities. |
 | (a) | General responsibilities. |

@@ -2,7 +2,7 @@
 
 Except as otherwise provided in this subchapter, all authority under any provision of this subchapter and any rule, regulation, or order issued pursuant to such authority, shall expire at midnight, June 30, 1996, but such expiration shall not affect any action or pending proceedings, civil or criminal, not finally determined on such date, nor any action or proceeding based upon any act committed prior to midnight, June 30, 1996.
 
-(Pub. L. 94–163, title II, §281, as added Pub. L. 99–58, title I, §104(a), July 2, 1985, 99 Stat. 104; amended Pub. L. 100–373, §1, July 19, 1988, 102 Stat. 878; Pub. L. 101–262, §2(c), Mar. 31, 1990, 104Stat. 124; Pub. L. 101–360, §2(c), Aug. 10, 1990, 104 Stat. 421; Pub. L. 101–383, §2(3), Sept. 15, 1990, 104 Stat. 727; Pub. L. 103–406, title I, §103, Oct. 22, 1994, 108 Stat. 4209.)
+(Pub. L. 94–163, title II, §281, as added Pub. L. 99–58, title I, §104(a), July 2, 1985, 99 Stat. 104; amended Pub. L. 100–373, §1, July 19, 1988, 102 Stat. 878; Pub. L. 101–262, §2(c), Mar. 31, 1990, 104 Stat. 124; Pub. L. 101–360, §2(c), Aug. 10, 1990, 104 Stat. 421; Pub. L. 101–383, §2(3), Sept. 15, 1990, 104 Stat. 727; Pub. L. 103–406, title I, §103, Oct. 22, 1994, 108 Stat. 4209.)
 
 #### Codification
 

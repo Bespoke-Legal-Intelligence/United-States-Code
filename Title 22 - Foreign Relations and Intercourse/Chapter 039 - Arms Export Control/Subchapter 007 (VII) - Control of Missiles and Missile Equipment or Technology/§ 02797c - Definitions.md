@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, andany other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
+&emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, and any other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
 
 &emsp;(2) the term “Missile Technology Control Regime” or “MTCR” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
 
@@ -24,7 +24,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(ii) all activities of that government affecting the development or production of electronics, space systems or equipment, and military aircraft; and
 
-&emsp;(9) the term “otherwise engaged in the trade of” means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
+&emsp;(9) the term “otherwise engaged in the trade of” means, with respect to a particular exportor transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
 
 (Pub. L. 90–629, ch. 7, §74, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1748; amended Pub. L. 102–138, title III, §323(b), (c), Oct. 28, 1991, 105 Stat. 711.)
 

@@ -1,6 +1,6 @@
 ### §4505. Awards to former employees
 
-An agency may pay or grant an award under this subchapter notwithstanding the death or separation from the service of the employee concerned, if the suggestion, invention, superior accomplishment, other personal effort, or special act or service in the public interest for which the award is proposed was made or performed while the employee was in the employ of the Government.
+An agency may pay or grant an award under this subchapter notwithstanding the death or separation from the service of the employee concerned, if the suggestion, invention, superior accomplishment, other personal effort, or special act or service in the public interest for which the award is proposed was made or performedwhile the employee was in the employ of the Government.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756.)
 
@@ -22,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted “subchapter” for “chapter”.
+<b>1981</b>—Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
 #### Effective Date of 1981 Amendment
 

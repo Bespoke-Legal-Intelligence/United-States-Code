@@ -52,7 +52,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (ii) If in response to a complaint filed under subparagraph (A) the Secretary determines that a violation of paragraph (1) has occurred, the Secretary shall order (I) the person who committed such violation to take affirmative action to abate the violation, (II) such person to reinstate the complainant to his former position together with the compensation (including back pay), terms, conditions, and privileges of his employment, (III) compensatory damages, and (IV) where appropriate, exemplary damages. If such an order is issued, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys’ fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
 
-(3)(A) Any person adversely affected or aggrieved by an order issued under paragraph (2) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
+(3)(A) Any person adversely affected or aggrieved by an order issued under paragraph (2)may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
 
 (B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
@@ -80,7 +80,7 @@ Part C of subchapter II of this chapter, referred to in subsec. (g), is classifi
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

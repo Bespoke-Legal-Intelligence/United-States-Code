@@ -26,7 +26,7 @@ The Foundation shall be subject to the supervision and direction of the Board of
 
 #### (c) Term of office
 
-(1)<sup>2</sup>
+(1) <sup>2</sup>
 
 In general.—The term of office of each member of the Board shall be six years, except that—
 
@@ -58,13 +58,13 @@ The Foundation shall be located in Tucson, Arizona.
 
 &emsp;The Executive Director of the Foundation shall be compensated at the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5.
 
-(Pub. L. 102 259, §5, Mar. 19, 1992, 106 Stat. 79.)
+(Pub. L. 102–259, §5, Mar. 19, 1992, 106 Stat. 79.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5602 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i>So in original. No par. (2) has been enacted.</i>
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -14,7 +14,7 @@ Each local educational agency, to the extent possible, shall use the funds made 
 
 &emsp;(6) providing educational services for adults and families.
 
-(Pub. L. 89 10, title III, §3134, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3646.)
+(Pub. L. 89–10, title III, §3134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3646.)
 
 #### Section Referred to in Other Sections
 

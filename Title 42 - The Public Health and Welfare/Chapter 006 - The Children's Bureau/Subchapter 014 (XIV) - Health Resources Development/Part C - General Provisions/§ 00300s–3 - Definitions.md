@@ -42,7 +42,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 (12) The term “State Agency” means the State health planning and development agency of a State designated under subchapter XIII of this chapter.<sup>3</sup>
 
-(13) The term “urban or rural poverty area” means an urban or rural geographical area (as defined by the Secretary) in which a percentage (as defined by the Secretary in accordance with the next sentence) of the residents of the area have incomes below the poverty level (as defined by the Secretary of Commerce). The percentagereferred to in the preceding sentence shall be defined so that the percentage of the population of the United States residing in urban and rural poverty areas is—
+(13) The term “urban or rural poverty area” means an urban or rural geographical area (as defined by the Secretary) in which a percentage (as defined by the Secretary in accordance with the next sentence) of the residents of the area have incomes below the poverty level (as defined by the Secretary of Commerce). The percentage referred to in the preceding sentence shall be defined so that the percentage of the population of the United States residing in urban and rural poverty areas is—
 
 &emsp;(A) not more than the percentage of the total population of the United States with incomes below the poverty level (as so defined) plus five per centum, and
 

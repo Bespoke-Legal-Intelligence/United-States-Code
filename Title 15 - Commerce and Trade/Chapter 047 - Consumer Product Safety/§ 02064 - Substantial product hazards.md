@@ -52,7 +52,7 @@ If the Commission determines (after affording interested parties, including cons
 
 #### (f) Hearing
 
-An order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designatesuch a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+An order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
 
 #### (g) Preliminary injunction
 
@@ -60,13 +60,13 @@ An order under subsection (c) or (d) of this section may be issued only after an
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
-(3) The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend<sup>1</sup> a preliminary injunction under this subsection.
+(3) The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend <sup>1</sup> a preliminary injunction under this subsection.
 
 #### (h) Cost-benefit analysis of notification or other action not required
 
 Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
-(Pub. L. 92 573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94 284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97 35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97 414, §9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100 418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101 608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117.)
+(Pub. L. 92–573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(3), (m), Jan. 4,1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117.)
 
 #### References in Text
 
@@ -74,37 +74,37 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d),
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101 608, §112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
+1990—Subsec. (b). Pub. L. 101–608, §112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
 
-Subsec. (b)(1). Pub. L. 101 608, §112(a)(1), inserted reference to voluntary consumer product safety standard upon which Commission has relied under section 2058 of this title.
+Subsec. (b)(1). Pub. L. 101–608, §112(a)(1), inserted reference to voluntary consumer product safety standard upon which Commission has relied under section 2058 of this title.
 
-Subsec. (b)(3). Pub. L. 101 608, §112(a)(2), (3), added par. (3).
+Subsec. (b)(3). Pub. L. 101–608, §112(a)(2), (3), added par. (3).
 
-Subsec. (f). Pub. L. 101 608, §113, inserted at end “Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.”
+Subsec. (f). Pub. L. 101–608, §113, inserted at end “Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.”
 
-Subsec. (h). Pub. L. 101 608, §111(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 101–608, §111(a)(2), added subsec. (h).
 
-1988—Subsec. (d). Pub. L. 100 418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
+1988—Subsec. (d). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
 
-1983—Subsec. (g)(1). Pub. L. 97 414 clarified previous inconsistencies in 1982 amendment by substituting “section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97 35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
+1983—Subsec. (g)(1). Pub. L. 97–414 clarified previous inconsistencies in 1982 amendment by substituting “section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97–35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
 
-1981—Subsec. (g)(1). Pub. L. 97 35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) by section 1205(a)(2) of Pub. L. 97 35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97 35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97 35 was subsequently amended by Pub. L. 97 414. See 1983 Amendment note above.
+1981—Subsec. (g)(1). Pub. L. 97–35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) by section 1205(a)(2) of Pub. L. 97–35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97–35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97–35 was subsequently amended by Pub. L. 97–414. See 1983 Amendment note above.
 
-1976—Subsec. (d). Pub. L. 94 284, §12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
+1976—Subsec. (d). Pub. L. 94–284, §12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
 
-Subsec. (g). Pub. L. 94 284, §12(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100 418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100 418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Reporting Requirements
 
-Pub. L. 103 267, title I, §102, June 16, 1994, 108 Stat. 726, provided that:
+Pub. L. 103–267, title I, §102, June 16, 1994, 108 Stat. 726, provided that:
 
 “(a)
 
@@ -114,7 +114,7 @@ Reports to Consumer Product Safety Commission.—
 
 Requirement to report.—Each manufacturer, distributor, retailer, and importer of a marble, small ball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—
 
-&emsp;&emsp;“(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball,latex balloon, or other small part contained in such toy or game; and
+&emsp;&emsp;“(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in such toy or game; and
 
 &emsp;&emsp;“(B) as a result of that incident the child died, suffered serious injury, ceased breathing for any length of time, or was treated by a medical professional.
 
@@ -132,7 +132,7 @@ Confidentiality Protections.—The confidentiality protections of section 6(b) o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2055, 2066, 2068, 2071, 2073 of this title; title 42 section 300j 22.
+This section is referred to in sections 2055, 2066, 2068, 2071, 2073 of this title; title 42 section 300j–22.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “extend”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “extend”.</i>
 

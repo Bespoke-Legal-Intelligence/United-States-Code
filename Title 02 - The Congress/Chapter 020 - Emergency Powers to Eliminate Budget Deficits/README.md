@@ -55,7 +55,7 @@
 | (h) | Low-income programs. |
 | (i) | Identification of programs. |
 | (h) | Optional exemption of military personnel. |
-| 906\. | Exceptions, limitations, and special rules. |
+| [906\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000906%20-%20Exceptions%2C%20limitations%2C%20and%20special%20rules.md) | Exceptions, limitations, and special rules. |
 | (a) | Automatic spending increases. |
 | (b) | Effect of orders on guaranteed student loan program. |
 | (c) | Treatment of foster care and adoption assistance programs. |

@@ -58,7 +58,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (3) Eligibility
 
-&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
+&emsp;The program shall benefit employees who qualify under a classification set up by theemployer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
 
 #### (4) Principal shareholders or owners
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (4) Employer
 
-&emsp;An individual who owns the entire interest in an unincorporated trade or business shall betreated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (3).
+&emsp;An individual who owns the entire interest in an unincorporated trade or business shall be treated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (3).
 
 #### (5) Attribution rules
 

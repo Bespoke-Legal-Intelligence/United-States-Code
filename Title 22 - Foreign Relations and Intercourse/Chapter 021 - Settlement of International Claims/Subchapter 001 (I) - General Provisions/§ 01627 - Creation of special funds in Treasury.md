@@ -2,7 +2,7 @@
 
 #### (a) Credits to, and payment from funds
 
-There are created in the Treasury of the United States (1) a special fund to be known as the Yugoslav Claims Fund; and (2) such other special funds as may, in the discretion of the Secretary of the Treasury, be required, each to be a claims fund to be known by the name of the foreign government which has entered into a settlement agreement with the Government of the United States as described in subsection (a) of section 1623 of this title. There shall be covered into the Treasury to the credit of the proper special fund all funds hereinafter specified.All payments authorized under section 1626 of this title shall be disbursed from the proper fund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are permanently appropriated for the making of the payments authorized by section 1626 of this title.
+There are created in the Treasury of the United States (1) a special fund to be known as the Yugoslav Claims Fund; and (2) such other special funds as may, in the discretion of the Secretary of the Treasury, be required, each to be a claims fund to be known by the name of the foreign government which has entered into a settlement agreement with the Government of the United States as described in subsection (a) of section 1623 of this title. There shall be covered into the Treasury to the credit of the proper special fund all funds hereinafter specified. All payments authorized under section 1626 of this title shall be disbursed from the proper fund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are permanently appropriated for the making of the payments authorized by section 1626 of this title.
 
 #### (b) Credits to Yugoslav Claims Fund; credits to other funds
 
@@ -38,7 +38,7 @@ Except as provided in subsection (f) of this section, the Secretary of the Treas
 
 &emsp;(2) Thereafter, payments from time to time on account of the unpaid principal balance of each remaining award which shall bear to such unpaid principal balance the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid principal balance of all such awards; and
 
-&emsp;(3) Thereafter, payments from time to time on account of the unpaid balance of each award of interest which shall bear to such unpaid balance of interest, the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
+&emsp;(3) Thereafter, payments from time to time on account of the unpaid balance of each award of interest which shall bear to such unpaid balance of interest, the same proportion as the total amount available for distributionat the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
 
 #### (f) People's Republic of China; claim payment priorities
 
@@ -68,7 +68,7 @@ Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A)
 
 Chapter 2A of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 500 to 511 of former Title 26, Internal Revenue Code. Sections 500 to 511 were repealed by section 7851(a)(1)(A) of Title 26, Internal Revenue Code.
 
-Chapter 2B of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 600 to 605 of former Title 26, Internal Revenue Code. Sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, §202, 59 Stat. 574, eff. with respect to taxable years ending June 30, 1946.
+Chapter 2B of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections600 to 605 of former Title 26, Internal Revenue Code. Sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, §202, 59 Stat. 574, eff. with respect to taxable years ending June 30, 1946.
 
 Chapter 2D of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 700 to 706 of former Title 26, Internal Revenue Code. Sections 700 to 716 were repealed by section 7851(a)(1)(A) of Title 26, Internal Revenue Code.
 
@@ -86,7 +86,7 @@ Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A
 
 Subsec. (f). Pub. L. 96–445, §1(2), added subsec. (f).
 
-1968—Subsec. (c). Pub. L. 90–421, §1(4), inserted “, prior to July 24, 1968,” after “the sums covered” andsubstituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
+1968—Subsec. (c). Pub. L. 90–421, §1(4), inserted “, prior to July 24, 1968,” after “the sums covered” and substituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
 
 Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 

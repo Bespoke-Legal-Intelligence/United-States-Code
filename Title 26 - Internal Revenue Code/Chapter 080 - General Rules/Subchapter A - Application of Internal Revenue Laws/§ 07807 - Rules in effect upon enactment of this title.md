@@ -12,7 +12,7 @@ Until regulations are promulgated under any provision of this title which depend
 
 #### (2) Elections or other acts
 
-&emsp;If an election or other act under the provisions of the Internal Revenue Code of 1939 would, if this title had not been enacted, be given effect for a period subsequent to the date of enactment of this title, and if corresponding provisions are contained in this title, such election or other act shall be giveneffect under the corresponding provisions of this title.
+&emsp;If an election or other act under the provisions of the Internal Revenue Code of 1939 would, if this title had not been enacted, be given effect for a period subsequent to the date of enactment of this title, and if corresponding provisions are contained in this title, such election or other act shall be given effect under the corresponding provisions of this title.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 917.)
 

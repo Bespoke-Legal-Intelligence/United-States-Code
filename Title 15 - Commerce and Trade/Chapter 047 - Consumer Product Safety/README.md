@@ -51,7 +51,7 @@
 | (g) | Effective date of rule or standard; stockpiling of product. |
 | (h) | Amendment or revocation of rule. |
 | (i) | Petition to initiate rulemaking. |
-| [2059\.](%C2%A7%2002059%20-%20Repealed.%20Pub.%20L.%2097%2035%2C%20title%20XII%2C%20%C2%A71210%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md) | Repealed. |
+| [2059\.](%C2%A7%2002059%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XII%2C%20%C2%A71210%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md) | Repealed. |
 | [2060\.](%C2%A7%2002060%20-%20Judicial%20review%20of%20consumer%20product%20safety%20rules.md) | Judicial review of consumer product safety rules. |
 | (a) | Petition by persons adversely affected, consumers, or consumer organizations. |
 | (b) | Additional data, views, or arguments. |
@@ -66,7 +66,7 @@
 | (d) | Jurisdiction and venue; process; subpena. |
 | (e) | Employment of attorneys by Commission. |
 | (g) | Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required. |
-| [2062\.](%C2%A7%2002062%20-%20Repealed.%20Pub.%20L.%2097%2035%2C%20title%20XII%2C%20%C2%A71211%28b%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md) | Repealed. |
+| [2062\.](%C2%A7%2002062%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XII%2C%20%C2%A71211%28b%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md) | Repealed. |
 | [2063\.](%C2%A7%2002063%20-%20Product%20certification%20and%20labeling.md) | Product certification and labeling. |
 | (a) | Certification accompanying product; products with more than one manufacturer. |
 | (b) | Rules to establish reasonable testing programs. |
@@ -182,7 +182,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2055, 2219, 6004 of this title; title 42 section 300j 22.
+This chapter is referred to in sections 2055, 2219, 6004 of this title; title 42 section 300j–22.
 
 
 ---
@@ -199,10 +199,10 @@ This chapter is referred to in sections 2055, 2219, 6004 of this title; title 42
 - [&sect; 02057a - Banning of butyl nitrite](%C2%A7%2002057a%20-%20Banning%20of%20butyl%20nitrite.md)
 - [&sect; 02057b - Banning of isopropal nitrite and other nitrites](%C2%A7%2002057b%20-%20Banning%20of%20isopropal%20nitrite%20and%20other%20nitrites.md)
 - [&sect; 02058 - Procedure for consumer product safety rules](%C2%A7%2002058%20-%20Procedure%20for%20consumer%20product%20safety%20rules.md)
-- [&sect; 02059 - Repealed. Pub. L. 97 35, title XII, &sect;1210, Aug. 13, 1981, 95 Stat. 721](%C2%A7%2002059%20-%20Repealed.%20Pub.%20L.%2097%2035%2C%20title%20XII%2C%20%C2%A71210%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md)
+- [&sect; 02059 - Repealed. Pub. L. 97&#8211;35, title XII, &sect;1210, Aug. 13, 1981, 95 Stat. 721](%C2%A7%2002059%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XII%2C%20%C2%A71210%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md)
 - [&sect; 02060 - Judicial review of consumer product safety rules](%C2%A7%2002060%20-%20Judicial%20review%20of%20consumer%20product%20safety%20rules.md)
 - [&sect; 02061 - Imminent hazards](%C2%A7%2002061%20-%20Imminent%20hazards.md)
-- [&sect; 02062 - Repealed. Pub. L. 97 35, title XII, &sect;1211(b), Aug. 13, 1981, 95 Stat. 721](%C2%A7%2002062%20-%20Repealed.%20Pub.%20L.%2097%2035%2C%20title%20XII%2C%20%C2%A71211%28b%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md)
+- [&sect; 02062 - Repealed. Pub. L. 97&#8211;35, title XII, &sect;1211(b), Aug. 13, 1981, 95 Stat. 721](%C2%A7%2002062%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XII%2C%20%C2%A71211%28b%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md)
 - [&sect; 02063 - Product certification and labeling](%C2%A7%2002063%20-%20Product%20certification%20and%20labeling.md)
 - [&sect; 02064 - Substantial product hazards](%C2%A7%2002064%20-%20Substantial%20product%20hazards.md)
 - [&sect; 02065 - Inspection and recordkeeping](%C2%A7%2002065%20-%20Inspection%20and%20recordkeeping.md)

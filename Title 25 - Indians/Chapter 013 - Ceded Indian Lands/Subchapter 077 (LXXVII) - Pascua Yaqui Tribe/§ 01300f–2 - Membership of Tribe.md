@@ -8,7 +8,7 @@ For the purposes of section 1300f of this title, membership of the Pascua Yaqui 
 
 &emsp;(C) all those persons of Yaqui blood who are citizens of the United States and who, within three years after October 14, 1994, apply for enrollment in the Pascua Yaqui Tribe pursuant to the membership criteria and procedures provided for in the official governing documents of the Pascua Yaqui Tribe; and
 
-&emsp;(D) direct lineal descendants of such persons, subject to any further qualifications as may be provided by the Tribe in its constitution and bylaws or other governing documents.
+&emsp;(D) direct lineal descendants of such persons, subject to any further qualifications as maybe provided by the Tribe in its constitution and bylaws or other governing documents.
 
 (Pub. L. 95–375, §3, Sept. 18, 1978, 92 Stat. 712; Pub. L. 103–357, §1(b), Oct. 14, 1994, 108 Stat. 3418.)
 

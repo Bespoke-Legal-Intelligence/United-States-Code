@@ -12,7 +12,7 @@ The Director shall, as soon as possible after October 31, 1988, prepare a report
 
 &emsp;(2) the number of such contracts entered into with domestic firms in that fiscal year;
 
-&emsp;(3) the number of contracts entered into with foreign firms where the Foundation alsoreceived a technically acceptable bid from a domestic firm; and
+&emsp;(3) the number of contracts entered into with foreign firms where the Foundation also received a technically acceptable bid from a domestic firm; and
 
 &emsp;(4) any steps the Foundation will take to increase the number of contracts awarded to domestic firms.
 
@@ -34,5 +34,5 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

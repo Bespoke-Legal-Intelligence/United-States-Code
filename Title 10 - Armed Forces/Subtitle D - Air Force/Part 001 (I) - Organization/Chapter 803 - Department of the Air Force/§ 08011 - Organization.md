@@ -1,4 +1,4 @@
-### §8011 . Organization
+### §8011. Organization
 
 The Department of the Air Force is separately organized under the Secretary of the Air Force. It operates under the authority, direction, and control of the Secretary of Defense.
 

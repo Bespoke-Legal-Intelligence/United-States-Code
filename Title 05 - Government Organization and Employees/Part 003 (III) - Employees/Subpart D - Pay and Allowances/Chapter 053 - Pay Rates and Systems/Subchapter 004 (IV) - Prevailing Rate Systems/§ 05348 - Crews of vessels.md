@@ -10,15 +10,15 @@
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted “Commission” for “Company”.
 
-1972—Subsec. (a). Pub. L. 92–392 inserted reference to subsection (c) of this section.
+<b>1972</b>—Subsec. (a). Pub. L. 92–392 inserted reference to subsection (c) of this section.
 
 Subsec. (c). Pub. L. 92–392 added subsec. (c).
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1972 Amendment
 

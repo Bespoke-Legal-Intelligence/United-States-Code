@@ -44,13 +44,15 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;&emsp;(iii) to promote enforcement of the requirements related to the licensing of commercial motor vehicle drivers, including checking the status of commercial drivers’ licenses; and
 
-&emsp;&emsp;(iv) to improve enforcement of hazardous material transportation regulations by encouraging more inspections of shipper facilities affecting highway transportation and more comprehensive inspection of the loads of commercial motor vehicles transporting hazardous material; and
+&emsp;&emsp;(iv) to improve enforcement of hazardous material transportation regulations by encouraging more inspections of shipper facilities affecting highway transportation and more comprehensive inspection of the loads of commercial motor vehicles transporting hazardous material;
 
 &emsp;(P) provides satisfactory assurances that the State will promote effective—
 
 &emsp;&emsp;(i) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
 
-&emsp;&emsp;(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety.
+&emsp;&emsp;(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety; and
+
+&emsp;(Q) ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31140 and 31146, or regulations issued thereunder.
 
 (2) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
 
@@ -74,7 +76,7 @@ Use of Grants to Enforce Other Laws.—A State may use amounts received under a 
 
 Continuous Evaluation of Plans.—On the basis of reports submitted by a State motor vehicle safety agency of a State with a plan approved under this section and the Secretary's own investigations, the Secretary shall make a continuing evaluation of the way the State is carrying out the plan. If the Secretary finds, after notice and opportunity for comment, the State plan previously approved is not being followed or has become inadequate to ensure enforcement of the regulations, standards, or orders, the Secretary shall withdraw approval of the plan and notify the State. The plan stops being effective when the notice is received. A State adversely affected by the withdrawal may seek judicial review under chapter 7 of title 5. Notwithstanding the withdrawal, the State may retain jurisdiction in administrative or judicial proceedings begun before the withdrawal if the issues involved are not related directly to the reasons for the withdrawal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918.)
 
 Historical and Revision Notes
 
@@ -117,6 +119,14 @@ In subsection (b)(3)(B), the words “Government financing” are substituted fo
 In subsection (c), before clause (1), the words “type of” are omitted as unnecessary. In clause (1), the word “leave” is substituted for “exit” for clarity and consistency in the revised title.
 
 In subsection (d), the words “the regulations, standards, or orders” are substituted for “Federal rules, regulations, standards, or orders applicable to commercial motor vehicle safety or compatible State rules, regulations, standards, or orders” for consistency and to eliminate unnecessary words. The last sentence is substituted for 49 App.:2302(c) (last sentence) for clarity.
+
+#### Amendments
+
+1995—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Section Referred to in Other Sections
 

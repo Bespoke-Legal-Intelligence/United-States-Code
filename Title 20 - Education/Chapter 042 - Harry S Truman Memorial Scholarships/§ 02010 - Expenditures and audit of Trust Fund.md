@@ -8,5 +8,5 @@ The Secretary is authorized to pay to the Foundation from the interest and earni
 
 The activities of the Foundation under this chapter may be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation, pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 93 642, §11, Jan. 4, 1975, 88 Stat. 2279.)
+(Pub. L. 93–642, §11, Jan. 4, 1975, 88 Stat. 2279.)
 

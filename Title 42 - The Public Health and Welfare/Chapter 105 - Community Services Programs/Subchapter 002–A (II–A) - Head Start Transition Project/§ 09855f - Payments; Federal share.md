@@ -22,7 +22,7 @@ The Secretary shall make a grant to each Head Start agency or local educational 
 
 #### (2) Satisfaction of requirement
 
-&emsp;The supplementation requirement of this subsection shall be satisfied with respect to a particular program if the aggregate expenditure in the program for the fiscal year in which services are to be provided will not be less than the aggregate expenditure in the program in the previous year, excluding Federal and non-Federal funds provided under this subchapter.
+&emsp;The supplementation requirement of this subsection shall be satisfied with respect to aparticular program if the aggregate expenditure in the program for the fiscal year in which services are to be provided will not be less than the aggregate expenditure in the program in the previous year, excluding Federal and non-Federal funds provided under this subchapter.
 
 (Pub. L. 101–501, title I, §138, Nov. 3, 1990, 104 Stat. 1242.)
 

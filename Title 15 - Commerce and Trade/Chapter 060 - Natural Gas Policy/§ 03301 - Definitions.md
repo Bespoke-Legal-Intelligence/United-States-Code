@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 #### (B) Marker well
 
-&emsp;&emsp;The term “completion location”, when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
+&emsp;&emsp;The term “completion location”, when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well incommercial quantities after January 1, 1970, and before April 20, 1977.
 
 #### (8) Proration unit
 
@@ -82,7 +82,7 @@ For purposes of this chapter—
 
 #### (14) Successor to an existing contract
 
-&emsp;The term “successor to an existing contract” means any contract, other than a rollover contract, entered into on or after November 9, 1978, for the first sale of natural gas which was previously subject to an existing contract, whether or not there is an identityof parties or terms with those of such existing contract.
+&emsp;The term “successor to an existing contract” means any contract, other than a rollover contract, entered into on or after November 9, 1978, for the first sale of natural gas which was previously subject to an existing contract, whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (15) Interstate pipeline
 
@@ -158,7 +158,7 @@ For purposes of this chapter—
 
 #### (22) Deliver
 
-&emsp;The term “deliver”, when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company,or any user of such natural gas, such term means the transfer of title to such reserves.
+&emsp;The term “deliver”, when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
 
 #### (23) Certificate
 
@@ -214,23 +214,23 @@ For purposes of this chapter—
 
 #### (36) Prudhoe Bay Unit of Alaska
 
-&emsp;The term “Prudhoe Bay Unit of Alaska” means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977, and referred to as the “affected area” in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
+&emsp;The term “Prudhoe Bay Unit of Alaska” means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977, and referred to as the “affected area” in Conservation Order No. 145 of the Alaska Oil andGas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
 
 #### (37) Antitrust laws
 
-&emsp;The term “Federal antitrust laws” means the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12, 13, 14 19, 20, 21, 22 27), the Federal Trade Commission Act (15 U.S.C. 41 et seq.), sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 9), and the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
+&emsp;The term “Federal antitrust laws” means the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), the Federal Trade Commission Act (15 U.S.C. 41 et seq.), sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8–9), and the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
 
-(Pub. L. 95 621, §2, Nov. 9, 1978, 92 Stat. 3352.)
+(Pub. L. 95–621, §2, Nov. 9, 1978, 92 Stat. 3352.)
 
 #### References in Text
 
 The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is Pub. L. 95 2, §6, Feb. 2, 1977, 91 Stat. 7, which was formerly set out in a note under section 717 of this title.
+Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is Pub. L. 95–2, §6, Feb. 2, 1977, 91 Stat. 7, which was formerly set out in a note under section 717 of this title.
 
 The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
-The Clayton Act (15 U.S.C. 12, 13, 14 19, 20, 21, 22 27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
@@ -238,11 +238,11 @@ Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101 60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act \[amending sections 3331, 3372, 3373, 3375, 3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
+Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act \[amending sections 3331, 3372, 3373, 3375, 3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95 621 provided that: “This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the ‘Natural Gas Policy Act of 1978’.”
+Section 1 of Pub. L. 95–621 provided that: “This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the ‘Natural Gas Policy Act of 1978’.”
 
 #### Section Referred to in Other Sections
 

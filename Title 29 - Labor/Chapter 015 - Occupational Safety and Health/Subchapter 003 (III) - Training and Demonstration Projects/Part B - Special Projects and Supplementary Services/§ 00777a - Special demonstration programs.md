@@ -42,17 +42,7 @@ Subject to the provisions of section 776 of this title, the Commissioner may mak
 
 (B) Not less than one such grant shall be nationwide in scope. Each eligible applicant must have experience in training and provision of supported employment services.
 
-(3)(A) On June 1 of each year, the Commissioner shall submit a report to the Congress on activities assisted under paragraph (1) for the preceding fiscal year which includes—
-
-&emsp;(i) a list of the grants awarded under this subsection;
-
-&emsp;(ii) the number of individuals with severe disabilities served by each grant recipient, the average cost to provide support services to each such individual, and the average wage paid to each such individual; and
-
-&emsp;(iii) the recommendations of the projects under paragraph (1)(B).
-
-(B) Each such report shall also include activities assisted under paragraph (2) for the preceding fiscal year, including (i) a list of the grants awarded under paragraph (2), (ii) the nature of technical assistance activities undertaken, and (iii) recommended areas where additional technical assistance is necessary.
-
-(4) There are authorized to be appropriated to carry out the provisions of this subsection such sums as may be necessary for each of fiscal years 1993 through 1997.
+(3) There are authorized to be appropriated to carry out the provisions of this subsection such sums as may be necessary for each of fiscal years 1993 through 1997.
 
 #### (d) Transitional planning services for youth who are individuals with severe disabilities; collection and dissemination of data; grants; existing program in New England; applications; authorization of appropriations
 
@@ -74,19 +64,31 @@ Subject to the provisions of section 776 of this title, the Commissioner may mak
 
 (1) The Commissioner may make grants to public or private institutions to pay for the cost of developing special projects and demonstration projects to address the general education, counseling, vocational training, work transition, supported employment, job placement, followup, and community outreach needs of individuals who are either low-functioning and deaf or low-functioning and hard-of-hearing. Such projects shall provide educational and vocational rehabilitation services that are not otherwise available in the region involved and shall maximize the potential of such individuals, including individuals who are deaf and have additional severe disabilities.
 
-(2) The Commissioner shall monitor the activities of the recipients of grants under this subsection to ensure that the recipients carry out the projects in accordance with paragraph (1), that the recipients coordinate the projects as described in paragraph (3), and that information about innovative methods of service delivery developed by such projects is disseminated.
+(2) The Commissioner shall monitor the activities of the recipients of grants under this subsection to ensure that the recipients carry out the projects in accordance with paragraph (1),that the recipients coordinate the projects as described in paragraph (3), and that information about innovative methods of service delivery developed by such projects is disseminated.
 
 (3) The Commissioner shall prepare and submit an annual report to Congress that includes an assessment of the manner in which the recipients carrying out the projects coordinate the projects with projects carried out by other public or nonprofit agencies serving individuals who are deaf, to expand or improve services for such individuals.
 
 #### (f) Construction of authority; appropriation of excess funds
 
-(1) Consistent with paragraph (2), and consistent with the general authority set forth in thissection to fund special demonstration programs, projects, and activities, nothing in this chapter shall be construed to prohibit the Commissioner from exercising authority under this subchapter, or making available funds appropriated to carry out this subchapter, to fund programs, projects, and activities described in section 797a of this title.
+(1) Consistent with paragraph (2), and consistent with the general authority set forth in this section to fund special demonstration programs, projects, and activities, nothing in this chapter shall be construed to prohibit the Commissioner from exercising authority under this subchapter, or making available funds appropriated to carry out this subchapter, to fund programs, projects, and activities described in section 797a of this title.
 
 (2) If the amount of funds appropriated for a fiscal year to carry out this section exceeds the amount of funds appropriated for the preceding fiscal year to carry out this section, adjusted by the percent by which the average of the estimated gross domestic product fixed-weight price index for that fiscal year differs from that estimated index for the preceding fiscal year, the amount of the excess shall be treated as if the excess were appropriated under subchapter VIII of this chapter.
 
-(Pub. L. 93–112, title III, §311, as added Pub. L. 95–602, title I, §116(2), Nov. 6, 1978, 92 Stat. 2973; amended Pub. L. 98–221, title I, §136, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, §103(d)(2)(C), title III, §302(b), title IV, §406, Oct. 21, 1986, 100 Stat. 1810, 1821, 1826; Pub. L. 100–630, title II, §204(g), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, §4(e)(2), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §102(p)(21), title III, §308, Oct. 29, 1992, 106 Stat. 4359, 4418; Pub. L. 103–73, title I, §110(c), Aug. 11, 1993, 107 Stat. 726.)
+(Pub. L. 93–112, title III, §311, as added Pub. L. 95–602, title I, §116(2), Nov. 6, 1978, 92 Stat. 2973; amended Pub. L. 98–221, title I, §136, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, §103(d)(2)(C), title III, §302(b), title IV, §406, Oct. 21, 1986, 100 Stat. 1810, 1821, 1826; Pub. L. 100–630, title II, §204(g), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, §4(e)(2), June 6, 1991, 105 Stat. 261; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §102(p)(21), title III, §308, Oct. 29, 1992, 106 Stat. 4359, 4418; Pub. L. 103–73, title I, §110(c), Aug. 11, 1993, 107 Stat. 726; Pub. L. 104–66, title I, §1041(b), Dec. 21, 1995, 109 Stat. 714.)
 
 #### Amendments
+
+1995—Subsec. (c)(3), (4). Pub. L. 104–66 redesignated par. (4) as (3) and struck out former par. (3) which read as follows:
+
+“(3)(A) On June 1 of each year, the Commissioner shall submit a report to the Congress on activities assisted under paragraph (1) for the preceding fiscal year which includes—
+
+&emsp;“(i) a list of the grants awarded under this subsection;
+
+&emsp;“(ii) the number of individuals with severe disabilities served by each grant recipient, the average cost to provide support services to each such individual, and the average wage paid to each such individual; and
+
+&emsp;“(iii) the recommendations of the projects under paragraph (1)(B).
+
+“(B) Each such report shall also include activities assisted under paragraph (2) for the preceding fiscal year, including (i) a list of the grants awarded under paragraph (2), (ii) the nature of technical assistance activities undertaken, and (iii) recommended areas where additional technical assistance is necessary.”
 
 1993—Subsec. (a)(1). Pub. L. 103–73, §110(c)(1), substituted semicolon for comma at end.
 
@@ -120,7 +122,7 @@ Pub. L. 102–569, §102(p)(21)(C), substituted “disabilities” for “handic
 
 Subsec. (e). Pub. L. 102–569, §308(e), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 102–569, §102(p)(21)(D)(ii), substituted “youths who are individuals with severe disabilities and other youths with disabilities” for “youths with severe handicaps and youths with mild handicaps” in par. (4)(B).
+Pub. L. 102–569, §102(p)(21)(D)(ii), substituted “youths who are individuals with severe disabilities and otheryouths with disabilities” for “youths with severe handicaps and youths with mild handicaps” in par. (4)(B).
 
 Pub. L. 102–569, §102(p)(21)(D)(i), substituted “who are individuals with severe disabilities” for “with severe handicaps” in par. (1).
 

@@ -5,8 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 04361 - Plan for research, development, and demonstration](%C2%A7%2004361%20-%20Plan%20for%20research%2C%20development%2C%20and%20demonstration.md)
-- [&sect; 04361a - Budget projections in annual revisions of plan for research, development, and demonstration](%C2%A7%2004361a%20-%20Budget%20projections%20in%20annual%20revisions%20of%20plan%20for%20research%2C%20development%2C%20and%20demonstration.md)
+- [&sect; 04361, 4361a - Repealed. Pub. L. 104&#8211;66, title II, &sect;2021(k)(1), (2), Dec. 21, 1995, 109 Stat. 728](%C2%A7%2004361%2C%204361a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72021%28k%29%281%29%2C%20%282%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20728.md)
 - [&sect; 04361b - Implementation by Administrator of Environmental Protection Agency of recommendations of &#8220;CHESS&#8221; Investigative Report; waiver&#8230;](%C2%A7%2004361b%20-%20Implementation%20by%20Administrator%20of%20Environmental%20Protection%20Agency%20of%20recommendations%20of%20%E2%80%9CCHESS%E2%80%9D%20Investigative%20Report%3B%20waiver%E2%80%A6.md)
 - [&sect; 04361c - Staff management](%C2%A7%2004361c%20-%20Staff%20management.md)
 - [&sect; 04362 - Interagency cooperation on prevention of environmental cancer and heart and lung disease](%C2%A7%2004362%20-%20Interagency%20cooperation%20on%20prevention%20of%20environmental%20cancer%20and%20heart%20and%20lung%20disease.md)

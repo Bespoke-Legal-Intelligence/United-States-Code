@@ -22,7 +22,7 @@ Act of June 17, 1902, referred to in par. (b), is popularly known as the Reclama
 
 #### Amendments
 
-1975—Subsec. (d). Pub. L. 94–181, §1(a), substituted provisions limiting the estimated cost of the project described in cls. (i), (ii), (iii), (iv), and (v) to the maximum allowable estimated total project cost as determined by subsection (f) of this section, for provisions limiting the estimated cost of such projects to $15,000,000, and inserted proviso relating to a project described in cl. (i), (ii), or (iii).
+1975—Subsec. (d). Pub. L. 94–181, §1(a), substituted provisions limiting the estimated cost of the projectdescribed in cls. (i), (ii), (iii), (iv), and (v) to the maximum allowable estimated total project cost as determined by subsection (f) of this section, for provisions limiting the estimated cost of such projects to $15,000,000, and inserted proviso relating to a project described in cl. (i), (ii), or (iii).
 
 Subsec. (f). Pub. L. 94–181, §1(b), added subsec. (f).
 
@@ -32,7 +32,7 @@ Subsec. (f). Pub. L. 94–181, §1(b), added subsec. (f).
 
 #### Retroactive Effect of 1966 Amendment
 
-Section 2 of Pub. L. 89–553 provided that: “Nothing contained in this Act \[amending this section and sections 422d, 422e, 422h, and 422j of this title\] shall be applicable to or affect in any way the terms on which anyloan or grant has been made prior to the effective date of this Act \[Sept. 2, 1966\].”
+Section 2 of Pub. L. 89–553 provided that: “Nothing contained in this Act \[amending this section and sections 422d, 422e, 422h, and 422j of this title\] shall be applicable to or affect in any way the terms on which any loan or grant has been made prior to the effective date of this Act \[Sept. 2, 1966\].”
 
 #### Section Referred to in Other Sections
 

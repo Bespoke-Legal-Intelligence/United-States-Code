@@ -1,6 +1,6 @@
 ### §7267. Annual report
 
-The Secretary shall, as soon as practicable after the end of each fiscal year, commencing with the first complete fiscal year following October 1, 1977, make a report to the President for submission to the Congress on the activities of the Department during the preceding fiscal year. Such report shall include a statement of the Secretary's goals, priorities, and plans for the Department, together with an assessment of the progress made toward the attainment of those goals, the effective and efficient management of the Department and progress made in coordination of its functions with other departments and agencies of the Federal Government. In addition, such report shall include the information required by section 774 of title 15, section 5877 of this title, and section 5914 of this title, and shall include:
+The Secretary shall, as soon as practicable after the end of each fiscal year, commencing with the first complete fiscal year following October 1, 1977, make a report to the President for submission to the Congress on the activities of the Department during the preceding fiscal year. Such report shall include a statement of the Secretary's goals, priorities, and plans for the Department, together with an assessment of the progress made toward the attainment of those goals, the effective and efficient management of the Department and progress made in coordination of its functions with other departments and agencies of the Federal Government. In addition, such report shall include the information required by section 774 of title 15, section 6325(c) of this title, section 10224(c) of this title, section 5877 of this title, and section 5914 of this title, and shall include:
 
 &emsp;(1) projected energy needs of the United States to meet the requirements of the general welfare of the people of the United States and the commercial and industrial life of the Nation, including a comprehensive summary of data pertaining to all fuel and energy needs of residents of the United States residing in—
 
@@ -22,7 +22,11 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 &emsp;(8) to the extent practicable, a summary of activities in the United States by companies or persons which are foreign owned or controlled and which own or control United States energy sources and supplies, including the magnitude of annual foreign direct investment in the energy sector in the United States and exports of energy resources from the United States by foreign owned or controlled business entities or persons, and such other related matters as the Secretary may deem appropriate.
 
-(Pub. L. 95–91, title VI, §657, Aug. 4, 1977, 91 Stat. 603.)
+(Pub. L. 95–91, title VI, §657, Aug. 4, 1977, 91 Stat. 603; Pub. L. 104–66, title I, §1052(g), Dec. 21, 1995, 109 Stat. 718.)
+
+#### Amendments
+
+1995—Pub. L. 104–66 inserted “section 6325(c) of this title, section 10224(c) of this title,” after “section 774 of title 15,” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

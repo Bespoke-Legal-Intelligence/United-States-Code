@@ -1,4 +1,4 @@
-### §5905 . Removal from promotion list
+### §5905. Removal from promotion list
 
 (a) The President may remove the name of any reserve officer from a promotion list established under this chapter. Such action may be taken at any time before the promotion of the officer.
 
@@ -60,7 +60,7 @@ Sec. 2. The authority delegated to the Secretary of Defense by this order may be
 
 Sec. 3. With respect to the functions delegated by this order, all prior actions taken for or on behalf of the President that would have been valid if taken pursuant to this order are ratified.
 
-George Bush.&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ The general purpose of the Center is—
 
 (1) The Director of the National Institutes of Health shall establish a board to be known as the Sleep Disorders Research Advisory Board (in this section referred to as the “Advisory Board”).
 
-(2) The Advisory Board shall advise, assist, consult with, and make recommendations to the Director of the National Institutes of Health, through the Director of the Institute, and the Director of the Center concerning matters relating to the scientific activities carried out by and through the Center and the policies respecting such activities, including recommendations withrespect to the plan required in subsection (c) <sup>1</sup> of this section.
+(2) The Advisory Board shall advise, assist, consult with, and make recommendations to the Director of the National Institutes of Health, through the Director of the Institute, and the Director of the Center concerning matters relating to the scientific activities carried out by and through the Center and the policies respecting such activities, including recommendations with respect to the plan required in subsection (c) <sup>1</sup> of this section.
 
 (3)(A) The Director of the National Institutes of Health shall appoint to the Advisory Board 12 appropriately qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, eight shall be representatives of health and scientific disciplines with respect to sleep disorders and four shall be individuals representing the interests of individuals with or undergoing treatment for sleep disorders.
 

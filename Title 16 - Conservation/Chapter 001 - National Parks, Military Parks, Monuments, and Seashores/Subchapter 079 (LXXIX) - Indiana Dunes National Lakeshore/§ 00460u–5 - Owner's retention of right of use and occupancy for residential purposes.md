@@ -1,4 +1,4 @@
-### §460u–5 . Owner's retention of right of use and occupancy for residential purposes
+### §460u–5. Owner's retention of right of use and occupancy for residential purposes
 
 #### (a) Election; conveyance or lease of right; adjustment of compensation; retained rights
 
@@ -12,7 +12,7 @@
 
 > The owner shall elect the term to be reserved.
 
-(B) The retention of rights under subparagraph (A) shall be available only to individuals whoare homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
+(B) The retention of rights under subparagraph (A) shall be available only to individuals who are homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
 
 (3)(A) In the case of improved property included within the boundaries of the lakeshore after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property as of that date may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending at either of the following:
 
@@ -44,7 +44,7 @@ The effective date of this sentence, referred to in subsec. (b), probably refers
 
 #### Prior Provisions
 
-A prior section 5 of Pub. L. 89–761, was classified to section 460u–4 of this title, prior to repeal by Pub. L. 94–549, §1(9), Oct. 18, 1976, 90 Stat. 2533.
+A prior section 5 of Pub. L. 89–761 was classified to section 460u–4 of this title, prior to repeal by Pub. L. 94–549, §1(9).
 
 #### Amendments
 

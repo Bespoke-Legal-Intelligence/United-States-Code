@@ -16,6 +16,18 @@ Act of May 23, 1908, referred to in text, is act May 23, 1908, ch. 192, 35 Stat.
 
 Section is a combination of acts May 23, 1908, as amended, and Mar. 1, 1911, as amended.
 
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+June 28, 1944, ch. 296, 58 Stat. 444.
+
+July 12, 1943, ch. 215, 57 Stat. 412.
+
+July 22, 1942, ch. 516, 56 Stat. 680.
+
+July 1, 1941, ch. 267, 55 Stat. 423.
+
 #### Amendments
 
 1976—Pub. L. 94–588 inserted provision that beginning Oct. 1, 1976, the term “moneys received” would include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract, and that the Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
@@ -29,18 +41,6 @@ Section is a combination of acts May 23, 1908, as amended, and Mar. 1, 1911, as 
 #### Savings Provision
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as affecting the distribution of livestock grazing revenues to local governments under this section, see section 701(j) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
-
-#### Similar Provisions
-
-Provisions similar to this section were contained in the following prior appropriation acts:
-
-June 28, 1944, ch. 296, 58 Stat. 444.
-
-July 12, 1943, ch. 215, 57 Stat. 412.
-
-July 22, 1942, ch. 516, 56 Stat. 680.
-
-July 1, 1941, ch. 267, 55 Stat. 423.
 
 #### Sharing of Forest Service Timber Sale Receipts
 

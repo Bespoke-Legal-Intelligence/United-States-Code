@@ -1,4 +1,4 @@
-### §7395 . Naval Observatory: administration
+### §7395. Naval Observatory: administration
 
 (a) The Naval Observatory shall be attached to the Office of the Chief of Naval Operations.
 

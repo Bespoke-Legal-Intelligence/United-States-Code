@@ -22,7 +22,7 @@
 
 #### (3) Regulations
 
-&emsp;The Secretary shall issue regulations relating to the application of the criteria describedin paragraph (1) in making preliminary findings under subsection (b) of this section and determinations under subsection (c) of this section.
+&emsp;The Secretary shall issue regulations relating to the application of the criteria described in paragraph (1) in making preliminary findings under subsection (b) of this section and determinations under subsection (c) of this section.
 
 #### (b) Preliminary findings and basic assistance
 

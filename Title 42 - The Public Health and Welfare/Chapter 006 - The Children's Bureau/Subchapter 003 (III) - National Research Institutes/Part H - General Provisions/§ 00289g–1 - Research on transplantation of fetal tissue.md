@@ -56,7 +56,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 &emsp;(2) has provided such information to other individuals with responsibilities regarding the research;
 
-&emsp;(3) will require, prior to obtaining the consent of an individual to be a recipient of atransplantation of the tissue, written acknowledgment of receipt of such information by such recipient; and
+&emsp;(3) will require, prior to obtaining the consent of an individual to be a recipient of a transplantation of the tissue, written acknowledgment of receipt of such information by such recipient; and
 
 &emsp;(4) has had no part in any decisions as to the timing, method, or procedures used to terminate the pregnancy made solely for the purposes of the research.
 
@@ -88,7 +88,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 #### (f) Report
 
-The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscal year, including a description of whether and to what extent research under subsection (a) of this section has been conducted in accordance with this section.
+The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscalyear, including a description of whether and to what extent research under subsection (a) of this section has been conducted in accordance with this section.
 
 #### (g) “Human fetal tissue” defined
 
@@ -98,7 +98,7 @@ For purposes of this section, the term “human fetal tissue” means tissue or 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Nullification of Moratorium
 
@@ -140,19 +140,7 @@ Definition.—For purposes of this section, the term ‘human fetal tissue’ ha
 
 #### Report by General Accounting Office on Adequacy of Requirements
 
-Section 114 of Pub. L. 103–43 provided that:
-
-“(a)
-
-In General.—With respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States shall conduct an audit for the purpose of determining—
-
-&emsp;“(1) whether and to what extent such research conducted or supported by the Secretary of Health and Human Services has been conducted in accordance with section 498A of the Public Health Service Act \[this section\] (as added by section 111 of this Act); and
-
-&emsp;“(2) whether and to what extent there have been violations of section 498B of such Act \[section 289g–2 of this title\] (as added by section 112 of this Act).
-
-“(b)
-
-Report.—Not later than May 19, 1995, the Comptroller General of the United States shall complete the audit required in subsection (a) and submit to the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made pursuant to the audit.”
+Section 114 of Pub. L. 103–43 provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,15 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) 18 years of age or older and incapable of self-care because of a mental or physical disability.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19.)
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II, §202(c)(2), Jan. 23, 1995, 109 Stat. 9.)
+
+#### Amendment of Paragraph (1)(A)
+
+<i>Pub. L. 104–1, title II, §202(c)(2), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, paragraph (1)(A) of this section is amended by striking “and” after “District of Columbia” and inserting before the semicolon the following: “, and any employee of the General Accounting Office or the Library of Congress”.</i>
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2.
 
 #### Effective Date
 
@@ -38,5 +46,5 @@ Subchapter effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 12631.
+This section is referred to in title 2 section 1371; title 42 section 12631.
 

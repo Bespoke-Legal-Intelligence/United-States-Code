@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Under such regulations and at such prices as the Secretary of the Navy may prescribe, the Secretary may provide for the sale of goods and services from ships’ stores to members of the naval service and to such other persons as provided by law.
+In General.—Under such regulations and at such prices as the Secretary of the Navy mayprescribe, the Secretary may provide for the sale of goods and services from ships’ stores to members of the naval service and to such other persons as provided by law.
 
 (b)
 

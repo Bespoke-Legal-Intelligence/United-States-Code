@@ -1,4 +1,4 @@
-### §3081 . Dental Corps: Chief, functions
+### §3081. Dental Corps: Chief, functions
 
 (a) The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in section 3039 of this title.
 

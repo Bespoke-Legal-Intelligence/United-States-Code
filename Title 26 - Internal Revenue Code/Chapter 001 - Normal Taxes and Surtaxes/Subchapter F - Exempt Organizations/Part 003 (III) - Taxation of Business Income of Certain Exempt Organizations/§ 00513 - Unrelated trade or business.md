@@ -158,9 +158,9 @@ In the case of a mutual or cooperative telephone or electric company, the term �
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 172; July 14, 1960, Pub. L. 86–667, §4, 74 Stat. 536; Dec. 30, 1969, Pub. L. 91–172, title I, §121(b)(4), (c), 83 Stat. 541, 542; Oct. 4, 1976, Pub. L. 94–455, title XIII, §§1305(a), 1311(a), 90 Stat. 1716, 1729; Oct. 21, 1978, Pub. L. 95–502, title III, §301(a), 92 Stat. 1702; Dec. 28, 1980, Pub. L. 96–605, title I, §106(b), 94 Stat. 3524; Oct. 22, 1986, Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), 100 Stat. 2766, 2767; Nov. 5, 1990, Pub. L. 101–508, title XI, §11101(d)(1)(G), 104 Stat. 1388–405; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13201(b)(3)(H), 107 Stat. 459.)
 
-#### Adjustment of Low Cost Article Limitation for Tax Years Beginning in 1995
+#### Adjustment of Low Cost Article Limitation for Tax Years Beginning in 1996
 
-<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for tax years beginning in 1995, see section 3.09 of Revenue Procedure 94–72, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for tax years beginning in 1996, see section 3.09 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

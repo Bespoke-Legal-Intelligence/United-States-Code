@@ -8,5 +8,5 @@ Funds provided to local educational agencies under this subpart may be used, whe
 
 &emsp;(3) programs to meet the unique education needs of youth at risk of dropping out of school, which may include vocational education, special education, career counseling, and assistance in securing student loans or grants.
 
-(Pub. L. 89 10, title I, §1424, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3599.)
+(Pub. L. 89–10, title I, §1424, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3599.)
 

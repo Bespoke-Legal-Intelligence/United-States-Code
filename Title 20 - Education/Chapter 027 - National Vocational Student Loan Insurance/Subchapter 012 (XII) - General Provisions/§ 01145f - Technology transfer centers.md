@@ -48,7 +48,7 @@ In establishing such centers, the institutions applying shall show in their appl
 
 #### (f) Board; establishment, functions, and membership
 
-Each such center shall establish a Board<sup>1</sup> to advise the center on policy. Such board shall be—
+Each such center shall establish a Board <sup>1</sup> to advise the center on policy. Such board shall be—
 
 &emsp;(1) representative of the States involved in the region; and
 
@@ -70,19 +70,19 @@ Funding for affiliate centers authorized in subsection (c) of this section shall
 
 (2) The Secretary shall publish the final list of regions and priorities along with the public's comments. In establishing such regions, the Secretary may designate a State or a portion of a State as a region.
 
-(Pub. L. 89 329, title XII, §1212, formerly §1211, as added Pub. L. 100 418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103 208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485.)
+(Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485.)
 
 #### References in Text
 
-The Training Technology Transfer Act of 1988, referred to in subsec. (a)(1)(B), is chapter 1 of subtitle B of title VI of Pub. L. 100 418, Aug. 23, 1988, 102 Stat. 1500, which was classified generally to part A (§5091 et seq.) of subchapter II of chapter 62 of this title, prior to repeal by Pub. L. 103 382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023. For complete classification of this Act to the Code, see Tables. For provisions relating to technology for education, see section 6801 et seq. of this title.
+The Training Technology Transfer Act of 1988, referred to in subsec. (a)(1)(B), is chapter 1 of subtitle B of title VI of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1500, which was classified generally to part A (§5091 et seq.) of subchapter II of chapter 62 of this title, prior to repeal by Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023. For complete classification of this Act to the Code, see Tables. For provisions relating to technology for education, see section 6801 et seq. of this title.
 
 #### Amendments
 
-1993—Subsec. (e)(2). Pub. L. 103 208, §2(j)(56), inserted closing quotation marks after first reference to “facilities”.
+1993—Subsec. (e)(2). Pub. L. 103–208, §2(j)(56), inserted closing quotation marks after first reference to “facilities”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

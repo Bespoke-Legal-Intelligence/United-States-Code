@@ -8,7 +8,7 @@ Except as otherwise provided by this section and section 1693h of this title, an
 
 &emsp;(2)(A) in the case of an individual action, an amount not less than $100 nor greater than $1,000; or
 
-&emsp;(B) in the case of a class action, such amount as the court may allow, except that (i) as to each member of the class no minimum recovery shall be applicable, and (ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same person shall not be more than the lesser of $500,000 or 1 per centum of the net worth of the defendant; and
+&emsp;(B) in the case of a class action, such amount as the court may allow, except that (i)as to each member of the class no minimum recovery shall be applicable, and (ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same person shall not be more than the lesser of $500,000 or 1 per centum of the net worth of the defendant; and
 
 &emsp;(3) in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney's fee as determined by the court.
 
@@ -36,7 +36,7 @@ No provision of this section or section 1693n of this title imposing any liabili
 
 #### (e) Notification to consumer prior to action; adjustment of consumer's account
 
-A person has no liability under this section for any failure to comply with any requirement under this subchapter if, prior to the institutionof an action under this section, the person notifies the consumer concerned of the failure, complies with the requirements of this subchapter, and makes an appropriate adjustment to the consumer's account and pays actual damages or, where applicable, damages in accordance with section 1693h of this title.
+A person has no liability under this section for any failure to comply with any requirement under this subchapter if, prior to the institution of an action under this section, the person notifies the consumer concerned of the failure, complies with the requirements of this subchapter, and makes an appropriate adjustment to the consumer's account and pays actual damages or, where applicable, damages in accordance with section 1693h of this title.
 
 #### (f) Action in bad faith or for harassment; attorney's fees
 
@@ -46,7 +46,7 @@ On a finding by the court that an unsuccessful action under this section was bro
 
 Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-(Pub. L. 90 321, title IX, §915, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
+(Pub. L. 90–321, title IX, §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Eva H. Clarke, Beatrice Brown Dwyer, and Mary J. O'Donnell, of Arizona;
 
-Ruby Busse Anglim, Lottie Sessions Barrett, Philome Lucy Cavanagh, Stella Austen Clark, Pearl Bonham Clerk, Lillian Koeber Deamer, Harriet Jane Dodson, Alma Simmermacher Dreyer, Stella Neumann Elberson, Ola Belle Emmner, Edna Crumpler Estes, Mirian Mathews Everett, Katherine Driscoll Fallon, Kathleen Vance Hatch, Eva Wilson Hay, Ellen Keefe Heady, Ruth Hemphill, Myrtle Kinsey, Anna Geisler Kirkpatrick, Katherine Brown Lightner, Margaret Dannagger Lovelace, Lillian Catherine McCarthy, Gladys Farmer McCool, Laura Landes Metcalf, Louise Vickery Mowers, Ruth Manahan Neal, Gladys D. Nelson, MadelineO'Leary Peggs, Caroline Peirce, Sara Craddock Sasser, May Gesner Schaefer, Billie Browne Schank, Rita Beauton Schaub, Etienne V. Schier, Louise Williams Sears, Anne Williams Shumway, Florence Kelly Sparrow, Laura V. Waldron, Agnes L. Walker, Gladys Spalding Wheless, Evelyn Lyon Wiberg, and Muriel Andrews Zerangue, all of California;
+Ruby Busse Anglim, Lottie Sessions Barrett, Philome Lucy Cavanagh, Stella Austen Clark, Pearl Bonham Clerk, Lillian Koeber Deamer, Harriet Jane Dodson, Alma Simmermacher Dreyer, Stella Neumann Elberson, Ola Belle Emmner, Edna Crumpler Estes, Mirian Mathews Everett, Katherine Driscoll Fallon, Kathleen Vance Hatch, Eva Wilson Hay, Ellen Keefe Heady, Ruth Hemphill, Myrtle Kinsey, Anna Geisler Kirkpatrick, Katherine Brown Lightner, Margaret Dannagger Lovelace, Lillian Catherine McCarthy, Gladys Farmer McCool, Laura Landes Metcalf, Louise Vickery Mowers, Ruth Manahan Neal, Gladys D. Nelson, Madeline O'Leary Peggs, Caroline Peirce, Sara Craddock Sasser, May Gesner Schaefer, Billie Browne Schank, Rita Beauton Schaub, Etienne V. Schier, Louise Williams Sears, Anne Williams Shumway, Florence Kelly Sparrow, Laura V. Waldron, Agnes L. Walker, Gladys Spalding Wheless, Evelyn Lyon Wiberg, and Muriel Andrews Zerangue, all of California;
 
 Gladys Yeager Briggs, and Blanche Marion Curry, of Colorado;
 
@@ -16,7 +16,7 @@ Anna Elizabeth O'Connell, of Georgia;
 
 Alta Sebree Wardwell Donovan, of Idaho;
 
-Elsie Ericksen Biever, Nora Pomeroy Darling, Grace Alma Dunbar, Anne Rourke Durst, Virginia Stoddert Moore Grottee, Nell Weston Halstead, Edna Benton Hann, Cornelia M. Huennekens, Elizabeth Ann McCoy, Mary Louise Minton, Josephine MacFarland Moran, Mable Vander Ploeg Pease, Hester Smith Rasmussen, Agnes Foertsch Rohlfing, Marie Healy Simpson, Evelyn Jackson Skavlan, Constance Strong, and May Gilligan Sutherland, all of Illinois;
+Elsie Ericksen Biever, Nora Pomeroy Darling, Grace Alma Dunbar, Anne Rourke Durst, Virginia Stoddert Moore Grottee, Nell Weston Halstead, Edna Benton Hann, Cornelia M. Huennekens, Elizabeth Ann McCoy, Mary Louise Minton, Josephine MacFarland Moran, Mable Vander Ploeg Pease, Hester Smith Rasmussen,Agnes Foertsch Rohlfing, Marie Healy Simpson, Evelyn Jackson Skavlan, Constance Strong, and May Gilligan Sutherland, all of Illinois;
 
 Donna Zimmer Akin, Bessie Fisher Bogwell, Hortense Lee Goldsmith, Mary Parker Harris, and Minnie Tryon Ryan, all of Indiana;
 

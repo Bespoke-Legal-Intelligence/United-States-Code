@@ -116,7 +116,7 @@ The director of the designated State unit shall annually conduct onsite complian
 
 If the director of the designated State unit proposes to take a significant adverse action against a center for independent living, the center may seek mediation and conciliation to be provided by an individual or individuals who are free of conflicts of interest identified by the chairperson of or other individual designated by the Council. If the issue is not resolved through the mediation and conciliation, the center may appeal the proposed adverse action to the Commissioner for a final decision.
 
-(Pub. L. 93–112, title VII, §723, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat.4458; amended Pub. L. 103–73, title I, §114(j), Aug. 11, 1993, 107 Stat. 731.)
+(Pub. L. 93–112, title VII, §723, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4458; amended Pub. L. 103–73, title I, §114(j), Aug. 11, 1993, 107 Stat. 731.)
 
 #### References in Text
 

@@ -52,7 +52,7 @@ Authorization of Appropriations.—Effective October 1, 1986, there is authorize
 
 “(d)
 
-Transfer of Funds.—Any portion of the sums appropriated to carry out the purposes of this section may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
+Transfer of Funds.—Any portion of the sums appropriated to carry out the purposes of this sectionmay be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
 
 #### Smithsonian Astrophysical Observatory and Smithsonian Tropical Research Institute; Authorization of Construction and Appropriations
 

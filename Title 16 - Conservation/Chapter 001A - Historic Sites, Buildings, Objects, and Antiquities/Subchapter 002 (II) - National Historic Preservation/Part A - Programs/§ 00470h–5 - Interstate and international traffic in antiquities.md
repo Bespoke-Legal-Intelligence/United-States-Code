@@ -6,7 +6,7 @@ In order to help control illegal interstate and international traffic in antiqui
 
 #### (b) Consultation
 
-In conducting the study described in subsection (a) of this section the Secretary shall consult with the Council and other Federal agencies that conduct, cause to be conducted, or permit archaeological surveys or excavations or that have responsibilities for other kinds of antiquities and with State Historic Preservation Officers, archaeological, architectural, historical, conservation, and curatorial organizations, Indian tribes, Native Hawaiian organizations,and other Native American organizations, international organizations and other interested persons.
+In conducting the study described in subsection (a) of this section the Secretary shall consult with the Council and other Federal agencies that conduct, cause to be conducted, or permit archaeological surveys or excavations or that have responsibilities for other kinds of antiquities and with State Historic Preservation Officers, archaeological, architectural, historical, conservation, and curatorial organizations, Indian tribes, Native Hawaiian organizations, and other Native American organizations, international organizations and other interested persons.
 
 #### (c) Report
 
@@ -14,7 +14,7 @@ Not later than 18 months after October 30, 1992, the Secretary shall submit to C
 
 #### (d) Authorization
 
-There are authorized to be appropriated not more than $500,000 for the study described in subsection (a) of this section, such sums to remain available until expended.
+There are authorized to be appropriated not more than $500,000 for the study described insubsection (a) of this section, such sums to remain available until expended.
 
 (Pub. L. 89–665, title I, §113, as added Pub. L. 102–575, title XL, §4015, Oct. 30, 1992, 106 Stat. 4762.)
 

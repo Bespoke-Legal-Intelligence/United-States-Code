@@ -128,5 +128,5 @@ The Outer Continental Shelf Lands Act referred to in subsecs. (c)(1), (3)(A)(ii)
 
 The joint resolution entitled “Joint resolution granting the consent of Congress to an agreement between the States of North Carolina and Virginia establishing their lateral seaward boundary” approved October 27, 1972, referred to in subsec. (c)(2)(A), is Pub. L. 92–588, Oct. 27, 1972, 86 Stat. 1298, which is not classified to the Code.
 
-The Act entitled “An Act granting the consent of Congress to the agreement between the States of NorthCarolina and South Carolina establishing their lateral seaward boundary” approved October 9, 1981, referred to in subsec. (c)(2)(B), is Pub. L. 97–59, Oct. 9, 1981, 95 Stat. 988, which is not classified to the Code.
+The Act entitled “An Act granting the consent of Congress to the agreement between the States of North Carolina and South Carolina establishing their lateral seaward boundary” approved October 9, 1981, referred to in subsec. (c)(2)(B), is Pub. L. 97–59, Oct. 9, 1981, 95 Stat. 988, which is not classified to the Code.
 

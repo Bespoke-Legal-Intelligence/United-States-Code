@@ -12,7 +12,7 @@ The Commission shall prevent any person from violating a rule of the Commission 
 
 Nothing contained in this chapter shall be construed to limit the authority of the Commission under any other provision of law.
 
-(Pub. L. 103 297, §6, Aug. 16, 1994, 108 Stat. 1549.)
+(Pub. L. 103–297, §6, Aug. 16, 1994, 108 Stat. 1549.)
 
 #### References in Text
 

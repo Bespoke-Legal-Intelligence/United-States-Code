@@ -8,5 +8,5 @@ As used in this part—
 
 &emsp;(3) the term “public broadcasting entity” has the same meaning given such term in section 397 of title 47.
 
-(Pub. L. 89 10, title III, §3208, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3661.)
+(Pub. L. 89–10, title III, §3208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3661.)
 

@@ -70,7 +70,7 @@
 
 &emsp;To be eligible to receive a grant or contract under paragraph (1), an applicant shall demonstrate to the Secretary that such applicant has or will have the ability to—
 
-&emsp;&emsp;(A) identify, recruit and select individuals from underrepresented minorities in healthprofessions who have the potential for teaching, administration, or conducting research at a health professions institution;
+&emsp;&emsp;(A) identify, recruit and select individuals from underrepresented minorities in health professions who have the potential for teaching, administration, or conducting research at a health professions institution;
 
 &emsp;&emsp;(B) provide such individuals with the skills necessary to enable them to secure a tenured faculty position at such institution, which may include training with respect to pedagogical skills, program administration, the design and conduct of research, grants writing, and the preparation of articles suitable for publication in peer reviewed journals;
 

@@ -96,7 +96,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(3) an assurance that the assistance to be provided is closely related to the identified needs of the target population;
 
-&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existing assistance or provide assistance not available in the immediate area;
+&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existingassistance or provide assistance not available in the immediate area;
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served; and
 

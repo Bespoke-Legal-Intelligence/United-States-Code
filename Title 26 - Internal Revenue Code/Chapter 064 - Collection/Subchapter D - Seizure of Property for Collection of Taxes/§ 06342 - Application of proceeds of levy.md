@@ -20,7 +20,7 @@ Any money realized by proceedings under this subchapter (whether by seizure, by 
 
 Any surplus proceeds remaining after the application of subsection (a) shall, upon application and satisfactory proof in support thereof, be credited or refunded by the Secretary to the person or persons legally entitled thereto.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 789; Nov. 2, 1966, Pub. L. 89–719, title I, §104(h), 80 Stat. 1137; Oct.4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 789; Nov. 2, 1966, Pub. L. 89–719, title I, §104(h), 80 Stat. 1137; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
 
 #### References in Text
 

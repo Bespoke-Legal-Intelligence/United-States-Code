@@ -16,7 +16,7 @@ The Congress finds and declares—
 
 &emsp;Beginning at a point on the south west corner of the intersection of Fifteenth Street and E Street Northwest;
 
-&emsp;thence proceeding easterly along the southerly side of E Street to the southwest corner of the intersection of Thirteenth Street and Pennsylvania Avenue Northwest;
+&emsp;thence proceeding easterly along the southerly side of E Street to the southwest cornerof the intersection of Thirteenth Street and Pennsylvania Avenue Northwest;
 
 &emsp;thence southeasterly along the southerly side of Pennsylvania Avenue to a point being the southeast corner of the intersection of Pennsylvania Avenue and Third Street Northwest;
 

@@ -1,4 +1,4 @@
-### §1077 . Medical care for dependents: authorized care in facilities of uniformed services
+### §1077. Medical care for dependents: authorized care in facilities of uniformed services
 
 (a) Only the following types of health care may be provided under section 1076 of this title:
 
@@ -78,7 +78,7 @@ In subsection (a), clause (6) is inserted to reflect subsection (b).
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (b)(3) of this section were contained in the following appropriation acts:
+Provisions similar to those in subsec. (b)(3) of this section were contained in the following appropriation acts:
 
 Pub. L. 98–473, title I, §101(h) \[title VIII, §8045\], Oct. 12, 1984, 98 Stat. 1904, 1931.
 
@@ -92,7 +92,7 @@ Pub. L. 96–527, title VII, §763, Dec. 15, 1980, 94 Stat. 3092.
 
 Pub. L. 96–154, title VII, §769, Dec. 21, 1979, 93 Stat. 1163.
 
-A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, which related to distribution of ballots, envelopes, and voting instructions, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Subsec. (a)(13), (14). Pub. L. 98–525, §633(a)(2), redesignated cls. (13) and
 
 Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
-1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause\(14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
+1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
 #### Effective Date of 1984 Amendment
 
@@ -134,7 +134,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Obstetrical Care Facilities
 
-Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, which required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, was repealed by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
 
 #### Section Referred to in Other Sections
 

@@ -48,13 +48,13 @@ Notice and Wait Requirements.—A contract may not be entered into for the lease
 
 (h)
 
-Support Buildings.—A contract for the lease of family housing under this section may include provision for the lease of a child carecenter, civic center building, and similar type buildings constructed for the support of family housing.
+Support Buildings.—A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 
 (Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539.)
 
 #### Prior Provisions
 
-Prior similar provisions were contained in subsec. (g) of section 2828 of this title, which was struck out by Pub. L. 102–190, §2806(b)(1).
+Provisions similar to those in this section were contained in subsec. (g) of section 2828 of this title, prior to repeal by Pub. L. 102–190, §2806(b)(1).
 
 #### Effective Date
 

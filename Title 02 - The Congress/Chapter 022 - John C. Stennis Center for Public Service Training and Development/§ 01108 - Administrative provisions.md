@@ -12,7 +12,7 @@ In order to carry out the provisions of this chapter, the Center may—
 
 &emsp;(4) solicit and receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Center, and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
 
-&emsp;(5) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, includingper diem, as authorized by section 5703 of title 5;
+&emsp;(5) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
 &emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 5 of title 41;
 

@@ -22,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1982—Pub. L. 97–221 substituted “District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks” for “District of Columbia”.
+<b>1982</b>—Pub. L. 97–221 substituted “District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks” for “District of Columbia”.
 
 #### Effective Date of 1982 Amendment
 

@@ -6,18 +6,18 @@
 | 1502, 1503. Omitted. |  |
 | [1503a.](%C2%A7%2001503a%20-%20Under%20Secretary%20of%20Commerce%20for%20Economic%20Affairs.md) | Under Secretary of Commerce for Economic Affairs. |
 | [1503b.](%C2%A7%2001503b%20-%20Under%20Secretary%20of%20Commerce%20for%20Oceans%20and%20Atmosphere%3B%20duties%3B%20appointment%3B%20compensation.md) | Under Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation. |
-| [1504\.](%C2%A7%2001504%20-%20Repealed.%20Pub.%20L.%2097%20195%2C%20%C2%A71%28c%29%281%29%2C%20June%2016%2C%201982%2C%2096%20Stat.%20115.md) | Repealed. |
+| [1504\.](%C2%A7%2001504%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93195%2C%20%C2%A71%28c%29%281%29%2C%20June%2016%2C%201982%2C%2096%20Stat.%20115.md) | Repealed. |
 | [1505\.](%C2%A7%2001505%20-%20Additional%20Assistant%20Secretary%3B%20duties%2C%20rank%20of%20Assistant%20Secretaries.md) | Additional Assistant Secretary; duties, rank of Assistant Secretaries. |
 | [1506\.](%C2%A7%2001506%20-%20Additional%20Assistant%20Secretary%3B%20appointment%3B%20applicability%20of%20section%201505.md) | Additional Assistant Secretary; appointment; applicability of section 1505. |
 | [1507\.](%C2%A7%2001507%20-%20Additional%20Assistant%20Secretary%3B%20appointment%3B%20compensation%3B%20duties.md) | Additional Assistant Secretary; appointment; compensation; duties. |
-| [1507a.](%C2%A7%2001507a%20-%20Repealed.%20Pub.%20L.%2097%2031%2C%20%C2%A712%285%29%2C%20Aug.%206%2C%201981%2C%2095%20Stat.%20154.md) | Repealed. |
+| [1507a.](%C2%A7%2001507a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9331%2C%20%C2%A712%285%29%2C%20Aug.%206%2C%201981%2C%2095%20Stat.%20154.md) | Repealed. |
 | [1507b.](%C2%A7%2001507b%20-%20Assistant%20Secretary%20of%20Commerce%3B%20appointment%3B%20compensation%3B%20duties.md) | Assistant Secretary of Commerce; appointment; compensation; duties. |
 | [1507c.](%C2%A7%2001507c%20-%20Assistant%20Secretary%20of%20Commerce%20for%20Oceans%20and%20Atmosphere%3B%20duties%3B%20appointment%3B%20compensation.md) | Assistant Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation. |
 | [1508\.](%C2%A7%2001508%20-%20General%20Counsel.md) | General Counsel. |
 | [1509\.](%C2%A7%2001509%20-%20Designation%20of%20officer%20to%20sign%20routine%20papers.md) | Designation of officer to sign routine papers. |
 | [1510\.](%C2%A7%2001510%20-%20Clerical%20assistants.md) | Clerical assistants. |
 | [1511\.](%C2%A7%2001511%20-%20Bureaus%20in%20Department.md) | Bureaus in Department. |
-| [1511a.](%C2%A7%2001511a%20-%20Repealed.%20Pub.%20L.%2095%20219%2C%20%C2%A73%28a%29%282%29%2C%20Dec.%2028%2C%201977%2C%2091%20Stat.%201613.md) | Repealed. |
+| [1511a.](%C2%A7%2001511a%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93219%2C%20%C2%A73%28a%29%282%29%2C%20Dec.%2028%2C%201977%2C%2091%20Stat.%201613.md) | Repealed. |
 | [1511b.](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md) | United States fishery trade officers. |
 | (a) | Appointment. |
 | (b) | Assignment. |
@@ -89,18 +89,18 @@
 - [&sect; 01502, 1503 - Omitted](%C2%A7%2001502%2C%201503%20-%20Omitted.md)
 - [&sect; 01503a - Under Secretary of Commerce for Economic Affairs](%C2%A7%2001503a%20-%20Under%20Secretary%20of%20Commerce%20for%20Economic%20Affairs.md)
 - [&sect; 01503b - Under Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation](%C2%A7%2001503b%20-%20Under%20Secretary%20of%20Commerce%20for%20Oceans%20and%20Atmosphere%3B%20duties%3B%20appointment%3B%20compensation.md)
-- [&sect; 01504 - Repealed. Pub. L. 97 195, &sect;1(c)(1), June 16, 1982, 96 Stat. 115](%C2%A7%2001504%20-%20Repealed.%20Pub.%20L.%2097%20195%2C%20%C2%A71%28c%29%281%29%2C%20June%2016%2C%201982%2C%2096%20Stat.%20115.md)
+- [&sect; 01504 - Repealed. Pub. L. 97&#8211;195, &sect;1(c)(1), June 16, 1982, 96 Stat. 115](%C2%A7%2001504%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93195%2C%20%C2%A71%28c%29%281%29%2C%20June%2016%2C%201982%2C%2096%20Stat.%20115.md)
 - [&sect; 01505 - Additional Assistant Secretary; duties, rank of Assistant Secretaries](%C2%A7%2001505%20-%20Additional%20Assistant%20Secretary%3B%20duties%2C%20rank%20of%20Assistant%20Secretaries.md)
 - [&sect; 01506 - Additional Assistant Secretary; appointment; applicability of section 1505](%C2%A7%2001506%20-%20Additional%20Assistant%20Secretary%3B%20appointment%3B%20applicability%20of%20section%201505.md)
 - [&sect; 01507 - Additional Assistant Secretary; appointment; compensation; duties](%C2%A7%2001507%20-%20Additional%20Assistant%20Secretary%3B%20appointment%3B%20compensation%3B%20duties.md)
-- [&sect; 01507a - Repealed. Pub. L. 97 31, &sect;12(5), Aug. 6, 1981, 95 Stat. 154](%C2%A7%2001507a%20-%20Repealed.%20Pub.%20L.%2097%2031%2C%20%C2%A712%285%29%2C%20Aug.%206%2C%201981%2C%2095%20Stat.%20154.md)
+- [&sect; 01507a - Repealed. Pub. L. 97&#8211;31, &sect;12(5), Aug. 6, 1981, 95 Stat. 154](%C2%A7%2001507a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9331%2C%20%C2%A712%285%29%2C%20Aug.%206%2C%201981%2C%2095%20Stat.%20154.md)
 - [&sect; 01507b - Assistant Secretary of Commerce; appointment; compensation; duties](%C2%A7%2001507b%20-%20Assistant%20Secretary%20of%20Commerce%3B%20appointment%3B%20compensation%3B%20duties.md)
 - [&sect; 01507c - Assistant Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation](%C2%A7%2001507c%20-%20Assistant%20Secretary%20of%20Commerce%20for%20Oceans%20and%20Atmosphere%3B%20duties%3B%20appointment%3B%20compensation.md)
 - [&sect; 01508 - General Counsel](%C2%A7%2001508%20-%20General%20Counsel.md)
 - [&sect; 01509 - Designation of officer to sign routine papers](%C2%A7%2001509%20-%20Designation%20of%20officer%20to%20sign%20routine%20papers.md)
 - [&sect; 01510 - Clerical assistants](%C2%A7%2001510%20-%20Clerical%20assistants.md)
 - [&sect; 01511 - Bureaus in Department](%C2%A7%2001511%20-%20Bureaus%20in%20Department.md)
-- [&sect; 01511a - Repealed. Pub. L. 95 219, &sect;3(a)(2), Dec. 28, 1977, 91 Stat. 1613](%C2%A7%2001511a%20-%20Repealed.%20Pub.%20L.%2095%20219%2C%20%C2%A73%28a%29%282%29%2C%20Dec.%2028%2C%201977%2C%2091%20Stat.%201613.md)
+- [&sect; 01511a - Repealed. Pub. L. 95&#8211;219, &sect;3(a)(2), Dec. 28, 1977, 91 Stat. 1613](%C2%A7%2001511a%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93219%2C%20%C2%A73%28a%29%282%29%2C%20Dec.%2028%2C%201977%2C%2091%20Stat.%201613.md)
 - [&sect; 01511b - United States fishery trade officers](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md)
 - [&sect; 01511c - Estuarine Programs Office](%C2%A7%2001511c%20-%20Estuarine%20Programs%20Office.md)
 - [&sect; 01511d - Chesapeake Bay Estuarine Resources Office](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Estuarine%20Resources%20Office.md)
@@ -113,8 +113,8 @@
 - [&sect; 01517 - Transfer of statistical or scientific work](%C2%A7%2001517%20-%20Transfer%20of%20statistical%20or%20scientific%20work.md)
 - [&sect; 01518 - Custody of buildings; officers transferred](%C2%A7%2001518%20-%20Custody%20of%20buildings%3B%20officers%20transferred.md)
 - [&sect; 01519 - Annual and special reports](%C2%A7%2001519%20-%20Annual%20and%20special%20reports.md)
-- [&sect; 01519a - Repealed. Pub. L. 97 449, &sect;7(b), Jan. 12, 1983, 96 Stat. 2443](%C2%A7%2001519a%20-%20Repealed.%20Pub.%20L.%2097%20449%2C%20%C2%A77%28b%29%2C%20Jan.%2012%2C%201983%2C%2096%20Stat.%202443.md)
-- [&sect; 01520 - Repealed. Pub. L. 91 412, &sect;3(d), Sept. 25, 1970, 84 Stat. 864](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%2091%20412%2C%20%C2%A73%28d%29%2C%20Sept.%2025%2C%201970%2C%2084%20Stat.%20864.md)
+- [&sect; 01519a - Repealed. Pub. L. 97&#8211;449, &sect;7(b), Jan. 12, 1983, 96 Stat. 2443](%C2%A7%2001519a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93449%2C%20%C2%A77%28b%29%2C%20Jan.%2012%2C%201983%2C%2096%20Stat.%202443.md)
+- [&sect; 01520 - Repealed. Pub. L. 91&#8211;412, &sect;3(d), Sept. 25, 1970, 84 Stat. 864](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93412%2C%20%C2%A73%28d%29%2C%20Sept.%2025%2C%201970%2C%2084%20Stat.%20864.md)
 - [&sect; 01521 - Working capital fund; establishment; amount; uses; reimbursement](%C2%A7%2001521%20-%20Working%20capital%20fund%3B%20establishment%3B%20amount%3B%20uses%3B%20reimbursement.md)
 - [&sect; 01522 - Acceptance of gifts and bequests for purposes of the Department; separate fund; disbursements](%C2%A7%2001522%20-%20Acceptance%20of%20gifts%20and%20bequests%20for%20purposes%20of%20the%20Department%3B%20separate%20fund%3B%20disbursements.md)
 - [&sect; 01523 - Tax status of gifts and bequests of property](%C2%A7%2001523%20-%20Tax%20status%20of%20gifts%20and%20bequests%20of%20property.md)

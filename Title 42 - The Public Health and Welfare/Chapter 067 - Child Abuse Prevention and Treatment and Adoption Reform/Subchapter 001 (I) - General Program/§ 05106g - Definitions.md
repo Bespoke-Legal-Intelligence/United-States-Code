@@ -32,7 +32,7 @@ For purposes of this subchapter—
 
 &emsp;(9) the term “task force” means the Inter-Agency Task Force on Child Abuse and Neglect established under section 5103 of this title; and
 
-&emsp;(10) the term “withholding of medically indicated treatment” means the failure to respondto the infant's life-threatening conditions by providing treatment (including appropriate nutrition, hydration, and medication) which, in the treating physician's or physicians’ reasonable medical judgment, will be most likely to be effective in ameliorating or correcting all such conditions, except that the term does not include the failure to provide treatment (other than appropriate nutrition, hydration, or medication) to an infant when, in the treating physician's or physicians’ reasonable medical judgment—
+&emsp;(10) the term “withholding of medically indicated treatment” means the failure to respond to the infant's life-threatening conditions by providing treatment (including appropriate nutrition, hydration, and medication) which, in the treating physician's or physicians’ reasonable medical judgment, will be most likely to be effective in ameliorating or correcting all such conditions, except that the term does not include the failure to provide treatment (other than appropriate nutrition, hydration, or medication) to an infant when, in the treating physician's or physicians’ reasonable medical judgment—
 
 &emsp;&emsp;(A) the infant is chronically and irreversibly comatose;
 

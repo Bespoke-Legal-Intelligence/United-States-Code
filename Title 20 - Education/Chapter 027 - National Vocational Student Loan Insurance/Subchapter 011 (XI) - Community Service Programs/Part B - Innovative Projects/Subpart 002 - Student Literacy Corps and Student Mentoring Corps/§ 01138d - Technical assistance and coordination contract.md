@@ -8,7 +8,7 @@ To the extent that funds are available therefor pursuant to section 1139 of this
 
 &emsp;(3) evaluate such programs and issue reports on the results of such evaluations.
 
-(Pub. L. 89 329, title XI, §1145, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 791.)
+(Pub. L. 89–329, title XI, §1145, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 791.)
 
 #### Section Referred to in Other Sections
 

@@ -1,4 +1,4 @@
-### §410<i>oo</i> . Purposes
+### §410<i>oo</i>. Purposes
 
 The purposes of this subchapter are to—
 

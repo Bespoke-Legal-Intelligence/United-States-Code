@@ -44,7 +44,7 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;(F) the Queens Local/Express Connector Program, consisting of the locally preferred alternative for the connection of the 63d Street tunnel extension to the Queens Boulevard lines, the bell-mouth part of the connector that will allow for future access by commuter rail trains and other subway lines to the 63d Street tunnel extension, planning elements for connecting the upper and lower levels to commuter and subway lines in Long Island City, and planning elements for providing a connector for commuter rail transportation to the East side of Manhattan and subway lines to the proposed Second Avenue subway.
 
-&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
+&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan,consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
 
 &emsp;(H) other programs designated by law or the Secretary.
 
@@ -108,7 +108,7 @@ The Department of Transportation and Related Agencies Appropriations Act, 1991, 
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

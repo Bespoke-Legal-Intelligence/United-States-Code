@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) State certifying authority
 
-&emsp;The term “State certifying authority” means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
+&emsp;The term “State certifying authority” means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act.The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
 
 #### (3) Federal certifying authority
 
@@ -84,7 +84,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.</b>
 
-(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I,§104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906.)
+(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906.)
 
 #### References in Text
 

@@ -18,13 +18,13 @@ Each year at the time of submission to the Congress of the President's budget, t
 
 #### (b) Recommendations
 
-The report required by subsection (b)<sup>1</sup> of this section shall include recommendations by the President concerning—
+The report required by subsection (b) <sup>1</sup> of this section shall include recommendations by the President concerning—
 
 &emsp;(1) changes in agency or department roles needed to improve implementation of the Plan; and
 
 &emsp;(2) additional legislation which may be required to achieve the purposes of this subchapter.
 
-(Pub. L. 101 606, title I, §107, Nov. 16, 1990, 104 Stat. 3101.)
+(Pub. L. 101–606, title I, §107, Nov. 16, 1990, 104 Stat. 3101.)
 
-<i><sup>1</sup></i><i>So in original. Probably should be subsection “(a)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)”.</i>
 

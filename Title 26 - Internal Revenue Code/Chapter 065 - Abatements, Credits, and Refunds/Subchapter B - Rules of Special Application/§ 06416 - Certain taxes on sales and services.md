@@ -52,7 +52,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (B) Further manufacture
 
-&emsp;&emsp;Subparagraph (A) shall not apply in the case of an article in respect of which tax was computed under section 4223(b)(2); but if the price for which such article was sold is readjusted by reason of the return or repossession of the article, the part of the tax proportionate to the part of such price repaid orcredited to the purchaser shall be deemed to be an overpayment.
+&emsp;&emsp;Subparagraph (A) shall not apply in the case of an article in respect of which tax was computed under section 4223(b)(2); but if the price for which such article was sold is readjusted by reason of the return or repossession of the article, the part of the tax proportionate to the part of such price repaid or credited to the purchaser shall be deemed to be an overpayment.
 
 #### (C) Adjustment of tire price
 
@@ -132,7 +132,7 @@ Under regulations prescribed by the Secretary the amount of any tax imposed by c
 
 #### (d) Credit on returns
 
-Any person entitled to a refund of tax imposed by chapter 31 or 32, paid to the Secretary may,instead of filing a claim for refund, take credit therefor against taxes imposed by such chapter due on any subsequent return. The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e).
+Any person entitled to a refund of tax imposed by chapter 31 or 32, paid to the Secretary may, instead of filing a claim for refund, take credit therefor against taxes imposed by such chapter due on any subsequent return. The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e).
 
 #### (e) Accounting procedures for like articles
 
@@ -248,7 +248,7 @@ Subsec. (b)(3)(C). Pub. L. 96–222, §108(c)(2)(A), inserted reference to an au
 
 Subsec. (b)(3)(D). Pub. L. 96–598, §1(b)(1), added subpar. (D).
 
-Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted “section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading,” for “section 4071”.
+Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted “section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paidon the tread rubber used in the recapping or retreading,” for “section 4071”.
 
 Subsec. (b)(4)(B). Pub. L. 96–222, §108(c)(2)(B), inserted reference to automobile bus chassis or an automobile bus body.
 
@@ -498,7 +498,7 @@ Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or 
 
 #### Effective Date of 1960 Amendments
 
-Amendment by Pub. L. 86–781 applicable with respect to articles sold on or after first day of first calendar quarter beginning more than twenty days after Sept. 14, 1960, see section 3 of Pub. L. 86–781, set out as a note under section 4216 of this title.
+Amendment by Pub. L. 86–781 applicable with respect to articles sold on or after first day of first calendarquarter beginning more than twenty days after Sept. 14, 1960, see section 3 of Pub. L. 86–781, set out as a note under section 4216 of this title.
 
 Amendment by Pub. L. 86–418 applicable only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after first day of first month which begins more than 10 days after Apr. 8, 1960, see section 4 of Pub. L. 86–418, set out as a note under section 4221 of this title.
 

@@ -152,7 +152,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;&emsp;(ii) transporting passengers other than—
 
-&emsp;&emsp;&emsp;&emsp;(I) transporting (for other than commercial purposes) crewmembers or other persons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
+&emsp;&emsp;&emsp;&emsp;(I) transporting (for other than commercial purposes) crewmembers or otherpersons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
 
 &emsp;&emsp;&emsp;&emsp;(II) transporting (for other than commercial purposes) persons aboard the aircraft if the aircraft is operated by the Armed Forces or an intelligence agency of the United States.
 

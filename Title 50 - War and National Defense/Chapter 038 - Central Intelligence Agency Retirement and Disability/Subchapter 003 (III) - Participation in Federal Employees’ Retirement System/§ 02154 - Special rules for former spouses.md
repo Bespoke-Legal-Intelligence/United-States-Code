@@ -230,7 +230,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 #### (i) Applicability of CIARDS former spouse benefits
 
-(1) Except as provided in paragraph (2), in the case of an employee who has elected to become subject to chapter 84 of title 5, the provisions of sections 2034 and 2035 of this title shall apply to such employee's former spouse (as defined in section 2002(a)(4) of this title) who would otherwise be eligible for benefits under sections 2034and 2035 of this title but for the employee having elected to become subject to such chapter.
+(1) Except as provided in paragraph (2), in the case of an employee who has elected to become subject to chapter 84 of title 5, the provisions of sections 2034 and 2035 of this title shall apply to such employee's former spouse (as defined in section 2002(a)(4) of this title) who would otherwise be eligible for benefits under sections 2034 and 2035 of this title but for the employee having elected to become subject to such chapter.
 
 (2) For the purposes of computing such former spouse's benefits under sections 2034 and 2035 of this title—
 

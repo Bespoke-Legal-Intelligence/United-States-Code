@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) In the case of the disposition of a portion of section 1254 property (other than an undivided interest), the entire amount of the aggregate expenditures or deductions described in paragraph (1)(A) with respect to such property shall be treated as allocable to such portion to the extent of the amount of the gain to which paragraph (1) applies.
 
-&emsp;&emsp;(B) In the case of the disposition of an undivided interest in a section 1254 property (or a portion thereof), a proportionate part of the expenditures or deductions described in paragraph (1)(A) with respect to suchproperty shall be treated as allocable to such undivided interest to the extent of the amount of the gain to which paragraph (1) applies.
+&emsp;&emsp;(B) In the case of the disposition of an undivided interest in a section 1254 property (or a portion thereof), a proportionate part of the expenditures or deductions described in paragraph (1)(A) with respect to such property shall be treated as allocable to such undivided interest to the extent of the amount of the gain to which paragraph (1) applies.
 
 > &emsp;This paragraph shall not apply to any expenditures to the extent the taxpayer establishes to the satisfaction of the Secretary that such expenditures do not relate to the portion (or interest therein) disposed of.
 

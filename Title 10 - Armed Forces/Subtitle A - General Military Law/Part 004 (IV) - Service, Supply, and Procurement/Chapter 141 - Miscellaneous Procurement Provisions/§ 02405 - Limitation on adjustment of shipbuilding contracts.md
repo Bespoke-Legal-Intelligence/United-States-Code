@@ -38,7 +38,7 @@ For the effective date of this paragraph, referred to in subsec. (c)(4), see sec
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in Pub. L. 98–473, title I, §101(h) \[title VIII, §8078\], Oct. 12, 1984, 98 Stat. 1904, 1938, and Pub. L. 98–212, title VII, §787, Dec. 8, 1983, 97 Stat. 1453, which were set out as a note under section 2304 of this title. Section 101(h) \[title VIII, §8078\] of Pub. L. 98–473 was repealed by Pub. L. 100–370, §1(p)(2), July 19, 1988, 102 Stat. 851. Section 787 of Pub. L. 98–212 was repealed by Pub. L. 98–525, §1234(b)(2), eff. Oct. 19, 1984.
+Provisions similar to those in this section were contained in Pub. L. 98–473, title I, §101(h) \[title VIII, §8078\], Oct. 12, 1984, 98 Stat. 1904, 1938, and Pub. L. 98–212, title VII, §787, Dec. 8, 1983, 97 Stat. 1453, which were set out as a note under section 2304 of this title. Section 101(h) \[title VIII, §8078\] of Pub. L. 98–473 was repealed by Pub. L. 100–370, §1(p)(2), July 19, 1988, 102 Stat. 851. Section 787 of Pub. L. 98–212 was repealed by Pub. L. 98–525, §1234(b)(2), eff. Oct. 19, 1984.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 Except as otherwise provided in this section, the total of the liability of a responsible party under section 2702 of this title and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
 
-&emsp;(1) for a tank vessel, the greater of—
+&emsp;(1) for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title) <sup>1</sup> the greater of—
 
 &emsp;&emsp;(A) $1,200 per gross ton; or
 
@@ -72,7 +72,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (C) Rulemaking proceeding
 
-&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>1</sup> subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
+&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>2</sup> subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
 
 #### (3) Periodic reports
 
@@ -82,13 +82,17 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 &emsp;The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491.)
+(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546.)
 
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+
+#### Amendments
+
+1995—Subsec. (a)(1). Pub. L. 104–55 substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” for “for a tank vessel,”.
 
 #### Delegation of Functions
 
@@ -98,5 +102,7 @@ Specific functions of President under subsec. (d) of this section delegated to A
 
 This section is referred to in sections 2702, 2705, 2708, 2712, 2716 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “this” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “this” probably should not appear.</i>
 

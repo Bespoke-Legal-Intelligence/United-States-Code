@@ -102,7 +102,7 @@ In subsection (c), before clause (1), the words “A manufacturer of a motor veh
 
 In subsection (d), the words “any requirement under”, “to give notice with respect to”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
 
-In subsection (e), the words “(including a manufacturer)” are omitted as surplus. The word “information”is substituted for “data” for consistency in the revised title.
+In subsection (e), the words “(including a manufacturer)” are omitted as surplus. The word “information” is substituted for “data” for consistency in the revised title.
 
 #### Section Referred to in Other Sections
 

@@ -62,8 +62,6 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 
 #### Cross References
 
-Administrative Conference of the United States, reports of, see section 594 of Title 5, Government Organization and Employees.
-
 Admiralty suits—
 
 &emsp;&emsp;United States public vessels; damages, towage, or salvage; reports as to settlements, see section 790 of Title 46, Appendix, Shipping.

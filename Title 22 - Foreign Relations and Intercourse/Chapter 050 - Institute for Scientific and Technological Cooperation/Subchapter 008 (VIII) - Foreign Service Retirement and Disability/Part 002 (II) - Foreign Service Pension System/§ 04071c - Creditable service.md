@@ -56,7 +56,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(3), is Pu
 
 #### Amendments
 
-1993—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency RetirementAct (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+1993—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 

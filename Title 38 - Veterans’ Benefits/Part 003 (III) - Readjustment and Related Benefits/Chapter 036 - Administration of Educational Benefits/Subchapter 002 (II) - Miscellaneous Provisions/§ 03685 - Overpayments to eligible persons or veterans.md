@@ -8,11 +8,11 @@
 
 (d) Any overpayment referred to in subsection (a) or (b) of this section may be waived as to a veteran or eligible person as provided in section 5302 of this title. Waiver of any such overpayment as to a veteran or eligible person shall in no way release any educational institution from liability under subsection (b) of this section.
 
-(e)(1) Any amount collected from a veteran or eligible person pursuant to this section shall be reimbursed to the educational institution whichis liable pursuant to subsection (b) of this section to the extent that collection was made from the educational institution.
+(e)(1) Any amount collected from a veteran or eligible person pursuant to this section shall be reimbursed to the educational institution which is liable pursuant to subsection (b) of this section to the extent that collection was made from the educational institution.
 
 (2) Nothing in this section or any other provision of this title shall be construed as (A) precluding the imposition of any civil or criminal liability under this title or any other law, or (B) requiring any institution of higher learning to maintain daily attendance records for any course leading to a standard college degree.
 
-(Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 22, §1785; amended Pub. L. 92–540, title IV, §403(11), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 95–202, title III, §304(a)(2), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, §344, Oct. 17, 1980, 94 Stat. 2199; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3685 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 22, §1785; amended Pub. L. 92–540, title IV, §403(11), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 95–202, title III, §304(a)(2), Nov. 23, 1977, 91 Stat.1442; Pub. L. 96–466, title III, §344, Oct. 17, 1980, 94 Stat. 2199; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3685 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) Funds use prohibition; “election” and “Federal office” defined
 
-No part of any funds appropriated to carry out this chapter, or any program administered by the Corporation under this chapter, shall be used to finance, directly or indirectly, any activity designed to influence the outcome of anyelection to Federal office, or the outcome of any election to any State or local public office, or any voter registration activity, or to pay the salary of any officer or employee of the Corporation, who, in an official capacity as such an officer or employee, engages in any such activity. As used in this section, the term “election” (when referring to an election for Federal office) has the same meaning given such term by section 431(1) of title 2, and the term “Federal office” has the same meaning given such term by section 431(3) of title 2.
+No part of any funds appropriated to carry out this chapter, or any program administered by the Corporation under this chapter, shall be used to finance, directly or indirectly, any activity designed to influence the outcome of any election to Federal office, or the outcome of any election to any State or local public office, or any voter registration activity, or to pay the salary of any officer or employee of the Corporation, who, in an official capacity as such an officer or employee, engages in any such activity. As used in this section, the term “election” (when referring to an election for Federal office) has the same meaning given such term by section 431(1) of title 2, and the term “Federal office” has the same meaning given such term by section 431(3) of title 2.
 
 #### (b) Prohibition on program identification
 

@@ -12,15 +12,7 @@ The President, in consultation with the Director of the Office of Science and Te
 
 &emsp;(4) assess and initiate appropriate international scientific and technological activities which are based upon domestic scientific and technological activities of the United States Government and which are beneficial to the United States and foreign countries.
 
-#### (b) Report to Congress; recommendations
-
-The President shall study and not later than January 31, 1980, and not later than January 31 of each year thereafter, shall transmit to the the <sup>1</sup> Speaker of the House of Representatives and the Committees on Foreign Relations and Governmental Affairs of the Senate a report containing information and recommendations with respect to—
-
-&emsp;(1) personnel requirements, and standards and training for service of officers and employees of the United States Government, with respect to assignments in any Federal agency which involve foreign relations and science or technology;
-
-&emsp;(2) the continuation of existing bilateral and multilateral activities and agreements primarily involving science and technology, including (A) an analysis of the foreign policy implications and the scientific and technological benefits of such activities or agreements for the United States and other parties, (B) the adequacy of the funding for and administration of such activities and agreements, and (C) plans for future evaluation of such activities and agreements on a routine basis; and
-
-&emsp;(3) equity of access by United States public and private entities to public (and publicly supported private) research and development opportunities and facilities in each country which is a major trading partner of the United States.
+#### (b) Repealed. Pub. L. 104–66, title I, §1111(b), Dec. 21, 1995, 109 Stat. 723
 
 #### (c) Disclosure of sensitive information
 
@@ -32,9 +24,11 @@ Except as otherwise provided by law, nothing in this section shall be construed 
 
 (2) In providing such information and recommendations, the President shall utilize information developed by any Federal departments, agencies, or interagency committees as he may consider necessary.
 
-(Pub. L. 95–426, title V, §503, Oct. 7, 1978, 92 Stat. 983; Pub. L. 100–418, title V, §5171(b), (c), Aug. 23, 1988, 102 Stat. 1453.)
+(Pub. L. 95–426, title V, §503, Oct. 7, 1978, 92 Stat. 983; Pub. L. 100–418, title V, §5171(b), (c), Aug. 23, 1988, 102 Stat. 1453; Pub. L. 104–66, title I, §1111(b), Dec. 21, 1995, 109 Stat. 723.)
 
 #### Amendments
+
+1995—Subsec. (b). Pub. L. 104–66 struck out subsec. (b) which related to reports to Congress.
 
 1988—Subsec. (b). Pub. L. 100–418, §5171(b)(1), (2), substituted “the Speaker of the House of Representatives and the Committees on Foreign Relations and Governmental Affairs of the Senate a report containing information and recommendations” for “Congress a report containing recommendations”.
 
@@ -45,6 +39,4 @@ Subsec. (d). Pub. L. 100–418, §5171(c), added subsec. (d).
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2656d, 3503 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

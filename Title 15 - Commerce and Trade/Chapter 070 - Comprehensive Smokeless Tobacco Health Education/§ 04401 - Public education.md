@@ -12,7 +12,7 @@
 
 &emsp;(D) collect, analyze, and disseminate information and studies on smokeless tobacco and health.
 
-(2) In developing programs, materials, and announcements under paragraph (1) the Secretary shall consult with the Secretary of Education,medical and public health entities, consumer groups, representatives of manufacturers of smokeless tobacco products, and other appropriate entities.
+(2) In developing programs, materials, and announcements under paragraph (1) the Secretary shall consult with the Secretary of Education, medical and public health entities, consumer groups, representatives of manufacturers of smokeless tobacco products, and other appropriate entities.
 
 #### (b) Assistance
 
@@ -24,11 +24,11 @@ The Secretary of Health and Human Services may provide technical assistance and 
 
 &emsp;(3) to establish 18 as the minimum age for the purchase of smokeless tobacco.
 
-(Pub. L. 99 252, §2, Feb. 27, 1986, 100 Stat. 30.)
+(Pub. L. 99–252, §2, Feb. 27, 1986, 100 Stat. 30.)
 
 #### Effective Date
 
-Section 11 of Pub. L. 99 252 provided that:
+Section 11 of Pub. L. 99–252 provided that:
 
 “(a)
 
@@ -40,5 +40,5 @@ Exception.—Sections 2, 3(b), 3(c), 3(d), 3(e), 4(b), 7, 8, 9 \[sections 4401, 
 
 #### Short Title
 
-Section 1 of Pub. L. 99 252 provided that: “This Act \[enacting this chapter and amending section 342 of Title 21, Food and Drugs\] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
+Section 1 of Pub. L. 99–252 provided that: “This Act \[enacting this chapter and amending section 342 of Title 21, Food and Drugs\] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
 

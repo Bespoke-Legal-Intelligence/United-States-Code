@@ -32,7 +32,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) a partner in the partnership, and
 
-&emsp;&emsp;(B) any other person whose income tax liability under subtitle A is determined inwhole or in part by taking into account directly or indirectly partnership items of the partnership.
+&emsp;&emsp;(B) any other person whose income tax liability under subtitle A is determined in whole or in part by taking into account directly or indirectly partnership items of the partnership.
 
 #### (3) Partnership item
 
@@ -102,7 +102,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) has complied with subparagraph (B) of section 6222(b)(1) (relating to notification of inconsistent treatment) with respect to one or more of such items, and
 
-&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner's treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
+&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner's treatment of theitem or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
 
 &emsp;&emsp;(B)(i) such partner has filed a request under section 6227(c) for administrative adjustment of one or more of such items, and
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Special Rule for Certain International Satellite Partnerships
 
-Section 406 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
+Section 406 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal RevenueCode of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
 
 #### Section Referred to in Other Sections
 

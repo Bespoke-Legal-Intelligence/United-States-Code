@@ -44,7 +44,7 @@ If within 20 years after the completion of any construction project for which fu
 
 &emsp;(1) the owner of the facility ceases to be a public or nonprofit private agency or organization, or
 
-&emsp;(2) the facility ceases to be used for the purposes for which it was leased or constructed (unless the Commissioner determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so),
+&emsp;(2) the facility ceases to be used for the purposes for which it was leased or constructed\(unless the Commissioner determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so),
 
 > the United States shall be entitled to recover from the grant recipient or other owner of the facility an amount which bears the same ratio to the value of the facility (or so much thereof as constituted an approved project or projects) at the time the United States seeks recovery as the amount of such Federal funds bore to the cost of renovating the facility under subsection (c)(1)(A)(ii) of this section. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is situated.
 
@@ -56,7 +56,7 @@ The requirements of section 776 of this title shall not apply to funds allotted 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1993 through 1997.
 
-(Pub. L. 93–112, title III, §305, as added Pub. L. 95–602, title I, §115(a), Nov. 6, 1978, 92 Stat. 2971;amended Pub. L. 98–221, title I, §134, Feb. 22, 1984, 98 Stat. 25; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §404, title X, §1002(d)(3), Oct. 21, 1986, 100 Stat. 1810, 1825, 1844; Pub. L. 100–630, title II, §204(d), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, §4(d), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, §102(p)(19), title III, §305, Oct. 29, 1992, 106 Stat. 4358, 4417.)
+(Pub. L. 93–112, title III, §305, as added Pub. L. 95–602, title I, §115(a), Nov. 6, 1978, 92 Stat. 2971; amended Pub. L. 98–221, title I, §134, Feb. 22, 1984, 98 Stat. 25; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §404, title X, §1002(d)(3), Oct. 21, 1986, 100 Stat. 1810, 1825, 1844; Pub. L. 100–630, title II, §204(d), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, §4(d), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, §102(p)(19), title III, §305, Oct. 29, 1992, 106 Stat. 4358, 4417.)
 
 #### Prior Provisions
 

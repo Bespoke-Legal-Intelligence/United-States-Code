@@ -68,7 +68,7 @@ Except as otherwise provided in this title—
 
 #### (A) In general
 
-&emsp;&emsp;Interest shall be imposed under subsection (a) in respect of any assessable penalty, additional amount, or addition to the tax (other than an addition to tax imposed under section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68) only if such assessable penalty, additional amount, or addition to the tax is not paid within 10 daysfrom the date of notice and demand therefor, and in such case interest shall be imposed only for the period from the date of the notice and demand to the date of payment.
+&emsp;&emsp;Interest shall be imposed under subsection (a) in respect of any assessable penalty, additional amount, or addition to the tax (other than an addition to tax imposed under section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68) only if such assessable penalty, additional amount, or addition to the tax is not paid within 10 days from the date of notice and demand therefor, and in such case interest shall be imposed only for the period from the date of the notice and demand to the date of payment.
 
 #### (B) Interest on certain additions to tax
 
@@ -120,7 +120,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 &emsp;&emsp;<b>For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 817; Sept. 2, 1958, Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), 72 Stat. 1658, 1663, 1664, 1685; June 29, 1961, Pub. L. 87–61, title II, §203(c)(2), 75 Stat. 126; Oct. 16, 1962, Pub. L. 87–834, §2(e)(3), 76 Stat. 972; Sept. 2, 1964, Pub. L. 88–571, §3(d), 78 Stat. 858; Apr. 8, 1966, Pub. L. 89–384, §1(f), 80 Stat. 104; Dec. 27, 1967, Pub. L. 90–225, §2(e), 81 Stat. 731; Aug. 7, 1969, Pub. L. 91–53, §2(e), 83 Stat. 92; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), 83 Stat. 531, 641; Dec. 10, 1971, Pub. L. 92–178, title VI, §601(d)(3), 85 Stat. 559; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(17), 88 Stat. 930; Jan. 3, 1975, Pub. L. 93–625, §7(a)(2)(A), (b)(1), 88 Stat. 2115; Oct. 2, 1976, Pub. L. 94–452, §3(c)(3), 90 Stat. 1514; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; May 23, 1977, Pub. L. 95–30, title II, §202(d)(4)(C), 91 Stat. 150; Nov. 10, 1978, Pub. L. 95–628, §8(c)(2), 92 Stat. 3632; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(7), 94 Stat. 253; Sept. 3, 1982, Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), 96 Stat. 635, 637; Aug. 12, 1983, Pub. L. 98–76, title II, §231(b)(2)(D), 97 Stat. 429; July 18, 1984, Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), 98 Stat. 696, 757, 792, 963; Oct. 22, 1986, Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), 100 Stat. 2714, 2745, 2746, 2762; Dec. 22, 1987, Pub. L. 100–203, title X, §10301(b)(5), 101 Stat. 1330–429; Nov. 10, 1988, Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), 102 Stat. 3569, 3592, 3736, 3774; Dec. 19, 1989, Pub. L. 101–239, title VII, §7721(c)(8), 103 Stat. 2400; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(20)(B), 104 Stat. 1388–528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 817; Sept. 2, 1958, Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), 72 Stat. 1658, 1663, 1664, 1685; June 29, 1961, Pub. L. 87–61, title II, §203(c)(2), 75 Stat. 126; Oct. 16, 1962, Pub. L. 87–834, §2(e)(3), 76 Stat. 972; Sept. 2, 1964, Pub. L. 88–571, §3(d), 78 Stat. 858; Apr. 8, 1966, Pub. L. 89–384, §1(f), 80 Stat. 104; Dec. 27, 1967, Pub. L. 90–225, §2(e), 81 Stat. 731; Aug. 7, 1969, Pub. L. 91–53, §2(e), 83 Stat. 92; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), 83 Stat. 531, 641; Dec. 10, 1971, Pub. L. 92–178, title VI, §601(d)(3), 85 Stat. 559; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(17), 88 Stat. 930; Jan. 3, 1975, Pub. L. 93–625, §7(a)(2)(A), (b)(1), 88 Stat. 2115; Oct. 2, 1976, Pub. L. 94–452, §3(c)(3), 90 Stat. 1514; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; May 23, 1977, Pub. L. 95–30, title II, §202(d)(4)(C), 91 Stat. 150; Nov. 10, 1978, Pub. L. 95–628, §8(c)(2), 92 Stat. 3632; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(7), 94 Stat. 253; Sept. 3, 1982, Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), 96 Stat. 635, 637; Aug. 12, 1983, Pub. L. 98–76, title II, §231(b)(2)(D), 97 Stat. 429; July 18, 1984, Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), 98 Stat. 696, 757, 792, 963; Oct. 22, 1986, Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), 100 Stat. 2714, 2745, 2746, 2762; Dec. 22, 1987, Pub. L. 100–203, title X, §10301(b)(5), 101 Stat. 1330–429; Nov. 10, 1988, Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), 102 Stat. 3569, 3592, 3736, 3774; Dec. 19, 1989, Pub. L. 101–239, title VII, §7721(c)(8), 103 Stat. 2400; Nov. 5, 1990,Pub. L. 101–508, title XI, §11801(c)(20)(B), 104 Stat. 1388–528.)
 
 #### Amendments
 
@@ -208,7 +208,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 91–53 added subsec. (k) and redesignated for
 
 1962—Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
 
-1961—Subsec. (c)(2). Pub. L. 87–61 substituted “6152(a) or 6156(a)” for “6152(a)” in introductory provisions, and “6152(b) or 6156(b), as the case may be” for “6152(b)” in subpar. (A).
+1961—Subsec. (c)(2). Pub. L. 87–61 substituted “6152(a) or 6156(a)” for “6152(a)” in introductory provisions, and“6152(b) or 6156(b), as the case may be” for “6152(b)” in subpar. (A).
 
 1958—Subsec. (b). Pub. L. 85–866, §§66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 93–406 applicable, except as otherwise provided in sectio
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable to taxable years beginning after Dec. 31, 1971, see section 601(f) of Pub. L. 92–178, set out as a note under section 381 of this title.
+Amendment by Pub. L. 92–178 applicable to taxable years beginning after Dec. 31, 1971, see section 601(f) ofPub. L. 92–178, set out as a note under section 381 of this title.
 
 #### Effective Date of 1969 Amendment
 

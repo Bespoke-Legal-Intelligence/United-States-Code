@@ -6,7 +6,7 @@ Ex. Ord. No. 9176, May 29, 1942, 7 F.R. 4127, provided:
 
 By virtue of the authority vested in me by Title I of the First War Powers Act, 1941, approved December 18, 1941 (Public Law No. 354, 77th Congress \[section 601 et seq. of Title 50, Appendix, War and National Defense\]), and as President of the United States, it is hereby ordered as follows:
 
-1\. All functions, powers and duties of the Secretary of State under the act of June 8, 1938 (52 Stat. 631), as amended by the act of August 7, 1939 (53 Stat. 1244), requiring the registration of agents of foreign principals,are hereby transferred to and vested in the Attorney General.
+1\. All functions, powers and duties of the Secretary of State under the act of June 8, 1938 (52 Stat. 631), as amended by the act of August 7, 1939 (53 Stat. 1244), requiring the registration of agents of foreign principals, are hereby transferred to and vested in the Attorney General.
 
 2\. All property, books and records heretofore maintained by the Secretary of State with respect to his administration of said act of June 8, 1938, as amended, are hereby transferred to and vested in the Attorney General.
 
@@ -20,7 +20,7 @@ Franklin D Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 8 section 1251; title 18 section 219; title 48 section 1905; title 50 App. section 34.
+This subchapter is referred to in title 2 section 1602; title 8 section 1251; title 18 section 219; title 48 section 1905; title 50 App. section 34.
 
 
 ---

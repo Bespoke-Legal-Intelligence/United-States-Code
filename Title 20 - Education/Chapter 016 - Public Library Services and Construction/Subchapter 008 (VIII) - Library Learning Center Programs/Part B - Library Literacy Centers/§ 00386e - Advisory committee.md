@@ -16,7 +16,7 @@ Each State receiving a grant under this part shall establish an advisory committ
 
 &emsp;(7) adult literacy community organizations.
 
-(June 19, 1956, ch. 407, title VIII, §816, as added Mar. 15, 1990, Pub. L. 101 254, §23(a), 104 Stat. 112.)
+(June 19, 1956, ch. 407, title VIII, §816, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 112.)
 
 #### Section Referred to in Other Sections
 

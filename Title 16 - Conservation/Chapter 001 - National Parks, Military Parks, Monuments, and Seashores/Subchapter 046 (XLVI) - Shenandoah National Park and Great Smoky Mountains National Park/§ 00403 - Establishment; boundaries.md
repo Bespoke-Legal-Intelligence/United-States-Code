@@ -4,13 +4,17 @@ When title to lands within the areas hereinafter referred to shall have been ves
 
 (May 22, 1926, ch. 363, §1, 44 Stat. 616.)
 
+#### Shenandoah National Park; Roads on Federal Land; Transfer of County Road Corridors
+
+Pub. L. 104–59, title III, §349(b), Nov. 28, 1995, 109 Stat. 618, permitted State of Virginia to maintain and provide for safe public use of certain roads that State donated to United States at time of establishment of Shenandoah National Park; established transfer from United States to State of county road corridors for that purpose; defined “county road corridor” and “Shenandoah county road”; and provided for reversion of corridors should they be withdrawn from use as public roadways.
+
 #### Transfer of Land for Use as Customs Service Canine Enforcement Training Center
 
 Pub. L. 102–393, title V, §533, Oct. 6, 1992, 106 Stat. 1763, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), the Secretary of the Interior may transfer certain land locatedin the Shenandoah National Park and described in subsection (c) to the Secretary of the Treasury for use by the Secretary of the Treasury as a United States Customs Service Canine Enforcement Training Center.
+In General.—Subject to subsection (b), the Secretary of the Interior may transfer certain land located in the Shenandoah National Park and described in subsection (c) to the Secretary of the Treasury for use by the Secretary of the Treasury as a United States Customs Service Canine Enforcement Training Center.
 
 “(b)
 

@@ -1,6 +1,6 @@
 ### §971b. Advisory committee
 
-There is established an advisory committee which shall be composed of—
+(a) There is established an advisory committee which shall be composed of—
 
 &emsp;(1) not less than five nor more than twenty individuals appointed by the United States Commissioners who shall select such individuals from the various groups concerned with the fisheries covered by the Convention; and
 
@@ -8,9 +8,31 @@ There is established an advisory committee which shall be composed of—
 
 > Each member of the advisory committee appointed under paragraph (1) shall serve for a term of two years and shall be eligible for reappointment. Members of the advisory committee may attend all public meetings of the Commission, Council, or any Panel and any other meetings to which they are invited by the Commission, Council, or any Panel. The advisory committee shall be invited to attend all nonexecutive meetings of the United States Commissioners and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission. Members of the advisory committee shall receive no compensation for their services as such members. The Secretary and the Secretary of State may pay the necessary travel expenses of members of the advisory committee in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
-(Pub. L. 94–70, §4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, §1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 101–627, title II, §204, Nov. 28, 1990, 104 Stat. 4460.)
+(b)(1) A majority of the members of the advisory committee shall constitute a quorum, but one or more such members designated by the advisory committee may hold meetings to provide for public participation and to discuss measures relating to the United States implementation of Commission recommendations.
+
+(2) The advisory committee shall elect a Chairman for a 2-year term from among its members.
+
+(3) The advisory committee shall meet at appropriate times and places at least twice a year, at the call of the Chairman or upon the request of the majority of its voting members, the United States Commissioners, the Secretary, or the Secretary of State. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
+
+(4)(A) The Secretary shall provide to the advisory committee in a timely manner such administrative and technical support services as are necessary for the effective functioning of the committee.
+
+(B) The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
+
+(5) The advisory committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures.
+
+(6) The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+
+(Pub. L. 94–70, §4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, §1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 101–627, title II, §204, Nov. 28, 1990, 104 Stat. 4460; Pub. L. 104–43, title III, §304, Nov. 3, 1995, 109 Stat. 384.)
+
+#### References in Text
+
+The Magnuson Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1995—Pub. L. 104–43 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1990—Pub. L. 101–627 amended last sentence generally. Prior to amendment, last sentence read as follows: “On approval by the United States Commissioners—
 
@@ -20,11 +42,7 @@ There is established an advisory committee which shall be composed of—
 
 1980—Pub. L. 96–339 incorporated existing provision in par. designated (1), added par. (2), redesignated as subpars. (A) and (B) former pars. (1) and (2), substituted in subpar. (B) reference to “subparagraph (A)” for “paragraph (1)”, and made specific reference to appointment of committee member under paragraph (1).
 
-#### Termination of Advisory Committees
-
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 971a of this title.
+This section is referred to in sections 971a, 971h, 971i of this title.
 

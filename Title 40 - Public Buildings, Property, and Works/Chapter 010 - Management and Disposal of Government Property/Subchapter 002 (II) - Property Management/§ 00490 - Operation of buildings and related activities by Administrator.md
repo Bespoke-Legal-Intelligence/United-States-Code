@@ -28,7 +28,7 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(12) to acquire, by purchase, condemnation, or otherwise, real estate and interests therein;
 
-&emsp;(13) to enter into leases of Federal buildings sites and additions to sites, including improvements thereon, until they are needed for construction purposes, at their fair rental value and upon such other terms and conditions asthe Administrator deems in the public interest pursuant to the provisions of section 484(e) of this title. Such leases may be negotiated without public advertising for bids if the lessee is the former owner from whom the property was acquired by the United States or his tenant in possession, and the lease is negotiated incident to or in connection with the acquisition of the property. Rentals received under leases executed pursuant to this paragraph may be deposited into the Buildings Management Fund established by subsection (f) of this section;
+&emsp;(13) to enter into leases of Federal buildings sites and additions to sites, including improvements thereon, until they are needed for construction purposes, at their fair rental value and upon such other terms and conditions as the Administrator deems in the public interest pursuant to the provisions of section 484(e) of this title. Such leases may be negotiated without public advertising for bids if the lessee is the former owner from whom the property was acquired by the United States or his tenant in possession, and the lease is negotiated incident to or in connection with the acquisition of the property. Rentals received under leases executed pursuant to this paragraph may be deposited into the Buildings Management Fund established by subsection (f) of this section;
 
 &emsp;(14) to enter into contracts for periods not exceeding three years for the inspection, maintenance, and repair of fixed equipment in such buildings which are federally owned;
 
@@ -48,7 +48,7 @@ At the request of any Federal agency or any mixed-ownership corporation (as defi
 
 #### (c) Acquisition of land; surveys; construction services
 
-At the request of any Federal agency or any mixed-ownership corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator is authorized (1) to acquire land for buildings and projects authorized by the Congress; (2) to make or cause to be made, under contract or otherwise, surveys and test borings and to prepare plans and specifications for such buildings and projects prior to the approval by the Attorney General of the title to the sites thereof; and (3) to contract for, and to supervise, the construction and development and the equipping of such buildings or projects. Any sum available to any such Federal agency or instrumentality for any such building or project may be transferred by such agency to the General Services Administration in advance for such purposes as the Administrator shall determine to be necessary, including the payment of salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service.
+At the request of any Federal agency or any mixed-ownership corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator is authorized (1) to acquire land for buildings and projects authorized by the Congress; (2) to make or cause to be made, under contract or otherwise, surveys and test borings and to prepare plans and specifications for such buildings and projects prior to the approval by the Attorney General of the title to the sites thereof; and (3) to contract for, and tosupervise, the construction and development and the equipping of such buildings or projects. Any sum available to any such Federal agency or instrumentality for any such building or project may be transferred by such agency to the General Services Administration in advance for such purposes as the Administrator shall determine to be necessary, including the payment of salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service.
 
 #### (d) Transfer of functions
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, the Administrator is authorized, in 
 
 (3) There are hereby merged with the fund established under this subsection, unexpended balances of (A) the Buildings Management Fund (including any surplus therein), established pursuant to this subsection prior to its amendment by the Public Buildings Amendments of 1972; (B) the Construction Services Fund, created by section 296 of this title; and (C) any funds appropriated to General Services Administration under the headings “Repair and Improvement of Public Buildings”, “Construction, Public Buildings Projects”, “Sites and Expenses, Public Buildings Projects”, “Construction, Federal Office Building Numbered 7, Washington, District of Columbia”, and “Additional Court Facilities”, in any appropriation Act, for the years prior to the fiscal year in which the fund becomes operational. The fund shall assume all the liabilities, obligations, and commitments of the said (1) Buildings Management Fund, (2) Construction Services Fund, and (3) the appropriations specified in (C) hereof.
 
-(4) There is authorized to be appropriated to the fund for the fiscal year in which the fund becomes operational, and for the succeeding fiscal year, such advances to the fund as may be necessary to carry out its purposes. Such advances shall be repaid within 30 years, with interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining period to maturity comparable to the average maturities of such advances adjusted to the nearest one-eighth of 1 per centum.
+(4) There is authorized to be appropriated to the fund for the fiscal year in which the fund becomes operational, and for the succeeding fiscal year, such advances to the fund as may be necessary to carry out its purposes. Such advances shall be repaid within 30 years, with interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the UnitedStates with remaining period to maturity comparable to the average maturities of such advances adjusted to the nearest one-eighth of 1 per centum.
 
 (5) In any fiscal year there may be deposited to miscellaneous receipts in the Treasury of the United States such amount as may be specified in appropriation Acts.
 
@@ -268,7 +268,7 @@ Performance of Transferred Functions
 
 (a) The Administrator of General Services may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any agency or employee, of the General Services Administration of any function transferred to such Administrator by the provisions of this reorganization plan.
 
-(b) When authorized by the Administrator of General Services, any function transferred to him by the provisions of this reorganization plan may be performed bythe head of any agency of the executive branch of the Government or, subject to the direction and control of any such agency head, by such officers, employees, and organizational units under the jurisdiction of such agency head as such agency head may designate: <i>Provided</i>, That functions with respect to post-office buildings shall not be delegated under the authority of this subsection to the head of any agency other than the Postmaster General.
+(b) When authorized by the Administrator of General Services, any function transferred to him by the provisions of this reorganization plan may be performed by the head of any agency of the executive branch of the Government or, subject to the direction and control of any such agency head, by such officers, employees, and organizational units under the jurisdiction of such agency head as such agency head may designate: <i>Provided</i>, That functions with respect to post-office buildings shall not be delegated under the authority of this subsection to the head of any agency other than the Postmaster General.
 
 (c) The Administrator of General Services shall prescribe such regulations as he deems desirable for the economical and effective performance of the functions transferred by the provisions of this reorganization plan.
 
@@ -300,7 +300,7 @@ Outside of the National Capital, however, responsibility for the acquisition and
 
 The assignment of space in Government-owned buildings outside of Washington is also divided among a number of agencies. While the Public Buildings Service constructs a large part of the Government buildings, it operates and controls the assignment of space in only a small proportion of them. The Post Office Department operates and allocates the space in post-office buildings, several hundred of which contain substantial amounts of office space available for other agencies. During and immediately after the war several other Federal agencies acquired office buildings in the field. As their activities have contracted, surplus space in many of these structures has become available for other uses.
 
-This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of a number of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
+This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of anumber of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
 
 Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amply safeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
 
@@ -366,7 +366,7 @@ Space Acquisition
 
 (e) Opportunities for locating cultural, educational, recreational, or commercial activities within the proposed facility.
 
-1–106. Site selection and space assignments shall take into account the management needs for consolidation of agencies or activities in common or adjacent space in order to improve administration and management and effect economies.
+1–106. Site selection and space assignments shall take into account the management needs for consolidationof agencies or activities in common or adjacent space in order to improve administration and management and effect economies.
 
 #### 1–2.
 
@@ -414,13 +414,47 @@ General Provisions
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Facilitating Access to Federal Property for Siting of Mobile Services Antennas
+
+Memorandum of President of the United States, Aug. 10, 1995, 60 F.R. 42023, provided:
+
+Memorandum for the Heads of Departments and Agencies
+
+Recent advancements in mobile telecommunications technology present an opportunity for the rapid construction of the Nation's wireless communications infrastructure. As a matter of policy, the Federal Government shall encourage the efficient and timely implementation of such new technologies and the concomitant infrastructure buildout as a means of stimulating economic growth and creating new jobs. The recent auctioning and impending licensing of radio frequencies for mobile personal communications services presents the Federal Government with the opportunity to foster new technologies and to encourage the development of communications infrastructure by making Federal property available for the siting of mobile services antennas.
+
+Therefore, to the extent permitted by law, I hereby direct the Administrator of General Services, within 90 days, in consultation with the Secretaries of Agriculture, Interior, Defense, and the heads of such other agencies as the Administrator may determine, to develop procedures necessary to facilitate appropriate access to Federal property for the siting of mobile services antennas.
+
+The procedures should be developed in accordance with the following:
+
+1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), public health and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
+
+(b) Antennas on Federal buildings or land may not contain any advertising.
+
+(c) Federal property does not include lands held by the United States in trust for individual or Native American tribal governments.
+
+(d) Agencies shall retain discretion to reject inappropriate siting requests, and assure adequate protection of public property and timely removal of equipment and structures at the end of service.
+
+2\. All procedures and mechanisms adopted regarding access to Federal property shall be clear and simple so as to facilitate the efficient and rapid buildout of the national wireless communications infrastructure.
+
+3\. Unless otherwise prohibited by or inconsistent with Federal law, agencies shall charge fees based on market value for siting antennas on Federal property, and may use competitive procedures if not all applicants can be accommodated.
+
+This memorandum does not give the siting of mobile services antennas priority over other authorized uses of Federal buildings or land.
+
+All independent regulatory commissions and agencies are requested to comply with the provisions of this memorandum.
+
+This memorandum is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers, or any other person.
+
+This memorandum shall be published in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Cross References
 
 Control and allotment of space in public buildings, see section 19 et seq. of this title. See, also, section 304c of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 490a, 490c, 490e, 490f, 490g, 618, 1104, 1105, 1107 of this title; title 2 section 122c; title 7 section 87e–1; title 20 sections 80q–5, 80q–6; title 22 section 3712a; title 49 section 10344.
+This section is referred to in sections 490a, 490c, 490e, 490f, 490g, 618, 1104, 1105, 1107 of this title; title 2 section 122c; title 7 section 87e–1; title 20 sections 80q–5, 80q–6; title 22 section 3712a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

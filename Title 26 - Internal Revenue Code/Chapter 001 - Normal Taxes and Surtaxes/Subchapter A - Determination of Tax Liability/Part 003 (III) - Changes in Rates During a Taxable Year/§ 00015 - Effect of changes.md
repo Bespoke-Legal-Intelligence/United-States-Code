@@ -104,7 +104,7 @@ Pub. L. 101–508, title XI, §11001(c), Nov. 5, 1990, 104 Stat. 1388–400, pro
 
 #### Coordination of 1987 Amendment With Section 15
 
-Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made by this title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made bythis title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986.”
 
 #### Coordination of 1986 Amendment With Section 15
 

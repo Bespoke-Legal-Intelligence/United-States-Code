@@ -12,7 +12,7 @@
 
 #### (3) Publication of selection criteria
 
-&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
+&emsp;Not less than 30 days before any deadline by which applications or requests for assistanceunder any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
 
 #### (4) Documentation of decisions
 
@@ -50,49 +50,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
-#### (d) Regulation of lobbyists and consultants
-
-#### (1) Limitation of fees
-
-&emsp;Any person who is engaged for pay or for any consideration for the purpose of attempting to influence any award or allocation of assistance by the Secretary shall not seek or receive any fee that is—
-
-&emsp;&emsp;(A) based on the amount of assistance or number of units that may be provided by the Secretary, or
-
-&emsp;&emsp;(B) contingent on an award of assistance by the Secretary, except that professional services related to a project may be donated in whole or in part to a community housing development organization in the event assistance for a project is not awarded.
-
-#### (2) Registration
-
-&emsp;Any person who will be engaged for pay or for any consideration for the purpose of attempting to influence any award or allocation of assistance by the Secretary shall, before doing anything in furtherance of such object, register by submitting to the Secretary a sworn statement containing—
-
-&emsp;&emsp;(A) such person's name and business address,
-
-&emsp;&emsp;(B) the nature and duration of any previous Federal employment,
-
-&emsp;&emsp;(C) the name and address of the person by whom such person is employed, and in whose interest such person appears or works,
-
-&emsp;&emsp;(D) the duration of such employment,
-
-&emsp;&emsp;(E) how much such person is paid and is to receive,
-
-&emsp;&emsp;(F) by whom such person is paid or is to be paid,
-
-&emsp;&emsp;(G) how much such person is to be paid for expenses, and
-
-&emsp;&emsp;(H) what expenses are to be included.
-
-> &emsp;For purposes of this paragraph, ownership by an individual of a single family home financed under section 1472 of this title does constitute pay or consideration.
-
-#### (3) Reporting
-
-&emsp;Each person registering under paragraph (2) shall, between the first and tenth day of each calendar quarter, so long as such person's activity continues, file with the Secretary a detailed report under oath setting forth—
-
-&emsp;&emsp;(A) all money received and expended by such person during the preceding calendar quarter in carrying on such person's work;
-
-&emsp;&emsp;(B) an identification of the person or persons to whom funds were paid and the purposes of such payments;
-
-&emsp;&emsp;(C) all awards or allocations of assistance under this subchapter that the person attempted to influence; and
-
-&emsp;&emsp;(D) any contacts with any employee of the Department for the purpose of attempting to influence any award or allocation of assistance by the Secretary.
+#### (d) Repealed. Pub. L. 104–65, §11(b)(2), Dec. 19, 1995, 109 Stat. 701
 
 #### (e) Remedies and penalties
 
@@ -118,7 +76,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (2) Civil penalties
 
-&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district court of the United States. A civil penalty under this paragraph may not exceed—
+&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district courtof the United States. A civil penalty under this paragraph may not exceed—
 
 &emsp;&emsp;(A) $100,000 in the case of an individual; or
 
@@ -134,7 +92,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (f) Limitation of assistance
 
-The Secretary shall certify that assistance provided by the Secretary to any housingproject shall not be more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources. The Secretary shall adjust the amount of assistance provided to an applicant to compensate for any changes reported under subsection (c) of this section.
+The Secretary shall certify that assistance provided by the Secretary to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources. The Secretary shall adjust the amount of assistance provided to an applicant to compensate for any changes reported under subsection (c) of this section.
 
 #### (g) Regulations
 
@@ -148,7 +106,7 @@ For purposes of this section, the term “assistance” means any housing grant,
 
 The Secretary shall submit to the Congress, not later than 180 days following December 15, 1989, a report describing actions taken to carry out this section, including actions to inform and educate officers and employees of the Department of Agriculture regarding the provisions of this section.
 
-(July 15, 1949, ch. 338, title V, §536, as added Dec. 15, 1989, Pub. L. 101–235, title IV, §401(a), 103 Stat. 2045; amended Nov. 28, 1990, Pub. L. 101–625, title VII, §719(a), 104 Stat. 4297.)
+(July 15, 1949, ch. 338, title V, §536, as added Dec. 15, 1989, Pub. L. 101–235, title IV, §401(a), 103 Stat. 2045; amended Nov. 28, 1990, Pub. L. 101–625, title VII, §719(a), 104 Stat. 4297; Dec. 19, 1995, Pub. L. 104–65, §11(b)(2), 109 Stat. 701.)
 
 #### Codification
 
@@ -156,7 +114,13 @@ December 15, 1989, referred to in subsec. (g), was in the original “the date o
 
 #### Amendments
 
+1995—Subsec. (d). Pub. L. 104–65 struck out subsec. (d) which related to regulation of lobbyists and consultants.
+
 1990—Subsec. (h). Pub. L. 101–625 inserted before period at end “, for the original construction or development of the project”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
 #### Effective Date
 

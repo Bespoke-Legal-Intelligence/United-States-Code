@@ -12,9 +12,9 @@ Sections 444, 911(9), 911(11), and 941 of the Foreign Service Act of 1946, refer
 
 Section is based on section 203 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 96–86, §101(c) \[H.R. 4390, title II, §203\], Oct. 12, 1979, 93 Stat. 657.
 

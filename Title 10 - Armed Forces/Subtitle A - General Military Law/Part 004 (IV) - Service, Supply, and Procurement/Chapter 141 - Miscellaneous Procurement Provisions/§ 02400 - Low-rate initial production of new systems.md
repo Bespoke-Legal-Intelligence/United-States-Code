@@ -10,11 +10,11 @@ Determination of Quantities To Be Procured for Low-Rate Initial Production.—(1
 
 (2) In this section, the term “milestone II decision” means the decision to approve the engineering and manufacturing development of a major system by the official of the Department of Defense designated to have the authority to make that decision.
 
-(3) Any increase from a quantity determined under paragraph (1) may only be made with the approval of the official making the determination.
+(3) Any increase from a quantity determined under paragraph (1) may only be made with theapproval of the official making the determination.
 
 (4) The quantity of articles of a major system that may be procured for low-rate initial production may not be less than one operationally configured production unit unless another quantity is established at the milestone II decision.
 
-(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to beproduced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of the preceding <sup>1</sup> sentence, the term “SAR” means a Selected Acquisition Report submitted under section 2432 of this title.
+(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of the preceding <sup>1</sup> sentence, the term “SAR” means a Selected Acquisition Report submitted under section 2432 of this title.
 
 (b)
 

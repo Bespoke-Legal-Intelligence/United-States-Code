@@ -1,4 +1,4 @@
-### §161 . Alteration, amendment, or repeal
+### §161. Alteration, amendment, or repeal
 
 The Congress of the United States reserves the right to alter, amend, or repeal any provision of this chapter.
 

@@ -62,7 +62,7 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 #### Prior Provisions
 
-A prior section 2021c, Pub. L. 96–573, §3, Dec. 22, 1980, 94 Stat. 3347, related to the applicability of low-levelradioactive waste compacts, prior to repeal by Pub. L. 99–240, §102. See section 2021d of this title.
+A prior section 2021c, Pub. L. 96–573, §3, Dec. 22, 1980, 94 Stat. 3347, related to the applicability of low-level radioactive waste compacts, prior to repeal by Pub. L. 99–240, §102. See section 2021d of this title.
 
 #### Section Referred to in Other Sections
 

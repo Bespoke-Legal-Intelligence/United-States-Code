@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) the Nation needs to develop economical processes to treat existing water supplies that are contaminated;
 
-&emsp;(4) it is necessary to provide for research into new techniques to reclaim waste water and to convert saline and other contaminatedwaters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
+&emsp;(4) it is necessary to provide for research into new techniques to reclaim waste water and to convert saline and other contaminated waters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
 
 &emsp;(5) there is very little Federal funding being applied to basic research in the field of treatment of contaminated water through membrane processes; and
 

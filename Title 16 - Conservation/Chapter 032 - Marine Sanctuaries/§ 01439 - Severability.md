@@ -10,5 +10,5 @@ This Act, referred to in text, means Pub. L. 92–532, which enacted this chapte
 
 #### Prior Provisions
 
-A prior section 308 of Pub. L. 92–532 was classified to section 1438 of this title prior to repeal by section 203(1) of Pub. L. 100–627.
+A prior section 308 of Pub. L. 92–532 was classified to section 1438 of this title, prior to repeal by section 203(1) of Pub. L. 100–627.
 

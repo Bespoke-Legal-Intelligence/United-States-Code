@@ -30,7 +30,7 @@ Pub. L. 97–449
 
 49:1652(e)(1) (1st sentence related to FRA).
 
-Oct. 15, 1966, Pub. L. 89–670, §§3(e) (related to FRA)(1), (3), (4), 6(f)(3)(C) (related to FRA), 80 Stat. 932, 940.
+Oct. 15, 1966, Pub. L. 89–670, §§3(e) (related to FRA) (1), (3), (4), 6(f)(3)(C) (related to FRA), 80 Stat. 932, 940.
 
 &nbsp;
 
@@ -40,7 +40,7 @@ July 8, 1976, Pub. L. 94–348, §6, 90 Stat. 820.
 
 103(b)
 
-49:1652(e) (related to FRA)(1) (2d, last sentences), (3) (last sentence).
+49:1652(e) (related to FRA) (1) (2d, last sentences), (3) (last sentence).
 
 103(c)
 

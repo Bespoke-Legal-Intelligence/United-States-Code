@@ -1,6 +1,6 @@
 Part D—National Education Dissemination System
 
-<i><sup>1</sup></i><i>So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 
 ---

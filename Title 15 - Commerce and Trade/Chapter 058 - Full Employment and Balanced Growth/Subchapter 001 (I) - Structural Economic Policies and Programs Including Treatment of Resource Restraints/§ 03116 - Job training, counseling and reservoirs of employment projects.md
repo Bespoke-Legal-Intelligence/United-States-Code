@@ -44,7 +44,7 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 &emsp;(4) such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
 
-(Pub. L. 95 523, title II, §206, Oct. 27, 1978, 92 Stat. 1902.)
+(Pub. L. 95–523, title II, §206, Oct. 27, 1978, 92 Stat. 1902.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), se
 
 The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
-CETA, referred to in subsecs. (b) and (c)(1), means the Comprehensive Employment and Training Act of 1973, Pub. L. 93 203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of Title 29, Labor, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97 300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97 300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act. Section 110 of CETA was classified to section 820 of Title 29 and was omitted from the Code in the general revision of Pub. L. 93 203 by Pub. L. 95 524, Oct. 27, 1978, 92 Stat. 1909.
+CETA, referred to in subsecs. (b) and (c)(1), means the Comprehensive Employment and Training Act of 1973, Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of Title 29, Labor, and was repealed by section184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97–300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act. Section 110 of CETA was classified to section 820 of Title 29 and was omitted from the Code in the general revision of Pub. L. 93–203 by Pub. L. 95–524, Oct. 27, 1978, 92 Stat. 1909.
 
 #### Section Referred to in Other Sections
 

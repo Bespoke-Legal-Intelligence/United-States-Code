@@ -1,0 +1,36 @@
+### §1595. Seizure
+
+(a) Any seed sold, delivered for transportation in interstate commerce, or transported in interstate or foreign commerce in violation of any of the provisions of this chapter shall, at the time of such violation or at any time thereafter, be liable to be proceeded against on libel of information and condemned in any district court of the United States within the jurisdiction of which the seed is found.
+
+(b) If seed is condemned by a decree of the court as being in violation of the provisions of this chapter, it may be disposed of by the court by—
+
+&emsp;(1) sale; or
+
+&emsp;(2) delivery to the owner thereof after he has appeared as claimant and paid the court costs and fees and storage and other proper expenses and executed and delivered a bond with good and sufficient sureties that such seed will not be sold or disposed of in any jurisdiction contrary to the provisions of this chapter and the rules and regulations made and promulgated thereunder, or the laws of such jurisdiction; or
+
+&emsp;(3) destruction.
+
+(c) If such seed is disposed of by sale, the proceeds of the sale, less the court costs and fees and storage and other proper expenses, shall be paid into the Treasury as miscellaneous receipts, but such seed shall not be sold or disposed of in any jurisdiction contrary to the provisions of this chapter and the rules and regulations made and promulgated thereunder, or the laws of such jurisdiction.
+
+(d) The proceedings in such libel cases shall conform, as nearly as may be, to the proceedings in admiralty, except that either party may demand trial by jury of any issue of fact joined in any such case; and such proceedings shall be at the suit of and in the name of the United States.
+
+(Aug. 9, 1939, ch. 615, title IV, §405, 53 Stat. 1286.)
+
+#### Effective Date
+
+See section 1610 of this title
+
+#### Federal Rules of Civil Procedure
+
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+
+#### Cross References
+
+Proceedings for forfeitures and seizures, see section 2461 of Title 28, Judiciary and Judicial Procedure.
+
+United States as plaintiff, jurisdiction of district courts, see section 1345 of Title 28.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1602 of this title.
+

@@ -30,7 +30,7 @@ This subchapter may not be construed as authorizing a Federal or State agency to
 
 Any amount paid to a State for a fiscal year and remaining unobligated at the end of such year shall remain available to such State for the next fiscal year for the purposes for which such amount was paid.
 
-(Pub. L. 91 230, title VI, §711, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3952.)
+(Pub. L. 91–230, title VI, §711, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3952.)
 
 #### Section Referred to in Other Sections
 

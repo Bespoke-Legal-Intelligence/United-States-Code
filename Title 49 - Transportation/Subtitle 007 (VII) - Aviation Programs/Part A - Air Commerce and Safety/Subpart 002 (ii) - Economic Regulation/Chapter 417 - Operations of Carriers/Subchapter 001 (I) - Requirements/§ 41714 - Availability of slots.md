@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligiblepoint to a high density airport (other than Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Washington National Airport), the Secretaryof Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -150,5 +150,5 @@ Sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -6,7 +6,7 @@ The Secretary shall establish and conduct a Parent Locator Service, under the di
 
 #### (b) Disclosure of information to authorized persons
 
-Upon request, filed in accordance with subsection (d) of this section of any authorized person (as defined in subsection (c) of this section) for the social security account number (or numbers, if the individual involved has more than one such number) and the most recent addressand place of employment of any absent parent, the Secretary shall, notwithstanding any other provision of law, provide through the Parent Locator Service such information to such person, if such information—
+Upon request, filed in accordance with subsection (d) of this section of any authorized person (as defined in subsection (c) of this section) for the social security account number (or numbers, if the individual involved has more than one such number) and the most recent address and place of employment of any absent parent, the Secretary shall, notwithstanding any other provision of law, provide through the Parent Locator Service such information to such person, if such information—
 
 &emsp;(1) is contained in any files or records maintained by the Secretary or by the Department of Health and Human Services; or
 
@@ -75,6 +75,10 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifically provided, see section 2336 of Pub. L. 97–35, set out as a note under section 651 of this title.
+
+#### Executive Agencies To Facilitate Payment of Child Support
+
+For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord. No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
 
 #### Section Referred to in Other Sections
 

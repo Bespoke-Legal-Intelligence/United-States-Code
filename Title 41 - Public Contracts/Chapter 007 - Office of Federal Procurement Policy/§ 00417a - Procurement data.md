@@ -6,7 +6,7 @@ Each Federal agency shall report to the Office of Federal Procurement Policy the
 
 #### (b) Definitions
 
-For purposes of this section the terms “small business concern owned and controlled by women” and “small business concerns owned and controlled by socially and economically disadvantaged individuals” shall be given the same meaning as those terms are given under section 637(d) of title 15 and section 204 of this Act.
+For purposes of this section the terms “small business concern owned and controlled bywomen” and “small business concerns owned and controlled by socially and economically disadvantaged individuals” shall be given the same meaning as those terms are given under section 637(d) of title 15 and section 204 of this Act.
 
 (Pub. L. 100–533, title V, §502, Oct. 25, 1988, 102 Stat. 2697.)
 

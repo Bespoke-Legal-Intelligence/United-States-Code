@@ -12,7 +12,7 @@ The Committee shall—
 
 &emsp;&emsp;(ii) the five year plan for the management and preservation of the records of Congress; and
 
-&emsp;(B) no later than December 31, 1995, conduct a study to update the report submitted under subparagraph (A)(ii), and submit a report to the Congress.
+&emsp;(B) no later than December 31, 1995, conduct a study to update the report submitted undersubparagraph (A)(ii), and submit a report to the Congress.
 
 (Added Pub. L. 101–509, title IV, §1(d)(1), Nov. 5, 1990, 104 Stat. 1418.)
 

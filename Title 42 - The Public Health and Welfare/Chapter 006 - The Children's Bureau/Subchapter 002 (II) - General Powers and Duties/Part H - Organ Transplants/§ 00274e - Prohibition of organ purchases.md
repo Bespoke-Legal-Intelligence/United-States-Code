@@ -14,7 +14,7 @@ For purposes of subsection (a) of this section:
 
 &emsp;(1) The term “human organ” means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and any other human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
 
-&emsp;(2) The term “valuable consideration” does not include the reasonable payments associated with the removal, transportation, implantation, processing, preservation, quality control, and storage of a human organ or the expenses of travel, housing, and lost wages incurred by the donor of a human organ in connection with the donation of the organ.
+&emsp;(2) The term “valuable consideration” does not include the reasonable payments associated with the removal, transportation, implantation, processing, preservation, quality control, and storage of a human organ or theexpenses of travel, housing, and lost wages incurred by the donor of a human organ in connection with the donation of the organ.
 
 &emsp;(3) The term “interstate commerce” has the meaning prescribed for it by section 321(b) of title 21.
 

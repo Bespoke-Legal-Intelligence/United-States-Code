@@ -32,7 +32,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing of assistive technology devices;
 
-&emsp;&emsp;(D) coordinating and using other therapies, interventions, or services with assistivetechnology devices, such as those associated with existing education and rehabilitation plans and programs;
+&emsp;&emsp;(D) coordinating and using other therapies, interventions, or services with assistive technology devices, such as those associated with existing education and rehabilitation plans and programs;
 
 &emsp;&emsp;(E) training or technical assistance for an individual with disabilities, or, where appropriate, the the <sup>1</sup> family members, guardians, advocates, or authorized representatives of such an individual; and
 

@@ -46,7 +46,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 #### (C) Limitation
 
-&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
+&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of whichthe transactions in stocks or securities, or in commodities, as the case may be, are effected.
 
 #### (c) Effectively connected income, etc.
 
@@ -66,7 +66,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(B) the activities of such trade or business were a material factor in the realization of the income, gain, or loss.
 
-> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade orbusiness or whether the activities of such trade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
+> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of such trade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
 
 #### (3) Other income from sources within United States
 
@@ -98,7 +98,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) in determining whether a nonresident alien individual or a foreign corporation has an office or other fixed place of business, an office or other fixed place of business of an agent shall be disregarded unless such agent (i) has the authority to negotiate and conclude contracts in the name of the nonresident alien individual or foreign corporation and regularly exercises that authority or has a stock of merchandise from which he regularly fills orders on behalf of such individual or foreign corporation, and (ii) is not a general commission agent, broker, or other agent of independent status acting in the ordinary course of his business,
 
-&emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place of business is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
+&emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place ofbusiness is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
 
 &emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed place of business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
 
@@ -256,7 +256,7 @@ For purposes of this subchapter—
 
 #### (B) Treatment of certain financial institutions
 
-&emsp;&emsp;For purposes of subparagraph (A), any corporation described in subparagraph (C) shall be treated as an includible corporation for purposes of section 1504 only for purposes of applying such section separately to corporations so described. This subparagraph shall not apply for purposes of paragraph (6).
+&emsp;&emsp;For purposes of subparagraph (A), any corporation described in subparagraph (C) shallbe treated as an includible corporation for purposes of section 1504 only for purposes of applying such section separately to corporations so described. This subparagraph shall not apply for purposes of paragraph (6).
 
 #### (C) Description
 
@@ -348,7 +348,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) dividends from an electing corporation,
 
-> &emsp;&emsp;shall not be taken into account, except that this subparagraph shall not apply to sales of (and gross income and dividends attributable to sales of) products with respect to whichan election under section 936(h)(5)(F) is not in effect.
+> &emsp;&emsp;shall not be taken into account, except that this subparagraph shall not apply to sales of (and gross income and dividends attributable to sales of) products with respect to which an election under section 936(h)(5)(F) is not in effect.
 
 &emsp;&emsp;(C) The qualified research and experimental expenditures taken into account for purposes of paragraph (1) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I)).
 
@@ -672,7 +672,7 @@ Special rules.—
 
 &emsp;&emsp;6th taxable year
 
-40  
+40&nbsp;&nbsp;
 
 &emsp;&emsp;7th taxable year
 
@@ -794,7 +794,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Transitional rule.—The amendments made by this section shall not apply to accounts receivable and evidences of indebtedness acquired after March 1, 1984, and before March 1, 1994, by a Belgian corporation in existence on March 1, 1984, in any taxable year ending after such date, but only to the extent that the amount includible in gross income by reason of section 956 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such corporation for all such taxableyears is not reduced by reason of this paragraph by more than the lesser of—
+Transitional rule.—The amendments made by this section shall not apply to accounts receivable and evidences of indebtedness acquired after March 1, 1984, and before March 1, 1994, by a Belgian corporation in existence on March 1, 1984, in any taxable year ending after such date, but only to the extent that the amount includible in gross income by reason of section 956 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such corporation for all such taxable years is not reduced by reason of this paragraph by more than the lesser of—
 
 &emsp;“(A) $15,000,000 or
 

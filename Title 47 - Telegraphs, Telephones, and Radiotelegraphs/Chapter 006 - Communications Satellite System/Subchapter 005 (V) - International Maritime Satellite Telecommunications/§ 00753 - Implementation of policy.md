@@ -38,7 +38,7 @@ The Commission shall—
 
 #### (d) Commission regulatory instructions; conflicting and prevailing instructions of President
 
-The Commission is authorized to issue instructions to the corporation with respect to regulatory matters within the jurisdiction of the Commission. In the event an instruction of the Commission conflicts with an instruction of the President pursuant to subsection (b) of this section, the instructions issued by the President shall prevail.
+The Commission is authorized to issue instructions to the corporation with respect toregulatory matters within the jurisdiction of the Commission. In the event an instruction of the Commission conflicts with an instruction of the President pursuant to subsection (b) of this section, the instructions issued by the President shall prevail.
 
 (Pub. L. 87–624, title V, §504, as added Pub. L. 95–564, Nov. 1, 1978, 92 Stat. 2394.)
 

@@ -6,7 +6,7 @@ The Secretary shall, until September 30, 1985, issue and sell, and the Secretary
 
 #### (b) Terms of issue
 
-Fund anticipation notes shall be issued in denominations of $100,000 (or any integral multiplethereof), upon such terms and conditions, with such maturities, such rates of interest, if any, and such redemption premiums, if any, as the Secretary in his sole discretion may determine. The date of maturity of each Fund anticipation note may not exceed 7 years from the date of its issuance.
+Fund anticipation notes shall be issued in denominations of $100,000 (or any integral multiple thereof), upon such terms and conditions, with such maturities, such rates of interest, if any, and such redemption premiums, if any, as the Secretary in his sole discretion may determine. The date of maturity of each Fund anticipation note may not exceed 7 years from the date of its issuance.
 
 #### (c) Redemption
 
@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 96–448, §§404, 405(c)(3)(B), substituted “1982” for
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
 #### Effective Date of 1979 Amendment
 
@@ -40,7 +40,9 @@ Amendment by Pub. L. 96–73 effective Oct. 1, 1979, see section 501(a) of Pub. 
 
 #### Redeemable Preference Shares
 
-Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 745, provided that: “Notwithstanding any other provision of law, the Secretary of Transportation shall, until September 30, 1988, issue and sell, and the Secretary of the Treasury until such date shall purchase, Fund anticipation notes, and the Secretary of Transportation is hereby authorized to expend for uses authorized for the Railroad Rehabilitation and Improvement Fund proceeds from the sale of such Fund anticipation notes and any other moneys deposited in the Fund after September 30, 1985, pursuant to sections 502, 505–507, and 509 of the Railroad Revitalization and Regulatory Reform Act of 1976 (Public Law 94–210), as amended \[sections 822, 825, 826, 827, and 829 of this title\], and section 803 of Public Law 95–620 \[amending sections 821, 822, and 825 of this title and enacting a provision set out as a note under section 822 of this title\], in amounts not to exceed $33,500,000.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 745, provided that: “Notwithstanding any other provision of law, the Secretary of Transportation shall, until September 30, 1988, issue and sell, and the Secretary of the Treasury until such date shall purchase, Fund anticipation notes, and the Secretary of Transportation is hereby authorized to expend for uses authorized for the Railroad Rehabilitation and Improvement Fund proceeds from the sale of such Fund anticipation notes and any other moneys deposited in the Fund after September 30, 1985, pursuant to sections 502, 505–507, and 509 of the Railroad Revitalization and Regulatory Reform Act of 1976 (Public Law 94–210), as amended \[sections 822, 825, 826, 827, and 829 of this title\], and section 803 of Public Law 95–620 \[amending sections 821, 822, and 825 of this title and enacting a provision set out as a note under section 822 of this title\], in amounts not to exceed $33,500,000.”
+
+Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 99–190, §101(e) \[title I\], Dec. 19, 1985, 99 Stat. 1267, 1280.
 

@@ -68,14 +68,14 @@
 | [3418\.](%C2%A7%2003418%20-%20Injunctive%20relief.md) | Injunctive relief. |
 | [3419\.](%C2%A7%2003419%20-%20Suspension%20of%20limitations.md) | Suspension of limitations. |
 | [3420\.](%C2%A7%2003420%20-%20Grand%20jury%20information%3B%20notification%20of%20certain%20persons%20prohibited.md) | Grand jury information; notification of certain persons prohibited. |
-| [3421\.](%C2%A7%2003421%20-%20Reporting%20requirements.md) | Reporting requirements. |
+| [3421\.](%C2%A7%2003421%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20III%2C%20%C2%A73001%28d%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20734.md) | Repealed. |
 | [3422\.](%C2%A7%2003422%20-%20Applicability%20to%20Securities%20and%20Exchange%20Commission.md) | Applicability to Securities and Exchange Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 15 sections 78u, 78x; title 38 section 5319.
+This chapter is referred to in title 15 sections 78u, 78x; title 38 section 5319; title 50 section 436.
 
 
 ---
@@ -102,5 +102,5 @@ This chapter is referred to in title 15 sections 78u, 78x; title 38 section 5319
 - [&sect; 03418 - Injunctive relief](%C2%A7%2003418%20-%20Injunctive%20relief.md)
 - [&sect; 03419 - Suspension of limitations](%C2%A7%2003419%20-%20Suspension%20of%20limitations.md)
 - [&sect; 03420 - Grand jury information; notification of certain persons prohibited](%C2%A7%2003420%20-%20Grand%20jury%20information%3B%20notification%20of%20certain%20persons%20prohibited.md)
-- [&sect; 03421 - Reporting requirements](%C2%A7%2003421%20-%20Reporting%20requirements.md)
+- [&sect; 03421 - Repealed. Pub. L. 104&#8211;66, title III, &sect;3001(d), Dec. 21, 1995, 109 Stat. 734](%C2%A7%2003421%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20III%2C%20%C2%A73001%28d%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20734.md)
 - [&sect; 03422 - Applicability to Securities and Exchange Commission](%C2%A7%2003422%20-%20Applicability%20to%20Securities%20and%20Exchange%20Commission.md)

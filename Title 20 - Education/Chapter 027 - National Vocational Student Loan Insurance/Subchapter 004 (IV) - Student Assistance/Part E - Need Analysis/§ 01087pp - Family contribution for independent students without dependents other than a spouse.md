@@ -10,7 +10,7 @@ For each independent student without dependents other than a spouse, the expecte
 
 &emsp;&emsp;(B) the family's contribution from assets (determined in accordance with subsection (c) of this section); and
 
-&emsp;(2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C ofsubchapter I of chapter 34 of title 42 is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -104,9 +104,9 @@ Adjusted Net Worth of a Business or Farm
 | If the net worth of a business or farm is— | Then the adjusted net worth is— |
 | :--- | ---: |
 | Less than $1 | $0 |
-| $1 $75,000 | 40 percent of NW |
-| $75,001 $225,000 | $30,000 plus 50 percent of NW over $75,000 |
-| $225,001 $375,000 | $105,000 plus 60 percent of NW over $225,000 |
+| $1–$75,000 | 40 percent of NW |
+| $75,001–$225,000 | $30,000 plus 50 percent of NW over $75,000 |
+| $225,001–$375,000 | $105,000 plus 60 percent of NW over $225,000 |
 | $375,001 or more | $195,000 plus 100 percent of NW over $375,000 |
 
 #### (3) Asset protection allowance
@@ -121,7 +121,7 @@ Asset Protection Allowances for Families and Students
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the allowance is— |  |  |
 |  |  |  |
 |  |  |  |
-| 25 or less | &nbsp;$ 0 | &nbsp;&nbsp;$0 |
+| 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
 | 26 | &nbsp;2,200 | &nbsp;1,600 |
 | 27 | &nbsp;4,300 | &nbsp;3,200 |
 | 28 | &nbsp;6,500 | &nbsp;4,700 |
@@ -171,57 +171,57 @@ Asset Protection Allowances for Families and Students
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's contribution from income or assets.
 
-(Pub. L. 89 329, title IV, §476, as added Pub. L. 99 498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100 50, §14(1), (3), (4), (13) (17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102 325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103 208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472.)
+(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472.)
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103 208 added subsec. (d).
+1993—Subsec. (d). Pub. L. 103–208 added subsec. (d).
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to family contribution for independent students without dependents other than a spouse for provisions relating to family contribution for independent students without dependents (including a spouse).
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to family contribution for independent students without dependents other than a spouse for provisions relating to family contribution for independent students without dependents (including a spouse).
 
-1987—Subsec. (b)(1)(A), (B). Pub. L. 100 50, §14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student's available taxable income by deducting from the student's adjusted gross income—”. Former subpar. (B) redesignated (C).
+1987—Subsec. (b)(1)(A), (B). Pub. L. 100–50, §14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student's available taxable income by deducting from the student's adjusted gross income—”. Former subpar. (B) redesignated (C).
 
-Subsec. (b)(1)(C). Pub. L. 100 50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+Subsec. (b)(1)(C). Pub. L. 100–50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 100 50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting “plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100 50.
+Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting “plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
 
-Pub. L. 100 50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
+Pub. L. 100–50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
-Subsec. (b)(2). Pub. L. 100 50, §14(1), (14), substituted “total income” for “total taxable income” and “section 1087rr of this title” for “section 1087ss of this title”.
+Subsec. (b)(2). Pub. L. 100–50, §14(1), (14), substituted “total income” for “total taxable income” and “section 1087rr of this title” for “section 1087ss of this title”.
 
-Subsec. (b)(4)(A). Pub. L. 100 50, §14(16)(A), substituted “$8,600” for “$8,900”.
+Subsec. (b)(4)(A). Pub. L. 100–50, §14(16)(A), substituted “$8,600” for “$8,900”.
 
-Subsec. (b)(4)(B). Pub. L. 100 50, §14(16), substituted “$8,600” for “$8,900” in two places and “$6,020” for “$6,230”.
+Subsec. (b)(4)(B). Pub. L. 100–50, §14(16), substituted “$8,600” for “$8,900” in two places and “$6,020” for “$6,230”.
 
-Subsec. (c)(1). Pub. L. 100 50, §14(17), substituted a semicolon for a period at end of subpar. (C) and inserted, after subpar. (C), provision that the student's income supplemental amount from assets not be less than zero.
+Subsec. (c)(1). Pub. L. 100–50, §14(17), substituted a semicolon for a period at end of subpar. (C) and inserted, after subpar. (C), provision that the student's income supplemental amount from assets not be less than zero.
 
-Subsec. (c)(2)(B). Pub. L. 100 50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
+Subsec. (c)(2)(B). Pub. L. 100–50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
 
-Subsec. (c)(2)(C). Pub. L. 100 50, §14(4), added table and struck out former table which read as follows:
+Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former table which read as follows:
 
 “Adjusted Net Worth of a Business or Farm
 
 | If the net worth of a business or farm is— | Then the adjusted net worth is— |
 | :--- | ---: |
 | Less than $1 | $0 |
-| $1 $65,000 | 40 percent of NW |
-| $65,001 $195,000 | $26,000 plus 50 percent of NW over $65,000 |
-| $195,001 $325,000 | $91,000 plus 60 percent of NW over $195,000 |
+| $1–$65,000 | 40 percent of NW |
+| $65,001–$195,000 | $26,000 plus 50 percent of NW over $65,000 |
+| $195,001–$325,000 | $91,000 plus 60 percent of NW over $195,000 |
 | $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
 
-Pub. L. 100 50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102 325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

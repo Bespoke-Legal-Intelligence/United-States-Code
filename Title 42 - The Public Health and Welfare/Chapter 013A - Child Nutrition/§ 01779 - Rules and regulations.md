@@ -8,7 +8,7 @@ The Secretary shall prescribe such regulations as the Secretary may deem necessa
 
 (1) The regulations shall not prohibit the sale of competitive foods approved by the Secretary in food service facilities or areas during the time of service of food under this chapter or the National School Lunch Act \[42 U.S.C. 1751 et seq.\] if the proceeds from the sales of such foods will inure to the benefit of the schools or of organizations of students approved by the schools.
 
-(2) The Secretary shall develop and provide to State agencies, for distribution to private elementary schools and to public elementary schools through local educational agencies,model language that bans the sale of competitive foods of minimal nutritional value anywhere on elementary school grounds before the end of the last lunch period.
+(2) The Secretary shall develop and provide to State agencies, for distribution to private elementary schools and to public elementary schools through local educational agencies, model language that bans the sale of competitive foods of minimal nutritional value anywhere on elementary school grounds before the end of the last lunch period.
 
 (3) The Secretary shall provide to State agencies, for distribution to private secondary schools and to public secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
 

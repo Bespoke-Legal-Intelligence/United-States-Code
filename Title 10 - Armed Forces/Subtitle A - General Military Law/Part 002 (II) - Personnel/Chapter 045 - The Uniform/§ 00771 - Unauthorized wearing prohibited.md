@@ -26,7 +26,7 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 #### Cross References
 
-Public Health Service, wearing of uniforms, see section 300cc–9 of Title 42, The Public Health and Welfare.
+Public Health Service, wearing of uniforms, see section 238g of Title 42, The Public Health and Welfare.
 
 Punishment for unauthorized wearing, see section 702 of Title 18, Crimes and Criminal Procedure.
 

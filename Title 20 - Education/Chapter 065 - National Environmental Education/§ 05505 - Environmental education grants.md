@@ -6,7 +6,7 @@ The Administrator may enter into a cooperative agreement or contract, or provide
 
 #### (b) Eligible activities
 
-Activities eligible for grant support pursuant to this section shall include, but not be limited to, environmental education and training programs for—
+Activities eligible for grant support pursuant to this section shall include, but not be limitedto, environmental education and training programs for—
 
 &emsp;(1) design, demonstration, or dissemination of environmental curricula, including development of educational tools and materials;
 
@@ -54,7 +54,7 @@ Federal funds for any demonstration project under this section shall not exceed 
 
 Grants under this section shall not exceed $250,000. In addition, 25 percent of all funds obligated under this section in a fiscal year shall be for grants of not more than $5,000.
 
-(Pub. L. 101 619, §6, Nov. 16, 1990, 104 Stat. 3330.)
+(Pub. L. 101–619, §6, Nov. 16, 1990, 104 Stat. 3330.)
 
 #### Section Referred to in Other Sections
 

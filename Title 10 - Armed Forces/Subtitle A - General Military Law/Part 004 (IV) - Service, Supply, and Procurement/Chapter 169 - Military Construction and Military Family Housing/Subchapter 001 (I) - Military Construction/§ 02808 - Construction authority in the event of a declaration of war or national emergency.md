@@ -14,7 +14,7 @@ The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 97–99, title IX, §903, Dec. 23, 1981, 95 Stat. 1382, which was set out as a note under section 140 \[now 127\] of this title, prior to repeal by Pub. L. 97–214, §7(18).
+Provisions similar to those in this section were contained in Pub. L. 97–99, title IX, §903, Dec. 23, 1981, 95 Stat. 1382, which was set out as a note under section 140 \[now 127\] of this title, prior to repeal by Pub. L. 97–214, §7(18).
 
 #### Effective Date
 

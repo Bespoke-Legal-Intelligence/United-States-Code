@@ -2,7 +2,7 @@
 
 (a) There is established in the Treasury of the United States a Thrift Savings Fund.
 
-(b) The Thrift Savings Fund consists of the sum of all amounts contributed under section 8432 of this title and all amounts deposited under section 8479(b) of this title, increased by the total net earnings from investments of sums in the Thrift Savings Fund or reduced by the total net losses from investments of the ThriftSavings Fund, and reduced by the total amount of payments made from the Thrift Savings Fund (including payments for administrative expenses).
+(b) The Thrift Savings Fund consists of the sum of all amounts contributed under section 8432 of this title and all amounts deposited under section 8479(b) of this title, increased by the total net earnings from investments of sums in the Thrift Savings Fund or reduced by the total net losses from investments of the Thrift Savings Fund, and reduced by the total amount of payments made from the Thrift Savings Fund (including payments for administrative expenses).
 
 (c) The sums in the Thrift Savings Fund are appropriated and shall remain available without fiscal year limitation—
 
@@ -34,11 +34,11 @@
 
 #### Amendments
 
-1994—Subsec. (c)(5). Pub. L. 103–226 substituted “section 8433(g)” for “section 8433(i)”.
+<b>1994</b>—Subsec. (c)(5). Pub. L. 103–226 substituted “section 8433(g)” for “section 8433(i)”.
 
 Subsec. (e)(3). Pub. L. 103–358 substituted “or relating to the enforcement of a judgment for physically, sexually, or emotionally abusing a child as provided under section 8467(a).” for period at end of first sentence.
 
-1988—Subsec. (d). Pub. L. 100–238, §117(a)(1), struck out “attributable to sums contributed to such Fund under section 8432(c) of this title” after “such Fund”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–238, §117(a)(1), struck out “attributable to sums contributed to such Fund under section 8432(c) of this title” after “such Fund”.
 
 Subsec. (e)(1). Pub. L. 100–238, §117(a)(2), inserted “subsection (d) and” after “Subject to”.
 
@@ -48,7 +48,7 @@ Subsec. (e)(3). Pub. L. 100–238, §116, inserted at end “For the purposes of
 
 Amendment by Pub. L. 103–358 effective Oct. 14, 1994, and applicable with respect to any decree, order, or other legal process, or notice of agreement received by Office of Personnel Management or Executive Director of Federal Retirement Thrift Investment Board on or after Oct. 14, 1994, see section 3 of Pub. L. 103–358, set out as a note under section 8345 of this title.
 
-Amendment by Pub. L. 103–226 effective 1 year after Mar. 30, 1994, or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub. L. 103–226, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1988 Amendment
 

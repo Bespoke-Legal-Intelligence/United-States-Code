@@ -12,7 +12,7 @@
 
 (c) Within the limits of those facilities of the Veterans Memorial Medical Center at Manila, Republic of the Philippines, for which the Secretary may contract, the Secretary may furnish necessary hospital care to a veteran for any non-service-connected disability if such veteran is unable to defray the expenses of necessary hospital care. The Secretary may enter into contracts to carry out this section.
 
-(d) The Secretary may furnish nursing home care, on the same terms and conditions set forth in section 1720(a) of this title, to any veteran who has been furnished hospital care in thePhilippines pursuant to this section, but who requires a protracted period of nursing home care.
+(d) The Secretary may furnish nursing home care, on the same terms and conditions set forth in section 1720(a) of this title, to any veteran who has been furnished hospital care in the Philippines pursuant to this section, but who requires a protracted period of nursing home care.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §624; Pub. L. 86–152, Aug. 11, 1959, 73 Stat. 332; Pub. L. 86–624, §25(a), July 12, 1960, 74 Stat. 418; Pub. L. 87–815, §4, Oct. 15, 1962, 76 Stat. 927; Pub. L. 93–82, title I, §108, Aug. 2, 1973, 87 Stat. 186; Pub. L. 94–581, title II, §§202(<i>l</i>), 210(a)(11), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 95–520, §3(a), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(a), Nov. 3, 1981, 95 Stat. 1051; Pub. L. 97–295, §4(20), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 100–322, title I, §105, May 20, 1988, 102 Stat. 493; renumbered §1724 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 

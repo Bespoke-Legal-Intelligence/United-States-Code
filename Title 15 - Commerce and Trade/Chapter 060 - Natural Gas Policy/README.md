@@ -119,7 +119,7 @@
 | (a) | Administrative Procedure Act. |
 | (b) | Opportunity for oral presentations. |
 | (c) | Adjustments. |
-| [3413\.](Subchapter%20005%20%28V%29%20-%20Administration%2C%20Enforcement%2C%20and%20Review/%C2%A7%2003413%20-%20Repealed.%20Pub.%20L.%20101%2060%2C%20%C2%A73%28b%29%285%29%2C%20July%2026%2C%201989%2C%20103%20Stat.%20159.md) | Repealed. |
+| [3413\.](Subchapter%20005%20%28V%29%20-%20Administration%2C%20Enforcement%2C%20and%20Review/%C2%A7%2003413%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9360%2C%20%C2%A73%28b%29%285%29%2C%20July%2026%2C%201989%2C%20103%20Stat.%20159.md) | Repealed. |
 | [3414\.](Subchapter%20005%20%28V%29%20-%20Administration%2C%20Enforcement%2C%20and%20Review/%C2%A7%2003414%20-%20Enforcement.md) | Enforcement. |
 | (a) | General rule. |
 | (b) | Civil enforcement. |
@@ -131,7 +131,7 @@
 | (a) | Orders. |
 | (b) | Review of rules and orders. |
 | (c) | Judicial review of emergency orders. |
-| [3417\.](Subchapter%20005%20%28V%29%20-%20Administration%2C%20Enforcement%2C%20and%20Review/%C2%A7%2003417%20-%20Repealed.%20Pub.%20L.%20101%2060%2C%20%C2%A73%28a%29%286%29%2C%20July%2026%2C%201989%2C%20103%20Stat.%20158.md) | Repealed. |
+| [3417\.](Subchapter%20005%20%28V%29%20-%20Administration%2C%20Enforcement%2C%20and%20Review/%C2%A7%2003417%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9360%2C%20%C2%A73%28a%29%286%29%2C%20July%2026%2C%201989%2C%20103%20Stat.%20158.md) | Repealed. |
 | [3418\.](Subchapter%20005%20%28V%29%20-%20Administration%2C%20Enforcement%2C%20and%20Review/%C2%A7%2003418%20-%20Applicability%20of%20other%20Federal%20statutory%20provisions%20relating%20to%20information-gathering.md) | Applicability of other Federal statutory provisions relating to information-gathering. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

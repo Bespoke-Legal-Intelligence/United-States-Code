@@ -38,5 +38,5 @@ The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub
 
 #### Codification
 
-Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of theFederal Power Act which generally comprises this chapter.
+Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
 

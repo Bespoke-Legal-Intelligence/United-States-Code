@@ -2,7 +2,7 @@
 
 #### (a) National Education Goals Panel
 
-There are authorized to be appropriated $3,000,000 for fiscal year 1994, and such sums as may be necessary for each of the four succeeding fiscal years, to carry out part A of this subchapter.
+There are authorized to be appropriated $3,000,000 for fiscal year 1994, and such sums asmay be necessary for each of the four succeeding fiscal years, to carry out part A of this subchapter.
 
 #### (b) National Education Standards and Improvement Council
 
@@ -16,7 +16,7 @@ There are authorized to be appropriated $2,000,000 for fiscal year 1994, and suc
 
 There are authorized to be appropriated $5,000,000 for fiscal year 1994, and such sums as may be necessary for each of the 4 succeeding fiscal years, to carry out section 5850 of this title.
 
-(Pub. L. 103 227, title II, §241, Mar. 31, 1994, 108 Stat. 156.)
+(Pub. L. 103–227, title II, §241, Mar. 31, 1994, 108 Stat. 156.)
 
 #### Section Referred to in Other Sections
 

@@ -18,3 +18,7 @@ Sections 4 and 29 of the Federal Fire Prevention and Control Act of 1974, referr
 
 Section 4(c) of Pub. L. 101–391 provided that: “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2224(b)\] (as added by section 3 of this Act).”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 sections 5608, 5709.
+

@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (a) “Commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States or between any State and any place outside thereof.
 
-(b) “State” includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
+(b) “State” includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam,Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
 (c) “Industry affecting commerce” means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry “affecting commerce” within the meaning of the Labor Management Relations Act, 1947, as amended \[29 U.S.C. 141 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\].
 
@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 (j) A labor organization shall be deemed to be engaged in an industry affecting commerce if it—
 
-&emsp;(1) is the certified representative of employees under the provisions of the National LaborRelations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
+&emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
 &emsp;(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as the representative of employees of an employer or employers engaged in an industry affecting commerce; or
 

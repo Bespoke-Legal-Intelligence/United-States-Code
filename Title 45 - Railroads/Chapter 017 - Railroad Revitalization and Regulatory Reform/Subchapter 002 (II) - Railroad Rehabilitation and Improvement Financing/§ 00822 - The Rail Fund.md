@@ -44,7 +44,7 @@ There shall be deposited in the Fund, subject to utilization pursuant to subsect
 
 &emsp;(3) funds received by the Secretary for deposit in the Fund, representing the proceeds from the issuance and sale of Fund bonds, as provided in section 828 of this title;
 
-&emsp;(4) redeemable preference shares issued by a railroad and purchased by the Secretary on behalf of the Fund and funds received by the Fund representing dividends and redemption payments on such shares, as provided in sections 825(d) and 826(a) and (b) of this title;
+&emsp;(4) redeemable preference shares issued by a railroad and purchased by the Secretary on behalf of the Fund and funds received by the Fund representing dividends and redemptionpayments on such shares, as provided in sections 825(d) and 826(a) and (b) of this title;
 
 &emsp;(5) income and gains realized by the Fund from any investment of excess funds, pursuant to subsection (g) of this section, and the obligations or securities comprising such investments;
 
@@ -104,11 +104,11 @@ Statement of Purpose.—It is the purpose of this section to facilitate and enco
 
 “(b)
 
-Authorization.—There is authorized to be appropriated, for deposit in the Railroad Rehabilitation and Improvement Fund established under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822), not more than $100,000,000. The money appropriated to the Railroad Rehabilitation and Improvement Fund pursuant to this subsection shall be expended by the Secretary of Transportation, in the same manner as other money in such Fund, to providefinancial assistance to railroads for maintenance, rehabilitation, improvement, and acquisition of equipment and facilities which will be used for the rail transportation of coal to regions or States which can use coal in greater quantities (whether or not such equipment or facilities were designed specifically for such purpose).”
+Authorization.—There is authorized to be appropriated, for deposit in the Railroad Rehabilitation and Improvement Fund established under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822), not more than $100,000,000. The money appropriated to the Railroad Rehabilitation and Improvement Fund pursuant to this subsection shall be expended by the Secretary of Transportation, in the same manner as other money in such Fund, to provide financial assistance to railroads for maintenance, rehabilitation, improvement, and acquisition of equipment and facilities which will be used for the rail transportation of coal to regions or States which can use coal in greater quantities (whether or not such equipment or facilities were designed specifically for such purpose).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 821, 828 of this title; title 49 section 308.
+This section is referred to in sections 821, 828 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “extent”.</i>
 

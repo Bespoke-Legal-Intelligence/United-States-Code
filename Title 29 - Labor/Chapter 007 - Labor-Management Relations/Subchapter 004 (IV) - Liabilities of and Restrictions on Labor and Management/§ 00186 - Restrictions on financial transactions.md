@@ -16,7 +16,7 @@ It shall be unlawful for any employer or association of employers or any person 
 
 (1) It shall be unlawful for any person to request, demand, receive, or accept, or agree to receive or accept, any payment, loan, or delivery of any money or other thing of value prohibited by subsection (a) of this section.
 
-(2) It shall be unlawful for any labor organization, or for any person acting as an officer, agent, representative, or employee of such labor organization, to demand or accept from the operator of any motor vehicle (as defined in section 10102 of title 49) employed in the transportation of property in commerce, or the employer of any such operator, any money or other thing of value payable to such organization or to an officer, agent, representative or employee thereof as a fee or charge for the unloading, or in connection with the unloading, of the cargo of such vehicle: <i>Provided</i>, That nothing in this paragraph shall be construed to make unlawful any payment by an employer to any of his employees as compensation for their services as employees.
+(2) It shall be unlawful for any labor organization, or for any person acting as an officer, agent, representative, or employee of such labor organization, to demand or accept from the operator of any motor vehicle (as defined in section 13102 of title 49) employed in the transportation of property in commerce, or the employer of any such operator, any money or other thing of value payable to such organization or to an officer, agent, representative or employee thereof as a fee or charge for the unloading, or in connection with the unloading, of the cargo of such vehicle: <i>Provided</i>, That nothing in this paragraph shall be construed to make unlawful any payment by an employer to any of his employees as compensation for their services as employees.
 
 #### (c) Exceptions
 
@@ -40,7 +40,7 @@ This section shall not apply to any contract in force on June 23, 1947, until th
 
 Compliance with the restrictions contained in subsection (c)(5)(B) of this section upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946, nor shall subsection (c)(5)(A) of this section be construed as prohibiting contributions to such trust funds if prior to January 1, 1947, such funds contained provisions for pooled vacation benefits.
 
-(June 23, 1947, ch. 120, title III, §302, 61 Stat. 157; Sept. 14, 1959, Pub. L. 86–257, title V, §505, 73 Stat. 537; Oct. 14, 1969, Pub. L. 91–86, 83 Stat. 133; Aug. 15, 1973, Pub. L. 93–95, 87 Stat. 314; Oct. 27, 1978, Pub. L. 95–524, §6(d), 92 Stat. 2021; Oct. 12, 1984, Pub. L. 98–473, title II, §801, 98 Stat. 2131; Apr. 18, 1990, Pub. L. 101–273, §1, 104 Stat. 138.)
+(June 23, 1947, ch. 120, title III, §302, 61 Stat. 157; Sept. 14, 1959, Pub. L. 86–257, title V, §505, 73 Stat. 537; Oct. 14, 1969, Pub. L. 91–86, 83 Stat. 133; Aug. 15, 1973, Pub. L. 93–95, 87 Stat. 314; Oct. 27, 1978, Pub. L. 95–524, §6(d), 92 Stat. 2021; Oct. 12, 1984, Pub. L. 98–473, title II, §801, 98 Stat. 2131; Apr. 18, 1990, Pub. L. 101–273, §1, 104 Stat. 138; Dec. 29, 1995, Pub. L. 104–88, title III, §337, 109 Stat. 954.)
 
 #### References in Text
 
@@ -52,11 +52,9 @@ Section 381 of title 28, referred to in subsec. (e), was omitted from the revisi
 
 Chapter 6 (§101 et seq.) of this title, referred to in subsec. (e), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
 
-#### Codification
-
-In subsec. (b)(2), “section 10102 of title 49” substituted for “part II of the Interstate Commerce Act \[49 U.S.C. 301 et seq.\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
-
 #### Amendments
+
+1995—Subsec. (b)(2). Pub. L. 104–88 substituted “(as defined in section 13102 of title 49)” for “(as defined in part II of the Interstate Commerce Act)”.
 
 1990—Subsec. (c)(7)(C). Pub. L. 101–273 added subcl. (C).
 
@@ -73,6 +71,10 @@ In subsec. (b)(2), “section 10102 of title 49” substituted for “part II of
 Subsec. (b). Pub. L. 86–257 amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “It shall be unlawful for any representative of any employees who are employed in an industry affecting commerce to receive or accept, or to agree to receive or accept, from the employer of such employees any money or other thing of value.”
 
 Subsec. (c). Pub. L. 86–257 substituted “in respect to any money or other thing of value payable by an employer to any of his employees whose established duties include acting openly for such employer in matters of labor relations or personnel administration or to any representative of his employees, or to any officer or employee of a labor organization, who is also an employee or former employee of such employer, as compensation for, or by reason of, his service as an employee of such employer” for “with respect to any money or other thing of value payable by an employer to any representative who is an employee or former employee of such employer, as compensation for, or by reason of, his services as an employee of such employer” in cl. (1), and added cl. (6).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Applicability to Collective Bargaining Agreements
 

@@ -30,7 +30,7 @@
 
 &emsp;(D) on the basis of consultation with the appropriate accreditation body or bodies approved for such purpose by the Secretary of Education, there is reasonable assurance that, with the aid of an agreement under subsection (a) of this section, such school will meet the accreditation standards of such body or bodies within a reasonable time.
 
-(2) Any agreement entered into by the Secretary under this subchapter shall contain such terms and conditions (in addition to those imposed pursuant to section 8201(e) of this title and subsection (b)(1) of this section) as the Secretary deems necessary and appropriate to protect the interest of the United States.
+(2) Any agreement entered into by the Secretary under this subchapter shall contain suchterms and conditions (in addition to those imposed pursuant to section 8201(e) of this title and subsection (b)(1) of this section) as the Secretary deems necessary and appropriate to protect the interest of the United States.
 
 (c) If the Secretary, in accordance with such regulations as the Secretary shall prescribe, determines that any school established with assistance under this chapter—
 

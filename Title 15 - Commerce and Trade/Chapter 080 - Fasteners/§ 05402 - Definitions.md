@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(C) by machining;
 
-&emsp;(2) “consensus standards organization” means the American Society for Testing and Materials, American National Standards Institute, American Society of Mechanical Engineers, Society of Automotive Engineers, or any other standard-setting organization determined by the Secretary to have comparable knowledge, expertise, and concern for health and safety in the field for which such organization purports to set standards;
+&emsp;(2) “consensus standards organization” means the American Society for Testing andMaterials, American National Standards Institute, American Society of Mechanical Engineers, Society of Automotive Engineers, or any other standard-setting organization determined by the Secretary to have comparable knowledge, expertise, and concern for health and safety in the field for which such organization purports to set standards;
 
 &emsp;(3) “container” means any package of fasteners traded in commerce;
 
@@ -54,7 +54,7 @@ As used in this chapter, the term—
 
 &emsp;(15) “through-harden” means heating above the transformation temperature followed by quenching and tempering.
 
-(Pub. L. 101 592, §3, Nov. 16, 1990, 104 Stat. 2944.)
+(Pub. L. 101–592, §3, Nov. 16, 1990, 104 Stat. 2944.)
 
 #### Section Referred to in Other Sections
 

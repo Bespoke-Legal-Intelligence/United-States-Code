@@ -72,7 +72,7 @@ Sections 181 to 188 of title 46, Appendix, referred to in subsec. (a)(4), was in
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–587, §2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “
+1992—Subsec. (a)(1). Pub. L. 102–587, §2110(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “
 
 In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
 

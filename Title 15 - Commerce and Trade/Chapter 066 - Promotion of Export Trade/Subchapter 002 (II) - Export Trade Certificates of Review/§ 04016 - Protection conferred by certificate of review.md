@@ -2,7 +2,7 @@
 
 #### (a) Protection from civil or criminal antitrust actions
 
-Except as provided in subsection (b) of this section, no criminal or civil action may bebrought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under section 4013 of this title which certificate was in effect when the conduct occurred.
+Except as provided in subsection (b) of this section, no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under section 4013 of this title which certificate was in effect when the conduct occurred.
 
 #### (b) Special restraint of trade civil actions; time limitations; certificate governed conduct presumed in compliance; award of costs to successful defendant; suit by Attorney General
 
@@ -16,9 +16,9 @@ Except as provided in subsection (b) of this section, no criminal or civil actio
 
 (5) The Attorney General may file suit pursuant to section 25 of this title to enjoin conduct threatening clear and irreparable harm to the national interest.
 
-(Pub. L. 97 290, title III, §306, Oct. 8, 1982, 96 Stat. 1243.)
+(Pub. L. 97–290, title III, §306, Oct. 8, 1982, 96 Stat. 1243.)
 
 #### Effective Date
 
-Section effective Oct. 8, 1982, see section 312 of Pub. L. 97 290, set out as a note under section 4011 of this title.
+Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 

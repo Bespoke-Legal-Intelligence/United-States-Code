@@ -1,4 +1,4 @@
-### §393 . Filing of pleadings, motions, depositions, appendixes, briefs, and other papers
+### §393. Filing of pleadings, motions, depositions, appendixes, briefs, and other papers
 
 (a) Filings of pleadings, motions, depositions, appendixes, briefs, and other papers shall be accomplished by:
 
@@ -6,7 +6,7 @@
 
 &emsp;(2) mailing a copy thereof, by registered or certified mail, addressed to the Clerk at the House of Representatives, Washington, District of Columbia: <i>Provided,</i> That if such copy is not actually received, another copy shall be filed within a reasonable time; and
 
-&emsp;(3) delivering or mailing, simultaneously with the delivery or mailing of a copy thereofunder paragraphs (1) and (2) of this subsection, such additional copies as the committee may by rule prescribe.
+&emsp;(3) delivering or mailing, simultaneously with the delivery or mailing of a copy thereof under paragraphs (1) and (2) of this subsection, such additional copies as the committee may by rule prescribe.
 
 (b) All papers filed with the Clerk pursuant to this chapter shall be promptly transmitted by him to the committee.
 

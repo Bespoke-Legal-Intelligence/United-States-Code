@@ -8,7 +8,7 @@ The standard time of the first zone shall be known and designated as Atlantic st
 
 1983—Pub. L. 98–181 substituted “Alaska” for “Yukon”, “Hawaii-Aleutian” for “Alaska-Hawaii”, and “Samoa” for “Bering”.
 
-1966—Pub. L. 89–387 added Atlantic standard time as first zone designation; redesignated as eastern standard time, central standard time, mountain standard time and Pacific standard time for second through fifth zones former designation of United States standard eastern time, United States standard central time, United States standard mountain time and UnitedStates standard Pacific time for former zones one through four; added Yukon standard time as sixth zone designation; redesignated as Alaska-Hawaii standard time for seventh zone former designation of United States standard Alaska time for fifth zone; and added Bering standard time as eighth zone designation.
+1966—Pub. L. 89–387 added Atlantic standard time as first zone designation; redesignated as eastern standard time, central standard time, mountain standard time and Pacific standard time for second through fifth zones former designation of United States standard eastern time, United States standard central time, United States standard mountain time and United States standard Pacific time for former zones one through four; added Yukon standard time as sixth zone designation; redesignated as Alaska-Hawaii standard time for seventh zone former designation of United States standard Alaska time for fifth zone; and added Bering standard time as eighth zone designation.
 
 #### Conforming Changes in Time Zone Designations
 

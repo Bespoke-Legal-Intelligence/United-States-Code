@@ -32,11 +32,11 @@
 
 > Such procedures shall require that any person permitted access to the information shall be instructed in writing not to disclose the information to anyone who is not entitled to have access to the information.
 
-(Pub. L. 99 252, §4, Feb. 27, 1986, 100 Stat. 32.)
+(Pub. L. 99–252, §4, Feb. 27, 1986, 100 Stat. 32.)
 
 #### Effective Date
 
-Subsec. (a) effective one year after Feb. 27, 1986, and subsec. (b) effective Feb. 27, 1986, see section 11 of Pub. L. 99 252, set out as a note under section 4401 of this title.
+Subsec. (a) effective one year after Feb. 27, 1986, and subsec. (b) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -136,7 +136,7 @@ Subsec. (a)(1)(B), (C). Pub. L. 101–510, §806(d)(1), substituted “the small
 
 Subsec. (a)(1)(B), (C). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[title X, §922(b)(2), (3)\], and Pub. L. 99–661, §922(b)(2), (3), amended par. (1) identically, adding subpar. (B) and redesignating former subpar. (B) as (C).
 
-Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[title X, §922(d)(2)\], and Pub. L. 99–661, §922(d)(2), amended subsec. (b) identically, substituting “subparagraph (A) or (B) of subsection (a)(1)” for “subsection (a)(1)(A)”.
+Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[title X, §922(d)(2)\], and Pub. L. 99–661, §922(d)(2),amended subsec. (b) identically, substituting “subparagraph (A) or (B) of subsection (a)(1)” for “subsection (a)(1)(A)”.
 
 1984—Subsec. (a)(1)(A). Pub. L. 98–577 designated existing provisions as cl. (i) and added cl. (ii).
 

@@ -10,7 +10,7 @@ A negotiated rulemaking committee established pursuant to section 565 of title 5
 
 #### (c) Adaptation of procedures
 
-The Secretary shall adapt the negotiated rulemaking procedures to the unique context of Self-Governance and the government-to-government relationship between the United States and the Indian tribes.
+The Secretary shall adapt the negotiated rulemaking procedures to the unique context ofSelf-Governance and the government-to-government relationship between the United States and the Indian tribes.
 
 #### (d) Effect
 

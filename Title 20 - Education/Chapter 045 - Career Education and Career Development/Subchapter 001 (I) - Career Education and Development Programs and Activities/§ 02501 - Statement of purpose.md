@@ -14,15 +14,15 @@ It is the purpose of this subchapter to provide Federal assistance to States to 
 
 &emsp;(6) developing State and local plans for implementing programs designed to ensure that every person has the opportunity to gain the knowledge and skills necessary for gainful or maximum employment and for full participation in our society according to his or her ability.
 
-(Pub. L. 94 482, title III, §331, Oct. 12, 1976, 90 Stat. 2221.)
+(Pub. L. 94–482, title III, §331, Oct. 12, 1976, 90 Stat. 2221.)
 
 #### Effective Date
 
-Chapter effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94 482, set out as an Effective Date of 1976 Amendment note under section 1001 of this title.
+Chapter effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under section 1001 of this title.
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95 270, Apr. 27, 1978, 92 Stat. 220, which enacted sections 2566 to 2569 of this title, is known as the Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 2566 of this title and Tables.
+Pub. L. 95–270, Apr. 27, 1978, 92 Stat. 220, which enacted sections 2566 to 2569 of this title, is known as the Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 2566 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

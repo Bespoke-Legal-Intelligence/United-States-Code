@@ -1,6 +1,6 @@
 ### §1204. Program authorized
 
-Funds<sup>1</sup> set aside under section 1203a(b)(1) of this title by a State shall be used for the cost of educational programs for criminal offenders in corrections institutions and for other institutionalized individuals, including—
+Funds <sup>1</sup> set aside under section 1203a(b)(1) of this title by a State shall be used for the cost of educational programs for criminal offenders in corrections institutions and for other institutionalized individuals, including—
 
 &emsp;(1) academic programs for—
 
@@ -42,9 +42,9 @@ Funds<sup>1</sup> set aside under section 1203a(b)(1) of this title by a State s
 
 &emsp;&emsp;(F) halfway house, community-based rehabilitation center, or any other similar institution designed for the confinement or rehabilitation of criminal offenders.
 
-(Pub. L. 89 750, title III, §326, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 306.)
+(Pub. L. 89–750, title III, §326, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 306.)
 
 #### Prior Provisions
 
-A prior section 1204, Pub. L. 89 750, title III, §305, Nov. 3, 1966, 80 Stat. 1217; Pub. L. 90 247, title V, §501, Jan. 2, 1968, 81 Stat. 815; Pub. L. 91 230, title III, §301, Apr. 13, 1970, 84 Stat. 160; Pub. L. 91 600, §3(a), Dec. 30, 1970, 84 Stat. 1669; Pub. L. 93 380, title VIII, §843(c)(2), (3), Aug. 21, 1974, 88 Stat. 611; Pub. L. 95 561, title XIII, §1304(b), Nov. 1, 1978, 92 Stat. 2357; Pub. L. 98 511, title I, §§102(f)(1), 104, Oct. 19, 1984, 98 Stat. 2366, 2367, related to allotment of grant funds, prior to the general revision of this chapter by Pub. L. 100 297.
+A prior section 1204, Pub. L. 89–750, title III, §305, Nov. 3, 1966, 80 Stat. 1217; Pub. L. 90–247, title V, §501, Jan. 2, 1968, 81 Stat. 815; Pub. L. 91–230, title III, §301, Apr. 13, 1970, 84 Stat. 160; Pub. L. 91–600, §3(a), Dec. 30, 1970, 84 Stat. 1669; Pub. L. 93–380, title VIII, §843(c)(2), (3), Aug. 21, 1974, 88 Stat. 611; Pub. L. 95–561, title XIII, §1304(b), Nov. 1, 1978, 92 Stat. 2357; Pub. L. 98–511, title I, §§102(f)(1), 104, Oct. 19, 1984, 98 Stat. 2366, 2367, related to allotment of grant funds, prior to the general revision of this chapter by Pub. L. 100–297.
 

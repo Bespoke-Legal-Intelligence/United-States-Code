@@ -26,6 +26,10 @@ Limitation on amount of credit.—The credit received by a State pursuant to thi
 
 (c)
 
+Credit for Donations of Funds, Materials, or Services.—Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the project by the State highway department shall be credited against the State share.
+
+(d)
+
 Procedures.—A gift or donation in accordance with subsection (a) may be made at any time during the development of a project. Any document executed as part of such donation prior to the approval of an environmental document prepared pursuant to the National Environmental Policy Act of 1969 shall clearly indicate that—
 
 &emsp;(1) all alternatives to a proposed alignment will be studied and considered pursuant to such Act;
@@ -34,15 +38,17 @@ Procedures.—A gift or donation in accordance with subsection (a) may be made a
 
 &emsp;(3) any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
 
-(Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179.)
+(Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, §322, Nov. 28, 1995, 109 Stat. 591.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+1995—Subsecs. (c), (d). Pub. L. 104–59 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1987—Pub. L. 100–17 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 

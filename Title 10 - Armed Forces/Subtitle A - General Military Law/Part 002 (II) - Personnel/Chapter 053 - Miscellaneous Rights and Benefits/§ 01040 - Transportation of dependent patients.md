@@ -14,7 +14,7 @@
 
 Another section 1040 was renumbered section 1041 of this title.
 
-Another section 1040, related to free postage from combat zones, was added by Pub. L. 89–132, §9(a), Aug.21, 1965, 79 Stat. 548, prior to repeal by Pub. L. 89–315, §3(a), Nov. 1, 1965, 79 Stat. 1164. See section 3401 et seq. of Title 39, Postal Service.
+Another section 1040, related to free postage from combat zones, was added by Pub. L. 89–132, §9(a), Aug. 21, 1965, 79 Stat. 548, prior to repeal by Pub. L. 89–315, §3(a), Nov. 1, 1965, 79 Stat. 1164. See section 3401 et seq. of Title 39, Postal Service.
 
 #### Amendments
 

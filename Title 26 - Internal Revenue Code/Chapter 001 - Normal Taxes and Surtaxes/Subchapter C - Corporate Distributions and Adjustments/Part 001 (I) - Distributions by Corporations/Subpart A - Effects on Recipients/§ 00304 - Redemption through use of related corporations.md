@@ -252,7 +252,7 @@ Designated date.—For purposes of this subparagraph, the term ‘designated dat
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -264,7 +264,7 @@ In general.—Except as otherwise provided in this paragraph, the amendments mad
 
 “(B)
 
-Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
+Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury orhis delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
 
 “(C)
 

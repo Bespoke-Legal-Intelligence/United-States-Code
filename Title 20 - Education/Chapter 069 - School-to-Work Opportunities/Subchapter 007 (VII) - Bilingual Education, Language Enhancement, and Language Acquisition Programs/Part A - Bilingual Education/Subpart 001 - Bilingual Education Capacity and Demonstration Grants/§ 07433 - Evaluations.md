@@ -26,7 +26,7 @@ Evaluations shall include—
 
 &emsp;(4) such other information as the Secretary may require.
 
-(Pub. L. 89 10, title VII, §7123, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3728.)
+(Pub. L. 89–10, title VII, §7123, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3728.)
 
 #### Section Referred to in Other Sections
 

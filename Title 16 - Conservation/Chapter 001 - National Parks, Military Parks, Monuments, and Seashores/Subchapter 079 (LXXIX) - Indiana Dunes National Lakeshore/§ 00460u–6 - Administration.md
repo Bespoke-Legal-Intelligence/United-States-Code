@@ -1,4 +1,4 @@
-### §460u–6 . Administration
+### §460u–6. Administration
 
 #### (a) Utilization of authorities for conservation and management of natural resources
 

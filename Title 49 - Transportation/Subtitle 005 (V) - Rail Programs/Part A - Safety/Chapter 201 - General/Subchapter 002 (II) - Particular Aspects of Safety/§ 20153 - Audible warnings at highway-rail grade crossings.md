@@ -12,7 +12,7 @@ Definitions.—As used in this section—
 
 (b)
 
-Requirement.—The Secretary of Transportation shall prescribe regulations requiring that a locomotive horn shall be sounded while each train is approaching and entering upon each public highway-rail grade crossing.
+Requirement.—The Secretary of Transportation shall prescribe regulations requiring thata locomotive horn shall be sounded while each train is approaching and entering upon each public highway-rail grade crossing.
 
 (c)
 
@@ -32,7 +32,7 @@ Application for Waiver or Exemption.—Notwithstanding any other provision of th
 
 (e)
 
-Development of Supplementary Safety Measures.—(1) In order to promote the quiet ofcommunities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
+Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
 
 (2) The Secretary may include in regulations issued under this subsection special procedures for approval of new supplementary safety measures meeting the requirements of subsection (c)(1) of this section following successful demonstration of those measures.
 

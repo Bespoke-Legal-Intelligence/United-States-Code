@@ -90,7 +90,7 @@ For purposes of this chapter:
 
 #### (10) Employment activities
 
-&emsp;The term “employment activities” means such priority area activities as will increasethe independence, productivity, and integration and inclusion into the community of individuals with developmental disabilities in work settings.
+&emsp;The term “employment activities” means such priority area activities as will increase the independence, productivity, and integration and inclusion into the community of individuals with developmental disabilities in work settings.
 
 #### (11) Family support service
 
@@ -102,7 +102,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) reunite families with members who have been placed out of the home, whenever possible.
 
-> &emsp;Such term includes respite care, rehabilitation technology, personal assistance services, parent training and counseling, support for elderly parents, vehicular and home modifications, and assistance with extraordinary expenses associated with the needs of individuals with developmental disabilities.
+> &emsp;Such term includes respite care, rehabilitation technology, personal assistance services, parent training and counseling, support for elderly parents, vehicular and home modifications,and assistance with extraordinary expenses associated with the needs of individuals with developmental disabilities.
 
 #### (12) Federal priority areas
 
@@ -244,7 +244,7 @@ A prior section 6001, Pub. L. 88–164, title I, §102, as added Pub. L. 94–10
 
 #### Amendments
 
-1994—Pub. L. 103–230 amended section generally, alphabetizing entries, adding provisions defining “American Indian Consortium”, “culturally competent”, “integration and inclusion”, “other organizations”, “personal assistance services”, “rehabilitation technology”, “service coordination activities”, “State Developmental Disabilities Council”, and “unserved andunderserved”, and striking out provisions defining “assistive technology”, “case management activities”, “construction”, “integration”, “priority area activities”, “satellite center”, “State Planning Council”, and “title”.
+1994—Pub. L. 103–230 amended section generally, alphabetizing entries, adding provisions defining “American Indian Consortium”, “culturally competent”, “integration and inclusion”, “other organizations”, “personal assistance services”, “rehabilitation technology”, “service coordination activities”, “State Developmental Disabilities Council”, and “unserved and underserved”, and striking out provisions defining “assistive technology”, “case management activities”, “construction”, “integration”, “priority area activities”, “satellite center”, “State Planning Council”, and “title”.
 
 1990—Par. (5). Pub. L. 101–496, §4(1), inserted “5 years of age or older” after “of a person” in introductory provision, substituted semicolon for period at end of subpar. (E), and inserted provision at end relating to exception for infants and young children.
 
@@ -252,7 +252,7 @@ Par. (8)(A). Pub. L. 101–496, §4(2), (3), struck out “and” at end of cl. 
 
 Par. (8)(B). Pub. L. 101–496, §4(2), (4), struck out “or in home-like settings” after “homes” and substituted “citizens without disabilities” for “nondisabled citizens”.
 
-Par. (9). Pub. L. 101–496, §4(5), which directed the substitution of “special adaptation of generic services or specialized services” for “specialized services or special adaptation of generic services”, was executed by making the substitution for “specialized services or special adaptations of generic services” wherever appearing in subpars. (A) to (E) to reflect the probable intent of Congress.
+Par. (9). Pub. L. 101–496, §4(5), which directed the substitution of “special adaptation of generic services or specialized services” for “specialized services or specialadaptation of generic services”, was executed by making the substitution for “specialized services or special adaptations of generic services” wherever appearing in subpars. (A) to (E) to reflect the probable intent of Congress.
 
 Par. (9)(B)(iv). Pub. L. 101–496, §4(6), substituted “approaches, strategies” for “models” and inserted “Federal, State and local” before “policymakers”.
 

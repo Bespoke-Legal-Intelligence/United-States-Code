@@ -44,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
 
 Subsec. (a)(3), (4). Pub. L. 103–226, §2(a)(2)(A)(ii)–(iv), added par. (3) and redesignated former par. (3) as (4).
 
@@ -54,7 +54,7 @@ Subsec. (b)(2). Pub. L. 103–226, §2(a)(2)(B)(ii), (iii), redesignated par. (3
 
 Subsec. (b)(3). Pub. L. 103–226, §2(a)(2)(B)(ii), redesignated par. (3) as (2).
 
-1978—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 99–424, Sept. 30, 1986, 100 Stat. 964, as amended by Pub. L. 101–87,
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of cl. (1) of this section and certain other provisions of this chapter, and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301 set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of cl. (1) of this section and certain other provisions of this chapter, and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Ex. Ord. No. 11348. Further Training of Government Employees
 

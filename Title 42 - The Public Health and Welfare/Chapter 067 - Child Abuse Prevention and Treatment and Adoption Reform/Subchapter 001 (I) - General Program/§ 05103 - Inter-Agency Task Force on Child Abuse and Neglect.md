@@ -38,7 +38,7 @@ The task force shall report not less than twice annually to the Center and the B
 
 #### Amendments
 
-1988—Pub. L. 100–294 amended section generally, substituting provisions relating to Inter-Agency TaskForce on Child Abuse and Neglect for provisions relating to demonstration programs and projects. See sections 5106 to 5106d of this title.
+1988—Pub. L. 100–294 amended section generally, substituting provisions relating to Inter-Agency Task Force on Child Abuse and Neglect for provisions relating to demonstration programs and projects. See sections 5106 to 5106d of this title.
 
 1987—Subsec. (b)(3)(A)(i). Pub. L. 100–117 inserted “and for a third one-year period if the Secretary makes an additional finding that such State is making substantial progress to achieve such compliance,” before “or” at end.
 

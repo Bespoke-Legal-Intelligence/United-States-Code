@@ -82,7 +82,7 @@ Metropolitan Area Boundaries.—To carry out this section, the metropolitan plan
 
 (e)
 
-Coordination.—(1) The Secretary of Transportation shall establish requirements the Secretary considers appropriate to encourage chiefexecutive officers and metropolitan planning organizations with responsibility for part of a multi-State metropolitan area to provide coordinated transportation planning for the entire area.
+Coordination.—(1) The Secretary of Transportation shall establish requirements the Secretary considers appropriate to encourage chief executive officers and metropolitan planning organizations with responsibility for part of a multi-State metropolitan area to provide coordinated transportation planning for the entire area.
 
 (2) Congress consents to at least 2 States making an agreement, not in conflict with a law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section related to interstate areas and localities in the States and establishing authorities the States consider desirable for making the agreement effective.
 
@@ -124,7 +124,7 @@ Developing Long-Range Plans.—(1) Each metropolitan planning organization shall
 
 (g)
 
-Grants.—Under criteria the Secretary of Transportation establishes, the Secretary may make contracts for, and grants to, States, local governmental authorities, and authorities of the States and governmental authorities, or may make agreements with other departments, agencies, and instrumentalities of the Government, to plan, engineer, design, and evaluate a mass transportation project and for other technical studies, including—
+Grants.—Under criteria the Secretary of Transportation establishes, the Secretary may make contracts for, and grants to, States, localgovernmental authorities, and authorities of the States and governmental authorities, or may make agreements with other departments, agencies, and instrumentalities of the Government, to plan, engineer, design, and evaluate a mass transportation project and for other technical studies, including—
 
 &emsp;(1) studies related to management, operations, capital requirements, and economic feasibility;
 

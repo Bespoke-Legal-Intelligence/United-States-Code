@@ -68,7 +68,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any caseexceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
@@ -194,7 +194,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 > &emsp;by reason of the violation or failure referred to in paragraph (1).
 
-&emsp;(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
+&emsp;(E) A disposition of the proceeding by consent or compromise if such action could haveresulted in a disposition described in subparagraph (A), (B), (C), or (D).
 
 (3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
 
@@ -202,7 +202,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
 
-(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceedthe amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
+(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
 
 (ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
 
@@ -246,7 +246,7 @@ Definitions.—In this section:
 
 Subsection (e)(1)(L) is based on section 2399 of this title as enacted by Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293.
 
-Section 1(f)(2) of the bill would transfer the provisions of existing 10 U.S.C. 2399 to a new subparagraph (L) of 10 U.S.C. 2324(e)(1). The existing section 2399 prohibits the use of appropriated funds to reimburse a defense contractor for insurance against the contractor's costs of correcting defects in the contractor's materials or workmanship. The transfer would add the provision to the list of contractor costs which are not allowable as expenses which may be paid by the Department of Defense under a contract. This allowable cost limitation applies only to contracts for more than $100,000 other than fixed price contracts without cost incentives (see 10 US.C. 2324(k)). The committee determined that it is appropriate to treat the subject matter of section 2399 in the same manner as other provisions relating to allowable costs of defense contractors and notes that section 2324, providing a more comprehensive treatment of allowable costs, was enacted after section 2399. The committee recognizes that contracts for amounts less than $100,000 and fixed price contracts without cost incentives are covered by the existing section 2399 and would not be covered by the provision as transferred. The committee determined that in practice the existing section 2399 would not have significant applicability to such contracts and that the transfer is appropriate as part of this bill.
+Section 1(f)(2) of the bill would transfer the provisions of existing 10 U.S.C. 2399 to a new subparagraph (L) of 10 U.S.C. 2324(e)(1). The existing section 2399 prohibits the use of appropriated funds to reimburse a defense contractor for insurance against the contractor's costs of correcting defects in the contractor's materials or workmanship. The transfer would add the provision to the list of contractor costs which are not allowableas expenses which may be paid by the Department of Defense under a contract. This allowable cost limitation applies only to contracts for more than $100,000 other than fixed price contracts without cost incentives (see 10 US.C. 2324(k)). The committee determined that it is appropriate to treat the subject matter of section 2399 in the same manner as other provisions relating to allowable costs of defense contractors and notes that section 2324, providing a more comprehensive treatment of allowable costs, was enacted after section 2399. The committee recognizes that contracts for amounts less than $100,000 and fixed price contracts without cost incentives are covered by the existing section 2399 and would not be covered by the provision as transferred. The committee determined that in practice the existing section 2399 would not have significant applicability to such contracts and that the transfer is appropriate as part of this bill.
 
 Subsection (j) is based on Pub. L. 99–145, title IX, §933, Nov. 8, 1985, 99 Stat. 700.
 
@@ -322,7 +322,7 @@ Subsec. (m). Pub. L. 103–355, §2101(d), struck out subsec. (m) which read as 
 
 1992—Subsec. (a). Pub. L. 102–484, §818(a)(1)(A), redesignated subsec. (a)(1) as entire subsection. Former subsec. (a)(2) redesignated subsec. (b)(1).
 
-Subsec. (b)(1). Pub. L. 102–484, §818(a)(1)(B), redesignated subsec. (a)(2) as subsec. (b)(1), in introductory provisions struck out “by clear and convincing evidence” after “Secretary determines” and substituted “expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs” for “unallowable under paragraph (1)”, and in subpar. (A), substituted “cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “costs”. Former subsec. (b) redesignated subsec. (b)(2).
+Subsec. (b)(1). Pub. L. 102–484, §818(a)(1)(B), redesignated subsec. (a)(2) as subsec. (b)(1), in introductory provisions struck out “by clear and convincing evidence” after “Secretary determines” and substituted “expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs” for “unallowable under paragraph (1)”, and in subpar. (A), substituted “cost allocated tocovered contracts for which a proposal for settlement of indirect costs has been submitted” for “costs”. Former subsec. (b) redesignated subsec. (b)(2).
 
 Subsec. (b)(2). Pub. L. 102–484, §818(a)(2), redesignated subsec. (b) as subsec. (b)(2), struck out “, in addition to the penalty assessed under subsection (a),” after “against the contractor”, and substituted “the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “the amount of such cost”.
 
@@ -408,7 +408,7 @@ Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1992 Amendments
 
@@ -424,7 +424,7 @@ Section 346(b) of Pub. L. 102–190 provided that: “The amendments made by sub
 
 #### Effective Date of 1989 Amendment
 
-Section 311(a)(2) of Pub. L. 101–189 provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (<i>l</i>) of such section \[10 U.S.C. 2324(<i>l</i>)\]) if such termination is the result of theclosing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 311(a)(2) of Pub. L. 101–189 provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (<i>l</i>) of such section \[10 U.S.C. 2324(<i>l</i>)\]) if such termination is the result of the closing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 Section 853(a)(3) of Pub. L. 101–189 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as of November 19, 1988.”
 

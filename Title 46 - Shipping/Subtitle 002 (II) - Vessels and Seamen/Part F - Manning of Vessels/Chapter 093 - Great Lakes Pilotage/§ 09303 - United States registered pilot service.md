@@ -4,7 +4,7 @@
 
 &emsp;(1) have a license as master, mate, or pilot issued under section 7101 of this title;
 
-&emsp;(2) have acquired at least 24 months licensed service or equivalent experience on vessels or integrated towing vessels and tows of at least 4,000 gross tons, operating on the Great Lakes or oceans, with a minimum of 6 months of that service or experience having been on the Great Lakes; and
+&emsp;(2) have acquired at least 24 months licensed service or equivalent experience on vessels or integrated towing vessels and tows of at least 4,000 gross tons, operating on the Great Lakes or oceans, with a minimum of 6 months of thatservice or experience having been on the Great Lakes; and
 
 &emsp;(3) agree that, if appointed as a United States registered pilot, the applicant will be available for service when required.
 

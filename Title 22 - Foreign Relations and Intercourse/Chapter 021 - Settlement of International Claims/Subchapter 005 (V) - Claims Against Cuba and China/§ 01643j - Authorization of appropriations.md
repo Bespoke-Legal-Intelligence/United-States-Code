@@ -1,6 +1,6 @@
 ### §1643j. Authorization of appropriations
 
-There are hereby authorized to be appropriated such sums as may be necessary to enable the Commission to pay its administrative expenses incurred in carrying out its functions under this subchapter.
+There are hereby authorized to be appropriated such sums as may be necessary to enablethe Commission to pay its administrative expenses incurred in carrying out its functions under this subchapter.
 
 (Mar. 10, 1950, ch. 54, title V, §511, as added Oct. 16, 1964, Pub. L. 88–666, 78 Stat. 1113; amended Oct. 19, 1965, Pub. L. 89–262, §5, 79 Stat. 988.)
 

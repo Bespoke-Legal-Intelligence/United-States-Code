@@ -84,7 +84,7 @@
 
 (7)(A) The Federal share of expenditures for programs in a State funded under this subsection shall be paid from a State's allotment under this paragraph.
 
-(B) From the sum appropriated for each fiscal year under subsection (c) of this section for any fiscal year in which appropriations equal or exceed $50,000,000, the Secretary shall allot to each State (as defined in section 1201a(7) of this title) an amount proportionate to the amount such State receives under section 1201b of this title.
+(B) From the sum appropriated for each fiscal year under subsection (c) of this section for anyfiscal year in which appropriations equal or exceed $50,000,000, the Secretary shall allot to each State (as defined in section 1201a(7) of this title) an amount proportionate to the amount such State receives under section 1201b of this title.
 
 (C) At the end of each fiscal year, the portion of any State's allotment for that fiscal year which—
 
@@ -160,33 +160,33 @@ The Secretary shall reserve not more than 2 percent of any amount appropriated p
 
 (3) Amounts appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 89 750, title III, §371, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 314; amended Pub. L. 102 73, title II, §202, title VIII, §802(b)(1), July 25, 1991, 105 Stat. 342, 361.)
+(Pub. L. 89–750, title III, §371, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 314; amended Pub. L. 102–73, title II, §202, title VIII, §802(b)(1), July 25, 1991, 105 Stat. 342, 361.)
 
 #### References in Text
 
-Section 306(a), referred to in subsec. (b)(3)(B), probably means section 306(a) of Pub. L. 89 750, title III, Nov. 3, 1966, 80 Stat. 1218, as amended, which was classified to section 1205 of this title prior to the general revision of this chapter by Pub. L. 100 297. See sections 1206 to 1206b of this title.
+Section 306(a), referred to in subsec. (b)(3)(B), probably means section 306(a) of Pub. L. 89–750, title III,Nov. 3, 1966, 80 Stat. 1218, as amended, which was classified to section 1205 of this title prior to the general revision of this chapter by Pub. L. 100–297. See sections 1206 to 1206b of this title.
 
-This Act, referred to in subsecs. (c)(1) and (e)(2), means Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
+This Act, referred to in subsecs. (c)(1) and (e)(2), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1211, Pub. L. 89 750, title III, §314, Nov. 3, 1966, 80 Stat. 1222; Pub. L. 90 247, title V, §504, Jan. 2, 1968, 81 Stat. 815; renumbered §312 and amended Pub. L. 91 230, title III, §301, Apr. 13, 1970, 84 Stat. 164; Pub. L. 91 600, §3(b), Dec. 30, 1970, 84 Stat. 1669; renumbered §313 and amended Pub. L. 93 29, title VIII, §804, May 3, 1973, 87 Stat. 59; Pub. L. 93 380, title VI, §608(a), Aug. 21, 1974, 88 Stat. 579; Pub. L. 95 112, §3(b), Sept. 24, 1977, 91 Stat. 912; renumbered §315 and amended Pub. L. 95 561, title XIII, §§1307(a)(3), 1310, Nov. 1, 1978, 92 Stat. 2360, 2361; renumbered §314 and amended Pub. L. 98 511, title I, §§109(a)(2), 112, Oct. 19, 1984, 98 Stat. 2369, authorized appropriations, prior to the general revision of this chapter by Pub. L. 100 297.
+A prior section 1211, Pub. L. 89–750, title III, §314, Nov. 3, 1966, 80 Stat. 1222; Pub. L. 90–247, title V, §504, Jan. 2, 1968, 81 Stat. 815; renumbered §312 and amended Pub. L. 91–230, title III, §301, Apr. 13, 1970, 84 Stat. 164; Pub. L. 91–600, §3(b), Dec. 30, 1970, 84 Stat. 1669; renumbered §313 and amended Pub. L. 93–29, title VIII, §804, May 3, 1973, 87 Stat. 59; Pub. L. 93–380, title VI, §608(a), Aug. 21, 1974, 88 Stat. 579; Pub. L. 95–112, §3(b), Sept. 24, 1977, 91 Stat. 912; renumbered §315 and amended Pub. L. 95–561, title XIII, §§1307(a)(3), 1310, Nov. 1, 1978, 92 Stat. 2360, 2361; renumbered §314 and amended Pub. L. 98–511, title I, §§109(a)(2), 112, Oct. 19, 1984, 98 Stat. 2369, authorized appropriations, prior to the general revision of this chapter by Pub. L. 100–297.
 
-Another prior section 1211, Pub. L. 89 750, title III, §312, Nov. 3, 1966, 80 Stat. 1221, provided for prohibition of Federal control of education (curriculum, program of instruction, administration, personnel, or selection of library resources), and for authorization of the National Advisory Committee on Adult Basic Education to encourage establishment of State and local education advisory committees, prior to the general amendment of this chapter by Pub. L. 91 230.
+Another prior section 1211, Pub. L. 89–750, title III, §312, Nov. 3, 1966, 80 Stat. 1221, provided for prohibition of Federal control of education (curriculum, program of instruction, administration, personnel, or selection of library resources), and for authorization of the National Advisory Committee on Adult Basic Education to encourage establishment of State and local education advisory committees, prior to the general amendment of this chapter by Pub. L. 91–230.
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102 73, §202(1)(A), inserted “, in consultation with the Secretary of Labor and the Administrator of the Small Business Administration,” after “Secretary” in introductory provisions.
+1991—Subsec. (a)(1). Pub. L. 102–73, §202(1)(A), inserted “, in consultation with the Secretary of Labor and the Administrator of the Small Business Administration,” after “Secretary” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 102 73, §202(1)(B), substituted a comma for “and” before “local” and inserted “, and other entities described in paragraph (1) that receive grants under this subsection” after second reference to “agencies”.
+Subsec. (a)(2)(B). Pub. L. 102–73, §202(1)(B), substituted a comma for “and” before “local” and inserted “, and other entities described in paragraph (1) that receive grants under this subsection” after second reference to “agencies”.
 
-Subsec. (a)(5), (6). Pub. L. 102 73, §202(1)(C), added pars. (5) and (6).
+Subsec. (a)(5), (6). Pub. L. 102–73, §202(1)(C), added pars. (5) and (6).
 
-Subsec. (b)(1). Pub. L. 102 73, §202(2)(A), substituted “subsection (e)” for “subsection (c)” in introductory provision.
+Subsec. (b)(1). Pub. L. 102–73, §202(2)(A), substituted “subsection (e)” for “subsection (c)” in introductory provision.
 
-Subsec. (b)(2)(B). Pub. L. 102 73, §202(2)(B), substituted a comma for “and” before “local” and inserted “, and other entities described in paragraph (1) that receive grants under this subsection” after second reference to “agencies”.
+Subsec. (b)(2)(B). Pub. L. 102–73, §202(2)(B), substituted a comma for “and” before “local” and inserted “, and other entities described in paragraph (1) that receive grants under this subsection” after second reference to “agencies”.
 
-Subsec. (b)(7)(B). Pub. L. 102 73, §202(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “From the sum appropriated for each fiscal year under subsection (c) of this section for anyfiscal year in which appropriations equal or exceed $50,000,000, the Secretary shall allot—
+Subsec. (b)(7)(B). Pub. L. 102–73, §202(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “From the sum appropriated for each fiscal year under subsection (c) of this section for any fiscal year in which appropriations equal or exceed $50,000,000, the Secretary shall allot—
 
 &emsp;“(i) $25,000 to each of American Samoa, Guam, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands; and
 
@@ -198,15 +198,15 @@ Subsec. (b)(7)(B). Pub. L. 102 73, §202(2)(C), amended subpar. (B) generally. P
 
 > except that no State shall receive less than $125,000 in any fiscal year.”
 
-Subsec. (b)(7)(B)(i). Pub. L. 102 73, §802(b)(1), which directed the substitution of “Palau (until the Compact of Free Association with Palau takes effect pursuant to section 101(a) of Public Law 99 658)” for “the Trust Territory of the Pacific Islands”, could not be executed in light of prior general amendment of subpar. (B) by Pub. L. 102 73, §202(2)(C). See above.
+Subsec. (b)(7)(B)(i). Pub. L. 102–73, §802(b)(1), which directed the substitution of “Palau (until the Compact of Free Association with Palau takes effect pursuant to section 101(a) of Public Law 99–658)” for “the Trust Territory of the Pacific Islands”, could not be executed in light of prior general amendment of subpar. (B) by Pub. L. 102–73, §202(2)(C). See above.
 
-Subsecs. (c) to (e). Pub. L. 102 73, §202(3), (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+Subsecs. (c) to (e). Pub. L. 102–73, §202(3), (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-Subsec. (e)(1). Pub. L. 102 73, §202(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated $30,000,000 for the fiscal year 1988, $31,500,000 for the fiscal year 1989, and such sums as may be necessary for the fiscal year 1990 and each succeeding fiscal year ending prior to October 1, 1993, to carry out the provisions of this section.”
+Subsec. (e)(1). Pub. L. 102–73, §202(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated $30,000,000 for the fiscal year 1988, $31,500,000 for the fiscal year 1989, and such sums as may be necessary for the fiscal year 1990 and each succeeding fiscal year ending prior to October 1, 1993, to carry out the provisions of this section.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1201b of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

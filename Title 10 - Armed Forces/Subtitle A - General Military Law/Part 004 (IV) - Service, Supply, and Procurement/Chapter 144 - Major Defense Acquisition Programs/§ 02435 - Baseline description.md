@@ -26,13 +26,13 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(1) The content of baseline descriptions under this section.
 
-&emsp;(2) The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition and Technology by the program manager for a program for which there is an approved baseline description under this section of reports of deviations from the baseline of the cost, schedule, performance, supportability, or any other factor of the program.
+&emsp;(2) The submission to the Secretary of the military department concerned and the UnderSecretary of Defense for Acquisition and Technology by the program manager for a program for which there is an approved baseline description under this section of reports of deviations from the baseline of the cost, schedule, performance, supportability, or any other factor of the program.
 
 &emsp;(3) Procedures for review of such deviation reports within the Department of Defense.
 
 &emsp;(4) Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat.280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330.)
+(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330.)
 
 #### Historical and Revision Notes
 

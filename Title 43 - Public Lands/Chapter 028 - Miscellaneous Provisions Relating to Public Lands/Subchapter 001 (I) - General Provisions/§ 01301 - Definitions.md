@@ -18,7 +18,7 @@ When used in this subchapter and subchapter II of this chapter—
 
 (e) The term “natural resources” includes, without limiting the generality thereof, oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life but does not include water power, or the use of water for the production of power;
 
-(f) The term “lands beneath navigable waters” does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of suchstreams was lawfully patented or conveyed by the United States or any State to any person;
+(f) The term “lands beneath navigable waters” does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
 
 (g) The term “State” means any State of the Union;
 
@@ -29,6 +29,10 @@ When used in this subchapter and subchapter II of this chapter—
 #### Amendments
 
 1986—Subsec. (b). Pub. L. 99–272 inserted “, except that any boundary between a State and the United States under this subchapter or subchapter II of this chapter which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory”.
+
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–58, title III, §301, Nov. 28, 1995, 109 Stat. 563, provided that: “This title \[amending section 1337 of this title and enacting provisions set out as notes under section 1337 of this title\] may be referred to as the ‘Outer Continental Shelf Deep Water Royalty Relief Act’.”
 
 #### Short Title of 1986 Amendments
 

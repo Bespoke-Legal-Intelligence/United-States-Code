@@ -44,7 +44,7 @@ For purposes of this subchapter—
 | Nickel waste and scrap | Carbon tetrachloride |
 | Wrought nickel rods and wire | Chromic acid |
 | Nickel powders | Hydrogen peroxide |
-| Phenolic resins | Polystyrene -homopolymer resins |
+| Phenolic resins | Polystyrene- homo- polymer resins |
 | Polyvinylchloride resins | Melamine |
 | Polystyrene resins and copolymers | Acrylic and methacrylic acid resins |
 | Ethyl alcohol for nonbeverage use | Vinyl resins |

@@ -40,7 +40,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### References in Text
 
-Sections 301(b), 350, and 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482,1487), referred to in subsec. (d), were repealed by Pub. L. 95–432, §§1, 2, Oct. 10, 1978, 92 Stat. 1046.
+Sections 301(b), 350, and 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, 1487), referred to in subsec. (d), were repealed by Pub. L. 95–432, §§1, 2, Oct. 10, 1978, 92 Stat. 1046.
 
 #### Prior Provisions
 

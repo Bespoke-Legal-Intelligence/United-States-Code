@@ -1,6 +1,6 @@
 ### §4348. Cadets: agreement to serve as officer
 
-(a) Each cadet shall sign an agreement with respect to the cadet's length of service in thearmed forces. The agreement shall provide that the cadet agrees to the following:
+(a) Each cadet shall sign an agreement with respect to the cadet's length of service in the armed forces. The agreement shall provide that the cadet agrees to the following:
 
 &emsp;(1) That the cadet will complete the course of instruction at the Academy.
 
@@ -18,7 +18,7 @@
 
 (b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
-(2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
+(2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred inan appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “I
 
 1984—Subsec. (a). Pub. L. 98–525, §541(a), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
 
-Subsec. (a)(3). Pub. L. 98–525, §524(b), substituted “at least the sixth anniversary and, at the direction of theSecretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+Subsec. (a)(3). Pub. L. 98–525, §524(b), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
 1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -96,7 +96,7 @@ Section 512(e) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Effective Date of 1984 Amendment
 
-Section 541(d) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
+Section 541(d) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall applywith respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 

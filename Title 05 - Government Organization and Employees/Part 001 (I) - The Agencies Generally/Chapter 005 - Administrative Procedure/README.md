@@ -89,33 +89,33 @@
 
 <i>Table of sections for subchapter III repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
 
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note set out under section 571 of this title.</i>
-
 #### Amendments
 
-1992—Pub. L. 102–354, §4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
+<b>1992</b>—Pub. L. 102–354, §4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
 
-1990—Pub. L. 101–648, §§3(b), 5, Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure, and repealed that heading and those items effective six years after Nov. 29, 1990.
+<b>1990</b>—Pub. L. 101–648, §§3(b), 5, Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure, and repealed that heading and those items effective six years after Nov. 29, 1990.
 
-Pub. L. 101–552, §4(c), Nov. 15, 1990, 104 Stat. 2745, temporarily added heading of subchapter IV and items 581 to 593 relating to alternative means of dispute resolution. See Termination Date; Savings Provision note set out under section 581 of this title as added by Pub. L. 101–552.
+Pub. L. 101–552, §§4(c), 11, Nov. 15, 1990, 104 Stat. 2745, temporarily added heading of subchapter IV and items 581 to 593 \[renumbered 571 to 583\] relating to alternative means of dispute resolution. See Termination Date; Savings Provision note set out under section 571 of this title as added by Pub. L. 101–552.
 
-1986—Pub. L. 99–470, §2(b), Oct. 14, 1986, 100 Stat. 1198, substituted “Authorization of appropriations” for “Appropriations” in item 576.
+<b>1986</b>—Pub. L. 99–470, §2(b), Oct. 14, 1986, 100 Stat. 1198, substituted “Authorization of appropriations” for “Appropriations” in item 576.
 
-1985—Pub. L. 99–80, §6, Aug. 5, 1985, 99 Stat. 186, revived item 504 and repealed Pub. L. 96–481, title II,§203(c), Oct. 21, 1980, 94 Stat. 2327, which provided for the repeal, effective Oct. 1, 1984, of item 504.
+<b>1985</b>—Pub. L. 99–80, §6, Aug. 5, 1985, 99 Stat. 186, revived item 504 and repealed Pub. L. 96–481, title II, §203(c), Oct. 21, 1980, 94 Stat. 2327, which provided for the repeal, effective Oct. 1, 1984, of item 504.
 
-1980—Pub. L. 96–481, title II, §203(a)(2), (c), Oct. 21, 1980, 94 Stat. 2327, added item 504 “Costs and fees of parties”, and repealed that item effective Oct. 1, 1984.
+<b>1980</b>—Pub. L. 96–481, title II, §203(a)(2), (c), Oct. 21, 1980, 94 Stat. 2327, added item 504 “Costs and fees of parties”, and repealed that item effective Oct. 1, 1984.
 
-1976—Pub. L. 94–409, §3(b), Sept. 13, 1976, 90 Stat. 1246, added item 552b.
+<b>1976</b>—Pub. L. 94–409, §3(b), Sept. 13, 1976, 90 Stat. 1246, added item 552b.
 
-1974—Pub. L. 93–579, §4, Dec. 31, 1974, 88 Stat. 1905, added item 552a.
+<b>1974</b>—Pub. L. 93–579, §4, Dec. 31, 1974, 88 Stat. 1905, added item 552a.
 
-1967—Pub. L. 90–83, §1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
+<b>1967</b>—Pub. L. 90–83, §1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
 
 Pub. L. 90–23, §2, June 5, 1967, 81 Stat. 56, substituted “Public information; agency rules, opinions, orders, records and proceedings” for “Publication of information, rules, opinions, orders, and public records” in item 552.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 2 section 437d; title 12 sections 1467a, 1730a, 1786, 1818, 2266, 4582, 4633; title 15 sections 77s, 637, 687e, 1691b, 1715, 2703, 3803; title 16 section 460aa–3; title 20 sections 240, 1066, 3474, 7711; title 21 sections 342, 343; title 25 sections 450<i>l</i>, 954; title 29 sections 1579, 1861; title 30 section 811; title 39 sections 204, 410, 3001, 3603; title 42 sections 1760, 9613, 11504; title 43 section 1740; title 44 section 3507; title 45 sections 1116, 1212; title 46 App. section 1241p.
+This chapter is referred to in title 2 section 437d; title 12 sections 1467a, 1730a, 1786, 1818, 2266, 4582, 4633; title 15 sections 77s, 637, 687e, 1691b, 1715, 2703, 3803; title 16 section 460aa–3; title 20 sections 1066, 7711; title 21 sections 342, 343; title 25 sections 450<i>l</i>, 954; title 29 sections 1579, 1861; title 30 section 811; title 39 sections 204, 410, 3001, 3603; title 42 sections 1760, 9613, 11504; title 43 section 1740; title 44 section 3507; title 45 sections 1116, 1212; title 46 App. section 1241p.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

@@ -24,7 +24,7 @@
 
 (d) Not later than July 31 each year, the Secretary of State shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report identifying the origin, contents, destination, and disposition of all supplies transported under this section during the 12-month period ending on the preceding June 30.
 
-(Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L.101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669.)
+(Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L. 101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669.)
 
 #### Prior Provisions
 
@@ -36,9 +36,9 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Delegation of Functions
 

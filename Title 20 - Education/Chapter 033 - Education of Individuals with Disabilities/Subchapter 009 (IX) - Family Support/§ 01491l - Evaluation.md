@@ -22,7 +22,7 @@ Not later than 21/2 years after October 20, 1994, the Secretary shall prepare an
 
 The Secretary shall assure that a recipient of a grant, contract, or cooperative agreement under this section is independent from, and free from, any financial or personal relationships with the recipient of a grant, contract, or cooperative agreement selected to provide technical assistance under section 1491k of this title.
 
-(Pub. L. 91 230, title VI, §713, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3954.)
+(Pub. L. 91–230, title VI, §713, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3954.)
 
 #### Section Referred to in Other Sections
 

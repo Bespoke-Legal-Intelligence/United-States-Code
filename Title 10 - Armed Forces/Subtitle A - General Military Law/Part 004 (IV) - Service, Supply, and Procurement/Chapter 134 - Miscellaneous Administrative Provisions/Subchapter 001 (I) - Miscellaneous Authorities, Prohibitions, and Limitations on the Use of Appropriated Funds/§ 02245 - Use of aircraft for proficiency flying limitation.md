@@ -14,5 +14,5 @@
 
 #### Prior Provisions
 
-Similar provisions were contained in Pub. L. 101–165, title IX, §9006, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(e)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9006, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(e)(3).
 

@@ -20,7 +20,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1976—Pub. L. 94–574 provided that if no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer as defendant.
+<b>1976</b>—Pub. L. 94–574 provided that if no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer as defendant.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ When vessels in sight of one another are approaching each other and from any cau
 
 #### (e) Vessels in areas of obscured visibility due to intervening obstructions
 
-A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscuredby an intervening obstruction shall sound one prolonged blast. This signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
+A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscured by an intervening obstruction shall sound one prolonged blast. This signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
 
 #### (f) Use of one whistle only on a vessel
 

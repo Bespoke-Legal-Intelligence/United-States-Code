@@ -1,6 +1,6 @@
 ### §1092. Studies and demonstration projects relating to delivery of health and medical care
 
-(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstration projects on the health care delivery system of the uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
+(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstration projects on the health care delivery system ofthe uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
 
 &emsp;(A) Alternative methods of payment for health and medical care services.
 

@@ -23,7 +23,7 @@
 | [119\.](%C2%A7%2000119%20-%20Interstate%20maintenance%20program.md) | Interstate maintenance program. |
 | [120\.](%C2%A7%2000120%20-%20Federal%20share%20payable.md) | Federal share payable. |
 | [121\.](%C2%A7%2000121%20-%20Payment%20to%20States%20for%20construction.md) | Payment to States for construction. |
-| [122\.](%C2%A7%2000122%20-%20Payment%20to%20States%20for%20bond%20retirement.md) | Payment to States for bond retirement. |
+| [122\.](%C2%A7%2000122%20-%20Payments%20to%20States%20for%20bond%20and%20other%20debt%20instrument%20financing.md) | Payments to States for bond and other debt instrument financing. |
 | [123\.](%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md) | Relocation of utility facilities. |
 | [124\.](%C2%A7%2000124%20-%20Advances%20to%20States.md) | Advances to States. |
 | [125\.](%C2%A7%2000125%20-%20Emergency%20relief.md) | Emergency relief. |
@@ -55,23 +55,26 @@
 | [151\.](%C2%A7%2000151%20-%20National%20bridge%20inspection%20program.md) | National bridge inspection program. |
 | [152\.](%C2%A7%2000152%20-%20Hazard%20elimination%20program.md) | Hazard elimination program. |
 | [153\.](%C2%A7%2000153%20-%20Use%20of%20safety%20belts%20and%20motorcycle%20helmets.md) | Use of safety belts and motorcycle helmets. |
-| [154\.](%C2%A7%2000154%20-%20National%20maximum%20speed%20limit.md) | National maximum speed limit. |
+| \[154. | Repealed.\] |
 | [155\.](%C2%A7%2000155%20-%20Access%20highways%20to%20public%20recreation%20areas%20on%20certain%20lakes.md) | Access highways to public recreation areas on certain lakes. |
 | [156\.](%C2%A7%2000156%20-%20Income%20from%20airspace%20rights-of-way.md) | Income from airspace rights-of-way. |
 | [157\.](%C2%A7%2000157%20-%20Minimum%20allocation.md) | Minimum allocation. |
 | [158\.](%C2%A7%2000158%20-%20National%20minimum%20drinking%20age.md) | National minimum drinking age. |
 | [159\.](%C2%A7%2000159%20-%20Revocation%20or%20suspension%20of%20drivers%E2%80%99%20licenses%20of%20individuals%20convicted%20of%20drug%20offenses.md) | Revocation or suspension of drivers’ licenses of individuals convicted of drug offenses. |
 | [160\.](%C2%A7%2000160%20-%20Reimbursement%20for%20segments%20of%20the%20Interstate%20System%20constructed%20without%20Federal%20assistance.md) | Reimbursement for segments of the Interstate System constructed without Federal assistance. |
+| [161\.](%C2%A7%2000161%20-%20Operation%20of%20motor%20vehicles%20by%20intoxicated%20minors.md) | Operation of motor vehicles by intoxicated minors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1991—Pub. L. 102–240, title I, §§1007(a)(2), 1008(c), 1009(e)(2), 1014(b), 1016(f)(3), 1024(c)(1), 1025(b), 1031(a)(2), Dec. 18, 1991, 105 Stat. 1930, 1933, 1934, 1942, 1946, 1962, 1965, 1973, substituted “Program efficiencies” for “Authorizations” in item 102, substituted “maintenance program” for “System resurfacing” in item 119, added item 133, substituted “Metropolitan planning” for “Transportation planning in certain urban areas” in item 134, substituted “Statewide planning” for “Traffic operations improvement programs” in item 135, substituted “Congestion mitigation and air quality improvement program” for “Truck lanes” in item 149, and added items 153 and 160.
+1995—Pub. L. 104–59, title II, §205(d)(2), title III, §§311(c), 320(b), Nov. 28, 1995, 109 Stat. 577, 584, 590, substituted “Payments” for “Payment” and “and other debt instrument financing” for “retirement” in item 122, struck out item 154 “National maximum speed limit”, and added item 161.
+
+1991—Pub. L. 102–240, title I, §§1007(a)(2), 1008(c), 1009(e)(2), 1014(b), 1016(f)(3), 1024(c)(1), 1025(b), 1031(a)(2),Dec. 18, 1991, 105 Stat. 1930, 1933, 1934, 1942, 1946, 1962, 1965, 1973, substituted “Program efficiencies” for “Authorizations” in item 102, substituted “maintenance program” for “System resurfacing” in item 119, added item 133, substituted “Metropolitan planning” for “Transportation planning in certain urban areas” in item 134, substituted “Statewide planning” for “Traffic operations improvement programs” in item 135, substituted “Congestion mitigation and air quality improvement program” for “Truck lanes” in item 149, and added items 153 and 160.
 
 Pub. L. 102–143, title III, §333(b), (c), Oct. 28, 1991, 105 Stat. 947, added item 159 and repealed Pub. L. 101–516, §333(b), which added former item 159. See 1990 Amendment note below.
 
-1990—Pub. L. 101–516, title III, §333(b), Nov. 5, 1990, 104 Stat. 2186, which added item 159, was repealed by Pub.L. 102–143, title III, §333(c), Oct. 28, 1991, 105 Stat. 947. Section 333(d) of Pub. L. 102–143 provided that the amendments made by section 333 of Pub. L. 101–516 shall be treated as having not been enacted into law.
+1990—Pub. L. 101–516, title III, §333(b), Nov. 5, 1990, 104 Stat. 2186, which added item 159, was repealed by Pub. L. 102–143, title III, §333(c), Oct. 28, 1991, 105 Stat. 947. Section 333(d) of Pub. L. 102–143 provided that the amendments made by section 333 of Pub. L. 101–516 shall be treated as having not been enacted into law.
 
 1987—Pub. L. 100–17, title I, §§113(d)(2), 114(e)(5), 125(b)(1), 126(b), 133(b)(1), Apr. 2, 1987, 101 Stat. 150, 153, 167, 171, substituted “Advance construction” for “Construction by States in advance of apportionment” in item 115, and “Availability of funds” for “Availability of sums apportioned” in item 118, struck out “and width” after “Vehicle weight” in item 127, substituted “Carpool and vanpool projects” for identical words in item 146, “National bridge inspection program” for “Pavement marking demonstration program” in item 151, and “Income from airspace rights-of-way” for “Highways crossing Federal projects” in item 156.
 
@@ -137,7 +140,7 @@ This chapter is referred to in sections 215, 402, 408, 410 of this title; title 
 - [&sect; 00119 - Interstate maintenance program](%C2%A7%2000119%20-%20Interstate%20maintenance%20program.md)
 - [&sect; 00120 - Federal share payable](%C2%A7%2000120%20-%20Federal%20share%20payable.md)
 - [&sect; 00121 - Payment to States for construction](%C2%A7%2000121%20-%20Payment%20to%20States%20for%20construction.md)
-- [&sect; 00122 - Payment to States for bond retirement](%C2%A7%2000122%20-%20Payment%20to%20States%20for%20bond%20retirement.md)
+- [&sect; 00122 - Payments to States for bond and other debt instrument financing](%C2%A7%2000122%20-%20Payments%20to%20States%20for%20bond%20and%20other%20debt%20instrument%20financing.md)
 - [&sect; 00123 - Relocation of utility facilities](%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md)
 - [&sect; 00124 - Advances to States](%C2%A7%2000124%20-%20Advances%20to%20States.md)
 - [&sect; 00125 - Emergency relief](%C2%A7%2000125%20-%20Emergency%20relief.md)
@@ -169,10 +172,11 @@ This chapter is referred to in sections 215, 402, 408, 410 of this title; title 
 - [&sect; 00151 - National bridge inspection program](%C2%A7%2000151%20-%20National%20bridge%20inspection%20program.md)
 - [&sect; 00152 - Hazard elimination program](%C2%A7%2000152%20-%20Hazard%20elimination%20program.md)
 - [&sect; 00153 - Use of safety belts and motorcycle helmets](%C2%A7%2000153%20-%20Use%20of%20safety%20belts%20and%20motorcycle%20helmets.md)
-- [&sect; 00154 - National maximum speed limit](%C2%A7%2000154%20-%20National%20maximum%20speed%20limit.md)
+- [&sect; 00154 - Repealed. Pub. L. 104&#8211;59, title II, &sect;205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577](%C2%A7%2000154%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9359%2C%20title%20II%2C%20%C2%A7205%28d%29%281%29%28B%29%2C%20Nov.%2028%2C%201995%2C%20109%20Stat.%20577.md)
 - [&sect; 00155 - Access highways to public recreation areas on certain lakes](%C2%A7%2000155%20-%20Access%20highways%20to%20public%20recreation%20areas%20on%20certain%20lakes.md)
 - [&sect; 00156 - Income from airspace rights-of-way](%C2%A7%2000156%20-%20Income%20from%20airspace%20rights-of-way.md)
 - [&sect; 00157 - Minimum allocation](%C2%A7%2000157%20-%20Minimum%20allocation.md)
 - [&sect; 00158 - National minimum drinking age](%C2%A7%2000158%20-%20National%20minimum%20drinking%20age.md)
 - [&sect; 00159 - Revocation or suspension of drivers&#8217; licenses of individuals convicted of drug offenses](%C2%A7%2000159%20-%20Revocation%20or%20suspension%20of%20drivers%E2%80%99%20licenses%20of%20individuals%20convicted%20of%20drug%20offenses.md)
 - [&sect; 00160 - Reimbursement for segments of the Interstate System constructed without Federal assistance](%C2%A7%2000160%20-%20Reimbursement%20for%20segments%20of%20the%20Interstate%20System%20constructed%20without%20Federal%20assistance.md)
+- [&sect; 00161 - Operation of motor vehicles by intoxicated minors](%C2%A7%2000161%20-%20Operation%20of%20motor%20vehicles%20by%20intoxicated%20minors.md)

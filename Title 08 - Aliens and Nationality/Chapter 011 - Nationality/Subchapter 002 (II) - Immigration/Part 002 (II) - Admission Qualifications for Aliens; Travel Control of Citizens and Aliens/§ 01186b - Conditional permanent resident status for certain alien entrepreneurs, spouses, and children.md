@@ -1,16 +1,16 @@
-### §1186b . Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
+### §1186b. Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
 
 #### (a) In general
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined insubsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
 #### (A) At time of obtaining permanent residence
 
-&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanentresident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
+&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
 
 #### (B) At time of required petition
 
@@ -78,11 +78,11 @@
 
 &emsp;&emsp;&emsp;(ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of thesuch filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
 #### (B) Removal of conditional basis if favorable determination
 
-&emsp;&emsp;If the Attorney General determines that such facts and information are true, the Attorney General shall so notify the alien involved and shall remove the conditionalbasis of the alien's status effective as of the second anniversary of the alien's lawful admission for permanent residence.
+&emsp;&emsp;If the Attorney General determines that such facts and information are true, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status effective as of the second anniversary of the alien's lawful admission for permanent residence.
 
 #### (C) Termination if adverse determination
 

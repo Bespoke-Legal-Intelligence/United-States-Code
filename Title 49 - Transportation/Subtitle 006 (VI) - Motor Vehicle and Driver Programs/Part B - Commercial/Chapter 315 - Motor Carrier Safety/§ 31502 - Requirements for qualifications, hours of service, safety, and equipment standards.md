@@ -4,7 +4,7 @@
 
 Application.—This section applies to transportation—
 
-&emsp;(1) described in sections 10521 and 10522 of this title; and
+&emsp;(1) described in sections 13501 and 13502 of this title; and
 
 &emsp;(2) to the extent the transportation is in the United States and is between places in a foreign country, or between a place in a foreign country and a place in another foreign country.
 
@@ -28,7 +28,7 @@ Migrant Worker Motor Carrier Requirements.—The Secretary may prescribe require
 
 Considerations.—Before prescribing or revising any requirement under this section, the Secretary shall consider the costs and benefits of the requirement.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948.)
 
 Historical and Revision Notes
 
@@ -82,15 +82,25 @@ In subsection (c), the word “prescribe” is substituted for “establish” f
 
 #### Amendments
 
+1995—Subsec. (a)(1). Pub. L. 104–88 substituted “13501 and 13502” for “10521 and 10522”.
+
 1994—Pub. L. 103–272 renumbered section 3102 of this title as this section and amended it generally, restating it without substantive change.
 
 1984—Subsec. (d). Pub. L. 98–554 added subsec. (d).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Savings Provision
 
 Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
 
+#### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
+
+For provisions relating to exemptions from regulations prescribed under this section as to maximum driving and on-duty time for drivers used by motor carriers, see section 345 of Pub. L. 104–59, set out as a note under section 31136 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 507, 521, 526, 31504 of this title.
+This section is referred to in sections 501, 507, 521, 526, 31136, 31504 of this title.
 

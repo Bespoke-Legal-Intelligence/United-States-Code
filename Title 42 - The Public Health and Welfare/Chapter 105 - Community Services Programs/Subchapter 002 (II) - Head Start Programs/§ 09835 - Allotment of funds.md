@@ -6,7 +6,7 @@
 
 (2) The Secretary shall reserve 13 percent of the amount appropriated for each fiscal year for use in accordance with the following order of priorities—
 
-&emsp;(A) Indian and migrant Head Start programs and services for handicapped children, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1994;
+&emsp;(A) Indian and migrant Head Start programs and services for handicapped children, exceptthat there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1994;
 
 &emsp;(B) payments to Guam, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands according to their respective needs, except that such amount shall not exceed one-half of 1 percent of the sums appropriated for any fiscal year;
 
@@ -118,7 +118,7 @@ Financial assistance extended under this subchapter for a Head Start program sha
 
 #### (c) Services covered
 
-No programs shall be approved for assistance under this subchapter unless the Secretary is satisfied that the services to be provided under such program will be in addition to, and not in substitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
+No programs shall be approved for assistance under this subchapter unless the Secretary issatisfied that the services to be provided under such program will be in addition to, and not in substitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
 
 #### (d) Enrollment of children with disabilities and provision of services
 
@@ -138,7 +138,7 @@ The Secretary shall establish procedures to enable Head Start agencies to develo
 
 (2) For the purpose of expanding Head Start programs, in allocating funds to an applicant within a State, from amounts allotted to a State pursuant to subsection (a)(4) of this section, the Secretary shall take into consideration—
 
-&emsp;(A) the quality of the applicant's programs (including Head Start and other child care or child development programs) in existence on the date of the allocation, including, in the case of Head Start programs in existence on the date of the allocation, the extent to whichsuch programs meet or exceed performance standards and other requirements under this subchapter;
+&emsp;(A) the quality of the applicant's programs (including Head Start and other child care or child development programs) in existence on the date of the allocation, including, in the case of Head Start programs in existence on the date of the allocation, the extent to which such programs meet or exceed performance standards and other requirements under this subchapter;
 
 &emsp;(B) the applicant's capacity to expand services (including, in the case of Head Start programs in existence on the date of the allocation, whether the applicant accomplished any prior expansions in an effective and timely manner);
 
@@ -178,7 +178,7 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 #### (<i>l</i>) Frequent relocation of migrant families
 
-With funds made available under subsection (a)(2) of this section to migrant Head Start programs, the Secretary shall give priority to migrant Head Start programs that serve eligible children of migrant families whose work requires them to relocate most frequently.
+With funds made available under subsection (a)(2) of this section to migrant Head Start programs, the Secretary shall give priority to migrant Head Start programs that serve eligiblechildren of migrant families whose work requires them to relocate most frequently.
 
 (Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626.)
 

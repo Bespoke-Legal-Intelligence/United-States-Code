@@ -148,7 +148,7 @@ Ex. Ord. No. 11776, eff. Mar. 28, 1974, 39 F.R. 11865, as amended by Ex. Ord. No
 
 The President's Committee on Mental Retardation, established by Executive Order No. 11280 on May 11, 1966, has mobilized national planning and carried out basic programs in the field of mental retardation. National goals have been established to reduce the occurrence of mental retardation by one-half before the end of the century and to return one-third of the people in mental institutions to useful lives in their communities. The achievement of these goals will require the most effective possible use of public and private resources.
 
-Our country has become increasingly aware in recent years of the need to assure those who are retarded their full status as citizens under the law, and of the continuing need to mobilize the support of the general public and of specialized professional and volunteer groups for mental retardation activities. We also know that we must constantly evaluate existing programs to determine their adequacy and must continually consider abroad range of proposals for new mental retardation activities.
+Our country has become increasingly aware in recent years of the need to assure those who are retarded their full status as citizens under the law, and of the continuing need to mobilize the support of the general public and of specialized professional and volunteer groups for mental retardation activities. We also know that we must constantly evaluate existing programs to determine their adequacy and must continually consider a broad range of proposals for new mental retardation activities.
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is hereby ordered as follows:
 
@@ -168,7 +168,7 @@ Sec. 2. <i>Composition of Committee.</i> The Committee shall be composed of the 
 
 (6) The Director of ACTION \[now Corporation for National and Community Service\].
 
-(7) Not more than twenty-one other members who shall be appointed to the Committee by the President. These persons may be employed in either the public or the private sectors and may include specialists in medicine and other healing arts, human development, special education, law, and employment problems, as well as members of foundations and other private organizations active in the mental retardation field. Except as the President may from time to time otherwise direct, appointees under this paragraph shall have three-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
+(7) Not more than twenty-one other members who shall be appointed to the Committee by the President. These persons may be employed in either the public or the private sectors and may include specialists in medicine and other healing arts, human development, special education, law, and employment problems, as well as members of foundations and other private organizations active in the mental retardation field. Except as the President may from time to time otherwise direct,appointees under this paragraph shall have three-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
 
 Sec. 3. <i>Functions of the Committee.</i> (a) The Committee shall provide such advice and assistance in the area of mental retardation as the President or Secretary of the Department of Health and Human Services may request and particularly shall advise with respect to the following areas:
 
@@ -210,7 +210,9 @@ Term of the President's Committee on Mental Retardation extended until Sept. 30,
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 11973
 

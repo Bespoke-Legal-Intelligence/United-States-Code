@@ -1,4 +1,4 @@
-### §79b . Park area
+### §79b. Park area
 
 #### (a) Boundaries; maps; maximum acreage
 
@@ -10,7 +10,7 @@ The Secretary is authorized to acquire all or part of existing publicly owned hi
 
 #### (c) Park protection zone
 
-Within the area outside the boundaries of Redwood National Park indicated as the “Park Protection Zone” on the map entitled “Proposed Additions, Redwood National Park, California”, numbered 167–80005–D and dated March 1978, the Secretary is authorized to acquire lands and interests in land: <i>Provided</i>, That lands may be acquired from a willing seller or upon a finding by the Secretary that failure to acquire all or a portion of such lands could result in physical damage to park resources and following notice to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the House of Representatives. Any lands so acquired shall be managed in a manner which will maximize the protection of the resources of Redwood National Park, and in accordance with the Act of October 21, 1976 (90 Stat. 2473) \[43 U.S.C. 1701 et seq.\]. Acquisition of a parcel of land under the authority of this subsection shall not as a result of such acquisition diminish the right of owners of adjacent lands to the peaceful use and enjoyment of their land and shall not confer authority upon the Secretary to acquire additional lands except as provided in this subsection.
+Within the area outside the boundaries of Redwood National Park indicated as the “Park Protection Zone” on the map entitled “Proposed Additions, Redwood National Park, California”, numbered 167–80005–D and dated March 1978, the Secretary is authorized to acquire lands and interests in land: <i>Provided</i>, That lands may be acquired from a willing seller or upon a finding by the Secretary that failure to acquire all or a portion of such lands could result in physical damage to park resources and following notice to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the House of Representatives. Any lands so acquired shall be managed in a manner which will maximize the protection of the resources of Redwood National Park, and in accordance with the Act of October21, 1976 (90 Stat. 2473) \[43 U.S.C. 1701 et seq.\]. Acquisition of a parcel of land under the authority of this subsection shall not as a result of such acquisition diminish the right of owners of adjacent lands to the peaceful use and enjoyment of their land and shall not confer authority upon the Secretary to acquire additional lands except as provided in this subsection.
 
 (Pub. L. 90–545, §2, Oct. 2, 1968, 82 Stat. 931; Pub. L. 95–250, title I, §101(a)(1), (2), Mar. 27, 1978, 92 Stat. 163; Pub. L. 103–437, §6(d)(7), Nov. 2, 1994, 108 Stat. 4583.)
 
@@ -22,7 +22,7 @@ Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1978—Subsec. (a). Pub. L. 95–250, §101(a)(1), (2), inserted “and the area indicated as ‘Proposed Additions’ on the map entitled ‘Additional Lands, Redwood National Park, California’, numbered 167–80005–D and dated March 1978,” after “and dated September 1968,” and substituted “one hundred and six thousand acres,exclusive of submerged lands and publicly owned highways and roads” for “fifty-eight thousand acres, exclusive of submerged lands”.
+1978—Subsec. (a). Pub. L. 95–250, §101(a)(1), (2), inserted “and the area indicated as ‘Proposed Additions’ on the map entitled ‘Additional Lands, Redwood National Park, California’, numbered 167–80005–D and dated March 1978,” after “and dated September 1968,” and substituted “one hundred and six thousand acres, exclusive of submerged lands and publicly owned highways and roads” for “fifty-eight thousand acres, exclusive of submerged lands”.
 
 Subsec. (b). Pub. L. 95–250, §101(a)(2), struck out “by donation only” after “The Secretary is authorized to acquire”.
 
@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 95–250, §101(a)(2), added subsec. (c).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

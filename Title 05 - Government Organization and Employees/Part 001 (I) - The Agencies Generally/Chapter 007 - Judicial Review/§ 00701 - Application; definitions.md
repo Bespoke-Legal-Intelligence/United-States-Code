@@ -60,7 +60,7 @@ Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), we
 
 #### Amendments
 
-1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
+<b>1994</b>—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
 
 #### Cross References
 

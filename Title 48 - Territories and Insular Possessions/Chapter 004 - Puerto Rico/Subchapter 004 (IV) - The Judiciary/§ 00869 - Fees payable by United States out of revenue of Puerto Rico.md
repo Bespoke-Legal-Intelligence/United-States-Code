@@ -10,7 +10,7 @@ Such fees and expenses as are payable by the United States if earned or incurred
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
 
-As originally enacted, so much of section 2 of act Mar. 2, 1901, as is pertinent here, was as follows: “Such fees and expenses as are payable by the United States, if earned or incurred in connection with a circuit or district court of the United States, shall be paid from the revenues of Porto Rico, if earned or incurred in connection with the district court of the United States for Porto Rico.”
+As originally enacted, so much of section 2 of act Mar. 2, 1901, as is pertinent here, was as follows: “Such fees and expenses as are payable by the United States,if earned or incurred in connection with a circuit or district court of the United States, shall be paid from the revenues of Porto Rico, if earned or incurred in connection with the district court of the United States for Porto Rico.”
 
 #### Change of Name
 

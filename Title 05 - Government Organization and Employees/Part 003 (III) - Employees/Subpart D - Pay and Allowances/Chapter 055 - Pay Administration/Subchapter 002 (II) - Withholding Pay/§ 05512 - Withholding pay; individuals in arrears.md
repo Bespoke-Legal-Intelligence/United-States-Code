@@ -24,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1972—Subsec. (b). Pub. L. 92–310 struck out “and his sureties” after “against the individual”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–310 struck out “and his sureties” after “against the individual”.
 
 #### Cross References
 

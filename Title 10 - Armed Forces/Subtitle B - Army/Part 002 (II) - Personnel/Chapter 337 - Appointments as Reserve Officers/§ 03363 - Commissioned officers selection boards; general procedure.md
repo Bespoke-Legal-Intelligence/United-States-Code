@@ -1,6 +1,6 @@
 ### §3363. Commissioned officers: selection boards; general procedure
 
-(a) Except as provided in section 3383(b) of this title and section 309 of title 32, an officer in the reserve grade of second lieutenant may not be promoted or federally recognized in the next higher reserve grade until he completes three years of service computed under section 3360(b) of this title.
+(a) Except as provided in section 3383(b) of this title and section 309 of title 32, an officer in the reserve grade of second lieutenant may not be promoted or federally recognized in the next higher reserve grade until he completes threeyears of service computed under section 3360(b) of this title.
 
 (b) An officer in a reserve grade above second lieutenant may not be considered for promotion, or examined for Federal recognition in the next higher reserve grade, until he completes the following number of years of service computed under section 3360(b) of this title:
 

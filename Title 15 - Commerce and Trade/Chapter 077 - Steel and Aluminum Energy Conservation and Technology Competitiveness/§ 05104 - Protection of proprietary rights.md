@@ -8,7 +8,7 @@ No trade secrets or commercial or financial information that is privileged or co
 
 All patent rights from inventions developed under the management plan or the research plan implemented pursuant to this chapter shall be vested in accordance with section 5908 of title 42.
 
-(Pub. L. 100 680, §5, Nov. 17, 1988, 102 Stat. 4075.)
+(Pub. L. 100–680, §5, Nov. 17, 1988, 102 Stat. 4075.)
 
 #### Section Referred to in Other Sections
 

@@ -12,9 +12,9 @@ Pub. L. 101–136, title V, §528, Nov. 3, 1989, 103 Stat. 816, provided that: �
 
 #### Transitional Provisions
 
-Section 3021(c) of Pub. L. 100–647, which provided for the first issue of valuation rules, the interim impact onformer employees, the meeting of the written requirement for covered plans in connection with implementation of section 89 of the Code, and the issuance by Nov. 15, 1988, of rules necessary to carry out section 89, was repealed by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
+Section 3021(c) of Pub. L. 100–647 provided for the first issue of valuation rules, the interim impact on former employees, the meeting of the written requirement for covered plans in connection with implementation of section 89 of the Code, and the issuance by Nov. 15, 1988, of rules necessary to carry out section 89, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
 
 #### Part-Time Employee Defined for Purposes of Subsection (f)
 
-Section 6070 of Pub. L. 100–647, which increased the number of employees who would be excluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, was repealed by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
+Section 6070 of Pub. L. 100–647 increased the number of employees who would be excluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
 

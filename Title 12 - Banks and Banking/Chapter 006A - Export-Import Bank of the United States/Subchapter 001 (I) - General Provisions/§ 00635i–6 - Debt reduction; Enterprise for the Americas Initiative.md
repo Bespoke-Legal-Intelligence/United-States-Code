@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) have put in place major investment reforms in conjunction with an Inter-American Development Bank loan or otherwise be implementing, or making significant progress toward, an open investment regime; and
 
-&emsp;&emsp;(D) if appropriate, have agreed with its commercial bank lenders on a satisfactoryfinancing program, including, as appropriate, debt or debt service reduction.
+&emsp;&emsp;(D) if appropriate, have agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction.
 
 #### (2) Eligibility determinations
 

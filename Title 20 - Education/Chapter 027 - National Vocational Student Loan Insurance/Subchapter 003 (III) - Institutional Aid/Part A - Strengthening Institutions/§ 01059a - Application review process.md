@@ -28,9 +28,9 @@ Not later than June 30 of each year, the Secretary shall notify each institution
 
 &emsp;(3) the reasons for the decision of the Secretary in awarding or refusing to award a grant under part A of this subchapter and any modifications, if any, in the recommendations of the panel made by the Secretary.
 
-(Pub. L. 89 329, title III, §314, as added Pub. L. 100 50, §2(b), June 3, 1987, 101 Stat. 336.)
+(Pub. L. 89–329, title III, §314, as added Pub. L. 100–50, §2(b), June 3, 1987, 101 Stat. 336.)
 
 #### Effective Date
 
-Section effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as an Effective Date of 1987 Amendment note under section 1001 of this title.
+Section effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as an Effective Date of 1987 Amendment note under section 1001 of this title.
 

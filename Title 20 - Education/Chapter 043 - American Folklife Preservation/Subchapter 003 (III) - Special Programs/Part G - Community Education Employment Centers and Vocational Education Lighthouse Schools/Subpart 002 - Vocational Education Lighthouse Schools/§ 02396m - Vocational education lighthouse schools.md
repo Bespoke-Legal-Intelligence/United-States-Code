@@ -10,7 +10,7 @@ Grants awarded under this section shall be used to establish vocational educatio
 
 &emsp;(1) serve as a model vocational education program—
 
-&emsp;&emsp;(A) to provide each student with knowledge of, and experience in, all aspects of the industry or enterprise the student is preparing to enter;
+&emsp;&emsp;(A) to provide each student with knowledge of, and experience in, all aspects of theindustry or enterprise the student is preparing to enter;
 
 &emsp;&emsp;(B) to provide each student with basic and higher order skills and develop the student's problem solving abilities in a vocational setting;
 
@@ -22,7 +22,7 @@ Grants awarded under this section shall be used to establish vocational educatio
 
 &emsp;&emsp;(F) which offers a full range of programs, including comprehensive career guidance and counseling, for students who plan to seek employment upon graduation or who will enroll in a 2- or 4-year college;
 
-&emsp;(2) provide information and assistance to other grant recipients, vocational programs, vocational education personnel, parents, students, other educators, community membersand community organizations throughout the State regarding—
+&emsp;(2) provide information and assistance to other grant recipients, vocational programs, vocational education personnel, parents, students, other educators, community members and community organizations throughout the State regarding—
 
 &emsp;&emsp;(A) curriculum materials;
 
@@ -44,5 +44,5 @@ Grants awarded under this section shall be used to establish vocational educatio
 
 &emsp;&emsp;(B) to reduce and eliminate sex bias and stereotyping.
 
-(Pub. L. 88 210, title III, §375, as added Pub. L. 101 392, title III, §310, Sept. 25, 1990, 104 Stat. 798.)
+(Pub. L. 88–210, title III, §375, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 798.)
 

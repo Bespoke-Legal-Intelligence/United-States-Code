@@ -6,17 +6,17 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (b) Investment of fund assets
 
-(1)<sup>1</sup>
+(1) <sup>1</sup>
 
 In general.—It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Fund.<sup>2</sup> Such investments shall be in public debt securities with maturities suitable to the needs of the Fund.<sup>2</sup> Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity.
 
-(Pub. L. 102 259, §8, Mar. 19, 1992, 106 Stat. 82.)
+(Pub. L. 102–259, §8, Mar. 19, 1992, 106 Stat. 82.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5602 of this title.
 
-<i><sup>1</sup></i><i>So in original. No par. (2) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

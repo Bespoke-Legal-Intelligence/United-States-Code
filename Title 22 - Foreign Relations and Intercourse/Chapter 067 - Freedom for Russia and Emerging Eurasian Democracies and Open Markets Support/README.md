@@ -40,7 +40,7 @@
 | (a) | Allocation of A.I.D. funds. |
 | (b) | Export promotion, finance, and related activities. |
 | [5824\.](Subchapter%20002%20%28II%29%20-%20Business%20and%20Commercial%20Development/%C2%A7%2005824%20-%20Interagency%20working%20group%20on%20energy%20of%20the%20Trade%20Promotion%20Coordinating%20Committee.md) | Interagency working group on energy of the Trade Promotion Coordinating Committee. |
-| [5825\.](Subchapter%20002%20%28II%29%20-%20Business%20and%20Commercial%20Development/%C2%A7%2005825%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [5825\.](Subchapter%20002%20%28II%29%20-%20Business%20and%20Commercial%20Development/%C2%A7%2005825%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71021%28e%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20713.md) | Repealed. |
 | [5826\.](Subchapter%20002%20%28II%29%20-%20Business%20and%20Commercial%20Development/%C2%A7%2005826%20-%20Policy%20on%20combatting%20tied%20aid%20practices.md) | Policy on combatting tied aid practices. |
 | [5827\.](Subchapter%20002%20%28II%29%20-%20Business%20and%20Commercial%20Development/%C2%A7%2005827%20-%20Technical%20assistance%20for%20Russian%20Far%20East.md) | Technical assistance for Russian Far East. |
 | (a) | Authorization. |

@@ -2,11 +2,11 @@
 
 #### (a) Abandonment of lines of railroad under Bankruptcy Act
 
-Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the abandonment of lines of railroad pursuant to section 1170 of title 11. Pending the expiration of the time for appeal of an abandonment order or the determination of any such appeal, the court may authorize the termination of service on a line to be abandoned, and the order authorizing such termination may not bestayed. In authorizing any abandonment pursuant to this section, the court shall require the carrier to provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 of title 49.
+Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the abandonment of lines of railroad pursuant to section 1170 of title 11. Pending the expiration of the time for appeal of an abandonment order or the determination of any such appeal, the court may authorize the termination of service on a line to be abandoned, and the order authorizing such termination may not be stayed. In authorizing any abandonment pursuant to this section, the court shall require the carrier to provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 <sup>1</sup> of title 49.
 
 #### (b) Sale or transfer of lines of railroad under Bankruptcy Act
 
-(1) Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the sale or transfer of a line of railroad to be used in continued rail operations, subject to the approval of the Commission under paragraph (2) of this subsection, if the application with respect to such sale or transfer is filed with the Commission on or after November 1, 1979. In authorizing any such sale or transfer, the court shall provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 of title 49.
+(1) Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the sale or transfer of a line of railroad to be used in continued rail operations, subject to the approval of the Commission under paragraph (2) of this subsection, if the application with respect to such sale or transfer is filed with the Commission on or after November 1, 1979. In authorizing any such sale or transfer, the court shall provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 <sup>1</sup> of title 49.
 
 (2) The court described in paragraph (1) may not authorize a sale or transfer pursuant to such paragraph unless an appropriate application with respect to such sale or transfer is initiated with the Commission and, within such time as the court may fix, not exceeding 180 days, the Commission, with or without a hearing, as the Commission may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Commission approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 &emsp;(iii) “financially responsible person” means a person capable of compensating the carrier subject to liquidation for the acquisition of the line or lines proposed to be acquired and able to cover expenses associated with providing service over such line or lines for a period of not less than 4 years.
 
-(4) Pending review of an application by the Commission pursuant to paragraph (2) of this subsection, the court described in paragraph (1) may, on a preliminary basis, authorize the sale or transfer proposed in such application. The court may permit the purchasing carrier to operate interim service over the lines to be purchased, and in operating such service it shall useemployees of the carrier subject to the bankruptcy proceeding to the extent such purchasing carrier deems necessary for the operation of such service.
+(4) Pending review of an application by the Commission pursuant to paragraph (2) of this subsection, the court described in paragraph (1) may, on a preliminary basis, authorize the sale or transfer proposed in such application. The court may permit the purchasing carrier to operate interim service over the lines to be purchased, and in operating such service it shall use employees of the carrier subject to the bankruptcy proceeding to the extent such purchasing carrier deems necessary for the operation of such service.
 
 #### (c) Judicial review
 
@@ -64,11 +64,19 @@ Nothing in this section shall be deemed to affect the priorities or timing of pa
 
 Section 77 of the Bankruptcy Act, referred to in subsecs. (a), (b)(1), (3)(H)(i), and (c), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
+Section 11347 of title 49, referred to in subsecs. (a) and (b)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11347 are contained in section 11326(a) of Title 49.
+
 #### Amendments
 
 1983—Subsec. (b)(3), (4). Pub. L. 97–468 added par. (3) and redesignated former par. (3) as (4).
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1009, 1018 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -82,7 +82,7 @@ To be eligible to receive a grant under this section, a State shall submit every
 
 #### (B) Training
 
-&emsp;&emsp;The types and frequency of pre-service and in-service training programs available tosupport direct line and supervisory personnel in report-taking, screening, decision-making, and referral for investigation.
+&emsp;&emsp;The types and frequency of pre-service and in-service training programs available to support direct line and supervisory personnel in report-taking, screening, decision-making, and referral for investigation.
 
 #### (C) Public education
 
@@ -110,7 +110,7 @@ To be eligible to receive a grant under this section, a State shall submit every
 
 &emsp;&emsp;&emsp;(i) multidisciplinary investigation teams among child welfare and law enforcement agencies;
 
-&emsp;&emsp;&emsp;(ii) interagency coordination for the prevention, intervention and treatment of child abuse and neglect among agencies responsible for child protective services, criminal justice, schools, health, mental health, and substance abuse; and
+&emsp;&emsp;&emsp;(ii) interagency coordination for the prevention, intervention and treatment ofchild abuse and neglect among agencies responsible for child protective services, criminal justice, schools, health, mental health, and substance abuse; and
 
 &emsp;&emsp;&emsp;(iii) special interagency child fatality review panels, including a listing of those agencies that are involved.
 
@@ -180,7 +180,7 @@ To be eligible to receive a grant under this section, a State shall submit every
 
 &emsp;&emsp;(A) for a period of not more than one year, if the Secretary makes a finding that such State is making a good faith effort to comply with any such requirement, and for a second one-year period if the Secretary makes a finding that such State is making substantial progress to achieve such compliance; or
 
-&emsp;&emsp;(B) for a nonrenewable period of not more than two years in the case of a State the legislature of which meets only biennially, if the Secretary makes a finding that such State is making a good faith effort to comply with such requirement.
+&emsp;&emsp;(B) for a nonrenewable period of not more than two years in the case of a State the legislature of which meets only biennially, if the Secretary makes a finding that suchState is making a good faith effort to comply with such requirement.
 
 #### (2) Extension
 

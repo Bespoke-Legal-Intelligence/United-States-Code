@@ -16,7 +16,7 @@ Pub. L. 102–314, §1, July 2, 1992, 106 Stat. 280, provided that: “This Act 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act \[enacting section 1769c of this title, amending sections 1755, 1757, 1758, 1759a to 1761, 1762a, 1766, 1769, 1772 to 1774, 1776, 1784, and 1786 of this title, and enacting provisions set out as notes under sections 1755, 1773, and 1786 of this title\] may be cited as the ‘Child Nutrition Amendments of 1978’.”
+Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act \[enacting section 1769c of this title,amending sections 1755, 1757, 1758, 1759a to 1761, 1762a, 1766, 1769, 1772 to 1774, 1776, 1784, and 1786 of this title, and enacting provisions set out as notes under sections 1755, 1773, and 1786 of this title\] may be cited as the ‘Child Nutrition Amendments of 1978’.”
 
 #### Short Title
 

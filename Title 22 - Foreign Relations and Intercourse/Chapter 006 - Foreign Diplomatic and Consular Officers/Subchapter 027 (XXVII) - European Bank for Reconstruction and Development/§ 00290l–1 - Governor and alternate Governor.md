@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank, an alternate for the Governor, and a Director of the Bank.
+The President, by and with the advice and consent of the Senate, shall appoint a Governor ofthe Bank, an alternate for the Governor, and a Director of the Bank.
 
 #### (b) Compensation
 

@@ -40,7 +40,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 &emsp;(B) When a declarant has received an award under subsection (c) of this section, the Attorney General may subtract the amount of that reward from any recovery under this subsection.
 
-(2)(A) When more than 1 declarant has provided information leading to a recovery underthis subsection, the Attorney General shall first calculate the size of the total award under paragraph (1)(A) and then distribute that amount according to the contribution made by each declarant.
+(2)(A) When more than 1 declarant has provided information leading to a recovery under this subsection, the Attorney General shall first calculate the size of the total award under paragraph (1)(A) and then distribute that amount according to the contribution made by each declarant.
 
 (B) In distributing any such award between 2 or more declarants, the Attorney General may, in the Attorney General's discretion, consider any appropriate factor.
 
@@ -52,7 +52,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 #### (f) Appropriate Federal banking agency exception
 
-For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
+For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacityor the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
 
 (Pub. L. 101–647, title XXV, §2565, Nov. 29, 1990, 104 Stat. 4896.)
 

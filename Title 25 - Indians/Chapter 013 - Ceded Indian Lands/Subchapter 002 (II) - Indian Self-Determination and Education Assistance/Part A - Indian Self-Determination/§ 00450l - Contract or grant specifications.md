@@ -40,7 +40,7 @@ Term.—Pursuant to section 105(c)(1) of the Indian Self-Determination and Educa
 
 &emsp;“(2)
 
-Effective date.—This Contract shall become effective upon the date of the approval and execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
+Effective date.—This Contract shall become effective upon the date of the approvaland execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
 
 &emsp;“(3)
 
@@ -76,7 +76,7 @@ In general.—Pursuant to section 108(b) of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;“(ii)
 
-Method of quarterly payment.—If quarterly payments are specified in theannual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
+Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -110,7 +110,7 @@ Property.—
 
 &emsp;&emsp;“(A)
 
-In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(f)), at the request of the Contractor, the Secretary may make available, or transfer to the Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
+In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(f)), at the request of the Contractor, the Secretary may make available, or transfer tothe Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
 
 &emsp;&emsp;“(B)
 
@@ -196,7 +196,7 @@ In general.—Negotiations for a successor annual funding agreement, provided fo
 
 &emsp;&emsp;“(B)
 
-Information.—The Secretary shall prepare and supply relevant information, and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
+Information.—The Secretary shall prepare and supply relevant information,and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
 
 &emsp;“(15)
 
@@ -248,7 +248,7 @@ Trust services to individual indians.—For the purposes of this paragraph only,
 
 &emsp;“(5)
 
-Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shallprovide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievances brought by program beneficiaries against the Contractor arising out of the performance of the Contract.
+Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievances brought by program beneficiaries against the Contractor arising out of the performance of the Contract.
 
 “(d)
 

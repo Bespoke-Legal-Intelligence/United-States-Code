@@ -110,6 +110,10 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
 
+#### Establishment of Maximum Rate of Reimbursement to States for Meals; Availability of Funds
+
+Pub. L. 104–37, title IV, Oct. 21, 1995, 109 Stat. 324, provided in part: “That hereafter notwithstanding any other provision of law, for meals provided pursuant to the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], a maximum rate of reimbursement to States will be established by the Secretary, subject to reduction if obligations would exceed the amount of available funds, with any unobligated funds to remain available only for obligation in the fiscal year beginning October 1, 1996.”
+
 #### Authorization of Appropriations
 
 Section 3(a) of Pub. L. 99–269 provided that: “There is authorized to be appropriated $127,800,000 for fiscal year 1985, in order to provide reimbursement at the level of 56.76 cents per meal during fiscal year 1985, determined under section 311(a)(4) of the Older Americans Act of 1965 (42 U.S.C. 3030a(a)(4)), for meals served under section 311 of such Act in such fiscal year. For purposes of subsections (a) and (b) of section 311 of such Act, the sum authorized to be appropriated by this subsection shall be deemed to have been authorized to be appropriated for fiscal year 1985 by section 311(c)(1) of such Act. For purposes of section 311(c)(1)(B) of such Act, the date of the enactment of this Act shall be deemed to be the last day of each quarter of fiscal year 1985 for which reimbursement is claimed.”

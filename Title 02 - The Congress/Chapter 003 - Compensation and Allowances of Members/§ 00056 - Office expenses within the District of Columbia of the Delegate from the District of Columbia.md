@@ -1,4 +1,4 @@
-### §56 . Office expenses within the District of Columbia of the Delegate from the District of Columbia
+### §56. Office expenses within the District of Columbia of the Delegate from the District of Columbia
 
 Effective as of April 1, 1971, until otherwise provided by law, the Clerk of the House of Representatives shall reimburse the Delegate from the District of Columbia, from the contingent fund of the House, in an amount not more than $300 quarterly, upon certification of the Delegate, for official office expenses incurred within the District of Columbia.
 
@@ -22,7 +22,7 @@ Section 302(a), (b), and (d) of House Resolution No. 287, Ninety-fifth Congress,
 
 Contingent Expenses of the House’ under the heading ‘HOUSE OF REPRESENTATIVES’ in the Legislative Appropriation Act, 1955 (2 U.S.C. 122a), or under chapter 4, section 401, of the Supplemental Appropriations Act, 1972 (2 U.S.C. 56), for any official expense incurred in the United States; and
 
-&emsp;“(2) the Clerk of the House may make disbursements under the paragraph referred to in paragraph (1) by (A) direct payment to the person from whom goods or services are obtained by the Member involved under such paragraph; or (B) reimbursement to the Member involved or person designated by the Member.
+&emsp;“(2) the Clerk of the House may make disbursements under the paragraph referred to in paragraph (1) by (A) direct payment to the person from whomgoods or services are obtained by the Member involved under such paragraph; or (B) reimbursement to the Member involved or person designated by the Member.
 
 “(b) Effective January 3, 1978, notwithstanding any other provision of law and until otherwise provided by law, and conditional upon the adoption of a House rule prohibiting Members of the House of Representatives from maintaining unofficial office accounts, the entitlement of each Member of the House of Representatives under the nineteenth paragraph under the subheading ‘
 

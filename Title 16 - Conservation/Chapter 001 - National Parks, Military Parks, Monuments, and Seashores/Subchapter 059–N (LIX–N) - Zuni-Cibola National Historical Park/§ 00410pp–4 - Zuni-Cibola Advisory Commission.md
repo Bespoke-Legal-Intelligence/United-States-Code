@@ -1,4 +1,4 @@
-### §410pp–4 . Zuni-Cibola Advisory Commission
+### §410pp–4. Zuni-Cibola Advisory Commission
 
 #### (a) Establishment
 
@@ -12,7 +12,7 @@
 
 #### (b) Terms
 
-The initial terms of members of the Advisory Commission appointed by the Secretary pursuant to subsection (a) of this section shall be staggered, as determined by the Secretary, in order to assure continuity in the administration of the Advisory Commission. Thereafter the term shall be four years. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of such member's term until a successor is appointed. A vacancy in the Advisory Commission shall be filled in the manner in which the original appointment was made. The advisory <sup>1</sup> Commission shall exist for the duration of a leasehold accepted by the Secretary pursuant to section 410pp–1 of this title, and any extensions or renewals thereof.
+The initial terms of members of the Advisory Commission appointed by the Secretary pursuant to subsection (a) of this section shall be staggered, as determined by the Secretary, in order to assure continuity in the administration of the Advisory Commission. Thereafter the term shall be four years. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of such member's term until a successor is appointed. A vacancy in the Advisory Commission shall be filled in the manner in which the original appointment was made. The advisory <sup>1</sup> Commission shall existfor the duration of a leasehold accepted by the Secretary pursuant to section 410pp–1 of this title, and any extensions or renewals thereof.
 
 #### (c) Expenses
 
@@ -38,7 +38,7 @@ The General Schedule, referred to in subsec. (a)(2), (3), is set out under secti
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(3), are classified generally to section 3301 et seq. of Title 5.
 
-The Federal Advisory Committee Act, referred to in subsecs. (e) and (f), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsecs. (e) and (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Section Referred to in Other Sections
 

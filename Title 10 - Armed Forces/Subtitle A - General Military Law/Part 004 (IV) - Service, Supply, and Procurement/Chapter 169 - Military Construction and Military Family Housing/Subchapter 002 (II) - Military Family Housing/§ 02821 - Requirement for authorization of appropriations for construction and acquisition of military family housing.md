@@ -38,7 +38,7 @@ Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended by 
 
 #### Family Housing Constructed Overseas
 
-Pub. L. 98–115, title VIII, §803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, §812, Aug.28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, §1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that:
+Pub. L. 98–115, title VIII, §803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, §812, Aug. 28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, §1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that:
 
 “(a) The Secretary of Defense shall ensure that any contract entered into for the construction of military family housing for the Department of Defense in a foreign country shall (1) require the use of manufactured or factory-built housing which is fabricated in the United States by a United States contractor, or (2) in the case of concrete housing, the use of housing (A) that is produced in a plant that was fabricated in the United States by a United States company, and (B) for which the materials, fixtures, and equipment used in the construction of such housing (other than cement, sand, and aggregates) are manufactured in the United States.
 

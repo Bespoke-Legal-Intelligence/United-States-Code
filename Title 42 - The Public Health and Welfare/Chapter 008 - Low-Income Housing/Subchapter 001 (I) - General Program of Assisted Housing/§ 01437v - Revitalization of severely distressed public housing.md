@@ -94,7 +94,7 @@ The Secretary may make—
 
 #### (1) In general
 
-&emsp;The Secretary may make implementation grants under this subsection to applicants forthe purpose of carrying out revitalization programs for severely distressed public housing under this section.
+&emsp;The Secretary may make implementation grants under this subsection to applicants for the purpose of carrying out revitalization programs for severely distressed public housing under this section.
 
 #### (2) Eligible activities
 
@@ -268,7 +268,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 The Fair Housing Act, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

@@ -52,7 +52,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;&emsp;(C) improve the ability to identify and evaluate region-specific prevention and control options for ozone pollution.
 
-&emsp;(4) Submission of periodic reports to the Congress, not less than once every 5 years,which evaluate and assess the effectiveness of air pollution control regulations and programs using monitoring and modeling data obtained pursuant to this subsection.
+&emsp;(4) Submission of periodic reports to the Congress, not less than once every 5 years, which evaluate and assess the effectiveness of air pollution control regulations and programs using monitoring and modeling data obtained pursuant to this subsection.
 
 #### (d) Environmental health effects research
 
@@ -142,7 +142,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 #### (h) NIEHS studies
 
-(1) The Director of the National Institute of Environmental Health Sciences may conduct a program of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
+(1) The Director of the National Institute of Environmental Health Sciences may conduct aprogram of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
 
 (2) The Director of the National Institute of Environmental Health Sciences shall conduct a program for the education and training of physicians in environmental health.
 
@@ -158,7 +158,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;(2) a consideration of the extent of the feasibility and scientific value of conducting the research program under subsection (e) of this section to include consideration of the effects of atmospheric processes and air pollution effects; and
 
-&emsp;(3) a methodology for evaluating and ranking pollution prevention technologies, such asthose developed under subsection (g) of this section, in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
+&emsp;(3) a methodology for evaluating and ranking pollution prevention technologies, such as those developed under subsection (g) of this section, in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
 
 > Not later than 2 years after November 15, 1990, and every 4 years thereafter, the Administrator shall report to Congress on the progress made in implementing the plan developed under this subsection, and shall include in such report any revisions of the plan.
 
@@ -206,7 +206,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 #### (k) Air pollution conferences
 
-If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to airpollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
+If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
 
 (July 14, 1955, ch. 360, title I, §103, formerly §3, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 394; renumbered §103 and amended Oct. 20, 1965, Pub. L. 89–272, title I, §§101(3), 103, 79 Stat. 992, 996; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 486; Dec. 31, 1970, Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), 84 Stat. 1676, 1689, 1710, 1713; Aug. 7, 1977, Pub. L. 95–95, title I, §101(a), (b), 91 Stat. 686, 687; Nov. 15, 1990, Pub. L. 101–549, title IX, §901(a)–(c), 104 Stat. 2700–2703.)
 

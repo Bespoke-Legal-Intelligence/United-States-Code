@@ -26,7 +26,7 @@ The Commissioner of Customs shall submit to the Congress, by no later than Febru
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §607, 42 Stat. 985. That section was superseded by section 607 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §607, 42 Stat. 985. That section was superseded by section 607 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions for publication or posting of notice of seizure, requiring claimants to appear and file their claim, when the appraised value did not exceed $500, were contained in R.S. §3075, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

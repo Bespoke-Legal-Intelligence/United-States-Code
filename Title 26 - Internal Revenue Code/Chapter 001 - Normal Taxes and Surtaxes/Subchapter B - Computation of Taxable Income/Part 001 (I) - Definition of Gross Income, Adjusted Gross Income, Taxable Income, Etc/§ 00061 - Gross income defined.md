@@ -76,7 +76,7 @@ Section 1026 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(a)
 
-In General.—In the case of any transfer of property subject to gift tax made before March 4, 1981, forpurposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 1 et seq.\], gross income of the donor shall not include any amount attributable to the donee's payment of (or agreement to pay) any gift tax imposed with respect to such gift.
+In General.—In the case of any transfer of property subject to gift tax made before March 4, 1981, for purposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 1 et seq.\], gross income of the donor shall not include any amount attributable to the donee's payment of (or agreement to pay) any gift tax imposed with respect to such gift.
 
 “(b)
 

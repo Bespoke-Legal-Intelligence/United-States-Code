@@ -78,6 +78,10 @@ Subsec. (a). Pub. L. 103–272 substituted “section 40102(a) of title 49” fo
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, with this section, as amended by section 201 of Pub. L. 103–394, applicable with respect to any lease, as defined by subsec. (c) of this section, entered into in connection with a settlement of any proceeding in any case pending under this title on Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
 #### Aircraft Equipment Settlement Leases
 
 Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:

@@ -18,7 +18,7 @@ The Congress finds that—
 
 (h) In light of competing demands and the urgent need to protect and to give high priority to natural systems in the coastal zone, present state and local institutional arrangements for planning and regulating land and water uses in such areas are inadequate.
 
-(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters in the coastal zone by assisting the states, in cooperation with Federal and local governments and other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
+(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters in the coastal zone by assisting the states, in cooperation with Federal and local governmentsand other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
 
 (j) The national objective of attaining a greater degree of energy self-sufficiency would be advanced by providing Federal financial assistance to meet state and local needs resulting from new or expanded energy activity in or affecting the coastal zone.
 
@@ -96,7 +96,7 @@ Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1
 
 #### Establishment of Positions and Fixing of Compensation by Secretary of Commerce; Appointments
 
-Section 15(c) of Pub. L. 94–370, which related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, was repealed by Pub. L. 99–272, title VI, §6045(3), Apr. 7, 1986, 100 Stat. 127.
+Section 15(c) of Pub. L. 94–370 related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 99–272, title VI, §6045(3), Apr. 7, 1986, 100 Stat. 127.
 
 #### Territorial Sea of United States
 

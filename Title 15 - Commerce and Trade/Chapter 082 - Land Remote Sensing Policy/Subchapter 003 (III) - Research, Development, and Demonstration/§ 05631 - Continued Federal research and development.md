@@ -22,5 +22,5 @@
 
 Other United States Government agencies are authorized and encouraged to conduct research and development on the use of remote sensing in the fulfillment of their authorized missions, using funds appropriated for such purposes.
 
-(Pub. L. 102 555, title III, §301, Oct. 28, 1992, 106 Stat. 4174.)
+(Pub. L. 102–555, title III, §301, Oct. 28, 1992, 106 Stat. 4174.)
 

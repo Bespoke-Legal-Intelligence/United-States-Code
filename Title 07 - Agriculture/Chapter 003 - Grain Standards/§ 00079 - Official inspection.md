@@ -1,0 +1,206 @@
+### §79. Official inspection
+
+#### (a) Grain required to be officially inspected
+
+The Secretary is authorized to cause official inspection under the standards provided for in section 76 of this title to be made of all grain required to be officially inspected as provided in section 77 of this title, in accordance with such regulations as the Secretary may prescribe.
+
+#### (b) Inspections made pursuant to request of interested persons
+
+The Secretary is further authorized, upon request of any interested person, and under such regulations as the Secretary may prescribe, to cause official inspection to be made with respect to any grain whether by official sample, submitted sample, or otherwise within the United States under standards provided for in section 76 of this title, or, upon request of the interested person, under other criteria approved by the Secretary for determining the kind, class, quality, or condition of grain, or other facts relating to grain, whenever in the judgment of the Secretary providing such service will effectuate any of the objectives stated in section 74 of this title.
+
+#### (c) Reinspections and appeals; cancellation of superseded certificates; sale of samples
+
+The regulations prescribed by the Secretary under this chapter shall include provisions for reinspections and appeal inspections; cancellation and surrender of certificates superseded by reinspections and appeal inspections; and the use of standard forms for official certificates. The Secretary may provide by regulation that samples obtained by or for employees of the Secretary for purposes of official inspection shall become the property of the United States, and such samples may be disposed of without regard to the provisions of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\].
+
+#### (d) Official certificates as evidence
+
+Official certificates setting out the results of official inspection issued and not canceled under this chapter shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the facts stated therein.
+
+#### (e) Official inspection at export port locations; delegation of authority to State agencies
+
+(1) Except as otherwise provided in paragraph (2) of this subsection, the Secretary shall cause official inspection at export port locations, for all grain required or authorized to be inspected by this chapter, to be performed by official inspection personnel employed by the Secretary or other persons under contract with the Secretary as provided in section 84 of this title.
+
+(2) If the Secretary determines, pursuant to paragraph (3) of this subsection, that a State agency is qualified to perform official inspection, meets the criteria in subsection (f)(1)(A) of this section, and (A) was performing official inspection at an export port location under this chapter on July 1, 1976, or (B)(i) performed official inspection at an export port location at any time prior to July 1, 1976, (ii) was designated under subsection (f) of this section on December 22, 1982, to perform official inspections at locations other than export port locations, and (iii) operates in a State from which total annual exports of grain do not exceed, as determined by the Secretary, 5 per centum of the total amount of grain exported from the United States annually, the Secretary may delegate authority to the State agency to perform all or specified functions involved in official inspection (other than appeal inspection) at export port locations within the State, including export port locations which may in the future be established, subject to such rules, regulations, instructions, and oversight as the Secretary may prescribe, and any such official inspection shall continue to be the direct responsibility of the Secretary. Any such delegation may be revoked by the Secretary, at the discretion of the Secretary, at any time upon notice to the State agency without opportunity for a hearing.
+
+(3) Prior to delegating authority to a State agency for the performance of official inspection at export port locations pursuant to paragraph (2) of this subsection, the Secretary shall (A) conduct an investigation to determine whether such agency is qualified, and (B) make findings based on such investigation. In conducting the investigation, the Secretary shall consult with, and review the available files of the Department of Justice, the Office of Investigation of the Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture), and the General Accounting Office.
+
+(4) The Secretary may provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States shall be inspected in the manner provided in this subsection or subsection (f) of this section, as the Secretary determines will best meet the objectives of this chapter.
+
+#### (f) Official inspections at other than export port locations; designation of agencies or persons to conduct official inspections
+
+(1) With respect to official inspections other than at export port locations, the Secretary is authorized, upon application by any State orlocal governmental agency, or any person, to designate such agency or person as an official agency for the conduct of all or specified functions involved in official inspection (other than appeal inspection) at locations where the Secretary determines official inspection is needed, if—
+
+&emsp;(A) the agency or person shows to the satisfaction of the Secretary that such agency or person—
+
+&emsp;&emsp;(i) has adequate facilities and qualified personnel for the performance of such official inspection functions;
+
+&emsp;&emsp;(ii) will provide for the periodic rotation of official inspection personnel among the grain elevators, warehouses, or other storage or handling facilities at which the State or person provides official inspection, as is necessary to preserve the integrity of the official inspection service;
+
+&emsp;&emsp;(iii) will meet training requirements and personnel standards established by the Secretary under section 84(g) of this title;
+
+&emsp;&emsp;(iv) will otherwise conduct such training and provide such supervision of its personnel as are necessary to assure that they will provide official inspection in accordance with this chapter and the regulations and instructions thereunder;
+
+&emsp;&emsp;(v) will not charge official inspection fees that are discriminatory or unreasonable;
+
+&emsp;&emsp;(vi) if a State or local governmental agency, will not use any moneys collected pursuant to the charging of fees for any purpose other than the maintenance of the official inspection operation of the State or local governmental agency;
+
+&emsp;&emsp;(vii) and any related entities do not have a conflict of interest prohibited by section 87 of this title;
+
+&emsp;&emsp;(viii) will maintain complete and accurate records of its organization, staffing, official activities, and fiscal operations, and such other records as the Secretary may require by regulation;
+
+&emsp;&emsp;(ix) if a State or local governmental agency, will employ personnel on the basis of job qualifications rather than political affiliations;
+
+&emsp;&emsp;(x) will comply with all provisions of this chapter and the regulations and instructions thereunder; and
+
+&emsp;&emsp;(xi) meets other criteria established in regulations issued under this chapter relating to official functions under this chapter; and
+
+&emsp;(B) the Secretary determines that the applicant is better able than any other applicant to provide official inspection service.
+
+(2) Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.
+
+(3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
+
+(4) No State or local governmental agency or person shall provide any official inspection for the purposes of this chapter except pursuant to an unsuspended and unrevoked delegation of authority or designation by the Secretary, as provided in this section, or as provided in section 84(a) of this title.
+
+#### (g) Termination, renewal, amendment, cancellation, and revocation of designations of official agencies
+
+(1) Designations of official agencies shall terminate at such time as specified by the Secretary but not later than triennially and may be renewed in accordance with the criteria and procedure prescribed in subsection (f) of this section.
+
+(2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
+
+(3) The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: <i>Provided</i>, That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is cause for revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
+
+#### (h) Official inspections at locations other than export port locations when designated official agencies are not available
+
+If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at anexport port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in section 74 of this title, and that no official agency within reasonable proximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in section 84 of this title, until such time as the service can be provided on a regular basis by an official agency.
+
+#### (i) Official inspections in Canadian ports
+
+The Secretary is authorized to cause official inspection under this chapter to be made, as provided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
+
+#### (j) Fees; establishment, amount, payment, etc.
+
+(1) The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable inspection fees to cover the estimated cost to the Secretary incident to the performance of official inspection except when the official inspection is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its <sup>1</sup> performance of official inspection services in the United States and on United States grain in Canadian ports, including administrative and supervisory costs related to such official inspection of grain. Such fees, and the proceeds from the sale of samples obtained for purposes of official inspection which become the property of the United States, shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+
+(2) Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of official agency personnel and supervision by the Secretary of the Secretary's field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
+
+(3) Any sums collected or received by the Secretary under this chapter and deposited to the fund created in paragraph (1) of this subsection and any late payment penalties collected by the Secretary and credited to such fund may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. The interest earned on such sums and any late payment penalties collected by the Secretary shall be credited to the fund and shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+
+(4) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2000. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+
+(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 763; Oct. 21, 1976, Pub. L. 94–582, §8(a), 90 Stat. 2870; Sept. 29, 1977, Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), 91 Stat. 1025, 1027, 1030; Aug. 13, 1981, Pub. L. 97–35, title I, §155(1), 95 Stat. 371; Dec. 22, 1981, Pub. L. 97–98, title IX, §1113(a), 95 Stat. 1268; Oct. 11, 1984, Pub. L. 98–469, §2(1), 98 Stat. 1831; Oct. 24, 1988, Pub. L. 100–518, §2(1), 102 Stat. 2584; Nov. 24, 1993, Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), 107 Stat. 1525, 1526, 1528, 1529; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(4), (7), (8), 108 Stat. 3237.)
+
+#### References in Text
+
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The provisions of that act relating to management and disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Codification
+
+Section as originally enacted was composed of part of section 7 of part B of act Aug. 11, 1916. Other provisions of section 7 were classified to former sections 80 to 83 of this title.
+
+#### Amendments
+
+1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for“supervision of Service personnel of its field office personnel” in first sentence of subsec. (j)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing.
+
+1993—Pub. L. 103–156, §12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+
+Subsec. (a). Pub. L. 103–156, §12(d)(1), substituted “regulations as the Administrator” for “regulations as he”.
+
+Subsec. (b). Pub. L. 103–156, §12(d)(2), substituted “regulations as the Administrator” for “regulations as he” and “the judgment of the Administrator” for “his judgment”.
+
+Subsec. (e)(2). Pub. L. 103–156, §12(d)(3), substituted “oversight as the Administrator” for “oversight as he” and “the discretion of the Administrator” for “his discretion”.
+
+Subsec. (f)(1)(A)(vi). Pub. L. 103–156, §4(a)(1), substituted “of the State” for “or other agricultural programs operated by the State”.
+
+Subsec. (f)(2). Pub. L. 103–156, §5(a), inserted before period at end “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title”.
+
+Subsec. (i). Pub. L. 103–156, §4(a)(2), inserted before period at end “or as otherwise provided by agreement with the Canadian Government”.
+
+Subsec. (j)(4). Pub. L. 103–156, §14(a), added par. (4).
+
+1988—Subsec. (j). Pub. L. 100–518 reenacted subsec. (j) without change.
+
+1984—Subsec. (j)(3). Pub. L. 98–469 temporarily added par. (3). See Effective and Termination Dates of 1984 Amendment note below.
+
+1981—Subsec. (e)(2). Pub. L. 97–98 inserted provision authorizing the Administrator to delegate authority to perform grain inspection functions at export port locations to any State agency that performed official inspection at an export port location at any time prior to July 1, 1976, was designated under subsec. (f) of this section on Dec. 22, 1981, to perform inspections at locations other than export port locations, and operates in a State from which the total annual exports of grain do not exceed 5 per centum of the total amount of grain exported from the United States.
+
+Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature and provided for inclusion, rather than exclusion, of administrative and supervisory costs, and added par. (2). See Effective and Termination Dates of 1981 Amendments note below.
+
+1977—Subsec. (b). Pub. L. 95–113, §1606(d), struck out reference to a determination of the quantity of sacks of grain.
+
+Subsec. (e). Pub. L. 95–113, §1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
+
+Subsec. (f)(2). Pub. L. 95–113, §1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “section 74 of this title”, and redesignated other existing provisions as pars. (3) and (4).
+
+Subsec. (f)(3). Pub. L. 95–113, §1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
+
+Subsec. (f)(4). Pub. L. 95–113, §1604(d)(2)(D), redesignated a portion of existing par. (2) as (4).
+
+Subsec. (g)(1). Pub. L. 95–113, §1604(d)(3), substituted “prescribed in subsection (f)” for “prescribed in subsections (e) and (f)”.
+
+Subsec. (i). Pub. L. 95–113, §1604(d)(4), inserted provision that all or specified functions of the inspections be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
+
+Subsec. (j). Pub. L. 95–113, §1602(a), revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
+
+1976—Subsec. (a). Pub. L. 94–582, §8(a)(1), substituted “Administrator” for “Secretary”.
+
+Subsec. (b). Pub. L. 94–582, §8(a)(1), (2), substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
+
+Subsec. (c). Pub. L. 94–582, §8(a)(1), (3), substituted “Administrator” for “Secretary” in two places; and substituted “Service” for “Department of Agriculture” and “cancellation and surrender” for “cancellation” and required regulation provision for use of standard forms for official certificates, respectively.
+
+Subsec. (d). Pub. L. 94–582, §8(a)(4), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
+
+Subsec. (e). Pub. L. 94–582, §8(a)(5), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
+
+Subsec. (f). Pub. L. 94–582, §8(a)(5), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
+
+Subsecs. (g) to (j). Pub. L. 94–582, §8(a)(5), added subsecs. (g) to (j).
+
+1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
+
+#### Effective and Termination Dates of 1988 Amendment
+
+That part of section 2 of Pub. L. 100–518 which provided that the amendment made by Pub. L. 100–518 was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
+
+#### Effective and Termination Dates of 1984 Amendment
+
+Section 2 of Pub. L. 98–469 provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+
+#### Effective and Termination Dates of 1981 Amendments
+
+Section 1113(b) of Pub. L. 97–98 provided that: “The provisions of this section \[amending this section\] shallbecome effective one hundred and eighty days after enactment of this Act \[Dec. 22, 1981\].”
+
+Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
+
+#### Effective Date of 1976 Amendment
+
+For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+
+#### Effective Date of 1968 Amendment
+
+For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
+
+#### Investigations and Studies of Grain Inspection and Weighing in Interior of United States; Completion of Studies and Submission of Reports by May 20, 1979, and Nov. 20, 1979, Respectively
+
+Section 8(b) of Pub. L. 94–582, as amended by Pub. L. 95–113, title XVI, §§1605(a), 1607(a), Sept. 29, 1977, 91 Stat. 1029, 1031, provided that:
+
+“(1) In order to provide information for use by the Congress in evaluating the needs of the grain inspection and weighing system at points in the United States other than at export port locations; the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture), and the Comptroller General of the United States shall severally conduct investigations into and study grain inspection and weighing in the interior of the United States. The studies shall address, but are not limited to, the tasks of (A) determining the reliability and effectiveness of present official inspection and weighing procedures in the interior of the United States, and (B) evaluating the operating procedures and management practices of agencies providing grain inspection and weighing services in the interior of the United States, as they relate to the integrity and accuracy of the services.
+
+“(2) The Director of the Office of Investigation specifically is directed to study the extent of any irregularities or problem areas under the present inspection and weighing systems and conflicts of interest rules and develop factual summaries of evidence disclosed in the Director's investigations into violations of the United States Grain Standards Act \[this chapter\], the grain weighing provisions of the United States Warehouse Act \[section 241 et seq. of this title\], and related provisions of title 18 of the United States Code: <i>Provided</i>, That the Director shall not submit such summary with respect to any criminal investigation which is pending at the time the report is due.
+
+“(3) The Administrator of the Federal Grain Inspection Service shall make findings with respect to present grain inspection and weighing agencies at each inland terminal marketing area of the United States at which over fifty million bushels of grain are inspected in an average year, such findings to include (A) results of interviews with shippers who ship grain to and consignees who receive grain from such terminal marketing areas, and (B) a thorough analysis of inspection and weighing error rates of such agencies (which may include the application of statistical tolerances for expected variations), based on existing documentation and the sampling during the investigation of a representative number of randomly selected lots of grain shipped to and from such terminal marketing areas.
+
+“(4) The Director of the Office of Investigation and the Administrator of the Federal Grain Inspection Service shall complete their investigations and study and shall submit their reports to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Comptroller General not later than thirty months after the effective date of this Act \[see Effective Date of 1976 Amendment note set out under section 74 of this title\].
+
+“(5) The Comptroller General, in making his investigations and study, shall (A) assess the present grain inspection and weighing system in the interior of the United States, and (B) evaluate the reports submitted under this subsection by the Director of the Office of Investigation and the Administrator of the Federal Grain Inspection Service. The Comptroller General shall submit a report setting forth the findings of such study and evaluation and his recommendations for changes in the United States Grain Standards Act \[this chapter\] to such Committees not later than three years after the effective date of this Act \[see Effective Date of 1976 Amendment note set out under section 74 of this title\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 75, 79a, 79b, 84, 87b, 87e, 87f–1, 87h of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “the Secretary's”.</i>
+

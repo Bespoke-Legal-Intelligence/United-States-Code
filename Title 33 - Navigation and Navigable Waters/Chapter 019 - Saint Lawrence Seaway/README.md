@@ -19,7 +19,7 @@
 | (a) | Negotiation with Canadian authorities; revenue sharing formula; consideration of American financing costs, including interest and debt principal; rules of measurement; hearings and rehearings; approval by President; court review. |
 | (b) | Principles governing establishment of rates. |
 | [988a.](%C2%A7%2000988a%20-%20Waiver%20of%20collection%20of%20charges%20or%20tolls.md) | Waiver of collection of charges or tolls. |
-| [989\.](%C2%A7%2000989%20-%20Annual%20and%20special%20reports.md) | Annual and special reports. |
+| [989\.](%C2%A7%2000989%20-%20Special%20reports.md) | Special reports. |
 | [990\.](%C2%A7%2000990%20-%20Offenses%20and%20penalties.md) | Offenses and penalties. |
 | (a) | Application of penal statutes. |
 | (b) | Frauds and false entries, reports, or statements. |
@@ -47,5 +47,5 @@ This chapter is referred to in title 46 App. section 1241v.
 - [&sect; 00987 - Services and facilities of other agencies](%C2%A7%2000987%20-%20Services%20and%20facilities%20of%20other%20agencies.md)
 - [&sect; 00988 - Rates of charges or tolls](%C2%A7%2000988%20-%20Rates%20of%20charges%20or%20tolls.md)
 - [&sect; 00988a - Waiver of collection of charges or tolls](%C2%A7%2000988a%20-%20Waiver%20of%20collection%20of%20charges%20or%20tolls.md)
-- [&sect; 00989 - Annual and special reports](%C2%A7%2000989%20-%20Annual%20and%20special%20reports.md)
+- [&sect; 00989 - Special reports](%C2%A7%2000989%20-%20Special%20reports.md)
 - [&sect; 00990 - Offenses and penalties](%C2%A7%2000990%20-%20Offenses%20and%20penalties.md)

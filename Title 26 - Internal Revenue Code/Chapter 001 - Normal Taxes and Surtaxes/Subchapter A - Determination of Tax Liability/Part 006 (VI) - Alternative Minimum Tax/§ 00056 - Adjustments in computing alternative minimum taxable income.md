@@ -20,7 +20,7 @@ In determining the amount of the alternative minimum taxable income for any taxa
 
 &emsp;&emsp;&emsp;&emsp;(II) switching to the straight line method for the 1st taxable year for which using the straight line method with respect to the adjusted basis as of the beginning of the year will yield a higher allowance.
 
-&emsp;&emsp;&nbsp;The preceding sentence shall not apply to any section 1250 property (as defined in section 1250(c)) or to any other property if the depreciation deduction determined under section 168 with respect to suchother property for purposes of the regular tax is determined by using the straight line method.
+&emsp;&emsp;&nbsp;The preceding sentence shall not apply to any section 1250 property (as defined in section 1250(c)) or to any other property if the depreciation deduction determined under section 168 with respect to such other property for purposes of the regular tax is determined by using the straight line method.
 
 #### (B) Exception for certain property
 
@@ -132,7 +132,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 &emsp;&emsp;&emsp;(i) in the case of circulation expenditures described in section 173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or
 
-&emsp;&emsp;&emsp;(ii) in the case of research and experimental expenditures described in section 174(a), shall be amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made.
+&emsp;&emsp;&emsp;(ii) in the case of research and experimental expenditures described in section174(a), shall be amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made.
 
 #### (B) Loss allowed
 
@@ -374,7 +374,7 @@ For purposes of this part—
 
 #### (IV) Separate application of foreign tax credit limitations
 
-&emsp;&emsp;&emsp;&emsp;In determining the alternative minimum foreign tax credit, section 904(d) shall be applied as if dividends from a corporation eligible for the credit provided by section 936 were a separate category of income referred to in a subparagraph of section 904(d)(1).
+&emsp;&emsp;&emsp;&emsp;In determining the alternative minimum foreign tax credit, section 904(d)shall be applied as if dividends from a corporation eligible for the credit provided by section 936 were a separate category of income referred to in a subparagraph of section 904(d)(1).
 
 #### (V) Coordination with limitation on 936 credit
 
@@ -450,7 +450,7 @@ For purposes of this part—
 
 &emsp;This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4),7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493.)
 
 #### References in Text
 
@@ -514,7 +514,7 @@ Subsec. (g)(4)(C)(iii). Pub. L. 101–508, §11801(c)(2)(C), substituted heading
 
 Subsec. (g)(4)(D)(ii). Pub. L. 101–508, §11704(a)(1), substituted “years” for “year”.
 
-Subsec. (g)(4)(F) to (H). Pub. L. 101–508, §11301(b), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which provided that acquisition expenses for life insurance companies be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subparagraph applied to all taxable years.
+Subsec. (g)(4)(F) to (H). Pub. L. 101–508, §11301(b), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which provided that acquisition expenses for life insurance companies be capitalized and amortized in accordance withthe treatment generally required under generally accepted accounting principles as if this subparagraph applied to all taxable years.
 
 Subsec. (h). Pub. L. 101–508, §11531(a), added subsec. (h).
 
@@ -668,7 +668,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Coordination with transitional rules.—The amendments made by this section shall not apply to any property to which paragraph (1) of section 56(a) ofthe Internal Revenue Code of 1986 does not apply by reason of subparagraph (C)(i) thereof.”
+Coordination with transitional rules.—The amendments made by this section shall not apply to any property to which paragraph (1) of section 56(a) of the Internal Revenue Code of 1986 does not apply by reason of subparagraph (C)(i) thereof.”
 
 Amendment by section 13171(b) of Pub. L. 103–66 applicable to contributions made after June 30, 1992, except that in case of any contribution of capital gain property which is not tangible personal property, such amendment applicable only if the contribution is made after Dec. 31, 1992, see section 13171(d) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
@@ -778,7 +778,7 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting 
 
 #### Study of Book and Earnings and Profits Adjustments
 
-Section 702 of Pub. L. 99–514, which required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of sections 56(f) and 56(g) of the Internal Revenue Code of 1986, was repealed by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
+Section 702 of Pub. L. 99–514 required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of sections 56(f) and 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
 
 #### Section Referred to in Other Sections
 

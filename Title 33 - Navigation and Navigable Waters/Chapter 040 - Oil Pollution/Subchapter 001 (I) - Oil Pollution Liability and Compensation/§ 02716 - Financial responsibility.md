@@ -6,9 +6,9 @@ The responsible party for—
 
 &emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carry oil as cargo or fuel) using any place subject to the jurisdiction of the United States; or
 
-&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oil destined for a place subject to the jurisdiction of the United States;
+&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oildestined for a place subject to the jurisdiction of the United States;
 
-> shall establish and maintain, in accordance with regulations promulgated by the Secretary, evidence of financial responsibility sufficient to meet the maximum amount of liability to which, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704 (a)(2) or (d) of this title, in a case where the responsible party would be entitled to limit liability under that section. If the responsible party owns or operates more than one vessel, evidence of financial responsibility need be established only to meet the amount of the maximum liability applicable to the vessel having the greatest maximum liability.
+> shall establish and maintain, in accordance with regulations promulgated by the Secretary, evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) or (d) of this title, in a case where the responsible party would be entitled to limit liability under that section. If the responsible party owns or operates more than one vessel, evidence of financial responsibility need be established only to meet the amount of the maximum liability applicable to the vessel having the greatest maximum liability.
 
 #### (b) Sanctions
 
@@ -60,13 +60,17 @@ Any regulation relating to financial responsibility, which has been issued pursu
 
 The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
-(Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502.)
+(Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, §2(d)(2), Nov. 20, 1995, 109 Stat. 547.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The effective date of this Act, referred to in subsec. (h), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–55 substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
 
 #### Delegation of Functions
 

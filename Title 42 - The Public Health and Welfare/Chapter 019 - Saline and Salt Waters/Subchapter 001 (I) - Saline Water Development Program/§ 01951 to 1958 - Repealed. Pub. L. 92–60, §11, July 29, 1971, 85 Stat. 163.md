@@ -6,7 +6,7 @@ Section 1952, acts July 3, 1952, ch. 568, §2, 66 Stat. 328; June 29, 1955, ch. 
 
 Section 1953, acts July 3, 1952, ch. 568, §3, 66 Stat. 329; June 29, 1955, ch. 227, §1(2), 69 Stat. 198; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 628, provided for powers of Secretary of the Interior. See section 1959c of this title.
 
-Section 1954, acts July 3, 1952, ch. 568, §4, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, providedfor coordination or joint conduct of activities with Department of Defense; cooperation with other Federal agencies; and availability to public of resulting information and developments. See section 1959d of this title.
+Section 1954, acts July 3, 1952, ch. 568, §4, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, provided for coordination or joint conduct of activities with Department of Defense; cooperation with other Federal agencies; and availability to public of resulting information and developments. See section 1959d of this title.
 
 Section 1955, acts July 3, 1952, ch. 568, §5, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, related to disposal of water and byproducts, disposition of moneys and alteration of existing law. See section 1959d(e) and (f) of this title.
 

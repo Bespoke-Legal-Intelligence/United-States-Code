@@ -26,7 +26,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 (3)(A) A country shall be deemed to be ineligible under subparagraph (A) of paragraph (1) of this subsection, or both subparagraphs (A) and (B) of such paragraph in the case of a violation described in both such paragraphs, if the President so determines and so reports in writing to the Congress, or if the Congress so determines by joint resolution.
 
-(B) Notwithstanding a determination by the President of ineligibility under subparagraph (B) of paragraph (1) of this subsection, cash sales and deliveries pursuant to previous sales may be made if the President certifies in writing to theCongress that a termination thereof would have significant adverse impact on United States security, unless the Congress adopts or has adopted a joint resolution pursuant to subparagraph (A) of this paragraph with respect to such ineligibility.
+(B) Notwithstanding a determination by the President of ineligibility under subparagraph (B) of paragraph (1) of this subsection, cash sales and deliveries pursuant to previous sales may be made if the President certifies in writing to the Congress that a termination thereof would have significant adverse impact on United States security, unless the Congress adopts or has adopted a joint resolution pursuant to subparagraph (A) of this paragraph with respect to such ineligibility.
 
 (4) A country shall remain ineligible in accordance with paragraph (1) of this subsection until such time as—
 
@@ -50,7 +50,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 > Any certification submitted to Congress pursuant to this paragraph shall be unclassified, except that information regarding the dollar value and number of articles or services proposed to be transferred may be classified if public disclosure thereof would be clearly detrimental to the security of the United States.
 
-(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title prohibiting the proposed transfer.
+(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requiresthat consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title prohibiting the proposed transfer.
 
 (B) In the case of a proposed transfer to the North Atlantic Treaty Organization, or any member country of such Organization, Japan, Australia, or New Zealand, unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until fifteen calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such fifteen-day period, a law prohibiting the proposed transfer.
 
@@ -74,7 +74,7 @@ If the President receives any information that a transfer of any defense article
 
 #### (f) Sales and leases to countries in breach of nuclear nonproliferation agreements and treaties
 
-No sales or leases shall be made to any country that the President has determined is in material breach of its binding commitments to the United States under international treaties oragreements concerning the nonproliferation of nuclear explosive devices (as defined in section 830(4) of the Nuclear Proliferation Prevention Act of 1994) and unsafeguarded special nuclear material (as defined in section 830(8) of that Act).
+No sales or leases shall be made to any country that the President has determined is in material breach of its binding commitments to the United States under international treaties or agreements concerning the nonproliferation of nuclear explosive devices (as defined in section 830(4) of the Nuclear Proliferation Prevention Act of 1994) and unsafeguarded special nuclear material (as defined in section 830(8) of that Act).
 
 (Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511.)
 
@@ -130,7 +130,7 @@ Subsec. (d)(4). Pub. L. 96–533, §101(a)(1)(A), (b), redesignated former par. 
 
 1977—Subsec. (b). Pub. L. 95–92, §15, struck out subsec. (b) which related to prohibitions on sales, etc., to countries seizing or fining American fishing vessels for fishing in waters more than twelve miles from their coastlines.
 
-Subsec. (d). Pub. L. 95–92, §§16, 17, redesignated existing provisions as par. (1), struck out “, 30 days prior togiving such consent,” before “the President submits”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 95–92, §§16, 17, redesignated existing provisions as par. (1), struck out “, 30 days prior to giving such consent,” before “the President submits”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 95–92, §18, added subsec. (f).
 

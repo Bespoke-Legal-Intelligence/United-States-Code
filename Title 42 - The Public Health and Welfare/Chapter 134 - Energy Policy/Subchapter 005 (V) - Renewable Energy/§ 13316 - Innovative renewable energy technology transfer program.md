@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, and in consultation withthe other members of the interagency working group established under section 6276(d) of this title (in this section referred to as the “interagency working group”), shall establish a renewable energy technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+The Secretary, through the Agency for International Development, and in consultation with the other members of the interagency working group established under section 6276(d) of this title (in this section referred to as the “interagency working group”), shall establish a renewable energy technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
 
 #### (b) Purposes of program
 
@@ -50,7 +50,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (e) Solicitations for project proposals
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States renewable energy technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary,through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States renewable energy technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
 
 (2) The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
 
@@ -124,7 +124,7 @@ In carrying out this section, the Secretary, through the Agency for Internationa
 
 #### (k) Reports to Congress
 
-The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introducerenewable energy technologies into foreign countries.
+The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introduce renewable energy technologies into foreign countries.
 
 #### (<i>l</i>) Definitions
 

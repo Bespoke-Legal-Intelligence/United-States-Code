@@ -22,7 +22,7 @@
 
 #### (3) Provision of all services and activities through each grantee
 
-&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
+&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph.The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
 
 #### (b) Status as medicaid provider
 
@@ -78,7 +78,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 #### (2) Applicability to certain secondary agreements for provision of services
 
-&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) of this section regarding the provider.
+&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary hasprovided a waiver under subsection (b)(2) of this section regarding the provider.
 
 #### (f) Method and amount of payment
 

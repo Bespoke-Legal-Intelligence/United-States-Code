@@ -1,0 +1,10 @@
+### §1432. Extension of price support on long staple cotton seeds and products
+
+Any price support program in effect on cottonseed or any of its products shall be extended to the same seed and products of the cottons defined under section 1347(a) of this title.
+
+(Oct. 31, 1949, ch. 792, title IV, §420, as added July 17, 1952, ch. 933, §3(2), 66 Stat. 759.)
+
+#### References in Text
+
+Section 1347 of this title, referred to in text, was repealed by Pub. L. 98–88, §2, Aug. 26, 1983, 97 Stat. 494.
+

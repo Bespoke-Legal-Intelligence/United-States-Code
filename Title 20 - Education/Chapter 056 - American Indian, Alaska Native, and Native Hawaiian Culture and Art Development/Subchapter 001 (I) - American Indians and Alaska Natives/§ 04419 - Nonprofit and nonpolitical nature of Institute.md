@@ -12,5 +12,5 @@ No part of the income or assets of the Institute shall inure to the benefit of a
 
 The Institute may not contribute to, or otherwise support, any political party or candidate for elective public office.
 
-(Pub. L. 99 498, title XV, §1512, Oct. 17, 1986, 100 Stat. 1607.)
+(Pub. L. 99–498, title XV, §1512, Oct. 17, 1986, 100 Stat. 1607.)
 

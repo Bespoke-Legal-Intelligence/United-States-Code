@@ -20,11 +20,11 @@ It is unlawful—
 
 &emsp;&emsp;(H) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section;
 
-&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
+&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishingvessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
 
 &emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
 
-&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under theAmerican Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan, implemented under this subchapter;
+&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan, implemented under this subchapter;
 
 &emsp;&emsp;&emsp;(ii) is bearing eggs attached to its abdominal appendages; or
 
@@ -92,7 +92,7 @@ Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
 Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, exceptrecreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
+1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
 
 Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 
@@ -120,5 +120,5 @@ Section 312 of Pub. L. 94–265 provided that: “Sections 307, 308, 309, 310, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1821, 1827, 1858, 1859, 1860, 1861, 3606, 5103 of this title.
+This section is referred to in sections 971e, 1821, 1827, 1858, 1859, 1860, 1861, 3606, 5103 of this title.
 

@@ -42,11 +42,11 @@ Liability.—Any withdrawal liability incurred by an employer pursuant to part 1
 
 &emsp;“(2)
 
-Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to theemployer with interest (in accordance with section 401(a)(2) \[26 U.S.C. 401(a)(2)\]), less a reasonable amount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
+Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[26 U.S.C. 401(a)(2)\]), less a reasonable amount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
 
 “(c)
 
-No Increase in Liability.—The amendments made by this section \[amending sections 1391, 1397, 1399, 1415 and 1461 of this title and provisions set out as a note under section 1385 of this title\] shall not be construed to increase the liability incurred by any employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.), as in effect immediately before the amendments made by subsection (b) \[amending sections 1391, 1397, 1399, 1415, and 1461 of this title and provisions set out as a note under section 1385 of this title\], as a result of the complete or partial withdrawal of such employer from a multiemployer plan prior to September 26, 1980.
+No Increase in Liability.—The amendments made by this section \[amending sections 1391, 1397, 1399, 1415 and 1461 of this title and provisions set out as a note under section 1385 of this title\] shall not be construed to increase the liability incurred by any employer pursuant to part 1 of subtitle E of title IV of theEmployee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.), as in effect immediately before the amendments made by subsection (b) \[amending sections 1391, 1397, 1399, 1415, and 1461 of this title and provisions set out as a note under section 1385 of this title\], as a result of the complete or partial withdrawal of such employer from a multiemployer plan prior to September 26, 1980.
 
 “(d)
 

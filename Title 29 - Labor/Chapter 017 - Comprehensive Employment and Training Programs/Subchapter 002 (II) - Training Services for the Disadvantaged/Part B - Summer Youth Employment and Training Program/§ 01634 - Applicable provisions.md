@@ -6,7 +6,7 @@ Private industry councils established under subchapter I of this chapter, chief 
 
 #### (b) Program goals and objectives
 
-Each service delivery area shall establish written program goals and objectives that shall beused for evaluating the effectiveness of programs conducted under this part. Such goals and objectives may include—
+Each service delivery area shall establish written program goals and objectives that shall be used for evaluating the effectiveness of programs conducted under this part. Such goals and objectives may include—
 
 &emsp;(1) improvement in school retention and completion;
 

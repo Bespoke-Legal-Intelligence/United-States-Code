@@ -86,7 +86,7 @@ An application for a grant under subsection (b) of this section shall—
 
 &emsp;(11) contain assurances that State agencies, local agencies, and community-based organizations served by the local educational agency consortium will designate an individual who will act as a liaison to the support services team described in paragraph (8);
 
-&emsp;(12) describe the target population to be served by the support services team described in paragraph (8), including families previously served under part C of<sup>1</sup> the Head Start Act \[42 U.S.C. 9831 et seq.\], or other comparable early childhood development program;
+&emsp;(12) describe the target population to be served by the support services team described in paragraph (8), including families previously served under part C of <sup>1</sup> the Head Start Act \[42 U.S.C. 9831 et seq.\], or other comparable early childhood development program;
 
 &emsp;(13) describe the support services to be provided, directly or through referral;
 
@@ -178,17 +178,17 @@ As used in this section:
 
 &emsp;The term “support services” means services that enhance the physical, social, emotional, and intellectual development of low-income children, including the provision of necessary support to the parents and other family members of such children.
 
-(Pub. L. 89 10, title I, §1503, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3605.)
+(Pub. L. 89–10, title I, §1503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3605.)
 
 #### References in Text
 
-The Head Start Act, referred to in subsecs. (c)(8)(A)(iii), (iv), (12) and (g)(2), is subchapter B\(§§635 657) of chapter 8 of subtitle A of title VI of Pub. L. 97 35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsecs. (c)(8)(A)(iii), (iv), (12) and (g)(2), is subchapter B\(§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(8)(A)(iii), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(8)(A)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Head Start Transition Projects Act, referred to in subsec. (d)(3), probably means the Head Start Transition Project Act which is subtitle B (§§131 140) of title I of Pub. L. 101 501, Nov. 3, 1990, 104 Stat. 1238, and is classified generally to subchapter II A (§9855 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 9801 of Title 42 and Tables.
+The Head Start Transition Projects Act, referred to in subsec. (d)(3), probably means the Head Start Transition Project Act which is subtitle B (§§131–140) of title I of Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1238, and is classified generally to subchapter II–A (§9855 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 9801 of Title 42 and Tables.
 
-The Head Start Act Amendments of 1994, referred to in subsec. (e), is title I of Pub. L. 103 252, May 18, 1994, 108 Stat. 624. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 9801 of Title 42 and Tables.
+The Head Start Act Amendments of 1994, referred to in subsec. (e), is title I of Pub. L. 103–252, May 18, 1994, 108 Stat. 624. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 9801 of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 

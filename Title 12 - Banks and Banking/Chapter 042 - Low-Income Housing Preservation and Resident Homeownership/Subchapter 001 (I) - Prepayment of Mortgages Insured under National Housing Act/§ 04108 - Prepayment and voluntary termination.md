@@ -1,4 +1,4 @@
-### §4108 . Prepayment and voluntary termination
+### §4108. Prepayment and voluntary termination
 
 #### (a) Approval
 

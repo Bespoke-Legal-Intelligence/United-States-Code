@@ -38,7 +38,7 @@
 
 &emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
-&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for thepurpose of carrying out the functions of the Foundation;
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 
@@ -48,7 +48,7 @@
 
 (i) The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
 
-(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17,1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480.)
+(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480.)
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Change of Name to “Henry M. Jackson Foundation for the Advancement of Military Medicine”
 

@@ -9,7 +9,7 @@
 |  |  |
 | :--- | ---: |
 | 3352\.<sup>1</sup> | Officers; Army Reserve: transfer from Army National Guard of United States. |
-| 3353\. | Commissioned officers: service credit upon original appointment. |
+| [3353\.](%C2%A7%2003353%20-%20Commissioned%20officers%20service%20credit%20upon%20original%20appointment.md) | Commissioned officers: service credit upon original appointment. |
 | [3354\.](%C2%A7%2003354%20-%20Commissioned%20officers%20appointment%20of%20warrant%20officers%20and%20enlisted%20members%20of%20Army%20National%20Guard%20of%20United%20States%3B%20status.md) | Commissioned officers: appointment of warrant officers and enlisted members of Army National Guard of United States; status. |
 | \[3355. | Repealed.\] |
 | [3357\.](%C2%A7%2003357%20-%20Commissioned%20officers%3B%20Army%20Reserve%20for%20service%20in%20Army%20Nurse%20Corps%20or%20Army%20Medical%20Specialist%20Corps.md) | Commissioned officers; Army Reserve: for service in Army Nurse Corps or Army Medical Specialist Corps. |

@@ -2,7 +2,7 @@
 
 #### (a) License required for operation
 
-No person who is subject to the jurisdiction or control of the United States may, directly or through any subsidiary or affiliate, operate any private remote sensing space system without a license pursuant to section 5621 of this title.
+No person who is subject to the jurisdiction or control of the United States may, directly orthrough any subsidiary or affiliate, operate any private remote sensing space system without a license pursuant to section 5621 of this title.
 
 #### (b) Licensing requirements
 
@@ -22,17 +22,17 @@ Any license issued pursuant to this subchapter shall specify that the licensee s
 
 #### (c) Additional licensing requirements for Landsat 6 contractor
 
-In addition to the requirements of paragraph<sup>1</sup> (b), any license issued pursuant to this subchapter to the Landsat 6 contractor shall specify that the Landsat 6 contractor shall—
+In addition to the requirements of paragraph <sup>1</sup> (b), any license issued pursuant to this subchapter to the Landsat 6 contractor shall specify that the Landsat 6 contractor shall—
 
 &emsp;(1) notify the Secretary of any value added activities (as defined by the Secretary by regulation) that will be conducted by the Landsat 6 contractor or by a subsidiary or affiliate; and
 
 &emsp;(2) if such activities are to be conducted, provide the Secretary with a plan for compliance with section 5651 of this title.
 
-(Pub. L. 102 555, title II, §202, Oct. 28, 1992, 106 Stat. 4172.)
+(Pub. L. 102–555, title II, §202, Oct. 28, 1992, 106 Stat. 4172.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5621 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

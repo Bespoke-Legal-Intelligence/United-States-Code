@@ -20,15 +20,21 @@ In providing for the effective management of this project, the Secretary of Ener
 
 &emsp;(4) ascertain consumer needs and desires so as to match the design of electric and hybrid vehicles to their potential market; and
 
-&emsp;(5) ascertain the long-term changes in road design, urban planning, traffic management, maintenance facilities, utility rate structures, and tax policies which are needed to facilitate the manufacture and use of electric and hybrid vehicles in accordance with sections 2512 and 2513 of this title.
+&emsp;(5) ascertain the long-term changes in road design, urban planning, traffic management, maintenance facilities, utility rate structures, and tax policies which are needed to facilitate the manufacture and use of electric and hybrid vehicles in accordance with sections 2512 and 2513 <sup>1</sup> of this title.
 
-(Pub. L. 94 413, §4, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95 91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, §4, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
+
+#### References in Text
+
+Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. L. 104–66, title I, §1051(<i>o</i>), Dec. 21, 1995, 109 Stat. 717.
 
 #### Transfer of Functions
 
-“Department of Energy” substituted for “Energy Research and Development Administration” in subsec. (a), and “Secretary of Energy” substituted for “Administrator” wherever appearing, pursuant to section 301(a) of Pub. L. 95 91, see Codification note set out under section 2502 of this title.
+“Department of Energy” substituted for “Energy Research and Development Administration” in subsec. (a), and “Secretary of Energy” substituted for “Administrator” wherever appearing, pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2502, 2504, 2507 of this title; title 42 section 2473.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

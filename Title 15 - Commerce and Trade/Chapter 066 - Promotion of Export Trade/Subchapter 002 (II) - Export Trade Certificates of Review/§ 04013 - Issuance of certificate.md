@@ -40,11 +40,11 @@ If the Secretary denies an application for the issuance of a certificate of revi
 
 A certificate shall be void ab initio with respect to any export trade, export trade activities, or methods of operation for which a certificate was procured by fraud.
 
-(Pub. L. 97 290, title III, §303, Oct. 8, 1982, 96 Stat. 1241.)
+(Pub. L. 97–290, title III, §303, Oct. 8, 1982, 96 Stat. 1241.)
 
 #### Effective Date
 
-Section effective 90 days after effective date of rules and regulations first promulgated under section 4020 of this title, see section 312(b) of Pub. L. 97 290 set out as a note under section 4011 of this title.
+Section effective 90 days after effective date of rules and regulations first promulgated under section 4020 of this title, see section 312(b) of Pub. L. 97–290 set out as a note under section 4011 of this title.
 
 #### Section Referred to in Other Sections
 

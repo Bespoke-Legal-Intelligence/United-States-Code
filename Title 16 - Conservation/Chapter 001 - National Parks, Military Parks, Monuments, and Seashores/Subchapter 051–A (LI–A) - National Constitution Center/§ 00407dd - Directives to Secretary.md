@@ -6,7 +6,7 @@ The Secretary shall interpret the origins, subsequent development, and effects o
 
 #### (b) Memorial
 
-The Secretary is authorized to establish and maintain at Independence National HistoricalPark an appropriate memorial to the United States Constitution as a key document in our Nation's history.
+The Secretary is authorized to establish and maintain at Independence National Historical Park an appropriate memorial to the United States Constitution as a key document in our Nation's history.
 
 #### (c) Public materials
 

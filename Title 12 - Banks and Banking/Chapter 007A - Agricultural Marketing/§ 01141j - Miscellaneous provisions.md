@@ -22,7 +22,7 @@ It shall be unlawful (1) for any cooperative association, stabilization corporat
 
 #### (d) Governmental publications; predictions as to cotton prices prohibited
 
-The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respectto cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
+The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
 
 #### (e) Separability clause
 
@@ -36,7 +36,7 @@ This chapter may be cited as the “Agricultural Marketing Act.”
 
 As used in this chapter, the term “agricultural commodity” includes, in addition to other agricultural commodities, crude gum (oleoresin) from a living tree, and the following products as processed by the original producer of the crude gum (oleoresin) from which derived: Gum spirits of turpentine and gum rosin, as defined in section 92 of title 7.
 
-(June 15, 1929, ch. 24, §15, 46 Stat. 18; Mar. 4, 1931, ch. 520, §3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §55, 48 Stat. 266; June 3, 1935, ch. 164, §12, 49 Stat. 317.)
+(June 15, 1929, ch. 24, §15, 46 Stat. 18; Mar. 4, 1931, ch. 520, §3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar.27, 1933; June 16, 1933, ch. 98, title V, §55, 48 Stat. 266; June 3, 1935, ch. 164, §12, 49 Stat. 317.)
 
 #### Codification
 
@@ -70,5 +70,5 @@ Small Business Administration disaster loans, eligibility of small agricultural 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 504; title 7 sections 499e, 2302; title 15 section 632; title 26 section 3131; title 28 section 2412; title 29 section 203; title 42 sections 410, 8802; title 49 sections 10526, 10529.
+This section is referred to in title 5 section 504; title 7 sections 499e, 2302; title 15 section 632; title 26 section 3131; title 28 section 2412; title 29 section 203; title 42 sections 410, 8802; title 49 sections 13506, 13508.
 

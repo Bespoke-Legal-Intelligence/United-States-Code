@@ -2,13 +2,13 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 121\. | Regulations. |
-| 122\. | Official registers. |
-| 123\. | Suspension of certain provisions of law relating to reserve commissioned officers. |
-| 123a. | Suspension of end-strength limitations in time of war or national emergency. |
-| 123b. | Forces stationed abroad: limitation on number. |
-| 124\. | Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency. |
-| 125\. | Functions, powers, and duties: transfer, reassignment, consolidation, or abolition. |
+| [121\.](%C2%A7%2000121%20-%20Regulations.md) | Regulations. |
+| [122\.](%C2%A7%2000122%20-%20Official%20registers.md) | Official registers. |
+| [123\.](%C2%A7%2000123%20-%20Suspension%20of%20certain%20provisions%20of%20law%20relating%20to%20reserve%20commissioned%20officers.md) | Suspension of certain provisions of law relating to reserve commissioned officers. |
+| [123a.](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md) | Suspension of end-strength limitations in time of war or national emergency. |
+| [123b.](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md) | Forces stationed abroad: limitation on number. |
+| [124\.](%C2%A7%2000124%20-%20Detection%20and%20monitoring%20of%20aerial%20and%20maritime%20transit%20of%20illegal%20drugs%20Department%20of%20Defense%20to%20be%20lead%20agency.md) | Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency. |
+| [125\.](%C2%A7%2000125%20-%20Functions%2C%20powers%2C%20and%20duties%20transfer%2C%20reassignment%2C%20consolidation%2C%20or%20abolition.md) | Functions, powers, and duties: transfer, reassignment, consolidation, or abolition. |
 | [126\.](%C2%A7%2000126%20-%20Transfer%20of%20funds%20and%20employees.md) | Transfer of funds and employees. |
 | [127\.](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md) | Emergency and extraordinary expenses. |
 | [127a.](%C2%A7%2000127a%20-%20Expenses%20for%20contingency%20operations.md) | Expenses for contingency operations. |

@@ -1,4 +1,4 @@
-### §9593 . Quarters: heat and light
+### §9593. Quarters: heat and light
 
 The heat and light necessary for the authorized quarters of members of the Air Force shall be furnished at the expense of the United States.
 

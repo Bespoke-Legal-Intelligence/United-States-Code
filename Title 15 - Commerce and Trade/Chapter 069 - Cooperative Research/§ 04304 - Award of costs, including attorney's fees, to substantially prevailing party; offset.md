@@ -8,11 +8,11 @@
 
 (b) The award made under subsection (a) of this section may be offset in whole or in part by an award in favor of any other party for any part of the cost of suit, including a reasonable attorney's fee, attributable to conduct during the litigation by any prevailing party that the court finds to be frivolous, unreasonable, without foundation, or in bad faith.
 
-(Pub. L. 98 462, §5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103 42, §3(e)(2), June 10, 1993, 107 Stat. 119.)
+(Pub. L. 98–462, §5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103–42, §3(e)(2), June 10, 1993, 107 Stat. 119.)
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103 42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
+1993—Subsec. (a). Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary is authorized to set aside out of such fund such reserve amounts as may be required under accepted actuarial principles to meet all liabilities under such insurance; and the Secretary of the Treasury is authorized to invest and reinvest such fund, or any part thereof, in interest-bearing obligations of the United States or in obligations guaranteed as to principal and interest by the United States, and to sell such obligations for the purposes of such fund.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, §720; renumbered §1920 and amended Pub. L. 102–83,§§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, §720; renumbered §1920 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

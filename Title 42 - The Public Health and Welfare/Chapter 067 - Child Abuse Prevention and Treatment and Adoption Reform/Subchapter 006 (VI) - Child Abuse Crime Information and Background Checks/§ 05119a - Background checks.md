@@ -4,7 +4,7 @@
 
 (1) A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a provider has been convicted of a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
 
-(2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
+(2) The authorized agency shall access and review State and Federal criminal history recordsthrough the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
 #### (b) Guidelines
 
@@ -46,7 +46,7 @@ A qualified entity shall not be liable in an action for damages solely for failu
 
 #### (e) Fees
 
-In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a personwho volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
+In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
 
 (Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132.)
 

@@ -2,7 +2,7 @@
 
 (a) For the purpose of facilitating an agreement pursuant to section 640d–2 of this title or preparing a report pursuant to section 640d–3 of this title, the Mediator is authorized—
 
-&emsp;(1) notwithstanding the provisions of section 211 of this title, to recommend that, subject to the consent of the Secretary, there be purchased or otherwise acquired additional lands for the benefit of either tribe from the funds ofeither tribe or funds under any other authority of law;
+&emsp;(1) notwithstanding the provisions of section 211 of this title, to recommend that, subject to the consent of the Secretary, there be purchased or otherwise acquired additional lands for the benefit of either tribe from the funds of either tribe or funds under any other authority of law;
 
 &emsp;(2) to recommend that, subject to the consent of the Secretary, there be undertaken a program of restoration of lands lying within the joint use area, employing for such purpose funds authorized by this subchapter, funds of either tribe, or funds under any other authority of law;
 

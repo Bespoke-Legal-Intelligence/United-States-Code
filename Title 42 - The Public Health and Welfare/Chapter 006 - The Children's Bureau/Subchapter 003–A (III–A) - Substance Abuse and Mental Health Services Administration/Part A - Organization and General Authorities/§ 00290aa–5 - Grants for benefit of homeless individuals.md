@@ -18,7 +18,7 @@ No entity may receive grants under subsection (a) of this section for more than 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, $50,000,000 for fiscal year1993, and such sums as may be necessary for fiscal year 1994.
+There are authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
 (July 1, 1944, ch. 373, title V, §506, formerly §512, as added Oct. 19, 1984, Pub. L. 98–509, title II, §206(a), 98 Stat. 2361; amended July 22, 1987, Pub. L. 100–77, title VI, §613(a), (b), 101 Stat. 524; renumbered §506 and amended July 10, 1992, Pub. L. 102–321, title I, §106, 106 Stat. 334.)
 

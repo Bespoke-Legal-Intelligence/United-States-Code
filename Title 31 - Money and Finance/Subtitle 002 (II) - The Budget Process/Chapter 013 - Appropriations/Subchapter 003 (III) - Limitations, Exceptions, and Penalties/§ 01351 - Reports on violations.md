@@ -1,6 +1,6 @@
 ### §1351. Reports on violations
 
-If an officer or employee of an executive agency or an officer or employee of the District ofColumbia government violates section 1341(a) or 1342 of this title, the head of the agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken.
+If an officer or employee of an executive agency or an officer or employee of the District of Columbia government violates section 1341(a) or 1342 of this title, the head of the agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926.)
 

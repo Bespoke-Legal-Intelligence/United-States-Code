@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 <i>o</i>
 
-<i>46:526p</i>
+46:526p
 
-<i>46:1484(c)</i>
+46:1484(c)
 
 Section 2107 provides for standard procedures for the handling of civil penalties for infractions of law or regulation. Some changes were made to increase some antiquated and inadequate penalties.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization to commence and defend actions in District Court
 
-Either tribe, acting through the chairman of its tribal council for and on behalf of the tribe, is each hereby authorized to commence or defend in the District Court an action against theother tribe and any other tribe of Indians claiming any interest in or to the area described in the Act of June 14, 1934, except the reservation established by the Executive Order of December 16, 1882, for the purpose of determining the rights and interests of the tribes in and to such lands and quieting title thereto in the tribes.
+Either tribe, acting through the chairman of its tribal council for and on behalf of the tribe, is each hereby authorized to commence or defend in the District Court an action against the other tribe and any other tribe of Indians claiming any interest in or to the area described in the Act of June 14, 1934, except the reservation established by the Executive Order of December 16, 1882, for the purpose of determining the rights and interests of the tribes in and to such lands and quieting title thereto in the tribes.
 
 #### (b) Allocation of land to respective reservations upon determination of interests
 
@@ -18,7 +18,7 @@ Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by
 
 #### (d) Denial of Congressional interest in merits of conflicting claims; liability of United States
 
-Nothing in this section shall be deemed to be a Congressional determination of the merits of the conflicting claims to the lands that are subject to adjudication pursuant to this section, or to affect the liability of the United States, if any, under litigation now pending before the Indian Claims Commission.
+Nothing in this section shall be deemed to be a Congressional determination of the merits of the conflicting claims to the lands that are subject to adjudication pursuant to this section, orto affect the liability of the United States, if any, under litigation now pending before the Indian Claims Commission.
 
 #### (e) Payment of legal fees, court costs and other expenses
 

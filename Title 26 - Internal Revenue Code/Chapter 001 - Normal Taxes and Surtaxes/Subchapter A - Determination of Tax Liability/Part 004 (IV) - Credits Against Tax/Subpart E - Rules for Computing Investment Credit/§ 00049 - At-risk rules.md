@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of the nonrecourse financing with respect to such property does not exceed 80 percent of the credit base of such property, and
 
-&emsp;&emsp;&emsp;&emsp;(III) such financing is borrowed from a qualified person or represents a loanfrom any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.
+&emsp;&emsp;&emsp;&emsp;(III) such financing is borrowed from a qualified person or represents a loan from any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.
 
 &emsp;&emsp;&nbsp;Such term shall not include any convertible debt.
 
@@ -140,7 +140,7 @@
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under subpart A, B, D, or G.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, titleI, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 Amendment by section 1002(e)(1)–(3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 1002(e)(8)(B) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31,1983, and to carrybacks from such years, see section 1002(e)(8)(C) of Pub. L. 100–647, set out as a note under section 38 of this title.
+Amendment by section 1002(e)(8)(B) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 1002(e)(8)(C) of Pub. L. 100–647, set out as a note under section 38 of this title.
 
 #### Effective Date of 1986 Amendment
 

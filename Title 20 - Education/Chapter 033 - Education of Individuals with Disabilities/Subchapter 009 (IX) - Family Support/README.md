@@ -2,7 +2,7 @@
 
 #### Codification
 
-This subchapter is comprised of sections 701 to 716 of title VI of Pub. L. 91 230. Title VII of Pub. L. 91 230 also contains sections 701 to 709 (see Tables for classification to the Code).
+This subchapter is comprised of sections 701 to 716 of title VI of Pub. L. 91–230. Title VII of Pub. L. 91–230 also contains sections 701 to 709 (see Tables for classification to the Code).
 
 
 ---

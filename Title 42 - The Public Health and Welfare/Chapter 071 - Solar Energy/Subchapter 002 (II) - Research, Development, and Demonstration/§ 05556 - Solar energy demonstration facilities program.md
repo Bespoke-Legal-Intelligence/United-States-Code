@@ -36,7 +36,7 @@ For each of the technologies for which a successful and appropriate development 
 
 #### (c) Establishment of one or more projects utilizing each form of solar energy
 
-In carrying out his responsibilities under this section, the Chairman, acting through the appropriate Federal agencies, may provide for the establishment of one or more demonstration projects utilizing each form of solar energy, which shall include, as appropriate, the specific research, development, pilot plant construction and operation, demonstration plant construction and operation, and other facilities and activities which may be necessary to show commercial viability of the specific solar technology.
+In carrying out his responsibilities under this section, the Chairman, acting through the appropriate Federal agencies, may provide for the establishment of one or more demonstration projects utilizing each form of solar energy, which shall include, as appropriate, the specific research, development, pilot plant constructionand operation, demonstration plant construction and operation, and other facilities and activities which may be necessary to show commercial viability of the specific solar technology.
 
 #### (d) Investigation and agreements for cooperative development of demonstration facilities
 

@@ -1,4 +1,4 @@
-### §7852 . Appointment and enlistment in reserve components
+### §7852. Appointment and enlistment in reserve components
 
 In the discretion of the Secretary of the Navy, any member of the Naval Militia may be appointed or enlisted in the Naval Reserve or the Marine Corps Reserve in the grade for which he is qualified.
 

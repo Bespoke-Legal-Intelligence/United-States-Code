@@ -14,7 +14,7 @@ A State that desires to receive a grant under this subchapter shall submit an ap
 
 &emsp;An assurance of the following:
 
-&emsp;&emsp;(A) The State has designated or established Council<sup>1</sup> that meets the criteria set forth in section 1491f of this title.
+&emsp;&emsp;(A) The State has designated or established Council <sup>1</sup> that meets the criteria set forth in section 1491f of this title.
 
 &emsp;&emsp;(B) The lead entity will seek and consider on a regular and ongoing basis advice from the Council regarding the development and implementation of the strategic plan under section 1491h of this title, and other policies and procedures of general applicability pertaining to the provision of family support for families of children with disabilities in the State.
 
@@ -56,7 +56,7 @@ A State that desires to receive a grant under this subchapter shall submit an ap
 
 #### (10) Limit on administrative costs
 
-&emsp;An assurance that the lead entity that receives funding under this subchapter in any fiscal year shall use not more than 5 percentof such funds in such year for administrative expenses. Such administrative expenses shall not include expenses related to the activities of the Council.
+&emsp;An assurance that the lead entity that receives funding under this subchapter in any fiscal year shall use not more than 5 percent of such funds in such year for administrative expenses. Such administrative expenses shall not include expenses related to the activities of the Council.
 
 #### (11) Strategic plan
 
@@ -64,7 +64,7 @@ A State that desires to receive a grant under this subchapter shall submit an ap
 
 #### (12) Evaluation
 
-&emsp;An assurance that the State will conduct an annual evaluation of the statewide system of family support for families of children with disabilities in accordance with section 1491i of this title.
+&emsp;An assurance that the State will conduct an annual evaluation of the statewide system offamily support for families of children with disabilities in accordance with section 1491i of this title.
 
 #### (13) Coordination with State and local councils
 
@@ -82,11 +82,11 @@ A State that desires to receive a grant under this subchapter shall submit an ap
 
 &emsp;Such other information and assurances as the Secretary may reasonably require.
 
-(Pub. L. 91 230, title VI, §705, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3944.)
+(Pub. L. 91–230, title VI, §705, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3944.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1491c, 1491e, 1491f, 1491j of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be preceded by “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
 

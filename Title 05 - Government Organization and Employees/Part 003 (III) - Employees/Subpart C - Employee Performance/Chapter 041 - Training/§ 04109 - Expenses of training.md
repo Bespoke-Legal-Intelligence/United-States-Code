@@ -38,7 +38,7 @@ July 7, 1958, Pub. L. 85–507, §10, 72 Stat. 332.
 
 In subsection (a)(1) and (2), the words “training under this chapter” and “the training” are substituted for “training by, in, or through Government facilities or non-Government facilities under authority of this chapter” and “such training”, respectively.
 
-In subsection (a)(2)(A), the words “and the Standardized Government Travel Regulations” are omitted asincluded by the reference to “subchapter I of chapter 57 of this title”.
+In subsection (a)(2)(A), the words “and the Standardized Government Travel Regulations” are omitted as included by the reference to “subchapter I of chapter 57 of this title”.
 
 In subsection (a)(2)(A) and (B), the words “sections 404 and 405 of title 37” and “sections 406 and 409 of title 37” are substituted for the references to “section 253 of title 37” on authority of section 12(b) of the Act of Sept. 7, 1962, Pub. L. 87–649, 76 Stat. 497.
 
@@ -48,19 +48,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–378 struck out subsec. (d) which made revolving fund referred to in section 1304(e)(1) of this title available for costs of education and related travel of participants in such program, for printing, and for entertainment expenses, and which required crediting of participation fees to revolving fund.
+<b>1992</b>—Subsec. (d). Pub. L. 102–378 struck out subsec. (d) which made revolving fund referred to in section 1304(e)(1) of this title available for costs of education and related travel of participants in such program, for printing, and for entertainment expenses, and which required crediting of participation fees to revolving fund.
 
-1984—Subsec. (c). Pub. L. 98–525 inserted “and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense,”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 inserted “and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense,”.
 
 Subsec. (d). Pub. L. 98–224 added subsec. (d).
 
-1982—Subsec. (a)(2). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 
 Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
-1979—Subsec. (a)(2). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services” in cls. (A) and (B).
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services” in cls. (A) and (B).
 
-1967—Subsec. (a)(2). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in cls. (A) and (B). See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Subsec. (a)(2). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in cls. (A) and (B). See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 1992 Amendment
 

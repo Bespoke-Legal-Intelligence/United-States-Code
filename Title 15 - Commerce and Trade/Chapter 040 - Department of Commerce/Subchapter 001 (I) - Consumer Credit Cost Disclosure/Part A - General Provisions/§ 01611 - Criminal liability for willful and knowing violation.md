@@ -10,7 +10,7 @@ Whoever willfully and knowingly
 
 > shall be fined not more than $5,000 or imprisoned not more than one year, or both.
 
-(Pub. L. 90 321, title I, §112, May 29, 1968, 82 Stat. 151.)
+(Pub. L. 90–321, title I, §112, May 29, 1968, 82 Stat. 151.)
 
 #### Section Referred to in Other Sections
 

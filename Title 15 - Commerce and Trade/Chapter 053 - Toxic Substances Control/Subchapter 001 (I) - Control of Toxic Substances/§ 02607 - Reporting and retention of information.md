@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a chemical substance in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including any such research or analysis for the development of a product,
 
-> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
+> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, isnecessary for the effective enforcement of this chapter.
 
 > The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b) of this section, the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
@@ -42,7 +42,7 @@
 
 &emsp;(II) with respect to which relief has been granted pursuant to a civil action brought under section 2604 or 2606 of this title,
 
-> to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting mayrequire reporting with respect to the matters referred to in paragraph (2).
+> to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
 
 (B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
@@ -54,7 +54,7 @@
 
 #### (c) Records
 
-Any person who manufactures, processes, or distributes in commerce any chemical substance or mixture shall maintain records of significant adverse reactions to health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture. Records of such adverse reactions to the health of employees shall be retained for a period of 30 years from the date such reactions were first reported to or known by the person maintaining such records. Any other record of such adverse reactions shall be retained for a period of five years from the date the information contained in the record was first reported to or known by the person maintaining the record. Records required to be maintained under this subsection shall include records of consumer allegations of personal injury or harm to health, reports of occupational disease or injury, and reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source. Upon request of any duly designated representative of the Administrator, each person who is required to maintain records under this subsection shall permit the inspection of such records and shall submit copies of such records.
+Any person who manufactures, processes, or distributes in commerce any chemical substance or mixture shall maintain records of significant adverse reactions to health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture. Records of such adverse reactions to the health of employees shall be retained for a period of 30 years from the date such reactions were first reported to or known by the person maintaining such records. Any other record of such adverse reactions shall be retained for a period of five years from the date the information contained in the record was first reported to orknown by the person maintaining the record. Records required to be maintained under this subsection shall include records of consumer allegations of personal injury or harm to health, reports of occupational disease or injury, and reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source. Upon request of any duly designated representative of the Administrator, each person who is required to maintain records under this subsection shall permit the inspection of such records and shall submit copies of such records.
 
 #### (d) Health and safety studies
 
@@ -72,11 +72,11 @@ Any person who manufactures, processes, or distributes in commerce as chemical s
 
 For purposes of this section, the terms “manufacture” and “process” mean manufacture or process for commercial purposes.
 
-(Pub. L. 94 469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Asbestos Information
 
-Pub. L. 100 577, Oct. 31, 1988, 102 Stat. 2901, provided that:
+Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 

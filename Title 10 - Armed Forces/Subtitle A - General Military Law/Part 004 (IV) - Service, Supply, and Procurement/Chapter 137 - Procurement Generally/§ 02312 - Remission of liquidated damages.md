@@ -20,6 +20,10 @@ Feb. 19, 1948, ch. 65, §6, 62 Stat. 24.
 
 The words “a contract, made by that agency, that provides for” are substituted for the words “any contract made on behalf of the Government by the agency head or by officers authorized by him so to do includes a provision”.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 50 section 403c.

@@ -18,5 +18,5 @@ The Secretary shall give priority in awarding grants under this section to insti
 
 (2) The Secretary is authorized to make grants for not more than five years to State and local educational agencies for inservice professional development programs.
 
-(Pub. L. 89 10, title VII, §7143, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3733.)
+(Pub. L. 89–10, title VII, §7143, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3733.)
 

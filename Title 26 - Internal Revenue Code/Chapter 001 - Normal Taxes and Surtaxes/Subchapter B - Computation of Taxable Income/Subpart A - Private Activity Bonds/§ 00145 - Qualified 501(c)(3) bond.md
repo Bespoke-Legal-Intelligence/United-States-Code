@@ -60,7 +60,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (c) Qualified hospital bond
 
-For purposes of this section, the term “qualified hospital bond” means any bond issued as part of an issue 95 percent or more of the netproceeds of which are to be used with respect to a hospital.
+For purposes of this section, the term “qualified hospital bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
 
 #### (d) Restrictions on bonds used to provide residential rental housing for family units
 
@@ -182,7 +182,7 @@ Exception for construction or binding agreement.—
 
 &emsp;&emsp;“(ii) described in an inducement resolution or other comparable preliminary approval adopted by an issuing authority (or by a voter referendum) before July 14, 1988.
 
-> &emsp;For purposes of the preceding sentence, the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
+> &emsp;For purposes of the preceding sentence, the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost ofthe construction, reconstruction, or rehabilitation of the facility involved.
 
 &emsp;“(B) Subparagraph (A) shall not apply to any bond issued after December 31, 1989, and shall not apply unless it is reasonably expected (at the time of issuance of the bond) that the facility will be placed in service before January 1, 1990.
 

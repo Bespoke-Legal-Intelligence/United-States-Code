@@ -18,7 +18,7 @@
 
 #### (b) Exceptions
 
-(1) In computing the periods established in subparagraphs (A) and (B) of subsection (a)(1) ofthis section, there shall be excluded any period—
+(1) In computing the periods established in subparagraphs (A) and (B) of subsection (a)(1) of this section, there shall be excluded any period—
 
 &emsp;(A) during which any person who is or may become the subject of a civil enforcement action is outside the United States, has absconded or concealed himself, or is not subject to legal process;
 
@@ -84,13 +84,13 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 
 (4) The Administrator of the Economic Regulatory Administration shall keep such Committees fully and currently informed about the status (including delays, settlement negotiations, and other pertinent matters) of all enforcement cases (whether or not in litigation) and subpart V regulation proceedings.
 
-(Pub. L. 99 509, title III, §3005, Oct. 21, 1986, 100 Stat. 1884.)
+(Pub. L. 99–509, title III, §3005, Oct. 21, 1986, 100 Stat. 1884.)
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93 159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
-The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91 379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
+The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
 #### Codification
 
@@ -98,7 +98,7 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act”,
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

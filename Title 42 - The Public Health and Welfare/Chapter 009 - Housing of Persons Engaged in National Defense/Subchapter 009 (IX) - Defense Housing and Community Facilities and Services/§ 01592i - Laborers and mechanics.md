@@ -10,7 +10,7 @@ The provisions of the Davis-Bacon Act (49 Stat. 1011), as amended \[40 U.S.C. 27
 
 #### (c) Stipulations in loan contracts as to wages; certification
 
-Any contract for loan or grant, or both, pursuant to this subchapter shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act, as amended, \[40 U.S.C. 276a et seq.\], shall be paid to all laborers and mechanics employed in the construction of the project at the site thereof; and the Secretary of Housing and Urban Development shall require certification as to compliance with the provisions of this subsection prior to making any payment under such contract.
+Any contract for loan or grant, or both, pursuant to this subchapter shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-BaconAct, as amended, \[40 U.S.C. 276a et seq.\], shall be paid to all laborers and mechanics employed in the construction of the project at the site thereof; and the Secretary of Housing and Urban Development shall require certification as to compliance with the provisions of this subsection prior to making any payment under such contract.
 
 #### (d) Reports by contractors and subcontractors to Secretary of Labor
 

@@ -46,6 +46,26 @@ For purposes of this section, the term “public or private nonprofit entity” 
 
 (Pub. L. 98–457, title III, §314, as added Pub. L. 102–295, title III, §320, May 28, 1992, 106 Stat. 209.)
 
+#### Federal Employee Domestic Violence Awareness Campaign
+
+Memorandum of President of the United States, Oct. 2, 1995, 60 F.R. 52821, provided:
+
+Memorandum for Heads of Executive Departments and Agencies
+
+Domestic violence is not a private, family dispute that affects only the people involved. Domestic violence is violent criminal activity that affects us all, regardless of race, income, or age, in every community in this country. It means higher health care costs, increased absenteeism, and declining productivity. It destroys families, relationships, and lives. More importantly, it tears at the moral fabric of who we are and undermines the very institution that has been the cornerstone of our country: the family.
+
+In passing the Violence Against Women Act \[probably means the Violence Against Women Act of 1994, title IV of Pub. L. 103–322, see Tables for classification\] as part of the Violent Crime Control Act (“VCCA”) \[probably means the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see Tables for classification\] last year, the Congress recognized the seriousness of the problem of domestic violence. This new law combines tough new penalties with programs to prosecute offenders and help women victims. In the last year, every State has received a down payment of $426,000 in grants to help train prosecutors, police, and service providers in combatting the problem of domestic violence. Moreover, because of the VCCA, every State will now ensure that women who have been assaulted will not have to pay for their medical examinations resulting from rape and other acts of violence.
+
+Throughout October, National Domestic Violence Awareness Month, business, labor, law enforcement, public health, and civic organizations will be working to increase our understanding of this problem and create solutions that can save lives. I believe the Federal Government has a responsibility to be a leader in this effort.
+
+Today, I am directing that executive departments and agencies institute employee awareness campaigns on domestic violence. Within the next 6 months, you should implement a program to promote Federal employee awareness of the problem of domestic violence and the programs and resources that are available for victims. I support and encourage the initial plans made by the Justice Department, which include the production of a resource manual and a poster, and the scheduling of a Violence Against Women Information Fair on October 30, 1995. This fair will include speakers, artwork, and exhibits.
+
+We have a responsibility to assist all victims of domestic violence and their families trapped in a cycle of violence with no sense of where to turn. Often, victims will not report their circumstances to the public, but they may turn to coworkers for help. Thus, by providing information to all Federal workers on the programs available, we can make a contribution to the effort to protect women from abuse and reduce the level of violence in America.
+
+The Director of the Office Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 10412 of this title.

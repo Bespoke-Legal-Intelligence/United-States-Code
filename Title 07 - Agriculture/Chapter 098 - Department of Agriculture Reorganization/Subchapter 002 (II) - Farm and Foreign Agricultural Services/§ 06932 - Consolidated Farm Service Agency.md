@@ -1,0 +1,94 @@
+### §6932. Consolidated Farm Service Agency
+
+#### (a) Establishment
+
+The Secretary is authorized to establish and maintain in the Department a Consolidated Farm Service Agency.
+
+#### (b) Functions of Consolidated Farm Service Agency
+
+If the Secretary establishes the Consolidated Farm Service Agency under subsection (a) of this section, the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
+
+&emsp;(1) Agricultural price and income support programs, production adjustment programs, and related programs.
+
+&emsp;(2) General supervision of the Federal Crop Insurance Corporation.
+
+&emsp;(3) Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs for agricultural producers and others engaged in the production of agricultural commodities.
+
+&emsp;(4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831–3836) and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.).
+
+&emsp;(5) Such other functions as the Secretary considers appropriate, except for those programs assigned by the Secretary to the Natural Resources Conservation Service or another agency of the Department under section 6962(b) of this title.
+
+#### (c) Special concurrence requirements for certain functions
+
+In carrying out the programs specified in subsection (b)(4) of this section, the Secretary shall—
+
+&emsp;(1) acting on the recommendations of the Consolidated Farm Service Agency, with the concurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
+
+&emsp;(2) ensure that the Consolidated Farm Service Agency, in establishing policies, priorities, and guidelines for such programs, does so with the concurrence of the Natural Resources Conservation Service at national, State, and local levels;
+
+&emsp;(3) ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;
+
+&emsp;(4) ensure that officials of county and area committees established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)) meet annually with officials of such Districts or similar organizations to consider local conservation priorities and guidelines; and
+
+&emsp;(5) take steps to ensure that the concurrence process does not interfere with the effective delivery of such programs.
+
+#### (d) Jurisdiction over conservation program appeals
+
+#### (1) In general
+
+&emsp;Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Consolidated Farm Service Agency shall have initial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
+
+#### (2) Treatment of technical determination
+
+&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)). If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
+
+#### (3) Reinstatement of program benefits
+
+&emsp;Rules issued to carry out this subsection shall provide for the prompt reinstatement of benefits to a producer who is determined in an administrative appeal to meet the requirements of title XII of the Food Security Act of 1985 \[16 U.S.C. 3801 et seq.\] applicable to the producer.
+
+#### (e) Use of Federal and non-Federal employees
+
+#### (1) Use authorized
+
+&emsp;In the implementation of programs and activities assigned to the Consolidated Farm Service Agency, the Secretary may use interchangeably in local offices of the Agency both Federal employees of the Department and non-Federal employees of county and area committees established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)).
+
+#### (2) Exception
+
+&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
+
+#### (f) Collocation
+
+To the maximum extent practicable, the Secretary shall collocate county offices of the Consolidated Farm Service Agency with county offices of the Natural Resources Conservation Service in order to—
+
+&emsp;(1) maximize savings from shared equipment, office space, and administrative support;
+
+&emsp;(2) simplify paperwork and regulatory requirements;
+
+&emsp;(3) provide improved services to agricultural producers and landowners affected by programs administered by the Agency and the Service; and
+
+&emsp;(4) achieve computer compatibility between the Agency and the Service to maximize efficiency and savings.
+
+#### (g) Savings provision
+
+For purposes of subsections (c) through (f) of this section:
+
+&emsp;(1) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under this section.
+
+&emsp;(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title.
+
+(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214.)
+
+#### References in Text
+
+The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+
+The Soil Conservation and Domestic Allotment Act, referred to in subsec. (b)(4), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+
+#### Codification
+
+Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section 226 of Pub. L. 103–354 amended section 1981 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6961, 6962, 6991, 6995, 7001 of this title; title 16 section 590h.
+

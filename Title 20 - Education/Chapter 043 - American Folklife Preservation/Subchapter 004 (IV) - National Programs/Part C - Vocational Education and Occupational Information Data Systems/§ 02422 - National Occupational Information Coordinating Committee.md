@@ -68,41 +68,41 @@ Of amounts reserved under section 2451(a)(3)(A) of this title to carry out the p
 
 &emsp;&emsp;(B) if the amount remaining after carrying out paragraph (1) is insufficient to provide the amount described in subparagraph (A), such remaining amount.
 
-(Pub. L. 88 210, title IV, §422, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2473; amendedPub. L. 101 392, title IV, §408, Sept. 25, 1990, 104 Stat. 825; Pub. L. 103 227, title IX, §991, Mar. 31, 1994, 108 Stat. 264.)
+(Pub. L. 88–210, title IV, §422, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2473; amended Pub. L. 101–392, title IV, §408, Sept. 25, 1990, 104 Stat. 825; Pub. L. 103–227, title IX, §991, Mar. 31, 1994, 108 Stat. 264.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103 227, §991(1), inserted “(including postsecondary employment and training programs)” after “training programs”.
+1994—Subsec. (a)(2). Pub. L. 103–227, §991(1), inserted “(including postsecondary employment and training programs)” after “training programs”.
 
-Subsec. (b). Pub. L. 103 227, §991(2)(B), inserted “the State board or agency governing higher education,” after “coordinating council,” in introductory provisions.
+Subsec. (b). Pub. L. 103–227, §991(2)(B), inserted “the State board or agency governing higher education,” after “coordinating council,” in introductory provisions.
 
-Subsec. (b)(1), (2). Pub. L. 103 227, §991(2)(A), (C), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “chapter, of” for “chapter and of” before “the administering agencies” and inserted “and of the State board or agency governing higher education” after “Job Training Partnership Act”.
+Subsec. (b)(1), (2). Pub. L. 103–227, §991(2)(A), (C), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “chapter, of” for “chapter and of” before “the administering agencies” and inserted “and of the State board or agency governing higher education” after “Job Training Partnership Act”.
 
-Subsecs. (d), (e). Pub. L. 103 227, §991(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 103–227, §991(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1990—Pub. L. 101 392, §408(a), substituted “National Occupational Information Coordinating Committee” for “Occupational information system” in section catchline.
+1990—Pub. L. 101–392, §408(a), substituted “National Occupational Information Coordinating Committee” for “Occupational information system” in section catchline.
 
-Subsec. (a). Pub. L. 101 392, §408(b)(1)(A) (C), in introductory provisions inserted “(in this section referred to as the ‘Committee’)” after “Coordinating Committee” and “the Assistant Secretary for Postsecondary Education,” after “Office of Bilingual Education and Minority Language Affairs,” and substituted “(Force Management and Personnel)” for “(Manpower, Reserve Affairs, and Logistics)”.
+Subsec. (a). Pub. L. 101–392, §408(b)(1)(A)–(C), in introductory provisions inserted “(in this section referred to as the ‘Committee’)” after “Coordinating Committee” and “the Assistant Secretary for Postsecondary Education,” after “Office of Bilingual Education and Minority Language Affairs,” and substituted “(Force Management and Personnel)” for “(Manpower, Reserve Affairs, and Logistics)”.
 
-Subsec. (a)(2). Pub. L. 101 392, §408(b)(1)(D), inserted before semicolon at end “, including regularly updated data on employment demand for agribusiness”.
+Subsec. (a)(2). Pub. L. 101–392, §408(b)(1)(D), inserted before semicolon at end “, including regularly updated data on employment demand for agribusiness”.
 
-Subsec. (a)(3). Pub. L. 101 392, §408(b)(1)(E), substituted “conduct studies to improve the quality and delivery of occupational information systems to assist economic development activities, and examine” for “contract studies on” and struck out “and” at end.
+Subsec. (a)(3). Pub. L. 101–392, §408(b)(1)(E), substituted “conduct studies to improve the quality and delivery of occupational information systems to assist economic development activities, and examine” for “contract studies on” and struck out “and” at end.
 
-Subsec. (a)(4) to (6). Pub. L. 101 392, §408(b)(1)(F), (G), added pars. (4) and (5) and redesignated former par. (4) as (6).
+Subsec. (a)(4) to (6). Pub. L. 101–392, §408(b)(1)(F), (G), added pars. (4) and (5) and redesignated former par. (4) as (6).
 
-Subsecs. (c), (d). Pub. L. 101 392, §408(b)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 101–392, §408(b)(2), added subsecs. (c) and (d).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Transition Provisions
 
-Section 3(b)(1) of Pub. L. 98 524 provided that: “On the effective date of the Carl D. Perkins Vocational Education Act \[see Effective Date note set out under section 2301 of this title\], the personnel, property, and records of the National Occupational Information Coordinating Committee established under section 161(b) of the Vocational Education Act of 1963 \[Pub. L. 88 210, title I, as added Pub. L. 94 482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2197, and amended, formerly 20 U.S.C. 2391(b)\] shall be transferred to the National Occupational Information Coordinating Committee established pursuant to section 422 of this Act \[this section\].”
+Section 3(b)(1) of Pub. L. 98–524 provided that: “On the effective date of the Carl D. Perkins Vocational Education Act \[see Effective Date note set out under section 2301 of this title\], the personnel, property, and records of the National Occupational Information Coordinating Committee established under section 161(b) of the Vocational Education Act of 1963 \[Pub. L. 88–210, title I, as added Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2197, and amended, formerly 20 U.S.C. 2391(b)\] shall be transferred to the National Occupational Information Coordinating Committee established pursuant to section 422 of this Act \[this section\].”
 
 #### Section Referred to in Other Sections
 

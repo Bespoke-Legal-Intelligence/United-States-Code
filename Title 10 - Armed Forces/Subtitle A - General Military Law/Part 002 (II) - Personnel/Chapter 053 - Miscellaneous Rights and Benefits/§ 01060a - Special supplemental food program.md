@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may carry out a program to provide special supplemental food benefits to members of the armed forces on duty at stations outside the United States (and its territories and possessions) and to eligible civilians serving with, employed by,or accompanying the armed forces outside the United States (and its territories and possessions).
+Authority.—The Secretary of Defense may carry out a program to provide special supplemental food benefits to members of the armed forces on duty at stations outside the United States (and its territories and possessions) and to eligible civilians serving with, employed by, or accompanying the armed forces outside the United States (and its territories and possessions).
 
 (b)
 

@@ -22,7 +22,7 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 
 #### (d) Comprehensive management plan
 
-Within eighteen months after June 19, 1984, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and to theCommittee on Agriculture, Nutrition, and Forestry of the United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
+Within eighteen months after June 19, 1984, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
 
 #### (e) Public participation in development of management plan
 
@@ -38,5 +38,5 @@ Geothermal leasing laws, referred to in subsec. (b), are classified principally 
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

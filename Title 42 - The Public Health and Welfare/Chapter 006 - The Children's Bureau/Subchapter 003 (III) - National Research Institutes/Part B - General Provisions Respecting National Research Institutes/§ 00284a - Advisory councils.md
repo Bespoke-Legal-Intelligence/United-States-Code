@@ -20,7 +20,7 @@
 
 #### (b) Membership; compensation
 
-(1) Each advisory council shall consist of ex officio members and not more than eighteen members appointed by the Secretary. The ex officio members shall be nonvoting members.
+(1) Each advisory council shall consist of ex officio members and not more than eighteenmembers appointed by the Secretary. The ex officio members shall be nonvoting members.
 
 (2) The ex officio members of an advisory council shall consist of—
 

@@ -62,7 +62,7 @@ Section 21 of Pub. L. 85–861 provided that:
 
 “(c) Notwithstanding subsections (a) and (b), the Secretary of the Army may authorize the retention in an active status until age 60 of any officer of the Army National Guard of the United States who would otherwise be removed from an active status under this section and who is assigned to a headquarters or headquarters detachment of a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia.
 
-“(d) Notwithstanding subsections (a) and (b), a reserve officer who is on active duty (other than fortraining) in a temporary grade above lieutenant colonel and who would otherwise be removed from an active status under this section may, in the discretion of the Secretary, be retained on active duty, but not past his sixtieth birthday, and may not be removed from an active status while he is on that duty.
+“(d) Notwithstanding subsections (a) and (b), a reserve officer who is on active duty (other than for training) in a temporary grade above lieutenant colonel and who would otherwise be removed from an active status under this section may, in the discretion of the Secretary, be retained on active duty, but not past his sixtieth birthday, and may not be removed from an active status while he is on that duty.
 
 “(e) Notwithstanding subsections (a) and (b), the age prescribed for the discharge or transfer from an active status before July 2, 1960, of a reserve officer covered by this section is 60 for the purposes of section 1006 \[now 12646\] of title 10, United States Code.
 

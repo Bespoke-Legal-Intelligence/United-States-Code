@@ -28,7 +28,7 @@ The Congress finds as follows:
 
 &emsp;&emsp;(D) to otherwise benefit from opportunities that are taken for granted by individuals who do not have disabilities.
 
-&emsp;(4) Substantial progress has been made in the development of assistive technology devices, including adaptations to existing equipment, that significantly benefit individuals with disabilities of all ages. Such devices can be used to increase the involvement of such individuals in, and reduce expenditures associated with, programs and activities such as early intervention, education, rehabilitation and training, employment, residential living, independent living, recreation, and other aspects of daily living.
+&emsp;(4) Substantial progress has been made in the development of assistive technology devices, including adaptations to existing equipment, that significantly benefit individuals with disabilities of all ages. Such devices can be used to increase the involvement of such individuals in, and reduce expenditures associated with, programs and activities such asearly intervention, education, rehabilitation and training, employment, residential living, independent living, recreation, and other aspects of daily living.
 
 &emsp;(5) Most States have technology-related assistance programs carried out under this chapter. In spite of the efforts made by such programs, there remains a need to support systems change and advocacy activities in order to assist States to develop and implement consumer-responsive, comprehensive statewide programs of technology-related assistance for individuals with disabilities of all ages.
 

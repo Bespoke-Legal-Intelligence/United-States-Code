@@ -54,7 +54,7 @@ Comprehensive Medical Plans.—Benefits of the types named under paragraph (1) o
 
 (2) Notwithstanding any other provision of law, the Secretary of Health and Human Services and the Director of the Office of Personnel Management, and their agents, shall exchange any information necessary to implement this subsection.
 
-(3)(A) Not later than December 1, 1991, and periodically thereafter, the Secretary of Health and Human Services (in consultation with the Director of the Office of Personnel Management) shall supply to carriers of plans described in paragraphs (1) through (3) of section 8903 the Medicare program information necessary for them to comply with paragraph (1).
+(3)(A) Not later than December 1, 1991, and periodically thereafter, the Secretary of Health and Human Services (in consultation with the Director of the Office of Personnel Management)shall supply to carriers of plans described in paragraphs (1) through (3) of section 8903 the Medicare program information necessary for them to comply with paragraph (1).
 
 (B) For purposes of this paragraph, the term “Medicare program information” includes (i) the limitations on hospital charges established for Medicare purposes under section 1886 of the Social Security Act (42 U.S.C. 1395ww) and the identity of hospitals which have in force agreements with the Secretary of Health and Human Services consistent with section 1814(a) and 1866 of the Social Security Act (42 U.S.C. 1395f(a) and 1395cc), and (ii) the fee schedule amounts and limiting charges for physicians’ services established under section 1848 of such Act (42 U.S.C. 1395w–4) and the identity of participating physicians and suppliers who have in force agreements with such Secretary under section 1842(h) of such Act (42 U.S.C. 1395u(h)).
 
@@ -88,15 +88,15 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–66, §11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66, §11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (b)(3)(B). Pub. L. 103–66, §11003(a)(2), inserted cl. (i) designation and added cl. (ii).
 
 Subsec. (b)(4). Pub. L. 103–66, §11003(a)(3), added par. (4).
 
-1992—Subsec. (a). Pub. L. 102–378 substituted “this subsection” for “this section” in pars. (3) and (4) and in last sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 substituted “this subsection” for “this section” in pars. (3) and (4) and in last sentence.
 
-1990—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1993 Amendment
 

@@ -10,7 +10,7 @@ There is established, within the Center, the Advisory Council on Education Stati
 
 &emsp;The Council shall be composed of—
 
-&emsp;&emsp;(A) 18 voting members who are users of education data and who are appointed by theSecretary on the basis of their experience and eminence within the field of education, of whom at least—
+&emsp;&emsp;(A) 18 voting members who are users of education data and who are appointed by the Secretary on the basis of their experience and eminence within the field of education, of whom at least—
 
 &emsp;&emsp;&emsp;(i) three shall be practicing educators;
 
@@ -58,11 +58,11 @@ There is established, within the Center, the Advisory Council on Education Stati
 
 &emsp;The Council shall appoint a staff of not more than six individuals with technical expertise to enable the Council to carry out its duties.
 
-(Pub. L. 103 382, title IV, §407, Oct. 20, 1994, 108 Stat. 4033.)
+(Pub. L. 103–382, title IV, §407, Oct. 20, 1994, 108 Stat. 4033.)
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

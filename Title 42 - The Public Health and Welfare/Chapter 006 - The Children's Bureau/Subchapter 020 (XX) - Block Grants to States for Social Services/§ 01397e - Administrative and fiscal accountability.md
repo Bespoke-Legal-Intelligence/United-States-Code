@@ -20,7 +20,7 @@ Each report prepared and transmitted by a State under subsection (a) of this sec
 
 &emsp;(4) the methods by which services were provided, showing separately the services provided by public agencies and those provided by private agencies, and broken down in each case to reflect the types of services and circumstances involved.
 
-> The Secretary shall establish uniform definitions of services for use by the States in preparing the information required by this subsection, and make such other provision as may be necessary or appropriate to assure that compliance with the requirements of this subsection will not be unduly burdensome on the States.
+> The Secretary shall establish uniform definitions of services for use by the States in preparing the information required by this subsection,and make such other provision as may be necessary or appropriate to assure that compliance with the requirements of this subsection will not be unduly burdensome on the States.
 
 #### (d) Additional accounting requirements
 

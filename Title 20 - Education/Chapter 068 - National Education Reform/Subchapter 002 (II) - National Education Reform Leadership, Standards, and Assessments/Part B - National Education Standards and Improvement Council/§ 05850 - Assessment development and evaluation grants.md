@@ -30,7 +30,7 @@ Each State or local educational agency, or consortium, that desires to receive a
 
 &emsp;A State assessment developed and evaluated with funds under this section may not be used for decisions about individual students relating to program placement, promotion, or retention, graduation, or employment for a period of 5 years from March 31, 1994.
 
-(Pub. L. 103 227, title II, §220, Mar. 31, 1994, 108 Stat. 150.)
+(Pub. L. 103–227, title II, §220, Mar. 31, 1994, 108 Stat. 150.)
 
 #### Section Referred to in Other Sections
 

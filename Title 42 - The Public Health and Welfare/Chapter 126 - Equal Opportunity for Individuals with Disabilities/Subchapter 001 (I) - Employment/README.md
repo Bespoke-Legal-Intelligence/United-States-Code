@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1981a, 12201, 12203, 12206 of this title; title 29 sections 723, 728a, 732, 743, 771a, 791, 793, 794.
+This subchapter is referred to in sections 1981a, 12201, 12203, 12206 of this title; title 2 section 1311; title 29 sections 723, 728a, 732, 743, 771a, 791, 793, 794.
 
 
 ---

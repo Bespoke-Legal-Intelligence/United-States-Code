@@ -1,6 +1,6 @@
 ### §2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities
 
-(a) Notwithstanding any other provision of law, the Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
+(a) Notwithstanding any other provision of law, the Secretary of a military department,under regulations established by him and approved by the Secretary of Defense, may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
 
 (b) The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.
 

@@ -28,7 +28,7 @@
 
 &emsp;(IX) design of signaling, communications, and control systems.
 
-(C) For the purposes of this paragraph, the term “eligible applicant” means any UnitedStates private business, State government, local government, organization of State or local government, or any combination thereof. The term does not include any business owned in whole or in part by the Federal Government.
+(C) For the purposes of this paragraph, the term “eligible applicant” means any United States private business, State government, local government, organization of State or local government, or any combination thereof. The term does not include any business owned in whole or in part by the Federal Government.
 
 (D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve the current or anticipated congestion on other modes of transportation;
 
-&emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
+&emsp;(C) projections of the costs of designing, constructing, and operating high-speed groundtransportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
 &emsp;(D) the availability of rights-of-way to serve each market, including the extent to which average and maximum speeds would be limited by the curvature of existing rights-of-way and the prospect of increasing speeds through the acquisition of additional rights-of-way without significant relocation of residential, commercial, or industrial facilities;
 

@@ -12,13 +12,13 @@ No provision of a program administered by the Secretary or by any other officer 
 
 The Secretary shall not, during the period within eight months after May 4, 1980, take any action to withhold, suspend, or terminate funds under any program transferred by this chapter by reason of the failure of any State to comply with any applicable law requiring the administration of such a program through a single organizational unit.
 
-(Pub. L. 96 88, title I, §103, Oct. 17, 1979, 93 Stat. 670.)
+(Pub. L. 96–88, title I, §103, Oct. 17, 1979, 93 Stat. 670.)
 
 #### Codification
 
-In subsec. (c), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96 88, set out as an Effective Date note under section 3401 of this title.
+In subsec. (c), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1099c 1, 3224a of this title.
+This section is referred to in sections 1099c–1, 3224a of this title.
 

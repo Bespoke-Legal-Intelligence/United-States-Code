@@ -36,7 +36,7 @@ Under regulations prescribed by the Secretary, in the case of—
 
 &emsp;(1) an organization to which section 593 (relating to reserves for losses on loans) applies,
 
-&emsp;(2) a regulated investment company or a real estate investment trust subject to taxationunder subchapter M (section 851 and following), and
+&emsp;(2) a regulated investment company or a real estate investment trust subject to taxation under subchapter M (section 851 and following), and
 
 &emsp;(3) a cooperative organization described in section 1381(a),
 
@@ -68,7 +68,7 @@ Subsec. (d)(2). Pub. L. 98–369, §474(p)(7), substituted “, subject to sect
 
 Subsecs. (c), (d). Pub. L. 95–600, §321(c)(1)(A), struck out subsec. (c) which related to dispositions by an employer, and redesignated subsecs. (d) and (f) as (c) and (d), respectively.
 
-Subsec. (e). Pub. L. 95–600, §321(c)(1)(A), (C), redesignated subsec. (g) as (e) and struck out par. (3) which provided that the $100,000 amount specified in section 51(d) applicable to such estate or trust be reduced to an amount which bears the same ratio to $100,000 as the portion of the credit allocable to the estate or trust under paragraph (1) bears to the entire amount of such credit. Former subsec. (e), which related to a change in status from self-employed to employee, was struck out.
+Subsec. (e). Pub. L. 95–600, §321(c)(1)(A), (C), redesignated subsec. (g) as (e) and struck out par. (3) whichprovided that the $100,000 amount specified in section 51(d) applicable to such estate or trust be reduced to an amount which bears the same ratio to $100,000 as the portion of the credit allocable to the estate or trust under paragraph (1) bears to the entire amount of such credit. Former subsec. (e), which related to a change in status from self-employed to employee, was struck out.
 
 Subsecs. (f) to (h). Pub. L. 95–600, §321(c)(1)(A), redesignated subsecs. (f) to (h) as (d) to (f), respectively.
 

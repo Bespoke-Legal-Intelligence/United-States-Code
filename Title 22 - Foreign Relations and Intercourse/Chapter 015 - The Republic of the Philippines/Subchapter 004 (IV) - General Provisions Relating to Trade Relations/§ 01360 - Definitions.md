@@ -6,7 +6,7 @@
 
 &emsp;(2) The term “United States”, when used in a geographical sense, means the States, the District of Columbia, the Territories of Alaska and Hawaii, and Puerto Rico.
 
-&emsp;(3) The term “ordinary customs duty” means a customs duty based on the article as such (whether or not such duty is also based in any manner on the use, value, or method of production of the article, or on the amount of like articles imported, or on any other factor); but does not include—
+&emsp;(3) The term “ordinary customs duty” means a customs duty based on the article assuch (whether or not such duty is also based in any manner on the use, value, or method of production of the article, or on the amount of like articles imported, or on any other factor); but does not include—
 
 &emsp;&emsp;(A) a customs duty based on an act or omission of any person with respect to the importation of the article, or of the country from which the article is exported, or from which it comes; or
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the tax imposed by section 2491(c) of the Internal Revenue Code with respect to an article, merchandise, or combination, 10 per centum or more of the quantity by weight of which consists of, or is derived directly or indirectly from, one or more of the oils, fatty acids, or salts specified in section 2470 of the Internal Revenue Code; and the tax imposed by section 3500 of the Internal Revenue Code; and
 
-&emsp;&emsp;(B) any other tax, fee, charge, or exaction, imposed on or in connection with importation unless the law of the country imposing it designates or imposes it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws.
+&emsp;&emsp;(B) any other tax, fee, charge, or exaction, imposed on or in connection with importation unless the law of the country imposing it designates or imposes it as a customs duty or contains a provision to the effect that itshall be treated as a duty imposed under the customs laws.
 
 (b) For the purposes of sections 1271(b) and 1311(b) of this title, any material, used in the production of an article, shall be considered as having been used in the production of an article subsequently produced, which is the product of a chain of production in the course of which an article, which is the product of one stage of the chain, is used by its producer or another person, in a subsequent stage of the chain, as a material in the production of another article.
 
@@ -38,7 +38,7 @@
 
 &emsp;(1) if an article is entitled to be imported from a foreign country free of ordinary customs duty, that country shall be considered as the country entitled to the lowest rate of ordinary customs duty with respect to such article; and
 
-&emsp;(2) a reduction in ordinary customs duty granted any country, by law, treaty, trade agreement, or otherwise, with respect to anyarticle, shall be converted into the equivalent reduction in the rate of ordinary customs duty otherwise applicable to such article.
+&emsp;(2) a reduction in ordinary customs duty granted any country, by law, treaty, trade agreement, or otherwise, with respect to any article, shall be converted into the equivalent reduction in the rate of ordinary customs duty otherwise applicable to such article.
 
 (d) The terms “includes” and “including” when used in a definition contained in subchapters I to IV of this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined.
 

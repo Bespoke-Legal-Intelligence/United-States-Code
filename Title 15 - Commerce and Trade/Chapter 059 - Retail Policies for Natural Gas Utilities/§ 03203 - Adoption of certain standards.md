@@ -24,7 +24,7 @@ The following Federal standards are hereby established:
 
 #### (3) Integrated resource planning
 
-&emsp;Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment,\(C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) of this section shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
+&emsp;Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) of this section shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
 
 #### (4) Investments in conservation and demand management
 
@@ -42,23 +42,23 @@ If a State regulatory authority implements a standard established by subsection 
 
 &emsp;(2) implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.
 
-(Pub. L. 95 617, title III, §303, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102 486, title I, §115(b) (d), Oct. 24, 1992, 106 Stat. 2803, 2804.)
+(Pub. L. 95–617, title III, §303, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, §115(b)–(d), Oct. 24, 1992, 106 Stat. 2803, 2804.)
 
 #### References in Text
 
-The Energy Policy Act of 1992, referred to in subsec. (b)(4), is Pub. L. 102 486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
+The Energy Policy Act of 1992, referred to in subsec. (b)(4), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102 486, §115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
+1992—Subsec. (a). Pub. L. 102–486, §115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
-Subsec. (b)(3), (4). Pub. L. 102 486, §115(b), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 102–486, §115(b), added pars. (3) and (4).
 
-Subsec. (d). Pub. L. 102 486, §115(c), added subsec. (d).
+Subsec. (d). Pub. L. 102–486, §115(c), added subsec. (d).
 
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 
-Section 115(e) of Pub. L. 102 486 provided that: “The report under section 111(e) of this Act \[16 U.S.C. 2621 note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[15 U.S.C. 3203(b)(3) and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
+Section 115(e) of Pub. L. 102–486 provided that: “The report under section 111(e) of this Act \[16 U.S.C. 2621 note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[15 U.S.C. 3203(b)(3) and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
 
 #### Definitions
 
@@ -68,5 +68,5 @@ The definition of State in section 2602 of Title 16, Conservation, applies to th
 
 This section is referred to in section 3204 of this title; title 42 section 6807a.
 
-<i><sup>1</sup></i><i>So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -6,7 +6,7 @@ The Secretary, in accordance with this part, is authorized to make grants to eli
 
 &emsp;(2) designed to bring students from different social, economic, ethnic, and racial backgrounds together.
 
-(Pub. L. 89 10, title V, §5103, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3691.)
+(Pub. L. 89–10, title V, §5103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3691.)
 
 #### Section Referred to in Other Sections
 

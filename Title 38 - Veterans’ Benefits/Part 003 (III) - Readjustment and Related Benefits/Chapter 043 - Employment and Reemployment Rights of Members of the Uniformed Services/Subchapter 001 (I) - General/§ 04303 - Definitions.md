@@ -22,9 +22,9 @@ For the purposes of this chapter—
 
 &emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant general of the State in which the technician is employed.
 
-&emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
+&emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C.1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
 
-&emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Rate Commission, any nonappropriated fund instrumentality of the United States, anyExecutive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
+&emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Rate Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
 
 &emsp;(6) The term “Federal Government” includes any Federal executive agency, the legislative branch of the United States, and the judicial branch of the United States.
 
@@ -67,4 +67,8 @@ Another prior section 4303 was renumbered section 7603 of this title.
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 1316.
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(iii) sentencing patterns, comparing juveniles waived to adult court with juveniles who have committed similar offenses but have not been waived; and
 
-&emsp;(B) submit to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senatea report (including a compilation of State waiver statutes) on the findings made in the study and recommendations to improve conditions for juveniles waived to adult court.
+&emsp;(B) submit to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report (including a compilation of State waiver statutes) on the findings made in the study and recommendations to improve conditions for juveniles waived to adult court.
 
 (2) Not later than 1 year after November 4, 1992, the Comptroller General shall—
 
@@ -166,7 +166,7 @@ Another prior section 248 of Pub. L. 93–415 was renumbered section 245 and is 
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

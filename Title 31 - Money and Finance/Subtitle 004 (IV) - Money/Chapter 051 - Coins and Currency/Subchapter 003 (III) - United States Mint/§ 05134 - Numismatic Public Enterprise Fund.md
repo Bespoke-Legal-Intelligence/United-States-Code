@@ -144,7 +144,7 @@ Annual report on fund.—
 
 &emsp;&emsp;(A)
 
-Report required.—By April 30 of each year, the Secretary shall submit a report onthe Fund for the most recently completed fiscal year to the President, the Congress, and the Director of the Office of Management and Budget.
+Report required.—By April 30 of each year, the Secretary shall submit a report on the Fund for the most recently completed fiscal year to the President, the Congress, and the Director of the Office of Management and Budget.
 
 &emsp;&emsp;(B)
 
@@ -190,6 +190,10 @@ Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992,
 
 Section applicable with respect to fiscal years beginning after fiscal year 1992, see section 221(e) of Pub. L. 102–390, set out as an Effective Date of 1992 Amendment note under section 5132 of this title.
 
+#### Termination of Numismatic Public Enterprise Fund
+
+All assets and liabilities of Numismatic Public Enterprise Fund transferred to United States Mint Public Enterprise Fund and Numismatic Public Enterprise Fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
+
 #### Initial Funding of Fund From Existing Numismatic Operations
 
 Section 221(b) of Pub. L. 102–390 provided that:
@@ -208,7 +212,7 @@ In general.—As soon as practicable after the end of fiscal year 1992, the Secr
 
 “(2)
 
-Excess amounts to be deposited in the general fund.—That portion of the total amount of numismatic profits for fiscal year 1992 which remains after the transfer to the Fund pursuant to paragraph (1)(A) is made shall be deposited by the Secretary in the general fund of the Treasury as soon as practicable after the end of the fiscal year.
+Excess amounts to be deposited in the general fund.—That portion of the total amount of numismaticprofits for fiscal year 1992 which remains after the transfer to the Fund pursuant to paragraph (1)(A) is made shall be deposited by the Secretary in the general fund of the Treasury as soon as practicable after the end of the fiscal year.
 
 “(3)
 
@@ -228,7 +232,7 @@ Other terms.—The terms ‘Fund’ and ‘numismatic item’ have the meaning g
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5132, 5135 of this title.
+This section is referred to in sections 5132, 5135, 5136 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

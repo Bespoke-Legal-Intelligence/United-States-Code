@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—Members of selection boards convened under section 14101 of this title shall be appointed by the Secretary of the military department concerned in accordance with this section. Promotion boards and special selection boards shall consist of five or more officers. Continuation boards shall consist of three or more officers. All of the officers of any such selection board shall be of the same armed force as the officers under consideration by the board.
+Appointment.—Members of selection boards convened under section 14101 of this titleshall be appointed by the Secretary of the military department concerned in accordance with this section. Promotion boards and special selection boards shall consist of five or more officers. Continuation boards shall consist of three or more officers. All of the officers of any such selection board shall be of the same armed force as the officers under consideration by the board.
 
 (b)
 

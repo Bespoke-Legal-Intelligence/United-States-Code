@@ -66,11 +66,7 @@ Remedies.—The remedies of sections 283, 284, and 285 of this title shall not a
 
 Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; July 24, 1965, Pub. L. 89–83, §5, 79 Stat. 261; Dec. 12, 1980, Pub. L. 96–517, §4, 94 Stat. 3018; Aug. 23, 1988, Pub. L. 100–418, title IX, §9002, 102 Stat. 1563; Dec. 8, 1994, Pub. L. 103–465, title V, §532(a)(1), 108 Stat. 4983.)
-
-#### Prospective Effective Date
-
-<i>Subsection (a)(1) of this section effective on date that is one year after date on which the WTO Agreement enters into force with respect</i><i>to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see Effective Date of 1994 Amendment note below.</i>
+(July 19, 1952, ch. 950, 66 Stat. 804; July 24, 1965, Pub. L. 89–83, §5, 79 Stat. 261; Dec. 12, 1980, Pub.L. 96–517, §4, 94 Stat. 3018; Aug. 23, 1988, Pub. L. 100–418, title IX, §9002, 102 Stat. 1563; Dec. 8, 1994, Pub. L. 103–465, title V, §532(a)(1), 108 Stat. 4983.)
 
 #### Historical and Revision Notes
 
@@ -150,7 +146,7 @@ Plant patents, grant of, see section 163 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 155, 155A of this title.
+This section is referred to in sections 103, 155, 155A of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

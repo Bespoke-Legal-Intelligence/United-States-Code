@@ -18,11 +18,11 @@ Each application submitted pursuant to subsection (a) of this section shall—
 
 &emsp;(5) provide such additional assurances or information as the Secretary may reasonably require.
 
-(Pub. L. 89 329, title V, §514, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 675.)
+(Pub. L. 89–329, title V, §514, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 675.)
 
 #### Prior Provisions
 
-A prior section 1103c, Pub. L. 89 329, title V, §514, as added Pub. L. 99 498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1497, related to amount of grants to institutions offering midcareer teacher training for nontraditional students, prior to the general revision of this subchapter by Pub. L. 102 325.
+A prior section 1103c, Pub. L. 89–329, title V, §514, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1497, related to amount of grants to institutions offering midcareer teacher training for nontraditional students, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-A prior section 514 of Pub. L. 89 329, title V, Nov. 8, 1965, 79 Stat. 1257, as amended, set forth provisions respecting compensation of program members and was classified to section 1104 of this title, prior to repeal by Pub. L. 97 35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+A prior section 514 of Pub. L. 89–329, title V, Nov. 8, 1965, 79 Stat. 1257, as amended, set forth provisions respecting compensation of program members and was classified to section 1104 of this title, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 

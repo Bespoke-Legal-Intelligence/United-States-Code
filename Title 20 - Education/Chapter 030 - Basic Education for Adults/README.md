@@ -128,17 +128,17 @@
 
 |  |  |
 | :--- | ---: |
-| 1211\. | Business, industry, labor, and education partnerships for workplace literacy. |
+| [1211\.](Subchapter%20003%20%28III%29%20-%20Workplace%20Literacy%20and%20English%20Literacy%20Grants/%C2%A7%2001211%20-%20Business%2C%20industry%2C%20labor%2C%20and%20education%20partnerships%20for%20workplace%20literacy.md) | Business, industry, labor, and education partnerships for workplace literacy. |
 | (a) | Grants for exemplary demonstration partnerships for workplace literacy. |
 | (b) | Grants to States. |
 | (c) | Grant for national workforce literacy strategies. |
 | (d) | Evaluation. |
 | (e) | Authorization of appropriations. |
-| 1211 1. | National Workforce Literacy Assistance Collaborative. |
+| 1211–1. | National Workforce Literacy Assistance Collaborative. |
 | (a) | Establishment. |
 | (b) | Functions. |
 | (c) | Authorization of appropriations. |
-| 1211 2. | Functional literacy and life skills programs for State and local prisoners. |
+| 1211–2. | Functional literacy and life skills programs for State and local prisoners. |
 | (a) | Establishment. |
 | (b) | Program requirements. |
 | (c) | Annual report. |
@@ -201,11 +201,11 @@
 
 #### Codification
 
-The Adult Education Act, comprising this chapter, was originally enacted by Pub. L. 89 750, title III, Nov. 3, 1966, 80 Stat. 1216; amended by Pub. L. 90 247, Jan. 2, 1968, 81 Stat. 783; Pub. L. 90 576, Oct. 16, 1968, 82 Stat. 1064; Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 91 600, Dec. 30, 1970, 84 Stat. 1660; Pub. L. 92 318, June 23, 1972, 86 Stat. 235; Pub. L. 93 29, May 3, 1973, 87 Stat. 30; Pub. L. 93 380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94 135, Nov. 28, 1975, 89 Stat. 713; Pub. L. 94 273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94 405, Sept. 10, 1976, 90 Stat. 1225; Pub. L. 94 482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95 112, Sept. 24, 1977, 91 Stat. 911; Pub. L. 95 561, Nov. 1, 1978, 92 Stat. 2143; Pub. L. 96 46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96 88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 97 35, Aug. 13, 1981, 95 Stat. 357; Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322; Pub. L. 98 511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 98 524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 100 77, July 22, 1987, 101 Stat. 482; Pub. L. 100 297, Apr. 28, 1988, 102 Stat. 130. Such Act is shown herein, however, as having been added by Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 302, without reference to such intervening amendments because of the extensive revision of the Act's provisions by Pub. L. 100 297.
+The Adult Education Act, comprising this chapter, was originally enacted by Pub. L. 89–750, title III, Nov. 3, 1966, 80 Stat. 1216; amended by Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 783; Pub. L. 90–576, Oct. 16, 1968, 82 Stat. 1064; Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 91–600, Dec. 30, 1970, 84 Stat. 1660; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–29, May 3, 1973, 87 Stat. 30; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 713; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–405, Sept. 10, 1976, 90 Stat. 1225; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95–112, Sept. 24, 1977, 91 Stat. 911; Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143; Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357; Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 100–77, July 22, 1987, 101 Stat. 482; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130. Such Act is shown herein, however, as having been added by Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302, without reference to such intervening amendments because of the extensive revision of the Act's provisions by Pub. L. 100–297.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2323, 2403, 3489, 6143, 6362, 6365, 6366 of this title; title 29 sections 1533, 1605, 1792; title 42 sections 683, 3013.
+This chapter is referred to in sections 2323, 2403, 3489, 6143, 6362, 6365, 6366 of this title; title 29 sections 1533, 1605, 1792; title 42 sections 683, 3013, 11421.
 
 
 ---

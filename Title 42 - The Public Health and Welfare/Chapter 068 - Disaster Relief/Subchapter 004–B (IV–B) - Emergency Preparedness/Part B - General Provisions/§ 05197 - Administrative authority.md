@@ -22,7 +22,7 @@ The Director may—
 
 #### (d) Gifts
 
-Notwithstanding any other provision of law, the Director may accept gifts of supplies, equipment, and facilities and may use or distribute such gifts for emergency preparedness purposes in accordance with the provisions of this subchapter.
+Notwithstanding any other provision of law, the Director may accept gifts of supplies, equipment, and facilities and may use or distribute such gifts for emergency preparedness purposesin accordance with the provisions of this subchapter.
 
 #### (e) Reimbursement
 

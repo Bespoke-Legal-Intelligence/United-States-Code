@@ -182,9 +182,9 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 #### Amendments
 
-1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1978—Subsec. (a)(6)(A). Pub. L. 95–426, §712(a)(1), substituted “(e)(1)” for “(e)”.
+<b>1978</b>—Subsec. (a)(6)(A). Pub. L. 95–426, §712(a)(1), substituted “(e)(1)” for “(e)”.
 
 Subsec. (a)(6)(B). Pub. L. 95–426, §712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
 
@@ -194,7 +194,7 @@ Subsec. (d). Pub. L. 95–426, §712(b)(2), substituted “official use, for for
 
 Subsec. (e). Pub. L. 95–426, §712(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
-1977—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
+<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 

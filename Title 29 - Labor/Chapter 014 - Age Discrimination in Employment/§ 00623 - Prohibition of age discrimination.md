@@ -48,7 +48,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
-> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan or voluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement ofany individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
+> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan or voluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
 
 &emsp;(3) to discharge or otherwise discipline an individual for good cause.
 
@@ -82,7 +82,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 (2) Nothing in this section shall be construed to prohibit an employer, employment agency, or labor organization from observing any provision of an employee pension benefit plan to the extent that such provision imposes (without regard to age) a limitation on the amount of benefits that the plan provides or a limitation on the number of years of service or years of participation which are taken into account for purposes of determining benefit accrual under the plan.
 
-(3) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
+(3) In the case of any employee who, as of the end of any plan year under a defined benefitplan, has attained normal retirement age under such plan—
 
 &emsp;(A) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
 
@@ -164,7 +164,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -242,7 +242,7 @@ Collectively Bargained Agreements.—With respect to any employee benefits provi
 
 &emsp;“(2) that terminates after such date of enactment;
 
-&emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of theFair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
+&emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
 
 &emsp;“(4) that contains any provision that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
 

@@ -8,7 +8,7 @@
 
 #### (2) Agreement
 
-&emsp;In return for the creation of an easement on any lands under this part, the owner of the farm or ranch wherein such lands are located must agree to the following:
+&emsp;In return for the creation of an easement on any lands under this part, the owner of thefarm or ranch wherein such lands are located must agree to the following:
 
 &emsp;&emsp;(A) To the creation and recordation of an appropriate deed restriction in accordance with applicable State law to reflect the easement agreed to under this part with respect to such lands.
 

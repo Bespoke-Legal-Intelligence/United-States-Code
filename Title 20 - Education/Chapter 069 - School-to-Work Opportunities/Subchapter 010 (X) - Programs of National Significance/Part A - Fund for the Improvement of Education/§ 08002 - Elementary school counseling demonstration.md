@@ -96,7 +96,7 @@
 
 #### (5) Limit on administration
 
-&emsp;Not more than five percent of the amounts made available under this section in any fiscalyear shall be used for administrative costs to carry out this section.
+&emsp;Not more than five percent of the amounts made available under this section in any fiscal year shall be used for administrative costs to carry out this section.
 
 #### (d) Definitions
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;(4) the term “supervisor” means an individual who has the equivalent number of years of professional experience in such individual's respective discipline as is required of teaching experience for the supervisor or administrative credential in the State of such individual.
 
-(Pub. L. 89 10, title X, §10102, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3812.)
+(Pub. L. 89–10, title X, §10102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3812.)
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ Filing.—A State must file an application with the Secretary of Transportation 
 
 Considerations.—In considering an application under this subsection, the Secretary shall consider the following:
 
-&emsp;(1) the percentage of rail lines that rail carriers have identified to the Interstate Commerce Commission for abandonment or potential abandonment in the State.
+&emsp;(1) the percentage of rail lines that rail carriers have identified to the Surface Transportation Board for abandonment or potential abandonment in the State.
 
 &emsp;(2) the likelihood of future abandonments in the State.
 
@@ -18,7 +18,7 @@ Considerations.—In considering an application under this subsection, the Secre
 
 &emsp;(5) the impact of rail bankruptcies, rail restructuring, and rail mergers on the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 896.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 896; Pub. L. 104–88, title III, §308(f)(3), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -43,4 +43,12 @@ In subsection (a), the words “under this chapter” are added for clarity. The
 In subsection (b)(3), the words “established by the Secretary” are omitted as surplus.
 
 In subsection (b)(5), the words “applying for assistance” are omitted as unnecessary because of the restatement.
+
+#### Amendments
+
+1995—Subsec. (b)(1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 

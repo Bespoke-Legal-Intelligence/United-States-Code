@@ -8,5 +8,5 @@ It is the purpose of this subchapter to improve the quality of education for all
 
 This subchapter provides new authorities and funding for the Nation's school systems without replacing or reducing funding for existing Federal education programs. It is the intention of the Congress that no State or local educational agency will reduce its funding for education or for education reform on account of receiving any funds under this subchapter.
 
-(Pub. L. 103 227, title III, §302, Mar. 31, 1994, 108 Stat. 158.)
+(Pub. L. 103–227, title III, §302, Mar. 31, 1994, 108 Stat. 158.)
 

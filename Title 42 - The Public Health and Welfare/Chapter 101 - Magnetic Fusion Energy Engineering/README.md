@@ -15,18 +15,12 @@
 | (a) | Development plan. |
 | (b) | Factors considered in formulation of development plan. |
 | (c) | Report to Congressional committees. |
-| [9306\.](%C2%A7%2009306%20-%20Technical%20panel%20on%20magnetic%20fusion.md) | Technical panel on magnetic fusion. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Compliance guidelines. |
-| (d) | Duties. |
-| (e) | Report to Energy Research Advisory Board. |
-| (f) | Submission of report by Energy Research Advisory Board to Secretary. |
+| [9306\.](%C2%A7%2009306%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9346%2C%20title%20V%2C%20%C2%A7509%2C%20Nov.%2013%2C%201995%2C%20109%20Stat.%20421.md) | Repealed. |
 | [9307\.](%C2%A7%2009307%20-%20Program%20advisory%20committees.md) | Program advisory committees. |
 | [9308\.](%C2%A7%2009308%20-%20International%20cooperation%3B%20examination%20of%20impact%20on%20national%20magnetic%20fusion%20program%3B%20exploration%20of%20prospects%20for%20joint%20funding%20in%E2%80%A6.md) | International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in construction of fusion engineering device; report to Congressional committees on results of examination and exploration. |
 | [9309\.](%C2%A7%2009309%20-%20Technical%20manpower%20requirements%3B%20report%20to%20President%20and%20Congress.md) | Technical manpower requirements; report to President and Congress. |
 | [9310\.](%C2%A7%2009310%20-%20Dissemination%20of%20information.md) | Dissemination of information. |
-| [9311\.](%C2%A7%2009311%20-%20Annual%20report.md) | Annual report. |
+| [9311\.](%C2%A7%2009311%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28n%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md) | Repealed. |
 | [9312\.](%C2%A7%2009312%20-%20Authorization%20of%20appropriations%3B%20contract%20authority.md) | Authorization of appropriations; contract authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,10 +35,10 @@
 - [&sect; 09303 - Program activities](%C2%A7%2009303%20-%20Program%20activities.md)
 - [&sect; 09304 - Comprehensive program management plan; submittal to Congressional committees](%C2%A7%2009304%20-%20Comprehensive%20program%20management%20plan%3B%20submittal%20to%20Congressional%20committees.md)
 - [&sect; 09305 - Magnetic fusion engineering center](%C2%A7%2009305%20-%20Magnetic%20fusion%20engineering%20center.md)
-- [&sect; 09306 - Technical panel on magnetic fusion](%C2%A7%2009306%20-%20Technical%20panel%20on%20magnetic%20fusion.md)
+- [&sect; 09306 - Repealed. Pub. L. 104&#8211;46, title V, &sect;509, Nov. 13, 1995, 109 Stat. 421](%C2%A7%2009306%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9346%2C%20title%20V%2C%20%C2%A7509%2C%20Nov.%2013%2C%201995%2C%20109%20Stat.%20421.md)
 - [&sect; 09307 - Program advisory committees](%C2%A7%2009307%20-%20Program%20advisory%20committees.md)
 - [&sect; 09308 - International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in&#8230;](%C2%A7%2009308%20-%20International%20cooperation%3B%20examination%20of%20impact%20on%20national%20magnetic%20fusion%20program%3B%20exploration%20of%20prospects%20for%20joint%20funding%20in%E2%80%A6.md)
 - [&sect; 09309 - Technical manpower requirements; report to President and Congress](%C2%A7%2009309%20-%20Technical%20manpower%20requirements%3B%20report%20to%20President%20and%20Congress.md)
 - [&sect; 09310 - Dissemination of information](%C2%A7%2009310%20-%20Dissemination%20of%20information.md)
-- [&sect; 09311 - Annual report](%C2%A7%2009311%20-%20Annual%20report.md)
+- [&sect; 09311 - Repealed. Pub. L. 104&#8211;66, title I, &sect;1051(n), Dec. 21, 1995, 109 Stat. 717](%C2%A7%2009311%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28n%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20717.md)
 - [&sect; 09312 - Authorization of appropriations; contract authority](%C2%A7%2009312%20-%20Authorization%20of%20appropriations%3B%20contract%20authority.md)

@@ -32,11 +32,11 @@
 
 (2) Information under this subsection shall be provided at least 30 calendar days before the beginning of each election period under section 8432(b)(1)(A) of this title, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title.
 
-(d) Each employee, Member, former employee, or former Member who elects to invest in theCommon Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8461, 8471 of this title.
+This section is referred to in sections 8401, 8461, 8471 of this title; title 31 section 9503.
 

@@ -1,10 +1,36 @@
 ### §103. Conditions for patentability; non-obvious subject matter
 
-A patent may not be obtained though the invention is not identically disclosed or described as set forth in section 102 of this title, if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains. Patentability shall not be negatived by the manner in which the invention was made.
+(a) A patent may not be obtained though the invention is not identically disclosed or described as set forth in section 102 of this title, if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains. Patentability shall not be negatived by the manner in which the invention was made.
 
-Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
+(b)(1) Notwithstanding subsection (a), and upon timely election by the applicant for patent to proceed under this subsection, a biotechnological process using or resulting in a composition of matter that is novel under section 102 and nonobvious under subsection (a) of this section shall be considered nonobvious if—
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Nov. 8, 1984, Pub. L. 98–622, title I, §103, 98 Stat. 3384.)
+&emsp;(A) claims to the process and the composition of matter are contained in either the same application for patent or in separate applications having the same effective filing date; and
+
+&emsp;(B) the composition of matter, and the process at the time it was invented, were owned by the same person or subject to an obligation of assignment to the same person.
+
+(2) A patent issued on a process under paragraph (1)—
+
+&emsp;(A) shall also contain the claims to the composition of matter used in or made by that process, or
+
+&emsp;(B) shall, if such composition of matter is claimed in another patent, be set to expire on the same date as such other patent, notwithstanding section 154.
+
+(3) For purposes of paragraph (1), the term “biotechnological process” means—
+
+&emsp;(A) a process of genetically altering or otherwise inducing a single- or multi-celled organism to—
+
+&emsp;&emsp;(i) express an exogenous nucleotide sequence,
+
+&emsp;&emsp;(ii) inhibit, eliminate, augment, or alter expression of an endogenous nucleotide sequence, or
+
+&emsp;&emsp;(iii) express a specific physiological characteristic not naturally associated with said organism;
+
+&emsp;(B) cell fusion procedures yielding a cell line that expresses a specific protein, such as a monoclonal antibody; and
+
+&emsp;(C) a method of using a product produced by a process defined by subparagraph (A) or (B), or a combination of subparagraphs (A) and (B).
+
+(c) Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
+
+(July 19, 1952, ch. 950, 66 Stat. 798; Nov. 8, 1984, Pub. L. 98–622, title I, §103, 98 Stat. 3384; Nov. 1, 1995, Pub. L. 104–41, §1, 109 Stat. 351.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +40,13 @@ The second sentence states that patentability as to this requirement is not to b
 
 #### Amendments
 
+1995—Pub. L. 104–41 designated first and second pars. as subsecs. (a) and (c), respectively, and added subsec. (b).
+
 1984—Pub. L. 98–622 inserted “Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
+
+#### Effective Date of 1995 Amendment
+
+Section 3 of Pub. L. 104–41 provided that: “The amendments made by section 1 \[amending this section\] shall apply to any application for patent filed on or after the date of enactment of this Act \[Nov. 1, 1995\] and to any application for patent pending on such date of enactment, including (in either case) an application for the reissuance of a patent.”
 
 #### Effective Date of 1984 Amendment
 
@@ -26,11 +58,15 @@ Section 106 of Pub. L. 98–622 provided that:
 
 “(c) Section 271(f) of title 35, United States Code, added by section 101 of this Act shall apply only to the supplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act \[Nov. 8, 1984\].
 
-“(d) No United States patent granted before the date of enactment of this Act \[Nov. 8, 1984\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act \[amending this section and sections 116 and 120 of this title\] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any processpracticed, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
+“(d) No United States patent granted before the date of enactment of this Act \[Nov. 8, 1984\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act \[amending this section and sections 116 and 120 of this title\] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
 
 “(e) The amendments made by this Act shall not affect the right of any party in any case pending in court on the date of enactment \[Nov. 8, 1984\] to have their rights determined on the basis of the substantive law in effect prior to the date of enactment.”
 
 #### Cross References
 
 Description of invention, see section 112 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 282 of this title.
 

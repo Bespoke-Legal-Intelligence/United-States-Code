@@ -22,7 +22,7 @@ Each report submitted under subsection (a) of this section shall—
 
 #### (c) Delinquent or incomplete reports
 
-If the Secretary does not receive a report by the date required under subsection (a) of this section, or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take allreasonable measures to obtain the delinquent or incomplete information from the State educational agency.
+If the Secretary does not receive a report by the date required under subsection (a) of this section, or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
 
 #### (d) Availability of information
 
@@ -46,21 +46,21 @@ On or before August 15 of each year in which reports are submitted under subsect
 
 &emsp;&emsp;(B) contracts entered into between such agencies and the Federal Government.
 
-(Pub. L. 90 247, title IV, §424, as added Pub. L. 103 382, title II, §234, Oct. 20, 1994, 108 Stat. 3915.)
+(Pub. L. 90–247, title IV, §424, as added Pub. L. 103–382, title II, §234, Oct. 20, 1994, 108 Stat. 3915.)
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a), (b), and (f) of this section were contained in section 1221e 1a of this title prior to repeal by Pub. L. 103 382.
+Provisions similar to those in subsecs. (a), (b), and (f) of this section were contained in section 1221e–1a of this title prior to repeal by Pub. L. 103–382.
 
-A prior section 1226b, Pub. L. 90 247, title IV, §416, as added Pub. L. 93 380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, related to program planning and evaluation, prior to repeal by Pub. L. 103 382, title II, §212(a)(1), Oct. 20, 1994, 108 Stat. 3913.
+A prior section 1226b, Pub. L. 90–247, title IV, §416, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, related to program planning and evaluation, prior to repeal by Pub. L. 103–382, title II, §212(a)(1), Oct. 20, 1994, 108 Stat. 3913.
 
-A prior section 424 of Pub. L. 90 247 was classified to section 1231b 1 of this title prior to repeal by Pub. L. 103 382.
+A prior section 424 of Pub. L. 90–247 was classified to section 1231b–1 of this title prior to repeal by Pub. L. 103–382.
 
-Another prior section 424 of Pub. L. 90 247 was renumbered section 433, and is classified to section 1231c of this title.
+Another prior section 424 of Pub. L. 90–247 was renumbered section 433, and is classified to section 1231c of this title.
 
-Another prior section 424 of Pub. L. 90 247 was renumbered section 434, and was classified to section 1232c of this title prior to repeal by Pub. L. 95 561.
+Another prior section 424 of Pub. L. 90–247 was renumbered section 434, and was classified to section 1232c of this title prior to repeal by Pub. L. 95–561.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

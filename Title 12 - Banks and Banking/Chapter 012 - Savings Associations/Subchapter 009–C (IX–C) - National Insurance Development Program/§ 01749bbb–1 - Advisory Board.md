@@ -6,7 +6,7 @@
 
 (2) The Director shall designate a Chairman and a Vice Chairman of the Board.
 
-(3) Each member shall serve for a term of two years or until his successor has been appointed, except that no person who is appointed while a fulltime employee of a State or the Federal Government shall serve in such position after he ceases to be so employed, unless he is reappointed.
+(3) Each member shall serve for a term of two years or until his successor has been appointed,except that no person who is appointed while a fulltime employee of a State or the Federal Government shall serve in such position after he ceases to be so employed, unless he is reappointed.
 
 (4) Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of that term.
 

@@ -8,9 +8,9 @@ There shall be an Executive Secretary of the Foundation who shall be appointed b
 
 The Executive Secretary of the Foundation shall be compensated at an annual rate of basic pay not in excess of the amount payable for Executive Level V.
 
-(Pub. L. 102 281, title IV, §428, May 13, 1992, 106 Stat. 144.)
+(Pub. L. 102–281, title IV, §428, May 13, 1992, 106 Stat. 144.)
 
 #### References in Text
 
-Executive Level V, referred to in subsec. (b), probably means level V of the Executive Schedule, which is setout in section 5316 of Title 5, Government Organization and Employees.
+Executive Level V, referred to in subsec. (b), probably means level V of the Executive Schedule, which is set out in section 5316 of Title 5, Government Organization and Employees.
 

@@ -12,7 +12,7 @@ No employer may discharge any employee or otherwise discriminate against any emp
 
 #### (b) Remedy
 
-(1) Any employee who believes that the employee has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section may, within 30 days after such alleged violation occurs, file (or have any person file on the employee's behalf) acomplaint with the Secretary of Labor (hereinafter in this section referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
+(1) Any employee who believes that the employee has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section may, within 30 days after such alleged violation occurs, file (or have any person file on the employee's behalf) a complaint with the Secretary of Labor (hereinafter in this section referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
 
 (2)(A) Upon receipt of a complaint filed under paragraph (1), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within 30 days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting on behalf of the complainant) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this paragraph. Within ninety days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committed such violation, issue an order either providing the relief prescribed by subparagraph (B) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for agency hearing. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
 
@@ -32,13 +32,13 @@ Whenever a person has failed to comply with an order issued under subsection (b)
 
 Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from the employee's employer (or any agent of the employer), deliberately causes a violation of any requirement of this chapter.
 
-(Pub. L. 94 469, title I, §23, Oct. 11, 1976, 90 Stat. 2044; Pub. L. 98 620, title IV, §402(19), Nov. 8, 1984, 98 Stat. 3358; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §23, Oct. 11, 1976, 90 Stat. 2044; Pub. L. 98–620, title IV, §402(19), Nov. 8, 1984, 98 Stat. 3358; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 #### Amendments
 
-1984—Subsec. (d). Pub. L. 98 620 struck out provision that civil actions brought under this subsection had to be heard and decided expeditiously.
+1984—Subsec. (d). Pub. L. 98–620 struck out provision that civil actions brought under this subsection had to be heard and decided expeditiously.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98 620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98 620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 

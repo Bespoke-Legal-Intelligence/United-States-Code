@@ -50,7 +50,7 @@ The text reading “servicemen in the armed forces of the United States and thei
 
 1988—Subsecs. (b)(4), (f). Pub. L. 100–242 inserted “as a principal residence” after “occupies the property”.
 
-1980—Subsec. (b)(2). Pub. L. 96–399 substituted provisions relating to dwelling designed principally for aone-family residence or a one-family unit in a condominium project, for provisions setting forth maximum dollar amounts for the principal obligation involved.
+1980—Subsec. (b)(2). Pub. L. 96–399 substituted provisions relating to dwelling designed principally for a one-family residence or a one-family unit in a condominium project, for provisions setting forth maximum dollar amounts for the principal obligation involved.
 
 1979—Subsec. (b)(2). Pub. L. 96–153 substituted “$67,500” for “$60,000”.
 

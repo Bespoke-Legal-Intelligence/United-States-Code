@@ -54,7 +54,7 @@ The Program shall include, but not be limited to, the following elements:
 
 &emsp;(6) measures for increasing international cooperation in climate research, monitoring, analysis and data dissemination;
 
-&emsp;(7) mechanisms for intergovernmental climate-related studies and services includingparticipation by universities, the private sector and others concerned with applied research and advisory services. Such mechanisms may provide, among others, for the following State and regional services and functions: (A) studies relating to and analyses of climatic effects on agricultural production, water resources, energy needs, and other critical sectors of the economy; (B) atmospheric data collection and monitoring on a statewide and regional basis; (C) advice to regional, State, and local government agencies regarding climate-related issues; (D) information to users within the State regarding climate and climatic effects; and (E) information to the Secretary regarding the needs of persons within the States for climate-related services, information, and data. The Secretary may make annual grants to any State or group of States, which grants shall be made available to public or private educational institutions, to State agencies, and to other persons or institutions qualified to conduct climate-related studies or provide climate-related services;
+&emsp;(7) mechanisms for intergovernmental climate-related studies and services including participation by universities, the private sector and others concerned with applied research and advisory services. Such mechanisms may provide, among others, for the following State and regional services and functions: (A) studies relating to and analyses of climatic effects on agricultural production, water resources, energy needs, and other critical sectors of the economy; (B) atmospheric data collection and monitoring on a statewide and regional basis; (C) advice to regional, State, and local government agencies regarding climate-related issues; (D) information to users within the State regarding climate and climatic effects; and (E) information to the Secretary regarding the needs of persons within the States for climate-related services, information, and data. The Secretary may make annual grants to any State or group of States, which grants shall be made available to public or private educational institutions, to State agencies, and to other persons or institutions qualified to conduct climate-related studies or provide climate-related services;
 
 &emsp;(8) experimental climate forecast centers, which shall (A) be responsible for making and routinely updating experimental climate forecasts of a monthly, seasonal, annual, and longer nature, based on a variety of experimental techniques; (B) establish procedures to have forecasts reviewed and their accuracy evaluated; and (C) protect against premature reliance on such experimental forecasts; and
 
@@ -86,25 +86,25 @@ The Program shall include, but not be limited to, the following elements:
 
 Each Federal agency and department participating in the Program, shall prepare and submit to the Office of Management and Budget, on or before the date of submission of departmental requests for appropriations to the Office of Management and Budget, an annual request for appropriations for the Program for the subsequent fiscal year and shall transmit a copy of such request to the National Climate Program Office. The Office of Management and Budget shall review the request for appropriations as an integrated, coherent, multiagency request.
 
-(Pub. L. 95 367, §5(a) (g)(1), Sept. 17, 1978, 92 Stat. 601 603; Pub. L. 99 272, title VI, §6084(b) (f), Apr. 7, 1986, 100 Stat. 136, 137.)
+(Pub. L. 95–367, §5(a)–(g)(1), Sept. 17, 1978, 92 Stat. 601–603; Pub. L. 99–272, title VI, §6084(b)–(f), Apr. 7, 1986, 100 Stat. 136, 137.)
 
 #### Codification
 
-Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub. L. 95 367 and has been set out without such par. (1) designation for purposes of codification. For classification of par. (2) of section 5(g) to the Code, see Tables.
+Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub. L. 95–367 and has been set out without such par. (1) designation for purposes of codification. For classification of par. (2) of section 5(g) to the Code, see Tables.
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99 272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program“, and designated third sentence as par. (4).
+1986—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program“, and designated third sentence as par. (4).
 
-Subsec. (d)(7). Pub. L. 99 272, §6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
+Subsec. (d)(7). Pub. L. 99–272, §6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 
-Subsec. (d)(9). Pub. L. 99 272, §6084(c)(2), (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under section 2905 of this title”.
+Subsec. (d)(9). Pub. L. 99–272, §6084(c)(2), (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under section 2905 of this title”.
 
-Subsec. (e). Pub. L. 99 272, §6084(d), substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
+Subsec. (e). Pub. L. 99–272, §6084(d), substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
 
-Subsec. (f)(2). Pub. L. 99 272, §6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
+Subsec. (f)(2). Pub. L. 99–272, §6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
 
-Subsec. (g). Pub. L. 99 272, §6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
+Subsec. (g). Pub. L. 99–272, §6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
 
 #### Section Referred to in Other Sections
 

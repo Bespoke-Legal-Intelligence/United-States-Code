@@ -1,6 +1,6 @@
 ### §1434. Reports to Congress; publication
 
-(a) Every department and agency acting under authority of this chapter shall, by March 15 of each year, report to Congress all such actions taken by that department or agency during the preceding calendar year. With respect to actions which involve actual or potential cost to theUnited States in excess of $50,000, the report shall—
+(a) Every department and agency acting under authority of this chapter shall, by March 15 of each year, report to Congress if any such action has been taken by that department or agency during the preceding calendar year. With respect to actions which involve actual or potential costto the United States in excess of $50,000, the report shall—
 
 &emsp;(1) name the contractor;
 
@@ -14,7 +14,11 @@ With respect to (1), (2), (3), and (4), above, and under regulations prescribed 
 
 (b) The Clerk of the House and the Secretary of the Senate shall cause to be published in the Congressional Record all reports submitted pursuant to this section.
 
-(Pub. L. 85–804, §4, Aug. 28, 1958, 72 Stat. 972.)
+(Pub. L. 85–804, §4, Aug. 28, 1958, 72 Stat. 972; Pub. L. 104–66, title III, §3001(g), Dec. 21, 1995, 109 Stat. 734.)
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–66 substituted “if any such action has been taken” for “all such actions taken” in introductory provisions.
 
 #### Nonapplicability of National Emergencies Act
 

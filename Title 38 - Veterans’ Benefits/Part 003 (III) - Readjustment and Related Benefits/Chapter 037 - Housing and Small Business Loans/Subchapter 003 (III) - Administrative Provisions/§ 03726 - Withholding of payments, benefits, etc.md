@@ -10,7 +10,7 @@ No officer, employee, department, or agency of the United States shall set off a
 
 1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively.
 
-1981—Pub. L. 97–66 struck out subsec. (a) which provided that the Administrator could not, unless the Administrator had first obtained the consent in writing ofan individual, set off against, or otherwise withhold from, such individual any benefits payable to such individual under any law administered by the Veterans’ Administration because of liability allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such individual under this chapter, and struck out designation “(b)” before “No officer, employee, department, or agency of the United States”.
+1981—Pub. L. 97–66 struck out subsec. (a) which provided that the Administrator could not, unless the Administrator had first obtained the consent in writing of an individual, set off against, or otherwise withhold from, such individual any benefits payable to such individual under any law administered by the Veterans’ Administration because of liability allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such individual under this chapter, and struck out designation “(b)” before “No officer, employee, department, or agency of the United States”.
 
 1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator” for “he”.
 

@@ -2,7 +2,7 @@
 
 Section 3601, Pub. L. 96–294, title V, §503, June 30, 1980, 94 Stat. 719, provided Congressional statement of purpose for this chapter.
 
-Section 3602, Pub. L. 96–294, title V, §504, June 30, 1980, 94 Stat. 719; Pub. L. 98–181, title IV, §463(a), Nov.30, 1983, 97 Stat. 1233, provided definitions for this chapter.
+Section 3602, Pub. L. 96–294, title V, §504, June 30, 1980, 94 Stat. 719; Pub. L. 98–181, title IV, §463(a), Nov. 30, 1983, 97 Stat. 1233, provided definitions for this chapter.
 
 Section 3603, Pub. L. 96–294, title V, §505, June 30, 1980, 94 Stat. 722; Pub. L. 100–122, §2(a), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, established Solar Energy and Energy Conservation Bank.
 
@@ -42,7 +42,7 @@ Section 3620, Pub. L. 96–294, title V, §522, June 30, 1980, 94 Stat. 737; Pub
 
 #### Short Title
 
-Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, which provided that title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Act of 1980”, was repealed by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
+Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Act of 1980”, prior to by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
 
-Pub. L. 96–294, title V, §502, June 30, 1980, 94 Stat. 719, which provided that subtitle A (§§502–534) of title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Bank Act”, was repealed by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
+Pub. L. 96–294, title V, §502, June 30, 1980, 94 Stat. 719, provided that subtitle A (§§502–534) of title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Bank Act”, prior to by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
 

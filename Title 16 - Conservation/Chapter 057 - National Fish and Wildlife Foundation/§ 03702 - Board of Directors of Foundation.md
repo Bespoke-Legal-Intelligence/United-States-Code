@@ -8,7 +8,7 @@ The Foundation shall have a governing Board of Directors (hereinafter referred t
 
 &emsp;(2) 4 of whom must be educated and experienced in the principles of fish and wildlife management.
 
-> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.
+> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish andWildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.
 
 #### (b) Appointment and terms
 

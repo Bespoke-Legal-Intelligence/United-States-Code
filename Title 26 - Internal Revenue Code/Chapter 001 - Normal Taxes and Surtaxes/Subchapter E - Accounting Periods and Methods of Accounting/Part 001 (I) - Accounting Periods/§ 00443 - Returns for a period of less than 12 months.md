@@ -130,7 +130,7 @@ Amendment by section 701(e)(3) of Pub. L. 99–514 applicable to taxable years b
 
 #### Effective Date of 1983 Amendment
 
-Section 311(b)(1) of Pub. L. 97–448 provided that: “The amendment made by subsection (a) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 3 of the Bankruptcy Tax Act of 1980 \[section 3 of Pub. L. 96–589, which amended sections 443, 6012, and 6103 of this title\].”
+Section 311(b)(1) of Pub. L. 97–448 provided that: “The amendment made by subsection (a) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 3 of the Bankruptcy Tax Act of 1980 \[section 3 of Pub. L. 96–589, which amended this section and sections 6012 and 6103 of this title\].”
 
 #### Effective Date of 1980 Amendments
 

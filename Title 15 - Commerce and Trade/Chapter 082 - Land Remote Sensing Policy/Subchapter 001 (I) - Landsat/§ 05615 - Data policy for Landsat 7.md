@@ -38,7 +38,7 @@ Not later than 12 months after submission of the Landsat 7 Data Policy Plan, req
 
 &emsp;(2) provides justification for any elements of the Landsat 7 data policy which are not consistent with the provisions of subsection (a) of this section.
 
-(Pub. L. 102 555, title I, §105, Oct. 28, 1992, 106 Stat. 4170.)
+(Pub. L. 102–555, title I, §105, Oct. 28, 1992, 106 Stat. 4170.)
 
 #### Section Referred to in Other Sections
 

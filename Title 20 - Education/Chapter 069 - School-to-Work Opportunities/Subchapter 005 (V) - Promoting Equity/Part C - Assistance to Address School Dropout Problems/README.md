@@ -2,7 +2,7 @@ Part C—Assistance To Address School Dropout Problems
 
 #### Prior Provisions
 
-Provisions similar to those in this part were contained in part A (§3241 et seq.) of subchapter VI of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, §101, and in subpart 1 (§5051 et seq.) of part C of subchapter I of chapter 62 of this title prior to repeal by Pub. L. 103 382, §391(i).
+Provisions similar to those in this part were contained in part A (§3241 et seq.) of subchapter VI of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, §101, and in subpart 1 (§5051 et seq.) of part C of subchapter I of chapter 62 of this title prior to repeal by Pub. L. 103–382, §391(i).
 
 #### Part Referred to in Other Sections
 

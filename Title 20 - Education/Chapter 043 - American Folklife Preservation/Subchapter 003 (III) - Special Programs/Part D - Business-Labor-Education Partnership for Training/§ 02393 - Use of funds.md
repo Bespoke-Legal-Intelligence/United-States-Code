@@ -2,7 +2,7 @@
 
 #### (a) Limitation on programs and projects
 
-Funds made available to the States by grants under this part may be used solely for the establishment and operation of programs and projects described by section 2392(b)<sup>1</sup> of this title and for—
+Funds made available to the States by grants under this part may be used solely for the establishment and operation of programs and projects described by section 2392(b) <sup>1</sup> of this title and for—
 
 &emsp;(1) necessary administrative costs of the State board and of eligible recipients associated with the establishment and operation of programs authorized by this part;
 
@@ -32,23 +32,23 @@ Expenditures for administrative costs pursuant to subsection (a)(1) of this sect
 
 #### (d) Covered programs
 
-(1) Funds made available pursuant to section 2302(b)(5)(B)<sup>2</sup> of this title may be used, in accordance with this part, to provide vocational education to individuals in order to assist their entry into, or advancement in, high technology occupations or to meet the technological needs of other industries or businesses.
+(1) Funds made available pursuant to section 2302(b)(5)(B) <sup>2</sup> of this title may be used, in accordance with this part, to provide vocational education to individuals in order to assist their entry into, or advancement in, high technology occupations or to meet the technological needs of other industries or businesses.
 
 (2) Special consideration shall be given to individuals described in paragraph (1) who have attained 55 years of age.
 
-(Pub. L. 88 210, title III, §333, formerly §343, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2465; amended Pub. L. 100 418, title VI, §6134(a), Aug. 23, 1988, 102 Stat. 1512; renumbered §333, Pub. L.101 392, title III, §307(a)(2), Sept. 25, 1990, 104 Stat. 787.)
+(Pub. L. 88–210, title III, §333, formerly §343, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2465; amended Pub. L. 100–418, title VI, §6134(a), Aug. 23, 1988, 102 Stat. 1512; renumbered §333, Pub. L. 101–392, title III, §307(a)(2), Sept. 25, 1990, 104 Stat. 787.)
 
 #### References in Text
 
-Section 2392(b) of this title, referred to in subsec. (a), was in the original a reference to section 342(b) of Pub. L. 88 210. Section 342(b) of Pub. L. 88 210 was renumbered section 332(b) by Pub. L. 101 392, title III, §307(a)(2), Sept. 25, 1990, 104 Stat. 787, without a corresponding amendment to this section.
+Section 2392(b) of this title, referred to in subsec. (a), was in the original a reference to section 342(b) of Pub. L. 88–210. Section 342(b) of Pub. L. 88–210 was renumbered section 332(b) by Pub. L. 101–392, title III, §307(a)(2), Sept. 25, 1990, 104 Stat. 787, without a corresponding amendment to this section.
 
-Section 2302 of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 101 392, §3, Sept. 25, 1990, 104 Stat. 756, and as so amended, provisions authorizing appropriations for this part which formerly appeared in subsec. (b)(5)(B), are contained in subsec. (d)(1)(D).
+Section 2302 of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, and as so amended, provisions authorizing appropriations for this part which formerly appeared in subsec. (b)(5)(B), are contained in subsec. (d)(1)(D).
 
 #### Prior Provisions
 
-A prior section 333 of Pub. L. 88 210 was renumbered section 323 and is classified to section 2383 of this title.
+A prior section 333 of Pub. L. 88–210 was renumbered section 323 and is classified to section 2383 of this title.
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100 418 added subsec. (d).
+1988—Subsec. (d). Pub. L. 100–418 added subsec. (d).
 

@@ -12,7 +12,7 @@ Not more than 25 per centum of the dwelling units which were available for occup
 
 #### (c) Admission procedures
 
-In developing admission procedures implementing subsection (b) of this section, the Secretary may not totally prohibit admission of low-income families other than very low-income families and shall establish an appropriate specific percentage of low-income families other than very-low income families that may be assisted in each assisted housing program that, when aggregated, will achieve the overall percentage limitation contained in subsection (b) of this section. In developing such admission procedures, the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title. The Secretary shall issue regulations to carry out this subsection not later than 60 days after February 5, 1988.
+In developing admission procedures implementing subsection (b) of this section, the Secretary may not totally prohibit admission of low-income families other than very low-income families and shall establish an appropriate specific percentage of low-income families other than very-low income families that may be assisted in each assisted housing program that, when aggregated, will achieve the overall percentage limitation contained in subsection (b) of this section. In developing such admission procedures, the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; except that suchprohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title. The Secretary shall issue regulations to carry out this subsection not later than 60 days after February 5, 1988.
 
 #### (d) Applicability of admission procedures limitations
 
@@ -28,7 +28,7 @@ Section 1437<i>o</i> of this title, referred to in subsec. (d)(1), was repealed 
 
 #### Codification
 
-October 1, 1981, referred to in subsecs. (a) and (b)(1), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date” meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat.384, which was generally effective Oct. 1, 1981. See Effective Date note below.
+October 1, 1981, referred to in subsecs. (a) and (b)(1), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date” meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ No employer shall be subject to any liability or punishment under this chapter (
 
 #### Codification
 
-Section was enacted as part of the Fair Labor Standards Amendments of 1949, and not as part of the Fair Labor Standards Act of 1938 which comprises this chapter.
+Section was enacted as part of the Fair Labor Standards Amendments of 1949, and not as part of the FairLabor Standards Act of 1938 which comprises this chapter.
 
 “January 24, 1950” substituted in text for “the effective date of this Act”. See Effective Date of 1949 Amendment note set out under section 202 of this title.
 

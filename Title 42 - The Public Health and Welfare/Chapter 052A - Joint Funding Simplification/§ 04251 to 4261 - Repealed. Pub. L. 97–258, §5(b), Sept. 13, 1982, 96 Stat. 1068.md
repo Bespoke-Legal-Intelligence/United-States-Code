@@ -6,7 +6,7 @@ Section 4252, Pub. L. 93–510, §3, Dec. 5, 1974, 88 Stat. 1604, related to imp
 
 Section 4253, Pub. L. 93–510, §4, Dec. 5, 1974, 88 Stat. 1605, related to activities by heads of Federal agencies relating to application processing or assistance requests under two or more Federal programs supporting any project. See section 7104 of Title 31.
 
-Section 4254, Pub. L. 93–510, §5, Dec. 5, 1974, 88 Stat. 1605, related to special authorities of heads of Federal agencies with respect to projects assisted under morethan one Federal assistance program and exercise of these authorities pursuant to regulations prescribed by President. See section 7108 of Title 31.
+Section 4254, Pub. L. 93–510, §5, Dec. 5, 1974, 88 Stat. 1605, related to special authorities of heads of Federal agencies with respect to projects assisted under more than one Federal assistance program and exercise of these authorities pursuant to regulations prescribed by President. See section 7108 of Title 31.
 
 Section 4255, Pub. L. 93–510, §6, Dec. 5, 1974, 88 Stat. 1606, provided for establishment by heads of Federal agencies of uniform technical and administrative provisions. See section 7105 of Title 31.
 
@@ -24,7 +24,7 @@ Section 4261, Pub. L. 93–510, §12, Dec. 5, 1974, 88 Stat. 1608, provided defi
 
 #### Effective and Expiration Dates
 
-Pub. L. 93–510, §13, Dec. 5, 1974, 88 Stat. 1608, as amended by Pub. L. 96–534, Dec. 16, 1980, 94 Stat. 3164, which provided for the effective and expiration dates of that Act, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068. See section 7112 of Title 31.
+Pub. L. 93–510, §13, Dec. 5, 1974, 88 Stat. 1608, as amended by Pub. L. 96–534, Dec. 16, 1980, 94 Stat. 3164,which provided for the effective and expiration dates of that Act, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068. See section 7112 of Title 31, Money and Finance.
 
 #### Short Title
 

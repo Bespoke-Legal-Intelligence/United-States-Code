@@ -60,7 +60,7 @@ In subsection (c), the words “carry out duties and powers” and “acts for�
 
 In subsection (d), the words “in the competitive service” are substituted for “under the classified civil service” to conform to 5:2102. The words “from time to time” are omitted as surplus. The words “acts for” are substituted for “act for, and exercise the powers of” for consistency and to eliminate surplus words. The words “when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant” are substituted for “during the absence or disability of the Deputy Secretary, or in the event of a vacancy in the office of a Deputy Secretary” as being more precise and for consistency.
 
-In subsection (e), the words “The Secretary shall cause a . . . of office” and “of such device” are omitted as unnecessary because of the restatement. The words “as he shall approve” are omitted as unnecessary because subsection (b) of the section establishes the Secretary of Transportation as the head of the Department of Transportation.
+In subsection (e), the words “The Secretary shall cause a . . . of office” and “of such device” are omittedas unnecessary because of the restatement. The words “as he shall approve” are omitted as unnecessary because subsection (b) of the section establishes the Secretary of Transportation as the head of the Department of Transportation.
 
 #### Amendments
 

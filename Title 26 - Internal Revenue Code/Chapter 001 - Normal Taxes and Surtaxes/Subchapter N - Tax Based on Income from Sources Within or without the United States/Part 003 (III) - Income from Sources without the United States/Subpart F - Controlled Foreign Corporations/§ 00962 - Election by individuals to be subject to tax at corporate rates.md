@@ -18,7 +18,7 @@ For purposes of applying subsection (a)(1), the amount in each taxable income br
 
 #### (d) Special rule for actual distributions
 
-The earnings and profits of a foreign corporation attributable to amounts which were included in the gross income of a United States shareholder under section 951(a) and with respect to which an election under this section applied shall, when such earnings and profits are distributed, notwithstanding the provisions of section 959(a)(1), be included in gross income to the extent that such earnings and profits so distributed exceed the amount of tax paid under this chapter on the amounts to which such election applied.
+The earnings and profits of a foreign corporation attributable to amounts which were included in the gross income of a United Statesshareholder under section 951(a) and with respect to which an election under this section applied shall, when such earnings and profits are distributed, notwithstanding the provisions of section 959(a)(1), be included in gross income to the extent that such earnings and profits so distributed exceed the amount of tax paid under this chapter on the amounts to which such election applied.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1023; amended Pub. L. 94–12, title III, §303(c)(3), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(1), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(16), Nov. 6, 1978, 92 Stat. 2822; Pub. L. 100–647, title I, §1007(g)(11), Nov. 10, 1988, 102 Stat. 3435.)
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective and Termination Dates of 1975 Amendments
 
-Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 31, 1975, see section 4(e) ofPub. L. 94–164, set out as a note under section 11 of this title.
+Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 31, 1975, see section 4(e) of Pub. L. 94–164, set out as a note under section 11 of this title.
 
 Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply for taxable years ending after Dec. 31, 1975, see section 305(b)(1) of Pub. L. 94–12, set out as a note under section 11 of this title.
 

@@ -14,7 +14,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) Citations to the Federal antitrust laws, and the foreign antitrust laws, with respect to which such agreement or such memorandum applies.
 
-&emsp;&emsp;(E) Terms and conditions that specifically require using, disclosing, or permitting theuse or disclosure of, antitrust evidence received under such agreement or such memorandum only—
+&emsp;&emsp;(E) Terms and conditions that specifically require using, disclosing, or permitting the use or disclosure of, antitrust evidence received under such agreement or such memorandum only—
 
 &emsp;&emsp;&emsp;(i) for the purpose of administering or enforcing the foreign antitrust laws involved, or
 
@@ -24,7 +24,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) making the determinations described in paragraphs (2) and (3) of section 6207(a) of this title, with respect to such disclosure or use, and
 
-&emsp;&emsp;&emsp;&emsp;(III) making the determinations applicable to a foreign antitrust authority under section 6207(a)(1) of this title (other than the determination regarding the assurance described in subparagraph (A) of this paragraph), with respect to each additional governmental entity, if any, to be provided such antitrust evidence in the course of such disclosure or use, after having received adequate written assurances applicable to each such governmental entity.
+&emsp;&emsp;&emsp;&emsp;(III) making the determinations applicable to a foreign antitrust authority under section 6207(a)(1) of this title (other than the determination regardingthe assurance described in subparagraph (A) of this paragraph), with respect to each additional governmental entity, if any, to be provided such antitrust evidence in the course of such disclosure or use, after having received adequate written assurances applicable to each such governmental entity.
 
 &emsp;&emsp;(F) An assurance that antitrust evidence received under section 6201, 6202, or 6203 of this title from the Attorney General or the Commission, and all copies of such evidence, in the possession or control of the foreign antitrust authority will be returned to the Attorney General or the Commission, respectively, at the conclusion of the foreign investigation or proceeding with respect to which such evidence was so received.
 
@@ -58,9 +58,9 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) prohibiting and regulating disclosure of information that is obtained by such organization in the course of administering or enforcing such laws.
 
-(Pub. L. 103 438, §12, Nov. 2, 1994, 108 Stat. 4603.)
+(Pub. L. 103–438, §12, Nov. 2, 1994, 108 Stat. 4603.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46, 57b 1, 1311, 6207, 6208 of this title.
+This section is referred to in sections 46, 57b–1, 1311, 6207, 6208 of this title.
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 03 - The President
 
-GPO's 1994 edition (laws in effect as of 1995-01-04), from its printed page marks. The exact position of
+GPO's 1995 edition (laws in effect as of 1996-01-16), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title3.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -29,21 +29,22 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00019 - Vacancy in offices of both President and Vice President; officers eligible to act](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000019%20-%20Vacancy%20in%20offices%20of%20both%20President%20and%20Vice%20President%3B%20officers%20eligible%20to%20act.md) | 5–6 |
 | [&sect; 00020 - Resignation or refusal of office](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000020%20-%20Resignation%20or%20refusal%20of%20office.md) | 6–7 |
 | [&sect; 00021 - Definitions](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000021%20-%20Definitions.md) | 7 |
-| [10](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/10.md) | 7–12 |
-| [&sect; 00101 - Commencement of term of office](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000101%20-%20Commencement%20of%20term%20of%20office.md) | 12–13 |
-| [&sect; 00102 - Compensation of the President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000102%20-%20Compensation%20of%20the%20President.md) | 13–16 |
-| [&sect; 00103 - Traveling expenses](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000103%20-%20Traveling%20expenses.md) | 16–17 |
-| [&sect; 00104 - Salary of the Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000104%20-%20Salary%20of%20the%20Vice%20President.md) | 17–18 |
-| [&sect; 00105 - Assistance and services for the President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000105%20-%20Assistance%20and%20services%20for%20the%20President.md) | 18–20 |
-| [&sect; 00106 - Assistance and services for the Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000106%20-%20Assistance%20and%20services%20for%20the%20Vice%20President.md) | 20–22 |
-| [&sect; 00107 - Domestic Policy Staff and Office of Administration; personnel](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000107%20-%20Domestic%20Policy%20Staff%20and%20Office%20of%20Administration%3B%20personnel.md) | 22 |
-| [&sect; 00108 - Assistance to the President for unanticipated needs](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000108%20-%20Assistance%20to%20the%20President%20for%20unanticipated%20needs.md) | 22–23 |
-| [&sect; 00109 - Public property in and belonging to the Executive Residence at the White House](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000109%20-%20Public%20property%20in%20and%20belonging%20to%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 23 |
-| [&sect; 00110 - Furniture for the Executive Residence at the White House](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000110%20-%20Furniture%20for%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 23–25 |
-| [&sect; 00111 - Expense allowance of Vice President](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000111%20-%20Expense%20allowance%20of%20Vice%20President.md) | 25–26 |
-| [&sect; 00112 - Detail of employees of executive departments](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md) | 26 |
-| [&sect; 00113 - Personnel report](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000113%20-%20Personnel%20report.md) | 26–27 |
-| [&sect; 00114 - General pay limitation](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000114%20-%20General%20pay%20limitation.md) | 27 |
+| [3\_&amp;nbsp;](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/3_%26nbsp%3B.md) | 7 |
+| [Chapter 002 - Office and Compensation of President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md) | 7–12 |
+| [&sect; 00101 - Commencement of term of office](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000101%20-%20Commencement%20of%20term%20of%20office.md) | 12–13 |
+| [&sect; 00102 - Compensation of the President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000102%20-%20Compensation%20of%20the%20President.md) | 13–16 |
+| [&sect; 00103 - Traveling expenses](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000103%20-%20Traveling%20expenses.md) | 16–17 |
+| [&sect; 00104 - Salary of the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000104%20-%20Salary%20of%20the%20Vice%20President.md) | 17–18 |
+| [&sect; 00105 - Assistance and services for the President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000105%20-%20Assistance%20and%20services%20for%20the%20President.md) | 18–20 |
+| [&sect; 00106 - Assistance and services for the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000106%20-%20Assistance%20and%20services%20for%20the%20Vice%20President.md) | 20–22 |
+| [&sect; 00107 - Domestic Policy Staff and Office of Administration; personnel](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000107%20-%20Domestic%20Policy%20Staff%20and%20Office%20of%20Administration%3B%20personnel.md) | 22 |
+| [&sect; 00108 - Assistance to the President for unanticipated needs](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000108%20-%20Assistance%20to%20the%20President%20for%20unanticipated%20needs.md) | 22–23 |
+| [&sect; 00109 - Public property in and belonging to the Executive Residence at the White House](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000109%20-%20Public%20property%20in%20and%20belonging%20to%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 23 |
+| [&sect; 00110 - Furniture for the Executive Residence at the White House](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000110%20-%20Furniture%20for%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 23–25 |
+| [&sect; 00111 - Expense allowance of Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000111%20-%20Expense%20allowance%20of%20Vice%20President.md) | 25–26 |
+| [&sect; 00112 - Detail of employees of executive departments](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md) | 26 |
+| [&sect; 00113 - Personnel report](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000113%20-%20Personnel%20report.md) | 26–27 |
+| [&sect; 00114 - General pay limitation](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000114%20-%20General%20pay%20limitation.md) | 27 |
 | [Chapter 003 - Protection of the President; United States Secret Service Uniformed Division](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/README.md) | 27 |
 | [&sect; 00201 - Repealed. July 16, 1951, ch. 226, &sect;5(a), 65 Stat. 122](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000201%20-%20Repealed.%20July%2016%2C%201951%2C%20ch.%20226%2C%20%C2%A75%28a%29%2C%2065%20Stat.%20122.md) | 27 |
 | [&sect; 00202 - United States Secret Service Uniformed Division; establishment, control, and supervision; privileges, powers, and duties](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000202%20-%20United%20States%20Secret%20Service%20Uniformed%20Division%3B%20establishment%2C%20control%2C%20and%20supervision%3B%20privileges%2C%20powers%2C%20and%20duties.md) | 27–29 |
@@ -53,8 +54,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00206 - Privileges of civil-service appointees](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000206%20-%20Privileges%20of%20civil-service%20appointees.md) | 30 |
 | [&sect; 00207 - Participation in police and firemen's relief fund](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000207%20-%20Participation%20in%20police%20and%20firemen%27s%20relief%20fund.md) | 30 |
 | [&sect; 00208 - Reimbursement of State and local governments](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000208%20-%20Reimbursement%20of%20State%20and%20local%20governments.md) | 30–31 |
-| [&sect; 00209 - Appropriation to carry out provisions](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000209%20-%20Appropriation%20to%20carry%20out%20provisions.md) | 31 |
-| [Chapter 004 - Delegation of Functions](Chapter%20004%20-%20Delegation%20of%20Functions/README.md) | 31–32 |
+| [&sect; 00209 - Appropriation to carry out provisions](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/%C2%A7%2000209%20-%20Appropriation%20to%20carry%20out%20provisions.md) | 31–32 |
+| [Chapter 004 - Delegation of Functions](Chapter%20004%20-%20Delegation%20of%20Functions/README.md) | 32 |
 | [&sect; 00301 - General authorization to delegate functions; publication of delegations](Chapter%20004%20-%20Delegation%20of%20Functions/%C2%A7%2000301%20-%20General%20authorization%20to%20delegate%20functions%3B%20publication%20of%20delegations.md) | 32–46 |
 | [&sect; 00302 - Scope of delegation of functions](Chapter%20004%20-%20Delegation%20of%20Functions/%C2%A7%2000302%20-%20Scope%20of%20delegation%20of%20functions.md) | 46 |
 | [&sect; 00303 - Definitions](Chapter%20004%20-%20Delegation%20of%20Functions/%C2%A7%2000303%20-%20Definitions.md) | 46 |

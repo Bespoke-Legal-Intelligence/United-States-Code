@@ -54,7 +54,7 @@ Persons against which the sanction is to be imposed.—The sanction shall be imp
 
 &emsp;&emsp;“(B) any successor entity to that foreign person or United States person;
 
-&emsp;&emsp;“(C) any foreign person or United States person that is a parent or subsidiary of that person if thatparent or subsidiary materially and with requisite knowledge assisted in the activities which were the basis of that determination; and
+&emsp;&emsp;“(C) any foreign person or United States person that is a parent or subsidiary of that person if that parent or subsidiary materially and with requisite knowledge assisted in the activities which were the basis of that determination; and
 
 &emsp;&emsp;“(D) any foreign person or United States person that is an affiliate of that person if that affiliate materially and with requisite knowledge assisted in the activities which were the basis of that determination and if that affiliate is controlled in fact by that person.
 

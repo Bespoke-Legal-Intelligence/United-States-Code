@@ -52,7 +52,7 @@ Report on Contracts Not Suitable for Acquisition Through Full FACNET Capability.
 
 “(b)
 
-FAR Council Determinations.—Not earlier than 3 years after the date of the enactment of this Act \[Oct. 13, 1994\], and after consideration of the report of the Comptroller General required by subsection (a), the Federal Acquisition Regulatory Council (established by section 25 of the Office of Federal Procurement Policy Act \[41 U.S.C. 421\]) may make a determination that a class or classes of contracts in amounts greater than the micro-purchase threshold and not greater than the simplified acquisition threshold are not suitable for acquisition through a system with full FACNET capability. Any such determination shall be submitted to the congressional committees referred to in subsection (d). Each determination under this subsection shall take effect 60 days after the date on which it is submitted to those committees.
+FAR Council Determinations.—Not earlier than 3 years after the date of the enactment of this Act \[Oct.13, 1994\], and after consideration of the report of the Comptroller General required by subsection (a), the Federal Acquisition Regulatory Council (established by section 25 of the Office of Federal Procurement Policy Act \[41 U.S.C. 421\]) may make a determination that a class or classes of contracts in amounts greater than the micro-purchase threshold and not greater than the simplified acquisition threshold are not suitable for acquisition through a system with full FACNET capability. Any such determination shall be submitted to the congressional committees referred to in subsection (d). Each determination under this subsection shall take effect 60 days after the date on which it is submitted to those committees.
 
 “(c)
 

@@ -16,7 +16,7 @@ Payments made by the Secretary under paragraphs (2) and (3) of subsection (a) of
 
 #### (c) Establishment of fees; amount of fees; credit of fees to separate Treasury account; payment from collected fees; authorization of appropriations
 
-The Secretary shall from time to time establish by regulation fees which shall be paid by the owners of vessels entering into agreements under this section. Such fees shall be adequate (1) to recover the costs of administering this section, and (2) to cover a reasonable portion of any payments made by the Secretary under this section. The amount fixed by the Secretary shall be predicated upon at least 331/3 per centum of the contribution by the Government. All fees collected by the Secretary shall be credited to a separate account established in the Treasury of the United States which shall remain available without fiscal year limitation to carry out the provisions of this section. Those fees not currently needed for payments under this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all revenues accruing from such deposits or investments shall be credited to such separate account. If a transfer of funds is made to the separate account under section 1975(b)(2) of this title with respect to an unpaid claim and such claim is later paid, the amount so paid shall be covered into the Treasury as miscellaneous receipts. All payments under this section shall be made first out of such fees so long as they areavailable and thereafter out of funds which are hereby authorized to be appropriated to such account to carry out the provisions of this section.
+The Secretary shall from time to time establish by regulation fees which shall be paid by the owners of vessels entering into agreements under this section. Such fees shall be adequate (1) to recover the costs of administering this section, and (2) to cover a reasonable portion of any payments made by the Secretary under this section. All fees collected by the Secretary shall be credited to a separate account established in the Treasury of the United States which shall remain available without fiscal year limitation to carry out the provisions of this section. Those fees not currently needed for payments under this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all revenues accruing from such deposits or investments shall be credited to such separate account. If a transfer of funds is made to the separate account under section 1975(b)(2) of this title with respect to an unpaid claim and such claim is later paid, the amount so paid shall be covered into the Treasury as miscellaneous receipts. All payments under this section shall be made first out of such fees so long as they are available and thereafter out of funds which are hereby authorized to be appropriated to such account to carry out the provisions of this section.
 
 #### (d) Finality of determinations; insured losses
 
@@ -24,7 +24,7 @@ All determinations made under this section shall be final. No payment under this
 
 #### (e) Effective date
 
-The provisions of this section shall be effective until October 1, 1993; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
+The provisions of this section shall be effective until October 1, 2000; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
 
 #### (f) Definitions
 
@@ -34,9 +34,13 @@ For the purposes of this section—
 
 &emsp;(2) the term “owner” includes any charterer of a commercial fishing vessel.
 
-(Aug. 27, 1954, ch. 1018, §7, as added Aug. 12, 1968, Pub. L. 90–482, §1, 82 Stat. 729; amended Oct. 26, 1972, Pub. L. 92–569, §4, 86 Stat. 1183; Oct. 27, 1972, Pub. L. 92–594, §§1, 2, 86 Stat. 1313; Apr. 21, 1976, Pub. L. 94–273, §3(17), 90 Stat. 377; Nov. 18, 1977, Pub. L. 95–194, §1, 91 Stat. 1413; Sept. 18, 1978, Pub. L. 95–376, §1, 92 Stat. 714; Oct. 26, 1981, Pub. L. 97–68, §1, 95 Stat. 1040; July 17, 1984, Pub. L. 98–364, title III, §301, 98 Stat. 444; Nov. 14, 1986, Pub. L. 99–659, title IV, §408, 100 Stat. 3740; Nov. 3, 1987, Pub. L. 100–151, §1, 101 Stat. 884; June 27, 1988, Pub. L. 100–350, §2, 102 Stat. 660; Nov. 28, 1990, Pub. L. 101–627, title III, §301, 104 Stat. 4462.)
+(Aug. 27, 1954, ch. 1018, §7, as added Aug. 12, 1968, Pub. L. 90–482, §1, 82 Stat. 729; amended Oct. 26, 1972, Pub. L. 92–569, §4, 86 Stat. 1183; Oct. 27, 1972, Pub. L. 92–594, §§1, 2, 86 Stat. 1313; Apr. 21, 1976, Pub. L. 94–273, §3(17), 90 Stat. 377; Nov. 18, 1977, Pub. L. 95–194, §1, 91 Stat. 1413; Sept. 18, 1978, Pub. L. 95–376, §1, 92 Stat. 714; Oct. 26, 1981, Pub. L. 97–68, §1, 95 Stat. 1040; July 17, 1984, Pub. L. 98–364, title III, §301, 98 Stat. 444; Nov. 14, 1986, Pub. L. 99–659, title IV, §408, 100 Stat. 3740; Nov. 3, 1987, Pub. L. 100–151, §1, 101 Stat. 884; June 27, 1988, Pub. L. 100–350, §2, 102 Stat. 660; Nov. 28, 1990, Pub. L. 101–627, title III, §301, 104 Stat. 4462; Nov. 3, 1995, Pub. L. 104–43, title IV, §403, 109 Stat. 390.)
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–43, §403(a), struck out after second sentence “The amount fixed by the Secretary shall be predicated upon at least 331/3 per centum of the contribution by the Government.”
+
+Subsec. (e). Pub. L. 104–43, §403(b), substituted “October 1, 2000” for “October 1, 1993”.
 
 1990—Subsec. (e). Pub. L. 101–627 substituted “October 1, 1993” for “October 1, 1989”.
 

@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(6) The principal responsibility for the development of aquaculture in the United States must rest with the private sector.
 
-&emsp;(7) Despite its potential, the development of aquaculture in the United States has been inhibited by many scientific, economic, legal, and production factors, such as inadequate credit, diffused legal jurisdiction, the lack of management information, the lack of supportive Government policies, and the lack of reliable supplies of seed stock.
+&emsp;(7) Despite its potential, the development of aquaculture in the United States has been inhibited by many scientific, economic, legal, and production factors, such as inadequatecredit, diffused legal jurisdiction, the lack of management information, the lack of supportive Government policies, and the lack of reliable supplies of seed stock.
 
 &emsp;(8) Many areas of the United States are suitable for aquaculture, but are subject to land-use or water-use management policies that do not adequately consider the potential for aquaculture and may inhibit the development of aquaculture.
 

@@ -10,7 +10,7 @@ The Secretary shall, in accordance with subsection (b) of this section, arrange 
 
 &emsp;(3) identify the kinds of research positions available to and held by individuals completing such programs;
 
-&emsp;(4) determine, to the extent feasible, whether the programs referred to in clause (B) ofparagraph (2) would be adequate to meet the needs established under paragraph (1) if the programs referred to in clause (A) of paragraph (2) were terminated; and
+&emsp;(4) determine, to the extent feasible, whether the programs referred to in clause (B) of paragraph (2) would be adequate to meet the needs established under paragraph (1) if the programs referred to in clause (A) of paragraph (2) were terminated; and
 
 &emsp;(5) determine what modifications in the programs referred to in paragraph (2) are required to meet the needs established under paragraph (1).
 
@@ -34,7 +34,7 @@ A report on the results of the study required under subsection (a) of this secti
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

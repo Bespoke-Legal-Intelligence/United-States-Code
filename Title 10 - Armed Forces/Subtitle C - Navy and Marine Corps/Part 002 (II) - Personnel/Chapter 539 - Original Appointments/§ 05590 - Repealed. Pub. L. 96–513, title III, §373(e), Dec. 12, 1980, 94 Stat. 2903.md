@@ -1,4 +1,4 @@
-### \[§5590 . Repealed. Pub. L. 96–513, title III, §373(e), Dec. 12, 1980, 94 Stat. 2903\]
+### \[§5590. Repealed. Pub. L. 96–513, title III, §373(e), Dec. 12, 1980, 94 Stat. 2903\]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 327, authorized appointments of women to the Regular Navy and Regular Marine Corps.
 

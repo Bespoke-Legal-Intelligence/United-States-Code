@@ -94,7 +94,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 &emsp;(4) not more than 4 percent may be obligated for National Research Service Awards for periods of three months or less.
 
-(July 1, 1944, ch. 373, title IV, §487, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869; amended Nov. 4, 1988, Pub. L. 100–607, title I, §151, title VI, §635, 102 Stat. 3058, 3148; Aug. 16, 1989, Pub. L. 101–93, §5(d), 103 Stat. 612; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(7), 103 Stat. 2208; July 10, 1992, Pub. L. 102–321, title I, §163(b)(4), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title XVI, §§1601, 1602, 1632, 1641, title XX, §2008(b)(14), 107 Stat. 181, 186, 211.)
+(July 1, 1944, ch. 373, title IV, §487, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869; amendedNov. 4, 1988, Pub. L. 100–607, title I, §151, title VI, §635, 102 Stat. 3058, 3148; Aug. 16, 1989, Pub. L. 101–93, §5(d), 103 Stat. 612; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(7), 103 Stat. 2208; July 10, 1992, Pub. L. 102–321, title I, §163(b)(4), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title XVI, §§1601, 1602, 1632, 1641, title XX, §2008(b)(14), 107 Stat. 181, 186, 211.)
 
 #### Amendments
 

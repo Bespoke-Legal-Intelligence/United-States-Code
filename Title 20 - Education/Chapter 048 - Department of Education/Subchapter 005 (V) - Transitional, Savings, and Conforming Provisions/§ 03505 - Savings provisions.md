@@ -30,15 +30,15 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (e) Parties
 
-If, before May 4, 1980, any department or agency, or officer thereof in the official capacity of such officer, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary orany other official of the Department, then such suit shall be continued with the Secretary or other appropriate official of the Department substituted or added as a party.
+If, before May 4, 1980, any department or agency, or officer thereof in the official capacity of such officer, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official of the Department, then such suit shall be continued with the Secretary or other appropriate official of the Department substituted or added as a party.
 
 #### (f) Review
 
 Orders and actions of the Secretary in the exercise of functions transferred under this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this chapter shall apply to the exercise of such function by the Secretary.
 
-(Pub. L. 96 88, title V, §505, Oct. 17, 1979, 93 Stat. 691.)
+(Pub. L. 96–88, title V, §505, Oct. 17, 1979, 93 Stat. 691.)
 
 #### Codification
 
-In subsecs. (a)(2), (b)(1), (c)(1), and (e), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96 88, set out as an Effective Date note under section 3401 of this title.
+In subsecs. (a)(2), (b)(1), (c)(1), and (e), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 

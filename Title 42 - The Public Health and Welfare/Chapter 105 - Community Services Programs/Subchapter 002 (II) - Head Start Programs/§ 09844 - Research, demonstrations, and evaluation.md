@@ -54,7 +54,7 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(2) contribute to developing knowledge concerning factors associated with the quality and effectiveness of Head Start programs and in identifying ways in which services provided under this subchapter may be improved;
 
-&emsp;(3) assist in developing knowledge concerning the factors that promote or inhibit healthy development and effective functioning of children and their families both during andfollowing participation in a Head Start program;
+&emsp;(3) assist in developing knowledge concerning the factors that promote or inhibit healthy development and effective functioning of children and their families both during and following participation in a Head Start program;
 
 &emsp;(4) permit comparisons of children and families participating in Head Start programs with children and families receiving other child care, early childhood education, or child development services and with other appropriate control groups;
 

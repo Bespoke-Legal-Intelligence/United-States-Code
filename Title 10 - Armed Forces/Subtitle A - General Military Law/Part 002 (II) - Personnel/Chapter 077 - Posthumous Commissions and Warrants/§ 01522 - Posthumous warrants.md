@@ -1,4 +1,4 @@
-### §1522 . Posthumous warrants
+### §1522. Posthumous warrants
 
 (a) The Secretary concerned may issue, or have issued, an appropriate warrant in the name of a member of the armed forces who, after September 8, 1939, was officially recommended for appointment or promotion to a grade other than a commissioned grade but was unable to accept the appointment or promotion because of death in line of duty.
 

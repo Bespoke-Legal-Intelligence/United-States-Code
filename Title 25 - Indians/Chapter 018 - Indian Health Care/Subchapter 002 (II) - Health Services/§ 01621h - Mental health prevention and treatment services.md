@@ -124,7 +124,7 @@ The Secretary, acting through the Service and in consultation with the National 
 
 &emsp;(2) the development of models of prevention techniques.
 
-> The effect of the inter-relationships and interdependencies referred to in paragraph (1) on children, and the development of prevention techniques under paragraph (2) applicable to children, shall be emphasized.
+> The effect of the inter-relationships and interdependencies referred to in paragraph (1) onchildren, and the development of prevention techniques under paragraph (2) applicable to children, shall be emphasized.
 
 #### (i) Facilities assessment
 
@@ -132,7 +132,7 @@ Within one year after November 28, 1990, the Secretary, acting through the Servi
 
 #### (j) Annual report
 
-The Service shall develop methods for analyzing and evaluating the overall status of mental health programs and services for Indians and shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report on the mental health status of Indians whichshall describe the progress being made to address mental health problems of Indian communities.
+The Service shall develop methods for analyzing and evaluating the overall status of mental health programs and services for Indians and shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report on the mental health status of Indians which shall describe the progress being made to address mental health problems of Indian communities.
 
 #### (k) Mental health demonstration grant program
 
@@ -204,7 +204,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 #### References in Text
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec.\(b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (d)(2)(C), (3)(A), (k)(3), and (<i>l</i>), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

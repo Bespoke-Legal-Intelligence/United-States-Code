@@ -70,29 +70,29 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Pub. L. 101–391 substituted “Except as otherwise provided in section 5707(d), for the purpose” for “For the purpose”.
+<b>1990</b>—Pub. L. 101–391 substituted “Except as otherwise provided in section 5707(d), for the purpose” for “For the purpose”.
 
-1986—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
+<b>1986</b>—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
 
-1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
+<b>1975</b>—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
 
 #### Effective Date of 1986 Amendment; Regulations
 
 Section 301 of Pub. L. 99–234 provided that:
 
-“(a) The Administrator of General Services shall promulgate regulations implementing the amendments made by sections 101, 102, 103, 104, and 106 of this Act \[enacting sections 5706a and 5734 of this title and amending sections 5701, 5702, and 5707 of this title\] not later than 150 days after the date of enactment of this Act \[Jan. 2, 1986\]. The amendments made by title I of this Act \[enacting sections 5706a and 5734 of this title and amending sections 5701, 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare\] shall take effect on the effective date of such regulations, or 180 days after the date of enactment of this Act \[Jan. 2, 1986\], whichever occurs first.
+“(a) The Administrator of General Services shall promulgate regulations implementing the amendments made by sections 101, 102, 103, 104, and 106 of this Act \[enacting sections 5706a and 5734 of this title and amending this section and sections 5702 and 5707 of this title\] not later than 150 days after the date of enactment of this Act \[Jan. 2, 1986\]. The amendments made by title I of this Act \[enacting sections 5706a and 5734 of this title and amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare\] shall take effect on the effective date of such regulations, or 180 days after the date of enactment of this Act \[Jan. 2, 1986\], whichever occurs first.
 
 “(b) The amendments made by section 201 of this Act \[enacting section 420 of Title 41, Public Contracts\] shall take effect 30 days after the effective date of the amendments made by title I.”
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending sections 5701, 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
+Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–22 provided: “That this Act \[amending sections 5701, 5702, 5703, 5704, 5705, and 5707 of this title and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5304 of this title; title 2 sections 68b, 179b; title 7 sections 3128, 3194, 3335, 4108, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641; title 22 section 1474; title 24 section 415; title 42 section 12653h; title 46 App. section 1717.
+This section is referred to in section 5304 of this title; title 2 sections 68b, 179b; title 7 sections 3128, 3194, 3335, 4108, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 42 section 12653h; title 46 App. section 1717.
 

@@ -12,7 +12,7 @@ Penalties or other charges for delinquency, default, or early termination may be
 
 If a lease has a residual value provision at the termination of the lease, the lessee may obtain at his expense, a professional appraisal of the leased property by an independent third party agreed to by both parties. Such appraisal shall be final and binding on the parties.
 
-(Pub. L. 90 321, title I, §183, as added Pub. L. 94 240, §3, Mar. 23, 1976, 90 Stat. 259.)
+(Pub. L. 90–321, title I, §183, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259.)
 
 #### Section Referred to in Other Sections
 

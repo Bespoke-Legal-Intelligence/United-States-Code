@@ -12,5 +12,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Effective Date of 1984 Amendment
 
-Section 1(a) of Pub. L. 98–540 provided in part that: “The amendment made by this subsection \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1984.”
+Section 1(a) of Pub. L. 98–540 provided in part that: “The amendment made by this subsection \[amendingthis section\] shall apply with respect to fiscal years beginning after September 30, 1984.”
 

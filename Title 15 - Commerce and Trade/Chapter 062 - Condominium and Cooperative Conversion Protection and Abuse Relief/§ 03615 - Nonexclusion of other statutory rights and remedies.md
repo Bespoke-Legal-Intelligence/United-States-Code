@@ -2,5 +2,5 @@
 
 The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist under Federal or State law.
 
-(Pub. L. 96 399, title VI, §616, Oct. 8, 1980, 94 Stat. 1680.)
+(Pub. L. 96–399, title VI, §616, Oct. 8, 1980, 94 Stat. 1680.)
 

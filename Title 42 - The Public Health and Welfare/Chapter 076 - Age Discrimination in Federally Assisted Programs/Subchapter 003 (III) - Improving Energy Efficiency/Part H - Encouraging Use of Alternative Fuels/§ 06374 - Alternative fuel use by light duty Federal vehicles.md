@@ -36,27 +36,13 @@
 
 &emsp;(iii) a comparison of the operation and maintenance costs of such vehicles to the operation and maintenance costs of other passenger automobiles and light duty trucks.
 
-(B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within one year after the first such vehicles are acquired, and annually thereafter.
+(B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within one year after the first such vehicles are acquired.
 
 (2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) of this section and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
 
 (B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within 12 months after funds are appropriated for carrying out this section.
 
-(3)(A) The Secretary, in cooperation with the Environmental Protection Agency and the Department of Transportation, shall collect data and conduct a study of heavy duty vehicles acquired under subsection (a) of this section, which shall at a minimum address—
-
-&emsp;(i) the performance of such vehicles, including reliability, durability, and performance in cold weather and at high altitude;
-
-&emsp;(ii) the fuel economy, safety, and emissions of such vehicles; and
-
-&emsp;(iii) a comparison of the operation and maintenance costs of such vehicles to the operation and maintenance costs of conventionally fueled heavy duty vehicles.
-
-(B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation, Governmental Affairs, and Energy and Natural Resources of the Senate, and the Committees on Energy and Commerce and Government Operations of the House of Representatives, within one year after the first such vehicles are acquired, and annually thereafter.
-
-(4)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of heavy duty vehicles acquired under subsection (a) of this section and any problems with such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge.
-
-(B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation, Governmental Affairs, and Energy and Natural Resources of the Senate, and the Committee on Energy and Commerce and the Committee on Government Operations of the House of Representatives, within one year after funds are appropriated for carrying out this paragraph.
-
-(5) Studies undertaken under this subsection shall be coordinated with relevant testing activities of the Environmental Protection Agency and the Department of Transportation.
+(3) Studies undertaken under this subsection shall be coordinated with relevant testing activities of the Environmental Protection Agency and the Department of Transportation.
 
 #### (c) Availability to public
 
@@ -124,7 +110,7 @@ For purposes of this part—
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874.)
+(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718.)
 
 #### Codification
 
@@ -132,7 +118,11 @@ In subsec. (g)(4)(A), (5)(A), “section 32901(a)(7) of title 49” substituted 
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
+1995—Subsec. (b)(1)(B). Pub. L. 104–66, §1052(e), struck out before period at end “, and annually thereafter”.
+
+Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3) and struck out former par. (3) which directed Secretary to conduct study of heavy duty vehicles acquired under Department of Energy program and report results to Congress and par. (4) which directed Secretary to conduct study of advisability of heavy duty vehicle disposal and report results to Congress.
+
+1992—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall thenumber of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
 
 Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
 
@@ -162,9 +152,7 @@ Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prio
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Government Operations of House of Representatives changed to Committee on Government Reform and Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination Date
 

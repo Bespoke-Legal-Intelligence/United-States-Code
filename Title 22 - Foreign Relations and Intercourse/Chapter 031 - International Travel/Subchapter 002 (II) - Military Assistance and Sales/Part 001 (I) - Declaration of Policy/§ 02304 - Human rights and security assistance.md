@@ -74,7 +74,7 @@ In allocating the funds authorized to be appropriated by this chapter and the Ar
 
 Whenever the provisions of subsection (e) or (f) of this section are applied, the President shall report to the Congress before making any funds available pursuant to those subsections. The report shall specify the country involved, the amount and kinds of assistance to be provided, and the justification for providing the assistance, including a description of the significant improvements which have occurred in the country's human rights record.
 
-(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276;Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276; Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Subsec. (d)(2)(A). Pub. L. 95–384, §§10(b)(1), 12(b), substituted “(econom
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

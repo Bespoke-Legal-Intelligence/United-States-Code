@@ -4,17 +4,17 @@
 
 #### (1) Parallel terms, conditions, benefits, and amounts
 
-&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078 2, and 1078 8 of this title.
+&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, and 1078–8 of this title.
 
 #### (2) Designation of loans
 
-&emsp;Loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under—
+&emsp;Loans made to borrowers under this part that, except as otherwise specified in thispart, have the same terms, conditions, and benefits as loans made to borrowers under—
 
 &emsp;&emsp;(A) section 1078 of this title shall be known as “Federal Direct Stafford Loans”;
 
-&emsp;&emsp;(B) section 1078 2 of this title shall be known as “Federal Direct PLUS Loans”; and
+&emsp;&emsp;(B) section 1078–2 of this title shall be known as “Federal Direct PLUS Loans”; and
 
-&emsp;&emsp;(C) section 1078 8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
+&emsp;&emsp;(C) section 1078–8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
 
 #### (b) Interest rate
 
@@ -92,7 +92,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;&emsp;(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
 
-&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and
+&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on theamount owed would be if the loan were repaid under the standard repayment plan; and
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan.
 
@@ -186,7 +186,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (g) Federal Direct Consolidation Loans
 
-A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078 3(a)(4) of this title only under such terms and conditions as the Secretary shall establish pursuant to section 1087g(a)(1) of this title or regulations promulgated under this part. Loans made under this subsection shall be known as “Federal Direct Consolidation Loans”.
+A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title only under such terms and conditions as the Secretary shall establish pursuant to section 1087g(a)(1) of this title or regulations promulgated under this part. Loans made under this subsection shall be known as “Federal Direct Consolidation Loans”.
 
 #### (h) Borrower defenses
 
@@ -220,23 +220,23 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (3) Transaction histories
 
-&emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of basic grants under subpart 1 of part A of this subchapter.
+&emsp;All transaction histories under this part shall be maintained using the same systemdesignated by the Secretary for the provision of basic grants under subpart 1 of part A of this subchapter.
 
-(Pub. L. 89 329, title IV, §455, as added Pub. L. 99 498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102 325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103 66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103 382, title III, §359, Oct. 20, 1994, 108 Stat. 3968.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968.)
 
 #### References in Text
 
-Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102 325, title IV, July 23, 1992, 106 Stat. 513, 519.
+Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
 
-1994—Subsec. (f)(3), (4). Pub. L. 103 382 added pars. (3) and (4).
+1994—Subsec. (f)(3), (4). Pub. L. 103–382 added pars. (3) and (4).
 
-1993—Pub. L. 103 66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
+1993—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
-1992—Pub. L. 102 325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 

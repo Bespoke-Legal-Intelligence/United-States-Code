@@ -10,7 +10,7 @@ Establishment.—The Secretary shall establish and operate in the Federal Highwa
 
 &emsp;(2)
 
-Duties.—The Institute shall develop and administer, in cooperation with the State transportation or highway departments, and any national or international entity, training programs of instruction for Federal Highway Administration, State and local transportation and highway department employees, State and local police, public safety and motor vehicle employees, and United States citizens and foreign nationals engaged or to be engaged in highway work of interest to the United States. The Secretary shall administer, through the Institute, the authority vested in the Secretary by this title or by any other provision of law for the development and conduct of education and training programs relating to highways.
+Duties.—The Institute shall develop and administer, in cooperation with the State transportation or highway departments, and any national or international entity, trainingprograms of instruction for Federal Highway Administration, State and local transportation and highway department employees, State and local police, public safety and motor vehicle employees, and United States citizens and foreign nationals engaged or to be engaged in highway work of interest to the United States. The Secretary shall administer, through the Institute, the authority vested in the Secretary by this title or by any other provision of law for the development and conduct of education and training programs relating to highways.
 
 &emsp;(3)
 
@@ -58,7 +58,7 @@ Amount of fees.—The fees assessed and collected under this subsection shall be
 
 (f)
 
-Funds.—The funds required to carry out this section may be from the sums deducted for administration purposes under section 104(a).The sums provided pursuant to this subsection may be combined or held separate from the fees or memberships collected under subsection (e) and may be administered by the Secretary as a fund which shall be available until expended.
+Funds.—The funds required to carry out this section may be from the sums deducted for administration purposes under section 104(a). The sums provided pursuant to this subsection may be combined or held separate from the fees or memberships collected under subsection (e) and may be administered by the Secretary as a fund which shall be available until expended.
 
 (g)
 

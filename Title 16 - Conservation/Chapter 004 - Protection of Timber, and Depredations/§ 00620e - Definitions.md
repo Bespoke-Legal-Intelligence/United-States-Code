@@ -44,7 +44,7 @@ For purposes of sections 620 to 620j of this title:
 
 &emsp;&emsp;(i) Lumber or construction timbers, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list grades, sawn on 4 sides, not intended for remanufacture.
 
-&emsp;&emsp;(ii) Lumber, construction timbers, or cants for remanufacture, except Western RedCedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list clear grades, sawn on 4 sides, not to exceed 12 inches in thickness.
+&emsp;&emsp;(ii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list clear grades, sawn on 4 sides, not to exceed 12 inches in thickness.
 
 &emsp;&emsp;(iii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, that do not meet the grades referred to in clause (ii) and are sawn on 4 sides, with wane less than 1/4 of any face, not exceeding 83/4 inches in thickness.
 

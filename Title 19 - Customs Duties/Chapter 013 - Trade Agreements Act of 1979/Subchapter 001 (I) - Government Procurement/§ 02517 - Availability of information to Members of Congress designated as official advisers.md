@@ -2,7 +2,7 @@
 
 The United States Trade Representative shall make available to the Members of Congress designated as official advisers pursuant to section 2211 of this title information compiled by the Committee on Government Procurement under article XIX(5) of the Agreement.
 
-(Pub. L. 96–39, title III, §307, July 26, 1979, 93 Stat. 240; 1979 Reorg. Plan No. 3, §1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L.103–465, title III, §342(e), Dec. 8, 1994, 108 Stat. 4953.)
+(Pub. L. 96–39, title III, §307, July 26, 1979, 93 Stat. 240; 1979 Reorg. Plan No. 3, §1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 103–465, title III, §342(e), Dec. 8, 1994, 108 Stat. 4953.)
 
 #### Amendments
 

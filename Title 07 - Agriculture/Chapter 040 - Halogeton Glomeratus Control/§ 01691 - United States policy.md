@@ -1,0 +1,172 @@
+### §1691. United States policy
+
+It is the policy of the United States to use its abundant agricultural productivity to promote the foreign policy of the United States by enhancing the food security of the developing world through the use of agricultural commodities and local currencies accruing under this chapter to—
+
+&emsp;(1) combat world hunger and malnutrition and their causes;
+
+&emsp;(2) promote broad-based, equitable, and sustainable development, including agricultural development;
+
+&emsp;(3) expand international trade;
+
+&emsp;(4) develop and expand export markets for United States agricultural commodities; and
+
+&emsp;(5) foster and encourage the development of private enterprise and democratic participation in developing countries.
+
+(July 10, 1954, ch. 469, §2, 68 Stat. 454; Nov. 11, 1966, Pub. L. 89–808, §2(A), 80 Stat. 1526; Dec. 20, 1975, Pub. L. 94–161, title II, §201, 89 Stat. 850; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(a), 99 Stat. 1474; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633.)
+
+#### Amendments
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring policy of United States to expand trade, develop export markets, encourage economic development and private enterprise in developing countries, improve local food production and promote foreign policy, and requiring President to give priority to countries most affected by food shortages, encourage other donors, link assistance to local agricultural and related development, seek expanded markets for American commodities, and recognize and support American farm economy.
+
+1985—Pub. L. 99–198 included Congressional declaration of policy to use accrued foreign currencies to foster and encourage the development of private enterprise in developing countries and to enhance food security in developing countries through local food production in first sentence.
+
+1975—Pub. L. 94–161 inserted provisions of second sentence, including cls. (1) to (5), respecting considerations in furnishing food aid under this chapter.
+
+1966—Pub. L. 89–808 restated the Congressional declaration of policy to include the use of the abundant agricultural productivity of the United States to combat hunger and malnutrition and the emphasis on assistance to those developing countries that are determined to improve their own agricultural production and to exclude statement of a policy to facilitate the convertibility of currency, to make maximum efficient use of surplus agricultural commodities in furtherance of the foreign policy of the United States, to purchase strategic materials, to pay United States obligations abroad, and to promote collective strength.
+
+#### Effective Date of 1990 Amendment
+
+Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
+
+#### Effective Date of 1966 Amendment
+
+Section 5 of Pub. L. 89–808 provided that: “This Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] shall take effect as of January 1, 1967, except that section 4 \[enacting section 1707a of this title\] shall take effect upon enactment \[Nov. 11, 1966\].”
+
+#### Short Title of 1992 Amendment
+
+Pub. L. 102–532, §1, Oct. 27, 1992, 106 Stat. 3509, provided that: “This Act \[enacting sections 1738<i>o</i> to 1738r, 3294, and 5404 of this title and amending section 1738m of this title\] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
+
+Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 1738<i>o</i> to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
+
+#### Short Title of 1990 Amendment
+
+Section 1501 of title XV of Pub. L. 101–624 provided that: “This title \[see Tables for classification\] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
+
+Section 1511 of Pub. L. 101–624 provided that: “This subtitle \[subtitle A (§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736<i>o</i>, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the ‘Mickey Leland Food for Peace Act’.”
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Act \[amending section 1727 of this title and enacting provisions set out as a note under section 1727 of this title\] may be cited as the ‘Bangladesh Disaster Assistance Act of 1988’.”
+
+#### Short Title of 1987 Amendment
+
+Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that: “Section 1 through this section under the heading ‘Agricultural Aid and Trade Missions Act’ \[enacting sections 1726b and 1736bb to 1736bb–6 of this title, and amending sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title\] may be cited as the ‘Agricultural Aid and Trade Missions Act’.”
+
+#### Short Title of 1966 Amendment
+
+Section 1 of Pub. L. 89–808 provided: “That this Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] may be cited as the ‘Food for Peace Act of 1966’.”
+
+#### Short Title
+
+Section 1 of act July 10, 1954, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Trade Development and Assistance Act of 1954’.”
+
+#### Minimum Level of Food Assistance
+
+Pub. L. 100–418, title IV, §4310, Aug. 23, 1988, 102 Stat. 1399, provided that:
+
+“(a)
+
+Annual Minimum.—It is the sense of Congress that—
+
+&emsp;“(1) the United States should maintain its historic proportion of food assistance constituting one-third of all United States foreign economic assistance; and
+
+&emsp;“(2) accordingly, the total amount of food assistance made available to foreign countries under the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) and section 416(b) of the Agricultural Act of 1949 (7 U.S.C. 1431(b)) should not be less than one-third of the total amount of foreign economic assistance provided for each fiscal year.
+
+“(b)
+
+Definition.—For purposes of this section, the term ‘foreign economic assistance’ includes—
+
+&emsp;“(1) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), section 416(b) of the Agricultural Act of 1949 (7 U.S.C. 1431(b)), or any other law authorizing economic assistance for foreign countries; and
+
+&emsp;“(2) United States contributions to the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, or any other multilateral development bank.”
+
+#### Food Aid and Market Development
+
+Pub. L. 100–418, title IV, §4311, Aug. 23, 1988, 102 Stat. 1400, which declared it to be the policy of the United States to use food aid and agriculturally-related foreign economic assistance programs more effectively to develop markets for United States agricultural commodities and products, and which directed the President (or, as appropriate, the Secretary of Agriculture) to encourage recipient countries under food assistance agreements entered into under any program administered by the Secretary to agree to give preference to United States food and food products in future food purchases, was repealed by Pub. L. 101–624, title XV, §1571, Nov. 28, 1990, 104 Stat. 3702.
+
+#### Agricultural Trade and Export Policy Commission Act
+
+Subtitle C (§§1217–1224) of title XII of Pub. L. 97–98, as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
+
+#### Use of Nonprice-Supported Commodities
+
+Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, provided that: “It is the sense of Congress that there be no discrimination between ‘price-supported’ and ‘nonprice-supported’ commodities in the programming of commodities under the Agricultural Trade Development and Assistance Act of 1954, as amended (Public Law 480) \[which enacted this chapter and amended sections 1427 and 1431 of this title\].”
+
+#### Special Task Force
+
+Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954, 7 U.S.C. 1961 et seq.
+
+#### Executive Order No. 10560
+
+Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 10575, Nov. 8, 1954, 19 F.R. 7249; Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261; Ex. Ord. No. 10708, May 6, 1957, 22 F.R. 3213; Ex. Ord. No. 10746, Dec. 13, 1957, 22 F.R. 10027; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971; Ex. Ord. No. 10799, Jan. 16, 1959, 24 F.R. 447; Ex. Ord. No. 10827, June 25, 1959, 24 F.R. 5233; Ex. Ord. No. 10884, Aug. 17, 1960, 25 F.R. 8019, which provided for the delegation of administrative functions, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(a) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+
+#### Executive Order No. 10685
+
+Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+
+#### Executive Order No. 10900
+
+Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, as amended by Ex. Ord. No. 10915, Jan. 24, 1961, 26 F.R. 781; Ex. Ord. No. 10972, Nov. 3, 1961, 26 F.R. 10469; Ex. Ord. No. 11036, July 1, 1962, 27 F.R. 6653; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11963, Jan. 19, 1977, 42 F.R. 4325; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, which related to the delegation of administrative functions, was revoked by section 1–501 of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+
+#### Executive Order No. 11252
+
+Ex. Ord. No. 11252, Oct. 20, 1965, 30 F.R. 13507, as amended by Ex. Ord. No. 12527, Aug. 7, 1985, 50 F.R. 32157, which transferred to the Secretary of State all functions of the Director of the Food-For-Peace Program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Executive Order No. 12220
+
+Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
+
+#### Ex. Ord. No. 12752. Implementation of Agricultural Trade Development and Assistance Act of 1954, as Amended, and Food for Progress Act of 1985, as Amended
+
+Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8255, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], as amended by Public Law 101–624 (“Agricultural Trade Development Act”), the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], as amended by Public Law 101–624 (“Food for Progress Act”), and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Establishment of Programs</i>. There is hereby established:
+
+(a) a program under title I of the Agricultural Trade Development Act \[7 U.S.C. 1701 et seq.\] to provide for the sale of agricultural commodities to developing countries. Such program shall be implemented by the Secretary of Agriculture (hereafter referred to as the “Secretary”).
+
+(b) a program under title II of the Agricultural Trade Development Act \[7 U.S.C. 1721 et seq.\] to provide for the donation of agricultural commodities to foreign countries. Such program shall be implemented by the Administrator of the Agency for International Development (hereafter referred to as the “Administrator”).
+
+(c) a program under title III of the Agricultural Trade Development Act \[7 U.S.C. 1727 et seq.\] to provide forthe donation of agricultural commodities to least developed countries. Such program shall be implemented by the Administrator.
+
+Sec. 2. <i>International Negotiations and Accounting for Foreign Currencies</i>. (a) The Secretary with respect to title I, and the Administrator with respect to titles II and III of the Agricultural Trade Development Act, shall negotiate and execute agreements under the Agricultural Trade Development Act in accord with section 112b of title I \[sic\] of the United States Code and applicable regulations and procedures of the Department of State.
+
+(b)(1) Foreign currencies that accrue to the United States under titles I and III of the Agricultural Trade Development Act may be used for the purposes set forth in section 104 and section 306 of that Act \[7 U.S.C. 1704, 1727e\], respectively, in amounts consistent with applicable provisions of law and agreements. Such foreign currencies shall be subject to regulations of the Department of the Treasury governing the purchase, custody, deposit, transfer, and sale of foreign currencies received under the Agricultural Trade Development Act.
+
+(2) The Director of the Office of Management and Budget (hereafter referred to as the “Director”) shall determine the amount of foreign currencies to be used for the purposes of section 104(c)(8) of the Agricultural Trade Development Act, and such purposes shall be carried out by the agencies with authority to pay the obligations abroad. The purposes of the remaining paragraphs of section 104(c) of that Act shall be carried out by the Department of Agriculture, utilizing, where appropriate, the expertise of other agencies.
+
+(3) The Secretary and Administrator shall transmit the reports required by the provisions of paragraph 5 of the Act of August 13, 1957 (71 Stat. 345; 7 U.S.C. 1704a), as related to the use of foreign currencies accruing under title I and title III of the Agricultural Trade Development Act, respectively.
+
+Sec. 3. <i>Policy Coordination</i>. (a) To ensure policy coordination of assistance provided under the Agricultural Trade Development Act and the Food for Progress Act, there is hereby established a Food Assistance Policy Council (hereafter referred to as the “Council”).
+
+(b) The Council will include senior representatives of the Department of Agriculture, the Agency for International Development, the Department of State, and the Office of Management and Budget. Meetings of the Council shall be called by the Secretary or his designee at the request of any senior representative of the Council.
+
+(c) The Council shall advise the President on appropriate policies under the Agricultural Trade Development Act and the Food for Progress Act and shall coordinate decisions on allocations and other policy issues, as well as prepare the report required by section 407(g)(1) of the Agricultural Trade Development Act \[7 U.S.C. 1736a(g)(1)\].
+
+(d) As necessary for effective coordination, the Council shall provide its advice to the President through the appropriate Cabinet-level body.
+
+Sec. 4. <i>Delegation of Responsibilities</i>. (a) The consultation required by section 401(a) of the Agricultural Trade Development Act \[7 U.S.C. 1731(a)\] shall be undertaken through the Council.
+
+(b) The function conferred upon the President in section 403(j) of the Agricultural Trade Development Act \[7 U.S.C. 1733(j)\] is hereby delegated to the Secretary of State.
+
+(c) The function conferred upon the President by section 407(h) of the Agricultural Trade Development Act \[7 U.S.C. 1736a(h)\] is hereby delegated to the Administrator.
+
+(d) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
+
+(e) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
+
+(f) The functions conferred upon the President by title V of the Agricultural Trade Development Act \[7 U.S.C. 1737\] are hereby delegated to the Administrator.
+
+(g) The functions conferred upon the President by the Food for Progress Act, as amended \[7 U.S.C. 1736<i>o</i>\], are hereby delegated to the Secretary.
+
+Sec. 5. <i>Regulatory Review</i>. Policies, regulations, and analyses required by this Executive order shall be fully consistent with the standards and criteria, analyses and procedures set forth in Executive Order Nos. 12291 and 12498 \[formerly 5 U.S.C. 601 notes\].
+
+Sec. 6. <i>Revocations</i>. Executive Order No. 12220 of June 27, 1980, and Executive Order No. 12583 of February 19, 1987, are revoked.
+
+George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1701, 1727, 1727b, 1727e of this title.
+

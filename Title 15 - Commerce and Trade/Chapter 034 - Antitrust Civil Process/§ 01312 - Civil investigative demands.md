@@ -52,7 +52,7 @@ Each such demand shall—
 
 #### (d) Service; jurisdiction
 
-(1) Any such demand may be served by any antitrust investigator, or by any United Statesmarshal or deputy marshal, at any place within the territorial jurisdiction of any court of the United States.
+(1) Any such demand may be served by any antitrust investigator, or by any United States marshal or deputy marshal, at any place within the territorial jurisdiction of any court of the United States.
 
 (2) any such demand or any petition filed under section 1314 of this title may be served upon any person who is not to be found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign country. To the extent that the courts of the United States can assert jurisdiction over such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this chapter by such person that such court would have if such person were personally within the jurisdiction of such court.
 
@@ -86,7 +86,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 #### (i) Oral examinations
 
-(1) The examination of any person pursuant to a demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
+(1) The examination of any person pursuant to a demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by thelaws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
 (2) The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 of this title shall not apply to such examinations.
 
@@ -122,7 +122,7 @@ Subsec. (b). Pub. L. 96–349, §2(b)(2), inserted provision respecting time dem
 
 Subsec. (c). Pub. L. 96–349, §2(b)(3), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–435 struck out “under investigation” before “may be in possession”, inserted “or may have any information” after “any documentary material”, and inserted provision requiring the production of documentary material for inspection or reproduction, answers in writing to written interrogatories, the giving of oral testimony concerning documentary material or information, and the furnishing of any combination of such material, answers, or testimony.
+1976—Subsec. (a). Pub. L. 94–435 struck out “under investigation” before “may be in possession”, inserted “or may have any information” after “any documentary material”, and inserted provision requiring the production of documentary material for inspection or reproduction, answers in writing to written interrogatories, the giving of oral testimony concerning documentary material or information, and the furnishing ofany combination of such material, answers, or testimony.
 
 Subsec. (b). Pub. L. 94–435 restructured subsec. (b) and as so restructured, in par. (1) inserted provisions of cl. (B), in par. (2), added cls. (B) and (C), in par. (3) substituted provisions relating to written interrogatories for provisions relating to prescription of a return date for demanded material, and in par. (4), substituted provisions relating to oral testimony for provisions requiring a demand to identify the custodian to whom demanded material shall be made available.
 

@@ -1,4 +1,4 @@
-### §460u–13 . Acquisition of area I–C; owner consent required
+### §460u–13. Acquisition of area I–C; owner consent required
 
 (a) The Secretary may acquire that portion of area I–C which is shaded on the map referred to in section 460u–3 of this title, dated December 1980 and numbered 626–91014 only with the consent of the owner unless the present owner attempts to sell or otherwise dispose of such area.
 

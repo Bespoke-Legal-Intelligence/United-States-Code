@@ -22,7 +22,7 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (3) Smithsonian Institution
 
-&emsp;The Secretary of State may also lend items covered by paragraph (1), when not needed foruse or display in the reception areas, to the Smithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
+&emsp;The Secretary of State may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to the Smithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
 
 #### (c) “Reception areas” defined
 

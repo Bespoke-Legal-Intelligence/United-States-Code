@@ -148,7 +148,7 @@ Part II of subchapter L, referred to in subsec. (a)(3)(D), was repealed and part
 
 The Revenue Act of 1918 (40 Stat. 1057), referred to in subsec. (a)(4), is act Feb. 24, 1919, ch. 18, 40 Stat. 1057. For complete classification of this Act to the Code, see Tables.
 
-The Revenue Act of 1921 (42 Stat. 227), referred to in subsec. (a)(4), is act Nov. 23, 1921, ch. 136, 42 Stat. 227.For complete classification of this Act to the Code, see Tables.
+The Revenue Act of 1921 (42 Stat. 227), referred to in subsec. (a)(4), is act Nov. 23, 1921, ch. 136, 42 Stat. 227. For complete classification of this Act to the Code, see Tables.
 
 Section 218 of the Revenue Act of 1918 or 1921, referred to in subsec. (a)(4), was not classified to the Code.
 
@@ -228,7 +228,7 @@ Subsec. (c). Pub. L. 97–34, §421(g), substituted provisions respecting increa
 
 Subsec. (a)(23). Pub. L. 96–223, §401(a), repealed the amendments made by Pub. L. 94–455, §2005(a)(3), and Pub. L. 95–600, §702(r)(3). See 1976 and 1978 Amendment notes below.
 
-Subsec. (c). Pub. L. 96–223, §401(c)(1), struck out provision relating to the net appreciation of in value ofcertain property and struck out references to section 1023 of this title.
+Subsec. (c). Pub. L. 96–223, §401(c)(1), struck out provision relating to the net appreciation of in value of certain property and struck out references to section 1023 of this title.
 
 1978—Subsec. (a)(21). Pub. L. 95–618, §101(b)(3), added par. (21) relating to an adjustment to the extent provided in section 44C.
 
@@ -300,7 +300,7 @@ Amendment by section 13261(f)(3) of Pub. L. 103–66 applicable, except as other
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c)of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -404,7 +404,7 @@ Amendment by section 12(b)(1) of Pub. L. 87–834 applicable with respect to tax
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, seesection 4 of Pub. L. 86–69, set out as a note under section 381 of this title.
+Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out as a note under section 381 of this title.
 
 #### Effective Date of 1958 Amendment
 

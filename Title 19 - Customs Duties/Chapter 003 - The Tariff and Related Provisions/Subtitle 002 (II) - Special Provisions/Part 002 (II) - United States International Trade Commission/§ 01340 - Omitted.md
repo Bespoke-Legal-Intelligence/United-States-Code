@@ -1,4 +1,4 @@
-### §1340 . Omitted
+### §1340. Omitted
 
 #### Codification
 

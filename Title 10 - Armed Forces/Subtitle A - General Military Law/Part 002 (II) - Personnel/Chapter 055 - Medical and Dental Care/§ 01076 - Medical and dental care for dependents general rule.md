@@ -96,7 +96,7 @@ Chapter 67 of this title as in effect before the effective date of the Reserve O
 
 #### Prior Provisions
 
-A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, which related to use of post cards, waiver of registration, and voting by discharged persons, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Amendment by section 1671(c)(7)(A) of Pub. L. 103–337 effective Dec. 1, 1994, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d)of Pub. L. 101–189, set out as a note under section 1072 of this title.
+Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
 
 #### Effective Date of 1988 Amendment
 

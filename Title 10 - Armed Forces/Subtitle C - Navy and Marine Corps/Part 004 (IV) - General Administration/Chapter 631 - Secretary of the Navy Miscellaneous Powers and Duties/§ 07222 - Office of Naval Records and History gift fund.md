@@ -1,6 +1,6 @@
 ### §7222. Office of Naval Records and History gift fund
 
-(a) The Secretary of the Navy may accept, hold, and administer gifts and bequests of personal property, and loans of personal property other than money, for the benefit of the Office of Naval Records and History, its collection, or its services. Gifts or bequests of money shall be deposited in the Treasury in a trust fund called “Office of Naval Records and History Fund.”
+(a) The Secretary of the Navy may accept, hold, and administer gifts and bequests of personal property, and loans of personal property other than money, for the benefit of the Office of Naval Records and History, its collection, orits services. Gifts or bequests of money shall be deposited in the Treasury in a trust fund called “Office of Naval Records and History Fund.”
 
 (b) For the purpose of Federal income, estate, and gift taxes, property that is accepted under this section is considered as a gift or bequest to or for the use of the United States.
 

@@ -1,4 +1,4 @@
-### §1325 . Improper entry by alien
+### §1325. Improper entry by alien
 
 #### (a) Improper time or place; avoidance of examination or inspection; misrepresentation and concealment of facts
 

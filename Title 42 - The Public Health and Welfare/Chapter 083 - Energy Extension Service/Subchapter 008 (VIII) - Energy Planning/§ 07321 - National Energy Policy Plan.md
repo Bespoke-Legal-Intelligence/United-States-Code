@@ -46,5 +46,5 @@ The President shall insure that consumers, small businesses, and a wide range of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9311, 12006, 13382, 13522 of this title.
+This section is referred to in sections 12006, 13382, 13522 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) approval may be granted by the Secretary of Energy under section 2160 of this title for the transfer of special nuclear material described in subsection (b) of this section;
 
-> only after the Secretary of Defense has been consulted on whether the physical protection of that material during the export or transfer will be adequate to deter theft, sabotage, and otheracts of international terrorism which would result in the diversion of that material. If, in the view of the Secretary of Defense based on all available intelligence information, the export or transfer might be subject to a genuine terrorist threat, the Secretary shall provide to the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, his written assessment of the risk and a description of the actions the Secretary of Defense considers necessary to upgrade physical protection measures.
+> only after the Secretary of Defense has been consulted on whether the physical protection of that material during the export or transfer will be adequate to deter theft, sabotage, and other acts of international terrorism which would result in the diversion of that material. If, in the view of the Secretary of Defense based on all available intelligence information, the export or transfer might be subject to a genuine terrorist threat, the Secretary shall provide to the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, his written assessment of the risk and a description of the actions the Secretary of Defense considers necessary to upgrade physical protection measures.
 
 (b) Subsection (a) of this section applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enriched to more than 20 percent in the isotope 233 or the isotope 235.
 
@@ -22,5 +22,5 @@
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealedon date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of Title 22, Foreign Relations and Intercourse.
 

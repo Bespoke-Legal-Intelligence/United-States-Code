@@ -14,7 +14,7 @@ Every employer who in any fiscal year made—
 
 &emsp;(5) any payment (including reimbursed expenses) pursuant to an agreement or arrangement described in subdivision (4);
 
-> shall file with the Secretary a report, in a form prescribed by him, signed by its president and treasurer or corresponding principal officers showing in detail the date and amount of each such payment, loan, promise, agreement, or arrangement and the name, address, and position, if any, in any firm or labor organization of the person to whom it was made and a full explanation of the circumstances of all such payments, including the terms of any agreement or understanding pursuant to which they were made.
+> shall file with the Secretary a report, in a form prescribed by him, signed by its president and treasurer or corresponding principal officers showing in detail the date and amount of each such payment, loan, promise, agreement, or arrangement and the name, address, and position, if any, in any firm or labor organization of the person to whom it was made and a full explanation of the circumstances of all such payments, including the terms of any agreement orunderstanding pursuant to which they were made.
 
 #### (b) Persuasive activities relating to the right to organize and bargain collectively; supplying information of activities in connection with labor disputes; filing and contents of report of agreement or arrangement
 
@@ -32,7 +32,7 @@ Nothing in this section shall be construed to require any employer or other pers
 
 #### (d) Exemption from filing requirements generally
 
-Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unlesshe was a party to an agreement or arrangement of the kind described therein.
+Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unless he was a party to an agreement or arrangement of the kind described therein.
 
 #### (e) Services by and payments to regular officers, supervisors, and employees of employer
 

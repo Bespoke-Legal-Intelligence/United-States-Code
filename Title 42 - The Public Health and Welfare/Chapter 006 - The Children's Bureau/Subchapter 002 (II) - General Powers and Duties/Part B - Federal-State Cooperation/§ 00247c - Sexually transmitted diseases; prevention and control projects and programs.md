@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 94–317, §203(h), added subsec. (h). Former subsec. (h) r
 
 #### Distribution of Information on Acquired Immune Deficiency Syndrome by Director of Centers for Disease Control to Every American Household
 
-Pub. L. 100–202, §101(h) \[title II\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–365, provided: “That the Director shall cause to be distributed without necessary clearance of the content by any official, organization or office, an AIDS mailer to every American household byJune 30, 1988, as approved and funded by the Congress in Public Law 100–71 \[July 11, 1987, 101 Stat. 391\].”
+Pub. L. 100–202, §101(h) \[title II\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–365, provided: “That the Director shall cause to be distributed without necessary clearance of the content by any official, organization or office, an AIDS mailer to every American household by June 30, 1988, as approved and funded by the Congress in Public Law 100–71 \[July 11, 1987, 101 Stat. 391\].”
 
 #### Congressional Findings and Declarations
 

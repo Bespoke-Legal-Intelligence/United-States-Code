@@ -4,7 +4,7 @@
 
 (1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that a foreign person, after November 5, 1990, knowingly—
 
-&emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
+&emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent andwould be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
 
 &emsp;(B) conspires to or attempts to engage in such export, transfer, or trade, or
 
@@ -46,7 +46,7 @@ The Secretary of State, in consultation with the Secretary of Defense, the Secre
 
 #### (e) Waiver and report to Congress
 
-(1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive theapplication of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
+(1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
 
 (2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Congress not less than 20 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 
@@ -68,7 +68,7 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;(1) in the case of procurement of defense articles or defense services—
 
-&emsp;&emsp;(A) under existing contracts or subcontracts, including the exercise of options for production quantities to satisfy requirements essential to the national security of the United States;
+&emsp;&emsp;(A) under existing contracts or subcontracts, including the exercise of optionsfor production quantities to satisfy requirements essential to the national security of the United States;
 
 &emsp;&emsp;(B) if the President determines that the person to which the sanctions would be applied is a sole source supplier of the defense articles and services, that the defense articles or services are essential to the national security of the United States, and that alternative sources are not readily or reasonably available; or
 

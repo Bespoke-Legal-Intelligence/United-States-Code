@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(4) The term “Archivist” means the Archivist of the United States.
 
-&emsp;(5) The term “former President”, when used with respect to Presidential records, meansthe former President during whose term or terms of office such Presidential records were created.
+&emsp;(5) The term “former President”, when used with respect to Presidential records, means the former President during whose term or terms of office such Presidential records were created.
 
 (Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2523.)
 

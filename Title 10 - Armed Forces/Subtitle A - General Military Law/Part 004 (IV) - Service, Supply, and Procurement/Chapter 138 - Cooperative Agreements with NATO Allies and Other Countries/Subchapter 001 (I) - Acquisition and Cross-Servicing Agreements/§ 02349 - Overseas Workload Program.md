@@ -24,11 +24,9 @@ Definition.—In this section, the term “major non-NATO ally” has the meanin
 
 #### Prior Provisions
 
-A prior section 2349, added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2330; renumbered §2349, Pub. L. 99–145, title XIII, §1304(a)(3), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535, directed Secretary of Defense to submit a report to Congress annually relating to agreements under this chapter, prior to repeal by Pub. L. 101–510, §1301(11).
+A prior section 2349, added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2330; renumbered §2349, Pub. L.99–145, title XIII, §1304(a)(3), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535, directed Secretary of Defense to submit a report to Congress annually relating to agreements under this chapter, prior to repeal by Pub. L. 101–510, §1301(11).
 
-Similar provisions were contained in Pub. L. 101–510, div. A, title XIV, §1465, Nov. 5, 1990, 104 Stat. 1700, as amended, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 103–160, §1431(b)(1).
-
-Other prior similar provisions, formerly set out under section 2341 of this title, were contained in the following authorization or appropriation acts:
+Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, §1465, Nov. 5, 1990, 104 Stat. 1700, as amended, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 103–160, §1431(b)(1). Other prior similar provisions, formerly set out under section 2341 of this title, were contained in the following authorization or appropriation acts:
 
 Pub. L. 102–396, title IX, §9130, Oct. 6, 1992, 106 Stat. 1935, as amended by Pub. L. 103–160, div. A, title XIV, §1431(b)(2), Nov. 30, 1993, 107 Stat. 1833.
 

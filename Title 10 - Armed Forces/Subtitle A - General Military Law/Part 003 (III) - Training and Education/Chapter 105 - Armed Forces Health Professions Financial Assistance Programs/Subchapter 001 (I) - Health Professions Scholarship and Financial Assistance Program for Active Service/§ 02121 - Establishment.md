@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 101–189, §725(b)(2), substituted “study and specialize
 
 Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted “pursuing a course of study” for “of the program” and inserted after second sentence “Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program.”
 
-1983—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting “a stipend at the rate of $579 per month” for “a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program” and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
+1983—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting “a stipend at the rate of $579per month” for “a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program” and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
 
 1979—Subsec. (d). Pub. L. 96–107 substituted provisions relating to entitlement to a stipend at the rate in effect for students in the National Health Services Corps Scholarship program, for provisions authorizing a stipend at the rate of $400 per month.
 
@@ -38,7 +38,7 @@ Section 804(c) of Pub. L. 96–107 provided that: “The amendments made by this
 
 #### Members of Reserve Components; Specialized Training Assistance in the Health Professions
 
-Pub. L. 99–145, title VI, §672(a)–(h), (j), Nov. 8, 1985, 99 Stat. 663, 664, effective Oct. 1, 1985, which related to establishment and maintenance of program to provide financial assistance to persons engaged in specializedtraining in health professions who agree to incur Selective Reserve obligation of 3 years for each year for which financial assistance is provided, was repealed by Pub. L. 100–180, div. A, title VII, §711(c)(1), (e)(1), Dec. 4, 1987, 101 Stat. 1111, effective Dec. 4, 1987, subject to a savings provision, see below.
+Pub. L. 99–145, title VI, §672(a)–(h), (j), Nov. 8, 1985, 99 Stat. 663, 664, effective Oct. 1, 1985, related to establishment and maintenance of program to provide financial assistance to persons engaged in specialized training in health professions who agree to incur Selective Reserve obligation of 3 years for each year for which financial assistance is provided, prior to repeal by Pub. L. 100–180, div. A, title VII, §711(c)(1), (e)(1), Dec. 4, 1987, 101 Stat. 1111, effective Dec. 4, 1987, subject to a savings provision, see below.
 
 Pub. L. 100–180, div. A, title VII, §711(c)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “The repeal of section 672 of the Department of Defense Authorization Act, 1986 \[section 672 of Pub. L. 99–145, see above\], by paragraph (1) does not affect an agreement entered into under that section before such repeal, and the provisions of such section as in effect before such repeal shall continue to apply with respect to such agreement.”
 

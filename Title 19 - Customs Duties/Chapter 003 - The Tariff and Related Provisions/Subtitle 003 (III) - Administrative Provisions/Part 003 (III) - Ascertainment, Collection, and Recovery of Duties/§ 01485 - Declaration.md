@@ -2,9 +2,9 @@
 
 #### (a) Requirement; form and contents
 
-Every importer of record making an entry under the provisions of section 1484 of this titleshall make and file or transmit electronically therewith, in a form and manner to be prescribed by the Secretary of the Treasury, a declaration under oath, stating—
+Every importer of record making an entry under the provisions of section 1484 of this title shall make and file or transmit electronically therewith, in a form and manner to be prescribed by the Secretary of the Treasury, a declaration under oath, stating—
 
-&emsp;(1) Whether the merchandise is imported in pursuance of a purchase or an agreement to purchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
+&emsp;(1) Whether the merchandise is imported in pursuance of a purchase or an agreement topurchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
 
 &emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case of merchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
 
@@ -44,15 +44,15 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (g),
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §485, 42 Stat. 961. That section was superseded by section 485 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §485, 42 Stat. 961. That section was superseded by section 485 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions for a declaration to be filed when merchandise was entered by invoice, were contained in the Customs Administrative Act of June 10, 1890, ch. 407, §5, 26 Stat. 132, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95, and by act Oct. 3, 1913, ch. 16, §III, F, 38 Stat. 182. The sections of the acts of 1890 and 1913, referred to, were repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 R.S. §2786, requiring entries to be verified by oath, was superseded by the Customs Administrative Act of June 10, 1890, ch. 407, §§4, 5, 22, 26 Stat. 131, 132, 140, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, 102, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, E, F, and section IV, S, of that act, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §2841 prescribed the forms of oaths of which one, according to the nature of the case, was required to be administered by the collector at the time of the entry of merchandise by invoice. It was modified by act May 1, 1876, ch. 89, §2, 19 Stat. 49, and repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, amended and reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and declarations in lieu of oaths were required to accompany the invoice by section 5 of the Customs Administrative Act, amended by the Payne-Aldrich Act and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, F. All oaths administered by officers of thecustoms, except as provided in the Customs Administrative Act, were abolished by section 22 thereof amended by section 28 of the Payne-Aldrich Act.
+R.S. §2841 prescribed the forms of oaths of which one, according to the nature of the case, was required to be administered by the collector at the time of the entry of merchandise by invoice. It was modified by act May 1, 1876, ch. 89, §2, 19 Stat. 49, and repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, amended and reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and declarations in lieu of oaths were required to accompany the invoice by section 5 of the Customs Administrative Act, amended by the Payne-Aldrich Act and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, F. All oaths administered by officers of the customs, except as provided in the Customs Administrative Act, were abolished by section 22 thereof amended by section 28 of the Payne-Aldrich Act.
 
-The provisions for the abolition of fees and oaths on entry of goods, made by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, were superseded by a proviso annexed to section IV, S, of the Underwood Tariff Act of Oct. 3, 1913, which provided that “nothing in this act shall be construed to permit any oaths to be demanded or fees to be charged except as provided in this act,” etc.
+The provisions for the abolition of fees and oaths on entry of goods, made by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28,36 Stat. 102, were superseded by a proviso annexed to section IV, S, of the Underwood Tariff Act of Oct. 3, 1913, which provided that “nothing in this act shall be construed to permit any oaths to be demanded or fees to be charged except as provided in this act,” etc.
 
 Act May 1, 1876, ch. 89, §2, 19 Stat. 49, modifying the form of oath prescribed by R.S. §2841, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

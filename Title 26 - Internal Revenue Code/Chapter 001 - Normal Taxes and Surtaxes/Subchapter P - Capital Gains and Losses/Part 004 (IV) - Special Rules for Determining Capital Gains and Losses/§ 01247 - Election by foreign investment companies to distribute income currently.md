@@ -54,11 +54,11 @@ For purposes of this section—
 
 #### (2) Certain United States persons excluded from definition
 
-&emsp;A United States person shall not be treated as a qualified shareholder for the taxable yearif for such taxable year (or for any prior taxable year) he did not include, in computing his long-term capital gains in his return for such taxable year, the amount designated by such company pursuant to subsection (a)(1)(B) as his share of the undistributed capital gains of such company for its taxable year ending within or with such taxable year of the taxpayer. The preceding sentence shall not apply with respect to any failure by the taxpayer to treat an amount as provided therein if the taxpayer shows that such failure was due to reasonable cause and not due to willful neglect.
+&emsp;A United States person shall not be treated as a qualified shareholder for the taxable year if for such taxable year (or for any prior taxable year) he did not include, in computing his long-term capital gains in his return for such taxable year, the amount designated by such company pursuant to subsection (a)(1)(B) as his share of the undistributed capital gains of such company for its taxable year ending within or with such taxable year of the taxpayer. The preceding sentence shall not apply with respect to any failure by the taxpayer to treat an amount as provided therein if the taxpayer shows that such failure was due to reasonable cause and not due to willful neglect.
 
 #### (d) Treatment of distributed and undistributed capital gains by a qualified shareholder
 
-Every qualified shareholder of a foreign investment company for any taxable year of such company with respect to which an election pursuant to subsection (a) is in effect shall include, in computing his long-term capital gains—
+Every qualified shareholder of a foreign investment company for any taxable year of suchcompany with respect to which an election pursuant to subsection (a) is in effect shall include, in computing his long-term capital gains—
 
 &emsp;(1) for his taxable year in which received, his pro rata share of the distributed portion of the net capital gain for such taxable year of such company, and
 

@@ -124,7 +124,7 @@ A prior section 1463, acts June 13, 1933, ch. 64, §4, 48 Stat. 129; Apr. 27, 19
 
 A prior section 1463a, act Apr. 27, 1934, ch. 168, §1(b), 48 Stat. 644, provided that amendments made to subsec. (c) of former section 1463 of this title, except with respect to refunding, by act Apr. 27, 1934, should not apply to any bonds prior to Apr. 27, 1934, issued under subsec. (c), or to any bonds thereafter issued in compliance with commitments of the Corporation outstanding on Apr. 27, 1934.
 
-A prior section 1463b, act Apr. 27, 1934, ch. 168, §9, 48 Stat. 646, related to purchase of obligations of, andloans to, Federal Home Loan Banks, prior to repeal by act May 28, 1935, ch. 150, §17(b), 49 Stat. 297.
+A prior section 1463b, act Apr. 27, 1934, ch. 168, §9, 48 Stat. 646, related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by act May 28, 1935, ch. 150, §17(b), 49 Stat. 297.
 
 #### Preserving Minority Ownership of Minority Financial Institutions
 

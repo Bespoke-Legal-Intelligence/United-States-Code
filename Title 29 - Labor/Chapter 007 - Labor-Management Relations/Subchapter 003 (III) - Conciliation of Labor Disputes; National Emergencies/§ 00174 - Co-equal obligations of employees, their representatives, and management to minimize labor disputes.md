@@ -10,5 +10,5 @@
 
 (June 23, 1947, ch. 120, title II, §204, 61 Stat. 154.)
 
-<i><sup>1</sup></i><i> No subsec. (b) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

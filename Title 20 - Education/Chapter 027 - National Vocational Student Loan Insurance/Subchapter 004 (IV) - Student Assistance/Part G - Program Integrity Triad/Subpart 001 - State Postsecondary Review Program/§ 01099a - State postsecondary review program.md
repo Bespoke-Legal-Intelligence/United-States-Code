@@ -4,7 +4,7 @@
 
 It is the purpose of this section to authorize the Secretary to enter into agreements that—
 
-&emsp;(1) designate one State postsecondary review entity in each State to be responsible for the conduct or coordination of the review under section 1099a 3(d) of this title of institutions of higher education, reported to the State by the Secretary pursuant to section 1099a 3(a) of this title, for the purposes of determining eligibility under this subchapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;(1) designate one State postsecondary review entity in each State to be responsible for the conduct or coordination of the review under section 1099a–3(d) of this title of institutions of higher education, reported to the State by the Secretary pursuant to section 1099a–3(a) of this title, for the purposes of determining eligibility under this subchapter and part C of subchapter I of chapter 34 of title 42; and
 
 &emsp;(2) provide Federal funds to each State postsecondary review entity for performing the functions required by such agreements with the Secretary.
 
@@ -22,11 +22,11 @@ If a State fails to enter into an agreement under this section or fails to meet 
 
 &emsp;&emsp;(B) may grant only provisional certification for all institutions in the State pursuant to subpart 3 of this part; and
 
-&emsp;(2) the State shall be ineligible to receive funds under section 1099a 2 of this title, subpart 4 of part A of this subchapter, and division 2 of subpart 2 of part A of this subchapter.
+&emsp;(2) the State shall be ineligible to receive funds under section 1099a–2 of this title, subpart 4 of part A of this subchapter, and division 2 of subpart 2 of part A of this subchapter.
 
-(Pub. L. 89 329, title IV, §494, as added Pub. L. 102 325, title IV, §499, July 23, 1992, 106 Stat. 635.)
+(Pub. L. 89–329, title IV, §494, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 635.)
 
 #### Effective Date
 
-Part effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+Part effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 

@@ -1,6 +1,6 @@
 ### §1317. Appointment of Administrator of Health Care Financing Administration
 
-The Administrator of the Health Care Financing Administration shall be appointed by the President by and with the advice and consent of the Senate.
+The Administrator of the Health Care Financing Administration shall be appointed by thePresident by and with the advice and consent of the Senate.
 
 (Aug. 14, 1935, ch. 531, title XI, §1117, as added July 18, 1984, Pub. L. 98–369, div. B, title III, §2332(a), 98 Stat. 1088.)
 

@@ -64,7 +64,7 @@ This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperati
 
 #### Amendments
 
-1983—Subsec. (c)(3). Pub. L. 97–452 struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,” which had already beenstruck out by Pub. L. 97–258. See 1982 Amendment note below.
+1983—Subsec. (c)(3). Pub. L. 97–452 struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,” which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
 1982—Subsec. (c)(3). Pub. L. 97–258, §2(<i>l</i>)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
 

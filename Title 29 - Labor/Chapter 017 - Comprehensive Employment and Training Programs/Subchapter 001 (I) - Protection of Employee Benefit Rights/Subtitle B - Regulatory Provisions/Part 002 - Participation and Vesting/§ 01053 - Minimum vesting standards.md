@@ -64,7 +64,7 @@ percentage is:
 
 &emsp;(C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(c)(8) of this title.
 
-&emsp;(D)(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in the last sentence of section 1054(c)(2)(C) of this title) made by such participant.
+&emsp;(D)(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in the last sentence of section 1054(c)(2)(C) of this title) made by such participant.
 
 &emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of section 1054(c)(2)(C) of this title (if such subsection applies) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
@@ -116,7 +116,7 @@ percentage is:
 
 (B) For purposes of this section, the term “hour of service” has the meaning provided by section 1052(a)(3)(C) of this title.
 
-(C) In the case of any seasonal industry where the customary period of employment is lessthan 1,000 hours during a calendar year, the term “year of service” shall be such period as determined under regulations of the Secretary.
+(C) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of service” shall be such period as determined under regulations of the Secretary.
 
 (D) For purposes of this section, in the case of any maritime industry, 125 days of service shall be treated as 1,000 hours of service. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
 
@@ -178,7 +178,7 @@ percentage is:
 
 #### (c) Plan amendments altering vesting schedule
 
-(1)(A) A plan amendment changing any vesting schedule under this plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+(1)(A) A plan amendment changing any vesting schedule under this plan shall be treated as notsatisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
 (B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
@@ -242,7 +242,7 @@ Subsec. (c)(1)(B). Pub. L. 99–514, §1113(e)(4)(A), substituted “3 years” 
 
 Subsec. (c)(3). Pub. L. 99–514, §1113(e)(2), struck out par. (3) which provided for class year vesting.
 
-Pub. L. 99–514, §1898(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The requirements of subsection (a)(2) of this section shall be deemed to be satisfied in the case of a class year plan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th year following the plan year for which such contributions were made. For purposes of this part, the term ‘class year plan’ means a profit sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees’ rights to or derived from the contributions for each plan year.”
+Pub. L. 99–514, §1898(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The requirements of subsection (a)(2) of this section shall be deemed to be satisfied in the case of a class yearplan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th year following the plan year for which such contributions were made. For purposes of this part, the term ‘class year plan’ means a profit sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees’ rights to or derived from the contributions for each plan year.”
 
 Subsec. (e)(1). Pub. L. 99–514, §1898(d)(1)(B), as amended by Pub. L. 101–239, §7862(d)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the present value of any accrued benefit exceeds $3,500, such benefit shall not be treated as nonforfeitable if the plan provides that the present value of such benefit could be immediately distributed without the consent of the participant.”
 
@@ -252,7 +252,7 @@ Pub. L. 99–514, §1898(d)(2)(B), added par. (3).
 
 1984—Subsec. (b)(1)(A). Pub. L. 98–397, §102(b), substituted “18” for “22”.
 
-Subsec. (b)(3)(C). Pub. L. 98–397, §102(c), substituted “5 consecutive 1-year breaks in service” for “any 1-yearbreak in service” and substituted “such 5-year period” for “such break” in two places.
+Subsec. (b)(3)(C). Pub. L. 98–397, §102(c), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service” and substituted “such 5-year period” for “such break” in two places.
 
 Subsec. (b)(3)(D). Pub. L. 98–397, §102(d)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “For purposes of paragraph (1), in the case of a participant who, under the plan, does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service before any 1-year break in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service prior to such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this subparagraph by reason of any prior break in service.”
 

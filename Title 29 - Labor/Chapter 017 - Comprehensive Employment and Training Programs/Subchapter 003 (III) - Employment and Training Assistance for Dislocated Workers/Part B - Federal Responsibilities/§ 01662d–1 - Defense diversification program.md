@@ -28,7 +28,7 @@ From funds made available to carry out this section, the Secretary, in consultat
 
 &emsp;&emsp;Except as provided in subparagraph (B), a civilian employee of the Department of Defense or the Department of Energy shall be eligible for training, adjustment assistance, and employment services under this section if the employee—
 
-&emsp;&emsp;&emsp;(i) during the 5-year period beginning on October 1, 1992, is terminated or laid off (orreceives a notice of termination or lay off) from such employment as a result of reductions in defense spending, as determined by the Secretary of Defense or the Secretary of Energy, except that, in the case of a notice of termination or lay off, the eligibility of the employee shall not begin until 180 days before the projected date of the termination or lay off; and
+&emsp;&emsp;&emsp;(i) during the 5-year period beginning on October 1, 1992, is terminated or laid off (or receives a notice of termination or lay off) from such employment as a result of reductions in defense spending, as determined by the Secretary of Defense or the Secretary of Energy, except that, in the case of a notice of termination or lay off, the eligibility of the employee shall not begin until 180 days before the projected date of the termination or lay off; and
 
 &emsp;&emsp;&emsp;(ii) is not entitled to retired or retainer pay incident to that termination or lay off.
 
@@ -204,7 +204,7 @@ The Secretary of Defense, in consultation with the Secretary of Labor, shall pre
 
 &emsp;&emsp;(F) projects involving the joint efforts of Federal agencies, such as the Department of Labor, the Department of Defense, the Department of Commerce, and the Small Business Administration, to assist communities affected by such reductions or closures in developing integrated community planning processes to facilitate the retraining of affected individuals and the conversion of installations to commercial uses;
 
-&emsp;&emsp;(G) projects to develop new information and data systems to assist individuals and communities affected by such reductions or closures, including the development of databases with the capability to provide an affected individual with a civilian economy skills profile which takes into account the skills acquired while working on defense-related matters; and
+&emsp;&emsp;(G) projects to develop new information and data systems to assist individuals and communities affected by such reductions or closures, including the development of data bases with the capability to provide an affected individual with a civilian economy skills profile which takes into account the skills acquired while working on defense-related matters; and
 
 &emsp;&emsp;(H) projects to assist small and medium-sized firms affected by such reductions or closures in the formation of learning consortia, which will promote joint efforts for staff training, human resource development, product development, and the marketing of products.
 
@@ -306,7 +306,7 @@ Persons Eligible for Clearinghouse Services.—The following persons shall be el
 
 &emsp;“(1) Members of the Armed Forces who are discharged or released from active duty.
 
-&emsp;“(2) Civilian employees of the Department of Defense who are terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
+&emsp;“(2) Civilian employees of the Department of Defense who are terminated from such employment as a result of reductions in defense spending or the closureor realignment of a military installation, as determined by the Secretary of Defense.
 
 &emsp;“(3) Employees of defense contractors who are terminated or laid off (or receive a notice of termination or lay off) as a result of the completion or termination of a defense contract or program or reductions in defense spending, as determined by the Secretary of Defense.
 
@@ -366,7 +366,7 @@ Contingent Repeal.—
 
 &emsp;“(1)
 
-In general.—If a transfer is made in accordance with section 4501(c) \[10 U.S.C. 114 note\] of the full amount of an amount described in subparagraph (A) or (B) of paragraph (2) \[no such transfer has been made\], then the section referred to in that subparagraph (including the amendments made by the section) is repealed, effective as of the date of the enactment of this Act \[Oct. 23, 1992\], and the provisions ofany Act amended by such section shall apply as if the amendments had not been enacted.
+In general.—If a transfer is made in accordance with section 4501(c) \[10 U.S.C. 114 note\] of the full amount of an amount described in subparagraph (A) or (B) of paragraph (2) \[no such transfer has been made\], then the section referred to in that subparagraph (including the amendments made by the section) is repealed, effective as of the date of the enactment of this Act \[Oct. 23, 1992\], and the provisions of any Act amended by such section shall apply as if the amendments had not been enacted.
 
 &emsp;“(2)
 

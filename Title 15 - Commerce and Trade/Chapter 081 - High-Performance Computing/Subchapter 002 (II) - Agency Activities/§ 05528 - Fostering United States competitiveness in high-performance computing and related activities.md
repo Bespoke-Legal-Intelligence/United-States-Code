@@ -32,7 +32,7 @@ The Congress finds the following:
 
 &emsp;&emsp;&emsp;(ii) manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
 
-> &emsp;&emsp;under the meaning of title III of the Act of March 3, 1933 (41 U.S.C. 10a 10d;<sup>1</sup> popularly known as the Buy American Act) as amended by the Buy American Act of 1988.
+> &emsp;&emsp;under the meaning of title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; <sup>1</sup> popularly known as the Buy American Act) as amended by the Buy American Act of 1988.
 
 #### (2) Consolidation of reports
 
@@ -46,19 +46,19 @@ The Congress finds the following:
 
 #### (2) Consultation
 
-&emsp;In conducting the comprehensive study under this subsection, the Under Secretary shall consult with approprite<sup>2</sup> Federal agencies and departments and with United States manufacturers of supercomputers and other appropriate private sector entities.
+&emsp;In conducting the comprehensive study under this subsection, the Under Secretary shall consult with approprite <sup>2</sup> Federal agencies and departments and with United States manufacturers of supercomputers and other appropriate private sector entities.
 
 #### (d) Application of Buy American Act
 
-This chapter does not affect the applicability of title III of the Act of March 3, 1933 (41 U.S.C. 10a 10d;<sup>1</sup> popularly known as the Buy American Act), as amended by the Buy American Act of 1988, to procurements by Federal agencies and departments undertaken as a part of the Program.
+This chapter does not affect the applicability of title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; <sup>1</sup> popularly known as the Buy American Act), as amended by the Buy American Act of 1988, to procurements by Federal agencies and departments undertaken as a part of the Program.
 
-(Pub. L. 102 194, title II, §208, Dec. 9, 1991, 105 Stat. 1603.)
+(Pub. L. 102–194, title II, §208, Dec. 9, 1991, 105 Stat. 1603.)
 
 #### References in Text
 
-The Trade Agreements Act of 1979, referred to in subsec. (a)(5), is Pub. L. 96 39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
+The Trade Agreements Act of 1979, referred to in subsec. (a)(5), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
-Title III of the Act of March 3, 1933, referred to in subsecs. (b)(1)(B) and (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, popularly known as the Buy American Act, which enacted sections 10a, 10b, 10b 1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables. Section 10d, included within the reference to 41 U.S.C. 10a 10d, was enacted by act Oct. 29, 1949, ch. 787, title VI, §633, 63 Stat. 1024, as amended, and was not part of title III of act Mar. 3, 1933.
+Title III of the Act of March 3, 1933, referred to in subsecs. (b)(1)(B) and (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables. Section 10d, included within the reference to 41 U.S.C. 10a–10d, was enacted by act Oct. 29, 1949, ch.787, title VI, §633, 63 Stat. 1024, as amended, and was not part of title III of act Mar. 3, 1933.
 
-The Buy American Act of 1988, referred to in subsecs. (b)(1)(B) and (d), is title VII of Pub. L. 100 418, Aug. 23, 1988, 102 Stat. 1545, which enacted section 10b 1 of Title 41, amended sections 2511 and 2515 of Title 19, Customs Duties, and sections 10a, 10b, 10c, and 10d of Title 41, enacted provisions set out as notes under section 10a of Title 41, and amended provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 10a of Title 41 and Tables.
+The Buy American Act of 1988, referred to in subsecs. (b)(1)(B) and (d), is title VII of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1545, which enacted section 10b–1 of Title 41, amended sections 2511 and 2515 of Title 19, Customs Duties, and sections 10a, 10b, 10c, and 10d of Title 41, enacted provisions set out as notes under section 10a of Title 41, and amended provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 10a of Title 41 and Tables.
 

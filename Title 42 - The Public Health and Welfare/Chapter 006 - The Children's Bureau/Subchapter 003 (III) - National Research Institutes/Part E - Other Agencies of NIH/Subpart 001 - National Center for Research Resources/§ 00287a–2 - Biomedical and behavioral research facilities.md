@@ -152,7 +152,7 @@ The Director of the Center may make a grant under subsection (a) of this section
 
 &emsp;&emsp;(A) 50 percent of the necessary cost of the construction of a proposed facility as determined by the Director; or
 
-&emsp;&emsp;(B) in the case of a multipurpose facility, 40 percent of that part of the necessary cost of construction that the Director determines to be proportionate to the contemplated use of the facility.
+&emsp;&emsp;(B) in the case of a multipurpose facility, 40 percent of that part of the necessary costof construction that the Director determines to be proportionate to the contemplated use of the facility.
 
 #### (2) Reservation of amounts
 
@@ -186,7 +186,7 @@ Not later than 6 months after June 10, 1993, the Director of the Center, after c
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated$150,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+For the purpose of carrying out this section, there are authorized to be appropriated $150,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 (July 1, 1944, ch. 373, title IV, §481A, as added June 10, 1993, Pub. L. 103–43, title XV, §1502, 107 Stat. 173.)
 

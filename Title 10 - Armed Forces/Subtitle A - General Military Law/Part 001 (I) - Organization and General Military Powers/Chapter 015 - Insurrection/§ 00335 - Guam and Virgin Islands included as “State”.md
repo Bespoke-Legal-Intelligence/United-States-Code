@@ -1,4 +1,4 @@
-### §335 . Guam and Virgin Islands included as “State”
+### §335. Guam and Virgin Islands included as “State”
 
 For purposes of this chapter, the term “State” includes the unincorporated territories of Guam and the Virgin Islands.
 

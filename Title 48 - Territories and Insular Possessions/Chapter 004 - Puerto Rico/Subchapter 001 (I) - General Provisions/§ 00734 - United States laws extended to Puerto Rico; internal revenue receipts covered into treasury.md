@@ -32,7 +32,7 @@ Amendment by act Aug. 1, 1955, effective Jan. 1, 1956, see section 301(b) of act
 
 #### Effective Date of 1946 Amendment
 
-Amendment by act Apr. 30, 1946, effective on day after date of its enactment, Apr. 30, 1946, see section 512of act Apr. 30, 1946, set out as an Effective Date note under section 1354 of Title 22, Foreign Relations and Intercourse.
+Amendment by act Apr. 30, 1946, effective on day after date of its enactment, Apr. 30, 1946, see section 512 of act Apr. 30, 1946, set out as an Effective Date note under section 1354 of Title 22, Foreign Relations and Intercourse.
 
 #### Ex. Ord. No. 9909. Exempting District Court of the United States for Puerto Rico and the Department of Justice From Making Reports Required by This Section
 

@@ -1,6 +1,6 @@
 ### §913. Authorization of appropriations
 
-(a) There is authorized to be appropriated to provide supplementary unemployment insurance under section 909 of this title not to exceed $5,000,000.
+(a) There is authorized to be appropriated to provide supplementary unemployment insuranceunder section 909 of this title not to exceed $5,000,000.
 
 (b) There is authorized to be appropriated for new career training assistance under section 911 of this title not to exceed $1,500,000.
 
@@ -30,5 +30,5 @@ Subsecs. (d), (e). Pub. L. 96–448 added subsec. (d) and redesignated former su
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 10101 of Title 49, Transportation.
+Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 

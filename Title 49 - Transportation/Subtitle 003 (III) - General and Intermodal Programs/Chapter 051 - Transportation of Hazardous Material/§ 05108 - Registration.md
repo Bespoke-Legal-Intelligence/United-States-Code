@@ -16,7 +16,7 @@ Persons Required to File.—(1) A person shall file a registration statement wit
 
 (2) The Secretary of Transportation may require any of the following persons to file a registration statement with the Secretary under this subsection:
 
-&emsp;(A) a person transporting or causing to be transported hazardous material in commerce and not required to file a registration statement under paragraph (1) of this subsection.
+&emsp;(A) a person transporting or causing to be transported hazardous material in commerceand not required to file a registration statement under paragraph (1) of this subsection.
 
 &emsp;(B) a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates.
 
@@ -26,7 +26,7 @@ Persons Required to File.—(1) A person shall file a registration statement wit
 
 (b)
 
-Form, Contents, and Limitation on Filings.—(1) A registration statement under subsection (a) of this section shall be in the formand contain information the Secretary of Transportation requires by regulation. The Secretary may use existing forms of the Department of Transportation and the Environmental Protection Agency to carry out this subsection. The statement shall include—
+Form, Contents, and Limitation on Filings.—(1) A registration statement under subsection (a) of this section shall be in the form and contain information the Secretary of Transportation requires by regulation. The Secretary may use existing forms of the Department of Transportation and the Environmental Protection Agency to carry out this subsection. The statement shall include—
 
 &emsp;(A) the name and principal place of business of the registrant;
 

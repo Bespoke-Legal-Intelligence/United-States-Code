@@ -30,25 +30,25 @@ In carrying out its functions under this section, the Commission may make grants
 
 Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
 
-(Pub. L. 92 573, §5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97 35, title XII, §1209(a), (b), Aug. 13, 1981, 95 Stat. 720.)
+(Pub. L. 92–573, §5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, §1209(a), (b), Aug. 13, 1981, 95 Stat. 720.)
 
 #### Amendments
 
-1981—Subsec. (a)(3), (4). Pub. L. 97 35, §1209(a), added pars. (3) and (4).
+1981—Subsec. (a)(3), (4). Pub. L. 97–35, §1209(a), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 97 35, §1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
+Subsec. (b)(3). Pub. L. 97–35, §1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97 35, effective Aug. 13, 1981, see section 1215 of Pub. L. 97 35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35, effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
 #### Study of Aversive Agents
 
-Pub. L. 101 608, title II, §204, Nov. 16, 1990, 104 Stat. 3124, provided that: “The Consumer Product Safety Commission shall conduct a study of requiring manufacturers of consumer products to include aversive agents, as appropriate, in products which present a hazard if ingested to determine the potential effectiveness of the aversive agents in deterring ingestion. In conducting the study, the Commission shall consult with appropriate consumer, health, and business organizations and appropriate government agencies. The Commission shall report to Congress the status of the study within one year of the date of the enactment of this Act \[Nov. 16, 1990\] and shall complete the study not later than 2 years after such date of enactment.”
+Pub. L. 101–608, title II, §204, Nov. 16, 1990, 104 Stat. 3124, provided that: “The Consumer Product Safety Commission shall conduct a study of requiring manufacturers of consumer products to include aversive agents, as appropriate, in products which present a hazard if ingested to determine the potential effectiveness of the aversive agents in deterring ingestion. In conducting the study, the Commission shall consult with appropriate consumer, health, and business organizations and appropriate government agencies. The Commission shall report to Congress the status of the study within one year of the date of the enactment of this Act \[Nov. 16, 1990\] and shall complete the study not later than 2 years after such date of enactment.”
 
 #### Fire Safe Cigarette Act of 1990
 
-Pub. L. 101 352, Aug. 10, 1990, 104 Stat. 405, provided that:
+Pub. L. 101–352, Aug. 10, 1990, 104 Stat. 405, provided that:
 
 #### “SECTION 1. SHORT TITLE; FINDINGS.
 
@@ -90,7 +90,7 @@ Center for Fire Research.—At the request of the Consumer Product Safety Commis
 
 Commission.—The Consumer Product Safety Commission shall—
 
-&emsp;“(1) design and implement a study to collect baseline and followup data about the characteristics of cigarettes, products ignited, and smokers involved in fires, and
+&emsp;“(1) design and implement a study to collect baseline and followup data about the characteristics ofcigarettes, products ignited, and smokers involved in fires, and
 
 &emsp;“(2) develop information on societal costs of cigarette-ignited fires.
 
@@ -124,11 +124,11 @@ Construction.—Subsection (a) does not authorize the withholding of any informa
 
 #### Additional Reporting Time
 
-Pub. L. 99 500, §110, Oct. 18, 1986, 100 Stat. 1783 348, and Pub. L. 99 591, §110, Oct. 30, 1986, 100 Stat. 3341 348, provided that: “The Interagency Committee on Cigarette and Little Cigar Fire Safety, established pursuant to Public Law 98 567 \[set out as a note below\], shall have an additional six months to complete its final technical report and submit policy recommendations to the Congress.”
+Pub. L. 99–500, §110, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–591, §110, Oct. 30, 1986, 100 Stat. 3341–348, provided that: “The Interagency Committee on Cigarette and Little Cigar Fire Safety, established pursuant to Public Law 98–567 \[set out as a note below\], shall have an additional six months to complete its final technical report and submit policy recommendations to the Congress.”
 
 #### Cigarette Safety Act of 1984
 
-Pub. L. 98 567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100 418, title V, §5115(c), Aug. 23, 1988, 102Stat. 1433, provided: “That this Act may be cited as the ‘Cigarette Safety Act of 1984’.
+Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided: “That this Act may be cited as the ‘Cigarette Safety Act of 1984’.
 
 “Sec. 2. (a) There is established the Interagency Committee on Cigarette and Little Cigar Fire Safety (hereinafter in this Act referred to as the ‘Interagency Committee’) which shall consist of—
 

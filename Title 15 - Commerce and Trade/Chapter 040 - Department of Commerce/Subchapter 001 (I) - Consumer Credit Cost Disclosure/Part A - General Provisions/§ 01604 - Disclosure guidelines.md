@@ -14,17 +14,17 @@ Model disclosure forms and clauses shall be adopted by the Board after notice du
 
 #### (d) Effective dates of regulations containing new disclosure requirements
 
-Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows byat least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
+Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
 
-(Pub. L. 90 321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96 221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103 325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194.)
+(Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103 325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
+1994—Subsec. (a). Pub. L. 103–325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
 
-1980—Pub. L. 96 221 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+1980—Pub. L. 96–221 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96 221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 

@@ -22,7 +22,7 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–546, §306, struck out “and” before “(5)” and substituted “and flood control, which are nonreimbursable under general provisions of law applicable to such projects; and (6) that portion of the estimated cost of constructing the project which is allocable to flood control and which would be nonreimbursable under general provisions of law applicable to projects constructed by the Secretary of the Army.” for “, which are nonreimbursable under general provisions of law applicable to such projects: <i>Provided</i>, That the cost of constructing the project as used in this subsection shall be exclusive of the cost of lands and interests in land;”.
+1986—Subsec. (b). Pub. L. 99–546, §306, struck out “and” before “(5)” and substituted “and flood control, which are nonreimbursable under general provisions of law applicable to such projects; and (6) that portion of the estimated cost of constructing the project which is allocable to flood control and which would be nonreimbursable under general provisions of law applicable to projects constructed by the Secretary of the Army.” for “, which are nonreimbursable under general provisions of law applicable to such projects: <i>Provided</i>, Thatthe cost of constructing the project as used in this subsection shall be exclusive of the cost of lands and interests in land;”.
 
 Subsec. (c)(1). Pub. L. 99–546, §307(a), substituted “forty” for “fifty”.
 

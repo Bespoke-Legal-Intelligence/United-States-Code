@@ -1,4 +1,4 @@
-### §9511 . Definitions
+### §9511. Definitions
 
 In this chapter:
 

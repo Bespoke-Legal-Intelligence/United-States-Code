@@ -1,6 +1,6 @@
 ### §2114. Students: selection; status; obligation
 
-(a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to a career in the uniformed services (as defined in section 1072(1) of this title).
+(a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to acareer in the uniformed services (as defined in section 1072(1) of this title).
 
 (b) Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified, unless they are covered by section 2115 of this title. Medical students who graduate shall be required, except as provided in section 2115 of this title, to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table:
 
@@ -86,7 +86,7 @@ Section 533(d) of Pub. L. 101–510 provided that: “The amendment made by subs
 
 #### Effective Date of 1989 Amendment
 
-Section 511(e) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, title V, §533(c), Nov. 5, 1990, 104 Stat.1564, provided that: “The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
+Section 511(e) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
 
 #### Effective Date of 1980 Amendment
 

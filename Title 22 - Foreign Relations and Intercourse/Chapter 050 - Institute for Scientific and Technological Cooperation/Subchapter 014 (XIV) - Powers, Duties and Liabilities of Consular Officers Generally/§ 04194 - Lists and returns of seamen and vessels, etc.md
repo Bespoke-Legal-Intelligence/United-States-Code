@@ -16,7 +16,7 @@ Section was formerly classified to section 1174 of this title, and prior thereto
 
 #### Transfer of Functions
 
-Certain shipping and navigation functions of Secretary of Commerce transferred to Commandant ofCoast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946, §§101 to 104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, 1098 set out in the Appendix to Title 5, Government Organization and Employees.
+Certain shipping and navigation functions of Secretary of Commerce transferred to Commandant of Coast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946, §§101 to 104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, 1098 set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of all officers of Department of the Treasury \[which included Commandant of Coast Guard and Commissioner of Customs\], and functions of all agencies and employees of Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Coast Guard was generally a service in Department of the Treasury but such Plan excepted, from transfer, functions of Coast Guard, and of Commandant thereof, when Coast Guard was operating as a part of Navy under section 3 of Title 14, Coast Guard.
 

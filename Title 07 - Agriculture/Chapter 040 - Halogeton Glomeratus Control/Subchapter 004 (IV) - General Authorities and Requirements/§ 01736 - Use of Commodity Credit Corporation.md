@@ -1,0 +1,82 @@
+### §1736. Use of Commodity Credit Corporation
+
+#### (a) In general
+
+The Commodity Credit Corporation shall acquire and make available such agricultural commodities (that have been determined to be available under section 1731(a) of this title) as necessary to carry out agreements under this chapter.
+
+#### (b) Included expenses
+
+With respect to commodities made available under this chapter, the Commodity Credit Corporation may pay—
+
+&emsp;(1) the cost of acquiring such commodities;
+
+&emsp;(2) the costs associated with packaging, enrichment, preservation, and fortification of such commodities;
+
+&emsp;(3) the processing, transportation, handling, and other incidental costs up to the time of the delivery of such commodities free on board vessels in United States ports;
+
+&emsp;(4) the ocean freight charges from United States ports to designated ports of entry abroad;
+
+&emsp;(5) the costs associated with transporting such commodities from United States ports to designated points of entry abroad in the case—
+
+&emsp;&emsp;(A) of landlocked countries;
+
+&emsp;&emsp;(B) of ports that cannot be used effectively because of natural or other disturbances;
+
+&emsp;&emsp;(C) of the unavailability of carriers to a specific country; or
+
+&emsp;&emsp;(D) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
+
+&emsp;(6) in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs; and
+
+&emsp;(7) the charges for general average contributions arising out of the ocean transport of commodities transferred pursuant thereto.
+
+#### (c) Commodity Credit Corporation
+
+The funds, facilities, and authorities of the Commodity Credit Corporation may be used to carry out this chapter.
+
+#### (d) Availability of funds
+
+Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.
+
+(July 10, 1954, ch. 469, title IV, §406, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(5), 76 Stat. 611; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; Dec. 20, 1975, Pub. L. 94–161, title II, §214, 89 Stat. 855; Nov. 5, 1990, Pub. L. 101–508, title I, §1204(b)(2), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650; Dec. 13, 1991, Pub. L. 102–237, title III, §323, 105 Stat. 1857.)
+
+#### Amendments
+
+1991—Subsec. (b)(5)(D). Pub. L. 102–237 substituted “time” for “items”.
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing appropriations and authorizing the President to administer a program of farmer-to-farmer assistance, enter into agreements or make grants to train farmers in recipient countries, seek exchange of farm youth and farm leaders with developing countries, conduct research in tropical and subtropical agriculture, coordinate program with other foreign assistance programs, establish conditions for eligibility in farmer-to-farmer program, and pay costs of program through use of foreign currencies accruing from sale of commodities.
+
+Subsec. (d). Pub. L. 101–508 added subsec. (d).
+
+1975—Subsec. (a). Pub. L. 94–161, §214(1), substituted “the President” for “the Secretary of Agriculture”.
+
+Subsec. (a)(1). Pub. L. 94–161, §214(2), struck out “through existing agencies of the Department of Agriculture” after “establish and administer”.
+
+Subsec. (a)(5). Pub. L. 94–161, §214(3), substituted “with other foreign assistance activities of the United States” for “with the activities of the Peace Corps, the Agency for International Development, and other agencies of the United States and to assign, upon agreement with such agencies, such persons to work with and under the administration of such agencies: <i>Provided</i>, That nothing in this section shall be construed to infringe upon the powers or functions of the Secretary of State”.
+
+1966—Pub. L. 89–808 substituted food production assistance provisions for provision respecting applicability of other laws, now provided for by section 1707(d) of this title.
+
+1962—Pub. L. 87–703 made section 1701(b) and (c) applicable to this subchapter.
+
+#### Effective Date of 1990 Amendments
+
+Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
+
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
+
+#### Farmer-to-Farmer Programs for Fiscal Years 1986 Through 1990
+
+Pub. L. 99–198, title XI, §1107, Dec. 23, 1985, 99 Stat. 1467, as amended by Pub. L. 100–277, §6, Apr. 4, 1988, 102 Stat. 69, provided that:
+
+“(a) Notwithstanding any other provision of law, not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending September 30, 1986 through September 30, 1990, to carry out the Agricultural Trade Development and Assistance Act of 1954 \[this chapter\] shall be used to carry out paragraphs (1) and (2) of section 406(a) of that Act \[7 U.S.C. 1736(a)(1), (2)\]. Any such funds used to carry out paragraph (2) of section 406(a) shall not constitute more than one-fourth of the funds used as provided by the first sentence of this subsection, shall be used for activities in direct support of the farmer-to-farmer program under paragraph (1) of section 406(a), and shall be administered whenever possible in conjunction with programs under sections 296 through 300 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2220a–2220e\].
+
+“(b) Not later than 120 days after the date of enactment of this Act \[Dec. 23, 1985\], the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, shall submit to Congress a report indicating the manner in which the Agency intends to implement the provisions of paragraphs (1) and (2) of section 406(a) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736(a)(1), (2)\] with the funds made available under subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1431 of this title; title 22 section 5423.
+

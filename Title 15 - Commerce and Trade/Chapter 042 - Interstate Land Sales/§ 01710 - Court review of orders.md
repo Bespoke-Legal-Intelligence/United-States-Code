@@ -8,7 +8,7 @@ Any person, aggrieved by an order or determination of the Secretary issued after
 
 The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Secretary's order.
 
-(Pub. L. 90 448, title XIV, §1411, Aug. 1, 1968, 82 Stat. 595.)
+(Pub. L. 90–448, title XIV, §1411, Aug. 1, 1968, 82 Stat. 595.)
 
 #### Section Referred to in Other Sections
 

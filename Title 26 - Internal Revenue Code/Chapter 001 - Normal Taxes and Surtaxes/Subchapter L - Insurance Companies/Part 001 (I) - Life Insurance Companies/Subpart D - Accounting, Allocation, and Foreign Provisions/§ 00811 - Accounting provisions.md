@@ -6,7 +6,7 @@ All computations entering into the determination of the taxes imposed by this pa
 
 &emsp;(1) under an accrual method of accounting, or
 
-&emsp;(2) to the extent permitted under regulations prescribed by the Secretary, under a combination of an accrual method of accounting with any other method permitted by this chapter (other than the cash receipts and disbursements method).
+&emsp;(2) to the extent permitted under regulations prescribed by the Secretary, under a combination of an accrual method of accounting with any other method permitted by this chapter\(other than the cash receipts and disbursements method).
 
 > To the extent not inconsistent with the preceding sentence or any other provision of this part, all such computations shall be made in a manner consistent with the manner required for purposes of the annual statement approved by the National Association of Insurance Commissioners.
 
@@ -24,7 +24,7 @@ All computations entering into the determination of the taxes imposed by this pa
 
 #### (A) Amortization of bond premium
 
-&emsp;&emsp;In the case of any bond (as defined in section 171(d)), the amount of bond premium,and the amortizable bond premium for the taxable year, shall be determined under section 171(b) as if the election set forth in section 171(c) had been made.
+&emsp;&emsp;In the case of any bond (as defined in section 171(d)), the amount of bond premium, and the amortizable bond premium for the taxable year, shall be determined under section 171(b) as if the election set forth in section 171(c) had been made.
 
 #### (B) Convertible evidence of indebtedness
 

@@ -10,7 +10,7 @@ It is intended that the Commission, in the performance of its duties, will—
 
 &emsp;(3) give critical attention to the conditions and controls involved in the administration of Federal grant programs;
 
-&emsp;(4) make available technical assistance to the executive and legislative branches of theFederal Government in the review of proposed legislation to determine its overall effect on the Federal system;
+&emsp;(4) make available technical assistance to the executive and legislative branches of the Federal Government in the review of proposed legislation to determine its overall effect on the Federal system;
 
 &emsp;(5) encourage discussion and study at an early stage of emerging public problems that are likely to require intergovernmental cooperation;
 
@@ -22,7 +22,7 @@ It is intended that the Commission, in the performance of its duties, will—
 
 #### Codification
 
-Section was formerly classified to section 2372 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2372 of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may make grants to States, political subdivisions, and other public entities for preventive health service programs for the prevention, control, and elimination of tuberculosis.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States, political subdivisions, and other public entities for preventive health service programs for the prevention, control, and elimination of tuberculosis.
 
 #### (b) Research, demonstration projects, education, and training
 

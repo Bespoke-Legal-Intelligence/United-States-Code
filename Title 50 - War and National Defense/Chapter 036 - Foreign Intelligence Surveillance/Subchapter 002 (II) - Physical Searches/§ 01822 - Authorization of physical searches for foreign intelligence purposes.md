@@ -32,7 +32,7 @@
 
 #### (b) Application for order; authorization
 
-Applications for a court order under this subchapter are authorized if the President has, bywritten authorization, empowered the Attorney General to approve applications to the Foreign Intelligence Surveillance Court. Notwithstanding any other provision of law, a judge of the court to whom application is made may grant an order in accordance with section 1824 of this title approving a physical search in the United States of the premises, property, information, or material of a foreign power or an agent of a foreign power for the purpose of collecting foreign intelligence information.
+Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the Foreign Intelligence Surveillance Court. Notwithstanding any other provision of law, a judge of the court to whom application is made may grant an order in accordance with section 1824 of this title approving a physical search in the United States of the premises, property, information, or material of a foreign power or an agent of a foreign power for the purpose of collecting foreign intelligence information.
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
@@ -47,6 +47,36 @@ The court of review established under section 1803(b) of this title shall have j
 Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of Central Intelligence.
 
 (Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444.)
+
+#### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
+
+Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 (“Act”) (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
+
+Section 1. Pursuant to section 302(a)(1) of the Act, the Attorney General is authorized to approve physical searches, without a court order, to acquire foreign intelligence information for periods of up to one year, if the Attorney General makes the certifications required by that section.
+
+Sec. 2. Pursuant to section 302(b) of the Act, the Attorney General is authorized to approve applications to the Foreign Intelligence Surveillance Court under section 303 of the Act to obtain orders for physical searches for the purpose of collecting foreign intelligence information.
+
+Sec. 3. Pursuant to section 303(a)(7) of the Act, the following officials, each of whom is employed in the area of national security or defense, is designated to make the certifications required by section 303(a)(7) of the Act in support of applications to conduct physical searches:
+
+&emsp;(a) Secretary of State;
+
+&emsp;(b) Secretary of Defense;
+
+&emsp;(c) Director of Central Intelligence;
+
+&emsp;(d) Director of the Federal Bureau of Investigation,
+
+&emsp;(e) Deputy Secretary of State;
+
+&emsp;(f) Deputy Secretary of Defense; and
+
+&emsp;(g) Deputy Director of Central Intelligence.
+
+> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

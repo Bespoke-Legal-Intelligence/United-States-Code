@@ -48,7 +48,7 @@ Aug. 2, 1946, ch. 753, §§205, 206(1st sentence), 60 Stat. 837.
 
 In clause (1), the words “at the seat of government or elsewhere” are omitted as surplus.
 
-In clause (2), the words “estimate the cost to the United States Government of complying with each restriction on expenditures” are substituted for “make a full and complete study of restrictions . . . limiting the expenditure therein with a view to determining the cost to the Government incident to complying with such restrictions”, and the word “desirable” is substituted for “necessary or desirable”, to eliminate unnecessary words.
+In clause (2), the words “estimate the cost to the United States Government of complying with each restriction on expenditures” are substituted for “make afull and complete study of restrictions . . . limiting the expenditure therein with a view to determining the cost to the Government incident to complying with such restrictions”, and the word “desirable” is substituted for “necessary or desirable”, to eliminate unnecessary words.
 
 In clause (3), the words “executive agency” are substituted for “agency in the executive branch of the Government (including Government corporations)” because of section 102 of the revised title.
 

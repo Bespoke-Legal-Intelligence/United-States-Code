@@ -18,5 +18,5 @@ The Secretary, acting through appropriate agencies and contractors, shall initia
 
 &emsp;(8) overcoming institutional barriers to widespread use including but not limited to restrictions on the transportation of methane for vehicular use through tunnels, and the potential expansion of the distribution of methane for vehicular purposes.
 
-(Pub. L. 96 512, §6, Dec. 12, 1980, 94 Stat. 2830.)
+(Pub. L. 96–512, §6, Dec. 12, 1980, 94 Stat. 2830.)
 

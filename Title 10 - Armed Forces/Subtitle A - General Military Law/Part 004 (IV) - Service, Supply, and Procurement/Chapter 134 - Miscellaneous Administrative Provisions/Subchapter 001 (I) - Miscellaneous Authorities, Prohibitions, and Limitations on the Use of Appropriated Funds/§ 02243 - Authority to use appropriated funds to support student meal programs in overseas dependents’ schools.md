@@ -10,7 +10,7 @@ Limitation.—The authority provided by subsection (a) may be used only if the S
 
 (c)
 
-Determining Average Price.—In determining the average price paid by students in theUnited States for meals under a school meal program, the Secretary of Defense shall exclude free and reduced price meals provided pursuant to income guidelines.
+Determining Average Price.—In determining the average price paid by students in the United States for meals under a school meal program, the Secretary of Defense shall exclude free and reduced price meals provided pursuant to income guidelines.
 
 (d)
 

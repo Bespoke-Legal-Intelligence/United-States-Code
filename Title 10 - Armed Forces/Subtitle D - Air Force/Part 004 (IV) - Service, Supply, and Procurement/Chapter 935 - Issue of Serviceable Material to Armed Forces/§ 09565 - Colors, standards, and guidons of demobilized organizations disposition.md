@@ -1,4 +1,4 @@
-### §9565 . Colors, standards, and guidons of demobilized organizations: disposition
+### §9565. Colors, standards, and guidons of demobilized organizations: disposition
 
 (a) The Secretary of the Air Force may dispose of colors, standards, and guidons of demobilized organizations of the Air Force, as follows:
 

@@ -34,5 +34,5 @@ From funds made available to carry out this subpart under section 7104(2) of thi
 
 The Secretary shall use a peer review process in reviewing applications for funds under this section.
 
-(Pub. L. 89 10, title IV, §4121, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3686.)
+(Pub. L. 89–10, title IV, §4121, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3686.)
 

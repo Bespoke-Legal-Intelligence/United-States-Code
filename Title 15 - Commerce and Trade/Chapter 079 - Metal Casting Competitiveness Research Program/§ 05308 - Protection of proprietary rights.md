@@ -18,5 +18,5 @@ The Secretary, for a period of up to 5 years after the development of informatio
 
 With respect to patent rights, the Institutes shall be treated in the same manner as are nonprofit organizations and small business firms under chapter 18 of title 35, notwithstanding any provisions to the contrary contained in that chapter.
 
-(Pub. L. 101 425, §9, Oct. 15, 1990, 104 Stat. 919.)
+(Pub. L. 101–425, §9, Oct. 15, 1990, 104 Stat. 919.)
 

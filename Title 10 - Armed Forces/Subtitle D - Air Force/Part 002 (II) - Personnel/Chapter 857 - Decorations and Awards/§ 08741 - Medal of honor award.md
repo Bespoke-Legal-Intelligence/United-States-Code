@@ -1,4 +1,4 @@
-### §8741 . Medal of honor: award
+### §8741. Medal of honor: award
 
 The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to a person who, while a member of the Air Force, distinguishes himself conspicuously by gallantry and intrepidity at the risk of his life above and beyond the call of duty—
 
@@ -36,5 +36,5 @@ Award of Medal of Honor to members of Army and Navy, see sections 3741 and 6241 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8748 of this title.
+This section is referred to in section 8748 of this title; title 18 section 704.
 

@@ -50,11 +50,11 @@ A charitable remainder annuity trust and a charitable remainder unitrust shall, 
 
 &emsp;&emsp;(A) the amount of the trust income, if such amount is less than the amount required to be distributed under paragraph (2)(A), and
 
-&emsp;&emsp;(B) any amount of the trust income which is in excess of the amount required to be distributed under paragraph (2)(A), to the extent that (by reason of subparagraph (A)) the aggregate of the amounts paid in prior years was less than the aggregate of such required amounts.
+&emsp;&emsp;(B) any amount of the trust income which is in excess of the amount required to be distributed under paragraph (2)(A), to the extent that (by reason of subparagraph (A)) the aggregate of the amounts paid in prior yearswas less than the aggregate of such required amounts.
 
 #### (e) Valuation for purposes of charitable contribution
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percentof the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
 
 #### (f) Certain contingencies permitted
 
@@ -88,5 +88,5 @@ Section applicable to transfers in trust made after July 31, 1969, see section 2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 644, 2055, 2056, 2207B, 2522, 2652, 6049 of this title.
+This section is referred to in sections 170, 644, 2055, 2056, 2207B, 2522, 2652, 6049 of this title; title 15 section 80a–3.
 

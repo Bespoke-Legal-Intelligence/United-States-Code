@@ -4,7 +4,7 @@ The President or the Secretary concerned may drop from the rolls of the armed fo
 
 &emsp;(1) who has been absent without authority for at least three months; or
 
-&emsp;(2) who is sentenced to confinement in a Federal or State penitentiary or correctionalinstitution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
+&emsp;(2) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2998.)
 

@@ -42,10 +42,6 @@ For the purposes of this subchapter, the term—
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2738, §581; renumbered §571 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(1), (2), Aug. 26, 1992, 106 Stat. 944, 946.)
 
-#### Termination of Section
-
-<i>For termination of section by section 11 of Pub. L. 101–552, see Termination Date; Savings Provision note below.</i>
-
 #### Codification
 
 Section 571 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2256 of Title 7, Agriculture.
@@ -56,7 +52,7 @@ A prior section 571 was renumbered section 591 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–354, §3(b)(2), renumbered section 581 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §3(b)(2), renumbered section 581 of this title as this section.
 
 Par. (3). Pub. L. 102–354, §5(b)(1), inserted comma after “including”.
 
@@ -138,6 +134,8 @@ Procedures for Grants and Contracts.—
 
 &emsp;“(B) For purposes of this section, the term ‘Federal Acquisition Regulation’ means the single system of Government-wide procurement regulation referred to in section 6(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(a)).”
 
+\[For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of this title.\]
+
 #### Use of Nonattorneys
 
 Section 9 of Pub. L. 101–552 provided that:
@@ -170,7 +168,7 @@ Disqualification of Representation or Assistance.—Any agency that adopts regul
 
 #### Definitions
 
-Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, providedthat: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
+Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
 
 #### Section Referred to in Other Sections
 

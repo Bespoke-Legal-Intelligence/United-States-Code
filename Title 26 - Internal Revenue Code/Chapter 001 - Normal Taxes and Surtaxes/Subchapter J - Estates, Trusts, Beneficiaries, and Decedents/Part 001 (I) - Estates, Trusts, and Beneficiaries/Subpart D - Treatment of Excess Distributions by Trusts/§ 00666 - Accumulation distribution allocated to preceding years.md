@@ -2,7 +2,7 @@
 
 #### (a) Amount allocated
 
-In the case of a trust which is subject to subpart C, the amount of the accumulation distribution of such trust for a taxable year shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years, commencing with the earliest of such years, to the extent that such amount exceeds the total of any undistributed net income for all earlier preceding taxable years. The amount deemed to be distributed in any such preceding taxable year under the preceding sentence shall not exceed the undistributed net income for such preceding taxable year. For purposes of this subsection, undistributed net income for each of such preceding taxable years shall becomputed without regard to such accumulation distribution and without regard to any accumulation distribution determined for any succeeding taxable year.
+In the case of a trust which is subject to subpart C, the amount of the accumulation distribution of such trust for a taxable year shall be deemed to be an amount within the meaningof paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years, commencing with the earliest of such years, to the extent that such amount exceeds the total of any undistributed net income for all earlier preceding taxable years. The amount deemed to be distributed in any such preceding taxable year under the preceding sentence shall not exceed the undistributed net income for such preceding taxable year. For purposes of this subsection, undistributed net income for each of such preceding taxable years shall be computed without regard to such accumulation distribution and without regard to any accumulation distribution determined for any succeeding taxable year.
 
 #### (b) Total taxes deemed distributed
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to distributions made in taxable years beginning after Dec. 31,1975, see section 701(h) of Pub. L. 94–455, set out as a note under section 667 of this title.
+Amendment by Pub. L. 94–455 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(h) of Pub. L. 94–455, set out as a note under section 667 of this title.
 
 #### Effective Date of 1969 Amendment
 

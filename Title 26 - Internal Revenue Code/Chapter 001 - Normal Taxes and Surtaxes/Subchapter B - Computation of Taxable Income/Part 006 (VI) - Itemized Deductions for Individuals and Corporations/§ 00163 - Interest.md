@@ -14,7 +14,7 @@ There shall be allowed as a deduction all interest paid or accrued within the ta
 
 &emsp;&emsp;(B) in which carrying charges are separately stated but the interest charge cannot be ascertained,
 
-> &emsp;then the payments made during the taxable year under the contract shall be treated for purposes of this section as if they included interest equal to 6 percent of the average unpaid balance under the contract during the taxable year. For purposes of the preceding sentence, the average unpaid balance is the sum of the unpaid balance outstanding on the first day of each month beginning during the taxable year, divided by 12. For purposes of this paragraph, the term “educational services” means any service (including lodging) which is purchased from an educational organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization.
+> &emsp;then the payments made during the taxable year under the contract shall be treated for purposes of this section as if they included interest equal to 6 percent of the average unpaid balance under the contract during the taxable year. For purposes of the preceding sentence, the average unpaid balance is the sum of the unpaid balance outstanding on the first day of each month beginning during the taxable year,divided by 12. For purposes of this paragraph, the term “educational services” means any service (including lodging) which is purchased from an educational organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization.
 
 #### (2) Limitation
 
@@ -90,7 +90,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (E) Reduction in investment income during phase-in of passive loss rules
 
-&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion ofsuch passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
+&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
 
 #### (5) Property held for investment
 
@@ -317,7 +317,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (g) Reduction of deduction where section 25 credit taken
 
-The amount of the deduction under this section for interest paid or accrued during any taxable year on indebtedness with respect to which a mortgage credit certificate has been issued under section 25 shall be reduced by the amount of the credit allowable with respect to such interest under section 25 (determined without regard to section 26).
+The amount of the deduction under this section for interest paid or accrued during any taxable year on indebtedness with respect to which a mortgage credit certificate has been issued under section 25 shall be reduced by the amountof the credit allowable with respect to such interest under section 25 (determined without regard to section 26).
 
 #### (h) Disallowance of deduction for personal interest
 
@@ -395,7 +395,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Reduction in $1,000,000 limitation
 
-&emsp;&emsp;&emsp;The limitation of subparagraph (B)(ii) shall be reduced (but not below zero) bythe aggregate amount of outstanding pre-October 13, 1987, indebtedness.
+&emsp;&emsp;&emsp;The limitation of subparagraph (B)(ii) shall be reduced (but not below zero) by the aggregate amount of outstanding pre-October 13, 1987, indebtedness.
 
 #### (iii) Pre-October 13, 1987, indebtedness
 
@@ -411,7 +411,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(I) the expiration of the term of the indebtedness described in clause (iii)(I), or
 
-&emsp;&emsp;&emsp;&emsp;(II) if the principal of the indebtedness described in clause (iii)(I) is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
+&emsp;&emsp;&emsp;&emsp;(II) if the principal of the indebtedness described in clause (iii)(I) is not amortized over its term, the expiration of theterm of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
 
 #### (4) Other definitions and special rules
 
@@ -555,7 +555,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;For purposes of this paragraph, the term “ratio of debt to equity” means the ratio which the total indebtedness of the corporation bears to the sum of its money and all other assets reduced (but not below zero) by such total indebtedness. For purposes of the preceding sentence—
 
-&emsp;&emsp;&emsp;(i) the amount taken into account with respect to any asset shall be the adjustedbasis thereof for purposes of determining gain,
+&emsp;&emsp;&emsp;(i) the amount taken into account with respect to any asset shall be the adjusted basis thereof for purposes of determining gain,
 
 &emsp;&emsp;&emsp;(ii) the amount taken into account with respect to any indebtedness with original issue discount shall be its issue price plus the portion of the original issue discount previously accrued as determined under the rules of section 1272 (determined without regard to subsection (a)(7) or (b)(4) thereof), and
 
@@ -579,7 +579,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any personwho is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
 
 #### (B) Special rule for certain partnerships
 
@@ -829,7 +829,7 @@ Limitation on period of refinancing.—Subclause (II) of clause (i) shall not ap
 
 &emsp;&emsp;&emsp;“(I) the expiration of the term of the indebtedness described in clause (i)(I), or
 
-&emsp;&emsp;&emsp;“(II) if the principal of the indebtedness described in clause (i)(I) is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, thedate which is 30 years after the date of such refinancing).
+&emsp;&emsp;&emsp;“(II) if the principal of the indebtedness described in clause (i)(I) is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such refinancing).
 
 &emsp;“(D)
 
@@ -919,7 +919,7 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13206(d)(1) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992,see section 13206(d)(3) of Pub. L. 103–66 set out as a note under section 1 of this title.
+Amendment by section 13206(d)(1) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13206(d)(3) of Pub. L. 103–66 set out as a note under section 1 of this title.
 
 Section 13228(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to interest paid or accrued in taxable years beginning after December 31, 1993.”
 

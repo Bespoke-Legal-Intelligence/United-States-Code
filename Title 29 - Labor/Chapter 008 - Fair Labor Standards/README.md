@@ -9,7 +9,7 @@
 | (a) | Creation of Wage and Hour Division in Department of Labor; Administrator. |
 | (b) | Appointment, selection, classification, and promotion of employees by Administrator. |
 | (c) | Principal office of Administrator; jurisdiction. |
-| (d) | Annual report to Congress; studies of exemptions to hour and wage provisions and means to prevent curtailment of employment opportunities. |
+| (d) | Biennial report to Congress; studies of exemptions to hour and wage provisions and means to prevent curtailment of employment opportunities. |
 | (e) | Study of effects of foreign production on unemployment; report to President and Congress. |
 | (f) | Employees of Library of Congress; administration of provisions by Office of Personnel Management. |
 | [205\.](%C2%A7%2000205%20-%20Special%20industry%20committees%20for%20American%20Samoa.md) | Special industry committees for American Samoa. |
@@ -93,7 +93,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 251 to 262, 795, 1802 of this title; title 2 section 60k; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 1437t, 3056, 5044, 8009, 8011, 12655<i>l.</i>
+This chapter is referred to in sections 251 to 262, 795, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 1437t, 3056, 5044, 8009, 8011, 12655<i>l.</i>
 
 
 ---

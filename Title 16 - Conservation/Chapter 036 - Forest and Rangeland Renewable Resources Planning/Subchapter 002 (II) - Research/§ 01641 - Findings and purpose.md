@@ -32,5 +32,5 @@ Section 9 of Pub. L. 95–307 which provided that Pub. L. 95–307 (enacting thi
 
 #### Short Title
 
-For short title of Pub. L. 95–307, June 30, 1978, 92 Stat. 353, as the Forest and Rangeland Renewable Resources Research Act of 1978, see Short Title of 1978 Amendment note set out under section 1600 of this title.
+For short title of Pub. L. 95–307, June 30, 1978, 92 Stat. 353, as the Forest and Rangeland Renewable ResourcesResearch Act of 1978, see Short Title of 1978 Amendment note set out under section 1600 of this title.
 

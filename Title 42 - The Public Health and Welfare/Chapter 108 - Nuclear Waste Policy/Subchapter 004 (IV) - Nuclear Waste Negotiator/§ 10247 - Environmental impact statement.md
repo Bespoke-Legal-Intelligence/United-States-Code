@@ -16,7 +16,7 @@ A final environmental impact statement shall be prepared by the Secretary under 
 
 (B) In any such statement prepared with respect to a repository to be constructed under this subchapter at a site other than the Yucca Mountain site, the Nuclear Regulatory Commission need not consider the need for a repository, the time of initial availability of a repository, or nongeologic alternatives to such site but shall consider the Yucca Mountain site as an alternate to such site in the preparation of such statement.
 
-(Pub. L. 97–425, title IV, §407, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–246.)
+(Pub. L. 97–425, title IV, §407, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat.1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–246.)
 
 #### References in Text
 

@@ -24,7 +24,7 @@ Coverage on pro rata or “pass-through” basis.—
 
 &emsp;&emsp;(i)
 
-In general.—Except as provided in clause (ii), for the purpose of determining the amount of insurance due under subparagraph (B), the Corporation shall provide deposit insurance coverage with respect to deposits accepted by any insured depository institution on a pro rata or “pass-through” basis to a participant in or beneficiary of an employee benefit plan (as defined in subsection (a)(8)(B)(ii) of this section), including any eligible deferred compensation plan described in section 457 of title 26.
+In general.—Except as provided in clause (ii), for the purpose of determining the amount of insurance due under subparagraph (B), the Corporation shall provide deposit insurance coverage with respect to deposits accepted by any insured depository institution on a pro rata or “pass-through” basis to a participant in or beneficiary of anemployee benefit plan (as defined in subsection (a)(8)(B)(ii) of this section), including any eligible deferred compensation plan described in section 457 of title 26.
 
 &emsp;&emsp;(ii)
 
@@ -90,7 +90,7 @@ Maintenance and use of funds.—The Bank Insurance Fund established under paragr
 
 &emsp;(B)
 
-Limitation on use.—Notwithstanding any provision of law other than section 1823(c)(4)(G) of this title, the Bank Insurance Fund and the Savings Association Insurance Fund shall not be used in any manner to benefit any shareholder of—
+Limitation on use.—Notwithstanding any provision of law other than section 1823(c)(4)(G) of this title, the Bank Insurance Fund and the Savings Association InsuranceFund shall not be used in any manner to benefit any shareholder of—
 
 &emsp;&emsp;(i) any insured depository institution for which the Corporation or the Resolution Trust Corporation has been appointed conservator or receiver, in connection with any type of resolution by the Corporation or the Resolution Trust Corporation;
 
@@ -170,7 +170,7 @@ Certification conditions on availability of funding.—No amount appropriated fo
 
 &emsp;&emsp;&emsp;(II) will report directly to the Chairperson of the Corporation; and
 
-&emsp;&emsp;&emsp;(III) will have such authority and duties of chief financial officers under section 902 of title 31 as the Board of Directors of the Corporation determines to be appropriate with respect to the Corporation;
+&emsp;&emsp;&emsp;(III) will have such authority and duties of chief financial officers under section 902of title 31 as the Board of Directors of the Corporation determines to be appropriate with respect to the Corporation;
 
 &emsp;&emsp;(vii) the Corporation has provided for the appointment of a senior officer whose responsibilities shall include setting uniform standards for contracting and contracting enforcement in connection with the administration of the Fund;
 
@@ -228,7 +228,7 @@ Exception to subparagraph (d).—Notwithstanding subparagraph (D), no payment ma
 
 &emsp;(H)
 
-Appearance upon request.—The Secretary of the Treasury and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation shall appear before the Committee on Banking, Finance and Urban Affairs of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, upon the request of the chairman of the committee, to report on any certification made to the Congress under subparagraph (E) or (F).
+Appearance upon request.—The Secretary of the Treasury and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation shall appear before the Committee on Banking, Finance and Urban Affairs of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, upon the request of the chairman of the committee, to report on anycertification made to the Congress under subparagraph (E) or (F).
 
 &emsp;(I)
 
@@ -240,7 +240,7 @@ In general.—The Corporation may borrow from the Federal home loan banks, with 
 
 &emsp;&emsp;(ii)
 
-Terms and conditions.—Any loan from any Federal home loan bank under clause (i)to the Savings Association Insurance Fund shall—
+Terms and conditions.—Any loan from any Federal home loan bank under clause (i) to the Savings Association Insurance Fund shall—
 
 &emsp;&emsp;&emsp;(I) bear a rate of interest of not less than such bank's current marginal cost of funds, taking into account the maturities involved;
 
@@ -324,7 +324,7 @@ Definitions.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;(i)
 
-Benefit-responsive withdrawals or transfers.—The term “benefit-responsive withdrawals or transfers” means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteed rate is in effect, without substantial penaltyor adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
+Benefit-responsive withdrawals or transfers.—The term “benefit-responsive withdrawals or transfers” means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteed rate is in effect, without substantial penalty or adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
 
 &emsp;&emsp;(ii)
 
@@ -388,7 +388,7 @@ For the purposes of this chapter an insured depository institution shall be deem
 
 #### (4) Appointment of Corporation by the Corporation
 
-&emsp;Except as otherwise provided in section 1441a of this title and notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Corporation may appoint itself as sole conservator or receiver of any insured State depository institution if—
+&emsp;Except as otherwise provided in section 1441a of this title and notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, theCorporation may appoint itself as sole conservator or receiver of any insured State depository institution if—
 
 &emsp;&emsp;(A) the Corporation determines—
 
@@ -506,7 +506,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;(ii) on or after the date determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Resolution Trust Corporation shall be appointed if the Resolution Trust Corporation had been placed in control of the depository institution at any time before such date; and
 
-&emsp;&emsp;&emsp;(iii) on or after the date determined by the Chairperson of the Thrift DepositorProtection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Corporation shall be appointed unless the Resolution Trust Corporation is required to be appointed under clause (ii).
+&emsp;&emsp;&emsp;(iii) on or after the date determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Corporation shall be appointed unless the Resolution Trust Corporation is required to be appointed under clause (ii).
 
 #### (7) Judicial review
 
@@ -654,7 +654,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (ii) Authority of Board of Directors
 
-&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Board of Directors or their designees (or, in the case of a subpoena or subpoena duces tecum issued by the Resolution Trust Corporation under this subparagraph and section 1441a(b)(4) <sup>3</sup> of this title, only by, or withthe written approval of, the Board of Directors of such Corporation or their designees).
+&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, orwith the written approval of, the Board of Directors or their designees (or, in the case of a subpoena or subpoena duces tecum issued by the Resolution Trust Corporation under this subparagraph and section 1441a(b)(4) <sup>3</sup> of this title, only by, or with the written approval of, the Board of Directors of such Corporation or their designees).
 
 #### (iii) Rule of construction
 
@@ -734,7 +734,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (iii) Mailing of notice sufficient
 
-&emsp;&emsp;&emsp;The requirements of clause (i) shall be deemed to be satisfied if the notice of anydetermination with respect to any claim is mailed to the last address of the claimant which appears—
+&emsp;&emsp;&emsp;The requirements of clause (i) shall be deemed to be satisfied if the notice of any determination with respect to any claim is mailed to the last address of the claimant which appears—
 
 &emsp;&emsp;&emsp;&emsp;(I) on the depository institution's books;
 
@@ -902,7 +902,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (B) Exception to contemporaneous execution requirement
 
-&emsp;&emsp;Notwithstanding section 1823(e)(2) <sup>4</sup> of this title, any agreement relating to an extension of credit between a Federal home loan bank or Federal Reserve bank and any insured depository institution which was executed before the extension of credit by such bank to such institution shall be treated as having been executed contemporaneouslywith such extension of credit for purposes of subparagraph (A).
+&emsp;&emsp;Notwithstanding section 1823(e)(2) <sup>4</sup> of this title, any agreement relating to an extension of credit between a Federal home loan bank or Federal Reserve bank and any insured depository institution which was executed before the extension of credit by such bank to such institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (A).
 
 #### (10) Payment of claims
 
@@ -986,7 +986,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;Except as otherwise provided in this subsection, no court shall have jurisdiction over—
 
-&emsp;&emsp;&emsp;(i) any claim or action for payment from, or any action seeking a determination of rights with respect to, the assets of any depository institution for which the Corporation has been appointed receiver, including assets which the Corporation may acquire from itself as such receiver; or
+&emsp;&emsp;&emsp;(i) any claim or action for payment from, or any action seeking a determination of rights with respect to, the assets ofany depository institution for which the Corporation has been appointed receiver, including assets which the Corporation may acquire from itself as such receiver; or
 
 &emsp;&emsp;&emsp;(ii) any claim relating to any act or omission of such institution or the Corporation as receiver.
 
@@ -1142,7 +1142,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (2) Timing of repudiation
 
-&emsp;The conservator or receiver appointed for any insured depository institution in accordance with subsection (c) of this section shall determine whether or not to exercise therights of repudiation under this subsection within a reasonable period following such appointment.
+&emsp;The conservator or receiver appointed for any insured depository institution in accordance with subsection (c) of this section shall determine whether or not to exercise the rights of repudiation under this subsection within a reasonable period following such appointment.
 
 #### (3) Claims for damages for repudiation
 
@@ -1236,7 +1236,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;(i) the purchaser—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after thedate of the repudiation of the contract; and
+&emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the depository institution under the contract; and
 
@@ -1312,7 +1312,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (i) Qualified financial contract
 
-&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchaseagreement, swap agreement, and any similar agreement that the Corporation determines by regulation to be a qualified financial contract for purposes of this paragraph.
+&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Corporation determines by regulation to be a qualified financial contract for purposes of this paragraph.
 
 #### (ii) Securities contract
 
@@ -1390,7 +1390,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) the conservator or receiver for an insured depository institution in defaultmakes any transfer of the assets and liabilities of such institution; and
+&emsp;&emsp;&emsp;(i) the conservator or receiver for an insured depository institution in default makes any transfer of the assets and liabilities of such institution; and
 
 &emsp;&emsp;&emsp;(ii) the transfer includes any qualified financial contract,
 
@@ -2372,7 +2372,7 @@ Subsec. (i). Pub. L. 89–695, §301(d), substituted “$15,000” for “$10,00
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title.
 
@@ -2446,7 +2446,7 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1402 of Pub. 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 101(a)(3) and 102(a)(3), (4) of Pub. L. 93–495 effective on thirtieth day beginning afterOct. 28, 1974, and amendment by section 102(a)(3), (4) of Pub. L. 93–495 not applicable to any claim arising out of the closing of any bank prior to such effective date, see sections 101(g) and 102(a)(3), (4) of Pub. L. 93–495, set out as a note under section 1813 of this title.
+Amendment by sections 101(a)(3) and 102(a)(3), (4) of Pub. L. 93–495 effective on thirtieth day beginning after Oct. 28, 1974, and amendment by section 102(a)(3), (4) of Pub. L. 93–495 not applicable to any claim arising out of the closing of any bank prior to such effective date, see sections 101(g) and 102(a)(3), (4) of Pub. L. 93–495, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1969 Amendment
 

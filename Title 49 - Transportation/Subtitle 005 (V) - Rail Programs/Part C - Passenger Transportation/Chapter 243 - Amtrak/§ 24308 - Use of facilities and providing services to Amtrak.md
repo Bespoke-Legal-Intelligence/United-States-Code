@@ -118,7 +118,11 @@ In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words 
 
 In subsection (e)(3), the words “Unless the parties have an agreement that establishes the compensation Amtrak will pay the carrier for additional trains provided under an order under this subsection” are substituted for 45:562(g) (last sentence words before last comma) to eliminate unnecessary words. The words “the dispute” are added for clarity and consistency in this section.
 
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10362, 24312, 24706, 24905 of this title.
+This section is referred to in sections 24312, 24706, 24905 of this title.
 

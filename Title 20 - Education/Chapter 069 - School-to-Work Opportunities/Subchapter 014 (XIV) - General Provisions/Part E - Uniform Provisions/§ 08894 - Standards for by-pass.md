@@ -6,7 +6,7 @@ If, by reason of any provision of law, a State educational agency, local educati
 
 &emsp;(2) arrange for the provision of equitable services to such children, teachers, or other educational personnel through arrangements that shall be subject to the requirements of this section and of sections 8893, 8895, and 8896 of this title.
 
-(Pub. L. 89 10, title XIV, §14504, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3903.)
+(Pub. L. 89–10, title XIV, §14504, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3903.)
 
 #### Section Referred to in Other Sections
 

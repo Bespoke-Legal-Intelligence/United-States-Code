@@ -64,11 +64,11 @@ Each eligible recipient that receives a grant under this part shall give priorit
 
 (4) Each eligible recipient receiving funds under this part shall use no more than 5 percent of such funds for administrative costs.
 
-(Pub. L. 88 210, title II, §235, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 783.)
+(Pub. L. 88–210, title II, §235, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783.)
 
 #### Prior Provisions
 
-A prior section 2342, Pub. L. 88 210, title II, §252, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general revision of this subchapter by Pub. L. 101 392.
+A prior section 2342, Pub. L. 88–210, title II, §252, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general revision of this subchapter by Pub. L. 101–392.
 
 #### Section Referred to in Other Sections
 

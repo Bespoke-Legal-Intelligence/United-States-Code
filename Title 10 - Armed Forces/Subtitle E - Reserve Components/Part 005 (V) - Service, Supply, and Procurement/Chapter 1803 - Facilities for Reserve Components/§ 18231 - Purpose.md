@@ -2,7 +2,7 @@
 
 The purpose of this chapter is to provide for—
 
-&emsp;(1) the acquisition, by purchase, lease, transfer, construction, expansion, rehabilitation, or conversion of facilities necessary for the proper development, training, operation, and maintenance of the reserve components of the armed forces, including troop housing and messing facilities;
+&emsp;(1) the acquisition, by purchase, lease, transfer, construction, expansion, rehabilitation, orconversion of facilities necessary for the proper development, training, operation, and maintenance of the reserve components of the armed forces, including troop housing and messing facilities;
 
 &emsp;(2) the joint use of those facilities by units of two or more of those reserve components, to the greatest practicable extent for efficiency and economy;
 

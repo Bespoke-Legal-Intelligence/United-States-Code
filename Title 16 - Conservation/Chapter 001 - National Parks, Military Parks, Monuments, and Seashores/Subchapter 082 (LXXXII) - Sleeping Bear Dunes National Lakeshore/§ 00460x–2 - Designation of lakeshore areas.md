@@ -1,4 +1,4 @@
-### §460x–2 . Designation of lakeshore areas
+### §460x–2. Designation of lakeshore areas
 
 #### (a) Area categories; publication in Federal Register
 

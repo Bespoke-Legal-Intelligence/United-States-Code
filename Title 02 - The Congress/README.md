@@ -1,5 +1,5 @@
 
-2 U.S.C.<br>United States Code, 1994 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
+2 U.S.C.<br>United States Code, 1995 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 2—THE CONGRESS
 
@@ -8,12 +8,12 @@
 | [<b>1.</b>](Chapter%20001%20-%20Election%20of%20Senators%20and%20Representatives/README.md) | <b>Election of Senators and Representatives</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Organization%20of%20Congress/README.md) | <b>Organization of Congress</b> | <b>21</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Compensation%20and%20Allowances%20of%20Members/README.md) | <b>Compensation and Allowances of Members</b> | <b>31</b> |
-| <b>4.</b> | <b>Officers and Employees of Senate and House of Representatives</b> | <b>60</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Officers%20and%20Employees%20of%20Senate%20and%20House%20of%20Representatives/README.md) | <b>Officers and Employees of Senate and House of Representatives</b> | <b>60</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Library%20of%20Congress/README.md) | <b>Library of Congress</b> | <b>131</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Congressional%20and%20Committee%20Procedure%3B%20Investigations/README.md) | <b>Congressional and Committee Procedure; Investigations</b> | <b>190</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Contested%20Elections/README.md) | <b>Contested Elections \[Repealed\]</b> | <b>201</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Federal%20Corrupt%20Practices/README.md) | <b>Federal Corrupt Practices \[Repealed\]</b> | <b>241</b> |
-| [<b>8A.</b>](Chapter%20008A%20-%20Regulation%20of%20Lobbying/README.md) | <b>Regulation of Lobbying</b> | <b>261</b> |
+| [<b>8A.</b>](Chapter%20008A%20-%20Regulation%20of%20Lobbying/README.md) | <b>Regulation of Lobbying \[Repealed\]</b> | <b>261</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Office%20of%20Legislative%20Counsel/README.md) | <b>Office of Legislative Counsel</b> | <b>271</b> |
 | [<b>9A.</b>](Chapter%20009A%20-%20Office%20of%20Law%20Revision%20Counsel/README.md) | <b>Office of Law Revision Counsel</b> | <b>285</b> |
 | [<b>9B.</b>](Chapter%20009B%20-%20Legislative%20Classification%20Office/README.md) | <b>Legislative Classification Office</b> | <b>286</b> |
@@ -37,6 +37,9 @@
 | [<b>21.</b>](Chapter%20021%20-%20Civic%20Achievement%20Award%20Program%20in%20Honor%20of%20Office%20of%20Speaker%20of%20House%20of%20Representatives/README.md) | <b>Civic Achievement Award Program in Honor of Office of Speaker of House of Representatives \[Repealed\]</b> | <b>1001</b> |
 | [<b>22.</b>](Chapter%20022%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development/README.md) | <b>John C. Stennis Center for Public Service Training and Development</b> | <b>1101</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Government%20Employee%20Rights/README.md) | <b>Government Employee Rights</b> | <b>1201</b> |
+| [<b>24.</b>](Chapter%20024%20-%20Congressional%20Accountability/README.md) | <b>Congressional Accountability</b> | <b>1301</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Unfunded%20Mandates%20Reform/README.md) | <b>Unfunded Mandates Reform</b> | <b>1501</b> |
+| [<b>26.</b>](Chapter%20026%20-%20Disclosure%20of%20Lobbying%20Activities/README.md) | <b>Disclosure of Lobbying Activities</b> | <b>1601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +51,7 @@
 - [Chapter 001 - Election of Senators and Representatives](Chapter%20001%20-%20Election%20of%20Senators%20and%20Representatives/README.md)
 - [Chapter 002 - Organization of Congress](Chapter%20002%20-%20Organization%20of%20Congress/README.md)
 - [Chapter 003 - Compensation and Allowances of Members](Chapter%20003%20-%20Compensation%20and%20Allowances%20of%20Members/README.md)
+- [Chapter 004 - Officers and Employees of Senate and House of Representatives](Chapter%20004%20-%20Officers%20and%20Employees%20of%20Senate%20and%20House%20of%20Representatives/README.md)
 - [Chapter 005 - Library of Congress](Chapter%20005%20-%20Library%20of%20Congress/README.md)
 - [Chapter 006 - Congressional and Committee Procedure; Investigations](Chapter%20006%20-%20Congressional%20and%20Committee%20Procedure%3B%20Investigations/README.md)
 - [Chapter 007 - Contested Elections](Chapter%20007%20-%20Contested%20Elections/README.md)
@@ -76,3 +80,6 @@
 - [Chapter 021 - Civic Achievement Award Program in Honor of Office of Speaker of House of Representatives](Chapter%20021%20-%20Civic%20Achievement%20Award%20Program%20in%20Honor%20of%20Office%20of%20Speaker%20of%20House%20of%20Representatives/README.md)
 - [Chapter 022 - John C. Stennis Center for Public Service Training and Development](Chapter%20022%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development/README.md)
 - [Chapter 023 - Government Employee Rights](Chapter%20023%20-%20Government%20Employee%20Rights/README.md)
+- [Chapter 024 - Congressional Accountability](Chapter%20024%20-%20Congressional%20Accountability/README.md)
+- [Chapter 025 - Unfunded Mandates Reform](Chapter%20025%20-%20Unfunded%20Mandates%20Reform/README.md)
+- [Chapter 026 - Disclosure of Lobbying Activities](Chapter%20026%20-%20Disclosure%20of%20Lobbying%20Activities/README.md)

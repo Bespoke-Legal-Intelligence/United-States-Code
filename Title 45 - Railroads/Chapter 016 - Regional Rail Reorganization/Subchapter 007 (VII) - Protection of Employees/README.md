@@ -21,5 +21,5 @@ This subchapter is referred to in sections 231, 351 of this title.
 - [&sect; 00797i - Limitations on liability](%C2%A7%2000797i%20-%20Limitations%20on%20liability.md)
 - [&sect; 00797j - Preemption](%C2%A7%2000797j%20-%20Preemption.md)
 - [&sect; 00797k - Factfinding panel](%C2%A7%2000797k%20-%20Factfinding%20panel.md)
-- [&sect; 00797l - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(a)(2), Oct. 21, 1986, 100 Stat. 1908](%C2%A7%2000797l%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28a%29%282%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md)
+- [&sect; 00797l - Class II railroads receiving Federal assistance](%C2%A7%2000797l%20-%20Class%20II%20railroads%20receiving%20Federal%20assistance.md)
 - [&sect; 00797m - Arbitration](%C2%A7%2000797m%20-%20Arbitration.md)

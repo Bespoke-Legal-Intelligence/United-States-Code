@@ -54,7 +54,7 @@ The amount payable under subsection (a) of this section with respect to the deat
 
 (2) No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
 
-(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138.)
+(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub.L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138.)
 
 #### Prior Provisions
 

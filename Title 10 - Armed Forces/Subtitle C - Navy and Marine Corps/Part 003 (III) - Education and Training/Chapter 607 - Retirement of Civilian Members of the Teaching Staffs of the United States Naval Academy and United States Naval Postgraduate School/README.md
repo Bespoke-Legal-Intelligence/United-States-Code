@@ -8,8 +8,8 @@
 | [7084\.](%C2%A7%2007084%20-%20Age%20of%20retirement.md) | Age of retirement. |
 | [7085\.](%C2%A7%2007085%20-%20Computation%20of%20life%20annuity.md) | Computation of life annuity. |
 | [7086\.](%C2%A7%2007086%20-%20Physical%20disability%20retirement.md) | Physical disability retirement. |
-| 7087\. | Election of annuity for self and beneficiary. |
-| 7088\. | Regulations. |
+| [7087\.](%C2%A7%2007087%20-%20Election%20of%20annuity%20for%20self%20and%20beneficiary.md) | Election of annuity for self and beneficiary. |
+| [7088\.](%C2%A7%2007088%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

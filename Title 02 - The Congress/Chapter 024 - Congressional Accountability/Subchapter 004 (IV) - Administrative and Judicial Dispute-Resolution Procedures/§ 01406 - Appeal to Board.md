@@ -1,0 +1,34 @@
+### §1406. Appeal to Board
+
+#### (a) In general
+
+Any party aggrieved by the decision of a hearing officer under section 1405(g) of this title may file a petition for review by the Board not later than 30 days after entry of the decision in the records of the Office.
+
+#### (b) Parties’ opportunity to submit argument
+
+The parties to the hearing upon which the decision of the hearing officer was made shall have a reasonable opportunity to be heard, through written submission and, in the discretion of the Board, through oral argument.
+
+#### (c) Standard of review
+
+The Board shall set aside a decision of a hearing officer if the Board determines that the decision was—
+
+&emsp;(1) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
+
+&emsp;(2) not made consistent with required procedures; or
+
+&emsp;(3) unsupported by substantial evidence.
+
+#### (d) Record
+
+In making determinations under subsection (c) of this section, the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+
+#### (e) Decision
+
+The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
+
+(Pub. L. 104–1, title IV, §406, Jan. 23, 1995, 109 Stat. 35.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1331, 1341, 1351, 1361, 1401, 1405, 1407, 1411, 1416 of this title.
+

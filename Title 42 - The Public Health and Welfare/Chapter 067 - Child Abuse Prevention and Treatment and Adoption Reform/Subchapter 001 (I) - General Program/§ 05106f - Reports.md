@@ -6,7 +6,7 @@ Not later than March 1 of the second year following April 25, 1988, and every 2 
 
 #### (b) Effectiveness of State programs and technical assistance
 
-Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of—
+Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit tothe appropriate committees of Congress a report evaluating the effectiveness of—
 
 &emsp;(1) assisted programs in achieving the objectives of section 5106c of this title; and
 

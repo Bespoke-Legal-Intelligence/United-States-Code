@@ -74,17 +74,17 @@ There is hereby created in the executive branch of the Government an independent
 
 There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
 
-(Pub. L. 100 418, title V, §5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102 245, title I, §105(f), Feb. 14, 1992, 106 Stat. 12.)
+(Pub. L. 100–418, title V, §5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102–245, title I, §105(f), Feb. 14, 1992, 106 Stat. 12.)
 
 #### Codification
 
-Section was enacted as part of the Technology Competitiveness Act and as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of part D of title I of division C of Pub. L. 100 180 which comprises this subchapter.
+Section was enacted as part of the Technology Competitiveness Act and as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of part D of title I of division C of Pub. L. 100–180 which comprises this subchapter.
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102 245 substituted “1990, 1991, 1992, and 1993” for “and 1990”.
+1992—Subsec. (f). Pub. L. 102–245 substituted “1990, 1991, 1992, and 1993” for “and 1990”.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

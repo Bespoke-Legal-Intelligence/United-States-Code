@@ -10,7 +10,7 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 (2) The Administrator may hold a public hearing or may conduct such investigation or proceeding as the Administrator deems appropriate in order to determine whether or not such petition should be granted.
 
-(3) Within 90 days after filing of a petition described in paragraph (1), the Administrator shall either grant or deny the petition. If the Administrator grants such petition, the Administrator shall promptly commence an appropriate proceeding in accordance with section 2603, 2604, 2605, or 2607 of this title. If the Administrator denies such petition, the Administrator shallpublish in the Federal Register the Administrator's reasons for such denial.
+(3) Within 90 days after filing of a petition described in paragraph (1), the Administrator shall either grant or deny the petition. If the Administrator grants such petition, the Administrator shall promptly commence an appropriate proceeding in accordance with section 2603, 2604, 2605, or 2607 of this title. If the Administrator denies such petition, the Administrator shall publish in the Federal Register the Administrator's reasons for such denial.
 
 (4)(A) If the Administrator denies a petition filed under this section (or if the Administrator fails to grant or deny such petition within the 90-day period) the petitioner may commence a civil action in a district court of the United States to compel the Administrator to initiate a rulemaking proceeding as requested in the petition. Any such action shall be filed within 60 days after the Administrator's denial of the petition or, if the Administrator fails to grant or deny the petition within 90 days after filing the petition, within 60 days after the expiration of the 90-day period.
 
@@ -24,13 +24,13 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 &emsp;(ii) in the case of a petition to initiate a proceeding for the issuance of a rule under section 2605 or 2607 of this title or an order under section 2605(b)(2) of this title, there is a reasonable basis to conclude that the issuance of such a rule or order is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment.<sup>1</sup>
 
-> the court shall order the Administrator to initiate the action requested by the petitioner. If the court finds that the extent of the risk to health or the environment alleged by the petitioner is less than the extent of risks to health or the environment with respect to which the Administrator is taking action under this chapter and there are insufficient resources available to the Administrator to take the action requested by the petitioner, the court may permit the Administrator to defer initiating the action requested by the petitioner until such time as the court prescribes.
+> the court shall order the Administrator to initiate the action requested by the petitioner. If the court finds that the extent of the risk to health or the environment alleged by the petitioner is less than the extent of risks to health or the environment with respect to which the Administrator is taking action under this chapter and there are insufficient resources available to the Administrator to take the action requested by the petitioner, the court may permit the Administrator to defer initiating the action requestedby the petitioner until such time as the court prescribes.
 
 (C) The court in issuing any final order in any action brought pursuant to subparagraph (A) may award costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate. Any court, in issuing its decision in an action brought to review such an order, may award costs of suit and reasonable fees for attorneys if the court determines that such an award is appropriate.
 
 (5) The remedies under this section shall be in addition to, and not in lieu of, other remedies provided by law.
 
-(Pub. L. 94 469, title I, §21, Oct. 11, 1976, 90 Stat. 2042; renumbered title I, Pub. L. 99 519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §21, Oct. 11, 1976, 90 Stat. 2042; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
-<i><sup>1</sup></i><i>So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -1,6 +1,6 @@
 ### §11222. Functions of Panel
 
-(a) The Panel shall assist the Secretary and the Council in the identification of prioritiesand emerging issues with respect to Alzheimer's disease and related dementias and the care of individuals with such disease and dementias. The Panel shall advise the Secretary and the Council with respect to the identification of—
+(a) The Panel shall assist the Secretary and the Council in the identification of priorities and emerging issues with respect to Alzheimer's disease and related dementias and the care of individuals with such disease and dementias. The Panel shall advise the Secretary and the Council with respect to the identification of—
 
 &emsp;(1) emerging issues in, and promising areas of, biomedical research relating to Alzheimer's disease and related dementias;
 

@@ -1,4 +1,4 @@
-### §115a . Annual manpower requirements report
+### §115a. Annual manpower requirements report
 
 (a) The Secretary of Defense shall submit to Congress, not later than February 15 of each fiscal year, an annual manpower requirements report. The report shall be in writing and shall contain the Secretary's recommendations for—
 

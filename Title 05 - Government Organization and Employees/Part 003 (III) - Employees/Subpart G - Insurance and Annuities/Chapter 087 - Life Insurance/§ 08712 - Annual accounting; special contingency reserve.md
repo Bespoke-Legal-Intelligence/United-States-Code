@@ -1,4 +1,4 @@
-### §8712 . Annual accounting; special contingency reserve
+### §8712. Annual accounting; special contingency reserve
 
 A policy purchased under this chapter shall provide for an accounting to the Office of Personnel Management not later than 90 days after the end of each policy year. The accounting shall set forth, in a form approved by the Office—
 
@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 #### Effective Date of 1978 Amendment
 

@@ -10,5 +10,5 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 #### Effective Date
 
-Section 2 of Pub. L. 95–456 provided that: “This Act \[enacting this section\] shall not become effective untilContract No. 14–02–00001–1002, effective August 1, 1962, between the United States of America and Associated Electric Cooperative, Inc., Springfield, Missouri, has been amended in a manner mutually agreeable to the parties thereto.”
+Section 2 of Pub. L. 95–456 provided that: “This Act \[enacting this section\] shall not become effective until Contract No. 14–02–00001–1002, effective August 1, 1962, between the United States of America and Associated Electric Cooperative, Inc., Springfield, Missouri, has been amended in a manner mutually agreeable to the parties thereto.”
 

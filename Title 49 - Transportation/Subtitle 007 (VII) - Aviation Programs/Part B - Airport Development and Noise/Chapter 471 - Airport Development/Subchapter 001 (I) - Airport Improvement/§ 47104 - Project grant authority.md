@@ -16,7 +16,7 @@ Expiration of Authority.—After September 30, 1996, the Secretary may not incur
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385.)
 
 Historical and Revision Notes
 

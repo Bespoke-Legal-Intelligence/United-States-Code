@@ -1,4 +1,4 @@
-### §16 . Acceptance of benefits of appropriations by States; creation of State boards
+### §16. Acceptance of benefits of appropriations by States; creation of State boards
 
 In order to secure the benefits of the appropriations provided for in sections 12 to 14 of this title, any State shall, through the legislative authority thereof, accept the provisions of this chapter and designate or create a State board, consisting of not less than three members, and having all necessary power to cooperate, as herein provided, with the Department of Education, in the administration of the provisions of this chapter. The State board of education, or other board having charge of the administration of public education in the State, or any State board having charge of the administration of any kind of vocational education in the State may, if the State so elect, be designated as the State board, for the purposes of this chapter.
 

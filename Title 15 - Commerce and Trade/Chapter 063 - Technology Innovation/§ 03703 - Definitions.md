@@ -8,15 +8,15 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(3) “Under Secretary” means the Under Secretary of Commerce for Technology appointed under section 3704(b)(1) of this title.
 
-&emsp;(4) “Centers” means the Cooperative Research Centers established under section 3705<sup>1</sup> or section 3707<sup>1</sup> of this title.
+&emsp;(4) “Centers” means the Cooperative Research Centers established under section 3705 <sup>1</sup> or section 3707 <sup>1</sup> of this title.
 
 &emsp;(5) “Nonprofit institution” means an organization owned and operated exclusively for scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-&emsp;(6) “Federal laboratory” means any laboratory, any federally funded research and development center, or any center established under section 3705<sup>1</sup> or section 3707<sup>1</sup> of this title that is owned, leased, or otherwise used by a Federal agency and funded by the Federal Government, whether operated by the Government or by a contractor.
+&emsp;(6) “Federal laboratory” means any laboratory, any federally funded research and development center, or any center established under section 3705 <sup>1</sup> or section 3707 <sup>1</sup> of this title that is owned, leased, or otherwise used by a Federal agency and funded by the Federal Government, whether operated by the Government or by a contractor.
 
 &emsp;(7) “Supporting agency” means either the Department of Commerce or the National Science Foundation, as appropriate.
 
-&emsp;(8) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section102 of such title, as well as any agency of the legislative branch of the Federal Government.
+&emsp;(8) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section 102 of such title, as well as any agency of the legislative branch of the Federal Government.
 
 &emsp;(9) “Invention” means any invention or discovery which is or may be patentable or otherwise protected under title 35 or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
 
@@ -28,37 +28,37 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(13) “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
 
-(Pub. L. 96 480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99 502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100 418, title V, §5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100 519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102 245, title III, §304, Feb. 14, 1992, 106 Stat. 20.)
+(Pub. L. 96–480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, §5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, §304, Feb. 14, 1992, 106 Stat. 20.)
 
 #### References in Text
 
-Sections 3705 and 3707 of this title, referred to in pars. (4) and (6), were in the original references to sections 6 and 8 of this Act, respectively, meaning sections 6 and 8 of the Stevenson-Wydler Technology Innovation Act of 1980. Sections 6 and 8 of this Act were renumbered sections 7 and 9, respectively, by section 5122(a)(1) of Pub. L. 100 418 without corresponding amendment to this section.
+Sections 3705 and 3707 of this title, referred to in pars. (4) and (6), were in the original references to sections 6 and 8 of this Act, respectively, meaning sections 6 and 8 of the Stevenson-Wydler Technology Innovation Act of 1980. Sections 6 and 8 of this Act were renumbered sections 7 and 9, respectively, by section 5122(a)(1) of Pub. L. 100–418 without corresponding amendment to this section.
 
-The Plant Variety Protection Act, referred to in par. (9), is Pub. L. 91 577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
+The Plant Variety Protection Act, referred to in par. (9), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
 #### Amendments
 
-1992—Par. (8). Pub. L. 102 245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
+1992—Par. (8). Pub. L. 102–245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
 
-1988—Par. (1). Pub. L. 100 519, §201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
+1988—Par. (1). Pub. L. 100–519, §201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
 
-Par. (3). Pub. L. 100 519, §201(d)(1)(B), amended par. (3) generally, substituting provisions defining “Under Secretary” for provisions defining “Assistant Secretary”.
+Par. (3). Pub. L. 100–519, §201(d)(1)(B), amended par. (3) generally, substituting provisions defining “Under Secretary” for provisions defining “Assistant Secretary”.
 
-Par. (13). Pub. L. 100 418 added par. (13).
+Par. (13). Pub. L. 100–418 added par. (13).
 
-1986—Par. (1). Pub. L. 99 502, §9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
+1986—Par. (1). Pub. L. 99–502, §9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
 
-Par. (3). Pub. L. 99 502, §9(b)(2)(B), substituted “‘Assistant Secretary’ means the Assistant Secretary for Productivity, Technology, and Innovation” for “‘Director’ means the Director of the Office of Industrial Technology”.
+Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted “ ‘Assistant Secretary’ means the Assistant Secretary for Productivity, Technology, and Innovation” for “ ‘Director’ means the Director of the Office of Industrial Technology”.
 
-Par. (4). Pub. L. 99 502, §9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
+Par. (4). Pub. L. 99–502, §9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
-Par. (6). Pub. L. 99 502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
+Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
 
-Pars. (7) to (12). Pub. L. 99 502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
+Pars. (7) to (12). Pub. L. 99–502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 638 of this title; title 29 section 2242.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@ The report required under subsection (a) of this section shall contain—
 
 The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.), referred to in subsec. (c)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
-Chapter 67 of title 31, including section 6702, referred to in subsec. (c)(4), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. See also Codification note below.
+Chapter 67 of title 31, including section 6702 referred to in subsec. (c)(4), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. See also Codification note below. A new chapter 67 of Title 31, Money and Finance, was added by Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1859.
 
 #### Codification
 

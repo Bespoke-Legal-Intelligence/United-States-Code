@@ -14,22 +14,22 @@
 | [8108\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008108%20-%20Reduction%20of%20compensation%20for%20subsequent%20injury%20to%20same%20member.md) | Reduction of compensation for subsequent injury to same member. |
 | [8109\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008109%20-%20Beneficiaries%20of%20awards%20unpaid%20at%20death%3B%20order%20of%20precedence.md) | Beneficiaries of awards unpaid at death; order of precedence. |
 | [8110\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008110%20-%20Augmented%20compensation%20for%20dependents.md) | Augmented compensation for dependents. |
-| 8111\. | Additional compensation for services of attendants or vocational rehabilitation. |
-| 8112\. | Maximum and minimum monthly payments. |
-| 8113\. | Increase or decrease of basic compensation. |
-| 8114\. | Computation of pay. |
-| 8115\. | Determination of wage-earning capacity. |
-| 8116\. | Limitations on right to receive compensation. |
-| 8117\. | Time of accrual of right. |
-| 8118\. | Election to use annual or sick leave.<sup>1</sup> |
+| [8111\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008111%20-%20Additional%20compensation%20for%20services%20of%20attendants%20or%20vocational%20rehabilitation.md) | Additional compensation for services of attendants or vocational rehabilitation. |
+| [8112\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008112%20-%20Maximum%20and%20minimum%20monthly%20payments.md) | Maximum and minimum monthly payments. |
+| [8113\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008113%20-%20Increase%20or%20decrease%20of%20basic%20compensation.md) | Increase or decrease of basic compensation. |
+| [8114\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008114%20-%20Computation%20of%20pay.md) | Computation of pay. |
+| [8115\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008115%20-%20Determination%20of%20wage-earning%20capacity.md) | Determination of wage-earning capacity. |
+| [8116\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008116%20-%20Limitations%20on%20right%20to%20receive%20compensation.md) | Limitations on right to receive compensation. |
+| [8117\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008117%20-%20Time%20of%20accrual%20of%20right.md) | Time of accrual of right. |
+| [8118\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008118%20-%20Continuation%20of%20pay%3B%20election%20to%20use%20annual%20or%20sick%20leave.md) | Election to use annual or sick leave.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| 8119\. | Notice of injury or death. |
-| 8120\. | Report of injury. |
-| 8121\. | Claim. |
+| [8119\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008119%20-%20Notice%20of%20injury%20or%20death.md) | Notice of injury or death. |
+| [8120\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008120%20-%20Report%20of%20injury.md) | Report of injury. |
+| [8121\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008121%20-%20Claim.md) | Claim. |
 | [8122\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008122%20-%20Time%20for%20making%20claim.md) | Time for making claim. |
 | [8123\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008123%20-%20Physical%20examinations.md) | Physical examinations. |
 | [8124\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008124%20-%20Findings%20and%20award%3B%20hearings.md) | Findings and award; hearings. |
@@ -62,6 +62,7 @@
 | [8149\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008149%20-%20Regulations.md) | Regulations. |
 | [8150\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008150%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
 | [8151\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008151%20-%20Civil%20service%20retention%20rights.md) | Civil service retention rights. |
+| [8152\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008152%20-%20Annual%20report.md) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,9 +70,9 @@
 
 |  |  |
 | :--- | ---: |
-| 8171\. | Compensation for work injuries; generally. |
-| 8172\. | Employees not citizens or residents of the United States. |
-| 8173\. | Liability under this subchapter exclusive. |
+| [8171\.](Subchapter%20002%20%28II%29%20-%20Employees%20of%20Nonappropriated%20Fund%20Instrumentalities/%C2%A7%2008171%20-%20Compensation%20for%20work%20injuries%3B%20generally.md) | Compensation for work injuries; generally. |
+| [8172\.](Subchapter%20002%20%28II%29%20-%20Employees%20of%20Nonappropriated%20Fund%20Instrumentalities/%C2%A7%2008172%20-%20Employees%20not%20citizens%20or%20residents%20of%20the%20United%20States.md) | Employees not citizens or residents of the United States. |
+| [8173\.](Subchapter%20002%20%28II%29%20-%20Employees%20of%20Nonappropriated%20Fund%20Instrumentalities/%C2%A7%2008173%20-%20Liability%20under%20this%20subchapter%20exclusive.md) | Liability under this subchapter exclusive. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -79,27 +80,31 @@
 
 |  |  |
 | :--- | ---: |
-| 8191\. | Determination of eligibility. |
-| 8192\. | Benefits. |
-| 8193\. | Administration. |
+| [8191\.](Subchapter%20003%20%28III%29%20-%20Law%20Enforcement%20Officers%20Not%20Employed%20by%20the%20United%20States/%C2%A7%2008191%20-%20Determination%20of%20eligibility.md) | Determination of eligibility. |
+| [8192\.](Subchapter%20003%20%28III%29%20-%20Law%20Enforcement%20Officers%20Not%20Employed%20by%20the%20United%20States/%C2%A7%2008192%20-%20Benefits.md) | Benefits. |
+| [8193\.](Subchapter%20003%20%28III%29%20-%20Law%20Enforcement%20Officers%20Not%20Employed%20by%20the%20United%20States/%C2%A7%2008193%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–333, title I, §101(a)(2), Sept. 30, 1994, 108 Stat. 2547, added item 8148.
+<b>1995</b>—Pub. L. 104–66, title I, §1102(b)(3)(B), Dec. 21, 1995, 109 Stat. 723, added item 8152.
 
-1979—Pub. L. 96–70, title III, §3302(e)(12), Sept. 27, 1979, 93 Stat. 499, substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
+<b>1994</b>—Pub. L. 103–333, title I, §101(a)(2), Sept. 30, 1994, 108 Stat. 2547, added item 8148.
 
-1974—Pub. L. 93–416, §§12(b), 23(a), Sept. 7, 1974, 88 Stat. 1146, 1150, substituted “Notice of injury or death” for “Notice of injury; failure to give” in item 8119, and added item 8151.
+<b>1979</b>—Pub. L. 96–70, title III, §3302(e)(12), Sept. 27, 1979, 93 Stat. 499, substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
 
-1968—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
+<b>1974</b>—Pub. L. 93–416, §§12(b), 23(a), Sept. 7, 1974, 88 Stat. 1146, 1150, substituted “Notice of injury or death” for “Notice of injury; failure to give” in item 8119, and added item 8151.
 
-1967—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
+<b>1968</b>—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
+
+<b>1967</b>—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3102, 3111, 5948 of this title; title 7 section 2272; title 10 sections 1588, 1802, 2113, 2360, 2904, 7086; title 14 section 93; title 15 section 4102; title 16 sections 565a–2, 831b–1, 1703, 3602, 3640; title 18 section 4126; title 20 sections 76<i>l</i>, 4416; title 22 sections 2124c, 2391, 3508, 3715a, 3715d, 3649, 3658; title 24 section 225e; title 25 sections 2020, 3115, 3733; title 28 sections 376, 995, 996; title 33 section 569c; title 38 sections 3115, 3485, 7453, 7458; title 40 section 216c; title 42 sections 405, 3788, 9843a; title 43 section 1475; title 50 section 2081.
+This chapter is referred to in sections 3102, 3111, 5948 of this title; title 7 section 2272; title 10 sections 1588, 1802, 2113, 2360, 2904, 7086; title 14 section 93; title 15 section 4102; title 16 sections 565a–2, 831b–1, 1703, 3602, 3640, 5608, 5708; title 18 section 4126; title 20 sections 76<i>l</i>, 4416; title 22 sections 2124c, 2391, 3508, 3715a, 3715d, 3649, 3658; title 24 section 225e; title 25 sections 2020, 3115, 3733; title 28 sections 376, 995, 996; title 33 section 569c; title 38 sections 3115, 3485, 7453, 7458; title 40 section 216c; title 42 sections 405, 3788, 9843a; title 43 section 1475; title 50 section 2081.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

@@ -62,7 +62,7 @@ A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as adde
 
 1992—Subsec. (c)(2). Pub. L. 102–531, which directed amendment of subsec. (c)(2)(B) by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in subsec. (c)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c)(2)(B) as subsec. (c)(2) by Pub. L. 102–168. See 1991 Amendment note below.
 
-1991—Subsec. (c). Pub. L. 102–168, §102(b), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, and struck out former par. (1), which read as follows: “During fiscal year 1985, the Secretary shall make grants or enter into contracts for the establishment of three centers under this section. During fiscal year 1986, the Secretary shall make grants and enterinto contracts for the establishment of five centers under this section and the maintenance and operation of the three centers established under this section in fiscal year 1985. During fiscal year 1987, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the operation and maintenance of the eight centers established under this section in fiscal years 1985 and 1986.”
+1991—Subsec. (c). Pub. L. 102–168, §102(b), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, and struck out former par. (1), which read as follows: “During fiscal year 1985, the Secretary shall make grants or enter into contracts for the establishment of three centers under this section. During fiscal year 1986, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the maintenance and operation of the three centers established under this section in fiscal year 1985. During fiscal year 1987, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the operation and maintenance of the eight centers established under this section in fiscal years 1985 and 1986.”
 
 Subsec. (e). Pub. L. 102–168, §102(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “To carry out this section, there are authorized to be appropriated $3,000,000 for the fiscal year ending September 30, 1985, $8,000,000 for the fiscal year ending September 30, 1986, $13,000,000 for the fiscal year ending September 30, 1987, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991.”
 
@@ -92,7 +92,7 @@ Section 1. The Secretary of Health and Human Services shall, in carrying out his
 
 (h) Assist educational agencies at all levels in developing high quality, innovative health and physical education programs which emphasize the importance of exercise to good health.
 
-(i) Assist recreation agencies and national sports governing bodies at all levels in developing “sports for all” programs which emphasize the value of sports to physical, mental, and emotional fitness.
+(i) Assist recreation agencies and national sports governing bodies at all levels in developing “sports for all”programs which emphasize the value of sports to physical, mental, and emotional fitness.
 
 (j) Assist business, industry, government, and labor organizations in establishing sound physical fitness programs to elevate employee fitness and to reduce the financial and human costs resulting from physical inactivity.
 
@@ -140,7 +140,9 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

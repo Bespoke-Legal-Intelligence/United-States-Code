@@ -76,7 +76,7 @@
 |  |  |
 | :--- | ---: |
 | [1161\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001161%20-%20Protection%20of%20environment.md) | Protection of environment. |
-| [1162\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001162%20-%20Annual%20reports%20to%20President%20and%20Congress%3B%20final%20reports%20on%20terminated%20projects.md) | Annual reports to President and Congress; final reports on terminated projects. |
+| [1162\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001162%20-%20Final%20report%20to%20President%20and%20Congress%20on%20terminated%20projects.md) | Final report to President and Congress on terminated projects. |
 | [1163\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001163%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
 | [1164\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001164%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Fiscal years ending June 30, 1976, and September 30, 1977, through September 30, 1980. |

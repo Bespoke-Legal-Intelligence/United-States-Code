@@ -6,5 +6,5 @@ The Attorney General shall not institute a civil action under section 1706 of th
 
 &emsp;(b) certifies to the appropriate district court of the United States that he is satisfied that such educational agency has not, within a reasonable time after such notice, undertaken appropriate remedial action.
 
-(Pub. L. 93 380, title II, §211, Aug. 21, 1974, 88 Stat. 516.)
+(Pub. L. 93–380, title II, §211, Aug. 21, 1974, 88 Stat. 516.)
 

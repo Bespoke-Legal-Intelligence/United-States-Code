@@ -26,7 +26,7 @@
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–378 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) In no event may the aggregate amount paid to a senior executive during any fiscal year under sections 4507, 5382, 5384, and 5948 of this title exceed the annual rate payable for positions at level I of the Executive Schedule in effect at the end of such fiscal year.
 
@@ -36,17 +36,17 @@
 
 “(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of this title, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
 
-1991—Subsec. (e). Pub. L. 102–175 added subsec. (e).
+<b>1991</b>—Subsec. (e). Pub. L. 102–175 added subsec. (e).
 
-1990—Subsec. (b)(1). Pub. L. 101–509, which directed that “5304(j),” be struck out after the reference to section 4507, could not be executed because “5304(j),” does not appear in text.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–509, which directed that “5304(j),” be struck out after the reference to section 4507, could not be executed because “5304(j),” does not appear in text.
 
-1984—Subsec. (b). Pub. L. 98–615 designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–615 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (b). Pub. L. 96–166 inserted reference to section 5948.
+<b>1979</b>—Subsec. (b). Pub. L. 96–166 inserted reference to section 5948.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 

@@ -1,4 +1,4 @@
-### §227 . Recruiting costs
+### §227. Recruiting costs
 
 The Secretary of Defense shall include in the budget justification documents submitted to Congress each year in connection with the submission of the budget pursuant to section 1105 of title 31 the following matters:
 

@@ -16,5 +16,5 @@ In the 30-day period beginning 3 years after November 2, 1994, and with the conc
 
 &emsp;(7) describing any significant problems or concerns of which the Attorney General is aware with respect to the operation of this chapter.
 
-(Pub. L. 103 438, §11, Nov. 2, 1994, 108 Stat. 4602.)
+(Pub. L. 103–438, §11, Nov. 2, 1994, 108 Stat. 4602.)
 

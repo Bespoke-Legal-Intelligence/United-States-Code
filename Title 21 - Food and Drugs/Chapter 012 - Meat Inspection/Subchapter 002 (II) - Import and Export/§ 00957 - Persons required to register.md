@@ -64,7 +64,7 @@ Section 1104 of Pub. L. 91–513, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—
 
-&emsp;“(1) the date on which such person has registered with the Attorney General under section 1008 \[section958 of this title\] or has had his registration denied under such section, or
+&emsp;“(1) the date on which such person has registered with the Attorney General under section 1008 \[section 958 of this title\] or has had his registration denied under such section, or
 
 &emsp;“(2) such date as may be prescribed by the Attorney General for registration of importers or exporters, as the case may be,
 

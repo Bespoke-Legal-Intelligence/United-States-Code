@@ -14,7 +14,7 @@
 
 #### (b) Conflicting laws and regulations
 
-The provisions of this subchapter shall supersede any conflicting provisions of law (including any conflicting regulations) in effect on the day before October 25, 1994, and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this subchapter.
+The provisions of this subchapter shall supersede any conflicting provisions of law (includingany conflicting regulations) in effect on the day before October 25, 1994, and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this subchapter.
 
 #### (c) Revisions and amendments; procedures applicable
 
@@ -34,7 +34,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 (C) The negotiations referred to in subparagraph (B) shall be conducted in a timely manner. Proposed regulations to implement the amendments made by the Indian Self-Determination Contract Reform Act of 1994 shall be published in the Federal Register by the Secretary of the Interior and the Secretary of Health and Human Services not later than 180 days after October 25, 1994.
 
-(D) Notwithstanding any other provision of law (including any regulation), the Secretary of the Interior and the Secretary of Health andHuman Services are authorized to jointly establish and fund such interagency committees or other interagency bodies, including advisory bodies comprised of tribal representatives, as may be necessary or appropriate to carry out the provisions of this subchapter.
+(D) Notwithstanding any other provision of law (including any regulation), the Secretary of the Interior and the Secretary of Health and Human Services are authorized to jointly establish and fund such interagency committees or other interagency bodies, including advisory bodies comprised of tribal representatives, as may be necessary or appropriate to carry out the provisions of this subchapter.
 
 (E) If the Secretary determines that an extension of the deadlines under subsection (a)(2)(B) of this section and subparagraph (C) of this paragraph is appropriate, the Secretary may submit proposed legislation to Congress for the extension of such deadlines.
 
@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior t
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

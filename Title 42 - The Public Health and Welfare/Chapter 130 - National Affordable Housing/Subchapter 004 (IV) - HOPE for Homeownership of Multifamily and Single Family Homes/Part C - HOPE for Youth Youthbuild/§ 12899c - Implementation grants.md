@@ -46,7 +46,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 #### (1) Form and procedure
 
-&emsp;An application for an implementation grant shall be submitted by an applicant in suchform and in accordance with such procedures as the Secretary shall establish.
+&emsp;An application for an implementation grant shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
 
 #### (2) Minimum requirements
 
@@ -102,13 +102,13 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(3) the potential for developing a successful Youthbuild program;
 
-&emsp;(4) the need for the prospective project, as determined by the degree of economic distress of the community from which participants would be recruited (such as poverty, youth unemployment, number of individuals who have dropped out of high school) and of the community in which the housing proposed to be constructed or rehabilitated would be located (such as incidence of homelessness, shortage of affordable housing, poverty);
+&emsp;(4) the need for the prospective project, as determined by the degree of economic distress of the community from which participantswould be recruited (such as poverty, youth unemployment, number of individuals who have dropped out of high school) and of the community in which the housing proposed to be constructed or rehabilitated would be located (such as incidence of homelessness, shortage of affordable housing, poverty);
 
 &emsp;(5) the apparent commitment of the applicant to leadership development, education, and training of participants;
 
 &emsp;(6) the inclusion of previously homeless tenants in the housing provided;
 
-&emsp;(7) the commitment of other resources to the program by the applicant and by recipients ofother Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or by other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Family Support Act of 1988; and
+&emsp;(7) the commitment of other resources to the program by the applicant and by recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or by other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Family Support Act of 1988; and
 
 &emsp;(8) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by this part in an effective and efficient manner.
 

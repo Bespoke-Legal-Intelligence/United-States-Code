@@ -10,7 +10,7 @@ By no later than 120 days after the date on which an investigation is initiated 
 
 #### (b) Additional finding and recommendation if determination affirmative
 
-If the determination made by the International Trade Commission under subsection (a) of this section with respect to imports of an article is affirmative, the International Trade Commission shall find, and recommend to the President in the report required under subsection (c) of this section, the amount of import relief that is necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission in the determination. The import relief recommended by the International TradeCommission under this subsection shall be limited to that described in section 3354(c) of this title.
+If the determination made by the International Trade Commission under subsection (a) of this section with respect to imports of an article is affirmative, the International Trade Commission shall find, and recommend to the President in the report required under subsection (c) of this section, the amount of import relief that is necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission in the determination. The import relief recommended by the International Trade Commission under this subsection shall be limited to that described in section 3354(c) of this title.
 
 #### (c) Report to President
 

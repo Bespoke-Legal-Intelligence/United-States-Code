@@ -6,5 +6,5 @@ The corporation shall report annually to the Congress concerning the activities 
 
 #### References in Text
 
-Section 1101(57) of this title, referred to in text, was in the original “section 11 of this Act”, meaning section 11 of Pub. L. 97–234, which amended section 1101 ofthis title to include the American Ex-Prisoners of War within the definition of “private corporations established under Federal law”. Section 1103 of this title requires a report to Congress on the annual audit of private corporations established under Federal law.
+Section 1101(57) of this title, referred to in text, was in the original “section 11 of this Act”, meaning section 11 of Pub. L. 97–234, which amended section 1101 of this title to include the American Ex-Prisoners of War within the definition of “private corporations established under Federal law”. Section 1103 of this title requires a report to Congress on the annual audit of private corporations established under Federal law.
 

@@ -123,7 +123,7 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 
 Section 65(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after August 16, 1954. The amendment made by subsection (b) \[amending this section\] shall apply with respect to estates of decedents dying after February 10, 1939, and on or before August 16, 1954.”
 
-Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
+Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of thistitle\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
 
 #### Effective Date of 1956 Amendment
 

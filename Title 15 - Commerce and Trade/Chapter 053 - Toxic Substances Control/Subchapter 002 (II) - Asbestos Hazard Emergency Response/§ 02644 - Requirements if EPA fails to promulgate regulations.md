@@ -102,11 +102,11 @@ The local educational agency shall provide for the protection of building occupa
 
 The local educational agency shall provide for the transportation and disposal of asbestos in accordance with the most recent version of the Environmental Protection Agency's “Asbestos Waste Management Guidance” (or any successor to such document).
 
-(Pub. L. 94 469, title II, §204, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2977.)
+(Pub. L. 94–469, title II, §204, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2977.)
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2643, 2645, 2646, 2647 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “subsection,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
 

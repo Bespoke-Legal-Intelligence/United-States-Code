@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title;
 
-&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section379e of this title: <i>Provided</i>, That an article which is not otherwise deemed adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive, in or on such article, is prohibited by regulations of the Secretary in official plants;
+&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an article which is not otherwise deemed adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive, in or on such article, is prohibited by regulations of the Secretary in official plants;
 
 &emsp;(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for human food;
 
@@ -70,7 +70,7 @@ For purposes of this chapter—
 
 &emsp;(2) any employee or official of the government of any State or local jurisdiction authorized by the Secretary to inspect eggs or egg products under the authority of this chapter, under an agreement entered into between the Secretary and the appropriate State or other agency.
 
-(<i>l</i>) The term “misbranded” shall apply to egg products which are not labeled and packaged in accordance with the requirements prescribed byregulations of the Secretary under section 1036 of this title.
+(<i>l</i>) The term “misbranded” shall apply to egg products which are not labeled and packaged in accordance with the requirements prescribed by regulations of the Secretary under section 1036 of this title.
 
 (m) The term “official certificate” means any certificate prescribed by regulations of the Secretary for issuance by an inspector or other person performing official functions under this chapter.
 

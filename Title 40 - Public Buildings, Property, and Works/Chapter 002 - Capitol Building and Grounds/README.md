@@ -49,11 +49,11 @@
 | (b) | Finding and purpose. |
 | (c) | Personnel management system. |
 | (d) | Implementation of personnel management system. |
-| (e) | Discrimination complaint processing. |
 | [166c.](%C2%A7%2000166c%20-%20Acquisition%20of%20surplus%20supplies%2C%20materials%2C%20etc.%3B%20priority.md) | Acquisition of surplus supplies, materials, etc.; priority. |
 | [166d.](%C2%A7%2000166d%20-%20Rental%20or%20lease%20of%20storage%20space.md) | Rental or lease of storage space. |
 | [166e.](%C2%A7%2000166e%20-%20Funds%20out%20of%20Contingent%20Expenses%2C%20Architect%20of%20Capitol.md) | Funds out of Contingent Expenses, Architect of Capitol. |
 | [166f.](%C2%A7%2000166f%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20Capitol.md) | Funds out of Capitol Buildings, Architect of Capitol. |
+| [166g.](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md) | Expenses for flying American flags and providing certification services therefor. |
 | [167\.](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md) | Lighting, heating, and ventilating House of Representatives. |
 | [167a.](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md) | Repealed. |
 | [168\.](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md) | Heating and ventilating Senate wing. |
@@ -235,6 +235,10 @@
 | (b) | Area. |
 | (c) | Authority of Metropolitan Police unaffected. |
 | (d) | “Crime of violence” defined. |
+| 212a–4. | Security systems for Capitol buildings and grounds. |
+| (a) | Design and installation. |
+| (b) | Transfer of responsibility to Capitol Police Board. |
+| (c) | Transfer of positions to Capitol Police. |
 | [212b.](%C2%A7%2000212b%20-%20Regulation%20of%20traffic%20by%20Capitol%20Police%20Board.md) | Regulation of traffic by Capitol Police Board. |
 | (a) | Exclusive charge and control of all vehicular and other traffic. |
 | (b) | Promulgation of regulations. |
@@ -334,6 +338,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00166d - Rental or lease of storage space](%C2%A7%2000166d%20-%20Rental%20or%20lease%20of%20storage%20space.md)
 - [&sect; 00166e - Funds out of Contingent Expenses, Architect of Capitol](%C2%A7%2000166e%20-%20Funds%20out%20of%20Contingent%20Expenses%2C%20Architect%20of%20Capitol.md)
 - [&sect; 00166f - Funds out of Capitol Buildings, Architect of Capitol](%C2%A7%2000166f%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20Capitol.md)
+- [&sect; 00166g - Expenses for flying American flags and providing certification services therefor](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md)
 - [&sect; 00167 - Lighting, heating, and ventilating House of Representatives](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md)
 - [&sect; 00167a - Repealed. Pub. L. 90&#8211;417, July 23, 1968, 82 Stat. 407](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md)
 - [&sect; 00168 - Heating and ventilating Senate wing](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md)
@@ -445,6 +450,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00212a&#8211;1 - Capitol Grounds and Library of Congress Grounds; detail of police](%C2%A7%2000212a%E2%80%931%20-%20Capitol%20Grounds%20and%20Library%20of%20Congress%20Grounds%3B%20detail%20of%20police.md)
 - [&sect; 00212a&#8211;2 - Protection of Members of Congress, officers of Congress, and members of their families](%C2%A7%2000212a%E2%80%932%20-%20Protection%20of%20Members%20of%20Congress%2C%20officers%20of%20Congress%2C%20and%20members%20of%20their%20families.md)
 - [&sect; 00212a&#8211;3 - Law enforcement authority of Capitol Police](%C2%A7%2000212a%E2%80%933%20-%20Law%20enforcement%20authority%20of%20Capitol%20Police.md)
+- [&sect; 00212a&#8211;4 - Security systems for Capitol buildings and grounds](%C2%A7%2000212a%E2%80%934%20-%20Security%20systems%20for%20Capitol%20buildings%20and%20grounds.md)
 - [&sect; 00212b - Regulation of traffic by Capitol Police Board](%C2%A7%2000212b%20-%20Regulation%20of%20traffic%20by%20Capitol%20Police%20Board.md)
 - [&sect; 00213 - Repealed. July 31, 1946, ch. 707, &sect;15, 60 Stat. 720](%C2%A7%2000213%20-%20Repealed.%20July%2031%2C%201946%2C%20ch.%20707%2C%20%C2%A715%2C%2060%20Stat.%20720.md)
 - [&sect; 00213a - Omitted](%C2%A7%2000213a%20-%20Omitted.md)

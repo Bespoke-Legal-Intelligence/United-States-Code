@@ -31,11 +31,11 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(C) The State may also by regulation establish specifications for any clean alternative fuel produced and made available under this paragraph as the State finds necessary to reduce or eliminate an unreasonable risk to public health, welfare, or safety associated with its use or to ensure acceptable vehicle maintenance and performance characteristics.
 
-&emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or more motor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passedfrom the date of the removal and replacement of such tank or tanks.
+&emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or more motor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passed from the date of the removal and replacement of such tank or tanks.
 
 &emsp;(E) Nothing in this section authorizes any State other than California to adopt provisions regarding clean alternative fuels.
 
-&emsp;(F) If the State of California fails to adopt a clean fuel program that meets the requirements of this paragraph, the Administrator shall, within 4 years after November 15, 1990, establish a clean fuel program for the State of California under this paragraph and section 7410(c) of this title that meets the requirements of this paragraph.
+&emsp;(F) If the State of California fails to adopt a clean fuel program that meets the requirements of this paragraph, the Administrator shall, within 4 years after November 15, 1990, establish a clean fuel program for the State ofCalifornia under this paragraph and section 7410(c) of this title that meets the requirements of this paragraph.
 
 #### (d) Credits for motor vehicle manufacturers
 

@@ -1,4 +1,4 @@
-### §1306 . Cattle, sheep, swine, and meats; importation prohibited in certain cases
+### §1306. Cattle, sheep, swine, and meats; importation prohibited in certain cases
 
 #### (a) In general
 

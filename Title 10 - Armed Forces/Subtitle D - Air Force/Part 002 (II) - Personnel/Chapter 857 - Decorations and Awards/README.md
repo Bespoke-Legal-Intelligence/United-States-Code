@@ -2,13 +2,13 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 8741\. | Medal of honor: award. |
-| 8742\. | Air Force cross: award. |
-| 8743\. | Distinguished-service medal: award. |
-| 8744\. | Medal of honor; Air Force cross; distinguished-service medal: limitations on award. |
-| 8745\. | Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award. |
-| 8746\. | Silver star: award. |
-| 8747\. | Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: replacement. |
+| [8741\.](%C2%A7%2008741%20-%20Medal%20of%20honor%20award.md) | Medal of honor: award. |
+| [8742\.](%C2%A7%2008742%20-%20Air%20Force%20cross%20award.md) | Air Force cross: award. |
+| [8743\.](%C2%A7%2008743%20-%20Distinguished-service%20medal%20award.md) | Distinguished-service medal: award. |
+| [8744\.](%C2%A7%2008744%20-%20Medal%20of%20honor%3B%20Air%20Force%20cross%3B%20distinguished-service%20medal%20limitations%20on%20award.md) | Medal of honor; Air Force cross; distinguished-service medal: limitations on award. |
+| [8745\.](%C2%A7%2008745%20-%20Medal%20of%20honor%3B%20Air%20Force%20cross%3B%20distinguished-service%20medal%20delegation%20of%20power%20to%20award.md) | Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award. |
+| [8746\.](%C2%A7%2008746%20-%20Silver%20star%20award.md) | Silver star: award. |
+| [8747\.](%C2%A7%2008747%20-%20Medal%20of%20honor%3B%20Air%20Force%20cross%3B%20distinguished-service%20cross%3B%20distinguished-service%20medal%3B%20silver%20star%20replacement.md) | Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: replacement. |
 | [8748\.](%C2%A7%2008748%20-%20Medal%20of%20honor%3B%20Air%20Force%20cross%3B%20distinguished-service%20cross%3B%20distinguished-service%20medal%3B%20silver%20star%20availability%20of%20appropriations.md) | Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: availability of appropriations. |
 | [8749\.](%C2%A7%2008749%20-%20Distinguished%20flying%20cross%20award%3B%20limitations.md) | Distinguished flying cross: award; limitations. |
 | [8750\.](%C2%A7%2008750%20-%20Airman%27s%20Medal%20award%3B%20limitations.md) | Airman's Medal: award; limitations. |
@@ -25,7 +25,7 @@
 
 For extension of time for award of decorations, or devices in lieu of decorations, for acts or services performed in direct support of military operations in Southeast Asia between July 1, 1958, and Mar. 28, 1973, see Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, set out as a note preceding section 3741 of this title.
 
-For extension of time for award of decoration, or device in lieu of decoration, for an act or service performed while on active duty in military or naval forces, or while serving with such forces, between June 27, 1950,and July 27, 1953, see act Aug. 2, 1956, ch. 877, 70 Stat. 933, set out as a note preceding section 3741 of this title.
+For extension of time for award of decoration, or device in lieu of decoration, for an act or service performed while on active duty in military or naval forces, or while serving with such forces, between June 27, 1950, and July 27, 1953, see act Aug. 2, 1956, ch. 877, 70 Stat. 933, set out as a note preceding section 3741 of this title.
 
 #### Meritorious Service Medal
 

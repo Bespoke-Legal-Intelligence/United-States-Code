@@ -1,6 +1,6 @@
 ### §715. Senate and House documents and reports for Department of State
 
-The Public Printer shall print, in addition to the usual number, and furnish the Departmentof State twenty copies of each Senate and House of Representatives document and report.
+The Public Printer shall print, in addition to the usual number, and furnish the Department of State twenty copies of each Senate and House of Representatives document and report.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1250.)
 

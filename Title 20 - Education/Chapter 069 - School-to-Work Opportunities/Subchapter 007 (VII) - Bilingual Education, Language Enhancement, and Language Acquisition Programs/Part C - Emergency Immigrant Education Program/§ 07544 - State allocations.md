@@ -52,7 +52,7 @@ Whenever the Secretary determines that any amount of a payment made to a State u
 
 &emsp;Local educational agencies with the highest number of immigrant children and youth receiving funds under paragraph (1) may make information available on serving immigrant children and youth to local educational agencies in the State with sparse numbers of such children.
 
-(Pub. L. 89 10, title VII, §7304, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3740.)
+(Pub. L. 89–10, title VII, §7304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3740.)
 
 #### Section Referred to in Other Sections
 

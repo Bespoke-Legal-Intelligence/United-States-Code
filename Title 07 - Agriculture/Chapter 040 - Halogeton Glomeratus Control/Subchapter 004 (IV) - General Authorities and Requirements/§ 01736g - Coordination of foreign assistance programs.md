@@ -1,0 +1,18 @@
+### §1736g. Coordination of foreign assistance programs
+
+To the maximum extent practicable, assistance for a foreign country under this chapter shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under this chapter, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
+
+(July 10, 1954, ch. 469, title IV, §413, as added Aug. 14, 1979, Pub. L. 96–53, title II, §210, 93 Stat. 370; amended Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3656.)
+
+#### Amendments
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring, to maximum extent practicable, availability of commodities on multiyear basis.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of Title 22, Foreign Relations and Intercourse.
+

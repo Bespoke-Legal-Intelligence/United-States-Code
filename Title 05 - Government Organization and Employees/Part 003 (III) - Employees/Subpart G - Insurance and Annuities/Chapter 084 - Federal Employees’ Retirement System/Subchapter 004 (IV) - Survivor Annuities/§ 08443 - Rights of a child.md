@@ -1,4 +1,4 @@
-### §8443 . Rights of a child
+### §8443. Rights of a child
 
 (a)(1) If an employee or Member dies after completing at least 18 months of civilian service which is creditable under section 8411, or an annuitant dies, each surviving child is, for any month, entitled to an annuity equal to—
 
@@ -6,7 +6,7 @@
 
 &emsp;(B) the number of children entitled to a payment under this section for such month.
 
-(2) The applicable amount under this paragraph for any month is the total amount towhich the surviving child or children (as the case may be) of the annuitant, employee, or Member would be entitled for such month under subchapter III of chapter 83 (including any adjustment based on section 8340) based on the service of such annuitant, employee, or Member, if the service of such annuitant, employee, or Member were creditable under such subchapter.
+(2) The applicable amount under this paragraph for any month is the total amount to which the surviving child or children (as the case may be) of the annuitant, employee, or Member would be entitled for such month under subchapter III of chapter 83 (including any adjustment based on section 8340) based on the service of such annuitant, employee, or Member, if the service of such annuitant, employee, or Member were creditable under such subchapter.
 
 (3) The applicable amount under this paragraph for any month is the total amount of child's insurance benefits which are payable (or would, on proper application, be payable) under title II of the Social Security Act for such month based on the wages and self-employment income of such annuitant, employee, or Member.
 
@@ -40,7 +40,7 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1986—Subsec. (a)(2). Pub. L. 99–556 inserted “(including any adjustment based on section 8340)”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–556 inserted “(including any adjustment based on section 8340)”.
 
 #### Section Referred to in Other Sections
 

@@ -138,7 +138,7 @@ In subsection (b)(2), before clause (A), the word “shall” is substituted for
 
 In subsection (b)(3), before clause (A), the words “In the exercise of his authority under section 1348(a) of this Appendix” in 49 App.:1522 are omitted as surplus. The word “navigable” is added for clarity and consistency. In clause (A), the words “such zones or” are omitted as surplus.
 
-In subsection (b)(4), the words “the military exception” are substituted for “any exception relating to military or naval functions” to eliminate unnecessary words and because “naval” is included in “military”. The words “applies to a regulation prescribed under”are substituted for “In the exercise of the rulemaking authority . . . the Secretary of Transportation shall be subject to” to eliminate unnecessary words and because “rules” and “regulations” are synonymous.
+In subsection (b)(4), the words “the military exception” are substituted for “any exception relating to military or naval functions” to eliminate unnecessary words and because “naval” is included in “military”. The words “applies to a regulation prescribed under” are substituted for “In the exercise of the rulemaking authority . . . the Secretary of Transportation shall be subject to” to eliminate unnecessary words and because “rules” and “regulations” are synonymous.
 
 Subsection (c) is added for clarity.
 
@@ -148,7 +148,7 @@ In subsection (e), before clause (1), the words “any landing area” are omitt
 
 #### Regulations
 
-Pub. L. 85–726, title VI, §613(a), (b), as added Pub. L.101–508, title IX, §9124, Nov. 5, 1990, 104 Stat. 1388–370, provided that:
+Pub. L. 85–726, title VI, §613(a), (b), as added by Pub. L.101–508, title IX, §9124, Nov. 5, 1990, 104 Stat. 1388–370, provided that:
 
 “(a)
 

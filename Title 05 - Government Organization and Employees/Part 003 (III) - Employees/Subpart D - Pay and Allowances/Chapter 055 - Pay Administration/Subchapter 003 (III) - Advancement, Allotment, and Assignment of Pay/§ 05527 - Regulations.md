@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1968—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
+<b>1968</b>—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
 
 #### Effective Date of 1968 Amendment
 

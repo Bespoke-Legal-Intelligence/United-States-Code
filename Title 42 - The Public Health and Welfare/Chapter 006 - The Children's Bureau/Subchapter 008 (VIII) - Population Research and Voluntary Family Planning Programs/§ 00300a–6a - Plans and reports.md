@@ -2,7 +2,7 @@
 
 #### (a) Submission of report to Congress; purposes of plan
 
-Not later than seven months after the close of each fiscal year, the Secretary shall make a report to the Congress setting forth a plan to be carried out over the next five fiscal years for—
+Not later than seven months after the close of fiscal year 1995, and each second fiscal year thereafter, the Secretary shall make a report to the Congress setting forth a plan to be carried out over the next five fiscal years for—
 
 &emsp;(1) extension of family planning services to all persons desiring such services,
 
@@ -32,11 +32,15 @@ Each report submitted under subsection (a) of this section shall—
 
 &emsp;(3) make recommendations with respect to any additional legislative or administrative action necessary or desirable in carrying out the plan contained in such report.
 
-(July 1, 1944, ch. 373, title X, §1009, as added July 29, 1975, Pub. L. 94–63, title II, §203(a), 89 Stat. 307; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 1, 1944, ch. 373, title X, §1009, as added July 29, 1975, Pub. L. 94–63, title II, §203(a), 89 Stat. 307; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Dec. 21, 1995, Pub. L. 104–66, title I, §1062(c), 109 Stat. 720.)
 
 #### References in Text
 
 The Family Planning Services and Population Research Act of 1970, referred to in subsec. (a), is Pub. L. 91–572, Dec. 24, 1970, 84 Stat. 1504, which enacted sections 300 to 300a–6 and 3505a to 3505c of this title, amended sections 211a and 212a of this title and section 763c of Title 33, Navigation and Navigable Waters, and enacted provisions set out as notes under sections 201, 222, and 300 of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 201 of this title and Tables.
+
+#### Amendments
+
+1995—Subsec. (a). Pub. L. 104–66 substituted “fiscal year 1995, and each second fiscal year thereafter” for “each fiscal year” in introductory provisions.
 
 #### Change of Name
 

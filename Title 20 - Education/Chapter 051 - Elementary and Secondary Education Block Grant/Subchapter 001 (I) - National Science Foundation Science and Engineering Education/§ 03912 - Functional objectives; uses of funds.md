@@ -22,11 +22,11 @@
 
 &emsp;(9) development of science, engineering, and education networks to aid in the development and dissemination of successful curricula, methods, and materials.
 
-(Pub. L. 98 377, title I, §102, as added Pub. L. 99 159, title II, §201, Nov. 22, 1985, 99 Stat. 894.)
+(Pub. L. 98–377, title I, §102, as added Pub. L. 99–159, title II, §201, Nov. 22, 1985, 99 Stat. 894.)
 
 #### Prior Provisions
 
-A prior section 3912, Pub. L. 98 377, title I, §102, Aug. 11, 1984, 98 Stat. 1268, related to submission, contents, etc., of applications, prior to the general revision of this subchapter by section 201 of Pub. L. 99 159.
+A prior section 3912, Pub. L. 98–377, title I, §102, Aug. 11, 1984, 98 Stat. 1268, related to submission, contents, etc., of applications, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159.
 
 #### Section Referred to in Other Sections
 

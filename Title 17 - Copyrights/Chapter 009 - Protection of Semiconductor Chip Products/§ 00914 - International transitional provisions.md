@@ -78,7 +78,7 @@ Section 1 of Pub. L. 100–159 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) section 914 of title 17, United States Code, which authorizes the Secretary of Commerce to issueorders extending interim protection under chapter 9 of title 17, United States Code, to mask works fixed in semiconductor chip products and orginating \[sic\] in foreign countries that are making good faith efforts and reasonable progress toward providing protection, by treaty or legislation, to mask works of United States nationals, has resulted in substantial and positive legislative developments in foreign countries regarding protection of mask works;
+&emsp;“(1) section 914 of title 17, United States Code, which authorizes the Secretary of Commerce to issue orders extending interim protection under chapter 9 of title 17, United States Code, to mask works fixed in semiconductor chip products and orginating \[sic\] in foreign countries that are making good faith efforts and reasonable progress toward providing protection, by treaty or legislation, to mask works of United States nationals, has resulted in substantial and positive legislative developments in foreign countries regarding protection of mask works;
 
 &emsp;“(2) the Secretary of Commerce has determined that most of the industrialized countries of the world are eligible for orders affording interim protection under section 914 of title 17, United States Code;
 

@@ -218,7 +218,7 @@ Section 1. <i>Succession to the Authority of the Secretary of the Navy.</i>
 
 (b) In the event of the temporary absence or temporary disability of the Secretary of the Navy, the incumbents holding the Department of the Navy positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Navy.
 
-(1) In these instances, the designation of an Acting Secretary of the Navy applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of his office upon his return.
+(1) In these instances, the designation of an Acting Secretary of the Navy applies only for the duration ofthe Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of his office upon his return.
 
 (2) In the event that the Secretary of the Navy is merely absent from this position, the Secretary of the Navy may continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
 
@@ -286,7 +286,7 @@ Section 1. <i>Succession To Act as the Secretary of the Air Force.</i>
 
 (d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of the Air Force under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
 
-Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of theAir Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of the Air Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

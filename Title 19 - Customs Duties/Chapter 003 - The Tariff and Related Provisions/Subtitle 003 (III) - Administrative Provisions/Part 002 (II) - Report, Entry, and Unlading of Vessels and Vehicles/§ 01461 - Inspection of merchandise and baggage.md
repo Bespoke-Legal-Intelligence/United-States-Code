@@ -6,5 +6,5 @@ All merchandise and baggage imported or brought in from any contiguous country, 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in R.S. §3100, as amended by act Feb. 18, 1875, ch. 80, §1, 18 Stat. 319, and act Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §461, 42 Stat. 956, and was repealed by section 642 thereof. Section 461 of the 1922 act was superseded by section 461 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §3100, as amended by act Feb. 18, 1875, ch. 80, §1, 18 Stat. 319, and act Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §461, 42 Stat. 956, and was repealed by section 642 thereof. Section 461 of the 1922 act was superseded by section 461 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 

@@ -116,7 +116,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 #### (A) In general
 
-&emsp;&emsp;The Executive Director may appoint and compensate such additional staff as may benecessary to enable the Board to perform its duties. Such staff shall include at least one individual with expertise in measurement and assessment.
+&emsp;&emsp;The Executive Director may appoint and compensate such additional staff as may be necessary to enable the Board to perform its duties. Such staff shall include at least one individual with expertise in measurement and assessment.
 
 #### (B) Compensation
 
@@ -148,5 +148,5 @@ The Chairperson of the National Board may procure temporary and intermittent ser
 
 The National Board shall terminate on September 30, 1999.
 
-(Pub. L. 103 227, title V, §503, Mar. 31, 1994, 108 Stat. 192.)
+(Pub. L. 103–227, title V, §503, Mar. 31, 1994, 108 Stat. 192.)
 

@@ -1,4 +1,4 @@
-### §460aaa–8 . Authorization of appropriations
+### §460aaa–8. Authorization of appropriations
 
 #### (a) Acquisition of lands
 

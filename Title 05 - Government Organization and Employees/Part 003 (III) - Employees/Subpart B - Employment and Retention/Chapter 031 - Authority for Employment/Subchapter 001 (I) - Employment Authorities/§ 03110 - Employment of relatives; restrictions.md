@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) the government of the District of Columbia;
 
-&emsp;(2) “public official” means an officer (including the President and a Member of Congress), a member of the uniformed service, an employee and any other individual, in whom isvested the authority by law, rule, or regulation, or to whom the authority has been delegated, to appoint, employ, promote, or advance individuals, or to recommend individuals for appointment, employment, promotion, or advancement in connection with employment in an agency; and
+&emsp;(2) “public official” means an officer (including the President and a Member of Congress), a member of the uniformed service, an employee and any other individual, in whom is vested the authority by law, rule, or regulation, or to whom the authority has been delegated, to appoint, employ, promote, or advance individuals, or to recommend individuals for appointment, employment, promotion, or advancement in connection with employment in an agency; and
 
 &emsp;(3) “relative” means, with respect to a public official, an individual who is related to the public official as father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
 
@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1978—Subsec. (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 

@@ -1,4 +1,4 @@
-### §354 . Voluntary retirement after thirty years’ service
+### §354. Voluntary retirement after thirty years’ service
 
 Any enlisted member who has completed thirty years’ service may, upon his own application, in the discretion of the Commandant, be retired from active service.
 

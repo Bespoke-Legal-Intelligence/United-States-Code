@@ -32,5 +32,5 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(iv) other activities that enable the parent to improve learning in the home.
 
-(Pub. L. 103 227, title IV, §405, Mar. 31, 1994, 108 Stat. 189.)
+(Pub. L. 103–227, title IV, §405, Mar. 31, 1994, 108 Stat. 189.)
 

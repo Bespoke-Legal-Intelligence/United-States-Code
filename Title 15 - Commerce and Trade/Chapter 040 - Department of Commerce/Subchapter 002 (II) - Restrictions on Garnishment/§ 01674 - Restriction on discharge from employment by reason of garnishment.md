@@ -8,5 +8,5 @@ No employer may discharge any employee by reason of the fact that his earnings h
 
 Whoever willfully violates subsection (a) of this section shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-(Pub. L. 90 321, title III, §304, May 29, 1968, 82 Stat. 163.)
+(Pub. L. 90–321, title III, §304, May 29, 1968, 82 Stat. 163.)
 

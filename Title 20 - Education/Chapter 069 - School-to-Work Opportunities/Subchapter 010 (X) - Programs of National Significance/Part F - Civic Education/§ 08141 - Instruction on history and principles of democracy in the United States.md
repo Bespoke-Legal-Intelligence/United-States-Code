@@ -48,7 +48,7 @@ After the provisions of subsection (b) of this section have been implemented, fu
 
 &emsp;&emsp;(C) participation by public and private middle schools in the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 89 10, title X, §10601, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3838.)
+(Pub. L. 89–10, title X, §10601, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3838.)
 
 #### Section Referred to in Other Sections
 

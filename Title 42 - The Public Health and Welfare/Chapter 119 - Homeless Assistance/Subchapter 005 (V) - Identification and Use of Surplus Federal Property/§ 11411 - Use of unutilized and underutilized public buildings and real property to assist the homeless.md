@@ -174,7 +174,7 @@ Section 401(b) of Pub. L. 101–645 provided that: “The amendment made by subs
 
 #### Regulations
 
-Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
+Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment ofthis Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 
@@ -182,7 +182,7 @@ Pub. L. 102–550, title XIV, §1411, Oct. 28, 1992, 106 Stat. 4039, provided th
 
 “(a)
 
-Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairsundertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
+Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairs undertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
 
 “(b)
 

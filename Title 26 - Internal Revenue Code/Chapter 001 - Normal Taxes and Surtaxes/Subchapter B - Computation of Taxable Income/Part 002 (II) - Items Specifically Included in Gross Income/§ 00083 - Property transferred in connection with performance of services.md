@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (2) Transferability of property
 
-&emsp;The rights of a person in property are transferable only if the rights in such property ofany transferee are not subject to a substantial risk of forfeiture.
+&emsp;The rights of a person in property are transferable only if the rights in such property of any transferee are not subject to a substantial risk of forfeiture.
 
 #### (3) Sales which may give rise to suit under section 16(b) of the Securities Exchange Act of 1934
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 252(c) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(k)(2), 96 Stat. 2374, provided that: “The amendment made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out below\] shall apply to transfers after December 31, 1981.”
+Section 252(c) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(k)(2), 96 Stat. 2374, provided that:“The amendment made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out below\] shall apply to transfers after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 
@@ -164,7 +164,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Section 1879(p) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(q)(3), Nov. 10, 1988, 102 Stat. 3585, provided that:
 
-“(1) Notwithstanding subsection (c) of section 252 of the Economic Recovery Tax Act of 1981 \[section 252(c) of Pub. L. 97–34, set out as a note above\], the amendment made by subsection (a) of such section 252 \[amending this section\] (and the provisions of subsection (b) of such section 252 \[set out below\]) shall apply to any transfer of stock to any person if—
+“(1) Notwithstanding subsection (c) of section 252 of the Economic Recovery Tax Act of 1981 \[section 252(c) of Pub. L. 97–34, set out above\], the amendment made by subsection (a) of such section 252 \[amending this section\] (and the provisions of subsection (b) of such section 252 \[set out below\]) shall apply to any transfer of stock to any person if—
 
 &emsp;“(A) such transfer occurred in November or December of 1973 and was pursuant to the exercise of an option granted in November or December of 1971,
 

@@ -32,7 +32,7 @@ Each State that receives assistance under this subchapter shall establish and ma
 
 &emsp;&emsp;(iii) immediate relatives or guardians of adults with mentally impairing developmental disabilities who cannot advocate for themselves; and
 
-&emsp;&emsp;(B) not employees of a State agency that receives funds or provides services under this subchapter, and who are not managing employees (as defined in section 1126(b) of the Social Security Act \[42 U.S.C. 1320a–5(b)\]) of any other entity that receives funds or provides services under this subchapter.
+&emsp;&emsp;(B) not employees of a State agency that receives funds or provides services under this subchapter, and who are not managing employees (as defined in section 1126(b) of the Social Security Act \[42 U.S.C.1320a–5(b)\]) of any other entity that receives funds or provides services under this subchapter.
 
 #### (5) Composition of membership with developmental disabilities
 
@@ -82,7 +82,7 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 #### (D) Supporting communities
 
-&emsp;&emsp;The Council may assist neighborhoods and communities to respond positively to individuals with developmental disabilities andtheir families by encouraging local networks to provide informal and formal supports and enabling communities to offer such individuals and their families access, resources, and opportunities.
+&emsp;&emsp;The Council may assist neighborhoods and communities to respond positively to individuals with developmental disabilities and their families by encouraging local networks to provide informal and formal supports and enabling communities to offer such individuals and their families access, resources, and opportunities.
 
 #### (E) Interagency collaboration and coordination
 
@@ -136,13 +136,13 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 &emsp;&emsp;(A) conducting such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council, reimbursing Council members of the Council for reasonable and necessary expenses for attending Council meetings and performing Council duties (including child care and personal assistance services), paying compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day such member is engaged in performing the duties of the Council, supporting Council member and staff travel to authorized training and technical assistance activities including inservice training and leadership development, and appropriate subcontracting activities;
 
-&emsp;&emsp;(B) hiring and maintaining sufficient numbers and types of staff (qualified by training and experience) and obtaining the services of such professional, consulting, technical, and clerical personnel (qualified by training and experience), consistent with State law, asthe Council determines to be necessary to carry out its functions under this subchapter, except that such State shall not apply hiring freezes, reductions in force, prohibitions on staff travel, or other policies, to the extent that such policies would impact staff or functions funded with Federal funds and would prevent the Council from carrying out its functions under this chapter; and
+&emsp;&emsp;(B) hiring and maintaining sufficient numbers and types of staff (qualified by training and experience) and obtaining the services of such professional, consulting, technical, and clerical personnel (qualified by training and experience), consistent with State law, as the Council determines to be necessary to carry out its functions under this subchapter, except that such State shall not apply hiring freezes, reductions in force, prohibitions on staff travel, or other policies, to the extent that such policies would impact staff or functions funded with Federal funds and would prevent the Council from carrying out its functions under this chapter; and
 
 &emsp;&emsp;(C) directing the expenditure of funds for grants, contracts, interagency agreements that are binding contracts, and other activities authorized by the approved State plan.
 
 #### (9) Staff hiring and supervision
 
-&emsp;A Council shall, consistent with State law, recruit and hire a Director of the Council, should the position of Director become vacant, and supervise and annually evaluate the Director. The Director shall hire, supervise, and annually evaluate the staff of the Council. Council recruitment and hiring of staff shall be consistent with Federal and State nondiscrimination laws. Dismissal of personnel shall be consistent with State law and personnel policies.
+&emsp;A Council shall, consistent with State law, recruit and hire a Director of the Council, should the position of Director become vacant, and supervise and annually evaluate the Director. The Director shall hire, supervise, and annually evaluate the staff of the Council. Council recruitment and hiring of staff shall be consistent with Federal and State nondiscrimination laws. Dismissal of personnelshall be consistent with State law and personnel policies.
 
 #### (10) Staff assignments
 
@@ -206,7 +206,7 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 &emsp;&emsp;The designated State agency shall—
 
-&emsp;&emsp;&emsp;(i) receive, account for, and disperse funds under this subchapter based on theState plan required in section 6022 of this title; and
+&emsp;&emsp;&emsp;(i) receive, account for, and disperse funds under this subchapter based on the State plan required in section 6022 of this title; and
 
 &emsp;&emsp;&emsp;(ii) provide for such fiscal control and fund accounting procedures as may be necessary to assure the proper dispersement of, and accounting for, funds paid to the State under this subchapter.
 
@@ -266,7 +266,7 @@ Not later than January 1, 1990, each Council shall complete the reviews, analyse
 
 &emsp;Each Council shall utilize the information developed pursuant to paragraphs (1), (2), and (3) in developing the State plan.
 
-(Pub. L. 88–164, title I, §124, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2675; amended Pub. L. 100–146, title II, §204, Oct. 29, 1987, 101Stat. 849; Pub. L. 101–496, §12, Oct. 31, 1990, 104 Stat. 1197; Pub. L. 102–119, §26(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–230, title II, §205, Apr. 6, 1994, 108 Stat. 302.)
+(Pub. L. 88–164, title I, §124, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2675; amended Pub. L. 100–146, title II, §204, Oct. 29, 1987, 101 Stat. 849; Pub. L. 101–496, §12, Oct. 31, 1990, 104 Stat. 1197; Pub. L. 102–119, §26(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–230, title II, §205, Apr. 6, 1994, 108 Stat. 302.)
 
 #### References in Text
 

@@ -64,7 +64,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1991—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
+<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
 
 #### Delegation of Functions
 

@@ -34,7 +34,7 @@ An owner or operator of a facility which is subject to the requirements of secti
 
 &emsp;&emsp;(B) who requests such information in writing and provides a written statement of need under paragraph (2) and a written confidentiality agreement under subsection (d) of this section.
 
-> &emsp;Following such a written request, the owner or operator to whom such request is made shall promptly provide the requested information to the local health professional. The authority to withhold the specific chemical identity of a chemical under section 11042 of this title when such information is a trade secret shall not apply to information required to be provided under this subsection, subject to the provisions of subsection (d) of this section.
+> &emsp;Following such a written request, the owner or operator to whom such request is made shall promptly provide the requested information to the local health professional. The authority to withhold the specific chemical identity of a chemical under section 11042 of this title when such information is a trade secret shall notapply to information required to be provided under this subsection, subject to the provisions of subsection (d) of this section.
 
 #### (2) Written statement of need
 

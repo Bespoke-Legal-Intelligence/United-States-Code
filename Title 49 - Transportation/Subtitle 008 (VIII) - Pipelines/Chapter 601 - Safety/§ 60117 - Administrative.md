@@ -6,7 +6,7 @@ General Authority.—To carry out this chapter, the Secretary of Transportation 
 
 (b)
 
-Records, Reports, and Information.—To enable the Secretary to decide whether a person transporting gas or hazardous liquid or operating a pipeline facility is complying with this chapter and standards prescribed or orders issued under this chapter, the person shall—
+Records, Reports, and Information.—To enable the Secretary to decide whether a persontransporting gas or hazardous liquid or operating a pipeline facility is complying with this chapter and standards prescribed or orders issued under this chapter, the person shall—
 
 &emsp;(1) maintain records, make reports, and provide information the Secretary requires; and
 
@@ -42,7 +42,7 @@ Providing Safety Information.—On request, the Secretary shall provide the Fede
 
 Cooperation.—The Secretary may—
 
-&emsp;(1) advise, assist, and cooperate with other departments, agencies, and instrumentalities of the United States Government, the States,and public and private agencies and persons in planning and developing safety standards and ways to inspect and test to decide whether those standards have been complied with;
+&emsp;(1) advise, assist, and cooperate with other departments, agencies, and instrumentalities of the United States Government, the States, and public and private agencies and persons in planning and developing safety standards and ways to inspect and test to decide whether those standards have been complied with;
 
 &emsp;(2) consult with and make recommendations to other departments, agencies, and instrumentalities of the Government, State and local governments, and public and private agencies and persons to develop and encourage activities, including the enactment of legislation, that will assist in carrying out this chapter and improve State and local pipeline safety programs; and
 
@@ -220,7 +220,7 @@ In subsection (d), the words “related to a confidential matter” are substitu
 
 In subsection (e)(1), the words “civil, criminal, or other” are omitted as surplus.
 
-In subsection (f), before clause (1), the words “however . . . exercise authority under this section to” areomitted as surplus. In clause (1), the word “affected” is omitted as surplus. In clause (2), the word “attempting” is substituted for “make every effort” to eliminate unnecessary words. The words “for testing” and “the Secretary considers” are added for clarity.
+In subsection (f), before clause (1), the words “however . . . exercise authority under this section to” are omitted as surplus. In clause (1), the word “affected” is omitted as surplus. In clause (2), the word “attempting” is substituted for “make every effort” to eliminate unnecessary words. The words “for testing” and “the Secretary considers” are added for clarity.
 
 In subsection (g), the words “with respect to matters under their jurisdiction” in 49 App.:2011(a) are omitted as surplus.
 

@@ -2,15 +2,15 @@
 
 #### (a) In general
 
-In order to receive an allotment under section 7111<sup>1</sup> of this title for any fiscal year, a State shall submit to the Secretary, at such time as the Secretary may require, an application that—
+In order to receive an allotment under section 7111 <sup>1</sup> of this title for any fiscal year, a State shall submit to the Secretary, at such time as the Secretary may require, an application that—
 
 &emsp;(1) describes how funds under this subpart will be coordinated with programs under this chapter, the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\], and other Acts, as appropriate, in accordance with the provisions of section 8856 of this title;
 
 &emsp;(2) contains the results of the State's needs assessment for drug and violence prevention programs, which shall be based on the results of on-going State evaluation activities, including data on the prevalence of drug use and violence by youth in schools and communities;
 
-&emsp;(3) contains assurances that the sections of the application concerning the funds provided to the chief executive officer and the State educational agency were developed separately by such officer or agency, respectively, but in consultation and coordination with appropriate State officials and others, including the chief State school officer, the chief executive officer, the head of the State alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or their designees, and representatives of parents, students, and community-based organizations;
+&emsp;(3) contains assurances that the sections of the application concerning the funds provided to the chief executive officer and the State educational agency were developed separately by such officer or agency, respectively, but in consultation and coordination with appropriate State officials and others, including the chief State school officer, the chief executive officer, the head of the State alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or theirdesignees, and representatives of parents, students, and community-based organizations;
 
-&emsp;(4) contains an assurance that the State will cooperate with, and assist, the Secretary inconducting a national impact evaluation of programs required by section 7117(a) of this title; and
+&emsp;(4) contains an assurance that the State will cooperate with, and assist, the Secretary in conducting a national impact evaluation of programs required by section 7117(a) of this title; and
 
 &emsp;(5) includes any other information the Secretary may require.
 
@@ -54,17 +54,17 @@ The Secretary shall use a peer review process in reviewing State applications un
 
 Notwithstanding any other provisions of this section, a State may submit for fiscal year 1995 a one-year interim application and plan for the use of funds under this subpart that are consistent with the requirements of this section and contain such information as the Secretary may specify in regulations. The purpose of such interim application and plan shall be to afford the State the opportunity to fully develop and review such State's application and comprehensive plan otherwise required by this section. A State may not receive a grant under this subpart for a fiscal year subsequent to fiscal year 1995 unless the Secretary has approved such State's application and comprehensive plan in accordance with this subpart.
 
-(Pub. L. 89 10, title IV, §4112, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3675.)
+(Pub. L. 89–10, title IV, §4112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3675.)
 
 #### References in Text
 
-Section 7111 of this title, referred to in subsec. (a)(1), was in the original “section 4111”, meaning section 4111 of Pub. L. 89 10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89 10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
+Section 7111 of this title, referred to in subsec. (a)(1), was in the original “section 4111”, meaning section 4111 of Pub. L. 89–10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
 
-The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7117 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 Section 364, act July 24, 1947, ch. 305, 61 Stat. 414, which authorized the legislature to provide for the exercise of zoning power in town sites, was transferred to section 738 of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 
-Section 364a, act Aug. 30, 1949, ch. 521, §1, 63 Stat. 679, which authorized the sale of certain public lands and set out the requirements of public auction, notice, andproof of the buyer's intention, was transferred to section 687b of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
+Section 364a, act Aug. 30, 1949, ch. 521, §1, 63 Stat. 679, which authorized the sale of certain public lands and set out the requirements of public auction, notice, and proof of the buyer's intention, was transferred to section 687b of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 
 Section 364b, act Aug. 30, 1949, ch. 521, §2, 63 Stat. 679, which prohibited the sale of land for less than the appraised value and the cost of making any survey to properly describe the land sold, was transferred to section 687b–1 of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 

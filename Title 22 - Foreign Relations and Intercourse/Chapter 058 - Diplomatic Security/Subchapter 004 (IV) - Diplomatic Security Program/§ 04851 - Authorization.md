@@ -14,13 +14,11 @@
 
 #### (2) Omitted
 
-#### (3) Capital construction, fiscal years 1988 through 1990
-
-&emsp;There is authorized to be appropriated for the Department of State for “Acquisition and Maintenance of Buildings Abroad” for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.
+#### (3) Repealed. Pub. L. 103–236, title I, §101(c), Apr. 30, 1994, 108 Stat. 388
 
 #### (4) Allocation of amounts authorized to be appropriated
 
-&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment made by paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
+&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment madeby paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
 
 #### (b) Notification to authorizing Committees of requests for appropriations
 
@@ -56,10 +54,6 @@ Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of 
 
 (Pub. L. 99–399, title IV, §401, Aug. 27, 1986, 100 Stat. 862; Pub. L. 100–204, title I, §101(c), Dec. 22, 1987, 101 Stat. 1336; Pub. L. 103–236, title I, §§101(c), 122(b), Apr. 30, 1994, 108 Stat. 388, 392.)
 
-#### Repeal of Subsection (a)(3)
-
-<i>Pub. L. 103–236, title I, §101(c), Apr. 30, 1994, 108 Stat. 388, provided that, effective Oct. 1, 1995, subsection (a)(3) of this section is repealed.</i>
-
 #### References in Text
 
 The amendment made by paragraph (2), referred to in subsec. (a)(4), is the amendment made by section 401(a)(2) of Pub. L. 99–399 to section 2349aa–4 of this title.
@@ -72,7 +66,9 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+1994—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
+
+Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
@@ -80,7 +76,7 @@ Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par.
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

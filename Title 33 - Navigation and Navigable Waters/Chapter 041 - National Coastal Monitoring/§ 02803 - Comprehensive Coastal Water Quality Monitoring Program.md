@@ -62,7 +62,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (3) Periodic review
 
-&emsp;The Administrator and the Under Secretary shall periodically review the guidelines and protocols issued under this subsection to evaluate their effectiveness, the degree to which they continue to answer program objectives and provide an appropriate degree of uniformity while taking local conditions into account, and any need to modify or supplement them with new guidelines and protocols, as needed.
+&emsp;The Administrator and the Under Secretary shall periodically review the guidelines and protocols issued under this subsection to evaluate their effectiveness, the degree towhich they continue to answer program objectives and provide an appropriate degree of uniformity while taking local conditions into account, and any need to modify or supplement them with new guidelines and protocols, as needed.
 
 #### (4) Discharge permit data
 

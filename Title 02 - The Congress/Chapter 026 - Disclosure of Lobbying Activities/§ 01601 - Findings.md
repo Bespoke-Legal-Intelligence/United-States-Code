@@ -1,0 +1,28 @@
+### §1601. Findings
+
+The Congress finds that—
+
+&emsp;(1) responsible representative Government requires public awareness of the efforts of paid lobbyists to influence the public decisionmaking process in both the legislative and executive branches of the Federal Government;
+
+&emsp;(2) existing lobbying disclosure statutes have been ineffective because of unclear statutory language, weak administrative and enforcement provisions, and an absence of clear guidance as to who is required to register and what they are required to disclose; and
+
+&emsp;(3) the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.
+
+(Pub. L. 104–65, §2, Dec. 19, 1995, 109 Stat. 691.)
+
+#### Effective Date
+
+Section 24 of Pub. L. 104–65 provided that:
+
+“(a) Except as otherwise provided in this section, this Act \[see Short Title note below\] and the amendments made by this Act shall take effect on January 1, 1996.
+
+“(b) The repeals and amendments made under sections 9, 10, 11, and 12 \[amending section 4804 of Title 15, Commerce and Trade, section 219 of Title 18, Crimes and Criminal Procedure, sections 611, 613, 614, 616, 618, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, and repealing provisions set out as a note under section 261 of this title\] shall take effect as provided under subsection (a), except that such repeals and amendments—
+
+&emsp;“(1) shall not affect any proceeding or suit commenced before the effective date under subsection (a), and in all such proceedings or suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted; and
+
+&emsp;“(2) shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments.”
+
+#### Short Title
+
+Section 1 of Pub. L. 104–65 provided that: “This Act \[enacting this chapter, amending sections 3304 of Title 5, Government Organization and Employees, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, section 4804 of Title 15, Commerce and Trade, sections 207 and 219 of Title 18, Crimes and Criminal Procedure, section 2171 of Title 19, Customs Duties, sections 611, 613, 614, 616, 618, 621, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, enacting provisions set out as notes under this section, section 3304 of Title 5, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, and section 207 of Title 18, and repealing provisions set out as a note under section 261 of this title\] may be cited as the ‘Lobbying Disclosure Act of 1995’.”
+

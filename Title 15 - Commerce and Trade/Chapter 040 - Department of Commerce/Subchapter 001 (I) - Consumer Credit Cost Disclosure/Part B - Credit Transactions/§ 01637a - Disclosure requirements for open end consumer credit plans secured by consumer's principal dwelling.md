@@ -96,7 +96,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;A statement that—
 
-&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of any outstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
+&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of anyoutstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
 
 &emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor may take any action described in subparagraph (A).
 
@@ -186,7 +186,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (C) Precedence of certain information
 
-&emsp;&emsp;The disclosures required by paragraphs (5), (6), and (7) of subsection (a) of this sectionshall precede all of the other required disclosures.
+&emsp;&emsp;The disclosures required by paragraphs (5), (6), and (7) of subsection (a) of this section shall precede all of the other required disclosures.
 
 #### (D) Special provision relating to variable interest rate information
 
@@ -220,11 +220,11 @@ In addition to the disclosures required under subsection (a) of this section wit
 
 &emsp;(2) any pamphlet which provides substantially similar information to the information described in such section, as determined by the Board.
 
-(Pub. L. 90 321, title I, §127A, as added Pub. L. 100 709, §2(a), Nov. 23, 1988, 102 Stat. 4725.)
+(Pub. L. 90–321, title I, §127A, as added Pub. L. 100–709, §2(a), Nov. 23, 1988, 102 Stat. 4725.)
 
 #### References in Text
 
-Section 4 of the Home Equity Consumer Protection Act of 1988, referred to in subsec. (e)(1), is section 4 of Pub. L. 100 709, which is set out as a note below.
+Section 4 of the Home Equity Consumer Protection Act of 1988, referred to in subsec. (e)(1), is section 4 of Pub. L. 100–709, which is set out as a note below.
 
 #### Effective Date
 
@@ -232,7 +232,7 @@ For effective date of section, see Regulations; Effective Date note below.
 
 #### Regulations; Effective Date
 
-Section 7 of Pub. L. 100 709 provided that:
+Section 7 of Pub. L. 100–709 provided that:
 
 “(a)
 
@@ -252,7 +252,7 @@ Voluntary Compliance.—Notwithstanding subsection (b), any creditor may comply 
 
 #### Consumer Education
 
-Section 4 of Pub. L. 100 709 provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
+Section 4 of Pub. L. 100–709 provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
 &emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
 

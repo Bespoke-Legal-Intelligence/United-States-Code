@@ -14,7 +14,7 @@ If—
 
 #### (1) In general
 
-&emsp;In the case of a reacquisition of real property to which subsection (a) applies, gain shallresult from such reacquisition to the extent that—
+&emsp;In the case of a reacquisition of real property to which subsection (a) applies, gain shall result from such reacquisition to the extent that—
 
 &emsp;&emsp;(A) the amount of money and the fair market value of other property (other than obligations of the purchaser) received, prior to such reacquisition, with respect to the sale of such property, exceeds
 
@@ -22,7 +22,7 @@ If—
 
 #### (2) Limitation
 
-&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition during any taxable year beginning after the date of the enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
+&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition during any taxable year beginning after the date ofthe enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of the gain on the sale of such property returned as income for periods prior to the reacquisition of such property, and
 
@@ -88,7 +88,7 @@ Section 405(c)(3) of Pub. L. 95–600 purported to amend section 1083(e)(1)(B) o
 
 1980—Subsec. (g). Pub. L. 96–471 added subsec. (g).
 
-1978—Subsec. (e)(1)(A). Pub. L. 95–600, §404(c)(6), substituted “relating to one-time exclusion of gain fromsale of principal residence by individual who has attained age 55” for “relating to gain from sale or exchange of residence of an individual who has attained age 65”.
+1978—Subsec. (e)(1)(A). Pub. L. 95–600, §404(c)(6), substituted “relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “relating to gain from sale or exchange of residence of an individual who has attained age 65”.
 
 Subsec. (e)(1)(B). Pub. L. 95–600, §405(c)(3), substituted “(relating to rollover of gain on sale of principal residence)” for “(relating to sale or exchange of residence)”. See Codification note above.
 

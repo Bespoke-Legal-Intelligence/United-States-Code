@@ -3,13 +3,13 @@
 | Sec. |  |
 | :--- | ---: |
 | \[3571. | Repealed.\] |
-| 3572\. | Rank: commissioned officers serving under temporary appointments. |
+| [3572\.](%C2%A7%2003572%20-%20Rank%20commissioned%20officers%20serving%20under%20temporary%20appointments.md) | Rank: commissioned officers serving under temporary appointments. |
 | \[3573, 3574. Repealed.\] |  |
-| 3575\. | Rank: warrant officers. |
+| [3575\.](%C2%A7%2003575%20-%20Rank%20warrant%20officers.md) | Rank: warrant officers. |
 | \[3576, 3578. Repealed.\] |  |
-| 3579\. | Command: commissioned officers of Army Medical Department. |
+| [3579\.](%C2%A7%2003579%20-%20Command%20commissioned%20officers%20of%20Army%20Medical%20Department.md) | Command: commissioned officers of Army Medical Department. |
 | \[3580. | Repealed.\] |
-| 3581\. | Command: chaplains. |
+| [3581\.](%C2%A7%2003581%20-%20Command%20chaplains.md) | Command: chaplains. |
 | \[3582. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -18,13 +18,13 @@ The Secretary shall give priority to grants for the purposes described under sub
 
 Grants to institutions having a cooperative arrangement may be made under this section for a period as determined under section 1059 of this title or section 1062 of this title.
 
-(Pub. L. 89 329, title III, §354, as added Pub. L. 99 498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305.)
+(Pub. L. 89–329, title III, §354, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305.)
 
 #### Prior Provisions
 
-A prior section 1069, Pub. L. 89 329, title III, §344, as added Pub. L. 96 374, title III, §301, Oct. 3, 1980, 94 Stat. 1399, provided for a program of grants to encourage cooperative arrangements between institutions, prior to the general revision of this subchapter by Pub. L. 99 498.
+A prior section 1069, Pub. L. 89–329, title III, §344, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1399, provided for a program of grants to encourage cooperative arrangements between institutions, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1069, Pub. L. 89 329, title IV, §409, Nov. 8, 1965, 79 Stat. 1236, related to definition of academic year, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92 318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1069, Pub. L. 89–329, title IV, §409, Nov. 8, 1965, 79 Stat. 1236, related to definition ofacademic year, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Section Referred to in Other Sections
 

@@ -100,9 +100,13 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Transfer of Functions
 
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+#### Cross References
+
+Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance, Official Expenses Allowance, and Official Mail Allowance into Members’ Representational Allowance, see section 57b of this title.
 

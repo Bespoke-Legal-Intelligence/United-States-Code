@@ -1,4 +1,4 @@
-### §460n–8 . United States magistrate judge: appointment; functions; probation; fees
+### §460n–8. United States magistrate judge: appointment; functions; probation; fees
 
 A United States magistrate judge shall be appointed for that portion of the Lake Mead National Recreation Area that is situated in Mohave County, Arizona. Such magistrate judge shall be appointed by the United States district court having jurisdiction thereover, and the magistrate judge shall serve as directed by such court, as well as pursuant to, and within the limits of, the authority of said court.
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after thetaking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 5721\. | Temporary promotions of certain Navy lieutenants. |
+| [5721\.](%C2%A7%2005721%20-%20Temporary%20promotions%20of%20certain%20Navy%20lieutenants.md) | Temporary promotions of certain Navy lieutenants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

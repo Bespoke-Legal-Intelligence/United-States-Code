@@ -20,7 +20,7 @@ The Secretary, in consultation with the Governor of the State of Ohio, shall inv
 
 #### (e) Donations for services and facilities
 
-Notwithstanding any other provision of law, the Secretary is authorized to accept donationsof funds, property, or services from individuals, foundations, corporations, or public entities for the purposes of providing services and facilities which he deems consistent with the purposes of this subchapter.
+Notwithstanding any other provision of law, the Secretary is authorized to accept donations of funds, property, or services from individuals, foundations, corporations, or public entities for the purposes of providing services and facilities which he deems consistent with the purposes of this subchapter.
 
 #### (f) Zoning laws and ordinances; consultation and assistance with local government or intergovernmental organization in establishment; objectives; technical aid
 

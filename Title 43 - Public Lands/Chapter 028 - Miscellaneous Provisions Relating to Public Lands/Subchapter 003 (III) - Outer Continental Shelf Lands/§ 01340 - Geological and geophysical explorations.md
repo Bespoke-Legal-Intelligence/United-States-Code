@@ -8,7 +8,7 @@
 
 #### (b) Oil and gas exploration
 
-Except as provided in subsection (f) of this section, beginning ninety days after September 18, 1978, no exploration pursuant to any oil and gaslease issued or maintained under this subchapter may be undertaken by the holder of such lease, except in accordance with the provisions of this section.
+Except as provided in subsection (f) of this section, beginning ninety days after September 18, 1978, no exploration pursuant to any oil and gas lease issued or maintained under this subchapter may be undertaken by the holder of such lease, except in accordance with the provisions of this section.
 
 #### (c) Plan approval; State concurrence; plan provisions
 
@@ -72,7 +72,7 @@ The Secretary shall not issue a lease or permit for, or otherwise allow, explora
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty intereststaken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 #### Section Referred to in Other Sections
 

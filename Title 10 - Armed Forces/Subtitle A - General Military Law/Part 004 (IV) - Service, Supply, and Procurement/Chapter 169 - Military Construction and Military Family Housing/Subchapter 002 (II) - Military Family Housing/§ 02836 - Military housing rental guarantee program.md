@@ -6,7 +6,7 @@ Authority.—Subject to subsection (b), the Secretary of a military department, 
 
 (b)
 
-Submission and Authorization of Proposed Agreements.—(1) The Secretary of a military department, or the Secretary of Transportation with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
+Submission and Authorization of Proposed Agreements.—(1) The Secretary of a military department, or the Secretary of Transportation with respect to the Coast Guard, may enter into agreements pursuant to subsection\(a) for such military housing rental guaranty projects as are authorized by law.
 
 (2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.
 
@@ -76,11 +76,11 @@ Disputes.—The Secretary concerned may require that disputes arising under an a
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (g), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
+The Contract Disputes Act of 1978, referred to in subsec. (g), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, asamended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
 
 #### Prior Provisions
 
-Prior similar provisions were contained in Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended, which was set out as a note under section 2821 of this title, prior to repeal by Pub. L. 102–190, §2809(b).
+Similar provisions were contained in Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended, which was set out as a note under section 2821 of this title, prior to repeal by Pub. L. 102–190, §2809(b).
 
 #### Effective Date
 

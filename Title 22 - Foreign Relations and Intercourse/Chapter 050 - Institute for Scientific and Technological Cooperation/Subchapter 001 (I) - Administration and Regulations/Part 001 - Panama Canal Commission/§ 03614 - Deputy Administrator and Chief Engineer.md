@@ -12,7 +12,7 @@ The Deputy Administrator and the Chief Engineer shall each be paid compensation 
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid theoverseas recruitment or retention differential provided for in section 3657 of this title”.
+1990—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title”.
 
 #### Delegation of Functions
 

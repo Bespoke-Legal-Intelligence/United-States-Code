@@ -22,3 +22,11 @@ A prior section 58a, Pub. L. 95–94, title I, §112(g), Aug. 5, 1977, 91 Stat. 
 
 Amendment by Pub. L. 99–65 effective on first day of first calendar month beginning more than 60 days after July 12, 1985, see section 2 of Pub. L. 99–65, set out as a note under section 58 of this title.
 
+#### Payment for Telecommunications Service Provided by Sergeant at Arms and Doorkeeper of Senate
+
+Pub. L. 104–53, title I, §5, Nov. 19, 1995, 109 Stat. 517, provided that:
+
+“(a) Any payment for local and long distance telecommunications service provided to any user by the Sergeant at Arms and Doorkeeper of the Senate shall cover the total invoiced amount, including any amount relating to separately identified toll calls, and shall be charged to the appropriation for the fiscal year in which the underlying base service period covered by the invoice ends.
+
+“(b) As used in subsection (a), the term ‘user’ means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms and Doorkeeper of the Senate.”
+

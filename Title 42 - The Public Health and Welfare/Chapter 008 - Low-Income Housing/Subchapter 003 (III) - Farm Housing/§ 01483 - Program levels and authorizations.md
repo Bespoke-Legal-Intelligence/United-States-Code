@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 100–242, §301(c), amended subsec. (c) generally, substit
 
 Subsecs. (d), (e). Pub. L. 100–242, §301(d), (g), added subsecs. (d) and (e).
 
-1986—Subsec. (a)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary may insure and guarantee loans under this subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act.”
+1986—Subsec. (a)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary may insure and guarantee loans underthis subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act.”
 
 1984—Subsec. (a). Pub. L. 98–479, §105(d)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 97–35, §351(a)(4)–(7), in par. (2) substituted “$50,
 
 Pub. L. 96–372, §6(a)(1), substituted “October 15, 1980” for “September 30, 1980”.
 
-Subsec. (b). Pub. L. 96–399, §501(a)(5)–(7), in par. (2) substituted provision for $49,000,000 for fiscal year ending Sept. 30, 1981, for provision for $48,000,000 for fiscal year ending Sept. 30, 1980, and inserted limitation of$25,000,000 available for grants, in par. (3) substituted provision for $25,000,000 for fiscal year ending Sept. 30, 1981, for provision for $30,000,000 for fiscal year ending Oct. 15, 1980, and in par. (4) substituted “$2,000,000” for “$1,500,000”, “$1,000,000” for “$750,000”, “1981” for “1980”, and struck out “and not to exceed $1,000,000 for the purposes of section 1490e(b) of this title” after “borrowers”.
+Subsec. (b). Pub. L. 96–399, §501(a)(5)–(7), in par. (2) substituted provision for $49,000,000 for fiscal year ending Sept. 30, 1981, for provision for $48,000,000 for fiscal year ending Sept. 30, 1980, and inserted limitation of $25,000,000 available for grants, in par. (3) substituted provision for $25,000,000 for fiscal year ending Sept. 30, 1981, for provision for $30,000,000 for fiscal year ending Oct. 15, 1980, and in par. (4) substituted “$2,000,000” for “$1,500,000”, “$1,000,000” for “$750,000”, “1981” for “1980”, and struck out “and not to exceed $1,000,000 for the purposes of section 1490e(b) of this title” after “borrowers”.
 
 Pub. L. 96–372, §6(a)(2), substituted “October 15, 1980” for “September 30, 1980” in pars. (2) to (4).
 

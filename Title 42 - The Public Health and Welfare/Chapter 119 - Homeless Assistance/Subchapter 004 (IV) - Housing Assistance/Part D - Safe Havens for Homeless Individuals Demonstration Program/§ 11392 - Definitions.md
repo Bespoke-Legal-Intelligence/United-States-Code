@@ -84,5 +84,5 @@ For purposes of this part:
 
 #### Prior Provisions
 
-A prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, provided for supplemental assistance for facilities to assist the homeless, prior to repeal by Pub. L. 102–550, §1403(a).
+A prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L.101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, provided for supplemental assistance for facilities to assist the homeless, prior to repeal by Pub. L. 102–550, §1403(a).
 

@@ -38,15 +38,15 @@ Each local educational agency shall provide not less than 33 percent of the cost
 
 The State educational agency may approve an application which has not fully met the requirements of subsection (a) of this section and waive the requirements of subsection (a) of this section if a local educational agency can demonstrate that such agency is unable to meet the requirements of subsection (a) of this section due to economic hardship and that compliance with such requirements would preclude such agency's participation in the program.
 
-(Pub. L. 89 10, title II, §2209, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3628.)
+(Pub. L. 89–10, title II, §2209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3628.)
 
 #### References in Text
 
-The Women's Educational Equity Act of 1994, referred to in subsec. (b)(1)(C)(iv), is part B (§§5201 5208) of title V of Pub. L. 89 10, as added by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, which is classified generally to part B (§7231 et seq.) of subchapter V of this chapter. For complete classification of this Act to the Code, see section 7231 of this title and Tables.
+The Women's Educational Equity Act of 1994, referred to in subsec. (b)(1)(C)(iv), is part B (§§5201–5208) of title V of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, which is classified generally to part B (§7231 et seq.) of subchapter V of this chapter. For complete classification of this Act to the Code, see section 7231 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(C)(v), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(C)(v), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(C)(vii), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(C)(vii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

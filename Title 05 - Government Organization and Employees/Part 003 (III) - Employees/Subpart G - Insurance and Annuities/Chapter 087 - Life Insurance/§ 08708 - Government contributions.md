@@ -1,4 +1,4 @@
-### §8708 . Government contributions
+### §8708. Government contributions
 
 (a) For each period in which an employee is insured under a policy of insurance purchased by the Office of Personnel Management under section 8709 of this title, a sum equal to one-half the amount which is withheld from the pay of the employee under section 8707 of this title shall be contributed from the appropriation or fund which is used to pay him.
 
@@ -48,11 +48,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–303 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–303 added subsec. (d).
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1967—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
+<b>1967</b>—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
 
 #### Effective Date of 1978 Amendment
 

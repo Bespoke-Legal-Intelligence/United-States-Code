@@ -70,29 +70,29 @@ Except as otherwise provided in this section and section 2341b of this title, ea
 
 &emsp;(B) transfer such allocation to the area vocational education school or intermediate educational agency.
 
-(Pub. L. 88 210, title II, §231, as added Pub. L. 101 392, title II, §201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103 382, title III, §391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025.)
+(Pub. L. 88–210, title II, §231, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103–382, title III, §391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025.)
 
 #### References in Text
 
-Such section's predecessor authority, referred to in subsec. (a)(1), probably refers to section 2711 of this title which contained provisions similar to those in section 6333 of this title. Section 2711 was omitted in the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Such section's predecessor authority, referred to in subsec. (a)(1), probably refers to section 2711 of this title which contained provisions similar to those in section 6333 of this title. Section 2711 was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 The National School Lunch Act, referred to in subsec. (d)(3)(A)(i), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (d)(3)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(3)(A)(iii), is Pub. L. 88 525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(3)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(A)(iv), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(A)(iv), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 2341, Pub. L. 88 210, title II, §251, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2455; amended Pub. L. 100 418, title VI, §6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State's allotment available for vocational education program improvement, innovation, and expansion, prior to the general revision of this subchapter by Pub. L. 101 392.
+A prior section 2341, Pub. L. 88–210, title II, §251, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2455; amended Pub. L. 100–418, title VI, §6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State's allotment available for vocational education program improvement, innovation, and expansion, prior to the general revision of this subchapter by Pub. L. 101–392.
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103 382, §391(s)(4), substituted “section 1124 or such section's predecessor authority” for “section 1005”.
+1994—Subsec. (a)(1). Pub. L. 103–382, §391(s)(4), substituted “section 1124 or such section's predecessor authority” for “section 1005”.
 
-Subsec. (d)(3)(A)(iv). Pub. L. 103 382, §391(s)(5), substituted “title I” for “chapter 1 of title I”.
+Subsec. (d)(3)(A)(iv). Pub. L. 103–382, §391(s)(5), substituted “title I” for “chapter 1 of title I”.
 
 #### Section Referred to in Other Sections
 

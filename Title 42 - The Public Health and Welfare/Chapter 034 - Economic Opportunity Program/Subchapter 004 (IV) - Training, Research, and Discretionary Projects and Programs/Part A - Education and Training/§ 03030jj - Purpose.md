@@ -1,6 +1,6 @@
 ### §3030jj. Purpose
 
-The purpose of this part is to improve the quality of service and to help meet critical shortages of adequately trained personnel for programs in the field of aging by—
+The purpose of this part is to improve the quality of service and to help meet criticalshortages of adequately trained personnel for programs in the field of aging by—
 
 &emsp;(1) identifying both short- and long-range manpower needs in the field of aging;
 

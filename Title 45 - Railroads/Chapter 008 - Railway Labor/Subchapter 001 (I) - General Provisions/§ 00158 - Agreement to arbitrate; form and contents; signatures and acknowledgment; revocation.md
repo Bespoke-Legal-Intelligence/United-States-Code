@@ -32,7 +32,7 @@ The agreement to arbitrate—
 
 The said agreement to arbitrate, when properly signed and acknowledged as herein provided, shall not be revoked by a party to such agreement: <i>Provided, however</i>, That such agreement to arbitrate may at any time be revoked and canceled by the written agreement of both parties, signed by their duly accredited representatives, and (if no board of arbitration has yet been constituted under the agreement) delivered to the Mediation Board or any member thereof; or, if the board of arbitration has been constituted as provided by this chapter, delivered to such board of arbitration.
 
-(May 20, 1926, ch. 347, §8, 44 Stat. 584; June 21, 1934, ch. 691, §7, 48 Stat. 1197; June 25, 1948, ch.646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
+(May 20, 1926, ch. 347, §8, 44 Stat. 584; June 21, 1934, ch. 691, §7, 48 Stat. 1197; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
 #### Codification
 

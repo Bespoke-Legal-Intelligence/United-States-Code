@@ -38,7 +38,7 @@ Subsec. (b)(2). Pub. L. 101–225, §301(a)(1)(B), substituted “coastwise endo
 
 Subsec. (b)(3). Pub. L. 101–225, §301(a)(1)(C), substituted “Great Lakes endorsement” for “Great Lakes license”.
 
-Subsec. (b)(4), (5). Pub. L. 101–225, §301(a)(1)(D), (E), redesignated par. (5) as (4) and struck out former par. (4) which defined “license for the fisheries” and “enrollment and license for the fisheries” as meaning a fishery license as provided in section 12108 of this title.
+Subsec. (b)(4), (5). Pub. L. 101–225, §301(a)(1)(D), (E), redesignated par. (5) as (4) and struck out former par.\(4) which defined “license for the fisheries” and “enrollment and license for the fisheries” as meaning a fishery license as provided in section 12108 of this title.
 
 1988—Pub. L. 100–239 substituted “Definitions and related” for “Related” in section catchline, added subsec. (a), designated existing provisions as subsec. (b), and struck out par. (6) which read as follows: “ ‘fisheries’ includes planting, cultivating, catching, taking, or harvesting fish, shellfish, marine animals, pearls, shells, or marine vegetation in the navigable waters of the United States or in the fishery conservation zone established by section 101 of the Magnuson Fishery Conservation and Management Act of 1976 (16 U.S.C. 1811).”
 

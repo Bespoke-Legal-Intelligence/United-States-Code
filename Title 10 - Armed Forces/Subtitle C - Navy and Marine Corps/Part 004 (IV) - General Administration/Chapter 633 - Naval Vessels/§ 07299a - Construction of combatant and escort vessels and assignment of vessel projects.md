@@ -36,7 +36,7 @@ In subsection (a), the words “combatant vessels” are substituted for “wars
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–484, §1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that thefirst and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
+1992—Subsec. (a). Pub. L. 102–484, §1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
 
 Subsec. (b). Pub. L. 102–484, §1016(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 

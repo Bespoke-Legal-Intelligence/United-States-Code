@@ -72,7 +72,7 @@ For purposes of this section:
 
 #### (E) Compensation
 
-&emsp;&emsp;The term “compensation” includes any payment of money or provision of any other thing of value in consideration of employment.
+&emsp;&emsp;The term “compensation” includes any payment of money or provision of any otherthing of value in consideration of employment.
 
 #### (F) Relevant capital measure
 
@@ -80,7 +80,7 @@ For purposes of this section:
 
 #### (G) Required minimum level
 
-&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capitallevel specified by the appropriate Federal banking agency by regulation.
+&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
 
 #### (H) Senior executive officer
 
@@ -432,13 +432,13 @@ For purposes of this section:
 
 #### (D) Accrual of interest
 
-&emsp;&emsp;Subparagraph (A) does not prevent unpaid interest from accruing on subordinated debt under the terms of that debt, to the extent otherwise permitted by law.
+&emsp;&emsp;Subparagraph (A) does not prevent unpaid interest from accruing on subordinated debtunder the terms of that debt, to the extent otherwise permitted by law.
 
 #### (3) Conservatorship, receivership, or other action required
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Federal banking agency shall, not later than 90 days after an insureddepository institution becomes critically undercapitalized—
+&emsp;&emsp;The appropriate Federal banking agency shall, not later than 90 days after an insured depository institution becomes critically undercapitalized—
 
 &emsp;&emsp;&emsp;(i) appoint a receiver (or, with the concurrence of the Corporation, a conservator) for the institution; or
 
@@ -626,7 +626,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 #### (1) Timely petition required
 
-&emsp;A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) of this section may obtain review of that order by filing a written petition for reinstatement with the appropriate Federalbanking agency not later than 10 days after receiving notice of the dismissal.
+&emsp;A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) of this section may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
 
 #### (2) Procedure
 
@@ -724,7 +724,7 @@ Pub. L. 103–76, §3, Aug. 12, 1993, 107 Stat. 753, provided that:
 
 “(a)
 
-In General.—The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution's total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\], an amount not exceedingthe qualifying amount attributable to insurance proceeds, if the agency determines that—
+In General.—The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution's total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\], an amount not exceeding the qualifying amount attributable to insurance proceeds, if the agency determines that—
 
 &emsp;“(1) the institution—
 

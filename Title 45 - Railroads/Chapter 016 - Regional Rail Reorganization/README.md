@@ -260,14 +260,14 @@
 | (a) | Purpose. |
 | (b) | National Mediation Board. |
 | (c) | Other functions. |
-| 797<i>l.</i> | Repealed. |
+| 797<i>l.</i> | Class II railroads receiving Federal assistance. |
 | [797m.](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Employees/%C2%A7%2000797m%20-%20Arbitration.md) | Arbitration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 802, 823, 824, 1101, 1341 of this title; title 49 sections 10362, 24506, 24901, 24904, 24907.
+This chapter is referred to in sections 802, 823, 824, 1101, 1341 of this title; title 49 sections 24506, 24901, 24904, 24907.
 
 
 ---

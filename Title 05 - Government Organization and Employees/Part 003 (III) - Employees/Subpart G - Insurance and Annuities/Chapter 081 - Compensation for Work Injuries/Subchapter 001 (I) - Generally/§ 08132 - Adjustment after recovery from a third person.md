@@ -40,7 +40,7 @@ The words “However, \* \* \* is entitled to retain \* \* \* plus” are su
 
 #### Amendments
 
-1974—Pub. L. 93–416 made minor changes in phraseology and inserted provision prohibiting a court, etc., from distributing proceeds of suit or settlement without satisfying or assuring satisfaction of the interests of the United States.
+<b>1974</b>—Pub. L. 93–416 made minor changes in phraseology and inserted provision prohibiting a court, etc., from distributing proceeds of suit or settlement without satisfying or assuring satisfaction of the interests of the United States.
 
 #### Effective Date of 1974 Amendment
 

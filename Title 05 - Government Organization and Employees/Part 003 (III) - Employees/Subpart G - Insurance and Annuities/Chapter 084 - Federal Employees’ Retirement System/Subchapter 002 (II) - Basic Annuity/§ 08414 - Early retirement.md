@@ -28,11 +28,11 @@
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101–194, §506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–194, §506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
 Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
-1988—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
 
 #### Effective Date of 1989 Amendment
 

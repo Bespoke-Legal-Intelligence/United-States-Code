@@ -6,7 +6,7 @@
 
 (c) Of the persons employed by the United States under subsection (a), only nationals of the United States are entitled to the benefits provided by laws relating to the employment, work, compensation, or other benefits of civilian employees of the United States.
 
-(d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
+(d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make areasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 138.)
 

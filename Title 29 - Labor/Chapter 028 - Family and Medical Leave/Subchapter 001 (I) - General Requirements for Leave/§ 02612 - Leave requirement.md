@@ -50,7 +50,7 @@ Except as provided in subsection (d) of this section, leave granted under subsec
 
 #### (B) Serious health condition
 
-&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) of this section for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to providepaid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave.
+&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) of this section for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave.
 
 #### (e) Foreseeable leave
 
@@ -78,5 +78,5 @@ In any case in which a husband and wife entitled to leave under subsection (a) o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2611, 2613, 2614, 2618 of this title; title 2 sections 60m, 60n.
+This section is referred to in sections 2611, 2613, 2614, 2618 of this title; title 2 section 1312.
 

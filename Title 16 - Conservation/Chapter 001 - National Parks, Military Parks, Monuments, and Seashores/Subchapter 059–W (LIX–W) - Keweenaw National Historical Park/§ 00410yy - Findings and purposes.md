@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) Michigan Technological University, located in the copper district, was established in 1885 to supply the great demand for new technologies and trained engineers requested by the area's mining operations. Michigan Technological University possesses a wealth of both written and photographic historic documentation of the mining era in its archives.
 
-&emsp;(5) Michigan's copper country became a principal magnet to European immigrants during the mid-1800's and the cultural heritage of these varied nationalities is still preserved in this remarkable ethnic conglomerate.
+&emsp;(5) Michigan's copper country became a principal magnet to European immigrants duringthe mid-1800's and the cultural heritage of these varied nationalities is still preserved in this remarkable ethnic conglomerate.
 
 &emsp;(6) The corporate-sponsored community planning in Calumet, Michigan, as evidenced in the architecture, municipal design, surnames, foods, and traditions, and the large scale corporate paternalism was unprecedented in American industry and continues to express the heritage of the district.
 

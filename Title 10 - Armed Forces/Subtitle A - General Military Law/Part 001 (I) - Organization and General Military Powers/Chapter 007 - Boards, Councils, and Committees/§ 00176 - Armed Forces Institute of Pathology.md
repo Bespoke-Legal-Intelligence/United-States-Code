@@ -80,7 +80,7 @@ Sense of the Congress.—
 
 Findings.—Congress makes the following findings:
 
-&emsp;&emsp;“(A) The National Museum of Health and Medicine Foundation, Inc. (a private, nonprofit organization having for its primary purpose the relocation to the Mall and revitalization of the National Museum of Health and Medicine), the Armed Forces Institute of Pathology, and the Public Health Service have jointly supported planning to relocate theMuseum to a site on land that is located east of and adjacent to the Hubert H. Humphrey Building (100 Independence Avenue, Southwest, in the District of Columbia).
+&emsp;&emsp;“(A) The National Museum of Health and Medicine Foundation, Inc. (a private, nonprofit organization having for its primary purpose the relocation to the Mall and revitalization of the National Museum of Health and Medicine), the Armed Forces Institute of Pathology, and the Public Health Service have jointly supported planning to relocate the Museum to a site on land that is located east of and adjacent to the Hubert H. Humphrey Building (100 Independence Avenue, Southwest, in the District of Columbia).
 
 &emsp;&emsp;“(B) The National Museum of Health and Medicine Foundation, Inc., is deserving of the encouragement and support of the American people in its effort to relocate the National Museum of Health and Medicine to a site on land that is located east of and adjacent to the Hubert H. Humphrey Building, and in its effort to raise funds for a revitalized Museum to inspire increasing numbers of Americans to lead healthy lives through improved public understanding of health and the medical sciences.
 

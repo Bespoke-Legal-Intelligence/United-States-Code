@@ -2,7 +2,7 @@
 
 #### (a) Creation; composition; political representation; appointment; term; vacancies; Chairman and Vice Chairman; duties of Chairman; appointment of personnel; compensation of personnel
 
-There is hereby created a Commission to be known as the Equal Employment Opportunity Commission, which shall be composed of five members, not more than three of whom shall be members of the same political party. Members of the Commission shall be appointed by the President by and with the advice and consent of the Senate for a term of five years. Any individual chosen to fill a vacancy shall be appointed only for the unexpired term of the member whom he shall succeed, and all members of the Commission shall continue to serve until their successors are appointed and qualified, except that no such member of the Commission shall continue to serve (1) for more than sixty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in whichsuch nomination was submitted. The President shall designate one member to serve as Chairman of the Commission, and one member to serve as Vice Chairman. The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission, and, except as provided in subsection (b) of this section, shall appoint, in accordance with the provisions of title 5 governing appointments in the competitive service, such officers, agents, attorneys, administrative law judges, and employees as he deems necessary to assist it in the performance of its functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal, and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
+There is hereby created a Commission to be known as the Equal Employment Opportunity Commission, which shall be composed of five members, not more than three of whom shall be members of the same political party. Members of the Commission shall be appointed by the President by and with the advice and consent of the Senate for a term of five years. Any individual chosen to fill a vacancy shall be appointed only for the unexpired term of the member whom he shall succeed, and all members of the Commission shall continue to serve until their successors are appointed and qualified, except that no such member of the Commission shall continue to serve (1) for more than sixty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted. The President shall designate one member to serve as Chairman of the Commission, and one member to serve as Vice Chairman. The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission, and, except as provided in subsection (b) of this section, shall appoint, in accordance with the provisions of title 5 governing appointments in the competitive service, such officers, agents, attorneys, administrative law judges, and employees as he deems necessary to assist it in the performance of its functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal, and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
 
 #### (b) General Counsel; appointment; term; duties; representation by attorneys and Attorney General
 
@@ -60,7 +60,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 #### (j) Technical Assistance Training Institute
 
-(1) The Commission shall establish a Technical Assistance Training Institute, through whichthe Commission shall provide technical assistance and training regarding the laws and regulations enforced by the Commission.
+(1) The Commission shall establish a Technical Assistance Training Institute, through which the Commission shall provide technical assistance and training regarding the laws and regulations enforced by the Commission.
 
 (2) An employer or other entity covered under this subchapter shall not be excused from compliance with the requirements of this subchapter because of any failure to receive technical assistance under this subsection.
 
@@ -80,19 +80,19 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 (B) Fees received under subparagraph (A) shall be deposited in the Fund by the Commission.
 
-(C) The Commission shall include in each report made under subsection (e) of this section information with respect to the operation of the Fund, including—
+(C) The Commission shall include in each report made under subsection (e) of this section information with respect to the operation of the Fund, including information, presented in the aggregate, relating to—
 
-&emsp;(i) the identity of each person or entity to which the Commission provided education, technical assistance, or training with monies in the Fund, in the fiscal year for which such report is prepared,
+&emsp;(i) the number of persons and entities to which the Commission provided education, technical assistance, or training with monies in the Fund, in the fiscal year for which such report is prepared,
 
-&emsp;(ii) the cost to the Commission to provide such education, technical assistance, or training to such person or entity, and
+&emsp;(ii) the cost to the Commission to provide such education, technical assistance, or training to such persons and entities, and
 
-&emsp;(iii) the amount of any fee received by the Commission from such person or entity for such education, technical assistance, or training.
+&emsp;(iii) the amount of any fees received by the Commission from such persons and entities forsuch education, technical assistance, or training.
 
 (3) The Secretary of the Treasury shall invest the portion of the Fund not required to satisfy current expenditures from the Fund, as determined by the Commission, in obligations of the United States or obligations guaranteed as to principal by the United States. Investment proceeds shall be deposited in the Fund.
 
 (4) There is hereby transferred to the Fund $1,000,000 from the Salaries and Expenses appropriation of the Commission.
 
-(Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27, 1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102.)
+(Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27, 1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, §2031, Dec. 21, 1995, 109 Stat. 728.)
 
 #### References in Text
 
@@ -112,6 +112,8 @@ In subsec. (i), “section 7324 of title 5” substituted for “section 9 of th
 
 #### Amendments
 
+1995—Subsec. (k)(2)(C). Pub. L. 104–66 substituted “including information, presented in the aggregate, relating to” for “including” in introductory provisions, “the number of persons and entities” for “the identity of each person or entity” in cl. (i), “such persons and entities” for “such person or entity” in cl. (ii), and “fees” for “fee” and “such persons and entities” for “such person or entity” in cl. (iii).
+
 1992—Subsec. (k). Pub. L. 102–411 added subsec. (k).
 
 1991—Subsec. (h). Pub. L. 102–166, §111, designated existing provisions as par. (1) and added par. (2).
@@ -126,7 +128,7 @@ Subsec. (j). Pub. L. 102–166, §110(a), added subsec. (j).
 
 Subsecs. (b) to (e). Pub. L. 92–261, §8(e), added subsec. (b), struck out subsec. (e) which amended sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, and redesignated existing subsecs. (b), (c), and (d) as (c), (d), and (e), respectively.
 
-Subsec. (g)(6). Pub. L. 92–261, §8(f), substituted provisions which authorized Commission to intervene in acivil action brought under section 2000e–5 of this title where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
+Subsec. (g)(6). Pub. L. 92–261, §8(f), substituted provisions which authorized Commission to intervene in a civil action brought under section 2000e–5 of this title where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
 
 Subsecs. (h) to (j). Pub. L. 92–261, §8(e)(2), (3), struck out subsec. (h) which provided for legal representation for Commission, and redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
@@ -180,7 +182,7 @@ Administrative proceedings including administrative appeals from the acts of an 
 
 #### Sec. 8. Incidental Transfers
 
-So much of the personnel, property, records and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or component at such time or times as the Director of theOffice of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of the Council abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of the Council abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 9. Effective Date
 
@@ -200,7 +202,7 @@ To the Congress of the United States:
 
 I am submitting to you today Reorganization Plan No. 1 of 1978. This Plan makes the Equal Employment Opportunity Commission the principal Federal agency in fair employment enforcement. Together with actions I shall take by Executive Order, it consolidates Federal equal employment opportunity activities and lays, for the first time, the foundation of a unified, coherent Federal structure to combat job discrimination in all its forms.
 
-In 1940 President Roosevelt issued the first Executive Order forbidding discrimination in employment by the Federal government. Since that time the Congress, the courts and the Executive Branch—spurred by the courage and sacrifice of many people and organizations—have taken historic steps to extend equal employment opportunity protection throughout the private as well as public sector. But each new prohibition against discrimination unfortunately has brought with it a further dispersal of Federal equal employment opportunity responsibility. This fragmentation of authority among a number of Federal agencies has meant confusion and ineffective enforcement for employees, regulatory duplication and needless expense for employers.
+In 1940 President Roosevelt issued the first Executive Order forbidding discrimination in employment by the Federal government. Since that time the Congress, the courts and the Executive Branch—spurred by the courage and sacrifice of many people and organizations—have taken historic steps to extend equal employment opportunity protection throughout the private as well as public sector. But each new prohibition against discrimination unfortunately has brought with it a further dispersal of Federal equal employment opportunity responsibility. This fragmentation of authorityamong a number of Federal agencies has meant confusion and ineffective enforcement for employees, regulatory duplication and needless expense for employers.
 
 Fair employment is too vital for haphazard enforcement. My Administration will aggressively enforce our civil rights laws. Although discrimination in any area has severe consequences, limiting economic opportunity affects access to education, housing and health care. I, therefore, ask you to join with me to reorganize administration of the civil rights laws and to begin that effort by reorganizing the enforcement of those laws which ensure an equal opportunity to a job.
 
@@ -258,7 +260,7 @@ By abolishing the Equal Employment Opportunity Coordinating Council and transfer
 
 It should be stressed, however, that affected agencies will be consulted before EEOC takes any action. When the Plan has been approved, I intend to issue an Executive Order which will provide for consultation, as well as a procedure for reviewing major disputed issues within the Executive Office of the President. The Attorney General's responsibility to advise the Executive Branch on legal issues will also be preserved.
 
-Transfer of the Civil Service Commission's equal employment opportunity responsibilities to EEOC is needed to ensure that: (1) Federal employees have the same rights and remedies as those in the private sector and in State and local government; (2) Federal agencies meet the same standards as are required of other employers; and (3) potential conflicts between an agency's equal employment opportunity and personnel management functions are minimized. The Federal government must not fall below the standard of performance it expects of private employers.
+Transfer of the Civil Service Commission's equal employment opportunity responsibilities to EEOC is needed to ensure that: (1) Federal employees have the same rights and remedies as those in the private sector and in State and local government; (2) Federal agenciesmeet the same standards as are required of other employers; and (3) potential conflicts between an agency's equal employment opportunity and personnel management functions are minimized. The Federal government must not fall below the standard of performance it expects of private employers.
 
 The Civil Service Commission has in the past been lethargic in enforcing fair employment requirements within the Federal government. While the Chairman and other Commissioners I have appointed have already demonstrated their personal commitment to expanding equal employment opportunity, responsibility for ensuring fair employment for Federal employees should rest ultimately with the EEOC.
 
@@ -278,7 +280,7 @@ Finally, the responsibility for enforcing grant-related equal employment provisi
 
 Each of the changes set forth in the Reorganization Plan accompanying this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. I have taken care to determine that all functions abolished by the Plan are done only under the statutory authority provided by Section 903(b) of Title 5 of the United States Code.
 
-I do not anticipate that the reorganizations contained in this Plan will result in any significant changein expenditures. They will result in a more efficient and manageable enforcement program.
+I do not anticipate that the reorganizations contained in this Plan will result in any significant change in expenditures. They will result in a more efficient and manageable enforcement program.
 
 The Plan I am submitting is moderate and measured. It gives the Equal Employment Opportunity Commission—an agency dedicated solely to this purpose—the primary Federal responsibility in the area of job discrimination, but it is designed to give this agency sufficient time to absorb its new responsibilities. This reorganization will produce consistent agency standards, as well as increased accountability. Combined with the intense commitment of those charged with these responsibilities, it will become possible for us to accelerate this nation's progress in ensuring equal job opportunities for all our people.
 

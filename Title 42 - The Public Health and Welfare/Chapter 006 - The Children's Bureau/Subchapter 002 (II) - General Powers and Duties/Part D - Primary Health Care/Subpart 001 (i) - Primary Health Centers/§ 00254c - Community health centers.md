@@ -28,7 +28,7 @@ For purposes of this section:
 
 &emsp;(B) diagnostic laboratory and radiologic services;
 
-&emsp;(C) preventive health services (including children's eye and ear examinations to determine the need for vision and hearing correction, perinatal services, well child services, immunizations against vaccine-preventable diseases, screenings for elevated blood lead levels, and family planning services);
+&emsp;(C) preventive health services (including children's eye and ear examinations to determine the need for vision and hearing correction, perinatal services, well child services,immunizations against vaccine-preventable diseases, screenings for elevated blood lead levels, and family planning services);
 
 &emsp;(D) emergency medical services;
 
@@ -136,7 +136,7 @@ For purposes of this section:
 
 &emsp;(ii) the amount of the grant to the center in such fiscal year,
 
-> exceeded the costs of the center's operation in such fiscal year because the amount received by the center from fees, premiums, and third-party reimbursements was greater than expected, an adjustment in the amount of the grant to the center in the succeeding fiscal year shall be made in such a manner that the center shall be entitled to retain the additional amount of fees, premiums, and other third party reimbursements as the center will use (I) to expand and improve its services, (II) to increase the number of persons (eligible to receive services from sucha center) it is able to serve, (III) to construct, expand, and modernize its facilities, (IV) to improve the administration of its service programs, and (V) to establish the financial reserve required for the furnishing of services on a prepaid basis. Without the approval of the Secretary, not more than one-half of such retained sum may be used for construction and modernization of its facilities.
+> exceeded the costs of the center's operation in such fiscal year because the amount received by the center from fees, premiums, and third-party reimbursements was greater than expected, an adjustment in the amount of the grant to the center in the succeeding fiscal year shall be made in such a manner that the center shall be entitled to retain the additional amount of fees, premiums, and other third party reimbursements as the center will use (I) to expand and improve its services, (II) to increase the number of persons (eligible to receive services from such a center) it is able to serve, (III) to construct, expand, and modernize its facilities, (IV) to improve the administration of its service programs, and (V) to establish the financial reserve required for the furnishing of services on a prepaid basis. Without the approval of the Secretary, not more than one-half of such retained sum may be used for construction and modernization of its facilities.
 
 (C) With respect to amounts described in clauses (i) and (ii) of subparagraph (A), the Secretary may not restrict expenditures of such amounts by any grantee under paragraph (1) for—
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 &emsp;(B) plans and specifications for its modernization, and
 
-&emsp;(C) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on the modernization of the building will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act).
+&emsp;(C) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on the modernization of the building will be paid wages at rates not less than those prevailing on similar work in the locality as determinedby the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act).
 
 > The Secretary of Labor shall have with respect to the labor standards referred to in subparagraph (C) the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176, 5 U.S.C. Appendix) and section 276c of title 40.
 
@@ -180,7 +180,7 @@ For purposes of this section:
 
 &emsp;(D) the center (i) has or will have a contractual or other arrangement with the agency of the State, in which it provides services, which administers or supervises the administration of a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the payment of all or a part of the center's costs in providing health services to persons who are eligible for medical assistance under such a State plan, or (ii) has made or will make every reasonable effort to enter into such an arrangement;
 
-&emsp;(E) the center has made or will make and will continue to make every reasonable effort to collect appropriate reimbursement for its costs in providing health services to persons who are entitled to insurance benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], to medical assistanceunder a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\], or to assistance for medical expenses under any other public assistance program or private health insurance program;
+&emsp;(E) the center has made or will make and will continue to make every reasonable effort to collect appropriate reimbursement for its costs in providing health services to persons who are entitled to insurance benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], to medical assistance under a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\], or to assistance for medical expenses under any other public assistance program or private health insurance program;
 
 &emsp;(F) the center (i) has prepared a schedule of fees or payments for the provision of its services consistent with locally prevailing rates or charges and designed to cover its reasonable costs of operation and has prepared a corresponding schedule of discounts to be applied to the payment of such fees or payments, which discounts are adjusted on the basis of the patient's ability to pay, (ii) has made and will continue to make every reasonable effort (I) to secure from patients payment for services in accordance with such schedules, and (II) to collect reimbursement for health services to persons described in subparagraph (E) on the basis of the full amount of fees and payments for such services without application of any discount, and (iii) has submitted to the Secretary such reports as he may require to determine compliance with this subparagraph;
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 (5) The Secretary, in making a grant under this section to a community health center for the provision of environmental health services described in subsection (a)(4) of this section, may designate a portion of the grant to be expended for improvements to private property for which the written consent of the owner has been obtained and which are necessary to alleviate a hazard to the health of those residing on, or otherwise using, the property and of other persons in the center's catchment area. A center may make such an expenditure for an improvement under a grant only after the Secretary has specifically approved such expenditure and has determined that funds for the improvement are not available from any other source.
 
-(6) The Secretary may make a grant under subsection (c) or (d) of this section for the construction of new buildings for a community health center only if the Secretary determinesthat appropriate facilities are not available through acquiring, modernizing, or expanding existing buildings and that the entity to which the grant will be made has made reasonable efforts to secure from other sources funds, in lieu of the grant, to construct such facilities.
+(6) The Secretary may make a grant under subsection (c) or (d) of this section for the construction of new buildings for a community health center only if the Secretary determines that appropriate facilities are not available through acquiring, modernizing, or expanding existing buildings and that the entity to which the grant will be made has made reasonable efforts to secure from other sources funds, in lieu of the grant, to construct such facilities.
 
 #### (f) Technical and other nonfinancial assistance; resources list
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 &emsp;(ii) expend for grants under subsection (d)(1)(C) of this section an amount which exceeds 5 percent of the funds appropriated under paragraph (1) for that fiscal year.
 
-(2)(A) For the purpose of carrying out subparagraph (B), there are authorized to be appropriated $25,000,000 for fiscal year 1989, $30,000,000 for fiscal year 1990, $35,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994.
+(2)(A) For the purpose of carrying out subparagraph (B), there are authorized to be appropriated $25,000,000 for fiscal year 1989, $30,000,000 for fiscal year 1990, $35,000,000 for fiscal year1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994.
 
 (B) The Secretary may make grants to community health centers for the purpose of assisting such centers in—
 
@@ -324,7 +324,7 @@ Subsec. (g)(2)(D) to (F). Pub. L. 102–531, §309(b)(1)(B), added subpars. (D) 
 
 1990—Subsec. (a)(5). Pub. L. 101–527, §9(a)(1)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “information on the availability and proper use of health services, and”.
 
-Subsec. (b)(2)(M), (N). Pub. L. 101–527, §9(a)(1)(B), redesignated subpar. (N) as (M) and struck out formersubpar. (M) which related to services which promoted optimal use of health services.
+Subsec. (b)(2)(M), (N). Pub. L. 101–527, §9(a)(1)(B), redesignated subpar. (N) as (M) and struck out former subpar. (M) which related to services which promoted optimal use of health services.
 
 Subsec. (g)(1)(A), (2)(A). Pub. L. 101–527, §9(a)(2), inserted provisions authorizing such sums as necessary for fiscal years 1992 through 1994.
 
@@ -354,7 +354,7 @@ Subsec. (e)(6). Pub. L. 100–386, §3(e)(2), added par. (6).
 
 Subsec. (g)(1)(A). Pub. L. 100–386, §3(h)(1), redesignated former par. (1) as subpar. (A) and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for payments pursuant to grants under this section $400,000,000 for fiscal year 1987 and $400,000,000 for fiscal year 1988.”
 
-Subsec. (g)(1)(B). Pub. L. 100–386, §3(h)(2), redesignated former par. (2) as par. (1)(B) and former subpars. (A) and (B) thereof as cls. (i) and (ii), respectively, and in cls. (i) and (ii) substituted “under paragraph (1)” for “under this section”.
+Subsec. (g)(1)(B). Pub. L. 100–386, §3(h)(2), redesignated former par. (2) as par. (1)(B) and former subpars.\(A) and (B) thereof as cls. (i) and (ii), respectively, and in cls. (i) and (ii) substituted “under paragraph (1)” for “under this section”.
 
 Subsec. (g)(2). Pub. L. 100–386, §3(h)(2)(B), (3), added par. (2) and redesignated former par. (2) as par. (1)(B).
 
@@ -420,7 +420,7 @@ Subsec. (f). Pub. L. 95–626, §104(e), designated existing provisions as par. 
 
 Subsec. (g)(1). Pub. L. 95–626, §104(f)(1), inserted provisions authorizing appropriations of $6,300,000 for fiscal year ending Sept. 30, 1979, $7,500,000 for fiscal year ending Sept. 30, 1980, and $9,000,000 for fiscal year ending Sept. 30, 1981.
 
-Subsec. (g)(2). Pub. L. 95–626, §104(f)(2), (3), inserted provisions authorizing appropriations of $341,700,000 for fiscal year ending Sept. 30, 1979, $397,500,000 for fiscal year ending Sept. 30, 1980, and $463,000,000 for fiscal year ending Sept. 30, 1981, and provided that Secretary may not expend for grants under subsection (d)(1)(C) of this section in any fiscal year an amount which exceeds 5 per centum of the funds appropriated under subsec. (g)(2) of this section for that fiscal year.
+Subsec. (g)(2). Pub. L. 95–626, §104(f)(2), (3), inserted provisions authorizing appropriations of $341,700,000 forfiscal year ending Sept. 30, 1979, $397,500,000 for fiscal year ending Sept. 30, 1980, and $463,000,000 for fiscal year ending Sept. 30, 1981, and provided that Secretary may not expend for grants under subsection (d)(1)(C) of this section in any fiscal year an amount which exceeds 5 per centum of the funds appropriated under subsec. (g)(2) of this section for that fiscal year.
 
 Subsec. (g)(3). Pub. L. 95–626, §104(f)(4), as amended by Pub. L. 96–32, §6(d), added par. (3).
 

@@ -18,7 +18,7 @@
 
 &emsp;(F) Whether the plans of the applicant will be achieved, to the greatest extent possible, in a cost effective manner.
 
-&emsp;(G) Such other factors as the Commission may deem relevant, except that the terms and conditions in the license for the protection, mitigation, or enhancement of fish and wildlife resources affected by the development, operation, and management of the project shall be determined in accordance with section 803of this title, and the plans of an applicant concerning fish and wildlife shall not be subject to a comparative evaluation under this subsection.
+&emsp;(G) Such other factors as the Commission may deem relevant, except that the terms and conditions in the license for the protection, mitigation, or enhancement of fish and wildlife resources affected by the development, operation, and management of the project shall be determined in accordance with section 803 of this title, and the plans of an applicant concerning fish and wildlife shall not be subject to a comparative evaluation under this subsection.
 
 (3) In the case of an application by the existing licensee, the Commission shall also take into consideration each of the following:
 

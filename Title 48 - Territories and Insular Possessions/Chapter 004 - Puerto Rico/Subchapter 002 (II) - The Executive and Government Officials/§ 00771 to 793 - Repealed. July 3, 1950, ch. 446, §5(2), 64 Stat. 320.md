@@ -38,7 +38,7 @@ Section 786, acts Mar. 2, 1917, ch. 145, §20, 39 Stat. 957; June 7, 1924, ch. 3
 
 Section 787, acts Mar. 2, 1917, ch. 145, §20, 39 Stat. 957; Mar. 4, 1927, ch. 503, §3, 44 Stat. 1419, related to jurisdiction of Auditor over accounts.
 
-Section 788, acts Mar. 2, 1917, ch. 145, §20, 39 Stat. 957; June 10, 1921, ch. 18, §§301, 304, 42 Stat. 23 to 25; Mar. 4, 1927, ch. 503, §3, 44 Stat. 1419, related to finality of decisions of Auditor and time for appeal therefrom, and vested such official with like authority as that conferred by law upon Comptroller General of the United States, with certain exceptions.
+Section 788, acts Mar. 2, 1917, ch. 145, §20, 39 Stat. 957; June 10, 1921, ch. 18, §§301, 304, 42 Stat. 23 to 25; Mar. 4,1927, ch. 503, §3, 44 Stat. 1419, related to finality of decisions of Auditor and time for appeal therefrom, and vested such official with like authority as that conferred by law upon Comptroller General of the United States, with certain exceptions.
 
 Section 789, act Mar. 2, 1917, ch. 145, §21, 39 Stat. 958, related to appeals from decisions of Auditor to Governor.
 

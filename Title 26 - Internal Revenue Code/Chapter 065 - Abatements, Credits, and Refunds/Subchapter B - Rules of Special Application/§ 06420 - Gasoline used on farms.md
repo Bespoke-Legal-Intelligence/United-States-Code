@@ -72,7 +72,7 @@ No amount shall be payable under this section with respect to any gasoline which
 
 #### (2) Examination of books and witnesses
 
-&emsp;For the purpose of ascertaining the correctness of any claim made under this section, orthe correctness of any payment made in respect of any such claim, the Secretary shall have the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
+&emsp;For the purpose of ascertaining the correctness of any claim made under this section, or the correctness of any payment made in respect of any such claim, the Secretary shall have the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
 
 #### (3) Fractional parts of a dollar
 

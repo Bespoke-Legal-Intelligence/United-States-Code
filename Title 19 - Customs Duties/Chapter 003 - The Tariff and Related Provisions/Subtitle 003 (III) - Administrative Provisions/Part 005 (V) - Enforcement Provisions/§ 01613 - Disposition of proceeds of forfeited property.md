@@ -32,7 +32,7 @@ The navigation laws, referred to in text, are classified generally to Title 33, 
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §613, 42 Stat. 986. That section was superseded by section 613 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §613, 42 Stat. 986. That section was superseded by section 613 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions authorizing applications to the Secretary of the Treasury for remission of forfeitures and restoration of the proceeds of sales, and provisions substantially the same as those in this section concerning the granting of such applications, were contained in R.S. §3078. R.S. §3079 provided that if no application was made within three months the proceeds should be distributed in the same manner as if the property had been condemned and sold under a decree of court. R.S. §3090, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, also specified how the proceeds of fines, penalties, and forfeitures incurred under customs laws, should be applied and distributed. All these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

@@ -1,6 +1,6 @@
 ### §5673. Withholding
 
-Whenever the Administrator, after giving reasonable notice and opportunity for hearing to arecipient of financial assistance under this subchapter, finds that—
+Whenever the Administrator, after giving reasonable notice and opportunity for hearing to a recipient of financial assistance under this subchapter, finds that—
 
 &emsp;(1) the program or activity for which the grant or contract involved was made has been so changed that it no longer complies with this subchapter; or
 

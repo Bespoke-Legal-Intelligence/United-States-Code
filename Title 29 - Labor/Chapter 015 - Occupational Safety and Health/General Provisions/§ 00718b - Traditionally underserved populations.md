@@ -76,7 +76,7 @@ With respect to the programs authorized in subchapters II through VIII of this c
 
 &emsp;In awarding grants, contracts, or cooperative agreements under subchapters I, II, III, VI, VII, and VIII of this chapter, and section 794e of this title, the Commissioner and the Director of the National Institute on Disability and Rehabilitation Research, where appropriate, shall require applicants to demonstrate how they will address, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
 
-(Pub. L. 93–112, §21, as added Pub. L. 102–569, title I, §111(a), Oct. 29, 1992, 106 Stat. 4363;amended Pub. L. 103–73, title I, §106, Aug. 11, 1993, 107 Stat. 719.)
+(Pub. L. 93–112, §21, as added Pub. L. 102–569, title I, §111(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, §106, Aug. 11, 1993, 107 Stat. 719.)
 
 #### Amendments
 

@@ -2,11 +2,11 @@ Part E—Need Analysis
 
 #### Codification
 
-This part was added as part F of title IV of Pub. L. 89 329 by Pub. L. 99 498, title IV, §406(a), Oct. 17, 1986, 100Stat. 1454. The letter designation of this part was changed from “F” to “E” for codification purposes. See Codification note preceding section 1087a of this title.
+This part was added as part F of title IV of Pub. L. 89–329 by Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454. The letter designation of this part was changed from “F” to “E” for codification purposes. See Codification note preceding section 1087a of this title.
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1070b, 1070b 1, 1070b 3, 1078, 1087d, 1087bb, 1087dd, 1092, 1098 of this title; title 42 sections 2752, 2753, 2756b.
+This part is referred to in sections 1070b, 1070b–1, 1070b–3, 1078, 1087d, 1087bb, 1087dd, 1092, 1098 of this title; title 42 sections 2752, 2753, 2756b.
 
 
 ---
@@ -24,5 +24,5 @@ This part is referred to in sections 1070b, 1070b 1, 1070b 3, 1078, 1087d, 1087b
 - [&sect; 01087ss - Simplified needs test](%C2%A7%2001087ss%20-%20Simplified%20needs%20test.md)
 - [&sect; 01087tt - Discretion of student financial aid administrators](%C2%A7%2001087tt%20-%20Discretion%20of%20student%20financial%20aid%20administrators.md)
 - [&sect; 01087uu - Disregard of student aid in other Federal programs](%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20Federal%20programs.md)
-- [&sect; 01087uu 1 - Native American students](%C2%A7%2001087uu%201%20-%20Native%20American%20students.md)
+- [&sect; 01087uu&#8211;1 - Native American students](%C2%A7%2001087uu%E2%80%931%20-%20Native%20American%20students.md)
 - [&sect; 01087vv - Definitions](%C2%A7%2001087vv%20-%20Definitions.md)

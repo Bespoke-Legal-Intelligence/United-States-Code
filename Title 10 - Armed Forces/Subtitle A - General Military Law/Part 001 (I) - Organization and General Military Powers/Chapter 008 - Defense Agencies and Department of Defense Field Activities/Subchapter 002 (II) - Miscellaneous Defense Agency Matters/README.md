@@ -2,8 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 201\. | Consultation regarding appointment of certain intelligence officials. |
-| 202\. | Unauthorized use of Defense Intelligence Agency name, initials, or seal. |
+| [201\.](%C2%A7%2000201%20-%20Consultation%20regarding%20appointment%20of%20certain%20intelligence%20officials.md) | Consultation regarding appointment of certain intelligence officials. |
+| [202\.](%C2%A7%2000202%20-%20Unauthorized%20use%20of%20Defense%20Intelligence%20Agency%20name%2C%20initials%2C%20or%20seal.md) | Unauthorized use of Defense Intelligence Agency name, initials, or seal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

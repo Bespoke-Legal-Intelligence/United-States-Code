@@ -66,7 +66,7 @@ A purchasing group shall register with and designate the State insurance commiss
 
 &emsp;&emsp;(A) was domiciled before April 1, 1986; and
 
-&emsp;&emsp;(B) is domiciled on and after October 27, 1986;<sup>1</sup>
+&emsp;&emsp;(B) is domiciled on and after October 27, 1986; <sup>1</sup>
 
 > &emsp;in any State of the United States;
 
@@ -92,21 +92,21 @@ Nothing in this chapter shall be construed to affect the authority of any State 
 
 Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 
-(Pub. L. 97 45, §4, Sept. 25, 1981, 95 Stat. 951; Pub. L. 99 563, §§6, 8(b), 12(d), Oct. 27, 1986, 100 Stat. 3174, 3175, 3178.)
+(Pub. L. 97–45, §4, Sept. 25, 1981, 95 Stat. 951; Pub. L. 99–563, §§6, 8(b), 12(d), Oct. 27, 1986, 100 Stat. 3174, 3175, 3178.)
 
 #### Codification
 
-October 27, 1986, referred to in subsec. (e)(1)(B), was in the original “the date of the enactment of this Act” which was translated as meaning the date of the enactment of Pub. L. 99 563, which enacted subsec. (e), to reflect the probable intent of Congress.
+October 27, 1986, referred to in subsec. (e)(1)(B), was in the original “the date of the enactment of this Act” which was translated as meaning the date of the enactment of Pub. L. 99–563, which enacted subsec. (e), to reflect the probable intent of Congress.
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99 563, §8(b)(1), inserted reference to section 3905 of this title.
+1986—Subsec. (a). Pub. L. 99–563, §8(b)(1), inserted reference to section 3905 of this title.
 
-Subsec. (b)(1). Pub. L. 99 563, §12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
+Subsec. (b)(1). Pub. L. 99–563, §12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
 
-Subsec. (b)(2)(A). Pub. L. 99 563, §12(d)(2), struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
+Subsec. (b)(2)(A). Pub. L. 99–563, §12(d)(2), struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
 
-Subsecs. (d) to (h). Pub. L. 99 563, §§6, 8(b)(2), added subsecs. (d) to (h).
+Subsecs. (d) to (h). Pub. L. 99–563, §§6, 8(b)(2), added subsecs. (d) to (h).
 
-<i><sup>1</sup></i><i>See Codification note below.</i>
+<i><sup>1</sup></i><i> See Codification note below.</i>
 

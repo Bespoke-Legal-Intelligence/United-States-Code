@@ -12,7 +12,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(B) such other resources as such entity determines, pursuant to contracts under this chapter, will be used to serve its firm load in the region.
 
-> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firmload under such subparagraphs shall be treated as continuing to be so used, unless such use is discontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
+> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treated as continuing to be so used, unless such use is discontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
 
 (2) Contracts with investor-owned utilities shall provide that the Administrator may reduce his obligations under such contracts in accordance with section 5(a) of the Bonneville Project Act of 1937 \[16 U.S.C. 832d(a)\].
 
@@ -118,7 +118,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (2) Each customer offered a contract pursuant to this subsection shall have one year from the date of such offer to accept such contract. Such contract shall be effective as provided in this subsection.
 
-(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effective on the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
+(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effectiveon the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
 
 (4) An initial contract with an electric utility customer pursuant to subsection (c) of this section shall be effective on the date executed by such customer, but no earlier than the first day of the tenth month after December 5, 1980.
 
@@ -140,5 +140,5 @@ Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 839d, 839e, 839f, 839g of this title.
+This section is referred to in sections 832m, 839d, 839e, 839f, 839g of this title.
 

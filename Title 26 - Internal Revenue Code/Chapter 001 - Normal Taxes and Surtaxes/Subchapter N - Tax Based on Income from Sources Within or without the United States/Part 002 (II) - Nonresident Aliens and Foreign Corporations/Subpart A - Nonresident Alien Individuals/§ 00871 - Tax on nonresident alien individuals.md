@@ -22,7 +22,7 @@
 
 #### (2) Capital gains of aliens present in the United States 183 days or more
 
-&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
+&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources withinthe United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
 
 #### (3) Taxation of social security benefits
 
@@ -178,7 +178,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to the 50-percent limitation therein; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owns in such corporation bears to the value of all stock in such corporation, and
+&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning thestock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owns in such corporation bears to the value of all stock in such corporation, and
 
 &emsp;&emsp;&emsp;(iii) any stock which a person is treated as owning after application of section 318(a)(4) shall not, for purposes of applying paragraphs (2) and (3) of section 318(a), be treated as actually owned by such person.
 
@@ -206,7 +206,7 @@ For purposes of this section and section 881—
 
 #### (B) Related person
 
-&emsp;&emsp;The term “related person” means any person who is related to the debtor within themeaning of section 267(b) or 707(b)(1), or who is a party to any arrangement undertaken for a purpose of avoiding the application of this paragraph.
+&emsp;&emsp;The term “related person” means any person who is related to the debtor within the meaning of section 267(b) or 707(b)(1), or who is a party to any arrangement undertaken for a purpose of avoiding the application of this paragraph.
 
 #### (C) Exceptions
 
@@ -358,7 +358,7 @@ Subsec. (a)(3). Pub. L. 99–272 inserted at end “For treatment of certain cit
 
 Subsec. (e). Pub. L. 99–514, §1211(b)(5), struck out subsec. (e) which related to gains from sale or exchange of certain intangible property, par. (1) treating payments as contingent on use, etc., and par. (2) containing source rule.
 
-Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted “which would be subject to tax under subsection\(a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
+Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted “which would be subject to tax under subsection (a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
 
 Subsec. (h)(3)(C)(ii), (iii). Pub. L. 99–514, §1810(d)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -406,7 +406,7 @@ Subsec. (g)(7). Pub. L. 94–455, §1012(a)(2), added par. (7).
 
 Subsec. (a)(1)(C). Pub. L. 92–178, §313(b), designated existing provisions as cl. (i), inserted “and before April 1, 1972,” after “September 28, 1965,”, substituted “section 1232(a)(2)(B)” for “section 1232”, and inserted “, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, and added cls. (ii) and (iii).
 
-1966—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part of the consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
+1966—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part ofthe consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
 
 Subsec. (c). Pub. L. 89–809 redesignated subsec. (d) as (c) and inserted provisions that any income described in section 1441(b)(1) or (2) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States. Substance of former subsec. (c) revised and incorporated into subsecs. (a) and (b).
 
@@ -430,7 +430,7 @@ Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provi
 
 Section 733(b) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits paid after December 31, 1994, in taxable years ending after such date.”
 
-Section 320(c) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[probably means this section, which amended this section, sections 872,1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\].”
+Section 320(c) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[probably means this section, which amended this section, sections 872, 1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1993 Amendment
 

@@ -1,0 +1,92 @@
+### §13506. Miscellaneous motor carrier transportation exemptions
+
+(a)
+
+In General.—Neither the Secretary nor the Board has jurisdiction under this part over—
+
+&emsp;(1) a motor vehicle transporting only school children and teachers to or from school;
+
+&emsp;(2) a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;
+
+&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patrons between the hotel and the local station of a carrier;
+
+&emsp;(4) a motor vehicle controlled and operated by a farmer and transporting—
+
+&emsp;&emsp;(A) the farmer's agricultural or horticultural commodities and products; or
+
+&emsp;&emsp;(B) supplies to the farm of the farmer;
+
+&emsp;(5) a motor vehicle controlled and operated by a cooperative association (as defined by section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)) <sup>1</sup> or by a federation of cooperative associations if the federation has no greater power or purposes than a cooperative association, except that if the cooperative association or federation provides transportation for compensation between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State—
+
+&emsp;&emsp;(A) for a nonmember that is not a farmer, cooperative association, federation, or the United States Government, the transportation (except for transportation otherwise exempt under this subchapter)—
+
+&emsp;&emsp;&emsp;(i) shall be limited to transportation incidental to the primary transportation operation of the cooperative association or federation and necessary for its effective performance; and
+
+&emsp;&emsp;&emsp;(ii) may not exceed in each fiscal year 25 percent of the total transportation of the cooperative association or federation between those places, measured by tonnage; and
+
+&emsp;&emsp;(B) the transportation for all nonmembers may not exceed in each fiscal year, measured by tonnage, the total transportation between those places for the cooperative association or federation and its members during that fiscal year;
+
+&emsp;(6) transportation by motor vehicle of—
+
+&emsp;&emsp;(A) ordinary livestock;
+
+&emsp;&emsp;(B) agricultural or horticultural commodities (other than manufactured products thereof);
+
+&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission, other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils, or wool waste (carded, spun, woven, or knitted);
+
+&emsp;&emsp;(D) cooked or uncooked fish, whether breaded or not, or frozen or fresh shellfish, or byproducts thereof not intended for human consumption, other than fish or shellfish that have been treated for preserving, such as canned, smoked, pickled, spiced, corned, or kippered products; and
+
+&emsp;&emsp;(E) livestock and poultry feed and agricultural seeds and plants, if such products (excluding products otherwise exempt underthis paragraph) are transported to a site of agricultural production or to a business enterprise engaged in the sale to agricultural producers of goods used in agricultural production;
+
+&emsp;(7) a motor vehicle used only to distribute newspapers;
+
+&emsp;(8)(A) transportation of passengers by motor vehicle incidental to transportation by aircraft;
+
+&emsp;(B) transportation of property (including baggage) by motor vehicle as part of a continuous movement which, prior or subsequent to such part of the continuous movement, has been or will be transported by an air carrier or (to the extent so agreed by the United States and approved by the Secretary) by a foreign air carrier; or
+
+&emsp;(C) transportation of property by motor vehicle in lieu of transportation by aircraft because of adverse weather conditions or mechanical failure of the aircraft or other causes due to circumstances beyond the control of the carrier or shipper;
+
+&emsp;(9) the operation of a motor vehicle in a national park or national monument;
+
+&emsp;(10) a motor vehicle carrying not more than 15 individuals in a single, daily roundtrip to commute to and from work;
+
+&emsp;(11) transportation of used pallets and used empty shipping containers (including intermodal cargo containers), and other used shipping devices (other than containers or devices used in the transportation of motor vehicles or parts of motor vehicles);
+
+&emsp;(12) transportation of natural, crushed, vesicular rock to be used for decorative purposes;
+
+&emsp;(13) transportation of wood chips;
+
+&emsp;(14) brokers for motor carriers of passengers, except as provided in section 13904(d); or
+
+&emsp;(15) transportation of broken, crushed, or powdered glass.
+
+(b)
+
+Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
+
+&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
+
+&emsp;&emsp;(A) when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or
+
+&emsp;&emsp;(B) that in transporting passengers over a route between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State, the transportation is exempt from jurisdiction under this part only if the motor carrier operating the motor vehicle also is lawfully providing intrastate transportation of passengers over the entire route under the laws of each State through which the route runs;
+
+&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
+
+&emsp;(3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 10526 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Abolition of Interstate Commerce Commission
+
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 13507, 13508, 13908 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
+

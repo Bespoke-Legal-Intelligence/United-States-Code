@@ -2,11 +2,11 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 637\. | Selection of regular officers for continuation on active duty. |
-| 638\. | Selective early retirement. |
-| 638a. | Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges. |
-| 639\. | Continuation on active duty to complete disciplinary action. |
-| 640\. | Deferment of retirement or separation for medical reasons. |
+| [637\.](%C2%A7%2000637%20-%20Selection%20of%20regular%20officers%20for%20continuation%20on%20active%20duty.md) | Selection of regular officers for continuation on active duty. |
+| [638\.](%C2%A7%2000638%20-%20Selective%20early%20retirement.md) | Selective early retirement. |
+| [638a.](%C2%A7%2000638a%20-%20Modification%20to%20rules%20for%20continuation%20on%20active%20duty%3B%20enhanced%20authority%20for%20selective%20early%20retirement%20and%20early%20discharges.md) | Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges. |
+| [639\.](%C2%A7%2000639%20-%20Continuation%20on%20active%20duty%20to%20complete%20disciplinary%20action.md) | Continuation on active duty to complete disciplinary action. |
+| [640\.](%C2%A7%2000640%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md) | Deferment of retirement or separation for medical reasons. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

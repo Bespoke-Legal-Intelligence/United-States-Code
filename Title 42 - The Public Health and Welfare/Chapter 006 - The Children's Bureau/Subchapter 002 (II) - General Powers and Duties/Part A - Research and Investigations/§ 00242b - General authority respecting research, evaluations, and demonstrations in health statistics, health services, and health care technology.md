@@ -18,7 +18,7 @@ To implement subsection (a) of this section and section 242k of this title, the 
 
 #### (c) Coordination of activities through units of Department
 
-(1) The Secretary shall coordinate all health services research, evaluations, and demonstrations, all health statistical and epidemiologicalactivities, and all research, evaluations, and demonstrations respecting the assessment of health care technology undertaken and supported through units of the Department of Health and Human Services. To the maximum extent feasible such coordination shall be carried out through the Agency for Health Care Policy and Research and the National Center for Health Statistics.
+(1) The Secretary shall coordinate all health services research, evaluations, and demonstrations, all health statistical and epidemiological activities, and all research, evaluations, and demonstrations respecting the assessment of health care technology undertaken and supported through units of the Department of Health and Human Services. To the maximum extent feasible such coordination shall be carried out through the Agency for Health Care Policy and Research and the National Center for Health Statistics.
 
 (2) The Secretary shall coordinate the health services research, evaluations, and demonstrations, the health statistical and (where appropriate) epidemiological activities, and the research, evaluations, and demonstrations respecting the assessment of health care technology authorized by this chapter through the Agency for Health Care Policy and Research and the National Center for Health Statistics.
 
@@ -32,7 +32,7 @@ Sections 242c and 242n of this title, referred to in subsec. (b)(3), were repeal
 
 1993—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoing study of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
 
-1989—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment” and “in section 242k of this title and in subchapter VII of this chapter” for “in sections 242c, 242k, and 242n of this title”.
+1989—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health ServicesResearch and Health Care Technology Assessment” and “in section 242k of this title and in subchapter VII of this chapter” for “in sections 242c, 242k, and 242n of this title”.
 
 Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 

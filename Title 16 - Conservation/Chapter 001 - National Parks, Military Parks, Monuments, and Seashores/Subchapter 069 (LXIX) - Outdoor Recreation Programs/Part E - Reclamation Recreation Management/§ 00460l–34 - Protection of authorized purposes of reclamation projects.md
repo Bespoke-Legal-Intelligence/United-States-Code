@@ -10,7 +10,7 @@
 
 This part, referred to in text, was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460<i>l</i>–31 to 460<i>l</i>–34 of this title and amended sections 460<i>l</i>–13 to 460<i>l</i>–15 and 460<i>l</i>–18 of this title.
 
-The Federal Water Project Recreation Act, referred to in subsec. (b), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of this title and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (b), is Pub. L. 89–72, July 9, 1965, 79 Stat.213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ Pub. L. 103–160, div. A, title V, §552, Nov. 30, 1993, 107 Stat. 1662, provid
 
 “(a)
 
-In General.—The Secretary of Defense shall prescribe procedures and implement a centralized system for notice of the status of offenders confined in military correctional facilities to be provided to victims and witnesses. Such procedures shall, to the maximumextent practicable, be consistent with procedures of the Federal Bureau of Prisons for victim and witness notification.
+In General.—The Secretary of Defense shall prescribe procedures and implement a centralized system for notice of the status of offenders confined in military correctional facilities to be provided to victims and witnesses. Such procedures shall, to the maximum extent practicable, be consistent with procedures of the Federal Bureau of Prisons for victim and witness notification.
 
 “(b)
 

@@ -14,7 +14,7 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 &emsp;(A) be less costly to the Government than a plan subject to such limitations or payment requirements; or
 
-&emsp;(B) provide better services than those provided by a plan subject to such limitations orpayment requirements at no additional cost to the Government.
+&emsp;(B) provide better services than those provided by a plan subject to such limitations or payment requirements at no additional cost to the Government.
 
 (2) The Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
 
@@ -32,5 +32,5 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

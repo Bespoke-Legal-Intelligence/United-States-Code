@@ -26,7 +26,7 @@ Any countercyclical efforts undertaken to aid in achieving the purposes of secti
 
 In any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.
 
-(Pub. L. 95 523, title II, §202, Oct. 27, 1978, 92 Stat. 1900.)
+(Pub. L. 95–523, title II, §202, Oct. 27, 1978, 92 Stat. 1900.)
 
 #### Section Referred to in Other Sections
 

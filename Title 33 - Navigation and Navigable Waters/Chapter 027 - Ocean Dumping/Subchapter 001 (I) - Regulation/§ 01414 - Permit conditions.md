@@ -22,7 +22,7 @@ The Administrator or the Secretary, as the case may be, shall require an applica
 
 #### (f) Public information
 
-Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall be available to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
+Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall beavailable to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
 
 #### (g) Display of issued permits
 
@@ -76,7 +76,7 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 (3) The Administrator shall submit a copy of the assessment prepared under paragraph (1) with respect to any permit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-(4)(A) Upon a determination by the Administrator that a permit to which this subsection applies should be issued, the Administrator shalltransmit such a recommendation to the House of Representatives and the Senate.
+(4)(A) Upon a determination by the Administrator that a permit to which this subsection applies should be issued, the Administrator shall transmit such a recommendation to the House of Representatives and the Senate.
 
 (B) No permit may be issued by the Administrator under this Act for the disposal of radioactive materials in the ocean unless the Congress, by approval of a resolution described in paragraph (D) within 90 days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and the House of Representatives of such recommendation, authorizes the Administrator to grant a permit to dispose of radioactive material under this Act.
 
@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 102–580, §507(c), inserted “, based upon monitoring d
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

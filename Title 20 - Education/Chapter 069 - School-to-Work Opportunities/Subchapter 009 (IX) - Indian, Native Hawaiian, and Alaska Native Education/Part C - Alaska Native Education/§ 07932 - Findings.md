@@ -16,5 +16,5 @@ The Congress finds and declares:
 
 &emsp;(7) Congress finds that Native children should be afforded the opportunity to begin their formal education on a par with their non-Native peers. The Federal Government should lend support to efforts developed by and undertaken within the Alaska Native community to improve educational opportunity for all students.
 
-(Pub. L. 89 10, title IX, §9302, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3805.)
+(Pub. L. 89–10, title IX, §9302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3805.)
 

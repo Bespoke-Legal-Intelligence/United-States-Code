@@ -46,7 +46,7 @@ A plan may not recoup a benefit payment which is in excess of the amount payable
 
 #### (d) Amendment of plan to increase or restore accrued benefits previously reduced or rate of future benefit accruals; conditions, applicable factors, etc.
 
-(1)(A) A plan which has been amended to reduce accrued benefits under this section may be amended to increase or restore accrued benefits,or the rate of future benefit accruals, only if the plan is amended to restore levels of previously reduced accrued benefits of inactive participants and of participants who are within 5 years of attaining normal retirement age to at least the same extent as any such increase in accrued benefits or in the rate of future benefit accruals.
+(1)(A) A plan which has been amended to reduce accrued benefits under this section may be amended to increase or restore accrued benefits, or the rate of future benefit accruals, only if the plan is amended to restore levels of previously reduced accrued benefits of inactive participants and of participants who are within 5 years of attaining normal retirement age to at least the same extent as any such increase in accrued benefits or in the rate of future benefit accruals.
 
 (B) For purposes of this subsection, in the case of a plan which has been amended under this section to reduce accrued benefits—
 

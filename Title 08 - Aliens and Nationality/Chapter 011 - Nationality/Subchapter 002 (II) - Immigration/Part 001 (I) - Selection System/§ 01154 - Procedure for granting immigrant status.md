@@ -12,13 +12,13 @@
 
 &emsp;(II) the alien is a person whose deportation, in the opinion of the Attorney General, would result in extreme hardship to the alien or a child of the alien.
 
-(iv) An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
+(iv) An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i)of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;(I) the alien is residing in the United States and during the period of residence with the citizen parent the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's citizen parent; and
 
 &emsp;(II) the alien is a person whose deportation, in the opinion of the Attorney General, would result in extreme hardship to the alien.
 
-(B)(i) Any alien lawfully admitted for permanent residence claiming that an alien is entitledto a classification by reason of the relationship described in section 1153(a)(2) of this title may file a petition with the Attorney General for such classification.
+(B)(i) Any alien lawfully admitted for permanent residence claiming that an alien is entitled to a classification by reason of the relationship described in section 1153(a)(2) of this title may file a petition with the Attorney General for such classification.
 
 (ii) An alien who is the spouse of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's legal permanent resident spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iii)) under such section if the alien demonstrates to the Attorney General that the conditions described in subclauses (I) and (II) of subparagraph (A)(iii) are met with respect to the alien.
 
@@ -100,7 +100,7 @@ Nothing in this section shall be construed to entitle an immigrant, in behalf of
 
 &emsp;(ii) provide that the sponsor agrees (I) in the case of an alien under eighteen years of age, to assume legal custody for the alien after the alien's departure to the United States and until the alien becomes eighteen years of age, in accordance with the laws of the State where the alien and the sponsor will reside, and (II) to furnish, during the five-year period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence, or during the period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence and ending on the date on which the alien becomes twenty-one years of age, whichever period is longer, such financial support as is necessary to maintain the family in the United States of which the alien is a member at a level equal to at least 125 per centum of the current official poverty line (as established by the Director of the Office of Management and Budget, under section 9902(2) of title 42 and as revised by the Secretary of Health and Human Services under the second and third sentences of such section) for a family of the same size as the size of the alien's family.
 
-(B) A guarantee of legal custody and financial responsibility described in subparagraph (A) may be enforced with respect to an alien againsthis sponsor in a civil suit brought by the Attorney General in the United States district court for the district in which the sponsor resides, except that a sponsor or his estate shall not be liable under such a guarantee if the sponsor dies or is adjudicated a bankrupt under title 11.
+(B) A guarantee of legal custody and financial responsibility described in subparagraph (A) may be enforced with respect to an alien against his sponsor in a civil suit brought by the Attorney General in the United States district court for the district in which the sponsor resides, except that a sponsor or his estate shall not be liable under such a guarantee if the sponsor dies or is adjudicated a bankrupt under title 11.
 
 #### (g) Restriction on petitions based on marriages entered while in exclusion or deportation proceedings
 
@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 99–639, §5(b), added subsec. (h).
 
 Subsec. (d). Pub. L. 97–116, §3, redesignated subsec. (e) as (d). Former subsec. (d), directing that the Attorney General forward to the Congress a Statistical summary of petitions for immigrant status approved by him under section 1153(a)(3) or 1153(a)(6) of this title and that the reports be submitted to Congress on the first and fifteenth day of each calendar month in which Congress was in session, was struck out.
 
-Subsecs. (e), (f). Pub. L. 97–116, §3, redesignated as subsec. (e) the subsec. (f) relating to subsequent findingof non-entitlement. See 1978 Amendment note below. Former subsec. (e) redesignated (d).
+Subsecs. (e), (f). Pub. L. 97–116, §3, redesignated as subsec. (e) the subsec. (f) relating to subsequent finding of non-entitlement. See 1978 Amendment note below. Former subsec. (e) redesignated (d).
 
 1980—Subsec. (d). Pub. L. 96–470 substituted provision requiring the Attorney General to forward to Congress a statistical summary of approved petitions for professional or occupational preferences for provision requiring the Attorney General to forward to Congress a report on each petition approved for professional or occupational preference stating the basis for his approval and the facts pertinent in establishing qualifications for preferential status.
 

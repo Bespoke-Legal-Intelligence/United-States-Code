@@ -17,7 +17,6 @@
 | [9707\.](%C2%A7%2009707%20-%20Comprehensive%20program%20management%20plan.md) | Comprehensive program management plan. |
 | (a) | Preparation; scope; consultative requirements. |
 | (b) | Transmission to Congressional committees; revisions. |
-| (c) | Transmission to Congress of detailed description of plan in effect; description requirements. |
 | [9708\.](%C2%A7%2009708%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

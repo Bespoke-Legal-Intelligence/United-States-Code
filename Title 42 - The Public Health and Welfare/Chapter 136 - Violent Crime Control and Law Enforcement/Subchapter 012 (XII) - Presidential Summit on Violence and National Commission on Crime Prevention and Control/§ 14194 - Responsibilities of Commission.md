@@ -38,7 +38,7 @@ In addressing the subject of the causes of the demand for drugs, the activities 
 
 &emsp;&emsp;(E) The physiological and psychological factors that contribute to the desire for illicit drugs.
 
-&emsp;(2) Evaluating Federal, State, and local laws and policies on the prevention of drug abuse,control of unlawful production, distribution and use of controlled substances, and the efficacy of sentencing policies with regard to those laws.
+&emsp;(2) Evaluating Federal, State, and local laws and policies on the prevention of drug abuse, control of unlawful production, distribution and use of controlled substances, and the efficacy of sentencing policies with regard to those laws.
 
 &emsp;(3) Analyzing the allocation of resources among interdiction of controlled substances entering the United States, enforcement of Federal laws relating to the unlawful production, distribution, and use of controlled substances, education with regard to and the prevention of the unlawful use of controlled substances, and treatment and rehabilitation of drug abusers.
 

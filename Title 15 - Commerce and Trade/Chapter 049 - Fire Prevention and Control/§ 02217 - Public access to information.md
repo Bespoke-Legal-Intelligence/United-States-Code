@@ -10,7 +10,7 @@ Copies of any document, report, statement, or information received or sent by th
 
 &emsp;(4) to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to health and safety).
 
-(Pub. L. 93 498, §20, Oct. 29, 1974, 88 Stat. 1547.)
+(Pub. L. 93–498, §20, Oct. 29, 1974, 88 Stat. 1547.)
 
 #### Transfer of Functions
 

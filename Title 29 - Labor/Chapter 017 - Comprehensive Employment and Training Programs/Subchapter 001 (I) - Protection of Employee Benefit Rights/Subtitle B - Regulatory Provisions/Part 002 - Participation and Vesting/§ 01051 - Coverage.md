@@ -24,7 +24,7 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 
 #### References in Text
 
-Section 409 of title 26, referred to in par. (6), means section 409 of Title 26, Internal Revenue Code, prior to its repeal by Pub. L. 98–369, div. A, title IV, §491(b), July 18, 1984, 98 Stat. 848, applicable to obligations issued after Dec. 31, 1983.
+Section 409 of title 26, referred to in par. (6), means section 409 of Title 26, Internal Revenue Code, prior toits repeal by Pub. L. 98–369, div. A, title IV, §491(b), July 18, 1984, 98 Stat. 848, applicable to obligations issued after Dec. 31, 1983.
 
 This chapter, referred to in par. (8), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

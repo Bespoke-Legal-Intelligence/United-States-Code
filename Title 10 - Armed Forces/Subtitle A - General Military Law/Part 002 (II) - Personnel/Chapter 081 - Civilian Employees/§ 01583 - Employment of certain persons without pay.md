@@ -1,6 +1,6 @@
 ### §1583. Employment of certain persons without pay
 
-The Secretary of Defense may employ, without pay, not more than 10 persons of outstanding experience and ability. However, a person so employed may be allowed transportation, andnot more than $15 a day instead of subsistence, while away from his home or regular place of business pursuant to employment under this section.
+The Secretary of Defense may employ, without pay, not more than 10 persons of outstanding experience and ability. However, a person so employed may be allowed transportation, and not more than $15 a day instead of subsistence, while away from his home or regular place of business pursuant to employment under this section.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 118; Nov. 2, 1966, Pub. L. 89–718, §14, 80 Stat. 1117; Oct. 12, 1982, Pub. L. 97–295, §1(20)(A), (B), 96 Stat. 1290.)
 

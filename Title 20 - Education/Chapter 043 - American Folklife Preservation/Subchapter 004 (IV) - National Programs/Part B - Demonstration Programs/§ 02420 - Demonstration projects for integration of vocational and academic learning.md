@@ -30,13 +30,13 @@ In awarding grants under this section, the Secretary shall ensure—
 
 &emsp;(5) that adequate evaluation measures will be employed to measure the effectiveness of the curriculum approaches supported under this section.
 
-(Pub. L. 88 210, title IV, §420, as added Pub. L. 101 392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 820; amended Pub. L. 103 382, title III, §391(s)(6), Oct. 20, 1994, 108 Stat. 4025.)
+(Pub. L. 88–210, title IV, §420, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 820; amended Pub. L. 103–382, title III, §391(s)(6), Oct. 20, 1994, 108 Stat. 4025.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part B of title XIII of the Act is classified generally to part B (§8651 et seq.) of subchapter XIII of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part B of title XIII of the Act is classified generally to part B (§8651 et seq.) of subchapter XIII of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103 382 substituted “part B of title XIII of the Elementary and Secondary Education Act of 1965” for “section 2962 of this title”.
+1994—Subsec. (a)(3). Pub. L. 103–382 substituted “part B of title XIII of the Elementary and Secondary Education Act of 1965” for “section 2962 of this title”.
 

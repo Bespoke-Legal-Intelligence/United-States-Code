@@ -1,4 +1,4 @@
-### §4006 . Miscellaneous provisions
+### §4006. Miscellaneous provisions
 
 #### (a) After-hours deposits
 

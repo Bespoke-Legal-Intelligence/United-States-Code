@@ -48,7 +48,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (2) Composition
 
-&emsp;The Board shall be composed of 12 members with equal numbers to be appointed by the House of Representatives, the Senate, and the President. The Board shall be composed of experts in the fields of welfare research and welfare statistical methodology, representatives of State and local welfare agencies, and organizations concerned with welfare issues.
+&emsp;The Board shall be composed of 12 members with equal numbers to be appointed by the House of Representatives, the Senate, and the President. The Board shall be composed of experts in the fields of welfare research and welfare statistical methodology, representativesof State and local welfare agencies, and organizations concerned with welfare issues.
 
 #### (3) Vacancies
 
@@ -136,7 +136,5 @@ Section was enacted as part of the Social Security Act Amendments of 1994, and n
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives and Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104â€“14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -20,7 +20,7 @@ Information.—The following information shall be included in the report transmi
 
 &emsp;(4)(A) The promotion rate for officers in an acquisition corps considered for promotion from within the promotion zone, compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade, shown for all officers of the same armed force and for all line (or the equivalent) officers of the same armed force.
 
-&emsp;(B) The promotion rate for officers in an acquisition corps considered for promotion frombelow the promotion zone, compared in the same manner as specified in subparagraph (A).
+&emsp;(B) The promotion rate for officers in an acquisition corps considered for promotion from below the promotion zone, compared in the same manner as specified in subparagraph (A).
 
 &emsp;(C) If the promotion rates fail to meet the objective of section 1731(b) of this title, the Secretary of Defense shall notify Congress of such failures and of what actions the Secretary has taken or plans to take in reaction to such failures.
 

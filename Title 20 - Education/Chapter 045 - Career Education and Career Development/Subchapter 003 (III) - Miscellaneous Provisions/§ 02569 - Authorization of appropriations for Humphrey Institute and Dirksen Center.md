@@ -12,11 +12,11 @@ There are authorized to be appropriated such sums, not to exceed $2,500,000, as 
 
 Funds appropriated pursuant to sections 2566 to 2569 of this title shall remain available until expended.
 
-(Pub. L. 95 270, §4(a) (c), Apr. 27, 1978, 92 Stat. 220.)
+(Pub. L. 95–270, §4(a)–(c), Apr. 27, 1978, 92 Stat. 220.)
 
 #### Effective Date
 
-Section effective Oct. 1, 1978, see section 4(d) of Pub. L. 95 270, set out as a note under section 2566 of this title.
+Section effective Oct. 1, 1978, see section 4(d) of Pub. L. 95–270, set out as a note under section 2566 of this title.
 
 #### Section Referred to in Other Sections
 

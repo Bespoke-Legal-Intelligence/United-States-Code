@@ -34,7 +34,7 @@ If on the date of such short sale substantially identical property has been held
 
 &emsp;(C) in the case of a short sale of property by an individual, the term “taxpayer”, in the application of this subsection and subsections (b) and (d), shall be read as “taxpayer or his spouse”; but an individual who is legally separated from the taxpayer under a decree of divorce or of separate maintenance shall not be considered as the spouse of the taxpayer.
 
-(3) Where the taxpayer enters into 2 commodity futures transactions on the same day, one requiring delivery by him in one market and the other requiring delivery to him of the same (or substantially identical) commodity in the same calendar month in a different market, and the taxpayer subsequently closes both such transactions on the same day, subsections (b) and (d) shall have no application to so much of the commodity involved in either such transaction as does not exceed in quantity the commodity involved in the other.
+(3) Where the taxpayer enters into 2 commodity futures transactions on the same day, one requiring delivery by him in one market and the other requiring delivery to him of the same (orsubstantially identical) commodity in the same calendar month in a different market, and the taxpayer subsequently closes both such transactions on the same day, subsections (b) and (d) shall have no application to so much of the commodity involved in either such transaction as does not exceed in quantity the commodity involved in the other.
 
 (4)(A) In the case of a taxpayer who is a dealer in securities (within the meaning of section 1236)—
 
@@ -110,7 +110,7 @@ Amendment by section 1901(a)(137) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1958 Amendment
 
-Amendment by section 52(b) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by section 52(b) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, andending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 Section 52(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to short sales made after December 31, 1957.”
 

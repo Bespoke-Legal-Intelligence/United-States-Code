@@ -16,7 +16,7 @@ Contents.—A transportation improvement program for a metropolitan area shall i
 
 &emsp;&emsp;(B) indicates resources from public and private sources that reasonably are expected to be made available to carry out the plan; and
 
-&emsp;&emsp;(C) recommends innovative financing techniques, including value capture, tolls, andcongestion pricing, to finance needed projects.
+&emsp;&emsp;(C) recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.
 
 (c)
 

@@ -1,0 +1,8 @@
+### §§412, 413. Transferred
+
+#### Codification
+
+Section 412, act May 27, 1912, ch. 135, §1, 37 Stat. 118, which related to acreage cotton crop report, was transferred to section 476 of this title.
+
+Section 413, act May 3, 1924, ch. 149, §1, 43 Stat. 115, which related to cotton crop reports, was transferred to section 475 of this title.
+

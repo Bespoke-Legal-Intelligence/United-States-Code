@@ -12,7 +12,7 @@ Section 875, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 
 
 Section 876, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476; amended June 16, 1933, ch. 98, title VIII, §§80(a), 81, 48 Stat. 273, provided for signature and attestation of bonds, joint and several obligations, and recitals.
 
-Section 877, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476, directed that consolidated bonds be made payable at any land bank and authorized provisions making them payable at Federal reserve banks or other designated banks as well.
+Section 877, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476, directed that consolidated bonds be made payable at any land bank and authorized provisions makingthem payable at Federal reserve banks or other designated banks as well.
 
 Section 878, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476; amended Mar. 4, 1925, ch. 524, §6, 43 Stat. 1264; June 16, 1933, ch. 98, title VIII, §§80(a), 81, 48 Stat. 273, directed that land banks on whose behalf consolidated bonds are issued be bound by acts of Land Bank Commissioner and any deputy land bank commissioner.
 

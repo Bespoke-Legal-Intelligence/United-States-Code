@@ -6,7 +6,7 @@
 
 (2) Any agreement entered into under this subsection—
 
-&emsp;(A) shall include a waiver by each party to the agreement of all claims against everyother party to the agreement for compensation for any loss, damage, personal injury, or death occurring in consequence of the performance of such agreement;
+&emsp;(A) shall include a waiver by each party to the agreement of all claims against every other party to the agreement for compensation for any loss, damage, personal injury, or death occurring in consequence of the performance of such agreement;
 
 &emsp;(B) shall include a provision to allow the termination of such agreement by any party thereto after reasonable notice; and
 

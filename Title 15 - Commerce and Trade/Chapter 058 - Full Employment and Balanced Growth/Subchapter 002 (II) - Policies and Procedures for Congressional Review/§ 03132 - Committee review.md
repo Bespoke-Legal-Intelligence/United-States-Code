@@ -16,7 +16,7 @@ Within thirty days after receipt by the Congress of the Economic Report, each st
 
 On or before March 15 of each year, a majority of the members of the Joint Economic Committee shall submit a report to the Committees on the Budget of the Senate and the House of Representatives. Such report shall include findings, recommendations, and any appropriate analyses with respect and in direct comparison to each of the short-term and medium-term goals set forth in the Economic Report.
 
-(Pub. L. 95 523, title III, §302, Oct. 27, 1978, 92 Stat. 1904.)
+(Pub. L. 95–523, title III, §302, Oct. 27, 1978, 92 Stat. 1904.)
 
 #### References in Text
 

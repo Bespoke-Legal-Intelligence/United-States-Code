@@ -98,7 +98,7 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 &emsp;&emsp;(A) the spouse makes a change of election with respect to itemized deductions, for the taxable year covered in such separate return, consistent with the change of treatment sought by the taxpayer, and
 
-&emsp;&emsp;(B) the taxpayer and his spouse consent in writing to the assessment (within such period as may be agreed on with the Secretary) of any deficiency, to the extent attributable to such change of election, even though at the time of the filing of such consent the assessment of such deficiency would otherwise be prevented by the operation of any law or rule of law.
+&emsp;&emsp;(B) the taxpayer and his spouse consent in writing to the assessment (within such period as may be agreed on with the Secretary) of any deficiency, to the extent attributableto such change of election, even though at the time of the filing of such consent the assessment of such deficiency would otherwise be prevented by the operation of any law or rule of law.
 
 > &emsp;This paragraph shall not apply if the tax liability of the taxpayer's spouse for the taxable year corresponding to the taxable year of the taxpayer has been compromised under section 7122.
 
@@ -136,9 +136,9 @@ For purposes of this section, marital status shall be determined under section 7
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 18; May 23, 1977, Pub. L. 95–30, title I, §102(a), 91 Stat. 135; Nov. 6, 1978, Pub. L. 95–600, title I, §101(b), 92 Stat. 2769; Aug. 13, 1981, Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), 95 Stat. 189, 194, 196, 197; Oct. 22, 1986, Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), 100 Stat. 2099, 2594; Nov. 10, 1988, Pub. L. 100–647, title I, §1001(b)(1), 102 Stat. 3349; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), 104 Stat. 1388–405, 1388–520; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13201(b)(3)(D), 107 Stat. 459.)
 
-#### Standard Deduction Adjustments for Tax Years Beginning in 1995
+#### Standard Deduction Adjustments for Tax Years Beginning in 1996
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsecs. (c)(2), (5) and (f) of this section for tax years beginning in 1995, see section 3.04 of Revenue Procedure 94–72, set out as a note under section 1 of this title.</i>
+<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsecs. (c)(2), (5) and (f) of this section for tax years beginning in 1996, see section 3.04 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

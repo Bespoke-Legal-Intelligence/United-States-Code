@@ -14,7 +14,7 @@ In performing the duties set forth in section 2122 of this title, the Secretary�
 
 &emsp;(5) shall provide financial assistance under section 2123a of this title to cooperative tourism marketing programs;
 
-&emsp;(6) may enter into contracts with private profit- or non-profit-making individuals, businesses, and organizations for projects designed to carry out the purposes of this chapter whenever he determines that such projectscannot be accomplished under the authority of paragraph (5) of this subsection;
+&emsp;(6) may enter into contracts with private profit- or non-profit-making individuals, businesses, and organizations for projects designed to carry out the purposes of this chapter whenever he determines that such projects cannot be accomplished under the authority of paragraph (5) of this subsection;
 
 &emsp;(7) may make awards of merchandise manufactured and purchased in the United States to travel agents and tour operators in foreign countries as an incentive for their promotion of travel to the United States by residents of foreign countries; and the Secretary may establish such policies, standards, criteria, and procedures as he may deem necessary or appropriate for the administration of this paragraph;
 
@@ -58,7 +58,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 (5) During each twelve-month period described in paragraph (2), tourism trade development efforts shall be directed at the markets selected under paragraph (3).
 
-(Pub. L. 87–63, title II, §202, formerly §3, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §§1, 2, Oct. 21,1970, 84 Stat. 1071, 1072; renumbered and amended Pub. L. 97–63, §3(c), (d), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §§4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, 106 Stat. 1174, 1176, 1178.)
+(Pub. L. 87–63, title II, §202, formerly §3, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §§1, 2, Oct. 21, 1970, 84 Stat. 1071, 1072; renumbered and amended Pub. L. 97–63, §3(c), (d), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §§4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, 106 Stat. 1174, 1176, 1178.)
 
 #### Amendments
 

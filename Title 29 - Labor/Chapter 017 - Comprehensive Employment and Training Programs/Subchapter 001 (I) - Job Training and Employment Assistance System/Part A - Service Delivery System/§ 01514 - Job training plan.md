@@ -68,7 +68,7 @@ Each job training plan for the programs conducted under subchapter II of this ch
 
 &emsp;&emsp;(E) the procedures for evaluating the progress of participants in achieving competencies;
 
-&emsp;(10) a description of the procedures and methods of carrying out subchapter V of this chapter, where applicable, relating to incentive bonus payments for the placement of individuals eligible under such subchapter;
+&emsp;(10) a description of the procedures and methods of carrying out subchapter V of thischapter, where applicable, relating to incentive bonus payments for the placement of individuals eligible under such subchapter;
 
 &emsp;(11) procedures, consistent with sections 1517 and 1574 of this title, for selecting service providers, which procedures shall take into account—
 
@@ -138,7 +138,7 @@ Section 12 of Pub. L. 102–235 provided that: “This Act \[enacting section 17
 
 #### Construction of 1991 Amendment
 
-Amendment by Pub. L. 102–235 not to be construed to require, sanction, or authorize discrimination on thebasis of race, color, religion, sex, national origin, handicap, or age, see section 11 of Pub. L. 102–235, set out as a note under section 1501 of this title.
+Amendment by Pub. L. 102–235 not to be construed to require, sanction, or authorize discrimination on the basis of race, color, religion, sex, national origin, handicap, or age, see section 11 of Pub. L. 102–235, set out as a note under section 1501 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ There is established a National Earthquake Hazards Reduction Program.
 
 &emsp;&emsp;(E) request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter.
 
-> &emsp;The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.
+> &emsp;The principal official carrying out the responsibilities described in this paragraph shall beat a level no lower than that of Associate Director.
 
 #### (2) Federal Emergency Management Agency
 
@@ -76,7 +76,7 @@ There is established a National Earthquake Hazards Reduction Program.
 
 &emsp;&emsp;(C) develop standard procedures, in consultation with the Agency, for issuing earthquake predictions, including aftershock advisories;
 
-&emsp;&emsp;(D) issue when necessary, and notify the Director of the Agency of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
+&emsp;&emsp;(D) issue when necessary, and notify the Director of the Agency of, an earthquake prediction or other earthquake advisory, which may be evaluated by the NationalEarthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
 
 &emsp;&emsp;(E) establish, using existing facilities, a Center for the International Exchange of Earthquake Information which shall—
 
@@ -132,7 +132,7 @@ Subsecs. (g), (i). Pub. L. 100–707 substituted “Disaster Relief and Emergenc
 
 Subsec. (j). Pub. L. 100–252 added subsec. (j).
 
-1985—Subsec. (b)(2)(E). Pub. L. 99–105, §5, amended subpar. (E) generally, substituting “to be submitted to the Congress and updated at such times as may be required by significant program events, but in no event less frequently than every three years;” for “which plan will recommend base and incremental budget options for the agencies to carry out the elements and programs specified through at least 1985, and whichplan shall be completed by September 30, 1981, and transmitted to the Congress and shall be updated annually; and”.
+1985—Subsec. (b)(2)(E). Pub. L. 99–105, §5, amended subpar. (E) generally, substituting “to be submitted to the Congress and updated at such times as may be required by significant program events, but in no event less frequently than every three years;” for “which plan will recommend base and incremental budget options for the agencies to carry out the elements and programs specified through at least 1985, and which plan shall be completed by September 30, 1981, and transmitted to the Congress and shall be updated annually; and”.
 
 Subsec. (b)(2)(F), (G). Pub. L. 99–105, §6, added subpar. (F) and redesignated former subpar. (F) as (G).
 
@@ -176,7 +176,7 @@ The purposes of these requirements are to reduce risks to the lives of occupants
 
 (b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 
-(c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require useof appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
+(c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
 
 Sec. 3. Concurrent Requirements. (a) In accord with Office of Management and Budget Circular A–119 of January 17, 1980, entitled “Federal Participation in the Development and Use of Voluntary Standards,” nationally recognized private sector standards and practices shall be used for the purposes identified in sections 1 and 2 above unless the responsible agency finds that none is available that meets its requirements. The actions ordered herein shall consider the seismic hazards in various areas of the country to be as shown in the most recent edition of the American National Standards Institute Standards A58, <i>Minimum Design Loans for Buildings and Other Structures</i>, or subsequent maps adopted for Federal use in accord with this order. Local building codes determined by the responsible agency or by the Interagency Committee for Seismic Safety in Construction to provide adequately for seismic safety, or special seismic standards and practices required by unique agency mission needs, may be used.
 

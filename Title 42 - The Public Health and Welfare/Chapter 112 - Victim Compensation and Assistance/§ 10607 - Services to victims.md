@@ -2,7 +2,7 @@
 
 #### (a) Designation of responsible officials
 
-The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.
+The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the personswho will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.
 
 #### (b) Identification of victims
 
@@ -62,7 +62,7 @@ At the earliest opportunity after the detection of a crime at which it may be do
 
 #### (d) No cause of action or defense
 
-This section does not create a cause of action or defense in favor of any person arising out ofthe failure of a responsible person to provide information as required by subsection (b) or (c) of this section.
+This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by subsection (b) or (c) of this section.
 
 #### (e) Definitions
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) govern the placement of such positions in their respective appropriate compensation levels of the appropriate compensation schedule.
 
-(b)(1) Subject to review and approval by the committee, the Clerk, the Sergeant at Arms, the Doorkeeper, and the Postmaster of the House of Representatives, shall prepare, revise, and (on a current basis) maintain, at such times and in such form as the committee deems appropriate, position descriptions of the respective positions (in existence on, or established after, January 1, 1965) under the House of Representatives to which this chapter applies which are under their respective jurisdictions, including—
+(b)(1) Subject to review and approval by the committee, the Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, shall prepare, revise, and (on a current basis) maintain, at such times and in such form as the committee deems appropriate, position descriptions of the respective positions (in existence on, or established after, January 1, 1965) under the House of Representatives to which this chapter applies which are under their respective jurisdictions, including—
 
 &emsp;(A) with respect to the Clerk, positions under the House Recording Studio,
 
@@ -24,7 +24,7 @@
 
 &emsp;(C) govern the placement of such position in its appropriate class.
 
-(c) The Clerk, the Sergeant at Arms, the Doorkeeper, and the Postmaster, of the House of Representatives, shall transmit to the committee, at such times and in such form as the committee deems appropriate, all position descriptions required by subsection (b) of this section to be prepared, provided, and currently maintained by them, together with such other pertinent information as the committee may require, in order that the committee shall have, at all times, current information with respect to such position descriptions, the positions to which such descriptions apply, and related personnel matters within the purview of this chapter. Such information so transmitted shall be kept on file in the committee.
+(c) The Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, shall transmit to the committee, at such times and in such form as the committee deems appropriate, all position descriptions required by subsection (b) of this section to be prepared, provided, and currently maintained by them, together with such other pertinent information as the committee may require, in order that the committee shall have, at all times, current information with respect to such position descriptions, the positions to which such descriptions apply, and related personnel matters within the purview of this chapter. Such information so transmitted shall be kept on file in the committee.
 
 (d) Notwithstanding any other provision of this chapter, the committee shall have authority, which may be exercised at any time in its discretion, to—
 
@@ -44,15 +44,21 @@
 
 > All such actions of the committee shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
-(Pub. L. 88–652, §5, Oct. 13, 1964, 78 Stat. 1080.)
+(Pub. L. 88–652, §5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, §108(3), (4), Nov. 19, 1995, 109 Stat. 522.)
+
+#### Amendments
+
+1995—Subsec. (b)(1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster”.
+
+Subsec. (c). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
 
 #### Abolition of Office of Doorkeeper
 
 Office of Doorkeeper of House of Representatives abolished and functions transferred generally to Sergeant-at-Arms of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
-#### Transfer of Functions; Abolition of Office of Postmaster
+#### Transfer of Functions
 
-Certain functions of Officers of House of Representatives transferred to Director of Non-legislative and Financial Services and Office of Postmaster abolished by sections 2 and 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Certain functions of Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Section Referred to in Other Sections
 

@@ -118,7 +118,7 @@ The procedures referred to in subsection (a)(1) of this section (relating to the
 
 &emsp;(7) Support collection under this subsection must be given priority over any other legal process under State law against the same wages.
 
-&emsp;(8) The State may take such actions as may be necessary to extend its system of withholding under this subsection so that such system will include withholding from forms of income other than wages, in order to assure that child support owed by absent parents in the State will be collected without regard to the types of such absent parents’ income or the nature of their income-producing activities.
+&emsp;(8) The State may take such actions as may be necessary to extend its system of withholding under this subsection so that such system will include withholding from forms of income other than wages, in order to assure that child support owed by absent parents in the Statewill be collected without regard to the types of such absent parents’ income or the nature of their income-producing activities.
 
 &emsp;(9) The State must extend its withholding system under this subsection so that such system will include withholding from income derived within such State in cases where the applicable support orders were issued in other States, in order to assure that child support owed by absent parents in such State or any other State will be collected without regard to the residence of the child for whom the support is payable or of such child's custodial parent.
 
@@ -130,7 +130,7 @@ Any State may at its option, under its plan approved under section 654 of this t
 
 #### (d) Exemption of States
 
-If a State demonstrates to the satisfaction of the Secretary, through the presentation to theSecretary of such data pertaining to caseloads, processing times, administrative costs, and average support collections, and such other data or estimates as the Secretary may specify, that the enactment of any law or the use of any procedure or procedures required by or pursuant to this section will not increase the effectiveness and efficiency of the State child support enforcement program, the Secretary may exempt the State, subject to the Secretary's continuing review and to termination of the exemption should circumstances change, from the requirement to enact the law or use the procedure or procedures involved.
+If a State demonstrates to the satisfaction of the Secretary, through the presentation to the Secretary of such data pertaining to caseloads, processing times, administrative costs, and average support collections, and such other data or estimates as the Secretary may specify, that the enactment of any law or the use of any procedure or procedures required by or pursuant to this section will not increase the effectiveness and efficiency of the State child support enforcement program, the Secretary may exempt the State, subject to the Secretary's continuing review and to termination of the exemption should circumstances change, from the requirement to enact the law or use the procedure or procedures involved.
 
 #### (e) “Overdue support” defined
 
@@ -196,7 +196,7 @@ Section 101(d) of Pub. L. 100–485 provided that:
 
 “(3) Subsection (c) \[set out below\] shall become effective on the date of the enactment of this Act.”
 
-Section 103(f) of Pub. L. 100–485 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 667 of this title\]shall become effective one year after the date of the enactment of this Act \[Oct. 13, 1988\].”
+Section 103(f) of Pub. L. 100–485 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 667 of this title\] shall become effective one year after the date of the enactment of this Act \[Oct. 13, 1988\].”
 
 Amendment by section 111(b) of Pub. L. 100–485 effective on first day of first month beginning one year or more after Oct. 13, 1988, see section 111(f)(2) of Pub. L. 100–485, set out as a note under section 654 of this title.
 

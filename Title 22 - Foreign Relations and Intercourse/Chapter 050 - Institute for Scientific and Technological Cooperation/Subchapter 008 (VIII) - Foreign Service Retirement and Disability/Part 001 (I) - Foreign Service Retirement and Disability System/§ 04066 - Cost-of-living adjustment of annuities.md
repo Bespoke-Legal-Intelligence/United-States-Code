@@ -36,7 +36,7 @@ The monthly installment of annuity after adjustment under this section shall be 
 
 #### (f) Rate of increase for surviving spouses of annuitants electing reduced annuity
 
-Effective from its commencing date, there shall be an increase of 10 percent in the annuity of each surviving spouse whose entitlement to annuity resulted from the death of an annuitant who, prior to October 1, 1976, elected a reduced annuity in order to provide a spouse's survivor annuity.
+Effective from its commencing date, there shall be an increase of 10 percent in the annuity of each surviving spouse whose entitlement toannuity resulted from the death of an annuitant who, prior to October 1, 1976, elected a reduced annuity in order to provide a spouse's survivor annuity.
 
 #### (g) Maximum annuity
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Amendment by section 2(a) Ex. Ord. No. 12446 effective with respect to any adjustment or redetermination of any annuity made on or after Oct. 17, 1983, see section 2(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
-Amendment by section 6 of Ex. Ord. No. 12446 applicable to any adjustment occurring on or after Apr. 1, 1983 under this section to any annuity payable from the Foreign Service Retirement and Disability Fund, whether such annuity has a commencing date before,on, or after Oct. 17, 1983, but shall not cause any annuity to be reduced below the rate that is payable on Oct. 17, 1983, see section 6(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
+Amendment by section 6 of Ex. Ord. No. 12446 applicable to any adjustment occurring on or after Apr. 1, 1983 under this section to any annuity payable from the Foreign Service Retirement and Disability Fund, whether such annuity has a commencing date before, on, or after Oct. 17, 1983, but shall not cause any annuity to be reduced below the rate that is payable on Oct. 17, 1983, see section 6(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -6,7 +6,7 @@ The President of the United States is authorized, in his discretion, to declare 
 
 #### Short Title
 
-Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to sections 431, 432, and 433 of this title, is popularly known as the “Antiquities Act of 1906”.
+Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to sections 431, 432, and 433 of this title, is popularly known as the “Antiquities Act of 1906”, and is also known as the “National Monument Act”.
 
 #### National Monument Commission
 
@@ -384,7 +384,7 @@ Wright Brothers National Memorial, North Carolina.—Kill Devil Hill National Mo
 
 #### Albert Einstein Memorial
 
-Conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title whenno longer used for memorial purposes or public access is restricted, was authorized by Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended Pub. L. 96–87, title IV, §401(<i>o</i>), Oct. 12, 1979, 93 Stat. 666.
+Conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title when no longer used for memorial purposes or public access is restricted, was authorized by Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended Pub. L. 96–87, title IV, §401(<i>o</i>), Oct. 12, 1979, 93 Stat. 666.
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 

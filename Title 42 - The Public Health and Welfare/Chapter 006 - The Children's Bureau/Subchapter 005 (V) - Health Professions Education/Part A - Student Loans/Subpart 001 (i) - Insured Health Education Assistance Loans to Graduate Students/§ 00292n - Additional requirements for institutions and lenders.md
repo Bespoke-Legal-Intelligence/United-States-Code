@@ -14,7 +14,7 @@ Notwithstanding any other provision of this subpart, the Secretary is authorized
 
 &emsp;(5) the assessing of tuition or fees to borrowers in amounts that are the same or less than the amount of tuition and fees assessed to nonborrowers;
 
-&emsp;(6) the submission, by the institution or the lender to the Office of Health Education Assistance Loan Default Reduction, of information concerning each loan made under this subpart, including the date when each such loan was originated, the date when each such loan is sold, the identity of the loan holderand information concerning a change in the borrower's status;
+&emsp;(6) the submission, by the institution or the lender to the Office of Health Education Assistance Loan Default Reduction, of information concerning each loan made under this subpart, including the date when each such loan was originated, the date when each such loan is sold, the identity of the loan holder and information concerning a change in the borrower's status;
 
 &emsp;(7) the withholding of services, including academic transcripts, financial aid transcripts, and alumni services, by an institution from a borrower upon the default of such borrower of a loan under this subpart, except in case of a borrower who has filed for bankruptcy; and
 

@@ -18,7 +18,7 @@ It is the purpose of this chapter to ensure the continuation of an effective mec
 
 For the purpose of this chapter and unless otherwise specified—
 
-&emsp;(1) the term “Assistant Secretary” means the Assistant Secretary for Educational Research and Improvement established under section 3412(b)(1)(E)<sup>1</sup> of this title;
+&emsp;(1) the term “Assistant Secretary” means the Assistant Secretary for Educational Research and Improvement established under section 3412(b)(1)(E) <sup>1</sup> of this title;
 
 &emsp;(2) the term “Department” means the Department of Education;
 
@@ -36,15 +36,15 @@ For the purpose of this chapter and unless otherwise specified—
 
 &emsp;&emsp;(B) for the purpose of section 9010 of this title, have the same meaning given such terms in subparagraph (A), except that such terms include Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and Palau.
 
-(Pub. L. 103 382, title IV, §402, Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 103–382, title IV, §402, Oct. 20, 1994, 108 Stat. 4029.)
 
 #### References in Text
 
-The reference to section 3412(b)(1)(E) of this title in subsec. (c)(1) probably should be a reference to section 3412(b)(3) of this title. Pub. L. 103 227, title IX, §913, Mar. 31, 1994, 108 Stat. 223, amended section 3412 by striking out subsec. (b)(1)(E) which related to an Assistant Secretary for Educational Research and Improvement, redesignating subsec. (b)(1)(F) as (b)(1)(E), and adding a subsec. (b)(3) which relates to an Assistant Secretary for Educational Research and Improvement.
+The reference to section 3412(b)(1)(E) of this title in subsec. (c)(1) probably should be a reference to section 3412(b)(3) of this title. Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223, amended section 3412 by striking out subsec. (b)(1)(E) which related to an Assistant Secretary for Educational Research and Improvement, redesignating subsec. (b)(1)(F) as (b)(1)(E), and adding a subsec. (b)(3) which relates to an Assistant Secretary for Educational Research and Improvement.
 
 #### Short Title
 
-Section 401 of Pub. L. 103 382 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Education Statistics Act of 1994’.”
+Section 401 of Pub. L. 103–382 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Education Statistics Act of 1994’.”
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

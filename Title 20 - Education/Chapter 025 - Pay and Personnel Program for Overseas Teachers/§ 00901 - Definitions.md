@@ -26,7 +26,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(4) “United States”, when used in a geographical sense, means the several States of the United States of America, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, the Canal Zone, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Islands).
 
-(Pub. L. 86 91, §2, July 17, 1959, 73 Stat. 213.)
+(Pub. L. 86–91, §2, July 17, 1959, 73 Stat. 213.)
 
 #### References in Text
 
@@ -34,11 +34,11 @@ For definition of Canal Zone, referred to in par. (4), see section 3602(b) of Ti
 
 #### Codification
 
-Section was formerly classified to section 2351 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2351 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Short Title
 
-Section 1 of Pub. L. 86 91 provided that: “This Act \[enacting this chapter and provisions now contained insection 5102(c)(22) of Title 5, Government Organization and Employees\] may be cited as the ‘Defense Department Overseas Teachers Pay and Personnel Practices Act’.”
+Section 1 of Pub. L. 86–91 provided that: “This Act \[enacting this chapter and provisions now contained in section 5102(c)(22) of Title 5, Government Organization and Employees\] may be cited as the ‘Defense Department Overseas Teachers Pay and Personnel Practices Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

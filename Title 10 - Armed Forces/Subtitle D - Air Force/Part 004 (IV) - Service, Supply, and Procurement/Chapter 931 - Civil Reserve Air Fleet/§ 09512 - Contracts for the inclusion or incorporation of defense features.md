@@ -1,4 +1,4 @@
-### §9512 . Contracts for the inclusion or incorporation of defense features
+### §9512. Contracts for the inclusion or incorporation of defense features
 
 (a)
 

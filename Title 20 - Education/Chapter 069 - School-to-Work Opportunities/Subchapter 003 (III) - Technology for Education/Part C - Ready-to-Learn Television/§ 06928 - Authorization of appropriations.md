@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this part, $30,000,000 for 
 
 #### (b) Special projects
 
-Of the amount appropriated under subsection (b)<sup>1</sup> of this section for each fiscal year, at least 10 percent of such amount shall be used for each such fiscal year for activities under section 6923(1)(C) of this title.
+Of the amount appropriated under subsection (b) <sup>1</sup> of this section for each fiscal year, at least 10 percent of such amount shall be used for each such fiscal year for activities under section 6923(1)(C) of this title.
 
-(Pub. L. 89 10, title III, §3308, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3666.)
+(Pub. L. 89–10, title III, §3308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3666.)
 

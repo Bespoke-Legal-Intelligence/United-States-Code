@@ -32,11 +32,11 @@ The Secretary may utilize by agreement, with or without reimbursement, personnel
 
 #### References in Text
 
-The effective date of this paragraph, referred to in subsec. (b)(2)(A) and (C), is Dec. 31, 1988, the effectivedate of section 2107(b) of Pub. L. 100–220 which added par. (2) to subsec. (b). See Effective Date of 1987 Amendment note below.
+The effective date of this paragraph, referred to in subsec. (b)(2)(A) and (C), is Dec. 31, 1988, the effective date of section 2107(b) of Pub. L. 100–220 which added par. (2) to subsec. (b). See Effective Date of 1987 Amendment note below.
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–220, §2107(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless otherwise specified herein, the Secretary shall administer and enforce the MARPOL Protocol and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the MARPOL Protocol shall be applicable only to seagoing ships.”
+1987—Subsec. (a). Pub. L. 100–220, §2107(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless otherwise specified herein, the Secretary shall administer and enforce the MARPOL Protocol and this chapter. In the administration andenforcement of the MARPOL Protocol and this chapter, Annexes I and II of the MARPOL Protocol shall be applicable only to seagoing ships.”
 
 Subsec. (b). Pub. L. 100–220, §2107(b), designated existing provisions as par. (1) and added par. (2).
 

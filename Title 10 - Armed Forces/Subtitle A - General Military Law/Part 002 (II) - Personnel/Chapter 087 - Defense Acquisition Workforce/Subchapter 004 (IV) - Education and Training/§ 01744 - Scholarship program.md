@@ -48,7 +48,7 @@ Repayment.—(1) Any person participating in a program established under this se
 
 (e)
 
-Rule of Construction.—Nothing in this section shall be considered to require that a position be offered to a person after such person successfully completes the course of education agreed to. However, if no position described in subsection (c)(3)(A) is offered within the timespecified in the agreement, the agreement shall be considered terminated.
+Rule of Construction.—Nothing in this section shall be considered to require that a position be offered to a person after such person successfully completes the course of education agreed to. However, if no position described in subsection (c)(3)(A) is offered within the time specified in the agreement, the agreement shall be considered terminated.
 
 (f)
 

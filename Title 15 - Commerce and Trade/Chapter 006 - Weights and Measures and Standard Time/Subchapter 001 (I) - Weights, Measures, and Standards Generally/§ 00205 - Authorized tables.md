@@ -208,7 +208,7 @@ I74u.s. customary
 
 4 pecks=1 bushel=35.239 1 liters
 
-The accepted volume of a barrel in the United States varies significantly depending both on the commodityfor which it is used and on how it is defined in State law (varying from State-to-State).
+The accepted volume of a barrel in the United States varies significantly depending both on the commodity for which it is used and on how it is defined in State law (varying from State-to-State).
 
 #### metric
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 927, 1407, 1422, 1423, 1424, 1441, 1476, 1477, 1478, 1479, 1482, 1491n, 2321, 2325, 4304, 7908, 8066 of this title; title 10 section 2164; title 29 sections 721, 2211, 2231, 2243; title 42 sections 290ff 1, 290ff 2, 1396b, 12511.
+This subchapter is referred to in sections 927, 1407, 1422, 1423, 1424, 1441, 1476, 1477, 1478, 1479, 1482, 1491n, 2321, 2325, 4304, 7908, 8066 of this title; title 10 section 2164; title 29 sections 721, 2211, 2231, 2243; title 42 sections 290ff–1, 290ff–2, 1396b, 12511.
 
 
 ---

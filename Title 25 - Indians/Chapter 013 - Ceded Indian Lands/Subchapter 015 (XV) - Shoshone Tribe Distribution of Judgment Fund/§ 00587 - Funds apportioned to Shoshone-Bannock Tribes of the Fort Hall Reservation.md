@@ -2,7 +2,7 @@
 
 #### (a) Distribution to enrollees
 
-The funds apportioned to the Shoshone-Bannock Tribes of the Fort Hall Reservation shall be placed to their credit in the United States Treasury. Seventy-five percent of such funds shall be distributed per capita to all persons born on or before and living on December 18, 1971, who are duly enrolled on the roll prepared in accordance with section 585(a) of this title.
+The funds apportioned to the Shoshone-Bannock Tribes of the Fort Hall Reservation shallbe placed to their credit in the United States Treasury. Seventy-five percent of such funds shall be distributed per capita to all persons born on or before and living on December 18, 1971, who are duly enrolled on the roll prepared in accordance with section 585(a) of this title.
 
 #### (b) Determination of per capita share
 

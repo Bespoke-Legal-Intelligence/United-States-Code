@@ -2,7 +2,7 @@
 
 #### (a) Noncomplying packages for elderly or handicapped persons; labeling statements
 
-For the purpose of making any household substance which is subject to a standard established under section 1472 of this title readily availableto elderly or handicapped persons unable to use such substance when packaged in compliance with such standard, the manufacturer or packer, as the case may be, may package any household substance, subject to such a standard, in packaging of a single size which does not comply with such standard if—
+For the purpose of making any household substance which is subject to a standard established under section 1472 of this title readily available to elderly or handicapped persons unable to use such substance when packaged in compliance with such standard, the manufacturer or packer, as the case may be, may package any household substance, subject to such a standard, in packaging of a single size which does not comply with such standard if—
 
 &emsp;(1) the manufacturer (or packer) also supplies such substance in packages which comply with such standard; and
 
@@ -16,7 +16,7 @@ In the case of a household substance which is subject to such a standard and whi
 
 In the case of a household substance subject to such a standard which is packaged under subsection (a) of this section in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.
 
-(Pub. L. 91 601, §4, Dec. 30, 1970, 84 Stat. 1671; Pub. L. 92 573, §30(a), Oct. 27, 1972, 86 Stat. 1231.)
+(Pub. L. 91–601, §4, Dec. 30, 1970, 84 Stat. 1671; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231.)
 
 #### References in Text
 
@@ -24,7 +24,7 @@ For classification to the Code of “this Act”, referred to in subsec. (c), se
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary” in subsecs. (a) and (c) and “it” substituted for “he” in subsec. (c) pursuant to section 30(a) of Pub. L. 92 573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary” in subsecs. (a) and (c) and “it” substituted for “he” in subsec. (c) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 #### Section Referred to in Other Sections
 

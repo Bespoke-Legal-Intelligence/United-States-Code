@@ -12,7 +12,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 279 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by Pub. L. 103–160, §822(d)(2).
+Provisions similar to those in this section were contained in section 279 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A), and in sections 4541 and9541 of this title, prior to repeal by Pub. L. 103–160, §822(d)(2).
 
 #### Amendments
 

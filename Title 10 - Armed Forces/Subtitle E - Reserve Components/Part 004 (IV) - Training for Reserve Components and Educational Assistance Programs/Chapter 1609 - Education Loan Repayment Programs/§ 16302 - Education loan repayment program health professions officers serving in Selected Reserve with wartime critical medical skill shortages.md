@@ -18,7 +18,7 @@
 
 (c)(1) The amount of any repayment of a loan made under this section on behalf of any person shall be determined on the basis of each complete year of service that is described in subsection (b)(1) and performed by the person after the date on which the loan was made.
 
-(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section on behalf of any person may not exceed $3,000 for each year of service described in paragraph (1).
+(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section onbehalf of any person may not exceed $3,000 for each year of service described in paragraph (1).
 
 (3) The total amount that may be repaid on behalf of any person under this section may not exceed $20,000.
 

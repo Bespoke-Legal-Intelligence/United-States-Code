@@ -1,4 +1,4 @@
 ### §232b. Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 650
 
-Section, act May 23, 1938, ch. 259, 52 Stat. 421, prescribed manner by which persons employed in NationalArchives Establishment six months after May 23, 1938, should gain a competitive classified civil service status.
+Section, act May 23, 1938, ch. 259, 52 Stat. 421, prescribed manner by which persons employed in National Archives Establishment six months after May 23, 1938, should gain a competitive classified civil service status.
 

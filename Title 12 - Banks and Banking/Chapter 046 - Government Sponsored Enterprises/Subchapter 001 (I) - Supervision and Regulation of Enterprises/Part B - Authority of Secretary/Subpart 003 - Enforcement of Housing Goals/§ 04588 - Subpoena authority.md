@@ -14,7 +14,7 @@ In the course of or in connection with any administrative proceeding under this 
 
 #### (b) Witnesses and documents
 
-The attendance of witnesses and the production of documents provided for in this sectionmay be required from any place in any State at any designated place where such proceeding is being conducted.
+The attendance of witnesses and the production of documents provided for in this section may be required from any place in any State at any designated place where such proceeding is being conducted.
 
 #### (c) Enforcement
 

@@ -12,7 +12,7 @@ For purposes of this chapter (other than section 2304(a)(2) of this title), impl
 
 A disclaimer, modification, or limitation made in violation of this section shall be ineffective for purposes of this chapter and State law.
 
-(Pub. L. 93 637, title I, §108, Jan. 4, 1975, 88 Stat. 2189.)
+(Pub. L. 93–637, title I, §108, Jan. 4, 1975, 88 Stat. 2189.)
 
 #### Section Referred to in Other Sections
 

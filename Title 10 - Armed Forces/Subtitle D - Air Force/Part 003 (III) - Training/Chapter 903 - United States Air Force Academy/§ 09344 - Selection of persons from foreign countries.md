@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of the Air Force may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under section 9342 of this title.
 
-(2) The Secretary of the Air Force, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the AirForce may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
+(2) The Secretary of the Air Force, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section andthe number of persons that may be selected from each country. The Secretary of the Air Force may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 

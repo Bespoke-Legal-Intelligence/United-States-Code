@@ -70,7 +70,7 @@
 
 After the development of the voluntary national opportunity-to-learn standards, each consortium receiving assistance under this section shall submit a report to the Secretary which discusses the background, important issues, and rationale regarding such standards.
 
-(Pub. L. 103 227, title II, §219, Mar. 31, 1994, 108 Stat. 149.)
+(Pub. L. 103–227, title II, §219, Mar. 31, 1994, 108 Stat. 149.)
 
 #### Section Referred to in Other Sections
 

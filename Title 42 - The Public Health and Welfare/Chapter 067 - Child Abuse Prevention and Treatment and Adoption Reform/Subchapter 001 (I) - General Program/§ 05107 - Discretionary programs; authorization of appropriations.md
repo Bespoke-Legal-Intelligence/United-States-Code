@@ -1,6 +1,6 @@
 ### §5107. Discretionary programs; authorization of appropriations
 
-(a)(1) The Secretary of Health and Human Services, either directly, through grants toStates and public and private, nonprofit organizations and agencies, or through jointly financed cooperative arrangements with States, public agencies, and other agencies and organizations, is authorized to provide for activities of national significance related to child abuse prevention and treatment and adoption reform, including operation of a national center to collect and disseminate information regarding child abuse and neglect, and operation of a national adoption information exchange system to facilitate the adoptive placement of children.
+(a)(1) The Secretary of Health and Human Services, either directly, through grants to States and public and private, nonprofit organizations and agencies, or through jointly financed cooperative arrangements with States, public agencies, and other agencies and organizations, is authorized to provide for activities of national significance related to child abuse prevention and treatment and adoption reform, including operation of a national center to collect and disseminate information regarding child abuse and neglect, and operation of a national adoption information exchange system to facilitate the adoptive placement of children.
 
 (2) The Secretary, in carrying out the provisions of this subsection, shall provide for the continued operation of the National Center on Child Abuse and Neglect in accordance with section 5101(a) of this title for each of the fiscal years 1982 and 1983.
 
@@ -16,5 +16,5 @@ The Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, referr
 
 #### Codification
 
-Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of title I of the Child Abuse Prevention and Treatment Act which comprises this subchapter.
+Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of title I ofthe Child Abuse Prevention and Treatment Act which comprises this subchapter.
 

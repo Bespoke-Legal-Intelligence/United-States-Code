@@ -82,7 +82,7 @@ For purposes of this section, livestock of different sexes are not property of a
 
 #### (3) Related person
 
-&emsp;For purposes of this subsection, the term “related person” means any person bearing arelationship to the taxpayer described in section 267(b) or 707(b)(1).
+&emsp;For purposes of this subsection, the term “related person” means any person bearing a relationship to the taxpayer described in section 267(b) or 707(b)(1).
 
 #### (4) Treatment of certain transactions
 
@@ -182,7 +182,7 @@ Special rule where property identified in binding contract.—If the property to
 
 “(5)
 
-Special rule for like-kind exchange of partnership interests.—Paragraph (2)(D) of section 1031(a)of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall not apply to any exchange of an interest as general partner pursuant to a plan of reorganization of ownership interest under a contract which took effect on March 29, 1984, and which was executed on or before March 31, 1984, but only if all the exchanges contemplated by the reorganization plan are completed on or before December 31, 1984.”
+Special rule for like-kind exchange of partnership interests.—Paragraph (2)(D) of section 1031(a) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall not apply to any exchange of an interest as general partner pursuant to a plan of reorganization of ownership interest under a contract which took effect on March 29, 1984, and which was executed on or before March 31, 1984, but only if all the exchanges contemplated by the reorganization plan are completed on or before December 31, 1984.”
 
 #### Effective Date of 1969 Amendment
 

@@ -2,5 +2,5 @@
 
 A State that receives an implementation grant under section 6142 of this title may not use more than 10 percent of the amounts received through the grant for any fiscal year for administrative costs associated with implementing the statewide School-to-Work Opportunities system for such fiscal year.
 
-(Pub. L. 103 239, title II, §217, May 4, 1994, 108 Stat. 591.)
+(Pub. L. 103–239, title II, §217, May 4, 1994, 108 Stat. 591.)
 

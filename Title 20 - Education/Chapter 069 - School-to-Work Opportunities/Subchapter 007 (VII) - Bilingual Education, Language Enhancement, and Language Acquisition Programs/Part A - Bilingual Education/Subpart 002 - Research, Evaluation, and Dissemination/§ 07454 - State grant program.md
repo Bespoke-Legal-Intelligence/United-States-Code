@@ -46,7 +46,7 @@ Funds made available under this section for any fiscal year shall be used by the
 
 State educational agencies receiving awards under this section shall provide for the annual submission of a summary report to the Secretary describing such State's use of such funds.
 
-(Pub. L. 89 10, title VII, §7134, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3730.)
+(Pub. L. 89–10, title VII, §7134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3730.)
 
 #### Section Referred to in Other Sections
 

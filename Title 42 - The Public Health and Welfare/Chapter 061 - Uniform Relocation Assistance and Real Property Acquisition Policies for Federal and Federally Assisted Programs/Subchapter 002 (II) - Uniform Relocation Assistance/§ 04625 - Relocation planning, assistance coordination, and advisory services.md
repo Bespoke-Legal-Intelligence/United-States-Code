@@ -46,7 +46,7 @@ Notwithstanding section 4601(1) of this title, in any case in which a displacing
 
 #### Amendments
 
-1987—Pub. L. 100–17, substituted “Relocation planning, assistance coordination, and advisory services”for “Relocation assistance advisory services” in catchline and amended text generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (d).
+1987—Pub. L. 100–17, substituted “Relocation planning, assistance coordination, and advisory services” for “Relocation assistance advisory services” in catchline and amended text generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (d).
 
 #### Effective Date of 1987 Amendment
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 8031\. | The Air Staff: function; composition. |
+| [8031\.](%C2%A7%2008031%20-%20The%20Air%20Staff%20function%3B%20composition.md) | The Air Staff: function; composition. |
 | [8032\.](%C2%A7%2008032%20-%20The%20Air%20Staff%20general%20duties.md) | The Air Staff: general duties. |
 | [8033\.](%C2%A7%2008033%20-%20Chief%20of%20Staff.md) | Chief of Staff. |
 | [8034\.](%C2%A7%2008034%20-%20Vice%20Chief%20of%20Staff.md) | Vice Chief of Staff. |

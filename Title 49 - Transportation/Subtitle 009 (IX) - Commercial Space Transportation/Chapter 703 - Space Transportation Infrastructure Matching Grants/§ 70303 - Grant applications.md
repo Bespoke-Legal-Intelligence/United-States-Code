@@ -20,7 +20,7 @@ Considerations and Consultation.—(1) In selecting proposed projects for grants
 
 &emsp;(F) the impact of the project on launch operations and other activities at Government launch ranges.
 
-(2) The Secretary of Transportation shall consult with the Secretary of Defense, the Administrator of the National Space and Aeronautics Administration, and the heads of other appropriate agencies of the Government about paragraph (1)(A) and (F) of this subsection.
+(2) The Secretary of Transportation shall consult with the Secretary of Defense, the Administrator of the National Space and AeronauticsAdministration, and the heads of other appropriate agencies of the Government about paragraph (1)(A) and (F) of this subsection.
 
 (c)
 

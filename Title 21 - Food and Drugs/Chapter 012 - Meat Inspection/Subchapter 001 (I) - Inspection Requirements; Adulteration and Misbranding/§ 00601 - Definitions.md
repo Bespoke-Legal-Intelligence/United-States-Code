@@ -30,13 +30,13 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
-&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live animal or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a rawagricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
+&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live animal or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
 &emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title,
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title,
 
-&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an article which is not adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the Secretary in establishments at which inspection is maintained under this subchapter;
+&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section379e of this title: <i>Provided</i>, That an article which is not adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the Secretary in establishments at which inspection is maintained under this subchapter;
 
 &emsp;(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance or is for any other reason unsound, unhealthful, unwholesome, or otherwise unfit for human food;
 
@@ -74,7 +74,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(10) if it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary, after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
 
-&emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shallbe established by regulations promulgated by the Secretary; or
+&emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shall be established by regulations promulgated by the Secretary; or
 
 &emsp;(12) if it fails to bear, directly thereon or on its container, as the Secretary may by regulations prescribe, the inspection legend and, unrestricted by any of the foregoing, such other information as the Secretary may require in such regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
 

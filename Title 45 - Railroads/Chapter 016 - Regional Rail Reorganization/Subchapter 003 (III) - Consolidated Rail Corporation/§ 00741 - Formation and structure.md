@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-There shall be established within 300 days after January 2, 1974, in accordance with the provisions of this section, a corporation to be known as the Consolidated Rail Corporation or such other corporate name as may be duly adopted by the Corporation.
+There shall be established within 300 days after January 2, 1974, in accordance with the provisions of this section, a corporation to beknown as the Consolidated Rail Corporation or such other corporate name as may be duly adopted by the Corporation.
 
 #### (b) Status
 
-The Corporation shall be a for-profit corporation established under the laws of a State and shall not be an agency or instrumentality of the Federal Government. The Corporation shall be deemed a common carrier by railroad under section 10102 of title 49, shall be subject to the provisions of this Act and, to the extent not inconsistent with such Act and subtitle IV of title 49, shall be subject to applicable State law. The principal office of the Corporation or of its principal railroad operating subsidiary shall be located in Philadelphia in the Commonwealth of Pennsylvania.
+The Corporation shall be a for-profit corporation established under the laws of a State and shall not be an agency or instrumentality of the Federal Government. The Corporation shall be deemed a rail carrier subject to part A of subtitle IV of title 49, shall be subject to the provisions of this Act and, to the extent not inconsistent with such Act and subtitle IV of title 49, shall be subject to applicable State law. The principal office of the Corporation or of its principal railroad operating subsidiary shall be located in Philadelphia in the Commonwealth of Pennsylvania.
 
 #### (c) Incorporators
 
@@ -42,7 +42,7 @@ For and during the period between the deposit of securities of the Corporation w
 
 #### (h) Annual report
 
-The Corporation shall transmit to the Congress and the President, not later than 90 days after the end of each fiscal year, a comprehensive and detailed report on all activities and accomplishments of the Corporation during the preceding fiscal year.
+The Corporation shall transmit to the Congress and the President, not later than 90 daysafter the end of each fiscal year, a comprehensive and detailed report on all activities and accomplishments of the Corporation during the preceding fiscal year.
 
 #### (i) Liability of directors
 
@@ -114,19 +114,23 @@ The provisions of this chapter shall not apply to the Corporation and to activit
 
 &emsp;(29) section 797m of this title, but only with regard to disputes or controversies specified in such section that arose before the sale date.
 
-(Pub. L. 93–236, title III, §301, Jan. 2, 1974, 87 Stat. 1004; Pub. L. 94–210, title VI, §§608, 611, 612(j)(1), (3), (m), Feb. 5, 1976, 90 Stat. 99, 105, 109, 110; Pub. L. 94–216, §§1, 3, Feb. 17, 1976, 90 Stat. 191; Pub. L. 94–248, §4, Mar. 25, 1976, 90 Stat. 286; Pub. L. 97–35, title XI, §1141, Aug. 13, 1981, 95 Stat. 653; Pub. L. 99–509, title IV, §4032, Oct. 21, 1986, 100 Stat. 1906.)
+(Pub. L. 93–236, title III, §301, Jan. 2, 1974, 87 Stat. 1004; Pub. L. 94–210, title VI, §§608, 611,612(j)(1), (3), (m), Feb. 5, 1976, 90 Stat. 99, 105, 109, 110; Pub. L. 94–216, §§1, 3, Feb. 17, 1976, 90 Stat. 191; Pub. L. 94–248, §4, Mar. 25, 1976, 90 Stat. 286; Pub. L. 97–35, title XI, §1141, Aug. 13, 1981, 95 Stat. 653; Pub. L. 99–509, title IV, §4032, Oct. 21, 1986, 100 Stat. 1906; Pub. L. 104–88, title III, §327(2), Dec. 29, 1995, 109 Stat. 951.)
 
 #### References in Text
+
+This Act, referred to in subsec. (b), means the Regional Rail Reorganization Act of 1973, Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Conrail Privatization Act, referred to in subsec. (k)(7), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Codification
 
-In subsec. (b), “section 10102 of title 49” and “such Act and subtitle IV of title 49” substituted for “section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))” and “such Acts”, respectively, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
+In subsec. (b), “such Act and subtitle IV of title 49” substituted for “such Acts”, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49, Transportation.
 
 The last sentence of subsec. (f) of this section as originally enacted, which amended section 856 of former Title 31, Money and Finance, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 #### Amendments
+
+1995—Subsec. (b). Pub. L. 104–88, §327(2), substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad under section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))”.
 
 1986—Subsec. (k). Pub. L. 99–509 added subsec. (k).
 
@@ -142,7 +146,7 @@ Subsec. (b). Pub. L. 94–210, §612(j)(3), inserted “or of its principal rail
 
 Subsec. (c). Pub. L. 94–210, §611(a), designated existing provisions as par. (1), struck out provision relating to service of the incorporators as the Board of Directors, and added par. (2).
 
-Subsec. (d). Pub. L. 94–210, §611(b), designated existing provisions as par. (1), inserted provision relating to applicability of State law, decreased membership from15 to 13, and revised criteria for selection to membership, and added par. (2).
+Subsec. (d). Pub. L. 94–210, §611(b), designated existing provisions as par. (1), inserted provision relating to applicability of State law, decreased membership from 15 to 13, and revised criteria for selection to membership, and added par. (2).
 
 Subsec. (e). Pub. L. 94–210, §608, designated existing provisions as par. (1), substituted provisions authorizing issuance of debentures, series A preferred stock, series B preferred stock, common stock, contingent interest notes, and other securities, for provisions relating to issuance of stock and other securities, and added par. (2).
 
@@ -161,6 +165,10 @@ Subsec. (i). Pub. L. 94–216, §§1, 3, redesignated former subsec. (h) “Liab
 Pub. L. 94–210, §612(m), added subsec. (i) “Corporate simplification”.
 
 Subsec. (j). Pub. L. 94–216, §1, redesignated former subsec. (i) “Corporate simplification” as (j).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1981 Amendment
 

@@ -10,5 +10,5 @@ The purpose of this part is to reduce the number of children who do not complete
 
 &emsp;(4) model systems for collecting and reporting information to local school officials on the number, ages, sex, race or ethnicity, and grade levels of the children not completing their elementary and secondary education and the reasons why such children have dropped out of school.
 
-(Pub. L. 89 10, title V, §5302, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3701.)
+(Pub. L. 89–10, title V, §5302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3701.)
 

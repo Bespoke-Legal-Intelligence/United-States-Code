@@ -102,7 +102,7 @@
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
-(c) The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
+(c) The head of each agency shall be responsible for the prevention of prohibited personnelpractices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
 
 (d) This section shall not be construed to extinguish or lessen any effort to achieve equal employment opportunity through affirmative action or any right or remedy available to any employee or applicant for employment in the civil service under—
 
@@ -116,7 +116,7 @@
 
 &emsp;(5) the provisions of any law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5),Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363.)
 
 #### References in Text
 
@@ -124,7 +124,7 @@ The civil service laws, referred to in subsec. (c), are set out in this title. S
 
 #### Amendments
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–424, §5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–424, §5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
 
 Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, §5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee's salary or grade level;”.
 
@@ -140,17 +140,17 @@ Subsec. (a)(2)(C)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,
 
 Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
 
-1993—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
 &emsp;“(A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
 
 &emsp;“(B) an evaluation of the character, loyalty, or suitability of such individual;”.
 
-1992—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
+<b>1992</b>—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
 
-1990—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+<b>1990</b>—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
-1989—Subsec. (b)(8). Pub. L. 101–12, §4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
+<b>1989</b>—Subsec. (b)(8). Pub. L. 101–12, §4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
 
 Subsec. (b)(9). Pub. L. 101–12, §4(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
 
@@ -164,5 +164,5 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 571, 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 7 sections 6932, 6962; title 22 sections 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
+This section is referred to in sections 571, 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 22 sections 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
 

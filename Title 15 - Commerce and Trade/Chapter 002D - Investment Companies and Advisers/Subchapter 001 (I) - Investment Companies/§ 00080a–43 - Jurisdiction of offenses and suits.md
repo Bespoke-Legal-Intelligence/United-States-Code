@@ -6,7 +6,7 @@ The district courts of the United States and the United States courts of any Ter
 
 #### Amendments
 
-1970—Pub. L. 91–547 substituted reference to “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 225 and347 of title 28 and section 7, as amended, of the Act entitled ‘An Act to establish a court of appeals for the District of Columbia, approved February 9, 1893’ ” and provided for Commission intervention as a party in any action or suit to enforce any liability or duty created by, or to enjoin any noncompliance with, section 80a–35(b) of this title at any stage of such action or suit prior to final judgment therein, respectively.
+1970—Pub. L. 91–547 substituted reference to “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 225 and 347 of title 28 and section 7, as amended, of the Act entitled ‘An Act to establish a court of appeals for the District of Columbia, approved February 9, 1893’ ” and provided for Commission intervention as a party in any action or suit to enforce any liability or duty created by, or to enjoin any noncompliance with, section 80a–35(b) of this title at any stage of such action or suit prior to final judgment therein, respectively.
 
 #### Effective Date of 1970 Amendment
 

@@ -12,7 +12,7 @@ Prior to amendment by Pub. L. 98–473, the words “as the case may be” were 
 
 #### Amendments
 
-1984—Pub. L. 98–473 amended section generally, substituting “reimbursement of substantially all of the Federal, State, and local income taxes” for “reimbursement of all or part of the Federal, State, and city income taxes” and “for which the employee and spouse, as the case may be” for “for which the employee, or the employee and spouse, as the case may be” in subsec. (a) and “5724c” for “5726(c)” in subsec. (b).
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “reimbursement of substantially all of the Federal, State, and local income taxes” for “reimbursement of all or part of the Federal, State, and city income taxes” and “for which the employee and spouse, as the case may be” for “for which the employee, or the employee and spouse, as the case may be” in subsec. (a) and “5724c” for “5726(c)” in subsec. (b).
 
 #### Effective Date; Promulgation of Regulations
 

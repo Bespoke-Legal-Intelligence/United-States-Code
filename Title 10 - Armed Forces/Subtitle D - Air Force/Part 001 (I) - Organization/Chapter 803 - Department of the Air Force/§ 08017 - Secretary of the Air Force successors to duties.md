@@ -1,4 +1,4 @@
-### §8017 . Secretary of the Air Force: successors to duties
+### §8017. Secretary of the Air Force: successors to duties
 
 If the Secretary of the Air Force dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
@@ -10,7 +10,7 @@ If the Secretary of the Air Force dies, resigns, is removed from office, is abse
 
 &emsp;(4) The Chief of Staff.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 489; Nov. 2, 1966, Pub. L. 89–718, §23, 80 Stat. 1118; Jan. 2, 1968, Pub. L. 90–235, §4(a)(9), 81 Stat. 760; Oct. 1, 1986, Pub. L. 99–433, title V, §521(a)(4), 100 Stat. 1058;Oct. 5, 1994, Pub. L. 103–337, div. A, title IX, §902(c), 108 Stat. 2823.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 489; Nov. 2, 1966, Pub. L. 89–718, §23, 80 Stat. 1118; Jan. 2, 1968, Pub. L. 90–235, §4(a)(9), 81 Stat. 760; Oct. 1, 1986, Pub. L. 99–433, title V, §521(a)(4), 100 Stat. 1058; Oct. 5, 1994, Pub. L. 103–337, div. A, title IX, §902(c), 108 Stat. 2823.)
 
 Historical and Revision Notes
 

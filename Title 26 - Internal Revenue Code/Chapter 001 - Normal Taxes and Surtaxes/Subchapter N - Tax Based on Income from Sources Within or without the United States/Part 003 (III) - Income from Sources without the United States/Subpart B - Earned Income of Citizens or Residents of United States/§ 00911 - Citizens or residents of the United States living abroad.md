@@ -2,7 +2,7 @@
 
 #### (a) Exclusion from gross income
 
-At the election of a qualified individual (made separately with respect to paragraphs (1) and\(2)), there shall be excluded from the gross income of such individual, and exempt from taxation under this subtitle, for any taxable year—
+At the election of a qualified individual (made separately with respect to paragraphs (1) and (2)), there shall be excluded from the gross income of such individual, and exempt from taxation under this subtitle, for any taxable year—
 
 &emsp;(1) the foreign earned income of such individual, and
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred during the taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
+&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred duringthe taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
 
 &emsp;&emsp;&emsp;(i) includes expenses attributable to the housing (such as utilities and insurance), but
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (2) Revocation
 
-&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for any subsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
+&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for anysubsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
 
 #### (f) Cross references
 
@@ -302,7 +302,7 @@ Subsec. (c)(1)(D). Pub. L. 95–615, §202(b), struck out subpar. (D) which defi
 
 Subsec. (c)(7). Pub. L. 95–615, §202(c), added par. (7).
 
-Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) was subsequently repealed by section 202(e) of Pub. L. 95–615 without taking into account the redesignation of par. (8) as (7) by Pub. L. 95–600. See 1978 Amendment note for subsec. (c)(8) below.
+Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) was subsequently repealed by section 202(e) of Pub. L. 95–615 without taking into account theredesignation of par. (8) as (7) by Pub. L. 95–600. See 1978 Amendment note for subsec. (c)(8) below.
 
 Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of the purposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
 
@@ -416,7 +416,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Repeals
 
-Section 703(e) of Pub. L. 95–600, cited as a credit to this section, was repealed by Pub. L. 96–222, title I,§107(a)(3)(B), Apr. 1, 1980, 94 Stat. 223. See 1978 Amendment note for subsec. (c)(7) of this section set out above.
+Section 703(e) of Pub. L. 95–600, cited as a credit to this section, was repealed by Pub. L. 96–222, title I, §107(a)(3)(B), Apr. 1, 1980, 94 Stat. 223. See 1978 Amendment note for subsec. (c)(7) of this section set out above.
 
 #### Treatment of Certain Persons in Panama
 
@@ -438,7 +438,7 @@ Section 4(b) of Pub. L. 95–615, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Reports to Congressional Committees; Information From Federal Agencies
 
-Section 208 of Pub. L. 95–615, as amended Pub. L. 97–34, title I, §114, Aug. 13, 1981, 95 Stat. 195; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XI, §11833, Nov. 5, 1990, 104 Stat. 1388–560, provided that:
+Section 208 of Pub. L. 95–615, as amended by Pub. L. 97–34, title I, §114, Aug. 13, 1981, 95 Stat. 195; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XI, §11833, Nov. 5, 1990, 104 Stat. 1388–560, provided that:
 
 “(a)
 

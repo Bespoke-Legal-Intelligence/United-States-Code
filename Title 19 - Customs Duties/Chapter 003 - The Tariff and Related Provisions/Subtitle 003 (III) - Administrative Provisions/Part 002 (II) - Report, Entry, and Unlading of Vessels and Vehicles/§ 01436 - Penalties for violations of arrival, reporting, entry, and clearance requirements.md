@@ -32,7 +32,7 @@ In subsec. (a)(3), “section 1644a(b)(1) or (c)(1) of this title” substituted
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in R.S. §2834, as amended by act Mar. 3, 1897, ch. 389, §15, 29 Stat. 691, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §436, 42 Stat. 951, and was repealed by section 642 thereof. Section 436 of the 1922 act was superseded by section 436 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §2834, as amended by act Mar. 3, 1897, ch. 389, §15, 29 Stat. 691, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §436, 42 Stat. 951, and was repealed by section 642 thereof. Section 436 of the 1922 actwas superseded by section 436 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

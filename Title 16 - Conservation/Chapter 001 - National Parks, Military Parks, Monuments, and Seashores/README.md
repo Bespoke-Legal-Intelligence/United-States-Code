@@ -167,21 +167,21 @@
 | [26\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000026%20-%20Regulations%20for%20hunting%20and%20fishing%20in%20park%3B%20punishment%20for%20violations%3B%20forfeitures.md) | Regulations for hunting and fishing in park; punishment for violations; forfeitures. |
 | 27 to 29. | Repealed. |
 | [30\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000030%20-%20Jail%20building%3B%20office%20of%20magistrate%20judge.md) | Jail building; office of magistrate judge. |
-| 30a. | Existing laws as affected. |
-| 31\. | Repealed. |
-| 32\. | Lease of lands within park. |
-| 33\. | Mortgages by lessees within the park. |
-| 34\. | Road extensions. |
-| 35\. | Private use of electricity from lighting and power plant. |
-| 36\. | Disposition of surplus elk, buffalo, bear, beaver, and predatory animals. |
-| 36a. | Disposition of surplus elk. |
-| 37\. | Provision of feed and range facilities for game animals. |
-| 38\. | Exchange for State or private lands authorized. |
-| 39\. | Reservation of timber, minerals, or easements by owners on exchange. |
-| 40\. | Additions to park; entry under other acts. |
-| 40a. | Educational facilities for dependents of employees; payments to school districts; limitation on amount. |
-| 40b. | Cooperative agreements with States or local agencies; expansion; Federal contributions. |
-| 40c. | Creation of special fund; expenditure. |
+| [30a.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000030a%20-%20Existing%20laws%20as%20affected.md) | Existing laws as affected. |
+| [31\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000031%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
+| [32\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000032%20-%20Lease%20of%20lands%20within%20park.md) | Lease of lands within park. |
+| [33\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000033%20-%20Mortgages%20by%20lessees%20within%20the%20park.md) | Mortgages by lessees within the park. |
+| [34\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000034%20-%20Road%20extensions.md) | Road extensions. |
+| [35\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000035%20-%20Private%20use%20of%20electricity%20from%20lighting%20and%20power%20plant.md) | Private use of electricity from lighting and power plant. |
+| [36\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000036%20-%20Disposition%20of%20surplus%20elk%2C%20buffalo%2C%20bear%2C%20beaver%2C%20and%20predatory%20animals.md) | Disposition of surplus elk, buffalo, bear, beaver, and predatory animals. |
+| [36a.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000036a%20-%20Disposition%20of%20surplus%20elk.md) | Disposition of surplus elk. |
+| [37\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000037%20-%20Provision%20of%20feed%20and%20range%20facilities%20for%20game%20animals.md) | Provision of feed and range facilities for game animals. |
+| [38\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000038%20-%20Exchange%20for%20State%20or%20private%20lands%20authorized.md) | Exchange for State or private lands authorized. |
+| [39\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000039%20-%20Reservation%20of%20timber%2C%20minerals%2C%20or%20easements%20by%20owners%20on%20exchange.md) | Reservation of timber, minerals, or easements by owners on exchange. |
+| [40\.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000040%20-%20Additions%20to%20park%3B%20entry%20under%20other%20acts.md) | Additions to park; entry under other acts. |
+| [40a.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000040a%20-%20Educational%20facilities%20for%20dependents%20of%20employees%3B%20payments%20to%20school%20districts%3B%20limitation%20on%20amount.md) | Educational facilities for dependents of employees; payments to school districts; limitation on amount. |
+| [40b.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000040b%20-%20Cooperative%20agreements%20with%20States%20or%20local%20agencies%3B%20expansion%3B%20Federal%20contributions.md) | Cooperative agreements with States or local agencies; expansion; Federal contributions. |
+| [40c.](Subchapter%20005%20%28V%29%20-%20Yellowstone%20National%20Park/%C2%A7%2000040c%20-%20Creation%20of%20special%20fund%3B%20expenditure.md) | Creation of special fund; expenditure. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -189,11 +189,11 @@
 
 |  |  |
 | :--- | ---: |
-| 41\. | Sequoia National Park; establishment; boundaries; trespassers. |
-| 42\. | Repealed. |
-| 43\. | Sequoia National Park; rules and regulations; leases; fish and game; trespassers. |
+| [41\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000041%20-%20Sequoia%20National%20Park%3B%20establishment%3B%20boundaries%3B%20trespassers.md) | Sequoia National Park; establishment; boundaries; trespassers. |
+| [42\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000042%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md) | Repealed. |
+| [43\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000043%20-%20Sequoia%20National%20Park%3B%20rules%20and%20regulations%3B%20leases%3B%20fish%20and%20game%3B%20trespassers.md) | Sequoia National Park; rules and regulations; leases; fish and game; trespassers. |
 | 44, 45. | Transferred. |
-| 45a. | Sequoia National Park; revision of boundaries. |
+| [45a.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000045a%20-%20Sequoia%20National%20Park%3B%20revision%20of%20boundaries.md) | Sequoia National Park; revision of boundaries. |
 | 45a–1. | Addition of lands authorized. |
 | 45a–2. | Exchange of certain lands for lands conveyed to United States. |
 | 45a–3. | Repealed. |
@@ -210,33 +210,33 @@
 | 47–4. | Agreements to effectuate leases. |
 | 47–5. | Regulations. |
 | 47–6. | Conflicts of interest prohibited. |
-| 47a. | Addition of certain lands to park authorized. |
-| 47b. | Inapplicability of certain laws to lands acquired under section 47a. |
-| 47c. | Acquisition of certain lands for preservation and consolidation of timber stands. |
-| 47d. | Acquisition of certain lands for protection of park deer. |
-| 47e. | Purchase of private lands for park authorized. |
-| 47f. | Inapplicability of certain laws to lands acquired under section 47e. |
-| 48\. | Yosemite Valley and Mariposa Big Tree Grove reserved and made part of Yosemite National Park. |
-| 49\. | Rights of claimants and owners of lands included; laws and regulations applicable within park. |
-| 50\. | Repealed. |
-| 51\. | Yosemite National Park; exchange of privately owned lands in park. |
-| 52\. | Values of lands and timber to be exchanged; lands added to park. |
-| 53\. | Cutting and removal of timber. |
-| 54\. | Sale of matured, dead, or down timber. |
-| 55\. | Leases of land in park; mortgages by lessees. |
-| 56\. | Repealed. |
-| 57\. | Yosemite and Sequoia National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California. |
-| 58\. | Laws applicable; fugitives from justice. |
-| 59\. | Repealed. |
-| 60\. | Hunting or fishing prohibited. |
-| 61\. | Rules and regulations in parks. |
-| 62\. | Possession of dead bodies of birds or animals. |
-| 63\. | Transportation of birds, animals, or fish; violations of statute or rules or regulations for management, care, and preservation of parks; damage or spoliation; punishment. |
-| 64\. | Sale or disposal of timber; destruction of detrimental animal or plant life. |
-| 65\. | Seizure and forfeiture of guns, traps, teams, horses, etc. |
+| [47a.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047a%20-%20Addition%20of%20certain%20lands%20to%20park%20authorized.md) | Addition of certain lands to park authorized. |
+| [47b.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047b%20-%20Inapplicability%20of%20certain%20laws%20to%20lands%20acquired%20under%20section%2047a.md) | Inapplicability of certain laws to lands acquired under section 47a. |
+| [47c.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047c%20-%20Acquisition%20of%20certain%20lands%20for%20preservation%20and%20consolidation%20of%20timber%20stands.md) | Acquisition of certain lands for preservation and consolidation of timber stands. |
+| [47d.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047d%20-%20Acquisition%20of%20certain%20lands%20for%20protection%20of%20park%20deer.md) | Acquisition of certain lands for protection of park deer. |
+| [47e.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047e%20-%20Purchase%20of%20private%20lands%20for%20park%20authorized.md) | Purchase of private lands for park authorized. |
+| [47f.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047f%20-%20Inapplicability%20of%20certain%20laws%20to%20lands%20acquired%20under%20section%2047e.md) | Inapplicability of certain laws to lands acquired under section 47e. |
+| [48\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000048%20-%20Yosemite%20Valley%20and%20Mariposa%20Big%20Tree%20Grove%20reserved%20and%20made%20part%20of%20Yosemite%20National%20Park.md) | Yosemite Valley and Mariposa Big Tree Grove reserved and made part of Yosemite National Park. |
+| [49\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000049%20-%20Rights%20of%20claimants%20and%20owners%20of%20lands%20included%3B%20laws%20and%20regulations%20applicable%20within%20park.md) | Rights of claimants and owners of lands included; laws and regulations applicable within park. |
+| [50\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000050%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md) | Repealed. |
+| [51\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000051%20-%20Yosemite%20National%20Park%3B%20exchange%20of%20privately%20owned%20lands%20in%20park.md) | Yosemite National Park; exchange of privately owned lands in park. |
+| [52\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000052%20-%20Values%20of%20lands%20and%20timber%20to%20be%20exchanged%3B%20lands%20added%20to%20park.md) | Values of lands and timber to be exchanged; lands added to park. |
+| [53\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000053%20-%20Cutting%20and%20removal%20of%20timber.md) | Cutting and removal of timber. |
+| [54\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000054%20-%20Sale%20of%20matured%2C%20dead%2C%20or%20down%20timber.md) | Sale of matured, dead, or down timber. |
+| [55\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000055%20-%20Leases%20of%20land%20in%20park%3B%20mortgages%20by%20lessees.md) | Leases of land in park; mortgages by lessees. |
+| [56\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000056%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md) | Repealed. |
+| [57\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000057%20-%20Yosemite%20and%20Sequoia%20National%20Parks%3B%20exclusive%20jurisdiction%20of%20United%20States%3B%20jurisdiction%20remaining%20in%20and%20taxation%20by%20California.md) | Yosemite and Sequoia National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California. |
+| [58\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000058%20-%20Laws%20applicable%3B%20fugitives%20from%20justice.md) | Laws applicable; fugitives from justice. |
+| [59\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000059%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
+| [60\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000060%20-%20Hunting%20or%20fishing%20prohibited.md) | Hunting or fishing prohibited. |
+| [61\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000061%20-%20Rules%20and%20regulations%20in%20parks.md) | Rules and regulations in parks. |
+| [62\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000062%20-%20Possession%20of%20dead%20bodies%20of%20birds%20or%20animals.md) | Possession of dead bodies of birds or animals. |
+| [63\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000063%20-%20Transportation%20of%20birds%2C%20animals%2C%20or%20fish%3B%20violations%20of%20statute%20or%20rules%20or%20regulations%20for%20management%2C%20care%2C%20and%20preservation%20of%20parks%E2%80%A6.md) | Transportation of birds, animals, or fish; violations of statute or rules or regulations for management, care, and preservation of parks; damage or spoliation; punishment. |
+| [64\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000064%20-%20Sale%20or%20disposal%20of%20timber%3B%20destruction%20of%20detrimental%20animal%20or%20plant%20life.md) | Sale or disposal of timber; destruction of detrimental animal or plant life. |
+| [65\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000065%20-%20Seizure%20and%20forfeiture%20of%20guns%2C%20traps%2C%20teams%2C%20horses%2C%20etc.md) | Seizure and forfeiture of guns, traps, teams, horses, etc. |
 | 66 to 77. | Repealed. |
-| 78\. | Detail of troops to Sequoia and Yosemite Parks. |
-| 79\. | Rights-of-way for public utilities. |
+| [78\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000078%20-%20Detail%20of%20troops%20to%20Sequoia%20and%20Yosemite%20Parks.md) | Detail of troops to Sequoia and Yosemite Parks. |
+| [79\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000079%20-%20Rights-of-way%20for%20public%20utilities.md) | Rights-of-way for public utilities. |
 | 79–1. | Yosemite National Park; expansion of reservoir capacity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -245,9 +245,9 @@
 
 |  |  |
 | :--- | ---: |
-| 79a. | Establishment; statement of purposes. |
-| 79b. | Park area. |
-| 79c. | Acquisition of land. |
+| [79a.](Subchapter%20007%20%28VII%29%20-%20Redwood%20National%20Park/%C2%A7%2000079a%20-%20Establishment%3B%20statement%20of%20purposes.md) | Establishment; statement of purposes. |
+| [79b.](Subchapter%20007%20%28VII%29%20-%20Redwood%20National%20Park/%C2%A7%2000079b%20-%20Park%20area.md) | Park area. |
+| [79c.](Subchapter%20007%20%28VII%29%20-%20Redwood%20National%20Park/%C2%A7%2000079c%20-%20Acquisition%20of%20land.md) | Acquisition of land. |
 | 79c–1. | Vesting in United States of all right, title, etc., in real property and down tree personal property in additional lands; effective date; authorization of appropriations. |
 | [79d.](Subchapter%20007%20%28VII%29%20-%20Redwood%20National%20Park/%C2%A7%2000079d%20-%20Acquisition%20of%20lands.md) | Acquisition of lands. |
 | [79e.](Subchapter%20007%20%28VII%29%20-%20Redwood%20National%20Park/%C2%A7%2000079e%20-%20Exchange%20of%20property%3B%20cash%20equalization%20payments%3B%20commercial%20operations%2C%20minimum%20economic%20dislocation%20and%20disruption.md) | Exchange of property; cash equalization payments; commercial operations, minimum economic dislocation and disruption. |
@@ -346,12 +346,12 @@
 | [99\.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000099%20-%20Forfeitures%20and%20seizures%20of%20guns%2C%20traps%2C%20teams%2C%20etc.md) | Forfeitures and seizures of guns, traps, teams, etc. |
 | 100 to 106. | Repealed. |
 | [107\.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000107%20-%20Boundary%20changed.md) | Boundary changed. |
-| 108\. | Other laws extended to added lands. |
-| 109\. | Additional lands. |
-| 110\. | Laws and regulations applicable to added lands; free use of roads maintained by State. |
-| 110a. | Headquarters site; acquisition of lands. |
-| 110b. | Administration of headquarters site. |
-| 110c. | Boundary adjustments. |
+| [108\.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000108%20-%20Other%20laws%20extended%20to%20added%20lands.md) | Other laws extended to added lands. |
+| [109\.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000109%20-%20Additional%20lands.md) | Additional lands. |
+| [110\.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110%20-%20Laws%20and%20regulations%20applicable%20to%20added%20lands%3B%20free%20use%20of%20roads%20maintained%20by%20State.md) | Laws and regulations applicable to added lands; free use of roads maintained by State. |
+| [110a.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110a%20-%20Headquarters%20site%3B%20acquisition%20of%20lands.md) | Headquarters site; acquisition of lands. |
+| [110b.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110b%20-%20Administration%20of%20headquarters%20site.md) | Administration of headquarters site. |
+| [110c.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110c%20-%20Boundary%20adjustments.md) | Boundary adjustments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -359,24 +359,24 @@
 
 |  |  |
 | :--- | ---: |
-| 111\. | Establishment; boundaries. |
-| 111a. | Authorization for acquisition of additional lands. |
-| 111b. | Donations or exchanges of lands. |
-| 111c. | Revision of boundaries; vested rights; administration. |
-| 111d. | Acquisition of lands within boundaries of park. |
-| 111e. | Authorization of appropriations. |
-| 112\. | Control; regulations; prehistoric ruins. |
-| 113\. | Examinations, excavations, and gathering objects of interest. |
-| 114\. | Removal, disturbance, destruction, or molestation of ruins. |
-| 115\. | Leases and permits; prehistoric ruins not included. |
-| 115a. | Mineral resources; exploitation. |
-| 116\. | Repealed. |
-| 117\. | Exclusive jurisdiction ceded to United States by Colorado; saving provisions; fugitives from justice. |
+| [111\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000111%20-%20Establishment%3B%20boundaries.md) | Establishment; boundaries. |
+| [111a.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000111a%20-%20Authorization%20for%20acquisition%20of%20additional%20lands.md) | Authorization for acquisition of additional lands. |
+| [111b.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000111b%20-%20Donations%20or%20exchanges%20of%20lands.md) | Donations or exchanges of lands. |
+| [111c.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000111c%20-%20Revision%20of%20boundaries%3B%20vested%20rights%3B%20administration.md) | Revision of boundaries; vested rights; administration. |
+| [111d.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000111d%20-%20Acquisition%20of%20lands%20within%20boundaries%20of%20park.md) | Acquisition of lands within boundaries of park. |
+| [111e.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000111e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [112\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000112%20-%20Control%3B%20regulations%3B%20prehistoric%20ruins.md) | Control; regulations; prehistoric ruins. |
+| [113\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000113%20-%20Examinations%2C%20excavations%2C%20and%20gathering%20objects%20of%20interest.md) | Examinations, excavations, and gathering objects of interest. |
+| [114\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000114%20-%20Removal%2C%20disturbance%2C%20destruction%2C%20or%20molestation%20of%20ruins.md) | Removal, disturbance, destruction, or molestation of ruins. |
+| [115\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000115%20-%20Leases%20and%20permits%3B%20prehistoric%20ruins%20not%20included.md) | Leases and permits; prehistoric ruins not included. |
+| [115a.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000115a%20-%20Mineral%20resources%3B%20exploitation.md) | Mineral resources; exploitation. |
+| [116\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000116%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md) | Repealed. |
+| [117\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000117%20-%20Exclusive%20jurisdiction%20ceded%20to%20United%20States%20by%20Colorado%3B%20saving%20provisions%3B%20fugitives%20from%20justice.md) | Exclusive jurisdiction ceded to United States by Colorado; saving provisions; fugitives from justice. |
 | 117a, 117b. | Repealed. |
-| 117c. | Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties. |
-| 117d. | Forfeiture of property used for unlawful purpose. |
+| [117c.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000117c%20-%20Hunting%20and%20fishing%3B%20general%20rules%20and%20regulations%3B%20protection%20of%20property%3B%20violation%20of%20statutes%20and%20rules%3B%20penalties.md) | Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties. |
+| [117d.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000117d%20-%20Forfeiture%20of%20property%20used%20for%20unlawful%20purpose.md) | Forfeiture of property used for unlawful purpose. |
 | 117e to 117j. | Repealed. |
-| 118\. | Appropriations; availability for operation of Aileen Nusbaum Hospital. |
+| [118\.](Subchapter%20012%20%28XII%29%20-%20Mesa%20Verde%20National%20Park/%C2%A7%2000118%20-%20Appropriations%3B%20availability%20for%20operation%20of%20Aileen%20Nusbaum%20Hospital.md) | Appropriations; availability for operation of Aileen Nusbaum Hospital. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -530,16 +530,16 @@
 | 192b–8. | Description of parcels of land. |
 | 192b–9. | Rocky Mountain National Park, Roosevelt National Forest, and the Arapaho National Forest. |
 | 192b–10. | Boundary adjustment for Rocky Mountain National Park and Roosevelt National Forest. |
-| 192c. | Vested rights. |
-| 193\. | Claims and rights under land laws not affected; rights-of-way for irrigation and other purposes. |
-| 194\. | Lands held in private, municipal, or State ownership not affected. |
-| 195\. | Control; regulations; leases; sale and removal of timber. |
-| 196\. | Use for Arbuckle Reservoir. |
-| 197\. | Applicability of other laws. |
-| 198\. | Exclusive jurisdiction; assumption by United States; saving provisions. |
+| [192c.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000192c%20-%20Vested%20rights.md) | Vested rights. |
+| [193\.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000193%20-%20Claims%20and%20rights%20under%20land%20laws%20not%20affected%3B%20rights-of-way%20for%20irrigation%20and%20other%20purposes.md) | Claims and rights under land laws not affected; rights-of-way for irrigation and other purposes. |
+| [194\.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000194%20-%20Lands%20held%20in%20private%2C%20municipal%2C%20or%20State%20ownership%20not%20affected.md) | Lands held in private, municipal, or State ownership not affected. |
+| [195\.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000195%20-%20Control%3B%20regulations%3B%20leases%3B%20sale%20and%20removal%20of%20timber.md) | Control; regulations; leases; sale and removal of timber. |
+| [196\.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000196%20-%20Use%20for%20Arbuckle%20Reservoir.md) | Use for Arbuckle Reservoir. |
+| [197\.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000197%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
+| [198\.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000198%20-%20Exclusive%20jurisdiction%3B%20assumption%20by%20United%20States%3B%20saving%20provisions.md) | Exclusive jurisdiction; assumption by United States; saving provisions. |
 | 198a, 198b. | Repealed. |
-| 198c. | Prohibited acts; rules and regulations; penalties for offenses. |
-| 198d. | Forfeiture of property used in commission of offenses. |
+| [198c.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000198c%20-%20Prohibited%20acts%3B%20rules%20and%20regulations%3B%20penalties%20for%20offenses.md) | Prohibited acts; rules and regulations; penalties for offenses. |
+| [198d.](Subchapter%20021%20%28XXI%29%20-%20Rocky%20Mountain%20National%20Park/%C2%A7%2000198d%20-%20Forfeiture%20of%20property%20used%20in%20commission%20of%20offenses.md) | Forfeiture of property used in commission of offenses. |
 | 198e to 198j. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -548,8 +548,8 @@
 
 |  |  |
 | :--- | ---: |
-| 201\. | Establishment; boundaries; trespassers; entries under land laws; indemnity lands. |
-| 201a. | Revision of boundaries. |
+| [201\.](Subchapter%20022%20%28XXII%29%20-%20Lassen%20Volcanic%20National%20Park/%C2%A7%2000201%20-%20Establishment%3B%20boundaries%3B%20trespassers%3B%20entries%20under%20land%20laws%3B%20indemnity%20lands.md) | Establishment; boundaries; trespassers; entries under land laws; indemnity lands. |
+| [201a.](Subchapter%20022%20%28XXII%29%20-%20Lassen%20Volcanic%20National%20Park/%C2%A7%2000201a%20-%20Revision%20of%20boundaries.md) | Revision of boundaries. |
 | [201b.](Subchapter%20022%20%28XXII%29%20-%20Lassen%20Volcanic%20National%20Park/%C2%A7%2000201b%20-%20Sections%20applicable%20to%20lands%20within%20revised%20boundaries.md) | Sections applicable to lands within revised boundaries. |
 | [202\.](Subchapter%20022%20%28XXII%29%20-%20Lassen%20Volcanic%20National%20Park/%C2%A7%2000202%20-%20Control%3B%20rules%20and%20regulations%3B%20fish%20and%20game%3B%20leases%3B%20automobiles%3B%20stock%20grazing.md) | Control; rules and regulations; fish and game; leases; automobiles; stock grazing. |
 | [202a.](Subchapter%20022%20%28XXII%29%20-%20Lassen%20Volcanic%20National%20Park/%C2%A7%2000202a%20-%20Summer%20homes%20and%20cottages.md) | Summer homes and cottages. |
@@ -721,14 +721,14 @@
 
 |  |  |
 | :--- | ---: |
-| 271\. | Establishment; description of area. |
-| 271a. | Acquisition of lands; authority of Secretary; exchange of property; cash equalization payments; transfer from Federal agency to administrative jurisdiction of Secretary; lands subject to reclamation and power withdrawals. |
-| 271b. | Grazing privileges; right of occupancy or use for fixed term of years; renewal. |
-| 271c. | Access roads. |
-| 271d. | Administration, protection, and development. |
-| 271e. | Report to President. |
-| 271f. | Omitted. |
-| 271g. | Authorization of appropriations. |
+| [271\.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
+| [271a.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271a%20-%20Acquisition%20of%20lands%3B%20authority%20of%20Secretary%3B%20exchange%20of%20property%3B%20cash%20equalization%20payments%3B%20transfer%20from%20Federal%20agency%20to%E2%80%A6.md) | Acquisition of lands; authority of Secretary; exchange of property; cash equalization payments; transfer from Federal agency to administrative jurisdiction of Secretary; lands subject to reclamation and power withdrawals. |
+| [271b.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271b%20-%20Grazing%20privileges%3B%20right%20of%20occupancy%20or%20use%20for%20fixed%20term%20of%20years%3B%20renewal.md) | Grazing privileges; right of occupancy or use for fixed term of years; renewal. |
+| [271c.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271c%20-%20Access%20roads.md) | Access roads. |
+| [271d.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271d%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
+| [271e.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271e%20-%20Report%20to%20President.md) | Report to President. |
+| [271f.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271f%20-%20Omitted.md) | Omitted. |
+| [271g.](Subchapter%20029%20%28XXIX%29%20-%20Canyonlands%20National%20Park/%C2%A7%2000271g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -736,13 +736,13 @@
 
 |  |  |
 | :--- | ---: |
-| 272\. | Establishment. |
-| 272a. | Acquisition of property for park; authority of Secretary; State property. |
-| 272b. | Grazing privileges within park; right of occupancy or use for fixed term of years; renewal. |
-| 272c. | Livestock trails, watering rights; driveway designation and regulation. |
-| 272d. | Administration, protection, and development; report to President. |
-| 272e. | Omitted. |
-| 272f. | Authorization of appropriations. |
+| [272\.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272%20-%20Establishment.md) | Establishment. |
+| [272a.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272a%20-%20Acquisition%20of%20property%20for%20park%3B%20authority%20of%20Secretary%3B%20State%20property.md) | Acquisition of property for park; authority of Secretary; State property. |
+| [272b.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272b%20-%20Grazing%20privileges%20within%20park%3B%20right%20of%20occupancy%20or%20use%20for%20fixed%20term%20of%20years%3B%20renewal.md) | Grazing privileges within park; right of occupancy or use for fixed term of years; renewal. |
+| [272c.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272c%20-%20Livestock%20trails%2C%20watering%20rights%3B%20driveway%20designation%20and%20regulation.md) | Livestock trails, watering rights; driveway designation and regulation. |
+| [272d.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272d%20-%20Administration%2C%20protection%2C%20and%20development%3B%20report%20to%20President.md) | Administration, protection, and development; report to President. |
+| [272e.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272e%20-%20Omitted.md) | Omitted. |
+| [272f.](Subchapter%20030%20%28XXX%29%20-%20Arches%20National%20Park/%C2%A7%2000272f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -750,13 +750,13 @@
 
 |  |  |
 | :--- | ---: |
-| 273\. | Establishment. |
-| 273a. | Acquisition of property; authority of Secretary; State property. |
-| 273b. | Grazing privileges; right of occupancy or use for fixed term of years; renewal. |
-| 273c. | Livestock trails, watering rights; driveway regulations. |
-| 273d. | Administration, protection, and development. |
-| 273e. | Omitted. |
-| 273f. | Authorization of appropriations. |
+| [273\.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273%20-%20Establishment.md) | Establishment. |
+| [273a.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273a%20-%20Acquisition%20of%20property%3B%20authority%20of%20Secretary%3B%20State%20property.md) | Acquisition of property; authority of Secretary; State property. |
+| [273b.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273b%20-%20Grazing%20privileges%3B%20right%20of%20occupancy%20or%20use%20for%20fixed%20term%20of%20years%3B%20renewal.md) | Grazing privileges; right of occupancy or use for fixed term of years; renewal. |
+| [273c.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273c%20-%20Livestock%20trails%2C%20watering%20rights%3B%20driveway%20regulations.md) | Livestock trails, watering rights; driveway regulations. |
+| [273d.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273d%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
+| [273e.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273e%20-%20Omitted.md) | Omitted. |
+| [273f.](Subchapter%20031%20%28XXXI%29%20-%20Capitol%20Reef%20National%20Park/%C2%A7%2000273f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -954,8 +954,8 @@
 |  |  |
 | :--- | ---: |
 | [396d.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/%C2%A7%2000396d%20-%20Establishment.md) | Establishment. |
-| 396e. | Exchange of lands. |
-| 396f. | Acquisition of private lands; creation of surplus property accounts; transfer and sale of accounts. |
+| [396e.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/%C2%A7%2000396e%20-%20Exchange%20of%20lands.md) | Exchange of lands. |
+| [396f.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/%C2%A7%2000396f%20-%20Acquisition%20of%20private%20lands%3B%20creation%20of%20surplus%20property%20accounts%3B%20transfer%20and%20sale%20of%20accounts.md) | Acquisition of private lands; creation of surplus property accounts; transfer and sale of accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -963,11 +963,11 @@
 
 |  |  |
 | :--- | ---: |
-| 397\. | Establishment; boundaries. |
-| 397a. | Establishment; notice in Federal Register. |
-| 397b. | Procurement of lands. |
-| 397c. | Acquisition of lands by Governor of the Territory of Hawaii. |
-| 397d. | Administration. |
+| [397\.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397%20-%20Establishment%3B%20boundaries.md) | Establishment; boundaries. |
+| [397a.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397a%20-%20Establishment%3B%20notice%20in%20Federal%20Register.md) | Establishment; notice in Federal Register. |
+| [397b.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397b%20-%20Procurement%20of%20lands.md) | Procurement of lands. |
+| [397c.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397c%20-%20Acquisition%20of%20lands%20by%20Governor%20of%20the%20Territory%20of%20Hawaii.md) | Acquisition of lands by Governor of the Territory of Hawaii. |
+| [397d.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397d%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -975,13 +975,13 @@
 
 |  |  |
 | :--- | ---: |
-| 398\. | Establishment; administration. |
-| 398a. | Conditions and limitations. |
-| 398b. | Repealed. |
-| 398c. | Addition of lands. |
-| 398d. | Acquisition of lands, waters, and interests therein. |
-| 398e. | Bathing and fishing rights protected. |
-| 398f. | Authorization of appropriations for acquisitions, grants, etc. |
+| [398\.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398%20-%20Establishment%3B%20administration.md) | Establishment; administration. |
+| [398a.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398a%20-%20Conditions%20and%20limitations.md) | Conditions and limitations. |
+| [398b.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398b%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93404%2C%20May%2016%2C%201958%2C%2072%20Stat.%20112.md) | Repealed. |
+| [398c.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398c%20-%20Addition%20of%20lands.md) | Addition of lands. |
+| [398d.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398d%20-%20Acquisition%20of%20lands%2C%20waters%2C%20and%20interests%20therein.md) | Acquisition of lands, waters, and interests therein. |
+| [398e.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398e%20-%20Bathing%20and%20fishing%20rights%20protected.md) | Bathing and fishing rights protected. |
+| [398f.](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/%C2%A7%2000398f%20-%20Authorization%20of%20appropriations%20for%20acquisitions%2C%20grants%2C%20etc.md) | Authorization of appropriations for acquisitions, grants, etc. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1439,7 +1439,7 @@
 
 |  |  |
 | :--- | ---: |
-| 410nn. | Establishment. |
+| [410nn.](Subchapter%20059%E2%80%93L%20%28LIX%E2%80%93L%29%20-%20San%20Francisco%20Maritime%20National%20Historical%20Park/%C2%A7%2000410nn%20-%20Establishment.md) | Establishment. |
 | 410nn–1. | Administration. |
 | 410nn–2. | Acquisition of property. |
 | 410nn–3. | Advisory Commission. |
@@ -1465,7 +1465,7 @@
 
 |  |  |
 | :--- | ---: |
-| 410pp. | Establishment. |
+| [410pp.](Subchapter%20059%E2%80%93N%20%28LIX%E2%80%93N%29%20-%20Zuni-Cibola%20National%20Historical%20Park/%C2%A7%2000410pp%20-%20Establishment.md) | Establishment. |
 | 410pp–1. | Acquisition of leasehold. |
 | 410pp–2. | Management. |
 | 410pp–3. | Federal consistency. |
@@ -1755,23 +1755,23 @@
 | [420\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000420%20-%20Rights-of-way%20through%20military%20and%20other%20reservations%20for%20power%20and%20communications%20facilities.md) | Rights-of-way through military and other reservations for power and communications facilities. |
 | [421\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000421%20-%20Vacancies%20occurring%20in%20commissions%20in%20charge%20of%20parks%20not%20to%20be%20filled.md) | Vacancies occurring in commissions in charge of parks not to be filled. |
 | [422\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422%20-%20Moores%20Creek%20National%20Battlefield%3B%20establishment.md) | Moores Creek National Battlefield; establishment. |
-| 422a. | Acceptance of lands. |
+| [422a.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422a%20-%20Acceptance%20of%20lands.md) | Acceptance of lands. |
 | 422a–1. | Acquisition of property. |
 | 422a–2. | Authorization of appropriations. |
-| 422b. | Duties of Secretary of the Interior. |
-| 422c. | Ascertaining and marking of lines of battle. |
-| 422d. | Monuments, etc., protected. |
-| 423\. | Petersburg National Battlefield; establishment. |
-| 423a. | Acceptance of donations of lands. |
+| [422b.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422b%20-%20Duties%20of%20Secretary%20of%20the%20Interior.md) | Duties of Secretary of the Interior. |
+| [422c.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422c%20-%20Ascertaining%20and%20marking%20of%20lines%20of%20battle.md) | Ascertaining and marking of lines of battle. |
+| [422d.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000422d%20-%20Monuments%2C%20etc.%2C%20protected.md) | Monuments, etc., protected. |
+| [423\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423%20-%20Petersburg%20National%20Battlefield%3B%20establishment.md) | Petersburg National Battlefield; establishment. |
+| [423a.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423a%20-%20Acceptance%20of%20donations%20of%20lands.md) | Acceptance of donations of lands. |
 | 423a–1. | Addition of lands. |
 | 423a–2. | Adjustment of boundary. |
-| 423b. | Commission; organization. |
-| 423c. | Duties of commission. |
-| 423d. | Acceptance and disposition of gifts. |
-| 423e. | Ascertaining and marking lines of battle. |
-| 423f. | Protection of monuments, etc. |
-| 423g. | Rules and regulations. |
-| 423h. | Report of completion; superintendent of battlefield. |
+| [423b.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423b%20-%20Commission%3B%20organization.md) | Commission; organization. |
+| [423c.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423c%20-%20Duties%20of%20commission.md) | Duties of commission. |
+| [423d.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423d%20-%20Acceptance%20and%20disposition%20of%20gifts.md) | Acceptance and disposition of gifts. |
+| [423e.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423e%20-%20Ascertaining%20and%20marking%20lines%20of%20battle.md) | Ascertaining and marking lines of battle. |
+| [423f.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423f%20-%20Protection%20of%20monuments%2C%20etc.md) | Protection of monuments, etc. |
+| [423g.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423g%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| [423h.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423h%20-%20Report%20of%20completion%3B%20superintendent%20of%20battlefield.md) | Report of completion; superintendent of battlefield. |
 | 423h–1. | Redesignation of park. |
 | 423h–2. | Acquisition of lands; publication in Federal Register; administration. |
 | 423h–3. | Authorization of appropriation. |
@@ -2435,7 +2435,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460n. | Administration. |
+| [460n.](Subchapter%20072%20%28LXXII%29%20-%20Lake%20Mead%20National%20Recreation%20Area/%C2%A7%2000460n%20-%20Administration.md) | Administration. |
 | 460n–1. | Boundaries of area; filing of map with Federal Register; revision; donations of land; property acquisition and exclusion. |
 | 460n–2. | Hualapai Indian lands; inclusion within area; mineral rights; leases and permits; hunting and fishing rights. |
 | 460n–3. | Purposes and uses of area. |
@@ -2467,7 +2467,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460p. | Establishment. |
+| [460p.](Subchapter%20074%20%28LXXIV%29%20-%20Spruce%20Knob-Seneca%20Rocks%20National%20Recreation%20Area/%C2%A7%2000460p%20-%20Establishment.md) | Establishment. |
 | 460p–1. | Designation of area; acreage limitation; boundaries; publication in Federal Register. |
 | 460p–2. | Acquisition of lands, etc. |
 | 460p–3. | Outdoor recreation facilities development; cooperation with Federal and State agencies. |
@@ -2480,7 +2480,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460q. | Establishment; boundaries; administration; integrated management policies. |
+| [460q.](Subchapter%20075%20%28LXXV%29%20-%20Whiskeytown-Shasta-Trinity%20National%20Recreation%20Area/%C2%A7%2000460q%20-%20Establishment%3B%20boundaries%3B%20administration%3B%20integrated%20management%20policies.md) | Establishment; boundaries; administration; integrated management policies. |
 | 460q–1. | Acquisition of property. |
 | 460q–2. | Establishment of units; publication in Federal Register; boundary descriptions. |
 | 460q–3. | Administration; land and water use management plans, preparation and revision; utilization of statutory authorities. |
@@ -2531,7 +2531,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460t. | Establishment. |
+| [460t.](Subchapter%20078%20%28LXXVIII%29%20-%20Bighorn%20Canyon%20National%20Recreation%20Area/%C2%A7%2000460t%20-%20Establishment.md) | Establishment. |
 | 460t–1. | Acquisition of land. |
 | 460t–2. | Administration. |
 | 460t–3. | Hunting and fishing. |
@@ -2543,7 +2543,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460u. | Establishment; description of area. |
+| [460u.](Subchapter%20079%20%28LXXIX%29%20-%20Indiana%20Dunes%20National%20Lakeshore/%C2%A7%2000460u%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
 | 460u–1. | Acquisition of property. |
 | 460u–2. | Direction for establishment; publication in Federal Register; continuing acquisition of lands. |
 | 460u–3. | “Improved property” and “appropriate map” defined; terms and conditions for rights of use and occupancy. |
@@ -2608,7 +2608,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460x. | Establishment. |
+| [460x.](Subchapter%20082%20%28LXXXII%29%20-%20Sleeping%20Bear%20Dunes%20National%20Lakeshore/%C2%A7%2000460x%20-%20Establishment.md) | Establishment. |
 | 460x–1. | Description of area. |
 | 460x–2. | Designation of lakeshore areas. |
 | 460x–3. | Sleeping Bear Dunes National Lakeshore Advisory Commission. |
@@ -2691,7 +2691,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460bb. | Establishment. |
+| [460bb.](Subchapter%20086%20%28LXXXVI%29%20-%20Golden%20Gate%20National%20Recreation%20Area/%C2%A7%2000460bb%20-%20Establishment.md) | Establishment. |
 | 460bb–1. | Composition and boundaries. |
 | 460bb–2. | Acquisition policy. |
 | 460bb–3. | Administration. |
@@ -2921,7 +2921,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460uu. | Establishment; description of area. |
+| [460uu.](Subchapter%20106%20%28CVI%29%20-%20El%20Malpais%20National%20Monument%20and%20Conservation%20Area/Part%20A%20-%20El%20Malpais%20National%20Monument/%C2%A7%2000460uu%20-%20Establishment%3B%20description%20of%20area.md) | Establishment; description of area. |
 | 460uu–1. | Transfer of administrative control of lands and waters. |
 | 460uu–2. | Management. |
 | 460uu–3. | Grazing permits. |
@@ -3065,7 +3065,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460aaa. | Establishment. |
+| [460aaa.](Subchapter%20112%20%28CXII%29%20-%20Grand%20Island%20National%20Recreation%20Area/%C2%A7%2000460aaa%20-%20Establishment.md) | Establishment. |
 | 460aaa–1. | Boundaries. |
 | 460aaa–2. | Administration. |
 | 460aaa–3. | Acquisition. |
@@ -3135,7 +3135,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460fff. | Establishment. |
+| [460fff.](Subchapter%20117%20%28CXVII%29%20-%20Amistad%20National%20Recreation%20Area/%C2%A7%2000460fff%20-%20Establishment.md) | Establishment. |
 | 460fff–1. | Administration. |
 | 460fff–2. | Authorization of appropriations. |
 
@@ -3145,7 +3145,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460ggg. | Wilderness. |
+| [460ggg.](Subchapter%20118%20%28CXVIII%29%20-%20Ed%20Jenkins%20National%20Recreation%20Area%20and%20Coosa%20Bald%20National%20Scenic%20Area/%C2%A7%2000460ggg%20-%20Wilderness.md) | Wilderness. |
 | 460ggg–1. | National scenic area. |
 | 460ggg–2. | Recreation area. |
 | 460ggg–3. | Maps and legal descriptions. |
@@ -3156,7 +3156,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460hhh. | Definitions. |
+| [460hhh.](Subchapter%20119%20%28CXIX%29%20-%20Spring%20Mountains%20National%20Recreation%20Area/%C2%A7%2000460hhh%20-%20Definitions.md) | Definitions. |
 | 460hhh–1. | Purposes. |
 | 460hhh–2. | Establishment. |
 | 460hhh–3. | Management. |
@@ -3172,7 +3172,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460iii. | Findings. |
+| [460iii.](Subchapter%20120%20%28CXX%29%20-%20Snake%20River%20Birds%20of%20Prey%20National%20Conservation%20Area/%C2%A7%2000460iii%20-%20Findings.md) | Findings. |
 | 460iii–1. | Definitions. |
 | 460iii–2. | Establishment. |
 | 460iii–3. | Management and use. |

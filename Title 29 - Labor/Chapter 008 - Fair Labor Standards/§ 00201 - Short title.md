@@ -4,6 +4,10 @@ This chapter may be cited as the “Fair Labor Standards Act of 1938”.
 
 (June 25, 1938, ch. 676, §1, 52 Stat. 1060.)
 
+#### Short Title of 1995 Amendment
+
+Pub. L. 104–26, §1, Sept. 6, 1995, 109 Stat. 264, provided that: “This Act \[amending section 207 of this title and enacting provisions set out as a note under section 207 of this title\] may be cited as the ‘Court Reporter Fair Labor Amendments of 1995’.”
+
 #### Short Title of 1989 Amendment
 
 Pub. L. 101–157, §1(a), Nov. 17, 1989, 103 Stat. 938, provided that: “This Act \[enacting section 60k of Title 2, The Congress, amending sections 203, 205 to 208, 213, 214, and 216 of this title, and enacting provisions set out as notes under sections 203 and 206 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1989’.”

@@ -10,7 +10,7 @@ In case of failure—
 
 &emsp;(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 10 days of the date of the notice and demand therefor, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 
-> In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the dateprescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
+> In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
 
 #### (b) Penalty imposed on net amount due
 
@@ -76,7 +76,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1502(a), added subsec. (d) and redesignat
 
 Subsec. (c)(1)(A). Pub. L. 97–248, §318(b)(1), inserted provision that in any case described in last sentence of subsec. (a), the amount of the addition under par. (1) of subsec. (a) shall not be reduced under first sentence of this subpar. below the amount provided in such last sentence.
 
-Subsec. (c)(1)(B). Pub. L. 97–248, §318(b)(2), inserted “(determined without regard to the last sentence of such subsection)” after “paragraph (1) of subsection (a)”.
+Subsec. (c)(1)(B). Pub. L. 97–248, §318(b)(2), inserted “(determined without regard to the last sentence ofsuch subsection)” after “paragraph (1) of subsection (a)”.
 
 1976—Subsec. (e). Pub. L. 94–455 struck out subsec. (e) which related to certain interest equalization tax returns.
 

@@ -1,6 +1,6 @@
 ### §1057. Temporary variances from certain vesting requirements
 
-In the case of any plan maintained on January 1, 1974, if not later than 2 years after September 2, 1974, the administrator petitions the Secretary, the Secretary may prescribe an alternate method which shall be treated as satisfying the requirements of section 1053(a)(2) or 1054(b)(1) (other than subparagraph (D) thereof) of this title or both for a period of not more than 4 years. The Secretary may prescribe such alternate method only when he finds that—
+In the case of any plan maintained on January 1, 1974, if not later than 2 years after September2, 1974, the administrator petitions the Secretary, the Secretary may prescribe an alternate method which shall be treated as satisfying the requirements of section 1053(a)(2) or 1054(b)(1) (other than subparagraph (D) thereof) of this title or both for a period of not more than 4 years. The Secretary may prescribe such alternate method only when he finds that—
 
 &emsp;(1) the application of such requirements would increase the costs of the plan to such an extent that there would result a substantial risk to the voluntary continuation of the plan or a substantial curtailment of benefit levels or the levels of employees’ compensation.
 

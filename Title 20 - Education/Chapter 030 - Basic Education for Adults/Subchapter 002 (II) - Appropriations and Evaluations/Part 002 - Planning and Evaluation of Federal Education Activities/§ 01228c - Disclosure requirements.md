@@ -152,13 +152,13 @@ As used in this section:
 
 &emsp;The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
 
-(Pub. L. 90 247, title IV, §429, as added Pub. L. 103 382, title II, §238, Oct. 20, 1994, 108 Stat. 3918.)
+(Pub. L. 90–247, title IV, §429, as added Pub. L. 103–382, title II, §238, Oct. 20, 1994, 108 Stat. 3918.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 429 of Pub. L. 90 247 was classified to section 1231f of this title prior to repeal by Pub. L. 103 382.
+A prior section 429 of Pub. L. 90–247 was classified to section 1231f of this title prior to repeal by Pub. L. 103–382.
 

@@ -12,7 +12,7 @@
 
 (3) The Fund shall not be allocated, apportioned, or delegated on a service unit, area office, or any other basis.
 
-(4) No part of the Fund or its administration shall be subject to contract or grant under anylaw, including the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+(4) No part of the Fund or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
 #### (b) Regulations; procedures for payment
 

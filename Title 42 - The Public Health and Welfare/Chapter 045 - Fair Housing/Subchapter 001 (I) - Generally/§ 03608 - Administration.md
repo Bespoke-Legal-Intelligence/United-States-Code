@@ -188,7 +188,7 @@ Sec. 4. <i>Specific Responsibilities.</i>
 
 4–403. The Secretary of Housing and Urban Development shall review proposed regulations and standards prepared pursuant to section 4–402 of this order to ensure conformity with the purposes of the Act and consistency among the operations of the various executive agencies and shall provide comments to executive agencies with respect thereto on a timely basis.
 
-4–404. In addition to promulgating the regulations described in section 4–401 of this order, the Secretary of Housing and Urban Development shall promulgate regulations describing the nature and scope of coverage and the conduct prohibited, including mortgage lending discrimination and property insurance discrimination.
+4–404. In addition to promulgating the regulations described in section 4–401 of this order, the Secretary ofHousing and Urban Development shall promulgate regulations describing the nature and scope of coverage and the conduct prohibited, including mortgage lending discrimination and property insurance discrimination.
 
 Sec. 5. <i>Administrative Enforcement.</i>
 
@@ -218,7 +218,7 @@ Sec. 6. <i>General Provisions.</i>
 
 6–603. Nothing in this order shall affect the authority and responsibility of the Attorney General to commence any civil action authorized by the Act.
 
-6–604. (a) Part IV and sections 501 and 503 of Executive Order No. 11063 \[42 U.S.C. 1982 note\] are revoked. Theactivities and functions of the President's Committee on Equal Opportunity in Housing described in that Executive order shall be performed by the Secretary of Housing and Urban Development.
+6–604. (a) Part IV and sections 501 and 503 of Executive Order No. 11063 \[42 U.S.C. 1982 note\] are revoked. The activities and functions of the President's Committee on Equal Opportunity in Housing described in that Executive order shall be performed by the Secretary of Housing and Urban Development.
 
 (b) Sections 101 and 502(a) of Executive Order No. 11063 are revised to apply to discrimination because of “race, color, religion (creed), sex, disability, familial status or national origin.” All executive agencies shall revise regulations, guidelines, and procedures issued pursuant to Part II of Executive Order No. 11063 to reflect this amendment to coverage.
 
@@ -246,7 +246,7 @@ On April 11, 1968, one week after the assassination of the great civil rights le
 
 Americans of every income level, seeking to live where they choose, feel the weight of discrimination because of the color of their skin, their race, their religion, their gender, their country of origin, or because they are disabled or have children.
 
-An increasing body of evidence indicates that barriers to fair housing are pervasive. Forty percent of all families move every 5 years. This statistic is significant given the results of a recent study, commissioned by the Department of Housing and Urban Development (HUD), which found that more than half of the African Americans and Latinos seeking to rent or buy a home are treated differently than whites with the same qualifications. Moreover, based upon Home Mortgage Disclosure Act \[12 U.S.C. 2801 et seq.\] data, the number of minority persons who are rejected when attempting to obtain loans to purchase homes is two to three times higher than it is for nonminorities in almost every metropolitan area of this country.
+An increasing body of evidence indicates that barriers to fair housing are pervasive. Forty percent of all families move every 5 years. This statistic is significant given the results of a recent study, commissioned by the Department of Housing and Urban Development (HUD), which found that more than half of the AfricanAmericans and Latinos seeking to rent or buy a home are treated differently than whites with the same qualifications. Moreover, based upon Home Mortgage Disclosure Act \[12 U.S.C. 2801 et seq.\] data, the number of minority persons who are rejected when attempting to obtain loans to purchase homes is two to three times higher than it is for nonminorities in almost every metropolitan area of this country.
 
 Racial and ethnic segregation, both in the private housing market and in public and assisted housing, has been well documented. Despite legislation (the Fair Housing Act) and Executive action (Executive Order No. 11063 \[42 U.S.C. 1982 note\]), the divisive impact of housing segregation persists in metropolitan areas all across this country. Too many lower income and minority Americans face barriers to housing outside of central cities. Segregation in housing and schools deprives too many of our children and youth of an opportunity to enter the marketplace or work on an equal footing. For too many families, our cities are no longer the launching pads for economic self-sufficiency and upward mobility that they have been for countless immigrants and minorities since the country's birth. And many Americans who are better off abandon the cities.
 

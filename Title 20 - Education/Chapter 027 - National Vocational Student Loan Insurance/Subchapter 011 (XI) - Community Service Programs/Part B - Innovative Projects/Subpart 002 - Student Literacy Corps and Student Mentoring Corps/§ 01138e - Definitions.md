@@ -14,5 +14,5 @@ For the purpose of this subpart—
 
 &emsp;The term “public community agency” means an established community agency with an established program of instruction such as elementary and secondary schools, Head Start centers, prisons, agencies serving youth, and agencies serving individuals with disabilities, including disabled veterans.
 
-(Pub. L. 89 329, title XI, §1146, as added Pub. L. 102 325, title XI, §1101, July 23, 1992, 106 Stat. 791.)
+(Pub. L. 89–329, title XI, §1146, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 791.)
 

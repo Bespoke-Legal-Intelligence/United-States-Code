@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(ii) any other corporation which such person controls, and
 
-&emsp;&emsp;&emsp;(iii) any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any classof stock outstanding of such foreign corporation;
+&emsp;&emsp;&emsp;(iii) any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation;
 
 &emsp;&emsp;(E) a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any time during the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
 
@@ -188,7 +188,7 @@ Section 20(e)(1) of Pub. L. 87–834 provided that: “The amendments made by su
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
+Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added bysubsection (a)) for its annual accounting periods beginning after December 31, 1960.”
 
 #### Section Referred to in Other Sections
 

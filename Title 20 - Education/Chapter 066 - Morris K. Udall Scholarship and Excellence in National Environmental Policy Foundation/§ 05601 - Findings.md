@@ -10,13 +10,13 @@ The Congress finds that—
 
 &emsp;(4) it is a fitting tribute to the leadership, courage, and vision Congressman Morris K. Udall exemplifies to establish in his name programs to encourage the continued use, enjoyment, education, and exploration of our Nation's rich and bountiful natural resources.
 
-(Pub. L. 102 259, §3, Mar. 19, 1992, 106 Stat. 78.)
+(Pub. L. 102–259, §3, Mar. 19, 1992, 106 Stat. 78.)
 
 #### Short Title
 
-Section 1 of Pub. L. 102 259 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental and Native American Public Policy Act of 1992’.”
+Section 1 of Pub. L. 102–259 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental and Native American Public Policy Act of 1992’.”
 
 #### Repeal of Previous Legislation
 
-Section 2 of Pub. L. 102 259 provided that: “The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed.” \[For details concerning purported pocket veto of S. 1176, One Hundred Second Congress, see Weekly Compilation of Presidential Documents, vol. 28 (1992), no. 12, p. 507, Mar. 19, Presidential Statement, and Cong. Rec., vol. 138, p. H885, Daily Issue.\]
+Section 2 of Pub. L. 102–259 provided that: “The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed.” \[For details concerning purported pocket veto of S. 1176, One Hundred Second Congress, see Weekly Compilation of Presidential Documents, vol. 28 (1992), no. 12, p. 507, Mar. 19, Presidential Statement, and Cong. Rec., vol. 138, p. H885, Daily Issue.\]
 

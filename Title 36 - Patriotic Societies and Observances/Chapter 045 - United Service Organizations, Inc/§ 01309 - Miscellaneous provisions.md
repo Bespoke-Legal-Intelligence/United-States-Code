@@ -34,5 +34,5 @@ The right to alter, amend, or repeal this chapter is hereby expressly reserved t
 
 #### Codification
 
-Subsec. (g) provided for an amendment to section 1101 of this title
+Subsec. (g) provided for an amendment to section 1101 of this title.
 

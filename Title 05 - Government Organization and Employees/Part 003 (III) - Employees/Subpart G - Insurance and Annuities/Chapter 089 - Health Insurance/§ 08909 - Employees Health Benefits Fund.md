@@ -20,7 +20,7 @@
 
 (d) When the assets, liabilities, and membership of employee organizations sponsoring or underwriting plans approved under section 8903(3) or 8903a of this title are merged, the assets (including contingency reserves) and liabilities of the plans sponsored or underwritten by the merged organizations shall be transferred at the beginning of the contract term next following the date of the merger to the plan sponsored or underwritten by the successor organization. Each employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title affected by a merger shall be transferred to the plan sponsored or underwritten by the successor organization unless he enrolls in another plan under this chapter. If the successor organization is an organization described in section 8901(8)(B) of this title, any employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title so transferred may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless that individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
-(e) Except as provided by subsection (d) of this section, when a plan described by section 8903(3)or (4) or 8903a of this title is discontinued under this chapter, the contingency reserve of that plan shall be credited to the contingency reserves of the plans continuing under this chapter for the contract term following that in which termination occurs, each reserve to be credited in proportion to the amount of the subscription charges paid and accrued to the plan for the year of termination.
+(e) Except as provided by subsection (d) of this section, when a plan described by section 8903(3) or (4) or 8903a of this title is discontinued under this chapter, the contingency reserve of that plan shall be credited to the contingency reserves of the plans continuing under this chapter for the contract term following that in which termination occurs, each reserve to be credited in proportion to the amount of the subscription charges paid and accrued to the plan for the year of termination.
 
 (f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
 
@@ -58,23 +58,23 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
 
 Subsec. (f). Pub. L. 101–508, §7002(c), added subsec. (f).
 
-1988—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
+<b>1988</b>—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
 
-1986—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
+<b>1986</b>—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
 
-1985—Subsec. (d). Pub. L. 99–53, §2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
+<b>1985</b>—Subsec. (d). Pub. L. 99–53, §2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
 Subsec. (e). Pub. L. 99–53, §2(f), inserted “or 8903a” before “of this title”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–615, §3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–615, §3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 98–615, §3(6)(B), substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 
@@ -100,7 +100,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 &emsp;“(A) shall determine the minimum level of financial reserves necessary to be held by a carrier for each health benefits plan under chapter 89 of such title for the purpose of ensuring the stable and efficient operation of such plan; and
 
-&emsp;“(B) shall require the carrier to refund to the Employees Health Benefits Fund (described in section 8909(a) of title 5, United States Code) any such reserves in excess of such minimum level in suchamounts and at such times during fiscal years 1986 and 1987 as the Office determines appropriate.
+&emsp;“(B) shall require the carrier to refund to the Employees Health Benefits Fund (described in section 8909(a) of title 5, United States Code) any such reserves in excess of such minimum level in such amounts and at such times during fiscal years 1986 and 1987 as the Office determines appropriate.
 
 “(2) In carrying out its responsibilities under this subsection, the Office shall ensure that the aggregate amount to be refunded to the Employees Health Benefits Fund under this subsection—
 

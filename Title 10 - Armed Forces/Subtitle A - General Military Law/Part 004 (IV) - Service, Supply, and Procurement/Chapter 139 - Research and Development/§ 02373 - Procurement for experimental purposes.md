@@ -12,7 +12,7 @@ Procedures.—Purchases under this section may be made inside or outside the Uni
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in sections 4504 and 9504 of this title, prior to repeal by Pub. L. 103–160, §822(c)(2).
+Provisions similar to those in this section were contained in sections 4504 and 9504 of this title, prior to repeal by Pub. L. 103–160, §822(c)(2).
 
 #### Amendments
 

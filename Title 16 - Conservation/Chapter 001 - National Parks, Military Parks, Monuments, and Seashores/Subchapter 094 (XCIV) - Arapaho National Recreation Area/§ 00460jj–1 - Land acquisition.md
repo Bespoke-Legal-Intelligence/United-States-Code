@@ -20,7 +20,7 @@ Any land or interest in land owned by the State of Colorado or any of its politi
 
 #### (e) Transfer of Federal land
 
-Notwithstanding any other provision of law, any Federal lands or interests in lands located within the Arapaho National Recreation Area shall be transferred without consideration to the administrative jurisdiction of the Secretary for use by the Secretary in carrying out thissubchapter. Lands within the Arapaho National Recreation Area acquired by the Secretary or transferred to the Secretary's administrative jurisdiction shall become part of that recreation area and of the national forest within or adjacent to which they are located: <i>Provided</i>, That the operation and facilities of the Colorado Big Thompson project shall remain under the jurisdiction of the United States Bureau of Reclamation.
+Notwithstanding any other provision of law, any Federal lands or interests in lands located within the Arapaho National Recreation Area shall be transferred without consideration to the administrative jurisdiction of the Secretary for use by the Secretary in carrying out this subchapter. Lands within the Arapaho National Recreation Area acquired by the Secretary or transferred to the Secretary's administrative jurisdiction shall become part of that recreation area and of the national forest within or adjacent to which they are located: <i>Provided</i>, That the operation and facilities of the Colorado Big Thompson project shall remain under the jurisdiction of the United States Bureau of Reclamation.
 
 (Pub. L. 95–450, §5, Oct. 11, 1978, 92 Stat. 1096.)
 

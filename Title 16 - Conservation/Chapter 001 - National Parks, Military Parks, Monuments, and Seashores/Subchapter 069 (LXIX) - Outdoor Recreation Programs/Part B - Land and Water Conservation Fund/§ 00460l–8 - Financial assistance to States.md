@@ -14,7 +14,7 @@ Sums appropriated and available for State purposes for each fiscal year shall be
 
 &emsp;(3) The total allocation to an individual State under paragraphs (1) and (2) of this subsection shall not exceed 10 per centum of the total amount allocated to the several States in any one year.
 
-&emsp;(4) The Secretary shall notify each State of its apportionments; and the amounts thereof shall be available thereafter for payment to such State for planning, acquisition, or development projects as hereafter prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary duringthe fiscal year in which such notification is given and for two fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) of this subsection, without regard to the 10 per centum limitation to an individual State specified in this subsection.
+&emsp;(4) The Secretary shall notify each State of its apportionments; and the amounts thereof shall be available thereafter for payment to such State for planning, acquisition, or development projects as hereafter prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which such notification is given and for two fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) of this subsection, without regard to the 10 per centum limitation to an individual State specified in this subsection.
 
 &emsp;(5) For the purposes of paragraph (1) of this subsection, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands (when such islands achieve Commonwealth status) shall be treated collectively as one State, and shall receive shares of such apportionment in proportion to their populations. The above listed areas shall be treated as States for all other purposes of this title.
 
@@ -36,7 +36,7 @@ A comprehensive statewide outdoor recreation plan shall be required prior to the
 
 > The plan shall take into account relevant Federal resources and programs and shall be correlated so far as practicable with other State, regional, and local plans. Where there exists or is in preparation for any particular State a comprehensive plan financed in part with funds supplied by the Housing and Home Finance Agency, any statewide outdoor recreation plan prepared for purposes of this part shall be based upon the same population, growth, and other pertinent factors as are used in formulating the Housing and Home Finance Agency financed plans.
 
-The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoor recreation plan when such plan is not otherwise available or for the maintenance of such plan.
+The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoorrecreation plan when such plan is not otherwise available or for the maintenance of such plan.
 
 For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreation plan shall specifically address wetlands within that State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoor recreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director of the National Park Service, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 3921 of this title or, if such national plan has not been completed, consistent with the provisions of that section <sup>1</sup>
 
@@ -58,7 +58,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 (3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>2</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
-(4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
+(4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures asmay be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
 
 (5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -70,7 +70,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 #### (g) Coordination with Federal agencies
 
-In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>3</sup> of the Housing Act of 1954 \[40 U.S.C. 461\]) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federalprograms and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
+In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>3</sup> of the Housing Act of 1954 \[40 U.S.C. 461\]) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
 
 #### (h) Capital improvement and other projects to reduce crime
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 94–422 reenacted subsec. (c) without change.
 
 Subsec. (d). Pub. L. 94–422 inserted proviso that no plan shall be approved unless certified by the Governor that public participation in plan development and revision has been accorded and that the Secretary shall develop criteria for public participation to form basis of certification by Governor.
 
-Subsec. (e). Pub. L. 94–422 inserted proviso that no assistance shall be available under this part to enclose orshelter facilities normally used for outdoor recreation activities and authorized Secretary to permit local funding after Sept. 28, 1976, not to exceed 10 per centum of total amount allocated to States.
+Subsec. (e). Pub. L. 94–422 inserted proviso that no assistance shall be available under this part to enclose or shelter facilities normally used for outdoor recreation activities and authorized Secretary to permit local funding after Sept. 28, 1976, not to exceed 10 per centum of total amount allocated to States.
 
 Subsec. (f). Pub. L. 94–422 designated existing six paragraphs as pars. (1) to (6), respectively, and added pars. (7) and (8).
 
@@ -146,7 +146,7 @@ Subsec. (g). Pub. L. 94–422 reenacted subsec. (g) without change.
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

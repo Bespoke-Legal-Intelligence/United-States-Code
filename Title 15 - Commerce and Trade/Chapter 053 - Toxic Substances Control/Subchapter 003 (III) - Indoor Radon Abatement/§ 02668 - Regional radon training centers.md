@@ -36,5 +36,5 @@ No funding may be given under this section in any fiscal year to an applicant wh
 
 There is authorized to be appropriated to carry out the program under this section not to exceed $1,000,000 for each of fiscal years 1989, 1990, and 1991.
 
-(Pub. L. 94 469, title III, §308, as added Pub. L. 100 551, §1(a), Oct. 28, 1988, 102 Stat. 2762.)
+(Pub. L. 94–469, title III, §308, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2762.)
 

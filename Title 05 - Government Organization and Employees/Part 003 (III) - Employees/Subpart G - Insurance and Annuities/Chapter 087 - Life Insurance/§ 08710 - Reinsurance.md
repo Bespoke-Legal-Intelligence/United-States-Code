@@ -1,4 +1,4 @@
-### §8710 . Reinsurance
+### §8710. Reinsurance
 
 (a) The Office of Personnel Management shall arrange with a company issuing a policy under this chapter for the reinsurance, under conditions approved by the Office, of portions of the total amount of insurance under the policy, determined under this section, with other life insurance companies which elect to participate in the reinsurance.
 
@@ -52,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1978—Subsecs. (a) to (c), (e), (f). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c), (e), (f). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

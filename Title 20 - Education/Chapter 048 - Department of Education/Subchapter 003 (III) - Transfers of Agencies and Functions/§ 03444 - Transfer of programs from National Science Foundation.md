@@ -28,7 +28,7 @@ The annual report to be transmitted by the Secretary pursuant to section 3486 of
 
 Nothing in this section is intended to repeal or limit the authority of the National Science Foundation or the Director of the National Science Foundation to initiate and conduct programs under the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\].
 
-(Pub. L. 96 88, title III, §303, formerly §304, Oct. 17, 1979, 93 Stat. 680; renumbered §303, Pub. L. 103 382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, §303, formerly §304, Oct. 17, 1979, 93 Stat. 680; renumbered §303, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 #### References in Text
 
@@ -36,11 +36,11 @@ The National Science Foundation Act of 1950, referred to in subsecs. (a)(1) and 
 
 #### Codification
 
-In subsec. (a)(1), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96 88, set out as an Effective Date note under section 3401 of this title.
+In subsec. (a)(1), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Prior Provisions
 
-A prior section 303 of Pub. L. 96 88 was renumbered section 302 and is classified to section 3443 of this title.
+A prior section 303 of Pub. L. 96–88 was renumbered section 302 and is classified to section 3443 of this title.
 
 #### Section Referred to in Other Sections
 

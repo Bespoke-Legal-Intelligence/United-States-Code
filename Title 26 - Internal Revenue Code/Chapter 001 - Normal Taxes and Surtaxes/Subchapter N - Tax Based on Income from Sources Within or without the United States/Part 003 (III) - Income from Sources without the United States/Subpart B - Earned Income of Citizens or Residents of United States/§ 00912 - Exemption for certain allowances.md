@@ -76,7 +76,7 @@ Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repea
 
 #### Delegation of Functions
 
-Function of determining the portion of living allowances constituting basic compensation for Peace Corps volunteers or volunteer leaders under par. (3) of this section delegated by President to Director of Peace Corps to be performed in consultation with the Secretary of the Treasury, see section 1–104 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of Title 22, Foreign Relations and Intercourse.
+Function of determining the portion of living allowances constituting basic compensation for Peace Corps volunteers or volunteer leaders under par. (3) of this section delegated by President to Director of Peace Corps to be performed in consultation with the Secretary of the Treasury, see section 1–104 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note undersection 2501 of Title 22, Foreign Relations and Intercourse.
 
 Authority of President under par. (2) of this section delegated to Secretary of Defense with respect to military departments, and to Secretary of the Treasury with respect to Coast Guard, concerning civilian employees of nonappropriated fund instrumentalities of the armed forces, see section 201 of Ex. Ord. No. 11137, Jan. 7, 1964, set out as a note under section 5921 of Title 5, Government Organization and Employees.
 

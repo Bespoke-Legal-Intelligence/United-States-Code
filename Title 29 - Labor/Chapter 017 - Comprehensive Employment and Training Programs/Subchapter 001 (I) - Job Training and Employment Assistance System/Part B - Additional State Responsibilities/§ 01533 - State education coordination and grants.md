@@ -122,7 +122,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 #### (1) Permitted services
 
-&emsp;Services funded under this section to carry out the projects described in subsection (a)(2) of this section may include education and training, vocational education services, and related services, provided to participants under subchapter II of this chapter. In addition, services funded under this section may include services for offenders, veterans, and other individuals who the Governor determines require special assistance.
+&emsp;Services funded under this section to carry out the projects described in subsection (a)(2) of this section may include education and training, vocational education services, and related services, provided to participants under subchapter II of this chapter. In addition, services funded under this section mayinclude services for offenders, veterans, and other individuals who the Governor determines require special assistance.
 
 #### (2) Limitations on expenditures
 
@@ -168,7 +168,7 @@ The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (c)(1)(E
 
 The National and Community Service Act of 1990, referred to in subsec. (c)(1)(E)(viii), (2)(D)(ix), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(2)(D)(vi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355,as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c)(2)(D)(vi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The National Literacy Act of 1991, referred to in subsec. (c)(2)(D)(vii), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of Title 20, Education, and Tables.
 

@@ -26,7 +26,7 @@ As used in this subchapter, the term—
 
 &emsp;(8) “employee” means—
 
-&emsp;&emsp;(A) a member of the Service who is a citizen of the United States, wherever serving,other than a management official, a confidential employee, a consular agent, a member of the Service who is a United States citizen (other than a family member) employed under section 3951 of this title, or any individual who participates in a strike in violation of section 7311 of title 5; or
+&emsp;&emsp;(A) a member of the Service who is a citizen of the United States, wherever serving, other than a management official, a confidential employee, a consular agent, a member of the Service who is a United States citizen (other than a family member) employed under section 3951 of this title, or any individual who participates in a strike in violation of section 7311 of title 5; or
 
 &emsp;&emsp;(B) a former member of the Service as described in subparagraph (A) whose employment has ceased because of an unfair labor practice under section 4115 of this title and who has not obtained any other regular and substantially equivalent employment, as determined under regulations prescribed by the Board;
 

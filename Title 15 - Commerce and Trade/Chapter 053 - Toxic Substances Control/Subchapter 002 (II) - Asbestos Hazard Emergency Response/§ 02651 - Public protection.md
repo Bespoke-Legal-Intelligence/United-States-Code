@@ -8,5 +8,5 @@ No State or local educational agency may discriminate against a person in any wa
 
 Any public or private employee or representative of employees who believes he or she has been fired or otherwise discriminated against in violation of subsection (a) of this section may within 90 days after the alleged violation occurs apply to the Secretary of Labor for a review of the firing or alleged discrimination. The review shall be conducted in accordance with section 660(c) of title 29.
 
-(Pub. L. 94 469, title II, §211, as added Pub. L. 99 519, §2, Oct. 22, 1986, 100 Stat. 2987.)
+(Pub. L. 94–469, title II, §211, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2987.)
 

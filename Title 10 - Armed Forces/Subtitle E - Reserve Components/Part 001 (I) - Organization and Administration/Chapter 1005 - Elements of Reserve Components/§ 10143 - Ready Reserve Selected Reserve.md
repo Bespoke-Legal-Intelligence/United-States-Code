@@ -4,7 +4,7 @@
 
 (b) The organization and unit structure of the Selected Reserve shall be approved—
 
-&emsp;(1) in the case of all reserve components other than the Coast Guard Reserve, by the Secretary of Defense based upon recommendations from the military departments as approved by the Chairman of the Joint Chiefs of Staff in accordance with contingency and war plans; and
+&emsp;(1) in the case of all reserve components other than the Coast Guard Reserve, by the Secretary of Defense based upon recommendations from the military departments as approved by the Chairman of the Joint Chiefs ofStaff in accordance with contingency and war plans; and
 
 &emsp;(2) in the case of the Coast Guard Reserve, by the Secretary of Transportation upon the recommendation of the Commandant of the Coast Guard.
 

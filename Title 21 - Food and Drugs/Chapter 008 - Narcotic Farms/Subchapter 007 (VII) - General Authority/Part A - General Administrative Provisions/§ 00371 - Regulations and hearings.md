@@ -14,11 +14,11 @@ Hearings authorized or required by this chapter shall be conducted by the Secret
 
 #### (d) Effectiveness of definitions and standards of identity
 
-The definitions and standards of identity promulgated in accordance with the provisions ofthis chapter shall be effective for the purposes of the enforcement of this chapter, notwithstanding such definitions and standards as may be contained in other laws of the United States and regulations promulgated thereunder.
+The definitions and standards of identity promulgated in accordance with the provisions of this chapter shall be effective for the purposes of the enforcement of this chapter, notwithstanding such definitions and standards as may be contained in other laws of the United States and regulations promulgated thereunder.
 
 #### (e) Procedure for establishment
 
-(1) Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) shall be begun by a proposal made (A) by the Secretary on his own initiative, or (B) by petition of any interested person, showing reasonable grounds therefor, filed with the Secretary. The Secretary shall publish such proposal and shall afford all interested persons an opportunity to present their views thereon, orally or in writing. As soon as practicable thereafter, the Secretary shall by order act upon such proposal and shall make such order public. Except as provided in paragraph (2), the order shall become effective at such time as may be specified therein, but not prior to the day following the last day on which objections may be filed under such paragraph.
+(1) Any action for the issuance, amendment, or repeal of any regulation under section 343(j),344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) shall be begun by a proposal made (A) by the Secretary on his own initiative, or (B) by petition of any interested person, showing reasonable grounds therefor, filed with the Secretary. The Secretary shall publish such proposal and shall afford all interested persons an opportunity to present their views thereon, orally or in writing. As soon as practicable thereafter, the Secretary shall by order act upon such proposal and shall make such order public. Except as provided in paragraph (2), the order shall become effective at such time as may be specified therein, but not prior to the day following the last day on which objections may be filed under such paragraph.
 
 (2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretary under paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
 
@@ -42,7 +42,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
 
-(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Aug. 28, 1958, Pub. L. 85–791, §21, 72 Stat. 948; July 12, 1960, Pub. L. 86–618, title I, §103(a)(4), 74 Stat. 398; Nov. 8, 1990, Pub. L. 101–535, §8, 104 Stat. 2365; June 16, 1992, Pub. L. 102–300, §6(b)(1), 106 Stat. 240; Aug. 13, 1993, Pub. L. 103–80, §§3(y), (dd)(1), 4(c), 107 Stat. 778, 779; Oct. 22, 1994, Pub. L. 103–396, §3(b), 108 Stat. 4155.)
+(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Aug. 28, 1958, Pub. L. 85–791, §21, 72 Stat. 948; July 12, 1960, Pub. L. 86–618, title I, §103(a)(4), 74 Stat. 398; Nov. 8, 1990, Pub. L. 101–535, §8, 104 Stat. 2365; June 16, 1992, Pub. L.102–300, §6(b)(1), 106 Stat. 240; Aug. 13, 1993, Pub. L. 103–80, §§3(y), (dd)(1), 4(c), 107 Stat. 778, 779; Oct. 22, 1994, Pub. L. 103–396, §3(b), 108 Stat. 4155.)
 
 #### Amendments
 
@@ -78,6 +78,10 @@ Circuit Court of Appeals of the United States changed to United States court of 
 
 Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618, see section 202 of Pub. L. 86–618, set out as a note under section 379e of this title.
 
+#### Construction of Amendments by Pub. L. 101–535
+
+Amendments by Pub. L. 101–535 not to be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+
 #### Savings Provision
 
 Savings clause of act Aug. 1, 1956, see note set out under section 341 of this title.
@@ -87,10 +91,6 @@ Savings clause of act Aug. 1, 1956, see note set out under section 341 of this t
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
-
-#### Construction of Amendments by Pub. L. 101–535
-
-Amendments by Pub. L. 101–535 not to be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Hearings Pending on April 15, 1954, With Respect to Food Standards
 

@@ -2,7 +2,7 @@
 
 #### (a) Determination of existence of emergency; authorization to act
 
-If the Secretary determines, after consultation with the Director of the National Institutes of Health, the Administrator of the Substance Abuse and Mental Health Services Administration, the Commissioner of the Food and Drug Administration, the Administrator of Health Resources and Services, or the Director of the Centers for Disease Control and Prevention, that—
+If the Secretary determines, after consultation with the Director of the National Institutes of Health, the Administrator of the SubstanceAbuse and Mental Health Services Administration, the Commissioner of the Food and Drug Administration, the Administrator of Health Resources and Services, or the Director of the Centers for Disease Control and Prevention, that—
 
 &emsp;(1) a disease or disorder presents a public health emergency, or
 
@@ -38,7 +38,7 @@ Subsec. (b)(1). Pub. L. 100–607, §256(a)(2), substituted “$45,000,000” fo
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

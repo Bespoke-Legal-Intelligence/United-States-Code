@@ -14,7 +14,7 @@ Except as otherwise provided in subsection (a) and subsection (b) of this sectio
 
 #### (d) Schedule of fees
 
-In addition to any other fee authorized by law, the Attorney General shall charge and collect $6per individual for the immigration inspection of each passenger arriving at a port of entry in the United States, or for the preinspection of a passenger in a place outside of the United States prior to such arrival, aboard a commercial aircraft or commercial vessel.
+In addition to any other fee authorized by law, the Attorney General shall charge and collect $6 per individual for the immigration inspection of each passenger arriving at a port of entry in the United States, or for the preinspection of a passenger in a place outside of the United States prior to such arrival, aboard a commercial aircraft or commercial vessel.
 
 #### (e) Limitations on fees
 
@@ -162,7 +162,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 (6) For fiscal year 1993 only, the Attorney General may transfer up to $1,000,000 from the Immigration User Fee Account to Fund <sup>3</sup> for initial expenses necessary to enhance collection efforts: <i>Provided</i>, That any such transfers shall be refunded from Fund <sup>3</sup> back to the Immigration User Fee Account by December 31, 1993.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Dec. 29, 1981, Pub. L. 97–116, §13, 95 Stat. 1618; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], 100 Stat. 1783–39, 1783–53, renumbered §205(a), Oct. 24, 1988, Pub. L. 100–525, §4(a)(2)(A), 102 Stat. 2615; Oct. 30, 1986, Pub. L. 99–591, §101(b) \[title II, §205\], 100 Stat. 3341–39, 3341–53; Nov. 14, 1986, Pub. L. 99–653, §7(d)(1), as added Oct. 24, 1988, Pub. L. 100–525, §8(f), 102 Stat. 2617; July 11, 1987, Pub. L. 100–71, title I, §1, 101 Stat. 394; Oct. 1, 1988, Pub. L. 100–459, title II, §209(a), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §4(a)(1), (d), 102 Stat. 2614, 2615; Nov. 21, 1989, Pub. L. 101–162, title II, 103 Stat. 1000; Nov. 5, 1990, Pub. L. 101–515, title II, §210(a), (d), 104 Stat. 2120, 2121; Dec. 12, 1991, Pub. L. 102–232,title III, §309(a)(1)(A)(i), (B), (2), (b)(12), 105 Stat. 1757–1759; Oct. 6, 1992, Pub. L. 102–395, title I, §112, 106 Stat. 1843; Oct. 27, 1993, Pub. L. 103–121, title I, 107 Stat. 1161; Oct. 25, 1994, Pub. L. 103–416, title II, §219(t), 108 Stat. 4317.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Dec. 29, 1981, Pub. L. 97–116, §13, 95 Stat. 1618; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], 100 Stat. 1783–39, 1783–53, renumbered §205(a), Oct. 24, 1988, Pub. L. 100–525, §4(a)(2)(A), 102 Stat. 2615; Oct. 30, 1986, Pub. L. 99–591, §101(b) \[title II, §205\], 100 Stat. 3341–39, 3341–53; Nov. 14, 1986, Pub. L. 99–653, §7(d)(1), as added Oct. 24, 1988, Pub. L. 100–525, §8(f), 102 Stat. 2617; July 11, 1987, Pub. L. 100–71, title I, §1, 101 Stat. 394; Oct. 1, 1988, Pub. L. 100–459, title II, §209(a), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §4(a)(1), (d), 102 Stat. 2614, 2615; Nov. 21, 1989, Pub. L. 101–162, title II, 103 Stat. 1000; Nov.5, 1990, Pub. L. 101–515, title II, §210(a), (d), 104 Stat. 2120, 2121; Dec. 12, 1991, Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), 105 Stat. 1757–1759; Oct. 6, 1992, Pub. L. 102–395, title I, §112, 106 Stat. 1843; Oct. 27, 1993, Pub. L. 103–121, title I, 107 Stat. 1161; Oct. 25, 1994, Pub. L. 103–416, title II, §219(t), 108 Stat. 4317.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Subsec. (h)(1)(A). Pub. L. 100–525, §4(a)(1)(C)(i), amended that portion of t
 
 Pub. L. 100–525, §4(a)(1)(C)(ii), substituted “Fee Account’.” for “Fee Account.’ ”
 
-Subsec. (h)(1)(B). Pub. L. 100–525, §4(a)(1)(C)(iii)–(v), substituted “civil fines or penalties” for “fines, penalties, liquidated damages or expenses”, inserted “and all liquidated damages and expenses collected pursuantto this chapter” after “this title”, and struck out quotation marks before and after the term “Immigration User Fee Account”.
+Subsec. (h)(1)(B). Pub. L. 100–525, §4(a)(1)(C)(iii)–(v), substituted “civil fines or penalties” for “fines, penalties, liquidated damages or expenses”, inserted “and all liquidated damages and expenses collected pursuant to this chapter” after “this title”, and struck out quotation marks before and after the term “Immigration User Fee Account”.
 
 Subsec. (h)(2)(A). Pub. L. 100–525, §4(a)(1)(C)(vi), substituted “vessels and in—” for “vessels and:” in introductory provisions and inserted “and” at end of cl. (iv).
 
@@ -324,7 +324,7 @@ Definition of alien and Service, see section 1101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1455 of this title.
+This section is referred to in sections 1255, 1455 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -60,7 +60,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;&emsp;<b>(2) For exclusion of part of disability retirement pay from the application of subsection (a)(4) of this section, see section 1403 of title 10, United States Code (relating to career compensation laws).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Sept. 8, 1960, Pub. L. 86–723, §51, 74 Stat. 847; Oct. 10, 1962, Pub. L. 87–792, §7(d), 76 Stat. 829; Oct. 4, 1976, Pub. L. 94–455, title V, §505(b), (e)(1), title XIX, §1901(a)(18), 90 Stat. 1567, 1568, 1766; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(e)(1), 94 Stat. 2162; Jan. 14, 1983, Pub. L. 97–473, title I, §101(a), 96 Stat. 2605; Dec. 19, 1989, Pub. L. 101–239, title VII, §7641(a), 103 Stat. 2379.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Sept. 8, 1960, Pub. L. 86–723, §51, 74 Stat. 847; Oct. 10, 1962, Pub.L. 87–792, §7(d), 76 Stat. 829; Oct. 4, 1976, Pub. L. 94–455, title V, §505(b), (e)(1), title XIX, §1901(a)(18), 90 Stat. 1567, 1568, 1766; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(e)(1), 94 Stat. 2162; Jan. 14, 1983, Pub. L. 97–473, title I, §101(a), 96 Stat. 2605; Dec. 19, 1989, Pub. L. 101–239, title VII, §7641(a), 103 Stat. 2379.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 505(b) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, seesection 508 of Pub. L. 94–455, set out as a note under section 3 of this title.
+Amendment by section 505(b) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as a note under section 3 of this title.
 
 Section 505(e)(2) of Pub. L. 94–455 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 

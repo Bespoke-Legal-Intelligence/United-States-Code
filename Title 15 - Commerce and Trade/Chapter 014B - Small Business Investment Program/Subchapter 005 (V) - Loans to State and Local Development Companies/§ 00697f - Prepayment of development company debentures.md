@@ -50,7 +50,7 @@ For purposes of subsection (a) of this section, the requirements of this subsect
 
 &emsp;(2) State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) of this section under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
 
-&emsp;(3) with respect to a debenture issued under section 697 of this title, the issuer certifiesthat the benefits, net of fees and expenses authorized herein, associated with prepayment of the debenture are entirely passed through to the borrower.
+&emsp;(3) with respect to a debenture issued under section 697 of this title, the issuer certifies that the benefits, net of fees and expenses authorized herein, associated with prepayment of the debenture are entirely passed through to the borrower.
 
 #### (c) No prepayment fees or penalties
 

@@ -10,10 +10,6 @@
 
 A prior chapter 67 was transferred to part II of subtitle E of this title and renumbered chapter 1223.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 38 section 2402.
-
 
 ---
 

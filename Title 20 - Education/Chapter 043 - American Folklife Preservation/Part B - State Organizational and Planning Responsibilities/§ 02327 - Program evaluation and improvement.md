@@ -36,11 +36,11 @@ If, after 1 year of implementation of the plan described in subsection (b) of th
 
 The State shall, in conjunction with the eligible recipient, annually review and revise the joint plan developed under subsection (c) of this section in order to improve performance and will continue to do so each consecutive year until the recipient sustains, for more than 1 year, fulfillment of the State and local standards and measures developed under section 2325 of this title.
 
-(Pub. L. 88 210, title I, §117, as added Pub. L. 101 392, title I, §116, Sept. 25, 1990, 104 Stat. 772.)
+(Pub. L. 88–210, title I, §117, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772.)
 
 #### Effective Date
 
-Section effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Section effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
 
 #### Section Referred to in Other Sections
 

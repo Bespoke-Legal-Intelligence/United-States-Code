@@ -35,7 +35,7 @@ The purposes of this section are to—
 
 (3)(A)(i) The Secretary shall publish a proposed rule, no later than July 1, 1988, to determine if the standards established by paragraph (1) should be amended. The Secretary shall publish a final rule no later than July 1, 1989, which shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1993. If such a final rule is not published before January 1, 1990, any amendment of such standards shall apply to products manufactured on or after January 1, 1995. Nothing in this subsection provides any justification or defense for a failure by the Secretary to comply with the nondiscretionary duty to publish final rules by the dates stated in this paragraph.
 
-(ii)(I) If the Secretary does not publish a final rule before January 1, 1990, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, the regulations which established standards for such products and were promulgated by the California Energy Commission on December 14, 1984, to be effective January 1, 1992 (or any amendments to such standards that are notmore stringent than the standards in the original regulations), shall apply in California to such products, effective beginning January 1, 1993, and shall not be preempted after such effective date by any energy conservation standard established in this section or prescribed, on or after January 1, 1990, under this section.
+(ii)(I) If the Secretary does not publish a final rule before January 1, 1990, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, the regulations which established standards for such products and were promulgated by the California Energy Commission on December 14, 1984, to be effective January 1, 1992 (or any amendments to such standards that are not more stringent than the standards in the original regulations), shall apply in California to such products, effective beginning January 1, 1993, and shall not be preempted after such effective date by any energy conservation standard established in this section or prescribed, on or after January 1, 1990, under this section.
 
 (II) If the Secretary does not publish a final rule before January 1, 1992, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, State regulations which apply to such products manufactured on or after January 1, 1995, shall apply to such products until the effective date of a rule issued under this section with respect to such products.
 
@@ -226,7 +226,7 @@ The purposes of this section are to—
 
 (7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
-(B) After January 1, 1992, the Secretary shall publish a final rule no later than five years after the date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
+(B) After January 1, 1992, the Secretary shall publish a final rule no later than five years afterthe date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
 
 (C) Any amendment prescribed under subparagraph (B) shall apply to products manufactured after a date which is five years after—
 
@@ -382,7 +382,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of low consumption water closet or low consumption urinal.
 
-(C) If, after any period of five consecutive years, the maximum flush volume requirementsof the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flush volume requirements of the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type or class of water closet or urinal; and
 
@@ -434,7 +434,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 #### (<i>o</i>) Criteria for prescribing new or amended standards
 
-(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals,water use, or decreases the minimum required energy efficiency, of a covered product.
+(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.
 
 (2)(A) Any new or amended energy conservation standard prescribed by the Secretary under this section for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency, which the Secretary determines is technologically feasible and economically justified.
 
@@ -456,7 +456,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 (ii) For purposes of clause (i)(V), the Attorney General shall make a determination of the impact, if any, of any lessening of competition likely to result from such standard and shall transmit such determination, not later than 60 days after the publication of a proposed rule prescribing or amending an energy conservation standard, in writing to the Secretary, together with an analysis of the nature and extent of such impact. Any such determination and analysis shall be published by the Secretary in the Federal Register.
 
-(iii) If the Secretary finds that the additional cost to the consumer of purchasing a product complying with an energy conservation standard level will be less than three times the value of the energy, and as applicable, water, savings during the first year that the consumer will receive as a result of the standard, as calculated under the applicable test procedure, there shall be a rebuttable presumption that such standard level is economically justified. A determination by the Secretary that such criterion is not met shall not be taken into consideration in the Secretary's determination of whether a standard is economically justified.
+(iii) If the Secretary finds that the additional cost to the consumer of purchasing a product complying with an energy conservation standard level will be less than three times the value of the energy, and as applicable, water, savingsduring the first year that the consumer will receive as a result of the standard, as calculated under the applicable test procedure, there shall be a rebuttable presumption that such standard level is economically justified. A determination by the Secretary that such criterion is not met shall not be taken into consideration in the Secretary's determination of whether a standard is economically justified.
 
 (3) The Secretary may not prescribe an amended or new standard under this section for a type (or class) of covered product if—
 

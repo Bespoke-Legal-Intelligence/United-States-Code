@@ -1,4 +1,4 @@
-### §460u . Establishment; description of area
+### §460u. Establishment; description of area
 
 In order to preserve for the educational, inspirational, and recreational use of the public certain portions of the Indiana dunes and other areas of scenic, scientific, and historic interest and recreational value in the State of Indiana, the Secretary of the Interior is authorized to establish and administer the Indiana Dunes National Lakeshore (hereinafter referred to as the “lakeshore”) in accordance with the provisions of this subchapter. The lakeshore shall comprise the area within the boundaries delineated on a map identified as “Boundary Map, Indiana Dunes National Lakeshore”, dated October 1992, and numbered 626–80,039–C, which map is on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
 
@@ -16,7 +16,7 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 460u–25 and 460u–26 of this title, amending this section and sections 460u–3, 460u–5, 460u–9, and 460u–18 of this title, and repealing section 460u–12 of this title\] may be cited as the ‘Indiana Dunes National Lakeshore Access and Enhancement Act’.”
+Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 460u–25 and 460u–26 of this title,amending this section and sections 460u–3, 460u–5, 460u–9, and 460u–18 of this title, and repealing section 460u–12 of this title\] may be cited as the ‘Indiana Dunes National Lakeshore Access and Enhancement Act’.”
 
 #### Effective Date of Authorizations of Appropriations; Authority To Contract, Incur Obligations, and Make Payments
 

@@ -18,7 +18,7 @@ Section 546a, Pub. L. 95–421, §7, Oct. 5, 1978, 92 Stat. 927, related to juri
 
 Section 546b, Pub. L. 97–257, title I, Sept. 10, 1982, 96 Stat. 852, exempted National Railroad Passenger Corporation from taxes or other fees imposed by any State, political subdivision, or local taxing authority levied on Corporation or any railroad subsidiary and provided United States district courts with jurisdiction to enforce exemption. See section 24301 of Title 49.
 
-Section 547, Pub. L. 91–518, title III, §307, Oct. 30, 1970, 84 Stat. 1333; Pub. L. 97–35, title XI, §1179, Aug. 13, 1981, 95 Stat. 693, related to jurisdiction of United States district courts to impose sanctions. See section 24103 of Title 49.
+Section 547, Pub. L. 91–518, title III, §307, Oct. 30, 1970, 84 Stat. 1333; Pub. L. 97–35, title XI, §1179, Aug. 13, 1981,95 Stat. 693, related to jurisdiction of United States district courts to impose sanctions. See section 24103 of Title 49.
 
 Section 548, Pub. L. 91–518, title III, §308, Oct. 30, 1970, 84 Stat. 1333; Pub. L. 92–316, §4, June 22, 1972, 86 Stat. 228; Pub. L. 93–146, §8, Nov. 3, 1973, 87 Stat. 551; Pub. L. 94–25, §4, May 26, 1975, 89 Stat. 90; Pub. L. 96–73, title I, §113, Sept. 29, 1979, 93 Stat. 542; Pub. L. 97–35, title XI, §1180, Aug. 13, 1981, 95 Stat. 693; Pub. L. 99–272, title IV, §4005, Apr. 7, 1986, 100 Stat. 107; Pub. L. 100–342, §18(d), June 22, 1988, 102 Stat. 637, related to reports by National Railroad Passenger Corporation to President and Congress. See section 24315 of Title 49.
 

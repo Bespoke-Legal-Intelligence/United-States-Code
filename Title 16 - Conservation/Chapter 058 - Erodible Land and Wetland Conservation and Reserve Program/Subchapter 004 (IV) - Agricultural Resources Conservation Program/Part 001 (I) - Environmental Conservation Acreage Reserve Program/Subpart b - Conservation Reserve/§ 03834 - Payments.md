@@ -20,7 +20,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 (3) In the case of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990, or in the case of land converted to such production under section 3835a of this title, the Secretary, in making cost share payments to an owner or operator of such land, shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by such owner or operator for maintaining such plantings that are trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of such plantings, as determined appropriate by the Secretary.
 
-(4) The Secretary may permit owners or operators who contract to devote at least 10 acres ofland to the production of hardwood trees under this subpart to extend the planting of such trees over a 3-year period if at least one-third of such trees are planted in each of the first 2 years.
+(4) The Secretary may permit owners or operators who contract to devote at least 10 acres of land to the production of hardwood trees under this subpart to extend the planting of such trees over a 3-year period if at least one-third of such trees are planted in each of the first 2 years.
 
 (5) An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if such owner or operator receives any other Federal cost share assistance with respect to such land under any other provision of law.
 
@@ -90,7 +90,7 @@ Notwithstanding any other provision of law, no order issued for any fiscal year 
 
 In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling lands in the conservation reserve program.
 
-(Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605.)
+(Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11,1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605.)
 
 #### References in Text
 

@@ -90,7 +90,7 @@ Upon request by a State, acting through the Governor of the State, the Administr
 
 #### (i) Information provided to Congress
 
-Notwithstanding any limitatio <sup>2</sup> contained in this section or any other provision of law, all information reported to or otherwise obtained bythe Administrator (or any representative of the Administrator) under this chapter shall be made available to a duly authorized committee of the Congress upon written request by such a committee.
+Notwithstanding any limitatio <sup>2</sup> contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available to a duly authorized committee of the Congress upon written request by such a committee.
 
 (Pub. L. 99–499, title III, §322, Oct. 17, 1986, 100 Stat. 1747.)
 

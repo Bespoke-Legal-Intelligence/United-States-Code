@@ -36,5 +36,5 @@ Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12148, 12150 of this title.
+This section is referred to in sections 12148, 12150, 12209 of this title; title 2 section 1331.
 

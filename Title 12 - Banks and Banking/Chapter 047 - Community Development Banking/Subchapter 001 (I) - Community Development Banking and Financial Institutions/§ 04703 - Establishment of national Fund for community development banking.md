@@ -190,6 +190,10 @@ Federal tax law, referred to in subsec. (g), is classified generally to Title 26
 
 Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325 amended section 9101 of Title 31, Money and Finance, and section 5313 of Title 5, Government Organization and Employees, respectively.
 
+#### Administration of Fund by Secretary of the Treasury
+
+Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237, provided in part: “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4702, 4713, 4742 of this title.

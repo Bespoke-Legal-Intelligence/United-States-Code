@@ -46,7 +46,7 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 &emsp;“(2) An assessment of the retention rate needs of the Armed Forces for physicians in relation to the respective retention rates of physicians obtained from the University and physicians obtained from other sources and the factors that contribute to retention rates among military physicians obtained from all sources.
 
-&emsp;“(3) A review of the quality of the medical education provided at the University with the quality of medical education provided by other sources of military physicians.
+&emsp;“(3) A review of the quality of the medical education provided at the University with the quality ofmedical education provided by other sources of military physicians.
 
 &emsp;“(4) A review of the overall issue of the special needs of military medicine and how those special needs are being met by physicians obtained from University and physicians obtained from other sources.
 

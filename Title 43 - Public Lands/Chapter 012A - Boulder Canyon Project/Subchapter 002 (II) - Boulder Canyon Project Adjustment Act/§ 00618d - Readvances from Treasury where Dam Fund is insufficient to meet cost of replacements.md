@@ -6,7 +6,7 @@ If at any time there shall be insufficient sums in the Colorado River Dam Fund t
 
 #### Readvances to Colorado River Dam Fund; Interest Rate on Readvances
 
-Pub. L. 103–316, title II, Aug. 26, 1994, 108 Stat. 1713, provided in part: “That of the total appropriated \[for operation and maintenance of reclamation projects\], such amounts as may be required for replacement work on the Boulder Canyon Project which would require readvances to the Colorado River Dam Fund shall be readvanced to the Colorado River Dam Fund pursuant to section 5 of the Boulder Canyon Project Adjustment Act of July 19, 1940 (43 U.S.C. 618d), and such readvances since October 1, 1984, and in the future shall bear interest at the rate determined pursuant to section 104(a)(5) of Public Law 98–381 \[amending section 618e of this title\]”. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 103–316, title II, Aug. 26, 1994, 108 Stat. 1713, which provided in part that amounts required for replacement work on the Boulder Canyon Project that would require readvances to the Colorado River Dam Fund from the total appropriated for operation and maintenance of reclamation projects were to be so readvanced pursuant to this section, and that readvances after Oct. 1, 1984, were to bear a prescribed interest rate, was from the Energy and Water Development Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 103–126, title II, Oct. 28, 1993, 107 Stat. 1323.
 

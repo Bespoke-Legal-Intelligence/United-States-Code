@@ -30,7 +30,7 @@ Grants as Contractual Obligations.—Approval by the Secretary of a grant to a S
 
 (e)
 
-Deduction for Administrative Expenses.—On October 1 of each fiscal year or assoon after that date as practicable, the Secretary may deduct, from amounts made available under subsection (a) of this section for that fiscal year, not more than 1.25 percent of those amounts for administrative expenses incurred in carrying out section 31102 of this title in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Government employees and to develop related training materials in carrying out section 31102.
+Deduction for Administrative Expenses.—On October 1 of each fiscal year or as soon after that date as practicable, the Secretary may deduct, from amounts made available under subsection (a) of this section for that fiscal year, not more than 1.25 percent of those amounts for administrative expenses incurred in carrying out section 31102 of this title in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Government employees and to develop related training materials in carrying out section 31102.
 
 (f)
 

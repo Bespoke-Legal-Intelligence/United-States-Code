@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches canbe replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
 &emsp;(A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -24,7 +24,7 @@
 
 (2) Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, or services.
 
-(3) Not more than one grant in each fiscal year may be made to any eligible entity, and no grant may exceed $350,000. Not more than 2grants may be made under this section to an eligible entity to carry out a particular program.
+(3) Not more than one grant in each fiscal year may be made to any eligible entity, and no grant may exceed $350,000. Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.
 
 (4) No application may be approved for assistance under this section unless the Secretary is satisfied that—
 
@@ -90,7 +90,7 @@ As used in this section—
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c) of this section.
 
-(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c),\(d), and (f) of this section, the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
+(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f) of this section, the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
 
 (Pub. L. 99–425, title IV, §408, Sept. 30, 1986, 100 Stat. 972; Pub. L. 101–204, title VII, §705, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 101–501, title VI, §§601, 602, Nov. 3, 1990, 104 Stat. 1257, 1258; Pub. L. 103–252, title II, §207, May 18, 1994, 108 Stat. 656.)
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

@@ -28,7 +28,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (3) Rental use
 
-&emsp;Subsection (a) shall not apply to any item which is attributable to the rental of the dwelling unit or portion thereof (determined after the application of subsection (e)).
+&emsp;Subsection (a) shall not apply to any item which is attributable to the rental of thedwelling unit or portion thereof (determined after the application of subsection (e)).
 
 #### (4) Use in providing day care services
 
@@ -80,7 +80,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;(B) 10 percent of the number of days during such year for which such unit is rented at a fair rental.
 
-> &emsp;For purposes of subparagraph (B), a unit shall not be treated as rented at a fair rental forany day for which it is used for personal purposes.
+> &emsp;For purposes of subparagraph (B), a unit shall not be treated as rented at a fair rental for any day for which it is used for personal purposes.
 
 #### (2) Personal use of unit
 
@@ -98,7 +98,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period if for such period such dwelling unit is rented, at a fair rental, to any person for use as such person's principal residence.
+&emsp;&emsp;A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period iffor such period such dwelling unit is rented, at a fair rental, to any person for use as such person's principal residence.
 
 #### (B) Special rules for rental to person having interest in unit
 
@@ -160,7 +160,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (A) In general
 
-&emsp;&emsp;The term “dwelling unit” includes a house, apartment, condominium, mobilehome, boat, or similar property, and all structures or other property appurtenant to such dwelling unit.
+&emsp;&emsp;The term “dwelling unit” includes a house, apartment, condominium, mobile home, boat, or similar property, and all structures or other property appurtenant to such dwelling unit.
 
 #### (B) Exception
 

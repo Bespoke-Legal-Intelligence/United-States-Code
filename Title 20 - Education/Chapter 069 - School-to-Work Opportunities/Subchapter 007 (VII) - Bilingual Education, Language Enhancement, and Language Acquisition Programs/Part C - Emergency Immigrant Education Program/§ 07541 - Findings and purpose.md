@@ -24,7 +24,7 @@ The purpose of this part is to assist eligible local educational agencies that e
 
 &emsp;&emsp;(B) meet the same challenging State performance standards expected of all children and youth.
 
-(Pub. L. 89 10, title VII, §7301, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3739.)
+(Pub. L. 89–10, title VII, §7301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3739.)
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Attorney General may make grants to States, State courts, local courts, unit
 
 &emsp;(2) the integrated administration of other sanctions and services, which shall include—
 
-&emsp;&emsp;(A) mandatory periodic testing for the use of controlled substances or other addictive substances during any period of supervised release or probation for each participant;
+&emsp;&emsp;(A) mandatory periodic testing for the use of controlled substances or other addictivesubstances during any period of supervised release or probation for each participant;
 
 &emsp;&emsp;(B) substance abuse treatment for each participant;
 

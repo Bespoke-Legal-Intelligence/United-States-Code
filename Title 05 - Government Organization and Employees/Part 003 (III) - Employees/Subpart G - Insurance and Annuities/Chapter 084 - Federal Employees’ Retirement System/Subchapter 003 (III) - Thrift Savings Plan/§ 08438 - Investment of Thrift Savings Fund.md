@@ -10,7 +10,7 @@
 
 &emsp;(4) the term “Government Securities Investment Fund” means the Government Securities Investment Fund established under subsection (b)(1)(A);
 
-&emsp;(5) the term “net worth” means capital, paid-in and contributed surplus, unassignedsurplus, contingency reserves, group contingency reserves, and special reserves;
+&emsp;(5) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
 
 &emsp;(6) the term “plan” means an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3));
 
@@ -72,7 +72,7 @@
 
 (c)(1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
-(2) If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Directorshall invest such sums in the Government Securities Investment Fund.
+(2) If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.
 
 (d)(1) At least twice each year, an employee or Member (or former employee or Member) may elect the investment funds referred to in subsection (b) into which the sums in the Thrift Savings Fund credited to such individual's account are to be invested or reinvested.
 
@@ -114,9 +114,9 @@
 
 #### Amendments
 
-1992—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
+<b>1992</b>—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–335, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
+<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–335, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 
 Subsec. (c)(1). Pub. L. 101–335, §3(a)(3), substituted “The” for “Subject to subsection (e), the”.
 
@@ -130,9 +130,9 @@ Subsec. (g). Pub. L. 101–335, §3(a)(1), (5), (6), redesignated subsec. (h) as
 
 Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
 
-1988—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
+<b>1988</b>—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
 
-1987—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
+<b>1987</b>—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
 
 #### Effective Date of 1990 Amendment
 

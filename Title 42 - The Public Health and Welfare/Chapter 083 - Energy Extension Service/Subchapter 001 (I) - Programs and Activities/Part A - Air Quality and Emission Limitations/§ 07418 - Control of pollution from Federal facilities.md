@@ -22,7 +22,7 @@ Each department, agency, and instrumentality of executive, legislative, and judi
 
 &emsp;(3) another method approved by the vehicle inspection and maintenance program administrator.
 
-(July 14, 1955, ch. 360, title I, §118, formerly, §7, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 399; renumbered §107, Oct. 20, 1965, Pub. L. 89–272, title I, §101(3), 79 Stat. 992; renumbered §111 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 499; renumbered §118 and amended Dec. 31, 1970, Pub. L. 91–604, §§4(a), 5, 84 Stat. 1678, 1689; Aug. 7, 1977, Pub. L. 95–95, title I, §116, 91 Stat. 711;Nov. 15, 1990, Pub. L. 101–549, title I, §101(e), title II, §235, title III, §302(d), 104 Stat. 2409, 2530, 2574.)
+(July 14, 1955, ch. 360, title I, §118, formerly, §7, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 399; renumbered §107, Oct. 20, 1965, Pub. L. 89–272, title I, §101(3), 79 Stat. 992; renumbered §111 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 499; renumbered §118 and amended Dec. 31, 1970, Pub. L. 91–604, §§4(a), 5, 84 Stat. 1678, 1689; Aug. 7, 1977, Pub. L. 95–95, title I, §116, 91 Stat. 711; Nov. 15, 1990, Pub. L. 101–549, title I, §101(e), title II, §235, title III, §302(d), 104 Stat. 2409, 2530, 2574.)
 
 #### Codification
 

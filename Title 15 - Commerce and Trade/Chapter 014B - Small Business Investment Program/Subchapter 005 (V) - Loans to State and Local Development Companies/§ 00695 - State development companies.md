@@ -10,7 +10,7 @@ The Administration is authorized to make loans to State development companies to
 
 #### (c) Maximum loans to development companies
 
-The total amount of obligations purchased and outstanding at any one time by the Administration under this section from any one State development company shall not exceed the totalamount borrowed by it from all other sources. Funds advanced to a State development company under this section shall be treated on an equal basis with those funds borrowed by such company after August 21, 1958, regardless of source, which have the highest priority, except when this requirement is waived by the Administrator.
+The total amount of obligations purchased and outstanding at any one time by the Administration under this section from any one State development company shall not exceed the total amount borrowed by it from all other sources. Funds advanced to a State development company under this section shall be treated on an equal basis with those funds borrowed by such company after August 21, 1958, regardless of source, which have the highest priority, except when this requirement is waived by the Administrator.
 
 #### (d) Eligibility for assistance
 

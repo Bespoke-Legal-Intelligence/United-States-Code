@@ -10,7 +10,7 @@
 
 Subchapter E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1631 to 1636 of the 1939 Code, and was repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
-For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
+For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
 #### Amendments
 
@@ -24,7 +24,7 @@ Pub. L. 103–296, §108(b)(6), which directed that subsec. (b) be amended by su
 
 Subsec. (b). Pub. L. 98–369, §2663(<i>l</i>)(1), substituted “Secretary” for “Administrator”.
 
-Pub. L. 98–369, §2663(j)(2)(D)(iii), which directed the substitution of “Health and Human Services” for“Health, Education, and Welfare” could not be executed because “Health, Education, and Welfare” did not appear in text.
+Pub. L. 98–369, §2663(j)(2)(D)(iii), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare” could not be executed because “Health, Education, and Welfare” did not appear in text.
 
 Pub. L. 98–369, §2663(e)(3), substituted “divorced wife, divorced husband, surviving divorced wife, surviving divorced husband, surviving divorced mother, surviving divorced father,” for “former wife divorced,” in two places.
 

@@ -1,6 +1,6 @@
 ### §619. Eligibility for consideration for promotion: time-in-grade and other requirements
 
-(a)(1) An officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+(a)(1) An officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in thegrade in which he holds a permanent appointment:
 
 &emsp;(A) Eighteen months, in the case of an officer holding a permanent appointment in the grade of second lieutenant or ensign.
 
@@ -26,7 +26,7 @@
 
 (2) The Secretary of the military department concerned—
 
-&emsp;(A) may, in accordance with standards and procedures prescribed by the Secretary of Defense in regulations which shall apply uniformly among the military departments, limit the officers to be considered by a selectionboard from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion;
+&emsp;(A) may, in accordance with standards and procedures prescribed by the Secretary of Defense in regulations which shall apply uniformly among the military departments, limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion;
 
 &emsp;(B) may, by regulation, prescribe a period of time, not to exceed one year, from the time an officer is placed on the active-duty list during which the officer shall be ineligible for consideration for promotion; and
 
@@ -44,7 +44,7 @@
 
 &emsp;(ii) A requirement that an officer may be precluded from consideration by a selection board under this paragraph only upon the recommendation of a preselection board of officers convened by the Secretary of the military department concerned and composed of at least three officers all of whom are serving in a grade higher than the grade of such officer.
 
-&emsp;(iii) A requirement that such a preselection board may not recommend that an officer be precluded from such consideration unless the Secretary concerned has given the officer advance written notice of the convening of such board and of the military records that will be considered by the board and has given the officer a reasonable period before the convening of the board in which to submit comments to the board.
+&emsp;(iii) A requirement that such a preselection board may not recommend that an officer be precluded from such consideration unless the Secretary concerned has given the officer advance written notice of the convening of such board and of the military records that will be considered by the board and has given the officer a reasonable period before the convening ofthe board in which to submit comments to the board.
 
 &emsp;(iv) A requirement that the Secretary convening such a preselection board shall provide general guidance to the board in accordance with standards and procedures prescribed by the Secretary of Defense in those regulations.
 
@@ -130,7 +130,7 @@ Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations 
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Except as provided by the Government Employees Salary Reform Act of 1964 (78 Sta
 
 &emsp;(4) sections 403a–403c, 403e–403h, and 403j of title 50.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L.101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441.)
 
 Historical and Revision Notes
 
@@ -50,13 +50,13 @@ Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in par. (4)
 
 #### Amendments
 
-1990—Pub. L. 101–509 substituted “rate for level IV of the Executive Schedule.” for “maximum rate for GS–18.”
+<b>1990</b>—Pub. L. 101–509 substituted “rate for level IV of the Executive Schedule.” for “maximum rate for GS–18.”
 
-1989—Par. (2). Pub. L. 101–73, §1209, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “sections 248, 481, 1437, 1439, and 1819 of title 12;”.
+<b>1989</b>—Par. (2). Pub. L. 101–73, §1209, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “sections 248, 481, 1437, 1439, and 1819 of title 12;”.
 
 Pub. L. 101–73, §742(b), inserted references to sections 1437 and 1439 of title 12.
 
-1979—Par. (1). Pub. L. 96–70 substituted “section 1202 of the Panama Canal Act of 1979” for “section 121 of title 2, Canal Zone Code (76A Stat. 15)”.
+<b>1979</b>—Par. (1). Pub. L. 96–70 substituted “section 1202 of the Panama Canal Act of 1979” for “section 121 of title 2, Canal Zone Code (76A Stat. 15)”.
 
 #### Effective Date of 1990 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Cross References
 

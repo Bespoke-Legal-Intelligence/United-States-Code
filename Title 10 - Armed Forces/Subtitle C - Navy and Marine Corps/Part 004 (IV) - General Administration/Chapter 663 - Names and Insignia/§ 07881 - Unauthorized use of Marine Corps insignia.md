@@ -1,4 +1,4 @@
-### §7881 . Unauthorized use of Marine Corps insignia
+### §7881. Unauthorized use of Marine Corps insignia
 
 (a) The seal, emblem, and initials of the United States Marine Corps shall be deemed to be insignia of the United States.
 

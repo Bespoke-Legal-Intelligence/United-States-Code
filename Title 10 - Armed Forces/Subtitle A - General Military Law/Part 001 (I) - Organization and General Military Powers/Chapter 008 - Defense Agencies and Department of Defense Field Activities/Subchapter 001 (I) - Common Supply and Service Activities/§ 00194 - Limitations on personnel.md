@@ -1,4 +1,4 @@
-### §194 . Limitations on personnel
+### §194. Limitations on personnel
 
 (a)
 
@@ -38,7 +38,7 @@ Definitions.—In this section, the terms “management headquarters activities�
 
 #### Reductions in Defense Intelligence Agency Personnel
 
-Pub. L. 100–202, §101(b) \[title VIII, §8122\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–85, which provided that nothing in section 102d(1) of Public Law 100–178, 101 Stat. 1010, section 601(b)(2)(A) of Public Law 99–433, 100 Stat. 1065 \[set out below\], or section 601(d) of Public Law 99–433, 100 Stat. 1065 \[set out below\], shall be construed as requiring or suggesting that the Secretary of Defense avoid allocating personnel reductions to the Defense Intelligence Agency, was repealed by Pub. L. 100–456, div. A, title XII, §1213, Sept. 29, 1988, 102 Stat. 2053.
+Pub. L. 100–202, §101(b) \[title VIII, §8122\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–85, provided that nothing in section 102d(1) of Public Law 100–178, 101 Stat. 1010, section 601(b)(2)(A) of Public Law 99–433, 100 Stat. 1065 \[set out below\], or section 601(d) of Public Law 99–433, 100 Stat. 1065 \[set out below\], shall be construed as requiring or suggesting that the Secretary of Defense avoid allocating personnel reductions to the Defense Intelligence Agency, prior to repeal by Pub. L. 100–456, div. A, title XII, §1213, Sept. 29, 1988, 102 Stat. 2053.
 
 #### Reduction in Personnel Assigned to Management Headquarters Activities and Certain Other Activities
 

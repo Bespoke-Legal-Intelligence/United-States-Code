@@ -34,7 +34,7 @@ Owner Manual Requirements.—In amending Standard 208, the Secretary of Transpor
 
 &emsp;(2) the “airbag” is a supplemental restraint and is not a substitute for lap and shoulder belts;
 
-&emsp;(3) lap and shoulder belts also must be used correctly by an occupant in a front outboard seating position to provide restraint or protection from frontal crashes as well as other types of crashes or accidents; and
+&emsp;(3) lap and shoulder belts also must be used correctly by an occupant in a front outboardseating position to provide restraint or protection from frontal crashes as well as other types of crashes or accidents; and
 
 &emsp;(4) occupants should always wear their lap and shoulder belts, if available, or other safety belts, whether or not there is an inflatable restraint.
 
@@ -58,7 +58,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (f)
 
-Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automaticcrash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
+Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automatic crash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
 
 &emsp;(A) affecting another provision of law carried out by the Secretary of Transportation applicable to passenger cars, buses, multipurpose passenger vehicles, or trucks; or
 

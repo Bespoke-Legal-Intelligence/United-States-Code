@@ -34,5 +34,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5813 of this title.
+This section is referred to in section 5813 of this title; title 15 section 4727.
 

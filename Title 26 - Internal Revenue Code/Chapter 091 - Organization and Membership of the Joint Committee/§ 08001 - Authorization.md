@@ -14,5 +14,5 @@ Section 1907(c) of Pub. L. 94–455 provided that: “The amendments made by thi
 
 #### References to Joint Committee on Internal Revenue Taxation
 
-Pub. L. 94–455, title XIX, §1907(a)(5), Oct. 4, 1976, 90 Stat. 1836, provided that: “All references in any otherstatute, or in any rule, regulation, or order, to the Joint Committee on Internal Revenue Taxation shall be considered to be made to the Joint Committee on Taxation.”
+Pub. L. 94–455, title XIX, §1907(a)(5), Oct. 4, 1976, 90 Stat. 1836, provided that: “All references in any other statute, or in any rule, regulation, or order, to the Joint Committee on Internal Revenue Taxation shall be considered to be made to the Joint Committee on Taxation.”
 

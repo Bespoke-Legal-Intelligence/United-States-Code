@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of—
 
-&emsp;&emsp;&emsp;(i) a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer's taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or
+&emsp;&emsp;&emsp;(i) a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer's taxable year, only if thetaxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or
 
 &emsp;&emsp;&emsp;(ii) any other person who is a dependent of the taxpayer, if the taxpayer is entitled to a deduction for the taxable year for such person under section 151, or
 

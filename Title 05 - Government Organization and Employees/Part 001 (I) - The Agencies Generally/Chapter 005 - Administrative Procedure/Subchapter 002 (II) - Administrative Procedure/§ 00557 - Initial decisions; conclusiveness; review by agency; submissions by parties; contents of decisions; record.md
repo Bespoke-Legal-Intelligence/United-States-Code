@@ -28,7 +28,7 @@
 
 &emsp;(B) no member of the body comprising the agency, administrative law judge, or other employee who is or may reasonably be expected to be involved in the decisional process of the proceeding, shall make or knowingly cause to be made to any interested person outside the agency an ex parte communication relevant to the merits of the proceeding;
 
-&emsp;(C) a member of the body comprising the agency, administrative law judge, or other employee who is or may reasonably be expected to be involved in the decisional process of suchproceeding who receives, or who makes or knowingly causes to be made, a communication prohibited by this subsection shall place on the public record of the proceeding:
+&emsp;(C) a member of the body comprising the agency, administrative law judge, or other employee who is or may reasonably be expected to be involved in the decisional process of such proceeding who receives, or who makes or knowingly causes to be made, a communication prohibited by this subsection shall place on the public record of the proceeding:
 
 &emsp;&emsp;(i) all such written communications;
 
@@ -70,7 +70,7 @@ Section 557a of former Title 5, Executive Departments and Government Officers an
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–409 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–409 added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 553, 554, 556, 558, 706, 3105 of this title; title 2 sections 501, 502, 1207, 1219, 1220; title 7 sections 86, 87e, 87f–1, 2023, 2707, 4906, 6802, 6804; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 2602, 3636; title 20 section 1234; title 21 section 321; title 30 sections 811, 823, 1415; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 1395ww, 2241, 7407, 7502, 7511a, 7607, 11504; title 46 sections 7702, 9303; title 49 sections 10322, 10327, 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 553, 554, 556, 558, 706, 3105 of this title; title 2 sections 501, 502, 1219, 1220, 1405; title 7 sections 86, 87e, 87f–1, 2023, 2707, 4906, 6802, 6804; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 2602, 3636; title 20 section 1234; title 21 section 321; title 30 sections 185, 811, 823, 1415; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 1395ww, 2241, 7407, 7502, 7511a, 7607, 11504; title 46 sections 7702, 9303; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

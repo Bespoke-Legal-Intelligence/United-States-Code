@@ -2,7 +2,7 @@
 
 (a) There shall be conspicuously printed on pilot charts prepared in the Defense Mapping Agency the following: “Prepared from data furnished by the Defense Mapping Agency of the Department of Defense and by the Department of Commerce, and published at the Defense Mapping Agency under the authority of the Secretary of Defense”.
 
-(b) The Secretary of Commerce shall furnish to the Defense Mapping Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for,and of the character used in, preparing pilot charts.
+(b) The Secretary of Commerce shall furnish to the Defense Mapping Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
 
 (Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299.)
 

@@ -16,5 +16,5 @@ Any debt collector who brings any legal action on a debt against any consumer sh
 
 Nothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.
 
-(Pub. L. 90 321, title VIII, §811, as added Pub. L. 95 109, Sept. 20, 1977, 91 Stat. 880.)
+(Pub. L. 90–321, title VIII, §811, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
 

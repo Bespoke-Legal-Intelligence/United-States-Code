@@ -72,13 +72,13 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §405(f); added June 22, 1972, P
 
 In subsection (a), before clause (1), the word “maintain” is substituted for “Within 90 days after September 29, 1979” and “establish” for clarity.
 
-In subsection (b), before clause (1), the word “act” is substituted for “take all steps necessary to” to eliminate unnecessary words. The words “access to” are added for clarity. In clause (1), the words “and devices”are omitted as surplus. In clause (4), the words “architectural and other” are omitted as surplus.
+In subsection (b), before clause (1), the word “act” is substituted for “take all steps necessary to” to eliminate unnecessary words. The words “access to” are added for clarity. In clause (1), the words “and devices” are omitted as surplus. In clause (4), the words “architectural and other” are omitted as surplus.
 
 In subsection (c)(1)(A), the words “period of” and “while on” are omitted as surplus.
 
 In subsection (c)(2), the words “take such action as may be necessary to”, “the terms of . . . policy or”, and “to such railroad employee” are omitted as surplus. The words “or group of railroads” are omitted because of 1:1.
 
-#### Section Referred to in Other Sections
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-This section is referred to in section 11347 of this title.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 

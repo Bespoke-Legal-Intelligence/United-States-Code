@@ -16,7 +16,7 @@ A State that receives a grant under section 1491c of this title shall submit ann
 
 &emsp;(4) for the annual progress report concerning subsequent years of the grant period, the updated strategic plan.
 
-(Pub. L. 91 230, title VI, §710, as added Pub. L. 103 382, title III, §315, Oct. 20, 1994, 108 Stat. 3952.)
+(Pub. L. 91–230, title VI, §710, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3952.)
 
 #### Section Referred to in Other Sections
 

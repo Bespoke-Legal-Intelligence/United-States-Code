@@ -26,11 +26,11 @@ In making the determination required by subsection (a) of this section, the Secr
 
 #### (3) Effect of concurrence
 
-&emsp;In any case where the Administrator makes a determination to concur (with or without conditions) or to decline to concur within the time period specified in paragraph (2) the determination shall prevail. If the Administrator declines to concur in the determination of the Secretary no permit shall be issued. Ifthe Administrator concurs with conditions the permit shall include such conditions. The Administrator shall state in writing the reasons for declining to concur or for the conditions of the concurrence.
+&emsp;In any case where the Administrator makes a determination to concur (with or without conditions) or to decline to concur within the time period specified in paragraph (2) the determination shall prevail. If the Administrator declines to concur in the determination of the Secretary no permit shall be issued. If the Administrator concurs with conditions the permit shall include such conditions. The Administrator shall state in writing the reasons for declining to concur or for the conditions of the concurrence.
 
 #### (4) Failure to act
 
-&emsp;If no written documentation is made by the Administrator within the time period provided for in paragraph (2), the Secretary may issue the permit.
+&emsp;If no written documentation is made by the Administrator within the time period providedfor in paragraph (2), the Secretary may issue the permit.
 
 #### (5) Compliance with criteria and restrictions
 

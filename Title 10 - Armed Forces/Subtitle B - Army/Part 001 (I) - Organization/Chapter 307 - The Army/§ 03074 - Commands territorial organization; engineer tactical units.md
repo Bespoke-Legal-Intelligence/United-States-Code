@@ -1,4 +1,4 @@
-### §3074 . Commands: territorial organization; engineer tactical units
+### §3074. Commands: territorial organization; engineer tactical units
 
 (a) Except as otherwise prescribed by law or by the Secretary of Defense, the Army shall be divided into such commands, forces, and organizations as may be prescribed by the Secretary of the Army.
 

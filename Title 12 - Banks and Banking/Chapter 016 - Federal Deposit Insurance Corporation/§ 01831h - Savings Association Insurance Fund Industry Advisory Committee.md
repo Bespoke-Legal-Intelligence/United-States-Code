@@ -38,11 +38,11 @@ The Committee shall meet 4 times each year, and more frequently if requested by 
 
 #### (h) Reports
 
-The Committee shall submit a semiannual written report to the Committee on Banking, Finance and Urban Affairs of the House and to the Committee on Banking, Housing, and Urban Affairs of the Senate. Such report shall describe the activities of the Committee for such semiannual period and contain such recommendations as the Committee considers appropriate.
+The Committee shall submit a semiannual written report to the Committee on Banking,Finance and Urban Affairs of the House and to the Committee on Banking, Housing, and Urban Affairs of the Senate. Such report shall describe the activities of the Committee for such semiannual period and contain such recommendations as the Committee considers appropriate.
 
 #### (i) Provision of staff and other resources
 
-The Corporation shall provide the Committee with the use of such resources, including staff, as the Committee reasonably shall require to carry out its duties, including the preparationand submission of reports to Congress, under this section.
+The Corporation shall provide the Committee with the use of such resources, including staff, as the Committee reasonably shall require to carry out its duties, including the preparation and submission of reports to Congress, under this section.
 
 #### (j) Federal Advisory Committee Act does not apply
 
@@ -64,5 +64,5 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

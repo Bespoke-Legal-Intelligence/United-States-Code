@@ -104,7 +104,7 @@ The teacher training programs authorized in subsection (a) of this section shall
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct an independent evaluation by grant or contract of the teacher training programs administered pursuant to this chapter in accordance with section 8941 of this title. Such evaluation shall specify the amount of funds expended by the National Writing Project and each contractor receiving assistance under this section for administrative costs. The results of such evaluation shall be made available to the appropriate committees of the Congress.
+&emsp;The Secretary shall conduct an independent evaluation by grant or contract of the teacher training programs administered pursuant to this chapter in accordance with section 8941 of this title. Such evaluation shall specify the amount of funds expended by the National Writing Project and each contractor receivingassistance under this section for administrative costs. The results of such evaluation shall be made available to the appropriate committees of the Congress.
 
 #### (2) Funding limitation
 
@@ -132,9 +132,9 @@ The teacher training programs authorized in subsection (a) of this section shall
 
 There are authorized to be appropriated for the grant to the National Writing Project, $4,000,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years, to carry out the provisions of this section.
 
-(Pub. L. 89 10, title X, §10992, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3861.)
+(Pub. L. 89–10, title X, §10992, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3861.)
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92 463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

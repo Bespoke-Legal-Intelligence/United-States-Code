@@ -20,7 +20,7 @@ The Secretary may obtain services as authorized by section 3109 of title 5, at r
 
 #### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
 
-The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction andfor graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
 
 #### (g) Seal
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law the Secretary is authorized to establ
 
 (2) For the purpose of Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for use of the United States.
 
-(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
+(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit ofthe fund and shall be disbursed upon order of the Secretary.
 
 #### (<i>l</i>) Consultants; appointment of advisory committees; compensation and travel expenses
 
@@ -98,7 +98,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(4) an estimate of the effect of the reorganization on the availability, accessibility, and quality of services provided for recipients of those services,
 
-> where any of the above factors cannot be quantified, the Secretary shall provide a statement on the nature and extent of those factors in the cost-benefit analysis.
+> where any of the above factors cannot be quantified, the Secretary shall provide a statementon the nature and extent of those factors in the cost-benefit analysis.
 
 #### (q) Waiver of regulations
 
@@ -166,7 +166,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 #### (s) Authorization of appropriations; allocations for staff and training
 
-(1) Notwithstanding any other provision of law, there is authorized to be appropriated for salaries and expenses to carry out the purposesof this section $988,000,000 for fiscal year 1993 and $1,029,496,000 for fiscal year 1994.
+(1) Notwithstanding any other provision of law, there is authorized to be appropriated for salaries and expenses to carry out the purposes of this section $988,000,000 for fiscal year 1993 and $1,029,496,000 for fiscal year 1994.
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
@@ -206,7 +206,7 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r
 
 In subsec. (c), “the Executive Schedule provided by subchapter II of chapter 53 of title 5” substituted for “the Federal Executive Salary Schedule provided by the Federal Executive Salary Act of 1964” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (e), “section 3109 of title 5” substituted for “section 15 of the Act of August 2, 1946” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, thefirst section of which enacted Title 5. Prior to the enactment of Title 5, section 15 of the Act of Aug. 2, 1946, was classified to section 55a of former Title 5.
+In subsec. (e), “section 3109 of title 5” substituted for “section 15 of the Act of August 2, 1946” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5. Prior to the enactment of Title 5, section 15 of the Act of Aug. 2, 1946, was classified to section 55a of former Title 5.
 
 Section was formerly classified to section 624d of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
@@ -274,7 +274,7 @@ Subsec. (p). Pub. L. 95–557, §908, added subsec. (p).
 
 Subsec. (n). Pub. L. 94–375, §21, added subsec. (n).
 
-1970—Subsec. (e). Pub. L. 91–609, §906, substituted “for individuals not to exceed the per diem equivalent tothe highest rate for grade GS–18 of the General Schedule under section 5332 of title 5” for “not to exceed $100 per diem for individuals”.
+1970—Subsec. (e). Pub. L. 91–609, §906, substituted “for individuals not to exceed the per diem equivalent to the highest rate for grade GS–18 of the General Schedule under section 5332 of title 5” for “not to exceed $100 per diem for individuals”.
 
 Subsecs. (h) to (<i>l</i>). Pub. L. 91–609, §905, added subsecs. (h) to (<i>l).</i>
 
@@ -286,7 +286,7 @@ Subsec. (c). Pub. L. 90–284 increased from six to seven the number of position
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 

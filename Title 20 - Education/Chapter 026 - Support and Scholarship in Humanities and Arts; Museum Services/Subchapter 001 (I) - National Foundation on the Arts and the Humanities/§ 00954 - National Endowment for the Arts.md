@@ -44,7 +44,7 @@ No payment shall be made under this section except upon application therefor whi
 
 &emsp;(2) applications are consistent with the purposes of this section. Such regulations and procedures shall clearly indicate that obscenity is without artistic merit, is not protected speech, and shall not be funded. Projects, productions, workshops, and programs that are determined to be obscene are prohibited from receiving financial assistance under this subchapter from the National Endowment for the Arts.
 
-> The disapproval or approval of an application by the Chairperson shall not be construed to mean, and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
+> The disapproval or approval of an application by the Chairperson shall not be construed to mean, and shall not be considered as evidence that, theproject, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
 
 #### (e) Limitation on amount of grant to group; grants and contracts of the National Endowment for the Arts
 
@@ -160,7 +160,7 @@ The Inspector General of the Endowment shall conduct appropriate reviews to ensu
 
 #### (<i>l</i>) Use of financial assistance for obscene project, production, etc.; repayment of assistance; exceptions
 
-(1) If, after reasonable notice and opportunity for a hearing on the record, the Chairperson determines that a recipient of financial assistance provided under this section by the Chairperson or any non-Federal entity, used such financial assistance for a project, production, workshop, or program that is determined to be obscene, then the Chairperson shall require that until such recipient repays such assistance (in such amount, and under such terms and conditions, as the Chairperson determines to be appropriate) to the Endowment; no subsequent financial assistance be provided under this section to such recipient.
+(1) If, after reasonable notice and opportunity for a hearing on the record, the Chairperson determines that a recipient of financial assistance provided under this section by the Chairperson or any non-Federal entity, used such financial assistance for a project, production, workshop,or program that is determined to be obscene, then the Chairperson shall require that until such recipient repays such assistance (in such amount, and under such terms and conditions, as the Chairperson determines to be appropriate) to the Endowment; no subsequent financial assistance be provided under this section to such recipient.
 
 (2) Financial assistance repaid under this section to the Endowment shall be deposited in the Treasury of the United States and credited as miscellaneous receipts.
 
@@ -228,173 +228,173 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the Presidentand the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
-(Pub. L. 89 209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90 83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90 348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91 346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93 133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94 462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96 496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98 306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99 194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101 512, title III, §318 \[title I, §§103(a) (i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963 1966.)
+(Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966.)
 
 #### References in Text
 
-The effective date of this subsection, referred to in subsec. (<i>l</i>)(3)(A), is October 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
+The effective date of this subsection, referred to in subsec. (<i>l</i>)(3)(A), is October 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
 
-The Davis-Bacon Act, as amended, referred to in subsec. (n), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a 5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+The Davis-Bacon Act, as amended, referred to in subsec. (n), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101 512, §318 \[title I, §103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
+1990—Subsec. (c). Pub. L. 101–512, §318 \[title I, §103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 101 512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
+Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
 
-Subsec. (c)(2). Pub. L. 101 512, §318 \[title I, §103(a)(2)\], inserted “or tradition” after “authenticity”.
+Subsec. (c)(2). Pub. L. 101–512, §318 \[title I, §103(a)(2)\], inserted “or tradition” after “authenticity”.
 
-Subsec. (c)(5). Pub. L. 101 512, §318 \[title I, §103(a)(3)\], inserted “education,” after “knowledge,”.
+Subsec. (c)(5). Pub. L. 101–512, §318 \[title I, §103(a)(3)\], inserted “education,” after “knowledge,”.
 
-Subsec. (c)(8) to (10). Pub. L. 101 512, §318 \[title I, §103(a)(4) (6)\], added pars. (8) and (9) and redesignated former par. (8) as (10).
+Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\], added pars. (8) and (9) and redesignated former par. (8) as (10).
 
-Subsec. (d). Pub. L. 101 512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
 
-Subsec. (f). Pub. L. 101 512, §318 \[title I, §103(c)\], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (g)(2)(E)(i), (ii). Pub. L. 101 512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) a description of the level of participation during the previous 2 years by artists, artists’ organizations, and arts organizations in projects and productions for which financial assistance is provided under this subsection;
+“(i) a description of the level of participation during the previous 2 years by artists, artists’ organizations,and arts organizations in projects and productions for which financial assistance is provided under this subsection;
 
 “(ii) a description of the extent to which projects and productions receiving financial assistance under this subsection are available to all people and communities in the State; and”.
 
-Subsecs. (i) to (k). Pub. L. 101 512, §318 \[title I, §103(g)(2)\], added subsecs. (i) to (k), and redesignated former subsecs. (i) to (k) as (<i>l</i>) to (n), respectively.
+Subsecs. (i) to (k). Pub. L. 101–512, §318 \[title I, §103(g)(2)\], added subsecs. (i) to (k), and redesignated former subsecs. (i) to (k) as (<i>l</i>) to (n), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 101 512, §318 \[title I, §103(h)(2)\], added subsec. (<i>l</i>). Former subsec. (<i>l</i>), redesignated (m).
+Subsec. (<i>l</i>). Pub. L. 101–512, §318 \[title I, §103(h)(2)\], added subsec. (<i>l</i>). Former subsec. (<i>l</i>), redesignated (m).
 
-Pub. L. 101 512, §318 \[title I, §103(g)(1)\], redesignated subsec. (i) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (<i>o).</i>
+Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (i) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (<i>o).</i>
 
-Subsec. (m). Pub. L. 101 512, §318 \[title I, §103(i)(1)\], substituted “subsection (n)” for “subsection (j)”.
+Subsec. (m). Pub. L. 101–512, §318 \[title I, §103(i)(1)\], substituted “subsection (n)” for “subsection (j)”.
 
-Pub. L. 101 512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
 
-Pub. L. 101 512, §318 \[title I, §103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
+Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 101 512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
+Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
 
-Pub. L. 101 512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (<i>l</i>) as (n) and (<i>o</i>), respectively.
+Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (<i>l</i>) as (n) and (<i>o</i>), respectively.
 
-Subsec. (p). Pub. L. 101 512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>o</i>) as (p). Former subsec. (p) redesignated (q).
+Subsec. (p). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>o</i>) as (p). Former subsec. (p) redesignated (q).
 
-Pub. L. 101 512, §318 \[title I, §103(g)(1)\], redesignated subsec. (m) as (p).
+Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (m) as (p).
 
-Subsec. (p)(1)(G). Pub. L. 101 512, §318 \[title I, §103(e)\], added subpar. (G).
+Subsec. (p)(1)(G). Pub. L. 101–512, §318 \[title I, §103(e)\], added subpar. (G).
 
-Subsec. (p)(2) to (4). Pub. L. 101 512, §318 \[title I, §104\], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “subsection (c)” for “section 5(c)”, which for purposes of codification was translated as “subsection (c) of this section” thus requiring no change in text.
+Subsec. (p)(2) to (4). Pub. L. 101–512, §318 \[title I, §104\], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “subsection (c)” for “section 5(c)”, which for purposes of codification was translated as “subsection (c) of this section” thus requiring no change in text.
 
-Subsec. (q). Pub. L. 101 512, §318 \[title I, §103(h)(1)\], redesignated subsec. (p) as (q).
+Subsec. (q). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (p) as (q).
 
-Pub. L. 101 512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
+Pub. L. 101–512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
-1985—Subsec. (b)(1). Pub. L. 99 194, §105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
+1985—Subsec. (b)(1). Pub. L. 99–194, §105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
 
-Subsec. (b)(2). Pub. L. 99 194, §105(6), (7), substituted “Chairperson” for “Chairman” wherever appearing and “the Chairperson's” for “his” in two places.
+Subsec. (b)(2). Pub. L. 99–194, §105(6), (7), substituted “Chairperson” for “Chairman” wherever appearing and “the Chairperson's” for “his” in two places.
 
-Subsec. (c). Pub. L. 99 194, §105(2)(C), (D), (6), substituted “Chairperson” for “Chairman” in provisions preceding par. (1), and in provisions following cl. (8) substituted “Chairperson” for “Chairman” wherever appearing and “clause (8)” for “clause (5)”, and inserted “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented”.
+Subsec. (c). Pub. L. 99–194, §105(2)(C), (D), (6), substituted “Chairperson” for “Chairman” in provisions preceding par. (1), and in provisions following cl. (8) substituted “Chairperson” for “Chairman” wherever appearing and “clause (8)” for “clause (5)”, and inserted “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented”.
 
-Subsec. (c)(4) to (8). Pub. L. 99 194, §105(2)(A), (B), added cls. (4) and (5) and redesignated former cls. (4) to (6) as (6) to (8), respectively.
+Subsec. (c)(4) to (8). Pub. L. 99–194, §105(2)(A), (B), added cls. (4) and (5) and redesignated former cls. (4) to (6) as (6) to (8), respectively.
 
-Subsec. (d). Pub. L. 99 194, §105(6), substituted “Chairperson” for “Chairman”.
+Subsec. (d). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman”.
 
-Subsec. (g). Pub. L. 99 194, §105(3), (6), substituted “Chairperson” for “Chairman” wherever appearing, and in par. (2) struck out “and” at end of cl. (B), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (C), and added cls. (D) and (E).
+Subsec. (g). Pub. L. 99–194, §105(3), (6), substituted “Chairperson” for “Chairman” wherever appearing, and in par. (2) struck out “and” at end of cl. (B), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (C), and added cls. (D) and (E).
 
-Subsec. (h). Pub. L. 99 194, §105(6), substituted “Chairperson” for “Chairman” wherever appearing.
+Subsec. (h). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsec. (i). Pub. L. 99 194, §105(4), substituted “Secretary of Labor may deem” for “he may deem” in last sentence.
+Subsec. (i). Pub. L. 99–194, §105(4), substituted “Secretary of Labor may deem” for “he may deem” in last sentence.
 
-Subsec. (k). Pub. L. 99 194, §105(6), substituted “Chairperson” for “Chairman” wherever appearing.
+Subsec. (k). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsec. (<i>l</i>)(1). Pub. L. 99 194, §105(6), substituted “Chairperson” for “Chairman” in provisions preceding subpar. (A).
+Subsec. (<i>l</i>)(1). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” in provisions preceding subpar. (A).
 
-Subsec. (<i>l</i>)(1)(D). Pub. L. 99 194, §105(5), inserted “and local arts agencies” after “local arts groups”, designated existing provisions as cl. (i), and added cls. (ii) to (v).
+Subsec. (<i>l</i>)(1)(D). Pub. L. 99–194, §105(5), inserted “and local arts agencies” after “local arts groups”, designated existing provisions as cl. (i), and added cls. (ii) to (v).
 
-Subsec. (<i>l</i>)(3). Pub. L. 99 194, §105(6), substituted “Chairperson” for “Chairman”.
+Subsec. (<i>l</i>)(3). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman”.
 
-Subsec. (m). Pub. L. 99 194, §105(8), added subsec. (m).
+Subsec. (m). Pub. L. 99–194, §105(8), added subsec. (m).
 
-1980—Subsec. (c). Pub. L. 96 496, §§102(a), 109(a), inserted “or loans” in provisions preceding cl. (1) and “and cultural diversity” in cl. (1), redesignated cl. (5) as (6), added cl. (5), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in provisions following cl. (6), and provided that any loans made by the Chairman under subsec. (c) were to be made in accordance with terms and conditions approved by the Secretary of the Treasury.
+1980—Subsec. (c). Pub. L. 96–496, §§102(a), 109(a), inserted “or loans” in provisions preceding cl. (1) and “and cultural diversity” in cl. (1), redesignated cl. (5) as (6), added cl. (5), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in provisions following cl. (6), and provided that any loans made by the Chairman under subsec. (c) were to be made in accordance with terms and conditions approved by the Secretary of the Treasury.
 
-Subsec. (g)(2)(A). Pub. L. 96 496, §102(b)(1), struck out provision that the Recreation Board, or any successor designated for purposes of this subchapter by the Commissioner of the District of Columbia, was to be considered the “State agency” within the District of Columbia.
+Subsec. (g)(2)(A). Pub. L. 96–496, §102(b)(1), struck out provision that the Recreation Board, or any successor designated for purposes of this subchapter by the Commissioner of the District of Columbia, was to be considered the “State agency” within the District of Columbia.
 
-Subsec. (g)(4)(A). Pub. L. 96 496, §109(b), substituted “such projects” for “such project”.
+Subsec. (g)(4)(A). Pub. L. 96–496, §109(b), substituted “such projects” for “such project”.
 
-Subsec. (g)(4)(E). Pub. L. 96 496, §102(b)(2), added subpar. (E).
+Subsec. (g)(4)(E). Pub. L. 96–496, §102(b)(2), added subpar. (E).
 
-Subsec. (k). Pub. L. 96 496, §102(c), authorized the Chairman to enter into interagency agreements to promote or assist the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and to use funds authorized to be appropriated for the purposes of subsec. (c) of this section for the costs of such activities.
+Subsec. (k). Pub. L. 96–496, §102(c), authorized the Chairman to enter into interagency agreements to promote or assist the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and to use funds authorized to be appropriated for the purposes of subsec. (c) of this section for the costs of such activities.
 
-Subsec. (<i>l</i>). Pub. L. 96 496, §102(d), inserted “, on a national, State, or local level,” and “strengthening quality by” in provisions of par. (1) preceding subpar. (A), redesignated subpars. (D) and (E) as (E) and (F), respectively, and added subpar. (D).
+Subsec. (<i>l</i>). Pub. L. 96–496, §102(d), inserted “, on a national, State, or local level,” and “strengthening quality by” in provisions of par. (1) preceding subpar. (A), redesignated subpars. (D) and (E) as (E) and (F), respectively, and added subpar. (D).
 
-Subsec. (m). Pub. L. 96 496, §102(e), struck out subsec. (m) which related to grants or contracts to State arts agencies for photography and film projects.
+Subsec. (m). Pub. L. 96–496, §102(e), struck out subsec. (m) which related to grants or contracts to State arts agencies for photography and film projects.
 
-1976—Subsec. (c). Pub. L. 94 462, §101, struck out in provisions preceding par. (1) “in the United States” after “provide or support”.
+1976—Subsec. (c). Pub. L. 94–462, §101, struck out in provisions preceding par. (1) “in the United States” after “provide or support”.
 
-Subsec. (g)(4)(A). Pub. L. 94 462, §102, inserted provision that amount of each allotment to a State for any fiscal year shall be available to each State which has a plan approved by the Chairman to pay not more than 50 percent of total cost of any project or production described in subsec. (g)(1).
+Subsec. (g)(4)(A). Pub. L. 94–462, §102, inserted provision that amount of each allotment to a State for any fiscal year shall be available to each State which has a plan approved by the Chairman to pay not more than 50 percent of total cost of any project or production described in subsec. (g)(1).
 
-Subsec. (<i>l</i>). Pub. L. 94 462, §301(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 94–462, §301(a), added subsec. (<i>l).</i>
 
-Subsec. (m). Pub. L. 94 462, §401(a), added subsec. (m).
+Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
-1973—Subsec. (c). Pub. L. 93 133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
+1973—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
 
-Subsec. (g)(1). Pub. L. 93 133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
+Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 
-Subsec. (g)(2). Pub. L. 93 133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted “assistance under this subsection” and “at such time as shall be specified by the Chairman” for “such assistance” and “prior to the first day of such fiscal year” respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
+Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted “assistance underthis subsection” and “at such time as shall be specified by the Chairman” for “such assistance” and “prior to the first day of such fiscal year” respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
 
-Subsec. (g)(3). Pub. L. 93 133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
+Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
 
-Subsec. (g)(4). Pub. L. 93 133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
+Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
 
-Subsec. (g)(5). Pub. L. 93 133, §2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
+Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
 
-1970—Subsec. (b). Pub. L. 91 346, §5(a)(1), designated existing provisions as cl. (1), and, in cl. (1) as so designated, provided for appointment of the Chairman of the National Endowment for the Arts by the President with the advice and consent of the Senate, and added cl. (2).
+1970—Subsec. (b). Pub. L. 91–346, §5(a)(1), designated existing provisions as cl. (1), and, in cl. (1) as so designated, provided for appointment of the Chairman of the National Endowment for the Arts by the President with the advice and consent of the Senate, and added cl. (2).
 
-Subsec. (c)(3). Pub. L. 91 346, §4, expanded grants-in-aid program to enable talented groups or individuals to achieve wider distribution of their works and to work in residence at an educational or cultural institution.
+Subsec. (c)(3). Pub. L. 91–346, §4, expanded grants-in-aid program to enable talented groups or individuals to achieve wider distribution of their works and to work in residence at an educational or cultural institution.
 
-Subsecs. (d) to (<i>l</i>). Pub. L. 91 346, §5(a)(2), struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (<i>l</i>), and all references thereto, as subsecs. (d) to (k), respectively.
+Subsecs. (d) to (<i>l</i>). Pub. L. 91–346, §5(a)(2), struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (<i>l</i>), and all references thereto, as subsecs. (d) to (k), respectively.
 
-Subsec. (g)(2)(A). Pub. L. 91 346, §6, permitted the Commissioner of the District of Columbia to designate a successor to the Recreation Board for the purpose of this chapter.
+Subsec. (g)(2)(A). Pub. L. 91–346, §6, permitted the Commissioner of the District of Columbia to designate a successor to the Recreation Board for the purpose of this chapter.
 
-Subsec. (g)(3). Pub. L. 91 346, §7, provided minimum of $65,000 allotment to each State from sums appropriated for this subsec., authorized remaining funds to be equally allotted among the States, excluded Guam and American Samoa from term “State”, and provided for equal allotments to States if the sums appropriated are insufficient to satisfy the minimum allotment.
+Subsec. (g)(3). Pub. L. 91–346, §7, provided minimum of $65,000 allotment to each State from sums appropriated for this subsec., authorized remaining funds to be equally allotted among the States, excluded Guam and American Samoa from term “State”, and provided for equal allotments to States if the sums appropriated are insufficient to satisfy the minimum allotment.
 
-1968—Subsec. (c). Pub. L. 90 348, §2(a), authorized contracts with groups, or in appropriate cases, individuals engaged in the arts, for the purpose of enabling them to provide or support programs and productions in the arts.
+1968—Subsec. (c). Pub. L. 90–348, §2(a), authorized contracts with groups, or in appropriate cases, individuals engaged in the arts, for the purpose of enabling them to provide or support programs and productions in the arts.
 
-Subsec. (f). Pub. L. 90 348, §2(a), provided that contracts as well as grants made by the National Endowment for the Arts be subject to the amount limitation, and eliminated the provision requiring that groups seeking funds from the National Endowment for the Arts submit evidence to the Endowment that it had attempted unsuccessfully to secure an amount of funds equal to the grant applied for by such group, together with a statement of the proportion which any funds it had secured represent the funds applied for by such group.
+Subsec. (f). Pub. L. 90–348, §2(a), provided that contracts as well as grants made by the National Endowment for the Arts be subject to the amount limitation, and eliminated the provision requiring that groups seeking funds from the National Endowment for the Arts submit evidence to the Endowment that it had attempted unsuccessfully to secure an amount of funds equal to the grant applied for by such group, together with a statement of the proportion which any funds it had secured represent the funds applied for by such group.
 
-Subsec. (h)(3). Pub. L. 90 348, §3, substituted “Funds appropriated to carry out the purpose of this subsection” for “The funds appropriated pursuant to section 960(c) of this title”.
+Subsec. (h)(3). Pub. L. 90–348, §3, substituted “Funds appropriated to carry out the purpose of this subsection” for “The funds appropriated pursuant to section 960(c) of this title”.
 
-Subsec. (h)(5). Pub. L. 90 348, §3, struck out provision that amounts available to the National Endowment for the Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amountsto be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
+Subsec. (h)(5). Pub. L. 90–348, §3, struck out provision that amounts available to the National Endowment for the Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
 
-Subsecs. (j), (k). Pub. L. 90 348, §2(b), inserted “of exceptional talent” after “the group or individual”.
+Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted “of exceptional talent” after “the group or individual”.
 
-1967—Subsec. (d). Pub. L. 90 83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
+1967—Subsec. (d). Pub. L. 90–83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101 512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101 512, set out as a note under section 951 of this title.
+Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
 
 #### Applicability of 1985 Amendment
 
-Section 112 of Pub. L. 99 194 provided that: “The amendments made by sections 105(3) and 107(3) \[amending this section and section 956 of this title\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986.”
+Section 112 of Pub. L. 99–194 provided that: “The amendments made by sections 105(3) and 107(3) \[amending this section and section 956 of this title\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986.”
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93 133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93 133, set out as a note under section 951 of this title.
+Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out as a note under section 951 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 5(a)(1), (2) of Pub. L. 91 346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub. L. 91 346, set out as a note under section 955 of this title.
+Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub. L. 91–346, set out as a note under section 955 of this title.
 
 #### GAO Study Regarding Federal, State, and Local Funding of the Arts
 
-Section 318 \[title I, §111\] of Pub. L. 101 512 provided that:
+Section 318 \[title I, §111\] of Pub. L. 101–512 provided that:
 
 “(a)
 
@@ -412,7 +412,7 @@ Report Required.—Not later than October 1, 1992, the Comptroller General shall
 
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
-Pub. L. 101 121, title III, §304(a) (c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
+Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
 
 #### Cross References
 

@@ -70,7 +70,7 @@ Section 1123(a)(5) of the House amendment is derived from a similar provision in
 
 #### senate report no. 95–989
 
-Subsection (a) specifies what a plan of reorganization must contain. The plan must designate classes of claims and interests, and specify, by class, the claims or interests that are unimpaired under the plan. Priority claims are not required to be classified because they may not have arisen when the plan is filed. The plan must provide the same treatment for each claimor interest of a particular class, unless the holder of a particular claim or interest agrees to a different, but not better, treatment of his claim or interest.
+Subsection (a) specifies what a plan of reorganization must contain. The plan must designate classes of claims and interests, and specify, by class, the claims or interests that are unimpaired under the plan. Priority claims are not required to be classified because they may not have arisen when the plan is filed. The plan must provide the same treatment for each claim or interest of a particular class, unless the holder of a particular claim or interest agrees to a different, but not better, treatment of his claim or interest.
 
 Paragraph (3) applies to claims, not creditors. Thus, if a creditor is undersecured, and thus has a secured claim and an unsecured claim, this paragraph will be applied independently to each of his claims.
 

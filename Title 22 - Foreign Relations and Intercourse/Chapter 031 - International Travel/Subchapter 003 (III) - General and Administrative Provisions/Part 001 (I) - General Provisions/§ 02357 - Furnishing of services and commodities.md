@@ -10,7 +10,7 @@ Whenever the President determines it to be consistent with and in furtherance of
 
 #### (b) Agency contracts with individuals to perform services
 
-When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
+When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States toperform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
 
 #### (c) Excess property
 
@@ -74,6 +74,10 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
+#### Regulations
+
+Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
+
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
@@ -86,9 +90,29 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 Functions of President under this section delegated to Director of United States International Development Cooperation Agency, to be exercised in consultation with Secretary of State, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Regulations Governing Registration and Approval of Foreign Nonprofit Relief Agencies
+#### Delegation of Authority
 
-Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
+Memorandum of President of the United States, Feb. 16, 1995, 60 F.R. 10793, provided:
+
+Memorandum for the Secretary of State \[and\] the Administrator of the Agency for International Development
+
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate as follows certain authorities vested in the President:
+
+(A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator of the Agency for International Development, respectively, for matters within their respective areas of responsibility; and
+
+(B) the functions in the first proviso under the heading “Population, Development Assistance,” contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
+
+The delegations of authority described in subparagraph (A) are in addition to other delegations of such authority to the International Development Cooperation Agency.
+
+The delegation of authority described above in subparagraph (B) shall be exercised in lieu of the delegation of the comparable authority to the Administrator of the Agency for International Development by section 1–102(a)(7) of Executive Order No. 12163, as amended \[22 U.S.C. 2381 note\].
+
+Any reference in this memorandum to any Act, order, determination, or delegation of authority shall be deemed to be a reference to such Act, order, determination, or delegation of authority as amended from time to time.
+
+The functions delegated by this memorandum may be redelegated within the Department of State or the Agency for International Development, as appropriate.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Termination of Advisory Committees
 

@@ -64,7 +64,7 @@ Coordination of Pay and Employment Practices
 
 Panama Canal Commission
 
-1–301. The functions vested in the President and delegated to the Secretary of Defense in this Section 1–3 ofthis Order shall be carried out by the Secretary of Defense, who shall, in carrying out the said functions, provide, by redelegation or otherwise, for their performance, in a manner consistent with paragraph 3 of Article III of the Panama Canal Treaty of 1977, by the Panama Canal Commission.
+1–301. The functions vested in the President and delegated to the Secretary of Defense in this Section 1–3 of this Order shall be carried out by the Secretary of Defense, who shall, in carrying out the said functions, provide, by redelegation or otherwise, for their performance, in a manner consistent with paragraph 3 of Article III of the Panama Canal Treaty of 1977, by the Panama Canal Commission.
 
 1–302. The authority of the President under Section 1104 of the Panama Canal Act of 1979 (93 Stat. 457; 22 U.S.C. 3614) to fix the compensation of and to define the authorities and duties of the Deputy Administrator and the Chief Engineer is delegated to the Secretary of Defense.
 

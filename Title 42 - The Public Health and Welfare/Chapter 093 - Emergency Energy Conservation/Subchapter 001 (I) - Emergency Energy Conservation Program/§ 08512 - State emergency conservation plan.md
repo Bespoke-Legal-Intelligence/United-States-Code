@@ -2,7 +2,7 @@
 
 #### (a) State emergency conservation plans
 
-(1)(A) Not later than 45 days after the date of the publication of an energy conservation targetfor a State under section 8511(b) of this title, the Governor of that State shall submit to the Secretary a State emergency conservation plan designed to meet or exceed the emergency conservation target in effect for that State under section 8511(a) of this title. Such plan shall contain such information as the Secretary may reasonably require. At any time, the Governor may, with the approval of the Secretary, amend a plan established under this section.
+(1)(A) Not later than 45 days after the date of the publication of an energy conservation target for a State under section 8511(b) of this title, the Governor of that State shall submit to the Secretary a State emergency conservation plan designed to meet or exceed the emergency conservation target in effect for that State under section 8511(a) of this title. Such plan shall contain such information as the Secretary may reasonably require. At any time, the Governor may, with the approval of the Secretary, amend a plan established under this section.
 
 (B) The Secretary may, for good cause shown, extend to a specific date the period for the submission of any State's plan under subparagraph (A) if the Secretary publishes in the Federal Register notice of that extension together with the reasons therefor.
 
@@ -52,7 +52,7 @@
 
 (2) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 
-(3) If at any time the conditions of subsection (b)(1)(B)(ii) of this section are no longer satisfied in any State with respect to any measure for which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general's statement.
+(3) If at any time the conditions of subsection (b)(1)(B)(ii) of this section are no longer satisfied in any State with respect to any measure for which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the Presidentof such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general's statement.
 
 (4) Any revocation under paragraph (2) or (3) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such revocation.
 

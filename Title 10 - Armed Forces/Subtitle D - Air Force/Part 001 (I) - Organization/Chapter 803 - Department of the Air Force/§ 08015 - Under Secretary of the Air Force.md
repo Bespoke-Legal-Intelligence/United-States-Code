@@ -1,4 +1,4 @@
-### §8015 . Under Secretary of the Air Force
+### §8015. Under Secretary of the Air Force
 
 (a) There is an Under Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 

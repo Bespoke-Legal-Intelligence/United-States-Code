@@ -10,7 +10,7 @@ All sealed bids or competitive proposals received in response to a solicitation 
 
 #### (c) Opening of bids; promptness of award; written notice
 
-Sealed bids shall be opened publicly at the time and place stated in the solicitation. The executive agency shall evaluate the bids in accordance with subsection (a) of this section without discussions with the bidders and, except as provided in subsection (b) of this section, shall award a contract with reasonable promptness to the responsible source whose bid conforms to the solicitation and is most advantageous to the United States, considering only price and the other price-related factors included in the solicitation. The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
+Sealed bids shall be opened publicly at the time and place stated in the solicitation. The executive agency shall evaluate the bids in accordance with subsection (a) of this section without discussions with the bidders and, except as provided in subsection (b) of this section, shall award a contract with reasonable promptness to the responsible source whose bid conforms to the solicitation and is most advantageous to the United States, considering only price and the other price-related factors included in the solicitation. The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means,each bidder not awarded the contract that the contract has been awarded.
 
 #### (d) Discussions with offerors; written notification
 
@@ -66,7 +66,7 @@ If the agency head considers that a bid or proposal evidences a violation of the
 
 &emsp;(ii) With respect to items that are likely to be required in substantial quantities during the system's service life, proposals to incorporate in the design of the major system items which the United States will be able to acquire competitively in the future.
 
-(2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+(2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system isbeing procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 (B) The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
@@ -137,6 +137,30 @@ Section applicable with respect to any solicitation for bids or proposals issued
 #### Small Business Act
 
 Section not to affect or supersede the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2711(c) of Pub. L. 98–369, set out as a note under section 253 of this title.
+
+#### Ex. Ord. No. 12979. Agency Procurement Protests
+
+Ex. Ord. No. 12979, Oct. 25, 1995, 60 F.R. 55171, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure effective and efficient expenditure of public funds and fair and expeditious resolution of protests to the award of Federal procurement contracts, it is hereby ordered as follows:
+
+Section 1. Heads of executive departments and agencies (“agencies”) engaged in the procurement of supplies and services shall prescribe administrative procedures for the resolution of protests to the award of their procurement contracts as an alternative to protests in fora outside the procuring agencies. Procedures prescribed pursuant to this order shall:
+
+(a) emphasize that whenever conduct of a procurement is contested, all parties should use their best efforts to resolve the matter with agency contracting officers;
+
+(b) to the maximum extent practicable, provide for inexpensive, informal, procedurally simple, and expeditious resolution of protests, including, where appropriate and as permitted by law, the use of alternative dispute resolution techniques, third party neutrals, and another agency's personnel;
+
+(c) allow actual or prospective bidders or offerors whose direct economic interests would be affected by the award or failure to award the contract to request a review, at a level above the contracting officer, of any decision by a contracting officer that is alleged to have violated a statute or regulation and, thereby, caused prejudice to the protester; and
+
+(d) except where immediate contract award or performance is justified for urgent and compelling reasons or is determined to be in the best interest of the United States, prohibit award or performance of the contract while a timely filed protest is pending before the agency. To allow for the withholding of a contract award or performance, the agency must have received notice of the protest within either 10 calendar days after the contract award or 5 calendar days after the bidder or offeror who is protesting the contract award was given the opportunity to be debriefed by the agency, whichever date is later.
+
+Sec. 2. The Administrator for Federal Procurement Policy shall: (a) work with the heads of executive agencies to provide policy guidance and leadership necessary to implement provisions of this order; and
+
+(b) review and evaluate agency experience and performance under this order, and report on any findings to the President within 2 years from the date of this order.
+
+Sec. 3. The Administrator of General Services, the Secretary of Defense, and the Administrator of the National Aeronautics and Space Administration, in coordination with the Office of Federal Procurement Policy, shall amend the Federal Acquisition Regulation, 48 C.F.R. 1, within 180 days of the date of this order to further the purposes of this order.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 

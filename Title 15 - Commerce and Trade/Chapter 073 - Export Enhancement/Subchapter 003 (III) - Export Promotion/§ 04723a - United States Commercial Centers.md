@@ -74,9 +74,7 @@ The Secretary of Commerce shall, to the greatest extent feasible, use the Market
 
 There are authorized to be appropriated to the Secretary of Commerce to carry out this section $8,000,000 for fiscal year 1993, and $5,500,000 for fiscal year 1994. Funds made available under this subsection may be used for the acquisition of real property.
 
-#### (j) Reports to Congress
-
-The Secretary of Commerce shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 1 year after October 28, 1992, and not later than the end of each 1-year period occurring thereafter, a report on the status, activities, and effectiveness of the Centers. Each such report shall include any recommendations with respect to the program established under this section.
+#### (j) Repealed. Pub. L. 104–66, title I, §1021(b), Dec. 21, 1995, 109 Stat. 712
 
 #### (k) Definitions
 
@@ -96,13 +94,17 @@ For purposes of this section—
 
 &emsp;(3) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 102 549, title IV, §401, Oct. 28, 1992, 106 Stat. 3661.)
+(Pub. L. 102–549, title IV, §401, Oct. 28, 1992, 106 Stat. 3661; Pub. L. 104–66, title I, §1021(b), Dec. 21, 1995, 109 Stat. 712.)
 
 #### Codification
 
 Section was enacted as part of the Jobs Through Exports Act of 1992, and not as part of the Export Enhancement Act of 1988 which enacted this chapter.
 
-#### Change of Name
+#### Amendments
 
-Committee on Foreign Affairs of House of Representatives changed to Committee on International Relations of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+1995—Subsec. (j). Pub. L. 104–66 struck out heading and text of subsec. (j). Text read as follows: “The Secretary of Commerce shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 1 year after October 28, 1992, and not later than the end of each 1-year period occurring thereafter, a report on the status, activities, and effectiveness of the Centers. Each such report shall include any recommendations with respect to the program established under this section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4729 of this title.
 

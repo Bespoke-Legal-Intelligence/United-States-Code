@@ -20,7 +20,7 @@
 
 &emsp;(A) a comprehensive analysis of the air quality, global climate change, and other positive and negative environmental impacts, if any, including fuel displacement effects, associated with the production, storage, distribution, and use of all alternative motor vehicle fuels under this part, as compared to gasoline and diesel fuels; and
 
-&emsp;(B) an extended reasonable forecast of the change, if any, in air quality, global climate change, and other environmental effects of producing, storing, distributing, and using alternative motor vehicle fuels, utilizing such reasonable energy security, policy, economic, and other scenarios as may be appropriate.
+&emsp;(B) an extended reasonable forecast of the change, if any, in air quality, global climate change, and other environmental effects ofproducing, storing, distributing, and using alternative motor vehicle fuels, utilizing such reasonable energy security, policy, economic, and other scenarios as may be appropriate.
 
 (2) In carrying out the study under this subsection, the Administrator of the Environmental Protection Agency shall consult with the Secretaries of Energy and Transportation. Nothing in this paragraph shall be construed to require such Administrator to obtain the approval of the Secretary of Energy or the Secretary of Transportation for any actions taken under this subsection.
 
@@ -38,5 +38,5 @@ This part, referred to in subsec. (b)(1)(A), was in the original “the Alternat
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

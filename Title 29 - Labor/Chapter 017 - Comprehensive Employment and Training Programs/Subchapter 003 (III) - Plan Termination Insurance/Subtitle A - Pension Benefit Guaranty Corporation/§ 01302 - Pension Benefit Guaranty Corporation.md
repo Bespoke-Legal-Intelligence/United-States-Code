@@ -54,7 +54,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (h) Advisory committee to corporation
 
-(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, and (D) such other issues as the corporation may request from time totime. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee.
+(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, and (D) such other issues as the corporation may request from time to time. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee.
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
@@ -100,7 +100,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1980 Amendment
 

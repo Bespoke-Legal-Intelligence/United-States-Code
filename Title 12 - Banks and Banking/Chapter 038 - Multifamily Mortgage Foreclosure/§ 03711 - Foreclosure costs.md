@@ -4,7 +4,7 @@ The following foreclosure costs shall be paid from the sale proceeds prior to sa
 
 &emsp;(1) necessary advertising costs and postage incurred in giving notice pursuant to sections 3708 and 3710 of this title;
 
-&emsp;(2) mileage for posting notices and for the foreclosure commissioner's attendance at thesale at the rate provided in section 1921 of title 28 for mileage by the most reasonable road distance;
+&emsp;(2) mileage for posting notices and for the foreclosure commissioner's attendance at the sale at the rate provided in section 1921 of title 28 for mileage by the most reasonable road distance;
 
 &emsp;(3) reasonable and necessary costs actually incurred in connection with any necessary search of title and lien records;
 

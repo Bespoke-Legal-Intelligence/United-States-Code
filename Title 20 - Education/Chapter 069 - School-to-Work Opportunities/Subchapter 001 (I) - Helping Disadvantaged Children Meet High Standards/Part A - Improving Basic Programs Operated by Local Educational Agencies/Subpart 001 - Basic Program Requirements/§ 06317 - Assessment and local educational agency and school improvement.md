@@ -36,7 +36,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;(A) Each school identified under paragraph (1) shall—
 
-&emsp;&emsp;(i) in consultation with parents, the local educational agency, and the school support team, develop or revise a school plan in ways that have the greatest likelihood of improving the performance of participating children in meeting the State's student performance standards, which may include reviewing the schools’ plan in the context of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]; and
+&emsp;&emsp;(i) in consultation with parents, the local educational agency, and the school support team, develop or revise a school plan in ways that have the greatest likelihood of improving the performance of participating children in meeting the State's student performance standards, which may include reviewing the schools’ plan in the context of theopportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]; and
 
 &emsp;&emsp;(ii) submit the plan or revised plan to the local educational agency for approval.
 
@@ -86,7 +86,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;(ii) Notwithstanding clause (i), corrective actions taken pursuant to this part shall not include the actions described in subclause (I), (III), (IV), (VI), or (VII) of clause (i) until the State has developed assessments that meet the requirements of subparagraph (C) of section 6311(b)(3) of this title.
 
-&emsp;(C) Prior to implementing any corrective action, the local educational agency may refrain from such corrective action for one additional year to the extent that the failure to makeprogress can be attributed to extenuating circumstances as determined by the local educational agency.
+&emsp;(C) Prior to implementing any corrective action, the local educational agency may refrain from such corrective action for one additional year to the extent that the failure to make progress can be attributed to extenuating circumstances as determined by the local educational agency.
 
 &emsp;(D) A school that is no longer operating its schoolwide program due to a corrective action may not resume operation of such a program until the local educational agency determines that the school has adequately reformed its schoolwide program plan to enable the school to make adequate progress toward meeting the State's challenging student performance standards.
 
@@ -96,7 +96,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;&emsp;(A) make technical assistance under section 6318 of this title available to the schools farthest from meeting the State's challenging student performance standards, if requested by the school or local educational agency; and
 
-&emsp;&emsp;(B) if such agency determines that a local educational agency failed to carry out the local educational agency's responsibilities under paragraphs (4) and (5), take such corrective actions as the State educational agency deems appropriate and which are in compliance with State law.
+&emsp;&emsp;(B) if such agency determines that a local educational agency failed to carry out the local educational agency's responsibilities under paragraphs (4) and (5), take such corrective actions as the State educationalagency deems appropriate and which are in compliance with State law.
 
 #### (7) Special rule
 
@@ -184,13 +184,13 @@ Each State educational agency and local educational agency receiving funds under
 
 Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded school or school district employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
 
-(Pub. L. 89 10, title I, §1116, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3542.)
+(Pub. L. 89–10, title I, §1116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542.)
 
 #### References in Text
 
-Section 1020 of the Elementary and Secondary Education Act of 1965 (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (c)(1)(A), means section 1020 of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 164, which was classified to section 2730 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Section 1020 of the Elementary and Secondary Education Act of 1965 (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (c)(1)(A), means section 1020 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 164, which was classified to section 2730 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
-The Goals 2000: Educate America Act, referred to in subsecs. (c)(2)(A)(i), (5)(B)(i)(VIII) and (d)(4)(B), (6)(B)(i)(IV), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (c)(2)(A)(i), (5)(B)(i)(VIII) and (d)(4)(B), (6)(B)(i)(IV), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

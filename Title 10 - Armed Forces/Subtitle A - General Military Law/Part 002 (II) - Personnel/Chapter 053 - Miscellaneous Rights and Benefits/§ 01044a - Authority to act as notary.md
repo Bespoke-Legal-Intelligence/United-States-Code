@@ -1,6 +1,6 @@
 ### §1044a. Authority to act as notary
 
-(a) The persons named in subsection (b) have the general powers of a notary public and of aconsul of the United States in the performance of all notarial acts to be executed by any of the following:
+(a) The persons named in subsection (b) have the general powers of a notary public and of a consul of the United States in the performance of all notarial acts to be executed by any of the following:
 
 &emsp;(1) Members of any of the armed forces.
 

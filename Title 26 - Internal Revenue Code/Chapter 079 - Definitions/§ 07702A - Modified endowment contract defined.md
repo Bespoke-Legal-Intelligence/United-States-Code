@@ -24,7 +24,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 &emsp;&emsp;(A) as of the time the contract is issued, and
 
-&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
+&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other thanparagraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
 
 #### (2) Reduction in benefits during 1st 7 years
 
@@ -34,7 +34,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 #### (B) Reductions attributable to nonpayment of premiums
 
-&emsp;&emsp;Any reduction in benefits attributable to the nonpayment of premiums due under the contract shall not be taken into accountunder subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
+&emsp;&emsp;Any reduction in benefits attributable to the nonpayment of premiums due under the contract shall not be taken into account under subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
 
 #### (3) Treatment of material changes
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (C) Interest returned includible in gross income
 
-&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned as provided in subparagraph (B) shall be includible in the gross income of the recipient.
+&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned asprovided in subparagraph (B) shall be includible in the gross income of the recipient.
 
 #### (2) Contract year
 

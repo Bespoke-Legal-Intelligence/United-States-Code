@@ -48,7 +48,7 @@ Subject to section 2082(d) of this title and subsection (b) of this section, a p
 
 #### (c) Order of precedence of payment
 
-A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) <sup>1</sup> of this title and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon establishment of a valid claim therefor, and such payment bars recovery by any other individual:
+A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) <sup>1</sup> of thistitle and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon establishment of a valid claim therefor, and such payment bars recovery by any other individual:
 
 &emsp;(1) To the beneficiary or beneficiaries designated by such participant in a signed and witnessed writing received by the Director before the participant's death. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed with the Director shall have no force or effect.
 
@@ -82,7 +82,7 @@ If a retired participant dies, any annuity accrued and unpaid shall be paid in a
 
 #### (g) Termination of survivor annuity
 
-An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death ofa survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
+An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
 
 &emsp;(1) To the duly appointed executor or administrator of the estate of the survivor annuitant.
 

@@ -1,4 +1,4 @@
-### §8301 . Uniform retirement date
+### §8301. Uniform retirement date
 
 (a) Except as otherwise specifically provided by this title or other statute, retirement authorized by statute is effective on the first day of the month following the month in which retirement would otherwise be effective.
 

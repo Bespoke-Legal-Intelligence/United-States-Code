@@ -6,15 +6,15 @@ The allowance for stationery for each Member of the House of Representatives, De
 
 #### Amendments
 
-1967—An additional allowance of $600 for stationery was authorized by House Resolution No. 1029, Oct. 5, 1966, which was continued by House Resolution No. 112, Mar. 8, 1967, and enacted into permanent law by Pub. L. 90–21.
+1967—An additional allowance of $600 for stationery was authorized by House Resolution No. 1029, Oct. 5,1966, which was continued by House Resolution No. 112, Mar. 8, 1967, and enacted into permanent law by Pub. L. 90–21.
 
 1964—An additional allowance of $600 for stationery was authorized by House Resolution No. 533, Oct. 2, 1963, which was enacted into permanent law by Pub. L. 88–454.
 
 1960—Pub. L. 86–628 increased stationery allowance from $1,200 to $1,800.
 
-#### Similar Provisions
+#### Prior Provisions
 
-Similar provisions were contained in the following prior acts:
+Provisions similar to those in this section were contained in the following prior acts:
 
 Aug. 1, 1953, ch. 304, title I, 67 Stat. 324.
 

@@ -16,7 +16,7 @@ Any person elected as a member of the Executive Committee to fill a vacancy occu
 
 The Executive Committee shall render an annual report to the Board, and such other reports as it may deem necessary, summarizing its activities and making such recommendations as it may deem appropriate. Minority views and recommendations, if any, of members of the Executive Committee shall be included in such reports.
 
-(May 10, 1950, ch. 171, §7, formerly §6, 64 Stat. 151; Sept. 8, 1959, Pub. L. 86–232, §4, 73 Stat. 467;renumbered and amended July 18, 1968, Pub. L. 90–407, §§4, 5, 82 Stat. 363, 364.)
+(May 10, 1950, ch. 171, §7, formerly §6, 64 Stat. 151; Sept. 8, 1959, Pub. L. 86–232, §4, 73 Stat. 467; renumbered and amended July 18, 1968, Pub. L. 90–407, §§4, 5, 82 Stat. 363, 364.)
 
 #### Amendments
 

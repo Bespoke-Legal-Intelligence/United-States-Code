@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 &emsp;(i) the Secretary of the department in which the National Oceanic and Atmospheric Administration is operating, as to all responsibility, authority, funding, and duties under this chapter with respect to members of the order Cetacea and members, other than walruses, of the order Pinnipedia, and
 
-&emsp;(ii) the Secretary of the Interior as to all responsibility, authority, funding, and dutiesunder this chapter with respect to all other marine mammals covered by this chapter.
+&emsp;(ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
 (B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter the term “Secretary” means the Secretary of Commerce.
 
@@ -106,7 +106,7 @@ For the purposes of this chapter—
 
 (27) The term “minimum population estimate” means an estimate of the number of animals in a stock that—
 
-&emsp;(A) is based on the best available scientific information on abundance, incorporating the precision and variability associated with such information; and
+&emsp;(A) is based on the best available scientific information on abundance, incorporating theprecision and variability associated with such information; and
 
 &emsp;(B) provides reasonable assurance that the stock size is equal to or greater than the estimate.
 
@@ -114,7 +114,7 @@ For the purposes of this chapter—
 
 #### Amendment of Paragraph (15)
 
-<i>Pub. L. 102–251, title III, §§304, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on</i><i>the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (15) is amended to read as follows:</i>
+<i>Pub. L. 102–251, title III, §§304, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (15) is amended to read as follows:</i>
 
 (15) The term “waters under the jurisdiction of the United States” means—
 

@@ -12,7 +12,7 @@ For the purposes of this title the term “operational files” means—
 
 &emsp;(2) files of the Directorate for Science and Technology which document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems; and
 
-&emsp;(3) files of the Office of Security which document investigations conducted to determine the suitability of potential foreign intelligence or counterintelligence sources;
+&emsp;(3) files of the Office of Personnel Security which document investigations conducted to determine the suitability of potential foreign intelligence or counterintelligence sources;
 
 > except that files which are the sole repository of disseminated intelligence are not operational files.
 
@@ -20,7 +20,7 @@ For the purposes of this title the term “operational files” means—
 
 Notwithstanding subsection (a) of this section, exempted operational files shall continue to be subject to search and review for information concerning—
 
-&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who haverequested information on themselves pursuant to the provisions of section 552 of title 5 (Freedom of Information Act) or section 552a of title 5 (Privacy Act of 1974);
+&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 of title 5 (Freedom of Information Act) or section 552a of title 5 (Privacy Act of 1974);
 
 &emsp;(2) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5 (Freedom of Information Act); or
 
@@ -54,15 +54,19 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
 
-&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
+&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because offailure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
 
 &emsp;(7) if at any time following the filing of a complaint pursuant to this subsection the Central Intelligence Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
-(July 26, 1947, ch. 343, title VII, §701, as added Oct. 15, 1984, Pub. L. 98–477, §2(a), 98 Stat. 2209.)
+(July 26, 1947, ch. 343, title VII, §701, as added Oct. 15, 1984, Pub. L. 98–477, §2(a), 98 Stat. 2209; amended Jan. 6, 1996, Pub. L. 104–93, title VII, §702, 109 Stat. 978.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(5), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
 
 #### Effective Date
 

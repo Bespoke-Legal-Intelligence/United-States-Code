@@ -2,7 +2,7 @@
 
 The Administrator of the United States Fire Administration (hereafter in sections 2223a to 2223e of this title referred to as the “Administrator”) shall conduct a review of existing response information used by emergency response personnel at the State and local levels to evaluate its accuracy and consistency, and to determine whether it is properly expressed. Such information should clearly communicate to emergency response personnel the probable hazards which they must contend with in an emergency situation involving hazardous materials, and the appropriate response to those hazards.
 
-(Pub. L. 101 446, §2, Oct. 22, 1990, 104 Stat. 1045.)
+(Pub. L. 101–446, §2, Oct. 22, 1990, 104 Stat. 1045.)
 
 #### Codification
 
@@ -10,7 +10,7 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 #### Short Title
 
-Section 1 of Pub. L. 101 446 provided that: “This Act \[enacting this section and sections 2223b to 2223e of this title\] may be cited as the ‘Firefighters’ Safety Study Act’.”
+Section 1 of Pub. L. 101–446 provided that: “This Act \[enacting this section and sections 2223b to 2223e of this title\] may be cited as the ‘Firefighters’ Safety Study Act’.”
 
 #### Section Referred to in Other Sections
 

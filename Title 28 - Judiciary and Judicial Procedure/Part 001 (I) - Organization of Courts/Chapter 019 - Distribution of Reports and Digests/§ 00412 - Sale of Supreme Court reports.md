@@ -1,0 +1,28 @@
+### §412. Sale of Supreme Court reports
+
+The Public Printer, or other printer designated by the Supreme Court of the United States shall print such additional bound volumes and preliminary prints of such reports as may be required for sale to the public. Such additional copies shall be sold by the Superintendent of Documents, as provided by law.
+
+(June 25, 1948, ch. 646, 62 Stat. 906; July 10, 1952, ch. 632, §5, 66 Stat. 541.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §335 (Mar. 3, 1911, ch. 231, §228, 36 Stat. 1155; July 1, 1922, ch. 267, §4, 42 Stat. 818; May 29, 1926, ch. 425, §2, 44 Stat. 677).
+
+Authority for making an appropriation to carry into effect the provisions of this section is contained in section 336 of title 28, U.S.C., 1940 ed., acts July 1, 1922, ch. 267, §5, 42 Stat. 818; May 29, 1926, ch. 425, §3, 44 Stat. 678, which is omitted, but not repealed, as unnecessary in this revision.
+
+Reference to digests was omitted to conform to administrative practice. (See section 604(a)(9) of this title.)
+
+Changes were made in phraseology.
+
+#### Amendments
+
+1952—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
+
+#### Cross References
+
+Prices for bound volumes of its decisions, printed by a private printer, to be fixed by Supreme Court or Chief Justice, see section 676 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 676 of this title.
+

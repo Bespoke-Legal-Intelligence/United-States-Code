@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) identifies those navigable waters within the State which, without additional action to control nonpoint sources of pollution, cannot reasonably be expected to attain or maintain applicable water quality standards or the goals and requirements of this chapter;
 
-&emsp;&emsp;(B) identifies those categories and subcategories of nonpoint sources or, where appropriate, particular nonpoint sources which add significant pollution to each portion ofthe navigable waters identified under subparagraph (A) in amounts which contribute to such portion not meeting such water quality standards or such goals and requirements;
+&emsp;&emsp;(B) identifies those categories and subcategories of nonpoint sources or, where appropriate, particular nonpoint sources which add significant pollution to each portion of the navigable waters identified under subparagraph (A) in amounts which contribute to such portion not meeting such water quality standards or such goals and requirements;
 
 &emsp;&emsp;(C) describes the process, including intergovernmental coordination and public participation, for identifying best management practices and measures to control each category and subcategory of nonpoint sources and, where appropriate, particular nonpoint sources identified under subparagraph (B) and to reduce, to the maximum extent practicable, the level of pollution resulting from such category, subcategory, or source; and
 
@@ -52,7 +52,7 @@
 
 #### (1) Cooperation requirement
 
-&emsp;Any report required by subsection (a) of this section and any management program and report required by subsection (b) of this sectionshall be developed in cooperation with local, substate regional, and interstate entities which are actively planning for the implementation of nonpoint source pollution controls and have either been certified by the Administrator in accordance with section 1288 of this title, have worked jointly with the State on water quality management planning under section 1285(j) of this title, or have been designated by the State legislative body or Governor as water quality management planning agencies for their geographic areas.
+&emsp;Any report required by subsection (a) of this section and any management program and report required by subsection (b) of this section shall be developed in cooperation with local, substate regional, and interstate entities which are actively planning for the implementation of nonpoint source pollution controls and have either been certified by the Administrator in accordance with section 1288 of this title, have worked jointly with the State on water quality management planning under section 1285(j) of this title, or have been designated by the State legislative body or Governor as water quality management planning agencies for their geographic areas.
 
 #### (2) Time period for submission of reports and management programs
 
@@ -136,7 +136,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (7) Limitation on use of funds
 
-&emsp;States may use funds from grants made pursuant to this section for financial assistance to persons only to the extent that such assistance is related to the costs of demonstration projects.
+&emsp;States may use funds from grants made pursuant to this section for financial assistanceto persons only to the extent that such assistance is related to the costs of demonstration projects.
 
 #### (8) Satisfactory progress
 
@@ -226,7 +226,7 @@ The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives changed to Committee on Transportation and Infrastructure of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

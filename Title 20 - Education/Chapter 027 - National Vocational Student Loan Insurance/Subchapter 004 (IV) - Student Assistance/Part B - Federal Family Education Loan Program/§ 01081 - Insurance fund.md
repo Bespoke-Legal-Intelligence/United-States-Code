@@ -8,29 +8,29 @@ There is hereby established a student loan insurance fund (hereinafter in this s
 
 If at any time the moneys in the fund are insufficient to make payments in connection with the default of any loan insured by the Secretary under this part, or in connection with any guaranty agreement made under section 1078(c) of this title, the Secretary is authorized, to the extent provided in advance by appropriations Acts, to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter, are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under the subsection shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from such fund.
 
-(Pub. L. 89 329, title IV, §431, as added Pub. L. 99 498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1400; amended Pub. L. 100 50, §10(w), June 3, 1987, 101 Stat. 346.)
+(Pub. L. 89–329, title IV, §431, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1400; amended Pub. L. 100–50, §10(w), June 3, 1987, 101 Stat. 346.)
 
 #### Codification
 
-In subsec. (b), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended”, respectively, on authority of Pub. L. 97 258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions
 
-A prior section 1081, Pub. L. 89 329, title IV, §431, Nov. 8, 1965, 79 Stat. 1245; Pub. L. 90 460, §3(c), Aug. 3, 1968, 82 Stat. 638; Pub. L. 94 482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2126; Pub. L. 96 374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to a student loan insurance fund, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1081, Pub. L. 89–329, title IV, §431, Nov. 8, 1965, 79 Stat. 1245; Pub. L. 90–460, §3(c), Aug. 3, 1968, 82 Stat. 638; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2126; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to a student loan insurance fund, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100 50 substituted “section 1072 of this title” for “section 1072(a)(4)(C) of this title”.
+1987—Subsec. (a). Pub. L. 100–50 substituted “section 1072 of this title” for “section 1072(a)(4)(C) of this title”.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Transfer of Assets and Liabilities of the Vocational Student Loan Insurance Fund
 
-All assets and liabilities of the vocational student loan insurance fund transferred to the student loan insurance fund, see section 116(c)(2) of Pub. L. 90 575, set out as a note under former section 981 et seq. of this title.
+All assets and liabilities of the vocational student loan insurance fund transferred to the student loan insurance fund, see section 116(c)(2) of Pub. L. 90–575, set out as a note under former section 981 et seq. of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1071, 1072, 1078, 1078 3, 1087 1, 1087 2 of this title.
+This section is referred to in sections 1071, 1072, 1078, 1078–3, 1087–1, 1087–2 of this title.
 

@@ -6,7 +6,7 @@ The Commissioner shall make grants under this section to States on a formula bas
 
 #### (b) Application
 
-To be eligible to receive a grant under this section, the chief executive officer of a Stateshall prepare and submit to the Commissioner an application containing a plan providing assurances that—
+To be eligible to receive a grant under this section, the chief executive officer of a State shall prepare and submit to the Commissioner an application containing a plan providing assurances that—
 
 &emsp;(1) the independent State body is committed to interagency planning that results in statewide policies promoting systematic collaboration among agencies on behalf of young individuals as demonstrated by joint planning, joint financing, joint service delivery, common intake and assessment, and other arrangements that reduce barriers to services and promote more effective local service delivery systems for young individuals;
 
@@ -74,7 +74,7 @@ Amounts received by a State under this section and section 12338 of this title s
 
 #### (f) Relationship to family resource and support program grants
 
-If a State intends to apply for a grant under section 12339 <sup>2</sup> of this title to be used for the same calendar year as the grant under this section, such State shall include in the application for a grant under this section a description of plans for family resource and support programs and for the coordination of the use of all funds received under this part.
+If a State intends to apply for a grant under section 12339 <sup>2</sup> of this title to be used for the same calendar year as the grant under this section, such State shall include in the application for a grant under this section a description of plans for family resource and support programsand for the coordination of the use of all funds received under this part.
 
 (Pub. L. 101–501, title IX, §931, Nov. 3, 1990, 104 Stat. 1271.)
 

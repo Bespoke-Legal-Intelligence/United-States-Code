@@ -6,5 +6,5 @@ The President shall establish standards and criteria for credit and guaranty tra
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, with prior concurrence of Secretary of Defense and Secretary of the Treasury required to extent standards and criteria for credit and guaranty transactions are based upon national security or financial policies, by section 1(h) of Ex. Ord. No.11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section delegated to Secretary of State, with prior concurrence of Secretary of Defense and Secretary of the Treasury required to extent standards and criteria for credit and guaranty transactions are based upon national security or financial policies, by section 1(h) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

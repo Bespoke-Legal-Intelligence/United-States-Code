@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(C) the enactment of such bill or resolution in the form recommended in such conference report,
 
-> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficitamount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
+> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficit amount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
 
 #### (6) Treatment of certain amendments
 
@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), in the Senate the provisions of sections 636 and 641 of this title for the consideration of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration of resolutions, and reconciliation bills and reconciliation resolutions reported under this paragraph and conference reports thereon.
+&emsp;Except as provided in paragraph (2), in the Senate the provisions of sections 636 and 641 of this title for the consideration of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration of resolutions, and reconciliation billsand reconciliation resolutions reported under this paragraph and conference reports thereon.
 
 #### (2) Limit on debate
 

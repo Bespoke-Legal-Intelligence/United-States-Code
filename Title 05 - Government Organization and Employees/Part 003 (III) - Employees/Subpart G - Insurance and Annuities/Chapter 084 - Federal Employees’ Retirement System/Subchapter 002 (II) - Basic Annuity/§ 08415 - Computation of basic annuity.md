@@ -20,7 +20,7 @@
 
 (2) For the purpose of this subsection, employment on a part-time basis shall not be considered to include employment on a temporary or intermittent basis.
 
-(f)(1) The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for eachfull month by which the commencement date of the annuity precedes the sixty-second anniversary of the birth of the employee or Member.
+(f)(1) The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for each full month by which the commencement date of the annuity precedes the sixty-second anniversary of the birth of the employee or Member.
 
 (2)(A) Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(2), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
 
@@ -40,9 +40,9 @@
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
-1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+<b>1986</b>—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
 
 #### Clarification Relating to Consideration of Pre-1987 Service as an Air Traffic Controller for Retirement Purposes
 

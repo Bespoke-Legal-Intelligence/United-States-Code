@@ -6,7 +6,7 @@ Within 180 days of November 1, 1978, the Secretary shall develop, publish in the
 
 #### Codification
 
-“November 1, 1978”, substituted in text for “the date of enactment of this Act”, which was translated asmeaning the date of enactment of Pub. L. 95–561, which enacted this chapter.
+“November 1, 1978”, substituted in text for “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 95–561, which enacted this chapter.
 
 #### Prior Provisions
 

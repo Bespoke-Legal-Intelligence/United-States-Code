@@ -158,33 +158,33 @@ In subsections (a) and (b), the words “is entitled to” are substituted for �
 
 #### References in Text
 
-Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to section 450i(e)(2) of Title 25, Indians.Section 105 of that Act is classified to section 450j of Title 25.
+Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to section 450i(e)(2) of Title 25, Indians. Section 105 of that Act is classified to section 450j of Title 25.
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
 
 #### Amendments
 
-1994—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+<b>1994</b>—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-1992—Subsec. (k). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
+<b>1992</b>—Subsec. (k). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
 
-1990—Subsec. (i)(3), (4). Pub. L. 101–510 added par. (3) and redesignated former par. (3) as (4).
+<b>1990</b>—Subsec. (i)(3), (4). Pub. L. 101–510 added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (k). Pub. L. 101–650 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge or United States magistrate who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge or United States magistrate, is entitled to an annuity.”
 
 Subsecs. (m), (n). Pub. L. 101–428 added subsec. (m) and redesignated former subsec. (m) as (n).
 
-1989—Subsec. (h)(1). Pub. L. 101–194, §506(b)(7)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+<b>1989</b>—Subsec. (h)(1). Pub. L. 101–194, §506(b)(7)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
 Subsec. (h)(2), (3). Pub. L. 101–194, §506(b)(7)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
-1988—Subsec. (h)(3). Pub. L. 100–325 added par. (3).
+<b>1988</b>—Subsec. (h)(3). Pub. L. 100–325 added par. (3).
 
-1987—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
+<b>1987</b>—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
 
-1985—Subsec. (j)(3)(A). Pub. L. 99–190 substituted “10 years” for “5 years”.
+<b>1985</b>—Subsec. (j)(3)(A). Pub. L. 99–190 substituted “10 years” for “5 years”.
 
-1984—Subsec. (d). Pub. L. 98–615 inserted provision that for purposes of par. (1), separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency.
+<b>1984</b>—Subsec. (d). Pub. L. 98–615 inserted provision that for purposes of par. (1), separation for failure to accept a directed reassignment to a position outsidethe commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency.
 
 Subsec. (k). Pub. L. 98–353, §116(c), added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
 
@@ -194,13 +194,13 @@ Pub. L. 98–353, §116(c)(1), redesignated subsec. (k) as (<i>l).</i>
 
 Subsec. (m). Pub. L. 98–531 redesignated the subsec. (<i>l</i>), which was redesignated by Pub. L. 98–94, as (m).
 
-1983—Subsecs. (k), (<i>l</i>). Pub. L. 98–94 added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+<b>1983</b>—Subsecs. (k), (<i>l</i>). Pub. L. 98–94 added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
 
-1982—Subsec. (d). Pub. L. 97–253, §308(a), inserted provision that the agency which is undergoing a major reorganization, a major reduction in force, or a major transfer of function must have a significant percent of its employees who will be separated or subject to an immediate reduction in the rate of basic pay and inserted provision that notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
+<b>1982</b>—Subsec. (d). Pub. L. 97–253, §308(a), inserted provision that the agency which is undergoing a major reorganization, a major reduction in force, or a major transfer of function must have a significant percent of its employees who will be separated or subject to an immediate reduction in the rate of basic pay and inserted provision that notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
-1981—Subsec. (h). Pub. L. 97–89 designated existing provisions as par. (1) and added par. (2).
+<b>1981</b>—Subsec. (h). Pub. L. 97–89 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (c). Pub. L. 96–70 §1241(a)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1979</b>—Subsec. (c). Pub. L. 96–70 §1241(a)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (i). Pub. L. 96–70, §1241(a)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -210,17 +210,17 @@ Pub. L. 96–70, §1241(a)(2), redesignated former subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 96–135 redesignated former subsec. (j) as (k).
 
-1978—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, or transfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
+<b>1978</b>—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, or transfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
 
 Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1975—Subsecs. (d), (g). Pub. L. 94–183 substituted “an” for “a reduced” after “is entitled to”.
+<b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted “an” for “a reduced” after “is entitled to”.
 
-1974—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining “detention” to include the duties of specified employees.
+<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining “detention” to include the duties of specified employees.
 
-1973—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
+<b>1973</b>—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
 
-1972—Subsec. (c). Pub. L. 92–382 inserted reference to employees performing work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment for the purpose of retirement benefits.
+<b>1972</b>—Subsec. (c). Pub. L. 92–382 inserted reference to employees performing work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment for the purpose of retirement benefits.
 
 Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankrupt
 
 #### Effective Date of 1984 Amendments
 
-Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3135 of this title.
+Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 Amendment by Pub. L. 98–531 effective Mar. 31, 1984, see section 3(b) of Pub. L. 98–531, set out as a note under section 8331 of this title.
 
@@ -272,7 +272,7 @@ Section 1241(b)(1) of Pub. L. 96–70 provided that: “The amendments made by t
 
 Amendment by section 306 of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review ofprovisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -8,7 +8,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(2) result in debt reduction for each participating country tailored to the particular situation of each country;
 
-&emsp;(3) provide assistance to participating countries conditioned on the implementation ofeconomic reforms, and the preservation of economic reforms previously implemented, by the country that are consistent with the principles of sustainable development;
+&emsp;(3) provide assistance to participating countries conditioned on the implementation of economic reforms, and the preservation of economic reforms previously implemented, by the country that are consistent with the principles of sustainable development;
 
 &emsp;(4) encourage participating countries to make economic adjustments steadily and over a period of time in order to achieve policy reform;
 
@@ -54,7 +54,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives changed to Committee on Banking and Financial Services of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -62,7 +62,7 @@
 
 &emsp;(A) In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], fees required to be paid by a person in that State under paragraph (2)(C) or (D), as applicable, shall be paid to the Administrator.
 
-&emsp;(B) Amounts paid to the Administrator pursuant to this paragraph shall be held by the Administrator in escrow until the establishment of the fund into which such amounts are required to be paid under paragraph (2), oruntil the last day of the 1-year period beginning on the date of such payment, whichever is earlier, and thereafter—
+&emsp;(B) Amounts paid to the Administrator pursuant to this paragraph shall be held by the Administrator in escrow until the establishment of the fund into which such amounts are required to be paid under paragraph (2), or until the last day of the 1-year period beginning on the date of such payment, whichever is earlier, and thereafter—
 
 &emsp;&emsp;(i) if such fund has been established, shall be paid by the Administrator into the fund; or
 
@@ -210,7 +210,7 @@
 
 &emsp;An account shall be a trust account for purposes of this subsection only if it meets, to the satisfaction of the Administrator, the following requirements:
 
-&emsp;&emsp;(A) Amounts in the account may be used only with the concurrence of the person whoestablishes the account and the Administrator; except that the person may use amounts in the account for a purpose authorized by subparagraph (B) after 60 days after notification of the Administrator if the Administrator does not disapprove such use before the end of such 60-day period.
+&emsp;&emsp;(A) Amounts in the account may be used only with the concurrence of the person who establishes the account and the Administrator; except that the person may use amounts in the account for a purpose authorized by subparagraph (B) after 60 days after notification of the Administrator if the Administrator does not disapprove such use before the end of such 60-day period.
 
 &emsp;&emsp;(B) Amounts in the account may be used only for projects which will identify, develop, and implement—
 
@@ -286,7 +286,7 @@
 
 &emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
-&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
+&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this sectionwhich are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
 
 &emsp;&emsp;(i) shall not be used by the State to provide assistance to the person who paid such amounts;
 
@@ -348,7 +348,7 @@
 
 &emsp;Not later than December 31 of 1989 and of each year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste has terminated, the Administrator shall prepare and submit to the Congress a report on—
 
-&emsp;&emsp;(A) progress being made by persons issued permits under section 1412 of this title for transportation or dumping of sewage sludgeor industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
+&emsp;&emsp;(A) progress being made by persons issued permits under section 1412 of this title for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
 
 &emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 

@@ -66,5 +66,5 @@ The Secretary shall pay to the institution of higher education at which a fellow
 
 The Secretary may administer the fellowships authorized under this section through a grant to, or contract or cooperative agreement with, an Indian organization with demonstrated qualifications to administer all facets of the program assisted under this section.
 
-(Pub. L. 89 10, title IX, §9123, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3786.)
+(Pub. L. 89–10, title IX, §9123, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3786.)
 

@@ -1,4 +1,4 @@
-### §3376 . Regulations
+### §3376. Regulations
 
 The President may prescribe regulations for the administration of this subchapter.
 
@@ -16,7 +16,7 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 (b) The authority of the President under section 205 (a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), and as affected by Reorganization Plan No. 1 of 1958 (72 Stat. 1799) \[set out in the Appendix to this title\], relating to the establishment and maintenance of personnel standards on the merit basis.
 
-Sec. 2. To the extent that section 1(b) of this order is inconsistent with the provisions of Executive Order No. 10952 of July 20, 1961, as amended \[set out as a note under section 2271 of Title 50, Appendix, War and National Defense\], section 1(b) shall control.
+Sec. 2. To the extent that section 1(b) of this order is inconsistent with the provisions of Executive Order No. 10952 of July 20, 1961, as amended \[formerly set out as a note under section 2271 of Title 50, Appendix, War and National Defense\], section 1(b) shall control.
 
 #### Section Referred to in Other Sections
 

@@ -10,11 +10,11 @@ The purpose of this subchapter is to establish a framework for the conduct of ne
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 581 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 581 of this title as this section.
 
 #### Effective Date of Repeal; Savings Provision
 
-Section 5 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, provided that: “Subchapter III of chapter 5 of title 5, United States Code (enacted as subchapter IV of chapter 5 of title 5, United States Code, by section 3 of this Act and redesignated as subchapter III of such chapter 5 by section (3)(a) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]) and that portion of the table of sections at the beginning of chapter 5 of title 5, United States Code, relating to subchapterIII, are repealed, effective 6 years after the date of the enactment of this Act \[Nov. 29, 1990\], except that the provisions of such subchapter shall continue to apply after the date of the repeal with respect to then pending negotiated rulemaking proceedings initiated before the date of repeal which, in the judgment of the agencies which are convening or have convened such proceedings, require such continuation, until such negotiated rulemaking proceedings terminate pursuant to such subchapter.”
+Section 5 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, provided that: “Subchapter III of chapter 5 of title 5, United States Code (enacted as subchapter IV of chapter 5 of title 5, United States Code, by section 3 of this Act and redesignated as subchapter III of such chapter 5 by section (3)(a) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]) and that portion of the table of sections at the beginning of chapter 5 of title 5, United States Code, relating to subchapter III, are repealed, effective 6 years after the date of the enactment of this Act \[Nov. 29, 1990\], except that the provisions of such subchapter shall continue to apply after the date of the repeal with respect to then pending negotiated rulemaking proceedings initiated before the date of repeal which, in the judgment of the agencies which are convening or have convened such proceedings, require such continuation, until such negotiated rulemaking proceedings terminate pursuant to such subchapter.”
 
 #### Short Title of 1992 Amendment
 
@@ -42,5 +42,5 @@ Section 2 of Pub. L. 101–648 provided that: “The Congress makes the followin
 
 #### Authorization of Appropriations
 
-Section 4 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(1), Aug. 26, 1992, 106 Stat. 945, provided that: “In order to carry out this Act \[see Short Title note above\] and the amendments made by this Act, there are authorized to be appropriated to the Administrative Conference of the United States, in addition to amounts authorized by section 596 \[formerly 576\] of title 5, United States Code, not in excess of $500,000 for each of the fiscal years 1991, 1992, and 1993.”
+Section 4 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(1), Aug. 26, 1992, 106 Stat. 945, authorized additional appropriations to Administrative Conference of the United States to carry out Pub. L. 101–648 in fiscal years 1991, 1992, and 1993.
 

@@ -1,6 +1,6 @@
 ### §4106. Reports to Congress
 
-After consultation with the States receiving funds under this chapter and with any interstate commission involved in carrying out a project under this chapter, the Secretary shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 90 days after the end of the fiscal year 1988, and each second fiscal year occurring after that fiscal year, a report which contains—
+After consultation with the States receiving funds under this chapter and with any interstate commission involved in carrying out a project under this chapter, the Secretary shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 90 days after the end of the fiscal year 1988, and eachsecond fiscal year occurring after that fiscal year, a report which contains—
 
 &emsp;(1) a description of each project and law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted;
 
@@ -14,5 +14,5 @@ After consultation with the States receiving funds under this chapter and with a
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

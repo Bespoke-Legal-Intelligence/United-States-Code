@@ -6,7 +6,7 @@ The Congress finds and declares it to be desirable that all American people of p
 
 #### Environmental Quality Council
 
-For functions of the Environmental Quality Council concerning outdoor recreation, see sections 102 and 103of Ex. Ord. No. 11472, May 29, 1969, 34 F.R. 8693, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+For functions of the Environmental Quality Council concerning outdoor recreation, see sections 102 and 103 of Ex. Ord. No. 11472, May 29, 1969, 34 F.R. 8693, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

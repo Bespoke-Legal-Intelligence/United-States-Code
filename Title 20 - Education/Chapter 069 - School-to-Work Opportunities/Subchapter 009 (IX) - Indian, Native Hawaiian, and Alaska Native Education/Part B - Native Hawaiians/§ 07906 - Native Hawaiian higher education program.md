@@ -38,5 +38,5 @@ Not more than 7 percent of the funds appropriated to carry out the provisions of
 
 There are authorized to be appropriated $2,000,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years, to carry out this section. Funds appropriated under the authority of this subsection shall remain available until expended.
 
-(Pub. L. 89 10, title IX, §9206, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3800.)
+(Pub. L. 89–10, title IX, §9206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3800.)
 

@@ -4,5 +4,5 @@
 
 (b) In the case of preauthorized transfers from a consumer's account to the same person which may vary in amount, the financial institution or designated payee shall, prior to each transfer, provide reasonable advance notice to the consumer, in accordance with regulations of the Board, of the amount to be transferred and the scheduled date of the transfer.
 
-(Pub. L. 90 321, title IX, §907, as added Pub. L. 95 630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733.)
+(Pub. L. 90–321, title IX, §907, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733.)
 

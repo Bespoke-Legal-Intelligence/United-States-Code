@@ -12,11 +12,11 @@ For the purposes of this chapter, the term—
 
 &emsp;(5) “local educational agency” means any education agency as defined in section 8801 of this title) and shall include any tribal education agency;
 
-&emsp;(6) “not-for-profit” organization<sup>1</sup> means an organization, association, or institution described in section 501(c)(3) of title 26, which is exempt from taxation pursuant to the provisions of section 501(a) of title 26;
+&emsp;(6) “not-for-profit” organization <sup>1</sup> means an organization, association, or institution described in section 501(c)(3) of title 26, which is exempt from taxation pursuant to the provisions of section 501(a) of title 26;
 
 &emsp;(7) “noncommercial education broadcasting entities” means any noncommercial educational broadcasting station (and/or its legal nonprofit affiliates) as defined and licensed by the Federal Communications Commission;
 
-&emsp;(8) “tribal education agency” means a school or community college which is controlled by an Indian tribe, band, or nation, including any Alaska Native village, which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians and which is not administered by the Bureau of Indian Affairs;
+&emsp;(8) “tribal education agency” means a school or community college which is controlled byan Indian tribe, band, or nation, including any Alaska Native village, which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians and which is not administered by the Bureau of Indian Affairs;
 
 &emsp;(9) “Federal natural resource management agencies” means the United States Forest Service, the Bureau of Land Management, the National Park Service, and the Fish and Wildlife Service;
 
@@ -28,15 +28,15 @@ For the purposes of this chapter, the term—
 
 &emsp;(13) “Board of Directors” means the Board of Directors of the National Environmental Education and Training Foundation.
 
-(Pub. L. 101 619, §3, Nov. 16, 1990, 104 Stat. 3326; Pub. L. 103 382, title III, §391(m), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 101–619, §3, Nov. 16, 1990, 104 Stat. 3326; Pub. L. 103–382, title III, §391(m), Oct. 20, 1994, 108 Stat. 4023.)
 
 #### Amendments
 
-1994—Par. (5). Pub. L. 103 382 substituted “local educational agency” for “local education agency” and reference to section 8801 of this title for reference to section 198 of the Elementary and Secondary Education Act of 1965.
+1994—Par. (5). Pub. L. 103–382 substituted “local educational agency” for “local education agency” and reference to section 8801 of this title for reference to section 198 of the Elementary and Secondary Education Act of 1965.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5509 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “‘not-for-profit organization’”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “ ‘not-for-profit organization’ ”.</i>
 

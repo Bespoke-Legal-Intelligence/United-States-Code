@@ -13,17 +13,17 @@
 | [5899\.](%C2%A7%2005899%20-%20Eligibility%20for%20consideration%20for%20promotion%20running%20mates.md) | Eligibility for consideration for promotion: running mates. |
 | [5900\.](%C2%A7%2005900%20-%20Communication%20with%20selection%20board.md) | Communication with selection board. |
 | [5901\.](%C2%A7%2005901%20-%20Numbers%20that%20may%20be%20recommended%20for%20promotion.md) | Numbers that may be recommended for promotion. |
-| 5902\. | Promotion lists; eligibility for promotion; date of rank. |
-| 5903\. | Failure of selection. |
-| 5904\. | Effect of erroneous omission of name from list furnished to selection board. |
-| 5905\. | Removal from promotion list. |
-| 5906\. | Effect of transfer to inactive status list. |
+| [5902\.](%C2%A7%2005902%20-%20Promotion%20lists%3B%20eligibility%20for%20promotion%3B%20date%20of%20rank.md) | Promotion lists; eligibility for promotion; date of rank. |
+| [5903\.](%C2%A7%2005903%20-%20Failure%20of%20selection.md) | Failure of selection. |
+| [5904\.](%C2%A7%2005904%20-%20Effect%20of%20erroneous%20omission%20of%20name%20from%20list%20furnished%20to%20selection%20board.md) | Effect of erroneous omission of name from list furnished to selection board. |
+| [5905\.](%C2%A7%2005905%20-%20Removal%20from%20promotion%20list.md) | Removal from promotion list. |
+| [5906\.](%C2%A7%2005906%20-%20Effect%20of%20transfer%20to%20inactive%20status%20list.md) | Effect of transfer to inactive status list. |
 | \[5907. | Repealed.\] |
-| 5908\. | Ensigns; second lieutenants. |
-| 5909\. | Sea or foreign service not required. |
-| 5910\. | Promotions under regulations prescribed by Secretary. |
-| 5911\. | Promotions: temporary; permanent. |
-| 5912\. | Appointing power. |
+| [5908\.](%C2%A7%2005908%20-%20Ensigns%3B%20second%20lieutenants.md) | Ensigns; second lieutenants. |
+| [5909\.](%C2%A7%2005909%20-%20Sea%20or%20foreign%20service%20not%20required.md) | Sea or foreign service not required. |
+| [5910\.](%C2%A7%2005910%20-%20Promotions%20under%20regulations%20prescribed%20by%20Secretary.md) | Promotions under regulations prescribed by Secretary. |
+| [5911\.](%C2%A7%2005911%20-%20Promotions%20temporary%3B%20permanent.md) | Promotions: temporary; permanent. |
+| [5912\.](%C2%A7%2005912%20-%20Appointing%20power.md) | Appointing power. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,7 +14,7 @@ The Congress makes the following findings:
 
 #### (b) Trade Representative report
 
-No later than July 1, 1995, and annually thereafter through 1999, the Trade Representative shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives onhow effective the provisions of the Agreement are with respect to increasing United States exports of motor vehicles and motor vehicle parts to Mexico. Each report shall identify and determine the following:
+No later than July 1, 1995, and annually thereafter through 1999, the Trade Representative shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives on how effective the provisions of the Agreement are with respect to increasing United States exports of motor vehicles and motor vehicle parts to Mexico. Each report shall identify and determine the following:
 
 &emsp;(1) The patterns of trade in motor vehicles and motor vehicle parts between the United States and Mexico during the preceding 12-month period.
 

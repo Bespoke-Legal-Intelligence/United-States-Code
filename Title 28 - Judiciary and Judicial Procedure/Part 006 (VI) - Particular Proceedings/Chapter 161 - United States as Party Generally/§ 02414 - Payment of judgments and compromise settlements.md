@@ -1,0 +1,52 @@
+### §2414. Payment of judgments and compromise settlements
+
+Except as provided by the Contract Disputes Act of 1978, payment of final judgments rendered by a district court or the Court of International Trade against the United States shall be made on settlements by the General Accounting Office. Payment of final judgments rendered by a State or foreign court or tribunal against the United States, or against its agencies or officials upon obligations or liabilities of the United States, shall be made on settlements by the General Accounting Office after certification by the Attorney General that it is in the interest of the United States to pay the same.
+
+Whenever the Attorney General determines that no appeal shall be taken from a judgment or that no further review will be sought from a decision affirming the same, he shall so certify and the judgment shall be deemed final.
+
+Except as otherwise provided by law, compromise settlements of claims referred to the Attorney General for defense of imminent litigation or suits against the United States, or against its agencies or officials upon obligations or liabilities of the United States, made by the Attorney General or any person authorized by him, shall be settled and paid in a manner similar to judgments in like causes and appropriations or funds available for the payment of such judgments are hereby made available for the payment of such compromise settlements.
+
+(June 25, 1948, ch. 646, 62 Stat. 974; Aug. 30, 1961, Pub. L. 87–187, §1, 75 Stat. 415; Nov. 1, 1978, Pub. L. 95–563, §14(d), 92 Stat. 2390; Oct. 10, 1980, Pub. L. 96–417, title V, §512, 94 Stat. 1744.)
+
+#### Historical and Revision Notes
+
+Based on section 228 of title 31, U.S.C., 1940 ed., Money and Finance (Feb. 18, 1904, ch. 160, §1, 33 Stat. 41; June 10, 1921, ch. 18, §304, 42 Stat. 24).
+
+Similar provisions of section 228 of title 31, U.S.C., 1940 ed., relating to judgments of the court of claims are incorporated in section 2517 of this title.
+
+The second paragraph was added to make clear that the payment of judgments not appealed may be expedited by certificate to that effect.
+
+Changes were made in phraseology.
+
+#### References in Text
+
+The Contract Disputes Act of 1978, referred to in first paragraph, is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
+
+#### Amendments
+
+1980—Pub. L. 96–417 provided for payment of final judgments rendered by the Court of International Trade against the United States on settlements by the General Accounting Office.
+
+1978—Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+
+1961—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court against the United States, its agencies or officials and compromise settlements and substituted “and compromise settlements” for “against the United States” in section catchline.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
+#### Cross References
+
+Appropriations for payments of judgments against the United States, computation of interest time, see section 1304 of Title 31, Money and Finance.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2412 of this title; title 7 section 136m; title 16 sections 79g, 460bb–2; title 23 section 307; title 31 section 1304.
+

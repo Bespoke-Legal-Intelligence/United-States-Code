@@ -68,7 +68,7 @@ The Secretary shall—
 
 &emsp;(A) Not later than May 1 of each year preceding each year in which fellowships are to be awarded, the Secretary shall select and announce the names of the fellowship recipients.
 
-&emsp;(B) The Secretary shall provide for the development and administration of a process to select fellowship recipients from the pool of semifinalists as follows:
+&emsp;(B) The Secretary shall provide for the development and administration of a process toselect fellowship recipients from the pool of semifinalists as follows:
 
 &emsp;&emsp;(i) The Secretary shall select three fellowship recipients who shall be assigned to the Department of Energy.
 

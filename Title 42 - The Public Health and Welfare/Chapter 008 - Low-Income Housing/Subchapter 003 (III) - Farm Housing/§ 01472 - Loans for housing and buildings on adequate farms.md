@@ -8,7 +8,7 @@
 
 (3)(A) Notwithstanding any other provision of this subchapter, a loan may be made under this section for the purchase of a dwelling located on land owned by a community land trust, if the borrower and the loan otherwise meet the requirements applicable to loans under this section.
 
-(B) For purposes of this paragraph, the term “community land trust” means a community housing development organization as such term is defined in section 12704 of this title (except that the requirements under section 12704(6)(C) of this title and section 12704(6)(D) of this title shall not apply for purposes of this paragraph)—
+(B) For purposes of this paragraph, the term “community land trust” means a community housing development organization as such term is defined in section 12704 of this title (except that the requirements under section 12704(6)(C)of this title and section 12704(6)(D) of this title shall not apply for purposes of this paragraph)—
 
 &emsp;(i) that is not sponsored by a for-profit organization;
 
@@ -52,7 +52,7 @@ The instruments under which the loan is made and the security given shall—
 
 (3)
 
-Notice of offer to prepay.—Not less than 30 days after receiving an offer to prepay any loan made or insured under section 1484 or 1485of this title, the Secretary shall provide written notice of the offer or request to the tenants of the housing and related facilities involved, to interested nonprofit organizations, and to any appropriate State and local agencies.
+Notice of offer to prepay.—Not less than 30 days after receiving an offer to prepay any loan made or insured under section 1484 or 1485 of this title, the Secretary shall provide written notice of the offer or request to the tenants of the housing and related facilities involved, to interested nonprofit organizations, and to any appropriate State and local agencies.
 
 (4)(A)
 
@@ -66,7 +66,7 @@ Assistance available to borrower to extend low income use.—To the extent of am
 
 &emsp;(ii) Reduction of the interest rate on the loan through the provision of interest credits under section 1490a(a)(1)(B) of this title.
 
-&emsp;(iii) Additional rental assistance, or an increase in assistance provided under existing contracts, under section 1490a(a)(2) of this title or under section 1437f of this title.
+&emsp;(iii) Additional rental assistance, or an increase in assistance provided under existingcontracts, under section 1490a(a)(2) of this title or under section 1437f of this title.
 
 &emsp;(iv) An equity loan to the borrower under paragraphs (1) and (2) of section 1485(c) of this title.
 
@@ -132,7 +132,7 @@ Rent limitation and assistance.—The Secretary shall, to the extent provided in
 
 (E)
 
-Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii), the Secretary may not approve the transfer of any housing and related facilities purchased under this paragraph during the remaining useful life of the housing and related facilities, unless the Secretary determines that—
+Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii), the Secretary may not approve the transfer of anyhousing and related facilities purchased under this paragraph during the remaining useful life of the housing and related facilities, unless the Secretary determines that—
 
 &emsp;(i) the transfer will further the provision of housing and related facilities for low income families or persons; or
 
@@ -206,7 +206,7 @@ On and after November 30, 1983—
 
 #### (e) Manufactured homes; qualifications for loans made or insured; energy conservation requirements
 
-(1) A loan which may be made or insured under this section with respect to housing shall be made or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
+(1) A loan which may be made or insured under this section with respect to housing shall bemade or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
 
 &emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
 
@@ -250,7 +250,7 @@ On and after November 30, 1983—
 
 #### (1) Authority
 
-&emsp;The Secretary shall, to the extent provided in appropriation Acts, provide guaranteed loans in accordance with this section, section 1487(d) of this title, and the last sentence ofsection 1490a(a)(1)(A) of this title, except as modified by the provisions of this subsection. Loans shall be guaranteed under this subsection in an amount equal to 90 percent of the loan.
+&emsp;The Secretary shall, to the extent provided in appropriation Acts, provide guaranteed loans in accordance with this section, section 1487(d) of this title, and the last sentence of section 1490a(a)(1)(A) of this title, except as modified by the provisions of this subsection. Loans shall be guaranteed under this subsection in an amount equal to 90 percent of the loan.
 
 #### (2) Eligible borrowers
 
@@ -338,7 +338,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;(D) The term “State” means the States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, and any other possession of the United States.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; June 30, 1961, Pub. L. 87–70, title VIII, §801(b), 75 Stat. 186; Sept. 28, 1962, Pub. L. 87–723, §4(a)(2), 76 Stat. 671; Aug. 10, 1965, Pub. L. 89–117, title X, §1002, 79 Stat. 497; Nov. 3, 1966, Pub. L. 89–754, title VIII, §802, 80 Stat. 1282; Aug. 22, 1974, Pub. L. 93–383, title V, §505(b), 88 Stat. 693; Oct. 12, 1977, Pub. L. 95–128, title V, §502(a), 91 Stat. 1139; Dec. 21, 1979, Pub. L. 96–153, title V, §503, 93 Stat. 1134; Oct. 8, 1980, Pub. L. 96–399, title V, §514(a), 94 Stat. 1671; Nov. 30, 1983, Pub. L. 98–181, title V, §503(a), (d), 97 Stat. 1240, 1241; Oct. 17, 1984, Pub. L. 98–479, title I, §105(b)(1), 98 Stat. 2226; Feb. 5, 1988, Pub. L. 100–242, title II, §241, title III, §314, 101 Stat. 1886, 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1028, 102 Stat. 3271; Dec. 15, 1989, Pub. L. 101–235, title II, §206, 103 Stat. 2041; Nov. 28, 1990, Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), 104 Stat. 4283, 4284, 4297; Oct. 28, 1991, Pub. L. 102–142, title VII, §743(b), 105 Stat. 915; Oct. 28, 1992, Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), 106 Stat. 3834, 3835, 3841.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; June 30, 1961, Pub. L. 87–70, title VIII, §801(b), 75 Stat. 186; Sept. 28, 1962, Pub. L. 87–723, §4(a)(2), 76 Stat. 671; Aug. 10, 1965, Pub. L. 89–117, title X, §1002, 79 Stat. 497; Nov. 3, 1966, Pub. L. 89–754, title VIII, §802, 80 Stat. 1282; Aug. 22, 1974, Pub.L. 93–383, title V, §505(b), 88 Stat. 693; Oct. 12, 1977, Pub. L. 95–128, title V, §502(a), 91 Stat. 1139; Dec. 21, 1979, Pub. L. 96–153, title V, §503, 93 Stat. 1134; Oct. 8, 1980, Pub. L. 96–399, title V, §514(a), 94 Stat. 1671; Nov. 30, 1983, Pub. L. 98–181, title V, §503(a), (d), 97 Stat. 1240, 1241; Oct. 17, 1984, Pub. L. 98–479, title I, §105(b)(1), 98 Stat. 2226; Feb. 5, 1988, Pub. L. 100–242, title II, §241, title III, §314, 101 Stat. 1886, 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1028, 102 Stat. 3271; Dec. 15, 1989, Pub. L. 101–235, title II, §206, 103 Stat. 2041; Nov. 28, 1990, Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), 104 Stat. 4283, 4284, 4297; Oct. 28, 1991, Pub. L. 102–142, title VII, §743(b), 105 Stat. 915; Oct. 28, 1992, Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), 106 Stat. 3834, 3835, 3841.)
 
 #### References in Text
 
@@ -396,7 +396,7 @@ Subsec. (e)(3). Pub. L. 100–242, §314, added par. (3).
 
 Subsec. (d)(2). Pub. L. 98–479 substituted “percent of the funds allocated to each State under this section shall be available only for very low-income families or persons” for “per centum of the dwelling units in each State financed under this section shall be available only for occupancy by very low-income families or persons”.
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in thecase of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made or insured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
+1983—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in the case of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made or insured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
 
 Subsec. (a)(2). Pub. L. 98–181, §503(d)(3), added par. (2).
 
@@ -474,7 +474,7 @@ Purpose.—The purpose of this section \[amending this section and section 1701x
 
 #### Rural Housing Guaranteed Loan Demonstration
 
-Section 304 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272,provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
+Section 304 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
@@ -492,7 +492,7 @@ Section 514(b) of Pub. L. 96–399 required Secretary of Agriculture to conduct 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437f, 1473, 1477, 1479, 1480, 1483, 1484, 1485, 1487, 1490a, 1490c, 1490f, 1490m, 1490p, 1490p–1, 4851b, 8011 of this title; title 7 sections 1933, 1991; title 12 section 1701x; title 26 section 42.
+This section is referred to in sections 1437f, 1473, 1477, 1479, 1480, 1483, 1484, 1485, 1487, 1490a, 1490c, 1490f, 1490m, 1490p–1, 4851b, 8011 of this title; title 7 sections 1933, 1991; title 12 section 1701x; title 26 section 42.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(12)(B)).”</i>
 

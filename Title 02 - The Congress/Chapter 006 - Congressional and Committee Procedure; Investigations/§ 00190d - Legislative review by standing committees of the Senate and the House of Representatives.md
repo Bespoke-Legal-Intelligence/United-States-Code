@@ -6,7 +6,7 @@ In order to assist the Congress in—
 
 &emsp;(1) its analysis, appraisal, and evaluation of the application, administration, and execution of the laws enacted by the Congress, and
 
-&emsp;(2) its formulation, consideration, and enactment of such modifications of or changes inthose laws, and of such additional legislation, as may be necessary or appropriate,
+&emsp;(2) its formulation, consideration, and enactment of such modifications of or changes in those laws, and of such additional legislation, as may be necessary or appropriate,
 
 > each standing committee of the Senate and the House of Representatives shall review and study, on a continuing basis, the application, administration, and execution of those laws, or parts of laws, the subject matter of which is within the jurisdiction of that committee. Such committees may carry out the required analysis, appraisal, and evaluation themselves, or by contract, or may require a Government agency to do so and furnish a report thereon to the Congress. Such committees may rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
 
@@ -26,7 +26,7 @@ The preceding provisions of this section do not apply to the Committees on Appro
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–344, §701, authorized the committees to carry out the required analysis, appraisal, and evaluation themselves, or by contract, or to require a Government agency to do so and furnish a report thereon to the Congress, and authorized the committees to rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
+1974—Subsec. (a). Pub. L. 93–344, §701, authorized the committees to carry out the required analysis, appraisal, and evaluation themselves, or by contract, or to require a Government agency to do so and furnish areport thereon to the Congress, and authorized the committees to rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
 
 Subsec. (c). Pub. L. 93–344, §903(b), substituted “Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget,” for “Committee on Appropriations of the Senate and the Committee on Appropriations,”.
 
@@ -42,7 +42,7 @@ Subsecs. (b), (c). Pub. L. 91–510 added subsecs. (b) and (c).
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives changed to Committee on House Oversight of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Effective Date of 1974 Amendment
 

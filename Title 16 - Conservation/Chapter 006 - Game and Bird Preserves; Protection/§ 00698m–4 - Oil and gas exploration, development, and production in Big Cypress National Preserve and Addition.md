@@ -8,7 +8,7 @@ Within nine months from April 29, 1988, the Secretary shall promulgate, subject 
 
 Any rule or regulation promulgated by the Secretary under subsection (a) of this section shall provide that—
 
-&emsp;(1) exploration or development and production activities may not be undertaken, except pursuant to a permit issued by the National Park Service authorizing such activities or access; and
+&emsp;(1) exploration or development and production activities may not be undertaken, exceptpursuant to a permit issued by the National Park Service authorizing such activities or access; and
 
 &emsp;(2) final action by the National Park Service with respect to any application for a permit authorizing such activities shall occur within 90 days from the date such an application is submitted unless—
 

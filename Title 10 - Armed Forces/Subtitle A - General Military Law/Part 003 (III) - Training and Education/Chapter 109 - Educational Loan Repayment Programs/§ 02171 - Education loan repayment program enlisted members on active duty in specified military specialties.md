@@ -12,7 +12,7 @@
 
 (b) The portion or amount of a loan that may be repaid under subsection (a) is 331/3 percent or $1,500, whichever is greater, for each year of service.
 
-(c) If a portion of a loan is repaid under this section for any year, interest on the remainder of such loan shall accrue and be paid in the same manner as is otherwise required.
+(c) If a portion of a loan is repaid under this section for any year, interest on the remainderof such loan shall accrue and be paid in the same manner as is otherwise required.
 
 (d) Nothing in this section shall be construed to authorize refunding any repayment of a loan.
 

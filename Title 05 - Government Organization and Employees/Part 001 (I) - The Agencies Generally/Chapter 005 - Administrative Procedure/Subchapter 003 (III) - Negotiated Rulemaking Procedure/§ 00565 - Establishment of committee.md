@@ -32,7 +32,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92
 
 #### Amendments
 
-1992—Pub. L. 102–354, §3(a)(2), renumbered section 585 of this title as this section.
+<b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 585 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–354, §3(a)(3), substituted “section 564” for “section 584”.
 

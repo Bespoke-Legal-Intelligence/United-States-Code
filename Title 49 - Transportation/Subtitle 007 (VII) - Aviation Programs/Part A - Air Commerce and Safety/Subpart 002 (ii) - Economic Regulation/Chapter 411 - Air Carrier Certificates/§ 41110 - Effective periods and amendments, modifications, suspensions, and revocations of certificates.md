@@ -38,7 +38,7 @@ Foreign Air Transportation.—(1) Notwithstanding subsection (a)(2)–(4) of thi
 
 Temporary Certificates.—On application or on the initiative of the Secretary, the Secretary may—
 
-&emsp;(1) review the performance of an air carrier issued a certificate under section 41102(c) of this title on the basis that the air carrier willprovide innovative or low-priced air transportation under the certificate; and
+&emsp;(1) review the performance of an air carrier issued a certificate under section 41102(c) of this title on the basis that the air carrier will provide innovative or low-priced air transportation under the certificate; and
 
 &emsp;(2) amend, modify, suspend, or revoke the certificate or authority under subsection (a)(2) or (c) of this section if the air carrier has not provided, or is not providing, the transportation.
 

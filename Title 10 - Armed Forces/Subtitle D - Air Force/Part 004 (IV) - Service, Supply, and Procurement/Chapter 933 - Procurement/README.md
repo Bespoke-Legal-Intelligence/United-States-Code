@@ -3,11 +3,11 @@
 | Sec. |  |
 | :--- | ---: |
 | \[9531. | Repealed.\] |
-| 9532\. | Factories, arsenals, and depots: manufacture at. |
+| [9532\.](%C2%A7%2009532%20-%20Factories%2C%20arsenals%2C%20and%20depots%20manufacture%20at.md) | Factories, arsenals, and depots: manufacture at. |
 | \[9534, 9535. Repealed.\] |  |
-| 9536\. | Equipment: bakeries, schools, kitchens, and mess halls. |
+| [9536\.](%C2%A7%2009536%20-%20Equipment%20bakeries%2C%20schools%2C%20kitchens%2C%20and%20mess%20halls.md) | Equipment: bakeries, schools, kitchens, and mess halls. |
 | \[9537, 9538. Repealed.\] |  |
-| 9540\. | Architectural and engineering services. |
+| [9540\.](%C2%A7%2009540%20-%20Architectural%20and%20engineering%20services.md) | Architectural and engineering services. |
 | \[9541. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

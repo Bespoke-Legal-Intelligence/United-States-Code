@@ -6,9 +6,11 @@ In this subchapter—
 
 &emsp;&emsp;(A) has a gross vehicle weight rating of at least 10,001 pounds;
 
-&emsp;&emsp;(B) is designed to transport more than 15 passengers including the driver; or
+&emsp;&emsp;(B) is designed or used to transport passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;
 
-&emsp;&emsp;(C) is used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of this title and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103.
+&emsp;&emsp;(C) is designed or used to transport more than 15 passengers, including the driver, and is not used to transport passengers for compensation; or
+
+&emsp;&emsp;(D) is used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of this title and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103.
 
 &emsp;(2) “employee” means an operator of a commercial motor vehicle (including an independent contractor when operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 
@@ -40,7 +42,7 @@ In this subchapter—
 
 &emsp;(10) “United States” means the States of the United States and the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1000.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1000; Pub. L. 104–88, title I, §104(f), Dec. 29, 1995, 109 Stat. 919.)
 
 Historical and Revision Notes
 
@@ -58,7 +60,15 @@ Oct. 30, 1984, Pub. L. 98–554, §204, 98 Stat. 2833.
 
 The text of 49 App.:2503(6) is omitted as unnecessary because of 1:1. The text of 49 App.:2503(8) is omitted as surplus because the complete name of the Commercial Motor Vehicle Safety Regulatory Review Panel is used the first time the term appears in a section. The text of 49 App.:2503(9) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
+#### Amendments
+
+1995—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521, 5113, 11504, 31161 of this title.
+This section is referred to in sections 521, 5113, 14503, 31161 of this title.
 

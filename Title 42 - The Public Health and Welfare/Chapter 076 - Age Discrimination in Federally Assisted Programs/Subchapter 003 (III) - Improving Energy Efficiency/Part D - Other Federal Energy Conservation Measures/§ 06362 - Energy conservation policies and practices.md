@@ -18,7 +18,7 @@ Except as provided in subsection (c) of this section, each of the agencies speci
 
 #### (c) Application of provisions to authority exercised to protect public health and safety
 
-Subsection (b) of this section shall not apply to any authority exercised under any provisionof law designed to protect the public health or safety.
+Subsection (b) of this section shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.
 
 (Pub. L. 94–163, title III, §382, Dec. 22, 1975, 89 Stat. 939; Pub. L. 103–272, §4(h), July 5, 1994, 108 Stat. 1364.)
 
@@ -27,6 +27,10 @@ Subsection (b) of this section shall not apply to any authority exercised under 
 1994—Subsec. (a). Pub. L. 103–272, §4(h)(1), added subsec. (a) and struck out former subsec. (a) which related to reports to Congress by Federal agencies, feasibility of additional savings in energy consumption, and administration of laws permitting inefficient use of energy.
 
 Subsec. (b). Pub. L. 103–272, §4(h)(2), substituted “subsection (a)” for “subsection (a)(1)”.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employeeof the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Section Referred to in Other Sections
 

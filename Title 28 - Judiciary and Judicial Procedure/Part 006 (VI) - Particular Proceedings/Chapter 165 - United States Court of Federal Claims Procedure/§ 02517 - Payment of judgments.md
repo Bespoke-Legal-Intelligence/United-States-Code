@@ -1,0 +1,62 @@
+### §2517. Payment of judgments
+
+(a) Except as provided by the Contract Disputes Act of 1978, every final judgment rendered by the United States Court of Federal Claims against the United States shall be paid out of any general appropriation therefor, on presentation to the General Accounting Office of a certification of the judgment by the clerk and chief judge of the court.
+
+(b) Payment of any such judgment and of interest thereon shall be a full discharge to the United States of all claims and demands arising out of the matters involved in the case or controversy, unless the judgment is designated a partial judgment, in which event only the matters described therein shall be discharged.
+
+(June 25, 1948, ch. 646, 62 Stat. 979; Nov. 1, 1978, Pub. L. 95–563, §14(e), (f), 92 Stat. 2390; Apr. 2, 1982, Pub. L. 97–164, title I, §139(k), 96 Stat. 43; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+
+#### Historical and Revision Notes
+
+Based on title 28, U.S.C., 1940 ed., §285, and sections 225, 228, of title 31, U.S.C., 1940 ed., Money and Finance, (R.S. §§236, 1089; Feb. 18, 1904, ch. 160, §1, 33 Stat. 41; Mar. 3, 1911, ch. 231, §178, 36 Stat. 1141; June 10, 1921, ch. 18, §§304, 305, 42 Stat. 24; Feb. 13, 1925, ch. 229, §3(c), 43 Stat. 939).
+
+Section consolidates section 285 of title 28, U.S.C., 1940 ed., and sections 225 and 228 of title 31, U.S.C., 1940 ed., Money and Finance.
+
+Words “chief judge” were substituted for “the chief justice, or, in his absence, by the presiding judge of said court” in section 225 of title 31, U.S.C., 1940 ed., Money and Finance, in conformity with chapter 7 of this title.
+
+Words “or, on review, by the Supreme Court, where the same are affirmed in favor of the claimant” in section 225 of title 31, U.S.C., 1940 ed., were omitted as unnecessary.
+
+Provisions of section 228 of title 31, U.S.C., 1940 ed., for payment of district court judgments are incorporated in section 2414 of this title.
+
+Changes were made in phraseology.
+
+#### References in Text
+
+The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
+
+#### Amendments
+
+1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+1982—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
+
+Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
+
+1978—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
+
+Subsec. (b). Pub. L. 95–563, §14(f), inserted provision relating to discharge of partial judgments.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
+#### Cross References
+
+Appropriations for payments of judgments against the United States, computation of interest time, see section 1304 of Title 31, Money and Finance.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2412 of this title; title 16 section 460bb–2; title 25 sections 640d–27, 1300i–11; title 31 section 1304.
+

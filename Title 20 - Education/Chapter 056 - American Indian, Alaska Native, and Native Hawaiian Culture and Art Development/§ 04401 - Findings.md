@@ -20,13 +20,13 @@ The Congress finds that—
 
 &emsp;&emsp;(B) a program for Native Hawaiian culture and arts development.
 
-(Pub. L. 99 498, title XV, §1502, Oct. 17, 1986, 100 Stat. 1600.)
+(Pub. L. 99–498, title XV, §1502, Oct. 17, 1986, 100 Stat. 1600.)
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103 239, title VII, §721, May 4, 1994, 108 Stat. 606, provided that: “This title \[probably should be “subtitle” meaning subtitle C \[§§721, 722\] of title VII of Pub. L. 103 239, amending section 4441 of this title\] may be cited as the ‘Alaska Native Culture and Arts Development Act’.”
+Pub. L. 103–239, title VII, §721, May 4, 1994, 108 Stat. 606, provided that: “This title \[probably should be “subtitle” meaning subtitle C \[§§721, 722\] of title VII of Pub. L. 103–239, amending section 4441 of this title\] may be cited as the ‘Alaska Native Culture and Arts Development Act’.”
 
 #### Short Title
 
-Section 1501 of title XV of Pub. L. 99 498 provided that: “This title \[enacting this chapter\] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
+Section 1501 of title XV of Pub. L. 99–498 provided that: “This title \[enacting this chapter\] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
 

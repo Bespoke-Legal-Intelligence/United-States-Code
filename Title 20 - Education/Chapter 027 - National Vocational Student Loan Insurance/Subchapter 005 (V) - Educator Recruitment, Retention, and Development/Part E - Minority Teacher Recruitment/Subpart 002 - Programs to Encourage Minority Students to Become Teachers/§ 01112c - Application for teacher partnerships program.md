@@ -22,5 +22,5 @@ The application shall include—
 
 Each application from a partnership for a grant under section 1112a of this title shall be forwarded to the appropriate State educational agency (unless the State educational agency is a member of the partnership) for review and comment if the State educational agency requests the opportunity for such a review. The State educational agency must complete a review of such application and comment to the Secretary within 30 calendar days of receipt. Failure of the State educational agency to submit comments to the Secretary shall not prejudice such application.
 
-(Pub. L. 89 329, title V, §580, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 709.)
+(Pub. L. 89–329, title V, §580, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 709.)
 

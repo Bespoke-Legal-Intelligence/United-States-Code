@@ -8,5 +8,5 @@ The Secretary, not later than June 1 of each year, shall notify each State educa
 
 If by reason of any provision of law a local educational agency is prohibited from providing educational services for children enrolled in elementary and secondary nonpublic schools, as required by section 7545(a)(7) of this title, or if the Secretary determines that a local educational agency has substantially failed or is unwilling to provide for the participation on an equitable basis of children enrolled in such schools, the Secretary may waive such requirement and shall arrange for the provision of services, subject to the requirements of this part, to such children. Such waivers shall be subject to consultation, withholding, notice, and judicial review requirements in accordance with the provisions of subchapter I of this chapter.
 
-(Pub. L. 89 10, title VII, §7306, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3743.)
+(Pub. L. 89–10, title VII, §7306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3743.)
 

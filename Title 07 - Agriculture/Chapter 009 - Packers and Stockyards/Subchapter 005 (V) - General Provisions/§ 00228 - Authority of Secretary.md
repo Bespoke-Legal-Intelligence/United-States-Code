@@ -1,0 +1,50 @@
+### §228. Authority of Secretary
+
+#### (a) Rules, regulations, and expenditures; appropriations
+
+The Secretary may make such rules, regulations, and orders as may be necessary to carry out the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees, not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, telegrams, telephones, law books, books of reference, periodicals, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purpose.
+
+#### (b) Deductions from proceeds for financing promotional, educational, and research activities
+
+Notwithstanding any other provision of law, the authority of the Secretary under this chapter shall not apply to deductions made from sales proceeds for the purpose of financing promotion and research activities, including educational activities relating to livestock, meat, and other products covered by the chapter.
+
+#### (c) Budget estimate; testimony of Secretary before Congressional committees
+
+On or before February 15 of each calendar year beginning with calendar year 1977, or such other date as may be specified by the appropriate committee, the Secretary of Agriculture shall testify before the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture and provide justification in detail of the amount requested in the budget to be appropriated for the next fiscal year for the purposes authorized in this chapter.
+
+#### (d) Development and promulgation of rules governing hearings
+
+The Secretary shall, not later than sixty days after September 13, 1976, prescribe and implement rules to assure that any hearing from which any order may issue under this chapter or any hearing the expenses of which are paid from funds authorized to be appropriated under this chapter shall—
+
+&emsp;(1) if such hearing concerns a single unit of local government or the residents thereof, be held within the boundaries of such unit;
+
+&emsp;(2) if such hearing concerns a single geographic area within a State or the residents thereof, be held within the boundaries of such area; or
+
+&emsp;(3) if such hearing concerns a single State or the residents thereof, be held within such State.
+
+#### (e) Definitions
+
+For the purposes of subsection (d) of this section—
+
+&emsp;(1) the term “unit of local government” means a county, municipality, town, township, village, or other unit of general government below the State level; and
+
+&emsp;(2) the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
+
+(Aug. 15, 1921, ch. 64, title IV, §407, 42 Stat. 169; Sept. 2, 1958, Pub. L. 85–909, §4, 72 Stat. 1750; July 8, 1963, Pub. L. 88–61, 77 Stat. 79; Sept. 13, 1976, Pub. L. 94–410, §11, 90 Stat. 1252; Oct. 13, 1994, Pub. L. 103–354, title II, §293(b), 108 Stat. 3237; Nov. 2, 1994, Pub. L. 103–437, §4(a)(2), 108 Stat. 4581.)
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
+
+Subsec. (c). Pub. L. 103–437, which directed the amendment of subsec. (d) by substituting “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”, was executed by making the amendment to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 103–354. See below.
+
+Pub. L. 103–354, §293(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+
+Subsecs. (d) to (f). Pub. L. 103–354, §293(b)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e) substituted “subsection (d)” for “subsection (e)”.
+
+1976—Subsecs. (d) to (f). Pub. L. 94–410 added subsecs. (d) to (f).
+
+1963—Subsec. (c). Pub. L. 88–61 added subsec. (c).
+
+1958—Pub. L. 85–909 designated existing provisions as subsec. (a) and added subsec. (b).
+

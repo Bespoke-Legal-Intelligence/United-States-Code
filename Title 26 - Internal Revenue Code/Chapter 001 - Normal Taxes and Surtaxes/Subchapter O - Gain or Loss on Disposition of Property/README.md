@@ -6,13 +6,15 @@
 | [II.](Part%20002%20%28II%29%20-%20Basis%20Rules%20of%20General%20Application/README.md) | Basis rules of general application. |
 | [III.](Part%20003%20%28III%29%20-%20Common%20Nontaxable%20Exchanges/README.md) | Common nontaxable exchanges. |
 | [IV.](Part%20004%20%28IV%29%20-%20Special%20Rules/README.md) | Special rules. |
-| [V.](Part%20005%20%28V%29%20-%20Changes%20to%20Effectuate%20F.C.C.%20Policy/README.md) | Changes to effectuate F.C.C. policy. |
+| \[V. | Repealed.\] |
 | [VI.](Part%20006%20%28VI%29%20-%20Exchanges%20in%20Obedience%20to%20S.E.C.%20Orders/README.md) | Exchanges in obedience to S.E.C. orders. |
 | [VII.](Part%20007%20%28VII%29%20-%20Wash%20Sales%3B%20Straddles/README.md) | Wash sales; straddles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1995—Pub. L. 104–7, §2(c), Apr. 11, 1995, 109 Stat. 93, struck out item for part V “Changes to effectuate F.C.C. policy”.
 
 1990—Pub. L. 101–508, title XI, §11801(b)(9), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part VIII “Distributions pursuant to Bank Holding Company Act”.
 
@@ -35,7 +37,7 @@ Pub. L. 94–452, §2(c), Oct. 2, 1976, 90 Stat. 1512, struck out “of 1956” 
 - [Part 002 (II) - Basis Rules of General Application](Part%20002%20%28II%29%20-%20Basis%20Rules%20of%20General%20Application/README.md)
 - [Part 003 (III) - Common Nontaxable Exchanges](Part%20003%20%28III%29%20-%20Common%20Nontaxable%20Exchanges/README.md)
 - [Part 004 (IV) - Special Rules](Part%20004%20%28IV%29%20-%20Special%20Rules/README.md)
-- [Part 005 (V) - Changes to Effectuate F.C.C. Policy](Part%20005%20%28V%29%20-%20Changes%20to%20Effectuate%20F.C.C.%20Policy/README.md)
+- [Part 005 (V) - Repealed](Part%20005%20%28V%29%20-%20Repealed/README.md)
 - [Part 006 (VI) - Exchanges in Obedience to S.E.C. Orders](Part%20006%20%28VI%29%20-%20Exchanges%20in%20Obedience%20to%20S.E.C.%20Orders/README.md)
 - [Part 007 (VII) - Wash Sales; Straddles](Part%20007%20%28VII%29%20-%20Wash%20Sales%3B%20Straddles/README.md)
 - [Part 008 (VIII) - Repealed](Part%20008%20%28VIII%29%20-%20Repealed/README.md)

@@ -26,7 +26,7 @@
 
 #### (2) Amount
 
-&emsp;The amount available for reallotment is equal to the amount by which the unobligatedbalance of the State allotment under part A or C of subchapter II of this chapter, respectively, for all States at the end of the program year prior to the program year for which the determination under this subsection is made exceeds 15 percent of such allotment for that prior program year.
+&emsp;The amount available for reallotment is equal to the amount by which the unobligated balance of the State allotment under part A or C of subchapter II of this chapter, respectively, for all States at the end of the program year prior to the program year for which the determination under this subsection is made exceeds 15 percent of such allotment for that prior program year.
 
 #### (3) Reallotment
 

@@ -2,5 +2,5 @@
 
 There are authorized to be appropriated to carry out the purposes of this subchapter such sums as may be necessary.
 
-(Pub. L. 94 469, title IV, §412, as added Pub. L. 102 550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title IV, §412, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3923.)
 

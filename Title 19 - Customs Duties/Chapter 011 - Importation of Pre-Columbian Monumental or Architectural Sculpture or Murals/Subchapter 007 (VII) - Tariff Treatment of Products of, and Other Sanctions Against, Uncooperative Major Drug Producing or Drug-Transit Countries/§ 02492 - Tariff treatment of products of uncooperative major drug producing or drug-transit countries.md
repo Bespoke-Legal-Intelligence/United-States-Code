@@ -98,7 +98,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 (5) For the purpose of expediting the consideration and enactment of joint resolutions under paragraphs (3) and (4)—
 
-&emsp;(A) a motion to proceed to the consideration of any such joint resolution after it has been reported by the Committee on Ways andMeans shall be treated as highly privileged in the House of Representatives; and
+&emsp;(A) a motion to proceed to the consideration of any such joint resolution after it has been reported by the Committee on Ways and Means shall be treated as highly privileged in the House of Representatives; and
 
 &emsp;(B) a motion to proceed to the consideration of any such joint resolution after it has been reported by the Committee on Finance shall be treated as privileged in the Senate.
 

@@ -2,7 +2,7 @@
 
 The objects and purposes of the corporation shall be—
 
-(a) To provide an organization to encourage and aid American citizens in the contribution of their efforts, services, and resources in the development of aviation and in the maintenance of air supremacy, and to encourage and develop by example the voluntary contribution of private citizens to the public welfare;
+(a) To provide an organization to encourage and aid American citizens in the contribution oftheir efforts, services, and resources in the development of aviation and in the maintenance of air supremacy, and to encourage and develop by example the voluntary contribution of private citizens to the public welfare;
 
 (b) To provide aviation education and training especially to its senior and cadet members; to encourage and foster civil aviation in local communities and to provide an organization of private citizens with adequate facilities to assist in meeting local and national emergencies.
 

@@ -8,7 +8,7 @@ Nothing contained in this chapter shall be construed to repeal, invalidate, or s
 
 &emsp;(c) the Federal Hazardous Substances Labeling Act \[15 U.S.C. 1261 et seq.\].
 
-(Pub. L. 89 755, §11, Nov. 3, 1966, 80 Stat. 1302.)
+(Pub. L. 89–755, §11, Nov. 3, 1966, 80 Stat. 1302.)
 
 #### References in Text
 
@@ -16,5 +16,5 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs, For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Hazardous Substances Labeling Act, referred to in text, is Pub. L. 86 613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Labeling Act, referred to in text, is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 

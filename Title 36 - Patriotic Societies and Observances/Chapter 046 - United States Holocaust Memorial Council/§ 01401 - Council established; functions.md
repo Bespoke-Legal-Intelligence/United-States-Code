@@ -8,7 +8,7 @@ There is hereby established as an independent Federal establishment the United S
 
 &emsp;(3) develop a plan for carrying out the recommendations of the President's Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
-(Pub. L. 96–388, §1, Oct. 7, 1980, 94 Stat. 1547; Pub. L. 99–190, §101(d) \[title III, §324(1)\], Dec. 19, 1985,99 Stat. 1224, 1267; Pub. L. 102–529, §3(1), Oct. 27, 1992, 106 Stat. 3463.)
+(Pub. L. 96–388, §1, Oct. 7, 1980, 94 Stat. 1547; Pub. L. 99–190, §101(d) \[title III, §324(1)\], Dec. 19, 1985, 99 Stat. 1224, 1267; Pub. L. 102–529, §3(1), Oct. 27, 1992, 106 Stat. 3463.)
 
 #### Codification
 

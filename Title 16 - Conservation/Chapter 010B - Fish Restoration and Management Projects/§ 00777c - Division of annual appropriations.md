@@ -2,7 +2,7 @@
 
 #### (a) Initial distribution
 
-The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions of section 777b of this title, such sums shall remainavailable to carry out such Act through fiscal year 1999.
+The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999.
 
 #### (b) Use of balance after distribution
 
@@ -12,7 +12,7 @@ Of the balance of each such annual appropriation remaining after making the dist
 
 &emsp;(2) one-half of amounts made available under this subsection in a fiscal year shall be available for two years for obligation under section 5604(c) of the Clean Vessel Act of 1992. The Secretary of the Interior may make grants for qualified projects in an amount up to the amount available under this paragraph. Amounts unobligated by the Secretary of the Interior after two years shall be transferred to the Secretary of Transportation and be expended for State recreational boating safety programs under section 13106(a)(1) of title 46.
 
-> In fiscal year 1998, an amount equal to $20,000,000 of the balance remaining after the distribution under subsection (a) of this section shall be transferred to the Secretary of Transportation and be expended for State recreational boating safety programs under section 13106(a)(1) of title 46.
+> In fiscal year 1998, an amount equal to $20,000,000 of the balance remaining after the distribution under subsection (a) of this section shall betransferred to the Secretary of Transportation and be expended for State recreational boating safety programs under section 13106(a)(1) of title 46.
 
 #### (c) Funds available for expenses of investigations and administration
 
@@ -36,7 +36,7 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (b)(2), 
 
 #### Amendments
 
-1992—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted “The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c) of this section, respectively, shall apportion the remainder of each such annual appropriation among the several States” for “So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance withthe provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: <i>Provided</i>, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States”, and inserted subsec. (e) designation.
+1992—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted “The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c) of this section, respectively, shall apportion the remainder of each such annual appropriation among the several States” for “So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: <i>Provided</i>, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States”, and inserted subsec. (e) designation.
 
 1990—Pub. L. 101–646 inserted after first sentence “The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: <i>Provided</i>, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999.”
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
 #### Sections Referred to in Other Sections
 

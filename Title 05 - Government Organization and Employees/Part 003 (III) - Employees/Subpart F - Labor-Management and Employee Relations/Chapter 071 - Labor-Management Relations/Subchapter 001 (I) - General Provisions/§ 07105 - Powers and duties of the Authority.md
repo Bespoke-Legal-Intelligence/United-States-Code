@@ -68,5 +68,5 @@ Subsec. (a)(2)(D), (E), (G), and (H) of this section suspended with respect to a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7118 of this title; title 7 section 7011.
+This section is referred to in section 7118 of this title; title 2 section 1351; title 7 section 7011.
 

@@ -24,5 +24,5 @@ The purpose of this chapter is to help ensure the continued leadership of the Un
 
 &emsp;(2) improving the interagency planning and coordination of Federal research and development on high-performance computing and maximizing the effectiveness of the Federal Government's high-performance computing efforts.
 
-(Pub. L. 102 194, §3, Dec. 9, 1991, 105 Stat. 1594.)
+(Pub. L. 102–194, §3, Dec. 9, 1991, 105 Stat. 1594.)
 

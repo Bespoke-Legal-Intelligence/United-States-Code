@@ -4,7 +4,7 @@
 
 (b) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Staff Judge Advocate to the Commandant of the Marine Corps, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-(Added Pub. L. 99–661, div. A, title V, §509(a)(1), Nov. 14, 1986, 100 Stat. 3868; amended Pub. L.103–337, div. A, title V, §504(b)(4), Oct. 5, 1994, 108 Stat. 2751.)
+(Added Pub. L. 99–661, div. A, title V, §509(a)(1), Nov. 14, 1986, 100 Stat. 3868; amended Pub. L. 103–337, div. A, title V, §504(b)(4), Oct. 5, 1994, 108 Stat. 2751.)
 
 #### Amendments
 

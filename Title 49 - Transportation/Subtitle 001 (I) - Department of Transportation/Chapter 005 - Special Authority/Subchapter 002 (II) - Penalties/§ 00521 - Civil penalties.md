@@ -40,7 +40,7 @@ Determination of amount.—The amount of any civil penalty, and a reasonable tim
 
 (5)(A) If, upon inspection or investigation, the Secretary determines that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title or a regulation issued under any of those provisions, or combination of such violations, poses an imminent hazard to safety, the Secretary shall order a vehicle or employee operating such vehicle out of service, or order an employer to cease all or part of the employer's commercial motor vehicle operations. In making any such order, the Secretary shall impose no restriction on any employee or employer beyond that required to abate the hazard. Subsequent to the issuance of the order, opportunity for review shall be provided in accordance with section 554 of title 5, except that such review shall occur not later than 10 days after issuance of such order.
 
-(B) In this paragraph, “imminent hazard” means any condition of vehicle, employee, orcommercial motor vehicle operations which is likely to result in serious injury or death if not discontinued immediately.
+(B) In this paragraph, “imminent hazard” means any condition of vehicle, employee, or commercial motor vehicle operations which is likely to result in serious injury or death if not discontinued immediately.
 
 (6)
 
@@ -62,7 +62,7 @@ Violations pertaining to cdls.—Any person who knowingly and willfully violates
 
 (7) The Secretary shall issue regulations establishing penalty schedules designed to induce timely compliance for persons failing to comply promptly with the requirements set forth in any notices and orders under this subsection.
 
-(8) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary's findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
+(8) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United StatesCourt of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary's findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
 
 (9) All penalties and fines collected under this section shall be deposited into the Highway Trust Fund (other than the Mass Transit Account).
 
@@ -91,8 +91,6 @@ Historical and Revision Notes
 Oct. 15, 1966, Pub. L. 89–670, §6(f)(2), 80 Stat. 940.
 
 The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
-
-&nbsp;
 
 | <i>Section 521</i> | <i>49 U.S. Code</i> | <i>Revised Section</i> |
 | :--- | :---: | ---: |

@@ -1,6 +1,6 @@
 ### §1709. Preservation of Federal benefits
 
-Nothing contained in this subchapter or in any legislation enacted by the State of Rhode Islandas described in section 1706 of this title shall affect or otherwise impair in any adverse manner any benefits received by the State of Rhode Island under the Federal Aid in Wildlife Restoration Act of September 2, 1937 (16 U.S.C. 669–669(i)), or the Federal Aid in Fish Restoration Act of August 9, 1950 (16 U.S.C. 777–777(k)).
+Nothing contained in this subchapter or in any legislation enacted by the State of Rhode Island as described in section 1706 of this title shall affect or otherwise impair in any adverse manner any benefits received by the State of Rhode Island under the Federal Aid in Wildlife Restoration Act of September 2, 1937 (16 U.S.C. 669–669(i)), or the Federal Aid in Fish Restoration Act of August 9, 1950 (16 U.S.C. 777–777(k)).
 
 (Pub. L. 95–395, §10, Sept. 30, 1978, 92 Stat. 817.)
 

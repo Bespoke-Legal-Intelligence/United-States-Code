@@ -1,4 +1,4 @@
-### \[§§3076 to 3080 . Repealed. Pub. L. 103–337, div. A, title XVI, §1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980\]
+### \[§§3076 to 3080. Repealed. Pub. L. 103–337, div. A, title XVI, §1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980\]
 
 Section 3076, act Aug. 10, 1956, ch. 1041, 70A Stat. 170, related to composition of Army Reserve. See section 10104 of this title.
 

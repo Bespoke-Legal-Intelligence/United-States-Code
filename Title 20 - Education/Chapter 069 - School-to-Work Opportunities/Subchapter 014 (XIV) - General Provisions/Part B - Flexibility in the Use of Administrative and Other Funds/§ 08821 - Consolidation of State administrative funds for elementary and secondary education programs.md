@@ -46,11 +46,11 @@ If a State educational agency does not use all of the funds available to such ag
 
 In order to develop challenging State standards and assessments, a State educational agency may consolidate the amounts made available to such agency for such purposes under subchapter I of this chapter and title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
 
-(Pub. L. 89 10, title XIV, §14201, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3890.)
+(Pub. L. 89–10, title XIV, §14201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3890.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (f), is Pub. L. 103 227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (f), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ For purposes of this section:
 
 (2)(A) The Commission shall designate a duly authorized agent to serve as custodian of documentary material, tangible things, or written reports or answers to questions, and transcripts of oral testimony, and such additional duly authorized agents as the Commission shall determine from time to time to be necessary to serve as deputies to the custodian.
 
-(B) Any person upon whom any demand for the production of documentary material has been duly served shall make such material available for inspection and copying or reproduction to the custodian designated in such demand at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree or prescribe in writing or as the court may direct pursuant to section 57b–1(h) of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
+(B) Any person upon whom any demand for the production of documentary material has beenduly served shall make such material available for inspection and copying or reproduction to the custodian designated in such demand at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree or prescribe in writing or as the court may direct pursuant to section 57b–1(h) of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
 
 (3)(A) The custodian to whom any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony are delivered shall take physical possession of such material, reports or answers, and transcripts, and shall be responsible for the use made of such material, reports or answers, and transcripts, and for the return of material, pursuant to the requirements of this section.
 
@@ -36,7 +36,7 @@ For purposes of this section:
 
 &emsp;(B) no proceeding in which the material may be used has been commenced within a reasonable time after completion of the examination and analysis of all such material and other information assembled in the course of the investigation;
 
-> then the custodian shall, upon written request of the person who produced the material, return to the person any such material which has not been received into the record of any such proceeding (other than copies of such materialmade by the custodian pursuant to paragraph (3)(B)).
+> then the custodian shall, upon written request of the person who produced the material, return to the person any such material which has not been received into the record of any such proceeding (other than copies of such material made by the custodian pursuant to paragraph (3)(B)).
 
 (6) The custodian of any documentary material, written reports or answers to questions, and transcripts of oral testimony may deliver to any officers or employees of appropriate Federal law enforcement agencies, in response to a written request, copies of such material for use in connection with an investigation or proceeding under the jurisdiction of any such agency. The custodian of any tangible things may make such things available for inspection to such persons on the same basis. Such materials shall not be made available to any such agency until the custodian received certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes. Such documentary material, results of inspections of tangible things, written reports or answers to questions, and transcripts of oral testimony may be used by any officer or employee of such agency only in such manner and subject to such conditions as apply to the Commission under this section. The custodian may make such materials available to any State law enforcement agency upon the prior certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes.
 
@@ -46,7 +46,7 @@ For purposes of this section:
 
 &emsp;(B) transmit in writing to the person who produced the material or testimony notice as to the identity and address of the successor so designated.
 
-> Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
+> Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraphshall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
 
 #### (c) Information considered confidential
 
@@ -66,7 +66,7 @@ For purposes of this section:
 
 &emsp;(C) the disclosure of relevant and material information in Commission adjudicative proceedings or in judicial proceedings to which the Commission is a party; or
 
-&emsp;(D) the disclosure to a Federal agency of disaggregated information obtained in accordance with section 3512 of title 44, except that the recipient agency shall use such disaggregated information for economic, statistical, or policymaking purposes only, and shall not disclose such information in an individually identifiable form.
+&emsp;(D) the disclosure to a Federal agency of disaggregated information obtained in accordance with section 3512 <sup>1</sup> of title 44, except that the recipient agency shall use such disaggregated information for economic, statistical, or policymaking purposes only, and shall not disclose such information in an individually identifiable form.
 
 (2) Any disclosure of relevant and material information in Commission adjudicative proceedings or in judicial proceedings to which the Commission is a party shall be governed by the rules of the Commission for adjudicative proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.
 
@@ -83,6 +83,8 @@ Any material which is received by the Commission in any investigation, a purpose
 #### References in Text
 
 Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
+
+Section 3512 of title 44, referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 
 #### Prior Provisions
 

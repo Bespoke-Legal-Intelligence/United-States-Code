@@ -54,11 +54,11 @@ The Council shall provide recommendations to, and work with, eligible recipients
 
 &emsp;(7) make recommendations regarding the coordination of activities assisted under this part with activities assisted under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and school to work transitions.
 
-(Pub. L. 88 210, title III, §366, as added Pub. L. 101 392, title III, §310, Sept. 25, 1990, 104 Stat. 796.)
+(Pub. L. 88–210, title III, §366, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 796.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(7), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(7), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ There is hereby established the John Heinz Competitive Excellence Award, which s
 
 #### (4) Panel review
 
-&emsp;The selection panel shall review the Office of Technology Assessment's evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) of this section to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
+&emsp;The selection panel shall review the Office of Technology Assessment's evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) ofthis section to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
 
 #### (d) Presentation of award
 

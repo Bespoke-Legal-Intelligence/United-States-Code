@@ -1,6 +1,6 @@
 ### §3404. Programs affected
 
-The programs that may be integrated in a demonstration project under any such plan referred to in section 3403 of this title shall include any program under which an Indian tribe is eligible for receipt of funds under a statutory or administrative formula for the purposes of job training, tribal work experience, employment opportunities, or skill development, or any program designed for the enhancement of job opportunities or employment training.
+The programs that may be integrated in a demonstration project under any such plan referred to in section 3403 of this title shall include any program under which an Indian tribe is eligible for receipt of funds under a statutory or administrative formula for the purposes of job training, tribal work experience, employment opportunities, or skill development, or anyprogram designed for the enhancement of job opportunities or employment training.
 
 (Pub. L. 102–477, §5, Oct. 23, 1992, 106 Stat. 2302.)
 

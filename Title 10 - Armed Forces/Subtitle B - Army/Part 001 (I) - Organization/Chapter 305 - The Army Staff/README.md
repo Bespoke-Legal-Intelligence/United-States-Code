@@ -2,10 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 3031\. | The Army Staff: function; composition. |
-| 3032\. | The Army Staff: general duties. |
-| 3033\. | Chief of Staff. |
-| 3034\. | Vice Chief of Staff. |
+| [3031\.](%C2%A7%2003031%20-%20The%20Army%20Staff%20function%3B%20composition.md) | The Army Staff: function; composition. |
+| [3032\.](%C2%A7%2003032%20-%20The%20Army%20Staff%20general%20duties.md) | The Army Staff: general duties. |
+| [3033\.](%C2%A7%2003033%20-%20Chief%20of%20Staff.md) | Chief of Staff. |
+| [3034\.](%C2%A7%2003034%20-%20Vice%20Chief%20of%20Staff.md) | Vice Chief of Staff. |
 | [3035\.](%C2%A7%2003035%20-%20Deputy%20Chiefs%20of%20Staff%20and%20Assistant%20Chiefs%20of%20Staff.md) | Deputy Chiefs of Staff and Assistant Chiefs of Staff. |
 | [3036\.](%C2%A7%2003036%20-%20Chiefs%20of%20branches%20appointment%3B%20duties.md) | Chiefs of branches: appointment; duties. |
 | [3037\.](%C2%A7%2003037%20-%20Judge%20Advocate%20General%2C%20Assistant%20Judge%20Advocate%20General%2C%20and%20general%20officers%20of%20Judge%20Advocate%20General%27s%20Corps%20appointment%3B%20duties.md) | Judge Advocate General, Assistant Judge Advocate General, and general officers of Judge Advocate General's Corps: appointment; duties. |

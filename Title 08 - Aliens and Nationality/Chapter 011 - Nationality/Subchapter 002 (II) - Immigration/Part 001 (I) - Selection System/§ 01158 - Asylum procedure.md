@@ -2,7 +2,7 @@
 
 #### (a) Establishment by Attorney General; coverage
 
-The Attorney General shall establish a procedure for an alien physically present in theUnited States or at a land border or port of entry, irrespective of such alien's status, to apply for asylum, and the alien may be granted asylum in the discretion of the Attorney General if the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.
+The Attorney General shall establish a procedure for an alien physically present in the United States or at a land border or port of entry, irrespective of such alien's status, to apply for asylum, and the alien may be granted asylum in the discretion of the Attorney General if the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.
 
 #### (b) Termination of asylum by Attorney General; criteria
 

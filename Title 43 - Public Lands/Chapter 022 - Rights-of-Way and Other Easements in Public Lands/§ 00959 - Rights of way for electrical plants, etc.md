@@ -30,5 +30,5 @@ Rights-of-way through public lands, provisions of sections 1, 2, 3, 22, and 43 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 421c of this title.
+This section is referred to in section 421c of this title.
 

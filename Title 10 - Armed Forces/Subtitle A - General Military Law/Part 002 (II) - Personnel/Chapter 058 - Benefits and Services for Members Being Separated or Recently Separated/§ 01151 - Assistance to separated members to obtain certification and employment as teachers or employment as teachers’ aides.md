@@ -20,7 +20,7 @@ States with Alternative Certification Requirements and Teacher and Teacher's Aid
 
 &emsp;(2) periodically request information from States identified under paragraph (1) to identify in these States those local educational agencies that—
 
-&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2701 <sup>1</sup> et seq.) as a result ofhaving within their jurisdictions concentrations of children from low-income families; and
+&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2701 <sup>1</sup> et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
 
 &emsp;&emsp;(B) are also experiencing a shortage of qualified teachers, in particular a shortage of science, mathematics, or engineering teachers; and
 
@@ -70,9 +70,9 @@ Selection of Participants.—(1) Selection of members to participate in the plac
 
 (3) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsections (g) and (h) with respect to that member.
 
-(4)(A) The Secretaries shall provide under the program for identifying, during each fiscal year in the period referred to in subsection (c)(1)(A), noncommissioned officers who, on or before the end of such fiscal year, will have completed 10 or more years of continuous active duty, who have the potential to perform competently as elementary or secondary school teachers, but who do not satisfy the minimum educational qualification criterion under subsection (c)(1)(B)(i) for teacher placement assistance.
+(4)(A) The Secretaries shall provide under the program for identifying, during each fiscal year in the period referred to in subsection (c)(1)(A), noncommissioned officers who, on or before theend of such fiscal year, will have completed 10 or more years of continuous active duty, who have the potential to perform competently as elementary or secondary school teachers, but who do not satisfy the minimum educational qualification criterion under subsection (c)(1)(B)(i) for teacher placement assistance.
 
-(B) The Secretaries shall inform noncommissioned officers identified under subparagraph (A)of the opportunity to qualify in accordance with subsection (c)(2) for teacher placement assistance under the program.
+(B) The Secretaries shall inform noncommissioned officers identified under subparagraph (A) of the opportunity to qualify in accordance with subsection (c)(2) for teacher placement assistance under the program.
 
 (f)
 

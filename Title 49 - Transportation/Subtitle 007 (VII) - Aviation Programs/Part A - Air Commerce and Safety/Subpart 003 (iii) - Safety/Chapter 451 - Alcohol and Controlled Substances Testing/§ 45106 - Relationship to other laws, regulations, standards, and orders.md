@@ -6,7 +6,7 @@ Effect on State and Local Government Laws, Regulations, Standards, or Orders.—
 
 (b)
 
-International Obligations and Foreign Laws.—(1) In prescribing regulations under thischapter, the Administrator of the Federal Aviation Administration—
+International Obligations and Foreign Laws.—(1) In prescribing regulations under this chapter, the Administrator of the Federal Aviation Administration—
 
 &emsp;(A) shall establish only requirements applicable to foreign air carriers that are consistent with international obligations of the United States; and
 

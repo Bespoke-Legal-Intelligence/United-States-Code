@@ -8,7 +8,7 @@ Establishment.—The Librarian of Congress, upon the recommendation of the Regis
 
 Purposes.—Subject to the provisions of this chapter, the purposes of the copyright arbitration royalty panels shall be—
 
-&emsp;(1) to make determinations concerning the adjustment of reasonable copyright royalty rates as provided in sections 115 and 116, and to make determinations as to reasonable terms and rates of royalty payments as provided in section 118. The rates applicable under sections 115 and 116 shall be calculated to achieve the following objectives:
+&emsp;(1) to make determinations concerning the adjustment of reasonable copyright royalty rates as provided in sections 114, 115, and 116, and to make determinations as to reasonable terms and rates of royalty payments as provided in section 118. The rates applicable under sections 114, 115, and 116 shall be calculated to achieve the following objectives:
 
 &emsp;&emsp;(A) To maximize the availability of creative works to the public;
 
@@ -38,13 +38,15 @@ Rulings.—The Librarian of Congress, upon the recommendation of the Register of
 
 Administrative Support of Copyright Arbitration Royalty Panels.—The Library of Congress, upon the recommendation of the Register of Copyrights, shall provide the copyright arbitration royalty panels with the necessary administrative services related to proceedings under this chapter.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348.)
 
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (b)(2)(A), is Oct. 19, 1976.
 
 #### Amendments
+
+1995—Subsec. (b)(1). Pub. L. 104–39 substituted “sections 114, 115, and 116” for “sections 115 and 116” in two places in introductory provisions.
 
 1993—Pub. L. 103–198, §2(a)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Copyright Royalty Tribunal: Establishment and purpose”.
 
@@ -79,6 +81,10 @@ Subsec. (b)(3). Pub. L. 100–667 substituted “, 116, and 119(b)” for “an
 1986—Subsec. (b)(2)(A) to (C). Pub. L. 99–397, §2(c), substituted “section 111(d)(1)(B)” for “section 111(d)(2)(B)”.
 
 Subsec. (d)(2)(D). Pub. L. 99–397, §2(d), which directed the amendment of subsec. (d)(2)(D) by substituting “section 111(d)(1)(C) and (D)” for “section 111(d)(2)(C) and (D)”, could not be executed because section did not contain a subsec. (d). See 1990 Amendment note above.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section 6 of Pub. L. 104–39, set out as a note under section 101 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -126,5 +132,5 @@ Trade-marks registrable on principal register, see section 1052 of Title 15, Com
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104A, 802, 803 of this title; title 47 section 545.
+This section is referred to in sections 104A, 114, 115, 802, 803 of this title; title 47 section 545.
 

@@ -1,4 +1,4 @@
-### §5942 . Aviation commands: eligibility
+### §5942. Aviation commands: eligibility
 
 (a) To be eligible to command an aircraft carrier or an aircraft tender, an officer must be an officer in the line of the Navy who is designated as a naval aviator or naval flight officer and who is otherwise qualified.
 

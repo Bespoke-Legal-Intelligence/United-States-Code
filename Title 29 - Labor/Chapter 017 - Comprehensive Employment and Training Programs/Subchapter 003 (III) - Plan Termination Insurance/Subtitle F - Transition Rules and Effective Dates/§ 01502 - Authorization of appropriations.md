@@ -1,6 +1,6 @@
 ### §1502. Authorization of appropriations
 
-(a)(1) There are authorized to be appropriated to carry out parts A and C of subchapter II ofthis chapter such sums as may be necessary for fiscal year 1993 and for each succeeding fiscal year. Of the sums appropriated to carry out parts A and C of subchapter II of this chapter for each such fiscal year, an amount not less than 40 percent of such sums shall be made available to carry out part A of such subchapter and an amount not less than 40 percent of such sums shall be made available to carry out part C of such subchapter.
+(a)(1) There are authorized to be appropriated to carry out parts A and C of subchapter II of this chapter such sums as may be necessary for fiscal year 1993 and for each succeeding fiscal year. Of the sums appropriated to carry out parts A and C of subchapter II of this chapter for each such fiscal year, an amount not less than 40 percent of such sums shall be made available to carry out part A of such subchapter and an amount not less than 40 percent of such sums shall be made available to carry out part C of such subchapter.
 
 (2) There are authorized to be appropriated to carry out part B of subchapter II of this chapter such sums as may be necessary for fiscal year 1993 and for each succeeding fiscal year.
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) shall first reserve—
 
-&emsp;&emsp;(i) an amount of not less than 3.3 percent of the amount available for parts A and C of subchapter II of this chapter for such fiscal year to carry out section 1671 of this title; and
+&emsp;&emsp;(i) an amount of not less than 3.3 percent of the amount available for parts A and C ofsubchapter II of this chapter for such fiscal year to carry out section 1671 of this title; and
 
 &emsp;&emsp;(ii) an amount of not less than 3.2 percent of the amount available for parts A and C of subchapter II of this chapter for such fiscal year to carry out section 1672 of this title; and
 

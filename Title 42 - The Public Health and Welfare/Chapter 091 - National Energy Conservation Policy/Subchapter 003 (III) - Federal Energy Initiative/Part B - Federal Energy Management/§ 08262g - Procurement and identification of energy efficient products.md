@@ -14,9 +14,9 @@ The Administrator for Federal Procurement Policy, in consultation with the Admin
 
 #### (d) Report to Congress
 
-Not later than December 31 of 1993 and of each year thereafter, the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
+Not later than December 31 of 1993 and thereafter as part of the report required under section 8258(b) of this title, the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
 
-&emsp;(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
+&emsp;(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administratorof General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
 
 &emsp;(2) the actions taken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to identify products under subsection (b) of this section, the barriers which inhibit implementation of identification of such products, and recommendations for legislative action, if necessary;
 
@@ -28,11 +28,15 @@ Not later than December 31 of 1993 and of each year thereafter, the Secretary of
 
 &emsp;(6) the actual quantities acquired of products described in paragraph (5).
 
-(Pub. L. 102–486, title I, §161, Oct. 24, 1992, 106 Stat. 2858.)
+(Pub. L. 102–486, title I, §161, Oct. 24, 1992, 106 Stat. 2858; Pub. L. 104–66, title I, §1052(c), Dec. 21, 1995, 109 Stat. 718.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
+#### Amendments
+
+1995—Subsec. (d). Pub. L. 104–66 substituted “thereafter as part of the report required under section 8258(b) of this title,” for “of each year thereafter,” in introductory provisions.
 
 #### Procurement of Energy-Efficient Products
 
@@ -63,4 +67,8 @@ Sec. 2. <i>Definition</i>. For purposes of this order, the term “agency” has
 Sec. 3. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable by a non-Federal party against the United States, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8258 of this title.
 

@@ -18,7 +18,7 @@ There shall be allowed as a credit against the tax imposed by this subtitle for 
 
 #### (b) Exception
 
-Credit shall not be allowed under subsection (a) for any amount payable under section 6421 or 6427, if a claim for such amount is timely filed and, under section 6421(j) or 6427(k), is payable under such section.
+Credit shall not be allowed under subsection (a) for any amount payable under section 6421 or6427, if a claim for such amount is timely filed and, under section 6421(j) or 6427(k), is payable under such section.
 
 (Added Pub. L. 89–44, title VIII, 809(c), June 21, 1965, 79 Stat. 167, §39; amended Pub. L. 91–258, title II, §207(c), May 21, 1970, 84 Stat. 248; Pub. L. 94–455, title XIX, §§1901(a)(3), 1906(b)(8), (9), Oct. 4, 1976, 90 Stat. 1764, 1834; Pub. L. 94–530, §1(c)(1), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §505(c)(1), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–618, title II, §233(b)(2)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–223, title II, §232(d)(4)(A), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(6)(A)–(C), Jan. 6, 1983, 96 Stat. 2181; renumbered §34 and amended Pub. L. 98–369, div. A, title IV, §471(c), title IX, §911(d)(2)(A), July 18, 1984, 98 Stat. 826, 1006; Pub. L. 99–514, title XVII, §1703(e)(2)(F), title XVIII, §1877(a), Oct. 22, 1986, 100 Stat. 2778, 2902; Pub. L. 100–647, title I, §1017(c)(2), Nov. 10, 1988, 102 Stat. 3576.)
 

@@ -12,21 +12,21 @@ Under regulations which shall be prescribed by or under authority of the Preside
 
 The cost-of-living allowances and additional compensation provided under subsection (a) of this section for any teacher shall be based on the teaching position in which he rendered services on a school-year basis, except that, if such teacher is employed in another position during any recess period between two school years, such allowances and compensation for such recess period shall be based on the position in which he is employed during such recess period.
 
-(Pub. L. 86 91, §8, July 17, 1959, 73 Stat. 216; Pub. L. 96 465, title II, §2206(d), Oct. 17, 1980, 94 Stat. 2162.)
+(Pub. L. 86–91, §8, July 17, 1959, 73 Stat. 216; Pub. L. 96–465, title II, §2206(d), Oct. 17, 1980, 94 Stat. 2162.)
 
 #### Codification
 
-In subsec. (a)(2), “section 5941 of title 5” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)” on authority of Pub. L. 89 554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(2), “section 5941 of title 5” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2356 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89 554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2356 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1980—Subsec. (a)(1). Pub. L. 96 465 substituted reference to section 5924 of title 5 for reference to section 1131(2) of title 22.
+1980—Subsec. (a)(1). Pub. L. 96–465 substituted reference to section 5924 of title 5 for reference to section 1131(2) of title 22.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96 465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96 465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Delegation of Functions
 
@@ -38,7 +38,7 @@ Secretary of State empowered to prescribe regulations relating to quarters and q
 
 #### Regulations Applicable to Payment of Additional Compensation
 
-For provisions relating to payment of additional compensation authorized by subsec. (a)(2) of this section in accordance with the regulations contained in Ex. Ord. No. 10000, see section 1 101 of Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, set out as a note under section 707 of Title 38, Veterans’ Benefits.
+For provisions relating to payment of additional compensation authorized by subsec. (a)(2) of this section in accordance with the regulations contained in Ex. Ord. No. 10000, see section 1–101 of Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, set out as a note under section 707 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) benefits as provided by this subchapter or by the provisions of chapter 84 of this title which relate to benefits payable out of the Fund; and
 
-&emsp;&emsp;(B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), and in withholding taxes pursuant to section 3405 of title 26;
+&emsp;&emsp;(B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, and in withholding taxes pursuant to section 3405 of title 26 or section 8345(k) or 8469 of this title;
 
 &emsp;(2) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Office in connection with the administration of this chapter, chapter 84 of this title, and other retirement and annuity statutes; and
 
@@ -44,7 +44,7 @@
 
 (2) Any amounts in the Fund which, solely by reason of the public debt limit, are not invested shall be invested by the Secretary of the Treasury as soon as such investments can be made without exceeding the public debt limit.
 
-(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasuryshall immediately issue to the Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (d) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of the Fund will replicate to the maximum extent practicable the obligations that would then be held by the Fund if the suspension of investment under paragraph (1) of this subsection, and any redemption or disinvestment under subsection (k) of this section for the purpose described in such paragraph, during such period had not occurred.
+(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (d) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of the Fund will replicate to the maximum extent practicable the obligations that would then be held by the Fund if the suspension of investment under paragraph (1) of this subsection, and any redemption or disinvestment under subsection (k) of this section for the purpose described in such paragraph, during such period had not occurred.
 
 (4) On the first normal interest payment date after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount determined by the Secretary to be equal to the excess of—
 
@@ -76,7 +76,7 @@
 
 (3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490.)
 
 Historical and Revision Notes<br>1966
 
@@ -140,39 +140,41 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
+<b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
+
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
 
 Subsec. (i)(1). Pub. L. 101–510 substituted “1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991” for “1979”.
 
 Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for “October 1, 1986” in two places.
 
-1989—Subsec. (m). Pub. L. 101–239 added subsec. (m).
+<b>1989</b>—Subsec. (m). Pub. L. 101–239 added subsec. (m).
 
-1987—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
+<b>1987</b>—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
 
-1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 99–509 added subsecs. (j) to (<i>l</i>).
 
-1984—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
+<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
 
 Subsec. (d). Pub. L. 98–216 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended,”.
 
-1982—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
+<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
 
 Subsec. (g). Pub. L. 97–253, §306(f), inserted “, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title” after “allowed for military service”.
 
-1979—Subsec. (i). Pub. L. 96–70 added subsec. (i).
+<b>1979</b>—Subsec. (i). Pub. L. 96–70 added subsec. (i).
 
-1978—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-1975—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
+<b>1975</b>—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
 
-1974—Subsec. (h). Pub. L. 93–349 added subsec. (h).
+<b>1974</b>—Subsec. (h). Pub. L. 93–349 added subsec. (h).
 
-1969—Subsec. (a). Pub. L. 91–93, §103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
+<b>1969</b>—Subsec. (a). Pub. L. 91–93, §103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
 Subsec. (f). Pub. L. 91–93, §103(a)(2), added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
 
@@ -202,7 +204,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 
 Amendment by Pub. L. 97–346 effective Sept. 8, 1982, see section 3(n) of Pub. L. 97–346, set out as a note under section 8332 of this title.
 
-Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title,to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -222,7 +224,7 @@ Section 103(b)(1) of Pub. L. 91–93 provided that: “The provisions of subsect
 
 #### Payments by Postal Service Relating to Corrected Calculations for Past Retirement COLAs
 
-Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, provided that: “In addition to any other payments required under section 8348(m) of title 5, United States Code, or any other provision of law, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund a total of $693,000,000, of which—
+Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, provided that: “In addition to any other payments required under section 8348(m) of title 5, UnitedStates Code, or any other provision of law, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund a total of $693,000,000, of which—
 
 &emsp;“(1) at least one-third shall be paid not later than September 30, 1996;
 
@@ -298,7 +300,7 @@ Definition.—For the purpose of this section, the term ‘pre-1987 fiscal year�
 
 “(b)
 
-For Past Retirement COLAs.—As payment for any amounts which would have been due in any pre-1987 fiscal year under the provisions of section 8348(m) of title 5, United States Code (as amended by section 7101)if such provisions had been in effect as of July 1, 1971, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund—
+For Past Retirement COLAs.—As payment for any amounts which would have been due in any pre-1987 fiscal year under the provisions of section 8348(m) of title 5, United States Code (as amended by section 7101) if such provisions had been in effect as of July 1, 1971, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund—
 
 &emsp;“(1) $216,000,000, not later than September 30, 1991;
 
@@ -330,7 +332,7 @@ Section 4002(b)(2) of Pub. L. 101–239, which provided that notwithstanding any
 
 #### Certain Postal Service Annuitants; Additional Amount Payable
 
-Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made under provisions of section 8348(m) of this title was to include, in addition to the amount which would otherwise have been payable at that time, an amount equal to the sum of any amounts which would have been due under those provisions in any prior year if this section had been enacted before Oct. 1, 1986, and which provided the method of computation, was repealed by Pub. L. 101–508, title VII, §7101(b), Nov. 5, 1990, 104 Stat. 1388–331.
+Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made under provisions of section 8348(m) of this title was to include, in addition to the amount which would otherwise have been payable at that time, an amount equal to the sum of any amountswhich would have been due under those provisions in any prior year if this section had been enacted before Oct. 1, 1986, and which provided the method of computation, was repealed by Pub. L. 101–508, title VII, §7101(b), Nov. 5, 1990, 104 Stat. 1388–331.
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 

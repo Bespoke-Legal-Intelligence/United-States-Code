@@ -20,7 +20,7 @@ No registered investment company shall have a majority of its board of directors
 
 #### (d) Exception to limitation of number of interested persons who may serve on board of directors
 
-Notwithstanding subsections (a) and (b)(2) of this section, a registered investment companymay have a board of directors all the members of which, except one, are interested persons of the investment adviser of such company, or are officers or employees of such company, if—
+Notwithstanding subsections (a) and (b)(2) of this section, a registered investment company may have a board of directors all the members of which, except one, are interested persons of the investment adviser of such company, or are officers or employees of such company, if—
 
 &emsp;(1) such investment company is an open-end company;
 
@@ -50,7 +50,7 @@ If by reason of the death, disqualification, or bona fide resignation of any dir
 
 #### (f) Officer, director, etc., of company acting as principal underwriter of security acquired by company
 
-No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rules and regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
+No registered investment company shall knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security (except a security of which such company is the issuer) a principal underwriter of which is an officer, director, member of an advisory board, investment adviser, or employee of such registered company, or is a person (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title) of which any such officer, director, member of an advisory board, investmentadviser, or employee is an affiliated person, unless in acquiring such security such registered company is itself acting as a principal underwriter for the issuer. The Commission, by rules and regulations upon its own motion or by order upon application, may conditionally or unconditionally exempt any transaction or classes of transactions from any of the provisions of this subsection, if and to the extent that such exemption is consistent with the protection of investors.
 
 #### (g) Advisory boards; restrictions on membership
 
@@ -80,7 +80,7 @@ Subsec. (b)(2). Pub. L. 91–547, §5(b)(2), substituted “interested” for �
 
 Subsec. (c). Pub. L. 91–547, §5(c), struck out introductory text “After the effective date of this subchapter”, substituted “No”, “, except that”, “had a majority”, and “such company” for “no”, “: <i>Provided</i>, That”, “shall have had a majority”, and “such company”, respectively, and inserted reference to employees where first appearing.
 
-Subsec. (d). Pub. L. 91–547, §5(d), reenacted provisions except for substitution of “interested persons” for “affiliated persons” in introductory text, deletion of “such investment adviser” before “is engaged” in item (2),and substitution of “class of securities” for “class of stock” and “unit” for “share” in two places in item (8).
+Subsec. (d). Pub. L. 91–547, §5(d), reenacted provisions except for substitution of “interested persons” for “affiliated persons” in introductory text, deletion of “such investment adviser” before “is engaged” in item (2), and substitution of “class of securities” for “class of stock” and “unit” for “share” in two places in item (8).
 
 #### Effective Date of 1975 Amendment
 

@@ -6,7 +6,7 @@ A person who has applied for naturalization shall, in order to be and before bei
 
 #### (b) Hereditary titles or orders of nobility
 
-In case the person applying for naturalization has borne any hereditary title, or has been ofany of the orders of nobility in any foreign state, the applicant shall in addition to complying with the requirements of subsection (a) of this section, make under oath in the same public ceremony in which the oath of allegiance is administered, an express renunciation of such title or order of nobility, and such renunciation shall be recorded as a part of such proceedings.
+In case the person applying for naturalization has borne any hereditary title, or has been of any of the orders of nobility in any foreign state, the applicant shall in addition to complying with the requirements of subsection (a) of this section, make under oath in the same public ceremony in which the oath of allegiance is administered, an express renunciation of such title or order of nobility, and such renunciation shall be recorded as a part of such proceedings.
 
 #### (c) Expedited judicial oath administration ceremony
 

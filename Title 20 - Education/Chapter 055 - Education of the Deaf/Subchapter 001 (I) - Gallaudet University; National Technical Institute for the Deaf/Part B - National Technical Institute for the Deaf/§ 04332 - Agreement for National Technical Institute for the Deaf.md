@@ -18,7 +18,7 @@ The agreement shall—
 
 &emsp;(4) include such other conditions as the Secretary deems necessary to carry out the purposes of this part;
 
-&emsp;(5) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for the benefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a 5) commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40; and
+&emsp;(5) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for the benefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40; and
 
 &emsp;(6) establish a policy of outreach and recruitment to employ and advance in employment qualified individuals with disabilities, particularly individuals who are deaf or hard of hearing.
 
@@ -32,59 +32,59 @@ If, within twenty years after the completion of any construction (except minor r
 
 > the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
 
-(Pub. L. 99 371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102 421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103 73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734.)
+(Pub. L. 99–371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102–421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734.)
 
 #### References in Text
 
-Act of March 3, 1931 (40 U.S.C. 276a—276a 5) commonly referred to as the Davis-Bacon Act, referred to in subsec. (b)(5), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a 5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act, referred to in subsec. (b)(5), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(5), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
-Section is also set out in D.C. Code, §31 1841.4b.
+Section is also set out in D.C. Code, §31–1841.4b.
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 684 of this title prior to repeal by Pub. L. 99 371.
+Provisions similar to this section were contained in section 684 of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
 
-1993—Pub. L. 103 73, §203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
+1993—Pub. L. 103–73, §203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
 
-Subsec. (a)(1). Pub. L. 103 73, §203(g)(2)(A), substituted “part” for “chapter”.
+Subsec. (a)(1). Pub. L. 103–73, §203(g)(2)(A), substituted “part” for “chapter”.
 
-Subsec. (a)(2). Pub. L. 103 73, §203(g)(2)(B), in first sentence struck out comma after “The Secretary” and after “this section”.
+Subsec. (a)(2). Pub. L. 103–73, §203(g)(2)(B), in first sentence struck out comma after “The Secretary” and after “this section”.
 
-Subsec. (b)(1), (2). Pub. L. 103 73, §202, substituted “NTID” for “the Institute” wherever appearing.
+Subsec. (b)(1), (2). Pub. L. 103–73, §202, substituted “NTID” for “the Institute” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 103 73, §203(g)(3)(A), substituted “Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing” for “Secretary an annual report, including”, “which accounting” for “which report”, and “Representatives” for “Representatives,”.
+Subsec. (b)(3). Pub. L. 103–73, §203(g)(3)(A), substituted “Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing” for “Secretary an annual report, including”, “which accounting” for “which report”, and “Representatives” for “Representatives,”.
 
-Subsec. (b)(4). Pub. L. 103 73, §203(g)(3)(B), struck out “and” at end of par. (4).
+Subsec. (b)(4). Pub. L. 103–73, §203(g)(3)(B), struck out “and” at end of par. (4).
 
-Subsec. (b)(5). Pub. L. 103 73, §203(g)(3)(C), substituted “except that the Secretary” for “and the Secretary” and “title 40; and” for “title 40.”
+Subsec. (b)(5). Pub. L. 103–73, §203(g)(3)(C), substituted “except that the Secretary” for “and the Secretary” and “title 40; and” for “title 40.”
 
-Pub. L. 103 73, §202, substituted “NTID” for “the Institute”.
+Pub. L. 103–73, §202, substituted “NTID” for “the Institute”.
 
-Subsec. (b)(6). Pub. L. 103 73, §203(g)(3)(D), substituted “or hard of hearing” for “or individuals who are hard of hearing”.
+Subsec. (b)(6). Pub. L. 103–73, §203(g)(3)(D), substituted “or hard of hearing” for “or individuals who are hard of hearing”.
 
-Subsec. (c). Pub. L. 103 73, §203(g)(4), inserted a comma after “If”.
+Subsec. (c). Pub. L. 103–73, §203(g)(4), inserted a comma after “If”.
 
-1992—Subsec. (a). Pub. L. 102 421, §121(1), designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (a). Pub. L. 102–421, §121(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(2). Pub. L. 102 421, §151(a)(4), substituted “individuals who are deaf” for “the deaf”.
+Subsec. (b)(2). Pub. L. 102–421, §151(a)(4), substituted “individuals who are deaf” for “the deaf”.
 
-Subsec. (b)(3). Pub. L. 102 421, §121(2), substituted “will prepare and submit to the Secretary an annual report, including an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which report the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate,” for “will make an annual report together with an accounting of all indirect costs paid to the institution of higher education under the agreement to the Secretary, which the Secretary shall transmit to the Congress”.
+Subsec. (b)(3). Pub. L. 102–421, §121(2), substituted “will prepare and submit to the Secretary an annual report, including an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which report the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate,” for “will make an annual report together with an accounting of all indirect costs paid to the institution of higher education under the agreement to the Secretary, which the Secretary shall transmit to the Congress”.
 
-Subsec. (b)(6). Pub. L. 102 421, §121(3), added par. (6).
+Subsec. (b)(6). Pub. L. 102–421, §121(3), added par. (6).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 421 effective Oct. 1, 1992, see section 161 of Pub. L. 102 421, set out as a note under section 4301 of this title.
+Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
 #### Establishment of Institute
 

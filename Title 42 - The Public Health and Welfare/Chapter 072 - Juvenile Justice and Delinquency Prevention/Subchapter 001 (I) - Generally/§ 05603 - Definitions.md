@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 &emsp;(10) the term “construction” means acquisition, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings, or any combination of such activities (including architects’ fees but not the cost of acquisition of land for buildings);
 
-&emsp;(11) the term “public agency” means any State, unit of local government, combinationof such States or units, or any department, agency, or instrumentality of any of the foregoing;
+&emsp;(11) the term “public agency” means any State, unit of local government, combination of such States or units, or any department, agency, or instrumentality of any of the foregoing;
 
 &emsp;(12) the term “secure detention facility” means any public or private residential facility which—
 
@@ -58,7 +58,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) determined the reasons for the behavior that caused such juvenile to be brought before the court and made subject to such order;
 
-&emsp;&emsp;&emsp;(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a secure correctional facility, have been exhausted or are clearly inappropriate; and
+&emsp;&emsp;&emsp;(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a securecorrectional facility, have been exhausted or are clearly inappropriate; and
 
 &emsp;&emsp;&emsp;(iv) submitted to the court a written report stating the results of the review conducted under clause (i) and the determinations made under clauses (ii) and (iii);
 

@@ -1,4 +1,4 @@
-### §3961 . General rule
+### §3961. General rule
 
 (a) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Army who retires other than for physical disability or for nonregular service under chapter 1223 of this title, is determined under section 1370 of this title.
 

@@ -2,9 +2,9 @@
 
 Each student awarded a fellowship under this chapter shall demonstrate the potential, and a serious intention, to follow a career of educating students in secondary schools. Each institution of higher education at which such a student is in attendance shall make reasonable efforts to encourage such a student to meet the objectives of this section.
 
-Each student receiving a Fellowship under this chapter<sup>1</sup> shall enter into an agreement under which the recipient shall:
+Each student receiving a Fellowship under this chapter <sup>1</sup> shall enter into an agreement under which the recipient shall:
 
-&emsp;(a) within a 5-year period after completing the education for which the fellowship was awarded, teach on a full-time basis students in secondary school for a period of not less than one year for each year for which asistance<sup>2</sup> was received;
+&emsp;(a) within a 5-year period after completing the education for which the fellowship was awarded, teach on a full-time basis students in secondary school for a period of not less than one year for each year for which asistance <sup>2</sup> was received;
 
 &emsp;(b) repay all of the Fellowship assistance received plus interest at the rate of 6% per annum and, if applicable, reasonable collection fees for each school year for which assistance was received for which such recipient failed to teach as provided in paragraph (a); and
 
@@ -22,13 +22,13 @@ Each student receiving a Fellowship under this chapter<sup>1</sup> shall enter i
 
 &emsp;&emsp;(6) is seeking and unable to find full-time employment as a teacher.
 
-(Pub. L. 99 500, §101(b) \[title VIII, §807\], Oct. 18, 1986, 100 Stat. 1783 39, 1783 77, and Pub. L. 99 591, §101(b) \[title VIII, §807\], Oct. 30, 1986, 100 Stat. 3341 39, 3341 77.)
+(Pub. L. 99–500, §101(b) \[title VIII, §807\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, §101(b) \[title VIII, §807\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
 
 #### Codification
 
-Pub. L. 99 591 is a corrected version of Pub. L. 99 500.
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i>So in original. Probably should be “assistance”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “assistance”.</i>
 

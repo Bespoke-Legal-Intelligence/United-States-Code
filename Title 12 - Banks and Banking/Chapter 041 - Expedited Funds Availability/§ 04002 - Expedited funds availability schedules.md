@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) of this paragraph, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 2 business days shall intervenebetween the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which such funds are available for withdrawal.
+&emsp;&emsp;Subject to subparagraph (B) of this paragraph, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 2 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which such funds are available for withdrawal.
 
 #### (B) Time period adjustment for cash withdrawal of certain checks
 
@@ -98,7 +98,7 @@
 
 #### (ii) 5 p.m. cash availability
 
-&emsp;&emsp;&emsp;Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o'clock post meridian of the business day on which such funds are available under subparagraph (A).
+&emsp;&emsp;&emsp;Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machinebut not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o'clock post meridian of the business day on which such funds are available under subparagraph (A).
 
 #### (iii) $100 availability
 

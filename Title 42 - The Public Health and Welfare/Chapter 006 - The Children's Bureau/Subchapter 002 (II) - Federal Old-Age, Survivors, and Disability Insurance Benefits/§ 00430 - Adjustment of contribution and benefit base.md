@@ -178,11 +178,13 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+1996—By notice of the Secretary of Health and Human Services, Oct. 18, 1995, 60 F.R. 54751, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1996 is $62,700.
+
 1995—By notice of the Secretary of Health and Human Services, Oct. 25, 1994, 59 F.R. 54464, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1995 is $61,200.
 
-1994—By notice of the Secretary of Health and Human Services, Oct. 28, 1993, 58 F.R. 58004, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1994 is $60,600.
+1994—By notice of the Secretary of Health and Human Services, Oct. 28, 1993, 58 F.R. 58004, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefitbase for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1994 is $60,600.
 
-1993—By notice of the Secretary of Health and Human Services, Oct. 20, 1992, 57 F.R. 48619, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefitbase for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1993 is $57,600.
+1993—By notice of the Secretary of Health and Human Services, Oct. 20, 1992, 57 F.R. 48619, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1993 is $57,600.
 
 1992—By notice of the Secretary of Health and Human Services, Oct. 21, 1991, 56 F.R. 55325, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1992 is $55,500.
 

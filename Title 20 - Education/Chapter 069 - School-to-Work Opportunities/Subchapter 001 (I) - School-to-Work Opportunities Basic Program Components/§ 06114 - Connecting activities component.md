@@ -24,7 +24,7 @@ The connecting activities component of a School-to-Work Opportunities program sh
 
 &emsp;(8) linking youth development activities under this chapter with employer and industry strategies for upgrading the skills of their workers.
 
-(Pub. L. 103 239, title I, §104, May 4, 1994, 108 Stat. 577.)
+(Pub. L. 103–239, title I, §104, May 4, 1994, 108 Stat. 577.)
 
 #### Section Referred to in Other Sections
 

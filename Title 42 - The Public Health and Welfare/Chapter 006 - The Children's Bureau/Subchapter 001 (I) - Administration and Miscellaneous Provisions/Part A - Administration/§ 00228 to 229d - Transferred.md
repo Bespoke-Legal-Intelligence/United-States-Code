@@ -12,5 +12,5 @@ Section 229b, act July 1, 1944, ch. 373, title V, §513, as added June 30, 1970,
 
 Section 229c, act July 1, 1944, ch. 373, title V, §514, as added Nov. 9, 1978, Pub. L. 95–623, §11(e), 92 Stat. 3456, which related to contract authority of Secretary, was successively renumbered by subsequent acts and transferred, see section 238k of this title.
 
-Section 229d, act July 1, 1944, ch. 373, title V, §515, formerly Pub. L. 88–164, title II, §225, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326; amended Pub. L. 95–622, title I, §110(c), Nov. 9, 1978, 92 Stat. 3420; renumbered and amended Pub. L. 97–35, title IX,§902(e)(2)(A), Aug. 13, 1981, 95 Stat. 560, which related to recovery of payments, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
+Section 229d, act July 1, 1944, ch. 373, title V, §515, formerly Pub. L. 88–164, title II, §225, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326; amended Pub. L. 95–622, title I, §110(c), Nov. 9, 1978, 92 Stat. 3420; renumbered and amended Pub. L. 97–35, title IX, §902(e)(2)(A), Aug. 13, 1981, 95 Stat. 560, which related to recovery of payments, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
 

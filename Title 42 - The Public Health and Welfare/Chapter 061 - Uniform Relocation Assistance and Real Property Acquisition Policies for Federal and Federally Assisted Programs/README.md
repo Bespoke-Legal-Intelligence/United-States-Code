@@ -9,7 +9,7 @@
 | [4603\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2004603%20-%20Additional%20appropriations%20for%20moving%20costs%2C%20relocation%20benefits%20and%20other%20expenses%20incurred%20in%20acquisition%20of%20lands%20for%20National%20Park%E2%80%A6.md) | Additional appropriations for moving costs, relocation benefits and other expenses incurred in acquisition of lands for National Park System; waiver of benefits. |
 | [4604\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2004604%20-%20Certification.md) | Certification. |
 | (a) | Acceptance of State agency certification. |
-| (b) | Promulgation of regulations; monitoring and report to Congress on implementation by State agency; availability of information; notice and comment; consultation with local governments. |
+| (b) | Promulgation of regulations; notice and comment; consultation with local governments. |
 | (c) | Effect of noncompliance with certification or with applicable law. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,7 +75,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5181, 5304, 11503 of this title; title 16 sections 410uu–1, 460<i>o</i>–1, 429b–2; title 23 sections 108, 117; title 25 section 640d–14; title 40 sections 616, 875, 877; title 43 sections 1578, 1598; title 49 section 70304.
+This chapter is referred to in sections 5181, 5304, 11503 of this title; title 16 sections 410uu–1, 460<i>o</i>–1, 429b–2; title 23 sections 108, 117, 133; title 25 section 640d–14; title 40 sections 616, 875, 877; title 43 sections 1578, 1598; title 49 section 70304.
 
 
 ---

@@ -12,7 +12,7 @@ For the effect of an authorization under subsection (a) of this section, see sec
 
 For purposes of this section, the term “surplus natural gas” means any natural gas which is determined, by the State agency having regulatory jurisdiction over the intrastate pipeline which would be entitled to receive such natural gas in the absence of any assignment to exceed the then current demands on such pipeline for natural gas.
 
-(Pub. L. 95 621, title III, §312, Nov. 9, 1978, 92 Stat. 3392; Pub. L. 101 60, §3(b)(2), July 26, 1989, 103 Stat. 158.)
+(Pub. L. 95–621, title III, §312, Nov. 9, 1978, 92 Stat. 3392; Pub. L. 101–60, §3(b)(2), July 26, 1989, 103 Stat. 158.)
 
 #### References in Text
 
@@ -20,7 +20,7 @@ The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101 60 substituted “any natural gas” for “any natural gas—
+1989—Subsec. (c). Pub. L. 101–60 substituted “any natural gas” for “any natural gas—
 
 &emsp;“(1) which is not committed or dedicated to interstate commerce on November 8, 1978;
 
@@ -30,7 +30,7 @@ The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 
 
 #### Effective Date of 1989 Amendment
 
-Section 3(b) of Pub. L. 101 60 provided in part that the amendment by section 3(b)(2) of Pub. L. 101 60 is effective Jan. 1, 1993.
+Section 3(b) of Pub. L. 101–60 provided in part that the amendment by section 3(b)(2) of Pub. L. 101–60 is effective Jan. 1, 1993.
 
 #### Section Referred to in Other Sections
 

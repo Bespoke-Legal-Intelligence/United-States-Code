@@ -35,6 +35,14 @@
 | (a) | Settlement, compromise, and payment of claims; limitations; conclusiveness of settlements; restoration of damage. |
 | (b) | Authorization to bring legal proceedings; representation; supervision by Attorney General. |
 | 832<i>l.</i> | Separability. |
+| [832m.](%C2%A7%2000832m%20-%20Sale%20of%20excess%20Federal%20power%3B%20fish%20and%20wildlife%20conservation%20within%20Federal%20Columbia%20River%20Power%20System%3B%20residential%20exchange%3B%20personnel%E2%80%A6.md) | Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility. |
+| (a) | Definitions. |
+| (b) | Sale of excess Federal power. |
+| (c) | Study by Council. |
+| (d) | Corps of Engineers procurement. |
+| (e) | Residential exchange. |
+| (f) | Personnel flexibility. |
+| (g) | Savings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -61,3 +69,4 @@ This chapter is referred to in sections 839c, 839e, 837f of this title; title 40
 - [&sect; 00832j - Deposit of receipts; authorization of appropriations](%C2%A7%2000832j%20-%20Deposit%20of%20receipts%3B%20authorization%20of%20appropriations.md)
 - [&sect; 00832k - Authority of Administrator](%C2%A7%2000832k%20-%20Authority%20of%20Administrator.md)
 - [&sect; 00832l - Separability](%C2%A7%2000832l%20-%20Separability.md)
+- [&sect; 00832m - Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel&#8230;](%C2%A7%2000832m%20-%20Sale%20of%20excess%20Federal%20power%3B%20fish%20and%20wildlife%20conservation%20within%20Federal%20Columbia%20River%20Power%20System%3B%20residential%20exchange%3B%20personnel%E2%80%A6.md)

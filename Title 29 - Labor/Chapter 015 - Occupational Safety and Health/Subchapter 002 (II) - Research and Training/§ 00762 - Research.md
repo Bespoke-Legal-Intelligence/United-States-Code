@@ -14,7 +14,7 @@ The Director may make grants to and contracts with States and public or private 
 
 &emsp;(A) Research grants may be used for the establishment and support of Rehabilitation Research and Training Centers, for the purpose of providing an integrated program of research, which Centers shall—
 
-&emsp;&emsp;(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
+&emsp;&emsp;(i) be operated in collaboration with institutions of higher education or providers ofrehabilitation services or other appropriate services; and
 
 &emsp;&emsp;(ii) serve as centers of national excellence and national or regional resources for providers and individuals with disabilities and the parents, family members, guardians, advocates, or authorized representatives of the individuals.
 
@@ -26,7 +26,7 @@ The Director may make grants to and contracts with States and public or private 
 
 &emsp;&emsp;(iii) providing training (including graduate, pre-service, and in-service training) for rehabilitation research personnel and other rehabilitation personnel; and
 
-&emsp;&emsp;(iv) serving as an informational and technical assistance resource to providers, individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, through conferences, workshops, publiceducation programs, in-service training programs, and similar activities.
+&emsp;&emsp;(iv) serving as an informational and technical assistance resource to providers, individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, through conferences, workshops, public education programs, in-service training programs, and similar activities.
 
 &emsp;(C) The research to be carried out at each such Center may include—
 
@@ -80,7 +80,7 @@ The Director may make grants to and contracts with States and public or private 
 
 #### (3) Rehabilitation Engineering Research Centers
 
-&emsp;(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
+&emsp;(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conductresearch or demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
 &emsp;(B) In order to carry out the purposes set forth in subparagraph (A), such a Center shall carry out the research or demonstration activities by—
 
@@ -136,7 +136,7 @@ The Director may make grants to and contracts with States and public or private 
 
 &emsp;(G) Each Center established or supported through a grant made available under this paragraph shall—
 
-&emsp;&emsp;(i) cooperate with State agencies and other local, State, regional, and national programs and organizations developing or delivering rehabilitation technology, including State programs funded under the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (29 U.S.C. 2201 et seq.); and
+&emsp;&emsp;(i) cooperate with State agencies and other local, State, regional, and national programsand organizations developing or delivering rehabilitation technology, including State programs funded under the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (29 U.S.C. 2201 et seq.); and
 
 &emsp;&emsp;(ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
 
@@ -176,7 +176,7 @@ The Director may make grants to and contracts with States and public or private 
 
 #### (8) Joint projects
 
-&emsp;Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
+&emsp;Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federalagencies, and private industry in areas of joint interest involving rehabilitation.
 
 #### (9) Rehabilitation of children, older individuals, and older American Indians, who are individuals with disabilities
 
@@ -228,7 +228,7 @@ The provisions of section 776 of this title shall apply to assistance provided u
 
 (1) In carrying out evaluations of research demonstration and related projects under this section, the Director is authorized to make arrangements for site visits to obtain information on the accomplishments of the projects.
 
-(2) The Director shall not make a grant under this section which exceeds $299,999 unless the peer review of the grant application has included a site visit.
+(2) The Director shall not make a grant under this section which exceeds $299,999 unless thepeer review of the grant application has included a site visit.
 
 (Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726.)
 
@@ -368,7 +368,7 @@ Subsec. (b)(14), (15). Pub. L. 99–506, §305(c), added pars. (14) and (15).
 
 Subsec. (d). Pub. L. 99–506, §305(d), added subsec. (d).
 
-1984—Subsec. (b)(1). Pub. L. 98–221, §123(a), inserted at end “Rehabilitation Research and Training Centers shall include both comprehensive centers dealing with multiple disabilities and centers focused on particular disabilities. Grants to Centers need not be automatically terminated at the end of a project period and may be renewed on the basis of a thorough evaluation and peer review including site visits. Training of students preparing to be rehabilitation personnel through centers shall be an important priority. Grants may include faculty support for teaching of rehabilitation related courses of study for credit and other courses offered by the institutions of higher education affiliated with the Center.”
+1984—Subsec. (b)(1). Pub. L. 98–221, §123(a), inserted at end “Rehabilitation Research and Training Centers shall include both comprehensive centers dealing with multiple disabilities and centers focused on particular disabilities. Grants to Centers need not be automatically terminated at the end of a project period and may be renewed on the basis of a thorough evaluation andpeer review including site visits. Training of students preparing to be rehabilitation personnel through centers shall be an important priority. Grants may include faculty support for teaching of rehabilitation related courses of study for credit and other courses offered by the institutions of higher education affiliated with the Center.”
 
 Subsec. (b)(3). Pub. L. 98–221, §123(b), substituted “pursuant to sections 777 and 777a of this title” for “pursuant to section 773(b) of this title”.
 

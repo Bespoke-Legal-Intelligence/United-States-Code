@@ -34,7 +34,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that, if
 
 #### (d) Relationship to items and services under other programs
 
-A funding agreement for a grant under section 290ff(a) of this title is that the grant, and the non-Federal contributions made with respect to the grant, will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+A funding agreement for a grant under section 290ff(a) of this title is that the grant, and the non-Federal contributions made with respect to the grant, will not be expended to make payment for any item or service to the extent thatpayment has been made, or can reasonably be expected to be made, with respect to such item or service—
 
 &emsp;(1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -60,7 +60,7 @@ The Secretary may make a grant under section 290ff(a) of this title only if—
 
 #### (h) Requirement of application
 
-The Secretary may make a grant under section 290ff(a) of this title only if an applicationfor the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g) of this section, and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under section 290ff(a) of this title only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g) of this section, and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 (July 1, 1944, ch. 373, title V, §564, as added July 10, 1992, Pub. L. 102–321, title I, §119, 106 Stat. 355.)
 

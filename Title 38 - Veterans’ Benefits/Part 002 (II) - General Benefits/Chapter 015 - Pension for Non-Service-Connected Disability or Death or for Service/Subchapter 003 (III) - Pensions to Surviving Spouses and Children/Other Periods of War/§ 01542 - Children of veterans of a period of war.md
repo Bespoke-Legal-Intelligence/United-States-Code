@@ -14,7 +14,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–40 substituted “5312” for “3112” in two places.
 
-1978—Pub. L. 95–588 amended section generally to speak in terms of children of veterans of any period of war rather than children of veterans of specifically named conflicts, restructured section to eliminate subsection designations, struck out provision formerly comprising subsec. (b) of this section which related to payment of pensions to recipient children in equal shares, and inserted reference to periodic pension increases pursuant to section 3112 of this title.
+1978—Pub. L. 95–588 amended section generally to speak in terms of children of veterans of any period ofwar rather than children of veterans of specifically named conflicts, restructured section to eliminate subsection designations, struck out provision formerly comprising subsec. (b) of this section which related to payment of pensions to recipient children in equal shares, and inserted reference to periodic pension increases pursuant to section 3112 of this title.
 
 1977—Subsec. (a). Pub. L. 95–204, §103(1), substituted “$61” and “$26” for “$57” and “$24”, respectively.
 

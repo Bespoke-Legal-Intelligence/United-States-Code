@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) in the dietetic or physical therapy categories, if the service was performed after April 6, 1917, and before April 1, 1943; or
 
-&emsp;&emsp;&emsp;(ii) in the occupational therapy category, if the service was performed before appointment in the Army Nurse Corps or the Women's Medical Specialist Corps and before January 1, 1949, or before appointment in the Air Force before January 1,1949, with a view to designation as an Air Force nurse or medical specialist.
+&emsp;&emsp;&emsp;(ii) in the occupational therapy category, if the service was performed before appointment in the Army Nurse Corps or the Women's Medical Specialist Corps and before January 1, 1949, or before appointment in the Air Force before January 1, 1949, with a view to designation as an Air Force nurse or medical specialist.
 
 &emsp;(2) Each one-year period, after July 1, 1949, in which the person has been credited with at least 50 points on the following basis:
 
@@ -38,7 +38,7 @@
 
 > &emsp;&emsp;if that service conformed to required standards and qualifications.
 
-&emsp;&emsp;(B) One point for each attendance at a drill or period of equivalent instruction that was prescribed for that year by the Secretary concerned and conformed to the requirements prescribed by law, including attendance under section 502 of title 32.
+&emsp;&emsp;(B) One point for each attendance at a drill or period of equivalent instruction that wasprescribed for that year by the Secretary concerned and conformed to the requirements prescribed by law, including attendance under section 502 of title 32.
 
 &emsp;&emsp;(C) Points at the rate of 15 a year for membership—
 
@@ -150,13 +150,13 @@ In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect t
 
 In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
-In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” aresubstituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clear that “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
+In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clear that “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
 
 In subsection (a)(2)(A) and (B), specific reference is made to National Guard service to reflect the opinion of the Judge Advocate General of the Army (JAGA, 1956/1908, 13 Feb. 1956).
 
 In subsection (a)(2)(C), the words “other than active Federal service” are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words “active service” are substituted for the words “active Federal service” for uniformity of expression. In clause (5), the words “transferred thereto after completion of 16 or more years of active naval service” are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words “active service” are substituted for the words “active Federal service” for uniformity of expression. In clause (5), the words “transferred thereto after completion of 16 or more years of active naval service” are omitted, since other authorized fleet reserve categories have not been usedand authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 

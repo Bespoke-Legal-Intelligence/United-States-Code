@@ -1,6 +1,6 @@
 ### §556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision
 
-(a) This section applies, according to the provisions thereof, to hearings required by section 553 or 554 of this title to be conducted in accordance with this section.
+(a) This section applies, according to the provisions thereof, to hearings required by section553 or 554 of this title to be conducted in accordance with this section.
 
 (b) There shall preside at the taking of evidence—
 
@@ -42,10 +42,6 @@
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 386; Pub. L. 94–409, §4(c), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–552, §4(a), Nov. 15, 1990, 104 Stat. 2737.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 11 of Pub. L. 101–552, see Termination Date of 1990 Amendment; Savings Provision note below.</i>
-
 Historical and Revision Notes
 
 <i>Derivation</i>
@@ -64,21 +60,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1990—Subsec. (c)(6). Pub. L. 101–552, §§4(a)(1), 11, temporarily inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”. See Termination Date of 1990 Amendment; Savings Provision note below.
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–552, §§4(a)(1), 11, inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”. See Termination Date of 1990 Amendment; Savings Provision note below.
 
-Subsec. (c)(7) to (11). Pub. L. 101–552, §§4(a)(2), 11, temporarily added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively. See Termination Date of 1990 Amendment; Savings Provision note below.
+Subsec. (c)(7) to (11). Pub. L. 101–552, §§4(a)(2), 11, added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as as (9) to (11), respectively. See Termination Date of 1990 Amendment; Savings Provision note below.
 
-1978—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
-1976—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
+<b>1976</b>—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
 
 #### Termination Date of 1990 Amendment; Savings Provision
 
-For termination of amendments by Pub. L. 101–552 and authority to use dispute resolution proceedings Oct. 1, 1995, except with respect to certain pending proceedings, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of this title.
+For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
 
-#### Effective Date of 1976
-
-Amendment
+#### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
 
@@ -116,5 +110,5 @@ Securities and Exchange Commission, delegation of functions by, see section 78d�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1207, 1219, 1220; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4906, 6802, 6804; title 8 section 1182; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 300h–2, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1219, 1220, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4906, 6802, 6804; title 8 section 1182; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 300h–2, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

@@ -38,7 +38,7 @@ The amounts to be treated by the shareholder, for purposes of subsection (b)(2),
 
 #### (d) Manner of making election and notifying shareholders
 
-The election provided in subsection (a) and the notice to shareholders required by subsection (c)shall be made in such manner as the Secretary may prescribe by regulations.
+The election provided in subsection (a) and the notice to shareholders required by subsection (c) shall be made in such manner as the Secretary may prescribe by regulations.
 
 #### (e) Cross references
 

@@ -4,5 +4,5 @@
 
 (b) The Board shall by regulation exempt from the requirements of this part any class of lease transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this part or that such law gives greater protection and benefit to the consumer, and that there is adequate provision for enforcement.
 
-(Pub. L. 90 321, title I, §186, as added Pub. L. 94 240, §3, Mar. 23, 1976, 90 Stat. 260.)
+(Pub. L. 90–321, title I, §186, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 260.)
 

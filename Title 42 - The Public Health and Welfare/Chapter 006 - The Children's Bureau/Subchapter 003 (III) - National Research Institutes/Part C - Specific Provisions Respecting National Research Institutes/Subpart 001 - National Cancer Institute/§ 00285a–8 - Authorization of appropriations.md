@@ -2,7 +2,7 @@
 
 #### (a) Activities generally
 
-For the purpose of carrying out this subpart, there are authorized to be appropriated$2,728,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+For the purpose of carrying out this subpart, there are authorized to be appropriated $2,728,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 #### (b) Breast cancer and gynecological cancers
 

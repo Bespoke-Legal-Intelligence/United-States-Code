@@ -1,6 +1,6 @@
 ### §10706. Seamen dying in the United States
 
-When a seaman dies in the United States and is entitled at death to claim money, property, or wages from the master or owner of a vessel on which the seaman served, the master or owner shall deliver the money, property, and wages to a district court of the United States within one week of the seaman's death. If the seaman's death occurs at sea, such money, property, or wages shall be delivered to a district court or a consular officer within one week of the vessel's arrival at the first port call after the seaman's death.
+When a seaman dies in the United States and is entitled at death to claim money, property, orwages from the master or owner of a vessel on which the seaman served, the master or owner shall deliver the money, property, and wages to a district court of the United States within one week of the seaman's death. If the seaman's death occurs at sea, such money, property, or wages shall be delivered to a district court or a consular officer within one week of the vessel's arrival at the first port call after the seaman's death.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 573; Pub. L. 103–206, title IV, §419, Dec. 20, 1993, 107 Stat. 2438.)
 

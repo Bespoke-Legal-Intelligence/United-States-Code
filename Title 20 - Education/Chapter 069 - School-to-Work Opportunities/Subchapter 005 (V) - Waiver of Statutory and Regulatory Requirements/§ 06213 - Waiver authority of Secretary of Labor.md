@@ -64,11 +64,11 @@ The Secretary of Labor may not waive any requirement under any provision of the 
 
 The Secretary of Labor shall periodically review the performance of any State or local partnership for which the Secretary of Labor has granted a waiver under this section and shall terminate the waiver under this section if the Secretary of Labor determines that the performance of the State or local partnership affected by the waiver has been inadequate to justify a continuation of the waiver, or the State fails to waive similar requirements of State law as required or agreed to in accordance with subsection (a)(1)(C) of this section.
 
-(Pub. L. 103 239, title V, §503, May 4, 1994, 108 Stat. 600.)
+(Pub. L. 103–239, title V, §503, May 4, 1994, 108 Stat. 600.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -42,11 +42,13 @@
 
 #### (c) Certain railroad reorganizations
 
-Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49, as being in the public interest.
+Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed undersection 1173 of title 11 of the United States Code, as being in the public interest.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 112; Mar. 31, 1976, Pub. L. 94–253, §1(c), 90 Stat. 296; Oct. 17, 1978, Pub. L. 95–473, §2(a)(2)(F), 92 Stat. 1465; Dec. 24, 1980, Pub. L. 96–589, §§4(e)(1), (h)(1), 6(i)(2), 94 Stat. 3403, 3404, 3410; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(8)(D), 104 Stat. 1388–524.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 112; Mar. 31, 1976, Pub. L. 94–253, §1(c), 90 Stat. 296; Oct. 17, 1978, Pub. L. 95–473, §2(a)(2)(F), 92 Stat. 1465; Dec. 24, 1980, Pub. L. 96–589, §§4(e)(1), (h)(1), 6(i)(2), 94 Stat. 3403, 3404, 3410; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(8)(D), 104 Stat. 1388–524; Dec. 29, 1995, Pub. L. 104–88, title III, §304(c), 109 Stat. 944.)
 
 #### Amendments
+
+1995—Subsec. (c). Pub. L. 104–88 struck out “or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49,” after “Code,”.
 
 1990—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are, in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
 
@@ -61,6 +63,10 @@ Subsec. (c). Pub. L. 96–589, §6(i)(2), substituted “confirmed under section
 1978—Subsec. (c). Pub. L. 95–473 substituted “subchapter IV of chapter 113 of title 49” for “section 20b of the Interstate Commerce Act”.
 
 1976—Subsec. (d). Pub. L. 94–253 added subsec. (d).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1980 Amendment
 

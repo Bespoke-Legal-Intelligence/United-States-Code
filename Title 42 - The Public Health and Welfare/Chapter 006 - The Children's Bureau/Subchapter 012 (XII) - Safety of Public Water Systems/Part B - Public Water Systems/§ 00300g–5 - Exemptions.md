@@ -14,7 +14,7 @@ A State which has primary enforcement responsibility may exempt any public water
 
 (1) If a State grants a public water system an exemption under subsection (a) of this section, the State shall prescribe, at the time the exemption is granted, a schedule for—
 
-&emsp;(A) compliance (including increments of progress) by the public water system with each contaminant level requirement and treatment technique requirement with respect to which the exemption was granted, and
+&emsp;(A) compliance (including increments of progress) by the public water system witheach contaminant level requirement and treatment technique requirement with respect to which the exemption was granted, and
 
 &emsp;(B) implementation by the public water system of such control measures as the State may require for each contaminant, subject to such contaminant level requirement or treatment technique requirement, during the period ending on the date compliance with such requirement is required.
 
@@ -40,7 +40,7 @@ A State which has primary enforcement responsibility may exempt any public water
 
 (3) Each public water system's exemption granted by a State under subsection (a) of this section shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to this subsection. The requirements of each schedule prescribed by a State pursuant to this subsection shall be enforceable by the State under its laws. Any requirement of a schedule on which an exemption granted under this section is conditioned may be enforced under section 300g–3 of this title as if such requirement was part of a national primary drinking water regulation.
 
-(4) Each schedule prescribed by a State pursuant to this subsection shall be deemed approved by the Administrator unless the exemption forwhich it was prescribed is revoked by the Administrator under subsection (d)(2) of this section or the schedule is revised by the Administrator under such subsection.
+(4) Each schedule prescribed by a State pursuant to this subsection shall be deemed approved by the Administrator unless the exemption for which it was prescribed is revoked by the Administrator under subsection (d)(2) of this section or the schedule is revised by the Administrator under such subsection.
 
 #### (c) Notice to Administrator; reasons for exemption
 
@@ -50,7 +50,7 @@ Each State which grants an exemption under subsection (a) of this section shall 
 
 (1) Not later than 18 months after the effective date of the interim national primary drinking water regulations the Administrator shall complete a comprehensive review of the exemptions granted (and schedules prescribed pursuant thereto) by the States during the one-year period beginning on such effective date. The Administrator shall conduct such subsequent reviews of exemptions and schedules as he deems necessary to carry out the purposes of this subchapter, but each subsequent review shall be completed within each 3-year period following the completion of the first review under this subparagraph. Before conducting any review under this subparagraph, the Administrator shall publish notice of the proposed review in the Federal Register. Such notice shall (A) provide information respecting the location of data and other information respecting the exemptions to be reviewed (including data and other information concerning new scientific matters bearing on such exemptions), and (B) advise of the opportunity to submit comments on the exemptions reviewed and on the need for continuing them. Upon completion of any such review, the Administrator shall publish in the Federal Register the results of his review, together with findings responsive to comments submitted in connection with such review.
 
-(2)(A) If the Administrator finds that a State has, in a substantial number of instances, abused its discretion in granting exemptions under subsection (a) of this section or failed to prescribe schedules in accordance with subsection (b) of this section, the Administrator shall notify the State of his findings. In determining if a State has abused its discretion in granting exemptions in a substantial number of instances, the Administrator shall consider the number of persons who are affected by the exemptions and if the requirements applicable to the granting of the exemptions were complied with. A notice under this subparagraph shall—
+(2)(A) If the Administrator finds that a State has, in a substantial number of instances,abused its discretion in granting exemptions under subsection (a) of this section or failed to prescribe schedules in accordance with subsection (b) of this section, the Administrator shall notify the State of his findings. In determining if a State has abused its discretion in granting exemptions in a substantial number of instances, the Administrator shall consider the number of persons who are affected by the exemptions and if the requirements applicable to the granting of the exemptions were complied with. A notice under this subparagraph shall—
 
 &emsp;(i) identify each exempt public water system with respect to which the finding was made,
 

@@ -32,11 +32,11 @@ By April 30, 1996, and every 2 years thereafter, the Secretary shall submit a re
 
 &emsp;&emsp;(D) recommendations to the Congress regarding changes in statutory or regulatory requirements, particularly those actions that should be taken to overcome Federal statutory or regulatory impediments to education reform.
 
-(Pub. L. 103 227, title III, §312, Mar. 31, 1994, 108 Stat. 178.)
+(Pub. L. 103–227, title III, §312, Mar. 31, 1994, 108 Stat. 178.)
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

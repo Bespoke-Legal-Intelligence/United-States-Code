@@ -10,8 +10,8 @@
 
 |  |  |
 | :--- | ---: |
-| [4502\.](%C2%A7%2004502%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
-| [4503\.](%C2%A7%2004503%20-%20National%20Urban%20Policy%20Report.md) | National Urban Policy Report. |
+| [4502\.](Part%20A%20-%20Development%20of%20a%20National%20Urban%20Policy/%C2%A7%2004502%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
+| [4503\.](Part%20A%20-%20Development%20of%20a%20National%20Urban%20Policy/%C2%A7%2004503%20-%20National%20Urban%20Policy%20Report.md) | National Urban Policy Report. |
 | (a) | Transmittal to Congress; contents. |
 | (b) | Supplementary reports. |
 | (c) | Advisory board. |
@@ -41,6 +41,5 @@ This chapter is referred to in section 1439 of this title; title 12 section 1701
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 04501 - Congressional statement of purpose](%C2%A7%2004501%20-%20Congressional%20statement%20of%20purpose.md)
-- [&sect; 04502 - Congressional findings and declaration of policy](%C2%A7%2004502%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md)
-- [&sect; 04503 - National Urban Policy Report](%C2%A7%2004503%20-%20National%20Urban%20Policy%20Report.md)
+- [Part A - Development of a National Urban Policy](Part%20A%20-%20Development%20of%20a%20National%20Urban%20Policy/README.md)
 - [Part B - Development of New Communities](Part%20B%20-%20Development%20of%20New%20Communities/README.md)

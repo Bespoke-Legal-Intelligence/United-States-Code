@@ -58,9 +58,9 @@ In general.—The Director of the United States Fish and Wildlife Service, in co
 
 &emsp;&emsp;“(A) immediately undertake a biological study of the striped bass fishery resources and habitats of the Albemarle Sound-Roanoke River basin area;
 
-&emsp;&emsp;“(B) develop short-term and long-term recommendations for Federal and State government agencies for restoring and conserving such resources and habitats; and
+&emsp;&emsp;“(B) develop short-term and long-term recommendations for Federal and State governmentagencies for restoring and conserving such resources and habitats; and
 
-&emsp;&emsp;“(C) submit the results of such study and such recommendations to the Congress and to the Statesof North Carolina and Virginia as soon as practicable, but not later than 36 months after the date of the enactment of this Act \[Nov. 3, 1988\].
+&emsp;&emsp;“(C) submit the results of such study and such recommendations to the Congress and to the States of North Carolina and Virginia as soon as practicable, but not later than 36 months after the date of the enactment of this Act \[Nov. 3, 1988\].
 
 &emsp;“(2)
 

@@ -28,5 +28,5 @@ The authority available to the Secretary of Health, Education, and Welfare under
 
 The authority granted by subsection (a) of this section shall be available only with respect to facilities of a special purpose nature that cannot readily be reassigned from similar Federal activities and are not otherwise available for assignment to the Department by the Administrator of General Services.
 
-(Pub. L. 96 88, title IV, §417, Oct. 17, 1979, 93 Stat. 685.)
+(Pub. L. 96–88, title IV, §417, Oct. 17, 1979, 93 Stat. 685.)
 

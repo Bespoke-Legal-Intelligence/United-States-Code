@@ -70,11 +70,11 @@ For the two fiscal years beginning after October 20, 1994, the Secretary shall a
 
 &emsp;&emsp;(C) preventing students from dropping out of school.
 
-(Pub. L. 89 10, title V, §5404 \[5304\], as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3703.)
+(Pub. L. 89–10, title V, §5404 \[5304\], as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3703.)
 
 #### References in Text
 
-The School Dropout Demonstration Assistance Act of 1988 (20 U.S.C. 3241 et seq.), referred to in subsec. (f), is part A of title VI of Pub. L. 89 10, as added by Pub. L. 100 297, title I, §1001, Apr. 28, 1988, 102 Stat. 265, as amended, which was classified generally to part A (§3241 et seq.) of subchapter VI of chapter 47 of this title prior to the general amendment of Pub. L. 89 10 by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Another School Dropout Demonstration Assistance Act of 1988 is subpart 1 of part C of title VI of Pub. L. 100 418 which was classified to subpart 1 (§5051 et seq.) of part C of subchapter I of chapter 62 of this title prior to repeal by Pub. L. 103 382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023.
+The School Dropout Demonstration Assistance Act of 1988 (20 U.S.C. 3241 et seq.), referred to in subsec. (f), is part A of title VI of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 265, as amended, which was classified generally to part A (§3241 et seq.) of subchapter VI of chapter 47 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Another School Dropout Demonstration Assistance Act of 1988 is subpart 1 of part C of title VI of Pub. L. 100–418 which was classified to subpart 1 (§5051 et seq.) of part C of subchapter I of chapter 62 of this title prior to repeal by Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023.
 
 #### Section Referred to in Other Sections
 

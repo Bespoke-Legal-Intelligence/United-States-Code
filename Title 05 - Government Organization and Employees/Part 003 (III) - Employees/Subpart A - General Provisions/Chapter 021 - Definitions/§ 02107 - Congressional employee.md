@@ -56,7 +56,7 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Amendments
 
-1970—Par. (9). Pub. L. 91—510 added par. (9).
+<b>1970</b>—Par. (9). Pub. L. 91—510 added par. (9).
 
 #### Effective Date of 1970 Amendment
 

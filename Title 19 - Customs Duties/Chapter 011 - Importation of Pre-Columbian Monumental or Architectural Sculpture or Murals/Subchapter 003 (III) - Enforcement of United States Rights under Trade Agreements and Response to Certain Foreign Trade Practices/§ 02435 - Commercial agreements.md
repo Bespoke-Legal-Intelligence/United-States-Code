@@ -28,7 +28,7 @@ Any such bilateral commercial agreement shall—
 
 &emsp;(8) in the case of an agreement entered into or renewed after January 3, 1975, provide arrangements for the promotion of trade, which may include arrangements for the establishment or expansion of trade and tourist promotion offices, for facilitation of activities of governmental commercial officers, participation in trade fairs and exhibits, and the sending of trade missions, and for facilitation of entry, establishment, and travel of commercial representatives;
 
-&emsp;(9) provide for consultations for the purpose of reviewing the operation of the agreement and relevant aspects of relations between the United States and the other party; and
+&emsp;(9) provide for consultations for the purpose of reviewing the operation of the agreementand relevant aspects of relations between the United States and the other party; and
 
 &emsp;(10) provide such other arrangements of a commercial nature as will promote the purposes of this chapter.
 

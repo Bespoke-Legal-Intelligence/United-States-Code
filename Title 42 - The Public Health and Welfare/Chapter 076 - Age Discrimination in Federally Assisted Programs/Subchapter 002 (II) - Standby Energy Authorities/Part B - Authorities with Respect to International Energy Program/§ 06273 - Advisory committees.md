@@ -36,7 +36,7 @@ Sections 10 and 11 of the Federal Advisory Committee Act, referred to in subsec.
 
 #### Classification of Certain Information and Material
 
-For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 401 of Title 50, War and National Defense.
+For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 435 of Title 50, War and National Defense.
 
 #### Termination of Advisory Committees
 

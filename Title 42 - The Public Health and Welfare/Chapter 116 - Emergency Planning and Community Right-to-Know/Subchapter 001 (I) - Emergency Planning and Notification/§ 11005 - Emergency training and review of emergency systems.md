@@ -8,7 +8,7 @@
 
 #### (2) State and local program support
 
-&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shallprovide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of the cost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
+&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shall provide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of the cost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
 
 #### (3) Other programs
 
@@ -24,7 +24,7 @@
 
 &emsp;The report required by this subsection shall include the Administrator's findings regarding each of the following:
 
-&emsp;&emsp;(A) The status of current technological capabilities to (i) monitor, detect, and prevent, in a timely manner, significant releases of extremely hazardous substances, (ii) determine the magnitude and direction of the hazard posed by each release, (iii) identify specific substances, (iv) provide data on the specific chemical composition of such releases, and (v) determine the relative concentrations of the constituent substances.
+&emsp;&emsp;(A) The status of current technological capabilities to (i) monitor, detect, and prevent,in a timely manner, significant releases of extremely hazardous substances, (ii) determine the magnitude and direction of the hazard posed by each release, (iii) identify specific substances, (iv) provide data on the specific chemical composition of such releases, and (v) determine the relative concentrations of the constituent substances.
 
 &emsp;&emsp;(B) The status of public emergency alert devices or systems for providing timely and effective public warning of an accidental release of extremely hazardous substances into the environment, including releases into the atmosphere, surface water, or groundwater from facilities that produce, store, or use significant quantities of such extremely hazardous substances.
 

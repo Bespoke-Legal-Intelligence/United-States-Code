@@ -2,13 +2,13 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may investigate and report on the need for regulation by the United States Government of sizes, weight, and combinations of motor vehicles and qualifications and maximum hours of service of employees of a motor carrier subject to subchapter II of chapter 105 of this title and a motor private carrier. The Secretary shall use the services of each department, agency, or instrumentality of the Government and each organization of motor carriers having special knowledge of a matter being investigated.
+General Authority.—The Secretary of Transportation may investigate and report on the need for regulation by the United States Government of sizes, weight, and combinations of motor vehicles and qualifications and maximum hours of service of employees of a motor carrier subject to subchapter I of chapter 135 of this title and a motor private carrier. The Secretary shall use the services of each department, agency, or instrumentality of the Government and each organization of motor carriers having special knowledge of a matter being investigated.
 
 (b)
 
 Use of Services.—In carrying out this chapter, the Secretary may use the services of a department, agency, or instrumentality of the Government having special knowledge about safety, to conduct scientific and technical research, investigation, and testing when necessary to promote safety of operation and equipment of motor vehicles. The Secretary may reimburse the department, agency, or instrumentality for the services provided.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, §3103; renumbered §31503 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1030.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, §3103; renumbered §31503 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1030; Pub. L. 104–88, title III, §308(k)(4), Dec. 29, 1995, 109 Stat. 948.)
 
 Historical and Revision Notes
 
@@ -46,5 +46,11 @@ In subsection (b), the words “In carrying out this chapter” are substituted 
 
 #### Amendments
 
+1995—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+
 1994—Pub. L. 103–272 renumbered section 3103 of this title as this section and amended it generally, restating it without substantive change.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 

@@ -128,7 +128,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;&emsp;(C) any organization described in section 1381(a)(2)(C).
 
-> &emsp;For purposes of subparagraph (A), the rules of section 168(h)(2)(D) (relating to treatment of certain taxable instrumentalities) shall apply; except that, in the case of the Federal Home Loan Mortgage Corporation, clause (ii) of such section shall not apply.
+> &emsp;For purposes of subparagraph (A), the rules of section 168(h)(2)(D) (relating to treatment of certain taxable instrumentalities) shall apply; except that, in the case of the Federal HomeLoan Mortgage Corporation, clause (ii) of such section shall not apply.
 
 #### (6) Treatment of pass-thru entities
 

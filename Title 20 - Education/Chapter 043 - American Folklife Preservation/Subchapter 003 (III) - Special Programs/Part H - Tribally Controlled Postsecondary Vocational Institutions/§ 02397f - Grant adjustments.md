@@ -10,5 +10,5 @@
 
 The Secretary shall, based on the most accurate data available from the institutions and Indian tribes whose Indian students are served under this part, in consideration of employment needs, economic development needs, population training needs, prepare an actual budget needs estimate for each institution eligible under this part for each subsequent program year, and submit such budget needs estimate to the Congress in such a timely manner as will enable the appropriate committees of the Congress to consider such needs data for purposes of the uninterrupted flow of adequate appropriations to such institutions.
 
-(Pub. L. 88 210, title III, §388, as added Pub. L. 101 392, title III, §311, Sept. 25, 1990, 104 Stat. 802.)
+(Pub. L. 88–210, title III, §388, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 802.)
 

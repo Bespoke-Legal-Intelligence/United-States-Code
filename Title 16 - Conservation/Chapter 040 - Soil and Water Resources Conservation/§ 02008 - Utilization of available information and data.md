@@ -1,6 +1,6 @@
 ### §2008. Utilization of available information and data
 
-In the implementation of this chapter, the Secretary shall utilize information and data available from other Federal, State, and localgovernments, and private organizations and he shall coordinate his actions with the resource appraisal and planning efforts of other Federal agencies and avoid unnecessary duplication and overlap of planning and program efforts.
+In the implementation of this chapter, the Secretary shall utilize information and data available from other Federal, State, and local governments, and private organizations and he shall coordinate his actions with the resource appraisal and planning efforts of other Federal agencies and avoid unnecessary duplication and overlap of planning and program efforts.
 
 (Pub. L. 95–192, §9, Nov. 18, 1977, 91 Stat. 1411.)
 

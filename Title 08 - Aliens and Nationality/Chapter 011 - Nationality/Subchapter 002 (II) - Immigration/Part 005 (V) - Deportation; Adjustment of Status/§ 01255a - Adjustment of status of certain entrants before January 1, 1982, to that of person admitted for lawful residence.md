@@ -442,7 +442,7 @@ The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 
 
 #### Prior Provisions
 
-A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, providing for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, was repealed, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
+A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
 
@@ -900,7 +900,7 @@ Second Report on Impact of Legalization Program.—The second report, which shal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1160, 1182, 1324b of this title; title 20 section 3283; title 26 section 6039E; title 42 sections 408, 602, 672, 1436a, 3056i.
+This section is referred to in sections 1151, 1160, 1182, 1255, 1324b of this title; title 26 section 6039E; title 42 sections 408, 602, 672, 1436a, 3056i.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 96–422)”.</i>
 

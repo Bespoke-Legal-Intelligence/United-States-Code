@@ -8,7 +8,7 @@ For purposes of this subtitle—
 
 #### (2) Short-term capital loss
 
-&emsp;The term “short-term capital loss” means loss from the sale or exchange of a capitalasset held for not more than 1 year, if and to the extent that such loss is taken into account in computing taxable income.
+&emsp;The term “short-term capital loss” means loss from the sale or exchange of a capital asset held for not more than 1 year, if and to the extent that such loss is taken into account in computing taxable income.
 
 #### (3) Long-term capital gain
 

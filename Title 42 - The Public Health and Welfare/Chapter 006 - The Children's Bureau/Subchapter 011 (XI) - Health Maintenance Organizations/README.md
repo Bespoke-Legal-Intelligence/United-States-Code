@@ -18,7 +18,7 @@ This subchapter is referred to in section 1396a of this title; title 12 section 
 - [&sect; 00300e&#8211;6 - Administration of assistance programs](%C2%A7%2000300e%E2%80%936%20-%20Administration%20of%20assistance%20programs.md)
 - [&sect; 00300e&#8211;7 - General provisions relating to loan guarantees and loans](%C2%A7%2000300e%E2%80%937%20-%20General%20provisions%20relating%20to%20loan%20guarantees%20and%20loans.md)
 - [&sect; 00300e&#8211;8 - Authorization of appropriations](%C2%A7%2000300e%E2%80%938%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00300e&#8211;9 - Employees&#8217; health benefits plan](%C2%A7%2000300e%E2%80%939%20-%20Employees%E2%80%99%20health%20benefits%20plan.md)
+- [&sect; 00300e&#8211;9 - Employees&#8217; health benefits plans](%C2%A7%2000300e%E2%80%939%20-%20Employees%E2%80%99%20health%20benefits%20plans.md)
 - [&sect; 00300e&#8211;10 - Restrictive State laws and practices](%C2%A7%2000300e%E2%80%9310%20-%20Restrictive%20State%20laws%20and%20practices.md)
 - [&sect; 00300e&#8211;11 - Continued regulation of health maintenance organizations](%C2%A7%2000300e%E2%80%9311%20-%20Continued%20regulation%20of%20health%20maintenance%20organizations.md)
 - [&sect; 00300e&#8211;12 - Limitation on source of funding for health maintenance organizations](%C2%A7%2000300e%E2%80%9312%20-%20Limitation%20on%20source%20of%20funding%20for%20health%20maintenance%20organizations.md)

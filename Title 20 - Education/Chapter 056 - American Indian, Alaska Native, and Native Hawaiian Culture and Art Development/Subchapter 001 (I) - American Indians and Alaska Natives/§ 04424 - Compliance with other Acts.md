@@ -4,7 +4,7 @@
 
 The Institute shall comply with the provisions of—
 
-&emsp;(1) Public Law 95 341 (42 U.S.C. 1996), popularly known as the American Indian Religious Freedom Act,
+&emsp;(1) Public Law 95–341 (42 U.S.C. 1996), popularly known as the American Indian Religious Freedom Act,
 
 &emsp;(2) the Archeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.), and
 
@@ -16,39 +16,39 @@ All Federal criminal laws relating to larceny, embezzlement, or conversion of th
 
 #### (c) Other Federal assistance
 
-(1) Funds received by the institute<sup>1</sup> pursuant to this chapter<sup>2</sup> shall not be regarded as Federal money for purposes of meeting any matching requirements for any Federal grant, contract or cooperative agreement.
+(1) Funds received by the institute <sup>1</sup> pursuant to this chapter <sup>2</sup> shall not be regarded as Federal money for purposes of meeting any matching requirements for any Federal grant, contract or cooperative agreement.
 
-(2) The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect<sup>3</sup> in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
+(2) The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect <sup>3</sup> in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
 
-(Pub. L. 99 498, title XV, §1517, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 101 644, title V, §504, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102 325, title XIII, §1331(i), July 23, 1992, 106 Stat. 808.)
+(Pub. L. 99–498, title XV, §1517, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 101–644, title V, §504, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, §1331(i), July 23, 1992, 106 Stat. 808.)
 
 #### References in Text
 
-Public Law 95 341, popularly known as the American Indian Religious Freedom Act, referred to in subsec. (a)(1), is Pub. L. 95 341, Aug. 11, 1978, 92 Stat. 469, which is classified to section 1996 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+Public Law 95–341, popularly known as the American Indian Religious Freedom Act, referred to in subsec. (a)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to section 1996 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96 95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89 665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99 498 to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102 325 designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (c). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
 
-1990—Subsec. (c). Pub. L. 101 644 added subsec. (c).
+1990—Subsec. (c). Pub. L. 101–644 added subsec. (c).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Cross References
 
 Embezzlement, theft, conversion, etc., see section 641 et seq., of Title 18, Crimes and Criminal Procedure.
 
-<i><sup>1</sup></i><i>So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i>See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i>So in original. Probably should be “affect”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “affect”.</i>
 

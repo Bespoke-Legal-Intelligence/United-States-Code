@@ -50,7 +50,7 @@ The Secretary may make grants to and enter into contracts with public and nonpro
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to and enter into contracts with public and nonprofit private entities that operate accredited programs of education in professional nursing, or State-board approved programs of practical or vocational nursing, for the purpose of providing fellowships to individuals described in paragraph (2) for attendance in such programs.
+&emsp;The Secretary may make grants to and enter into contracts with public and nonprofitprivate entities that operate accredited programs of education in professional nursing, or State-board approved programs of practical or vocational nursing, for the purpose of providing fellowships to individuals described in paragraph (2) for attendance in such programs.
 
 #### (2) Eligible individuals
 
@@ -128,7 +128,7 @@ Pub. L. 100–607, §701(f)(1), redesignated former subsec. (c) as (f).
 
 Subsec. (g). Pub. L. 100–607, §701(i), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
-“(1) For payments under grants and contracts under paragraphs (1) through (6) of subsection (a) of this section, there are authorized to be appropriated $9,500,000 for the fiscal year ending September 30, 1986, $9,500,000 for the fiscal year ending September 30, 1987, and $9,500,000 for the fiscal year ending September 30, 1988. Of the funds appropriated under this paragraph for any fiscal year beginning after September 30, 1985, not less than 20 percent of the funds shall be obligated for payments under grants and contracts for special projects described in subsection (a)(1) of this section, not less than 20 percent of the funds shall be obligated for payments under grants and contracts for special projects described in subsection (a)(4) of this section, and not less than 10 percent of the funds shall be obligated forpayments under grants and contracts for special projects described in subsection (a)(5) of this section.
+“(1) For payments under grants and contracts under paragraphs (1) through (6) of subsection (a) of this section, there are authorized to be appropriated $9,500,000 for the fiscal year ending September 30, 1986, $9,500,000 for the fiscal year ending September 30, 1987, and $9,500,000 for the fiscal year ending September 30, 1988. Of the funds appropriated under this paragraph for any fiscal year beginning after September 30, 1985, not less than 20 percent of the funds shall be obligated for payments under grants and contracts for special projects described in subsection (a)(1) of this section, not less than 20 percent of the funds shall be obligated for payments under grants and contracts for special projects described in subsection (a)(4) of this section, and not less than 10 percent of the funds shall be obligated for payments under grants and contracts for special projects described in subsection (a)(5) of this section.
 
 “(2) For payments under grants and contracts under paragraphs (7), (8), and (9) of subsection (a) of this section, there are authorized to be appropriated $2,700,000 for the fiscal year ending September 30, 1986, $2,700,000 for the fiscal year ending September 30, 1987, and $2,700,000 for the fiscal year ending September 30, 1988. In making grants and entering into contracts with amounts appropriated under this paragraph, the Secretary shall give priority to applications for grants and contracts under paragraph (8) of subsection (a) of this section.”
 

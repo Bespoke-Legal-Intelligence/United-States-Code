@@ -24,7 +24,7 @@
 
 (1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
 
-(B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such proceduresand methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
+(B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such procedures and methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
 
 (2) The procedures and methods established pursuant to paragraph (1)(A) shall—
 
@@ -90,7 +90,7 @@ Pub. L. 100–456, div. A, title VII, §736, Sept. 29, 1988, 102 Stat. 2006, as 
 
 “(a)
 
-Energy Conservation Incentive.—In order to provide additional incentive for the Secretary of a military department to enter into contracts under titleVIII of the National Energy Conservation Policy Act (42 U.S.C. 8287 et seq.), the Secretary may use the energy cost savings realized by the United States during the first five years under any such contract in the manner provided in subsection (b). The amount of savings available for use under subsection (b) shall be determined as provided in subsection (c) and shall remain available for obligation until expended.
+Energy Conservation Incentive.—In order to provide additional incentive for the Secretary of a military department to enter into contracts under title VIII of the National Energy Conservation Policy Act (42 U.S.C. 8287 et seq.), the Secretary may use the energy cost savings realized by the United States during the first five years under any such contract in the manner provided in subsection (b). The amount of savings available for use under subsection (b) shall be determined as provided in subsection (c) and shall remain available for obligation until expended.
 
 “(b)
 

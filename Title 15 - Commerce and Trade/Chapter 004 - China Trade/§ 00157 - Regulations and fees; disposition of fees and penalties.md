@@ -1,4 +1,4 @@
-### §157 . Regulations and fees; disposition of fees and penalties
+### §157. Regulations and fees; disposition of fees and penalties
 
 (a) The Secretary is authorized to make such regulations as may be necessary to carry into effect the functions vested in him or in the registrar by this chapter.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—When the Secretary of Transportation decides that a price charged or received by an air carrier or foreign air carrier for foreign air transportation, or a classification,rule, or practice affecting that price or the value of the transportation provided under that price, is or will be unreasonably discriminatory, the Secretary may—
+General.—When the Secretary of Transportation decides that a price charged or received by an air carrier or foreign air carrier for foreign air transportation, or a classification, rule, or practice affecting that price or the value of the transportation provided under that price, is or will be unreasonably discriminatory, the Secretary may—
 
 &emsp;(1) change the price, classification, rule, or practice as necessary to correct the discrimination; and
 
@@ -42,7 +42,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1551(b) (1)(E).
 
-In subsection (a), before clause (1), the words “individual or joint” are omitted as surplus. The words “charged or received” are substituted for “demanded, charged, collected, or received” to eliminate unnecessary words. The words “unreasonably discriminatory” are substituted for “unjustly discriminatory, or unduly preferential, or unduly prejudicial” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. In clause (2), the words “carrying out” are substituted for “enforcing” for clarity.
+In subsection (a), before clause (1), the words “individual or joint” are omitted as surplus. The words“charged or received” are substituted for “demanded, charged, collected, or received” to eliminate unnecessary words. The words “unreasonably discriminatory” are substituted for “unjustly discriminatory, or unduly preferential, or unduly prejudicial” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. In clause (2), the words “carrying out” are substituted for “enforcing” for clarity.
 
 In subsection (b), the words “opportunity for a” are added for consistency in the revised title and with other titles of the United States Code.
 

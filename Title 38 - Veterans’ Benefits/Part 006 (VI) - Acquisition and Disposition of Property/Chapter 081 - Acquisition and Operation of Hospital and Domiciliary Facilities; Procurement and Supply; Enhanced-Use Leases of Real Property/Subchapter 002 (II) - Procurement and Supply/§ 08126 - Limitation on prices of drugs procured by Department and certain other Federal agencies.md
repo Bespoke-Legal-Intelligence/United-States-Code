@@ -88,7 +88,7 @@
 
 &emsp;(4) The term “manufacturer” means any entity which is engaged in—
 
-&emsp;&emsp;(A) the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by acombination of extraction and chemical synthesis, or
+&emsp;&emsp;(A) the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis, or
 
 &emsp;&emsp;(B) in the packaging, repackaging, labeling, relabeling, or distribution of prescription drug products.
 

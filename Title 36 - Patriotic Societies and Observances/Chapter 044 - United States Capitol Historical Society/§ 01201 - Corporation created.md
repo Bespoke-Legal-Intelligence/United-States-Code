@@ -20,7 +20,7 @@ The following persons:
 
 &emsp;Mrs. Florian Thayn, Washington, District of Columbia;
 
-> and their successors are hereby created and declared to be a body corporate of the District of Columbia having the name “United States Capitol Historical Society” (hereinafter the <sup>1</sup> corporation”). The said corporation shall have perpetual existence and the powers, limitations, and restrictions herein contained.
+> and their successors are hereby created and declared to be a body corporate of the District ofColumbia having the name “United States Capitol Historical Society” (hereinafter the <sup>1</sup> corporation”). The said corporation shall have perpetual existence and the powers, limitations, and restrictions herein contained.
 
 (Pub. L. 95–493, §1, Oct. 20, 1978, 92 Stat. 1643.)
 

@@ -28,17 +28,17 @@ Overdue support.—The term “overdue support” has the meaning given to such 
 
 &emsp;(2)
 
-State or local child support enforcement agency.—The term “State or local child support enforcement agency” means a State or local agency which administers a State or local program for establishing and enforcing child support obligations.
+State or local child support enforcement agency.—The term “State or local childsupport enforcement agency” means a State or local agency which administers a State or local program for establishing and enforcing child support obligations.
 
-(Pub. L. 90 321, title VI, §603, as added Pub. L. 91 508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102 537, §2(b), Oct. 27, 1992, 106 Stat. 3531.)
+(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531.)
 
 #### Amendments
 
-1992—Subsec. (j). Pub. L. 102 537 added subsec. (j).
+1992—Subsec. (j). Pub. L. 102–537 added subsec. (j).
 
 #### Effective Date of 1992 Amendments
 
-Section 2(d) of Pub. L. 102 537 provided that: “The amendments made by this section \[enacting section 1681s 1 of this title and amending this section\] shall take effect on January 1, 1993.”
+Section 2(d) of Pub. L. 102–537 provided that: “The amendments made by this section \[enacting section 1681s–1 of this title and amending this section\] shall take effect on January 1, 1993.”
 
 #### Section Referred to in Other Sections
 

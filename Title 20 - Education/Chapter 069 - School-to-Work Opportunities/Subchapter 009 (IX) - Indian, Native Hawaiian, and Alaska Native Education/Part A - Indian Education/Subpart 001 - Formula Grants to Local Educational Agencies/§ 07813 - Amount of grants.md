@@ -60,13 +60,13 @@ In addition to the grants awarded under subsection (a) of this section, and subj
 
 If the sums appropriated for any fiscal year under section 7882(a) of this title are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) of this section and for the Secretary of the Interior under subsection (d) of this section, each of those amounts shall be ratably reduced.
 
-(Pub. L. 89 10, title IX, §9113, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3775.)
+(Pub. L. 89–10, title IX, §9113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3775.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (d)(1)(B), is title I of Pub. L. 93 638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (d)(1)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(B), is part B (§§5201 5212) of title V of Pub. L. 100 297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 25 and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(B), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 25 and Tables.
 
 #### Section Referred to in Other Sections
 

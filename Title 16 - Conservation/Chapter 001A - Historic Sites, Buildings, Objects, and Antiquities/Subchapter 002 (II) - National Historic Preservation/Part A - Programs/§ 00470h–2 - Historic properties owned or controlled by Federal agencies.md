@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities of Federal agencies; program for identification, evaluation, nomination, and protection
 
-(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency. Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
+(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carryingout agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency. Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
 
 (2) Each Federal agency shall establish (unless exempted pursuant to section 470v of this title), in consultation with the Secretary, a preservation program for the identification, evaluation, and nomination to the National Register of Historic Places, and protection of historic properties. Such program shall ensure—
 
@@ -44,11 +44,11 @@ Prior to the approval of any Federal undertaking which may directly and adversel
 
 #### (g) Costs of preservation as eligible project costs
 
-Each Federal agency may include the costs of preservation activities of such agency under this subchapter as eligible project costs in all undertakings of such agency or assisted by such agency. The eligible project costs may also include amounts paid by a Federal agency to any State to be used in carrying out such preservation responsibilities of the Federal agency under this subchapter, and reasonable costs may becharged to Federal licensees and permittees as a condition to the issuance of such license or permit.
+Each Federal agency may include the costs of preservation activities of such agency under this subchapter as eligible project costs in all undertakings of such agency or assisted by such agency. The eligible project costs may also include amounts paid by a Federal agency to any State to be used in carrying out such preservation responsibilities of the Federal agency under this subchapter, and reasonable costs may be charged to Federal licensees and permittees as a condition to the issuance of such license or permit.
 
 #### (h) Annual preservation awards program
 
-The Secretary shall establish an annual preservation awards program under which he may make monetary awards in amounts of not to exceed $1,000 and provide citations for special achievement to officers and employees of Federal, State, and certified local governments in recognition of their outstanding contributions to the preservation of historic resources. Such program may include the issuance of annual awards by the President of the United States to any citizen of the United States recommended for such award by the Secretary.
+The Secretary shall establish an annual preservation awards program under which he may make monetary awards in amounts of not to exceed $1,000 and provide citations for special achievement to officers and employees of Federal, State, and certified local governments inrecognition of their outstanding contributions to the preservation of historic resources. Such program may include the issuance of annual awards by the President of the United States to any citizen of the United States recommended for such award by the Secretary.
 
 #### (i) Environmental impact statement
 

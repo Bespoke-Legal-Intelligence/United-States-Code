@@ -18,15 +18,15 @@ It is the purpose of this part, to assist in making available the benefits of po
 
 The Secretary shall, in accordance with subparts 1 through 8 of this part, carry out programs to achieve the purposes of this part.
 
-(Pub. L. 89 329, title IV, §400, formerly §401, as added Pub. L. 99 498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102 325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482.)
+(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482.)
 
 #### Prior Provisions
 
-A prior section 1070, Pub. L. 89 329, title IV, §401, as added and amended Pub. L. 92 318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94 482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96 374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Community School Partnerships
 
-Pub. L. 103 382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, provided that:
+Pub. L. 103–382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, provided that:
 
 #### “SEC. 521. SHORT TITLE.
 
@@ -90,7 +90,7 @@ National organization.—The term ‘national organization’ means an organizat
 
 &emsp;“(4)
 
-High-poverty area.—The term ‘high-poverty area’ means a community with a higher percentage of children in poverty than the national average of such percentage.
+High-poverty area.—The term ‘high-poverty area’ means a community with a higher percentage ofchildren in poverty than the national average of such percentage.
 
 &emsp;“(5)
 
@@ -148,7 +148,7 @@ Returned Funds.—All funds returned to the Secretary pursuant to subsection (a)
 
 #### “SEC. 526. CONTINUING ELIGIBILITY.
 
-“The national organization shall be eligible to continue to use the interest from the endowment fund inaccordance with the provisions of this part in the third and each such succeeding fiscal year in which such organization uses such interest only if the local affiliated chapters associated with all area program centers supported under this part distribute to students from low-income families 80 percent of the total amount of funds raised by all such chapters in such year.
+“The national organization shall be eligible to continue to use the interest from the endowment fund in accordance with the provisions of this part in the third and each such succeeding fiscal year in which such organization uses such interest only if the local affiliated chapters associated with all area program centers supported under this part distribute to students from low-income families 80 percent of the total amount of funds raised by all such chapters in such year.
 
 #### “SEC. 527. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -156,11 +156,11 @@ Returned Funds.—All funds returned to the Secretary pursuant to subsection (a)
 
 #### Study of Federal Benefit Coordination
 
-Section 1405 of Pub. L. 102 325 directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate.
+Section 1405 of Pub. L. 102–325 directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate.
 
 #### Olympic Scholarships
 
-Section 1543 of Pub. L. 102 325 provided that:
+Section 1543 of Pub. L. 102–325 provided that:
 
 “(a)
 
@@ -176,7 +176,7 @@ Award determination.—The amount of financial assistance provided to athletes d
 
 “(b)
 
-Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§1543) of Pub. L. 102 325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
+Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§1543) of Pub. L. 102–325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
 
 “(c)
 
@@ -184,11 +184,11 @@ Application.—Each center desiring financial assistance under this section shal
 
 “(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.”
 
 #### Persian Gulf Conflict Higher Education Assistance
 
-Pub. L. 102 26, §§4 6, Apr. 9, 1991, 105 Stat. 125 127, provided that:
+Pub. L. 102–26, §§4–6, Apr. 9, 1991, 105 Stat. 125–127, provided that:
 
 #### “SEC. 4. OPERATION DESERT SHIELD/DESERT STORM WAIVER AUTHORITY.
 
@@ -228,7 +228,7 @@ Definitions.—For purposes of this Act \[probably should be “section”\]—
 
 &emsp;“(1) Individuals ‘serving on active duty in connection with Operation Desert Shield or Operation Desert Storm’ shall include—
 
-&emsp;&emsp;“(A) any Reserve of an Armed Force called to active duty under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], or 688 of title 10, United States Code, for service in connection with Operation Desert Shield or Operation Desert Storm, regardless of thelocation at which such active duty service is performed; and
+&emsp;&emsp;“(A) any Reserve of an Armed Force called to active duty under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], or 688 of title 10, United States Code, for service in connection with Operation Desert Shield or Operation Desert Storm, regardless of the location at which such active duty service is performed; and
 
 &emsp;&emsp;“(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
@@ -248,7 +248,7 @@ Encouragement and Report.—The Secretary of Education shall encourage instituti
 
 “The provisions of sections 4 and 5 shall cease to be effective on September 30, 1997.”
 
-Pub. L. 102 25, title III, part E (§§371 376), Apr. 6, 1991, 105 Stat. 93, provided that:
+Pub. L. 102–25, title III, part E (§§371–376), Apr. 6, 1991, 105 Stat. 93, provided that:
 
 #### “SEC. 371. SHORT TITLE
 
@@ -256,11 +256,11 @@ Pub. L. 102 25, title III, part E (§§371 376), Apr. 6, 1991, 105 Stat. 93, pro
 
 “
 
-SEC. 372. \[Superseded by section 4 of Pub. L. 102 26, set out above.\]
+SEC. 372. \[Superseded by section 4 of Pub. L. 102–26, set out above.\]
 
 “
 
-SEC. 373. \[Superseded by section 5 of Pub. L. 102 26, set out above.\]
+SEC. 373. \[Superseded by section 5 of Pub. L. 102–26, set out above.\]
 
 “
 
@@ -268,11 +268,11 @@ SEC. 374. \[Amended section 294d of Title 42, The Public Health and Welfare.\]
 
 “
 
-SEC. 375. \[Superseded by section 6 of Pub. L. 102 26, set out above.\]
+SEC. 375. \[Superseded by section 6 of Pub. L. 102–26, set out above.\]
 
 #### “SEC. 376. COORDINATION WITH OTHER LAW
 
-“If the Higher Education Technical Amendments of 1991 \[Pub. L. 102 26, see Short Title of 1991 Amendment note set out under section 1001 of this title\] is enacted, the provisions of sections 4, 5, and 6 of that Act shall supersede sections 372, 373, and 375.”
+“If the Higher Education Technical Amendments of 1991 \[Pub. L. 102–26, see Short Title of 1991 Amendmentnote set out under section 1001 of this title\] is enacted, the provisions of sections 4, 5, and 6 of that Act shall supersede sections 372, 373, and 375.”
 
 #### Section Referred to in Other Sections
 

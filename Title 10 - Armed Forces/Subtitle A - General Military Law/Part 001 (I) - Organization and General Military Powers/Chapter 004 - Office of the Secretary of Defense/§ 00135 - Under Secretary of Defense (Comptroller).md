@@ -1,4 +1,4 @@
-### §135 . Under Secretary of Defense (Comptroller)
+### §135. Under Secretary of Defense (Comptroller)
 
 (a) There is an Under Secretary of Defense (Comptroller), appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 103–160, §902(b), added subsec. (e).
 
 Section 903(d) of Pub. L. 103–337 provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
 
-Committee on Armed Services of House of Representatives changed to Committee on National Security of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -254,7 +254,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Trust Funds for Individual Indians
 
-Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
+Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individualIndians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
 
 #### Section Referred to in Other Sections
 

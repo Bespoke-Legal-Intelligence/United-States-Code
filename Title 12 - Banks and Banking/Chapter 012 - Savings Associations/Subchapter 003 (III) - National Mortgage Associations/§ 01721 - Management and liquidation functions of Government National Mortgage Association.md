@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, the Association is authorized, under
 
 #### (f) Transfer of funds
 
-Notwithstanding any of the provisions of this chapter or of any other law, an amount equal to the net decrease for the preceding fiscal year in the aggregate principal amount of all mortgages owned by the Association under this section shall, as of July 1 of each of the years 1961 through 1964, be transferred to and merged with the authority provided under section 1720(a) <sup>2</sup> of this title, and the amount of such authority as specified in section 1720(c) <sup>2</sup> of this title shall be increased by any amounts so transferred.
+Notwithstanding any of the provisions of this chapter or of any other law, an amount equal to the net decrease for the preceding fiscal year in the aggregate principal amount of all mortgages owned by the Association under this section shall, as of July 1 of each of the years 1961 through 1964, be transferred to and merged with the authority provided under section 1720(a) <sup>2</sup> of this title, and the amount of such authority asspecified in section 1720(c) <sup>2</sup> of this title shall be increased by any amounts so transferred.
 
 #### (g) Guarantee of principal and interest on trust certificates and other securities; fees and charges; subrogation; contract for extinguishment of right, title, or interest in mortgages; protection of interests; full faith and credit; commitments limited; limitation on fees or charges
 
@@ -34,7 +34,7 @@ Notwithstanding any of the provisions of this chapter or of any other law, an am
 
 (B) The fees charged for the guaranty of securities or on notes based on or backed by mortgages not referred to in subparagraph (A), as authorized by other provisions of law, shall be set by the Association at a level not more than necessary to create reserves sufficient to meet anticipated claims based upon actuarial analysis, and for no other purpose.
 
-(C) Fees or charges for the issuance of commitments or miscellaneous administrative fees of the Association shall not be on a competitiveauction basis and shall remain at the level set for such fees or charges as of September 1, 1985, except that such fees or charges may be increased if reasonably related to the cost of administering the program, and for no other purpose.
+(C) Fees or charges for the issuance of commitments or miscellaneous administrative fees of the Association shall not be on a competitive auction basis and shall remain at the level set for such fees or charges as of September 1, 1985, except that such fees or charges may be increased if reasonably related to the cost of administering the program, and for no other purpose.
 
 (D) Not less than 90 days before increasing any fee or charge under subparagraph (B) or (C), the Secretary shall submit to the Congress a certification that such increase is solely for the purpose specified in such subparagraph.
 
@@ -72,7 +72,7 @@ Subsec. (g)(3)(E). Pub. L. 103–66 added subpar. (E).
 
 Subsec. (g)(2). Pub. L. 102–550, §531, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $84,982,000,000 during fiscal year 1991 and $88,296,000,000 during fiscal year 1992.”
 
-1990—Subsec. (g)(2). Pub. L. 101–625 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $150,000,000,000 for fiscal year 1988, and $156,000,000,000 for fiscal year 1989.”
+1990—Subsec. (g)(2). Pub. L. 101–625 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $150,000,000,000 for fiscal year 1988, and $156,000,000,000 for fiscal year 1989.”
 
 1988—Subsec. (g)(2). Pub. L. 100–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to any funding limitation approved in appropriation Acts, the Association shall enter into commitments for each of the fiscal years 1984 and 1985 to issue guarantees under this subsection for each such fiscal year in an aggregate amount of $68,250,000,000.”
 
@@ -152,7 +152,7 @@ Pub. L. 99–289, May 2, 1986, 100 Stat. 412, provided that:
 
 #### “SECTION 1. FEDERAL HOUSING ADMINISTRATION FUND.
 
-“(a) The applicable limitation on additional commitments to insure mortgages and loans to carry out thepurposes of the National Housing Act \[12 U.S.C. 1701 et seq.\] during fiscal year 1986 is increased by an additional $17,000,000,000 of mortgage and loan principal.
+“(a) The applicable limitation on additional commitments to insure mortgages and loans to carry out the purposes of the National Housing Act \[12 U.S.C. 1701 et seq.\] during fiscal year 1986 is increased by an additional $17,000,000,000 of mortgage and loan principal.
 
 “(b) Each provision of law amended by Public Law 99–267 \[amending sections 1703, 1715h, 1715<i>l</i>, 1715z, 1715z–9, 1715z–10, 1715z–14, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, and 2811 of this title and sections 1452b, 1485, 1490, 1490c, 4026, 4056, 4101, and 5302 of Title 42, The Public Health and Welfare, and provisions set out as a note under section 1701q of this title\] is amended by striking out ‘April 30, 1986’ wherever it appears and inserting in lieu thereof ‘June 6, 1986’.
 
@@ -162,7 +162,7 @@ Pub. L. 99–289, May 2, 1986, 100 Stat. 412, provided that:
 
 #### “SEC. 3. ADMINISTRATIVE PROVISION.
 
-“(a) The Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall estimate the rates at which the authority to make commitments to insure mortgages and loans under the National Housing Act \[12 U.S.C. 1701 et seq.\], and the authority to make commitments to issue guarantees under section 306(g) of that Act \[12 U.S.C. 1721(g)\], are likely to be used for the remainder of any fiscal year. The Secretary shall make these estimates at such times as the Secretary deems appropriate, but not less frequently than monthly.
+“(a) The Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shallestimate the rates at which the authority to make commitments to insure mortgages and loans under the National Housing Act \[12 U.S.C. 1701 et seq.\], and the authority to make commitments to issue guarantees under section 306(g) of that Act \[12 U.S.C. 1721(g)\], are likely to be used for the remainder of any fiscal year. The Secretary shall make these estimates at such times as the Secretary deems appropriate, but not less frequently than monthly.
 
 “(b) If an estimate under subsection (a) indicates that either limitation on authority to make commitments for a fiscal year referred to in subsection (a) will be reached before the end of that fiscal year, or in any event whenever 75 per centum of either authority to make commitments has been utilized, the Secretary shall promptly so notify the Committee on Appropriations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Appropriations and the Committee on Banking, Finance and Urban Affairs \[now Committee on Banking and Financial Services\] of the House of Representatives.”
 

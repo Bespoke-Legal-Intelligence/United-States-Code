@@ -27,8 +27,8 @@
 | [327\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000327%20-%20Employment%20of%20professional%20persons.md) | Employment of professional persons. |
 | [328\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000328%20-%20Limitation%20on%20compensation%20of%20professional%20persons.md) | Limitation on compensation of professional persons. |
 | [329\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000329%20-%20Debtor%27s%20transactions%20with%20attorneys.md) | Debtor's transactions with attorneys. |
-| 330\. | Compensation of officers. |
-| 331\. | Interim compensation. |
+| [330\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000330%20-%20Compensation%20of%20officers.md) | Compensation of officers. |
+| [331\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000331%20-%20Interim%20compensation.md) | Interim compensation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,12 +36,12 @@
 
 |  |  |
 | :--- | ---: |
-| 341\. | Meetings of creditors and equity security holders. |
-| 342\. | Notice. |
-| 343\. | Examination of the debtor. |
-| 344\. | Self-incrimination; immunity. |
-| 345\. | Money of estates. |
-| 346\. | Special tax provisions. |
+| [341\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000341%20-%20Meetings%20of%20creditors%20and%20equity%20security%20holders.md) | Meetings of creditors and equity security holders. |
+| [342\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000342%20-%20Notice.md) | Notice. |
+| [343\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000343%20-%20Examination%20of%20the%20debtor.md) | Examination of the debtor. |
+| [344\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000344%20-%20Self-incrimination%3B%20immunity.md) | Self-incrimination; immunity. |
+| [345\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000345%20-%20Money%20of%20estates.md) | Money of estates. |
+| [346\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000346%20-%20Special%20tax%20provisions.md) | Special tax provisions. |
 | [347\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000347%20-%20Unclaimed%20property.md) | Unclaimed property. |
 | [348\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000348%20-%20Effect%20of%20conversion.md) | Effect of conversion. |
 | [349\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000349%20-%20Effect%20of%20dismissal.md) | Effect of dismissal. |

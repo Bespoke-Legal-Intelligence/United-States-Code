@@ -42,7 +42,7 @@ Minimum Standards for Testing and Fitness.—The Secretary of Transportation sha
 
 (b)
 
-Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) of thissubsection, an individual may operate a commercial motor vehicle only if the individual has passed written and driving tests to operate the vehicle that meet the minimum standards prescribed by the Secretary under subsection (a) of this section.
+Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) of this subsection, an individual may operate a commercial motor vehicle only if the individual has passed written and driving tests to operate the vehicle that meet the minimum standards prescribed by the Secretary under subsection (a) of this section.
 
 (2) The Secretary may prescribe regulations providing that an individual may operate a commercial motor vehicle for not more than 90 days if the individual—
 

@@ -24,9 +24,9 @@ For the purposes of this section—
 
 (2) Any such agreement may provide that an individual who is entitled to cash benefits under this subchapter shall, notwithstanding the provisions of section 402(t) of this title, receive such benefits while he resides in a foreign country which is a party to such agreement.
 
-(3) Section 426 of this title shall not apply in the case of any individual to whom it would not be applicable but for this section or any agreement or regulation under this section.
+(3) Section 426 of this title shall not apply in the case of any individual to whom it would notbe applicable but for this section or any agreement or regulation under this section.
 
-(4) Any such agreement may contain other provisions which are not inconsistent with theother provisions of this subchapter and which the President deems appropriate to carry out the purposes of this section.
+(4) Any such agreement may contain other provisions which are not inconsistent with the other provisions of this subchapter and which the President deems appropriate to carry out the purposes of this section.
 
 #### (d) Regulations
 

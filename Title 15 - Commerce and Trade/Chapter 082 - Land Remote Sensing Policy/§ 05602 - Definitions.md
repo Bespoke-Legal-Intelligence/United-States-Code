@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1) The term “Administrator” means the Administrator of the National Aeronautics and Space Administration.
 
-&emsp;(2) The term “cost of fulfilling user requests” means the incremental costs associated with providing product generation, reproduction, and distribution of unenhanced datain response to user requests and shall not include any acquisition, amortization, or depreciation of capital assets originally paid for by the United States Government or other costs not specifically attributable to fulfilling user requests.
+&emsp;(2) The term “cost of fulfilling user requests” means the incremental costs associated with providing product generation, reproduction, and distribution of unenhanced data in response to user requests and shall not include any acquisition, amortization, or depreciation of capital assets originally paid for by the United States Government or other costs not specifically attributable to fulfilling user requests.
 
 &emsp;(3) The term “data continuity” means the continued acquisition and availability of unenhanced data which are, from the point of view of the user—
 
@@ -56,9 +56,9 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(C) other researchers and international entities that have signed with the United States Government a cooperative agreement involving the use of Landsat data for noncommercial purposes.
 
-(Pub. L. 102 555, §3, Oct. 28, 1992, 106 Stat. 4164.)
+(Pub. L. 102–555, §3, Oct. 28, 1992, 106 Stat. 4164.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 102 555, Oct. 28, 1992, 106 Stat. 4163, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 102–555, Oct. 28, 1992, 106 Stat. 4163, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 

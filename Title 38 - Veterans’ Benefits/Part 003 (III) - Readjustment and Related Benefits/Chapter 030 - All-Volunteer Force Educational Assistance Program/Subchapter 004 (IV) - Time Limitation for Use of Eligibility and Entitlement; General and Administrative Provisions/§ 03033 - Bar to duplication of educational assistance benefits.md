@@ -8,7 +8,7 @@
 
 (c) An individual who serves in the Selected Reserve may not receive credit for such service under both the program established by this chapter and the program established by chapter 106 of title 10 but shall elect (in such form and manner as the Secretary may prescribe) the program to which such service is to be credited.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1433; amended Pub. L.99–576, title III, §306, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(4), Mar. 22, 1991, 105 Stat. 55; renumbered §3033, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1433; amended Pub. L. 99–576, title III, §306, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(4), Mar. 22, 1991, 105 Stat. 55; renumbered §3033, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 102–16 substituted “chapter 109 of title 10” for “s
 
 1989—Subsecs. (a)(1), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a)(1). Pub. L. 99–576, §306(a), substituted “chapter 31, 32, or 35 of this title, under chapter 106 or 107 of title 10, or under the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more of such programs” for “chapter 31, 34, or 35 of this title or under chapter 106 or 107 of title 10 may not receive assistance under both programs”.
+1986—Subsec. (a)(1). Pub. L. 99–576, §306(a), substituted “chapter 31, 32, or 35 of this title, under chapter 106 or 107 of title 10, or under the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may notreceive assistance under two or more of such programs” for “chapter 31, 34, or 35 of this title or under chapter 106 or 107 of title 10 may not receive assistance under both programs”.
 
 Subsec. (c). Pub. L. 99–576, §306(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An individual who is entitled to educational assistance under chapter 106 of title 10 may not also receive educational assistance under this chapter based on entitlement under section 1412 of this title.”
 

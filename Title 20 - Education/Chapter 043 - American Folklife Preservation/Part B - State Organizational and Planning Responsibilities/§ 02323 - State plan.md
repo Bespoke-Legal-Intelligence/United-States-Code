@@ -88,43 +88,43 @@ Each State plan shall—
 
 When changes in program conditions, labor market conditions, funding, or other factors require substantial amendment to an approved State plan, the State board, in consultation with the State council, shall submit amendments to such State plan to the Secretary. Any such amendments shall be subject to review by the State job training coordinating council and the State council.
 
-(Pub. L. 88 210, title I, §113, as added Pub. L. 98 524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99 159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101 392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101 476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103 382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024.)
+(Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(14), is Pub. L. 97 300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(14), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Adult Education Act, referred to in subsec. (b)(14), is title III of Pub. L. 89 750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in subsec. (b)(14), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(14), is Pub. L. 89 10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Education of the Handicapped Act, referred to in subsec. (b)(14), is title VI of Pub. L. 91 230, Apr. 13, 1970, 84 Stat. 175, as amended, known as the Individuals with Disabilities Education Act, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Education of the Handicapped Act, referred to in subsec. (b)(14), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, known as the Individuals with Disabilities Education Act, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93 112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Amendments
 
-1994—Subsec. (b)(14). Pub. L. 103 382 substituted “title I” for “chapter 1 of title I”.
+1994—Subsec. (b)(14). Pub. L. 103–382 substituted “title I” for “chapter 1 of title I”.
 
-1990—Pub. L. 101 392 amended section generally, substituting provisions relating to types of analysis to include in State's assessment of State plan for provisions relating to types of assessments State was to make in development of State plan, amending list of descriptions and assurances to be provided in State plan, and deleting requirement that Secretary approve State plan amendments.
+1990—Pub. L. 101–392 amended section generally, substituting provisions relating to types of analysis to include in State's assessment of State plan for provisions relating to types of assessments State was to make in development of State plan, amending list of descriptions and assurances to be provided in State plan, and deleting requirement that Secretary approve State plan amendments.
 
-Subsec. (b)(10). Pub. L. 101 476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
+Subsec. (b)(10). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 
-1985—Subsec. (b)(9)(C). Pub. L. 99 159, §704, substituted “the projects, services, and activities supported under this chapter of not less than 20 percent of the participating eligible recipients within the State in each fiscal year” for “not less than 20 percent of the eligible recipients assisted within the State in each fiscal year”.
+1985—Subsec. (b)(9)(C). Pub. L. 99–159, §704, substituted “the projects, services, and activities supported under this chapter of not less than 20 percent of the participating eligible recipients within the State in each fiscal year” for “not less than 20 percent of the eligible recipients assisted within the State in each fiscal year”.
 
-Subsec. (b)(10). Pub. L. 99 159, §713(a)(1), inserted “of 1981” after “Education Consolidation and Improvement Act”.
+Subsec. (b)(10). Pub. L. 99–159, §713(a)(1), inserted “of 1981” after “Education Consolidation and Improvement Act”.
 
-Subsec. (b)(11). Pub. L. 99 159, §713(a)(2), inserted “provide assurances” before “that”.
+Subsec. (b)(11). Pub. L. 99–159, §713(a)(2), inserted “provide assurances” before “that”.
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101 476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101 476, set out as a note under section 1087ee of this title.
+Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
-Amendment by Pub. L. 101 392 effective July 1, 1991, see section 702(a) of Pub. L. 101 392, set out as a note under section 2301 of this title.
+Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as a note under section 2301 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99 159 effective July 1, 1985, see section 714(a) of Pub. L. 99 159, set out as a note under section 2311 of this title.
+Amendment by Pub. L. 99–159 effective July 1, 1985, see section 714(a) of Pub. L. 99–159, set out as a note under section 2311 of this title.
 
 #### Section Referred to in Other Sections
 

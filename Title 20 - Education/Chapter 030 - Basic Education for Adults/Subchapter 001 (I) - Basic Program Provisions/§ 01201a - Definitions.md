@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) who are not enrolled in secondary school;
 
-&emsp;&emsp;(B) who lack sufficient mastery of basic educational skills to enable them to function effectively in society or who do not have a certificate of graduation from aschool providing secondary education and who have not achieved an equivalent level of education;
+&emsp;&emsp;(B) who lack sufficient mastery of basic educational skills to enable them to function effectively in society or who do not have a certificate of graduation from a school providing secondary education and who have not achieved an equivalent level of education;
 
 &emsp;&emsp;(C) who are not currently required to be enrolled in school; and
 
@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(7) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, Palau (until the Compact of Free Association with Palau takes effect pursuant to section 1931(a) of title 48), the Northern Mariana Islands, and the Virgin Islands.
 
-&emsp;(8) The term “State educational agency” means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is a separate State agency or officer primarily responsible for supervision of adult education in public schools, then such agency or officer may be designated for the purpose of this chapter by the Governor or by State law. If no agency or officer qualifies under the preceding sentence, such term shall mean an appropriate agency or officer designated for the purposes of this chapter by the Governor.
+&emsp;(8) The term “State educational agency” means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is a separate State agency or officer primarily responsible for supervision of adult education in public schools, then such agency or officer may be designated for the purpose of this chapter by the Governor or by State law. If no agency or officer qualifies under the preceding sentence, such term shall mean an appropriate agencyor officer designated for the purposes of this chapter by the Governor.
 
 &emsp;(9) The term “academic education” means the theoretical, the liberal, the speculative, and classical subject matter found to compose the curriculum of the public secondary school.
 
@@ -48,7 +48,7 @@ As used in this chapter—
 
 &emsp;(15) The term “private industry council” means the private industry council established under section 1512 of title 29.
 
-(Pub. L. 89 750, title III, §312, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 302; amended Pub. L. 101 26, §3(a), May 11, 1989, 103 Stat. 55; Pub. L. 101 589, title VII, §723, Nov. 16, 1990, 104 Stat. 2913; Pub. L. 102 73, title VIII, §802(b)(1), July 25, 1991, 105 Stat. 361.)
+(Pub. L. 89–750, title III, §312, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302; amended Pub. L. 101–26, §3(a), May 11, 1989, 103 Stat. 55; Pub. L. 101–589, title VII, §723, Nov. 16, 1990, 104 Stat. 2913; Pub. L. 102–73, title VIII, §802(b)(1), July 25, 1991, 105 Stat. 361.)
 
 #### References in Text
 
@@ -56,19 +56,19 @@ For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes e
 
 #### Prior Provisions
 
-A prior section 312 of Pub. L. 89 750 was classified to section 1209 of this title, prior to the general revision of this chapter by Pub. L. 100 297.
+A prior section 312 of Pub. L. 89–750 was classified to section 1209 of this title, prior to the general revision of this chapter by Pub. L. 100–297.
 
 #### Amendments
 
-1991—Par. (7). Pub. L. 102 73 substituted “Palau (until the Compact of Free Association with Palau takes effect pursuant to section 1931(a) of title 48)” for “the Trust Territory of the Pacific Islands”.
+1991—Par. (7). Pub. L. 102–73 substituted “Palau (until the Compact of Free Association with Palau takes effect pursuant to section 1931(a) of title 48)” for “the Trust Territory of the Pacific Islands”.
 
-1990—Par. (5). Pub. L. 101 589 inserted “, or to perform a service function for,” after first reference to “direction of”.
+1990—Par. (5). Pub. L. 101–589 inserted “, or to perform a service function for,” after first reference to “direction of”.
 
-1989—Par. (7). Pub. L. 101 26 struck out “and except for the purposes of section 1201b of this title,” after “Puerto Rico,”.
+1989—Par. (7). Pub. L. 101–26 struck out “and except for the purposes of section 1201b of this title,” after “Puerto Rico,”.
 
 #### Effective Date of 1989 Amendment
 
-Section 3(b) of Pub. L. 101 26 provided that: “The provisions of this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 11, 1989\].”
+Section 3(b) of Pub. L. 101–26 provided that: “The provisions of this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 11, 1989\].”
 
 #### Section Referred to in Other Sections
 

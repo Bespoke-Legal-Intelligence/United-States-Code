@@ -6,7 +6,7 @@ From funds reserved under section 6362(b)(1) of this title, the Secretary shall 
 
 &emsp;(2) to identify effective Even Start programs assisted under this part that can be duplicated and used in providing technical assistance to Federal, State, and local programs.
 
-(Pub. L. 89 10, title I, §1209, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3584.)
+(Pub. L. 89–10, title I, §1209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3584.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 In this part—
 
-&emsp;“chief local elected official” means an official designated under regulations issued bythe Attorney General. The criteria used by the Attorney General in promulgating such regulations shall ensure administrative efficiency and accountability in the expenditure of funds and execution of funded projects under this part.
+&emsp;“chief local elected official” means an official designated under regulations issued by the Attorney General. The criteria used by the Attorney General in promulgating such regulations shall ensure administrative efficiency and accountability in the expenditure of funds and execution of funded projects under this part.
 
 &emsp;“chronic high intensity crime area” means an area meeting criteria adopted by the Attorney General by regulation that, at a minimum, define areas with—
 

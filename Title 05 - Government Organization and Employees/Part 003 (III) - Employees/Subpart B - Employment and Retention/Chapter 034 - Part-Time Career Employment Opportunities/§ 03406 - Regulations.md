@@ -1,6 +1,6 @@
 ### §3406. Regulations
 
-Before any regulation is prescribed under this chapter, a copy of the proposed regulation shallbe published in the Federal Register and an opportunity provided to interested parties to present written comment and, where practicable, oral comment. Initial regulations shall be prescribed not later than 180 days after the date of the enactment of this chapter.
+Before any regulation is prescribed under this chapter, a copy of the proposed regulation shall be published in the Federal Register and an opportunity provided to interested parties to present written comment and, where practicable, oral comment. Initial regulations shall be prescribed not later than 180 days after the date of the enactment of this chapter.
 
 (Added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1057, §3396; renumbered §3406 and amended Pub. L. 95–454, title IX, §906(c)(1)(B), (2)(C), Oct. 13, 1978, 92 Stat. 1226, 1227.)
 
@@ -10,7 +10,7 @@ The date of the enactment of this chapter, referred to in text, is the date of t
 
 #### Amendments
 
-1978—Pub. L. 95–453, §901(c)(1)(B), renumbered section 3396 of this title as this section.
+<b>1978</b>—Pub. L. 95–453, §901(c)(1)(B), renumbered section 3396 of this title as this section.
 
 Pub. L. 95–454, §906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 

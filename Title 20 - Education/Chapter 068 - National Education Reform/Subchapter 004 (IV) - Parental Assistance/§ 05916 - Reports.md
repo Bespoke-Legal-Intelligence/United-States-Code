@@ -10,5 +10,5 @@ Each organization receiving a grant under this subchapter shall submit to the Se
 
 &emsp;(4) the strategies used to reach and serve parents of minority and limited-English-proficient children, parents with limited literacy skills, and other parents in need of the services provided under this subchapter.
 
-(Pub. L. 103 227, title IV, §406, Mar. 31, 1994, 108 Stat. 190.)
+(Pub. L. 103–227, title IV, §406, Mar. 31, 1994, 108 Stat. 190.)
 

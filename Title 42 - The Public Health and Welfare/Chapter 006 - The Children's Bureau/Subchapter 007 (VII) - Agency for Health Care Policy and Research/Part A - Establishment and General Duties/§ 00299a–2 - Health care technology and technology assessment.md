@@ -78,7 +78,7 @@ Not later than January 1, 1994, the Administrator shall develop and publish a de
 
 #### (1) In general
 
-&emsp;The Administrator may make grants to, or enter cooperative agreements or contracts with, entities described in paragraph (2) for the establishment of collaborative arrangements for the purpose of conducting assessments of experimental, emerging, existing, or potentially outmoded health care technologies, and for related activities. Such assessments may include controlled clinical trials, large simple trials, and other methodologies that can be conducted in partnership between the public and private sectors or among multiple government agencies.
+&emsp;The Administrator may make grants to, or enter cooperative agreements or contracts with, entities described in paragraph (2) forthe establishment of collaborative arrangements for the purpose of conducting assessments of experimental, emerging, existing, or potentially outmoded health care technologies, and for related activities. Such assessments may include controlled clinical trials, large simple trials, and other methodologies that can be conducted in partnership between the public and private sectors or among multiple government agencies.
 
 #### (2) Eligible entities
 
@@ -134,7 +134,7 @@ Section 6103(d)(2) of Pub. L. 101–239 provided that:
 
 &emsp;“(ii) to assist the Administrator for Health Care Policy and Research, and the Director of the National Library of Medicine, in establishing the information center required under subsection (c)(1) of such section 904.
 
-“(B) In carrying out section 904(c)(1) of the Public Health Service Act (as added by subsection (a) of thissection), the Secretary of Health and Human Services shall, as appropriate, provide for the transfer to the Secretary of any information and materials developed by the council on health care technology under section 309(c)(1)(A) of the Public Health Service Act \[former section 242n(c)(1)(A) of this title\] (as such section was in effect on the day before the effective date of this section \[Dec. 19, 1989\]).
+“(B) In carrying out section 904(c)(1) of the Public Health Service Act (as added by subsection (a) of this section), the Secretary of Health and Human Services shall, as appropriate, provide for the transfer to the Secretary of any information and materials developed by the council on health care technology under section 309(c)(1)(A) of the Public Health Service Act \[former section 242n(c)(1)(A) of this title\] (as such section was in effect on the day before the effective date of this section \[Dec. 19, 1989\]).
 
 “(C) The Secretary of Health and Human Services shall ensure that the contract under subparagraph (A) specifies that the activities described in clauses (i) and (ii) of such subparagraph shall be completed not later than 1 year after the date on which the Secretary enters into the contract.
 

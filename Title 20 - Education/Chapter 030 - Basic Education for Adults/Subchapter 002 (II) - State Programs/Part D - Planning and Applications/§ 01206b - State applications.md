@@ -12,7 +12,7 @@ The State application submitted pursuant to section 1206 of this title shall pro
 
 &emsp;(5) that the State has instituted policies and procedures to ensure that copies of the State plan and all statements of general policy, rules, regulations, and procedures will be made available to the public.
 
-(Pub. L. 89 750, title III, §343, as added Pub. L. 100 297, title II, §2102, Apr. 28, 1988, 102 Stat. 311.)
+(Pub. L. 89–750, title III, §343, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 311.)
 
 #### Section Referred to in Other Sections
 

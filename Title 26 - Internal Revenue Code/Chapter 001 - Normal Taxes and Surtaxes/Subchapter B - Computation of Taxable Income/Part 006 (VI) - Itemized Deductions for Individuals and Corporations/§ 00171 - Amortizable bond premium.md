@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any bond, as defined in subsection (d), the following rules shall apply to the amortizable bond premium (determined under subsection (b)) on the bond:
+In the case of any bond, as defined in subsection (d), the following rules shall apply to theamortizable bond premium (determined under subsection (b)) on the bond:
 
 #### (1) Taxable bonds
 
@@ -74,7 +74,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Manner and effect of election
 
-&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), or by a foreign personal holding company, as defined in section 552, the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund or foreign personal holding company. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
+&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him andshall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), or by a foreign personal holding company, as defined in section 552, the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund or foreign personal holding company. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
 
 #### (d) Bond defined
 
@@ -130,7 +130,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1951(b)(5)(A)(iv), struck out “or (iii)”
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(1). Pub. L. 94–455, §1901(b)(1)(E)(v), substituted “In the case of bonds the interest on which is not excludible from gross income, this section shall apply only if the taxpayer has so elected” for “This section shall apply with respect to the following classesof taxpayers with respect to the following classes of bonds only if the taxpayer has elected to have this section apply” after “election permitted”, and struck out subpars. (A) and (B) relating to partially tax-exempt, and wholly taxable, bonds.
+Subsec. (c)(1). Pub. L. 94–455, §1901(b)(1)(E)(v), substituted “In the case of bonds the interest on which is not excludible from gross income, this section shall apply only if the taxpayer has so elected” for “This section shall apply with respect to the following classes of taxpayers with respect to the following classes of bonds only if the taxpayer has elected to have this section apply” after “election permitted”, and struck out subpars. (A) and (B) relating to partially tax-exempt, and wholly taxable, bonds.
 
 Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” in three places after “Secretary”.
 

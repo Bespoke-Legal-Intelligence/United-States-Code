@@ -202,7 +202,7 @@
 | (g) | Model demonstration programs. |
 | (h) | Research grants for unique needs, specialized instruction, and progress measurement; family involvement; adult role models. |
 | [1442\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001442%20-%20Research%20and%20demonstration%20projects%20in%20physical%20education%20and%20recreation%20for%20children%20with%20disabilities.md) | Research and demonstration projects in physical education and recreation for children with disabilities. |
-| [1443\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001443%20-%20Repealed.%20Pub.%20L.%20101%20476%2C%20title%20V%2C%20%C2%A7503%2C%20Oct.%2030%2C%201990%2C%20104%20Stat.%201138.md) | Repealed. |
+| [1443\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001443%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93476%2C%20title%20V%2C%20%C2%A7503%2C%20Oct.%2030%2C%201990%2C%20104%20Stat.%201138.md) | Repealed. |
 | [1444\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001444%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -217,7 +217,7 @@
 | (b) | Authority of Secretary. |
 | (c) | National Theatre of the Deaf; other non-profit organizations. |
 | (d) | Transcribed tapes and cassettes. |
-| [1453\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001453%20-%20Repealed.%20Pub.%20L.%2099%20457%2C%20title%20III%2C%20%C2%A7316%2C%20Oct.%208%2C%201986%2C%20100%20Stat.%201171.md) | Repealed. |
+| [1453\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001453%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93457%2C%20title%20III%2C%20%C2%A7316%2C%20Oct.%208%2C%201986%2C%20100%20Stat.%201171.md) | Repealed. |
 | [1454\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001454%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -362,7 +362,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 4356, 6062, 6143, 6314, 6365, 6493, 6645, 6648, 6649, 7426, 7703, 8921, 8923 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff 2, 290ff 4, 300x 1, 6024, 9855d, 9862.
+This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 4356, 6062, 6143, 6314, 6365, 6493, 6645, 6648, 6649, 7426, 7703, 8921, 8923 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 1769h, 6024, 9855d.
 
 
 ---

@@ -4,7 +4,7 @@
 
 (2) Notwithstanding paragraph (1) of this subsection, the Coast Guard, together with the duties and powers of the Coast Guard, shall operate as a service in the Navy as provided under section 3 of title 14.
 
-(b) The Commandant is the Chief of the Coast Guard. In addition to carrying out the duties and powers specified by law, the Commandant shall carry out duties and powers prescribed bythe Secretary of Transportation. The Commandant reports directly to the Secretary.
+(b) The Commandant is the Chief of the Coast Guard. In addition to carrying out the duties and powers specified by law, the Commandant shall carry out duties and powers prescribed by the Secretary of Transportation. The Commandant reports directly to the Secretary.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §4(j)(4), July 5, 1994, 108 Stat. 1365.)
 

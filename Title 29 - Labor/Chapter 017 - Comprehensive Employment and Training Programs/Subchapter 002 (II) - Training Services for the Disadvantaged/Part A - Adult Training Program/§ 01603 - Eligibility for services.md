@@ -10,7 +10,7 @@ Except as provided in subsection (c) of this section, an individual shall be eli
 
 #### (b) Hard-to-serve individuals
 
-Not less than 65 percent of the participants in the program under this part, other than participants served under section 1604(d) of this title, in each service delivery area shall be individuals who are included in 1 or more of the following categories:
+Not less than 65 percent of the participants in the program under this part, other than participants served under section 1604(d) of this title, in each service delivery area shall be individualswho are included in 1 or more of the following categories:
 
 &emsp;(1) Individuals who are basic skills deficient.
 

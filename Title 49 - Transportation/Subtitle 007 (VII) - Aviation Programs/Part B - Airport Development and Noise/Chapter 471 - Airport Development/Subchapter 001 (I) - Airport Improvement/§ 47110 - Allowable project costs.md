@@ -60,7 +60,7 @@ Terminal Development Costs.—(1) The Secretary may decide that the cost of term
 
 (e)
 
-Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government's share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
+Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government's share of allowable project costs, foran airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
 
 (2) Paragraph (1) of this subsection applies to a project—
 

@@ -40,7 +40,7 @@ Section 993i, Pub. L. 93–203, title VIII, §810, as added Pub. L. 95–93, tit
 
 Section 994, Pub. L. 93–203, title VIII, §804, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2014, related to activities of Young Adult Conservation Corps.
 
-A prior section 804 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 628, which related to activities of Young Adult Conservation Corps, was formerly classified to section 993cof this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 804 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 628, which related to activities of Young Adult Conservation Corps, was formerly classified to section 993c of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 995, Pub. L. 93–203, title VIII, §805, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2015, related to conditions applicable to enrollees of Young Adult Conservation Corps.
 
@@ -52,7 +52,7 @@ A prior section 806 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, t
 
 Section 997, Pub. L. 93–203, title VIII, §807, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2017, related to an annual report to President and Congress.
 
-A prior section 807 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 631, which related to an annual report to the President and the Congress, was formerly classified to section 993f of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 807 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 631, which related to an annual report to President and Congress, was formerly classified to section 993f of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 998, Pub. L. 93–203, title VIII, §808, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2017, related to prohibition of discrimination.
 

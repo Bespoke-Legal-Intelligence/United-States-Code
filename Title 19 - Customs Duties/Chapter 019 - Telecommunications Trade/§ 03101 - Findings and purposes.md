@@ -18,7 +18,7 @@ The Congress finds that—
 
 > &emsp;by undertaking a program to achieve an open world market for trade in telecommunications products, services, and investment;
 
-&emsp;(3) most foreign markets for telecommunications products, services, and investment are characterized by extensive government intervention (including restrictive import practices and discriminatory procurement practices) which adversely affect United States exports of telecommunications products and services and United States investment in telecommunications;
+&emsp;(3) most foreign markets for telecommunications products, services, and investment are characterized by extensive government intervention (including restrictive import practices and discriminatory procurement practices)which adversely affect United States exports of telecommunications products and services and United States investment in telecommunications;
 
 &emsp;(4) the open nature of the United States telecommunications market, accruing from the liberalization and restructuring of such market, has contributed, and will continue to contribute, to an increase in imports of telecommunications products and a growing imbalance in competitive opportunities for trade in telecommunications;
 

@@ -82,7 +82,7 @@ Special rules relating to provisions governing step-increases.—For purposes of
 
 &emsp;&emsp;&emsp;“(iii) if the employee's rate of basic pay is less than the rate for pay rate 4 of the applicable grade, such employee's rate of basic pay shall be governed by paragraph (1) of section 5335(a) of such title;
 
-&emsp;&emsp;&emsp;“(iv) if the employee's rate of basic pay is equal to or greater than the rate for pay rate 4 but less than the rate for pay rate 7 of the applicable grade, such employee's rate of basic pay shall be governed by paragraph (2) of section 5335(a) of such title; and
+&emsp;&emsp;&emsp;“(iv) if the employee's rate of basic pay is equal to or greater than the rate for pay rate 4 but lessthan the rate for pay rate 7 of the applicable grade, such employee's rate of basic pay shall be governed by paragraph (2) of section 5335(a) of such title; and
 
 &emsp;&emsp;&emsp;“(v) if the employee's rate of basic pay is equal to or greater than the rate for pay rate 7 but less than the maximum rate of the applicable grade, such employee's rate of basic pay shall be governed by paragraph (3) of section 5335(a) of such title.
 

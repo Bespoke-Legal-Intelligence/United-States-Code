@@ -80,7 +80,7 @@ Act of May 16, 1910, as amended, referred to in subsec. (h)(1), is act May 16, 1
 
 #### Codification
 
-In subsec. (h), “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 484)”on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (h), “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 484)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions
 
@@ -118,7 +118,7 @@ Pub. L. 88–332, §104, June 30, 1964, 78 Stat. 229.
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives changed to Committee on Science of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

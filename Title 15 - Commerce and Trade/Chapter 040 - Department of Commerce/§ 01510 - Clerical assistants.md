@@ -6,7 +6,7 @@ There shall also be such clerical assistants as may from time to time be authori
 
 #### Codification
 
-Section was formerly classified to section 594 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89 554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 594 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 

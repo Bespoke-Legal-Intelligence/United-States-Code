@@ -6,7 +6,7 @@ The Secretary shall not finally disapprove any application for a State program s
 
 #### (b) Suspension of eligibility
 
-Whenever the Secretary, after reasonable notice and opportunity for a hearing to the Stateagency administering a State program approved under this subpart, finds—
+Whenever the Secretary, after reasonable notice and opportunity for a hearing to the State agency administering a State program approved under this subpart, finds—
 
 &emsp;(1) that the State program has been so changed that it no longer complies with the provisions of this subpart, or
 
@@ -28,5 +28,5 @@ Whenever the Secretary, after reasonable notice and opportunity for a hearing to
 
 &emsp;The court shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 89 329, title V, §529, as added Pub. L. 102 325, title V, §501(a), July 23, 1992, 106 Stat. 682.)
+(Pub. L. 89–329, title V, §529, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 682.)
 

@@ -42,7 +42,7 @@
 
 &emsp;(B) the Postmaster General of the United States of the amount of the installment computed under this subsection for such year with respect to individuals under paragraph (1)(B).
 
-(4)(A) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall creditto the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (3)(A) for such year.
+(4)(A) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (3)(A) for such year.
 
 (B) Upon receiving notification under paragraph (3)(B), the United States Postal Service shall pay the amount specified in such notification to the Fund.
 
@@ -62,7 +62,7 @@ Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred
 
 #### Amendments
 
-1992—Subsec. (a)(1)(B)(i). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1992</b>—Subsec. (a)(1)(B)(i). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Pub. L. 102–378 substituted “multiplied” for “multipled”.
 

@@ -32,7 +32,7 @@ As used in this section—
 
 #### (b) Transfer of funds
 
-(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginning with the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
+(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginningwith the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
 
 &emsp;(A) use by the Secretary—
 
@@ -94,7 +94,7 @@ As used in this section—
 
 (1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c) of this section, as the Secretary deems appropriate.
 
-(2) The Secretary shall, after consultation with appropriate representatives of the fishing industry, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives, an annual report, that must be submitted not later than 60 days before the close of each fiscal year, containing—
+(2) The Secretary shall, after consultation with appropriate representatives of the fishing industry, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives, anannual report, that must be submitted not later than 60 days before the close of each fiscal year, containing—
 
 &emsp;(A) the fisheries development goals and funding priorities under paragraph (1) for the next fiscal year;
 
@@ -104,7 +104,7 @@ As used in this section—
 
 &emsp;&emsp;(ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) of this section during the current fiscal year; and
 
-&emsp;(C) an assessment of each project assisted under subsection (c) of this section or carriedout under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the proj- ect were attained, and (ii) the project contributed to fishery development.
+&emsp;(C) an assessment of each project assisted under subsection (c) of this section or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the proj- ect were attained, and (ii) the project contributed to fishery development.
 
 #### (e) Allocation of fund moneys
 
@@ -164,7 +164,7 @@ Section 2 of act Aug. 11, 1939, which enacted this section, is popularly known a
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction given primarily to Committee on Transportation and Infrastructure of House of Representatives, and remainder of jurisdiction given to Committees on National Security and on Resources of House of Representatives, by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

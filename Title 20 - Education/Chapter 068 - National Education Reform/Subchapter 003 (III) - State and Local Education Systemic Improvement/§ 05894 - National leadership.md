@@ -24,7 +24,7 @@ From funds reserved in each fiscal year under section 5884(a)(2)(A) of this titl
 
 #### (1) In general
 
-&emsp;The Secretary shall use at least 50 percent of the funds reserved each year under section5884(a)(2)(A) of this title to make grants, in accordance with the provisions of section 5889(a) of this title that the Secretary determines appropriate, and provide technical and other assistance to urban and rural local educational agencies with large numbers or concentrations of students who are economically disadvantaged or who have limited English proficiency, to assist such agencies in developing and implementing local school improvement plans, except that any school that received funds under section 5889(a) of this title shall not receive assistance pursuant to this paragraph other than technical assistance.
+&emsp;The Secretary shall use at least 50 percent of the funds reserved each year under section 5884(a)(2)(A) of this title to make grants, in accordance with the provisions of section 5889(a) of this title that the Secretary determines appropriate, and provide technical and other assistance to urban and rural local educational agencies with large numbers or concentrations of students who are economically disadvantaged or who have limited English proficiency, to assist such agencies in developing and implementing local school improvement plans, except that any school that received funds under section 5889(a) of this title shall not receive assistance pursuant to this paragraph other than technical assistance.
 
 #### (2) Survey
 
@@ -34,7 +34,7 @@ From funds reserved in each fiscal year under section 5884(a)(2)(A) of this titl
 
 Any activities assisted under this section that involve research shall be administered through the Office of Educational Research and Improvement.
 
-(Pub. L. 103 227, title III, §314, Mar. 31, 1994, 108 Stat. 180.)
+(Pub. L. 103–227, title III, §314, Mar. 31, 1994, 108 Stat. 180.)
 
 #### Section Referred to in Other Sections
 

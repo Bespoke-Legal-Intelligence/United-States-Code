@@ -26,7 +26,7 @@
 
 (b)(1) Directors for Veterans’ Employment and Training and Assistant Directors for Veterans’ Employment and Training shall regularly monitor the performance of the specialists and representatives referred to in subsection (a)(1) of this section through the application of the standards required to be prescribed by subsection (a)(1).
 
-(2) A Director for Veterans’ Employment and Training for a State may submit to the head of the employment service in the State recommendations and comments in connection with each annual performance rating of such specialists and representatives in the State.
+(2) A Director for Veterans’ Employment and Training for a State may submit to the head of the employment service in the State recommendations and comments in connection witheach annual performance rating of such specialists and representatives in the State.
 
 (Added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Stat. 562, §2004A; renumbered §4104A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

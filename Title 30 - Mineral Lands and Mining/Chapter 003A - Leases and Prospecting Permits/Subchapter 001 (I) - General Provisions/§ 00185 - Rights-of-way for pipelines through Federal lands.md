@@ -98,11 +98,31 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 (6) The Secretary or agency head shall require, prior to granting or renewing a right-of-way, that the applicant submit and disclose all plans, contracts, agreements, or other information or material which he deems necessary to determine whether a right-of-way shall be granted or renewed and the terms and conditions which should be included in the right-of-way. Such information may include, but is not limited to: (A) conditions for, and agreements among owners or operators, regarding the addition of pumping facilities, looping, or otherwise increasing the pipeline or terminal's throughput capacity in response to actual or anticipated increases in demand; (B) conditions for adding or abandoning intake, offtake, or storage points or facilities; and (C) minimum shipment or purchase tenders.
 
-#### (s) Omitted
+#### (s) Exports of Alaskan North Slope oil
+
+(1) Subject to paragraphs (2) through (6) of this subsection and notwithstanding any other provision of this chapter or any other provision of law (including any regulation) applicable to the export of oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43, such oil may be exported unless the President finds that exportation of this oil is not in the national interest. The President shall make his national interest determination within five months of November 28, 1995. In evaluating whether exports of this oil are in the national interest, the President shall at a minimum consider—
+
+&emsp;(A) whether exports of this oil would diminish the total quantity or quality of petroleum available to the United States;
+
+&emsp;(B) the results of an appropriate environmental review, including consideration of appropriate measures to mitigate any potential adverse effects of exports of this oil on the environment, which shall be completed within four months of November 28, 1995; and
+
+&emsp;(C) whether exports of this oil are likely to cause sustained material oil supply shortages or sustained oil prices significantly above world market levels that would cause sustained material adverse employment effects in the United States or that would cause substantial harm to consumers, including noncontiguous States and Pacific territories.
+
+> If the President determines that exports of this oil are in the national interest, he may impose such terms and conditions (other than a volume limitation) as are necessary or appropriate to ensure that such exports are consistent with the national interest.
+
+(2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United States and owned by a citizen of the United States (as determined in accordance with section 802 of title 46, Appendix.
+
+(3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
+
+(4) The Secretary of Commerce shall issue any rules necessary for implementation of the President's national interest determination, including any licensing requirements and conditions, within 30 days of the date of such determination by the President. The Secretary of Commerce shall consult with the Secretary of Energy in administering the provisions of this subsection.
+
+(5) If the Secretary of Commerce finds that exporting oil under authority of this subsection has caused sustained material oil supply shortages or sustained oil prices significantly above world market levels and further finds that these supply shortages or price increases have caused or are likely to cause sustained material adverse employment effects in the United States, the Secretary of Commerce, in consultation with the Secretary of Energy, shall recommend, and the President may take, appropriate action concerning exports of this oil, which may include modifying or revoking authority to export such oil.
+
+(6) Administrative action under this subsection is not subject to sections 551 and 553 through 559 of title 5.
 
 #### (t) Existing rights-of-way
 
-The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considered a major Federal action requiring a detailed statement pursuant to section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).
+The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considereda major Federal action requiring a detailed statement pursuant to section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).
 
 #### (u) Limitations on export
 
@@ -119,8 +139,6 @@ The Secretary or agency head shall take into consideration and to the extent pra
 (2) The Secretary or agency head shall promptly notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to the terms and conditions he proposes to impose, has been submitted to such committees.
 
 (3) Periodically, but at least once a year, the Secretary of the Department of Transportation shall cause the examination of all pipelines and associated facilities on Federal lands and shall cause the prompt reporting of any potential leaks or safety problems.
-
-(4) The Secretary of the Department of Transportation shall report annually to the President, the Congress, the Secretary of the Interior, and the Secretary of Energy any potential dangers of or actual explosions, or potential or actual spillage on Federal lands and shall include insuch report a statement of corrective action taken to prevent such explosion or spillage.
 
 #### (x) Liability
 
@@ -142,7 +160,7 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 The grant of a right-of-way or permit pursuant to this section shall grant no immunity from the operation of the Federal antitrust laws.
 
-(Feb. 25, 1920, ch. 85, §28, 41 Stat. 449; Aug. 21, 1935, ch. 599, §1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Nov. 16, 1973, Pub. L. 93–153, title I, §101, 87 Stat. 576; Aug. 4, 1977, Pub. L. 95–91, title III, §§301(b), 306, title IV, §402(a), (b), title VII, §§703, 707, 91 Stat. 578, 581, 583, 584, 606, 607; July 12, 1985, Pub. L. 99–64, title I, §123(b), 99 Stat. 156; Oct. 30, 1990, Pub. L. 101–475, §1, 104 Stat. 1102; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589.)
+(Feb. 25, 1920, ch. 85, §28, 41 Stat. 449; Aug. 21, 1935, ch. 599, §1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Nov. 16, 1973, Pub. L. 93–153, title I, §101, 87 Stat. 576; Aug. 4, 1977, Pub. L. 95–91, title III, §§301(b), 306, title IV, §402(a), (b), title VII, §§703, 707, 91 Stat. 578, 581, 583, 584, 606, 607; July 12, 1985, Pub. L. 99–64, title I, §123(b), 99 Stat. 156;Oct. 30, 1990, Pub. L. 101–475, §1, 104 Stat. 1102; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589; Nov. 28, 1995, Pub. L. 104–58, title II, §201, 109 Stat. 560; Dec. 21, 1995, Pub. L. 104–66, title I, §1121(k), 109 Stat. 724.)
 
 #### References in Text
 
@@ -152,15 +170,21 @@ The date of enactment of this subsection, referred to in subsec. (k), the effect
 
 The Natural Gas Act, referred to in subsec. (r)(3)(A), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (s)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+The National Emergencies Act, referred to in subsec. (s)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
+The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part B of title II of the Act is classified generally to part B (§6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+
+The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of to Title 50, Appendix War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of to Title 50, Appendix and Tables.
 
 The Federal antitrust laws, referred to in subsec. (y), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-#### Codification
-
-Subsec. (s) of this section provided that the Secretary, in consultation with Federal and State agencies, review the need for a national system of transportation and utility corridors across Federal lands and report to Congress and to the President by July 1, 1975.
-
 #### Amendments
+
+1995—Subsec. (s). Pub. L. 104–58 amended heading and text of subsec. (s) generally. Prior to amendment, subsec. (s) provided that the Secretary of Interior, in consultation with Federal and State agencies, review need for national system of transportation and utility corridors across Federal lands and report to Congress and the President by July 1, 1975.
+
+Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “The Secretary of the Department of Transportation shall report annually to the President, the Congress, the Secretary of the Interior, and the Secretary of Energy any potential dangers of or actual explosions, or potential or actual spillage on Federal lands and shall include in such report a statement of corrective action taken to prevent such explosion or spillage.”
 
 1994—Subsec. (w)(1), (2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
@@ -172,13 +196,13 @@ Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to 
 
 1973—Pub. L. 93–153 completely rewrote the section substituting 25 subsecs. lettered (a) through (y) covering all aspects of the granting of rights-of-way for pipelines through Federal lands for the former single unlettered paragraph under which rights-of-way of 25 feet on each side of the pipeline could be granted and under which the pipeline was to be operated as a common carrier.
 
-1953—Act Aug. 12, 1953, permitted companies subject to Federal regulation, or public utilities subject toState regulations, to pass through the public domain without incurring the obligation to become a common carrier.
+1953—Act Aug. 12, 1953, permitted companies subject to Federal regulation, or public utilities subject to State regulations, to pass through the public domain without incurring the obligation to become a common carrier.
 
 1935—Act Aug. 21, 1935, substituted “may be granted by the Secretary of the Interior” for “are granted” and inserted “and conditions” after “regulations” in two places, and “and shall accept, convey, transport, or purchase without discrimination, oil or natural gas produced from Government lands in the vicinity of the pipe line in such proportionate amounts as the Secretary of the Interior may, after a full hearing with notice thereof to the interested parties and a proper finding of facts, determine to be reasonable:” after “and maintained as common carriers.”.
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 
@@ -186,7 +210,17 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 “Secretary of Energy or Federal Energy Regulatory Commission” substituted for “Interstate Commerce Commission or Federal Power Commission” in subsec. (r)(5) pursuant to sections 301(b), 306, 402(a), (b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7155, 7172(a), (b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which transferred functions vested in Interstate Commerce Commission, and Chairman and members thereof, relating to transportation of oil by pipeline to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission within Department of Energy), and terminated Federal Power Commission and transferred its functions to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission).
 
-“Secretary of Energy” substituted for “Interstate Commerce Commission” in subsec. (w)(4) pursuant to sections 306 and 707 of Pub. L. 95–91, which are classified to sections 7155 and 7297 of Title 42, and which transferred functions vested in Interstate Commerce Commission, and Chairman and members thereof, relating to transportation of oil by pipeline to Secretary of Energy (except for certain functions).
+#### GAO Report
+
+Section 202 of Pub. L. 104–58 provided that:
+
+“(a)
+
+Review.—The Comptroller General of the United States shall conduct a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii. The Comptroller General shall commence this review three years after the date of enactment of this Act \[Nov. 28, 1995\] and, within twelve months after commencing the review, shall provide a report to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources and the Committee on Commerce of the House of Representatives.
+
+“(b)
+
+Contents of Report.—The report shall contain a statement of the principal findings of the review and recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that the Comptroller General attributes to Alaska North Slope oil exports.”
 
 #### Outer Continental Shelf; Pipeline Rights-of-Way
 

@@ -18,7 +18,7 @@ The Secretary may enter into contracts with fiscal agents—
 
 (1) Contracts under subsection (a) of this section may be entered into without regard to section 5 of title 41 or any other provision of law requiring competition.
 
-(2) No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
+(2) No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility,legal authority, and other matters as he finds pertinent.
 
 #### (c) Advances under contracts
 

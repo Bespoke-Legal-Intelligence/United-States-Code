@@ -26,7 +26,7 @@
 
 (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date of rank of all other officers appointed under this section.
 
-(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
+(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as theSecretary prescribes but not for more than four years.
 
 (g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service.
 
@@ -40,7 +40,7 @@
 
 1991—Pub. L. 102–190, §522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
 
-Subsec. (a)(1). Pub. L. 102–190, §522(a)(1), substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student ata military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
+Subsec. (a)(1). Pub. L. 102–190, §522(a)(1), substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student at a military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
 
 Subsec. (a)(2). Pub. L. 102–190, §522(a)(2), inserted “military college or” after “To be considered a”, substituted “and meet” for “that does not confer baccalaureate degrees and that meets”, and inserted at end “For purposes of this section, a military junior college does not confer a baccalaureate degree.”
 

@@ -1,4 +1,4 @@
-### §460hhh–1 . Purposes
+### §460hhh–1. Purposes
 
 The purposes of this subchapter are to—
 

@@ -90,7 +90,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 #### (1) In general
 
-&emsp;The order in which such credits are used shall be determined on the basis of the orderin which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.
+&emsp;The order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.
 
 #### (2) Components of investment credit
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 98–369 applicable to interest paid or accrued after Decem
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, seesection 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
 #### Savings Provision
 
@@ -416,7 +416,7 @@ Special rule.—In the case of the LTV Corporation, in lieu of the requirements 
 
 &emsp;&emsp;&emsp;“(i) shall only be used by the corporation—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have been obligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have beenobligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) directly in connection with the trade or business of the corporation in the manufacturer or production of steel; and
 
@@ -502,7 +502,7 @@ Existing carryforward.—The term ‘existing carryforward’ means the aggregat
 
 &emsp;&emsp;“(A) are unused business credit carryforwards to the taxpayer's 1st taxable year beginning after December 31, 1986 (determined without regard to the limitations of section 38(c) of the Internal Revenue Code of 1986), and
 
-&emsp;&emsp;“(B) are attributable to the amount of the investment credit determined for periods before January 1, 1986, under section 46(a) of such Code (or any corresponding provision of prior law) with respect tosection 38 property which was used by the taxpayer in the trade or business of farming, determined on the basis that such credit was used first.
+&emsp;&emsp;“(B) are attributable to the amount of the investment credit determined for periods before January 1, 1986, under section 46(a) of such Code (or any corresponding provision of prior law) with respect to section 38 property which was used by the taxpayer in the trade or business of farming, determined on the basis that such credit was used first.
 
 &emsp;“(3)
 

@@ -1,4 +1,4 @@
-### §460uu–31 . Designation; description of area
+### §460uu–31. Designation; description of area
 
 (a) In furtherance of the purposes of the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\], there are hereby designated as wilderness, and, therefore, as components of the National Wilderness Preservation System, the Cebolla Wilderness of approximately 60,000 acres, and the West Malpais Wilderness of approximately 38,210 acres, as each is generally depicted on the map entitled “El Malpais National Monument and National Conservation Area” numbered NM–ELMA–80,001–B and dated May 1987. The map shall be on file and available for inspection in the offices of the Director of the Bureau of Land Management, Department of the Interior.
 
@@ -12,5 +12,5 @@ The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 19
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives changed to Committee on Resources of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

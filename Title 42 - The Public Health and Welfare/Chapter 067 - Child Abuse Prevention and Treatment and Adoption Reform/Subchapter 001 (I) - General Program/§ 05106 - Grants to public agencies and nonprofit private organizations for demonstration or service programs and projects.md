@@ -8,7 +8,7 @@
 
 #### (2) Evaluations
 
-&emsp;In making grants or entering into contracts for demonstration projects, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or contract, or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects.
+&emsp;In making grants or entering into contracts for demonstration projects, the Secretaryshall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or contract, or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects.
 
 #### (b) Grants for resource centers
 

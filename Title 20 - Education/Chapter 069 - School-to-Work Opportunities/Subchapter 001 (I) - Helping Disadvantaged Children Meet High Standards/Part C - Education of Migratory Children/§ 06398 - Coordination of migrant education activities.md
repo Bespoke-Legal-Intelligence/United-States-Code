@@ -8,7 +8,7 @@
 
 #### (2) Duration
 
-&emsp;Grants under this subpart<sup>1</sup> may be awarded for not more than five years.
+&emsp;Grants under this subpart <sup>1</sup> may be awarded for not more than five years.
 
 #### (b) Assistance and reporting
 
@@ -38,15 +38,15 @@ For the purpose of carrying out this section in any fiscal year, the Secretary s
 
 &emsp;Not less than 10 of such grants shall be awarded to States which receive allocations of less than $1,000,000 if such States have approved agreements.
 
-(Pub. L. 89 10, title I, §1308, as added Pub. L. 103 382, title I, §101, Oct. 20, 1994, 108 Stat. 3590.)
+(Pub. L. 89–10, title I, §1308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3590.)
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Extension of Operation of Migrant Student Record Transfer System
 
-Pub. L. 103 59, Aug. 2, 1993, 107 Stat. 281, provided that:
+Pub. L. 103–59, Aug. 2, 1993, 107 Stat. 281, provided that:
 
 “(a)
 
@@ -60,5 +60,5 @@ Program Modification.—Major modification of such system may be made only after
 
 This section is referred to in section 6393 of this title.
 
-<i><sup>1</sup></i><i>So in original. Probably should be “this part”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “this part”.</i>
 

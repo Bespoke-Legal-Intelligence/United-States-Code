@@ -28,5 +28,5 @@ Recipients of scholarships and fellowships under this chapter shall be known as 
 
 (2) The Board shall establish a schedule of honoraria to be awarded under paragraph (1).
 
-(Pub. L. 99 661, div. A, title XIV, §1405, Nov. 14, 1986, 100 Stat. 4009.)
+(Pub. L. 99–661, div. A, title XIV, §1405, Nov. 14, 1986, 100 Stat. 4009.)
 

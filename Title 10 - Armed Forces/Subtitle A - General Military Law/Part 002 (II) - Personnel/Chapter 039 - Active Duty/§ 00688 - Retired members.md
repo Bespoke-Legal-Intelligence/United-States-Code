@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed by the Secretary of Defense, a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve who was retired under section 1293, 3911, 3914, 6323, 8911, or 8914 of this title, or a member of the Fleet Reserve or Fleet Marine Corps Reserve may be ordered to active duty by the Secretary of the military department concerned at any time. The Secretary concerned may, to the extent consistent with other provisions of law, assign a member ordered to active duty under this section to such duties as the Secretary considers necessary in the interests of national defense.
 
-(b) A member ordered to active duty under this section who, while on active duty, is promoted to a grade that is higher than his retired grade is entitled, upon his release from thattour of active duty, to placement on the retired list in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
+(b) A member ordered to active duty under this section who, while on active duty, is promoted to a grade that is higher than his retired grade is entitled, upon his release from that tour of active duty, to placement on the retired list in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
 (c) Except in time of war, or of national emergency declared by the Congress or the President after November 30, 1980, not more than fifteen retired general officers of the Army, Air Force, or Marine Corps, and not more than fifteen retired flag officers of the Navy, may be on active duty at any one time. For the purposes of this subsection a retired officer ordered to active duty for a period of sixty days or less is not counted.
 
@@ -58,5 +58,5 @@ Effective Date.—This section shall apply with respect to retired members order
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 6151, 12307 of this title; title 37 sections 302f, 403a; title 38 sections 3013, 3231, 3511; title 50 App. section 592.
+This section is referred to in sections 101, 6151, 12307 of this title; title 37 sections 302f, 403a; title 38 sections 3013, 3231, 3511, 4312; title 50 App. section 592.
 

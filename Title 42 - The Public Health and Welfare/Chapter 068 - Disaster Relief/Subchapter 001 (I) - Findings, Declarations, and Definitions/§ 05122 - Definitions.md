@@ -64,7 +64,7 @@ In general.—The term ‘local government’ is deemed to have the same meaning
 
 “(2)
 
-Termination of effectiveness.—Paragraph (1) shall not be effective on and after the 90th day after the President transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and PublicWorks of the Senate a report which includes an interpretation of the term ‘local government’ for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act.”
+Termination of effectiveness.—Paragraph (1) shall not be effective on and after the 90th day after the President transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and Public Works of the Senate a report which includes an interpretation of the term ‘local government’ for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act.”
 
 \[Functions of President under section 103(e)(2) of Pub. L. 100–707 delegated to Director of Federal Emergency Management Agency by section 3 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
 

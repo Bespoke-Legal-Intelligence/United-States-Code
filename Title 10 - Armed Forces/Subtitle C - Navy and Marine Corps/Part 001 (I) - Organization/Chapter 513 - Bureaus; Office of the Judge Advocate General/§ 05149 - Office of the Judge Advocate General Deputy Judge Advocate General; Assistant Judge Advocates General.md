@@ -50,7 +50,7 @@ Changes in phraseology are made to conform to the language used in §5135 of thi
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck outformer second and third sentences which read as follows: “While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”, and added par. (2).
+1994—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: “While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled tothe same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”, and added par. (2).
 
 1986—Subsec. (a). Pub. L. 99–661, §508(b)(1), substituted “There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General” for “A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title shall be detailed as Deputy Judge Advocate General of the Navy”, and struck out “rank and” before “grade of” and struck out “rank or” before “grade under” in second sentence.
 

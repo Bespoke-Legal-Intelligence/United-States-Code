@@ -14,19 +14,19 @@ The Secretary is authorized to make grants to, and enter into contracts with, in
 
 Not less than 50 percent of the grants made under this section shall be for the purpose of establishing and maintaining fellowships or traineeships under subsection (a)(2) of this section.
 
-(Pub. L. 89 329, title II, §222, as added Pub. L. 96 374, title II, §201, Oct. 3, 1980, 94 Stat. 1385; amended Pub. L. 102 325, title II, §201, July 23, 1992, 106 Stat. 469.)
+(Pub. L. 89–329, title II, §222, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385; amended Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 469.)
 
 #### Prior Provisions
 
-A prior section 1032, Pub. L. 89 329, title II, §222, Nov. 8, 1965, 79 Stat. 1227, defined the term “librarianship”, prior to repeal by Pub. L. 92 318, title I, §111(b)(3)(A), June 23, 1972, 86 Stat. 239.
+A prior section 1032, Pub. L. 89–329, title II, §222, Nov. 8, 1965, 79 Stat. 1227, defined the term “librarianship”, prior to repeal by Pub. L. 92–318, title I, §111(b)(3)(A), June 23, 1972, 86 Stat. 239.
 
 #### Amendments
 
-1992—Pub. L. 102 325 amended section generally, substituting present provisions for provisions which related to allowable uses of grant funds and requirement to use grants for fellowships and traineeships.
+1992—Pub. L. 102–325 amended section generally, substituting present provisions for provisions which related to allowable uses of grant funds and requirement to use grants for fellowships and traineeships.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102 325 effective Oct. 1, 1992, see section 2 of Pub. L. 102 325, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,24 +16,24 @@
 | (d) | Modification of loan contract. |
 | (e) | Chartering vessels; loans to Alaskan earthquake victims; termination date. |
 | 742c–1. | Investment in obligations of the United States; proceeds to be used for fisheries. |
-| 742d. | Investigations; preparation and dissemination of information; reports. |
+| [742d.](%C2%A7%2000742d%20-%20Investigations%3B%20preparation%20and%20dissemination%20of%20information%3B%20reports.md) | Investigations; preparation and dissemination of information; reports. |
 | 742d–1. | Studies of effects in use of chemicals. |
-| 742e. | Transfer of functions to Secretary. |
+| [742e.](%C2%A7%2000742e%20-%20Transfer%20of%20functions%20to%20Secretary.md) | Transfer of functions to Secretary. |
 | (a) | Functions of Secretaries of Agriculture, Commerce, etc. |
 | (b) | Transfer of personnel, property, records, etc. |
 | (c) | Cooperation of other departments and agencies. |
-| 742f. | Powers of Secretaries of the Interior and Commerce. |
+| [742f.](%C2%A7%2000742f%20-%20Powers%20of%20Secretaries%20of%20the%20Interior%20and%20Commerce.md) | Powers of Secretaries of the Interior and Commerce. |
 | (a) | Policies, procedures, and recommendations. |
 | (b) | Gifts, devises, or bequests for performance of activities and services of United States Fish and Wildlife Service; restrictive or affirmative covenants or conditions of servitude; separate account in Treasury; disbursement orders; gifts or bequests to United States for Federal tax purposes. |
 | (c) | Volunteer services; incidental expenses; Federal employee status; authorization of appropriations. |
-| 742g. | Cooperation with State Department. |
+| [742g.](%C2%A7%2000742g%20-%20Cooperation%20with%20State%20Department.md) | Cooperation with State Department. |
 | (a) | Representation at international meetings. |
 | (b) | Consultation with officials responsible for technical and economic aid. |
 | (c) | International negotiations. |
 | (d) | Consultation with governmental, private nonprofit, and other organizations. |
-| 742h. | Reports on fishery products. |
-| 742i. | Effect on rights of States and international commissions. |
-| 742j. | Authorization of appropriations. |
+| [742h.](%C2%A7%2000742h%20-%20Reports%20on%20fishery%20products.md) | Reports on fishery products. |
+| [742i.](%C2%A7%2000742i%20-%20Effect%20on%20rights%20of%20States%20and%20international%20commissions.md) | Effect on rights of States and international commissions. |
+| [742j.](%C2%A7%2000742j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 742j–1. | Airborne hunting. |
 | (a) | Prohibition; penalty. |
 | (b) | Exception; report of State to Secretary. |
@@ -42,7 +42,7 @@
 | (e) | Forfeiture. |
 | (f) | Certain customs laws applied. |
 | 742j–2. | Uniform allowance. |
-| 742k. | Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities. |
+| [742k.](%C2%A7%2000742k%20-%20Management%20and%20disposition%20of%20vessels%20and%20other%20property%20acquired%20and%20arising%20out%20of%20fishery%20loans%20or%20related%20type%20of%20activities.md) | Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities. |
 | 742<i>l.</i> | Enforcement authority for the protection of fish and wildlife resources. |
 | (a) | Law enforcement training program. |
 | (b) | Law enforcement cooperative agreement. |

@@ -96,7 +96,7 @@ Contents of Report.—The report shall include the following:
 
 &emsp;&emsp;“(E) the feasibility and desirability of consolidating, expanding, or otherwise modifying any program relating to the provision of survivor benefits.
 
-&emsp;“(4) The recommendations of the Comptroller General (including a proposal for legislation) on the most appropriate combination of survivor benefits to meet the current and anticipated financial, health-care, educational, and other needs of survivors.
+&emsp;“(4) The recommendations of the Comptroller General (including a proposal for legislation) on the mostappropriate combination of survivor benefits to meet the current and anticipated financial, health-care, educational, and other needs of survivors.
 
 “(c)
 

@@ -50,6 +50,10 @@ Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 
 1953—Subsec. (b). Act Aug. 8, 1953, increased the amount deductible to cover expenses from 3 to 5 percent.
 
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+
 #### Abolition of International Claims Commission and Transfer of Functions
 
 International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1, of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.

@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out this subchapter $15,000,000
 
 Amounts appropriated pursuant to subsection (a) of this section shall remain available until expended.
 
-(Pub. L. 103 227, title V, §507, Mar. 31, 1994, 108 Stat. 199.)
+(Pub. L. 103–227, title V, §507, Mar. 31, 1994, 108 Stat. 199.)
 
 #### Section Referred to in Other Sections
 

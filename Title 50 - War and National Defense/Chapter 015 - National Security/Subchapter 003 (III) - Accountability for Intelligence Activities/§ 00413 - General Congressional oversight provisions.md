@@ -2,7 +2,7 @@
 
 #### (a) Reports to Congressional committees of intelligence activities and anticipated activities
 
-(1) The President shall ensure that the intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.
+(1) The President shall ensure that the intelligence committees are kept fully and currentlyinformed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.
 
 (2) As used in this subchapter, the term “intelligence committees” means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
 

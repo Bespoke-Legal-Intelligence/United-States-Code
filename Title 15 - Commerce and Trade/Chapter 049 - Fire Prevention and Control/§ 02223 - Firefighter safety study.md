@@ -14,7 +14,7 @@ The Administrator shall conduct a review of firefighter safety. Such review shal
 
 The Administrator shall submit to Congress the results of such review, together with appropriate recommendations for legislation, not later than March 31, 1980.
 
-(Pub. L. 93 498, §27, as added Pub. L. 96 121, §5, Nov. 16, 1979, 93 Stat. 865.)
+(Pub. L. 93–498, §27, as added Pub. L. 96–121, §5, Nov. 16, 1979, 93 Stat. 865.)
 
 #### Section Referred to in Other Sections
 

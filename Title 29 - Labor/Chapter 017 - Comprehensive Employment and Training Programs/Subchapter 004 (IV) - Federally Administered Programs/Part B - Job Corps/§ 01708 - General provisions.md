@@ -12,7 +12,7 @@ The Secretary is authorized to—
 
 &emsp;&emsp;(B) without regard to any other law or regulation, for rent of buildings and space in buildings and for repair, alteration, and improvement of buildings and space in buildings rented by the Secretary, except that the Secretary shall not utilize the authority contained in this subparagraph—
 
-&emsp;&emsp;&emsp;(i) except when necessary to obtain an item, service, or facility, which is requiredin the proper administration of this part, and which otherwise could not be obtained, or could not be obtained in the quantity or quality needed, or at the time, in the form or under the conditions in which it is needed; and
+&emsp;&emsp;&emsp;(i) except when necessary to obtain an item, service, or facility, which is required in the proper administration of this part, and which otherwise could not be obtained, or could not be obtained in the quantity or quality needed, or at the time, in the form or under the conditions in which it is needed; and
 
 &emsp;&emsp;&emsp;(ii) prior to having given written notification to the Administrator of General Services (if the exercise of such authority would affect an activity which otherwise would be under the jurisdiction of the General Services Administration) of the Secretary's intention to exercise such authority, the item, service, or facility with respect to which such authority is proposed to be exercised, and the reasons and justifications for the exercise of such authority.
 

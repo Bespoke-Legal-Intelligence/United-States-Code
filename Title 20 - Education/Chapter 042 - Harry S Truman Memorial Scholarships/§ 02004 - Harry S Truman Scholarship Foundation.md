@@ -6,7 +6,7 @@ There is established, as an independent establishment of the executive branch of
 
 #### (b) Board of Trustees; membership
 
-(1)<sup>1</sup> The Foundation shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of thirteen members, as follows:
+(1) <sup>1</sup> The Foundation shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of thirteen members, as follows:
 
 &emsp;(A) two Members of the Senate, one from each political party, to be appointed by the President of the Senate;
 
@@ -24,11 +24,11 @@ The term of office of each member of the Board shall be six years; except that (
 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
-(Pub. L. 93 642, §5, Jan. 4, 1975, 88 Stat. 2277; Pub. L. 96 88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 93–642, §5, Jan. 4, 1975, 88 Stat. 2277; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted for “Commissioner of Education” in subsec. (b)(1)(D) pursuant to sections 301(a)(1) and 507 of Pub. L. 96 88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary of Education” substituted for “Commissioner of Education” in subsec. (b)(1)(D) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
-<i><sup>1</sup></i><i>So in original. Subsec. (b) was enacted without a par. (2).</i>
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

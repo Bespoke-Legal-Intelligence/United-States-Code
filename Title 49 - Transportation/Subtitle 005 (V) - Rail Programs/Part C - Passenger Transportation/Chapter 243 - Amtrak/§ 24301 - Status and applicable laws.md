@@ -16,7 +16,7 @@ Principal Office and Place of Business.—The principal office and place of busi
 
 (c)
 
-Application of Subtitle IV.—(1) Subtitle IV of this title applies to Amtrak, except for provisions related to the—
+Application of Subtitle IV.—(1) Part A of subtitle IV of this title applies to Amtrak, except for provisions related to the—
 
 &emsp;(A) regulation of rates;
 
@@ -30,13 +30,13 @@ Application of Subtitle IV.—(1) Subtitle IV of this title applies to Amtrak, e
 
 (2) Notwithstanding this subsection—
 
-&emsp;(A) sections 10721–10724 of this title apply to Amtrak; and
+&emsp;(A) section 10721 of this title applies to Amtrak; and
 
-&emsp;(B) on application of an adversely affected motor carrier, the Interstate Commerce Commission under any provision of subtitle IV of this title applicable to a carrier subject to subchapter I of chapter 105 of this title may hear a complaint about an unfair or predatory rate or marketing practice of Amtrak for a route or service operating at a loss.
+&emsp;(B) on application of an adversely affected motor carrier, the Surface Transportation Board under part A of subtitle IV of this title may hear a complaint about an unfair or predatory rate or marketing practice of Amtrak for a route or service operating at a loss.
 
 (d)
 
-Application of Safety and Employee Relations Laws and Regulations.—Laws and regulations governing safety, employee representation for collective bargaining purposes, the handling of disputes between carriers and employees, employee retirement, annuity, and unemployment systems, and other dealings with employees that apply to a common carrier subject to subchapter I of chapter 105 of this title apply to Amtrak.
+Application of Safety and Employee Relations Laws and Regulations.—Laws and regulations governing safety, employee representation for collective bargaining purposes, the handling of disputes between carriers and employees, employee retirement, annuity, and unemployment systems, and other dealings with employees that apply to a rail carrier subject to part A of subtitle IV of this title apply to Amtrak.
 
 (e)
 
@@ -78,7 +78,7 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 (<i>l</i>)
 
-Exemption From Taxes Levied After September 30, 1981.—(1) Amtrak or a rail carrier subsidiary of Amtrak is exempt from a tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and leviedon it after September 30, 1981. However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.
+Exemption From Taxes Levied After September 30, 1981.—(1) Amtrak or a rail carrier subsidiary of Amtrak is exempt from a tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it after September 30, 1981. However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.
 
 (2) The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this subsection and may grant equitable or declaratory relief requested by Amtrak.
 
@@ -96,7 +96,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 
@@ -257,6 +257,20 @@ In subsection (n), the words “uniformed services” are substituted for “Arm
 #### References in Text
 
 The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+
+#### Amendments
+
+1995—Subsec. (c)(1). Pub. L. 104–88, §308(g)(1)(A), substituted “Part A of subtitle IV” for “Subtitle IV”.
+
+Subsec. (c)(2)(A). Pub. L. 104–88, §308(g)(1)(B), substituted “section 10721 of this title applies” for “sections 10721–10724 of this title apply”.
+
+Subsec. (c)(2)(B). Pub. L. 104–88, §308(g)(1)(C), substituted “Transportation Board under part A of subtitle IV” for “Interstate Commerce Commission under any provision of subtitle IV of this title applicable to a carrier subject to subchapter I of chapter 105”.
+
+Subsec. (d). Pub. L. 104–88, §308(g)(2), substituted “rail carrier subject to part A of subtitle IV” for “common carrier subject to subchapter I of chapter 105”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Regulations
 

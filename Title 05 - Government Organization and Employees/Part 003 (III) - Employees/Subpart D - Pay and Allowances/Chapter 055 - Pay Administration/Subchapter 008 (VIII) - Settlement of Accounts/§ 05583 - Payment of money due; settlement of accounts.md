@@ -30,11 +30,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–70 struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
+<b>1979</b>—Subsec. (b). Pub. L. 96–70 struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
 
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+
+Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Cross References
 

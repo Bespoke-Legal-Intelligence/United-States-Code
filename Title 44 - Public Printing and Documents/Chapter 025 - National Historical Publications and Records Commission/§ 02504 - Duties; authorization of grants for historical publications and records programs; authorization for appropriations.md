@@ -8,7 +8,7 @@
 
 (d) The Commission may recommend the expenditure of appropriated or donated funds for the collecting, describing, preserving, compiling and publishing (including microfilming and other forms of reproduction) of documentary sources significant to the history of the United States and for the activities described in subsection (c).
 
-(e) The Archivist of the United States may, within the limits of available appropriated and donated funds, make grants to State and local agencies and to nonprofit organizations, institutions, and individuals, for those activities in subsection (d) after considering the advice and recommendations of the Commission.
+(e) The Archivist of the United States may, within the limits of available appropriated and donated funds, make grants to State and localagencies and to nonprofit organizations, institutions, and individuals, for those activities in subsection (d) after considering the advice and recommendations of the Commission.
 
 (f)(1) For the purposes specified in this section, there is hereby authorized to be appropriated to the National Historical Publications and Records Commission—
 

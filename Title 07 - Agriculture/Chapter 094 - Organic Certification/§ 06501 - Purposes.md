@@ -1,0 +1,16 @@
+### §6501. Purposes
+
+It is the purpose of this chapter—
+
+&emsp;(1) to establish national standards governing the marketing of certain agricultural products as organically produced products;
+
+&emsp;(2) to assure consumers that organically produced products meet a consistent standard; and
+
+&emsp;(3) to facilitate interstate commerce in fresh and processed food that is organically produced.
+
+(Pub. L. 101–624, title XXI, §2102, Nov. 28, 1990, 104 Stat. 3935.)
+
+#### Short Title
+
+Section 2101 of title XXI of Pub. L. 101–624 provided that: “This title \[enacting this chapter\] may be cited as the ‘Organic Foods Production Act of 1990’.”
+

@@ -14,5 +14,5 @@ Not more than 180 days after November 16, 1990, the President shall, in consulta
 
 &emsp;(6) promoting recycling and source reduction of pollutants in order to reduce the volume of waste which must be disposed of, thus decreasing energy use and greenhouse gas emissions.
 
-(Pub. L. 101 606, title II, §204, Nov. 16, 1990, 104 Stat. 3103.)
+(Pub. L. 101–606, title II, §204, Nov. 16, 1990, 104 Stat. 3103.)
 

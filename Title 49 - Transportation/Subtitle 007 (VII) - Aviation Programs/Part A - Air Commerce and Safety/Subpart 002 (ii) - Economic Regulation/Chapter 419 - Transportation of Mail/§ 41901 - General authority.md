@@ -34,15 +34,11 @@ Statements on Prices.—A petition for prescribing a reasonable price under this
 
 Statements on Required Services.—The Postal Service shall introduce as part of the record in every proceeding under this section a comprehensive statement of the services to be required of the air carrier and other information the Postal Service has that the Secretary considers material to the proceeding.
 
-(g)
+(Pub. L. 103–272, §§1(e), 4(k)(1), (2), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 104–52, title VI, §631(c), Nov. 19, 1995, 109 Stat. 505.)
 
-Expiration Date.—The authority of the Secretary under this part and section 5402 of title 39 providing for the transportation of mail by aircraft between places in Alaska expires on the date specified in section 5402(f) of title 39.
+#### Amendment of Subsection (b)(1)
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), (2), July 5, 1994, 108 Stat. 1153, 1370.)
-
-#### Amendment of Subsections (b)(1) and (g)
-
-<i>Pub. L. 103–272, §4(k)(1), (2), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, this section is amended by substituting “transportation” for “transportation or between places in Alaska” in subsection (b)(1) and by striking out subsection (g).</i>
+<i>Pub. L. 103–272, §4(k)(1), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, this section is amended by substituting “transportation” for “transportation or between places in Alaska” in subsection (b)(1).</i>
 
 Historical and Revision Notes
 
@@ -126,7 +122,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, 1601(b)(3); added Oct. 4, 1984, P
 
 Oct. 4, 1984, Pub. L. 98–443, §4(c), 98 Stat. 1705; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §4(c) of Civil Aeronautics Board Sunset Act of 1984), 102 Stat. 2155.
 
-In this section, the word “prescribe” is substituted for “fix and determine” and “fixing and determining”for consistency in the revised title and with other titles of the United States Code. The word “reasonable” is substituted for “fair and reasonable” for consistency in the revised title and to eliminate an unnecessary word. See the revision notes following 49:10101.
+In this section, the word “prescribe” is substituted for “fix and determine” and “fixing and determining” for consistency in the revised title and with other titles of the United States Code. The word “reasonable” is substituted for “fair and reasonable” for consistency in the revised title and to eliminate an unnecessary word. See the revision notes following 49:10101.
 
 Subsection (a) is substituted for 49 App.:1551(b)(1)(D) to make clear that the United States Postal Service derives its authority to provide for the transportation of mail by aircraft in interstate transportation from 39:5402(d) and (f). The text of 49 App.:1376(a) (1st sentence related to non-Alaska interstate and overseas air transportation less words between parentheses) is omitted as superseded by 39:5402(d).
 
@@ -161,6 +157,12 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+
+#### Amendments
+
+1995—Subsec. (g). Pub. L. 104–52 struck out subsec. (g) which read as follows: “
+
+Expiration Date.—The authority of the Secretary under this part and section 5402 of title 39 providing for the transportation of mail by aircraft between places in Alaska expires on the date specified in section 5402(f) of title 39.”
 
 #### Effective Date of 1994 Amendment
 

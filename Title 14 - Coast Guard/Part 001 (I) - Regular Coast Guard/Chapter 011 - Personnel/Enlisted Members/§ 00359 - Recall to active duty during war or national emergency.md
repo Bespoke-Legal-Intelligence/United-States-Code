@@ -16,3 +16,7 @@ This section was changed so as to make provisions for enlisted men parallel to s
 
 1950—Act Aug. 3, 1950, struck out all references to pay.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 38 section 4312.
+

@@ -1,0 +1,6 @@
+### §249. Action on bond by person injured
+
+Any person injured by the breach of any obligation to secure which a bond is given, under the provisions of sections 247 or 248 of this title, shall be entitled to sue on the bond in his own name in any court of competent jurisdiction to recover the damages he may have sustained by such breach.
+
+(Aug. 11, 1916, ch. 313, pt. C, §7, 39 Stat. 487.)
+

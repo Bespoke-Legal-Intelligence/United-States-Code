@@ -32,7 +32,7 @@
 
 “(b) Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire—
 
-&emsp;“(1) any obligation the payment of principal or interest on which at any time has been guaranteed inwhole or in part under section 697 of this title and which is being sold pursuant to the provisions of the pilot program authorized in this section,
+&emsp;“(1) any obligation the payment of principal or interest on which at any time has been guaranteed in whole or in part under section 697 of this title and which is being sold pursuant to the provisions of the pilot program authorized in this section,
 
 &emsp;“(2) any obligation which is an interest in any obligation described in paragraph (1), or
 

@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) low-level lead poisoning is widespread among American children, afflicting as many as 3,000,000 children under age 6, with minorityand low-income communities disproportionately affected;
+&emsp;(1) low-level lead poisoning is widespread among American children, afflicting as many as 3,000,000 children under age 6, with minority and low-income communities disproportionately affected;
 
 &emsp;(2) at low levels, lead poisoning in children causes intelligence quotient deficiencies, reading and learning disabilities, impaired hearing, reduced attention span, hyperactivity, and behavior problems;
 
@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(7) despite the enactment of laws in the early 1970's requiring the Federal Government to eliminate as far as practicable lead-based paint hazards in federally owned, assisted, and insured housing, the Federal response to this national crisis remains severely limited; and
 
-&emsp;(8) the Federal Government must take a leadership role in building the infrastructure—including an informed public, State and local delivery systems, certified inspectors, contractors, and laboratories, trained workers, and available financing and insurance—necessary to ensure that the national goal of eliminating lead-based paint hazards in housing can be achieved as expeditiously as possible.
+&emsp;(8) the Federal Government must take a leadership role in building the infrastructure—including an informed public, State and localdelivery systems, certified inspectors, contractors, and laboratories, trained workers, and available financing and insurance—necessary to ensure that the national goal of eliminating lead-based paint hazards in housing can be achieved as expeditiously as possible.
 
 (Pub. L. 102–550, title X, §1002, Oct. 28, 1992, 106 Stat. 3897.)
 

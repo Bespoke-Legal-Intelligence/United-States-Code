@@ -6,7 +6,7 @@
 
 (2) The Director may, under the authority provided by paragraph (1) of this subsection and in accordance with such policies as the Board chooses to prescribe, appoint for a limited term, or on a temporary basis, scientists, engineers, and other technical and professional personnel on leave of absence from academic, industrial, or research institutions to work for the Foundation.
 
-(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
+(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on atemporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
 
 #### (b) Operation of laboratories and pilot plants
 
@@ -40,11 +40,7 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 Information supplied to the Foundation or a contractor of the Foundation by an industrial or commercial organization in survey forms, questionnaires, or similar instruments for the purposes of subsection (a)(5) or (a)(6) of section 1862 of this title may not be disclosed to the public unless such information has been transformed into statistical or aggregate formats that do not allow the identification of the supplier. The names of organizations supplying such information may not be disclosed to the public.
 
-#### (j) Budget estimate
-
-Starting with fiscal year 1990, the Foundation shall submit to the Congress in each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for the Foundation. The three-year budget shall include funding estimates for each major activity, including each scientific directorate, the United States Antarctic Program, the Science and Engineering Education Directorate, and the Program Development and Management activity.
-
-(May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, July 11, 1958, Pub. L. 85–510, §2, 72 Stat. 353; amended Sept. 8, 1959, Pub. L. 86–232, §8, 73 Stat. 469; renumbered §14 and amended July 18, 1968, Pub. L. 90–407, §§11(2), 12, 82 Stat. 365, 366; Nov. 18, 1969, Pub. L. 91–120, §3, 83 Stat. 203; Aug. 15, 1977, Pub. L. 95–99, §12(c), formerly §14(c), 91 Stat. 835, renumbered §12(c), Nov. 22, 1985, Pub. L. 99–159, title I, §109(h), 99 Stat. 890; Nov. 22, 1985, Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), 99 Stat. 889, 891; Oct. 31, 1988, Pub. L. 100–570, title I, §§106, 107, 102 Stat. 2868, 2869; Nov. 16, 1990, Pub. L. 101–589, title II, §251, 104 Stat. 2894; Oct. 28, 1991, Pub. L. 102–139, title III, 105 Stat. 774.)
+(May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, July 11, 1958, Pub. L. 85–510, §2, 72 Stat. 353; amended Sept. 8, 1959, Pub. L. 86–232, §8, 73 Stat. 469; renumbered §14 and amended July 18, 1968, Pub. L. 90–407, §§11(2), 12, 82 Stat. 365, 366; Nov. 18, 1969, Pub. L. 91–120, §3, 83 Stat. 203; Aug. 15, 1977, Pub. L. 95–99, §12(c), formerly §14(c), 91 Stat. 835, renumbered §12(c), Nov. 22, 1985, Pub. L. 99–159, title I, §109(h), 99 Stat. 890; Nov. 22, 1985, Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), 99 Stat. 889, 891; Oct. 31, 1988, Pub. L. 100–570, title I, §§106, 107, 102 Stat. 2868, 2869; Nov. 16, 1990, Pub. L. 101–589, title II, §251, 104 Stat. 2894; Oct. 28, 1991, Pub. L. 102–139, title III, 105 Stat. 774; Dec. 21, 1995, Pub. L. 104–66, title II, §2141(b), 109 Stat. 731.)
 
 #### References of Text
 
@@ -55,6 +51,8 @@ The provisions of title 5 governing appointments in the competitive service, ref
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
 
 #### Amendments
+
+1995—Subsec. (j). Pub. L. 104–66 struck out subsec. (j) which read as follows: “Starting with fiscal year 1990,the Foundation shall submit to the Congress in each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for the Foundation. The three-year budget shall include funding estimates for each major activity, including each scientific directorate, the United States Antarctic Program, the Science and Engineering Education Directorate, and the Program Development and Management activity.”
 
 1991—Subsec. (a)(3). Pub. L. 102–139 struck out “and when less than” after “in lieu of”.
 
@@ -88,7 +86,7 @@ Subsec. (d). Pub. L. 90–407, §12, struck out applicability to members of each
 
 Subsec. (e). Pub. L. 90–407, §12, struck out “the divisional committees and” after “may serve as members of”.
 
-Subsec. (f). Pub. L. 90–407, §12, redesignated subsec. (g) as (f), in cl. (2) substituted “United States” for “States, Territories, possessions, and the District ofColumbia”, in cl. (3) substituted “advance scientific research” for “advance basic research”, and in cl. (4) substituted “independent scientific research” for “independent basic research”. Former subsec. (f), exempting members of Board, divisional committees, or special commissions form provisions of former sections 281, 283, or 284 of title 18 or former section 99 of title 5, unless the act made unlawful by the aforementioned former sections directly involved or directly interested the Foundation, was struck out.
+Subsec. (f). Pub. L. 90–407, §12, redesignated subsec. (g) as (f), in cl. (2) substituted “United States” for “States, Territories, possessions, and the District of Columbia”, in cl. (3) substituted “advance scientific research” for “advance basic research”, and in cl. (4) substituted “independent scientific research” for “independent basic research”. Former subsec. (f), exempting members of Board, divisional committees, or special commissions form provisions of former sections 281, 283, or 284 of title 18 or former section 99 of title 5, unless the act made unlawful by the aforementioned former sections directly involved or directly interested the Foundation, was struck out.
 
 Subsec. (g). Pub. L. 90–407, §12, redesignated subsec. (h) as (g) and struck out “and, until such time as an appropriation is made available directly to the Foundation, for general administrative expenses of the Foundation without regard to limitations otherwise applicable to such funds” after “the purposes for which the transfer was made”. Former subsec. (g) redesignated (f).
 
@@ -116,7 +114,7 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 “(c)(1) In order to promote increased participation by minorities in careers in science and engineering, the National Science Foundation is authorized and directed to make available planning and study grants for programs including, but not limited to, Minority Centers for Graduate Education in Science and Engineering in accordance with this subsection.
 
-“(2) The grants for Minority Centers for Graduate Education shall be used to determine the need for and feasibility of developing Centers to be established at geographically dispersed educational institutions which—
+“(2) The grants for Minority Centers for Graduate Education shall be used to determine the need for andfeasibility of developing Centers to be established at geographically dispersed educational institutions which—
 
 &emsp;“(A) have substantial minority student enrollment;
 

@@ -68,13 +68,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
 
-1991—Subsec. (a)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
+<b>1991</b>—Subsec. (a)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
-1986—Subsec. (a). Pub. L. 99–335 inserted “and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title” at end of second sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted “and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title” at end of second sentence.
 
-1973—Subsec. (b). Pub. L. 93–181 substituted “an employee whose current employment is limited to less than 90 days is entitled” and “under successive appointments” for “an employee is entitled” and “under one or more appointments” respectively.
+<b>1973</b>—Subsec. (b). Pub. L. 93–181 substituted “an employee whose current employment is limited to less than 90 days is entitled” and “under successive appointments” for “an employee is entitled” and “under one or more appointments” respectively.
 
 #### Effective Date of 1992 Amendment
 

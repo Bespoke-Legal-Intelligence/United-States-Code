@@ -46,7 +46,7 @@ The Secretary shall submit biennially to the Committee on Energy and Commerce of
 
 &emsp;(2) the activities conducted under this subchapter, including an evaluation of such activities.
 
-> Such report shall contain such recommendations for legislation as the Secretary determines are needed to improve the programs authorized under such subparts.<sup>1</sup> The Office of Management and Budget may review such report before its submission to such Committees, but the Office may not revise the report or delay its submission beyond the date prescribed for its submission and may submit to such Committees its comments respecting such report.
+> Such report shall contain such recommendations for legislation as the Secretary determines are needed to improve the programs authorized under such subparts.<sup>1</sup> The Office of Management and Budget may review such report before its submission to such Committees, but the Officemay not revise the report or delay its submission beyond the date prescribed for its submission and may submit to such Committees its comments respecting such report.
 
 #### (d) “Public and community health personnel” defined
 
@@ -60,7 +60,7 @@ For purposes of this section, the term “public and community health personnel�
 
 &emsp;(4) the planning and development of a healthful environment and control of environmental health hazards.
 
-(July 1, 1944, ch. 373, title VII, §793, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat.2061; amended Oct. 27, 1992, Pub. L. 102–531, title III, §313(a)(6), 106 Stat. 3507.)
+(July 1, 1944, ch. 373, title VII, §793, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2061; amended Oct. 27, 1992, Pub. L. 102–531, title III, §313(a)(6), 106 Stat. 3507.)
 
 #### References in Text
 
@@ -78,7 +78,7 @@ Another prior section 793 of act July 1, 1944, was renumbered section 794 by Pub
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives changed to Committee on Commerce of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

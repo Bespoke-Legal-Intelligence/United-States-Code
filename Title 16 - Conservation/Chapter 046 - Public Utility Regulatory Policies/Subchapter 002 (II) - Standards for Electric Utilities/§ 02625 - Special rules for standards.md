@@ -94,7 +94,7 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 &emsp;(A) advertising which informs electric consumers how they can conserve energy or can reduce peak demand for electric energy,
 
-&emsp;(B) advertising required by law or regulation, including advertising required under part1 of title II of the National Energy Conservation Policy Act \[42 U.S.C. 8211 et seq.\],
+&emsp;(B) advertising required by law or regulation, including advertising required under part 1 of title II of the National Energy Conservation Policy Act \[42 U.S.C. 8211 et seq.\],
 
 &emsp;(C) advertising regarding service interruptions, safety measures, or emergency conditions,
 

@@ -14,7 +14,7 @@ Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a refer
 
 #### Termination of Suspension of Additional Rate on Coconut Oil
 
-By Proc. No. 2847, July 28, 1949, 14 F.R. 4773, 63 Stat. 1279, the President found that “adequate supplies of copra and coconut oil, the product of the Philippines, are readily available for processing in the United States” and that upon the expiration of 30 days from July 28, 1949, the suspension of the provisions of section 2470(a)(2) of the Internal Revenue Code of 1939 will be terminated.
+By Proc. No. 2847, July 28, 1949, 14 F.R. 4773, 63 Stat. 1279, the President found that “adequate supplies ofcopra and coconut oil, the product of the Philippines, are readily available for processing in the United States” and that upon the expiration of 30 days from July 28, 1949, the suspension of the provisions of section 2470(a)(2) of the Internal Revenue Code of 1939 will be terminated.
 
 #### Suspension Proclamation
 

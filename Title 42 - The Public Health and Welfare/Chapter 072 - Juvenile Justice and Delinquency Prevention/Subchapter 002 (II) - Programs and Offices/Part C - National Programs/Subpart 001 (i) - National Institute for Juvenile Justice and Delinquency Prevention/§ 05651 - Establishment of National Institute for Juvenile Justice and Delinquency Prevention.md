@@ -10,7 +10,7 @@ The National Institute for Juvenile Justice and Delinquency Prevention shall be 
 
 #### (c) Coordination of activities with National Institute of Justice
 
-The activities of the National Institute for Juvenile Justice and Delinquency Prevention shallbe coordinated with the activities of the National Institute of Justice in accordance with the requirements of section 5611(b) of this title.
+The activities of the National Institute for Juvenile Justice and Delinquency Prevention shall be coordinated with the activities of the National Institute of Justice in accordance with the requirements of section 5611(b) of this title.
 
 #### (d) Purpose of Institute
 
@@ -38,7 +38,7 @@ In addition to the other powers, express and implied, the Institute may—
 
 #### (f) National conference of member representatives from State advisory groups
 
-(1) The Administrator, acting through the Institute, shall provide technical and financial assistance to an eligible organization composed of member representatives of the State advisory groups appointed under section 5633(a)(3) of this title to assist such organization to carry out the functions specified in paragraph (2).
+(1) The Administrator, acting through the Institute, shall provide technical and financial assistance to an eligible organization composed of member representatives of the State advisory groups appointed under section 5633(a)(3) of thistitle to assist such organization to carry out the functions specified in paragraph (2).
 
 (2) To be eligible to receive such assistance, such organization shall agree to carry out activities that include—
 
@@ -76,7 +76,7 @@ Subsec. (f)(2)(B). Pub. L. 100–690, §7259(b)(1), (2), redesignated former par
 
 Subsec. (f)(2)(C) to (E). Pub. L. 100–690, §7259(b)(2), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, of par. (2).
 
-Subsec. (h). Pub. L. 100–690, §7259(c), struck out subsec. (h) which subjected the authorities of the Instituteunder this part to terms and conditions of section 5635(d) of this title.
+Subsec. (h). Pub. L. 100–690, §7259(c), struck out subsec. (h) which subjected the authorities of the Institute under this part to terms and conditions of section 5635(d) of this title.
 
 1984—Subsec. (b). Pub. L. 98–473, §631(b), substituted “section 5611(c) of this title” for “section 5611(f) of this title”.
 

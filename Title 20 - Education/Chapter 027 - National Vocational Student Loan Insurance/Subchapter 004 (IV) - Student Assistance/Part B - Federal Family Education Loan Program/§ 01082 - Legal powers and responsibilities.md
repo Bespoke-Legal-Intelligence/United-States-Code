@@ -18,11 +18,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 #### (b) Financial operations responsibilities
 
-The Secretary shall, with respect to the financial operations arising by reason of this part—
-
-&emsp;(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
-
-&emsp;(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.
+The Secretary shall, with respect to the financial operations arising by reason of this part prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31. The transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.
 
 #### (c) Data collection
 
@@ -34,7 +30,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;(C) The Secretary may designate such additional subcategories within the categories specified in subparagraph (B) of this paragraph as the Secretary deems appropriate.
 
-&emsp;(D) The category or designation of a loan shall not be changed for any reason, including its purchase or acquisition by a lender of another category.
+&emsp;(D) The category or designation of a loan shall not be changed for any reason, includingits purchase or acquisition by a lender of another category.
 
 #### (2) Collection and reporting requirements
 
@@ -76,9 +72,9 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(B) any eligible lender as defined in section 1085(d)(1)(D), (F), or (H) of this title;
 
-&emsp;&emsp;(C) a representative sample of eligible lenders under this part, upon the request of the Committee on Education and Labor of the House of Representatives or the Committee on Labor and Human Resources of the Senate, with respect to the payment of the special allowance under section 1087 1 of this title in order to evaluate the program authorized by this part; and
+&emsp;&emsp;(C) a representative sample of eligible lenders under this part, upon the request of the Committee on Education and Labor of the House of Representatives or the Committee on Labor and Human Resources of the Senate, with respect to the payment of the special allowance under section 1087–1 of this title in order to evaluate the program authorized by this part; and
 
-&emsp;&emsp;(D) any Authority required to file a plan for doing business under section 1087 1(d)<sup>1</sup> of this title.
+&emsp;&emsp;(D) any Authority required to file a plan for doing business under section 1087–1(d) <sup>1</sup> of this title.
 
 #### (2) Access to records
 
@@ -150,7 +146,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 > &emsp;the Secretary shall limit, suspend, or terminate that lender from participation in the insurance programs operated by guaranty agencies under this part.
 
-&emsp;(B) The Secretary shall not lift any such limitation, suspension, or termination until the Secretary is satisfied that the lender'sfailure under subparagraph (A)(i) of this paragraph or practice under subparagraph (A)(ii) of this paragraph has ceased and finds that there are reasonable assurances that the lender will—
+&emsp;(B) The Secretary shall not lift any such limitation, suspension, or termination until the Secretary is satisfied that the lender's failure under subparagraph (A)(i) of this paragraph or practice under subparagraph (A)(ii) of this paragraph has ceased and finds that there are reasonable assurances that the lender will—
 
 &emsp;&emsp;(i) exercise the necessary care and diligence,
 
@@ -226,7 +222,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Publication
 
-&emsp;The Secretary shall publicize models for providing the repayment assistance described in paragraph (1) and each year select entities that deserve recognition, through means devised by the Secretary, for the development of innovative plans for providing such assistance to employees.
+&emsp;The Secretary shall publicize models for providing the repayment assistance described inparagraph (1) and each year select entities that deserve recognition, through means devised by the Secretary, for the development of innovative plans for providing such assistance to employees.
 
 #### (3) Recommendation
 
@@ -344,29 +340,35 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89 329, title IV, §432, as added Pub. L. 99 498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100 50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101 239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102 325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103 208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716.)
 
 #### References in Text
 
-Section 1087 1(d) of this title, referred to in subsec. (f)(1)(D), was redesignated section 1087 1(e) by Pub. L. 103 66, title IV, §4103(1), Aug. 10, 1993, 107 Stat. 367.
+Section 1087–1(d) of this title, referred to in subsec. (f)(1)(D), was redesignated section 1087–1(e) by Pub. L. 103–66, title IV, §4103(1), Aug. 10, 1993, 107 Stat. 367.
 
-The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95 452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsec. (<i>l</i>)(3)(C), was in the original “this Act”, meaning Pub. L. 89 329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (<i>l</i>)(3)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 1082, Pub. L. 89 329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90 460, §3(d), Aug. 3, 1968, 82Stat. 638; Pub. L. 93 604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94 482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96 88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96 374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99 272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99 498.
+A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, §3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-1993—Subsec. (h)(2)(A), (3)(A). Pub. L. 103 208 amended directory language of Pub. L. 102 325, §425(d)(1). See 1992 Amendment notes below.
+1995—Subsec. (b). Pub. L. 104–66 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, with respect to the financial operations arising by reason of this part—
 
-1992—Subsec. (a)(1). Pub. L. 102 325, §425(a), inserted before semicolon at end “, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers”.
+&emsp;“(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-Subsecs. (a)(3), (g)(1). Pub. L. 102 325, §425(b)(1), (2), struck out “on the record” after “for a hearing”.
+&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity withgenerally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
 
-Subsec. (g)(2). Pub. L. 102 325, §425(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No civil penalty may be imposed under paragraph (1) of this subsection unless it is determined that the violation, failure, or substantial misrepresentation referred to in that paragraph resulted from—
+1993—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
+
+1992—Subsec. (a)(1). Pub. L. 102–325, §425(a), inserted before semicolon at end “, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers”.
+
+Subsecs. (a)(3), (g)(1). Pub. L. 102–325, §425(b)(1), (2), struck out “on the record” after “for a hearing”.
+
+Subsec. (g)(2). Pub. L. 102–325, §425(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No civil penalty may be imposed under paragraph (1) of this subsection unless it is determined that the violation, failure, or substantial misrepresentation referred to in that paragraph resulted from—
 
 &emsp;“(A)(i) a clear and consistent pattern or practice of violations, failures, or substantial misrepresentations in which the lender or guaranty agency did not maintain procedures reasonably adapted to avoid the violation, failure, or substantial misrepresentation;
 
@@ -376,45 +378,45 @@ Subsec. (g)(2). Pub. L. 102 325, §425(c)(1), amended par. (2) generally. Prior 
 
 &emsp;“(B) the violation, failure, or substantial misrepresentation is material.”
 
-Subsec. (g)(3). Pub. L. 102 325, §425(c)(2), substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
+Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
 
-Subsec. (g)(4). Pub. L. 102 325, §425(c)(3), inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
+Subsec. (g)(4). Pub. L. 102–325, §425(c)(3), inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
 
-Subsec. (h)(2)(A). Pub. L. 102 325, §425(d)(1), as amended by Pub. L. 103 208, §2(k)(2), in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction” for “The Secretary shall disqualify such lender from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
+Subsec. (h)(2)(A). Pub. L. 102–325, §425(d)(1), as amended by Pub. L. 103–208, §2(k)(2), in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction” for “The Secretary shall disqualify such lender from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
 
-Pub. L. 102 325, §425(b)(3), in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
+Pub. L. 102–325, §425(b)(3), in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
 
-Subsec. (h)(2)(B), (C). Pub. L. 102 325, §425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
+Subsec. (h)(2)(B), (C). Pub. L. 102–325, §425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
 
-Subsec. (h)(3)(A). Pub. L. 102 325, §425(d)(4), as amended by Pub. L. 103 208, §2(k)(3), in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanctions” for “The Secretary shall disqualify such institution from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
+Subsec. (h)(3)(A). Pub. L. 102–325, §425(d)(4), as amended by Pub. L. 103–208, §2(k)(3), in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanctions” for “The Secretary shall disqualify such institution from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
 
-Pub. L. 102 325, §425(b)(4), in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
+Pub. L. 102–325, §425(b)(4), in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
 
-Subsec. (h)(3)(B), (C). Pub. L. 102 325, §425(d)(5), (6), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
+Subsec. (h)(3)(B), (C). Pub. L. 102–325, §425(d)(5), (6), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
 
-Subsecs. (k) to (p). Pub. L. 102 325, §425(e), added subsecs. (k) to (p).
+Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 
-1989—Subsec. (j). Pub. L. 101 239 added subsec. (j).
+1989—Subsec. (j). Pub. L. 101–239 added subsec. (j).
 
-1987—Subsec. (f)(4). Pub. L. 100 50, §10(x), added par. (4).
+1987—Subsec. (f)(4). Pub. L. 100–50, §10(x), added par. (4).
 
-Subsec. (g)(2)(A)(i), (B). Pub. L. 100 50, §10(y), substituted “misrepresentation” for “representation”.
+Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Economic and Educational Opportunities of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103 208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102 325, except as otherwise provided, see section 5(a) of Pub. L. 103 208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100 50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99 498, see section 27 of Pub. L. 100 50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1078, 1087c, 1087hh, 1090, 1094 of this title.
 
-<i><sup>1</sup></i><i>See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

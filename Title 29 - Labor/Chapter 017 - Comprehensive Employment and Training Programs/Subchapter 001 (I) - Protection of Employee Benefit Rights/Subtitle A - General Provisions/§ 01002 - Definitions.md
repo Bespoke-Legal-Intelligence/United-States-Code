@@ -30,7 +30,7 @@ For purposes of this subchapter:
 
 (7) The term “participant” means any employee or former employee of an employer, or any member or former member of an employee organization, who is or may become eligible to receive a benefit of any type from an employee benefit plan which covers employees of such employer or members of such organization, or whose beneficiaries may be eligible to receive any such benefit.
 
-(8) The term “beneficiary” means a person designated by a participant, or by the terms ofan employee benefit plan, who is or may become entitled to a benefit thereunder.
+(8) The term “beneficiary” means a person designated by a participant, or by the terms of an employee benefit plan, who is or may become entitled to a benefit thereunder.
 
 (9) The term “person” means an individual, partnership, joint venture, corporation, mutual company, joint-stock company, trust, estate, unincorporated organization, association, or employee organization.
 
@@ -94,7 +94,7 @@ For purposes of this subchapter:
 
 (17) The term “separate account” means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
 
-(18) The term “adequate consideration” when used in part 4 of subtitle B of this subchapter means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15, or (ii) if the security is not traded on such a national securities exchange, aprice not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
+(18) The term “adequate consideration” when used in part 4 of subtitle B of this subchapter means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15, or (ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
 
 (19) The term “nonforfeitable” when used with respect to a pension benefit or right means a claim obtained by a participant or his beneficiary to that part of an immediate or deferred benefit under a pension plan which arises from the participant's service, which is unconditional, and which is legally enforceable against the plan. For purposes of this paragraph, a right to an accrued benefit derived from employer contributions shall not be treated as forfeitable merely because the plan contains a provision described in section 1053(a)(3) of this title.
 
@@ -140,7 +140,7 @@ For purposes of this subchapter:
 
 (29) The term “accrued liability” means the excess of the present value, as of a particular valuation date of a pension plan, of the projected future benefit costs and administrative expenses for all plan participants and beneficiaries over the present value of future contributions for the normal cost of all applicable plan participants and beneficiaries. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(30) The term “unfunded accrued liability” means the excess of the accrued liability, underan actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
+(30) The term “unfunded accrued liability” means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
 (31) The term “advance funding actuarial cost method” or “actuarial cost method” means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
@@ -284,7 +284,7 @@ The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 
 
 The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
@@ -294,7 +294,7 @@ The International Organizations Immunities Act, referred to in par. (32), is tit
 
 Sections 1453(b) and (c) of this title, referred to in par. (37)(E), was in the original “sections 4403(b) and (c)”, meaning sections 4403(b) and (c) of the Employee Retirement Income Security Act of 1974, which was translated as section 1453(b) and (c) of this title as the probable intent of Congress, in view of the Employee Retirement Income Security Act of 1974 not containing a section 4403 and the subject matter of section 4303 of the Act which is classified to section 1453(b) and (c) of this title.
 
-The Internal Revenue Code of 1954, referred to in par. (37)(E), was redesignated the Internal Revenue Code of1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in par. (37)(E), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
 For the effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in par. (37)(E), see section 1461(e) of this title.
 

@@ -10,7 +10,7 @@ If, within the one hundred and eighty day period referred to in subsection (a) o
 
 #### (c) Consistency with existing law
 
-For the purpose of this section, the negotiating teams may make any provision in the agreement or partial agreement not inconsistent with existing law. No such agreement or any provision in it shall result in a taking by the United States of private property compensable under the Fifth Amendment of the Constitution of the United States.
+For the purpose of this section, the negotiating teams may make any provision in the agreement or partial agreement not inconsistent with existing law. No such agreement or any provision in it shall result in a taking by the United States of private property compensable underthe Fifth Amendment of the Constitution of the United States.
 
 (Pub. L. 93–531, §3, Dec. 22, 1974, 88 Stat. 1713.)
 

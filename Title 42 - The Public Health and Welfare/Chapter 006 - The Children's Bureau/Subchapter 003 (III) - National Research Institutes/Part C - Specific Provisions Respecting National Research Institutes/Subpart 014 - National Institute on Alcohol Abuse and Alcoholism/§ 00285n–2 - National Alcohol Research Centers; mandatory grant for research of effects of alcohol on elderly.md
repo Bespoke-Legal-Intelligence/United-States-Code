@@ -52,7 +52,7 @@ Pub. L. 99–570, §4008(2), struck out “rental,” before “purchase”.
 
 Subsec. (b). Pub. L. 98–24, §2(b)(9)(B)(ii), (iii), struck out provision that no annual grant to any Center might exceed $1,500,000, and made a technical amendment to reference to section 292a of this title to reflect the transfer of this section to the Public Health Service Act.
 
-Subsec. (c). Pub. L. 98–24, §2(b)(9)(B)(iv), struck out subsec. (c) which authorized $6,000,000 for each of fiscal years ending Sept. 30, 1977, 1978, and 1979, $8,000,000 for fiscal year ending Sept. 30, 1980, and $9,000,000 for fiscal year ending Sept. 30, 1981.
+Subsec. (c). Pub. L. 98–24, §2(b)(9)(B)(iv), struck out subsec. (c) which authorized $6,000,000 for each of fiscalyears ending Sept. 30, 1977, 1978, and 1979, $8,000,000 for fiscal year ending Sept. 30, 1980, and $9,000,000 for fiscal year ending Sept. 30, 1981.
 
 1981—Subsec. (b). Pub. L. 97–35, §965(b), inserted provisions relating to grants made for fiscal years beginning after Sept. 30, 1981.
 

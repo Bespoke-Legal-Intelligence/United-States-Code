@@ -16,7 +16,7 @@ The Secretary of Health and Human Services (referred to in this part as the “S
 
 &emsp;&emsp;(A) be a community development corporation;
 
-&emsp;&emsp;(B) prepare and submit an application to the Secretary that shall include a strategic investment plan that identifies and describes the economic characteristics of thetarget area to be served, the types of business to be assisted and the impact of such assistance on low-income, underemployed, and unemployed individuals in the target area;
+&emsp;&emsp;(B) prepare and submit an application to the Secretary that shall include a strategic investment plan that identifies and describes the economic characteristics of the target area to be served, the types of business to be assisted and the impact of such assistance on low-income, underemployed, and unemployed individuals in the target area;
 
 &emsp;&emsp;(C) demonstrate previous experience in the development of low-income housing or community or business development projects in a low-income community and provide a record of achievement with respect to such projects; and
 

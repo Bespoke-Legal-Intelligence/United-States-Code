@@ -1,4 +1,4 @@
-### §4629 . Proceeds: disposition
+### §4629. Proceeds: disposition
 
 The proceeds of sales of the following shall be paid into the Treasury to the credit of the appropriation out of which they were purchased, and are available for the purposes of that appropriation:
 

@@ -20,7 +20,7 @@ For purposes of this section, for a plan year—
 
 (1) The plan sponsor of a plan in reorganization shall determine in writing the plan's resource benefit level for each insolvency year, based on the plan sponsor's reasonable projection of the plan's available resources and the benefits payable under the plan.
 
-(2) The suspension of benefit payments under this section shall, in accordance with regulations prescribed by the Secretary of the Treasury, apply in substantially uniform proportions to the benefits of all persons in pay status (within the meaning of section 1421(b)(6) of this title) under the plan, except that the Secretary of the Treasury may prescribe rules under which benefit suspensions for different participant groups may be varied equitably to reflect variations incontribution rates and other relevant factors including differences in negotiated levels of financial support for plan benefit obligations.
+(2) The suspension of benefit payments under this section shall, in accordance with regulations prescribed by the Secretary of the Treasury, apply in substantially uniform proportions to the benefits of all persons in pay status (within the meaning of section 1421(b)(6) of this title) under the plan, except that the Secretary of the Treasury may prescribe rules under which benefit suspensions for different participant groups may be varied equitably to reflect variations in contribution rates and other relevant factors including differences in negotiated levels of financial support for plan benefit obligations.
 
 (3) Notwithstanding paragraph (2), if a plan sponsor determines in writing a resource benefit level for a plan year which is below the level of basic benefits, the payment of all benefits other than basic benefits must be suspended for that plan year.
 
@@ -28,7 +28,7 @@ For purposes of this section, for a plan year—
 
 (B) For purposes of this paragraph, the term “excess resources” means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
 
-(5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary of the Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
+(5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to theparticipants and beneficiaries, in accordance with regulations prescribed by the Secretary of the Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
 
 (6) Except as provided in paragraph (4) or (5), a plan is not required to make retroactive benefit payments with respect to that portion of a benefit which was suspended under this section.
 
@@ -68,7 +68,7 @@ For purposes of this section, for a plan year—
 
 Section 108(c)(3) of Pub. L. 96–364 provided that:
 
-“(A) For the purpose of determining the withdrawal liability of an employer under title IV of the Employee Retirement Income Security Act of 1974 \[this subchapter\] from a plan that terminates while the plan is insolvent (within the meaning of section 4245 of such Act \[this section\]), the plan's unfunded vested benefits shall be reduced by an amount equal to the sum of alloverburden credits that were applied in determining the plan's accumulated funding deficiency for all plan years preceding the first plan year in which the plan is insolvent, plus interest thereon.
+“(A) For the purpose of determining the withdrawal liability of an employer under title IV of the Employee Retirement Income Security Act of 1974 \[this subchapter\] from a plan that terminates while the plan is insolvent (within the meaning of section 4245 of such Act \[this section\]), the plan's unfunded vested benefits shall be reduced by an amount equal to the sum of all overburden credits that were applied in determining the plan's accumulated funding deficiency for all plan years preceding the first plan year in which the plan is insolvent, plus interest thereon.
 
 “(B) The provisions of subparagraph (A) apply only if—
 

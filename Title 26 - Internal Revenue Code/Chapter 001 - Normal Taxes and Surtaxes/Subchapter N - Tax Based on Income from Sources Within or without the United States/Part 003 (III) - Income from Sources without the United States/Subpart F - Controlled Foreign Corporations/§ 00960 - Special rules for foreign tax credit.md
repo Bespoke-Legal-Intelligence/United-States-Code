@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount by which the limitation under section 904(a) for such taxable year was increased by reason of the total amount of the inclusions in gross income under section 951(a) for such taxable year, over
 
-&emsp;&emsp;&emsp;(ii) the amount of any income, war profits, and excess profits taxes paid, or deemed paid, or accrued to any foreign country or possession of the United States which were allowable as a credit under section 901 for such taxable year and which would not have been allowable but for the inclusions in gross income described in clause (i).
+&emsp;&emsp;&emsp;(ii) the amount of any income, war profits, and excess profits taxes paid, or deemed paid, or accrued to any foreign country or possession of the United States which were allowable as a credit under section 901 for such taxable year and which would not have been allowable but for theinclusions in gross income described in clause (i).
 
 > &emsp;&emsp;Proper reductions in the amount added to the account under the preceding sentence for any taxable year shall be made for any increase in the credit allowable under section 901 for such taxable year by reason of a carryback if such increase would not have been allowable but for the inclusions in gross income described in clause (i).
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) chose to have the benefits of subpart A of this part for a taxable year in which he was required under section 951(a) to include in his gross income an amount in respect of a controlled foreign corporation, and
 
-&emsp;&emsp;(B) does not choose to have the benefits of subpart A of this part for the taxable year inwhich he receives a distribution or amount which is excluded from gross income under section 959(a) and which is attributable to earnings and profits of the controlled foreign corporation which was included in his gross income for the taxable year referred to in subparagraph (A),
+&emsp;&emsp;(B) does not choose to have the benefits of subpart A of this part for the taxable year in which he receives a distribution or amount which is excluded from gross income under section 959(a) and which is attributable to earnings and profits of the controlled foreign corporation which was included in his gross income for the taxable year referred to in subparagraph (A),
 
 > &emsp;no deduction shall be allowed under section 164 for the taxable year in which such distribution or amount is received for any income, war profits, or excess profits taxes paid or accrued to any foreign country or to any possession of the United States on or with respect to such distribution or amount.
 
@@ -96,7 +96,7 @@ Section 13233(b)(2) of Pub. L. 103–66 provided that: “The amendment made by 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to distributions by foreign corporations out of, and to inclusions under section 951(a) of this title attributable to, earnings and profits for taxable years beginning after Dec. 31, 1986, see section 1202(e) of Pub. L. 99–514, set out as a note under section 902 of this title.
+Amendment by Pub. L. 99–514 applicable to distributions by foreign corporations out of, and to inclusionsunder section 951(a) of this title attributable to, earnings and profits for taxable years beginning after Dec. 31, 1986, see section 1202(e) of Pub. L. 99–514, set out as a note under section 902 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -160,7 +160,7 @@
 
 Any authorization granted under this section shall be under such terms and conditions as the Commission may prescribe.
 
-(Pub. L. 95 621, title III, §311, Nov. 9, 1978, 92 Stat. 3388.)
+(Pub. L. 95–621, title III, §311, Nov. 9, 1978, 92 Stat. 3388.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@
 
 &emsp;(H) other measures likely to reduce costs and improve rail transportation.
 
-(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11910(a)(1) of this title. When appropriate, the designated officer or employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
+(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11904 of this title. When appropriate, the designated officer or employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
 
 (d)(1) When requested by a rail carrier, the Secretary may hold conferences on and mediate disputes resulting from a proposed unification or coordination project. The Secretary may invite to a conference—
 
@@ -38,9 +38,9 @@
 
 (2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion at the conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
 
-(e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Interstate Commerce Commission under section 11343(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11344(b) of this title. When the proposal is the subject of an application and proceeding before the Commission, the Secretary may appear in any proceeding related to the application.
+(e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Interstate Commerce Commission under section 11323(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title. When the proposal is the subject of an application and proceeding before the Commission, the Secretary may appear in any proceeding related to the application.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2429.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2429; Pub. L. 104–88, title III, §308(b), Dec. 29, 1995, 109 Stat. 946.)
 
 Historical and Revision Notes
 
@@ -92,7 +92,21 @@ In subsection (e), the words “in his judgment” are omitted as unnecessary an
 
 Section 203 of the Regional Rail Reorganization Act of 1973, referred to in subsec. (c)(2), which is classified to section 713 of Title 45, Railroads, was amended generally by Pub. L. 97–35, title XI, §1149, Aug. 13, 1981, 95 Stat. 675, and as so amended does not contain a subsec. (c). For further details, see the fifth par. of Historical and Revision Notes above.
 
+#### Amendments
+
+1995—Subsec. (c)(2). Pub. L. 104–88, §308(b)(1), substituted “11904” for “11910(a)(1)”.
+
+Subsec. (e). Pub. L. 104–88, §308(b)(2), substituted “11323(a)” for “11343(a)” and “11324(b)” for “11344(b)”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 306, 10904, 11344, 11346 of this title; title 45 section 903.
+This section is referred to in sections 306, 11324 of this title; title 45 section 903.
 

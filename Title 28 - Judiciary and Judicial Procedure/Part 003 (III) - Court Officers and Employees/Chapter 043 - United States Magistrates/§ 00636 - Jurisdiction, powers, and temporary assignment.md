@@ -1,0 +1,152 @@
+### §636. Jurisdiction, powers, and temporary assignment
+
+(a) Each United States magistrate serving under this chapter shall have within the territorial jurisdiction prescribed by his appointment—
+
+&emsp;(1) all powers and duties conferred or imposed upon United States commissioners by law or by the Rules of Criminal Procedure for the United States District Courts;
+
+&emsp;(2) the power to administer oaths and affirmations, issue orders pursuant to section 3142 of title 18 concerning release or detention of persons pending trial, and take acknowledgements, affidavits, and depositions;
+
+&emsp;(3) the power to conduct trials under section 3401, title 18, United States Code, in conformity with and subject to the limitations of that section,<sup>1</sup> and
+
+&emsp;(4) the power to enter a sentence for a misdemeanor or infraction with the consent of the parties.
+
+(b)(1) Notwithstanding any provision of law to the contrary—
+
+&emsp;(A) a judge may designate a magistrate to hear and determine any pretrial matter pending before the court, except a motion for injunctive relief, for judgment on the pleadings, for summary judgment, to dismiss or quash an indictment or information made by the defendant, to suppress evidence in a criminal case, to dismiss or to permit maintenance of a class action, to dismiss for failure to state a claim upon which relief can be granted, and to involuntarily dismiss an action. A judge of the court may reconsider any pretrial matter under this subparagraph (A) where it has been shown that the magistrate's order is clearly erroneous or contrary to law.
+
+&emsp;(B) a judge may also designate a magistrate to conduct hearings, including evidentiary hearings, and to submit to a judge of the court proposed findings of fact and recommendations for the disposition, by a judge of the court, of any motion excepted in subparagraph (A), of applications for posttrial <sup>2</sup> relief made by individuals convicted of criminal offenses and of prisoner petitions challenging conditions of confinement.
+
+&emsp;(C) the magistrate shall file his proposed findings and recommendations under subparagraph (B) with the court and a copy shall forthwith be mailed to all parties.
+
+> Within ten days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court. A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate. The judge may also receive further evidence or recommit the matter to the magistrate with instructions.
+
+(2) A judge may designate a magistrate to serve as a special master pursuant to the applicable provisions of this title and the Federal Rules of Civil Procedure for the United States district courts. A judge may designate a magistrate to serve as a special master in any civil case, upon consent of the parties, without regard to the provisions of rule 53(b) of the Federal Rules of Civil Procedure for the United States district courts.
+
+(3) A magistrate may be assigned such additional duties as are not inconsistent with the Constitution and laws of the United States.
+
+(4) Each district court shall establish rules pursuant to which the magistrates shall discharge their duties.
+
+(c) Notwithstanding any provision of law to the contrary—
+
+&emsp;(1) Upon the consent of the parties, a full-time United States magistrate or a part-time United States magistrate who serves as a full-time judicial officer may conduct any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case, when specially designated to exercise such jurisdiction by the district court or courts he serves. Upon the consent of the parties, pursuant to their specific written request, any other part-time magistrate may exercise such jurisdiction, if such magistrate meets the bar membership requirements set forth in section 631(b)(1) and the chief judge of the district court certifies that a full-time magistrate is not reasonably available in accordance with guidelines established by the judicial council of the circuit. When there is more than one judge of a district court, designation under this paragraph shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge.
+
+&emsp;(2) If a magistrate is designated to exercise civil jurisdiction under paragraph (1) of this subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate may again advise the parties of the availability of the magistrate, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrates shall include procedures to protect the voluntariness of the parties’ consent.
+
+&emsp;(3) Upon entry of judgment in any case referred under paragraph (1) of this subsection, an aggrieved party may appeal directly to the appropriate United States court of appeals from the judgment of the magistrate in the same manner as an appeal from any other judgment of a district court. In this circumstance, the consent of the parties allows a magistrate designated to exercise civil jurisdiction under paragraph (1) of this subsection to direct the entry of a judgment of the district court in accordance with the Federal Rules of Civil Procedure. Nothing in this paragraph shall be construed as a limitation of any party's right to seek review by the Supreme Court of the United States.
+
+&emsp;(4) Notwithstanding the provisions of paragraph (3) of this subsection, at the time of reference to a magistrate, the parties may further consent to appeal on the record to a judge of the district court in the same manner as on an appeal from a judgment of the district court to a court of appeals. Wherever possible the local rules of the district court and the rules promulgated by the conference shall endeavor to make such appeal inexpensive. The district court may affirm, reverse, modify, or remand the magistrate's judgment.
+
+&emsp;(5) Cases in the district courts under paragraph (4) of this subsection may be reviewed by the appropriate United States court of appeals upon petition for leave to appeal by a party stating specific objections to the judgment. Nothing in this paragraph shall be construed to be a limitation on any party's right to seek review by the Supreme Court of the United States.
+
+&emsp;(6) The court may, for good cause shown on its own motion, or under extraordinary circumstances shown by any party, vacate a reference of a civil matter to a magistrate under this subsection.
+
+&emsp;(7) The magistrate shall, subject to guidelines of the Judicial Conference, determine whether the record taken pursuant to this section shall be taken by electronic sound recording, by a court reporter, or by other means.
+
+(d) The practice and procedure for the trial of cases before officers serving under this chapter, and for the taking and hearing of appeals to the district courts, shall conform to rules promulgated by the Supreme Court pursuant to section 2072 of this title.
+
+(e) In a proceeding before a magistrate, any of the following acts or conduct shall constitute a contempt of the district court for the district wherein the magistrate is sitting: (1) disobedience or resistance to any lawful order, process, or writ; (2) misbehavior at a hearing or other proceeding, or so near the place thereof as to obstruct the same; (3) failure to produce, after having been ordered to do so, any pertinent document; (4) refusal to appear after having been subpenaed or, upon appearing, refusal to take the oath or affirmation as a witness, or, having taken the oath or affirmation, refusal to be examined according to law; or (5) any other act or conduct which if committed before a judge of the district court would constitute contempt of such court. Upon the commission of any such act or conduct, the magistrate shall forthwith certify the facts to a judge of the district court and may serve or cause to be served upon any person whose behavior is brought into question under this section an order requiring such person to appear before a judge of that court upon a day certain to show cause why he should not be adjudged in contempt by reason of the facts so certified. A judge of the district court shall thereupon, in a summary manner, hear the evidence as to the act or conduct complained of and, if it is such as to warrant punishment, punish such person in the same manner and to the same extent as for a contempt committed before a judge of the court, or commit such person upon the conditions applicable in the case of defiance of the process of the district court or misconduct in the presence of a judge of that court.
+
+(f) In an emergency and upon the concurrence of the chief judges of the districts involved, a United States magistrate may be temporarily assigned to perform any of the duties specified in subsection (a) or (b) of this section in a judicial district other than the judicial district for which he has been appointed. No magistrate shall perform any of such duties in a district to which he has been temporarily assigned until an order has been issued by the chief judge of such district specifying (1) the emergency by reason of which he has been transferred, (2) the duration of his assignment, and (3) the duties which he is authorized to perform. A magistrate so assigned shall not be entitled to additional compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of his duties in accordance with section 635.
+
+(g) A United States magistrate may perform the verification function required by section 4107 of title 18, United States Code. A magistrate may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109 of title 18, United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
+
+(h) A United States magistrate who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistrate, shall not apply to the recall of a retired magistrate under this subsection or section 375 of this title. Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate under this subsection or section 375 of this title unless suchretired magistrate met such requirement upon appointment or reappointment as a magistrate under section 631.
+
+(June 25, 1948, ch. 646, 62 Stat. 917; Oct. 17, 1968, Pub. L. 90–578, title I, §101, 82 Stat. 1113; Mar. 1, 1972, Pub. L. 92–239, §§1, 2, 86 Stat. 47; Oct. 21, 1976, Pub. L. 94–577, §1, 90 Stat. 2729; Oct. 28, 1977, Pub. L. 95–144, §2, 91 Stat. 1220; Oct. 10, 1979, Pub. L. 96–82, §2, 93 Stat. 643; Oct. 12, 1984, Pub. L. 98–473, title II, §208, 98 Stat. 1986; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(29)(B), 98 Stat. 3359; Nov. 14, 1986, Pub. L. 99–651, title II, §201(a)(2), 100 Stat. 3647; Nov. 15, 1988, Pub. L. 100–659, §4(c), 102 Stat. 3918; Nov. 18, 1988, Pub. L. 100–690, title VII, §7322, 102 Stat. 4467; Nov. 19, 1988, Pub. L. 100–702, title IV, §404(b)(1), title X, §1014, 102 Stat. 4651, 4669; Dec. 1, 1990, Pub. L. 101–650, title III, §308(a), 104 Stat. 5112.)
+
+#### Historical and Revision Notes
+
+<i>Prior jurisdiction, powers, and procedure provisions in section 632</i>.—Based on sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation (May 7, 1894, ch. 72, §5, 28 Stat. 74; Apr. 20, 1904, ch. 1400, §6, 33 Stat. 188; Mar. 2, 1907, ch. 2516, §§1, 2, 34 Stat. 1218; Mar. 3, 1911, ch. 230, 36 Stat. 1086; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Apr. 19, 1930, ch. 200, §6, 4 Stat. 228; May 2, 1932, ch. 155, §3, 47 Stat. 145; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§5, 6, 50 Stat. 702; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Apr. 23, 1946, ch. 202, §2, 60 Stat. 120; June 24, 1946, ch. 463, §2, 60 Stat. 303).
+
+Section consolidates provisions of sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., relating to jurisdiction and powers of park commissioners with necessary changes in arrangement and phraseology. For other provisions of such sections, see Distribution Table.
+
+The provisions of sections 27, 66, 67, 68, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., relating to the powers of park commissioners respecting issuance of warrants of arrest and other process were omitted and are recommended for repeal as covered by sections 3041 and 3141 of revised title 18 (H.R. 1600, 80th Cong.), and Rules, 4, 5(c), and 9 of the new Federal Rules of Criminal Procedure.
+
+Provisions in sections 27, 66, 67, 68, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., for arrest without warrant for violation of law or regulation within a national park were also omitted and are recommended for repeal as covered by section 3054 of revised title 18 (H.R. 2200, 79th Cong.), Rule 4 of the Federal Rules of Criminal Procedure and Rule 4 of the Federal Rules of Civil Procedure.
+
+#### Senate Revision Amendment
+
+As finally enacted, section 158b of Title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §2, 61 Stat. 92, was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. No change in the text of the section was necessary as the result of inclusion of such section 158b. See 80th Congress Senate Report No. 1559.
+
+As finally enacted, act May 15, 1947, ch. 57, 61 Stat. 92, which amended section 403c–5 of Title 16, U.S.C., was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+
+<i>Prior oaths, acknowledgments, affidavits, and depositions provisions in section 637</i>.—Based on title 28, U.S.C., 1940 ed., §§525, 758 (R.S. §945; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
+
+This section consolidates part of section 525 with section 758 of title 28, U.S.C., 1940 ed. The provision of said section 525 empowering clerks and deputy clerks to administer oaths is incorporated in section 953 of this title. The provision of said section 758 that acknowledgments of bail and affidavits should have the same effect as if taken before judges was omitted as surplusage.
+
+The exception as to Alaska, provided in section 591 of title 28, U.S.C., 1940 ed., and referred to in section 525 of title 28, U.S.C., 1940 ed., was omitted as unnecessary since section 108 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 1119 of the Compiled Laws of Alaska, 1933, give commissioners all powers of notaries public. See also reviser's notes to sections 631 and 633 of this title.
+
+Word “acknowledgments” was inserted to make it clear that commissioners, like justices of the peace, can take acknowledgments as well as oaths, affidavits, etc.
+
+The authority to take depositions was included to conform to Federal Rules of Civil Procedure, Rule 28.
+
+Changes were made in phraseology.
+
+#### References in Text
+
+The Rules of Criminal Procedure for the United States District Courts, referred to in subsec. (a)(1), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+The Federal Rules of Civil Procedure for the United States district courts, referred to in subsecs. (b)(2) and (c)(3), are set out in the Appendix to this title.
+
+#### Amendments
+
+1990—Subsec. (c)(2). Pub. L. 101–650 substituted “the availability of a magistrate to exercise” for “their right to consent to the exercise of” in first sentence and amended third sentence generally. Prior to amendment, third sentence read as follows: “Thereafter, neither the district judge nor the magistrate shall attempt to persuade or induce any party to consent to reference of any civil matter to a magistrate.”
+
+1988—Subsec. (a)(4). Pub. L. 100–690 added par. (4).
+
+Subsec. (c)(7). Pub. L. 100–702, §1014, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The magistrate shall determine, taking into account the complexity of the particular matter referred to the magistrate, whether the record in the proceeding shall be taken, pursuant to section 753 of this title, by electronic sound recording means, by a court reporter appointed or employed by the court to take a verbatim record by shorthand or by mechanical means, or by an employee of the court designated by the court to take such a verbatim record. Notwithstanding the magistrate's determination, (A) the proceeding shall be taken down by a court reporter if any party so requests, (B) the proceeding shall be recorded by a means other than a court reporter if all parties so agree, and (C) no record of the proceeding shall be made if all parties so agree. Reporters referred to in this paragraph may be transferred for temporary service in any district court of the judicial circuit for reporting proceedings under this subsection, or for other reporting duties in such court.”
+
+Subsec. (d). Pub. L. 100–702, §404(b)(1), substituted “section 2072 of this title” for “section 3402 of title 18, United States Code”.
+
+Subsec. (h). Pub. L. 100–659 inserted “section 377 of this title or in” after “annuity set forth in” and “which are applicable to such magistrate” after “title 5” in second sentence.
+
+1986—Subsec. (h). Pub. L. 99–651 added subsec. (h).
+
+1984—Subsec. (a)(2). Pub. L. 98–473 substituted “issue orders pursuant to section 3142 of title 18 concerning release or detention of persons pending trial” for “impose conditions of release under section 3146 of title 18”.
+
+Subsec. (c)(4). Pub. L. 98–620 struck out “expeditious and” before “inexpensive”.
+
+1979—Subsec. (c). Pub. L. 96–82, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsecs. (d) to (g). Pub. L. 96–82, §2(1), redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+
+1977—Subsec. (f). Pub. L. 95–144 added subsec. (f).
+
+1976—Subsec. (b). Pub. L. 94–577 completely revised provisions under which additional duties may be assigned to a United States Magistrate by allowing, among other additional duties, the assignment of pretrial matters, dispositive motions, and service as a special master.
+
+1972—Pub. L. 92–239, §2, substituted “Jurisdiction, powers, and temporary assignment” for “Jurisdiction and powers” in section catchline.
+
+Subsec. (e). Pub. L. 92–239, §1, added subsec. (e).
+
+1968—Pub. L. 90–578 substituted provisions declaratory of jurisdiction and powers of United States magistrates for prior provisions respecting rendition of accounts by United States commissioners.
+
+#### Change of Name
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+
+#### Effective Date of 1988 Amendments
+
+Amendment by section 404(b)(1) of Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as a note under section 2071 of this title.
+
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrates \[now United States magistrate judges\] who retire on or after Nov. 15, 1988, with exception for judges and magistrates retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, set out as an Effective Date note under section 377 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L. 99–651, set out as a note under section 155 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of this title.
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 374, 375, 376, 377, 631, 633 of this title; title 7 section 2149; title 19 section 1915; title 46 sections 4311, 12309.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “post-trial”.</i>
+
